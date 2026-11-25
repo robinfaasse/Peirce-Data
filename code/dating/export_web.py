@@ -62,8 +62,61 @@ def export_gbm(gbm):
     return {"baseline": float(np.ravel(gbm._baseline_prediction)[0]), "trees": trees}
 
 
+def dataset_stats():
+    """Numbers and distributions for the Dataset tab of the page."""
+    from data import DATA, load as load_data
+    index = pd.read_csv(os.path.join(DATA, "index.csv"))
+    overview = pd.read_csv(os.path.join(DATA, "manuscripts_combined_overview.csv"))
+    df = load_data()
+    train, undated = df[df["train"]], df[~df["has_date"]]
+    excluded = df[df["has_date"] & ~df["train"]]
+    n_pages = int(overview["iiif_pages_with_text"].sum() + overview["microfilm_pages_with_text"].sum())
+
+    def by(frame, col, keys):
+        counts = frame[col].value_counts()
+        return [int(counts.get(k, 0)) for k in keys]
+
+    years = list(range(1850, 1915))
+    year_counts = np.floor(train["target"]).astype(int).value_counts()
+    edges = [0, 100, 300, 1000, 3000, 10000, 30000, np.inf]
+    labels = ["<100", "100-300", "300-1k", "1k-3k", "3k-10k", "10k-30k", ">30k"]
+    lengths = lambda f: pd.cut(f["n_words"], edges, labels=labels, right=False).value_counts()
+    cats = df["category"].value_counts().index.tolist()
+    spans = train["span"].value_counts()
+    sources = ["irvine", "houghton", "robin"]
+    return {
+        "funnel": [
+            {"label": "Catalogue records", "n": int(len(index)), "note": "index.csv: every record of MS Am 1632"},
+            {"label": "With a transcription folder", "n": int(index["package_path"].notna().sum()), "note": "the rest were never transcribed"},
+            {"label": "With text after cleaning", "n": int((overview["n_words"] > 0).sum()), "note": "folders with only blank pages dropped"},
+            {"label": "Written by Peirce (MS)", "n": int(len(df)), "note": "letters (L-) left out"},
+            {"label": "With a date", "n": int(df["has_date"].sum()), "note": "dated by Irvine, Houghton or Robin"},
+            {"label": "Sources agree within 4 years", "n": int(len(train)), "note": "the training set"},
+        ],
+        "undated": int(len(undated)), "excluded_span": int(len(excluded)),
+        "letters": int((overview["folder"].str.startswith("L") & (overview["n_words"] > 0)).sum()),
+        "n_pages": n_pages, "n_words": int(df["n_words"].sum()),
+        "median_words_train": int(train["n_words"].median()),
+        "median_words_undated": int(undated["n_words"].median()),
+        "years": years, "year_counts": [int(year_counts.get(y, 0)) for y in years],
+        "median_year": float(train["target"].median()),
+        "length_labels": labels,
+        "length_train": [int(lengths(train)[l]) for l in labels],
+        "length_undated": [int(lengths(undated)[l]) for l in labels],
+        "categories": [c.split(". ", 1)[-1] for c in cats],
+        "category_train": by(train, "category", cats), "category_undated": by(undated, "category", cats),
+        "source_train": by(train, "source_used", ["iiif", "microfilm"]),
+        "source_undated": by(undated, "source_used", ["iiif", "microfilm"]),
+        "date_sources": {s: int(train[f"{s}_mid"].notna().sum()) for s in sources},
+        "two_sources": int((train[[f"{s}_mid" for s in sources]].notna().sum(axis=1) >= 2).sum()),
+        "span_counts": [int(spans.get(k, 0)) for k in range(4)],
+    }
+
+
 def main():
     os.makedirs(OUT, exist_ok=True)
+    with open(os.path.join(OUT, "dataset.json"), "w") as f:
+        json.dump(dataset_stats(), f, indent=1)
     ridge_m, style_m, hybrid_m = load("tfidf_ridge"), load("style_gbm"), load("hybrid_gbm")
     ridge = ridge_m.estimator_.single_estimator_
     style = style_m.estimator_.single_estimator_

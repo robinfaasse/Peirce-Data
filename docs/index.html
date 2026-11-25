@@ -65,11 +65,49 @@ textarea { width: 100%; min-height: 220px; resize: vertical; padding: 12px; font
 .cv { margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--border); color: var(--muted); font-size: .8rem; }
 footer { color: var(--muted); font-size: .82rem; margin-top: 28px; }
 footer a { color: var(--accent); }
+
+/* view switch */
+.views { display: flex; gap: 20px; border-bottom: 1px solid var(--border); margin: 12px 0 20px; }
+.views a { color: var(--muted); text-decoration: none; padding: 8px 0; border-bottom: 2px solid transparent; margin-bottom: -1px; font-weight: 600; }
+.views a[aria-current="page"] { color: var(--text); border-bottom-color: var(--accent); }
+/* dataset tab */
+:root { --s1: #257de0; --s2: #f47230; --grid: #e7e3da; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --s1: #338ced; --s2: #e76624; --grid: #2c3035; } }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin-bottom: 24px; }
+.tile { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; }
+.tile .num { font-size: 1.7rem; font-weight: 700; font-variant-numeric: tabular-nums; line-height: 1.2; }
+.tile .lab { color: var(--muted); font-size: .85rem; }
+.block { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 20px; margin-bottom: 20px; }
+.block h2 { font-size: 1.1rem; margin: 0 0 4px; }
+.block .lead { color: var(--muted); font-size: .9rem; margin: 0 0 12px; }
+.block ol { padding-left: 20px; margin: 8px 0 0; }
+.block li { margin-bottom: 8px; }
+.block code { font-size: .85em; }
+.legend { display: flex; gap: 16px; font-size: .85rem; color: var(--muted); margin: 4px 0 8px; flex-wrap: wrap; }
+.legend span::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; background: var(--c); vertical-align: -1px; }
+svg.viz { width: 100%; height: auto; display: block; overflow: visible; }
+svg.viz text { fill: var(--muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+svg.viz text.ink { fill: var(--text); }
+svg.viz .hit { fill: transparent; cursor: default; }
+svg.viz .row:hover .hit { fill: var(--accent-softer); }
+details { margin-top: 10px; font-size: .85rem; }
+details summary { color: var(--accent); cursor: pointer; }
+details table { border-collapse: collapse; margin-top: 8px; font-variant-numeric: tabular-nums; }
+details th, details td { border-bottom: 1px solid var(--border); padding: 3px 12px 3px 0; text-align: left; }
+details td.n { text-align: right; }
+.tip { position: fixed; pointer-events: none; background: var(--text); color: var(--bg); font-size: .8rem; padding: 6px 9px;
+  border-radius: 6px; white-space: nowrap; z-index: 10; display: none; }
 </style>
 </head>
 <body>
 <main>
   <h1>Peirce manuscript dating</h1>
+  <nav class="views" aria-label="Sections">
+    <a href="#estimate" data-view="estimate" aria-current="page">Estimate a date</a>
+    <a href="#dataset" data-view="dataset">About the dataset</a>
+  </nav>
+
+  <section id="view-estimate">
   <p class="sub">Upload or paste a manuscript to get the year estimate from each of the three models, with an 80% and a 95% range. Everything runs in your browser: your text is not sent anywhere.</p>
 
   <div class="panel">
@@ -105,6 +143,12 @@ footer a { color: var(--accent); }
   </div>
 
   <div id="result"></div>
+  </section>
+
+  <section id="view-dataset" class="hidden" aria-live="polite">
+    <p class="sub">Where the 914 training manuscripts come from, how the text was cleaned, and what the data look like.</p>
+    <div id="dataset">Loading...</div>
+  </section>
 
   <footer>
     Models trained on 914 dated manuscripts; scores are from grouped 5-fold cross-validation.
@@ -115,6 +159,7 @@ footer a { color: var(--accent); }
 </main>
 
 <script src="engine.js"></script>
+<script src="dataset.js"></script>
 <script>
 const state = { tab: "paste", files: [], folder: [] };
 const $ = (id) => document.getElementById(id);
