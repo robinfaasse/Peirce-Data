@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Peirce Manuscript Dating</title>
+<style>
+:root {
+  --bg: #f6f4ef; --surface: #ffffff; --text: #1f2328; --muted: #5f6670;
+  --border: #dcd8cf; --accent: #2a6f97; --accent-soft: #c9dfec; --accent-softer: #e6f0f6;
+  --warn-bg: #fff4d6; --warn-text: #6b4e00; --err-bg: #fde4e1; --err-text: #8a1c12;
+  --best: #2f7d4f;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #15171a; --surface: #1e2125; --text: #e6e6e3; --muted: #9aa1a9;
+    --border: #33373d; --accent: #6fb3dc; --accent-soft: #2c4a5e; --accent-softer: #22323d;
+    --warn-bg: #3a3014; --warn-text: #f0d68a; --err-bg: #3f1d1a; --err-text: #f3a59c;
+    --best: #6cc191;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text);
+  font: 16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { max-width: 860px; margin: 0 auto; padding: 32px 16px 64px; }
+h1 { font-size: 1.6rem; margin: 0 0 4px; }
+.sub { color: var(--muted); margin: 0 0 24px; }
+.panel { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 20px; }
+.tabs { display: flex; gap: 4px; margin-bottom: 16px; flex-wrap: wrap; }
+.tabs button { border: 1px solid var(--border); background: transparent; color: var(--text);
+  padding: 6px 14px; border-radius: 999px; cursor: pointer; font: inherit; font-size: .9rem; }
+.tabs button[aria-selected="true"] { background: var(--accent); border-color: var(--accent); color: var(--surface); }
+textarea { width: 100%; min-height: 220px; resize: vertical; padding: 12px; font: 14px/1.5 ui-monospace, Menlo, monospace;
+  background: var(--bg); color: var(--text); border: 1px solid var(--border); border-radius: 8px; }
+.drop { border: 2px dashed var(--border); border-radius: 8px; padding: 32px 16px; text-align: center; color: var(--muted); }
+.drop.over { border-color: var(--accent); background: var(--accent-softer); }
+.drop label { color: var(--accent); cursor: pointer; text-decoration: underline; }
+.drop input { display: none; }
+.filelist { font-size: .85rem; color: var(--muted); margin-top: 10px; overflow-wrap: anywhere; }
+.actions { display: flex; align-items: center; gap: 12px; margin-top: 16px; }
+.go { background: var(--accent); color: var(--surface); border: 0; border-radius: 8px; padding: 10px 22px;
+  font: inherit; font-weight: 600; cursor: pointer; }
+.go:disabled { opacity: .5; cursor: default; }
+.status { color: var(--muted); font-size: .9rem; }
+.hidden { display: none; }
+#result { margin-top: 24px; }
+.meta { color: var(--muted); font-size: .9rem; margin-bottom: 12px; }
+.note { padding: 10px 14px; border-radius: 8px; margin-bottom: 10px; font-size: .9rem; }
+.note.warn { background: var(--warn-bg); color: var(--warn-text); }
+.note.err { background: var(--err-bg); color: var(--err-text); }
+.chart { width: 100%; height: auto; display: block; margin: 8px 0 4px; }
+.chart + .meta { margin-bottom: 20px; font-size: .8rem; }
+.chart text { fill: var(--muted); font-size: 12px; }
+.chart .lbl { fill: var(--text); font-size: 13px; }
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 12px; }
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 16px; }
+.card.best { border-color: var(--best); }
+.card h3 { margin: 0; font-size: 1rem; font-family: ui-monospace, Menlo, monospace; }
+.badge { display: inline-block; font-size: .72rem; color: var(--best); border: 1px solid var(--best);
+  border-radius: 999px; padding: 0 8px; margin-left: 6px; vertical-align: middle; font-family: system-ui, sans-serif; }
+.desc { color: var(--muted); font-size: .82rem; margin: 4px 0 12px; min-height: 2.4em; }
+.year { font-size: 2.2rem; font-weight: 700; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.ranges { margin: 8px 0 0; font-size: .92rem; font-variant-numeric: tabular-nums; }
+.ranges div { display: flex; justify-content: space-between; }
+.cv { margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--border); color: var(--muted); font-size: .8rem; }
+footer { color: var(--muted); font-size: .82rem; margin-top: 28px; }
+footer a { color: var(--accent); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Peirce manuscript dating</h1>
+  <p class="sub">Upload or paste a manuscript to get the year estimate from each of the three models, with an 80% and a 95% range. Everything runs in your browser: your text is not sent anywhere.</p>
+
+  <div class="panel">
+    <div class="tabs" role="tablist">
+      <button role="tab" aria-selected="true" data-tab="paste">Paste text</button>
+      <button role="tab" aria-selected="false" data-tab="files">Upload .txt files</button>
+      <button role="tab" aria-selected="false" data-tab="folder">Upload manuscript folder</button>
+    </div>
+
+    <div id="tab-paste">
+      <textarea id="text" placeholder="Paste the transcription here..."></textarea>
+    </div>
+    <div id="tab-files" class="hidden">
+      <div class="drop" id="drop-files">
+        Drop one or more .txt files here (pages are sorted like the cleaning script),
+        or <label>choose files<input type="file" id="in-files" accept=".txt,text/plain" multiple></label>.
+        <div class="filelist" id="list-files"></div>
+      </div>
+    </div>
+    <div id="tab-folder" class="hidden">
+      <div class="drop" id="drop-folder">
+        Choose a raw manuscript folder, e.g. <code>data/manuscripts/MS-0001_hou02614c00003</code>,
+        with <code>iiif/</code> and/or <code>microfilm/</code> inside:
+        <label>choose folder<input type="file" id="in-folder" webkitdirectory directory multiple></label>.
+        <div class="filelist" id="list-folder"></div>
+      </div>
+    </div>
+
+    <div class="actions">
+      <button class="go" id="go" disabled>Estimate date</button>
+      <span class="status" id="status"></span>
+    </div>
+  </div>
+
+  <div id="result"></div>
+
+  <footer>
+    Models trained on 914 dated manuscripts; scores are from grouped 5-fold cross-validation.
+    Years written in the text are masked before prediction. Estimates are clipped to 1850-1914.
+    Ranges are cross-conformal (MAPIE): the estimate plus or minus the 80% or 95% quantile of the
+    out-of-fold errors. Code: <a href="https://github.com/robinfaasse/Peirce-Data">github.com/robinfaasse/Peirce-Data</a>.
+  </footer>
+</main>
+
+<script src="engine.js"></script>
+<script>
+const state = { tab: "paste", files: [], folder: [] };
+const $ = (id) => document.getElementById(id);
+
+document.querySelectorAll(".tabs button").forEach((b) => {
+  b.addEventListener("click", () => {
+    state.tab = b.dataset.tab;
+    document.querySelectorAll(".tabs button").forEach((x) => x.setAttribute("aria-selected", x === b));
+    ["paste", "files", "folder"].forEach((t) => $("tab-" + t).classList.toggle("hidden", t !== state.tab));
+  });
+});
+
+function showList(el, files) {
+  if (!files.length) { el.textContent = ""; return; }
+  const names = files.slice(0, 8).map((f) => f.webkitRelativePath || f.name);
+  el.textContent = `${files.length} file(s): ${names.join(", ")}${files.length > 8 ? ", ..." : ""}`;
+}
+function txtOnly(list) { return [...list].filter((f) => f.name.toLowerCase().endsWith(".txt")); }
+
+$("in-files").addEventListener("change", (e) => { state.files = txtOnly(e.target.files); showList($("list-files"), state.files); });
+$("in-folder").addEventListener("change", (e) => { state.folder = txtOnly(e.target.files); showList($("list-folder"), state.folder); });
+
+const drop = $("drop-files");
+["dragenter", "dragover"].forEach((ev) => drop.addEventListener(ev, (e) => { e.preventDefault(); drop.classList.add("over"); }));
+["dragleave", "drop"].forEach((ev) => drop.addEventListener(ev, (e) => { e.preventDefault(); drop.classList.remove("over"); }));
+drop.addEventListener("drop", (e) => { state.files = txtOnly(e.dataTransfer.files); showList($("list-files"), state.files); });
+
+async function readPages(files) {
+  return Promise.all(files.map(async (f) => ({ path: f.webkitRelativePath || f.name, text: await f.text() })));
+}
+
+$("go").addEventListener("click", async () => {
+  let payload;
+  if (state.tab === "paste") {
+    if (!$("text").value.trim()) return setStatus("Paste some text first.");
+    payload = { text: $("text").value };
+  } else {
+    const files = state.tab === "files" ? state.files : state.folder;
+    if (!files.length) return setStatus("Choose at least one .txt file first.");
+    payload = { pages: await readPages(files) };
+  }
+  $("go").disabled = true;
+  setStatus("Estimating...");
+  await new Promise((r) => setTimeout(r, 30));   // let the status paint first
+  try {
+    let text, source, nPages = null;
+    if (payload.pages) ({ text, source, nPages } = PeirceEngine.textFromPages(payload.pages));
+    else { text = PeirceEngine.collapse(PeirceEngine.cleanPage(payload.text)); source = "pasted text"; }
+    const nWords = text ? text.split(" ").length : 0;
+    if (!nWords) { render({ error: "No text found after cleaning." }); return; }
+    const models = PeirceEngine.predict(model, text);
+    const warnings = [];
+    if (nWords < 300) warnings.push("Short text (under 300 words): in cross-validation the 80% range covered the true date only 54-73% of the time for texts this short.");
+    const mean = Object.values(models).reduce((a, m) => a + m.pred, 0) / 3;
+    if (mean < 1885) warnings.push("Estimate before 1885: the models pull early manuscripts towards the 1890s, so the real date may be earlier and outside the range.");
+    render({ n_words: nWords, source, n_pages: nPages, best: model.meta.best, models, warnings });
+  } catch (err) {
+    render({ error: "Something went wrong: " + err.message });
+  } finally {
+    $("go").disabled = false;
+    setStatus("");
+  }
+});
+
+let model = null;
+(async () => {
+  setStatus("Loading models (about 23 MB, once)...");
+  try {
+    model = await PeirceEngine.init(async (name, kind) => {
+      const res = await fetch("model/" + name);
+      if (!res.ok) throw new Error(name + ": HTTP " + res.status);
+      return kind === "json" ? res.json() : res.arrayBuffer();
+    });
+    $("go").disabled = false;
+    setStatus("Ready.");
+  } catch (err) {
+    setStatus("");
+    render({ error: "Could not load the models: " + err.message });
+  }
+})();
+
+function setStatus(s) { $("status").textContent = s; }
+const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const yr = (v) => Math.round(v);
+
+function render(r) {
+  const out = $("result");
+  if (r.error) { out.innerHTML = `<div class="note err">${esc(r.error)}</div>`; return; }
+  const names = Object.keys(r.models);
+  let html = `<div class="meta">${r.n_words.toLocaleString()} words, from ${esc(r.source)}${r.n_pages ? ` (${r.n_pages} page${r.n_pages === 1 ? "" : "s"})` : ""}</div>`;
+  html += r.warnings.map((w) => `<div class="note warn">${esc(w)}</div>`).join("");
+  html += chart(r, names);
+  html += `<div class="meta">Dot: estimate. Dark bar: 80% range. Light bar: 95% range.</div>`;
+  html += `<div class="cards">` + names.map((n) => card(n, r.models[n], n === r.best)).join("") + `</div>`;
+  out.innerHTML = html;
+}
+
+function card(name, m, best) {
+  const cv = m.cv || {};
+  const cvLine = cv.MAE !== undefined
+    ? `CV: mean error ${cv.MAE.toFixed(1)} years, within ±5 years ${Math.round(cv.within_5y * 100)}%, 80% range covered ${Math.round(cv.coverage_80 * 100)}%`
+    : "";
+  return `<div class="card${best ? " best" : ""}">
+    <h3>${esc(name)}${best ? '<span class="badge">best in CV</span>' : ""}</h3>
+    <div class="desc">${esc(m.description)}</div>
+    <div class="year">${yr(m.pred)}</div>
+    <div class="ranges">
+      <div><span>80% range</span><span>${Math.floor(m.lo80)} to ${Math.ceil(m.hi80)}</span></div>
+      <div><span>95% range</span><span>${Math.floor(m.lo95)} to ${Math.ceil(m.hi95)}</span></div>
+    </div>
+    <div class="cv">${cvLine}</div>
+  </div>`;
+}
+
+function chart(r, names) {
+  const W = 800, left = 110, right = 20, rowH = 40, top = 10, H = top + names.length * rowH + 30;
+  const x0 = 1850, x1 = 1915;
+  const x = (v) => left + (v - x0) / (x1 - x0) * (W - left - right);
+  let s = `<svg class="chart" viewBox="0 0 ${W} ${H}" role="img" aria-label="Estimates and ranges per model">`;
+  for (let t = 1850; t <= 1910; t += 10) {
+    s += `<line x1="${x(t)}" x2="${x(t)}" y1="${top}" y2="${H - 24}" style="stroke:var(--border)"/>`;
+    s += `<text x="${x(t)}" y="${H - 8}" text-anchor="middle">${t}</text>`;
+  }
+  names.forEach((n, i) => {
+    const m = r.models[n], cy = top + i * rowH + rowH / 2;
+    s += `<text class="lbl" x="${left - 10}" y="${cy + 4}" text-anchor="end">${esc(n)}</text>`;
+    s += `<rect x="${x(m.lo95)}" y="${cy - 9}" width="${Math.max(x(m.hi95) - x(m.lo95), 1)}" height="18" rx="4" style="fill:var(--accent-softer)"/>`;
+    s += `<rect x="${x(m.lo80)}" y="${cy - 9}" width="${Math.max(x(m.hi80) - x(m.lo80), 1)}" height="18" rx="4" style="fill:var(--accent-soft)"/>`;
+    s += `<circle cx="${x(m.pred)}" cy="${cy}" r="6" style="fill:var(--accent)"><title>${n}: ${yr(m.pred)}</title></circle>`;
+  });
+  return s + `</svg>`;
+}
+</script>
+</body>
+</html>

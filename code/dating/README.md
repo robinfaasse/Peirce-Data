@@ -15,7 +15,20 @@ python code/dating/predict.py --undated        # all undated -> results/undated_
 python code/dating/app.py                      # web page on http://localhost:8000
 ```
 
-### Web page
+### Shareable web page (no server)
+
+`docs/` is a static version of the page that anyone can open with a link:
+`docs/engine.js` is a JavaScript port of the cleaning, the features and the
+three trained models, and `docs/model/` holds the exported models (~23 MB,
+written by `python code/dating/export_web.py`). Re-run the export after
+retraining. The JavaScript gives exactly the same estimates as the Python
+models fitted on all 914 manuscripts (checked on 250 manuscripts, also from
+raw folders). Ranges there are estimate plus or minus the conformal quantile
+of the out-of-fold errors, so they can differ by about a year from the CV+
+ranges of `predict.py`. Host it with GitHub Pages (Settings > Pages > branch,
+folder `/docs`).
+
+### Local web page
 
 `app.py` starts a small local server (standard library only) that loads the
 three trained models once and serves `static/index.html`. On the page you can
