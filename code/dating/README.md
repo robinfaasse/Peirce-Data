@@ -12,7 +12,19 @@ python code/dating/train_evaluate.py           # ~20 min: CV comparison + final 
 python code/dating/predict.py data/manuscripts/MS-0001_hou02614c00003
 python code/dating/predict.py --id 1 --all-models
 python code/dating/predict.py --undated        # all undated -> results/undated_predictions.csv
+python code/dating/app.py                      # web page on http://localhost:8000
 ```
+
+### Web page
+
+`app.py` starts a small local server (standard library only) that loads the
+three trained models once and serves `static/index.html`. On the page you can
+paste text, upload one or more `.txt` pages, or pick a raw manuscript folder
+(with `iiif/` and/or `microfilm/`). Uploads get the same cleaning as
+`clean_data.py`. It shows each model's estimate, 80% and 95% range on a
+timeline, with the CV scores of each model and warnings for short or early
+texts. It runs on your own computer; nothing is sent anywhere else.
+Train first (`train_evaluate.py`), since the page uses `models/*.joblib`.
 
 `predict.py` takes a raw manuscript folder (it applies the same cleaning as
 `clean_data.py`), a plain `.txt` file, or a manuscript id from the dataset.

@@ -41,4 +41,5 @@ pip install -r requirements.txt
 python code/clean_data.py
 python code/dating/train_evaluate.py
 python code/dating/predict.py data/manuscripts/MS-0001_hou02614c00003
+python code/dating/app.py      # upload page on http://localhost:8000
 ```
