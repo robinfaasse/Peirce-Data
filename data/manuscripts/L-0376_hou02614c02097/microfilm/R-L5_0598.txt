@@ -1,0 +1,29 @@
+[pn](2)[/pn]
+three point problem
+
+REPORT of [u]                                                                                [/u] Inspector on [u]                                                                                [/u] Steam Boiler used by [u]                                                                                                                                                                [/u]
+[u]                                                                                [/u] at [u]                                                                                [/u] inspected [u]                                                                                [/u] 189
+
+Example.      C = 85° ,   [u]α[/u] = 120° ,   [u]β[/u] = 107° ,   [u]b[/u] = 1 ,   [u]a[/u] = 1.5
+
+[u]α[/u]             =       120°                      sin [u]α[/u] = 9.937531          sin [u]β[/u] = 9.980596
+[u]β[/u]             =       107°                      log [u]b[/u] = [u]0.000000[/u]          log [u]a[/u] = [u]0.176091[/u]
+C             =        [u]85°[/u]                             9.937531                 0.156687
+[u]α[/u]+[u]β[/u]+C         =       312°                                                      [u]9.937531[/u]
+[u]θ[/u]+[u]φ[/u]           =        48°                                       tan [u]γ[/u] =       0.219156
+½([u]θ[/u]+[u]φ[/u])         =        24°                                         [u]γ[/u] =       58° 52' 45"
+cot ½([u]θ[/u]+[u]φ[/u])     =       0.351417                                  [u]γ[/u]+45° =      103° 52' 45"
+tan ([u]γ[/u]+45°)   =       0.607146 n
+cot ½([u]θ[/u]-[u]φ[/u])     =       0.958563 n                log [u]a[/u] = 0.176091          log [u]b[/u] = 0.000000
+½([u]θ[/u]-[u]φ[/u])         =     - 6° 16' 41"                sin [u]θ[/u] = 9.483442          sin [u]φ[/u] = 9.702600
+½([u]θ[/u]+[u]φ[/u])         =     [u]+ 24°       [/u]               arco. sin [u]α[/u] = [u]0.062469[/u]     arco. sin [u]β[/u] = [u]0.019404[/u]
+[u]θ[/u]             =       17° 43' 19"               log [u]CP[/u] = 9.722002                9.722004
+[u]φ[/u]             =       30° 16' 41"                      [u]CP[/u] = 0.527233
+
+It will be seen from the geometric solution that the problem
+is indeterminate when P lies on the circle circumscribed
+about [u]A B C[/u]. It is desirable, therefore, for the observer at
+P to select the points [u]A[/u], [u]B[/u] and [u]C[/u] in such a way that
+P may lie at some considerable distance from the circumscribing
+circle. It often happens that more than three known points
+are sighted at from P. In such cases the three most suitable

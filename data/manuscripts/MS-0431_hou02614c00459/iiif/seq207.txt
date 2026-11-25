@@ -1,0 +1,23 @@
+Logic
+III
+87
+
+The relation of inclusion signified by -< may be defined in three clauses, as follows:
+
+(49)      Necessarily, either [u]x[/u] or [u]x[/u] -< [u]y[/u] ;
+(50)      If [u]y[/u], then necessarily [u]x[/u] -< [u]y[/u] ;
+(51)      If [u]x[/u] -< [u]y[/u], then if [u]x[/u], necessarily [u]y[/u].
+
+If we substitute [u]x[/u] for [u]y[/u] in (49) and (50), they become
+          Necessarily, either [u]x[/u] or [u]x[/u] -< [u]x[/u]
+          If [u]x[/u], then necessarily [u]x[/u] -< [u]x[/u]
+Syllogizing these, we find
+(52)      Necessarily [u]x[/u] -< [u]x[/u],
+which is the [del]Formula[/del] [ins]formula[/ins] of Identity.
+
+I will now prove that
+(53)      If [u]x[/u] -< ([u]y[/u] -< [u]z[/u]), then necessarily [u]y[/u] -< ([u]x[/u] -< [u]z[/u]).
+[del]Assume that [u]x[/u] -< ([u]y[/u] -< [u]z[/u]).[/del]
+Now [del]in[/del] (51), substitute [u]y[/u] -< [u]z[/u] for [u]y[/u]. Then we have,
+If [u]x[/u] -< ([u]y[/u] -< [u]z[/u]) then [ins]if [u]x[/u][/ins] necessarily [u]y[/u] -< [u]z[/u].
+In (51), substitute [u]y[/u] for [u]x[/u] and [u]z[/u] for [u]y[/u]. Then, we find,

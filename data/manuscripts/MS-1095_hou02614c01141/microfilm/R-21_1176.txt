@@ -1,0 +1,22 @@
+Suppose
+
+$$\chi = \frac{1}{\frac{1}{x} + \frac{\sqrt{x^2 + (y - \frac{c}{2})^2} - a}{\sqrt{x^2 + (y + \frac{c}{2})^2} - b} f}$$
+
+[del]$\frac{1}{\chi}$[/del]
+$$D_x \chi = \chi D_x \log \chi$$
+
+$$D_x \chi^{-1} = -\chi^{-2}$$
+$$D_x^{-1} \chi = -\chi^2$$
+
+$$D_x^2 \chi = D_x \log \chi + \chi D_x^2 \log \chi$$
+
+$$D_x \chi = D_x^2 \chi = [del]\chi[/del] \chi (D_x \log \chi)^2 + \chi D_x^2 \log \chi$$
+
+$$[del](D_x + D_y + \chi D_x^2 + \chi D_y^2) (D_x + D_y + \chi D_x^2 + \chi D_y^2)[/del]$$
+
+$$= D_x^2 + D_x D_y + D_x \chi (D_x^2 + D_y^2) + \chi D_x$$
+
+$$\begin{aligned} x &= \frac{1}{2}(s + q) \\ y &= [del]*[/del] \frac{1}{2}(s - q)i \end{aligned}$$
+$$\begin{aligned} [del]s^2 = x^2 y[/del] \\ x^2 + y^2 = sq \end{aligned}$$
+
+$$\chi = \frac{1}{\frac{2}{s+q} + \frac{\sqrt{sq + \frac{1}{2}c(s-q)i + \frac{c^2}{4}} - a}{\sqrt{sq - \frac{1}{2}c(s-q)i + \frac{c^2}{4}} - b} f}$$

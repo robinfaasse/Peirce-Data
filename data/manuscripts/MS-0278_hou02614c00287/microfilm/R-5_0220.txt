@@ -1,0 +1,41 @@
+[del]0[/del]
+[del]∞[/del] = $a^x$
+
+[del]1[/del]
+[del]2[/del]
+
+[del]0[/del]
+[del]1[/del] $\frac{a^x}{1+a^x}$
+
+[del]1[/del]
+[del]2[/del] $\frac{1+2a^x}{1+a^x}$
+
+[del]1[/del] $\frac{P}{Q}$ $\frac{P+Qa^x}{1+[del]N[/del][ins]a[/ins]^x}$
+
+[fig]Hyperbolic curve graph[/fig]
+
+[fig]Spiral curve[/fig]
+
+$r = \frac{P+Qe^{\frac{1}{\theta}}}{1+e^{\frac{1}{\theta}}}$
+
+$r+re^{\frac{1}{\theta}} = P+Qe^{\frac{1}{\theta}}$
+
+[fig]Spiral curve[/fig]
+
+[fig]Scribble[/fig]
+
+$\log \frac{P-r}{r-Q} = \frac{1}{\theta}$
+
+$\frac{1}{\log(P-r)-\log(r-Q)} = \theta$
+
+[fig]Concentric oval curves[/fig]
+
+$P-r = r-Q$
+$\frac{P+Q}{2}$
+
+| $r$ | $P-r$ | $r-Q$ | $\log(P-r)$ | $\log(r-Q)$ | $\log\frac{P-r}{r-Q}$ | $\theta$ |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| $Q$ | $P-Q$ | $0$ | $\log(P-Q)$ | $-\infty$ | $\infty$ | $0$ |
+| $Q+1$ | $P-Q-1$ | $1$ | $\log(P-Q-1)$ | $0$ | $\log(P-Q-1)$ | $\frac{1}{\log(P-Q-1)}$ |
+| $\frac{P+Q}{2}$ | $\frac{P-Q}{2}$ | $\frac{P-Q}{2}$ | $\log\frac{P-Q}{2}$ | $\log\frac{P-Q}{2}$ | $0$ | $\infty$ |
+| $\frac{P^2+Q^2}{P+Q}$ | $\frac{Q}{P+Q}(P-Q)$ | $\frac{P}{P+Q}(P-Q)$ | $\log q + \log\frac{P-Q}{P+Q}$ | $\log p + \log\frac{P-Q}{P+Q}$ | $\log q - \log p$ | $\frac{1}{\log q - \log p}$ |

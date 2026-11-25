@@ -1,0 +1,29 @@
+[pn]367[/pn]
+
+what order of sequence makes no difference. Also
+$(\Sigma_{i} a_{i}) \cdot (\Sigma_{j} a_{j}) = (a_{1} \mathbin{\psi} a_{2} \mathbin{\psi} a_{3} \mathbin{\psi} \text{etc}) \cdot (a_{1} \mathbin{\psi} a_{2} \mathbin{\psi} a_{3} \mathbin{\psi} \text{etc})$
+
+$\Sigma_{i} \Sigma_{j} a_{i} a_{j} = (a_{1} a_{1}) \mathbin{\psi} (a_{1} a_{2}) \mathbin{\psi} (a_{1} a_{3}) \mathbin{\psi} \text{etc.}$
+$\mathbin{\psi} (a_{2} a_{1}) \mathbin{\psi} (a_{2} a_{2}) \mathbin{\psi} (a_{2} a_{3}) \mathbin{\psi} \text{etc.}$
+$\mathbin{\psi} (a_{3} a_{1}) \mathbin{\psi} (a_{3} a_{2}) \mathbin{\psi} (a_{3} a_{3}) \mathbin{\psi} \text{etc.}$
+and
+$\Sigma_{i} a_{i} a_{i} = [u]a_{1}[/u] a_{1} \mathbin{\psi} a_{2} a_{2} \mathbin{\psi} a_{3} a_{3} \mathbin{\psi} \text{etc.}$
+
+The first two are equivalent by the distribution-principle.
+The third and first are both equivalent to $\Sigma_{i} a_{i}$
+because $a \cdot a = a$; and so all three are equivalent.
+
+Having thus proved the rule in the case of a single
+index, it remains to show that if it be true of every
+proposition having [u]n[/u] indices then it is equally
+true [del]of[/del] [ins]for[/ins] every proposition having [u]n+1[/u] indices.
+Let $\Phi$ and $*$ stand respectively either for $\Sigma$ and $\mathbin{\psi}$
+or for $\Pi$ and $\cdot$, so that
+
+$\Phi_{i} u_{i} = u_{1} * u_{2} * u_{3} * \text{etc.}$
+
+Let this represent [del]a[/del] [ins]any[/ins] proposition in [u]n+1[/u] indices
+of which $i$ is the first. The propositions $u_{1}, u_{2}, u_{3}$ etc
+will, therefore, have [u]n[/u] indices in their "logisteria". Let
+$u_{i}^{2}$ denote a legitimate "logical square" of $u_{i}$; that
+is a compound of $u_{i}$ with itself, the indices being

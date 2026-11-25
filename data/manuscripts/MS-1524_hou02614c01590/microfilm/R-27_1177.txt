@@ -1,0 +1,21 @@
+[u]Whist in Booleian[/u]
+
+[del]A Ace is in hand[/del]  [ins]A'[/ins] Ace led  [ins]A"[/ins] Ace Second Hand  [ins]A'''[/ins] Ace Third
+K King
+Q Queen
+J Knave (Jack)
+X Ten
+9 etc
+[del]A Ace not in hand[/del]  [ins]A'[/ins] Ace not led
+[fig]symbol for plain suit[/fig] Plain suit  [fig]symbol for trumps[/fig] Trumps
+
+[fig]circled 7[/fig] Seven or more cards of the Suit in hand at first
+[fig]circled 7 with bar[/fig] Not seven cards.
+
+A'-K' Ace led first, then King.
+
+K.X Holds a card better than X.
+
+S.X Holds a card worse than X.
+
+S²X Holds two cards worse than X.

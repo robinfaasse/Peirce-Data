@@ -1,0 +1,32 @@
+[ins] > 1 and [/ins]
+[del]Suppose[/del] $N$ prime to $10$. Let us trace the long division of $1$ by $N$.
+Let $Q_i$ be the figure of the quotient in the $\frac{1}{10^i}$'s place of decimals
+Let $R_i$ be the remainder. Then,
+
+$10 - Q_1 N = R_1$ where $Q_1 < 10$ $R_1 < N$
+$Q_1 = 0$ if $N > 10$ when $R_1 = 10$
+$Q_1 = 1$ if $N \ngtr 10$ $N > 5$ i.e. $N = \left\{ \begin{aligned} 7, & \text{ when } R_1 = 3 \\ 9, & \text{ when } R_1 = 1 \end{aligned} \right.$
+$Q_1 = 2$ if $N \ngtr 5$ $N > 3$ [del]But then[/del] But then $N$ would not be prime to $10$
+$Q_1 = 3$ if $N = 3$ when $R_1 = 1$
+$Q_1 = 5$ if $N = 2$ But then $N$ would not be prime to $10$
+[del]$Q_1 = 10$ if $N = 1$[/del]
+
+[del]$10 R_1 - Q_2 N = R_2$[/del]
+[del]If $R_1 = 1$[/del] If $R_1 = 1$ the period ends.
+
+$10 R_1 - Q_2 N = R_2$ when $Q_2 < 10$ $R_1 < N$
+$N$ being prime to $10$ is necessarily prime to $R_1, R_2, R_3$ etc. For [del]a common[/del] [ins] divisor [/ins] [del]to[/del] [ins] a factor [/ins] [del]common to[/del] $N$ and $R_1$ would [del]be common[/del] [ins] divide [/ins] $10 = R_1 + Q_1 N$, [ins] a factor common [/ins] to $N$ and $R_2$ would divide $10 R_1 = R_2 + Q_2 N$, and [del]this[/del] since $10$ and $N$ have no common factor, this would be a factor of $R_1$, etc.
+
+Now $10 \equiv R_1 (\text{mod } N)$
+[del]$20 \equiv 2 R_1$[/del] Then let $n$ be [del]any number less than and prime to $N$[/del]
+[del]$30 \equiv 3 R_1$[/del] [del]then $n 10$ is not prime to $N$[/del]
+[del]etc[/del]
+[del]$(N-1) 10 \equiv (N-1) R_1$[/del] Then let $n$ $n'$ $n''$ etc be all the numbers
+less than and prime to $N$
+then $n 10$ is prime to $N$ [del]say $n 10 \equiv n'$[/del]
+[del]$n 10$ is prime to $N$[/del] If $n 10 \equiv n$, then [ins] i.e. $N = 3$ or $9$ [/ins] $9$ is divisible by $N$
+and $10 \equiv 1$ so that $R_1 = 1$
+If that is not so $R_1$ is one of the [del]nos[/del] $R$, $10 \equiv 1$ $99$ is divisible by $N$ and since $9$ is not divisible
+[ins] $N = 11, 33, \text{ or } 99$ [/ins]
+If that is not so $R_2$ is a different $n$ from $R_1$ If $R_2 10 \equiv 1$ $999$ is divisible by $N$ though $99$ is not
+[ins] $N = 27, 37, 3 \times 37, 3^2 \times 37, \text{ or } 3^3 \times 37$ [/ins]

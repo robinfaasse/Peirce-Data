@@ -1,0 +1,31 @@
+[date]1914 Feb 25[/date]
+
+$(r/R)^2 + (z/Z)^2 = 1$
+
+gives $\frac{r dr}{R^2} + \frac{z dz}{Z^2} = 0$     $\frac{z}{r} = \left(\frac{Z}{R}\right)^2 \frac{dr}{dz}$
+
+$\frac{r}{R} = \sqrt{1 - (z/Z)^2}$     $\frac{z}{Z} = \sqrt{1 - (r/R)^2}$
+
+[del]$\frac{r dr}{R^2} + \sqrt{1 - (r/R)^2} \frac{dz}{Z} = 0$[/del]
+
+$\frac{r/R}{\sqrt{1 - (r/R)^2}} = - \frac{R}{Z} \frac{dz}{dr}$
+
+$\frac{dz}{dr} = - \frac{Z}{R} \frac{r/R}{\sqrt{1 - (r/R)^2}}$
+
+$\frac{z}{r} = \tan \phi_c$     $\frac{dr}{dz} = \tan \phi_g$
+
+$\tan \phi_c = \left(\frac{Z}{R}\right)^2 \tan \phi_g$     $\sim \log r$
+
+[del]$(dr)^2 +$[/del]
+
+$d \log s = \frac{\sqrt{(dr)^2 + (dz)^2}}{r} = \frac{dr \sqrt{1 + \left(\frac{dz}{dr}\right)^2}}{r} = \frac{\sqrt{1 + \left(\frac{Z}{R}\right)^2 \frac{(r/R)^2}{1 - (r/R)^2}}}{r} dr = \sqrt{\frac{\frac{1}{r^2} + \left(\frac{Z}{R}\right)^2 \frac{1}{R^2}}{R^2 - r^2}} dr$
+
+Putting $r' = \log r$
+$dr' = \frac{dr}{r}$
+$r = e^{r'}$     $r^2 = e^{2r'}$
+
+$\frac{\sqrt{(dr)^2 + (dz)^2}}{r} = \sqrt{1 + \left(\frac{Z}{R}\right)^2 \frac{e^{2r'}}{R^2 - e^{2r'}}}$
+
+$= \sqrt{\frac{R^2 - \left(1 - \frac{Z^2}{R^2}\right) e^{2r'}}{R^2 - e^{2r'}}}$
+
+$= \frac{R}{r} \sqrt{1 - \frac{R^2 - Z^2}{R^4} e^{2r'}}$

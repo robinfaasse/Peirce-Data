@@ -1,0 +1,19 @@
+$$U = \left(x^2+y^2+z^2+\text{etc}\right)^N F\left(X, Y, Z, \text{etc}\right)$$
+
+$$X = \frac{k^2 x}{x^2+y^2+z^2+\text{etc}} \quad \text{etc}$$
+
+$$\frac{\partial X}{\partial x} = \frac{k^2}{\Sigma x^2} - \frac{2k^2 x^2}{\left(\Sigma x^2\right)^2}$$
+$$= \frac{k^2\left(-x^2+y^2+z^2+\text{etc}\right)}{x^2+y^2+z^2}$$
+
+$$\frac{\partial U}{\partial x} = 2N \left(\Sigma x^2\right)^{N-1} x F + k^2 \left(\Sigma x^2\right)^{N-1} \frac{\left(-x^2+y^2+\text{etc}\right)}{\Sigma x^2} F'_X$$
+
+$$\begin{aligned}
+\frac{\partial^2 U}{\partial x^2} = & \ 2N \left(\Sigma x^2\right)^{N-1} F \\
+& + 4N(N-1) \left(\Sigma x^2\right)^{N-2} x^2 F
+\end{aligned} \quad \begin{aligned}
+& + 2k^2 N x \left(\Sigma x^2\right)^{N-2} \left(-x^2+y^2+\text{etc}\right) F'_X \\
+& - 2k^2 x \left(\Sigma x^2\right)^{N-1} \qquad \qquad \quad F'_X \\
+& \ 2k^2 (N-1) x \left(\Sigma x^2\right)^{N-2} \left(-x^2+y^2+\text{etc}\right) F'_X
+\end{aligned}$$
+
+$$+ k^4 \left(\Sigma x^2\right)^{N-2} \left(-x^2+y^2+\text{etc}\right)^2 F''_X$$

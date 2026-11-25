@@ -1,0 +1,20 @@
+[del][fig]fraction[/fig][/del]
+[del]D([u]√u²-u+1[/u] i' + m' + [u]un'[/u])[/del] (C [u]√w²-w+1[/u] i' + m' + wn') D([u]√u²-u+1[/u] i' + m' + un')
+[del]D([u]√u²-u+1[/u] i' + m' + un')[/del]
+* [fig]curly bracket[/fig] √√ i' - √w m' - u√w n'
+-1 + √u m' + w√u -uj' -wk'
+-uw
+
+= (u²-u-[del]1[/del])√w i' + √√ m' - u√u j' - w√u k' + u√u√w n'
+√u -(u²-u+1) -w(u²-u+1)
+-uw√u
+
+= (u²-u+1)√w i' - u√u j' - w√u k' + √√ m' + u√√ n'
+-√u +u√w -(u²-u+1) -w(u²-u+1)
+-uw√u -w√u √√ -u -wl'
+[del]√√[/del] -1 +u√√
+[del]√u[/del] -uw +u -u²l'
++√w +u√w -uw -u²w
+-√u -u√u
++u²√w
+-uw√u

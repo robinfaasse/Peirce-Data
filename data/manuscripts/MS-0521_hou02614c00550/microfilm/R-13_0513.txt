@@ -1,0 +1,25 @@
+Again, in this class of problems [del]we[/del] [ins]one[/ins] find such as this: "given that
+$a \prec x \bar{x}$, required $x$," — for example given that whoever is prejudiced
+against a person put his trust in somebody who does not put
+his trust in that person, required a description of putting trust
+in a person. Now such a proposition cannot be true unless [del]a[/del] [ins]$a$[/ins] has
+some particular properties. "The problem" says Schröder, "of elimi-
+nating $x$ from $a \prec x \bar{x}$ belongs to the easiest of the difficult elimi-
+nations and to the most difficult of the easy ones." He remarks
+that if we write [del]$x = 1 \cdot y \mathbin{\psi} T \cdot z$[/del] we shall have
+[del]$\bar{x} = (1 \mathbin{\psi} \bar{y}) \cdot (1 \mathbin{\psi} \bar{z}) =$[/del] $x = y \mathbin{\psi} z$, where $y \prec 1$ and $z \prec T$,
+so that $\bar{y} = T \mathbin{\psi} 1 \cdot \bar{y}$ and $\bar{z} = 1 \mathbin{\psi} T \cdot \bar{z}$, then $\bar{x} = \bar{y} \cdot \bar{z} = 1 \cdot \bar{y} \mathbin{\psi} T \cdot \bar{z}$;
+and $x \bar{x} = (1 \cdot y \mathbin{\psi} T \cdot z) (1 \cdot \bar{y} \mathbin{\psi} T \cdot \bar{z}) = (1 \cdot y) (T \cdot \bar{z}) \mathbin{\psi} (T \cdot z) (1 \cdot \bar{y}) \mathbin{\psi} (T \cdot z) (T \cdot \bar{z})$
+But obviously
+[del]$(1 \cdot a) b = (1 \cdot a) \cdot b$[/del]
+[del]But by elementary formulas[/del]
+But we have in general, by what may be called the binomial theorem
+applied to logic,
+[del]$(a \cdot b) w =$[/del] $(a + b)^w = a^w \mathbin{\psi} \Sigma\ (u+v=w) \cdot a^u \cdot b^v \mathbin{\psi} b^w
+$ [del]the[/del] of which the negative is (writing $p$ for $\bar{a}$ and $q$ for $\bar{b}$)
+[del]$(a \cdot b) w = a w \cdot \Pi (u+v=w) \cdot (a u$[/del]
+$(p \cdot q) w = p w \cdot \Pi (u+v=w) \cdot (p u \mathbin{\psi} q v) \cdot q w$
+Putting $1$ for $p$, this gives
+$(1 \cdot q) w = w \cdot \Pi (u+v=w) \cdot (u \mathbin{\psi} q v) \cdot q w = w \cdot \Pi (\bar{v} \mathbin{\psi} q v) \cdot q w$
+And putting $\bar{w}$ for $w$, so that $u + \bar{u} = \bar{w}$
+$(1 \cdot q) \bar{w} = [del]\Pi (u \mathbin{\psi} q \bar{u}) \cdot q \bar{w}[/del]\ \Pi (\bar{v} \mathbin{\psi} q v) \cdot q \bar{w}$

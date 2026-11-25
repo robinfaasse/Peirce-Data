@@ -1,0 +1,7 @@
+by (5) is $\omega'$, it follows that $\omega_N \Xi' = \omega'_N \chi'_N - \omega'_0 \chi'_0$; while
+$\omega_N \bar{\xi}'(A,\Omega) = \omega'_N \bar{\xi}'_N - \omega'_0 \bar{\xi}'_0$. Subtracting the latter from the former,
+$\omega_N [\Xi' - \bar{\xi}'(A,\Omega)] = \omega'_N [\chi'_N - \bar{\xi}'_N] - \omega'_0 [\chi'_0 - \bar{\xi}'_0]$ [del]= $\omega'_N [\chi_N - \bar{\xi}(H,N)]$[/del]
+[del]$- \omega'_H (\bar{\xi}_H$[/del] But remembering that $\omega'_0 = - \omega_H$, that $\chi'_N - \bar{\xi}'_N = \chi_N - \bar{\xi}(H,N)$
+and that $\chi'_0 - \bar{\xi}'_0 = \chi_0 - \bar{\xi}(0,H) = - \bar{\xi}(0,H) = - \bar{\xi}_H$, we see that
+$\omega_N [\Xi' - \bar{\xi}'(A,\Omega)] = \omega'_N [\chi_N - \bar{\xi}(H,N)] + \omega_H \bar{\xi}_H$, which we have just seen
+to be equal to $y_N Q$.

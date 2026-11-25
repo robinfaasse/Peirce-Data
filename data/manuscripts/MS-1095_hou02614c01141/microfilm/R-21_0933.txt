@@ -1,0 +1,20 @@
+$$F_3 r \qquad C' [del]m[/del] \sigma^{-mr} [del]r^{-\frac{1}{2}}[/del]$$
+
+$$F'_3 r = -m C' \sigma^{-mr} r^{-\frac{1}{2}} - \frac{1}{2} C' \sigma^{-mr} r^{-\frac{3}{2}}$$
+
+$$F''_3 r = m^2 C' \sigma^{-mr} r^{-\frac{1}{2}} + [del]m[/del] [ins]m[/ins] C' \sigma^{-mr} r^{-\frac{3}{2}}$$
+$$+ \frac{3}{4} C' \sigma^{-mr} r^{-\frac{5}{2}}$$
+
+$$\frac{F''_3 a}{F'_3 a} = \frac{m^2 [del]a^{-\frac{1}{2}}[/del] + m [del]a^{-\frac{3}{2}}[/del] + \frac{3}{4} a^{-\frac{5}{2}}}{-m [del]a^{-\frac{1}{2}}[/del] - \frac{1}{2} a^{-\frac{3}{2}}}$$
+
+$$= -m$$
+
+$$A = a^2 c$$
+
+$$F_1 r = \frac{a^2 c}{r} \qquad F'_3 a = F_2 a = 0 \qquad F'_2 a = c$$
+
+$$F_1 a = ac$$
+
+$$C' = c \frac{\sigma^{ma}}{m^2}$$
+
+$$F_2 r = - c \frac{\sigma^{ma}}{m^2} \sigma^{-mr} r^{-\frac{1}{2}}$$

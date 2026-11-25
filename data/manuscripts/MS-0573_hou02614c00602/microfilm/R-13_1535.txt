@@ -1,0 +1,10 @@
+[u]x[/u] for both [u]y[/u] and [u]z[/u]. The statement then becomes simply [u]x[/u] < [u]x[/u]. Now we have [del]said[/del] [ins]said[/ins] that x = y means no more than x < y and y < x. Substitute [u]x[/u] for y in this statement, and it becomes that x = x means no more than x < x, which we have just proved to be true. The proofs of the other two formulae of equality common to ordinary and logical algebra are left to the [del]student[/del] [ins]student[/ins]. Logical equality is, besides, subject to a fourth rule, namely, that
+Either x = y or y = z or x = z.
+I prove this. By Rule 2,
+Either [del]x < y or y < x[/del].
+Either [del]y < z or z < y[/del].
+Either [del]z < x or x < z[/del].
+Either [del]x < y or z < x[/del]
+Either [del]y < z[/del]
+[del]as stated above, either x < y or y < z[/del]
+[del]substutu[/del]

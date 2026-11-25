@@ -1,0 +1,43 @@
+[marginalia]
+Calc. Diff.
+23
+
+43a
+[/marginalia]
+
+From the associative Principle it further obviously follows
+that, [u]l[/u], [u]m[/u], [u]n[/u] being positive integers:
+(7) [u]φ[/u][sup][u]l[/u][/sup] . [u]φ[/u][sup][u]m[/u]+[u]n[/u][/sup] = [u]φ[/u][sup][u]l[/u]+[u]m[/u][/sup] . [u]φ[/u][sup][u]n[/u][/sup]
+
+It further follows that, for positive integral values of [u]m[/u] and [u]n[/u],
+(8) [u]φ[/u][sup][u]m[/u]+[u]n[/u][/sup] = [u]φ[/u][sup][u]n[/u]+[u]m[/u][/sup]
+
+For this is identically true when [u]m[/u]=[u]n[/u]=1; and if it be
+true as long as [u]m[/u] and [u]n[/u] are not larger than M and N
+respectively, then it is easily shown to be true when
+[u]m[/u] is not larger than M and [u]n[/u] is not larger than N+1.
+For [u]φ[/u][sup][u]m[/u][/sup] . [u]φ[/u][sup]1+N[/sup] = [u]φ[/u][sup][u]m[/u][/sup] . ([u]φ[/u] . [u]φ[/u][sup]N[/sup]) = ([u]φ[/u][sup][u]m[/u][/sup] . [u]φ[/u]) . [u]φ[/u][sup]N[/sup]
+
+([u]φ[/u][sup]1[/sup])[sup]1[/sup] = [u]φ[/u][sup]1.1[/sup]
+([u]φ[/u][sup]1[/sup])[sup]N[/sup] = [u]φ[/u][sup]N[/sup]
+([u]φ[/u][sup][u]m[/u][/sup])[sup]1[/sup] = [u]φ[/u][sup][u]m[/u][/sup]
+([u]φ[/u][sup][u]m[/u][/sup])[sup]N[/sup] = [u]φ[/u][sup][u]m[/u]N[/sup]
+([u]φ[/u][sup][u]m[/u][/sup])[sup]1+N[/sup] = ([u]φ[/u][sup][u]m[/u][/sup])[sup]N[/sup] . ([u]φ[/u][sup][u]m[/u][/sup])[sup]1[/sup]
+([u]φ[/u][u]ψ[/u])[sup]1+N[/sup] = ([u]φ[/u][u]ψ[/u]) . ([u]φ[/u][u]ψ[/u])[sup]N[/sup]
+
+[u]φ[/u][sup][u]m[/u](1+1)[/sup] = [u]φ[/u][sup][u]m[/u]+[u]m[/u][/sup]
+[u]φ[/u][sup]1(1+1)[/sup] = [u]φ[/u][sup]1.1 + 1.1[/sup]
+[u]φ[/u][sup]M(1+1)[/sup] = [u]φ[/u][sup]M+M[/sup]
+[del][u]φ[/u][sup](M+1)(1+1)[/sup][/del]
+([u]φ[/u][sup][u]m[/u][/sup])[sup]1+N[/sup] = [u]φ[/u][sup][u]m[/u]+[u]m[/u]N[/sup]
+
+([u]φ[/u][sup][u]m[/u][/sup])[sup]1(1+1)[/sup] = [u]φ[/u][sup][u]m[/u](1+1)[/sup] = [u]φ[/u][sup][u]m[/u][/sup] . [u]φ[/u][sup][u]m[/u][/sup]
+[u]φ[/u][sup][u]m[/u]+[u]m[/u]n[/sup] = [u]φ[/u][sup][u]m[/u][/sup] . [u]φ[/u][sup][u]m[/u]n[/sup]
+([u]φ[/u][sup][u]m[/u][/sup])[sup][u]n[/u][/sup] = [u]φ[/u][sup][u]m[/u][u]n[/u][/sup]
+([u]φ[/u][sup][u]m[/u][/sup])[sup]1+[u]n[/u][/sup] = [u]φ[/u][sup][u]m[/u](1+[u]n[/u])[/sup] = [u]φ[/u][sup][u]m[/u]+[u]m[/u][u]n[/u][/sup]
+
+([u]φ[/u][u]ψ[/u])[sup][u]n[/u][/sup] = [u]φ[/u][sup][u]n[/u][/sup][u]ψ[/u][sup][u]n[/u][/sup]
+[del]([u]φ[/u][u]ψ[/u])[sup]1+N[/sup][/del]
+[u]φ[/u][sup][u]m[/u][u]n[/u][/sup] ([u]φ[/u][u]ψ[/u])
+= ([u]φ[/u][u]ψ[/u]) ([u]φ[/u][u]ψ[/u])[sup]N[/sup]
+= [u]φ[/u] [u]ψ[/u] [u]φ[/u][sup]N[/sup] [u]ψ[/u][sup]N[/sup]

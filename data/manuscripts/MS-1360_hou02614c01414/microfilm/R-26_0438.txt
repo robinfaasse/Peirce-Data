@@ -1,0 +1,25 @@
+[u]Arc of parabola[/u]
+$y = x^2$
+$D_x y = 2x$
+$\int \sqrt{1+x^2} dx$
+
+[del]$\sqrt{1+4x^2}$[/del]
+Put $z = \sqrt{1+x^2} - x$
+$z + x = \sqrt{1+x^2}$
+$z^2 + 2xz = 1$
+$x = \frac{1-z^2}{2z}$
+$\sqrt{1+x^2} = x + z = \frac{1+z^2}{2z} = \frac{1}{2z} + \frac{1}{2}z$
+$dx = $ [del]$dx = $[/del] $d \frac{1}{2z} - d \frac{z}{2} = \left(-\frac{1}{2z^2} - \frac{1}{2}\right) dz$
+$\sqrt{1+x^2} dx = \left(-\frac{1}{4z^3} - \frac{1}{2z} - \frac{1}{4}\right) dz$
+$\int \sqrt{1+x^2} dx = +\frac{1}{8z^2} - \frac{1}{2} \log z - \frac{1}{4} z$
+$z^2 = 1 + 2x^2 - 2x\sqrt{1+x^2}$
+$\int \sqrt{1+x^2} dx = \frac{3}{8} + \frac{1}{16x\sqrt{1+x^2} - 16x^2 - 8} - \frac{1}{4}\sqrt{1+x^2} + \frac{1}{4}x$
+$- \frac{1}{2} \log \left[\sqrt{1+x^2} - x\right]$
+
+$\sqrt{1+x^2} = \frac{[del]16\sqrt{1+x^2} + 16 \frac{x^2}{\sqrt{1+x^2}} - 32x[/del]}{[del]64[/del]_4 \left([del]8x^4[/del] [ins]$8x^4$[/ins] + 1 + 8x^3\sqrt{1+x^2} - 4x\sqrt{1+x^2}\right)}$
+$= -\frac{1}{4} \frac{x}{\sqrt{1+x^2}} + \frac{1}{4} + \frac{1}{2} \frac{\frac{x}{\sqrt{1+x^2}} - 1}{\sqrt{1+x^2}}$
+
+$= \frac{1}{4} \frac{1 + 2x^2 - 2x\sqrt{1+x^2}}{\left(8x^4 + 8x^2 + 1\right)\sqrt{1+x^2} - [del]12[/del] [ins]$8$[/ins]x^3 - 8x^5 - 4x}$
+$= \frac{1}{4} \frac{\left(-8x^5 - 8x^3 - x\right)\sqrt{1+x^2} + 12x^4 + 8x^6 + 4x^2 - 24x^3 - 16x^5 - 8x}{+ 16x^4 + 16x^2 + 2}$
+[del]$-2x^3$[/del] [del]$-2x$[/del]
+[del]$(1+2x^2)\sqrt{1+x^2}$[/del]

@@ -1,0 +1,41 @@
+[del]Case 100 Let a line not meeting the curve be
+projected to infinity and mark a point
+from which there is no tangent with a star[/del]
+
+There may be [del]any even number of[/del] [ins]2K[/ins]
+[del]inflexions, any even number of[/del]
+
+The numbers of inflexions and of cusps must
+be even -
+
+For every number [del]2I[/del] [ins]2I[/ins] of inflexions, there must
+be at least I bitangents, and there may be
+any even number above this up to [del]2I^2 in[/del]
+[del]all[/del] (2I-1)I in all [ins]any even number 2J besides provided
+J does not exceed [del]2I[/del] I(I-1)[/ins]
+
+For every number 2K of cusps, there must
+be at least K nodes and there may be any
+even number above this up to (2K-1)K in all.
+
+[del]In addition,[/del] [ins]Besides these nodes & bitangents[/ins] there may be any equal number
+of of both additional.
+
+$\iota = 2\text{ I}$
+$\kappa = 2\text{ K}$
+[del]$\delta = \text{I} + 2\text{D}$[/del] [del]$\text{C} \leqq \text{K}(\text{I}-1)$[/del]
+$\delta = \text{K} + 2\text{C} + \text{A}$   $\text{C} \leqq \text{K}(\text{K}-1)$
+$\tau = \text{I} + 2\text{J} + \text{A}$   $\text{J} \leqq \text{I}(\text{I}-1)$
+
+Not quite correct See fig 1
+
+[fig]Diagram of intersecting circles labeled fig 1[/fig]
+[fig]Triangle-like curve with cusps[/fig]
+[fig]Smooth oval curve with two lobes[/fig]
+[fig]Concentric-like looped curves[/fig]
+[fig]Concentric looped curves with a vertical line[/fig]
+[fig]Spiral-like looped curve[/fig]
+[fig]Scribbled line[/fig]
+[fig]Smooth elongated curve with two lobes[/fig]
+[fig]Smooth curve with three lobes[/fig]
+[fig]Self-intersecting looped curve[/fig]

@@ -1,0 +1,11 @@
+The number of ways in which a ring of
+[ured]n[/ured] regions can be colored with [ured]c[/ured] colors
+at most is
+[ured](c-1) {(c-1)^{n-1} + (-1)^{n-1}}[/ured]
+[u]n[/u]   c=1  c=2          c=3         c=4          c=5
+2   0   1.(1+1)=[del]2[/del] [ins]2[/ins]   2([del]2[/del] [ins]2[/ins]+1)=6   3(3+1)=12    4(4+1)=20
+3   0   1.(1-1)=0   2(4-1)=6    3(9-1)=24    4(16-1)=60
+4   0   1(1+1)=2    2(8+1)=18   3(27+1)=84   4(64+1)=260
+5   0   1(1-1)=0    2(16-1)=30  3(81-1)=240  4(256-1)=1020
+6   0   1(1-1)=[del]2[/del] [ins]2[/ins]   2(32+1)=66  3(243+1)=732 4(1024+1)=4100
+                                 [ins]244[/ins]

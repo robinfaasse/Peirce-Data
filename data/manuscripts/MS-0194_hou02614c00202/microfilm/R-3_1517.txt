@@ -1,0 +1,28 @@
+[fig]Diagram showing a parabola with geometric lines and angles[/fig]
+
+[marginalia]
+[del]y + c[/del]
+[del]y - c[/del]
+[del]x sin ϑ[/del]
+[del]x sin θ[/del]
+[del]y + c[/del]
+[/marginalia]
+
+[del]x² sin² ϑ + y² = x² sin² θ + y² + 2yc + c²[/del]
+
+[del]x² (sin² ϑ - sin² θ) = 2yc + c²[/del]
+
+[del]x² (sin² ϑ - sin² θ) / 2c - c/2 = y[/del]
+
+x² sin² ϑ + y² + 2yc + c²
+= x² sin² θ + y² - 2yc + c²
+
+x² (sin² θ - sin² ϑ) / 4c = y
+
+cos 2θ = cos² θ - sin² θ
+= 1 - 2sin² θ
+
+sin² θ = 1/2 - 1/2 cos 2θ
+
+[del]cos a + cos b = cos (a + b) cos (a - b)[/del]
+[del]cos a cos b - sin a sin b[/del]

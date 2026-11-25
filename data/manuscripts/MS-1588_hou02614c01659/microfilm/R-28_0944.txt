@@ -1,0 +1,155 @@
+[pn]1701[/pn]
+
+[fig]Vertical line[/fig]
+
+$$\begin{array}{c|c}
+00 & 01 \\
+\hline
+1 & 
+\end{array}$$
+
+$$\begin{array}{c}
+100001 \\
+\hline
+\end{array}$$
+
+$$\begin{array}{c}
+1001 \\
+111 \\
+1001 \\
+101 \\
+1001
+\end{array}$$
+
+$$\begin{array}{c}
+1 \\
+1001
+\end{array}$$
+
+$$\begin{array}{c}
+00001100001 \\
+\hline
+\end{array}$$
+
+$$\begin{array}{c}
+1001 \\
+111 \\
+1001 \\
+101 \\
+1001
+\end{array}$$
+
+$$\begin{array}{c}
+1 \\
+1001
+\end{array}$$
+
+$$\begin{array}{c}
+\frac{32}{48} \\
+\frac{8}{38}
+\end{array}$$
+
+$$\begin{array}{c}
+110011 = 51 \\
+100110 = 38 \\
+\hline 1100113
+\end{array}$$
+
+$$\begin{array}{c}
+128 \\
+16 \\
+7 \\
+\hline 151
+\end{array}$$
+
+$$\begin{array}{c}
+256 \\
+64 \\
+32 \\
+\hline 354
+\end{array}$$
+
+$$\begin{array}{c}
+110011 \\
+1001
+\end{array}$$
+
+$$\begin{array}{c}
+101100010 = 354 \\
+10010111 = 151 \\
+\hline 11001011
+\end{array}$$
+
+$$\begin{array}{c}
+64 \\
+8 \\
+3 \\
+\hline 75 \\
+128 \\
+\hline 203
+\end{array}$$
+
+$$\frac{7}{53} = \frac{1}{9}$$
+
+$$\frac{A+x}{v} = \frac{x}{u} + \text{Time}$$
+
+$$\frac{A}{v} = x \left( \frac{1}{u} - \frac{1}{v} \right)$$
+
+$$x = A \cdot \frac{\frac{1}{v}}{\frac{1}{u} - \frac{1}{v}} = A \frac{1}{\frac{v}{u} - 1}$$
+
+$$x = A \frac{u}{v-u}$$
+
+$$\frac{x+A}{x} = \frac{v}{u}$$
+
+$$1 + \frac{A}{x} = \frac{v}{u}$$
+
+$$\frac{A}{x} = \frac{v}{u} - 1 = \frac{v-u}{u}$$
+
+$$x = A \frac{u}{v-u}$$
+
+$$v = \text{speed of bubbles}$$
+
+$$u = \text{speed of vortices}$$
+
+$$x = \text{distance run by}$$
+$$\text{vortices}$$
+
+$$\frac{A}{v-u} = \text{time}$$
+
+$$\frac{A}{u} \cdot \frac{u}{v-u} = T$$
+
+$$\frac{A}{u} \cdot \frac{1}{\frac{v}{u}-1}$$
+
+[fig]Vertical line dividing pages[/fig]
+
+$$t u = x$$
+$$t v = A + x$$
+
+$$\frac{A+x}{x} = \frac{v}{u}$$
+
+$$\frac{A}{x} + 1 = \frac{v}{u}$$
+
+$$\frac{A}{x} = \frac{v}{u} - 1$$
+
+$$x = \frac{A}{\frac{v}{u}-1}$$
+
+$$x = \frac{A u}{v-u}$$
+
+$$x v = (A + x) u$$
+$$x (v - u) = A u$$
+$$x = \frac{A u}{v-u}$$
+
+$$t = \frac{x}{u}$$
+$$t = \frac{A}{v-u}$$
+$$x \left( \frac{1}{u} - \frac{1}{v} \right) = \frac{A}{v}$$
+$$x = \frac{\frac{A}{v}}{\left( \frac{1}{u} - \frac{1}{v} \right)}$$
+$$x = \frac{A}{v \left( \frac{1}{u} - \frac{1}{v} \right)}$$
+
+$$\frac{v}{u} = \frac{11}{10}$$
+$$\frac{A}{x} = \frac{11}{10} - 1 = \frac{1}{10}$$
+$$A + x = \frac{A v}{v-u}$$
+$$\frac{x}{A} = \frac{u}{v-u}$$
+$$\frac{A+x}{A} = \frac{v}{v-u}$$
+$$\frac{A+x}{A} = \frac{1}{1-\frac{u}{v}}$$
+$$\frac{A+x}{A} = \frac{1}{1-\frac{10}{11}} = 11$$
+$$A+x = 11 A$$

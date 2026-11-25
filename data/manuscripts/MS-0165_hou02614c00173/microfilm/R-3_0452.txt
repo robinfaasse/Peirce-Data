@@ -1,0 +1,30 @@
+[pn]205[/pn]
+
+[del]C₁ + C₂ + C₃ +[/del] [del]= u₀[/del]
+[del]C₁x₁ + C₂x₂ + C₃x₃[/del]
+C₁x₁ⁿ + C₂x₂ⁿ + C₃x₃ⁿ + etc = u₁ ,
+C₁x₁ⁿ⁻¹ + C₂x₂ⁿ⁻¹ + C₃x₃ⁿ⁻¹ + etc = u₂ ,
+C₁x₁ⁿ⁻² + C₂x₂ⁿ⁻² + C₃x₃ⁿ⁻² + etc = u₃ ,
+
+C₁x₁ + C₂x₂ + C₃x₃ + etc = uₙ
+
+With these equations we could get out values of C₁, C₂, C₃, etc.
+Then
+uₘ = C₁x₁ⁿ⁺¹⁻ᵐ + C₂x₂ⁿ⁺¹⁻ᵐ + C₃x₃ⁿ⁺¹⁻ᵐ + etc
+
+Now if m is a very large number all the quantities [ins]where x₁ has the[/ins] xᵢⁿ⁺¹⁻ᵐ etc.
+will be very small compared with the one [del]of[/del] [ins]of[/ins] smallest
+modulus, so that if that one be x₁ we shall have, very nearly,
+[u]uₘ[/u] = [u]C₁x₁ⁿ⁺¹⁻ᵐ[/u] = x₁ .
+uₘ₊₁   C₁x₁ⁿ⁺¹⁻ᵐ⁻¹
+
+But if C₁ = 0, as it may happen to be, owing to the numbers
+u₁, u₂ . . . . uₙ being taken arbitrarily, this will fail, and [del]the[/del]
+root of next lowest modulus will be given.
+
+[u]Illustration 37[/u]. Let us first show how this rule ordinarily
+works. Suppose we want the square root of 2. We cannot
+use the equation x² = 2 because its two roots have the [del]same[/del]
+modulus. We therefore put (x + 1)² = 2 and we shall have [del]x[/del]
+equal the x = √2 - 1. Multiplying [del]x + 1[/del] into itself we find
+(x + 1)² = x² + 2x + 1. Hence, the equation in the form needed is x² + 2x = 1

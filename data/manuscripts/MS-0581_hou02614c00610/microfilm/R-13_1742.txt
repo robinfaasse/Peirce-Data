@@ -1,0 +1,37 @@
+[fig]Diagram of points h, i, j, k connected by lines[/fig]
+
+[fig]Diagram of points h, i, j, k connected by lines[/fig]
+
+[fig]Diagram of points connected by lines[/fig]
+
+$\Pi_i \Pi_j \Sigma_k \Pi_u \Pi_v$
+$\bar{\gamma}_{jij} + \gamma_{jhi} \cdot \gamma_{jik} \cdot T_{hi} \cdot T_{kj} \cdot [\bar{T}_{uv} + t_{ui} \cdot t_{vj}]$
+
+[del]$\Pi_i \Pi_j \Sigma_k \Pi_u \Pi_v$[/del]
+$\Pi_i \Pi_j [del]\Sigma_k[/del] \Sigma_k$
+
+$\bar{\gamma}_{jij} + \bar{\gamma}_{jhi} + \bar{\gamma}_{jik}$
+$\bar{\gamma}_{jij} + \gamma_{jhi} \cdot T_{jhi} \cdot \gamma_{jik} \cdot T_{jik} \cdot (\bar{T}_{uv} + T_{uj} + T_{vi})$
+
+[fig]Diagram of points connected by lines[/fig]
+
+Suppose that a relation between two collections
+the $a$'s and the $b$'s is [del]by[/del] definition of a certain
+character [del]$S$[/del] [del]$Z$[/del] taking any relation whatever
+if and only if, [del]there is a relation[/del]
+
+[fig]Diagram of points i, j, k, x, y, u, v connected by lines[/fig]
+
+$\Pi_i \Pi_j \Sigma_k \Sigma_x \Sigma_y \Pi_u \Pi_v$
+$\bar{\gamma}_{jik} + \gamma_{jiy} \cdot \gamma_{jix} \cdot \gamma_{jjy} \cdot \gamma_{jkx} \cdot \gamma_{jky} \cdot T_{ij} \cdot T_{ik} \cdot T_{jk} \cdot T_{xy} \cdot [\bar{T}_{uv} + (t_{ui} \cdot t_{vj} + [ins]t_{vi} \cdot t_{uj}[/ins])]$
+
+[del]$\Pi_j \Sigma_i \Sigma_k \Pi_x \Pi_y \Sigma_u \Sigma_v$[/del]
+$\Pi_j \Sigma_i \Sigma_k \Pi_x \Pi_y \Sigma_u \Sigma_v$
+$Z_j + \bar{\gamma}_{jix} \cdot (\bar{\gamma}_{jiy} + \bar{\gamma}_{jjy} + \bar{\gamma}_{jkx} + \bar{\gamma}_{jky} + t_{ij} + t_{ik} + t_{jk} + t_{xy} +$
+$+ \gamma_{juv} \cdot (T_{ui} \cdot T_{vj} + T_{vi} \cdot T_{uj})$
+
+$W$
+$\Sigma_j \Pi_a \Pi_b Z_j \cdot (\bar{A}_a$
+[del]$\Sigma_j \Pi_i \Pi_k \Sigma_j \Sigma_k \Sigma_y \Pi_u \Pi_v$[/del]
+$\Sigma_j \Pi_i \Pi_k \Sigma_j \Sigma_k \Sigma_y \Pi_u \Pi_v$
+$\bar{\gamma}_{jix} + \bar{\gamma}_{jiy}$

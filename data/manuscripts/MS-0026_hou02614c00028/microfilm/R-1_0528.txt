@@ -1,0 +1,23 @@
+[pn]9[/pn]
+[u]On Multitudes[/u]
+
+[u]Art. 7[/u]. There are sundry propositions deducible from the last two axioms in conjunction with those previously stated, which it will be advantageous to notice, at once.
+
+[u]Theorem 5[/u]. Given any object whatever and any collection whatever, there is a relation which that object bears to every unit of that collection but to nothing else, and which no other object bears to anything. That is,
+(10) $\Pi_{\underline{x}} \Pi_{\alpha} \Sigma_{\beta} \Pi_{y} \Pi_{\underline{z}} \ (\bar{q}_{xy} + \bar{r}_{\beta xy}) \cdot (l_{\underline{z}\underline{z}} + \bar{r}_{\beta\underline{z}y}) \cdot (q_{\underline{x}y} + \bar{r}_{\beta\underline{x}y})$
+
+This is a conclusion of the first order in (1) and the second order in (8); so that
+$(1) \cdot (8)^{2} \prec (10)$.
+
+For first squaring (8) after transposing $x$ and $y$ in the quantifying part, and then diversifying $x$ in the two factors, and dropping certain factors, we get
+(11) $\Pi_{\alpha} \Pi_{\beta} \Sigma_{\gamma} \Pi_{y} \Pi_{x} \Pi_{\underline{z}} \ (\bar{q}_{\alpha x} + \bar{q}_{\beta y} + \bar{r}_{\gamma xy}) \cdot (q_{\alpha x} + \bar{r}_{\gamma\underline{z}y}) \cdot (q_{\beta y} + \bar{r}_{\gamma\underline{z}y})$.
+Multiplying this by (1) in which for $x, \alpha, y$, we write $u, \delta, v$, we get
+$\Pi_{u} \Sigma_{\delta} \Pi_{\alpha} \Pi_{\beta} \Sigma_{\gamma} \Pi_{y} \Pi_{x} \Pi_{\underline{z}} \Pi_{v} \ q_{\delta u} \cdot (\bar{q}_{\alpha x} + \bar{q}_{\beta y} + \bar{r}_{\gamma xy}) \cdot (l_{uv} + \bar{q}_{\delta v}) \cdot (q_{\alpha x} + \bar{r}_{\gamma\underline{z}y}) \cdot (q_{\beta y} + \bar{r}_{\gamma\underline{z}y})$.
+Identifying $\alpha$ with $\delta$, $x$ with $u$, and $v$ with $z$, and [del]applying[/del] [ins]employing[/ins] the usual reductions, we get,
+$\Pi_{u} \Sigma_{\delta} \Pi_{\beta} \Sigma_{\gamma} \Pi_{y} \Pi_{\underline{z}} \ (\bar{q}_{\beta y} + \bar{r}_{\gamma uy}) \cdot (l_{u\underline{z}} + \bar{r}_{\gamma\underline{z}y}) \cdot (q_{\beta y} + \bar{r}_{\gamma uy})$.
+Dropping from the quantifying part the index $\delta$ which does not appear in the Boolean, we get (10), with $u$ written for $x$, $\beta$ for $\alpha$, and $\gamma$ for $\beta$. Q.E.D.
+
+[u]Theorem 6[/u]. Given any two objects whatever, there is a relation which [del]either[/del] [ins]one[/ins] of those objects bears to the latter and to nothing else, and which no other object bears to anything. That is,
+(12) $\Pi_{\underline{x}} \Pi_{\underline{y}} \Sigma_{\alpha} \Pi_{u} \Pi_{v} \ r_{\alpha\underline{x}\underline{y}} \cdot (\bar{r}_{\alpha uv} + l_{u\underline{x}}) \cdot (\bar{r}_{\alpha uv} + l_{v\underline{y}})$.
+
+This is a conclusion of the second order both in (1) and in (8); so that $(1)^{2} \cdot (8)^{2} \prec (12)$.

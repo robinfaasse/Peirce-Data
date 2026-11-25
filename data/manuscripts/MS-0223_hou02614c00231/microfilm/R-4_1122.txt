@@ -1,0 +1,30 @@
+[u]Gibb's Papers. Vol II p 30[/u]
+
+§47.
+
+Suppose $\rho_1 = x\mathbf{i} + y\mathbf{j} + z\mathbf{k}$
+[del]$\rho_2 = x\mathbf{i} +$[/del]
+$\rho_2 = (x+dx)\mathbf{i} + y\mathbf{j} + z\mathbf{k}$
+$\rho_3 = (x+2dx+d^2x)\mathbf{i} + (y+d^2y)\mathbf{j} + z\mathbf{k}$
+
+$ds = dx = \sqrt{(dx+d^2x)^2 + (d^2y)^2}$
+$(dx)^2 = (dx)^2 + 2dx.d^2x + (d^2x)^2 + (d^2y)^2$
+$2dx.d^2x + (d^2x)^2 + (d^2y)^2 = 0$
+
+$(\frac{d\rho}{ds})_1 = \frac{dx\mathbf{i}}{dx} = \mathbf{i}$  $(\frac{d\rho}{ds})_2 = \frac{(dx+d^2x)\mathbf{i} + d^2y\mathbf{j}}{\sqrt{(dx+d^2x)^2 + (d^2y)^2}}$
+
+[fig]Three vectors meeting at a point[/fig]
+
+$\rho_2 = x\mathbf{i} + y\mathbf{j} + z\mathbf{k}$
+$\rho_1 = (x-dx)\mathbf{i} + (y+dy)\mathbf{j} + z\mathbf{k}$
+$\rho_3 = (x+dx)\mathbf{i} + (y+dy)\mathbf{j} + z\mathbf{k}$
+
+$d^2\rho = 2dy.\mathbf{j}$  $(ds)^2 = dx^2 + dy^2$
+$d^2x = 0$  $d^2y = 2dy$
+$\text{Curvature} = \sqrt{(\frac{d^2x}{ds^2})^2 + (\frac{d^2y}{ds^2})^2} = \frac{2dy}{ds^2}$
+
+[marginalia]
+$u_0$
+$u_1$ $u_1 - u_0$
+$u_2$ $u_2 - u_1$ $u_2 - 2u_1 + u_0$
+[/marginalia]

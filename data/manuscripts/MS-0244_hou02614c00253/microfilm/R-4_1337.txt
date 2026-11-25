@@ -1,0 +1,78 @@
+$$u \ \begin{array}{c} a \\ \times \\ c \end{array} \ b \ \left( v \ \begin{array}{c} e \\ \times \\ g \end{array} \ w \right)$$
+$$\overline{u \ \begin{array}{c} \\ \times \\ m \end{array} \ (v \times w)}$$
+
+$$u \ \begin{array}{c} \\ \times \\ m \end{array} \ \begin{array}{c} \\ \times \\ n \end{array} \ v$$
+$$u \ \begin{array}{c} \\ \times \\ m \end{array} \ \begin{array}{c} \\ \times \\ n \end{array} \ v$$
+
+$$u \ \begin{array}{c} \\ \times \\ m \end{array} \ (v \ \begin{array}{c} \\ \times \\ n \end{array} \ w) = u \ \begin{array}{c} \\ \times \\ m+n \end{array} \ (v \ \begin{array}{c} \\ \times \\ n \end{array} \ w)$$
+$$\qquad \qquad \qquad \ = v \ \begin{array}{c} \\ \times \\ n \end{array} \ (w \ \begin{array}{c} \\ \times \\ u \end{array} \ )$$
+
+$$u \ \begin{array}{c} \\ \times \\ m \end{array} \ (v \ \begin{array}{c} \\ \times \\ n \end{array} \ w)$$
+$$u \ \begin{array}{c} \\ \times \\ m \end{array} \ v$$
+$$\overline{u + v + m \cdot \bar{u} \cdot \bar{v}}$$
+
+$$u \ \begin{array}{c} \\ \times \\ m \end{array} \ v$$
+$$\overline{\bar{u} + v + m \cdot \bar{u} \cdot \bar{v}}$$
+
+[fig]Venn diagram with three circles[/fig]
+$$u \ \begin{array}{c} \\ \times \\ n+1 \end{array} \ \begin{array}{c} \\ \times \\ (n+1) \bar{v} \bar{w} \end{array}$$
+$$\overline{v + w + [ins]n[/ins] \cdot \bar{v} \cdot \bar{w}}$$
+$$\frac{1}{m} \cdot \frac{1}{(n+1) \bar{v} \bar{w}} \cdot \frac{1}{(n+1) \bar{v} \bar{w}}$$
+$$\overline{\bar{u} \bar{v} w + \bar{u} v \bar{w} + \bar{u} \bar{v} \bar{w} + u \bar{v} \bar{w}}$$
+$$\overline{u v w} \qquad \qquad \overline{\bar{u} \bar{v} \bar{w}}$$
+$$\overline{u w + \bar{u} \bar{v}}$$
+
+[fig]Venn diagram with three circles[/fig]
+
+---
+
+$$u \ \begin{array}{c} \\ \times \\ n \end{array} \ (v \ \begin{array}{c} \\ \times \\ w \end{array} \ )$$
+$$\overline{v + w + n \cdot \bar{v} \cdot \bar{w}}$$
+$$\overline{(n+1) \bar{v} \cdot \bar{w}}$$
+
+$$\overline{[del]m \cdot u [ v + w + n \cdot \bar{v} \cdot \bar{w} ][/del]}$$
+$$\overline{\bar{u} + (n+1) \bar{v} \cdot \bar{w}}$$
+$$\overline{v + w + n \cdot \bar{v} \cdot \bar{w}}$$
+$$\overline{\frac{[del]\bar{u}[/del]}{[\bar{v} \cdot \bar{w}]} - n) \bar{v} \bar{w}}$$
+$$\overline{\bar{u} + ([\bar{v} \cdot \bar{w}] - n) \bar{v} \bar{w}}$$
+$$\overline{m \cdot [del]u[/del] [ins]\bar{u}[/ins] [ v + w + n \cdot \bar{v} \cdot \bar{w} ]}$$
+
+$$u \ \begin{array}{c} m \\ \times \\ n \end{array} \ (v+w)$$
+
+[fig]Venn diagram with three circles[/fig]
+$$\bar{u} \cdot \bar{v} \cdot v = U - m$$
+$$\bar{v} \cdot \bar{w} \cdot w = U - n$$
+$$(\bar{u} \cdot \bar{v} \cdot v) + (\bar{v} \cdot \bar{w} \cdot w) = [del]2 U - m - n[/del]$$
+$$\bar{u} + v - \bar{u} \bar{v} = U - m$$
+$$w + \bar{v} - w \bar{v} = U - n$$
+$$\overline{u + w - (\bar{u} \bar{v} + w \bar{v}) = U + m - n}$$
+
+$$v + n \cdot \bar{v} \bar{w} \qquad w + n \cdot \bar{v} \bar{w}$$
+$$\overline{\bar{v} \cdot w + n \cdot \bar{v} \bar{w}} \quad \overline{v \cdot \bar{w} + n \cdot \bar{v} \bar{w}}$$
+$$\overline{\frac{1}{n} \bar{v} \bar{w}}$$
+$$\overline{\bar{u} \ \begin{array}{c} \\ \times \\ n \end{array} \ \bar{v} \ \bar{w}}$$
+
+$$\overline{\frac{1}{n} \bar{v} \bar{w}}$$
+$$\overline{\bar{u} \ \begin{array}{c} \\ \times \\ n \end{array} \ \bar{v} \ \bar{w}}$$
+$$\overline{m \cdot (v + w + n \cdot \bar{v} \cdot \bar{w})}$$
+
+$$u \ \begin{array}{c} \\ \times \\ n \end{array} \ m$$
+$$[del]u \ \begin{array}{c} \\ \times \\ n \end{array} \ (v+w)[/del]$$
+$$\bar{v} \cdot \bar{w}$$
+
+$$\begin{array}{c|c}
+u \bar{v} = 0 & v \cdot \bar{w} = 0 \\
+u \cdot \bar{w} = 0 & u \cdot v = m \\
+\hline
+\bar{w} \cdot u \cdot v = 0 & u v = u v w \\
+\bar{u} \cdot w \cdot v = 0 & u \cdot \bar{v} \cdot \bar{w} = m \\
+\hline
+u \cdot \bar{v} \in m & v w \ge m \\
+\hline
+v \cdot \bar{w} \le n & \bar{u} + v \cdot \bar{u} \bar{v} = U - m \\
+\hline
+w \cdot u \cdot v < m & [fig]Venn diagram[/fig] \\
+u v - u w \ w \cdot v < n & \\
++ u v - v w \ u w < m+n & x + y \ge m \\
+& s + t \ge w
+\end{array}$$

@@ -1,0 +1,12 @@
+[u]Art[/u]. [u]Theorem[/u] [[del]The Pons Asinorum[/del]] [u]In an isosceles[/u] [u]triangle, the angles opposite the equal sides are equal.[/u]
+
+[u]Demonstration[/u]. The reasoning is the same whether the triangle be plane or spherical. It will, therefore, be sufficient to prove the theorem for plane triangles.
+
+[fig]Isosceles triangle ABC[/fig] Let [A], [B], [C] be three points such that
+|[A][B]| = |[A][C]|.
+
+Then, I say <B = <C.
+
+For since |[A][B]| = |[A][C]|, the part of the metron in one can be moved into the part in the other. Hence the straight filaments in {[A][B]} and {[A][C]} may, by the Fourth Property of the Metron, change places. Then, since |[A][B]| = |[A][C]|, the stretch of the metron which initially just filled |[A][B]| will, after the displacement, just fill |[A][C]|. Consequently, the particles initially at [B] and [C] will change places. Hence, the straight filament initially in {[B][C]} will after the displacement lie in {[B][C]}. Thus, the plane sweep of the metron which initially just filled <B will after the displacement just fill <C. Hence, <B = <C. Q.E.D.
+
+[u]Scholium[/u]. This theorem may be regarded as a corollary of the last, the two triangles compared being [del]ABC[/del] [ins]$\Delta$ABC[/ins] and $\Delta$ACB.

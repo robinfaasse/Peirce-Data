@@ -1,0 +1,21 @@
+Examination of the Copula of Inclusion
+
+Definition of this copula.
+
+A. We are justified in writing $X \prec Y$, provided that assuming $X$ to be true, we find ourselves [del]forced to admit $Y$ is true.[/del] [ins]obliged to take[/ins] $X \prec Y$, if we cannot assume $X$ to be true.
+[del]A'. We are justified in assuming[/del]
+B. If $X \prec Y$, and we assume $X$ to be true, we are bound to admit that $Y$ is true.
+
+General form with one copula
+$X \prec Y$.
+
+This becomes necessarily true in the special case
+(1) $X \prec X$
+This is the [u]principle of identity[/u]. [u]Proof[/u] Assume $X$ to be true, then we are forced to admit $X$ is true. Hence, by A., the formula holds $X \prec X$.
+
+General forms with two copulas
+I. $X \prec (Y \prec Z)$
+II. $(X \prec Y) \prec Z$
+Form I is true in two special cases
+(2) $X \prec (Y \prec Y)$
+For assuming $X$ to be true, we are forced by (1) to admit $Y \prec Y$. Hence, by A, $X \prec (Y \prec Y)$.

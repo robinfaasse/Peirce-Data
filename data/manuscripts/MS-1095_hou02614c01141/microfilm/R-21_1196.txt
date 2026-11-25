@@ -1,0 +1,8 @@
+[del](D_y) = D_{y'} y' ([/del]
+D_y = D_{y'} y' \cdot (D_{y'})
+
+D_y^2 = D_{y'} y' \cdot (D_{y'}) D_{y'} y' \cdot (D_{y'}) + (D_{y'} y')^2 (D_{y'}^2)
+= \frac{- \frac{1}{4} \frac{(a^2-b^2)^2}{c^2}}{(y' + \frac{1}{2} \frac{a^2-b^2}{c})^3} (D_{y'}) + \frac{\frac{1}{4} \frac{(a^2-b^2)^2}{c^2}}{(y' + \frac{1}{2} \frac{a^2-b^2}{c})^2} (D_{y'}^2)
+
+D_x^2 + D_y^2 = (D_x^2) + \frac{x^2 + \frac{1}{4} \frac{(a^2-b^2)^2}{c^2}}{(y' + \frac{1}{2} \frac{a^2-b^2}{c})^2} (D_{y'}^2) - 2 \frac{x}{y' + \frac{1}{2} \frac{a^2-b^2}{c}} (D_x D_{y'})
+- \frac{x^2 + (y' + \frac{1}{2} \frac{a^2-b^2}{c})^2 + \frac{1}{4} \frac{(a^2-b^2)^2}{c^2}}{(y' + \frac{1}{2} \frac{a^2-b^2}{c})^3} (D_{y'})

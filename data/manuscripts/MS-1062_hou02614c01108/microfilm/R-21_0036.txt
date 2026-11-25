@@ -1,0 +1,19 @@
+a known load at a known distance.
+
+[del]If we[/del] In order to get [del]an idea[/del] a general conception of the mode of motion of the pendulum, suppress the first factor of the differential equation and write
+
+$$I_1 D_t^2 \varphi_1 + \Big\{ \frac{I_1}{I_1+I_2} (\gamma_1-\gamma_2) - \frac{I_1}{(I_1+I_2)^3} \frac{(I_2\gamma_1+I_1\gamma_2)^2}{\mathcal{E}} \Big\} \varphi_1 = 0$$
+
+Subtract this from the first equation
+
+$$I_1 D_t^2 \varphi_1 = -\gamma_1 \varphi_1 - \mathcal{E}(\varphi_1-\varphi_2)$$
+
+and we have
+
+$$\frac{I_1}{I_1+I_2} \Big\{ (\gamma_1-\gamma_2) - \frac{(I_2\gamma_1+I_1\gamma_2)^2}{(I_1+I_2)^2 \mathcal{E}} \Big\} \varphi_1 = (\mathcal{E}+\gamma_1) \varphi_1 - \mathcal{E}\varphi_2$$
+
+or
+
+$$\varphi_2-\varphi_1 = \frac{1}{\mathcal{E}} \Big\{ \frac{I_2\gamma_1+I_1\gamma_2}{I_1+I_2} \mathcal{E} + \frac{I_1}{(I_1+I_2)^2} \frac{(I_2\gamma_1+I_1\gamma_2)^2}{\mathcal{E}} \Big\} \varphi_1$$
+
+This shows that, except for a [del]local[/del] motion which may be set up, the upper point will always be a little more displaced than the lower in a fixed ratio.

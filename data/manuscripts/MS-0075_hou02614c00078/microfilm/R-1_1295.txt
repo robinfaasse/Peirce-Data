@@ -1,0 +1,11 @@
+[pn]III[/pn]
+
+[u]Proof that there are but three associative algebras[/u] in which division by finites always yields an unambiguous quotient.
+
+1. If in any algebra division is unambiguous the product of two finites can never be zero. For if $pq=0$, then $pr=p(r+q)$, and division by $p$ may give $r$ or $r+q$.
+
+2. It is shown in the [u]Linear Associative Algebra[/u], §40, that every algebra that contains no expression whose square vanishes contains an idempotent expression, $i$. It is further shown that every other expression is resolvable into the sum of two such that
+$iA = A$, $iB = 0$.
+But in the case supposed, $B$ must vanish, and every expression multiplied by or into $i$ must give itself.
+
+3. Although in the [u]Linear Associative Algebra[/u], the [del]coefficients[/del] [ins]scalars[/ins] are permitted to be imaginary, while here they are restricted to being real, yet the reasoning holds by which it is shown, in §53, that $A$ being

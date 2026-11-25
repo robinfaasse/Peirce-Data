@@ -1,0 +1,62 @@
+[marginalia]
+Minsins Bridge [date]1888 Feb 10[/date]
+[/marginalia]
+
+[pn]5[/pn]
+
+[marginalia]
+[del]-1[/del] [ins]+3.2[/ins] -3.4 +8
+-[del]1/6[/del] [ins]+1[/ins] -2 +4/3
+[u]P² - 4P + 4[/u]
+[/marginalia]
+
+[del](A - B)[/del] [del]2 - 2ds[/del] = -1/6 u/B P³ + u/B P² ds - 2 u/B P [ins](ds)²[/ins] + 4/3 u/B (ds)³
++ E₂ P² - 4E₂ P + 4E₂
+- E₁ P + 2E₁
++ E₀
+
+[marginalia]
+P² - 2P + 1
+-P² + 2P - 1
+
+-1 +3 -3 +1
+-1/6 + 1/2 - 1/2 + 1/6
++4/3 -4 +4 -4/3
+[/marginalia]
+
+= - u/B P³ + 6 C₂ P² [del]ds[/del] - 6 C₂ P (ds)² + 6 C₀ (ds)³
++ 4/3 u/B P³ - 4 u/B P² ds + 4 u/B P (ds)² - 4/3 u/B (ds)³
+- 8 C₂ P² + 16 C₂ P ds - 8 C₂ ds²
++ 8 C₁ P - 8 C₁ ds
+- 8 C₀
+
+[marginalia]
+-1 +3.2 -3.4 +8
+-1/2 +3 -6 +4
+
+1 -4 4
+3 -12 +12
+
+-P + 2
+-3 + 6
+
+-3/2 = -9/6 +3 [del]-1/4[/del] [ins]-1/4[/ins] | [del]+2/+4[/del] [ins]+2/+4[/ins] -6 | -4/3/3
++8/6
++2 +4/3
+[/marginalia]
+
+- 1/2 u/B P³ + 3 u/B P² ds - 6 u/B P (ds)² + 4 u/B (ds)³
++ 3 C₂ P² - 12 C₂ P ds + 12 C₂ (ds)²
+- 3 C₁ P + 6 C₁ ds
++ 3 C₀ + 2/3 u/B (ds)³
+< 2 u/B P (ds)²
+
+That is
+E₂ (P² - 4P + 4) + E₁ (-P + 2) + E₀ ?
+= C₂ (P² + 4P ds + 4ds²) + C₁ (-P - 2ds) + C₀ - 2 u/B P² ds + 2/3 u/B (ds)³ - 2 u/B P (ds)²
+
+<u>Combining with 2nd</u>
+E₂ (-2P + 3) + E₁ = C₂ (6P ds + 3ds²) - 3 C₁ ds - 2 u/B P² ds + 7/6 u/B (ds)³ - 3/2 u/B P (ds)²
+
+<u>Combined with last combination</u>
+2 E₂ = C₂ (8 [del]P[/del] ds + 2ds²) - 4 C₁ ds - 2 u/B P² ds + 5/3 u/B (ds)³ - u/B P (ds)²

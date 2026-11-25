@@ -1,0 +1,19 @@
+I commence without indices, and let it
+be understood that every formula without an
+index refers to an individual. As I showed
+in my paper in the third volume of this
+Journal, [del]the[/del] first operative symbol of logic
+is [u]⤙[/u]. The formula
+$$x \prec y$$
+means [del]that[/del] [ins]if[/ins] the individual [del]of which forms the
+subject of discourse either[/del] [ins]is[/ins] $x$ is true $y$ is true.
+That is to say, [del]the[/del] putting $v$ for true, $f$ for
+false,
+$$x \prec y$$
+$$\begin{array}{c|c}
+\text{is true} & \text{is false} \\
+\text{when} & \text{when} \\
+x=f \quad y=f & x=v \quad y=f. \\
+x=f \quad y=v & \\
+x=v \quad y=v &
+\end{array}$$

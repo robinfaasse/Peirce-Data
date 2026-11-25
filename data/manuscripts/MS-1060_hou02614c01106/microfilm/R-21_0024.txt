@@ -1,0 +1,41 @@
+[pn]17.[/pn]
+
+des $S$ pour les deux supports est $0^{\text{mm}}.0309$. Maintenant je trouve
+$\frac{\theta^2 l}{g} = 1.0125$ secondes sidérales, et $l = 1^{\text{m}}$ ; ainsi nous concluons
+
+$\Delta \frac{\theta^2 l}{g} = - \left( \frac{\theta^2 l}{g} \right) \frac{M S}{\Sigma} = \frac{81}{80} \times 6.25 \times 0.0309 = .000191$
+
+J'ai fait osciller le pendule trois fois sur le support le moins
+solide et une fois sur le plus solide, pour vérifier la théorie. J'ai obser-
+vé dix passages du pendule par la verticale chaque 5 minutes, en me
+servant du relais que j'ai inventé à cet effet.
+
+[u]A. Oscillations sur le Support Repsold.[/u]
+
+[u]Hoboken 1 Avril 1877[/u]
+
+[u]Bout pesant en haut[/u]
+
+| Nombre d'oscillations | Intervalle par chronomètre | Réduction à l'arc infiniment petit | Intervalle corrigé | Durée d'une oscillation |
+| :---: | :---: | :---: | :---: | :---: |
+| 300 | $301^{\text{s}}.9552$ | $- 0^{\text{s}}.0130$ | $301^{\text{s}}.9422$ | $1.006507$ |
+| 296 | $297.9408$ | $- 0.0084$ | $297.9324$ | $528$ |
+| 298 | $299.9533$ | $- 0.0060$ | $299.9473$ | $535$ |
+
+En moyenne* $1.0065238$
+
+[u]Bout pesant en bas[/u]
+
+| 296 | $297.9094$ | $- 0.0092$ | $297.9002$ | $1.006420$ |
+| 302 | $303.9376$ | $- 0.0081$ | $303.9295$ | $389$ |
+| 296 | $297.9060$ | $- 0.0066$ | $297.8994$ | $417$ |
+
+$1.0064067$
+
+Ainsi nous avons
+$T_1^2 = 1.0130902$
+$T_2^2 = 1.0128544$
+
+* Quand on a une série d'intervalles consécutifs égaux, si $n$ est le nombre des interval-
+les et $i$ est le numéro d'un d'eux, on doit en prenant la moyenne donner à cet
+intervalle, le poids [u]$i \ n - i (i - 1)$[/u].

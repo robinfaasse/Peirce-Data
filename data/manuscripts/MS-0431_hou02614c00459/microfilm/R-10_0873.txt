@@ -1,0 +1,49 @@
+[pn]Logic
+III
+39[/pn]
+
+and y in this order will be possible in the seven cases:
+
+$1^{\text{st}}$, $vv$, $ff$; $\Phi_i\Phi_k = \Phi_i\Phi_k\Phi_k = \Phi_i\Phi_k$
+$2^{\text{nd}}$, $vf$, $fv$; $\Phi_i\Phi_k = $
+$3^{\text{rd}}$, $vv$, $vf$, $fv$; $\Phi_i\Phi_k = \Phi_i\Phi_k\Phi_i = \Phi_j\Phi_j$
+$4^{\text{th}}$, $vv$, $vf$, $ff$; $\Phi_i = \Phi_i\Phi_i\Phi_k$
+$5^{\text{th}}$, $vv$, $fv$, $ff$; $\Phi_k = \Phi_i\Phi_k\Phi_k$
+$6^{\text{th}}$, $vv$, $vf$, $fv$, $ff$. $\Phi_i\Phi_k = \Phi_k = \Phi_i\Phi_k\Phi_i$.
+
+$(\Phi_i\Phi_k)\Phi_l =$
+
+$\Phi_i\Phi_k\Phi_l$
+$\Phi_i\Phi_k\Phi_i$
+$\Phi_i\Phi_k\Phi_k$
+$\Phi_i\Phi_k\Phi_l\Phi_i$
+$\Phi_i\Phi_k\Phi_l$
+$\Phi_i\Phi_k\Phi_l$
+
+$\Phi_i\Phi_k = \Phi_i\Phi_k$
+$\Phi_i\Phi_k\Phi_l$
+
+$(\Phi_i\Phi_k)\Phi_l$
+
+$\Phi_i\Phi_k\Phi_l = \Phi_i\Phi_k$
+$\Phi_i\Phi_k\Phi_l = \Phi_i\Phi_k$
+$\Phi_i\Phi_k\Phi_l$
+[del]$\Phi_i\Phi_k\Phi_l\Phi_i\Phi_k\Phi_l$[/del]
+[del]$\Phi_i\Phi_k\Phi_l\Phi_i\Phi_k\Phi_l$[/del]
+$\Phi_i\Phi_k\Phi_l\Phi_i\Phi_k\Phi_l$
+
+$f\overset{\vee}{v}\overset{\vee}{v}$
+$v\overset{\vee}{f}\overset{\vee}{v}$
+$v\overset{\vee}{v}f$
+
+$\Phi_i = \Phi_i\Phi_k\Phi_l$
+$\Phi_k = \Phi_i\Phi_k\Phi_l$
+
+$\Phi_i\Phi_k = $
+$\Phi_i\Phi_k = $
+$\Phi_i\Phi_k = $
+$\Phi_i\Phi_k$
+$\Phi_i\Phi_k$
+$\Phi_i\Phi_k$
+
+[fig]Logic diagram with letters and arrows[/fig]

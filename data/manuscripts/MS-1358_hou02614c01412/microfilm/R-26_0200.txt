@@ -1,0 +1,80 @@
+[marginalia]
+[del]Minims [illegible] 1880 Nov 2[/del]
+[/marginalia]
+
+[pn]2[/pn]
+
+[fig]Curved ink stroke[/fig]
+
+$$2 \frac{b}{p} x + 4 \frac{c}{p} x^2$$
+$$\frac{b}{p} x + 2 \frac{c}{p} x^2$$
+$$\frac{1}{2} \frac{b}{p} x^2 + \frac{2}{3} \frac{c}{p} x^3$$
+$$\frac{1}{p} \left[ \frac{1}{2} b [I^2 - N^2] + \frac{2}{3} \frac{c}{p} (I^3 + N^3) \right]$$
+$$\frac{1}{p} \left\{ \frac{1}{2} [I^2 - N^2] b' + [I^2 - N^2] I c' + [N - I] I c \right\}$$
+
+$$\frac{1}{p} \left\{ - \frac{1}{2} (N^2 - I^2) b' - [N^2 - I^2] I c' + \frac{1}{3} \frac{(2N^3 + 3N^2 I - I^3)}{(N+I)^2 [del](2N-I)[/del]} c \right\}$$
+
+[marginalia]
+$$\begin{aligned}
+& \frac{9}{4} - \frac{8}{4} \\
+& x^2 - 3x + 2 = 0 \\
+& x - \frac{3}{2} = \pm \frac{1}{2} \\
+& x = \begin{aligned} 2 \\ 1 \end{aligned} \\
+& \begin{aligned} x - 2 \\ x - 1 \end{aligned} \\
+& x^2 - 3x
+\end{aligned}$$
+[/marginalia]
+
+$$\frac{N+I}{p} \left\{ - \frac{1}{2} (N-I) b' - (N-I) I c' + \frac{1}{3} (N+I)(2N-I) c \right\}$$
+
+$$\begin{aligned}
+\frac{(N+I)^2}{p^2} \Big\{ & \frac{1}{4} (N-I)^2 b'^2 + (N-I)^2 I^2 b' c' + (N-I)^2 I^2 c'^2 \\
+& - \frac{1}{3} (N+I)(N-I)(2N-I) b' c - \frac{2}{3} (N+I)(N-I)(2N-I) I c' c \\
+& + \frac{1}{9} (N+I)^2 (2N-I)^2 c^2 \Big\}
+\end{aligned}$$
+
+[marginalia]
+$$\begin{array}{r|l}
+x + 1 & x^3 + 1 \\
+\end{array}$$
+[/marginalia]
+
+$$\begin{array}{r|l}
+N^2 + 2NI + I^2 & 2N^3 + 3N^2 I - I^3 \\
+& 2N^3 + [del]4N^2 I + 2NI^2[/del] \\
+\cline{2-2}
+& - N^2 I - 2NI^2 - I^3
+\end{array} \quad (2N - I$$
+
+$$\begin{array}{r|l}
+N + I & 2N^3 + 3N^2 I - I^3 \\
+& 2N^3 + 2N^2 I \\
+\cline{2-2}
+& N^2 I \\
+& N^2 I + NI^2 \\
+\cline{2-2}
+\end{array} \quad (2N^2 + NI$$
+
+[marginalia]
+$$\begin{aligned}
+& x^2 - x - 2 \\
+& \frac{1}{2} \pm \frac{3}{2} \quad \begin{aligned} +2 \\ -1 \end{aligned} \\
+& \begin{aligned} x - 2 \\ x + 1 \end{aligned} \\
+& x^2 - x - 2
+\end{aligned}$$
+[/marginalia]
+
+$$\begin{array}{r|l}
+N^2 - I^2 & 2N^3 + 3N^2 I - I^3 \\
+& 2N^3 - 2NI^2 \\
+\cline{2-2}
+& + 3N^2 I - 3I^3
+\end{array} \quad (2N + 3I$$
+
+$$\begin{array}{r|l}
+N + I & 2N^2 + NI - I^2 \\
+& 2N^2 + 2NI \\
+\cline{2-2}
+\end{array} \quad (2N - I$$
+
+$$E \frac{(N+I)^2}{p^3 \left[ \sqrt{1 + \frac{I^2}{p^2}} \frac{I}{p} + \sqrt{1 + \frac{N^2}{p^2}} \frac{N}{p} + \log \frac{\frac{I}{p} + \sqrt{1 + \frac{I^2}{p^2}}}{\frac{N}{p} + \sqrt{1 + \frac{N^2}{p^2}}} \right]} \left\{ \dots \right\}$$

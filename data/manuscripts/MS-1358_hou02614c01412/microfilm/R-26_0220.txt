@@ -1,0 +1,42 @@
+[date]Morison's Bridge 1899 March 1[/date]
+
+Call
+$$z = 1 - \frac{1}{2} a n^2 + [del](-\frac{1}{24} a^2 - \frac{1}{12} b)[/del] [ins]\frac{1}{24}[/ins] n^4 + (-\frac{1}{720} a^3 + \frac{7}{360} a b) n^6 + (\frac{1}{40320} a^4 - \frac{17}{40320} a^2 b + \frac{31}{20160} b^2) n^8$$
+
+$$a = \frac{2 i \sqrt{c}}{\mathcal{B}} \qquad b = \frac{a}{r^2} \qquad \frac{(a+b)^0}{0!} = \frac{a^0 b^0}{0! 0!} = 1 \qquad \frac{(a+b)^{-1}}{(-1)!}$$
+
+$$z = 1 - \frac{1}{2} a n^2 + (\frac{1}{24} a - \frac{1}{12} \frac{1}{r^2}) a n^4 + (\frac{a}{720} + \frac{7}{360} \frac{1}{r^2}) a^2 n^6 + \text{etc}$$
+$$\frac{a^0 b^{-1}}{0! (-1)!} + \frac{a^1 b^{-2}}{1! (-2)!}$$
+
+$$D_n \eta = \mathcal{B} + \mathcal{A} \int \frac{dn}{z^2} - \int \left[ \frac{dn}{z^2} \int z (w n + \mathcal{C}) dn \right] dn \qquad \frac{(-1)!}{(-2)!} = -1$$
+$$b^{-1} \rightarrow \frac{a^1}{b^2}$$
+
+$$z = 1 - \left\{ \frac{1}{2} a n^2 + (-\frac{1}{24} a + \frac{1}{12} \frac{1}{r^2}) a n^4 + (\frac{a}{720} - \frac{7}{360} \frac{1}{r^2}) a^2 n^6 + \text{etc} \right\}$$
+
+$$\frac{1}{z} = 1 + \frac{1}{2} a n^2 + (-\frac{1}{24} a + \frac{1}{12} \frac{1}{r^2}) a n^4 + (\frac{a}{720} - \frac{7}{360} \frac{1}{r^2}) a^2 n^6 + \text{etc}$$
+$$(a+b)^{\frac{1}{2}} = a^{\frac{1}{2}} (1 + \frac{b}{a})^{\frac{1}{2}} = a^{\frac{1}{2}} (1 + \frac{1}{2} \frac{b}{a} + \dots$$
+$$+ \frac{1}{4} a \qquad \frac{a n^4}{(1!)^{n-1} 3!} + (-\frac{a}{24} + \frac{1}{12 r^2}) a^2 n^6$$
+$$\frac{a}{8} + \qquad a^2 n^6$$
+
+[date]Morison's Bridge 1899 March 2[/date] St [del]Card[/del] [ins]Cloud[/ins]
+
+$$\left\{ D_x^2 + (a + c x^2) \right\} z = [del]P[/del] [ins]0[/ins]$$
+$$\frac{\frac{1}{2}!}{\frac{1}{2}! 5!} \qquad \frac{(a+b)^{\frac{1}{2}}}{\frac{1}{2}!} \qquad \frac{(a+b)^4}{4!} \qquad \frac{(a^{-1}+b)^2}{a^{-2}} \qquad \frac{0}{1!}$$
+$$\frac{1!}{3!} (a+b)^m$$
+
+$$\left( \frac{a^1 b^0}{1! 0!} + \frac{a^0 b^1}{0! 1!} \right)^3$$
+
+$$\int \frac{dx}{x^2} dx = \frac{1}{x^2} \int x dx - 2 \int (x \int x dx) dx$$
+$$(1!)^n 1! = (1!)^n$$
+
+$$\left\{ D_x + i \sqrt{a + c x^2} \right\} z = 0$$
+$$\frac{a^0 b^0}{0! 0!} \frac{a^1}{1!} \qquad \frac{\left( \frac{a}{1!} + \frac{b}{1!} \right)^m}{m!} = \frac{(a+b)^m}{(1!)^{m+1} m!} \qquad \frac{\left( \frac{a}{1!} + \frac{b}{1!} \right)^2}{2!}$$
+$$\frac{\left( \frac{a}{2} + \frac{b}{2} + \frac{c}{2} \right)^m}{m!} \qquad \frac{1^0}{1!} = \frac{a b c}{(1!)^3}$$
+
+$$\frac{D_x z}{z} = - i \sqrt{a + c x^2}$$
+
+$$\log z = - i \frac{1}{2} x \sqrt{a + c x^2} - i \frac{1}{2} \frac{a}{\sqrt{c}} \log \left[ \sqrt{c} x + \sqrt{a + c x^2} \right]$$
+
+$$[del]z = e^{- i \frac{1}{2} x \sqrt{a + c x^2}}[/del]$$
+
+$$z = \sin \left[ \frac{1}{2} x \sqrt{a + c x^2} + \frac{1}{2} \frac{a}{\sqrt{c}} \log \left( \sqrt{c} x + \sqrt{a + c x^2} \right) \right]$$

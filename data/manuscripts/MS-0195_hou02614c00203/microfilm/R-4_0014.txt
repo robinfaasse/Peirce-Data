@@ -1,0 +1,35 @@
+[fig]Ellipse with horizontal axis[/fig]
+$\frac{r_1}{r_2} = \frac{x}{a}$
+
+$\frac{d\theta_1}{dt} = x \frac{d\theta_2}{dt}$
+
+[fig]Two triangles sharing a vertex[/fig]
+$\frac{r_1 \frac{d\theta_1}{dt}}{r_2 \frac{d\theta_2}{dt}} = \frac{r_1}{r_2} \cdot \frac{x}{a} = \frac{x^2}{a^2}$
+
+$r_1^2 \frac{d\theta_1}{dt} = r_2^2 \frac{d\theta_2}{dt}$
+
+[fig]Two triangles sharing a vertex[/fig]
+
+[fig]Ellipse with two focal radii[/fig]
+
+[fig]Two triangles sharing a vertex[/fig]
+$r^2 \frac{d\theta}{dt} = \text{Const}$
+
+[fig]Intersecting lines[/fig]
+
+[fig]Triangles with labels s, ds, r, r+dr[/fig]
+
+$r(r+dr)d\theta$ [del]$=$ d area[/del]
+
+$\frac{1}{2} ab \sin \theta = \text{area}$
+[fig]Triangle with sides a, b and angle theta[/fig]
+
+[fig]Narrow triangle[/fig]
+
+[fig]Triangle with sides a, b[/fig]
+
+[fig]Triangle with sides r, r+dr[/fig]
+
+$r + s = c$
+
+[fig]Sector of a circle with radius r[/fig]

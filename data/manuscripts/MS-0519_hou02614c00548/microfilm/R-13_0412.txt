@@ -1,0 +1,33 @@
+[pn]73[/pn]
+
+Before undertaking to work with [del]a[/del] [ins]our[/ins] formula, let us see if we cannot find a direct method of passing from premise to conclusion. For instance
+
+To prove
+[del]That is the[/del] [ins]There are more[/ins] [del]xs[/del] [ins]ys[/ins] than the [del]ys[/del] [ins]xs[/ins].
+
+(2) $\sum_{\beta} \prod_{4} \sum_{5} \prod_{6} \{ \bar{y}_{4} + \bar{y}_{45} x_{5} (\bar{y}_{565} + \bar{I}_{46}) \}$
+
+The first may be written
+$\prod_{\alpha} \sum_{1} \prod_{2} \sum_{3} \{ \bar{y}_{2} x_{2} + x_{1} (\bar{y}_{a12} + \bar{y}_{\alpha 32} \bar{I}_{13}) \}$
+
+[del]The first only[/del]
+The conclusion, (2), only implies
+$\prod_{4} \sum_{5} (\bar{y}_{4} + x_{5})$
+
+[del]$\prod_{41} \prod_{40} \prod_{41}$[/del]
+[del]$\prod_{41}$[/del]
+
+$\prod_{41} \prod_{42} \sum_{51} \bar{\Sigma}_{52}$
+$\bar{y}_{41} + \bar{y}_{42} + \bar{I}_{41.42} + x_{51} \cdot x_{52} \bar{I}_{51.52}$
+
+$\prod_{41} \prod_{42} \prod_{43} \sum_{51} \sum_{52} \bar{\Sigma}_{53}$
+$\bar{y}_{41} + \bar{y}_{42} + \bar{y}_{43} + \bar{I}_{41.42} + \bar{I}_{42.43} + \bar{I}_{41.43} + x_{51} \cdot x_{52} \cdot x_{53} \bar{I}_{51.52}$
+etc -
+
+This might be written for short
+$\prod_{\alpha} \sum_{1} \prod_{2} x_{1} (\bar{y}_{2} + m_{\alpha 12})$
+
+Then we should have to develope the properties of the relation [u]m[/u].
+
+But what about the fourth power?
+You have to proceed at once to the sixth, n'est ce pas?

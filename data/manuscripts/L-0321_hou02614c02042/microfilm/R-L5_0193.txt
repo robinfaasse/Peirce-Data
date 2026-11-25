@@ -1,0 +1,48 @@
+The easiest way to prove Fermat's
+theorem is to start with the binomial
+theorem $(x+y)^n = x^n + n x^{n-1}y + \frac{n(n-1)}{2}x^{n-2}y^2$
+$+ \text{etc} + \frac{n(n-1)}{2}x^2 y^{n-2} + n x y^{n-1} + y^n$
+You see that the coefficients of all the
+terms except the $1^{\text{st}}$ [del]x[sup]n[/sup][/del] and the last $y^n$
+carry $n$ as a factor of their numerators;
+so that if $n$ is a prime, these coeffi-
+cients are all divisible by $n$; and there
+will be $n-1$ of them. Then putting $x=y=1$
+we have $(1+1)^p = 2 + p \times$ [del]some number[/del] [ins]some even[/ins]
+[del]Dividing by 2[/del] [ins]Thus[/ins] $2^3 = 8 = 2 + 3 \times 2$ [ins]or $2^{p-1}-1 = p \times$ some integer[/ins]
+$2^5 = 32 = 2 + 5 \times \frac{30}{5}$
+$2^7 = 128 = 2 + 7 \times 6 \times 3$
+$2^{11} = 2048 = 2 + 11 \times 186$
+
+[del]Now $2^p - 2 = p \times$ [ins]$(2^{p-1}-1)$[/ins] which is always
+divisible by p. But $F(p-1)$[/del]
+[del]that is $F(p-1)$ is divisible by p[/del]
+[del]evidently to be divisible by p.[/del]
+This seems to be all that concerns deci-
+mal arithmetic. But by the same sort of rea-
+soning from the binomial theorem it is
+easy to prove not only Fermat's full
+theorem, but also the extended theorem
+that $x^{\phi N} - 1$ is divisible
+by $N$ [del]if $x$ and $N$ are prime to each other[/del]
+
+and denoted by him $\phi N$, but
+[del]moreover[/del] without giving it any
+name (which is very inconvenient
+since $\phi N$ is usually understood to
+be applicable to any quantity
+whose value depends, or is regarded
+as depending on the value of $N$)
+and I think Sylvester, who once
+brought [ins]an[/ins] utterly mendacious accu-
+sation against me, but) who cer-
+tainly invented many other useful
+mathematical terms, did well to
+call it the "totient" of $M$, and to de-
+note it by $\tau N$, although he has not
+been generally followed in this. Now
+the totient of $N$ is definable as the
+number of integers that in the [del]sense[/del] [ins]undefinable[/ins]
+are [del]non-divisors[/del] [ins]greater[/ins] of $N$ not [del]smaller[/del] [ins]greater[/ins]
+than $N$, though many writers, instead
+of "not greater" say [del]inconsistently[/del]

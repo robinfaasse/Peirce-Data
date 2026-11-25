@@ -1,0 +1,20 @@
+[pn]RR[/pn] [pn]251[/pn]
+
+[u]Corollary[/u]. Whatever cardinal numbers $M$ and $N$ may be, $M \times N \ge M$
+unless [del]$M=0$ or[/del] $N=0$ or $N=C_0$ [del]and $M \times N > N$ unless[/del] [ins]$N=0$ or[/ins] $M=0$ or $M=C_0$. For suppose
+$M$ to be a cardinal number possessing [del]that character. Then[/del]
+$C_M \times N = N + M \cdot N$ by the second condition, and by hypothesis and a
+former Theorem $C_M \times N > N + M$ unless $N=0$ or $N=C_0$ [del]and $C_M \times N >$[/del]
+$N+M$ unless $M=0$ or $M=C_0$. But by Theorem III every cardinal number
+greater than $N+M$ is either $C(N+M)$ or greater than $C(N+M)$.
+If $C_M \times N = C(N+M)$ it is $N+C_M$ and by a former result
+$C_M \times N > C_M$ unless $N=0$.
+
+the character of being zero of giving $M \times N > M$ when $N > C_0$
+then if $M=0$ $C_M \times N = N$ and $> M$ if $N > C_0$
+if $M > 0$ $C_M \times N = N + M \cdot N \underset{\text{if } N > C_0}{>} N + M > C_0 + M > C(C_0 + M) > C_M$
+
+the character of being $0$ or $C_0$ or giving $M \times N > N$ if $N > 0$
+if $0$ $C_M = C_0$ if $M = C_0$
+$C_M = C C_0$ $C_M \times N = C C_0 \times N = N \times C_0 \cdot N = N + N \underset{\text{if } N > 0}{\text{which } > N}$
+[del]Other[/del] if $M \times N > N$ $C_M \times N = N + M \cdot N > N + M \ge$

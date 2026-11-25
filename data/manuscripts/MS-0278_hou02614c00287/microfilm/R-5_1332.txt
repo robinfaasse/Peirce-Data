@@ -1,0 +1,21 @@
+we have
+$$u_x = \sum_i^{x-1} u_i u_{x-i}$$
+$$u_1 = 1, \quad u_2 = 1$$
+
+To solve these equations, we proceed as follows:
+$$u_{x-1} = \sum_i^{x-2} u_i u_{x-i-1}$$
+$$u_x = 2 u_{x-1} + \sum_i^{x-2} u_i u_{x-i}$$
+$$= \sum_i^{x-2} u_i (u_{x-i} + 2 u_{x-i-1})$$
+$$u_{x+1} = 2 u_x + 2 u_{x-1} + \sum_i^{x-2} u_i u_{x-i+1}$$
+$$= \sum_i^{x-2} u_i [u_{x-i+1} + 2 u_{x-i} + 6 u_{x-i-1}]$$
+
+$$4 u_x - u_{x+1} = \sum_i^{x-2} u_i (-u_{x-i+1} + 2 u_{x-i} + 2 u_{x-i-1})$$
+$$4 u_{x-1} - u_x = \sum_i^{x-2} u_i (-u_{x-i} + 2 u_{x-i-1})$$
+
+$$u_{x+1} u_{x-1} = - \sum_i^{x-2} \sum_j^{x-2} u_i u_j u_{x-i} u_{x-j-1}$$
+$$+ \sum_i^{x-2} \sum_j^{x-2} 2 u_i u_j u_{x-i} u_{x-j-1}$$
+$$+ \sum \sum 2 u_i u_j u_{x-i-1} u_{x-j-1}$$
+
+$$(u_x)^2 = \sum_i^{x-2} \sum_j^{x-2} u_i u_j u_{x-i} u_{x-j}$$
+$$+ \sum \sum 4 u_i u_j u_{x-i} u_{x-j-1}$$
+$$+ \sum \sum 4 u_i u_j u_{x-i-1} u_{x-j-1}$$

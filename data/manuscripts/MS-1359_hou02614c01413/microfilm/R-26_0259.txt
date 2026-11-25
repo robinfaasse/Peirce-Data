@@ -1,0 +1,24 @@
+This gives for the elongation under the live load (neglecting the
+squares of changes)
+$$\frac{1}{\sqrt{1+\frac{N^2}{R^2}}} \left\{ \xi'_R + \frac{N}{R} \left[ -a' + b'N + c'(2N+1)I - c(N+1)^2 \right] \right\} ,$$
+
+and for the energy
+$$\frac{1}{2} E \frac{\left\{ \xi'_R + \frac{N}{R} \left[ -a' + b'N + c'(2N+1)I - c(N+1)^2 \right] \right\}^2}{(R-N)(1+\frac{N^2}{R^2})^{3/2}} ,$$
+
+and for the sum of the energies of elongation of the two straight parts
+[marginalia]checked and
+found right[/marginalia]
+$$\frac{1}{2} E \frac{\left\{ 2\xi'_R + \frac{N}{R} \left[ -2a' + c'(2N\cdot I - I + I^2 + J^2) - c(N+1)^2 - c''(N-1)^2 \right] \right\}^2}{(R-N)(1+\frac{N^2}{R^2})^{3/2}}$$
+
+To find the energy of elongation of the three parabolic parts,
+we have to rectify the arc of the curve
+$$y = a + bx + \left(c + \frac{1}{2r}\right)x^2$$
+This is
+$$\int \sqrt{1 + [b + (2c + \frac{1}{r})x]^2} dx ,$$
+which, if we put $z = b + (2c + \frac{1}{r})x$, equals
+[marginalia]checked and
+found right[/marginalia]
+$$\frac{1}{2c + \frac{1}{r}} \int \sqrt{1+z^2} dz = \frac{1}{2} \left[ \sqrt{1+z^2}\cdot z + \log(\sqrt{1+z^2} + z) \right] / (2c + \frac{1}{r})$$
+
+This expression is useful, but it will be better to proceed
+as follows

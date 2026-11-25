@@ -1,0 +1,18 @@
+Milford Pa
+[date]1909 Jan 26[/date]
+
+Dear Story:
+
+How much longer must we wait for the [del]longexpected[/del] [ins]promised[/ins] treatise on Finite Differences, which greatly concerns Logic?
+
+I think it would be interesting to have a chapter comparing the different ways of [del]reckoning[/del] [ins]defining[/ins] the indices critically.
+
+Just now looking into Boole's book of which I only have the first edition. I see that with the notation $x^{(m)}$ to mean $x(x-1)(x-2)\dots$ to $m$ factors, he very absurdly writes $x^{(-m)}$ for
+$\frac{1}{x}\ \frac{1}{x+1}\ \frac{1}{x+2}\ \dots$ to $m$ factors
+
+Accordingly $x^{(+0)} = 1$ and $x^{(-0)} = \infty$
+
+He ought to make $x^{(-m)}$ denote
+$\frac{1}{x+1}\ \frac{1}{x+2}\ \dots$ to $m$ factors
+
+when $x^{(-0)} = x^{(+0)} = 1$. For [del]if so[/del] then $x^{(-m)} = \frac{x^{(-1)}}{(x+m)\ x^{(1-m)}}$ So that since $x^{(-1)} = \frac{1}{x+1}$ $x^0 = \frac{x+1}{x+1} = 1$. He wanted to have the formula

@@ -1,0 +1,37 @@
+The number that can be made out of the [del]26 letters, each[/del]
+to contain a vowel, is, then, 142506 - 42504 = 100002
+
+Note. The preceding solution supposes [del]that a letter[/del]
+may be often repeated, yet does not allow of permutations.
+
+<u>Second Solution</u>. This solution supposes neither
+permutation or [del]combinations[/del] repetitions.
+The whole number of words is [ins]$\frac{26.25.24.23.22}{1.2.3.4.5}$ =[/ins] 65780
+$\begin{array}{r} 26 \\ \underline{25} \\ 130 \\ \underline{52\ } \\ 650 \\ \underline{\ \ 24} \\ 2600 \\ \underline{1300} \\ 15600 \\ \underline{\ \ 23} \\ 46800 \\ \underline{31200} \\ 358800 \\ \underline{\ \ 22} \\ 717600 \\ \underline{717600} \\ \underline{789360.0} \\ \end{array}$ / 12.0
+65780
+
+The number formed of consonants alone is $\frac{20.19.18.17.16}{1.2.3.4.5}$ = [del]15504[/del]
+$\begin{array}{r} 20 \\ \underline{19} \\ 180 \\ \underline{20\ } \\ 380 \\ \underline{\ \ 18} \\ 3040 \\ \underline{380\ } \\ 6840 \\ \underline{\ \ 17} \\ 47880 \\ \underline{6840\ } \\ 116280 \\ \underline{\ \ 16} \\ 697680 \\ \underline{116280\ } \\ 1860480 \\ \end{array}$
+1936480 / 12.0
+16156
+
+[del]number sought = 65780 - 16156 = 49624[/del]
+
+<u>Third Solution</u>. This allows permutations but not
+repetitions.
+The whole number of words is 26.25.24.23.22 = 7893600
+Number formed of consonants alone is 20.19.18.17.16 = 1860480
+Number sought is 7893600 - 1860480 = 6033120
+
+<u>Fourth Solution</u>. This allows both permutations and
+repetitions.
+The whole number of words is $(26)^5$ = 11881376
+$\begin{array}{r} 26 \\ \underline{26} \\ 156 \\ \underline{52\ } \\ 676 \\ \underline{\ \ 26} \\ 4056 \\ \underline{1352} \\ 17576 \\ \underline{\ \ 26} \\ 105456 \\ \underline{35152\ } \\ 456976 \\ \underline{\ \ 26} \\ 2741856 \\ \underline{913952\ } \\ 11881376 \\ \end{array}$
+
+Number formed of consonants alone is $(20)^5$ = 3200000
+$\begin{array}{r} 20 \\ \underline{20} \\ 400 \\ \underline{400} \\ 160000 \\ \underline{\ \ 20} \\ 3200000 \\ \end{array}$
+
+Number sought is 11881376 - 3200000 = 8681376
+
+Note. This last is the just solution as the question
+is stated.

@@ -1,0 +1,41 @@
+[pn]26[/pn] [pn]27[/pn]
+
+[marginalia]
+[fig]Table of differences[/fig]
+[/marginalia]
+
+<u>Summation</u>
+
+$\sum u_{x} = u_{x-1} + u_{x-2} + \text{etc}$
+$\sum x^{(m)} = \frac{x^{(m+1)}}{m+1}$
+
+$\sum x^{m}$
+[del]Assumed it is $ax^{m+1}$[/del]
+$\sum x = ax^{2} + bx + c$
+[del]$= ax^{2} + 2$[/del]
+$x = a(2x+1) + b$
+i.e $(2a-1)x + a + b = 0$
+$a = \frac{1}{2} \quad b = -\frac{1}{2}$
+$\sum x = \frac{\left(x-\frac{1}{2}\right)^{2}}{2}$ for $\Delta \left(\frac{x-\frac{1}{2}}{\sqrt{2}}\right)^{2} = \left(\frac{x}{\sqrt{2}}\right)^{2} - \left(\frac{x-1}{\sqrt{2}}\right)^{2} = \frac{1}{2} 2x$
+
+$\sum x^{2} = ax^{3} + bx^{2} + cx$
+[del]$ax^{3} + 3ax^{2} + 3ax + a$[/del]
+[del]$+ bx^{2} + 2bx + b$[/del]
+[del]$+ cx + c$[/del]
+$a = \frac{1}{3} \quad b = -\frac{1}{2} \quad c = \frac{1}{6}$
+$\frac{2}{6}x^{3} - \frac{3}{6}x^{2} + \frac{1}{6}x$
+$\sum x^{2} = \frac{1}{3}\left(x-\frac{1}{2}\right)(x-1)x$
+
+$\sum x^{3} = ax^{4} + bx^{3} + cx^{2} + d$
+
+[marginalia]
+$x^{2} - \frac{3}{2}x = -\frac{1}{2}$
+$\frac{9}{16}$
+$x - \frac{3}{4} = \pm \frac{1}{4}$
+[/marginalia]
+
+Hence he shows that approximately
+$\int_{0}^{2} u_{x} dx = \frac{1}{3} (u_{0} + 4u_{1} + u_{2})$
+$\int_{0}^{3} u_{x} dx = \frac{3}{8} (u_{0} + 3u_{1} + 3u_{2} + u_{3})$
+$\int_{0}^{4} u_{x} dx = \frac{1}{45} \left[ 14(u_{0} + u_{4}) + 64(u_{1} + u_{3}) + 24u_{2} \right]$
+[u]Weddle's Rule[/u] $\int_{0}^{6} u_{x} dx = \frac{3}{10} \left[ u_{0} + u_{2} + u_{4} + u_{6} + 5(u_{1} + u_{5}) + 6u_{3} \right] - \frac{1}{140} \Delta^{6} u_{0}$

@@ -1,0 +1,23 @@
+[fig]Circle[/fig]
+
+[fig]Circle with three points[/fig]
+
+[fig]Line segment with two endpoints[/fig]  $\chi_0 - \chi_1 + K = 0$
+$v_{-1} = 1 \quad v_1 = 1 \quad S = 0$
+
+[fig]Line segment with two endpoints and a point in the middle[/fig]  $\chi_0 [del]- \chi_1[/del] [ins]+ K_1[/ins] + K = 1$
+$v_1 = 1 \quad S = 1$
+
+Surfaces
+
+[fig]Circle[/fig]  $\begin{array}{r} \chi_0 - \chi_1 + \chi_2 \\ + K_1 - K_2 \\ + \Pi_2 \end{array}$  $\begin{array}{r} 0 - 1 + 1 \\ + 1 \quad 0 \\ \hline \quad 0 \\ + 1 \\ \hline \end{array}$
+
+[fig]Concentric circles[/fig]  $\begin{array}{r} + \chi_2 \\ - K_2 \\ + \Pi_2 \end{array}$  $\begin{array}{r} + 1 \\ 0 \\ 0 \\ \hline + 1 \end{array}$  [fig]Sphere with a circular boundary[/fig]  $\begin{array}{r} + \chi_2 \\ - K_2 \\ + \Pi_2 \end{array}$  $\begin{array}{r} + 1 \\ 0 \\ + 2 \\ \hline + 3 \end{array}$
+
+[fig]Concentric circles with a point in the center[/fig]  $\begin{array}{r} + \chi_2 \\ - K_2 \\ + \Pi_2 \end{array}$  $\begin{array}{r} + 2 \\ - 1 \\ 0 \\ \hline + 1 \end{array}$  [fig]Concentric circles with a point in the center[/fig]
+
+[fig]Concentric circles with two points in the center[/fig]  $\begin{array}{r} + \chi_2 \\ - K_2 \\ \Pi_2 \end{array}$  $\begin{array}{r} + 1 \\ - 2 \\ 0 \\ \hline - 1 \end{array}$  $\begin{array}{r} \chi_0 \\ \hline \end{array}$  $\begin{array}{r} + 2 \\ \hline + 1 \end{array}$
+
+[fig]Circular diagram with radial divisions and numbers[/fig] [fig]Circular diagram with numbered regions[/fig] [fig]Circular diagram with numbered regions[/fig]
+
+[fig]Complex circular diagram with numbered regions and intersecting lines[/fig]

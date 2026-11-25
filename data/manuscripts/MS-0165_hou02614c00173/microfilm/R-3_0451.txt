@@ -1,0 +1,28 @@
+[pn]244[/pn]
+[ins]vars, etc[/ins]
+Form $u_{n+2}$, [del]by[/del] the rule
+$A_n u_2 + A_{n-1} u_3 + A_{n-3} u_4 + \text{etc} = u_{n+2}$,
+$A_n u_3 + A_{n-1} [del]u_4[/del] [ins]u_4[/ins] + A_{n-3} u_5 + \text{etc} = u_{n+3}$.
+After [del]that[/del] forming these quantities up to $u_{n+20}$ or $u_{n+30}$, if it is
+found that they begin to follow after one another very nearly
+[del]$\frac{u_{n+20}}{u_{n+31}} = \frac{u_{n+21}}{u_{n+32}}$[/del]
+[del]or very closely near to[/del]
+in a geometrical progression, then the ratio of the last but one
+to the last will satisfy the equation, and is [ins]almost always[/ins] the number of
+[del]smallest[/del] modulus which will do so.
+
+<u>Demonstration</u>. That the [ins]limiting[/ins] result will satisfy the equation
+is evident. For if
+$\frac{u_m}{u_{m+1}} = \frac{u_{m+1}}{u_{m+2}} = \text{etc}$,
+the equation for forming $u_{m+n}$, that is,
+$A_n u_m + A_{n-1} u_{m+1} + A_{n-2} u_{m+2} + \text{etc} = u_{m+n}$
+on being divided by $u_{m+n}$ will give
+$A_n \left(\frac{u_{m+n-1}}{u_{m+n}}\right)^n + A_{n-1} \left(\frac{u_{m+n-1}}{u_{m+n}}\right)^{n-1} + A_{n-2} \left(\frac{u_{m+n-1}}{u_{m+n}}\right)^{n-2} + \text{etc} = 1$.
+But in order to understand [del]why[/del] the root of smallest
+modulus is the one reached, and why, if there is a root of
+smallest modulus, it is in almost every case the limit,
+we have to consider that since an equation of the $n^{\text{th}}$
+has $n$ roots [ins]counting those which are imaginary[/ins]. If [del]these[/del] [ins]the roots[/ins] are all unequal and are [del]represented[/del] [ins]denoted[/ins]
+by $x_1, x_2, x_3, \dots x_n$, then if we [del]take[/del] [ins]imagine[/ins] these known,
+and take $C_1, C_2, C_3 \dots C_n$ for [ins]$n$[/ins] unknown quantities,
+we can solve the system of equations

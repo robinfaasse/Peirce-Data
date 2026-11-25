@@ -1,0 +1,24 @@
+The force upon the truss has the following parts:
+$1^{\text{st}}$, its weight
+$2^{\text{nd}}$, so much of the lift of the cable is brings the downward
+force upon it everywhere up to what it is at $x = x_c$ and $-x_c$
+To this must be added algebraically the weight of the suspenders.
+$3^{\text{rd}}$, the lift due to additional horizontal pull of the cable.
+$4^{\text{th}}$, the reactions of the four piers.
+
+Part $1^{\text{st}}$. The weight of the truss is $k \int\limits_{-x_B}^{x_B} dx$
+
+Part $2^{\text{nd}}$. The weight of the cable is $K \int\limits_{-x_c}^{+x_c} \sqrt{1 + 4 \frac{(y_0-y_c)^2}{x_c^4} x^2} \cdot dx$; that of the suspenders
+is $K' \int\limits_{-x_c}^{+x_c} \frac{x^2}{x_c^2} \cdot dx$. Thus the negative downward force due to this
+together with the weight of the suspenders is
+$\int\limits_{-x_c}^{+x_c} \left\{ K \left( \sqrt{1 + 4 \frac{(y_0-y_c)^2}{x_c^4} x^2} - \sqrt{1 + 4 \frac{(y_0-y_c)^2}{x_c^2}} \right) + K' (y_0-y_c) (2 \frac{x^2}{x_c^2} - 1) \right\} dx$
+
+Part $3^{\text{rd}}$. When the horizontal force is just sufficient to produce
+the last effect, and bring the cable, carrying the suspenders, into
+place, the vertical pull upon the cable at $\pm x_c$ is the weight
+of the suspenders and cable between that point and the horizon-
+tal point. The weight of the cable is
+[del]$\frac{1}{2} K \left\{ \frac{x_c}{y_0-y_c} \sqrt{\frac{4(y_0-y_c)^2}{x_c^2}} + \frac{x_c^2}{2(y_0-y_c)} \log \left( \sqrt{1 + \frac{4(y_0-y_c)^2}{x_c^2}} + \frac{2(y_0-y_c)}{x_c} \right) \right\}$[/del]
+$\frac{1}{2} K x_c \left\{ \sqrt{1 + 4 \frac{(y_0-y_c)^2}{x_c^2}} + \frac{x_c}{2(y_0-y_c)} \log \left( \sqrt{1 + 4 \frac{(y_0-y_c)^2}{x_c^2}} + \frac{2(y_0-y_c)}{x_c} \right) \right\}$
+The weight of the suspenders is $\frac{1}{3} K' (y_0-y_c) x_c$. The resulting horizontal
+pull is the weight multiplied by $\frac{x_c}{2(y_0-y_c)}$. When the horizontal

@@ -1,0 +1,26 @@
+Logic
+[ured]III[/ured]
+41
+
+get the following table:
+
+[u]Number of sets of values admitted[/u]        [u]Number of informations.[/u]
+0*                             1
+1                              4
+2                              6
+3                              4
+4†                             1
+[u]Total                          16.[/u]
+
+When one set of values only is admitted, we need some way for
+expressing, at once, [del]the part of[/del] the same state of things, that
+one of the quantities, say [u]x[/u], has a certain value, and that
+the other, say [u]y[/u], has a certain value. The best way is to use a
+heavy dot, and write in the four cases
+
+---------------------------------------------------------------------------------------------------------------------------------
+* The most complete information we can have about a
+pair of quantities [u]x[/u] and [u]y[/u], is that every set of values is im-
+possible, so that there are no such quantities. This often re-
+sults as the solution of a problem.
+† This is no [del]information[/del] [ins]information[/ins] at all.

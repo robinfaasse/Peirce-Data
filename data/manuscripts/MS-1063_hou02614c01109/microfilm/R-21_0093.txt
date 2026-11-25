@@ -1,0 +1,37 @@
+[fig]Right triangle[/fig]
+
+$$\int \frac{1}{q} dq = \log T + \frac{1}{i} \left( \log \frac{w+xj}{\sqrt{w^2+x^2}} \log \frac{w\sqrt{w^2+x^2+y^2} + yj\sqrt{w^2+x^2}}{\sqrt{w^2+x^2}\sqrt{w^2+x^2+y^2}} + \frac{x}{w} \log \frac{w\sqrt{w^2+x^2+y^2} + yj\sqrt{w^2+x^2}}{\sqrt{w^2+x^2}\sqrt{w^2+x^2+y^2}} + \frac{y}{w} \log \frac{\sqrt{w^2+x^2+y^2} + zj}{\sqrt{w^2+x^2+y^2}} \right)$$
+
+$$= \log T + \frac{1}{i} \left( \log \frac{w+xj}{\sqrt{w^2+x^2}} \log \frac{w\sqrt{w^2+x^2+y^2} + yj\sqrt{w^2+x^2}}{\sqrt{w^2+x^2}\sqrt{w^2+x^2+y^2}} + \frac{x}{w} \log \frac{w\sqrt{w^2+x^2+y^2} + yj\sqrt{w^2+x^2}}{\sqrt{w^2+x^2}\sqrt{w^2+x^2+y^2}} + \frac{y}{w} \log \frac{\sqrt{w^2+x^2+y^2} + zj}{\sqrt{w^2+x^2+y^2}} \right)$$
+
+$$\int \frac{1}{q} dq = \log T + \frac{1}{i} \left( \log \frac{w+xj}{\sqrt{w^2+x^2}} \log \frac{wj-x}{\sqrt{w^2+x^2}} + \frac{y}{\sqrt{w^2+x^2}} \arctan \frac{wj-xk}{\sqrt{w^2+x^2}} + \frac{y}{\sqrt{w^2+x^2}} \log \left( \frac{w\sqrt{w^2+x^2} + yj}{\sqrt{w^2+x^2}} \right) + \frac{1}{i} \log \frac{-yj+xj+wk}{\sqrt{w^2+x^2+y^2}} \log \frac{\sqrt{w^2+x^2+y^2}+z}{\sqrt{w^2+x^2+y^2}} \right)$$
+
+$$+ \frac{x}{\sqrt{w^2+x^2}} \arctan \frac{-yj+xj+wk}{\sqrt{w^2+x^2+y^2}} + \frac{y}{\sqrt{w^2+x^2}} \arctan \frac{+yj+xj-wk}{\sqrt{w^2+x^2+y^2}}$$
+
+$$+ \frac{-wj+xk}{\sqrt{w^2+x^2}} \arctan \frac{-wj+xk}{\sqrt{w^2+x^2}} \frac{y}{\sqrt{w^2+x^2+y^2}}$$
+
+$$- \frac{1}{w} i \arctan \frac{x}{w} + \frac{1}{w} i \left( 2n + \frac{1}{2} \right) \pi$$
+
+$$+ \frac{1}{w} i \arctan \frac{x}{w} + \frac{1}{w} i \left( 2n + \frac{1}{2} \right) \pi$$
+
+$$\int \frac{1}{q} dq = \log T + [del]\frac{1}{w} \arctan \frac{x}{w}[/del]$$
+
+$$\int \frac{1}{q} dq = \frac{1}{2} \log (A^2+B^2) + \arctan$$
+
+$$\frac{1}{q} dq = \frac{(A-Bv)}{A^2+B^2} dA + \frac{B+Av}{A^2+B^2} dB$$
+
+$$\frac{1}{q} = \frac{A-Bv}{A^2+B^2} = \frac{1}{A+Bv}$$
+
+$$q = A + Bv$$
+
+$$dq = dA + dBv$$
+
+$$\int \frac{1}{q} dq = \log a + v \theta$$
+
+$$\frac{1}{q} dq = da \frac{1}{a} + v d\theta$$
+
+$$dq = da \frac{q}{a} + a (- \sin \theta + \cos \theta v) d\theta$$
+
+$$\frac{q}{a} = (\cos \theta - \sin \theta v)$$
+
+$$q = a (\cos \theta + \sin \theta v)$$

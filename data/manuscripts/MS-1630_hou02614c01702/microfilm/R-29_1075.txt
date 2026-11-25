@@ -1,0 +1,37 @@
+[del]= D_x f(x,y) = 0[/del]
+- D_x f = 0
+- D_y f = 0
+
+D_x z = 0
+
+[del]\frac{1}{\rho} = \frac{D_x^2 y}{(1 + (D_x y)^2)^{\frac{3}{2}}}[/del]
+
+Consider section passing
+through x & z
+
+\frac{1}{\rho_x} = \frac{D_x^2 z}{1 + (D_x z)^2)^{\frac{3}{2}}} = D_x^2 z
+
+\frac{1}{\rho_y} = D_y^2 z
+
+Section by intermediate line
+u & z
+
+\frac{1}{\rho_u} = D_u^2 z
+
+[fig]Coordinate axes x, y, u with angle alpha[/fig] u^2 = x^2 + y^2
+x = u cos \alpha
+y = u sin \alpha
+
+D_u z = D_x z D_u x + D_y z D_u y
+
+D_u x = cos \alpha
+D_u y = sin \alpha
+
+[del]G[/del] cos \alpha D_x z + sin \alpha D_y z
+
+D_u^2 z = (cos \alpha D_x^2 z + [del]sin \alpha[/del] [ins]cos \alpha[/ins] D_x y^2 z) cos \alpha +
+(cos \alpha D_y x^2 z + cos \alpha D_y^2 z) sin \alpha =
+
+\frac{1}{\rho_u} = \frac{cos^2 \alpha}{\rho_x} + \frac{sin^2 \alpha}{\rho_y} + 2 cos \alpha sin \alpha D_{xy}^2 z
+
+=

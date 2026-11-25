@@ -1,0 +1,16 @@
+[marginalia][date]1891 Feb 24[/date][/marginalia] [pn]83r[/pn]
+
+[del]x ~ y[/del]	[del]x + y[/del]
+
+[del]x ~ (y ~ z)[/del]	[del]x + (y + z) = y + (x + z)[/del]
+[del]= y ~ (x ~ z)[/del]	[del][(x ~ y) ~ (z ~ t)] = [(x ~ z) ~ (y ~ t)][/del]
+
+[del]y ~ (x ~ y)[/del]	[del]y :∴ x + y[/del]
+	[del]x :∴ x + x[/del]
+[del]x ~ x[/del]
+[del]y ~ (x ~ y)[/del]	[del]y + x + y[/del]
+
+[del](x ~ y) ~ z[/del]	[del]x + y + z[/del]
+[del]x ~ (y ~ z) ~ (x ~ y) ~ z[/del]
+
+[del](x ~ y) ~ x ~ y[/del]

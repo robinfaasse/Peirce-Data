@@ -1,0 +1,27 @@
+[pn]261[/pn]
+
+[del]Any S is not P,[/del]
+[ins]Any S is P,[/ins]
+[del]Some M is S;[/del]
+[ins]Some M is S;[/ins]
+[del]∴ Some M is not P.[/del]
+[ins]∴ Some M is P.[/ins]
+
+The long reduction of [u]Datisi[/u] follows the lines of that of [u]Cesare[/u]. We first lexically contrapose its major, thus:
+
+Any S is P
+∴ Any some-P is some-S (i.e. the only Ss.)
+
+We then divide the minor into two propositions, thus:
+
+Some S is M
+∴ Any some-S is M; and an S exists.
+
+Thence we infer by the first figure
+
+Any some-P is M; and a P exists.
+And this is the same as
+
+Some P is M.
+
+The long reduction of [u]Ferison[/u] is analogous to that of [u]Festino[/u]. We begin by dividing its major premise, thus:

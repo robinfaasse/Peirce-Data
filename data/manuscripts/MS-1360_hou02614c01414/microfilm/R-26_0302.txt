@@ -1,0 +1,11 @@
+[u]Report on Mirisinis Bridge[/u] [pn]15[/pn]
+
+$-\varrho \left(\frac{dp}{d\xi} - \frac{dp/dx}{\sqrt{1+(dy/dx)^2}}\right) \frac{d^2x}{dp^2} + \left(\frac{dp}{d\eta} - \frac{dp/d(\xi-x)}{\sqrt{1+[d(\eta-y+y')/d(\xi-x)]^2}}\right) \frac{d^2(\xi-x)}{dp^2} = 0$,
+
+$+ v \left(\frac{d\xi}{d\xi_1} - 1\right) \frac{d^2\xi}{d\xi^2} + \left(\frac{dp}{d\eta} - \frac{dp/d(\xi-x)}{\sqrt{1+[d(\eta-y+y')/d(\xi-x)]^2}}\right) \frac{d^2(\xi-x)}{dp^2} = 0$,
+
+$-\varrho \left(\frac{dp}{d\xi} - \frac{dp/dx}{\sqrt{1+(dy/dx)^2}}\right) \frac{d^2y}{dp^2} + \left(\frac{dp}{d\eta} - \frac{dp/d(\xi-x)}{\sqrt{1+[d(\eta-y+y')/d(\xi-x)]^2}}\right) \frac{d^2(\eta-y+y')}{dp^2} = 0$,
+
+$+ \varepsilon \frac{d^4\eta}{d\xi^4} - \left(\frac{dp}{d\eta} - \frac{dp/d(\xi-x)}{\sqrt{1+[d(\eta-y+y')/d(\xi-x)]^2}}\right) \frac{d^2(\eta-y+y')}{dp^2} = 0$,
+
+together with the limiting equations,

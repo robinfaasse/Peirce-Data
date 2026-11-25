@@ -1,0 +1,40 @@
+[u]Note to p. 378 of B. Peirce's Analytical Mechanics, By C. S. Peirce[/u]
+
+In order to get a general idea of the relation between different laws of attraction and remarkable characters of the orbits, in the case of a Boscovichian point revolving about another, I proceed as follows:
+
+If [del]F[/del] [ins]r[/ins] is the radius vector, and [del]Fr[/del] [ins]Fr[/ins], where F is the general sign of function, is the attraction, and v is the velocity, we have [del]Fr dr = v²[/del] [ins]where r₀ is the distance at which the energy would be [del]the potential[/del][/ins]
+[ins]$\int_{r}^{r_0}$ Fr. dr = $\frac{1}{2}$ v²[/ins]
+
+If $\theta$ is the anomaly or angular position counted from an arbitrary radius, and t is the time, a is the rate of description of the area.
+t = $\frac{1}{2a} \int r^2 d\theta$.
+$D_t r = \sqrt{v^2 - \frac{4a^2}{r^2}}$ (for $\frac{2a}{r}$ is the component of the velocity perpendicular to the radius vector)
+
+Therefore $D_\theta r = \frac{r^2}{2a} \sqrt{v^2 - \frac{4a^2}{r^2}}$
+and t = $\int \frac{dr}{\sqrt{v^2 - \frac{4a^2}{r^2}}}$
+
+I now sketch a curve representing the law of attraction in rectangular coordinates, representing $v^2$ by y and $\frac{4a^2}{r^2}$ by x. Since $v^2 \geqq \frac{4a^2}{r^2}$ the diagram has the shape [fig]V-shaped curve[/fig] Thus, if the attraction is inversely as the 2.01 power of the distance $v^2 = -2 \int \frac{k}{r^{2.01}} dr = \frac{k}{0.505} r^{-1.01}$. So the curve is $y = \frac{k a^{-1.01}}{0.2525} x^{0.505}$ For comparison, I draw along with it $y = \frac{4ka}{x^{\frac{1}{2}}}$
+
+[fig]geometric diagram with angles and differentials[/fig]
+$dr = h d\theta$
+[del]area = r h d$\theta$[/del]
+[del]area = r h[/del] [ins]$\frac{dr}{d\theta}$[/ins] [del]$\frac{dr}{2a}$[/del]
+[del]$\frac{dr}{2a}$[/del] [fig]geometric diagram showing r, dr, ds[/fig]
+[del]$\frac{dr}{2a}$[/del] [ins]$D_t r \frac{dr}{2a}$[/ins]
+
+$dt = \frac{1}{a} r^2 d\theta$
+$a = r^2 \frac{d\theta}{dt}$
+$a dt = r^2 d\theta$
+$\frac{a dt}{P_1} = (ds)_1$
+$\frac{a}{P_1} = v_1$
+
+$(ds)^2 = r^2 (d\theta)^2 + (dr)^2$
+$ds = \sqrt{r^2 (d\theta)^2 + (dr)^2}$
+$ds = r d\theta \sqrt{1 + (D_\theta \log r)^2}$
+
+$r^2 d\theta = a_1 dt$
+$(ds)^2 = r^2 + (r+dr)^2 - 2r(r+dr)(1-\frac{1}{2}(d\theta)^2)$
+$(ds)^2 = [del]r^2 + r^2 + 2r dr - r^2 - r dr[/del]$
+$ds = \sqrt{r^2 (d\theta)^2 + (dr)^2 + [del]r^2 (d\theta)^2[/del] + \frac{1}{2} r dr (d\theta)^2}$
+$ds = r d\theta \sqrt{1 - (D_\theta \log r)^2}$
+
+$v_1 = \frac{ds}{dt} = r D_t \theta \sqrt{1 - (D_\theta \log r)^2}$

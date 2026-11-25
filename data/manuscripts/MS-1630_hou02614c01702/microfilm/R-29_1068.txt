@@ -1,0 +1,52 @@
+Same with $W$ but
+$\mu$ a constant & $a$ variable
+
+$\sum_m \left( (-D_x)^n D_{y^{(n)}} (V + \mu W) + \lambda [ (-D_x)^n D_{y^{(n)}} ] \right) = 0$
+
+as many $\lambda = 0$ as you have $\lambda$'s
+& $a = \int_{x_0}^{x_1} W$ & $\mu$'s
+
+$V = D_x s = \sqrt{1 + (D_x y)^2} = \sqrt{1 + y'^2}$
+
+<u>Shortest curve in plane</u>
+
+If no condition for
+
+$D_y V$ $D_{y''} V$ &c all disappear
+
+$D_{y'} V = \frac{y'}{\sqrt{1 + y'^2}}$
+
+$- D_x D_{y'} V = 0$
+
+$D_{y'} V = a$
+
+$y' = \text{tang } \tau$
+
+$D_{y'} V = \sin \tau$
+
+This is no demonstrating
+straight line is shortest dist-
+ance between two points but
+is merely returning to it
+
+Suppose area given
+
+[fig]A curve plotted on axes with a vertical line bounding the area[/fig]
+
+$\text{area} = a$
+
+$a = \int_{x_0}^{x_1} y$
+
+$y = W$
+
+Our eq. becomes
+
+$D_x D_{y'} V + D_y W = 0$
+
+$D_y W = 1$
+
+$D_x D_{y'} V + \mu = 0$
+
+$D_{y'} V + \mu x = A$
+
+$\sin \tau = A - \mu x$

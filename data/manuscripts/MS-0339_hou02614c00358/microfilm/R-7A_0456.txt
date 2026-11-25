@@ -1,0 +1,36 @@
+$$\sum_{\alpha} \prod_{y} \sum_{i} \prod_{j} q_{\alpha i} \cdot q_{\alpha j} \cdot \overline{e_{\alpha y}} + \overline{q_{\alpha y}} + a_{i} \cdot (\overline{b_{j}} + p_{\gamma i j})$$
+
+$$\prod_{r} \prod_{s} \prod_{t} \prod_{u} q_{\alpha r} \cdot q_{\alpha s} \cdot p_{\alpha r} \cdot p_{\alpha s} \cdot (l_{pr} + l_{ps} + l_{\gamma r} + l_{\gamma s})$$
+
+$$+ \overline{q_{\alpha y}} + a_{i} \cdot (\overline{b_{j}} + p_{\gamma i j})$$
+
+To say there is no mode of pairing which pairs every
+$a$ to $b$.
+
+Let $P_{\alpha}$ mean $\alpha$ is a mode of pairing
+Let $p_{\alpha i j}$ mean $\alpha$ pairs $i$ with $j$
+
+$$\prod_{\alpha} \sum_{i} \prod_{j} \overline{P_{\alpha}} + \overline{a_{i}} \cdot (\overline{p_{\alpha i j}} + \overline{b_{j}})$$
+
+[fig]Diagram of pairing relations with dots and lines[/fig]
+
+To say that there is a mode of pairing which pairs
+every $b$ with an $a$
+
+$$\sum_{\beta} \prod_{j} \sum_{k} P_{\beta} \cdot (\overline{b_{j}} + p_{\beta k j} \cdot a_{k})$$
+
+$$\cdot \left\{ \overline{P_{1}} + \begin{array}{l} a_{i} \cdot (\overline{p_{1 i 1}} + \overline{b_{1}}) \cdot (\overline{p_{1 i 2}} + \overline{b_{2}}) \cdot \text{etc} \\ a_{i} \cdot (\overline{p_{1 2 1}} + \overline{b_{1}}) \cdot (\overline{p_{1 2 2}} + \overline{b_{2}}) \cdot \text{etc} \end{array} \right\}$$
+$$+ \text{etc}$$
+
+$$\cdot \left\{ \overline{P_{2}} + \begin{array}{l} a_{i} \cdot (\overline{p_{2 i 1}} + \overline{b_{1}}) \cdot (\overline{p_{2 i 2}} + \overline{b_{2}}) \cdot \text{etc} \\ a_{i} \cdot (\overline{p_{2 2 1}} + \overline{b_{1}}) \cdot (\overline{p_{2 2 2}} + \overline{b_{2}}) \cdot \text{etc} \end{array} \right\}$$
+$$+ \text{etc}$$
+
+$$\cdot (\overline{b_{1}} + p_{1 1 1} \cdot a_{1} + p_{1 2 1} \cdot a_{2} + \text{etc})$$
+$$P_{1} \cdot (\overline{b_{2}} + p_{1 1 2} \cdot a_{1} + p_{1 2 2} \cdot a_{2} + \text{etc})$$
+
+$$+$$
+
+$$(\overline{b_{1}} + p_{2 1 1} \cdot a_{1} + p_{2 2 1} \cdot a_{2} + \text{etc})$$
+$$P_{2} \cdot (\overline{b_{2}} + p_{2 1 2} \cdot a_{1} + p_{2 2 2} \cdot a_{2} + \text{etc})$$
+
+[del]$\prod_{\alpha} \sum_{i} \prod_{j} \sum_{k} \prod_{l} \sum_{m} \prod_{n} \sum_{o} \prod_{p} \sum_{q} \prod_{r} \sum_{s} \prod_{t} \sum_{u} \prod_{v} \sum_{w} \prod_{x} \sum_{y} \prod_{z} \sum_{a} \prod_{b} \sum_{c} \prod_{d} \sum_{e} \prod_{f} \sum_{g} \prod_{h} \sum_{i} \prod_{j} \sum_{k} \prod_{l} \sum_{m} \prod_{n} \sum_{o} \prod_{p} \sum_{q} \prod_{r} \sum_{s} \prod_{t} \sum_{u} \prod_{v} \sum_{w} \prod_{x} \sum_{y} \prod_{z} P_{\alpha} P_{\beta} + a_{i} \cdot (\overline{p_{\alpha i j}}$[/del]

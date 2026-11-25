@@ -1,0 +1,49 @@
+2. Divide 140 into two such parts that the
+greater being divided by the less and the less by the
+greater, and the less quotient being multiplied by 9
+and the greater by 42, the two products shall be
+equal.
+
+Solution. Let $x$ be the greater and $y$ the less.
+By the second condition of the problem [del]$\frac{9x}{2y} = \frac{8y}{x}$[/del] [ins]$\frac{9x}{y} = \frac{16y}{x}$[/ins]
+Getting rid of fractions. $9x^2 = 16y^2$
+Extracting the square root $3x = \pm 4y$ (1)
+By the first condition $x + y = 140$ (2)
+Multiplying by 3 and substituting $3x$ its value from (1) $\pm 4y + 3y = 420$
+Reducing $7y = 420$ or $-y = 420$
+$y = 60$ or $y = -420$
+From (2) $x = 140 - y$. $x = 140 - 60 = 80$ or $x = 140 + 420 = 560$.
+
+3. Given $\begin{cases} x^2 + yz = 16 = a & (1) \\ y^2 + xz = 17 = b & (2) \\ z^2 + xy = 22 = c & (3) \end{cases}$
+
+Solution. Transposing [del]$x^2$[/del] in (1) $yz = [del]16[/del] [ins]a[/ins] - x^2$ (4)
+Transposing $y^2$ in (2) $xz = [del]17[/del] [ins]b[/ins] - y^2$ (5).
+the second of (4) multiplied by (5); the second member of one by the
+first of the other [del]adding $yz$ to $x^2 - x^3 = (b - y^2)y$.[/del]
+or arranged according to $x$ $x^3 - ax = - y(b - y^2)$. (6).
+(4) multiplied by (5). $xyz^2 = (a - x^2)(b - y^2)$. (7).
+
+transposing $xy$ in (3) $c - xy = z^2$. (8)
+multiplying (7) by (8) and dividing by $z^2$.
+$(c - xy)xy = (a - x^2)(b - y^2)$
+arranging by $x$. $(b - 2y^2)x^2 + cyx = a(b - y^2)$. (9).
+Subtract (6) multiplied by $(b - 2y^2)$ from (9) multiplied by $x$.
+this gives. $cyx^2 + a(b - 2y^2)x = a(b - y^2)x + y(b - y^2)(b - 2y^2)$
+Subtracting from both sides $a(b - y^2)x$ and dividing by $y$
+$cx^2 - ayx = y(b - y^2)(b - 2y^2)$ (10)
+Multiplying (6) by (9), the first [ins]member[/ins] of one by the second of the other and
+dividing by $x(b - y^2)$.
+$ax^2 - a^2 = - (b - 2y^2)yx - cy^2$
+Transposing $ax^2 + (b - 2y^2)yx = a^2 - cy^2$ (11).
+Subtracting (10) multiplied by $(b - 2y^2)$ from (9) multiplied by $c$
+$c^2yx + a(b - 2y^2)yx = (ac - (b - 2y^2)y)(b - y^2)$ (12)
+Multiplying (9) by (11) the second [del]member of[/del] one by the first of the
+other and dividing by $x$.
+$(a^2 - cy^2)(b - 2y^2)x + (a^2 - cy^2)cy = a(b - y^2)x + (b - y^2)(b - 2y^2)y$
+[del]Adding (12) multiplied by $a$ to[/del]
+Subtracting (10) multiplied by $a$ from (11) multiplied by $c$.
+$a^2yx + c(b - 2y^2)yx = (a^2 - cy^2)c - a(b - y^2)(b - 2y^2)$ (13)
+Multiplying [del]the[/del] (12) by (13), the first member of one by the
+second of the other gives, evidently, an equation of
+the fourth degree in $y^2$ this being solved gives $y$, in the
+present case $= 3$. $x = 2$. [del]$z = 4$[/del] $z = 4$.

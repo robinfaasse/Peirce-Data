@@ -1,0 +1,29 @@
+[pn]341[/pn]
+
+Remark that this justifies the inference
+[u]t[/u] [ins]⤙[/ins] ([u]f[/u] ⤙ [u]n[/u])
+∴ [u]t[/u] ⤙ [u]f[/u] ⤙ [u]n[/u]
+
+or
+
+If Tom's testimony is true [del]then[/del] [ins]and[/ins] Fanny is a flibbertigibbet,
+Nick is a knave;
+∴ If Tom's testimony is true, then while Fanny is a
+flibbertigibbet, Nick is a knave.
+
+In like manner, we could infer
+([u]x[/u] ⤙ [u]y[/u]) • [u]u[/u] ⤙ [u]v[/u],
+∴ ([u]x[/u] ⤙ [u]y[/u] • [u]u[/u]) ⤙ [u]v[/u].
+
+Also
+([u]x[/u] ⤙ [u]y[/u]) • ([u]u[/u] ⤙ [u]v[/u]),
+∴ ([u]x[/u] ⤙ [u]y[/u]) • [u]u[/u] ⤙ [u]v[/u];
+∴ [u]x[/u] ⤙ [u]y[/u] • [u]u[/u] ⤙ [u]v[/u].
+
+This proves [ins]what is called[/ins] the distributive principle, as follows:
+[u]x[/u] • ([u]y[/u] ⤙ [u]z[/u]),
+∴ [u]x[/u] • ([u]x[/u] • [u]y[/u] ⤙ [u]z[/u]),
+∴ [u]x[/u] • ([u]x[/u] • [u]y[/u] ⤙ [u]x[/u] • [u]z[/u]),
+[del]∴[/del] [ins]that from [u]x[/u] • ([u]y[/u] ⤙ [u]z[/u]) can be inferred[/ins] [u]x[/u] • [u]y[/u] ⤙ [u]x[/u] • [u]z[/u].
+[del]This is half of it.[/del] [ins]which is half the distributive principle.[/ins] The other half is still simpler
+proved, thus:

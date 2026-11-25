@@ -1,0 +1,32 @@
+[u]Mr. Morison's Bridge[/u]
+
+The middle 2850 feet have the cable in a parabola,
+the outer 175 feet on either side in a catenary; and so
+that the entire span is 3200 feet and the entire de-
+pression 400 feet.
+
+[fig]Diagram of cable span[/fig]
+
+$$Q_1 \frac{d^2 y_1}{dx^2} = K_1'$$
+
+Under an additional load $K'$ there is an additional horizontal
+stress $Q$ and an additional ordinate $y$
+
+$$(Q_1 + Q) \frac{d^2(y_1 + y)}{dx^2} = K_1' + K'$$
+
+For the parabolic portion $y$ [del]is[/del] [ins]equals[/ins] the deflection of the truss. If
+
+$$EJ \frac{d^4 y}{dx^4} = K' - K$$
+
+where $K$ is the load at that point.
+
+Eliminating $K_1'$ and $K'$
+
+$$EJ \frac{d^4 y}{dx^4} - (Q_1 + Q) \frac{d^2 y}{dx^2} - Q \frac{d^2 y_1}{dx^2} = -K$$
+
+But this only applies to the middle 2850 feet, which being
+originally parabolic has $\frac{d^2 y_1}{dx^2} = \frac{2Y}{X}$.
+
+For any stretch for which $Q$ is constant
+
+$$\frac{d^4 y}{}$$

@@ -1,0 +1,36 @@
+[pn]464[/pn] [pn]5[/pn]
+
+When these modifications of the map have been made
+The Census Theorem of Euler* takes the form
+$$N_5 = 12 + N_7 + 2N_8 + 3N_9 + 4N_{10} + \text{etc.}$$
+where $N_i$ is the number of regions of $i$ boundaries. It
+maybe remarked that some sets of values of the $N$s which
+this formula would permit are nevertheless impossible.
+For example, there cannot be a map [ins]of this sort[/ins] with just one
+region of more than five boundaries. Moreover, many
+arrangements of the polygons are impossible.
+
+It is to be expected that the problem would be simplified
+if we could reduce the number of classes, or colors, from
+four to two. In order to effect that result, I consider
+the corners instead of the regions. The problem then takes
+the following form:
+
+[u]It is required to prove that in every map of the kind[/u]
+[u]considered, it is possible to assign to each corner one of the[/u]
+[u]two values $+1$ and $-1$ in such a way that the sum of the values[/u]
+[u]of all the corners of every region shall be divisible by [del]three[/del] 3.[/u]
+
+In order to show that this is [ins]essentially[/ins] the same as the original problem,
+let me first propose a definition. Since in our map three
+boundaries meet at each corner, not only does
+every boundary separate two confine regions,
+as $b$ and $c$ in Fig. 4, but it may also be said to [u]tie[/u]
+two peneconfine regions, as $a$ and $d$ in [del]the[/del] [ins]the[/ins] same figure.
+
+[fig]Diagram showing four regions a, b, c, d meeting at a boundary[/fig]
+Fig. 4
+
+* Legendre VII, 25. In a note Legendre refers to Euler's demon-
+stration of 1752. Mr. Kempe wrongly attributes the theorem to
+Cauchy, a curious illustration of how Legendre's Geometry is neglected [ins]unread[/ins] in England.

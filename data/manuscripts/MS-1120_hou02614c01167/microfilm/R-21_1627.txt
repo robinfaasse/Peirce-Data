@@ -1,0 +1,19 @@
+Writing these $[\varepsilon_i]$ $[\varepsilon_i^2]$ $[\varepsilon_i^3]$ etc. the expression
+becomes
+[del]$(1 - [\varepsilon_i] + \frac{1}{2} [\varepsilon_i^2] - \frac{1}{3!} [\varepsilon_i^3] + \text{etc})$[/del]
+
+[del]$(1 - [\varepsilon_i] + \frac{1}{2} [\varepsilon_i^2] D_x - \frac{1}{3!} [\varepsilon_i^3] D_x^2 + \frac{1}{4!} [\varepsilon_i^4] D_x^3) \phi_i \xi . dx$[/del]
+
+$(1 - [\varepsilon_2] D_\xi + \frac{1}{2} [\varepsilon_2^2] D_\xi^2 - \frac{1}{3!} [\varepsilon_2^3] D_\xi^3 + \text{etc}) \phi_2 \xi . dx$
+
+On the same principle evidently the probability that the
+sum of $n$ numbers should be between $\xi$ and $\xi + dx$
+is
+$\prod_2^n (1 - [\varepsilon_i] D_\xi + \frac{1}{2} [\varepsilon_i^2] D_\xi^2 - \frac{1}{3!} [\varepsilon_i^3] D_\xi^3 + \text{etc}) . \phi_1 \xi . dx$
+
+The value of this depends no further on the
+functions $\phi_2$ $\phi_3$ $\phi_4$ than to determine values
+of the coefficients $[\varepsilon_i^m]$.
+We can, therefore, suppose these functions
+of any forms which will give the proper
+values to these coefficients.

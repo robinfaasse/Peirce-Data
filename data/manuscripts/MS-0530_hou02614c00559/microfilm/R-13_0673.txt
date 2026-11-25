@@ -1,0 +1,26 @@
+[marginalia]
+Notation
+37
+[/marginalia]
+
+might intervene between the braces and the heavy parentheses.
+
+All these forms will be often needed in logical algebra, unless
+[del]letters are introduced[/del]
+special [del]notations are employed[/del] [ins]devices are used[/ins] to simplify expressions by
+separating them into parts.
+
+I would write
+[u]a[/u] V [u]b[/u] [del]≼[/del] [ins]≼[/ins] [u]c[/u] P [u]d[/u] [del]V[/del] [ins]v[/ins] [u]e[/u] ≺ [u]f[/u] Ψ [u]g[/u] · [u]h[/u] ≼ [u]i[/u] ⱶ [u]j[/u] [del]k[/del] [ins]k[/ins]
+for [u]a[/u] V {[u]b[/u] ≼ [[u]c[/u] P ([u]d[/u] [del]V[/del] [ins]v[/ins] ([u]e[/u] ≺ {[u]f[/u] Ψ [[u]g[/u] · [[u]h[/u] ≼ ([u]i[/u] ⱶ ([u]j[/u] [del]k[/del] [ins]k[/ins]))]}))]]}.
+
+[u]Notation for the General Algebra of Logic[/u]. A proposition in the
+general algebra of logic consists of two parts. The first is the series
+of quantifiers, or directions for the order and manner of choosing the
+individuals of the set to which the [del]oth[/del] second part of the proposition,
+called the Boolean, (since it is an expression of the Boolean al-
+gebra) is written. The first part collectively may be called the
+Hopkinsian, since it was developed in the Johns Hopkins Uni-
+versity. According the practice now in vogue (introduced by me
+in [date]1870[/date]) the letters Σ and Π are employed for this purpose.
+Of course, Σ stands for Σύμ and Π for Προδυκτ, which I do

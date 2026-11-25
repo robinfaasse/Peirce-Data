@@ -1,0 +1,41 @@
+$$(x^2+y^2)(y+c z) + 2 \overline{c} x y z = 0$$
+
+Put $z = c z \qquad e = \frac{2 \overline{c}}{c}$
+
+$$(x^2+y^2)(y+z) + e x y z = 0$$
+
+To form line equation
+$$\begin{aligned}
+u &= 2x(y+z) + e y z \quad = 2(xy+xz+yz) + a y z \\
+v &= 2y(y+z) + x^2+y^2 + e x z = 2(xy+xz+yz) + a x z + x^2+y^2 \\
+w &= x^2+y^2 + e x y \qquad\qquad = \qquad\qquad\qquad (a+2)xy + x^2+y^2
+\end{aligned}$$
+
+Put $a = e-2$
+
+The cubic having a node, the line equation is of the form
+
+$$\begin{aligned}
+&A u^4 + B v^4 + C w^4 \\
+&+ D u^3 v + E u^3 w + F u v^3 + G v^3 w + H u w^3 + I v w^3 \\
+&+ [del]J u^2 v w + K u v^2 w[/del] \\
+&+ J u^2 v^2 + K u^2 w^2 + L v^2 w^2 \\
+&+ M u^2 v w + N u v^2 w + O u v w^2 = 0
+\end{aligned}$$
+
+$$\begin{aligned}
+u^2 &= 4 x^2 (y+z)^2 + 4 e (y+z) x y z + e^2 y^2 z^2 \\
+v^2 &= 4 y^2 (y+z)^2 + 4 y (y+z)(x^2+y^2) + 4 e (y+z) x y z \\
+&\quad + x^4 + 2 x^2 y^2 + y^4 + 2 e x^3 z
+\end{aligned}$$
+
+[marginalia]
+$\xi = x + i y$
+$\eta = x - i y$
+$\zeta = y + z$
+
+$\frac{1}{2} \xi + \frac{1}{2} \eta = x$
+$\frac{1}{2 i} \eta - \frac{1}{2 i} \xi = y$
+$\zeta - \frac{1}{2 i} \eta + \frac{1}{2 i} \xi = z$
+$x y = \frac{1}{4 i} (\xi^2 - \eta^2)$
+[/marginalia]

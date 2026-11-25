@@ -1,0 +1,29 @@
+[pn]51[/pn] [pn]26[/pn]
+
+Again, in this class of problems we find such as the following: "given
+[u]a[/u]x[u]x[/u], required [u]a[/u], — for example, given that whoever is preju-
+diced against a person trusts somebody who does not trust
+that person, required a description of trusting. Such a pro-
+position as [u]a[/u]x[u]x[/u] can only be true provided [u]a[/u] has certain
+properties, In other words from [u]a[/u]x[u]x[/u], x can be eliminated.
+"The problem," says Schröder, "of eliminating x from [u]a[/u]x[u]x[/u] [del]is the[/del]
+belongs to the easiest among the difficult eliminations or to the hard-
+est among the easy eliminations." He [del]performs it[/del] [ins]takes some steps[/ins] substantially as follows.
+[ins]Only his process is here modified so as to use only the rules of the algebra.[/ins]
+He writes x = y + z, where y < l and z < T. That is, y = y · l and or
+[u]y[/u] = [u]y[/u] + T = l · [u]y[/u] + T; and z = z · T or [u]z[/u] = [u]z[/u] + l = T · [u]z[/u] + l.
+Hence [u]x[/u] = [u]y[/u] · [u]z[/u] = (l · [u]y[/u] + T) · (l + T · [u]z[/u]) = l · [u]y[/u] + T · [u]z[/u]; and
+x[u]x[/u] = (l · y + T · z) (l · [u]y[/u] + T · [u]z[/u]) = (l · y) (T · [u]z[/u]) + (T · z) (l · [u]y[/u]) + (T · z) (T · [u]z[/u]).
+Now the binomial theorem applied to logic is ([u]l[/u][sup]w[/sup] meaning lover of every
+woman)
+(a + b)[sup]w[/sup] = a[sup]w[/sup] + [del]Σ[/del] [ins]Σ[/ins] (u + v = w) · a[sup]u[/sup] · b[sup]v[/sup] + b[sup]w[/sup]
+where the first and last aggregants need not have been written, since
+they are included under the Σ. The negative of this (writing p = [u]a[/u] and q = [u]b[/u])
+is (p · q)w = pw · Π (u + v = w) · (pu + qv) · qw = pw · Π [del][[/del] [ins]v[/ins] ([u]u[/u] + [del]v[/del] [ins]q[/ins]v) [del]+ qu[/del]
+Putting p = l, this becomes
+[del](l · q)w = w · Π (u + v = w) · (l u + qv) · qw = w · Π ( [u]v[/u] + qv)[/del]
+[ins]w · Π ([u]u[/u] w + q v) · qw = w · Π ([u]v[/u] + qv) · qw[/ins]
+The last form is correct because the factor w restricts the [u]v[/u]. Putting w = ∞,
+(l · q)∞ = Π ([u]v[/u] + qv).
+Substituting this value of Π ([u]v[/u] + qv) in the previous equation,
+(l · q)w = w · (l · q)∞.

@@ -1,0 +1,31 @@
+Morrison's Bridge [date]1899 Jan 25[/date] [pn]2[/pn]
+
+Total Energy = $kg \int y \, dx + E \int (D_x \arctan D_x y)^2 \, dx$
+
+[fig]Two curved lines representing a bridge profile[/fig] Variation
+$kg \, \delta y +$
+
+[fig]A curved line with a tangent line[/fig]
+$-\Delta$
+
+$\delta \frac{dy}{dx} = \frac{\delta dy}{dx}$
+
+$\delta \arctan D_x y = \frac{1}{1 + (D_x y)^2} d(D_x y)$
+
+Better cut the Gordian knot by putting energy $(D_x^2 y)^2$
+
+[fig]A line with a small curve and a tangent line[/fig]
+
+[fig]A diagram showing a curve with points n-1, n, n+1, n+2 and tangent lines[/fig]
+
+[fig]A diagram showing a curve with points n-2, n-1, n, n+1, n+2 and tangent lines[/fig]
+
+$\delta \int (D_x \arctan D_x y)^2 dx = $ [del]$y_n - y_{n-1}$[/del]
+$= \left( \arctan \frac{y_n + \delta y_n}{dx} - \arctan \frac{y_{n-1} - y_{n-2}}{dx} \right)^2$
+$+ \left( \arctan \frac{y_{n+1} - y_n - \delta y_n}{dx} - \arctan \frac{y_{n+2} - y_{n+1}}{dx} \right)^2$
+$+ \left( \arctan \frac{y_n - y_{n-1} + \delta y_n}{dx} - \arctan \frac{y_{n+1} - y_n - \delta y_n}{dx} \right)^2$
+$- \left( \arctan \frac{y_n - y_{n-1}}{dx} - \arctan \frac{y_{n-1} - y_{n-2}}{dx} \right)^2$
+$- \left( \arctan \frac{y_{n+1} - y_n}{dx} - \arctan \frac{y_{n+2} - y_{n+1}}{dx} \right)^2$
+
+$= \left( \arctan \frac{y_n - y_{n-1} + \delta y_n}{dx} \right)^2 - \left( \arctan \frac{y_n - y_{n-1}}{dx} \right)^2 - 2 \arctan \frac{y_{n-1} - y_{n-2}}{dx} \left( \arctan \frac{y_n - y_{n-1} + \delta y_n}{dx} - \arctan \frac{y_n - y_{n-1}}{dx} \right)$
+$+ \left( \arctan \frac{y_{n+1} - y_n - \delta y_n}{dx} \right)^2 - \left( \arctan \frac{y_{n+1} - y_n}{dx} \right)^2 - 2 \arctan \frac{y_{n+2} - y_{n+1}}{dx} \left( \arctan \frac{y_{n+1} - y_n - \delta y_n}{dx} - \arctan \frac{y_{n+1} - y_n}{dx} \right)$

@@ -1,0 +1,13 @@
+[pn]L-1[/pn]
+
+$$\int \frac{xy}{(x+y)^3} dx = \frac{-x + \frac{1}{2}y}{(x+y)^2}$$
+
+$$\int \frac{xy}{(x+y)^4} dx = \frac{-\frac{1}{2}x + \frac{1}{6}y}{(x+y)^3} = -\frac{1}{2} \frac{x - \frac{1}{3}y}{(x+y)^3}$$
+
+$$\int \frac{xy}{(x+y)^5} dx = \frac{-\frac{1}{3}x + \frac{1}{12}y}{(x+y)^4} = -\frac{1}{3} \frac{x - \frac{1}{4}y}{(x+y)^4}$$
+
+$$\int \frac{xy}{(x+y)^6} dx = \frac{-\frac{1}{4}x + \frac{1}{20}y}{(x+y)^5} = -\frac{1}{4} \frac{x - \frac{1}{5}y}{(x+y)^5}$$
+
+[del]$$\frac{D_y \frac{x + \frac{1}{2}y}{(x+y)^2}}{}$$[/del]
+
+$$D_y \frac{x + \frac{1}{n-1}y}{(x+y)^n} = \frac{1}{n-1}$$

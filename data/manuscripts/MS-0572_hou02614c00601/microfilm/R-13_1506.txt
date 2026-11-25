@@ -1,0 +1,108 @@
+$$K_{q} K_{\frac{1}{q}} = 1$$
+$$K U_{q} = U K_{q} = U \frac{1}{q}$$
+$$\frac{q}{K_{q}} = (U_{q})^{2}$$
+$$q K_{\overline{q}} = T_{q}^{2}$$
+$$T_{q} = K_{q} U_{q}$$
+$$T \pi = \pi T$$
+$$U \pi = \pi U$$
+$$K \Sigma = \Sigma K$$
+$$q + K_{q} = 2 S_{q}$$
+$$S K = S$$
+$$S_{q} = T_{q} . S U_{q}$$
+$$S U_{q} = S U_{\frac{1}{q}}$$
+$$S_{\overline{q}} = T_{q} . S$$
+$$S_{q} = T_{q}^{2} S \frac{1}{q}$$
+$$S_{q} = T_{q} . \cos \angle q$$
+$$S \Sigma = \Sigma S$$
+$$S_{q q'} = S_{q'} q$$
+$$S \sqrt{q} = \sqrt{\frac{1}{2} (T_{q} + S_{q})}$$
+$$T(q-1)^{2} = T_{q}^{2} - 2 S_{q} + 1$$
+$$T(1-q)^{2} - T_{q}^{2} = 1 - 2 S_{q}$$
+$$(S_{q})^{2} - (V_{q})^{2} = [del](T_{q})^{2}[/del] [ins](T_{q})^{2}[/ins]$$
+$$V \Sigma = \Sigma V$$
+
+$$T(\beta-\alpha)^{2} = T_{\beta}^{2} - 2 T_{\beta} T_{\alpha} S U_{\frac{\beta}{\alpha}} + T_{\alpha}^{2}$$
+$$S_{q' q} = S_{q'} . S_{q} + S(V_{q'} . V_{q}) \text{ if } q' \text{ collinear}$$
+
+$$u x - 1 + \frac{1}{4} u^{2} + \frac{1}{4} x^{2}$$
+
+$$u' - (1 + \frac{(u-x)^{2}}{u x - 1}) x' = \sqrt{x^{2} + 1} + \frac{1}{2} \frac{(u-x)^{2}}{u x - 1} \frac{u-x}{\sqrt{u x - 1}}$$
+
+$$u - x = u - \frac{1+pt}{u} = l$$
+$$u^{2} - l u = 1 + pt$$
+$$u' - l' u + l l' = 1 + pt + l' \frac{1}{2} x = 1 + pt$$
+$$u - \frac{1}{2} l = \pm \sqrt{1 + pt + \frac{1}{4} l^{2}}$$
+$$u = \frac{1}{2} l \pm \sqrt{1 + pt + \frac{1}{4} l^{2}}$$
+
+$$[del][u']^{2} - (1 + \frac{1}{2} \frac{(u-x)^{2}}{u x - 1}) x' = (x^{2}-1) \frac{(u-x)^{2}}{u x - 1} \frac{u x' - 1}{u x - 1} + \frac{1}{2} \frac{(u-x)^{2}}{u x - 1}[/del]$$
+
+$$x' + \frac{(u-x)^{2}}{u x - 1} \frac{1}{2} \frac{(u-x)^{2}}{(u x - 1)^{2}} x' =$$
+
+$$\frac{(u'-x')^{2} - \frac{(u-x)^{2}}{u x - 1} u' x' - \frac{(u-x)^{2}}{u x - 1}}{(u'-x')^{2} (u x - 1) = (u-x)^{2} (u' x' - 1)}$$
+
+$$\frac{u'^{2} u - (u-x)^{2}}{u x - 1}$$
+$$u'^{2} - [del]u'[/del] [ins]x'[/ins] (2 + \frac{(u-x)^{2}}{u x - 1}) u' = -x'^{2} - \frac{(u-x)^{2}}{u x - 1}$$
+
+$$U = \sqrt[n]{-1} \quad U^{n} = \sqrt{-1}$$
+$$U^{n} = e^{\log U . n} = 1 + \log U . n + \frac{1}{2} \log^{2} U . n^{2} + \frac{1}{3!} \log^{3} U . n^{3}$$
+
+$$(a+b+c+d)^{n} = a^{n} + b^{n} + c^{n} + d^{n} + n a^{n-1} b + n a^{n-1} c + n a^{n-1} d$$
+$$\quad + n b^{n-1} a + n b^{n-1} c + n b^{n-1} d$$
+$$\quad + n c^{n-1} a + n c^{n-1} b + n c^{n-1} d$$
+$$\quad + n d^{n-1} a + n d^{n-1} b + n d^{n-1} c$$
+$$+ de \text{ ac } dc$$
+
+$$(1:1) \quad (1:2) \quad (2:1) \quad (2:2)$$
+$$c^{n} \quad n c^{n-1} t$$
+
+[fig]semicircle with vertical line[/fig]
+
+$$\begin{array}{c|c|c|c}
+u & v & w & x \\
+\hline
+u^{2} & u v & u w & v w \\
+v w & u x & w x & x^{2} \\
+\hline
+u^{3} & u^{2} v & & u v w \\
+2 u v w & u v x & & 2 v w x \\
+u w x & v^{2} w & u w x & x^{3} \\
+& v x^{2} & w y^{2} &
+\end{array}$$
+
+$$u^{2} + v w = -1 \quad u(u+x) = 0$$
+$$v w = -1 - u^{2}$$
+$$w = \frac{-1-u^{2}}{v}$$
+
+$$x(u+x) = 0 \quad u^{2} + v w = a$$
+$$w(u+x) = 0 \quad x^{2} + v w = b$$
+$$u = -x \quad v w = a - u^{2}$$
+
+$$\frac{\sqrt{\frac{1}{2} (c-s)^{2} - pt}}{\frac{1}{2} (c+s)} = \tan \angle q$$
+
+$$\text{Condition of Complanarity}$$
+$$v' = \frac{w'}{v} v \quad v' w = w' v \quad w' = \frac{v'}{v} w$$
+$$u' v + v' x = u \frac{w'}{v} v + v' x \quad u' v + v' x = u' v + v' x$$
+$$u w' + w x'$$
+
+$$\text{Two versors} \quad u x - v w = 1 \quad w = \frac{u x - 1}{v}$$
+$$u' x' - v' w' = 1 \quad w' = \frac{u' x' - 1}{v'}$$
+
+$$\frac{w}{w'} = \frac{u x - 1}{v} \frac{v'}{u' x' - 1}$$
+$$w' = \frac{v'}{v} w = \frac{u' x' - 1}{v'}$$
+$$\frac{v'}{v} \frac{u x - 1}{v} = \frac{u' x' - 1}{v'}$$
+
+$$v'^{2} = \frac{u' x' - 1}{u x - 1} v^{2}$$
+$$v'^{2} = \frac{u' x' - 1}{u x - 1} v^{2}$$
+
+$$(u'-x') v = (u-x) v' \frac{w}{w'} = \frac{v'}{v} \frac{u'-x'}{u-x}$$
+$$w \text{ or } v = b(u-x)$$
+$$D y = A$$
+
+$$(\frac{v'}{v})^{2} = \frac{u'^{2} - 2 u' x' + x'^{2}}{u^{2} - 2 u x + x^{2}} = \frac{u' x' - 1}{u x - 1}$$
+$$u + x = \sqrt{4 + \frac{A^{2}}{C^{2}}}$$
+$$u = \frac{1}{2} C t + \sqrt{1 + \frac{1}{4} C^{2} t^{2}}$$
+
+$$u x = 1 + A t^{2}$$
+$$4 u x - 4 + A t^{2}$$
+$$u^{2} - 2 u x + v = C^{2} t^{2}$$
+$$(u+x)^{2} = 4 + C t + A t^{2}$$

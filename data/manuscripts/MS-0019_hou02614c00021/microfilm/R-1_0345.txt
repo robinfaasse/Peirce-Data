@@ -1,0 +1,31 @@
+LOGIC OF QUANTITY.
+
+By C. S. Peirce
+
+[u]Art. 1. Definition 1.[/u] Let us say [del]that[/del] [ins]a[/ins] relation, [u]i[/u], is a [del]preference[/del] [ins]es[/ins], and write [u]p[/u]₋ᵢ, if, and only if, eve[del]ry[/del] [ins]y[/ins] [ins]thing[/ins] that is [u]i[/u] to anything, [u]f[/u], is not [u]i[/u] to anything, [u]g[/u], except [u]g[/u] be identical with [u]f[/u]. That is,
+
+(1) Πᵢ Πₑ Π_f Π_g p̅ᵢ ⤙ r̅ᵢₑ_f ⤙ r̅ᵢₑ_g ⤙ I_fg
+
+(2) Πᵢ Σₑ Σ_f Σ_g rᵢₑ_f ∙ rᵢₑ_g ∙ I̅_fg ⤙ pᵢ .
+
+[u]Corollary 1.[/u] The relation, {0}, of impossibility is a preference. For if, in (2) we substitute identity rᵢ with 0, we have [del]p₀[/del] [ins]p₀[/ins].
+
+(3) [u]Corollary 2.[/u] The relation, {1}, of identity is a preference. For if we multiply (2) by
+
+(4) Π_x Π_y Π_z T_xy ⤙ T_xz ⤙ I_yz
+
+and identify [u]x[/u] with [u]e[/u], [u]y[/u] with [u]f[/u], [u]z[/u] with [u]g[/u] and rᵢ with 1, we get
+
+(5) p₁ .
+
+[u]Theorem 1.[/u] [u]Every relation included under a preference is a preference[/u]
+
+[u]Demonstration.[/u] Suppose the two relations [u]i[/u] and [u]j[/u] to be such that
+
+Π_x Π_y r̅ᵢ_xy ⤙ r_j_xy ,
+
+and suppose pᵢ. Then I say that p_j. For multiply the square of the first hypothesis, accenting, as usual, the indices of one factor by the second and by (1) and (2), accenting the indices of the last; and identify [u]i'[/u] with [u]j[/u], [del]x[/del] [ins]x'[/ins] and [u]e[/u] with [u]e'[/u], [u]y[/u] and [u]f[/u] with [u]f'[/u], [del]y'[/del] [ins]g'[/ins] and [u]g[/u] with [u]g'[/u]. This gives p_j. Q.E.D.
+
+[u]Theorem 2.[/u] [u]The relative product of two preferences is a preference.[/u]
+
+[u]Demonstration.[/u] Suppose pᵢ and p_j. Write [del]r_i_r_j_xy[/del] [ins](rᵢ r_j)_xy[/ins] that is for Σ_z rᵢ_xz ∙ r_j_zy. Multiply the hypotheses by the square of (1), identifying [del]i' with j, f and g with d[/del] This gives

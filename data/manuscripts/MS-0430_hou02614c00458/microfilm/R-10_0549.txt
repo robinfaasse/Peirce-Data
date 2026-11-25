@@ -1,0 +1,29 @@
+[pn]68[/pn]
+[pn]Logic III[/pn]
+
+[marginalia]
+<u>Necessarily False.</u>
+[/marginalia]
+
+[marginalia]
+<u>Necessarily True.</u>
+[/marginalia]
+
+$$\begin{array}{c c c c}
+& & (\bar{x} \wedge \bar{z}) \infty \bar{z} & \bar{x} \infty (\bar{x} \wedge \bar{z}) \\
+& (\bar{x} \ \gamma \ \bar{z}) & (\bar{x} \ \nabla \ \bar{z}) \infty \bar{z} & \bar{x} \infty (\bar{x} \ \nabla \ \bar{z}) \\
+& (\bar{x} \ \nabla \ \bar{z}) & (\bar{x} \ \nabla \ \bar{z}) \infty \bar{z} & \bar{x} \infty (\bar{x} \ \nabla \ \bar{z}) \\
+& (\bar{x} \ \Delta \ \bar{z}) & (\bar{x} \ [del]\text{M}[/del] \ [ins]\text{L}[/ins] \ \bar{z}) \infty \bar{z} & \bar{x} \infty (\bar{x} \ \text{L} \ \bar{z}) \\
+& \bar{x} \ \text{g} \ (\bar{x} \ \text{V} \ \bar{z}) & (\bar{x} \ \text{g} \ \bar{z}) \ \gamma \ \bar{z} & \bar{x} \ \gamma \ (\bar{x} \ \text{g} \ \bar{z}) \\
+(\bar{x} \infty \bar{z}) \ \text{r} \ \bar{z} & \bar{x} \ \text{r} \ (\bar{x} \infty \bar{z}) & (\bar{x} \ \text{r} \ \bar{z}) \ \gamma \ \bar{z} & \bar{x} \ \gamma \ (\bar{x} \ \text{r} \ \bar{z}) \\
+(\bar{x} \ \gamma \ \bar{z}) \ \text{v} \ \bar{z} & \bar{x} \ \text{v} \ (\bar{x} \ \gamma \ \bar{z}) & (\bar{x} \ \text{r} \ \bar{z}) \ \text{y} \ \bar{z} & \bar{x} \ \text{y} \ (\bar{x} \ \text{r} \ \bar{z}) \\
+(\bar{x} \ \text{OC} \ \bar{z}) \ \text{v} \ \bar{z} & \bar{x} \ \text{v} \ (\bar{x} \infty \bar{z}) & (\bar{x} \ \text{r} \ \bar{z}) \ \text{y} \ \bar{z} & \bar{x} \ \text{y} \ (\bar{x} \ \text{r} \ \bar{z}) \\
+(\bar{x} \ \text{r} \ \bar{z}) \ \text{v} \ \bar{z} & \bar{x} \ \text{v} \ (\bar{x} \ \text{OC} \ \bar{z}) & (\bar{x} \ \text{r} \ \bar{z}) \ \text{y} \ \bar{z} & \bar{x} \ \text{y} \ (\bar{x} \ \text{r} \ \bar{z}) \\
+(\bar{x} \ \text{x} \ \bar{z}) \ \text{v} \ \bar{z} & \bar{x} \ \text{v} \ (\bar{x} \ \text{x} \ \bar{z}) & (\bar{x} \ \text{r} \ \bar{z}) \ \text{y} \ \bar{z} & \bar{x} \ \text{y} \ (\bar{x} \ \text{r} \ \bar{z}) \\
+(\bar{x} \ \text{g} \ \bar{z}) \ \wedge \ \bar{z} & \bar{x} \ \wedge \ (\bar{x} \ \text{g} \ \bar{z}) & (\bar{x} \ \text{r} \ \bar{z}) \ \text{y} \ \bar{z} & \bar{x} \ \text{y} \ (\bar{x} \ \text{r} \ \bar{z}) \\
+(\bar{x} \ \text{v} \ \bar{z}) \ \wedge \ \bar{z} & \bar{x} \ \wedge \ (\bar{x} \ \text{v} \ \bar{z}) & (\bar{x} \infty \bar{z}) \ \text{db} \ \bar{z} & \bar{x} \ \text{db} \ (\bar{x} \infty \bar{z}) \\
+(\bar{x} \ \text{r} \ \bar{z}) \ \wedge \ \bar{z} & \bar{x} \ \wedge \ (\bar{x} \ \text{r} \ \bar{z}) & (\bar{x} \ \gamma \ \bar{z}) \ \text{db} \ \bar{z} & \bar{x} \ \text{db} \ (\bar{x} \ \gamma \ \bar{z}) \\
+(\bar{x} \ \text{r} \ \bar{z}) \ \wedge \ \bar{z} & \bar{x} \ \wedge \ (\bar{x} \ \text{r} \ \bar{z}) & (\bar{x} \ \text{r} \ \bar{z}) \ \text{db} \ \bar{z} & \bar{x} \ \text{db} \ (\bar{x} \ \text{r} \ \bar{z}) \\
+(\bar{x} \ [del]\text{M}[/del] \ [ins]\text{L}[/ins] \ \bar{z}) \ \wedge \ \bar{z} & \bar{x} \ \wedge \ (\bar{x} \ [del]\text{M}[/del] \ [ins]\text{L}[/ins] \ \bar{z}) & (\bar{x} \ \text{OC} \ \bar{z}) \ \text{db} \ \bar{z} & \bar{x} \ \text{db} \ (\bar{x} \infty \bar{z}) \\
+& & (\bar{x} \ \text{x} \ \bar{z}) \ \text{db} \ \bar{z} & \bar{x} \ \text{db} \ (\bar{x} \ \text{x} \ \bar{z})
+\end{array}$$

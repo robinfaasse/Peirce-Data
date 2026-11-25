@@ -1,0 +1,30 @@
+[u]La logique de la quantité[/u]
+
+la rélation de maternité donne un sujet de femininité (ou de la
+collection des femmes) à chaque sujet de masculinité (ou de la col-
+lection des hommes.) Nous écrirons $t_{imn}$ pour exprimer que la rélation,
+$i$, donne un sujet de $m$ à chaque [del]objet[/del] [ins]sujet[/ins] de $n$. La définition et sa converse
+sont
+(3) $\Pi_i \Pi_m \Pi_n \Pi_s \Sigma_r \bar{q}_{ns} \mathbin{\psi} q_{mr} \bar{r}_{irs} \mathbin{\psi} \bar{t}_{imn}$
+(4) $\Pi_i \Pi_m \Pi_n \Sigma_s \Pi_r q_{ns} \cdot (\bar{q}_{mr} \mathbin{\psi} r_{irs}) \mathbin{\psi} t_{imn}$
+
+Il y a deux corollaires de chacune de ces propositions. La défini-
+tion (3) peut s'écrire autrement
+(5) $\Pi_i \Pi_m \Pi_n \Pi_s \Sigma_r (\bar{q}_{ns} \mathbin{\psi} q_{mr} \mathbin{\psi} \bar{r}_{imn}) \cdot (\bar{q}_{ns} \mathbin{\psi} r_{irs} \mathbin{\psi} \bar{t}_{imn})$
+Mais une qualité possible est une qualité, $n$, telle que
+$\Sigma_s \bar{q}_{ns}$ ;
+tandis [del]qu'a[/del] que la nullité est une qualité, $m$, telle que
+$\Pi_r q_{mr}$.
+Donc, le premier facteur de (5) signifie qu'aucune rélation ne donne
+un sujet de nullité à [del]un[/del] chaque [del]objet[/del] sujet d'aucune rélation
+possible.
+
+Nous pouvons appeler rélation [del]corrélativement[/del] [ins]objectivement[/ins] particulière une
+rélation telle qu'il y a quelque chose à laquelle rien n'est en cette
+rélation. Alors le deuxième facteur de (5) exprime qu'une rélation
+[del]corrélativement[/del] [ins]objectivement[/ins] particulier ne donne un sujet d'aucune qualité à
+aucune qualité possible.
+
+La converse de définition (4) peut s'écrire
+(6) $\Pi_i \Pi_m \Pi_n \Sigma_s \Pi_t (q_{ns} \mathbin{\psi} t_{imn}) \cdot (\bar{q}_{mt} \mathbin{\psi} \bar{r}_{ims} \mathbin{\psi} t)$
+[del]La rélation de [ins]d'incompatibilité[/ins] co-existence est une telle rélation, n, que[/del]

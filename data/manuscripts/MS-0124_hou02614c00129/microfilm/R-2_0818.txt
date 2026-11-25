@@ -1,0 +1,41 @@
+[marginalia]
+This is right
+but can be
+better stated
+[/marginalia]
+
+[u]Solution of the General Cubic[/u]
+
+$$Ax^3 + Bx^2 + Cx + D = 0$$
+
+Put $$\frac{Q}{2} = \frac{1}{27} \frac{B^3}{A^3} - \frac{1}{6} \frac{BC}{A^2} + \frac{1}{2} \frac{D}{A}$$
+
+$$R = \frac{1}{27} \frac{B^3 D}{A^4} - \frac{1}{108} \frac{B^2 C^2}{A^4} + \frac{1}{27} \frac{C^3}{A^3} - \frac{1}{6} \frac{BCD}{A^3} + \frac{1}{4} \frac{D^2}{A^2}$$
+
+Then let $$i$$ be any cube root of unity
+
+$$x = i \sqrt[3]{-\frac{Q}{2} + \sqrt{R}} + \frac{1}{i} \sqrt[3]{-\frac{Q}{2} - \sqrt{R}} - \frac{B}{3A}$$
+
+To prove this: Put $$A=1$$ and change signs of $$B$$ and $$D$$. Then
+$$Q/2 = -\frac{1}{27} B^3 + \frac{1}{6} BC - \frac{1}{2} D$$
+$$R = \frac{1}{27} B^3 D - \frac{1}{108} B^2 C^2 + \frac{1}{27} C^3 - \frac{1}{6} BCD + \frac{1}{4} D^2$$
+Let the roots be $$a, b, c$$. Then $$B = \Sigma a \quad C = \Sigma ab \quad D = abc$$
+
+$$\begin{array}{r@{\ }l}
+\frac{1}{6} BC & = \frac{1}{6} \Sigma a^2 b + \frac{3}{6} abc \\
+-\frac{1}{27} B^3 & = -\frac{1}{27} \Sigma a^3 - \frac{3}{27} \Sigma a^2 b - \frac{6}{27} abc \\
+-\frac{1}{2} D & = \phantom{-\frac{1}{27} \Sigma a^3 - \frac{3}{27} \Sigma a^2 b} -\frac{1}{2} abc \\
+\hline
+Q/2 & = \frac{1}{18} \Sigma a^2 b - \frac{2}{9} abc - \frac{1}{27} \Sigma a^3
+\end{array}$$
+
+$$\begin{array}{r@{\ }l}
+\frac{1}{27} B^3 D & = \frac{1}{27} \Sigma a^3 bc + \frac{3}{27} \Sigma a^2 b^2 c^2 + \frac{6}{27} \Sigma a^4 bc \\
+-\frac{1}{108} B^2 C^2 & = -\frac{2}{27} \Sigma a^3 bc - \frac{5}{36} \Sigma a^2 b^2 c^2 - \frac{1}{54} \Sigma a^4 bc - \frac{1}{54} \Sigma a^3 b^3 - \frac{1}{108} \Sigma a^4 b^2 \\
++\frac{1}{27} C^3 & = \frac{1}{9} \Sigma a^3 bc + \frac{2}{9} a^2 b^2 c^2 \phantom{- \frac{1}{54} \Sigma a^4 bc} + \frac{1}{27} \Sigma a^3 b^3 \\
+-\frac{1}{6} BCD & = -\frac{1}{6} \Sigma a^3 bc - \frac{1}{2} a^2 b^2 c^2 \\
++\frac{1}{4} D^2 & = \phantom{-\frac{1}{6} \Sigma a^3 bc} + \frac{1}{4} a^2 b^2 c^2 \\
+\hline
+R & = -\frac{1}{54} \Sigma a^3 bc + \frac{1}{18} a^2 b^2 c^2 + \frac{1}{54} \Sigma a^4 bc + \frac{1}{54} \Sigma a^3 b^3 - \frac{1}{108} \Sigma a^4 b^2 \\
+\sqrt{R} & = 
+\end{array}$$

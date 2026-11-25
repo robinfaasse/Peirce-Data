@@ -1,0 +1,26 @@
+$$\begin{array}{c|c}
+\begin{aligned}
+& \mathcal{D} \sin u = \cos u \cdot \mathcal{D} u \\
+& \mathcal{D} \cos u = - \sin u \cdot \mathcal{D} u \\
+& \mathcal{D} \frac{\sin u}{\cos u} = \frac{\cos u \cdot \sin u \cdot \mathcal{D} u + \cos u \cdot \sin u \cdot \mathcal{D} u}{\cos^2 u} \\
+& \mathcal{D} \tan u = \frac{2 \cos u \cdot \sin u \cdot \mathcal{D} u}{\cos^2 u} = 2 \tan u \cdot \mathcal{D} u \\
+& \mathcal{D} \sin u = \cos u \cdot \mathcal{D} u \\
+& \mathcal{D} \cos u = - \sin u \cdot \mathcal{D} u \\
+& \mathcal{D} \tan u = \mathcal{D} \frac{\sin u}{\cos u} = \mathcal{D} \sin u \cdot \mathcal{D} u \\
+\\
+& \mathcal{D} \cos u = - \sin u \\
+& \mathcal{D} \sin u = \cos u \\
+& \mathcal{D} \tan \tau = \frac{\tan \tau = \frac{\sin \tau}{\cos \tau}}{\cos u \cdot \sin u}
+\end{aligned}
+&
+\begin{aligned}
+& \mathcal{D} \log u = \log u \cdot u \cdot \mathcal{D} u \\
+& \mathcal{D} \log x = x \\
+& 2x^2 + 2x \sqrt{1+x^2} + [del]1+x^2[/del] \\
+& [del]x[/del] \quad 2x^2 \sqrt{1+x^2} + 2x + 2x^3 + \sqrt{1+x^2} \\
+& \left(2x^2 + 1\right) \sqrt{1+x^2} + 2x(1+x^2) \\
+\\
+& \mathcal{D} \log u = u \cdot \mathcal{D} u \\
+& \mathcal{D} \log \sigma = 0, = \sigma \mathcal{D} \sigma
+\end{aligned}
+\end{array}$$

@@ -1,0 +1,65 @@
+[marginalia]
+24
+14
+4
+
+23
+13
+3
+
+22
+12
+
+21
+[/marginalia]
+
+[del]$i^3 j^3 = 0$[/del]
+[del]$i^4 i^2 = b i^5 j + c i^4 i + l i^3 j^2$[/del]
+[del]$i^4 i = b i^5 + c i^4 + d i^3 j + e i^2 j^2 + l i^3 j + m \frac{j^2}{2}$[/del]
+
+[del]$i^3 j^2 = 0 = b i^4 j^2 + l i^3 j^3$[/del]
+[del]$i^3 i^2 = b i^4 j + c i^3 j + d i^2 i + l i^2 j^2 + m \frac{j^3}{3}$[/del]
+[del]$i^3 i = b i^4 + c i^3 + d i^2 j + e i^2 + f i j^2 + l i^2 j + m i \frac{j^2}{2}$[/del]
+
+[del]$i^2 i^3 = b i^3 j^2 + c i^2 j^2 + l i j^3$[/del]
+[del]$i^2 i^2 = b i^3 j + c i^2 j + d i j^2 + l i j^2 + m \frac{j^3}{3}$[/del]
+
+$i i^3 = b i^2 j^2 + c i j^2 + d i^4 j^2 + l j^3$
+
+[marginalia]
+9
+18
+8
+
+27
+17
+7
+
+20
+16
+6
+
+25
+15
+5
+[/marginalia]
+
+$i^8 j^3 = 0$
+$i^8 i^2 = 0$
+$i^8 i = 0$
+
+$i^7 j^3 = 0$
+$i^7 i^2 = 0$
+$i^7 i = 0$
+
+$i^6 j^3 = 0$
+$i^6 i^2 = 0$
+$0 = b i^8 + l i^7 j$
+
+$i^5 j^3 = 0$
+$i^5 i^2 = 0$
+$i i j = b i^7 + c i^8 + l i^5 j$
+
+$i^4 j^3 = 0$
+$0 = b i^6 j + l i^4 j^2$
+[del]$i^4 i = b i^6 + l i^4 j + m \frac{j^2}{2}$[/del]

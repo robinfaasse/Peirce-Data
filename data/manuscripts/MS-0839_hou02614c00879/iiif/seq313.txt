@@ -1,0 +1,38 @@
+-XV [del]A[/del]XV² + YUV + UV² + X Y Z - Y Z V - Y² Z + X² Y - X² U - X³ + X Y V
+[fig]curved lines connecting terms in the polynomial[/fig] [ins]+ X Y U[/ins]
+
+[fig]matrix-like arrangement of variables[/fig]
+X    Y+V    Z+U    Y+V    Z+U
+U    -V     V-U    Z-Y    X-Z
+V    U-V    -U     X-Y    Y-Z
+Y    Z+V    X+U     Y     Z+V
+Z    X+V    Y+U    U+Y     Z
+
+[fig]matrix-like arrangement of variables[/fig]
+X    Y+V    Z+U    Y+V    U+Z
+U    -V     V-U    Z-Y    X-Z
+V    U-V    -U     X-Y    Y-Z
+Y    Z+V    X+U     Y     V+Z
+X+Y+Z  X+Y+Z
++U+V   +U+V
+
+(X+Y+Z+U+V) [fig]
+| 1      1      1      1      1 |
+| X    Y+V    Z+U    Y+Y    U+Z |
+| U     -V    V-U    Z-Y    X-Z |
+| V    U-V    -U     X-Y    Y-Z |
+| Y    Z+V    X+U     Y     V+Z |
+[/fig]
+
+(X+Y+Z+U+V) [fig]
+| 1      0        0        0        0    |
+| X    Y+V-X    Z+U-X    V+Y-X    U+Z-X  |
+| U    -V-U     V-2U     Z-Y-U    X-Z-U  |
+| V    U-2V    -U-V      X-Y-V    Y-Z-V  |
+| Y    Z+V-Y    X+U-Y      0      V+Z-Y  |
+[/fig]
+
+Y-[del]Z[/del] [ins]U[/ins]-V+U+V   Z-V-X     0    U-V+Y-X
+-X+Z-V                           -U-V
+X-Y-[del]X[/del]+U [del]X V[/del] U-2V   X-Z+U-V  [del]X[/del] [del]X[/del] [del]U[/del]-V
+       0                           V+Z-Y

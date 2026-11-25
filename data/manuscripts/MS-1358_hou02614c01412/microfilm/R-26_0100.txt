@@ -1,0 +1,24 @@
+[pn]11[/pn]
+
+[date]1891 Jan 29[/date]
+
+$(a_0 + a_1 x + a_2 x^2 + a_3 x^3 + \text{etc})^P$
+
+$= \text{[del]a polynomial[/del]}$
+a development in powers of $x$
+
+every coefficient having $P$ factors
+
+The sum of the subscript indices [ins]of each term of[/ins] [del]equals[/del]
+the coefft of $x^n$ equals [u]$n$[/u].
+
+And the [del]sum of[/del] coefficient $a_0^{b_0} a_1^{b_1} a_2^{b_2} a_3^{b_3} \text{etc}$
+is multiplied by $\frac{(b_0 + b_1 + b_2 + b_3 + \text{etc})!}{b_0! b_1! b_2! b_3! \text{etc}}$.
+
+So that the term is
+$\frac{(\sum_m b_m)!}{\prod_m (b_m!)} \prod_n a_n^{b_n} \cdot x^{\sum n}$
+
+which is a term of $(\sum_n a_n x^n)^{\sum_m b_m}$
+
+where the [del]b's are the differ[/del]
+$\sum_m b_m$ is a partition of [del]the[/del] $P$

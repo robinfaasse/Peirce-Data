@@ -1,0 +1,27 @@
+[pn]9[/pn]
+
+I will endeavor to solve his problem for him.
+First I state it properly. [del]collectively,[/del]
+Let there be a collection of the following
+[del]of[/del] objects
+The $A_0$'s, the $A_1$'s, the $A_2$'s, etc up to and
+including the $A_N$'s.
+Let the numbers of these be $a_0$, $a_1$, $a_2$, etc to $a_N$
+Let $a_0 \leqq a_1 \leqq a_2 \leqq \dots \leqq a_N$
+Let $n$ be the number of different descriptions of
+collections of $n$ objects that can be formed from
+the above fund.
+Let $\nu_1$, $\nu_2$, $\nu_3$, etc $\dots \nu_N$, $\nu_{N+1}$
+be such numbers that
+$a_{\nu_1} < n \leqq a_{\nu_1+1}$
+$a_{\nu_2} + a_{\nu_2-1} < n \leqq a_{\nu_2} + a_{\nu_2+1}$
+$a_{\nu_3} + a_{\nu_3-1} + a_{\nu_3-2} < n \leqq a_{\nu_3-1} + a_{\nu_3} + a_{\nu_3+1}$
+etc.
+Now the problem is stated.
+
+[u]I will restate it.[/u]
+
+Better write these
+①, ②, ③, ④, - - - - [ins]N+1[/ins]
+
+$a_{③} + a_{③-1} + a_{③-2} < n \leqq a_{③+1} + a_{③} + a_{③-1}$

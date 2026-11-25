@@ -1,0 +1,21 @@
+Suppose
+$u^2=0$   $uv=vu$
+
+$u(u+v+w) = uv + uw$
+$(u+v+w)u = uv + wu$
+Suppose $uw$ and $wu$ dissimilar
+$uv = p uw + q wu$
+$(p+1) uw + q wu \approx p uw + (q+1) wu$ [fig]figure[/fig]
+$1 + \frac{1}{p} = \frac{1}{1 + \frac{1}{q}}$
+$\frac{1}{p} + \frac{1}{q} + \frac{1}{pq} = 0$
+$p+q=-1$
+$u(v+rw) = uv + r uw$ [fig]figure[/fig]
+$(v+rw)u = uv + r wu$
+$(p+r) uw + q wu$
+$p uw + (q+r) wu$
+$\frac{p+r}{p} = \frac{q}{q+r}$   $r(p+q) + r^2 = 0$
+[del]$r+$[/del] $p+q+r=0$
+$(u+nv)(v-(p+q)w) = uv - (p+q) uw + nv^2 - n(p+q) vw$
+$(v-(p+q)w)(u+nv) = uv - (p+q) wu + nv^2 - n(p+q) wv$
+$q \frac{wu}{\text{[del]}wu\text{[/del]} - uw}$
+[del]$p$[/del] $(uw - wu)$

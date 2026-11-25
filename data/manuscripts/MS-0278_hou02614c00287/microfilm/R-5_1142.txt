@@ -1,0 +1,27 @@
+Proof of Ptolemy's Theorem.
+
+$(a-b)c + (c-a)b + (b-c)a = 0$
+
+Now let $a, b, c$ be three quantities with the same modulus
+
+[fig]Circle with inscribed quadrilateral and diagonals[/fig] [fig]Circle with inscribed quadrilateral and diagonals[/fig]
+
+[del]$(a-b)c + (c-a)b + (b-c)$[/del]
+
+Let $a\ b\ c$ be
+$\underset{=a}{\alpha-\delta}\ \underset{=b}{\beta-\delta}\ \underset{=c}{\gamma-\delta}$ where $\alpha\ \beta\ \gamma\ \delta$ have
+the same modulus 1
+
+[del]$\alpha-\delta\ \beta-\delta$[/del]
+[del]at[/del] $(\alpha-\beta)(\gamma-\delta) + (\gamma-\alpha)(\beta-\delta) + (\beta-\gamma)(\alpha-\delta) = 0$
+
+$(\alpha-\beta)(\gamma-\delta)$
+$(\beta-\delta)(\gamma-\alpha)$
+$(\delta-\alpha)(\gamma-\beta)$
+
+$(\cos\alpha - \cos\beta + \iota\sin\alpha - \iota\sin\beta)(\cos\gamma - \cos\delta + \iota\sin\gamma - \iota\sin\delta)$
+
+$(\cos\alpha - \cos\beta)(\cos\gamma - \cos\delta) - (\sin\alpha - \sin\beta)(\sin\gamma - \sin\delta)$
+[del]$-\cos(\alpha+\gamma) - \cos(\alpha+\delta) - \cos(\beta+\gamma) + \cos(\beta+\delta)$[/del]
+$\cos(\beta+\gamma) - \cos(\beta+\alpha) - \cos(\delta+\gamma) + \cos(\delta+\alpha)$
+$\cos(\delta+\gamma) - \cos(\delta+\beta) - \cos(\alpha+\gamma) + \cos(\alpha+\beta)$

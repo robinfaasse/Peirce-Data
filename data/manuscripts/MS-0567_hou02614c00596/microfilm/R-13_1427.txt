@@ -1,0 +1,27 @@
+[pn]167[/pn]
+
+Also
+$(\Sigma_{i} a_{i}) (\Sigma_{j} a_{j}) = (a_{1} + a_{2} + a_{3} + \text{etc.}) (a_{1} + a_{2} + a_{3} + \text{etc.})$
+
+while
+$\Sigma_{i} \Sigma_{j} a_{i} a_{j} = a_{1} a_{1} + a_{1} a_{2} + a_{1} a_{3} + \text{etc.}$
+$+ a_{2} a_{1} + a_{2} a_{2} + a_{2} a_{3} + \text{etc.}$
+$+ a_{3} a_{1} + a_{3} a_{2} + a_{3} a_{3} + \text{etc.}$
+$+ \text{etc.}$
+
+and
+$\Sigma_{i} a_{i} a_{i} = a_{1} a_{1} + a_{2} a_{2} + a_{3} a_{3} + \text{etc.}$
+
+The first two expressions are equivalent
+by the [del]principle of[/del] distribution-principle.
+The third is equivalent to $\Sigma_{i} a_{i}$ because
+$a a = a$, and thus all three are equivalent
+to one another.
+
+The [del]proposition[/del] [ins]theorem[/ins] enunciated having thus
+been proved true [del]for[/del] [ins]of[/ins] every proposition
+having a single index, it only remains
+to show that if it be true of every pro-
+position having $n$ indices, it is true
+for every proposition having $n+1$
+indices.

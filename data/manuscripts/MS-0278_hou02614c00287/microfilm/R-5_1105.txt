@@ -1,0 +1,29 @@
+[del]D R = - \lambda_R R[/del]  $R = R_0 e^{-\lambda_R t}$
+
+[del]D_t (z_R R + z_X X) = ( \frac{z_R - P_X z_X}{z_R} ) \lambda_R[/del]  $P_R \lambda_R \frac{z_X}{z_R} - \lambda_R = M$
+
+$(- P_R + P_X z_X) \lambda_R R - z_X \lambda_X X$  $P_X \lambda_X \frac{z_R}{z_X} - \lambda_X = M$
+
+$\frac{\lambda_R}{\lambda_X} = \frac{(P_X \frac{z_X}{z_R} - 1) \lambda_R = M}{(P_X \frac{z_R}{z_X} - 1) \lambda_X = M}$  $\frac{(P_X \frac{z_X}{z_R} - 1) \lambda_R = - \lambda_X}{- P_X \frac{z_R}{z_X} + 1 = \frac{\lambda_X}{\lambda_R}}$
+
+$\frac{1}{P_X} (1 - \frac{\lambda_X}{\lambda_R}) = \frac{z_R}{z_X}$
+
+$D R = - \lambda_R R$
+$D X = P_X \lambda_R R - \lambda_X X$
+
+[del]D (R + \xi X) = - \lambda_R (1 - P_X \xi)[/del]
+$= \lambda_R (-1 + P_X \xi) R - \xi \lambda_X X$
+
+$\frac{- \xi \lambda_X}{\lambda_R (1 - P_X \xi)} = \xi$
+$\lambda_X = \lambda_R (1 - P_X \xi)$
+$\frac{\lambda_X}{\lambda_R} = 1 - P_X \xi$  $P_X \xi = 1 - \frac{\lambda_X}{\lambda_R}$
+$\xi = \frac{1}{P_X} (1 - \frac{\lambda_X}{\lambda_R})$
+
+$D [ R + \frac{1}{P_X} (1 - \frac{\lambda_X}{\lambda_R}) X ] = \left. \begin{array}{r} - \lambda_R \\ + \lambda_R - \lambda_X \end{array} \right\} R - \frac{\lambda_X}{P_X} (1 - \frac{\lambda_X}{\lambda_R}) X$
+
+$R + \frac{1}{P_X} (1 - \frac{\lambda_X}{\lambda_R}) X = C_1 e^{-\lambda_X t}$
+$R = C_R e^{-\lambda_R t}$
+
+$\frac{1}{P_X} (1 - \frac{\lambda_X}{\lambda_R}) X = - C_R e^{-\lambda_R t} + C_1 e^{-\lambda_X t}$
+
+$\frac{\lambda_R - \lambda_X}{\lambda_R} X = \frac{\lambda_R}{\lambda_R - \lambda_X} P_X (C_R e^{-\lambda_R t} - C_1 e^{-\lambda_X t})$

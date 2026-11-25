@@ -1,0 +1,28 @@
+[pn]N2[/pn]
+
+(8) $\Pi_u \Sigma_\alpha \Sigma_v \Pi_\omega \Pi_\beta \Pi_\gamma q_{\alpha u} \cdot S_\alpha \cdot \bar{q}_{\alpha v} \cdot (\bar{s}_\beta + \bar{q}_{\beta \omega} + q_{\gamma \omega} + q_{\gamma v})$
+[del]i.e. every integer has another next higher[/del]
+This is [del]an immediate consequence of[/del] [ins]to consistence with[/ins] (4):
+
+(9) $\Pi_\alpha \Pi_u \Sigma_v \Pi_\omega \Pi_\beta \bar{q}_{\alpha u} + q_{\alpha v} \cdot (\bar{q}_{\beta \omega} + \bar{s}_\beta + \bar{q}_{\beta \omega} + q_{\beta v})$ [ins]{ i.e. Every class of integers has a least}[/ins]
+
+For formula (10)
+see p. 6 of this MS.
+
+[u]Addition[/u].
+
+Let $(i+j)_k$ mean that the integer $k$ can result from adding the integer $i$ to the integer $j$. This can be negatived by an obelus over it like any other expression.
+
+Addition is definable by the following six formulae:
+
+(10) $\Pi_i \Pi_j \Sigma_k (i+j)_k$
+
+(12) $\Pi_k \Pi_j \Sigma_i \Sigma_\alpha s_\alpha \cdot q_{\alpha i} \cdot \bar{q}_{\alpha k} + (i+j)_k$
+
+(13) $\Pi_i \Pi_k \Sigma_j \Sigma_\alpha s_\alpha \cdot q_{\alpha i} \cdot \bar{q}_{\alpha k} + (i+j)_k$
+
+(14) $\Pi_i \Pi_j \Pi_k \Pi_u \Pi_v \Sigma_\beta (i+j)_k + (u+v)_k + S_\beta \cdot (q_{\beta u} \cdot \bar{q}_{\alpha i} + q_{\beta v} \cdot \bar{q}_{\beta j}) + \bar{s}_\beta + \bar{q}_{\beta u} + q_{\beta i}$
+
+(15) $\Pi_i \Pi_j \Pi_k \Pi_u \Pi_v \Sigma_\beta (i+j)_k + (u+v)_k + S_\beta \cdot (q_{\beta u} \cdot \bar{q}_{\beta i} + q_{\beta v} \cdot \bar{q}_{\beta j}) + \bar{s}_\beta + \bar{q}_{\beta v} + q_{\beta j}$
+
+(16) $\Pi_i \Pi_j \Pi_k \Pi_u \Pi_v \Sigma_\beta (i+j)_k + (u+v)_k + S_\beta \cdot (q_{\beta u} \cdot \bar{q}_{\beta i} + q_{\beta v} \cdot \bar{q}_{\beta j}) + \bar{s}_\beta + \bar{q}_{\beta v} + q_{\beta j}$

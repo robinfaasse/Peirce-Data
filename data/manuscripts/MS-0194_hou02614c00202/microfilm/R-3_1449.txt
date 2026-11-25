@@ -1,0 +1,31 @@
+[pn]6[/pn]
+
+$$\sin \alpha = \frac{\cos \Phi}{\sqrt{1 - e^2 \sin^2 \Phi}} \cdot \frac{\sqrt{1 - e^2 \sin^2 \varphi}}{\cos \varphi}$$
+
+$$\cos \alpha \cdot d\alpha = \frac{\cos \Phi}{\sqrt{1 - e^2 \sin^2 \Phi}} \cdot [del]\frac{1}{y}[/del] \frac{\frac{e^2 \sin \varphi \cos^2 \varphi}{\sqrt{}} + \sin \varphi \sqrt{}}{\cos^2 \varphi} d\varphi$$
+
+$$= \frac{\cos \Phi}{\sqrt{1 - e^2 \sin^2 \Phi}} \cdot \frac{- e^2 \sin \varphi + e^2 \sin^3 \varphi + \sin \varphi - e^2 \sin^3 \varphi}{\cos^2 \varphi \sqrt{1 - e^2 \sin^2 \varphi}}$$
+
+$$= \frac{\cos \Phi}{\sqrt{1 - e^2 \sin^2 \Phi}} \frac{(1 - e^2) \sin \varphi}{\cos^2 \varphi \sqrt{1 - e^2 \sin^2 \varphi}}$$
+
+$$= \frac{\cos \Phi}{\sqrt{1 - e^2 \sin^2 \Phi}} \frac{1}{2} \frac{\cos \varphi}{\sqrt{1 - e^2 \sin^2 \varphi}} d \frac{1 - e^2 \sin^2 \varphi}{1 - \sin^2 \varphi}$$
+
+$$= \frac{\cos \Phi}{\sqrt{1 - e^2 \sin^2 \Phi}} \frac{1}{2} \frac{\sqrt{1 - e^2 \sin^2 \varphi}}{\cos \varphi} \left( \frac{-e^2}{1 - e^2 \sin^2 \varphi} + \frac{1}{1 - \sin^2 \varphi} \right) [del]\frac{1}{2 \sin \varphi \cos \varphi} d\varphi[/del] [del]\frac{dy}{y} = dy[/del]$$
+
+$$= \frac{\cos \Phi}{\sqrt{1 - e^2 \sin^2 \Phi}} \frac{(1 - e^2) \sin \varphi}{\sqrt{1 - e^2 \sin^2 \varphi} \cos^2 \varphi}$$
+
+$$\sin^2 \alpha = \frac{\cos^2 \Phi (1 - e^2 \sin^2 \varphi)}{\cos^2 \varphi (1 - e^2 \sin^2 \Phi)}$$
+
+$$\cos^2 \alpha = \frac{(1 - \sin^2 \varphi)(1 - e^2 \sin^2 \Phi) - (1 - e^2 \sin^2 \varphi)(1 - \sin^2 \Phi)}{\cos^2 \varphi (1 - e^2 \sin^2 \Phi)}$$
+
+$$= \frac{(1 - e^2)(\sin^2 \Phi - \sin^2 \varphi)}{\cos^2 \varphi (1 - e^2 \sin^2 \Phi)}$$
+
+$$d\alpha = \frac{\cos \Phi \sin \varphi}{(\sin^2 \Phi - \sin^2 \varphi) \sqrt{1 - e^2 \sin^2 \varphi}} d\varphi$$
+
+$$q d\alpha = - \frac{\tan \alpha}{\sin \varphi} dq$$
+
+$$dw = - [del]\frac{1}{k}[/del] \frac{\sqrt{1 - e^2 \sin^2 \varphi}}{\cos \alpha \sin \varphi} \frac{\cos \Phi}{\sqrt{1 - e^2 \sin^2 \Phi}} \frac{dq}{\sqrt{}}$$
+
+$$\sin \alpha = \frac{q}{q}$$
+$$\cos^2 \alpha = 1 - \frac{q^2}{q^2}$$
+$$\sec \alpha = \frac{q}{\sqrt{q^2 - q^2}}$$

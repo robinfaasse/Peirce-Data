@@ -1,0 +1,61 @@
+[pn](2)[/pn]
+
+The contradictory of the [del]continuation[/del] [ins]contradictory[/ins] of the original proposition, we
+may write [del]now[/del] in the form
+[del]$\overline{\overline{a} - a}$[/del]
+
+We have to consider the nature of the relation between a premise
+and a conclusion from it. If we assert the conclusion neces-
+sarily, then we are talking not merely about the actual state of things
+but about all possible states of things. But if we only say that if
+the premise is true the conclusion is true, restricting our meaning
+to the actual fact, then we state what is only falsified in case
+the premise is true, and the conclusion false. Let P mean the
+drawer of a certain note fails, and let C mean the acceptor pays
+the note. Then, suppose I say if the drawer fails, the acceptor
+pays, or if P then C. I here state what is false only in case the
+drawer fails and yet the acceptor does not pay. If the drawer
+does not fail, I escape, we are even, for I said nothing about
+that case. If the acceptor pays, that is all and more than I pos-
+itively asserted. In short I merely say, either the drawer does
+not fail or else the acceptor will pay. Let us write this
+P $\prec$ C
+
+Here P is called the antecedent and C the consequent. This is true
+in case the antecedent is false, be the consequent true or not.
+It is true in case the consequent is true, be the antecedent true
+or not. It is false only if the antecedent be true and conse-
+quent false. This is so because this proposition is understood
+to relate solely to the actual state of things. In that it differs
+from most hypothetical propositions.
+
+This must be fully understood. An ordinary hypothetical proposition,
+as propositions containing an antecedent condition and a consequent
+result are called, relates to what would occur in states of things
+not all coincident with the existing state of things. Suppose I
+say "If I were to upset the inkstand the table cloth would be
+injured." This means that of all the different courses of events
+that might occur, the disposition of things in the room being
+what it is, every one is one in which either the inkstand is
+not upset or the tablecloth is spoiled. But the propositions we
+are now considering are materially simpler, and subject to
+quite different logical conditions, because we only consider a
+single state of things or course of events. The student is therefore
+warned against applying any of the results of this lesson
+practically until more has been learned.
+
+The denial of P $\prec$ C, or $\overline{\text{P} \prec \text{C}}$, will mean "the drawer fails
+and yet the acceptor fails to pay." We can write this P $\overline{\prec}$ C, con-
+fining the denying line to the sign of consequence. Taking
+into account denials of P and C, there are 8 different com-
+plex propositions to be made from these two. They are as
+follows:-
+
+P $\prec$ C If the drawer fails the acceptor pays.
+P $\overline{\prec}$ C If the drawer does not fail the acceptor pays.
+P $\prec$ $\overline{\text{C}}$ If the drawer fails the acceptor does not pay.
+$\overline{\text{P}}$ $\prec$ $\overline{\text{C}}$ If the drawer does not fail the acceptor does not pay.
+P $\overline{\prec}$ C The drawer fails, yet the acceptor does not pay.
+$\overline{\text{P}}$ $\overline{\prec}$ C The drawer does not fail, yet the acceptor does not pay.
+P $\overline{\prec}$ $\overline{\text{C}}$ The drawer fails yet the acceptor pays.
+$\overline{\text{P}}$ $\overline{\prec}$ $\overline{\text{C}}$ The drawer does not fail yet the acceptor pays.

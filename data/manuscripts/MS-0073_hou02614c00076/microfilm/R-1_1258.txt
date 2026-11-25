@@ -1,0 +1,9 @@
+[u]A problem of Trees.[/u]
+
+We are to consider a row of letters which is separated into two parts by a punctuation mark, and each part (not consisting of a single letter) into two parts by a subordinate punctuation mark, and so on [del]to make[/del] until the letters are all separated. The following examples will show what is meant.
+A ; B : C , D ; E
+A . B : C , D ; E
+
+The problem is to find how many distinct forms there are for a row of a given number of letters.
+
+The solution is capable of three degrees of perfection. First, we may obtain a rule for calculating the number of forms, first for two letters, then for three, then for

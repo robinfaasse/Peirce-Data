@@ -1,0 +1,48 @@
+[fig]Geometric diagram with lines and letters[/fig]
+
+[fig]Geometric diagram of a tetrahedron with labeled vertices and edges[/fig]
+
+$\mu^2 = \frac{a^2}{p} + \frac{b^2}{q} + \frac{c^2}{r} + \frac{d^2}{s}$
+
+$a^2 = p^2 + q^2 - L pq$
+$c^2 = r^2 + s^2 - L rs$
+$b^2 = q^2 + r^2 + L qr$
+$d^2 = s^2 + p^2 + L sp$
+
+$-\frac{a^2}{pq} + \frac{p}{q} + \frac{q}{p} = L$
+$-\frac{c^2}{rs} + \frac{r}{s} + \frac{s}{r} = L$
+$+\frac{b^2}{qr} - \frac{q}{r} - \frac{r}{q} = L$
+$+\frac{d^2}{sp} - \frac{s}{p} - \frac{p}{s} = L$
+
+$\frac{\sin \varphi}{\cos \varphi} + \frac{\cos \varphi}{\sin \varphi} = \frac{2}{\sin 2\varphi}$
+$\frac{p}{q} + \frac{q}{p} = \frac{2}{\sin 2 \arctan \sqrt{\frac{p}{q}}}$
+
+$-\frac{a^2}{pq} + \frac{p}{q} + \frac{q}{p} = -\frac{c^2}{rs} + \frac{r}{s} + \frac{s}{r}$
+
+$\frac{p^2+q^2-a^2}{pq} \equiv \frac{r^2+s^2-c^2}{rs}$
+
+$(a^2-p^2-q^2) r s + (b^2-q^2-r^2) p s$
+$a^2 r s + b^2 s p - [del]p s[/del] [ins]p s r[/ins] (p+r) - [del](p+r)[/del] (p+r) (q^2 + [del]r^2[/del])$
+$(b^2+a^2 p - (p+r) (p r + q^2)$
+
+$\frac{a^2-p^2-q^2}{pq} + \frac{b^2-q^2-r^2}{qr} = 0$
+
+$\frac{a^2-q^2}{p} + \frac{c^2-q^2}{r} \le p+r$
+$\frac{a^2-q^2}{p} + \frac{c^2-q^2}{r} \le p+r$ vs $\frac{a^2-s^2-p^2}{sp} = 0$
+$(-\frac{a^2}{p} \frac{r}{q} + (\frac{b^2}{q}) \frac{p}{q} \frac{r^2}{s^2}$
+
+***
+
+[fig]Geometric diagram of a tetrahedron with lines and letters[/fig]
+
+$a^2 = u^2 + y^2 + L uy$
+$c^2 = u^2 + x^2 - L ux$
+$d^2 = v^2 + x^2 + L ux$
+$b^2 = v^2 + y^2 - L uy$
+
+$\frac{a^2}{uy} - \frac{u}{y} - \frac{y}{u} = L$
+$-\frac{c^2}{ux} + \frac{u}{x} + \frac{x}{u} = L$
+$\frac{d^2}{vx} - \frac{v}{x} - \frac{x}{v} = L$
+$-\frac{b^2}{vy} + \frac{v}{y} + \frac{y}{v} = L$
+
+$\frac{a^2}{uy} - \frac{d^2}{vx} + \frac{v}{x} - \frac{u}{y} - \frac{y}{u} + \frac{x}{v} = 0$

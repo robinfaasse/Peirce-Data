@@ -1,0 +1,53 @@
+[fig]Binary division calculation steps arranged in a staircase pattern[/fig]
+
+[pn]Page 1[/pn]
+
+[marginalia]
+140
+112
+28
+168
+112
+56
+448
+224
+112
+56
+28
+14
+7
+[/marginalia]
+
+[marginalia]
+[u]Div. of[/u]
+[u]53[/u]
+8)448
+56
+[/marginalia]
+
+[marginalia]
+[u]Div. of[/u]
+[u]449[/u]
+64
+[/marginalia]
+
+[u]Div. of[/u]
+110101 = 53
+1000001 = 449
+
+[u]10000111[/u]
+1|
+111000001
+
+[u]10000111[/u]
+
+100001110011101101011
+
+[u]Div. of[/u]
+r1001 = 25
+by 110101 = 53
+
+101011011100011000010011010108
+101011
+
+[u]101011[/u]

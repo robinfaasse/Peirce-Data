@@ -1,0 +1,82 @@
+[pn]47[/pn]
+
+[u]Logic[/u]
+
+If a law is metaphysically contingent, the fact [del]which[/del] [ins]to[/ins] which its relates either
+may [del]be[/del] be or may not be, and the law must refer to the junction
+between determination [gap]
+
+[marginalia]
+2
+4
+8
+16
+32
+[/marginalia]
+
+$\phi(x,y) = \text{probability of losing } x \text{ before } y$
+
+$\phi(x,y) = \frac{1}{2} \phi(x+1, y-1) + \frac{1}{2} \phi(x-1, y+1)$
+
+$\phi(x,1) = \frac{1}{2^x}$ [del]$\phi(0,y)$[/del]
+
+$\phi(0,y) = 1$
+
+$\phi(1,1) = \frac{1}{2}$
+
+[del]$\phi(2,1) = \frac{1}{2} \phi(1,2)$[/del]
+
+$\phi(2,1) = \frac{1}{4}$ $\phi(1,2) = \frac{1}{2} + \frac{1}{2} \phi(2,1) = \frac{5}{8}$
+
+[del]$\phi(2,2) = \frac{1}{2} \phi$[/del]
+
+$\phi(1,x) = \frac{1}{2} + \frac{1}{2} \phi(2, x-1)$
+$= \frac{1}{2} + \frac{1}{4} \phi(3, x-2) + \frac{1}{4}$ [del]$\phi(x$[/del]
+
+$\phi(x,2) = \frac{1}{2} \phi(x-1, 3) + \frac{1}{2} \phi(x+1, 1)$
+$= \frac{1}{2} \phi(x-1, 3) + \frac{1}{2^{x+1}}$
+
+$\phi(1,1) = \frac{1}{2}$
+$\phi(2,1) = \frac{1}{4}$ $\phi(1,2) = \frac{5}{8}$ $\phi(2,2) = \frac{1}{2}$
+$\phi(3,1) = \frac{1}{8}$ $\phi(3,2) = \frac{1}{2} \phi(2,3) + \frac{1}{32}$
+$= \frac{1}{4} \phi(1,3) + \frac{1}{4} \phi(3,2) + \frac{1}{32}$
+$= \frac{1}{3} \phi(1,3) + \frac{1}{24}$
+$= \frac{1}{6} + \frac{1}{6} \phi(2,3) + \frac{1}{24}$
+$= \frac{1}{6} + \frac{1}{3} \phi(3,2) + \frac{1}{32}$ [del]$\frac{1}{32}$[/del]
+$= \frac{1}{4} + \frac{3}{64} = \frac{19}{64}$
+
+$\phi(x,y) = \phi(x-1, y+1) + \frac{1}{2} (x+1, y-1)$
+$= \frac{1}{2} (x-2, y+2) +$
+
+$(x,y) = \frac{1}{2} + (2x, y-x)$
+
+$\phi = (x,x) = \frac{1}{2}$
+
+[fig]Diagram with coordinate axes and points[/fig]
+
+$\phi(x,y) = \frac{1}{2} \phi(x-1, y+1) + \frac{1}{2} \phi(x+1, y-1)$
+$= \frac{1}{4} \phi(x-2, y+2) + \frac{1}{2} \phi(x,y) + \frac{1}{4} \phi(x+2, y-2)$
+$= \frac{1}{2} \phi(x-2, y+2) + \frac{1}{2} \phi(x+2, y-2)$
+[del]$= \frac{1}{4} \phi(x-4, y+4)$[/del]
+$= \frac{1}{2} \phi(x-y, y+x) + \frac{1}{2} (2x, y-x)$
+$= \frac{1}{2} + \frac{1}{2} (2x, y-x)$
+$= \frac{1}{2} \phi(x+y-1, y-y+1) + \frac{1}{2} \phi(x-y+1, 2y-1)$
+$= \frac{1}{2^{x+y}} + \frac{1}{2} \phi(x-y+1, 2y-1)$
+
+[del]$\phi(x+y, y)$[/del] $= \phi(x,y) = \frac{1}{2} \phi(x+\frac{y-x}{2}, y+\frac{x-y}{2}) + \frac{1}{2} (\frac{3x-y}{2}, \frac{3y-x}{2})$
+
+$y > x$ $x+y$
+
+$(1,1) = \frac{y-1}{y} + \frac{1}{y} \frac{1}{2^y} = \frac{2}{2}$
+
+$\frac{y-1}{x+y-1} + \frac{x}{x+y-1} \frac{1}{2^{x+y-1}}$
+$\frac{1}{4} + \frac{3}{4} \frac{1}{16} = \frac{19}{64}$
+
+$(x,y) = \frac{1}{2} (x-1, y+1) + \frac{1}{2} (x+1, y-1)$
+$= \begin{cases} 0, x+y \end{cases}$
+
+$\frac{y-1}{y} \frac{\phi(x,y) - \frac{1}{2^{x+y-1}}}{1 - (x,y)}$
+
+$\frac{y-1 - (y-1)(x+y)}{= x(x,y) - \frac{x}{2^{x+y-1}}}$
+$\frac{y+}{y} \frac{x}{2^{x+y-1}}$
+$= (x+y-1) \times y$

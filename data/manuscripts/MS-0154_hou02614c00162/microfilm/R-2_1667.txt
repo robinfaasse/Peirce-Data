@@ -1,0 +1,12 @@
+[pn]2CA[/pn]
+The sum of the numbers of regions and corners exceeds the
+number of boundaries by 2. But if [u]r[/u]₄, [u]r[/u]₅, [u]r[/u]₆, [u]r[/u]₇, etc.
+are the numbers of regions of 4, 5, 6, 7, etc boundaries respectively,
+since each boundary belongs to two regions, the number of
+boundaries is ½(4[del]r[/del][ins][u]r[/u][/ins]₄ + 5[u]r[/u]₅ + 6[u]r[/u]₆ + 7[u]r[/u]₇ + etc). And since three
+regions meet at each corner, the number of corners is
+⅓(4[u]r[/u]₄ + 5[u]r[/u]₅ + 6[u]r[/u]₆ + 7[u]r[/u]₇ + etc), so that we have
+[u]r[/u]₄ + [u]r[/u]₅ + [u]r[/u]₆ + [u]r[/u]₇ + etc - ⅙(4[u]r[/u]₄ + 5[u]r[/u]₅ + 6[u]r[/u]₆ + 7[u]r[/u]₇ + etc) = 2,
+or 2[u]r[/u]₄ + [u]r[/u]₅ - [u]r[/u]₇ - 2[u]r[/u]₈ - 3[u]r[/u]₉ - etc = 12.
+That is the number of regions of four and five boundaries
+each must by themselves be at least 6.

@@ -1,0 +1,33 @@
+[pn]2[/pn]
+
+Thus $(E+u_{x})v_{x} = Ev_{x} + u_{x}v_{x}$
+
+$(E+u_{x})(E+v_{x})w_{x} = (E+u_{x})(w_{x+1} + v_{x}w_{x}) = w_{x+2} + v_{x+1}w_{x+1} + u_{x}w_{x+1} + u_{x}v_{x}w_{x}$
+
+$= (E^{2} + u_{x}E + Ev_{x} + u_{x}v_{x})w_{x}$
+
+We cannot here substitute for $Ev_{x}$, $v_{x+1}$ because the [del]effect of[/del] the $E$ extends to the end of the term; but we have the above
+
+$= E^{2}w_{x} + u_{x}Ew_{x} + Ev_{x}w_{x} + u_{x}v_{x}w_{x}$
+
+$= w_{x+2} + u_{x}w_{x+1} + v_{x+1}w_{x+1} + u_{x}v_{x}w_{x}$.
+
+Although [del]E[/del] $Eu_{x}$ is not equal to $u_{x}E_{x}$, yet $E_{x}u_{y} = u_{y}E_{x}$
+
+Hence,
+$Eu_{x} \cdot Ev_{x} = E_{u}u_{\underline{x}} E_{\underline{v}} v_{\underline{x}} = E_{x}E_{\underline{x}} u_{\underline{x}} v_{\underline{x}} = E u_{x}v_{x}$
+
+But if we want to know what $\frac{A}{E+n}$ is we must resort to the method of indeterminate coefficients. We assume, then, that
+
+$\frac{1}{E+n} = \begin{array}{r} C_{0} + C_{1}E + C_{2}E^{2} + \text{etc} \\ + C_{-1}E^{-1} + C_{-2}E^{-2} + \text{etc} \end{array}$
+
+Then
+$1 = (E+n) \left\{ \begin{array}{r} C_{0} + C_{1}E + C_{2}E^{2} + \text{etc} \\ + C_{-1}E^{-1} + C_{-2}E^{-2} + \text{etc} \end{array} \right\} = \begin{array}{r} [del]C_{0}E + C_{1}E^{2} + C_{2}E^{3} + \text{etc}[/del] \\ [del]+ nC_{0}E + nC_{1}E^{2} + nC_{2}E^{3} + \text{etc}[/del] \\ + C_{-1} + C_{-2}E^{-1} + C_{-3}E^{-2} + \text{etc} \\ + nC_{0} + nC_{-1}E^{-1} + nC_{-2}E^{-2} + \text{etc} \end{array}$
+
+Hence $C_{-1} + nC_{0} = 1$ or $C_{-1} = [del]1 -[/del] nC_{0}$
+$C_{-2} + nC_{-1} = 0$  $C_{-2} = -nC_{-1} = -n + n^{2}C_{0}$
+$C_{-3} + nC_{-2} = 0$  $C_{-3} = -nC_{-2} = -n^{2} - n^{3}C_{0}$
+$C_{0} + nC_{1} = 0$  $C_{1} = -n^{-1}C_{0}$
+$C_{1} + nC_{2} = 0$  $C_{2} = -n^{-1}C_{1} = n^{-2}C_{0}$
+
+In general $C_{+i} = (-n)^{-i}C_{0}$  $C_{-i} = [del]-n^{i}[/del] [ins]+ (-n)^{i}[/ins] C_{0}$

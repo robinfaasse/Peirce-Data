@@ -1,0 +1,50 @@
+$$G^{\Delta} = \sum_{n}^{\infty} \frac{\Delta^{n}}{n!} \quad G^{m\Delta} = \sum_{n}^{\infty} \frac{m^{n}\Delta^{n}}{n!}$$
+
+$$D_{x}f_{x} = \frac{df_{x}}{dx}$$
+
+$$D_{x}^{2}f_{x} = \frac{d \frac{df_{x}}{dx}}{dx} = \frac{d^{2}f_{x}}{(dx)^{2}}$$
+
+[u]Taylor's Theorem.[/u]
+
+$$\Delta f = f(1+\Delta) - f$$
+$$f + \Delta f = f(1+\Delta)$$
+$$(1+\Delta)f = f(1+\Delta)$$
+
+$$(1+\Delta)^{n} = \sum_{m}^{\infty} \frac{n! \Delta^{m}}{(n-m)!m!}$$
+
+$$(1+d)^{n} = 1 + nd$$
+$$(1+d)^{n}f = f(1+nd)$$
+$$nd = h$$
+$$f(1+h) = (\sum_{m}^{\infty} \frac{n^{m}d^{m}}{m!})f = (\sum_{m}^{\infty} \frac{h^{m}D^{m}}{m!})f = G^{hD}f$$
+
+[u]MacLaurin's Theorem.[/u]
+
+If $x=0$
+[del]the[/del] $fh = (\sum_{m}^{\infty} \frac{h^{m}D^{m}}{m!})f_{0} = G^{hD}f_{0}$
+
+$$f_{x} = \sum_{n}^{\infty} \frac{x^{n}D^{n}}{m!}f_{0}$$
+
+---
+
+[fig]Graph showing a curve with a peak and a plateau[/fig]
+
+Maximum $D_{x}f >$ Maximum $\frac{f}{x}$
+
+Minimum $D_{x}f <$ Minimum $\frac{f}{x}$
+
+$$f_{x} = x D_{x} f(\theta x)$$
+
+[u]Compound & Algebraic Functions[/u]
+
+$$d(f, f') = d_{f}(f, f') + d_{f'}(f, f')$$
+
+$$daf = af(1+d) - af = a[f(1+d) - f] = adf$$
+$$Daf = aDf$$
+
+$$d(ff') = d_{f}(f \times f') + d_{f'}(f \times f') = f'df + fdf'$$
+$$D(f \times f') = f'Df + fDf'$$
+
+$$\frac{d(f \times f' \times f'' \text{etc})}{f \times f' \times f'' \text{etc}} = \frac{df}{f} + \frac{df'}{f'} + \frac{df''}{f''} \text{etc}$$
+
+$$d(f^{n}) = n(f)^{n-1}df$$
+$$D(f^{n}) = n(f)^{n-1}Df$$

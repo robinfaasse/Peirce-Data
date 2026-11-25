@@ -1,0 +1,71 @@
+The number of different $n$-ions that can be formed
+of $m$ things, that is sets of $n$ each where the same object
+may enter any number of times, [del]but the order is[/del]
+[ins]and counting those where the things are alike fractionally[/ins]
+indifferent, [del]is[/del] the terms of $5$ being for example
+
+$\frac{1}{6}\text{AAA}$
+$\frac{1}{2}\text{AAB}$
+$\frac{1}{2}\text{AAC}$
+$\frac{1}{2}\text{AAD}$
+$\frac{1}{2}\text{AAE}$
+
+$\frac{1}{2}\text{ABB}$
+$\text{ABC}$
+$\text{ABD}$
+$\text{ABE}$
+
+$\frac{1}{2}\text{ACC}$
+$\text{ACD}$
+$\text{ACE}$
+
+$\frac{1}{2}\text{ADD}$
+$\text{ADE}$
+
+$\frac{1}{2}\text{AEE}$
+
+$\frac{1}{6}\text{BBB}$
+$\frac{1}{2}\text{BBC}$
+$\frac{1}{2}\text{BBD}$
+$\frac{1}{2}\text{BBE}$
+
+$\frac{1}{2}\text{BCC}$
+$\text{BCD}$
+$\text{BCE}$
+
+$\frac{1}{2}\text{BDD}$
+$\text{BDE}$
+
+$\frac{1}{2}\text{BEE}$
+
+$\frac{1}{6}\text{CCC}$
+$\frac{1}{2}\text{CCD}$
+$\frac{1}{2}\text{CCE}$
+
+$\frac{1}{2}\text{CDD}$
+$\text{CDE}$
+
+$\frac{1}{2}\text{CEE}$
+
+$\frac{1}{6}\text{DDD}$
+$\frac{1}{2}\text{DDE}$
+
+$\frac{1}{2}\text{DEE}$
+
+$\frac{1}{6}\text{EEE}$
+
+$\begin{aligned}
+\frac{5}{6} & + \frac{20}{2} \\
+& + 10 \\
+& = 20\frac{5}{6} \\
+& = \frac{125}{6} \\
+& = \frac{125}{3!} \\
+& = \frac{5^3}{3!}
+\end{aligned}$
+
+is evident $\frac{m^n}{n!}$
+
+Thus $\frac{(3+2)^{\underline{3}}}{3!}$
+
+And $\frac{(p+q)^n}{n!} = \frac{p^n}{n!}\frac{q^0}{0!} + \frac{p^{n-1}}{(n-1)!}\frac{q^1}{1!} + \frac{p^{n-2}}{(n-2)!}\frac{q^2}{2!} \dots$
+$= \sum_{i=0}^n \frac{p^i}{i!} \frac{q^{n-i}}{(n-i)!}$

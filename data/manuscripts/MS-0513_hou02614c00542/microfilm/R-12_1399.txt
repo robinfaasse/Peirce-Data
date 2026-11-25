@@ -1,0 +1,35 @@
+For example, suppose
+
+(1) $\Pi_{a}\ \bar{q}_{Pa} + l_{ab} + l_{ac} + l_{ad}$
+(2) $\Pi_{A}\ (q_{QA} + \Upsilon_{AB} \cdot \Upsilon_{AC} \cdot \Upsilon_{AD} \cdot \Upsilon_{AE}) \cdot \Upsilon_{BC} \cdot \Upsilon_{BD} \cdot \Upsilon_{BE} \cdot \Upsilon_{CD} \cdot \Upsilon_{CE} \cdot \Upsilon_{DE}$
+
+We can then prove that $\Sigma_{4}\Sigma_{5}\Sigma_{6}\ q_{P4} \cdot \Upsilon_{E45} \cdot \Upsilon_{E46} \cdot q_{Q5} \cdot q_{Q6} \cdot \Upsilon_{56}$. But
+it is impossible to do so without both the premises just written. That
+is quite evident, since it is only through relations of identity that different
+indices quantified by $\Sigma$ can be identified. The mode of proof is (I give it not
+as a part of the argument but merely to fix ideas) as follows: We raise
+
+$\Pi_{\delta}\Sigma_{\gamma}\ q_{P\gamma} \cdot \Upsilon_{\delta\gamma\delta} + \bar{q}_{Q\delta}$
+
+to the fourth power, distinguishing the indices of the different factors by accents.
+We identify $\delta$ with $B$, $\delta'$ with $C$, $\delta''$ with $D$, $\delta'''$ with $E$. Then because $\Upsilon_{xx} \prec 0$
+
+$\Sigma_{\gamma}\Sigma_{\gamma'}\Sigma_{\gamma''}\Sigma_{\gamma'''}\ q_{P\gamma} \cdot \Upsilon_{\delta\gamma B} \cdot q_{QB} \cdot q_{P\gamma'} \cdot \Upsilon_{\delta\gamma' C} \cdot q_{QC} \cdot q_{P\gamma''} \cdot \Upsilon_{\delta\gamma'' D} \cdot q_{QD} \cdot q_{P\gamma'''} \cdot \Upsilon_{\delta\gamma''' E} \cdot q_{QE}$
+
+We now multiply in the fourth power of (1) identifying $a$ in the different factors with $\gamma, \gamma', \gamma'', \gamma'''$.
+This will have the effect of multiplying the Boolean of the last formula by
+
+$(l_{\gamma b} + l_{\gamma c} + l_{\gamma d}) \cdot (l_{\gamma' b} + l_{\gamma' c} + l_{\gamma' d}) \cdot (l_{\gamma'' b} + l_{\gamma'' c} + l_{\gamma'' d}) \cdot (l_{\gamma''' b} + l_{\gamma''' c} + l_{\gamma''' d})$
+
+By the definition of identity $l_{\gamma b} \prec \Pi_{\delta}\ \bar{q}_{\gamma\delta} + q_{\gamma b}$. Identifying $\delta$ with
+$(q_{P}^{\bullet} \cdot \Upsilon_{\delta S})$ we get $\bar{q}_{P\gamma} + \bar{\Upsilon}_{\delta\gamma B} + q_{Pb} \cdot \Upsilon_{\delta b B}$. Multiplying in such terms we get
+
+$(q_{Pb} \cdot \Upsilon_{\delta b B} + q_{Pc} \cdot \Upsilon_{\delta c B} + q_{Pd} \cdot \Upsilon_{\delta d B}) \cdot q_{QB}$
+$\cdot (q_{Pb} \cdot \Upsilon_{\delta b C} + q_{Pc} \cdot \Upsilon_{\delta c C} + q_{Pd} \cdot \Upsilon_{\delta d C}) \cdot q_{QC}$
+$\cdot (q_{Pb} \cdot \Upsilon_{\delta b D} + q_{Pc} \cdot \Upsilon_{\delta c D} + q_{Pd} \cdot \Upsilon_{\delta d D}) \cdot q_{QD}$
+$\cdot (q_{Pb} \cdot \Upsilon_{\delta b E} + q_{Pc} \cdot \Upsilon_{\delta c E} + q_{Pd} \cdot \Upsilon_{\delta d E}) \cdot q_{QE}$
+
+This developed gives 81 aggregants from each of which the proposition to be
+proved $\Sigma_{4}\Sigma_{5}\Sigma_{6}\ q_{P4} \cdot \Upsilon_{E45} \cdot \Upsilon_{E46} \cdot q_{Q5} \cdot q_{Q6} \cdot \Upsilon_{56}$ on multiplying in $\Upsilon_{BC}$ etc from (2).
+But these same premises which are required to prove this also prove
+$\Sigma_{i}\Pi_{j}\ \bar{q}_{Pi} + \Upsilon_{ij} \cdot q_{Qj}$, and that at the very same time.

@@ -1,0 +1,17 @@
+[u]Art.[/u] . [u]Theorem[/u] . [u]A perpendicular from the right angle[/u] [del]of a[/del] [ins]done[/ins] [u]triangle upon the hypothenense divides the triangle into[/u] [u]parts similar to the whole.[/u]
+
+[u]Demonstration[/u]. Let the $\Delta\text{ABC}$ be rightangled at $[C]$ and let $[H]$ be such a point of $\{AB\}$ that $\angle\text{AHC} = \frac{1}{2}\mathbb{O}$. Then, I say, that $\Delta\text{AHC}$ is similar to $\Delta\text{ACB}$.
+
+[fig]Right triangle ABC with altitude CH[/fig] For one angle of each triangle is a right angle, [ins]and[/ins] a second is common to the triangles. Now, the sum of the [ins]three[/ins] angles is the same. Hence, the third angles are also equal. Hence, by Theorem the triangles are similar Q.E.D.
+
+[u]Corollary[/u] . Hence, by [del]Definition[/del]
+$$\frac{|AH|}{|AC|} = \frac{|AC|}{|AB|} \text{ , or } |AH| = \frac{|AC|^2}{|AB|}$$
+and
+$$\frac{|BH|}{|BC|} = \frac{|BC|}{|AB|} \text{ , or } |BH| = \frac{|BC|^2}{|AB|}$$
+Hence
+$$|AH| + |BH| = |AB| = \frac{|AC|^2 + |BC|^2}{|AB|}$$
+or
+$$|AB|^2 = |AC|^2 + |BC|^2$$
+That is, [u]the square of the hypothenense of a right triangle[/u] [u]equals the sum of the squares of the legs.[/u]
+
+[u]Scholium[/u] . This is the same as the famous Pythagorean Proposition, except that that speaks of geometrical, not arithmetical squares.

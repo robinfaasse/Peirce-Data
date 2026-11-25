@@ -1,0 +1,38 @@
+```
+A  B  C  D  E
+[del]A  B  C  D  E[/del]  [del]b B + b C + a D[/del]
+0  A  B  C  a A + b B + c C
+
+0 + B  0 + B  0 + C
+A + C  [del]a A + b B + c C[/del]  a A + b B + c C
+
+0 + C  A + C
+[del]a A + (a+b) B + c C[/del]  a A + (1-b) B + c C
+[del]1-y[/del]
+[del]+ y[/del]
+
+x 0 + x B
+[del]x 0 + (1-x) A + x B + (1-x) C[/del]
+x A + (1-x) B + [del]x[/del] C =
+y (1-a) A + [del]1-y[/del] [ins]b y[/ins] B + c y C = 0
+y (1-a) = x
+
+---
+
+A  B  C  D  E
+
+A + C  A + C  A + D  A + D  B + D
+B + D  B + E  B + E  C + E  C + E
+
+x A + x C + (1-x) B + (1-x) D =
+y A + y C + (1-y) B + (1-y) E
+
+C  d
+
+(1-y) (A + C - B) = [del]2[/del] [ins]y[/ins] - y E
+
+u A + u C + (1-u) B + (1-u) D =
+v A + (1-v) B + v D + (1-v) E
+
+(u-v) (A-B) + u C
+```

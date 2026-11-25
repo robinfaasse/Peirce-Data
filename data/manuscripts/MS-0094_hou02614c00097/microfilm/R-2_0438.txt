@@ -1,0 +1,23 @@
+[pn]60[/pn] PLANE GEOMETRY. [CH. XII. § 204.
+
+The Circle is a regular Polygon of an infinite number of Sides.
+
+Proof. Through $C$ the middle of the chord $AB$ draw the radius $DO$. Complete the rectangle $DEAC$, by § 147; and, as the side $DE$ is perpendicular to $OD$, it is a tangent to the circle.
+
+[marginalia]why[/marginalia] The arc $AD$ is, then, less than the sum of the including lines $AE + DE = AC + DC$; and
+$$2\ AD < 2\ AC + 2\ DC,$$
+or
+$$\text{the arc } AB < \text{the chord } AB + 2\ DC;$$
+or
+$$\text{the arc } AB - \text{the chord } AB < 2\ DC,$$
+that is, the difference between the arc $AB$ and its chord is less than $2\ DC$.
+
+But, by § 186,
+$$CF : AC = AC : CD = 2\ AC : 2\ CD$$
+$$= \text{the chord } AB : 2\ CD;$$
+
+[marginalia]why[/marginalia] that is, $2\ CD$ has the same ratio to the chord $AB$, which the infinitely small line $AC$ has to $CF$; so that $2\ CD$ is infinitely small in comparison with the chord $AB$. And, as the difference between the chord and the arc is smaller than $2\ CD$, it must likewise be infinitely small in comparison with either the chord or the arc, and may, by § 99, be neglected. The arc $AB$ is, therefore, equal to the chord $AB$, and must, by § 18 and 16, coincide with it.
+
+204. Theorem. The circle is a regular polygon of an infinite number of sides.
+
+Proof. Suppose the circumference $ABCD$ &c. (fig. 114) divided into the infinitely small and equal arcs $AB$, $BC$, $CD$, &c. The polygon formed by the chords of these arcs is, by § 202, a regular polygon of an infinite number of sides; but since, by the preceding theorem,

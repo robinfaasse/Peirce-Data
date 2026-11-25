@@ -1,0 +1,28 @@
+[pn]Logic
+III
+172[/pn]
+
+[marginalia][del]inary[/del][/marginalia]
+
+By the Theory of equations, [u]g[/u] being an imaginary cube root,
+[u]g[/u]⁰ + [u]g[/u]¹ + [u]g[/u]² = 0
+[u]g[/u]⁰ [u]g[/u]¹ [u]g[/u]² = [u]g[/u]³ = [u]g[/u]⁰
+
+We have,
+⅓([u]g[/u]⁰[u]l[/u] + [u]g[/u]¹[u]m[/u] + [u]g[/u]²[u]n[/u]) x ⅓([u]g[/u]¹[u]l[/u] + [u]g[/u]²[u]m[/u] + [u]g[/u]⁰[u]n[/u]) = ⅑[([u]g[/u]⁰ + [u]g[/u]¹ + [u]g[/u]²)[u]l[/u]² + ([u]g[/u]¹ + [u]g[/u]² + [u]g[/u]⁰)[u]m[/u]² + ([u]g[/u]² + [u]g[/u]⁰ + [u]g[/u]¹)[u]n[/u]²] = 0
+⅓([u]l[/u] + [u]m[/u] + [u]n[/u]) x ⅓([u]g[/u]¹[u]l[/u] + [u]g[/u]²[u]m[/u] + [u]g[/u]⁰[u]n[/u]) = ⅑[([u]g[/u]⁰ + [u]g[/u]¹ + [u]g[/u]²)[u]l[/u]² + ([u]g[/u]¹ + [u]g[/u]² + [u]g[/u]⁰)[u]m[/u]² + ([u]g[/u]² + [u]g[/u]⁰ + [u]g[/u]¹)[u]n[/u]²] = 0
+⅓([u]g[/u]⁰[u]l[/u] + [u]g[/u]¹[u]m[/u] + [u]g[/u]²[u]n[/u]) x ⅓([u]l[/u] + [u]m[/u] + [u]n[/u]) = ⅑[([u]g[/u]⁰ + [u]g[/u]¹ + [u]g[/u]²)[u]l[/u]² + ([u]g[/u]¹ + [u]g[/u]² + [u]g[/u]⁰)[u]m[/u]² + ([u]g[/u]² + [u]g[/u]⁰ + [u]g[/u]¹)[u]n[/u]²] = 0
+
+it follows that if we put
+
+[u]r[/u] = ⅓([u]l[/u] + [u]m[/u] + [u]n[/u])
+[u]s[/u] = ⅓([u]g[/u]⁰[u]l[/u] + [u]g[/u]¹[u]m[/u] + [u]g[/u]²[u]n[/u])
+[u]t[/u] = ⅓([u]g[/u]¹[u]l[/u] + [u]g[/u]²[u]m[/u] + [u]g[/u]⁰[u]n[/u])
+
+so that
+
+[u]l[/u] = [u]r[/u] + [u]s[/u] + [u]t[/u]
+[u]m[/u] = [u]r[/u] + [u]g[/u]²[u]s[/u] + [u]g[/u]¹[u]t[/u]
+[u]n[/u] = [u]r[/u] + [u]g[/u]¹[u]s[/u] + [u]g[/u]²[u]t[/u]
+
+then we get the following simple multiplication-Table:

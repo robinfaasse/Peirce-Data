@@ -1,0 +1,25 @@
+REPORT of [u]                                                                                                    [/u] Inspector on [u]                                                                 [/u] Steam Boiler used by [u]                                                                                                                                                                                          [/u]
+at [u]                                                                                                    [/u] inspected [u]                                                                 [/u] 189
+
+Three point problem. (Also called Pothenot's problem.)
+A problem often occurring in topographical work, and
+occasionally in geodesy. Having given
+three points, A, B, C, it is required
+to determine the position of an observing
+station, P, knowing only the angles
+[fig]Triangle ABC with interior point P and angles theta, phi, alpha, beta[/fig] [ins]$\alpha$[/ins] and $\beta$ and the sides and angles
+of the triangle ABC. The
+geometric solution is very simple.
+On the side b as a chord draw a circle
+containing the angle $\beta$, and on the side a as a chord draw a
+circle containing the angle $\alpha$. The intersection of these circles
+will be the is the point sought. The trigonometric solution
+is as follows:
+$\theta + \varphi$ [del]$\theta + \theta$[/del] $= 360^\circ - (\alpha + \beta + C)$ (1)
+$\overline{CP} \sin \alpha = a \sin \theta$ and $\overline{CP} \sin \beta = b \sin \varphi$
+hence $\frac{\sin \varphi}{\sin \theta} = \frac{a}{b} \cdot \frac{\sin \beta}{\sin \alpha} = \tan \gamma$ (suppose)
+and [del]$\frac{\sin \varphi + \sin \theta}{\sin \varphi - \sin \theta}$[/del] $\frac{\sin \theta + \sin \varphi}{\sin \theta - \sin \varphi} = \frac{1 + \tan \gamma}{1 - \tan \gamma} = \tan (\gamma + 45^\circ)$
+
+Hence $\cot \frac{\theta - \varphi}{2} = \tan (\gamma + 45^\circ) \cdot \cot \frac{\theta + \varphi}{2}$ (2)
+From (1) and (2) we can find $\theta$ and $\varphi$, and then
+$\overline{CP} = \frac{a \sin \theta}{\sin \alpha} = \frac{b \sin \varphi}{\sin \beta}$ (3)

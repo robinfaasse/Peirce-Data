@@ -1,0 +1,28 @@
+Let $\mu$ and $\nu$ be two characters, qualities, or collections. Then
+to say that $\mu$ is (at least) as small as $\nu$ we may write, $S_{\mu\nu}$ and
+we shall have
+
+[del][fig]crossed out symbols[/fig][/del]
+(3) $\Pi_{\mu}\Pi_{\nu}\Sigma_{\alpha}\Pi_{i}\Sigma_{j}\ \ \overline{S}_{\mu\nu} + \Upsilon_{\alpha} \cdot \left( \overline{q}_{\mu i} + \gamma_{\alpha i j} \cdot q_{\nu j} \right)$
+(4) $\Pi_{\mu}\Pi_{\nu}\Pi_{\alpha}\Sigma_{i}\Pi_{j}\ \ S_{\mu\nu} + \overline{\Upsilon}_{\alpha} + q_{\mu i} \cdot \left( \overline{\gamma}_{\alpha i j} + \overline{q}_{\nu j} \right)$
+
+I now undertake to prove
+(5) $\Pi_{\mu}\Pi_{\nu}\ \ \overline{S}_{\mu\nu} + S_{\nu\mu}$ .
+
+The only way we can reach this conclusion is manifestly
+by introducing (4) twice the $\mu$ and $\nu$ being exchanged in the
+two occurrences. Then, substituting for $\Upsilon$ its definition, the
+premise will be
+(6) $\Pi_{\mu}\Pi_{\nu}\Pi_{\alpha}\Sigma_{i}\Sigma_{j}\Sigma_{k}\Sigma_{\beta}\Pi_{\alpha'}\Sigma_{i'}\Sigma_{j'}\Sigma_{k'}\Sigma_{\beta'}\Sigma_{u}\Sigma_{u'}\Pi_{o}\Pi_{o'}$
+$\left[ S_{\mu\nu} + \gamma_{\alpha i k} \cdot \gamma_{\alpha j k} \cdot \gamma_{\beta i j} \cdot \overline{\gamma}_{\beta j i} + q_{\mu u} \cdot \left( \overline{\gamma}_{\alpha u o} + \overline{q}_{\nu o} \right) \right] \cdot$
+$\left[ S_{\nu\mu} + \gamma_{\alpha' i' k'} \cdot \gamma_{\alpha' j' k'} \cdot \gamma_{\beta' i' j'} \cdot \overline{\gamma}_{\beta' j' i'} + q_{\nu u'} \cdot \left( \overline{\gamma}_{\alpha' u' o'} + \overline{q}_{\mu o'} \right) \right]$
+
+That (6) cannot reduce to (5) is evident when we examine the last
+[del]and[/del] $\Sigma$s followed by only two $\Pi$s and see that the two indices of these
+two quantifiers are nowhere indices of the same letter. Hence, it is evident
+that if (5) can be demonstrated at all, it must be by the help of some
+other premise. As a first such premise, I write (7):
+(7) $\Pi_{\mu}\Pi_{\nu}\Sigma_{y}\Pi_{x}\Pi_{y}\ \ \overline{q}_{\mu x} + \overline{q}_{\nu y} + \gamma_{x y y}$ .
+
+I now assume a premise about the universe of classes of
+lations, or descriptions of relations. Let [del]$\aleph$ (aleph)[/del] [ins]and $\beth$ (beth)[/ins] [del]be an indi-[/del]

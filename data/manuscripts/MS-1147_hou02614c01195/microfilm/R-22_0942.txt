@@ -1,0 +1,31 @@
+$$\frac{1}{2}\frac{1}{ab} + \frac{1}{2}\frac{1}{bc} + \frac{1}{2}\frac{1}{ca} + \frac{2}{\frac{1}{a}+\frac{1}{b}} + \frac{2}{\frac{1}{a}+\frac{1}{c}} + \frac{2}{\frac{1}{b}+\frac{1}{c}} - \frac{1}{\frac{1}{a}+\frac{1}{b}+\frac{1}{c}}$$
+
+$$\frac{1}{2} (\frac{1}{a} + \frac{1}{b}) (\frac{1}{b} + \frac{1}{c}) = \frac{1}{ab} + \frac{1}{ac} + \frac{1}{b^2} + \frac{1}{bc}$$
+
+$$(\frac{1}{a} + \frac{1}{b}) (\frac{1}{a} + \frac{1}{c}) = [del]\frac{1}{a^2} + \frac{1}{ab} + \frac{1}{ac}[/del] + \frac{1}{bc} \qquad \frac{1}{a^2}$$
+$$(\qquad) (\qquad) = \frac{1}{ab} + \frac{1}{ac} + \frac{1}{bc} \qquad + b^2$$
+
+$$6\frac{1}{ab} + 6\frac{1}{ac} + 6\frac{1}{bc} + \frac{2}{a^2} + \frac{2}{b^2} + \frac{2}{c^2}$$
+
+$$\frac{\frac{1}{a} + \frac{1}{b} + \frac{1}{c}}{\qquad}$$
+
+$$(\frac{1}{a} + \frac{1}{b}) (\frac{1}{a} + \frac{1}{c}) = \frac{1}{a^2} + \frac{1}{ab} + \frac{1}{ac} + \frac{1}{bc}$$
+$$\frac{1}{b} + \frac{1}{c}$$
+
+$$\frac{1}{2} + (\frac{1}{a} + \frac{1}{b}) (\frac{1}{a} + \frac{1}{c}) (\frac{1}{b} + \frac{1}{c}) = \frac{1}{a^2b} + \frac{1}{ab^2} + 2\frac{1}{abc} + \frac{1}{b^2c} + \frac{1}{a^2c} + \frac{1}{ac^2} + \frac{1}{bc^2}$$
+
+$$\underline{\frac{ab}{a+b} \cdot \frac{ac}{a+c} \cdot \frac{bc}{b+c} = \frac{a^2b^2c^2}{a^2b + a^2c + ab^2 + ac^2 + 2abc + b^2c + bc^2}}$$
+
+$$\frac{a^2 + ab + ac + bc}{b+c}$$
+$$\frac{\qquad}{a^2b + a^2c + ab^2 + ac^2 + b^2c + bc^2 + 2abc}$$
+
+$$\underline{ab(a+c)(b+c)} = ab(ab+ac+bc+c^2) = a^2b^2 + a^2bc + ab^2c + abc^2$$
+$$[del]ac(a+b)(b+c)[/del] \qquad\qquad\qquad\qquad\qquad = a^2b^2 + a^2bc + ab^2c + abc^2$$
+$$bc(a+b)(a+c) \qquad\qquad\qquad\qquad\qquad = b^2c^2 + ab^2c + ab^2c + abc^2$$
+
+$$(a+b)(a+c)(b+c) = a^2b + ab^2 + a^2c + ac^2 + b^2c + bc^2$$
+$$\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad + 2a^2b^2 + 2a^2c^2 + 2b^2c^2$$
+$$a^3b + a^3c + a^2b^2 + a^2c^2 + ab^2c + abc^2 + 2a^2bc \quad + 4a^2b^2 + 4a^2c^2 + 4ab^2c + 4abc^2$$
+$$\quad + ac^3 + a^2b^2 + a^2c^2 + 2abc^2 + abc^2 + a^2bc$$
+$$+ ab^3 + b^3c + bc^3 \qquad + b^2c^2 + ab^2c + 2abc^2 + a^2bc$$
+$$\qquad\qquad\qquad\qquad + b^2c^2$$

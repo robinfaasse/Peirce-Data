@@ -1,0 +1,23 @@
+[date]Oct 6.[/date]
+
+[u]Example of an application of the forms [pn]e^x[/pn].[/u]
+
+How many colours are required to paint a map?
+
+Let a, b, c, d &c be the countries
+
+Let e be like in colour
+
+Then since there is but one a &c
+[pn](1-e)^a = 1-e^a[/pn]
+[pn](1-e)^b = 1-e^b[/pn] &c
+
+Also [pn]e^l e^x = e^x[/pn] [pn]e_l^x = e^x[/pn] [fig]curly bracket enclosing three lines of equations[/fig] [pn]e^{(1-e)^x} (1 - (1-e)^x) = 0[/pn]
+or [pn]e^{(1-e)^x} e^x = 0[/pn]
+for [pn](1-e)^x + e^x = 1[/pn]
+
+Also since the earth has no hole in it
+if [pn]e_l^a e_l^b = 0[/pn] [pn]e_l^a e_l^c e_l^d e_l^b = 0[/pn] then [pn]e_l^b e_l^d = 0[/pn]
+[pn]e_l^c e_l^b = 0[/pn] [pn]e_l^c e_l^d e_l^a = 0[/pn] are equations given
+[pn]e_l^a e_l^b[/pn] and no others of the form
+[pn]e_l^a e_l^b + e_l^b e_l^c = 0[/pn] are given.

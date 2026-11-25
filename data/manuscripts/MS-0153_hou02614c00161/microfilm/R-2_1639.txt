@@ -1,0 +1,23 @@
+[pn]4 Colors[/pn] [pn]13[/pn]
+
+region can receive alternately the two values +1 and -1.
+
+I begin by proving that if [del]this[/del] [ins]then[/ins] is true for all such maps
+of less than N regions, [del]for[/del] whatever number N may be, it is also
+true of any map of N regions. Namely, taking any map of
+N regions, [del]selecting[/del] [ins]and[/ins] [ins]arbitrarily[/ins] selecting [del]to[/del] a given region [ins]of it[/ins] and two adjacent corners
+of that region, let us erase the boundary between them. We
+now have a map of less than N regions. We select the new
+region and two corners not within the region first selected,
+and we assign values to the [del]same[/del] corners of the map so
+that those within the region first selected shall alternate.
+
+[fig]Circular map with concentric rings and radial divisions[/fig] [fig]Circular map with concentric rings and radial divisions[/fig] [fig]U-shaped map with divisions[/fig]
+
+[fig]Small sketch of lines[/fig]
+
+[fig]Circular map with regions labeled A, B, C, D[/fig] [fig]Circular map with regions labeled A, B, C, D[/fig] [fig]U-shaped map with divisions[/fig]
+
+[fig]Small sketch of lines[/fig]
+
+[fig]Circular map with inner lobes[/fig] [fig]Circular map with inner lobes[/fig] [fig]Circular map with inner lobes[/fig]

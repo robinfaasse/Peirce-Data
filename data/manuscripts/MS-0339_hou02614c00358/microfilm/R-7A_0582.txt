@@ -1,0 +1,49 @@
+[pn]319r[/pn]
+
+[date]1908 Sept 6[/date]
+
+I consider the graph
+
+[fig]Graph with two loops labeled "wife of fails" and "suicides"[/fig] # $\Sigma_{i}\Sigma_{j}\ w_{ji} \cdot (\bar{f}_{i} + s_{i})$
+
+$A = $ There is a married pair and if the husband fails the wife suicides
+[del]$B = $ There is a married pair and if every man fails some married woman suicides[/del]
+
+$\Sigma_{m}\Sigma_{n}\ \Sigma_{p}\Sigma_{q}\ w_{nm} f_{m} + w_{qp} \cdot s_{p}$
+
+Let $w$ be a state of things and $f_{w}$ means $a$ fails in state of things $w$
+
+[del]$A = \Pi_{w} \Sigma_{i}\Sigma_{j} w_{ji} \bar{f}_{wi} + w_{ji} s_{wi}$[/del]
+$A = \Pi_{w} \Sigma_{i}\Sigma_{j} w_{ji} (\bar{f}_{wi} + s_{wi})$
+
+[del]$B = \Pi_{w} \Sigma_{i}\Sigma_{j} w_{ji} (\bar{f}_{wi} + s_{wi})$[/del]
+$B = \Pi_{w} \Sigma_{i} w_{ji} (\bar{f}_{wi} + s_{wi})$
+
+Let $h_{uv}$ mean $u$ and $v$ live in the same house
+$c_{tu}$ means that on $u$ comes home on day $t$
+$e_{tu}$ means $u$ eats dinner on day $t$
+
+[del]$\Pi_{t} \Sigma_{u}\Sigma_{v} h_{uv} \cdot (\bar{c}_{tu} + e_{tv})$[/del]
+
+[marginalia]Corrected
+[date]1909 Jan 7[/date][/marginalia] [del]There is somebody who has on every day of his life, either he eats dinner or on every day he comes home or is on such terms with another person that on every day on which he comes home the other eats dinner[/del]
+
+$\Pi_{t} \Sigma_{u}\Sigma_{v}\ h_{uv} \cdot (\bar{c}_{tu} + e_{tv})$
+
+[del]On every day there is some person living in a house with somebody, such that on that day either the former does not come home or the latter eats dinner[/del]
+
+[marginalia]what is
+the logical
+relation?[/marginalia] [del]or on everyday everybody comes home somebody in the same house eats dinner[/del]
+
+On every day somebody [del]who is living alone[/del] eats dinner unless there be somebody living in the same house who does not come home
+
+$\Sigma_{u}\Pi_{t}\Sigma_{v}\ h_{uv} \cdot (\bar{c}_{tu} + e_{tv})$
+
+There is some person [del]living in a house[/del] of whom it is true that on every day on which he comes home somebody living in the house with him eats dinner
+
+Every day there is somebody [ins]who[/ins] does not come home unless [del]somebody living in the same house[/del] [ins]some[/ins] [del]eats[/del] [ins]body[/ins] [del]dinner[/del]
+
+Some person is on such terms with some person, (himself or another) [del]that on every day on which[/del] the former comes home the latter eats dinner
+
+See [date]1909 Jan 7[/date]

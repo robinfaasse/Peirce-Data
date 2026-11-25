@@ -1,0 +1,47 @@
+If $C = \frac{1}{2}$, the plane passes
+through the centre of the sphere
+
+An elementary arc on the surface
+of the sphere
+$$ds = \sqrt{dX^2 + dY^2 + dZ^2}$$
+$$= \frac{\sqrt{[(1-Z)^2 + X^2] dX^2 + 2XY dX dY + [(1-Z)^2 + Y^2] dY^2}}{1-Z}$$
+
+That the angles are preserved
+is evident from this: that the
+tangent plane to the sphere is
+as much inclined to the
+radius of projection as is the
+plane of the map.
+
+In the case of the polar
+projection it is plain that
+$$\frac{\sqrt{X^2 + Y^2}}{2} = \tan (45^\circ - \frac{\varphi}{2})$$
+where $\varphi = \text{latitude}$.
+
+***
+
+[pn]52[/pn]. The Skew [del]projection[/del]
+
+We transpose to another
+pole [del]point[/del] on the sphere, distant
+[fig]Spherical triangle with vertices A, B, C and sides a, b, c[/fig] we will say by
+an angle $a$ from
+the [del]a[/del] [ins]first[/ins]. The first
+pole we call $B$ the
+second $C$.
+
+Then the $\text{latitude} = 90^\circ - c$
+$\text{longitude} = 180^\circ - B$
+reckoning longitude from the
+line of junction of the poles.
+
+We might solve spherical triangle
+given $B = 180^\circ - \omega$
+$a$
+$c = 90^\circ - \varphi$
+to find $C$ and $c$.
+
+We have two sides and included
+angle & could apply formulae of
+spherical trigonometry
+Namely,

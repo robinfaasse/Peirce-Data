@@ -1,0 +1,92 @@
+209r
+1902 Jan 31
+
+I record here the "tedious" proof of the distributive principle
+which I omitted Am. J. Math. [u]III[/u]. 33, and which requires
+a premiss I [del]failed to lay down[/del] [ins]omitted[/ins]
+[del]a·b ⤙ c[/del]
+[del]a ⤙ c[/del]
+[u]b ⤙ c[/u]
+a·c ⤙ c
+b·c ⤙ c
+∴ a·c + b·c ⤙ c
+a·c ⤙ a ⤙ a + b
+b·c ⤙ b ⤙ a + b
+a·c + b·c ⤙ a + b
+∴ a·c + b·c ⤙ (a + b)·c
+
+Now if (a + b)·c ⤙ a·c + b·c
+then there must be something m such that
+m ⤙ (a + b)·c
+and m ⤙ [u]a·c + b·c[/u]
+From the first it follows that
+m ⤙ a + b
+m ⤙ c
+From the second
+a + b·c ⤙ [u]m[/u]
+whence a ⤙ [u]m[/u] i.e. m ⤙ [u]a[/u]
+b·c ⤙ [u]m[/u]
+i.e. m ⤙ [u]b·c[/u]
+whence either m ⤙ [u]b[/u] which is contrary to above
+[ins]unless, indeed, m = 0 when m ⤙ b m ⤙ b·c[/ins] or (what we are forced to)
+m ⤙ b
+Now if m ⤙ [del]b[/del] there must be something, l, such that
+l ⤙ m l ⤙ [del]b[/del] i.e. b ⤙ [u]l[/u]
+whence since m ⤙ [u]a[/u] l ⤙ [u]a[/u] i.e. a ⤙ [u]l[/u]
+∴ a + b ⤙ [u]l[/u] [del]i.e. l ⤙ a+b[/del]
+[ins]l ⤙ a + b[/ins]
+But since l ⤙ m and m ⤙ a + b
+Thus the idea that (a + b)·c ⤙ a·c + b·c is reduced to absurdity.
+
+(p ⤙ q) ⤙ [del]Σ[/del] [ins]Π[/ins]ₘ (m ⤙ p) · (m ⤙ q̄)
+[fig]figure[/fig]
+This doesn't follow
+But what follows is Πₘ {(m ⤙ p) + (m ⤙ q̄)} ⤙ (p ⤙ q)
+Πₘ {[del]m[/del] [ins]m ⤙[/ins] p] + m ⤙ q̄ }
+
+[del]Nothing[/del]
+Either from anything x
+x ⤙ q
+or there is something m
+[u]m ⤙ q̄[/u]
+m ≠ 0
+
+The principle is that if
+[u]p ⤙ q[/u]
+there must be something m
+such that m ⤙ p
+m ⤙ q̄
+m ≠ 0
+That is if
+(p ⤙ q) ⤙ x
+then there is something m
+such that m ⤙ p
+m ⤙ (q ⤙ x)
+That is if whatever be z
+(z ⤙ p) ⤙ u
+or (z ⤙ q ⤙ y) ⤙ v
+then p ⤙ q
+
+The principle is that if
+whatever m may be
+[del]such that[/del] m ⤙ [del]a + b[/del] p
+And if p ⤙ q
+[fig]figure[/fig]
+For
+p ⤙ q
+is true if
+whatever class [del]l[/del] [ins]is[/ins] [del]term[/del]
+m you take such that
+m ⤙ p
+m ≠ 0
+m ⤙ q̄
+and if m ≠ 0
+[u]m ⤙ q̄[/u]
+For if m ⤙ q
+m ⤙ (q ⤙ x)
+then m ⤙ x
+
+[ins]We have then (a + b)·c ⤙ a·c + b·c
+whence c·(a + b) ⤙ (b + a)·c ⤙ b·c + a·c ⤙ a·c + b·c
+and (a + b)·c ⤙ c·(a + b) ⤙ c·a + c·b ⤙ a·c + b·c
+and since we found a·c + b·c ⤙ (a + b)·c we have (a + b)·c = a·c + b·c[/ins]

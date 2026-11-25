@@ -1,0 +1,85 @@
+Icosahedron Reversals about mideges
+checked as to square
+
+[marginalia]
+AB
+CD
+1.32.45
+[/marginalia]
+$\left| \begin{matrix} -1 & 0 & 0 \\ 0 & -1 & 0 \\ 0 & 0 & 1 \end{matrix} \right|$
+[marginalia]
+$\frac{\text{EF}}{\text{GH}}$
+1.24.35
+[/marginalia]
+$\left| \begin{matrix} 1 & 0 & 0 \\ 0 & -1 & 0 \\ 0 & 0 & -1 \end{matrix} \right|$
+[marginalia]
+IJ
+1.25.34
+[/marginalia]
+$\left| \begin{matrix} -1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & -1 \end{matrix} \right|$
+
+[marginalia]
+AE
+DH
+4.15.23
+[/marginalia]
+$-\frac{1}{2} \left| \begin{matrix} e & 1 & -\frac{1}{e} \\ 1 & -\frac{1}{e} & e \\ \frac{1}{e} & e & -1 \end{matrix} \right|$
+[marginalia]
+AF
+DC
+3.12.45
+[/marginalia]
+$-\frac{1}{2} \left| \begin{matrix} e & -1 & \frac{1}{e} \\ -1 & -\frac{1}{e} & -e \\ \frac{1}{e} & -e & -1 \end{matrix} \right|$
+
+[marginalia]
+BG
+CF
+2.13.45
+[/marginalia]
+$-\frac{1}{2} \left| \begin{matrix} e & -1 & -\frac{1}{e} \\ -1 & -\frac{1}{e} & e \\ \frac{1}{e} & +e & -1 \end{matrix} \right|$
+[marginalia]
+BH
+CE
+5.14.23
+[/marginalia]
+$-\frac{1}{2} \left| \begin{matrix} e & 1 & -\frac{1}{e} \\ 1 & -\frac{1}{e} & -e \\ -\frac{1}{e} & -e & -1 \end{matrix} \right|$
+
+[marginalia]
+EI
+HL
+2.14.35
+[/marginalia]
+$-\frac{1}{2} \left| \begin{matrix} 1 & -\frac{1}{e} & e \\ -\frac{1}{e} & e & 1 \\ e & 1 & -\frac{1}{e} \end{matrix} \right|$
+[marginalia]
+EJ
+[del]HK[/del]
+3.15.24
+[/marginalia]
+$-\frac{1}{2} \left| \begin{matrix} 1 & \frac{1}{e} & -e \\ \frac{1}{e} & e & -1 \\ -e & -1 & -\frac{1}{e} \end{matrix} \right|$
+
+[marginalia]
+FK
+GJ
+5.13.24
+[/marginalia]
+$-\frac{1}{2} \left| \begin{matrix} -1 & -\frac{1}{e} & e \\ -\frac{1}{e} & e & -1 \\ e & -1 & -\frac{1}{e} \end{matrix} \right|$
+[marginalia]
+FL
+GI
+4.12.35
+[/marginalia]
+$-\frac{1}{2} \left| \begin{matrix} 1 & -\frac{1}{e} & -e \\ -\frac{1}{e} & e & 1 \\ -e & 1 & -\frac{1}{e} \end{matrix} \right|$
+
+[marginalia]
+[del]IA[/del]
+5.12.34
+[/marginalia]
+$-\frac{1}{2} \left| \begin{matrix} -\frac{1}{e} & e & 1 \\ e & -1 & -\frac{1}{e} \\ 1 & \frac{1}{e} & e \end{matrix} \right|$
+[marginalia]
+IB
+LE
+3.14.25
+[/marginalia]
+$-\frac{1}{2} \left| \begin{matrix} -\frac{1}{e} & -e & -1 \\ -e & -1 & +\frac{1}{e} \\ -1 & +\frac{1}{e} & e \end{matrix} \right|$
+
+[fig]Lines connecting various matrices and marginalia to indicate relationships or corrections.[/fig]

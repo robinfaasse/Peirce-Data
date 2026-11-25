@@ -1,0 +1,13 @@
+[pn]86[/pn]
+
+For [u]L[/u]+0 is, by Corollary 11, [del]equal to [u]L[/u];[/del] [ins]the number [u]L[/u];[/ins] so that ([u]L[/u]+0)+[u]N[/u] [del]=[u]L[/u]+[u]N[/u][/del] [ins]is the number [u]L[/u]+[u]N[/u];[/ins] and 0+[u]N[/u] is, by Theorem 12, the number [u]N[/u]; so that [u]L[/u]+(0+[u]N[/u]) is the number [u]L[/u]+[u]N[/u]. Thus, [del]the number next higher than [u]L[/u]+[u]N[/u]. Hence, by Corollary 2, ([u]L[/u]+[u]N[/u])+[u]N[/u] = [u]L[/u]+([u]L[/u]+[u]N[/u])[/del] [ins]([u]L[/u]+0)+[u]N[/u] = [u]L[/u]+(0+[u]N[/u])[/ins], [del]which proves the first part.[/del] [ins]are equal[/ins] [del]for[/del] [ins]since[/ins] both members [del]are[/del] [ins]is[/ins] [del]next higher than [u]L[/u]+[u]N[/u].[/del] Thus, the first part is proved.
+
+Second, suppose the proposition to be true when [u]M[/u] has the particular value [u]P[/u], then I say that it is true if [u]M[/u] has the next higher value, [u]P'[/u]. That is, if ([u]L[/u]+[u]P[/u])+[u]N[/u] = [u]L[/u]+([u]P[/u]+[u]N[/u]), then ([u]L[/u]+[u]P'[/u])+[u]N[/u] = [u]L[/u]+([u]P'[/u]+[u]N[/u]). For, [del]by[/del] [ins]Theorem 10 and[/ins] Axiom 6, [u]L[/u]+[u]P'[/u] is the number next higher than [u]L[/u]+[u]P[/u]; whence, by Axiom 6 again, ([u]L[/u]+[u]P'[/u])+[u]N[/u] is the number next higher than ([u]L[/u]+[u]P[/u])+[u]N[/u]. So, by Theorem 10 and [del]Axiom[/del] [ins]Axiom[/ins] 6, [u]P'[/u]+[u]N[/u] is the number next higher than [u]P[/u]+[u]N[/u]. Whence, by [del]theorem[/del] [ins]Axiom[/ins] 6 again, [u]L[/u]+([u]P'[/u]+[u]N[/u]) is the number next higher than [u]L[/u]+([u]P[/u]+[u]N[/u]). [del]But[/del] Hence, if ([u]L[/u]+[u]P[/u])+[u]N[/u] = [u]L[/u]+([u]P[/u]+[u]N[/u]), both ([u]L[/u]+[u]P'[/u])+[u]N[/u] and [u]L[/u]+([u]P'[/u]+[u]N[/u]) are next higher than [u]L[/u]+([u]P[/u]+[u]N[/u]). Hence, by Corollary 2, [del]([u]L[/u]+[u]P'[/u])+[u]N[/u] = [u]L[/u]+([u]P'[/u]+[u]N[/u])[/del] ([u]L[/u]+[u]P'[/u])+[u]N[/u] = [u]L[/u]+([u]P'[/u]+[u]N[/u]).
+
+But it has been shown in the first part that ([u]L[/u]+[u]M[/u])+[u]N[/u] = [u]L[/u]+([u]M[/u]+[u]N[/u]) when [u]M[/u] = 0. Hence by Theorem 4 and Definition 38. It is true for [del]all[/del] [del]when [u]M[/u] is[/del] any cardinal number whatever.
+
+[u]Art. 35[/u]. [u]Theorem 15[/u]. [u]There is but one whole number, at most, which added to a given number will make a given sum[/u].
+
+[u]Demonstration[/u]. If [u]A[/u], [u]B[/u], [u]C[/u], [u]D[/u] are whole numbers, such that [u]A[/u]+[u]C[/u] = [u]D[/u] and [u]B[/u]+[u]C[/u] = [u]D[/u], then the Theorem is that [u]A[/u] = [u]B[/u].
+
+If not, transpose the designations, if necessary, so that [u]B[/u] shall be the greater. Now, if any number, [u]M[/u], added to [u]C[/u] makes a sum greater than [u]C[/u], so also does [u]M'[/u], the number next greater than [u]M[/u].

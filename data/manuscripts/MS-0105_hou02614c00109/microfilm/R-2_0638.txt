@@ -1,0 +1,32 @@
+[fig]Graph showing a line with intercepts -1/v and -1/u, angle tau, and differential ds.[/fig] [fig]Graph showing intersecting lines, angle phi, and differential ds.[/fig]
+
+$$\tan \tau = \frac{v}{u}$$
+
+$$ux + vy + 1 = 0$$
+$$u dx + v dy = 0$$
+$$dy = - \frac{u}{v} dx$$
+$$(dx)^2 + (dy)^2 = (1 + \frac{u^2}{v^2}) (dx)^2 = (ds)^2$$
+
+$$d \tan \sigma = \sqrt{1 + (D_x y)^2} dx$$
+$$(D_x \tan \sigma)^2 = 1 + (D_x y)^2$$
+$$D_x (\tan \sigma + y) \cdot D_x (\tan \sigma - y) = 1$$
+
+$$(du)^2 + (dv)^2$$
+$$= (d \frac{1}{a})^2 + (d \frac{1}{b})^2$$
+$$= \frac{(da)^2}{a^4} + \frac{(db)^2}{b^4}$$
+
+$$\tan \varphi = \frac{y}{x}$$
+
+$$du \cdot x + dv \cdot y = 0$$
+$$dv = - \frac{x}{y} \cdot du$$
+$$(du)^2 + (dv)^2 = (1 + \frac{x^2}{y^2}) (du)^2$$
+$$\frac{\sqrt{x^2 + y^2}}{y} du = \sec \varphi \cdot du$$
+
+$$d \tan \tau = d \frac{v}{u} = \frac{u \cdot dv - du \cdot v}{u^2}$$
+$$= \frac{u \frac{dv}{du} - v}{u^2} du$$
+$$= - \frac{u \frac{x}{y} + v}{u^2} du$$
+$$= - \frac{\frac{xu}{y} + \frac{1}{y}}{u^2} du$$
+$$d \tan \tau = \frac{\frac{u}{y} D_u v - 1}{v} du$$
+$$\tan \tau = \int \frac{\frac{u}{y} D_u v - v}{v^2} du$$
+
+[marginalia]$$u = - \frac{y}{x} - \frac{1}{x}$$[/marginalia]

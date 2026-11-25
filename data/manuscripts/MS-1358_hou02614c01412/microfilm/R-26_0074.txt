@@ -1,0 +1,50 @@
+[marginalia]
+[del]Menis[/del] [ins]Meniscus[/ins] Bridge [date]1899 Jan 23[/date]
+[/marginalia]
+
+[pn]2[/pn]
+
+Then the variation of the energy is
+when $n > m$
+
+[marginalia]
+$(\theta_{n+1} - \theta_n)$
+[/marginalia]
+
+[del]$*$[/del] $(\theta_n - \theta_{n-1}) [del]*[/del] [ins]$+$[/ins] (\theta_{n+1} - \theta_n) \left( + \frac{\cos(\theta_{n+1} - \theta_n)}{\cos(\theta_{n+1} - \theta_{n+1})} + 1 \right)$
+$+ (\theta_{n+2} - \theta_{n+1}) \frac{\cos(\theta_{n+2} - \theta_n)}{\cos(\theta_{n+1} - \theta_{n+1})} = 0$
+
+$= (\theta_{n+2} - 2\theta_{n+1} + \theta_n) \frac{\cos(\theta_{n+1} - \theta_n)}{\cos(\theta_{n+1} - \theta_{n+1})} - (\theta_{n+1} - 2\theta_n + \theta_{n-1}) = 0$
+
+or $\frac{\theta_{n+2} - 2\theta_{n+1} + \theta_n}{\cos(\theta_{n+1} - \theta_{n+1})} - \frac{\theta_{n+1} - 2\theta_n + \theta_{n-1}}{\cos(\theta_{n+1} - \theta_n)} = 0$
+
+Does not apply to $n = N+1$ nor to $n = N$
+
+or $\Delta \frac{\Delta^2 \theta}{\cos(\theta_{n+1} - \theta_n)} = 0$
+
+$\Delta^2 \theta_n = C \cos(\theta_{n+1} - \theta_n)$
+$\Delta \theta_n = C \sum \cos(\theta_{n+1} - \theta_n) + C'$
+$\theta_n = C \sum^2 \cos(\theta_{n+1} - \theta_n) + C'n + C''$
+
+[marginalia]
+$d \frac{D_s^2 \theta}{\cos(\theta_{n+1} - \theta_n)} = 0$
+$D_s^2 \theta_n = C \cos(\theta_{n+1} - \theta_n)$
+[del]$D_s \theta_n = -C \sin(\theta_{n+1} - \theta_n) + C'$[/del]
+[del]$\theta_n = -C \cos(\theta_{n+1} - \theta_n) + C's + C''$[/del]
+
+$\frac{1}{2} D_s (D_s \theta)^2 = C \cos(\theta_{n+1} - \theta_n)$
+$(D_s \theta)^2 = -C \sin(\theta_{n+1} - \theta_n) + C'$
+[/marginalia]
+
+$\cos \theta_{n+1} \cos \theta_{n-1} + \sin \theta_{n+1} \sin \theta_{n-1}$
+
+$\underline{\cos \theta_0 + \cos \theta_1 + \cos \theta_2 + \text{etc} - - - \cos \theta_{n-1}}$
+$\cos \theta_0$
+$\cos \theta_0 + \cos \theta_1$
+$\cos \theta_0 + \cos \theta_1 + \cos \theta_2$
+$\cos \theta_0 + \cos \theta_1 + \cos \theta_2 + \cos \theta_3$
+
+$D_s^2 \theta = C \cos \theta_{n+1} D_s x + C \sin \theta_{n+1} D_s y$
+$D_s \theta = C_x \cos \theta_{n+1} + C_y \sin \theta_{n+1}$
+[fig]triangle with angle theta[/fig]
+$D_s \theta = C_g \cos(\vartheta - \theta_{n+1})$

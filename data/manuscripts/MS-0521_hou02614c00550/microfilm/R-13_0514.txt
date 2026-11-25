@@ -1,0 +1,55 @@
+$$(T\cdot q)w = Tw\cdot \prod T(\bar{v}\cdot w) + qv\cdot qw \qquad x \prec y \quad \prod_i x_i \prec y_i$$
+
+$$[del]T\cdot p[/del] \quad [del]at[/del] \ T(a\cdot b) = Ta\cdot \prod_v [(\bar{v}\cdot T)a + vb]\cdot Tb$$
+
+$$(T\cdot p)(T\cdot q) = T(T\cdot q)\cdot \prod_u [T(\bar{u}\cdot T\cdot q) + p(T\cdot q)]\cdot p(T\cdot q)$$
+
+$$\prod_x (x+y) \qquad x+y \quad (1-x)+(1-y) \qquad \begin{array}{c|c} x+y & \\ \hline 0+0=0 & 0+0-1=-1 \\ 0+1=1 & 1+0-1=0 \\ 1+0=1 & \\ 1+1=2 & 1+1-1=1 \end{array}$$
+
+$$(Tx)_{ik} = \sum_j T_{ij}\cdot y_{jk} \quad \prod_{x_i} \quad x_i+x_{i+1} \quad \begin{array}{c} 1-(1-x)+(1-y) \\ x+y-1 \end{array}$$
+
+$$[del]Tx = \dots y[/del] \qquad x_1, x_2, x_3 \qquad x+y$$
+
+$$x \quad \mathcal{M}x = (T+1)x = Tx + x = Tx + x\cdot(1+\bar{x})$$
+
+$$\mathcal{M}x\cdot\bar{x} = Tx \qquad \sum_j x_{ij}\cdot x_{jk}$$
+
+$$Tx = \mathcal{M}x\cdot(\bar{x} + Tx) \qquad \sum \prod_j x_{ij} + x_{jk}$$
+
+$$Tx = \bar{x}\cdot\mathcal{M}x + \mathcal{M}x\cdot Tx$$
+
+$$A:B + B:A) \ A:B = B:B$$
+
+$$[del]\begin{array}{c} u+v \\ ua + va = Ta \end{array}[/del] \qquad u+v=T \qquad \begin{aligned} Ta &= \mathcal{M}a\cdot\bar{a} \\ \mathcal{M}a &= (T+1)a \\ &= Ta + a \\ \mathcal{M}a\cdot\bar{a} &= Ta \end{aligned}$$
+
+$$T(a\cdot b) = Ta\cdot \prod_u (ua + vb)\cdot Tb \qquad [del]\frac{T+a}{T}[/del]$$
+
+$$\text{(and supposing neither } a \text{ nor } b \text{ is a}$$
+$$\text{individual in any column)}$$
+
+$$+ ? a$$
+
+$$= \bar{a}$$
+
+$$= \mathcal{M}a \qquad (ua + vb)\cdot(va + ub)$$
+
+$$[del]T(a\cdot b) = \mathcal{M}(a\cdot b)\cdot(\bar{a}+\bar{b})[/del] \qquad \begin{aligned} ua\cdot va &+ ua\cdot ub \\ + ub\cdot vb &+ ub\cdot va \end{aligned}$$
+
+$$u+v=cd$$
+
+$$(a\cdot b)(c\cdot d) = (a\cdot b)c\cdot \prod [ (a\cdot b)u + (a\cdot b)v ]\cdot (a\cdot b)d$$
+
+$$= [del]ac \prod \prod [ap+bq][/del] \qquad \begin{aligned} p+q&=c \\ p+q&=d \\ m+n&=u \end{aligned}$$
+
+$$= \prod_u \prod_m [am + bn] + \prod_p^{p+q=v} [ap + bq]$$
+
+$$(am_{11} + bn_{11})\cdot(am_{12} + bn_{12})\cdot\text{etc} + (ap_{11} + bq_{11})\cdot(ap_{12} + bq_{12})\text{etc}$$
+$$(am_{21} + bn_{21})\cdot(am_{22} + bn_{22})\cdot\text{etc} + (ap_{21} + bq_{21})\cdot(ap_{22} + bq_{22})\text{etc}$$
+
+$$(a+b) + (c+d)$$
+
+$$[del]l^m + l^t[/del] \qquad l^{t\cdot v} = l^t + \bar{l}^v$$
+
+$$(l+b)^w = [del]l^w \sum l^u\cdot b^{u\cdot w}[/del]$$
+
+$$(l+b) + \bar{w} = \sum (l\bar{u})\cdot [ b + (u+\bar{w}) ]$$

@@ -1,0 +1,23 @@
+Thus, the two unknown variations $\delta s$ and $\delta \frac{Q}{k}$ produce effects upon $N$ very oblique to one another, which [del]is[/del] [ins]is[/ins] unfavorable to their discrimination. Moreover, the effect of $\delta \frac{Q}{k}$ upon $x_N$ varies very rapidly, which is another inconvenience.
+
+Sometimes, it is not $\delta x_N$ and $\delta y_N$ that are known, but these quantities diminished by a certain proportion of the variation of the coordinates of a part of the cord, whose limits may be taken at $n=p$ and $n=q$ where $q > p$. In this case, if we use double accents to signify that quantities are measured from the middle point of the cord, so that
+$$\begin{array}{l}
+s''_0 = - s''_N = \frac{1}{2} s_N \\
+s' = s'' - s''_H,
+\end{array}$$
+we have putting
+$$\begin{array}{l}
+X = x_N - c (x_q - x_p) \\
+Y = y_N - c (y_q - y_p),
+\end{array}$$
+
+$$\begin{aligned}
+\delta [del]\{\frac{k}{Q}\}[/del] X) = & \cos \tau_N \delta \left\{ \frac{k}{Q} (s''_N - s''_H) \right\} - \cos \tau_0 \delta \left\{ \frac{k}{Q} (-s''_N - s''_H) \right\} - c \cos \tau_q \delta \left\{ \frac{k}{Q} (s''_q - s''_H) \right\} [del]+ c \cos \tau_p \delta \left\{ \frac{k}{Q} (s''_p - s''_H) \right\}[/del] \\
+= & \left[ (\cos \tau_N + \cos \tau_0) s''_N - c (s''_q \cos \tau_q - s''_p \cos \tau_p) \right] \delta \frac{k}{Q} \\
+& - \left[ \cos \tau_N - \cos \tau_0 - c (\cos \tau_q - \cos \tau_p) \right] \delta \left\{ \frac{k}{Q} s''_H \right\}
+\end{aligned}$$
+
+$$\begin{aligned}
+\delta \{ \frac{k}{Q} Y \} = & \left[ (\sin \tau_N + \sin \tau_0) s''_N - c (s''_q \sin \tau_q - s''_p \sin \tau_p) \right] \delta \frac{k}{Q} \\
+& - \left[ \sin \tau_N - \sin \tau_0 - c (\sin \tau_q - \sin \tau_p) \right] \delta \left\{ \frac{k}{Q} s''_H \right\}
+\end{aligned}$$

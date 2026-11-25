@@ -1,0 +1,31 @@
+[pn]191[/pn]
+[marginalia][date]1901 Dec 10[/date][/marginalia]
+
+To prove that if [del](a+b)⤙c[/del] [ins](a+b)⤙c[/ins] then (a⤙b)⤙c
+[del]⤙(a+b)⤙c[/del]
+∴ [del]⤙[/del] [ins]⤙[/ins] [ (a+b)⤙c ]
+∴ ⤙(a⤙b)⤙(b⤙c)⤙c
+∴ ⤙(a⤙b)⤙(b⤙c)⤙(a⤙c)⤙c
+∴ ⤙ [ (a⤙b)⤙(b⤙c)⤙(a⤙c) ] ⤙ c
+or by definition [del](a⤙b)⤙(a⤙b)[/del] [ins](a⤙b)⤙(a⤙b)[/ins]
+[del][ (a⤙b) + (b⤙c) + (a⤙c) ] ⤙ c[/del]
+[del]To prove that if c⤙(a+b) then c⤙(a⤙b)⤙(b⤙a)[/del]
+That [del](a+b)⤙(a⤙b) is proved on last page[/del]
+Hence if c⤙(a+b) c⤙a and b
+
+[u]To prove that if c⤙(a⤙b) c⤙(a+b)[/u]
+This proved above that (a⤙b)⤙(a+b) ∴ etc
+
+To prove that a⤙b⤙(a⤙b)
+[fig]crossed out lines[/fig]
+Now b⤙b⤙0
+∴ [b⤙b]⤙0
+∴ ⤙(b⤙b)⤙0
+∴ ⤙[b⤙b]⤙0 ⤙ ⤙0 ⤙ ⤙0
+∴ ⤙[b⤙b]⤙0 ⤙ 0
+∴ [ [b⤙b]⤙0 ] ⤙ 0
+∴ ⤙(b⤙b)⤙0
+∴ a⤙b⤙(a⤙b⤙0)⤙0
+
+Requires to proof that
+[ [ (x⤙y)⤙z ] ⤙ w ] ⤙ [ x⤙(y⤙z)⤙w ]

@@ -1,0 +1,16 @@
+[pn](7)[/pn]
+
+[u]§4. Corollaries[/u]. By (5) and (3)
+
+[del](11) [fig]crossed out formula[/fig] [formula] \frac{ds}{dx} = \sqrt{1 + \frac{w^2}{Q^2}} = \frac{q}{Q} [/formula][/del]
+
+(12) [formula] \rho = \sec^3 \tau / (d^2y/dx^2) = \left(\frac{dw}{d\tau} \frac{1}{Q}\right)^3 / \frac{d^2y}{dx^2} = \frac{ds}{d\tau} [/formula]
+[formula] \rho \cos^2 \tau = \frac{Q}{dw/ds} = \frac{q}{dw/dx} [/formula]
+
+[u]§5. The Catenary[/u]. This is the curve of the cord when [u]w/s[/u] is constant.
+Write
+(14) [formula] w = ks [/formula]
+The (5) gives
+[formula] k = \frac{dw}{ds} = Q \sec^2 \tau \frac{d\tau}{ds} = \frac{Q}{\rho} \sec^2 \tau [/formula]
+or
+(15) [formula] Q = k \rho \cos^2 \tau [/formula] [formula] q = k \rho \cos \tau [/formula]

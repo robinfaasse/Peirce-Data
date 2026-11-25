@@ -1,0 +1,24 @@
+[pn]17[/pn]
+
+have a common factor, say K, then every [del]K[/del] [ins]1/K[/ins] th value of $\xi$ will form
+a fraction $\frac{E}{L}$ equal to a fraction of denominator N. If upon a cylinder
+we take measure $\xi$ linearly and parallel to the axis, and $\eta$ linearly
+at right angles to $\xi$, and so that one revolution shall be equal to an
+increment of $\eta$ of $\frac{1}{L}$ then, for each value of N all values of $\eta$ will
+fall upon a helix developable into a straight line passing through the
+origin of $\xi$ and $\eta$. If we term such a line a linear helix, [ins]the fractions of each[/ins] [del]every[/del] deno-
+minator will lie upon a linear helix through the origin.
+
+Let us see where the helices of two denominators [del]N[/del] [ins]N[/ins] and [del]S[/del] [ins]S[/ins], both
+greater than $\frac{1}{L}$ I will intersect. There will be one fraction of each
+of these denominators, [del]between[/del] namely the fractions $\frac{1}{N}$ and $\frac{1}{S}$ between
+$\frac{1}{L}$ and $\frac{2}{L}$. The equations of the two helices will therefore be
+$$\eta = \xi (\frac{L-N}{N}) \frac{1}{L} - \frac{\delta}{N}$$
+$$\eta' = \xi' (\frac{L-S}{S}) \frac{1}{L} - \frac{\delta'}{S}$$
+
+If $S > L$, the first intersection will occur when
+[del]$\xi (\frac{L-N}{N}) \frac{1}{L} - \frac{1}{N} = \xi (\frac{L-S}{S}) \frac{1}{L} - \frac{1}{S}$[/del]
+$$\xi (\frac{L-N}{N}) = (\xi H) \frac{L-S}{S}$$
+or
+[del]$\xi H = \frac{L-N}{L} \frac{S}{S-N}$[/del]
+$$\xi = \frac{L-S}{L} \frac{N}{S-N} \qquad \eta = \frac{(L-S)(L-N)}{L(S-N)} \cdot \frac{1}{L}$$

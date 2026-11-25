@@ -1,0 +1,19 @@
+839
+
+[u]$k^2 = i$ $m^2 = j$ $km = l$[/u]
+$k^3 = 0$ $m^3 = 0$
+$mk = \rho km$ [del]$k^2 m = m^2$[/del] $k m^2 = 0$
+$kA = B$ $kB = k^2 A = C$ $kC = k^3 A = 0$
+$mA = D$ [del]$mB = m$[/del]
+$kD = kmA = E$ $kE = k^2 mA = 0$
+$mB = mkA = \rho kmA = \rho E$
+$mC = mkB = \rho kmB = \rho^2 kE = 0$
+$mD = m^2 A = F$
+[del]$kF$[/del] $kF = km^2 A = 0$
+$mE = mkD = \rho kmD = \rho kF = 0$
+
+[fig]table[/fig] $k = B:A + C:B + E:D$ [del]$k$[/del]
+$m = D:A + \rho E:B + F:D$
+$i = k^2 = C:A$
+$j = m^2 = F:A$
+$l = km = E:A$

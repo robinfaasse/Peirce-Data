@@ -1,0 +1,40 @@
+inextensible suspenders, then to calculate the additional stresses [ins]in[/ins] them
+caused by the live load, and thus obtain new lengths of the suspenders
+with which to continue the approximations to the deflections.
+
+As long as the truss continues to rest on all four of its supports and is
+not lifted from any of them by the live load, we can, in calculating
+the deflections caused by the live load, imagine the whole structure to be
+weightless and unstrained. For elastic energies are proportional
+to squares of linear displacements, which displacements, as long as they are
+very small, are proportional to vertical displacements of the parts of the
+live load. Now it is true that the cable and truss really have enormous
+weight and are under large strains. But the dead load and the elastic
+stresses being in equilibrium, any possible further deformation (consistent
+with the fixity of the four bearings of the truss) which is very small will
+develop only a force of restitution very much smaller. Consider, then,
+any particular kind of deformation, consisting in certain
+linear displacements, all proportional to one another. Let $s$ be a
+linear parameter measuring the deformation. The vertical displace-
+ments of the centres of gravity of the dead load and live load, respectively,
+will be two functions of $s$, which we may denote by $F's$ and $f's$ respectively.
+Three functions will have their second derivatives very small. There
+will be just as many such kinds of deformation as there are degrees of
+freedom in the structure. Then, if $W$ and $w$ are the weights of the
+dead and live load, the energy will be with the dead load only
+$$W \Sigma_i F'_i s_i + \frac{1}{2} \Sigma_i E_i s_i^2$$
+and there will be as many equations as degrees of freedom all of the form
+$$W F'_i + E s = 0$$
+so that
+$$s = - \frac{W}{E} F'_i.$$
+When the live load is added, let $\sigma$ be the additional amount of defor-
+mation, and the energy will be
+
+[marginalia]
+[pn]p. 26[/pn]
+$s$
+$F's, f's$
+$W, w$
+$E_i$
+$\sigma$
+[/marginalia]

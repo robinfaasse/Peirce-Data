@@ -1,0 +1,23 @@
+[pn]2[/pn]
+
+(Boole)
+
+[u]Theorem 4.[/u] If [u]x[/u] < [u]y[/u], then [u]x[/u] + [u]z[/u] < [u]y[/u] + [u]z[/u] and [u]x[/u], [u]z[/u] < [u]y[/u], [u]z[/u].
+
+[u]Proof.[/u] By (4)
+[u]y[/u] < [u]y[/u] + [u]z[/u] (29)
+
+But
+[u]x[/u] < [u]y[/u] (30)
+
+Hence, from (29), (30), (2)
+[u]x[/u] < [u]y[/u] + [u]z[/u] (31)
+
+By (10)
+[u]z[/u] < [u]y[/u] + [u]z[/u] (32)
+
+By (31), (32), (5)
+[u]x[/u] + [u]z[/u] < [u]y[/u] + [u]z[/u] (33)
+
+Then, by corollary 1,
+If [u]y[/u] < [u]x[/u] [u]y[/u] + [u]z[/u] < [del][u]x[/u] + [u]z[/u][/del] (34)

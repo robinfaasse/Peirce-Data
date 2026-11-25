@@ -1,0 +1,62 @@
+[marginalia]
+[del]This is[/del] [ins]Euler's extension of Fermat's Theorem, [del]and of the[/del] [ins]but the numbers in the col-[/ins] [del]only integers each of which has just[/del] [ins]umn of integers prime to [unclear]n[/unclear] do not exceed [unclear]n[/unclear][/ins] [del]it.[/del][/ins]
+[/marginalia]
+
+[fig]Grid table of prime factors and Euler's totient function values[/fig]
+
+11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 101 103 107 109 113
+
+89
+90 2 3² 5
+91 7 13
+92 2² 23
+93 3 31
+94 2 47
+95 5 19
+96 2⁵ 3
+97 P
+98 2 7²
+99 3² 11
+100 2² 5²
+101 P
+102 2 3 17
+103 P
+104 2³ 13
+105 3 5 7
+106 2 53
+107 P
+108 2² 3³
+109 P
+110 2 5 11
+111 3 37
+112 2⁴ 7
+113 P
+114 2 3 19
+115 5 23
+116 2² 29
+117 3² 13
+118 2 59
+119 7 17
+120 2³ 3 5
+121 11²
+122 2 61
+123 3 41
+124 2² 31
+125 5³
+126 2 3² 7
+127 P
+128 2⁷
+129 3 43
+130 2 5 13
+131 P
+132 2² 3 11
+133 7 19
+134 2 67
+135 3³ 5
+136 2³ 17
+137 P
+138 2 3 23
+139 P
+140 2² 5 7
+141 3 47
+142 2 71

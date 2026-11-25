@@ -1,0 +1,48 @@
+4. Given the following equations,
+[del]$\frac{\sqrt{x} + \sqrt{(x-2)}}{\sqrt{x} - \sqrt{(x-2)}} = \frac{2y^2}{x-2}$[/del] [ins]$\frac{\sqrt{x} + \sqrt{x-2}}{\sqrt{x} - \sqrt{x-2}} = \frac{2y^2}{x-2}$[/ins], [del]$\frac{y - \sqrt{(y^2-x^2)}}{y + \sqrt{(y^2-x^2)}} = y^2$[/del] [ins]$\frac{y - \sqrt{y^2-x^2}}{y + \sqrt{y^2-x^2}} = y^2$[/ins]
+to find the values of $x$ and $y$.
+
+Solution. In the second equation getting rid of fractions
+$y - \sqrt{(y^2-x^2)} = y^3 + y^2 \sqrt{(y^2-x^2)}$
+transposing $(y^2+1) \sqrt{(y^2-x^2)} = y - y^3 = y(1-y^2)$
+Squaring $(y^2+1)^2 y^2 - (y^2+1)^2 x^2 = y^2(1-y^2)^2$
+transposing. $(y^2+1)^2 x^2 = y^2(y^2+1)^2 - y^2(1-y^2)^2 = 4y^4$
+Extracting the square root. $(y^2+1)x = 2y^2$
+$x = \frac{2y^2}{y^2+1}$     $x-2 = \frac{-2}{y^2+1}$.
+Substituting the preceding values of $x$ and $x-2$ in the
+first equation, and multiplying the dividing the terms
+of the fraction in the first member by $\sqrt{\frac{2}{y^2+1}}$, we have
+$\frac{y + \sqrt{-1}}{y - \sqrt{-1}} = - y^2(y^2+1)$
+Multiplying both terms of the fraction by the denominator
+$\frac{y^2-1 + 2y\sqrt{-1}}{(y-\sqrt{-1})^2}$ [del]$\frac{y^2 + 0}{(y-\sqrt{-1})^2}$[/del] $= - y^2(y^2+1)$
+dividing by $(y^2+1)$     $\frac{1}{(y-\sqrt{-1})^2} = - y^2$
+Getting rid of fraction, and transposing $y^2(y-\sqrt{-1})^2 = -1$
+Extracting the square root. $y(y-\sqrt{-1}) = \sqrt{-1}$
+$y^2 - y\sqrt{-1} = \sqrt{-1}$     $y = \frac{1}{2}\sqrt{-1} \pm \sqrt{(\sqrt{-1} - \frac{1}{4})}$
+[del]if we would[/del]
+or, reducing to the form $A + B\sqrt{-1}$ we have
+[del]$A + B\sqrt{-1} = \frac{1}{2}\sqrt{-1} \pm \sqrt{(\sqrt{-1} - \frac{1}{4})}$[/del]
+$y(y-\sqrt{-1}) = (A+B\sqrt{-1})(A+(B-1)\sqrt{-1}) = A^2 - B(B-1) + (2AB-A)\sqrt{-1} = \sqrt{-1}$
+
+And separating of equal terms the real and imaginary parts
+$A^2 - B(B-1) = 0$
+$A(2B-1) = 1$
+$A = \frac{1}{2B-1}$     $B = \frac{1}{2A} + \frac{1}{2}$     $B-1 = \frac{1}{2A} - \frac{1}{2}$
+$A^2 - B'(B-1) = A^2 - \frac{1}{4A^2} + \frac{1}{4} = 0$
+[del]$A^4 + \frac{1}{4} A^2 - \frac{1}{4} = 0$[/del]     [del]$A^4 + \frac{1}{4} A^2 = \frac{1}{4}$[/del]     $A^4 + \frac{1}{4} A^2 + \frac{1}{64} = \frac{1}{4} + \frac{1}{64} = \frac{17}{64}$
+$\frac{1}{2A} - \frac{1}{4} A = \frac{1}{8} A\sqrt{17}$
+$A^2(1+\sqrt{17}) = 2$
+$A(\sqrt{1+\sqrt{17}}) = \sqrt{2}$     $A = \sqrt{\frac{2}{1+\sqrt{17}}}$
+$B = \sqrt{2\sqrt{(1+\sqrt{17})}} + \frac{1}{2}$
+
+
+5. Given $\begin{Bmatrix} x - a - y^{\frac{1}{n}} \\ x^{n-1} y = \frac{x^n - p}{x} \end{Bmatrix}$ to find $x$ and $y$ by a
+quadratic.
+
+Solution. transposing $y^{\frac{1}{n}}$ in the first equation $x+y^{\frac{1}{n}} = a$
+Extracting the $(n-1)^{st}$ root of the second $x y^{\frac{1}{n}} = p^{\frac{1}{n-1}}$
+$(x-y^{\frac{1}{n}})^2 = (x+y^{\frac{1}{n}})^2 - 4xy^{\frac{1}{n}} = a^2 - 4p^{\frac{1}{n-1}}$
+Extracting the square root $x - y^{\frac{1}{n}} = \pm(a^2 - 4p^{\frac{1}{n-1}})^{\frac{1}{2}}$
+$y^{\frac{1}{n}} = \frac{1}{2}(x+y^{\frac{1}{n}}) - \frac{1}{2}(x-y^{\frac{1}{n}}) = \frac{1}{2}a \mp \frac{1}{2}(a^2 - 4p^{\frac{1}{n-1}})^{\frac{1}{2}}$
+Raising to the $n^{th}$ power, $y = (\frac{1}{2}a \mp \frac{1}{2}(a^2 - 4p^{\frac{1}{n-1}})^{\frac{1}{2}})^n$
+$x = \frac{1}{2}(x+y^{\frac{1}{n}}) + \frac{1}{2}(x-y^{\frac{1}{n}}) = \frac{1}{2}a \pm \frac{1}{2}(a^2 - 4p^{\frac{1}{n-1}})^{\frac{1}{2}}$

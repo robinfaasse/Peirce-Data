@@ -1,0 +1,26 @@
+[marginalia][Follows 45] a5r[/marginalia]
+
+[u]De Morgan[/u] [u]Myself[/u] = [del](1-v)[/del] [ins]v[/ins] [del]1[/del] [ins]0[/ins] or [del]v[/del] [ins]1[/ins] [del]0[/del] [ins]v[/ins] [del]or [1][/del]
+
+X..lY $X_{_{1}}(1-lY) = 0$
+X.lY $X_{_{1}}lY = 0$ $[[1]] = [[1]]$
+X..lMY $X_{_{1}}(1-lMY) = 0$
+X.lMY $X_{_{1}}lMY = 0$ $\frac{0}{0} \equiv ((1-v)-v.v) \frac{0}{0} \equiv [[1]]$
+lM' $v(1-(1-l)-M)$ $(v + \frac{1-v}{v}) \frac{0}{0} \equiv [[1]]$
+l,M $v(1-l-(1-M))$ $v \frac{0}{0} \equiv v$
+l'X l'X $(v + \frac{1-v}{v} - 1) \frac{0}{0} \equiv [[1]]$
+If X..lY then Y..l'X $[l-(1-l')]=0$
+lY $\begin{Bmatrix} 1-l-Y \\ (1-l)-Y \end{Bmatrix}$ De Morgan does not distinguish there, because he treats only singulars
+$x + y + xy \equiv x \Psi y$
+lCX (printed lCx) $\begin{Bmatrix} l-(1-lX) \\ l-(1-l)-X \end{Bmatrix}$ $\frac{xl}{l} \equiv x$
+$l^{-1}$ is not $(l^{-1})'$ $\begin{Bmatrix} [del]1-l^{-1}-X[/del] \\ (1-l^{-1})-X \end{Bmatrix} \equiv 1-l^{-1}X$ only true in generals
+$(1-l^{-1})-X \equiv (1-l)^{-1}-X$ this is false
+[del]Contrary[/del] Contrary
+
+[del]l-M[/del] $1-M$ [del]M-L[/del] $1-L-M$
+
+lM))N $1-M-1, [(1-N)-M^{-1}-L^{-1}] = 0$ or $[L-M-N] = 0$
+l'n))m $1'-(1-N)-1, [M-(1-N)-L] = 0$ $[M-N-L] = 0$
+nM'))l $(1-N)-M'-1, [L-M-(1-N)] = 0$ $[L-M-N] = 0$
+
+[fig]circle[/fig]

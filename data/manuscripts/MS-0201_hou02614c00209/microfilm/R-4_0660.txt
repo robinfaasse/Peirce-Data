@@ -1,0 +1,25 @@
+[pn]111[/pn]
+
+the left-hand-most 1 of the subtrahend and the right-hand-most of those ones of the
+minuend that are not to the right of that 1 of the subtrahend that is being cancelled
+and, at the same time, write above the minuend, as an additive part of it, a 1 in
+each place to the right of the cancelled 1 of the minuend that is not to the right of the
+cancelled place of the subtrahend. Repeat this process, until no 1 is left in the
+subtrahend and then bring down to a line below the remaining ones of the minuend
+for the remainder. Example (I connect simultaneously cancelled ones)
+
+[fig]binary subtraction diagram with cancellation lines[/fig]
+[del]1 0 0 0[/del]
+Minuend
+Subtrahend
+Remainder.
+
+[ins]1 1 1 1 1[/ins]
+1 0 0 0 0 1 0 1
+- 1 1 0 1 1 0 0
+1 1 0 1 0 1 0 0
+
+[ins]1 1 1 1 1 1 1 1[/ins]
+1 0 0 0 0 0 0 0 0 0
+0 1 1 0 1 1 0 1 0 1
+0 1 0 0 1 0 1 0 1 1

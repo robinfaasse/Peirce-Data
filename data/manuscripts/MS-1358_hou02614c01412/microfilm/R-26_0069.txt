@@ -1,0 +1,54 @@
+[pn]1[/pn]
+[u]Morrison's Bridge 1898 [date]Sep 24[/date][/u]
+[u]Reformation of [del](23) and (24)[/del][/u]
+[u]I think I had better investigate [del]on[/del] [ins]some[/ins] algebraically[/u]
+
+[fig]heart symbol with 1 inside[/fig]
+[fig]heart symbol with 2 inside[/fig]
+[fig]heart symbol with 3 inside[/fig]
+[fig]heart symbol with 4 inside[/fig]
+[fig]heart symbol with 5 inside[/fig]
+[fig]heart symbol with 6 inside[/fig]
+
+[u]x₀[/u]  _  [ [u]s₀[/u] ] (x₁_x₀) = [fig]heart symbol with 1 inside[/fig]
+Λ₀
+
+[ [u]s₀[/u] ] (x₁_x₀) _ [ [u]s₁[/u] ] (x₂_x₁) = [fig]heart symbol with 2 inside[/fig]
+
+[ [u]s₁[/u] ] (x₂_x₁) _ [u]x₂_x₂[/u]  = [fig]heart symbol with 3 inside[/fig]
+                  Λ₂
+
+But we shall so select x₀ and x₂ that [u]x₀[/u]  = [u]x₂_x₂[/u]
+                                                    Λ₀       Λ₂
+
+Hence [fig]heart symbol with 1 inside[/fig] + [fig]heart symbol with 2 inside[/fig] + [fig]heart symbol with 3 inside[/fig] = 0
+                                                    [fig]heart symbol with 1 inside[/fig] = _.0233
+                                                    [fig]heart symbol with 2 inside[/fig] = _.0069
+                                                                 ________
+                                                                 _.0302
+                                                    [fig]heart symbol with 3 inside[/fig] = +.0302  [u]That is so[/u]
+                                                                                   [u]approximate[/u]
+
+The exact values used are [fig]heart symbol with 1 inside[/fig]  _.023303
+                                         [fig]heart symbol with 2 inside[/fig]  _.006857
+                                                      ________
+                                                      _.030160
+                                         [fig]heart symbol with 3 inside[/fig]  +.030160
+
+
+[u]y₀[/u]  _  [ [u]s₀[/u] ] (y₁_y₀) = [fig]heart symbol with 4 inside[/fig]                      [fig]heart symbol with 4 inside[/fig]  +.063118
+μ₀                                                              [fig]heart symbol with 5 inside[/fig]  +.129267
+                                                                             ________
+[ [u]s₀[/u] ] (y₁_y₀) [del]_ [fig]black circle[/fig][/del] + [ [u]s₁[/u] ] (y₁_y₂) = [fig]heart symbol with 5 inside[/fig]               +.192385
+                                                              [fig]heart symbol with 6 inside[/fig]  _.192385
+                                                                             ________
+_[ [u]s₁[/u] ] (y₁_y₂) + [u]y₂_y₂[/u]  = [fig]heart symbol with 6 inside[/fig]                                     0
+                       μ₂
+
+Thus y₀ and y₂ have correctly been so selected as to make
+
+[u]y₀[/u]  + [u]y₂_y₂[/u]  = [fig]black circle[/fig]
+μ₀       μ₂
+
+
+[fig]letter A[/fig]

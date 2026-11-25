@@ -1,0 +1,42 @@
+[fig]Table with mathematical symbols[/fig]
+
+[del]$\Pi_i \overline{r_{ii}}$[/del]
+
+$\Pi_i \overline{r_{ii}}$ [fig]diagonal line crossing[/fig] $\Pi r_{ii} = \text{Contra} \Pi \overline{r_{ii}}$
+
+$\Sigma_i v_{ii} = \text{Extra} \Pi \overline{r_{ii}}$ [fig]diagonal line crossing[/fig] $\Sigma_i \overline{r_{ii}} = \text{Juxta} \Pi_i r_{ii}$
+
+$\begin{cases} \text{No indiv. both relate and corr.} \\ \text{Some indiv both relate \& corr.} \end{cases}$
+
+$\begin{cases} \text{Some [del]bifacial[/del] [ins]repetitor[/ins] is not joined to a [del]bifacial[/del] [ins]repetitor[/ins] [del]corr[/del] [ins]relates[/ins]} \\ \text{Every [del]bifacial[/del] [ins]repetitor[/ins] is joined to [del]bifacial[/del] [ins]repetitor[/ins] [del]corr.[/del] [ins]relates[/ins]} \end{cases}$
+
+[u]Rib[/u]
+$u = a;b + b;c + b;d + b;e + c;d + c;f$
+
+$\Sigma_i \Sigma_j [del](\Pi_k u_{ki} u_{kj})[/del] = a;a + [del]b;c[/del] + \dots$
+$a;b + b;c + a;c$
+
+$\Sigma_i \Sigma_j (\Sigma_k u_{ki} \overline{u_{kj}}) =$ $x;y + y;z + z;u + u;v + v;x$
+$\cdot x;z + y;u + z;v + u;x + v;y$
+
+$x;y + y;z + z;x$
+
+$x;u + u;y$
+$y;v + v;z$
+$x;w + w;z$
+
+$x;y + u;v + y;z + x;z$
+[u]$x;v + u;z$[/u]
+$x;z$
+
+$x^2 \prec x$
+$x^3 \prec x^2 \prec x$
+$x^n \prec x$
+
+[del]$x;u + y;v + \dots$[/del]
+$x;z + y$
+[del]$x;z$[/del]
+
+$v;z$ $x;u$
+$u;z$ [del]$y;v$[/del]
+$u;y$

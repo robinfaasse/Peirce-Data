@@ -1,0 +1,17 @@
+[pn]8[/pn]
+[u]Syllogism[/u]
+
+In saying [u]is[/u] means [u]implies[/u] (so I understand you) you go far beyond Kant, & the extremest position of Mansell.
+
+To say that syllogism consists in stating in one proposition the truth involved in two non-relative propositions after the elimination of a common term is rather a loose statement. In the first place, a syllogism is an object denoted by a concrete noun 'syllogism' and is not a noun of action. It does not consist in 'stating' its proposition, nor in asserting that proposition without stating it. I really think this wont do as a matter of logical form of statement.
+
+But that is the least objection to the definition. It is founded on the unfounded notion that elimination such as takes place in ordinary syllogism involves two propositions, and these [del]non-relative[/del]. I have shown above that there need not be two propositions. I will now show that the non-relativity is an accidental character arbitrarily introduced without support either in reason or in historic usage.
+
+What characterizes the eliminations of ordinary syllogism, as Boole amply showed, is that the process may be so analyzed as to give, just before the elimination, "x that is not x" for which 'nothing' is then substituted. But relative inferences as often proceed on the same principle
+
+Every mother loves her child  $\Pi_i \Pi_j (\bar{m}_{ij} + l_{ij})$
+a is mother of b  $m_{ab}$
+$\therefore$ a loves b.  $\therefore m_{ab} (\bar{m}_{ab} + l_{ab})$
+$\therefore m_{ab} \bar{m}_{ab} + l_{ab}$
+$0 + l_{ab}$
+$\therefore l_{ab}$

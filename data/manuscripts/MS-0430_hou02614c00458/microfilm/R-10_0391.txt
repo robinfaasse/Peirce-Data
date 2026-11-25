@@ -1,0 +1,7 @@
+[pn]Logic
+III
+70[/pn] [pn](70)[/pn] [ins]for subsequent propositions[/ins]
+Any algebraical consequence [ins]that can be written out[/ins], whose ultimate consequence is scriptible is itself scriptible.
+
+<u>Proof</u>. Assume this true [del]for any[/del] [ins]for any consequence[/ins] having [del]for any number N of[/del] fewer than N proximate antecedents. Then consider the consequence $\delta b_{1} \prec \delta b_{2} \prec \delta b_{3} \prec \dots \prec \delta b_{N} \prec \mathcal{V}$ of which the ultimate consequence $\mathcal{V}$ is scriptible. It follows, by the assumption that $\delta b_{2} \prec \delta b_{3} \prec \dots \prec \delta b_{N} \prec \mathcal{V}$ is scriptible, whence, by (65), $\delta b_{1} \prec \delta b_{2} \prec \delta b_{3} \prec \dots \prec \delta b_{N} \prec \mathcal{V}$ is scriptible. It will thus be true of every consequence having N proximate antecedents. But, by (65), it is true when N is 1. Hence, it is true for every algebraical consequence that can be written out.
+[pn](71)[/pn]

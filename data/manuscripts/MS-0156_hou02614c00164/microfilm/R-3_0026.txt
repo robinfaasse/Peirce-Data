@@ -1,0 +1,28 @@
+[pn]3[/pn]
+ms 156 b MS Am 1299 (5)
+
+[u]Map Coloring[/u]
+[u]Vol IV[/u]
+
+[fig]Circle divided in two halves labeled m and n with radiating lines[/fig]
+
+[fig]Two adjacent pentagons sharing an edge[/fig]
+
+$m$ have $m$ sides
+$n$ " $n$ sides
+
+[fig]Two adjacent pentagons sharing an edge with extra outer edges[/fig]
+
+$\begin{array}{c}
+m-3 \\
+n-3 \\
++4 \\
+\hline
+m+n-2
+\end{array}$
+
+If $m=5$ $n=5$ $m+n-2=8$
+and there are at least $\frac{1}{2}$
+
+If $m=6$ $n=6$ $m+n-2=10$
+and there are at least $\frac{1}{4}$

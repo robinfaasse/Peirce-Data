@@ -1,0 +1,31 @@
+[fig] curly bracket pointing upwards [/fig]
+
+[del] $\Pi_{i}\Pi_{j}\Pi_{k}$ [/del]
+
+$\Pi_{i}\Pi_{j}\Pi_{k} (a_{ij} + b_{jk} + c_{ki}) = \Pi_{k} (b_{jk}$
+
+$= \Pi_{k} (\Pi_{i} a$
+
+$\Pi_{i}\Pi_{j} a_{i}b_{j} = \Pi_{i} a_{i} \cdot \Pi_{j} b_{j}$
+
+$\Pi_{i}\Pi_{j} (a_{i} + b_{j}) = \Pi_{i} a_{i} + \Pi_{j} b_{j}$
+
+$\Pi_{i}\Pi_{j}\Sigma_{k} a_{ij} (b_{jk} + c_{jk}) = (\Pi_{i}\Pi_{j} a_{ij}) \cdot \Pi$
+
+$= (\Pi_{i}\Pi_{j} a_{ij}) [$
+
+$\Pi_{i}\Sigma_{j}\Pi_{k} a_{ij} (b_{jk} + c_{jk}) = (\Pi_{i}\Pi_{j} a_{ij}) \cdot \Pi$
+
+$= (\Pi_{i}\Pi_{j} a_{ij}) [$
+
+$\Sigma_{i}\Pi_{j} (g_{i} \cdot l_{ij} + \overline{c}_{j}) = \Sigma_{i} (g_{i} \cdot l_{i1} + \overline{c}_{1}) \cdot (g$
+
+$= (g_{1}l_{11} + \overline{c}_{1})(g_{1}l_{12}$
+
+$+ (g_{2}l_{21} + \overline{c}_{1})(g_{2}l_{22}$
+
+$= g_{1}(l_{11} + l_{12} + l_{13}$
+
+$+ g_{2}(l_{21} + l_{22} + l_{23}$
+
+$= \Sigma_{i} g_{i} (\Sigma_{j} l_{ij})$

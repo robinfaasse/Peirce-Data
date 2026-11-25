@@ -1,0 +1,24 @@
+Knife-edge; L, the length of the corresponding
+simple pendulum; so that
+
+$$\frac{T^2}{\pi^2} = \frac{L}{g} .$$
+
+Then we have
+
+$$\frac{(T+\Delta T)^2}{\pi^2} = \frac{1}{g} \cdot \frac{MLH - 2mh(r+h)\omega + 2mg^2\omega}{MH - 2mh\omega} ,$$
+
+$$\frac{\Delta T}{T} = \frac{m}{M} \frac{h}{H} (1 - \frac{r+h}{L}) \omega .$$
+
+If the pendulum has any number of joints, the
+values of $\omega$ being [del]now[/del] all very small, their com-
+bined effect is the sum of the [ins]single[/ins] [del]se[/del] effects by the
+above formula.
+
+If the pendulum is reversible and if $r_1$, $r_2$,
+etc. and $h_1$, $h_2$, etc. are the values of $r$ and
+$h$ for the different pieces referred to one
+knife-edge and $r'_1$, $r'_2$, etc. and $h'_1$, $h'_2$, etc.
+the values for the same joints referred to
+the other knife-edge, we have
+$$r'_i = L - r_{i+1}$$
+$$h'_i = r_{i+1} - r_i - h_i .$$

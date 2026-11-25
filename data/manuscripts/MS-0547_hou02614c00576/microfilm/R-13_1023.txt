@@ -1,0 +1,24 @@
+$$\overline{\overline{A}+\overline{B}} + \overline{\overline{A}+B} + \overline{A+\overline{B}} + \overline{A+B}$$
+asserts that either $A$ and $B$ are both
+true, or $A$ is true while $B$ is false, or $A$
+is false while $B$ is true, or both $A$ and $B$
+are false.
+
+Required to state the following. The members
+of a board were all of them either bondholders
+or share-holders, but no member was bond-
+holder and share-holder at once; and the
+bondholders, as it happened, were all on
+the board. Considering any one indivi-
+dual, no matter who he is, let
+[u]a[/u] mean that he is on the board;
+[u]b[/u] that he is a bond-holder;
+[u]c[/u] that he is a share-holder.
+The first statement is [del]equivalent[/del] [ins]equivalent[/ins] to this,
+that no matter what individual we
+consider he is either not on the board, or
+he is a bond-holder, or he is a share holder.
+This is written
+$$\overline{a} + b + c.$$
+The second statement is equivalent to this,
+that considering no matter whom, he is

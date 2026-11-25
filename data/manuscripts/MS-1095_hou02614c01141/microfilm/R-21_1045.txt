@@ -1,0 +1,24 @@
+This not so
+
+$$e = -\log \tan (45^{\circ} - \frac{\theta}{2}) + \log \tan (45 - \frac{\theta_0}{2})$$
+
+$$= \log \frac{\tan (45^{\circ} - \frac{\theta_0}{2})}{\tan (45 - \frac{\theta}{2})}$$ [marginalia]$$\theta = -90^{\circ}\ \frac{\theta}{2} = -45^{\circ}\ \tan = \infty$$
+fraction = 0 [del]$$e = -\infty$$[/del]
+$$\theta = 90^{\circ}\ \frac{\theta}{2} = 45^{\circ}\ \tan = 0\ \text{frac} = \infty\ e = \infty$$[/marginalia]
+
+This way $\theta$ is always diminishing. We had
+better change
+
+$$= \log \left\{ \frac{1 - \tan \frac{\theta_0}{2}}{1 + \tan \frac{\theta_0}{2}} \frac{1 + \tan \frac{\theta}{2}}{1 - \tan \frac{\theta}{2}} \right\}$$
+
+$$= \log \frac{1 - \tan \frac{\theta}{2} \tan \frac{\theta_0}{2} - \tan \frac{\theta_0}{2} + \tan \frac{\theta}{2}}{}$$
+
+Now in the equation
+$$D_e s = \sin \theta$$
+substitute for $e$ its value
+
+$$-\sin \theta = \frac{ds}{R \sec \theta \cdot d\theta}$$ [marginalia]$$\frac{1 - \frac{\sin a}{1 + \cos a}}{1 + \frac{\sin a}{1 + \cos a}}$$[/marginalia]
+
+$$D_{\theta} s = [del]-[/del] R \tan \theta$$
+
+$$s = -R \sec^2 \theta + R \sec^2 \theta_0 = -R \tan^2 \theta + R \tan^2 \theta_0$$

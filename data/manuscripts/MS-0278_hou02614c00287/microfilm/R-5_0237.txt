@@ -1,0 +1,19 @@
+$$x_1 = A \mathcal{G}^{-\frac{1}{2}at} \cos(\sqrt{g-\frac{1}{4}a^2} t) + B \mathcal{G}^{-\frac{1}{2}at} \sin(\sqrt{g-\frac{1}{4}a^2} t)$$
+
+$$D_t A \cdot \mathcal{G}^{-\alpha t} \cos pt + D_t B \cdot \mathcal{G}^{-\alpha t} \sin pt = 0$$
+
+$$D_t^2 x_1 = \begin{pmatrix} +(\alpha^2 [del]- p^2[/del]) A \\ -2\alpha p B \\ -\alpha D_t A \\ +p D_t B \end{pmatrix} \mathcal{G}^{-\alpha t} \cos pt + \begin{pmatrix} +2\alpha p A \\ +(\alpha^2-p^2) B \\ -p D_t A \\ -\alpha D_t B \end{pmatrix} \mathcal{G}^{-\alpha t} \cos pt$$
+
+$$\begin{Bmatrix} [del]\begin{matrix} +(\alpha^2-p^2) A \\ -2\alpha p B \end{matrix}[/del] \\ -\alpha D_t A \\ +p D_t B \end{Bmatrix} \mathcal{G}^{-\alpha t} \cos pt + \begin{Bmatrix} [del]\begin{matrix} +2\alpha p A \\ +(\alpha^2-p^2) B \end{matrix}[/del] \\ -p D_t A \\ -\alpha D_t B \end{Bmatrix} \mathcal{G}^{-\alpha t} \sin pt = X \cos bt$$
+
+$$\begin{matrix} -D_t A \mathcal{G}^{-\alpha t} (\alpha \cos pt + p \sin pt) \\ +D_t B \mathcal{G}^{-\alpha t} (p \cos pt - \alpha \sin pt) \end{matrix} = X \cos bt$$
+
+$$D_t A = -\tan pt \cdot D_t B$$
+
+$$D_t B \mathcal{G}^{-\alpha t} \left\{ (\alpha + p \tan pt) + (-\alpha + p \cot pt) \right\} = X \frac{\cos bt}{\sin pt}$$
+
+$$D_t B = \mathcal{G}^{\alpha t} \frac{1}{p} \frac{X \cos bt \cdot \cos pt}{[del](\tan pt + \cot pt)[/del] \sin pt}$$
+
+$$\frac{\sin^2}{\cos} + \cos$$
+
+$$\frac{\sin^2 + \cos^2}{\cos}$$

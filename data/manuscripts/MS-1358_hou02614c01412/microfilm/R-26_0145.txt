@@ -1,0 +1,50 @@
+[marginalia]
+[u]Monicain Pondex[/u] 1899 Feb 10
+[/marginalia]
+
+[pn]2[/pn]
+
+In order to make sure I am right I will repeat last part
+
+[u]n = -Q-1[/u]
+
+$-\frac{\mathcal{B}}{ds} \Delta (\theta-\Theta)_{-Q} - \frac{y_{-Q}}{2} ds = 0$
+
+$\Delta (\theta-\Theta)_{-Q} = -\frac{y_{-Q}}{2\mathcal{B}} (ds)^{2}$
+
+[del]$(\theta-\Theta)_{n} = -\frac{y_{-Q} (ds)^{2} (\frac{n}{ds})}{2\mathcal{B}}$[/del]
+
+[del]$-\frac{\mathcal{B}}{ds} \Delta^{2}$[/del] $-\frac{\mathcal{B}}{ds} \Delta^{3} (\theta-\Theta)_{n} + [del]y_{n+2} + y_{n+1}[/del] \frac{u}{[ins]2[/ins]} (ds)^{2} = 0$
+
+$(\theta-\Theta)_{n} = \frac{1}{6} \frac{u}{\mathcal{B}} (ds)^{3} (\frac{n}{ds})^{3} + \mathcal{C}_{2} (\frac{n}{ds})^{2} + \mathcal{C}_{1} (\frac{n}{ds}) + \mathcal{C}_{0}$
+
+$\Delta^{3} n^{3} = 6$
+$\Delta^{2} n^{3} = 6 + 6n$
+$\Delta n^{3} = 1 + 3n + 3n^{2}$
+
+$\Delta^{2} n^{2} = 2$
+$\Delta n^{2} = 1 + 2n$
+
+$\Delta (\theta-\Theta)_{-Q} = \frac{1}{2} \frac{u}{\mathcal{B}} (ds)^{3} (\frac{n}{ds})^{2} = \frac{1}{2} \frac{u}{\mathcal{B}} (ds)^{3} (\frac{-Q}{ds})^{2} + \frac{1}{6} \frac{u}{\mathcal{B}} (ds)^{3}$
+$+ 2 \mathcal{C}_{2} (\frac{-Q}{ds}) + \mathcal{C}_{2}$
+$+ \mathcal{C}_{1}$
+$= -\frac{y_{-Q}}{2\mathcal{B}} (ds)^{2}$
+
+$n = -Q$
+$-\frac{\mathcal{B}}{ds} (\theta-\Theta)_{-Q+2ds} + 3 \frac{\mathcal{B}}{ds} (\theta-\Theta)_{-Q+ds} - 2 \frac{\mathcal{B}}{ds} (\theta-\Theta)_{-Q} = \frac{y_{-Q}}{2} ds + \frac{u}{2} (ds)^{2}$
+
+[del]$\frac{-1+3-2}{-1+2-1}$[/del]
+$+1+2$
+
+$-\Delta^{2} (\theta-\Theta)_{-Q} + \Delta (\theta-\Theta)_{-Q} - \frac{y_{-Q}}{2\mathcal{B}} (ds)^{2} + \frac{u}{2\mathcal{B}} (ds)^{3} = 0$
+
+$\Delta^{2} (\theta-\Theta)_{-Q} = \Delta (\theta-\Theta)_{-Q} - \frac{y_{-Q}}{2\mathcal{B}} (ds)^{2} + \frac{u}{2\mathcal{B}} (ds)^{3}$
+
+$= -\frac{y_{-Q}}{\mathcal{B}} (ds)^{2} + \frac{u}{2\mathcal{B}} (ds)^{3}$
+
+$= \frac{u}{\mathcal{B}} (ds)^{3} \frac{-Q}{ds} + \frac{u}{\mathcal{B}} (ds)^{3}$
+$+ 2 \mathcal{C}_{2}$
+
+$\therefore 2\mathcal{C}_{2} = \frac{u}{\mathcal{B}} Q (ds)^{2} - \frac{y_{-Q}}{\mathcal{B}} (ds)^{2} - \frac{u}{2\mathcal{B}} (ds)^{3}$
+
+$2\mathcal{C}_{2} \frac{-Q}{ds} = \frac{u}{\mathcal{B}} (Q^{2} ds) - \frac{y_{-Q}}{\mathcal{B}} Q ds - \frac{u}{2\mathcal{B}} Q (ds)^{2}$

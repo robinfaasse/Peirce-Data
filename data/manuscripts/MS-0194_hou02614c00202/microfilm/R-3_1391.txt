@@ -1,0 +1,6 @@
+"Tangential component of the applied force per unit of length," they
+evidently mean [del]$\frac{dw}{ds} \sin \tau$[/del] [ins]$\frac{dw}{ds} \sin \tau$[/ins], so that what they assert is
+
+$$\frac{dq}{ds} = \frac{dw}{ds} \sin \tau$$
+
+Now in fact $q = Q \sec \tau$ and $\frac{dq}{ds} =$

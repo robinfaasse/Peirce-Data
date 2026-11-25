@@ -1,0 +1,30 @@
+$u$ [fig]crossed circle with letters a, b, c, d[/fig] $($ $v$ [fig]crossed circle with letters e, i, j, k[/fig] $w$ $)$
+
+$\left. \begin{array}{l} \text{At most } a \text{ and at most } i \\ \text{and at most } d \text{ other} \end{array} \right\} u\ v\ w$
+
+At most [del]at most[/del] $a+d$ and at most [del]b+d[/del] $u\ v\ \bar{w}$
+
+At most $a+d$ and at most $j+d$ $u\ \bar{v}\ w$
+At most $a+d$ and at most $k+d$ $u\ \bar{v}\ \bar{w}$
+At most $b+c$ and at most $i+c$ $\bar{u}\ v\ w$
+$\begin{array}{cc} b+c & j+c\ \ \bar{u}\ \bar{v}\ w \\ b+c & k+c\ \ \bar{u}\ v\ \bar{w} \\ b+c & l+c\ \ \bar{u}\ \bar{v}\ \bar{w} \end{array}$
+
+***
+
+$u \times v$ gives no information
+
+Hence $(u \times v) \times w = (u \times w) \times v$
+etc
+
+$u$ [fig]crossed circle with letters e, a, c, g, f, b, d, h[/fig] $=$ $v$ [fig]crossed circle with letters e, a, c, g, f, b, d, h[/fig] $=$ $\bar{u}$ [fig]crossed circle with letters h, e, a, c, g, f, b, d[/fig] $v$
+
+$=$ etc.
+
+$u$ [fig]crossed circle with letters e, a, c, g, f, b, d, h[/fig] $($ $v$ [fig]crossed circle with letters m, i, k, o, n, j, l, p[/fig] $w$ $)$
+
+Means the [ins]value-[/ins]universe consists of
+from $e$ to $a$ $u.v.w$ taken from the $m$ to $i$ $vw$
+and from $f$ to $b$ $\bar{u}.v.w$ taken from " " "
+$\begin{array}{rlrl} e+f & \leqq i & a+b & \geqq m \\ & \leqq j & & \geqq n \\ & \leqq k & & \geqq o \\ & \leqq l & & \geqq p \end{array}$
+and
+besides from $h$ to $d$ other $u.v.w$.

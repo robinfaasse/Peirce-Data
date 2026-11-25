@@ -1,0 +1,25 @@
+[marginalia]
+Mathematical
+Logic
+[/marginalia]
+
+[pn]9[/pn]
+
+Now if a quantity $w$ is such that $w^{3} = 2$, there will be
+found, by simply cubing the algebraical expression $-\frac{1}{2}w + \frac{\sqrt{3}}{2}w\underline{i}$,
+that it too is a cube root of $2$, and so is $-\frac{1}{2}w - \frac{\sqrt{3}}{2}w\underline{i}$. The real cube
+root of $2$ is evidently between $1$ and $2$. We may therefore write
+$p$ for $w-1$, $q$ for $-\frac{1}{2}w-1 + \frac{\sqrt{3}}{2}w\underline{i}$, and $r$ for $-\frac{1}{2}w-1 - \frac{\sqrt{3}}{2}w\underline{i}$,
+and $p, q, r$, will be the roots of the equation $x^{3} + 3x^{2} + 3x = 1$. We
+[ins](or can easily verify it, if we have forgotten it)[/ins]
+know that if the product of two imaginaries [del]is[/del] $P+Q\underline{i}$ and
+$P'+Q'\underline{i}$, is $P''+Q''\underline{i}$, then $(P^{2}+Q^{2})(P'^{2}+Q'^{2}) = (P''^{2}+Q''^{2})$; so that
+if $\sqrt{P^{2}+Q^{2}}$ is separated as a factor of $P+Q\underline{i}$, the other factor,
+[del]$\frac{P}{\sqrt{P^{2}+Q^{2}}} + \frac{Q}{\sqrt{P^{2}+Q^{2}}}\underline{i}$[/del] [ins]together with all its powers[/ins], will always have [del]the[/del] [ins]this[/ins] $\sqrt{x^{2}+y^{2}}$ [ins]or[/ins] [del]$\sqrt{P^{2}+Q^{2}}$[/del], that is, the corres-
+ponding quantity, equal to unity. This quantity, $\sqrt{P^{2}+Q^{2}}$, is called the
+modulus, of $P+Q\underline{i}$. Now if we take any three numbers whatever,
+$A, B, C$, we can always find [del]for[/del] there must be three quantities,
+$X, Y, Z$, which will satisfy the three equations
+$Xp^{2} + Yq^{2} + Zr^{2} = A$
+$Xp^{1} + Yq^{1} + Zr^{1} = B$
+$Xp^{0} + Yq^{0} + Zr^{0} = C$.

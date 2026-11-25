@@ -1,0 +1,25 @@
+[pn]140[/pn] SOLID GEOMETRY. [CH. XVIII. § 467.
+
+Symmetrical Triangles are equivalent.
+
+or $2\ \underline{MAN}$ is, by § 463, the measure of the lunary surface $AMNA'$.
+
+The demonstration is extended to the case in which the angle $MAN$ is incommensurate with $180^{\circ}$, by the principles of § 98.
+
+466. _Theorem._ Two symmetrical spherical triangles are equivalent.
+
+_Proof._ Let $ABC$, $DEF$ (fig. 188) be two symmetrical triangles, of which $AB = DE$, $AC = DF$, and $BC = EF$.
+
+Let $P$ be the pole of a small circle passing through the three points $A$, $B$, $C$; then the distances $PA$, $PB$, $PC$ must be equal.
+
+Draw $DQ$ making the angle $QDE$ equal to $PAB$, and draw $QE$ making the angle $DEQ$ equal to $ABP$. Join $QF$. In the triangles $ABP$ and $QDE$ the side $DE = AB$, the angle $QDE = PAB$, and $QED = PBA$; and, therefore, by § 451, the side $QD = PA$ and $QE = PB$; and since these triangles are isosceles, they can be applied to each other, and are equal.
+
+In the triangles $PAC$, $QDF$, the side $PA = QD$, the side $AC = DF$, and the angle $PAC$, being the sum of $PAB$ and $BAC$, is equal to $QDF$, which is the sum of $QDE$ and $EDF$; and, therefore, by § 452, the side $QF = PC$; and since these triangles are isosceles, they are equal.
+
+In the same way, it may be proved that the isosceles triangle $PBC$ is equal to $QEF$.
+
+But the triangle $ABC = PAC + PBC - PAB$,
+and the triangle $DEF = QDF + QEF - QDE$.
+whence the triangle $ABC = $ the triangle $DEF$.
+
+467. _Corollary._ Hence all spherical triangles, which

@@ -1,0 +1,13 @@
+[u]§ 2. Unalterable conditions.[/u] The span, $x_{n+1}$, the difference of level of the two ends, [ins]for which write $s$,[/ins] $y_{n+1}$, and the length of the cord, $s_{n+1}$, may be taken as known quantities. (Even if the cord is somewhat extensible, its length will be approximately assumed and subsequently corrected; and this remark applies to what follows.) We also assume that $w$ is a known function of $s$.
+
+[u]§ 3. Statical conditions.[/u] At any weighted point, say the $n^{\text{th}}$, there are three forces, $w_n - w_{n-1}$ acting vertically, the tension $q_n$ acting at inclination $\tau_n$ to the horizon, and the tension $q_{n-1}$ acting at an inclination $180^\circ + \tau_{n-1}$ to the horizon, reckoned from the same direction in the same sense. These three being in equilibrium we have for the vertical components
+[fig]Force diagram showing tensions q_n and q_n-1 and weight w_n-w_n-1[/fig]
+$w_n - w_{n-1} = q_n \sin \tau_n - q_{n-1} \sin \tau_{n-1}$,
+and for the horizontal components
+$0 = q_n \cos \tau_n - q_{n-1} \cos \tau_{n-1}$
+The last equation shows that $q \cos \tau$ is constant along the cord, or
+(1) $q = Q \sec \tau$. ([ins]and[/ins] $Q$ is constant, $\frac{dQ}{ds} = 0$)
+The equation of vertical components gives by summation
+(2) $w' = w - w_{\text{H}} = q \sin \tau = Q \tan \tau$ $w = Q (\tan \tau - \tan \tau_0)$
+
+§ 4. These are the conditions of the problem. To draw the curve, we may use $s$ and $\tau$ as coordinates, or defining variables. We have $w$ a [del]known[/del] [ins]known[/ins] function of $s$, say $F s$, and we have the special values

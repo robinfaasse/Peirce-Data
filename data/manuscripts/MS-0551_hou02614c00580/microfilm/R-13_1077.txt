@@ -1,0 +1,30 @@
+[pn]-3-[/pn]
+
+$$\frac{[\bar{V}_x]}{p} = \frac{[\bar{V}_y]}{q} = \frac{[\bar{V}_z]}{r} = \frac{A + C}{w_1} = [\bar{V}]$$
+
+$$\frac{s\bar{x}y + \bar{s}\bar{x}y}{p} = \frac{\bar{s}xy + \bar{s}\bar{x}y}{q} = \frac{s\bar{x}y + \bar{s}\bar{x}y}{r} = \frac{\bar{s}xy}{w_1}$$
+
+$$= s\bar{x}y + \bar{s}\bar{x}y + \bar{s}xy + \bar{s}\bar{x}y$$
+
+Eliminating $s$, $x$ and $y$ we obtain the value of $w$ in terms of given probabilities:
+
+$$w_1 = \frac{p + q - r}{2}$$
+
+Therefore, the conditioned probability required is:
+
+$$\frac{w_1}{1-r} = \frac{p + q - r}{2(1-r)}$$
+
+We may arrive at this same result by a study of descriptions:
+
+Consider the following diagram:
+
+[fig]Diagram with horizontal bars representing variables p, q, r over columns xy, x\bar{y}, \bar{x}y, \bar{x}\bar{y}[/fig]
+
+$y x$
+
+$y y$
+
+$y(x\bar{y} + \bar{x}y)$
+
+If $y$ is $(x\bar{y} + \bar{x}y)$
+Then $y$ is $x\bar{y}$

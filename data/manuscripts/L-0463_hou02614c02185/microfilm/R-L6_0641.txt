@@ -1,0 +1,27 @@
+[pn]20[/pn] Consequently, for the point $[(A'B'')(A''B')]$ we have the equation
+$$\bar{g}_1 \bar{a}' P + \bar{g}_1 a' B' + g_1 B'' = \bar{\kappa}_2 \bar{a}'' P + \kappa_2 B' + \bar{\kappa}_2 a'' B''$$
+that is to say $\bar{g}_1 \bar{a}' = \bar{\kappa}_2 \bar{a}''$, $\bar{g}_1 a' = \kappa_2$, and $g_1 = \bar{\kappa}_2 a''$, so that, for this point
+$$\kappa_2 = \frac{a'(1-a'')}{1-a'a''}\text{ and }\bar{\kappa}_2 = \frac{1-a'}{1-a'a''}$$
+and $[(A'B'')(A''B')] = \frac{(1-a')(1-a'')}{1-a'a''} P + \frac{a'(1-a'')}{1-a'a''} B' + \frac{(1-a')a''}{1-a'a''} B''$
+
+In the same way, for the point $[(B'C'')(B''C')]$ we have the equation
+$$\bar{g}_3 \bar{c}' P + \bar{g}_3 B' + g_3 c'' B'' = \bar{\kappa}_1 \bar{c}' P + \bar{\kappa}_1 c' B' + \kappa_1 B''$$
+that is to say, $\bar{g}_3 \bar{c}'' = \bar{\kappa}_1 \bar{c}'$, $\bar{g}_3 = \bar{\kappa}_1 c'$, $g_3 c'' = \kappa_1$
+whence $\kappa_1 = \frac{c''(1-c')c''}{1-c'c''}$, $\bar{\kappa}_1 = \frac{1-c''}{1-c'c''}$
+[del]whence[/del] and $[(B'C'')(B''C')] = \frac{(1-c')(1-c'')}{1-c'c''} P + \frac{(1-c'')c'}{1-c'c''} B' + \frac{(1-c')c''}{1-c'c''} B''$
+
+In the same way again, for the point $[(C'A'')(A'C'')]$ we have
+$$(\bar{g}_2 \bar{c}' + \bar{g}_2 \bar{a}'') P + \bar{g}_2 c' B' + \bar{g}_2 a'' B'' = (\bar{\kappa}_3 \bar{c}'' + \bar{\kappa}_3 \bar{a}') P + \kappa_3 a' B' + \bar{\kappa}_3 c'' B''$$
+that is to say, $\bar{g}_2 \bar{c}' + \bar{g}_2 \bar{a}'' = \bar{\kappa}_3 \bar{c}'' + \bar{\kappa}_3 \bar{a}'$, $\bar{g}_2 c' = \kappa_3 a'$, $\bar{g}_2 a'' = \bar{\kappa}_3 c''$
+whence $\kappa_3 = \frac{(a''-c'')c'}{a'a''-c'c''}$, $\bar{\kappa}_3 = \frac{(a'-c')a''}{a'a''-c'c''}$
+and $[(C'A'')(A'C'')] = \frac{(a'a''\bar{c}'\bar{c}'' - \bar{a}'\bar{a}''c'c'') P + a'c'(a''-c'') B' + (a'-c')a''c'' B''}{a'a''-c'c''}$
+
+It will now be convenient to call the point $[(A'B'')(A''B')]$ by the single letter $C$
+to call the point $[(B'C'')(B''C')]$ " " " $A$
+and [del]to[/del] [ins]take[/ins] the point $[(C'A'')(C''A')]$ " " " $B$
+
+They are so marked on the diagram. They there appear to lie on one ray. But that may be owing to an inaccuracy of the drawing. To find out whether or not they be so, then if we take any [ins]each of[/ins] the three terms in their expressions in terms of $P, B', B''$ and find out in what proportions the terms, say, in $B''$ have to be multiplied in order that the sum of the products may vanish. Then if the same multipliers will cause the sum of the products of the terms in $B'$ to vanish, it must, necessarily, be that the same will be true of the terms in $P$, since the sum of the coefficients is always $1$. Calling the multipliers $c, a, b$ respectively then, we shall have
+$$c C + a A + b B = 0\text{ where }c+a+b=0$$
+[del]which shows that $A, B, C$, lie on one ray, for then [fig]three points on a line[/fig] = B[/del]
+[del]when[/del] $c = -(a+b)$ and dividing by $a+b$ we get $-C + \frac{a}{a+b} A + \frac{b}{a+b} B = 0$
+or $C = \frac{a}{a+b} A + \frac{b}{a+b} B$, which is the expression of $C$ as a point on $(AB)$.

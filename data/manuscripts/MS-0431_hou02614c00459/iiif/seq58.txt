@@ -1,0 +1,54 @@
+ftv vff vvv
+[fig]figure[/fig] [fig]figure[/fig]
+$\overline{x}\:\overline{y}\:z + x\:y\:\overline{z} + x\:y\:z$
+[del]($\overline{x} + \overline{y} + \overline{z}$)[/del] [del]($x + \overline{y} + \overline{z}$)[/del] [del]($x + y + \overline{z}$)[/del]
+[del]($x + y + \overline{z}$)[/del] [del]($\overline{x} + y + \overline{z}$)[/del]
+($x + \overline{y} + \overline{z}$) ($\overline{x} + y + \overline{z}$) ($\overline{x} + \overline{y} + \overline{z}$)
+($\overline{x} + y + \overline{z}$) ($\overline{x} + \overline{y} + z$)
+$\overline{x}\:\overline{y}$ [ins]$x\:y$[/ins] $\overline{x}\:y$ $x\:\overline{y}$
+$\overline{z}$ [ins]$\overline{z}$[/ins] $\overline{z}$ $\overline{z}$
+
+[del]$\overline{x}\:\overline{y} + \overline{z}$[/del]
+[del]$\overline{x} + \overline{y} + \overline{z}$[/del]
+fvf vff vvv
+$\overline{x}\:\overline{y}\:z + x\:\overline{y}\:z + x\:y\:z$
+[del]($x + y + \overline{z}$)[/del] [del]($x + y + z$)[/del]
+($x + y + \overline{z}$) ($\overline{x} + y + \overline{z}$) ($\overline{x} + \overline{y} + \overline{z}$)
+[fig]figure[/fig]
+($x + y$) ($\overline{z} + x$) ($z + y$)
+
+ffv fvf vvv
+$\overline{x}\:\overline{y}\:z + x\:\overline{y}\:\overline{z} + x\:y\:z$
+[fig]figure[/fig]
+$\overline{x}\:y$ $x\:z$ $x\:\overline{y}$
+($\overline{x} + y$) ($\overline{x} + z$) ($\overline{x} + \overline{y} + z$)
+($x + \overline{y} + \overline{z}$) ($\overline{x} + y + z$)
+
+fvf vff vvv
+$\overline{x}\:\overline{y}\:z + x\:\overline{y}\:z + x\:y\:z$
+[del]($x + y + \overline{z}$)[/del] [del]($x + y + z$)[/del]
+[del]($x + y + z$)[/del] [del]($\overline{x} + y + z$)[/del]
+($\overline{x} + y + z$) ($\overline{x} + \overline{y} + z$)
+($x + \overline{y} + \overline{z}$) ($x + y + \overline{z}$) ($\overline{x} + y + \overline{z}$)
+($x + \overline{y} + \overline{z}$) ($x + y + \overline{z}$) ($\overline{x} + y + \overline{z}$)
+
+($\overline{x} + \overline{y} + z$) ($x + y$) ($x + \overline{z}$) ($y + \overline{z}$)
+$x\:\overline{y}\:z$ [ins]$x\:\overline{y}$[/ins] [ins]$\overline{x}\:z$[/ins] [ins]$y\:\overline{z}$[/ins]
+
+[fig]figure[/fig]
+
+fvf vfv vvf
+$\overline{x}\:\overline{y}\:z + x\:\overline{y}\:\overline{z} + x\:y\:\overline{z}$
+[del]($x + \overline{y} + z$)[/del] [del]($\overline{x} + y + \overline{z}$)[/del]
+[del]($x + y + \overline{z}$)[/del] [del]($x + y + z$)[/del]
+[del]($\overline{x} + \overline{y} + z$)[/del] [del]($x + y + z$)[/del]
+($x + y + \overline{z}$) ($\overline{x} + \overline{y} + z$) ($\overline{x} + y + z$)
+$x\:\overline{z}$ $\overline{x}\:y$ $\overline{x}\:z$
+
+[fig]figure[/fig]
+
+vvf vfv fvv
+$\overline{x}\:\overline{y}\:z + x\:\overline{y}\:z + \overline{x}\:y\:z$
+($x + y$) ($z + x$) ($y + z$)
+$\overline{z}\:\overline{y}$ [del]$\overline{x}$[/del] [ins]$\overline{z}\:\overline{x}$[/ins] [ins]$\overline{x}\:\overline{y}$[/ins]
+[fig]figure[/fig]

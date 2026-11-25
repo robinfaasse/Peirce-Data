@@ -1,0 +1,40 @@
+[fig]Venn-like nested circle diagram[/fig] $\bar{a} + b(\bar{c} + \bar{d})$
+$(\bar{a} + b) \cdot (\bar{a} + \bar{c} + \bar{d})$
+
+[fig]Venn-like nested circle diagram[/fig] $a\ c\ d$
+
+[fig]Several scribbled-out nested circle diagrams[/fig]
+
+[fig]Venn-like nested circle diagram[/fig] $\bar{a} + b[\bar{c} + d(\bar{e} + \bar{f})]$
+
+[fig]Venn-like nested circle diagram[/fig] $\bar{a} + b\{\bar{c} + e \cdot \bar{i} + g \cdot \bar{k}\}\{\bar{d} + f \cdot \bar{j} + h \cdot \bar{l}\}$
+$(\bar{a} + b)(\bar{a} + \bar{c} + e + g)(a + \bar{c} + e + \bar{k})$
+$(\bar{a} + \bar{c} + \bar{e} + g)(\bar{a} + \bar{c} + \bar{e} + \bar{k})$
+$(\bar{a} + \bar{d} + f + h)(\bar{a} + \bar{d} + f + \bar{l})(\bar{a} + \bar{d} + \bar{f} + h)(\bar{a} + \bar{d} + \bar{f} + \bar{l})$
+
+[fig]Venn-like nested circle diagrams with letters[/fig]
+
+---
+
+[fig]Venn-like nested circle diagram[/fig]
+
+[fig]Venn-like nested circle diagram[/fig]
+
+[fig]Venn-like nested circle diagram[/fig]
+
+[fig]Large complex nested circle diagram with letters[/fig]
+
+$w\{\bar{v} + u[\bar{t} + s + r \cdot \bar{q}][\bar{p}(\bar{o} + \bar{n} \cdot \bar{m}) + l(\bar{k} + j)[\bar{i} + h \cdot \bar{g} + f(\bar{e} + d)(\bar{c} + a \cdot b)]]\}$
+
+$\Longrightarrow w \cdot (\bar{v} + u) \cdot (\bar{v} + \bar{t} + s + r) \cdot (\bar{v} + \bar{t} + s + \bar{q}) \cdot (\bar{v} + \bar{p} + \bar{o} + \bar{n})$
+$(\bar{v} + \bar{p} + \bar{o} + \bar{m})$
+$(\bar{v} + \bar{p} + \bar{l})$
+$(\bar{v} + \bar{p} + \bar{k} + j)$
+$(\bar{v} + \bar{p} + \bar{i} + h + f)$
+$(\bar{v} + \bar{p} + \bar{i} + \bar{g} + f)$
+$(\bar{v} + \bar{p} + \bar{i} + h + \bar{e} + d)$
+[del]$(\bar{v} + \bar{p} + \bar{i} + \bar{g} + \bar{e} + d)$[/del]
+$(\bar{v} + \bar{p} + \bar{i} + h + \bar{c} + a)$
+$(\bar{v} + \bar{p} + \bar{i} + h + \bar{c} + b)$
+
+[fig]Venn-like nested circle diagrams with letters[/fig]

@@ -1,0 +1,21 @@
+60r
+
+Now  $f(x+n\Delta) \equiv A_nx + B_n$
+
+The whole proof rested on
+
+$(a+b)^n = a^n + n a^{n-1}b + \text{&c}$
+[ins]Now[/ins] This is true only if [u]$n$[/u] is an integer
+
+$(1+d)^n fx = f(x+nd)$
+Suppose $n$ to be an integer , $\frac{1}{d}$ and $d=0$
+$nd = v$
+
+$f(x+v) \equiv (1 + nd + \frac{n(n-1)}{2}d^2 + \frac{n(n-1)(n-2)}{2.3}d^3 + \text{&c} ) fx$
+
+[del][fig]figure[/fig][/del] which if $n-1=n$ [ins]$\frac{1}{d}-1=$[/ins] [ins]$\frac{n-1}{2} = \frac{n}{2}$[/ins]
+[ins]$n-1 = 2n$[/ins]
+$\equiv (1 + v + \frac{v^2}{2} + \frac{v^3}{2.3} + \text{&c} ) fx$ [ins]$\frac{n^2 d^2}{2} - \frac{1}{2} d^2$[/ins]
+[ins]$\frac{v^2}{2} - \frac{1}{2} d^2$[/ins]
+
+$fx \equiv 1 + x$

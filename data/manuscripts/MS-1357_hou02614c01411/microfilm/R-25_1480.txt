@@ -1,0 +1,11 @@
+[pn](3)[/pn]
+
+[u]§ 6. Horizontally uniform distribution of the load.[/u] When [del]w/x[/del] is
+constant, we may write
+(18) $w' = \kappa x' = Q \tan \tau$.
+Then, (14), independently of the constancy of $\kappa$, gives
+(19) $q = \kappa g \cos^2 \tau \qquad Q = \kappa g \cos^3 \tau = \frac{\kappa}{d^2y/dx^2}$.
+The integration of this gives
+(20) $\begin{cases} \tan \tau = \frac{dy}{dx} = \frac{\kappa x'}{Q} \\ \frac{\kappa y'}{Q} = \frac{1}{2} \left(\frac{\kappa x'}{Q}\right)^2. \end{cases}$
+[del]Then, putting[/del] This is the equation of a parabola with vertical axis. [del]Putting[/del] [ins]Setting[/ins]
+(21) $\begin{cases} u = \log \tan (45^\circ + \frac{1}{2}\tau), \\ \frac{\kappa s'}{Q} = \frac{1}{2} \tanh u + \frac{1}{2} u = \frac{1}{2} \sin \tau + \frac{1}{2} \log \tan (45^\circ + \frac{1}{2}\tau) \\ \frac{\kappa s}{Q} = \sec^3 \tau \end{cases}$

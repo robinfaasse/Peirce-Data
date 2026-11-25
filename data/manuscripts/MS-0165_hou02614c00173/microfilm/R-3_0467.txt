@@ -1,0 +1,21 @@
+[pn]221[/pn]
+
+Then there must be one real root $>1$ and another
+$<-1$ unless $-1$ is an equal root. For the larger one
+try $x=2$. This gives
+$y = 32 - 152 + 136 + 24 - 40 = 0$
+So that $+2$ is a root. We try $x=-2$, and find
+$y = -32 + 152 + 136 - 24 - 40 = +192$
+This is so very large, that we are inclined to try next
+$x=-5$ [del]and[/del] [ins]leaving[/ins] [del]another[/del] $x=-4$ for subsequent trial. For [u]$x=-5$[/u] we
+have
+$y = -3125 + [del]1875[/del] [ins]+2375[/ins] + 850 - 60 - 40 = 0$.
+Thus $-5$ is a root. The equation is thus divisible by
+$(x+5)(x+1)(x-2) = x^3 + 4x^2 - 7x - 10$
+We perform the division
+$x^3+4x^2-7x-10) \begin{array}{l} x^5 - 19x^3 + 34x^2 + 12x - 40 \\ \underline{x^5 + 4x^4 - 7x^3 - 10x^2} \end{array} (x^2 - 4x + 4$
+$\begin{array}{r} -4x^4 - 12x^3 + 44x^2 \\ \underline{-4x^4 - 16x^3 + 28x^2 + 40x} \\ +4x^3 + 16x^2 - 28x - 40 \\ \underline{+4x^3 + 16x^2 - 28x - 40} \\ 0 \end{array}$
+
+Now $x^2 - 4x + 4 = 0$ gives $x = 2 \pm \sqrt{4-4}$. That is, there are
+2 more [del]equal[/del] [ins]roots[/ins] equal to 2. Hence the equation is
+$(x+5)(x+1)(x-2)^3 = 0$.

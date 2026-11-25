@@ -1,0 +1,38 @@
+[pn]225r[/pn]
+[del]alone. Now anything may be represented as one.[/del]
+
+To say that $A$ and $B$ are a pair is simply to say
+that they exist and are opposed in existence.
+
+$$\Pi_{i}\Pi_{j} \{ p_{ij} = \Sigma_{u}\Sigma_{v} [del]l_{iu} l_{jv}[/del] \cdot T_{uv} \}$$
+
+[del]This is better expressed by writing[/del]
+
+$$\Pi_{i}\Pi_{j} \Sigma_{a} [del]\Sigma_{b} \Sigma_{c}[/del] \{ \bar{p}_{aij} + \bar{o}_{i} \cdot \bar{o}_{j} \cdot T_{ij} \} \cdot \{ o_{i} + o_{j} + [del]l_{ij}[/del] + p_{aij} \}$$
+
+or more simply
+
+$$\Pi_{i}\Pi_{j} \Sigma_{a} \{ \bar{p}_{aij} + T_{ij} \} \cdot \{ p_{aij} + \bar{T}_{ij} \}$$
+
+Therefore $\Sigma_{a} p_{aij} = T_{ij}$ or $\Sigma_{a} p_{a} = T_{u}$ [fig]Two diagrams showing points connected by lines and enclosed in curves[/fig]
+
+Consequently since $T_{ij} = T_{ji}$
+it follows that [del]p_{aij} = p_{aji}[/del] (?) [ins]$[del]\text{or only } \Sigma_{a} p_{aij} = \Sigma_{a} p_{aji}[/del]$[/ins]
+
+The [del]couple[/del] [ins]pair[/ins] of logic is [del]different[/del] [ins]other than[/ins] [del]the[/del] [ins]that[/ins] pair of
+[del]Here[/del] [ins]mathematics[/ins]
+
+[del]$p_{aij}$ and $p_{aji}$[/del]
+are different propositions but [del]their[/del]
+$\Sigma_{a} c_{aij}$ does not [del]assert anything whatever since[/del]
+
+$\Pi_{i}\Pi_{j} \Sigma_{a} c_{aij}$ is always true.
+
+To say that $i$ and $j$ [del]and[/del] form a pair and $k$ and $l$ another
+quite different pair is to say, using $e_{\alpha\beta}$ to mean that $\alpha$ and $\beta$
+are mutually exclusive pairs.
+
+[del]$\Sigma_{\alpha}\Sigma_{\beta} \Pi_{i}\Pi_{j}\Pi_{k}\Pi_{l} \Sigma_{a}\Sigma_{b} \{ \bar{p}_{aij} + \bar{p}_{bkl} + \bar{e}_{\alpha\beta} \}$[/del]
+
+$$T_{ij} \cdot T_{kl} \cdot \bar{T}_{ik} \cdot \bar{T}_{jl} \cdot \bar{T}_{il} \cdot \bar{T}_{jk}$$
+$$= \Sigma_{\alpha}\Sigma_{\beta} p_{\alpha ij} \cdot p_{\beta kl} \cdot e_{\alpha\beta}$$

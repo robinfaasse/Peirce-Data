@@ -1,0 +1,19 @@
+This will be very nearly
+$$y' = \sqrt{1-x^2} - \frac{x}{\sqrt{1-x^2}} d - \frac{1}{2} \frac{d^2}{(1-x^2)^{3/2}}$$
+For the square of this is
+$$y'^2 = 1-x^2 - 2xd - [del]\# \frac{d^2}{\sqrt{1-x^2}}[/del]$$
+$$+ \frac{x^2 d^2}{1-x^2} + \text{etc.}$$
+$$= 1-x^2 - 2xd - d^2 + \text{etc}$$
+
+I write "etc." to indicate very small terms. If we
+take d small enough, we can make $d^2$ as much
+smaller than $2xd$ as we please, and other quantities still smaller
+
+For this very little distance the arc $PP'$ is straight.
+Hence
+$$(PP')^2 = [del]d[/del] d^2 + (y'-y)^2$$
+$$=$$
+
+$$\sqrt{1-x^2} - \frac{x}{\sqrt{1-x^2}} d + (x+d) i$$
+
+$$1 + \frac{d}{\sqrt{1-x^2}}$$

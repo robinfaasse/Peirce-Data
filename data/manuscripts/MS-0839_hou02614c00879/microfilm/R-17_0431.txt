@@ -1,0 +1,21 @@
+$$\begin{vmatrix}
+r \cos \theta & r \sin \theta & 1 \\
+r_1 \cos \theta_1 & r_1 \sin \theta_1 & 1 \\
+r_2 \cos \theta_2 & r_2 \sin \theta_2 & 1
+\end{vmatrix} = 0$$
+
+$$r \cos \theta (r_1 \sin \theta_1 - r_2 \sin \theta_2) + r \sin \theta (r_2 \cos \theta_2 - r_1 \cos \theta_1) + [del]r_1 r_2 \cos \theta_1 \sin \theta_2[/del] [ins]r_1 r_2 \sin (\theta_1 - \theta_2)[/ins] = 0$$
+
+$$r r_1 \sin (\theta_1 - \theta) + r r_2 \sin (\theta - \theta_2) + r_1 r_2 \cos (\theta_1 + \theta_2) = 0$$
+
+If $r = \infty$ [u]$\tan \theta = \frac{r_1 \sin \theta_1 - r_2 \sin \theta_2}{r_1 \cos \theta_1 - r_2 \cos \theta_2}$[/u] $\frac{\sin (\theta + 90^\circ)}{\cos (\theta + 90^\circ)} = - \frac{\cos \theta}{\sin \theta} = - \cot \theta$
+
+For the perpendicular
+
+[u]$$\sec^2 \theta = \frac{\sqrt{r_1^2 + r_2^2 - 2 r_1 r_2 \cos (\theta_1 - \theta_2)}}{r_1 \cos \theta_1 - r_2 \cos \theta_2}$$[/u]
+
+[u]$$\sin \theta = \frac{r \sin \theta}{\sqrt{r_1^2 + r_2^2 - 2 r_1 r_2}}$$[/u]
+
+[fig]Geometric diagram with triangles and arcs[/fig]
+[fig]Geometric diagram with triangles and arcs[/fig]
+[fig]Geometric diagram with triangles and arcs[/fig]

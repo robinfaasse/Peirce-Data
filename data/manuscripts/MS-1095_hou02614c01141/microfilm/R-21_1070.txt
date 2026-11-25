@@ -1,0 +1,22 @@
+```
+[pn]265[/pn] [pn]1467[/pn]
+
+[del](n_d - n_u) { (T_d + T_u)/2 + \sigma/s (T_d - T_u)/2 }[/del]
+
+= n_d / (1 + \sigma/s) T_d/2 - n_u / (1 - \sigma/s) T_u/2
++ [del]n_u[/del] / (1 + \sigma/s) T_d/2
+
+= n_d T_d - n_u T_u
+- n_d / (1 - \sigma/s) T_d/2 + n_u / (1 + \sigma/s) T_u/2
++ n_d / (1 - \sigma/s) T_u/2 - n_u / (1 + \sigma/s) T_d/2
+
+= n_d T_d - n_u T_u + 1/2 ( n_d \delta - \sigma / s + n_u \delta + \sigma / s ) (T_u - T_d)
+
+n_u h_d - n_d h_u / h_d - h_u
+
+( n_u / h_u - n_d / h_d ) h_d h_u / h_d - h_u
+
+[fig]Two intersecting lines with a point marked at the intersection[/fig]
+
+1/2 { (n_d + n_u) - \sigma/s (n_d - n_u) } (T_u - T_d)
+```

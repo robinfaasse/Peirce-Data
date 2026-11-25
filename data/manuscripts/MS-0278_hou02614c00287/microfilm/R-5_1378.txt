@@ -1,0 +1,58 @@
+[fig]Waveform diagram with binary labels[/fig]
+
+0 0 1 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0 1
+
+$$\begin{array}{r|l}
+5 + 2j & 0.1 \\
++ 3j & 0.0.1 \\
+\hline 5 + 5j & 0.0.0.1.1
+\end{array}$$
+
+$$\frac{1}{31} \times \frac{1}{3} = \frac{1}{93} = \frac{11}{1023}$$
+
+0.0.0.0.1
+0.1.
+
+$$\begin{array}{r}
+31 \\
+\times 3 \\
+\hline 93
+\end{array}$$
+
+$$\frac{31.33}{1023}$$
+
+$$\frac{11}{1023}$$
+
+$$\frac{1}{31} = \frac{33}{1023}$$
+
+$$\frac{1}{3} = \frac{341}{1023}$$
+
+$$\begin{array}{r}
+341 \\
+\times 3 \\
+\hline 1023
+\end{array}$$
+
+$$\begin{array}{r}
+341 \\
+\times 3 \\
+\hline 1023
+\end{array}$$
+
+0.1
+
+$$\begin{array}{r}
+341 \\
+\times 3 \\
+\hline 1023
+\end{array}$$
+
+$$\begin{array}{r}
+341 \\
+\hline 1023
+\end{array}$$
+
+0 0 0 0 0 0 | 0 0 0 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 0 0 | 0 0
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1
++ - + - + -
+1 1 1 1 1 1

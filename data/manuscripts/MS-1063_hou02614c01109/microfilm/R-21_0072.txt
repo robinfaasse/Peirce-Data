@@ -1,0 +1,37 @@
+[fig]Two intersecting lines and a curve[/fig] [fig]A narrow triangle[/fig]
+
+[pn]12[/pn]
+
+$j_2 = a i + b l$
+$h_2 = c i + d k$
+$k_2 = e j + f k$
+$l_2 = g i + h l$
+
+$h_2^2 = a^2 i + [del]b^2[/del] [ins]c^2[/ins] k$
+$l_2^2 = g^2 i + h^2 l$
+$j_2^2 = a g i + b h l$
+$h_2^2 = a g [del]i[/del] + [del]b h l[/del]$
+
+$j_2 = i + l$
+$l_2 = i - l$
+
+$j_2 = j + G^{\theta \sqrt{-1}} k$
+$j_2 = G^{\theta \sqrt{-1}} j + G^{\theta \sqrt{-1}} k$
+$k_2 = G^{\theta \sqrt{-1}} j - G^{-\theta \sqrt{-1}} k$
+
+$D_t r = 0$
+
+$D_t^2 \int =$
+$D_t^2 r = -\frac{m}{r^2}$
+
+$C r = -2m$
+
+$D_r (D_t r)^2 = [del]D_t^2 + D_t^2 r \frac{d}{dr}[/del]$
+
+$D_r (D_t r)^2 = -2 \frac{m}{r^2}$
+
+$(D_t r)^2 = +2m \frac{1}{r} + C$
+
+$[del](D_t r) = \sqrt{}$[/del]
+
+$D_t r = \frac{1}{\sqrt{C + 2m \frac{1}{r}}}$

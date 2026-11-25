@@ -1,0 +1,31 @@
+[pn]15[/pn]
+
+[u]La logique de la quantité[/u]
+
+$[q_{mu_1} + q_{mu_1}' p_i \cdot p_{i'} \cdot (q_{nv_1} \cdot r_{iu_1v_1} + q_{nv_2} \cdot r_{iu_1v_2} + q_{nv_3} \cdot r_{iu_1v_3} + \text{etc.})]$
+$[q_{mu_2} + q_{mu_2}' p_i \cdot p_{i'} \cdot (q_{nv_1} \cdot r_{iu_2v_1} + q_{nv_2} \cdot r_{iu_2v_2} + q_{nv_3} \cdot r_{iu_2v_3} + \text{etc.})]$
+$[q_{mu_3} + q_{mu_3}' p_i \cdot p_{i'} \cdot (q_{nv_1} \cdot r_{iu_3v_1} + q_{nv_2} \cdot r_{iu_3v_2} + q_{nv_3} \cdot r_{iu_3v_3} + \text{etc.})] \cdot \text{etc.}$
+
+Tous les [u]u[/u] qui n'appartiennent pas à la collection [u]m[/u] feront $q_{mu} = 0$
+et ne laisseront continuer le produit que par le terme $q_{mu}'$. Tous les [u]v[/u]
+qui n'appartiennent pas à la collection [u]n[/u] feront disparaître leurs
+$q_{nv}$, et chaqu'un rayera une colonne de l'arrangement en haut.
+Puisque nous avons $\Sigma_i$ dans la partie quantifiante, nous sommes libres
+de choisir $i$ le mieux possible pour ne pas [del]faire[/del] laisser disparaître
+le résultat. Imaginons l'expression développée par la formule distri-
+butive. Cela donnera toute combinaison formée d'un terme de chaque
+ligne. Mais le facteur $p_i p_{i'}$ aura l'effet de détruire toute com-
+binaison qui contient deux fois la même $v$, c'est-à-dire qui tire
+deux fois de la même colonne. S'il y a une combinaison qui tire
+de chaque ligne sans tirer deux fois de la même colonne, cette com-
+binaison reste et sauve la possibilité de la proposition. S'il n'y
+en a point, la proposition est impossible.
+
+Maintenant nous pouvons exprimer tout cela, moins clairment mais
+plus correctement, sans l'assomption illogique d'une énumération
+des individus. S'il y [del]a une collection de paires, chaque [u]m[/u] sujet de [u]m[/u] a un[/del]
+[del]sujet de [u]n[/u], telle que chaque [u]v[/u] qu'à chaque sujet de [u]n[/u] qu'un seul sujet[/del]
+[del]de [u]m[/u] est dans cette relation, la proposition est possible, autrement[/del]
+[del]pas[/del]. S'il y a parmi toutes les relations du genre $p_i p_{i'}$ une [ins]seule[/ins]
+(ou plusieurs) qui n'a pas un [del]relatum[/del] [ins]correlatum[/ins] hors les sujets de [u]n[/u] et qui a
+tous les [del]correlata[/del] sujets de [u]m[/u] parmi ses relata, la proposition est possible

@@ -1,0 +1,21 @@
+$$\cos^{2}\gamma'' + \cos^{2}\gamma' = \cos^{2}\omega_{2}$$
+or $\cos^{2}\gamma'' - \cos^{2}\gamma = \cos^{2}\omega_{2} - \cos^{2}\omega_{1}$
+
+If on the third geodesic we continue a little beyond $\omega_{2}$
+we have
+$$ds'' = \frac{a e \sin\gamma''}{\sin\theta''} \Delta\varphi_{2}'' d\varphi_{2}''$$
+where $\Delta\varphi_{2}'' = \sqrt{1 - \sin^{2}\theta'' \cdot \sin^{2}\varphi_{2}''}$
+$$\tan\theta'' = \frac{a e \sin\gamma''}{b}$$
+$$\cot\theta'' = \frac{b}{a e \sin\gamma''}$$
+$$\csc\theta'' = \frac{\sqrt{b^{2} + a^{2}e^{2}\sin^{2}\gamma''}}{a e \sin\gamma''}$$
+$$\sin\theta'' = \frac{a e \sin\gamma''}{\sqrt{b^{2} + a^{2}e^{2}\sin^{2}\gamma''}}$$
+$$\cos\varphi_{2}'' = \frac{\sin\omega_{2}}{\sin\gamma''}$$
+$$\sin^{2}\varphi_{2}'' = 1 - \frac{\sin^{2}\omega_{2}}{\sin^{2}\gamma''}$$
+$$\sin^{2}\theta'' \sin^{2}\varphi_{2}'' = a^{2}e^{2} \frac{\sin^{2}\gamma'' - \sin^{2}\omega_{2}}{b^{2} + a^{2}e^{2}\sin^{2}\gamma''} = a^{2}e^{2} \frac{\cos^{2}\omega_{2} - \cos^{2}\gamma''}{b^{2} + a^{2}e^{2}\sin^{2}\gamma''}$$
+$$1 - \sin^{2}\theta'' \sin^{2}\varphi_{2}'' = \frac{b^{2} + a^{2}e^{2}\sin^{2}\omega_{2}}{b^{2} + a^{2}e^{2}\sin^{2}\gamma''}$$
+$$d\varphi_{2}'' = - \frac{d\cos\varphi_{2}''}{\sin\varphi_{2}''} = \frac{\cos\omega_{2} \cdot d\omega_{2}}{\sin\gamma'' \sqrt{1 - \frac{\sin^{2}\omega_{2}}{\sin^{2}\gamma''}}} = \frac{\cos\omega_{2}}{\sqrt{\sin^{2}\gamma'' - \sin^{2}\omega_{2}}} d\omega_{2}$$
+$$ds'' = \frac{\sqrt{b^{2} + a^{2}e^{2}\sin^{2}\omega_{2}}}{\sqrt{\quad}}$$
+
+[del]$$\cos^{2}\omega = \cos^{2}\gamma' + \cos^{2}\gamma$$
+$$2 \cos\omega \sin\omega d\omega = 2 \cos\gamma' \sin\gamma' d\gamma'$$
+$$\sqrt{1 - \cos^{2}\gamma' - \cos^{2}\gamma}$$[/del]

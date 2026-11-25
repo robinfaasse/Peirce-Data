@@ -1,0 +1,51 @@
+$$\cos x = \sin (\frac{\pi}{2} - x)$$
+
+$$\sin (x-y) = \sin x \cos y - \cos x \sin y$$
+
+$$\text{Put } y = 0$$
+
+$$\sin x = \sin x \cdot \cos 0 - \cos x \cdot \sin 0$$
+
+$$\therefore \cos 0 = \sin \frac{\pi}{2} = 1 \quad \sin 0 = \cos \frac{\pi}{2} = 0$$
+
+$$\text{Put } x = 0$$
+
+$$\sin (-y) = -\sin y$$
+
+$$\text{[del]Put } y = -x[/del]$$
+
+$$\text{[del]}\sin (x+y) = \sin x \cos[/del]$$
+
+$$\text{[del]Put } x = \frac{\pi}{2}[/del]$$
+
+$$\text{[del]}\cos y =[/del]$$
+
+$$\text{[del]Put } x = \frac{\pi}{2} - x[/del]$$
+
+$$\cos (y+z) = \cos y \cos z - \sin y \sin z$$
+
+$$\cos (y-z) = \cos y \cos z + \sin y \sin z$$
+
+$$\text{Put } y = x \quad 1 = \cos^2 y + \sin^2 y$$
+
+$$\text{Put } y = 0$$
+
+$$\cos (-z) = \cos z$$
+
+$$\therefore \sin (y+y) = \sin y \cos y + \cos y \sin y$$
+
+$$\sin 2y = 2 \sin y \cos y$$
+
+$$\cos 2y = \cos^2 y - \sin^2 y$$
+
+$$\sin \pi = 0 \quad \cos \pi = -1$$
+
+$$\sin \frac{3\pi}{2} = -1 \quad \cos \frac{3\pi}{2} = 0$$
+
+$$\sin 2\pi = 0 \quad \cos 2\pi = 1$$
+
+$$\sin (\frac{\pi}{2} + x) = \cos x \quad \cos (\frac{\pi}{2} + x) = -\sin x$$
+
+$$\sin (\pi + x) = -\sin x \quad \cos (\pi + x) = -\cos x$$
+
+$$\sin (2\pi + x) = \sin x \quad \cos (2\pi + x) = \cos x$$

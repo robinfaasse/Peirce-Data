@@ -1,0 +1,77 @@
+[marginalia]Monson's Bridge 1898 Sep 23[/marginalia]
+
+$$\delta x_{2} - \delta x_{1} = \frac{-(\beta_{2} + \lambda_{1})\heartsuit - \kappa_{1}\heartsuit - (\alpha_{2}\lambda_{1} + \frac{1}{\Lambda'_{2}})\delta x_{1} - \beta_{2}\kappa_{1}\delta y_{1}}{\frac{1}{\Lambda'_{2}} + [g_{i}] + \alpha_{2}\lambda_{1} + \beta_{2}\kappa_{1}}$$
+
+[marginalia]
+[fig]Calculation scratchpad[/fig]
+[/marginalia]
+
+$$\begin{array}{rcc}
+\frac{1}{\Lambda'_{2}} = & 20. & \\
+[g_{i}] = & .186 & -(\beta_{2} + \lambda_{1}) \\
+\alpha_{2}\lambda_{1} = & .3766 & \heartsuit \\
+\beta_{2}\kappa_{1} = & 30.2548 & \\
+\hline & 50.8174 & \\
+= 1 / 0.0196783 &
+\end{array}
+\begin{array}{r}
+-101.883 \\
++03.02 \\
+\hline -3.02 \\
+302 \\
+267 \\
+\hline -3.077
+\end{array}
+\begin{array}{rl}
+-\kappa_{1} = & 0.445 \\
+\heartsuit = & -0.192 \\
+\hline + & 0.0854
+\end{array}$$
+
+$$\begin{array}{rcc}
+-(\alpha_{2}\lambda_{1} + \frac{1}{\Lambda'_{2}}) & -20.3766 & -\beta_{2}\kappa_{1} \\
+\delta x_{1} & -.00407 & \delta y_{1} \\
+\hline & +.0814 & \\
+& \frac{15}{+.0829} &
+\end{array}
+\begin{array}{l}
+-44.5 \\
+-.0777 \\
+\hline +3.46
+\end{array}$$
+
+$$\begin{array}{r}
++0.0854 \\
++0.0829 \\
++3.46 \\
+\hline +3.63 \\
+-3.08 \\
+\hline +0.55
+\end{array} \searrow -3.077$$
+
+[marginalia]
+19678
+9839
+984
+10823
+[/marginalia]
+
+$$\begin{array}{rl}
++0.0108 & \delta x_{2} - \delta x_{1} \\
+-0.0041 & \delta x_{1} \\
+\hline +0.0067 & \delta x_{2}
+\end{array}$$
+
+about half of what it ought to be
+
+It is hard to believe this is due to errors of
+computing, unless it be back in preparing (28) (29)
+However, it just just possible $\delta x_{1}$ is not rightly calculated
+
+If one write (28) and (29)
+$$\begin{array}{cc}
+a_{1}\delta x_{1} + b_{1}\delta y_{1} + n_{1} = 0 & \frac{a_{1}}{b_{1}}\delta x_{1} + \delta y_{1} + \frac{n_{1}}{b_{1}} = 0 \\
+a_{2}\delta x_{1} + b_{2}\delta y_{1} + n_{2} = 0 & \frac{a_{2}}{b_{2}}\delta x_{1} + \delta y_{1} + \frac{n_{2}}{b_{2}}
+\end{array}$$
+
+$$\delta x_{1} = \frac{n_{1}/b_{1} - n_{2}/b_{2}}{a_{2}/b_{2} - a_{1}/b_{1}}$$

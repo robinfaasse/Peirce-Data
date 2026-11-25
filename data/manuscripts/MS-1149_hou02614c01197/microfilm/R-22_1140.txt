@@ -1,0 +1,54 @@
+Galton's Natural Inheritance Table XIX. I shall try the hypothesis that
+the [del]probability[/del] [ins]odds in favor[/ins] of having light eyes [del]is[/del] [ins]would be[/ins] equal to [del]763[/del] [ins]763[/ins]/237 when
+the parents and also the grandparents should be each numerically
+light to non light eyed in the ratio 565/312 (Of course such a ratio is
+impossible). I shall further suppose that the odds in favor of a
+child having light eyes (if we write [u]x[/u] for 1-x, [u]y[/u] for 1-y, [u]z[/u] for 1-z) is
+[del][fig]crossed out formula[/fig][/del] [ins]x^m [u]y[/u]^n [u]z[/u]^v / [u]x[/u]^m y^n z^v[/ins]
+[del]where[/del] or when m is the number of light eyed parents, n that of grandparents, or
+[del]ξ^m η^n ζ^v[/del]
+where ξ = x/1-x, η = (y/1-y)^2, ζ = (z/1-z)^2, μ = m-1, ν = n-2
+So that log odds in favor of light eyes = log ξ + (m-1) log η + (n-2) log ζ
+or putting Ξ for log ξ H for log η Z for log ζ P for log light eyed - log dark eyed
+P = Ξ + μ H + ν Z
+When m = 1.376 = 2(0.688) μ = 0.376 n = 2.752 (= 4 x 0.688) ν = 0.752 = 2μ
+P = Ξ + 0.376 (H + 2Z) = log 763/237 = 8825 - 3747 = .5078
+Adopting this absolutely Ξ = .5078 - 0.376 (H + 2Z)
+P = .5078 + (μ - 0.376) H + (ν - .752) Z
+or putting H + 2Z = K P = .5078 + (m - 1.376) K + (n - 2m) Z
+The table furnishes 8 equations of condition to determine K and Z
+
+[fig]curly bracket grouping equations[/fig]
+- 1.376 K + Z = [del]4540[/del] - 0.7297 [ins]2744[/ins] [ins]+1.0041[/ins] [ins]8142/5416[/ins] [ins]6490/5278[/ins] [ins]5740/7959[/ins] [ins]6025/7245[/ins]
+- .376 K - Z = - 0.6748 [ins]+.2537[/ins] [ins]+2726[/ins] [ins]1912/5078[/ins] [ins]-2219/-5078[/ins] [ins]-1670/-5078[/ins]
+- 1.376 K + 2Z = [del]0.5078[/del] [ins]+.6987[/ins] [ins]-2352[/ins] [ins]5078/5078[/ins] [ins]3010/5078[/ins] [ins]2297/9.9836[/ins] [ins]-6748[/ins]
+- .376 K = x - 0.2352 [ins]+ 884[/ins] [ins]9.9657[/ins] [ins]8488/4683[/ins] [ins]8.5682/1.4154[/ins]
++ .624 K - 2Z = + 0.9076 [ins]5613[/ins] [ins]8.8808[/ins] [ins]+3805[/ins] [ins]-5078[/ins] [ins]5078[/ins]
++ 0.376 K + Z = x - 0.1273 [ins]+1.0849[/ins] [ins]-5078[/ins] [ins].9076[/ins]
++ 0.624 K - Z = x + 0.5771 [ins]21.76+3601/5771[/ins] [ins]1273[/ins]
++ 0.624 K = x + 0.7802 [ins]+4868[/ins] [ins]2734/7802[/ins] [ins]8142/5416[/ins] [ins]1.9782/6902[/ins] [ins]2880/5078[/ins]
+
+2 (1.376)^2 = 3.787
+3 (.624)^2 = 1.168
+3 (.376)^2 = 0.424
+5.379
+
+-1.376
++ .376 - (1.376)2
+- (.624)2
++ 624 x -1.376
+1.376
+[del]4.128[/del] [ins]4.752[/ins]
+
+S
+-
+-
+-
+-
+-
+12
+
+5.379 K - 4.752 Z = 3.5060 - 2.198
+- 4.752 K + 12 Z = [del]3.5010[/del] [ins]0.7802[/ins]
+[del]1.8818[/del] [ins]1.8818[/ins] K + 4.752 Z = -1.42168
+3.4972 K = 2.08432 K = .5959967

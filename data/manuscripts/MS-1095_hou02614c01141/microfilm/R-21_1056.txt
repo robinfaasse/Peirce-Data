@@ -1,0 +1,16 @@
+$$\frac{d}{d\eta} = S \frac{d}{dr} + T \frac{d}{d\theta}$$
+
+$$S \sin(\theta-\theta_1) + Tr \cos(\theta-\theta_1) = 0$$
+$$S \cos(\theta-\theta_1) - Tr \sin(\theta-\theta_1) = 1$$
+
+$$S = \cos(\theta-\theta_1)$$
+
+$$Tr = -\sin(\theta-\theta_1)$$
+
+$$\frac{d}{d\eta} = \cos(\theta-\theta_1) \frac{d}{dr} - \frac{1}{r} \sin(\theta-\theta_1) \frac{d}{d\theta}$$
+
+$$\frac{d^2}{d\eta^2} = \cos^2 \frac{d^2}{dr^2} + \frac{1}{r^2} \sin \cos \frac{d}{d\theta} - 2 \frac{1}{r} \sin \cos \frac{d^2}{dr d\theta}$$
+
+$$+ \frac{1}{r} \sin^2 \frac{d}{dr} [del]- \frac{1}{r} \sin \cos[/del] + \frac{1}{r^2} \sin \cos \frac{d}{d\theta}$$
+
+$$+ \frac{1}{r^2} \sin^2 \frac{d^2}{d\theta^2} = [del]\cos^2(\theta-\theta_1) \frac{d^2}{dr^2}[/del]$$

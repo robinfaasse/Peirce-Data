@@ -1,0 +1,54 @@
+[pn]239r[/pn]
+
+[marginalia][date]1903 July 10[/date][/marginalia]
+
+[u]Endless Nests of Loops[/u]
+
+[fig]Nested loops with letters a, x, and negation bars[/fig]
+
+[del]x =[/del]
+
+x = [u]a[/u] + [u]x[/u]  The graph asserts nothing
+[del]x = i.e. (a x + x = 0 since x < x so that it must be true[/del] While a must be absurd
+[u]x[/u] = a x
+
+x = [u]a[/u] + a x
+[u]x[/u] = a ([u]a[/u] + [u]x[/u])
+
+[fig]Venn diagram with shaded regions[/fig]
+[fig]Venn diagram with shaded regions[/fig]
+
+[fig]Venn diagram with shaded regions[/fig]
+[fig]Venn diagram with shaded regions[/fig]
+
+[del]x < a + x[/del]
+[del]a < x[/del] [del]x < x[/del]
+
+[del]oo = a x + a x[/del]
+[del]x = a + x[/del]
+[del]x = x + x = a + x + x = oo[/del]
+[del]oo = x + x = a + x[/del]
+x = [u]a[/u] + a ([u]a[/u] + a ([u]a[/u] + [del]x[/del]
+
+x = [u]a[/u] + a x
+[u]a[/u] < x  x < a + x
+[u]x[/u] a = [del]x[/del]
+
+[fig]Nested loops with letters a, b, x, and negation bars[/fig]
+
+[del]x = a + b x[/del]  x = [u]a[/u] + [u]b[/u] ([u]a[/u] + b x)
+
+[del]0 = a x[/del]
+[u]b[/u] x = [u]a[/u] [u]b[/u]
+
+[fig]Venn diagram with shaded regions[/fig]
+
+[fig]Nested loops with letters a, b, c, x, and negation bars[/fig]
+
+[fig]Three-circle Venn diagram with shaded intersection[/fig]
+[fig]Venn diagram with multiple intersecting lines and shaded regions[/fig]
+
+x = [u]a[/u] + [u]b[/u] ([u]c[/u] + [u]x[/u])
+0 = [u]a[/u] x
+0 = [u]b[/u] [u]c[/u] x
+0 = [u]b[/u] [u]x[/u]

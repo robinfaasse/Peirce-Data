@@ -1,0 +1,23 @@
+[marginalia]Peirce[/marginalia]
+
+There is just one point[ins]<sup>x</sup>[/ins], which will
+satisfy the two equations
+[tab] (x, A, B, C) = 0 and (x X D E) = 0
+unless
+[tab] (A B C D) = 0 and (A B C E) = 0
+when every point that satisfies
+(x X D E) = 0 satisfies (x A B C) = 0
+
+From (A B C D) = 0 and (A B C E) = 0
+we have (A B D E) = 0
+From this and (A X D E) = 0 [ins][u](at once from (x X D E) = 0)[/u][/ins]
+we have (x A B D) = 0
+From this and (A B C D) = 0
+we have (x A B C) = 0
+
+That is if [del](A B C D) = 0[/del]
+and that is if
+[tab] (x, A B D) = 0 (x X D E) = 0
+[tab] (y A B C) = 0 (y Y D E) = 0
+we can eliminate A B C D E and get
+[tab] (x y Z Z) (A B C D) = 0

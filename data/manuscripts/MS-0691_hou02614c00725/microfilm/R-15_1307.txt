@@ -1,0 +1,23 @@
+[marginalia]
+[del]Seneferu[/del] Plumbiferous
+[/marginalia]
+
+[fig]Horizontal line with two short vertical ticks[/fig]
+
+* [del]White[/del]
+* White ivory $p$ $q$
+* White not ivory $p'$ $q'$
+* Ivory not white $p''$ $q''$
+* Not ivory not white $p'''$ $q'''$
+
+$\frac{p}{q} \cdot \frac{p'}{q+q'} \cdot \frac{p''}{q+q''} = \frac{\frac{p}{p+p'} \cdot \frac{p}{p+p''}}{\frac{p}{p+p'} + \frac{p}{p+p''}}$
+
+$\frac{p+p'}{q+q'} \times \frac{p+p''}{q+q''} = \frac{p}{q}$
+
+[del]$q$[/del] $(p+p')(p+p'') = p(q+q')(q+q'')$
+
+$p^2 + pp' + pp'' + p'p'' = pq^2 + pq q' + pq q'' + pq'q''$
+
+$p + p' + p'' + \frac{p'p''}{p} = q + q' + q'' + \frac{q'q''}{q}$
+
+$\frac{(1+\frac{p'}{p})(1+\frac{p''}{p})}{(1+\frac{q'}{q})(1+\frac{q''}{q})} = \frac{q}{p} \ \ \left| \ \ \frac{\frac{p}{p+p'} \cdot \frac{p}{p+p''}}{\frac{q}{q+q'} \cdot \frac{q}{q+q''}} = \frac{p}{q} \right.$

@@ -1,0 +1,13 @@
+must have some angle not reëntrant, for if all
+[del]turn one way[/del] none are reëntrant. The two
+[del]angles[/del] [ins]some[/ins] next to a [del]non-[/del] [ins]non-reëntrant[/ins] angle
+can be joined by a diagonal so as to cut the
+polygon in two. Hence, the polygon may be
+so cut into triangles. Let $M$ be the number
+of them. Then $M-1$ is the number of cuts.
+$2(M-1) + N$ is the total number of angles,
+which is also $3M$. Thus, $M = N-2$. Since
+each triangle has [del]2[/del] [del]180°[/del] $180^\circ$ for the sum of
+its angles, the sum of all is $N \times 180^\circ - 360^\circ$,
+which is the sum of the angles of the original
+polygon.

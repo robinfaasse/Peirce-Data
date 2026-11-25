@@ -1,0 +1,21 @@
+$\underline{m}$ corresponds to $x = \frac{1}{2}\delta$. This is therefore the true
+value of $m$. Making then $x = \frac{1}{2}\delta$
+
+$-\frac{1}{2} \cdot 10^{-N} = \frac{1}{2} [ \log \sin (m + \frac{1}{2}\delta) - \log \sin (m - \frac{1}{2}\delta) ] + \log \sin (m - \frac{1}{2}\delta) - \log \sin m$
+$= \frac{1}{2} [ \log \sin (m + \frac{1}{2}\delta) + \log \sin (m - \frac{1}{2}\delta) ] - \log \sin m$
+
+Doubling and taking the anti logarithm
+
+$10^{-10^{-N}} = \sin (m + \frac{1}{2}\delta) \sin (m - \frac{1}{2}\delta) \div \sin^{2} m$
+
+$\sin^{2} m 10^{-10^{-N}} = \sin^{2} m \cos^{2} \frac{1}{2}\delta - \cos^{2} m \sin^{2} \frac{1}{2}\delta$
+
+$10^{-10^{-N}} = \cos^{2} \frac{1}{2}\delta - \cot^{2} m \sin^{2} \frac{1}{2}\delta$
+
+$\cot^{2} m = \frac{\cos^{2} \frac{1}{2}\delta - 10^{-10^{-N}}}{\sin^{2} \frac{1}{2}\delta} = \frac{1 - 10^{-10^{-N}}}{\sin^{2} \frac{1}{2}\delta} - 1$
+
+$1 + \cot^{2} m = \frac{1}{\sin^{2} m} = \frac{1 - 10^{-10^{-N}}}{\sin^{2} \frac{1}{2}\delta}$
+
+$\sin m = \frac{\sin \frac{1}{2}\delta}{\sqrt{1 - 10^{-10^{-N}}}}$
+
+[u]over[/u]

@@ -1,0 +1,45 @@
+[marginalia]
+Monson's Bridge 1894 Jan 29
+[/marginalia]
+
+[pn]4[/pn]
+
+$$\frac{(\theta_{n+3} - 2\theta_{n+2} + \theta_{n+1})}{l_{n+2} \cos \theta_{n+2}} - \frac{(\theta_{n+2} - 2\theta_{n+1} + \theta_{n})}{l_{n+1} \cos \theta_{n+1}} + \frac{kg}{\beta} = 0$$
+
+$$\frac{D_{s}^{2}\theta}{l \cos \theta + l D_{s}\cos \theta} = \frac{D_{s}^{2}\theta}{l \cos \theta - l \sin \theta . D_{s}\theta} = \frac{\frac{1}{2} D_{\theta} (D_{s}\theta)^{2}}{l \cos \theta - l \sin \theta . D_{s}\theta}$$
+
+$$= \frac{1}{2} D_{\theta} \int \frac{d (D_{s}\theta)^{2}}{l \cos \theta - l \sin \theta D_{s}\theta}$$
+
+$$\frac{(\theta_{n+1} - \theta_{n})}{l_{n+1} \cos \theta_{n+1}} = \frac{D_{s}\theta}{l(\cos \theta - \sin \theta . D_{s}\theta)} = \frac{d\theta}{l(\cos \theta . ds - \sin \theta . d\theta)}$$
+
+$$D_{s} \int \frac{D_{s}\theta ds}{F} = \frac{D_{s}\theta}{F} = \int D_{s} \frac{D_{s}\theta}{F} ds$$
+
+$$\frac{D_{s}^{2}\theta}{\cos \theta} = [del]R[/del]$$
+
+$$\frac{D_{s}^{2}\theta}{D_{s}l \cos \theta} + \frac{kg}{\beta} = 0$$
+
+$$D_{s} \frac{D_{s}^{2}\theta}{\cos \theta} = \frac{D_{s}^{3}\theta}{\cos \theta} + D_{s}^{2}\theta \log \frac{1+\sin \theta}{1-\sin \theta} \frac{D_{s}^{3}\theta . \cos \theta + \sin \theta . D_{s}^{2}\theta . D_{s}\theta}{\cos^{2} \theta} + \frac{kg}{\beta} = 0$$
+
+$$D_{s}^{3}\theta + \tan \theta . D_{s}\theta . D_{s}^{2}\theta + \frac{kg}{\beta} \cos \theta = 0$$
+
+$$\frac{D_{s}^{2}\theta}{l \cos \theta} + \frac{kg}{\beta} s + C = 0$$
+
+$$D_{s}^{2}\theta + kg \ell s \cos \theta + C \cos \theta = 0$$
+
+Suppose $\theta = a + bs + cs^{2} + \text{etc}$
+
+$$D_{s}^{2}\theta + kg \ell a C + (a kg \ell + Cb)s + (b kg \ell + Cc)s^{2} + \text{etc}$$
+
+$$D_{s}\theta = C' + aCs + \frac{1}{2}(a kg \ell + Cb)s^{2} + \frac{1}{3}(b kg \ell + Cc)s^{3} + \text{etc}$$
+
+$$D_{s}\theta = b + 2es + 3ds^{2} + 4es^{3} + \text{etc}$$
+
+$$D_{s}^{2}\theta = 2e + 6ds + 12es^{2} + \text{etc}$$
+
+[marginalia]
+$$aC - 2e = 0$$
+$$c = \frac{1}{2} aC$$
+$$6d = a kg \ell + Cb$$
+$$d = \frac{1}{6} a kg \ell + \frac{1}{6} Cb$$
+$$12e = b kg \ell + \frac{1}{2} aC^{2}$$
+[/marginalia]

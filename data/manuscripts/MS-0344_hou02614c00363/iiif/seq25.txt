@@ -1,0 +1,24 @@
+Give the prob. that one or both of two events happen [ins]Boole RR[/ins]
+let it equal $p$. Given also the probability that one or both of them
+fail to happen; let it equal $q$. What is the probability that one
+only will happen?
+Let the two events be $x$ & $y$
+Let the case that one or both happen be [u]$s$[/u]; that is
+$s = xy$ (that they both happen) $+ x(1-y)$ (or [del]$x$[/del] happens without $y$) $+ (1-x)y$ (or $y$ happens
+without $x$). Let the case that one or both fail be [u]$t$[/u]; that is
+$t = x(1-y)$ (that $x$ happens without $y$) $+ (1-x)y$ (that $y$ happens without $x$) $+ (1-x)(1-y)$ (or neither happens)
+Let the case that only one happens be [u]$w$[/u]; that is
+$w = x(1-y)$ (that $x$ happens without $y$) $+ (1-x)y$ (that $y$ happens without $x$)
+We must first reduce these three equations to one. Taking the first one
+and transferring the second member we have
+$s - xy - x(1-y) - (1-x)y = 0$
+Applying to this the formula $f s = s f(1) + (1-s) f(0)$. When $s=1$ the
+equation becomes $(1-x)(1-y) = 0$ when $s=0$ it becomes $xy + x(1-y) + (1-x)y = 0$
+In general then it is $(1-s)xy + (1-s)x(1-y) + (1-s)(1-x)y + s(1-x)(1-y) = 0$
+By the same developement the other two equations become
+$txy + (1-t)x(1-y) + (1-t)(1-x)y + (1-t)(1-x)(1-y) = 0$
+$wxy + (1-w)x(1-y) + (1-w)(1-x)y + w(1-x)(1-y) = 0$
+Adding the We may now take the sum of these three equations equal to zero.
+The next thing to be done is to get rid of $x$ & $y$ because there is nothing
+said about the simple events in the problem. For this purpose of me
+find what our equation becomes

@@ -1,0 +1,24 @@
+place of $x$ a new unknown half as large. As we don't care what $x$ is, we do not care whether it is half as large or not. Put $x = 2x'$. Then, [del]the eq[/del] [ins]substituting $2x'$ for $x$,[/ins] we have
+
+$$\left. \begin{aligned}
+6x' - 2y + 1z - 6 \\
+8x' - 1y - 2z + 7 \\
+4x' + 3y - 4z + 7 \\
+0x' + 1y + 0z - y
+\end{aligned} \right\} = 0$$ [fig]Large X mark[/fig]
+
+We [ins]could[/ins] multiply the last column [ins]by 5[/ins] if one chose by simply introducing $1 = [del]w[/del] 5w$. We should be reckoning by fifths, and to show that it will make no difference we will do so, putting this useless procedure beside the other.
+
+$$\left. \begin{aligned}
+6x' - 2y + 1z - 6 \\
+8x' - 1y - 2z + 7 \\
+4x' + 3y - 4z + 7 \\
+0x' + 1y + 0z - y
+\end{aligned} \right\} = 0 \qquad \left. \begin{aligned}
+6x' - 2y + 1z - 30w \\
+8x' - 1y - 2z + 35w \\
+4x' + 3y - 4z + 35w \\
+0x' + 1y + 0z - 5w
+\end{aligned} \right\} = 0$$
+
+[del]It is obvious that there is[/del]

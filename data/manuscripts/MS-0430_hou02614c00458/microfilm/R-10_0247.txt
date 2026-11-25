@@ -1,0 +1,33 @@
+[pn]Logic[/pn]
+[pn]III[/pn]
+[pn]98[/pn]
+
+[pn](20)[/pn] $v - \frac{(v-p)(v-n)(v-g)}{(v-f)^2} = f$; that is, $\frac{v-p}{v-f} \cdot \frac{v-n}{v-f} \cdot \frac{v-g}{v-f} = 1$
+
+Its assertion is asserted by
+
+[pn](21)[/pn] $\frac{v-p}{v-f} \cdot \frac{v-n}{v-f} \cdot \frac{v-g}{v-f} = 0$
+
+These forms speak to us. We assert that it rains, snows, and hails in the equation
+
+[pn](18)[/pn] $\frac{p-f}{v-f} \cdot \frac{n-f}{v-f} \cdot \frac{g-f}{v-f} = 1$.
+
+We assert that it both rains and snows in
+
+[pn](22)[/pn] $\frac{p-f}{v-f} \cdot \frac{n-f}{v-f} = 1$.
+
+We assert that it rains in
+
+[pn](23)[/pn] $\frac{p-f}{v-f} = 1$.
+
+How much simpler it would be than to take the particular number 1 for the truth [del](to let a new expression which will be convenient)[/del] [ins]and introduce, $r$, for "it rains" making[/ins]
+
+[pn](24)[/pn] $r = \frac{p-f}{v-f}$;
+
+$s$ for it snows, making
+
+[pn](25)[/pn] $s = \frac{n-f}{v-f}$;
+
+[del]$h$[/del] [ins]$h$[/ins] for it hails, making
+
+[pn](26)[/pn] $h = \frac{g-f}{v-f}$.

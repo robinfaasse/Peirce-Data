@@ -1,0 +1,91 @@
+```
+[u]  u_n u_{n+2} - u_{n+1}^2  [/u] = u_n - [u]  (\Delta u_n)^2  [/u] = v_n
+ u_n - 2u_{n+1} + u_{n+2}             \Delta^2 u_n
+
+u_0 + [u] - u_1^2 + 2u_1 u_0 - u_0^2 [/u] = [u] u_0 u_2 - u_1^2 [/u]
+          u_2 - 2u_1 + u_0             u_2 - 2u_1 + u_0
+
+[u] u_0 u_2 - u_1^2 [/u] = v_0
+ u_0 - 2u_1 + u_2
+
+[u] u_1 u_3 - u_2^2 [/u] = v_1
+ u_1 - 2u_2 + u_3
+
+[u] u_2 u_4 - u_3^2 [/u] = v_2
+ u_2 - 2u_3 + u_4
+
+[u] (u_0 u_2 - u_1) (u_2 u_4 - u_3) [/u] - [u] (u_1 u_3 - u_2)^2 [/u]
+(u_0 - 2u_1 + u_2) (u_2 - 2u_3 + u_4)   (u_1 - 2u_2 + u_3)^2
+
+[u] u_0 u_2 - u_1 [/u] - 2 [u] u_1 u_3 - u_2 [/u] + [u] u_2 u_4 - u_3 [/u]
+u_0 - 2u_1 + u_2       u_1 - 2u_2 + u_3       u_2 - 2u_3 + u_4
+
+u_1 { [u] (\frac{u_0}{u_1} - 1) (\frac{u_2}{u_1} - 1) [/u] + 1 } = [u] u_0 u_2 - u_0 u_1 - u_2 u_1 + u_1^2 [/u] + u_1^2 - 2u_1^2 + u_0 u_1
+      (\frac{u_0}{u_1} - 1) + (\frac{u_2}{u_1} - 1)             (u_0 - u_1) (u_2 - u_1) + u_2^2 - 2u_1^2 + u_0 u_1
+                                                                u_2 - 2u_1 + u_0
+
+u_1 { [del]u_1[/del] [ins]u_1[/ins] - [u] \Delta_0 \Delta_1 [/u] } = u_1 - [u] 1 [/u]
+             \Delta_1 - \Delta_0             [u] 1 [/u] - [u] 1 [/u]
+                                             \Delta_0   \Delta_1
+
+[u] (u_0 + \Delta_0) (\Delta_1 - \Delta_0) - \Delta_1 \Delta_0 [/u] = u_0 [del]+[/del] [del]\Delta_1^2 - 2\Delta_1 \Delta_0[/del] - [u] (\Delta_0)^2 [/u]
+                  \Delta_1 - \Delta_0                                                     \Delta_0^2
+
+\Delta [u] (\Delta m)^2 [/u]
+         \Delta^2 m
+
+= [u] (\Delta + \Delta^2)^2 [/u] - [u] (\Delta)^2 [/u]
+      \Delta^2 + \Delta^3         \Delta^2
+
+= [del](\Delta)^2 + 2\Delta^3 + (\Delta^2)^3 - \Delta^2 \Delta^3[/del] u_0
+            (\Delta^2)^2 - \Delta^2 \Delta^3
+
+u_0
+      \Delta
+u_0 + \Delta
+      \Delta + \Delta^2
+u_0 + 2\Delta + \Delta^2
+      \Delta + 2\Delta^2 + \Delta^3
+u_0 + 3\Delta + 3\Delta^2 + \Delta^3
+      \Delta + 3\Delta^2 + 3\Delta^3 + \Delta^4
+
+\Delta^2
+      \Delta^2 + \Delta^3
+\Delta^2 + 2\Delta^3 + \Delta^4
+      \Delta^2 + 3\Delta^3 + 3\Delta^4 + \Delta^5
+
+\Delta^3
+      \Delta^3 + \Delta^4
+
+u - [del](\Delta)^2[/del] [ins][u] (\Delta)^2 [/u][/ins]
+         \Delta^2
+
+u + \Delta - [u] (\Delta)^2 + 2\Delta \Delta^2 + (\Delta^2)^2 [/u]
+                    \Delta^2 + \Delta^3
+
+u + 2\Delta + \Delta^2 - [u] (\Delta)^2 + 4\Delta \Delta^2 + 2\Delta \Delta^3 + 4(\Delta^2)^2 + 4\Delta^2 \Delta^3 + (\Delta^3)^2 [/u]
+                                    \Delta^2 + 2\Delta^3 + \Delta^4
+
+u_0 - [u] (\Delta u_0)^2 [/u]
+         \Delta^2 u_0
+
+u_1 - [u] (\Delta u_1)^2 [/u]
+         \Delta^2 u_1
+
+u_2 - [u] (\Delta u_2)^2 [/u]
+         \Delta^2 u_2
+
+\Delta u_0 - [u] (\Delta u_1)^2 [/u] + [u] (\Delta u_0)^2 [/u]
+                \Delta^2 u_1         \Delta^2 u_0
+
+\Delta u_1 - [u] (\Delta u_2)^2 [/u] + [u] (\Delta u_1)^2 [/u]
+                \Delta^2 u_2         \Delta^2 u_1
+
+[u] \Delta^2 u_0 - \Delta^2 (\Delta u_0)^2 [/u]
+                     \Delta^2 u_0
+
+u_0 - [u] (\Delta u_0)^2 [/u] - [u] [ \Delta u_0 - \Delta [u] (\Delta u_0)^2 [/u] ]^2 [/u]
+         \Delta^2 u_0                     \Delta^2 u_0
+                             \Delta^2 u_0 - \Delta^2 [u] (\Delta u_0)^2 [/u]
+                                                      \Delta^2 u_0
+```

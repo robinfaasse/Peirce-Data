@@ -1,0 +1,9 @@
+[u]Non Euclidean Geometry[/u]
+
+If a line is displaced along itself so as not to break the continuity either of real or imaginary points, the new position of each point will coincide with the only position of just one point, and vice versa. If then $x$ and $y$ be the homogeneous coordinates of a point on the line, ranging continuously both for real and imaginary values, and if $x'$ and $y'$ are the coordinates which in its new position coincides with the old position of $x, y$, the two sets are connected by a lineo-linear equation which we may write,
+$$a_{xx} x x' + a_{xy} x y' + a_{yx} y x' + a_{yy} y y' = 0.$$
+Putting $x = x'$ and $y = y'$, we get the quadratic
+$$a_{xx} x^2 + (a_{xy} + a_{yx}) x y + a_{yy} y^2 = 0,$$
+which shows that two points remain unmoved.
+
+That a displacement should be such as a rigid line can undergo, [del]two[/del] [ins]the[/ins] condition[del]s[/del] [del]are[/del] [ins]is[/ins] necessary, [del]1st[/del] that it shall be the integral of a continuous series of infinitesimal displacements; [del]and 2nd, that the[/del]

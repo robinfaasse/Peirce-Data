@@ -1,0 +1,31 @@
+[pn]Multitude[/pn] [pn]47[/pn]
+
+It will be convenient here to give two theorems relating to the permutational
+relations of enumerable collections. Of course, nothing prevents the existence
+of permutational relations among the units of a denumerable collection;
+but of them these theorems are not true.
+
+One of these theorems is that if the $I$s form an enumerable collection
+and $r$ is any permutational relation among the $I$s, then there is some $I$ which
+is not $r$'d by any $I$. The definition of a permutational relation is as follows:
+$1^{\text{st}}$, No $I$ is $r$ of itself; $2^{\text{nd}}$, Of two $I$s one is $r$ of the other; and $3^{\text{rd}}$, If one $I$ is $r$ of
+another, it is also $r$ of everything $r$'d by that other. Now were every $I$ $r$'d by an
+$I$ you might choose any $I$ and one of its $r$'s might be chosen from among the
+rest; and of any $I$ that was chosen one of its $r$'s might be chosen. Then, the
+relation of being "the immediately chosen $r$ of" would be a one-to-one relation;
+for only one [del]$I$[/del] [ins]$\text{Is}$[/ins] would be chosen as the immediate successor of any given $I$
+and no $I$ would be chosen as the immediate successor of [del]any[/del] [ins]two[/ins] given $I$s. [del]Hence,[/del]
+Thus, by the definition of a denumerable collection, a denumerable collection
+would be chosen from among the units of an enumerable collection. But
+[del]we have seen that[/del] it is impossible for [del]an enum[/del] [ins]a denumerable[/ins] collection to be a part
+of an enumerable collection; so that it is absurd to suppose that every $I$ is
+$r$'d by an $I$. As a corollary from this theorem, [del]it is[/del] there is also an $I$
+which is not [del]the[/del] $r$ to any $I$. For [del]in[/del] the definition of [del]the[/del] permutational rela-
+tion does not change its meaning if "$r$'d by" is [del]subs[/del] interchanged with "$r$ to"
+throughout.
+
+The other theorem is that if the $I$s form an enumerable collection, and $r$
+is any [del]permutational[/del] relation among the $I$s, then taking any $I$, say $I_1$,
+[del]which is $r$'d by an $I$,[/del]
+another $I$, say $I_2$, can be found which is $r$ of $I_1$, but is not $r$ of any [ins]other[/ins] $I$ that is $r$
+[ins]to say $I_1$[/ins]

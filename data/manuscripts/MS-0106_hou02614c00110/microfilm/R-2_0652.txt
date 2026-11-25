@@ -1,0 +1,22 @@
+$$x^2 + (y - \frac{c}{2})^2 = a^2$$
+$$x^2 + (y + \frac{c}{2})^2 = b^2$$
+$$(y+c)^2 - (y-c)^2 = b^2 - a^2$$
+$$= [del]2[/del] cy$$
+$$y = \frac{1}{2c} (b^2 - a^2)$$
+$$x^2 + y^2 + \frac{c^2}{4} = \frac{1}{2} a^2 + \frac{1}{2} b^2$$
+$$x^2 = \frac{a^2}{2} + \frac{b^2}{2} - \frac{c^2}{4} - \frac{b^4 - 2a^2b^2 + a^4}{[del]4[/del] c^2}$$
+$$= [del]\frac{1}{4}[/del] \frac{2a^2b^2 + 2a^2c^2 + 2b^2c^2 - a^4 - b^4 - c^4}{4c^2}$$
+
+[del]$\mathcal{D}_s \chi = \alpha^2 - a^2$[/del]
+$$\mathcal{D}_s \chi = (\beta^2 - b^2) \left\{ (\alpha^2 - a^2) f(\alpha, \beta) + \frac{c}{\alpha^2 + \beta^2 - a^2 + b^2} \right\}$$
+
+[fig]Two intersecting circles with vertical lines inside the intersection[/fig]
+
+[del]$x^2 + y^2 = \beta^2$[/del]
+$$x^2 + (y + \frac{c}{2})^2 = \beta^2$$
+$$\mathcal{D}_x \beta = c$$
+$$\chi = a\beta + c$$
+
+$$\mathcal{D}_x b = \frac{2c}{2b} \frac{\sqrt{2a^2b^2 + 2a^2c^2 + 2b^2c^2 - a^4 - b^4 - c^4}}{a^2 + [del]b^2[/del] - b^2}$$
+
+$$\chi = \frac{1}{4c^2} \left\{ 4a^2b + 4bc^2 - 4b^3 \right\} \mathcal{D}_x b$$

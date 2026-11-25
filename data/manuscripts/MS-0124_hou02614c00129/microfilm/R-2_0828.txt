@@ -1,0 +1,31 @@
+[u]Parseval's Theorem.[/u]
+$$\Phi\theta^{ti} = a_{0} + a_{1}\theta^{ti} + a_{2}\theta^{2ti} + \text{etc}$$
+$$\Psi\theta^{-ti} = b_{0} + b_{1}\theta^{ti} + b_{2}\theta^{-2ti} + \text{etc}$$
+Multiplying the two formulae and integrating
+$$\int_{\alpha}^{2\pi+\alpha}\Phi\theta^{ti}\cdot\Psi\theta^{-ti}\cdot dt = 2\pi\left\{a_{0}b_{0} + a_{1}b_{1} + a_{2}b_{2} + \text{etc}\right\}$$
+We can thus get the sum of the infinite series
+$$a_{0}b_{0} + a_{1}b_{1} + a_{2}b_{2} + \text{etc}$$
+when we know $\Phi\theta^{ti}$ and $\Psi\theta^{ti}$, both series being
+convergent.
+
+[u]Evaluation of $P_{m}$, $C_{m}$, and $A_{m}$[/u]
+when $m$ and $n$ are large
+$$\theta^{n\theta^{ti}} = \theta^{n\left[\frac{\theta^{ti}}{0!} + \frac{n}{1!}\theta^{ti} + \frac{n^{2}}{2!}\theta^{2ti} + \frac{n^{3}}{3!}\theta^{3ti} + \text{etc}\right]}$$
+Multiplying by $\theta^{-nti} dt$ and integrating round, we shall
+get by what precedes
+$$\int_{\alpha}^{2\pi+\alpha}\theta^{n(\theta^{ti}-ti)}dt = \frac{2\pi n^{n}}{n!}$$
+$$" = \int_{\alpha}^{2\pi+\alpha}\theta^{n[\cos t + (\sin t - t)i]}dt = \int_{-\pi}^{\pi}\theta^{n\cos t} \left\{\cos[n(\sin t - t)] + i\sin[n(\sin t - t)]\right\} dt$$
+$$= 2\int_{0}^{\pi}\theta^{n\cos t}\cos[n(\sin t - t)]\cdot dt$$
+
+$$\theta^{n\theta^{ti}} = 1 + n\theta^{ti} + \frac{n^{2}}{2}\theta^{2ti} + \frac{n^{3}}{3!}\theta^{3ti} + \text{etc}$$
+$$= 1 + n\cos t + i n\sin t$$
+$$+ \frac{n^{2}}{2}\cos 2t + i \frac{n^{2}}{2}\sin 2t$$
+$$+ \frac{n^{3}}{3!}\cos 3t + i \frac{n^{3}}{3!}\sin 3t$$
+$$+ \text{etc}$$
+$$\theta^{-nti} = 1 - [del]nt[/del] [ins]i\frac{n^{2}t^{2}}{2}[/ins] + \frac{n^{4}t^{4}}{4!} - \text{etc} \begin{matrix} - i nt \\ + i \frac{n^{3}t^{3}}{3!} \\ - i \frac{n^{5}t^{5}}{5!} \end{matrix}$$
+$$\theta^{n\theta^{ti}-nti} = (1 + n\cos t + \text{etc})\left(1 - \frac{n^{2}t^{2}}{2} + \text{etc}\right) - \left(n\sin t + \frac{n^{2}}{2}\sin 2t + \text{etc}\right)\left(nt + \frac{n^{3}t^{3}}{3!} + \text{etc}\right)$$
+$$+ \left\{(1 + n\cos t + \text{etc})\left(-nt + \frac{n^{3}}{3!}t^{3} - \text{etc}\right) + \left(n\sin t + \frac{n^{2}}{2}\sin 2t\right)\left(1 - \frac{n^{2}t^{2}}{2} + \text{etc}\right)\right\}i$$
+It will be observed that the coefficient of $i$ is an odd
+function; so that its integral is an even function and
+taken from $-\pi$ to $\pi$ will disappear. While the real
+part of the integral will be doubled

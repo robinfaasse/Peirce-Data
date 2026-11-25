@@ -1,0 +1,57 @@
+$$
+\begin{array}{c|c|c}
+i'' (j' - [del]k'[/del] [ins]i'[/ins]) = i'' \left( \begin{array}{c} [del]k-i[/del] \\ [del]j-k[/del] \\ [del]i-j[/del] \\ [del]l-m[/del] \\ [del]m-n[/del] \\ [del]n-l[/del] \end{array} \right) = k'' - i'' & j' & i'' l' = i'' (m-n) = m'' - n'' \\
+j'' & i'' - j'' \quad k' & j'' & [del]l'' - m''[/del] \quad m' \\
+k'' & j'' - k'' \quad i' & k'' & [del]m'' - n''[/del] \quad n' \\
+l'' & n'' - l'' \quad m' & l'' & i'' - k'' \quad i' \\
+m'' & l'' - m'' \quad n' & m'' & i'' - j'' \quad k' \\
+n'' & m'' - n'' \quad l' & n'' & k'' - i'' \quad l'
+\end{array}
+$$
+
+[del]
+$-i - j + 2k$
+$+i - 2j + k$
+\begin{array}{c}
+\left( \begin{array}{c} \quad \\ \quad \end{array} \right)
+\end{array}
+[/del]
+
+$$
+k-j
+$$
+
+$$
+\frac{i' = [del]j' - k'[/del]}{i' = \frac{j-k}{\sqrt{-3}} \quad j'' = \frac{j' - k'}{\sqrt{-3}} = \frac{k-i - i+j}{\sqrt{-3}} = \frac{2i - j - k}{= -i + 2j - k} }
+$$
+
+$$
+\begin{array}{c}
+i''' \\
+i''
+\end{array}
+$$
+
+$$
+i'' - j'' = 3i - 3j
+$$
+
+$$
+\begin{array}{c|c|c}
+i' i'' & [del]i'' - j''[/del] & \quad \\
+(j-k) \ i'' & j'' - k'' & i' \\
+i'' & k'' - i'' & j' \\
+k'' & i'' - j'' & k' \\
+l'' & n'' - m'' & -l' \\
+m'' & l'' - n'' & -m' \\
+n'' & m'' - l'' & -n'
+\end{array} \quad a' i''' (l'' - m) i''
+$$
+
+$$
+[del]i'' k'' = + i' \ i''[/del] \qquad \begin{array}{c} i'' k'' = i'' (i' - i') = \\ i'' \end{array} \quad i'' l'' (m'' - n'' )
+$$
+
+$$
+[del]k''[/del]
+$$

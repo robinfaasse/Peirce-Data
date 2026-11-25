@@ -1,0 +1,33 @@
+[fig]Scribbles[/fig]
+
+$$\frac{x}{l} = \frac{y}{m} = \frac{z}{n}$$
+
+$$x^2 + y^2 + z^2 - (xl + my + nz)^2$$
+
+$$\frac{x_1^2}{A^2} + \frac{y_1^2}{B^2} + \frac{z_1^2}{C^2} = 1$$
+
+$$x = ax_1 + by_1 + cz_1$$
+$$y = dx_1 + ey_1 + fz_1$$
+$$z = gx_1 + hy_1 + iz_1$$
+
+$$(1-l^2)x^2 + (1-m^2)y^2 + (1-z^2)z^2$$
+$$-2lmxy - 2mnyz - 2lnxz$$
+
+[del]-2[/del]
+
+$$-2(xl+my+nz)(xdl + ydm + zdn)$$
+
+[del]-2l^2 - 2mxy[/del]
+
+[del]+2(lx)(lx+my+nz)[/del]
+
+[del]-2lmxy[/del]
+
+---
+
+[fig]Geometric diagram with intersecting lines[/fig] [fig]Geometric diagram with intersecting lines[/fig] [fig]Scribbles[/fig] [fig]Scribbles[/fig] [fig]Scribbles[/fig]
+
+$$lm \quad m\sqrt{1-l^2-m^2}$$
+$$l\sqrt{1-l^2-m^2}$$
+
+$$\frac{l^2m^2}{1} \quad \frac{m^2 - l^2m^2 - m^4}{l^2 - l^4 - l^2m^2}$$

@@ -1,0 +1,19 @@
+A change [del]of[/del] [ins]$\partial \lambda$[/ins] in longitude, in passing along the outline of the last section makes a [del]relation[/del] [ins]rotation[/ins] of the normal equal to $\cos \varphi \cdot \partial \lambda$. Hence, if $\frac{\partial s}{\partial \lambda}$ is constant for all latitude (as for [del]a[/del] [ins]angular[/ins] Mercator's chart)
+
+$$\frac{\partial s}{\partial \varphi} = \frac{1}{\cos \varphi} \frac{1 - e^2}{1 - e^2 \sin^2 \varphi}$$
+
+$$\frac{\partial s}{\partial \varphi} - \frac{1}{\cos \varphi} = \frac{1}{\cos \varphi} \left( \frac{1 - e^2}{1 - e^2 \sin^2 \varphi} - 1 \right)$$
+$$= \frac{1}{\cos \varphi} \left( \frac{- e^2 \cos^2 \varphi}{1 - e^2 \sin^2 \varphi} \right)$$
+$$= - \frac{e^2 \cos \varphi}{1 - e^2 \sin^2 \varphi}$$
+
+$$\frac{\partial s}{\partial \varphi} = \frac{1}{\cos \varphi} - e^2 \frac{\cos \varphi}{1 - e^2 \sin^2 \varphi}$$
+
+Now $D_\varphi \log \frac{1 - e \sin \varphi}{1 + e \sin \varphi} = \frac{- e \cos \varphi}{1 - e \sin \varphi} - \frac{e \cos \varphi}{1 + e \sin \varphi} = - e \cos \varphi \frac{2}{1 - e^2 \sin^2 \varphi}$
+
+[del]Hence $s = $[/del]
+And $D_\varphi \log \tan (45^\circ + \frac{\varphi}{2}) = [del]\tan (45^\circ - \frac{\varphi}{2}) \cos^2 (45^\circ - \frac{\varphi}{2})[/del]$
+$$= \frac{1}{2 \tan (45^\circ + \frac{\varphi}{2})} \frac{1}{\cos^2 (45^\circ + \frac{\varphi}{2})} = \frac{1}{\sin (90^\circ + \varphi)} = \frac{1}{\cos \varphi}$$
+
+Hence
+$$s = \log \tan (45^\circ + \frac{\varphi}{2}) + \frac{e}{2} \log \frac{1 - e \sin \varphi}{1 + e \sin \varphi}$$
+([u]This agrees with Craig's Projections, p. 65.[/u])

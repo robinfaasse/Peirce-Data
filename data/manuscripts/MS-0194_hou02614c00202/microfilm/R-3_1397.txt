@@ -1,0 +1,32 @@
+$$\frac{x}{\sqrt{a + bx + c^2}} = \frac{1}{\sqrt{\frac{1}{x^2}a + b\frac{1}{x} + c}} dx \quad d\frac{1}{y} = -\frac{dy}{y^2}$$
+
+[del]$$\int \frac{1}{\sqrt{(1+\eta^2)u^2 + 2\eta t u + t^2}} = \frac{1}{\sqrt{1+\eta^2}} \log \left\{ \eta t + (1+\eta^2)u + \sqrt{(1+\eta^2) \{(1+\eta^2)u^2 + 2\eta t u + t^2\}} \right\}$$[/del]
+
+$$\text{when } \eta = 0$$
+$$= [del]\text{Log}[/del] \text{Log} \left\{ u + \sqrt{u^2 + t^2} \right\}$$
+
+$$D \log (u + \sqrt{u^2+t^2}) = \frac{1 + \frac{u}{\sqrt{u^2+t^2}}}{u + \sqrt{u^2+t^2}}$$
+
+$$m = \frac{4\eta^2 t^2 - 4(1+\eta^2)t^2}{4(1+\eta^2)^2} = \frac{-t^2}{(1+\eta^2)^2}$$
+
+[fig]pointing hand[/fig] $$\int \frac{\frac{vm \cdot (z^2+a)}{a-z^2} - \frac{b}{2a}(a-z^2) [del]- \frac{2a \cdot vm \cdot z}{a-z^2}[/del]}{\underline{(a-z^2)^2}} \frac{4a \cdot vm \cdot z}{(a-z^2)^2}$$
+
+$$\frac{(vm + \frac{b}{2a})z^2 + (a \cdot vm - \frac{1}{2}b)}{(a-z^2)^2}$$
+
+$$(vm + \frac{b}{2a}) \frac{z^2-a}{(z^2-a)^2} + \frac{2a \cdot vm + [del]b[/del]}{(a-z^2)^2}$$
+
+$$\int \frac{vm + \frac{b}{2a}}{z^2-a} = (vm + \frac{b}{2a}) \log \frac{z-\sqrt{a}}{z+\sqrt{a}}$$
+
+[marginalia]
+$$\frac{z^2-a}{(z+a)}$$
+
+$$\frac{(z+a)(z-a)}{(z+a)^2 \times \frac{4a^2}{(z-a)^2}}$$
+
+$$\frac{2 \cdot \frac{1}{2a}}{z+a} + \frac{[del]\frac{1}{2a}[/del]}{x-a}$$
+
+$$\frac{1}{z^2-a^2} = \frac{1}{(z-a)(z+a)}$$
+
+$$\frac{1}{4a^2} \left( \frac{1}{z+a} + \frac{b}{z-a} \right)$$
+
+$$- \frac{\frac{1}{2a}}{z+a} + \frac{\frac{1}{2a}}{z-a}$$
+[/marginalia]

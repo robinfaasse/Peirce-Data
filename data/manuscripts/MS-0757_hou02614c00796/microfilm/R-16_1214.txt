@@ -1,0 +1,61 @@
+Again, $P \prec C$ is true [ins] in case [/ins] [del] of the [/del] $\overline{P}$ [ins] is true [/ins] (that is, [del] if [/del] [ins] in [/ins] case the drawer does not fail. This is expressed by writing
+[del] $(\overline{P} \prec C) \prec \overline{P}$ [/del]
+$\overline{P} \prec (P \prec C)$
+
+It is also true, in case $C$ is true, that is, in case the endorser pays. This is expressed by writing
+$C \prec (P \prec C)$
+
+$\overline{J} \overline{\prec} (P \prec C)$
+
+[del] $J \overline{\prec} \overline{P}$ [/del]
+$J \overline{\prec} \overline{P} \overline{C}$
+
+$J \prec (P \prec C)$
+$= (\overline{P} \overline{\prec} C) \prec J$
+$= (\overline{C} \overline{\prec} \overline{P}) \prec J$
+
+$P \prec (J \prec C)$
+$(\overline{J} \overline{\prec} C) \prec \overline{P}$
+$(\overline{C} \overline{\prec} J) \prec \overline{P}$
+
+[del] $a \prec t$ [/del]
+$a \prec (b \prec c) = \overline{a} + \overline{b} + c$
+$a \overline{\prec} (b \prec c) = a b \overline{c}$
+$(a \overline{\prec} b) \prec c = \overline{a} + b + c$
+$(a \overline{\prec} b) \overline{\prec} c = a \overline{b} \overline{c}$
+$a \prec (b \overline{\prec} c) = \overline{a} +$ [del] $b$ [/del]
+[del] $(a \prec b) \overline{\prec} c = (\overline{a} + b)$ [/del]
+
+$(a \prec b) \prec (c \prec d)$
+$\overline{a} \overline{b} + \overline{c} + d$
+
+$(a \prec b) \prec (b \prec a)$
+$\overline{a} \overline{b} + \overline{b} + a$
+
+$J \prec (\overline{C} \prec \overline{P})$
+$(\overline{C} \prec \overline{P}) \prec J$
+
+$(a \sim b) \overline{\prec} (b \prec a)$
+$(\overline{a} + b) b \overline{a}$
+$(a \overline{\prec} b) \prec (b \overline{\prec} a)$
+$\overline{a} + b \times$ [del] $b \overline{a}$ [/del]
+
+$a \prec (b \overline{\prec} b)$
+[del] $a \overline{\prec} (b \overline{\prec} b)$ [/del]
+$(b \prec b) \overline{\prec} a$
+
+$(b \prec b) \prec a$
+$\left\{ \begin{aligned} a \prec (b \prec a) \\ b \prec (a \prec a) \end{aligned} \right.$
+
+$\overline{a} + b + \overline{c} + d$
+$\overline{a} \overline{b} \overline{c} \overline{d}$
+
+$(a \overline{\prec} \infty) \prec (c \prec d)$
+$a \overline{\prec} (b \prec c) = a b \overline{c}$
+$(a \overline{\prec} b) \prec c = \overline{a} + b + c$
+
+[u] $(a \overline{\prec} b) \prec (c \prec d)$ [/u]
+$\overline{a} + b + \overline{c} + d$
+
+[del] $a \overline{b} \overline{c} \overline{d}$ [/del]
+$a \overline{b} + \overline{c} + d$

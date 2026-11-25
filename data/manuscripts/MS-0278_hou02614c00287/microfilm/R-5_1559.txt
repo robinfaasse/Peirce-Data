@@ -1,0 +1,33 @@
+[pn]21[/pn]
+
+the number of regions each of census value $1-0+0=0$, and the number of lines will be $\frac{1}{2}(x-1)x$ each of census-value $1-0+0=0$, and the number of points will be $\frac{1}{3}x(x-1)$. Then we shall have the equation
+
+$$\begin{aligned}
+2 &= x - \frac{1}{2}x[del](x-1)[/del][ins]x[/ins] + \frac{1}{3}x(x-1) \\
+&= -\frac{1}{6}x^2 + \frac{7}{6}x
+\end{aligned}$$
+
+or
+
+$$\begin{aligned}
+x^2 - 7x &= -12 \\
+x &= \left\{ \begin{aligned} 3 \\ 4 \end{aligned} \right.
+\end{aligned}$$
+
+Upon the tore, since its census-value is $1-2+1-0=0$, the equation is
+
+$$\begin{aligned}
+x^2 - 7x &= 0 \\
+x &= 7.
+\end{aligned}$$
+
+Upon the plane of projective geometry, since its census-value is $1-1+1-0=1$, the equation is
+
+$$\begin{aligned}
+x^2 - 7x &= -6 \\
+x &= \left\{ \begin{aligned} 1 \\ 6 \end{aligned} \right.
+\end{aligned}$$
+
+[fig]Two circular diagrams with labeled regions and lines[/fig]
+
+The census value for lines can also be reckoned by the singularities, being half the sum of the orders of the singularities.

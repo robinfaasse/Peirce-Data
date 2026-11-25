@@ -1,0 +1,23 @@
+[fig]Ring of links[/fig] The number of ways of coloring a ring so that [del]any[/del] [ins]no[/ins] adjacent links shall have different colors, may
+$c$ being the number of colors
+$l$ the number of links
+is the same as if the ring were broken so as to form a simple line [fig]Line of links[/fig] and the last link was a different color from the first
+
+Let $p_l$ be the number of ways when the last is the same color as the first
+$q_l$ the number when their colors are different
+
+[del]$p_l + q_l$[/del]
+
+$p_{l+1} = q_l$
+$q_{l+1} = (c-1)p_l + (c-2)q_l$
+
+$E^2 q = (c-1)q + E q$
+$q = A(c-1)^l + B(-1)^l$
+$p = \frac{A}{c-1}(c-1)^l - B(-1)^l$
+$p_1 = c$ $p_2 = 0$
+$p_1 = A + B = 1$
+$p_2 = A(c-1) - B = 0$
+$Ac = 1$ $A = \frac{1}{c}$
+$B = 1 - \frac{1}{c} = - \frac{c-1}{c}$
+So $q_l = \frac{1}{c} \left( (c-1)^l - (c-1)(-1)^l \right) = \frac{c-1}{c} \left\{ (c-1)^{l-1} + (-1)^{l-1} \right\}$
+[ins]That $(c-1)^{l-1} + (-1)^{l-1}$ is divisible by $c$ is a case of $\frac{x^n - y^n}{x-y}$[/ins]

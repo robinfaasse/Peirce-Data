@@ -1,0 +1,27 @@
+[fig]A tetrahedron ABCD with an interior point O and various lines and points labeled P, Q, R, S, T, U, V, W.[/fig] Let there be four points in space
+A, B, C, D lying in the four planes
+(ABC), (ABD), (ACD), (BCD).
+
+Take any fifth point, O, such
+that it does not lie in any of those
+planes; but {OA} cuts (BCD) in A'
+{OB} cuts (ACD) in B'
+{OC} cuts (ABD) in C'
+{OD} cuts (ABC) in D'
+
+The position of O may be fixed by means of three points O₁, O₂, O₃
+lying on {AB}, {AC}, {AD} respectively. Namely, the three planes
+(O₁CD), (O₂BD), (O₃BC), have a point in common, and this
+point may taken as O. This will allow O to be anywhere in space.
+The first two of these planes meet in the ray {[{O₁C}{O₂B}]D}, and
+this ray cuts the third plane in O. Hence {OD} = {[{O₁C}{O₂B}]D}
+{OC} = {[{O₁D}{O₃B}]C}
+{OB} = {[{O₂D}{O₃C}]B}
+
+We now take three points P₁ on {AB}, P₂ on {AC}, and P₃ on {AD}.
+so that P₁ or [(P₁CD)(P₂BD)(P₃BC)] lies on {OA}. The condition
+to be fulfilled is that whatever intersectional construction, starting
+with A, O₁, B, O₂, C, O₃, D, [del]etc[/del] [ins]etc[/ins] gives P₁ will give P₂ replacing
+O₁ by O₂, [del]P₂ by O₃[/del] [ins]and[/ins] B by C, and C by B and will give P₃ on
+replacing O₁ by O₃ and O₂ by O₁, B by D, and D by B.
+In like manner we take Q on {OB}, R on {OC}, and S on {OD}.

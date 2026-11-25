@@ -1,0 +1,10 @@
+$$D_x(D_x^2+D_y^2)\chi = \frac{8}{2cy-n} - 8y \frac{cy^2-ny-cx^2-b^2c}{(2cy-n)^2}$$
+$$+ \frac{16cx^2y}{(2cy-n)^3}$$
+$$D_x^2(D_x^2+D_y^2)\chi = \frac{48cxy}{(2cy-n)^3}$$
+$$D_y(D_x^2+D_y^2)\chi = -\frac{16cx}{(2cy-n)^2} - 8x \frac{\overset{cy-n}{\cancel{cy^2-ny-cx^2-b^2c}}}{(2cy-n)^3}$$
+$$- 8xy \frac{[del](2cy-n)^2[/del] [ins]n^2-2c^2y^2+2cny+6c^2x^2+6b^2c^2[/ins] [del]8c(2cy-n)[/del] (cy^2-ny-cx^2-b^2c)}{(2cy-n)^4}$$
+$$\overset{\frac{4c^2y^2-4cny+n^2}{-2c}}{=} 8x \frac{-\underline{8c^3y^2}+\underline{8c^2ny}-2cn^2+c^2y^3 [del]+2cny^2[/del] +5c^2x^2y [del]+b^2c^2y-2n^2y[/del] -cnx^2-b^2cn}{\text{}}$$
+$$= 8x \frac{c^2y^3-8c^3y^2+8c^2ny-5c^2x^2y-5b^2c^2y-2n^2y-cnx^2-b^2cn-2cn^2}{(2cy-n)^4}$$
+$$D_y^2(D_x^2+D_y^2)\chi = 8x \frac{(3c^2y^2-16c^3y+8c^2n-5c^2x^2-5b^2c^2-2n^2)(2cy-n)[del]^4[/del] [ins]3[/ins] - 8[del](2cy-n)^3[/del]c(c^2y^3-8c^3y^2+8c^2ny-5c^2x^2y-5b^2c^2y-2n^2y-cnx^2-b^2cn-2cn^2)}{(2cy-n)^5}$$
+$$-2c^3y^4+32c^4y^3-32c^3ny+30c^3x^2y+30b^2c^3y+12c^2n^2y-3c^2ny^2+8c^3n^2$$
+$$+13c^2nx^2+13b^2c^2n+2n^3$$

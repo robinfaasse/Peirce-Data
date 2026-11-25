@@ -1,0 +1,32 @@
+[pn]2[/pn]
+
+REPORT of _____________________________________ Inspector on ____________________________ Steam Boiler used by
+_________________________________________________________________at __________________________________inspected _____________________________189
+
+1) 1a - 0b = +105.
+2) 0a - 1b = -40.
+
+Divide the next to last absolute term by the last, without
+regard to sign, and take the next whole number less than
+the quotient. Multiply the last equation by this, and add to
+the next to last, and so proceed. This gives
+
+3) 1a - 2b = +25
+4) 1a - 3b = -15
+5) 2a - 5b = +10
+6) 3a - 8b = -5
+7) 5a - 13b = +5
+
+The process stops here, as the succeeding multipliers are
+zero. The last absolute term is the greatest common divisor,
+[u]l[/u], and the coefficient of [u]a[/u] in the last equation whose
+absolute term is negative, is [u]k[/u], the auxiliary quantity sought.
+Then the theorem is, that the number sought is
+
+N = [u]ka[/u]/[u]l[/u] (d - e) + d
+
+The problem does not admit of solution unless d - e is
+divisible by [u]l[/u]. For [del]by hypothesis[/del] [del]N - d[/del] is divisible
+by [u]a[/u], by hypothesis, and also N - e is divisible by
+[u]b[/u]. Hence both N - d and N - e are divisible by [u]l[/u],
+and (N - e) - (N - d) = d - e must be divisible by [u]l[/u].

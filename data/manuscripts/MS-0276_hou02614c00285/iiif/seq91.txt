@@ -1,0 +1,18 @@
+[89]
+
+[fig]triangle with labels h, k, x, y, 90°[/fig]  sin k sin X = sin x
+tan k cos X = tan y
+cosh
+
+tan² y = tan² k cos² X
+sec² y = tan² y + 1 = tan² k cos² X + 1
+sec y = √ tan² k cos² X + 1
+__________________________________________________________________
+
+[fig]triangle with labels a, b, c[/fig] [del]cos[/del] [ins]cos[/ins] a-b/2 cos 1/2 C = [del]sin[/del] [ins]sin[/ins] A+B/2 cos c/2
+[del]sin[/del] [ins]sin[/ins] a-b/2 cos 1/2 C = sin A-B/2 sin c/2
+cos a+b/2 sin 1/2 C = cos A+B/2 cos c/2
+sin a+b/2 sin 1/2 C = cos A-B/2 sin c/2
+
+cos² a-b/2 cos² 1/2 C + cos² a+b/2 sin² 1/2 C = cos² c/2
+sin² a-b/2 cos² 1/2 C + sin² a+b/2 sin² 1/2 C = sin² c/2

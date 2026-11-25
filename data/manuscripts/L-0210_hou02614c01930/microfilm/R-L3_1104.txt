@@ -1,0 +1,33 @@
+A SET OF INDEPENDENT POSTULATES FOR THE ALGEBRA OF LOGIC.
+
+Second paper. By E. V. Huntington.
+
+A class of objects a, b, c, [del]• • ,[/del] [ins]• • • ,[/ins] [del]among[/del] among which a relation # is
+defined, will obey all the formal laws of the algebra of logic, when and
+only when the following nine postulates are satisfied; and no one of these
+nine propositions can be deduced as a theorem from the other eight. (Note:
+we shall use the term "element" to denote any object which belongs to the
+class considered.)
+
+1. Whenever a belongs to the class, a#a.
+
+2. If a#b and also b#a, then a=b.
+
+3. If a#b and b#c, then a#c; that is, the relation # is "transitive".
+
+4. There exists an element 0 such that, for every element a, 0#a.
+
+5. There exists an element 1 such that, for every element a, a#1.
+
+6. [del]For x#x[/del] For every pair of elements a and b, provided a≠b, there
+is an element s such that (1) a#s; (2) b#s; and (3) if a#y and b#y, then s#y.
+
+7. For every pair of elements a and b, provided a≠b, there is an
+element p such that (1) p#a; (2) p#b; and (3) if x#a and x#b, then x#p.
+
+8. If the elements 0 and 1 in 4 and 5 exist and are uniquely determined,
+then for every element a there is an element a' such that
+
+(1) if x#a and x#a', then x#0; and
+
+(2) if a#y and a'#y, then 1#y.

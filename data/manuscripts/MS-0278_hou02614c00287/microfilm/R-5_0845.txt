@@ -1,0 +1,33 @@
+$$\left(\frac{r}{R}\right)^2 + \left(\frac{z}{Z}\right)^2 = 1 \qquad \frac{z}{Z} = \sqrt{1 - \left(\frac{r}{R}\right)^2}$$
+
+$$\frac{r}{R} \frac{dr}{R} + \frac{z}{Z} \frac{dz}{Z} = 0 \qquad \frac{r dr}{R^2} + \frac{z dz}{Z^2} = 0 \qquad dz = - \frac{Z^2}{R^2} \frac{r}{z} dr$$
+
+$$dz = - \frac{Z^2}{R^2} \frac{r}{Z \sqrt{1 - \left(\frac{r}{R}\right)^2}} dr$$
+
+$$\frac{1}{r} = \frac{ds}{\sqrt{(dr)^2 + (dz)^2}} \qquad dz = - \frac{Z}{R^2} \frac{r}{\sqrt{1 - \left(\frac{r}{R}\right)^2}} dr$$
+
+$$\frac{d\theta}{1} = \frac{\sqrt{(dr)^2 + (dz)^2}}{r} \qquad dz = - \frac{Z}{R} \frac{r/R}{\sqrt{1 - \left(\frac{r}{R}\right)^2}} dr$$
+
+$$dz = - \frac{Z^2}{Z} \frac{r}{R^2} dr \qquad (dz)^2 = \frac{Z^2}{R^2} \frac{r^2}{R^2 - r^2}$$
+
+$$(dz)^2 = \frac{Z^4}{Z^2} \frac{r^2}{R^4} dr \qquad - \frac{r dr}{R^2} = \frac{z dz}{Z^2}$$
+
+$$\frac{z}{Z} = \sqrt{1 - \left(\frac{r}{R}\right)^2} \qquad dz = - \frac{Z^2}{R^2} \frac{r}{z} dr$$
+
+$$\frac{Z}{z} = \frac{1}{\sqrt{1 - \left(\frac{r}{R}\right)^2}} \qquad (dz)^2 = \frac{Z^4}{R^4} \frac{r^2}{z^2} (dr)^2$$
+
+$$z^2 = Z^2 \left[1 - \left(\frac{r}{R}\right)^2\right] \qquad (dz)^2 = \frac{Z^4}{R^4} \frac{r^2}{Z^2 \left(1 - (r/R)^2\right)} (dr)^2$$
+
+$$= \frac{Z^2}{R^2} \frac{(r/R)^2}{1 - \left(\frac{r}{R}\right)^2} (dr)^2$$
+
+$$dr^2 + dz^2 = \left[1 + \frac{Z^2}{R^2} \frac{(r/R)^2}{1 - (r/R)^2}\right] (dr)^2$$
+
+$$\sqrt{(dr)^2 + (dz)^2} = \sqrt{1 + \frac{Z^2}{R^2} \frac{(r/R)^2}{1 - (r/R)^2}} (dr) =$$
+
+$$\frac{\sqrt{(dr)^2 + (dz)^2}}{r} = \sqrt{\frac{1}{r^2} + \frac{Z^2}{R^4} \frac{1}{1 - (r/R)^2}} dr$$
+
+$$= \sqrt{\frac{1}{r^2} + \frac{Z^2}{R^2} \frac{1}{R^2 - r^2}} \qquad [fig] geometric diagram with curves and lines[/fig]$$
+
+$$= \frac{\sqrt{R^2 - r^2 + \frac{Z^2}{R^2} r^2}}{r \sqrt{R^2 - r^2}}$$
+
+$$= \frac{\sqrt{R^2 - (R^2 - Z^2) \frac{r^2}{R^2}}}{r \sqrt{R^2 - r^2}}$$

@@ -1,0 +1,31 @@
+[marginalia]Morrison's Bridge 1899 [date]Feb 22[/date][/marginalia] [pn]2[/pn]
+
+[fig]Two intersecting lines and a curve[/fig]
+
+$y = S \sec \varphi_n \sin (\varphi_n + \psi_n) + S \sec \varphi_{n+s} \sin (\varphi_{n+s} + \psi_{n+s})$
+$x = S \sec \varphi_n \cos (\varphi_n + \psi_n) + S \sec \varphi_{n+s} \cos (\varphi_{n+s} + \psi_{n+s})$
+
+$0 = [del]\delta y =[/del] S \{ \sec \varphi_n \cos (\varphi_n + \psi_n) \delta \psi_n + \sec \varphi_{n+s} \cos (\varphi_{n+s} + \psi_{n+s}) \delta \psi_{n+s} \}$
+
+$\delta \psi_{n+s} = - \frac{\cos \psi_n - \tan \varphi_n \sin \psi_n}{\cos \psi_{n+s} - \tan \varphi_{n+s} \sin \psi_{n+s}} \delta \psi_n$
+
+$\delta x = [del]S[/del] [ins]S[/ins] \{ \sec \varphi_n \sin (\varphi_n + \psi_n) + \sec \varphi_{n+s} \sin (\varphi_{n+s} + \psi_{n+s}) \frac{\cos \psi_n - \tan \varphi_n \sin \psi_n}{\cos \psi_{n+s} - \tan \varphi_{n+s} \sin \psi_{n+s}} [del]\delta \psi_n[/del] \} \delta \psi_n$
+
+$= S (\cos \psi_n - \tan \varphi_n \sin \psi_n) \{ \frac{\sin \psi_{n+s} + \tan \varphi_{n+s} \cos \psi_{n+s}}{\cos \psi_{n+s} - \tan \varphi_{n+s} \sin \psi_{n+s}} - \frac{\sin \psi_n + \tan \varphi_n \cos \psi_n}{\cos \psi_n - \tan \varphi_n \sin \psi_n} \} \delta \psi_n$
+
+$= [del]S (\cos \psi_n - \tan \varphi_n \sin \psi_n)[/del]$
+$= S \frac{\cos (\varphi_n + \psi_n)}{\cos \varphi_n} \{ \tan (\varphi_{n+s} + \psi_{n+s}) - \tan (\varphi_n + \psi_n) \} \delta \psi_n$
+
+$\delta y_n = S \frac{\cos (\varphi_n + \psi_n)}{\cos \varphi_n} \delta \psi_n$
+([del]Init[/del])
+
+$\delta x = [del]S[/del] [ins]\delta y_{n+1}[/ins] \{ \tan (\varphi_{n+s} + \psi_{n+s}) - \tan (\varphi_n + \psi_n) \} \delta y_n$
+
+[fig]Right triangle and a diagram of a bridge truss[/fig]
+$\theta_n = \frac{y_n}{S_n}$
+
+[del]\frac{E I}{2} (\frac{d^2 y}{d x^2})^2[/del] [del]E \delta x[/del] [del]\frac{1}{2} K \theta^2[/del]
+[del]Energy[/del]
+Energy $\frac{1}{2} \frac{B}{S} \{ (\theta_n - \theta_{n-1})^2 + (\theta_{n+1} - \theta_n)^2 + (\theta_{n+2} - \theta_{n+1})^2 \} + \delta y_n [del]W[/del] + \frac{1}{2} K [del]\theta^2[/del]$
+[del]*[/del] $\frac{B}{S} \{ - \theta_{n+1} + 2 \theta_n - \theta_{n-1} \} \delta \theta_n + \{ - \theta_{n+2} + 2 \theta_{n+1} - \theta_n \} \delta \theta_{n+1} \}$
+[del]*[/del] $\frac{B}{S} \{ \theta_{n+2} - 3 \theta_{n+1} [del]+ 3 \theta_n[/del] - \theta_{n-1} \} \delta \theta_n + W \delta y_n + K X [del]\delta[/del] \{ \tan (\varphi_{n+s} + \psi_{n+s}) - \tan (\varphi_n + \psi_n) \} \delta y_n = 0$

@@ -1,0 +1,22 @@
+[Follows 45] 25r
+51 C
+[u]De Morgan[/u] [u]Myself[/u]
+X..LY X , (1-1.Y) [=] 0
+X.LY X, LY [=] 0
+X..LMY X, (1-L-M-Y) [=] 0
+X,LMY X, L-M-Y [=] 0
+LM' v(1-(1-L)-M)
+L,M v(1-L-(1-M))
+L⁻¹X L⁻¹X
+if X..LY then Y..L⁻¹X [l-(1-lᵛ)] [=] 0
+lY { [ins]1-l-Y[/ins] [del] (1-l)-Y [/del] } De Morgan does not distinguish these, because he treats only singulars
+LℓX (printed LlX) { L-(1-lX) L-(1-l)-X
+l⁻ is not (L⁻)' [del] ((1-L⁻))⁻ [/del]
+((1-L)ᵛ)-X [=] 1-Lᵛ-X Not true in generals
+(1-Lᵛ)-X [=] (1-1)ᵛ-X This is true
+Converse Contrary
+[del]not (L⁻)[/del] L-M-x Mᵛ-Lᵛ-x 1-L-M-x
+LM))N L-M-1 , [(1-N)-Mᵛ-Lᵛ] [=] 0 or [L-M-N] [=] 0
+L⁻¹n))m Lᵛ-(1-N)-1 , [M-(1-Nᵛ)-L] [=] 0 [M-N-L] [=] 0
+nM'))l (1-N)-Mᵛ-1 , [L-M-(1-Nᵛ)] [=] 0 [L-M-N] [=] 0
+[fig]figure[/fig]

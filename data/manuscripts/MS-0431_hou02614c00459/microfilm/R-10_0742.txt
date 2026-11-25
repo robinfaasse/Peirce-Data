@@ -1,0 +1,23 @@
+[pn]Logic
+III
+175[/pn]
+
+when the coefficient of [u]i[/u], being equal to zero, gives
+[u]x[/u]² + [u]y[/u]² + [u]z[/u]²;
+
+and since
+[u]x[/u] + [u]y[/u] + [u]z[/u] = 0,
+
+[u]x[/u], [u]y[/u], [u]z[/u] are the [ins]rectangular[/ins] coordinates of any point on the equator of a sphere whose centre is at the origin, whose polar axis is equally inclined to the positive parts of the three axes of coordinates, and whose radius is √2·[u]r[/u]. Taking [u]x[/u] and [u]y[/u] as independent variables
+[u]z[/u] = -[u]x[/u] - [u]y[/u] [u]q[/u] = 0 [u]r[/u] = -[u]s[/u] = √[u]x[/u]² + [u]xy[/u] + [u]y[/u]²
+
+so that the general form of the quantity is (changing the sign of [u]x[/u])
+√[u]x[/u]² - [u]xy[/u] + [u]y[/u]² · [u]i[/u]' + [u]y[/u] [u]l[/u]' + [u]x[/u] [u]m[/u]'
+
+or putting [u]x[/u] = [u]u[/u] - [u]v[/u], [u]y[/u] = -[u]v[/u], this may be put in the form
+√[u]u[/u]² - [u]uv[/u] + [u]v[/u]² · [u]i[/u]' + [u]u[/u] [u]m[/u]' + [u]v[/u] [u]n[/u]',
+
+and a third form with [u]l[/u]' and [u]n[/u]' is equally possible. In all cases the [del]s[/del] form of the quantity under the square root is invariant. When this vanishes the quantity becomes
+C([del]a[/del][ins]g[/ins][u]l[/u]' + [del]3[/del][ins]g[/ins]²[u]m[/u]' + [del]8[/del][ins]g[/ins]³[u]n[/u]')
+
+where [u]g[/u] is an imaginary cube root of unity. For

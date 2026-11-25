@@ -1,0 +1,29 @@
+[fig]Logical formula with bracketed groupings and numerical labels[/fig]
+
+[fig]Logical formula with bracketed groupings and numerical labels[/fig]
+
+[u]1[/u] = 11 · 121 · 1221 · 1222
+[u]21[/u] = 211 · 2121 · 2122
+
+[u]Names wanted[/u]
+1
+11
+21
+111
+121
+211
+
+[u]Names not wanted[/u]
+2
+12
+22
+112
+122
+212
+
+[u]212 not wanted[/u]
+
+1  2
+
+1  0
+11  10  01  00

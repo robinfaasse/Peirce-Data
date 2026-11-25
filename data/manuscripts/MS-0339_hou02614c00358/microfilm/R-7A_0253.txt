@@ -1,0 +1,30 @@
+[marginalia][pn]68r[/pn][/marginalia]
+
+[date]1869 Oct. 6.[/date]
+
+[del]Combination of Arithmetic & Boole's Calculus[/del]
+
+Given $p a_1 \bar{n} = 0$ when $p = \frac{1}{2}$
+$q a_2 \bar{n} = 0$ " $q = \frac{1}{2}$
+$m_1 n = 0$
+$x_1 m = 0$
+$x_2 \bar{x} = 0$
+
+We have by ordinary processes
+
+(1) $q a_2 \bar{n} + p a_1 n + p a_1 x + x_1 \bar{a} = 0$
+
+[del]But for $p = q = \frac{1}{2}$[/del]
+
+And from this
+
+(2) $p a_1 q a_2 = 0$
+But [del]since $p = q = \frac{1}{2}$ we have[/del]
+$p + q = 1$ or $q = 1 - p$
+$\therefore p \bar{q} = p \cdot p = p$
+& since $p + q = 1$
+$p \bar{q} = 1 - p$
+But $p = \bar{p}$ & $1 - \bar{p}$
+$= 1 - \bar{p} \cdot \bar{q}$
+Hence $p \bar{q} = \bar{p} \cdot \bar{q}$
+Hence $p a_1 q a_2 = 0$ [del]gives[/del]

@@ -1,0 +1,24 @@
+839
+
+[(S≺T)≺(U≺V)]≺[(W≺X)≺(Y≺Z)]
+
+[fig]figure[/fig]
+(S̅+T)UV̅ + WX̅ + Y̅ + Z
+
+[(S≺T)≺(T≺V)]≺[(S≺V)≺(T≺V)]
+
+S≺T
+∴T≺V } (S̅+T)TV̅ + SV̅ + T̅ + V
+
+[del]XY + X̅Y̅[/del] [del](X+Y)(X̅+Y̅)[/del]
+XY + X̅Y̅ + [del]XY +[/del]
+
+(S̅+T)UV̅ + SV̅ + UT̅ + U̅ + V
+[(S≺T)≺(U≺V)]≺(S≺V)≺[del](U≺T)≺[/del]U≺V
+(U≺T) ⋈ U ≺ V
+
+UV̅
+
+Assume (S≺T)≺(U≺V)
+Then if we assume (S≺T) we assume U≺V
+If we do not assume S≺T we assume S and not T

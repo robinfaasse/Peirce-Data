@@ -1,0 +1,30 @@
+[marginalia]1 A 128[/marginalia]
+
+the first round of the second set; and then you transferred
+these five piles over to the ones of the second five, mak-
+ing another round of the second set. Then from these five
+piles you dealt to the other two piles, twice, making two
+rounds of the third set. Next the ultima was placed upon
+the next pile, making a round of the fourth set. Finally
+the ultima was placed on the last pile which, being a round
+of an odd set, belonged to the fifth set. So the numbers
+of rounds were
+4, 2, 2, 1, 1.
+
+From this row of numbers, which we will call the
+Ms, we make a second row, which we will call the N's. The
+first two Ns are 0, 1, the rest are formed by multiplying
+the last by the first M not already used and adding to the
+product the last N but one. Then the Ns are
+0, 1, 4, 9, 22, 31, 53.
+The last N is 53. N will always be the number of cards
+in the pack. Reversing the order of the M's
+1, 1, 2, 2, 4
+will make no difference in the last N. Thus, the N's will be
+0, 1, 1, 2, 5, 12, 53
+Leave off the first M, and the last N will be the number of
+piles. Thus from
+2, 2, 1, 1,
+we get
+0, 1, 2, 5, 7, 12.
+Leaving off the last, will give the number of piles into which

@@ -1,0 +1,20 @@
+cally true. Thus, $(a \prec b) \prec c \prec a$ is identical with
+$c \prec a$. And so is $[(a \prec b) \prec c] \prec a$.
+
+[u]Rule 5[/u]. Any proposition having a clause within a
+clause may be changed by expunging any of the
+antecedents of the inner clause and making each
+of these the consequent of [del]a clause[/del] [ins]an antecedent[/ins]
+clause of the proposition, such clause having for
+one antecedent a clause with the consequent of
+the original outer clause as antecedent and
+the consequent of the proposition as consequent
+and for other antecedents whatever antecedents
+the [ins]original[/ins] outer clause may have had beside the
+inner clause. Thus
+
+$[a \prec (b \prec c \prec d \prec e) \prec f \prec g] \prec h$
+
+is identical with
+
+$[a \prec (g \prec h) \prec f \prec b] \prec [a \prec (g \prec h) \prec f \prec d] \prec [a \prec (c \prec e) \prec f \prec g] \prec h$.

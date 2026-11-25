@@ -1,0 +1,43 @@
+[fig]Venn-like diagram with three circles containing 'A' symbols[/fig]
+
+[fig]Venn-like diagram with circles labeled ab, abc, ab[u]c[/u], a[u]b[/u]c, a[u]bc[/u][/fig]
+
+[del]a + b + c[/del]
+
+[fig]Horizontal lines[/fig]
+
+[fig]Venn-like diagram with 'A' symbols[/fig]
+
+[u]a (b + c) + [del]b[/del] [ins]a[/ins] · [u]c[/u][/u]
+abc + ab[u]c[/u] + a[u]b[/u]c + a[u]bc[/u]
+
+[fig]Horizontal lines[/fig]
+
+[fig]Venn-like diagram with two circles containing 'A'[/fig]
+[fig]Venn-like diagram with circles containing 'A'[/fig]
+[fig]Serrated circle diagram[/fig]
+[fig]Venn-like diagram with circles containing 'A'[/fig]
+[fig]Venn-like diagram with circles containing 'A'[/fig]
+
+$\Pi_u \Pi_v \Sigma_w \Pi_i (\bar{\lambda}_{ui} \bar{\lambda}_{vi} + \lambda_{wi}) \cdot (\lambda_{ui} \lambda_{vi} + \bar{\lambda}_{wi})$
+$(\bar{\lambda}_{ui} + \bar{\lambda}_{wi}) (\bar{\lambda}_{vi} + \bar{\lambda}_{wi}) (\bar{\lambda}_{wi} + \lambda_{ui} \lambda_{vi})$
+$\bar{\lambda}_{ui} \bar{\lambda}_{vi} \bar{\lambda}_{wi} + \lambda_{ui} \bar{\lambda}_{wi} + \lambda_{vi} \bar{\lambda}_{wi}$
+
+[fig]Horizontal lines[/fig]
+
+$\Pi_u \Pi_v \Sigma_w \Pi_i (\bar{\lambda}_{ui} \bar{\lambda}_{vi} [del]\bar{\lambda}_{wi}[/del] + \lambda_{wi})$
+$(\lambda_{ui} + \lambda_{vi} + \bar{\lambda}_{wi})'$
+$= \bar{\lambda}_{ui} \bar{\lambda}_{vi} \bar{\lambda}_{wi}$
+$+ \lambda_{wi} (\lambda_{ui} + \lambda_{vi})$
+
+[fig]Venn-like diagram with circles containing 'λ'[/fig]
+
+[fig]Horizontal lines[/fig]
+
+[fig]Venn-like diagram with circles containing 'A'[/fig]
+[fig]Venn-like diagram with circles containing 'A'[/fig]
+
+[fig]Venn-like diagram with circles containing 'A'[/fig]
+
+[del]ab + ac = (a + b) c[/del]
+[fig]Venn-like diagram with circles containing 'A'[/fig]

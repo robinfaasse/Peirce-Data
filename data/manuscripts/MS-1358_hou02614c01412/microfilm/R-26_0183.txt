@@ -1,0 +1,19 @@
+[pn]2[/pn]
+
+Morrison's Bridge [date]1899 Feb 23[/date]
+
+$y = \mathcal{C}_0 \sin (\sqrt{\frac{KX}{B}} s + \mathcal{C}_1) - \frac{1}{2} \frac{W}{KX} s^2 + \mathcal{C}_2 s + \mathcal{C}_3$
+
+$D_s y = \sqrt{\frac{KX}{B}} \mathcal{C}_0 \cos (\sqrt{\frac{KX}{B}} s + \mathcal{C}_1) - \frac{W}{KX} s + \mathcal{C}_2$
+
+$D_s^2 y = - \frac{KX}{B} \mathcal{C}_0 \sin (\sqrt{\frac{KX}{B}} s + \mathcal{C}_1) - \frac{W}{KX}$
+
+$D_s^3 y = - (\frac{KX}{B})^{\frac{3}{2}} \mathcal{C}_0 \cos (\sqrt{\frac{KX}{B}} s + \mathcal{C}_1)$
+
+$D_s^4 y = + (\frac{KX}{B})^2 \mathcal{C}_0 \sin (\sqrt{\frac{KX}{B}} s + \mathcal{C}_1)$
+
+$B D_s^4 y = \frac{K^2 X^2}{B} \mathcal{C}_0 \sin (\sqrt{\frac{KX}{B}} s + \mathcal{C}_1)$
+
+$KX D_s^2 y = - \frac{K^2 X^2}{B} \mathcal{C}_0 \sin (\sqrt{\frac{KX}{B}} s + \mathcal{C}_1) - [del]W[/del]$
+
+$B D_s^4 y$

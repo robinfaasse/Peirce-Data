@@ -1,0 +1,37 @@
+$$ds^2 = r^2 d\theta^2 + dr^2$$
+
+$$\theta = \text{arc cos} \left( \frac{c^2 - A^2}{cr} - \frac{A}{c} \right)$$
+
+$$D_t \theta = \mp \frac{1}{\sqrt{\frac{A^2}{c^2} - 2 \frac{A}{c^2} (c^2 - A^2) \frac{1}{r} + \frac{(c^2 - A^2)^2}{c^2 r^2}}} \frac{(c^2 - A^2)}{c r^2} D_t r$$
+
+$$= \mp \frac{c^2 - A^2}{r \sqrt{A^2 r^2 - 2 A (c^2 - A^2) r + (c^2 - A^2)^2}} D_t r$$
+
+$$r^2 D_t \theta = \frac{(c^2 - A^2) r}{A^2 r^2 - 2 A (c^2 - A^2) r + (c^2 - A^2)^2} (D_t r)^2$$
+
+$$\frac{(Ar - c^2 + A^2)^2 + (c^2 - A^2)^2}{(Ar - c^2 + A^2)^2} (D_t r)^2 = \mathcal{C} + \frac{a}{r}$$
+
+$$r = \frac{c^2 + A^2}{A + c \cos \varphi}$$
+
+$$D_t r = \mp \sin \varphi D_t \varphi \frac{c^2 - A^2}{(A + c \cos \varphi)^2}$$
+
+$$=$$
+
+$$\frac{1}{r^2} D_t \theta^2 = \frac{a}{r} = \mathcal{C}$$
+
+$$\frac{1}{r} D_t \theta = \mathcal{C} + \frac{a}{r}$$
+
+$$D_r (D_t r)^2 = 2 D_t r \cdot D_t^2 r$$
+
+[fig, Diagram of a triangle with sides r, r+dr, and ds]
+
+[del]$$2 r + dr + ds$$[/del]
+$$r + \frac{1}{2} dr + \frac{1}{2} ds$$
+$$r + \frac{1}{2} dr - \frac{1}{2} ds$$
+$$\frac{1}{2} dr + \frac{1}{2} ds$$
+$$- \frac{1}{2} dr + \frac{1}{2} ds$$
+
+$$\frac{1}{2} r^2 d\theta$$
+
+$$\frac{1}{4} r^2 (ds^2 - (dr)^2) = \frac{1}{4} r^2 ( [del]D_t^2[/del] [ins]D_t r[/ins]^2 )$$
+
+[fig, Diagram of a vertical line with a small triangle and dt]

@@ -1,0 +1,22 @@
+The expression $\delta\tau/\delta\tau_n$ may best be taken in that sense which implies bendings at the smallest possible number of joints (particles), which number, in view of the fixity of the extremities of the ribbon, is two.
+
+[fig]Diagram showing a polygonal line with angles labeled theta and vartheta[/fig]
+
+If we take $\theta$ and $\vartheta$ to denote the angles $\arctan \frac{y}{x}$ and $\arctan \frac{y}{x-x_N}$ we have
+[del]$\delta y + \delta \frac{\sin\tau}{\dots} \cdot ds + \delta (y + \frac{\partial y}{\partial s} ds) = 0$[/del]
+[del]$\delta (y \cot \theta) + \delta \cos\tau \cdot ds + \delta \{ (y + \frac{\partial y}{\partial s} ds) \cot \vartheta \} = 0$[/del]
+[del]$= \delta y \cot \theta - \frac{y \delta\theta}{\sin^2\theta} - \sin\tau \delta\tau \cdot ds + \delta (y + \frac{\partial y}{\partial s} ds) \cdot \cot \vartheta - (y + \frac{\partial y}{\partial s} ds) \frac{\delta\vartheta}{\sin^2\vartheta}$[/del]
+
+[del]$\delta y \cot \theta$[/del] $x \delta\theta + \cos\tau \cdot \delta\tau \cdot ds + (x-x_N) \delta\vartheta = 0$
+$-y \delta\theta - \sin\tau \cdot \delta\tau \cdot ds - y \delta\vartheta = 0$
+$(y \cos\tau - x \sin\tau) \delta\tau \cdot ds - y_N \delta\vartheta = 0$
+$\frac{\sin(\theta-\tau)}{\sin\theta} \delta\tau \cdot \frac{ds}{x_N} = \delta\vartheta$
+$y x_N \delta\theta + (y \cos\tau - (x-x_N) \sin\tau) \delta\tau \cdot ds = 0$
+$\delta\theta = - \frac{\sin(\vartheta-\tau)}{\sin\vartheta} \frac{\delta\tau \cdot ds}{x_N}$
+
+[fig]Geometrical construction with long narrow triangles[/fig]
+[fig]Geometrical construction with long narrow triangles[/fig]
+[fig]Geometrical construction with long narrow triangles[/fig]
+[fig]Small curved diagram[/fig]
+[fig]Two intersecting lines[/fig]
+[fig]Large double-headed arrow[/fig]

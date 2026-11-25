@@ -1,0 +1,29 @@
+$$\frac{ds}{s} = \frac{\sqrt{(dr)^2 + (dz)^2}}{r}$$
+
+$$\left(\frac{r}{R}\right)^2 + \left(\frac{z-Z}{Z}\right)^2 = 1 \qquad \left(\frac{r}{R}\right)^2 = \frac{z(2Z-z)}{Z^2}$$
+
+$$\frac{z-Z}{Z} = \frac{r-R}{R} \qquad \frac{r-R}{R} = \frac{z-Z}{Z} \qquad R = Z(1+E)$$
+
+$$R = Z(1+E)$$
+
+$$r^2 = \left(\frac{R}{Z}\right)^2 z(2Z-z) \qquad r^2 = (1+E)^2 z(2Z-z)$$
+
+$$r = (1+E)\sqrt{z(2Z-z)}$$
+
+$$dr = (1+E) \frac{Z-z}{\sqrt{z(2Z-z)}} dz$$
+
+$$\left(\frac{dr}{dz}\right)^2 = (1+E)^2 \frac{Z^2-2Zz+z^2}{2Zz-z^2}$$
+
+$$= (1+E)^2 \left[ \frac{1}{2\frac{z}{Z} - \left(\frac{z}{Z}\right)^2} - 1 \right]$$
+
+$$= (1+E)^2 \frac{\left(1-\frac{z}{Z}\right)^2}{\frac{z}{Z}\left(2-\frac{z}{Z}\right)}$$
+
+$$= (1+E)^2 \frac{(Z-z)^2}{z(2Z-z)}$$
+
+$$\sqrt{1+\left(\frac{dr}{dz}\right)^2} = \sqrt{\frac{z(2Z-z) + (1+E)^2(Z-z)^2}{z(2Z-z)}}$$
+
+$$\frac{\begin{array}{c} 2Zz-z^2 \\ -z^2+2Zz-z^2 \end{array}}{2z(2Z-z)} = \sqrt{\frac{\begin{array}{c} [del]z(2Z-z)[/del] - \\ 2Zz-z^2-Z^2+2Zz-z^2 \end{array}{}}}$$
+
+$$= \sqrt{\phantom{\frac{a}{b}}}$$
+
+$$\frac{\sqrt{1+\left(\frac{dr}{dz}\right)^2}}{r} = \sqrt{\frac{\begin{array}{c} z(2Z-z) - \\ dr \sqrt{1+\left(\frac{dz}{dr}\right)^2} \end{array}}{r}}$$

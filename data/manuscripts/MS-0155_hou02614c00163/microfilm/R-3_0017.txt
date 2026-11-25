@@ -1,0 +1,48 @@
+[fig]Grid of dots with lines[/fig]
+Take $\mu = 2$ $\nu = 3$
+$r = 1$
+
+[fig]Grid of dots with lines[/fig]
+$r = 2$
+
+[fig]Chemical structure diagram with symbols[/fig]
+
+[fig]Geometric diagram of a hexagon with central point and radiating lines[/fig]
+
+[fig]Chemical structure diagram with three interconnected rings and symbols[/fig]
+
+[u]m[/u] monads each capable of combining only
+with itself gives [u]m[/u] medads.
+
+[u]m[/u] monads each capable of combining with one
+certain other. m must be an even number
+say $2n$ and then are [u]n[/u] medads.
+
+[del]2n[/del] monads each capable of combining with itself
+and with a certain other gives $2n + n = 3n$ medads
+
+If there are two classes of monads; [del]m[/del] [ins]any[/ins] of one class
+[del]can[/del] [ins]can[/ins] combine with [del]one[/del] [ins]any[/ins] of
+the other class only, there will be [u]mn[/u] medads.
+
+Two sets of monads; m of one, n of the other
+For each monad of the first set [del]there[/del] [ins]there are[/ins] $\nu$ of the other with which it [del]combines[/del] [ins]combines[/ins]
+" " " " second " " $\mu$ " " first with which it combines
+The whole number of medads returned is P
+then $\nu = \frac{P}{m}$ $\mu = \frac{P}{n}$ and P is a common multiple of m and n
+$m\nu = n\mu$ $\frac{m}{n} = \frac{\mu}{\nu}$ or $\frac{m}{\mu} = \frac{n}{\nu} = r$ $\frac{mn}{r} = P$
+if $(m|n)$ denote GCM of M and N
+$(m|n)$
+$mn = \frac{m}{(m|n)} \frac{n}{(m|n)} (m|n)^2$
+$m = \frac{m}{(m|n)} (m|n)$
+$n = \frac{n}{(m|n)} (m|n)$
+[del]Therefore P = $\mu\nu$[/del] [del]$m = \mu$[/del] [del]$n = \nu$[/del]
+$m = \mu r$
+$n = \nu r$
+$\underline{P} = \mu\nu r = \frac{mn}{r}$
+
+If $\mu$ and $\nu$ are
+primes to one another
+r must be integer
+But the number of combinations
+cannot be great than $mn$.

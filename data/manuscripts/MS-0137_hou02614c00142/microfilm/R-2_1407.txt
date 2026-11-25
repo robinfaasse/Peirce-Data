@@ -1,0 +1,71 @@
+[marginalia]
+Topics
+26
+[/marginalia]
+
+[u]m[/u] x [u]N[/u][u]n[/u] = ([u]m[/u] x [u]n[/u]) + [u]m[/u]
+[u]N[/u][u]m[/u] x [u]n[/u] = [u]n[/u] + ([u]m[/u] x [u]n[/u]).
+
+The equations properties of multiplication can be deduced by reasoning on the same principle [del]as[/del] [ins]of[/ins] the above proof of x + y = y + x. Thus, [del]all arithmetic of equations result from this relation[/del]
+[del]In order to explain the nature of fractions[/del]
+all equations in integers involving only addition and multiplication [ins], so far as they are necessarily true,[/ins] can be deduced from the ordinal succession of integers; and [del]can[/del] therefore, such equations can signify nothing more than ordinal succession.
+
+It is necessary, however, to consider the relations of greater and less [del]as[/del] among integers. The best way is to define [u]m[/u] is less than [u]n[/u]
+
+[fig]Venn diagram with three overlapping circles labeled alpha, beta, gamma[/fig]
+
+[fig]Two small Venn diagrams showing subset relations[/fig]
+
+[fig]Venn diagram with three overlapping circles and shaded regions[/fig]
+
+[fig]Venn diagram with three overlapping circles and complex shading[/fig]
+
+[col]
+[del]$\alpha \beta \gamma$[/del]
+$\alpha \beta \bar{\gamma}$
+$\bar{\alpha} \beta \gamma$
+$\bar{\alpha} \beta \bar{\gamma}$
+[/col]
+[col]
+$\alpha \beta \bar{\gamma}$
+$\bar{\alpha} \beta \bar{\gamma}$
+[/col]
+
+[col]
+$\alpha \beta \gamma$
+[del]$\alpha \beta \bar{\gamma}$[/del]
+$\bar{\alpha} \beta \gamma$
+$\bar{\alpha} \beta \bar{\gamma}$
+[/col]
+
+[col]
+$\alpha \beta \gamma$
+$\alpha \beta \bar{\gamma}$ x
+$\bar{\alpha} \beta \gamma$
+$\bar{\alpha} \beta \bar{\gamma}$ x
+[/col]
+[col]
+$\alpha \beta \bar{\gamma}$ •
+$\bar{\alpha} \beta \bar{\gamma}$ x
+$\bar{\alpha} \beta \bar{\gamma}$
+$\bar{\alpha} \beta \bar{\gamma}$
+[/col]
+[col]
+$\alpha \beta \gamma$
+$\alpha \beta \bar{\gamma}$
+$\bar{\alpha} \beta \gamma$
+$\bar{\alpha} \beta \bar{\gamma}$
+[/col]
+
+[col]
+$\bar{\alpha} \beta \gamma \delta$
+$\bar{\alpha} \beta \bar{\gamma} \delta$
+$\bar{\alpha} \beta \bar{\gamma} \bar{\delta}$
+[/col]
+
+[col]
+$\alpha \beta \gamma$
+$\alpha \beta \bar{\gamma}$
+$\bar{\alpha} \beta \gamma$
+$\bar{\alpha} \beta \bar{\gamma}$
+[/col]

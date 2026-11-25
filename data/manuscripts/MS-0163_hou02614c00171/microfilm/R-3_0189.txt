@@ -1,0 +1,60 @@
+[u]A B C is the triangle[/u]
+Let [u]pA + qB + rC[/u] be [del]centre[/del] circumcentre
+p + q + r
+
+[u]1[/u](A + B + C) is the median point
+3
+= G
+
+1 + x = 2p
+p + q + r
+x = p - q - r
+p + q + r
+
+The points opposite on circumcircle
+are
+A' = [u](p - q - r)A + 2qB + 2rC[/u] etc
+p + q + r
+
+A' - B = [u](p - q - r)A + (-p + q - r)B + 2rC[/u]
+p + q + r
+
+foot
+F = perf from = [u](-p + q + r)A + (p - q + r)B[/u]
+C to AB 2r
+
+E = [u](-p + q + r)A + (p + q - r)C[/u]
+2q
+
+D = [u](p - q + r)B + (p + q - r)C[/u]
+2p
+
+[fig]Triangle with inscribed lines and points[/fig]
+
+p² - (q - r)²
+4qr
+= (p - q + r)(p + q - r)
+4qr
+
+1/2(D + E) = [u]p(p - q + r)A + q(p - q + r)B + (p + q - r)(p + q - r)C[/u]
+4pq
+
+1/2(E + F) = [u](q + r)(-p + q + r)A + q(p - q + r)B + r(p + q - r)C[/u]
+4qr
+
+1/2(F + D) = [u]p(-p + q + r)A + (p + r)(p - q + r)B + r(p + q - r)C[/u]
+4pr
+
+K = [u]p(-p + q + r)A + q(p - q + r)B + r(p + q - r)C[/u]
+Symmedian 2pq + 2qr + 2pr - p² - q² - r²
+point
+
+Orthocentre = [u](-p + q + r)A + (p - q + r)B + (p + q - r)C[/u]
+p + q + r
+
+N = Ninepoint centre = [u](q + r)A + (p + r)B + (p + q)C[/u]
+2(p + q + r)
+
+Midway from orthocentre to symmedian
+K = [u]2(q + r)A + (p + q + r)B + (p + q - r)C[/u]
+[del]2[/del](p + q + r)

@@ -1,0 +1,19 @@
+[pn]FL[/pn] [pn]45[/pn]
+I call $1_{ij}$ meaning $i$ is identical with $j$, and $T_{ij}$ semi-logical
+predicates. In order to define $1_{ij}$ we [del]must[/del] [ins]had better[/ins] employ the notation
+$(p)_1$ to mean $p$ is true in the state of things $1$. Then, the defi-
+nition in question is
+$$\Pi_i\ 1_{ii}$$
+$$\Pi_i\Pi_j\ \Pi_1\ (T_{ij})_1 \ \text{\rotatebox[origin=c]{180}{$\Pi$}}\ \Pi_2\ \prod_u\ (\bar{u}_{ii} + u_{ij})_2$$
+Without indices expressing states of things, this can be sufficiently
+expressed by writing
+$$\Pi_i\Pi_j\ \prod_u\ T_{ij} + \bar{u}_{ii} + u_{ij}$$
+or
+$$\Pi_i\Pi_j\ \Pi_\alpha\ T_{ij} + \bar{r}_{\alpha ii} + r_{\alpha ij}$$
+
+$$1_{ij} \prec \Pi_\alpha\ \bar{r}_{\alpha ii} + r_{\alpha ij}$$
+$$\Pi_\beta\ \bar{r}_{\beta ii} + r_{\beta ji} \prec 1_{ji}$$
+In whatever relation $i$ is to itself it is to $j$
+$$\Pi_\beta\ \bar{r}_{\beta ij} + r_{\beta ii}$$
+$$\text{\rotatebox[origin=c]{180}{$\Pi$}}\ \gamma = \breve{\beta}$$
+$$\Pi_\gamma\ \bar{r}_{\gamma ji} + r_{\gamma ii}$$

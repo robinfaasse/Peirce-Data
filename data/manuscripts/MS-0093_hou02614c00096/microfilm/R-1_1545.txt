@@ -1,0 +1,47 @@
+[pn]18[/pn] [pn]19[/pn]
+
+Boole (1[ins]st[/ins] Ed. p 152) gives the following
+way of solving linear Equations of Differences
+but I slightly reform the notation
+
+Use the notation
+[del]$\pi$[/del] $\vartheta_x = x \frac{E_x - 1}{\Delta}$
+$E_y u_x = u_{y+\Delta}$
+$\rho_x = x E_x$
+$\Delta = \Delta x$
+
+Then $\rho_x u_x = x E_x u_x = x u_{x+\Delta}$
+[del]$\rho_{x+\Delta} \rho_x u_x = (x+\Delta)$[/del]
+[del]$\rho_x^2 = x$[/del]
+$\rho_{x+\Delta} u_x = (x+\Delta) E_{x+1} u_x = (x+\Delta) u_{x+\Delta}$
+$\rho_x^2 u_x = x(x+\Delta) u_{x+2\Delta}$
+$\rho_x^n u_x = x^{\underline{n}} u_{x+n\Delta} = x^{\underline{n}} E_x^n u_x$
+$\rho_x^n = x^{\underline{n}} E_x^n$
+$C \text{ constant } \rho_x^n C = x^{\underline{n}} C$
+
+$\vartheta_x \rho_x^n u_x = x \frac{E_x - 1}{\Delta} x^{\underline{n}} u_{x+n\Delta}$
+$= \frac{x}{\Delta} \left[ (x+1)^{\underline{n}} u_{x+(n+1)\Delta} - x^{\underline{n}} u_{x+n\Delta} \right]$
+$= \frac{x^{\underline{n}}}{\Delta} \left[ (x+n\Delta) u_{x+(n+1)\Delta} - x u_{x+n\Delta} \right]$
+$= \frac{x^{\underline{n}}}{\Delta} E_x^n \left[ x u_{x+\Delta} - (x-n\Delta) u_x \right]$
+$= \rho_x^n \frac{x u_{x+\Delta} - (x-n\Delta) u_x}{\Delta} = \rho_x^n \left[ \frac{x(E_x-1)}{\Delta} u_x + n u_x \right]$
+$= \rho_x^n \left[ \vartheta_x + n \right] u_x$
+$\therefore \vartheta_x \rho_x^n = \rho_x^n (\vartheta_x + n)$
+
+$\therefore \vartheta_x^2 \rho_x^n = \vartheta_x \rho_x^n (\vartheta_x + n) = \rho_x^n (\vartheta_x + n)^2$
+$\vartheta_x^m \rho_x^n = \rho_x^n (\vartheta_x + n)^m$
+Hence if $f$ is a [del]symectic[/del] function
+$(f \vartheta_x) \rho_x^n = \rho_x^n (f(\vartheta_x + n))$
+
+Now consider the equation
+$\sum_0^n p X_p u_{x+[del]n-p[/del]} = \Phi x$
+Multiply by $x^{\underline{n}}$. Then [del]we set[/del] [ins]supposing[/ins]
+$\sum_0^n p X_p x^{\underline{n}} E_x^{n-p} u_x = \Phi x$
+or by (5)
+$\sum_0^n p X_p (x+n-p)^{\underline{p}} \rho_x^{n-p} u_x = \Phi x$.
+
+Now $x = \rho_x - \Delta \vartheta_x$
+Substituting this value of $x$ is
+$X_p (x+n-p)^{\underline{p}}$
+and expending according to powers of $\rho_x$, the
+equation takes the form
+$(f_0 \vartheta_x) + (f_1 \vartheta_x) \rho + (f_2 \vartheta_x) \rho^2 + \text{etc} = X$

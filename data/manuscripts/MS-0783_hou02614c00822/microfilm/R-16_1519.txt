@@ -1,0 +1,26 @@
+[del]premises, we have the two forms of syllogisms,[/del] [pn]Ms. 783[/pn] [pn]2[/pn]
+
+$$\begin{array}{c} A\text{ s }B, \\ \Phi B\text{ is }C; \\ \hline \therefore \Phi A\text{ is }C. \end{array}$$
+$$\begin{array}{c} A\text{ s }B, \\ C\text{ is }\Psi B; \\ \hline \therefore C\text{ is }\Psi A. \end{array}$$
+
+Making the substituend-premises identical propositions, we have the immediate inferences,
+
+$$\begin{array}{c} A\text{ s }B, \\ \hline \therefore \Phi A\text{ is }\Phi B. \end{array}$$
+$$\begin{array}{c} A\text{ s }B, \\ \hline \therefore \Psi B\text{ is }\Psi A. \end{array}$$
+
+These immediate inferences enable us also to reduce the forms general syllogism to Barbara.
+
+We might take '$A\text{ s }B$' in the special sense of '$A\text{ is }B$', or in that of '$B\text{ is }A$'; as well as in many others. The senses which $\Phi$ and $\Psi$ could take would vary according to circumstances. There would be no difficulty in reducing Camestres, Baroko, [del]Disamis[/del], and Bocardo to these forms, but it could not properly be done for the other indirect moods. For these, we must use the distorted forms,
+
+$$\begin{array}{c} A\text{ s }B, \\ \Phi B\text{ is }C; \\ \hline \therefore \Phi C\text{ is }A. \end{array}$$
+$$\begin{array}{c} A\text{ s }B, \\ C\text{ is }\Psi B; \\ \hline \therefore A\text{ is }\Psi C. \end{array}$$
+
+Make the substituent premise $B\text{ s }B$, and we have the immediate forms of inference,
+
+(1) $$\begin{array}{c} \Phi B\text{ is }C \\ \hline \therefore \Phi C\text{ is }B \end{array}$$
+$$\begin{array}{c} C\text{ is }\Psi B, \\ \hline \therefore B\text{ is }\Psi C. \end{array}$$
+
+Putting '$\Phi B\text{ is }\Phi B$' and '$\Psi B\text{ is }\Psi B$' as the premises of (1) and we find as identical propositions '$\Phi\Phi B\text{ is }B$', and '$B\text{ is }\Psi\Psi B$'. These [ins]formulas[/ins] test by means of Barbara establish the validity of the immediate inference.
+
+(2) $$\begin{array}{c} B\text{ is }C, \\ \hline \therefore \Phi\Phi B\text{ is }C. \end{array}$$
+$$\begin{array}{c} A\text{ is }B, \\ \hline \therefore A\text{ is }\Psi\Psi B. \end{array}$$

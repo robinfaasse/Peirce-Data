@@ -1,0 +1,52 @@
+[pn]Ms. 112[/pn]
+
+[u]Notes on Klein Icosahedron[/u]
+
+The summits of the tetrahedron are.
+$\begin{matrix}
+(-1 -1 +1) & (+1 +1 +1) & & & --+ & +++ \\
+(+1 -1 -1) & (-1 +1 -1) & & & +-- & -+-
+\end{matrix}$
+
+The faces are
+$\begin{matrix}
+(+1 +1 -1) & (-1 -1 -1) & & & ++- & --- \\
+(-1 +1 +1) & (+1 -1 +1) & & & -++ & +-+
+\end{matrix}$
+
+The mid edges are
+$\begin{matrix}
+& 0 0 +1 & \\
++1 0 0 & 0 +1 0 & -1 0 0 & 0 -1 0 \\
+& 0 0 -1 &
+\end{matrix}$
+
+The directions of the edges
+[del]$\begin{matrix}
+0 \pm 1 \pm 1 \\
+\pm 1 \mp 1 +
+\end{matrix}$[/del]
+[del]$\begin{matrix}
+0 \mp 1 \mp 1 \\
++1 \mp 1 0
+\end{matrix}$[/del]
+$\begin{matrix}
+0 +1 +1 & [del]+1 0 +1[/del] & 0 -1 -1 & -1 0 -1 \\
+& -1 -1 0 &
+\end{matrix}$
+
+Call the summits $A\ B\ C\ D$
+Group is $\begin{cases}
+A:A + B:B + C:C + D:D = 1 \\
+A:B + B:A + C:D + D:C = i \\
+A:C + C:A + B:D + D:B = j \\
+A:D + D:A + B:C + C:B = k \\
+A:A + B:C + C:D + D:B = l \\
+A:A + B:D + C:B + D:C = m \\
+B:B + A:C + [del]C:D[/del] [ins]C:D[/ins] + D:A = n \\
+B:B + [del]A:D + C:A[/del] [ins]A:D[/ins] + D:C = o \\
+C:C + A:B + B:D + D:A = p \\
+C:C + A:D + B:A + D:B = q \\
+D:D + A:B + B:C + C:A = r \\
+D:D + A:C + B:D + C:B = s
+\end{cases}$

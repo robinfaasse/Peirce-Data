@@ -1,0 +1,39 @@
+[del]R[/del] Velocity along radius vector
+Velocity perpendicular to Radius vector
+
+Stokes $\theta = M_y \theta + 90^\circ$
+
+$$\begin{array}{cc}
+\text{Stokes} & \text{Me} \\
+\sin \theta & \cos \theta \\
+\cos \theta & -\sin \theta
+\end{array}$$ [fig]Diagram of a curve with vertical lines[/fig]
+
+$P_r$ Normal pressure
+$T_\theta$ Tangential pressure
+
+$$P_r = p - 2 \mu D_r R$$
+$$T_\theta = -\mu \left( \frac{1}{r} D_\theta R + D_r \Theta - \frac{\Theta}{r} \right)$$
+
+[ins]After putting $r = R$.[/ins]
+Resolved part in direction of motion pressure fluid on sphere
+$$+ P_r \sin \theta + T_\theta \cos \theta$$
+
+---
+
+$$R = D_t r = -\frac{R}{r} \sin \theta \cdot D_t e$$
+$$D_r R = \frac{R}{r^2} \sin \theta \cdot D_t e$$
+
+At [del]sin[/del] [ins]At surface[/ins] $P_r = -2 \mu \frac{1}{R} \sin \theta \cdot D_t e$
+$$P_r \sin \theta = -2 \mu \frac{1}{R} \sin^2 \theta \cdot D_t e$$
+
+Force $-2 g \mu' l D_t e \int_{-\frac{1}{2}\pi}^{+\frac{1}{2}\pi} \sin^2 \theta \cdot d\theta$
+$$= -2 g \pi l R^2 \frac{1}{R} \mu' D_t e$$
+
+$$\begin{aligned}
+\cos 2\theta &= 1 - 2 \sin^2 \theta \\
+\sin^2 \theta &= \frac{1}{2} - \frac{1}{2} \cos 2\theta \\
+\int_{-\frac{1}{2}\pi}^{+\frac{1}{2}\pi} \sin^2 \theta \cdot d\theta &= \frac{1}{2} \int_{-\pi}^{\pi} \sin^2 \theta \cdot d2\theta \\
+&= \frac{1}{4} \int_{-\pi}^{\pi} (1 - \cos 2\theta) \cdot d2\theta \\
+&= \frac{1}{4} (2\pi = \frac{1}{2} \pi
+\end{aligned}$$

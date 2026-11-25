@@ -1,0 +1,48 @@
+Now if this is all right the formula
+for the developement of $fx$ is
+
+$$fx \equiv [del]fx[/del] f.0 + x D_x f.0$$
+$$f(1-x) \equiv f.1 - x D_x f.1 \qquad ?$$
+$$[del]f(x-1)[/del]$$
+$$f(1-x) = D_x fx - fx$$
+
+Some how this is not satisfactory
+
+$$D_x fx \equiv \frac{f(x+\Delta) - fx}{\Delta}$$
+$$D_x f.0 \equiv \frac{f\Delta - f.0}{\Delta}$$
+
+which if independent of $\Delta$ is $f(1) - f(0)$
+
+Let us reexamine -
+
+I had to show that
+
+$$f(x+n\Delta) \equiv fx + n\Delta fx$$
+$$\equiv fx + n f(x+\Delta) - nfx$$
+$$\equiv n. f(x+\Delta) + (1-n) fx$$
+
+[page break]
+
+[pn]60R[/pn]
+
+Now $f(x+n\Delta) \equiv A.x + B$
+
+The whole proof rested on
+
+$$(a+b)^n = a^n + n a^{n-1}b + \text{etc}$$
+
+But this is true only if $n$ is an integer
+
+$$(1+d)^n fx = f(x+nd)$$
+
+Suppose $n$ to be an integer $\frac{1}{\theta}$ and $d \equiv \Delta$
+
+$$nd = v$$
+
+$$f(x+v) \equiv \left( 1 + nd + \frac{n(n-1)}{2}d^2 + \frac{n(n-1)(n-2)}{2.3}d^3 + \text{etc} \right) fx$$
+
+which if $n-1 = n$
+
+$$\equiv \left( 1 + v + \frac{v^2}{2} + \frac{v^3}{2.3} + \text{etc} \right) fx$$
+
+$$fx \equiv 1 + x$$

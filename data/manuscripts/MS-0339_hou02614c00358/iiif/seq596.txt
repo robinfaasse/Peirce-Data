@@ -1,0 +1,36 @@
+1908 Sep 6 [right] 319r [/right]
+
+I consider the graph
+
+[fig]diagram with boxes labeled "wife of", "fails", and "suicides" and connecting lines[/fig] # $\Sigma_i \Sigma_j$ w$_{ji}$ · ($\bar{f}_j$ + s$_i$)
+
+A = There is a married pair and if the husband fails the wife suicides
+[del]B = There is a married pair and if [ins] every [/ins] married man fails some married woman suicides[/del]
+
+$\Sigma_m \Sigma_n \Sigma_p \Sigma_q$ w$_{nm}$ · $\bar{f}_n$ + w$_{qp}$ · s$_p$
+
+Let $\omega$ be a state of things and f$_{\omega \alpha}$ means $\alpha$ fails in state of things $\omega$
+A' = $\Pi_{\omega} \Sigma_i \Sigma_j \Pi_{\omega}$ f$_{\omega j}$ + [del]w$_{nji}$ + s$_{\omega i}$[/del] [ins] There is a man and a woman and under all circumstances if the man [ins] who is married to the woman [/ins] fails she will suicide. [/ins]
+A = $\Sigma_i \Sigma_j$ $\Pi_{\omega}$ w$_{ji}$ · ($\bar{f}_{\omega j}$ + s$_{\omega i}$) [ins] There is a [del] married [/del] married couple and under all circumstances if the husband fails the wife will suicide [/ins]
+B = $\Pi_{\omega} \Sigma_i \Sigma_j$ w$_{ji}$ · ($\bar{f}_{\omega j}$ + s$_{\omega i}$) [ins] [del] Under [/del] Under all circumstances, there is a married couple and if all husband's fail some [del] one of the [/del] married woman will suicide [/ins]
+C = $\Sigma_j \Pi_{\omega} \Sigma_i$ w$_{ji}$ · ($\bar{f}_{\omega j}$ + s$_{\omega i}$) [ins] There is a [del] married man [/del] married man and under all circumstances if he fails some wife of his will suicide. [/ins]
+
+Let h$_{uv}$ mean u and v live in the same house
+
+c$_{tu}$ means that [del] u [/del] u comes home on day t
+
+e$_{tv}$ " " v eats dinner on day t
+
+[left] Corrected
+1909 Jan 7 [/left] $\Sigma_u \Sigma_v \Pi_t$ h$_{uv}$ · ($\bar{c}_{tu}$ + e$_{tv}$) [ins] There are some two persons who live together and [del] on every day when one comes [/del] and there is one of them who on every day [del] when [/del] the other comes eats dinner [/ins]
+[del] (things) There is somebody [ins] living in a house [/ins] who has one or other of two traits, either he eats dinner every day he comes home or is on such terms with another person in the house that every day on which he comes home that other eats dinner. [/del]
+
+$\Pi_t \Sigma_u \Sigma_v$ h$_{uv}$ · ($\bar{c}_{tu}$ + e$_{tv}$) [ins] [del] On [/del] On every day [del] there are some two persons living together any of whom eats dinner unless the other fails to come home. [/del]
+[del] on every day everybody who comes home lives in the same house with somebody who eats dinner [/del]
+[del] or on every day [del] which [/del] that lives in a house at all every [del] body [/del] comes home somebody in the same house eats dinner [/del] [ins] On every day somebody or other [del] not [/del] living alone eats dinner unless there be somebody living in the same house who does not come home [/ins]
+
+$\Sigma_u \Pi_t \Sigma_v$ h$_{uv}$ · ($\bar{c}_{tu}$ + e$_{tv}$) [ins] Every day there is somebody that does not come home unless [del] some body living in the same house [ins] who [/ins] eats dinner [/del] [ins] there be [/ins] [del] cats [/del] [/ins]
+[del] There is some person living in a house of whom it is true that on every day on which he comes home somebody living in the house with him eats dinner. [/del]
+[del] Some person is on such terms with some person (himself or another) [ins] living in the same house [/ins] that if the former comes home the latter eats dinner [/del]
+
+See 1909 Jan 7. [right] [ured] See 1909 Jan 7. [/ured] [/right]

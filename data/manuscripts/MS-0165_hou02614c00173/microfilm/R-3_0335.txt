@@ -1,0 +1,18 @@
+[pn]88[/pn]
+
+[u]Art 36. Theorem 16. If one whole number is greater than a second, while a third is at least as great as a fourth, then the sum of the first and third is greater than that of the second and fourth.[/u]
+
+[u]Demonstration[/u]. If A and B are any whole numbers, and X is such a whole number that
+X + B > A + B,
+then, if X' is the number next greater than X, [del]it is that[/del]
+X' + B > A + B.
+For by Axiom 6, X' + B > X + B.
+Thus, the character of forming, [del]with[/del] [ins]or[/ins] being added to any whole number, B, a sum greater than [del]any[/del] [ins]is formed by the fixed[/ins] whole number, A, added [del]same with[/del] [ins]to[/ins] B, is a character which advances in the sequence of whole numbers.
+
+But if X is the number next greater than A, by Axiom 6,
+X + B > A + B.
+Hence, the character of either being no greater than [ins]a fixed[/ins] [del]any[/del] whole number, A, or else giving, when added to any whole number, B, a [del]number[/del] [ins]sum[/ins] greater than A + B, is a character which advances in the sequence of whole numbers.
+
+But [del]it[/del] [ins]this[/ins] is manifestly true of 0; since 0 is no greater than A, no matter what number A may be; hence it is true of all whole numbers. That is, if X > A [del]then[/del] X + B > A + B. [ins]Hence,[/ins] But if Y > B, X + Y > X + B, and [del]therefore[/del] [ins]a fortiori[/ins] X + Y > X + B [del]and, however,[/del] [ins]if[/ins] Y = B, X + Y = X + B; and again X + Y > X + B. Hence, if Y > B, X + Y > X + B; and if X > A, X + Y > A + B. Q.E.D.
+
+[u]Exercise 11[/u]. Prove that the sum of two cardinal numbers, neither [ins]being[/ins] zero, is greater than either.

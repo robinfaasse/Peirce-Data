@@ -1,0 +1,43 @@
+1st
+when
+x = 1
+y = 1
+
+2nd
+when
+x = 1
+y = 0
+
+3rd
+when
+x = 0
+y = 1
+
+4th
+when
+x = 0
+y = 0
+
+We shall have four expressions all equated to zero, one or other of which is [del]finally[/del] equal to zero; and therefore the product of them is certainly equal to zero.
+
+When x = 1 y = 1 everything except the coefficients of xy will disappear and we shall have
+(1-s) + t + w = 0
+
+When x = 1 y = 0 everything except the coefficients of x (1-y) will disappear and we shall have
+(1-s) + (1-t) + (1-w) = 0
+
+When x = 0 y = 1 everything except the coefficients of (1-x) y will disappear and we shall have
+(1-s) + (1-t) + (1-w) = 0
+
+When x = 0 y = 0 everything except the coefficients of (1-x) (1-y) will disappear and we shall have
+s + (1-t) + w = 0
+
+We must now multiply these four equations together. I will not stop to perform this process but will merely give the result which is
+st (1-w) + s (1-t) w + (1-s) t (1-w) + (1-s) (1-t) w + (1-s) (1-t) (1-w) = 0
+
+And this by a very simple reduction gives
+w = [u]st + (1-s) t + (1-s) (1-t)[/u]
+    st + (1-s) t - s (1-t)
+
+Let us now develope this fraction by [del]the[/del] formula made on the same principle as the one I have just used; namely
+f(s,t) = st f(1,1) + s (1-t) f(1,0) + (1-s) t f(0,1) + (1-s) (1-t) f(0,0)

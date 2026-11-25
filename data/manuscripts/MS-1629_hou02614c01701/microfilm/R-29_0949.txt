@@ -1,0 +1,22 @@
+Theorem In the equation $Ax^n + Bx^{n-1} + \&c + L = 0$
+if all the roots have reciprocal roots $A = \pm L$ $B = \pm K$ &c.
+
+Proof Divide the equation by $A$. We have
+$x^n + ax^{n-1} + bx^{n-2} \ \&c + l = 0$
+
+If now we find that $l = \pm 1$ and that $a \pm k = b \pm i$ &c [del]the[/del]
+the theorem will be proved. Now by Alg. art. 276.
+$l = \mp x_1 x_2 x_3 x_4 \ \&c$
+which value by the conditions of the equation equals
+$\pm 1$.
+$a = - x_1 - x_2 - x_3 \ \&c$
+$k = \pm x_2 x_3 x_4 \ \&c \pm x_1 x_3 x_4 \ \&c \pm x_1 x_2 x_4 \ \&c$
+the first term of the value of $k$ will equal the reciprocal of the root
+not a factor of it and so of any term so that the sum of the terms
+will equal the sum of the reciprocals of all the roots with a $\pm$ sign.
+or $= \mp x_1 \mp x_2 \mp x_3 \ \&c = \pm a$ $\therefore a \pm k = 0$
+the same might be proved of all the coefficients
+
+Peirce
+
+E

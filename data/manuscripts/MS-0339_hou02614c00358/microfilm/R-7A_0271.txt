@@ -1,0 +1,35 @@
+[pn]82r[/pn]
+
+[u]Right 15[/u]
+
+[del]1[/del]  $X \prec Y$ means that [del]right[/del] we have a right to $Y$
+in case we have a right to $X$.
+
+Hence if we have a right to $Y$ [del]anyway[/del]
+[del]what[/del] we have a right to $X \prec Y$.
+
+Hence we have a right to
+$$Y \prec (X \prec Y)$$
+
+[del]New principle[/del] We have a right to
+$$X \prec X$$
+
+[del]New principle[/del] Suppose we have a right to $X \prec (Y \prec Z)$
+Then if we have a right to $X$ we have a right to $Y \prec Z$
+If we have a right to $X$ and right to $Y$ we have right to $Z$
+If we have right to $Y$ we have right to $(X \prec Z)$
+$$Y \prec (X \prec Z)$$
+$\therefore [X \prec (Y \prec Z)] \prec [Y \prec (X \prec Z)]$
+
+[del]New principle[/del]
+Suppose we have a right to $(X \prec Y) \prec Z$
+If we have right to $(X \prec Y)$ we have right to $Z$
+But if we have right to $Y$ we have right to $X \prec Y$
+[del]We have right to[/del]
+$\therefore$ If we have right to $Y$ we have right to $Z$
+$\therefore Y \prec Z$
+$\therefore [(X \prec Y) \prec Z] \prec [Y \prec Z]$
+
+[del]New principle[/del]
+If we have right to $X$ and to $Y \prec Z$
+then to $(X \prec Y) \prec Z$

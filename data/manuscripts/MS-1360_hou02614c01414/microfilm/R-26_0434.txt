@@ -1,0 +1,15 @@
+Problem. Two fixed points at the same level support the two ends of a cord of elasticity, E, and a number of equal infinitesimal weights P are attached to it at such distances that the in the position of equilibrium they are at equal horizontal distances; and the length of the cord is such that it sags by an amount, b. What will be the effect of increasing the weight of all of them? What is the position of equilibrium
+
+[fig]Diagram of a hanging elastic cord with weights[/fig]
+
+The work is
+[del]$\frac{1}{2} E (\frac{\sqrt{x_1^2+y_1^2} - L_1}{L_1})^2 + \frac{1}{2} E (\frac{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} - L_2}{L_2})^2 + \text{etc}$[/del] $= P y_1 - P y_2 - \text{etc}$
+
+[del]$(x_2 - x_1) = d$[/del] $x_{i+1} - x_i = a$ $(y_{i+1} - y_i) = a \tan \theta_i$ [fig]Right triangle[/fig] [fig]Right triangle[/fig]
+
+Condition of equilibrium
+[del]etc[/del] $E \sum \left( \frac{1}{L_i} - \frac{1}{\sqrt{(\Delta x_i)^2 + (\Delta y_i)^2}} \right) \left( \Delta x_i [del]dx_i[/del] [ins]d \Delta x_i[/ins] - \Delta y_i [del]dy_i[/del] [ins]d \Delta y_i[/ins] \right)$
+$- P \left( \sum d y_i \right) = 0$
+
+[del]$E \sum \left( \frac{1}{L_i} - a \cos \theta_i \right) \left( a dx_{i+1} - dx_i \right)$[/del]
+$E [del]\sum[/del] \left( \frac{1}{L_{i+1}} - [del]a[/del] \cos \theta_{i+1} \right) a - E \left( \frac{1}{L_i} - [del]a[/del] \cos \theta_i \right) a = 0$

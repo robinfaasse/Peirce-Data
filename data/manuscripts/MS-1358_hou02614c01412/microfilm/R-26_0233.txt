@@ -1,0 +1,20 @@
+[marginalia]Morrison's Bridge 1899 March 3[/marginalia] [pn]2[/pn]
+
+$A_{12} = -\frac{10!}{12!} a A_{10} - \frac{10!}{12!} c A_{8}$
+$= +\frac{1}{12!} a^{6} - \frac{1}{12!} \left( \frac{2!}{0!} + \frac{4!}{2!} + \frac{6!}{4!} + \frac{8!}{6!} \right) a^{4}c + \frac{1}{12!} \left( \frac{2!}{0!} \frac{6!}{4!} + \frac{2!}{0!} \frac{8!}{6!} + \frac{4!}{2!} \frac{8!}{6!} \right) a^{2}c^{2}$
+$- \frac{1}{12!} \left( \frac{10!}{8!} \right. \hfill + \frac{1}{12!} \left( \frac{2!}{0!} \frac{10!}{8!} + \frac{4!}{2!} \frac{10!}{8!} + \frac{6!}{4!} \frac{10!}{8!} \right) a^{2}c^{2}$
+$\hfill \rightarrow \frac{1}{12!} \left( \frac{2!}{0!} \frac{6!}{4!} \frac{10!}{8!} \right) c^{3}$
+$= \frac{1}{12!} a^{6} - \frac{1}{12!} \left( \frac{2!}{0!} + \frac{4!}{2!} + \frac{6!}{4!} + \frac{8!}{6!} + \frac{10!}{8!} \right) a^{4}c + \frac{1}{12!} \left[ \left( \frac{2!}{0!} \frac{6!}{4!} + \frac{2!}{0!} \frac{8!}{6!} + \frac{4!}{2!} \frac{8!}{6!} \right) + \frac{4!}{2!} \left( \frac{2!}{0!} + \frac{4!}{2!} \right) + \frac{6!}{4!} \frac{10!}{8!} \right] a^{2}c^{2}$
+$\hfill \rightarrow \frac{1}{12!} \left( \frac{2!}{0!} \frac{6!}{4!} \frac{10!}{8!} \right) c^{3}$
+
+$A_{14} = \frac{1}{14!} a^{7} + \frac{1}{14!} [ \hfill + \frac{12!}{10!} ] a^{5}c - \frac{1}{14!} [ \hfill + \frac{12!}{10!} \hfill \frac{12!}{10!} \hfill [ \frac{12!}{10!} ] a^{3}c^{2}$
+$\hfill + \frac{1}{14!} \left\{ \frac{2!}{0!} \left[ \frac{6!}{4!} \frac{10!}{8!} + \frac{2!}{0!} \frac{6!}{4!} \frac{12!}{10!} \right] \right\}^{2}$
+$\hfill + \left. \frac{8!}{6!} \frac{12!}{10!} \right] + \frac{4!}{2!} \frac{8!}{6!} \frac{12!}{10!} \right\} a c^{3}$
+
+[fig]arithmetic scratchwork[/fig]
+
+$1 - \frac{1!}{2!} a \eta^{2} + \frac{\eta^{4}}{4!} (a^{2} - 2c) + \frac{\eta^{6}}{6!} (a^{3} + 14ac) + \frac{\eta^{8}}{8!} (a^{4} - 144a^{2}c + 2 \cdot 30 c^{2}) + \frac{\eta^{10}}{10!} (-a^{5} + (100 ac -$
+
+$\frac{2!}{0!} \frac{6!}{4!} + \left( \frac{2!}{0!} + \frac{4!}{2!} \right) \frac{8!}{6!} + \left( \frac{2!}{0!} + \frac{4!}{2!} + \frac{6!}{4!} \right) \frac{10!}{8!} + \left( \frac{2!}{0!} + \frac{4!}{2!} + \frac{6!}{4!} + \frac{8!}{6!} \right) \frac{12!}{10!}$
+
+[fig]arithmetic scratchwork[/fig]

@@ -1,0 +1,9 @@
+[u]Direct modes of relative[/u]
+[u]Syllogism[/u]
+
+$a \prec b$  $c \prec l^a$  $\therefore c \prec l^b$  |  $l \prec m$  $a \prec l^b$  $a \prec m^b$
+$a \prec b$  $l^b \prec c$  $\therefore l^a \prec c$  |  $l \prec m$  $m^a \prec b$  $l^a \prec b$
+$a \prec b$  $c \prec l^b$  $\therefore c \prec l^a$  |  $l \prec m$  $a \prec [del]m^b[/del] [ins]l^b[/ins]$  $a \prec [del]l^b[/del] [ins]m^b[/ins]$
+$a \prec b$  $c \prec l^a$  $\therefore c \prec l^b$  |
+$a \prec b$  $a \prec l^o b$  $\therefore a \prec l^o a$  |
+$a \prec b$  $l^o a \prec c$  $\therefore l^o b \prec c$  |

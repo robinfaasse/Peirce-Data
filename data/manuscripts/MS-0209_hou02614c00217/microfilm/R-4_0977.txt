@@ -1,0 +1,21 @@
+of the only ways he can net a gain, we have
+
+[u]x[/u]ₙ = [u]p[/u]·[u]x[/u]ₙ₋₁ + (1-[u]p[/u])·[u]x[/u]ₙ ₊ ₁.
+
+There will be a corresponding equation for every value of [u]n[/u], so long as [u]n[/u]-1 is not less than 0, nor [u]n[/u] + 1 greater than [u]a[/u]. That is to say, there will be [u]a[/u]-1 such equations between the [u]a[/u] + 1 unknown quantities, and two more equations are required to make a solution possible. But these two equations are very obvious. In the first place, if he has not yet lost anything, or has become square again, and then gains his next bet, he has certainly netted his gain, and therefore the equation in this case is
+
+[u]x[/u]₀ = [u]p[/u] + (1-[u]p[/u]) · [u]x[/u]₁
+
+If, on the other hand, he has lost [u]a[/u] francs, his entire fortune, he cannot bet any more, and cannot possibly net a gain; so that
+
+[u]x[/u]ₐ = 0
+
+Here, then, is a system of [u]a[/u] + 1 linear equations between as many unknown quantities. Such a system, we know, has just one solution; that is there is a set of values of the unknowns which satisfies all the equations and this is the only set that does so. Now I say that all those equations are satisfied by the [u]a[/u] + 1 values represented by the formula.
+
+[u]x[/u]ₙ = [u]p[/u]ⁿ ⁺ ¹ [fraction](1-[u]p[/u])[u]ᵃ[/u]⁻[u]ⁿ[/u]-[u]p[/u][u]ᵃ[/u]⁻[u]ⁿ[/u] / (1-[u]p[/u])[u]ᵃ[/u]⁺¹-[u]p[/u][u]ᵃ[/u]⁺¹[/fraction]
+
+For, in the first place, this gives
+
+[u]x[/u]₋₁= [u]p[/u]ⁿ [fraction](1-[u]p[/u])[u]ᵃ[/u]⁻[u]ⁿ[/u]⁺¹-[u]p[/u][u]ᵃ[/u]⁻[u]ⁿ[/u] ⁺ ¹ / (1-[u]p[/u])[u]ᵃ[/u]⁺¹-[u]p[/u] [u]ᵃ[/u]⁺¹[/fraction]
+
+[marginalia]See p. 127 note.[/marginalia]

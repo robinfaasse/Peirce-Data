@@ -1,0 +1,21 @@
+$$px + \sum_i a_i x_i = b$$
+
+For $p$ write [del]$a_0$[/del] [ins]$a_0$[/ins]
+" $x$ " $x_0$
+" $p$ " $a'_0$
+
+$$\sum'_i a_i x_i = b$$
+
+$$m_i = Q \frac{a_i}{a_k} \quad a'_i = R \frac{a_i}{a_k}$$
+
+$$(\sum'_{i \neq k} a'_i x_i) + a_k x'_k = b$$
+
+$$a_i = a_k Q \frac{a_i}{a_k} + R \frac{a_i}{a_k}$$
+$$= a_k m_i + a'_i$$
+
+$$\sum'_{i \neq k} (a_k Q \frac{a_i}{a_k} + R \frac{a_i}{a_k}) x_i + a_k x_k = b$$
+[ins]$a'_i$[/ins]
+
+$$a_k x'_k = \frac{b}{a_k}$$
+
+$$x'_k = \sum'_i Q \frac{a_i}{a_k}$$

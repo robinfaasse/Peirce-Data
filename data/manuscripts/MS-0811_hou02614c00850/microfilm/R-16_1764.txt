@@ -1,0 +1,39 @@
+[pn]286[/pn] PROCEEDINGS OF THE AMERICAN ACADEMY.
+
+Owing to its double character, analogy is very strong with only a moderate number of instances.
+
+### § 4. *Formal Relations of the above Forms of Argument.*
+
+If we take an identical proposition as the fact to be explained by induction and hypothesis, we obtain the following formulæ.
+
+*By Induction.*
+$S, S', S''$ are taken at random as being $M$,
+$S, S', S''$ have the characters common to $S, S', S''$.
+$\therefore$ Any $M$ has the characters common to $S, S', S''$.
+
+*By Hypothesis.*
+$M$ is, for instance, $P, P', P''$.
+Whatever is at once $P, P'$, and $P''$ is $P, P', P''$.
+$\therefore$ Whatever is at once $P, P'$, and $P''$ is $M$.
+
+By means of the substitution thus justified, Induction and Hypothesis can be reduced to the general type of syllogism, thus:—
+
+*Induction.*
+$S, S', S''$ are taken as $M$,
+$S, S', S''$ are $P$;
+$\therefore$ Any $M$ is $P$.
+
+*Reduction.*
+$S, S', S''$ are $P$;
+Almost any $M$ has the common characters of $S, S', S''$.
+$\therefore$ Almost any $M$ is $P$.
+
+*Hypothesis.*
+$M$ is, for instance, $P', P'', P'''$,
+$S$ is $P', P'', P'''$;
+$\therefore S$ is $M$.
+
+*Reduction.*
+Whatever is, at once, $P', P'', P'''$ is like $M$,
+$S$ is $P', P'', P'''$;
+$\therefore S$ is like $M$.

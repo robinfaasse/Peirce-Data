@@ -1,0 +1,20 @@
+[pn]Logic
+III
+62[/pn]
+
+[del](x < y) < (x < z) < v, which last is by (85), equivalent to y < z[/del]
+
+last, by (84), is equivalent to asserting that either (y < z) or v is
+true. But if v is true, (x < y) < (x < z) < v is true, by (66).
+If y < z is true, [ins]by (65)[/ins] either y is false or z is true. In the former
+case, [del]y < v is true; and since[/del] [ins](by 67)[/ins] (x < y) < v is true, by (84), it
+follows that (x < y) < v is true, and by (66) (x < z) < (x < y) < v
+is true, or by transposition (x < y) < (x < z) < v is true. If,
+however, y is true, while z is false, [del]yet z is true, then[/del]
+[del]then[/del] since we have [ins]already[/ins] considered the case in which v is
+true, we may now assume v is false, so that, by (68),
+u is false. Then by (65) x < u is false, and since
+(x < v) < v is true, so that, by (84), x is true, (x < x < u) is
+[ins]by (65)[/ins] false, and by (67) (x < z < u) < v is true, and by (66),
+(x < y) < (x < z < u) < v is true. This rule, notwith-
+standing its complexity, is one of the most useful.

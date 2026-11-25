@@ -1,0 +1,22 @@
+$$\Delta_x u_x = u_{x+1} - u_x$$
+$$\sum_x (u_{x+1} - u_x) = (u_x - u_{x-1}) + (u_{x-1} - u_{x-2}) + \dots + (u_{q+1} - u_q)$$
+where $u_q = 0$
+$$\sum_x u_x = u_{x-1} + u_{x-2} + \dots - u_q$$
+where [del]$u_q = \sum_x u_x$[/del]
+
+[del]$$\sum_x u_x =$$[/del]
+
+$$\Delta_x u_{x-1} + u_{x-2} + u_{x-3} + \dots - u_p$$
+$$= u_x - u_p$$
+$$\sum_p^x u_y = \sum u_x - \sum u_p$$
+
+$$\Delta_x^2 u_x = u_{x+2} - 2u_{x+1} + u_x$$
+$$\Delta_x u_x = u_{x+1} - u_x$$
+$$(E-1)^0 u_x = \Delta_x^0 u_x = u_x$$
+$$(E-1)^{-1} u_x = \Delta_x^{-1} u_x = u_{x-1} + u_{x-2} + u_{x-3} + \dots - u_q \quad (u_q = 0)$$
+
+[del]$$\Delta_x^{-1} \Delta_x u_x$$[/del]
+[del]$$(E-1)^{-1} = (-1)^{-1} (1-E)^{-1} =$$[/del]
+$$(E-1)^{-n} u_x = E^{-n} (1-E^{-1})^{-n} u_x = u_{x-n} - n u_{x-n-1} + \frac{n(n-1)}{2} u_{x-n-2} + \dots - u_q$$
+$$(E-1)^{-1} u_x = u_{x-1} + u_{x-2} + u_{x-3} + \dots - u_{\infty}$$
+$$+ u_x + u_{x+1} + u_{x+2} + \dots - u_{\infty}$$

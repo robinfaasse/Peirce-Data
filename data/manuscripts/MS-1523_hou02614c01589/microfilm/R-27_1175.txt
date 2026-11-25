@@ -1,0 +1,11 @@
+[fig]vertical tally marks[/fig]
+$$\left(x-\frac{1}{3}\right)\left(x^2-\frac{2}{9}x+\frac{1}{81}-3y^2\right)$$
+$$=x^2-\frac{2}{9}x+\frac{1}{[del]81[/del][ins]27[/ins]}+y^2$$
+$$\begin{array}{rll}
+x^3-\frac{2}{9}x^2 & +\frac{1}{81}x-3xy^2 & -\frac{1}{[del]81[/del][ins]243[/ins]} \\
+-\frac{1}{3}x^2 & +\frac{2}{81}x & -\frac{1}{729} \\
+[del]-\ \ x^2[/del] & [del]+\frac{2}{9}x[/del] & [del]+y^2[/del] \\
+& & +y^2 \\
+\hline
+x^3-\frac{5}{9}x^2 & +\frac{3}{81}x-3xy^2 & -\frac{10}{729}+y^2
+\end{array}$$

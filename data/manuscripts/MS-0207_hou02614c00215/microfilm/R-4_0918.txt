@@ -1,0 +1,26 @@
+[pn]R[/pn] [pn]17[/pn]
+
+in value between $\frac{M}{N}$ and $\frac{R}{S}$ where denominator is lower than $N+S$.
+But, [del]as shown p. 8,[/del] $\frac{M+R}{N+S}$ is so intermediate. [ins]Moreover as shown p. 8,[/ins] [del]And in like manner, the[/del]
+fraction the comparant of $\frac{M+R}{N+S}$ and $\frac{R}{S}$ is also unity; so that, the
+fraction of lowest denominator intermediate between these is $\frac{M+2R}{N+2S}$ and
+the comparant [ins]of[/ins] $\frac{M+2R}{N+2S}$ and $\frac{R}{S}$ is unity, and so on. Consequently,
+whatever integer $K$ may be, the fraction of lowest denominator inter-
+mediate between $\frac{M+KR}{N+KS}$ and $\frac{R}{S}$ (supposing $RN-MS=1$) is $\frac{M+(K+1)R}{N+(K+1)S}$.
+
+Now if we take any [del]vulgar[/del] fraction $\frac{A_1}{A_0}$, and proceed to form the series
+of numbers $Q_1$, $Q_2$, etc. according to the rule that in dividing
+$A_n$ by $A_{n+1}$, where $n$ is any integer, $Q_n$ is the integer quotient
+and $A_{n+2}$ the remainder, and if $Q_f$ is the last finite number
+among the series of $Q$s, and if we then proceed to form a series
+of fractions, $\frac{B_n}{C_n}$, where [del]$B_0 = 1$[/del] $\frac{B_0}{C_0} = \frac{1}{0}$, $\frac{B_1}{C_1} = \frac{0}{1}$, and $\frac{B_{n+1}}{C_{n+1}} = \frac{B_{n-1}+Q_n B_n}{C_{n-1}+Q_n C_n}$
+there will be no fraction intermediate in value between any two successive
+fraction $\frac{B_n}{C_n}$ and $\frac{B_{n+1}}{C_{n+1}}$ of lower denominator than $\frac{B_n+B_{n+1}}{C_n+C_{n+1}}$. For
+the comparant of $\frac{1}{0}$ and $\frac{0}{1}$ is unity, and consequently so are the com-
+parant of any two of the successive terms. But we shall have $\frac{B_{f+1}}{C_{f+1}} = \frac{A_1}{A_0}$.
+For [del]$\frac{B_2}{C_2}$ is formed by[/del] [ins]may[/ins] as if we [del]to[/del] [ins]may[/ins] be regarded as formed by taking
+the reciprocal of $\frac{A_1}{A_0}$, that is, $\frac{A_0}{A_1}$, [del]striking off the fraction which equals $\frac{Q_1 A_1 + A_2}{A_1}$,[/del]
+striking off the fractional part $\frac{A_2}{A_1}$, and [del]by[/del] taking the reciprocal of the inte-
+ger, so as to give $\frac{B_2}{C_2} = \frac{1}{Q_1}$. So $\frac{B_3}{C_3}$ is formed by [del]substituting[/del] [ins]restoring,[/ins] not exactly $\frac{A_2}{A_1}$, but
+a similar approximation to it. That is $\frac{1}{Q_1 + \frac{1}{\frac{A_1}{A_2}}} = \frac{1}{Q_1 + \frac{1}{Q_2 + \frac{A_3}{A_2}}}$ and neglecting
+the fraction $\frac{A_3}{A_2}$ we get $\frac{B_3}{C_3} = \frac{Q_2}{Q_1 Q_2 + 1}$. And each value of $\frac{B_{n+1}}{C_{n+1}}$ is obtained

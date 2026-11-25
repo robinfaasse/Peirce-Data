@@ -1,0 +1,18 @@
+[pn]8[/pn]
+
+[u]Theorem IV.[/u] Whatever $i, a, e$ may be if
+$i \hat{<} a \hat{<} e$
+then $a \hat{<} i \hat{<} e$.
+
+[u]Proof.[/u] For suppose $i, a, e,$ to be any such things that $i \hat{<} a \hat{<} e$.
+Then I have only to show that $a \hat{<} i \hat{<} e$. By Clause 1,
+
+(No 1) If $e$, then $i \hat{<} e$
+(No 2) If $i \hat{<} e$, then $a \hat{<} i \hat{<} e$. By Clause 2,
+(No 3) Either $i$ or $i \hat{<} e$
+(No 4) Either $a$ or $a \hat{<} i \hat{<} e$. By Clause 3,
+(No 5) If $i$ and $i \hat{<} a \hat{<} e$, then $a \hat{<} e$
+(No 6) If $a$ and $a \hat{<} e$, then $e$. By (No 5) and the Hypothesis,
+if $i$, then $a \hat{<} e$; whence, by (No 3), either $i \hat{<} e$ or $a \hat{<} e$; whence by
+(No 6), either $i \hat{<} e$ or if $a$ then $e$; whence by (No 1), if $a$, then $i \hat{<} e$;
+whence, by (No 4), if $a$, then $a \hat{<} i \hat{<} e$; whence, by (No 4), $a \hat{<} i \hat{<} e$. Q.E.D.

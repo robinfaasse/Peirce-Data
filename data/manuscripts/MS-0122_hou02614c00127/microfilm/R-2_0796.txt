@@ -1,0 +1,25 @@
+from which it follows that the order of four points
+$ABCD$ cannot be changed to $ACBD$ by such displace-
+ments. And hence, the two points which remain
+unmoved in any one rigid displacement so remain
+for all such displacements.
+
+Any rigid displacement may be taken as the unit
+displacement. That is to say, considering the displace-
+ment represented by the first equation above as such,
+the distance from $(x,y)$ to $(x',y')$ is unity, whatever be
+the value of $x$. If we write
+$$F^n \frac{x}{y} = - \frac{a_{xy}x + a_{yy}y}{a_{xx}x + a_{yx}y}$$
+we may find the value of $F^n \frac{x}{y}$ from the equation
+as follows:
+$$a_{xx} F^{n-1} \cdot F^n + a_{yx} F^n + a_{xy} F^{n-1} + a_{yy} = 0$$
+
+To solve this, substitute
+$$F^n = \frac{\phi^{n+1}}{a_{xx} \phi^n} - \frac{a_{yx}}{a_{xx}}$$
+by which the equation becomes
+$$(E^2 + (a_{yy} - a_{yx}) E + a_{xx}a_{yy} - a_{xy}a_{yx}) \phi^n = 0$$
+Writing
+$$\alpha = \frac{1}{2}(a_{yy} - a_{yx}) + \frac{1}{2}(a_{yy} + a_{yx}) \sqrt{1 - 4 \frac{a_{xx}a_{yy}}{(a_{xy} + a_{yx})^2}}$$
+$$\beta = \frac{1}{2}(a_{yy} - a_{yx}) - \frac{1}{2}(a_{yy} + a_{yx}) \sqrt{1 - 4 \frac{a_{xx}a_{yy}}{(a_{xy} + a_{yx})^2}}$$
+and we have
+$$\phi^n = C_1 \alpha^n + C_2 \beta^n$$

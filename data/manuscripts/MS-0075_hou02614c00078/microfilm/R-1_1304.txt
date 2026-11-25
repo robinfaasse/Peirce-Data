@@ -1,0 +1,28 @@
+[pn]16[/pn]
+
+as 4.
+
+Let us suppose, then, that we have two
+independent vectors $i$ and $j$, whose product
+is
+$ij = s_1 + v_1$
+Let us immediately substitute for $j$,
+$j' = s_1 i + j$
+Then we have
+$ij' = v_1$, $j'i = - v_1$
+This is a third vector linearly independent
+of $i$ and $j'$. Let us suppose that we have
+a fourth independent vector $k$, linearly
+independent of all the others. Suppose we have
+$j'k = s_2 + v_2$
+$ki = s_3 + v_3$
+Let us then substitute for $k$
+$k' = s_3 i + s_2 j' + k$
+and we have
+$j'k' = - s_3 v_1 [del]+ s_2[/del] + v_2$     $k'j' = s_3 v_1 - v_2$
+[del]$ik' = - s_3 + s_2 v_1$[/del]
+$k'i = [del]- s_3[/del] - s_2 v_1 + v_3$     $ik' = s_2 v_1 - v_3$
+
+Let us further suppose
+$(ij') k' = s_4 + v_4$
+Then because $ij'$ is a vector

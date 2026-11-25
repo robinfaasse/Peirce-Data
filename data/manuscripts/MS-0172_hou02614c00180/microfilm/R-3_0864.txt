@@ -1,0 +1,58 @@
+0
+[del]$\alpha + \beta$[/del] $\alpha\beta$
+$\alpha\beta(\alpha+\beta)$
+$\alpha^2\beta^2 + \alpha\beta(\alpha+\beta)^2$
+$2\alpha^2\beta^2(\alpha+\beta) + \alpha\beta(\alpha+\beta)^3$
+$\alpha^3\beta^3 + 3\alpha^2\beta^2(\alpha+\beta)^2 + \alpha\beta(\alpha+\beta)^4$
+$3\alpha^3\beta^3(\alpha+\beta) + 4\alpha^2\beta^2(\alpha+\beta)^3 + \alpha\beta(\alpha+\beta)^5$
+$\alpha^4\beta^4(\alpha+\beta)^0 + 6\alpha$
+
+[fig]Diagram with lines and letters a, b[/fig]
+
+[fig]Diagram with lines and numbers 1, 2, 3[/fig]
+
+[fig]Diagram with lines and numbers 1, 2, 3[/fig]
+
+[fig]Diagram with lines and letter a[/fig]
+
+[fig]Diagram with lines and letters a, b[/fig]
+
+[fig]Tree diagram with letters C, O[/fig]
+
+$a^2p$
+$p$
+$q$
+$ap + bq^2$
+$aq + abp + [del]b^2q^2[/del]$
+
+[fig]Diagram with lines and numbers 1, 2, 3[/fig]
+
+[fig]Diagram with lines and loops[/fig]
+
+-
+0
+$a$
+$ab$
+$a^2 + ab^2$
+$ab + ab^3$
+$a^3 + 2a^2b^2 + ab^4$
+
+$\frac{a^2b + ab^3}{a^3 + 2a^2b^2 + ab^4}$
+
+$P$
+$q$
+$ap + bq$
+$aq + abp + b^2q$
+$a^2p + 2abq + ab^2p + b^3q$
+$a^2q + 2a^2bp + 3ab^2q + a$
+
+$\begin{pmatrix} x & y & z \\ \xi & \eta & \zeta \end{pmatrix}$
+$x + \xi$  $y + \eta$  $z + \zeta$
+
+$\begin{pmatrix} x & y & z \\ \xi & \eta & \zeta \end{pmatrix}$
+$x + \xi$  $y + \eta$  $z + \zeta$
+
+$\begin{pmatrix} x & y & z \\ \xi & \eta & \zeta \end{pmatrix}$
+[del]$x + \xi$[/del]  [del]$y + \eta$[/del]  [del]$z + \zeta$[/del]
+[del]$x + \xi$[/del]  $x + \xi + \eta$  $y + \eta$  [del]$z + \zeta$[/del]
+[del]$x + \xi$[/del]  $x + y + \xi + \eta$  $y + z + \eta + 2\zeta$  $z + \zeta$

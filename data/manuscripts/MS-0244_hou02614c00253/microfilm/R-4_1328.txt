@@ -1,0 +1,20 @@
+[pn]Ms 244[/pn]
+
+[u]A Study of the Problem[/u]
+
+given
+$\phi x = \frac{a+bx}{c+ex}$ Required $\phi^n x$ in algebraic form, and required to discuss the transformation generally.
+
+(1) $\phi^{n+1} = \frac{a+b\phi^n}{c+e\phi^n} = \frac{\frac{a}{e} + \frac{b}{e}\phi^n}{\frac{c}{e} + \phi^n}$
+
+(2) $\phi^{n+1} + \frac{c}{e} = \frac{\frac{c^2}{e^2} + \frac{a}{e} + \frac{c+b}{e}\phi^n}{\frac{c}{e} + \phi^n}$
+
+(3) $(\phi^{n+1} + \frac{c}{e})(\phi^n + \frac{c}{e}) - \frac{c+b}{e}(\phi^n + \frac{c}{e}) [del]+ \frac{c^2}{e^2}[/del] + \frac{bc-ae}{e^2}$
+
+The "solution" of this is
+(4) $\phi^n + \frac{c}{e} = \beta \frac{1 + C \mu^n}{1 + C \mu^n}$ [ins]$\frac{C_1 (\alpha)^{n+1} + C_2 (\beta)^{n+1}}{C_1 \alpha^n + C_2 \beta^n}$[/ins]
+where $C$ is the arbitrary constant to be determined by
+(5) the condition that $\phi^0 x = x$
+(6) while $\mu = \frac{\alpha}{\beta}$ where
+(7) $\begin{cases} \alpha = \frac{c+b}{2e} - \frac{c-b}{2e} \sqrt{1 + \frac{4ae}{(c-b)^2}} \\ \beta = \frac{c+b}{2e} + \frac{c-b}{2e} \sqrt{1 + \frac{4ae}{(c-b)^2}} \end{cases}$
+(8) $\alpha\beta = (\frac{c+b}{2e})^2 - (\frac{c-b}{2e})^2 - \frac{a}{e} = \frac{bc-ae}{e^2}$

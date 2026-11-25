@@ -1,0 +1,25 @@
+[pn]53[/pn]
+
+Consider
+$$\Sigma_{7} \Pi_{7} \Sigma_{8} \Pi_{9} \left\{ \overline{x}_{7} + \gamma_{78} z_{8} ( \overline{\gamma}_{98} + I_{79} ) \right\}$$
+
+Elimination gives at once
+$$\Pi_{7} \Sigma_{8} ( \overline{x}_{7} + z_{8} )$$
+
+The contradictory of this is
+$$\Sigma_{9} \Pi_{0} x_{9} \overline{z}_{0}$$
+
+Consider then
+$$\Sigma_{7} [del]\Pi_{7}[/del] \Sigma_{8} \Pi_{9} \Pi_{0} \left\{ \overline{z}_{0} + \overline{x}_{7} + \gamma_{78} z_{8} ( \overline{\gamma}_{98} + I_{79} ) \right\}$$
+
+This must give
+[del]$$\Pi_{e}$$[/del] $$\Pi_{a} \Pi_{b} \Sigma_{c} \Sigma_{d} [del]\Pi_{e}[/del] \left( \overline{x}_{a} + \overline{x}_{b} + I_{ab} + z_{c} z_{d} I_{cd} \right) [ins]+ \overline{z}_{e}[/ins]$$
+
+For this purpose we change the quantifier to
+$$\Sigma_{7} \Pi_{7} \Pi_{9} \Sigma_{0} \Pi_{0} \text{ and repeat Boolean putting}$$
+$$7 \text{ for } 9 \text{ and } 9 \text{ for } 7 \text{ and } 1 \text{ for } 8 \text{. We thus have}$$
+$$\Sigma_{7} \Pi_{7} \Pi_{9} [del]\Sigma_{0}[/del] \Sigma_{1} \Pi_{0} \left\{ \overline{z}_{0} + \overline{x}_{7} + \gamma_{78} z_{8} ( \overline{\gamma}_{98} + I_{79} ) \right\} \left\{ \overline{z}_{0} + \overline{x}_{9} + \gamma_{91} z_{1} ( \overline{\gamma}_{01} + I_{90} ) \right\}$$
+$$\times \overline{z}_{0} + \overline{x}_{7} + \overline{x}_{9} + z_{1} z_{8} \gamma_{78} \gamma_{91} + I_{79}$$
+
+The contradictory of this is
+$$\Sigma_{e} \Sigma_{a} \Sigma_{b} \Pi_{c} \Pi_{d} ( x_{a} x_{b} I_{ab} z_{e} ( \overline{z}_{c} + \overline{z}_{d} + I_{cd} )$$

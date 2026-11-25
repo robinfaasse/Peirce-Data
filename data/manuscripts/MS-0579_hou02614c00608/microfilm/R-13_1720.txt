@@ -1,0 +1,14 @@
+4 Formulas
+
+I  $a \prec \{ b \prec [ c \prec ( d \prec e ) ] \}$     $\bar{a} + \bar{b} + \bar{c} + \bar{d} + e$
+
+[del]II[/del]  $a \prec \{ b \prec [ ( c \prec d ) \prec e ] \}$     $\bar{a} + \bar{b} + \overline{c \bar{d}} + e$
+$= ( \bar{a} + \bar{b} + c + e ) ( \bar{a} + \bar{b} + \bar{d} + e )$
+$( \bar{a} + \bar{b} + c ) ( \bar{a} + \bar{b} + \bar{d} ) + e$
+$( \bar{a} + \bar{b} + c ) \bar{a} + ( \bar{a} + \bar{b} + c ) \bar{b} + ( \bar{a} + \bar{b} + c ) \bar{d} + e$
+
+$\{ [ a \prec ( b \prec c ) ] \prec a \} \prec ( \{ [ a \prec ( b \prec c ) ] \prec b \} \prec ( \{ [ a \prec ( b \prec c ) ] \prec d \} \prec e ) )$
+
+[del]III[/del] Special
+
+$a \prec \{ b \prec [ ( a \prec d ) \prec e ] \}$

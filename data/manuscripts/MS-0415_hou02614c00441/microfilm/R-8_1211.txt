@@ -1,0 +1,25 @@
+[pn]304[/pn]
+
+§151. De Morgan's system will be much simplified by rejecting
+his assumption that there are S's, non-S's, P's, and non-P's,
+and leaving that point open. This is, in effect, to adopt the
+Philonian view, advocated throughout this volume, to the
+exclusion of the Diodoran view. This change [del]was[/del] [ins]was[/ins] virtually
+[del]and[/del] effected, [ins]though without naming De Morgan,[/ins] by Mrs. Franklin, then Miss Christine Ladd
+([u]Studies in Logic[/u], by Members of the Johns Hopkins University.
+Boston: Little, Brown, & Co. 1883. p. 61.), working upon the
+basis of a paper by Dr. Fabian Franklin ([u]Johns Hopkins[/u]
+[u]University Circulars[/u]. Vol II. p. 131. [date]April, 1881[/date].) Dr. Franklin's
+proposal was simply to represent any compound of terms
+and their negatives by assigning to each a power of two, and
+writing the sum of the powers on the dual system. Thus,
+we get
+P false, S false, or [u]P[/u] [u]S[/u] [del][u]S[/u] [u]P[/u][/del] = 00
+P false, S true, or [u]P[/u] S [del]S [u]P[/u][/del] = 01
+P true, S false, or P [u]S[/u] [del]•[/del] = 10
+P true, S true, or P S = 11
+Christine Ladd uses these numbers as exponents of powers
+of two, and makes $2^x$ stand for the part of the
+universe which is described by $x$. Then, adding all
+the parts of the universe she gets 16 possible states of
+the universe as follows:

@@ -1,0 +1,29 @@
+I propose now to prove that
+
+(16) $v_{m+q} = v_{q+1} v_m + v_q v_{m-1}$
+
+First if this holds for two successive values of $q$ it
+holds for all values of $q$. For suppose the above holds
+and also
+$v_{m+q+1} = v_{q+2} v_m + v_{q+1} v_{m-1}$
+
+Then the sum of these reduces to
+$v_{m+q+2} = v_{q+3} v_m + v_{q+2} v_{m-1}$
+
+But when $q=0$ and $q=1$ (16) becomes
+$v_m = 1 \cdot v_m + 0 \cdot v_{m-1}$
+$v_{m+1} = 1 \cdot v_m + 1 \cdot v_{m-1}$
+
+both of which hold and therefore (16) always holds.
+
+Let us now put $q=-p$ in (16) transpose and divide
+by $v_m$
+$\frac{v_{m-p} - v_{1-p} v_m}{v_m} = v_{-p} \frac{v_{m-1}}{v_m}$
+
+This reduces to
+(17) $\delta_m^p = v_{1-p} + v_{-p} \delta_m$
+
+[marginalia]
+$v_p = v_q v_r + R v_{p-1}$
+$v_{p+1} = v_{q+1} v_r + R v_{p-1}$
+[/marginalia]

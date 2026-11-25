@@ -1,0 +1,28 @@
+[marginalia]
+[fig]Mathematical scratchwork[/fig]
+[/marginalia]
+
+$\sin V = \frac{1}{r} \sin A$
+
+$\sin A = \sin (M + c) = \sin M \cos C + \cos M \sin C$
+$= \sin M + \varepsilon \sin M \cos M - \frac{1}{2} \varepsilon^2 \sin^3 M - \frac{1}{8} \varepsilon^4 \sin^5 M$
+$= \sin M (1 + \varepsilon \cos M - \frac{1}{2} \varepsilon^2 \sin^2 M - \frac{1}{8} \varepsilon^4 \sin^4 M)$
+
+$\frac{1}{x} = 1 - \chi + \chi^2 - \chi^3$
+
+$\frac{1}{r} = 1$
+$- \chi$  $+ 2 \varepsilon \cos M - \frac{3}{2} \varepsilon^2 \sin^2 M - 2 \varepsilon^3 \sin^4 M \cos M$
+$+ \chi^2$  $+ 4 \varepsilon^2 \cos^2 M - 6 \varepsilon^3 \sin^2 M \cos M$
+$- \chi^3$  $+ 8 \varepsilon^3 \cos^3 M$
+
+$= 1 + 2 \varepsilon \cos M + \varepsilon^2 (4 - 5 \frac{1}{2} \sin^2 M) + \varepsilon^3 \cos M (8 - 14 \sin^2 M - 2 \sin^4 M)$
+
+$\sin V = \sin M (1 + 3 \varepsilon \cos M + \varepsilon^2 (6 - \frac{[del]15[/del]}{2} \sin^2 M) + \varepsilon^3 \cos M (8 - \frac{[del]12[/del]}{[del]4[/del]} \sin^2 M - 2 \sin^4 M)$
+[marginalia]
+$2 - 2$
+[/marginalia]
+[marginalia]
+$20 \frac{1}{2}$
+$- \frac{1}{2}$
+$- 1$
+[/marginalia]

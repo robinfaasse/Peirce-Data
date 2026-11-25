@@ -1,0 +1,31 @@
+[pn]P 7[/pn] [pn]168[/pn]
+
+a reticulation is to be drawn showing the values of [u]w[/u]. A cer-
+tain line is to represent [u]B[/u] = 1, another [del]B = say[/del] [ins][u]B[/u] = 1.2589[/ins],
+another [del]B[/del] [ins][u]B[/u][/ins] = (1.2589)² = 1.5849, another [del]B[/del] [ins][u]B[/u][/ins] = (1.2589)³ = 1.9953,
+another [del]B[/del] [ins][u]B[/u][/ins] = (1.2589)⁴ = 2.5119, another [u]B[/u] = (1.2589)⁵ = 3.1623, etc
+while on the other side another line shall represent [u]B[/u] = (1.2589)⁻¹
+= 0.79433, another [u]B[/u] = (1.2589)⁻² = 0.63096, another
+[u]B[/u] = (1.2589)⁻³ = 0.50119, another [u]B[/u] = (1.2589)⁻⁴ = 0.39811, another
+[u]B[/u] = (1.2589)⁻⁵ = 0.31623, etc. These lines are crossed by others
+representing, say
+q = 1.00000     √1-q² = 0.00000
+q = 0.96593     √1-q² = 0.25882
+q = 2(0.96593)² - 1 = 0.86603     √1-q² = 2(0.96593)(0.25882)
+                                                                = 0.50000
+
+q = 4[(0.96593)³ - (0.96593)] = 0.70711 = 1 / √2
+                                    √1-q² = 0.70711
+q = 0.50000     √1-q² = 0.86603
+q = 0.25882     √1-q² = 0.9659258
+q = 0.00000     √1-q² = 1.00000
+
+These values are so taken that the successive values of q + √1-q² [u]i[/u]
+shall be the successive powers of 0.96593 + 0.25882 [u]i[/u], and
+(0.96593 + 0.25882 [u]i[/u])⁶ = [u]i[/u].
+
+Now w = (z-a)(z-b). Write
+w' = z-a
+w'' = z-b
+
+Then the reticulations for w' and w'' are very simple, consisting

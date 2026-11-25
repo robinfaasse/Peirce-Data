@@ -1,0 +1,31 @@
+A surface figure has line singularities and point singularities.
+It also has periphraxis, which is the number of [del]barriers[/del] [ins]points[/ins] necessary
+to prevent the formation of [del]non-singular non-collapsible surfaces[/del] [ins]simple[/ins]
+Its cyclosis is the number of [del]line-barriers[/del] [ins]barriers[/ins] necessary to prevent
+[del]non-singular non-collapsible filaments[/del].
+Its chorisis is the number of [del]simple[/del] surface barriers necessary to prevent
+[del]non-singular non-collapsible points[/del].
+
+The cyclosis of each piece of a [ins]singular line[/ins] [del]line singularity[/del] is odd. (But if there is a
+figure of 8 [del]and that node belongs to the line[/del] [ins]it cuts the surface into two pieces[/ins]) [ins]unless the surface has odd cyclosis.[/ins]
+
+At each singular point of the singular line the singularity
+changes by an even number.
+
+[fig]figure of eight[/fig] Each singular point of the surface diminishes the chorisis
+or increases the cyclosis by the singularity of the point.
+
+[fig]figure of eight with line[/fig] [del]That is, the chorisis (of the singular points are to be
+added to the chorisis of the surface[/del] [ins]The [del]compound of the[/del] [ins]and singularity[/ins][/ins]
+
+[fig]figure of eight with line and loop[/fig] That is, the total singularity of the singular points is to be
+added to the chorisis of the surface.
+
+[fig]two intersecting loops[/fig] If a singular line [del]has no singularities[/del] [ins]of singularity +1[/ins] it adds one to the periphraxis
+of the surface. But if it has two singular points at which
+its singularity changes from +1 to -1 it does not affect the
+periphraxis. If a singular line [del]of[/del] [ins]has[/ins] singularity -1 it subtracts 1
+from the periphraxis of the surface
+
+[fig]caricature of a man in profile[/fig] The singularity of a singular line is the number of its sheets
+on that length of it where the number of sheets is greatest.

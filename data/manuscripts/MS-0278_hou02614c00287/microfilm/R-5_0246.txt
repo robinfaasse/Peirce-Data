@@ -1,0 +1,20 @@
+[del]There is no p.[/del] [ins]There is a p.[/ins]
+[del]$\Pi_{i} \bar{p}_{i}$[/del] [ins]$\Sigma_{i} p_{i}$[/ins]
+
+There is not more than 1 p
+$\Pi_{i} \Pi_{j} \Pi_{q} \cdot \bar{p}_{i} + \bar{p}_{j} + q_{i} q_{j} + \bar{q}_{i} \bar{q}_{j}$
+
+There is more than one p.
+$\Sigma_{i} \Sigma_{j} \Sigma_{q} \cdot p_{i} p_{j} (\bar{q}_{i} + \bar{q}_{j}) (q_{i} + q_{j})$
+
+[del]The class m contains an individual[/del]
+[del]$\Sigma_{p} \Pi_{i} \Pi_{j} \Pi_{k} \Pi_{q}$[/del]
+
+There is just one p
+$\Sigma_{i} \Pi_{j} \Pi_{k} \Pi_{q} \cdot p_{i} (\bar{p}_{j} + \bar{p}_{k} + q_{j} q_{k} + \bar{q}_{j} \bar{q}_{k})$
+
+The class m contains an individual
+$\Sigma_{p} \Sigma_{i} \Pi_{j} \Pi_{k} \Pi_{q} \cdot m_{i} p_{i} (\bar{p}_{j} + \bar{p}_{k} + q_{j} q_{k} + \bar{q}_{j} \bar{q}_{k})$
+
+Every class under m contains an individual
+$\Pi_{p} \Sigma_{i} \Sigma_{q} \Sigma_{j} \Pi_{k} \Pi_{l} \Pi_{r} p_{i} \bar{m}_{i} + p_{j} q_{j} (\bar{q}_{k} + \bar{q}_{l} + r_{k} r_{l} + \bar{r}_{k} \bar{r}_{l})$

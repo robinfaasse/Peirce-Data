@@ -1,0 +1,16 @@
+[pn]2[/pn]
+
+$+ m_{3} l_{1}^{2} (D_{t}\theta_{1})^{2} + m_{3} l_{2}^{2} (D_{t}\theta_{2})^{2} + m_{3} (h_{3}^{2} + \gamma_{3}^{2}) (D_{t}\theta_{3})^{2}$
+$+ 2 m_{3} l_{1} l_{2} \cos (\theta_{1} - \theta_{2}) D_{t}\theta_{1} D_{t}\theta_{2}$
+$+ 2 m_{3} l_{1} h_{3} \cos (\theta_{1} - \theta_{3}) D_{t}\theta_{1} D_{t}\theta_{3}$
+$+ 2 m_{3} l_{2} h_{3} \cos (\theta_{2} - \theta_{3}) D_{t}\theta_{2} D_{t}\theta_{3}$
+
+[u]$U = \frac{1}{2} \varepsilon_{1} (\theta_{0} - \theta_{1})^{2} + \frac{1}{2} \varepsilon_{2} (\theta_{1} - \theta_{2})^{2} + \text{etc}$[/u]
+$+ [del]m_{1} g[/del] g m_{1} h_{1} \cos \theta_{1}$
+$+ g m_{2} l_{1} \cos \theta_{1} + g m_{2} h_{2} \cos \theta_{2} + \text{etc}$
+
+[u]$D_{\theta_{1}'} T = $[/u]
+$m_{1} (h_{1}^{2} + \gamma_{1}^{2}) D_{t}\theta_{1}$
+$+ m_{2} l_{1}^{2} D_{t}\theta_{1} + m_{2} l_{1} h_{2} \cos (\theta_{1} - \theta_{2}) D_{t}\theta_{2}$
+$+ m_{3} l_{1}^{2} D_{t}\theta_{1} + m_{3} l_{1} l_{2} \cos (\theta_{1} - \theta_{2}) D_{t}\theta_{2}$
+$+ m_{3} l_{1} h_{3} \cos (\theta_{1} - \theta_{3}) D_{t}\theta_{3}$

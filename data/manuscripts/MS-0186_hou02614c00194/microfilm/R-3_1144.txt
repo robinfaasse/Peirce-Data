@@ -1,0 +1,11 @@
+as equal, because we count round and round the ten, thus:
+
+[fig]Circular diagram of cards numbered 0 to 9 with outer numbers 10 to 22[/fig]
+
+We say 13 and 23 are equal, meaning their remainders after division by [ins]ten are equal.[/ins] This sort of equality of remainders after division is called [u]congruence[/u] by mathematicians and they write it with three lines, thus
+13 [u]≡[/u] 23 (mod. 10)
+The number 10 is said to be the [u]modulus[/u], that is, [ins]the divisor, or[/ins] the smallest number congruent to zero, or the number of numbers in the cycle.
+
+Instead of ten cards you may take the whole suit of 13, and then, imagining a system of numeration in which the base is thirteen and in which one counts
+1 2 3 4 5 6 7 8 9 10 Jack Queen King
+we have a similar result. Fourteen, or King-ace, is congruent with [del]one[/del] 1; fifteen, or King-two, with 2, etc.

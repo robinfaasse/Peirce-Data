@@ -1,0 +1,19 @@
+Thus, mutatis mutandis, all the formulae of trigonometry become
+applicable. In particular
+$\text{Clos}_N (x+1) = P \text{Clos}_N x + NQ \text{Slin}_N x$
+$\text{Slin}_N (x+1) = P \text{Slin}_N x + Q \text{Clos}_N x$
+
+$\Delta \text{Clos}_N x = (P-1) \text{Clos}_N x + NQ \text{Slin}_N x$
+$\Delta \text{Slin}_N x = (P-1) \text{Slin}_N x + Q \text{Clos}_N x$
+
+$\sum \text{Clos}_N x = \frac{\text{Clos}_N (x-1) - \text{Clos}_N x - P + 1}{2(1-[del]P[/del])} = \frac{1}{2} + \frac{\Delta \text{Clos}_N (x-1)}{2(P-1)}$
+
+$\sum \text{Slin}_N x = \frac{\text{Slin}_N (x-1) - \text{Slin}_N x + Q}{2(1-P)} = \frac{\Delta \text{Slin}_N (x-1)}{2(P-1)} - \frac{Q}{2(P-1)}$
+
+When $N=3$ [u]$P=2$[/u] [u]$P-1=1$[/u] [u]$Q=1$[/u]
+
+$\Delta \text{Clos}_3 x = \text{Clos}_3 x + 3 \text{Slin}_3 x$
+$\Delta \text{Slin}_3 x = \text{Slin}_3 x + \text{Clos}_3 x$
+
+$\sum \text{Clos}_3 x = \frac{1}{2} \left( 1 + \Delta \text{Clos}_3 (x-1) \right) = \frac{1}{2} \text{Clos}_3 (x-1) + \frac{3}{2} \text{Slin}_3 (x-1) + \frac{1}{2}$
+$\sum \text{Slin}_3 x = \frac{1}{2} \left( \Delta \text{Slin}_3 (x-1) - 1 \right) = \frac{1}{2} \text{Slin}_3 (x-1) + \frac{1}{2} \text{Clos}_3 (x-1) - \frac{1}{2}$

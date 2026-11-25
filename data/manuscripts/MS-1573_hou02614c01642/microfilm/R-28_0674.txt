@@ -1,0 +1,111 @@
+[marginalia]
+[pn]1[/pn]
+[/marginalia]
+
+[marginalia]
+[del]dr[/del]
+[/marginalia]
+
+[del]$\frac{r^{\frac{2}{3}}}{R^{\frac{2}{3}}} + v^{\frac{2}{3}} = 1$[/del]
+
+$r^{\frac{2}{3}} + R^{\frac{2}{3}} v^{\frac{2}{3}} = R^{\frac{2}{3}}$
+
+$v^{\frac{1}{3}} - v^{\frac{5}{3}}$
+
+$r v^2 = [del]\frac{R}{r}[/del] (R-r) (R-r)^{\frac{1}{2}} v^{\frac{1}{3}}$
+
+$r = (R-r)^{\frac{3}{2}} v^{\frac{1}{3}}$
+
+$v^{\frac{2}{3}} = \frac{r^{\frac{2}{3}}}{(R-r)}$
+
+$v = \frac{r^{\frac{3}{2}}}{(R-r)^{\frac{3}{2}}}$
+
+$\frac{r^{\frac{2}{3}}}{R^{\frac{2}{3}}} + \frac{r}{R-r} = 1$
+
+$\frac{r^{\frac{2}{3}}}{R^{\frac{2}{3}}} = 1 - \frac{r}{R-r} = \frac{R-2r}{R-r}$
+
+$\frac{r^2}{R^2} = \frac{(R-2r)^3}{(R-r)^3}$
+
+$r^2 (R-r)^3 = R^2 (R-2r)^3$
+
+$r^2 (R^3 - 3R^2 r + 3R r^2 - r^3) = R^2 (R^3 - 6R^2 r + 12R r^2 - 8r^3)$
+
+$R^3 r^2 - 3R^2 r^3 + 3R r^4 - r^5 = R^5 - 6R^4 r + 12R^3 r^2 - 8R^2 r^3$
+
+$r^5 - 3R r^4 + 5R^2 r^3 + 11R^3 r^2 - 6R^4 r + R^5 = 0$
+
+$dr = (R-r)^{\frac{3}{2}} \frac{2}{3} v^{-\frac{2}{3}} dv - \frac{3}{2} (R-r)^{\frac{1}{2}} v^{\frac{1}{3}} dr$
+
+$\frac{r^{\frac{2}{3}}}{R^{\frac{2}{3}}} + v^{\frac{2}{3}} = 1$
+
+$1 - 3 \frac{r}{R} + 3 \frac{r^2}{R^2} - \frac{r^3}{R^3} = 1 - 6 \frac{r}{R} + 12 \frac{r^2}{R^2} - 8 \frac{r^3}{R^3}$
+
+$3 \frac{r}{R} - 9 \frac{r^2}{R^2} + 7 \frac{r^3}{R^3} = 0$
+
+$3 - 9 \frac{r}{R} + 7 \frac{r^2}{R^2} = 0$
+
+$\frac{r}{R} = \frac{9 \pm \sqrt{81 - 84}}{14}$
+
+[fig]diagram of a cone[/fig]
+
+$dh = \frac{b db}{\sqrt{a^2+b^2}}$
+
+$dh = \frac{W db}{W \sqrt{a^2+b^2}} = \frac{W db}{C}$
+
+$d \frac{ab}{a+b} = \frac{(a db + b da)(a+b) - ab(da+db)}{(a+b)^2}$
+
+$= \frac{a^2 db + b^2 da}{(a+b)^2}$
+
+$\frac{W \sqrt{1 - \frac{w^2}{W^2}}}{a} = \frac{\sqrt{W^2 - w^2}}{a} = \frac{1 + \frac{r}{2}}{\sqrt{\frac{W^2}{w^2} - 1}}$
+
+$b = a$
+
+$R$
+
+$r$
+
+$r = \frac{R}{v}$
+
+$q = (R-r) v$
+
+$q = (R-r) v^{\frac{1}{2}}$
+
+$r = (R-r) v^{\frac{3}{2}}$
+
+$r = (R-r) v^{\frac{1}{2}}$
+
+$r = (R-r) v$
+
+$r^{\frac{2}{3}} = (R-r) v^{\frac{1}{3}}$
+
+$r(1+v^2) = R$
+
+$v^{\frac{1}{2}}$
+
+$U$
+
+$\frac{r^2}{R^2} = \frac{v R^2}{r^2}$
+
+$\frac{r^4}{R^4} = v$
+
+$\frac{r^{\frac{2}{3}}}{R^{\frac{2}{3}}} + \frac{r^{\frac{8}{3}}}{R^{\frac{8}{3}}} = 1$
+
+$\frac{r^{\frac{2}{3}}}{R^{\frac{2}{3}}} (1 + \frac{r^2}{R^2}) = 1$
+
+$\frac{r^2}{R^2} (1 + \frac{r^2}{R^2})^3 = 1$
+
+$\frac{r^2}{R^2} (1 + 3 \frac{r^2}{R^2} + 3 \frac{r^4}{R^4} + \frac{r^6}{R^6}) = 1$
+
+$\frac{r^8}{R^8} + 3 \frac{r^6}{R^6} + 3 \frac{r^4}{R^4} + \frac{r^2}{R^2} - 1 = 0$
+
+$\frac{x^2}{\sqrt{a^2+x^2}} = \frac{x^2}{a}$
+
+$\frac{x^2}{a^2+x^2} = \frac{x^2}{a^2}$
+
+$\frac{a^2}{a^2+x^2} = \frac{a^2}{a^2} = 1$
+
+$\frac{a^2}{a^2+x^2} = \frac{a^2}{a^2} - 1$
+
+$\frac{a^2}{a^2+x^2} = 0$
+
+$x^2 = R$

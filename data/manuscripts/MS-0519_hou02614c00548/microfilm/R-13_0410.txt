@@ -1,0 +1,31 @@
+[pn]69[/pn]
+
+$\prod_{j}^{n} \sum_{i}^{m} P_{ij}$
+
+Every man but $n$ loves $m$ women
+
+$\sum_{j}^{m} \prod_{i}^{(n)} L_{ij}$
+
+There are $m$ women loved by every man but $n$
+
+Suppose total number of men $N$
+" " " women $M$
+
+First prop. says $N-n$ men love each $m$ women
+Second says $m$ women are [del]there[/del] [ins]each[/ins] loved by $N-n$ men
+
+First prop. How many men are the $m$ women each loved by? $m$ is the smallest number of women who can be loved
+If the number of women $M$ is as great as $(N-n)m$ each may be loved [del]only once[/del] by only one man
+If $(N-n)m > M$
+one woman at least must be loved by 2 men
+If $(N-n)m > M+1$
+Either one woman must be loved by 3 men or 2 women must be loved by 2 men etc
+If $M < (N-n-1)m + 1$
+[del]2[/del] [ins]some[/ins] women must be loved by 2 men
+
+[fig]Geometric diagram with intersecting lines and points[/fig]
+
+[fig]Geometric diagram with intersecting lines[/fig]
+
+See DeMorgan
+Postpone this till have read DeMorgan

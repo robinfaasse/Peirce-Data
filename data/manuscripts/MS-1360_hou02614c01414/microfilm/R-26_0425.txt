@@ -1,0 +1,13 @@
+And [pn]$\phi_{0} = \frac{I \left(1 + \frac{1}{12} B\right)}{\text{Cable Section} \cdot l^{2}}$[/pn]
+
+We have then
+$$\text{Approx } H = ql \frac{\int_{0}^{1} \mu \frac{y}{f} d\theta}{\int \left(\frac{y}{f}\right)^{2} d\theta + \phi \left(1 + \frac{2 \text{ Backstays}}{1 + \frac{1}{12} B^{2}}\right)}$$
+
+From this we calculate $\zeta^{2}$
+
+when the moment is
+$$M = - \diamondsuit \zeta^{2} \frac{A}{B} Q l^{2} G(\zeta \theta) - \frac{\diamondsuit \zeta^{2} - 1}{\zeta^{2}} Q l^{2} A + \frac{l^{2}}{\zeta^{2}} q$$
+
+$$\frac{q}{Q} \frac{1}{\zeta^{4} \diamondsuit}$$
+
+$0.06111$

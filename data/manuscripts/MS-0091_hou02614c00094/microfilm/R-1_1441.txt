@@ -1,0 +1,22 @@
+[pn]Calc Diff.
+4[/pn]
+
+regarding it as analogous [ins]to a[/ins] differential equation) would
+be simply a compact way of writing the N-2 different
+equations that that man would have discovered to hold
+good. The single equations which it embodies [del]would be[/del] [ins]are[/ins]
+[u]A[/u]₃ [u]u[/u]₃ + [u]A[/u]₂ [u]u[/u]₂ + [u]A[/u]₁ [u]u[/u]₁ = B₃
+[u]A[/u]₄ [u]u[/u]₄ + [u]A[/u]₃ [u]u[/u]₃ + [u]A[/u]₂ [u]u[/u]₂ = B₄
+[u]A[/u]₅ [u]u[/u]₅ + [u]A[/u]₄ [u]u[/u]₄ + [u]A[/u]₃ [u]u[/u]₃ = B₅
+[u]A[/u]₆ [u]u[/u]₆ + [u]A[/u]₅ [u]u[/u]₅ + [u]A[/u]₄ [u]u[/u]₄ = B₆
+etc.
+
+That equation of differences could be written
+[u]A[/u]ₙ Eₙ [u]E[/u]ₙ₋₁ [u]u[/u]ₙ₋₁ + [u]A[/u]ₙ₋₁ [u]E[/u]ₙ₋₁ [u]u[/u]ₙ₋₁ + [u]A[/u]ₙ₋₂ [u]u[/u]ₙ₋₁ = [u]B[/u]ₙ
+or
+[u]A[/u]ₙ Eₙ² [u]u[/u]ₙ₋₁ + [u]A[/u]ₙ₋₁ [u]E[/u]ₙ₋₁ [u]u[/u]ₙ₋₁ + [u]A[/u]ₙ₋₂ [u]u[/u]ₙ₋₁ = [u]B[/u]ₙ
+or again ([u]A[/u]ₙ Eₙ² + [u]A[/u]ₙ₋₁ [u]E[/u]ₙ₋₁ + [u]A[/u]ₙ₋₂) [u]u[/u]ₙ₋₁ = [u]B[/u]ₙ
+But [u]E[/u] [u]A[/u]ₙ = [u]A[/u]ₙ₊₁ and [u]E[/u] [u]A[/u]ₙ₊ᵢ [u]u[/u]ₙ₊ⱼ = [u]A[/u]ₙ₊ᵢ₊₁ [u]E[/u] [u]u[/u]ₙ₊ⱼ. Con-
+sequently, the equation might equally be written
+(Eₙ² + Eₙ + 1) [u]A[/u]ₙ₋₂ [u]u[/u]ₙ₋₁ = [u]B[/u]ₙ.
+We shall find that in such a case, there would be a simple

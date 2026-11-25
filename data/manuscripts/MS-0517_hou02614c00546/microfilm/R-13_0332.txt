@@ -1,0 +1,99 @@
+[fig]Geometric diagram with lines and points[/fig]
+
+[del]n points[/del]
+[del]n(n-1)[/del]
+[del]2[/del]
+
+[del]n![/del]
+[del](n-2)! 2![/del]
+
+[del]n![/del]
+[del](n-2)! 2![/del]
+
+(n-1) lines to each point
+
+Each line of each
+point meets n-2 lines
+
+Each line meets at the original
+points [del]2n-4[/del] lines
+
+There remain that each
+does not meet
+[del]n(n-1)[/del] - 1 - 2n + 4
+2
+
+= [del]n²-n[/del] - [del]5n + 3[/del]
+2
+
+= (n-2)(n-3)
+2
+
+No of new points
+n(n-1)(n-2)(n-3)
+8
+
+= n!
+(n-4)! 2³
+
+n!
+(n-2)! 2°
+
+n!
+(n-2)! 2¹
+
+[fig]Geometric diagram with lines and points[/fig]
+
+n!
+(n-2)! 2²
+
+[del]n![/del]
+[del](n-2)! 2³[/del]
+
+[del]n!/15[/del]
+
+[fig]Geometric diagram with lines and points[/fig]
+
+n²-5n+6
+2
+
+4n²-20n [del]+ 24[/del]
++ 25 = 1
+
+(2n-5)² = [del]1[/del]
+2n = 5 ± 1
+
+(n-2)(n-3)
+2
+
+[fig]Geometric diagram with lines and points[/fig]
+
+[fig]Geometric diagram with lines and points[/fig]
+
+n²-5n+6
+2
+
+n
+0 - 3
+1 - 1
+2 - 0
+3 - 0
+4 - 1
+5 - 3
+
+6 - 6
+7 - 10
+8 - 15
+9 - 21
+10 - 28
+11 - 36
+
+6 - 2
+2 - 0
+0 - 0
+0 - 2
+2 - 4
+6 - 6
+12 - 8
+
+[fig]Geometric diagram with lines and points[/fig]

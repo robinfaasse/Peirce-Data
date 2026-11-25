@@ -1,0 +1,15 @@
+Or by the rule
+$$b_c = \Pi_i (\bar{c}_i + b_i)$$
+we have
+[del]$$(a_b)_c =$$
+$$(a_b)_c =$$[/del]
+$$(a_b)_c = \Pi_i (\bar{c}_i + (a_b)_i)$$
+$$= \Pi_i (\bar{c}_i + \Pi_j (\bar{b}_j + a_j)_i)$$
+[del]$$= \Pi_i \Pi_j (\bar{c}_i + \bar{b}_j + a_j)_i$$[/del]
+Put $a = 0$
+$$(0_b)_c = \Pi_i \{ \bar{c}_i + (\Pi_j \bar{b}_j)_i \}$$
+On the contrary, we have
+[del]$$a_{(b_c)} =$$[/del]
+$$a_{(b_c)} = \Pi_i (a_i + \overline{(b_c)_i})$$
+$$0_{(b_c)} = \Pi_i \overline{(b_c)_i} = \overline{(b_c)}$$
+$$= \Sigma_i (c_i + \bar{b}_i)$$

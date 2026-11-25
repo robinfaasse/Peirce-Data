@@ -1,0 +1,19 @@
+Note
+p 46 355
+Note to p. 46 The following demonstration of the conditions of associativeness
+is perhaps more elegant: [del]otherwise stated as follows[/del]
+1[u]st[/u], Suppose [u]v[/u] O [u]v[/u] = [u]v[/u] and [u]f[/u] O [u]f[/u] = [u]f[/u]. Then I will show that the opera-
+tion is associative. For if not, it is [ins]would be[/ins] possible to give such values to [u]p[/u], [u]q[/u], [u]r[/u],
+that [u]p[/u] O ([u]q[/u] O [u]r[/u]) [del]≠[/del] ([u]p[/u] O [u]q[/u]) O [u]r[/u].
+But of these three values, [u]p[/u], [u]q[/u], [u]r[/u], some two must be equal. But all three cannot
+be equal, since then, because of [u]v[/u] O [u]v[/u] = [u]v[/u] and [u]f[/u] O [u]f[/u] = [u]f[/u], the inequality would
+not hold. Suppose then first that [u]p[/u] = [u]r[/u] [del]≠[/del] [u]p[/u] [del]B[/del] [u]q[/u]. If then [u]p[/u] O [u]q[/u] [del]≠[/del] [u]q[/u] O [u]p[/u], substi-
+tuting [u]p[/u] for [u]r[/u] [u]p[/u] O ([u]q[/u] O [u]p[/u]) = [u]p[/u] O ([u]p[/u] O [u]q[/u]) = ([u]p[/u] O [u]p[/u]) O [u]q[/u] =
+([u]p[/u] O [u]q[/u]) O [u]r[/u], contrary to the hypothesis. Suppose, secondly, then, that
+[u]q[/u] = [u]r[/u], [del]q[/del] [u]q[/u] [del]≠[/del] [u]p[/u]. Then, substituting [u]q[/u] for [u]r[/u] [u]p[/u] O ([u]q[/u] O [u]q[/u]) = [u]p[/u] O [u]q[/u], and
+since this is unequal to ([u]p[/u] O [u]q[/u]) O [u]q[/u], it follows that [u]p[/u] [del]B[/del] [del]≠[/del] [u]p[/u] O [u]q[/u]. But in
+that case, there being only two different values possible, [u]p[/u] O [u]q[/u] = [u]q[/u], and
+[u]p[/u] O ([u]q[/u] O [u]q[/u]) = [u]p[/u] O [u]q[/u] = [u]q[/u] while ([u]p[/u] O [u]q[/u]) O [u]q[/u] = [u]q[/u] O [u]q[/u] = [u]q[/u], contrary
+to the hypothesis. The third supposition, that [u]p[/u] = [u]q[/u] would evidently
+lead to an absurdity analogous to the last; so that in no way can
+the associativeness fail in this case. [fig]figure[/fig]

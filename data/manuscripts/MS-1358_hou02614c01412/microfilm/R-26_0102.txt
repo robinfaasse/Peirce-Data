@@ -1,0 +1,37 @@
+[pn]3[/pn]
+
+[u]Milton's Bridge 1899 Jan 30[/u]
+
+[del]D[sup]2[/sup][sub]s[/sub]θ = [del]C[/del] C cos θ - [frac]kgl[/frac] / β sen θ[/del]
+
+<u>Identification of coefficients</u>
+θ = a[sub]0[/sub] + a[sub]1[/sub]s + a[sub]2[/sub]s[sub]2[/sub] + a[sub]3[/sub]s[sub]3[/sub] + etc
+
+2a[sub]2[/sub] = C cos a[sub]0[/sub]
+6a[sub]3[/sub] = -Ca[sub]1[/sub] sin a[sub]0[/sub] - [frac]kgl[/frac] / β cos a[sub]0[/sub]
+12a[sub]4[/sub] = -C [frac]1[/frac] / 2 a[sub]1[/sub][sup]2[/sup] cos a[sub]0[/sub] [del]- Ca[sub]2[/sub] sin a[sub]0[/sub][/del] + [frac]kgl[/frac] / β a[sub]1[/sub] sin a[sub]0[/sub]
+[ins]- [frac]1[/frac] / 2 C[sup]2[/sup] sin a[sub]0[/sub] cos a[sub]0[/sub][/ins]
+
+20a[sub]5[/sub] = [del]- C a[sub]1[/sub]a[sub]2[/sub] cos a[sub]0[/sub][/del] - C a[sub]3[/sub] sin a[sub]0[/sub] + [frac]kgl[/frac] / β [frac]1[/frac] / 2 a[sub]1[/sub][sup]2[/sup] cos a[sub]0[/sub] + [frac]kgl[/frac] / β a[sub]2[/sub] sin a[sub]0[/sub]
+[ins][frac]1[/frac] / 2 Ca[sub]1[/sub] cos a[sub]0[/sub]
+||
++ [frac]1[/frac] / 2 C[sup]2[/sup] a[sub]1[/sub] (sin a[sub]0[/sub])[sup]2[/sup] + [frac]1[/frac] / 2 C [frac]kgl[/frac] / β sin a[sub]0[/sub] cos a[sub]0[/sub][/ins] [ins]+ [frac]1[/frac] / 6 a[sub]1[/sub][sup]3[/sup] sin a[sub]0[/sub]
+||
+- [frac]1[/frac] / 2 [frac]k[sup]2[/sup]g[sup]2[/sup]l[sup]2[/sup][/frac] / β[sup]2[/sup] sin a[sub]0[/sub] cos a[sub]0[/sub][/ins]
+
+30a[sub]6[/sub] = - C (a[sub]1[/sub]a[sub]3[/sub] + [frac]1[/frac] / 2 a[sub]2[/sub][sup]2[/sup]) cos a[sub]0[/sub] + [frac]1[/frac] / 24 Ca[sub]1[/sub][sup]4[/sup] cos a[sub]0[/sub] + ( [frac]1[/frac] / 2 C a[sub]1[/sub][sup]2[/sup]a[sub]2[/sub] - Ca[sub]4[/sub] ) sin a[sub]0[/sub]
+[ins]- [frac]1[/frac] / 6 Ca[sub]1[/sub][sup]2[/sup] sin a[sub]0[/sub] - [frac]kgl[/frac] / 6 β a[sub]1[/sub] cos a[sub]0[/sub]
+||
+- [frac]1[/frac] / 8 C[sup]2[/sup] cos[sup]2[/sup] a[sub]0[/sub][/ins] [ins][frac]1[/frac] / 4 C[sup]2[/sup] a[sub]1[/sub][sup]2[/sup] cos a[sub]0[/sub]
++ [frac]1[/frac] / 12 C[sup]2[/sup] a[sub]1[/sub][sup]2[/sup] cos a[sub]0[/sub] + [frac]1[/frac] / 2 [frac]kgl[/frac] / β a[sub]2[/sub] sin a[sub]0[/sub]
+- [frac]1[/frac] / 12 C a[sub]1[/sub] sin a[sub]0[/sub][/ins]
++ [frac]kgl[/frac] / β a[sub]1[/sub] a[sub]2[/sub] cos a[sub]0[/sub] + [frac]kgl[/frac] / β (a[sub]3[/sub] - [frac]1[/frac] / 3 a[sub]1[/sub][sup]3[/sup]) sin a[sub]0[/sub]
+[ins][frac]1[/frac] / 2 Ca[sub]1[/sub] cos a[sub]0[/sub][/ins] [ins]- [frac]1[/frac] / 6 Ca[sub]1[/sub] sin a[sub]0[/sub] - [frac]kgl[/frac] / β cos a[sub]0[/sub][/ins]
+
+= [frac]1[/frac] / 6 C[sup]2[/sup] a[sub]1[/sub][sup]2[/sup] sin a[sub]0[/sub] cos a[sub]0[/sub] + [frac]1[/frac] / 6 C [frac]kgl[/frac] / β a[sub]1[/sub] cos[sup]2[/sup] a[sub]0[/sub] - [frac]1[/frac] / 8 C[sup]3[/sup] cos[sup]3[/sup] a[sub]0[/sub] + [frac]1[/frac] / 24 C a[sub]1[/sub][sup]4[/sup] cos a[sub]0[/sub]
++ [frac]1[/frac] / 4 C[sup]2[/sup] a[sub]1[/sub][sup]2[/sup] sin a[sub]0[/sub] cos a[sub]0[/sub] + [frac]1[/frac] / 2 C [frac]kgl[/frac] / β a[sub]1[/sub] cos[sup]2[/sup] a[sub]0[/sub]
++ [frac]1[/frac] / 24 C[sup]2[/sup] a[sub]1[/sub][sup]2[/sup] sin a[sub]0[/sub] cos a[sub]0[/sub] + [frac]1[/frac] / 24 C[sup]3[/sup] sin[sup]2[/sup] a[sub]0[/sub] cos a[sub]0[/sub] - C [frac]kgl[/frac] / β a[sub]1[/sub] sin[sup]2[/sup] a[sub]0[/sub]
+- [frac]1[/frac] / 6 C [frac]kgl[/frac] / β a[sub]1[/sub] sin[sup]2[/sup] a[sub]0[/sub]
+- ([frac]kgl[/frac] / β)[sup]2[/sup] sin a[sub]0[/sub] cos a[sub]0[/sub] - [frac]1[/frac] / 3 [frac]kgl[/frac] / β a[sub]1[/sub][sup]3[/sup] sin a[sub]0[/sub]
+
+=

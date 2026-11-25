@@ -1,0 +1,121 @@
+```
+138021
+634
+
+1024
+24
+4096
+2048
+24576
+1024000
+1048576
+
+1  1024
+2  2048
+3  3072
+4  4096
+5  5120
+6  6144
+7  7168
+8  8192
+9  9216
+10 240
+
+[del]1024[/del]
+1  1024
+2  2048
+4  4096
+8  8192
+16 16384
+32 32768
+64 65536
+128 131072
+256 262144
+512 524288
+
+1048576
+2097152
+
+[marginalia]
+Bank loses 2 francs
+loss loss
+loss gain
+gain loss
+gain gain
+[fig]vertical line with cross-hatching[/fig]
+[/marginalia]
+
+[marginalia]
+[fig]curly bracket[/fig]
+[del]P(x,y)[/del]
+[del]P[/del] = chance a bank will win
+for [del]x[/del] [ins]y[/ins] bets with a fortune y
+[del]Q(x,y) = p Q(x-1, y-1) + q Q(x-1, y+1)[/del]
+= p² (x-2, y-2) + 2pq (x-2, y) + q² (x-2, y+2)
+[del]q[/del] = p + [del]r[/del] [ins]E[/ins] + [del]s[/del] [ins]E²[/ins] + [del]t[/del] [ins]E³[/ins]
+[/marginalia]
+
+[marginalia]
+The chance it will win
+(x-y) before it loses y
+y/x
+[/marginalia]
+
+[marginalia]
+1023
+869
+1.177
+[/marginalia]
+
+4096
+8192
+5120
+7168
+6144
+[u]49741824[/u]
+1024
+2147483648
+
+[del]Probability that with a fortune [del]x[/del] [ins]2^x[/ins]
+a man playing a martingale will[/del]
+
+Probability that [del]a man[/del] will lose
+x bets successively (1-p)ˣ
+
+[u] (1 - [frac]π[/frac]/[frac]1+π[/frac])ˣ [/u]
+1 - (1 - [frac]π[/frac]/[frac]1+π[/frac])ˣ
+= [frac]1[/frac]/(1+π)ˣ - 1
+
+[del]Odds[/del]
+Probability that a man will not lose
+x bets successively are
+[u] (π+1)ˣ - 1 [/u]
+π² + 2π
+
+29.397
+
+200 000 000 000
+
+1000 000 000 000 000 000 000 000
+
+200,000 quadrillions
+
+π = 1 - i
+π + 1 = 2 - i
+4 - 4i
+3 - [frac]4[/frac]/[frac]31[/frac] + [frac]i[/frac]/[frac]961[/frac]
+124
+
+1048600
+757600
+291,000
+
+[frac]1[/frac]/31
+
+[frac]61[/frac]/31
+78533
+49136
+[u]29397[/u]
+870.458794
+869.4  869:1
+```

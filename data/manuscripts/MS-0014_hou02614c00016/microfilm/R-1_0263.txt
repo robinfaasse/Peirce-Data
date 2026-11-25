@@ -1,0 +1,42 @@
+[marginalia]Quantity[/marginalia] [pn]23[/pn]
+
+each by one or other of two [del]f[/del]figures, say 0 and 1. $(2^m)^n$ represents the
+[del]num[/del] multitude of ways in which [del]the[/del] [ins]the[/ins] $n$ places can all be filled, [del]by[/del] [ins]each[/ins]
+some one [del]or other[/del] of $2^m$ figures, or sets of figures.
+
+[ins]Here[/ins]
+[del]Now[/del] it must be shown that all the individuals of any enumerable, denu-
+merable, or abnumeral [del]collection[/del] can be arranged in a linear series.
+I am not saying that there is room in space to do so. That is beside the question.
+It is merely meant that [ins]such[/ins] a relation can exist between the individual [del]that[/del]
+there is one of them to which no other is in that relation; that of any two different
+ones one only is in that relation to the other; that if A is in that relation to B and
+B is in that relation to C, [del]then[/del] [ins](except in one case)[/ins] A is in that relation to C; and that given any one
+individual of the collection [ins]intermediate or not,[/ins] there is another to which it is in that relation [del]without[/del]
+[del]being in that relation to any third which[/del] [ins]and[/ins] is in that relation to that second. That this
+is true of any enumerable or denumerable collection is evident; for coming [del]after[/del] [ins]begins[/ins]
+in the succession of whole numbers is such a relation. That if it is true of any
+collection whose multitude is $m$ it is also true of any collection, whose multitude
+is $2^m$ is easily shown. For such the latter collection can be put into complete corre-
+spondence with the collection of possible ways in which a collection of places
+of multitude $m$ can all be filled, each either with a 0 or a 1. Now this collection
+of multitude $m$ being ranged in such a series, which has a first [del]and[/del] member,
+and a member next after each member (except the last, if there is a last), the
+collection of multitude $2^m$ is so arranged by [del]taking[/del] that individual as first
+which corresponds to filling all the $m$ places by 0s and that one as last which
+[del]corresponds[/del] to filling all the $m$ places by 1s, and that individual as next after
+a given [del]in the des[/del] individual, of the [del]distri[/del] which corresponds to that distribution
+of 0s and 1s which differs from the distribution of corresponding to the individual
+it comes next after in changing its first 0 to 1 and [del]even[/del] changing [ins]every[/ins] [del]every[/del] 1's which
+may precede that 0 to 0's. It follows, then, that all abnumeral collections can
+[del]be arranged[/del] [ins]be ranged in[/ins] [del]in[/del] [del]a[/del] [ins]a[/ins] linear series.
+
+It may seem at first sight that this proves that all the abnumeral collections
+are equal; but a moment's reflection will show that this does not follow, since
+the multitudes $m$ are different for different $2^m$s.
+
+Returning, now, to the consideration of $(2^m)^n$, let the [ins]independent[/ins] $m$ places be arranged
+in serial order, and the $n$ places be also arranged in serial order. Then, [del]the[/del]
+[del]arrange[/del] ways representing $(2^m)^n$ will be ways of filling the block of places
+[del]consist[/del] of $m$ rows and $n$ columns, each with either a 0 or a 1. This may
+be written $2^{(m \cdot n)}$.

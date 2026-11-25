@@ -1,0 +1,51 @@
+[marginalia]
+$x = yi \quad dx = idy$
+[/marginalia]
+
+$\int_{-1-i}^{-1+i} \frac{dx}{x} = \int_{-i}^{+i} \frac{dx}{-1+x} = - \int_{-i}^{+i} \frac{dx}{1-x} = -i \int_{-1}^{+1} \frac{dy}{1-yi}$
+
+$\int_{-1+i}^{+1+i} \frac{dx}{x} = \int_{-1}^{+1} \frac{dx}{x+i} = -i \int_{-1}^{+1} \frac{dx}{1-xi}$
+
+[marginalia]
+$x = yi \quad dx = -idy$
+[/marginalia]
+
+$\int_{+1+i}^{+1-i} \frac{dx}{x} = \int_{+i}^{-i} \frac{dx}{1+x} = [del]\int_{+i}^{-i} \frac{dx}{1+x}[/del] -i \int_{-1}^{+1} \frac{dy}{1-yi}$
+
+$\int_{+1-i}^{-1-i} \frac{dx}{x} = \int_{+1}^{-1} \frac{dx}{x-i} = -i \int_{-1}^{+1} \frac{dx}{1+ix}$
+
+[fig]Diagram showing integration paths and coordinate axes[/fig]
+
+$\int \frac{dx}{x}$
+
+$\frac{a+bi}{x+yi} = \frac{ax-by}{ax-by + (ay+bx)i}$
+
+$ax-by = 1$
+$ay+bx = 0$
+
+$y = -\frac{b}{a}x$
+
+$(a+\frac{b^2}{a})x = 1$
+
+$x = \frac{a}{a^2+b^2}$
+$y = \frac{-b}{a^2+b^2}$
+
+$y=-1 \quad b=1+i$
+$y=+1 \quad x=1-i$
+
+$x = 1 - iy$
+
+$y=-1 \quad x=1-i$
+$y=+1 \quad x=-1-i$
+
+$x = -y-i$
+
+$y=1 \quad x=-1+i$
+$y=+1 \quad x=+1+i$
+
+$\frac{1}{y+i} = \frac{y}{y^2+1} - \frac{1}{y^2+1}i$
+
+$y=-1 \quad x=-1-i$
+$y=+1 \quad x=-1+i$
+
+$x = -1+iy \quad \frac{x+i}{i} = y \quad y = -ix+1$

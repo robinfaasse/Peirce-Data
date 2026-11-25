@@ -1,0 +1,22 @@
+$$A_{ji} = A_{ij} = (m_i h_i + \sum_{i+1}^p m_n l_i) l_j$$
+$$A_i = m_i (h_i^2 + \gamma_i^2) + \sum_{i+1}^p m_n l_i^2$$
+[del]$$B_{i, i-1} = B_{i-1, i}$$[/del]
+[del]$$B_{i, i}$$[/del]
+$$B_{i, i-1} = B_{i-1, i} = -\mathcal{E}_i$$
+$$B_i = \mathcal{E}_i + \mathcal{E}_{i+1} + g \sum_{i+1}^p m_n l_i + g m_i h_i.$$
+
+If from [del]the[/del] every row of this determinant, as the $j^{\text{th}}$, we subtract $\frac{l_j}{l_{j+1}}$ of the $(j+1)^{\text{th}}$, its [ins]elements[/ins] [del]becomes[/del] as follows:—
+
+For $k < j-1$, $A'_{kj} = \{ m_j h_j + m_{j+1} l_j (1 - \frac{h_{j+1}}{l_{j+1}}) \} l_k D^2$.
+
+For $k = j-1$, $A'_{j-1, j} = \{ m_j h_j + m_{j+1} l_j (1 - \frac{h_{j+1}}{l_{j+1}}) \} l_{j-1} D^2 - \mathcal{E}_j$.
+
+For $k = j$, $A'_j = \{ m_j (h_j^2 + \gamma_j^2) + m_{j+1} l_j^2 (1 - \frac{h_{j+1}}{l_{j+1}}) \} D^2$
+$$+ \mathcal{E}_j + \mathcal{E}_{j+1} (1 + \frac{l_j}{l_{j+1}}) + g \sum_{j+1}^p m_n l_j + g m_j h_j$$
+
+For $k = j+1$, $A'_{j+1, j} = [del]\{[/del] m_{j+1} (h_{j+1} - \frac{h_{j+1}^2 + \gamma_{j+1}^2}{l_{j+1}}) + \sum_{j+2}^p m_n [del]l_{j+1}[/del] (l_{j+1} - \frac{l_{j+1}^2}{l_{j+1}}) [del]\} l_j[/del] D^2$
+$$- \mathcal{E}_{j+1} (1 + \frac{l_j}{l_{j+1}}) - \mathcal{E}_{j+2} \frac{l_j}{l_{j+1}} - g \sum_{j+2}^p m_n l_{j+1} - g m_{j+1} h_{j+1}$$
+
+For $k = j+2$, $A'_{j+2, j} = \mathcal{E}_{j+2} \frac{l_j}{l_{j+1}}$
+
+For $k > j+2$ $A'_{kj} = 0$.

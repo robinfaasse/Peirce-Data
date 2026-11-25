@@ -1,0 +1,57 @@
+14
+145
+145
+
+2
+
+3.5
+3.5
+
+4
+4
+
+[fig]figure[/fig]
+1 2 3 4 5 6 7 8 9 x J Q
+[u]a b c a c b a c b b c[/u]
+a b c a c b a c d b c d
+a b [del]c[/del] [ins]a[/ins] [del]a[/del] [ins]c[/ins] [del]b[/del] [ins]d[/ins] b a [del]c[/del] [ins]d[/ins] c b d c
+a b c a d b a d c b d c
+
+[fig]figure[/fig]
+
+[fig]figure[/fig]
+
+[ins]x J Q[/ins]
+[ins]x J Q[/ins]
+3 2 1. 4 . 5 . 6 . 7 . 8 . 9 [ins]x J Q[/ins]
+[ins]x J Q[/ins]
+3 2 1. 4 . 5 . [ins]6[/ins] 7 . 8 . 9 [ins]x J Q[/ins] 1. 2 3 4 . 5. 6. 7. 8. 9 [ins]x J Q[/ins] [del]1[/del] 2. 3. 4. 5 6 7 8. 9 [ins]x J Q[/ins] [del]1 2[/del] 3. 4. 5 6 7 8. 9 [ins]x J Q[/ins]
+3 2 1. [del]4[/del]. 5. 6. 7. 8. 9 [ins]x J Q[/ins]
+3 2 1. [del]4[/del]. 5. 6. 7. 8 . 9 [ins]x J Q[/ins] 1. 2. 3. 4. 5. 6. 7. 8. 9 [ins]x J Q[/ins] [del]1[/del] 2 3 4 5 6 7 8. 9 [ins]x J Q[/ins]
+3 2 1. [del]4[/del]. 5. 6. 7. 8. 9 [ins]x J Q[/ins] 1 2 3 4 5 6 7 8 9 [ins]x J Q[/ins] [del]1[/del] 2 3 4 5 6 7 8 9 [ins]x J Q[/ins]
+[ins]x J Q[/ins] 1. 2. 3. 4. 5. 6. 7. 8. 9 [ins]x J Q[/ins] [del]1[/del] 2 3 4 5 6 7 8 9 [ins]x J Q[/ins]
+
+[ins]x J Q[/ins]
+3 1 2 . 4 . 5 . 6 . 7 . 8 9 [ins]x J Q[/ins] 1 2 3 4 5 6 7 8 9 [ins]x J Q[/ins]
+3 [del]1 2[/del]. 4 . 5 . 6 . 7 . 8 9 [ins]x J Q[/ins]
+3 [del]1 2[/del]. 4. 5. 6 . 7 . 8 . 9 [ins]x J Q[/ins]
+3 [del]1 2[/del]. 4 . 5 . 6 . 7 . 8 . 9 [ins]x J Q[/ins]
+[del]3 1 2 . 4 5 6 7 . 8 . 9 x J Q[/del]
+
+[ins]x J Q[/ins]
+[del]x J Q[/ins]
+[ins]x J Q[/ins]
+[del]1[/del] [del]2[/del] 3. 4. 5. 6. 7. 8. 9 [ins]x J Q[/ins] 1 2 3 4 5 6 7 8. 9 [ins]x J Q[/ins] 1 2 3 4 5 6 7 8 9 [ins]x J Q[/ins]
+2 [del]1[/del] 3. 4. 5. 6. 7. 8. 9 [ins]x J Q[/ins] 1 2 3 4 5 6 7 8 9 [ins]x J Q[/ins]
+[del]2[/del] 3. 4. 5. 6. 7. 8. 9 [ins]x J Q[/ins]
+[del]2[/del] [del]1[/del] 3. 4. 5. 6. 7. 8 9 [ins]x J Q[/ins] 1 2 3 4 5 6 7 8 9 [ins]x J Q[/ins] 1 2 3 4 5 6 7 8 9 [ins]x J Q[/ins]
+[del]2[/del] 3. [del]4 5[/del] 6. [del]7 8 9 x J Q[/del] 1 2. 3. 4. 5 6 7 8 9 [ins]x J Q[/ins] 1 2 3 4 5 6 7 8 9 [ins]x J Q[/ins]
+
+- 1. 2. 3. 4. 5. 6. 7. 8. 9 [ins]x J Q[/ins] 1. 2. 3. 4. 5. 6. 7 8 9 [ins]x J Q[/ins]
+- 2. 3. 4. 5. 6. 7. 8. 9 [ins]x J Q[/ins]
+1 2 3. 4. 5. 6. 7. 8 [ins]x J Q[/ins]
+1. 2 3 4. 5. 6. 7. 8. 9 [ins]x J Q[/ins]
+
+1 2 3 4 5 6. 7. 8. 9 [ins]x J Q[/ins]
+1 2 3 4 5 6 7 8. 9 [ins]x J Q[/ins]
+1 2 3 4 5 6 7 8. 9 [ins]x J Q[/ins]

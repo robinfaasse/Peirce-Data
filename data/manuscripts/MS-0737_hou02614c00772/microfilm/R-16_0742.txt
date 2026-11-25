@@ -1,0 +1,39 @@
+Method of Memoir assumes following
+
+(1) [u]a[/u]⤙a
+
+(2) If a⤙[del]b[/del] and b⤙c then [u]a⤙b[/u]⤙c
+
+(3) If [u]a⤙b[/u]⤙c then a⤙c and b⤙c
+
+<u>Proof</u>
+
+By (1) [u]a⤙b[/u]⤙[u]a⤙b[/u]
+
+A Hence by (3) a⤙[u]a⤙b[/u] b⤙[u]a⤙b[/u]
+
+By (1) c⤙c
+
+B Hence by (2) [u]c⤙c[/u]⤙c and by A c⤙[u]c⤙c[/u]
+
+By A b⤙[u]b⤙a[/u] a⤙[u]b⤙a[/u]
+
+C Hence by (2) [u]a⤙b[/u]⤙[u]b⤙a[/u]
+
+By A c⤙[u]b⤙c[/u]
+
+Also [u]b⤙c[/u]⤙[u]a⤙b[/u]⤙c
+
+Hence by principle of syllogism c⤙[u]a⤙b[/u]⤙c
+
+In the same way b⤙[u]a⤙b[/u]⤙c
+
+[del]And[/del]
+
+[del]Hence by A [u]a⤙b[/u]⤙[u]a⤙b[/u]⤙c[/del]
+
+Hence by (2) [u]a⤙b[/u]⤙[u]a⤙b[/u]⤙c
+
+D And again by (2) [u]a⤙b[/u]⤙[u]c[/u]⤙[u]a⤙b[/u]⤙c
+
+[u]a⤙b[/u] a⤙c

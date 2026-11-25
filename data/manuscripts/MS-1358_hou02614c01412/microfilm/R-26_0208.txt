@@ -1,0 +1,41 @@
+[marginalia]Union Bridge [date]1899 Feb 28[/date][/marginalia] [pn]7[/pn]
+
+$B D_x^4 y + W + 2 \kappa \xi D_x^2 y \left(1 + \frac{x^2}{\rho^2}\right)$
+
+$y = A + Bx + Cx^2 + Dx^3 + Ex^4 + Fx^5 + Gx^6 + \text{etc}$
+$D_x y = B + 2Cx + 3Dx^2 + 4Ex^3 + 5Fx^4 + 6Gx^5 + \text{etc}$
+$D_x^2 y = 2C + 6Dx + 12Ex^2 + 20Fx^3 + 30Gx^4 + \text{etc}$
+$D_x^3 y = 6D + 24Ex + 60Fx^2 + 120Gx^3 + \text{etc}$
+$D_x^4 y = 24E + 120Fx + 360Gx^2 + \text{etc}$
+
+$\begin{aligned}
+& 24 B E + 120 B F x + 360 [ins]B[/ins] G x^2 + \text{etc} \\
++ & W \\
++ & 4 C \kappa \xi + 12 \kappa \xi D x + 24 \kappa \xi E x^2 + \text{etc} \\
+& \qquad\qquad\qquad + \frac{4 \kappa \xi}{\rho^2} C x^2 + \text{etc}
+\end{aligned}$
+$\begin{aligned}
+y &= \Sigma A_n x^n \\
+D_x y &= n A_n x^{n-1} \\
+D_x^2 y &= n(n-1) A_n x^{n-2} \\
+D_x^3 y &= n(n-1)(n-2) A_n x^{n-3} \\
+D_x^4 y &= \frac{n!}{(n-4)!} A_n x^{n-4}
+\end{aligned}$
+
+$D_x^4 y \qquad B \frac{n!}{(n-4)!} A_n + [del]\frac{2 \kappa \xi \frac{n!}{(n-2)!} A_n}{\rho^2}[/del]$
+$\qquad\qquad\qquad [del]+ \frac{2 \kappa \xi}{\rho^2} \frac{(n+2)!}{n!} A_n[/del]$
+$\qquad\qquad\qquad + 2 \kappa \xi \frac{(n-2)!}{(n-4)!} A_{n-2}$
+$\qquad\qquad\qquad + \frac{2 \kappa \xi}{\rho^2} \frac{(n-4)!}{(n-6)!} A_{n-4}$
+
+$B u_{x+4} + 2 \kappa x u_{x+2} + \frac{2 \kappa \xi}{\rho^2} x(x-1) u_x = 0$
+
+[del]$B u_{x+4} + 2 \kappa x u_{x+2} = 0$[/del]
+[del]$B u_4 + 2 \kappa u_2 = 0$[/del]
+
+$u_{x+4} + L u_{x+2} + M x(x-1) u_x = 0$
+$u_4 = - L u_2$
+$u_6 + L u_4 + 5 \cdot 6 M u_2 = - [del]L^2[/del] [ins]u_2[/ins] (- L^2 + 30 M) u_2 = 0$
+$u_6 = (L^2 - 30 M) u_2$
+
+$u_8 = - L u_6 - 56 M u_4$
+$\quad = (- L^3 + 30 L M + 56 L) u_2$

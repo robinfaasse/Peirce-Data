@@ -1,0 +1,26 @@
+[pn]Logic
+I
+III
+65[/pn]
+
+be written $a \prec (b \prec [c \prec d])$, when $b \prec (c \prec d)$ and $c \prec d$
+would become additional constituents. By the standard con-
+stituents of an algebraical consequence shall be meant [del]what[/del] [ins]those which[/ins] would be
+its constituents if it were written in standard form. By potential
+constituents will be meant all those terms [ins]each of[/ins] which might become
+a constituent by adding or removing parentheses enclosing
+consequents of constituents.
+
+By the proximates of an algebraical consequence shall be
+meant those constituents which are not constituents of other
+constituents. Thus, in $(a \prec b) \prec (c \prec (d \prec e))$, the proximates are
+$a \prec b$, $c$, and $d \prec e$. The standard proximates are those
+constituents which would be proximates if the consequence were in
+standard form.
+
+By the ultimate of an algebraical consequence shall
+be meant that proximate whose relation to the consequence
+can be described as consequent, or consequent of the consequent,
+or by further repetitions of "consequent of". Thus $d \prec e$ is the ultimate
+of $a \prec b \prec (c \prec (d \prec e))$. The standard ultimate will be [del]that latter[/del] [ins]the constituent[/ins]
+which would be ultimate were the consequence written in standard form.

@@ -1,0 +1,20 @@
+[fig]Curly bracket pointing to the top line[/fig] [ins]C[/ins] ([u]\sqrt{u^2-u+1}[/u] i' + m' + un'
+
+CD ([u]\sqrt{u^2-u+1}[/u] i' + m' + un'] [[u]\sqrt{u^2-u+1}[/u] i' + m' + un'
+
+[fig]Table with mathematical expressions[/fig]
+| | i' | j' | k' | l' | m' | n' |
+|---|---|---|---|---|---|---|
+| [u]\sqrt{v}[/u] | | | | | -\sqrt{w} | -u\sqrt{w} |
+| -1 | -u | | | | +v\sqrt{u} | [del]v\sqrt{u}[/del] |
+| -uw | | | -w | | | +w\sqrt{u} |
+| [del]C^2D[/del] | | | | | | |
+| (u^2-u+1)\sqrt{w} | -u\sqrt{u} | -w\sqrt{u} | | +\sqrt{v} | +u\sqrt{v} |
+| -\sqrt{u} | | | | [del]+[/del](u^2-u+1) | [del]\rightarrow[/del]w(u^2-u+1) |
+| -uw\sqrt{u} | | | | | | |
+| +\sqrt{w} | +u\sqrt{w} | | -w | +\sqrt{v} | -u |
+| -\sqrt{u} | -w\sqrt{u} | | | -1 | |
+| | | | | -uw | |
+| +(u^2-u+1)\sqrt{w} | | +u\sqrt{w} | -u^2 | -uw | +u\sqrt{v} |
+| -uw\sqrt{u} | | -u\sqrt{u} | | | -u |
+| | | | | | -u^2w |

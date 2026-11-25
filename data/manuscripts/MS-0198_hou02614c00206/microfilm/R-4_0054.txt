@@ -1,0 +1,15 @@
+[u]Problem[/u]. Given a ray, {a}, required all the points whose perpendicular distances from that ray are equal to the distance between two given points [P] and [Q].
+
+[u]Solution[/u]. At the points of the ray, {a}, erect a perpendicular to it and on each [ins]like[/ins] perpendicular find a point at the given distance from the foot of the perpendicular. Then through each [ins]of[/ins] these two points draw a ray parallel to {a} and the points of these two rays are the only points which satisfy the conditions.
+
+[u]Exercize[/u]. Given two rays; find the points at given distances from these two rays.
+
+" . Given a point and a ray; find the points at given distances from that point and ray.
+
+[u]Problem[/u]. Given two points, [A] and [B]; find all the points equally distant from them.
+
+[u]Solution[/u]. [del]Bisect[/del] With [A] and [B] as centres and the same radius, draw two circles. Through their two points of intersection draw [del]a[/del] a ray. Then the points satisfying the conditions are the points of that ray and the points at infinity.
+
+[u]Exercize[/u]. Demonstrate the truth of the above solution.
+
+" . Through three given points required to draw a circle, by first finding the point equidistant from them all.

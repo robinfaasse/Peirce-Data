@@ -1,0 +1,24 @@
+of work in bending the truss per change of horizontal pull
+is zero. We may insert in the formula, the work of
+stretching the suspenders, along with the cable, and of
+course, in considering the truss, we must not forget the
+pier reactions.
+
+The work of stretching anything [del]is of[/del] [ins]by an[/ins] infinitesimal
+amount is, of course, the [del]pull multiplied by the sum[/del]
+of the masses of the particles, [del]and[/del] each multiplied
+by the acceleration upon it relative to the centre of mass,
+and also by the distance it moves in the direction of that
+acceleration and relative to the centre of mass as origin of
+the measurement. Consider an infinitesimally short bit of
+prism [ins](of density $k$, and cross section $b$,[/ins] whose length is changed from $l$ to $l(1+\epsilon)$ by a
+uniform acceleration, [del]distra[/del] [ins]in the space of time $T$,[/ins] so that the density remains
+always homogeneous. If then, $x_0$ is the initial position of
+a particle, [del]and[/del] [ins]reckoned from the centre longitudinally,[/ins] the position of that particle at any other
+time $t$, during the operation, is
+$$x = x_0 + x_0 \frac{\epsilon}{T^2} t^2$$
+The mass of the particles [del]is $kbdx$[/del] having this position is $kbdx$
+Their work is $2kb\ x_0^2 \frac{\epsilon^2}{T^4} t^2 dx_0$
+The integral of this is $\frac{2}{3} kb \frac{\epsilon^2}{T^4} t^2 x_0^3$ or between limits is $\frac{1}{6} k b l^3 \frac{\epsilon^2}{T^4} t^2$
+The acceleration of the particle is $2x_0 \frac{\epsilon}{T^2}$ The force of all [del]on the[/del] [ins]for which[/ins]
+$x_0$ has the same value is $2kb \frac{\epsilon}{T^2} x_0 dx_0$. The integral of this is

@@ -1,0 +1,37 @@
+Laplace in least chances
+has done just the opposite
+from what we have.
+
+[u]Lecture II.[/u]
+CHAPTER IV
+[u]48[/u] [del]1st[/del]
+[del]2nd[/del] As in book.
+[del]3rd[/del]
+
+[del]u v[/del] = [ins]$\frac{x^{m+1}}{m+1}$[/ins]
+$Dv = x^m$
+
+$\frac{x^{m+1}}{m+1} (\log x)^n - \frac{n}{m+1} \int x^m (\log x)^{n-1}$
+
+[u]50[/u] Eulerian Integral. Integrals
+
+$T_h = \int_0^1 (-\log x)^{h-1}$
+$\int u Dv = uv - \int v Du$
+$u = (-\log x)^{h-1}$ $Dv = 1$ $v = x$
+
+$Du = \frac{(h-1)}{x} (-\log x)^{h-2}$
+
+$x (-\log x)^{h-1} + (h-1) (-\log x)^{h-2}$
+
+$T_h = (h-1) \int_0^1 (-\log x)^{h-2} = (h-1) T_{h-1}$
+
+$T_p = T(p+1) = p!$
+
+If this integral $T_{p+1}$ is for [del]any[/del]
+quantity.
+
+$\frac{T_{p+1}}{T_{q+1}} = \frac{p!}{q!}$
+
+Hence value of tables.
+
+Chances. Cards.

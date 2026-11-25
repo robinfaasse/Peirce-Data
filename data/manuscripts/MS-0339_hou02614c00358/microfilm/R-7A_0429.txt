@@ -1,0 +1,46 @@
+[pn]209r[/pn]
+
+[date]1904 Jan 31[/date]
+
+I record here the "tedious" proof of the distributive principle
+which I omitted Am. J. Math. III. 33, and which requires
+a premise I failed to lay down
+
+[del]a + b[/del]
+[del]a · c[/del]
+[del]a · c < c[/del]
+[del]b · c < c[/del]
+[del]∴ a · c + b · c < c[/del]
+[del]a · c < a < a + b[/del]
+[del]b · c < b < a + b[/del]
+[del]∴ a · c + b · c < a + b[/del]
+[del]∴ a · c + b · c < (a + b) · c[/del]
+
+Now if [del](a + b) · c < a · c + b · c[/del]
+then there must be something [ins]m[/ins] such that
+m < (a + b) · c
+and [del]m < a · c + b · c[/del]
+From the first it follows that
+m < a + b
+m < c
+From the second
+a · c + b · c < m̄
+whence a < m̄ + c̄ i.e. m < ā
+b · c < m̄
+[del]whence either m < c which is contrary to above[/del]
+[del]or (what we are forced to)[/del]
+[del]m < b̄[/del]
+[marginalia]unless,
+indeed,
+m < 0
+when m < b
+m < c[/marginalia]
+[del]Now if m < b̄ there must be something, l, such that[/del]
+[del]l < m [ins]l < b̄ i.e. b < l̄[/ins][/del]
+[del]whence since m < ā l < ā i.e. a < l̄[/del]
+[del]∴ a + b < l̄ i.e. l < ā · b̄[/del]
+[del]But since l < m and m < a + b[/del]
+[del]Thus the idea that (a + b) · c < a · c + b · c is reduced to absurdity[/del]
+
+[marginalia]To show that (a + b) · c < a · c + b · c
+[del]show[/del] c · (a + b) < (b · c + a · c) + (a · c + b · c) [del]and (a + b) · c < c · (a + b)[/del][/marginalia]

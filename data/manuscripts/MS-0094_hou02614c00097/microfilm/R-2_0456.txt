@@ -1,0 +1,28 @@
+[pn]78[/pn] PLANE GEOMETRY. [CH. XIII. § 268.
+
+Ratio of Similar and Regular Polygons.
+
+**266. Theorem.** *Similar triangles are to each other as the squares of their homologous sides.*
+
+**Proof.** In the similar triangles $ABC$, $A'B'C'$ (fig. 109), we have, by § 199,
+$$CE : CE' = AB : A'B',$$
+which, multiplied by the proportion
+$$\frac{1}{2}AB : \frac{1}{2}A'B' = AB : A'B',$$
+gives
+$$\frac{1}{2}AB \times CE : \frac{1}{2}A'B' \times CE' = AB^2 : A'B^2,$$
+and, by § 251,
+$$\text{the area of } ABC : \text{the area of } A'B'C' = AB^2 : A'B^2.$$
+
+**267. Corollary.** Hence, by § 197 & 198, similar triangles are to each other as the squares of their homologous altitudes, and as the squares of their perimeters.
+
+**268. Theorem.** *Similar polygons are to each other as the squares of their homologous sides.*
+
+**Proof.** In the similar polygons $ABCD$ &c., $A'B'C'D'$ &c. (fig. 108), the triangles $ABC$, $A'B'C'$, which are similar, by § 196, give, by § 266, the proportion
+$$ABC : A'B'C' = AC^2 : A'C'^2;$$
+also the similar triangles $ACD$, $A'C'D'$, give the proportion
+$$ACD : A'C'D' = AC^2 : A'C'^2;$$
+hence, on account of the common ratio $AC^2 : A'C'^2$,
+$$ABC : A'B'C' = ACD : A'C'D'.$$
+In the same way may be obtained the continued proportion
+$$ABC : A'B'C' = ACD : A'C'D' = ADE : A'D'E', \text{ \&c.}$$
+Now the sum of the antecedents $ABC$, $ACD$, $ADE$, &c.

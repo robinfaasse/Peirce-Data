@@ -1,0 +1,47 @@
+[pn]12[/pn] [del]$\frac{z^2+ab}{(z-a)(z-b)^2}$[/del]
+
+[marginalia]
+$x_0 = a$
+$n = 1$
+[/marginalia]
+
+[marginalia]
+$x_0 = b$
+$n = 2$
+[/marginalia]
+
+[del]$\frac{z^2+ab}{(z-b)^2}$[/del]  $E_z = \frac{z^2+ab}{z-a}$
+
+$\frac{ab}{(x-a)}$
+
+$0 = \frac{(z-a)2z - (z^2+ab)}{(z-a)^2}$
+
+$\frac{2z^2-2az-z^2-ab}{(z-a)^2} =$
+
+$\frac{a^2+ab}{(b-a)(x-b)^2} + \frac{b^2-2ab}{(b-a)^2} \frac{1}{x-b}$
+
+$E_z = \frac{E_z}{lin z}$
+
+$\frac{z-x_0}{lin z} \times R_{x_0} = \pm \frac{1}{x-x_0}$
+
+***
+
+[u]Notation[/u]
+
+$\mathcal{E} =$ Total Res
+$\mathcal{E}_x =$ Residual
+
+$\mathcal{E} - \mathcal{E}_x =$ Resid. from
+
+$\mathcal{E}_z^b \left\{ \frac{\phi z}{x-z} \right\}$
+
+$\mathcal{E}_x \frac{\phi_x (x-x_0)}{(x-x_0)}$
+
+$\mathcal{E}_w^z + \mathcal{E}_z^y = \mathcal{E}_w^y$ How
+
+prevent $b$ from o
+twice? Take it each
+
+$\mathcal{E}_{x,y} + \mathcal{E}_{bK} = \mathcal{E}$
+
+$R_x$ is a linear

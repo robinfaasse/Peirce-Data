@@ -1,0 +1,24 @@
+$$(\phi\phi)^{N+N} = \phi^N\phi^N = \phi^{N+N}$$
+$$(\phi\phi)^{N+N} = (\phi\phi)\cdot(\phi\phi)^N$$
+$$= (\phi\phi)\cdot(\phi^N\phi^N)$$
+$$= \phi^N[\phi(\phi\phi^N)]$$
+$$= [\phi(\phi\phi^N)]\phi^N$$
+$$= [\phi\cdot\phi^{1+N}]\phi^N$$
+$$= (\phi^{1+N}\cdot\phi)\phi^N$$
+$$= \phi^{1+N}\cdot(\phi\cdot\phi^N)$$
+$$= \phi^{1+N}\cdot\phi^{1+N}$$
+
+$$\phi^{MN} = \phi^{NM}$$
+$$\phi\cdot\phi^N = (\phi^N\cdot\phi)\phi$$
+$$(\phi^{1+N})^N = (\phi\cdot\phi^N)^N$$
+$$(\phi\cdot\phi^{1+N})^N = \phi^2$$
+$$(\phi^M)^N = \phi^M\phi^{MN}$$
+$$(\phi^M\phi^M)^N = (\phi^M\phi^M)^N = \phi^{MN}\phi^{MN}\phi^{MN}$$
+$$(\phi\phi)^N = \phi^N\phi^N$$
+$$(\phi\phi)^N\phi = (\phi\phi^N)$$
+$$(\phi)^N = \phi^N\phi^{MN}$$
+$$[del](\phi\phi)^N[/del]$$
+$$(\phi\phi)^N = \phi^N\phi^N\phi^{MN}$$
+$$(\phi\phi\phi)(\phi\phi\phi) = (\phi\phi\phi)^{1+N}$$
+$$= \phi\phi\phi^N\phi\phi\phi^{MN}$$
+$$\phi\cdot\phi^N = (\phi)^{(1+N)}$$

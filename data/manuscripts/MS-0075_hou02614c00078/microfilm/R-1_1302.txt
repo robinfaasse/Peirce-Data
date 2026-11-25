@@ -1,0 +1,9 @@
+[pn]4[/pn]
+
+That is $ji = s' - \frac{s'}{s} v$
+or writing $r$ for $\frac{s'}{s}$
+$ji = r(s - v)$
+
+Q.E.D.
+
+The next step is to prove that this $r$ is equal to unity, so that if $ij = s + v$ then $ji = s - v$. If this [del]is true[/del] It is obviously sufficient to prove this when $i$ and $j$ are unit vectors. Now any quantity whatever [del]may have[/del] [ins]upon having[/ins] [del]its[/del] [ins]such[/ins] a scalar [del]added to[/del] [ins]sub-[/ins]tracted from it becomes a vector, unless it were a scalar at first. What is true then is that from any quantity such a scalar may be subtracted as to leave it either a scalar or a vector, that is to [del]make the[/del] [ins]leave the[/ins] square of the remainder a scalar. [del]Now[/del] We do not yet know whether the sum of two vectors is a vector or not. Let us, then, take any such sum as $ai + bj$ and [del]suppose[/del] [ins]let us determine[/ins] [del]suppose[/del] $-x$ to be the scalar which subtracted from it makes the square of the remainder a scalar. We have then $(x + ai + bj)^2$ a scalar.

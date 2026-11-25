@@ -1,0 +1,36 @@
+82. Solve the equations
+$$\begin{array}{rcccccccrc}
+5t & + & v & & & & -13z & = & - & 7 \\
+& & u-4v+ & w & & & & = & & 0 \\
+& t-4u+7v-4w+ & x & & & & = & & 7 \\
+& & u-4v+7w-4x+ & y & & & = & & 14 \\
+& & & v-4w+7x-4y+ & z & = & & 21 \\
+& & & & w-4x+ & y & & = & & 28 \\
+-17t & & & & + & x & +11z & = & & 35
+\end{array}$$
+The student should merely go over this, and not attempt to do it himself, independently.
+It will be best to arrange each equation in a column, thus:
+
+$$\left| \begin{array}{rrrrrrrrc}
+5 & 0 & 1 & 0 & 0 & 0 & -17 & T \\
+0 & 1 & -4 & 1 & 0 & 0 & 0 & U \\
+1 & -4 & 7 & -4 & 1 & 0 & 0 & V \\
+0 & 1 & -4 & 7 & -4 & 1 & 0 & W \\
+0 & 0 & 1 & -4 & 7 & -4 & 1 & X \\
+0 & 0 & 0 & 1 & -4 & 1 & 0 & Y \\
+-13 & 0 & 0 & 0 & 1 & 0 & 11 & Z \\
+[del]T[/del] & 0 & 7 & 14 & 21 & 28 & 35 & M
+\end{array} \right| = 0.$$
+
+We multiply the $3^{\text{rd}}$ and last two rows by 5, and increase them by $-1^{\text{st}}$, $13\times 1^{\text{st}}$, $7\times 1^{\text{st}}$, thus:
+
+$$\left| \begin{array}{rrrrrrrrc}
+5 & 0 & 1 & 0 & 0 & 0 & -17 & T \\
+0 & 1 & -4 & 1 & 0 & 0 & 0 & U \\
+0 & -20 & 34 & -20 & 5 & 0 & 17 & 5V-T \\
+0 & 1 & -4 & 7 & -4 & 1 & 0 & W \\
+0 & 0 & 1 & -4 & 7 & -4 & 1 & X \\
+0 & 0 & 0 & 1 & -4 & 1 & 0 & Y \\
+0 & 0 & 13 & 0 & 5 & 0 & -166 & 5Z+13T \\
+0 & 0 & 42 & 70 & 105 & 140 & 56 & 5M+7T
+\end{array} \right| = 0$$

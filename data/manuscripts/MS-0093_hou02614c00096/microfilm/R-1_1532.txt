@@ -1,0 +1,19 @@
+[u]Calculus of Finite Differences[/u]
+
+$E u_x = u_{x+1}$  $E u_{x+1} = u_{x+2}$ etc
+$E_x u_{x,y} = u_{x+1,y}$  $E_y u_{x,y} = u_{x,y+1}$ etc
+$E^2 u_x = u_{x+2}$  $E^3 u_x = u_{x+3}$  $E^n u_x = u_{x+n}$  $E^0 u_x = u_x$
+$\Delta u_x = u_{x+1} - u_x = E [del]u_x[/del] [ins]u_x[/ins] - u_x = (E-1) u_x$  $E^{-1} u_x = u_{x-1}$
+$\Delta^2 u_x = \Delta \Delta u_x = (E-1)(E-1) u_x = (E^2 - 2E + 1) u_x = u_{x+2} - 2u_{x+1} + u_x$
+$\Delta^3 u_x = (E-1)^3 u_x = (E^3 - 3E^2 + 3E - 1) u_x = u_{x+3} - 3u_{x+2} + 3u_{x+1} - u_x$
+$\Delta^n u_x = (E-1)^n u_x = \text{etc.}$
+$\Sigma u_x = \Delta^{-1} u_x$  $\Delta (\Delta^{-1} u_x) = u_x$
+$\therefore \Sigma u_x = u_{x-1} + u_{x-2} + u_{x-3} + \dots + u_2 + u_1 + C$
+for $E (u_{x-1} + u_{x-2} + u_{x-3} + \dots u_2 + u_1 + C) =$
+$u_x + u_{x-1} + u_{x-2} + u_{x-3} + \dots u_2 + u_1 + C$
+$\therefore (E-1) (u_{x-1} + u_{x-2} + \dots [del]u_1[/del] [ins]u_1[/ins] + C) = u_x$
+
+[del]$u_{x+1} + \Delta u_x = 0$[/del]
+[del]$E x! = (x+1)!$  $\Delta x! = (x+1)! - x! = x \cdot x!$[/del]
+$E u_x v_x = u_{x+1} v_{x+1} = (E u_x)(E v_x)$
+$E (u_x + v_x) = u_{x+1} + v_{x+1} = E u_x + E v_x$

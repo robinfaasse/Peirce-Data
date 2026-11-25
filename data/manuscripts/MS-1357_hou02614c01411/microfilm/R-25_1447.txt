@@ -1,0 +1,6 @@
+[pn]32[/pn]
+<u>Live Load</u>
+
+will select one described as follows. There shall be $2 \frac{Q}{ds}$ equations each of which shall equate to zero the variation of energy due to [del]the[/del] [ins]an infinitesimal[/ins] vertical [del]max[/del] displacement of a single joint without change of any other $y$; and there shall be two equations equating to zero the variations of energy due to the [ins]an infinitesimal[/ins] vertical displacement of one and the other extremity without [del]moving[/del] [ins]changing[/ins] any other $y$. [del]If $\delta \theta$ and $\delta y$[/del] Since the chain is supposed to be in equilibrium when lying straight and horizontal at the fixed level, [del]for[/del] we shall have for the change of elevation of the joint between the $n\text{th}$ and $(n+1)\text{th}$ links, $\delta y_n = \delta y_{n+1} = \frac{1}{2} ds \cdot \delta \theta_n = + \frac{1}{2} ds \cdot \delta \theta_{n+1}$. Hence, if the two links are unsupported
+$$0 = \delta \theta_{n+1} \frac{d}{d\theta_{n+1}} \left\{ \frac{1}{2} B \left[ (\theta_{n+2} - \theta_{n+1})^2 + (\theta_{n+1} - \theta_n)^2 \right] \right\} + \delta \theta_n \frac{d}{d\theta_n} \left\{ \frac{1}{2} B \left[ (\theta_{n+1} - \theta_n)^2 + (\theta_n - \theta_{n-1})^2 \right] \right\}$$
+$$+ w ds.$$

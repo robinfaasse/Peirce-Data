@@ -1,0 +1,52 @@
+[pn]8[/pn]
+[u]Morrison's Bridge 1897 March 3[/u]
+
+[del]1 + A₂x² + A₄x⁴ + A₆x⁶ + etc[/del]
+u = 1 + A₁x + A₂x² + A₃x³ + etc
+[u]1[/u]/u = 1 + B₁x + B₂x² + B₃x³ + etc
+1 = 1 + (A₁+B₁)x + (A₂+A₁B₁+B₂)x² + (A₃+A₂B₁+A₁B₂+B₃)x³
+
+B₁ = -A₁ [del]A₁B₁ = -A₁²[/del] A₂B₁ = -A₁A₂ A₃B₁ = -A₁A₃ etc
+B₂ = [del]-A₁B₁[/del] A₁² - A₂
+B₃ = [del]-A₁B₂[/del] -A₁³ + A₁A₂ [del]- A₁A₂ - A₃[/del] = -A₁³ - A₃
+
+B₄ = -A₁B₃ - A₂B₂ - A₃B₁ - A₄
+= +A₁⁴ + A₁A₃ - A₁²A₂ + A₂² [ins]+ A₄[/ins]
+[ins]+ A₁A₃[/ins]
+
+B₁ = -A₁
+B₂ = -A₁B₁ - A₂
+= A₁² - A₂
+
+B₃ = -A₁B₂ - A₂B₁ - A₃
+= -A₁³ + A₁A₂
+[ins]+ A₁A₂[/ins] - A₃
+= -A₁³ + 2A₁A₂ - A₃
+
+B₄ = -A₁B₃ - A₂B₂ - A₃B₁ - A₄
+= A₁⁴ - 2A₁²A₂ + A₁A₃
+[del]- A₁²A₂[/del] [ins]+ A₁A₃[/ins] + A₂² - A₄
+= A₁⁴ - 3A₁²A₂ + 2A₁A₃ + A₂² - A₄
+
+B₅ = -A₁B₄ - A₂B₃ - A₃B₂ - A₄B₁ - A₅
+= -A₁⁵ + 3A₁³A₂ - 2A₁²A₃ [del]- A₁A₂²[/del] + A₁A₄
+[ins]+ A₁³A₂[/ins] [del]- 2A₁²A₃[/del] [ins]+ A₂A₃[/ins]
+[ins]+ A₁A₄ + A₂A₂ - A₅[/ins]
+
+B₆ = -A₁B₅ - A₂B₄ - A₃B₃ - A₄B₂ - A₅B₁ - A₆
+= +A₁⁶ [del]- 4A₁⁴A₂[/del] + 3A₁³A₃ + 3A₁²A₂² - 2A₁²A₄ - 2A₁A₂A₃
+[del]- A₁⁴A₂[/del] + A₁A₅ + 3A₁²A₂² - A₁²A₄ [del]- 2A₁A₂A₃[/del]
+[del]- 2A₁A₂A₃[/del]
+[del]- A₁A₅[/del] - A₂³ + A₂A₄ + A₃² - A₆
+[ins]+ A₁A₅[/ins] [ins]+ A₂A₄[/ins]
+= A₁⁶ - 5A₁⁴A₂ + 4A₁³A₃ + 6A₁²A₂² - 3A₁²A₄ - 6A₁A₂A₃
++ 2A₁A₅ - A₂³ + 2A₂A₄ + A₃² - A₆
+
+aabb
+abab
+abba
+baab
+baba
+bbaa
+
+= -A₅ + 4A₁³A₂ - 3A₁²A₃ - 3A₁A₂² + 2A₁A₄ + 2A₂A₃ - A₅

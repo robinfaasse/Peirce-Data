@@ -1,0 +1,24 @@
+FL
+For example suppose [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig]
+$\Pi_a \ \overline{q}_{Pa} + l_{ab} + l_{ac}$
+$\Pi_A \ q_{QA} + \tau_{AB} \cdot \tau_{AC} \cdot \tau_{AD}$
+Then taking the fourth power of
+$\Pi_8 \Sigma_7 \ [del]q_{P8} \cdot[/del] \gamma_{s78} \cdot q_{P7} + \overline{q}_{Q8}$
+we have on multiplying by the others and identifying
+$\Pi_8 \Sigma_7 \Pi_{8'} \Sigma_{7'} \Pi_{8''} \Sigma_{7''} \Pi_{8'''} \Sigma_{7'''}$
+$\gamma_{s78} \cdot q_{P7} \cdot (l_{7b} + l_{7c}) \cdot \gamma_{s7'8'} \cdot q_{P7'} \cdot (l_{7'b} + l_{7'c}) \cdot \gamma_{s7''8''} \cdot q_{P7''} \cdot (l_{7''b} + l_{7''c}) \cdot \gamma_{s7'''8'''} \cdot q_{P7'''} \cdot (l_{7'''b} + l_{7'''c})$
+$+ \overline{q}_{Q8} \cdot \tau_{8B} \cdot \tau_{8C} \cdot \tau_{8D} + \overline{q}_{Q8'} \cdot \tau_{8'B} \cdot \tau_{8'C} \cdot \tau_{8'D} + \overline{q}_{Q8''} \cdot \tau_{8''B} \cdot \tau_{8''C} \cdot \tau_{8''D} + \overline{q}_{Q8'''} \cdot \tau_{8'''B} \cdot \tau_{8'''C} \cdot \tau_{8'''D}$
+which gives
+[del]$\Pi_8 \Pi_{8'} \Pi_{8''} \Pi_{8'''}$[/del]
+[del]$q_{Pb} \cdot \overline{q}_{b8} \cdot \overline{q}_{b8'} \cdot \overline{q}_{b8''} \cdot \overline{q}_{b8'''}$[/del] $+ \overline{q}_{Pb} \overline{q}_{Pc}$
+$q_{Pb} \cdot q_{Pc} (\gamma_{s b 8} \cdot \gamma_{s b 8'} \cdot \gamma_{s c 8''} \cdot \gamma_{s c 8'''} + \gamma_{s b 8} \cdot \gamma_{s c 8'} \cdot \gamma_{s b 8''} \cdot \gamma_{s c 8'''} + \gamma_{s b 8} \cdot \gamma_{s c 8'} \cdot \gamma_{s c 8''} \cdot \gamma_{s b 8'''}$
+$+ \gamma_{s c 8} \cdot \gamma_{s b 8'} \cdot \gamma_{s b 8''} \cdot \gamma_{s c 8'''} + \gamma_{s c 8} \cdot \gamma_{s b 8'} \cdot \gamma_{s c 8''} \cdot \gamma_{s b 8'''} + \gamma_{s c 8} \cdot \gamma_{s c 8'} \cdot \gamma_{s b 8''} \cdot \gamma_{s b 8'''})$
+$(U_{PQ} + U_{QR} + U_{PR}) \cdot (U_{PP} + U_{PR})$ [fig]figure[/fig] $U_{PQ} U_{QP} \quad U_{PR}$ [fig]figure[/fig] [fig]figure[/fig]
+$U_{PQ} + U_{QP} + \overline{U}_{PP}$ [fig]figure[/fig] $U_{PQ} =$
+$\overline{U}_{PQ} + \overline{U}_{QR} + \overline{U}_{PR}$
+$(\overline{a}_1 + b_1) (\overline{a}_2 + b_2)$ [fig]figure[/fig] $\Pi_8 \Sigma_7 \ [del]q_{P8} \cdot[/del] \gamma_{s78} \cdot q_{P7} + \overline{q}_{Q8}$
+$\overline{U}_{PQ} \times \overline{U}_{QP}$ $\times \Sigma_4 \Sigma_5 \Sigma_6 \ q_{P4} \cdot \gamma_{s45} \cdot \gamma_{s46} \cdot q_{Q5} \cdot q_{Q6} \cdot \tau_{56}$
+[fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] $V_{PQ} =$
+$\Pi_8 \Pi_9 \ q_{P7} \cdot q_{PQ} \cdot (\gamma_{s78} + \overline{\gamma}_{s98} + l_{79})$
+$\times \Sigma_i \Pi_j \ q_{Pj} \cdot (\overline{\gamma}_{s i j} + \overline{q}_{Qi})$
+[fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig]

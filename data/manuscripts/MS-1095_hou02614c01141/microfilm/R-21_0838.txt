@@ -1,0 +1,50 @@
+[u]Time[/u]
+
+The sidereal year = 365.256358 days
+
+Required to reduce this to hours minutes seconds.
+
+$6^{\text{h}} = 0.25$ day
+$1^{\text{h}} = 0.04166667$ day
+$10^{\text{m}} = 0.00694444$
+$1^{\text{m}} = 0.00069444444$
+$10^{\text{s}} = 0.000115740740$
+$1^{\text{s}} = 0.000011574074$
+
+[marginalia]
+$365^{\text{d}} 6^{\text{h}}$
+sid year
+[/marginalia]
+
+$\begin{array}{ll}
+9^{\text{m}} & 365.25625 \\
+& 365.256358 \\
+\hline
+& .000108 \\
+9^{\text{s}} & .0001042 \\
+\hline
+& .0000038 \\
+0.3^{\text{s}} & .0000035 \\
+\hline
+\end{array}$
+
+Sidereal year = 365 days $6^{\text{h}}$ $9^{\text{m}}$ $9^{\text{s}}.3$
+
+The [del]sidereal[/del] [ins]year[/ins] [del]day[/del] contains just one more sidereal day than the number of its solar days
+
+Hence the ratio is $\frac{366.256358}{365.256358} = 1.0027378313$
+
+$\begin{array}{rrcrlr}
+1 & 0365.256358 & \mathbf{2} & 730.512716 & & 04729 \\
+2 & 0730.512716 & & 262487284 & \mathbf{1} & 03653 \\
+3 & 1095.769074 & \mathbf{7} & 2556794506 & & 1076 \\
+4 & 1461.025432 & & 138078334 & \mathbf{3} & 1095 \\
+5 & 1826.281790 & \mathbf{3} & 1095769074 & & \\
+6 & 2191.538148 & & 285014266 & & \\
+7 & 2556.794506 & \mathbf{7} & 255679451 & & \\
+8 & 2922.050864 & & 29334815 & & \\
+9 & 3287.307222 & \mathbf{8} & 29220509 & & \\
+& 3652.563580 & & 0114306 & & \\
+& & \mathbf{03} & 109577 & & \\
+& & & 04729 & &
+\end{array}$

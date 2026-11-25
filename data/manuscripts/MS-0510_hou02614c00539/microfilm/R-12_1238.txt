@@ -1,0 +1,142 @@
+[fig]Diagram of nested circles with labels "cath" and "loves"[/fig] [fig]Diagram of nested circles with labels "wom" and "loves"[/fig] [fig]Diagram of nested circles with labels "cath" and "woman"[/fig] [fig]Diagram of nested circles with label "a"[/fig]
+
+[fig]Diagram of nested circles with labels "cath" and "loves"[/fig] [fig]Diagram of circle[/fig] [fig]Diagram of line with label "a"[/fig]
+[fig]Diagram of line with label "a"[/fig]
+
+[del]B exists[/del]
+[del]B woman[/del]
+
+Y exists
+Y cath
+[u]Y loves B[/u]
+
+[fig]Diagram of nested circles with labels "Z exist", "Z wom", "Z loves Z"[/fig]
+
+[fig]Diagram of nested circles with labels "X is cath", "X loves X"[/fig]
+
+[fig]Diagram of nested circles with labels "cath" and "loves"[/fig]
+
+[fig]Diagram of nested circles with labels "A", "B"[/fig]
+
+A exists
+A cath
+A wom
+
+[del]A exists[/del]
+[del]A cath[/del]
+[del]A woman[/del]
+
+[del]A exists[/del]
+[del]A wom[/del]
+[del]A loves A[/del]
+
+[del]C exists[/del]
+[del]C not A[/del]
+
+C exists
+C wom
+C loves C
+
+[del]A exists[/del]
+[del]A cath[/del]
+[del]A wom[/del]
+[del]B not A[/del]
+[del]B wom[/del]
+
+[del]A exists[/del]
+[del]A wom[/del]
+[del]A loves A[/del]
+
+[del]B exists[/del]
+[del]B wom[/del]
+[del]B loves B[/del]
+
+[del]C not A[/del]
+[del]C not B[/del]
+
+C exists
+C wom
+C loves C
+
+[del]B exists[/del]
+
+[fig]Diagram of crossed out circles[/fig]
+
+[fig]Diagram of crossed out circles[/fig]
+
+[fig]Diagram of nested circles with labels "d", "e", "h"[/fig]
+
+[fig]Diagram of nested circles with labels "d", "e"[/fig]
+
+[fig]Diagram of nested circles with labels "d", "e"[/fig]
+
+[fig]Diagram of nested circles with labels "d", "e", "h"[/fig]
+
+[fig]Diagram of circle[/fig]
+
+[fig]Diagram of crossed out circles with labels "A", "A loves A"[/fig]
+
+C exists
+C cath
+[u]C loves A[/u]
+
+[del]A exists[/del]
+[del]A cath[/del]
+[del]A loves A[/del]
+
+[del]B exists[/del]
+[del]B cath[/del]
+[del]B loves B[/del]
+
+[fig]Diagram of nested circles with label "a"[/fig]
+
+D not A
+[del]D not B[/del]
+D exists
+D cath
+[u]D loves A[/u]
+
+C exists
+C cath
+[u]C loves B[/u]
+
+D not A
+D not B
+D not C
+
+D exists
+D cath
+[u]D loves B[/u]
+
+Imposs.
+
+A exists
+A cath
+A wom
+C exists
+C not A
+
+D exists
+D not A
+D not C
+
+A exists
+A cath
+A wom
+B not A
+
+B wom
+C not A
+C not B
+
+D not A
+D not B
+D not C
+
+A loves B
+B exists
+
+[u]A loves A[/u]
+[u]B loves B[/u]
+
+[fig]Diagram of circle with label "B cath"[/fig]

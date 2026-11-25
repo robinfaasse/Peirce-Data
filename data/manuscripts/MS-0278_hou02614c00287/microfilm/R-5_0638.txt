@@ -1,0 +1,37 @@
+[del]$\pi_{i} \pi_{j} \overline{r_{ij}}$[/del]
+
+$\pi_{i} \overline{r_{ii}}$
+
+[del]$\sum_{i} r_{ii} \cdot \pi_{i} \pi_{k} \overline{r_{jj}} + r_{kk} + l_{jk}$[/del]
+
+$\sum_{i} \sum_{j} r_{ii} \cdot r_{jj} \cdot \tau_{ij} \cdot \sum_{k} \sum_{l} \overline{r_{kk}} \cdot \overline{r_{ll}} \cdot \tau_{kl}$
+
+$\sum_{i} \overline{r_{ii}} \pi_{j} \pi_{k} r_{jj} + r_{kk} + l_{jk}$
+
+$\pi_{i} \overline{r_{ii}}$
+
+---
+
+$\pi_{i} \pi_{j} \overline{r_{ij}} + l_{ij}$
+
+$\sum_{i} \sum_{j} r_{ij} \cdot \tau_{ij} [del]\pi_{k} \pi_{l}[/del] \pi_{m} \pi_{n} \overline{r_{kl}} + \overline{r_{mn}} + l_{km} \cdot l_{ln}$
+
+$\sum_{i} \sum_{j} \sum_{k} \sum_{l} r_{ij} \cdot r_{kl} \cdot \tau_{ik} \cdot \tau_{jl} \sum_{m} \sum_{n} \sum_{p} \sum_{q} \overline{r_{mn}} \cdot \overline{r_{pq}} \cdot \tau_{mp} \cdot \tau_{nq}$
+
+$\sum_{i} \sum_{j} \overline{r_{ij}} \cdot \tau_{ij} \pi_{k} \pi_{l} \pi_{m} \pi_{n} r_{kl} + r_{mn} + l_{km} \cdot l_{ln}$
+
+$\pi_{i} \pi_{j} r_{ij} + l_{ij}$
+
+---
+
+$\pi_{i} \pi_{j} \overline{r_{ij}}$
+
+$\sum_{i} \sum_{j} \pi_{k} \pi_{l} r_{ij} ( [del]\overline{r_{kl}} \cdot \overline{r_{ij}}[/del] \overline{r_{kl}} + l_{ik} \cdot l_{jl} )$
+
+$\sum_{i} \sum_{j} \sum_{k} \pi_{l} \pi_{m} r_{ij} \cdot r_{ik} \cdot ( \overline{r_{lm}} + l_{il} \cdot l_{mj} + l_{il} \cdot l_{mk} )$
+
+[del]$\sum_{i} \pi_{j} \pi_{k}$[/del]
+
+$\sum_{i} \sum_{j} \pi_{k} \pi_{l} \overline{r_{ij}} \cdot ( r_{ik} + l_{ik} ) ( \overline{r_{kl}} + l_{il} )$
+
+$\sum_{i} \pi_{j} \pi_{k} r_{ij} \cdot ( \overline{r_{kj}} + l_{ik} )$

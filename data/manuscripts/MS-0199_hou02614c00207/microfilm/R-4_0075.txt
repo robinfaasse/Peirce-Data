@@ -1,0 +1,56 @@
+[pn]141[/pn] [pn]B11b[/pn] of figures would only be in the ratio of 9 figures with base 6 to every 7 with base 10. For let us express 9999999 [ins]and 10000000[/ins] in the notation with base 6.
+
+Here is the work of conversion:
+
+[fig]Division of 9999999 by 6 repeatedly to find base 6 representation[/fig]
+
+[u]Remainders.[/u]
+6) 9³9³9³9³9³9³9
+6) 1⁶6⁶6⁶6⁶6⁶6
+6) 2⁷7⁷7⁷7⁷
+6) 4⁶2⁹6
+6) 7⁷1⁶
+6) 1²8⁶
+6) 2¹4
+6) 3⁵
+6) 5
+0
+
+3
+4
+1
+0
+0
+2
+4
+5
+5
+
+Sextal equivalent =
+554200143
+
+[fig]Division of 10000000 by 6 repeatedly to find base 6 representation[/fig]
+
+[u]Remainders.[/u]
+6) 1⁰0⁰0⁰0⁰0⁰0⁰0
+6) 1⁶6⁶6⁶6⁶6⁶6
+6) 2⁷7⁷7⁷7
+6) 4⁶2⁹9
+6) 7⁷1
+6) 1²8
+6) 2¹
+6) 3
+0
+
+4
+4
+3
+3
+3
+2
+3
+3
+
+Sextal equivalent = 33233344
+
+Thus the highest [del]numbers[/del] [ins]notation[/ins] which in decimal [del]arithmetic[/del] are expressed in 7 figures are in sextal notation expressed in 9 and in 8 figures. [del]It is on the average a trifle less than 7/9[/del] The ratio of the [del]number[/del] [ins]number[/ins] of figures required for decimal expression to the number required for sextal expression is [del]a trifle less than 7 to 9 on the average; since it is exactly the Briggsian logarithm of 6, which is 0.7781513. Now[/del] [ins]moreover nearer equality than that of 7 to 9[/ins]

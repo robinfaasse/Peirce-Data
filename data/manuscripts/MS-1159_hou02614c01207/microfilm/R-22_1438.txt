@@ -1,0 +1,28 @@
+$a < 90^\circ$ $b < 90^\circ$ $c < 90^\circ$
+Then if $C = 90^\circ$ [del]then[/del] [ins]by[/ins] $\cos B = \tan a \cot b$
+by $\cos B = \sin A \cos b$ $A < 90^\circ$ $B < 90^\circ$
+
+$A < 90^\circ$ $B < 90^\circ$ $C < 90^\circ$
+[fig]Venn diagram with three intersecting circles and shading[/fig]
+
+$A > 90^\circ$ $B < 90^\circ$ $C < 90^\circ$
+[fig]Venn diagram with three circles, labeled a, b, ?, ?, ?[/fig]
+
+$A > 90^\circ$ $B > 90^\circ$ $C < 90^\circ$
+[fig]Venn diagram with three circles and shading[/fig]
+
+$A > 90^\circ$ $B > 90^\circ$ $C > 90^\circ$
+[fig]Venn diagram with three circles, labeled a, b, c, and shading[/fig] [del]all[/del] [ins]Accounted for[/ins]
+
+[fig]Two overlapping Venn diagrams with shading[/fig]
+
+$\begin{array}{ccc}
+C a b \prec c & \bar{C} a b \prec \bar{c} & \begin{array}{l} A B C \prec c \\ \bar{A} B C \prec c \\ A \bar{B} C \prec \bar{c} \\ \bar{A} \bar{B} C \prec \bar{c} \end{array} \\
+C \bar{a} b \prec c & \bar{C} \bar{a} b \prec \bar{c}
+\end{array}$
+
+[u]$C + \bar{a} + \bar{b} + c$[/u]
+$\begin{array}{cc}
+a b \bar{c} \prec \bar{C} & a \bar{b} c \prec C \\
+\bar{a} b \bar{c} \prec \bar{C} & \bar{a} \bar{b} c \prec C
+\end{array}$

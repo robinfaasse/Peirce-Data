@@ -1,0 +1,28 @@
+[marginalia]E K[/marginalia]
+
+$$\begin{array}{rllcc}
+\frac{43}{79} & = .54430 & & & \\
+\frac{6}{11} = \frac{12}{22} = \frac{18}{33} = \frac{24}{44} = \frac{30}{55} = \frac{36}{66} = \frac{40}{77} & = .54545 & 115 & 0 & 11 \\
+\frac{41}{75} & = .54667 & 122 & & \\
+\frac{23}{42} & = .54687 & 20 & & \\
+\frac{40}{73} & = .54717 & 30 & 1 & \\
+\frac{17}{31} & = .54762 & 45 & & \\
+\frac{29}{53} & = .54795 & 37 & & \\
+\frac{12}{22} = \frac{24}{44} = \frac{36}{66} & = .54839 & 44 & 2 & \\
+\frac{23}{42} & = .54902 & 63 & & \\
+\frac{39}{71} & = .54930 & 28 & & \\
+\frac{11}{20} = \frac{22}{40} = \frac{33}{60} = \frac{44}{80} & = .55000 & 70 & 3 & \\
+\frac{38}{69} & = .55072 & 72 & \text{\} -3} & 9 \\
+\frac{27}{49} & = .55102 & 30 & & \\
+\frac{43}{78} & = .55128 & 26 & & \\
+\frac{16}{29} = \frac{32}{58} & = .55172 & 44 & -2 & \\
+\frac{21}{38} = \frac{42}{76} & = .55224 & 52 & & \\
+\frac{26}{47} & = .55263 & 39 & & \\
+\frac{31}{56} & = .55319 & 56 & & \\
+\frac{36}{65} & = .55357 & 38 & -1 & \\
+\frac{41}{74} & = .55385 & 28 & & \\
+\frac{5}{9} = \frac{10}{18} = \frac{15}{27} = \frac{20}{36} = \frac{25}{45} = \frac{30}{54} = \frac{35}{63} = \frac{40}{72} & = .55555 & 150 & 0 & \\
+\frac{44}{79} & = .55696 & 141 & &
+\end{array}$$
+
+Two clusters overlap at one point, since $\frac{43}{78}$ does not belong to the same cluster as either of the two fractions adjacent to it. This is the explanation of the irregularity of the differences between the first and last parts of the interval. Thus, $\frac{43}{78} - \frac{38}{69} = \frac{3}{69 \cdot 78} = .0005574136$ and $\frac{32}{58} - \frac{27}{49} = \frac{2}{58 \cdot 49} = .00070373$

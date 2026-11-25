@@ -1,0 +1,37 @@
+[del]AB = 2[/del] $\lambda = \frac{1}{2}(\text{AOB})\quad \mu = \frac{1}{2}(\text{BOC})\quad \nu = \frac{1}{2}(\text{COD})$
+
+$\text{AB} = 2\text{R}\sin\lambda$
+$\text{AC} = 2\text{R}\sin(\lambda+\mu)$
+$\text{AD} = 2\text{R}\sin(\lambda+\mu+\nu)$
+$\text{BC} = 2\text{R}\sin\mu$
+$\text{BD} = 2\text{R}\sin(\mu+\nu)$
+$\text{CD} = 2\text{R}\sin\nu$
+
+$\perp\text{AB} = \text{R}\cos\lambda$
+$\perp\text{AC} = \text{R}\cos(\lambda+\mu)$
+$\perp\text{AD} = \text{R}\cos(\lambda+\mu+\nu)$
+$\perp\text{BC} = \text{R}\cos\mu$
+$\perp\text{BD} = \text{R}\cos(\mu+\nu)$
+$\perp\text{CD} = \text{R}\cos\nu$
+
+$\theta\perp\text{AB} = \theta\text{A} + \lambda$
+$\theta\perp\text{AC} = \theta\text{A} + \lambda + \mu$
+$\theta\perp\text{AD} = \theta\text{A} + \lambda + \mu + \nu$
+$\theta\perp\text{BC} = \theta\text{A} + 2\lambda + \mu$
+$\theta\perp\text{BD} = \theta\text{A} + 2\lambda + \mu + \nu$
+$\theta\perp\text{CD} = \theta\text{A} + 2\lambda + 2\mu + \nu$
+
+$\aleph = \perp\text{AB} \perp\text{CD} = \text{R}\sqrt{\cos^2\lambda + \cos^2\nu + 2\cos\lambda\cos\nu\cos(\lambda+2\mu+\nu)}$
+$\beth = \perp\text{AC} \perp\text{BD} = \text{R}\sqrt{\cos^2(\lambda+\mu) + \cos^2(\mu+\nu) - 2\cos(\lambda+\mu)\cos(\mu+\nu)\cos(\lambda+\nu)}$
+$\gimel = \perp\text{AD} \perp\text{BC} = \text{R}\sqrt{\cos^2(\lambda+\mu+\nu) + \cos^2\mu - 2\cos(\lambda+\mu+\nu)\cos\mu\cos(\lambda-\nu)}$
+
+$\text{OI} = \frac{\beth}{\sin(\lambda+\nu)}\quad \text{OM} = \frac{\gimel}{\sin(\lambda-\nu)}\quad \text{ON} = \frac{\aleph}{\sin(\lambda+2\mu+\nu)}$
+
+[del]$\cos(\text{LOA}) = $[/del]
+$\cos(\text{IOA} [del] - \lambda[/del] - \mu - \nu) = \frac{\text{R}}{\beth}\frac{\sin(\lambda+\nu)}{\cos(\mu+\nu)}$     $\text{LOA} = 2\lambda+\mu+\nu + \arccos\frac{\text{R}}{\beth}\frac{\sin(\lambda+\nu)}{\cos(\mu+\nu)}$     $\text{MOL} = -\nu - \arccos\frac{\text{R}\sin(\lambda+\nu)}{\beth\cos(\mu+\nu)}$
+$\cos(\text{MOA} - 2\lambda - \mu) = \frac{\text{R}}{\gimel}\frac{\sin(\lambda-\nu)}{\cos\mu}$     $\text{MOA} = 2\lambda+\mu\quad + \arccos\frac{\text{R}}{\gimel}\frac{\sin(\lambda-\nu)}{\cos\mu}$     $\quad\quad\quad + \arccos\frac{\text{R}\sin(\lambda-\nu)}{\gimel\cos\mu}$
+$\cos(\text{NOA} - \lambda) = \frac{\text{R}}{\aleph}\frac{\sin(\lambda+2\mu+\nu)}{\cos\lambda}$
+
+$\text{IM} = \text{R}\sqrt{\frac{\beth^2}{\sin^2(\lambda+\nu)} + \frac{\gimel^2}{\sin^2(\lambda-\nu)} - 2\frac{\beth\gimel}{\sin(\lambda+\nu)\sin(\lambda-\nu)}\cos\text{MOL}}$
+
+$\text{IN} =$

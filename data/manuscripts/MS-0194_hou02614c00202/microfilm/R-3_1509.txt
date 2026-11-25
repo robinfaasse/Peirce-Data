@@ -1,0 +1,35 @@
+$$\theta = \Theta_1 \quad m = \frac{5}{8} q l^2 (1 + \Theta_1) (\Theta_2 - \Theta_1) \left[ 1 - \frac{1}{2} (\Theta_2 + \Theta_1) \right]$$
+$$m = \frac{5}{8} q l^2 \left\{ (\Theta_2 - \Theta_1 - \frac{1}{2} (\Theta_2^2 - \Theta_1^2) + (\Theta_2 + \Theta_1) \left[ 1 - \frac{1}{2} (\Theta_2 - \Theta_1) \right] \Theta_1 \right.$$
+$$- \Theta_1^2$$
+
+---
+$$\Theta_2$$
+$$\Theta_2 - \Theta_1 - \frac{1}{2} \Theta_2^2 + \frac{1}{2} \Theta_1^2$$
+$$- \Theta_1^2 + \Theta_2 \Theta_1 - \frac{1}{2} \Theta_2 \Theta_1 + \frac{1}{2} \Theta_1^3$$
+
+---
+$$\Theta_2 - \Theta_1 - \frac{1}{2} \Theta_2^2 - \frac{1}{2} \Theta_1^2 + \Theta_2 \Theta_1$$
+$$+ \Theta_1^2 \quad - \frac{1}{2} \Theta_2 \Theta_1 + \frac{1}{2} \Theta_1^3$$
+$$- \Theta_1^2$$
+
+---
+$$D_\theta m \quad (\Theta_2 - \Theta_1) \left[ 1 - \frac{1}{2} (\Theta_2 + \Theta_1) \right]$$
+$$(\Theta_2 + \Theta_1) \left[ 1 - \frac{1}{2} (\Theta_2 - \Theta_1) \right] - 2 \Theta_1$$
+
+---
+$$\Theta_2 - \Theta_1 - \frac{1}{2} \Theta_2^2 + \Theta_1^2$$
+$$\Theta_2 + \Theta_1 - \frac{1}{2} \Theta_2^2 + \Theta_1^2$$
+
+$$\begin{array}{r r}
+0.4375 & 0.4378_n \\
+0.6522_n & 0.6510 \\
+\hline
+9.7853_n & 9.7868_n \\
+\\
+0.0549 & 0.0304_n \\
+9.1345 & 9.0269_n \\
+\hline
+0.9204 & 0.953.5
+\end{array}$$
+
+$$C_0 = - \frac{3}{8} (1 - \frac{5}{48} n) \frac{l}{h} = [7.86152_n]$$

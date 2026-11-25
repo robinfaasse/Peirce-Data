@@ -1,0 +1,42 @@
+Let $x^{(m)}$ or $x^{\underline{m}}$, [del]denote[/del] where $m$ is an integer, denote
+
+[del]$x (x-1) (x-2) (x-3) \dots [x - (m-1)]$[/del]
+
+$x \cdot (x-1)$ and so on to $m$ factors
+
+Then since $u_x$ being any function of $x$, $\Delta_x u_x = u_{x+1} - u_x$
+
+it follows that $\Delta_x x^{(m)} = [del](x+1) \cdot x (x-1) \text{ etc to } m \text{ factors}[/del]$
+[del]$x (x-1) \text{ etc to } m \text{ factors}$[/del]
+
+So that [del]$x^{(m)} = \frac{(x+1) \cdot x \dots}{x \cdot (x-1) \dots} \cdot x^{(m-1)} = \frac{(x+1)^{(m-1)}}{x^{(m-1)}} \cdot (x$[/del]
+
+[del]$\frac{x^{(m+1)}}{x^{(m)}} = \frac{(x+1)}{x}$[/del]
+[del]$\frac{x^{(m+1)}}{x^{(m)}} = x - m$[/del]
+
+$x^{(m)} = x (x-1) \dots (x-m+2)(x-m+1) = x^{(m-1)} (x-m+1)$
+
+[ins]Since[/ins] $(x+1)^m = (x+1) \cdot x (x-1) \dots (x-m+3)(x-m+2) = (x+1) x^{(m-1)}$
+
+Put $u_x$ for any function of $x$. $E u_x$ for $u_{x+1}$ $\Delta_x u_x = (E_x - 1) u_x = u_{x+1} - u_x$
+
+$\Delta_x x^{(m)} = [del](x+1)^{(m)}[/del] [ins](x+1)^{(m)}[/ins] - x^{(m)} = (x+1) x^{(m-1)} - (x+1-m) x^{(m-1)} = m x^{(m-1)}$
+
+[del]Put[/del] What shall $x^{(-m)}$ mean? Answer $x^{(4)} = x(x-1)(x-2)(x-3)$
+$x^{(3)} = x(x-1)(x-2)$
+$x^{(2)} = x(x-1)$
+$x^{(1)} = x$
+
+[del]$x^{(2)} = x(x-1)$[/del]
+[del]$x^{(1)} = x$[/del]
+[del]$x^{(0)} = 1$[/del]
+
+Evidently when $p > [del]p-1[/del]$ [ins]$p \ge 1$[/ins]
+In general let [del]$x^{(p)}$[/del]
+$x^{(p)} = x^{(p+1)} / (x-p)$
+
+Extend this principle, and we get
+$x^{(0)} = x^{(1)} / (x-0) = x/x = 1$
+$x^{(-1)} = x^{(0)} / (x+1) = 1/(x+1)$
+$x^{(-2)} = x^{(-1)} / (x+2) = 1/(x+1)(x+2)$
+$x^{(-m)} = 1/(x+1)(x+2)\dots(x+m)$

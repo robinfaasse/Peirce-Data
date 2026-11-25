@@ -1,0 +1,25 @@
+[date]1899 Feb 28[/date] [pn]4[/pn]
+[del]Morrison's Bridge[/del]
+
+[del]$\frac{b' E}{2} \mu \log \frac{N}{I} \sqrt{1+\frac{N^2}{r^2}}$[/del]
+[del]$+ c' E (\frac{1}{3} I^2 - \frac{2}{3} I N) \sqrt{1+\frac{I^2}{r^2}}$[/del]
+$b' E N \sqrt{1+\frac{N^2}{r^2}} + c' E I N \sqrt{1+\frac{I^2}{r^2}} + c'' E (- I N - \frac{2}{3} N^2 + \frac{2}{3} I N) \sqrt{1+\frac{N^2}{r^2}}$
+$- b' \frac{E}{2} \mu \log \frac{I}{N} + c' E I \mu \log \frac{I}{N} - c'' E I \mu \log \frac{I}{N}$
+[del]$b' \frac{E}{2} \mu \log \frac{J}{N} \sqrt{1+\frac{N^2}{r^2}}$[/del] $+ c' E J N \sqrt{1+\frac{N^2}{r^2}} + c'' E (- J N + \frac{2}{3} N^2 - \frac{2}{3} J N) \sqrt{1+\frac{N^2}{r^2}}$
+[del]$+ b' \frac{E}{2} \mu \log \frac{J}{N} \sqrt{1+\frac{J^2}{r^2}}$[/del] $+ c'' E (\frac{1}{3} J^2 + \frac{2}{3} N^2) \sqrt{1+\frac{J^2}{r^2}}$
+$- b' \frac{E}{2} \mu \log \frac{J}{N} + c' E J \mu \log \frac{J}{N} - c'' E J \mu \log \frac{J}{N}$
+[del]$+ b' \frac{E}{2} \mu \log \frac{J}{I} \sqrt{1+\frac{I^2}{r^2}}$[/del] $+ c' E (\frac{-1}{3} I^2 - \frac{2}{3} I^2) \sqrt{1+\frac{I^2}{r^2}}$
+[del]$+ b' \frac{E}{2} \mu \log \frac{J}{I} \sqrt{1+\frac{J^2}{r^2}}$[/del] $+ c' E (+ \frac{1}{3} I^2 + \frac{2}{3} I^2) \sqrt{1+\frac{I^2}{r^2}}$
+$- b' \frac{E}{2} \mu \log \frac{J}{I}$
+
+$+ b' 2 \Omega N^2 + c' \Omega (- I^2 N + I N^2 + 2 J N^2 + 2 I N^2) + c'' \Omega (- I^2 N - 2 I N^2 - N^3) + c'' \frac{\Omega}{I} (J+N)^2 N$
+$+ b' 2 \mathcal{l} + c' 2 \mathcal{l} (I+J) - c'' 2 \mathcal{l} (N+I) + c'' \mathcal{l} (N-J)$
+$+ \frac{w}{2} (J^2 - I^2)$
+
+$b' (E N \sqrt{1+\frac{N^2}{r^2}} + 2 \Omega N^2 + 2 \mathcal{l}) + c' \left( E (I+J) N \sqrt{1+\frac{N^2}{r^2}} + E (\frac{1}{3} I^2 + \frac{2}{3} I^2) \sqrt{1+\frac{I^2}{r^2}} \right.$
+$\left. - E (\frac{1}{3} J^2 + \frac{2}{3} I^2) \sqrt{1+\frac{J^2}{r^2}} + E \right.$
+$+ E \mu (I \log \frac{I}{N} + J \log \frac{J}{N})$
+$+ \Omega (- I^2 N + I N^2 + 2 J N^2 + 2 I N^2)$
+$+ 2 \mathcal{l} (I+J) \right)$
+$+ E I \mu \log \frac{I}{N}$
+$+ E J \mu \log \frac{J}{N}$

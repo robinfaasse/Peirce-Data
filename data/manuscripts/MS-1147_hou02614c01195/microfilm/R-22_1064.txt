@@ -1,0 +1,17 @@
+[marginalia]
+Solution
+3.
+[/marginalia]
+
+[fig]pointing hand icon[/fig] the value of [del]Y[/del] [ins]Y[sub]n[/sub][/ins]. Raise the values of all the indices of the Y[sub]s[/sub]
+in the equation by 1 so as to get
+Y[sub]n+1[/sub] = b[sub]0[/sub] Y[sub]1[/sub] + b[sub]1[/sub] Y[sub]2[/sub] + - - - - b[sub]n-2[/sub] Y[sub]n-1[/sub] + b[sub]n-1[/sub] Y[sub]n[/sub]
+and calculate the value of Y[sub]n+1[/sub]. Continue this process
+until you have reached say Y[sub]30[/sub]. The longer it is con-
+tinued the better. Then the last Y but one that
+has been obtained divided by the last Y will give an
+approximate value of y. Thus required to solve x[sup]3[/sup]=2. Put
+x = 1+y Then the equation in y is 1 = 3y + 3y[sup]2[/sup] + y[sup]3[/sup]. And
+we are to raise Y[sub]3[/sub] = 3(Y[sub]2[/sub]+Y[sub]1[/sub])+Y[sub]0[/sub]. Assuming Y[sub]0[/sub]=1, Y[sub]1[/sub]=0 Y[sub]2[/sub]=0
+we have Y[sub]3[/sub]=3, Y[sub]4[/sub]=12, Y[sub]5[/sub]=46, Y[sub]6[/sub]=177, Y[sub]7[/sub]=681, Y[sub]8[/sub]=2620, Y[sub]9[/sub]=10080
+and Y[sub]8[/sub]/Y[sub]9[/sub]=0.259920, x=1.259920 while [sup]3[/sup]√2 = 1.259921.

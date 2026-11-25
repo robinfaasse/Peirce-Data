@@ -1,0 +1,28 @@
+[marginalia]
+[pn]Logic
+III
+31[/pn]
+[/marginalia]
+
+[u](Foot-note.)[/u]
+
+even when a series is divergent from the very start, some
+use might commonly be made of it, if the same informa-
+tion could not otherwise be obtained more easily. [ins]The rea-[/ins]
+son is, — [del]or at least[/del] [ins]rather[/ins], one reason is, — that most series,
+even when divergent, approximate at last somewhat to
+geometrical series, or least, for a [del]few[/del] considerable suc-
+cession of terms. The series $\log(1+x) = x - \frac{1}{2}x^2 + \frac{1}{3}x^3 - \frac{1}{4}x^4 + \text{etc.}$
+is one that [del]would be likely to[/del] [ins]not be judiciously employed[/ins] [del]be[/del] [ins]to[/ins] get find
+the natural logarithm of $3$, which is $1.0986$, it successive
+terms being $2 - 2 + \frac{8}{3} - 4 + \frac{32}{5} - \frac{32}{3} + \text{etc.}$ Still [ins]employing
+that are to be used[/ins]
+the common device of substituting for the last two terms, say
+$M$ and $N$, the expression $M / (1 - \frac{N}{M})$, the succession of
+the first six values is $0.667$, $1.143$, $1.067$, $1.128$, $1.067$,
+which do show some approximation to the value. The
+mean of the last two, which any [ins]professional[/ins] computer would use
+(supposing him to use this series, at all) would be $1.098$, which
+is not [del]utterly[/del] [ins]very[/ins] wrong. Of course, the computer would [del]practically[/del] use the series
+$\log 3 = 1 + \frac{1}{12} + \frac{1}{80} + \frac{1}{448} + \text{etc.}$ of which the terms written give the correct value to four
+places, if they are properly used.

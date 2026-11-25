@@ -1,0 +1,48 @@
+Second, if true for x=n, it is true for x=1+n; that is,
+if n(y+z)=ny+nz, then (1+n)y+z)=(1+n)y+(1+n)z. For
+(1+n)(y+z)
+=(y+z)+n(y+z) by the definition of multiplication:
+=(y+z)+(ny+nz) by hypothesis:
+=(y+ny)+(z+nz) by the principles of addition:
+=(1+n)y+(1+n)z by the definition of multiplication.
+
+5. To prove the associative principle of multiplication;
+that is that
+(xy)z=x(yz),
+whatever numbers x,y, and z, may be. First, it is true for
+x=1, for
+(1y)z
+=yz by the definition of multiplication:
+=y(1z) by the definition of multiplication.
+Second, if true for x=n it is true for x=1+n; that is, if
+(ny)z=n(yz) then ((1+n)y)z=(1+n)(yz). For
+((1+n)y)z
+=(y+ny)z by the definition of multiplication:
+[del]=yz+nyz[/del] [ins]=yz+(ny)z[/ins] by the distributive principle:
+=yz+n(yz) by hypothesis:
+=(1+n)(yz) by the definition of multiplication.
+
+6. To prove the commutative principle of multiplication;
+that
+xy=yx
+whatever numbers x and y may be. In the first place, we
+prove that it is true for y=1. For this purpose, we first
+show that it is true for y=1, x=1; and then that if true
+for y=1, x=n, it is true for y=1, x=1+n. For y=1 and x=1,
+it is an explicit identity. We have now to show that if
+n1=1n then (1+n)1=1(1+n). Now,
+(1+n)1
+=1+n1 by the definition of multiplication:
+=1+1n by hypothesis:
+=1.1+1n by the definition of multiplication:
+=1(1+n) by the distributive principle.
+Having thus shown the commutative principle to be
+true for y=1, we proceed to prove that if it is true for y=n,
+it is true for y=1+n; that is, if xn=nx then x(1+n)=(1+n)x.
+For
+(1+n)x
+=x+nx by the definition of multiplication:
+=x+xn by hypothesis:
+=1x+xn by the definition of multiplication:
+=x1+xn as already seen:
+=x(1+n) by the distributive principle.

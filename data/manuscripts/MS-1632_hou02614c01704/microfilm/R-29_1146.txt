@@ -1,0 +1,40 @@
+6. The area of a right-angled triangle and the sides of a rectangle inscribed therein, being given, to construct the triangle geometrically.
+
+<u>First Solution</u>. If the rectangle is to be placed as in the adjoined figure 1[ins]st[/ins], the construction is as follows. Let CD be the height of a rectangle whose base is CE and area = that of the triangle. Then, with a radius [del]O'D'[/del] [ins]O'D"[/ins] = OD, describe a semicircle. Make O'C' = OC. Erect the perpendicular C'P B' making [del]PB'[/del] [ins]C'B'[/ins] = CD. Let C'a' = [del]C'b'[/del] [ins]C'b"[/ins] = CO". Draw O"N' and O"'N" parallel to O'D" [del]Draw B' N' A' and B"N"A"[/del] [ins]Draw B' N' A' and B"N"A"[/ins] A'B'C' and A"B"C' are the triangles required.
+
+[fig]Fig 1. Right-angled triangle with inscribed rectangle.[/fig]
+
+[fig]Fig 2. Geometric construction with semicircle and lines.[/fig]
+
+<u>Demonstration</u>. [del]It is evident that the inscribed[/del] [del]parabol[/del] [del]rectangle[/del] [ins]is[/ins] [del]are[/del] [ins]equal to the given one.[/ins] Moreover.
+C'B' = C'P + PB' = C'P + CD = $\sqrt{(C'D' \cdot C'D")} + CD$.
+But C'D' = O'D' - O'C' = OD - CO = CD - 2 CO
+C'D" = C'O' + O'D" = CO + OD = CD.
+C'D' $\cdot$ C'D" = $\overline{\text{CD}}^2$ - 2 CD $\cdot$ CO.
+Also A'C' : O"B' = O"N' : C'B' $\therefore$ A'C' = $\frac{\text{O"N'} \cdot \text{C'B'}}{\text{O"B'}}$
+
+$\frac{\text{O"N'}^2}{\text{O"B'}^2} = \frac{\text{O"B'}^2 - \text{O"O'}^2}{\text{O"B'}^2} = \frac{\text{C'B'} - \text{CO}}{\text{C'B'}}$
+$\therefore$ C'B' = $\frac{(\text{C'B'} + \sqrt{\text{C'D'} \cdot \text{C'D"}})^2}{\text{C'B'} - \text{CO}} = \frac{\text{C'D'} \cdot \text{C'D"} + \text{C'D'}^2 + \text{C'D"}^2 + 2 \text{C'D"} \sqrt{\text{C'D'} \cdot \text{C'D"}}}{\text{C'D"} - \text{CO}}$
+$= \frac{\text{C'D"} \cdot \text{D'D"} + 2 \text{C'D"} \sqrt{\text{C'D'} \cdot \text{C'D"}}}{\text{C'D"} - \text{CO}} \because \text{C'D"} \cdot \text{C'D"} = 2 \text{C'D"} \cdot \text{O'D"} + 2 \text{C'D"} \sqrt{\text{C'D'} \cdot \text{C'D"}}$
+C'B' - CO = CD - CO + $\sqrt{(\text{C'D'} \cdot \text{C'D"})}$ = OD + $\sqrt{\text{C'D'} \cdot \text{C'D"}}$
+$\frac{2(\text{C'B'} - \text{CO}) \text{C'D"}}{\text{C'B'} - \text{CO}} = \frac{2 \text{C'D"} \cdot \text{O'D"} + 2 \text{C'D"} \sqrt{(\text{C'D'} \cdot \text{C'D"})}}{\text{C'B'} - \text{CO}} = \frac{\text{C'B'}^2}{\text{C'B'} - \text{CO}} = 2 \text{C'D"} = 2 \text{CD}$.
+A'C' $\cdot$ C'B' = 2 CC $\cdot$ CD = double the area of A'B'C' as required.
+The same might be proved of A"C'B" by changing the sign of the radical in the preceding demonstration.
+
+<u>Second Solution</u>. Supposing the same construction as before. Let CB = a, CO = b, CD = d
+CAB = w. CA = a + AE = a + b cot w
+CB = b + OB = b + a tan w.
+(b + a tan w) (a + b cot w) = 2 a d.
+(b + a tan w) (a tan w + b) = 2 a d tan w
+a tan w + b = $\sqrt{2 a d \cdot \tan w}$.
+a tan w - $\sqrt{2 a d \tan w}$ = -b
+$\sqrt{a \tan w} = \sqrt{\frac{d}{2}} \pm \sqrt{\frac{d}{2} - b}$
+a tan w = $\frac{d}{2} + \frac{d}{2} - b \pm 2 \sqrt{\frac{d}{2} (\frac{d}{2} - b)}$
+$= d - b \pm \sqrt{2 d (d - 2b)}$.
+
+[fig]Geometric diagram with triangle and inscribed rectangle, labeled with variables.[/fig]
+
+Let PNM be the given rectangle
+Let AD = 2 CO. [del]M[/del] ND = 2 O.
+CB = C'D' - 2 CO and
+A'C' = A"C' can be found.

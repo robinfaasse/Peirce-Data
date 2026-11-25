@@ -1,0 +1,22 @@
+17 + 1 + 1 + 1
+
+[fig]Horizontal line with vertical tick marks[/fig]
+
+4 = [del]4 + 0[/del]
+      [del]3 + 1[/del]
+      [u]2 + 2[/u]
+      [u]   [/u]
+      ∩
+
+4
+2 + 2
+3 + 1
+2 + 1 + 1
+[u]1 + 1 + 1 + 1[/u]
+
+[fig]A vertical line and two curved lines connecting formulas below[/fig]
+
+P[sub]s,n[/sub] = P[sub]s + 1, n + 1[/sub] + P[sub]s - n, n[/sub]
+        P[sub]s + 2, n + 2[/sub] + P[sub]s - n, n + 1[/sub]
+        P[sub]s + 3, n + 3[/sub] + P[sub]s - n, n + 2[/sub]
+        P[sub]s + 4, n + 4[/sub] + P[sub]s - n, n + 3[/sub]

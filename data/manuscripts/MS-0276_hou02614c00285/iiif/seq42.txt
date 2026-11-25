@@ -1,0 +1,29 @@
+general  A : E = 1 : 0
+whence necessarily  A : 1 = E : 0
+But in this special case [del]E = 0 and I = 0 (say)
+E = 0 cipher
+and I = 0 cipher[/del]
+
+[del]A : E[/del] We want to know
+[del]A : I[/del]
+(1) [del]A / I[/del] (A + I) / (E + O) = μ   (A + E) / (1 + 0) = ν
+
+(2) condition
+of Independence ( [del]A O = E I[/del]
+A : E = 1 : O  [del]A : E[/del]
+
+(3) (A + I) / (E + O) ⋅ (A + E) / (1 + O) = A / O } suppose this satisfied
+
+(3') = [del](3) x (E I + E O + I O + O²)[/del] (E + O) (1 + O) O
+A²O + AEO + AIO + EIO
+= [del]E I[/del]
+AEI + AEO + AIO + AO²
+
+(3'') [del]-AEO - AIO[/del]
+(A² + EI) O = (EI + O²) A
+Eliminating EI by (2) from (3'')
+[del]A / O = (A² + EI) / (A E + O²)[/del]  Divide by AO
+[del]A + EI / A = EI / O + O[/del]
+[del]A (A + O) O = A (A + O) O[/del]
+Consequently (2) [ins]being[/ins] renders (3) true
+[del]EI (A - O) = A²O - AO² = AO (A - O)[/del]

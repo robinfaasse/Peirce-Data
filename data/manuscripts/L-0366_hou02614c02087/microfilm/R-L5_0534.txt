@@ -1,0 +1,21 @@
+[marginalia]
+1909
+Jan 30
+[pn]13[/pn]
+[/marginalia]
+
+Now let us compare $\Phi D_x \Psi x$ with $\Psi D_x \Phi x$
+
+$\Phi D_x \Psi x = [del](A + B[/del] (a + b D_x + c D_x^2 + \text{etc}) (A + Bx + Cx^2 + \text{etc})$
+
+$\begin{aligned}
+= & aA + aBx + aCx^2 + \text{etc} \\
+& + bB + 2bCx + 3bD[ins]x^2[/ins] + \text{etc} \\
+& + 2cC + 6cD + 12cEx^3 + \text{etc} \\
+& + 6dD + [del]12[/del][ins]24[/ins]dE + [del]60e[/del]\text{etc} \\
+& + 24eE + \text{etc}
+\end{aligned}$ [marginalia] (The D here is a number) [/marginalia] [marginalia] $\begin{matrix} 3 & 4 \\ 2 & 3 \\ & 2 \end{matrix}$ [/marginalia]
+
+$\Psi D_x \Phi x = [del]A +[/del] (A + Bx + Cx^2 + D[ins]x^3[/ins] + Ex^4 + \text{etc}) (a + bx + cx^2 + dx^3 + ex^4 [ins]\text{etc}[/ins])$
+
+$= Aa + [del]B[/del]$

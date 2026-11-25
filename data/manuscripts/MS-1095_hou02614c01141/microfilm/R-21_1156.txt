@@ -1,0 +1,21 @@
+$$F_r = (A + B \log r) r + C \frac{1}{r}$$
+
+$$D_r F_r = A + B \log r + B - C \frac{1}{r^2}$$
+
+$$\left[ \begin{aligned} \frac{1}{r} D_r F_r &= A/r + B \frac{\log r}{r} + \frac{B}{r} - C \frac{1}{r^3} \\ D_r^2 F_r &= B/r + 2C \frac{1}{r^3} \end{aligned} \right.$$
+
+$$(D_r^2 + \frac{1}{r} D_r [del]- \frac{1}{r^2} D_r[/del]) = 2 \frac{B}{r}$$
+
+$$D_r = - 2 \frac{B}{r^2}$$
+
+$$\frac{1}{r} D_r = - 2 \frac{B}{r^3}$$
+
+$$D_r^2 = + 4 \frac{B}{r^3}$$
+
+$$X = (A + B \log r) r \sin \theta + C \frac{1}{r} \sin \theta$$
+
+$$r \sin \theta = y \qquad \frac{\sin \theta}{r} = \frac{y}{x^2+y^2} \qquad \log r = \frac{1}{2} \log (x^2+y^2)$$
+
+$$A y + \frac{1}{2} B y \log (x^2+y^2) + C \frac{y}{x^2+y^2}$$
+
+$$D_y C \frac{y}{x^2+y^2} = C \frac{(x^2+y^2) - 2y^2}{(x^2+y^2)^2}$$

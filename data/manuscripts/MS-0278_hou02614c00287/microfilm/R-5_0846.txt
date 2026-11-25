@@ -1,0 +1,23 @@
+$$\frac{ds}{\rho} = \frac{\sqrt{(dr)^2 + (dz)^2}}{r}$$
+
+$$\left(\frac{r}{R}\right)^2 + \left(\frac{z}{Z}\right)^2 = 1 \qquad z = Z \sqrt{1 - \left(\frac{r}{R}\right)^2}$$
+
+$$\frac{r dr}{R^2} + \frac{z dz}{Z^2} = 0$$
+
+$$dz = - \frac{Z^2}{R^2} \frac{r dr}{z}$$
+
+$$\frac{dz}{dr} = - \left(\frac{Z}{R}\right)^2 \frac{r}{z} = - \frac{Z}{R} \frac{\frac{r}{R}}{\sqrt{1 - \left(\frac{r}{R}\right)^2}}$$
+
+$$z = Z \sqrt{1 - \left(\frac{r}{R}\right)^2}$$
+
+$$dz = - \frac{Z^2}{R^2} \frac{r dr}{z} = - \frac{Z}{\sqrt{1 - \left(\frac{r}{R}\right)^2}} \frac{r dr}{R^2}$$
+
+$$\approx - \frac{Z^2}{R^2} \frac{r dr}{\sqrt{1 - \left(\frac{r}{R}\right)^2}}$$
+
+$$dz = - \frac{Z^2}{R^2} \frac{\left(\frac{r}{R}\right) dr}{\sqrt{1 - \left(\frac{r}{R}\right)^2}}$$
+
+$$dz = - Z^2 \frac{\frac{r}{R} d\left(\frac{r}{R}\right)}{\sqrt{1 - \left(\frac{r}{R}\right)^2}}$$
+
+$$dz = - Z^2 \frac{dq}{\sqrt{1-q}}$$
+
+$$z = Z \sqrt{1-q} = Z^2 \sqrt{1 - \left(\frac{r}{R}\right)^2}$$

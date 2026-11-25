@@ -1,0 +1,14 @@
+[pn]Logic
+S
+III
+79[/pn]
+
+[pn](81)[/pn] The expressions $(x \prec y) \prec y$ and $(y \prec x) \prec x$ are equivalent.
+
+For by (78) and (80), if $(x \prec y) \prec y$ is scriptible, so is $(y \prec x) \prec x$; and since the letters may have any signification, writing $x$ for $y$ and $y$ for $x$, the converse holds. Hence, by (60), we have [del]($(x \prec y) \prec y) \prec ((y \prec x) \prec x)$[/del] [ins]$((x \prec y) \prec y) \prec ((y \prec x) \prec x)$[/ins] and $((y \prec x) \prec x) \prec ((x \prec y) \prec y)$; so that, by (75), the truth of (81) follows.
+
+[del](82) The expression[/del]
+
+(82) To assert that $x \prec y \prec z$ is scriptible is equivalent to asserting that [del]either[/del] $x \prec z$ or $y \prec z$ is scriptible. That is, if $x \prec y \prec z$ is scriptible, either $x \prec z$ or $y \prec z$; and if either $x \prec z$ or $y \prec z$ is scriptible the $x \prec y \prec z$.
+
+For if $y \prec z$ is scriptible, by (65) $x \prec y \prec z$ is scriptible. So if $x \prec z$ is scriptible $y \prec x \prec z$ and by transposition, [del]$x \prec y \prec z$[/del] [ins]$y \prec y \prec z$[/ins] are scriptible. By (64) either $x \prec z$ is scriptible, or $y$ is scriptible, in which case, by (66), if $x \prec y \prec z$

@@ -1,0 +1,45 @@
+To prove that $(a \prec \bar{b}) \prec (a \prec b)$
+
+This depends on the formula [del]$(x \prec y) \prec z$[/del]
+$(x \prec \bar{y}) \prec z \prec [del]x \prec y \prec z[/del]$
+or $\{[(x \prec y \prec 0) \prec 0] \prec z\} \prec x \prec y \prec z$
+[del]or $\{ (x \prec y \prec z) \prec [(x \prec y \prec 0) \prec 0] \prec z$[/del]
+
+[del]$[(x \prec y \prec 0) \prec 0] \prec z$[/del]
+[del]$(x \prec \bar{y} \prec z)$[/del]
+[del]$(x \prec y \prec 0) \bar{z} \prec x$[/del]
+[del]$(x \prec y \prec 0) \bar{z} \prec y$[/del]
+[del]$(x \prec y) \bar{z} \prec 0$[/del]
+[del]$x \bar{y} \bar{z} \prec 0$[/del]
+[del]$x \bar{y} \prec z$[/del]
+
+[del]That is with a modified notation
+$(x \prec y) \prec z \prec (x \prec y) \prec w$
+which is the same as $(x \prec y) \prec z \prec w$
+which is the same as $(x \prec y) \prec z \prec w$[/del]
+
+Strictly speaking $(a \prec \bar{b}) \prec (a \prec b) \prec \bar{a} \prec (a \prec b)$
+only depending on $(a \prec \bar{b}) \prec \bar{a}$
+and $(a \prec \bar{b}) \prec b$
+that is $(a \prec \bar{b}) \prec \bar{b} \prec \bar{a}$
+or $b \prec (a \prec b)$
+or $a \prec (b \prec b)$
+
+[u]We prove $(a \prec b) \prec (a \prec \bar{b})$[/u]
+If we prove $\Pi_{s} (s \prec a) \prec (s \prec b) \prec [s \prec (a \prec \bar{b})]$
+or $\Pi_{s} s \prec (a \prec b) \prec (s \prec b) \prec (a \prec \bar{b})$
+or $\Pi_{s} s \prec s \prec (a \prec b) \prec (s \prec b) \prec (a \prec \bar{b})$
+or $\Pi_{s} s \prec (s \prec a) \prec s \prec (s \prec b) \prec (a \prec \bar{b})$
+or $a \prec b \prec (a \prec \bar{b})$
+or $a \prec b \prec (a \prec \bar{b}) \prec 0$
+or $a \prec b \prec (a \prec \bar{b} \prec 0) \prec 0$
+or $(a \prec \bar{b} \prec 0) \prec a \prec b \prec 0$
+
+[del]To prove
+$(a \prec b \prec 0) \prec a \prec \bar{b}$
+or $(a \prec b \prec 0) \prec a \prec \bar{b} \prec 0$
+or $(a \prec b \prec 0) \prec a \prec (b \prec 0)$
+or $(s \prec a) \prec (s \prec b) \prec (s \prec \bar{b})$
+or $s \prec (s \prec a) \prec (s \prec b) \prec (s \prec \bar{b})$
+or $\Pi_{s} (s \prec a) \prec (s \prec b) \prec [s \prec (a \prec \bar{b})]$
+By [del]hyp[/del] $a \prec b \prec (a \prec \bar{b})$[/del]

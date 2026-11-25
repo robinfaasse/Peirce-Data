@@ -1,0 +1,14 @@
+making in this formula $x = 0$, we obtain
+$f(0+h) = f0 + Df_0 \frac{h}{1} + D^2f_0 \frac{h^2}{1.2} + D^3f_0 \frac{h^3}{1.2.3} + \&c$. Substituting
+$x$ for $h$, we have
+$f(0+x) = f0 + Df_0 \frac{x}{1} + D^2f_0 \frac{x^2}{1.2} + D^3f_0 \frac{x^3}{1.2.3}$ which is
+[u]Maclaurin's Theorem[/u].
+
+2. $\cos x = fx = f(0+x)$ here $f$ means $\cos$ of
+$f(0+x) = \cos(0+x) = f0 + Df_0 \frac{x}{1} + D^2f_0 \frac{x^2}{1.2} + D^3f_0 \frac{x^3}{1.2.3} + \&c$
+$f0 = \cos 0 = 1$
+$\cos(0+x) = 1 - \frac{x^2}{1.2} + \frac{x^4}{1.2.3.4} + \&c$
+$D\cos x = -\sin x$, if $x=0$, $-\sin x = 0$
+$D^2\cos x = D(-\sin x) = -\cos x$, if $x=0$, $-\cos x = -1$
+$D^3\cos x = D(-\cos x) = \sin x$, " " $\sin x = 0$
+[u]$D^4\cos x = D\sin x = \cos x$, " " $\cos x = 1$[/u]

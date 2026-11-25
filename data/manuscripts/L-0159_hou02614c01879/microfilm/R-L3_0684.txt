@@ -1,0 +1,37 @@
+```
+[pn]9[/pn]
+[fig]Mathematical scribble[/fig]
+
+[fig]Mathematical scribble[/fig]
+
+[fig]Mathematical scribble[/fig]
+
+$$G^{(B-A)t} = \frac{AB - Bx}{AB - Ax}$$
+
+$$AB G^{(B-A)t} - AX G^{(B-A)t} = AB - Bx$$
+
+$$AB (G^{(B-A)t} - 1) = (A G^{(B-A)t} - B) x$$
+
+[fig]Mathematical scribble[/fig]
+
+$$x = AB \frac{G^{(B-A)t} - 1}{A G^{(B-A)t} - B}$$
+
+[fig]Mathematical scribble[/fig]
+
+$$(A-x)(B-x) = (A - AB \frac{G^{(B-A)t} - 1}{A G^{(B-A)t} - B}) (B - AB \frac{G^{(B-A)t} - 1}{A G^{(B-A)t} - B})$$
+$$= AB \frac{(1-B^{M})(1-A^{M})}{(A G^{(B-A)t} - B)^2}$$
+
+[fig]Mathematical scribble[/fig]
+
+[fig]Mathematical scribble[/fig]
+
+$$\frac{dx}{dt} = AB \frac{(B-A) G^{(B-A)t} (A G^{(B-A)t} - B) - A(G^{(B-A)t} - 1) (B-A) G^{(B-A)t}}{(A G^{(B-A)t} - B)^2}$$
+
+[fig]Mathematical scribble[/fig]
+
+$$= AB \frac{[del]A(B-A)G^{2(B-A)t}[/del] - B(B-A)G^{(B-A)t} + AC(B-A)G^{(B-A)t}}{(A G^{(B-A)t} - B)^2}$$
+
+$$= AB \frac{(B-A)^2 G^{(B-A)t}}{(A G^{(B-A)t} - B)^2}$$
+
+[fig]Printed text upside down[/fig]
+[fig]Mathematical scribble[/fig]

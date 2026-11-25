@@ -1,0 +1,17 @@
+[pn]3[/pn]
+
+The calculation for a martingale is very simple. [del]The[/del] [ins]The player[/ins] is sure to win a franc unless he at once loses so many times successively as to exhaust his means. With 1023 francs, this is ten bets, [del]as[/del] [ins]as[/ins] shown in the following sum:
+
+[u]1[sup]st[/sup][/u] bet 1 franc
+[u]2[sup]nd[/sup][/u] 2
+[u]3[sup]rd[/sup][/u] 4
+[u]4[sup]th[/sup][/u] 8
+[u]5[sup]th[/sup][/u] 16
+[u]6[sup]th[/sup][/u] 32
+[u]7[sup]th[/sup][/u] 64
+[u]8[sup]th[/sup][/u] 128
+[u]9[sup]th[/sup][/u] 256
+[u]10[sup]th[/sup][/u] [u]512[/u]
+Total [u]1023[/u]
+
+Now the chance of losing one bet is [frac]30[/frac]/[frac]61[/frac]. The chance of losing ten times running is this raised to the 10[sup]th[/sup] power, which calculation by logarithms shows to be 1/870. The odds are therefore 869 to 1 that a man with a fortune of 1023 francs [del]will win[/del] can net 1 franc by a martingale. The fortune of 1,048,575 francs would be exhausted by 20 successive losses at a martingale.

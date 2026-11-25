@@ -1,0 +1,23 @@
+[marginalia][u]La logique de la quantité[/u][/marginalia]
+
+porte quelle collection.
+
+Demandons si toute collection a un sujet pour chaque sujet de toute collection qu'il contient. Exprimons [del]qu'une[/del] [ins]qu'il y a une[/ins] collection, m, qui contient une collection, n, [del]et[/del] sans ayant un sujet pour chaque sujet de n:
+
+$$\Sigma_m \Sigma_n \Pi'_v \Pi_i (\overline{q}_{nv} \dagger q_{mv}) \cdot (\overline{r}_i \dagger E_{imn})$$
+
+Cette proposition étant négative est impossible, si elle n'est pas réductible. Mais il sera plus court, sans entrer directement dans cette enquête, de montrer que de la proposition que m contient n, on peut déduire que m a un sujet pour chaque sujet de n. Cela pourrait se déduire par plusieurs méthodes. Peut-être il n'y en a de plus facile que de montrer que la relation d'identité peut servir comme i. Ayant choisi cette méthode, il faut commencer par en donnant la démonstration que la relation identité est [del]toujours[/del] [ins]généralement[/ins] possible, ce qui est une théorème d'importance. La proposition
+
+$$\Sigma_i \Pi_a \Pi_b \overline{r}_{iab}$$
+
+est une proposition affirmative et évidemment irréductible. C'est donc possible. Ainsi la proposition
+
+$$\Sigma_i \Pi_a \Pi_b \overline{r}_{iab} \dagger \Pi_j \Pi_a \Pi_b \Pi_c \overline{r}_{ja'c} \dagger \overline{r}_{jb'c}$$
+
+qui est une conséquence de l'autre est aussi possible. Mais de celle-ci nous pourrons tirer
+
+$$\Sigma_i \Pi_a \Pi_b \Pi_j \Pi_c \overline{r}_{iab} \dagger \overline{r}_{ja'c} \dagger \overline{r}_{jb'c}.$$
+
+Donc cette proposition est possible et ne peut pas s'annuller. Il est également évident que la proposition
+
+$$\Sigma_i \Pi_x \overline{r}_{ixx}$$

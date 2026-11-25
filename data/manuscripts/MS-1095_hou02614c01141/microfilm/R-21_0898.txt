@@ -1,0 +1,27 @@
+[fig]Concentric circles with radial lines[/fig] We may suppose
+
+[u]$\vartheta$[/u] = $\frac{x}{\sqrt[4]{\frac{b^4}{x^2+y^2-R^2} + y^2}}$
+
+$\frac{b^4}{x^2} = y^2 + \frac{b^4}{x^2+y^2-R^2}$
+
+$(x^2+y^2-R^2) (\frac{x^4}{\vartheta^4} - y^2) = b^4$
+
+$(x^2+y^2-R^2) (\frac{3x^3}{\vartheta^4} - 2y D_x y) + (2x + 2y D_x y) (\frac{x^4}{\vartheta^4} - y^2) = 0$
+
+$(x^2+y^2-R^2) \frac{3}{2} \frac{x^3}{\vartheta^4} + (\frac{x^4}{\vartheta^4} - y^2) \frac{x}{y} = D_x y (x^2 + 2y^2 - \frac{x^4}{\vartheta^4} - R^2)$
+
+$(x^2+y^2-R^2) (\frac{3b^4}{x^2+y^2-R^2} + 3y^2 - 2xy D_x y) + 2x (x + y D_x y) \frac{b^4}{x^2+y^2-R^2} = 0$
+
+$3b^4 + 3y^2 (x^2+y^2-R^2) + \frac{2x^2 b^4}{x^2+y^2-R^2} = 2xy (x^2+y^2-R^2 - \frac{b^4}{x^2+y^2-R^2}) D_x y$
+
+$3b^4 (x^2+y^2-R^2) + 3y^2 (x^2+y^2-R^2)^2 + 2x^2 b^4 = 2xy ((x^2+y^2-R^2)^2 - b^4) D_x y$
+
+$b^4 (5x^2 + [del]6[/del][ins]5[/ins]y^2 - 3R^2) + 3y^2 [(x^2+y^2-R^2)^2 - b^4]$
+
+$b^4 \frac{5x^2 + 6y^2 - 3R^2}{2xy ((x^2+y^2-R^2)^2 - b^4)} + \frac{3}{2} \frac{y}{x} = D_x y$
+
+$(x^2+y^2-R^2) (3\frac{y^2}{x} + 3\frac{1}{x} \frac{b^4}{x^2+y^2-R^2}) + 2x \frac{b^4}{x^2+y^2-R^2}$
+
+$[-2y (x^2+y^2-R^2) + 2y \frac{b^4}{x^2+y^2-R^2}] D_x y = 0$
+
+$D_x y = \frac{3\frac{y^2}{x} + \frac{(5x^2 + 3y^2 - 3R^2)}{x} \frac{b^4}{(x^2+y^2-R^2)^2}}{2 - 2 \frac{b^4}{(x^2+y^2-R^2)^2}}$

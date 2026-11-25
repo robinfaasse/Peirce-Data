@@ -1,0 +1,71 @@
+[marginalia]
+$\theta = 51 \sin 77 \frac{7}{8}$
+$\begin{array}{r} 1.973 \\ 2.025 \\ \hline 0.052 \end{array}$
+$\begin{array}{r} 56 \frac{5}{6} \\ 56 \end{array}$
+$\begin{array}{r} 1 - .06 \\ 1 + .06 \end{array}$
+$\frac{94}{106}$
+$.05$
+$\begin{array}{r} 1.010 \\ 1.008 \\ \hline 002 \\ \frac{1}{500} \end{array}$
+$\theta = 39$
+$\begin{array}{r} .043 \\ .0034 \end{array}$
+$\begin{array}{r} 63 \frac{3}{4} \\ 504 \end{array}$
+$\begin{array}{r} 95 \\ 105 \end{array}$
+[/marginalia]
+
+$$D_{\theta} A \tan \frac{1}{2} (90^{\circ} + \theta) \left( \frac{1 - e \sin \theta}{1 + e \sin \theta} \right)^{\frac{e}{2}}$$
+
+$$= A \tan \frac{1}{2} (90^{\circ} + \theta) \left( \frac{1 - e \sin \theta}{1 + e \sin \theta} \right)^{\frac{e}{2}} \left( \sec \theta - \frac{2 e^{2} \cos \theta}{1 - e^{2} \sin^{2} \theta} \right) [del]\cos \theta (1 + e \sin \theta) \sec \theta (1 - e \sin \theta)[/del]$$
+
+Put $\theta = -90^{\circ} + d\theta$
+$$A \tan \frac{1}{2} \theta \cdot \left( \frac{1 - e}{1 + e} \right)^{\frac{e}{2}}$$
+
+$$[del]A[/del] \tan (45^{\circ} + \frac{1}{2} \theta) = \frac{1 + \sin \theta}{\cos \theta}$$
+
+$$(1 + [del]d\theta[/del]) (1 - 2 e [del]d\theta[/del])^{\frac{e}{2}}$$
+$$1 - 2 e^{2} d\theta$$
+$$1 + (1 - 2 e^{2}) d\theta$$
+
+$$\frac{d\theta}{ds} = \frac{(1 - e \sin \theta)^{\frac{3}{2}}}{a (1 - e^{2})}$$
+
+[fig]Circle with inscribed angles and lines[/fig]
+
+[fig]Circle with a single chord[/fig]
+
+[fig]Sketch of a man's head in profile[/fig]
+
+---
+
+$$z = \frac{M}{\frac{M}{x+b} + N + b} + N = N \frac{N \frac{x+b+\frac{M}{N}}{x+b} + b + \frac{M}{N}}{N \frac{x+b+\frac{M}{N}}{x+b} + b}$$
+
+$$xy + ax + by + c = 0$$
+
+$$y = -a - \frac{ay + \frac{c}{a} + 1 - 1}{x+b}$$
+
+$$y = \frac{M}{x+b} + N = N \frac{x+b+\frac{M}{N}}{x+b}$$
+
+$$[del]D_{y} =[/del]$$
+
+$$[del]x[/del] xy + by - Nx - bN - M$$
+
+$$xy + ax + by + c = 0$$
+
+$$y = \frac{ab-c}{x+b} - a$$
+
+$$\begin{array}{l} c = ab - M \\ M = ab - c \end{array}$$
+
+$$y + x D_{x} y + a + b D_{x} y = 0$$
+
+$$D_{x} y = - \frac{y+a}{x+b} = [del]a[/del]$$
+
+$$y = A \frac{x-u}{x-v}$$
+
+$$-Au = [del]d[/del] - Av - M$$
+$$M = + A(u-v)$$
+
+$$y + a = -a \frac{y + \frac{c}{a}}{x+b} + \frac{a(x+ab}{x+b}$$
+
+$$[del]x[/del] xy - Ax - vy + Au = 0$$
+
+$$= a \frac{b - \frac{c}{a}}{}$$
+
+$$y = - \frac{A(u-v)}{x-v} + A \Rightarrow A \frac{x-u}{x-v} = [del]g[/del] \frac{A(u-v) A(v-u)}{x-v} + A$$

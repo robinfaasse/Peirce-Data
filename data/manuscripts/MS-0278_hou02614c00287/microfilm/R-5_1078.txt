@@ -1,0 +1,55 @@
+[pn]V 10[/pn]
+[marginalia]01[/marginalia] [fig]horizontal line with ticks[/fig]
+[marginalia]01[/marginalia] [ins]1 0 0 1[/ins] [ins]1 0 0 1[/ins]
+[marginalia]1[/marginalia] [u]7 1 0 0 1[/u] [u]1 0 1 , 0 1[/u]
+[marginalia]01[/marginalia] 1 0 1 , 0 1 1 0 1 1 0 0 1
+[marginalia]01[/marginalia] [u]7 1 1 1 0 0 1[/u] [u]1 0 1 1 0 1 , 0 0 1[/u]
+[marginalia]10000[/marginalia] 1 0 1 1 , 0 0 1 1 0 1 1 0 1 0 1 , 0 0 0 0 0 0
+[marginalia]100[/marginalia] [u]7 1 1 1 1 1 0 1 0 0 1[/u] [u]1 0 1 1 0 1 0 1 , 0 0 0[/u]
+1 0 1 1 0 1 0 0 1
+[marginalia]01[/marginalia] [u]7 1 1 1 1 1 1 1 1 1 1 1 0 0 1[/u]
+1 0 1 1 0 1 0 1 , 0 0 0 0 0 0 1
+[marginalia]1[/marginalia] [u]7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 0 1 , 0 0 0 0 0 0 1[/u]
+1 0 1 1 0 1 0 1 0 0 0 0 1 , 0 0 0 1
+[marginalia]1[/marginalia] [u]7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 0 1 0 0 0 1 0 1 0 0 0 1[/u]
+1 0 1 1 0 1 0 1 0 0 0 0 1 0 0 1 , 0 1
+[marginalia]1[/marginalia] [u]7 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 0 1 1 1 0 0 1 0 1 1 0 1 0 0 1[/u]
+1 0 1 1 0 1 0 1 0 0 0 0 1 0 0 1 0 1 0 0
+[marginalia]01[/marginalia] 1 1 0 0 1 0 0 1 1 0 1 0 1 1 1 1 0 1 1 0 1 1 1 1 1
+
+1 1 0 0 1 0 0 1 1 0 1 0 1 1 1 1 0 1 1 0 0 1
+[u]1 0 1 1 0 1 0 1 0 0 0 0 1 0 0 1 0 1 0 1 0 1[/u]
+[marginalia]1[/marginalia] 1 1 1 1 1 0 1 0 1 1 1 1 0 0 0 0 1 0 0 1 1 1 0 0 1
+[u]1 0 1 1 0 1 0 1 0 0 0 0 1 0 0 1 0 1 0 1 1 , 0 0 0 0 1[/u]
+[marginalia]1001[/marginalia] 1 1 1 1 1 1 0 1 1 1 0 0 0 1 0 0 1 0 1 0 1 1 1 0 0 1 1 0 0 0 0 1
+[u]1 0 1 1 0 1 0 1 0 0 0 0 1 0 0 1 0 1 0 1 1 0 0 1 , 0 1[/u]
+[marginalia]1[/marginalia] [u]1 1 1 1 1 1 1 1 1 0 0 1 0 1 1 1 0 1 0 1 1 1 0 0 1 0 0 0 1 0 0 1 0 0 1[/u]
+1 0 1 1 0 1 0 1 0 0 0 0 1 0 0 1 0 1 0 1 1 0 0 1 1 , 0
+[marginalia]1[/marginalia] 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 1 0 1 1 0 1 1 0 1 0 0 1 1 0 1 0 1 1 0 0 0
+
+[marginalia]V 10[/marginalia] [u]7 0 1 1 0 1 0 1 0 0 0 0 1 0 0 1 0 1 1 0 0 0 1 1 1 0 0 1 0 0 1[/u]
+[marginalia]V 10[/marginalia] 1 0 1 1 0 1 0 1 0 0 0 0 1 0 0 1 1 0 1 1
+[marginalia]1[/marginalia] 7 [ins]1 , 0 0 0 1[/ins] 7 [ins]1 , 0 0 0 1[/ins]
+[marginalia]001[/marginalia] [u]7 0 1 0 0 0 1[/u] 001 [u]7 0 1 0 0 0 1[/u] $(1 \frac{5}{16})^2 = 1 \frac{5}{8} \frac{25}{256}$
+[ins]1 0 0 1 , 0 0 1[/ins] [ins]1 0 0 1 , 0 1[/ins] [del]7[/del] $\frac{105}{256}$
+[marginalia]01[/marginalia] [u]7 0 1 0 1 0 1 1 0 0 1[/u] 1 [u]7 0 1 1 0 1 0 0 1[/u]
+[ins]1 0 1 0 0 1[/ins] [marginalia]100000[/marginalia] [ins]1 0 0 1 1 , 0 0 0 0 0 0 1[/ins]
+[u]7 0 1 1 0 1 0 0 1 1 0 0 1 1 0 0 0 0 0 0 1[/u]
+[ins]1 1 1 0 1 0 0 1 0 1 1 1 1[/ins] [ins]1 0 0 1 1 0 0 0 0 0 1 0[/ins]
+[ins]0 0 0 0 0 0 1 1 0 1[/ins] [marginalia]1[/marginalia] [u]7 0 1 1 0 1 0 0 1 1 1 1 0 0 1 0 0 0 0 1 0[/u]
+[ins]1 1 1 1 0 1 1 0 0 0 1 1[/ins] [ins]1 0 0 1 1 0 0 0 0 0 1[/ins]
+[u]0 0 0 0 0 1 0 1 0 1 1 0 1[/u] [marginalia]1[/marginalia] [u]7 0 1 1 0 1 0 0 1 1 1 1 1 1 0 1 1 0 0 0 0 1[/u]
+[ins]1 1 1 1 1 0 0 1 1 0 1 1 0 1 1 1 1[/ins] [ins]1 0 0 1 1 0 0 0 0 0[/ins]
+[marginalia]10[/marginalia] [u]7 0 1 1 0 1 0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0 1[/u]
+[ins]1 0 1 0 1 1 0 1[/ins] [ins]1 0 0 1 1 0 0 0 0[/ins]
+[ins]0 0 1 1 0 1 1 0 1 1 1 1 1[/ins] [marginalia]1[/marginalia] [u]7 0 1 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1[/u]
+[ins]1 0 0 1 1 0 0 0[/ins]
+[ins]1 0 1 0 1 1 0 0[/ins]
+[ins]1 0 0 1 1 0 0[/ins]
+[marginalia]10000[/marginalia] [ins]1 1 1 1 1 0 0 1 0[/ins]
+[ins]1 0 0 1 1 0[/ins]
+7 0 1 1 0 1 0 0 1 1 1 1 1 0 1 1 0 0 1 0
+[ins]1 0 0 1 1[/ins]
+[ins]1 0 0 1[/ins]
+[u]7 0 1 1 0 1 0 1 0 0 0 0 0 1 1 0 1 0 0 0 1[/u]
+[fig]dots and lines[/fig]

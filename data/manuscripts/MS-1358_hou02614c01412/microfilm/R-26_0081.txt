@@ -1,0 +1,21 @@
+[marginalia]Morrison's Bridge 1899 Jan 24[/marginalia] [pn]2[/pn]
+
+[fig]Geometric diagram with lines and angles labeled with R, theta, and N-1 terms[/fig]
+
+The expression is correct through the reduction
+
+[fig]Geometric diagram showing intersecting lines and curves[/fig]
+
+[del][\sum_1^{N-1} \theta_n \sin \theta_n[/del] [ins]\sum_1^{N-1} \sin \theta_n[/ins] [del]\sin \theta_n[/del] [ins]- \sin \theta_0 \sum_1^{N-1} \cos \theta_n - R \cos \theta_0 \sin \Theta + R \sin \theta_0 \cos \Theta[/ins] [del]\frac{\sin \theta_N}{\sin \theta_N \cos \theta_0 - \cos \theta_N \sin \theta_0}[/del]
+
+[del]\frac{(\sin \theta_N \cos \theta_0 + \cos \theta_N \sin \theta_0) \sum_1^{N-1} \sin \theta_n}{\sin \theta_N \cos \theta_0 - \cos \theta_N \sin \theta_0}[/del] [ins]+ \frac{R \sin \Theta (\sin \theta_N \cos \theta_0 - \cos \theta_N \sin \theta_0)}{\sin \theta_N \cos \theta_0 - \cos \theta_N \sin \theta_0}[/ins]
+
+= \frac{(\cos \theta_N \sum_1^{N-1} \sin \theta_n - \sin \theta_N \sum_1^{N-1} \cos \theta_n) \sin \theta_0 + R \sin \theta_0 (\sin \theta_N \cos \Theta - \cos \theta_N \sin \Theta)}{\sin \theta_N \cos \theta_0 - \cos \theta_N \sin \theta_0}
+
+1  2  3  4  5  N-5  N-4  N-3  N-2  N-1
+"  "  "  "  "  "  "  "  "  "
+"  "  "  "  "  "  "  "  "  "
+"  "  "  "  "  "  "  "  "  "
+
+Total energy = g \frac{N \sin \theta_N}{\sin (\theta_N - \theta_0)} [\sum_1^{N-1} \sin (\theta_n - \theta_0) - R \sin (\Theta - \theta_0)] - g \sum_1^{N-1} n \sin \theta_n + g N R \sin \Theta
++ \frac{E}{2} \sum_0^{N-1} (\theta_{n+1} - \theta_n)^2

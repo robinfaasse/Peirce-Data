@@ -1,0 +1,70 @@
+[marginalia]
+[pn]V B 2 a (3)[/pn]
+[date]1909 June 5[/date]
+[del]Milford Pa[/del]
+[/marginalia]
+
+[pn]5C[/pn]
+
+My dear Mr. Russell;
+
+I can see no sense at all in
+trying to associate non-Euclidean
+geometry with the word "virtuals".
+All I see is that Lobatchevsky's
+little book is perfectly elementary and
+if a person goes through it, so as to
+follow each step of the elementary
+reasoning, he ought to have suf-
+ficient acquaintance with the subject
+as to answer the question you put
+me; and you assured me, that
+you had studied the book. But now
+it appears that you have never
+read it. Your eye may have passed
+over every line, but though the
+reasoning is as plain as a pike
+staff you have not taken it in.
+According to Lobatchevsky's kind of
+
+$$\frac{x}{A+ai} + \frac{y}{B+bi} = 1$$
+
+$$\frac{x}{R \epsilon^{\alpha i}}$$
+
+[fig]geometric diagram with lines and angles[/fig]
+
+$$\frac{x}{P \epsilon^{\theta i}} + \frac{y}{R \epsilon^{\phi i}} = 1$$
+
+$$\theta = 0$$
+
+$$\frac{x}{P} + \frac{y}{R \epsilon^{\phi i}} = 1$$
+
+$$x_1 = P_1 \epsilon^{\theta_1 i}$$
+$$x_2 = P_2 \epsilon^{\theta_2 i}$$
+
+[del]P with \phi[/del]
+
+[fig]geometric diagram with intersecting lines[/fig]
+
+$$\frac{x}{a} + \frac{y}{b} = 1$$
+
+[fig]coordinate axes with a line[/fig]
+
+$$x = x_1$$
+$$\frac{x_1}{a}$$
+
+$$y = b (1 - \frac{x_1}{a})$$
+
+$$P \propto \frac{1}{\sqrt{a^2+b^2}}$$
+
+$$R \cos \theta + i \sin \theta = R \epsilon^{\theta i}$$
+
+$$\frac{x}{P[\cos \theta + i \sin \theta]} + \frac{y}{R(\cos \phi + i \sin \phi)} = 1$$
+
+$$x_1 = P_1 (\cos \theta_1 + i \sin \theta_1)$$
+
+$$\frac{P_1 (\cos \theta_1 + i \sin \theta_1)}{P (\cos \theta + i \sin \theta)} + \frac{y}{R(\cos \phi + i \sin \phi)} = 1$$
+
+$$\frac{R_1 \epsilon^{\theta_1 i}}{R \epsilon^{\theta i}}$$
+
+$$\frac{R_1}{R} \epsilon^{(\theta_1 - \theta)i}$$

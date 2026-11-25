@@ -1,0 +1,64 @@
+```
+[marginalia]
+57 29.9
+[/marginalia]
+
+$$\begin{array}{c c c}
+& \text{R.A.} & \text{Dec} \\
+\alpha\text{ Pavonis} & 302^{\circ}\ 30.1' & -57^{\circ}\ 21.4' \\
+\alpha\text{ Argus} & 94\ \ \ 53.0 & -52\ \ \ 35.5
+\end{array}$$
+
+$$\begin{array}{l c c}
+\tan \delta & 0.19342n & 0.11646n \\
+\sin \alpha & 9.92602n & 9.99842 \\
+\tan M & 0.26740n & 0.11804n \\
+M & \begin{array}{r} 241^{\circ}\ 37.2' \\ [del]\underline{180\ \ \ 0.0}[/del] \\ \hline 23\ \ \ 27.9 \end{array} & \begin{array}{r} -52^{\circ}\ 41.5' \\ \hline \end{array} \\
+\sin M & 9.94439n & 9.90058n \\
+\cos M & 9.67629n & 9.78254 \\
+K & \begin{array}{r} 0.24905 \\ 0.24903 \end{array} & \begin{array}{r} 0.21588 \\ 0.21588 \end{array} \\
+M - \varepsilon & 218^{\circ}\ 19.3' & -76^{\circ}\ 9.4' \\
+\cot \alpha & 9.80422n & 8.93165n \\
+\cos (M - \varepsilon) & 9.89561n & 9.37889 \\
+\cos M \cot \alpha & 9.48121 & 8.71419n \\
+\tan \lambda & [del]9.45480[/del] & 0.66470n \\
+\lambda & \begin{array}{r} 201^{\circ}\ 34.8' \\ [del]\underline{344\ \ 12.2}[/del] \end{array} & \begin{array}{r} 102^{\circ}\ 12.7' \\ \hline 93^{\circ}\ 23.7' \end{array} \\
+\sin \lambda & 9.96998n & 9.98906 \\
+\tan (M - \varepsilon) & 9.89523n & 9.98729n \\
+\tan \beta & 9.86520 & 9.97726n \\
+\beta & 72^{\circ}\ 27.1' & 29^{\circ}\ 11.0' \\
+\cos \beta & 36^{\circ}\ 14.8' & -43^{\circ}\ 30'
+\end{array}$$
+
+[marginalia]
+15 47.8
+48
+18
+96
+
+65 51.2
+291 3.8
+[/marginalia]
+
+$$\begin{array}{l c c}
+\text{chk} & \tan (M - \varepsilon) & 9.89523n & 0.60832n \\
+& \sin \lambda & \underline{9.96997n} & \underline{9.99006} \\
+& & 9.86520n & 9.59838n \\
+& & = 36\ 14.8 & \\
+& & -36\ 14.8 & 75^{\circ}\ 51.0'
+\end{array}$$
+
+[marginalia]
+214
+26
+
+53
+214
+22
+107
+
+18 3
+61 10
+[/marginalia]
+
+[fig]small sketch of intersecting lines[/fig]

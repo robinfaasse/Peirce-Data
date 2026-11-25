@@ -1,0 +1,11 @@
+[del]1. To find [del]D log x[/del][/del]
+[del]log x : [del]D log x[/del][/del]
+[del][u]u[/u] = fx, log u = log fx[/del]
+
+1 D log x. When x increases by
+$\Delta$x, log x becomes, log (x + $\Delta$x)
+[del]log x, [del]so[/del] [ins]e[sup]log x[/sup][/ins] = x in first case[/del]
+[del]e[sup]log x[/sup] - e[sup]log (x + $\Delta$x)[/sup] = x + $\Delta$x - x = $\Delta$x[/del] [ins]e[sup]log (x + $\Delta$x)[/sup] = x + $\Delta$x, in second case[/ins]
+[del]e[sup]log (x + $\Delta$x)[/sup] - e[sup]log x[/sup] = e[sup]log (x + $\Delta$x)[/sup] - e[sup]log x[/sup] = $\Delta$x[/del]
+$\Delta$ log x = log (x + $\Delta$x) - log x
+$\frac{\Delta \text{ log } x}{\Delta x}$

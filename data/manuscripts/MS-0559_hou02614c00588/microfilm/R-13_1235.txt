@@ -1,0 +1,25 @@
+To this end, a further notational convention must be
+introduced. Using parentheses, just as they are used in
+algebra, as binding signs, one have to distinguish
+between
+[fig]Formula (A T B) T C[/fig]
+and
+[fig]Formula A T (B T C)[/fig].
+To do this, we have only to establish the [del]understand-[/del] [ins]convention[/ins]
+[del]ing[/del] that the vinculum, or horizontal line, which forms
+a part of the sign of consequence is to be extended over
+the whole antecedent, and all possible ambiguity
+is removed, without the use of parentheses. Thus,
+we write
+[fig]Formula A T B T C with vinculum over A T B[/fig]
+and
+[fig]Formula A T B T C with vinculum over B[/fig].
+Now it so happens that the repetition of an antecedent
+has no effect whatever. Thus,
+[fig]Formula A T A T B with vinculum over A T A[/fig]
+is precisely equivalent to
+[fig]Formula A T B with vinculum over A[/fig].
+That is, to say that if A be true, then if A be true, B is
+true, [del]is the same[/del] neither more nor less than to assert
+that if A is true B is true. For if the former is true, either
+A is false or [u]A[/u] T B is true. But if A is false, A's t

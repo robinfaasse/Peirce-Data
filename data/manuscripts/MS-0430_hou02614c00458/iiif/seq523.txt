@@ -1,0 +1,20 @@
+Logic
+[u]III[/u]
+29
+
+candidates could there have been?
+Considering any candidate, whoever he may be, let
+J be the value of the proposition that he was a junior,
+S " " " " senior,
+L " " " " took Latin,
+C " " " " composition.
+Then the premises [ins]form[/ins] [del]are[/del] the following graph:
+[fig]a graph with five ovals, each containing letters or smaller ovals with letters: an oval with a J inside a double oval, an oval with an oval containing J and L and another oval containing S and C, an oval with an oval containing J and L and an oval containing C, an oval with an oval containing C and an oval containing L and J, and an ink blot[/fig]
+To which, because no senior is a junior, we add
+[fig]an oval containing the letters S and J[/fig]
+By Rules I and III, the first of these ovals gives
+[fig]an oval with an oval containing J and an oval containing C, and an oval with an oval containing L and an oval containing S[/fig]
+Iterating the fourth in the last we get
+[fig]an oval with the letter L and an oval containing S and an oval containing S and J, whence an oval with the letter L and an oval containing S and J, whence an oval with an oval containing L and an oval containing S and J, whence an oval with an oval containing L and an oval containing S and J[/fig]
+Iterating the second in the fifth, we get
+[fig]an oval with an oval containing J, another oval containing J and L, and another oval containing C, and an oval containing C, whence an oval with an oval containing J, another oval containing L and C, and an oval containing C, and an oval with a double oval containing another double oval containing L and an oval containing C, and an oval containing C, and[/fig]

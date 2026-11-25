@@ -1,0 +1,17 @@
+equal, and the side $|PA|$ common, and the sides $|PB|$ and $|PC|$ are strictly equal, it follows that $|BA| = |AB|$.
+
+Then in the triangles $\Delta ABE$, $\Delta ACF$, the angle at $[A]$ is common $|AB| = |AC|$ and [del]the angles[/del] $\angle B = \angle C$, since both are right angles. Hence, by Theorem [gap] , a side and two adjacent angles of the one being equal to those of the other, the remaining corresponding parts are equal, and $\angle BEA = \angle CFA$. Q.E.D.
+
+[u]Theorem[/u]. [u]The sum of the internal angles of a plane triangle is one circuit.[/u]
+
+[u]Demonstration[/u]. In any triangle, $\Delta ABC$, I say that taking the internal angles
+
+[fig]Triangle ABC with line P parallel to BC through A[/fig] $\angle A + \angle B + \angle C = \partial$.
+
+For let $\{BC\}$ cut the firmament in $[P]$, and draw $\{AP\}$. Then, by the last theorem, $\angle B = \angle BAP$ taken externally to $\angle A$, and $\angle C = \angle CAP$ taken externally to $A$. But $\angle BAP + \angle BAC + \angle CAP = \partial$, since they have common limits and do not overlap, and the straight fibre sweeping through them successively is brought back to its initial ray $\{AP\}$. Hence also $\angle B + \angle A + \angle C = \partial$. Q.E.D.
+
+[u]Corollary[/u]. If a plane quadrilateral has a re-entering angle, this angle equals the sum of the other three.
+
+[fig]Quadrilateral ABDC with re-entering angle at D[/fig] [del]For[/del] For in the figure $\angle BDC + \angle DBC + \angle DCB = \partial$ and $\angle BAC + \angle CBA + \angle BCA = \partial$
+
+[fig]Self-intersecting quadrilateral ABDC[/fig] But if two sides of the quadrilateral cross, the sum of the angles on one side equals that on the other

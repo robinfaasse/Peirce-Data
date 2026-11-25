@@ -1,0 +1,17 @@
+[del]angles the third remaining equation holds.[/del]
+
+[u]Demonstration[/u]. Denote $[ab]$ by $[O]$. Then, in the triangles $AOC$ and $BOD$, the angles at $O$, as vertical, are equal. $OC = OD$ by construction, $OA = OB$ by construction. Hence, all the parts are equal, and $\angle ACO = \angle BDO$, so that, by alternate angles $\{AC\}$ is parallel to $\{BD\}$. In like manner $\{AD\}$ is parallel to $\{BC\}$.
+
+[fig]Geometric diagram with intersecting lines and points A, B, C, D, O[/fig]
+
+Now, it is a [del]theorem[/del] [ins]lemma[/ins], that, given any two rays in a plane, and [del]any[/del] four points upon one of those rays, the differences of the signate distances [del]from the other[/del] of two pairs of [del]those[/del] points on one of those rays from the other ray are proportional to their distances from one another. For call the four points on one ray $[P], [Q], [R], [S]$ and the feet of the perpendiculars dropped upon the other ray $[P'], [Q'], [R'], [S']$. And let $[T]$ be the point of intersection of the two rays. Then by similar triangles
+
+[fig]Geometric diagram with intersecting rays and perpendiculars[/fig]
+
+$PT : PP' = QT : QT'$.
+
+Hence
+
+$PT : PP' = [del](QT - PT) : (QQ' - PP') = (QT + PT) : (QQ' + PP')[/del]$
+
+Now, if $P$ and $Q$ are on the same side of $T$, $PQ = [del]QT \pm[/del] (QT - PT)$ and the difference of their signate [del]distances[/del] is $\pm (QQ' - PP')$, where

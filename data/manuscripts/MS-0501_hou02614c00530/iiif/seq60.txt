@@ -1,0 +1,32 @@
+8
+
+‘Not (Not $i$ but $e$) but $x$’, where $x$ is a sign entirely vague,
+will mean the same as ‘If $y$, then (if $e$ then $i$)’ where $y$ is
+a sign entirely general.
+
+[fig]figure[/fig]
+If (Not $a$, but but $b$) then $c$
+$\bar{a} \cdot b$
+$a + \bar{b} + c$
+
+If $a$ then Not $b$, but $c$
+$\bar{a} + \bar{b} \cdot c$
+
+Not (if $a$ then $b$) but $c$
+$a \bar{b} c$
+
+Not $a$ but if $b$ then $c$
+$\bar{a} (\bar{b} + c)$
+
+[fig]figure[/fig]
+If $a$ then (if $b$ then $c$)
+[del]$a + b + c$[/del]
+
+If (if $a$ then $b$) then $c$
+$a \bar{b} + c$
+
+Not (Not $a$ but $b$) but $c$
+$(a + \bar{b}) \cdot c$
+
+Not $a$ but Not $b$ but $c$
+$\bar{a} \bar{b} c$

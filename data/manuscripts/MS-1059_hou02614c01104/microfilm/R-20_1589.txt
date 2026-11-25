@@ -1,0 +1,12 @@
+[pn]( 4[/pn]
+
+To find where tangent cuts cubic, satisfy also
+[del]($\xi^2$ + $\eta^2$)[/del] ($\xi^2 + \eta^2$) ($\eta + c$) + [del]2 $\xi \eta$[/del] 2 (1 - c) $\xi \eta$ = 0
+$\left\{ (y - x D_x y)^2 + 2 (y - x D_x y) D_x y \cdot \xi + [1 + (D_x y)^2] \xi^2 \right\} (c + y - x D_x y + D_x y \cdot \xi)$
++ 2 (1 - c) $\xi$ (y - x D_x y) + D_x y \cdot \xi) = 0
+
+The coeff of $\xi^3$ is [1 + ($D_x y$)$^2$] $D_x y$
+The absolute term is $(y - x D_x y)^2 (c + y - x D_x y)$
+
+Hence since x is an equal root, the solution wanted is
+$\xi$ = - $\frac{(y - x D_x y)^2 (c + y - x D_x y)}{x^2 [1 + (D_x y)^2] D_x y}$

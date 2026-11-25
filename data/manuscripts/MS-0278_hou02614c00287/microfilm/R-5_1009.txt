@@ -1,0 +1,26 @@
+Thus for $N=13$ since $13 = 2^3 + 5$ [del]and[/del] [ins]which[/ins] exceeds $\frac{1}{2} 16$
+$\Phi N$ is divisible by $4$. Also since $13 = 2 \cdot 5 + 3$ and exceeds
+$\frac{1}{2} 25$ [del]$\Phi N$ is divisible by $25$[/del] But since $13 = 4 \cdot 3 + 1 = 9 + 4$ [del]and
+is less than $\frac{1}{2} 27$, $\Phi N$ is not divisible by $3$. And since[/del]
+$13 = 7 + 6$ [del]and is less than $\frac{1}{2} 49$, $\Phi N$ is not divisible[/del]
+[del]by $7$. And[/del] since $13 = 11 + 2$ $\Phi N$ is not divisible by $11$.
+And it is not divisible by $13$. But since $N$ exceeds the half
+of $17, 19, 23$ [del]$\Phi N$[/del] [ins]$\Phi N$[/ins] is divisible by these numbers. And since
+$\Phi N$ is less than half all higher primes, its factors
+are $2^2 \cdot 5^2 \cdot 17 \cdot 19 \cdot 23$. That is, it is $742900$.
+
+So for $N=32$, this divided by $64 = 2^6$ gives $\frac{1}{2} 64$
+Consequently $\Phi N$ is divisible by $2$. $32 = 3 \cdot 10 + 2$ which
+violates the condition. But $32 = 3 \cdot 9 + 5$ and $5 > \frac{1}{2} 9$ so
+that $\Phi N$ is divisible by $3$ since $32 < \frac{1}{2} 81$ it is not divi-
+sible by $9$. $32 = 6 \cdot 5 + 2 = 25 + 7$ and it is $< \frac{1}{2} 125$
+and therefore $\Phi N$ is not divisible by $5$. $32 = 4 \cdot 7 + 4$
+and exceeds $\frac{1}{2} 49$. Hence $\Phi N$ is divisible by $7^2$.
+$32 = 2 \cdot 11 + 10$ and is less than $\frac{1}{2} 121$. Hence $\Phi N$ is
+not divisible by $11$. $32 = 2 \cdot 13 + 6$ Hence $\Phi N$ is not
+divisible by $13$. $32 = 17 + 15 = 19 + 13$. Hence $\Phi N$ is
+divisible by $17$ and $19$ $32 = 23 + 9 = 29 + 3 = 31 + 1$. Hence
+$\Phi N$ is not divisible by $23, 29,$ or $31$. $32$ exceeds
+the half of $37, 41, 43, 47, 53, 59, 61$, and is less
+than half of all higher primes. Hence
+$\Phi N = 2 \cdot 3 \cdot 7^2 \cdot 17 \cdot 19 \cdot 37 \cdot 41 \cdot 43 \cdot 47 \cdot 53 \cdot 59 \cdot 61$.

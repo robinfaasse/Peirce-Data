@@ -1,0 +1,17 @@
+[pn]MM[/pn]
+
+[ins]1,[/ins] will be an approximation to the value of the root of least modulus; and
+as the [del]second[/del] [ins]third and[/ins] [del]of such[/del] operations are repeated over and over again, in the
+long run, the approximations will become closer and closer to the truth;
+though it will not necessarily be true in all cases that each approximation is
+closer than the one that next precedes it.
+
+If it be the root of largest modulus that is desired, [del]the[/del] [ins]N,[/ins] [del]numbers arbitra-[/del]
+rily chosen in the first place are to be substitutes for $x^{N-1}$, $x^{N-2}$, $x^{N-3}$, etc.,
+[del]and[/del] down to $x^{N-N} = 1$. You then, calculate by the equation the logical
+substitute for $x^N$; and when [del]so[/del] this has been repeated a sufficient
+number of times, the [del]new[/del] approximation to the root will be the fraction whose
+numerator is the substitute for $x^N$, and its denominator the substitute for $x^{N-1}$.
+
+If any error should be committed in the calculation, its worst possible
+effect will simply be to postpone your reaching a sufficient approximation.

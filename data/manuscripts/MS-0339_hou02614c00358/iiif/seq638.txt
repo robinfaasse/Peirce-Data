@@ -1,0 +1,57 @@
+If the system of values be V, [u]L[/u], F.
+[del]and [u]Φ[/u] (V, x) = V[/del] [del]Φ ([u]L[/u], x) = [u]L[/u][/del] [del]Φ (F, x) = x[/del]
+Φ (V, x) = V Φ ([u]L[/u], x) = [u]L[/u] Φ (F, x) = x
+ψ (V, x) = x Φ ([u]L[/u], x) = L Φ (F, x) = F
+Ω (V, x) Ω ([u]L[/u], x) = Φ (F, x)
+
+[del]XV = V XL = [u]L[/u] XF = F[/del]        x V [u]L[/u] F
+[del]XV = F XL = [u]L[/u] XF = V[/del]        [u]x[/u] F L V
+XV = V XL = V XF = V        [u]x[/u] [u]L[/u] [u]L[/u] L
+[del]XF = V[/del] [del]XF = [u]L[/u][/del]
+XF = F                x V [u]L[/u] F
+XL = [u]L[/u] XF = V            [del]x[/del] F V [u]L[/u]
+XF = L                [u]x[/u] [u]L[/u] F V
+XF = F
+XL = F XF = V            Φ(XV, x) Φ(XL, [u]x[/u]) Φ(XF, [u]x[/u])
+XF = L
+XF = F                ψ { Φ(XV, x) , Φ(XL, [u]x[/u], Φ(XF, [u]x[/u]) }
+
+[u]All this is mighty
+close to nonsense.[/u]
+
+[del]x = V XV = V[/del]
+[del]x = V[/del] ψ { [del]XV[/del] [ins]V[/ins], [u]x[/u] } [del]V[/del],
+[del]if[/del] x = V ψ { Φ([del]XV[/del] [ins]V[/ins]), V], Φ([del]XL[/del] [ins][u]L[/u][/ins], L], Φ([del]XF[/del] [ins]F[/ins]), [del]F[/del] [ins]F[/ins]} [ins]must be XV[/ins]
+[del]if[/del] x = [u]L[/u] ψ { Φ([del]XV[/del] [ins]V[/ins], [u]L[/u]), Φ([del]XL[/del] [ins][u]L[/u][/ins], F), Φ([del]XF[/del] [ins]F[/ins]), V} XL
+[del]if[/del] x = F ψ { Φ([del]XV[/del] [ins]V[/ins], F), Φ([del]XL[/del] [ins][u]L[/u][/ins], V), Φ([del]XF[/del] [ins]F[/ins]), [u]L[/u]} XF
+
+Xx = [del]XV[/del] ψ { Φ[XV, v], Φ[XL. L], Φ[XF. F] }
+XV = V ψ { [del]Φ[V, V], Φ[F, L], Φ[F, F][/del] } = V
+XV = [u]L[/u] ψ { [del]Φ[[u]L[/u], V], Φ[F, [u]L[/u]], Φ[V, F][/del] } = [u]L[/u]
+[del]XV = F[/del] ψ { [del]Φ[F, V], Φ[V, [u]L[/u]], Φ[[u]L[/u], F][/del] } = F
+
+Φ [P, V] = P ψ [ [del]L[/u], [del]FL[/del] [ins]L[/ins], [del]F[/del] [ins]FF[/ins] ] = [del]L[/u]
+[fig]figure[/fig] [del]Suppose Φ[V, R] = V
+Φ[L, R] = V
+Φ[F, R] = V[/del] ψ [ [del]F[/del], [del]L[/del] [ins]I[/ins], [del]LF[/del] [ins]F[/ins] ] = F
+ψ V [del]V[/del] [ins]L[/ins] [del]V[/del] [ins]F[/ins] = V ψVVV = V
+ψ [u]L[/u] [del]L[/del] [ins]F[/ins] [del]V[/del] [ins]L[/ins] = [u]L[/u] ψVVL = [del]F[/del]?
+ψ F [del]F[/del] [ins]V[/ins] [del]V[/del] [ins][u]L[/u][/ins] ψVVF = V
+ψVLV = V
+ψVLL [ins]?[/ins]
+ψVLF = V
+[del]ψVF ? ? ?[/del]
+LV ???
+LLV [u]L[/u]
+LLL [u]L[/u] [ins]?[/ins]
+LLF [del]L[/u][/del]
+LFV [u]L[/u]
+LFL [u]L[/u] [ins]?[/ins]
+LFF [del]L[/u][/del]
+FVV ?
+FVL = F
+FVF = F
+FLV ???
+FLF ?
+[del]FLF[/del] ?
+F-F

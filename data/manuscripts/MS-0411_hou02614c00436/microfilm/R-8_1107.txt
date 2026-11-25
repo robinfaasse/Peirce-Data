@@ -1,0 +1,26 @@
+[pn]284[/pn]
+
+[u]Rules of Logical Aggregation and Composition[/u].
+
+
+1. The signs [ins]$\Psi$[/ins] and $\cdot$ are associative. That is,
+$(x \mathbin{\Psi} y) \mathbin{\Psi} z = x \mathbin{\Psi} (y \mathbin{\Psi} z)$
+$(x \cdot y) \cdot z = x \cdot (y \cdot z)$.
+
+2. Any aggregant may be [del]inserted[/del] [ins]omitted[/ins], or any component dropped without decrease of veritability. Any component may be inserted, or any aggregat[del]et[/del] dropped without increase of veritability.[ins]*[/ins]
+
+3. An aggregant the whole or a component of which is identical with a coordinate aggregant, or a component the whole or an aggregant of which is identical with a coordinate component, is without effect.
+
+4. Two superposed signs of negation neutralize each other.
+$\overline{x \mathbin{\Psi} y} = \bar{x} \cdot \bar{y}$
+$\overline{x \cdot y} = \bar{x} \mathbin{\Psi} \bar{y}$
+
+5.
+$\omega \mathbin{\Psi} x = \omega$
+$\omega \cdot x = x$
+$x \mathbin{\Psi} \bar{x} = \omega$
+$0 \cdot x = 0$
+$0 \mathbin{\Psi} x = x$.
+$x \cdot \bar{x} = 0$.
+
+[ins]*[/ins][u]Mrs. Franklin. Studies in Logic by Members of Johns Hopkins[/u], p. 34.

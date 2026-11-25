@@ -1,0 +1,28 @@
+[marginalia]
+[pn]Logic
+3
+III.[/pn]
+174
+[/marginalia]
+
+Using this to eliminate, say [u]z[/u], from the second equation,
+we get
+[u]x[/u]² + [u]x[/u] [u]y[/u] + [u]y[/u]² = 0
+which is not satisfied by [u]x[/u] = [u]y[/u] unless both are zero.
+Multiplying it by [u]x[/u] - [u]y[/u], we have
+[u]x[/u]³ - [u]y[/u]³ = 0,
+or
+[u]x[/u] = [u]g[/u] [u]y[/u] [u]x[/u] = [u]g[/u]² [u]y[/u]
+where [u]g[/u] must be imaginary, since we have just seen that
+[u]x[/u] & [u]y[/u] unless both are zero. There are, therefore, besides zero
+itself, but two quantities whose squares vanish; namely,
+([u]i[/u] + [u]g[/u] [u]j[/u] + [u]g[/u]² [u]k[/u])² = 0
+([u]i[/u] + [u]g[/u]² [u]j[/u] + [u]g[/u] [u]k[/u]) = 0.
+
+The products of these are
+⅓ ([u]i[/u] + [u]g[/u] [u]j[/u] + [u]g[/u]² [u]k[/u]) ⅓ ([u]i[/u] + [u]g[/u]² [u]j[/u] + [u]g[/u] [u]k[/u]) = ⅓ ([u]l[/u] + [u]g[/u]² [u]m[/u] + [u]g[/u] [u]n[/u]) = [u]t[/u]
+⅓ ([u]i[/u] + [u]g[/u]² [u]j[/u] + [u]g[/u] [u]k[/u]) ⅓ ([u]i[/u] + [u]g[/u] [u]j[/u] + [u]g[/u]² [u]k[/u]) = ⅓ ([u]l[/u] + [u]g[/u] [u]m[/u] + [u]g[/u]² [u]n[/u]) = [u]s[/u].
+
+The products by, and into [u]r[/u], [u]s[/u], [u]t[/u], are
+⅓ ([u]l[/u] + [u]m[/u] + [u]n[/u]) x ⅓ ([u]i[/u] + [u]g[/u] [u]j[/u] + [u]g[/u]² [u]k[/u]) = [del]⅓[/del] [ins]⅑[/ins] [ (1 + [u]g[/u] + [u]g[/u]²) [u]i[/u] + (1 + [u]g[/u] + [u]g[/u]²) [u]j[/u] + (1 + [u]g[/u] + [u]g[/u]²) [u]k[/u] ] = 0.
+⅓ ([u]i[/u] + [u]g[/u] [u]j[/u] + [u]g[/u]² [u]k[/u]) x ⅓ ([u]l[/u] + [u]m[/u] + [u]n[/u]) = [del]⅓[/del] [ins]⅑[/ins] [ (1 + [u]g[/u] + [u]g[/u]²) [u]i[/u] + (1 + [u]g[/u] + [u]g[/u]²) [u]j[/u] + (1 + [u]g[/u] + [u]g[/u]²) [u]k[/u] ] = 0

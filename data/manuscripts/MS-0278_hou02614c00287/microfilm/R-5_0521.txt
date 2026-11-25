@@ -1,0 +1,21 @@
+[u]An[/u] [u]Theorem[/u]. If one whole number is greater
+than a second, and while a third is at once at least
+as great as a fourth and greater than 0, then the
+product of the first and third is greater than that of
+the second and fourth.
+
+[u]Demonstration[/u]. If A [del]and B are[/del] [ins]and B are[/ins] any whole num-
+bers, [del]and B is any whole number greater than 0,[/del] and if
+X be such a whole number that
+$$X \times B > A \times B,$$
+then if $X'$ is the number next greater than X, I say that
+$$X' \times B > A \times B.$$
+[del]For by[/del] [ins]For[/ins] [del]$X' = 1 + X'$[/del] by axiom 8,
+$$X' \times B = B + (X \times B).$$
+But by theorem , if $B > 0$, as it must be since $X \times B > A \times B$
+$$B + (X \times B) > 0 + (X \times B).$$
+Hence, if $B > 0$ $X' \times B > A \times B$.
+Thus, the character of [del]either[/del] being no greater than [del]A[/del] [ins]any whole[/ins]
+number A or of forming [del]a product[/del] with any whole number, B,
+[ins]a product[/ins] greater than $A \times B$ is a character which advances in the
+sequence of numbers.

@@ -1,0 +1,41 @@
+So likewise
+
+Fig.15 [fig]figure[/fig]
+
+means "if anything [del]ever[/del] happens it [u]then[/u] lightens", i.e. "it always lightens."
+
+We investigate the meaning of
+
+Fig.16 [fig]figure[/fig]
+
+This is equivalent to
+
+Fig.17 [fig]figure[/fig]
+
+which means "[u]Sometimes[/u] if it lightens then at that time [fig]figure[/fig] is true."
+
+Here is a lemma. Fig 18 is equivalent to Fig [del]19[/del] 20
+
+Fig.18. [fig]figure[/fig] Fig.19. [fig]figure[/fig]
+
+Fig.20 [del]Somebody[/del] [ins]There is somebody who[/ins] either loves or knows everybody.
+
+i.e. Somebody loves everybody except those he knows.
+
+To prove this, first assume Fig.18 is true. Let M be the "somebody" of whom
+
+Fig.18 is true. Suppose M does not know a certain person, N. Then it is not true
+
+that M [fig]figure[/fig] N. For if it were, by Basic Rule IV, Fig.18 (which we
+
+assume to be true) would assert that M knows N. But M [fig]figure[/fig] N
+
+which is thus not true asserts that M if he loves N, knows him. This
+
+would not be false unless M loved N. Hence, M does love N. Thus we have
+
+shown that assuming Fig.18 to be true, if [del]M[/del] there be anybody whom M does not [ins]know[/ins] [del]know[/del]
+
+he loves that person. That is, if Fig 18 is true, Fig 20 is true.
+
+Second, assume Fig. 20 to be true. Suppose the somebody M of whom Fig 20 is true

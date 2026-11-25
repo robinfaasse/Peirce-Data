@@ -1,0 +1,38 @@
+[pn]M-157[/pn]
+
+<u>Question 1</u>
+
+[fig]Simple chain of 5 links[/fig] With In how many ways, with $c$ colors, can a simple chain of $l$ links, be colored, [del]so[/del] no two adjacent links being colored alike?
+
+Let $p_l$ be the number of ways when the two extremities are colored alike
+$q_l$ the number of ways when the extremities are different colors
+
+$E p_l = p_{l+1} = q_l$     $E q = (c-1) p + (c-2) q$
+
+$E^2 p = (c-1) p + (c-2) E p$
+$p = C_1 (c-1)^{l-1} + C_2 (-1)^{l-1}$
+$p_1 = C_1 + C_2 = [del]c[/del]$
+$p_2 = C_1 (c-1) - C_2 = 0$
+
+$C_1 c = c$     $C_1 = 1$     $C_2 = c-1$
+
+$p_l = (c-1)^{l-1} + (c-1) (-1)^{l-1}$ [del]$= (c-1) \{[/del] $= (c-1) \{(c-1)^{l-2} - (-1)^{l-2}\}$
+$q_l = (c-1) \{(c-1)^{l-1} - (-1)^{l-1}\}$
+
+It may be remarked that $(c-1)^l + (-1)^{l+1}$ is always divisible by $c$.
+
+<u>Question 2</u>
+
+[fig]Diagram 1: Map with regions labeled 1, 2, 3, 4[/fig]
+[fig]Diagram 2: Map with regions labeled 1, 2, 3, 4[/fig]
+[fig]Diagram 3: Map with regions labeled 1, 2, 3, 4[/fig]
+[fig]Diagram 4: Torus with a closed curve[/fig]
+[fig]Diagram 5: Figure-eight shape[/fig]
+[fig]Diagram 6: Torus with multiple curves[/fig]
+[fig]Diagram 7: Torus with shaded region[/fig]
+[fig]Diagram 8: Circular map with regions labeled 1, 2, 3[/fig]
+[fig]Diagram 9: Circle with internal connections[/fig]
+[fig]Diagram 10: Map with regions labeled 1, 2, 3[/fig]
+[fig]Diagram 11: Map with regions labeled 1, 2, 3[/fig]
+[fig]Diagram 12: Map with regions labeled 1, 2, 3[/fig]
+[fig]Diagram 13: Circular map with regions labeled 1, 2, 3[/fig]

@@ -1,0 +1,34 @@
+[pn]52[/pn] PLANE GEOMETRY. [CH. XI. § 181.
+
+Cases of similar Triangles.
+
+$$AB : DF = AC : DE = BC : EF.$$
+
+_Proof._ Take $AE' = DE$, and draw $E'F'$ parallel to $BC$. The triangles $AE'F'$ and $ABC$ are similar, by § 175, and we are to prove that $AE'F'$ is equal to $DEF$.
+
+Now, by § 160,
+$$AE' : AC = AF' : AB,$$
+
+and, by hypothesis,
+$$DE \text{ or } AE' : AC = DF : AB.$$
+
+Hence, on account of the common ratio $AE' : AC$,
+$$AF' : AB = DF : AB;$$
+
+that is, $AF'$ and $DF$ are in the same ratio to $AB$, and are consequently equal.
+
+In the same way it may be proved that $E'F'$ and $EF$, being in the same ratio to $BC$, are equal; and as the triangle $DFE$ has its sides equal to those of $AE'F'$, it is equal to $AE'F'$, and is, therefore, similar to $ABC$.
+
+**181. Theorem.** _Lines $AF$, $AG$, &c. (fig. 100), drawn at pleasure through the vertex of a triangle, divide proportionally the base $BC$ and its parallel $DE$, so that_
+$$DI : BF = IK : FG = KL : GH, \text{ \&c.}$$
+
+_Proof._ Since $DI$ is parallel to $BF$, the triangles $ADI$, $ABF$ are equiangular, and give the proportion,
+$$DI : BF = AI : AF;$$
+
+also, since $IK$ is parallel to $FG$,
+$$AI : AF = IK : FG;$$
+
+and, therefore, on account of the common ratio $AI : AF$,
+$$DI : BF = IK : FG.$$
+
+[fig]Hand-drawn geometric diagram of a triangle with intersecting lines.[/fig]

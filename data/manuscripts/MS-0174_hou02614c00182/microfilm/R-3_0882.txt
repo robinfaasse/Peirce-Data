@@ -1,0 +1,14 @@
+$$\left| \begin{matrix} a-\lambda & h & g \\ h & b-\lambda & f \\ g & f & c-\lambda \end{matrix} \right| \times \left| \begin{matrix} \phantom{a-\lambda} & \phantom{h} & \phantom{g} \\ \phantom{h} & \phantom{b-\lambda} & \phantom{f} \\ \phantom{g} & \phantom{f} & \phantom{c-\lambda} \end{matrix} \right|$$
+
+$$a^2+h^2+g^2-\lambda^2$$
+$$ah+bh+fg$$
+
+$$\left| \begin{matrix} a & h & g \\ h & b & f \\ g & f & c \end{matrix} \right| + \lambda(f^2+g^2+h^2) - \lambda^3$$
+
+$$\Delta + \lambda \left| \begin{matrix} b & f \\ f & c \end{matrix} \right|$$
+
+$$\Delta - \lambda(A+B+C) + \lambda^2(a+b+c) - \lambda^3$$
+
+$$\Delta + \lambda(A+B+C) + \lambda^{2(a+b+c)} + \lambda^3$$
+
+$$\lambda^2$$

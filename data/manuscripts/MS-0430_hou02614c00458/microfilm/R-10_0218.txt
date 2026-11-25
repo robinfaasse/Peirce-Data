@@ -1,0 +1,30 @@
+[marginalia]
+[pn]Logic[/pn]
+[pn]5[/pn]
+[pn]III[/pn]
+[pn]30[/pn]
+[/marginalia]
+
+[fig]Nested circles with letters L, C, C[/fig] and [fig]Nested circles with letters I, C[/fig]
+
+Iterating the third in this last, we get,
+
+[fig]Nested circles with letters L, C, C, L, J[/fig] whence [fig]Nested circles with letters L, C, L, J[/fig] and [fig]Nested circles with letters L, L, J[/fig] and
+
+[fig]Nested circles with letters L, L, J[/fig] and [fig]Nested circles with letters L, L[/fig] and [fig]Nested circles with letters L[/fig] and L, [del]iterating[/del] [fig]Nested circles with letters L, J[/fig]
+
+[del]in this we get[/del] [fig]Nested circles with letters I, L, J[/fig] [del]whence[/del] Taking this with [u](I.J.)[/u]
+
+we get
+
+I [fig]Nested circles with letters L, J[/fig] whence I [fig]Nested circles with letters J[/fig] and [fig]Nested circles with letters J[/fig] Iterating this in the
+
+first, we get
+
+[fig]Nested circles with letters J[/fig] [fig]Nested circles with letters J, J, L[/fig] [fig]Nested circles with letters S, C[/fig] whence [fig]Nested circles with letters J[/fig] [fig]Nested circles with letters J, L[/fig] [fig]Nested circles with letters S, C[/fig] and [fig]Nested circles with letters J, C[/fig] [fig]Nested circles with letters J[/fig]
+
+and [fig]Nested circles with letters J, C[/fig], Taking this with the 3[ins]rd[/ins] we have,
+
+[fig]Nested circles with letters J, C[/fig] [fig]Nested circles with letters C, L, J[/fig] whence [fig]Nested circles with letters J, C[/fig] [fig]Nested circles with letters J, C[/fig] whence [fig]Nested circles with letters J, C[/fig] [fig]Nested circles with letters J[/fig] whence
+
+[fig]Nested circles with letters J, C, J[/fig] whence [fig]Nested circles with letters J, J[/fig] whence [fig]Nested circles with letters J[/fig] whence [fig]Empty circle[/fig]. [u]But[/u]

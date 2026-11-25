@@ -1,0 +1,30 @@
+[pn]Logic
+III
+139[/pn]
+
+gation, $a + b + c + \text{etc.}$ has the value $f$, and by the first clause
+of the definition of composition $(a + b + c + \text{etc.}) + x$ has the value
+$f$. Suppose, on the other hand, that $x$ has the value $f$. Then, by
+the second clause of the definition of composition,
+$(a + b + c + \text{etc.}) + x$ has the value $f$.
+
+Thus, in every case $a + x + b + x + c + x + \text{etc.}$ and
+$(a + x + b + x + c + x + \text{etc.}) + x$ and $(a + b + c + \text{etc.}) + x$ have
+the same value. Q.E.D.
+
+At this point, there is an exceedingly important remark
+to be made, which will best be brought into its proper light
+by connecting it with its history. In April, 1880, I sent to
+the [u]American Journal of Mathematics[/u], a paper on the
+[u]Algebra of Logic[/u] which was published in Vol III of that
+Journal. It was written during an attack of illness, and,
+in consequence, contained a good many errors, of the most
+important of which I shall now consider. In that paper, I
+defined composition and aggregation substantially as
+
+[marginalia]
+Corollary. It follows that we have also
+$(a + \bar{x}) \cdot (b + \bar{x}) \cdot (c + \bar{x}) \cdot \text{etc}$
+$= (a + \bar{x}) \cdot (b + \bar{x}) \cdot (c + \bar{x}) \cdot \text{etc} + \bar{x}$
+$= a \cdot b \cdot c \cdot \text{etc} + \bar{x}$.
+[/marginalia]

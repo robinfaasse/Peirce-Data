@@ -1,0 +1,46 @@
+The variable point in $\{w\} = \{O'[xy]\}$ is
+$$\begin{aligned}
+\{w\} = & \Big\{ [del]p(1-p)q[/del] [ins]p(1-p)q(1-r)[/ins] + ipq(1-r) - i(1-q)r \Big\} [ (p-i)q-r ] w + (1-w)(p-i-1)(1-q)r \Big[ \frac{p(1-r)q}{+i(pq-r)} \Big] \Big\} S \\
+& + (1-w)(p-i)(q-r) \Big[ p(1-p)q + i(pq-r) \Big] A \\
+& + \Big\{ w [ (p-i)(1-p)qr [ (p-i)q-r ] + (1-w)(p-i-1)qr [ p(1-p)q + i(pq-r) ] \Big\} R
+\end{aligned}$$
+
+Where this cuts $\{AS\}$ the coefficient of $R$ vanishes
+$$w = \frac{(1-p+i)qr [ p(1-p)q + i(pq-r) ]}{(p-i)(1-p)qr [ (p-i)q-r ] + (1-p+i)qr [ p(1-p)q + i(pq-r) ]}$$
+
+$$\begin{aligned}
+(1-w) & = \frac{(p-i)(1-p) [ (p-i)q-r ]}{pq - ir [del]+ (p-i)[/del] [del]pq[/del] \Big\{ -pq + (1-p)[(p-i)q-r] - p(1-p)q - i(pq-r) \Big\}} \\
+& \begin{array}{l}
+-pq + pq - r - iq - p^2q + pr + ipq \\
+-pq \qquad\qquad + p^2q \quad -ipq + ir \\
+\hline -pq - r + pr - iq + ir
+\end{array} \\
+& = \frac{(p-i)(1-p) [ (p-i)q-r ]}{-p^2q + pq - pr + p^2r + i^2q - i^2r} \quad \begin{array}{l}
+pq - ir \\
+-p^2q - pr + p^2r - ipq + ipr \\
+\quad + ir \qquad\qquad + ipq - ipr + i^2q - i^2r \\
+\hline
+\end{array} \\
+& = \frac{(p-i)(1-p) [ (p-i)q-r ]}{p(q-r) - (p+i)(p-i)(q-r)} \quad \begin{array}{l}
+pq - iq - r \\
+-p^2q + ipq + pr \\
+\hline p^2q - ipq - pr - p^3q + ip^2q + p^2r \\
+\quad - ipq \qquad\qquad + ip^2q \quad + ig^2 + ip \\
+\qquad\qquad\qquad\qquad\qquad - ipr - i^2pq \\
+\hline p^2q - ip^3q - pr + p^2r - 2ipq + 2ip^2q \\
+\qquad\qquad\qquad\qquad\qquad + ir - ipr + i^2q - i^2pq
+\end{array}
+\end{aligned}$$
+
+$$\begin{aligned}
+[3] & = \frac{(p-i)^2(1-p)}{[del]p - (p+i)(q-r)[/del] [ins]p - (p^2-i^2)[/ins]} A
+\end{aligned}$$
+
+$$\begin{array}{l|l}
+pq - iq - r & p^2q [del]- p^3q[/del] - pr + ir \\
+-p^2q + ipq + pr & -p^2q [del]- ip^2q[/del] + p^2r - ipr \\
+\hline [del]pq - iq - r[/del] & + i^2q - i^2pq \\
+[del]+ pq - 2ip^2q + ipr + i^2pq[/del] & + ir + 2ipq - ir \\
+\hline p^2q [del]- p^3q[/del] + pq + ipr - 2ip^2q + 2ipq - ir \\
+(1-p)^2pq + i(2pq-r)(1-p) + i^2(pq-2q-r)
+\end{array}$$

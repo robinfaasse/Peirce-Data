@@ -1,0 +1,30 @@
+Sum, [del]one[/del] [ins]any[/ins] ought not to take [del]a[/del] [ins]any[/ins] wife, at all. It is curious that the dilemma is [del]never[/del] [ins]not[/ins] mentioned in a single medieval logic. It first appears in the [u]De Dialectica[/u] of [u]Rudolphus Agricola[/u], or some [del]contemporary work[/del] [ins]other renaissance treatise[/ins] [del]of[/del] [ins]or[/ins] [del]which[/del] [ins]of[/ins] [del]I[/del] [ins]which[/ins] I have forgotten [del]in[/del] [ins]on[/ins] which of several works it [del]first[/del] [ins]is first[/ins] [del]is[/del] found, and have [del]no[/del] [ins]few[/ins] books at hand.]
+
+[fig]horizontal line with loops[/fig]
+
+[fig]diagram of logical relations with intersecting lines and variables[/fig]
+
+$(l + s)$
+
+$l + \bar{l}$
+
+$t + \bar{t}$
+
+$(l + \bar{l})(t + \bar{t})$
+
+$\Pi_{x} (l_{ix} + \bar{l}_{jx})$
+
+$\bar{A} : B$
+
+$A : B$ ——— $A : C$ ——— $A : D$
+$B : C$ ——— $B : D$
+$C : D$
+
+$A :$ ——————
+$B :$ ——————
+$C :$ ——————
+
+$A : A + A : B + A : C + A : D$
+$B : A + [del]B : B[/del] + B : C$
+$C : A + C : B$
+$D : A$ + $D : D$

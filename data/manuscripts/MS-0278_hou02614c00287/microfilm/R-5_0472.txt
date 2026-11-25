@@ -1,0 +1,30 @@
+[del]- AC²·BD² - AD²·BC² - CD²·AB²[/del]
+[del]+ AC²·AD²(BC² + BD²) + AC²·CD²(AB² + BD²) + AD²·CD²(AB² + BC²)[/del]
+[del]- AC²·AD²·CD²[/del]
+
+[del]- 4 AB²·BC²·BD² - AB⁴·BD² - BC⁴·BD² - AB⁴·BC² - BD⁴·BC² - BC⁴·AB² - BD⁴·AB²[/del]
+[del]- 6[/del]                      [ins]+ AB⁴·BD² +[/ins]               [ins]+ AB⁴·BC² +[/ins]                                [ins]+ BD⁴·AB²[/ins]
+[del]+ 2[/del]
+
++ AB²·BD²·AC² + BC²·BD²·AC² + AB²·BC²·AD² - 4 BD²·BC²·AD² + BC²·AB²·CD² + BD²·AB²·CD²
+
+- AB²·BC²·AC²                               - AB²·BD²·AD²                               - BC²·BD²·CD²
+
+- BD⁴·AC²                                     - BC⁴·AD²                                     - AB⁴·CD²
+
+- AC⁴·BD²                                     - AD⁴·BC²                                     - CD⁴·AB²
+
+          + AC²·AD²·BC²                                     + AD²·CD²·AB²                               + AC²·CD²·AB²
+          + AC²·AD²·BD²                                     + AD²·CD²·BC²                               + AC²·CD²·BC²
+          - AC²·AD²·CD²
+
+
+= 1/12 √ - AB²·BC²·CA² - AB²·BD²·DA² - AD²·DC²·CA² - BC²·CD²·DB²
+
+          + AB²·CD²(AC² + AD² + BC² + BD²)
+          + AC²·BD²(AB² + AD² + CB² + CD²)
+          + AD²·BC²(AB² + AC² + DB² + DC²)
+
+          - AB²·CD²(AB² + CD²)
+          - AC²·BD²(AC² + BD²)
+          - AD²·BC²(AD² + BC²)

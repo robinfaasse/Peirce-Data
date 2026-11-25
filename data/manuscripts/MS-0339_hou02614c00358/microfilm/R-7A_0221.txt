@@ -1,0 +1,35 @@
+[marginalia][Follows 65] 52r[/marginalia]
+
+When we take relation into account we
+see that [del]$(x, y)_c \cdot y + x \cdot y = y^2 + x \cdot y = (y+x) y$[/del]
+$\Phi x$ cannot be developed as
+$\Phi x = \frac{x}{x} \cdot \Phi_1 (x-1)_c \cdot y + x \cdot \frac{0}{0} \cdot y$
+$\Phi x = \frac{1}{x} (x \cdot y + [del]y[/del] [ins]x[/ins] \cdot (x-1)_c y) \cdot \Phi_1 (x-1)_c y + [del]x \cdot \frac{0}{0} \cdot y[/del]$
+where $i$ and $j$ [del]are independent of $x$[/del]
+[ins]$(x-1) y = \frac{1}{x} ((x-1) y - 1)_c \cdot x y - 1 y$[/ins]
+but it can
+be developed as
+$(x y - 1)_c (x-1) y = \Sigma [del]l[/del] [ins]c[/ins] x \cdot y$
+$\Phi x = l x + m x + n x + \text{etc.}$
+$(x y - 1)_c (x y - 1 y) = (x-1) y$
+$\Phi x \cdot \frac{1}{x} \cdot \Phi (x) \cdot \frac{1}{x} + [del]x \cdot \Phi (x) \cdot \frac{0}{0}[/del] [ins]x \cdot \Phi (x) \cdot \frac{0}{0}[/ins] + y \cdot \Phi_1 y \cdot \frac{0}{0}$
+$(x y - 1)_c + x \cdot \frac{0}{0}$
+
+[del]$[l] \cdot y = y \cdot x (1-[l]) = 0$[/del]
+$x (1-[l]) = 0$
+$x (1-l x) = 0$
+$x \cdot \frac{0}{0} (1-[l]) = 0$
+$x (1-l x) \cdot y = 0$
+$x \cdot \frac{0}{0} (1-l x) = 0$
+$x \equiv x_1 l x$
+$[[l l - l']] = 0$
+$y \cdot x_1 (1-[l l - l']) = 0$
+$x_1 (1-l(1-l')x) = 0$
+$x \cdot \frac{0}{0} \cdot y + [del]x \cdot \frac{0}{0} \cdot y[/del]$
+$x \cdot \frac{0}{0} \cdot y$
+$(x_1 \cdot \frac{0}{0} + (x, y)_c) \cdot (y_1 \cdot \frac{0}{0} + (y, x)_c) \cdot y$
+$(x_1 \cdot \frac{0}{0} + (x, y)_c)_c \cdot [del]y[/del]$
+$(x, y)_c \cdot (y, x)_c = (x, y)_c$
+$(x, y)_c \cdot (y, x)_c + (x, y)_c \cdot (y, x)_c \cdot y - (x, y)_c \cdot y$
+
+[fig]checkmark[/fig]

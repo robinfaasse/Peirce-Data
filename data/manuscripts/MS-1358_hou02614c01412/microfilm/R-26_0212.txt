@@ -1,0 +1,29 @@
+Monson Bridge [date]1899 March 1[/date] [pn]43[/pn]
+
+$\psi_n^2 = \left(\frac{d\eta}{S}\right)$
+
+[del]d$\eta$[/del] $\Delta\eta_n - S \tan\varphi_n$
+
+$\arcsin \left( \frac{\Delta\eta_n}{S} \cos\varphi_n + \sin\varphi_n \right) - \varphi_n = \psi_n$
+
+$\frac{\Delta\eta_n}{S} \sin\varphi_n + \frac{\Delta\eta_n}{S} \cos\varphi_n = \sin(\varphi_n + \psi_n)$
+
+$\sin^2\varphi_n + 2 \frac{\Delta\eta_n}{S} [del]\sin\varphi_n[/del] \cos\varphi_n + \left(\frac{\Delta\eta_n}{S}\right)^2 \cos^2\varphi_n = \sin^2(\varphi_n + \psi_n)$
+
+$\cos^2\varphi_n - 2 \frac{\Delta\eta_n}{S} \sin\varphi_n \cos\varphi_n - \left(\frac{\Delta\eta_n}{S}\right)^2 \cos^2\varphi_n = \cos^2(\varphi_n + \psi_n)$
+
+$\cos\varphi_n \sqrt{1 - \left(\frac{\Delta\eta_n}{S}\right)^2 - 2 \frac{\Delta\eta_n}{S} \tan\varphi_n} = \cos(\varphi_n + \psi_n)$
+
+$d\xi_n = S \sqrt{1 - \left(\frac{\Delta\eta_n}{S}\right)^2 - 2 \frac{\Delta\eta_n}{S} \tan\varphi_n} - S$
+
+$= - \Delta\eta_n \tan\varphi_n - \frac{1}{2} \frac{(\Delta\eta_n)^2}{S} - \frac{1}{2} \frac{(\Delta\eta_n)^2}{S} \tan^2\varphi$
+
+$= - \Delta\eta_n \tan\varphi_n - \frac{1}{2} \frac{(\Delta\eta_n)^2}{S} \sec^2\varphi_n$
+
+$\tan\varphi_n = \frac{n}{p}$ $\sec^2\varphi_n = 1 + \frac{n^2}{p^2}$
+
+[del]$\pi \eta_n - \eta_n$[/del] $\int \eta D\eta [del]d\eta[/del] = \eta\eta - \int \eta d\eta$
+
+[del]$\eta\eta - \eta$[/del] [del]$\eta d\eta = \eta - \eta$[/del]
+
+[fig]Enclosure containing two integrals[/fig] $\int \sqrt{a+by+cy^2} dx = \int \frac{\sqrt{a+by+cy^2}}{D_x y} dy$

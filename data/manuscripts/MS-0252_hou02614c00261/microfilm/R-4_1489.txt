@@ -1,0 +1,9 @@
+Case 1114. The first player occupies the corner square opposite that of the second player. [fig]Tic-tac-toe grid with numbers and X[/fig] The second player can now occupy a side square adjoining his own corner (Case 11141), or a corner-square (Case 11142), or a side square adjoining the first player's corner (Case 11143).
+
+Case 11141. The second player occupies a side square adjoining his own corner square. [fig]Tic-tac-toe grid with O, X, X[/fig] The first player occupies the adjoining corner square and will make tit-tat-toe either on a diagonal or side.
+
+Case 11142. The second player occupies a corner square. The first player is obliged to occupy [fig]Tic-tac-toe grid with O, X, O, X, O, X[/fig] the side square between the second player's two corners. The second player is obliged to occupy the opposite side square. There is no tit-tat-toe.
+
+Case 11143. The second player occupies a side square adjoining the first player's corner. [fig]Tic-tac-toe grid with O, X, O, X[/fig] If the first player now plays right, namely, if he occupies either of the two vacant squares along the side where his corner square is alone occupied, he will win. Otherwise, there will be no tit-tat-toe. This exhausts case 11. [del]We now take up case[/del]
+
+Case 12. The second player occupies a side square. [fig]Tic-tac-toe grid with 1, O, 1, 2, X, 2, 3, 4, 3[/fig] There are now [del]to[/del] 4 essentially different plays for the first player, as numbered. But [del]as far[/del] as he does not occupy the side square opposite the second player's side square he is sure to win, with a little care. This exhausts case 1.

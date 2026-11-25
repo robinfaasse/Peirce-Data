@@ -1,0 +1,24 @@
+Given two equations
+$$a_{11} + a_{12} + a_{13} = 0$$
+$$a_{21} + a_{22} + a_{23} = 0$$
+Let $i$ and $j$ be different kinds of quantity
+and then two equations may be written
+$$(a_{11} + a_{12} + a_{13})i + (a_{21} + a_{22} + a_{23})j = 0$$
+This is has the same meaning whatever
+the multiplication table of $i$ and $j$ [ins]so that[/ins] [del]gives[/del]
+[del]we[/del] are free to give them any multiplication
+table. Suppose their multiplication
+[del]table[/del] [ins]polar[/ins] — the only useful supposition
+Multiply [del]by[/del] [ins]into[/ins] $a_{11}i + a_{21}j$ and we
+have
+$$a_{21}(a_{12} + a_{13}) - a_{11}(a_{22} + a_{23}) = 0$$
+
+The single equation
+$$a_{11} + a_{12} + a_{13} = 0$$
+is the same as
+$$a_{11}i + a_{12}j + a_{13}k = 0$$
+where $i$, $j$, $k$ are [del]any[/del] [ins]suitably[/ins] [del]chosen[/del]
+[del]of[/del] double quantities. For suppose
+$$i = m_1 x + n_1 y$$
+$$j = m_2 x + n_2 y$$
+$$k = m_3 x + n_3 y$$

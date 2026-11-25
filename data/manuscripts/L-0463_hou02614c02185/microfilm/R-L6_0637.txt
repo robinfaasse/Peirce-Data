@@ -1,0 +1,29 @@
+[pn]17[/pn] By this beautiful [u]barycentric[/u] notation, as it is called, several
+fundamental theorems can readily be proved, that geometers had a
+great deal of trouble in proving otherwise, except by dragging in
+considerations about the lengths of lines, which considerations are utterly
+irrelevant to the theorems. Here are two of these called the nine-point and
+the ten-point theorem.
+
+Through one point, O, draw three rays (i.e. unlimited straight lines)
+and mark two other points on each; say A and A' on one, B and B' on
+another, and C and C' on the third. Complete the triangles ABC and A'B'C'
+
+[fig]Geometric diagram with intersecting lines and points O, A, A', B, B', C, C', P, Q, R[/fig]
+
+by drawing (I write two points between parentheses to denote the ray through them, and I write the signs
+of two rays between square brackets to denote their point of intersection) [del]by drawing[/del], I say, the [del]three[/del] [ins]six[/ins]
+rays (AB) (BC) (CA) (A'B') (B'C') (C'A') then the three points P = [(BC)(B'C')], Q = [(CA)(C'A')], and
+R = [(AB)(A'B')] lie on one ray. That is, (PQ) = (QR) = (RP).
+
+The proof is as follows: We may put O = [u]uA + vB + wC[/u]/[u]u + v + w[/u] and give u, v, w any values
+we please so long as none of them are zero. For we can always do this for [del]one[/del] [ins]any[/ins] one
+fourth point besides those three we take as standard, wherewith to express all other
+points in the plane. We will therefore write O = [u]A + B + C[/u]/[u]3[/u]. Now A' is any point
+in a ray with O and A that is we may take A' = [u]O + a A[/u]/[u]1 + a[/u] = [u]A + B + C[/u]/[u]3(1 + a)[/u] + [u]a A[/u]/[u]1 + a[/u] = [u](3a + 1)A + B + C[/u]/[u]3(1 + a)[/u]
+where a may have any value that will not make A' = 0 nor A' = A. That is a [math]\neq[/math] 0.
+Then by symmetry we may take B' = [u]A + (3b + 1)B + C[/u]/[u]3(1 + b)[/u] C' = [u]A + B + (3c + 1)C[/u]/[u]3(1 + c)[/u]
+where b [math]\neq[/math] 0 and c [math]\neq[/math] 0. Now P is on a ray through B and C. It must therefore be of the
+form [u]y[/u]B + [u]z[/u]C where I make a line over a letter to denote 1 minus that letter.
+But P is also on the ray through B' and C'. There must therefore be some value of x such that
+P = [u]y[/u]B + [u]z[/u]C = x [u]A + (3b + 1)B + C[/u]/[u]3(1 + b)[/u] + [u]x[/u] [u]A + B + (3c + 1)C[/u]/[u]3(1 + c)[/u] The sum of the

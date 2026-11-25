@@ -1,0 +1,61 @@
+Count singularity
+thus:
+
+Ways of going [del]no[/del] [ins]Ways from ordinary locus[/ins]
+Ways from ordinary locus,
+
+Detached point - 1
+Extremity - 1/2
+Ordinary pt 0
+[fig]Three-way junction[/fig] 1/2
+1
+etc
+
+[u]X - K + S = 0[/u]
+
+Count interruptrix as occupying
+ways of going from it = 2(S+1)
+
+[fig]Circle with gap[/fig] [del]2(S+1)[/del]
+2(S_i + 1) + 2(S_j + 1) = 2(S+1)
+2 S_i + 2 S_j + 4 = 2 S + 2
+S_i + S_j + [del]Number points[/del] [ins]2[/ins] in common = S
+
+[fig]Two intersecting circles[/fig]
+S_i = -1 S = 1
+S_j = 0
+
+S_i = -1 S = +1
+S_j = -1/2
+
+S_i = -1/2 -1/2 +1/2 -1/2
+S_j = -1/2 -1/2
+-1 -1 -1/2 -1/2
+
+[fig]Circle[/fig] S_i = +1 S = +1
+S_j = -1
+
+[fig]Figure eight[/fig] S_i = +1 S = +1
+S_j = -1
+
+[fig]Two circles touching[/fig] S_i = +1 S = +1
+S_j = -1
+
+Suppose three lines i, j, k
+S_i [del]= -X_i[/del] K_i = 0 K_j = 0 K_k = 0
+S_i = -X_i S_j = -X_j [del]S_k[/del] [ins]S_k[/ins] = -X_k
+X = 1 K = S + 1
+
+Number points in common
+S_i + S_j + S_k + [del]Number points[/del] [ins]common to two[/ins] + 2 [del]Number[/del] [ins]common to 3[/ins] = S
+
+Suppose all points common to 3
+1 - X_i - X_j - X_k + 2 P = K
+No regions = K + 1
+Regions = 2 P + 2 - No boundaries
+
+[fig]Two intersecting ellipses[/fig]
+S_i = -1 S = +1
+S_j = -1
+S_k = -1
+-3

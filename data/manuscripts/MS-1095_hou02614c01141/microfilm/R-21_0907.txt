@@ -1,0 +1,23 @@
+[fig]Two horizontal segmented bars[/fig]
+
+[fig]A long thin wedge with labels l, ε, A[/fig] [fig]A thin wedge[/fig] [fig]A curved wedge with a horizontal line[/fig]
+
+$$g \int_{l}^{L} k dl \cdot l \cdot \sin \theta \cdot d\theta = \varepsilon$$
+
+$$-g \int_{l}^{L} dl \cdot kl \cdot [del]\sin \theta \cdot d\theta[/del] [ins]\sin \theta[/ins] + [del]\frac{1}{2} \varepsilon d\theta[/del] [ins]\frac{1}{2} \varepsilon (\delta\theta)^{2}[/ins]$$
+
+$$\delta\theta = \frac{g}{\varepsilon} \int_{l}^{L} dl \cdot kl \cdot \sin \theta$$
+
+$$U = - Mgh \cos \theta - \frac{1}{2} \int_{0}^{L} \varepsilon \cdot (\delta\theta)^{2}$$
+
+[fig]A thin wedge[/fig]
+
+[fig]A curved wedge[/fig] [fig]A thin wedge[/fig]
+
+$$\int dl \cdot k \cdot l^{2} D_{t}\theta$$
+
+$$E =$$
+
+[fig]A sector of a circle with labels θ, dl, dx, dθ, dl[/fig]
+
+$$dl = d\theta D_{\theta}l$$

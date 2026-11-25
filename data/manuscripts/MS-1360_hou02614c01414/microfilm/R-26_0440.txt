@@ -1,0 +1,71 @@
+[marginalia]
+[fig]Upside down diagram of a beam with loads[/fig]
+[del]$\Delta^2 u_{i-1} \delta u_{i+1} - u_i \delta u_{i+1}$[/del]
+[del]$- u_{i+2} \delta u_{i+1} - u_i$[/del]
+[/marginalia]
+
+[fig]Arch with arrows[/fig] [fig]Vertical line with a circle[/fig] [fig]Horizontal line with tick marks[/fig]
+[fig]Two angled lines[/fig]
+
+$\frac{1}{2} \varepsilon \int \frac{(dx - dl)^2}{dl} - \int [del]\left(\frac{dx}{dl} - 1\right)^2 dl[/del] - x_1 [del]q[/del] [ins]p[/ins] + x_0 p = 0$
+
+$\left(\frac{dx}{dl} - 1\right) \delta \frac{dx}{dl} - \delta x_1 q + [del]\delta x_0 p[/del]$
+
+$\frac{d^2 x}{dl^2} [del]= 0[/del]$
+
+$\varepsilon \frac{dx}{dl} - q = 0$
+
+$\left(\frac{dx}{dl}\right)_1 = [del]q[/del]$
+
+$\left(\frac{dx}{dl}\right)_0 = p$
+
+[fig]Horizontal lines with a vertical line[/fig]
+
+$\frac{1}{2} \varepsilon \int \left(\frac{d\eta}{dy}\right)^2 dy - \int \eta [del]dy[/del] [ins]dp[/ins] - \eta_1 P = 0$
+
+$- \varepsilon \frac{d^2 \eta}{dy^2} - p = 0$
+
+$\frac{d^2 \eta}{dy^2} = - \frac{p}{\varepsilon}$
+
+$\frac{d\eta}{dy} = C_1 - \frac{p}{\varepsilon} y$
+
+$\eta = C_2 + C_1 y - \frac{p}{2\varepsilon} y^2$
+
+$q = \frac{P + \frac{p}{2}}{\varepsilon}$
+
+$\left(\frac{d\eta}{dy}\right)_1 = \frac{P}{\varepsilon}$
+
+$\frac{d(x-y)}{dy} = \frac{P}{\varepsilon}$
+
+$\frac{P}{2} + \frac{p}{2} y_1 - \frac{p}{2} y$
+
+$\int v \delta u dw$
+
+$v_i (\delta u_{i+1} - \delta u_i) dw$
+$+ v_{i-1} (\delta u_i - \delta u_{i-1}) dw$
+$+ v_{i-2} (\delta u_{i-1} - \delta u_{i-2}) dw$
+
+$= v_{i-1} \delta u_i - (v_{i-1} - v_{i-2}) \delta u_{i-1}$
+$= v_{i-1} \delta u_i - \sum \Delta v_{i-1} \delta u_i$
+
+$v \delta u$
+
+$\delta \frac{1}{2} \varepsilon \int \left(\frac{d\eta}{dy}\right)^2 dy = \varepsilon \frac{d^2 \eta}{dy^2} \int \delta \eta dy + \varepsilon \frac{d\eta}{dy} \eta_1$
+
+$\frac{p}{\varepsilon}$
+
+$= \int_a^b v \delta u$
+
+$\delta \frac{1}{2} \varepsilon \int \left(\frac{dx}{dl} - 1\right)^2 dl - x_1 p + x_0 p = 0$
+
+$\frac{d^2 x}{dl^2} = 0$
+
+$\left(\frac{dx}{dl}\right)_2 - p = 0$
+
+$\left(\frac{dx}{dl}\right)_2 \delta x_2 - \left(\frac{dx}{dl}\right)_1 \delta x_1$
+
+$u_{i+1} v_i - u_i v_{i+1}$
+
+$\Delta (u_i v_i)$
+
+$u_i$

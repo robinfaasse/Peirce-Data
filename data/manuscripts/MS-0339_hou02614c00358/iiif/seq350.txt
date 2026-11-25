@@ -1,0 +1,32 @@
+1901 Jan 13 [right] 185r
+
+The last plan seems by far the more easily intelligible.
+The reason for abandoning the old $\Pi$ and $\Sigma$ is that these are
+not signs of [del]multiplication & summation[/del] [ins]product & sum[/ins] but are mere ana-
+logues of such signs, since the productions & summations
+they pretend to represent cannot be performed.
+Now the distinction is very important in the logic of mathematics.
+They are therefore signs of a radically different nature from any others
+employed. I prefer to replace them by signs of the same nature, mere
+general terms.
+$v_{ij}$ means that [ins]whatever it is[/ins] $j$ is suitably chosen, supposing that $i$ has been
+suitably chosen.
+By “suitably” means favorable to the truth of the proposition [del]for the truth of the proposition[/del]
+$v_{i}$ mean that [del]whatever it is[/ins] $i$ is suitably chosen [del]supposing the proposition[/del]
+[del]that follows is represented by the Boolean.[/del]
+[del]$\bar{v}_{i}$ means that $i$ is not suitably chosen.[/del]
+$v_{i}$ means that [ins]the choice of[/ins] $i$ (whatever it is) does not render the Boolean false [ins]so as to render B. false by choice of i.[/ins]
+$v_{ij}$ means that [del]if[/del] a particular $i$ [ins]that[/ins] having already been chosen, $j$
+(whatever it is) does not render the Boolean false.
+$\bar{v}_{i}$ means that the choice of $i$ does render the Boolean false.
+$\bar{v}_{ij}$ means that [del]the choice[/del] [ins]after choice[/ins] has been made of an $i$, the choice of $j$ renders
+the Boolean false.
+$v_{i} \prec v_{ij}$ for if the Boolean has already been rendered false by
+the choice of $i$, then the [del]subsequent[/del] choice of $j$ cannot render [ins]that[/ins] false which
+is false already.
+[del]$v_{ij} \cdot v_{ik} \prec v_{ik}$[/del] $v_{ij} \cdot v_{jk} \prec v_{ik}$ By the principle of transitiveness.
+$\therefore$ $v_{ij} \cdot v_{jk} \prec v_{ijk}$ and $\bar{v}_{ik} \cdot v_{jk} \prec \bar{v}_{ij}$
+Also $v_{ik} \prec \bar{v}_{ij} \dagger v_{jk}$ and $v_{jk} \prec \bar{v}_{ij} \dagger v_{ik}$ and $v_{ij} \prec \bar{v}_{ik} \dagger \bar{v}_{jk}$
+It is certain that $v_{ij} v_{jk}$ can be changed to $v_{ik}$. It would there-
+fore seem that $v_{ij} v_{jk} \prec v_{ik} \cdot v_{kj}$
+I suspect this indicates some confusion.

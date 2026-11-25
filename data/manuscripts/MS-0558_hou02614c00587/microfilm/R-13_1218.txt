@@ -1,0 +1,28 @@
+We have then in the first
+place and, in general,
+
+$$\Pi_i \Pi_{i'} \ u_i v_{i'} = u_1 u_2 u_3 \dots v_1 v_2 v_3 \dots$$
+$$\Pi_i \ u_i v_i \ \ \ \ \ \ \ = u_1 v_1 \cdot u_2 v_2 \cdot u_3 v_3 \dots$$
+
+and so
+
+$$\Sigma_i \Sigma_{i'} (u_i + v_{i'}) = \Sigma_i (u_i + v_i) \ .$$
+
+In the case of
+
+$$\Sigma_i \Pi_{i'} \ u_i v_{i'} \ \text{we have, as}$$
+$$\underline{\text{a factor}}, \ \ \ \Sigma_i \ u_i v_i$$
+
+[del]In the case of[/del]
+[del]$$\Sigma_i \Pi_{i'} (u_i + v_{i'}) \ \text{we have as}$$[/del]
+[del]$$\underline{\text{a factor}} \ \ \ \ \ \ \ \Pi_i v_i \ \Pi_i (u_i + v_i)$$[/del]
+
+We may therefore write
+
+$$\Sigma_i \Pi_{i'} \ u_i v_{i'} = \Sigma_i u_i v_i \left\{ \Pi_i (\bar{u}_i + \bar{v}_i) + \Pi_i v_i \right\}$$
+
+[del]$$\Sigma_i \Pi_{i'} (u_i + v_{i'})$$[/del]
+
+The negative of this gives
+
+$$\Sigma_i \Pi_{i'} \ (u_i + v_{i'}) = \Pi_i (u_i + v_i) + \Sigma_i (u_i v_i) \Sigma_i \bar{v}_i$$

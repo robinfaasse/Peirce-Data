@@ -1,0 +1,39 @@
+[fig]Venn-like diagram with overlapping ellipses containing variables[/fig]
+
+[fig]Venn-like diagram containing F B [u]C[/u][/fig] [fig]Venn-like diagram containing F D[/fig]
+[fig]Venn-like diagram containing A B [u]C[/u][/fig] [fig]Venn-like diagram containing F B [u]C[/u] D E[/fig]
+[fig]Venn-like diagram containing A X B [u]C[/u][/fig]
+[fig]Venn-like diagram containing F[/fig] [fig]Venn-like diagram containing B X [u]C[/u][/fig] [fig]Venn-like diagram containing X D X E[/fig]
+
+[fig]Venn-like diagram containing B X [u]C[/u][/fig] [fig]Venn-like diagram containing D X E[/fig] [fig]Venn-like diagram containing F[/fig]
+[fig]Venn-like diagram containing A B X [u]C[/u][/fig] [fig]Venn-like diagram containing D X[/fig]
+[fig]Venn-like diagram containing A B [u]C[/u][/fig]
+
+[fig]Venn-like diagram containing X B X [u]C[/u][/fig]
+[fig]Venn-like diagram containing X [del]B X[/del] [ins]C[/ins] (X)[/fig]
+
+[fig]Venn-like diagram containing A D B X C[/fig]
+[fig]Venn-like diagram containing A D B C[/fig]
+
+[fig]Venn-like diagram containing A D X E[/fig]
+
+[fig]Venn-like diagram with handwritten annotation[/fig]
+
+[fig]Venn-like diagram containing small circle q[/fig]
+[fig]Venn-like diagram containing small circle p[/fig]
+
+$$\overline{\text{F}}$$
+$$(\overline{\text{F}} + \text{B} + \overline{\text{C}}) \cdot (\overline{\text{F}} + \overline{\text{D}} + \text{E})$$
+$$\overline{\text{F}} + \text{B} + \overline{\text{D}} + \text{C} + \text{E}$$
+
+$$x$$
+$$(x + a) (x + b) (x + c) (x + d) (x + e) (x + f) \dots$$
+$$(x + a) (x + b) (x + c)$$
+$$(x + a) (x + b)$$
+
+$$1$$
+$$\frac{1}{x} + 2$$
+
+$$(x + a) (x + b) \dots$$
+
+$$\prod_{1}^{n} \Sigma_1^2 \dots$$

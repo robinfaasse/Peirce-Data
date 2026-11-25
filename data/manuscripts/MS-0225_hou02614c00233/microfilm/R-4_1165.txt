@@ -1,0 +1,23 @@
+[u]Given two legs to find an angle.[/u]
+
+[u]1[sup]st[/sup] Method[/u] [u]log tan A = log a - log b[/u]
+[u]2[sup]nd[/sup] Method[/u] [u]log tan (45° ± A) = log (b ± a) - log (b ∓ a)[/u]
+[u]3[sup]rd[/sup] Method[/u] [del]log tan (90° ± 2A) =[/del] [ins]log[/ins] [del]b + a[/del] [ins](b + a)[/ins] + log (b - a) - log a - log b + [del]log 2[/del]
+
+Probable Error.
+
+| [u]A[/u] | [u]B[/u] | [u]Method[/u] | 3 Place logs. | 4 Place logs. | 5 Place logs. |
+|---|---|---|---|---|---|
+| | | | 1[sup]st[/sup] & 2[sup]nd[/sup] Meth. | 3[sup]rd[/sup] Meth. | 1[sup]st[/sup] & 2[sup]nd[/sup] Meth. | 3[sup]rd[/sup] Meth. | 1[sup]st[/sup] & 2[sup]nd[/sup] Meth. | 3[sup]rd[/sup] Meth. |
+| 0 | 45 | | 0.000 | 0.000 | 0.00 | 0.00 | 0.00 | 0.00 |
+| 10 | 35 | | 0.009 | 0.017 | 0.05 | 0.07 | 0.32 | 0.40 |
+| 20 | 25 | | 0.017 | 0.017 | 0.10 | 0.10 | 0.60 | 0.62 |
+| 22½ | 22½ | | 0.018 | 0.018 | 0.11 | 0.11 | 0.66 | 0.63 |
+| 30 | [del]15[/del] | | 0.022 | 0.015 | 0.13 | 0.09 | 0.80 | 0.55 |
+| 40 | [del]5[/del] | | 0.025 | 0.006 | 0.15 | 0.04 | 0.92 | 0.22 |
+| 45 | 0 | | 0.026 | 0.000 | 0.16 | 0.00 | 0.93 | 0.00 |
+
+The first method is a little the most accurate up to A = 20°
+beyond that (to 70°) the third method is the most accurate; but
+it is little more so than the second which is much shorter. But the
+first method is never very inaccurate & is the simplest of all.

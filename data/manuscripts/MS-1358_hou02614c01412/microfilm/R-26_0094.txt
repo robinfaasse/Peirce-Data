@@ -1,0 +1,29 @@
+[u]Meriam's Bridge [date]1899 Jan 29[/date][/u] [pn]5[/pn]
+
+Suppose $\cos \theta = a + bs + cs^2 + \text{etc}$
+$D_s \cos \theta = D_s \theta \cdot \sin \theta$
+$(D_s \theta)^2 (1 - \cos^2 \theta) = (D_s \cos \theta)^2$
+$D_s^2 \cos \theta = - D_s^2 \theta \cdot \sin \theta - (D_s \theta)^2 \cos \theta$
+
+$b + 2cs + 3ds^2 = - D_s \theta \sin \theta$
+$D_s \theta = - \frac{b + 2cs + 3ds^2}{\sin \theta}$
+$(D_s \theta)^2 = \frac{(b + 2cs + 3ds^2 + \text{etc})^2}{1 - \cos^2 \theta} = \frac{(b + 2cs + 3ds^2 + 4es^3 + \text{etc})}{(1 + a + bs + cs^2 + ds^3 + \text{etc})^2}$
+
+[del]$D_s^2 \theta = - \frac{D_s^2 \cos \theta}{\sin \theta} - (D_s \theta)^2 \cot \theta$[/del]
+
+$D_s^2 \theta \cdot \sin \theta = - D_s^2 \cos \theta - (D_s \theta)^2 \cos \theta$
+$(D_s^2 \theta)^2 (1 - \cos^2 \theta) = (D_s^2 \cos \theta)^2 - 2 (D_s^2 \cos \theta) (D_s \theta)^2 \cos \theta + (D_s \theta)^4 \cos^2 \theta$
+
+$D_s \cos \theta = b + 2cs + 3ds^2 + 4es^3 + \text{etc}$
+$D_s^2 \cos \theta = 2c + 6ds + 12es^2 + 20fs^3 + \text{etc}$
+$(D_s^2 \cos \theta)^2 = 4c^2 - 24cds + (48ce + 36d^2)s^2 + (80cf + [del]144de[/del])s^3 + \text{etc}$
+
+[del]$D_s^2 \theta$[/del]
+$(D_s \theta)^2 (1 - \cos^2 \theta) = (b + 2cs + 3ds^2 + 4es^3 + \text{etc})^2$
+$= b^2 + 4bcs + (6bd + 4c^2)s^2 + (8be + 12cd)s^3 + \text{etc}$
+
+$(D_s \theta)^2 \cos \theta (1 - \cos^2 \theta) = ab^2 + (4abc + b^3)s + (6abd + 4ac^2 + [del]7[/del] [ins]5[/ins] b^2c)s^2$
+$+ (8abe + 12acd + [del]10[/del] [ins]6[/ins] b^2d + 8bc^2)s^3 + \text{etc}$
+
+$(D_s^2 \cos \theta) (D_s \theta)^2 \cos \theta (1 - \cos^2 \theta) = 2ab^2c + (6ab^2d + 8abc^2 + 2b^3c)s + (12ab^2e + [del]36[/del] [ins]18[/ins] abcd + 4b^3d + 8ac^3 + 10b^2c^2)s^2$
+$+ [del]\begin{array}{c} 48 \\ 16 \\ 4 \end{array}[/del] [ins]\begin{array}{c} 48 \\ 24 \end{array}[/ins] [del]\begin{array}{c} 20ab^2f \end{array}[/del] + ([del]48[/del] [ins]64[/ins] abce + 12b^3e + 36abd^2 + [del]24acd^2[/del] + [del]80[/del] [ins]40[/ins] bcd + 16bc^3)s^3$

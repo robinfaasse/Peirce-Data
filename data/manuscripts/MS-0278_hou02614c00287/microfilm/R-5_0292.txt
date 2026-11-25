@@ -1,0 +1,22 @@
+[u]Note to the remark bottom p 711 & top p 712.[/u]
+I don't see but the meaning is obvious enough.
+Let $a, b, h$ be the legs and hypothenuse. If then the
+the area is a square $A^2$ we have
+$a^2 + b^2 = h^2$
+$\frac{1}{2} ab = A^2$ whence, $h^2$ and $4A^2$ are two square numbers
+of which the sum and difference are squares. Namely
+$h^2 + 4A^2 = (a+b)^2$
+$h^2 - 4A^2 = (a-b)^2$
+
+Of course, $a, b, h$ [ins]may be taken as[/ins] prime to one another. Hence [del]so is[/del] [ins]$\frac{1}{2} ab$ is[/ins]
+is a square (or even a whole number) either $a$ or $b$ is even. [del]But[/del] [ins]Hence[/ins] $h$ is odd.
+[del]assume $b$ to be even[/del] [ins]to be even[/ins]. Then $a$ and [del]$b$[/del] [ins]$h$[/ins] are squares. Say $a^2$ and $b^2$
+
+Now $b^2 = (h+a)(h-a)$ and $(h+a)$ and $(h-a)$ can have no
+common factor, otherwise $h$ and $a$ would have a common factor. Hence
+$(h+a)$ and $(h-a)$ are squares. Put $h+a = p^2$ $h-a = q^2$. Then
+$\frac{1}{2} ab = \frac{1}{2} (p+q)(p-q) pq$
+Hence since $\frac{1}{2} ab$ is a square and $p$ and $q$ are prime to
+one another, $p$ and $q$ are squares whose sum and difference
+are squares. But $p+q < \frac{1}{2} ab < h^2 + 4A^2$. That is the sum of
+these squares is less than the [del]three[/del]

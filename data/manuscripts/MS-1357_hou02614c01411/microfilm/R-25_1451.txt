@@ -1,0 +1,23 @@
+[u]Line Loads[/u] [pn]36[/pn]
+
+Of the three unknown quantities, [u]C[/u]₂, [u]C[/u]₁, [u]C[/u]₀, two can be determined by the variational equations for [u]n[/u] = -Q-1 and [u]n[/u] = -Q, which are as follows:
+
+Θ₋_Q_+d_s_ - Θ₋_Q_ - ½ [u]Y[/u]_Q_ / [u]B[/u] (d[u]s[/u])² = 0
+
+Θ₋_Q_+2d_s_ - 3Θ₋_Q_+d_s_ + 2Θ₋_Q_ - ½ [u]Y[/u]_Q_ / [u]B[/u] (d[u]s[/u])² + [u]U[/u] / [u]B[/u] (d[u]s[/u])³ = 0
+
+Substituting for the Θs their values by the general formula, we get
+
+- ½ [u]U[/u] / [u]B[/u] [u]n[/u]² d[u]s[/u] - ½ [u]U[/u] / [u]B[/u] [u]n[/u] (d[u]s[/u])² - ⅙ [u]U[/u] / [u]B[/u] (d[u]s[/u])³ - ½ [u]Y[/u]_Q_ / [u]B[/u] (d[u]s[/u])²
+- 2 [u]C[/u]₂ [u]n[/u] d[u]s[/u] + [u]C[/u]₂ (d[u]s[/u])²
++ [u]C[/u]₁ (d[u]s[/u]) = 0
+
++ ½ [u]U[/u] / [u]B[/u] [u]n[/u]² d[u]s[/u] + ⅚ [u]U[/u] / [u]B[/u] [u]n[/u] (d[u]s[/u])² + ⅔ [u]U[/u] / [u]B[/u] (d[u]s[/u])³ - ½ [u]Y[/u]_Q_ / [u]B[/u] (d[u]s[/u])²
++ 2 [u]C[/u]₂ [u]n[/u] d[u]s[/u] + [u]C[/u]₂ (d[u]s[/u])²
+- [u]C[/u]₁ (d[u]s[/u]) = 0
+
+The sum of these gives
+
+[u]C[/u]₂ = [[u]Y[/u]_Q_ - ½ [u]U[/u] d[u]s[/u]] / [u]B[/u]
+
+[u]C[/u]₁ = [½ [u]U[/u] [u]n[/u]² + [u]Y[/u]_Q_ [u]n[/u] + ½ ([u]Y[/u]_Q_ - [u]U[/u] [u]n[/u]) d[u]s[/u] + ⅙ [u]U[/u] (d[u]s[/u])²] / [u]B[/u]

@@ -1,0 +1,31 @@
+When $\mu = 0$ $m = \infty$
+
+$F_{2}r = -\frac{1}{2} \frac{a c}{m} \mathfrak{G}^{ma} \mathfrak{G}^{-mr} r^{-\frac{1}{2}}$ [del]$=$ Infinitesimal if $r \ge a$[/del]
+[ins]Infinite if $r < a$[/ins]
+
+$F'_{2}r = \frac{1}{2} a c \mathfrak{G}^{ma} \mathfrak{G}^{-mr} r^{-\frac{1}{2}}$ $=$ Infinitesimal if $r \ge a$
+[ins]$2 \times$ if $r = a$[/ins]
+Infinite if $r < a$
+
+$\chi = \mathfrak{G}^{int} \sin \theta \cdot \frac{a^{2}c}{r} + \mathfrak{G}^{int} \sin \theta \cdot F'_{2}r$
+
+$R = \mathfrak{G}^{int} \cos \theta \frac{a^{2}c}{r^{2}} + \mathfrak{G}^{int} \cos \theta \cdot \frac{F'_{2}r}{r}$
+
+$\Theta = + \mathfrak{G}^{int} \sin \theta \frac{a^{2}c}{r^{2}} + \mathfrak{G}^{int} \sin \theta \frac{F'_{2}r}{r}$
+
+
+$\mathfrak{G}^{int} \cos \theta \frac{a^{2}c}{r} d\theta - \mathfrak{G}^{int} \sin \theta \frac{a^{2}c}{r^{2}} dr = d\psi$
+
+$\mathfrak{G}^{int} \sin \theta \frac{a^{2}c}{r} d\theta \mp \mathfrak{G}^{int} \sin \theta a^{2}c$
+
+$2 \frac{\sin \theta}{r^{3}} [del]\mp[/del] \frac{\sin \theta}{r^{3}} - \frac{\sin \theta}{r^{3}}$
+
+$dp = \rho D_{t} \left( - \mathfrak{G}^{int} \sin \theta \frac{a^{2}c}{r} d\theta + \mathfrak{G}^{int} \cos \theta \frac{a^{2}c}{r^{2}} dr \right)$
+
+$p = \rho \text{ in } \mathfrak{G}^{int} \cos \theta \frac{a^{2}c}{r}$
+
+[marginalia]
+[pn]67[/pn]
+[/marginalia]
+
+[fig]Cylinder with lines and circle[/fig]

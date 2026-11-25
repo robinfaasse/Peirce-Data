@@ -1,0 +1,50 @@
+Morrison's Bridge [date]1899 Feb 25[/date] Sh. [del]F[/del] [ins]T[/ins]albot
+[date]1899 Feb 26[/date] 2nd Sunday in Lent
+
+Straight part from $-R$ to $-N$
+
+Horizontal coord
+$-R - \xi'_R$
+
+Vertical coord
+$\frac{N}{\mu}(R - \frac{1}{2}N)$
+
+Horizontal coord tomorrow
+
+Part at $-N$
+$-N$
+$\frac{N^2}{2\mu} + a' - b'N - 2c' [del]c[/del] [ins]c'[/ins] (N+1) [del]I[/del]$
+
+Diff
+$R - N + \xi'_R$
+$\frac{N}{\mu}(R-N) - a' + b'N + 2c' [del]c'[/del] [ins]c'[/ins] (N+1) [del]I[/del]$
+
+Diff$^2$
+$(R-N)^2 + 2\frac{\xi'_R}{\xi_R}(R-N) + \xi'_R^2$
+$\frac{N^2}{\mu^2}(R-N)^2$
+[del]$- 2 \frac{a' N}{\mu}$[/del]
+$- 2a' \frac{N}{\mu}(R-N) + 2b' \frac{N^2}{\mu}(R-N)$
+[del]$+ 4(c' + c) \frac{N}{\mu}(R-N)(N+1) I$[/del]
+[del]$+ a'^2 - 2a'b'N$[/del]
+$+ 2c' \frac{N}{\mu}(R-N)(2N+1) I - 2c \frac{N}{\mu}(R-N)(N+1)^2$
+$+ a'^2 - 2a'b'N + b'^2N^2$
+$- 2a'c'(2N+1)I + 2b'c' N(2N+1)I$
+$+ c'^2(2N+1)^2 I^2$
+$+ 2a'c(N+1)^2 - 2b'c N(N+1)^2$
+$- 2cc'(2N+1)(N+1)^2 I + c^2(N+1)^4$
+
+$a - bN + cN^2 = a' + (-c' + c)I^2$
+$- b'N + (2c' + 2c)IN$
+$+ cN^2$
+$= a' - b'N - c'(I + 2N)I + c(I+N)^2$
+
+$\sqrt{a+x} = \sqrt{a} \sqrt{1+\frac{x}{a}} = \sqrt{a} + \frac{1}{2} \frac{x}{\sqrt{a}} - \frac{1}{8} \frac{x^2}{a\sqrt{a}}$
+
+$(a+x)^{\frac{1}{2}}$
+$\frac{1}{2}(a+x)^{-\frac{1}{2}}$
+$-\frac{1}{4}(a+x)^{-\frac{3}{2}}$
+
+length $(R-N)\sqrt{1+\frac{N^2}{\mu^2}} + \xi'_2 \frac{1}{\sqrt{1+\frac{N^2}{\mu^2}}} - a' \frac{N}{\mu} \frac{1}{\sqrt{1+\frac{N^2}{\mu^2}}} + b' \frac{N^2}{\mu} \frac{1}{\sqrt{1+\frac{N^2}{\mu^2}}}$
+$+ c'(2N+1)I \frac{N}{\mu} \frac{1}{\sqrt{1+\frac{N^2}{\mu^2}}}$
+$- c(N+1)^2 \frac{N}{\mu} \frac{1}{\sqrt{1+\frac{N^2}{\mu^2}}}$
+$+ \frac{1}{2} \xi'_R^2 \frac{1}{2(R-N)\sqrt{1+\frac{N^2}{\mu^2}}} + a'^2 \frac{1}{\text{ditto}} \text{etc}$

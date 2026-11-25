@@ -1,0 +1,33 @@
+[pn]Tropic
+III
+173[/pn]
+
+Squaring this by the multiplication table we find
+
+[bracket] [del]([/del] [ins]q[/ins] [sup]2[/sup] + 2 [del]r[/del] [ins]s[/ins] + [del]s[/del] [ins]r[/ins] [sup]2[/sup] + x[sup]2[/sup] + y[sup]2[/sup] + z[sup]2[/sup] [del])[/del] [u]i[/u]
++ ([del]s[/del] [ins]r[/ins] [sup]2[/sup] + 2qr + [del]y[/del] [ins]x[/ins] [sup]2[/sup] + [del]x[/del] [ins]y[/ins] [sup]2[/sup] + z[sup]2[/sup]) [u]j[/u]
++ (r[sup]2[/sup] + 2qs + y[sup]2[/sup] + z[sup]2[/sup] + x[sup]2[/sup]) [u]k[/u] [/bracket]
++ [bracket] 2qx + (r + s) (y + z) [/bracket] [u]l[/u]
++ [bracket] 2qy + (r + s) (x + z) [/bracket] [u]m[/u]
++ [bracket] 2qz + (r + s) (x + y) [/bracket] [u]n[/u] = 0
+
+Of course, each [del]one[/del] polynomial coefficient of [u]i[/u], [u]j[/u], [u]k[/u], [u]l[/u], [u]m[/u], [u]n[/u]
+must vanish in order to make the whole vanish. Adding the
+coefficients of [u]l[/u], [u]m[/u], [u]n[/u] and equating the sum to zero, we have
+
+2(q + r + s) (x + y + z) = 0
+
+Hence either q + r + s = 0 or else x + y + z = 0. But
+adding the coefficients of [u]i[/u], [u]j[/u], [u]k[/u] and equating to
+zero, we get
+
+(q + r + s)[sup]2[/sup] + (x + y + z)[sup]2[/sup] = 0
+
+Consequently,
+
+q + r + s = (x + y + z) [radical] -1 [/radical]
+
+and whichever is equal to zero, the other must equally
+be so. Now taking the coefficients of [u]l[/u], [u]m[/u], [u]n[/u] se-
+parately, [del]and writing the equations[/del]
+[del]and substituting[/del] [del][fig]scratch[/fig][/del]

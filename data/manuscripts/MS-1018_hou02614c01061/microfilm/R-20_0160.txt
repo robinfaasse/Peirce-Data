@@ -1,0 +1,48 @@
+[del]A[/del] [ins]i[/ins]: B + B: c + C: D + D: [del]E[/del] [ins]i[/ins]
+[del]A[/del] [ins]i[/ins]: B + B: c + C: D + D: E = i
+E: i = j
+i² = i: c + B: D + C: E
+i³ = i: D + B: E
+i⁴ = i: E
+i⁵ = A: i
+i⁴j = i: B
+i³j² = i: c
+i²j³ = i: D
+ij⁴ = i: E
+
+j = D: d
+i²j = c: d
+i³j = B: d
+
+1 = i⁴j + 2j³i + 2j²i² + j⁴
+
+i⁴ = A: E
+i³j = B: B
+i²j² = C: C
+
+i⁵ = 0
+i⁴j = A: i
+i³j² = B: B
+i²j³ = C: C
+ij⁴ = D: D
+j⁵ = E: E
+
+1 = 2i²j + i³j² + 2j³i + 2j²i² + j⁴
+
+i⁵ = 0
+i⁴ = A: E
+i³j = B: A
+i²j² = C: B
+ij³ = D: d
+j⁵ = E: D
+
+[del]i⁴[/del] [ins]i⁴j[/ins] = A: B
+i³j² = B: c
+i²j³ = C: D
+ij⁴ = D: E
+j = E: A
+
+i⁴j² = A: C
+i³j³ = B: D
+i²j⁴ = C: E
+ij⁵ = D: A

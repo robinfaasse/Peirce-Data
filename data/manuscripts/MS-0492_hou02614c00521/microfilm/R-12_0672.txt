@@ -1,0 +1,13 @@
+[fig]Scribble[/fig]
+[del]a[/del] < b
+[del]b[/del] < [fig]Scribble[/fig]
+[del]a[/del] < b
+[del]b[/del] < a
+[del]ac[/del] < [del]bd[/del]
+[u]bd < ac[/u]
+
+[u]b[/u] + [u]d[/u]
+ac
+
+[u]b[/u] + [u]d[/u]
+ac

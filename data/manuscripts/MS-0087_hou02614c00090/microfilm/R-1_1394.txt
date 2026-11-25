@@ -1,0 +1,17 @@
+[pn]21[/pn]
+
+Hence $K_1 = -X_1$.
+
+The junction of two ordinary points of a line figure by a simple line may diminish the number of parts [ins]by one[/ins]; if it does not do so, it will increase the number of enclosures by one. Let us suppose that in the former case, it increases the chorisy by $-x$, [ins]and in the latter case increases the cyclosy by $y$.[/ins] Then its effect on the census-value, calculated by parts is to add to it
+$$X_1 + 2U_1^{-1} - 2X_0$$
+While calculated from the whole the same addition is, in one case,
+$$-x X_1 + 2U_1^1$$
+Equating, we have $x X_0 = X_1$ or $x = 1$.
+
+In the other case, the effect on the whole is
+$$y K_1 + 2U_1^1$$
+and since $K_1 = -X_1$, this also gives $y = 1$. Hence the cyclosis is the number of smallest circuits.
+
+[del]It may be remarked that the sum of the orders of singularity of any line figure equals twice the excess of the cyclosis over the chorisy[/del]
+
+There is nothing whatever to determine the value of $X_1$, from which those of $K_1$, and $U_1^n$ will follow; nor is it necessary for calculating the census-value of the line figure. We may make it zero, when $K_1 = 0$, and $U_1^1 = \frac{1}{2}$, and $U_1^n = -\frac{n}{2}$, so that the [del]val[/del] census value of the figure will be minus half the sum of the orders of the singularities. Or we may make $X_1 = 1$, when $U_1^n = 0$ and $K_1 = -1$ and the census-value will be [del]equal to[/del] the excess of the chorisy over the cyclosis. It follows that this is equal to minus half the sum of the orders of the singularities.

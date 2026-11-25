@@ -1,0 +1,27 @@
+```
+\sqrt{[q+m-p][q-m+p][s+m+r][s+m-r]} + \sqrt{[p+m+q][p+m-q][r+s+m][r-s+m]}
+
+= m \sqrt{[n+s-p][n-s+p]}
+
+[q+m-p][q-m+p][s+m+r][s+m-r]
++ [p+m+q][p+m-q][r+s+m][r-s+m] + 2 \sqrt{ }
+
+= [m]^2 [n+s-p][n-s+p]
+
+[del]A[/del] (x-y-z)^2 = x^2 - 2xy - 2xz + 2yz + y^2 + z^2
+
+[m]^4 [n+s-p]^2 [n-s+p]^2 + [q+m-p]^2 [q-m+p]^2 [s+m+r]^2 [s+m-r]^2
++ [p+m+q]^2 [p+m-q]^2 [r+s+m]^2 [r-s+m]^2
+- 2 [m]^2 [n+s-p][n-s+p][q+m-p][q-m+p][s+m+r][s+m-r]
+- 2 [m]^2 [n+s-p][n-s+p][p+m+q][p+m-q][r+s+m][r-s+m]
+= [del]2[/del] [del][p+m+q][p+m-q][q+m-p][q-m+p][r+s+m][s+m-r][r+s-m][r-s-m][/del]
+
+[del]W[/del]
+
+[m]^4 ([n]^2 - [s-p]^2)^2 + ([q]^2 - [m-p]^2)^2 ([s+m]^2 - [r]^2)^2
++ ([p+m]^2 - [q]^2)^2 ([r]^2 - [s-m]^2)^2
+
+= 2 ([p+m]^2 - [q]^2) ([q]^2 - [m-p]^2) ([s+m]^2 - [r]^2) ([r]^2 - [s-m]^2)
++ 2 [m]^2 ([n]^2 - [s-p]^2) ([q]^2 - [m-p]^2) ([s+m]^2 - [r]^2)
++ 2 [m]^2 ([n]^2 - [s-p]^2) ([m+p]^2 - [q]^2) ([r]^2 + [s-m]^2)
+```

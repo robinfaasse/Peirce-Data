@@ -1,0 +1,21 @@
+So far the following appear [del]needed[/del] [ins]needed[/ins]
+
+[del]If [u]a+x+c[/u] and [u]b+c[/u] then [u]a+b+c[/u][/del]
+[del][u]a+a[/u][/del]
+
+(1) [u]a+a[/u]
+(2) [u]a+b+c+0+0[/u] then [u]a+b+c[/u]
+(3) If [u]a+b+c[/u] then [u]b+c[/u]
+(4) If [u]a+b+c[/u] then [u]a+0+c[/u]
+(5) If [u]a+c[/u] [u]b+c[/u] then [u]a+0+b+c[/u] Dilemma
+(6) If [u]a+b+a[/u] then a
+
+[u]a+d+b+c[/u]
+[u](a+d)+b+c[/u]
+
+But how get this?
+If p and q then [del][u]p+q+0+0[/u][/del]
+If p then [u]p+x+x[/u]
+If q then [u]q+x+x[/u]
+Then by (5) [u]p+x+0+q+x+x[/u]
+By (6) if x=0 [u]p+x+0[/u] = p

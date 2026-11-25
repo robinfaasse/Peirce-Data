@@ -1,0 +1,13 @@
+[u]The Skew Mercator.[/u]
+
+§1. We may conveniently indicate the position of a point on a plane by writing
+$$z = y + xi = r e^{\theta i}$$
+For, then, if
+$$z' = y' + x'i = r' e^{\theta' i} = Fz = F(y+xi) = F(r e^{\theta i})$$
+we shall transform in that way from one projection preserving the angles (or conform projection) to another. This is shown in every work on the theory of functions.
+
+§2.
+
+[fig]Asterisk-like symbol[/fig] [fig]Cross symbol[/fig]
+$$\frac{\partial Y}{\partial x} = \frac{\partial Y}{\partial y}$$
+$$\frac{\partial Y}{\partial x} = - \frac{\partial X}{\partial y}$$

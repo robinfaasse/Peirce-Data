@@ -1,0 +1,26 @@
+to the catenary. For an arithmetical process [del]of[/del] [ins]for[/ins] finding the root of an
+equation of smallest modulus, see Note A.
+
+If, instead of [u]y[/u][sub]i[/sub] / [u]x[/u][sub]i[/sub] being known, it is known that for a certain
+value k of [u]i[/u], [del]$\Delta$[/del] [ins]$\Delta$[/ins] [u]y[/u][sub]k[/sub] = 0, the equation to determine C is
+
+(9) [u]C[/u] = $\frac{a}{\sum_{i}^{k} \{ l_{i} ( \frac{1}{\mathcal{E}} - \frac{1}{\sqrt{\mathcal{C}^{2} + (\sum_{1}^{i} P_{i})^{2}}} ) \}}$
+
+When C has once been determined equations (5) and (7) will [del]read[/del] [ins]at once[/ins]
+give every [u]x[/u][sub]i[/sub] and [u]y[/u][sub]i[/sub].
+
+If the links are infinitesimal, so that the [ins]funicular[/ins] polygon becomes a
+[ins]catenary[/ins] curve, there will be no loss of generality in taking P[sub]i[/sub] at the constant
+value [del]$\frac{dp}{dx}$[/del], [del]the values of[/del] while $\Delta$ [u]x[/u][sub]i[/sub] is variable. If, then, we write
+(10) tan $\tau$ = $\frac{d \underline{y}}{d \underline{x}}$,
+equation (4) takes the form
+(11) $\mathcal{E} ( \frac{d \underline{x}}{d \underline{l}} - \cos \tau ) = \mathcal{C}$,
+while equation (5) takes the form
+(12) tan $\tau$ = tan $\tau_{0}$ - $\frac{p}{\mathcal{C}}$.
+Equation (6) becomes
+(13) [u]b[/u] = [u]a[/u] tan $\tau_{0}$ - $\frac{1}{\mathcal{C}} \int_{0}^{a} \underline{p} d \underline{x}$.
+Equation (7) becomes
+(14) [u]x[/u] = $\int ( \frac{\mathcal{C}}{\mathcal{E}} - \frac{1}{\sqrt{1 + (\tan \tau_{0} - \frac{p}{\mathcal{C}})^{2}}} ) \cdot d \underline{l}$
+Equation (9) becomes
+(15) [u]C[/u] = $\frac{a}{\int_{0}^{L} ( \frac{1}{\mathcal{E}} - \frac{1}{\sqrt{\mathcal{C}^{2} + (P_{k} - P_{i})^{2}}} ) d \underline{l}}$
+where L is the total length of the cord.

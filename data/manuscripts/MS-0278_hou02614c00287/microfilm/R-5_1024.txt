@@ -1,0 +1,18 @@
+[fig]Geometric diagram with intersecting lines[/fig]
+
+2.375
+
+[del]0.3756[/del]
+[del]9.6567[/del]
+[del]0.0323[/del]
+
+1.077
+
+[u]A:A [del]± i[/del] B:B + [ins]1/2[/ins](m ± i)(A:B)[/u]
+A:A [del]±[/del] B:B + 1/2(m ± i)(A:A)
++ 1/2([del]m ± i[/del])B:B
+
+[u](A:A) + x(B:B) + y(A:B)[/u]
+(A:A) + x²(B:B) + [del](y + xy)[/del](A:B)
+(A:A) + x⁴(B:B) + (y + xy + x²y + x³y)(A:B)
+(x³ + x² + x + 1)y

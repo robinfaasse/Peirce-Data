@@ -1,0 +1,24 @@
+1. In the formulas for [u]sin 2x[/u] [del]and cos 2x[/del], put [u]x[/u] = 45°, and
+we get
+1 = 2 sin 45°. cos 45°.
+[del]so cos² 45° - sin² 45°[/del]
+But cos 45° = sin (90° - 45°) = sin 45°
+Hence sin² 45° = ½.
+But the definition of a sine shows that the sine of 45° is positive.
+Hence sin 45° = [frac]1/[sqrt]2[/frac].
+The repeated application of the theorem gives
+sin ([u]x[/u]+[u]y[/u]+[u]z[/u]) = [del]sin [u]x[/u] . cos ([u]y[/u]+[u]z[/u]) + cos [u]x[/u] . sin ([u]y[/u]+[u]z[/u])[/del] [ins]sin([u]x[/u]+[u]y[/u]).cos [u]z[/u] + cos([u]x[/u]+[u]y[/u]).sin [u]z[/u][/ins]
+= sin [u]x[/u] . cos [u]y[/u] . cos [u]z[/u] + cos [u]x[/u] . sin [u]y[/u] . cos [u]z[/u]
++ cos [u]x[/u] . cos [u]y[/u] . sin [u]z[/u] - sin [u]x[/u] . sin [u]y[/u] . sin [u]z[/u].
+So likewise
+cos ([u]x[/u]+[u]y[/u]+[u]z[/u]) = cos ([u]x[/u]+[u]y[/u]) cos [u]z[/u] - sin ([u]x[/u]+[u]y[/u]) . sin [u]z[/u]
+= cos [u]x[/u] . cos [u]y[/u] . cos [u]z[/u] - sin [u]x[/u] . sin [u]y[/u] . cos [u]z[/u]
+- sin [u]x[/u] . cos [u]y[/u] . sin [u]z[/u] - cos [u]x[/u] . sin [u]y[/u] . sin [u]z[/u].
+Putting [u]x[/u] = [u]y[/u] = [u]z[/u] = 30°
+1 = [del]sin[/del] 3 sin 30° . cos² 30° - sin³ 30°
+= 3 sin 30° - 4 sin³ 30°.
+0 = cos³ 30° - 3 sin² 30° . cos 30° = 4 cos³ 30° - 3 [del]cos[/del] 30°.
+Since cos 30° [del]is[/del] [ins]and sin 30° are[/ins] plainly (by the definition) [del]not zero[/del] [ins]positive[/ins], the last
+equation gives cos² 30° = ¾
+cos 30° = [frac][sqrt]3[/frac]/2 ;
+and the other equation gives [frac]1/sin 30°[/frac] = 3 - 4 ¼ = 2, or sin 30° = ½.

@@ -1,0 +1,33 @@
+[del]Hence $(I + P') + N = I + [(P + 1) + N]$. But by corollary
+$I + 1 = P'$. Hence $(I + P') + N = I + (P' + N)$. Thus the
+proposition if true when $M$ has any particular value is
+true when it has the next larger value. But we have in the
+first part proved that it is true for $M = 1$. Hence it is true
+for $M$ higher than $1$. This is obviously true for $M = 0$ since
+then $(I + 0) + N = I + N = I + (0 + N)$. Hence it is
+true no matter what the values of $I, M,$ and $N$. Q.E.D.[/del]
+
+[del]Art. 35[/del]
+[ins]Theorem 15[/ins]. There is, at most, but one [ins]whole[/ins] number which
+added [del]to[/del] [ins]to[/ins] a given number will [del]give[/del] [ins]form[/ins] a given sum.
+
+<u>Demonstration</u>. If $A, B, C,$ and $D$, are whole numbers,
+and $A + C = D$ and $B + C = D$, then I say $A = B$. For, if not,
+suppose $B$ is the greater. Now, if any number, $M$, added to $C$,
+gives a number greater than $D$, so does also the next higher
+number $M'$. For $M' + C$ is the number next greater than $M + C$,
+which [ins]itself[/ins] is greater than $D$. [ins]Hence by Axiom 5 and Definition 38, $M' + C$ is greater than $D$.[/ins] But the number next greater than [ins]by theorem 11 and[/ins]
+$A$, [del]written[/del] [ins]added[/ins] to $C$, produces, [del]by Axiom 6,[/del] a sum greater than $D$. Hence [del]every[/del]
+number greater than $A$ does so. Hence, $B + C > D$, contrary
+to the hypothesis, which is, therefore, absurd. [ins]This, therefore, absurd to suppose this theorem false.[/ins]
+
+[del]Problematic proposition[/del] [ins]Theorem[/ins]. Given two whole numbers, it is [del]always[/del] possible to
+find a whole number which, added to the less, will give the
+greater.
+
+<u>Demonstration</u>. Let $X$ and $Z$ be any two whole numbers, of
+which $Z$ is at least as great as $X$. [del]If, then, it be possible to find a number
+$Y$ which will make $X + Y = Z$, then that it will be possible to find a number $Y'$ which
+will make $X + Y' = Z'$ where $Z'$ is the number next greater than $Z$. Namely $Y' = 1 + Y$.
+But if $Z = X$ it is possible to find $Y$ such that $X + Y = Z$. Namely $Y = 0$. Hence, it is possible
+when $Z$ is any number at least as great as $X$.[/del]

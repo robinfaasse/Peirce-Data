@@ -1,0 +1,22 @@
+[u]Logic[/u]
+III
+59
+
+(78) If [u]x[/u] and ([u]x[/u] < [u]y[/u]) and ([u]y[/u] < [u]z[/u]) are true, [u]z[/u] is true.
+For, by (77), if [u]x[/u] and ([u]x[/u] < [u]y[/u]) are true, [u]y[/u] is true; and if [u]y[/u] and ([u]y[/u] < [u]z[/u]) are true, [u]z[/u] is true. Hence, (78).
+
+(79) If ([u]x[/u] < [u]y[/u]) and ([u]y[/u] < [u]z[/u]) are true, ([u]x[/u] < [u]z[/u]) is true.
+For, by (78), if ([u]x[/u] < [u]y[/u]) and ([u]y[/u] < [u]z[/u]) are true, then if [u]x[/u] is true, [u]z[/u] is true; when, by (64), ([u]x[/u] < [u]z[/u]) is true. Whence, (79).
+This is the principle of [del]Barbara[/del] [ins]Barbara[/ins].
+
+(80) If [u]x[/u] < [u]y[/u] is true, then ([u]y[/u] < [u]z[/u]) < ([u]x[/u] < [u]z[/u]) is true.
+For, by (79), if ([u]x[/u] < [u]y[/u]) is true, then if ([u]y[/u] < [u]z[/u]) is true ([u]x[/u] < [u]z[/u]) is true; when by (64), ([u]y[/u] < [u]z[/u]) < ([u]x[/u] < [u]z[/u]) is true. [ured]This is the Rule of Contraposition.[/ured]
+
+(81) If ([u]x[/u] < [u]y[/u]) < [u]z[/u] is true, [u]y[/u] < [u]z[/u] is true
+This follows from (66) by contraposition.
+
+(82) [del]If[/del] [ins][(y < x < z) < t] < (x < y < z) < t.[/ins]
+This follows by (71) by contraposition.
+
+(83) If (y < x < z) < t is true, (x < y < z) < t
+This follows from (82) by (65). This supplements the rule of transposition, showing that antecedents whatever they are antecedents of are transponible.

@@ -1,0 +1,41 @@
+Let there be four rays, $(a)$, $(b)$, $(c)$, $(d)$ of [del]which[/del] no two
+are in one plane. How many rays cut them all?
+
+Principle 1. [del]Through[/del] Any ray and any point lie in one plane
+Principle 2. Any ray and any plane have one point in common
+
+Take any point $[X]$ in space. Then [ins]by Principle 1[/ins] there is a plane [del]$\{aX\}$[/del] $\{Xa\}$
+containing the whole of $(a)$ and also $[X]$
+
+By principle 2, the ray $(b)$ and the plane [del]$\{aX\}$[/del] $\{Xa\}$ have
+a point [del]$[Xa/b]$[/del] in common, Call this point $[B_x]$
+and the ray $(c)$ and the plane $\{Xa\}$ have a point [del]$[Xa/c]$[/del]
+in common. Call this point $[C_x]$
+
+[del]Principle 3. Any two points lie one ray, and if those points lie on
+a given plane[/del]
+[del]Principle 4. Any two planes [del]contain[/del] have one ray in common,[/del]
+
+By principle 3, the two points $[B_x]$ and $[C_x]$ [ins]both[/ins] lie on a ray $(B_x C_x)$
+which call $(r)$.
+
+[del]Principle 5. If two points of a ray lie on a given plane, the[/del]
+Principle 3. If a plane contains [ins]each of[/ins] two points, it contains an entire
+ray through those points.
+
+Principle 4. If a point is contained by each of two planes, it
+lies in a ray entirely contained in each of those planes,
+
+By principle 3, since the points $[B_x]$ and $[C_x]$ both lie in the
+plane $\{Xa\}$ they both lie in a ray $(B_x C_x)$ which we will call $(r)$,
+and this lies wholly in the plane $\{Xa\}$
+
+[del]Principle 5. If[/del] [ins]two rays lie in one plane they have a
+common point. (For if a ray lies in a plane, every point of it lies in that plane Hence by
+Principle[/ins]
+
+Principle 6. If two rays have a common point they lie in
+a common plane.
+
+The ray $(r)$ and the ray $(a)$ both lie in the plane $\{Xa\}$. Hence
+by Principle 5 they have a common point

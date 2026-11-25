@@ -1,0 +1,25 @@
+$$\text{\textcircled{A}} = (Abc) - \frac{1}{4} A^2 x^2$$
+
+$$\text{\textcircled{A}}^2 = (Abc)^2 - \frac{1}{2} (Abc) A^2 x^2 + \frac{1}{16} A^4 x^4$$
+
+$$\text{\textcircled{A}}^3 = (Abc)^3 - \frac{3}{4} (Abc)^2 A^2 x^2 + \frac{3}{16} (Abc) A^4 x^4 - \frac{1}{64} A^6 x^6$$
+
+$$\text{\textcircled{A}}^4 = (Abc)^4 - (Abc)^3 A^2 x^2 + \frac{3}{8} (Abc)^2 A^4 x^4 - \frac{1}{16} (Abc) A^6 x^6 + \frac{1}{256} A^8 x^8$$
+
+$$\text{\textcircled{A}} \text{\textcircled{B}} = (Abc)(aBc) - \frac{1}{4} \left[ (Abc)^2 B^2 + (aBc)^2 A^2 \right] x^2 + \frac{1}{16} A^2 B^2 x^4$$
+
+$$\text{\textcircled{A}}^2 \text{\textcircled{B}} = (Abc)^2 (aBc) - \frac{1}{4} \left[ (Abc)^2 B^2 + 2 (Abc)(aBc) A^2 \right] x^2 + \frac{1}{16} \left[ (Abc)^2 A B^2 + (aBc)^2 A^4 \right] x^4$$
+$$- \frac{1}{64} A^4 B^2 x^6$$
+
+$$\text{\textcircled{A}}^3 \text{\textcircled{B}} = (Abc)^3 (aBc) - \frac{1}{4} \left[ (Abc)^3 B^2 + 3 (Abc)^2 (aBc) A^2 \right] x^2 + \frac{1}{16} \left[ 3 (Abc)^2 A^2 B^2 + 3 (Abc)(aBc) A^4 \right] x^4$$
+$$- \frac{1}{64} \left[ 3 (Abc)^2 A^4 B^2 + (aBc)^2 A^6 \right] x^6 + \frac{1}{256} A^6 B^2 x^8$$
+
+$$\text{\textcircled{A}} \text{\textcircled{B}} \text{\textcircled{C}} = (Abc)(aBc)(abC) [del]- \frac{1}{4} \left[ \frac{(Abc)^2 B^2 + 2 (Abc)(aBc) A^2}{16} \right] x^2 + \frac{1}{16} \left[ (Abc)^2 A B^2 \right][/del]$$
+$$- \frac{1}{4} \left[ (Abc)^2 (abC)^2 B^2 + (aBc)^2 (abC)^2 A^2 + (Abc)^2 (aBc)^2 C^2 \right] x^2$$
+$$+ \frac{1}{16} \left[ (abC)^2 A^2 B^2 + (Abc)^2 B^2 C^2 + (aBc)^2 A^2 C^2 \right] x^4 - \frac{1}{64} A^2 B^2 C^2 x^6$$
+
+$$\text{\textcircled{A}}^2 \text{\textcircled{B}} \text{\textcircled{C}} = (Abc)^2 (aBc)(abC) - \frac{1}{4} \left[ (Abc)^2 (abC)^2 B^2 + 2 (Abc)(aBc)(abC)^2 A^2 + (Abc)^2 (aBc)^2 C^2 \right] x^2$$
+$$+ \frac{1}{16} \left[ 2 (Abc)(abC)^2 A^2 B^2 + (Abc)^2 B^2 C^2 + 2 (Abc)(aBc)^2 A^2 C^2 + (Abc)^2 (aBc)(abC) A^4 \right] x^4$$
+$$- \frac{1}{64} \left[ 2 (Abc)^2 A^2 B^2 C^2 + (abC)^2 A^4 B^2 + (aBc)^2 A^4 C^2 \right] x^6 + \frac{1}{256} A^4 B^2 C^2 x^8$$
+
+$$\text{\textcircled{A}} \text{\textcircled{B}}^2 =$$

@@ -1,0 +1,21 @@
+[del]To find the point at which E vanishes, the[/del]
+[del]y = \frac{a^2x^2 + x^4}{a^2 - cx^2}[/del]
+
+$$M = \sqrt{\frac{a^2x^2 + x^4}{a^2 - cx^2}} = x \cdot \sqrt{\frac{a^2 + x^2}{a^2 - cx^2}}$$
+
+[del]y + x \cdot y' = \frac{a^2 - cx^2}{a^2 + x^2}[/del]
+
+$$\sqrt{\frac{a^2 + x^2}{a^2 - cx^2}} + \frac{1}{2} x \cdot \sqrt{\frac{a^2 - cx^2}{a^2 + x^2}} \cdot \frac{2x(a^2 - cx^2) + 2cx(a^2 + x^2)}{(a^2 - cx^2)^2}$$
+
+$$\sqrt{\frac{a^2 + x^2}{a^2 - cx^2}} + a^2x^2 \cdot \frac{1 + c}{(a^2 - cx^2)^2} \sqrt{\frac{a^2 - cx^2}{a^2 + x^2}}$$
+
+equal to $\frac{y + p}{x}$ we get the equation to determine the
+contact of tangents from the point $x = 0$, $y = -p$ !!
+
+$$[del]x[/del] + a^2x^2 \frac{1 + c}{(a^2 - cx^2)^2} \sqrt{\frac{a^2 - cx^2}{a^2 + x^2}} = \sqrt{\frac{a^2 + x^2}{a^2 - cx^2}} + \frac{p}{x}$$
+
+[del]by[/del] the first terms and squaring
+
+$$\frac{x^4 (1 + c)^2}{(a^2 - cx^2)^4} \cdot \frac{a^2 - cx^2}{a^2 + x^2} = \frac{p^2}{x^2}$$
+
+$$\frac{x^4 (1 + c)^2}{(a^2 - cx^2)^3 (a^2 + x^2)} = \frac{p^2}{x^2}$$

@@ -1,0 +1,31 @@
+$$
+\begin{array}{c}
+(l+s)_w = lw + sw \\
+l(w+m) = lw + lm \\
+(l,s)_w = (lw),(sw) \quad \text{wrong.} \\
+l(n,w) = (ln),(lw) \quad \text{wrong.} \\
+l^{m+w} = l^m \cdot l^w \\
+(l+s)^w = \sum_i (l^{w_i}, s^{w_{\bar{i}}}) \\
+(l,s)^w = \prod_i (l^{w_i} + s^{w_{\bar{i}}}) \quad \text{Wrong} \\
+l^{n,w} = l^n, l^w \quad \text{Wrong} \\
+l^{(m+w)} = \sum_i ([del]l^{m_i}, l^{w_{\bar{i}}}[/del]) \\
+(l,s)_w = l_w, s_w \quad \text{Wrong}
+\end{array}
+$$
+
+[fig]Line connecting (l,s)_w = (lw),(sw) to l(n,w) = (ln),(lw)[/fig]
+[fig]Line connecting l(n,w) = (ln),(lw) to l(n,w) = \prod_i (l_i^n + l_{\bar{i}}^w)[/fig]
+[fig]Line connecting (l+s)^w = \sum_i (l^{w_i}, s^{w_{\bar{i}}}) to l(n,w) = \prod_i (l_i^n + l_{\bar{i}}^w)[/fig]
+
+$$
+\begin{array}{c}
+(l+s)_w = [del]l_w + s_w[/del] \quad [del]\text{what he has}[/del] \\
+[del]\text{first written was}[/del] \\
+[del]\text{apparently right}[/del] \\
+l(n,w) = \prod_i (l_i^n + l_{\bar{i}}^w)
+\end{array}
+$$
+
+[u]Omit[/u] State the formal syllogistic difference between Deduction Induction & Hypothesis. Explain how the last two reach conclusions which the first cannot reach. Explain the difference between Induction & Hypothesis. $10^h 35^m$
+
+In deduction we reason from generals to particulars, in Induction & Hypothesis from particulars to generals. Deduction reasons only about what is contained in the premises; induction & hypothesis go beyond the premises.

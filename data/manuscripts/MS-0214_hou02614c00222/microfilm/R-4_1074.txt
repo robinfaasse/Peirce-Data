@@ -1,0 +1,11 @@
+[marginalia]
+HUG 1680.4021
+Math 1A - bx 5
+[/marginalia]
+
+[pn]ms. 214[/pn]
+
+[u]NOTE ON $0^0$.[/u]
+
+Mr. Franklin has already pointed out that $0^0$ is not indeterminate, except in special cases. But the matter may be considered from a somewhat different point of view from his. We know that unless $x$ is of an infinite order, $\log x$ is of the zero order: hence, if $x=0$ and $y=0$, we have $\log x^y = y \log x = 0$ unless either $x$ be of an infinite order or $y$ be of a zero order. In the former case, the form is not properly $0^0$, for $x^y = [del]0^{\infty}[/del] [ins]$0^{\infty}$[/ins] $=0^n$, the value of which depends upon the relation of the order of $y$ to the order of the order of $x$. In the latter case, where $y$ is of a zero order, the form is again not properly $0^0$, but is $x^y = 0^0$. Properly speaking, then, $0^0 = 1$, $0^{0^0} = 0$, $0^{0^{0^0}} = 1$, etc. From this point of view, it appears that the only quantity that is truly of the zero order, is unity. But what shall we say to such quantities as $\log 0$, which are undoubtedly of a zero order without being unity? The answer to this paradox will be found in asking what is the order of the order of $\log 0$? Put $\log i = i^j$. Then, $\log \log i = j \log i$. We see that since $\log i$ is of the zero order, the order of $j$ (i.e. the order of the order of $i$) is the same as the order of $\log \log i$. Now, $\log \log i$, being of a $0$ order, $\log \log i$ is of a $0 \times 0$ order. Hence, $\log i$ is of the $0$ order, and the order of that $0$ is itself $0$, and the order of the last $0$ is again $0$, and so on ad infinitum. Thus,
+$\log 0 = 0^{0^{0^{ad\ inf.}}}$

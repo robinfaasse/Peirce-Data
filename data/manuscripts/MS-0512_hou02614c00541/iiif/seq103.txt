@@ -1,0 +1,29 @@
+FL [ins]monadic[/ins] 92
+In [del]non relative[/del] [ins]monadic[/ins] logic we have a mere universe of things which we can
+represent by dots, which we can enclose in bounds to represent predicates.
+In dyadic logic, we have a universe of pairs which we can represent
+by [del]lines[/del] [ins]arrows[/ins] between the dots. In triadic logic, we deal with distributions
+each of which requires a diagram of the universe of dots to represent it.
+A distribution is a state of things, and we deal with the universe of logi-
+cally possible states of things.
+
+It seems to be pretty clear that if there be any satisfactory Algebra
+of triadic Logic it must depend on the use of exponents to denote
+the logically possible distributions of all the members of one collection
+among members of another. But I have never succeeded in per-
+fecting it.
+
+[u]XIV[/u].
+
+In order to cut the Gordian Knot, I introduced the use of Greek
+letters as indices, they each of them denoting one of the logically pos-
+sible sets of things. I call them characters, adopting De Morgan's
+dictum that every set of things has some common and peculiar
+character. The effect of this is to remove the difficulty from
+the algebra and leave it to be considered in itself. For example,
+I then easily write $m^d \prec (\Pi a)$ as follows:
+$\Pi_\alpha \Sigma_1 \Sigma_2 \Sigma_3 \Sigma_4 \Sigma_5 \Sigma_6 \Pi_\eta \Pi_8 \Pi_9 \Sigma_0$
+$r_{\alpha12} \cdot r_{\alpha13} \cdot r_{23} + r_{\alpha45} \cdot m_5 + r_{\alpha6\eta} \cdot d_6 + m_\eta + r_{\alpha 89} + a_0 \cdot \Pi_{\alpha 89}$
+But this leaves $\prec$ subject to rules which I cannot fully express
+in algebraical form. For example, the maxim of De Morgan.
+This, however, does throw this much light upon the matter, that we

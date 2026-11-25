@@ -1,0 +1,23 @@
+proposition "if $x$ is false, $t-x$ is false,"
+proposition P. By Rule 2, either $t-x$ or
+$x-y$. Hence, by P, if $x$ is false, $x-y$;
+which is proposition A. The deduction
+of B and C is left to the student.
+
+Taking any two numbers arbitrarily
+for $f$ and $t$, every proposition, $x$, will
+be subject to the quadratic equation
+$$(x-f)(t-x)=0.$$
+This expresses that $x$ is either true or false.
+For to say that the product $(x-f)(t-x)$ va-
+nishes is the same as to say that one of
+its factors vanishes, that is that $x-f=0$
+or $t-x=0$, [del]or[/del] [ins]i.e.[/ins] $x=f$ or $x=t$. If we write
+$$(x-f)(t-y)=0$$
+this will express that if $x$ is true, $y$ is true.
+For either $x-f=0$ when $x$ is false, or else
+$t-y=0$ when $y$ is true. So
+$$(y-f)([del]t[/del] [ins]t[/ins]-z)=0$$
+expresses that if $y$ is true, $z$ is true.
+Multiply the last equation but one by
+$t-z$ and the last by $x-f$. They, then

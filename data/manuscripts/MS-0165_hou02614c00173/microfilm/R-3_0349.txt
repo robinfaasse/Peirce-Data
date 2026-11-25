@@ -1,0 +1,32 @@
+[pn]102[/pn]
+divisor of $MA'D$, then, by [del]Corollary 41[/del] [ins]36,[/ins] $B'$ is a divisor of $MA'$.
+But $A'$ and $B'$ are prime to one another; otherwise, $D$ would
+not be the greatest common divisor. Hence, $M$ must be divisible
+by $B'$. Let $N$ be any whole number. Then, $NB'A'D$ will be a com-
+mon multiple of $A$ and $B$; and the least (in the sense intended)
+will be obtained, by omitting the unnecessary factor $N$. Thus,
+$A'B'D$ is the least common multiple, but
+$$A'B'D = \frac{(A'D)(B'D)}{D} = \frac{AB}{D}.$$
+
+[del]Q.E.D.[/del]
+
+[u]Corollary 39[/u]. The least common multiple of more num-
+bers than two is ascertained, by first finding the least
+common multiple of any two, next of that and any third,
+until all the numbers have been used, when the
+last least common multiple is the least common multiple
+of the given numbers.
+
+[u]Corollary 40[/u]. If a [del]number[/del] [ins]set[/ins] of numbers are all prime
+to one another, every common multiple of them is
+a multiple of their product.
+
+[u][del]Art 48[/del] [ins]Theorem 27[/ins][/u]. [u]Every prime number is prime to every[/u]
+[u]other number except its multiples[/u].
+
+[u]Demonstration[/u]. For [del]a[/del] a prime number has but a
+single part, and therefore but a single divisor, [del]which[/del] [ins]But[/ins]
+every number is a divisor of itself. Hence the only divisor
+of a prime number is itself. But the only numbers which
+have a prime number for a divisor, except itself, are [del]by Definition[/del]
+[del]46,[/del] its multiples. Thus, the multiples of a prime are the only [ins]other[/ins] numbers

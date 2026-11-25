@@ -1,0 +1,30 @@
+[pn]155[/pn]
+
+those factors not known not to be zero, vanishes.
+
+In order to effect [del]the[/del] vanishing of everything above
+the dexter diagonal, it will be best to begin by making the
+numbers in the top row all alike, by increasing one
+column by a multiple of another. That done, we have
+only to subtract the first column from all the others
+to make all [ins]the numbers in[/ins] the top row, except the first, vanish. We
+then treat the second row in the same manner.
+
+But after a little practice it will be unnecessary
+[del]to follow any[/del] fixed rule. We shall readily see different
+ways of effecting our purpose.
+
+Let us [del]add[/del] [ins]join[/ins] to the three equations, above, the identical
+equation
+$$A\underline{x} + B\underline{y} + C\underline{z} - (A\underline{x} + B\underline{y} + C\underline{z}) = 0.$$
+The letters $A, B, C,$ will at the end be made $1$ or $0$, or
+other simple values be given to them according to the
+quantity we desire to calculate. For the sake of abbreviation,
+we write $M$ in place of $(A\underline{x} + B\underline{y} + C\underline{z})$, and so have
+
+$$\left| \begin{matrix}
++3, & -2, & +1, & -6 \\
++4, & -1, & -2, & +7 \\
++2, & +3, & -4, & +7 \\
+A, & B, & C, & -M
+\end{matrix} \right| = 0.$$

@@ -1,0 +1,83 @@
+[pn]162[/pn]
+[marginalia]ABC DEF G HIJ KLM[/marginalia]
+[marginalia]UVW XYZ A BCD EFG
+HIJ KLM N OPQ RST[/marginalia]
+
+[u]Corollary[/u] 58.
+
+[fig]rough sketch of numbers and lines[/fig]
+
+$\begin{matrix} 0 \\ 1 \\ 3 \\ 8.5 \\ 245 \\ \end{matrix}$
+
+$\begin{matrix} A-B & B-C \\ A & D & C \end{matrix}$
+
+[fig]circle with points A, B, C and arrows[/fig]
+
+$n^2-7$
+
+$\frac{x^2 - 2n}{2n - x^2}$
+
+$\frac{2n - x^2}{n^2 - 1}$
+
+[fig]figure eight loop with letters A, B, C[/fig]
+
+[fig]four points connected in a square with letters A, B, C, D[/fig]
+
+[u]3 last - last but one[/u]
+
+$\frac{0}{1}$
+
+[fig]line with points P, C, B, A[/fig]
+
+$-f = \frac{A-B}{\frac{D-C}{D-A}\ \frac{B-A}{C-B}}$
+
+$\frac{B-A}{C-B}\ \frac{D-C}{D-A}$
+
+[fig]diagram with lines and letters D, C, B, A[/fig]
+
+$\frac{B-A}{D-A}$
+
+$\frac{D-C}{D-B}\ \frac{B-A}{C-A} = r$
+
+$\frac{D-C}{D-B}\ \frac{B-A}{C-A}$
+
+$(D-C)(B-A) = r(D-B)(C-A)$
+
+[fig]line with points A, B, C, D[/fig]
+
+$D = \frac{C(B-A) - r[del]B[/del][ins]B[/ins](C-A)}{B-A - r(C-A)}$
+
+$r = \infty$
+$D = B$
+
+$r = 1$
+$D = A$
+
+$r = 0$
+$D = C$
+
+$r = 0$
+$r = \infty$
+$r = 1$
+$A = D$
+$+1$
+
+$= \frac{(1-r)BC - (C-rB)A}{\frac{C}{C-A} - r\frac{B}{B-A}}$
+
+$= \frac{\frac{C}{C-A} - r\frac{B}{B-A}}{\frac{1}{C-A} - \frac{r}{B-A}}$
+
+$= \frac{1 - \frac{A}{C} - r(1-\frac{A}{B})}{\frac{1}{C}(1-\frac{A}{C}) - r\frac{1}{B}(1-\frac{A}{B})}$
+
+$A \frac{\frac{C}{A}(\frac{B}{A}-1) - r\frac{B}{A}(\frac{C}{A}-1)}{\frac{B}{A}-1 - r(\frac{C}{A}-1)}$
+
+$(D-C) = r(D-B)\frac{C-A}{B-A}$
+
+$1 - r\frac{C-A}{B-A} = C - rB\frac{C-A}{B-A}$
+
+$D(1 - r\frac{C-A}{B-A}) = C - rB\frac{C-A}{B-A}$
+
+$D = \frac{C - rB\frac{C-A}{B-A}}{1 - r\frac{C-A}{B-A}}$
+
+[fig]small diagram with letters B, D, A[/fig]
+
+$\frac{B}{3}$

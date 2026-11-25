@@ -1,0 +1,53 @@
+[pn]MM[/pn] adding 3 to each [ins]except the last[/ins] to form the next, neglecting the tens entirely [del]without ever thinking of them[/del] (but thinking of them, for example, "nine and three make twelve").
+With a little practice, this can be done as fast as the numbers can
+be set down, and with no sensible effort. I thus get the following:
+
+[fig]Table of numbers in Scheme 1[/fig]
+287165693
+6
+9
+2
+5
+8~
+1
+4
+7
+0
+
+in Scheme 1. Now the majority of the figures of the
+column are greater than those [ins]immediately[/ins] above [ins]which geologically dominates the question[/ins]
+them. To mark the exceptional cases, I put dots
+against them in the tens' place, and so get Scheme 2.
+I now set down the [del]tens'[/del] [ins]column of[/ins] figures in the tens' place; and since
+9, the head of this column, is one less than
+ten, I do it by successively subtracting
+1, except where there is a [del]dot[/del] [ins]fault[/ins], where
+(there being 1 to carry) I make the
+figure the same as the one above it.
+I thus get Scheme 3. The fact that the
+
+[fig]Table of numbers in Scheme 2[/fig]
+Scheme 1.
+287165693
+6
+9
+• 2
+5
+8
+• 1
+4
+7
+• 0
+Scheme 2.
+
+287165693
+86
+79
+72
+65
+58
+51
+44
+37
+30
+[u]Scheme 3.[/u]

@@ -1,0 +1,41 @@
+any point in the straight line through $P_1$ and $P_2$
+and $\mu(\lambda P_1 + (1-\lambda)P_2) + (1-\mu)P_3$ where $\mu$ is
+a second number will be any point in a line
+with that point and with $P_3$. But this plainly
+describes any point in the plane through $P_1, P_2, P_3$
+so that
+$$P_4 = a_1 P_1 + a_2 P_2 + a_3 P_3$$
+where $a_1 + a_2 + a_3 = 1$
+denotes any point in that plane. By transposing
+and multiplying by any [del]factor[/del] [ins]number[/ins] we give this the
+form
+$$b_1 P_1 + b_2 P_2 + b_3 P_3 + b_4 P_4 = 0$$
+where $b_1 + b_2 + b_3 + b_4 = 0$.
+To avoid the necessity of the second equation, we
+may put for $b_1, b_2, b_3, b_4$ four algebraical
+expressions which identically add up to zero; and
+may write
+$$(a-b-c)P_1 + (-a+b-c)P_2 + (-a-b+c)P_3 + (a+b+c)P_4 = 0$$
+This expression will signify that $P_1, P_2, P_3, P_4$ lie
+in one plane.
+
+I will now give an example to show the utility
+of this notation. Let $P_1, P_2, P_3, P_4$ be any four
+points in a plane. Assume for the equation con-
+necting them
+$$(a-b-c)P_1 + (-a+b-c)P_2 + (-a-b+c)P_3 + (a+b+c)P_4 = 0$$
+
+[fig]Geometric diagram with intersecting lines and points P1 to P6[/fig] Let a line$^*$ be drawn through
+$P_1$ and $P_2$ and another through
+$P_3$ and $P_4$. How shall we [del]find[/del] [ins]express[/ins]
+the point $P_5$ where these two lines meet?
+Very simply; for the above equation
+gives by transposition
+$$(a-b-c)P_1 + (-a+b-c)P_2 = (a+b-c)P_3 + (-a-b-c)P_4$$
+and therefore for the point $P_5$, which is equal to some
+binomial in $P_1$ and $P_2$ and also to some binomial
+in $P_3$ and $P_4$, we must have the equation
+$$-2c P_5 = (a-b-c)P_1 + (-a+b-c)P_2 = (a+b-c)P_3 + (-a-b-c)P_4$$
+For this equation requires it to be on a line with $P_1$ and $P_2$
+
+$^*$In analytical geometry, a line always means a straight line.

@@ -1,0 +1,37 @@
+[marginalia]
+[date]May 21.[/date]
+[/marginalia]
+
+[pn]17[/pn]
+
+Given that there is not a [del]y[/del] [ins]x[/ins] for every [del]x[/del] [ins]y[/ins],
+required to prove that there is an [del]y[/del] [ins]x[/ins]
+for every [del]x[/del] [ins]y[/ins].
+
+[del]$\Pi_i$[/del] $\Sigma_a \Sigma_b \Sigma_c \Sigma_d \Pi_e$ [ins]($x_d$)[/ins]
+($\bar{r}_{iab} \bar{r}_{ibc}$ [del]$\bar{r}_{ide}$[/del] $x_a x_b y_c \bar{r}_{ide} + \bar{y}_e$)
+} The premise
+
+That is we wish to prove
+$\Sigma_i \Sigma_j \Pi_a \Sigma_b \Pi_c \Pi_d \Sigma_e \Pi_f$
+[del]($\bar{x}_a + \bar{r}_{iab} y_b$)[/del]
+$\bar{x}_a + \bar{r}_{iab} y_b (\bar{r}_{icb} + I_{ac}) + \bar{y}_d + \bar{r}_{ide} x_e (\bar{r}_{ife} + I_{df})$
+
+But one does not see why the following
+is not true by the rule that eliminating
+the [del]y's[/del] [ins]x's[/ins] gives a true proposition
+[del]$\Sigma_i \Pi_a$[/del] $\Sigma_i \Pi_a \Sigma_b \Pi_c \{ \bar{x}_a + \bar{r}_{iab} y_b (\bar{r}_{icb} + I_{ac}) \}$.
+There must then be some undiscovered
+method of elimination.
+
+This does not seem correctly expressed
+$\Pi_i \Sigma_a \Pi_b \Sigma_c$
+$x_a (\bar{r}_{iab} + \bar{y}_b + \bar{r}_{icb} I_{ac})$
+
+The form given is the negative of
+$\Sigma_i \Pi_a \Pi_b \Pi_c \Pi_d \Sigma_e$
+$y_e [ins]^{(+x_d)}[/ins] \bar{r}_{ide} (\bar{r}_{iac} + \bar{r}_{ibc} + \bar{x}_a + \bar{x}_b + \bar{y}_e + I_{ab})$
+
+But perhaps the two forms are identical.
+
+This hardly follows.

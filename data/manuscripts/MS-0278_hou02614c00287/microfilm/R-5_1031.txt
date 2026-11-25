@@ -1,0 +1,20 @@
+[u]Number[/u]
+
+[u]Definitions[/u]
+
+1. $\Pi_{\alpha} \Pi_{i} \Pi_{j} \Pi_{k} (t_{\alpha} + \overline{r}_{\alpha i j} + \overline{r}_{\alpha j k} + r_{\alpha i k})$
+2. $\Pi_{\alpha} \Sigma_{i} \Sigma_{j} \Sigma_{k} (r_{\alpha i j} r_{\alpha j k} \overline{r}_{\alpha i k} + \overline{t}_{\alpha})$
+3. $\Pi_{\alpha} \Pi_{i} \Pi_{j} (\overline{e}_{\alpha} + \overline{q}_{\alpha i} + \overline{E}_{i j} + q_{\alpha j})$
+4. $\Pi_{\alpha} \Sigma_{i} \Sigma_{j} (q_{\alpha i} E_{i j} \overline{q}_{\alpha j} + e_{\alpha})$
+5. $\Pi_{i} \Pi_{j} \Pi_{\alpha} (\overline{g}_{i j} + \overline{q}_{\alpha o} + \overline{e}_{\alpha} + q_{\alpha j})$
+6. $\Pi_{i} \Pi_{j} \Sigma_{\alpha} (\overline{q}_{\alpha i} e_{\alpha} \overline{q}_{\alpha j} + g_{i j})$
+7. $\Pi_{i} \Pi_{j} (\overline{U}_{i} + g_{i j})$
+8. $\Pi_{i} \Sigma_{j} (\overline{g}_{i j} + U_{i})$
+
+[u]Properties of Number[/u]
+
+A. [del]$\Sigma_{i}$[/del] $\Pi_{i} \Pi_{j} \Pi_{k} (\overline{E}_{i j} + \overline{E}_{i k} + I_{j k})$ — Axiom of Next
+B. [del]$\Pi_{i} \Pi_{j}$[/del] $\Pi_{i} \Sigma_{j} E_{i j}$ — Postulate of Next
+C. $\Pi_{i} \Pi_{j} (\overline{E}_{i j} + \overline{g}_{j i})$ — Axiom of as great as
+D. $\Pi_{i} \Pi_{j} (\overline{U}_{i} + \overline{U}_{j} + I_{i j})$ — Axiom of One
+E. $\Sigma_{i} U_{i}$ — Postulate of One

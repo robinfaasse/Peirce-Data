@@ -1,0 +1,22 @@
+[pn]Logic
+III
+59[/pn]
+
+same way that $z$ is true. Thus if $x$ is true, then if $(x \prec y)$ is
+true, [del]then if $(y \prec z)$ is true, $z$ is true,[/del] hence by (64) if $z$ is
+true, then if $(x \prec y)$ is true $(y \prec z) \prec z$ is true; and in the
+same way if $x$ is true, $(x \prec y) \prec [(y \prec z) \prec z]$ is true; and in
+the same way $x \prec \{(x \prec y) \prec [(y \prec z) \prec z]\}$ is true. Hence by
+transposition $(x \prec y) \prec (y \prec z) \prec x \prec z$ is true. Hence by
+(65) if $x \prec y$ is true $(y \prec z) \prec x \prec z$ is true, which is (79).
+[del]We have here incidentally proved[/del] This is called the Rule of
+Contraposition. We have here incidentally proved the following:
+
+(80) $(x \prec y) \prec (y \prec z) \prec (x \prec z)$.
+(81) If $(x \prec y) \prec w$ is true, then $[(x \prec y) \prec z] \prec w$ is true.
+For by (75), if $(x \prec y) \prec z$ is true $x \prec y \prec z$ is true. Hence by
+contraposition follows (81).
+(82) $[(x \prec y) \prec w] \prec [(x \prec y) \prec z] \prec w$
+(83) If $[(x \prec y) \prec z] \prec w$ is true then $x \prec (y \prec z) \prec w$ is true.
+For if $[(x \prec y) \prec z] \prec w$ is true, then [ins]by (65)[/ins] either $(x \prec y) \prec z$ is
+false, or $w$ is true. But if $(x \prec y) \prec z$ is false, then, by (64),

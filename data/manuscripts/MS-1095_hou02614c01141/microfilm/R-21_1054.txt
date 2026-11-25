@@ -1,0 +1,15 @@
+[fig]Coordinate axes with a circle at the origin and an angle marked.[/fig]
+
+$$\frac{d}{dy} = \frac{d}{d(\varpi \cos \omega)} = \frac{d}{d\varpi \cdot \cos \omega [del]- \varpi \sin \omega \cdot d\omega[/del]}$$
+
+$$\frac{d F(y,z)}{dy} = \frac{F(y+dy, z) - F(y,z)}{dy}$$
+
+$$F(y,z) = \varphi(\varpi, \omega)$$
+
+$$dy = d\varpi \cdot \cos \omega - \varpi \sin \omega \cdot d\omega$$
+$$dz = d\varpi \cdot \sin \omega + \varpi \cos \omega \cdot d\omega = 0$$
+$$d\omega = - \frac{d\varpi \tan \omega}{\varpi}$$
+
+$$\frac{d F(y,z)}{dy} = \frac{\varphi(\varpi + d\varpi, \omega - \frac{\tan \omega}{\varpi} d\varpi) - \varphi(\varpi, \omega)}{[del]dy[/del]}$$
+
+$$= \frac{d\varpi}{\varpi} \cdot \varphi - \frac{\tan \omega}{\varpi} d\varpi \varphi$$

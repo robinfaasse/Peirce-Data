@@ -1,0 +1,33 @@
+[pn]2[/pn]
+
+$$\frac{dz}{dx} - \frac{x}{1-x^2} z = a \frac{x}{1-x^2} z^2$$
+
+$$\frac{x}{1-x^2} = \frac{1/2}{1-x} - \frac{1/2}{1+x}$$
+
+[del][fig]crossed out scribble[/fig][/del]
+
+$$- \frac{dz}{z^2 dx} + \frac{x}{1-x^2} \frac{1}{z} = a \frac{x}{1-x^2}$$
+
+$$\int \frac{x dx}{1-x^2} = \frac{1}{2} \int \frac{1}{1-x} - \frac{1}{1+x}$$
+
+$$= \log \sqrt{\frac{1-x}{1+x}}$$
+
+$$\frac{d \frac{1}{z}}{dt} + \frac{1}{z} = -a$$
+
+$$dt = d \log \sqrt{\frac{1-x}{1+x}}$$
+
+$$\frac{1}{z} = C \epsilon^{-t} + \epsilon^{-t} \int a \epsilon^t dt$$
+
+$$\frac{1}{z} = C \epsilon^{-t} - a$$
+
+$$\frac{d \frac{1}{z}}{dt} = -C \epsilon^{-t}$$
+
+$$z = \frac{1}{C \sqrt{\frac{1+x}{1-x}} - a}$$
+
+$$\frac{dz}{dx} = + \frac{C \sqrt{\frac{1-x}{1+x}} \frac{[del]1[/del]}{(1+x)^2}}{\left(C \sqrt{\frac{1+x}{1-x}} - a\right)^2}$$
+
+$$(1-x^2) \frac{dz}{dx} = C \frac{1-x}{1+x} \sqrt{\frac{1-x}{1+x}} \frac{1}{\left(C \sqrt{\frac{1+x}{1-x}} - a\right)^2}$$
+
+$$[del]ax[/del] z^2 = \frac{ax}{\left(C \sqrt{\frac{1+x}{1-x}} - a\right)^2}$$
+
+$$xz = \frac{C \sqrt{\frac{1+x}{1-x}} x - ax}{\left(C \sqrt{\frac{1+x}{1-x}} - a\right)^2}$$

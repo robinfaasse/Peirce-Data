@@ -1,0 +1,127 @@
+[fig]spherical triangle with sides labeled a=75.168, 135, 51=b[/fig]
+
+[fig]thin triangle[/fig]
+
+$\text{log } 65^{\circ}$
+$A = 135$
+
+$\begin{array}{ll}
+\tan A = & 0.00000n \\
+\cos b & 9.79887 \\
+\hline
+\cot \vartheta & 9.79887n
+\end{array}$
+
+$\begin{array}{ll}
+\tan b & 0.09163 \\
+\cos \vartheta & 9.726[del]47[/del][ins]39[/ins]n \\
+\cot a & 9.42293 \\
+\hline
+\cos \vartheta' & 9.24098n
+\end{array}$
+
+$\begin{array}{l}
+\vartheta = 122.183 \\
+\vartheta' = 100.030 \\
+\hline
+\quad\ \ 22.154
+\end{array}$
+
+$\begin{array}{r}
+32.183 \\
+10.030 \\
+\hline
+22.153
+\end{array}$
+
+$\begin{array}{r}
+122.183 \\
+93.295 \\
+\hline
+28.888
+\end{array}$
+
+$\begin{array}{r}
+469 \\
+385 \\
+\hline
+85
+\end{array}$
+
+$\begin{array}{r}
+43 \\
+17
+\end{array}$
+
+$\begin{array}{r}
+22.154 \\
+28.29 \\
+\hline
+\end{array}$
+
+$\begin{array}{r}
+92 \\
+\hline
+\end{array}$
+
+$28$
+
+[fig]angle with arc[/fig]
+
+$\begin{array}{r}
+3.295 \\
+3) \underline{10.030} \\
+3.343 \\
+.05
+\end{array}$
+
+$\begin{array}{r}
+1.380 \\
+3) \underline{4.187} \\
+1.396 \\
+.016
+\end{array}$
+
+[fig]sketch of a person's head in profile[/fig]
+
+$\begin{array}{r}
+4) \underline{634} \\
+\hline
+\end{array}$
+
+$127$
+
+[fig]right triangle with angle 51 degrees[/fig]
+
+$\tan \varphi = \tan 51^{\circ} \cos A$
+$\cos \varphi' = \cos \varphi \sec b \sin \text{ lat}$
+
+$\begin{array}{r}
+174 \\
+\underline{696} \\
+\hline
+\end{array}$
+
+$5$
+
+[fig]isosceles triangle with angle 85 degrees[/fig]
+
+$\beta = \tan \frac{b}{2}$
+
+$\cos a = \cos b \cos c + \sin b \sin c \cos A$
+$= \frac{1-\beta^{2}}{1+\beta^{2}} \cos c + \frac{2\beta}{1+\beta^{2}} \sin c \cos A$
+
+$\beta = \frac{\sin c \cos A}{2 \cos \frac{1}{2}(c+a) \cos \frac{1}{2}(c-a)}$
+
+$(1+\beta^{2}) \cos a = (1-\beta^{2}) \cos c + 2\beta \sin c \cos A$
+
+$\begin{array}{r}
+\frac{5}{16} \\
+45
+\end{array}$
+
+$\beta^{2} (\cos a + \cos c) - 2\beta \sin c \cos A = \cos c - \cos a$
+
+$\beta^{2} - 2\beta \frac{\sin c \cos A}{\cos c + \cos a} = \frac{\cos c - \cos a}{\cos c + \cos a}$
+
+$\beta = \frac{\sin c \cos A}{\cos c + \cos a} \pm \frac{\sqrt{[del]\sin^{2} c \cos^{2} A + \cos^{2} c - \cos^{2} a[/del]}}{\cos c + \cos a}$

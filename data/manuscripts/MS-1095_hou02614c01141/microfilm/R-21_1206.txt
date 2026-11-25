@@ -1,0 +1,23 @@
+$$\sin \alpha = -\frac{1}{4} \frac{s-q}{\sqrt{(s-x_1)(q-x_1)}} \qquad \sin \beta = -\frac{1}{4} \frac{s-q}{\sqrt{(s+x_1)(q+x_1)}}$$
+
+$$\cos \alpha = +\frac{1}{4} \frac{(s-x_1)+(q-x_1)}{\sqrt{(s-x_1)(q-x_1)}} \qquad \cos \beta = -\frac{1}{4} \frac{(s+x_1)+(q+x_1)}{\sqrt{(s+x_1)(q+x_1)}}$$
+
+$$\sin \alpha \cos \beta = \frac{1}{16} \frac{(s+x_1)^2 - (q+x_1)^2}{\sqrt{(s+x_1)(s-x_1)(q+x_1)(q-x_1)}}$$
+
+$$\sin \beta \cos \alpha = -\frac{1}{16} \frac{(s-x_1)^2 - (q-x_1)^2}{\sqrt{(s+x_1)(s-x_1)(q+x_1)(q-x_1)}}$$
+
+$$\sin (\alpha - \beta) = \frac{1}{8} \frac{[del]s^2 + x_1^2 - 2xq[/del] \quad s^2 + x_1^2 - q^2 - x_1^2}{\sqrt{\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad}}$$
+
+$$\sin (\alpha + \beta) = \frac{1}{8} \frac{[del]q^2 + x_1^2 + 2x_1 s[/del] \quad 2x_1 s - 2x_1 q}{\sqrt{\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad}}$$
+
+$$\sin \alpha \sin \beta = \frac{1}{16} \frac{(s-q)^2}{\sqrt{\qquad\qquad}} = \frac{1}{16} \frac{\{(s+x_1) - (q+x_1)\}\{(s-x_1) - (q-x_1)\}}{\sqrt{\qquad\qquad}}$$
+
+$$\cos \alpha \cos \beta = -\frac{1}{16} \frac{\{(s+x_1) + (q+x_1)\}\{(s-x_1) + (q-x_1)\}}{\sqrt{\qquad\qquad}}$$
+
+$$\cos (\alpha + \beta) = -\frac{1}{8} \frac{(s+x_1)(s-x_1) + (q+x_1)(q-x_1)}{\sqrt{\qquad\qquad}}$$
+
+[del]$\sin (\alpha + \beta)$[/del]
+
+$$\cos^2 (\alpha + \beta) = \frac{1}{64} \frac{(s+x_1)^2(s-x_1)^2 + 2(s+x_1)(s-x_1)(q+x_1)(q-x_1) + (q+x_1)^2(q-x_1)^2}{(s+x_1)(s-x_1)(q+x_1)(q-x_1)}$$
+
+$$= \frac{1}{64} \left\{ \frac{s^2 - x_1^2}{q^2 - x_1^2} + 2 + \frac{q^2 - x_1^2}{s^2 - x_1^2} \right\}$$

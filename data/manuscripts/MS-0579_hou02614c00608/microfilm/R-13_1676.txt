@@ -1,0 +1,13 @@
+[u]Algebra of the Copula[/u]
+
+The copula of consequence, [u]⤙[/u], may be defined as follows:
+$\alpha$. If $b$, then $a \mathbin{\} b$.
+$\beta$. Either $a$ or $a \mathbin{\} b$.
+$\gamma$. If $a \mathbin{\} b$ and $a$, then $b$.
+
+The letters $a$ and $b$ may be replaced by propositions, that replacing $a$ being written in parenthesis. [del]The letter or proposition preceding[/del] [ins]What precedes[/ins] the copula is called the antecedent [ins]or thesis[/ins]. [del]What precedes[/del] [ins]The letter or expression preceding[/ins] the whole proposition, the [del]letter or[/del] expression is called the consequent. Thus, [del]the $q$[/del] in the proposition
+$a \mathbin{\} b \mathbin{\} c$
+The antecedent is $a$, the consequent $b \mathbin{\} c$. But it will be more convenient, [del]when[/del] in such a case to term $a$ and $b$ the antecedents, $c$ the consequent.
+
+Theorem I
+If from a proposition P [ins]a[/ins]nother proposition Q follows, one may write $P \mathbin{\} Q$. For, by $\beta$, either P is true or $P \mathbin{\} Q$ and if P is true and from P follows Q then Q is true, and

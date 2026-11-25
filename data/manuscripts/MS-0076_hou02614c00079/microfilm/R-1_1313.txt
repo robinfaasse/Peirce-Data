@@ -1,0 +1,29 @@
+[pn]2[/pn]
+
+each denoted by [del]writing[/del] [ins]bracketing together[/ins] two non-relative units
+separated by a colon, [del]in brackets together[/del]
+These operations equal in number to the
+square of the number of non-relative units
+may be arranged as follows,
+
+$$\begin{matrix}
+(A:A) & (A:I) & (A:J) & (A:K) & \text{etc.} \\
+(I:A) & (I:I) & (I:J) & (I:K) & \text{etc.} \\
+(J:A) & (J:I) & (J:J) & (J:K) & \text{etc.} \\
+\text{etc.}
+\end{matrix}$$
+
+Any one of these operations performed upon
+[del]any numerical sum[/del] a polynomial one
+term of which is a numerical multiple
+of the letter following the colon gives the
+same multiple of the letter preceding the colon.
+Thus, $(I:J) (aI + bJ + cK) = bI^*$. These opera-
+tions are also susceptible of associative com-
+bination. Hence $(I:J)(J:K) = (I:K)$; for
+$(J:K)K = J$ and $(I:J)J = I$, so that $(I:J)(J:K)K = I$.
+And $(I:J)(K:L) = 0$; for $(K:L)L = K$ and
+$(I:J)K = (I:J)(0.J + K) = 0.I = 0$. Let us further
+assume the application of the distributive prin-
+
+$^*$ If $b=0$, of course the result is $0$.

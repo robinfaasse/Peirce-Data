@@ -1,0 +1,29 @@
+```
+[del]\frac{r}{s}[/del] [ins]\frac{s}{r}[/ins] [del]\frac{\cos^{2} 51^{\circ} - \sin^{2} \varphi}{\frac{\cos^{2} \varphi - \sin^{2} 51^{\circ}}{(\cos 51^{\circ} + \sin \varphi)^{2}}}[/del] = 2 \cos \theta \frac{\sin 51^{\circ}}{\cos 51^{\circ} + \sin \varphi}
+
+\frac{\cos 51^{\circ} - \sin \varphi}{\cos 51^{\circ} + \sin \varphi}
+
+[del]\frac{r}{s} (\cos 51^{\circ} + \sin \varphi) - \frac{s}{r} (\cos 51^{\circ} - \sin \varphi) =[/del]
+
+\frac{r}{s} \sqrt{\frac{\cos 51^{\circ} + \sin \varphi}{\cos 51^{\circ} - \sin \varphi}} - \frac{s}{r} \sqrt{\frac{\phantom{\cos 51^{\circ} - \sin \varphi}}{\phantom{\cos 51^{\circ} + \sin \varphi}}} = 2 \cos \theta \frac{\sin 51^{\circ}}{\sqrt{\cos^{2} 51^{\circ} - \sin^{2} \varphi}}
+
+[del]\frac{\frac{r}{s} \tan (45^{\circ} + \frac{\varphi - 51^{\circ}}{2})}{\sqrt{\tan (}}[/del] or \log \sqrt{\frac{\cos 51^{\circ} - \sin \varphi}{\cos 51^{\circ} + \sin \varphi}} = \log \sqrt{\frac{1 - \frac{\sin \varphi}{\cos 51^{\circ}}}{1 + \frac{\sin \varphi}{\cos 51^{\circ}}}}
+
+6^{y-r} - 6^{-y+r} = 2 \cos \theta \frac{\sin 51^{\circ}}{\sqrt{\cos^{2} 51^{\circ} - \sin^{2} \varphi}}
+
+\begin{aligned}
+& \cosh y-r + \sinh y-r \\
+- & \cosh y-r + \sinh
+\end{aligned}
+
+\sinh (y-r) = \cos \theta \frac{\sin 51^{\circ}}{\sqrt{\cos^{2} 51^{\circ} - \sin^{2} \varphi}}
+
+\sinh (y-r) = \tan \eta \qquad \log \tan (45^{\circ} + \frac{\eta}{2}) = \frac{M \pi}{180^{\circ}} (y-r)
+= M (\frac{\pi}{180^{\circ}} y - r)
+
+\begin{aligned}
+\text{Lat } 60^{\circ} & \quad 9.93753 \\
+\cos 51 & \quad \underline{9.79887} \\
+& \quad 0.13866
+\end{aligned}
+```

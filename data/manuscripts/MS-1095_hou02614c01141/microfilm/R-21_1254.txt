@@ -1,0 +1,31 @@
+$$\frac{\partial X}{\partial x} = \frac{\partial Y}{\partial y} \qquad \frac{\partial X}{\partial y} = - \frac{\partial Y}{\partial x}$$
+
+$$X + Y i = R \cos \Theta + R \sin \Theta \cdot i$$
+$$x + y i = r \cos \theta + r \sin \theta \cdot i$$
+[del]X[/del] $R = \sqrt{X^2 + Y^2}$
+$\Theta = \arctan \frac{Y}{X}$
+
+[marginalia]
+$R \cos \Theta \cdot i$
+$r \cos \theta$
+$\log R + \Theta i$
+$\log r + \theta i$
+[/marginalia]
+
+$x = r \cos \theta \qquad y = r \sin \theta$
+
+$$D_r R = \cos \theta D_x R + \sin \theta D_y R$$
+$$= [del]\cos \theta \frac{1}{R} X D_x X + \sin \theta \frac{Y}{R} D_y Y[/del]$$
+$$= \cos \theta \frac{X D_x X + Y D_y Y}{R} + \sin \theta \frac{[del]D_y Y[/del] [ins]D_x X[/ins]}{R} (X [del]\frac{D_y Y}{D_x X}[/del] + Y [del]\frac{D_y Y}{D_x X}[/del])$$
+$$= \frac{1}{R} (X \cos \theta + Y \sin \theta) D_x X + \frac{1}{R} (Y \cos \theta - X \sin \theta) D_y Y$$
+$$= \cos (\Theta - \theta) D_x X + \sin (\Theta - \theta) D_y Y$$
+
+$$D_{\theta} \Theta = - r \sin \theta D_x \Theta + r \cos \theta D_y \Theta$$
+$$= - r \sin \theta \frac{1}{X^2 + Y^2} [del]\frac{D_x X}{X}[/del] \frac{(D_y Y \cdot X - D_x X \cdot Y)}{[del]D_x X[/del] [ins]D_y Y[/ins] (X [del]\frac{D_y Y}{D_x X}[/del] + Y [del]\frac{D_y Y}{D_x X}[/del])}$$
+$$+ r \cos \theta \frac{1}{X^2 + Y^2} [del]\frac{D_y Y}{Y}[/del]$$
+
+$$[del]D R = \frac{1}{R} D_{\theta} \Theta[/del] = \frac{r}{R} (\cos \theta \cos \Theta + \sin \theta \sin \Theta) D_x X$$
+$$+ \frac{r}{R} (\cos \theta \sin \Theta - \sin \theta \cos \Theta) D_y Y$$
+$$= \frac{r}{R} \cos (\Theta - \theta) D_x X + \frac{r}{R} \sin (\Theta - \theta) D_y Y$$
+
+[del]$D_{\theta} \cdot D_{\theta} \log R = D_r \Theta$[/del]

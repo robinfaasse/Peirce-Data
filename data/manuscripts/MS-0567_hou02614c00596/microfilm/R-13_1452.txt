@@ -1,0 +1,21 @@
+Let us now seek all the propositions
+resulting from the elimination of $\kappa$ from
+$$\Pi_{\kappa} \Sigma_{a} \Pi_{b} \Sigma_{c} \ u_{a} (\overline{W}_{b} + \overline{\gamma}_{\kappa ab} + \gamma_{\kappa cb} \overline{I}_{ac}).$$
+Owing to the universal quantification of $\kappa$
+we may multiply this by any true proposition
+involving $\Sigma_{\kappa}$. Now, we have, in general,
+$$\Pi_{\alpha} \Pi_{\beta} \Sigma_{\gamma} \Pi_{i} \Pi_{j} \left\{ \overline{\gamma}_{\gamma ij} (\overline{\gamma}_{\alpha ij} + \overline{\gamma}_{\beta ij}) + \gamma_{\gamma ij} \gamma_{\alpha ij} \gamma_{\beta ij} \right\}.$$
+This is substantially the formula on the fourth
+line of p. 201. It could easily be proved by
+involution. As a special case put $u_{i}$ for $\gamma_{\beta ij}$.
+Then, identifying [del]$\gamma$[/del] [ins]$\kappa$[/ins] with [del]$\kappa$[/del] $\gamma$, we have
+
+[del]$\Pi$[/del]
+$$\Pi_{\alpha} \Sigma_{a} \Pi_{b} \Sigma_{c} \ u_{a} (\overline{W}_{b} + \overline{\gamma}_{\alpha ab} + u_{c} \gamma_{\alpha cb} \overline{I}_{ac}).$$
+Elimination immediately gives
+$$\Sigma_{a} u_{a} \overline{W}_{a}$$
+and
+$$\Sigma_{a} \Pi_{b} \Sigma_{c} \ u_{a} (\overline{W}_{b} + u_{c} \overline{I}_{ac}).$$
+If we square the proposition, we get
+$$\Pi_{\alpha} \Sigma_{a} \Pi_{b} \Pi_{d} \Sigma_{c} \Sigma_{e}$$
+$$u_{a} (\overline{W}_{b} + \overline{W}_{d} + \overline{\gamma}_{\alpha ab} + \overline{\gamma}_{\alpha ad} + u_{c} u_{e} \gamma_{\alpha ab} \gamma_{\alpha ad} [del]\gamma_{\alpha cb}[/del] [ins]$\gamma_{\alpha eb}$[/ins] [del]$\gamma_{\alpha ed}$[/del] [ins]$\gamma_{\alpha cd}$[/ins] $\overline{I}_{ac} \overline{I}_{ae})$$

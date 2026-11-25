@@ -1,0 +1,10 @@
+While $X$ was
+$$X = \left( \beta r - 2(a^2+b^2)r\log r - \frac{a^2b^2}{r} + r^3 \right) \cos\theta$$
+$$= \beta x - (a^2+b^2)x\log(x^2+y^2) - a^2b^2 \frac{x}{x^2+y^2} + x^3 + xy^2$$
+
+[fig]small triangle and intersecting lines[/fig] Let us try the supposition that it [del]now[/del] becomes equal to the same function [ins]of $y$, and[/ins] [del]after substi-[/del] [del]tuting for $x$[/del] where the same function of $x'$ that it now is of $x$.
+$$x' = x + (x^2+y^2-b^2) \frac{c}{a^2-b^2}$$
+$$D_x x' = 1 + 2x \frac{c}{a^2-b^2}$$
+$$D_y x' = 2y \frac{c}{a^2-b^2}$$
+$$D_y X = D_{x'} X \cdot 2y \frac{c}{a^2-b^2} + (D_y X)$$
+When $x^2+y^2=b$ $x'=x$ $(D_y X)=0$ $D_{x'} X = 0$ and [del]the[/del] $D_y X = 0$

@@ -1,0 +1,26 @@
+[u]What curve is this[/u]
+[del]D[/del] [ins]D[sub]x[/sub][/ins]y = tan [del]v[/del] [ins]τ[/ins] = [u]sin τ[/u] / cos τ = [u]A - μx[/u] / √1 - (A - μx)²
+μy = √1 - (A - μx)² + B
+(μy - B)² = 1 - (μx - A)²
+(y - B/μ)² + (x - A/μ)² = 1/μ²
+(y - b)² + (x - a)² = c²
+[u]Circle[/u]
+
+[u]Shortest line to be drawn in space[/u]
+V = D[sub]x[/sub]s = √1 + (D[sub]x[/sub]y)² + (D[sub]x[/sub]z)² = √1 + y'² + z'²
+D[sub]y'[/sub]V = [u]y'[/u] / √1 + y'² + z'²
+D[sub]z'[/sub]V = [u]z'[/u] / √1 + y'² + z'²
+- D[sub]x[/sub]D[sub]y'[/sub]V = 0
+- D[sub]x[/sub]D[sub]z'[/sub]V = 0
+
+D[sub]y'[/sub]V = a
+D[sub]z'[/sub]V = b
+D[sub]y'[/sub]V = y'/s' = cos β
+D[sub]z'[/sub]V = z'/s' = cos γ
+[u]Straight line[/u]
+
+Suppose line [del]on[/del] [ins]on[/ins] fixed surface
+L = 0 which contains no D's
+- D[sub]x[/sub]D[sub]y'[/sub]V + λ D[sub]y[/sub]L = 0
+- D[sub]x[/sub]D[sub]z'[/sub]V + λ D[sub]z[/sub]L = 0
+Might eliminate but we limit ourselves to making these equations by taking s so that s' shall be at point of contact.

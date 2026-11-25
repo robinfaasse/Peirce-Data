@@ -1,0 +1,31 @@
+Suppose $H_{q} = 0$     $c^{2} = \frac{H}{EJ}$
+
+$\frac{1}{\lambda} \frac{EJ c^{2}}{P} = \frac{\frac{1}{12} [ 1 + \frac{2}{15} (\frac{l}{2})^{2} ( 3 - \frac{12}{5} \frac{\xi}{l} ) ] - \frac{1}{c^{2} l^{2}} ( 1 + \frac{2}{5} \frac{\xi}{l} )}{\frac{1}{2l} \frac{C_{1} + C_{3} - C_{2} - C_{4}}{l} + \frac{8f}{l} \frac{1}{c^{2}l^{2}} + \frac{1}{32} \frac{8f}{l} + \frac{c^{2}l^{2}}{8f} \frac{l}{2} \frac{I}{E_{0}l^{2}} \frac{J}{P}}$
+
+Suppose $q = 0$     $\frac{H}{Pl} = \frac{c^{2}l^{2}}{Pl^{2}} \frac{EJ}{l} = \zeta^{2} \mathcal{E}$
+
+$cl = \zeta$     $\frac{EJ}{Pl^{3}} = \mathcal{E}$
+
+$\frac{H}{EJ} = c^{2}$
+
+$\zeta^{2} = \frac{Hl^{2}}{EJ} = \frac{H}{Pl} \frac{Pl^{3}}{EJ}$
+
+[del]$\frac{C_{1}}{l} = \frac{\frac{1}{32} \mathcal{E} - \frac{8f}{l}}{2 \zeta^{2} \text{Sinh} \zeta}$[/del]
+
+$\frac{C_{1}}{l} = \frac{(\frac{1}{32} \mathcal{E} - \frac{8f}{l}) (1 + \text{Sinh} \zeta - \text{Cosh} \zeta)}{2 \zeta^{2} \text{Sinh} \zeta}$
+
+$\frac{C_{2}}{l} = \frac{C_{1}}{l} - \frac{1}{\zeta^{2}} (\frac{1}{32} \mathcal{E} - \frac{8f}{l}) = \frac{(\frac{1}{32} \mathcal{E} - \frac{8f}{l}) (1 - \text{Sinh} \zeta - \text{Cosh} \zeta)}{2 \zeta^{2} \text{Sinh} \zeta}$
+
+$\frac{C_{1} - C_{2}}{l} = (\frac{1}{32} \mathcal{E} - \frac{8f}{l}) \frac{1 - \text{Cosh} \zeta}{\zeta^{2} \text{Sinh} \zeta} = - (\frac{1}{32} \mathcal{E} - \frac{8f}{l}) \frac{1}{\zeta^{2}} \text{Tanh} \frac{1}{2} \zeta$
+
+$\frac{C_{3} - C_{4}}{l} = \frac{C_{1} - C_{2}}{l}$
+
+$\zeta^{2} = c^{2}l^{2} = \frac{l^{2}}{EJ} H = \frac{l^{3}}{EJ} \frac{H}{Pl} \frac{P}{l} = \frac{l^{3}}{EJ} \frac{H}{Pl} \frac{P}{l}$
+
+$\frac{\frac{1}{12} [del]\mathcal{E}[/del] - \frac{1}{\zeta^{2}}}{\frac{1}{2 \zeta^{2}} (\frac{1}{32} \mathcal{E} - \frac{8f}{l}) \text{Tanh} \frac{1}{2} \zeta - \frac{1}{\zeta^{2}} \frac{8f}{l} + \frac{\zeta^{2}}{12} \frac{l}{2} \frac{I}{E_{0}l^{2}} \frac{J}{P}}$
+
+[del]$\frac{2}{\zeta^{2}} \frac{1}{\zeta^{2}} = \frac{2}{\zeta^{4}}$[/del] [del]$\frac{2}{\zeta^{2}} \frac{1}{32} \mathcal{E} = \frac{\mathcal{E}}{16 \zeta^{2}}$[/del]
+
+$\frac{\frac{2}{\zeta^{2}} ( 1 - \mathcal{E} \zeta^{2} \frac{8f}{l} ) \text{Tanh} \frac{1}{2} \zeta - \mathcal{E} \frac{8f}{l} + \frac{1}{12} \mathcal{E} \zeta^{2} \frac{8f}{l} + \frac{1}{3} \zeta^{4} \frac{l}{2} \frac{I}{E_{0}l^{2}} \frac{J}{P} = \frac{1}{12 \zeta^{2}} - \frac{1}{\zeta^{4}}}$
+
+$\frac{2 ( 1 - \mathcal{E} \zeta^{2} \frac{8f}{l} ) \text{Tanh} \frac{1}{2} \zeta - \mathcal{E} \zeta^{2} \frac{8f}{l} + \frac{1}{12} \mathcal{E} \zeta^{4} \frac{8f}{l} + \frac{1}{3} \zeta^{6} \frac{l}{2} \frac{I}{E_{0}l^{2}} \frac{J}{P} = \frac{1}{12} \zeta^{2} - 1}$

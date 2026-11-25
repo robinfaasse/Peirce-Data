@@ -1,0 +1,29 @@
+mannians and trigonometric functions combined, natural and
+logarithmic face to face, the argument being the "amplitude."
+But the centesimal division of the quadrant is used. I have no
+other table of Gudermannians, nor have I Legendre's Fonctions ellip-
+tiques. Houel's table I did not consider sufficiently precise. I
+have therefore calculated $\log \tan (45^{\circ} + \frac{\tau}{2})$ by 7-place loga-
+rithms, occasionally resorting to Namur's 12-place table and
+to Houel's 15-place table, by which I have calculated some
+of the values by means of the series
+$$\log \tan (45^{\circ} + \frac{\tau}{2}) = \frac{\pi}{180} \frac{\tau}{10} + [93.9474808524] (\frac{\tau}{10})^{3} + [89.82917560] (\frac{\tau}{10})^{5}$$
+$$+ [87.7760409] (\frac{\tau}{10})^{7} + [81.758583] (\frac{\tau}{10})^{9} + [77.7629] (\frac{\tau}{10})^{11} + [73.7615] (\frac{\tau}{10})^{13}$$
+
+There are several approximations which are valuable. One function
+may be said to be an approximation to another when the first [del]two[/del]
+terms of their developments are identical. If the development of the
+quotient of one divided by the other is 1 plus a very small
+fraction of the fourth power of the variable the approxima-
+tion may be called very close. Adhering to these definitions
+we must not call the parabola
+$$+ \frac{ky'}{Q} = \frac{1}{2} (\frac{kx'}{Q})^{2}$$
+an approximation to the catenary. But we may call it a
+rough approximation, the quotient being
+$$\frac{y' \text{ for Catenary}}{y' \text{ for Parabola}} = 1 + \frac{1}{12} (\frac{kx'}{Q})^{2} + \frac{1}{360} (\frac{kx'}{Q})^{4} + \text{etc}$$
+
+$$\begin{array}{rccc}
+\tau = & 10^{\circ} & 20^{\circ} & 30^{\circ} \\
+y' \text{ for Catenary} & .0154266 & .0641778 & .1547005 \\
+y' \text{ for Parabola} & .0153868 & .0635024 & .1508686
+\end{array}$$

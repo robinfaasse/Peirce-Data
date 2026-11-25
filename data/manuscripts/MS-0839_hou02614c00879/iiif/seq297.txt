@@ -1,0 +1,16 @@
+u(u + v) = u^2 + uv
+(u + v) u = u^2 + vu
+u^2 + uv = [del]p[/del]u^2 + [del]p[/del]vu
+(1-r) u^2 + uv - r vu = 0
+u^2 + [del]p[/del] uv + [del](a p)[/del] vu = 0
+u(u + av) = u^2 + a uv
+(u + av) u = u^2 + a vu
+(1 - r) u^2 + a (uv - r vu) = 0
+[ins]1 - \alpha[/ins]
+u^2 + a uv = (1 - \alpha) u^2 + (1 - \alpha) a vu
+\alpha u^2 = a ((1 - \alpha) vu - uv)
+
+A (A + \epsilon [del]B[/del]) = \epsilon A U
+(A + \epsilon U) A = \epsilon U A [fig]figure[/fig]
+
+A B

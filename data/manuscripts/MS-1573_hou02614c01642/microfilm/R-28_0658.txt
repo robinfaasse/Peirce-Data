@@ -1,0 +1,27 @@
+The velocity of radiation of heat is
+$$m a^{\theta} (a^{t} - 1)$$
+
+where $m$ depends solely on the nature [ins]& the thermometric scale[/ins]
+of the radiating body, and $a$ is a constant
+depending solely on the thermometric scale.
+For a centigrade thermometer $a = 1.0077$
+
+$\theta$ is the temperature of the enclosure
+$t$ the excess of temperature of the ra-
+diating body.
+
+$m$ has the following values, which are
+expressed in units equal to the heat re-
+quired to raise 1000 grains of water
+$1^{\circ}$ Centigrade
+
+$$\begin{array}{l c}
+\text{For Glass} & 9.566 \\
+\text{Dry Chalk} & 8.613 \\
+\text{Dry New Red Sandstone} & 8.377 \\
+\text{Sandstone} & 8.882 \\
+\text{Polished Limestone} & 9.106 \\
+\text{Same unpolished} & 12.808
+\end{array}$$
+
+[fig]bracket pointing to formula[/fig] $\frac{\text{Total time of cooling}}{m a^{\theta} \log a} \log \frac{1 - a^{t}}{1 - a^{t}}$

@@ -1,0 +1,23 @@
+There must then be some value of $x$ for which
+$\cos x = \frac{1}{4} (\sqrt{6} + \sqrt{2})$. Then
+$\cos^{2} x = \frac{1}{16} (8 + 2\sqrt{12}) = \frac{1}{4} (2 + \sqrt{3})$
+$1 - \cos^{2} x = \frac{1}{4} (2 - \sqrt{3}) = \frac{1}{16} (8 - 2\sqrt{12})$
+$\sin x = \frac{1}{4} (\sqrt{6} - \sqrt{2})$
+Call this value of $x$ [u]one hour[/u]. Denote it by [u]$h$[/u].
+$\sin h = \frac{1}{4} (\sqrt{6} - \sqrt{2})$     $\cos h = \frac{1}{4} (\sqrt{6} + \sqrt{2})$
+$\sin 2h = \frac{2}{16} (6 - 2) = \frac{1}{2}$     $\cos 2h = \frac{\sqrt{3}}{2}$
+$\sin 3h = \sin (2h + h) = \frac{1}{8} (\sqrt{6} + \sqrt{2}) + \frac{\sqrt{3}}{8} (\sqrt{6} - \sqrt{2}) = \frac{1}{\sqrt{2}}$
+$\cos 3h = \cos (2h + h) = \frac{\sqrt{3}}{8} (\sqrt{6} + \sqrt{2}) [del]-[/del] [ins]-[/ins] \frac{1}{8} (\sqrt{6} - \sqrt{2}) = \frac{1}{\sqrt{2}}$
+$\sin 4h = \frac{\sqrt{3}}{2}$     $\cos 4h = \frac{1}{2}$
+$\sin 5h = \frac{1}{4} (\sqrt{6} + \sqrt{2})$     $\cos 5h = \frac{1}{4} (\sqrt{6} - \sqrt{2})$
+$\sin 6h = 1$     $\cos 6h = 0$
+$\sin 7h = \frac{1}{4} (\sqrt{6} + \sqrt{2})$     $\cos 7h = -\frac{1}{4} (\sqrt{6} - \sqrt{2})$
+$\sin 8h = \frac{\sqrt{3}}{2}$     $\cos 8h = -\frac{1}{2}$
+$\sin 9h = \frac{1}{\sqrt{2}}$     $\cos 9h = -\frac{1}{\sqrt{2}}$
+$\sin 10h = \frac{1}{2}$     $\cos 10h = -\frac{\sqrt{3}}{2}$
+$\sin 11h = \frac{1}{4} (\sqrt{6} - \sqrt{2})$     $\cos 11h = -\frac{1}{4} (\sqrt{6} + \sqrt{2})$
+$\sin 12h = 0$     $\cos 12h = -1$
+$\sin 13h = -\frac{1}{4} (\sqrt{6} - \sqrt{2})$     $\cos 13h = -\frac{1}{4} (\sqrt{6} + \sqrt{2})$
+$\sin 14h = -\frac{1}{2}$     $\cos 14h = -\frac{\sqrt{3}}{2}$
+$\sin 15h = -\frac{1}{\sqrt{2}}$     $\cos 15h = -\frac{1}{\sqrt{2}}$
+$\sin 16h = -\frac{\sqrt{3}}{2}$     $\cos 16h = -\frac{1}{2}$

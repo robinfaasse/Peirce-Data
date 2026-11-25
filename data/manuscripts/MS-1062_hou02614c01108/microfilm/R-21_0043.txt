@@ -1,0 +1,25 @@
+[del]\lambda_1 \beta_2 \varphi_1 + \beta_1 \varphi_2 = 0[/del]
+[del]\beta_2 \mathcal{D}_t^2 \varphi_1 + (\lambda_2 \mathcal{D}_t^2 + 1) \varphi_2[/del]
+
+[del]\beta_2 \varphi_1 = - \frac{\lambda_1 - \lambda_2}{\beta_2} \varphi_2[/del]
+
+[del](\lambda_1 + \mathcal{D}_t^2) \varphi_1 = - \beta_1 \varphi_2[/del]
+
+[u]\bar{x} \varphi_1 + \bar{x} \varphi_2[/u]
+
+[ins](\lambda_1 + 1)[/ins]
+
+$(x l_1' + x b_1) \bar{x} g_2 = (\bar{x} l_2' + \bar{x} b_2) x g_1$
+
+$\frac{x}{\bar{x}} [del]l_1' g_2[/del] + \frac{x^2}{\bar{x}^2} b_1 g_2 = \frac{\bar{x}}{x} [del]l_2' g_1[/del] + \frac{\bar{x}^2}{x^2} b_2 g_1$
+
+$\frac{\xi^2 + \frac{l_1' g_2 + l_2' g_1}{l_1' g_2} \xi}{l_1' g_2} = b_2 g_1 \frac{\bar{x}}{x}$
+
+$\xi^2 + \xi (l_1' g_2 - l_2' g_1) = b_1 b_2 g_1 g_2$
+
+$\xi = \frac{1}{2} l_2' g_1 - \frac{1}{2} l_1' g_2 \pm \sqrt{[del]\frac{1}{4}[/del] (l_1' g_2 - l_2' g_1)^2 + b_1 b_2 g_1 g_2}$
+
+[del]\frac{x-1}{x}[/del]
+[del]\frac{1}{x} - 1[/del]
+
+$\frac{\bar{x}}{x} = \frac{1}{\xi} = \frac{\xi}{g_1} - \frac{g_2}{g_1} - \frac{\xi}{g_1}$

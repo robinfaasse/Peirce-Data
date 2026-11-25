@@ -1,0 +1,36 @@
+$$A = \frac{1}{\log \left( \frac{a-r}{b-r} \cdot \frac{b-c}{a-c} \right)}$$
+where $a > b > c$
+If $r > a > b > c$
+If $a > r > b > c$
+$\frac{a-r}{a-b} = \frac{1 - \frac{r}{a}}{1 - \frac{b}{a}}$
+$\frac{r}{a} > \frac{b}{a}$
+$\frac{r}{a} > \frac{b}{a}$
+$1 - \frac{r}{a} < 1 - \frac{b}{a}$
+$\log < 0$
+$B > a$
+
+$\theta \infty \log \frac{1 - \frac{r}{a}}{1 - \frac{b}{a}} \cdot \frac{\frac{b}{c} - 1}{\frac{a}{c} - 1}$
+
+$\frac{1 - \frac{r}{a}}{1 - \frac{b}{a}} = \frac{\frac{b}{c} - 1}{\frac{a}{c} - 1}$
+$\frac{b^2 - (a+c)r}{b^2 - (a+c)b}$
+$\frac{r}{c} - \frac{r^2}{ac} + \frac{r}{a} = \frac{b}{c} - \frac{b^2}{ac} + \frac{b}{a}$
+$ar - r^2 + cr = ab - b^2 + ca$
+
+$\frac{1 - \frac{r}{a}}{1 - \frac{b}{a}} \cdot \frac{\frac{b}{c} - 1}{\frac{a}{c} - 1} > 1$
+$\frac{1 - \frac{r}{a}}{1 - \frac{b}{a}} > \frac{\frac{a}{c} - 1}{\frac{b}{c} - 1}$
+$\frac{a}{r} [del]\text{something}[/del] [ins]\frac{a}{r} + \frac{c}{r} < \frac{ac}{r^2} + \frac{b}{r}[/ins]$
+
+$ab + rc > ar + bc$
+$(a-b)b > (a-b)r$
+
+$\frac{1}{c} - \frac{1}{a} - \frac{1}{ac}$
+$\frac{1}{c} - \frac{r}{ac} - \frac{1}{a}$
+$\frac{1}{c} - \frac{b}{ac} - \frac{1}{a}$
+
+$\frac{(a-r)(b-c)}{(a-c)(r-c)}$
+$\frac{ab + rc - ac - rb}{ar + bc - ac - br}$
+$\frac{ab + rc}{ar + bc}$
+$(r-b)c - a(r-b)$
+$\frac{rc + ab}{ra + bc}$
+
+$\frac{\frac{r}{c} - 1 - \frac{rb}{ac} + \frac{r}{a}}{\frac{r}{c} - 1 - \frac{rb}{ac} + \frac{r}{a}} = \frac{\frac{r}{c} + \frac{r}{a} - (1 + \frac{rb}{ac})}{\frac{r}{c} + \frac{r}{a} - (1 + \frac{rb}{ac})}$

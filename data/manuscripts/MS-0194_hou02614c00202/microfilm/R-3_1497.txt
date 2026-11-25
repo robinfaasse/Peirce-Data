@@ -1,0 +1,61 @@
+$$r = a + \sin m \varphi$$
+$$a = 2$$
+$$m = 1/3$$
+
+$$\begin{array}{cc}
+\varphi & r \\
+0 & 2.00000 \\
+45 & 2.25882 \\
+90 & 2.50000 \\
+135 & 2.70711 \\
+180 & 2.86603 \\
+225 & 2.96593 \\
+270 & 3.00000
+\end{array}$$
+$$\begin{array}{cc}
+r & \varphi \\
+540 & [del]585[/del] \\
+495 & 585 \\
+450 & 630 \\
+405 & 675 \\
+360 & 720 \\
+315 & 765 \\
+& 810
+\end{array}$$
+$$\begin{array}{cc}
+\varphi & \\
+2.00000 & 1080 \\
+1.74118 & 1035 \\
+1.50000 & 990 \\
+1.29289 & 945 \\
+1.13397 & 900 \\
+1.03407 & 855 \\
+1.00000 &
+\end{array}$$
+
+Multiple Points.
+$$r = r'$$
+$$\sin \frac{1}{3} \varphi = \sin \frac{1}{3} \varphi'$$
+$$\frac{1}{3} \varphi = 180 - \frac{1}{3} \varphi'$$
+$$\varphi + \varphi' = 540$$
+$$\varphi - \varphi' = 360$$
+$$2 \varphi = 900$$
+$$\varphi = 450$$
+
+[fig]Three concentric circles with radial lines[/fig]
+
+$$\operatorname{cotan} \epsilon = \frac{Dr}{r}$$
+$$Dr = \frac{1}{3} \cos \frac{1}{3} \varphi$$
+$$\varphi = 90^\circ$$
+$$3 \overline{) .86603}$$
+$$\frac{[del]4[/del] .28868}{2.5} = \operatorname{cot} \epsilon$$
+$$\operatorname{cot} \epsilon = .11547 \quad \epsilon = 83^\circ 26'$$
+$$\varphi = 630$$
+$$\frac{.28868}{2.5} = \operatorname{cot} \epsilon$$
+$$\operatorname{cot} \epsilon = .11547 \quad \epsilon = 173^\circ 26'$$
+
+[del]\varphi'' + 180 = \frac{1}{3} \varphi[/del]
+[del]360 - \varphi'' = \frac{1}{3} \varphi'[/del]
+[del]\varphi'' + 540 = 1080 - 360 = 600 + 540[/del]
+$$150^\circ$$
+$$450^\circ$$

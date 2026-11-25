@@ -1,0 +1,38 @@
+Now to prove (a+b)·c \prec a + b·c
+[(\bar{a} \times [del]b[/del] [ins] \bar{b} [/ins]) \overline{\times} \bar{c}] \prec \bar{a} \times \overline{(\bar{b} \overline{\times} \bar{c})}
+or say [(a \times b) \overline{\times} c] \prec a \times (b \overline{\times} c)
+i.e [a \overline{\times} (b \overline{\times} c)] \prec (a \times b) \overline{\times} c
+
+a·(\bar{b} + c) \prec a·\bar{b} + c
+[a \overline{\times} (b \overline{\times} c)] \prec (a \times b) \overline{\times} c
+
+$\Pi_t$ a $\times$
+
+[del] a \times (b + b) \times \bar{b} + c [/del] DEC 10 1901 [ins] 200r [/ins]
+[u] (\bar{b} \overline{\times} c) \cdot \bar{a} \prec [del] \bar{a} + b + c [/del] [/u] a \prec [del] b [/del] [ins] \bar{b} [/ins]
+[u] \bar{b} + c·\bar{a} [/u] a·\bar{b}
+
+[(b \prec c) \overline{\times} a] \prec b \times (c \overline{\times} a)
+[(a \prec b) \overline{\times} c] \prec a \times (b \overline{\times} c)
+$\Pi_t$ {[(a \prec b) \prec c] \prec t} \prec a \prec [(b \prec c) \prec t]
+
+[del] [a \times (b \prec c)] [/del]
+(\bar{a} + b) \bar{c} + t
+\bar{a} + b \bar{c} + t
+
+This depends on
+[(a \times b) \overline{\times} c] \prec [a \times (b \overline{\times} c)]
+[(a \prec b) \overline{\times} c] \prec a \times (b \overline{\times} c)
+
+or (a \prec b) \overline{\times} c
+a
+$\therefore$ b $\overline{\times}$ c
+
+a \prec \bar{b} | a \prec \bar{b}
+$\therefore$ a | b \prec 0
+(a \prec b) \prec 0 | That is b \prec a \prec \bar{b}
+That is | for a \prec b \prec b
+[del] \bar{a} [/del] $\Pi$ a \prec t | [(a \prec b) \prec 0] \prec b \prec 0
+[del] a \times b [/del] [ins] \bar{a} [/ins] a \prec b
+$\therefore$ if a \prec \bar{b}
+a

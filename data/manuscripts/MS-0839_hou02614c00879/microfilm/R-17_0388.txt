@@ -1,0 +1,33 @@
+$$
+\begin{array}{c|c|c|c|c}
+k^{2} = i & m^{2} = j & km = l \\
+\hline
+k^{3} = 0 & m^{3} = 0 & k^{2}m = [del]m^{2}[/del] [ins]k^{2}m = 0[/ins] \\
+mk = gkm &
+\end{array}
+$$
+
+$$
+\begin{array}{lll}
+kA = B & kB = k^{2}A = C & kC = k^{3}A = 0 \\
+mA = D & [del]mB =[/del] \\
+kD = kmA = E & kE = k^{2}mA = 0 \\
+mB = mkA = gkmA = gE \\
+mC = mkB = gkmB = g^{2}kE = 0 \\
+mD = m^{2}A = F \\
+[del]m[/del] F = km^{2}A = 0 \\
+mE = mkD = gkmD = glkF = 0
+\end{array}
+$$
+
+$$
+\begin{array}{c}
+k = B : A + C : B + E : D \\
+m = D : A + gE : B + F : D \\
+i = k^{2} = C : A \\
+j = m^{2} = F : A \\
+l = km = E : A
+\end{array}
+$$
+
+[fig]Table with 5 rows and 5 columns containing algebraic terms and zeros[/fig]

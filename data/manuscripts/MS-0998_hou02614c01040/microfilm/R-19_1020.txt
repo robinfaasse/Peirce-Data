@@ -1,0 +1,87 @@
+[fig]geometric diagram[/fig] soit $\alpha = \cos A + i \sin A$
+[del]$b+c$[/del] $(b\alpha+c)(b+\alpha c) = (b^2+c^2)\alpha + bc(1+\alpha^2)$
+$= \alpha \left\{ b^2+c^2 + bc(\alpha+\frac{1}{\alpha}) \right\}$
+
+$a^2 = b^2+c^2 - 2bc \cos A$
+$b+ci = \sqrt{b^2+c^2} \left( \frac{b}{\sqrt{b^2+c^2}} + \frac{c}{\sqrt{b^2+c^2}} i \right)$
+$\frac{b+ci}{b+cx} = \frac{\sqrt{b^2+c^2}}{\sqrt{b^2+c^2}} \left( \frac{b}{\sqrt{b^2+c^2}} - \frac{c}{\sqrt{b^2+c^2}} i \right)$
+$a^2 + 2bc \cos A = b^2+c^2$
+
+[fig]geometric diagram[/fig]
+$M\alpha = \sqrt{b^2+c^2}$
+$\frac{b\chi+c}{b+c\chi}$
+$b^2\chi+c^2\chi+bc(1+\chi^2)$
+$\frac{1+\chi^2}{\chi}$
+$= \chi+\frac{1}{\chi}$
+
+[fig]geometric diagram[/fig]
+$\frac{b}{\sqrt{bc}} = \frac{\sqrt{b}}{\sqrt{c}} = \frac{\sqrt{bc}}{c}$
+
+[fig]geometric diagram[/fig]
+$\chi+\frac{1}{\chi} = 2\cos A$
+$\chi^2 - 2\cos A \chi = -1$
+$+\cos^2 A = -\sin^2 A$
+$\chi - \cos A = i \sin A$
+$\chi = \cos A \pm i \sin A$
+
+$\alpha' = \sqrt{\alpha} = \cos \frac{A}{2} + \sin \frac{A}{2} i$
+$a = \sqrt{(b\alpha'+\frac{c}{\alpha'})(\frac{b}{\alpha'}+c\alpha')}$
+$(b\alpha'+\frac{c}{\alpha'})(\frac{b}{\alpha'}+c\alpha') = b^2+c^2+bc(\alpha^2+\frac{1}{\alpha^2})$
+
+[fig]geometric diagram[/fig]
+$\frac{\sqrt{b^2+c^2}}{\alpha} = \alpha$
+
+[fig]geometric diagram[/fig]
+$\frac{b+ci}{b+ci}$
+$\frac{b(p+qi)+c(p-qi)}{b(p+qi)+c(p-qi)}$
+
+[fig]geometric diagram[/fig]
+$\cos 2A = \cos^2 A - \sin^2 A$
+$\cos 2A = 2\cos^2 A - 1$
+
+$a^2 = (b-c)^2 + 2bc(1-\cos A)$
+$= (b+c)^2 - 2bc(1+\cos A)$
+$= (b+c)^2 - 4bc \cos^2 \frac{1}{2}A$
+
+$\Sigma = (b+c)\frac{\alpha'+\frac{1}{\alpha'}}{2}$
+$\Delta = (b-c)(\alpha'-\frac{1}{\alpha'})$
+
+$\Sigma = (b+c)\cos \frac{A}{2}$
+$\Delta = (b-c)i\sin \frac{A}{2}$
+
+$\frac{b\alpha+\frac{c}{\alpha}}{\frac{b}{\alpha}+c\alpha}$
+
+[fig]geometric diagram[/fig]
+
+[fig]geometric diagram[/fig]
+$\alpha(\alpha+\frac{1}{\alpha})$
+
+[fig]geometric diagram[/fig]
+
+| | | |
+|---|---|---|
+| A | charrue | chapeau |
+| B | brouette | lunettes |
+| C | révolver | montre |
+| D | flûte | chemise |
+| E | palette | manteau |
+| F | [del]bêche[/del] [ins]pelle[/ins] | casquette |
+| G | arrosoir | lorgnon |
+| H | cible | horloge |
+| I | cor | caleçon |
+| J | chevalet | blouse |
+| K | faux | gants |
+| L | ruche | jumelles |
+| M | fleuret | pendule |
+| N | harpe | culotte |
+| O | blaireau | houppelande |
+| P | houx | chaussette |
+| Q | baratte | loupe |
+| R | [del]carabine[/del] | cadran |
+| S | violon | bretelles |
+| T | estompe | paletot |
+| U | herse | soulier |
+| V | greffoir | télescope |
+| X | baïonnette | cartel |
+| Y | tambour | cravate |
+| Z | mannequin | cassette |

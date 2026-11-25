@@ -1,0 +1,67 @@
+[marginalia]
+Logic, Exact
+[/marginalia]
+
+[fig]Sun-like symbol with rays[/fig] In like manner, a symbol signifies anything without appealing to an icon to convey the idea.
+
+[u]b + c = m[/u]
+[u]a (b + c) = p[/u]
+[u]ab + ac = q[/u]
+
+[marginalia]
+e < ab
+c < a
+c < b
+(c + b)
+[/marginalia]
+
+[marginalia]
+p < a
+p < m
+if y < a and y < m  y < p
+b < m
+c < m
+if b < z  c < z  m < z
+[/marginalia]
+
+[marginalia]
+s < q
+t < q
+if s < y  t < y  q < y
+s < a
+s < b
+if u < a  u < b  u < s
+t < a
+t < c
+if v < a  v < c  v < t
+[/marginalia]
+
+[marginalia]
+[fig]Vertical mathematical formula with overlines[/fig]
+[/marginalia]
+
+[marginalia]
+[fig]Vertical mathematical formula with overlines and parentheses[/fig]
+[/marginalia]
+
+[marginalia]
+p < a
+p < m
+[del]if b < a  b <[/del]
+[u]a < ab + ab[/u]
+[marginalia]
+[fig]Vertical mathematical formula with overlines[/fig]
+[/marginalia]
+[/marginalia]
+
+[marginalia]
+[fig]Small sketches of geometric shapes or figures[/fig]
+[/marginalia]
+
+[u]a (b + c) < ab + ac[/u]
+ab < [del]a + b[/del]
+ac < [del]a + c[/del]
+[u]ab + ac = ab + ac[/u]
+
+[fig]Two intersecting circles with a vertical line through the center[/fig]
+[fig]Two intersecting circles with a vertical line and a horizontal line through the center[/fig]

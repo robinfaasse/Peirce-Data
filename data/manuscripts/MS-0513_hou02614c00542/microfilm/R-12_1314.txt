@@ -1,0 +1,30 @@
+[pn]FL[/pn] [pn]80[/pn]
+
+The most important formulae are as follows:
+
+$\Pi_u \Pi_v \Pi_w$ If $u \prec v$ $u \cdot w \prec v \cdot w$; if $u \prec v$ $u w \prec v w$
+$w \cdot u \prec v \cdot u$ $w u \prec w v$
+$u + w \prec v + w$ $u \int w \prec v \int w$
+$w + u \prec w + v$ $w \int u \prec w \int v$.
+$\bar{v} \prec \bar{u}$ $\tilde{v} \prec \tilde{u}$
+
+$\Pi_u \Pi_v \Pi_w$ $(u \cdot v) \cdot w = u \cdot (v \cdot w)$ $(u v) w = u (v w)$
+$(u + v) + w = u + (v + w)$ $(u \int v) \int w = u \int (v \int w)$
+$(u + v) \cdot w \prec u + v \cdot w$ $(u \int v) w \prec u \int v w$
+$w \cdot (u + v) \prec w \cdot u + v$ $w (u \int v) \prec w u \int v$.
+$w (u + w) = w u + w v$ [del]$w \int (u v) = (w \int u) \cdot (w \int v)$[/del] [del]$(u \int v) w = u w \int v w$[/del]
+$(u + v) w = u w + v w$ [del]$(u \cdot v) \int w = (u \int w) \cdot (v \int w)$[/del] [del]$(u + v) \int w = \dots$[/del]
+[del]$\bar{\bar{u}} = u$[/del] $\bar{\bar{u}} = u$ $\tilde{\tilde{u}} = \tilde{u}$ $\tilde{\tilde{u}} = u$
+
+$\Pi_u$
+$\Pi_u \Pi_v$ $\overline{u \cdot v} = \bar{u} + \bar{v}$ $\widetilde{u v} =$ [del]$\tilde{u} + \tilde{v}$[/del] $\tilde{v} \int \tilde{u}$
+$\overline{u + v} = \bar{u} \cdot \bar{v}$ $\widetilde{u \int v} = \tilde{v} \tilde{u}$
+$\overline{u v} = \bar{u} \int \bar{v}$ $\widetilde{u \cdot v} = \tilde{v} + \tilde{u}$
+$\overline{u \int v} = \bar{u} \bar{v}$ $\widetilde{u + v} = \tilde{v} \cdot \tilde{u}$
+
+$\Pi_u$ $u + 0 = 0 + u = u$ $u \int \Upsilon = \Upsilon \int u = u$
+$u \cdot \Upsilon = \Upsilon \cdot u = u$ $u 1 = 1 u = u$
+$u \cdot \bar{u} \prec 0$ $u \tilde{u} \prec \Upsilon$
+$\Upsilon \prec u + \bar{u}$ $1 \prec u \int \tilde{u}$
+$\Upsilon \cdot u \prec \Upsilon$ $u \cdot \Upsilon \prec \Upsilon$ $u \cdot 0 \prec 0$ $0 \cdot u \prec 0$
+$1 \cdot 1 \prec u$ $1 \prec u + 1$ $\bar{0} \prec u \int \bar{0}$ $\bar{0} \prec u \int \bar{0}$

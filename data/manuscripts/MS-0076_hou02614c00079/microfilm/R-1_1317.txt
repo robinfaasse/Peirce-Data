@@ -1,0 +1,28 @@
+[pn]6[/pn]
+
+[fig]Matrix of algebraic terms[/fig]
+$$\left[ \begin{array}{cccccc}
+0, & 0, & 0, & 0, & 0, & 0, \\
+x, & 0, & 0, & z, & 0, & 0, \\
+y, & + \frac{x+z}{(r^2-1)v}, & 0, & u, & rz, & -z - \frac{z}{r^2-1}, \\
+z, & 0, & 0, & 0, & 0, & 0, \\
+u, & rz, & x, & v, & 0, & -rz, \\
+v, & 0, & 0, & z, & 0, & 0.
+\end{array} \right]$$
+
+Of course, every algebra may be put into
+relative form in [del]any[/del] [ins]an[/ins] infinity of ways, and
+simpler may than that which the rule affords
+can often be found. Thus, for the above algebra,
+the form given in the foot-note is simpler, and so
+is the following.
+$i = (B:A) + (C:B) + (F:D) + (C:E)$, $j = (C:A)$,
+$k = (D:A) + (E:D) + (C:B) + r(F:B) + r(C:F)$,
+$l = (F:A) + (C:D)$,
+$m = (E:A) + (r^2-1)(C:B) [del]-[/del] [ins]\mathbf{-}[/ins] (B:A) - (F:D) - (C:E)$.
+These different forms will suggest different [del]forms[/del] transformations of the [del]multiplication[/del] algebra.
+Thus the [u]relative form[/u] in the foot-note [ins]to (645)[/ins] suggests
+putting
+$i_1 = i + m$, $j_1 = [del]i[/del] [ins]r[/ins]j$, $k_1 = k + \frac{1}{r}i + \frac{1}{r}m$, $l_1 = rl + [del]r[/del] [ins]s[/ins]j$, $m_1 = -m$
+when we get the following multiplication table.
+where $s$ is put for $r^{-1}$

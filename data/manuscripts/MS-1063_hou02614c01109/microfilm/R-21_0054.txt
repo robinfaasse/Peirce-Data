@@ -1,0 +1,43 @@
+[fig]Circle with intersecting lines[/fig]
+
+[fig]Pyramid-like diagram with a hanging weight[/fig]
+
+$$\frac{1}{\cos x - \cos A} = \infty$$
+
+$$x = \pm A \pm 2n\partial$$
+
+$$f x = \frac{1}{\sin x}$$
+
+[fig]Triangle diagram with intersecting lines[/fig]
+
+$$\sin(A \pm n\partial)$$
+
+$$\log(x-A)$$
+
+$$- \frac{1}{\sin(\pm A + 2n\partial)} \quad x \neq A - 2n\partial$$
+
+$$- \frac{1}{\sin A} \frac{1}{(x-A)} + \frac{1}{\sin A} \frac{1}{x+A}$$
+
+$$- \frac{1}{\sin A} \frac{1}{x-A-2\partial} + \frac{1}{\sin A} \frac{1}{x+A-2\partial}$$
+
+$$- \frac{1}{\sin A} \frac{1}{x-A+2\partial} + \frac{1}{\sin A} \frac{1}{x+A+2\partial}$$
+
+---
+
+$$- \frac{\cos A}{\sin A} = \frac{1}{dA} + \frac{1}{2A-dA}$$
+
+$$\frac{2A}{(2A-dA)dA}$$
+
+$$\frac{d\cos A}{\sin A} = dA - \frac{(dA)^2}{2A}$$
+
+$$- \cot A$$
+
+[fig]Profile drawing of a man's face[/fig]
+
+$$(1 - \frac{1}{2} x^2)(1 - \frac{1}{3.4} x^2)$$
+
+$$\left(1 - \frac{1}{2} (\phi^2-A^2)\right) \left(1 - \frac{1}{3.4} (\phi^2+A^2)\right)$$
+
+$$\cos \phi - \cos A = \frac{1}{2} (\phi^2-A^2) + \frac{1}{4!} (\phi^4-A^4) - \frac{1}{6!} (\phi^6-A^6) + \text{etc}$$
+
+$$\cos \alpha = 1 - \frac{1}{2} \alpha^2 + \frac{1}{4!} \alpha^4 - \frac{1}{6!} \alpha^6 + \text{etc}$$

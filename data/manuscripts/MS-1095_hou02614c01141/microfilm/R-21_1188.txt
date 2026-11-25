@@ -1,0 +1,26 @@
+$$x = \beta \cos \theta + (\alpha^2 - a^2)$$
+
+$$x = \beta \cos \theta + \log \frac{\alpha}{a}$$
+
+[del]$$(\beta - n) \cos \theta - \alpha$$[/del]
+$$(\beta - n) \cos \theta + \frac{\alpha}{a} b \cos \theta$$
+
+[del]$$\beta - \log \frac{\beta}{b}$$[/del]
+
+$$(F\beta - Fb) \left\{ \text{——} \quad (F\alpha - Fa) \text{ [del]}\times[/del] \right\} \cos$$
+
+$$\frac{[del]F\beta[/del]}{Fa}$$
+
+$$\frac{F\beta - Fb}{F\beta - Fb + F\alpha - Fa}$$
+
+$$x = \frac{1}{1 + \frac{\alpha^2 - a^2}{\beta^2 - b^2}} \beta \cos \theta$$
+
+$$\begin{aligned}
+\alpha^2 &= x^2 + (y - c)^2 \\
+\beta^2 &= x^2 + y^2 \\
+\beta^2 - \alpha^2 &= (2y - c)c
+\end{aligned}$$
+
+$$x = [del]\times[/del] \frac{\beta^2 - b^2}{[del]x^2 - a^2 - \beta^2 + b^2[/del]}$$
+
+$$\frac{\beta^2 - b^2}{\beta^2 - \alpha^2 + a^2 - b^2} \beta \cos c = \frac{x^2 + y^2 - b^2}{2yc - c^2 + a^2 - b^2} x$$

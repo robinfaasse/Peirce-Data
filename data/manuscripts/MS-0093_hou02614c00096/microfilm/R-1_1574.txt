@@ -1,0 +1,81 @@
+[pn]76[/pn] [pn]Secp 78[/pn]
+
+Given [math]\psi t = \frac{a+bt}{c+et}[/math] Required [math]\psi^n t[/math]
+
+The best way is first to [del]not[/del] express [math]\psi t[/math] in the form
+[del][math]B \psi^n = -1 + \frac{1+ACt}{1+Ct}[/math][/del]
+[del][math]= \frac{(A-1)Ct}{1+Ct}[/math][/del]
+
+[math]\frac{b}{c} - a = AB[/math]
+[math]\frac{b}{c} + 1 = A+B[/math]
+[math](\frac{b}{c})^2 + 2\frac{b}{c} + 1 = (A+B)^2[/math]
+[math](\frac{b}{c})^2 - 2\frac{b}{c} + 1 + 4a = (A-B)^2[/math]
+
+[math]a = \frac{A+B-1-AB}{c}[/math]
+[math]\frac{b}{c} = A+B-1[/math]
+[math]C = \frac{e}{c}[/math]
+
+[math]\psi^{n+1} = \frac{(A+B-1-AB) + (A+B-1)C\psi^n}{C + C^2\psi^n}[/math]
+
+[math]\frac{A+B-1-AB}{c} = \frac{a}{c}[/math]
+[math]A+B-1 = \frac{b}{c}[/math]
+[math]C = \frac{e}{c}[/math]
+[math]A+B-1 - \frac{a}{c} C = AB[/math]
+[math]" - \frac{ae}{c^2} = AB[/math]
+[math]" + 1 = A+B[/math]
+[math]\frac{b}{c} + 1 = A+B[/math]
+[math]\sqrt{(\frac{b}{c}-1)^2 + 4\frac{ae}{c^2}} = A-B[/math]
+[math]A = \frac{1}{2} \frac{b+c}{c} + \frac{1}{2} \frac{b-c}{c} \sqrt{1+\frac{4ae}{(b-c)^2}}[/math]
+
+where [math]A[/math] & [math]B[/math] [math]\} = \frac{b+1}{2} \pm \frac{b-1}{2} \sqrt{1+\frac{ae}{c^2 (\frac{b-1}{2})^2}}[/math] [math]C = \frac{e}{c}[/math]
+
+Then
+[math]C\psi^{n+1} + 1 = \frac{A+B-AB + (A+B)C\psi^n}{C\psi^n + 1}[/math]
+[math]= \frac{(A+B)(C\psi^n + 1) - AB}{C\psi^n + 1}[/math]
+
+Put [math]C\psi^n + 1 = \frac{u_{n+1}}{u_n}[/math] and the equation becomes
+[math]u_{n+2} - (A+B)u_{n+1} + AB u_n = 0[/math]
+of which the solution is
+[math]u_n = C_1 A^n + C_2 B^n[/math]
+
+[math]C\psi^n + 1 = \frac{1+C_2 (\frac{B}{A})^n}{1+C_2 (\frac{B}{A})^{n-1}}[/math]
+[math]C\psi^n = \frac{1+C_2 (\frac{B}{A})^n - 1 - C_2 \frac{A}{B} (\frac{B}{A})^n}{1+C_2 \frac{A}{B} (\frac{B}{A})^n}[/math]
+[math]C\psi^n + 1 = A \frac{1+\frac{C_2}{A} (\frac{B}{A})^n}{1+\frac{C_2}{B} (\frac{B}{A})^n}[/math]
+[math]C\psi^n = \frac{(A-1) + (B-1) \frac{C_2}{B} (\frac{B}{A})^n}{1+\frac{C_2}{B} (\frac{B}{A})^n}[/math]
+
+[math]\psi^n = \frac{\frac{A-1}{C} + \frac{B-1}{C} \frac{C_2}{B} (\frac{B}{A})^n}{1+\frac{C_2}{B} (\frac{B}{A})^n}[/math]
+
+[marginalia]Useless[/marginalia]
+
+[math]A + \frac{B-A}{1 + \frac{C_2}{B} (\frac{B}{A})^n}[/math]
+
+[math]\frac{1}{A} = \frac{\frac{b+1}{2} - \frac{b-1}{2} \sqrt{1+\frac{16ae}{c^2(b-1)^2}}}{b - \frac{4ae}{c^2}}[/math]
+[math]\frac{1}{AC} = \frac{c}{e} \frac{\frac{b+1}{2} - \frac{b-1}{2} \sqrt{1+\frac{16ae}{c^2(b-1)^2}}}{b - \frac{4ae}{c^2}}[/math]
+
+[math]A-B = (b-1) \sqrt{1+\frac{16ae}{c^2(b-1)^2}}[/math]
+[math]\frac{A-B}{A-C} = \frac{\frac{(b-1)^2}{2} + \frac{8ae}{c^2} + \frac{b^2-1}{2} \sqrt{1+\frac{16ae}{c^2(b-1)^2}}}{b - \frac{4ae}{c^2}} \frac{c}{e}[/math]
+
+[math]\frac{B}{A} = \frac{\frac{b^2+1}{2} + \frac{4ae}{c^2} - \frac{b^2-1}{2} \sqrt{1+\frac{16ae}{c^2(b-1)^2}}}{b - \frac{4ae}{c^2}}[/math]
+[math]= \frac{(b^2+1)c^2 + 8ae - c \sqrt{b^2-1^2 c^2 + 16ae(b-1)^2}}{2bc^2 - 4ae}[/math]
+
+[pn]77[/pn]
+
+[math]t = \frac{\mathcal{C} \frac{A-B}{AC}}{1 + \mathcal{C}}[/math]
+
+[del]&[/del] [math]\frac{1}{t} = \frac{1}{\mathcal{C}} \frac{AC}{A-B} + \frac{AC}{A-B}[/math]
+
+[math]\frac{A-B}{ACt} - 1 = \frac{1}{\mathcal{C}}[/math]
+
+[math]\mathcal{C} = \frac{1}{\frac{A-B}{ACt} - 1} = \frac{ACt}{A-B-ACt}[/math]
+
+[math]\psi^n = \frac{\frac{(A-B)t}{A-B-ACt} (\frac{B}{A})^n}{1 + \frac{ACt}{A-B-ACt} (\frac{B}{A})^n}[/math]
+
+[del][math]A = R \mathcal{G}[/math] [math]B = R \mathcal{G}[/math][/del] [fig]diagram showing relations between variables[/fig] [del][math]R = \mathcal{G}[/math] [math]R = \mathcal{G}[/math][/del]
+If we make [math]A = \frac{R}{\mathcal{G}}[/math] [math]B = R\mathcal{G}[/math]
+so that [math]R^2 = AB = (\frac{b+1}{2})^2 - (\frac{b-1}{2})^2 - \frac{4ae}{c^2} = b - \frac{4ae}{c^2}[/math]
+[math]R = +\sqrt{b-\frac{4ae}{c^2}}[/math]
+
+[marginalia]Useless[/marginalia]
+
+[math]\mathcal{G}^2 = \frac{B}{A} = \frac{(\frac{b+1}{2})^2 + (\frac{b-1}{2})^2 + \frac{4ae}{c^2} - (\frac{b^2-1}{2}) \sqrt{1+\frac{16ae}{c^2(b-1)^2}}}{(\frac{b+1}{2})^2 - (\frac{b-1}{2})^2 - \frac{4ae}{c^2}}[/math]
+[math]= \frac{\frac{b^2+1}{2} + \frac{4ae}{c^2} - \frac{b^2-1}{2} \sqrt{1+\frac{16ae}{c^2(b-1)^2}}}{b - \frac{4ae}{c^2}}[/math]

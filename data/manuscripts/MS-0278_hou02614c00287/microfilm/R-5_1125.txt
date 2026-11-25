@@ -1,0 +1,63 @@
+[fig]Graph with numbered nodes and edges[/fig]
+
+[del]ab < ac[/del]
+[del]b < c[/del]
+ab < ac
+
+Either [del]s[/del] [ins]s[/ins] is not [del]p + q[/del] [ins]p + q[/ins] or whatever c may be, either c < b or b < c
+[del]a (b + 1) = ab + a[/del]
+
+Either c > b
+ac > ab + a
+ca > ba + a
+
+Either c > b
+ac > ab + a
+[del]ca > ba + a[/del]
+[del]ac > ab[/del]
+
+Either b has not every [del]ch of c[/del] [ins]el of c[/ins]
+and ab + a has every ch of ac
+and ac has every ch
+Either
+[del]b has every el. of c.[/del]
+or ac has every ch. of ab + a
+[del]c < a[/del]
+
+[u]If a > 0 ab > b[/u]
+Either a = 0 or ab = 0
+or a > 0 ab > b
+
+Either [del]a > 1[/del]
+[del]a > 1[/del]
+
+[u]If a < b ab < a[/u]
+
+[del]then[/del] a + b < a + c
+b + a < c + a
+
+Either b < c or a + b < a + c
+[del]b + a < c + a[/del]
+
+[del]Either[/del] b < c or a + b < a + c
+[del]b + a < c + a[/del]
+
+[fig]Matrix of numbers and lines[/fig]
+
+[fig]Directed graph representing partial order[/fig]
+
+[del]a + b < c[/del]
+[del](a + b) (a + c)[/del]
+[del](b + a) c[/del]
+
+[del]or b < c[/del]
+[del]a + b < a + c[/del]
+[del]b + a < c + a[/del]
+
+Either b < c
+[del]a + b < a + c[/del]
+[del]b + a < c + a[/del]
+
+[fig]Geometric diagrams of lines and angles[/fig]
+
+[fig]Venn-like diagrams of overlapping circles[/fig]

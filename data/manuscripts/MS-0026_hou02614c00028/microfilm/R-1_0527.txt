@@ -1,0 +1,15 @@
+[marginalia]On Multitude[/marginalia] [pn]8[/pn]
+
+[u]Art. 6[/u]. A [u]dyadic relation[/u] is a predicate of an ordered pair of subjects, of which one, the grammatical subject, is called the [u]relate[/u], and the other, the grammatical object is called the [u]correlate[/u].
+
+We may write
+$$r_{\alpha\underline{b}\underline{c}}$$
+to mean, "the individual [u]b[/u] is in the relation $\alpha$ to the individual [u]c[/u]", or, to use more convenient locutions, "[u]b[/u] is $\alpha$ of [u]c[/u]", or "[u]b[/u] is $\alpha$ to [u]c[/u]", or "[u]c[/u] is $\alpha$'d by [u]b[/u]."
+
+Two axioms must be added to our list [del]rel[/del] to formulate the properties of relations.
+
+[u]Axiom 4[/u]. Given any two collections, whether different from or identical with each other, there is a relation such that every unit of [del]the[/del] either collection is in that relation to every unit of the other; and if anything is in that relation to anything, the relate [del]belongs to[/del] [ins]is a unit of[/ins] the former collection and the correlate of the latter. That is,
+(8) $\Pi_{\alpha}\Pi_{\beta}\Sigma_{\gamma}\Pi_{\underline{x}}\Pi_{\underline{y}}\ \ (\overline{q}_{\alpha\underline{x}} + \overline{q}_{\beta\underline{y}} + r_{\gamma\underline{x}\underline{y}})\cdot(q_{\alpha\underline{x}} + \overline{r}_{\gamma\underline{x}\underline{y}})\cdot(q_{\beta\underline{y}} + \overline{r}_{\gamma\underline{x}\underline{y}})$.
+
+[u]Axiom 5[/u]. Given any relation whatever and any collection whatever, there is a collection such that [ins]no[/ins] [del]any[/del] unit of the former collection is in that relation to anything but a unit of the latter collection, and every unit of the former collection is in that relation to every unit of the latter. That is,
+(9) $\Pi_{\alpha}\Pi_{\beta}\Sigma_{\gamma}\Pi_{\underline{x}}\Pi_{\underline{y}}\ (\overline{r}_{\alpha\underline{x}\underline{y}} + \overline{q}_{\beta\underline{x}} + q_{\gamma\underline{y}})\cdot(r_{\alpha\underline{x}\underline{y}} + \overline{q}_{\beta\underline{x}} + \overline{q}_{\gamma\underline{y}})$.

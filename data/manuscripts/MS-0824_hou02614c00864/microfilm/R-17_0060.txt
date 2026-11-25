@@ -1,0 +1,67 @@
+[marginalia]
+Synthemes
+[/marginalia]
+
+$b_d$ $ab.cd.ef$
+$b_e$ $ab.ce.df$
+$b_f$ $ab.cf.de$
+$c_d$ $ab.bd.ef$
+$c_e$ $ac.be.df$
+$c_f$ $ac.bf.de$
+$d_e$ $ad.bc.ef$
+$d_f$ $ad.bd.cf$
+$e_c$ $ae.bc.df$
+$e_d$ $ae.bd.cf$
+$e_f$ $ae.bf.cd$
+$f_c$ $af.bc.de$
+$f_d$ $af.bd.ce$
+$f_e$ $af.be.cd$
+
+$(ab)b_1 = b_1$
+$(ab)b_2 = b_2$
+$(ab)b_3 = b_3$
+
+[fig]Diagram with six points labeled a, b, c, d, e, f[/fig]
+
+$A = b_d.c_e.d_f.e_d.f_c$
+$B = b_d.c_f.d_e.e_c.f_d$
+$C = b_e.c_f.d_d.e_c.f_d$
+$D = b_f.c_d.d_f.e_c.f_e$
+$E = b_e.c_f.d_c.e_d.f_e$
+$F = b_e.c_d.d_e.e_d.f_c$
+
+| | | D | C | B | A |
+|---|---|---|---|---|---|
+| [del]A[/del] | [del]B[/del] | [del]C[/del] | [del]D[/del] | [del]E[/del] | [del]F[/del] |
+| | E | F | C | D | | |
+| | | | E | | B |
+| | | F | | | |
+| | | | | E | C |
+| | | | | F | D |
+| | | | E | B | C |
+| | | | E | D | F |
+| | | F | E | | |
+| | | F | | | |
+| | | | F | F | |
+| | | | E | F | |
+| | | F | | | |
+| | | | | | |
+| | | F | | | |
+
+| | | $b_d$ | $b_e$ | $b_f$ | $c_d$ | $c_e$ | $c_f$ | $d_e$ | $d_f$ | $e_c$ | $e_d$ | $e_f$ | $f_c$ | $f_d$ | $f_e$ |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| $ab$ | $l_y$ | $b_e$ | $b_f$ | $b_d$ | $c_e$ | $c_f$ | $c_d$ | $d_f$ | $d_e$ | $e_d$ | $e_c$ | $e_f$ | $f_d$ | $f_c$ | $f_e$ |
+| $ac$ | $d_e$ | $e_f$ | $f_c$ | $c_d$ | $c_e$ | $c_f$ | $b_f$ | $f_d$ | $a_c$ | $b_e$ | $f_d$ | $a_c$ | $b_f$ | $e_d$ | $d_e$ |
+| $ad$ | $c_d$ | $f_d$ | $e_d$ | $b_d$ | $f_d$ | $e_f$ | $d_e$ | $d_f$ | $c_f$ | $e_c$ | $e_d$ | $e_f$ | $d_d$ | $b_d$ | $b_d$ |
+| $ae$ | $f_e$ | $c_e$ | $d_e$ | $f_d$ | $b_e$ | $d_f$ | $f_e$ | $b_f$ | $c_f$ | $e_c$ | $e_d$ | $e_f$ | $d_d$ | $f_d$ | $f_e$ |
+| $af$ | $e_f$ | $d_f$ | $c_f$ | $e_d$ | $d_e$ | $b_f$ | $e_f$ | $c_e$ | $b_e$ | $d_c$ | $b_d$ | $f_c$ | $f_d$ | $f_e$ | $f_d$ |
+| $bc$ | $c_d$ | $c_e$ | $c_f$ | $b_d$ | $l_e$ | $l_y$ | $d_e$ | $d_f$ | $d_e$ | $e_f$ | $e_d$ | $f_c$ | $f_e$ | $f_d$ | $f_e$ |
+| $bd$ | $d_c$ | $d_f$ | $d_e$ | $c_d$ | $c_f$ | $c_e$ | $b_d$ | $l_y$ | $b_e$ | $e_f$ | $e_d$ | $e_e$ | $f_d$ | $f_c$ | $f_e$ |
+| $be$ | $e_f$ | $e_c$ | $e_d$ | $c_f$ | $c_e$ | $c_d$ | $d_f$ | $d_e$ | $d_c$ | $b_e$ | $b_d$ | $f_d$ | $f_e$ | $b_f$ | $l_d$ |
+| $bf$ | $f_e$ | $f_d$ | $f_c$ | $c_e$ | $c_d$ | $c_f$ | $d_e$ | $d_f$ | $e_d$ | $e_c$ | $e_f$ | $b_f$ | $b_e$ | $l_d$ | $f_e$ |
+| $cd$ | $b_d$ | $b_f$ | $b_e$ | $d_e$ | $d_f$ | $c_d$ | $c_e$ | $c_f$ | $e_d$ | $e_c$ | $e_f$ | $f_d$ | $f_c$ | $f_e$ | $f_d$ |
+| $ce$ | $b_f$ | $b_e$ | $b_d$ | $e_d$ | $e_c$ | $e_f$ | $d_e$ | $d_f$ | $c_d$ | $c_e$ | $c_f$ | $f_c$ | $f_d$ | $f_e$ | $f_c$ |
+| $cf$ | $b_e$ | $b_d$ | $b_f$ | $f_d$ | $f_e$ | $f_c$ | $d_f$ | $d_e$ | $d_c$ | $e_f$ | $e_d$ | $c_d$ | $c_e$ | $c_f$ | $c_e$ |
+| $de$ | $b_e$ | $b_d$ | $b_f$ | $c_e$ | $c_f$ | $c_d$ | $e_c$ | $e_d$ | $e_f$ | $d_c$ | $d_e$ | $d_f$ | $f_c$ | $f_d$ | $f_c$ |
+| $df$ | $b_f$ | $b_e$ | $b_d$ | $c_f$ | $c_e$ | $c_d$ | $f_c$ | $f_e$ | $f_d$ | $e_c$ | $e_f$ | $e_d$ | $d_c$ | $d_e$ | $d_d$ |
+| $ef$ | $b_f$ | $b_e$ | $b_d$ | $c_f$ | $c_e$ | $c_d$ | $d_f$ | $d_e$ | $d_c$ | $f_c$ | $f_d$ | $f_e$ | $e_c$ | $e_d$ | $e_c$ |

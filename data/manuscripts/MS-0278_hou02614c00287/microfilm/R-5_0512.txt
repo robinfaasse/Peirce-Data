@@ -1,0 +1,23 @@
+[u]Axiom[/u] 6. The effect of [del]increasing[/del] [ins]substituting for[/ins] either term of a sum the number next higher is to make the value of the sum the number next higher than its previous value.
+
+[u]Axiom[/u] 7. 0 + 0 = 0.
+
+[u]Theorem[/u]. [u]Addition is a commutative mode of combination[/u].
+
+[u]Demonstration[/u]. Let X and Y be any numbers whatever. Then, I say that X + Y = Y + X.
+
+For in the definition of addition there is nothing to distinguish one term from the other. Hence, [ins]supposing Y smaller than X and[/ins] starting with [del]Y + Y[/del] [ins]values next higher till X is reached[/ins] and successively substituting [del]Y, 2, 3, ... X[/del] for the first [del]term[/del] has the same effect as making the same substitutions for the second term. Hence X + Y = Y + X. Q.E.D.
+
+[del][u]Theorem[/u]. [u]Addition is an associative mode of combination[/u].
+
+[u]Demonstration[/u].[/del]
+
+[u]Theorem[/u]. [u]The addition of zero to a number does not alter the number[/u].
+
+[u]Demonstration[/u]. [del]Let X be any number whatever, then I say that 0 + X = X.[/del]
+
+Suppose this true for [del]any[/del] [ins]N'[/ins] number N. Then it is true for the number next greater than N. For if 0 + N = N, then by axiom 6 0 + N' = N'
+
+But it is true for N = 0. Hence it is true for all numbers. [del]hence for X.[/del]
+
+[u]Corollary[/u]. N + 0 = N

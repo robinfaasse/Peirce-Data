@@ -1,0 +1,29 @@
+[marginalia]
+[pn]30[/pn]
+[date]1909 May 18[/date] [ins]AM[/ins]
+MEANING
+[/marginalia]
+
+[del]Product[/del] [ins]Subtract[/ins] from the other, He thus gets
+
+[fig]curly bracket grouping equations[/fig]
+$1^{\text{st}}\text{ Eq.} \times 21 \qquad 11\cdot 21\ x + 12\cdot 21\ y = 0$
+$2^{\text{nd}}\text{ Eq.} \times 11 \qquad 11\cdot 21\ x + 11\cdot 22\ y = 0$
+
+Difference of these [del]of[/del] [ins]by[/ins] $y$
+$11\cdot 22 - 12\cdot 21 = 0$
+
+He ought to have [del]denoted[/del] [ins]written[/ins] this $\left| \begin{smallmatrix} 11, & 12 \\ 21, & 22 \end{smallmatrix} \right| = 0$; but this notation was a perception reserved for Cauchy. However, pursuing the suggestion of his above results, [ins]Leibniz[/ins] [del]he[/del] next went on to the equations
+
+$\text{I} = 11\ x + 12\ y + 13\ z = 0$
+$\text{II} = 21\ x + 22\ y + 23\ z = 0$
+$\text{III} = 31\ x + 32\ y + 33\ z = 0$
+
+and wrote out $\left| \begin{smallmatrix} 22, & 23 \\ 32, & 33 \end{smallmatrix} \right| + \left| \begin{smallmatrix} 32, & 33 \\ 12, & 13 \end{smallmatrix} \right| + \left| \begin{smallmatrix} 12, & 13 \\ 22, & 23 \end{smallmatrix} \right| = 0$
+
+Substituting the [del]full expressions[/del] [ins]values[/ins] of I, II, and III, he obtains
+
+[fig]crossed out terms and arrows[/fig]
+$+ y \cdot \left| \begin{smallmatrix} 22, & 23 \\ 32, & 33 \end{smallmatrix} \right| [del]\cdot 12\cdot 23\cdot 32[/del] + [del]12\cdot 22\cdot 33[/del] y + \left( \begin{smallmatrix} 13\cdot 22\cdot 33 \\ - 13\cdot 23\cdot 32 \end{smallmatrix} \right) z \ [del]= 0[/del]$
+$+ 21 \cdot \left| \begin{smallmatrix} 32, & 33 \\ 12, & 13 \end{smallmatrix} \right| x + \left( \begin{smallmatrix} - 22\cdot 12\cdot 33 \\ + 22\cdot 32\cdot 13 \end{smallmatrix} \right) y + \left( \begin{smallmatrix} 23\cdot 32\cdot 13 \\ - 23\cdot 12\cdot 33 \end{smallmatrix} \right) z \ [del]= 0[/del]$
+$+ 31 \cdot \left| \begin{smallmatrix} 12, & 13 \\ 22, & 23 \end{smallmatrix} \right| x + (-$

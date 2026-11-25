@@ -1,0 +1,29 @@
+[date]1909 Nov 16 PM 11:45[/date]
+Map coloring on sphere
+Imagine a map partly drawn, so as to cover the whole surface
+
+[fig]Small circular map with three regions labeled A, B, C[/fig] [fig]Circular map with regions labeled A, B, C, surrounded by D[/fig] [del]If one[/del] A new line not covering [del]any[/del] [ins]one[/ins] region [del]D[/del] can [del]have[/del] [ins]take[/ins] the color [del]after the[/del] it does not touch.
+
+[fig]More complex map with regions A, B, C, D[/fig]
+
+But if it covers a region it may [del]regu[/del] call for a recoloring
+
+[fig]Three diagrams showing a line covering part of region C, labeled A, B, C, D[/fig] the color of the covered region being changed
+
+[fig]Three diagrams showing a line crossing region C, labeled A, B, C, D[/fig] the covered region taking the color from which it is separated
+
+---
+
+[fig]Two diagrams showing a line covering region C, labeled A, B, C, D[/fig] The covered region cannot be uncovered in another place because of K=0
+
+[fig]Two diagrams showing complex region boundaries, labeled A, B, C, D[/fig]
+
+[fig]Two diagrams showing complex region boundaries, labeled A, B, C, D[/fig] [fig]Star-like diagram with regions labeled A, B, C, D, E, F[/fig]
+
+[fig]Small circular diagram with regions[/fig]
+
+[fig]Infinity symbol[/fig]
+
+[fig]Concentric circles with dotted outer boundary, labeled A, B, C, D[/fig] [fig]Complex nested circular map with regions labeled A, B, C, D, E, F[/fig]
+
+[fig]Star-like diagram with regions labeled A, B, C, D, E, F[/fig] [fig]Concentric circles with a dividing channel[/fig]

@@ -1,0 +1,26 @@
+[pn]Logic
+III
+22[/pn]
+
+[ins][del]To prove[/del] [ins]It is evident[/ins] that the unenclosed iteration of an unenclosed part has no effect.[/ins] [u]Proof[/u]. I will begin by proving that if a graph contains
+two ovals one inside the other, any unenclosed part of it can
+be iterated within the two ovals. For let the unenclosed parts
+to be iterated be A, and the rest that is unenclosed be B.
+Let the singly enclosed part be C, and the doubly enclosed
+part be D. Then the graph before iteration will be
+
+[fig]Existential graph with nested ovals containing letters A, B, C, D[/fig]
+
+while after the iteration it will [del]be[/del] [ins]have[/ins] become
+
+[fig]Existential graph with nested ovals containing letters A, B, C, D, A[/fig]
+
+I have to prove that if what the former asserts is true, so is
+what the latter asserts.
+
+[fig]Oval containing D[/fig] asserts that D is not V; [fig]Oval containing C and nested oval containing D[/fig] that C is V and D is
+not V. [fig]Oval containing C and nested oval containing D[/fig] asserts that [del]either C is V if C is V, then D is V.[/del]
+[fig]Oval containing A, B, and nested ovals containing C and D[/fig] asserts that A is V, that B is V, and that if C is V, then
+D is V. [fig]Oval containing A, B, and nested ovals containing C, D, and A[/fig] asserts that same thing, except that
+if C is V then both D is V and A is V. But since A is asserted
+to be V in any case, the [del]last[/del] addition is without effect. Hence,

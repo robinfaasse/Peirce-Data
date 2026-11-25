@@ -1,0 +1,35 @@
+On the Expression of $3^n$ in the secundal.
+
+The coef. of $2^0$ is 1
+" " " $2^1$ is congruent to $n \pmod 2$
+" " " $2^2$ is 0
+" " " $2^3$ is the coef of $2^1$ in the expression of $n$
+" " " $2^4$ is the coef of $2^2$ in the expression of $n+1$
+" " " $2^5$ is $C_0 C_2 + C_1 + C_3 C_2 + C_2 C_5 (C_1 + 1)$
+" " " $2^6$ is [del]$C_2 C_0 + C_2 C_2 C_0$[/del] [ins]$C_4 + C_5 C_4 + C_3 C_2 + C_2 (C_2+1)$[/ins] [del]$+ C_3$[/del]
+" " " $2^7$ is [del]$(C_2+1)(C_2+1) C_2 C_4 + C_2 C_5 + C_2 C_6$[/del] [ins]$C_0 + (C_2+1) C_2 (C_5+1)$[/ins]
+" " " $2^8$ is $C_4 + C_3 C_0 + (C_5 + C_3 C_2 + C_1) C_2 C_0$
+
+$C_0 = 1$ $C_1 = 0$ $C_2$
+
+Let $C_p$ be the coeff of $2^p$ in $n$
+
+[fig]Calculations and binary tables[/fig]
+
+$\Delta^0 = 1 \pmod 2$
+$\Delta^2 = 1 + n$
+$\Delta^4 = $
+
+Coeff of $2^6$
+changes after | Do not change after
+011 | 000
+100 | 001
+101 | 010
+
+$(C_2+1)$
+
+$(C_2-1) C_0$ $C_2 = 1$
+$C_1 = 0$
+
+If $C_2 = 0$ $x = C_4$
+If $C_2 = 1$ $x = C_5 +$

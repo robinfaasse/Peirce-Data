@@ -1,0 +1,52 @@
+[pn]34[/pn]
+
+[u]Report on Line Loads[/u]
+
+$\alpha_2 \Lambda_1 + \Lambda_2 \Lambda'_2 = 20.256$
+$\delta x_1 = 1.0981103038$
+$-(\alpha_2 \Lambda_1 - \Lambda_2 \Lambda'_2) \delta x_1 = -22.243320270$
+
+$\beta_2 K_1 = 96$
+$\delta y_1 = 3.569297030$
+$-\beta_2 K_1 \delta y_1 = -342.6525149$
+$\frac{-22.2433203}{-364.8958352}$
+
+$1 \div \text{Denom} \quad .01083940340$
+
+$\begin{array}{r} 47328 \\ .98692 \\ \hline 146020 \\ 51364 \\ \hline 5330460 \\ 659565 \\ \hline 4670895 \\ 23354 \end{array}$
+$\begin{array}{r} 25650 \\ 18012 \\ \hline 43662 \\ 7638 \\ \hline 476592 \\ 14584 \\ \hline 462008 \\ 23100 \end{array}$
+
+$\begin{array}{r} 4732898692 \\ 2565018012 \\ \hline \text{Quarter Squares} \end{array}$
+
+$\begin{array}{r} 559984896 + 23354 \\ 164480625 + 2310 \\ \hline 395504271 + 21044 \\ 21044 \end{array}$
+
+$\delta x_2 - \delta x_1 \quad \begin{array}{r} -395525315 \\ 1.09811030 \\ \hline -2.85714285 \end{array}$
+
+$\delta x_2$
+
+$\begin{array}{r} .1928352_{19776_{7296}} \\ .2108371783296 \end{array}$
+
+$\alpha_2 K_1 = 0.192$
+$\delta x_1 = 1.0981103038$
+$\alpha_2 K_1 \delta x_1 = 0.2108371783$
+
+$\beta_2 H_1 + \Lambda'_1 \Lambda'_2 = 92$
+$\delta y_1 = 3.569297030$
+$(\beta_2 H_1 + \Lambda'_1 \Lambda'_2) \delta y_1 = 328.3753268$
+$\frac{.2108372}{328.5861640}$
+$.01083940340$
+
+$\begin{array}{r} 43698 \\ 198 \\ \hline 86524 \\ 433 \end{array}$
+$\begin{array}{r} 22019 \\ 213 \\ \hline 4686 \\ 4047 \\ \hline 4690047 \\ 2345 \end{array}$
+
+$\begin{arrayr} 4369801980 \\ 2201921300 \\ \hline \text{Quarter Squares} \end{array}$
+
+$\begin{array}{r} 477378801 + 433 \\ 121209090 + 2345 \\ \hline 356169711 - 1912 \\ 1912 \end{array}$
+
+$\delta y_1 - \delta y_2 \quad \begin{array}{r} 3.56167799 \\ 3.56929703 \\ \hline .00761904 \end{array}$
+
+$\delta y_1$
+
+$\delta y_2$
+
+$\delta \text{Var} (\delta x_2 - \delta x_1)$

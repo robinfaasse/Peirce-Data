@@ -1,0 +1,32 @@
+$$(x-a)(x-b) = m$$
+$$x^2 - (a+b)x + ab = m$$
+$$x^2 - (a+b)x + [del]\frac{a^2+2ab+b^2}{4}[/del] [ins]\frac{(a+b)^2}{4}[/ins] = m + \frac{a^2+2ab+b^2}{4}$$
+
+$$x$$
+$$4x^2 - 4(a+b)x + 4ab = 4m$$
+$$4x^2 - 4(a+b)x + a^2+2ab+b^2 = 4m + (a-b)^2$$
+$$2x - a - b = \sqrt{4m + (a-b)^2}$$
+$$x = \frac{1}{2}(a+b) + \frac{1}{2}\sqrt{4m + (a-b)^2}$$
+
+$$x = 6^{V-\theta} \qquad y = 6^{V-\frac{1}{2}\theta}$$
+$$Dy = -V-6^{V-\theta} \int y d\theta = \sqrt{2} 6^{V-\frac{1}{2}\theta}$$
+
+[fig]scribble[/fig]
+
+$$\int y dx =$$
+
+***
+
+$$F(i,j,\theta) = \cos\theta \cdot i + \sin\theta \cdot j$$
+$$F^2(i,j,\theta) = \cos^2\theta - \sin^2\theta$$
+$$= -1$$
+
+$$F(i,j,\theta) F(i,j,\theta_2)$$
+$$= (\cos\theta_1 i + \sin\theta_1 j)(\cos\theta_2 i + \sin\theta_2 j)$$
+$$= -\cos(\theta_2 - \theta_1) + \sin(\theta_2 - \theta_1)k$$
+$$= F(-1, k, \theta_2-\theta_1)$$
+
+$$F(i,j,\theta) F(i,k,\theta)$$
+$$= (\cos\theta i + \sin\theta j)(\cos\theta i + \sin\theta k)$$
+$$= -\cos^2\theta + \sin^2\theta i - \cos\theta\sin\theta j$$
+$$\qquad\qquad\qquad\quad - \cos\theta\sin\theta k$$

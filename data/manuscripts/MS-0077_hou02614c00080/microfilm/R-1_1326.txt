@@ -1,0 +1,28 @@
+[pn]14[/pn]
+
+9. The number of independent vectors in
+the algebra cannot be two. For the vector
+of [u]ij[/u] is independent of [u]i[/u] and [u]j[/u]. There
+may be no vector, [del]and[/del] [ins]in[/ins] that case we have the
+ordinary algebra of reals; or there may
+be only one vector, and in that case we
+have the ordinary algebra of imaginaries.
+
+Let [u]i[/u] and [u]j[/u] be two independent vectors
+such that
+[u]ij[/u] = s + [u]v[/u].
+Let us substitute for [u]j[/u]
+[u]j[/u]₁ = s[u]i[/u] + [u]v[/u].
+Then we have
+[u]ij[/u]₁ = [u]v[/u], [u]j[/u]₁[u]i[/u] = -[u]v[/u],
+[u]j[/u]₁[u]v[/u] = [u]j[/u]₁[u]ij[/u]₁ = -[u]j[/u]₁²[u]i[/u] = [u]i[/u],
+[u]vj[/u]₁ = [u]ij[/u]₁² = -[u]i[/u],
+[u]iv[/u] = [u]i[/u]²[u]j[/u]₁ = -[u]j[/u]₁, [u]vi[/u] = [u]ij[/u]₁[u]i[/u] = -[u]j[/u]₁[u]i[/u]² = [u]j[/u]₁.
+Thus we have the algebra of [del]unit[/del] [ins]real[/ins] quaternions.
+
+Suppose we have a fourth [del]vector[/del] vector, [u]k[/u], linearly
+independent of all the others, and let us write
+[u]j[/u]₁[u]k[/u] = s' + [u]v[/u]',
+[u]ki[/u] = s'' + [u]v[/u]''.
+Let us substitute for [u]k[/u]
+[u]k[/u]₁ = s''[u]i[/u] + s'[u]j[/u]₁ + [u]k[/u],

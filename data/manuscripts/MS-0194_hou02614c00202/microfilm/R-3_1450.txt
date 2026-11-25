@@ -1,0 +1,29 @@
+[pn]7[/pn]
+
+$$dq = a \frac{-\sin\varphi \sqrt{\ \ } + \frac{1}{2}\cos^2\varphi \frac{e^2 \sin\varphi}{\sqrt{\ \ }}}{1 - e^2 \sin^2\varphi} d\varphi$$
+
+$$= a \frac{(1-e^2)\sin\varphi}{(1-e^2\sin^2\varphi)^{\frac{3}{2}}} d\varphi$$
+
+$$dw = \frac{\sqrt{1-e^2}}{a} \frac{\cos\varphi}{\sqrt{1-e^2\sin^2\varphi}} \frac{\sqrt{1-e^2\sin^2\varphi}}{\sqrt{(1-e^2)(\sin^2\Phi - \sin^2\varphi)}} \frac{\frac{(1-e^2\sin^2\Phi)(1-\sin^2\varphi) - (1-\sin^2\Phi)(1-e^2\sin^2\varphi)}{\sqrt{\ \ }}}{\cos\varphi \sqrt{1-e^2\sin^2\varphi}} d\varphi$$
+
+Now on a polar projection the turning equals
+
+$$\frac{d(w+\alpha)}{d\varphi}$$
+
+But this needs verification and also examination of the signs -
+
+Since $ds = \frac{1}{Q} q^2 dw$
+
+$q \sin\alpha = Q$
+
+$ds = Q \frac{1}{\sin^2\alpha} dw$
+
+[fig]Right triangle with hypotenuse ds, base q dw, and angle alpha[/fig]
+
+Since $\sin\varphi = \sqrt{\frac{1-\cos^2 u}{1-e^2\cos^2 u}}$ and $q = a \cos u$
+
+$$\sin\varphi = \sqrt{\frac{a^2-q^2}{a^2-e^2 q^2}}$$
+
+Scale chart = [del]$+$[/del] $\left(\frac{\sqrt{a^2+e^2 q^2} + \sqrt{a^2-e^2 q^2}}{\sqrt{a^2+e^2 q^2} - \sqrt{a^2-e^2 q^2}}\right)^{\frac{e}{2}} \frac{\sqrt{1 - e^2 \frac{a^2-q^2}{a^2-e^2 q^2}}}{a(1 + \sqrt{\frac{a^2-q^2}{a^2-e^2 q^2}})}$
+
+$$= \left(\frac{\sqrt{a^2+e^2 q^2} + \sqrt{a^2-e^2 q^2}}{\sqrt{a^2+e^2 q^2} - \sqrt{a^2-e^2 q^2}}\right)^{\frac{e}{2}} \frac{\sqrt{1-e^2}}{\sqrt{a^2-e^2 q^2} + \sqrt{a^2-q^2}}$$

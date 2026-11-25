@@ -1,0 +1,28 @@
+Existential Graphs
+[u]4[/u].
+
+[u]B. Derivative Rules.[/u]
+
+[u]Rule XI[/u] Any unenclosed part of a graph can be erased.
+Proof. Given graph AB, you can infer B, 
+because by Rule I I can erase A standing alone,
+then by Rule II I can erase it if it is an unenclosed
+part of [del]any[/del] a graph.
+
+[u]Rule XII[/u] (corollary from [u]XI[/u].) Any unenclosed connecting
+line may be broken. [fig]Sins — sings[/fig] can be transformed [fig]Sins[/fig] to [fig]— Sins — sings[/fig]
+Example.
+
+[u]Rule XIII[/u] (an extension of Rule [u]III[/u]) Any unenclosed part of a
+graph may be repeated with all its connections.
+Example. “Sins — sings” may be made [fig]“Sins — sings”
+Sins[/fig]
+By Rule III we can write [fig]Sins — sings
+John
+Sins John sings -[/fig]
+Then by Rule IV [fig]Sins — sings
+John
+John
+Sins — sings[/fig]
+And By Rule XI striking out all we do not want; [fig]Sins — sings
+Sins[/fig]

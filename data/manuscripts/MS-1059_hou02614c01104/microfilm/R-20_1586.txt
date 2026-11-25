@@ -1,0 +1,39 @@
+[pn]1[/pn]
+
+A nodal cubic
+
+$$x = - \frac{y}{c+y} (1-c) \left[ 1 \pm \sqrt{1 - \left(\frac{y+c}{1-c}\right)^2} \right]$$
+
+Multiply by $\frac{c+y}{y(1-c)}$
+
+[del]$x$[/del] $\frac{x(c+y)}{1-c} = -1 \mp \sqrt{1 - \left(\frac{y+c}{1-c}\right)^2}$
+
+Transpose
+
+$\frac{x}{y} \frac{[del]y[/del][ins]y[/ins]+c}{1-c} + 1 = \mp \sqrt{1 - \left(\frac{y+c}{1-c}\right)^2}$
+
+Square and subtract 1
+
+$\frac{x^2}{y^2} \left(\frac{y+c}{1-c}\right)^2 + 2 \frac{x}{y} \frac{y+c}{1-c} = - \left(\frac{y+c}{1-c}\right)^2$
+
+Transpose
+
+$\left(1 + \frac{x^2}{y^2}\right) \left(\frac{y+c}{1-c}\right)^2 + 2 \frac{x}{y} \frac{y+c}{1-c} = 0$
+
+Divide by $\frac{y+c}{(1-c)^2}$ Multiply by $y^2$
+
+$(x^2 + y^2)(y+c) + 2xy(1-c) = 0$
+
+Eliminate between this and the straight line
+
+$y = 2x + 2$
+$y^2 = 4x^2 + 8x + 4$
+
+$(5x^2 + 8x + 4)(2x + 2 + c) + \frac{4}{3.6} (x(x+1)(1-c) = 0$
+
+[marginalia]$c = \frac{1}{10}$[/marginalia]
+
+$\begin{aligned} 10x^3 &+ 16x^2 + 8x \\ &+ 10x^2 + 16x + 8 \\ &+ [del]5[/del][ins]5[/ins]x^2 + [del]0[/del]8x + [del]0.4[/del][ins]0.4[/ins] \\ &+ 3.6x^2 + 3.6x \end{aligned}$
+
+$10x^3 + 30.1x^2 + [del]29[/del][ins]28[/ins].4x + 8.4 = 0$
+$x^3 + 3.01x^2 + [del]2.94[/del][ins]2.84[/ins]x + .84 = 0$

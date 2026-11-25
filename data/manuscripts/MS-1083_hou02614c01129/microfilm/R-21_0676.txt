@@ -1,0 +1,44 @@
+[pn]157[/pn]
+
+For the present purpose we may assume,
+
+$$\theta - \omega = A \sin \left( t \sqrt{\frac{g}{R}} + \epsilon \right)$$
+
+$$\cos (\theta - \omega) = 1 - \frac{1}{2} (\theta - \omega)^2 [del]= 1 - \frac{1}{2} A^2 \sin^2 \left( t \sqrt{\frac{g}{R}} + \epsilon \right)[/del]$$
+
+$$D_t (\theta - \omega) = \sqrt{\frac{g}{R}} A \cos \left( t \sqrt{\frac{g}{R}} + \epsilon \right)$$
+
+$$(D_t (\theta - \omega))^2 = \frac{g}{R} A^2 \cos^2 \left( t \sqrt{\frac{g}{R}} + \epsilon \right) = \frac{g}{R} A^2 - \frac{g}{R} A^2 \sin^2 \left( t \sqrt{\frac{g}{R}} + \epsilon \right) = \frac{g}{R} A^2 - \frac{g}{R} (\theta - \omega)^2$$
+
+$$\Rightarrow D_t^2 l = \frac{[ins]1 + A^2[/ins] - \frac{3}{2} (\theta - \omega)^2}{\cos \omega} g - \frac{E}{m} l + \frac{C}{m}$$
+
+Now we have [del]accurately[/del], $\omega = \theta (1 - \frac{l}{R})$ But $\frac{l}{R}$ differs [del]extremely[/del] [ins]very[/ins] little from unity and $\theta$ is also a small quantity consequently $\omega$ is wholly negligible and $\cos \omega$ may be taken as unity. We have therefore
+
+$$\Rightarrow D_t^2 l = - \frac{3}{2} g (\theta - \omega)^2 - \frac{E}{m} l + (1 + A^2) g + \frac{C}{m}$$
+
+[del]Now $D_t^2 (\theta - \omega)^2 = 2 (D_t (\theta - \omega))^2 + 2 (\theta - \omega) D_t^2 (\theta - \omega)$[/del]
+
+[del]But $D_t^2 (\theta - \omega) = - \frac{g}{R} (\theta - \omega)$[/del]
+
+[del]So that $D_t^2 \{ (\theta - \omega)^2 \} = 2 \frac{g}{R} A^2 - 4 \frac{g}{R} (\theta - \omega)^2$[/del]
+
+Now $(\theta - \omega)^2 = \frac{1}{2} A^2 - \frac{1}{2} A^2 \cos (2 \sqrt{\frac{g}{R}} t + 2 \epsilon)$
+
+And we may write $\psi = \frac{1}{2} A^2 \cos (2 \sqrt{\frac{g}{R}} t + 2 \epsilon)$
+
+Then
+
+$$D_t^2 l = \frac{3}{2} g \psi - \frac{E}{m} l + (1 + \frac{1}{4} A^2) g + \frac{C}{m}$$
+
+$$\cos (\theta - \omega) = 1 - \frac{1}{2} (\theta - \omega)^2$$
+$$= 1 - \frac{1}{4} A^2 + \frac{1}{2} \psi$$
+$$\psi = 2 \cos (\theta - \omega) + (\frac{1}{2} A^2 - 2)$$
+so that $(\theta - \omega)^2 = \frac{1}{2} A^2 - \psi$
+
+and or putting $L$ for the mean value of $l$ $D_t^2 (l - L) = \frac{3}{2} g \psi - \frac{E}{m} (l - L)$. Now
+
+$$D_t^2 \psi = - 4 \frac{g}{R} \psi$$
+
+and hence
+
+$$D_t^2 \left\{ \frac{4 \frac{g}{R} - \frac{E}{m}}{\frac{3}{2} g} (l - L) + \psi \right\} = - \frac{E}{m} \left\{ \frac{4 \frac{g}{R} - \frac{E}{m}}{\frac{3}{2} g} (l - L) + \psi \right\}$$

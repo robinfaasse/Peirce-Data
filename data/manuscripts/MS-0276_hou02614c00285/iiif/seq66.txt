@@ -1,0 +1,41 @@
+Petersburg Problem
+
+Suppose 1024 trials
+
+512 times I shall pay $1  $512
+256 " "  $2  512
+128 " "  $4  512
+64 " "  $8  512
+32 " "  $16  512
+16 " "  $32  512
+8 " "  $64  512
+4 " "  $128  512
+2 " "  $256  512
+1 " "  $512  512
+[u]          [/u]          [u]          [/u]
+1023  Total  $5120
+
+If I am paid [ins]or[/ins] $10 a time I gain
+
+But suppose there are to be [ins]1024
+                                 2048
+                                 4096[/ins] trials
+                                 1048576
+                                 [u]          1[/u]
+[del]Then each line[/del]  1048575 trials
+Then 524288 times I shall pay $1  $524288
+
+and in 1048575 trials I shall pay  $10485760
+
+and I shall want to be paid $20 a time
+
+This I am confident would always be
+enough. If there were to be but 31 trials
+16 or fewer I should pay $1  $16
+8 " "  $2  16
+4 " "  $4  16
+2 " "  $8  16
+1 I might pay  $16  16
+     [u]          [/u]
+     31)80
+$3 would be enough

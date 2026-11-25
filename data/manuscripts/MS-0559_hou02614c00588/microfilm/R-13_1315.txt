@@ -1,0 +1,26 @@
+[u]Rules of Logical Aggregation and Composition[/u].
+
+1. The signs $+$ and $\cdot$ are associative. That is
+$(x + y) + z = x + (y + z)$
+$(x \cdot y) \cdot z = x \cdot (y \cdot z)$.
+
+2. [del]To a[/del] [ins]Any[/ins] aggregant may be inserted or any component dropped without decrease of veritability. Any component may be inserted or any aggregant dropped without increase of [del]veritit[/del] veritability [ins]*[/ins].
+
+3. If any expression occurs twice in a formula, and one occurrence is [del]subordinate to the other (that is, in a parenthesis to or which the other is without,[/del] while the [del]latter[/del] is not in any parenthesis which the other is without, the latter may be [del]omitted[/del] [ins]made $0$[/ins] without loss of veritability, or the [del]former[/del] [ins]former[/ins] [del]omitted[/del] [ins]made $\infty$[/ins] without gain of veritability.
+
+Thus these inferences hold
+$$\begin{array}{ccc}
+x + (x y) & & x (x + y) \\
+\therefore x + 0 y & & \therefore x (1 + y)
+\end{array}$$
+
+[del]$x y + x (x + y)$[/del]
+
+$$\begin{array}{l}
+x (y + z) \\
+x (y + z) + z \\
+x z + z = z \\
+(x + y) y = y
+\end{array}$$
+
+[ins]*[/ins] First used by [del]O. H. Mitchell[/del] [ins]Mrs. Franklin[/ins], Studies in Logic, by Members of the Johns Hopkins University, p. 34.

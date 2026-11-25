@@ -1,0 +1,36 @@
+[u]Another way of treating[/u]
+the problem.
+
+$v = D_s + r D_\phi$
+
+$T = \frac{1}{2} \Sigma m [D_s + r D_\phi]^2$
+
+$D_{\phi'} T = \Sigma (mr) . D_s + \Sigma mr^2 . D_\phi$
+$D_{s'} T = \Sigma m . D_s + \Sigma mr . D_\phi$
+
+$D_\phi \Omega = - mgh \phi$ $D_s \Omega = - \epsilon s$
+
+The equations are
+$\Sigma mr . D_s^2 + \Sigma mr^2 . D_\phi^2 \phi = - mgh \phi$
+$\Sigma m D_s^2 + \Sigma mr D_\phi^2 \phi = - \epsilon s$
+
+[del]$\Sigma mr D_s^2 + \Sigma mr^2 D_\phi^2 \phi = - \Sigma mgh \phi$[/del]
+$\Sigma m r D_s^2 + (\Sigma mr) D_\phi^2 \phi = - \Sigma mr \epsilon s$
+
+$(\Sigma m D^2 + \epsilon) \Sigma mr D_s + (\Sigma m D^2 + \epsilon) \Sigma mr^2 D \phi = - (\Sigma m D^2 + \epsilon) \Sigma mgh \phi$
+
+$(\Sigma m \Sigma mr^2 D^4 + [(\epsilon - \Sigma m) \Sigma mr^2 + (\Sigma m)^2 gh] D^2 - (\Sigma m)^2 - \epsilon \Sigma m) gh$
+
+$D^4 + [ [del]\frac{\epsilon}{\Sigma m} - \frac{1}{r}[/del] + \frac{(\Sigma m)^2 gh}{\Sigma mr^2} ] D^2 = (\frac{\Sigma m}{\Sigma mr^2} - \frac{1}{\Sigma mr^2}) gh$
+
+---
+
+$[D^2 (\Sigma mr + \epsilon \Sigma m) s + (\Sigma mr^2 + \epsilon \Sigma mr) \phi =]$
+$- (\Sigma mgh \phi + \epsilon s)$
+
+$x \epsilon \Sigma mr + x^2 \epsilon \Sigma m = gh (\Sigma m)^2 + xgh \Sigma m \Sigma mr$
+
+$x^2 - x (\frac{\Sigma mr}{\Sigma m} - \frac{gh}{\epsilon} \Sigma mr) = \frac{gh}{\epsilon} \Sigma m$
+
+$x = \frac{1}{2} (\frac{\Sigma mr}{\Sigma m} - \frac{gh}{\epsilon} \Sigma mr)$
+$\pm \sqrt{\frac{gh}{\epsilon} \Sigma m + (\frac{\Sigma mr}{\Sigma m} - \frac{gh}{\epsilon} [del]\Sigma mr[/del])^2 (\Sigma mr)^2}$

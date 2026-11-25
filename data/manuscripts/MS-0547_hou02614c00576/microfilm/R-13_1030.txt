@@ -1,0 +1,29 @@
+That is, if $x$ is true (of the individual spoken of)
+$y$ is true. So that
+$$\begin{array}{c}
+x \prec y \\
+\begin{array}{c|c}
+\text{is true} & \text{is false} \\
+\text{when} & \text{when} \\
+x = \mathfrak{f}\ \ y = \mathfrak{f}; & x = \mathfrak{v}\ \ y = \mathfrak{f}. \\
+x = \mathfrak{f}\ \ y = \mathfrak{v}; & \\
+x = \mathfrak{v}\ \ y = \mathfrak{v}. & 
+\end{array}
+\end{array}$$
+Hence the formula $x \prec x$ is necessarily true.
+In writing formulae containing the copula $\prec$ several
+times, let it be understood that parentheses ex-
+tending to the end of the formula or to the end
+of an enclosing parenthesis are to be omitted.
+Thus,
+$$x \prec y \prec z = x \prec (y \prec z)$$
+$$(x \prec y \prec z) \prec w = (x \prec (y \prec z)) \prec w.$$
+
+It is plain that $x \prec y \prec z$ is false only if $x = \mathfrak{v}$
+$(y \prec z) = \mathfrak{f}$, that is only if $x = \mathfrak{v}$, $y = \mathfrak{v}$, $z = \mathfrak{f}$;
+and so for any formula written without
+parentheses. Hence, the truth of such a for-
+mula is not affected by the transposition
+of any letters except the last. Also, any
+such formula containing an $\mathfrak{f}$ in any place but
+the last is true.

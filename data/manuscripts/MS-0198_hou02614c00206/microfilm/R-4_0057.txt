@@ -1,0 +1,9 @@
+Then, the points where these rays cut $\{AB\}$ are the points of division required.
+
+<u>Demonstration</u>. For by the reasoning of Exercise , each division is equal to the next one.
+
+<u>Problem</u>. Given a ray, $\{a\}$, Required a ray $\{x\}$ perpendicular to it and passing through the centre of the fixed circle.
+
+<u>Solution</u>. Parallel to $\{a\}$ draw the ray $\{a'\}$ cutting the fixed circle in the points $[M]$ and $[N]$; draw also parallel to $\{a\}$ draw $\{a''\}$ cutting the fixed circle in $[P]$ and $[Q]$. Draw $\{MP\}$ and $\{NQ\}$ as well as $\{MQ\}$ and $\{NP\}$. Then the ray $\{[\{MP\}\{NQ\}][\{MQ\}\{NP\}]\}$ is the ray $\{x\}$ required.
+
+<u>Demonstration</u>. Let $[O]$ be the centre of the fixed circle. Then, from $[O]$ let a perpendicular $\{p\}$ be let fall upon $\{a'\}$ and $\{a''\}$. Then, since the triangles $MON$ and $POQ$ are isosceles, $\angle OMN = \angle ONM$ and $\angle OPQ = \angle OQP$. Whence [del]$\angle PQM = \angle POQ - \angle MON$[/del] $= \angle OPQ - \angle OMN = \angle OQP - \angle ONM = \angle QON$. Hence arc $MP$ = arc $NQ$. Hence, by Theorem , $\angle MNP = \angle NMQ$. In the isosceles triangle $MON$ the perpendicular bisects the base $MN$. [del]Hence, in the two triangles[/del] [ins]calling $[\{MP\}\{NQ\}]$ by the simple designation $[S]$,[/ins] [del]and the points[/del] [del]the two triangles[/del] Hence, in the two triangles $\{p\}\{MQ\}\{MN\}$ and $\{p\}\{NP\}\{MN\}$, the angle $\{p\}\{MN\}$ of the one equals the angle $\{p\}\{MN\}$ of the other,

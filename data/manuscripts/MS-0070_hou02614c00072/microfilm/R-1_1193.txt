@@ -1,0 +1,16 @@
+[pn]N10[/pn]
+
+$\cdot$ The utility of the symbols $2, 3,$ etc can be further increased by using
+them as follows:
+
+$\begin{aligned}
+2_{xii} & = 2_{xi}\cdot 2_{xj}\cdot \mathsf{T}_{ij} \\
+3_{xii} & = 3_{xi}\cdot 3_{xj}\cdot \mathsf{T}_{ij}
+\end{aligned}$
+
+$\begin{aligned}
+1_{xi} & & 1_{xij} & = 1_{xi} \cdot 1_{xj} \\
+2_{xi} & & 2_{xij} & = 2_{xi}\cdot 2_{xj}\cdot \mathsf{T}_{ij} & 2_{xijk} & = 2_{xi}\cdot 2_{xj}\cdot 2_{xk}\cdot \mathsf{T}_{ijk} \\
+3_{xi} & & 3_{xij} & = 3_{xi}\cdot 3_{xj}\cdot \mathsf{T}_{ij} & 3_{xijk} & = 3_{xi}\cdot 3_{xj}\cdot 3_{xk}\cdot \bar{2}_{ijk} \\
+4_{xi} & & 4_{xij} & = 4_{xi}\cdot 4_{xj}\cdot \mathsf{T}_{ij} & 4_{xijk} & = 4_{xi}\cdot 4_{xj}\cdot 4_{xk}\cdot \bar{2}_{ijk}
+\end{aligned}$

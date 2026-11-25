@@ -1,0 +1,23 @@
+Form VII gives no necessary formula.
+Form VIII gives no necessary formula.
+Form IX gives
+$$\text{U} \prec \{[\text{V} \prec (\text{X} \prec \text{Y})] \prec \text{U}\}$$
+$$\text{U} \prec \{[\text{U} \prec (\text{U} \prec \text{V})] \prec \text{V}\}$$
+Form X gives no necessary formula.
+Form XI gives
+$$\{[\text{U} \prec (\text{V} \prec \text{V})] \prec \text{X}\} \prec \text{X}$$
+Best proved by the principle that [del]If[/del] [ins]If[/ins] X Then $(\text{X} \prec \text{Y}) \prec \text{Y}$
+$$\{[\text{U} \prec (\text{V} \prec \text{U})] \prec \text{X}\} \prec \text{X}$$
+$$\{[\text{U} \prec (\text{V} \prec \text{X})] \prec \text{V}\} \prec \text{V}$$
+This requires proof. Assume $\text{U} \prec (\text{V} \prec \text{X}) \prec \text{V}$. If now we
+assume $\text{U} \prec (\text{V} \prec \text{X})$ then we must assume V. But if we
+do not since this is $\text{V} \prec (\text{U} \prec \text{X})$ we must by $\text{A}'$ assume V.
+$$\{[\text{U} \prec (\text{V} \prec \text{X})] \prec \text{U}\} \prec \text{U}$$ Reduced to last by $3'$
+
+Form XII gives
+$$\text{U} \prec \{[(\text{V} \prec \text{X}) \prec \text{Y}] \prec \text{U}\}$$
+$$\text{U} \prec \{[\text{V} \prec \text{V}) \prec \text{X}] \prec \text{X}\}$$
+$$\text{U} \prec \{[\text{V} \prec \text{U}) \prec \text{X}] \prec \text{X}\}$$ By the principle of contradict.
+
+Form XIII gives no necessary formula
+Form XIV gives no necessary formula

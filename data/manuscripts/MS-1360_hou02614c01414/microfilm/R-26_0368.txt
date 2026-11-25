@@ -1,0 +1,41 @@
+§ I now adapt the above equations to a continuous distribution of the weight. [del]Hence the notation[/del] [ins]We need the additional[/ins] letters
+
+$\rho$, radius of curvature
+$r = \sqrt{x^2+y^2}$, the distance from the origin [del]viewed[/del] [ins]measured[/ins] from the origin
+$\theta = \arctan \frac{y}{x}$, the [del]elevation[/del] [ins]angle[/ins] of the point [del]above[/del] [ins]from[/ins] the origin
+[del]$\xi$ is put for $\frac{x}{y}$[/del]
+[del]We generally have[/del]
+
+The subscript letter denoting the point, [del]as[/del] [ins]$\underline{n}$,[/ins] to be omitted, as a general rule. But it [del]with[/del] [ins]often[/ins] can be written when convenient.
+
+An accent added to a variable $x, y, r, \theta, \xi, \omega$ shows that the origin is at $H$, the lowest point
+
+[fig]Diagram of a curve with tangent line[/fig]
+
+[del]$x'_0 = -x_H$ whence $y'_0 = -y_H$[/del]
+$x' = x - x_H$ and since $x_0 = 0$ $x'_0 = -x_H$ while $x'_H = 0$
+$y' = y - y_H$ and since $y_0 = 0$ $y'_0 = -y_H$ while $y'_H = 0$
+$x' = r' \cos \theta'$ $y' = r' \sin \theta'$
+$x = r \cos \theta$ $y = r \sin \theta$
+
+$\omega' = \omega - \omega_H$ and since $\omega_0 = 0$ $\omega'_0 = -\omega_H$
+
+[fig]Diagram of a curve[/fig]
+
+$\frac{x'}{y'} = \frac{x - x_H}{y - y_H}$
+
+$\overset{m}{x}_n = \frac{x_m + x_n}{2} + \frac{x_m - x_n}{2} \frac{\sin(\tau_m + \tau_n)}{\sin(\tau_m - \tau_n)} = \frac{\frac{y_m - y_n}{\tan \tau_m - \tan \tau_n} \tan \tau_m + (x_n - \frac{y_n}{\tan \tau_n}) \tan \tau_n}{\sin(\tau_m - \tau_n)}$
+
+[del]As $\tau_n < 0$[/del] Either $\tau_n < 0$ or else $y_m > y_n$ is so large as to make $\overset{m}{x}_n < x_m$
+
+[fig]Diagram of a curve with tangent line[/fig]
+
+$\frac{\omega'}{Q} = Q \tan \tau$
+
+$\overset{\tau}{x}_P = \frac{((\omega_q - \omega_P) \overset{q}{x}_P + (\omega_r - \omega_q) \overset{r}{x}_q}{\omega_r - \omega_P}$
+
+$\overset{w}{x}_0 = \frac{(\omega_N - \omega_H) \overset{N}{x}_H + (\omega_H \overset{H}{x}_0}{\omega_N} = \frac{(\omega_N - \omega_H) (X - \overset{w}{x}_H) - \omega_H \overset{H}{x}_0}{y_N} = \frac{\overset{w}{\omega}_N x_H - \omega_N \overset{w}{x}_0}{(\omega_N - \omega_H) X - \omega_N \overset{w}{x}_0}{y_N}$
+
+$\overset{w}{x}_0' = $ [del]$\overset{w}{x}_0$[/del]
+
+$Q = \frac{\omega'_N x_N - \omega_N \overset{w}{x}_0'}{y_N}$

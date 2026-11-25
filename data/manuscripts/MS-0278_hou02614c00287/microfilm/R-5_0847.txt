@@ -1,0 +1,41 @@
+The equation of a general ellipsoid, in rectangular coordinates, [ins]parallel to its smallest axis, 2X, [del]if[/del] [ins]and[/ins] parallel to [del]its[/del] [ins]greatest[/ins] axis, 2Z,[/ins] parallel to its third axis, 2Y, and origin of coordinates being at the centre of the ellipsoid is
+
+1) [space] $(x/X)^2 + (y/Y)^2 + (z/Z)^2 = 1$
+
+But when $X = Y$ the [del]boundary[/del] [ins]equator[/ins] of the greatest plane section is assumed to be circular, we have,
+
+2) [space] $Y = X$
+
+and the equation becomes
+
+3) [space] $\frac{x^2+y^2}{X^2} + (\frac{z}{Z})^2 = 1$
+
+Now shifting the origin to the [ins]negative[/ins] extremity of the shorter axis, we write, and calling the new coordinate which will be always positive z, [del]we shall have[/del]
+
+4) [space] $z = Z - z$
+
+[del]and then putting[/del] [ins]transforming[/ins] to cylindrical coordinates, so that
+
+5) [space] $x^2 + y^2 = r^2$
+
+equation (3) will appear as
+
+6) [space] $(r/X)^2 + (Z-z)/Z^2 = 1$
+
+Finally, if we take (6) as the equation of the mean sea surface, we shall have, according to Mr. Hayford, for the compression of the earth, [del]where writing r and z for x & z[/del]
+
+7) [space] $\frac{X-Z}{X} = \frac{1}{297}$ or $\frac{X-Z}{Z} = \frac{1}{296}$ or $Z = \frac{296}{297} X$ or $X = (1 + \frac{1}{296}) Z$
+
+or $\frac{X}{Z} (1 + \frac{1}{296}) = \frac{X^2}{Z^2} = (1 + \frac{1}{296})^2$
+
+putting $E = \frac{1}{148}$ $X^2 = (1 + \frac{1}{148 \frac{1}{2}}) Z$ $X^2 = (1 + \frac{1}{148} + \frac{1}{148^2}) Z^2$
+
+[fig]mathematical calculations in grid[/fig]
+
+$X^2 = Z^2 (1 + \frac{1}{143 \frac{1}{2}})$ [del]with no known error[/del] [ins]with no known error[/ins]
+
+Call this $X^2 = (1+E) Z^2$
+
+$E = \frac{1}{143 \frac{1}{2}}$
+
+$E = 288.9$

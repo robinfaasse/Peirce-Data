@@ -1,0 +1,30 @@
+[pn]Multitude[/pn] [pn]24[/pn]
+
+stitute the entire circuit of a ray, say R. Whether R be finite, infinite, or
+imaginary makes no difference.
+
+Having arrived at this point, Euclid's demonstration comes in very
+conveniently, with slight modification to prove
+that it is that triangle of which the sum of any
+two sides is less than R of which it is also
+[fig]Geometric diagram with points A, B, C, D, E, F'[/fig]
+[del]true[/del] that the sum of any two internal angles is less than 180°. Namely, BC is
+bisected at E. The line AE is continued [del]and a[/del] [ins]point[/ins] F' is taken such that
+EF' = AE. Then joining F' to C and to B by straight lines, and comparing
+the triangles AEB and FEC, the two sides and included angle of the one are [del]equal[/del]
+[del]to[/del] the two sides and included angle of the other; and consequently the angle
+BCF equals the angle ABC. Moreover, as the triangles BEF and CEA, two sides
+[del]and the[/del] included angle of the one are equal to those of the other, and BF' equals
+AC. Then the sum of AB and BF' is less than the circuit of a ray; and consequently
+so is AF'. This is what Euclid fails to show. Hence, [ins]the angle[/ins] BCF' is a finite part of [ins]the angle[/ins] BCD, or
+the sum of [del]the internal angles[/del] [ins]A and B[/ins] is less than 180°.
+
+As Euclid leaves the proof, the point F' might fall within the triangle
+ABC, when it would prove that the external angle at B to be less than the
+internal angle at C, in other words would disprove the proposition to be proved.
+
+[ins]You see now what I meant when[/ins] I said the Theorem was not much of [del]a Theorem[/del]. I mean that it does
+not help in the least to prove that the sum of the three angles of a triangle
+is not greater than two right angles. It is in fact true of a spherical triangle
+none of whose pairs of sides exceed 180°. It follows, at once, from Gauss's equation
+$\cos \frac{1}{2}(A+B) = \cos \frac{1}{2}(a+b) \frac{\sin \frac{1}{2}C}{\cos \frac{1}{2}c}$.

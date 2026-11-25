@@ -1,0 +1,53 @@
+[pn]56[/pn]
+
+So also
+$u_{x+1} u_{x} + \sqrt{(1-u_{x+1}^{2})(1-u_{x}^{2})} = a_{x}$
+
+Put $u_{x} = \cos v_{x}$
+$a_{x} = \cos \Delta v_{x}$
+$u_{x} = \cos (C + \Sigma \text{arc} \cos a_{x})$
+
+[u]$u_{x+2} + \{\phi x + \phi(x+1) + a\} u_{x+1} + [(\phi x)^{2} + a \phi x + b] u_{x} = X$[/u]
+
+This is
+$\left\{ (E + \phi x)^{2} + a(E + \phi x) + b \right\} u_{x} = X$
+
+Put $E + \phi x = \pi$
+$(\pi^{2} + a \pi + b) u_{x} = X$
+$u_{x} = N_{1} \frac{1}{\pi - \alpha} X + N_{2} \frac{1}{\pi - \beta} X$
+
+Solve this by two equations of first order
+
+[pn]57[/pn]
+
+Eqs of Partial Differences
+
+$u_{x+1, y} = u_{x, y+1}$
+
+$\left[ \text{Obviously } (E_{x} = E_{y}) u_{x, y} \right]$
+
+$u_{x, y} = \Phi(x+y)$
+That is common sense
+
+System is as follows
+$(E_{x} - E_{y}) u_{x, y} = 0$
+$u_{x, y}$
+
+$E_{x} u - E_{y} u = 0$
+$u = (E_{y})^{x} \Phi y$
+$E = e^{D_{y}}$
+$e^{D_{x}} u - e^{D_{y}} u$
+
+[u]Very mild guess-work[/u]
+
+$u_{x+1, y+1} - u_{x, y+1} - u_{x, y} = 0$
+$(E_{y} E_{x} - E_{y} - 1) u = 0$
+$E_{x} E_{y} u = (E_{y} + 1) u$
+
+Treat $E_{y}$ as const
+$E a u_{x} = (a+1) u_{x}$
+$a u_{x+1} = (a+1) u_{x}$
+$u_{x+1} = (1 + \frac{1}{a}) u_{x}$
+$u_{x} = (1 + \frac{1}{a})^{x} C$
+$u = (1 + \frac{1}{E_{y}})^{x} \Phi y$
+$u = \Phi y + x \Phi(y-1) + \frac{x(x-1)}{2!} \Phi(y-2) + \text{etc}$

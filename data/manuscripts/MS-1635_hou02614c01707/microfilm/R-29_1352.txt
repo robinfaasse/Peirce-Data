@@ -1,0 +1,67 @@
+[fig]Triangle with altitude[/fig]
+
+$r^2 = (x - x_1)^2 + (y - y_1)^2$
+$\rho^2 = (x - x_2)^2 + (y - y_2)^2$
+
+$r^2 = (x - A)^2 + y^2$
+$\rho^2 = (x + A)^2 + y^2$
+
+$\rho^2 - r^2 = 4Ax$
+$x = \frac{1}{4A} (\rho^2 - r^2)$
+
+$r^2 + \rho^2 = 2x^2 + 2A^2 + 2y^2$
+$= \frac{1}{16A^2} (\rho^4 - 2\rho^2 r^2 + r^4) + 2A^2 + 2y^2$
+
+[del]$r^2 + \rho^2 - 2A^2 - 2y^2 = \frac{1}{16A^2}$[/del]  $(4\sqrt{2})^2$  $2\sqrt[4]{2}$
+$32A^2 y^2 + \rho^4 + r^4 + 32A^4$
+$- 2\rho^2 r^2 - 16r^2 A^2 - 16\rho^2 A^2$
+
+$y^2 + \frac{1}{8A^2} (\frac{r}{\sqrt{2}} + \frac{\rho}{\sqrt{2}} + 2A) ($ ——————
+
+\
+
+$m = a + b + nc$
+$m' = a + b - nc$
+$m'' = a - b + nc$
+$m''' = a - b - nc$
+
+$m^4 a^4 + b^4 + n^4 c^4$
+$- 2a^2 b^2 - 2n^2 a^2 c^2 - 2n^2 b^2 c^2$
+
+$n^4 = 32$
+[del]$16 = $[/del]
+$2n^2 = 16$
+$2n^4 = 64$
+$n^2 = 4$
+$n = 2$
+
+$m^4 p = 1$
+$m^2 n^2 p = 32$
+$2n^2 p = 16$
+
+$\frac{n^2}{2} = 2$
+$n^2 = 4$
+$n = 2$
+
+$m^2 p = 2$
+$m^4 p = 1$
+
+$m^2 = \frac{1}{2}$
+$m = \frac{1}{\sqrt{2}}$
+$m^4 = \frac{1}{4}$
+$p = 4$
+
+[fig]Triangle with sides 3, 4, 5[/fig]  $144 = (4\times 6)^2$
+
+$\frac{3}{4}$
+$\frac{5}{12 \times 6 \times 4 \times 2}$
+$4 \times 144$
+
+$\sqrt{(a+b+c)(a+b-c)(a-b+c)(a-b-c)}$
+$= 16 \text{ Area}^2$
+
+$\sqrt{\text{ }} = 4 \text{ Area}$
+
+$\sqrt{\text{ }} = 2 \text{ Area}$
+
+$\frac{\sqrt{\text{ }}}{2 \text{ Dist of foci}} = y$

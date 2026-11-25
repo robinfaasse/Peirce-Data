@@ -1,0 +1,10 @@
+[marginalia]
+No of Secundal Division.
+Required $10^{1}/10$
+[/marginalia]
+
+[pn]Sheet 1[/pn]
+
+There are two methods. The first is one of my own invention, which, in this particular case, reduces to the method of continued fractions (substantially), that is, we have to solve the equation $(1+x)^{10} = 10$ or [del]of[/del] [ins]$x^{10} + 10x = 1$[/ins] We start with any two numbers, $a$, regarded as an approx. to $x^{10}$ (though we will make it $0$) and $b$, regarded as an approx to $x$ (though we will assume it to be $1$). With these, by means of the equation $x^{10} + 10x = 1$ we calculate an approx to $1$. Then since $x:1 = x^{10}:x$ we treat the approx $x$ and $1$ as approx to $x^{10}$ and $x$, and proceed in that way as far as we please, finally dividing the last but one by the last to get the final value of $x$. Since we want it to about forty or fifty decimal places, we work until the last two approx to $1$ have about 22 to 25 places each
+
+[fig]Two columns of numerical calculations in secundal notation[/fig]

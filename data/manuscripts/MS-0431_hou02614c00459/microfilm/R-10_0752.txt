@@ -1,0 +1,27 @@
+[marginalia]
+[pn]Logic[/pn]
+[pn]I[/pn]
+[pn]III[/pn]
+[pn]185[/pn]
+[/marginalia]
+
+For the sake of showing the consistency of the formulae, we
+may complete the cycle.
+[u]$\delta\delta = \delta(\nu+\nu) = \delta\nu+\delta\nu = \nu+\nu = \delta$[/u],
+$\nu\nu = \nu(\delta+\delta) = \nu\delta+\nu\delta = \nu+\nu = \delta$, (just as $-- = +$)
+$\nu\delta = \nu(\nu+\delta) = \nu\nu+\nu\delta = \delta+\nu = 0$
+$00 = (\nu+\delta)0 = \nu0+\delta0 = 0+0 = 0$
+
+Instead of assuming the distributive principle in its en-
+tirety we might have evolved the multiplication-table
+from these three equations
+$00 = 0$     $x(y+\delta) = xy+x$     $(x+\delta)y = xy+y$.
+
+In the same spirit, the addition-table might have been derived
+from the equations,
+[del]$0+\delta = \delta$[/del] [ins]$\delta+\delta = \nu$[/ins]     $\nu+\delta = 0$     $(x+\delta)+y = x+(y+\delta) = (x+y)+\delta$
+
+Thus, [del]$0+y = y+\delta$[/del]
+$0+\nu = 0+(\delta+\delta) = (0+\delta)+\delta = \delta+\delta = \nu$
+$0+0 = 0+(\nu+\delta) = (0+\nu)+\delta = \nu+\delta = 0$
+$\nu+\nu = \nu+(\delta+\delta) = (\nu+\delta)+\delta = 0+\delta = \delta$.

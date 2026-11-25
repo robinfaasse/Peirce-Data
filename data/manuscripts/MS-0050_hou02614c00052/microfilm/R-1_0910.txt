@@ -1,0 +1,23 @@
+[marginalia]
+Attraction
+11
+[/marginalia]
+
+(116) The rules of integration require us, in the first place,
+to ascertain certain relations between the magnitudes of
+the constants, since the formulae applicable in calculation
+vary with these relations. We found in (13) that
+$$\frac{A^2}{k} = (\frac{1}{v_c^2} - \frac{1}{v_a^2}) P^2$$
+and in (12), we found $P < v_c$. Hence
+$$\frac{A^2}{k} < 1 - \frac{v_c^2}{v_a^2}$$
+and $v_c < v_a$, since $v_a$ is the maximum value that $v$ can
+ever attain. Hence $\frac{A^2}{k}$ is a positive quantity less than
+unity.
+
+(117) The equation for in $t$ and $r$ gives
+$$t - t_c = \frac{v_a^2}{2\sqrt{k}} \left( \sqrt{1 - \frac{A^2}{k} - \frac{r^2}{v_a^2}} - \sqrt{1 - \frac{A^2}{k} - \frac{r_c^2}{v_a^2}} \right)$$
+or
+$$r = \sqrt{r_c^2 + 4\sqrt{k} (t - t_c) \sqrt{1 - \frac{A^2}{k} - \frac{r_c^2}{v_a^2}} - \frac{4k}{v_a^2} (t - t_c)^2}$$
+This shows that $r$ will increase until $t - t_c = \frac{v_a}{\sqrt{k}} \sqrt{2 - \frac{A^2}{k} - \frac{r_c^2}{v_a^2}}$,
+when $r$ will become $r = v_a \sqrt{1 - \frac{A^2}{k}}$. This is the largest
+value it attains. When its initial direction is directly away

@@ -1,0 +1,23 @@
+[pn]9[/pn]
+
+[u]Theorem V.[/u] Whatever $i, a, e$ maybe, if $(i \hat{c} a) \hat{c} e$, then either
+$i$ or $e$.
+
+[u]Proof.[/u] For suppose $i, a, e$ to be any such things that $(i \hat{c} a) \hat{c} e$.
+Then I have only to show that either $i$ or $e$. By Clause 3, if $i \hat{c} a$ and
+$(i \hat{c} a) \hat{c} e$, then $e$; whence, by the hypothesis, if $i \hat{c} a$ then $e$. But
+by Clause 2, either $i$ or $i \hat{c} a$; whence either $i$ or $e$. Q.E.D.
+
+[u]Theorem VI.[/u] Whatever $i, a, e$ maybe, if $(i \hat{c} a) \hat{c} e$, then $a \hat{c} e$.
+
+[u]Proof.[/u] For suppose $i, a, e$ to be any such things that $(i \hat{c} a) \hat{c} e$. Then
+I have only to show that $a \hat{c} e$. By Clause I,
+
+(No 1) If $a$, then $i \hat{c} a$
+(No 2) If $e$, then $a \hat{c} e$ By Clause 2,
+(No 3) Either $a$ or $a \hat{c} e$ By Clause 3,
+(No 4) If $(i \hat{c} a)$ and $(i \hat{c} a) \hat{c} e$, then $e$.
+
+By (No 4) and the hypothesis, if $(i \hat{c} a)$ then $e$; whence by (No 1), if
+$a$ then $e$; whence, by (No 3), either $a \hat{c} e$ or $e$; whence by (No 2),
+$a \hat{c} e$. Q.E.D.

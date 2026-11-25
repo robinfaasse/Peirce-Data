@@ -1,0 +1,44 @@
+Monier's Bridge 1899 March 1 [pn]2[/pn]
+
+$$\frac{dy}{s} = \psi_n = -\psi_{n+s}$$
+
+$$\xi_s = s \sec \varphi_n \cos(\varphi_n + \psi_n) + s \sec \varphi_{n+s} \cos(\varphi_{n+s} + \psi_{n+s}) - 2s$$
+
+$$= s(\cos \psi_n - \tan \varphi_n \sin \psi_n) + s(\cos \psi_{n+s} - \tan \varphi_{n+s} \sin \psi_{n+s}) - 2s$$
+
+$$= s(\tan \varphi_{n+s} - \tan \varphi_n) \psi_n$$
+
+$$= (\tan \varphi_{n+s} - \tan \varphi_n) dy$$
+
+$$\tan \varphi_n = \frac{[del]x[/del]}{\frac{R}{x}} \frac{x}{R}$$
+
+$$[del]\text{Det}[/del] \tan \varphi_n = \frac{x}{R}$$
+
+[u]Such were the words[/u]
+
+[u]Such were the words[/u]
+[u]Such were the words.[/u]
+
+[fig]Slightly curved bridge-like structure with pointed ends[/fig]
+
+[fig]Geometric diagram with coordinates X, Y, xi, eta[/fig]
+
+[fig]Geometric diagram with coordinates X, Y, xi, eta[/fig]
+
+$$(Y - \eta_N)^2 + (X + \xi_R'' - \xi_N)^2 = X^2 + Y^2$$
+
+$$-2Y\eta_N + \eta_N^2 + 2X(\xi_R'' - \xi_N) + [del]\xi_R''^2[/del]$$
+
+$$-R \cdot [del]\text{something}[/del] + (\xi_R'' - \xi_N)^2 = 0$$
+
+$$(Y - \eta_{-N})^2 + (X + \xi_R'' + \xi_{-N})^2 = X^2 + Y^2$$
+
+$$-2Y\eta_{-N} + \eta_{-N}^2 + 2X(\xi_R'' + \xi_{-N}) + (\xi_R'' + \xi_{-N})^2 = 0$$
+
+[fig]Line segment with angle[/fig]
+
+$$\frac{1}{2} \omega \psi_{-N}^2 + \frac{1}{2} \omega \psi_N^2$$
+
+$$\frac{1}{2} \omega (\theta_{-N+s})^2 + \frac{1}{2} \omega$$
+
+[fig]Coordinate axes with points labeled -N, -N+s, T_N[/fig]

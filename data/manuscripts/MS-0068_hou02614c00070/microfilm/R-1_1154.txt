@@ -1,0 +1,35 @@
+[marginalia]
+Series
+2
+[/marginalia]
+
+[marginalia]
+To the Printer.
+Figures written
+with a wavy
+line below
+them are to
+be printed
+in heavy faced
+type.
+[/marginalia]
+
+smaller than [u]R[/u]p; namely, [u]R[/u]p' and [u]R[/u]p", where [u]R[/u]p' = [fraction]m/2[sup]n[/sup][/fraction], [u]R[/u]p" = [fraction]m+1/2[sup]n[/sup][/fraction]. Thus, suppose
+p = 17, or if [del]case[/del] [ins]heavy-faced[/ins] type be used to show that the figures are to the inter-
+preted as written in the secundal (instead of decimal) notation, p = [u]10001[/u].
+Then [u]R[/u]p = [u].00011[/u] (the first significant figure being carried to the end and the
+fractional point inserted where it had been) This lies between [u]R[/u]p' = [u].0001[/u] and
+[u]R[/u]p" = [u].001[/u] (which we get by subtracting and adding 1 in the last place) Hence,
+p' = [u]1000[/u], p" = [u]100[/u]; (carrying the last unit to where the point has been, this being
+removed.) Now N[u]1000[/u] = 5, N[u]100[/u] = 4; and accordingly N[u]10001[/u] = 5+4 = 9.
+If p = 18 = [u]10010[/u], [u]R[/u]p = [u].00101[/u]; [u]R[/u]p' = [u].001[/u], [u]R[/u]p" = [u].011[/u]; p' = [u]100[/u], p" = [u]1001[/u]. But,
+N[u]100[/u] = 4, N[u]1001[/u] = 7. Whence N[u]18[/u] = N[u]10010[/u] = 4+7 = 11.
+
+The definition of the series is completed by adding that N(2[sup]n+1[/sup]-1) =
+N2[sup]n[/sup] = [u]n[/u]+2; and in accordance with this, N0 = 1.
+
+[del]4[/del] [ins]10[/ins] From this definition it follows that if 2[sup]m[/sup] be the largest power of 2 not
+greater than p, then every rational fraction whose value lies between 0 and 1
+is expressed in its lowest terms by N(p-2[sup]m[/sup])/Np, where there is but
+one value which p can take to express the given fraction. This is too obvious
+to require proof. The sequence of values of the fractions is that of the values of [u]R[/u]p.

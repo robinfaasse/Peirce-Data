@@ -1,0 +1,27 @@
+[marginalia][date]1909
+July 13[/date]
+[pn]9[/pn][/marginalia] What is wanted, however, in order to test Stirling's Formula, is not the natural number n! but its logarithm. And in order to apply the test to 20! and since that contains 15 significant figures, in a part of the table where the differences of two successive logarithms is between 1.78 and 1.79 we need a table to 15 places. Now I have only a few logarithms to 15 places; [ins]besides those of $\pi$ and $e$,[/ins] namely, [del]those[/del] [ins]three[/ins] for the first hundred numbers, [del]for[/del] [ins]for[/ins] numbers ending in 5 from 105 to 195 inclusive, for 999, and for the numbers between 1000 and 1100. Accordingly, in order to find 20! I have to add 6 logarithms; and I chose the following
+$$\begin{array}{rccr}
+20 \times 15 \times 14 \times 5 & = & 21000 \\
+19 \times 18 \times 3 & = & 1026 \\
+17 \times 16 \times 4 & = & 1088 \\
+13 \times 12 \times 7 & = & 1092 \\
+11 \times 10 \times 8 & = & 880 \\
+\text{and } \quad 9 \times 6 \times 2 & = & 108
+\end{array}$$
+
+You will see by the factors that the product of these is exactly 20! But the sum of the six logarithms is about as likely as not to be in error by 1 in the $15^{\text{th}}$ place. It might be in error by 3 in that place; but this is practically out of the question. It is very unlikely to be in error by more than $1\frac{1}{2}$ in the last place. [del]Y[/del] [ins]I[/ins] might calculate the logarithms to another place. But it would hardly be worth the trouble.
+
+The logarithms are as follows:
+$$\begin{array}{rcc}
+21000 & = & [4.32221\ 92947\ 33919] \\
+1026 & = & [3.01114\ 73607\ 75797] \\
+1088 & = & [3.03662\ 88953\ 62161] \\
+1092 & = & [3.03822\ 26383\ 68718] \\
+880 & = & [2.94448\ 26721\ 50169] \\
+108 & = & [2.03342\ 37554\ 86950] \\
+\hline
+& & 18.38612\ \underset{3}{4}\underset{4}{6}\underset{2}{1}\underset{2}{6}\underset{3}{8}\ \underset{2}{7}\underset{3}{7}\underset{3}{7}\underset{3}{1}\underset{4}{4}
+\end{array}$$
+
+Let us now calculate this by Stirling's Formula, so that you shall get some notion of how many Bs you may neglect. You must never neglect any term not involving a B. I will use squared paper for the purpose. $n = 20$, $2n+1 = 41$,

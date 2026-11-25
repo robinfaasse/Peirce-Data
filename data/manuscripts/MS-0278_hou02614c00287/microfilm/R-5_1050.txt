@@ -1,0 +1,33 @@
+Given two points $(x_1, 0)$ and $(x_2, 0)$ [fig]triangle[/fig]
+Required $F(x,y)$ [del]and[/del] such that
+$m_1^2 \left[ (x-x_1)^2 + y^2 \right] = m_2^2 \left[ (x-x_2)^2 + y^2 \right]$.
+
+$m_1^2 x^2 - 2 m_1^2 x_1 x + m_1^2 x_1^2 + m_1^2 y^2$
+$= m_2^2 x^2 - 2 m_2^2 x_2 x + m_2^2 x_2^2 + m_2^2 y^2$
+
+$(m_1^2 - m_2^2) x^2 + 2 (m_2^2 x_2 - m_1^2 x_1) x + (m_1^2 x_1^2 - m_2^2 x_2^2) + (m_1^2 - m_2^2) y^2$
+
+$(m_1^2 - m_2^2) (x^2 + y^2) - 2 (m_1^2 x_1 - m_2^2 x_2) x + m_1^2 x_1^2 - m_2^2 x_2^2 = 0$
+
+$\left| \begin{smallmatrix} a & b \\ c & d \end{smallmatrix} \right| = ad - bc$
+
+$\left| \begin{smallmatrix} m_1 & m_2 \\ m_2 & m_1 \end{smallmatrix} \right| (x^2 + y^2) - 2 \left| \begin{smallmatrix} m_1^2 & x_2 \\ m_2^2 & x_1 \end{smallmatrix} \right| x + \left| \begin{smallmatrix} m_1^2 & x_2^2 \\ m_2^2 & x_1^2 \end{smallmatrix} \right| = 0$
+
+Assume also $\frac{x}{a} + \frac{y}{b} = 1$  $y = b (1 - \frac{x}{a})$  $\begin{aligned} y^2 &= b^2 (1 - \frac{2x}{a} + \frac{x^2}{a^2}) \\ &= \frac{b^2}{a^2} (a^2 - 2ax + x^2) \end{aligned}$
+
+$(m_1^2 - m_2^2) (1 + \frac{b^2}{a^2}) x^2 - 2 [ (m_1^2 - m_2^2) \frac{b^2}{a} [del]+[/del] [ins]$+$[/ins] m_1^2 x_1 - m_2^2 x_2 ] x + (m_1^2 - m_2^2) b^2 + m_1^2 x_1^2 - m_2^2 x_2^2 = 0$
+
+$(x - x_c)^2 + (y - y_c)^2 = R^2$
+$x^2 + y^2 - 2 x x_c - 2 y y_c + x_c^2 + y_c^2 - R^2 = 0$
+$R^2 = - (x_c^2 + y_c^2 - R^2) + x_c^2 + y_c^2$
+
+$x^2 + y^2 - 2 \cdot \frac{m_1^2 x_1 - m_2^2 x_2}{m_1^2 - m_2^2} x + \frac{m_1^2 x_1^2 - m_2^2 x_2^2}{m_1^2 - m_2^2} = 0$
+
+Equation of circles having $y_c = 0$
+$x_c = \frac{m_1^2 x_1 - m_2^2 x_2}{m_1^2 - m_2^2}$  $= \frac{m_1^2 m_2^2 (x_1 - x_2)^2}{(m_1^2 - m_2^2)^2}$  $R = \pm \frac{m_1 m_2 (x_1 - x_2)}{m_1^2 - m_2^2}$
+
+$(x - x_c)^2 = x^2 - 2 \frac{m_1^2 x_1 - m_2^2 x_2}{m_1^2 - m_2^2} x + \frac{m_1^4 x_1^2 - 2 m_1^2 m_2^2 x_1 x_2 + m_2^4 x_2^2}{m_1^4 - 2 m_1^2 m_2^2 + m_2^4}$
+
+$x_c^2 - R^2 = \frac{m_1^2 x_1^2 - m_2^2 x_2^2}{m_1^2 - m_2^2}$
+
+$R^2 = \frac{m_1^4 x_1^2 - 2 m_1^2 m_2^2 x_1 x_2 + m_2^4 x_2^2}{m_1^4 - 2 m_1^2 m_2^2 + m_2^4} - \frac{m_1^4 x_1^2 - m_1^2 m_2^2 (x_1^2 + x_2^2) + m_2^4 x_2^2}{m_1^4 - 2 m_1^2 m_2^2 + m_2^4}$

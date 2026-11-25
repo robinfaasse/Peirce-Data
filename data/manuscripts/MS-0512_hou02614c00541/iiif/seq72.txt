@@ -1,0 +1,30 @@
+FL [flush right] 85 [/flush right]
+
+Let $\mu$ and $\nu$ be two characters, qualities, or collections. Then
+to say that $\mu$ is (at least) as small as $\nu$ we may write, $S_{\mu \nu}$ and
+we shall have
+[fig]figure[/fig]
+(3) $\Pi_{\mu} \Pi_{\nu} \Sigma_{\alpha} \Pi_{i} \Sigma_{j} \bar{S}_{\mu \nu} + \Upsilon_{\alpha} \cdot (\bar{q}_{\mu i} + r_{\alpha ij} \cdot q_{\nu j})$
+(4) $\Pi_{\mu} \Pi_{\nu} \Pi_{\alpha} \Sigma_{i} \Pi_{j} S_{\mu \nu} + \bar{\Upsilon}_{\alpha} + q_{\mu i} \cdot (\bar{r}_{\alpha ij} + \bar{q}_{\nu j})$
+
+I now undertake to prove
+(5) $\Pi_{\mu} \Pi_{\nu} S_{\mu \nu} + S_{\nu \mu}$.
+
+The only way we can reach this conclusion is manifestly
+by introducing (4) twice the $\mu$ and $\nu$ being exchanged in the
+two occurrences. Then, substituting for $\Upsilon$ its definition, the
+premise will be
+(6) $\Pi_{\mu} \Pi_{\nu} \Pi_{\alpha} \Sigma_{i} \Sigma_{j} \Sigma_{\kappa} \Sigma_{\beta} \Pi_{\alpha'} \Sigma_{i'} \Sigma_{j'} \Sigma_{\kappa'} \Sigma_{\beta'} \Sigma_{u} \Sigma_{u'} \Pi_{o} \Pi_{o'}$
+$[S_{\mu \nu} + r_{\alpha i \kappa} \cdot r_{\alpha j \kappa} \cdot r_{\beta i j} \cdot \bar{r}_{\beta j i} + q_{\mu i} \cdot (\bar{r}_{\alpha i \nu} + \bar{q}_{\nu \nu})] \cdot$
+$[S_{\nu \mu} + r_{\alpha' i' \kappa'} \cdot r_{\alpha' j' \kappa'} \cdot r_{\beta' i' j'} \cdot \bar{r}_{\beta' j' i'} + q_{\nu i'} \cdot (\bar{r}_{\alpha' i' u'} + \bar{q}_{\mu \nu'})]$
+
+That (6) cannot reduce to (5) is evident when we examine the last
+six $\Sigma$s followed by only two $\Pi$s and see that the two indices of these
+two quantifiers are nowhere indices of the same letter. Hence, it is evident
+that if (5) can be demonstrated at all, it must be by the help of some
+other premise. As a first such premise, I write (7):
+(7) $\Pi_{\mu} \Pi_{\nu} \Sigma_{\gamma} \Pi_{x} \Pi_{y} \bar{q}_{\mu x} + \bar{q}_{\nu y} + r_{\gamma x y}$.
+
+I now assume a premise about the universe of classes of
+[ins] and $\beth$ (beth?) [/ins]
+lations, or descriptions of relations. Let [del] $\aleph$ [/del] (aleph) be an indiv-

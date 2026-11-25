@@ -1,0 +1,31 @@
+[pn]123r[/pn]
+
+[u]XIV[/u]. A graph already written may be iterated [ins]over[/ins] [del]provided the iteration[/del]
+[del]is not outside any enclosure which the first graph is within, or[/del]
+[del]any intermediate iterated may be omitted.[/del]
+
+[u]Proof I[/u]: Let the whole graph be [fig]graph with a and b in brackets[/fig]. [del]Then by XIII[/del] [del]maybe[/del]
+[del]written.[/del] Hence, by IX [fig]graph with a and b in brackets, and another b in brackets below[/fig] maybe written.
+
+Then by XI [fig]graph with X, a and b in brackets, and Y[/fig] maybe written
+
+Then by IV [fig]graph with X, a and b in brackets, and Y, with b in brackets below[/fig] maybe written.
+[fig]graph with X, a and b in brackets, and Y, with b in brackets below[/fig]
+
+Then by X [fig]graph with X, a and b in brackets, and Y, with b in brackets below, connected by lines[/fig] may be written
+
+Then by [del]XIII[/del] [fig]graph with a and b in brackets, with b in brackets below[/fig] maybe written. So that [fig]graph with a and b in brackets[/fig] < [fig]graph with a and b in brackets, with b in brackets below[/fig]
+
+Conversely by [del]XIII[/del] [fig]graph with a and b in brackets, with b in brackets below[/fig] < [fig]graph with a and b in brackets[/fig]
+
+Let the whole graph be [fig]graph with a, b, and c in nested brackets[/fig] then by XIII [del][fig]graph with a, b, and c in nested brackets, with b and c in brackets below[/fig] maybe written[/del]
+
+It has just been shown that [fig]graph with a, b, and c in nested brackets[/fig] < [fig]graph with a, b, and c in nested brackets, with b and c in brackets below[/fig]
+
+<tex>\therefore</tex> by [del]VIII[/del] and V [fig]graph with a, b, and c in nested brackets[/fig] < [fig]graph with a, b, and c in nested brackets, with b and c in brackets below, enclosed[/fig]
+
+Conversely by [del]VIII[/del] [fig]graph with a, b, and c in nested brackets, with b and c in brackets below, enclosed[/fig] < [fig]graph with a, b, and c in nested brackets[/fig]
+
+We have seen [fig]graph with a, b, and c in nested brackets[/fig] < [fig]graph with a, b, and c in nested brackets, with b and c in brackets below[/fig] <tex>\therefore</tex> by VIII or V [fig]graph with a, b, and c in nested brackets, enclosed[/fig] < [fig]graph with a, b, and c in nested brackets, with b and c in brackets below, enclosed[/fig]
+
+Conversely by [del]VIII[/del] [fig]graph with a, b, and c in nested brackets, with b and c in brackets below, enclosed[/fig] < [fig]graph with a, b, and c in nested brackets, enclosed[/fig] etc.

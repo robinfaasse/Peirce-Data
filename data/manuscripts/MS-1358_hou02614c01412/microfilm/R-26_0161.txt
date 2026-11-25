@@ -1,0 +1,40 @@
+[marginalia]Mersons Bridge 1899 Feb 14[/marginalia]
+
+[pn]3[/pn]
+
+[fig]Line drawing of a vector or angle[/fig] $\cot(\theta_{n+2ds} + \delta\theta_{n+2ds}) = \frac{\frac{1}{2}ds \cos\theta_{n+2ds} + \delta x}{\frac{1}{2}ds \sin\theta_{n+2ds}}$
+$= \cot\theta_{n+2ds} + 2 \frac{\delta x}{ds} \frac{1}{\sin\theta_{n+2ds}}$
+
+$D_x \cot x = \frac{-\sin^2 x - \cos^2 x}{\sin^2 x} = -(1 + \cot^2 x) = -\csc^2 x$
+
+$\cot(\theta_{n+2ds} + \delta\theta_{n+2ds}) = \cot\theta_{n+2ds} - \frac{1}{\sin^2\theta_{n+2ds}} \delta\theta_{n+2ds}$
+$\delta\theta_{n+2ds} = -2 \frac{\delta x}{ds} \sin\theta_{n+2ds}$ [u]Right[/u]
+
+$\cot(x+y) = \frac{\cos x \cos y - \sin x \sin y}{\sin x \cos y + \cos x \sin y} = \frac{1 - \tan x \tan y}{\tan x + \tan y} = \cot x \frac{1 - \tan x \tan y}{1 + \cot x \tan y}$
+
+$\cot(\theta + \delta\theta) = \cot\theta [del](1 - (\tan\theta + \cot\theta)\delta\theta)[/del]$
+$= \cot\theta - \frac{\tan\theta + \cot\theta}{[del]\tan\theta[/del]} \delta\theta = \cot\theta - \frac{\sin^2\theta + \cos^2\theta}{\sin^2\theta} \delta\theta$
+
+$\frac{1}{2}ds + \delta s = \sqrt{\frac{1}{4}ds^2 \sin^2\theta_{n+2ds} + \frac{1}{4}ds^2 \cos^2\theta_{n+2ds} + \delta x ds \cos\theta_{n+2ds}}$
+$= \frac{1}{2}ds (1 + 2 \frac{\delta x}{ds} \cos\theta_{n+2ds})$
+
+$\delta s = \delta x \cos\theta_{n+2ds}$
+
+[fig]Geometric diagram with vectors[/fig]
+
+$\delta x \left\{ \begin{aligned} & \frac{(\delta x + \frac{1}{2}ds \cos\theta) \frac{1}{2}ds - \delta s}{\frac{1}{2}ds + \delta s} - \frac{1}{2}ds \cos\theta \\ & = \delta x \frac{\frac{1}{2}ds - \delta s}{\frac{1}{2}ds + \delta s} - ds \cos\theta \frac{\delta s}{\frac{1}{2}ds + \delta s} \end{aligned} \right.$
+$= -\delta x + \delta x . ds \cos^2\theta$ [u]Right[/u] [del]Wrong[/del]
+
+[fig]Geometric diagram with vectors[/fig]
+
+$\sin\theta + \cos\theta \cdot \delta\theta$
+
+$\delta y = [del]\frac{(\frac{1}{2}ds - \delta s)}{\dots}[/del]$
+$= \frac{\frac{1}{2}ds \sin\theta - (\frac{1}{2}ds - \delta s) \sin(\theta + \delta\theta)}{\frac{1}{2}ds \cos\theta \cdot \delta\theta + \delta s \sin\theta}$
+$= \frac{1}{2}ds \cos\theta \cdot \delta\theta + \delta s \sin\theta$
+$= -2\delta x \cos\theta \cdot \sin\theta$
+
+[del]$\frac{\delta x \frac{1}{2}ds}{\frac{1}{2}ds}$[/del]
+$\frac{\frac{1}{2}ds - \delta s}{\frac{1}{2}ds} (\delta x + \frac{1}{2}ds \cos\theta) - \frac{1}{2}ds \cos\theta$
+$\delta x - 2 \frac{\delta s}{ds} \delta x - 2 \frac{\delta s}{ds} \frac{1}{2}ds \cos\theta$
+$-\delta x + \delta x ds \cos^2\theta$

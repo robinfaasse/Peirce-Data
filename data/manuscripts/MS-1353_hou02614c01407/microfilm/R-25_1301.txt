@@ -1,0 +1,19 @@
+Skew Mercator
+
+[fig]Diagram showing intersecting geodesic curves with labels \gamma, \gamma', and \gamma''.[/fig]
+
+A geodesic of an ellipsoid of revolution has $\gamma$ for its extreme [del]reduced[/del] latitude, then at a point [ins]having[/ins] reduced latitude $\omega_1$ its azimuth is
+$$\sin \psi_1 = \frac{\cos \gamma}{\cos \omega_1}$$
+and if another geodesic here intersects at right angles
+$$\cos \psi_1 = \frac{\cos \gamma'}{\cos \omega_1}$$
+
+$$\frac{\cos^2 \gamma}{\cos^2 \omega_1} + \frac{\cos^2 \gamma'}{\cos^2 \omega_1} = 1$$
+$$\cos^2 \gamma + \cos^2 \gamma' = \cos^2 \omega_1$$
+
+And at another point on the first geodesic drawing a second perpendicular geodesic
+$$\cos^2 \gamma + \cos^2 \gamma'' = \cos^2 \omega_2$$
+
+The arc of the geodesic between them is
+$$ds = \sqrt{b^2 + a^2 e^2 \sin^2 \omega} \frac{\cos \omega}{\sqrt{\cos^2 \omega - \cos^2 \gamma}} [del](\cos \omega)[/del] d\omega$$
+
+$$= \frac{\sqrt{b^2 + a^2 e^2 \sin^2 \gamma - \frac{1}{2} a^2 e^2 \cos^2 \gamma' - \frac{1}{2} a^2 e^2 \cos^2 \gamma''} \sqrt{\cos^2 \gamma + \frac{1}{2} \cos^2 \gamma' + \frac{1}{2} \cos^2 \gamma''}}{\frac{1}{2} \cos^2 \gamma'' + \frac{1}{2} \cos^2 \gamma'}$$

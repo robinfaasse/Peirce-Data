@@ -1,0 +1,21 @@
+$$s = x + y_1 i$$
+$$q = x - y_1 i$$
+
+$$x_1 + \frac{1}{2} (s+q) = -\frac{1}{2} (s-q) i \operatorname{cotan} \beta$$
+$$x_1 - \frac{1}{2} (s+q) = -\frac{1}{2} (s-q) i \operatorname{cotan} \alpha$$
+
+$$2 x_1 = - [del](s-q)[/del] [ins](s-q)[/ins] i \frac{\sin (\alpha+\beta)}{\cos (\alpha-\beta) - \cos (\alpha+\beta)}$$
+
+$$s+q = - (s-q) i \frac{\sin (\alpha-\beta)}{\cos (\alpha-\beta) - \cos (\alpha+\beta)}$$
+
+$$\frac{s+q}{2 x_1} = [del]\operatorname{tan}[/del] \frac{\sin (\alpha-\beta)}{\sin (\alpha+\beta)}$$
+
+$$2 x_1 = - (s-q) i \frac{\sin (\alpha+\beta)}{\sqrt{1 - \frac{(s+q)^2}{4 x_1^2} \sin^2 (\alpha+\beta)} - \cos (\alpha+\beta)}$$
+
+$$\sqrt{4 x_1^2 - (s+q)^2 \sin^2 (\alpha+\beta)} = 2 x_1 \cos (\alpha+\beta) - (s-q) i \sin (\alpha+\beta)$$
+$$4 x_1^2 - (s+q)^2 \sin^2 (\alpha+\beta) = 4 x_1^2 \cos^2 (\alpha+\beta) - 4 x_1 (s-q) i \sin (\alpha+\beta) \cos (\alpha+\beta)$$
+$$- (s-q)^2 \sin^2 (\alpha+\beta)$$
+$$- (s+q)^2 \sin (\alpha+\beta) = - 4 x_1^2 \sin (\alpha+\beta) [del]-[/del] [ins]+[/ins] 4 x_1 (s-q) i \cos (\alpha+\beta)$$
+$$- (s-q)^2 \sin (\alpha+\beta)$$
+$$- \frac{s q - x_1^2}{x_1 (s-q)} i = \operatorname{cotan} (\alpha+\beta)$$
+$$(s q - x_1^2) \sin = - 4 x_1 (s-q) i \cos$$

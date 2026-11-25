@@ -1,0 +1,27 @@
+[marginalia]Ms. 766[/marginalia]
+
+[u]Synopsis of the Discussion of the Ground of Induction.[/u]
+
+[u]I.[/u]
+
+The first and most obvious theory (when we approach the subject from the side of probability) is Laplace's [ins](virtually)[/ins] that the probability of an inductive conclusion can be calculated by inverse probabilities.
+
+To that I make two objections:
+
+1[sup]st[/sup], that [del]it[/del] is an idea founded on want of clear apprehension of the nature of probability, which signifies security in the long run. Since there is but one universe of which we have experience, it is absurd to speak of the probability that that universe is subject to a given law.
+
+2[sup]nd[/sup], the calculation is founded upon [del]putting[/del] [ins]the assumption of[/ins] "equal possibilities". This is basing a conclusion on ignorance, which is absurd.
+
+Besides, even if we admit equal possibilities, [del]what are[/del] [ins]the equal[/ins] possibilities, if rightly enumerated, are not for example that out of 8 days the tide should rise 0 days, 1 day, 2 days, 3 days, etc. But the equal possibilities, — if there be such a thing, — are [del]that the tide should not rise[/del] [ins]those[/ins] (designating a day on which the tide rises by O and one on which it does not rise as X) as follows:
+
+[fig]Three columns of binary sequences of O and X of length 8[/fig]
+0 0 0 0 0 0 0 0 | 0 0 0 0 X 0 0 0 | 0 0 0 X 0 0 0 0
+0 0 0 0 0 0 0 X | 0 0 0 0 X 0 0 X | 0 0 0 X 0 0 0 X
+0 0 0 0 0 0 X 0 | 0 0 0 0 X 0 X 0 | 0 0 0 X 0 0 X 0
+0 0 0 0 0 0 X X | 0 0 0 0 X 0 X X | 0 0 0 X 0 0 X X
+0 0 0 0 0 X 0 0 | 0 0 0 0 X X 0 0 | 0 0 0 X 0 X 0 0
+0 0 0 0 0 X 0 X | 0 0 0 0 X X 0 X | 0 0 0 X 0 X 0 X
+0 0 0 0 0 X X 0 | 0 0 0 0 X X X 0 | 0 0 0 X 0 X X 0
+0 0 0 0 0 X X X | 0 0 0 0 X X X X | 0 0 0 X 0 X X X
+
+now upon that supposition, it will be found that the probability that

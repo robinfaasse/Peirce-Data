@@ -1,0 +1,58 @@
+[pn]1[/pn]
+$$y = a\left(\frac{dy}{dx}\right) + b\left(\frac{dy}{dx}\right)^2$$
+
+$$\int \frac{dx}{c - \sqrt{ax+b}}$$
+$$= \frac{2}{a} \int \frac{y\ dy}{c-y} = \frac{2}{a} \int \left(\frac{c}{c-y} - 1\right) dy$$
+$$= \frac{2b}{a} \left(c \log (y-c) - y\right)$$
+
+$$p^2 + \frac{a}{b} p = \frac{y}{b}$$
+$$p^2 + \frac{a}{b} p + \frac{1}{4} \frac{a^2}{b^2} = \frac{y}{b} + \frac{1}{4} \frac{a^2}{b^2}$$
+$$p + \frac{1}{2} \frac{a}{b} = \sqrt{\frac{y}{b} + \frac{1}{4} \frac{a^2}{b^2}}$$
+$$p = -\frac{1}{2} \frac{a}{b} \pm \sqrt{\frac{y}{b} + \frac{1}{4} \frac{a^2}{b^2}}$$
+
+$$\frac{-y}{y-c} = \frac{y}{c-y}$$
+$$\frac{-y}{y-c} = \frac{-c}{y-c} + \frac{y-c}{y-c}$$
+$$\frac{-y}{y-c} = \frac{-c}{y-c} - \frac{y-c}{y-c}$$
+
+$$\frac{dx}{dy} = \frac{1}{\sqrt{\frac{y}{b} + \frac{1}{4} \frac{a^2}{b^2}} - \frac{1}{2} \frac{a}{b}}$$
+
+$$\frac{M + \sqrt{N}}{M - \sqrt{N}}$$
+$$\frac{1}{M + \sqrt{N}} = \frac{M - \sqrt{N}}{M^2 - N}$$
+
+$$(M + \sqrt{N})(M - \sqrt{N}) = M^2 - N$$
+
+$$x = 2b \left[ \sqrt{\frac{y}{b} + \frac{1}{4} \frac{a^2}{b^2}} + \frac{1}{2} \frac{a}{b} \log \left[ \sqrt{\frac{y}{b} + \frac{1}{4} \frac{a^2}{b^2}} - \frac{1}{2} \frac{a}{b} \right] \right]$$
+
+$$M + \sqrt{N} = \sqrt{4by - a^2} + a \log \left[ \sqrt{4by - a^2} - a \right]$$
+$$M^2 - N = 2ab$$
+
+$$\frac{dx}{dy} = \frac{2b}{\sqrt{4by - a^2} - a} = \frac{2b}{\sqrt{4by - a^2} - a} + \frac{\sqrt{4by - a^2} - a}{\sqrt{4by - a^2}}$$
+$$\frac{2b}{\sqrt{4by - a^2} - a} = \frac{dy}{dx} = \frac{\sqrt{4by - a^2} - a}{2b}$$
+
+[pn]2[/pn]
+$$\int \frac{dx}{c + \sqrt{b+ax}}$$
+
+$$y = \sqrt{ax+b}$$
+$$x = \frac{y^2-b}{a}$$
+$$\frac{dx}{dy} = \frac{2y}{a}\ dy$$
+
+$$= \int \frac{\frac{2y}{a} dy}{c+y} = \frac{2}{a} \int \left(1 - \frac{c}{c+y}\right) dy$$
+$$= \frac{2}{a} \left[ y - c \log (c+y) \right]$$
+$$= \frac{2}{a} \sqrt{ax+b} - \frac{2c}{a} \log (c + \sqrt{ax+b})$$
+
+$$\frac{\frac{2}{a}}{\sqrt{ax+b}} - \frac{\frac{2c}{a}}{c + \sqrt{ax+b}} \cdot \frac{\frac{a}{2}}{\sqrt{ax+b}}$$
+$$\frac{c + \sqrt{ax+b} - c}{(c + \sqrt{ax+b})\sqrt{ax+b}}$$
+
+$$\int \frac{dx}{\sqrt{ax+b} + c}$$
+
+$$y = \sqrt{ax+b}$$
+$$\frac{y^2-b}{a} = x$$
+$$dx = \frac{2y\ dy}{a}$$
+
+$$= \frac{2}{a} \int \frac{y\ dy}{y+c} = \frac{2}{a} \int \left(1 - \frac{c}{y+c}\right) dy$$
+$$= \frac{2}{a} \left[ y - c \log (y+c) \right]$$
+$$= \frac{2}{a} \sqrt{ax+b} - \frac{2c}{a} \log \left[ \sqrt{ax+b} + c \right]$$
+
+$$\frac{1}{a} \frac{1}{\sqrt{ax+b}} - \frac{c}{a} \frac{1}{(\sqrt{ax+b} + c)\sqrt{ax+b}}$$
+
+[del][fig]crossed out mathematical expression[/fig][/del]

@@ -1,0 +1,27 @@
+[u]Introduction to Trigonometry[/u]
+
+If $i^2 = -1$
+and $z = x + yi$
+Then if $e$ is any number
+$e^z = e^{x+yi} = e^x \cdot e^{yi}$
+
+Now we know what $e^x$ is if [del]x[/del] [ins]$x$[/ins] is a rational
+fraction; and if not it is obtained by the
+method of limits. But as to $e^{yi}$ we may
+suppose it is
+$e^{yi} = F y + \Phi y \cdot i$
+Then $e^{(y_1+y_2)i} = F(y_1+y_2) + \Phi(y_1+y_2)i$
+But $e^{(y_1+y_2)i} = e^{y_1i} \cdot e^{y_2i}$
+$= (F y_1 + \Phi y_1 \cdot i)(F y_2 + \Phi y_2 \cdot i)$
+$= F y_1 \cdot F y_2 - \Phi y_1 \cdot \Phi y_2$
+$+ (F y_1 \cdot \Phi y_2 + F y_2 \cdot \Phi y_1)i$
+
+$\therefore F(y_1+y_2) = F y_1 \cdot F y_2 - \Phi y_1 \cdot \Phi y_2$
+$\Phi(y_1+y_2) = F y_1 \cdot \Phi y_2 + F y_2 \cdot \Phi y_1$
+
+$\therefore F 2y = (F y)^2 - (\Phi y)^2$
+$\Phi 2y = 2 F y \cdot \Phi y$
+
+But $e^{0i} = 1$ $\therefore F 0 = 1$ $\Phi 0 = 0$
+$e^{0i} = e^{(y-y)i} = e^{yi} \cdot e^{-yi} = F y \cdot F(-y) - \Phi y \cdot \Phi(-y)$
+$+ [F y \cdot \Phi(-y) + F(-y) \cdot \Phi y]i$

@@ -1,0 +1,29 @@
+[25]
+But [del]P[/del]
+$\therefore$ Either P and Q are false or C is true
+But P and Q cannot both be false
+$\therefore$ C is true.
+
+[del]Now if[/del]
+Now if there are mp ways out of
+[del]m equal possibilities that[/del]
+p is true
+and mq [u]other[/u] ways out of m
+equal possibilities that Q is true
+there are $(p+q)m$ ways out of
+m equal possibilities that
+one or other is true, and [ins]in all these cases[/ins] [del]that[/del]
+C is true
+There [del]are[/del] therefore $(1-p)m$ ways
+in which P is false
+and $(1-q)m$ ways in which
+Q is false
+Then $m - pm - qm$ ways
+in which
+both are
+false [fig]figure[/fig]
+Can $1 - p - q$
+be equal to $(1-p)(1-q)$?
+No; for $(1-p)(1-q) = 1 - p - q + pq$
+Therefore $(1-p)(1-q) - pq$ is the probability
+[ins]both are false[/ins]

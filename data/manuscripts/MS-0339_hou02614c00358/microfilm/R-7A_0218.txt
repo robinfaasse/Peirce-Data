@@ -1,0 +1,25 @@
+It would seem to follow
+
+$$0 \equiv \text{Sincet} - 1 \cdot \omega_{u,v} \cdot \frac{\partial}{\partial \Sigma \mathcal{C}_x} \qquad \omega_{u,v} \equiv \omega_{v,u}$$
+
+or, [del]that[/del] $\mathcal{C}_{x+x+x\dots} \equiv \mathcal{C}_{n,x} \equiv n \mathcal{C}_x$
+
+But it plainly does not follow. Or rather that $n$ must be $\equiv 1$.
+
+It is true, however, that
+
+$$\mathcal{C}_{n,x} \equiv n \mathcal{C}_x$$
+
+for $\mathcal{C}_{x+u} \equiv \mathcal{C}_x + \mathcal{C}_u$ putting $u \equiv [del]n[/del] [ins]v[/ins],x$
+
+$$\mathcal{C}_{n,x+u} \equiv \mathcal{C}_{n,x} + \mathcal{C}_u$$
+
+And so $\mathcal{C}_{n,x} \equiv \mathcal{C}_{n,x} + \mathcal{C}_u$
+
+$$\therefore \mathcal{C}_u \mathcal{C}_x \equiv \mathcal{C}_{n,x} + \mathcal{C}_u \mathcal{C}_u$$
+
+Hence putting $v \equiv \mathcal{C}_u (\mathcal{C}_x - \mathcal{C}_u) (\mathcal{C}_x - \mathcal{C}_{n,x})$
+
+$$v, \mathcal{C}_{n,x} \mathcal{C}_x \equiv \mathcal{C}_{n,x}$$
+
+$$0 \equiv (\mathcal{C}_x - \mathcal{C}_{n,x}) v$$

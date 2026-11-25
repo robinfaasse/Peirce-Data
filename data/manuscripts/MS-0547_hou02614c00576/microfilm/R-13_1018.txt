@@ -1,0 +1,17 @@
+a special case under this broader conception.
+
+In order to use the calculus, we must observe that $\Pi$ denotes a logical product, $\Sigma$ a logical sum. Consequently, we have
+$$(\Pi_i a)(\Pi_i b) = \Pi_i (ab)$$
+$$(\Sigma_i a) + (\Sigma_i b) = \Sigma_i (a+b).$$
+Also,
+$$(\Pi_i a)(\Sigma_i b) = (\Pi_i a)(\Sigma_i ab)$$
+$$(\Pi_i a) + (\Sigma_i b) = \Pi_i (a+b) + (\Sigma_i b).$$
+
+[del]In place of[/del] the formula $\Pi \prec \Sigma$ [ins]maybe written[/ins] [del]we may write in the form[/del]
+$$\Pi_i a = (\Pi_i a)(\Sigma_i a)$$
+
+The formulae
+$$\Sigma_i \Pi_j \prec \Pi_j \Sigma_i$$
+may be written [del]then[/del] the form
+
+[del]$\Sigma_i \Pi_j = (\Pi$[/del]

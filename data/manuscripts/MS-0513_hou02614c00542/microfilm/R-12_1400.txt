@@ -1,0 +1,23 @@
+For example, suppose
+$$\Pi_a \overline{q}_{Pa} \Psi_{ab} \Psi_{ac} \Psi_{ad}$$
+$$\Pi_a \overline{q}_{QA} \Psi_{AB} \Psi_{AC} \Psi_{AD} \Psi_{AE}$$
+We can then prove that $\Sigma_4 \Sigma_5 \Sigma_6 q_{P4} \Psi_{E45} \gamma_{E46} q_{Q5} q_{Q6} T_{56}$. But
+in order to do so we must raise
+$$\Pi_8 \Sigma_7 q_{P7} \gamma_{878} \Psi \overline{q}_{Q8}$$
+to the fourth power. Each factor will then give (identifying A with 8)
+$$\Pi_8 \Sigma_7 q_{P7} \gamma_{878} \overline{q}_{Q8} \Psi T_{BB} T_{BC} T_{BD} T_{BE}$$
+In one factor we identify 8 with B, in another with C, in another with
+D and in another with E. Since $T_{xx} \prec 0$, this gives
+$$\Sigma_7 \Sigma_{7'} \Sigma_{7''} \Sigma_{7'''} [ins]q_{P7} q_{P7'} q_{P7''} q_{P7'''}[/ins] \gamma_{B7B} \gamma_{C7'C} \gamma_{D7''D} \gamma_{E7'''E} q_{QB} q_{QC} q_{QD} q_{QE} \text{.}$$
+We now multiply in the condition of constitution of P and identifying
+a with 7 we get
+$$\Sigma_7 \Sigma_{7'} \Sigma_{7''} \Sigma_{7'''} q_{P7} [ins]q_{P7'} q_{P7''} q_{P7'''}[/ins] \left( \begin{aligned} (l_{7b} \Psi l_{7c} \Psi l_{7d}) \\ (l_{7'b} \Psi l_{7'c} \Psi l_{7'd}) \\ (l_{7''b} \Psi l_{7''c} \Psi l_{7''d}) \\ (l_{7'''b} \Psi l_{7'''c} \Psi l_{7'''d}) \end{aligned} \right) \gamma_{B7B} \gamma_{C7'C} \gamma_{D7''D} \gamma_{E7'''E} q_{QB} q_{QC} q_{QD} q_{QE}$$
+By the definition of identity $l_{7b} \prec \Pi_8 \overline{q}_{78} \Psi q_{8b}$ and identifying
+$q_8$ with $\gamma_B$ we have [del]$\overline{q}_{7B} \Psi \gamma_{Bb}$[/del] [ins]$\overline{q}_{7B} \Psi \gamma_{Bb}$[/ins] $\gamma_{B7B} \Psi \gamma_{Bb}$. Then when this
+is multiplied by $\gamma_{B7B}$, it gives $\gamma_{Bb}$. [del]Thus, we get[/del] In like man-
+ner $q_{P7} l_{7b}$ gives $q_{Pb}$. Accordingly we get
+$$(\overline{q}_{Pb} \gamma_{Bb} \Psi \overline{q}_{Pc} \gamma_{Bc} \Psi \overline{q}_{Pd} \gamma_{Bd}) q_{QB}$$
+$$\cdot (\overline{q}_{Pb} \gamma_{Cb} \Psi \overline{q}_{Pc} \gamma_{Cc} \Psi \overline{q}_{Pd} \gamma_{Cd}) q_{QC}$$
+$$\cdot (\overline{q}_{Pb} \gamma_{Db} \Psi \overline{q}_{Pc} \gamma_{Dc} \Psi \overline{q}_{Pd} \gamma_{Dd}) q_{QD}$$
+$$\cdot (\overline{q}_{Pb} \gamma_{Eb} \Psi \overline{q}_{Pc} \gamma_{Ec} \Psi \overline{q}_{Pd} \gamma_{Ed}) q_{QE}$$
+When this is developed it will give 81 [del]terms[/del] aggregants. But it is not

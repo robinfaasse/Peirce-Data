@@ -1,0 +1,20 @@
+[marginalia]
+[date]1909 May 18 3 PM[/date]
+[u]MEANING[/u]
+Pragmaticism.
+[pn]39[/pn]
+[/marginalia]
+
+[del]of[/del] [ins]three[/ins] $2^2$ determinants and a $2^2$ determinant is [del]a $2^4$ determinant[/del] [ins]$(2N-1)^2$[/ins]
+
+So, from the above definition of a determinant, whatever positive integer $N$ may be, [del]a[/del] [ins]the simple sum of[/ins] determinant is equal to $2N-1$ determinants, each [ins]the product of a coefficient into and[/ins] a $2(N-1)$-determinant [del]multiplied by[/del],
+
+while a $(2N)^2$-determinant is composed in the same way except that the alternate signs
+
+are negative. Thus,
+
+$|11| = 11$
+
+$\left| \begin{matrix} 11, 12 \\ 21, 22 \end{matrix} \right| = 22 |11| - 21 |12|$
+
+$\left| \begin{matrix} 11, 12, 13 \\ 21, 22, 23 \\ 31, 32, 33 \end{matrix} \right| = 33 \cdot \left| \begin{matrix} 11, 12 \\ 21, 22 \end{matrix} \right| + 32 [del]\cdot[/del] |$

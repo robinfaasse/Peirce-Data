@@ -1,0 +1,19 @@
+1901 Oct 13 197r
+
+[u]The arithmetic of multitude[/u]
+
+[del]f=as small as[/del] [ins]few[/ins] [ins]1_{ik}[/ins]
+If the m's are as few as the n's $\Sigma_{s} \Pi_{i} \Sigma_{j} \Pi_{k} ( \bar{m_{i}} + \bar{m_{k}} + \gamma_{\rho ij} \cdot \bar{\gamma}_{\sigma kj} \cdot n_{j} )$
+
+[u]Addition[/u]
+
+If the x's are [del]few[/del] [ins]equal[/ins] [del]as few[/del] as the (m+n)s $\Sigma_{g} \Sigma_{\sigma} \Pi_{i} \Sigma_{j} [del]\Sigma \Pi_{k}[/del] 1_{i \rho} + \bar{x_{i}} + \bar{x_{k}} + m_{j} \cdot \gamma_{\rho ij} \cdot \bar{\gamma}_{S lj} + n_{k} \cdot \bar{\gamma}_{\sigma ij} \cdot \bar{\gamma}_{\sigma lk}$
+
+If the (m+n)s are as few as the x's [del]$\Sigma_{\tau} \Sigma_{\upsilon}$[/del]
+$\Sigma_{\phi} \Sigma_{\psi} \Pi_{u} \Sigma_{\nu} \Pi_{w} \{ \bar{m}_{u} + \chi_{\upsilon} \cdot \gamma_{\phi u \upsilon} \cdot ( 1_{u w} + \bar{m}_{w} + \bar{\gamma}_{\phi w \upsilon} ) \cdot ( \bar{n}_{w} + \bar{\gamma}_{\psi w \upsilon} ) \} \cdot \{ \bar{n}_{u} + \chi_{\upsilon} \cdot \gamma_{\psi u \upsilon} \cdot ( 1_{u w} + \bar{n}_{w} + \bar{\gamma}_{\psi w \upsilon} ) \cdot ( \bar{m}_{w} + \bar{\gamma}_{\phi w \upsilon} ) \}$
+
+[del]$\Sigma_{\phi} \Sigma_{\psi} \Pi_{u} \Sigma_{\nu} \Sigma_{w} = \bar{m}_{u} \cdot \bar{n}_{u} + \chi_{\upsilon} \cdot \chi_{\nu} \cdot ( \bar{\gamma}_{\phi u \upsilon} \cdot \bar{\gamma}_{\psi u \nu} + \bar{\gamma}_{\phi u \upsilon} \cdot \bar{\gamma}_{\psi u \upsilon} )$[/del]
+[del]$\bar{A}_{w} \bar{x}_{\upsilon} ( \bar{\gamma}_{\phi u \upsilon} \cdot \gamma_{\psi u \upsilon} + \bar{\gamma}_{\phi u \upsilon} \cdot \bar{\gamma}_{\psi u \upsilon} ) \chi_{v} \chi_{v}$[/del]
+[del]$ = \bar{m}_{u} \cdot \bar{n}_{u} + m_{u} \cdot n_{u} \cdot [ ( \gamma_{\phi u \upsilon} \cdot \bar{\gamma}_{\psi u \upsilon} \cdot \bar{\gamma}_{\phi u \nu} \cdot \gamma_{\psi u \nu} ) \cdot ( 1_{u w} + \bar{m}_{w} + \bar{\gamma}_{\phi w \upsilon} )' \cdot ( 1_{u w} + \bar{n}_{w} + \bar{\gamma}_{\psi w \nu} ) \cdot + \bar{m}_{u} \cdot \chi_{\upsilon} \cdot \bar{\gamma}_{\phi u \upsilon} \cdot ( 1_{u w} + \bar{m}_{w} + \bar{\gamma}_{\phi w \nu} )$[/del]
+
+$\Sigma_{\phi} \Sigma_{\psi} \Pi_{u} \Sigma_{\upsilon} \Pi_{w} \bar{m}_{u} \bar{n}_{u} + m_{u} \cdot \gamma_{\phi u \upsilon} \cdot \chi_{\upsilon} \cdot ( 1 + \bar{m}_{w} + \bar{\gamma}_{\phi w \upsilon} ) \cdot ( \bar{n}_{w} + \bar{\gamma}_{\psi w \upsilon} ) + n_{u} \cdot \gamma_{\psi u \upsilon} \cdot \chi_{\upsilon} \cdot ( 1_{u w} + \bar{n}_{w} + \bar{\gamma}_{\psi w \upsilon} ) \cdot ( \bar{m}_{w} + \bar{\gamma}_{\phi w \upsilon} )$

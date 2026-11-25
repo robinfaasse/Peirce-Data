@@ -1,0 +1,31 @@
+[marginalia]
+[del]division[/del] Bridges [del]1899[/del] [date]Jan 23[/date]
+[/marginalia]
+
+[pn]7[/pn]
+
+Height $m^{\text{th}}$ above first end =
+
+$$\sqrt{a^2+b^2} \sin \Theta - \sum_{m+1}^{N-1} n \sin \theta_n$$
+
+$$-\sqrt{a^2+b^2} \frac{\sin N}{\sin (\theta_N - \theta_0)} \sin (\Theta - \theta_0) + \sum_1^{N-1} n \sin (\theta_n - \theta_0) \frac{\sin \theta_N}{\sin (\theta_N - \theta_0)}$$
+
+$$= \frac{\splitfrac{\sqrt{a^2+b^2} \sin \Theta \cdot \sin (\theta_N - \theta_0) - \sum_{m+1}^{N-1} n \sin \theta_n \cdot \sin (\theta_N - \theta_0)}{-\sqrt{a^2+b^2} \sin \theta_N \sin (\Theta - \theta_0) + \sum_1^{N-1} n \sin (\theta_n - \theta_0) \sin \theta_N}}{\div \sin (\theta_N - \theta_0)}$$
+
+$$= \frac{\splitfrac{\left( \sqrt{a^2+b^2} \sin \Theta - \sum_{m+1}^{N-1} n \sin \theta_n \right) \cdot \sin (\theta_N - \theta_0)}{- \left( \sqrt{a^2+b^2} \sin (\Theta - \theta_0) \right) \cdot \sin \theta_N}}{/ \sin (\theta_N - \theta_0)}$$
+$$- \sum_1^{N-1} n \sin (\theta_n - \theta_0)$$
+
+$$= \frac{\left[ \sum_1^{N-1} n \sin (\theta_n - \theta_0) - \sqrt{a^2+b^2} \sin (\Theta - \theta_0) \right] \sin \theta_N - \left[ \sum_{m+1}^{N-1} n \sin \theta_n - \sqrt{a^2+b^2} \sin \Theta \right] \sin (\theta_N - \theta_0)}{\sin (\theta_N - \theta_0)}$$
+
+[marginalia]
+[del]$\int$[/del]
+$\sum_1^{N-1}$
+[/marginalia]
+
+This is to be summed from $m = [del]0[/del] [ins]1[/ins]$ to $m = [del]N-1[/del] [ins]$N-1$[/ins] [del]N-2[/del]$
+
+A pen is mightily improved by being cleaned. This is an example.
+But a certain amount of caution is requisite in cleaning a pen.
+That is certainly true. Who would think this was the same pen?
+
+[fig]Two small pen strokes[/fig]

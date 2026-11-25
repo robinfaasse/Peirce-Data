@@ -1,0 +1,33 @@
+For [del]x[/del] [ins]y[/ins] = 400 [del]three[/del] this gives
+$$800 \sqrt{5} + 3200 M^{-1} \log \left( \frac{\sqrt{5}+1}{2} \right)$$
+
+$$\begin{array}{r}
+1788.854 \\
+\underline{1539.878} \\
+3328.732
+\end{array}$$
+
+$$\begin{array}{l}
+800 \sqrt{5} = 100 \sqrt{80} = [del]1431.37085[/del] \\
+3200 M^{-1} \log \frac{\sqrt{5}+1}{2}
+\end{array}$$
+
+$$\begin{array}{l}
+\sqrt{5} = 2.23606798 \\
+\frac{\sqrt{5}+1}{2} = 1.61803399 \\
+\log = 0.2089876 \\
+\log \log = 9.3201205 \\
+\log M^{-1} = 0.3622157 \\
+\log 3200 = \underline{3.5051500} \\
+\quad = 3.1874862
+\end{array}$$
+
+$$\begin{array}{r}
+3.5228788 \\
+\underline{3.5051500} \\
+9.9828712
+\end{array}$$
+
+The weight of the cable is therefore $\frac{3200000}{3328.732}$ 5000 lb. per foot
+
+Supposing the statement that the stiffening truss is entirely unstrained by the dead load between C and B means that for 2800 feet the whole weight comes on the cable (which at any rate will probably answer for the present purpose)

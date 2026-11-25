@@ -1,0 +1,26 @@
+Case 1: Unicursal curve
+Case 10 [del]Order minimum 0[/del]
+Case 100 Class minimum 0
+Case 1002 Order maximum 2
+Then class maximum is 2
+[fig]Oval with tangent line[/fig]
+No singularity, two regions inside & outside
+From every outside point two [del]transversals[/del] [ins]tangents[/ins]. From every inside point none. Every line through [del]outside[/del] [ins]inside[/ins] cuts twice. Every line not through inside cuts not at all.
+Point cannot pass from one to another without passing through curve [del]and line not from one to other without passing tangency.[/del]
+Case 1004 Order max. 4
+[ins]binode[/ins] [del]inside[/del] or bitangent or 2 inflexions
+
+[fig]Oval[/fig] [fig]Oval with self-intersection[/fig] [fig]Oval with two cusps[/fig] [fig]Circle[/fig] [fig]Three-cusped hypocycloid[/fig] [fig]Oval with two cusps[/fig] [fig]Oval with cusp and self-intersection[/fig]
+
+2 inflexions and 1 [del]bitangent[/del]
+[del]2 in[/del] 2 inflexions and [del]bitangent[/del]
+Case 10044 Class max 4.
+2 Inflexions and a bitangent
+2 Cusps and a binode
+1 [del]Binode[/del] [ins]Cusp[/ins] and 1 bitangent
+
+[fig]Curve A: Limacon-like curve with loop and two cusps[/fig] [fig]Curve B: Limacon-like curve with loop and two cusps[/fig] [fig]Curve C: Cardioid-like curve with one cusp[/fig]
+A [space] B [space] C
+
+A There are three point-regions in the loop, in the triangle and outside. There are two line regions, lines which either cut the loop or both parts of curve on the loop side of cusps without cutting between the cusps, and lines which neither cut the loop nor both parts from loop to cusps unless they cut the [del]loop[/del] [ins]cusps[/ins]:
+[fig]W-shaped curve[/fig]

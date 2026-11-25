@@ -1,0 +1,24 @@
+[marginalia]Calc. Diff.
+13[/marginalia]
+
+The symbol [u]E[/u]ₙ has no effect upon a constant, nor
+upon a [del]member of a succession which varies[/del] [ins]independently of n.[/ins] Thus,
+[u]E[/u]ₙ [u]a[/u] [u]u[/u]ₙ = [u]a[/u] [u]E[/u]ₙ [u]u[/u]ₙ
+[u]E[/u]ₙ [u]u[/u]ₙ₋ₘ [u]v[/u]ₘ = [u]u[/u]ₙ₋ₘ₊₁ [u]v[/u]ₘ .
+
+The subscript to the enlargement is always a single
+letter. If it were a complex expression, it would be
+necessary to state what was to be remain constant.
+Thus, we should have
+[u]E[/u]ₘ₊ₙ [u]u[/u]₂ₘ [u]v[/u]₂ₙ = [u]u[/u]₂ₘ₊₁ [u]v[/u]₂ₙ₊₁ .
+[ins]([u]m-n[/u]=const.)[/ins]
+But
+[u]E[/u]ₘ₊ₙ [del][u]u[/u]₂ₘ [u]v[/u]₂ₙ[/del] = [u]u[/u]₂ₘ₊₆ [u]v[/u]₂ₙ₋₄ .
+[ins](2[u]m[/u]+3[u]n[/u]=const.)[/ins]
+
+Such expressions are needless. It might however be
+convenient to write [u]E[/u]ₚ₊ₘ . This would naturally be
+understood to mean that [u]p[/u] remained unchanged; so that
+[u]E[/u]ₚ₊ₘ [u]u[/u]ₘ₊ₚ = [u]u[/u]ₘ₊₁₊ₚ .
+
+But a fractional subscript would usually be meaningless. We

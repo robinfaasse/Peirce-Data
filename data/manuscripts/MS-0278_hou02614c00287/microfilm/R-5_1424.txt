@@ -1,0 +1,17 @@
+```
+[fig]Grid of numbers and calculations[/fig]
+
+$$\delta^2 = 4 \Delta^2 + 4 \Delta^3 + \Delta^4$$
+$$\underline{4 \Delta^2 + 12 \Delta^3 + 13 \Delta^4 + 6 \Delta^5 + \Delta^6}$$
+$$4 \Delta^2 + 20 \Delta^3 + 41 \Delta^4 + 44 \Delta^5 + 26 \Delta^6 + 8 \Delta^7 + \Delta^8$$
+$$\underline{4 \Delta^2 + 28 \Delta^3 + 85 \Delta^4 + 146 \Delta^5 + 155 \Delta^6 + 104 \Delta^7 + 43 \Delta^8 + 10 \Delta^9 + \Delta^{10}}$$
+
+$$\delta^3 = \phantom{4 \Delta^2 + } 8 \Delta^3 + 12 \Delta^4 + 6 \Delta^5 + \Delta^6$$
+$$\underline{\phantom{4 \Delta^2 + } 8 \Delta^3 + 28 \Delta^4 + 38 \Delta^5 + 25 \Delta^6 + 8 \Delta^7 + \Delta^8}$$
+$$\phantom{4 \Delta^2 + } 8 \Delta^3 + 44 \Delta^4 + 102 \Delta^5 + 129 \Delta^6 + 96 \Delta^7 + 41 \Delta^8 + 10 \Delta^9 + \Delta^{10}$$
+
+$$\delta^4 = \phantom{4 \Delta^2 + 8 \Delta^3 + } 16 \Delta^4 + 32 \Delta^5 + 24 \Delta^6 + 8 \Delta^7 + \Delta^8$$
+$$\underline{\phantom{4 \Delta^2 + 8 \Delta^3 + } 16 \Delta^4 + 64 \Delta^5 + 104 \Delta^6 + 88 \Delta^7 + 41 \Delta^8 + 10 \Delta^9 + \Delta^{10}}$$
+
+$$\delta^5 = \phantom{4 \Delta^2 + 8 \Delta^3 + 16 \Delta^4 + } 32 \Delta^5 + 80 \Delta^6 + 80 \Delta^7 + 40 \Delta^8 + 10 \Delta^9 + \Delta^{10}$$
+```

@@ -1,0 +1,44 @@
+There are 19 involving only the copula
+
+[fig]bracket[/fig]
+$x \prec a$
+$x \prec \bar{a}$
+$\bar{x} \prec a$
+$\bar{x} \prec \bar{a}$
+$x = a$
+$x = \bar{a}$
+
+[fig]bracket[/fig]
+$a \prec x$
+$a \prec \bar{x}$
+$\bar{a} \prec x$
+$\bar{a} \prec \bar{x}$
+$\bar{x} = a$
+$\bar{x} = \bar{a}$
+
+[fig]oval[/fig]
+$x \prec x$ etc
+$x = x$ etc
+[fig]/oval[/fig]
+
+$x \prec \bar{x} = x \prec 0$
+$\bar{x} \prec x = x \succ 0$
+$x = \bar{x}$ [fig]oval[/fig] etc [fig]/oval[/fig]
+[u]$x = x$ etc[/u]
+
+$x \prec x = \bar{x} \prec \bar{x} = x \succ x = \bar{x} \succ \bar{x} = x = x = \bar{x} = \bar{x}$ etc
+
+[fig]bracket[/fig]
+His solution of this is interesting, but obvious
+$x = u \bar{u} = v + \bar{v}$
+$x = \bar{u} \bar{v}$
+$x = \bar{u} + \bar{v}$
+$x = \bar{u} \bar{v}$
+$x = \bar{u} + \bar{v}$
+$x = \bar{u} \bar{v}$
+$x = \bar{u} + \bar{v}$
+[fig]/bracket[/fig]
+
+[fig]oval[/fig]
+$x = \bar{x} = 0$
+[fig]/oval[/fig]

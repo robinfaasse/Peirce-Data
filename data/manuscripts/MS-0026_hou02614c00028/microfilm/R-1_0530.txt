@@ -1,0 +1,28 @@
+[pn]11[/pn]
+On Multitude
+
+<u>Theorem 8</u>. Taking any relation whatsoever, there is a collection, to every
+unit of which, and to nothing else, everything is in that relation. That is,
+(15) $\Pi_{\alpha}\Sigma_{\beta}\Pi_{x}\Pi_{y} (\overline{q}_{\beta y} + r_{\alpha x y})\cdot (\overline{r}_{\alpha x y} + q_{\beta y})$.
+
+This is a consequence of the first order from (2), (3) and (9); so that $(2)\cdot(3)\cdot(9) \prec$
+(15). For multiplying (9) by (5) in which we change $\alpha$ to $\delta$ and $x$ to $z$, we get
+$\Sigma_{\delta}\Pi_{\alpha}\Pi_{\beta}\Sigma_{y}\Pi_{x}\Pi_{y}\Pi_{z} q_{\delta z}\cdot [\overline{q}_{\beta z} + (\overline{r}_{\alpha x y} + q_{\gamma y})\cdot (r_{\alpha x y} + \overline{q}_{\gamma y})]$.
+Identifying $\beta$ with $\delta$ and $z$ with $x$, and [del]applying[/del] [ins]employing[/ins] the usual reductions, we get
+$\Sigma_{\delta}\Pi_{\alpha}\Sigma_{\gamma}\Pi_{x}\Pi_{y} (\overline{r}_{\alpha x y} + q_{\gamma y})\cdot (r_{\alpha x y} + \overline{q}_{\gamma y})$.
+Dropping $\delta$, which does not occur in the Boolean and changing $\gamma$ to $\beta$, we get (15)
+Q.E.D.
+
+<u>Corollary 2</u>. In (15) if we carry [del]for[/del] the $\Sigma$ to the right, we get
+(15 bis) $\Pi_{\alpha}\Pi_{x}\Sigma_{\beta}\Pi_{y} (\overline{q}_{\beta y} + r_{\alpha x y})\cdot (\overline{r}_{\alpha x y} + q_{\beta y})$.
+That is, taking any relation whatsoever and any object whatsoever, there
+is a collection to every unit of which, and to nothing else, that object is in
+that relation.
+
+<u>Theorem 9</u>. For every relation there is a negative relation, such that
+every object stands to every object in the one relation or the other, and
+is either not in the one relation or not in the other to that object. That is,
+(16) $\Pi_{\alpha}\Sigma_{\beta}\Pi_{x}\Pi_{y} (r_{\alpha x y} + r_{\beta x y})\cdot (\overline{r}_{\alpha x y} + \overline{r}_{\beta x y})$.
+
+This is a consequence of the second order in (2) and of the first in (3), (8), and (9); so that
+$(2)^{2}\cdot(3)\cdot(8)\cdot(9) \prec (16)$.

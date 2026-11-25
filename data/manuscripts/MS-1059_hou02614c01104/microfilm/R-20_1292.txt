@@ -1,0 +1,72 @@
+$$x^3 = 1$$
+
+$$\begin{array}{c}
+p + q + r = 0 \\
+(p+q)r + pq = 0 \\
+pq = r^2 \\
+p + q = -r \\
+(p+q)^2 = r^2 \\
+(p-q)^2 = -3r^2 \\
+p-q = r\sqrt{3}.i \\
+p = \frac{r}{2}(1 + \sqrt{3}.i)
+\end{array}$$
+
+$$\begin{array}{c}
+p(q+r) + qr = 0 \\
+qr = \frac{1}{p} \\
+q+r = -\frac{1}{p^2} \\
+(q+r)^2 = 1/p^4 \\
+(q-r)^2 = 1/p^4 - 4/p \\
+q-r = \frac{1}{p^2}\sqrt{1 - 4p^3} \\
+[del]q = \frac{1}{2}[/del] \\
+q = \frac{1}{2p^2}(-1 + \sqrt{1 - 4p^3})
+\end{array}$$
+
+$$\begin{array}{c}
+pr = \frac{1}{q} \\
+p+r = -q \\
+(p+r)^2 = q^2 \\
+(p-r)^2 = q^2 - \frac{4}{q} \\
+p-r = q\sqrt{1 - 4/q^3} \\
+r = \frac{q}{2}(-1 \pm \sqrt{1 - 4/q^3})
+\end{array}$$
+
+***
+
+$$x^3 - 2x^2 + x - 2 = 0$$
+
+$$\begin{array}{c}
+p+q = 2-r \\
+(p+q)r + pq = 1 \\
+[del]r^2[/del] pq = [del]r +[/del] r^2 - 2r + 1 \\
+= (r-1)^2 \\
+(p+q)^2 = (r-2)^2 \\
+(p-q)^2 = (r-2)^2 - 4(r-1)^2 \\
+p-q = (r-2)\sqrt{1 - 4(\frac{r-1}{r-2})^2} \\
+p = (\frac{r}{2}-1)[-1 \pm \sqrt{1 - 4(\frac{r-1}{r-2})^2}] \\
+= (1-\frac{r}{2})(1 + \sqrt{1 - 4(\frac{1-r}{2-r})^2})
+\end{array}$$
+
+$$\begin{array}{c}
+p(q+r) + qr = 1 \\
+pqr = \frac{2}{p} \\
+q+r = \frac{1 - \frac{2}{p}}{p} = \frac{p-2}{p^2} \\
+(q+r)^2 = \frac{(p-2)^2}{p^4} \\
+(q-r)^2 = \frac{(p-2)^2}{p^4} - \frac{8}{p} \\
+q-r = \frac{p-2}{p^2}\sqrt{1 - \frac{8p^3}{(p-2)^2}} \\
+q = \frac{p-2}{2p^2}(1 \pm \sqrt{1 - \frac{8p^3}{(p-2)^2}})
+\end{array}$$
+
+$$\begin{array}{c}
+pr = \frac{2}{q} \\
+p+r = 2-q \\
+(p+r)^2 = (q-2)^2 \\
+(p-r)^2 = (q-2)^2 - \frac{8}{q} \\
+p-r = (q-2)\sqrt{1 - \frac{8}{q(q-2)^2}} \\
+r = \frac{(q-2)}{2}(-1 \pm \sqrt{1 - \frac{8}{q(q-2)^2}})
+\end{array}$$
+
+$$\begin{array}{c}
+q = \frac{2-p}{2p^2}(-1 \pm \sqrt{1 - \frac{8p^3}{(2-p)^2}}) \\
+r = \frac{2-q}{2}(-1 \pm \sqrt{1 - \frac{8}{q(2-q)^2}})
+\end{array}$$

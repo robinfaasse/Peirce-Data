@@ -1,0 +1,23 @@
+same one, then clearly every vowel will be pointed to. If any arrow
+points from one vowel to another, say it points from A to E. Then the
+arrow from E cannot point [del]to[/del] [ins]to[/ins] E without violating the condition that two
+arrows must not point to the same vowel. If an arrow points from E to A,
+then [del]unless[/del] [ins]either[/ins] the arrows will point from each of the
+remaining three vowels to the same vowel, or
+from each of two to the other, or cyclically. If the arrow
+from E points to I, then the arrow from I will point
+to A, making a case already considered, or to another
+vowel, say O. [del]If[/del] [ins]And[/ins] the arrow from O must then either
+point to A or to U. In every one of these cases, every vowel has an arrow
+pointing to it. Consequently, the vowels violate the definition of an infinite
+collection.
+
+[fig]Four diagrams showing arrows between vowels A, E, I, O, U[/fig]
+
+Two collections are equal if an arrow [del]may[/del] [ins]can[/ins] point from every unit of [del]one[/del] [ins]the either[/ins]
+[ins]collection[/ins] to a unit of the other, without two arrows pointing [del]either to or from[/del] [ins]to[/ins] the same unit[del],
+and without an[/del]. This is the definition of equality. It is all we mean by equality.
+Now according to this definition, [del]first[/del] it follows, first and obviously, that no
+change in the [ins]arrangement[/ins] order of a collection can make it unequal to itself; secondly, that
+[ins]not all possible[/ins] infinite collections are equal to one another. The number-system cannot dis-
+tinguish these multitudes; but nevertheless they are unequal.

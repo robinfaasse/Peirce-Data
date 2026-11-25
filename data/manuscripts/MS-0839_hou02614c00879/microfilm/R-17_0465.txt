@@ -1,0 +1,24 @@
+[(S⤙T)⤙(U⤙V)] ⤙ [(W⤙X) ⤙ (Y⤙Z)]
+
+[fig]Diagram with curved lines connecting terms of the formula below[/fig]
+(S̄+T) U V̄ + W X̄ + Ȳ + Z
+
+[(S⤙T)⤙(T⤙V)] ⤙ [(S⤙V) ⤙ (T⤙V)]
+
+[marginalia]
+S⤙T
+∴ T⤙V
+[/marginalia] (S̄+T) T V̄ + S V̄ + T̄ + V
+
+[del]XY + X̄Ȳ[/del] [del]+ (X + Y) (X̄ + Ȳ)[/del]
+XY + X̄Ȳ [del]+ X Ȳ +[/del]
+
+(S̄+T) U V̄ + S V̄ + U T̄ + Ū + V
+[(S⤙T)⤙(U⤙V)] ⤙ (S⤙V) ⤙ [del](U⤙T) ⤙[/del] U⤙V
+[del](U⤙T)[/del] ⤙ U ⤙ V
+
+U V̄
+
+Assume (S⤙T) ⤙ (U⤙V)
+Then if we assume (S⤙T) we assume U⤙V
+If we do not assume S⤙T we assume S and not T

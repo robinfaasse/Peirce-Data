@@ -1,0 +1,29 @@
+FL [fig]figure[/fig] 97
+
+In order to express that every man loves every woman, we write
+$$m \prec \ell \dagger \bar{w}$$
+or every pair of which the first member is a man and the second
+a woman is a pair of lover and loved. Multiplying by $\breve{w}$
+$$m \breve{w} \prec (\ell \dagger \bar{w}) \breve{w} \prec \ell \dagger \bar{w} \breve{w} \prec \ell \dagger \tau \prec \ell$$
+So that $$m \breve{w} \prec \ell$$
+From this we can recover the original form of statement, for
+$$m \prec m 1 \prec m (\breve{w} \dagger \bar{w}) \prec m \breve{w} \dagger \bar{w} \prec \ell \dagger \bar{w}.$$
+In the general algebra this is written
+$$\Pi_i \Pi_j \Sigma_k m_{ik} \cdot w_{jk} \prec \ell_{ij}.$$
+On the same principle to express that [ins]in[/ins] every way in which every
+horse can be praised to a man there is some woman who
+so praises them, we ought to write something like this.
+$$m^{\breve{h}} \prec \acute{p}_{\breve{w}}$$ [del]or $(m^{\breve{h}})^{\bar{h}} \prec m'$[/del]
+That is, just as $m \breve{w} \prec \ell$ means
+$$m, \breve{w}_1 + m_2 \breve{w}_2 + m_3 \breve{w}_3 \dots \prec \ell_{11} + \ell_{21} + \ell_{31}$$
+$$m_1 \breve{w}_2 + m_2 \breve{w}_2 + m_3 \breve{w}_2 \dots \prec \ell_{12} + \ell_{22} + \ell_{32}$$
+etc etc
+
+so (supposing there are 3 men and [del]two[/del] [ins]two[/ins] horses)
+$$m_1 \breve{h}_1 \cdot m_1 \breve{h}_2 + m_1 \breve{h}_1 \cdot m_2 \breve{h}_2 + m_1 \breve{h}_1 \cdot m_3 \breve{h}_2$$
+$$+ m_2 \breve{h}_1 \cdot m_1 \breve{h}_2 + m_2 \breve{h}_1 \cdot m_2 \breve{h}_2 + m_2 \breve{h}_1 \cdot m_3 \breve{h}_2 \prec (\acute{p} \breve{w})_{11} \cdot (\acute{p} \breve{w})_{12} + \text{etc}$$
+$$+ m_3 \breve{h}_1 \cdot m_1 \breve{h}_2 + m_3 \breve{h}_1 \cdot m_2 \breve{h}_2 + m_3 \breve{h}_1 \cdot m_3 \breve{h}_2$$
+
+In order to transform $m^{\breve{h}} \prec (\acute{p} \breve{w})$ we notice that if $k \prec h$ then $m^{\breve{k}} \prec m^{\breve{h}}$
+Hence since $\bar{h} \breve{h} \prec \tau \quad m^{\tau} \prec (m^{\breve{h}})^{\bar{h}} \prec (\acute{p} \breve{w})^{\bar{h}}$
+This ought to express that [del]every collection of men[/del] [ins]something to which a woman[/ins] [del]not greater than the collection[/del]

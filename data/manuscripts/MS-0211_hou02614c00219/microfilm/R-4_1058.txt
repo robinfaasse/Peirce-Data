@@ -1,0 +1,22 @@
+[pn]17[/pn]
+
+We have also
+$$\sum u_{x,y} = \frac{-\frac{29}{2}\left(\frac{29}{31}\right)^y - y\left(\frac{29}{31}\right)^{x+1}}{1 - \left(\frac{29}{31}\right)^{x+1}}$$
+
+Now
+$$\frac{1}{(E-1)(E-\frac{29}{31})} = \frac{31}{2}\left(\sum - \left(\frac{29}{31}\right)^y \sum \left(\frac{31}{29}\right)^y\right)$$
+and this performed upon $u_{x,y}$ with neglect of terms
+not involving $y$ or involving it only as exponent of $\left(\frac{29}{31}\right)$
+gives as a particular solution
+[del]$u_{x,y}$[/del] $U_{x,y} = 30 y \frac{\left(\frac{29}{31}\right)^{y+1} + \left(\frac{29}{31}\right)^{x+1}}{1 - \left(\frac{29}{31}\right)^{x+1}}$
+
+For performing upon this the operation $\left(\frac{31}{60}E_y - 1 + \frac{29}{60}E_y^{-1}\right)$
+we get
+$$\frac{31}{60}E_y = 30 (y+1) \frac{\left(\frac{29}{30}\right)\left(\frac{29}{31}\right)^{y+1} + \frac{31}{60}\left(\frac{29}{31}\right)^{x+1}}{1 - \left(\frac{29}{31}\right)^{x+1}}$$
+$$\frac{29}{60}E_y^{-1} = 30 (y-1) \frac{\frac{31}{60}\left(\frac{29}{31}\right)^{y+1} + \frac{29}{60}\left(\frac{29}{31}\right)^{x+1}}{1 - \left(\frac{29}{31}\right)^{x+1}}$$
+$$-1 = -30 y \frac{\left(\frac{29}{31}\right)^{y+1} + \left(\frac{29}{31}\right)^{x+1}}{1 - \left(\frac{29}{31}\right)^{x+1}}$$
+
+$$\text{Sum} = \frac{-\left(\frac{29}{31}\right)^{y+1} + \left(\frac{29}{31}\right)^{x+1}}{1 - \left(\frac{29}{31}\right)^{x+1}} = -u_{x,y}$$
+
+so that the equation is satisfied. Hence, in general,
+[del]$u_{x,y}$[/del] $U_{x,y} = C_1 + C_2 \left(\frac{29}{31}\right)^y + 30 y \frac{\left(\frac{29}{31}\right)^{y+1} + \left(\frac{29}{31}\right)^{x+1}}{1 - \left(\frac{29}{31}\right)^{x+1}}$

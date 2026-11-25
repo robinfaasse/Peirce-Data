@@ -1,0 +1,21 @@
+[pn]Page 13[/pn] My Rules for Parentheses,
+
+I. An added product needs no parenthesis
+[del]ab[/del] [ins]a·b[/ins] [u]⫝[/u] c = (a·b) [u]⫝[/u] c
+a·b [u]⫝̸[/u] c = (a·b) [u]⫝̸[/u] c
+ab [u]⫝[/u] c = (ab) [u]⫝[/u] c
+ab [u]⫝̸[/u] c = (ab) [u]⫝̸[/u] [del]c[/del] [ins]c[/ins]
+
+II A relative compound component of a similar non-relative compound needs [del]not[/del] [ins]no[/ins] parenthesis
+a[u]⫝̸[/u] b [u]⫝[/u] c = (a[u]⫝̸[/u]b) [u]⫝[/u] c
+ab·c = (ab)·c
+
+I might have written the consequent of Clause II in the slightly neater form,
+([u]⫞[/u] [u]⫝̸[/u] x [u]⫝[/u] [u]⫟[/u] [u]⫝̸[/u] [u]x̄[/u]) ∞ [u]⫝[/u] [u]⫞[/u] x · [u]⫞[/u] [u]x̄[/u] [u]⫝̸[/u] 0
+
+From the antecedent the usual formula gives
+[del]⫞[/del] [u]⫞[/u] [u]⫝̸[/u] x [u]⫝̸[/u] 0 [u]⫝[/u] [u]⫟[/u] [u]⫝̸[/u] [u]x̄[/u] [u]⫝̸[/u] 0 [u]⫝[/u] [u]⫞[/u] x · [u]⫞[/u] [u]x̄[/u] [u]⫝̸[/u] 0
+
+In Note B, I did not give the formula
+x [u]⫝̸[/u] 0 [del]⤙[/del] [ins]⤙[/ins] [u]x̄[/u] ∞
+doubting whether it was correct without adding some further premiss. But I do not now see any room to doubt it. With this, we reach the consequent.

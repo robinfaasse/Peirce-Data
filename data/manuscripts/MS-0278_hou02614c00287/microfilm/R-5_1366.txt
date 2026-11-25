@@ -1,0 +1,35 @@
+Now take the case in which $E$ does not vanish.
+
+$$Ey^4 + (Cx^2 - a^2)y^2 = -x^4 - a^2x^2$$
+
+$$4E^2y^4 + 4(Cx^2 - a^2)Ey^2 = -4Ex^4 - 4Ea^2x^2$$
+
+$$2Ey^2 = -Cx^2 + a^2 \pm \sqrt{(Cx^2 - a^2)^2 - 4Ex^4 - 4Ea^2x^2}$$
+
+$$= -Cx^2 + a^2 \pm \sqrt{(C^2 - 4E)x^4 - 2a^2(C + 2E)x^2 + a^4}$$
+
+$$2E \frac{d(y^2)}{d(x^2)} = -C \pm \frac{(C^2 - 4E)x^2 - a^2(C + 2E)}{\sqrt{(C^2 - 4E)x^4 - 2a^2(C + 2E)x^2 + a^4}}$$
+
+Putting this equal to $2E \frac{y^2}{x^2}$
+
+$$-C + \frac{a^2 \pm \sqrt{(C^2 - 4E)x^4 - 2a^2(C + 2E)x^2 + a^4}}{x^2}$$
+
+$$= -C \pm \frac{(C^2 - 4E)x^2 - a^2(C + 2E)}{\sqrt{(C^2 - 4E)x^4 - 2a^2(C + 2E)x^2 + a^4}}$$
+
+Clearing from fractions, and cancelling the term $-C$
+
+$$\pm a^2 \sqrt{(C^2 - 4E)x^4 - 2a^2(C + 2E)x^2 + a^4}$$
+
+$$\pm [del](-C^2 + 4E)x^4 + 2a^2(C + 2E)x^2 - a^4[/del]$$
+
+$$+ (C^2 - 4E)x^4 - a^2(C + 2E)x^2$$
+
+$$= a^2(C + 2E)x^2 - a^4$$
+
+Dropping the factor $a^2$ and squaring
+
+$$(C^2 - 4E)x^4 - 2a^2(C + 2E)x^2 + a^4$$
+
+$$= (C^2 + 4[del]E[/del][ins]C[/ins]E + E^2)x^4 - 2a^2(C + 2E)x^2 + a^4$$
+
+or $x^4 = 0$

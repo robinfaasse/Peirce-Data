@@ -1,0 +1,30 @@
+[pn]89[/pn]
+
+[del]For[/del] We know that $ai+bj$ cannot be a scalar; for
+then a quantity could in two ways be resolved into a scalar and
+vector parts. Now
+$(ai+bj)^{2} = -a^{2}-b^{2}+2abs$.
+This must therefore be negative. For $(ai+bj) = S+V$ and
+$V$ does not vanish. Thence
+$(ai+bj)^{2} = S^{2}+V^{2}+2SV$;
+and since, by comparison, it appears the vector part
+$2SV$ vanishes, it follows that $S=0$, and the sum,
+[ins]or linear function,[/ins] of two vectors is a vector.
+
+The same thing is evident because $s^{2} \leqq 1$, whence
+$-a^{2}-b^{2}+2abs = -p(a+b)^{2} - (1-p)(a-b)^{2}$,
+where $p = \frac{s+s}{2}$ and $1-p = \frac{1-s}{2}$, both of which are positive,
+or zero.
+
+Let us then assume a vector $j_{1}$, such that
+$j_{1} = \frac{si+j}{\sqrt{1-s^{2}}}$
+
+$j_{1}^{2} = \frac{-s^{2}-1+2s^{2}}{1-s^{2}} = -1$
+
+$ij_{1} = \frac{-s+s+v}{\sqrt{1-s^{2}}} = \frac{v}{\sqrt{1-s^{2}}}$     $j_{1}i = -\frac{v}{\sqrt{1-s^{2}}}$
+
+$j_{1} \frac{v}{\sqrt{1-s^{2}}} = j_{1}ij_{1} = -j_{1}^{2}i = i$     $\frac{v}{\sqrt{1-s^{2}}} j_{1} = ij_{1}j_{1} = -i$
+
+$i \frac{v}{\sqrt{1-s^{2}}} = iij_{1} = -j_{1}$     $\frac{v}{\sqrt{1-s^{2}}} i = [del]i[/del] [ins]j_{1}[/ins]ii = -j_{1}$
+
+$(\frac{v}{\sqrt{1-s^{2}}})^{2} = -ij_{1}ji = -1$. [pn]97[/pn]

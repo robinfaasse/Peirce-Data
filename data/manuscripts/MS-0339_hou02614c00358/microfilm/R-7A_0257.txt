@@ -1,0 +1,34 @@
+[pn]72r[/pn]
+
+when $A=1$ $B=0$ $C=0$ the expression becomes $F^A + I$
+" $A=0$ $B=1$ " " " $F^B + I$
+" $A=0$ $B=0$ $C=1$ " " " $F^C + I$
+
+The product is
+$F^A F^B F^C + I = 0$
+
+[del]Suppose[/del] [ins]Denote[/ins] $I = D \Sigma M + \Sigma N$
+where $D$ has the signification mentioned above
+
+Thence it is easy to deduce that if $(1-A)(1-B)(1-C) = 0$ or
+if only 3 colours are used
+$D = C$
+
+But $D = F^A F^B$
+when $D, F^C = 0$
+
+That is $D$ cannot touch $C$
+
+But from the given equations alone this cannot
+be deduced. Hence not in [del]every[/del] [ins]any[/ins] case will 3
+colours serve.
+
+Now let suppose $(1-A)(1-B)(1-C)(1-C^{(1-C)^{(1-C)^{etc}}}) = 0$
+or that 4 colours are used.
+
+Then if $D = C$ Nothing follows from this proposition
+[del]But then suppose[/del]
+if $D C = 0$ [del]or $D = (1-A)(1-B)(1-C)$[/del] then
+
+But there is nothing in the given equations
+to contradict it.

@@ -1,0 +1,36 @@
+[pn]5.[/pn]
+
+<u>Logic of Quantity</u>
+and thus calls for definition here.
+
+<u>Definition 3</u>. We say that one collection, [u]m[/u], is a part of another,
+[u]n[/u], as whole, and may write [u]w[/u]<sub>mn</sub>, if, and only if, [u]n[/u] includes [del]m[/del] [ins]but[/ins]
+is not included by [u]m[/u]. That is,
+(8) [tab] [tab] [Pi]<sub>m</sub> [Pi]<sub>n</sub> [Sigma]<sub>v</sub> [Pi]<sub>u</sub> [u]w[/u]<sub>mn</sub> + [bar]q[/bar]<sub>nv</sub> · [bar]q[/bar]<sub>mv</sub> · ([bar]q[/bar]<sub>mu</sub> + q<sub>nu</sub>)
+(9) [tab] [tab] [Pi]<sub>m</sub> [Pi]<sub>n</sub> [Pi]<sub>v</sub> [Sigma]<sub>u</sub> ([bar]q[/bar]<sub>nv</sub> + q<sub>mv</sub> + q<sub>mu</sub> · [bar]q[/bar]<sub>nu</sub> + [u]w[/u]<sub>mn</sub>
+
+<u>Corollary 9</u>. Nothing, 0, considered as a collection, is [del]not[/del] a part
+of [del]any[/del] [ins]every[/ins] collection[ins], except itself.[/ins]. For [Pi]<sub>v</sub> [bar]0[/bar]<sub>v</sub> [del]= 0[/del] [ins]defines 0. Hence, unless n is 0, [Sigma]<sub>v</sub> [Pi]<sub>u</sub> [bar]q[/bar]<sub>nv</sub> · [bar]q[/bar]<sub>0v</sub> · ([bar]q[/bar]<sub>0u</sub> + q<sub>nu</sub>).[/ins] [del]Hence identifying m in (8) q<sub>n</sub> with 0[/del]
+[del]Multiplying this into (9) and identifying m with 0, we get w<sub>0n</sub> unless n = 0.[/del]
+[ins]we get [Pi]<sub>n</sub> [u]w[/u]<sub>0n</sub>.[/ins]
+
+<u>Corollary 10</u>. No collection is a part of 0. For [Pi]<sub>u</sub> q<sub>0u</sub>. Multi-
+plying this by (8), [del]and[/del] identifying [u]n[/u] with 0, we get [Pi]<sub>m</sub> [u]w[/u]<sub>m0</sub> + [Pi]<sub>u</sub> [bar]q[/bar]<sub>mu</sub>
+But the last term by the definition of 0 makes [u]m[/u] 0. Hence by Corol-
+lary 9 [Pi]<sub>m</sub> [u]w[/u]<sub>m0</sub>.
+
+<u>Corollary 11</u>. The entire universe, [del]V[/del] [ins][u]v[/u][/ins], is not a part of any collec-
+tion. For [Pi]<sub>v</sub> q<sub>vv</sub>. Multiplying this into (8) we get [Pi]<sub>n</sub> [u]w[/u]<sub>vn</sub>.
+
+<u>Corollary 12</u>. Every collection, except [del]0 and[/del] [ins]itself[/ins] [del]v[/del], is a part of the
+universe. For [Pi]<sub>m</sub> [Sigma]<sub>v</sub> [bar]q[/bar]<sub>mv</sub> + l<sub>vm</sub>. Multiplying this and T<sub>vsm</sub> into
+(9) we get [Pi]<sub>m</sub> [u]w[/u]<sub>mv</sub> + l<sub>vm</sub>.
+
+<u>Theorem 5</u>. [del]Every collection included in a part of another is a[/del]
+[del]part of every collection which includes that other.[/del]
+
+<u>Demonstration</u>. Suppose [u]w[/u]<sub>mn</sub> and suppose [u]m[/u] includes [u]l[/u] and
+[u]o[/u] includes [u]n[/u]. Then I say that [u]w[/u]<sub>lo</sub>. For the definitions give
+[tab] [tab] [tab] [Pi]<sub>u</sub> [bar]q[/bar]<sub>lu</sub> + q<sub>mu</sub>
+[tab] [tab] [tab] [Sigma]<sub>v</sub> [Pi]<sub>u'</sub> [bar]q[/bar]<sub>nv</sub> · [bar]q[/bar]<sub>mv</sub> · ([bar]q[/bar]<sub>mu'</sub> + q<sub>nu'</sub>)
+[tab] [tab] [tab] [Pi]<sub>u''</sub> [bar]q[/bar]<sub>nu''</sub> + q<sub>ou''</sub>

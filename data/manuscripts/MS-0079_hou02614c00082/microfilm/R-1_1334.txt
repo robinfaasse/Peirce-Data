@@ -1,0 +1,38 @@
+[pn]No. 79[/pn]
+
+[u]Nilpotent Algebras[/u].
+
+[u]General Principle No. I[/u]. If every square vanishes, the reversal of the order of multiplication merely reverses the sign of the product.
+[u]Proof[/u]. $(x i + y j)^{2} = x y (i j + j i)$
+
+[u]General Principle No. 2[/u]. If every square vanishes, every product is independent of the factors (unless it vanishes)
+[u]Proof[/u]. For suppose $i j = a i + b j$ Then $0 = i^{2} j = b i j$ whence $b = 0$ and by symmetry $a = 0$ or $i j = 0$.
+
+[u]II. Double Algebra[/u]
+[2] There is no idempotent.
+[21] Every square vanishes.
+By Genl. P. No 2 [del]every[/del] product vanishes.
+The algebra splits into two of form $(b_{1})$.
+[fig]Multiplication table for i and j with all zero entries[/fig]
+[22] A square does not vanish
+By B.P.'s §58 if $i^{2}$ does not vanish, we may take $i^{2} = j$ $i^{3} = 0$
+This is the algebra $(c_{2})$.
+[fig]Multiplication table for i and j with i^2=j and other entries zero[/fig]
+
+[u]III Triple Algebras[/u].
+[2] There is no idempotent.
+[del][21][/del] Every square vanishes.
+[211] Every product vanishes
+The algebra splits into three of the form $(b_{1})$.
+[fig]3x3 multiplication table with all zero entries[/fig]
+[212] A product does not vanish
+By Genl. P. No 2 it can be represented by $i j = k$
+Then by Genl. P No I $j i = -k$
+$i k = i^{2} j = 0$ etc
+This is the algebra $(e_{3})$
+[fig]3x3 multiplication table with ij=k, ji=-k, and other entries zero[/fig]
+[22] A square does not vanish
+[del][221][/del] Every cube vanishes.
+
+[u]General Principle No 3[/u]. If $i$ is nilpotent and its product [ins]by[/ins] no other letter but $k$ is involved, its product by $k$ does not involve $k$.
+[u]Proof[/u]. For suppose the product $i k$ contains the term $c k$, while no $i j$ $i l$ etc involve no such term. Then $i^{2} k$ contains $c i k$ and therefore $c^{2} k$; and if $i^{n} = 0$ $i^{n} k$ involves $c^{n} k$. But $i^{n} k = 0$ $\therefore c^{n} = 0$, $c = 0$.

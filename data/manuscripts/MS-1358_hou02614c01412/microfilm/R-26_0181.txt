@@ -1,0 +1,79 @@
+[pn]3[/pn]
+
+Morrison's Bridge 1899 [date]Feb 22[/date]
+
+Let us see if this has the right dimensions
+
+[fig]Fractional expression[/fig]
+
+[del]K[/del] [ins]K[/ins] [del]L[/del] [ins]L[sup]2[/sup][/ins] = [frac]L[sup]2[/sup]/T[sup]2[/sup][/frac] M
+
+K = [frac]M/T[sup]2[/sup][/frac]
+
+W = M [frac]L[sup]2[/sup]/T[sup]2[/sup][/frac]
+
+B = W [frac]L - [frac]1/2[/frac] x/y[/frac]
+
+M [frac]L[sup]2[/sup]/T[sup]2[/sup][/frac]
+
+B = M [frac]L[sup]2[/sup]/T[sup]2[/sup][/frac]
+
+[frac]B/S[/frac] = M [frac]L[sup]2[/sup]/T[sup]2[/sup][/frac]  WS [delta]y[sub]n[/sub] = M [frac]L[sup]2[/sup]/T[sup]2[/sup][/frac]
+
+KX [del]S[/del] [ins]S[/ins] [delta]y = M [frac]L[sup]2[/sup]/T[sup]2[/sup][/frac]
+
+That is right. Now are the quantities of the same order?
+
+[frac]\Delta[sup]3[/sup] \theta . S \theta/S[/frac] [del]1[sup]st[/sup] order[/del] 2[sup]nd[/sup] order in d 1[sup]st[/sup] in \delta
+
+WS [delta]y[sub]n[/sub] = WS[sup]2[/sup] [delta]\theta[sub]n[/sub] 2[sup]nd[/sup] order in d 1[sup]st[/sup] in \delta
+
+KX [[del]tan(\phi[sub]n+s[/sub]+\psi[sub]n+s[/sub])[/del] - tan(\phi[sub]n[/sub]+\psi[sub]n[/sub])] [delta]y[sub]n[/sub] 2[sup]nd[/sup] order in d 1[sup]st[/sup] in \delta
+
+All right -
+
+The next thing is to bring the equation to one independent variable
+
+sin \theta[sub]n[/sub] = [del]d[/del] [frac]y[sub]n[/sub] - y[sub]n-s[/sub]/S[/frac]
+
+[frac]tan(\phi[sub]n+s[/sub]+\psi[sub]n+s[/sub]) - tan(\phi[sub]n[/sub]+\psi[sub]n[/sub])/S[/frac]
+
+\theta[sub]n+2s[/sub] = [frac]y[sub]n+2s[/sub] - y[sub]n+s[/sub]/S[/frac]
+
+-3 \theta[sub]n+s[/sub] -3y[sub]n[/sub]
+
+[frac]B/S[/frac] ([frac]y[sub]n+2s[/sub] - 4 y[sub]n+s[/sub] + 6y[sub]n[/sub] - 4y[sub]n-s[/sub] + y[sub]n-2s[/sub]/S[/frac]) [frac][delta]y[sub]n[/sub]/S[/frac] + WS [delta]y[sub]n[/sub]
+
++ KX [frac]y[sub]n+s[/sub] - 2y[sub]n[/sub] + y[sub]n-s[/sub]/S[/frac] [delta]y[sub]n[/sub] = 0
+
+[u]Not so[/u]
+
+B D[sub]s[/sub][sup]4[/sup] y[sub]n[/sub] + W + KX D[sub]s[/sub][sup]2[/sup] y[sub]n[/sub] = 0
+
+[del]D[sub]s[/sub] tan(\phi+\psi) =[/del] [frac]D[sub]y[/sub]/S[/frac] sec[sup]2[/sup] \phi + tan \phi [frac]tan(\phi[sub]n+s[/sub]+\psi[sub]n+s[/sub])/S[/frac]
+
+D[sub]s[/sub] tan(\phi+\psi) = [frac]D[sub]y[/sub][sup]2[/sup]/S[sup]2[/sup][/frac] sec[sup]2[/sup] \phi + [frac]D[sub]y[/sub]/S[/frac] sec[sup]2[/sup] \phi sin \phi [frac]D[sub]y[/sub]/S[/frac] tan \phi[sub]n+s[/sub] + sec[sup]2[/sup] \phi[sub]n+s[/sub] . \psi[sub]n+s[/sub]
+
++ sec[sup]2[/sup] \phi D[sub]y[/sub] \psi
+
+[fig]Geometric diagram with curves and lines[/fig]
+
+[frac][frac]x[sup]2[/sup]/2n[/frac] + \eta/S[/frac] + D[sub]s[/sub] y
+
+[frac][frac]x/n[/frac] + D[sub]s[/sub] y/1 - [frac]x/n[/frac] D[sub]s[/sub] y[/frac]
+
+[frac]S (\frac{1}{n} + D[sub]s[/sub][sup]2[/sup] \eta) (1 - \frac{x}{n} D[sub]s[/sub] y)/+ \frac{1}{2} D[sub]s[/sub][sup]2[/sup] \eta + \frac{x}{n} D[sub]s[/sub] \eta[/frac]
+
+[fig]Triangle diagram[/fig]
+
+y[sub]n[/sub] - y[sub]n-s[/sub] = S sin \theta[sub]n[/sub]
+
+[delta]y[sub]n[/sub] = S cos \theta[sub]n[/sub] [delta]\theta[sub]n[/sub]
+
+[del]y[sub]n[/sub] - y[sub]n-s[/sub] = S tan(\phi[sub]n[/sub]+\psi[sub]n[/sub])[/del]
+
+[frac]y[sub]n+s[/sub] - 2y[sub]n[/sub] + y[sub]n-s[/sub]/S[/frac]
+
+sec \phi[sub]n[/sub] [sin(\phi[sub]n[/sub]+\psi[sub]n[/sub]) - sin \phi[sub]n[/sub]]
+
+= tan \phi[sub]n[/sub] cos \psi[sub]n[/sub] + sin \psi[sub]n[/sub] - tan \phi[sub]n[/sub]

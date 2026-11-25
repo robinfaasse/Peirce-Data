@@ -1,0 +1,22 @@
+[pn]17[/pn]
+
+$a \prec b \quad b \prec c$
+$\therefore a \prec c$
+
+[u]$(a \prec b) \prec (b \prec c) \prec a$[/u]
+$a \prec (a \prec b) \prec (b \prec c) \prec c$
+
+[u]$\bar{a} + a\bar{b} + b\bar{c} + c$[/u]
+[fig]horizontal lines with tick marks[/fig]
+[fig]two profile sketches of faces[/fig]
+
+$a \prec b$
+$\therefore$ [del]$(b \prec c) \prec (a \prec c)$[/del] [fig]sketch of a face[/fig]
+[del]$(b \prec c) \prec a \prec c$[/del]
+$a \prec (b \prec c) \prec c$
+
+$b \prec c$
+$a \prec (a \prec b) \prec c$
+
+$b \prec c$
+$(a \prec b) \prec [del]a[/del] \prec c$

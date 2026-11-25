@@ -1,0 +1,43 @@
+[del]D_t R = - \lambda_R R[/del] [del]R = C_R e^{-\lambda_R t}[/del]
+
+[del]D_t [ R + \frac{1}{P_x} ( \frac{M}{P_x} + 1 ) X ] = - \lambda_R ( R +[/del]
+
+[del]D_t [ R + \frac{1}{P_x} ( \frac{M}{\lambda_R} + 1 ) X ] = ( - \lambda_R + \frac{\lambda_R + 1}{M} ) R + \frac{\lambda_x}{P_x}[/del]
+
+D_t R = - \lambda_R R
+
+[del]D_t ( R + \xi X ) = - \frac{\lambda_x}{\lambda_R} R +[/del]
+
+D_t X = + P_x \lambda_R R - \lambda_x X
+
+[del]D_t ( R + \frac{\lambda_x + 1}{P_x} X ) = ( - \lambda_R + \frac{P_x \lambda_R}{P_x} ( \lambda_x + 1 ) ) R[/del] [del]- \lambda_x \frac{\lambda_x + 1}{P_x} X[/del]
+
+[del]D_t ( R + \xi X ) = - \lambda_R + \frac{1}{5} P_x \lambda_R[/del]
+
+D_t ( R + \xi X ) = ( - 1 + \xi P_x ) \lambda_R R + \xi \lambda_x X
+
+D_t ( R + \xi X ) = ( - \lambda_R + \lambda_R P_x \xi ) R - \lambda_x \xi X
+
+\frac{\lambda_x \xi}{+ \lambda_R ( - 1 + P_x \xi )} = \xi
+
+\frac{\lambda_x}{\lambda_R ( - \frac{1}{\xi} + P_x )} = \xi
+
+\lambda_x = \lambda_R ( P_x \xi - 1 )
+
+\lambda_x + \lambda_R = \lambda_R P_x \xi
+
+\frac{\lambda_x + \lambda_R}{\lambda_R P_x} = \xi
+
+\frac{\xi \lambda_x}{- 1 + \xi P_x} = \xi
+
+\frac{\lambda_x}{- \frac{1}{\xi} + P_x} = \xi
+
+\lambda_x = - 1 + \xi P_x
+
+\frac{\lambda_x + 1}{P_x} = \xi
+
+D_t ( R + \frac{\lambda_x + \lambda_R}{\lambda_R P_x} X ) = [del]- \lambda_R + \frac{\lambda_x + \lambda_R}{\lambda_R P_x} \lambda_R P_x[/del] R - \lambda_x ( \frac{\lambda_x + \lambda_R}{\lambda_R P_x} X )
+
+R + \frac{\lambda_x + \lambda_R}{\lambda_R P_x} X = C_x e^{- \lambda_x t}
+
+R = - C_x e^{- \lambda_x t}

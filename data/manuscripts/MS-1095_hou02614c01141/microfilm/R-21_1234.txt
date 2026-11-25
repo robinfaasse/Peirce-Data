@@ -1,0 +1,26 @@
+To determine these four functions we
+have the conditions that the [ins]^[/ins] velocity [del]s[/del] and
+pressure must be real, that the velocity
+[del]and[/del] must vanish at all points at infinity,
+and that the air adjacent to the pendulum
+must follow its motions [del]is[/del] as it is observed
+to do. Namely, the air probably adheres to every
+part of the pendulum and does not slip over
+its surface; or, if there is any slipping, it may
+at first be neglected. The whole difficulty
+of the problem consists in fulfilling these
+conditions.
+
+Let us put
+$$x = r \cos \theta \qquad y = r \sin \theta$$
+
+Then,
+$$x + iy = r \odot^{i\theta} \qquad y + ix = i r \odot^{-i\theta},$$
+and [del]we have[/del] [ins]we may write[/ins]
+$$\chi = F_1(r \odot^{i\theta}) + F_2(i r \odot^{-i\theta}) + i r \odot^{-i\theta} F_3(r \odot^{i\theta}) + r \odot^{i\theta} F_4(i r \odot^{-i\theta}).$$
+
+Then, we have
+$$u = D_y \chi = i F_1'(r \odot^{i\theta}) + F_2'(i r \odot^{-i\theta}) + F_3(r \odot^{i\theta}) - r \odot^{-i\theta} F_3'(r \odot^{i\theta}) + i F_4(i r \odot^{-i\theta}) + r \odot^{i\theta} F_4'(i r \odot^{-i\theta})$$
+$$v = -D_x \chi = -F_1'(r \odot^{i\theta}) - i F_2'(i r \odot^{-i\theta}) - i F_3(r \odot^{i\theta}) - i r \odot^{-i\theta} F_3'(r \odot^{i\theta}) - F_4(i r \odot^{-i\theta}) - i r \odot^{i\theta} F_4'(i r \odot^{-i\theta})$$
+$$D_x p = 2 i \mu [-F_3''(r \odot^{i\theta}) + F_4''(i r \odot^{-i\theta})]$$
+$$D_y p = 2 i \mu [-F_3''(r \odot^{i\theta}) - F_4''(i r \odot^{-i\theta})]$$

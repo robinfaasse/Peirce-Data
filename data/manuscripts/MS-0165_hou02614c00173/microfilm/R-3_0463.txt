@@ -1,0 +1,29 @@
+[pn]217[/pn]
+
+[u]Art 84[/u]. [u]Theorem 43[/u]. ([u]The Fundamental Theorem of the[/u]
+[u]Theory of Equations[/u], commonly called the fundamental theorem
+of algebra.) [u]Every algebraical equation has a root[/u].
+
+[u]Demonstration[/u]. The equation having been brought to
+the form
+[u]x[/u]ⁿ + [u]a[/u][u]x[/u]ⁿ⁻¹ + [u]b[/u][u]x[/u]ⁿ⁻² + etc = 0,
+let us denote the first member by [u]y[/u]. Then, there is only one
+value of [u]x[/u], namely [u]x[/u] = ∞ which makes [u]y[/u] infinite. For
+[del]a power of a finite quantity is finite and[/del] a product of two finite
+quantities is finite, and [u]a[/u], [u]b[/u], etc. are all finite.
+
+Now let [u]x[/u], starting from [u]x[/u] = ∞, pass through the negative
+values in order. Then the first term of [u]y[/u] will at first
+be [ins]of modulus[/ins] greater than all other terms, and this will be negative
+or positive, according as [u]n[/u] is odd or even. But when [u]x[/u] is
+a very large positive number, the first term will be greater than
+all others, and [u]y[/u] will be positive. Hence were [u]n[/u] odd [u]y[/u] would
+change with decreasing [u]x[/u] from being negative to [del]being[/del]
+positive, and since it does not pass through infinity, it
+must pass through zero, In other words every equation
+of odd degree must have a real root.
+
+If, however, the equation is of even degree, there may
+be a [del]value[/del] value of [u]x[/u] for which [u]y[/u] is positive and less
+than for any other real value of [u]x[/u]. Then, I propose
+to show that if [u]x[/u] [del]is made[/del] [ins]has a small[/ins] imaginary quantity added

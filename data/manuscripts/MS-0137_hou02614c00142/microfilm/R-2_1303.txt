@@ -1,0 +1,37 @@
+[marginalia]
+Topics
+15
+[/marginalia]
+
+A punctual figure is a point or collection of points. A
+linear figure is a colligation of lines and
+points; and so on.
+
+A punctual figure can have no singularity. The
+singularities of a linear figure are furcations (from
+each of which a particle can move on its line in more
+than two ways) extremities, and outlying points. The
+grade of singularity of an outlying point is $-2$, that of an
+extremity is $-1$, that of a furcation is $2$ less than the
+[del]total singularity of a line figure is minus twice the excess of the number of separate pieces over that of the independent[/del] [ins]number of ways by which a particle might leave it, thus[/ins]
+
+For Fig. 1, the account of singularities is as follows:
+
+[fig]Diagram of a circle with a central point, a line segment, and a stick figure-like shape inside.[/fig]
+Fig. 1.
+
+$$\begin{array}{lc}
+\text{1 Outlying point} & -2 \\
+\text{5 Extremities} & -5 \\
+\text{2 Three-way furcations} & +2 \\
+\text{1 Five-way furcation} & +3 \\
+\hline
+\text{Total} & -2
+\end{array}$$
+
+$$\begin{array}{lc}
+\text{3 Separate pieces} & -6 \\
+\text{2 Rings} & +4 \\
+\hline
+\text{Total} & -2
+\end{array}$$

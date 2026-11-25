@@ -1,0 +1,26 @@
+[pn]FL[/pn] [pn]29[/pn]
+
+Otherwise written, we have
+$(lb)_{ij} = l_{i1}b_{1j} + l_{i2}b_{2j} + l_{i3}b_{3j} + \text{etc}$
+$(l \dagger b)_{ij} = (l_{i1} + b_{1j}) \cdot (l_{i2} + b_{2j}) \cdot (l_{i3} + b_{3j}) \cdot \text{etc.}$
+The non-relative operation of negation is defined thus:
+$(\bar{l})_{ij} \prec 0$ if $0 \prec l_{ij}$
+$0 \prec (\bar{l})_{ij}$ if $l_{ij} \prec 0$.
+The relative operation of the [u]negative converse[/u] is defined thus:
+$(\tilde{l})_{ij} \prec 0$ if $0 \prec l_{ji}$
+$0 \prec (\tilde{l})_{ij}$ if $l_{ji} \prec 0$.
+[This seems a more scientific sign than the sign for a simple converse
+$(\breve{l})_{ij} = l_{ji}$ which I have hitherto used.]
+
+In non-relative logic we require the two terms $0, 1$, defined thus:
+$\Pi_{i} \ 1_{i}$ (and so $\Pi_{i} \Pi_{j} \ 1_{ij}$) [u]true[/u].
+$\Sigma_{i} \ 0_{i}$ (and so $\Sigma_{i} \Sigma_{j} \ 0_{ij}$) [u]false[/u]
+In relative logic we require the terms $1, T$, defined thus:
+$\Pi_{i} \ 1_{ii}$ [u]true[/u]; and $1_{ij}$ [u]false[/u] unless so necessitated to be [u]true[/u].
+$\Sigma_{i} \ T_{ii}$ [u]false[/u] and $T_{ij}$ [u]true[/u] unless so necessitated to be [u]false[/u].
+The necessity here spoken of is [del]that[/del] logical necessity springing
+from the principles of contradiction and excluded middle.
+
+All the formulae of the algebra result from these defini-
+tions. Thus
+$(l \prec b) = \bar{l} \dagger b = \tilde{l} \dagger b$

@@ -1,0 +1,57 @@
+To transform the line
+of this equation (where
+$p$ and $q$ the distances
+of the point from two
+fixed points are the
+variables while [del]$p$[/del] $m$, $n$ and
+$l$ are constants) into polar and
+orthogonal coordinates:
+[fig]Triangle with sides p and q and base divided into segments m and n[/fig]
+$$mp^2 + nq^2 = l^3$$
+When the [del]p[/del] variable point is in line
+with the two fixed points
+$$p - q = \pm a$$
+$$m(q \pm a)^2 + nq^2 = l^3$$
+$$(m+n)q^2 \pm 2maq + ma^2 = l^3$$
+$$q^2 \pm 2 \frac{ma}{m+n} q = \frac{l^3 - ma^2}{m+n}$$
+$$\left(q \pm \frac{ma}{m+n}\right)^2 = \frac{l^3(m+n) - mna^2}{(m+n)^2}$$
+$$q = - \frac{ma}{m+n} \pm \frac{\sqrt{l^3(m+n) - mna^2}}{m+n}$$
+
+Put $l = \frac{\alpha}{m+n}$ $a = \frac{\alpha}{mn}$
+$$q = - \frac{\alpha}{(m+n)n} \pm \sqrt{\frac{\alpha^3}{(m+n)^2} - \frac{\alpha^2}{mn}}$$
+$$= - \frac{\alpha}{(m+n)n} \pm \frac{\sqrt{\lambda^3 mn - \alpha^2(m+n)^2}}{(m+n)^2 \sqrt{mn}}$$
+
+[del]$l^3(m+n) \gtrless \frac{1}{3} (m+n)^2$[/del]
+
+---
+
+$$(h+a)(h-a) = b^2$$
+Suppose $h-a = 1$
+Then $h+a = b^2$ lowest v. of
+$$\frac{(h+a) \mp (h-a)}{2} \pm 2a$$
+$$h-a = 1$$
+$$h+a = b^2$$
+$$(h+a)(h-a) = b^2$$
+$$h = \frac{1}{2}(b^2+1) = h$$
+$$a = \frac{1}{2}(b^2-1) = a$$
+$$h = \frac{1}{2}(b^2+1) \quad \frac{1}{2}(b^2-1)$$
+$$\begin{array}{rcccl}
+6 & 13 & \frac{9}{4} & 12 & \frac{144}{25} \\
+3 & 25 & \frac{12}{16} & 24 & \frac{169}{570} \\
+5 & 41 & \frac{20}{25} & 40 & \frac{49}{625} \\
+7 & 61 & & 60 & \\
+9 & & & & \\
+11 & & & &
+\end{array}$$
+$$\begin{array}{ccc}
+3 & 4 & 5 \\
+9 & 12 & 15 \\
+12 & 48 & 60
+\end{array}$$
+$$\frac{9}{16} \quad \frac{144}{25}$$
+
+$$h-a = 2$$
+$$h+a = 2x^2 \pm \frac{b^2}{2}$$
+$$4x^2 = b^2$$
+$$x^2 = \frac{b^2}{4}$$
+$$2x^2 = \frac{b^2}{2}$$

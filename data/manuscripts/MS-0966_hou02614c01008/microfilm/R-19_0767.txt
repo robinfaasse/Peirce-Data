@@ -1,0 +1,20 @@
+[pn]Ms 964[/pn]
+
+Take 5 points $X, Y, Z, U, V$. These
+lie in one 3-dimensional space. [del]Hence,[/del]
+We express this by writing
+$$AX + BY + CZ + DU + EV = 0$$
+$$A + B + C + D + E = 0$$
+No four of them are in one plane; so
+that $ABCDE \neq 0$.
+
+Let $W$ be collinear with $X$ and $Y$, and
+coplanar with $Z, U, V$. Then
+$$AX + BY + (C+D+E)W = 0$$
+$$CZ + DU + EV + (A+B)W = 0$$
+
+[del]Write[/del] $AX = x$ $BY = y$ $CZ = z$ $DU = u$ $EV = v$
+Then if we write $(C+D+E)W = w$, we have
+$$w = -(x+y)$$
+and similarly we shall have in all 10 points besides
+the first five $-(x+y), -(x+z)$, etc.

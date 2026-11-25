@@ -1,0 +1,24 @@
+[pn]3[/pn]
+
+$$D_T N = \frac{\sin N}{\sin (t-T)}$$
+
+$$D_B N = \frac{\sin N \sin \beta}{\cos B + \cos \beta}$$
+
+The expression for $D_T N$ becomes indeterminate when $t-T = 0$
+In this case,
+$$D_T N = -\frac{1}{2} \frac{\cos \frac{1}{2}(B+\beta)}{\cos \frac{1}{2}(B-\beta)}.$$
+
+Furthermore let $Q$ denote the parallactic angle of the point $T$. Then
+$$\cot Q = \frac{\sin \varphi \cos B - \cos \varphi \sin B \cos T}{\cos \varphi \sin T}$$
+
+Supposing the hour angle $T$ to be made nearly zero, we have,
+$$[del]Q[/del] [ins]Q[/ins] = \frac{\cos \varphi}{\sin (\varphi-B)} T$$
+
+$$D_T Q = \frac{\cos \varphi}{\sin (\varphi-B)} \qquad D_B Q = \frac{\cos \varphi}{\sin (\varphi-B)} \cot (\varphi-B) \cdot T$$
+
+In order then to find the instrumental constants we first
+put the instrument as accurately as possible in the meridian,
+and [del]make[/del] get an approximate value of $B$ from the inclination
+of the tube to the level. We next arrange a rest so that the bottom
+edge of the photograph plates shall be exactly level. We next
+take two successive photographs on the same plate as the sun

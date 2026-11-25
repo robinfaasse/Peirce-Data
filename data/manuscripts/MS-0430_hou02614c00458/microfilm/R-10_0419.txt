@@ -1,0 +1,25 @@
+[marginalia]
+Logic
+III
+85
+[/marginalia]
+
+[pn](86)[/pn] If $([x \prec y] \prec t) \prec z$ is scriptible, so is $x \prec (y \prec t) \prec z$.
+
+For by (83), to assert that [del]is[/del] $([x \prec y] \prec t) \prec z$ is scriptible
+is equivalent to asserting that both $t \prec z$ and $([x \prec y] \prec z) \prec z$
+are scriptible, the latter being, by (85), equivalent to asserting
+that $x \prec (y \prec z) \prec z$ is scriptible. This last is, by (82), equi-
+valent to asserting that either $x \prec z$ or $y \prec z$ is scriptible.
+Thus to assert that $([x \prec y] \prec t) \prec z$ is scriptible, is to assert
+that either both $t \prec z$ and $x \prec z$ or else both $t \prec z$ and
+$(y \prec z) \prec z$ are scriptible.
+
+To assert that $x \prec (y \prec t) \prec z$ is scriptible is, by (82),
+equivalent to asserting that either $x \prec z$ [ins]is scriptible,[/ins] or $(y \prec t) \prec z$
+is scriptible. And the [del]latter alternative[/del] [ins]both assertions[/ins] is equivalent, by (85),
+to asserting that $t \prec z$ and $(y \prec z) \prec z$ are scriptible. Thus,
+to assert that $x \prec (y \prec t) \prec z$ is scriptible is to assert that
+either $x \prec z$ is scriptible or that both $t \prec z$ and $(y \prec z) \prec z$
+are scriptible. But this and more is [del]asserted[/del] [ins]implied[/ins]
+in saying that $([x \prec y] \prec t) \prec z$ is scriptible. Hence, (86).

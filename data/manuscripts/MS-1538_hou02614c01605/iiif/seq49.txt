@@ -1,0 +1,34 @@
+$\int \sqrt{1-x^2} dx =$ [del]$x \sqrt{1-x^2}$[/del] $\frac{x \sqrt{1-x^2}}{2} + \frac{1}{2} \int \frac{dx}{\sqrt{1-x^2}}$ [fig]figure[/fig] log x
+$= \frac{x \sqrt{1-x^2}}{2} + \frac{1}{2} arc \sin x$ log x
+[fig]figure[/fig]
+[u]The imaginary line[/u]
+Taking origin of coordinates at [del]any[/del] a point on the line
+$x = r \mathcal{O}^{\theta i}$ $y = \rho \mathcal{O}^{\vartheta i}$ [fig]figure[/fig]
+$R \mathcal{O}^{\Theta i}$
+$\rho = Rr$ $\vartheta = \theta + \Theta$
+[fig]figure[/fig]
+$\frac{d \sqrt{1-x^2}}{dx}$ [fig]figure[/fig]
+$(1-x^2)^{\frac{1}{2}}$
+[del]x[/del] [fig]figure[/fig]
+[del]$(1-x^2)^{\frac{1}{2}}$[/del] $\frac{x}{\sqrt{1-x^2}}$ [fig]figure[/fig]
+[fig]figure[/fig]
+[del]($R \cos \Theta + \sin \Theta i$)[/del]
+$(a + \alpha i) (x + \xi i) = X_1 + \eta i$
+[fig]figure[/fig]
+$y = \cos \theta \text{ } \sin \theta$
+$y = a x - \alpha \xi$
+$\eta = a \xi + \alpha x$
+$R r (\cos (\Theta + \theta) = \cos \vartheta$ [fig]figure[/fig]
+[fig]figure[/fig]
+$x + y + z = 1$ $x^2 + y^2 = 1$
+$y = - 5/4$
+$y^2 = 25/16$
+$x^2 = - 9/16$
+$x = \frac{\sqrt{3}}{4} \cdot i$
+$x \xi = y \eta$
+If $x = 0$
+$\eta = 0$ or $\eta = 0$
+$y = \frac{1}{2}$ $\eta = 0$
+$- \xi^2 + \frac{1}{4} = 1$
+$\frac{x^2}{5} + \frac{2}{20} x^2 - \xi^2 + 2x \xi i$
+$+ y^2 - \eta^2 + 2y \eta i = 1$

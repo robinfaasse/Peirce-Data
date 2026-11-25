@@ -1,0 +1,34 @@
+[pn]73[/pn]
+
+<u>Theorem</u>. [del]The[/del] [ins]The[/ins] Addition [ins]of whole numbers[/ins] is an <u>associative</u> <u>operation</u>.
+
+<u>Demonstration</u>. Let $I, M, N$ be any three whole numbers.
+[del]From say[/del] Let $I+M$ be the result of increasing $M$ by $I$
+and $(I+M)+N$ the result of increasing $N$ by $(I+M)$.
+[del]Further[/del]
+[del]Also[/del] Let $M+N$ be the result of increasing $N$ by $M$, and
+$I+(M+N)$ be the result of increasing $M+N$ by $I$. Then,
+I say that $I+(M+N) = (I+M)+N$.
+
+Suppose this to be true when $I$ [del]has[/del] [ins]is[/ins] a certain [ins]whole number[/ins] value $I_1$, no
+matter what [del]the values of[/del] [ins]whole numbers[/ins] $M$ and $N$ may be. Then it is also
+true when $I = 1+I_1$.
+
+[del]For by Axiom 6, $1+I_1$ is the whole number next greater
+than $I_1$[/del]
+[del]For since, by hypothesis, $I_1$ and $M$ are whole numbers[/del] [del]that[/del]
+[del]$(1+I_1)+M$ is the whole number next greater than $I_1+M$,
+and by axiom 6, this is $1+(I_1+M)$[/del]
+
+For since $I_1$ and $M$ are, by hypothesis, whole numbers, $I_1+M$
+is, by Axiom 7, a whole number. Whence, by axiom 6, $1+(I_1+M)$
+is the [ins]whole[/ins] number next greater than $I_1+M$. When by axiom 8, $1+(I_1+M)$
+equals $(1+I_1)+M$. [ins](by the above)[/ins] [ins](by hypothesis)[/ins]
+
+But $I_1+M$ [ins]and $N$[/ins] are whole numbers so also, by axiom 7,
+is [del]$(I_1+M)+N$[/del] $(I_1+M)+N$. Whence, by axiom 6, $1+[(I_1+M)+N]$ is
+the whole number next greater than $(I_1+M)+N$. Whence, by axiom 8,
+$1+[(I_1+M)+N] = [1+(I_1+M)]+N$. But we have just seen that
+$1+(I_1+M) = (1+I_1)+M$. Hence, [del]$1+(I+M)$[/del] $[(1+I_1)+M]+N = $
+$[1+(I_1+M)]+N = 1+[(I_1+M)+N]$, and if $(I_1+M)+N$ [del]be[/del] equal
+to $I_1+(M+N)$, $1+[(I_1+M)+N] = 1+[I_1+(M+N)]$, so that

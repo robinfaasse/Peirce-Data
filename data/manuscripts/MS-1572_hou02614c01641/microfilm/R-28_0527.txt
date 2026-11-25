@@ -1,0 +1,75 @@
+[fig]Venn-like diagrams with letters F, G, D, M, A, B[/fig]
+
+[fig]Venn-like diagrams with letters C, D, M, A, B, F[/fig]
+
+11 x 5 = 55
+3 x 13 = 39
+5 x 7 = 35
+
+[del]40[/del]
+
+01
+23
+45
+67
+89
+XJ
+QK
+
+02
+23
+24
+35
+46
+57
+
+02
+35
+68
+9J
+QI
+
+[del]01[/del] [del]02[/del] [del]03[/del] [del]04[/del] [del]05[/del] [del]06[/del] [del]07[/del] [del]08[/del] [del]09[/del] [del]0X[/del] [del]0J[/del] [del]0Q[/del] [del]0K[/del]
+[del]12[/del] [del]13[/del] [del]14[/del] [del]15[/del] [del]16[/del] [del]17[/del] [del]18[/del] [del]19[/del] [del]1X[/del] [del]1J[/del] [del]1Q[/del] [del]1K[/del] [del]12?[/del]
+[del]23[/del] [del]24[/del] [del]25[/del] [del]26[/del] [del]27[/del] [del]28[/del] [del]29[/del] [del]2X[/del] [del]2J[/del] [del]2Q[/del] [del]2K[/del] [del]24[/del]
+[del]35[/del] [del]36[/del] [del]37[/del] [del]38[/del] [del]39[/del] [del]3X[/del] [del]3J[/del] [del]3Q[/del] [del]3K[/del] [del]34[/del] [del]35[/del] [del]36[/del]
+[del]46[/del] [del]47[/del] [del]48[/del] [del]49[/del] [del]4X[/del] [del]4J[/del] [del]4Q[/del] [del]4K[/del] [del]45[/del] [del]46[/del] [del]47[/del]
+[del]57[/del] [del]58[/del] [del]59[/del] [del]5X[/del] [del]5J[/del] [del]5Q[/del] [del]5K[/del]
+[del]68[/del] [del]69[/del] [del]6X[/del] [del]6J[/del] [del]6Q[/del] [del]6K[/del]
+[del]79[/del] [del]7X[/del] [del]7J[/del] [del]7Q[/del] [del]7K[/del]
+[del]8X[/del] [del]8J[/del] [del]8Q[/del] [del]8K[/del]
+[del]9J[/del] [del]9Q[/del] [del]9K[/del]
+[del]XQ[/del] [del]XK[/del]
+[del]JK[/del]
+
+[marginalia]
+[fig]scribble[/fig]
+[/marginalia]
+
+[marginalia]
+[fig]scribble[/fig]
+[/marginalia]
+
+[u]
+01  02  03  04  05  06  07  08  09  0X  0J  0Q  0K
+    13  14  15  16  17  18  19  1X  1J  1Q  1K  12
+        25  26  27  28  29  2X  2J  2Q  2K  24  -
+            37  38  39  3X  3J  3Q  3K  34  35  36
+                49  4X  4J  4Q  4K  45  46  47
+                    5J  5Q  5K
+                        6K
+[/u]
+
+[marginalia]
+12
+23 24 21
+23/34 35 36
+42 43/45 46 47 48
+53 54 55 56 57 58
+[/marginalia]
+
+[u]
+01  02  03  04  05  06  07  08  09  0X  0J  0Q  0K
+    13  15  17  19  1J  1K  12  14  16  18  1X  1Q
+        29  29
+[/u]

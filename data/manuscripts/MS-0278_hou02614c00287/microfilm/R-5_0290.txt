@@ -1,0 +1,39 @@
+Put pencil down [ins]to paper[/ins] and you add 1 to X of points
+Draw and you subtr 1 from X of points and add 1 to X of lines
+and add 2 extremities
+
+[fig]hook shape[/fig] If line ends at a point an acnode you diminish acnodes by 1
+[fig]loop shape[/fig] If it ends at line you diminish X-C by 1
+and take away extremity substituting node.
+[fig]circle shape[/fig] Or you take away two extremities diminishing X-C
+
+Extension [ins]of line[/ins] from a point adds extremity
+and [del]do[/del] substitutes for acnode extremity
+[fig]T-junction[/fig] [del]or adds node[/del]
+or removes extremity
+or adds node
+or increases [del]do[/del] nodicity by 1
+
+[fig]three lines meeting[/fig] Increasing [ins]by 1[/ins] nodicity of extremity destroys it
+" of acnode makes it extremity.
+
+Extension of line from point adds extremity to new end
+and increases by 1 nodicity at [del]foot[/del] [ins]starting[/ins] point.
+
+Nodicity of acnode (or point) = -2
+" of extremity = -1
+" of ordinary pt. = 0.
+" of 3 way node = 1
+" of 4 way node = 2
+
+If the line so drawn stops at acnode destroys it (and reduces X)
+extremity destroys 2 extremities (and reduces X-C)
+ordinary point destroys extrem. & creates node (and reduces X-C)
+
+[fig]T-junction[/fig] [del]i.e. it reduces X-C by 1
+and increases nodicity by 2[/del]
+i.e. it destroys extremity
+and increases nodicity of point met by 1.
+and reduces X-C [del]of that part[/del] by 1.
+(If continuous with that part it increases C
+if not it reduces X.)

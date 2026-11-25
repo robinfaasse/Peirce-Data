@@ -1,0 +1,29 @@
+[pn]97[/pn]
+
+In order to express that every man loves every woman, we write
+$m \prec l \bar{j} \bar{w}$
+or every pair of which the first member is a man and the second
+a woman is a pair of lover and loved. Multiplying by $\breve{w}$
+$m \breve{w} \prec (l \bar{j} \bar{w}) \breve{w} \prec l \bar{j} \bar{w} \breve{w} \prec l \bar{j} \Upsilon \prec l$
+so that $m \breve{w} \prec l$
+
+From this we can recover the original form of statement, for
+$m \prec m \text{ l } \prec m (\breve{w} \bar{j} \bar{w}) \prec m \breve{w} \bar{j} \bar{w} \prec l \bar{j} \bar{w}$.
+
+In the general algebra this is written
+$\Pi_i \Pi_j \Sigma_k m_{ik} w_{jk} \prec l_{ij}$.
+
+On the same principle to express that [ins]in[/ins] every way in which every
+horse can be praised to a man there is some woman who
+so praises them, we ought to write something like this.
+$m^{\breve{h}} \prec p_{\breve{w}}$ [del]$\prec (m^{\breve{h}})^{\breve{h}} m'$[/del]
+
+That is, just as $m \breve{w} \prec l$ means
+$\begin{matrix} m_1 \breve{w}_1 + m_2 \breve{w}_2 + m_3 \breve{w}_3 \\ m_1 \breve{w}_2 + m_2 \breve{w}_2 + m_3 \breve{w}_2 \\ \text{etc} \end{matrix} \prec \begin{matrix} l_{11} + l_{21} + l_{31} \\ l_{12} + l_{22} + l_{32} \\ \text{etc} \end{matrix}$
+
+so (supposing there are 3 men and two horses)
+$\begin{matrix} m_1 \breve{h}_1 \cdot m_1 \breve{h}_2 + m_1 \breve{h}_1 \cdot m_2 \breve{h}_2 + m_1 \breve{h}_1 \cdot m_3 \breve{h}_2 \\ + m_2 \breve{h}_1 \cdot m_1 \breve{h}_2 + m_2 \breve{h}_1 \cdot m_2 \breve{h}_2 + m_2 \breve{h}_1 \cdot m_3 \breve{h}_2 \\ + m_3 \breve{h}_1 \cdot m_1 \breve{h}_2 + m_3 \breve{h}_1 \cdot m_2 \breve{h}_2 + m_3 \breve{h}_1 \cdot m_3 \breve{h}_2 \end{matrix} \prec (p \breve{w})_{11} \cdot (p \breve{w})_{12} \text{ etc}$
+
+In order to transform $m^{\breve{h}} \prec (p \breve{w})$ we notice that if $k \prec h$ then $m^{\breve{h}} \prec m^{\breve{k}}$
+Hence since $\breve{h} \bar{h} \prec \Upsilon$ $m^{\Upsilon} \prec (m^{\breve{h}})^{\bar{h}} \prec (p \breve{w})^{\bar{h}}$
+This ought to express that [del]every collection of men[/del] [ins]not greater than the collection[/ins] [del]something to which a woman[/del]

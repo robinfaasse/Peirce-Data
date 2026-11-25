@@ -1,0 +1,23 @@
+And so it is clear that
+
+$$\{M_i \cdot M_{i+1}\} = \phi(M_i - M_{i+1}) + \phi^2(M_i - M_{i+2})$$
+$$- \phi^3(M_{i+1} - M_{i+2}) - \phi^4(M_{i+1} - M_{i+3})$$
+$$+ \phi^5(M_{i+2} - M_{i+3}) + \phi^6(M_{i+2} - M_{i+4})$$
+$$- \phi^7(M_{i+3} - M_{i+4}) - \phi^7(M_{i+3} - M_{i+5})$$
+$$- \quad - \quad - \quad - \quad - \quad - \quad -$$
+$$- \quad - \quad - \quad - \quad - \quad - \quad -$$
+$$\pm \phi^{2(n-1)}\{M_{n-1} - M_n\}$$
+
+Although this is a close approximation to $\{M_i \cdot M_{i+1}\}$ yet as it is easy to modify the expression so as to make it exact, we may proceed to do so. For this purpose we require some additional notation.
+
+Set $\psi_0 = 0$
+$\psi_1 = 1$
+$\psi_{n+1} = \psi_n + \psi_{n-1}$
+
+So that $\psi_2 = 1$ $\psi_3 = 2$ $\psi_4 = 3$ $\psi_5 = 5$ $\psi_6 = 8$ $\psi_7 = 13$ etc. and $\psi_n - (-1)^n \cdot \psi_{-n} = 1$
+
+We have seen that the successive approximations to $\phi$ are $\frac{0}{1}$ $\frac{1}{1}$ $\frac{1}{2}$ $\frac{2}{3}$ $\frac{3}{5}$ etc.
+
+Write $\phi_0 = \frac{0}{1}$ $\phi_1 = \frac{1}{1}$ $\phi_2 = \frac{1}{2}$ $\phi_3 = \frac{2}{3}$ $\phi_4 = \frac{3}{5}$ $\phi_n = \frac{\psi_n}{\psi_{n+1}}$
+
+and $Q_0 = \frac{1}{0}$ $Q_1 = \frac{1}{1}$ $Q_2 = \frac{2}{1}$ $Q_n = \frac{\psi_{n+1}}{\psi_n}$

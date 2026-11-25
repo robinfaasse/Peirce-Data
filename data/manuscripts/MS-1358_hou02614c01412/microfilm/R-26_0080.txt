@@ -1,0 +1,21 @@
+[u]Meryon's Bridge Aggregates[/u]
+
+$(m+1)$ $(m+2)$ $(m+3)$ - - - - - - $N-4$ $(N-3)$ $(N-2)$ $(N-1)$
+_________________________________________________________________
+
+$\begin{array}{cccccccc} 2 & 3 & 4 & - & - & - & (N-4) & (N-3) & (N-2) & (N-1) \\ & 3 & 4 & & & & " & " & " & " \\ & & 4 & & & & " & " & " & " \\ & & & & & & & & " & " \\ & & & & & & & & & " \\ & & & & & & & & & " \\ & & & & & & & & & " \end{array}$
+
+[u]$\sin \theta_1 + 2 \sin \theta_2 + 3 \sin \theta_3$[/u]
+
+The total [del]energy[/del] [ins]$\text{y}$[/ins] =
+[del]Try formula[/del] [ins]$\text{for}$[/ins] $m=0$
+
+$\left[ \sum_1^{N-1} n \sin (\theta_n - \theta_0) - \sqrt{a^2+b^2} \sin (\Theta - \theta_0) \right] \frac{\sin \theta_N}{\sin (\theta_N - \theta_0)} + \left[ \sum_1^{N-1} n \sin \theta_n + \sqrt{a^2+b^2} \sin \Theta \right]$
+
+$\sqrt{a^2+b^2} \sin \Theta$ is height last end above first
+[u]For $\sqrt{a^2+b^2}$ write $R$[/u]
+
+The other formula p. 6 gives for $m=0$
+$\frac{\sin \theta_0}{\sin (\theta_N - \theta_0)} \left[ R \sin (\theta_N - \Theta) - \sum_1^{N-1} n \sin (\theta_N - \theta_n) \right]$ [u]That is correct[/u]
+
+[fig]Geometric diagram with lines and curves[/fig] $\frac{R \sin (\theta_N - \Theta)}{\sin (\theta_N - \theta_0)}$ [fig]Diagram of a bridge truss[/fig] [fig]V-shaped line diagram[/fig]

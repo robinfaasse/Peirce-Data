@@ -1,0 +1,43 @@
+[del]\frac{\cos^2 \alpha}{\rho_u} + \frac{\sin^2 \alpha}{\rho_v} + \sin 2\alpha D_u y[/del] [ins]Day 3[/ins]
+
+[fig]Diagram with intersecting lines and angles[/fig]
+
+Section new line & [del]y[/del] [ins]z[/ins]
+$\frac{1}{\rho_{u'}} = \frac{\sin^2 \alpha}{\rho_x} + \frac{\cos^2 \alpha}{\rho_y} - \sin 2\alpha D_y z$
+
+<u>Add these two equations</u>
+$\frac{1}{\rho_u} + \frac{1}{\rho_{u'}} = \frac{1}{\rho_x} + \frac{1}{\rho_y}$
+
+Let $\rho_u = $ [del]greatest so[/del] max
+then
+$\rho_{u'} = $ min
+
+max $\rho$ & min $\rho$ $\perp$
+
+If you try to do otherwise
+you make two surfaces
+meet.
+
+Philosophy of subj. not quite made out.
+
+***
+
+(B) $\frac{1}{\rho} + \frac{1}{\rho'} = \frac{1}{\rho_x} + \frac{1}{\rho_y}$
+[ins]max[/ins] [ins]min[/ins]
+
+Diff between eq. at top
+of opp. page.
+$\frac{1}{\rho'} - \frac{1}{\rho} = \cos 2\alpha \left(\frac{1}{\rho_y} - \frac{1}{\rho_x}\right) - 2 \sin 2\alpha D_y z$
+
+Second member [del]is now at max[/del]
+since $\rho$ is max $\rho'$ min
+$0 = - \sin 2\alpha \left(\frac{1}{\rho_y} - \frac{1}{\rho_x}\right) - 4 \cos 2\alpha D_y z$
+
+Mul. $1^{\text{st}}$ eq by $\cos 2\alpha$ &c
+
+(A) $\cos 2\alpha \left(\frac{1}{\rho'} - \frac{1}{\rho}\right) = \frac{1}{\rho_y} - \frac{1}{\rho_x}$
+
+Sub A from B
+
+$\frac{1}{\rho_x} = \frac{\cos^2 \alpha}{\rho} + \frac{\sin^2 \alpha}{\rho'}$
+$\frac{1}{\rho_y} = \frac{\sin^2 \alpha}{\rho} + \frac{\cos^2 \alpha}{\rho'}$

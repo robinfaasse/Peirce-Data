@@ -1,0 +1,17 @@
+The values of [u]u[/u] and [u]v[/u]. Hence it is plain that if we can take F₁ and F₂ as conjugate functions, and F₃ and F₄ as conjugate functions; so that we make write
+X = F₁(x+iy) + K·F₁(x-iy) + (x-iy)F₃(x+iy) + (x+iy)K·F₃(x-iy)
+
+If we put
+p = x+iy, q = (x-iy),
+we have
+X = F₁p + K·F₁q + qF₃p + pK·F₃q
+
+-½(v+iu) = D_p X = F₁'p + qF₃'p + K·F₃q
+-½(v-iu) = D_q X = K·F₁'q + F₃p + pK·F₃'q
+D_p² X = F₁''p + qF₃''p
+D_q² X = K·F₁''q + pK·F₃''q
+D_p D_q X = F₃'p + K·F₃'q = i/4μ pressure.
+D_p³ X = F₁'''p + qF₃'''p
+D_q³ X = K·F₁'''q + pK·F₃'''q
+D_p² D_q X = F₃''p = - -
+D_p D_q² X = K·F₃''q

@@ -1,0 +1,60 @@
+$$(Ai' + Bm' + Cn')(Di' + Em' + Fn')$$
+
+$$\begin{array}{c|c|c|c|c}
+= & i'' & j'' & k'' & l'' & m'' & n'' \\
+\hline
+AD & & & & -AE & -AF \\
+-BE & -BF & & & +BD & \\
+-CF & & -CE & & & +CD \\
+\hline
+(AD-BE-CF)i'' & -BFj'' & -CEk'' & & (-AE+BD)m'' & (-AF+CD)n'' \\
+\hline
+\end{array}$$
+
+$$\begin{array}{c|c|c|c|c|c}
+& i' & j' & k' & l' & m' & n' \\
+\hline
+(AD-BE-CF)A & & & & & (AD-BE-CF)B & (AD-BE-CF)C \\
+& -BFA & & \rightarrow B^2F & \rightarrow BFC & \\
+& & -ACE & \rightarrow C^2E & & \rightarrow BCE \\
+(AE+BD)B & (AE+BD)C & & & A(-AE+BD) & \\
+(AF+CD)C & & (AF+CD)B & & & A(-AF+CD) \\
+\hline
+\end{array}$$
+
+$$\begin{array}{c|c|c|c|c|c}
+i' & j' & k' & l' & m' & n' \\
+\hline
+[del]AD-ABE[/del] & & & & & \\
+[del](A-B^2-C^2)D[/del] & [del]-ABF[/del] & [del]-ABF[/del] & [del](B^2F+C^2E)l'[/del] & [del]-A^2E+BE+2BCF[/del] & [del]-A^2F+BCE[/del] \\
+[del]+BCD[/del] & [del]-ABF+ACE-BCD[/del] & [del]-ACE[/del] & & [del]-C^2E-B^2F[/del] & [del]+C^2F[/del] \\
+& & [del]-BCD[/del] & & & [del]-B^2F-C^2E[/del] \\
+A^2D-2ABE-2ACF & -ABF-ACE & -ABF-ACE & & [del]2ABD[/del] & \\
+-B^2D+C^2D & +BCD & +BCD & & -A^2E+2ABD & -A^2F+2ACD \\
++ABF+ACE & & & & -2BCF-B^2E & -2BCE-C^2F \\
+-BCD & & & & +C^2E+B^2F & +B^2F+C^2E \\
+\end{array}$$
+
+$$\begin{array}{lll}
+A = \sqrt{u^2-u+1} & B = 1 & [del]+[/del] C = u \\
+D = \sqrt{v^2-v+1} & E = 1 & [del]F =[/del] F = v
+\end{array}$$
+
+[del]$$(u^2-u+1)\sqrt{v^2-v+1}$$[/del]
+$$\sqrt{u^2-u+1}(-2-2uv+v+u)$$
+$$= \sqrt{u^2-u+1}$$
+
+[del]$$(1-2u)(1-2v) =$$[/del]
+
+$$\begin{array}{l}
+[del]-u^2+u-1[/del] \\
+[del]+2\sqrt{}[/del] \\
+[del]-2uv[/del] \\
+[del]2v\sqrt{}[/del] \\
+\hline
+-u^2+u-1+v-2uv \\
++u^2 \quad -1 \\
+\hline
+-uv+uv-u-2u \\
+-u^2v \quad +u
+\end{array}$$

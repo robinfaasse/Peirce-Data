@@ -1,0 +1,14 @@
+[del]de la quantité[/del]
+cette condition s'écrit
+$$\Sigma_i \Pi_\alpha \Sigma_\beta \Pi_\gamma \Pi_\delta \ \ p_i \cdot p_{i'} \cdot (\overline{q_{m\alpha}} + \overline{r_{i\alpha\beta}}) \cdot (\overline{r_{i\gamma\delta}} + q_{n\delta}).$$
+Si nous identifions $\gamma$ avec $\alpha$ et $\delta$ avec $\beta$, nous obtenons
+$$\Sigma_i \Pi_\alpha \Sigma_\beta \ p_i p_{i'} \ (\overline{q_{m\alpha}} + \overline{r_{i\alpha\beta}} \cdot q_{n\beta})$$
+d'où
+$$\Sigma_i \Pi_\alpha \Sigma_\beta \ \overline{q_{m\alpha}} + p_i p_{i'} \cdot q_{n\beta} \cdot \overline{r_{i\alpha\beta}}$$
+ce qui était l'hypothèse.
+
+Supposons maintenant que
+$$\Pi_i \Sigma_s \Pi_r \ \overline{p_i} + \overline{p_{i'}} + p_i \cdot p_{i'} \cdot q_{ns} \cdot (\overline{q_{mr}} + \overline{r_{irs}})$$
+Cela exprime que [del]les[/del] [ins]parmi les[/ins] relations du genre $p_i \cdot p_{i'}$ il n'y a pas une qui [del]ait[/del] à la fois [del]tous[/del] [ins]parmi[/ins] les sujets de $n$ parmi se correlata et [del]qui[/del] n'a que des sujets de $m$ parmi ses relata. Nous pouvons en conclure
+$$\Pi_i \Sigma_s \Pi_r \ \overline{p_i} + \overline{p_{i'}} + p_i \cdot p_{i'} \cdot (q_{ns} \cdot \overline{r_{irs}} + \overline{q_{mr}} \cdot \overline{r_{irs}})$$
+C'est à dire les relations du genre $p_i p_{i'}$ sont de deux possibles espèces, ceux qui n'ont pas tous les sujets de $n$ comme correlata, et ceux qui ont des choses qui ne sont pas sujets de $m$ comme relata.

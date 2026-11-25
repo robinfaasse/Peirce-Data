@@ -1,0 +1,44 @@
+[marginalia]Morrison's Bridge 1899 Feb 17[/marginalia] [pn]2[/pn]
+
+[del]$$x_2$$[/del] [ins]$$x_2$$[/ins] [del]$$=$$[/del] $$= (\frac{1}{2} ds) \cos \theta_2$$
+
+$$\delta x_2 = \delta s_2 \cos \theta_2 - \frac{1}{2} ds \sin \theta_2 \delta \theta_2$$
+$$= \delta x \cos (2\theta - \theta_2) \cos \theta_2 - \delta x \sin (2\theta - \theta_2) \sin \theta_2$$
+$$= \delta x \cos 2\theta$$
+
+$$\delta y_2 = \delta s_2 \sin \theta_2 + \frac{1}{2} ds \cos \theta_2 \delta \theta_2$$
+$$= \delta x \cos (2\theta - \theta_2) \sin \theta_2 + \delta x \sin (2\theta - \theta_2) \cos \theta_2$$
+$$= \delta x \sin 2\theta$$
+
+[fig]star symbol[/fig] $$x_3 = (\frac{1}{2} ds) \cos \theta_2$$  $$y_3 = - (\frac{1}{2} ds) \sin \theta_2$$
+
+[fig]triangle symbol[/fig] $$\delta x_3 = + \delta x \cos (2\theta - \theta_2) \cos \theta_2 + (\frac{1}{2} ds) \sin \theta_2 \delta \theta_2$$
+$$= \delta x \cos (2\theta - \theta_2) \cos \theta_2 + \delta x \sin (2\theta - \theta_2) \sin \theta_2$$
+$$= \delta x \cos 2(\theta - \theta_2)$$
+
+[fig]sketch of lines and question mark[/fig]
+
+[fig]geometric diagram with intersecting lines[/fig] [del]$$\delta x_3 = \delta (ds \cos \theta_2)$$[/del]
+$$\delta (ds \cos \theta_2) = \delta x_2 + \delta x_3$$
+$$= + ds \sin \theta_2 d\theta_2$$
+$$\delta s_2 = 2 \delta x \sin (2\theta - \theta_2) = \delta x \sin 2\theta + \delta x_3$$
+
+[fig]geometric diagram with intersecting lines[/fig]
+
+[fig]geometric diagram with intersecting lines[/fig]
+
+[fig]geometric diagram with intersecting lines[/fig]
+
+[fig]geometric diagram with intersecting lines[/fig]
+
+$$\cos 2\theta = \cos^2 - \sin^2$$
+$$1 - 2\sin^2$$
+
+[del]$$\delta x_2$$[/del] [ins]$$-\delta x_2 + \delta x = -\delta (ds \cos \theta)$$[/ins]
+$$= + ds \sin \theta \cdot d\theta$$
+$$= -2 \delta x \sin^2 \theta$$
+$$\delta x_2 = \delta x (1 + 2 \sin^2 \theta)$$
+
+[fig]geometric diagram with intersecting lines[/fig]
+
+[fig]parallel vertical lines[/fig]

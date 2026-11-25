@@ -1,0 +1,15 @@
+$T\left(\frac{1}{2}+\frac{x}{b}\right) = \frac{3}{2} T + \frac{x}{b} T$
+$T\left(\frac{1}{2}+\frac{x}{b}\right) = \frac{3}{2} T \left(1 + \frac{2}{3} \frac{x}{b}\right)$
+The average value $T'$ can then be $T' = \frac{\int_{0}^{\frac{b}{2}} T \cdot dx}{\frac{b}{2}}$
+$\int_{0}^{\frac{b}{2}} T\left(\frac{1}{2}+\frac{x}{b}\right) dx = \int_{0}^{\frac{b}{2}} \frac{3}{2} T dx + \int_{0}^{\frac{b}{2}} \frac{T}{b} x dx$
+$= \frac{3}{4} Tb + \frac{T}{2b} \frac{b^{2}}{4}$
+$= \frac{3}{4} Tb + \frac{Tb}{8} = \frac{7}{8} Tb$
+$\therefore T' = \frac{7}{8} Tb \cdot \frac{2}{b} = \frac{7}{4} T$
+The pressure $p = \frac{R}{v} T'$
+$p_{1} = \frac{R}{v} T' \left(1 + \frac{x}{b}\right) = \frac{7}{4} T \frac{R}{v} \left(1 + \frac{x}{b}\right)$
+$p_{2} = \frac{R}{v} T' \left(1 - \frac{x}{b}\right) = \frac{7}{4} T \frac{R}{v} \left(1 - \frac{x}{b}\right)$
+$p_{1} - p_{2} = \frac{7}{4} \frac{R}{v} T \left(1 + \frac{x}{b} - 1 + \frac{x}{b}\right) = \frac{7}{2} \frac{RT}{v} \frac{x}{b}$
+$p_{1} - p_{2} = \frac{7}{2} \frac{RT}{v} \frac{x}{b} = \frac{7}{2} p \frac{x}{b}$
+$\left(1 + \frac{x}{b}\right) \frac{3}{2} T = \frac{3}{2} T \left(1 + \frac{x}{b}\right)$
+$\left(1 + \frac{x}{b}\right) \frac{3}{2} T \left(1 + \frac{2}{3} \frac{x}{b}\right) \frac{3}{2} T \left(1 + \frac{x}{b}\right)$
+$\left(1 + \frac{x}{b}\right) \frac{3}{2} T \left(1 + \frac{2}{3} \frac{x}{b}\right) \frac{3}{2} T \left(1 + \frac{x}{b}\right)$

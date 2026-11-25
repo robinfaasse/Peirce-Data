@@ -1,0 +1,101 @@
+```
+[pn]554[/pn]
+[marginalia]
+a
+=
+-7
+
+b
+=
+-5
+
+c
+=
+-3
+
+d
+=
+-1
+
+e
+=
++1
+
+f
+=
++3
+
+g
+=
++5
+
+h
+=
++7
+[/marginalia]
+
+[marginalia]
+[del]554[/del]
+[/marginalia]
+
+$$u_0 = \frac{3^2 \cdot 5^2 \cdot 7^2}{3^2 \cdot 2^{11}} (u_1 + u_{-1})$$
+
+$$f_0 = \frac{f(-7)}{7} \cdot \frac{7 \cdot 5 \cdot 3 \cdot 1 \cdot (-1) \cdot (-3) \cdot (-5) \cdot (-7)}{(-2) \cdot (-4) \cdot (-6) \cdot (-8) \cdot (-10) \cdot (-12) \cdot (-14)}$$ Neg
+
+$$- \frac{1^2 \cdot 5^2 \cdot 7^2}{3^2 \cdot 2^{11}} (u_3 + u_{-3})$$
+
+$$+ \frac{f(7)}{-7} \cdot \frac{7 \cdot 5 \cdot 3 \cdot 1 \cdot (-1) \cdot (-3) \cdot (-5) \cdot (-7)}{14 \cdot 12 \cdot 10 \cdot 8 \cdot 6 \cdot 4 \cdot 2}$$ Neg
+
+$$+ \frac{1^2 \cdot 3^2 \cdot 7^2}{3^2 \cdot 2^{11}} (u_5 + u_{-5})$$
+
+$$+ \frac{f(-5)}{5} \cdot \frac{7 \cdot 5 \cdot 3 \cdot 1 \cdot (-1) \cdot (-3) \cdot (-5) \cdot (-7)}{+2 \cdot (-2) \cdot (-4) \cdot (-6) \cdot (-8) \cdot (-10) \cdot (-12)}$$ Pos
+
+$$- \frac{3^2 \cdot 1^2 \cdot 7^2}{3^2 \cdot 7^2 \cdot 2^{11}} (u_7 + u_{-7})$$
+
+$$+ \frac{f(5)}{-5} \cdot \frac{12 \cdot 10 \cdot 8 \cdot 6 \cdot 4 \cdot 2 \cdot -2}{}$$ Pos
+
+[marginalia]
+Correct
+[/marginalia]
+
+[marginalia]
+[del]25[/del]
+[del]34[/del] ) 4900
+[u]1228[/u]
+[/marginalia]
+
+$$= \frac{1225}{1024} \frac{u_1 + u_{-1}}{2}$$
+
+$$+ \frac{f(-3)}{3} \cdot \frac{}{+4 \cdot +2 \cdot (-2) \cdot (-4) \cdot (-6) \cdot (-8) \cdot (-10)}$$ Neg
+
+[marginalia]
+490
+245
+[/marginalia]
+
+$$- \frac{245}{1024} \frac{u_3 + u_{-3}}{2}$$
+
+$$+ \frac{f(3)}{-3} \cdot \frac{}{10 \cdot 8 \cdot 6 \cdot 4 \cdot 2 \cdot (-2) \cdot (-4)}$$ Neg
+
+$$+ \frac{49}{1024} \frac{u_5 + u_{-5}}{2}$$
+
+$$- \frac{5}{1024} \frac{u_7 + u_{-7}}{2}$$
+
+$$+ \frac{f(-1)}{1} \cdot \frac{}{6 \cdot 4 \cdot 2 \cdot (-2) \cdot (-4) \cdot (-6) \cdot (-8)}$$
+
+[marginalia]
+1225
+49
+[u]1274[/u]
+[u]250[/u]
+1024
+[/marginalia]
+
+[marginalia]
+245
+[u]5[/u]
+250
+[/marginalia]
+
+$$\frac{f(1)}{-1} \cdot \frac{}{8}$$
+```

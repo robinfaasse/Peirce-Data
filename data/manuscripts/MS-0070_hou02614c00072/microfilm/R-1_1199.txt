@@ -1,0 +1,25 @@
+[pn]N1[/pn] Analysis of Demonstrations concerning Positive Integers.
+
+[u]The Universe of l.c. Italics is the aggregate of all Positive Integers together with zero[/u]
+[u]The Universe of Greek minuscules is the aggregate of all characters[/u]
+
+$q_{\alpha u}$ means $u$ has the character $\alpha$.
+
+(1) $\Pi_{\alpha} \Sigma_{\beta} \Pi_{u} (q_{\alpha u} + \bar{q}_{\beta u}) \cdot (\bar{q}_{\alpha u} + q_{\beta u})$ i.e. Every character has a negative
+
+(2) $\Pi_{\alpha} \Pi_{\beta} \Sigma_{y} \Pi_{u} (q_{\alpha u} + \bar{q}_{\beta u} + q_{\gamma u}) \cdot (\bar{q}_{\alpha u} + q_{\beta u} + \bar{q}_{\gamma u})$ [del]Any two characters[/del] [ins]compounded[/ins]
+
+$S_{\alpha}$ means that $\alpha$ essentially belongs to [del]all[/del] [ins]integers[/ins] smaller than an integer to which it belongs
+
+(4) $\Pi_{\alpha} \Sigma_{u} \bar{S}_{\alpha} + \bar{q}_{\alpha u}$ i.e. There is no greatest member
+
+[del]$\Pi_{u} \Sigma_{\alpha} q_{\alpha u} \cdot S_{\alpha}$[/del] i.e. Every number has some character in common with all smaller numbers [del](excepting zero)[/del]
+
+(5) $\Sigma_{\alpha} \Pi_{u} \Pi_{v} q_{\alpha u} + \bar{S}_{\alpha} + \bar{q}_{\alpha v}$ i.e. There is a lowest member, zero.
+
+(6) $\Pi_{\alpha} \Pi_{\beta} \Pi_{u} \Pi_{v} \bar{S}_{\alpha} + \bar{S}_{\beta} + \bar{q}_{\alpha u} + \bar{q}_{\beta u} + q_{\alpha v} + \bar{q}_{\beta v}$
+
+(7) $\Pi_{u} \Pi_{v} \Sigma_{\alpha} \Pi_{\beta} \Pi_{y} S_{\alpha} \cdot q_{\alpha u} \cdot \bar{q}_{\alpha v} \cdot (\bar{q}_{\beta v} + q_{\beta y} + \bar{S}_{\beta}) + S_{\beta} \cdot \bar{q}_{\beta i} \cdot q_{\beta v} \cdot (q_{\alpha v} + \bar{q}_{\alpha y} + \bar{S})$
+$+ q_{\gamma u} \cdot \bar{q}_{\gamma v} + \bar{q}_{\gamma u} \cdot q_{\gamma v}$
+
+But the two factors in parentheses may be omitted as being implied in (6)

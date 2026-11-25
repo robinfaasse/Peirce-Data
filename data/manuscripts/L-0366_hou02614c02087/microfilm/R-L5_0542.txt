@@ -1,0 +1,34 @@
+[marginalia]
+1909
+July 15
+[pn]12[/pn]
+[/marginalia]
+
+usually given) you find $\Theta t_1$ and $\Theta t_2$, and the
+probability sought is $\frac{1}{2}(\Theta t_2 - \Theta t_1)$ where you must
+take note of the signs of the $\Theta$s which [del]is[/del] [ins]are[/ins] the same as those of $t_1$ and
+$t_2$. This method is not very [del]exact[/del] [ins]precise[/ins] unless $n$ is quite large.
+For example, suppose you turn a six sided teetotum 15 times
+what will be the probability that among these 15 turns there
+shall be 11, 12, or 13 [del]that are[/del] [ins]in which the teetotum does not rest on[/ins] either of 2 predesignate sides.
+The probability is [del]$\frac{4}{6}$[/del] [ins]$\frac{2}{3}$[/ins] that it will not do so after any one spin.
+That is to say $p = \frac{2}{3}$ $q = \frac{1}{3}$. $n = 15$ $m_1 = 11$ $m_2 = 13$. We first
+calculate $t_1$ [ins]and $t_2$[/ins] thus: [del]$\text{exp}$[/del] $(n+1)p = 16 \times \frac{2}{3} = 10 + \frac{2}{3}$ $m_1 - (n+1)p = \frac{1}{3}$
+$1 + m_2 = 14$ $1 + m_2 - (n+1)p = 3\frac{1}{3}$ $pq = \frac{1}{3} \times \frac{2}{3} = \frac{2}{9}$ $2n = 30$ $2npq = \frac{60}{9}$
+$\sqrt{2npq} = \frac{7.7459667}{3} = 2.5819889$ $t_1 = \frac{1}{7.7459667} = 0.1290995$
+$t_2 = \frac{10}{3} \cdot \frac{3}{7.7459667} = 1.290995$ Now the table in Chauvenet's
+Astronomy Vol II p 593 gives
+[fig]table of values[/fig]
+[del]$1111 \times 0.09005 = 100$[/del]
+Now $1111 \times 0.09005 = 100$ Therefore $\Theta t_1 = 0.14587 - 0.0100 = 0.14487$
+and $211 \times 0.0995 = 21$ Therefore $\Theta t_2 = 0.93190 + 0.0021 = 0.93401$
+$\Theta t_2 - \Theta t_1 = 0.78914$
+$\frac{1}{2}(\Theta t_2 - \Theta t_1) = 0.39457$
+
+Now in my essay on probable inference in "Studies in Logic, by
+Members of the Johns Hopkins University, Little, Brown & Co. 1883" p 134
+I have given the exact numbers of ways in which, if $\frac{\Sigma S}{\Sigma G} = \frac{2}{3}$, the different
+possible ways in which a series of 15 G's can be arranged. This gives
+for the above probability 0.37589; for as was to be expected
+a theory founded on continuity will not represent very well a
+system of small collections.

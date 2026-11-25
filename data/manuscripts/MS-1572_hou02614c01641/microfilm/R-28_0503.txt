@@ -1,0 +1,23 @@
+Required to prove that of two classes [u]m[/u] and [u]n[/u] [del]either m is[/del] one is as small as the other.
+
+1[sup]st[/sup] Every class is as small as something for every class stands in a one to one relation of identity with itself.
+
+Th[sub]i[/sub] I[sub]ii[/sub]
+
+[three dots in triangular pattern] Th[sub]i[/sub] (m[sub]i[/sub] + I[sub]ii[/sub])
+
+The third clause of the definition of a one to one correspondence
+
+[three dots in triangular pattern] [del]Th[/del] [ins]$\Pi_{\alpha}$[/ins] $\Sigma_{u} \Sigma_{v} \Sigma_{w}$ (C[sub]$\alpha$[/sub] + r[sub]uv[/sub] r[sub]uw[/sub] I[sub]vw[/sub] + r[sub]uw[/sub] r[sub]vw[/sub] I[sub]uv[/sub])
+
+Put I = r[sub]$\alpha$[/sub] and we have
+
+[del]$\Pi$[/del] $\Sigma_{u} \Sigma_{v} \Sigma_{w}$ (C[sub]$\alpha$[/sub] + I[sub]uv[/sub] I[sub]uw[/sub] I[sub]vw[/sub] + I[sub]uw[/sub] I[sub]vw[/sub] I[sub]uv[/sub])
+
+which (by the transitiveness of I) reduces to
+
+C[sub]$\alpha$[/sub]
+
+[three dots in triangular pattern] Th[sub]i[/sub] (m[sub]i[/sub] + C[sub]$\alpha$ii[/sub])
+
+Now if there be a [del]one to one correspondence[/del] and if there be [del]an object not a correlate of[/del] that correspondence, then also is there a one to one correspondence with the same relates

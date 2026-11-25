@@ -1,0 +1,22 @@
+[pn]59[/pn]
+nex-branch may be erased from any evenly enclosed point outwards, so
+long as a node is not passed. But in applying this rule if any nex is within
+another which is itself, before or after the junction, within a third, the first
+must be [del]considered to be treated[/del] as within the third.
+
+9. Any graph may be iterated, its nexes remaining unbroken, provided
+the new embodiment is not outside the old one, and that no new circle is
+drawn; and if a graph is iterated, one embodiment may be [del]omitted[/del] struck
+out, with its nex branches to the nodes, provided the embodiment remaining
+is not within the one struck out. But no change in the enclosures of the
+nexes must be made, unless it is permitted by Rule 7. [ins]Any nex may be repeated
+not outside its first appearance, and the inner of two nex branches between nodes on one nex may be erased.[/ins]
+
+10. Any [del]un[/del]encircled conjugation may be introduced under even enclosures
+or erased under odd enclosures.
+
+[fig]Two small ovals inside a larger oval[/fig]
+
+[fig]Two overlapping ovals inside a larger oval[/fig]
+
+[fig]Complex existential graph with variables w, l, v and Greek letters[/fig]

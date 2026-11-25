@@ -1,0 +1,29 @@
+[pn]45[/pn]
+
+in that case, [del]the sum[/del] was the hypothesis that one or other was true.
+1 is the value of any true hypothesis; 0 that of any false one. But Boole
+did not perceive that, [ins]in order[/ins] to represent [del]no matter what[/del] ordinary knowledge, he
+ought not only to write
+$$\Phi \underline{x} = 1,$$
+but he ought to imagine himself running over all possible [ins]perfectly definite[/ins] states of things, A, B, C,
+etc. and writing $\underline{x}_A$ to signify $\underline{x}$ is true in state of things A, etc. And that
+he then ought to write
+$$(\Phi \underline{x}_A)(\Phi \underline{x}_B)(\Phi \underline{x}_C) \text{ etc.} = 1,$$
+or briefly
+$$\Pi_A \Phi \underline{x}_A = 1$$
+to [del]mean[/del] [ins]signify[/ins] that $\underline{x}$ is true in every possible state of things, or
+$$\Phi \underline{x}_A + \Phi \underline{x}_B + \Phi \underline{x}_C + \text{ etc.} = 1$$
+or briefly
+$$\Sigma_A \Phi \underline{y}_A = 1,$$
+to signify that $\underline{x}$ is true in some possible state of things. It is true
+that as long as he deals exclusively with statements [del]that something is[/del] [ins]of what is necessarily[/ins]
+true in all [del]states[/del] possible states of things, all the factors under [del]his[/del] the $\Pi$'s
+being alike, it suffices to write one of those factors [del]to[/del] [ins]for[/ins] each proposition. Since
+he only writes one such factor, he thereby restricts the scope of his calculus
+to necessary propositions. Boole extended his calculus to classes. The
+real philosophy of this was very simple. He had only to make A, B, C, etc
+denote the different individuals, or [u]haecceities[/u], of the universe, and
+let $\underline{x}_A$ signify that A belongs to the class $\underline{x}$. Then, [del]a propos[/del] [ins]an equation[/ins] of
+the form
+$$\Pi_A \Phi \underline{x}_A = 1$$
+would signify that [del]some[/del] [ins]what[/ins] was represented in $\Phi \underline{x}$ was true of all things.

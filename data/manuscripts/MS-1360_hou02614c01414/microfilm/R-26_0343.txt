@@ -1,0 +1,17 @@
+[u]§4. The arc and curvature.[/u] The equations (5) and (3) give
+
+$$\frac{ds}{dx} = \sqrt{1 + \frac{w^2}{Q^2}}$$
+
+Suppose, then, the distribution of the weight is known; that is, suppose
+$w$ is a known function either of [u]$x$[/u] or of [u]$s$[/u]. In either case
+we are supposed to know the total span, $x_1$, and the total length
+of cord, $s_1$. Therefore, by integrating the above with two values of
+$Q$ and applying the rule of false, we can soon ascertain $Q$,
+which is the weight from $\tau = 0$ to $\tau = 45^\circ$.
+
+If we know the form of the cord, we have no difficulty. For
+$dy/dx = \tan \tau$, and from this and the total weight we at once
+get $Q$ from (5).
+
+From $Q$ and the distribution of weight we find $\tau$, and thence
+[u]$x$[/u] or [u]$s$[/u], and $y$.

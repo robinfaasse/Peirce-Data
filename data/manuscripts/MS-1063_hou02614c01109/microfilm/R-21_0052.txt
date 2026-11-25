@@ -1,0 +1,29 @@
+Integrating this we have
+$(D_t \phi)^2 = \frac{2}{\lambda \sin^2 \psi} (\cos \phi - \cos A)$ (4)
+where [del]the[/del] [ins]are[/ins] the [del]values of $D_t \phi$[/del] [ins]extreme values of $\phi$ for which[/ins]
+[del]$D_t \phi$ vanishes[/del]
+[del]$D_t \phi = 0$.[/del]
+
+This equation might have been
+reached, at once, by the principle
+of living forces.
+
+Taking $\phi$ as our independent
+variable we have by a
+transformation of (4)
+$D_\phi t = \frac{1}{\sqrt{\frac{2}{\lambda \sin^2 \psi} \cos \phi - \cos A}}$
+
+The integral of this may
+be [del]partly[/del] expressed as an ell-
+iptic function, but it is more
+useful to develop it into
+
+[page break]
+
+where $\pm A$ the [del]values[/del] [ins]extreme values[/ins]
+of $\phi$ [del]for[/del] [ins]for if $\cos \phi < \cos A$[/ins]
+$D_t \phi$ would be imaginary,
+which cannot happen for any
+real value of $t$.
+
+$D_\phi t = \frac{1}{\sqrt{\frac{2}{\lambda \sin^2 \psi}}} \frac{1}{\sqrt{\cos \phi - \cos A}}$

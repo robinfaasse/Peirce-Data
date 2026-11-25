@@ -1,0 +1,28 @@
+[u]Icosahedron[/u]
+
+[u]Mid points of faces[/u]
+$\text{ABI} = \frac{1}{3}(y + \frac{1}{e^2}z)$  $\text{CDL} = \frac{1}{3}(-y - \frac{1}{e^2}z)$
+$\text{ABK} = \frac{1}{3}(-y + \frac{1}{e^2}z)$  $\text{CDJ} = \frac{1}{3}(\phantom{-}y - \frac{1}{e^2}z)$
+$\text{EFA} = \frac{1}{3}(z + \frac{1}{e^2}x)$  $\text{GHD} = \frac{1}{3}(-z - \frac{1}{e^2}x)$
+$\text{EFC} = \frac{1}{3}(-z + \frac{1}{e^2}x)$  $\text{GHB} = \frac{1}{3}(\phantom{-}z - \frac{1}{e^2}x)$
+$\text{IJE} = \frac{1}{3}(x + \frac{1}{e^2}y)$  $\text{KLH} = \frac{1}{3}(-x - \frac{1}{e^2}y)$
+$\text{IJG} = \frac{1}{3}(-x + \frac{1}{e^2}y)$  $\text{KLF} = \frac{1}{3}(\phantom{-}x - \frac{1}{e^2}y)$
+$\text{AEI} = \frac{1}{3e}(x + y + z)$  $\text{DHL} = \frac{1}{3e}(-x - y - z)$
+$\text{BGI} = \frac{1}{3e}(-x + y + z)$  $\text{CFL} = \frac{1}{3e}(\phantom{-}x - y - z)$
+$\text{AFK} = \frac{1}{3e}(x - y + z)$  $\text{DGJ} = \frac{1}{3e}(-x + y - z)$
+$\text{BHK} = \frac{1}{3e}(-x - y + z)$  $\text{CEJ} = \frac{1}{3e}(\phantom{-}x + y - z)$
+
+[u]Mid points of the edges[/u]
+$\text{EF} = x$  $\text{GH} = -x$  $\text{IJ} = y$  $\text{KL} = -y$  $\text{AB} = z$  $\text{CD} = -z$
+$\text{AE} = \frac{1}{2}(\frac{1}{e}x + ey + z)$  $\text{DH} = \frac{1}{2}(-\frac{1}{e}x - ey - z)$
+$\text{AF} = \frac{1}{2}(\frac{1}{e}x - ey + z)$  $\text{DG} = \frac{1}{2}(-\frac{1}{e}x + ey - z)$
+$\text{BG} = \frac{1}{2}(-\frac{1}{e}x + ey + z)$  $\text{CF} = \frac{1}{2}(\phantom{-}\frac{1}{e}x - ey - z)$
+$\text{BH} = \frac{1}{2}(-\frac{1}{e}x - ey + z)$  $\text{CE} = \frac{1}{2}(\phantom{-}\frac{1}{e}x + ey - z)$
+$\text{EI} = \frac{1}{2}(\phantom{-}x + \frac{1}{e}y + ez)$  $\text{HL} = \frac{1}{2}(-x - \frac{1}{e}y - ez)$
+$\text{EJ} = \phantom{\frac{1}{2}(} + \phantom{\frac{1}{e}} + \phantom{e} - \phantom{)}$  $\text{HK} \phantom{=} \phantom{\frac{1}{2}(} - \phantom{\frac{1}{e}} - \phantom{e} + \phantom{)}$
+$\text{FK} = \phantom{\frac{1}{2}(} + \phantom{\frac{1}{e}} - \phantom{e} + \phantom{)}$  $\text{GJ} \phantom{=} \phantom{\frac{1}{2}(} - \phantom{\frac{1}{e}} + \phantom{e} - \phantom{)}$
+$\text{FL} = \phantom{\frac{1}{2}(} + \phantom{\frac{1}{e}} - \phantom{e} - \phantom{)}$  $\text{GI} \phantom{=} \phantom{\frac{1}{2}(} - \phantom{\frac{1}{e}} + \phantom{e} + \phantom{)}$
+$\text{IA} = \frac{1}{2}(ex + y + \frac{1}{e}z)$  $\text{LD} = \frac{1}{2}(-ex - y - \frac{1}{e}z)$
+$\text{IB} = \phantom{\frac{1}{2}(} - \phantom{e} + \phantom{y} + \phantom{\frac{1}{e}} \phantom{)}$  $\text{LC} \phantom{=} \phantom{\frac{1}{2}(} + \phantom{e} - \phantom{y} - \phantom{\frac{1}{e}} \phantom{)}$
+$\text{JC} = \phantom{\frac{1}{2}(} - \phantom{e} + \phantom{y} - \phantom{\frac{1}{e}} \phantom{)}$  $\text{KB} \phantom{=} \phantom{\frac{1}{2}(} - \phantom{e} - \phantom{y} + \phantom{\frac{1}{e}} \phantom{)}$
+$\text{JD} = \phantom{\frac{1}{2}(} - \phantom{e} - \phantom{y} - \phantom{\frac{1}{e}} \phantom{)}$  $\text{KA} \phantom{=} \phantom{\frac{1}{2}(} + \phantom{e} - \phantom{y} + \phantom{\frac{1}{e}} \phantom{)}$

@@ -1,0 +1,30 @@
+[marginalia][date]1889 Jan 19[/date][/marginalia] [pn]4[/pn]
+
+[fig]crossed lines[/fig]
+
+[u]Plane ordinal geometry[/u].
+
+A line, [u]a[/u], drawn in the plane separates it into two regions, $\alpha$ and $\bar{\alpha}$. A second line, [ins]B,[/ins] [del]must[/del] penetrate successively the regions $\alpha$, $\bar{\alpha}$, separating them into $\alpha\beta$, $\alpha\bar{\beta}$, [del]$\bar{\alpha}\beta$[/del], $\bar{\alpha}\bar{\beta}$. The following rule is self-evident:
+
+[u]Rule 3[/u]. In passing along infinity in a plane which is separated by unlimited curves, we pass from the region $\alpha\beta\gamma\delta$ etc. (say the wholly positive region) by successive requalifications of single letters to $\bar{\alpha}\bar{\beta}\bar{\gamma}\bar{\delta}$ etc., the wholly negative region, and then by requalifications of the letters in the same order back to $\alpha\beta\gamma\delta$ etc.
+
+Hence, the order of succession of regions formed by 2 lines [del]is[/del] [ins]may is either[/ins] $\alpha\beta$, $\alpha\bar{\beta}$, $\bar{\alpha}\bar{\beta}$, $\bar{\alpha}\beta$. If there are three lines, the order in passing round infinity will be $\alpha\beta\gamma$, $\alpha\beta\bar{\gamma}$, $\alpha\bar{\beta}\bar{\gamma}$, $\bar{\alpha}\bar{\beta}\bar{\gamma}$, $\bar{\alpha}\bar{\beta}\gamma$, $\bar{\alpha}\beta\gamma$
+
+$$\begin{array}{c}
+xn^2 + yn \\
+n^2 + n = 1 \\
+4n^2 + 2n = 3 \\
+2n^2 + 2n = 2 \\
+2n^2 = 1 \quad \frac{1}{2}(n^2 - n)
+\end{array}$$
+
+$$\begin{array}{ccc}
+1 & 0 & \\
+2 & 1 & \text{ }^1 \\
+3 & 3 & \text{ }^2 \\
+4 & [del]6[/del] & \text{ }^3
+\end{array}$$
+
+[fig]three intersecting lines[/fig]
+
+$n$

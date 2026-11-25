@@ -1,0 +1,19 @@
+[marginalia]
+6
+[/marginalia]
+
+Adding these two we have
+[del]$$W_m x_m + W_{m-1} x_{m-1} = Q \{ x_m \tan \tau_m - (y_m - y_{m-1}) \tan \tau_{m-1} - x_{m-1} \tan \tau_{m-2} \}$$[/del]
+By (1), this is
+[del]$$W_m x_m + W_{m-1} x_{m-1} = Q \{ x_m \tan \tau_m - y_m + y_{m-1} - x_{m-1} \tan \tau_{m-2} \}$$[/del].
+Continuing the summation down to any point $m+1 < m$.
+$\sum_{n+1}^m W x = Q \{ x_m \tan \tau_m - y_m + y_{n+1} - x_{n+1} \tan \tau_n \}$.
+Now (7) gives by (17)
+$\sum_{n+1}^m W = Q \{ \tan \tau_m - \tan \tau_n \}$.
+Dividing the last equation but one by the last,
+
+(18) $\frac{\sum_{n+1}^m W x}{\sum_{n+1}^m W} = \frac{x_m \tan \tau_m - y_m + y_{n+1} - x_{n+1} \tan \tau_n}{\tan \tau_m - \tan \tau_n}$.
+
+The first member is the value of $x$ for the centre of gravity of the weights going from [u]$n$[/u] up to [u]$m$[/u], which we may denote by $\bar{x}_n^m$. The geometrical interpretation of the equation is that if the lines of two stretches are continued they will meet in the vertical of the centre of gravity of the included weights.
+
+Putting $n = h$,

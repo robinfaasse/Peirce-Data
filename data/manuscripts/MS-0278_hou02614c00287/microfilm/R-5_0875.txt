@@ -1,0 +1,21 @@
+To ascertain whether the equation
+(0) $d\rho/\rho = \sqrt{(dr)^2 + (dz)^2} / r$
+is satisfied when
+(1) $(\frac{r}{Z(1+E)})^2 + (\frac{z}{Z} - 1)^2 = 1$ or $(1\frac{1}{2})$ $(\frac{r}{1+E})^2 = 2Zz - z^2$
+by putting is satisfied absolutely or approximately by
+(2) $\rho = r - \frac{dr}{dz} z + \frac{\sqrt{(dr)^2 + (dz)^2}}{dz} z$
+
+To find that out, we must deduce from $(1\frac{1}{2})$ the value of $r$ in terms of $z$
+and that of $dr$ in terms of $dz$. Now we have from $(1\frac{1}{2})$
+(3) $r = (1+E) \sqrt{2Zz - z^2}$
+(4) $dr = (1+E) \frac{2Z - 2z}{2\sqrt{2Zz - z^2}} dz = (1+E) \frac{Z - z}{\sqrt{2Zz - z^2}} dz$
+$(dr)^2 = (1+E)^2 \frac{(Z-z)^2}{2Zz - z^2} (dz)^2 = (1+E)^2 (\frac{Z^2}{2Zz - z^2} - 1) (dz)^2$
+$(dr)^2 + (dz)^2 = (1+E)^2 \frac{Z^2}{2Zz - z^2} (dz)^2$ [del]$- (1+E)^2 (dz)^2 + (dz)^2$[/del]
+$\sqrt{(dr)^2 + (dz)^2} = (1+E) \frac{Z}{\sqrt{2Zz - z^2}} dz$
+whence, by (3)
+(5) $\frac{\sqrt{(dr)^2 + (dz)^2}}{r} = \pm \frac{Z}{2Zz - z^2} dz$
+so that (0) is satisfied, provided
+(6) $d\rho/\rho = \pm \frac{Z}{2Zz - z^2} dz = \pm \frac{dz}{z(2 - \frac{1}{Z}z)}$
+the integral of which is of the simplest, viz
+$\log \rho + \text{Const} = \pm \frac{1}{2} \log \frac{z}{2 - \frac{z}{Z}}$
+or $\rho = \sqrt{\frac{z}{2 - \frac{z}{Z}}} \times \text{Const}$

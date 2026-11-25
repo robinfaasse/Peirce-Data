@@ -1,0 +1,19 @@
+[u]V.[/u]
+
+We now come to a theorem which genuinely involves the first property of number. It is that if $j$ is as great as $i$, it either is $i$ or is as great as whatever is next greater than $i$; that is
+
+$$\Pi_i \Pi_j \Pi_k (\bar{g}_{ij} + I_{ij} + \bar{E}_{ik} + g_{kj}).$$
+
+Let us put
+
+$$f_j = \Pi_i \Pi_k (\bar{g}_{ij} + I_{ij} + \bar{E}_{ik} + g_{kj}).$$
+
+Now I say that $f$ is an hereditary character, that is, that
+
+$$\Pi_j \Pi_l (\bar{f}_j + \bar{E}_{jl} + f_l).$$
+
+For the denial of this is
+
+$$\Sigma_j \Sigma_l f_j E_{jl} \bar{f}_l.$$
+
+Now substitute for $f$ its definition, and we get

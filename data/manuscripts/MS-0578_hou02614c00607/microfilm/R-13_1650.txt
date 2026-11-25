@@ -1,0 +1,19 @@
+[pn]Ms 578[/pn] [u]Algebra of the Copula[/u]
+
+Of general formulae with no repetitions of letters
+and having the letters connected by $N$ copulas,
+these forms differing [del]if[/del] [ins]in[/ins] the arrangement of parentheses
+only, there are $\frac{2(2N-1)!}{(N-1)!(N+1)!}$. Such a number, say
+$\Phi N$ is divisible by [del]an[/del] [ins]odd[/ins] prime, $p$, if the remainder of
+$N$ after division by $p$ exceeds $\frac{1}{2}p$ and is [del]neither[/del] [ins]not[/ins] $p-1$.
+[del]Also, if[/del] Also, if the remainder after division by $p^{2}$
+exceeds $\frac{1}{2}p^{2}$ and is not $p^{2}-1$. Also if the remainder
+after division by $p^{3}$ exceeds $\frac{1}{2}p^{3}$ and is not $p^{3}-1$. And
+so forth. And if [del]two[/del] [ins]both[/ins] of these conditions are fulfilled
+$\Phi N$ is divisible by $p^{2}$ etc. But for 2 the rule is:
+Every number not one less than a power of two,
+or which is two less than a power of two, or
+which divided by a power of two gives a remainder
+as great as half that power and not so great as
+one less than that power is divisible by 2
+and as many ways as it satisfies this rule.

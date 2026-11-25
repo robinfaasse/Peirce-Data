@@ -1,0 +1,46 @@
+[marginalia]
+[del]$\omega_7 \pi + L$[/del]
+$\log q_1 + \log q_2 = \log q_1 q_2$
+[/marginalia]
+
+$q_1, q_2$
+
+$\log q_1 = \log Tq_1 + \angle q_1 \cdot UVq_1$
+$\log q_2 = \log Tq_2 + \angle q_2 \cdot UVq_2$
+
+$\log (q_1 q_2) = \log [del]T(q_1 q_2)[/del]$
+$+ \angle q_1 UVq_1 + \angle q_2 UVq_2$
+
+$\log Tq_1 Tq_2$
+$+ \sqrt{\angle q_1^2 + \angle q_2^2 - 2 S \cdot \angle q_1 \angle q_2 UVq_1 UVq_2}$
+$\cdot \angle q_1 UVq_1 + \angle q_2 UVq_2$
+
+$Ax \cdot q_1 q_2 = Ax \cdot q_1 + Ax \cdot q_2$
+
+$q_1 q_2 = Tq_1 Tq_2 (\cos \delta + \sin \delta$
+
+$\frac{q_2}{q_1 q_2} dq_1 +$
+
+[fig]Parallelogram[/fig]
+
+$X_q$
+
+---
+
+$UVq$
+
+$\angle q_1 (x_2 + 4 [del]y[/del] [ins]$\eta$[/ins] + z_2 k)$
+$+ \angle q_2 (x_2 + 4 [del]y[/del] [ins]$\eta$[/ins] + z_2 k)$
+$= (\angle q_1 x_1 + \angle q_2 x_2)^2$
+
+$\angle q_1^2 x_1^2 + 2 \angle q_1 \angle q_2 x_1 x_2 + \angle q_2^2 x_2^2$
+
+$\angle q_1^2 + \angle q_2^2 - 2 \angle q_1 \angle q_2 \cos \angle \frac{UVq_1}{UVq_2}$
+$SU \frac{UVq_1}{UVq_2}$
+
+[fig]Right triangle[/fig]
+
+$\int \frac{1}{q_1} dq_1 + \int \frac{1}{q_2} dq_2$
+
+$= \int \frac{1}{q_1} dq_1 + \frac{1}{q_2} dq_2$
+$= \int \frac{\frac{1}{q_1} dq_1 q_2^2 + \frac{1}{q_2} dq_2 q_1^2}{q_1 q_2}$

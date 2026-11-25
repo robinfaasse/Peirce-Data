@@ -1,0 +1,35 @@
+[pn]MM[/pn]
+
+[marginalia]
+{ provided you ultimately calculate a series of substitutes without error.
+For, after all, you are entitled to base your calculations on [del]arbitrarily[/del] [ins]arbitrarily[/ins]
+chosen numbers, [del]if you[/del]
+[/marginalia]
+
+I will now give a few examples. 1[ins]st[/ins], Required [u]√5[/u], Since this exceeds 2
+we will take [u]x[/u] for the fractional part. Then ([u]x[/u]+2)² = [u]x[/u]² + 4[u]x[/u] + 4 = 5, or
+[u]x[/u]² + 4[u]x[/u] = 1. Take 0 as the substitute for [u]x[/u]², and 1 as the substitute for [u]x[/u], Then
+we get each new substitute for 1, by [del]multi[/del] adding 4 times the substitute for [u]x[/u] to the
+substitute for [u]x[/u]²; thus:
+
+[fig]black circle[/fig] Arbitrary { 0
+1
+0 + 4 × 1 = 4
+1 + 4 × 4 = 17
+4 + 4 × 17 = 72
+17 + 4 × 72 = 305
+72 + 4 × 305 = 1292
+305 + 4 × 1292 = 5473
+1292 + 4 × 5473 = 23184
+5473 + 4 × 23184 = 98209
+etc,
+
+Successive
+Approximations
+[del]0.2360654377[/del] ————— 0.236066
+[del]0.2360681[/del] ————— 0.2360681
+[del]0.2360679700[/del] ————— 0.2360679700
+[del]0.2360679779[/del] ————— 0.2360679779
+[del]0.23606797747[/del] ————— 0.23606797747
+[del]0.2360679775001[/del] ————— 0.2360679775001
+[del]0.2360679774997[/del] ————— 0.236067977499717697

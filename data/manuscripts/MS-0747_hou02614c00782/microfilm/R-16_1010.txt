@@ -1,0 +1,41 @@
+or, by a real linear transformation, [del]any[/del] [ins]any[/ins] expression [ins]of[/ins] $A$ can be converted into a quantity whose square is negative unity, or say into a [u]versor[/u] vector. Every
+
+$j = i^2 \quad k = im$
+$m^2 = 0 \quad m^3 = 0$
+$iA = B \quad iB = i^2 A = C \quad iC = 0$
+$mA = D$
+
+$j = i^2 \quad l^2 = b i^2 = k$
+$i^3 = l^3 = 0 \quad il = 0 \quad li = l^2 - b i^2$
+$iA = B \quad iB = i^2 A = C \quad iC = 0$
+$lA = D \quad lD = l^2 A = E \quad lE = l^3 A = 0$
+$iD = ilA = 0$
+$iE = ilD = 0$
+$lB = liA = (l^2 - b i^2) A = E - bC$
+$lC = liB = (l^2 - b i^2) B =$
+$= l^2 A = 0$
+
+$S \upsilon' + S \upsilon = 0$
+
+$i = B \cdot iA + C \cdot iB$
+$l = D \cdot lA + E \cdot lD + E \cdot lB - b C \cdot lB$
+
+$i^2 = j \quad k^2 = li$
+$iA = B \quad iB = i^2 A = 0 \quad iC = 0$
+$iA = D \quad iD = lD = (A \cdot b i^2 + k i) A$
+$iD = i^2 A = 0 \quad iC + lB = lC + E$
+$lB = lA = 0$
+$lE = i^2 B = 0$
+
+$S + D$
+$S - D$
+
+$lC = liB = li^2 = 0$
+$lE = l^2 B = b l^2 C + C iD$
+
+$ak = 0$
+
+$i = B \cdot iA + C \cdot iB$
+$l = D \cdot lA + b C \cdot lD + E \cdot lB$
+$j = C \cdot iA$
+$C i^2 k = E \cdot iA$

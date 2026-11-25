@@ -1,0 +1,24 @@
+(4) The repetition of an antecedent as antecedent of
+a consequent or of an inantecedent, or the
+repetition of [ins]an[/ins] inconsequent as [del]an[/del] inconsequent
+of an inantecedent or of a consequent makes
+no difference.
+
+That is [space] $\overline{x}\vert\overline{y}\vert z = \overline{x}\vert\overline{y}\vert\overline{x}\vert z$
+[space] $\overline{x}\vert(\overline{y\vert z}) = \overline{x}\vert[(\overline{\overline{x}\vert y})\vert z]$
+
+$\overline{a} + b$ [space] $\overline{x}\vert y$
+$\overline{a} + \overline{a} + b$ [space] $\overline{x}\vert\overline{x}\vert y$
+$\overline{a} + b + b$ [space] $\overline{x}\vert\overline{y}\vert y$
+
+$a\overline{b}$
+$aa\overline{b}$ [space] $\overline{a} + b$
+[space] $\overline{a}\overline{b} + b$
+[del]$a\overline{b}$[/del]
+[space] [del]$\overline{x}\vert y = \overline{x}\vert$[/del]
+$x\vert\overline{y} = x\vert\overline{x}\vert y$
+[space] $\overline{a} + \overline{b}$ [del]$+ c$[/del]
+$\overline{a} + \overline{b} + c$ [space] $\overline{a} + b$ [space] $\overline{a} + a\overline{b}$ [space] [del]$\overline{a} + b$[/del]
+[space] $\overline{a} + ab$ [space] $\overline{x} + \overline{y} + \overline{y}z$
+[del]$abc$[/del] [space] [del]$\overline{x}\vert z$[/del]
+$(a+\overline{b})\ b\ \overline{c}$ [space] $a\vert\overline{a\vert\overline{b}}$ [space] $\overline{z}\vert y\vert x\vert y$

@@ -1,0 +1,137 @@
+If there are but two classes in each collection & 3 collections
+A distribution may contain sets $AA'A''$ from zero up to $a$
+for $a'' \le m - a \le a'$
+
+If it contains $a$ such sets of it may have any number
+of sets $BA'A''$ from zero up to $a'-a$
+$\begin{matrix}
+\text{Min.} & \text{Max.} & \text{Min} & \text{Max} \\
+a & a & & \\
+0 & a'-a & & \\
+0 & a''-a & &
+\end{matrix}$
+
+$\begin{matrix}
+AA'A'' \\
+AA'B'' \\
+AB'A'' \\
+AB'B'' \\
+BA'A'' \\
+BA'B'' \\
+BB'A'' \\
+BB'B''
+\end{matrix}$
+
+It will be better to assume that the number of classes
+in all the collections is the same and is at least equal
+to the number of collections. If there are less, let their
+numbers be zero.
+
+If there are 2 collections each of 3 classes, let
+$a \le b \le c$
+$a' \le b' \le c'$
+$a \le a'$ [del]($a=a'$ $b \le b'$)[/del]
+
+There are $2^3$ descriptions of sets
+$\begin{matrix}
+AA' & BA' & CA' \\
+AB' & BB' & CB' \\
+AC' & BC' & CC'
+\end{matrix}$
+
+[del]These are[/del]
+These $2^3$ [del]variables and 5 equations[/del]
+$a' \le \frac{1}{2}m$
+
+$\begin{matrix}
+[AA'] + [AB'] + [AC'] = a \\
+[BA'] + [BB'] + [BC'] = b \\
+[CA'] + [CB'] + [CC'] = c \\
+[AA'] + [BA'] + [CA'] = a' \\
+[AB'] + [BB'] + [CB'] = b' \\
+[AC'] + [BC'] + [CC'] = c'
+\end{matrix}$
+
+$\begin{matrix}
+a+b+c = m \\
+a'+b'+c' = m \\
+\\
+a'+b'+c' = m \\
++ a' + (b'-b) \\
++ a' + (c'-c) \\
+m - 3a' + 3(b'-b) \\
++ (c'-c)
+\end{matrix}$
+
+$\begin{matrix}
+x+y = p \\
+y+z = q
+\end{matrix}$
+
+---
+
+$\begin{matrix}
+AA'A'' & AB'A'' & AB'A'' \\
+BA'A'' & BB'A'' & BC'A'' \\
+CA'A'' & CB'A'' & CC'A''
+\end{matrix}$
+
+$\begin{matrix}
+a & b & c \\
+d & e & f \\
+g & h & i
+\end{matrix}$
+
+$\begin{matrix}
+j & k & l \\
+m & n & o \\
+p & q & r
+\end{matrix}$
+
+$\begin{matrix}
+s & t & u \\
+v & w & x \\
+y & z & \text{\&}
+\end{matrix}$
+
+$\sum \text{all} = m$
+
+$\begin{matrix}
+a_1 + b_1 + c_1 = \mu \\
+a_2 + b_2 + c_2 = \mu \\
+a_3 + b_3 + c_3 = \mu
+\end{matrix}$
+
+$\begin{matrix}
+A_1 A_2 A_3 + A_1 A_2 B_3 + A_1 A_2 C_3 = a_1 \\
++ A_1 B_2 A_3 + A_1 B_2 B_3 + A_1 B_2 C_3 \\
++ A_1 C_2 A_3 + A_1 C_2 B_3 + A_1 C_2 C_3 = a_1
+\end{matrix}$
+
+[pn]3/[/pn]
+
+$\begin{matrix}
+& & & \text{8 equations} \\
+k+m+n+q = b_2 \\
+k & + n & + q & + e + w = b_1 \\
+& m+n+o & & + e + w = b_3
+\end{matrix}$
+
+$\begin{matrix}
+x & y & z \\
+& & \\
+x+y+u+v = a+b \\
+x+y = a \\
+x+u = d
+\end{matrix}$
+
+$\begin{matrix}
+0 & a & a-1 & a-2 \\
+d & m-a-d & a-1 & m-a-a'+1 & a-2 & m-a-a'+2
+\end{matrix}$
+
+$\begin{matrix}
+A_1 B_2 = a_1 - A_1 A_2 \\
+B_1 A_2 = a_2 - A_1 A_2 \\
+B_1 B_2 = m - a_1 - a_2 + A_1 A_2
+\end{matrix}$

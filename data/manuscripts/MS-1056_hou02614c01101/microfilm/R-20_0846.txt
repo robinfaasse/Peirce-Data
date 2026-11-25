@@ -1,0 +1,49 @@
+```
+[del]𝜓[/del]𝜑[sub]m+n[/sub] = 𝜑[sub]mn[/sub] + 𝜑[sub]mn-1[/sub] + 𝜑[sub]m-1 n[/sub]
+= 𝜑[sub]m+1[/sub] 𝜑[sub]n+1[/sub] - 𝜑[sub]m-1[/sub] 𝜑[sub]n-1[/sub]
+
+𝜑[sub]m+n+1[/sub] = 𝜑[sub]m+1[/sub] 𝜑[sub]n+1[/sub] + 𝜑[sub]m[/sub] 𝜑[sub]n[/sub]
+
+[del]𝜑[sub]m+n-1[/sub] = 𝜑[sub]m[/sub] 𝜑[sub]n[/sub] + 𝜑[sub]m-1[/sub] 𝜑[sub]n-1[/sub][/del]
+[del]𝜑[sub]m+n+2[/sub] = 𝜑[sub]1[/sub] 𝜑[sub]m+1[/sub] 𝜑[sub]n+1[/sub] - 𝜑[sub]-1[/sub] 𝜑[sub]m-1[/sub] 𝜑[sub]n-1[/sub] + 𝜑[sub]0[/sub] 𝜑[sub]m[/sub] 𝜑[sub]n[/sub][/del]
+
+𝜑[sub]m+n+p[/sub] = 𝜑[sub]p+1[/sub] 𝜑[sub]m+1[/sub] 𝜑[sub]n+1[/sub] - 𝜑[sub]p-1[/sub] 𝜑[sub]m-1[/sub] 𝜑[sub]n-1[/sub] + 𝜑[sub]p[/sub] 𝜑[sub]m[/sub] 𝜑[sub]n[/sub]
+
+𝜑[sub]m+n+p+2[/sub] = 𝜑[sub]p+1, m+1, n+1[/sub] + 𝜑[sub]p, m+1, n+1[/sub] + 𝜑[sub]p, m, n[/sub] [del]+ 𝜑[sub]p-1, m-1, n-1[/sub][/del]
+𝜑[sub]p+1, m, n+1[/sub] + 𝜑[sub]p, m, n+1[/sub]
+
+𝜑[sub]m+1, n+1, p+1[/sub]
+
+[del]𝜑[sub]m+n+p[/sub] =[/del] m, n, p + m, n, p-1 + m, n-1, p + m-1, n, p + m, n-1, p-1 + m-1, n, p-1 + m-1, n-1, p
++ m-1, n-1, p-1
+
+𝜑[sub]m+n+q+r[/sub] = 𝜑[sub]m+1, n+1, q+1, r+1[/sub] + [del]𝜑[sub]m, n+1, q, r[/sub] + 𝜑[sub]m, n, q+1, r+1[/sub][/del]
+[del]- 𝜑[sub]m-1, n-1, q-1, r-1[/sub][/del] - (m-1)(n-1)(q-1)(r-1)
+
+[del]+ 𝜑[sub]m, n, q, r[/sub] + 𝜑[sub]m, n, q, r[/sub] + 𝜑[sub]m, n, q, r[/sub] + 𝜑[sub]m, n, q, r[/sub] + 𝜑[sub]m, n, q, r[/sub][/del]
+
+[del]𝜑[sub]m, n, q, r[/sub][/del] m(n+1)(q+1)r
+- m(n-1)(q-1)r
+(m+1) n q (r+1)
+- (m-1) n q (r-1)
+
+[del]𝜑[/del] xy + x(y-1) + (x-1)y + (x-1)(y-1)
+
+(x+1)(y+1) - xy - (x-1)(y-1)
+
+[del]m n (q+1) r[/del]
+m(n-1)(q+1)r
+m n q r
+m n (q-1) r
+[del]m n q (r+1)[/del]
+(m-1) n q (r+1)
+m n q r
+m n q (r-1)
+
+[del]m(n+1) q r[/del] (m-1) n q r m n q (r-1) [del]m(n-1) q r[/del]
+
+[del](m+1)(n+1) q r[/del]
+(m-2)(n-1) q r
+(m-1)(n-1)(q-1)r
+(m-1)(n-1)(q-2)r
+```

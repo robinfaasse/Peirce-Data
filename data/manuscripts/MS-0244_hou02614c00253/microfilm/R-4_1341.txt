@@ -1,0 +1,27 @@
+Probability of gaining [del]x[/del] [ins]x[/ins] = [del]P[/del] [ins]u[/ins]<sub>x</sub>
+
+[del]when[/del]
+[del]x = p + q[/del]
+
+u<sub>x</sub> = p u<sub>x-1</sub> + (1-p) u<sub>x+1</sub>
+
+E<sup>2</sup> - [frac]1/1-p[/frac] E + [frac]p/1-p[/frac]
+
++ [frac]1/4(1-p)<sup>2</sup>[/frac] - [frac]p/1-p[/frac]
+= [frac]1/4(1-p)<sup>2</sup>[/frac] - [frac]4p-4p<sup>2</sup>/4(1-p)<sup>2</sup>[/frac]
+= {[frac]1-2p/2(1-p)[/frac]}<sup>2</sup>
+
+E = [frac]1/2(1-p)[/frac] ± [frac]1-2p/2(1-p)[/frac]
+= { [frac]1/1-p[/frac]
+    [frac]p/1-p[/frac]
+
+u<sub>0</sub> = 1
+[del]u<sub>1</sub> =[/del]
+u<sub>1</sub> = p +
+
+u<sub>1</sub> = p u<sub>2</sub> + (1-p)
+
+C<sub>2</sub>(p-p<sup>2</sup>)
+C<sub>2</sub>
+
+C<sub>1</sub> + C<sub>2</sub> = 1  [del]C<sub>1</sub>[/del] + C<sub>2</sub> [frac]p/1-p[/frac] = p + [del]C<sub>2</sub> [frac]p/1-p[/frac][/del]

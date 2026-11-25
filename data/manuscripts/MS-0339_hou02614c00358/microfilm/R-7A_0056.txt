@@ -1,0 +1,60 @@
+[pn]1868 Nov. 8.[/pn]
+
+If $A_1, A_2, A_3 \dots, B_1, B_2, B_3$ etc are individuals
+
+[del]If $A_1 = A_1 C_{B_1}$ then $B_1 = B_1 C_{A_1}^{-1}$[/del]
+
+If $A_1 = A_1 C_{B_1}$ then $B_1 = B_1 C_{A_1}^{-1}$
+and conversely
+
+[fig]Diagram with intersecting dashed lines connecting A and B[/fig]
+
+and so
+if $\Sigma_i A_i = \Sigma_i (A_i C_{B_i})$ then $\Sigma_i B_i = \Sigma_i (B_i C_{A_i}^{-1})$
+and conversely
+
+or if $\Sigma'$ denotes the logical sum
+if $\Sigma'_i A_i = \Sigma'_i A_i \Sigma'_i C_{B_i}$ then $\Sigma'_i B_i = \Sigma'_i B_i \Sigma'_i C_{A_i}^{-1}$
+
+Now $C$ may be so taken that
+$C_{x y} = C_x C_y$
+or so that
+$C_{x y} = C_x \cdot C_y$
+
+In the former case $\Sigma'_i C_{B_i} = C_{\Sigma'_i B_i}$
+
+[page break]
+
+[pn]44R[/pn]
+
+and if we denote
+$\Sigma_i A_i$ by $a$
+$\Sigma_i B_i$ by $b$
+
+If $a = a C_b$ then and then only is $b = b C_a^{-1}$
+[marginalia]Here is a fallacy
+$\Sigma_i B_i$ is ambiguous it may mean all the $B_i$'s or to all the $B_i$'s corresponding to the $A_i$'s[/marginalia]
+
+Then $C_i = C_{\Sigma' x_i} = \Sigma' C_{x_i}$
+
+$C_0 + C_x = C_{x \cdot 0} = C_x$
+
+$C_1$ is [del]embraces[/del] whatever is $C$ to anything
+$C_0$ is embraced by whatever is $C$ to anything
+
+But let $C_x$ be written thus,
+$C_x = x \cdot i + (1-x) \cdot j$
+
+this becomes $C_1 = i$
+it becomes $C_0 = j$
+
+Hence it appears that $i$ and $j$ change with $x$
+
+Let $i = \phi x$
+$j = \psi x$
+
+Then $\phi x \cdot x + (1-x) \cdot j$
+$\phi(1) = i = C_1$
+$\phi x = C_1 \cdot x + (1-x) \cdot j'$
+
+I break off this inquiry here as to these points

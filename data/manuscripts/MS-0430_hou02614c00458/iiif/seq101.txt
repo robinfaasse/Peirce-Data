@@ -1,0 +1,24 @@
+Logic
+[ured]III[/ured] (56)
+53
+
+me in 1880*. I found this:
+If [del]t -< a, then[/del] [del]and t -< b[/del] then, if t [del]-<[/del] [ins]x[/ins] b,
+[del]then[/del] t [del]-<[/del] [ins]x[/ins] a [u]c[/u] b,
+whatever terms t, a, and b may be; and conversely,
+(57) if t [del]-<[/del] [ins]x[/ins] a [u]c[/u] b,
+then t [del]-<[/del] [ins]x[/ins] a [del]and t -< b[/del];
+(58) and if t [del]-<[/del] [ins]x[/ins] a [u]c[/u] b,
+t [del]-<[/del] [ins]x[/ins] b.
+
+Now in order to show that, accepting these definitions, x [del]= z x[/del] [ins]= x [u]c[/u] y[/ins]
+is equivalent to x -< y, it [del]suffice[/del] [ins]will[/ins] [ins]suffice[/ins] to show that assuming
+either to be true, the other is necessarily true. I will first show
+that if x = x [u]c[/u] y is true x -< y is true. By the definition
+of [u]c[/u], if x = x [u]c[/u] y then x -< x [u]c[/u] y; and by the defi-
+nition of [ins](last clause)[/ins] [u]c[/u], if x -< x [u]c[/u] y then x -< y. It only remains to
+
+___________________________________________________________________________________
+* The sufficiency of the definition was long in question. Schröder
+in [del]the[/del] first volume of his Algebra [del]der Logik[/del] denies it. It is, however,
+faultless, as will appear below.

@@ -1,0 +1,6 @@
+[fig]drawing[/fig]
+$$D(\sqrt{u^2-u+1} \space i' + m' + u \space n' ) ( C \sqrt{w^2-w+1} \space i' + m' + w \space n' ) D(\sqrt{u^2-u+1} \space i' + m' + u \space n' )$$
+$$\frac{D(\sqrt{u^2-u+1} \space i' + m' + u \space n' ) }{ \begin{pmatrix} \sqrt{u} \sqrt{w} \space i' - \sqrt{w} \space m' - u \sqrt{w} \space n' \\ -1 \qquad \space + \sqrt{u} \space m' \space + w \sqrt{u} \qquad - u j' - w k' \\ -u w \end{pmatrix} }$$
+$$= \frac{\begin{pmatrix} (u^2-u-\sqrt{u} \sqrt{w} \space i' + \sqrt{w} \space m' - u \sqrt{w} \space n' - w \sqrt{u} \space k' + u \sqrt{u} \sqrt{w} \space n' \\ \sqrt{u} \qquad - (u^2-u+1) \qquad \qquad \qquad - w (u^2-u+1) \\ - u w \sqrt{u} \end{pmatrix}}{\text{ }}$$
+$$= (u^2-u+1) \sqrt{w} \space i' - u \sqrt{u} \space j' - w \sqrt{u} \space k' + \sqrt{u} \space m' + u \sqrt{u} \space n'$$
+$$\begin{matrix} - \sqrt{u} & + u \sqrt{w} & - (u^2-u+1) & - w (u^2-u+1) \\ - u w \sqrt{u} & - w \sqrt{u} & \sqrt{u} & -u & - w \ell' \\ [del] + \sqrt{u} [/del] & & -1 & + u \sqrt{u} \\ [del] - \sqrt{u} [/del] & & - u w & [del] + u [/del] & - u^2 \ell' \\ + \sqrt{w} & + u \sqrt{w} & - u w & - u^2 w \\ - \sqrt{u} & - u \sqrt{u} \\ + u^2 \sqrt{w} \\ - u w \sqrt{u} \end{matrix}$$

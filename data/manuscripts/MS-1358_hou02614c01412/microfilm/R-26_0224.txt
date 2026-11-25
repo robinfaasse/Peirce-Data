@@ -1,0 +1,49 @@
+[marginalia]Mondays Bridge 1899 March 2[/marginalia] [pn]4[/pn]
+
+$z = \mathfrak{G}^{\mathfrak{G}^x}$
+$D_x z = \varphi'x \ \mathfrak{G}^{\varphi x} \ \mathfrak{G}^{\mathfrak{G}^{\varphi x}}$
+$D_x^2 z = \varphi''x \ \mathfrak{G}^{\varphi x} \mathfrak{G}^{\mathfrak{G}^{\varphi x}} + (\varphi'x)^2 \mathfrak{G}^{\varphi x} \mathfrak{G}^{\mathfrak{G}^{\varphi x}} + (\varphi'x)^2 \mathfrak{G}^{2\varphi x} \mathfrak{G}^{\mathfrak{G}^{\varphi x}}$
+
+$\frac{D_x^2 z}{z} = \varphi''x \ \mathfrak{G}^{\varphi x} + (\varphi'x)^2 \mathfrak{G}^{\varphi x} + (\varphi'x)^2 \mathfrak{G}^{2\varphi x}$
+
+$\omega'' + (\omega')^2 = a + cx^2$
+$\omega''' + 2\omega' \cdot \omega'' = 2cx$
+$\omega^{IV} + 2\omega''^2 + 2\omega' \cdot \omega''' = 2c$
+$\omega^V + 6\omega'' \cdot \omega''' + 2\omega' \cdot \omega^{IV} = 0$
+$\omega^V + 2\omega' \cdot \omega^{IV} + 6\omega'' \cdot \omega''' = 0$
+
+$(\frac{1}{2} D_\omega + 1) (D_\omega \omega)^2 = a + cx^2$
+$(D_\omega + 2) (D_x \omega)^2 = 2a + 2cx^2$
+
+$\frac{1}{1 + \frac{1}{2} D_\omega} = 1 - \frac{1}{2} D_\omega + \frac{1}{4} D_\omega^2 - \frac{1}{8} D_\omega^3$
+$a + cx^2 - cx D_\omega x + \frac{1}{2} c (D_\omega x)^2 + \frac{1}{2} c x (D_\omega^2 x)$
+
+$\omega = ax^N$
+$\omega' = Nax^{N-1}$
+$\omega'' = N(N-1)ax^{N-2}$
+$\omega''' = N(N-1)(N-2)ax^{N-3}$
+$\omega^{IV} = N(N-1)(N-2)(N-3)ax^{N-4}$
+$\omega^V = N(N-1)(N-2)(N-3)(N-5)ax^{N-5}$
+
+[fig]crossed out scribble[/fig]
+$\omega' = \mathfrak{G}^{-x}$
+$\omega'' = -\mathfrak{G}^{-x}$
+$\omega'^2 = \mathfrak{G}^{-2x}$
+$\omega'' = -6$
+
+$\omega = ax^4 + bx^3 + cx^2 + dx + e$
+$\omega' = 4ax^3 + 3bx^2 + 2cx + d$
+$\omega'' = 12ax^2 + 6bx + 2c$
+$\omega''' = 24ax + 6b$
+$\omega^{IV} = 24a$
+$\omega^V = 0$
+
+[del]$\omega = \frac{c}{2} x^2 + dx + e$[/del]
+[del]$\omega'' = 2c$[/del] [del]$\omega'^2 = 4c^2$[/del]
+$\omega' = \sqrt{c} \cdot x + [del]d[/del]$
+$\omega'' = \sqrt{c}$
+$\omega' \omega'' = cx$
+
+$48 \omega' \omega'' = 192 a^2 x^3 + 144 abx^2 + [del]96[/del] [ins]48[/ins] cx + 48 ad$
+$96 \omega' \omega'' = 288 a^2 x^3 + 144 abx^2 + 48 acx$
+$\begin{array}{r} 144 \\ 192 \\ 240 \end{array}$  $384$  $+ 72 abx^2 + 36 b^2 x + 12 bc$

@@ -1,0 +1,13 @@
+force in the cable is brought up to H, the additional [del]force[/del] [ins]work[/ins]
+downward, which is negative, is
+[u][ins]$\int_{-x_c}^{x_c}$[/ins] $\{ -2 \frac{y_0-y_c}{x_c^2} H + \frac{1}{2} K [\sqrt{1 + 4(\frac{y_0-y_c}{x_c})^2} + \frac{1}{2} \frac{x_c}{y_0-y_c} \log(\sqrt{1+4(\frac{y_0-y_c}{x_c})^2} + \frac{2(y_0-y_c)}{x_c})] + \frac{2}{3} K \frac{y_0-y_c}{x_c} \}$[/u]
+
+[u]Part 4th[/u] To find the reactions of the piers Bertot's (commonly called
+Clapeyron's) Theorem of [del]Three[/del] [ins]Three[/ins] Moments is not strictly applicable, be-
+cause there is a small part of the force which is not uniformly distri-
+buted, besides a large part which occupies only a portion of a span.
+We proceed then as follows. Considering the equilibrium of the
+portion of the truss extending from the pier at $x_A$ nearly to
+that at $x_{-A}$, we have the equation
+
+$EI \frac{d^2y}{dx^2} - M_A + (\text{Shearing force close side } A)(x_A-x) - \int_{x_A}^x (\text{[del]Downward force[/del]})(x_A-x) dx = 0$

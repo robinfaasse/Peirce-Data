@@ -1,0 +1,22 @@
+of $x$ and $y$ for $s = S$, by which to determine the two
+unknown constants $Q$ and $w_H$. That is, we have to
+determine the constants of the equation
+$$Fs = Q \tan \tau + w_H$$
+by means of the equations
+$$\int_0^S \cos \tau \cdot ds = x_{N+1} \qquad \int_0^S \sin \tau \cdot ds = y_{N+1},$$
+which may be written
+$$\int_0^S \frac{ds}{\sqrt{1 + \frac{(Fs - w_H)^2}{Q^2}}} = x_{N+1} \qquad \frac{1}{Q} \int_0^S \frac{(Fs - w_H) ds}{\sqrt{1 + \frac{(Fs - w_H)^2}{Q^2}}} = y_{N+1}.$$
+
+The first approximations can be obtained from a table for the
+common catenary. These will best be corrected by the double
+rule of false, which is less laborious in this case than calculating
+the coefficients of linear equations of correction. It will be
+found that an increase of $Q$ much increases $x_{N+1}$ while
+merely bringing $y_{N+1}$ a little nearer zero, if it is not already
+zero, while an increase of $w_H$ much diminishes $y_{N+1}$ while
+slightly diminishing $x_{N+1}$.
+
+The main problem of the bridge designer is different from this
+fundamental one, and is easier, in so far as $Q$ is given. But
+this problem has also to be solved in the consideration of live
+loads. We shall consider the main bridge problems below.

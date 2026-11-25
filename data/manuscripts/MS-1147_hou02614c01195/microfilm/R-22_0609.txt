@@ -1,0 +1,29 @@
+[pn]1[/pn]
+
+$$a\dot{i} = \Sigma_1 \Sigma_2 a_{12} \cdot \dot{i}_{23}$$
+$$\frac{a_{12} \cdot \dot{i}_{12}}{\Sigma_1 a_{ii}}$$
+
+$$a\cdot\dot{i} = \Sigma_1 \Sigma_2 a_{12} \cdot \dot{i}_{12}$$
+$$= \frac{a_{12} \dot{i}_{21}}{\Sigma_2 a_{ii}}$$
+
+$$a\dot{i} = a\cdot\dot{i}$$
+
+$$a\overline{\iota} = \Sigma_1 \Sigma_3 a_{12} \cdot \overline{\iota}_{23}$$
+$$\Sigma_1 \Sigma_2 a_{12} \cdot \overline{\iota}_{12}$$
+
+$$a\cdot\dot{\iota} = \Sigma_1 \Sigma_2 a_{12} \cdot \overline{\iota}_{12}$$
+$$\frac{a_{12} \cdot \overline{\iota}_{21}}{a\overline{\iota} = a\cdot\overline{\iota}}$$
+
+$$a\dot{j}\dot{i} = \Sigma_1 \Sigma_3 \Pi_2 a_{12} + \dot{i}_{23}$$
+$$= \Sigma_1 \Pi_2 a_{12} + \dot{i}_{12}$$
+
+$$a\dot{j}\dot{i} = \Sigma_1 \Sigma_2 a_{12} + \dot{i}_{12}$$
+$$= \infty$$
+
+$$a\dot{j}\overline{\iota} = \Sigma_1 \Sigma_3 \Pi_2 a_{12} + \overline{\iota}_{23}$$
+$$\frac{a_{12} + \overline{\iota}_{12}}{a\dot{j}\overline{\iota} = a\dot{i} \quad \Sigma_1 \quad a_{ii}}$$
+
+$$a + \overline{\iota} = \Sigma_1 \Sigma_2 a_{12} + \overline{\iota}_{12}$$
+$$\frac{a_{12} + \overline{\iota}_{21}}{a + \overline{\iota} = a\dot{i} \quad = \Sigma_2 a_{ii}}$$
+
+$$a\dot{i} = 0$$

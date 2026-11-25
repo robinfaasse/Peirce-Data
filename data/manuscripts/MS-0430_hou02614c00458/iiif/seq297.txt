@@ -1,0 +1,24 @@
+Logic
+[u]III[/u]
+75
+
+(71)
+
+And, generally, if [u]x[/u] is [u]s[/u][ins][u]n[/u][/ins] and is [u]s[/u][ins][u]n[/u][/ins] [fig]figure[/fig] [u]s[/u][ins][u]n+1[/ins], [u]x[/u] is [u]s[/u][ins][u]n+1[/u][/ins].
+So that if [u]x[/u] is [u]s[/u][ins]0[/ins] and is [u]s[/u][ins]0[/ins] [fig]figure[/fig] [u]s[/u][ins]1[/ins] and is [u]s[/u][ins]1[/ins] [fig]figure[/fig] [u]s[/u][ins]2[/ins] [del]etc.[/del] and so
+on indefinitely, then [u]x[/u] is [u]s[/u][ins]1[/ins] and is [u]s[/u][ins]2[/ins] and is [u]s[/u][ins]3[/ins] and so on
+indefinitely.
+If [u]x[/u] is [u]s[/u][ins]0[/ins] and is [u]s[/u][ins]1[/ins] and is [u]s[/u][ins]2[/ins] and so on up to [u]s[/u][ins]n[/ins] and is
+further [u]s[/u][ins]0[/ins] [fig]figure[/fig] [u]s[/u][ins]1[/ins] [fig]figure[/fig] [u]s[/u][ins]2[/ins] [fig]figure[/fig] . . . [fig]figure[/fig] [u]s[/u][ins]n[/ins] [del][fig]figure[/fig] [u]u[/u][ins]n[/ins][/del] [ins][u]u[/u][ins]n[/ins][/ins], then [u]x[/u] is [del][fig]figure[/fig] [u]s[/u][ins]n[/ins][/del] [u]u[/u][ins]n[/ins]
+For, by (66), if [u]x[/u] is [u]s[/u][ins]0[/ins] and [u]s[/u][ins]0[/ins] [fig]figure[/fig] [u]s[/u][ins]1[/ins] [del][fig]figure[/fig] [u]u[/u][ins]1[/ins][/del], then [u]x[/u] is [u]s[/u][ins]1[/ins] [del][fig]figure[/fig] [u]u[/u][ins]1[/ins][/del],
+whence, [del]by[/del] again by (66), if [u]x[/u] is also [u]s[/u][ins]1[/ins] then [u]x[/u] is [del][u]u[/u][ins]1[/ins][/del] [u]u[/u][ins]2[/ins]; so that
+if [u]x[/u] is [u]s[/u][ins]0[/ins] and [u]s[/u][ins]1[/ins] and [u]s[/u][ins]0[/ins] [fig]figure[/fig] [u]s[/u][ins]1[/ins] [fig]figure[/fig] [u]u[/ins]2[/ins], then [u]x[/u] [fig]figure[/fig] [u]u[/u][ins]2[/ins]. [del]For s[/del] Now
+[u]u[/u][ins]1[/ins] may be any character. Let it, then, be [u]s[/u][ins]2[/ins] [fig]figure[/fig] [u]u[/u][ins]2[/ins]. Then, if [u]x[/u]
+is [u]s[/u][ins]0[/ins] and [u]s[/ins]1[/ins] [del]it[/del] [ins]and[/ins] is [u]s[/u][ins]0[/ins] [fig]figure[/fig] [u]s[/u][ins]1[/ins] [fig]figure[/fig] [u]s[/u][ins]2[/ins] [fig]figure[/fig] [u]u[/u][ins]2[/ins] it is [u]s[/u][ins]2[/ins] [fig]figure[/fig] [u]u[/u][ins]2[/ins]; and if it is
+also [u]s[/u][ins]2[/ins], again by (66), it is [u]u[/u][ins]2[/ins]. So that if [u]x[/u] is [u]s[/u][ins]0[/ins] and [u]s[/u][ins]1[/ins] and [u]s[/u][ins]2[/ins]
+and is [u]s[/u][ins]0[/ins] [fig]figure[/fig] [u]s[/u][ins]1[/ins] [fig]figure[/fig] [u]s[/u][ins]2[/ins] [fig]figure[/fig] [u]u[/u][ins]2[/ins], then [u]x[/u] is [u]u[/u][ins]2[/ins].
+And generally, if it [del]be[/del] [ins]were[/ins] true that if [u]x[/u] is [u]s[/u][ins]0[/ins], [u]s[/u][ins]1[/ins], [u]s[/u][ins]2[/ins], etc up to [u]s[/u][ins]m[/ins]
+inclusive and is [u]s[/u][ins]0[/ins] [fig]figure[/fig] [u]s[/u][ins]1[/ins] [fig]figure[/fig] [u]s[/u][ins]2[/ins] [fig]figure[/fig] . . . [fig]figure[/fig] [u]s[/u][ins]m[/ins] [fig]figure[/fig] [u]u[/u][ins]m[/ins] it would be [u]u[/u][ins]m[/ins],
+then it would also be true that if [del][u]x[/u] is[/del] were [u]x[/u] at once [u]s[/u][ins]0[/ins], [u]s[/u][ins]1[/ins], [u]s[/u][ins]2[/ins] . .
+[u]s[/u][ins]m+1[/ins] and were also [u]s[/u][ins]0[/ins] [fig]figure[/fig] [u]s[/u][ins]1[/ins] [fig]figure[/fig] [u]s[/u][ins]2[/ins] [fig]figure[/fig] . . [u]s[/u][ins]m[/ins] [fig]figure[/fig] [u]s[/u][ins]m+1[/ins] [fig]figure[/fig] [u]u[/u][ins]m+1[/ins], then
+[u]x[/u] would be [u]u[/u][ins]m+1[/ins]. Since, therefore, any number [del]n[/del] can be

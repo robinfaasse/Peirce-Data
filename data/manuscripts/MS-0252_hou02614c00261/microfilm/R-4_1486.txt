@@ -1,0 +1,29 @@
+[fig]3x3 grid with numbers and X[/fig]
+
+Case 11. The second player occupies a corner square
+There are now 4 essentially different situations which
+the first player can occupy which are numbered in
+the figure. We distinguish them as cases, 111, 112, 113, 114.
+
+Case 111. The first player occupies a compartment [del]next to[/del] [ins]adjacent[/ins]
+adjoining that of the second player. Then, to prevent an im-
+mediate tit-tat-too, the second player must occupy the op-
+posite side compartment. [fig]3x3 grid with X, O, and numbers[/fig] There are now five squares
+[ins]either of[/ins] which the first player can occupy, as numbered in
+the figure. They make cases 1111, 1112, 1113, 1114, 1115.
+
+Case 1111. The first player occupies the [ins]other[/ins] side
+square [del]next to[/del] [ins]adjoining[/ins] the second player's corner square. Then the second
+player, to prevent instant tit-tat-too must occupy the opposite
+compartment. Now the first player may either oc-
+cupy one of the corner [fig]3x3 grid with X, O, and numbers[/fig] squares adjoining a side
+square occupied by him (Case 11111) or the corner
+square opposite the second player's corner square (Case 11112.)
+
+Case 11111. The second player is obliged to occupy the opposite
+corner square and the first player to occupy the last, and there
+is no tit-tat-too. [fig]3x3 grid with X and O[/fig]
+
+Case 11112. The second player occupies any square, and
+there is no possibility of tit-tat-too. Thus there is no tit-tat-too
+in Case 1111.

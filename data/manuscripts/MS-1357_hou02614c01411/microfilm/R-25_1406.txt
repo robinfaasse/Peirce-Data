@@ -1,0 +1,26 @@
+[pn]28[/pn]
+
+Report on Line Loads
+
+we get
+
+(24) [del]$\delta x_{1}-\delta x_{0}$[/del] [ins]$\delta x_{1}-\delta x_{0}$[/ins] $= \frac{-(\beta_{0}+\lambda_{0})\heartsuit_{1} + (\varepsilon_{0}+\kappa_{0})\heartsuit_{2} + (\varepsilon_{0}\kappa_{0}-\alpha_{0}\lambda_{0}-\frac{1}{\Lambda_{0}\Gamma_{0}})\delta x_{1} + (\beta_{0}\kappa_{0}-\varepsilon_{0}\lambda_{0})\delta y_{1}}{2\varepsilon_{0}\kappa_{0}-\alpha_{0}\lambda_{0}-\beta_{0}\mu_{0}-\frac{1}{\Lambda_{0}\Gamma_{0}}-[S_{0}]}$
+
+(25) $\delta y_{1}-\delta y_{0} = \frac{(\varepsilon_{0}+\kappa_{0})\heartsuit_{1} - (\alpha_{0}+\mu_{0})\heartsuit_{4} + (\alpha_{0}\kappa_{0}-\varepsilon_{0}\mu_{0})\delta x_{1} + (\varepsilon_{0}\kappa_{0}-\beta_{0}\mu_{0}-\frac{1}{\Lambda_{0}\Gamma_{0}})\delta y_{1}}{2\varepsilon_{0}\kappa_{0}-\alpha_{0}\lambda_{0}-\beta_{0}\mu_{0}-\frac{1}{\Lambda_{0}\Gamma_{0}}-[S_{0}]}$
+
+whence, by symmetry,
+
+(26) $\delta x_{2}-\delta x_{1} = \frac{-(\beta_{2}+\lambda_{i})\heartsuit_{3} + (\varepsilon_{2}-\kappa_{i})\heartsuit_{6} - (\varepsilon_{2}\kappa_{i}+\alpha_{2}\lambda_{i}+\frac{1}{\Lambda_{2}\Gamma_{2}})\delta x_{1} - (\beta_{2}\kappa_{i}+\varepsilon_{2}\lambda_{i})\delta y_{1}}{2\varepsilon_{2}\kappa_{i}+\alpha_{2}\lambda_{i}+\beta_{2}\mu_{i}+\frac{1}{\Lambda_{2}\Gamma_{2}}+[S_{i}]}$
+
+(27) $\delta y_{1}-\delta y_{2} = \frac{-(\varepsilon_{2}-\kappa_{i})\heartsuit_{3} + (\alpha_{2}+\mu_{i})\heartsuit_{6} + (\alpha_{2}\kappa_{i}+\varepsilon_{2}\mu_{i})\delta x_{1} + (\varepsilon_{2}\kappa_{i}+\beta_{2}\mu_{i}+\frac{1}{\Lambda_{2}\Gamma_{2}})\delta y_{1}}{2\varepsilon_{2}\kappa_{i}+\alpha_{2}\lambda_{i}+\beta_{2}\mu_{i}+\frac{1}{\Lambda_{2}\Gamma_{2}}+[S_{i}]}$
+
+Substituting these values in (20) and (21) we get two equations
+in $\delta x_{1}$ and $\delta y_{1}$. [del]But[/del] Namely,
+
+(28) $\heartsuit_{2} + \frac{(\varepsilon_{0}\kappa_{0}-\beta_{0}\mu_{0}-[S_{0}])\heartsuit_{1} + (\varepsilon_{0}\mu_{0}-\alpha_{0}\kappa_{0})\heartsuit_{4}}{2\varepsilon_{0}\kappa_{0}-\alpha_{0}\lambda_{0}-\beta_{0}\mu_{0}-\frac{1}{\Lambda_{0}\Gamma_{0}}-[S_{0}]} + \frac{(\varepsilon_{2}\kappa_{i}+\beta_{2}\mu_{i}+[S_{i}])\heartsuit_{3} - (\varepsilon_{2}\mu_{i}+\alpha_{2}\kappa_{i})\heartsuit_{6}}{2\varepsilon_{2}\kappa_{i}+\alpha_{2}\lambda_{i}+\beta_{2}\mu_{i}+\frac{1}{\Lambda_{2}\Gamma_{2}}+[S_{i}]}$
+$+ \left\{ \frac{-\frac{\mu_{0}}{\Lambda_{0}\Gamma_{0}}-\alpha_{0}[S_{0}]}{2\varepsilon_{0}\kappa_{0}-\alpha_{0}\lambda_{0}-\beta_{0}\mu_{0}-\frac{1}{\Lambda_{0}\Gamma_{0}}-[S_{0}]} + \frac{\frac{\mu_{i}}{\Lambda_{2}\Gamma_{2}}+\alpha_{2}[S_{i}]}{2\varepsilon_{2}\kappa_{i}+\alpha_{2}\lambda_{i}+\beta_{2}\mu_{i}+\frac{1}{\Lambda_{2}\Gamma_{2}}+[S_{i}]} \right\} \delta x_{1}$
+$+ \left\{ \frac{-\frac{\kappa_{0}}{\Lambda_{0}\Gamma_{0}}-\varepsilon_{0}[S_{0}]}{2\varepsilon_{0}\kappa_{0}-\alpha_{0}\lambda_{0}-\beta_{0}\mu_{0}-\frac{1}{\Lambda_{0}\Gamma_{0}}-[S_{0}]} + \frac{-\frac{\kappa_{i}}{\Lambda_{2}\Gamma_{2}}+\varepsilon_{2}[S_{i}]}{2\varepsilon_{2}\kappa_{i}+\alpha_{2}\lambda_{i}+\beta_{2}\mu_{i}+\frac{1}{\Lambda_{2}\Gamma_{2}}+[S_{i}]} \right\} \delta y_{1} = 0$
+
+(29) $\heartsuit_{5} + \frac{(\varepsilon_{0}\lambda_{0}-\beta_{0}\kappa_{0})\heartsuit_{1} + (\varepsilon_{0}\kappa_{0}-\alpha_{0}\lambda_{0}-[S_{0}])\heartsuit_{4}}{2\varepsilon_{0}\kappa_{0}-\alpha_{0}\lambda_{0}-\beta_{0}\mu_{0}-\frac{1}{\Lambda_{0}\Gamma_{0}}-[S_{0}]} + \frac{-(\varepsilon_{2}\lambda_{i}+\beta_{2}\kappa_{i})\heartsuit_{3} + (\varepsilon_{2}\kappa_{i}+\alpha_{2}\lambda_{i}+[S_{i}])\heartsuit_{6}}{2\varepsilon_{2}\kappa_{i}+\alpha_{2}\lambda_{i}+\beta_{2}\mu_{i}+\frac{1}{\Lambda_{2}\Gamma_{2}}+[S_{i}]}$
+$+ \left\{ \frac{-\frac{\kappa_{0}}{\Lambda_{0}\Gamma_{0}}-\varepsilon_{0}[S_{0}]}{2\varepsilon_{0}\kappa_{0}-\alpha_{0}\lambda_{0}-\beta_{0}\mu_{0}-\frac{1}{\Lambda_{0}\Gamma_{0}}-[S_{0}]} - \frac{\frac{\kappa_{i}}{\Lambda_{2}\Gamma_{2}}+\varepsilon_{2}[S_{i}]}{2\varepsilon_{2}\kappa_{i}+\alpha_{2}\lambda_{i}+\beta_{2}\mu_{i}+\frac{1}{\Lambda_{2}\Gamma_{2}}+[S_{i}]} \right\} \delta x_{1}$
+$+ \left\{ \frac{-\frac{\lambda_{0}}{\Lambda_{0}\Gamma_{0}}-\beta_{0}[S_{0}]}{2\varepsilon_{0}\kappa_{0}-\alpha_{0}\lambda_{0}-\beta_{0}\mu_{0}-\frac{1}{\Lambda_{0}\Gamma_{0}}-[S_{0}]} + \frac{\frac{\lambda_{i}}{\Lambda_{2}\Gamma_{2}}+\beta_{2}[S_{i}]}{2\varepsilon_{2}\kappa_{i}+\alpha_{2}\lambda_{i}+\beta_{2}\mu_{i}+\frac{1}{\Lambda_{2}\Gamma_{2}}+[S_{i}]} \right\} \delta y_{1} = 0$

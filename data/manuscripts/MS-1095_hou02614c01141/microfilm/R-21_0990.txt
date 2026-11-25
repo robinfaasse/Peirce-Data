@@ -1,0 +1,21 @@
+[fig]Sketch of a rod or beam supported at an angle[/fig]
+
+Suppose $\theta$ from any point $l_1$ on is increased by $\delta\theta$
+
+So that $\frac{1}{2} dl . \varepsilon . (D_l \theta)^2 = \frac{1}{2} \varepsilon\ d\theta D_l \theta$ is increased to
+
+$\frac{1}{2} dl . \varepsilon \frac{(d\theta + \delta\theta)^2}{dl^2} = [del]\frac{1}{2}[/del] \varepsilon \frac{d\theta . \delta\theta}{dl} = \varepsilon . D_l \theta . \delta\theta$
+
+The mass from that point on is raised by
+
+$g \int\limits_{l_1}^{L} dl . \kappa \int\limits_{l_1}^{l} dl \sin\theta . \delta\theta$
+
+The sum of these vanishes. Consequently
+
+$D_l \theta = - \frac{g}{\varepsilon} \int\limits_{l_1}^{L} dl . \kappa \int\limits_{l_1}^{l} dl \sin\theta$.
+
+[del]= - \frac{g}{\varepsilon}[/del]
+
+This will give, by successive approximations
+
+The value of $\theta$ in terms of $l$ and [del]$\sin\theta_0$[/del] $\theta_0$

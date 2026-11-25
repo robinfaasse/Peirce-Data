@@ -1,0 +1,47 @@
+now if we add together the expressions for $\frac{w}{1+w}m$ and $\frac{0}{1}w(1-m)$
+we have the equivalent of $\frac{mw}{m+w}$ because this is the same
+as $\frac{w}{1+w}m + \frac{0}{1}(1-m)$. $\frac{mw}{m+w}$ then is
+$$\frac{1}{1}mw + \frac{0}{1}m(1-w) + \frac{0}{1}(1-m)w + \frac{0}{0}(1-m)(1-w)$$
+That is it is the class which includes some all or none
+of the things which are neither men nor women and none
+of the women who [del]men[/del] [ins]are[/ins] and none of the men not women
+and it implies further that there are no men who are women.
+
+Now I can give you a shorter rule for getting the
+same result. We start with $\frac{mw}{m+w}$. Write it down four times
+$$\begin{array}{cccc}
+\frac{mw}{m+w} & \frac{mw}{m+w} & \frac{mw}{m+w} & \frac{mw}{m+w} \\
+\text{First we put } \begin{array}{c} m=1 \\ w=1 \end{array} \text{ then} & \begin{array}{c} m=1 \\ w=0 \end{array} \text{ then} & \begin{array}{c} m=0 \\ w=1 \end{array} \text{ then} & \begin{array}{c} m=0 \\ w=0 \end{array} \\
+\text{this gives } \frac{1}{1+1} \text{ or } \frac{1}{0} & \frac{0}{1} & \frac{0}{1} & \frac{0}{0}
+\end{array}$$
+then where ever we put one for $m$ write an $m$ & where ever we put zero
+for $m$ write $1-m$. and so with $w$. and we have
+$$\frac{1}{0}mw + \frac{0}{1}m(1-w) + \frac{0}{1}(1-m)w + \frac{0}{0}(1-m)(1-w)$$
+which is the same result we had before.
+
+I will give one more example of this process.
+What does $\frac{m}{a}$ [del]mean[/del] [ins]stand for[/ins]?
+
+$$\begin{array}{cccc}
+\frac{m}{a} & \frac{m}{a} & \frac{m}{a} & \frac{m}{a} \\
+\begin{array}{c} m \\ a \end{array} \begin{array}{c} 1 \\ 1 \end{array} & \begin{array}{c} m \\ a \end{array} \begin{array}{c} 1 \\ 0 \end{array} & \begin{array}{c} m \\ a \end{array} \begin{array}{c} 0 \\ 1 \end{array} & \begin{array}{c} m \\ a \end{array} \begin{array}{c} 0 \\ 0 \end{array} \\
+\frac{1}{1} & \frac{1}{0} & \frac{0}{1} & \frac{0}{0}
+\end{array}$$
+$$\frac{1}{1}ma + \frac{1}{0}m(1-a) + \frac{0}{1}(1-m)a + \frac{0}{0}(1-m)(1-a).$$
+
+Suppose we have the equation
+$$1 = \frac{1}{1}xy + \frac{1}{1}x(1-y) + \frac{0}{0}(1-x)(1-y)$$
+This reads that [del]all things[/del] [ins]all [del]things[/del] [ins]existences[/ins] consist of[/ins] all
+those things which are both $x$ & $y$ of all which
+are $x$ and not $y$ and perhaps of some that are
+neither $x$ nor $y$. Observe that it is not [del]implied[/del] [ins]implied[/ins]
+that there are any things which are both $x$ and $y$;
+or that there are any that are $x$ and not $y$. But
+as something certainly exists, there must be something
+of one or other of these two classes.
+
+When then we have $1$ made equal to anything;
+it is asserted [del]that something[/del] [ins]$1^{\text{st}}$[/ins] [del]among all the classes[/del]
+multiplied by $\frac{1}{1}$ [del]exists[/del] [ins]exists[/ins], $2^{\text{nd}}$ that nothing among all
+the classes multiplied by $\frac{1}{0}$ exists, and $3^{\text{rd}}$ It is
+left in doubt whether anything among all the classes multiplied

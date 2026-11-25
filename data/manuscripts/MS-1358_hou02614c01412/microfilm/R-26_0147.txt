@@ -1,0 +1,61 @@
+[marginalia]
+Minson's Portlip 1899 Feb 10
+[/marginalia]
+
+[pn]4[/pn]
+
+[del]– [fig]crossed out term[/fig] +[/del] $E_2 P^2 - E_1 P + E_0$
+[del]– [fig]crossed out term[/fig] +[/del] $C_2 P^2 + C_1 P + C_0$
+
+[marginalia]
+Nigrosine Ink
+Nigrosine Ink
+Nigrosine Ink
+Nigrosine Ink
+[fig]ink test lines[/fig]
+Nigrosine Ink
+[/marginalia]
+
+$= -\frac{1}{6} \frac{u}{B} P^3 + \frac{1}{2} \frac{u}{B} P^2 - \frac{1}{2} \frac{u}{B} P - \frac{1}{2} \frac{u}{B}$
+$= -\frac{1}{6} \frac{u}{B} P^3 + \frac{1}{2} \frac{u}{B} P^2 - \frac{1}{2} \frac{u}{B} P + \frac{1}{6} \frac{u}{B}$
+$+ \quad E_2 P^2 - 2 E_2 P + E_2$
+$- \quad E_1 P + E_1$
+$+ \quad E_0$
+
+$= -\frac{1}{2} \frac{u}{B} P^3 + 3 C_2 P^2 - 3 C_1 P + 3 C_0$
+$-\frac{1}{6} \frac{u}{B} P^3 + \frac{3}{2} \frac{u}{B} P^2 + \frac{3}{2} \frac{u}{B} P + \frac{1}{2} \frac{u}{B}$
+$- 3 C_2 P^2 - 6 C_2 P - 3 C_2$
+$+ 3 C_1 P + 3 C_1$
+$- 3 C_0$
+
+$= -\frac{1}{6} \frac{u}{B} P^3 - \frac{u}{B} P^2 - 2 \frac{u}{B} P - \frac{4}{3} \frac{u}{B}$
+$+ \quad C_2 P^2 + 4 C_2 P + 4 C_2$
+$- \quad C_1 P - 2 C_1$
+$+ \quad C_0$
+
+[marginalia]
+$+ \frac{1}{6} \frac{u}{B} (P+1)^3$
+$\frac{1}{6} \frac{u}{B} ($
+$-3 C_2 (-P-1)^2$
+$+3 C_2 (+P+1)$
+
+[del][fig]crossed out scribble[/fig][/del]
+$-\frac{1}{6} \frac{u}{B} (P+2)^3$
+
+$\begin{array}{cccc} 1 & 3.2 & 3.4 & 8 \\ & 6 & 12 & 8 \\ \frac{1}{6} & 1 & 2 & \frac{4}{3} \end{array}$
+
+$+ C_2 (P+2)^2$
+$P^2 + 4P + 4$
+$- C_1 (P+2)$
+
+$\begin{array}{r} +3 \\ -8 \\ \hline -5 \end{array}$
+[/marginalia]
+
+[del]or[/del] That is,
+[del]$\frac{E_2^2 - 31}{}$[/del]
+[del]$\begin{array}{r} +3 \\ +3 \end{array} \begin{array}{r} -1 \\ -8 \end{array}$[/del]
+$E_2 (P^2 - 2P + 1) + E_1 (-P + 1) + E_0$
+$= C_2 (P^2 - 2P + 1) + C_1 (-P + 1) + C_0 - \frac{1}{2} \frac{u}{B} (ds)^3 - \frac{1}{2} \frac{y-P}{B} (ds)^2$ [del][fig]crossed out scribble[/fig][/del]
+
+Combining the two
+$E_2 (-2P + 1) + E_1 = C_2 (-2P + 1) + C_1 - \frac{1}{2} \frac{u}{B} (ds)^3 - \frac{1}{2} \frac{y-P}{B} (ds)^2$

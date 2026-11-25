@@ -1,0 +1,31 @@
+[pn]284[/pn]
+
+sets of generators, all of the first cutting [u]i[/u], [u]j[/u], [u]k[/u], and all of the
+second cutting [u]p[/u], [u]q[/u], [u]r[/u].
+
+§144. [del]Theorem[/del] [ins]Definition 173[/ins]. A curve the section of [del]a phimus[/del] [ins]a phimus[/ins] by a plane
+is called a conic.
+
+[del]Theorem[/del]
+
+<u>Pascal's Hexagram</u>.
+
+Theorem 28. If A, B, C, D, E, F are six points on a conic
+the points
+[{AB}{DE}],
+[{BC}{EF}],
+[{CD}{FA}],
+lie on one ray.
+
+<u>Demonstration</u>. Let [u]i[/u], [u]j[/u], [u]k[/u] be three generators of the phimus
+of one set through A, C, E. Let [u]p[/u], [u]q[/u], [u]r[/u] be three generators of the
+phimus of the other set through B, D, F. Then {AB} is in the
+plane (ip) and {DE} is in the plane (kq). Hence [{AB}{DE}] is
+in the ray {(ip)(kq)} = {[iq][kp]}.
+In like manner {BC} is in (jp), and {EF} is in (kr) and hence
+[{BC}{EF}] is in {(jp)(kr)} = {[jr][kp]}. And in like manner
+{CD} is in (jq) and {FA} is in (ir), and hence [{CD}{FA}] is
+in {(jq)(ir)} = {[iq][jr]}. Now the three rays
+{[iq][kp]},
+{[jr][kp]},
+{[iq][jr]},

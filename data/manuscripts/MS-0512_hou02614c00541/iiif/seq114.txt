@@ -1,0 +1,30 @@
+FL
+95
+
+It thus appears that supposing
+$$x^y=z$$ $$x=\sqrt[y]{z}$$ $$y=\log_x z$$
+nonnegative, integer, finite
+the equation can be satisfied, whatever [ins]nonnegative, integer, finite[/ins] values $x$ and $y$ may have, and
+there is for each set of values of $x$ and $y$ a single value of $z$.
+But if $z=0$, $x$ must be $0$, and $y$ can be any number [del](hardly 0)[/del]
+if $z=1$, $x$ can be any number, [del]and[/del] [ins]or[/ins] $y$ can be any number
+[del]But if $x$ is neither 0 nor 1, $y$ is 0 (i.e. if $y \neq 0$ $x$ can be either 0 or 1[/del]
+But if $y$ is $0, x$ can be any number
+if $y \neq 0, x$ must be $1$.
+Whatever $z$ may be, $x$ can be the same and $y=1$
+There are special values of $z$ for which there are two solutions, such as $z=8 \begin{cases} x=8 y=1 \\ x=2 y=3, \end{cases}$
+special values of $z$ for which there are three solutions, such as $z=81 \begin{cases} x=81 y=1 \\ x=9 \ \ y=2 \\ x=3 \ \ y=4 \end{cases}$
+special values of $z$ for which there are four solutions, such as $z=\text{million} \begin{cases} x=\text{million } y=1 \\ x=\text{thousand } y=2 \\ x=\text{hundred } y=3 \\ x=\text{ten } y=6 \end{cases}$
+etc.
+
+We further have the important properties,
+(M) $\log_a [(a^y)^z] = \log_b [(b^y)^z]$
+(A) $\log_a \log_b [(a^{b^y})^{b^z}] = \log_c \log_d [(c^{d^y})^{d^z}]$.
+We have as immediate corollaries of the notation
+(1) $(\sqrt[y]{z})^y=z$ $\sqrt[y]{(x^y)}=x$ (2)
+(3) $\log_x (x^y)=y$ $x^{\log_x z}=z$ (4)
+(5) $\log_{(\sqrt[y]{z})} z=y$ $x = \sqrt[\log_x z]{z}$ (6)
+The property (M) makes it true that if $(a^x)^y=a^m$ and [del]$(a^x)^z=a^p$ and[/del] $(a^y)^z=a^n$ then [del]$(a^x)^z=a^r$[/del]
+For then [ins]putting $b=a^x$[/ins] if $(a^y)^z=a^n$ $[(a^x)^y]^z=(a^x)^n$.
+Hence, defining multiplication by the equation
+$y \times z = \log_a [(a^y)^z]$

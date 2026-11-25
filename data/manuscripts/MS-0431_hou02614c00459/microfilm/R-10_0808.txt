@@ -1,0 +1,26 @@
+[marginalia]
+Logic
+[u]III[/u]
+166
+[date]FEB - 3 1902[/date]
+[/marginalia]
+
+This signifies that two triads (one of which [del]consist[/del] [ins]consists[/ins]
+of the 1[sup]st[/sup], 2[sup]nd[/sup], and 3[sup]d[/sup] places in [del]the row[/del] [ins]a row[/ins]) can be connected, one to
+one, in six ways. If we take the six permutations as ingredients
+and take six letters to denote the operations; [u]1[/u], of allowing every-
+thing to stand in its place (the operation of doing nothing); [u]m[/u], of advancing
+the letters in cyclic order, the letter in the first place to the second place,
+the letter in the second place to the third place, and the letter in the third
+place to the first place; [u]n[/u], of retreating them in cyclic order; [u]i[/u], of
+interchanging the last two, [del]i[/del] [ins]the[/ins] of interchanging first and last; [u]k[/u], of
+interchanging first and second; so that we have
+
+[u]1[/u] = (ABC):(ABC) + (CAB):(CAB) + (BCA):(BCA) + (ACB):(ACB) + (CBA):(CBA) + (BAC):(BAC)
+[u]m[/u] = (CAB):(ABC) + (BCA):(CAB) + (ABC):(BCA) + (BAC):(ACB) + (ACB):(CBA) + (CBA):(BAC)
+[u]n[/u] = (BCA):(ABC) + (ABC):(CAB) + (CAB):(BCA) + (CBA):(ACB) + (BAC):(CBA) + (ACB):(BAC)
+[u]i[/u] = (ACB):(ABC) + (CBA):(CAB) + (BAC):(BCA) + (ABC):(ACB) + (CAB):(CBA) + (BCA):(BAC)
+[u]j[/u] = (CBA):(ABC) + (BAC):(CAB) + (ACB):(BCA) + (BCA):(ACB) + [del](ABC)[/del] [ins](CAB)[/ins]:(CBA) + [del](CAB)[/del] [ins](ABC)[/ins]:(BAC)
+[u]k[/u] = (BAC):(ABC) + (ACB):(CAB) + (CBA):(BCA) + (CAB):(ACB) + (BCA):(CBA) + (ABC):(BAC)
+
+then we have the following [del]relation[/del] multiplication-table

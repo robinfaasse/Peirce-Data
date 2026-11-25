@@ -1,0 +1,19 @@
+Required to prove that of two classes [u]m[/u] and [u]n[/u] [del]either m is[/del] one is as small as the other.
+
+1[ins]d[/ins] Every class is as small as something for every class stands in a one to one relation of identity with itself.
+
+[u]T[/u][sub]i[/sub] I[sub]ii[/sub]
+
+[special_character] [u]T[/u][sub]i[/sub] ([u]m[/u][sub]i[/sub] + I[sub]ii[/sub])
+
+The third clause of the definition of a one-to-one correspondence is
+[u]T[/u][sub]α[/sub] Σ[sub]u[/sub] Σ[sub]v[/sub] Σ[sub]w[/sub] (C[sub]α[/sub] + [del]r[/del][ins]γ[/ins][sub]uv[/sub] γ[sub]uw[/sub] I[sub]vw[/sub] + γ[sub]uw[/sub] γ[sub]vw[/sub] I[sub]uv[/sub])
+
+Put I = γ[sub]α[/sub] and we have
+[del]T[/del] Σ[sub]u[/sub] Σ[sub]v[/sub] Σ[sub]w[/sub] (C[sub]α[/sub] + I[sub]uv[/sub] I[sub]uw[/sub] I[sub]vw[/sub] + I[sub]uw[/sub] I[sub]vw[/sub] I[sub]uv[/sub])
+which (by the transitiveness of I) reduces to
+C[sub]α[/sub]
+
+[special_character] [u]T[/u][sub]i[/sub] ([u]m[/u][sub]i[/sub] + C[sub]αii[/sub])
+
+Now if there be a one to one correspondence and if there be an object not a correlate of that correspondence, then also is there a one to one correspondence with the same relates

@@ -1,0 +1,21 @@
+[del]The first member here is the value of $x$ for the centre of gravity of the weights of points from $n$ up to $m$, which we may denote by $\bar{\bar{x}}$.[/del] The geometrical interpretation of this equation is that the lines of any two stretches, being continued, will meet in the vertical of the centre of gravity of the included weights.
+
+Putting $n = H$, we have, by aid of (11),
+
+(18) $\tan \tau_m = \frac{y_m - y_H}{x_m - \bar{\bar{x}}_H^m}$,
+
+and by (14)
+
+(19) $Q = (\omega_m - \omega_H) \frac{x_m - \bar{\bar{x}}_H^m}{y_m - y_H}$.
+
+[del]Denoting by $W_1$ and $W_2$ the total weight between[/del]
+
+Putting successively $m = 0$ and $m = N$ in ([del]19[/del] [ins]19[/ins]), we get
+
+(20) $Q = - \omega_H \frac{\bar{\bar{x}}_0^H}{y_H} = (\omega_N - \omega_H) \frac{x_N - \bar{\bar{x}}_H^N}{y_N - y_H}$.
+
+If in (18) $y_m = y_{n+1}$ it gives
+
+(21) $\frac{x_m - \bar{\bar{x}}_H^m}{x_{n+1} - \bar{\bar{x}}_H^n} = \frac{\tan \tau_n}{\tan \tau_m}$.
+
+That is, the tangents of the inclinations of the stretches above two weighted points at the same level are inversely as the distances of those points from the vertical of the centre of gravity of the weights [del]between those stretches.[/del]

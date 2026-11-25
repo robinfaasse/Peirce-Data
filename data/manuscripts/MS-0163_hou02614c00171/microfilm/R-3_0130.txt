@@ -1,0 +1,87 @@
+[u]Real
+Curves[/u]
+
+[u]Astiads[/u]   Without cusps or inflections
+
+Without a loop [fig]circle[/fig]
+
+One small
+loop [fig]loop with one node[/fig]   1 node
+1 bitang
+
+[ins]primary[/ins]
+2 small loops
+2 nodes
+6 double tang
+
+3 small primary loops
+3 nodes
+1 + 5 + 9 + 13 bitang
+
+[fig]three loops meeting at nodes[/fig]
+
+[fig]four loops meeting at nodes[/fig]
+
+1 + 5 + 9 + 13 = 28 bitang
+
+0  1
+1  5
+2  9
+3  13
+4  17
+28  18
+
+[del]0[/del]  1  every other
+1  2  triangular
+3  3  number
+6  4
+10  5
+15  6
+
+[del][fig]crossed lines[/fig][/del]
+
+[del][fig]crossed lines[/fig][/del]
+
+[del]Ax + B = bitang
+x = small primary loops[/del]
+
+[del]Ax[sup]2[/sup] + Bx + C = bitang
+x = small primary loops
+C = 0
+A + B = 1
+4A + 2B = 6
+2A + 2B = 2
+2A = 4  A = 2
+B = -1[/del]
+
+[del]2x[sup]2[/sup] - x = (2x - 1)x[/del]
+
+[del]2x - 1
+x - 1
+x - 2
+x - 3
+x - 4[/del]
+
+...x Ax[sup]2[/sup] + Bx +
+0  0  0
+1  2  -1
+2  8  -2
+3  18  -3
+4  32  -4
+
+0
+1
+6
+15
+28
+
+1
+5
+9
+13
+
+4
+4
+4
+
+7

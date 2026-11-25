@@ -1,0 +1,25 @@
+$$\Sigma_{h}\left|_{a}^{b}\right| u_{x} = \left\{ 1 - \frac{n-h}{2}\Delta_{h} + \frac{n^{2}-h^{2}}{12}\Delta_{h}^{2} + \&c. \right\} \left\{ \frac{^{n}\Delta_{h}}{h} \right\}^{-1} \left\{ u_{b} - u_{a} \right\}$$
+
+The sum is thus composed of three factors, the first and second being operators, and the third the difference between the limiting terms of the series.
+
+The sum of any series is thus expressible in terms of the difference between the limiting values expressed in the form of the general term which fixes the law of the series, and thus under the operator the intermediate terms.
+
+The operating factor falls into two factors. If $n$ is equal to $h$ the operation reduces to a simple summation at the given unit interval between terms, since $\left\{ \frac{\Delta_{h}}{h} \right\}^{-1}$ is equal to $h\ \Sigma$ or to $\int dx$, according as $h$ is finite or infinitesimal.
+
+If $n$ and $h$ are not equal the first factor of the operator gives the correction to be applied in order to pass to the sum at the other unit interval between terms.
+
+Both unit intervals appear in both factors of the operator.
+
+The foregoing are all of the methods. Modifications and combinations sometimes occur, as in the formulæ at the end of the Text-Book of the Institute of Actuaries, where a new general term through expansion is introduced and integrated, but in lieu of the limiting terms are then substituted intermediate terms at different intervals.
+
+As supplementary to summation formulæ, it becomes necessary often to change the unit interval between terms in the differences or differential coefficients that appear in the equations.
+
+In a separate paper we will consider this question.
+
+SAMUEL BARNETT, Actuary,
+
+Atlanta, Ga.
+
+[u][date]1908[/date][/u]
+
+[pn]8[/pn]

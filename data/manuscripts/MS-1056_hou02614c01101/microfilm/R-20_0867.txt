@@ -1,0 +1,8 @@
+If it is possible to find any number [u]a[/u] such that
+
+(16) {
+$\Sigma_i$ $C_i$ $v_{e_i+a}$ = 0
+$\Sigma_i$ $C_i$ $v_{e_i+a+1}$ = 0
+Then $\Sigma_i$ $C_i$ $v_{e_i+m}$ = 0 whatever m may be.
+
+For successive sums will give the third equation for all values of [del]m[/del] [ins]m[/ins] greater than [u]a[/u] and successive differences will give the same for all values of [del]m[/del] [ins]m[/ins] less than a.

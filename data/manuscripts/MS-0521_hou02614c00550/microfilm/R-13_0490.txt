@@ -1,0 +1,27 @@
+[pn]73[/pn] [pn]27[/pn]
+
+In like manner
+$$w(1\cdot q) = w\cdot w(1\cdot q).$$
+Applying these two formulae in the above expression for $x\bar{y}$, Schröder
+gets
+$$a \prec (1\cdot y)w\cdot T\cdot\bar{z} + T\cdot\bar{z}\cdot w(1\cdot y) + (T\cdot z)(T\cdot\bar{z}).$$
+Arrived at this point, he is able to eliminate $y$; but he cannot eliminate
+$z$; and cannot solve the general problem, although he can do so in broad
+special cases. It is to be remarked, however, that $a \prec x\bar{y}$ asserts that, taking
+any two haecceities, $A$ and $C$, either $A$ is not $C$ or it is possible to find a
+haecceity, $B$, which is $x$ of $A$ (that is, is $x$'d by $A$) but is not an $x$
+of $C$. Now if we take eight haecceities, $H_{0}, H_{1}, H_{2}, H_{3}, H_{4}, H_{5}, H_{6}, H_{7}$,
+and consider the relation, $h$, [ins] which every ninth haecceity has to all these eight, and [/ins] which $H_{n}$ (no matter what $n$ may be) has
+to $H_{p}, H_{q},$ and $H_{r}$, where $p \equiv n+1, q \equiv n+3, r \equiv n+4 \pmod{8}$ and has
+to no other haecceity whatever, then I say that $x = h$ is a particular solu-
+tion of $a \prec x\bar{y}$ no matter what $a$ may be. For [del]consider[/del] [ins] taking [/ins] any two haecceities
+whatever, each is $h\bar{h}$ to the other. For first suppose that both are [ins] among [/ins] the
+eight $H$s, say the $H_{s}$ and $H_{t}$. It is clear that $H_{s} \prec h\bar{h} H_{t}$. For if $t-s \equiv 0, 1,$
+$3, 6,$ or $7 \pmod{8}$, $H_{s} \prec h H_{s+1}$ and $H_{s+1} \prec \bar{h} H_{t}$ because $t-(s+1) \equiv 7, 0,$
+$2, 5,$ or $6$, that is, neither to $1, 3,$ nor $4$. But if $t-s \equiv 0, 1, 2, 3,$ or $5$,
+$H_{s} \prec h H_{s+3}$ and $H_{s+3} \prec \bar{h} H_{t}$, because $t-(s+3) \equiv 5, 6, [del]7[/del], 0,$ or $2$, and
+so neither to $1, 3,$ nor $4$. But if $t-s \equiv 1, 2, 3, 4,$ or $6$, $H_{s} \prec h H_{s+4}$ and
+$H_{s+4} \prec \bar{h} H_{t}$, since $t-(s+4) \equiv 5, 6, 7, 0,$ or $2$, and so neither to $1, 3,$ nor
+$4$. But every value of $t-s$ is included in one at least of these three
+sets. If the first haecceity is some ninth one, [ins] $A$, [/ins] and the second is one of the
+eight $H$s, [ins] say $H_{t}$, [/ins] we have [del]only[/del] $A \prec h H_{t}$ and $H_{t} \prec \bar{h} H_{t}$, so that $A \prec h\bar{h} H_{t}$. If

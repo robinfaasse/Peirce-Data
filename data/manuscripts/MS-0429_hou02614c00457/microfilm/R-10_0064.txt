@@ -1,0 +1,14 @@
+[pn]52[/pn]
+
+[u]v[/u] [u]O[/u] ( [u]f[/u] [u]O[/u] [u]f[/u] ) = [u]v[/u] [u]O[/u] [u]v[/u] = [u]f[/u]
+[u]f[/u] [u]O[/u] ( [u]v[/u] [u]O[/u] [u]f[/u] ) = [u]f[/u] [u]O[/u] [u]v[/u] = [u]f[/u],
+fulfilling the second prescription.
+
+It remains to prove that when none of the five cases occurs, the formula does not hold. Now when neither the first nor the third cases occur either [u]v[/u] [u]O[/u] [u]v[/u] is [u]f[/u] or else [u]f[/u] [u]O[/u] [u]v[/u] and [u]v[/u] [u]O[/u] [u]f[/u] have contrary values to their second letters. When neither the second nor the fourth cases occur either [u]f[/u] [u]O[/u] [u]f[/u] is [u]v[/u] or else [u]f[/u] [u]O[/u] [u]v[/u] and [u]v[/u] [u]O[/u] [u]f[/u] have contrary values to their second letters. Hence when neither of the first four cases occur either both [u]v[/u] [u]O[/u] [u]v[/u] and [u]f[/u] [u]O[/u] [u]f[/u] or else both [u]f[/u] [u]O[/u] [u]v[/u] and [u]v[/u] [u]O[/u] [u]f[/u] have contrary values to their second letters. Whe , in addition, the fifth case does not occur, there remain four possible cases
+1st, [u]f[/u] [u]O[/u] [u]f[/u] = [u]f[/u] [u]O[/u] [u]v[/u] = [u]v[/u], [u]v[/u] [u]O[/u] [u]v[/u] = [u]f[/u];
+2nd, [u]v[/u] [u]O[/u] [u]v[/u] = [u]v[/u] [u]O[/u] [u]f[/u] = [u]f[/u], [u]f[/u] [u]O[/u] [u]f[/u] = [u]v[/u];
+3rd, [u]v[/u] [u]O[/u] [u]v[/u] = [u]v[/u] [u]O[/u] [u]f[/u] = [u]v[/u], [u]f[/u] [u]O[/u] [u]f[/u] = [u]f[/u];
+4th, [u]f[/u] [u]O[/u] [u]f[/u] = [u]f[/u] [u]O[/u] [u]v[/u] = [u]f[/u], [u]v[/u] [u]O[/u] [u]f[/u] = [u]v[/u].
+Now in the first case, we have
+[u]v[/u] [u]O[/u] ( [u]f[/u] [u]O[/u] [u]v[/u] ) = [u]v[/u] [u]O[/u] [u]v[/u] = [u]f[/u],
+[u]f[/u] [u]O[/u] ( [u]v[/u] [u]O[/u] [u]v[/u] ) = [u]f[/u] [u]O[/u] [u]f[/u] = [u]v[/u],

@@ -1,0 +1,47 @@
+[marginalia]HypGeom[/marginalia] [pn]2[/pn]
+$$\text{Sinh }(x+y) = \text{Sinh }x \cdot \text{Cosh }y + \text{Cosh }x \cdot \text{Sinh }y$$
+$$\text{Cosh }(x+y) = \text{Cosh }x \cdot \text{Cosh }y + \text{Sinh }x \cdot \text{Sinh }y$$
+$$\begin{array}{l}
+\text{Cosh }\infty = \infty \\
+\text{Tanh }0 = 0 \\
+\text{Tanh }\infty = 1
+\end{array}$$
+
+$$\text{Sinh }-x = -\text{Sinh }x$$
+[del]$$\text{Sinh }-y = -\text{Sinh }y$$[/del]
+$$\text{Cosh }-x = \text{Cosh }x$$
+
+$$\text{Tanh }\frac{x}{2} = \frac{\text{Sinh }x}{1+\text{Cosh }x} = \frac{\text{Cosh }x - 1}{\text{Sinh }x} = \frac{1}{\text{Coth }\frac{x}{2}}$$
+
+$$\begin{array}{l}
+\text{Coth } + \text{Cosech} = \text{Coth }\frac{1}{2} \\
+\text{Coth} - \text{Cosech} = \text{Tanh }\frac{1}{2}
+\end{array}$$
+
+$$\text{Cosh }x = \frac{1+\text{Tanh}^2 \frac{x}{2}}{1-\text{Tanh}^2 \frac{x}{2}}$$
+
+$$\text{Sinh }x = \frac{2\text{Tanh }\frac{x}{2}}{1-\text{Tanh}^2 \frac{x}{2}}$$
+
+[marginalia]
+Also
+$$\begin{aligned}
+\text{Tanh }x & \\
+= & \frac{2\text{Tanh }\frac{x}{2}}{1+\text{Tanh}^2 \frac{x}{2}} \\
+= & 2\frac{\text{Coth }\frac{x}{2}}{1+\text{Coth}^2 \frac{x}{2}}
+\end{aligned}$$
+[/marginalia]
+
+[marginalia]
+<u>Coth Also</u>
+$$\text{Coth }x \times \text{Coth }\frac{x}{2} = \frac{1}{2}(1+\text{Coth}^2 \frac{x}{2})$$
+$$\text{Coth }x \times \text{Tanh }\frac{x}{2} = \frac{1}{2}(1+\text{Tanh}^2 \frac{x}{2})$$
+$$\text{Cosech }x \cdot \text{Cosh }\frac{x}{2} = \frac{1}{2\text{Sinh }\frac{x}{2}}$$
+$$\text{Cosech }x \cdot \text{Tanh }\frac{x}{2} = \frac{1}{2\text{Cosh }\frac{x}{2}}$$
+[/marginalia]
+
+If $x = \log \tan \left(\frac{\pi}{4} + \frac{\phi}{2}\right)$
+$$\text{Sinh }x = \tan \phi \quad \text{Cosh }x = \sec \phi \quad \text{Tanh }x = \sin \phi$$
+
+These formulae having been set down, let us see how we can make a projection of the hyperbolic plane upon the Euclidean plane, so as to preserve the angles, and so that [del]two[/del] straight lines radiating from a central point shall be represented by straight lines. Suppose two straight lines through that point making an angle B with one another; and at a distance [u]a[/u] from the central point on the one let a perpendicular be
+
+[fig]Right triangle with sides a, s and hypotenuse A[/fig]

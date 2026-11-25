@@ -1,0 +1,23 @@
+[marginalia]
+Logic
+III
+142
+[/marginalia]
+
+The proof is simple enough. If [u]F[/u][sub]x[/sub] has the value [u]v[/u],
+either [u]x[/u] has the value [u]v[/u], when [u]F[/u][sub]x[/sub] becomes [u]F[/u][sub]v[/sub] or [u]x[/u]
+has the value [u]v[/u], so that, in any case, [u]F[/u][sub]v[/sub] + [u]x̄[/u] has the
+value [u]v[/u]; [del]while[/del] [ins]and[/ins] further, either [u]x̄[/u] has the value [u]v[/u],
+when [u]F[/u][sub]x[/sub] becomes [u]F[/u][sub]f[/sub] or [u]x[/u] has the value [u]v[/u], so that, in
+any case, [u]F[/u][sub]f[/sub] + [u]x[/u] has the value [u]v[/u]. Consequently, if [u]F[/u][sub]x[/sub] has
+the value [u]v[/u], the composite ([u]F[/u][sub]v[/sub] + [u]x̄[/u]) · ([u]F[/u][sub]f[/sub] + [u]x[/u]) has the same
+value. But if [u]F[/u][sub]x[/sub] has the value [u]f[/u], either [u]x[/u] has the value
+[u]v[/u], when [u]F[/u][sub]x[/sub] becomes [u]F[/u][sub]v[/sub], [ins]and[/ins] [del]when[/del] [u]F[/u][sub]v[/sub] + [u]x̄[/u] has the value [u]f[/u],
+or [u]x[/u] has the value [u]f[/u], when [u]F[/u][sub]x[/sub] becomes [u]F[/u][sub]f[/sub], and [u]F[/u][sub]f[/sub] + [u]x[/u]
+has the value [u]f[/u]. Thus, if [u]F[/u][sub]x[/sub] has the value [u]f[/u], one or other
+of the components of ([u]F[/u][sub]v[/sub] + [u]x̄[/u]) · ([u]F[/u][sub]f[/sub] + [u]x[/u]) has the value [u]f[/u], and
+again ([u]F[/u][sub]v[/sub] + [u]x̄[/u]) · ([u]F[/u][sub]f[/sub] + [u]x[/u]) has the same value as [u]F[/u][sub]x[/sub].
+
+Boole's reciprocal problem is to put an expression into
+a form in which a given letter [del]appears only as an aggregant[/del] [ins]or its negative[/ins] [ins]appears only as a component[/ins] [del]of an aggregant[/del]. The solution is
+∴ [u]F[/u][sub]x[/sub] = ([u]F[/u][sub]v[/sub] + [u]x̄[/u]) · ([u]F[/u][sub]f[/sub] + [u]x[/u]).

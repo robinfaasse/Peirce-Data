@@ -1,0 +1,47 @@
+[pn]27[/pn]
+
+The proof of these solutions is easy. It [del]may[/del] involves, first, the demonstration
+that the forms given fulfil the conditions in all cases; and second that
+whatever fulfills the conditions satisfies the forms. Since
+
+[u](u + j ŭ) (u + j ŭ)[/u] [u]⤙[/u] [u](u + j ŭ) u[/u] + [u]j ŭ[/u] [u]⤙[/u] [u]u[/u] + [u]j ŭ u[/u] + [u]j ŭ[/u] [u]⤙[/u] [u]u[/u] + [u]j T[/u] + [u]j ŭ[/u] [u]⤙[/u] [u]u[/u] + [u]j ŭ[/u]
+
+and [u](u + j ŭ) u[/u] [u]⤙[/u] [u]u[/u] + [u]j ŭ u[/u] [u]⤙[/u] [u]u[/u] + [u]j T[/u] [u]⤙[/u] [u]u[/u]
+
+we have [u](u + j ŭ) (u + j ŭ)[/u] [u]⤙[/u] [u]u + j ŭ[/u]
+
+[del]So[/del] [u][(u + j ŭ) · u][/u] [u][(u + j ŭ) · u][/u] [u]⤙[/u] [u](u + j ŭ) (u + j ŭ)[/u] · [u][(u + j ŭ) u][/u] [u]⤙[/u] [u](u + j ŭ) · u[/u]
+
+[u][(u + j ŭ) · u ŭ][/u] [u][(u + j ŭ) · u ŭ][/u] [u]⤙[/u] [u](u + j ŭ) · u ŭ[/u].
+
+Since [u]1 ⤙ u + j ŭ[/u] and [u]u ŭ ⤙ T[/u], we have
+
+[u]1[/u] [u]⤙[/u] [u]1 · 1[/u] [u]⤙[/u] [u](u + j ŭ) (u + j ŭ)[/u]
+
+[u]u ŭ[/u] [u]⤙[/u] [u]T[/u]
+
+Hence the forms fulfill the conditions. Since, if [u]x ⤙ x[/u]
+
+[u]x[/u] [u]⤙[/u] [u]x · 1[/u] [u]⤙[/u] [u]x (x + j x̆)[/u] [u]⤙[/u] [u]x x[/u] + [u]j x̆[/u] [u]⤙[/u] [u]x[/u] + [u]j x̆[/u]
+
+or [u]x[/u] = [u]x · (x + j x̆)[/u],
+
+if [u]x ⤙ x[/u] [u]x[/u] = [u]Σ[/u] [u]x · (x + j x̆)[/u].
+
+If [del]1 ⤙ x[/del] [u]x ⤙ x[/u] we have [u]1 ⤙ x[/u] or [u]x ⤙ T[/u] and [u]x̆ ⤙ T[/u]. Hence,
+
+[u]x + j x̆[/u] [u]⤙[/u] [u]x + j T[/u] [u]⤙[/u] [u]x[/u]
+
+Thus, in this case [u]x + j x̆[/u] [u]⤙[/u] [u]x[/u] and [u]x ⤙ x + j x̆[/u] as seen just above. Thus
+
+[u]x[/u] = [u]x + j x̆[/u] or [u]x[/u] = [u]Σ[/u] [u]u + j ŭ[/u]. If [u]x ⤙ T[/u] and [u]x ⤙ x[/u], and [u](0 + j x ∞) · (∞ + j 0)[/u]
+
+we have [u]0 + j x ∞[/u] and [u](0 + j x ∞) (0 + j x ∞)[/u] [u]⤙[/u] [u]0 + j x ∞ (0 + j x ∞)[/u] [u]⤙[/u] [u]0 + j x (∞ + j x ∞)[/u]
+
+[u]⤙[/u] [u]0 + j x (0 + j x ∞)[/u] [u]⤙[/u] [u]0 + j x (1 · T + j x ∞)[/u] [u]⤙[/u] [u]0 + j x [(T + j x ∞) · (1 + j x ∞)][/u] [u]⤙[/u] [u]0 + j x [x ∞ · (1 + j x ∞)][/u]
+
+[u]⤙[/u] [u]0 + j x x ∞[/u]. [del]That is, 1 + 0 + j x ∞ ⤙ 0 + x x (1 + T) ⤙ x + x[/del]
+
+[u]0 + (x x + x x T)[/u], That is, [u]1 ⤙ x x ∞[/u] [u]⤙[/u] [u]x x (1 + T)[/u] [u]⤙[/u] [u]x x + x x T[/u]. But
+
+[u]x x ⤙ T[/u]. Hence, [u]1 ⤙ x x T[/u]. That is, [u]∞ ⤙ x x̆[/u], Hence, [u]x ⤙ x x̆ · (x + j x̆)[/u].

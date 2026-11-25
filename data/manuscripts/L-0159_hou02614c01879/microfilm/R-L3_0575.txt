@@ -1,0 +1,100 @@
+[fig]Vertical line[/fig] $2^1 + 1 - 2 \cdot 1$
+$= 1$
+
+$2^{m-1}$
+$a$
+
+$a \lor b$
+$a \lor \bar{b}$
+
+[fig]Vertical line[/fig] $2^{m-2}$
+$a \lor b$
+[del]$a \lor \bar{b}$[/del]
+$a \lor b \lor c$
+$a \lor b \lor \bar{c}$
+
+$2^2 + 2 - 3 \cdot 2$
+
+[del]M[/del] [ins]Comp.[/ins]
+$3$
+
+[del]3[/del]
+
+[fig]Vertical line[/fig] $2^{m-1} (2^2 - 1)$
+$a \lor b$
+$a$ [fig]brace[/fig] $b$
+$a \lor b$
+$a \lor \bar{b}$
+$\bar{a} \lor b$
+
+$a \lor b \lor c$
+
+[u]$2^2$[/u]
+$a \cdot b \lor c$
+
+$a \lor c$
+$b \lor c$
+
+$\begin{cases} a \lor b \lor c \\ a \lor \bar{b} \lor c \\ a \lor b \lor \bar{c} \end{cases}$
+
+$a \cdot b \cdot c \lor d$
+
+$a \lor d$
+$b \lor d$
+$c \lor d$
+
+$a \lor b \lor c \lor d$
+$a \lor b$
+
+$2^2 - 1$
+$\frac{3}{4}$
+$\frac{5}{6}$
+
+$a \cdot b \lor c \cdot d$
+
+All different
+$(a \lor c \lor d)$
+$(b \lor c \lor d)$
+
+Letters all different
+Each letter that does not occur doubles it.
+
+Each letter which makes [del]a term makes no diff[/del]
+$a \lor b$
+$a = (a \lor b)(a \lor \bar{b})$
+
+$a \cdot b \lor c \cdot d \cdot e$
+$2$ [fig]brace[/fig] $3$
+
+$a \lor c$
+$a \lor d$
+$a \lor e$
+$b \lor c$
+$b \lor d$
+$b \lor e$
+
+[fig]brace[/fig] $a \lor b \lor c \lor d \lor e$ [fig]brace[/fig] $8$
+[del]$a \lor b \lor c \lor d$[/del]
+
+$a \lor b$
+
+$a \cdot b \cdot c \lor a \cdot \bar{b} \cdot d$
+
+[del]$a \lor b$[/del]
+[del]$+$[/del]
+
+[del]$a \lor b \lor d$[/del]
+[del]$a \lor \bar{b} \lor c$[/del]
+[del]$c \lor d$[/del]
+
+$a \lor b \lor c \lor d \lor e$
+$2 \lor c \lor d \lor e$
+$2 \lor c \lor d \lor e$
+$14$
+$14 - 28$
+
+$7$
+
+$a \cdot b \cdot c \cdot d \cdot e \cdot f \lor a \cdot \bar{b} \cdot \bar{c} \cdot d \cdot g \cdot h$
+$a \cdot b \cdot (c \lor \bar{d})(c \lor g)(c \lor h)$
+$(d \lor \bar{c})(d \lor g)(d \lor h)$

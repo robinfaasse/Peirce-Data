@@ -1,0 +1,27 @@
+[u]Chapter II. The Addition Theorem[/u]
+
+By looking at the last figure, it will be seen that, by the similarity of triangles
+
+$$\frac{dx}{d\theta} = \frac{y}{1} \qquad dx : d\theta = y : 1$$
+
+$$\frac{dy}{d\theta} = -\frac{x}{1} \qquad dy : d\theta = -x : 1.$$
+
+[del]The first equation is instantly seen[/del]
+This is also seen algebraically, remembering that
+
+$$d\theta = \frac{dx}{\sqrt{1-x^2}}$$
+
+and $y = \sqrt{1-x^2}$.
+
+The second equation
+
+$$d\sqrt{1-x^2} / \frac{dx}{\sqrt{1-x^2}} = -x$$
+
+results from the value obtained in the last chapter for $d\sqrt{1-x^2}$, namely
+
+$$d\sqrt{1-x^2} = -\frac{x \cdot dx}{\sqrt{1-x^2}}$$
+
+We have seen that
+$$e^{\theta i} = \cos \theta + \sin \theta \cdot i$$
+Write also $e^{\vartheta i} = \cos \vartheta + \sin \vartheta \cdot i$
+Multiply $e^{(\theta + \vartheta)i} = \cos (\theta + \vartheta) + \sin (\theta + \vartheta) i =$

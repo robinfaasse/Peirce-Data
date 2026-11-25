@@ -1,0 +1,44 @@
+[marginalia]
+$k_2 = k_1 - 1$
+$k_1 - k_2 = 1$
+[/marginalia]
+
+$\frac{1}{k_1} D_1 \mu^{k_1} = -\frac{2}{k_1} \int \mu^{k_2}$
+
+[marginalia]
+$\lambda' = \frac{\lambda}{k_1} \mu^{-k_2}$
+[/marginalia]
+
+[del]$\mu = \mu$[/del]
+
+$D_1 \mu^{k_1} = -\frac{k_1}{k_2} \varphi^{-\frac{1}{k_2}} \varphi_1$
+
+$\left(\frac{\varphi_1}{k_2} \varphi_1\right) = -\frac{2}{k_1} \int \mu^{k_2}$
+
+$\lambda^2 \left( \frac{1}{k_2} \varphi^{-\frac{1}{k_2}} \varphi_1^2 + \frac{1}{k_2} \varphi^{\frac{k_1}{k_2}} \varphi_2 \right) + \lambda' \varphi_1 \left( \varphi^{\frac{1}{k_2}} + \varphi^{\frac{k_1}{k_2}} \varphi_1 \right)$
+
+$\lambda \left( \frac{1}{k_2} \varphi_1^2 + \frac{1}{k_2} \varphi \varphi_2 \right) + \lambda' \left( \varphi \varphi_1 + \varphi \right) = 0$
+
+$\lambda \left( \varphi_1^2 + \varphi \varphi_2 \right) + \frac{\lambda'}{2} \left( \varphi \varphi_1 + \varphi \right)$
+
+$\lambda' \left( \varphi_1^2 + k_2 \varphi \varphi_2 \right) + \frac{\lambda}{2} k_2 \left( \varphi \varphi_1 + \varphi \right) = 0$
+
+$(01)' = \frac{3}{2} k_2$
+
+$(11)' = \frac{1}{2} k_2$
+
+$(02) = k_2$
+
+$(11) = 1$
+
+$(02)' = (02) + (01)' = \frac{5}{2} k_2$
+
+$(11)' = (11) + (01)' = 1 + \frac{3}{2} k_2$
+
+$(03) = (02) = k_2$
+
+$(12) = (02) + 2(11) = k_2 + 2$
+
+$(03)' = \frac{7}{2} k_2$
+
+$(12)' = \frac{11}{2} k_2 + 4$

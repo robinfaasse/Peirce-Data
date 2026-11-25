@@ -1,0 +1,28 @@
+[marginalia]Ms. 808[/marginalia]
+
+[u]Formal Division of Dyadic Relations[/u].
+
+$a_i$ means $i$ is a relate of the relation in question
+$b_j$ " $j$ " " correlate " " " "
+$\sum_i a_i$ [ins]relation[/ins] ; $\prod_i a_i$ ; $\prod_j b_j$
+$\sum_i \bar{a}_i$ ; $\prod_i \bar{a}_i$ [ins]$\neq 0$[/ins] ; $\sum_j \bar{b}_j$
+
+---
+
+$\sum_i \sum_{i'} a_i \cdot a_{i'} \cdot T_{ii'}$ | $\sum_j \sum_{j'} b_j \cdot b_{j'} \cdot T_{jj'}$
+[del]$\sum_i \prod_{i'} a_i$[/del] |
+$\sum_i \prod_{i'} a_i \cdot (\bar{a}_{i'} + l_{ii'})$ | $\sum_j \prod_{j'} b_j \cdot (\bar{b}_{j'} + l_{jj'})$
+$\sum_i \sum_{i'} a_i \cdot \bar{a}_{i'}$ | $\sum_j \sum_{j'} b_j \cdot \bar{b}_{j'}$
+$\sum_i \prod_{i'} \bar{a}_i \cdot (a_{i'} + l_{ii'})$ | $\sum_j \prod_{j'} \bar{b}_j \cdot (b_{j'} + l_{jj'})$
+$\sum_i \sum_{i'} \bar{a}_i \cdot \bar{a}_{i'} \cdot T_{ii'}$ | $\sum_j \sum_{j'} \bar{b}_j \cdot \bar{b}_{j'} \cdot T_{jj'}$
+
+---
+
+$\sum_i a_i \cdot b_i$ ; $\prod_i \bar{a}_i + \bar{b}_i$
+$\sum_i a_i \cdot \bar{b}_i$ ; $\prod_i \bar{a}_i + b_i$
+$\sum_i \bar{a}_i \cdot b_i$ ; $\prod_i a_i + \bar{b}_i$
+$\sum_i \bar{a}_i \cdot \bar{b}_i$ [ins]$\neq$ only 0.[/ins] ; $\prod_i a_i + b_i$ [ins]must be except 0[/ins]
+
+$\prod_i a_i \bar{b}_i + \bar{a}_i b_i = \prod_i (a_i + b_i) \cdot \prod_i (\bar{a}_i + \bar{b}_i)$
+$\sum_i [del]a_i \bar{b}_i[/del] + \sum_i \bar{a}_i [del]b_i[/del]$
+$= \sum_i (\bar{a}_i + b_i) \cdot (a_i + \bar{b}_i)$

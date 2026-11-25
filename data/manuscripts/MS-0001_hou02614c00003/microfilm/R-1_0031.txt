@@ -1,0 +1,18 @@
+[pn]31[/pn]
+
+The secendal notation has also a mathematical
+interest. It expresses a number virtually in the form
+$$a + 2b + 2^2 c + 2^3 d + 2^4 e + \text{etc}$$
+where $a, b, c, d, e,$ etc are such quantities that $a^2 = a,$
+$b^2 = b,$ $c^2 = c,$ $d^2 = d,$ $e^2 = e,$ etc., these quadratic equations
+expressing that they are each either $1$ or $0$. Let us use
+$\sim$ to represent the operation of taking the difference
+between two such quantities. So that if $x^2 = x$ and $y^2 = y$
+$(x \sim y) = (x - y)^2$. This is also a quantity having the
+same property. Let us call such a quantity [ins]of $x$ and $y$,[/ins] a dyadic
+quantity. The sum of two dyadics [del]is[/del] [ins]is expressed in the[/ins]
+secendal notation as $(x \sim y) + 2xy$. For $xy$ is also
+a dyadic. [del]The sum of three dyadics is expressed as[/del] [ins]The operation of taking the difference between[/ins]
+dyadics is associative. That is $(x \sim y) \sim z = x \sim (y \sim z)$.
+Hence we may write $x \sim y \sim z$, without parentheses.
+The [del]off[/del] sum of three dyadics, $x, y, z,$ is expressed as

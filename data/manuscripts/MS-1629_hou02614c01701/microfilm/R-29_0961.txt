@@ -1,0 +1,46 @@
+[pn]Art. 292. Example, 2.[/pn]
+$$x^3 + ax + b = 0$$
+$$\left. 3x^2 + a \right) \begin{array}{l} 3x^3 + 3ax + 3b \\ \underline{3x^3 + ax} \\ \ \ \ \ \ \ \ \ 2ax - 3b \end{array} \left( x \right.$$
+$$\left. \begin{array}{l} 6ax^2 + 2a^2 \\ \underline{6ax^2 + 9bx} \\ \ \ \ \ \ -9bx + 2a^2 \\ \ \ \ \ \ -18abx + 4a^3 \\ \ \ \ \ \ \underline{-18abx - 27b^2} \\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ -27b^2 - 4a^3 \end{array} \right( -3x + 9b$$
+
+$$\begin{array}{l} u = x^3 + ax + b \\ U = 3x^2 + a \\ U' = -2ax - 3b \\ U'' = -27b^2 - 4a^3 \end{array}$$
+
+$$\begin{array}{ccc} & \text{If } a = + & \text{If } a = - \\ & \begin{array}{cc} x = \infty & x = -\infty \end{array} & \begin{array}{cc} x = \infty & x = -\infty \end{array} \\ \begin{array}{c} u \\ U \\ U' \\ U'' \end{array} & \begin{array}{cc} + & - \\ + & + \\ - & + \\ \pm & \pm \\ 1 & 2 \\ \underline{2} & \underline{1} \\ & 1 \end{array} & \begin{array}{cc} + & - \\ + & + \\ + & - \\ \pm & \pm \\ 3 & 0 \\ \underline{2} & \underline{1} \\ & 1 \end{array} \text{ or } \begin{array}{c} 3 \\ \underline{2} \\ 1 \end{array} \end{array}$$
+
+Hence in this equation there is only one [ins]real[/ins] root except in the case where [u]$a$ is negative and less than $\sqrt[3]{\frac{27}{4} b^2}$[/u] when there [del]may be[/del] [ins]are[/ins] 3.
+
+[fig]Signature flourish[/fig] Charles S. Peirce
+
+[pn]Art 315. Ex 2[/pn]
+$$8y^3 + 34y^2 - 79y + 30 = 0$$
+$$y = 4x$$
+$$y^3 + 17y^2 - 158y + 240 = 0$$
+$$d = 1 + \sqrt{158} = 13.5698$$
+$$y^3 - 17y^2 - 158y - 240 = 0$$
+$$d' = -(1 + 240) = -241$$
+
+$$\begin{array}{l} m = 240 \\ p_1 \ \ \ \ 12 \ \ 10 \ \ 8 \ \ 6 \ \ 5 \ \ 4 \ \ 3 \ \ 2 \ \ 1 \ \ -1 \ \ -2 \ \ -3 \ \ -4 \ \ -5 \ \ -6 \ \ -8 \ \ -10 \ \ -12 \ \ -15 \ \ -16 \ \ -20 \ \ -24 \ \ -30 \ \ -40 \ \ -48 \ \ -50 \ \ -80 \\ m'_1 \ -138 \ -134 \ -125 \ -115 \ -110 \ -98 \ -73 \ -38 \ 82 \ -338 \ -278 \ -258 \ -218 \ -206 \ -198 \ -185 \ -182 \ -178 \ -174 \ -173 \ -170 \ -168 \ -166 \ -164 \ -163 \ -162 \ -161 \\ m' \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \text{The correct option is \textbf{A. 100 m}}
+
+\textbf{Explanation:}
+
+To find the distance of the object from the tower, we can use trigonometry. Specifically, we can use the tangent function, which is defined as the ratio of the opposite side to the adjacent side in a right-angled triangle.
+
+Let:
+*   $h$ be the height of the tower = $100\text{ m}$
+*   $\theta$ be the angle of depression = $45^\circ$
+*   $d$ be the distance of the object from the foot of the tower.
+
+According to the alternate interior angles theorem, the angle of elevation from the object to the top of the tower is also equal to the angle of depression, which is $45^\circ$.
+
+In the right-angled triangle formed by the tower, the ground, and the line of sight:
+$$\tan(\theta) = \frac{\text{Opposite}}{\text{Adjacent}}$$
+
+$$\tan(45^\circ) = \frac{h}{d}$$
+
+We know that $\tan(45^\circ) = 1$. Substituting the values:
+$$1 = \frac{100}{d}$$
+
+Solving for $d$:
+$$d = 100\text{ m}$$
+
+Therefore, the distance of the object from the tower is $100\text{ m}$.

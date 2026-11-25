@@ -1,0 +1,20 @@
+[pn]MM[/pn]
+[pn]B5[/pn]
+
+[ins]secondly[/ins] multiples of the divisor [del]in[/del] [ins]thirdly[/ins] [del]in[/del] the expeditious and facile way making
+this, and [del]in[/del] [ins]fourthly[/ins] the excellent check upon its accuracy.
+
+In order to show how these multiples are formed, I will form [del]them[/del] [ins]by[/ins]
+this method the first ten multiples of the number 287165693. I [del]begin[/del] [ins]begin[/ins]
+with the units place and successively add three, [u]counting round a cycle[/u]
+[u]of the ten digits[/u], to each multiple, beginning with 3, in order to get the
+next multiple. Observe carefully that there is no tens' place, since no
+number higher than 9 is contained in the cycle. This [ins]addition in[/ins] counting round a
+cycle of the ten digits [del]point[/del] speedily becomes a remarkably facile
+operation in which an error is particularly unlikely. The result is shown
+in Scheme 1. The majority of the numbers in the column so
+formed are greater than the [del]one[/del] numbers just above them; but
+the fourth, seventh, and tenth are smaller. [del]By a geological fancy,[/del] [ins]I call[/ins] such excep-
+[ins]tional multiples[/ins] [del]denominate[/del]
+
+[fig]A circular cycle of digits from 0 to 9 with arrows[/fig]

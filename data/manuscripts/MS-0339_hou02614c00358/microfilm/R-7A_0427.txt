@@ -1,0 +1,26 @@
+[marginalia][date]DEC 19 1901[/date] [date]DEC 29 1901[/date] [pn]209r[/pn][/marginalia]
+
+I will now apply the rules on the last left hand page
+to getting all the essentially different cases.
+[del]A[/del] [ins]For[/ins] [del]quic[/del] [del]A[/del] [ins]consequence[/ins] (including [del]a[/del] [ins]$a \prec a$[/ins] and $a \prec b \prec c$)
+
+$a \prec b \prec c$
+$c \prec (c \prec b) \prec a \prec b$ [del]Rule[/del] [del]by[/del] [del]which[/del]
+[del]$c \prec (c \prec b) \prec b$[/del]
+$a \prec (a \prec c) \prec c$
+$a \prec [ (b \prec b) \prec c ] \prec c$ [del]The simplest case is[/del] [ins]$\therefore$[/ins] [del]$a \prec b \prec c$[/del]
+The simplest case is $[(b \prec b) \prec c] \prec c$
+$a \prec \bar{a} \prec ( [del]b \prec b[/del] [ins]$a \prec c$[/ins] )
+$a \prec [ (c \prec a) \prec a ] \prec a$ The simplest case is $[(a \prec a) \prec a] \prec a$
+$a \prec \bar{b} \prec (a \prec \bar{b})$
+$\{ [ (b \prec a) \prec c ] \prec a \prec b \prec c$
+The best way is to make a [del]resolution into[/del] [ins]diagram[/ins] [fig]Venn diagram with three circles[/fig]
+[del]prime factors[/del]
+[del]It is not all the consequences but the[/del]
+[del]contradictables. Call[/del]
+[del]In T, by an elemental consequence having the same[/del] [del]ultimate consequent[/del] [del]as T and having[/del]
+[del]all the antecedents of T, or only ante-[/del]
+[del]cedents, which can be produced by[/del]
+[del]replacing any or all these antecedents, by[/del]
+[del]a consequence having for its consequent and[/del]
+[del]for its antecedent[/del]

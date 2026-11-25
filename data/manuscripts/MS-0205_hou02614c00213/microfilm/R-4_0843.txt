@@ -1,0 +1,34 @@
+[pn]RR[/pn] [pn]25[/pn]
+
+[u]Corollary 6[/u]. Whatever cardinal numbers [u]M[/u] and [u]N[/u] may be,
+[u]M[/u] x [u]N[/u] > [u]M[/u] unless [u]M[/u] = 0 or [u]N[/u] = 0 or [u]N[/u] = [u]G[/u]0 and
+[u]M[/u] x [u]N[/u] > [u]N[/u] unless [u]N[/u] = 0 or [u]M[/u] = 0 or [u]M[/u] = [u]G[/u]0.
+
+For suppose [u]M[/u] is a cardinal number having this character, that
+either [u]M[/u] = 0 or if [u]N[/u] > [u]G[/u]0 [u]M[/u] x [u]N[/u] > [u]M[/u].
+
+Then, if [u]M[/u] = 0, [u]G[/u][u]M[/u] = [u]G[/u]0 [u]G[/u][u]M[/u] x [u]N[/u] = [u]G[/u]0 x [u]N[/u] = [u]N[/u] and if [u]N[/u] > [u]G[/u]0, [u]N[/u] > [u]G[/u][u]M[/u],
+so that [u]G[/u][u]M[/u] x [u]N[/u] > [u]G[/u][u]M[/u] if [u]N[/u] > [u]G[/u]0.
+
+But if [u]M[/u] is not 0, [u]G[/u][u]M[/u] x [u]N[/u] = [u]N[/u] + [u]M[/u] . [u]N[/u] which by hypothesis is
+greater than [u]N[/u] + [u]M[/u] if [u]N[/u] > [u]G[/u]0. That is, [u]G[/u][u]M[/u] x [u]N[/u] > [u]G[/u]0 + [u]M[/u]. But
+[u]G[/u]0 + [u]M[/u] = [u]G[/u](0 + [u]M[/u]) = [u]G[/u][u]M[/u], so that again [u]G[/u][u]M[/u] x [u]N[/u] > [u]G[/u][u]M[/u] if [u]N[/u] > [u]G[/u]0.
+
+Hence, the character if possessed by [u]M[/u] is possessed by [u]G[/u][u]M[/u]. But it
+is manifestly possessed by zero; and therefore, by the Fermatian Principle,
+is possessed by every cardinal number.
+
+Next suppose [u]M[/u] is a cardinal number having the character of being 0 or
+[u]G[/u]0 or giving [u]M[/u] x [u]N[/u] > [u]N[/u] when [u]N[/u] > 0.
+
+If [u]M[/u] = 0 [u]G[/u][u]M[/u] = [u]G[/u]0.
+
+If [u]M[/u] = [u]G[/u]0 [u]G[/u][u]M[/u] = [u]G[/u][u]G[/u]0. [u]G[/u][u]M[/u] x [u]N[/u] = [u]G[/u][u]G[/u]0 x [u]N[/u] = [u]N[/u] + [u]G[/u]0 . [u]N[/u] = [u]N[/u] + [u]N[/u] which
+is greater than [u]N[/u] if [u]N[/u] > 0. So that [u]G[/u][u]M[/u] + [u]N[/u] > [u]N[/u] if [u]N[/u] > 0
+
+If [u]M[/u] > [u]G[/u]0 [u]G[/u][u]M[/u] x [u]N[/u] = [u]N[/u] + [u]M[/u] . [u]N[/u] But by hypothesis [u]M[/u] x [u]N[/u] > [u]N[/u] [del]unless[/del]
+[del][u]N[/u] = 0[/del] so that [u]N[/u] + [u]M[/u] . [u]N[/u] > [u]N[/u] if [u]N[/u] > 0 and [u]G[/u][u]M[/u] x [u]N[/u] > [u]N[/u] if [u]N[/u] > 0
+
+Thus if [u]M[/u] has the character so has [u]G[/u][u]M[/u]. But zero manifestly
+has the character, so that, by the Fermatian Principle so has every
+cardinal number.

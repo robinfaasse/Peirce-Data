@@ -1,0 +1,24 @@
+[pn]148[/pn]
+
+60. A Mormon [del]was[/del] [ins]being[/ins] asked how many wives he had, [del]He asked[/del] [ins]suggested that[/ins] the questioner [del]to[/del] [ins]should[/ins] make three guesses. The first guess was 4, and was pronounced wrong. The second guess was 5. "Well," said the Mormon, "that is not right, and, in fact, your guesses are so very, very far out of the way, that I will give you a pretty broad hint. The cube of the excess of the number over 3, [del]increased by 8[/del] [ins]over 8[/ins] is the excess of the square of one less than the number.
+
+Let [u]x[/u] be the number. Then, the equation is,
+(x - 3)³ = (x - 1)² - 8 ;
+
+or, developing,
+x³ - 9x² + 27x - 27 = x² - 2x + 1 - 8 ;
+
+or, adding - x² + 2x + 7,
+x³ - 10x² + 29x - 20 = 0.
+
+Now, we know that 4 is not the number. Hence, x - 4 is not zero, and we may divide [ins]the first member of the equation[/ins] by x - 4, and the quotient will still be zero. We proceed by long division, as in numbers
+
+[fig]Long division of x^3 - 10x^2 + 29x - 20 by x - 4[/fig]
+x - 4 ) x³ - 10x² + 29x - 20 ( x² - 6x + 5
+x³ - 4x²
+- 6x²
+- 6x² + 24x
+5x
+5x - 20
+
+Thus we have x² - 6x + 5 = 0.

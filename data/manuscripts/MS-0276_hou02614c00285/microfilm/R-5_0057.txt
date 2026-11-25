@@ -1,0 +1,36 @@
+[pn]1[/pn]
+
+[marginalia]
+[del]Secundal Arithmetic[/del]
+[/marginalia]
+
+Rule of addition. [del]The numbers[/del] [ins]To[/ins] be added [ins](supposing them all to be positive)[/ins] are to be written in secundal form so that the figures [del]all[/del] in the same secundal place (that is, the coefficients of the same power of two) belonging to the different numbers are in the same vertical column and the column containing coefficients of a power of two exceeding by one the [del]one[/del] corresponding power of another column is to be placed immediately to the left of this latter.
+
+Then [del]beginning at the[/del] [ins]perform the following operation namely[/ins] right hand most column [del]and[/del] [ins]which[/ins] contains [del]two[/del] [ins]more than[/ins] [u]one[/u] [del]ones[/del] [ins]one[/ins] (the columns of the figure 1)
+
+***
+
+Let [del]g[/del] [ins]$\bar{g}$[/ins] stand for $\cos$ etc
+" $g$ " $\sin r$ etc
+
+[fig]Geometric diagram with angles and vectors labeled g1, g2, g3, g4[/fig]
+
+$h = v_2 + v_4$
+$k = v_1 + v_3$
+
+$\gamma_1 = g_1 g_2 - \bar{g}_1 \bar{g}_2 \Gamma$
+$\gamma_2 = g_2 \bar{g}_3 + \bar{g}_2 g_3 \Gamma$
+$\gamma_3 = g_3 g_4 - \bar{g}_3 \bar{g}_4 \Gamma$
+$\gamma_4 = g_4 \bar{g}_1 + \bar{g}_4 g_1 \Gamma$
+$\bar{k} = \bar{g}_1 \bar{g}_2 + g_1 g_2 \Gamma$
+$\bar{\eta} = \bar{g}_2 \bar{g}_3 + g_2 g_3 \Gamma$
+[del]$\bar{k}$[/del] $\bar{k} = g_1 g_3 - \bar{g}_1 \bar{g}_3$
+[del]$\bar{\eta}$[/del] $\bar{\eta} = g_2 g_4 - \bar{g}_2 \bar{g}_4$
+
+$\bar{\gamma}_1 = \sqrt{1 - g_1^2 g_2^2 + \bar{g}_1^2 \bar{g}_2^2 \Gamma^2 + 2 g_1 \bar{g}_1 g_2 \bar{g}_2 \Gamma}$
+
+$\bar{\gamma}_3 = \sqrt{1 - g_3^2 g_4^2 - \bar{g}_3^2 \bar{g}_4^2 \Gamma^2 + 2 g_3 \bar{g}_3 g_4 \bar{g}_4 \Gamma}$
+
+[del]$\bar{\gamma}_1 \bar{\gamma}_3 = \bar{g}_1 \bar{g}_2 - \bar{g}_3 \bar{g}_4$[/del] But $\bar{g}^2 = 1 - g^2$ $\therefore \bar{g}_1^2 \bar{g}_2^2 = (1 - g_1^2)(1 - g_2^2) = 1 - g_1^2 - g_2^2 + g_1^2 g_2^2$
+
+$\bar{\gamma}_1^2 = 1 - g_1^2 g_2^2 - \Gamma^2 + \bar{g}_1^2 \bar{g}_2^2 \Gamma^2 + \bar{g}_1^2 \bar{g}_2^2 \Gamma^2$

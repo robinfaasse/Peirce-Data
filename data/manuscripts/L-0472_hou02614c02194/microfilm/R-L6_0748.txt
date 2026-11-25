@@ -1,0 +1,24 @@
+[pn]6[/pn]
+
+from the actual vertical point of the photographs through the
+west to the photographed vertical. [del]Let [u]I[/u] be the variable[/del]
+[del]angle for this point[/del] Let [u]I[/u] and [u]r[/u] be the coördinates of points
+on the sun's limb, [u]I[/u]$_{v}$ be the value of [u]I[/u] for the vertex. The
+values of [u]r[/u] must then be corrected by adding
+$(\delta_{3}^{2} - C) \cos^{2} (\vartheta - \vartheta_{v}) + C$.
+
+Then from the formula,
+$r = R - (e \cos E) \cos \vartheta - (e \sin E) \sin \vartheta$
+[u]e[/u] and [u]E[/u] must be determined by least squares. The quantities
+express the excentric position of the origin of coördinates with
+respect to the sun's centre.
+
+The [ins]measures of the[/ins] moon's limb are next to be treated in a precisely similar
+way, using the same values of $\delta_{3}^{2}$ and C, after correcting for the
+different diameter of the moon. Let E$_{m}$ and e$_{m}$ be the resulting
+values of e and E for the moon. [del]In the case of a transit this maybe omitted.[/del]
+
+Let $\vartheta_{n}$ be the direction and $\Delta$ the distance of the second ori-
+gin from the first. Then these must be corrected by making
+$\tan (\vartheta'_{n} - \vartheta_{v}) = \tan (\vartheta_{n} - \vartheta_{v}) \cdot \frac{1 + \delta_{3}^{2}}{1 + C}$
+$\Delta' = (1 + \frac{1}{2} \delta_{3}^{2} \sin^{2} (\vartheta_{n} - \vartheta_{v})) (1 + \frac{1}{2} C \cos^{2} (\vartheta_{n} - \vartheta_{v})) \Delta$

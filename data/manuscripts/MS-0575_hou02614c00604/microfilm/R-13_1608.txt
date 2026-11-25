@@ -1,0 +1,38 @@
+[u]Theorem IV[/u]. If [u]x[/u] < [u]y[/u] then [u]n[/u]-[u]y[/u] < [u]n[/u]-[u]x[/u].
+
+From [u]x[/u] < [u]y[/u], by theorem 3, and corollary 9, and I
+
+[u]x[/u],[u]n[/u]-[u]y[/u] < [u]y[/u],[u]n[/u]-[u]y[/u] < 0
+
+Hence, by VII, theorem 3, corollary 7, III', and I,
+
+[u]n[/u]-[u]y[/u] < [u]x[/u],[u]n[/u]-[u]y[/u] + [u]n[/u]-[u]x[/u],[u]n[/u]-[u]y[/u] < 0 + [u]n[/u]-[u]x[/u],[u]n[/u]-[u]y[/u] < [u]n[/u]-[u]x[/u],[u]n[/u]-[u]y[/u] < [u]n[/u]-[u]x[/u].
+
+
+[u]Corollary 10[/u]. Put [u]x[/u]+[u]z[/u] for [u]y[/u] in theorem IV
+
+and we have
+
+[u]n[/u]-([u]x[/u]+[u]z[/u]) < [u]n[/u]-[u]x[/u]
+
+So
+
+[u]n[/u]-([u]x[/u]+[u]z[/u]) < [u]n[/u]-[u]z[/u]
+
+Whence by IV' [u]n[/u]-([u]x[/u]+[u]z[/u]) < [u]n[/u]-[u]x[/u],[u]n[/u]-[u]z[/u]
+
+And by corollary 1
+
+[u]n[/u]-[u]x[/u] + [u]n[/u]-[u]z[/u] < [u]n[/u]-([u]x[/u],[u]z[/u])
+
+Otherwise
+
+[del]Corollary 11[/del] Put [del][u]y[/u][/del] [ins][u]y[/u],[u]z[/u][/ins] for [u]x[/u] in theorem IV
+
+and we have
+
+[u]n[/u]-[u]y[/u] < [u]n[/u]-([u]y[/u],[u]z[/u])
+
+So
+
+[u]n[/u]-[u]z[/u] < [u]n[/u]-([u]y[/u],[u]z[/u])

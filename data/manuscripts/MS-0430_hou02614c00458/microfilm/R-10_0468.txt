@@ -1,0 +1,18 @@
+[pn]Logic
+III
+76[/pn]
+
+[u]3[sup]rd[/sup][/u], If [u]v[/u] is [u]both[/u] [u]a[/u] and [u]b[/u], then [u]v[/u] is [u]c[/u].
+[u]4[sup]th[/sup][/u], If [u]v[/u] is [u]c[/u], then [u]v[/u] is [u]either[/u] [u]a[/u] or [u]b[/u].
+[u]5[sup]th[/sup][/u], If [u]v[/u] is [u]both[/u] [u]a[/u] [del]and[/del] [ins]and[/ins] [u]b[/u], then [u]v[/u] is [u]both[/u] [u]b[/u] and [u]a[/u].
+[u]6[sup]th[/sup][/u], If [u]v[/u] is [u]either[/u] [u]b[/u] or [u]a[/u], then [u]v[/u] is [u]either[/u] [u]a[/u] or [u]b[/u].
+[u]7[sup]th[/sup][/u], If [u]v[/u] is [u]both[/u] [u]a[/u] and [u]both[/u] [u]b[/u] and [u]c[/u] (where [u]a[/u], [u]b[/u], [u]c[/u] signifies some definite characters, no matter what) then [u]v[/u] is [u]both[/u], [u]both[/u] [u]a[/u] and [u]b[/u], and [u]c[/u]; and we say that [u]v[/u] is at once [u]a[/u], [ins]and[/ins] [u]b[/u], and [u]c[/u].
+[u]8[sup]th[/sup][/u], If [u]v[/u] is [u]either[/u], [u]either[/u] [u]a[/u] or [u]b[/u], or [u]c[/u], then [u]v[/u] is [u]either[/u] [u]a[/u] or [u]either[/u] [u]b[/u] or [u]c[/u]; and we say that [u]v[/u] is [u]either[/u] [u]a[/u], [u]b[/u], or [u]c[/u].
+[del][u]9[sup]th[/sup][/u], If [u]v[/u] is [u]either[/u] [u]a[/u] or both [u]b[/u] and [u]c[/u], then [u]v[/u] is [u]either[/u] [u]a[/u] or [u]b[/u].[/del]
+
+[u]9[sup]th[/sup][/u], If [u]v[/u] is [u]both[/u] [u]a[/u] and [u]either[/u] [u]b[/u] or [u]c[/u], then [u]v[/u] is [u]either[/u] [u]both[/u] [u]a[/u] and [u]b[/u] or [u]c[/u].
+
+[del][u]10[sup]th[/sup][/u], If [u]v[/u] is [u]a[/u], then [u]v[/u] is if [u]b[/u], then [u]a[/u].[/del]
+[u]10[sup]th[/sup][/u], If [u]v[/u] is if [u]a[/u], then [u]b[/u], then if [u]v[/u] is [u]a[/u], then [u]v[/u] is [u]b[/u].
+[u]11[sup]th[/sup][/u], If [u]v[/u] is [u]b[/u], then [u]v[/u] is if [u]a[/u], then [u]b[/u].
+[u]12[sup]th[/sup][/u], [u]Either[/u] [u]v[/u] is [u]a[/u] or [u]v[/u] is if [u]a[/u] then [u]b[/u].

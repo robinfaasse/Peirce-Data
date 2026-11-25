@@ -1,0 +1,32 @@
+79
+gives a square root of unity (just as the product of negative and
+positive is negative).
+
+It will be remarked that
+$(\frac{1+G}{2})^2 = (\frac{1+G}{2}) \quad (\frac{1-G}{2})^2 = (\frac{1-G}{2}) \quad (\frac{1+G}{2})(\frac{1-G}{2}) = (\frac{1-G}{2})(\frac{1+G}{2}) = 0.$
+$(\frac{A-A^{-1}}{\sqrt{3}})^3 = \frac{1-3A+3A^{-1}-1}{3\sqrt{3}} = -(\frac{A-A^{-1}}{\sqrt{3}}) \quad (\frac{A-A^{-1}}{\sqrt{3}})^2 = A+A^{-1}-2$
+$(\frac{1+G}{2})(\frac{A-A^{-1}}{\sqrt{3}}) = (\frac{A-A^{-1}}{\sqrt{3}})(\frac{1-G}{2}) \quad (\frac{1-G}{2}) \cdot (\frac{A-A^{-1}}{\sqrt{3}}) = (\frac{A-A^{-1}}{\sqrt{3}})(\frac{1+G}{2})$
+
+If therefore we give to $g,h,i,j,k,l$ the values
+$g = \frac{1+G}{2} \quad h = \frac{1-G}{2} \qquad\qquad g = (\frac{1+G}{2})[1+(\frac{A-A^{-1}}{\sqrt{3}})^2] \quad h = (\frac{1-G}{2})[1+(\frac{A-A^{-1}}{\sqrt{3}})^2]$
+$i = \frac{(1+G)}{2} \frac{(A-A^{-1})}{\sqrt{3}} \quad [del]j[/del] [ins]l[/ins] = \frac{(1-G)}{2} \frac{(A^{-1}-A)}{\sqrt{3}}$
+$j = - \frac{1+G}{2} (\frac{A-A^{-1}}{\sqrt{3}})^2 \quad k = -(\frac{1-G}{2})(\frac{A-A^{-1}}{\sqrt{3}})^2$
+
+we have the following multiplication table, where the first factor is
+entered at the side, the second at the top.
+
+[fig]table with columns g, h, i, j, k, l and rows g, h, i, j, k, l showing multiplication results[/fig]
+
+We thus see that, from an algebraical
+point of view, there is no simpler form of
+calculation than to use the quantities
+$g\rho_{123} = \frac{1}{6}(\rho_{123} + \rho_{231} + \rho_{312} + \rho_{321} + \rho_{132} + \rho_{213})$
+$h\rho_{123} = \frac{1}{6}(\rho_{123} + \rho_{231} + \rho_{312} - \rho_{321} - \rho_{132} - \rho_{213})$
+$i\rho_{123} = \frac{1}{6}(2\rho_{123} - \rho_{231} - \rho_{312} + 2\rho_{321} - \rho_{132} - \rho_{213})$
+$l\rho_{123} = \frac{1}{6}(2\rho_{123} - \rho_{231} - \rho_{312} - 2\rho_{321} + \rho_{132} + \rho_{213})$
+$j\rho_{123} = \frac{\sqrt{3}}{6}(\rho_{231} - \rho_{312} + \rho_{132} - \rho_{213})$
+$k\rho_{123} = \frac{\sqrt{3}}{6}(-\rho_{231} + \rho_{312} + \rho_{132} - \rho_{213})$
+
+That is, $\rho_{123} = (g+h+i+l)\rho_{123} \quad \rho_{231} = (g+h-\frac{1}{2}i+\frac{\sqrt{3}}{2}j-\frac{\sqrt{3}}{2}k-\frac{1}{2}l)\rho_{123}$
+$\rho_{321} = (g-h+i-l)\rho_{123} \quad \rho_{312} = (g+h-\frac{1}{2}i-\frac{\sqrt{3}}{2}j+\frac{\sqrt{3}}{2}k-\frac{1}{2}l)\rho_{123}$
+$\rho_{132} = (g-h-\frac{1}{2}i+\frac{\sqrt{3}}{2}j+\frac{\sqrt{3}}{2}k+\frac{1}{2}l)\rho_{123} \quad \rho_{213} = (g-h-\frac{1}{2}i-\frac{\sqrt{3}}{2}j-\frac{\sqrt{3}}{2}k+\frac{1}{2}l)\rho_{123}$

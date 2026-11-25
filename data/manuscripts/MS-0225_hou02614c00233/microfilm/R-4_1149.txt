@@ -1,0 +1,53 @@
+M.B. Get $h$ & $K$ in the right quadrant by com-
+parison with former year. But it is perhaps
+better to take $h$ & $K$ both in the wrong quadrant
+& then call $\Delta = 180^\circ + h + K$. $i$ will come
+out right. To do this take both in $1^{\text{st}}$ quad 1874 etc and take $\Omega' = K - h$
+$4^{\text{th}}$ quadrant 1876 probably.
+
+<u>4. To Calculate Moon's Mean Long</u>
+
+Take out $\mathbb{C}$ from [del]Solar[/del] Tables [ins]and add $\mathbb{C}$ to it $8''$ each yr[/ins]
+[marginalia]
+$\begin{array}{r} 3.352 \\ \hline 8^\circ \ 52.255 \end{array}$
+[/marginalia]
+
+<u>5 To Calculate Long Moon's Ascending Node</u>
+Take $\Omega$ from tables & subtract it from $360^\circ$
+
+Take out the mean obliquity for the beginning & end
+of the year & interpolate to every tenth day by
+linear interpolation
+Add this to $\Omega_2 + \Omega_0$ and you have the Obli-
+quity. Test by differencing
+
+<u>3. To Calculate inclination of Moon's [del]Orbit[/del] [ins]Equator[/ins] to [del]ca[/del]</u>
+Take $\Omega_0$ from $-\Omega$ found as above
+Take $\frac{1}{2}\Omega$. $\tan \frac{1}{2}\Omega$
+Find $h$ & $K$ by the formulae
+$\tan h = [.05408] \tan \frac{1}{2}\Omega$
+$\tan K = [.00232] \tan \frac{1}{2}\Omega$
+Find $\Delta$ & $\Omega'$ by the formulae
+$\Delta = 180^\circ - (h+K)$
+$\Omega' = h-K$
+Find $i$ by Formula
+$\sin i = \sin \Omega \ \text{cosec} \ \Delta \ [-.40003]$
+Test $\Delta$ & $i$ by differencing
+$i = \text{Inclination of moon's equator to ea-this' equator}$
+$\Delta = \text{descending node on earths eq. & ascending node on ecl.}$
+$\Omega' = \text{Ascending node on earths equator.}$
+
+[marginalia]
+$h$ & $K$
+& $\Delta$
+must
+be
+calculated for
+every $40^{\text{th}}$ day
+& interpolate.
+because the
+precise value of
+$\sin \Delta$ is needed
+to get $i$.
+to seconds
+[/marginalia]

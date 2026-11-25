@@ -1,0 +1,14 @@
+[pn]MM
+D69[/pn] Whereupon, the successive approximations to the root of smallest
+modulus, if there be such a root will be $S_0/S_{-1}$, $S_{-1}/S_{-2}$, $S_{-2}/S_{-3}$, etc.
+[del]If there has[/del] In case there should be no root having a modulus less
+than any other, this series of values will not converge toward any
+limit. In order to get the root of largest modulus, we throw the
+very same equation, $\sum_0^n a_i S_{r+i} = 0$ into the form $S_{r+n} = -\frac{1}{a_n} \sum_0^{n-1} a_i S_{r+i}$
+$S_{r+2} = -\frac{1}{a_2} \sum_0^{n-1} a_i S_{r+i}$ and then giving $r$ successively the values
+$0, +1, +2, +3$ etc., calculate successively $S_n, S_{n+1}, S_{n+2}$ etc.
+Whereupon, [del]as before[/del] [ins]exactly as[/ins], $\frac{S_{n+1}}{S_n}, \frac{S_{n+2}}{S_{n+1}}$, etc will approximate [del]very rapidly[/del]
+this time to the root of largest modulus. [del]Here are[/del] [ins]We find here[/ins] the substitutes and
+the approximations for our Example No. 2. The printer has
+been obliged to put it in two sections [del]of the opposite[/del]
+[del]on the opposite pages.[/del] [ins](Don't print this in unless it be true)[/ins]

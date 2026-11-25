@@ -1,0 +1,20 @@
+[pn]Cn
+23[/pn] lower power of B, whose exponent is some aliquot part of $p-1$. Thus,
+taking B=10 and $p=3$, not only is $10^{3-1}-1$, or 99, divisible by 3 but
+so is $10^{\frac{1}{2}(3-1)}-1$, or 9, equally so divisible. In the case of $p=37$, not
+only does $10^{36}$ exceed by 1 a multiple of 37, but so does $10^{\frac{1}{12}(37-1)} = 10^3$.
+For $27 \times 37 = 999$. Indeed, the majority of primes fail to possess the
+properties of 7 for the same reason; and the smallest numbers, after 142857,
+which have the peculiarities of this number are
+
+[fig]black circle[/fig]
+
+0588235294117647
+052631578947368421
+0434782608695652173913
+0344827586206896551724137931
+
+Such numbers are simply periods of circulating decimals, and are to be
+calculated by division. If the period of the decimal expression of $1/p$ turns
+[del]out to be $p-1$ and no[/del] [ins]consist of $p-1$ figures,[/ins] [del]and not of an aliquot part of this number, it has to pro-[/del]
+[del]perty in question.[/del] But when the entire circulating expression of the quotient is

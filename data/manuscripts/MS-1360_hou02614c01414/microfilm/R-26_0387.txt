@@ -1,0 +1,28 @@
+[fig]horizontal line with ticks and labels[/fig]
+[del]6 C'_{2s+1} \Omega X = -24[/del]
+
+[del]$\begin{aligned} & 6 C'_{2s+1} \Omega X = -24 \Omega X \\ + & C'_{2s+1} = + 6 X^2 \end{aligned}$[/del] $\left. \vphantom{\begin{aligned} & 6 C'_{2s+1} \Omega X = -24 \Omega X \\ + & C'_{2s+1} = + 6 X^2 \end{aligned}} \right\} = 6 C'_{2s-1} \Omega X + C''_{2s-1}$
+
+$$x_3^4 + c'_3 x_3^3 + C''_3 x_3^2 + C'''_3 x_3 + C^{IV}_3$$
+[del]$16 X^2 + C'_3$[/del]
+
+[del]$y$[/del] $x_3 - 2X = \xi_3$ [ins]$y_3 = \xi_3 + 2X$[/ins]
+$x_3^2 - 4X x_3 + 4X^2 = \xi_3^2$ [del]$x_3^2 = \xi_3^2 + 2X \xi_3$[/del] [del]$+ 4X^2$[/del]
+$$\begin{aligned}
+x_3^2 &= \xi_3^2 + 4X \xi_3 + 4X^2 \\
+x_3^3 &= \xi_3^3 + 6 \xi_3^2 [ins]$X$[/ins] + 12 X^2 \xi_3 + 8 X^3 \\
+x_3^4 &= \xi_3^4 + 8X \xi_3^3 + 24X^2 \xi_3^2 + 32X^3 \xi_3 + 16X^4
+\end{aligned}$$
+
+$$\begin{aligned}
+y = \xi_3^4 + (8X + c'_3) \xi_3^3 &+ ([del]24[/del] [ins]$24$[/ins] X^2 + 6X C'_3 + C''_3) \xi_3^2 + (32X^3 + 12X^2 C'_3 + 4X C''_3 + C'''_3) \xi_3 \\
+&+ 16X^4 + 8X^3 C'_3 + 4X^2 C''_3 + 2X C'''_3 + C^{IV}_3
+\end{aligned}$$
+
+***
+
+[u]$$\begin{aligned}
+& \cdot 8X^3 + C' \\
+& \underline{8X^3 + 4 C' X^2 + 2 C'' X + C''' = 0} \\
+& \frac{32 X^3 + 12 C' X^2 + 4 C'' X + C'''}{24 X^3 + 8 C' X^2 + 2 C'' X} = C'''_{n+1}
+\end{aligned}$$[/u]

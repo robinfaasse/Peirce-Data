@@ -1,0 +1,22 @@
+[marginalia]Hyp Geom[/marginalia]
+is shown by the formula
+$$\cosh \underline{h} = \cot A \cdot \cot B$$
+That is when $A = 0$, $\cosh \underline{h} = \infty$, $\underline{h} = \infty$. Thus the absolute,
+line which is the locus of points infinitely distant, must
+be represented by a finite circle. For the radius vector is
+finite where it is tangent to the circle representing
+the straight line perpendicular to another radius
+vector. Let the equation of the circle representing
+the absolute be
+$$r = L$$
+Then every circle orthogonal to this circle will repre-
+sent a straight line. The general form of equation
+of such a circle is
+$$(x - \frac{l^2 + L^2}{2l})^2 + y^2 = (\frac{l^2 - L^2}{2l})^2$$
+The same equation holds if $l$ instead of the minimum, [del]is the maximum[/del]
+[del]Comparing[/del] [ins]and[/ins] with the forms of the equation last
+given, it appears [del]that[/del] from the first [del]form[/del] that
+[del]$l = L \frac{\cosh \frac{a}{2}}{\tanh \frac{a}{2}}$[/del] $L^2 = l^2 \tanh^2 \frac{a}{2}$ or $= l^2 \coth^2 \frac{a}{2}$
+and from the second member
+[del]$l = L \coth \frac{a}{2}$[/del] $L^2 = l^2 \tanh^2 \frac{a}{2}$ or $l^2 (1 - \text{cosech}^2 \frac{a}{2})$
+Note that $L = C$.

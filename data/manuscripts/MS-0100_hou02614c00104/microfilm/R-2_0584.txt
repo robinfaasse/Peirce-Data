@@ -1,0 +1,128 @@
+[marginalia]
+A m d
+[del]m d[/del] m n d
+[/marginalia]
+
+[marginalia]
+A m n d m d o d
+m n d m o d
+n o d
+m n o d
+[/marginalia]
+
+[marginalia]
+p q
+m p q
+n p q
+m n p q
+o p q
+m o p q
+p q
+m n o p q
+[/marginalia]
+
+[fig]Two intersecting lines[/fig]
+
+[marginalia]
+1
+2
+4
+8
+16
+[/marginalia]
+
+[fig]Two connected triangles[/fig]
+
+[marginalia]
+A[sub]1[/sub] A[sub]2[/sub] A[sub]3[/sub]
+A[sub]12[/sub] A[sub]13[/sub]
+A[sub]23[/sub]
+A[sub]123[/sub]
+[/marginalia]
+
+[fig]Four points forming a square[/fig]
+
+[fig]Two points connected by a line[/fig]
+
+[u](r x b)a[/u]
+
+[del]r x (b a)[/del]
+(r x b)a
+
+[u]r x a[/u]
+a
+
+[del](a[sup]-1[/sup])[sup]-1[/sup] =[/del]
+
+a[sup]-1[/sup] a[sup]+1[/sup] = a[sup]0[/sup] = 1
+
+(a[sup]-1[/sup])[sup]-1[/sup] [del]r x b[/del] a =
+(r x b) m a A
+
+[del]r x (b a) A[/del]
+
+a[sup]v[/sup]
+
+cos log a + sin log a [sup]v[/sup]
+cos (a - 1) + sin (a - 1) [sup]v[/sup]
+
+***
+
+[u]Logical Propositions[/u]
+[u]Elementary Relatives[/u]
+
+(A : B) (B : C) = A : C
+
+[fig]Shaded rectangle[/fig]
+
+[fig]Triangle[/fig]
+
+A m d etc.
+
+A m n d
+
+(l + m) + n = l + (m + n) Definitions
+
+[del]B[/del] m + n = n + m
+
+l m . n = l . m n
+
+a A = B   b B = C   c A = C
+
+[del]r a = d[/del]
+r x a = d   r x c = f   r x b = e
+
+f A = D   d A = E
+
+[del]e E = e d A = (r x b) (r x a) A[/del]
+
+[del]r x a b = f[/del]
+
+r x a = d  [therefore] r x a A = d A = E
+r x c = f     r x c A = f A = D
+
+[u](r x b) (r x a) A = r x (b a)[/u]
+
+[fig]Pentagon[/fig]
+
+[fig]Angle[/fig]
+
+[fig]Right angle[/fig]
+
+[fig]Obtuse angle[/fig]
+
+[fig]Acute angle[/fig]
+
+If a + b = c
+f(a + b) = f c
+
+[fig]Two parallel lines with arrows[/fig]
+
+[fig]Three-dimensional vector diagram with points A, B, C, D, E[/fig]
+
+[fig]Parallelogram[/fig]
+
+b = [u]C[/u] = [u]c A[/u]
+    B   a A
+
+r x b =

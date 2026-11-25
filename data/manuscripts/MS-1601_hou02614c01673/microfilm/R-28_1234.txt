@@ -1,0 +1,61 @@
+[marginalia]
+[del]01[/del]
+[del]001[/del]
+[del]0001[/del]
+[/marginalia]
+
+30102999566 [ins]log 19[/ins] 21110110100001110
+15051499783 [ins]x[/ins] 27875360095 1001
+07525749892 - 15051499783
+03762874946 - 12823861312
+01881437473 - 07525749892
+00940718737 + 05298111420
+00470359309 - 03762874946
+00235117968 + 01881437474
+00117589042 - 00940718737
+00058794921 + 00470359309
+00029397461 - 00235117968
+00014698730 + 00117589042
+00007349365 - 00058794921
+00003674683 - 00029397461
+00001837341 - 00014698730
+00000918671 - 00007349365
+00000459335 - 00003674683
+00000229667 - 00001837341
+00000114834 - 00000918671
+00000057417 - 00000459335
+00000028708 - 00000229667
+00000014354 - 00000114834
+00000007177 - 00000057417
+00000003588 - 00000028708
+00000001794 - 00000014354
+00000000897 - 00000007177
+00000000448 - 00000003588
+00000000224 - 00000001794
+00000000112 - 00000000897
+00000000056 - 00000000448
+00000000028 - 00000000224
+00000000014 - 00000000112
+00000000007 - 00000000056
+00000000003 - 00000000007
+00000000001 - 00000000003
+00000000000 - 00000000001
+
+[u]2[/u][sup]x[/sup] = a + bx + cx[sup]2[/sup]
+2[sup]x[/sup] = a[sub]0[/sub] + a[sub]1[/sub]x + a[sub]2[/sub]x[sup]2[/sup] + a[sub]3[/sub]x[sup]3[/sup] + etc
+2[sup]0[/sup] = 1 [ins]∴[/ins] a[sub]0[/sub] = 1
+2[sup]1[/sup] = 2 ∴ [del]2[sup]x[/sup]/x[/del] = a[sub]0[/sub] + a[sub]1[/sub] + a[sub]2[/sub]x + a[sub]3[/sub]x[sup]2[/sup] + etc
+[del]2[sup]x[/sup]/x[/del] [ins]2[sup]1[/sup]/1[/ins] = 2[sup]1[/sup] = 1 + a[sub]1[/sub] + a[sub]2[/sub] + a[sub]3[/sub] + a[sub]4[/sub] + a[sub]5[/sub]
+[del]2[sup]2[/sup]/2[/del] [ins]2[sup]2[/sup]/2[/ins] = [del]1/2[/del] + a[sub]1[/sub] + 2a[sub]2[/sub] + 4a[sub]3[/sub] + 8a[sub]4[/sub]
+
+2 = 2[sup]1[/sup] = 1 + a[sub]1[/sub] + a[sub]2[/sub] + a[sub]3[/sub] + a[sub]4[/sub] + a[sub]5[/sub] + etc
+2 = 2[sup]2[/sup]/2 = [del]1/2[/del] + a[sub]1[/sub] + 2a[sub]2[/sub] + [del]20/25[/del] [ins]4[/ins]a[sub]3[/sub] + [del]11/16[/del] [ins]8[/ins]a[sub]4[/sub] + etc
+2[sup]1[/sup] = 1 + a[sub]1[/sub] + a[sub]2[/sub] + [del]36/49[/del] [ins]a[sub]3[/sub][/ins] + [del]24/32[/del] [ins]a[sub]4[/sub][/ins] + etc
+2[sup]2[/sup] = 1 + 2a[sub]1[/sub] + 4a[sub]2[/sub] + [del]85/134[/del] [ins]8[/ins]a[sub]3[/sub] + [del]16[/del]a[sub]4[/sub] + [del]32[/del]a[sub]5[/sub] + etc
+= a[sub]1[/sub] + 3a[sub]2[/sub] + 7a[sub]3[/sub] + 15a[sub]4[/sub] + 31a[sub]5[/sub] + etc
+
+[fig]Table of differences and numerical calculations[/fig]
+
+[fig]Table of numbers and differences[/fig]
+
+[fig]Calculations with fractions and integers[/fig]

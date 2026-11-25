@@ -1,0 +1,44 @@
+[pn]5[/pn]
+
+There are a vast number of little dodges for the advanced
+arithmetic. For example required $\sqrt[5]{2}$. Here is how to
+do it. $u_{n+5} = u_n + 5u_{n+1} + 10u_{n+2} + 10u_{n+3} + 5u_{n+4}$
+
+0
+0
+0
+0
+1
+5
+35
+235
+1580
+10626
+71460
+480570
+3231845
+
+$\sqrt[5]{2}$ is about $1\frac{71460}{480570} = 1.14869842$
+$\sqrt[5]{2}$ is about $1\frac{480570}{3231845} = 1.14869835$
+
+Numbers can by themselves express nothing but serial order.
+Hence it must be possible to arrange the [del]rational[/del] [ins]rational[/ins] fractions
+in their order of values without doing more than count the
+places. The rule is as follows:
+
+[u]1[sup]st[/sup][/u] Write
+$\frac{0}{1} < \frac{1}{1} < \frac{2}{1} < \frac{3}{1} < \frac{4}{1} < \text{etc}$
+and
+$\frac{1}{0} > \frac{1}{1} > \frac{1}{2} > \frac{1}{3} > \frac{1}{4} > \text{etc}$
+
+[u]2[sup]nd[/sup][/u] Having written all the fractions of $\left\{\begin{smallmatrix}\text{denominators}\\\text{numerators}\end{smallmatrix}\right\}$
+less than N with [del]signs[/del] [ins]signs[/ins] between each successive two,
+start from just before the fraction with $\left\{\begin{smallmatrix}\text{numerator}\\\text{denominator}\end{smallmatrix}\right\}$ zero
+and mark every (N-1)th interval between a fraction
+and a sign:
+
+[u]3[sup]rd[/sup][/u] Insert the fractions of $\left\{\begin{smallmatrix}\text{denominators}\\\text{numerators}\end{smallmatrix}\right\}$ N in these
+places putting after each fraction the same sign that
+immediately precedes it, if it is a sign that immediately
+preceeds it. But if it immediately follows a
+fraction write = immediately before it. Thus:

@@ -1,0 +1,16 @@
+$$= \sqrt{1-x^2} - \frac{x}{\sqrt{1-x^2}} d + (x+d)i.$$
+
+Thus, when we add to the arc any infinitesimal quantity $\delta$, we multiply the quantity at its extremity by $(1+\delta i)$. Let $N$ be an enormously large quantity, so that $N\delta$ is an ordinary finite [del]arc[/del] [ins]quantity[/ins].
+
+[fig]Diagram showing a geometric construction with arcs and lines[/fig]
+
+If this be added to the arc, the extremity will be multiplied by
+$$(1+\delta i)^N = 1 + N\delta i + \frac{N(N-1)}{2} \delta^2 + \frac{N(N-1)(N-2)}{2 \cdot 3} \delta^3 + \text{etc}$$
+
+Since the numbers 1, 2, 3, etc are very small compared with $N$, this will be
+$$(1+\delta)^N = 1 + N\delta + \frac{1}{2!} (N\delta)^2 + \frac{1}{3!} (N\delta)^3 + \frac{1}{4!} (N\delta)^4 + \text{etc}.$$
+
+Since the numerical coefficients are, after say a vigintillion of them each only a vigintillionth of the last preceding, it follows the terms will at length grow very rapidly smaller, and the sum will not exceed a moderate number. Since the $\delta$ enters into this just as the $N$ does it follows we may write the first member $[(1+\delta)^{\frac{1}{\delta}}]^{\delta N}$ and [del]$(1+\delta)^{\frac{1}{\delta}}$[/del]
+$$(1+\delta)^{\frac{1}{\delta}} = 1 + 1 + \frac{1}{2!} + \frac{1}{3!} + \frac{1}{4!} + \text{etc.}$$
+This being calculated is found to be about [del]2.7182818[/del] [ins]2.7182818[/ins]
+This is called the Neperian base, and may be denoted by $\epsilon$.

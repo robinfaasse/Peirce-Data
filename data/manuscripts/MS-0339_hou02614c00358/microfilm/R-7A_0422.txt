@@ -1,0 +1,43 @@
+The [ins]ultimate[/ins] [del]consequent[/del] [ins]consequent[/ins] must be identical
+with some oddly antecedental
+term
+
+If that oddly antecedental term has
+an antecedent, either that
+antecedent must be capable
+of being written by itself as in
+$[(a \prec a) \prec b] \prec b$
+or it must
+[del]or the whole[/del]
+[del]it must be possible to write by itself[/del]
+[del]that antecedental with its antecedent[/del]
+[del]with its consequent again[/del]
+$[(a \prec b) \prec a] \prec b$
+or substituting the ultimate consequent
+of the consequence for the ultimate
+consequent of that antecedent
+of the oddly antecedental term
+
+$(a \prec a)$
+[del]$a \prec b \prec b$[/del] of itself
+$a \prec b \prec a$
+$a \prec b \prec c \prec a$
+$a \prec b \prec c \prec b$
+$a \prec b \prec c \prec c$
+$(a \prec b) \prec c \prec c$
+$(a \prec b) \prec a \prec b$
+$a \prec (b \prec c) \prec a$
+$a \prec (a \prec b) \prec b$
+$[(a \prec a) \prec b] \prec b$
+$[(a \prec b) \prec a] \prec a$
+$a \prec b \prec c \prec d \prec a$
+$a \prec b \prec c \prec d \prec b$
+$a \prec b \prec c \prec d \prec c$
+$a \prec b \prec c \prec d \prec d$
+3 times $\begin{cases} (a \prec b) \prec c \prec d \prec c \\ (a \prec b) \prec c \prec d \prec d \\ (a \prec b) \prec a \prec c \prec b \\ (a \prec b) \prec c \prec a \prec b \end{cases}$ [ins]$a \overline{b} \prec \overline{c} \prec \overline{d} \prec e$[/ins]
+$(a \prec b \prec c) \prec d \prec d$
+$(a \prec a \prec b) \prec a \prec b$
+twice $\begin{cases} [(a \prec b) \prec c] \prec d \prec d \\ [(a \prec b) \prec b] \prec c \prec b \end{cases}$ [ins]$a \overline{b} \prec \overline{c} \prec \overline{d} \prec e$[/ins]
+[del]$[(a \prec a) \prec b] \prec c \prec b$[/del]
+[del]$[a \prec b \prec c] \prec a$[/del]
+$[(a \prec b \prec c) \prec a] \prec a$ [ins]$a \overline{b} \prec \overline{c} \prec \overline{d} \prec e$[/ins]

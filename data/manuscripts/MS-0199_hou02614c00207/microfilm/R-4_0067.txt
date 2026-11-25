@@ -1,0 +1,23 @@
+[marginalia]
+[del]Sum[/del]
+[del]Diff.[/del]
+[/marginalia]
+
+every 1142. But then only out of every nine happenings would the
+second error just balance the first. Consequently, only in one column
+out of every 10278 would this check prove deceptive, which is perhaps
+a good many more times than it will ever be applied by so poor a compu-
+ter.
+
+There is no fault in the tens' column and therefore no dots to be made in
+the hundreds' column. This is headed by a 6; but the numbers 93 which follow
+it [del]so much[/del] exceed half a unit in
+the hundreds' place [ins]so[/ins] that the 6 must be
+treated as a 7. That is, each number is
+3 numbers removed [del]in the[/del] [ins]counterclockwise[/ins]
+in the cycle of ten numbers, [del]in the[/del]
+[del]other direction,[/del] from the number above it.
+
+Applying this rule, we obtain Scheme 4.
+
+[fig]Table of numbers with columns labeled Scheme 3 and Scheme 4[/fig]

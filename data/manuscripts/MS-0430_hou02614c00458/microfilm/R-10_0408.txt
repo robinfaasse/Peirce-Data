@@ -1,0 +1,24 @@
+[pn]Logic
+III
+80[/pn]
+
+(84) If $(x \prec z) \prec z$ and $y \prec z$ are both scriptible, then
+$(x \prec y) \prec z$ is scriptible.
+
+Proof. For, by (79), if $(x \prec z) \prec z$ is scriptible, either
+$x$ is scriptible or $z$ is scriptible. But if $x$ is scriptible,
+then, by (66), if $x \prec y$ is scriptible $y$ is scriptible; whence,
+if $y \prec z$ is scriptible, again by (66), $z$ is scriptible. Thus,
+in any case, if $(x \prec z) \prec z$ and $y \prec z$ are both scrip-
+tible, then if $x \prec y$ is scriptible $z$ is scriptible. Hence,
+by (68), if $(x \prec z) \prec z$ and $y \prec z$ are both scriptible,
+$(x \prec y) \prec z$ is scriptible. Q.E.D.
+
+(85) [del]Which has no other[/del] [ins]Every[/ins] [del]consequence[/del] [ins]consequent[/ins] whose ultimate [del]constituent[/del] [ins]constituents[/ins] is
+scriptible is scriptible.
+
+For assume this to be true [ins]whenever[/ins] the number of
+[ins]proximate[/ins] antecedental constituents [del]does not exceed[/del] [ins]is less than[/ins] any given
+number, $N$. Then consider a consequence [del]$\Omega_1, \Omega_2 \dots$[/del]
+$\Omega_1, \Omega_2 \dots \Omega_n \prec \Psi$, and of which the ultimate
+constituent $\Psi$ is scriptible. Then, by (65) $\Omega_n \prec \Psi$ is

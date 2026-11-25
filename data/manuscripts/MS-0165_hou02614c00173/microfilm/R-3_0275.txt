@@ -1,0 +1,27 @@
+The first player occupies the opposite corner and makes tit-tat-too.
+This exhausts case 214, and case 21.
+
+Case 22. The second player occupies a side square adjoining the
+occupied square [fig]3x3 grid with X in top-left and O in top-middle[/fig] The first player makes tit-tat-too
+[del]if he[/del] [ins]by[/ins] occupies the centre square and then the corner square
+adjoining two vacant squares; or if he first occupies the last
+corner-square and afterwards [del]either the centre square[/del] or the
+corner square [del]opposite[/del] [ins]adjoining[/ins] two vacant side squares.
+
+Case 23. The second player occupies a corner-square [fig]3x3 grid with X in top-left and O in top-right[/fig]
+not opposite the occupied square. The first player makes
+tit-tat-too, by successively occupying the remaining corner
+squares.
+
+Case 24. The second player occupies a side square [fig]3x3 grid with X in top-left and O in middle-right[/fig]
+adjoining two vacant corner squares. The first player
+makes tit-tat-too by occupying the centre and one of the corners.
+
+Case 25. The second player occupies the corner [fig]3x3 grid with X in top-left and O in bottom-right[/fig]
+opposite the occupied corner. The first player
+makes tit-tat-too by occupying the other two
+corners. This exhausts case 2.
+
+Case 3. The first player occupies a side square [fig]3x3 grid with numbers 1 to 5 indicating moves[/fig]
+The second player has a choice between 5 [del]essential[/del]
+plays as numbered in the figure, making cases 31, 32, 33, 34, 35.

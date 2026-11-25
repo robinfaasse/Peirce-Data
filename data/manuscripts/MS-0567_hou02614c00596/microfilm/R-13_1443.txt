@@ -1,0 +1,13 @@
+[pn]403[/pn] [ins]Let us now seek all the propositions [del]of[/del] deducible, by elimination of $\kappa$, from
+$$\Pi_{\kappa} \Sigma_{a} \Pi_{b} \Sigma_{c}\ U_{a} (\overline{W_{b}} + \overline{\Upsilon}_{\kappa a b} + \Upsilon_{\kappa c b} \overline{I}_{a c})$$[/ins]
+
+We have at once
+$$\text{— } \Sigma_{a} U_{a}.$$
+
+The following proposition is universally true
+$$\Pi_{\alpha} \Pi_{\beta} \Sigma_{\gamma} \Pi_{i} \Pi_{j} \left\{ \overline{\Upsilon}_{\gamma i j} (\overline{\Upsilon}_{\alpha i j} + \overline{\Upsilon}_{\beta i j}) + \Upsilon_{\gamma i j} \Upsilon_{\alpha i j} \Upsilon_{\beta i j} \right\}.$$
+To prove this, note first that if we eliminate $\gamma$ at once, we have an identical proposition. If we raise the whole to a power, there will be no additional mode of elimination, unless $i$, $j$, and $\gamma$ be identified in different factors; but then all the indices must be alike and nothing will be changed. As a special case of this formula we put $U_{i}$ for $\Upsilon_{\beta i j}$. This we can do, because
+$$\Sigma_{\beta} \Pi_{i} \Pi_{j} \left\{ U_{i} \Upsilon_{\beta i j} + \overline{U}_{i} \overline{\Upsilon}_{\beta i j} \right\}$$
+which is true by the same reasoning as that just used. The product of these two formulae gives
+$$\Pi_{\alpha} \Sigma_{\gamma} \Pi_{i} \Pi_{j} \left\{ \overline{\Upsilon}_{\gamma i j} (\overline{\Upsilon}_{\alpha i j} + \overline{U}_{i}) + \Upsilon_{\gamma i j} \Upsilon_{\alpha i j} U_{i} \right\}.$$
+Multiplying this [del]by[/del] [ins]three times into[/ins] the first proposition, identifying $\kappa$ with $\gamma$, $i$ with $a$, and $j$ with $b$,

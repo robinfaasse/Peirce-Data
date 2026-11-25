@@ -1,0 +1,36 @@
+[pn]221[/pn]
+
+If we begin by putting the given number $N$ equal to $0$,
+there is but one number which fulfills the conditions; it
+is $0$. The following table shows how the answer increases
+as $N$ increases
+
+$$\begin{array}{cc}
+N & \text{Answer} \\
+0 & 0 \\
+100 & 0.34885 \\
+200 & 0.72525 \\
+300 & 1.13539 \\
+400 & 1.58805 \\
+500 & 2.09641 \\
+600 & 2.68168 \\
+700 & 3.38199 \\
+800 & 4.27999 \\
+900 & 5.63634
+\end{array}$$
+
+During all this interval there is only one value satisfying
+the conditions for each value of $N$. Nor is there any other
+until $N$ reaches $968$. For $N = 967$ the only answer is $7.89620$
+For $N = 968$, there is the neighboring answer $8.00000$; but
+there also suddenly appears another $11.00000$. This new one
+instantly splits into two. For $N = 968.01$, [del]one[/del] [ins]the[/ins] answer near $8$ is $8.00111$;
+and near $11$ we find $10.94170$ and $11.05719$. For $N = 969$, the
+three answers are
+$$\begin{array}{ccc}
+8.1206[del]6[/del] & 10.34730 & 11.53209
+\end{array}$$
+For $N = 970$ the answers are
+$$\begin{array}{ccc}
+8.2679[del]5[/del] & 10.00000 & 11.73205
+\end{array}$$

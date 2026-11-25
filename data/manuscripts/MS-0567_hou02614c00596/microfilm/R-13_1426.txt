@@ -1,0 +1,21 @@
+[pn]103[/pn] In multiplying a proposition by itself,
+we have the right to choose any point from
+the beginning to the end of the quantifier
+and to identify in two factors all the indices
+to the left of this point while diversifying
+all to the right of it. When there is but
+one index, this is plainly true (see the
+formulae [del]at the bottom[/del] [ins]in first step[/ins] of p. 196); for
+$\Pi_i a_i = (\Pi_i a_i)(\Pi_i a_i) = (\Pi_i a_i)(\Pi_j a_j)$
+$\Sigma_i a_i = (\Sigma_i a_i)(\Sigma_i a_i) = (\Sigma_i a_i)(\Sigma_j a_j)$.
+
+Now
+$(\Pi_i a_i)(\Pi_j a_j) = (a_1 a_2 a_3 \text{ etc.})(a_1 a_2 a_3 \text{ etc.})$
+while
+$\Pi_i \Pi_j a_i a_j = a_1 a_1 \cdot a_1 a_2 \cdot a_1 a_3 \text{ etc.}$
+$\times a_2 a_1 \cdot a_2 a_2 \cdot a_2 a_3 \text{ etc.}$
+$\times a_3 a_1 \cdot a_3 a_2 \cdot a_3 a_3 \text{ etc.}$
+$\times \text{ etc}$
+and
+$\Pi_i a_i a_i = a_1 a_1 \cdot a_2 a_2 \cdot a_3 a_3 \cdot \text{ etc.}$ [fig]checkmark[/fig] [fig]checkmark[/fig] [fig]checkmark[/fig]
+But since $aa = a$ all these are equivalent.

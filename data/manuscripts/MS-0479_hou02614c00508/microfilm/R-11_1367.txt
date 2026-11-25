@@ -1,0 +1,18 @@
+senting relations or even logical aggregation.
+
+The following diagrams illustrate different forms of syllogism.
+
+[fig]Euler-like diagram with concentric and separate circles[/fig]
+No A is not B
+No B is C
+[three_dots] No A is C
+
+[fig]Venn-like diagram with three overlapping circles[/fig]
+No A is not B
+Some C is not B
+[three_dots] Some C is not A
+
+[fig]Venn-like diagram with three overlapping circles[/fig]
+Some A is B
+Some C is not B
+[three_dots] Some A is not some C

@@ -1,0 +1,41 @@
+[pn]244[/pn]
+
+Then, no matter what proposition X may be, we have
+[u]0[/u] | X true
+
+and
+
+X | [u]co[/u] true.
+
+If
+
+[u]co[/u] | A true,
+
+then A is true. But if
+
+A | [u]0[/u] true,
+
+then A is false. From [del]these[/del] [ins]this[/ins] definition[del]s[/del] of denial all the
+properties of denial follow without difficulty. Thus, [del]By[/del]
+rule I, we can write
+
+[u]x | 0[/u] | [u]x | 0[/u] true;
+
+whence by transposition
+
+[u]x[/u] | [u][u]x | 0[/u] | 0[/u] true.
+
+Hence, by the modus ponens, the inference holds
+
+X true,
+<span style="padding-left: 30px;">∴</span> [u][u]x | 0[/u] | 0[/u] true.
+
+That is, if a proposition is true, the denial of its denial is true.
+This may be termed the consequential form of the principle of
+contradiction. * Perhaps this is better written
+
+[u]co[/u] | 0 false
+
+[del]or[/del] [ins]rather[/ins] than
+
+[u][u]co[/u] | 0[/u] | 0 true.

@@ -1,0 +1,52 @@
+The practical value of this method can only be illustrated by very
+complicated cases; but in order to show how it is used I will
+take a very simple case. From these two premises what follows?
+The ancestors of negroes had no tails
+Monkeys have tails
+Let [del]m[/del] [ins]m[/ins] be monkeys, [del]n[/del] [ins]n[/ins] ancestors of negroes, [del]t[/del] [ins]t[/ins] whatever has a tail.
+Then the premises are [del]0 = nt[/del] [ins]0 = nt[/ins] or there are no tailed ancestors
+of negroes and [del]m = tm[/del] [ins]m = tm[/ins] or monkeys are all tailed monkeys
+The second equation gives m - mt = 0 or m(1 - t) = 0 Add the
+two equations and we have nt + m(1 - t) = 0. We wish now to
+get rid of t. Now t must equal either one or zero. In the former
+case we have n = 0 in the latter case m = 0 in either case
+mn = 0 or none of the ancestors of negroes were monkeys.
+
+The application of this calculus to questions of probabilities
+is very beautiful. I wish to call particular attention to this
+application because it shows conclusively that the logic
+of induction can [del]draw no arguments[/del] [ins]receive no support[/ins] for its validity [ins]doctrine[/ins]
+we can draw no argument for the validity of induction from the [del]theory[/del]
+of chances. It was for the sake of showing this that I brought
+Boole's method to your notice. The theory of its application to
+probabilities is exceedingly simple and is best exhibited in
+an example.
+
+Given the probability that one or both of two events happen [del]and[/del] let
+
+[pn]22[/pn]
+Give the prob. that one or both of two events happen [del]Boole[/del] [ins]let[/ins]
+it equal p. Given also the probability that one or both of them
+fail to happen; let it equal q. What is the probability that one
+only will happen?
+
+Let the two events be x & y
+Let the case that one or both happen be s; that is
+s = xy (that they both happen) + x(1 - y) (or [del]as[/del] [ins]x[/ins] happens without y) + (1 - x) y (or y happens
+without x). Let the case that one or both fail be t; that is
+t = x(1 - y) (that x happens without y) + (1 - x) y (that y happens without x) + (1 - x)(1 - y) (or neither happens)
+Let the case that only one happens be w; that is
+w = x(1 - y) (that x happens without y) + (1 - x) y (that y happens without x)
+We must first reduce these three equations to one. Taking the first one
+and transposing the second member we have
+s - xy - x(1 - y) - (1 - x) y = 0
+Applying to this the formula fs = sf(1) + (1 - s) f(0). When s = [del]1[/del] the
+equation becomes (1 - x)(1 - y) = 0 when s = 0 it becomes xy + x(1 - y) + (1 - x) y = 0
+In general then it is (1 - s) xy + (1 - s) x(1 - y) + (1 - s)(1 - x) y + s(1 - x)(1 - y) = 0
+By the same developement the other [del]two[/del] equations become
+t xy + (1 - t) x(1 - y) + (1 - t)(1 - x) y + (1 - t)(1 - x)(1 - y) = 0
+w xy + (1 - w) x(1 - y) + (1 - w)(1 - x) y + w(1 - x)(1 - y) = 0
+[del]Adding the[/del] We may now take the sum of these three equations equal to zero.
+The next thing to be done is to get rid of x & y because there is nothing
+said about the simple events in the problem. For this purpose of we
+find what our equation becomes

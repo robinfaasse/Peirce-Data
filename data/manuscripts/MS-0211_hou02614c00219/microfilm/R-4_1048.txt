@@ -1,0 +1,14 @@
+[u]Explanation[/u]
+
+Let the probability of M. Rothschild ever making a net winning of 1 franc at 1 franc bets, after he has lost [u]n[/u] francs, be [u]Fn[/u]. Then, if the probability of his winning any one bet is [u]p[/u], we have the equation
+[u]Fn[/u] = [u]p[/u] . F([u]n[/u]-1) + (1-[u]p[/u]) F([u]n[/u]+1)
+
+or
+F([u]n[/u]-1) = (1/[u]p[/u]) [u]Fn[/u] - [(1-[u]p[/u])/[u]p[/u]] F([u]n[/u]+1)
+[u]Fn[/u] = (1/[u]p[/u]) F([u]n[/u]+1) - [(1-[u]p[/u])/[u]p[/u]] F([u]n[/u]+2)
+or (1/[u]p[/u]) [u]Fn[/u] = (1/[u]p[/u])² F([u]n[/u]+1) - [(1-[u]p[/u])/[u]p[/u]²] F([u]n[/u]+2)
+Hence F
+
+[marginalia]
+[fig]mathematical calculations[/fig]
+[/marginalia]

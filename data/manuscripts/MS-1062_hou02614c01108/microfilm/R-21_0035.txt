@@ -1,0 +1,14 @@
+$$\frac{1}{2} (I_{2} + I_{1}) \varepsilon \left( 1 + \frac{(I_{2} - I_{1})(I_{2}\gamma_{1} + I_{1}\gamma_{2})}{(I_{2} + I_{1})^{2} \varepsilon} + \frac{1}{2} \left( \frac{I_{2}\gamma_{1} + I_{1}\gamma_{2}}{(I_{2} + I_{1}) \varepsilon} \right)^{2} - \frac{1}{2} \frac{(I_{2} - I_{1})^{2} (I_{2}\gamma_{1} + I_{1}\gamma_{2})^{2}}{(I_{2} + I_{1})^{4} \varepsilon^{2}} \right)$$
+
+$$= \frac{1}{2} (I_{2} + I_{1}) \varepsilon + \frac{1}{2} \frac{I_{2} - I_{1}}{I_{2} + I_{1}} (I_{2}\gamma_{1} + I_{1}\gamma_{2}) + \frac{1}{2} \frac{I_{1} I_{2}}{(I_{2} + I_{1})^{2}} (I_{2}\gamma_{1} + I_{1}\gamma_{2})^{2} \frac{1}{(I_{2} + I_{1}) \varepsilon}$$
+
+Consequently the differential operator becomes
+$$\left\{ \frac{I_{1} I_{2} D_{t}^{2} + \gamma}{(I_{2} + I_{1}) \varepsilon + \frac{I_{2}\gamma_{1} - I_{1}\gamma_{2}}{I_{2} + I_{1}} + \frac{I_{1} I_{2}}{(I_{2} + I_{1})^{2}} (I_{2}\gamma_{1} + I_{1}\gamma_{2})^{2} \frac{1}{(I_{2} + I_{1}) \varepsilon} } \right\} \times$$
+
+$$\left\{ I_{1} I_{2} D_{t}^{2} + \frac{I_{1} I_{2} \varepsilon}{I_{1} + I_{2}} (\gamma_{1} - \gamma_{2}) - \frac{I_{1} I_{2}}{(I_{2} + I_{1})^{2}} (I_{2}\gamma_{1} + I_{1}\gamma_{2})^{2} \frac{1}{(I_{1} + I_{2}) \varepsilon} \right\}$$
+
+The first factor relates merely to a vibration in the joint. The second alone need be considered. It shows that the [ins]square of the[/ins] period of oscillation is lengthened in the ratio
+
+$$1 + \frac{I_{2}\gamma_{1} + I_{1}\gamma_{2}}{I_{1} + I_{2}}^{2} \frac{1}{(\gamma_{1} - \gamma_{2}) \varepsilon}$$
+
+The value of $\varepsilon$ will be experimentally determined by holding the [ins]upper pair of the[/ins] pendulum in a vise in the horizontal position and observing [del]the depression of the lower part produced by adding[/del]

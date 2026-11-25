@@ -1,0 +1,19 @@
+three of the four equations $A, B, C, D$. In like manner we can choose one equation, $E$, [del]related[/del] [ins]in the same way[/ins] to the second tetrahedron. Then, $E$ with any one of the four equations $A, B, C, D$, will represent a plane of the first tetrahedron, and $F$ with any [del]of[/del] one of $A, B, C, D$, a plane of the second tetrahedron. Corresponding planes will intersect in lines represented by $E, F$ [ins]together with[/ins] [del]with[/del] one of the equations $A, B, C, D$. These lines will all [del]have[/del] lie in the plane $E=0$ $F=0$.
+
+For example, suppose the four lines assumed have for their equations in Cartesian coordinates
+
+$$\begin{matrix}
+x=0 & y=0 \\
+x=0 & z=0 \\
+y=0 & z=0 \\
+x+my=0 & x+nz=0
+\end{matrix}$$
+
+Then, we could assume for $A, B, C, D$
+
+$$\begin{matrix}
+A = & my+nz+w=0 \\
+B = & x+my+nz+w=0 \\
+C = & my \phantom{+nz} +w=0 \\
+D = & \phantom{my+} nz+w=0
+\end{matrix}$$

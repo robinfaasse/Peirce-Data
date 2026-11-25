@@ -1,0 +1,24 @@
+either A is false or F true, that is that A
+is false. [del]A+A+B[/del] [ins]A+A+B[/ins] will mean that either
+A is [del]false[/del] [ins]true[/ins] and A [del]true[/del] [ins]false[/ins] or B is true, that
+is that B is true. [del]A+B+A[/del] [ins]A+B+A[/ins] will mean that
+either A is true and B false or A is true, that
+is that A is true. [del]B+A+A[/del] [ins]B+A+A[/ins] will mean that
+either B is true and A false or A is true, that
+is, that either A or B is true.
+[del]A+B+C+F[/del] [ins]A+B+C+F[/ins] will mean that either [del]A+B+C[/del] [ins]A+B+C[/ins]
+is false or F true, that is, that [del]A+B+C[/del] [ins]A+B+C[/ins] is
+false, that is, that A
+[del]A+B+F+F[/del] [ins]A+B+F+F[/ins] will mean that [del]A+B+F[/del] [ins]A+B+F[/ins] is false,
+that is, that A and B are true and F false,
+that is, that A and B are true.
+
+§4. Let us now ask, supposing we had
+given a complicated proposition in this
+notation, such as
+
+[u]A+B+C+D+E+F+G+H+I+J+K+L+M+N+O+P[/u]
+
+what transformations should we have a right
+to operate upon it without impairing its
+truth?

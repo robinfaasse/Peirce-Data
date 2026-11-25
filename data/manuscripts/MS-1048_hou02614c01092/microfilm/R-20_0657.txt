@@ -1,0 +1,24 @@
+[del]\frac{b' (a b' - a' b)}{b b' - a a'} = b' - a'[/del]
+
+[del]b' a' (b - a)[/del]
+
+[del]0 +[/del] [ins]\frac{b' - a'}{\frac{b'}{a'} - \frac{a'}{b'}}[/ins] x + \frac{b - a}{\frac{b'}{a'} - \frac{a'}{b'}} y
+
+[del]0 +[/del] \frac{a b (b' - a')}{b b' - a a'} x + \frac{a b' (b - a)}{b b' - a a'} y
+
+\frac{(b - a)}{\frac{b'}{a'} - \frac{a'}{b'}}
+
+(b b' - a a') 0 +
+a b (b' - a')
+a b b' - a a' b
+[del]a a' b b' - a a' b b'[/del]
+
+z a + (1 - z) b \equiv \frac{\frac{b' - a'}{b' - a'}}{\frac{a'}{a} - \frac{a'}{b}}
+
+b + z (a - b) = \frac{a b (b' - a')}{b b' - a a'} = \frac{b' b' [del]- a a'[/del] + a a' b}{b b'} = \frac{b b'}{b b' - a a'}
+
+y = \frac{a b' + [del]a a' b'[/del] + a b b' + [del]a a' b b'[/del] - a a' - a a' b}{b b' + [del]a b b'[/del] + a' b b' + [del]a a' b b'[/del] - a a' - a a' b - a a' b' - [del]a a' b b'[/del]}
+
+\frac{a (b' - a') (1 + b)}{a (b' - a') + b' (b - a)}
+
+1 - y = \frac{b b' + a' b b' - a a' b' - a b'}{b' (b' - a) (1 + a')}

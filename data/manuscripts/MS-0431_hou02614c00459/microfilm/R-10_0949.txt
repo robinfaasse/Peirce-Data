@@ -1,0 +1,22 @@
+[pn]Logic
+III
+88[/pn]
+
+If [u]y[/u] < [u]z[/u], then if [u]y[/u] necessarily [u]x[/u].
+Syllogizing this with the last,
+If [u]x[/u] < ([u]y[/u] < [u]z[/u]) then if [u]x[/u], necessarily, if [u]y[/u], then [u]z[/u]
+In (50), substitute [u]z[/u] for [u]y[/u]. Then we find
+If [u]z[/u], necessarily [u]y[/u] < [u]z[/u].
+Syllogizing this with the last,
+If [u]x[/u] < ([u]y[/u] < [u]z[/u]), then if [u]x[/u], necessarily if [u]y[/u], [u]x[/u] < [u]z[/u].
+In (50), substitute [u]y[/u] for [u]x[/u], and [u]x[/u] < [u]z[/u] for [u]y[/u]. Then we have,
+If [u]x[/u] < [u]z[/u], then [u]y[/u] < ([u]x[/u] < [u]z[/u]).
+Syllogizing this with the last,
+If [u]x[/u] < ([u]y[/u] < [u]z[/u]), then if [u]x[/u], necessarily if [u]y[/u], [u]y[/u] < ([u]x[/u] < [u]z[/u]).
+In (49), substitute [u]y[/u] for [u]x[/u], and [u]x[/u] < [u]z[/u] for [u]y[/u]. Then we have.
+Necessarily either [u]y[/u] or [u]y[/u] < ([u]x[/u] < [u]z[/u]).
+Syllogizing this with the last,
+If [u]x[/u] < ([u]y[/u] < [u]z[/u]), then if [u]x[/u], necessarily [u]y[/u] < ([u]x[/u] < [u]z[/u]).
+In (49), substitute [u]x[/u] for [u]y[/u]. Then we have,
+Necessarily either [u]x[/u] or [u]x[/u] < [u]z[/u].
+Syllogizing this with the last,

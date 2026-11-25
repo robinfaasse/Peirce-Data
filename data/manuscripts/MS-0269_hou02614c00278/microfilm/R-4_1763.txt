@@ -1,0 +1,53 @@
+[pn]Pentagon[/pn]
+[del]-r^{2}[/del] [ins]r[/ins] [del]l[/del] [ins]\bar{l}[/ins] [del]r^{3}[/del] [ins]\bar{r}^{3}[/ins] = l or [del]r^{2}\bar{l}\bar{r}^{3}\bar{l} = 1[/del] or r^{3}\bar{l}r^{2}l = [del]1[/del] [ins]-1[/ins]
+r^{2}l\bar{r}^{2} = -\bar{r}\bar{l}     r^{3}l\bar{r}^{2}l = -1
+-r\bar{l}\bar{r}^{2} = \bar{r}lr
+r\bar{l}\bar{r}^{3} = -\bar{r}l
+\bar{l}\bar{r}^{3} = -r^{2}l
+r^{3}l\bar{r}^{2}l = -1
+
+r^{3}(rl\bar{r})\bar{r}^{2}(rl\bar{r}) = [del]1[/del] [ins]-1[/ins]
+r^{4}l\bar{r}^{2}l\bar{r} = -1
+r^{3}l\bar{r}^{2}l = -r
+[del]r^{3}l\bar{r}^{2}l = -1[/del]
+
+[fig]Geometric diagram of a pentagon with labeled vertices and vectors[/fig]
+
+Pentagon r^{2}l\bar{r}^{2} = -\bar{r}\bar{l} or r^{3}l\bar{r}^{2}l = -1
+Hexagon r^{2}l\bar{r}^{2} = \bar{v}lr or [del]r^{3}l\bar{r}^{3}l[/del] [ins]r^{3}l\bar{r}^{3}\bar{l}[/ins] = +1
+Heptagon r^{2}l\bar{r}^{2} = -\bar{r}^{2}lr
+
+-r\bar{l}\bar{r}^{2} = \bar{r}lr
+[del]r[/del] r^{2}\bar{l}\bar{r}^{3}\bar{l} = -1
+
+C = B + r(B-A)
+A = B + [del]l[/del] [ins]l^{-1}[/ins](B-D)     B-A = l(D-B)
+                                    l^{-1}(B-A) + B = D
+rA = rB + rl(B-D)
+-rA + rB + B = C
+B = C + rl(B-D)
+C = B - rl(B-D)
+[del]B-C = -rl(B-D)[/del]
+[del](l^{-1}r^{-1})(B-C) + B = D[/del]
+
+(C-B) = r(B-A)
+[del]A-B = l[/del]
+[del](D-B) = -r^{-1}l^{-1}(B-C)[/del]
+[del]= r^{-1}l^{-1}(C-B)[/del]
+
+[del]C = (1+r)B - rA[/del]
+D = C + r^{2}(B-A)
+
+(C-B) = r(B-A)
+(A-B) = l(B-D)
+(D-B) = l^{-1}(B-A)
+(D-B) = l^{-1}r^{-1}(C-B)
+      = -l^{-1}r^{-1}(B-C)
+
+[del]C[/del] B-B = r(B-A)
+D-C = r(C-B)
+D = C(1+r) - Br
+C = (1+r)B - Ar
+(1+r)C = (1+r)^{2}B - r(1+r)A
+
+D = (1-r+r^{2})B - r(1+r)A

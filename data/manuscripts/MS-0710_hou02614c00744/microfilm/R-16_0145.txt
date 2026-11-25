@@ -1,0 +1,26 @@
+[marginalia]
+$(a + b + a \circ b) \cdot (b + c + b \circ c) \cdot (a + c + a \circ c)$
+$a \cdot b + a \cdot c + a \cdot (b \circ c) + b \cdot c + b \cdot (a \circ c)$
+[/marginalia]
+
+$a \cdot b \cdot c \qquad c = F(a,b)$
+$F(a,b) = F(b,a)$
+
+$b = F(a,p) \quad d = F(c,p)$
+$F\{a \cdot F(c,p)\}$
+$M(a \cdot M(c \cdot p)) = M(M(a \cdot p) \cdot c)$
+
+[del]$\frac{a+b}{2}$[/del] , $\frac{\frac{c+p}{2} + a}{2}$
+
+$c \circ (a \circ b) = a \circ (b \circ c)$
+
+[del]$x \circ$[/del] $b = a + p + a \circ p$
+$d = c + p + c \circ p$
+$q = b + c + b \circ c$
+[del]$q = $[/del] $= a + p + a \circ p + c + [del]f[/del][ins]($[/ins]a + p + a \circ p[ins]$) \circ c$[/ins]
+$q = a + c + p + c \circ p + a \circ (c + p + c \circ p)$
+
+[marginalia]
+$a \circ c + p \circ c + (a \circ p) \circ c$
+$a \circ c + a \circ p + a \circ (c \circ p)$
+[/marginalia]

@@ -1,0 +1,35 @@
+[pn]Ms. 557[/pn]
+
+<u>A PROBLEM IN TESTIMONY.</u>
+
+The probability that [ins]$A$[/ins] speaks the truth is [del]$A$[/del] [ins]$p$[/ins]. The probability that [ins]$B$[/ins] speaks the truth is [del]$B$[/del] [ins]$q$[/ins]. What is the probability that if they agree their statement is true?
+
+This problem is stated and solved in Boole's "Laws of Thought" [del]pag[/del] [ins]p.[/ins] 279.
+
+The solution here given is in effect the same as Boole's, though expressed in terms of descriptions.
+
+The data here consists of the following propositions and probabilities represented by the symbols indicated:
+
+| Propositions | Symbols | Probabilities |
+| :--- | :---: | :---: |
+| [del]$A = At$[/del] | $x$ | $p$ |
+| [del]$B = Bt$[/del] | $y$ | $q$ |
+| [del]$AB = AB(At.Bt + \bar{At}.\bar{Bt})$[/del] | $x y + \bar{x}\bar{y}$ | $r$ |
+
+The above propositions are as follows:
+
+$A$ speaks the truth. The probability of this proposition is [del]$A$[/del] [ins]$p$[/ins]
+
+$B$ speaks the truth. The probability of this proposition is [del]$B$[/del] [ins]$q$[/ins]
+
+Either $A$ speaks the truth and $B$ does not or $B$ speaks the truth and $A$ does not. The probability of this proposition is $r$.
+
+The scheme of the possible gives the equation:
+
+$x y + x \bar{y} + \bar{x} y + \bar{x} \bar{y} = 1$
+
+Thus the required conditional probability may be expressed thus:
+
+$\frac{(x y + \bar{x}\bar{y}) x y}{x y + \bar{x}\bar{y}} = \frac{x y}{x y + \bar{x}\bar{y}} = \frac{x y}{1 - r}$
+
+Taking always single letters to represent the given compound and required probabilities we put:

@@ -1,0 +1,26 @@
+[marginalia]
+[pn]1909 May 19 Noon[/pn]
+MEANING
+[u]Pragmatism[/u]
+[pn]38[/pn]
+[/marginalia]
+
+The fourth product is $11\cdot 23\cdot 32\ x + 12\cdot 23\cdot 32\ y + 13\cdot 23\cdot 32\ z = 0$
+The fifth is $12\cdot 21\cdot 33\ x + 12\cdot 22\cdot 33\ y + 12\cdot 23\cdot 33\ z = 0$
+The sixth is $13\cdot 22\cdot 31\ x + 13\cdot 22\cdot 32\ y + 13\cdot 22\cdot 33\ z = 0$
+
+The sum of these three is $(11\cdot 23\cdot 32 + 12\cdot 21\cdot 33 + 13\cdot 22\cdot 31)x + (12\cdot 23\cdot 32 + 12\cdot 22\cdot 33 + 13\cdot 22\cdot 32)y + (13\cdot 23\cdot 32 + 12\cdot 23\cdot 33 + 13\cdot 22\cdot 33)z = 0$
+
+Subtracting this from the former sum of products and dividing by $z$ (since the coefficients of $y$ and of $z$ cancel) we get
+$11\cdot 22\cdot 33 + 12\cdot 23\cdot 31 + 13\cdot 21\cdot 32$
+$- 11\cdot 23\cdot 32 - 12\cdot 21\cdot 33 - 13\cdot 22\cdot 31 = 0$
+
+which we may write
+$\left| \begin{matrix} 11, 12, 13 \\ 21, 22, 23 \\ 31, 32, 33 \end{matrix} \right| = 0$.
+
+Having got so far Leibniz perceived at once what the [del]law would be[/del] [ins]precise constitution of the[/ins] ubiquity.
+The result of eliminating all the [del]unknowns[/del], however numerous, from as many
+equations as they. It was not a mere conjectural generalization, he saw that
+it necessarily followed. [del]So[/del] [ins]The[/ins] [del]The[/del] form for 4 equations may be given
+
+[fig]Diagram of determinant expansion for 4x4 matrix with criss-crossing lines[/fig]

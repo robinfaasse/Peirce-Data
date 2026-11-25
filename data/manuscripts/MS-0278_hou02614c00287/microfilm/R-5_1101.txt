@@ -1,0 +1,43 @@
+Then $R_t = R_0 \mathcal{G}^{-\lambda_R t}$
+
+$X_t = (X_0 - \frac{\lambda_x}{\lambda_x - \lambda_R} R_0) \mathcal{G}^{-\lambda_x t} + \frac{\lambda_x}{\lambda_x - \lambda_R} R_0 \mathcal{G}^{-\lambda_R t}$
+
+$\mathcal{E}_t = P_{\mathcal{E}} P_R R_0 \frac{\lambda_x \lambda_R}{(\lambda_x - \lambda_R)(\lambda_{\mathcal{E}} - \lambda_R)} \mathcal{G}^{-\lambda_R t}$
+
+$+ [del]P_{\mathcal{E}} X_0 \lambda_x \frac{\mathcal{G}^{-\lambda_{\mathcal{E}} t} - \mathcal{G}^{-\lambda_x t}}{\lambda_{\mathcal{E}} - \lambda_x}[/del]$
+
+$- [del]\frac{P_{\mathcal{E}} P_R R_0 \lambda_x \lambda_R}{(\lambda_x - \lambda_R)(\lambda_{\mathcal{E}} - \lambda_x)} \mathcal{G}^{-\lambda_x t}[/del]$
+
+$+ \left(\mathcal{E}_0 + \frac{P_{\mathcal{E}} P_R R_0 \lambda_x \lambda_R - P_{\mathcal{E}} X_0 \lambda_x (\lambda_{\mathcal{E}} - \lambda_R) - P_{\mathcal{E}} P_R R_0 \lambda_x \lambda_R}{(\lambda_x - \lambda_R)(\lambda_{\mathcal{E}} - \lambda_x)}\right) \mathcal{G}^{-\lambda_{\mathcal{E}} t}$
+
+$P_{\mathcal{E}} (P_R \frac{\lambda_x \lambda_R}{(\lambda_x - \lambda_R)(\lambda_{\mathcal{E}} - \lambda_R)} R + P_{\mathcal{E}} \frac{\lambda_x}{\lambda_{\mathcal{E}} - \lambda_x} (3 + X)$
+
+$= \lambda_{\mathcal{E}} \frac{P_{\mathcal{E}} P_R \lambda_x \lambda_R}{(\lambda_x - \lambda_R)(\lambda_{\mathcal{E}} - \lambda_R)} R$
+
+$+ \lambda_{\mathcal{E}} P_{\mathcal{E}} P_x \frac{\lambda_x}{\lambda_{\mathcal{E}} - \lambda_x} R - \lambda_x \frac{P_{\mathcal{E}}}{\lambda_{\mathcal{E}} - \lambda_x} X$
+
+$+ P_{\mathcal{E}} \lambda_{\mathcal{E}} X - X \lambda_{\mathcal{E}} + 3 \lambda_{\mathcal{E}}$
+
+---
+
+$D_t R = -\lambda_R R$
+
+$D_t X = P_x \lambda_R R - \lambda_x X$
+
+$D_t \mathcal{E} = P_{\mathcal{E}} \lambda_x X - \lambda_{\mathcal{E}} \mathcal{E}$
+
+$D_t (\xi R + \eta X + \mathcal{E}) = (-\xi [del]+ \eta P_x[/del] [ins]+ \eta P_x[/ins]) \lambda_R R$
+
+$(-\eta + P_{\mathcal{E}}) \lambda_x X - \lambda_{\mathcal{E}} \mathcal{E}$
+
+$(-\xi + \eta P_x) R + (-\eta + P_{\mathcal{E}}) \lambda_x X - \lambda_{\mathcal{E}} \mathcal{E}$
+
+$\frac{(-\eta + P_{\mathcal{E}}) \lambda_x}{-\lambda_{\mathcal{E}}} = \eta$
+
+$\frac{P_{\mathcal{E}} \lambda_x}{\lambda_{\mathcal{E}} - \lambda_x} = \eta$
+
+$\frac{(-\xi + P_{\mathcal{E}} \frac{\lambda_x}{\lambda_{\mathcal{E}} - \lambda_x}) \lambda_R}{-\lambda_{\mathcal{E}}} = \xi$
+
+$\xi (\lambda_{\mathcal{E}} - \lambda_R) = P_{\mathcal{E}} P_x \frac{\lambda_x \lambda_R}{\lambda_{\mathcal{E}} - \lambda_x}$
+
+$\xi = P_{\mathcal{E}} P_x \frac{\lambda_x \lambda_R}{(\lambda_{\mathcal{E}} - \lambda_x)(\lambda_{\mathcal{E}} - \lambda_R)}$

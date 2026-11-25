@@ -1,0 +1,55 @@
+[pn]P[/pn]
+0
+[u]a P[/u]
+ab P  > [u]1[/u]
+          b
+
+[del](a² + ab²)[/del] [ins](a² + ab²)[/ins] P = a (a + b²) P
+(2a²b + ab³) P = ab (2a + b²) P
+(a³ + 3a²b² + ab⁴) P = a (a² + 3ab² + b⁴) P
+(4a³b + 4a²b³ + ab⁵) P = ab (4a² + 4ab² + b⁴)
+(a⁴ + 7a³b² + 5a²b⁴ + ab⁶) P = a (a³ + 7a²b² + 5ab⁴ + b⁶)
+(5a⁴b + 14a³b³ + 6a²b⁵ + ab⁷) P = ab (5a³ + 11a²b² + 6ab⁴ + b⁶)
+
+} [u]b[/u]     = [u]1[/u]   [u]  1  [/u]
+  a + b²    b   1 + [u]a[/u]
+                    b²
+
+} [u]b[/u]     [u]a + b²[/u]  = [u]1[/u]  [u] [u]a[/u]  + 1 [/u]
+  b     2a + b²    b  [u] b² [/u]
+                      2[u]a[/u] + 1
+                       b²
+
+1
+0
+1     0
+0     1
+
+1
+0
+a
+ab
+a² + ab²
+2a²b + ab³
+a³ + 3a²b² + ab⁴
+3a³b + 4a²b³ + ab⁵
+
+b [u]  2a + b²  [/u]
+  a² + 3ab² + b⁴
+
+= [u]1[/u] [u]  2[u]a[/u] + 1  [/u]
+  b   [u] b² [/u]
+      [u]a²[/u] + 3[u]a[/u] + 1
+      b⁴    b²
+
+[fig]Table of numbers with connecting lines[/fig]
+1
+1     6     5     1
+1     10    6     1
+[del]1[/del]     10    15    7     1
+[del]1[/del]     [del]15[/del]   [del]7[/del]     [del]7[/del]     [del]8[/del]     1
+5     20    21    9     1
+15    35    28    9     1
+20    55    49    17    2
+55    83    58    18    2
+75    138   107   35    4

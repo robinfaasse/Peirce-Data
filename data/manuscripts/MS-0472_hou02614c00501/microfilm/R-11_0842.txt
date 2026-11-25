@@ -1,0 +1,21 @@
+[pn]110[/pn]
+
+now the only remaining possibilities were
+at the beginning of our walk
+
+$b \times b \times b \times (1-b)$ and $b \times b \times b \times b$
+
+and now that there are no other possibilities
+the probability of the last man being a baptist
+is simply $\frac{b^3(1-b) + b^4}{b^3(1-b) + b^4} = \frac{b^4}{b^3(1-b) + b^4} = \frac{b}{(1-b) + b} = b$
+
+That is, the probability is just what it was in the
+first place. If the events are not independent
+still the [del]new[/del] [ins]probability of the fourth man being a baptist[/ins]
+must be greater the greater the antecedent probability
+of it. Yet the real argument that he will be a baptist
+has no force except from the fact that it is a strange
+thing to meet three baptists successively. But of course
+[del]to say[/del] that the events are independent, [ins]precisely[/ins] [del]just[/del]
+amounts to saying that you cannot argue from
+one to another.

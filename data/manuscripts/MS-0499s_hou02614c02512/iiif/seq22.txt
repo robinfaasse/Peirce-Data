@@ -1,0 +1,14 @@
+[fig]a diagram of a circle with a dot labeled m and a curved line through it[/fig] [fig]a diagram of a circle containing letters a and b[/fig] [fig]a diagram of a curved line with letters b and c[/fig]
+
+$\Pi_{i} \bar{a}_{i} + \bar{b}_{i} \quad \Sigma_{j} b_{j} \cdot c_{j}$
+$\Sigma_{j} \bar{a}_{j} \cdot b_{j} \cdot c_{j}$
+
+$\Pi_{a} \Pi_{b} \Pi_{c} \Sigma_{d} \Sigma_{e} \bar{Q}_{a} + \bar{q}_{ab} + q_{cb} + \bar{Q}_{b} + q_{db} \cdot F_{de} \cdot \bar{q}_{eb}$
+$\Sigma_{u} \Pi_{x} \Sigma_{y} \Pi_{w} \Pi_{v} Q_{u} \cdot (\bar{q}_{xu} + F_{xy}) \cdot (F_{vw} + q_{vu})$
+
+[fig]a diagram of four concentric circles containing the letters a, u, d, and w[/fig] [del]$\Pi_{a} \Sigma_{u} \Sigma_{y}$[/del] $b v w$
+$\Pi_{a} \Sigma_{u} \Pi_{c} \Sigma_{y} \Sigma_{d} \Sigma_{e} \Pi_{w} \Pi_{v} [del]Q_{u} \cdot[/del] Q_{u} \cdot (\bar{q}_{cu} + F_{cy}) \cdot (\bar{F}_{uw} + q_{au}) \cdot$
+$[\bar{Q}_{a} + \bar{q}_{au} + q_{cu} + \bar{Q}_{u} + q_{du} \cdot F_{de} \cdot \bar{q}_{eu}]$
+
+[ins]$Q_{u} \cdot$[/ins]
+$Q_{u} \cdot (\bar{q}_{cu} + F_{cy}) \cdot (F_{aw} + q_{au}) \cdot [\bar{Q}_{a} + \bar{F}_{aw} + F_{cu} + q_{du} \cdot F_{de} \cdot \bar{q}_{eu}]$

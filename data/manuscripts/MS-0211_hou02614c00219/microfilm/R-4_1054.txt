@@ -1,0 +1,35 @@
+[pn]13[/pn]
+
+Attention must here be called to two points
+of functional multiplication. In general, if
+$\Phi$ and $\Psi$ are two operations $\Phi \Psi$ is not equal to $\Psi \Phi$.
+
+In particular, if [u]$a$[/u] is a constant
+$E a = a E$
+$E \Phi(x) = \Phi(x+1) E$
+$E a^x = a^x E a$
+
+In the second place, $(\Phi \Psi)^{-1}$ or $\frac{1}{\Phi \Psi}$ is not $\Phi^{-1} \Psi^{-1} = \frac{1}{\Phi} \cdot \frac{1}{\Psi}$
+But, on the contrary, if
+$\Phi \Psi \xi = \eta$
+$\Psi \xi = \Phi^{-1} \eta$
+$\xi = \Psi^{-1} \Phi^{-1} \eta$
+But $\xi = (\Phi \Psi)^{-1} \eta$
+so that $(\Phi \Psi)^{-1} = \Psi^{-1} \Phi^{-1}$
+
+In particular
+$\frac{1}{E-a} = \frac{a^x}{a^x} \frac{1}{E-a} = a^x \frac{1}{a^x} \frac{1}{E-a} = a^x \frac{1}{(E-a) a^x}$
+$= a^x \frac{1}{E a^x - a^{x+1}} = a^x \frac{1}{a^{x+1} E - a^{x+1}} = a^x \frac{1}{a^{x+1} (E-1)}$
+$= a^x \frac{1}{E-1} \frac{1}{a^{x+1}} = a^x \Sigma \frac{1}{a^{x+1}}$
+
+so that $\frac{1}{E-a} f x = a^x \Sigma \frac{f x}{a^{x+1}} = a^x \left( \frac{f(x-1)}{a^x} + \frac{f(x-2)}{a^{x-1}} + \dots \frac{f(0)}{a} + C \right)$
+$= [del]a^x[/del] f(x-1) + a f(x-2) + a^2 [del]f[/del] f(x-3) + \dots a^{x-1} f 0 + C a^x$
+
+To prove this, put this series $= S$. Then if $(E-a) S = f x$
+But $E S = f x + a f(x-1) + a^2 [del]f[/del] f(x-2) + \dots$
+$a S = \phantom{f x + } a f(x-1) + a^2 f(x-2) + \dots$
+$E S - a S = (E-a) S = f x$ Q.E.D.
+
+$S = (E-a)^{-1} f x$
+$a^x f 0 + C a^{x+1}$
+$a^x f 0 + C a^{x+1}$

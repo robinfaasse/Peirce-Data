@@ -1,0 +1,21 @@
+[u]Propositions of the Third Degree of Knowledge[/u]
+[del]Excluding solid and two faces[/del] [ins]6[/ins]
+" solid, face, and contained horizontal edge - - - 4
+" solid, face, and external horizontal edge - - - 4
+" solid, face, and contained slanting edge - - - 8
+" solid, face, and external slanting edge - - - 8
+" solid, face, and contained vertex - - - - - 12
+" solid, face, and opposite vertex - - - - - 4
+" solid, and two horizontal edges - - - - - 1
+" solid and horizontal and slanting edge - - 8
+" solid and two adjacent slanting edges - - - 4
+" solid and two opposite slanting edges - - - 2
+" solid, horizontal edge and contained vertex - - 4
+" solid, horizontal edge and external vertex - - 4
+" solid, slanting edge and contained vertex - - - 8
+" solid, slanting edge and external vertex - - - 8
+" solid and two vertices on same level - - - - 2
+" solid and two vertices on different levels - - - 4
+" three faces - - - - - - - - - - - - - 4
+" Two faces & horizontal edge between - - - - 2
+" Two faces & external horizontal edge - -

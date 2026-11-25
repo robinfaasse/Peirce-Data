@@ -1,0 +1,20 @@
+First consider the case in which $E$ vanishes. Then,
+$$y^2 = \frac{a^2x^2 + x^4}{a^2 - Cx^2}$$
+
+$$\frac{d(y^2)}{d(x^2)} = \frac{(a^2 + 2x^2)(a^2 - Cx^2) + C(a^2x^2 + x^4)}{(a^2 - Cx^2)^2}$$
+
+$$= \frac{a^4 + 2a^2x^2 - Cx^4}{(a^2 - Cx^2)^2}$$
+
+Put this equal to $\frac{y^2}{x^2}$ and we have the equation determining points of contact of tangents from the orig
+
+$$\frac{a^4 + 2a^2x^2 - Cx^4}{(a^2 - Cx^2)^2} = \frac{a^2x^2 + x^4}{(a^2 - Cx^2)x^2}$$
+
+Clearing from fractions
+$$(a^4x^2 + 2a^2x^4 - Cx^6) \frac{(a^2 - Cx^2)}{[del]a^2 - Cx^2[/del]}$$
+$$= (a^4x^2 + a^2(1-C)x^4 - Cx^6)(a^2 - Cx^2)$$
+
+or transposing
+$$a^2(1+C)x^4(a^2 - Cx^2) = 0$$
+
+This equation being of the $6\text{th}$ degree, the curve is of the $6\text{th}$ class. It has therefore 2 imaginary nodes (See Salmon p. 213) 2 imag. bitangents, and 4 imag. inflexions. We have
+[fig]Graph of y = x * sqrt((a^2+x^2)/(a^2-Cx^2))[/fig]

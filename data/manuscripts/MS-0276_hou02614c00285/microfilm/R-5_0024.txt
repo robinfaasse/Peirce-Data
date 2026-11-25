@@ -1,0 +1,58 @@
+[marginalia]
+But [del]P can[/del]
+Either P and Q are false or C is true
+But P and Q cannot both be false
+$\therefore$ C is true.
+[/marginalia]
+
+[del]Now if[/del] Now if there are $mp$ ways out of
+$m$ [del]equally possib[/del] possibilities that
+$p$ is true
+and $mq$ other ways out of $m$
+equal possibilities that $Q$ is true
+there are $(p+q)m$ ways out of
+$m$ equal possibilities that [ins]in all these cases[/ins]
+one or other is true, and [del]that[/del]
+C is true
+
+There are therefore $(1-p)m$ ways
+in which [del]P[/del] [ins]P[/ins] is false
+and $(1-q)m$ ways in which
+Q is false
+
+Then $m - pm - qm$ ways
+in which
+both are
+false.
+
+[fig]Two diagrams of divided squares representing probability areas[/fig]
+
+Can $1-p-q$
+be equal to $(1-p)(1-q)$?
+No; for $(1-p)(1-q) = 1-p-q+pq$
+Therefore [del]both are[/del] $(1-p)(1-q) - pq$ is the probability
+
+\newpage
+
+If we have two inconsistent
+reasons for thinking a given
+proposition [del]C[/del] [ins]C[/ins] to be true, [del]which[/del]
+both of which can be analyzed
+into ways of being true or
+false which we see have
+precisely the same force
+
+Then one has a probability
+$p$ of being true and $1-p$
+of being false, and the
+other $mq$ ways of being true
+and $m(1-q)$ ways of being
+false. If then the two cannot
+both be true, it must be that
+both can be false. For otherwise
+the truth of the proposition C is
+apodictically proved thus
+If P is true C is true
+If Q is true C is true
+i.e. either P is false or else etc.
+or P is true

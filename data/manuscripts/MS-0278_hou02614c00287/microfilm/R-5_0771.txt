@@ -1,0 +1,45 @@
+[del]log w =[/del] [ins]w =[/ins] [del]u =[/del] -log u + θi
+
+[fig]Diagram with arrows showing differential relations[/fig]
+
+dw = [del]∂u[/del] [ins]∂w[/ins]/∂u du + [del]∂u[/del] [ins]∂w[/ins]/∂θ dθ
+
+= - du/u + i dθ
+
+dw/du = - 1/u + i dθ/du
+
+dw/dθ = - 1/u du/dθ + i
+
+d/dθ (dw/du) = - 1/u d/dθ (du/du) + i
+
+dw/dθ = dw/du · du/dθ
+
+d (dw/dθ)/du = ∂(dw/dθ)/∂u du + ∂(dw/dθ)/∂θ dθ
+
+= - 1/u²
+
+dw/du = - 1/u + i / [del]i -[/del] [ins]1 -[/ins] 1/u du/dθ
+
+= - 1/u + i / 1 + i/u du/dθ
+
+= - 1/u + i - 1/u du/dθ / 1 + 1/u² (du/dθ)²
+
+[del]p + qi / x + yi[/del]
+
+[del]px - qy / (py + qx) i[/del]
+
+[del]px - qy = 1[/del]
+[del]py + qx = 0[/del]
+
+p²x - q²y = q
+pqx + p²y = 0
+-(p² + q²) y = q
+y = -q / p² + q²
+
+p²x - pqy = p
+q²x + pqy = 0
+(p² + q²) x = p
+x = p / p² + q²
+
+p + qi
+p / p² + q² - q / p² + q² i

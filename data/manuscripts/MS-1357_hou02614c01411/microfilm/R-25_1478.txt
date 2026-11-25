@@ -1,0 +1,25 @@
+[pn](4)[/pn] [pn]Q = \frac{\omega_{N} [ \Xi - \xi_{N} ]}{y_{N}}[/pn]
+
+I give the demonstration. From (9)
+[pn]y'_{H} Q = \omega_{H} \xi_{H}[/pn]
+[pn]y'_{N} Q = \omega'_{N} [ \chi_{N} - \xi(H,N) ][/pn]
+Subtracting [del]one[/del] [ins]the[/ins] former from the latter
+[pn]y_{N} Q = \omega'_{N} [ \chi_{N} - \xi(H,N) ] - \omega_{H} \xi_{H}[/pn]
+By definition $\xi_{H} = \xi(0,H)$, and as in (1) $\xi(0,H) = \xi'(0,H) + \chi_{H}$
+But by (1) $\chi_{H} = - \chi'_{0}$. By (2) $\omega_{H} = - \omega'_{0}$. Moreover $\chi_{N} - \xi(H,N) = \chi'_{N} - \xi'_{N}$
+because a change of origin of both subtrahend and minuend makes
+no change in the remainder. Thus
+[pn]y_{N} Q = \omega'_{N} ( \chi'_{N} - \xi'_{N} ) - \omega'_{0} ( \chi'_{0} - \xi'_{0} )[/pn]
+[pn]= [ \omega'_{N} \chi'_{N} - \omega'_{0} \chi'_{0} ] - [ \omega'_{N} \xi'_{N} - \omega'_{0} \xi'_{0} ][/pn]
+[pn]= [ \omega'_{N} \chi'_{N} + \omega_{H} \chi'_{0} ] - [ \omega'_{N} \xi'_{N} + \omega_{H} \xi'_{0} ][/pn]
+Now by (4) the vertical component of the stress is $Q \tan \tau$, which
+by (5) is $\omega'$. Therefore the downward pressures on the two towers
+are $\omega'_{N}$ and $\omega_{H}$. We must not say $\omega'_{0}$; for that is negative.
+The value of $x'$ for [del]that[/del] [ins]centre of gravity of these[/ins] downward pressures is then
+[del]\Xi' = \frac{\omega'_{N} \chi'_{N} + \omega_{H} \chi'_{0}}{\omega'_{N} + \omega_{H}}[/del] [pn]\Xi' = \frac{\omega'_{N} \chi'_{N} + \omega_{H} \chi'_{0}}{\omega_{N}}[/pn]
+But the value of $x'$ for the centre of gravity of the weight is
+[pn]\xi'(0,N) = \frac{\omega'_{N} \xi'_{N} + \omega_{H} \xi'_{0}}{\omega_{N}}[/pn]
+Substituting these in the equation preceding
+[pn]y_{N} Q = \omega_{N} [ \Xi' - \xi'(0,N) ][/pn]
+or changing the origin of minuend and subtrahend,
+[pn]y_{N} Q = \omega_{N} ( \Xi - \xi_{N} )[/pn] Q.E.D.

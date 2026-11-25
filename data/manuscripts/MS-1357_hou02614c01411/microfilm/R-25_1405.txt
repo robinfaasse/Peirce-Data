@@ -1,0 +1,24 @@
+[pn]27[/pn]
+
+<u>Repeated Line Loads</u>
+
+[del]main[/del] [ins]The[/ins] advantage of developing a determinant in a practical problem is usually to avoid calculating a small quantity as a difference of two large ones, an advantage which is only attained if cancellations take place. In the present case, a few reductions of partial determinants may be noticed
+
+We have
+$$\varepsilon_0^2 - \alpha_0 \beta_0 = \cos^2 \Phi_0 (1 - \cos^2 \Phi_0) \left( \frac{1}{\Lambda_0^2} + \frac{1}{M_0^2} - 2 \frac{1}{\Lambda_0 M_0} \right)$$
+$$- \cos^4 \Phi_0 \left( - \frac{1}{\Lambda_0^2} - \frac{1}{M_0^2} \right)$$
+$$+ (-1 + 2 \cos^2 \Phi_0 - \cos^4 \Phi_0) \left( + \frac{1}{\Lambda_0 M_0} \right)$$
+$$= [del]- \frac{1}{\Lambda_0 M_0}[/del]$$ That is
+(22) $$\varepsilon_0^2 - \alpha_0 \beta_0 = - \frac{1}{\Lambda_0 M_0} \quad \text{and} \quad \varepsilon_2^2 - \alpha_2 \beta_2 = - \frac{1}{\Lambda_2 M_2}$$
+
+We also have
+$$\kappa_0^2 - \lambda_0 \mu_0 = \frac{1}{|P_0|} \left\{ \frac{R_0}{|R_0|} \frac{|x_1 - x_0|}{|R_0|} \frac{|y_1 - y_0|}{|R_0|} - 1 + \frac{R_0}{R_0} - \frac{R_0}{|R_0|} \frac{|x_1 - x_0|}{|R_0|} \frac{|y_1 - y_0|}{|R_0|} \right\}$$
+(23) $$= - \frac{1}{|P_0|} \left\{ 1 - \frac{R_0}{R_0} \right\} \quad \text{Call this} \quad - \underline{|s_0|}$$
+And $$|\kappa_i| - \lambda_i \mu_i = - \frac{1}{|P_i|} \left\{ 1 - \frac{R_i}{R_i} \right\} \quad \text{Call this} \quad - \underline{|s_i|}$$
+
+We may write (16) and (17) in the forms
+$$(\alpha_0 + \mu_0) (\delta x_1 - \delta x_0) + (\varepsilon_0 + \kappa_0) (\delta y_1 - \delta y_0) = \heartsuit_1 + \alpha_0 \delta x_1 + \varepsilon_0 \delta y_1$$
+$$(\varepsilon_0 + \kappa_0) (\delta x_1 - \delta x_0) + (\beta_0 + \lambda_0) (\delta y_1 - \delta y_0) = \heartsuit_4 + \varepsilon_0 \delta x_1 + \beta_0 \delta y_1$$
+
+Solving for $\delta x_1 - \delta x_0$ and $\delta y_1 - \delta y_0$, while observing that
+$$(\varepsilon_0 + \kappa_0)^2 - (\alpha_0 + \mu_0) (\beta_0 + \lambda_0) = - \frac{1}{\Lambda_2 M_2} - \underline{|s_0|} + (\varepsilon_0 \kappa_0 - \alpha_0 \lambda_0) + (\varepsilon_0 \kappa_0 - \beta_0 \mu_0),$$

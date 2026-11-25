@@ -1,0 +1,18 @@
+For clearing from fractions and dividing by $30^{n+1}$, this gives
+$$(30+30)(31^{a-n}-30^{a-n}) = 31^{a-n+1}-30^{a-n+1} + 31.30(31^{a-n-1}-30^{a-n-1})$$
+For simply multiplying out, [del]this[/del] [ins]neg[/ins] becomes
+$$31^{a-n+1}-30^{a-n+1} + 30.31^{a-n}-31.30^{a-n} = 31^{a-n+1}-30^{a-n+1} + 30.31^{a-n} - 31.30^{a-n}$$
+where the two sides are identical. Moreover, putting [u]n[/u] = -1 we get
+$$P(-1) = (30)^0 = \frac{31^{a+1}-30^{a+1}}{31^{a+1}-30^{a+1}} = 1$$
+And putting [u]n[/u] = [u]a[/u]
+$$P\underline{a} = 30^{a+1} \frac{(31)^0-(30)^0}{31^{a+1}-30^{a+1}} = 0$$
+Thus, all the equations are satisfied.
+
+At the beginning of the play [u]n[/u] = 0 and we have for the chance that the player will ever net a gain of 1 franc before losing his entire fortune
+$$P0 = 30 \frac{31^a-30^a}{31^{a+1}-30^{a+1}} = \frac{30}{31} \frac{1-(30/31)^a}{1-(30/31)^{a+1}}$$
+
+Now, we easily calculate by logarithms that for [u]a[/u] = 10, that is, if the player's fortune is 10 francs, the values are $(30/31)^{10} = .720$, $(30/31)^{11} = .697$, $P0 = \frac{30}{31} \frac{.280}{.303} = \frac{28}{31}$; so [del]that the players chance of[/del] [ins]odds the player can[/ins] net a franc at franc bets is 28 to 3 or about 9 to 1. For [u]a[/u] = 100, $(30/31)^{100} = .0377$, $(30/31)^{101} = .0365$, $P0 = \frac{30}{31} \frac{.9623}{.9635}$. For a large fortune $P0 = \frac{30}{31}$ very closely indeed; that is the odds are as 30 to 1.
+
+The chance of a man's [del]making[/del] [ins]making[/ins] a net gain of 21 francs, [ins]is the same as the chance[/ins] [del]are the same as[/del] if he had originally been 20 francs richer and had lost 20 francs of his netting a gain of 1 franc. That is, it is
+$$30^{21} \frac{31^a-30^a}{31^{a+21}-30^{a+21}} = \left(\frac{30}{31}\right)^{21} \frac{1-(30/31)^a}{1-(30/31)^{a+21}}$$
+This for Rothschild equals $(30/31)^{21} = .5024$. For the ten franc fortune $(30/31)^{31} = .362$ and the chance is [del]about[/del] $\frac{210}{496}$.

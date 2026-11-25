@@ -1,0 +1,16 @@
+[pn]270[/pn]
+
+[u]Art 114[/u]. [u]Theorem 48[/u]. Nodes [del]have[/del] [ins]have[/ins] no specific effect upon the valency of [del]a[/del] surfaces.
+
+[u]Demonstration[/u]. For imagine a network consisting of a number of networks of points, lines, and surfaces joined at one point. To get the valency of the whole first reckon [del]all[/del] the valency of all the [del]lines[/del] [ins]edges[/ins] running to that point, and let it be $\Lambda'_1$, and then of all the faces running to that point and let it be $\Lambda'_2$. Let the valencies of all the other [del]points[/del] [ins]summits[/ins], edges, and faces be $\Lambda''_0$, $\Lambda''_1$, $\Lambda''_2$. Then the valency of the whole network is
+$$1 + \Lambda''_0 - \Lambda'_1 - \Lambda''_1 + \Lambda'_2 + \Lambda''_2.$$
+
+[fig]Figure 160: A central node with multiple lines and surfaces radiating from it.[/fig]
+Figure 160.
+
+Next consider all the surfaces coming to that point are parts of one, with a node there, and let the valency of the whole, so reckoned be
+$$\Lambda''_0 - \Lambda''_1 + 1 + Q,$$
+where $Q$ is the specific effect of the node. Since these two [del]values[/del] [ins]expressions[/ins] are equal, we have
+$$Q = \Lambda'_2 - \Lambda'_1$$
+
+[fig]Sketches of various topological surfaces, nodes, and mathematical equations.[/fig]

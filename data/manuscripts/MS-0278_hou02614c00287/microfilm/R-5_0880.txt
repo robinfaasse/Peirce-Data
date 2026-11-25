@@ -1,0 +1,50 @@
+[date]1914 March 4[/date]
+[pn]Page 1[/pn]
+
+[fig]Diagram showing a curve and coordinates[/fig]
+
+[del][fig]Diagram[/fig][/del]
+
+[del]$\frac{z}{R} = \sin \psi$ $\frac{r}{R} = \cos \psi$[/del]
+[del]$dz = R \cos \psi d\psi$ $dr = -R \sin \psi d\psi$[/del]
+[del]$\sqrt{dr^2 + dz^2} = \sqrt{R^2 \cos^2 \psi + R^2 \sin^2 \psi} d\psi$[/del]
+[del]$R \sin \psi \sqrt{1 + (\frac{R}{z} \cot \psi)^2} d\psi$[/del]
+
+$(\frac{r}{R})^2 + (\frac{z}{Z})^2 = 1$
+
+Put $z = Z - z_1$
+
+$(r/R)^2 = (2 - z/Z) z/Z = 2 \frac{z}{Z} - (\frac{z}{Z})^2 = 1 - (\frac{z}{Z} - 1)^2 = 2 \frac{z}{Z} - (\frac{z}{Z})^2 = (2 - \frac{z}{Z}) \frac{z}{Z}$
+
+$\frac{r dr}{R^2} = \frac{dz}{Z} - \frac{z dz}{Z^2}$
+$r = \frac{R}{Z} \sqrt{(2Z-z)z}$
+
+$\frac{r dr}{R^2} = (1 - \frac{z}{Z}) \frac{dz}{Z}$
+
+$\sqrt{(2 - \frac{z}{Z}) \frac{z}{Z}} \frac{dr}{R} = (1 - \frac{z}{Z}) \frac{dz}{Z}$
+
+$\frac{dr}{R} = \frac{1 - \frac{z}{Z}}{\sqrt{(2 - \frac{z}{Z}) \frac{z}{Z}}} \frac{dz}{Z}$
+
+$r^2 = R^2$
+
+$(\frac{dr}{dz})^2 = \frac{1}{Z^2} \frac{Z-z}{2Z-z} dz$
+
+$dr = \frac{R}{Z} \frac{Z-z}{\sqrt{(2Z-z)z}} dz$
+
+Would it satisfy the equation
+
+$(\frac{dr}{dz})^2 = \frac{R^2}{Z^2} \frac{(Z-z)^2}{(2Z-z)z} = [ \frac{R^2}{Z^2} \frac{Z^2 - 2Zz + z^2}{(2Z-z)z} ] (\frac{dz}{dz})^2$
+
+to put
+
+$(dr)^2 + (dz)^2 = \{ \frac{R^2}{(2Z-z)z} - \frac{R^2}{Z^2} + 1 \} (dz)^2$
+
+$[ \frac{R^2}{(2Z-z)z} - \frac{R^2 - Z^2}{Z^2} ] (dz)^2$
+
+$\rho = r + z (\tan \phi_g - \operatorname{cosec} \phi_g)$ [fig]Right triangle with angle[/fig]
+
+$d\rho =$
+
+$\frac{R}{Z} = \frac{295}{294}$ $\frac{R-Z}{Z} = \frac{1}{294}$ $\frac{R+Z}{Z} = \frac{589}{294}$
+
+$\frac{R^2-Z^2}{Z^2} = \frac{1}{147} + \frac{1}{(294)^2}$

@@ -1,0 +1,23 @@
+$$(a+b+c+d+e)(a+b+h+i+j)(a+e+f+g+h)(b+c+j+k+l)(c+[ins]+d[/ins]d+l+m+$$
+$$(d+e+f+n+o)(f+g+o+p+q)(g+h+i+q+r)(i+j+k+r+s)$$
+$$(k+l+m+s+t)(m+n+o+p+t)(p+q+r+s+t)=$$
+$$=\begin{matrix} (a+c+g+m+p)(a+d+i+m+s)(a+f+j+p+s)(b+d+i+o+q)(b+e+k+ \\ [del]\begin{matrix} b+h+l+q+t \\ l+m+n \end{matrix}[/del])(c+e+q+k+r)(c+j+n+p+r)(d+f+l+q+s)(e+h+n+r+ \\ [del]\begin{matrix} = alor+ak\begin{matrix} n \\ q \end{matrix}+b \\ 2 \end{matrix}[/del] (g+i+k+m+o)(f+h+j+l+n) \end{matrix}$$
+
+$$= alor+aknq+bfmr+bgns+cfit+chos+dgjt$$
+$$+dhkp+eilp+ejmq$$
+
+$$(a+[del]b[/del])(a+c)(a+d)(a+e)(a+f)(b+c)(c+d)(d+e)(e+f)(f+b)$$
+$$(b+h)(h+c)(b+i)(i+d)(d+j)(j+e)(e+k)(k+f)(f+g)(g+b)$$
+$$(g+l)(h+l)(i+l)(j+l)(k+l)$$
+$$= bcdefghijk+acdefghikl+abdefghijl$$
+$$+abcefhijkl+abcdfgijkl+abedeghjkl$$
+
+$$(a+b+c)(a+c+d)(a+d+e)(a+e+f)(a+f+b)(b+c+h)(c+d+i)$$
+$$(d+e+j)(e+f+k)(f+b+g)(b+g+h)(c+h+i)(d+i+j)$$
+$$(e+j+k)(f+k+g)(g+h+l)(h+i+l)(i+j+l)(j+k+l)$$
+$$(k+g+l)$$
+$$= [del]\begin{matrix} aghijk+bdekil+cefgil+[del]bdfhkl[/del]+[del]bcegil[/del] \\ +[del]cdfhjl[/del]+[del]acegij[/del]+[del]adfhik[/del]+[del]abegik[/del]+[del]acfghi[/del] \\ +[del]abdhik[/del]+[del]bcdgfl[/del] \end{matrix}[/del] [ins]\begin{matrix} bd \\ = \end{matrix}[/ins]$$
+
+$$= abdhik+abegik+acegij+acfghi+adfhik$$
+$$+aghijk+[del]bcegil[/del] bcdefl+bcegil+bdekil$$
+$$+bdfhkl+cdfhjl+cefgil$$

@@ -1,0 +1,35 @@
+[date]December 31. 1858.[/date]
+[u]Chapter IX.[/u]
+[u]ACTION OF MOVING BODIES.[/u]
+[u]Characteristic Function.[/u]
+§306 Maupertuis' Action of the System or Hamilton's Characteristic Function.
+$$V = \Sigma_i \int_{s_i} m_i v_i$$
+If the mass were resisted, the amount of resistance would be proportional to the mass and the velocity and the space. $V$ is much like another function in differential equations. A complete investigation of this function is the sum of dynamics.
+§307 Expenditure of action by a moving system
+[del]$$V = \int_t 2T$$[/del] [ins]$$V = \int_t 2T$$[/ins]
+This is merely the ideal expenditure, because the system really expends nothing.
+Principle of Living Forces or Law of Power.
+§308 $$T = \Omega_s + H$$
+§309 Lagranges Canonical Forms of Equations of Motion.
+$$D_{\eta} \Omega = (D_t D_{\eta'} - D_{\eta}) T_{\eta\eta'}$$
+§310 Equations of motion expressed in rectangular coordinates
+the equations in this way come out as differential equations of the 2[sup]nd[/sup] [ins]degree[/ins].
+§311 $$D_t \omega = D_{\eta} (\Omega - T_{\eta\eta'})$$
+If $\eta, \eta_s$ etc were not independent, still you could go on as if they were if they were bound up in the value of $\delta \Omega$.
+$V_{x, y, z}$ is Homogeneous of the $n$.
+$$\Sigma (x D_x V) = n V$$
+$$V(x, t, z) = x^n U$$ ($U$ not involving $x$)
+$$t = \frac{y}{x}$$
+$$z = ut$$
+$$D_x V = n x^{n-1} U + x^n D_t U D_x t =$$
+$$n x^{n-1} U - t x^{n-1} D_t U$$
+$$x D_x V + y D_y V = n x^n V = n V$$
+§312 $$D_t \eta = D_{\omega} H_{\eta\omega}$$
+
+[date]January 3. 1859.[/date]
+§313 Derivatives of the Characteristic Function with reference to the elements of motion.
+It must vary in order that the time shall not vary i.e. you must start with a different living force.
+$$D_{\eta} V = \omega$$
+$$D_{\eta_0} V = - \omega_0$$
+$$D_H V = t$$
+By means of these equations, the problem is resolved into the determination of the single

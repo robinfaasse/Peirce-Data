@@ -1,0 +1,24 @@
+[marginalia]Morison's Bridge [date]1899 March 4[/date][/marginalia] [pn]6[/pn]
+
+$$\eta = \frac{1}{4!} \frac{K \xi_R''}{B_R} N^4 + (C_3' + \frac{1}{6} \frac{w}{B}) N^3 + (C_2' - \frac{1}{24} \frac{w}{B} J) N^2 + (C_1' + \frac{1}{12} \frac{w}{B} J^2) N + C_0' - \frac{1}{24} \frac{w}{B} J^3$$
+
+$$\begin{array}{cc}
+\frac{1}{3!} & N^3 \\
+\frac{1}{2!} & N^2 \\
+& N
+\end{array}$$
+
+$$\eta = \frac{K \xi_R''}{B_R} \frac{N^4}{4!} + \frac{w}{B} \left( \frac{J' N^3}{1! 3!} + \frac{J'^2 N^2}{2! 2!} + \frac{J'^3 N'}{3! 1!} [del]- \frac{J'^4 N^0}{4! 0!}[/del] \right)$$
+$$+ C_3' N^3 + C_2' N^2 + C_1' N + C_0$$
+
+[date]1899 March 5[/date] 3[sup]d[/sup] Sunday in Lent
+
+$$B D_N^2 \eta_N + 2 D_N \eta_N + [del]\Omega[/del] [ins]\Omega'[/ins] \eta_N + K \xi_R'' [del]\left[ 1 - \frac{(R+N)^2}{R^2} \right][/del] [ins]\frac{1}{R-N}[/ins] + K \xi_R'' \frac{R-N}{N} = 0$$
+
+$$\left( \frac{K \xi_R''}{B_R} + \frac{w}{B} \right) \frac{N^2}{2!} + [del]\frac{w}{B}[/del] [ins]\frac{w}{B}[/ins] \frac{(N-J)^2}{2!} + \overset{B}{6 C_3'} N + \overset{B}{2 C_2'}$$
+
+$$2 \left( \frac{K \xi_R''}{B_R} + \frac{w}{B} \right) \frac{N^3}{3!} + [del]2[/del] \frac{w}{B} \frac{(N-J)^3}{3!} + 3 \Omega' C_3' N^2 + 2 \Omega' C_2' N + 2 C_1'$$
+
+$$\frac{1}{2} \Omega' \left( \frac{K \xi_R''}{B_R} + \frac{w}{B} \right) \frac{N^4}{4!} + \Omega' \frac{w}{B} \frac{(N-J)^4}{4!} + \Omega' C_3' N^3 + \Omega' C_2' N^2 + \Omega' C_1' N + \Omega' C_0'$$
+
+$$K \xi_R'' \frac{R-N}{R} = 0$$

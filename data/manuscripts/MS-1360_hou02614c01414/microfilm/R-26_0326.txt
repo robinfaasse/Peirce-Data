@@ -1,0 +1,21 @@
+(24) [u]x[/u] = LA [integral] ([fraction]1/\epsilon[/fraction] + [fraction]1/\sqrt{A^{2}+Q^{2}(\lambda-\lambda_{k})^{2}}[/fraction]) d\lambda
+= [fraction]1/\epsilon[/fraction]LA {[fraction]\lambda/\epsilon[/fraction] + [fraction]1/Q[/fraction] log [fraction][\sqrt{A^{2}+Q^{2}(\lambda-\lambda_{k})^{2}} + Q(\lambda-\lambda_{k})][\sqrt{A^{2}+Q^{2}\lambda_{k}^{2}} + Q\lambda_{k}]/[\sqrt{A^{2}+Q^{2}(\lambda-\lambda_{k})^{2}} - Q(\lambda-\lambda_{k})][\sqrt{A^{2}+Q^{2}\lambda_{k}^{2}} - Q\lambda_{k}][/fraction]}
+
+These forms of equation have the advantage of showing the trajectory
+of each particle of the chain, as the links become more and more
+extensible.
+
+If the distribution of the load is horizontally uniform after the
+stretching so that
+(25) p = G[u]x[/u],
+the equation (5) gives
+(26) [fraction]dy/d[u]x[/u][/fraction] = C - [fraction]G/A[/fraction] [u]x[/u]
+and the curve is a parabola with a vertical axis. If \epsilon is constant
+and b = 0,
+(27) C = [fraction]1/2[/fraction] [fraction]G/A[/fraction] a [fraction]dy/d[u]x[/u][/fraction] = [fraction]G/A[/fraction] ([fraction]a/2[/fraction] - [fraction]x[/fraction]).
+Hence, by integration, and because y = 0 for [u]x[/u] = 0
+(28) y = [fraction]G/2A[/fraction] [u]x[/u] (a - [u]x[/u])
+(29) [u]y_{k}[/u] = [fraction]Ga^{2}/8A[/fraction]
+an equation which will serve to determine A. Substituting this
+in (6) we get by a simple transformation
+(30) [u]l[/u] = [integral] [fraction]d[u]x[/u]/[fraction]Ga^{2}/8\epsilon[u]y_{k}[/u][/fraction] + [fraction]1/\sqrt{1 + \frac{G^{2}}{A^{2}}(\frac{a}{2}-x)^{2}}[/fraction][/fraction]

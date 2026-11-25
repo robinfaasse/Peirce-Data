@@ -1,0 +1,13 @@
+our ideas, let us take a very simple example,—
+that of a simple particle accelerated toward
+a fixed centre, at a rate inversely as the [ins]$\underline{n}\text{-}$[/ins]
+power of its distance. Taking that centre as the
+origin of coordinates, the differential equation of
+the second order will be
+$$D_{\underline{t}}^{2} (\underline{r} \underline{e}^{\underline{\theta}\underline{i}}) = -\underline{a} \frac{\underline{e}^{\underline{\theta}\underline{i}}}{\underline{r}^{\underline{n}}} ,$$
+
+which is equivalent to the two equations
+$$D_{\underline{t}}^{2} \underline{x} = -\underline{a} \frac{\underline{x}}{(\underline{x}^{2}+\underline{y}^{2})^{(\underline{n}+1)/2}}$$
+$$D_{\underline{t}}^{2} \underline{y} = -\underline{a} \frac{\underline{y}}{(\underline{x}^{2}+\underline{y}^{2})^{(\underline{n}+1)/2}}$$
+
+$-\frac{2a}{n+1} s^{n+1} + C$

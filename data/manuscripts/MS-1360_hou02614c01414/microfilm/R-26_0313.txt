@@ -1,0 +1,19 @@
+[marginalia]Report on Morrison's Bridge[/marginalia]
+
+(24) $$z = IA \int \left( \frac{1}{\varepsilon} + \frac{1}{\sqrt{A^2 + Q^2 (\lambda - \lambda_k)^2}} \right) d\lambda$$
+$$= IA \left\{ \frac{\lambda}{\varepsilon} + \frac{1}{Q} \log \frac{[\sqrt{A^2 + Q^2 (\lambda - \lambda_k)^2} + Q(\lambda - \lambda_k)] [\sqrt{A^2 + Q^2 \lambda_k^2} + Q\lambda_k]}{[\sqrt{A^2 + Q^2 (\lambda - \lambda_k)^2} - Q(\lambda - \lambda_k)] [\sqrt{A^2 + Q^2 \lambda_k^2} - Q\lambda_k]} \right\}$$
+
+These equations have the advantage that, as $\varepsilon$ gradually changes, the trajectory of each particle is shown.
+
+If the load be so placed as to be uniform along the horizontal abscissa after the stretching, that is, so that
+(25) $$p = qx,$$
+where $q$ is a constant, since it is easy to see from the above that the functions dealt with will be singly periodic, and since trigonometric functions are more [del]easily[/del] [ins]forms of singly periodic[/ins] manipulated by most persons than other [del]varieties of these[/del] functions, it becomes desirable to take an angle as the independent variable. Now, the ratio $\frac{A}{\varepsilon}$ will be an important quantity, and it is desirable that the effects under stretching should be comparable with those when $\frac{A}{\varepsilon} = 0$. Hence $\frac{A}{\varepsilon}$ which is the ratio of a horizontal force to a force along the cable ought to vanish with one angle considered, and simplicity is subserved by making the variable angle vanish when the increment of the horizontal abscissa divided by the increment of the arc of the cable vanishes. That is, the indication is that we should [del]read[/del] [ins]take[/ins] for the variable the angle of the cable to the vertical. Denote this by $\varphi$, so that by (5)
+(26) $$\frac{dy}{dx} = \cot \varphi = \cot \varphi_0 - \frac{q}{A} x$$
+
+Then, even though $\varepsilon$ be variable, the curve of the cable is a parabola with its vertex at its lowest point. Since at the lowest point $dy/dx$ vanishes
+(27) $$A = q x_k \tan \varphi_0$$
+(28) $$\cot \varphi = \frac{dy}{dx} = \cot \varphi_0 \left( 1 - \frac{x}{x_k} \right).$$
+
+By differentiation of (28),
+(29) $$dx [del]dx[/del] = x_k \tan \varphi_0 \cdot \csc^2 \varphi \cdot d\varphi ;$$
+and by integration of the same formula,

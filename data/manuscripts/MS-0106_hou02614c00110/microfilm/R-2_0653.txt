@@ -1,0 +1,18 @@
+Let us now consider whether the equation
+of continuity is satisfied.
+
+The mere supposition of $\chi$ satisfies this.
+
+Are the hydrodynamic equations satisfied.
+This requires
+$$(D_x^2 + D_y^2)^2 \chi = 0$$
+
+$$D_x^2 \chi = D_x(D_x \chi) + D_x^2 y' (D_{y'} \chi) + D_x y' D_x (D_{y'} \chi)$$
+
+Now $D_x = (D_x) + D_x y' (D_{y'})$
+$$D_x^2 = \{(D_x) + D_x y' (D_{y'})\}\{(D_x) + D_x y' (D_{y'})\}$$
+
+$$= (D_x^2) + (D_x) D_x y' (D_{y'}) + 2 D_x y' (D_x D_{y'})$$
+$$+ D_x y' (D_{y'}) D_x y' (D_{y'}) + (D_x y')^2 (D_{y'}^2)$$
+$$= (D_x^2) - \frac{1}{y' + \frac{1}{2} \frac{a^2-b^2}{c}} (D_{y'}) - 2 \frac{x}{y' + \frac{1}{2} \frac{a^2-b^2}{c}} (D_x D_{y'})$$
+$$- \frac{x^2}{(y' + \frac{1}{2} \frac{a^2-b^2}{c})^3} (D_{y'}) + \frac{x^2}{(y' + \frac{1}{2} \frac{a^2-b^2}{c})^2} (D_{y'}^2)$$

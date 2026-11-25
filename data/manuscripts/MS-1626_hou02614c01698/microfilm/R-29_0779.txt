@@ -1,0 +1,34 @@
+[del]x + y = 25[/del]
+[del]x - y = 9[/del]
+[del]x = 17[/del]  [del]289[/del]
+[del]y = 8[/del]  [del]64[/del]
+[del]z = 15[/del]  [del]225[/del]
+
+x + y = 49
+x - y = 25
+x = 37
+y = 12
+z = 35
+
+x + y = 49
+x - y = 9
+x = 29
+y = 20
+z = 21
+
+x + y = 121
+x - y = 49
+x = 85
+y = 36
+z = 77  [ins]2n + 1
+2n + 1[/ins]
+
+x + y = a²  4m² + 4m + 1
+x - y = b²  4n(n + 1) + 1
+z = ab  4mn + 2(m + n) + 1
+
+[fig]Triangle with labels A, B[/fig] x(A + B) + 2L = xA + xB
+x(A + B) - 2L = xA - 2L + xB - 2L
+
+[fig]Tetrahedron with labels A, B, C[/fig] x(A + B + C) + 4L = xA + xB + xC
+x(A + B + C) - 2L = xA - 2L + xB - 2L + xC - 2L [fig]Triangle with labels A, B[/fig]

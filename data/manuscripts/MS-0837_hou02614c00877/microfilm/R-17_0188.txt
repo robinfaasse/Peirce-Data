@@ -1,0 +1,15 @@
+Let us substitute any two relations, say [u]loves[/u] for [u]is[/u], and [u]injures[/u] for [u]is not[/u]. Then, the inference becomes
+$$M\text{ injures }P;$$
+$$S\text{ loves }M;$$
+$$\therefore S\text{ injures }P.$$
+
+[del]For the truth of this[/del]
+
+$$\begin{array}{ccc}
+r^{r^A} \prec A & r + r^{\overline{A}} & \overline{r + r + \overline{A}} \\
+& r + \overline{r} A \prec A \\
+& \overline{A} \prec \overline{r} (r + \overline{A})
+\end{array}$$
+
+$$\overline{r^A} \prec A$$
+$$r + A \prec A$$

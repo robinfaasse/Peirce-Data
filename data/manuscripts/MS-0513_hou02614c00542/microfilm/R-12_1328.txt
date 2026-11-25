@@ -1,0 +1,30 @@
+[pn]PL[/pn] [pn]5[/pn]
+or going one step further, full (or empty) except for a single square
+or not so etc. All these regularities are easily expressed. Thus
+$\sigma l \bar{v}$ Somebody loves somebody
+$\sigma l \bar{j} 0$ Everybody is loved by somebody
+$\sigma (l \bar{j} 0)$ Somebody loves everybody
+$\sigma (l \bar{j} \bar{l}) \bar{j} 0$ There is at most but one person who loves any given person
+$\sigma (l \bar{j} \bar{l} \bar{j} 0)$ There is at most but one person who loves anybody at all.
+$\sigma (l \bar{j} \bar{l} \bar{v})$ There is at most but one person who loves everybody
+$\sigma j (l \bar{j} \bar{l}) \bar{v}$ Either there is somebody not loved at all or each person is the sole lover of somebody
+[del]$\sigma (l \bar{j} \bar{l}) \bar{v}$[/del] There is at least one person who has one lover at most
+$\sigma (l \bar{j} \tau 0)$ Somebody loves at least two persons
+$\sigma [(l \bar{j} \bar{l}) \tau \bar{j} 0]$ Somebody is the sole lover of at least two persons
+$\sigma (l \bar{j} \bar{l}) \tau \bar{j} 0$ There are at least two persons each loved by but one.
+[del]$\sigma (l \bar{l} \tau \bar{l} \bar{v}$[/del]
+
+But we cannot go beyond two with [del]the[/del] [ins]the algebra of[/ins] dyadic relatives. With the
+general algebra we can write $\Pi_1 \Sigma_2 \Sigma_3 \Sigma_4 l_{12} \cdot l_{13} \cdot l_{14} \cdot \Upsilon_{23} \cdot \Upsilon_{24} \cdot \Upsilon_{34}$ and so
+on. This does not seem to be expressible in the Dyadic Algebra.
+
+So $\Pi_1 \Pi_2 \Sigma_3 \Pi_4 l_{31} \cdot l_{32} \cdot (\bar{l}_{34} + l_{41} + l_{42})$ is beyond the powers of
+the dyadic algebra, this expressing that any two persons are loved by
+somebody who loves nobody else, and that every person is loved by somebody
+who loves nobody else.
+
+So $\Pi_1 \Pi_2 \Pi_3 \Sigma_4 \Pi_5 l_{41} \cdot l_{42} \cdot l_{43} \cdot (\bar{l}_{45} + l_{51} + l_{52} + l_{53})$ extends this
+assertion to every set of [ins]not more than[/ins] three persons.
+
+To extend the assertion to all sets requires an extension of the
+notation.

@@ -1,0 +1,31 @@
+$$\left(\frac{x}{X}\right)^2 + \left(\frac{y}{Y}\right)^2 = 1 - \left(\frac{z}{Z}\right)^2$$
+
+$$(Yx)^2 + (Xy)^2 = X^2 Y^2 \left[ 1 - \left(\frac{z}{Z}\right)^2 \right]$$
+
+$$\left(\frac{r}{R}\right)^2 = 1 - \left(\frac{z}{Z}\right)^2 = \frac{Z^2 - z^2}{Z^2}$$
+
+$$r = R \sqrt{1 - \frac{z^2}{Z^2}}$$
+
+$$dr = R \frac{-\frac{z}{Z^2}}{\sqrt{1 - \frac{z^2}{Z^2}}} dz$$
+
+$$\frac{r dr}{R^2} = - \frac{z dz}{Z^2}$$
+
+$$\frac{2r dr}{R^2} = - \frac{2z dz}{Z^2}$$
+
+$$r dr = - \frac{R^2}{Z^2} z dz$$
+
+$$\frac{R}{Z} \sqrt{Z^2 - z^2} dr = - \frac{R^2}{Z^2} z dz$$
+
+$$dr = - \frac{R}{Z} \frac{z}{\sqrt{Z^2 - z^2}} dz$$
+
+$$\rho$$
+
+$$\frac{\rho}{r} = \frac{d\rho}{dz}$$
+
+$$\sqrt{(dr)^2 + (dz)^2} = dz \sqrt{1 + \left(\frac{dr}{dz}\right)^2}$$
+
+$$d\rho = dz \sqrt{1 + \left(\frac{dr}{dz}\right)^2}$$
+
+$$\frac{\rho}{r} = \frac{d\rho}{dz \sqrt{1 + \frac{R^2}{Z^2} \frac{z^2}{Z^2 - z^2}}}$$
+
+$$\frac{d\rho}{\rho} = \frac{dz \sqrt{1 + \frac{R^2}{Z^2} \frac{z^2}{Z^2 - z^2}}}{\frac{R}{Z} \sqrt{Z^2 - z^2}} = dz \frac{Z}{R} \frac{\sqrt{Z^2 - z^2 + \frac{R^2}{Z^2} z^2}}{Z^2 - z^2}$$

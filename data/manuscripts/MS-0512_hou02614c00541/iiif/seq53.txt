@@ -1,0 +1,28 @@
+FL [right] 80
+
+If an operation changes
+$$x \rho_{123} + y \rho_{231} + z \rho_{312} + u \rho_{321} + v \rho_{132} + w \rho_{213}$$
+into
+$$X \rho_{123} + Y \rho_{231} + Z \rho_{312} + U \rho_{321} + V \rho_{132} + W \rho_{213}$$
+there are four specially characteristic numbers for this ope-
+ration, namely,
+1[u]st[/u], its [u]Modulus[/u], or [del]$M$[/del] $\frac{X+Y+Z+U+V+W}{x+y+z+u+v+w}$ [del]call this $M$[/del] [ins]which we may denote by $M$[/ins];
+2[u]nd[/u], its [u]Right handedness[/u], or $\frac{X+Y+Z-U-V-W}{x+y+z-u-v-w}$, which we may denote by $N$;
+3[u]rd[/u], its [u]Protension[/u], or $\frac{X+Y \rho + Z \rho^2 + U + V \rho + W \rho^2}{x+y \rho + z \rho^2 + u + v \rho + w \rho^2}$ where $\rho^3=1$ [ins]which we may denote by $P$[/ins];
+4[u]th[/u], its [u]Rightness of Protension[/u], or $\frac{X+Y \rho + Z \rho^2 - U - V \rho - W \rho^2}{x+y \rho + z \rho^2 - u - v \rho - w \rho^2}$ which we may denote by $Q$.
+
+Then $Mg = M$ $Ng = 0$ $Pg = 0$ $Qg = 0$
+        $Mh = 0$ $Nh = N$ $Ph = 0$ $Qh = 0$
+        $Mi = 0$ $Ni = 0$ $Pi = P$ $Qi = 0$
+        $Ml = 0$ $Nl = 0$ $Pl = 0$ $Ql = Q$
+        $Mj = 0$ $Nj = 0$ $Pj = iQ$ $Qj = 0$ [bracket] where $i^2 = -1$
+        $Mk = 0$ $Nk = 0$ $Pk = 0$ $Qj = iP$
+
+The consequence is that we may write
+$$g = M:M \quad h = N:N \quad i = P:P \quad l = Q:Q \quad j = P:Q \quad k = Q:P$$
+and the whole multiplication table is contained in the
+rule ([ins]if $A B C D$ are four of these letters[/ins])
+$$(A:B) (B:C) = (A:C)$$
+$$(A:B) (C:D) \text{ where } B \text{ is not } C = 0.$$
+This leads to an interesting algebra of relatives which I pass by as
+appropriate specially to the theory of probability which I have not yet come to.

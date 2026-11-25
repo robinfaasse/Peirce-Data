@@ -1,0 +1,26 @@
+[marginalia]Monson's Bridge 1899 March 2[/marginalia]
+[del]m[/del]
+[del]z =[/del] sin [del]p x [u]a+cx²[/u] + q log ([u]c[/u] x + [u]a+cx²[/u])[/del]
+D_x z = (p [u]c[/u] [u]a+cx²[/u] + p [del]c[/del] [ins]a[/ins] + cx² / [u]a+cx²[/u] + q [u]c[/u] + cx / [u]a+cx²[/u] / [u]c[/u] x + [u]a+cx²[/u]) cos
+
+z = sin 𝜙x
+D_x z = 𝜙'x cos 𝜙x
+D_x² z = 𝜙''x cos 𝜙x - (𝜙'x)² sin 𝜙x
+
+[del][u]a+cx²[/u][/del]
+z = 𝜖^(-1/2 i [x [u]a+cx²[/u] + a/[u]c[/u] log ([u]c[/u] x + [u]a+cx²[/u])])
+D_x z = -1/2 i [[u]a+cx²[/u] + cx² / [u]a+cx²[/u] + a/[u]c[/u] ([u]c[/u] + cx / [u]a+cx²[/u] / [u]c[/u] x + [u]a+cx²[/u])] z
+= (-1/2 i [a + 2cx² + a] / [u]a+cx²[/u]) z
+= -i [u]a+cx²[/u] z
+
+(D_x [del]+[/del] [ins]-[/ins] i [u]a+cx²[/u]) 𝜉 = 𝜖^(-1/2 i 𝜃)
+D_x 𝜉 = i [u]a+cx²[/u] 𝜉 + 𝜖^(-1/2 i 𝜃)
+
+1 / D_x - i [u]a+cx²[/u]
+
+D_x² 𝜉 = i [u]a+cx²[/u] D_x 𝜉 + i cx / [u]a+cx²[/u] 𝜉 - i [u]a+cx²[/u] 𝜖^(-1/2 i 𝜃)
+= -(a+cx²) 𝜉 + i cx / [u]a+cx²[/u] 𝜉 + i [u]a+cx²[/u] 𝜖^(-1/2 i 𝜃)
+
+D_x 𝜉 = -i [u]a+cx²[/u] 𝜉 + 𝜖^(+ i 𝜃)
+D_x² 𝜉 = -i cx / [u]a+cx²[/u] 𝜉 - (a+cx²) 𝜉 - i [u]a+cx²[/u] 𝜖^(+ i 𝜃)
++ i [u]a+cx²[/u] 𝜖^(+ i 𝜃)

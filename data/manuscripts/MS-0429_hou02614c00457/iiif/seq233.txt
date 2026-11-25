@@ -1,0 +1,23 @@
+108
+417
+
+[fig]cut being made[/fig]
+
+If these signs were to be used in any general application, some of them would require modification to prevent their being mistaken for two or three characters. It will be remarked that, i, j, k have each permutation in its own class indicated by the even or odd number of crossings in its character; while l, m, n reverse the class of each permutation.
+
+[del]§13[/del] In regard to the multiplication table, it is, in the first place, noticeable that if we take six new quantities, as follows:
+
+[fig]Printer: these are not dashes hyphens make them dark. #25 syl[/fig] [u]i"[/u] = [u](i - j) - (k - i)[/u]**        [u]l"[/u] = [u]([del]l[/del]-m) - (n - [del]l[/del])[/u]
+                  3                                 3
+[u]j"[/u] = [u](j - k) - ([del]l[/del] - j)[/u]       [u]m"[/u] = [u](m - n) - ([del]l[/del] - m)[/u]
+                  3                                 3
+[u]k"[/u] = [u](k - i) - (j - k)[/u]       [u]n"[/u] = [u](n - [del]i[/del]) - (m - n)[/u]
+                  3                                 3
+
+we have
+
+[u]i"[/u] - [u]j"[/u] = [u]i[/u] - [u]j[/u]       [u]j"[/u] - [u]k"[/u] = [u]j[/u] - [u]k[/u]       [u]k"[/u] - [u]i"[/u] = [u]k[/u] - [u]i[/u]
+[u]l"[/u] - [u]m"[/u] = [u]l[/u] - [u]m[/u]       [u]m"[/u] - [u]n"[/u] = [u]m[/u] - [u]n[/u]       [u]n"[/u] - [u]l"[/u] = [u]n[/u] - [u]l[/u];
+
+whence it follows that all formulae concerning the unaccented differences have reciprocal formulae exactly like them concerning accented differences. It is true that the reverse is not always
+true. [fig]v[/fig]

@@ -1,0 +1,6 @@
+$a \prec a$
+$a \prec (b \prec a)$
+$a \prec (b \prec b)$
+$a \prec [(a \prec b) \prec b]$
+[del]$[a \prec (b \prec b)] \prec c$[/del]
+$[(a \prec a) \prec b] \prec b$

@@ -1,0 +1,9 @@
+[u]§43.1[/u] Reduce the integral of $x^{-2}(1+x^3)^{-\frac{1}{3}}$ to depend upon one in which the exponent of the binomial is positive and less than unity and that of its factor positive and less than 3.
+
+Substituting $\begin{smallmatrix} m=-2 \\ a=1 \\ b=1 \\ n=3 \\ p=-\frac{1}{3} \end{smallmatrix}$ in (381) we have $\int x^{-2}(1+x^3)^{-\frac{1}{3}} = -x^{-1}(1+x^3)^{\frac{2}{3}} + \int x(1+x^3)^{-\frac{1}{3}}$
+
+Substituting $\begin{smallmatrix} m=1 \\ a=1 \\ b=1 \\ n=3 \\ p=-\frac{1}{3} \end{smallmatrix}$ in (382) we have $\int x(1+x^3)^{-\frac{1}{3}} = -\frac{1}{2}x^2(1+x^3)^{\frac{2}{3}} + 2\int x(1+x^3)^{\frac{2}{3}}$
+
+Substituting the 2nd member of the last equation for the first in the first equation we obtain
+Ans. $\int x^{-2}(1+x^3)^{-\frac{1}{3}} = -(x^{-1}+\frac{1}{2}x^2)(1+x^3)^{\frac{2}{3}} + 2\int x(1+x^3)^{\frac{2}{3}}$
+C

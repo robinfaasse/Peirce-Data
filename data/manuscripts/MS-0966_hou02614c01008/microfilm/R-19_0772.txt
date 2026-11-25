@@ -1,0 +1,16 @@
+$$xX + yY + zZ + wW =$$
+
+[del]$$\frac{x}{a_5+b_5+c_5+d_5} \cdot \frac{a_5}{5}$$[/del] [ins]$$c$$[/ins]
+
+$$x a_5 (a_1 X' + b_1 Y' + c_1 Z' + d_1 W')$$
+$$+ y b_5 (a_2 X' + b_2 Y' + c_2 Z' + d_2 W')$$
+$$+ z c_5 (a_3 X' + b_3 Y' + c_3 Z' + d_3 W')$$
+$$+ w d_5 (a_4 X' + b_4 Y' + c_4 Z' + d_4 W')$$
+
+[u]Suppose the points remain unchanged[/u]
+
+[del]$$(a_5 a_1 - 1) x + b_5 a_2 y + c_5 a_3 z + d_5 a_4 w = 0$$[/del]
+$$(a_5 a_1 - 1) x + b_5 a_2 y + c_5 a_3 z + d_5 a_4 w = 0$$
+$$a_5 b_1 x + (b_5 b_2 - 1) y + c_5 b_3 z + d_5 b_4 w = 0$$
+$$a_5 c_1 x + b_5 c_2 y + (c_5 c_3 - 1) z + d_5 [del]c_4[/del] [ins]$$d_4$$[/ins] w = 0$$
+$$a_5 d_1 x + b_5 d_2 y + c_5 d_3 z + (d_5 d_4 - 1) w = 0$$

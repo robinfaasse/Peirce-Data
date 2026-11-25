@@ -1,0 +1,20 @@
+Logic
+III
+57
+[fig]figure[/fig] true, then, if [u]x[/u] is true, [u]z[/u] is true; that is, by (64), if [u]y[/u] is true, [u]x[/u] < [u]z[/u]
+is true; that is, again by (64), [u]y[/u] < [u]x[/u] < [u]z[/u] is true. Thus (69) is proved.
+Let us call this the [u]Rule of Transposition[/u] : namely, that antece-
+dents of one consequent can be transposed. Whatever follows
+by virtue of this rule may be said to hold "by transposition"
+(70) [[u]x[/u] < [u]y[/u] < [u]z[/u]] < [u]y[/u] < [u]x[/u] < [u]z[/u]
+For by (69) is [u]x[/u] < [u]y[/u] < [u]z[/u] is true [u]y[/u] < [u]x[/u] < [u]z[/u] is true; whence
+(70) follows by (64).
+(71) [del][fig]figure[/fig] [u]y[/u] is true, then [u]x[/u] < [u]y[/u] is true,[/del] [ins][u]y[/u] < [u]x[/u] < [u]y[/u][/ins].
+For by (68) and (64) [u]x[/u] < [u]y[/u] < [u]y[/u] whence by transposition we get (71)
+(72) [del][fig]figure[/fig][/del] If [u]y[/u] is true, then [u]x[/u] < [u]y[/u] is true,
+This follows from (71) by (64). Thus, any antecedent may be
+added.
+[del](73) If ([u]x[/u] < [u]y[/u]) < [u]z[/u] is true, then ([u]x[/u] < [u]z[/u]) < [u]z[/u] is true.
+For if[/del]
+(73) [u]x[/u] < ([u]x[/u] < [u]y[/u]) < [u]y[/u]
+For by (68) ([u]x[/u] < [u]y[/u]) < [u]x[/u] < [u]y[/u] ; whence by contraposition (73)

@@ -1,0 +1,83 @@
+[fig]A large diamond-shaped grid tilted 45 degrees, composed of smaller squares. The grid is divided into four major quadrants by thick black lines that intersect at the center. Each small square within the grid contains a handwritten character, primarily single or double letters and marks. The grid is oriented with its corners pointing up, down, left, and right.
+
+Inside the top-left quadrant:
+d'' m' p'' m' n'' p'
+p'' n' p' n'' l' m'
+m' p' n' m' n'' l'
+l' n' m' n'' l' k''
+i'' l' n' k'' i' k'
+i' k' k'' i' j'
+j' i' j' k''
+i'' j' k''
+j' i'
+j'
+
+Inside the top-right quadrant:
+k'' p' m'
+k'' d'' m' p'
+k'' p' n' k' n'
+p' n' n'' n' k' i'
+n' n'' i' i' j' i'
+i' l' p' j' l' k' m'
+m' l' i' j' m' l' j'
+j' m' m' j' i' l' j'
+l' i' j' i' j' m' j' i'
+j' j' l' l' l' j' i' m' l'
+i' m' j' j' i' l' m' i' l' n''
+m' l' j' j' n'' n' i' j' l' n'' i'
+n'' n'' n' n' n' n' i' m' m' j' i'
+m' i' j' n' m' n'' j' j' l' i' j'
+
+Inside the bottom-left quadrant:
+k'' k' i' n'' p'
+k' i' j' l' n' m' p''
+i' j' j' m' m' p' n' n''
+j' l' m' n'' n' i' j' l' n''
+l' m' n'' i' j' m' i' j' n'' l'
+m' n'' i' j' l' m' j' l' i' j' n''
+n'' i' j' m' i' l' j' i' j' l' n''
+i' l' l' l' j' m' j' i' l' i'
+l' m' m' j' i' l' j' i' m' j'
+m' j' i' l' i' j' i' l'
+j' i' l' j' i' m'
+i' l' j' i'
+m' l'
+j'
+
+Inside the bottom-right quadrant:
+i' j' p''
+i' j' l' n'
+j' i' m' n' l' m' n'
+l' j' i' l' i' l' m' n' l' i'
+i' m' l' j' m' l' j' m' n' l'
+m' l' j' m' l' j' i' l' m' j' n''
+l' j' m' i' l' j' i' m' i' j' n''
+j' m' i' l' j' i' m' i' j' m' j' n''
+i' l' j' i' m' i' j' m' j' i' n''
+l' j' i' m' i' j' m' j' i' l'
+j' i' m' i' j' m' j' i' l'
+i' m' i' j' m' j' i' l'
+m' i' j' m' j' i' l'
+i' j' m' j' i' l'
+j' m' j' i' l'
+m' j' i' l'
+j' i' l'
+i' l'
+l'
+
+At the very bottom within the grid lines:
+k j i p
+i j i k
+k l m n
+l m n l
+m n l m
+n l m n
+l m n l m
+m n l m n
+n l m n
+l m n l
+m n l m
+n l m n
+l m n
+m n
+n[/fig]

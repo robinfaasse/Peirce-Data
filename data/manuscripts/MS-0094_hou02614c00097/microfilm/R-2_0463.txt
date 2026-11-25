@@ -1,0 +1,23 @@
+[pn]112[/pn] SOLID GEOMETRY. [CH. XVI. § 362
+
+[u]Solidity of the Parallelopipeds.[/u]
+
+**358. Corollary.** The solidity of any right parallelopiped or its ratio to the unit of solidity is, by § 352, the product of its base by its altitude, that is,
+$$AG = ABCD \times AE.$$
+
+**359. Corollary.** Since, by § 242,
+$$ABCD = AB \times AD,$$
+we have
+$$AG = AB \times AD \times AE;$$
+or the solidity of a right parallelopiped is the product of its three dimensions.
+
+**360. Corollary.** The solidity of a cube is the cube of one of its sides.
+
+**361. Corollary.** Since, by § 356, any parallelopiped of a rectangular base is equivalent to a right parallelopiped of the same base and altitude, the solidity of any parallelopiped of a rectangular base is the product of its base by its altitude.
+
+**362. Theorem.** *The solidity of any parallelopiped is the product of its base by its altitude.*
+
+*Proof.* Any parallelopiped which has $ABCD$ (fig. 169) for its base is, by § 356, equivalent to the parallelopiped $AG$, which has the same base, and its sides $AH$, $BE$, $CG$, $DF$, perpendicular to the base $ABCD$.
+
+But any other face may as well be assumed for the base of $AG$ as $ABCD$; taking, then, the rectangle $ABEH$ for the base, the parallelopiped $AG$ is, by § 361, equal to the right parallelopiped of the same base and altitude, that is, by drawing $DK$ perpendicular to $AB$,
+$$AG = DK \times ABEH = DK \times AB \times AH.$$

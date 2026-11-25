@@ -1,0 +1,17 @@
+[u]Theorem[/u]. Conversely, if two angles of a triangle are equal, so likewise are the sides opposite them.
+
+[u]Demonstration[/u]. For [del]suppose[/del] [ins]let[/ins] $ABC$ be an isosceles triangle having $|AC| = |BC|$.
+
+[fig]Isosceles triangle with extended side and intersecting line[/fig] Elongate the side $AC$ to $[E]$ and join $BE$.
+
+Then the angle
+$$\angle CBE = \angle CBA + \angle ABE$$
+$$\angle EBC = \angle EBA + \angle ABC$$
+or else $\angle EBC = \angle EBA - \angle CBA$.
+
+[fig]Tall narrow triangle with extended side[/fig] In the former case $\angle EBC > \angle ABC$; and by giving the motion a movement of translation along $\{EC\}$ until the particle at $[E]$ is carried to $[A]$, it is plain that the filament that was in $\{EB\}$ is made to cut $\{CB\}$ at a point, say $[F]$, nearer to $[C]$ than is $[B]$, so that
+$$\angle CEB < \angle CAB.$$
+
+Hence in this case, $\angle EBC > \angle CEB$.
+
+[fig]Three small geometric diagrams showing triangles and angles[/fig]

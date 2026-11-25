@@ -1,0 +1,21 @@
+$$ + \frac{\varepsilon}{2q} = \beta \qquad \alpha = \frac{8\varepsilon\Psi_{0}}{qa^{2}} $$
+
+$$ Px + Q\log x + R\frac{1}{x} + S\log\frac{x + \alpha + \sqrt{\alpha^{2}-1}}{x + \alpha - \sqrt{\alpha^{2}-1}} + T\log\left(x + \alpha - \sqrt{\alpha^{2}-1}\right) $$
+
+$$ P + Q\frac{1}{x} - R\frac{1}{x^{2}} + S\frac{1}{x + \alpha + \sqrt{\alpha^{2}-1}} + T\frac{1}{x + \alpha - \sqrt{\alpha^{2}-1}} $$
+
+$$ x^{2} + 2x\alpha + 1 $$
+
+$$ \left. \begin{array}{rll} & P( & x^{4} + 2\alpha x^{3} + x^{2} \\ + & Q( & \phantom{x^{4} + } x^{3} + 2\alpha x^{2} + x \\ + & R( & \phantom{x^{4} + x^{3}} - x^{2} - 2\alpha x - 1 \\ + & S( & \phantom{x^{4} + } x^{3} + (\alpha - \sqrt{\alpha^{2}-1})x^{2} \\ + & T( & \phantom{x^{4} + } x^{3} + (\alpha + \sqrt{\alpha^{2}-1})x^{2} \end{array} \right) $$
+
+$$ = \frac{\phantom{x^{4} + 2\alpha x^{3} + } x^{4} \phantom{+ 2\alpha x^{3}} + 2x^{2} \phantom{+ 2\alpha x^{3}} + 1}{x^{4} + 2x^{2} + 1} $$
+
+$$ P = 1 \qquad R = -1 \qquad \begin{array}{l} Q - 2\alpha R = 0 \\ Q = -2\alpha \end{array} $$
+
+$$ S + T = 0 \qquad \begin{array}{l} [del]-4\alpha^{2} + 2[/del] + \sqrt{\alpha^{2}-1}(T-S) = [del]2[/del] \\ T - S = \frac{4\alpha^{2}}{\sqrt{\alpha^{2}-1}} \qquad T = \frac{2\alpha^{2}}{\sqrt{\alpha^{2}-1}} \\ \phantom{T - S = \frac{4\alpha^{2}}{\sqrt{\alpha^{2}-1}}} \qquad S = \frac{-2\alpha^{2}}{\sqrt{\alpha^{2}-1}} \end{array} $$
+
+$$ x - 2\alpha\log x - \frac{1}{x} + \frac{2\alpha^{2}}{\sqrt{\alpha^{2}-1}}\log\frac{x + \alpha - \sqrt{\alpha^{2}-1}}{x + \alpha + \sqrt{\alpha^{2}-1}} $$
+
+$$ x - \frac{1}{x} = \frac{16\Psi_{0}}{a^{2}}\left(\frac{1}{2}a - x\right) \qquad \begin{array}{l} x + \alpha = \sqrt{1 + \frac{64\Psi_{0}^{2}}{a^{4}}\left(\frac{1}{2}a - x\right)^{2}} + \frac{8\Psi_{0}}{a^{2}}\left(\frac{1}{2}a - x\right) + \frac{8\Psi_{0}}{a^{2}}\frac{\varepsilon}{q} \\ \sqrt{\alpha^{2}-1} = \sqrt{\frac{64\Psi_{0}^{2}}{a^{4}}\frac{\varepsilon^{2}}{q^{2}} - 1} \end{array} $$
+
+$$ -\frac{\varepsilon}{q}\frac{8\Psi_{0}}{a^{2}}\left(\frac{1}{2}a - x\right) + \frac{\varepsilon}{q}\frac{8\varepsilon\Psi_{0}}{qa^{2}}\log\left[\sqrt{1 + \frac{64\Psi_{0}^{2}}{a^{4}}\left(\frac{1}{2}a - x\right)^{2}} + \frac{8\Psi_{0}}{a^{2}}\left(\frac{1}{2}a - x\right)\right] - \frac{\frac{2}{9}\frac{64\varepsilon^{2}\Psi_{0}^{2}}{q^{2}a^{4}}}{\sqrt{\frac{64\Psi_{0}^{2}}{a^{4}}\frac{\varepsilon^{2}}{q^{2}} - 1}}\log $$

@@ -1,0 +1,22 @@
+[pn]144[/pn]
+
+55. [u](From the Bamberg Rechenbuch, 1483)[/u]. Two couriers set
+out together. One goes 6 miles a day. The [del]other goes[/del] [ins]one[/ins]
+mile the first day, and every subsequent day 1 mile
+more than on the day before. In how many days
+have they gone the same number of miles?
+
+Let [u]x[/u] be the number of days. Then 6[u]x[/u] miles
+are travelled by the first. As to the second, write
+under his miles, the same in reverse order
+[fig]Two rows of numbers: 1 2 3 4 5 over 5 4 3 2 1[/fig] [fig]Two rows of numbers: 1 2 3 4 5 6 over 6 5 4 3 2 1[/fig]
+The sum of two, one over the other, is always [u]x[/u]+1, and
+there are [u]x[/u] such sums, making [u]x[/u]([u]x[/u]+1), But this
+counts his miles twice over. Therefore, he has gone
+[frac]1[/frac]/2 [u]x[/u]([u]x[/u]+1) miles. Thus the equation is
+[frac]1[/frac]/2 [u]x[/u]([u]x[/u]+1) = 6[u]x[/u].
+This is satisfied by [u]x[/u]=0. But we do not want that
+solution. The [u]x[/u] we want is [u]not[/u] 0. We may therefore
+divide by [u]x[/u], when the equation becomes
+[frac]1[/frac]/2([u]x[/u]+1) = 6
+giving [u]x[/u] = 11.

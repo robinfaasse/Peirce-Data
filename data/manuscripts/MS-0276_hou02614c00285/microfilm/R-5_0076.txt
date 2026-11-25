@@ -1,0 +1,32 @@
+$$\frac{x_1^2}{\alpha_1-\lambda} + \frac{x_2^2}{\alpha_2-\lambda} + \frac{x_3^2}{\alpha_3-\lambda} = 1$$
+
+$$(\alpha_1-\lambda)(\alpha_2-\lambda)(\alpha_3-\lambda) = x_1^2(\alpha_2-\lambda)(\alpha_3-\lambda) [del]+ x_2^2(\alpha_1-\lambda)(\alpha_3-\lambda)[/del]$$
+$$+ x_1^2(\alpha_2-\lambda)(\alpha_3-\lambda)$$
+$$+ x_2^2(\alpha_1-\lambda)(\alpha_3-\lambda)$$
+$$+ x_3^2(\alpha_1-\lambda)(\alpha_2-\lambda)$$
+
+$$\lambda^3 - (\alpha_1+\alpha_2+\alpha_3)\lambda^2 + (\alpha_1\alpha_2+\alpha_2\alpha_3+\alpha_3\alpha_1)\lambda - \alpha_1\alpha_2\alpha_3$$
+$$-(x_1^2+x_2^2+x_3^2)\lambda^2 - [del]\left[x_1^2(\alpha_2+\alpha_3)+x_2^2(\alpha_1+\alpha_3)\right][/del] [ins]\left[x_1^2(\alpha_2+\alpha_3)+x_2^2(\alpha_1+\alpha_3)+x_3^2(\alpha_1+\alpha_2)\right][/ins]\lambda$$
+$$+ x_1^2\alpha_2\alpha_3$$
+$$+ x_2^2\alpha_3\alpha_1$$
+$$+ x_3^2\alpha_1\alpha_2 = 0$$
+
+$$\lambda_1+\lambda_2+\lambda_3 = \alpha_1+\alpha_2+\alpha_3 - x_1^2-x_2^2-x_3^2$$
+$$\lambda_1\lambda_2+\lambda_2\lambda_3+\lambda_3\lambda_1 = \alpha_1\alpha_2+\alpha_2\alpha_3+\alpha_3\alpha_1$$
+$$-x_1^2(\alpha_2+\alpha_3)-x_2^2(\alpha_3+\alpha_1)-x_3^2(\alpha_1+\alpha_2)$$
+$$\lambda_1\lambda_2\lambda_3 = \alpha_1\alpha_2\alpha_3 \left( 1 - \frac{x_1^2}{\alpha_1} - \frac{x_2^2}{\alpha_2} - \frac{x_3^2}{\alpha_3} \right)$$
+
+---
+
+$$(\alpha_1-\lambda)(\alpha_2-\lambda)(\alpha_3-\lambda) = 0$$
+
+$$\lambda^3 - \lambda^2(\alpha_1+\alpha_2+\alpha_3)$$
+$$+ \lambda(\lambda_1\lambda_2+\lambda_2\lambda_3+\lambda_3\lambda_1) - \lambda_1\lambda_2\lambda_3$$
+
+$$(\alpha_1-\lambda_1)(\alpha_1-\lambda_2)(\alpha_1-\lambda_3)$$
+$$= \alpha_1^3 - \alpha_1^2(\lambda_1+\lambda_2+\lambda_3) - \alpha_1^2(\lambda_1+\lambda_2+\lambda_3) - \alpha_1^2\lambda_1\lambda_2$$
+$$+ \alpha_1(\lambda_1\lambda_2+\lambda_2\lambda_3+\lambda_3\lambda_1) + \alpha_3\lambda_1\lambda_2$$
+$$- \lambda_1\lambda_2\lambda_3$$
+$$= x_1^2\alpha_1\alpha_3 + x_2^2\alpha_3\alpha_1 + x_3^2\alpha_1\alpha_2$$
+$$- \alpha_1^2(\lambda_1+\lambda_2+\lambda_3) - \alpha_1^2\lambda_1\lambda_2$$
+$$+ \alpha_1(\lambda_1\lambda_2+\lambda_2\lambda_3+\lambda_3\lambda_1) + \alpha_3\lambda_1\lambda_2$$

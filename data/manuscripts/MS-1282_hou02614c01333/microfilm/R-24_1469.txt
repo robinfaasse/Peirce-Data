@@ -1,0 +1,31 @@
+[pn]31[/pn]
+
+later. Then, $S_{n+1} - S_{n}$ will be the distance
+fallen during that time or the mean velocity
+during that time. To say that this [del]mean[/del] velocity
+is proportional to the space is to say that
+$S_{n+1} - S_{n}$ will be intermediate in value
+between $A S_{n}$
+and $A S_{n+1}$
+for all values of $n$.
+
+But if $S_{n+1} - S_{n} = A S_{n}$
+$\frac{S_{n+1}}{S_{n}} = \frac{1+A}{[del]A+1[/del]}$
+
+$S_{n+1} - S_{n} = A S_{n+1}$
+$\frac{S_{n+1}}{S_{n}} = \frac{1}{1-A}$
+$= 1 + \frac{A}{1-A}$
+
+Of course $A$ must be very
+small because $S_{n+1}$ differs
+little from $S_{n}$ hence $1 + \frac{A}{1-A} = 1 + A$
+
+Then because this holds for all values of $n$
+[del]This is the same as to say that the ratios[/del]
+[del]of spaces [ins]for a given interval[/ins] fallen at the[/del]
+[del]begon[/del] $\frac{S_{n+2}}{S_{n+1}} = 1 + A$     $\frac{S_{n+2}}{S_{n}} = \frac{S_{n+2}}{S_{n+1}} \cdot \frac{S_{n+1}}{S_{n}} = (1+A)^{2}$
+
+$\frac{S_{n+m}}{S_{n}} = (1+A)^{m}$
+
+And the ratio of spaces [ins]already[/ins] fallen at
+the beginning and end of any [ins]given[/ins] time

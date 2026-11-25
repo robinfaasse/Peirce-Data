@@ -1,0 +1,45 @@
+[pn]127[/pn]
+
+$$\begin{aligned}
+z &= 7 \\
+y &= 26 - 3z \\
+x &= 4z - 10
+\end{aligned}$$
+
+Then
+$$x - 25 = 4z - 10 - 25$$
+and
+$$2(x - 25) = 2(4z - [del]35[/del] [ins]35[/ins])$$
+
+But, multiplying the second equation by $z$, we get
+$$yz = 26z - 3zz$$
+
+Hence $2(x - 25) = 2(26z - 3zz - 35)$
+$$= 52z - 6zz - 70$$
+
+Adding the first equation
+$$2(x - 25) + z = 52z - 6zz - 63$$
+
+Subtracting $z$
+$$2(x - 25) = 51z - 6zz - 63$$
+
+Dividing by 3
+$$\frac{2}{3}(x - 25) = 17z - 2zz - 21$$
+
+Multiplying the first equation by [del]itself[/del] $z$
+$$[del]zz = 49[/del] \ zz = 7z$$
+
+Adding this to the last
+$$\frac{2}{3}(x - 25) + zz = 24z - 2zz - 21$$
+
+Multiplying the first equation by 2
+$$2z = 14$$
+
+Subtracting from the last
+$$\frac{2}{3}(x - 25) + zz - 2z = 24z - 2zz - 35$$
+
+[del]Three times[/del] The second equation [del]is[/del] multiplied by $z$ gives
+$$[del]3y = 72 - 9z[/del] \ yz = 26z - 3zz$$
+
+Subtracting this from the last
+$$\frac{2}{3}(x - 25) + zz - 2z - yz = -2z + zz - 35$$

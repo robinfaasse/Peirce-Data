@@ -1,0 +1,21 @@
+[pn]Logic
+III
+94[/pn]
+
+(75) $x \prec y = x \curlywedge (y \curlywedge y) = (x \curlywedge x) \curlywedge y$,*
+(76) $x \infty y = (x \curlywedge x) \curlywedge y = x \curlywedge (y \curlywedge y)$.
+
+We further have
+
+(77) $\bar{x} = x \curlywedge x$
+(78) Necessarily, $x \curlywedge (x \curlywedge x)$
+(79) Necessarily, $(x \curlywedge x) \curlywedge x$
+[del](80) $(x \curlywedge y) \curlywedge z = (x \curlywedge z) \curlywedge (y \curlywedge z)$[/del]
+
+[del](80) $(x \curlywedge y) \curlywedge z = (x \curlywedge z) \curlywedge (y \curlywedge z)$[/del]
+(81) $x \curlywedge (y \curlywedge z) = (x \infty y) \cdot (x \infty z)$
+(82) $(x \curlywedge y) \curlywedge z = (x \curlywedge z) \cdot (y \curlywedge z)$
+(83) $x \curlywedge (y \curlywedge z) = (x \curlywedge y) \cdot (x \curlywedge z)$
+(84) $(x \cdot y) \curlywedge z = x \curlywedge (y \cdot z)$
+
+It is probable that some of these formulae are contained in Mrs. Franklin's paper in [u]Studies in Logic[/u] (Boston: Little, Brown & Co. 1883), although the point of view is so different that it would require attentive reperusal to pick them out.

@@ -1,0 +1,84 @@
+[marginalia]
+Morrison's Bridge [date]1899 March 15[/date]
+[/marginalia]
+
+Differential of the [ins]full[/ins] energy relatively to $\eta_N$
+
+$\Omega_{\eta_N} \eta_N + 2 \frac{\eta_N - \eta_{N-S}}{S} \eta_N + 2 K \xi_{SR}'' \frac{N}{r} + \frac{1}{2} (R-N) \frac{\frac{R+N}{r} \frac{1}{R-N} + \frac{\eta_N}{R-N}}{\sqrt{1 + 2 \frac{R+N}{r} \frac{\eta_N}{R-N} + (\frac{\eta_N}{R-N})^2}}$
+
+$\frac{R+N}{r} - (\frac{R+N}{r})^2 \frac{\eta_N}{R-N} + \eta_N = 0$
+
+This omits the term in $\mathcal{B}$
+
+[fig]Caricature profile of a face looking at a graph[/fig]
+
+$D_{\xi_{SR}''} \eta = \frac{1}{41} \frac{K}{\mathcal{B} r} \eta^4$
+
+$D_{\eta} \xi_{SR}'' = \frac{1}{2r} S$
+
+$d\eta = \frac{1}{41} \frac{K}{\mathcal{B} r} \eta^4 d\xi_{SR}''$
+
+$d\xi_{SR}'' = \frac{1}{2r} S d\eta = \frac{1}{40} D_{\xi_{SR}''} \eta$
+
+$d\xi_{SR}'' = \frac{1}{5!} \frac{K}{\mathcal{B} r} \eta^5 = \frac{N}{5r} D_{\xi_{SR}''} \eta_N$
+
+$= \frac{1}{5!} \frac{K N^3}{64 \mathcal{B}}$
+
+$= \frac{1}{768} \frac{K N^3}{\mathcal{B}}$
+
+[fig]Diagram of a curved beam or bridge span[/fig]
+
+$\frac{N^2}{r} = \frac{1}{8} N$
+
+$8 N = r$
+
+$K \xi^2 = M \frac{\xi^2}{T^2}$
+
+$\frac{1}{2} K Y^2 + w y + \frac{1}{2} E y^2$
+
+[del]$K Y + w$[/del]
+$Y = \frac{1}{R} y + A$
+
+[del]$K Y + w = 0$[/del]
+
+[del]$\frac{1}{R}$[/del]
+
+[del]$K Y + w = 0$[/del]
+
+[del]$y = \frac{w}{K}$[/del]
+
+$K Y + w + E y = 0$
+
+$y = - \frac{K Y + w}{E}$
+
+$Y = - \frac{1}{R} \frac{K Y + w}{E} + A$
+
+$D_Y Y = - \frac{1}{R} \frac{K}{E}$
+
+$\frac{\frac{K}{R} Y + w}{E}$
+
+$K (\frac{1}{R} y + A) + w + E y = 0$
+
+$y = - \frac{\frac{K}{R} A + w}{\frac{K}{R} + E}$
+
+$Y = - \frac{K A + w}{K + E R} + A$
+
+[fig]Small sketch of a curve with a peak[/fig]
+
+[fig]Small sketch of a curve with a peak and a line[/fig]
+
+$\mathcal{B}$
+
+$\mathcal{B}$
+
+[fig]Graph with a curve and a tangent line[/fig]
+
+[fig]Graph with a curve and a tangent line[/fig]
+
+[fig]Graph with a curve and a tangent line[/fig]
+
+[fig]Graph with a curve and a tangent line[/fig]
+
+[fig]Graph with a curve and a tangent line[/fig]
+
+[fig]Graph with a curve and a tangent line[/fig]

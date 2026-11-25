@@ -1,0 +1,35 @@
+[pn]2[/pn]
+
+Morrison's Bridge [date]1899 Feb 26[/date]
+<u>Quantity to be squared</u>
+
+[del]$$2 \xi'_R (R-N) - 2 a' \frac{N}{\mu} (R-N) + 2 b' \frac{N^2}{\mu} (R-N) + 2 c' \frac{N}{\mu} (R-N) (2N+I) I - 2 c \frac{N}{\mu} (R-N) (N+I)^2$$[/del]
+
+<u>Square</u>
+$$\frac{1}{(R-N)^2} \left\{ * \xi'^2_R + 2 \xi'_R \frac{N}{\mu} \left[ -a' + b'N + c'(2N+I)I - c(N+I)^2 \right] \right.$$
+$$\left. + \frac{N^2}{\mu^2} \left[ a'^2 - 2a'b' [del]\frac{N}{\mu}[/del] 2 a'c'(2N+I)I + 2a'c(N+I)^2 \right. \right.$$
+$$\left. \left. + b'^2 N^2 + 2b'c' N(2N+I)I - 2b'c N(N+I)^2 \right. \right.$$
+$$\left. \left. + c'^2 (2N+I)^2 I^2 - 2c'c (2N+I)(N+I)^2 I \right. \right.$$
+$$\left. \left. + c^2 (N+I)^4 \right] \right\}$$
+
+To be divided by $-8(R-N)^3 \left(1 + \frac{N^2}{\mu^2}\right) \sqrt{1 + \frac{N^2}{\mu^2}}$
+
+<u>Quotient</u>
+
+[del]$$-\frac{1}{2} \frac{1}{(R-N) \sqrt{1+\frac{N^2}{\mu^2}}} \left\{ \frac{\xi'^2_R}{\sqrt{1+\frac{N^2}{\mu^2}}} \right.$$[/del]
+
+$$-\frac{1}{2 (R-N) \sqrt{1+\frac{N^2}{\mu^2}}} \left( - \frac{\xi'^2_R}{1+\frac{N^2}{\mu^2}} + 2 \frac{\xi'_R \frac{N}{\mu}}{1+\frac{N^2}{\mu^2}} \left[ -a' + b'N + c'(2N+I)I - c(N+I)^2 \right] \right)$$
+$$+ \xi'^2_R$$
+
+$$1 - \frac{1}{1+\frac{N^2}{\mu^2}} = \frac{\frac{N^2}{\mu^2}}{1+\frac{N^2}{\mu^2}}$$
+
+$$+ \frac{N^2}{\mu^2} \frac{1}{1+\frac{N^2}{\mu^2}} \left[ -a'^2 + 2a'b'N \text{ etc} \right]$$
+$$+ a'^2 - 2a'b'N$$
+
+$$1 - \frac{x^2}{1+x^2} = \frac{1}{1+x^2}$$
+
+These make length
+$$(R-N) \sqrt{1+\frac{N^2}{\mu^2}} + \xi'_R \frac{1}{\sqrt{1+\frac{N^2}{\mu^2}}} [del]\frac{\xi'_R}{2}[/del] + \frac{\frac{N}{\mu}}{\sqrt{1+\frac{N^2}{\mu^2}}} \left\{ -a' + b'N + c'(2N+I)I - c(N+I)^2 \right\}$$
+
+$$+ \frac{1}{2(R-N)\sqrt{1+\frac{N^2}{\mu^2}}} \left\{ [del]\left(1+\frac{N^2}{\mu^2}\right)[/del] [del]\frac{\xi'^2_R}{2}[/del] [del]\frac{\mu^2}{N^2} \xi'^2_R[/del] + 2 \xi'_R \frac{N}{\mu} \left[ -a' + b'N + c'(2N+I)I - c(N+I)^2 \right] \right.$$
+$$\left. + a'^2 - 2a'b'N - 2a'c'(2N+I)I + \text{etc} \right\}$$

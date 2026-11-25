@@ -1,0 +1,7 @@
+[pn]13[/pn] Now there are, in all, only D-1 such fractions different from one another, not counting [del]$\frac{0}{\text{D}}$[/del] [ins]$\frac{0}{1}$[/ins], which can never occur. Indeed, from one of the most elementary and fundamental of the propositions of higher arithmetic, (which the reader can, perhaps, demonstrate for himself,) it follows that writing TD, which we call "the totient of D", for the number of numbers less than D and having no divisor in common with D (except, of course, 1) then the $(T D)^{\text{th}}$ result will always restore the original expression. For example, take B=10 and D=49.
+
+Now the numbers that are less than 49 are 48 in number; and of these, six, namely, 7, 14, 21, 28, 35, and 42, have the factor 7 in common with 49. This leaves 48-6, or 42, as the totient of 49, and accordingly,
+
+$\frac{1}{49} = \dot{0}20408,163265,306122,448979,591836,734693,87755\dot{1}$
+
+so that 42 shifts of the decimal point, the whole part of the result being always subtracted, will restore the original expression. Each [del]shift[/del] [ins]shift multiplies the previous[/ins]

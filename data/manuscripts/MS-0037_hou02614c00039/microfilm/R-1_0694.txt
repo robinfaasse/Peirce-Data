@@ -1,0 +1,50 @@
+[pn]4122[/pn]
+
+together with all the forms obtained by affixing to each
+$x$-ad of diversity $y+1$ an object of anyone of its $y+1$
+kinds in a new place, and the forms so [del]obtained[/del] [ins]arising[/ins] from
+different forms are all different. Hence, putting $[x,y]$
+for the formality of $x$-ads of diversity $y$, we have
+($E$ being the symbol of enlargement, or $\Delta + 1$)
+$E_x E_y [x,y] = y E_y [x,y] + [x,y]$.
+We also have
+$[x,0] = 0$ $[1,1] = 1$.
+The solution of these equations is
+$[x,y] = \sum_1^y i \frac{(-)^i 2^{x-1}}{i! (y-i-2)!}$
+
+whence
+$\Delta_x^n [1,y] = [n, y-1]$.
+
+Also $\Sigma_y [x,y]$ has the value given by me,
+[u]Am. Jour. Math.[/u] Vol III p. 58. I will set down a
+few forms.
+
+[u]Monads[/u]
+A
+
+[u]Dyads[/u]
+AA
+[del]AB[/del]
+
+[u]Triads[/u]
+AAA
+[u]AAB[/u]
+ABA
+ABB
+ABC
+
+[u]Tetrads[/u]
+AAAA
+[u]ABAB[/u]
+[del]AABA[/del]
+AABB
+ABAA
+[del]ABAB[/del]
+[del]ABBA[/del]
+[u]AABC[/u]
+ABAC
+ABBC
+ABCA
+[del]ABCB[/del]
+ABCC
+ABCD

@@ -1,0 +1,28 @@
+[77]
+
+[fig]figure[/fig]
+
+e = a + b + x (b - a)
+e = d + c + x (d - c)
+
+f = d + a + y (d - a)
+f = c + b + y (c - b)
+
+d + c - b - a = x (- d + c + b - a)
+
+x = (d + c - b - a) / (- d + c + b - a)
+
+e = a + b + (d + c - b - a) / (- d + c + b - a) (b - a)
+
+[fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig]
+
+p² = a² + b² - 2ab cos E
+[del]p² =[/del] c² + d² - 2cd cos G
+
+l² = f² + g² - 2fg cos X
+d² = h² + e² - 2he cos X
+
+(f² + g² - l²) he = (h² + e² - d²) fg
+(e² + f² - a²) gh = (g² + h² - c²) ef
+
+[fig]figure[/fig] [fig]figure[/fig]

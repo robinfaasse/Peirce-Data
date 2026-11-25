@@ -1,0 +1,36 @@
+239r
+
+1903 July 10
+Endless Nest of Seps
+
+[fig]figure[/fig]
+
+[fig]figure[/fig] = [fig]figure[/fig]
+x = [u]a[/u] + [u]x[/u]   The graph asserts nothing
+[del]x + i.e [u]a[/u]x + [u]x[/u] = 0[/del] since [u]x[/u] < x so that it must be true While [u]a[/u] must be absurd
+[u]x[/u] = a x
+x = [u]a[/u] + a . x
+[u]x[/u] = a . ([u]a[/u] + [u]x[/u])   [fig]figure[/fig] [ins]un[/ins]   [fig]figure[/fig]
+[fig]figure[/fig]   [fig]figure[/fig]
+[u]x[/u] < [u]a[/u] + [u]x[/u]
+[u]a[/u] < x [u]x[/u] < x
+[del]ax = a x + [u]a[/u] + [u]x[/u][/del]
+x = [u]a[/u] + [u]x[/u]                                x = [u]a[/u] + a . x
+x = x + x = [del]a + x + x = 0[/del]           [u]a[/u] x x   x < [u]a[/u] + x
+[del]00[/del] = x + [u]x[/u] = [u]a[/u] + [u]x[/u]                            [u]x[/u] . [u]a[/u] = x
+x = [u]a[/u] + a . ([u]a[/u] + a . (
+____________________________________________________________________
+x = [fig]figure[/fig]                       [del]bx =[/del]
+[fig]figure[/fig]
+x = [u]a[/u] + b . x       x = [u]a[/u] + b . ([u]a[/u] + b . x)
+[u]a[/u] < x
+0 = [u]a[/u] . [u]x[/u]             [fig]figure[/fig]          x = [u]a[/u] . b + v . a
+[u]b[/u]x = a [u]b[/u]                            x = [u]a[/u] . [u]b[/u] + [u]a[/u] [u]b[/u] + v . a . [u]b[/u]
+                                     x = [u]a[/u] + v . b
+                                     [u]x[/u] = a [u]b[/u] + [u]v[/u] . a . b
+____________________________________________________________________
+x = [fig]figure[/fig]                       [fig]figure[/fig]
+x = [u]a[/u] + b . ([u]c[/u] + [u]x[/u])   x + [u]b[/u]x = [u]a[/u] + b [u]c[/u] + [u]x[/u]
+[del]bx + x[/del] 0 = [u]a[/u] [u]x[/u]            x + [u]b[/u]
+0 = [u]b[/u] . [u]c[/u] . [u]x[/u]       [fig]figure[/fig]   abc absurd
+0 = [u]b[/u] . [u]x[/u]                       a[u]b[/u]c doubtful

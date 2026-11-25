@@ -1,0 +1,32 @@
+[u]Polar conic[/u]
+
+$(x^2+y^2)(y+cz) + 2(1-c)xyz = 0$
+
+[del]$2xX$[/del]
+$2x(y+c)X + 2(1-c)yX$
+$+ 2y(y+c)Y + (x^2+y^2)Y + 2(1-c)xY$
+$+ (x^2+y^2)c + 2(1-c)xy = 0$
+
+$(Y+c)x^2 + 2(X+1-c)xy + (3Y+c)y^2$
+$+ 2[(1-c)Y [del]+ cX[/del]]x + 2((1-c)X+cY)y$
+
+[marginalia]
+[fig]curly bracket[/fig]
+[/marginalia]
+
+[marginalia]
+[del]Come down to the little corner[/del]
+[/marginalia]
+
+[marginalia]
+$xy = \frac{x}{y}$
+$yz = y$
+$y^2 = Z$
+$x^3 = Y$
+$y^3 = X$
+$y^2 = 2Y$
+$x^2 = 2X$
+$y^2 = \frac{2X}{y^2}$
+$2(\frac{y}{x} + \frac{x}{y^2})x(2Y + \frac{1}{y}xY)$
+$+ c\sqrt{x}yz$
+[/marginalia]

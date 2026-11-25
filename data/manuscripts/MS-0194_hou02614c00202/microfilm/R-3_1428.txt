@@ -1,0 +1,33 @@
+[u]Spherical Triangles[/u]
+
+Given 2 sides & incl. angle.
+
+[del]cos[/del] $\cos c = \cos a \cos b + \sin a \sin b \cos C$
+
+$\tan A = \frac{\sin C}{\cot a \sin b - \cos b \cos C}$
+
+$\tan B = \frac{\sin C}{\cot b \sin a - \cos a \cos C}$
+
+| If $C = 90^\circ$ | If $a = 90^\circ$ |
+| --- | --- |
+| $\cos h = \cos a \cos b$ | [del]$\cos$[/del] $\cos a = \sin b \cos A$ |
+| [del]$\tan A = \tan a \cdot \csc b$[/del] | $\tan H = - \tan A \sec b$ |
+| [del]$\tan B = \tan b \csc a$[/del] | $\tan B = \sin A \tan b$ |
+
+Given 2 angles and incl. side
+
+$\cos C = - \cos A \cos B + \sin A \sin B \cos c$
+
+[del]$\tan a$[/del]
+[del]$\cot a = \frac{\cot B}{\cot c \cos B + \sin B \cot A \csc c}$[/del]
+
+$\tan a = \frac{\sin c}{\cot A \sin B + \cos B \cos c}$
+
+[del]$\tan b$[/del] $\tan b = \frac{\sin c}{\sin A \cot B + \cos A \cos c}$
+
+| If $A = 90^\circ$ | If $c = 90^\circ$ |
+| --- | --- |
+| [del]$\cos A = \sin B \cos$[/del] | $\cos H = - \cos A \cos B$ |
+| $\cos A = \sin B \cos a$ | [del]$\tan a = \tan A \csc B$[/del] |
+| $\tan h = \tan a \sec B$ | [del]$\tan b = \csc A \tan B$[/del] |
+| $\tan b = \sin a \tan B$ | |

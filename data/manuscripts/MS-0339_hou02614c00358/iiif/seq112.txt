@@ -1,0 +1,20 @@
+1868 Nov. 8.
+
+If $A_1 A_2 A_3$ , $B_1 B_2 B_3$ &c are individuals
+[del][fig]figure[/fig][/del]
+If $A_1 \equiv A_{1, C_{B_1}}$ then $B_1 \equiv B_{1, C_{A_1}^{-1}}$
+and conversely
+[fig]figure[/fig]
+and so
+if $\Sigma A_i \equiv \Sigma (A_{i, C_{B_i}})$ [del]then[/del] $\Sigma B_i = \Sigma (B_i, C_{A_i}^{-1})$
+and conversely
+
+or if $\Sigma'$ denotes the logical sum
+if $\Sigma_i A_i \equiv \Sigma_i A_{i, \Sigma'_i C_{B_i}}$ then $\Sigma_i B_i \equiv \Sigma_i B_{i, \Sigma'_i C_{A_i}^{-1}}$
+
+Now $C$ may be so taken that
+$C_{x+y} \equiv C_x [del]C_y[/del] C_y$
+or so that
+$C_{x+y} \equiv C_x [ins],[/ins] C_y$
+
+In the former case $\Sigma'_i C_{B_i} \equiv C_{\Sigma_i B_i}$

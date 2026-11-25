@@ -1,0 +1,35 @@
+[pn]32[/pn]
+
+[marginalia]
+The second notation as
+[/marginalia]
+
+$(x \sim y \sim z) + 2(xy \sim yz \sim zx)$
+
+The sum of four, $x, y, z, w$ is expressed as
+
+$(x \sim y \sim z \sim w) + 2(xy \sim xz \sim xw \sim yz \sim yw \sim zw) \begin{array}{l} \\ + 2^2 xyzw. \end{array}$
+
+The sum of any number, $x_1, x_2, x_3, x_4, x_5$ etc. has [del]for[/del] in
+
+the [del]unit's[/del] [ins]ones'[/ins] place the continued difference of all; in the
+
+two's place, the continued difference of all products of two;
+
+in the four's place, the continued difference of all pro-
+
+ducts of four [del]of the[/del] [ins]dyadies;[/ins] in the eight's place, the
+
+continued difference of [del]all[/del] products of eight of the dyadies;
+
+and so on. Hence, the sum of
+
+$a + 2b + 2^2c + 2^3d + 2^4e + \text{etc.}$ and
+
+$\alpha + 2\beta + 2^2\gamma + 2^3\delta + 2^4\epsilon + \text{etc.}$ is
+
+$(a \sim \alpha) + 2((a \sim b \sim \beta) + 2^2 \begin{array}{l} (a \sim b \sim a \sim \beta \sim \beta \sim \gamma) \\ [del](b \sim a \sim c \sim \gamma) \text{ etc.}[/del] \end{array}$
+
+$+ 2^3 (a \sim b \sim a \sim b \sim a \sim a \sim b \sim y \sim a \sim a \sim \beta \sim \beta \sim a \sim a \sim \beta \sim y \sim \beta \sim \beta \sim c \sim \beta \sim \beta \sim y$
+
+$\sim c \sim y \sim d \sim \delta) + \text{the next term is quite complicated, though}$

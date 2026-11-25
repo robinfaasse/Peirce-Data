@@ -1,0 +1,19 @@
+Report on Morison's Bridge.
+
+[u]Problem 2[/u]. An unstiffened suspension-bridge has, at a certain stage of its construction, its suspenders fixed to the cable so that the [del]weight[/del] [ins]load[/ins] is horizontally uniform. Subsequently, the weights [del]upon all the suspenders[/del] [ins]are[/ins] increased in the same ratio. Owing to the additional stretching, the weight is no longer horizontally uniform since the suspenders are carried outwards [ins]and there is supposed to be no resistance to this.[/ins] What is now the form of the curve?
+
+Let [u]x'[/u], [u]y'[/u], etc. refer to the first stage of construction. Then (25) becomes
+(38) [u]p'[/u] = q'[u]x'[/u] [u]p[/u] = q[u]x'[/u] ;
+and equations (21) and (22) become
+(39) [del]y = [fig]crossed out integral[/fig][/del] [del]y = [fig]crossed out integral[/fig][/del]
+y = [del]B[/del] [ins]q[/ins] [del]∫[/del] [ins]∫[/ins] ( [u]x'[/u] - [frac]1[/frac] [u]a[/u] ) ( [frac]1[/frac] [u]E[/u] + [frac]1[/frac] [u]√[/u] A² + q² ( [u]x'[/u] - [frac]1[/frac] [u]a[/u] )² ) d [del]B[/del] [ins]l'[/ins]
+[u]x[/u] = [del]B[/del] A ∫ ( [frac]1[/frac] [u]E[/u] + [frac]1[/frac] [u]√[/u] A² + q² ( [u]x'[/u] - [frac]1[/frac] [u]a[/u] )² ) d [del]B[/del] [ins]l'[/ins]
+The value of d[u]l'[/u] here (which is the unstretched length) is the same as that of equation (31). Substituting it, we have
+
+(40) y = q ∫ [frac]( [u]x'[/u] - [frac]1[/frac] [u]a[/u] ) ( [frac]1[/frac] [u]E[/u] + [frac]1[/frac] [u]√[/u] A² + q² ( [u]x'[/u] - [frac]1[/frac] [u]a[/u] )² )[del]x[/del] [frac]q'² a²[/frac] 8 E [u]y'[/u]ₖ + [frac]1[/frac] [u]√[/u] 1 + [frac]64 [u]y'[/u]ₖ²[/frac] a⁴ ( [u]x'[/u] - [frac]1[/frac] [u]a[/u] )²[/frac] d[u]x'[/u]
+
+(41) [u]x[/u] = A ∫ [frac][frac]1[/frac] [u]E[/u] + [frac]1[/frac] [u]√[/u] A² + q² ( [u]x'[/u] - [frac]1[/frac] [u]a[/u] )²[frac]q'² a²[/frac] 8 E [u]y'[/u]ₖ + [frac]1[/frac] [u]√[/u] 1 + [frac]64 [u]y'[/u]ₖ²[/frac] a⁴ ( [u]x'[/u] - [frac]1[/frac] [u]a[/u] )²[/frac] d[u]x'[/u]
+
+In order to determine A we may use the notation
+(42) δA = A - A' [frac]q[/frac] q' ,
+and may neglect the square of δA (though it would be easy to

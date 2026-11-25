@@ -1,0 +1,32 @@
+Another principle is that all the haecceities are alike
+in respect to relations
+
+Let us define a "formal Boolean" as one in which
+the only letter on the line is $q$. It may be said to express
+a "formal relation" between its indices. Let $\chi$ be such
+a relation. Then if we have
+
+[del]$\Pi_{\alpha} \Sigma_{\beta}$[/del]
+
+$\Pi_{\alpha} \Sigma_{\beta} \Pi_{i} \Sigma_{j} \Pi_{\gamma} \overline{q_{\alpha \beta}} + \overline{q_{\gamma \gamma}} + \overline{q_{\beta \beta}} + \overline{q_{\beta \alpha}} + \overline{q_{\beta i}}$
+
+$\Pi_{\alpha} \Sigma_{\beta} \Pi_{i} \Sigma_{j} \overline{q_{\alpha \beta}} \cdot q_{\alpha j} \cdot q_{\gamma i} \cdot \overline{q_{\gamma j}} + q_{\beta i}$
+
+the entire Boolean is formal. But if we consider $\alpha$ and $\beta$
+as fixed already, $q_{\alpha}$ and $q_{\beta}$ are letters on the line
+different from $q$; and then the Boolean is not formal.
+
+If I say of a collection, $\alpha$, of two things [fig]two dots with arrows pointing to each other[/fig]
+
+$\Pi_{\beta} \Sigma_{i} \Pi_{j} \overline{q_{\alpha i}} \cdot (\overline{q_{\alpha j}} + \overline{q_{\beta j}} + q_{\beta i} \cdot (\overline{q_{\beta j}} + q_{\beta i}))$
+
+There can be nothing peculiar about $i$, since the relation
+is purely formal. By this I don't mean that for every $\beta$ any
+$i$ would do. Plainly not. What I do mean is simply that
+
+$\Pi_{i} \Pi_{j} \Pi_{k} \Pi_{\beta} \Pi_{\gamma} \Pi_{\delta} \overline{q_{\alpha i}} + \overline{q_{\alpha j}} + \overline{q_{\alpha k}} + \overline{q_{\beta i}} + \overline{q_{\beta j}} + \overline{q_{\beta k}} + \overline{q_{\gamma i}} + \overline{q_{\gamma j}} + \overline{q_{\gamma k}}$
+$+ \overline{q_{\delta i}} + q_{\delta i}$
+
+There is nothing peculiar about any individual as to the form
+of its relations with other individuals. It may be peculiar in
+reference to a special relation.

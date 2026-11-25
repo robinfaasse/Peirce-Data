@@ -1,0 +1,28 @@
+The general solution is therefore
+[pn]215[/pn]
+$$w_{x,y} = -30y + C_1 + C_2 (\frac{29}{31})^y$$
+
+For $(\frac{31}{60} E_y - E_y^0 + \frac{29}{60} E_y^{-1}) (-30y + C_1 + C_2 (\frac{29}{31})^y)$
+$= (\frac{31}{60} E_y - E_y^0 + \frac{29}{60} E_y^{-1}) (-30y) + (\frac{31}{60} E_y - E_y^0 + \frac{29}{60} E_y^{-1}) (C_1 + C_2 (\frac{29}{31})^y)$
+$= -1 + 0 = -1$
+
+We have now to determine $C_1$ and $C_2$ by the conditions
+$$w_{x,-1} = 0$$
+[del]$w_{x,x}$[/del] [ins]$w_{x,x}$[/ins] $= 0$
+
+or
+$+30 [del]y[/del] [ins]$x$[/ins] + C_1 + C_2 \frac{31}{29} = 0$
+$-30x + C_1 + C_2 (\frac{29}{31})^x = 0$
+
+Subtracting
+$30 + 30x + C_2 (\frac{31}{29} - (\frac{29}{31})^x) = 0$
+
+$$C_2 = -30 \frac{x+1}{\frac{31}{29} - (\frac{29}{31})^x}$$
+
+$$C_1 = \frac{31}{29} \cdot 30 \frac{x+1}{\frac{31}{29} - (\frac{29}{31})^x} - 30 = \frac{30 \frac{31}{29} x + 30 (\frac{29}{31})^x}{\frac{31}{29} - (\frac{29}{31})^x}$$
+
+[del]$w_{x,y} = -30y - 30 \frac{29}{31} \frac{x+1}{1 - (\frac{29}{31})^{x+1}}$[/del]
+
+$$w_{x,y} = -30y + 30 \frac{x + (\frac{29}{31})^{x+1}}{1 - (\frac{29}{31})^{x+1}} - 30 \frac{x+1}{1 - (\frac{29}{31})^{x+1}} (\frac{29}{31})^{y+1}$$
+
+$$= 30 \frac{x - y + (\frac{29}{31})^{x+1} - (\frac{29}{31})^{y+1} + y (\frac{29}{31})^{x+1} - x (\frac{29}{31})^{y+1}}{1 - (\frac{29}{31})^{x+1}} = 30 \frac{(1+x) [del][1 - (\frac{29}{31})^{y+1}][/del] [ins][1 - (\frac{29}{31})^{y+1}][/ins] - (1+y) [1 - (\frac{29}{31})^{x+1}]}{1 - (\frac{29}{31})^{x+1}}$$

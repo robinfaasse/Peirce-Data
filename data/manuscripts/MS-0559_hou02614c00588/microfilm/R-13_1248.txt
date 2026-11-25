@@ -1,0 +1,26 @@
+There are two formulae altogether similar [del]in[/del] [ins]in[/ins] their
+real nature to (2) and (2'), although, owing to the
+faults of the present notation, they do not look
+so simple. Namely, in
+$$X \cdot \overline{Y | Z},$$
+$X$ and $Y$ may be transposed; and in
+$$\overline{X \cdot Y} | Z,$$
+$Y$ and $Z$ may be transposed. For the first expres-
+sion asserts that $X$ is true [del]and[/del] [ins]while[/ins] $Y | Z$ is false,
+that is that $X$ and $Y$ are true while $Z$ is false; and
+the second expression asserts that either $Z$ is [del]false[/del] [ins]true[/ins]
+or $X \cdot Y$ is false, that is that either $X$ is false
+or $Y$ [ins]is[/ins] [del]true[/del] [ins]false[/ins] or $Z$ [ins]is[/ins] true. In fact, the first expression
+is the precise denial of
+$$X | \overline{Y | Z}$$
+and the second the precise denial of
+$$X \cdot Y \cdot Z.$$
+
+The notation is quite intolerable. When we come to
+expressions in four letters, it is even worse. Thus,
+$$A | \overline{B | C} | D$$
+is precisely the same as
+$$A \cdot \overline{B \cdot C} | D,$$
+and as
+$$A \cdot \overline{D | B \cdot C},$$
+and as

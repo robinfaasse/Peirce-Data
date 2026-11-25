@@ -1,0 +1,33 @@
+[pn]13[/pn] [pn]259[/pn]
+
+defined by the points at which it cuts the rays $\{XW\}$, $\{YW\}$, $\{ZW\}$.
+Let these points be
+$[A] = [aX + \overline{1-a}W]$,
+$[B] = [bY + \overline{1-b}W]$,
+$[C] = [cZ + \overline{1-c}W]$.
+
+As for the fourth point, we will designate it as
+$[D] = [xX + yY + zZ + \overline{1-x-y-z}W]$.
+
+If the notation has the property in question, we should have $[D]$
+expressible as a syzygy of $A, B, C$, say,
+[del]$[D] = \frac{p}{p+q+r} [A]$[/del]
+$[D] = \left[ \frac{p}{p+q+r} A + \frac{q}{p+q+r} B + \frac{r}{p+q+r} C \right]$.
+
+That is
+$(p+q+r) [xX + yY + zZ + \overline{1-x-y-z}W] = [apX + bqY + crZ + (p.\overline{1-a} + q.\overline{1-b} + r.\overline{1-c})W]$
+
+This is the same as
+$x = \frac{ap}{p+q+r}$  $y = \frac{bq}{p+q+r}$  $z = \frac{cr}{p+q+r}$
+
+or
+$\frac{x}{a} + \frac{y}{b} + \frac{z}{c} = 1$.
+
+We are now in condition to prove that if the notation has
+the property in question from that can be deduced the truth of
+the ten fundamental propositions of graphics.
+
+The first is that any two planes contain a ray in common.
+
+Suppose one plane contains the points [del]also $\{XW\}$[/del]
+$\{ZW\}$ [del]in[/del] the points

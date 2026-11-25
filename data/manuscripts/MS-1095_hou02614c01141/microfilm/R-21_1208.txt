@@ -1,0 +1,20 @@
+$$s = x + y_{1}i$$
+$$q = x - y_{1}i$$
+
+$$x_{1} + \frac{1}{2}(s+q) = -\frac{1}{2}(s-q)i\ \text{cotan}\ \beta$$
+$$x_{1} - \frac{1}{2}(s+q) = -\frac{1}{2}(s-q)i\ \text{cotan}\ \alpha$$
+
+$$2x_{1} = - [del](s-q)[/del] [ins](s-q)[/ins] i \frac{\sin(\alpha+\beta)}{\cos(\alpha-\beta) - \cos(\alpha+\beta)}$$
+
+$$s+q = - (s-q)i \frac{\sin(\alpha-\beta)}{\cos(\alpha-\beta) - \cos(\alpha+\beta)}$$
+
+$$\frac{s+q}{2x_{1}} = [del]\text{tan}[/del] \frac{\sin(\alpha-\beta)}{\sin(\alpha+\beta)}$$
+
+$$2x_{1} = -(s-q)i \frac{\sin(\alpha+\beta)}{\sqrt{1 - \frac{(s+q)^{2}}{4x_{1}^{2}}\sin^{2}(\alpha+\beta)} - \cos(\alpha+\beta)}$$
+
+$$\sqrt{4x_{1}^{2} - (s+q)^{2}\sin^{2}(\alpha+\beta)} = 2x_{1}\cos(\alpha+\beta) - (s-q)i\sin(\alpha+\beta)$$
+$$4x_{1}^{2} - (s+q)^{2}\sin^{2}(\alpha+\beta) = 4x_{1}^{2}\cos^{2}(\alpha+\beta) - 4x_{1}(s-q)i\sin(\alpha+\beta)\cos(\alpha+\beta) - (s-q)^{2}\sin^{2}(\alpha+\beta)$$
+$$-(s+q)^{2}\sin(\alpha+\beta) = -4x_{1}^{2}\sin(\alpha+\beta) [del]+[/del] [ins]+[/ins] 4x_{1}(s-q)i\cos(\alpha+\beta) - (s-q)^{2}\sin(\alpha+\beta)$$
+
+$$- \frac{sq - x_{1}^{2}}{x_{1}(s-q)}i = \text{cotan}\ (\alpha+\beta)$$
+$$(sq - x_{1}^{2})\sin = -4x_{1}(s-q)i\cos$$

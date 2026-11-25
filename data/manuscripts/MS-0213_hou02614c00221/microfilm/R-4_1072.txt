@@ -1,0 +1,33 @@
+[u]A Computer's Device[/u].
+
+In dealing with the problem of three moments, and elsewhere, [del]we have[/del] [ins]powers[/ins]
+of numbers of the form $P+Q\sqrt{N}$ occur. These satisfy the difference
+equation
+$$u_{x+2} + (P^2-Q^2N) u_x = 2 P u_{x+1}.$$
+By taking out $(P^2-Q^2N)^{\frac{1}{2}x}$ as a factor from $u_x$, the quotient
+satisfies the equation
+$$v_{x+2} + v_x = 2 P' v_{x+1}$$
+which otherwise written is
+$$v_{x-2} + v_x = 2 P' v_{x-1}.$$
+The solution of this, dropping the accent, is
+$$v_x = C_1 \left(P + \sqrt{P^2-1}\right)^x + C_2 \left(P - \sqrt{P^2-1}\right)^x.$$
+But obviously
+[del]$$\frac{(\sqrt{P^2-1}+P)(\sqrt{P^2-1}-P)}{(P+\sqrt{P^2-1})(P-\sqrt{P^2-1})} = 1$$[/del]
+$$(P+\sqrt{P^2-1})(P-\sqrt{P^2-1}) = 1$$
+Separating the square factor of [del]$P^2-1$[/del] $P^2-1$, we return to the
+form
+$$P+Q\sqrt{N} = \frac{1}{P-Q\sqrt{N}}$$
+Specimens of such numbers are
+$$\begin{matrix}
+3 + 2\sqrt{2} \\
+2 + \sqrt{3} \\
+9 + 4\sqrt{5} \\
+5 + 2\sqrt{6} \\
+8 + 3\sqrt{7} \\
+3 + \sqrt{8} \\
+19 + 6\sqrt{10} \\
+10 + 3\sqrt{11} \\
+7 + 2\sqrt{12} \\
+649 + 180\sqrt{13}
+\end{matrix}$$
+Of course, all their powers possess the same property. $\left( \begin{matrix} (P+Q\sqrt{N})^2 = 2P(P+Q\sqrt{N}) - 1 \\ (P+Q\sqrt{N})^3 = (4P^2-1)(P+Q\sqrt{N}) - 2P \\ \text{etc.} \end{matrix} \right)$

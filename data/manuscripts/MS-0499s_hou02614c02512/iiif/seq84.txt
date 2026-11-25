@@ -1,0 +1,39 @@
+[del]A G[/del]
+1+6+3+8
+7 10 18
+~
+
+[del]ABCD ABDC[/del]
+[del]ACBD ADCB[/del]
+[del]ACBD ACBD[/del]
+[del]ADBC[/del]
+
+[del]ABCD[/del] [del]ABDC[/del]
+[del]BADC[/del] [del]ADCB[/del]
+[del]CDAB[/del] [del]ACBD[/del]
+
+ABCD ABDC
+BADC ADCB
+[del]C[/del] [ins]B[/ins]A[del]B[/del] [ins]D[/ins] ACBD
+ACBD BACD
+ADBC CBAD
+ACDB DBCA
+DBAC BCDA
+CBDA BDAC
+BDCA CADB
+DACB CDBA
+[del]CABD[/del] DCAB
+[del]BCAD[/del] DABC
+[del]ABCD[/del]
+[del]ABDC[/del]
+[del]ADCB[/del]
+[del]ACBD[/del]
+[del]BACD[/del]
+[del]BCAD[/del]
+
+[fig]figure[/fig]
+
+[fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig]
+
+4[ins]1[/ins]3
+2

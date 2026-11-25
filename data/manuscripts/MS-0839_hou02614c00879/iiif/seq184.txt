@@ -1,0 +1,51 @@
+$BCyz$
+$B^2yz$
+$ABz^2$
+$B^2xz$
+$B^3z$
+$AB^2z$
+$A^2Bz$
+$Ay^2z$
+$A^2yz$
+$ACyz$
+$ABxz$
+$A^2Bz$
+$AB^2z$
+$A^2xz$
+$A^3z$
+[del]$AB$[/del] $Ay^3$
+$A^2y^2$
+$ABy^2$
+$ACy^2$
+
+$A \prec \{ [(x \prec c) \prec y] \prec B \} \prec z \}$
+$A \prec \{ [(c \prec y) \prec (x \prec B)] \prec z \}$
+$(x \prec A) \prec \{ [(c \prec y) \prec B] \prec z \}$
+$A \prec \{ [y \prec ((c \prec x) \prec B)] \prec z \}$
+
+$\{ [(c \prec y) \prec (x \prec A)] \prec (B \prec z) \}$
+$\{ [(x \prec c) \prec y] \prec A \} \prec (B \prec z)$
+$(y \prec A) \prec \{ [(c \prec x) \prec B] \prec z \}$
+
+$\{ y \prec [(c \prec x) \prec A] \} \prec (B \prec z)$
+
+$\{ [B \prec (c \prec y)] \prec (x \prec A) \} \prec z$
+$\{ [(x \prec B) \prec (c \prec y)] \prec A \} \prec z$
+$\{ [B \prec ((x \prec c) \prec y)] \prec A \} \prec z$
+
+$\overline{A} + (\overline{x \overline{c}} + y) \overline{B} + z$
+$\overline{A} + (\overline{c} + y) \overline{x B} + z$
+$x \overline{A} + \overline{(c + y) B} + z$
+$\overline{A} + y \overline{(\overline{c} + x) B} + z$
+
+[del]$\overline{c} y +$[/del]
+$(\overline{c} + y) \times \overline{A} + \overline{B} + z$
+[del]$(x \overline{c} \overline{e})$[/del] $(x \overline{c} + y) \overline{A} + \overline{B} + z$
+$y \overline{A} + \overline{(\overline{c} + x) B} + z$
+$y (\overline{\overline{c} + x}) \overline{A} + \overline{B} + z$
+
+$(\overline{B} + \overline{c} + y) \times \overline{A} + z$
+$x \overline{B} (\overline{c} + y) \overline{A} + z$
+$(\overline{B} + x \overline{c} + y) \overline{A} + z$
+
+$839$

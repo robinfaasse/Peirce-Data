@@ -1,0 +1,13 @@
+[pn]D66[/pn] [u]S[sub]n[/sub], S[sub]n-1[/sub], S[sub]n-2[/sub]...... S[sub]2[/sub], S[sub]1[/sub].[/u]
+
+Denating those substitutes which I have already shown how to calculate by S[sub]0[/sub], S[sub]-1[/sub], S[sub]-2[/sub], S[sub]-3[/sub], etc., the equation for calculating the [del]([ins]r[/ins]+1)th[/del] [ins]the (r+2)th[/ins] of these after the [del]first[/del] [ins]the (r+1)th[/ins], etc., up to but [del]not[/del] including the (r+n)th is [del]that[/del] [ins]the (r+n)"[/ins] inclusive [del]are[/del] [ins]have[/ins] been obtained, is as follows:
+
+[del]a[sub]0[/sub]S[sub]r+n[/sub] + a[sub]1[/sub]S[sub]r+n-1[/sub] +[/del]
+
+[u]a[sub]0[/sub]S[sub]r+n[/sub] + a[sub]1[/sub]S[sub]r+n-1[/sub] + a[sub]2[/sub]S[sub]r+n-2[/sub] ... + a[sub]n-1[/sub]S[sub]r+1[/sub][/u] = S[sub]r[/sub]
+-a[sub]n[/sub]
+
+But if we transform this equation so as to get a formula for S[sub]r+n[/sub] we have
+
+S[sub]r+n[/sub] = [u]a[sub]1[/sub]S[sub]r+n-1[/sub] + a[sub]2[/sub]S[sub]r+n-2[/sub] + ... + a[sub]n-1[/sub]S[sub]r+1[/sub] + a[sub]n[/sub]S[sub]r[/sub][/u]
+-a[sub]0[/sub]

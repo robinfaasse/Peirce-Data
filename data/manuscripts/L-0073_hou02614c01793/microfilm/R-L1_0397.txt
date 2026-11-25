@@ -1,0 +1,15 @@
+[pn]8[/pn] Now consider any $B$, say $B_3$, which has all the $A$s of the fourth class as ineunts and all those of the third class as exeunts, regardless of whether it has the members of the first two classes as ineunts or exeunts. There is such a $B_3$ for this describes a possible collection of $A$s. Now $B$ is the [u]sole[/u] $B$ in the relation $g$
+
+to any $A$ of the first class, since [u]no[/u] $B$ is $g$ to any $A$ of this class;
+nor to any $A$ of the second class, since [u]no[/u] $B$ is [del]the sole $B$ that is[/del] $g$ to any such $A$;
+nor to any $A$ of the third class, since [del]no[/del] [ins]every[/ins] such $A$ [del]has the[/del] [ins]is an[/ins] ineunt of the sole $B$ that is $g$ to it, while it is not an ineunt of $B_3$;
+nor to any $A$ of the fourth class, since every such $A$ is an exeunt of the sole $B$ that is $g$ to it, while it is not an exeunt of $B$.
+
+Hence $B$ is not the sole $g$ to any $A$ whatever. Q.E.D.
+
+It follows that
+$\aleph_0 < 2^{\aleph_0} < 2^{2^{\aleph_0}} < 2^{2^{2^{\aleph_0}}} < \text{etc. ad inf.}$
+
+But suppose that we take together all the integers, all the collections of integers, all the collections of collections of integers etc. without end, as ineunts of a new collection, then, if there is any such collection, its multitude is the limit of the above series. For [del]any[/del] if the ineunts of any collection are taken together with all the possible collections of those ineunts, the resulting collection is of the same multitude as the collection of [del]all[/del] those collections of ineunts.
+
+For the same reason, if $C_0$ (Beth-null) is a collection whose multitude is $\aleph_0$, $C_1$ a [del]multitude[/del] collection whose multitude is $2^{\aleph_0}$, $C_2$ a collection whose multitude is $2^{2^{\aleph_0}}$, etc., then the collection whose ineunts are all the ineunts of beths up to $C_n$ inclusive, has the multitude of $C_n$; and therefore $C_{n+1}$ has the multitude of all possible collections formed of ineunts of all the beths up to $C_n$ inclusive. Hence, a collection which should have a multitude equal to the limit of the above series of iterative functions, $2^{2^{2^{\text{etc.}}}}$ would be equal to the [del]multitude[/del] [ins]collection[/ins] of [del]all[/del] [ins]of all[/ins] possible collections of its own ineunts. But this has just been shown is not the case with any collection. Hence, the

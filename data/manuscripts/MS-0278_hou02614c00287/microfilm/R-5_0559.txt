@@ -1,0 +1,27 @@
+[pn]135[/pn]
+
+We substitute this [ins]value[/ins] in the two first [del]two[/del] equations, which so
+become
+[u]m[/u] + 1 = 2(5 - 1) = 8
+[u]m[/u] - 1 = 5 + 1 = 6
+
+These give respectively
+[u]m[/u] = 8 - 1 = 7,
+[u]m[/u] = [del]6 - (-1)[/del] = 6 + 1 = 7.
+
+The agreement of the values shows no mistake has been
+committed. We could also have proceeded as follows. First
+carry all the quantities to one side and write the terms in
+[u]m[/u], in [u]d[/u], and in measures, in columns thus
+1 [u]m[/u] - 2 [u]d[/u] + 3 measures = 0
+1 [u]m[/u] - [u]d[/u] - 2 measures = 0
+
+To make a third equation, we write [u]A[/u][u]m[/u] + [u]B[/u][u]d[/u] + [u]C[/u] = 0 where
+[u]A[/u], [u]B[/u], [u]C[/u], shall mean what we see fit to make them mean
+by and by. We then get, [del]but[/del] writing the [u]m[/u], [u]d[/u], and measures at the top
+
+[fig]Determinant with columns m, d, meas and rows 1, -2, +3; 1, -1, -2; A, B, C[/fig]
+
+We divide the [del]last line by A[/del] [ins]second column by 2[/ins] and the 3[ins]rd[/ins] [del]by[/del] [ins]by 3;[/ins] and so get
+
+[fig]Determinant with horizontal ovals grouping elements[/fig]

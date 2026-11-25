@@ -1,0 +1,37 @@
+[pn]4 Color[/pn] [pn]warmup 9.[/pn]
+
+Now it is obvious that the same region cannot [del]according[/del]
+[del]of the rule[/del] receive different colors except as a consequence
+of its having different [del]notations[/del] symbols in this notation. For
+the only way in which the rule could give a region different
+colors would be by its being [del]led to[/del] [ins]reached[/ins] from the initial point by dif-
+ferent paths. But in so far as the same region is reached
+from different paths it receives different [del]notations[/del] [ins]symbols[/ins]. But these
+different symbols are only due to the completion of circuits
+round single regions, and therefore if in going round [ins]each[/ins] [del]no[/del] single
+region the rule brings the initial region [del]into[/del] [ins]to[/ins] the same color it had
+at the outset, it will never lead to any inconsistency. Let us,
+then, see what successions of values of the [del]summits[/del] [ins]corners[/ins] lead from
+any color to that same color in going round one region.
+For this purpose, we may mark every [del]summit[/del] [ins]corner[/ins] whose value is $-1$
+by drawing a little circle round it, leaving those corners whose
+value is $+1$ unmarked.
+
+Suppose then we start as in Figure [del]6[/del], with two adja-
+cent summits whose values are $+1$ and $-1$.
+Their sum is $0$ and the two regions tied by
+the boundary between them are alike. Suppose
+however, as in Fig. 7, that two successive [del]sum-[/del] [ins]corners[/ins]
+[del]mits[/del] have the same value. Then if the third
+corner going round the same region has the
+same value, their sum is congruent to zero
+for the modulus 3, and again the initial color
+is restored. It follows that any succession of cor-
+ner values whose sum is congruent to zero for
+modulus 3 will restore the initial color. It follows
+that the rule cannot result in coloring any region two different
+ways.
+
+[fig]Fig 6: Diagram showing vertices A, B, C, A[/fig]
+
+[fig]Fig 7: Diagram showing vertices A, B, C, A with a circle[/fig]

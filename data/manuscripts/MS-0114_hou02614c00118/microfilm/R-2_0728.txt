@@ -1,0 +1,40 @@
+[fig]Right triangle with sides a, b, c and angles A, B, C[/fig]
+
+[del]$\frac{\sinh a \coth r - \cosh c \cdot \cos B}{\sin B} = \cot$[/del]
+
+$\frac{\sinh a \coth c - \cosh a \cos B}{\sin B} = \cot C$
+
+[del]$\sinh$[/del] [del]$\tanh$[/del]
+
+$\gamma y - \frac{x}{\gamma} = \sqrt{L^2 - \gamma^2} \cdot L \cdot \frac{y}{x}$
+
+$y \sqrt{x^2+y^2} - \frac{L \cdot x}{\sqrt{x^2+y^2}} = \sqrt{L^2 - x^2 - y^2} \cdot \frac{L \cdot y}{\sqrt{x^2+y^2}}$
+
+$\gamma (x^2+y^2) - L x = \Gamma y \sqrt{L^2 - x^2 - y^2}$
+
+[marginalia]
+[fig]Circle with intersecting lines[/fig]
+$\cosh h \tan B = L \cot B$
+[/marginalia]
+
+[fig]Geometric diagram with intersecting lines and triangles[/fig]
+
+[del]$\beta^2 x^2 - 2 \beta L x$[/del] [del]$y^2$[/del] $= \frac{L^2 \cosh^2}{y^2}$
+
+[fig]Triangle with sides a, b, c and angles A, B, C[/fig]
+
+$L \sinh a \coth b = L \cot B \sin C + [del]L[/del] [ins]L \cos C[/ins]$
+
+$L \tanh a \coth b = L \operatorname{sech} a \cot B \sin C + L \cos C$
+
+$(\beta^2 + \cot^2 B) y^4 + (2 \beta^2 x^2 - 2 \beta K L - L^2 \cot^2 B + x^2 \cot^2 B) y^2 \coth b = \beta$
+
+[fig]Geometric diagram with curves and lines[/fig]
+
+$L = \lambda x$
+
+$\sqrt{x^2+y^2} \beta = \sqrt{L^2 - x^2 - y^2} \cot B \frac{y}{\sqrt{x^2+y^2}} + \frac{L x}{\sqrt{x^2+y^2}}$
+
+$(x^2+y^2) \beta = y \sqrt{L^2 - x^2 - y^2} \cot B + L x$
+
+$\beta^2 x^4 + 2 \beta^2 x^2 y^2 + \beta^2 y^4 - 2 \lambda \beta x^4 - 2 \lambda \beta x^2 y^2 + \lambda^2 x^4 = L^2 y^2 \cot^2 B - x^2 y^2 \cot^2 B - y^4 \cot^2 B$

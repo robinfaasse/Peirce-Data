@@ -1,0 +1,27 @@
+$$\frac{\mathcal{M}}{x+b} + \mathcal{N}$$
+
+$$K(-\frac{1}{b}$$ [fig]Circle with intersecting lines[/fig]
+
+$$R\mathfrak{G}^{\theta i} \quad R'\mathfrak{G}^{(\theta+\pi)i}$$
+
+$$\frac{\mathcal{M}}{x-R\mathfrak{G}^{\theta i}}$$
+
+$$\frac{\mathcal{M}}{R'\mathfrak{G}^{(\theta+\pi)i}-R\mathfrak{G}^{\theta i}} + N = 0$$
+
+[del]$$\frac{\mathcal{M}}{x-R\mathfrak{G}^{\theta i}} - \frac{\mathcal{M}}{R'\mathfrak{G}^{(\theta+\pi)i}-R\mathfrak{G}^{\theta i}}$$[/del] [del]$$= \frac{\mathcal{M}}{R\mathfrak{G}^{\theta i}-R'\mathfrak{G}^{(\theta+\pi)i}} \frac{x-R\mathfrak{G}^{\theta i}-R'\mathfrak{G}^{(\theta+\pi)i}}{x-R\mathfrak{G}^{\theta i}}$$[/del]
+
+[del]$$\mathcal{N}$$[/del] $$\log \frac{\mathcal{M}}{R\mathfrak{G}^{\theta i}-R'\mathfrak{G}^{(\theta+\pi)i}} + \log(x-R'\mathfrak{G}^{(\theta+\pi)i}) + \log(x-R\mathfrak{G}^{\theta i})$$
+
+$$D_x \eta = \frac{1}{x-P_1} + \frac{1}{x-P_2}$$
+
+$$x = A \tan \frac{1}{2}(90^\circ+\varphi) \left(\frac{1-e\sin\varphi}{1+e\sin\varphi}\right)^{\frac{e}{2}} \Theta^{\sigma i}$$
+
+$$D_s x = [del]\frac{A \Theta^{\sigma i}}{2}[/del] \times \left(\sec\varphi - \frac{2e^2\cos\varphi}{1-e^2\sin^2\varphi}\right) \frac{(1-e^2\sin^2\varphi)^{\frac{3}{2}}}{a(1-e^2)}$$
+
+$$D_s \eta = \int \left( \frac{\frac{1+\sin\varphi}{\cos\varphi}\mathfrak{G}^{\lambda i}}{\frac{1+\sin\varphi}{\cos\varphi}\mathfrak{G}^{\lambda i} - \frac{1+\sin\varphi_1}{\cos\varphi_1}\mathfrak{G}^{\lambda_1 i}} + \frac{\frac{1+\sin\varphi}{\cos\varphi}\mathfrak{G}^{\lambda i}}{\frac{1+\sin\varphi}{\cos\varphi}\mathfrak{G}^{\lambda i} + \frac{1-\sin\varphi_1}{\cos\varphi_1}\mathfrak{G}^{\lambda_1 i}} \right) \frac{1}{\cos\varphi}$$
+
+for $s=v$
+$$D_y y = \left( \frac{x}{x-P_1} + \frac{x}{x-P_2} \right) \sec\varphi$$
+
+$$y = A \tan \frac{1}{2}(90^\circ+\varphi) = A \frac{1+\sin\varphi}{\cos\varphi}$$
+$$D_\varphi y = A \frac{\cos^2\varphi+\sin^2\varphi+\sin\varphi}{\cos^2\varphi} = y \sec\varphi$$

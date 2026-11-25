@@ -1,0 +1,32 @@
+[u]The Phyllotactic Numbers[/u]
+
+The [u]m[/u]th Phyllotactic number is to be written [u]v[/u]<sub>m</sub> and read "Phyl m".
+
+[u]Definition[/u].
+
+(1) [u]v[/u]<sub>0</sub> = 0
+(2) [u]v[/u]<sub>1</sub> = 1
+(3) [del]Δ[/del] [ins]d[/ins][u]v[/u]<sub>m</sub> = [u]v[/u]<sub>m-1</sub>
+
+[u]Theorem[/u]
+
+If it is possible to find a number [u]a[/u] such that
+
+(4) [sum]<sub>i</sub> A<sub>i</sub> [u]v[/u]<sub>B<sub>i</sub> + a</sub> + [sum]<sub>j</sub> [del]A[/del] [ins]B[/ins]<sub>j</sub> [u]v[/u]<sub>B<sub>j</sub> - a</sub> = 0
+
+and [del]the[/del] [ins]the[/ins] same formula holds for (a + 1) as well as for [u]a[/u]
+then it holds for every number whatever.
+
+For the sum of the equations for [u]a[/u] and for a + 1 will give
+the equation for a + 2. The sum of the first terms will
+give the first term of the new equation because by (3)
+[u]v[/u]<sub>B<sub>i</sub> + a</sub> + [u]v[/u]<sub>B<sub>i</sub> + a + 1</sub> = [u]v[/u]<sub>B<sub>i</sub> + a + 2</sub>
+and the sum of the second terms will give the new second term
+because by (3)
+[del]v[/del] [ins]v[/ins]<sub>B<sub>j</sub> - a</sub> - [u]v[/u]<sub>B<sub>j</sub> - a - 1</sub> = [u]v[/u]<sub>B<sub>j</sub> - a - 2</sub>.
+
+And so by successive additions the equation for a + m may be reached.
+In the same way by successive subtractions the equation for a - m
+may be reached because
+[u]v[/u]<sub>B<sub>i</sub> + a + 1</sub> - [u]v[/u]<sub>B<sub>i</sub> + a</sub> = [u]v[/u]<sub>B<sub>i</sub> + a - 1</sub>
+[u]v[/u]<sub>B<sub>j</sub> - a - 1</sub> + [u]v[/u]<sub>B<sub>j</sub> - a</sub> = [u]v[/u]<sub>B<sub>j</sub> - a + 1</sub>.

@@ -1,0 +1,33 @@
+$$A+B+C+D=0$$
+$$AB+BA+AC+CA+BC+CB=0$$
+
+$$\begin{array}{l}
+A(pB+qC) = (pB+qC)A \\
+pAB+qAC = pBA+qCA \qquad \therefore CA = \frac{p}{q}(AB-BA)+AC \\
+[del](AB+C)[/del] \\
+A(xB+yC) = xAB+yAC \\
+(xB+yC)A = xBA+yCA
+\end{array}$$
+
+[fig]Four intersecting lines forming a quadrilateral with vertices A, B, C, D[/fig]
+
+$$\begin{array}{l}
+(aA+bB)^{2} = ab(AB+BA) = [del]d[/del]j \\
+AC+CA = k \\
+BC+CB = j-k \\
+= xAB+yAC \\
+= xj-xAB+yk-yAC \\
+p(AB-BA)+q(AC-CA)=0 \\
+[del]p(j-2[/del] \\
+p([del]2AB[/del]-j)+q([del]2AC[/del]-k)=0 \\
+AC = -\frac{p}{q}AB+\frac{p}{q}j+k
+\end{array}$$
+
+$$\begin{array}{l}
+[del](-\frac{p}{q})AB+\frac{p}{q}j+yk[/del] \\
+[del]x(AB-j)=y([/del] \\
+x((1+n)AB-nj)+y((1+n)AC-nk)=0 \\
+y\left(-(1+n)\frac{p}{q}AB+(1+n)\frac{p}{q}j+k\right)
+\end{array}$$
+
+$$[del](A+xU)(A+yU) = \frac{(x+y)AU+xyU^{2}}{yAU}[/del]$$

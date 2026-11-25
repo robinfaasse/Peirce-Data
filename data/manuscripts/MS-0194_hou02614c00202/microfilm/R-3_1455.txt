@@ -1,0 +1,57 @@
+[u]$\frac{\sin C_2}{2} = \frac{\sin [del]D_2[/del] [ins]D_3[/ins]}{\text{PR}}$[/u]
+
+Example
+$B_2 = 140^\circ$
+$a = 5$
+$c = 3$
+Required $v$.
+
+$\begin{array}{rcc}
+B_2 & - & 140^\circ \\
+D_2 & - & 80^\circ \\
+\hline
+B_2 + D_2 & & 140 \\
+\text{RBP} & & 40 \\
+a & & 5 \\
+\sin D_1 & = & \sin 55^\circ \\
+\hline
+\text{RB} & & \\
+c & & 3 \\
+\sin D_3 & = & \sin 25^\circ \\
+\hline
+\text{PB} & & \\
+\frac{\text{RB}}{\text{PB}} & = & \tan m \\
+m & & 40^\circ 41' 28'' \\
+m - 45^\circ & - & 4\phantom{^\circ} 18\phantom{'} 32\phantom{''} \\
+\tan (m - 45) & & \\
+\cot \frac{1}{2}(B_2 + D_2) & & \\
+\hline
+\tan \frac{1}{2}(\text{BRP} - \text{BPR}) & & \\
+\frac{1}{2}(\text{BRP} - \text{BPR}) & & 11\phantom{^\circ} 41\phantom{'} 45\phantom{''} \\
+\text{BRP} & & 81\phantom{^\circ} 41\phantom{'} 45\phantom{''} \\
+\text{BPR} & & 58\phantom{^\circ} 18\phantom{'} 15\phantom{''} \\
+\sin \text{BRP} & & \\
+\sin \text{BPR} & & \\
+v & & 6.03984
+\end{array}$
+$\begin{array}{l}
+\text{\underline{logs}} \\
+0.698970 \\
+\underline{9.913365} \\
+0.785605 \\
+0.477121 \\
+\underline{9.625948} \\
+0.851173 \\
+9.934432 \\
+\\
+\\
+8.877062 \\
+\underline{0.438934} \\
+9.315996 \\
+\\
+\\
+\\
+9.995422 \\
+\underline{9.929852} \\
+\left\{ \begin{array}{l} 0.781025 \\ 0.781027 \end{array} \right.
+\end{array}$

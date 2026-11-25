@@ -1,0 +1,17 @@
+There will be another straight line upon the diagram [ins]running upwards to the right[/ins] (which will mark the maximum denominator. In fact if L be that denominator
+$$yB + xZ = L$$
+will [del]mark[/del] be the equation of a straight line of the diagram.
+
+The rows and columns of the diagram present a property which suggests a modification of it. Let $\eta$ be the excess of a fraction of denominator $N$ over the next smaller fraction of denominator $L$, where $L$ is the maximum denominator admitted. [del]As[/del] [ins]Equal to[/ins] what we are now to consider is the values of the fractions, and since [del]every[/del] [ins]the value of[/ins] every fraction of denominator less than $\frac{1}{2}L$ agrees with that of some fraction of denominator greater than $\frac{1}{2}L$, we may as well assume that $N > \frac{1}{2}L$. Then the fraction of denominator $L$ next less than $\frac{1}{N}$ is $\frac{1}{L}$. And we have
+$$\eta_1 = \frac{1}{N} - \frac{1}{L} [del]\text{or}[/del] = \frac{L-N}{N} \frac{1}{L}.$$
+But when $M$ is nearly as great as $N$
+$$\eta_m = \frac{M}{N} - \frac{M+L-N-1}{L} = \frac{[del](L-N)[/del] N - (L-N)(N-M)}{N} \frac{1}{L}$$
+
+[fig]Mathematical inequalities written diagonally and vertically[/fig]
+$$\frac{L-N}{N} > \frac{1}{L}$$
+$$\frac{L-N}{N} < \frac{1}{L}$$
+$$\frac{L-N}{N} + 1$$
+$$\frac{S(L-N)}{N} > \eta L = L - L + N$$
+$$\frac{S(L-N)}{N} < \eta L$$
+$$\frac{S-n+1}{N} > \frac{S+1}{L}$$
+$$\frac{S}{N} - \frac{S}{L} > \frac{1}{L}$$

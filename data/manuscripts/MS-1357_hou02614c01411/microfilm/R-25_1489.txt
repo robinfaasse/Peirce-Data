@@ -1,0 +1,42 @@
+$$\frac{1}{2}\left(x^2 + \frac{1}{x^2}\right) + \frac{1}{2}(B-A)\left(\frac{1}{x} + x\right) + A(B-A)\log x + [del]A(A-B)\log\left(\frac{x-1}{x^2+2Ax+1}\right)[/del]$$
+
+$$\begin{array}{l}
+x^2 = 1 + 2\xi^2 + 2\xi\sqrt{1+\xi^2} \\
+\frac{1}{x^2} = 1 + 2\xi^2 - 2\xi\sqrt{1+\xi^2}
+\end{array} \hfill A(A-B)\frac{2(x+A)}{x^2+2Ax+1}$$
+
+$$\frac{1}{2}\xi^2 + \frac{1}{2}(B-A)\sqrt{1+\xi^2} + A(B-A)\log\left[\frac{\sqrt{1+\xi^2}-\xi}{\xi}\right] \hfill \begin{array}{l} 1+x^2 = 2+2\xi^2 + 2\xi\sqrt{1+\xi^2} \\ \quad -2A\xi + 2A\sqrt{1+\xi^2} \end{array}$$
+$$+ A(A-B)\log\left(\frac{\sqrt{1+\xi^2}+A}{\xi}\right) \hfill \frac{\left(\sqrt{1+\xi^2}\right)\left(\sqrt{1+\xi^2}+A\right)}{-\xi}$$
+
+$$\xi - (B-A)\frac{\xi}{\sqrt{1+\xi^2}} + A(A-B)\frac{1}{\left(\sqrt{1+\xi^2}+A\right)\left(\sqrt{1+\xi^2}\right)}$$
+
+$$\frac{\xi\left\{\sqrt{1+\xi^2}\left(\sqrt{1+\xi^2}+B\right) [del]-A+B - (\sqrt{1+\xi^2})\right\}[/del]}{+A-B \qquad -A}$$
+
+Correct
+$$\int \frac{\xi\left(\sqrt{1+\xi^2}+B\right)}{\sqrt{1+\xi^2}+A} d\xi = [del]\xi - (B-A)\frac{\xi}{\sqrt{1+\xi^2}}[/del]$$
+$$= \frac{1}{2}\xi^2 + (B-A)\sqrt{1+\xi^2} + A(A-B)\log\left[\sqrt{1+\xi^2}+A\right]$$
+$$B = \kappa\frac{q'}{q} \quad A = \kappa$$
+$$= \frac{1}{2}\xi^2 + \kappa\frac{q'-q}{q}\sqrt{1+\xi^2} + \kappa^2\frac{q-q'}{q}\log\left[\sqrt{1+\xi^2}+\kappa\right]$$
+
+[fig]Diagram of a hanging cable or catenary curve[/fig]
+[fig]Geometric diagram with intersecting lines and triangles[/fig]
+[fig]Geometric diagram of a tetrahedron[/fig]
+$$\frac{1}{2}\mathcal{E}\left(\frac{\sqrt{1+\Delta x^2+\Delta y^2}-l}{l^2}\right)^2$$
+$$-\mathcal{E}$$
+[fig]Diagram of a suspension bridge with vertical hangers[/fig]
+[fig]Geometric diagram of a tetrahedron[/fig]
+[fig]Geometric diagram of a tetrahedron[/fig]
+[fig]Geometric diagram of a tetrahedron[/fig]
+[fig]Geometric diagram of a tetrahedron[/fig]
+[fig]Diagram of a curved bridge deck[/fig]
+[fig]Diagram of a suspension bridge structure[/fig]
+[fig]Diagram of a truss bridge structure[/fig]
+[fig]Diagram of a truss bridge structure[/fig]
+
+$$\frac{x_i}{\sqrt{\Delta x^2+\Delta y^2}} \frac{(\Delta x\Delta y + \Delta y\Delta y)}{\begin{array}{l} -x_{i+1} + x_i \\ \quad + x_i - x_{i-1} \end{array}} \left| -\left(\frac{d^2y}{dx^2}\right) \right.$$
+
+$$-\frac{q'}{q} \frac{1}{\left(\eta_{i+2}-2\eta_{i+1}+\eta_i\right)^2}$$
+
+$$\begin{array}{l} 2\eta_{i+2} - 4\eta_{i+1} + 2\eta_i \\ [del]-4\eta_{i+1}[/del] + 8\eta_i - 4\eta_{i-1} \\ \qquad + 2\eta_i - 4\eta_{i-1} \end{array}$$
+
+$$\frac{q'}{q} \sqrt{\Delta x^2+\Delta y^2}$$

@@ -1,0 +1,32 @@
+Suppose $n$ odd Put $h = \frac{1}{2}n + \frac{1}{2}$ $\frac{1}{2}n = h - \frac{1}{2}$
+
+$\int_{0}^{1} (-\log t)^{h-\frac{1}{2}} dt = (h-\frac{1}{2})(h-\frac{3}{2})(h-\frac{5}{2}) \dots \frac{5}{2} \cdot \frac{3}{2} \cdot \frac{1}{2} \int_{0}^{1} (-\log t)^{-\frac{1}{2}} dt$
+
+To evaluate $\int_{0}^{1} (-\log t)^{-\frac{1}{2}} dt = K$
+
+Take $\xi < 1$ [del]$t = \xi^{\eta^2}$[/del] [ins]$t = \xi^{\eta^2}$[/ins]
+
+$-\log t = -\eta^2 \log \xi$ $D_{\eta} t = 2\eta \xi^{\eta^2} \log \xi$
+
+when $t=0$ $\eta = \infty$
+$t=1$ $\eta = 0$
+
+$\int (-\log t)^{-\frac{1}{2}} dt = \int (-\eta^2 \log \xi)^{-\frac{1}{2}} 2\eta \xi^{\eta^2} \log \xi [del]d\eta[/del]$
+$= 2 (-\log \xi)^{\frac{1}{2}} \xi^{\eta^2} d\eta$
+
+$K = -2 \int_{\infty}^{0} (-\log \xi)^{\frac{1}{2}} \xi^{\eta^2} d\eta$
+$= -2 (-\log \xi)^{\frac{1}{2}} \int_{\infty}^{0} \xi^{\eta^2} d\eta$
+
+[del]$\int_{\infty}^{0} \xi^{\eta^2} d\eta = \int_{\infty}^{0} \xi^{\eta^2} D_{\eta} \eta$[/del]
+or $K (-\log \xi)^{-\frac{1}{2}} = -2 \int_{\infty}^{0} \xi^{\eta^2} d\eta$
+
+Integrate this again relatively to $\xi$ from $0$ to $1$
+
+$K \int_{0}^{1} (-\log \xi)^{-\frac{1}{2}} d\xi = K^2 = -2 \int_{\infty}^{0} (\int_{0}^{1} \xi^{\eta^2} d\xi) d\eta$
+$= -2 \int_{\infty}^{0} \frac{1}{\eta^2 + 1} d\eta$
+
+$\int \xi^{\eta^2} d\xi = \frac{1}{\eta^2 + 1} \xi^{\eta^2 + 1}$
+$= -2 (0 - \frac{1}{2} \pi) = \pi$
+
+$\int \frac{1}{\eta^2 + 1} d\eta = \arctan \eta$
+$K^2 = \pi$ $K = \sqrt{\pi}$

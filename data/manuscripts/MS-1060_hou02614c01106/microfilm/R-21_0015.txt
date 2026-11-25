@@ -1,0 +1,27 @@
+En substituant ces deux valeurs dans l'équation intégrale,
+on aura les deux équations suivantes entre $\varphi$ et $s$.
+
+$$ \left(l + \frac{Mgh}{\epsilon^2}\right) \varphi + \left(1 + \frac{Mg}{\epsilon^2}\right) s = A_1 \cos \left(\sqrt{\frac{g}{l + \frac{Mgh}{\epsilon^2}}} \cdot t + \eta_1\right), $$
+
+$$ \left(\frac{Mg}{\epsilon} - \frac{Mgh}{\epsilon^2}\right) \varphi + \left(1 - \frac{l}{h} + \frac{Mg}{\epsilon} - \frac{Mg}{\epsilon^2}\right) s = A_2 \cos \left(\sqrt{\frac{g}{l} \cdot \frac{Mgh}{\epsilon^2}} \cdot t + \eta_2\right), $$
+
+d'où l'on tire
+
+$$ \varphi = - \frac{l-h}{h} A_1 \cos \left(\sqrt{\frac{g}{l + \frac{Mgh}{\epsilon^2}}} \cdot t + \eta_1\right) - A_2 \cos \left(\sqrt{\frac{\epsilon^2}{M(l-h)}} \cdot t + \eta_2\right), $$
+
+$$ s = - \frac{Mg}{\epsilon} \frac{l-h}{h} A_1 \cos \left(\sqrt{\frac{g}{l + \frac{Mgh}{\epsilon^2}}} \cdot t + \eta_1\right) + l A_2 \cos \left(\sqrt{\frac{\epsilon^2}{M(l-h)}} \cdot t + \eta_2\right). $$
+
+Maintenant, il s'agit de déterminer les constantes arbitraires.
+On doit considérer donc, qu'en mettant en mouvement le pendule,
+on le pousse de côté, en appliquant le doigt auprès du couteau
+inférieur, et alors on le laisse aller. Ainsi, lorsque $t$ est nul,
+$D_t \varphi$ et $D_t s$ sont aussi nuls, de sorte que $\eta_1$ et $\eta_2$ disparaissent.
+Au premier instant, la force horizontale sur le couteau est
+
+$$ \frac{Mgh}{l} \varphi_0 = \epsilon s_0 $$
+
+ce qui donne en substituant les valeurs de $\varphi$ et de $s$,
+
+$$ \frac{Mgh}{l} \left(1 + x_2\right) A_1 - \frac{Mgh}{l} \left(1 + x_1\right) A_2 = - \epsilon \left((l + h x_2) A_1 + \theta (l + h x_1) A_2\right) $$
+
+ou, approximativement

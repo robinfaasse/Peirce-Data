@@ -1,0 +1,68 @@
+[del]$C_1\ C_2\ C_3\ C_4\ C_5\ C_6$ etc $--- C_n$[/del]
+[del]$n_1\ n_2\ n_3\ n_4\ n_5$ etc[/del]
+[del]are the ordinal numbers of regions[/del]
+
+$C_i$ has $b_i$ boundaries
+
+$\frac{1}{2} \Sigma b_i$ number of lines. [fig]Two circles[/fig]
+
+$\frac{1}{3} \Sigma b_i$ number of points [fig]Circle with line[/fig]
+
+$n - \frac{1}{2} \Sigma b_i + \frac{1}{3} \Sigma b_i = 2$ [fig]Sun-like figure[/fig] [fig]Circle with dot[/fig]
+
+$n - \frac{1}{6} \Sigma b_i = 2$ [fig]Circle with 0[/fig]
+
+$6n - 12 = \Sigma b_i$
+
+Suppose 2 colors
+$\chi C_1 - K c_1 + \Pi c_1$
+$+ \chi C_2 - K c_2 + \Pi c_2 = 2$
+$\chi b_{12} - K b_{12} = 0$
+
+Now suppose there are four colors, 1, 2, 3, 4.
+
+Chorisis of $C_1 = n_1$
+or $C_2 = n_2$
+or $C_3 = n_3$
+or $C_4 = n_4$
+
+Boundaries between $C_1$ and $C_2 = b_{12}$ [fig]Oval[/fig]
+Boundaries between $C_1$ and $C_3 = b_{13}$
+Boundaries between $C_1$ and $C_4 = b_{14}$
+[del]Boundaries between $C_2$ and $C_3$[/del]
+
+[fig]Graph with vertices 1, 2, 3[/fig]
+
+[fig]Graph with vertices 1, 2, 3[/fig]
+
+No Points between $C_1 C_2 C_3 = a_{123}$
+No Points between $C_1 C_2 C_4 = a_{124}$
+No Points between $C_1 C_3 C_4 = a_{134}$
+No Points between $C_2 C_3 C_4 = a_{234}$
+
+[del]$2(b_{12} + b_{13} + b_{23})$[/del]
+$- b_{14} - b_{24} - b_{34} = 3 a_{123}$
+
+[fig]Graph with regions C1, C2, C3[/fig]
+
+$\text{lines} = \frac{3}{2} \Sigma (a_{123} + a_{124} + a_{134} + a_{234})$
+
+Like $b''_{12}\ b''_{13}\ b''_{14}\ b''_{23}\ b''_{24}\ b''_{34}$
+
+Unlike $b'_{12}\ b'_{13}\ b'_{14}\ b'_{23}\ b'_{24}\ b'_{34}$
+
+$\begin{cases}
+2 b_{12} = a_{123} + a_{124} \\
+2 b_{13} = a_{123} + a_{134} \\
+2 b_{14} = a_{124} + a_{134} \\
+2 b_{23} = a_{123} + a_{234} \\
+2 b_{24} = a_{124} + a_{234} \\
+2 b_{34} = a_{134} + a_{234}
+\end{cases}$
+
+[fig]Graph with vertices 1, 2, 3[/fig]
+
+[fig]Graph with vertices 1, 2, 3[/fig]
+
+$2 b''_{12} = a_{123}$
+$2 b''_{12} + 2 b'_{12} = a_{123} + a_{124}$

@@ -1,0 +1,31 @@
+[u]The Phyllotactic Numbers[/u]
+
+Let the $m^{\text{th}}$ phyllotactic number be written '$\Phi_m$' and read 'Phyl $m$'.
+
+<u>Definition</u>
+
+(1) $\Phi_0 = 0$
+(2) $\Phi_1 = 1$
+(3) $\Delta^2 \Phi_m = \Phi_{m-1}$
+
+<u>Theorem</u>
+
+If the formula
+(4) $\sum_i A_i \Phi_{B_i + a} + (-)^a \sum_j A_j \Phi_{B_j - a} = 0$
+holds good for two successive values of $a$ it holds for all values.
+
+For the sum of the equations for $a$ and $a+1$ will give the equation for $a+2$, because by (3)
+$\Phi_{B_i + a} + \Phi_{B_i + a + 1} = \Phi_{B_i + a + 2}$
+$\Phi_{B_j - a} [del]+[/del] [ins]-[/ins] \Phi_{B_j - a - 1} = \Phi_{B_j - a - 2}$
+
+And the equation for $a$ diminished by that for $a-1$ will give the equation for $a-2$, because by (3)
+$\Phi_{B_i + a} - \Phi_{B_i + a - 1} = \Phi_{B_i + a - 2}$
+$\Phi_{B_j - a} + \Phi_{B_j - a + 1} = \Phi_{B_j - a + 2}$.
+
+[u]Table of Phyllotactic Numbers[/u]
+
+[fig]Table of values for m, Phi_m, and (-)^m Phi_-m from m=0 to 16[/fig]
+| $m$ | $0$ | $1$ | $2$ | $3$ | $4$ | $5$ | $6$ | $7$ | $8$ | $9$ | $10$ | $11$ | $12$ | $13$ | $14$ | $15$ | $16$ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| $\Phi_m$ | $0$ | $1$ | $1$ | $2$ | $3$ | $5$ | $8$ | $13$ | $21$ | $34$ | $55$ | $89$ | $144$ | $233$ | $377$ | $610$ | $987$ |
+| $(-)^m \Phi_{-m}$ | $0$ | $1$ | $-1$ | $2$ | $-3$ | $5$ | $-8$ | | | | | | | | | | |

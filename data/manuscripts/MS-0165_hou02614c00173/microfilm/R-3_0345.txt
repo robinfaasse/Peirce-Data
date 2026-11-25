@@ -1,0 +1,44 @@
+[pn]98[/pn]
+
+Let C be the remainder, so that
+[u]A = Q₁·B + C[/u].
+
+Let X be [del]the greatest common factor of A and B[/del] [ins]any common factor of A and B[/ins]. Since A and B have a common
+factor (namely, [del]they have[/del] [ins]1, since[/ins] [del]at[/del] [ins]each[/ins] rate is a factor of both), let X be their greatest common
+factor. Then, [u]A[/u]/[u]X[/u] and [u]B[/u]/[u]X[/u] are whole numbers. Then, since Q₁ is a whole number,
+so likewise, by Theorem 17, is Q₁·[u]B[/u]/[u]X[/u], and so is Q₁·[u]B[/u]/[u]X[/u]·[u]A[/u]/[u]X[/u]. Hence, by Problem 1,
+[u]A[/u]/[u]X[/u] - Q₁·[u]B[/u]/[u]X[/u] is a whole number, provided Q₁·[u]B[/u]/[u]X[/u] is not greater than [u]A[/u]/[u]X[/u]. But, by
+the rule of division Q₁B is not greater than A. But, by the associative [ins]and commutative[/ins] principles,
+Q₁·[u]B[/u]/[u]X[/u] = [u]Q₁B[/u]/[u]X[/u]. For this is the same as to say that X·(Q₁·[u]B[/u]/[u]X[/u]) = Q₁B. Now, by
+the commutative principle X·(Q₁·[u]B[/u]/[u]X[/u]) = (Q₁·[u]B[/u]/[u]X[/u])·X; and by the associative prin-
+ciple, (Q₁·[u]B[/u]/[u]X[/u])·X = Q₁·([u]B[/u]/[u]X[/u]·X); and, by the commutative principle, [u]B[/u]/[u]X[/u]·X = X·[u]B[/u]/[u]X[/u];
+and, by the meaning of division X·[u]B[/u]/[u]X[/u] = B. Whence, we collect that Q₁·[u]B[/u]/[u]X[/u]·X = [u]Q₁B[/u]/[u]X[/u]·X.
+Now, were Q₁·[u]B[/u]/[u]X[/u] greater than [u]A[/u]/[u]X[/u], then, by Theorem 21, X·(Q₁·[u]B[/u]/[u]X[/u]) would be
+greater than X·[u]A[/u]/[u]X[/u]. That is, Q₁B would be greater than A; which is not the
+case. We are sure, then that [u]A[/u]/[u]X[/u] - Q₁·[u]B[/u]/[u]X[/u] is a whole number. Now, by the
+distributive principle
+X·([u]A[/u]/[u]X[/u] - Q₁·[u]B[/u]/[u]X[/u]) = A - Q₁B = C.
+Thus, X is a factor of C. [del]It is also the greatest common factor of B and C;
+for had those numbers a greater factor it would also be a factor
+of A. In like manner each remainder will[/del]
+
+By the nature of the process of division, [ins]the[/ins] each remainder must be less
+than the divisor. Thus, each remainder will be less than the preceding remainder.
+
+Thus, the remainders belonging to a given remainder are part of the numbers less
+than a given number, which is enumerable. The process goes on till a re-
+mainder zero is reached.
+
+Let R be the remainder before 0. Then X will be the greatest common
+factor of B and 0. But R is a factor of 0 and no greater number is a factor
+of R. Hence X = R.
+
+The greatest common factor is also the greatest common divisor, in
+case R > 1; for then the number which multiplied into it gives either A or B
+is less than A or B, and is therefore a part of A or B. But when the greatest
+common factor is 1, there is no common divisor.
+
+Art. 44. Theorem 26. [u]If two numbers are prime to each other,[/u]
+[u]every common factor of one of them and of the product of[/u]
+[u]the second with any third number is also a common factor of the first[/u]
+[u]and third numbers.[/u]

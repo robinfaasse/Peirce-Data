@@ -1,0 +1,13 @@
+[fig] Square root symbol over x squared plus [/fig]
+
+[del] d [/del] [ins] [u] d [/u] [/ins] [u] [del] [fig] square root symbol [/fig] [/del] [ins] [fig] square root symbol [/fig] [/ins] a x[sup]2[/sup] + b x + c [/u] = [u] [del] 2 [/del] a x + [del] 2 [/del] b [/u]
+[fig] square root symbol [/fig] a x[sup]2[/sup] + b x + c
+
+[u] [fig] integral symbol [/fig] [u] x [/u] [/u] = [u] 1 [/u] [fig] integral symbol [/fig] [u] a x [/u] = [u] 1 [/u] [fig] integral symbol [/fig] [u] a x + [del] 2 [/del] b [/u] — [u] b [/u] [fig] integral symbol [/fig] [u] 1 [/u]
+[fig] square root symbol [/fig] a x[sup]2[/sup] + b x + c a a 2 a
+
+= [u] 1 [/u] [fig] square root symbol [/fig] a x[sup]2[/sup] + b x + c — [u] b [/u] log { [u] b [/u] + a x + [fig] square root symbol [/fig] a ( a x[sup]2[/sup] + b x + c ) }
+a 2 a [fig] square root symbol [/fig] a 2
+
+[fig] integral symbol [/fig] [u] u [/u] = [u] [fig] square root symbol [/fig] ( 1 + [eta][sup]2[/sup] ) u[sup]2[/sup] + 2 [eta] t u + t[sup]2[/sup] [/u] — [u] [eta] t [/u] log { [eta] t + ( 1 + [eta][sup]2[/sup] ) u
+[fig] square root symbol [/fig] ( 1 + [eta][sup]2[/sup] ) u[sup]2[/sup] + 2 [eta] t u + t[sup]2[/sup] 1 + [eta][sup]2[/sup] ( 1 + [eta][sup]2[/sup] ) [fig] square root symbol [/fig] 1 + [eta][sup]2[/sup] + [fig] square root symbol [/fig] 1 + [eta][sup]2[/sup] [fig] square root symbol [/fig] ( 1 + [eta][sup]2[/sup] ) u[sup]2[/sup] + 2 [eta] t u + t[sup]2[/sup] }

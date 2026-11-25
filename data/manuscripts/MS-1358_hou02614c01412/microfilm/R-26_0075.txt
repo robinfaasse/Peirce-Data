@@ -1,0 +1,32 @@
+[marginalia]
+Monson's Prize [del]1899[/del] [ins]Jan 23[/ins]
+[/marginalia]
+
+[pn]3[/pn]
+
+[del][fig]crossed out scribble[/fig][/del]
+
+For [del]$\theta_N$[/del] [ins]$\theta_N$[/ins] we have
+
+$-(\theta_N - \theta_{N-1}) + (\theta_{N+1} - \theta_N) \left( \cos(\theta_{N+1} - \theta_N) + 1 \right) = 0$
+
+[del][fig]crossed out scribble[/fig][/del]
+$(\theta_{N+1} - \theta_N) \cos(\theta_{N+1} - \theta_N) + \theta_{N+1} - 2\theta_N + \theta_{N-1} = 0$
+
+passing to differentials
+$D_s^2 \theta_N + D_s \theta_N = 0$
+[del]$D_s^2 \theta_N$[/del]
+
+For $\theta_{N+1}$
+$D_s \theta_N = 0$
+
+When [del][fig]crossed out scribble[/fig][/del] $\begin{aligned} n &< m \\ n &> 0 \end{aligned}$
+
+$E(\theta_n - \theta_{n-1}) - E(\theta_{n+1} - \theta_n) \left[ \frac{\cos(\theta_{n+1} - \theta_n)}{\cos(\theta_{n+1} - \theta_{n+1})} + 1 \right] + E(\theta_{n+2} - \theta_{n+1}) \frac{\cos(\theta_{n+1} - \theta_n)}{\cos(\theta_{n+2} - \theta_{n+1})}$
+$- W \frac{\sin(\theta_{n+1} - \theta_n)}{\cos(\theta_{n+1} - \theta_{n+1})} \frac{\sin\theta_{n+1}}{[del][fig]crossed out scribble[/fig][/del]} = 0$
+
+$E(\theta_{n+2} - 2\theta_{n+1} + \theta_n) \frac{\cos(\theta_{n+1} - \theta_n)}{\cos(\theta_{n+1} - \theta_{n+1})} - E(\theta_{n+1} - 2\theta_n + \theta_{n-1}) - W \frac{\sin(\theta_{n+1} - \theta_n)}{\cos(\theta_{n+1} - \theta_{n+1})} \sin\theta_{n+1} = 0$
+
+$E \frac{(\theta_{n+2} - 2\theta_{n+1} + \theta_n)}{\cos(\theta_{n+2} - \theta_{n+1})} - E \frac{\theta_{n+1} - 2\theta_n + \theta_{n-1}}{\cos(\theta_{n+1} - \theta_n)} - W \frac{\sin\theta_{n+1} \sin(\theta_{n+1} - \theta_n)}{\cos(\theta_{n+2} - \theta_{n+1}) \cos(\theta_{n+1} - \theta_n)} = 0$
+
+$E \Delta \frac{\Delta^2 \theta_n}{\cos(\theta_{n+1} - \theta_n)} = W \cdot E \cdot D_s \frac{D_s^2 \theta}{\cos(\theta_n - \theta)} = W \frac{\sin\theta_N D_s \theta}{\cos(\theta_N - \theta)}$

@@ -1,0 +1,63 @@
+[marginalia]
+[del]the largest prime factor of any $B_m$ where $m$[/del]
+[/marginalia]
+
+$P_1 \dots$ 1 P 1 — [del]3[/del] [ins]$3 P \dots$[/ins] [del]3[/del] [ins]$3$[/ins] or $2 + 1 = 1 + 10^0 \cdot 2^1 + 1$
+$P_2 \dots$ 1 P 3 — 2 — [del]2[/del] [ins]$2 \cdot 15$[/ins] [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] $5$ [del]$2^4 + 1 \dots 12 \cdot 10$[/del]
+$P_3 \dots$ 1 P 4 — [del]7[/del] [ins]$4 \cdot 31 P$[/ins] [del]3[/del] [ins]$3$[/ins] $3 \cdot 2^5 \cdot 2 \dots [del]1[/del] + 1 + 10 \cdot 2^4 + 1$
+$P_4 \dots$ 1 P 7 — 4 — $2 \cdot 63$ [del]3[/del] [ins]$3 \frac{5}{17}$[/ins] [del]$\frac{17}{31}$[/del] $3 \cdot 2^6 \cdot 2 \dots = 1 + [del]1[/del] \cdot 2^4 + 1$
+$P_5 \dots$ 1 P 8 — 6 — $6 \cdot 127 P$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] $5$ [del]$\frac{17}{31}$[/del]
+$P_6 \dots$ 1 P 9 — [del]12[/del] [ins]$4 \cdot 255$[/ins] [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del]
+$P_7 \dots$ 1 P 12 — 8 — $6 \cdot 511$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] $\frac{7}{73}$ [del]$\frac{17}{31}$[/del]
+$P_8 \dots$ 1 P 15 — 18 — $1 \cdot 1023$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del]
+$P_9 \dots$ 1 P 13 — 9 — $2 \cdot 2047$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del] $31 \cdot [del]73[/del] \cdot 5$
+$P_{10} \dots$ 1 P 14 — 10 — $4 \cdot 4095$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del]
+$P_{11} \dots$ 1 P 16 — 12 — $8 \cdot 8191 P$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del] $3 \cdot 5$
+$P_{12} \dots$ 1 P 20 — 16 — $16 \cdot 16383$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del] $3$
+$P_{13} \dots$ 1 P 22 — 18 — $32 \cdot 32767$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del] $7$
+$P_{14} \dots$ 1 P 24 — 20 — $65 \cdot 65535$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del] $5 \cdot 17$
+$P_{15} \dots$ 1 P 26 — 22 — $131 \cdot 131071 P$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del] $3 \cdot 7$
+$P_{16} \dots$ 1 P 28 — 24 — $262 \cdot 262143$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del] $3$
+$P_{17} \dots$ 1 P 30 — 26 — $524 \cdot 524287 P$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del] $5 \cdot 3 \cdot 17$
+$P_{18} \dots$ 1 P 32 — 28 — $1048 \cdot 1048575$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del] $3 \cdot 11$
+$P_{19} \dots$ 1 P 34 — 30 — $2097 \cdot 2097151$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del] $7$
+$P_{20} \dots$ 1 P 36 — 32 — $4194 \cdot 4194303$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del] $3 \cdot 5 \cdot 17$
+$P_{21} \dots$ 1 P 38 — 34 — $8388 \cdot 8388607$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del] $3$
+$P_{22} \dots$ 1 P 40 — 36 — $1677 \cdot 16777215$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del] $3 \cdot 7 \cdot 13$
+$P_{23} \dots$ 1 P 42 — 38 — $3355 \cdot 33554431$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del] $5 \cdot 17$
+$P_{24} \dots$ 1 P 44 — 40 — $6710 \cdot 67108863$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del] $3$
+$P_{25} \dots$ 1 P 46 — 42 — $1342 \cdot 134217727$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del] $7 \cdot 31$
+$P_{26} \dots$ 1 P 48 — 44 — $2684 \cdot 268435455$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del] $3 \cdot 5 \cdot 17$
+$P_{27} \dots$ 1 P 50 — 46 — $5368 \cdot 536870911$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del] $3$
+$P_{28} \dots$ 1 P 52 — 48 — $1073 \cdot 1073741823$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del] $7 \cdot 19$
+$P_{29} \dots$ 1 P 54 — 50 — $2147 \cdot 2147483647$ [del]3[/del] [ins]$3$[/ins] [del]$\frac{5}{17}$[/del] [del]$\frac{17}{31}$[/del] $3 \cdot 5 \cdot 17 \cdot 31$
+
+[marginalia]
+[del]$17 = 4 \cdot 4 + 1$[/del]
+[del]$(17 + 1) \cdot 8 \cdot 9 \cdot 16^2 \dots$[/del]
+[del]$17 = 1 + 16 \cdot 1$[/del]
+[del]$17 = 1 + 2^4 \cdot 1$[/del]
+[del]$257 = 1 + 256 \cdot 1$[/del]
+[del]$257 = 1 + 2^8 \cdot 1$[/del]
+[del]$65537 = 1 + 65536 \cdot 1$[/del]
+[del]$65537 = 1 + 2^{16} \cdot 1$[/del]
+[/marginalia]
+
+[marginalia]
+[del]$23 = 1 + 22 \cdot 1$[/del]
+[del]$23 = 1 + 2 \cdot 11$[/del]
+[del]$89 = 1 + 88 \cdot 1$[/del]
+[del]$89 = 1 + 2^3 \cdot 11$[/del]
+[del]$8191 = 1 + 8190 \cdot 1$[/del]
+[del]$8191 = 1 + 2 \cdot 3^2 \cdot 5 \cdot 7 \cdot 13$[/del]
+[del]$131071 = 1 + 131070 \cdot 1$[/del]
+[del]$131071 = 1 + 2 \cdot 3 \cdot 5 \cdot 17 \cdot 257$[/del]
+[del]$524287 = 1 + 524286 \cdot 1$[/del]
+[del]$524287 = 1 + 2 \cdot 3^3 \cdot 9709$[/del]
+[/marginalia]
+
+[marginalia]
+[del]$M_{19} = 2^{19} - 1 = 524287$[/del]
+[del]$M_{31} = 2^{31} - 1 = 2147483647$[/del]
+[del]$M_{61} = 2^{61} - 1 = 2305843009213693951$[/del]
+[/marginalia]

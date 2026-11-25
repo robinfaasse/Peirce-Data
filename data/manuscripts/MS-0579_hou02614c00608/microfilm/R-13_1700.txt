@@ -1,0 +1,15 @@
+{ [ ( a ≺ b ) ≺ c ] ≺ d } ≺ e
+
+[marginalia]
+[u]weak[/u]
+[/marginalia]
+= { [ ( a ≺ c ) ≺ c ] ≺ ( b ≺ c ) ≺ d } ≺ e
+
+[marginalia]
+str.
+[/marginalia]
+{ [ ( a ≺ b ) ≺ d ] ≺ d } ≺ ( c ≺ d ) ≺ e
+
+( a b̅ + c ) d̅ + e
+[del]( a d̅ + b d̅ ) ( b̅ + c ) d̅[/del]
+a b̅ d̅ + c d̅

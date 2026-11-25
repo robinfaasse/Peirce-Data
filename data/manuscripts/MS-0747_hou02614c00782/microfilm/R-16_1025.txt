@@ -1,0 +1,28 @@
+Composition of [del]Dual[/del] [ins]Triple[/ins] Relatives
+
+The relatives $(A|B:C)$ and $(C:D|E)$ may be multiplied in this order just like duals; thus,
+$$(A|B:C)(C:D|E) = (A|B:D|E)$$
+
+The following are nearly of the same nature
+[del]$A|B$[/del]
+$$(A:B|C)(C:D|E) = (A:B|D|E)$$
+$$(A|B:C)(C|D:E) = (A|B|D:E)$$
+So we may write
+$$(A:B|C)^{(C:D|E)} = (A:B|D|E)$$
+etc.
+
+The following [del]is[/del] [ins]are[/ins] a little different
+$$(A:B|C)(C|B:D) = (A:D)$$
+$$(A:B|C|D)(D|C:E) = (A:B,E)$$
+
+Corresponding to the [del]relative[/del] [ins]dual[/ins]
+$\sum (B_i:D_i)$ we have the triple $\sum_i (B_i B_i : D_i)$
+If $\sum (B_i:D_i)$ is denoted by $t$ we may denote
+$\sum (D_i|B_i:D_i)$
+
+$\sum (C_i:D_i)$ we have the triple $\sum_i (C_i D_i : D_i)$. If the first
+is denoted by $l$ we may denote the latter by $l'$
+
+The product
+$$(A:D|C)(\sum C_i:D_i) = \sum (A:D|D_i). \text{ If this is multi-}$$
+plied by $\sum_i (D_i|D_i:E)$ it gives $A$

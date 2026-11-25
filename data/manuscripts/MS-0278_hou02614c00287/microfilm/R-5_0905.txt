@@ -1,0 +1,18 @@
+[fig]Graph showing stepped vertical columns of crosses and dots[/fig]
+
+[fig]Mathematical table of algebraic terms[/fig]
+[u]a + b + c + d[/u]
+a²
+   + 2ab + 2ac + 2ad
++ b²
+             + 2bc + 2bd
+             + c² + 2cd
+                     + d²
+
+[u]1 + 2ᵃ + 2ᵇ + 2ᶜ + 2ᵈ + 2ᵉ[/u]
+1 + 2ᵃ⁺¹ + 2ᵇ⁺¹ + 2ᶜ⁺¹ + 2ᵈ⁺¹ + 2ᵉ⁺¹
+      2²ᵃ + 2ᵃ⁺ᵇ⁺¹ + 2ᵃ⁺ᶜ⁺¹ + 2ᵃ⁺ᵈ⁺¹ + 2ᵃ⁺ᵉ⁺¹
+            + 2²ᵇ + 2ᵇ⁺ᶜ⁺¹ + 2ᵇ⁺ᵈ⁺¹ + 2ᵇ⁺ᵉ⁺¹
+                  2²ᶜ + 2ᶜ⁺ᵈ⁺¹ + 2ᶜ⁺ᵉ⁺¹
+                        2²ᵈ + 2ᵈ⁺ᵉ⁺¹
+                              + 2²ᵉ

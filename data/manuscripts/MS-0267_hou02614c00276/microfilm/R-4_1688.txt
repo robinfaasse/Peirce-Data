@@ -1,0 +1,46 @@
+[fig] circle [/fig]
+
+To find out the Census number add [ins] [del]in[/del] [/ins] the
+Census numbers of the parts of space on both sides
+of the surface (only one part for perissid
+surface) and the whole should be [del]0[/del] [ins]similar[/ins]
+$X_S = 1$ $K_S = 1$ $\Pi_S = 1$ $A_S = 1$
+
+For balloon $S'$ (inner space) $X_{S'} = 1$ $K_{S'} = 0$ $\Pi_{S'} = 0$ $A_{S'} = 0$
+$S''$ (outer space) $X_{S''} = 1$ $K_{S''} = 1$ $\Pi_{S''} = 1$ $A_{S''} = 0$
+$Cr = 0 - Cs' - Cs'' = 0 + 1 + 1 = 2$
+
+For planoid $X_{S'} = 1$ [del]$K_{S'} = 0$[/del] [ins]$K_{S'} = 2$[/ins] $\Pi_{S'} = 0$ $A_{S'} = 0$
+$Cr = 0 - Cs' = 0 + 1 = 1$
+
+For piperip $X_{S'} = 1$ $K_{S'} = 1$ $\Pi_{S'} = 0$ $A_{S'} = 0$
+$X_{S''} = 1$ $K_{S''} = 2$ $\Pi_{S''} = 1$ $A_{S''} = 0$
+$Cr = 0 - Cs' - Cs'' = 0 - 0 + 0 = 0$
+
+For [del]tunnel bridge[/del] $X_{S'} = 1$ $K_{S'} = 2$ $\Pi_{S'} = 0$ $A_{S'} = 0$
+$Cr = 0 - Cs' = 0 - 1 = -1$
+
+<u>A Catalogue of Surfaces</u>
+<u>A. Non Singular Surfaces</u>
+
+A 1 The balloon, or nonsingular informicate artiad surface,
+$X = 1$ $K = 0$ $\Pi = 1$ $C = 2$ $\tau = 0$ $T = 0$. Pierced, is [del]shrinkable[/del] [ins]astringible[/ins]
+to a point. [del]Cr = 2 because $Cs' - (Ks) = -1$ $C(1+1) = 2$[/del]
+
+A 2 The planoid, or nonsingular informicate perissid surface,
+$X = 1$ $K = 1$ $\Pi = 1$ $C = 1$ $\tau = 0$ $T = 0$. Pierced is [del]shrinkable[/del] [ins]astringible[/ins] to a
+[ins]simple[/ins] [del]line[/del] cut, to a point. [del]Cr = 1 because $Cs = -(X_s + K_s) = 0$[/del] [ins]$X_S = 1$ $K_S = 0$[/ins]
+
+A 3 The piperip, or nonsingular uniformicate artiad surface
+$X = 1$ $K = 2$ $\Pi = 1$ $C = 0$ $\tau = 0$ $T = 0$ Pierced, is astringible to
+a line with one $S_2$ [del]cut[/del], to a simple line. [ins]$X_S = 1$ $K_S = 1$[/ins] [del]Returning plate [unclear]X[/unclear][/del]
+
+A 4 The [ins]Tunnel bridge[/ins] [del]or[/del] non-singular uniformicate perissid surface.
+$X = 1$ $K = 3$ $\Pi = 1$ $C = -1$ [del]$\tau = 0$[/del] $T = 0$. Pierced, is astringible to
+a line with two $S_2$, cut along a perissid line through the former ring
+astringible to a simple line.
+
+A 5 [blank] , or non-singular biformicate artiad surface
+$X = 1$ $K = 4$ $\Pi = 1$ $C = -2$ [del]$\tau = 0$[/del] $T = 0$
+
+[del]And[/del] So on to $\infty$,

@@ -1,0 +1,37 @@
+[fig]Tic-tac-toe grid with O, X, 1, 2, 3, 4, 5, 6, 7[/fig]
+
+Case 31. The second player occupies a corner square
+adjoining the occupied square. The first player has a choice
+between 7 plays, as numbered in the figure, making cases 311,
+312, 313, 314, 315, 316, 317.
+
+Case 311. The first player occupies the corner adjoining his
+side square. The second player makes tit-tat-toe by occupying
+the side square adjoining his corner.
+
+[fig]Tic-tac-toe grid with O, X, X[/fig]
+
+Case 312. The first player occupies the vacant side square
+adjoining the occupied corner. There is no tit-tat-toe unless
+the second player occupies a corner when the first player makes
+tit-tat-toe.
+
+[fig]Tic-tac-toe grid with O, X, X, O[/fig]
+
+Case 313. The first player occupies the centre. The
+second player occupies the side square opposite that
+of the first player. There is no tit-tat-toe.
+
+[fig]Tic-tac-toe grid with O, X, X[/fig]
+
+Case 314. The first player occupies the side square
+having its adjoining and opposite squares vacant. The
+second player makes tit-tat-toe by occupying first
+the corner adjoining two vacant side squares, and then the
+
+[fig]Tic-tac-toe grid with O, X, 1, 2, 3, 4, X, 5, 6[/fig]
+
+Case 315. The first player occupies the corner having
+its adjoining and opposite squares vacant. The second
+player has his choice of 6 plays, as numbered in the figure, making
+cases 3151, 3152, 3153, 3154, 3155, 3156.

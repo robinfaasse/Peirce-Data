@@ -1,0 +1,19 @@
+Every class of pairs [del]which[/del] [ins]such that there is a class of pairs to which it stands in a certain relation[/ins] [del]has[/del] is of a certain category.
+
+[fig]Venn diagram of two overlapping circles[/fig]
+[u][del]u[/del] [ins]u[/ins] ≀ ( u ≀ [del]u[/del] [ins]ŭ[/ins] )[/u]
+
+[del]Why[/del] any relation of form u ≀ ŭ is of form u ≀ ( u ≀ ŭ )
+
+[del]If[/del] [del]Σ[/del] [del]Π[/del] [del]Π[/del] [del]Π[/del] [del]r[/del] [del]r[/del]
+[del]If[/del] [del]If[/del] Π_k r_αik + r_αjk then [del]r[/del] r_βij
+If r_βij then Π_k r_αik + r_αjk
+No matter what β be
+If [del]this be true[/del] Σ_i Π_j ( Σ_k r_αik · r_αjk + r_βij ) · ( r_βij + [del]Π[/del] [ins]Π_k[/ins] ( r_αik + r_αjk ) )
+then β is of form u ≀ ŭ
+
+If [del]If[/del] [del]If[/del] r_γuv · Π_w ( r_γuw + r_γvw ) then r_δuv
+If r_δuv then r_γuv · Π_w ( r_γuw + r_γvw )
+No matter what δ be [del]if[/del]
+if this be true Σ_y Π_u Π_v ( r_γuv + Σ_w r_γuw · r_γvw [del]+[/del] [ins]·[/ins] r_δuv ) · [ [del]r[/del] [ins]r_δuv[/ins] + r_γuv Π_w ( r_γuw + r_γvw ) ]
+then and then only δ is of the form u ≀ ( u ≀ ŭ )

@@ -1,0 +1,17 @@
+1. When two parentheses end together, the inner one is omitted, as is one that ends a formula.
+
+2. The order of unenclosed antecedents is commutable. Thus $a \prec b \prec c = b \prec a \prec c$.
+
+3. An antecedent identical with another antecedent has no effect $a \prec a \prec b = a \prec b$
+
+4. Antecedents may always be inserted under an even number of parentheses or omitted from under an odd number. Thus,
+if $b$ then $a \prec b$
+if $(a \prec b) \prec c$ then $b \prec c$
+if $[(a \prec b) \prec c] \prec d$ then $[(e \prec a \prec b) \prec c] \prec d$
+
+5. Parentheses under an even number of parentheses may be contracted or under an odd number expanded. But this rule is included under the last.
+Thus if $(a \prec b \prec c) \prec d$ then $a \prec (b \prec c) \prec d$
+and $(a \prec b) \prec c \prec d$
+and $[(a \prec b) \prec c] \prec d$
+
+So if $[(a \prec b \prec c) \prec d] \prec e$ then $a \prec [(b \prec c) \prec d] \prec e$

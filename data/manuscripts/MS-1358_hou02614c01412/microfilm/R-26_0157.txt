@@ -1,0 +1,33 @@
+Morison's Bridge 1898 Feb 12
+
+<u>Sum of two last</u>
+
+$$\frac{u}{B} Q ds - \frac{1}{2} \frac{u}{B} (ds)^2 - \frac{y_Q}{B} ds - 2 C_2 ds = 0$$
+
+$$C_2 = \frac{1}{2} \frac{u}{B} Q - \frac{1}{2} \frac{y_Q + \frac{1}{2} u ds}{B}$$
+
+<u>Difference</u>
+
+$$\frac{u}{B} Q^2 - \frac{1}{6} \frac{u}{B} (ds)^2 - 4 C_2 Q - 2 C_1 = 0$$
+
+$$C_1 = [del]B[/del] - 2 C_2 Q - \frac{1}{2} \frac{u}{B} Q^2 + \frac{1}{12} \frac{u}{B} (ds)^2$$
+
+$$= [del]- \frac{u}{B} Q^2[/del] + Q \frac{y_Q + \frac{1}{2} u ds}{B}$$
+$$- \frac{1}{2} \frac{u}{B} Q^2 + \frac{1}{12} \frac{u}{B} (ds)^2$$
+
+$$= - \frac{3}{2} \frac{u}{B} Q^2 + \frac{y_Q + \frac{1}{2} u ds}{B} Q + \frac{1}{12} \frac{u}{B} (ds)^2$$
+
+$$2 B C_2 = u Q - y_Q - \frac{1}{2} u ds$$
+$$2 B B_2 = v N + \frac{5}{12} v ds$$
+$$2 B (C_2 - B_2) = u Q - v N - y_Q - \frac{1}{2} u ds - \underline{\underline{\frac{5}{12} v ds}}$$
+$$= y_P + u ds$$
+
+$$2 y_Q + 2 y_P + (2 N [del]+ ds[/del]) v = (2 Q + [del]ds[/del]) u$$
+$$y_P + y_Q + N v + \frac{1}{2} ds \cdot v - Q u - \frac{1}{2} u \cdot ds = 0$$
+$$[del]y_P + y_Q[/del] + N v + \frac{5}{12} v \cdot ds - Q u + \frac{1}{2} u \cdot ds$$
+
+$$C_0 = \frac{1}{6} \frac{v}{B} N^3 + \frac{1}{4} \frac{v}{B} N^2 ds + \frac{1}{12} \frac{v}{B} N (ds)^2 - \frac{3}{2} P^2 \frac{y_P + u ds}{B}$$
+
+$$B_1 = - \frac{3}{2} \frac{u}{B} Q^2 + \frac{y_Q + \frac{1}{2} u ds}{B} Q - \frac{y_P + u ds}{B} P + \frac{1}{12} \frac{u}{B} (ds)^2$$
+$$A_1 = - \frac{3}{2} \frac{u}{B} Q^2 + \frac{y_Q + u ds}{B} Q - \frac{y_P + u ds}{B} P + \frac{1}{12} \frac{u}{B} (ds)^2$$
+$$+ \frac{1}{2} \frac{v}{B} N^2 + \frac{1}{2} \frac{v}{B} N ds + \frac{1}{12} \frac{v}{B} ds^2$$

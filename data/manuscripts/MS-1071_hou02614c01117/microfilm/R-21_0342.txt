@@ -1,0 +1,21 @@
+$$\frac{d\rho}{\rho} = \frac{dr \sqrt{1 - \left(\frac{dz}{dr}\right)^2}}{[del]r[/del]}$$
+
+$$\left(\frac{r}{R}\right)^2 + \left(\frac{z}{Z}\right)^2 = 1 \qquad z = Z \sqrt{1 - (r/R)^2}$$
+
+$$\frac{r dr}{R^2} + \frac{z dz}{Z^2} = 0$$
+
+$$\frac{dz}{dr} = - \frac{r}{R^2} \frac{Z^2}{z} = - \left(\frac{Z}{R}\right)^2 \frac{r}{Z \sqrt{1 - (r/R)^2}}$$
+
+$$[del]\times[/del] \left(\frac{dz}{dr}\right)^2 = \left(\frac{Z}{R}\right)^2 \frac{(r/R)^2}{1 - (r/R)^2} = - \frac{Z}{R} \frac{r/R}{\sqrt{1 - (r/R)^2}}$$
+
+$$[del]1 - \left(\frac{dz}{dr}\right)^2 = R^2 [1 - (r/R)^2] -[/del]$$
+
+$$1 - \left(\frac{dz}{dr}\right)^2 = 1 - \left(\frac{Z}{R}\right)^2 \frac{(r/R)^2}{1 - (r/R)^2}$$
+
+$$= 1 - \left(\frac{Z}{R}\right)^2 \frac{r^2}{R^2 - r^2}$$
+
+$$= \frac{R^2 - r^2 \left(1 + \frac{Z^2}{R^2}\right)}{R^2 - r^2}$$
+
+$$\sqrt{1 - \left(\frac{dz}{dr}\right)^2} = \sqrt{\frac{R^2 - r^2(1 + Z)^2}{R^2 - r^2}}$$
+
+$$\frac{\sqrt{1 - \left(\frac{dz}{dr}\right)^2}}{r} = \sqrt{\frac{R^2 - (1 + Z)^2 r^2}{R^2 r^2 - r^4}}$$

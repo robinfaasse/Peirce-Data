@@ -1,0 +1,48 @@
+[del]k² = 0 l² = 0[/del]
+[del]klk = lkl = 0[/del]
+
+[del]l = kl lk = m[/del]
+
+[del]kA = B kB = k²A = 0[/del] [del]kA = B[/del] [del]kB = k²A = 0[/del]
+[del]lA = C lC = l²A = 0[/del] [del]lA = C[/del] [del]lB = lkA = D[/del]
+[del]lB = lkA =[/del] [del]lC = klA = D kD = k²C = 0[/del]
+[del]lB = lkA = E[/del]
+[del]k[/del]
+
+kA = B
+kB = k²A = 0
+kC = klA = E
+kD = klkA = 0
+kE = k²C = 0
+
+lA = C
+lB = lkA = D
+lC = l²A = 0
+lD = l²B = 0
+lE = lklA = 0
+
+[del]ik = k ki = 0[/del]
+
+ik = k ki = 0
+li = l il = 0
+
+i² = i
+
+iB = ikA = kA = B
+iC = ilA = 0
+iD = ilB = 0
+iE = ikC = kC = E
+
+iA = F
+kF = kiA = 0
+lF = liA = lA = C
+iF = i²A = iA = F
+
+[del]i = F:A + B:B + E:E + F[/del]
+i = F:A + B:B + E:E + F:F
+k = B:A + E:C
+l = C:A + D:B + C:F
+
+[del]i = B:B + E:E[/del]
+[del]k = B:A + E:C[/del]
+[del]l = C:A + D:B[/del]

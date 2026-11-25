@@ -1,0 +1,34 @@
+At the base of the addition theorems of trigonometric, elliptic, and
+other functions lies the simple formula
+[u]aA + bB[/u] = [u]a + b[/u] . [u]A + B[/u] + [u]a - b[/u] . [u]A - B[/u] .
+   2             2         2         2         2
+
+Applying this [u]C₁ (P + Q√N)ˣ + C₂ (P + Q√N)⁻ˣ[/u]
+                               2
+= [u]C₁ + C₂[/u] . [u](P + Q√N)ˣ + (P + Q√N)⁻ˣ[/u] + [u]C₁ - C₂[/u] . [u](P + Q√N)ˣ - (P + Q√N)⁻ˣ[/u]
+     2                       2                   2                       2
+
+We adopt two functional [del]symbols[/del] [ins]symbols[/ins] defined by the formulae
+Clos_N x = [u](P + Q√N)ˣ + (P + Q√N)⁻ˣ[/u]
+                         2
+Slin_N x = [u](P + Q√N)ˣ - (P + Q√N)⁻ˣ[/u]
+                        2√N
+
+Again applying the addition-formula
+Clos_N (x + y) = Clos_N x . Clos_N y + N Slin_N x . Slin_N y
+Slin_N (x + y) = Slin_N x . Clos_N y + Clos_N x . Slin_N y
+
+Obviously
+(Clos_N x + √N . Slin_N x)ʸ = Clos_N xy + √N . Slin_N xy
+
+Since (P + Q√N)⁻¹ = P - Q√N
+we have Clos_N (-x) = Clos_N x
+Slin_N (-x) = - Slin_N x .
+
+Hence Slin_N 0 = 0
+and putting y = 0 above
+Clos_N 0 = 1 .
+
+Clearly Clos_N 1 = P     Slin_N 1 = Q .
+Then the formula P² - Q²N = 1 gives
+(Clos_N x)² - N (Slin_N x)² = 1

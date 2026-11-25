@@ -1,0 +1,55 @@
+[pn]1[/pn]
+
+To integrate
+[u]$\frac{dx}{\frac{ga^2}{8\mathcal{L}\mu} + \sqrt{1 + \frac{64\mu^2}{a^4}(x-x_0)^2}}$[/u]
+
+Put
+$\xi = \frac{8\mu}{a^2}(x-x_0)$
+$K = \frac{8\mathcal{L}\mu}{ga^2}$
+$d\xi = \frac{8\mu}{a^2} dx$  $dx = \frac{a^2}{8\mu} d\xi$
+
+$= \frac{a^2}{8\mu} \frac{\frac{1}{K} d\xi}{1 + \frac{\sqrt{1+\xi^2}}{K}}$
+$= \frac{a^2}{8\mu} \frac{\frac{1}{K} \sqrt{1+\xi^2} d\xi}{1 + K\sqrt{1+\xi^2}}$
+$= \frac{a^2}{8\mu} \left\{ \frac{1}{K} \sqrt{1+\xi^2} d\xi - \frac{(1+\xi^2) d\xi}{1 + K\sqrt{1+\xi^2}} \right\}$
+
+$z = \sqrt{1+\xi^2} - \xi$
+$\sqrt{1+\xi^2} = z + \xi = \frac{1+z^2}{2z}$
+$\frac{1-z^2}{2z} = \xi$
+$d\xi = \frac{-2z(2z) - 2(1-z^2)}{4z^2} dz = -\frac{1+z^2}{2z^2} dz$
+
+$\frac{1}{K} \sqrt{1+\xi^2} d\xi = -\frac{1}{K} \frac{(1+z^2)^2}{4z^3} dz = \left( -\frac{1}{4K} \frac{1}{z^3} - \frac{1}{2K} \frac{1}{z} - \frac{1}{4K} z \right) dz$
+$\int \frac{1}{K} \sqrt{1+\xi^2} d\xi = \frac{1}{2K} \xi \sqrt{1+\xi^2} - \frac{1}{2K} \log [\sqrt{1+\xi^2} - \xi]$
+
+$\frac{1}{z} = \sqrt{1+\xi^2} + \xi$
+$\frac{1}{z} - z = 2\xi$
+$z^2 = 1 + 2\xi^2 - 2\xi\sqrt{1+\xi^2}$
+$\frac{1}{z^2} - z^2 = 4\xi\sqrt{1+\xi^2}$
+
+$-\frac{(1+\xi^2) d\xi}{1 + K\sqrt{1+\xi^2}} = \frac{\frac{(z^2+1)^3}{8z^4} dz}{1 + K \frac{z^2+1}{2z}} = \frac{(z^2+1)^3 dz}{4z^3(2z + K(z^2+1))}$
+$= \frac{\frac{1}{4K} (z^2+1)^3 dz}{z^3(z^2 + \frac{2}{K}z + 1)} = \frac{1}{4K} \left( Az + B + Cz^{-1} + Dz^{-2} + Ez^{-3} + F \frac{1}{z^2+\frac{2}{K}z+1} \right)$
+
+$= \frac{1}{4K z^3 (z^2 + \frac{2}{K}z + 1)} \left\{ \begin{aligned}
+& A [ z^6 + \frac{2}{K}z^5 + z^4 ] \\
++ & B \dots [ z^5 + \frac{2}{K}z^4 + z^3 ] \\
++ & C \dots \dots [ z^4 + \frac{2}{K}z^3 + z^2 ] \\
++ & D \dots \dots \dots [ z^3 + \frac{2}{K}z^2 + z ] \\
++ & E \dots \dots \dots \dots [ z^2 + \frac{2}{K}z + 1 ] \\
++ & F \dots \dots \dots \dots \dots z^3
+\end{aligned} \right\}$
+
+$\begin{aligned}
+& A = 1 \quad E = 1 \\
+& B = D = -\frac{2}{K} \\
+& [del]B[/del] -\frac{4}{K^2} + C = 3 \\
+& C = 2 + \frac{4}{K^2} \\
+& -\frac{4}{K} + \frac{4}{K} + \frac{8}{K^3} + F = 0 \\
+& F = -\frac{8}{K^3}
+\end{aligned}$
+
+$= \frac{1}{4K} \left[ z - z^{-3} - \frac{2}{K}(1+\frac{1}{z^2}) + (2+\frac{4}{K^2})\frac{1}{z} - \frac{\frac{8}{K^3}}{z^2+\frac{2}{K}z+1} \right]$
+$= \frac{\begin{aligned}
+z^6 + \frac{2}{K}z^5 + z^4 \qquad\qquad\qquad + z^2 + \frac{2}{K}z + 1 \\
+-\frac{2}{K}z^5 - \frac{4}{K^2}z^4 - \frac{2}{K}z^3 - \frac{2}{K}z^2 - \frac{4}{K^2}z \\
++ (2+\frac{4}{K^2})z^4 + (\frac{4}{K}+\frac{8}{K^3})z^3 + (2+\frac{4}{K^2})z^2 \\
+-\frac{8}{K^3}z^3
+\end{aligned}}{z^3} \dots$

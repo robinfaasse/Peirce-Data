@@ -1,0 +1,23 @@
+This is proved if for every $M$ and $Q$
+$$\{l(sw)\}_{mq} = \{(ls)w\}_{mq}$$
+where [del]equality,[/del] it must be remembered
+that equality only means that the two
+members vanish together. Now
+$$\{l(sw)\}_{mq} = \Sigma_n (l)_{mn} (sw)_{nq}$$
+There are no negative quantities in ques-
+tion. Hence, the second member vanishes
+or not, according as for every $N$ either
+$(l)_{mn} = 0$ or $(sw)_{nq} = 0$, or not. [del]But[/del]
+[del]$(sw)_{nq}$[/del]
+$$(l)_{mn} (sw)_{nq} = 0$$
+But
+$$(l)_{mn} (sw)_{nq} = (l)_{mn} \Sigma_p (s)_{np} (w)_{pq} = \Sigma_p (l)_{mn} (s)_{np} (w)_{pq}$$
+This vanishes or not, according as every term
+of the summation vanishes or not. Hence
+$l(sw)$ vanishes or not according as [del]for[/del] [ins]for[/ins] every
+four individuals $M, N, P, Q$, we have
+either $(l)_{mn} = 0$ or $(s)_{np} = 0$ or $(w)_{pq} = 0$.
+But [del]from the symmetry of[/del] the definitions
+this is also the condition of the vanishing
+of $(ls)w$. Hence the two expressions are equi-
+valent.

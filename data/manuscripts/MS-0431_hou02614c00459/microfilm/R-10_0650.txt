@@ -1,0 +1,49 @@
+[pn]Logic
+III
+92[/pn]
+
+of the forms
+
+[marginalia]
+(a)
+(b)
+(g)
+(d)
+(e)
+(f)
+[/marginalia]
+
+[ (x [fig]black circle[/fig] y) [fig]heart[/fig] [ (y + z) [fig]diamond[/fig] (x [fig]circle with horizontal line[/fig] z) ] ]
+[ (x [fig]black diamond[/fig] y) [fig]heart[/fig] [ (x [fig]circle with horizontal line[/fig] z) [fig]diamond[/fig] (y + z) ] ]
+[ (y + z) [fig]heart[/fig] [ (x [fig]black circle[/fig] y) [fig]diamond[/fig] (x [fig]circle with horizontal line[/fig] z) ] ]
+[ (y + z) [fig]heart[/fig] [ (x [fig]circle with horizontal line[/fig] z) [fig]diamond[/fig] (x [fig]black circle[/fig] y) ] ]
+[ (x [fig]circle with horizontal line[/fig] z) [fig]heart[/fig] [ (x [fig]black circle[/fig] y) [fig]diamond[/fig] (y + z) ] ]
+[ (x [fig]circle with horizontal line[/fig] z) [fig]heart[/fig] [ (y + z) [fig]diamond[/fig] (x [fig]black circle[/fig] y) ] ]
+
+[ [ (x [fig]black circle[/fig] y) [fig]diamond[/fig] (y + z) ] [fig]heart[/fig] (x [fig]circle with horizontal line[/fig] z) ]
+[ [ (x [fig]black circle[/fig] y) [fig]diamond[/fig] (x [fig]circle with horizontal line[/fig] z) ] [fig]heart[/fig] (y + z) ]
+[ [ (y + z) [fig]diamond[/fig] (x [fig]black circle[/fig] y) ] [fig]heart[/fig] (x [fig]circle with horizontal line[/fig] z) ]
+[ [ (y + z) [fig]diamond[/fig] (x [fig]circle with horizontal line[/fig] z) ] [fig]heart[/fig] (x [fig]black circle[/fig] y) ]
+[ [ (x [fig]circle with horizontal line[/fig] z) [fig]diamond[/fig] (x [fig]black circle[/fig] y) ] [fig]heart[/fig] (y + z) ]
+[ [ (x [fig]circle with horizontal line[/fig] z) [fig]diamond[/fig] (y + z) ] [fig]heart[/fig] (x [fig]black circle[/fig] y) ]
+
+[marginalia]
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+[/marginalia]
+
+In all cases, [fig]black circle[/fig] is on the left margin, [fig]black diamond[/fig] on the right margin, and
+[fig]circle with horizontal line[/fig] in the body of the table. If those parts of the margins are used for which
+intersect in [fig]lambda[/fig], then [fig]diamond[/fig] is to be taken as [fig]wedge[/fig] and [fig]heart[/fig] as [fig]vee[/fig], in the
+six left hand formulae (a-f) as [fig]X[/fig], but in the others
+(1-6) as [fig]X[/fig]; or both [fig]diamond[/fig] and [fig]heart[/fig] may be taken as [fig]P[/fig]. If those
+parts of the margin are used which intersect in [fig]L[/fig] are used, in formulae
+[fig]alpha[/fig], [fig]beta[/fig], E, F, [fig]heart[/fig] is [fig]X[/fig]; in [fig]theta[/fig], [fig]zeta[/fig], [fig]lambda[/fig], it is [fig]X[/fig]; in [fig]alpha[/fig], F, [fig]theta[/fig], [fig]zeta[/fig], [fig]diamond[/fig] is [fig]vee[/fig]; in [fig]beta[/fig], E,
+[fig]lambda[/fig], [fig]delta[/fig], it is [fig]wedge[/fig]. In [fig]gamma[/fig], [fig]delta[/fig], [fig]eta[/fig], [fig]kappa[/fig], [fig]heart[/fig] is [fig]vee[/fig] while [fig]diamond[/fig] is [fig]wedge[/fig]. But, on the
+other hand, [del]in a, f, we may use[/del] a different interpretation,
+and in [fig]alpha[/fig], [fig]beta[/fig], E, F, [del]make [fig]heart[/fig][/del] [ins]make [fig]heart[/fig] to be [fig]P[/fig] while in [fig]alpha[/fig], F, [fig]theta[/fig], [fig]zeta[/fig], we[/ins]
+put [fig]vee[/fig] for [fig]diamond[/fig] and in [fig]beta[/fig], E, [fig]lambda[/fig], [fig]delta[/fig], we put [fig]X[/fig] for [fig]diamond[/fig]. Then, in [fig]gamma[/fig], [fig]delta[/fig], [fig]eta[/fig], [fig]kappa[/fig], we

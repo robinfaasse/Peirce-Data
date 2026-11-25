@@ -1,0 +1,19 @@
+$$(\Delta^2)^2 =$$
+
+$$\begin{array}{l l l}
+u & \Delta & \Delta^2 \\
+u + \Delta & \Delta + \Delta^2 & \Delta^2 + \Delta^3 \\
+u + 2\Delta + \Delta^2 & \Delta + 2\Delta^2 + \Delta^3 & \Delta^2 + 2\Delta^3 + \Delta^4 \\
+u + 3\Delta + 3\Delta^2 + \Delta^3 & \Delta + 3\Delta^2 + 3\Delta^3 + \Delta^4 & \Delta^2 + 3\Delta^3 + 3\Delta^4 + \Delta^5 \\
+u + 4\Delta + 6\Delta^2 + 4\Delta^3 + \Delta^4 & \Delta + 4\Delta^2 + 6\Delta^3 + 4\Delta^4 + \Delta^5 & \Delta^2 + 4\Delta^3 + 6\Delta^4 + 4\Delta^5 + \Delta^6 \\
+u + 5\Delta + 10\Delta^2 + 10\Delta^3 + 5\Delta^4 + \Delta^5 & \Delta + 5\Delta^2 + 10\Delta^3 + 10\Delta^4 + 5\Delta^5 + \Delta^6 & \\
+u + 6\Delta + 15\Delta^2 + 20\Delta^3 + 15\Delta^4 + 6\Delta^5 + \Delta^6 & & \\
+\end{array}$$
+
+$$u - \frac{(\Delta)^2}{\Delta^2}$$
+
+$$u + \Delta - \frac{(\Delta)^2 + 2\Delta\Delta^2 + (\Delta^2)^2}{\Delta^2 + \Delta^3} = u + \frac{\Delta\Delta^4 - (\Delta)^2 - (\Delta^2)^2}{\Delta^2 + \Delta^3}$$
+
+$$u_0 - \frac{(u_1 - u_0)^2}{u_2 - 2u_1 + u_0} = \frac{u_0 u_2 - u_1^2}{u_2 - 2u_1 + u_0}$$
+
+$$\frac{\frac{u_2 u_4 - u_3^2}{u_4 - 2u_3 + u_2} - \frac{u_0 u_2 - u_1^2}{u_2 - 2u_1 + u_0}}{\frac{u_2 u_4 - u_3^2}{u_4 - 2u_3 + u_2} - 2\frac{u_1 u_3 - u_2^2}{u_3 - 2u_2 + u_1} + \frac{u_0 u_2 - u_1^2}{u_2 - 2u_1 + u_0}} + \frac{\left(\frac{-u_1 u_3 + u_2^2}{u_3 - 2u_2 + u_1}\right)^2}{\dots}$$

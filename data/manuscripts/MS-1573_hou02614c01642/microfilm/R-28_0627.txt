@@ -1,0 +1,37 @@
+[marginalia]
+Any M.
+Any not-P is not some-S
+Any M is not some-S
+[/marginalia]
+
+[fig]Logical diagram with letters and lines[/fig]
+
+Any S is P
+Some-P is some-S
+
+[del]Any[/del] [ins]Some-[/ins] S
+[del]Any[/del]
+
+[fig]Logical diagram with letters and lines[/fig]
+
+Any S is a P
+A lover of an S is an M
+
+Any S is P
+Lover of [del]nothing but[/del] [ins]only[/ins] S's is an M
+[del]Whoever loves nothing but P's is[/del]
+Whoever is loved [del]only[/del] by M is a P
+
+Whatever loves something besides S's is a P
+Every S is an M
+
+Any S is a P
+Lover of [del]an S is an M[/del] [ins]only S's is an M[/ins]
+Whatever [del]loves[/del] [ins]loves[/ins] something besides S's is an M
+
+[fig]Small sketch of a prism or block[/fig]
+
+ls
+
+$\Pi_i \Pi_j \bar{l}_{ij} + S_i + M_i$
+$\Sigma_j l_{ij} \bar{S}_j$

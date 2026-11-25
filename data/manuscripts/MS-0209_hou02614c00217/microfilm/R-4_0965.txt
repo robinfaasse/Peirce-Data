@@ -1,0 +1,24 @@
+The proportion of players who have lost $b$ francs after the $m\text{th}$ bet,
+is that term of the development of $(1 - \frac{p}{q}) (p+q)^m$ which has $b$
+as the exponent of $q$. For example,
+
+$(p+q)^7 = q^7 + 7pq^6 + 21p^2q^5 + 35p^3q^4 + 35p^4q^3 + \text{etc.}$
+$\frac{p}{q}(p+q)^7 = \qquad\quad pq^6 + 7p^2q^5 + 21p^3q^4 + 35p^4q^3 + \text{etc.}$
+$(1 - \frac{p}{q})(p+q)^7 = q^7 + 6pq^6 + 14p^2q^5 + 14p^3q^4 + 0p^4q^3 + \text{etc.}$
+
+That is, since $2^7 = 128$, [del]the proportion of the original number of[/del]
+[del]play[/del] out of every 128 players, there will be left at the end of
+the $7\text{th}$ bet, [del]1[/del] [ins]one[/ins] who [del]have[/del] [ins]has[/ins] lost 7 francs, 6 who have lost 5 francs,
+14 who have lost 3 francs, 14 who have lost one franc, and none
+who have gained a franc (since they [del]have[/del] [ins]are truncated[/ins] left the table). This can
+be verified by forming the following triangle:
+
+After 0 bets. 1 bet. 2 bets. 3 bets. 4 bets. 5 bets. 6 bets. 7 bets.
+
+[fig]Branching probability tree diagram showing paths of wins and losses[/fig]
+
+For large values of $m$, the calculation must be made by means of the function
+$\int e^{-x^2} dx$. *
+
+\* [u]A particularly exact statement of the rule for making such calculations[/u]
+[u]is given in Studies in Logic. Boston: Little, Brown, & Co. 1883. p. 155.[/u]

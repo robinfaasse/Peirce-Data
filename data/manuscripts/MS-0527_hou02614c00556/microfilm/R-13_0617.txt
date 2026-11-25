@@ -1,0 +1,49 @@
+[pn]176[/pn]
+
+and as far as possible the $\Sigma$'s should be carried to the left of the $\Pi$'s. We have
+$$\Pi_i \Pi_j x_{ij} = \Pi_j \Pi_i x_{ij}$$
+$$\Sigma_i \Sigma_j x_{ij} = \Sigma_j \Sigma_i x_{ij}$$
+and also
+$$\Sigma_i \Pi_j x_i y_j = \Pi_j \Sigma_i x_i y_j.$$
+But this formula does not hold when the $i$ and $j$ are not separated. We do have,
+however,
+$$\Sigma_i \Pi_j x_{ij} \prec \Pi_j \Sigma_i x_{ij}.^{\text{*}}$$
+It will, therefore, be well to begin by putting the $\Sigma$'s to the left, as far as possible,
+because at a later stage of the work they can be carried to the right but not to
+the left. For example, if the operators of the two premises are $\Pi_x \Sigma_y \Pi_z$ and
+$\Sigma_x \Pi_y \Sigma_z$, we can unite them in either of the two orders
+$$\Sigma_x \Pi_y \Sigma_z \Pi_x \Sigma_y \Pi_z$$
+$$\Sigma_x \Pi_x \Sigma_y \Pi_y \Sigma_z \Pi_z,$$
+and shall usually obtain different conclusions accordingly. There will often be
+room for skill in choosing the most suitable arrangement.
+
+3d, It is next sometimes desirable to manipulate the Boolian part of the
+expression, and the letters to be eliminated can, if desired, be eliminated now.
+For this purpose they are replaced by relations of second intention, such as
+"other than," etc. If, for example, we find anywhere in the expression
+$$a_{ijk} \bar{a}_{xyz},$$
+this may evidently be replaceable by
+$$(n_{ix} + n_{jy} + n_{kz})$$
+where, as usual, $n$ means not or other than. This third step of the process is
+frequently quite indispensable, and embraces a variety of processes; but in ordi-
+nary cases it may be altogether dispensed with.
+
+4th, The next step, which will also not commonly be needed, consists in
+making the indices refer to the same collections of objects, so far as this is useful.
+If the quantifying part, or Quantifier, contains $\Sigma_x$, and we wish to replace the $x$
+by a new index $i$, not already in the Quantifier, and such that every $x$ is an $i$,
+we can do so at once by simply multiplying every letter of the Boolian having
+$x$ as an index by $x_i$. Thus, if we have "some woman is an angel" written in
+the form $\Sigma_w a_w$ we may replace this by $\Sigma_i (a_i w_i)$. It will be more often useful to
+replace the index of a $\Pi$ by a wider one; and this will be done by adding $\bar{x}_i$ to
+every letter having $x$ as an index. Thus, if we have "all dogs are animals, and
+all animals are vertebrates" written thus
+$$\Pi_d a_d \ \Pi_a v_a,$$
+
+[marginalia]
+$^{\text{*}}$ [ [u]Obviously a misprint for $\Sigma_i \Pi_j x_{ij} \prec \Pi_j \Sigma_i x_{ij}$[/u] ]
+[/marginalia]
+
+[marginalia]
+$^{\text{*}}$ [ [u]See note 403A + B at end of article[/u] ]
+[/marginalia]

@@ -1,0 +1,75 @@
+```
+[fig]Grid of Greek letters and symbols[/fig]  B C A D
+              D A C B
+              C B D A
+              A D B C
+
+              λ
+
+              ζ  H   CA   BB   DC   AD
+              η  H   BA   CB   AC   DD
+              θ  λ   BA   CB   AC   DB
+              ι  μ   DA   CD   BC   AD
+              κ  o = CA + DB + AC + BD = κ
+              λ  o = BA + AB + DC + CD = λ
+
+              ω  ι   CA   CB   DC   BD   o
+              μ  κ   BA   DB   CC   AD   o
+              ν  λ   DA   BB   AC   CD   η
+              ξ  κ   CA   AB   BC   DD   π
+              η  λ   BA   DB   CC   AD   τ
+
+[del]ι[/del] ω φ² = ψ (ψ φ) φ = ζ (ζ θ) θ = ζ θ o
+ζ  o = DA + CB + BC + AD = ν
+θ  o = CA + BB + DC + AD = ζ
+ι  o = CA + DB + AC + BD = κ
+
+o ν   AA   BB   BC   CD
+o ξ   DA   AB   CC   DD
+o π   DA   AB   CC   AD
+o ρ   DA   DB   AC   [del]B[/del]
+o σ   CA   CB   BC   AD   ν
+o τ   CA   DB   AC   BD
+      DA + CB + BC + AD
+      CA + DB + AC + BD = κ
+
+      BA   CA   AC   DD   = o
+      DA   AB   CC   BD   = ν
+      CA   BB   DC   AD   = ζ
+      AA   DB   BC   CD   = o
+      DA   BB   AC   CD   = η
+      AA   CB   DC   BD   = o
+      CA   AB   BC   DD   = π
+      BA   DB   CC   AD   = μ
+      CA   BA   DC   AD   = ζ
+      AA   DB   BC   CD   = o
+      BA   CB   AC   DD   = η
+      DA   AA   CC   BD   = o
+      DA   AB   CC   BD
+      DA   AB   CC   BD
+      CA   BB   DC   AD   = ζ
+      DA   AB   CC   BD   = ν
+      CA   BB   DC   AD   = ζ
+      BA   CB   AC   DD   = η
+      DA   CB   BC   AD
+      BA   AB   DC   CD
+      DA   CB   BC   AD   = ν
+
+1 λ μ ν
+λ 1 ν μ      AB
+μ ν 1 λ      CD   λ
+ν μ λ 1
+                  ν
+                  μ
+
+  θ ι o
+1 λ μ ν
+λ 1 ν μ
+μ ν 1 λ
+ν μ λ 1
+
+ν θ   DA   AB   CC   BD   = ν
+ν ι   BA   CB   AC   DD   = η
+ν κ   AA   DB   BC   CD   = o
+ν o   CA   BB   DC   AD   = ζ
+```

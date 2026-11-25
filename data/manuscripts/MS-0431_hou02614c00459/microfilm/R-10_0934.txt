@@ -1,0 +1,27 @@
+[pn]Logic
+III
+76[/pn]
+
+[pn](28)[/pn]
+
+[u]The operation of composition is [del]necessarily[/del] commutative[/u], as the
+mathematicians say; that is
+If [u]x[/u] [del]necessarily[/del] [ins]then[/ins] [u]y[/u], [del]then[/del] [ins]necessarily[/ins] [u]y[/u] [u]x[/u].
+
+For in (27), if we substitute [u]y[/u] for [u]x[/u] and [u]x[/u] for [u]y[/u], we get
+If [u]y[/u], then if [u]x[/u], necessarily [u]y[/u] [u]x[/u];
+whence, by (26),
+If [u]x[/u] [u]y[/u], then if [u]x[/u], necessarily [u]y[/u] [u]x[/u];
+whence, by (25), we get (28).
+
+[u]The operation of composition is associative[/u], as the mathema-
+ticians phrase it; that is
+[pn](29)[/pn] If from [u]u[/u] would follow [u]x[/u] [u]y[/u], if from [u]y[/u] [u]z[/u] would follow [u]w[/u],
+then [del]if[/del] from [u]u[/u] [u]z[/u] would [ins]necessarily[/ins] follow [u]x[/u] [u]w[/u];
+[pn](30)[/pn] If from [u]v[/u] would follow [u]y[/u] [u]z[/u], if from [u]x[/u] [u]y[/u] would follow [u]u[/u],
+then from [u]x[/u] [u]v[/u] would necessarily follow [u]u[/u] [u]z[/u].
+
+I first prove (29). In (25) substituting [u]u[/u] for [u]x[/u], and [u]z[/u] for
+[u]y[/u], we get,
+From [u]u[/u] [u]z[/u] necessarily [del]would[/del] [ins]would[/ins] follow [u]u[/u]
+whence [del]if from u would follow x y, then[/del] we have,

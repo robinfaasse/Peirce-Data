@@ -1,0 +1,17 @@
+[pn]Cur
+22[/pn]
+
+[fig]Long division of 999999 by 7[/fig]
+
+The reason of the [del]peculiarity[/del] [ins]property[/ins] of this [del]number[/del] [ins]number[/ins] is thus apparent. For since
+
+$2/7 = 0.\dot{2}8571\dot{4}$
+$3/7 = 0.\dot{4}2857\dot{1}$
+etc
+
+it follows that the whole number
+
+$285714 = 2/7 \times 999999$
+$428571 = 3/7 \times 999999$, etc.
+
+We now naturally ask this question: Will that whole number which is expressed by the first $p-1$ figures of the decimal value of $1/p$ have these same properties whatever prime number $p$ may be? This must be answered in the negative, for although [del]$p \pm 1$[/del] [ins]$B^{p-1}$[/ins] will in every case exceed by 1 some multiple of $p$, yet the same may be true of some

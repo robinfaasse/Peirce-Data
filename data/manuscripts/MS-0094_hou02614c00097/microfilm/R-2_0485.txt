@@ -1,0 +1,29 @@
+[pn]134[/pn] SOLID GEOMETRY. [CH. XVIII. § 449
+
+[u]Equilateral Spherical Triangles are equiangular.[/u]
+
+We have, from the preceding proposition,
+$A + B + C > 180^{\circ}$,
+[del]w[/del]hence, by transposition,
+$A > 180^{\circ} - (B + C)$.
+
+[u]b.[/u] But if $B + C$ is greater than $180^{\circ}$, we are to prove
+$A > (B + C) - 180^{\circ}$.
+
+Now, of the three sides $180^{\circ} - A$, $180^{\circ} - B$, $180^{\circ} - C$ of the polar triangle, each is, by § 438, less than the sum of the other two; that is,
+$(180^{\circ} - B) + (180^{\circ} - C) > 180^{\circ} - A$
+or
+$360^{\circ} - B - C > 180^{\circ} - A$,
+and, by transposition,
+$A + B + C > 360^{\circ} + 180^{\circ}$,
+or
+$A > (B + C) - 180^{\circ}$,
+as we wished to prove.
+
+449. Theorem. [u]If two spherical triangles on the same sphere, or on equal spheres, are equilateral with respect to each other, they are also equiangular with respect to each other.[/u]
+
+[u]Proof.[/u] Let $ABC$, $DEF$ (fig. 182) be the spherical triangles, of which the sides $AB = DE$, $AC = DF$, and $BC = EF$.
+
+Draw the radii $OA$, $OB$, $OC$, $OD$, $OE$ $OF$ The angles $AOB$ and $DOE$ are equal, because they are measured by the equal arcs $AB$ and $DE$; in the same way, $AOC = DOF$, $BOC = EOF$, and therefore, by § 340, the angle of the planes $AOB$, $AOC$ is equal to that of the planes $DOE$, $DOF$, that is, $BAC = EDF$.
+
+In like manner, $ABC = DEF$, and $ACB = DFE$.

@@ -1,0 +1,51 @@
+[pn]39.[/pn]
+
+[fig]Multiplication table for five basis elements i_1 through i_5[/fig]
+
+This form I got was
+[marginalia]
+$i_1 = (\Omega : J_1) + (r^2 - 1)(J_2 : J_1) +$ [del]$(J_3 : J_4)$[/del] [ins]$+ (J_3 : J_4)$[/ins]
+$i_2 = (\Omega : J_2)$
+$i_3 = (\Omega : J_3) - (J_4 : J_4) + (J_1 : J_4) +$ [del]$(J_3 : J_4)$[/del] [ins]$+ (J_3 : J_4)$[/ins]
+$i_4 = [del](\Omega : J_4)[/del] [ins]$(\Omega : J_4)$[/ins] + [del]$(J_3 : J_4)$[/del] [ins]$+ r(J_3 : J_4)$[/ins]
+$i_5 = (\Omega : J_5) - r^2(J_2 : J_2) - r(J_1 : J_4) - r(J_3 : J_4)$
+[/marginalia]
+
+$i_1 = (I_1 : A) + (I_2 : I_1) + (I_4 : I_3)$
+$i_2 = (I_2 : A)$
+$i_3 = (I_3 : A) + (I_2 : I_1) + (I_1 : I_3) + r(I_2 : I_4) - (I_2 : I_5)$
+[ins]$+ r(I_4 : I_1)$[/ins] [ins]$+ (I_5 : I_3)$[/ins] [ins]$- r(I_4 : I_5)$[/ins]
+$i_4 = (I_4 : A) + (I_2 : I_3)$
+$i_5 = (I_5 : A) + (r^2 - 1)(I_2 : I_4) - (I_4 : I_3) - r^2(I_2 : I_5)$
+
+I write the new form up the side of the multiplication-table
+
+In my notes on my father's Linear Associative Algebra, p. 91,
+I have given still another form of this algebra which is a
+little simpler than either of those deducible from my theorem,
+as is often the case. In this form there is one capital [ins]that[/ins] [del]which[/del]
+occurs only as the first of a pair [ins]either $\Omega$,[/ins] and there is another that
+occurs only as the second [ins]either $A$,[/ins] and both occur in the ex-
+pressions for every $i$. But generally, those forms which con-
+tain no analogue either of $A$ or of $\Omega$ are the simplest.
+
+[marginalia]
+whence we easily make out that
+$i_1^2 = (\Omega : J_2) = i_2$
+$i_1 i_2 = 0$
+$i_1 i_3 = (\Omega : J_4) + r(J_3 : J_4) = i_4$
+$i_2 i_1 = i_2^2 = i_2 i_3 = i_2 i_4 = i_2 i_5 = 0$
+$i_3 i_1 = (\Omega : J_1) + r(J_3 : J_4) + (r^2 - 1)(J_2 : J_1) \equiv (\Omega : J_1) + r(J_3 : J_4) + r^2(J_2 : J_1) = i_1 + r i_2$
+$i_3 i_2 = 0$
+$i_3^2 = [del](\Omega : J_3)[/del] [ins]$+ (\Omega : J_3)$[/ins] [del]$- (J_4 : J_4)$[/del] [ins]$- (J_4 : J_4)$[/ins] $+ (J_1 : J_4) + (J_3 : J_4) + (r^2 - 1)(J_2 : J_4) + r^2(J_2 : J_4) + (J_3 : J_4)$
+$i_3 i_4 = r(\Omega : J_2) = i_2$
+$i_3 i_5 = -r(\Omega : J_2) = -i_2$
+$i_4 i_1 = i_4 i_2 = 0$
+$i_4 i_3 = (\Omega : J_2) = i_2$
+$i_4^2 = i_4 i_5 = 0$
+$i_5 i_1 = (r^2 - 1)(\Omega : J_2) = (r^2 - 1) i_2$
+$i_5 i_2 = 0$
+$i_5 i_3 = -(\Omega : J_4) - r(J_3 : J_4) = -i_4$
+$i_5 i_4 = 0$
+$i_5^2 = -r^2(\Omega : J_2) = -r^2 i_2$
+[/marginalia]

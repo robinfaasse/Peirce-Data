@@ -1,0 +1,42 @@
+[del]$\frac{y_1}{x_1} = \frac{y}{x}$[/del]
+$y_1 = y$
+$x_1 = x + by$
+
+$\begin{aligned}
+x_1^2 + y_1^2 & = x^2 + 2bxy + (1+b^2)y^2 \\
+\frac{x_1^2 + y_1^2}{x^2 + y^2} & = \frac{1 + 2b\frac{y}{x} + (1+b^2)(\frac{y}{x})^2}{1 + (\frac{y}{x})^2} \\
+& = \frac{1 + 2b\tan\theta + (1+b^2)\tan^2\theta}{\sec^2\theta} \\
+& = \cos^2\theta + b\sin 2\theta + (1+b^2)\sin^2\theta \\
+& = 1 + b\sin 2\theta + b^2\sin^2\theta
+\end{aligned}$
+
+$(1 + b\sin 2\theta + b^2\sin^2\theta) = 2b\cos 2\theta + b^2\sin 2\theta$
+
+$2\cos 2\theta + b\sin 2\theta = 0$
+$\tan 2\theta = -\frac{2}{b} = \frac{2\tan\theta}{1-\tan^2\theta}$
+$b = \tan\theta - \cot\theta$
+
+[fig]Rectangle with diagonal[/fig]
+$-\frac{2}{b} = \tan 2\theta$
+$b = -\frac{2}{\tan 2\theta}$
+
+[fig]Intersecting lines[/fig]
+$\begin{aligned}
+\tan(\alpha + \beta) & = \frac{\sin(\alpha + \beta)}{\cos(\alpha + \beta)} \\
+& = \frac{\sin\alpha\cos\beta + \cos\alpha\sin\beta}{\cos\alpha\cos\beta - \sin\alpha\sin\beta} \\
+& = \frac{\tan\alpha + \tan\beta}{1 - \tan\alpha\tan\beta}
+\end{aligned}$
+
+[fig]Semicircle with sectors[/fig]
+
+$y_1 = y$
+$x_1 = x + 2y\tan(90^\circ + 2\theta)$
+$x^2 + y^2 = x_1^2 + y_1^2$
+$\tan\frac{y_2}{x_2} = \arctan\frac{y_1}{x_1} - \theta$
+
+$r^2 = x_1^2 + y_1^2 = x^2 + 4xy\tan(90^\circ + 2\theta) + y^2[1 + 4\tan^2(90^\circ + 2\theta)]$
+
+$\frac{\frac{y_1}{x_1} - \tan\theta}{1 + \frac{y_1}{x_1}\tan\theta} = \frac{y - x\tan\theta + 2y\tan\theta\tan(90^\circ - 2\theta)}{\dots}$
+
+[fig]Angle theta in quadrant[/fig]
+$\tan 2\alpha = \frac{2\tan\alpha}{1-\tan^2\alpha}$

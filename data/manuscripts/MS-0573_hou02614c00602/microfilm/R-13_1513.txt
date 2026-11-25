@@ -1,0 +1,23 @@
+The reader must not be surprised that $x \prec y$
+etc, which are expressions of the relative mag-
+nitude of two quantities, are themselves consi-
+dered as quantities again; for this is the very
+essence of the algebra. By Rule 2, we have
+$$\underline{(5-A)(5-B) = 0};$$
+for this equation is true if either of the fac-
+tors of the first member vanishes, that is, if
+either $A=5$ or $B=5$, that is, if either $x \prec y$
+is true or $y \prec z$ is true; [del]which[/del] [ins]which[/ins] is required by
+Rule 2. In like manner, the same rule yields
+the following equations
+$$(5-B)(5-C) = 0$$
+$$(5-C)(5-A) = 0$$
+$$(5-e)(5-b) = 0$$
+$$(5-b)(5-a) = 0$$
+$$(5-a)(5-e) = 0.$$
+By the first three of these 6 equations, each
+term of the following equation vanishes, and
+thus the whole of the first member can be equa-
+ted to zero.
+$$(5-A)^2(5-B)^2(5-C)^2 - 6(5-A)(5-B)^2(5-C)^2 - 6(5-A)^2(5-B)[del](5-C)^2[/del] [ins](5-C)^2[/ins]$$
+$$- 6(5-A)^2(5-B)^2(5-C) + 9(5-A)^2(5-B)^2 + 9(5-B)^2(5-C)^2 + 9(5-C)^2(5-A)^2$$

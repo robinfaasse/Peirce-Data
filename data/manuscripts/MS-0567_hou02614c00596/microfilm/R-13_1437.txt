@@ -1,0 +1,19 @@
+[pn]196[/pn]
+
+have
+$$\Pi_{a} \Sigma_{\kappa} \Pi_{b} \Pi_{c}\ q_{\kappa a} (\bar{q}_{\kappa b} + I_{ab}) (\bar{q}_{\kappa c} + I_{ac}).$$
+
+We must identify [ins]in the factors[/ins] [u]\(\kappa\)[/u] or we should reach no result, and this forces us to identify [u]\(a\)[/u]. But it is plain that we cannot from this square eliminate in any new way, and therefore we could not from any higher power, and consequently the original proposition is proved true.
+
+Suppose, however, one had written that proposition
+$$\Sigma_{\kappa} \Pi_{a} \Pi_{b}\ q_{\kappa a} (\bar{q}_{\kappa b} + I_{ab})$$
+
+Squaring this we have
+$$\Sigma_{\kappa} \Pi_{a} \Pi_{b} \Pi_{c} \Pi_{d}\ q_{\kappa a} q_{\kappa c} (\bar{q}_{\kappa b} + I_{ab}) (\bar{q}_{\kappa d} + I_{cd})$$
+
+Now identify [u]\(d\)[/u] with [u]\(a\)[/u], [u]\(c\)[/u] with [u]\(b\)[/u], and we have
+$$\Pi_{a} \Pi_{b}\ I_{ab},$$
+
+which is absurd.
+
+[i.e. every a is identical with every b]

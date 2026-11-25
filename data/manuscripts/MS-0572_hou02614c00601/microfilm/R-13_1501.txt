@@ -1,0 +1,26 @@
+Let $n = [del]d\sigma b[/del]$
+
+$(n^{l} + l)x = 1$
+$\underline{\text{Put } x = 1}$
+$(n^{l} + l)1 = 11 = 1$
+$n^{l} + l = 1$
+$n^{l} = 1 - l$
+$(\ l^{x} = 1 - (1 - l)x\ )$
+$\underline{\text{Put } l = 1}$
+$n^{1} = n = 1 - 1$
+$n^{x} = (1 - 1)^{x} = 1 - x$
+
+---
+
+$(l + m)^{c} = l^{c} + m^{c} + \Sigma_{p}\ l^{p} m^{c-p}$
+$\underline{\text{Put } l = 1}$
+$(1 + m)^{c} = 1^{c} + m^{c} + \Sigma_{p}\ 1^{p} m^{c-p}$
+$= 1 + m^{c} + \Sigma_{p}\ m^{c-p}$
+
+$(1 + m)^{c} = 1 + mc$
+
+$\sigma^{-1} = (1 + i)^{-\frac{1}{i}} = 1 - 1 = n$
+
+$\sigma^{-i} = 1 - i$
+$\sigma^{-\Sigma i} = \Pi(1 - i) = 1 - \Sigma i$
+$\therefore \sigma^{-x} = 1 - x$

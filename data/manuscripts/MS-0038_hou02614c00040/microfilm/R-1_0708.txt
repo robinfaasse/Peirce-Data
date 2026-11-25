@@ -1,0 +1,56 @@
+[pn]125[/pn] [pn]86[/pn]
+[pn]PEIRCE: On the Logic of Number.[/pn]
+
+[ins]254[/ins] A system in which quantities may be [u]q[/u]'s of or [u]q[/u]'d by the same quantity without being either [u]q[/u]'s of or [u]q[/u]'d by each other is called multiple;* a system in which of every two quantities one is a [u]q[/u] of the other is termed simple.
+
+[u]§2. Simple Quantity.[/u]
+
+[ins]255[/ins] In a simple system every quantity is either "as great as" or "as small as" every other; whatever is as great as something as great as a third is itself as great as that third, and no quantity is at once as great as and as small as anything except itself.
+
+[ins]256[/ins] A system of simple quantity is either continuous, discrete, or mixed. A continuous system is one in which every quantity greater than another is also greater than some intermediate quantity greater than that other. A discrete system is one in which every quantity greater than another is next greater than some quantity (that is, greater than without being greater than something greater than). A mixed system is one in which some quantities greater than others are next greater than some quantities, while some are continuously greater than some quantities.
+
+[u]§3. Discrete Quantity.[/u]
+
+[ins]257[/ins] A simple system of discrete quantity is either limited, semi-limited, or unlimited. A limited system is one which has an absolute maximum and an absolute minimum quantity; a semi-limited system has one (generally considered a minimum) without the other; an unlimited has neither.
+
+[ins]258[/ins] A simple, discrete, system, unlimited in the direction of increase or decrement, is in that direction either infinite or super-infinite. An infinite system is one in which any quantity greater than [u]x[/u] can be reached from [u]x[/u] by successive steps to the next greater (or less) quantity than the one already arrived at. In other words, an infinite, discrete, simple, system is one in which, if the quantity next greater than an attained quantity is itself attained, then any quantity greater than an attained quantity is attained; and by the class of attained quantities is meant any class whatever which satisfies these conditions. So that we may say that an infinite class is one in which if it is true that every quantity next greater than a quantity of a given class itself belongs to that class, then it is true that every
+
+[u]*For example, in the ordinary algebra of imaginaries two quantities may both result from the addition of quantities of the form [u]a[/u]² + [u]b[/u]² to the same quantity without either being in this relation to the other.[/u]
+
+[ins]✓ [del]but see 4.[/del][/ins]
+
+***
+
+[pn]126[/pn] [pn]87[/pn]
+[pn]PEIRCE: On the Logic of Number.[/pn]
+
+quantity greater than a quantity of that class belongs to that class. Let the class of numbers in question be the numbers of which a certain proposition holds true. Then, an infinite system may be defined as one in which from the fact that a certain proposition, if true of any number, is true of the next greater, it may be inferred that that proposition if true of any number is true of every greater.
+
+[ins]259[/ins] Of a super-infinite system this proposition, in its numerous forms, is untrue.
+
+[u]§4 Semi-infinite Quantity.[/u]
+
+[ins]260[/ins] We now proceed to study the fundamental propositions of semi-infinite, discrete, and simple quantity, which is ordinary number. [ins]**[/ins]
+
+[u]Definitions.[/u]
+
+[ins]261[/ins] The minimum number is called one.
+
+[ins]262[/ins] By [u]x[/u] + [u]y[/u] is meant, in case [u]x[/u] = 1, the number next greater than [u]y[/u]; and in other cases, the number next greater than [u]x'[/u] + [u]y[/u], where [u]x'[/u] is the number next smaller than [u]x[/u].
+
+[ins]263[/ins] By [u]x[/u] × [u]y[/u] is meant, in case [u]x[/u] = 1, the number [u]y[/u], and in other cases [u]y[/u] + [u]x'y[/u], where [u]x'[/u] is the number next smaller than [u]x[/u].
+
+[ins]264[/ins] It may be remarked that the symbols + and × are triple relatives, their two correlates being placed one before and the other after the symbols themselves.
+
+[u]Theorems.[/u]
+
+[ins]265[/ins] The proof in each case will consist in showing, 1st, that the proposition is true of the number one, and 2d, that if true of the number [u]n[/u] it is true of the number 1 + [u]n[/u], next larger than [u]n[/u]. The different transformations of each expression will be ranged under one another in one column, with the indications of the principles of transformation in another column.
+
+[ins]266[/ins] 1. To prove the associative principle of addition, that
+([u]x[/u] + [u]y[/u]) + [u]z[/u] = [u]x[/u] + ([u]y[/u] + [u]z[/u])
+whatever numbers [u]x[/u], [u]y[/u], and [u]z[/u], may be. First it is true for [u]x[/u] = 1; for
+(1 + [u]y[/u]) + [u]z[/u]
+= 1 + ([u]y[/u] + [u]z[/u]) by the definition of addition, 2d clause. Second, if true for [u]x[/u] = [u]n[/u], it is true for [u]x[/u] = 1 + [u]n[/u]; that is, if ([u]n[/u] + [u]y[/u]) + [u]z[/u] = [u]n[/u] + ([u]y[/u] + [u]z[/u]) then ((1 + [u]n[/u]) + [u]y[/u]) + [u]z[/u] = (1 + [u]n[/u]) + ([u]y[/u] + [u]z[/u]). For
+
+[ins]✓ [del]✗ [semi-limited, infinite][/del][/ins] [ins]** [del]✗ [fg. 4.[/del][/ins]
+[ins]** [del]✗ [see 564][/del][/ins]

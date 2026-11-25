@@ -1,0 +1,46 @@
+Morison's Bridge [date]1888 March 3[/date] [pn]5[/pn]
+
+[u]$z^n$[/u]
+$D_x z^n = n z^{n-1} D_x z$
+$D_x^2 z^n = n(n-1) z^{n-2} (D_x z)^2 + n z^{n-1} D_x^2 z$
+
+[u]$\sqrt{1-z^2}$[/u]
+$D_x \sqrt{1-z^2} = \frac{-z}{\sqrt{1-z^2}} D_x z$
+$D^2 \sqrt{1-z^2} = \frac{-\sqrt{1-z^2} + \frac{z^2}{\sqrt{1-z^2}}}{1-z^2} (D_x z)^2 - \frac{z}{\sqrt{1-z^2}} D_x^2 z$
+
+[del]$= D_x^2 ($[/del]
+
+[u]$(1-z^2)$[/u]
+$D (1-z^2) = -2 z D_x z$
+$D^2 (1-z^2) = -2 (D_x z)^2 - 2 z D_x^2 z$
+$= -2 (D_x z)^2 + 2 x^2 (a + x^2)$
+
+[u]$xz$[/u]
+$D_x xz = z + x D_x z$
+$D^2 xz = D_x z +$
+
+[u]$uv$[/u]
+$D_x uv = u D v + v D u$
+$D^2 uv = 2 D u D v + u D^2 v + v D^2 u$
+
+[del]$D_x^2 z = z + x D_x z$[/del]
+$D\ z \log x = D_x z \log x + z \frac{1}{x}$
+$D^2 = D_x^2 z \log x + D_x z \frac{1}{x}$
+[del]$D_x^2 z$[/del]
+
+[u]$\sigma^{-x} z$[/u]
+$D \sigma^{-x} z = -\sigma^{-x} z + \sigma^{-x} D_x z$
+$D^2 = \sigma^{-x} z - \sigma^{-x} D_x z$
+$- \sigma^{-x} D_x z$
+
+$D\ \sigma^{ix} z = i \sigma^{ix} z + \sigma^{ix} D_x z$
+$D^2 = -\sigma^{ix} z + i \sigma^{ix} D_x z$
+$+ i \sigma^{ix} D_x z$
+
+$D\ \sigma^{-x^{-1}} z = -x^{-2} \sigma^{-x^{-1}} z + \sigma^{-x^{-1}} D_x z$
+$D^2 = 2 x^{-3} \sigma^{-x^{-1}} z + x^{-4} \sigma^{-x^{-1}} z - x^{-2} \sigma^{-x^{-1}} D_x z$
+$- x^{-2} \sigma^{-x^{-1}} D_x z$
+
+$\sigma^{-x}$
+$D \sigma^{-x} = -\sigma^{-x}$
+$D^2 =$

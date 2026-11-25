@@ -1,0 +1,43 @@
+```
+[del](R cos θ + M)² + (R sin θ + N)² = D²[/del]
+
+[del]A cos (θ + θ₀) =[/del]
+
+[del]R cos θ + M[/del]  (ξ - A)² + (η - B)² = C²
+
+when ξ = 0
+η = B ± √C² - A²
+
+[del]2[/del](ξ - A) dξ + [del]2[/del](η - B) dη = 0
+
+- dξ / dη = √C² - A² / A = tan long
+
+B = 1/2 (η₁ + η₂)
+
+√C² - A² = 1/2 (η₁ - η₂)
+
+A = 1/2 (η₁ - η₂) / tan long
+
+C = 1/2 (η₁ - η₂) / sin long
+
+[fig]Diagram of a curve with points labeled A, 57°, 39, 80, 129°[/fig]
+
+ξ = R sin θ
+[del]η =[/del] R cos θ
+
+for
+1 + cot² = cosec²
+
+(η₂ - η₁) sin θ cos long
+(η₂ + η₁) cos θ sin long
+= η₂ sin (θ + long)
++ η₁ (long - θ)
+
+1/2 (sin / cos - cos / sin)
+1/2 (sin² - cos² / cos sin) = - cos 2 / sin 2 = - cot
+
+(R sin θ sin long - 1/2 (η₁ - η₂) cos long)²
++ (R cos θ sin long + 1/2 (η₁ + η₂) sin long)² = 1/4 (η₁ - η₂)²
+R² sin² long + R sin long [η₂ sin (θ + long) + η₁ (sin θ - long)]
++ 1/4 (η₁² + η₂²) cos 2 long + 1/2 η₁ η₂ =
+```

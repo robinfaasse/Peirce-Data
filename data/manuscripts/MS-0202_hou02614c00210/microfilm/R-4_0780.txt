@@ -1,0 +1,16 @@
+[pn]Car
+38[/pn] Only you have no higher number than that prime number of
+all the cards, and owing to the order in which the piles are
+gathered up you are counting round and round a cycle, thus:
+
+To show that this is so, consider the case of dealing [ins]13 cards[/ins] into seven
+piles. The cards will fall as follows:
+
+$$\begin{matrix}
+1 & 2 & 3 & 4 & 5 & 6 & 7 \\
+8 & 9 & \text{X} & \text{J} & \text{Q} & \text{K}
+\end{matrix}$$
+
+You now [del]take[/del] [ins]clutch[/ins] up the pile headed by the $\text{K}=13$, and after that succes-
+sively those headed respectively by $\text{Q}, \text{J}, \text{X}, 9, 8, 7$. The result will
+be that, counting from the back of the pack, the piles will follow in this

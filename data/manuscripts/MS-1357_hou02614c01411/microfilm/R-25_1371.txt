@@ -1,0 +1,27 @@
+$$s = \text{stress per sq. inch.} = 17\ 000;$$
+$$E = \text{modulus of elasticity} = 30\ 000\ 000;$$
+$$v = \text{deflection} = 1.5;$$
+$$l = \text{span} = 1400;$$
+
+Solving this equation we have:
+
+$$d = 66.11$$
+
+For convenience the depth has been made 66 feet 8 inches equal to $\frac{200}{3}$.
+
+The required section of the chords of the stiffening truss will then be determined by the following formula:
+
+$$a = \frac{w\ l^2}{8\ d\ s}$$
+
+in which
+
+$$d = \frac{200}{3}$$
+$$l = 1400$$
+$$s = 17\ 000$$
+$$w = 4.182$$
+
+Solving this equation we have, $a = 180$
+
+In this design the chords of the stiffening truss have a gross section of 800 square inches and a net section of 560 square inches; the net section is 3% percent greater and the gross section 33 per cent greater than the approximate calculation requires; it is expedient, however, to provide an excess of metal above that required by these advance calculations. The gross section is the one to be used in calculating deflections. Should the modulus of elasticity assumed ($30\ 000\ 000$) be criticised as being too high; it must be noted that this modulus is applied to the calculated section of the chord, whereas the actual section would be materially increased by splices and connection plates, so that a modulus of $17\ 500\ 000$ in the metal would correspond to at least $30\ 000\ 000$ in the calculated section.
+
+This is a simple solution and gives data to start from; but while considering the effect of the distorted cables in carrying unequal loading, it does not consider the bending effects on the stiffening truss due to the deflection of the cables as a whole.

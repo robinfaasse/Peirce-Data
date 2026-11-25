@@ -1,0 +1,23 @@
+$T_n$ is the same for the cable.
+$q_n$ is the same [del]diminished by the value[/del] when under the dead load only.
+$\pm N$ is the value of $n$ for outer suspenders.
+$\pm I$ is the value of $x$ for inner truss piers
+$\pm Q$ is the value of $x$ for outer truss piers
+$\pm R$ is the value of $n$ for the tower heads.
+$I$ and $J$ are the values of $x$ for the limits of the live load, and $I < J$.
+$\frac{n^2}{2p}$ is the length of the suspender at $n$. That is, $p$ is the latus rectum of the parabola
+$B$ is the flexural rigidity of the truss.
+$K$ is the horizontal rigidity of the tops of the towers, due to elasticity of towers and back stays.
+$E$ is the elongational rigidity of the cable.
+$E_n$ is the elongational rigidity of the suspender at $n$.
+$U$ is the weight of the dead load per unit of length.
+$V$ is the upward pull of the dead load on the suspenders per unit of length
+$W$ is the weight of the live load per unit of length.
+
+[pn]|p. 42|[/pn]
+
+$W_N$ and $W_{-N}$ are the downward forces at $N$ and $-N$ due to the weight of the unsuspended parts of the truss; but when the truss rests on all four piers or is held down to its bearings, it is unnecessary to consider these forces.
+$\Omega$ is the vertical resistance of the unsuspended parts of the truss to any deflection at $n = \pm N$
+$\beth$ (Beth) is the resistance of the same parts of the truss to change of $\Delta_N$ or $\Delta_{-N}$.
+These two quantities are readily calculated by ordinary methods, But in case the computer should not be expert with those methods, I give formulae in Note
+$S$ is the hypothetical section [del]length[/del] [ins]length[/ins] from suspender to suspender. It is not in the least real [del]since[/del] [ins]but[/ins] that the calculator should suppose the suspenders placed just where they are. It is more convenient to assume that if there is a suspender at $n$, then $\frac{n}{S}$ is a whole number. In the first formation of the equations, it is less confusing to conceive of $S$ as finite. But in the analytical development, it may be replaced by the infinitesimal $dn$.

@@ -1,0 +1,31 @@
+[pn]22[/pn] [pn]31[/pn]
+
+[u]Corollary 1.[/u] If the cardinal number, N, is less than the modulus, M, [ins]its[/ins]
+remainder, [del]R[/del] [ins]Q[/ins][sub]M[/sub]N, is N. [del]For N = N + 0·M.[/del]
+
+[u]Corollary 2.[/u] The remainder of the sum of two numbers [ins]N and N'[/ins] is the remainder
+of the sum of their remainders. [del]For if one of the numbers is divisible by
+the modulus, the remainder of the sum [ins]is the[/ins] sum of the remainders. For[/del]
+[del]N +[/del] N + Q·M = R[sub]M[/sub]N + [del](Q[sub]M[/sub]N)[/del] [ins](Q[sub]M[/sub]N)[/ins]·M + Q·M = R[sub]M[/sub]N + [del][(Q[sub]M[/sub]N + Q][/del] [ins][Q[sub]M[/sub]N + Q][/ins]·M.
+Hence, the remainder of a number [ins]N - Q'M[/ins] is the same as the remainder of that
+number diminished by a multiple of the modulus less than N. Hence,
+the remainder of N + N' is the remainder of N + N' - (Q[sub]M[/sub]N + Q[sub]M[/sub]N')·M.
+But this is R[sub]M[/sub]N + R[sub]M[/sub]N'.
+
+[u]Corollary 3.[/u] The remainder of the product of two numbers, N and N',
+is the remainder of the product of the remainders. For
+N·N' = (R[sub]M[/sub]N)·(R[sub]M[/sub]N') + [(Q[sub]M[/sub]N)·N' + (R[sub]M[/sub]N)·[del](Q[sub]M[/sub]N')[/del] [ins](Q[sub]M[/sub]N')[/ins]]·M.
+Therefore, by subtracting the multiple of M, which does not affect the remainder,
+the product of the remainders remains.
+
+[u]Corollary 4.[/u] The quotient of the sum of two numbers is the sum of the
+quotient of the sum of the remainders added to the sum of the quotients
+of the numbers; that is Q[sub]M[/sub](N+N') = Q[sub]M[/sub](R[sub]M[/sub]N+R[sub]M[/sub]N') + Q[sub]M[/sub]N + Q[sub]M[/sub]N'.
+
+[u]Corollary 5.[/u] The quotient of the product of two numbers, N and N', is the
+sum of the product of N by Q[sub]M[/sub]N', the quotient of the other added to
+the quotient of the product of N by R[sub]M[/sub]N', the remainder of the other. Or
+Q[sub]M[/sub](N·N') = N·Q[sub]M[/sub]N' + Q[sub]M[/sub](N·R[sub]M[/sub]N').
+
+[u]Corollary 6.[/u] Given any cardinal number, N, and any modular number, M,
+there is a multiple of M greater than N. For (Q[sub]M[/sub]N)·M is such a multiple.

@@ -1,0 +1,18 @@
+Logic (66) If x, then necessarily x ℣ y;
+III (67) If y, then necessarily x ℣ y;
+93 (68) If x ℣ y, then necessarily either x or y.
+From these definitions all the formulae can be deduced, in the
+same corollarial style that is illustrated [u]ad[/u] [u]nauseam[/u] above.
+(69) x ƚ y = [u]x · y[/u] = x ⤄ y ⤄ f = x ⤄ y̅ = x̅ ℣ y̅
+[del]If x ƚ y[/del]
+This operation is obviously commutative:
+(70) If x ƚ y, then necessarily y ƚ x.
+It is not associative. On the contrary, we have
+(71) x ƚ (y ƚ z) = x ⤄ y · z = (x ⤄ y) · (x ⤄ z),
+(72) (x ƚ y) ƚ z = x · y ⤄ z = (x ⤄ z) · (y ⤄ z).
+(73) If x · (y ƚ z), then necessarily (x ⤄ y) ƚ z,
+(74) If (x ƚ y) · z, then necessarily x ƚ (y ⤄ z).
+These formulae are [del]simp[/del] [ins]quite[/ins] instructive as showing how
+unsymmetrical operations may be expressed in terms of
+symmetrical ones Thus:
+[del](75)[/del] [del]x ⤄ y = (x ƚ x) ⤄ (y[/del]

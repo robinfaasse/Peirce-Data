@@ -1,0 +1,47 @@
+To integrate [del]$\frac{\Xi(\sqrt{1+\Xi^2}+B)}{\sqrt{1+\Xi^2}+A}d\Xi$[/del]
+[marginalia]
+$z = \sqrt{1+\Xi^2} - \Xi$
+$z + \Xi = \sqrt{1+\Xi^2} = \frac{z^2+1}{2z}$
+$\frac{z^2-1}{2z} = \Xi$
+$d\Xi = -\frac{z^2+1}{2z^2}dz$
+[/marginalia]
+
+$= \frac{+(\frac{z^2-1}{2z})(\frac{z^2+1}{2z}+B)\frac{z^2+1}{2z^2}dz}{\frac{z^2+1}{2z}+A}$
+$= \frac{(z^2-1)(z^2+2zB+1)}{4z^3(z^2+2Az+1)}dz$
+
+$= \frac{1}{4}(Pz + Q + Rz^{-1} + Sz^{-2} + Tz^{-3} + U(z+A+\sqrt{A^2-1}) + V(z+A-\sqrt{A^2-1}))$
+
+[del]$P \times$[/del] $z^6$ [del]$+ 2A$[/del] [del]$| z^5$[/del] $+ 1 | z^4$
+$+ Q \times$ [del]$1$[/del] $+ 2A$ $+ 1 | z^3$
+$+ R \times$ $+ 1$ $+ 2A$ $+ 1 | z^2$
+$+ S \times$ $+ 1$ $+ 2A$ $+ 1 | z$
+$+ T \times$ $+ 1$ $+ 2A$ $+ 1$
+$+ U \times$ $+ A-\sqrt{A^2-1}$
+$+ V \times$ $+ A+\sqrt{A^2-1}$
+
+$= z^6$ [del]$+ 2Bz^5$[/del] $+ z^4$ $- z^2$ $- 2Bz$ $- 1$
+
+$P = 1$ $T = -1$
+$2A + Q = 2B$ $S - 2A = -2B$ $R + 4A(A-B) - 1 = -1$
+$Q = 2(B-A)$ $S = 2(A-B)$ $R = 4A(B-A)$
+$1 + 4A(B-A) + 4A(B-A) + U+V = [del]2[/del] [ins]$1$[/ins]$
+$U+V = [del]+[/del] 8A(A-B)$
+$2(B-A) + 8A^2(B-A) + 2(A-B) + 8A^2(A-B) + \sqrt{A^2-1}(V-U)$
+$V-U = 0$
+
+$= \frac{1}{4} \{ z - \frac{1}{z^3} + 2(A-B)(\frac{1}{z^2}-1) + 4A(B-A)\frac{1}{z} + [del]\frac{8}{A}[/del] [ins]$8$[/ins] A(A-B)\frac{z+A}{z^2+2Az+1} \}$
+$= \frac{1}{4} \{ \frac{z^4-1}{z^3} + 2(A-B)\frac{1-z^2}{z^2} + 4A(B-A)\frac{1}{z} + 8A(A-B)\frac{z+A}{z^2+2Az+1} \}$
+$= \frac{z^4-1 - 2(A-B)z^3 + 2(A-B)z [del]+ 4A(A-B)z^2[/del]}{4z^3} + [del]\frac{8}{A}[/del] [ins]$8$[/ins] A(A-B)\frac{z+A}{z^2+2Az+1}$
+
+$= z^6$ [del]$+ 2A$[/del] [del]$| z^5$[/del] $+ 1 | z^4$
+[del]$-2A+2B$[/del] [del]$-4A^2+4AB$[/del]
+[del]$-4A^2+4AB$[/del] [del]$+2A-2B$[/del] [del]$| z^3$[/del]
+[del]$+8A^2-8AB$[/del] [del]$+8A^3-8A^2B$[/del] [del]$+2A-2B$[/del] [del]$| z^2$[/del]
+[del]$+8A^3-8A^2B$[/del] [del]$+4A^2-4AB$[/del] [del]$+2A-2B$[/del] [del]$| z$[/del]
+[del]$-2A$[/del] $- 1$
+
+$z^6 + 2Bz^5 + (1-2A^2+2AB)z^4$ $- z^2 - 2Bz - 1$
+
+[marginalia]
+$\frac{U}{P+\sqrt{Q}} + \frac{V}{P-\sqrt{Q}}$
+[/marginalia]

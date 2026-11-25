@@ -1,0 +1,153 @@
+```
+[marginalia]
+100
+50
+250
+125
+60
+30
+1/5
+[/marginalia]
+
+[del]h[/del] cosec [del]y[/del] [ins]x[/ins] = cosec x
+[del]h[/del] cot [del]y[/del] [ins]z[/ins] = cot x
+[del]1/5 x 0 x[/del] cosec [del]y[/del] [ins]z[/ins] = cosec [del]x[/del] [ins]y[/ins]
+[del]5 x 0 x[/del]
+[del]x x x x x 0 x 0 0 x[/del]
+[del]5 12 6 12 8 8 32 16 8[/del] [del]h[/del] [del]cot[/del] [ins]cosec[/ins] [del]y[/del] [ins]z[/ins] = [del]cot[/del] [ins]cosec[/ins] x
+[del]1024[/del]
+[del]32[/del]
+[del]992[/del]
+h² cosec² y - 1 = h² cot² [del]z[/del] [ins]y[/ins]
+h² cot² y + h² - 1 = h² cot² [del]z[/del] [ins]y[/ins]
+
+[del].0 0 x 0 0 x 0 0 0 0 x 0 x x x x x x x x x x[/del]
+[del]5 6 12 12 8 8 32[/del] [del]y[/del] = cot [del]y[/del] [ins]z[/ins]
+
+[del]h²[/del]/a² + [del]h²[/del]/a²
+
+[fig]Geometric diagrams showing intersecting planes and triangles[/fig]
+
+.14159265359
+28.318530718
+56637061436
+1.13274122872
+26548245744
+53096491488
+1.06192982976
+11745965952
+23491931904
+46983863808
+93967927616
+1.87935855232
+4.75871710464
+[del]1.132[/del] 3.75871710464
+1.63486841856
+1.98272
+1.196544
+1.73088
+1.86176
+1.72352
+1.44704
+.89408
+
+Error of 1.10010010001 is 1.000009
+3 + 1/8 + 1/64 + 1/1024
+16/64
+1024
+
+[marginalia]
+[del]d(s+l)[/del]/[del]ds[/del] = [del]ds+dl[/del]/[del]ds[/del] = [del]1[/del]
+[/marginalia]
+
+[marginalia]
+ds/k = sec θ dθ
+k/[del]k² tan² θ + 1[/del] [ins](tan² θ + 1)[/ins]
+1/error
+[/marginalia]
+
+[marginalia]
+[del]k² tan² θ - k² tan² θ[/del]
++ 1/k
+[/marginalia]
+
+[marginalia]
+ds/k = d lams = dθ
+G/s d lams = dθ
+sec θ
+[/marginalia]
+
+14159265359
+28318530718
+56637061436
+1.13274122872
+26548245744
+53096491488
+1.06192982976
+1.12385965952
+.24771931904
+.49543863808
+.99087727616
+1.98175455232
+1.96350910464
+1.92701820928
+1.85403641856
+1.70807283712
+1.41614567424
+.83229134848
+1.66458269696
+[del]Error = .0000056[/del] 1.32916539392
+.65833078784
+1.31666157568
+.63332315136
+1.26664630272
+53329260544
+1.06658521088
+13317094976
+26634084352
+53268168704
+1.06536337408
+
+[marginalia]
+[del]lams[/del] [ins]tan s[/ins] = sec s ds
+[/marginalia]
+
+[marginalia]
+s/n
+"
+"
+"
+"
+k tan s
+[/marginalia]
+
+[marginalia]
+4793725398
+240828125
+.000089089102
+[/marginalia]
+
+[marginalia]
+8/15
+n
+[/marginalia]
+
+[marginalia]
+sin s
+cos s
+[/marginalia]
+
+[marginalia]
+sin x = k [del]cos[/del] [ins]tan[/ins] [del]z[/del] [ins]y[/ins]
+[/marginalia]
+
+[marginalia]
+tan z/k = [del]1[/del]/[del]√k[/del]
+[/marginalia]
+
+[marginalia]
+k(1-h) tan z = 1/k
+[/marginalia]
+
+[fig]Geometric diagrams showing intersecting planes and triangles with labels "cosec x", "cot x", "cosec y", "cot y"[/fig]
+```

@@ -1,0 +1,25 @@
+$$\frac{1}{2} D_i^2 \frac{i^3}{(x-a)(x-b)(x-c+i)^3}$$
+
+$$= \frac{1}{2} \frac{1}{(x-a)(x-b)} D_i^2 \left( \frac{i}{x-c+i} \right)^3$$
+
+$$= \frac{3}{2} \frac{1}{(x-a)(x-b)} D_i \frac{i}{x-c+i} \frac{x-c}{(x-c+i)^2}$$
+
+$$[del]D_i \frac{x}{x+a} = \frac{(a+x) - x}{(a+x)^2}[/del] = \frac{3}{2} \frac{1}{(x-a)(x-b)} D_i \frac{(x-c)i}{(x-c+i)^3}$$
+
+$$= \frac{3}{2} \frac{1}{(x-a)(x-b)} \frac{(x-c)(x-c+i)^3 - 3(x-c+i)^2 [del](x-c)[/del]}{(x-c+i)^6}$$
+
+$$= \frac{3}{2} \frac{1}{(x-a)(x-b)}$$
+
+[u]$$\frac{1}{2} D_i^3 \frac{i^3}{c}$$[/u]
+
+$$\frac{1}{2} D_i^2 \frac{1}{(c-a+i)(c-b+i)}$$
+
+$$[del]\frac{1}{2} D_i \frac{1}{(c-a+i)(c-b+i)^2} - \frac{1}{(c-a+i)^2(c-b+i)}[/del]$$
+
+$$= \frac{1}{2} D_i^2 \frac{1}{(c-a+i)(c-b+i)}$$
+
+$$= \frac{1}{2} D_i \left[ - \frac{1}{(c-a+i)(c-b+i)^2} - \frac{1}{(c-a+i)^2(c-b+i)} \right]$$
+
+$$= - \frac{1}{2} D_i \frac{(c-a+i) + (c-b+i)}{(c-a+i)^2(c-b+i)^2} = \frac{1}{2} D_i \frac{2c-a-b+2i}{(c-a+i)^2(c-b+i)^2}$$
+
+$$= \frac{1}{2} \frac{2}{(c-a+i)^2(c-b+i)^2}$$

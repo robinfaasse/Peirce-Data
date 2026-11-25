@@ -1,0 +1,24 @@
+[u]Art. 6[/u]. The two real functions of $y$ in the series for $G^{yi}$ are termed the [u]cosine[/u] and [u]sine[/u] of $y$. That is
+$$G^{yi} = \cos y + \sin y \cdot i$$
+which is called DeMoivre's Principle.
+$$\cos y = 1 - \frac{1}{2!} y^2 + \frac{1}{4!} y^4 - \frac{1}{6!} y^6 + \text{etc} = \sum_r^\infty \frac{(-)^r y^{2r}}{(2r)!}$$
+$$\sin y = y - \frac{1}{3!} y^3 + \frac{1}{5!} y^5 - \frac{1}{7!} y^7 + \text{etc} = \sum_r^\infty \frac{(-)^r y^{2r+1}}{(2r+1)!}$$
+It is evident these series are convergent for all [del]real[/del] real values of $y$. We have to study the properties of these functions. These properties all spring from two, as follows:
+
+$1^{\text{st}}$. It is evident from the series that
+$$\cos(-y) = \cos y \qquad \sin(-y) = -\sin y$$
+and $\cos 0 = 1 \qquad \sin 0 = 0$
+
+$2^{\text{nd}}$
+$$G^{(y_1+y_2)i} = \cos(y_1+y_2) + \sin(y_1+y_2) \cdot i$$
+$$= G^{y_1 i} \cdot G^{y_2 i} = (\cos y_1 + \sin y_1 \cdot i) (\cos y_2 + \sin y_2 \cdot i)$$
+$$= \cos y_1 \cdot \cos y_2 - \sin y_1 \cdot \sin y_2$$
+$$+ [\sin y_1 \cdot \cos y_2 + \sin y_2 \cdot \cos y_1] \cdot i$$
+That is $\cos(y_1+y_2) = \cos y_1 \cdot \cos y_2 - \sin y_1 \cdot \sin y_2$
+$\sin(y_1+y_2) = \sin y_1 \cdot \cos y_2 + \sin y_2 \cdot \cos y_1$
+This is called the Addition Principle.
+
+From the two principles we have
+$$1 = G^0 = G^{0i} = G^{(y-y)i} = \cos y \cdot \cos(-y) - \sin y \cdot \sin(-y)$$
+$$+ [\sin y \cdot \cos(-y) + \sin(-y) \cdot \cos y] i$$
+$$= \cos^2 y + \sin^2 y$$

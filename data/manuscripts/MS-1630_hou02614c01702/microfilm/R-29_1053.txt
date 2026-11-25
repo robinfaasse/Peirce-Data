@@ -1,0 +1,46 @@
+[pn](29)[/pn]
+
+$\log(x-1) - \frac{1}{2(x+1)^2}$
+
+To dif.
+$\frac{N}{A^2 (x-1)} = V$
+
+$\log V = \log N - 2\log A - \log(x-1)$
+
+$\frac{DV}{V} = \frac{DN}{N} - \frac{2DA}{A} - \frac{1}{x-1}$
+
+$DV = \frac{-[del]A[/del]DN}{2} - 2DA + \frac{1}{2}$
+
+To find it
+
+$7x^6 + 60x^5 + 180x^4 + 268x^3 + 204x^2 + 58x + 4$
+
+[del]$DN$[/del] $D$
+$DA = 1$
+$DA = 0$
+$DV = 0$
+
+$\frac{2x+2}{2}$
+
+$\frac{D^2V}{V} - \frac{DV^2}{V^2} = \frac{D^2N}{N} - \frac{D^2A}{A} + \frac{DA^2}{A^2}$
+
+$\frac{D^2V}{V} = 4 - \frac{1}{4} - 4 + 1 + \frac{1}{4} = 0$
+
+$D^2N = 42x^5 + 300x^4 + 720x^3 + 804x^2 + 408x + 58$
+
+$x^2 + 2x = -2$
+$x_0 = -1 + \sqrt{-}$
+$x'_0 = -1 - \sqrt{-}$
+
+$\frac{N}{(x-x_0)^2 (x+1)^5 (x-1)}$
+
+$x_0 = -1 + \sqrt{-}$
+$x_0^2 = -2\sqrt{-}$
+$x_0^3 = 2 + 2\sqrt{-} = -2x_0$
+$x_0^4 = -4$
+$x_0^5 = 4 - 4\sqrt{-}$
+$x_0^6 = 8\sqrt{-}$
+$x_0^7 = -8 - 8\sqrt{-}$
+
+$\frac{2}{2x+2}$
+$\frac{x^2+2x+2}{2}$

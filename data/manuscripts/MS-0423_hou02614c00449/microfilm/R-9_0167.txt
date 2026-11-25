@@ -1,0 +1,37 @@
+[pn]97[/pn]
+
+$-i = sj + vj = [del]v[/del] -c + (s+a)j + bij$
+$= bs - c + [del]ab[/del] [ins]b^{2}[/ins]i + (s+a+bc)j$.
+
+Whence
+$b^{2} = -1$,
+
+and $b$ could not be real.
+
+Moreover, we shall have
+$ji = r(s-v)$,
+
+where $r$ is a real number. For [del]put[/del] write
+$ji = s' + v'$,
+
+where $s'$ is the scalar, and $v'$ the vector, of $ji$. Let us write,
+too,
+$vv' = s'' + v''$,
+
+where $s''$ and $v''$ are again the scalar and vector of $vv'$.
+Then
+$ij.ji = (s+v)(s'+v') = ss' + sv' + s'v + s'' + v''$.
+
+But
+$ij.ji = 1$.
+
+Hence
+$v'' = 1 - ss' - s'' - sv' - s'v$.
+
+But it has just been proved that the vector of the product
+of two vectors is linearly independent of these vectors and
+of unity. Hence
+$v'' = 0$.
+
+That is
+$sv' = 1 - ss' - s'' - s'v$. [pn]190[/pn]

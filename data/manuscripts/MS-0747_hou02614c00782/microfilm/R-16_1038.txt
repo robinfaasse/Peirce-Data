@@ -1,0 +1,27 @@
+$$A+B+C+D=0$$
+$$AB+BA+AC+CA+BC+CB=0$$
+$$A(pB+qC)=(pB+qC)A$$
+$$CA=\frac{p}{q}(AB-BA)+AC$$
+
+$$\begin{array}{l}
+AB+BA=j \\
+AC+CA=k \\
+BC+CB=-j-k
+\end{array}$$
+
+$$\begin{array}{l}
+[del]AB=aAB+b[/del] \\
+AB=bj+dl \\
+BA=(1-b)j-dl \\
+AC=[del]A[/del]\frac{p}{q}(\frac{1}{2}-b)j+(\frac{1}{2}-\frac{p}{q}d)l \\
+CA=-\frac{p}{q}(\frac{1}{2}-b)j+(\frac{1}{2}+\frac{p}{q}d)l \\
+BC=b'j+d'l \\
+CB=(1+b')j+(1+d')l
+\end{array}$$
+
+$$\begin{array}{l}
+qAC+qCA=qk \\
+[del]2qAC[/del]+p(AB-BA)=qk \\
+2AC+\frac{p}{q}(2AB-j)=k \\
+AC=\frac{1}{2}k+\frac{1}{2}\frac{p}{q}j-\frac{p}{q}AB
+\end{array}$$

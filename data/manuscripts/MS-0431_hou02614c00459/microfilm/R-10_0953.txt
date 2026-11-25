@@ -1,0 +1,28 @@
+[marginalia]
+Logic
+III
+93
+[/marginalia]
+
+(66) If $x$, then necessarily $x \curlywedge y$;
+(67) If $y$, then necessarily $x \curlywedge y$;
+(68) If $x \curlywedge y$, then necessarily either $x$ or $y$.
+
+From these definitions all the formulae can be deduced, in the same correlative style that is illustrated [del]ad nauseam[/del] above.
+
+(69) $x \curlywedge y = \bar{x} \cdot \bar{y} = \bar{x} \curlywedge \bar{y} = \bar{x} \cdot \bar{y} = \bar{x} \curlywedge \bar{y}$
+[del]If $x \curlywedge y$[/del]
+
+This operation is obviously commutative:
+
+(70) If $x \curlywedge y$, then necessarily $y \curlywedge x$.
+
+It is not associative. On the contrary, we have
+
+(71) $x \curlywedge (y \curlywedge z) = \bar{x} \cdot y \cdot z = (x \curlywedge y) \cdot (x \curlywedge z)$,
+(72) $(x \curlywedge y) \curlywedge z = \bar{x} \cdot \bar{y} \curlywedge z = (\bar{x} \curlywedge z) \cdot (\bar{y} \curlywedge z)$.
+(73) If $x \cdot (y \curlywedge z)$, then necessarily $(x \curlywedge y) \curlywedge z$,
+(74) If $(x \curlywedge y) \cdot z$, then necessarily $x \curlywedge (y \curlywedge z)$.
+
+These formulae are instructive as showing how unsymmetrical operations may be expressed in terms of symmetrical ones thus:
+[del]$x \curlywedge y = \bar{x} \cdot \bar{y}$[/del]

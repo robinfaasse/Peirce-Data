@@ -1,0 +1,28 @@
+[pn]162[/pn]
+[pn]P6[/pn]
+
+§ 84 Suppose we consider [u]$\frac{1}{R(p + \sqrt{1-p^2} i)}$[/u]
+This is equal to
+$\frac{1}{R} (p - \sqrt{1-p^2} i)$
+For multiplying $R(p + \sqrt{1-p^2} i) \cdot \frac{1}{R} (p - \sqrt{1-p^2} i)$
+$= \frac{R}{R} ( p^2 + p \sqrt{1-p^2} i$
+$- p \sqrt{1-p^2} i - (1-p^2) i^2 )$
+$= 1$.
+
+Accordingly the reticulation is transformed by [del]changing[/del] [ins]interchanging[/ins] all
+inside the circle $R = 1$ and all outside that circle, and at
+the same time reversing evening with reference to the ray $p=1$.
+
+§ 85. So far we have considered operations upon $x+yi$ or $R(p+\sqrt{1-p^2}i)$
+of such a nature that every value of the quantity operated on gives
+just one value of the quantity resulting from the operation. We will
+now suppose that, writing
+$z = x + yi = R(p + \sqrt{1-p^2} i)$
+for the complex or imaginary variable, we want to find represent
+$w = u + vi = S(q + \sqrt{1-q^2} i)$
+another such variable, such that
+$w = (z-a)(z-b)$.
+This is to be represented [del]by[/del] reticulation drawn upon the
+planes. The measured place of a point is to show the
+value of $z$, the distance from a zero point, to be $R$, the
+[del]diric[/del] of the ray from that point to show what $p$ is. Then

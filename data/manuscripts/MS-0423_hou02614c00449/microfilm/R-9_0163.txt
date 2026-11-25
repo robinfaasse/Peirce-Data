@@ -1,0 +1,28 @@
+[pn]138[/pn] [pn]83[/pn]
+[marginalia]§ 10 [u]Algebra of Real Quaternions[/u][/marginalia]
+
+[del]Sect.[/del] I now turn back to square-roots of negative unity, not
+supposing multiplication to be commutative. That is, we
+do not generally have $xy = yx$. Suppose we have two
+quantities $i$ and $j$, such that
+$$i^2 + 1 = 0$$
+$$j^2 + 1 = 0$$
+Then it is plain that
+$$(iji)(iji) = (ij)ii(ji) = -(ij)(ji) = -i.jj.i = ii = -1,$$
+so that $iji$ [del]is also[/del] and $jij$ are also square roots of
+negative unity.
+
+Five cases may be studied
+[ins]1[u]st[/u][/ins] $iji = i$
+2[u]nd[/u] $iji = -i$
+3[u]rd[/u] $iji = j$
+[del]4[u]th[/u][/del] $iji = -j$
+5[u]th[/u] $iji = k$ (a third unit.)
+
+[u]1[u]st[/u] Case[/u]. $iji = i$. Then,
+$$iiji = [del]i[/del] ji = ii$$
+$$-j = i.$$
+
+[u]2[u]nd[/u] Case[/u] $iji = -i$. Then,
+$$i.iji = -ji = -ii$$
+$$j = i.$$

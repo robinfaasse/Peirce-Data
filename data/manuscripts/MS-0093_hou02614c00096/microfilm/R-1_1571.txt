@@ -1,0 +1,39 @@
+[pn]70[/pn] [marginalia]See p 76[/marginalia]
+$$\psi^{n+1} = B - \frac{A + \psi^n}{C + \psi^n}$$
+$$\psi^{n+1} + C = \frac{B(A-C) + [del]\psi^n[/del] [ins](\psi^n+C)[/ins](B+C)}{\psi^n+C}$$
+$$\psi^n+C = \frac{u_{n+1}}{u_n}$$
+$$u_{n+2} - (B+C)u_{n+1} + B(C-A)u_n = 0$$
+$$\alpha = \frac{1}{2}(B+C) + \sqrt{\frac{1}{2}(B-C)^2 + BA}$$
+$$\beta = \frac{1}{2}(B+C) - \sqrt{\frac{1}{2}(B-C)^2 + BA}$$
+$$\frac{\alpha}{\beta} = \frac{x + y \sqrt{\frac{1}{2}(B-C)^2 + BA}}{\frac{1}{2}(B+C) + \sqrt{H}} = \frac{x + y \sqrt{H}}{\frac{1}{2}(B+C)x - \frac{1}{2}(B-C)^2 y + BA y}$$
+$$+ \left[ \frac{1}{2}(B+C)y - x \right] \sqrt{H}$$
+$$1 = x - \frac{(B-C)^2}{B+C} y + \frac{2BA}{B+C} y$$
+$$1 = \frac{1}{2}(B+C)y - x$$
+$$2 = \frac{\frac{1}{2}(B+C)^2 - (B-C)^2 - 2BA}{B+C} y$$ [marginalia]$$\begin{array}{r} \frac{1}{2}B^2 + BC + \frac{1}{2}C^2 \\ - B^2 + 2BC - C^2 \\ \hline -\frac{1}{2}B^2 + 3BC - \frac{1}{2}C^2 \end{array}$$[/marginalia]
+$$y = \frac{4(B+C)}{4B(C-A) - (B-C)^2}$$ [marginalia]$$3B^2 - 2BC + 3C^2$$[/marginalia]
+$$x = \frac{2(B+C)^2}{4B(C-A) - (B-C)^2} - 1 = \frac{2(B+C)^2 + (B-C)^2 - 4BC + 4BA}{2B(C-A) - (B-C)^2}$$
+$$\gamma = \frac{\alpha}{\beta} = \frac{3(B-C)^2 + 4B(C+A) + 4(B+C)\sqrt{\frac{1}{2}(B-C)^2+BA}}{4B(C-A) - (B-C)^2} = \frac{3(B-C)^2 + 4B(C+A)}{4B(C-A) - (B-C)^2}$$
+$$\psi^n + C = \frac{1 + \beta \gamma^{n+1}}{1 + \beta \gamma^n}$$
+
+[pn]71[/pn] [marginalia]See p 76[/marginalia]
+$$B - \frac{A + \psi^n}{C + \psi^n} = \frac{x + x \psi^n}{1 + y \psi^n}$$
+$$\frac{AB + (AB + [ins]\frac{+B}{c}[/ins] [del]ABZ[/del])\psi^n + BZ \psi^{2n}}{[del]= YC + Y \psi^n[/del]} = \frac{BA + B\psi^n + [del]BAZ \psi^n[/del] + BZ \psi^{2n}}{YC + Y\psi^n + [del]YCZ \psi^n + YZ \psi^{2n}[/del]}$$
+$$\frac{+ C + x \psi^n + x \psi^{2n}}{+ 1 + [del]x \psi^n + x \psi^{2n}[/del]} = \frac{C + 1 \psi^n + [del]C \chi \psi^n + \chi \psi^{2n}[/del]}$$
+$$\frac{AB-C}{C} = Y$$ [marginalia]$$\begin{array}{l} [del]\frac{B - AB}{C} + 1[/del] Z = X \\ \left( B - \frac{AB}{C} + 1 \right) Z = X \end{array}$$[/marginalia]
+$$BA = YC + C$$
+$$\frac{AB}{C} - 1 = Y$$
+$$B + ABZ = \frac{AB}{C} [del]Y[/del] + (AB-C)Z + X$$
+$$\left( B - \frac{AB}{C} + 1 \right) z = X$$
+$$B - \frac{AB}{C} = \left( B - \frac{AB}{C} + 1 + [del]AB[/del] - C \right) Z$$
+$$\begin{array}{l} B + BAZ = \\ \left( \frac{AB}{C} - 1 \right) (1 + CZ) \end{array}$$
+$$Z = \frac{B(C-A)}{B(C-A) + C - C^2}$$
+$$+ 1 + CX$$
+$$\frac{B}{\frac{AB}{C} - 1} = \frac{-BAZ}{+ ABZ + CZ + BCZ + ABZ + CZ}$$
+$$Z = \frac{B(1-A)}{B(C-A)} = \frac{1}{C}$$
+$$x = \frac{B}{C} - \frac{AB}{C} + \frac{1}{C}$$ [marginalia]Correct[/marginalia]
+$$Y = \frac{AB}{C} - 1$$
+$$\frac{AB}{C} - 1 + \frac{1 + \left( \frac{B}{C} - \frac{AB}{C^2} + \frac{1}{C} \right) t}{1 + \frac{1}{C} t}$$
+$$\frac{\left( \frac{AB}{C} - 1 \right) (C + t) + C^2 + (BC - AB + C)t}{C(C+t)}$$
+$$\frac{ABC - [del]C^2[/del] + [del]C^2[/del] + \left( AB - [del]C[/del] + BC - AB + [del]C[/del] \right) t}{C(C+t)}$$
+$$\frac{AB + BC t}{C+t}$$
+$$B - \frac{A + \psi^n}{C + \psi^n} = \left( \frac{AB}{C} - 1 \right) + \frac{1 + \frac{B(C-A)+C}{C^2} \psi^n}{1 + \frac{1}{C} \psi^n}$$

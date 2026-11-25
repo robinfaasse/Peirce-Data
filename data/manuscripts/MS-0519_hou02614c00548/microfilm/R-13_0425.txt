@@ -1,0 +1,25 @@
+[pn]99[/pn]
+
+A difficult proposition to prove
+
+$\sum_{a} \Pi_{a} \sum_{b} \Pi_{c} \Pi_{d} \sum_{e} \Pi_{f}$
+$\left[ \overline{\gamma}_{a} + \chi_{b} \gamma_{ab} \left( \overline{\gamma}_{cd} + \overline{I}_{ad} + \overline{I}_{bc} \right) \right] \overline{\gamma}_{ef} \chi_{e}$
+$\prec \Pi_{\beta} \sum_{1} \Pi_{2} \sum_{3} \chi_{1} \left( \overline{\gamma}_{\beta 12} + \overline{\gamma}_{2} + \overline{\gamma}_{\beta 32} \overline{I}_{31} \right)$
+
+This would be proved by raising to powers.
+
+[del]The first pro[/del]
+The antecedent gives above
+
+$\sum_{e} \chi_{e}$
+and identifying $f$ with $a$
+$\Pi_{a} \sum_{b} \sum_{e} \overline{\gamma}_{a} + \chi_{b} \chi_{e} \overline{I}_{be}$
+
+Squaring, identifying $a'$ with $d$, taking out $I_{ad}$ as a
+term by itself multiplying the rest by $I_{ad}$ identifying
+$c$ with $b'$, we get
+$\Pi_{a} \Pi_{d} \sum_{b} \sum_{c} \sum_{e} \overline{\gamma}_{a} + \overline{\gamma}_{d} + \overline{I}_{ad} + \chi_{b} \chi_{c} \chi_{e} \overline{I}_{bc} \overline{I}_{be} \overline{I}_{ce}$
+
+[fig]crossed out diagram[/fig]
+
+$\Pi_{\beta} \infty \chi \left( \overline{\gamma}_{\beta} + \overline{\gamma} \right) + \overline{I}_{\gamma \beta}$

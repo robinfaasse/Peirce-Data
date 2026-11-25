@@ -1,0 +1,25 @@
+[pn]W5[/pn] [pn]133[/pn]
+
+§68. The cases in which some of the known quantities are
+infinite are sometimes important in geometry. [del]The[/del] [ins]Any[/ins] equation
+in which such a quantity occurs may conveniently be divided
+by that quantity. A finite quantity divided by an infinite
+quantity is zero. Thus, if [u]a[/u] is infinite, but [u]b[/u] and [u]m[/u]
+finite, we divide the two quantities equated in the first equation
+by [u]a[/u], and in place of
+[u]a[/u] [u]x[/u] + [u]b[/u] [u]y[/u] = [u]m[/u]
+we get
+[del][u]x[/u] = 0.[/del] [u]x[/u] + 0.[u]y[/u] = 0.
+One infinite quantity divided by another gives a quotient
+which cannot be ascertained [del]by[/del] from the values of the nu-
+merator and denominator. If two infinite quantities occur,
+we must generally know what their ratio is, or we cannot
+determine the values of [u]x[/u] and [u]y[/u].
+
+§69. Let us now consider the case in which
+[u]a[/u]/[u]c[/u] = [u]b[/u]/[u]d[/u].
+
+Dividing both numerators and denominators of the expressions
+for [u]x[/u] and [u]y[/u] by [u]c[/u] and by [u]d[/u], we do not alter their values.
+But then
+[u]x[/u] = [ [u]b[/u]/[u]d[/u] · [u]n[/u]/[u]c[/u] - [u]m[/u]/[u]c[/u] ] / [ [u]b[/u]/[u]d[/u] - [u]a[/u]/[u]c[/u] ] = [ [u]a[/u]/[u]c[/u] · [u]n[/u]/[u]c[/u] - [u]m[/u]/[u]c[/u] ] / 0 = [ [u]n[/u]/[u]c[/u] - [u]b[/u]/[u]d[/u] - [u]m[/u]/[u]n[/u] ] / 0

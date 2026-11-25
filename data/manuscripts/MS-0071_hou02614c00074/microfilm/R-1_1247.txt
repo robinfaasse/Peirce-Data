@@ -1,0 +1,40 @@
+Of the Unordered Combinations of Six Things.
+[ins]x [c 1899][/ins]
+
+461 The following is not quite so trivial from a logical as from a mathematical
+point of view. Its object is to exhibit the symmetries of combinations of
+six things.
+
+I call a mathematical object that is regarded as having no parts a
+monad. I call a collection between the members of any one part there
+are exactly corresponding relations to those between the members of
+any equal part, or as we say, an unordered collection, a [del]strage[/del] [ins]I. strage[/ins]
+A strage of two objects I call a couple, one of three a trine, one of four
+a [del]quatern[/del] [ins]quatern[/ins], one of five a quine, one of six a sextine. If [del]two[/del] [ins]two[/ins] couples
+have a member in common, I say that they are allied; otherwise, they are
+alien. I say that two trines that are [del]parts of the same quatern[/del] [ins]one and [del]but[/del] [ins]just[/ins] one[/ins] are
+[del]fratern[/del]; two trines that have [del]but[/del] [ins]one and[/ins] one common member I say are
+propinque. Two trines that are not [del]parts[/del] [ins]one and[/ins] of one quatern and have no
+common member, I say are disparate. Two quaterns that are parts of
+one quine I say are near to, otherwise far from, each other.
+
+462 Any sextine of monads, [u]a[/u] [u]b[/u] [u]c[/u] [u]d[/u] [u]e[/u] [u]f[/u], consists, in 10 ways of
+two [del]trines[/del] disparate trines.
+
+Of the 20 trines of a sextine, each one, say [u]a[/u][u]b[/u][u]c[/u],
+is identical to 1 trine [u]a[/u][u]b[/u][u]c[/u]
+is fratern to 9 trines, [u]a[/u][u]b[/u][u]d[/u], [u]a[/u][u]b[/u][u]e[/u], [u]a[/u][u]b[/u][u]f[/u], [u]a[/u][u]c[/u][u]d[/u], [u]a[/u][u]c[/u][u]e[/u], [u]a[/u][u]c[/u][u]f[/u], [u]b[/u][u]c[/u][u]d[/u], [u]b[/u][u]c[/u][u]e[/u], [u]b[/u][u]c[/u][u]f[/u],
+is propinque to 9 trines, [u]a[/u][u]d[/u][u]e[/u], [u]a[/u][u]d[/u][u]f[/u], [u]a[/u][u]e[/u][u]f[/u], [u]b[/u][u]d[/u][u]e[/u], [u]b[/u][u]d[/u][u]f[/u], [u]b[/u][u]e[/u][u]f[/u], [u]c[/u][u]d[/u][u]e[/u], [u]c[/u][u]d[/u][u]f[/u], [u]c[/u][u]e[/u][u]f[/u]
+is disparate to 1 trine [u]d[/u][u]e[/u][u]f[/u].
+
+There are thus 90 couples of fratern trines, 90 couples of propinque trines, and
+10 couples of disparate trines.
+
+Of the 9 trines that are fratern to [ins]the[/ins] given trine, any one, say [u]a[/u][u]b[/u][u]d[/u]
+is identical with 1 of the 9, [u]a[/u][u]b[/u][u]d[/u]
+is fratern to 4 of the 9, [u]a[/u][u]b[/u][u]e[/u], [u]a[/u][u]b[/u][u]f[/u], [u]a[/u][u]c[/u][u]d[/u], [u]b[/u][u]c[/u][u]d[/u].
+is propinque to 4 of the 9, [u]a[/u][u]c[/u][u]e[/u], [u]a[/u][u]c[/u][u]f[/u], [u]b[/u][u]c[/u][u]e[/u], [u]b[/u][u]c[/u][u]f[/u].
+is disparate to 0 of the 9,
+
+There are, therefore, 120 [del]trines of[/del] [ins]each[/ins] fratern trines, and 360 triplets consisting of a trine
+[del]that is fratern to both of two propinque trines.[/del]

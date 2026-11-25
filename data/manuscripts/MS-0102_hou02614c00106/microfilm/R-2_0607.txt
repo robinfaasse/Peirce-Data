@@ -1,0 +1,39 @@
+and also on a line with $P_3$ and $P_4$ and there is but
+one such point so situated. In like manner, the
+mere inspection of the equation shows us that
+$P_6$ where the lines $P_1P_3$ and $P_2P_4$ intersect is repre-
+sented by the equation
+$-2bP_6 = (a-b-c)P_1 + (-a-b+c)P_3 = (a-b+c)P_2 + (-a-b-c)P_4$.
+And in like manner, the point $P_7$ where $P_1P_4$ and $P_2P_3$
+intersect is represented by
+$-2aP_7 = (-a+b-c)P_2 + (-a-b+d)P_3 = (-a+b+c)P_1 + (-a-b-c)P_4$.
+Let us now join the points $P_5P_6$. How are we to find
+the point, which I will call $P_{56.14}$ where the line $P_5P_6$ is
+cut by the line $P_1P_4$? For this purpose, we have to
+find an equation between the four points $P_1P_4P_5P_6$.
+The first two members of the equation of $P_5$ give
+$2cP_5 + (a-b-c)P_1 + (-a+b-c)P_2 = 0$
+The first and third member of the equation of $P_6$ give
+$2bP_6 + (a-b+c)P_2 + (-a-b-c)P_4 = 0$
+adding these we get
+$2cP_5 + 2bP_6 + (a-b-c)P_1 + (-a-b-c)P_4 = 0$.
+We now see, at once, that
+$2(b+c)P_{56.14} = 2cP_5 + 2bP_6 = (a+b+c)P_1 + (a+b+c)P_4$
+To find now, the point $P_{56.23}$ where the line $P_5P_6$ is cut
+by the line $P_2P_3$, we have only to reflect that its coeffi-
+cient must be composed of $2b$ and $2c$, and also
+of $-a-b+c$ and $-a+b-c$. In order to eliminate $a$ be-
+tween the last, we must take their difference, which
+is $2b-2c$. Hence we see that
+$2(b-c)P_{56.23} = 2bP_6 - 2cP_5 = (a+b-c)P_2 + (a+b-c)P_3$.
+A little attentive practice will enable the students to
+write down the equations for the intersections without
+difficulty. Thus, to find the equation of the point $P_{57.13}$ where
+the line $P_5P_7$ is cut by the line $P_1P_3$ we have to consider
+that being on $P_1$ and $P_3$, the coefficient of $P_{57.13}$ must be
+composed of $(a-b-c)$ and $(a-b+c)$, and being on $P_5P_7$
+it must be composed of $2c$ and $2a$. Hence the equation
+is
+$2(a-c)P_{57.13} = 2aP_7 - 2cP_5 = (a-b-c)P_1 + (a+b-c)P_3$
+and in like manner
+$2(a+c)P_{57.24} = 2aP_7 + 2cP_5 = (a-b+c)P_2 + (a+b+c)P_4$

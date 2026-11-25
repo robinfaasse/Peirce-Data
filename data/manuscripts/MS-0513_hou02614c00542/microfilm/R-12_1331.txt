@@ -1,0 +1,35 @@
+[pn]84[/pn]
+
+The proper way to use this algebra is, in my opinion, with a
+light touch. Considerable can easily be done with it. Much
+can be done with it at the expense of [del]endless[/del] [ins]great[/ins] puzzling. If any
+body is in love with puzzling, this algebra affords him a decent
+scope. If he has another purpose let him combine this algebra
+with indices and quantifiers and trust to it for the easy steps
+and to them for those that are more difficult.
+
+<u>XIII</u>.
+
+Let us now see how our apparatus works practically. Some very fine
+examples have been given by MacColl of the transformation of multiple
+definite integrals & by Schröder. But I will merely mention those,
+and gang my own gait.
+
+The most rudimentary kind of mathematics is that whose system
+of values comprises but two degrees. This is the very system of
+demonstrative logic which we have been studying.
+
+Next in the order of rudimentariness, fundamentalness,
+and abstractness comes arithmetic. This [del]depends on[/del] [ins]springs out of[/ins] the doctrine
+multitude. This depends on the consideration of one-to-many relations.
+
+Let $Y_{\alpha}$ mean that $\alpha$ is a one-to-many relation, and let
+$r_{\alpha i j}$ mean that $i$ stands to $j$ in the relation $\alpha$. Then,
+
+$\Pi_{\alpha} \Pi_{i} \Pi_{j} \Pi_{k} \bar{Y}_{\alpha} \mathbin{\psi} \bar{r}_{\alpha i k} \mathbin{\psi} \bar{r}_{\alpha j k} \mathbin{\psi} \bar{1}_{i j}$
+
+or substituting for $1$ a definition of it,
+
+(1) $\Pi_{\alpha} \Pi_{i} \Pi_{j} \Pi_{k} \Pi_{\beta} \bar{Y}_{\alpha} \mathbin{\psi} \bar{r}_{\alpha i k} \mathbin{\psi} \bar{r}_{\alpha j k} \mathbin{\psi} \bar{r}_{\beta i j} \mathbin{\psi} r_{\beta j i}$.
+
+[del](2)[/del] $\Pi_{\alpha} \Sigma_{i} \Sigma_{j} \Sigma_{k} \Sigma_{\beta} \bar{Y}_{\alpha} \mathbin{\psi} \bar{r}_{\alpha i k} \cdot \bar{r}_{\alpha j k} \cdot \bar{r}_{\beta i j} \cdot r_{\beta j i}$.

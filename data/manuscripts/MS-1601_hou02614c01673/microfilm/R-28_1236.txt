@@ -1,0 +1,38 @@
+Given $u_{-3}, u_{-1}, u_{+1}, u_{+3}$ Required (by interpolation $u_0$)
+
+[del]$u_0 = $[/del] [ins]$u_0 = \frac{9}{16} (u_1 + u_{-1}) - \frac{1}{16} (u_3 + u_{-3})$[/ins]
+
+$\frac{(1+3)(1+1)(1-3)}{4 \cdot 2 \cdot -2} u_1 \frac{(-3)(+3)}{-16}$
+
+$\frac{(-1+3)(-1+1)(-1-3)}{+2 \cdot -2 \cdot -4}$
+
+$u_0 = u_1 \frac{+9}{-1} \frac{1}{(1-3)(1--1)(1-+3)}$
+$4 \cdot 2 \cdot -2$
+
+$u_1 = \frac{+9}{+1} \frac{1}{(-1--3)(-1-1)(-1-3)}$
+$+2 \cdot -2 \cdot -4$
+
+Coeff $u_3 = \frac{9}{0-3} \frac{1}{(3-1)(3--1)(3--3)}$
+$2 \cdot 4 \cdot 6$
+
+Coeff $u_3 = \frac{3}{48} = \frac{1}{16}$
+
+Given $u_{-7} u_{-5} u_{-3} u_{-1} u_{+1} u_{+3} u_{+5} u_{+7}$
+The required interpolation value for $u_0$
+$\frac{u_0}{7 \cdot 5 \cdot 3} = \frac{C_{-7}}{+7} - \frac{C_{-5}}{+5} + \frac{C_{-3}}{+3} - \frac{C_{-1}}{+1} + \frac{C_{+1}}{1} - \frac{C_{+3}}{3} + \frac{C_{+5}}{5} - \frac{C_{+7}}{7}$
+
+$C_{+1} = \frac{u_{+1}}{(1-+7)(1-+5)(1-+3)}$
+
+Assume that in general
+
+[del]$\frac{u_x}{x^2} = $[/del] $\frac{C_{-7} u_{-7} + C_{7} u_{7}}{7} + \frac{C_{-5} u_{-5} + C_{5} u_{5}}{5} + \frac{C_{-3} u_{-3} + C_{3} u_{3}}{3}$
+$+ \frac{C_{-1} u_{-1} + C_{1} u_{1}}{1}$
+
+[del]$\frac{x}{x^2-7^2} = \frac{C_{-7}}{}$[/del]
+
+$u_x$
+$\overline{(x--7)(x--5)(x--3)(x--1)(x-+1)(x-+3)(x-+5)(x-+7)}$
+$= \frac{C_{-7}}{x--7} + \frac{C_{-5}}{x--5} + \frac{C_{-3}}{x--3} + \frac{C_{-1}}{x--1}$
+$+ \frac{C_{7}}{x-+7} + \frac{C_{5}}{x-+5} + \frac{C_{3}}{x-+3} + \frac{C_{1}}{x-(+1)}$
+
+$C_1 =$

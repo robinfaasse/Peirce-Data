@@ -1,0 +1,8 @@
+Logic (84) If $(\underline{x} \small\sim \underline{z}) \small\sim \underline{z}$ and $y \small\sim \underline{z}$ are both scriptible, then $(\underline{x} \small\sim y) \small\sim \underline{z}$ is scriptible.
+III
+80
+Proof. For by [del]66[/del] (79), if $(\underline{x} \small\sim \underline{z}) \small\sim \underline{z}$ is scriptible, either $\underline{x}$ is scriptible or $\underline{z}$ is scriptible. But if $\underline{x}$ is scriptible, then, by (66), if $\underline{x} \small\sim y$ is scriptible $y$ is scriptible; whence, if $y \small\sim \underline{z}$ is scriptible, again by (66), $\underline{z}$ is scriptible. Thus, in any case, if $(\underline{x} \small\sim \underline{z}) \small\sim \underline{z}$ and [del]x[/del] $y \small\sim \underline{z}$ are both scriptible, then if $\underline{x} \small\sim y$ is scriptible $\underline{z}$ is scriptible. Hence, by (68), if $(\underline{x} \small\sim \underline{z}) \small\sim \underline{z}$ and [del]x[/del] $y \small\sim \underline{z}$ are both scriptible, $(\underline{x} \small\sim y) \small\sim \underline{z}$ is scriptible. Q.E.D.
+
+(85) [del]Any[/del] [ins]Every[/ins] consequence [ins]which can be written out and [del]of which an[/del][/ins] whose ultimate [ins]consequent[/ins] [del](constituent[/del] is scriptible is scriptible.
+
+For assume this to be true [ins]whenever[/ins] [del]when[/del] the number of [ins]proximate[/ins] [del]antecedentals[/del] constituents [ins]is less than[/ins] [del]does not exceed[/del] any given number, $N$. Then consider a consequence [del]S_1 \small\sim S_2 \small\sim[/del] $S_1 \small\sim S_2 \small\sim \dots \small\sim S_n \small\sim V$, and of which the ultimate constituent $V$ is scriptible. Then, by (65) $S_n \small\sim V$ is

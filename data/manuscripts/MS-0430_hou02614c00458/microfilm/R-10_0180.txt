@@ -1,0 +1,28 @@
+[pn]Logic
+II
+37[/pn]
+
+[u]A[/u] be the value of the proposition that he belongs to section [u]A[/u][sub]j[/sub]
+[u]B[/u], " " " " " " " " [u]B[/u][sub]j[/sub]
+[u]C[/u], " " " " " " " " [u]C[/u][sub]j[/sub]
+[u]E[/u], " " " " " " " " Experiments;
+[u]L[/u], " " " " " " " " Lectures;
+[u]P[/u] " " " " " " " " papers.
+
+The existing rules are expressed as follows
+[fig]Existential graph with nested enclosures containing letters P, A, D, L, T, B, C[/fig] [fig]Existential graph with nested enclosures containing letters P, C, A, L[/fig] [fig]Existential graph with nested enclosures containing letters L, A, B, D[/fig] [fig]Existential graph with nested enclosures containing letters L, B, C, P[/fig] [fig]Existential graph with nested enclosures containing letters L, C, A, D[/fig]
+[fig]Existential graph with nested enclosures containing letters P, A, C, E[/fig] [fig]Existential graph with nested enclosures containing letters P, C, A, E[/fig] [fig]Existential graph with nested enclosures containing letters P, B, A, E[/fig] [fig]Existential graph with nested enclosures containing letters E, A, C, P[/fig] [fig]Existential graph with nested enclosures containing letters E, C, A, P[/fig] [fig]Existential graph with nested enclosures containing letters E, B, A, L[/fig]
+[fig]Existential graph with nested enclosures containing letters E, L[/fig]
+
+To this we join the expression of the state of things to be proved,
+namely [fig]Existential graph with nested enclosure containing letter P[/fig]. [del]This is eliminated by substitution for the potential[/del] [ins]and[/ins]
+containing the following:
+
+[del][fig]Existential graph with nested enclosures containing letters P, A, C, E[/fig] [fig]Existential graph with nested enclosures containing letters P, E, A, C, L[/fig] [fig]Existential graph with nested enclosures containing letters P, A, A, D, E[/fig] [fig]Existential graph with nested enclosures containing letters P, P, A, A, E, D[/fig][/del]
+
+[fig]Existential graph with nested enclosures containing letters P, E, A, C, L[/fig] [fig]Existential graph with nested enclosures containing letters P, A, C, L[/fig] [fig]Existential graph with nested enclosures containing letters P, P, A, A, L, E[/fig] [fig]Existential graph with nested enclosures containing letters P, A, A, E, L[/fig]
+
+Observe that
+But as graph of the form [fig]Existential graph with nested enclosures containing letters M, N[/fig] has no meaning, and may as
+well be erased (which we have anyway a right to do) since, it follows from
+anything say X, thus X X[sub]j[/sub] X [fig]Existential graph with nested enclosures containing letters M, N[/fig]; X [fig]Existential graph with nested enclosures containing letters M, N[/fig]; [fig]Existential graph with nested enclosures containing letters M, N[/fig].

@@ -1,0 +1,17 @@
+$$\Delta A^x = A^{x+1} - A^x$$
+$$= A^x (A - 1)$$
+
+$$A^{t_2} - A^{t_1} =$$ [fig]decay curve graph[/fig]
+
+$$A^{t+dt} - A^t = A^t (A^{dt} - 1)$$
+
+$$A^{t+1} - A^t = A^t (A - 1)$$
+
+$$F(t+1) - F(t) = F^t (A)$$
+
+[marginalia]
+$$\frac{64}{89}$$
+[/marginalia]
+
+$$D_t v =$$
+$$v_1 - v_2 = s_1 - s_2$$

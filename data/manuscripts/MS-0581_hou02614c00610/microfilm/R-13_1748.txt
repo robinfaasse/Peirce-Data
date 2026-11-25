@@ -1,0 +1,25 @@
+[pn]V.[/pn]
+
+$$g_{\beta\alpha} = \Pi_{\gamma} \sum_{i} \sum_{j} \sum_{k} \sum_{\delta} \Pi_{\epsilon} q_{\alpha i} (q_{\alpha j} \cdot q_{\beta k} \cdot q_{\delta i} \cdot \bar{q}_{\delta j} \cdot q_{\gamma i k} \cdot q_{\gamma j k} [del]\cdot \bar{q}_{\gamma i \ell} + \bar{q}_{\alpha \ell}[/del])$$
+
+$$m_{\alpha\alpha} = \Pi_{u} \bar{q}_{\alpha u}$$
+
+$$m_{\alpha\alpha} \cdot g_{\beta\alpha} = \Pi_{\gamma} \sum_{i} \sum_{j} \sum_{k} \sum_{\delta} \Pi_{\epsilon} \Pi_{u}$$
+$$[q_{\alpha i} (q_{\alpha j} \cdot q_{\beta k} \cdot q_{\delta i} \cdot \bar{q}_{\delta j} \cdot q_{\gamma i k} \cdot q_{\gamma j k} \cdot [del]\bar{q}_{\gamma i \ell} + \bar{q}_{\alpha \ell}[/del]) \bar{q}_{\alpha u}$$
+
+Identify $u$ with $i$
+
+$$m_{\alpha\alpha} \cdot g_{\beta\alpha} \prec q_{\alpha i} \cdot \bar{q}_{\alpha i} \prec 0$$
+
+$$m_{\beta\beta} \cdot g_{\beta\alpha} = \Pi_{\gamma} \sum_{i} \sum_{j} \sum_{k} \sum_{\delta} \Pi_{\epsilon} \Pi_{u}$$
+$$q_{\alpha i} (q_{\alpha j} \cdot q_{\beta k} \cdot q_{\delta i} \cdot \bar{q}_{\delta j} \cdot q_{\gamma i k} \cdot q_{\gamma j k} + \bar{q}_{\gamma i \ell} + \bar{q}_{\beta \ell}) \cdot \bar{q}_{\beta u}$$
+
+Identify $u$ with $i$
+
+$$g_{\alpha\beta} \cdot g_{\beta\alpha} = [del]q_{\alpha i} \cdot \bar{q}_{\beta \ell}[/del] \sum_{i} \Pi_{\beta} q_{\alpha i} \cdot \bar{q}_{\beta \ell} = \sum_{\ell} \bar{q}_{\beta \ell} \cdot g_{\alpha\beta}$$
+
+$$\Pi_{\beta} \bar{g}_{\beta\alpha} = \Pi_{\beta} \sum_{\gamma} \Pi_{i} \Pi_{j} \Pi_{k} \Pi_{\delta} \Sigma_{\epsilon}$$
+$$\bar{q}_{\alpha i} + (\bar{q}_{\alpha j} + \bar{q}_{\beta k} + \bar{q}_{\delta i} + q_{\delta j} + \bar{q}_{\gamma i k} + \bar{q}_{\gamma j k}) \cdot q_{\gamma i \ell} \cdot q_{\beta \ell}$$
+
+But $\sum_{\epsilon} \Pi_{i} \bar{q}_{\epsilon i}$ multiply this in. Identify $\beta$ with $\epsilon$ and $i$ with $\ell$
+and we get $\Pi_{i} \bar{q}_{\epsilon i} = m_{\alpha\alpha}$

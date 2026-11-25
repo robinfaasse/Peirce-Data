@@ -1,0 +1,27 @@
+[del]\frac{r^2 \sin^2 \theta +}{}\right.[/del]
+
+$$r^2 \sin^2 \theta + r^2 \cos^2 \theta - 2 r S \cos \theta \frac{\sin 51^\circ}{\cos 51^\circ + \sin \varphi} = \frac{\cos^2 51^\circ - \sin^2 \varphi}{[del]\cos^2 \varphi - \sin^2 51^\circ[/del] [ins](\cos 51^\circ + \sin \varphi)^2[/ins]}$$
+
+$$= \frac{\cos 51^\circ - \sin \varphi}{\cos 51^\circ + \sin \varphi}$$
+
+[del]\frac{r}{S} \frac{\cos 51^\circ + \sin \varphi}{\cos 51^\circ - \sin \varphi}[/del]
+
+[pn]39[/pn] $$\frac{r}{S} (\cos 51^\circ + \sin \varphi) + \frac{S}{r} (\frac{\sin \varphi - \cos 51^\circ}{\cos 51^\circ - \sin \varphi}) = 2 [del]\frac{r}{S}[/del] \cos \theta \sin 51^\circ$$
+
+$$e^y (\cos 51^\circ + \sin \varphi) + e^{-y} (\sin \varphi - \cos 51^\circ) = 2 [del]\frac{r}{S}[/del] \cos \theta \sin 51^\circ$$
+
+$$(e^y + e^{-y}) \sin \varphi + (e^y - e^{-y}) \cos 51^\circ = 2 \cos \theta \sin 51^\circ$$
+
+$$\cosh y \cdot \sin \varphi + \sinh y \cdot \cos 51^\circ = \cos \theta \sin 51^\circ$$
+
+$$\sec \eta \cdot \sin \varphi + \tan \eta \cos 51^\circ$$
+
+$$\frac{\sin \varphi + \sin \eta \cdot \cos 51^\circ}{\cos \eta}$$
+
+[del]Let[/del] $$\gamma = \log S \sqrt{\frac{[del]\cos \theta +[/del] \cos 51^\circ}{\sin \varphi + \cos 51^\circ}}$$
+
+$$e^{y-\gamma} + e^{\gamma-y} = \frac{2 \cos \theta \sin 51^\circ}{\sqrt{\sin^2 \varphi - \cos^2 51^\circ}}$$
+
+$$\cosh (y-\gamma) = \frac{[del]\cos \theta[/del] \sin 51^\circ}{\sqrt{\sin^2 \varphi - \cos^2 51^\circ}}$$
+
+see [fig]black circle[/fig] $$\log \tan (45^\circ + \frac{\eta}{2}) = [del]i[/del] [ins]u[/ins] (\frac{\pi}{180} y - \gamma)$$

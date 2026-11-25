@@ -1,0 +1,24 @@
+$$ (D_x^2 + D_y^2) (x^2 + y^2)^n U $$
+$$ = (D_x^2 + D_y^2) U \cdot (x^2 + y^2)^n + 4n (D_{\log x} + D_{\log y} [ins]+ n[/ins]) U \cdot (x^2 + y^2)^{n-1} $$
+$$ [del]+ 4n^2 U \cdot (x^2[/del] $$
+
+$$ = (D_x^2 + D_y^2) U \cdot (x^2 + y^2)^n + 4n (D_{\log x} + D_{\log y} + n) U (x^2 + y^2)^{n-1} $$
+
+$$ (D_x^2 + D_y^2)^2 (x^2 + y^2)^n U $$
+$$ = (D_x^2 + D_y^2)^2 U (x^2 + y^2)^n + 4n (D_x^2 + D_y^2) (D_{\log x} + D_{\log y} + n) U (x^2 + y^2)^{n-1} $$
+$$ + 4n (D_{\log x} + D_{\log y} + n) (D_x^2 + D_y^2) U (x^2 + y^2)^{n-1} $$
+$$ + 16n^2 (D_{\log x} + D_{\log y} + n)^2 U (x^2 + y^2)^{n-2} $$
+
+$$ (D_{\log x} + D_{\log y} + n) (D_x^2 + D_y^2) U = x D_x^3 + x D_x D_y^2 + y D_x^2 D_y + y D_y^3 + n D_x^2 + n D_y^2 $$
+$$ (D_x^2 + D_y^2) (D_{\log x} + D_{\log y} + n) = x D_x^3 + x D_x D_y^2 + y D_x^2 D_y + y D_y^3 + (n+2) D_x^2 + (n+2) D_y^2 $$
+
+$$ x D_x + y D_y + n $$
+$$ D_x = D_x + x D_x^2 + y D_x D_y + n D_x $$
+$$ D_x^2 = [del]2[/del] D_x^2 + x D_x^3 + y D_x^2 D_y + [del]n[/del] $$
+$$ (n+2) (D_x^2 + D_y^2) $$
+
+$$ F_1 x + y i + F_2 x - y i $$
+$$ x F_1' + x F_2' $$
+$$ i y F_1' - i y F_2' $$
+$$ (n+1) F_1 + (n+1) F_2 $$
+$$ x F_1' (p D_p + n') U + (q D_q + n') V = 0 $$

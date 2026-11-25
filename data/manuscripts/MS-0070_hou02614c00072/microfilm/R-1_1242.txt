@@ -1,0 +1,14 @@
+[pn]N2[/pn] Let $\Pi_{v}\bar{q}_{vu} + q_{vw}$ mean that $w$ is at least as small as $u$
+
+The universe is of whole numbers
+
+[fig]Monogram of CSP[/fig]
+
+Definition of $N_{ij}$, "$i$ is the negative of $j$" $\Pi_{i}\Pi_{j}\Pi_{u} \bar{N}_{ij} + (q_{iu} + \bar{q}_{ju})\cdot(\bar{q}_{iu} + q_{ju})$
+$\Pi_{i}\Pi_{j} [del]\Pi_{u}[/del] \Sigma_{u} q_{iu}\cdot q_{ju} + \bar{q}_{iu}\cdot\bar{q}_{ju} + N_{ij}$
+
+Definition $T_{uw}$, "$u$ is other than $w$" $\Pi_{u}\Pi_{w} \Sigma_{i} \bar{T}_{ij} + (q_{iu} + q_{iw})\cdot(\bar{q}_{iu} + \bar{q}_{iw})$
+$\Pi_{u}\Pi_{w} \Pi_{i} q_{iu}\cdot q_{iw} + \bar{q}_{iu}\cdot\bar{q}_{iw} + T_{ij}$
+
+[del]$\Pi_{u}\Pi_{w} \Sigma_{i}\Pi_{j} \Sigma_{v} \Sigma_{j} \bar{q}_{iv} +$[/del]
+$\Pi_{u}\Pi_{w} \Sigma_{i}\Pi_{j}\Pi_{j} q_{iu}\cdot q_{iw}\cdot (\bar{q}_{iv} + \bar{q}_{jv} + \bar{q}_{iw})$

@@ -1,0 +1,17 @@
+$$i = 4 \frac{\mu}{3} \frac{g}{\theta} \frac{l-L}{l} \frac{1}{(1 + \frac{\mu}{3} \frac{g}{\theta})^2}$$
+
+$$= 4 \frac{1}{E} \frac{\kappa}{\lambda} \frac{1}{\lambda} \frac{1}{(1 + \frac{\kappa}{E\lambda})^2}$$
+
+$$= 4 \frac{\kappa}{\lambda^2} \frac{E^2 \lambda^2}{(E\lambda + \kappa)^2} = \frac{4 E \kappa}{(E\lambda + \kappa)^2}$$
+
+$$\sqrt{1-i} = \frac{\sqrt{(E\lambda + \kappa)^2 - 4 E \kappa}}{E\lambda + \kappa}$$
+
+$$\frac{E}{2}\lambda + \frac{\kappa}{2}$$
+
+$$\frac{1}{2}(E\lambda + \kappa) (1 \pm$$
+
+$$\frac{1}{2}(E\lambda + \kappa) \pm \sqrt{(E\lambda + \kappa)^2 - 4 E \kappa}$$
+
+$$\kappa(E\lambda + \kappa) - \kappa^2$$
+
+$$\frac{1}{2} F \pm \sqrt{\frac{1}{4} F^2 - E\kappa}$$

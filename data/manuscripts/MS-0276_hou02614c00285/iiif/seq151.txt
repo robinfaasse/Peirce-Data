@@ -1,0 +1,12 @@
+[145]
+
+[fig]sketch of a spiral or conical helix[/fig] [fig]coordinate axes diagram with arrows and labels for +x, +y, +z (Forward), and θ[/fig] [fig]3D coordinate axes diagram with arrows labeled away, home, and +z, +y[/fig]
+
+D<sub>t</sub>z = H (positive)     x = r cos θ
+                    y = r sin θ
+D<sub>t</sub>θ = C (positive)
+
+D<sub>t</sub>x = −Cy
+D<sub>t</sub>y = Cx            [fig]small right triangle diagram with labels dθ and dz[/fig]
+
+[fig]circle with inscribed triangle and vectors[/fig] x<sub>i</sub> : y<sub>i</sub> = (y<sub>i</sub>' − y<sub>i</sub>) : (x<sub>i</sub> − x<sub>i</sub>')

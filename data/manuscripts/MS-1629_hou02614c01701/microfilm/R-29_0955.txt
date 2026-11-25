@@ -1,0 +1,11 @@
+§ 72. Ex 1. Find value of
+$$\int_{-\infty}^{\infty} x \epsilon^{-(ax^2+c)} \sin kx.$$
+
+By § 67 Ex 1 $\int_{-\infty}^{\infty} x \epsilon^{-(ax^2+c)} \sin kx = \frac{k}{2a} \epsilon^{\frac{k^2}{4a}-c} \sqrt{\frac{\pi}{a}}$
+
+$$\int_{-\infty}^{\infty} x \epsilon^{-(ax^2+c)} \sin kx \sqrt{-} = (\sqrt{-}) \frac{k}{2a} \epsilon^{\frac{k^2}{4a}-c} \sqrt{\frac{\pi}{a}}$$
+
+$$\therefore \int_{-\infty}^{\infty} x \epsilon^{-(ax^2+c)} \sin kx = -\frac{k}{2a} \epsilon^{-\frac{k^2}{4a}-c} \sqrt{\frac{\pi}{a}}$$
+
+[pn]12[/pn]
+Peirce

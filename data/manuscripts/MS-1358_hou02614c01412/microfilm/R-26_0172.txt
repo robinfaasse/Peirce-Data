@@ -1,0 +1,46 @@
+Anison's Bridge 1899 Feb. 15 [pn]2[/pn]
+
+But even that expression of the relation of $\theta$ to $\varphi$ is not
+accurate for short suspenders.
+
+That expression is
+$\sin \theta_n = \sin \varphi_n + \sin \vartheta_n - (\sin \varphi_n + \sin \vartheta_n) \sin^2 \vartheta_n \pm \sin \vartheta_n \sqrt{1 - (\sin \varphi_n + \sin \vartheta_n)^2 \cos^2 \vartheta_n}$
+$= \sin \varphi_n + \sin \vartheta_n - (\sin \varphi_n + \sin \vartheta_n) \sin^2 \vartheta_n \pm \sin \vartheta_n \sqrt{1 - (\sin \varphi_n + \sin \vartheta_n)^2 + \sin^2 \vartheta_n [del]\sin^2[/del] [ins]\cos^2[/ins] \vartheta_n}$
+
+But we must regard $\theta$ and $\varphi$ as so small their squares
+can be neglected
+
+[fig]Sketch of a bridge hanger angle[/fig]
+
+$\frac{1}{2} s \sin \vartheta = Y$
+$\frac{1}{2} s \cos \vartheta \cdot \theta = y$
+$\cos \vartheta \cdot \theta = \varphi$
+
+[fig]Vertical hanger diagram[/fig]
+
+[fig]Hanger angle diagram with s/2[/fig]
+
+$\frac{1}{2} s \sin \vartheta = Y$
+$\frac{1}{2} s \sin (\vartheta + \theta) = Y + y$
+$\frac{1}{2} s \sin \vartheta (\cos \theta - 1) + \frac{1}{2} s \cos \vartheta \sin \theta = \sin \varphi$
+
+$y = \frac{1}{2} S \sin \varphi$ [del]$y = \frac{1}{2} S \sin \varphi$[/del] $- \frac{1}{2} S (1 - \cos \theta)$
+[del]$y = \frac{1}{2} S \sin \varphi$[/del]
+$\eta = \frac{1}{2} S \sec \vartheta [del]\sin[/del] [ins]\sin[/ins] (\vartheta + \theta) - \frac{1}{2} S \tan \vartheta$
+$= \frac{1}{2} S (\cos \theta - 1) \tan \vartheta +$
+$= \frac{1}{2} S [\sin \theta - (1 - \cos \theta) \tan \vartheta]$
+
+$\xi = [del]x[/del] [ins]s[/ins] - \{ \frac{1}{2} S - \frac{1}{2} S \sec \vartheta \cos (\vartheta + \theta) \}$
+$= - \frac{1}{2} S [1 - \cos \theta + \sin \theta \tan \vartheta]$
+
+$\frac{1}{4} S^2 [\sin \theta - (1 - \cos \theta) \tan \vartheta [del]- \sin \varphi[/del]]^2 + \frac{1}{4} S^2 [ [del]1[/del] - \cos \theta + \sin \theta \tan \vartheta + [del]\cos \varphi[/del] ]^2 = L^2$
+
+[del]$\sin^2 \theta - 2 [ (1 - \cos \theta) \tan \vartheta + \sin \varphi ] \sin \theta + (1 - \cos \theta) \tan \vartheta + \sin \varphi$[/del]
+[del]$+ \cos^2 \theta$[/del]
+
+$\sin^2 \theta + 2 \sin \theta \cos \theta \tan \vartheta + \cos^2 \theta \tan^2 \vartheta - 2 (\sin \theta + \cos \theta) (\tan \vartheta + \sin \varphi) + (\tan \vartheta + \sin \varphi)^2$
+$+ \cos^2 \theta - 2 \sin \theta \cos \theta \tan \vartheta + \sin^2 \theta \tan^2 \vartheta + 2 (- \cos \theta + \sin \theta \tan \vartheta) \cos \varphi + \cos^2 \varphi$
+$= 1 + \tan^2 \vartheta + 2 [ \sin \theta (\tan \vartheta \cos \varphi - \tan \vartheta - \sin \varphi) - \cos \theta (\cos \varphi + \tan \vartheta \sin \varphi + \tan^2 \vartheta) ]$
+$+ \tan^2 \vartheta + 2 \tan \vartheta \sin \varphi + 1 = 2 \{ \sec^2 \vartheta + \tan \vartheta \sin \varphi$
+
+Very complicated.

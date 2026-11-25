@@ -1,0 +1,47 @@
+[marginalia]
+[del]Monisov's[/del] Bridge [del]agg[/del] Feb 6
+[/marginalia]
+
+[pn]2[/pn]
+
+$M_n = \frac{1}{6}$ satisfies
+
+$\therefore M_n = C_0 (-2+\sqrt{3})^n + C_1 (-2-\sqrt{3})^n + \frac{1}{6}$
+
+[fig]crossed out calculation lines[/fig]
+
+[del]
+& $2$
+$-8 + 4\sqrt{3}$
+$7 - 4\sqrt{3}$
+$+\frac{1}{6}$
+$+\frac{4}{6}$
+[/del]
+
+Hence
+
+[del]
+$C_0 + C_1 + \frac{1}{6} = M_{-N}$
+$C_0 (-2+\sqrt{3}) + C_1 (-2-\sqrt{3}) + \frac{1}{6} = M_{-N+1}$
+$C_0 (-2-\sqrt{3}) + C_1 (-2-\sqrt{3}) + \frac{1}{6} (-2-\sqrt{3}) = (-2-\sqrt{3}) M_{-N}$
+$C_0 2\sqrt{3} + \frac{1}{6} (1+\sqrt{3}) = M_{-N+1} + (2+\sqrt{3}) M_{-N}$
+$C_0 = \frac{1}{2\sqrt{3}} M_{-N+1} + \frac{2+\sqrt{3}}{2\sqrt{3}} M_{-N} - \frac{1+\sqrt{3}}{12\sqrt{3}}$
+$C_1 = -\frac{1}{2\sqrt{3}} M_{-N+1} + \frac{\sqrt{3}-2}{2\sqrt{3}} M_{-N} + \frac{1-\sqrt{3}}{12\sqrt{3}}$
+[/del]
+
+[marginalia]
+$\frac{1+\sqrt{3}}{2\sqrt{3}}$
+[/marginalia]
+
+[marginalia]
+$\frac{2+\sqrt{3}}{2-\sqrt{3}}$
+[/marginalia]
+
+These are all right except that they should be divided by
+$C_0$ by $(-2+\sqrt{3})^{-N}$ / $C_1$ by $(-2-\sqrt{3})^{-N}$
+
+That is
+
+$C_0 = \frac{(-2+\sqrt{3})^N}{2\sqrt{3}} M_{-N+1} - \frac{(-2+\sqrt{3})^{N-1}}{2\sqrt{3}} M_{-N} - \frac{1+\sqrt{3}}{12\sqrt{3}} (-2+\sqrt{3})^N$
+
+$C_1 = -\frac{(-2-\sqrt{3})^N}{2\sqrt{3}} M_{-N+1} + \frac{(-2-\sqrt{3})^{N-1}}{2\sqrt{3}} M_{-N} + \frac{1-\sqrt{3}}{12\sqrt{3}} (-2-\sqrt{3})^N$

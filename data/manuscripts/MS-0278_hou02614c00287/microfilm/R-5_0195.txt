@@ -1,0 +1,26 @@
+[u]Erratum[/u]
+
+Suppose 1[ins]st[/ins]
+Let $\alpha = \gamma - \beta$
+
+2[ins]d[/ins] $\frac{\gamma}{\alpha} = K \frac{\beta}{\alpha}$
+
+[del]I will first show that these suppositions are compatible[/del]
+[del]Let $\frac{\gamma}{\alpha} = T \frac{\beta}{\alpha} U \frac{\gamma}{\alpha}$[/del] [ins]Unnecessary. Too obvious for a case[/ins] and let us suppose $\gamma - \beta = \alpha \delta$
+where $U \alpha = U \beta = U \gamma$
+
+then
+
+Then since the difference of $\gamma - \beta$ in all respects is equal to to $\alpha$; their diff. in every respect is equal to to [del]in that respect[/del]. Hence
+
+$\alpha V \frac{\gamma}{\alpha} - \alpha V \frac{\beta}{\alpha} = \alpha V \frac{\gamma - \beta}{\alpha} = 0$
+
+For $\gamma = \alpha S \frac{\gamma}{\alpha} + \alpha V \frac{\gamma}{\alpha}$
+$\beta = \alpha S \frac{\beta}{\alpha} + \alpha V \frac{\beta}{\alpha}$
+
+Subtracting
+$\alpha = \alpha S \frac{\gamma}{\alpha} - \alpha S \frac{\beta}{\alpha}$
+
+$\gamma - \beta = \alpha S \frac{\gamma}{\alpha} - \alpha S \frac{\beta}{\alpha}$
+
+multiplying $\alpha \times$ [del]$\alpha \times$[/del] $\gamma - \alpha \times \beta$ then the difference

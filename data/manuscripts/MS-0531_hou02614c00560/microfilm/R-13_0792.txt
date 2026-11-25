@@ -1,0 +1,25 @@
+The series $B_1$, $B_2$, $B_3$, &c
+
+Let $B_x$ be the term of the series $B_1$, $B_2$, $B_3$, &c which enters as a factor into [u]$x$[/u].
+
+Then [del]the first term of[/del] [ins] [u]$x$[/u] [/ins] is [del]a[/del] [ins] the first logical [/ins] product of $A_x$ and $B_x$.
+
+In the same way it could be shown that the second term, if there is one, is $A_{x'}$, $B_{x'}$
+
+If then there is a second term
+$(A_x, B_x)$ is $(A_{x'}, B_{x'})$
+But by def. 3.
+$(A_x, B_x)$ is $A_x$
+By def 7 cond 1
+No $A_x$ is $A_{x'}$ unless $A_x = A_{x'}$
+$\therefore$ No $(A_x, B_x)$ is $A_{x'}$ unless $A_x = A_{x'}$
+By def. 3
+$(A_{x'}, B_{x'})$ is $A_{x'}$
+$\therefore$ No $(A_x, B_x)$ is $(A_{x'}, B_{x'})$ unless $A_x = A_{x'}$
+[del]$\therefore$ There is not a second term[/del] [ins] another [/ins]
+[del]$\therefore$[/del] In the same way it could be shown that
+No $(A_x, B_x)$ is $(A_{x'}, B_{x'})$ unless $B_x = B_{x'}$
+If $A_x = A_{x'}$
+By def. 1 All $A_{x'}$ is $A_x$
+By def 3 [del]All[/del] $(A_{x'}, B_{x'})$ is $A_{x'}$
+$\therefore$ [del]All[/del] $(A_{x'}, B_{x'})$ is $A_x$

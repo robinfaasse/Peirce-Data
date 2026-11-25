@@ -1,0 +1,15 @@
+$$\cos 2x = 1 - 2 \sin^2 x$$
+
+$$\frac{1}{2} (D_s \theta)^2 = \frac{1}{E'^2} + \mathcal{C} - \frac{2}{E'^2} \sin^2 \frac{1}{2} (\theta + \omega)$$
+
+$$(D_s \theta)^2 = \frac{2}{E'^2} + 2\mathcal{C} - \frac{4}{E'^2} \sin^2 \frac{1}{2} (\theta + \omega)$$
+
+$$\frac{E'^2}{2 + 2\mathcal{C}E'^2} [del]D\theta^2[/del] = 1 - \frac{2}{1 + \mathcal{C}E'^2} \sin^2 \frac{1}{2} (\theta + \omega)$$
+
+$$\frac{\sqrt{2 + 2\mathcal{C}E'^2}}{E'} s = \int \frac{d\theta}{\sqrt{1 - \frac{2}{1 + \mathcal{C}E'^2} \sin^2 \frac{1}{2} (\theta + \omega)}}$$
+
+[fig]Four caricatured faces drawn in a row[/fig]
+
+[fig]Four profile sketches of faces in a row[/fig] [fig]A simple line graph with vertical grid lines[/fig]
+
+$$\frac{1}{2} (\theta + \omega) = \text{am } \frac{\sqrt{2 + 2\mathcal{C}E'^2}}{E'} s$$

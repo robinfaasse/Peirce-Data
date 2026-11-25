@@ -1,0 +1,24 @@
+[pn]1[/pn]
+
+$\sin \tau_{n-1} + \sin \tau_n + \sin \tau_{n+1} = \frac{y}{s}$
+$\cos \tau_{n-1} + \cos \tau_n + \cos \tau_{n+1} = \frac{x}{s}$
+
+$\sin^2 \tau_{n-1} = (\frac{y}{s})^2 + \sin^2 \tau_n + \sin^2 \tau_{n+1} - 2 \frac{y}{s} (\sin \tau_n + \sin \tau_{n+1}) + 2 \sin \tau_n \sin \tau_{n+1}$
+$\cos^2 \tau_{n-1} = (\frac{x}{s})^2 + \cos^2 \tau_n + \cos^2 \tau_{n+1} - 2 \frac{x}{s} (\cos \tau_n + \cos \tau_{n+1}) + 2 \cos \tau_n \cos \tau_{n+1}$
+$1 = \frac{x^2+y^2}{s^2} + 2 - 2 \frac{x}{s} (\cos \tau_n + \cos \tau_{n+1}) - 2 \frac{y}{s} (\sin \tau_n + \sin \tau_{n+1}) + 2 \cos (\tau_{n+1} - \tau_n)$
+
+[del]$\cos \tau_{n+1} (\frac{x}{s} - \cos \tau_n) = \frac{x^2+y^2}{2s^2} + \frac{1}{2} - \frac{x}{s} \cos \tau_n - \frac{y}{s} \sin \tau_n + (\sin \tau_n - \frac{y}{s}) \sin \tau_{n+1}$[/del]
+
+$(1 - \sin^2 \tau_{n+1}) (\frac{x}{s} - \cos \tau_n)^2 = [ \frac{x^2+y^2}{2s^2} + \frac{1}{2} - \frac{x}{s} \cos \tau_n - \frac{y}{s} \sin \tau_n ]^2 + 2 [ \frac{x^2+y^2}{2s^2} + \frac{1}{2} - \frac{x}{s} \cos \tau_n - \frac{y}{s} \sin \tau_n ] (\sin \tau_n - \frac{y}{s}) \sin \tau_{n+1}$
+$+ (\sin \tau_n - \frac{y}{s})^2 \sin^2 \tau_{n+1}$
+
+$(\frac{x}{s} - \cos \tau_n)^2 - [ \frac{x^2+y^2}{2s^2} + \frac{1}{2} - \frac{x}{s} \cos \tau_n - \frac{y}{s} \sin \tau_n ]^2 = (1 - 2 \frac{y}{s} \sin \tau_n - 2 \frac{x}{s} \cos \tau_n + \frac{x^2+y^2}{s^2}) \sin^2 \tau_{n+1}$
+$+ (1 - 2 \frac{y}{s} \sin \tau_n - 2 \frac{x}{s} \cos \tau_n + \frac{x^2+y^2}{s^2}) (\sin \tau_n - \frac{y}{s}) \sin \tau_{n+1}$
+
+$\frac{2 (\frac{x}{s} - \cos \tau_n)^2}{\frac{y^2+y^2}{2s^2} + \frac{1}{2} - \frac{x}{s} \cos \tau_n - \frac{y}{s} \sin \tau_n} - [ \frac{x^2+y^2}{2s^2} + \frac{1}{2} - \frac{x}{s} \cos \tau_n - \frac{y}{s} \sin \tau_n ] = 4 \sin^2 (\tau_{n+1}) + 4 (\sin \tau_n - \frac{y}{s}) \tau_{n+1}$
+
+$\sin^2 \tau_n - 2 \frac{y}{s} \sin \tau_n + \frac{y^2}{s^2}$
+
+$\frac{2 (\frac{x}{s} - \cos \tau_n)^2 - \frac{x^2}{s^2} - \cos^2 \tau_n + 2 \frac{x}{s} \cos \tau_n}{\frac{y^2+y^2}{2s^2} + \frac{1}{2} - \frac{x}{s} \cos \tau_n - \frac{y}{s} \sin \tau_n} = [ 2 \sin \tau_{n+1} + \sin \tau_n - \frac{y}{s} ]^2$
+
+$\pm (\frac{x}{s} - \cos \tau_n) \sqrt{\frac{2}{\frac{x^2+y^2}{2s^2} + \frac{1}{2} - \frac{x}{s} \cos \tau_n - \frac{y}{s} \sin \tau_n} - 1} = 2 \sin \tau_{n+1} + \sin \tau_n - \frac{y}{s}$

@@ -1,0 +1,11 @@
+[pn]90[/pn]
+
+[u]Art. 38. Theorem 19[/u]. [u]If the product of two [del]whole[/del] [ins]cardinal[/ins] numbers is zero, one of those numbers is zero[/u].
+
+[u]Demonstration[/u]. Let P and Q be any two [del]numbers[/del] [ins]cardinal numbers[/ins]. Then, the theorem is, that, if P and Q are both greater than 0, so also is P x Q. (since by Definition 38, every [ins]cardinal[/ins] number not 0 is greater than 0) Suppose that when P has the particular value M, and Q the particular value N, M and N being both greater than 0, the product is greater than 0. Then, when either P or Q takes the value next greater, it remains true that the product is greater than 0. For, by Axiom 9, the product is greater than before, and being before greater than 0, by Axiom 5 and Definition 38, it is so still.
+
+But, when, P and Q are both 1, by Corollary 13, the product is not zero. Hence, by Theorem 4 and Definition 38, the product is not zero as long as neither P nor Q is zero. Q.E.D.
+
+[u]Theorem 20[/u]. [u]No two different whole numbers multiplied by the same [ins]not-zero[/ins] number, give the same product[/u].
+
+[u]Demonstration[/u]. Let A and B be two different whole numbers of which A is less than B. Let M be any multiplier [ins]greater than 0[/ins]. Then, [del]if A is the[/del] [ins]the theorem is, that BM and AM are not equal.[/ins] [del]For, l[/del]et A' be the number next greater than A, [del]and[/del] [ins]then[/ins] by Axiom 9, MA' = MA + M. Hence, since M > 0, MA' being MA + M is, by Theorem 16, greater than MA. Hence, by Theorem 4 and Definition 38, if C is any number greater than A, CM is greater than [del]AM[/del] [ins]AM[/ins]. Hence, since B > A it follows that BM > [del]BM[/del] [ins]AM[/ins], and therefore BM and AM are not equal. Q.E.D.

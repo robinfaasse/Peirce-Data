@@ -1,0 +1,18 @@
+[pn]5[/pn] As to $e'$, $e''$, etc., [ins]MS 36[/ins] one remarks that by virtue of the equation
+$\Pi_i \bar{\alpha}_i + \Pi_j \bar{\alpha}_j + e'_{ji} = \Pi_i \Pi_j \bar{\alpha}_i \bar{\alpha}_j + e'_{ji} \cdot e'_{ij}$
+we may put $e'_{ji} \cdot e'_{ij}$ for $e'_{ji}$, that is, may consider $e'$. To be an equiparance; and so we may equally consider $e''$. Since
+$\Pi_i \Pi_j \Pi_k e''_{kji} = \Pi_i \Pi_j \Pi_k e''_{kji} \cdot e''_{jik} \cdot e''_{ikj} \cdot e''_{kij} \cdot e''_{jki} \cdot e''_{ijk}$
+
+Hypostatic abstraction, which is what I mean when I speak of "abstraction" (unless I expressly say "prescissive abstraction"), is by far the most important logical operation of mathematical reasoning, in the sense of carrying us farther forward. Applying it to any dyadic relation
+$r_{123\dots N} \equiv \sum_u N_u \cdot 1_{u1} \cdot 2_{u2} \cdot 3_{u3} \dots N_{uN}$
+where $u$ is the new end relation is introduced, and it may, if we like, be identified with the individual subject of relation, while $1_{u1}$ asserts that $1$ is connected with $u$ in the first way or as the first correlate of $r$; $2_{u2}$ asserts that $2$ is connected in the second way etc. Of course there are many other ways of applying abstraction to $r_{123\dots N}$. In particular, the meaning of $N_u$ may be absorbed in $1_{u1}$, $2_{u2}$, etc. and this factor maybe dropped, in the case of equiparance $1=2=3=N$. Thus
+$\Pi_i \bar{\alpha}_i + \Pi_j \bar{\alpha}_j + e'_{ji} = \Pi_i \Pi_j \bar{\alpha}_i \bar{\alpha}_j + \sum_u E_{ui} \cdot E_{uj}$
+Now Principle II, when no triplets enters, that is when $S$ is an element and $P$ a pair, becomes
+$\Pi_x \Pi_y \Pi_z E(xy) + E(yz) + E(zx)$
+
+[pn]8[/pn] If [del]any[/del] there is a respect in which all the [del]elements of a are [del]like[/del] pairs of $\alpha$ are like[/del] [ins]another[/ins] pairs while in every respect some pairs of [del]B are unlike[/del] [ins]$\beta$ are of[/ins] [del]whose[/del] pairs [del]are like pairs in that same respect?[/del] There is an element of $\beta$ whose pairs are like pairs in that same respect? The answer is perfectly evident, although it is a puzzling problem to put the proof in logical form. These can be but two determinations and the matter depends upon the necessary truth of
+$(E_{ui} \cdot E_{uj} + \bar{E}_{ui} \cdot \bar{E}_{uj}) + (E_{uj} \cdot E_{uk} + \bar{E}_{uj} \cdot \bar{E}_{uk}) + \left( \frac{E_{uk} \cdot E_{ui} +}{\bar{E}_{uk} \cdot \bar{E}_{ui}} \right)$
+that is from the denial of the third follows thus:
+$(\bar{E}_{ui} + \bar{E}_{uj}) \cdot (E_{ui} + E_{uj}) \cdot (\bar{E}_{uj} + \bar{E}_{uk}) \cdot (E_{uj} + E_{uk})$
+$\prec (E_{uj} + \bar{E}_{uk} \cdot \bar{E}_{ui}) \cdot (\bar{E}_{uj} + E_{uk} \cdot E_{ui})$
+$\prec E_{ui} \cdot E_{ui} + \bar{E}_{uk} \cdot \bar{E}_{ui}$.

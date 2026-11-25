@@ -1,0 +1,16 @@
+[pn]La logique de la quantité[/pn]
+
+facteur devient $r_{iab} + \overline{r}_{iab}$, ce qui est nécessaire. Ainsi, si nous
+identifions $c$ à $b$ et $j$ à $i$, le facteur devient $r_{iab} + \overline{r}_{iab}$ ce qui est
+nécessaire.
+
+Nous pouvons très facilement démontrer que, prenant deux collections,
+$\underline{m}$ et $\underline{n}$ et une relation, $i$, n'importe quelles sont ces collections et cette
+relation, ou la [del]négative[/del] [ins]relation[/ins] de $i$ donne un sujet de $\underline{m}$ pour chaque sujet
+de $\underline{n}$, ou la relation converse de $i$ donne un sujet de $\underline{n}$ pour chaque
+sujet de $\underline{m}$. Car nous exprimons que la relation négative de $i$ ne donne
+pas un sujet de $\underline{m}$ à chaque sujet de $\underline{n}$ en écrivant
+$$\Sigma_s \Pi_r\ q_{ns} \cdot (\overline{q}_{mr} + \overline{r}_{irs}).$$
+De cela l'on tire successivement
+$$\Pi_r \Sigma_s\ (\overline{q}_{mr} + \overline{r}_{irs}) \cdot q_{ns}$$
+$$\Pi_r \Sigma_s\ \overline{q}_{mr} + \overline{r}_{irs} \cdot q_{ns}$$

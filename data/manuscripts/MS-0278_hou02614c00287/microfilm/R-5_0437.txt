@@ -1,0 +1,22 @@
+and every row which can be obtained from
+this by removing [u]t[/u]s to the left is a possible
+telltale row.
+
+Two propositions will now substantially complete
+our demonstration. The first is that if any row
+whatever composed of [u]n[/u] [u]t[/u]s and [u]n[/u]+1 [u]j[/u]s have
+its tail joined to its head to form a circle, this
+circle can be so cut as to give a possible telltale
+row. The second is that if this circle is cut
+at any place but one it will give a row which
+cannot be a telltale.
+
+To show that the first of these propositions
+is true, let the circle be joined, and then wherever
+two or more [u]t[/u]s come together let all but one
+be moved in the forward direction (toward the
+right in the row) and dropped one by one between
+[ins]the first[/ins] pairs of adjacent [u]j[/u]s. In this way only one pair of
+[u]j[/u]s will be left adjacent. Now if the circle be broken
+just at the right of this pair, all the [del]t[/del] [ins][u]t[/u][/ins]s may be
+moved back to their original places by being carried

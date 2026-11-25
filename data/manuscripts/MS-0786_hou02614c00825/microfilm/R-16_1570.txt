@@ -1,0 +1,43 @@
+[pn]10[/pn]
+
+[u]Syllogism[/u]
+
+Indeed, we may go further, and say (as I have done [u]On the[/u]
+[u]Classification of Arguments[/u], [date]1867[/date] [del]Apr[/del] p 9) that if we regard
+any statement of an argument which reaches the same con-
+clusion from the same premises by a greater number of
+steps as an [u]analysis[/u] of that argument, then every necessary
+inference whatever is syllogistic. Thus:
+
+All A is B
+All A is A
+$\therefore$ By Darapti Some A is B
+
+No A is B
+All B is B
+$\therefore$ By Cesare No B is A
+
+All S is P
+All T is Q
+$\therefore$ All S that is T is P and Q
+
+maybe resolved thus
+All S is P
+All S that is T is S
+$\therefore$ All S that is T is [del]R[/del] [ins]P[/ins]
+
+All T is Q
+All S that is T is [del]T[/del] [ins]T[/ins]
+$\therefore$ All S that is T is Q
+
+[fig]Logical diagram with lines and letters[/fig]
+
+[del]$S \prec T = \overline{S} \cdot \overline{T}$[/del]
+
+[del]$S \prec P$[/del] [del]$\overline{P} \prec \overline{S}$[/del]
+[del]$S \prec Q$[/del] [del]$\overline{Q} \prec \overline{S}$[/del]
+[del]$\overline{P \cdot Q} \prec \overline{S}$[/del]
+
+$S \prec P$     $\overline{P} \prec \overline{S}$
+$T \prec P$     $\overline{P} \prec \overline{T}$
+$\overline{P} \prec \overline{S \cdot T}$

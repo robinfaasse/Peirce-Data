@@ -1,0 +1,12 @@
+[pn]66[/pn]
+
+[pn]67[/pn]
+
+See p 76
+
+[del]2[/del] [ins]$\frac{(t-N)(L-M)}{(L-N)} - 1 = C$[/ins]  $\frac{2t(L-M) - 2NL + 2NM - L + N}{L-N} = C$
+$= \frac{2t(L-M) + N(2M+1) - L(2N+1)}{L-N}$
+
+[del]$\Psi^n = \frac{L-N}{L-M} \frac{1 + (2 \frac{L-M}{L-N} (\frac{\beta}{\alpha})^{n+1} (t-N)}{1 - (2}$[/del]
+
+$\Psi^n = \frac{L-N}{L-M} \cdot \frac{1 - (\frac{\beta}{\alpha})^{n+1} + 2 \frac{L-M}{L-N} [ins](\frac{\beta}{\alpha})^{n+1}[/ins] (t-N)}{1 - (\frac{\beta}{\alpha})^n + 2 \frac{L-M}{L-N} (\frac{\beta}{\alpha})^n (t-N)}$

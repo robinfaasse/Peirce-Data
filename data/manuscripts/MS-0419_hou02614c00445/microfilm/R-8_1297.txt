@@ -1,0 +1,43 @@
+[pn]377[/pn]
+
+[u]§197. Relative addition and multiplication are defined as[/u]
+[u]follows[/u]
+[ins]$$l \dagger b = (l \dagger b)_{a\omega} = \Pi_i \ l_{ai} + b_{i\omega}$$[/ins]
+[ins]$$l b = (l b)_{a\omega} = \Sigma_i \ l_{ai} \cdot b_{i\omega}$$[/ins]
+
+[fig]Printed text block with handwritten annotations[/fig]
+Relative addition and multiplication are subject to the
+associative law. That is,
+$$l \dagger (b \dagger s) = (l \dagger b) \dagger s,$$
+$$l (b s) = (l b) s.$$
+
+Two formulæ so constantly used that hardly anything
+can be done without them are
+[del][u]Two formulæ.[/u][/del] [ins]$$l (b \dagger s) \prec l b \dagger s,$$[/ins]
+[ins]$$(l \dagger b) s \prec l \dagger b s.$$[/ins]
+[del]We may call them[/del] [ins]the all-important formulæ.[/ins]
+The former asserts that whatever is lover of an object
+that is benefactor of everything but a servant, stands to
+everything but servants in the relation of lover of a
+benefactor. The latter asserts that whatever stands to
+any servant in the relation of lover of everything but its
+benefactors, is a lover of everything but benefactors of
+servants. The following formulæ are obvious and triv-
+ial:—
+$$l s \dagger b s \prec (l \dagger b) s$$
+$$l \dagger s \cdot b \dagger s \prec (l \dagger s) \cdot (b \dagger s).$$
+
+Unobvious and important, however, are these:—
+$$(l \dagger b) s \prec l s \dagger b s$$
+$$(l \dagger s) \cdot (b \dagger s) \prec l \cdot b \dagger s.$$
+
+§198. — There are a number of curious development formulæ.
+Such are
+$$(l \dagger b) s = \Pi_p \{ l (s \cdot p) \dagger b (s \cdot \overline{p}) \}$$
+$$l (b \dagger s) = \Pi_p \{ (l \cdot p) b \dagger (l \cdot \overline{p}) s \}$$
+$$(l \dagger b) \dagger s = \Sigma_p \{ [ l \dagger (s \dagger p) ] \cdot [ b \dagger (s \dagger \overline{p}) ] \}$$
+$$l \dagger (b \dagger s) = \Sigma_p \{ [ (l \dagger p) \dagger b ] \cdot [ (l \dagger \overline{p}) \dagger s ] \}.$$
+
+The summations and multiplications denoted by $\Sigma$ and $\Pi$
+are to be taken non-relatively, and all relative terms are
+to be successively substituted for $p$.

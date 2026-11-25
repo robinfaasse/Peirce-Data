@@ -1,0 +1,43 @@
+[del]cos $\theta$ =[/del]
+$\cos C = \frac{\cosh a \cosh b - \cosh c}{\sinh a \sinh b}$
+
+$\cosh = \frac{1 + \tanh^2 \frac{1}{2}}{1 - \tanh^2 \frac{1}{2}}$     $\tanh = \frac{2 \tanh \frac{1}{2}}{1 + \tanh^2 \frac{1}{2}}$
+
+[del]$\cos C = \frac{1 + \tanh^2 \frac{1}{2}$[/del]
+$\cos C = \frac{(1 + \tanh^2 \frac{1}{2} a) \cosh b - \cosh c (1 - \tanh^2 \frac{1}{2} a)}{2 \tanh \frac{a}{2} \cdot \sinh b}$
+
+$\cos \theta = \frac{(1 + \frac{r^2}{L^2}) \cosh b - (1 - \frac{r^2}{L^2}) \cosh c}{2 \frac{r}{L} \sqrt{\cosh^2 b - 1}}$
+
+$2 \frac{r}{L} \cos \theta \sqrt{\cosh^2 b - 1} = r^2 \frac{\cosh b + \cosh c}{L^2} + \cosh b - \cosh c$
+
+$2 r \cos \theta \frac{L \sqrt{\cosh^2 b - 1}}{\cosh b + \cosh c} = r^2 + L^2 \frac{\cosh b - \cosh c}{\cosh b + \cosh c}$
+
+[del]$= 2$[/del] [del]$= r^2 - \frac{Q^2 - R^2}{}$[/del]
+$R^2 = r^2 + Q^2 - 2 r Q \cos \theta$
+
+$\frac{L \sqrt{\cosh^2 b - 1}}{\cosh b + \cosh c} = Q$     $L^2 \frac{\cosh b - \cosh c}{\cosh b + \cosh c} \equiv R^2 + Q^2$
+
+$= L^2 \frac{\beta^2 - \gamma^2}{(\beta + \gamma)^2}$
+
+$\begin{aligned} Q^2 &= \frac{L^2 \beta^2 - L^2}{(\beta + \gamma)^2} \\ R^2 &= \frac{L^2 \gamma^2 - L^2}{(\beta + \gamma)^2} \end{aligned}$
+
+$R^2 = L^2 \frac{\beta^2 - \gamma^2 - (\beta^2 - 1)}{(\beta + \gamma)^2} = L^2 \frac{1 - \gamma^2}{(\beta + \gamma)^2}$
+
+[marginalia]
+$\frac{y^2 - \beta^2}{y^2 + \beta^2}$
+$y^2 = \alpha^2 (\beta^2 + 2 \beta \gamma + \gamma^2) + \beta^2 - $
+[/marginalia]
+
+$Q^2 + R^2 = L^2 \frac{(\beta + \gamma)^2 + (\beta - \gamma)^2 - 4}{(\beta + \gamma)^2}$
+
+$(Q^2 - R^2)^2 (\beta + \gamma)^2 = L^4 (\beta - \gamma)^2$
+[del]$L^2 (Q^2 + R^2 - L^2)$[/del] $(Q^2 + R^2 - L^2) (\beta + \gamma)^2 = L^4 (\beta - \gamma)^2 - 4 L^4$
+
+$(\beta + \gamma)^2 = \frac{4 L^4}{Q^4 + R^4 - 2 Q^2 R^2 + L^4 - 2 L^2 Q^2 - 2 L^2 R^2}$
+
+$\beta + \gamma = \frac{2 L^2}{\sqrt{Q^2 - 2 R^2}}$
+$\beta - \gamma = \frac{}{\sqrt{}}$
+$\beta = \frac{L + Q - R}{\sqrt{}}$
+$\gamma = \frac{L - Q + R}{\sqrt{}}$
+
+$Q^2 + R^2 = \frac{\beta^2 - \gamma^2}{(\beta + \gamma)^2} = \frac{\beta - \gamma}{\beta + \gamma} L^2$

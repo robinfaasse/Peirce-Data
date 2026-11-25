@@ -1,0 +1,35 @@
+[u]Corollary 3[/u] From (1) and (5) it follows that [u]x[/u] + [u]y[/u] < [u]x[/u]. So, [u]x[/u] < [u]x[/u] + [u]x[/u]. From (4)
+[u]x[/u] < [u]x[/u] + [u]y[/u] and from (2) [u]x[/u] [u]y[/u] < [u]x[/u].
+
+[u]Theorem 1[/u]. [ins](Boole)[/ins] [u]y[/u] < [u]x[/u] + [u]y[/u] and [u]x[/u] [u]y[/u] < [u]y[/u].
+
+[u]Proof[/u]. From (4) [u]y[/u] < [u]y[/u] + [u]x[/u] (9)
+
+By (9) and (3), (2) [u]y[/u] < [u]x[/u] + [u]y[/u]. (10)
+
+The corollary above shows that this being true, we have
+also [u]x[/u] [u]y[/u] < [u]y[/u]. (11)
+
+[u]Theorem 2[/u]. [ins](Boole)[/ins] [u]Logical addition[/u] and [u]internal multiplica-[/u]
+[u]tion[/u] are [u]associative operations[/u].
+
+By (4) [u]x[/u] < [u]x[/u] + ([u]y[/u] + [u]z[/u]) (12)
+
+By (4) [u]y[/u] < [u]y[/u] + [u]z[/u] (13)
+
+By (10) [u]y[/u] + [u]z[/u] < [u]x[/u] + ([u]y[/u] + [u]z[/u]) (14)
+
+By (13), (14), (2) [u]y[/u] < [u]x[/u] + ([u]y[/u] + [u]z[/u]) (15)
+
+By (12), (15), (5) [u]x[/u] + [u]y[/u] < [u]x[/u] + ([u]y[/u] + [u]z[/u]) (16)
+
+By (10) [u]z[/u] < [u]y[/u] + [u]z[/u] (17)
+
+By [del](17)[/del] [ins](14)[/ins], (2) [u]z[/u] < [u]x[/u] + ([u]y[/u] + [u]z[/u]) (18)
+
+By (16), (18), (5) ([u]x[/u] + [u]y[/u]) + [u]z[/u] < [del]([u]x[/u] + [u]y[/u]) + [u]z[/u][/del] [ins][u]x[/u] + ([u]y[/u] + [u]z[/u])[/ins] (19)
+
+In the same way it is easily proved that
+[u]x[/u] + ([u]y[/u] + [u]z[/u]) < ([u]x[/u] + [u]y[/u]) + [u]z[/u].
+
+The same reasoning applies to multiplication by Corollary 1.

@@ -1,0 +1,30 @@
+[marginalia]
+Logic
+[u]supposing[/u]
+[pn]176[/pn]
+FEB 10 1902
+[/marginalia]
+
+[u]u[/u]² - [u]u[/u] [u]v[/u] + [u]v[/u]² = 0,
+
+we may multiply by [u]u[/u] + [u]v[/u] (having first noted that this is not already a factor of the equation, so that it will create a false solution) when we shall have
+
+[u]u[/u]³ + [u]v[/u]³ = 0;
+
+so that
+
+[u]u[/u] = - [u]v[/u]² = (1 + [u]s[/u]) [u]v[/u]
+
+and
+
+[u]u[/u] [u]m'[/u] + [u]v[/u] [u]n'[/u] = [del]u[/del] [ins][u]v[/u][/ins] [del]m'[/del] [ins]/[/ins] [u]s[/u] - 3 [ [u]n'[/u] - [u]l'[/u] + (1 + [u]s[/u]) ([u]l'[/u] - [u]m'[/u]) ] = [u]v[/u] [u]s[/u] / [u]s[/u] - 3 ([u]l'[/u] + [u]s[/u] [u]m'[/u] + [u]s[/u]² [u]n'[/u]).
+
+Other convenient general expressions for a modituum are
+
+C ([u]v[/u] [u]u[/u]² - [u]u[/u] + 1 [u]i'[/u] + [u]m'[/u] + [u]u[/u] [u]n'[/u])
+C ([u]1 + 3R²[/u] [u]i'[/u] + (1 + R) [u]m'[/u] + (1 - R) [u]n'[/u])
+C ([u](w + s)(w + s²)[/u] [u]i'[/u] + [u]m'[/u] + [u]w[/u] [u]n'[/u]).
+
+Let us ask under what conditions two moditua, [ins]J[/ins] and [ins]K[/ins], will satisfy the equation [del]JKJ = J[/del] [ins]JKJ = J[/ins]. By the use of the multiplication-table, it will be found that
+
+(together with the equations, [u]i'[/u] + [u]j'[/u] + [u]k'[/u] = 0 and [u]l'[/u] + [u]m'[/u] + [u]n'[/u] = 0)

@@ -1,0 +1,29 @@
+[fig]diagram of three lines emanating from a point on a line[/fig]
+[fig]diagram of several connected line segments[/fig]
+[del]$\frac{\text{dx}}{\frac{1}{b} - \frac{1}{\rho}} = \frac{\text{dx} + \text{d}x}{ \frac{1}{b} - \frac{1}{\rho'}} + \text{d}x$[/del]
+[del]$+ 2 \text{dx} + 2 \text{d}b ( \text{d}x )^2$[/del]
+[del]$\sigma = \frac{1}{2 b}$[/del]
+[del]$b R \sigma$[/del]
+[del]$D \delta \eta = 2 b x$[/del]
+[del]$D^2 \delta \eta = 2 b$[/del]
+[del]$\delta \eta = \phi x^2$[/del]
+[del]$2 R \delta \eta$[/del]
+[del]$a R G A$[/del]
+[del]$R G \Theta_1$[/del]
+
+[del]$\frac{d r'}{d \phi} e^{\theta_1' i} + r' i e^{\theta_1' i} \frac{d \theta}{d \phi}$[/del]
+$\Delta$
+[del]$d s = \sqrt{(dr)^2 + r^2 ( d\theta )^2}$[/del]
+[del]$r' e^{\theta_1' i} = \frac{r e^{\theta_1 i} - 1}{r e^{\theta_1 i} + 1}$[/del]
+[del]$r = \frac{b R^2 \sin \phi \dots$[/del]
+[del]$\frac{\text{d} x_{\eta}}{d y}$[/del] [fig]diagram of two vectors[/fig]
+$\frac{\tan ( 45^\circ - \frac{\psi}{2} ) e^{\theta i} - 1}{\tan ( 45^\circ - \frac{\psi}{2} ) e^{\theta i} + 1}$
+$= \frac{2}{\frac{1}{\tan ( 45^\circ - \frac{\psi}{2} ) e^{\theta_i}} + 1}$
+[del]$\frac{\tan ( 45^\circ - \frac{\psi}{2} ) \sigma e^{\theta i}}{\dots}$[/del]
+$\frac{- \frac{1}{2} \sec^2 ( 45^\circ - \frac{\psi}{2} ) \sigma e^{\theta i}}{\tan^2 ( 45^\circ - \frac{\psi}{2} ) e^{\theta i}} =$
+$\frac{\tan ( 45^\circ - \frac{\psi}{2} ) e^{\theta i} - \tan ( 45^\circ - \frac{\psi}{2} ) \sigma e^{\theta i}}{\tan ( 45^\circ - \frac{\psi}{2} ) e^{\theta i} + \tan ( 45^\circ + \frac{\psi}{2} ) \sigma e^{\theta i}} = 1 - \frac{2}{\tan ( 45^\circ - \frac{\psi}{2} ) \cos \lambda + 1 + \tan^2 ( 45^\circ - \frac{\psi}{2} ) }$
+$- \frac{1}{2} \sec^2 ( 45^\circ - \frac{\psi}{2} ) \sigma e^{\theta i}$
+$A \cos \theta - B \cos \theta_1 + ( A \sin \theta - B \sin \theta_1 ) i \dots \tan^2 ( 45^\circ - \frac{\psi}{2} ) + 2 \tan ( 45^\circ - \frac{\psi}{2} ) \cos \lambda + 1$
+$A \cos \theta + \frac{1}{B} \cos \theta_1 + ( A \sin \theta + \frac{1}{B} \sin \theta_1 ) i$
+$\rho$
+$\frac{A^2 + B^2 - 2 A B \cos ( \theta - \theta_1 )}{A^2 + \frac{1}{B^2} + 2 \frac{A}{B} \cos ( \theta - \theta_1 )}$

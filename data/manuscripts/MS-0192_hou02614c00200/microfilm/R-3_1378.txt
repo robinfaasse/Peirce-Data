@@ -1,0 +1,27 @@
+[fig]Geometric diagram with points A, B, C, D, E[/fig] Let $AC$ meet $BD$ at right angles at $C$ and
+let $BE$ meet $AD$ at right angles at $E$.
+Then for the angle [del]CAB[/del] [ins]$BAC$[/ins] the supposed sine
+is $\frac{BC}{BA}$ and the supposed cosine is $\frac{CA}{BA}$
+
+For the angle $CAD$ the [del]supposed sine is $\frac{CD}{DA}$ and the supposed[/del]
+[del]cosine is $\frac{CA}{DA}$[/del], for the sum of the angles the supposed sine is
+$\frac{BE}{BA}$ [del]and the supposed cosine is $\frac{EA}{BA}$[/del]. The question is whether
+or not
+$$\frac{EA}{BA} = \frac{CA}{BA} \frac{CA}{DA} - \frac{BC}{BA} \frac{CD}{DA}$$
+$$\frac{BE}{BA} = \frac{BC}{BA} \frac{CA}{DA} + \frac{CD}{DA} \frac{CA}{BA}$$
+
+Clearing the last equation from fractions, it gives
+$$BE \cdot DA = (BC + CD) CA$$
+which expresses two different ways of measuring twice the area
+of the two triangles. Clearing the other equation it gives
+$$(CA)^2 - BC \cdot CD = EA \cdot DA$$
+$$= (DA - DE) \cdot DA$$
+But the two triangles $ACD$ and $BED$ are similar, since they have
+an angle in common and are both right angled. Hence
+$$DE = CD \frac{BC + CD}{DA}$$
+[del]$$DE \cdot DA = CD \cdot BC + CD^2$$[/del]
+Hence $(DA - DE) DA = DA^2 - CD^2 - BC \cdot CD$
+Thus the questionable equation amounts to this
+$$CA^2 = DA^2 - CD^2$$
+which is again the Algebraic Pythagorean.
+Hence $\frac{a}{h}$ and $\frac{b}{h}$ are respectively the sine and cosine of the angle $A$.

@@ -1,0 +1,35 @@
+[pn]5[/pn]
+
+Let J mean "Justice is done" Then,
+
+J ≺ (P ≺ C)
+
+will mean if Justice is done, then if the drawer [del]pays[/del] [ins]fails[/ins] the endorser pays. This is of course very different from
+
+(J ≺ P) ≺ [del]C[/del] [ins]C[/ins]
+
+or if in case justice is done the drawer fails then the endorser pays. For
+
+J ≺ (P ≺ C)
+
+is true if justice is not done or if the drawer does not fail or if the endorser pays, and is only false if justice is done and the drawer fails and yet the endorser does not pay. While
+
+(J ≺ P) ≺ C
+
+is true only if justice is done while yet the drawer does not fail or if the endorser pays and is [del]true[/del] false if justice is [del]done[/del] [ins]not done[/ins] and the endorser does not pay as well as if justice is done and the drawer fails and yet the endorser does not pay.
+
+But J ≺ (P ≺ C) has just the same meaning as
+
+(J [u]•[/u] P) ≺ C
+
+For [del]the first[/del] [ins](J ≺ (P ≺ C))[/ins] is false only if J is [del]false[/del] [ins]true[/ins] and P ≺ C false
+That is only J is true and P is true and C false
+
+while (J [u]•[/u] P) ≺ C is false
+only if J [u]•[/u] P is true and C false
+that is only if J is true and P [del]false[/del] [ins]true[/ins] and C false
+that is only if J is true and P true and C false.
+
+Suppose, I ask you now to [del]prove[/del] [ins]prove[/ins] whether [del]if for[/del]
+J ≺ (P ≺ C) is the same as P ≺ (J ≺ C)
+Also whether (J ≺ P) ≺ C is the same as (P ≺ J) ≺ P.

@@ -1,0 +1,64 @@
+[u]Accuracy of Trigonometrical Formulae[/u].
+
+[u]Right Plane Triangles[/u].
+Given two legs. To find Hypothenuse.
+1[sup]st[/sup] method. [u]log h = ½ log (a² + b²)[/u] log a² = 2 log a log b² = 2 log b
+a² and b² to be got and added together
+2[sup]nd[/sup] method log h = log b + ½ G = 2 (log a - log b)
+3[sup]rd[/sup] method log h = log b + log sec A log tan A = log a - log b.
+
+Probable Errors of last decimal place.
+
+| A. | 1[sup]st[/sup] Method | 2[sup]nd[/sup] Method | 3[sup]rd[/sup] Method | For last column A |
+|---|---|---|---|---|
+| 0° | .92 h | .80 h | .97 h | 90° |
+| 10 | .80 | .79 | .96 | 80° |
+| 20 | .78 | .76 | .92 | 70° |
+| 30 | .73 | .72 | .87 | 60° |
+| 40 | [del].70[/del] [ins].70[/ins] | .69 | .83 | 50° |
+| 45 | .70 | .69 | [del].83[/del] [ins].83[/ins] | |
+
+It appears therefore that the method with Gaussians is always the best. When X is found by the secant, that of the larger angle should be used.
+
+---
+
+If [u]n[/u] numbers are multiplied, giving a product a, then the probable error in the last decimal place (3[sup]d[/sup] place [del]with 3 place logs, 4[sup]th[/sup] place with 4 place logs etc[/del]) is
+
+| n | Prob error. |
+|---|---|
+| 1 | .69 a |
+| 2 | .90 a |
+| 3 | 1.07 a |
+| 4 | 1.22 a |
+| 5 | 1.35 a |
+| 6 | 1.47 a |
+| 7 | 1.58 a |
+| 8 | 1.68 a |
+| 9 | 1.78 a |
+| 10 | 1.87 a |
+| 20 | 2.64 a |
+| 30 | 3.21 a |
+| 40 | 3.70 a |
+| 50 | 4.13 a |
+
+The Prob error of the N[sup]th[/sup] Power of a number, that power being = a is
+
+| N | Prob. error |
+|---|---|
+| 0 | .37 a |
+| 1/10 | .38 a |
+| 1/5 | .39 a |
+| 1/4 | .40 a |
+| 1/3 | .42 a |
+| 1/2 | .47 a |
+| 1 | .69 a |
+| 2 | 1.22 a |
+| 3 | 1.78 a |
+| 4 | 2.35 a |
+| 5 | 2.93 a |
+| 6 | 3.50 a |
+| 7 | 4.08 a |
+| 8 | 4.66 a |
+| 9 | 5.24 a |
+| 10 | 5.82 a |
+| 100 | 58.2 a |

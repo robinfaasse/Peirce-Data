@@ -1,0 +1,23 @@
+[pn]Logic
+III
+60[/pn]
+
+(84) $(x \prec y) \prec y$ is equivalent to asserting that either $x$ or $y$ is true.
+For by (66) and (76) if either $x$ or $y$ is true $(x \prec y) \prec y$ is true.
+If $(x \prec y) \prec y$ is true, by (65), either $y$ is true or $(x \prec y)$ is false,
+and in the latter case, by (64), $x$ is true.
+
+(85) $[(x \prec y) \prec y] \prec y$ is equivalent to $x \prec y$.
+For, by [del](84)[/del], if $x$ is true, [del]then[/del] $[(x \prec y) \prec y]$ is true. Hence,
+by contraposition, if [del]it is negation[/del] $[(x \prec y) \prec y] \prec y$ is
+true, $x \prec y$ is true. [del]But[/del] [ins]By (76)[/ins] if $(x \prec y)$ is true $[(x \prec y) \prec y] \prec y$
+is true.
+
+(86) $(x \prec y) \prec x$ is equivalent to $x$.
+For if $x$ is true, [ins]by (66)[/ins] $(x \prec y) \prec x$ is true; and if $(x \prec y) \prec x$ is
+true, for by (65), $x \prec y$ is not true unless $x$ is true, and
+if $x \prec y$ is not true $x$ is true. Hence if $(x \prec y) \prec x$ is true, $x$
+is true. Hence, (86).
+
+(87) $\{[(x \prec y) \prec y] \prec z\} \prec z$ is equivalent to $[x \prec (y \prec z)] \prec [y \prec (y \prec z)] \prec z$.
+For, by (84), each is equivalent to asserting that $x$ or $y$ or $z$ is true.

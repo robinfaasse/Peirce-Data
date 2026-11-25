@@ -1,0 +1,41 @@
+[fig]Geometric diagram with a circle, lines, and labeled points[/fig]
+
+[marginalia]
+This is nothing in
+particular
+[/marginalia]
+
+[fig]Geometric diagram with intersecting lines and labeled points[/fig]
+
+$A-B$
+$A+B$
+$B$
+$B+C$
+$C$
+$A-2B+C$
+$A+B+C$
+$-B$
+
+$\{AB\}$ $\{CD\}$
+$\begin{matrix} A-B+C \\ B \end{matrix}$
+$\begin{matrix} A-B \\ C-B \end{matrix}$
+
+$A-B$ $A+C$
+
+$A$ $C-B$?
+$A+C$ $A-B$ $2A+C-B$
+
+$2A-B+C$
+[del]$A-B$[/del]
+$A-2B+C$
+
+[gap]
+
+$A'$ $B'$ $C'$
+$B'-C'$
+$A'-C'$
+$-2A'+B'+C'$
+$-A'+2B'+C'$
+$2A'+B'+C'$
+
+[fig]Small star diagram[/fig]

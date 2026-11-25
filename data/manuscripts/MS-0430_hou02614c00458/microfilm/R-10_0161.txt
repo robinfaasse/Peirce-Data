@@ -1,0 +1,26 @@
+[pn]Logic
+III
+18[/pn]
+
+[u]Rule I[/u]. Any unenclosed part of the graph may be
+erased, together with whatever it may enclose.
+
+[u]Proof[/u]. For the [ins]original[/ins] graph asserts that [del]every[/del] [ins]each[/ins] unenclosed
+part of it represents V. It, therefore, asserts that the
+part remaining after the erasure represents V. But this
+[del]part written alone[/del] graph consisting of this part by itself
+asserts [del]no[/del] more than that that part represents V. Hence,
+the effect of the erasure is merely to diminish the graph to desist
+from a asserting a part of what it had previously asserted.
+
+[u]Rule II[/u]. [del]Any[/del] Two ovals, the one enclosing nothing
+but the other with its contents, may be drawn round the
+graph, or being drawn, may be erased.
+
+[u]Proof[/u]. For let G be the entire graph, then the holds grounded
+that of the following two graphs
+
+G and [fig]Graph G inside two nested ovals[/fig]
+
+neither asserts anything not asserted by the other. The first,
+G, asserts only that G is V. Then the graph [fig]Graph G inside two nested ovals[/fig] [ins]precisely[/ins] simply denies

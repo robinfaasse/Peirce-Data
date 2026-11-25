@@ -1,0 +1,15 @@
+The partial differential coefficient of $E$ relatively to $D_t \theta_k$, where $k$ is any number less than $p$ and greater than unity, is
+
+$$D_{\theta'_k} E = (\sum_{k+1}^p n m_n) l_k^2 \cdot D_t \theta_k + \sum_1^{k-1} j \sum_{k+1}^p n \{ m_n l_k l_j \cos(\theta_k - \theta_j) \cdot D_t \theta_j \}$$
+$$+ \sum_{k+1}^{p-1} i \sum_{i+1}^p n \{ m_n l_i l_k \cos(\theta_i - \theta_k) \cdot D_t \theta_i \}$$
+$$+ \sum_{k+1}^p n \{ m_n h_n l_k \cos(\theta_k - \theta_n) \cdot D_t \theta_n \}$$
+$$+ \sum_1^{k-1} i \{ m_k h_k l_i \cos(\theta_i - \theta_k) D_t \theta_i \} + m_k (h_k^2 + \gamma_k^2) (D_t \theta_k)$$
+
+[del]$$= \sum_1^{k-1} i \sum_k^p n$$[/del]
+
+$$= \sum_1^{k-1} i \{ ([del]m_k h_k[/del] [ins]m_k h_k[/ins] + \sum_{k+1}^p n m_n l_k) l_i \cos(\theta_k - \theta_i) \cdot D_t \theta_i \}$$
+$$+ [ m_k (h_k^2 + \gamma_k^2) + \sum_{k+1}^p n m_n l_k^2 ] D_t \theta_k$$
+$$+ \sum_{k+1}^{p-1} i \{ (m_i h_i + \sum_{i+1}^p n m_n l_i) l_k \cos(\theta_k - \theta_i) \cdot D_t \theta_i \}$$
+$$+ m_p h_p l_k \cos(\theta_k - \theta_p) D_t \theta_p$$
+
+The differential coefficients of $E$ relatively to $D_t \theta_1$ and $D_t \theta_p$ are

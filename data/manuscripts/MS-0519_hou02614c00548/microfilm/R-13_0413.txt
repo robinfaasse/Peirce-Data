@@ -1,0 +1,36 @@
+[pn]75[/pn]
+
+Now take the premise
+$$\Pi_{\alpha} \Sigma_{1} \Pi_{2} \Sigma_{3} \left\{ \overline{\varphi}_{12} x_{1} + \chi_{1} \left( \overline{\psi}_{12} + \overline{\chi}_{32} \overline{I}_{13} \right) \right\}$$
+
+The mere dropping of factors gives
+$$\Sigma_{1} \Pi_{2} \left\{ \overline{\varphi}_{12} + \chi_{1} \right\} \prec \Pi_{2} \Sigma_{1} \left\{ \overline{\varphi}_{12} + \chi_{1} \right\}$$
+
+The square gives
+$$\Pi_{\alpha} \Pi_{\alpha'} \Sigma_{11} \Sigma_{12} \Pi_{21} \Pi_{22} \Sigma_{31} \Sigma_{32}$$
+$$\left\{ \overline{\varphi}_{21} x_{11} + \overline{\varphi}_{22} x_{12} + \overline{\chi}_{11} \chi_{12} \left( \overline{\psi}_{\alpha.31.21} + \overline{\chi}_{\alpha.31.21} \overline{I}_{11.31} \right) \left( \overline{\psi}_{\alpha'.32.22} + \overline{\chi}_{\alpha'.32.22} \overline{I}_{12.32} \right) \right\}$$
+
+[del]$$P_{ij} \cdot P_{kl} \prec \overline{I}_{ik} + P_{jl}$$[/del]
+
+My difficulty here shows I have not got to the
+bottom of the implications of $\Pi_{k}$
+
+The square is to be multiplied by
+$$\gamma_{\alpha.11.21} \gamma_{\alpha'.12.22} \left( \overline{\gamma}_{\alpha.11.21} + \overline{I}_{11.11} \right) \left( \overline{\gamma}_{\alpha'.12.22} + \overline{I}_{12.12} \right)$$
+and this gives it.
+
+The amount of it is that a proposition
+in $\Pi_{\alpha}$ can be multiplied by any true
+proposition in $\Sigma_{\alpha}$ or any number of
+such propositions
+
+***
+
+And note this. When we have $\Pi_{\alpha} \gamma_{\alpha 13}$ we can
+multiply and have $\Pi_{\alpha} \chi_{1} \gamma_{\alpha 13}$. This needs development.
+Therefore before squaring $\Pi_{2} \Sigma_{3} \left\{ \overline{\varphi}_{2} + \chi_{1} \chi_{3} \overline{I}_{13} \right\}$
+and definition $\Pi_{2} \Pi_{4} \Sigma_{3} \Sigma_{5} \left\{ \overline{\varphi}_{2} + \overline{\varphi}_{4} + \overline{I}_{14} \right.$
+$$\left. + \chi_{1} \chi_{3} \overline{I}_{13} \right\}$$
+$$(a+b)(c+d) \prec a + c + bd$$
+
+[fig]Square with diagonal lines forming an X inside[/fig]

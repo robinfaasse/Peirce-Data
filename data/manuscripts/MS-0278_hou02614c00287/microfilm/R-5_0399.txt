@@ -1,0 +1,32 @@
+I $\quad \pi_b \pi_c (\beta_{cb} + \gamma_b + \gamma_c)$
+
+II $\quad \pi_a \pi_c (\alpha_{ca} + \gamma_a + \gamma_c)$
+
+III $\quad \pi_a \pi_b \pi_c (\alpha_{ca} + \beta_{cb} + \gamma_a + \gamma_c + \gamma_b)$
+
+I alone once $\quad$ If Z then Y $\prec$ Z
+I alone twice
+$\quad \beta_{cb} + \overline{\gamma_b} + \gamma_c$
+$\quad \beta_{dc} + \overline{\gamma_c} + \gamma_d$
+$\quad$ If Z then X $\prec$ (Y $\prec$ Z)
+$\quad$ etc
+
+II alone nothing
+
+III alone once $\quad$ Gives fallacy.
+III alone twice
+$\quad \alpha_{ca} + \beta_{cb} + \overline{\gamma_a} + \overline{\gamma_c} + \gamma_b$
+$\quad \overline{\gamma_c} + \overline{\gamma_a} + \gamma_c$
+
+If one man says that [del]if B is true what the other says is true[/del] [ins]what the other says is true it is true[/ins]
+If [del]what[/del] the other says [del]that if what the first says is true B is true[/del] [ins]that if what the first says is true B is true[/ins]
+
+III alone Three times
+$\quad \overline{\gamma_a} + \overline{\gamma_c} + \gamma_b \qquad\qquad\qquad C = A \prec B$
+[del]A man says that[/del] $\quad \overline{\gamma_d} + \overline{\gamma_a} + \gamma_c \qquad\qquad\qquad A = (D \prec C)$
+[del]A says that if what[/del]
+[del]D says is true then what C says is true[/del] $\quad \overline{\gamma_c} + \overline{\gamma_d} + \gamma_a \qquad\qquad\qquad D = (C \prec A)$
+[del]D says that if what C says is true what A[/del] [ins]says is true[/ins]
+[del]C says that if what A says is true B is true[/del]
+$\quad A \prec B = C \qquad [ (A \prec B) \prec C ] \prec (A \prec B) = A$
+$\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad$ Tom Dick Harry

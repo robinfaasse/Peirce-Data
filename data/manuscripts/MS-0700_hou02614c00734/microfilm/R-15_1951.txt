@@ -1,0 +1,14 @@
+[pn]No 700[/pn]
+
+Two players A and B
+play a game in which the
+odds are [u]two[/u] to [u]one[/u] in favor
+of A. A stakes [u]three[/u] and B
+[del]the[/del] [ins]one[/ins] on each bet. A's fortune
+is 60, B's 20. What is
+the probability that A will
+ruin B.
+
+$\frac{2}{3}$ $\frac{1}{3}$
+
+$u_x = \frac{2}{3} u_{x+1} + \frac{1}{3} u_{x-3}$

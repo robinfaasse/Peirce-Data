@@ -1,0 +1,28 @@
+[u]Logic of Quantity.[/u]
+
+<u>Demonstration</u>. Suppose $t_{imn}$ and let $o$ be a collection which $n$ includes and $l$ a collection that includes $m$. Then, I say that $t_{ilo}$.
+
+For the definitions give us
+$$\Pi_{s} \Sigma_{r} \ \bar{q}_{ns} \ \text{Y} \ q_{mr} \cdot r_{irs}$$
+$$\Pi_{u} \ \bar{q}_{ou} \ \text{Y} \ q_{nu}$$
+$$\Pi_{v} \ \bar{q}_{mv} \ \text{Y} \ q_{lv}$$
+
+Multiplying these and identifying $u$ with $s$ and $v$ with $r$ and multiplying by (7) we get $t_{ilo}$. Q.E.D.
+
+<u>Theorem 4</u>. If one relation [ins]universally[/ins] [del]transfers[/del] [ins]transfers[/ins] one collection to a second and another relation universally transfers the second collection to a third, then the [del]logical[/del] [ins]relative[/ins] product of the two relations transfers the first collection to the third.
+
+<u>Demonstration</u>. Suppose $t_{ilm}$ and $t_{jmn}$. Then, I say that $t_{(i,j)ln}$.
+
+For the definitions give us
+$$\Pi_{s} \Sigma_{r} \ \bar{q}_{ms} \ \text{Y} \ q_{lr} \cdot r_{irs}$$
+$$\Pi_{t} \Sigma_{s'} \ \bar{q}_{nt} \ \text{Y} \ q_{ms'} \cdot r_{jst'}$$
+
+Multiplying these and identifying $s$ with $s'$ (but omitting the accent) we have
+$$\Pi_{t} \Sigma_{s} \Sigma_{r} \ \bar{q}_{nt} \ \text{Y} \ q_{lr} \cdot r_{irs} \cdot r_{jst} \ ;$$
+
+Or, by the definition of relative multiplication
+$$\Pi_{t} \Sigma_{r} \ \bar{q}_{nt} \ \text{Y} \ q_{lr} \cdot (r_{i} \ r_{j})_{rt}$$
+
+Hence by definition $t_{(i,j)ln}$. Q.E.D.
+
+[del]Article 3.[/del] <u>Scholium 1</u>. I have not defined inclusion, since that is the fundamental logical relation; and in this paper, I do not formally define terms of general logic. But the relation of part to whole is not necessarily considered in general logic,

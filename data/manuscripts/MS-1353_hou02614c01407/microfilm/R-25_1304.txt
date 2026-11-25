@@ -1,0 +1,25 @@
+The Skew Mercator.
+
+On the Stereographic, the equation of a meridian is
+$$(\xi - A)^2 + (\eta - B)^2 = C^2$$
+
+When $\xi = 0$
+$$\eta_1 = B + \sqrt{C^2 - A^2} = S \tan 25.^\circ 5$$
+$$\eta_2 = B - \sqrt{C^2 - A^2} = S \cot 25.^\circ 5$$
+
+$$(\xi - A) d\xi + (\eta - B) d\eta = 0$$
+When $\xi = 0$  $\frac{d\xi}{d\eta} = \frac{\sqrt{C^2 - A^2}}{A} = \tan long$
+
+$$B = - S \cot 51^\circ$$
+$$\sqrt{C^2 - A^2} = S \csc 51^\circ$$
+$$A = S \csc 51^\circ \cot long$$  $$C = S \csc 51^\circ \csc [ins]long[/ins]$$
+
+Putting $\xi = r \sin \theta$  $\eta = r \cos \theta$
+The equation is
+$$(r \sin \theta - S \csc 51^\circ [ins]\cot long[/ins])^2 + (r \cos \theta + S \cot 51^\circ)^2 = S^2 \csc^2 51^\circ [ins]\csc^2 long[/ins]$$
+
+$$S^{-1} r - S r^{-1} = 2 (\sin \theta \csc 51^\circ \cot long - \cos \theta \cot 51^\circ)$$
+$$= 2 \frac{\sin \theta \cot long - \cos \theta \cos 51^\circ}{\sin 51^\circ} [del]\text{which call E}[/del]$$
+
+Putting $\tan \Theta = \cos 51^\circ \tan long$ and $E = \frac{\sqrt{\cot^2 long + \cos^2 51^\circ}}{\sin 51^\circ}$
+$$S^{-1} r - S r^{-1} = 2E \sin (\theta - \Theta)$$

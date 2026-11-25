@@ -1,0 +1,28 @@
+Binary Arithmetic
+
+All primes end with 1 and when this one is docked and the remainder separated into periods of 2, the periods [ins]are[/ins] added and this repeated as often as possible
+give [del]00 or[/del] 11 (first class) or 10 (second class).
+
+A number of the first class consisting of an odd number of figures or one of
+the second class consisting of an even number when docked of the first
+figure gives a number divisible by 3, otherwise a number of the other class.
+
+[fig]Calculations in binary arithmetic[/fig]
+
+To find whether such a number is divisible, separate it into periods of not more than two
+less than its number of figures. Add the first figures of the periods and then all the
+other figures. And the sum of the latter sum must be divisible by the former, the quotient
+being less than expressible in a less number of figures than the period
+
+[fig]Calculations in binary arithmetic[/fig]
+
+To find whether such a number is divisible
+Separate into periods [del]subtract[/del] [ins]sum[/ins] odd periods and even periods
+
+The former must be divisible by the latter
+the quotient not more than one period and this quotient
+must not be the number itself docked of its
+first figure.
+The divisor is 1 in second period quotient in first
+
+[fig]Calculations in binary arithmetic[/fig]

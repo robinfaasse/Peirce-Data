@@ -1,0 +1,36 @@
+[u]Barycentric Representation of Circle[/u]
+A B C O P Q
+
+O = A + [u]o[/u] B + [u]o[/u][sup]2[/sup] C
+Q = A + [u]q[/u][sup]2[/sup] B + [u]q[/u] C
+
+[fig]Geometric diagram with lines and points labeled A, B, C, N, M, I, O, P, Q[/fig]
+
+[u]I[/u] = 
+[{OQ}] {AQ} = [u]q[/u]/q-o (1-o) A + 1/q-o ( [del]o[/del] [ins]1+q[/ins]/1+o ) B + 1/q-o (1-q) C
+[del]The line is this[/del] + (1+t) A + ( [del]q[/del] + [del]q[/del][sup]2[/sup]) B + (q[sup]2[/sup]+[del]q[/del] [ins]tq[/ins]) C
+[N] = ( [del]t[sup]2[/sup]+q+...[/del]/q(t[sup]2[/sup]-t+1) ) A + ( [del]...[/del]/t[sup]2[/sup]-t+1 ) B + ( q[sup]2[/sup]-2t+3/q(t[sup]2[/sup]-t+1) ) B
+
+[fig]Calculations in vertical columns[/fig]
+
+[u]Calculations on following pages[/u]
+1/3 (1+g) + x [-1 + (t-1)g] = b
+
+1/3 t + (1-t) g / u + [u]v[/u] g
+u + (1-t) u
++ (t-1) u + (t-1) v
+-1 + (t-1) g / 2t-1 + (t-2) g / u [del]v[/del] 18 [del]2t+1[/del] + (t+2) g
+[del]2t+3 g[/del]
+-t[sup]2[/sup]+2t-2 - t[sup]2[/sup]+2t-2
+-t[sup]2[/sup]+t-1 -t[sup]2[/sup]+t+1
+
+u + (t-1) v = 1/3
+(1-t) u + t v = 1/3
+(1-t) u [del]= -[/del] + (t-1)[sup]2[/sup] v = 1/3 (1-t)
+(t[sup]2[/sup]-t+1) v = 1/3 (t-2)
+t u + t(t-1) v = 1/3 t
+(1-t)[sup]2[/sup] u + t(t-1) v = 1/3 (t-1)
+(t[sup]2[/sup]-t+1) u = 1/3 (2t-1) Multiplier 1+t / 1+tg / (1+t) + (t+t[sup]2[/sup]) / t[sup]2[/sup]+1-t (1+t[sup]2[/sup]-t)
+[del]t[sup]2[/sup]+2t (2t-1)/3(t[sup]2[/sup]-t+1)[/del]
+[del]2t[sup]2[/sup]+t[/del] / 3(t[sup]2[/sup]-t+1)
+2t-1+(t-2) [del]t[/del] / 3(t[sup]2[/sup]-t+1)

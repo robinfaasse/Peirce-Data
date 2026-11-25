@@ -1,0 +1,20 @@
+senting relations or even logical aggregation.
+The following diagrams illustrate different forms of syllogism.
+
+[fig]figure[/fig]
+
+No A is not B
+No B is C
+$\therefore$ No A is C
+
+[fig]figure[/fig]
+
+No A is not B
+Some C is not B
+$\therefore$ Some C is not A
+
+[fig]figure[/fig]
+
+Some A is B
+Some C is not B
+$\therefore$ Some A is [del]not[/del] some C

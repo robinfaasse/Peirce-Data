@@ -1,0 +1,49 @@
+[del]\frac{1}{2} (a - b - \frac{1}{2}[/del]
+
+$\frac{1}{2} \cos (a-b-\frac{1}{2}C) \cos \frac{1}{2}C + \frac{1}{2} \cos (a-b+\frac{1}{2}C) \cos \frac{1}{2}C$
+
+[del]$\frac{1}{2} \cos$[/del]
+$- \frac{1}{2} \sin (a+b-\frac{1}{2}C) \sin \frac{1}{2}C + \frac{1}{2} \sin (a+b+\frac{1}{2}C) \sin \frac{1}{2}C$
+
+$\cos (a-b) \cos \frac{1}{2}C \cos \frac{1}{2}C$
+$\sin (a+b) \cos \frac{1}{2}C \sin \frac{1}{2}C$
+
+[marginalia]
+$\cos(a-b) - \cos(a+b)$
+
+$x-y = a+b$
+$x+y = a+b-C$
+$x = a+b-\frac{1}{2}C$
+$y = \frac{1}{2}C$
+[/marginalia]
+
+[marginalia]
+$x-y = a-b-C$
+$x+y = a-b$
+$2x = 2a-2b-C$
+$2y = C$
+[/marginalia]
+
+[marginalia]
+$\sin(p+q)$
+$+ \sin(p-q)$
+[u]$2 \sin p \cos q$[/u]
+[/marginalia]
+
+$\cos a \cos b + \sin a \sin b \cos C$
+
+[del]$\cos a \cos b + \sin a \sin b \cos^2 \frac{1}{2}C - \sin a \sin b \sin^2 \frac{1}{2}C$[/del]
+$= \frac{1}{2} \cos (a+b) + \frac{1}{2} \cos (a-b)$
+$+ \frac{1}{2} \cos (a-b) \cos C - \frac{1}{2} \cos (a+b) \cos C$
+$= \frac{1}{2} \cos (a+b) + \frac{1}{2} \cos (a-b)$
+$+ \frac{1}{4} \cos (a-b-C) + \frac{1}{4} \cos (a-b+C)$
+$- \frac{1}{4} \cos (a+b-C) - \frac{1}{4} \cos (a+b+C)$
+$= \frac{1}{2} \cos (a-b-\frac{1}{2}C) [del]\cos (a-b+\frac{1}{2}C)[/del] \cos \frac{1}{2}C$
+$+ \frac{1}{2} \cos (a-b+\frac{1}{2}C) [del]\cos (a-b-\frac{1}{2}C)[/del] \cos \frac{1}{2}C$
+$- \frac{1}{2} \sin (a+b-\frac{1}{2}C) \sin \frac{1}{2}C$
+$+ \frac{1}{2} \sin (a+b+\frac{1}{2}C) \sin \frac{1}{2}C$
+
+[marginalia]
+$\cos(a-b) \cos^2 \frac{1}{2}C$
+$\cos(a+b) \sin^2 \frac{1}{2}C$
+[/marginalia]

@@ -1,0 +1,26 @@
+[pn]Page 3[/pn]
+form of the trajectory, the other the time consumed in moving from
+one point to another. To get the first we have [equation] \frac{dr}{d\theta} = \frac{dt}{d\theta} \cdot \frac{dr}{dt} = [/equation]
+[equation] \frac{dr}{dt} / \frac{d\theta}{dt} = \frac{\sqrt{v^{2} - \frac{A^{2}}{r^{2}}}}{A/r^{2}} = \frac{r^{2}}{A} \sqrt{v^{2} - \frac{A^{2}}{r^{2}}} = r \sqrt{\frac{r^{2}v^{2}}{A^{2}} - 1} [/equation] or [equation] \frac{d\theta}{dr} = \frac{1}{r \sqrt{\frac{r^{2}v^{2}}{A^{2}} - 1}} [/equation]
+But our first experiment of throwing the particle directly away from the
+centre showed us that [equation] v^{2} = \frac{2k}{r^{2}} - \frac{2k}{r_{a}^{2}} [/equation]; so that [equation] r^{2}v^{2} = 2k - \frac{r^{2}}{r_{a}^{2}} 2k [/equation], and
+our equation becomes [equation] \frac{d\theta}{dr} = \frac{1}{r \sqrt{\frac{2k - \frac{r^{2}}{r_{a}^{2}} 2k}{A^{2}} - 1}} = \frac{Ar_{a}}{r \sqrt{2k(r_{a}^{2}-r^{2}) - A^{2}r_{a}^{2}}} [/equation]
+The quantity under the square root is positive because (see Figure) [equation] P_{c} < v_{c} [/equation]
+[fig]Diagram showing line of throw and center[/fig] whence [equation] P_{c}v_{c} < v_{c}v_{c} [/equation] But [equation] P_{c}v_{c} = A [/equation] [equation] \therefore A < r_{c}v_{c} [/equation] But
+[equation] v_{c} = \sqrt{\frac{2k}{r_{c}^{2}} - \frac{2k}{r_{a}^{2}}} [/equation] whence [equation] r_{c}v_{c} = \sqrt{2k(1 - \frac{r_{c}^{2}}{r_{a}^{2}})} [/equation]. You
+remember that [equation] r_{a} [/equation] is the greatest distance the ball would
+go even when thrown vertically. Hence [del] [equation] \frac{r_{c}}{r_{a}} < 2k [/equation] and a fortiori [/del] [equation] A < 2k [/equation]
+[equation] (r_{c}v_{c})^{2} < 2k(1 - \frac{r_{c}^{2}}{r_{a}^{2}}) [/equation] and [equation] A^{2} < (r_{c}v_{c})^{2} < 2k \frac{r_{a}^{2}-r_{c}^{2}}{r_{a}^{2}} [/equation] or [equation] A^{2}r_{a}^{2} < 2k(r_{a}^{2}-r_{c}^{2}) [/equation]
+Thus the quantity is positive at the starting place & it will be kept so by the
+formulae. To get the differential equation for the time is still easier
+we have already seen that [equation] (\frac{dr}{dt})^{2} = v^{2} - \frac{A^{2}}{r^{2}} [/equation] or [equation] \frac{dr}{dt} = \sqrt{v^{2} - \frac{A^{2}}{r^{2}}} = \sqrt{\frac{2k-A^{2}}{r^{2}} - \frac{2k}{r_{a}^{2}}} [/equation]
+or [equation] t = \int\limits_{r_{c}}^{r} \frac{dr}{\sqrt{\frac{2k-A^{2}}{r^{2}} - \frac{2k}{r_{a}^{2}}}} [/equation]. Now I will just write down the formulae for
+these integrals which are substantially given in every book on the calculus.
+For abbreviations I will write [equation] M [/equation] for [equation] \sqrt{2k-A^{2}} r_{a} [/equation] and [equation] Q [/equation] for [equation] \frac{\sqrt{M^{2}-r_{c}^{2}} + M}{\sqrt{M^{2}-r_{c}^{2}} - M} [/equation]
+Then the equation of the trajectory is [equation] r^{2} = M - \frac{Q + e^{2\frac{M}{N}\theta}}{Q - e^{2\frac{M}{N}\theta}} [/equation] where [equation] e [/equation] is
+the number 2.7... the Naperian base. It is easy to see that every
+time [equation] \theta [/equation] is diminished, say by [equation] 360^{\circ} [/equation], the numerator of the last term of the
+value of [equation] r^{2} [/equation] is diminished and the denominator increased. Consequently,
+[equation] r^{2} [/equation] will be increased at every revolution. It will be a spiral. But
+[equation] r^{2} [/equation] cannot get larger than [del] [equation] M [/equation] [/del] [equation] r_{a}^{2} [/equation], as we have already seen.
+When [equation] \theta [/equation] increases [equation] r^{2} [/equation] will

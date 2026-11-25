@@ -1,0 +1,16 @@
+[pn]29[/pn]
+
+[marginalia]diag[/marginalia] Victoria [del]is mother of[/del] Edward
+[fig]Logic diagram with nested ovals containing "is mother of" and "loves"[/fig]
+
+We can iterate the two outside lines of identity within the outer cut, thus:
+
+[marginalia]diag[/marginalia] [fig]Logic diagram showing lines of identity extended into an outer cut[/fig]
+
+Within one enclosure we can join the two lines on each side, thus
+
+[marginalia]diag[/marginalia] [fig]Logic diagram showing joined lines of identity within an enclosure[/fig]
+
+We can now deiterate "mother of", thus
+
+[marginalia]diag[/marginalia] [fig]Logic diagram showing deiteration of "mother of"[/fig]

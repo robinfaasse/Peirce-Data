@@ -1,0 +1,27 @@
+[pn]305[/pn]
+
+[u]Notation 15[/u]. It will be very convenient to denote
+a [u]Point[/u], by enclosing the signs of the three planes, the
+ray and plane, or the two rays which determine it between
+[u]Square Brackets[/u], writing $[\alpha\beta\gamma]$ for the point where the
+three planes $(\alpha)$, $(\beta)$, $(\gamma)$ come together, $[\delta e]$ for the
+point where the ray $\{e\}$ cuts the plane $(\delta)$, and
+$[f\cdot g]$ for the point where the two rays $f$ and $g$ inter-
+sect (when they do intersect);
+to denote a [u]Plane[/u] by enclosing the signs of the three points,
+the ray and point, or the two rays which determine it between
+[u]Parentheses[/u], writing, for example $(ABC)$ for the plane of the
+three points $[A]$, $[B]$, $[C]$, writing $(De)$ for the plane
+of the point $[D]$ and ray $\{e\}$, and $(f\cdot g)$ for the plane
+of the two rays $\{f\}$ and $\{g\}$ in case they lie in one plane;
+and to denote a [u]Ray[/u] by enclosing the signs of the two
+points, or two planes which determine it between [u]Braces[/u], writing,
+for example, $\{AB\}$ for the ray through the points $[A]$ and
+$[B]$, and $\{\gamma\delta\}$ for the ray common to the planes $(\gamma)$ and $(\delta)$.
+
+[u]Corollary 104[/u]. If the two expressions $\{(bc)(de)\}$ and
+$\{[be][cd]\}$ both denote any rays, as they do if $\{b\}$ and
+$\{c\}$ lie in one plane and $\{d\}$ and $\{e\}$ lie in one plane, if $\{b\}$
+and $\{e\}$ have a common point and $\{c\}$ and $\{d\}$ have a common
+point, then $\{(bc)(de)\} = \{[be][cd]\}$. That is, the two rays
+are the same. This is [ins]made[/ins] evident [del]from[/del] by inspecting Figure 199.

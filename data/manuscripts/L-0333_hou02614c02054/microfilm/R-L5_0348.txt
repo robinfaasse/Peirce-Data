@@ -1,0 +1,33 @@
+The demonstration is excessively simple. The question is whether it is correct. Tell me what you say. Here it is
+
+$a =$ equatorial radius
+$b =$ polar radius
+$l =$ astronomical latitude
+$v =$ geocentric "
+$q =$ equatorial gravity
+$p =$ polar "
+$g =$ gravity at latitude $l$.
+$r =$ radius " "
+
+By geometry,
+$$r = \frac{ab}{\sqrt{a^2 \sin^2 v + b^2 \cos^2 v}}$$
+$$dr = \frac{a^3 \sin^2 v . db + b^3 \cos^2 v . da}{(a^2 \sin^2 v + b^2 \cos^2 v)^{\frac{3}{2}}} = \frac{\left(\frac{b}{a} \tan^2 l \, db + da\right) \left(\frac{b^2}{a^2} \tan^2 l\right)^{\frac{1}{2}}}{\left(1 + \frac{b^2}{a^2} \tan^2 l\right)^{\frac{3}{2}}}$$
+$$\cos(l-v) = \frac{\cos l (1 + \frac{b^2}{a^2} \tan^2 l)}{\sqrt{1 + \frac{b^4}{a^4} \tan^2 l}}$$
+
+Now, if one level surface (surface of equilibrium) is an ellipsoid, every exterior level surface is an ellipsoid. Hence, going from one surface to another
+$$g \cos(l-v) dr = p \, da = q \, db$$
+$$g = \frac{p \sqrt{1 + \frac{b^4}{a^4} \tan^2 l}}{\cos l \left(1 + \frac{bp}{aq} \tan^2 l\right)}$$
+
+If we make $\frac{b}{a}$ and $\frac{p}{q}$ very near unity, this reduces to Clairaut's formula. But the difference between the two in the actual case is important.
+
+Your loving son
+C. S. Peirce
+
+The author's name is
+R. J. Adcock, Monmouth, Ill.
+
+***
+
+[marginalia]
+Joining, of the boundary survey. He impressed me a good deal [del][fig]monogram[/fig][/del] [ins]by[/ins] his scientific spirit, & mentioned that he had a discussion of the systematic errors of the catalogues for the declinations of stars in the zone where he used them. Now you know there was a list of latitude stars printed by the Coast Survey. Hilgard at that time had the idea of getting the Cambridge Obsy. He accordingly took the matter into his own hands & out of Safford's made a mess of it. He is now going on to get out a catalogue of exact declinations. In my opinion, it is going to have a bad effect on the reputation of the survey. He has sin-
+[/marginalia]

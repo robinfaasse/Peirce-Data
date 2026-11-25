@@ -1,0 +1,64 @@
+[pn]78[/pn]
+
+Given [u]$\psi t = \frac{a+bt}{c+et}$[/u] Required $\psi^x t$
+
+Put $\psi^{n+1} = \frac{A+B-1 + AB + (A+B-1)C\psi^n}{C+C^2\psi^n}$
+
+That is $\frac{a}{c} = \frac{A+B-1+AB}{C}$ $\frac{b}{c} = A+B-1$ $\frac{e}{c} = C$
+
+Then $A+B = \frac{b+e}{c}$ $AB = \frac{ae}{c^2}$ [del]$AB = \frac{b}{c} - \frac{ae}{c^2}$[/del]
+$(A+B)^2 = \frac{(b+e)^2}{c^2}$ $(A-B)^2 = \frac{(b-e)^2}{c^2} + \frac{4ae}{c^2}$
+
+[del]$\frac{A(C\psi^n)+C\psi^2}{C^2+C\psi^2}$[/del]
+$A = \frac{b+e}{2c} + \frac{b-e}{2c}\sqrt{1+\frac{4ae}{(b-e)^2}}$
+$B = \frac{b+e}{2c} - \frac{b-e}{2c}\sqrt{1+\frac{4ae}{(b-e)^2}}$
+$A-B = \frac{b-e}{c}\sqrt{1+\frac{4ae}{(b-e)^2}}$
+$\frac{A-B}{A} = \frac{-\frac{(b-e)^2}{2c^2} - \frac{2ae}{c^2} + \frac{b^2-e^2}{2c^2}\sqrt{1+\frac{4ae}{(b-e)^2}}}{\frac{b}{c} - \frac{ae}{c^2}}$
+$= \frac{-\frac{1}{2}(b-e)^2 - 2ae + \frac{1}{2}(b^2-e^2)\sqrt{1+\frac{4ae}{(b-e)^2}}}{be-ae}$
+$= \frac{+\frac{1}{2}(b-e)^2 + 2ae [del]-\frac{1}{2}[/del] [ins]+\frac{1}{2}[/ins] (b^2-e^2)\sqrt{1+\frac{4ae}{(b-e)^2}}}{be-ae^2}$
+
+$\frac{1}{A} = \frac{\frac{b+e}{2c} - \frac{b-e}{2c}\sqrt{1+\frac{4ae}{(b-e)^2}}}{\frac{b^2+e^2}{2c^2} + \frac{ae}{c^2} - \frac{b^2-e^2}{2c^2}\sqrt{1+\frac{4ae}{(b-e)^2}}}$
+$\frac{B}{A} = \frac{\frac{b^2+e^2}{2c^2} + \frac{ae}{c^2} - \frac{b^2-e^2}{2c^2}\sqrt{1+\frac{4ae}{(b-e)^2}}}{\frac{b}{c} - \frac{ae}{c^2}}$
+$= \frac{\frac{1}{2}(b^2+e^2) + ae - \frac{1}{2}(b^2-e^2)\sqrt{1+\frac{4ae}{(b-e)^2}}}{be-ae}$
+
+$C\psi^{n+1} = A$
+$C\psi^n = A-1$
+$\psi^n = \frac{A-1}{C}$ or $\frac{B-1}{C}$
+
+$\frac{A+B-1-AB + (A+B-1)(A-1)}{C+C(A-1)}$
+$\frac{A+B-1-AB+A^2+AB-A-B+1}{C+CA-C}$
+$\frac{A(A-1)}{CA}$
+
+$\frac{A-1}{C} = +1$
+$A = C+1$
+$\frac{B-1}{C} = -1$
+$B = 1-C$
+
+$(C\psi^{n+1}+1)(C\psi^n+1) = (A+B)(C\psi^n+1) - AB$
+
+of which the solution is
+[del]$\psi^n = \frac{A-1}{C} \frac{1 - \frac{B-1}{A-1} (\frac{B}{A})^n}{1 - (\frac{B}{A})^n}$[/del]
+
+For then $C\psi^n+1 = \frac{1 - (\frac{B}{A})^{n+1}}{1 + \mathcal{C}(\frac{B}{A})^n}$ [del]$C\psi^{n+1} + 1)(C\psi^n+1) = \frac{1 + \mathcal{C}(\frac{B}{A})^{n+2}}{1 + \mathcal{C}(\frac{B}{A})^n}$[/del]
+
+So that the eq. is satisfied if $1 + \mathcal{C}(\frac{B}{A})^{n+2} = (A+B)[1+\mathcal{C}(\frac{B}{A})^{n+1}] - AB[1+\mathcal{C}(\frac{B}{A})^n]$
+$1 + \frac{B^2}{A^2}\mathcal{C}(\frac{B}{A})^n = A+B + (A+B)\frac{B}{A}\mathcal{C}(\frac{B}{A})^n - AB - AB\mathcal{C}(\frac{B}{A})^n$
+
+$\psi^n = \frac{A-1 + (B-1)\mathcal{C}(\frac{B}{A})^n}{C + C\mathcal{C}(\frac{B}{A})^n}$
+
+$C\psi^{n+1} + 1 = \frac{A + B\mathcal{C}(\frac{B}{A})^n}{1 + \mathcal{C}(\frac{B}{A})^n}$
+$(C\psi^{n+1}+1)(C\psi^n+1) = A^2 \frac{1 + \frac{B^2}{A^2}\mathcal{C}(\frac{B}{A})^n}{1 + \mathcal{C}(\frac{B}{A})^n}$
+$(C\psi^{n+1}+1) = \frac{A + \frac{B^2}{A}\mathcal{C}(\frac{B}{A})^n}{1 + \mathcal{C}(\frac{B}{A})^n}$
+$A^2 = A(A+B) - AB$
+$B^2 = $
+
+[pn]79[/pn]
+
+$\psi^0 = t = \frac{A-1+(B-1)\mathcal{C}}{C+C\mathcal{C}}$
+$Ct + C\mathcal{C}t = A-1 + (B-1)\mathcal{C}$
+$(Ct - B+1)\mathcal{C} = A-1-Ct$
+$-\mathcal{C} = \frac{A-1-Ct}{[del]-B+1-Ct[/del] [ins]Ct-B+1[/ins]}$
+
+$\psi^x t = \frac{A-1 + (1-B)\frac{A-1-Ct}{B-1-Ct}(\frac{B}{A})^n}{C - C\frac{A-1-Ct}{B-1-Ct}(\frac{B}{A})^n}$
+$= \frac{A-1}{C} \frac{1 - \frac{B-1}{A-1}\frac{A-1-Ct}{B-1-Ct}(\frac{B}{A})^n}{1 - \frac{A-1-Ct}{B-1-Ct}(\frac{B}{A})^n}$
+$= \frac{1}{C} \frac{(A-1)(B-1)(1-(\frac{B}{A})^x - Ct[A-1-(B-1)(\frac{B}{A})^x]}{(B-1)-(A-1)(\frac{B}{A})^x - Ct(1-(\frac{B}{A})^x}$

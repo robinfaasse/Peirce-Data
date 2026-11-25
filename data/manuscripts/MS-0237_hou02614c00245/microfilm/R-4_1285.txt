@@ -1,0 +1,20 @@
+[marginalia]
+[u]Repeated[/u]
+[u]Differentiation[/u]
+[u]2[/u]
+[/marginalia]
+
+[del]=[/del] [ins][del]\frac{D^4u}{u}[/del][/ins] [del]- \frac{D^3u}{u^2}[/del] [ins][del]+ 6 \frac{Du D^2u}{u^2}[/del][/ins] [del]- 6 \frac{(Du)^3}{u^3}[/del] [ins][del]- \frac{3Du D^3u}{u^2}[/del][/ins] [del]- \frac{3D^2u D^2u}{u^2}[/del] [ins][del]+ 6 \frac{Du (Du)^3}{u^3}[/del][/ins]
+
+[del]\therefore \frac{D^4u}{u} = \frac{D^3u}{u} - \frac{u D^3u}{u^2} + 6 \frac{Du D^2u}{u^2} + 6 \frac{u D^2u D^2u}{u^3} + 6 \frac{u D^3u Dv}{u^3} - 6 \frac{(Du)^4}{u^4} - 3 \frac{(Du)^2}{u^4} - 3 \frac{D^2u \cdot Du}{u^2} + 6 \frac{Du^2 Dv}{u^3}[/del]
+
+[del]\therefore D^4 Log w = D^3 \frac{Dw}{w} = \frac{D^4w}{w} - \frac{Dw D^3w}{w^2} + 6 \frac{Dw^2 D^2w}{w^3} - 6 \frac{(Dw)^4}{w^4} - 3 \frac{(Dw)^2}{w^4} - 3 \frac{D^2w \cdot Dw}{w^2} + 6 \frac{Dw^2 Dw}{w^3}[/del]
+
+[del]= \frac{D^4w}{w} - 4 \frac{Dw D^3w}{w^2} - 3 \frac{(D^2w)^2}{w^2} + 12 \frac{(Dw)^2 D^2w}{w^3} - 6 \frac{(Dw)^4}{w^4}[/del]
+
+[del]= \frac{D^4w}{w} - 4 Dlog w \cdot (D^3log w + 3Dlog w D^2log w + (Dlog w)^3) - 3 (D^2log w + (Dlog w)^2)^2[/del]
+[del]+ 12 (Dlog w)^2 (D^2log w + (Dlog w)^2) - 6 (Dlog w)^4[/del]
+
+[del]= \frac{D^4w}{w} - 4 Dlog w \cdot D^3log w - 12 (Dlog w)^2 D^2log w - 4 (Dlog w)^4 - 3 (D^2log w)^2 - 6 (D^2log w)^2[/del]
+
+[del]\therefore \frac{D^4w}{w} = D^4log w + 4 Dlog w D^3log w + 6 (Dlog w)^2 D^2log w + 3 (D^2log w)^2 + (Dlog w)^4[/del]

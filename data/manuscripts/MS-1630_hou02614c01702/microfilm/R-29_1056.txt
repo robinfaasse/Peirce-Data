@@ -1,0 +1,34 @@
+[del]$\frac{1 - \sin \theta}{1 + \sin \theta}$[/del]
+
+[ [ins]Was[/ins] unable to see the blackboard ]
+
+$D_{\theta} \tan^{-1} \sin \theta = \frac{\cos \theta}{1 + \sin^{2} \theta} = \frac{1}{\cos \theta}$
+
+$\int \frac{1}{\cos \theta} = \tan^{-1} \sin \theta$
+
+$\int \frac{1}{\cos \varphi} = \frac{1}{\sin} \tan^{-1} \cos \theta$
+
+[u]$\S 325$[/u] $\int_{x} \frac{1}{x(bx+a)} = \frac{1}{\sqrt{b}} \tan^{-1} \sin \varphi$
+
+$m = \frac{b^{2} - 4ac}{4a^{2}} \overset{b^{2}=0}{=} \frac{4ac}{4a^{2}} = \frac{c}{a}$
+
+$= \frac{1}{\sqrt{a}} \tan^{-1} \sin \varphi$
+
+---
+
+$\log q = \sqrt{y^{2}-m} = \frac{\sqrt{x^{2}+\frac{a}{b}}}{\sqrt{-\frac{a}{b}}}$
+
+[fig]Lines connecting equations[/fig]
+
+$\frac{1}{\sqrt{-a}} \sin^{-1} \tan \varphi$
+
+$\tan^{2} + 1 = \sec^{2}$
+$\tan^{2} = \sin^{2} \sec^{2}$
+$\sin^{2} = \frac{\tan^{2}}{\tan^{2}+1}$
+$\sin = \frac{\tan}{\sqrt{\tan^{2}+1}}$
+
+$\tan \varphi = \frac{\sqrt{x^{2}+\frac{a}{b}}}{x} = \frac{\sqrt{b x^{2} - a}}{x \sqrt{a}}$
+
+$\frac{1}{\sqrt{-a}} \cos^{-1} \sec \varphi =$
+
+$\sin^{-1} [del][\frac{1}{\sqrt{x^{2}-\frac{a}{b}}}][/del] \frac{1}{\sqrt{-a}}$

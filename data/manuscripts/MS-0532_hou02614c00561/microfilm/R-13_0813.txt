@@ -1,0 +1,15 @@
+as $A_1$. Put
+[u]$U_1 = B_1 + C_1 + \dots T_1$[/u]
+[u]$V = W_2 + W_3 + \dots W_n$[/u]
+Then the proposition takes the form
+[u]$A_1 + U_1 + V$[/u].
+It is evident that $A_1$ can be erased, giving
+[u]$U_1 + V$[/u],
+for if [u]$A_1 + U_1 + V$[/u] is true, either $A_1$ is [del]false[/del] [ins]true[/ins] and $U_1$ is [del]true[/del] [ins]false[/ins], or $V$ is true; hence, either $U_1$ is false or $V$ is true; hence, if $U_1$ is true, $V$ is true, or
+[u]$U_1 + V$[/u].
+The rule is thus proved true for the propositions of lowest degrees.
+
+[del]Now suppose[/del] [ins]Let[/ins]
+$W_1 + W_2 + W_3 + \dots W_n$
+be a proposition of the [u]$(n+1)^{\text{th}}$[/u] order, $W_1$, $W_2$, $W_3$, etc being of the [u]$n^{\text{th}}$[/u] order at most. Suppose that according to the rule, which holds good up to the [u]$n^{\text{th}}$[/u] order [del]inclusive[/del], $X$ could be inserted in $W_1$, [del]and let $Y$ be[/del] the result. Then, it follows from the rule that $X$ can be [del]be[/del] erased from
+$Y + W_2 + W_3 + \dots W_n$.

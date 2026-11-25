@@ -1,0 +1,30 @@
+[pn]80[/pn]
+
+If an operation changes
+$$x \rho_{123} + y \rho_{231} + z \rho_{312} + u \rho_{321} + v \rho_{132} + w \rho_{213}$$
+into
+$$X \rho_{123} + Y \rho_{231} + Z \rho_{312} + U \rho_{321} + V \rho_{132} + W \rho_{213}$$
+there are four specially characteristic numbers for this operation, namely,
+[u]1[sup]st[/sup][/u], its [u]Modulus[/u], or [del]the[/del] $\frac{X+Y+Z+U+V+W}{x+y+z+u+v+w}$, [del]which we may denote by M[/del] [ins]which we may denote by M[/ins] [del]I call this M[/del]
+[u]2[sup]nd[/sup][/u], its [u]Right handedness[/u], or $\frac{X+Y+Z-U-V-W}{x+y+z-u-v-w}$, which we may denote by N;
+[u]3[sup]rd[/sup][/u], its [u]Protension[/u], or $\frac{X+Yg+Zg^2+U+Vg+Wg^2}{x+yg+zg^2+u+vg+wg^2}$ where $g^3=1$ which we may denote by P;
+[u]4[sup]th[/sup][/u], its Rightness of Protension, or $\frac{X+Yg+Zg^2-U-Vg-Wg^2}{x+yg+zg^2-u-vg-wg^2}$ which we may denote by Q.
+
+Then
+$$\begin{matrix}
+M g = M & N g = 0 & P g = 0 & Q g = 0 \\
+M h = 0 & N h = N & P h = 0 & Q h = 0 \\
+M i = 0 & N i = 0 & P i = P & Q i = 0 \\
+M l = 0 & N l = 0 & P l = 0 & Q l = Q \\
+M j = 0 & N j = 0 & P j = iQ & Q j = 0 \\
+M k = 0 & N k = 0 & P k = 0 & Q j = iP
+\end{matrix} \quad \text{where } i^2 = -1$$
+
+The consequence is that one may write
+$$g = M:M \quad h = N:N \quad i = P:P \quad l = Q:Q \quad j = P:Q \quad k = Q:P$$
+and the whole multiplication table is contained in the
+rule (If A B C D are four of these letters)
+$$(A:B)(B:C) = (A:C)$$
+$$(A:B)(C:D) \text{ where B is not C } = 0.$$
+This leads to an interesting algebra of relatives which I pass by as
+[del]unappropriate[/del] [ins]inappropriate[/ins] especially to the theory of probability which I have not yet come to.

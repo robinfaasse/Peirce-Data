@@ -1,0 +1,68 @@
+[marginalia]
+[del]seems to be nothing[/del]
+[ins]so[/ins] by this mode of
+[del]ment[/del] which seems
+[del]tempt[/del] to include
+[del]rated[/del] lines under
+[del]quantity[/del]. Better
+simple q. There is
+[del]no[/del] q. such that
+[del]object[/del] is either q of
+[del]or[/del] by every other.
+
+definition does
+make continuity
+infinite divisi-
+on thus differs from
+
+[del]imited[/del] system
+[del]e in[/del] which,
+[del]ry[/del] relative
+[del]ere[/del] is some-
+[del]or[/del] which stands
+[del]nything[/del] in the
+[del]ion[/del]
+[del]D[/del] + [del]ll[/del]
+
+a limited
+[del]m[/del] may be
+that the
+[del]ence[/del] of
+[del]induction[/del]
+is valid for
+whole of it.
+[/marginalia]
+
+[pn]86[/pn]
+
+PEIRCE: *On the Logic of Number.*
+
+A system in which quantities may be *q*'s of or *q*'d by the same quantity without being either *q*'s of or *q*'d by each other is called multiple;\* a system in which of every two quantities one is a *q* of the other is termed simple.
+
+Simple Quantity.
+
+In a simple system every quantity is either "as great as" or "as small as" every other; whatever is as great as something as great as a third is itself as great as that third, and no quantity is at once as great as and as small as anything except itself.
+
+A system of simple quantity is either continuous, discrete, or mixed. A continuous system is one in which every quantity greater than another is also greater than some intermediate quantity greater than that other. A discrete system is one in which every quantity greater than another is next greater than some quantity (that is, greater than without being greater than something greater than). A mixed system is one in which some quantities greater than others are next greater than some quantities, while some are continuously greater than some quantities.
+
+Discrete Quantity.
+
+A simple system of discrete quantity is either limited, semi-limited, or unlimited. A limited system is one which has an absolute maximum and an absolute minimum quantity; a semi-limited system has one (generally considered a minimum) without the other; an unlimited has neither.
+
+A simple, discrete, system, unlimited in the direction of increase or decrement, is in that direction either infinite or super-infinite. An infinite system is one in which any quantity greater than *x* can be reached from *x* by successive steps to the next greater (or less) quantity than the one already arrived at. In other words, an infinite, discrete, simple, system is one in which, if the quantity next greater than an attained quantity is itself attained, then any quantity greater than an attained quantity is attained; and by the class of attained quantities is meant any class whatever which satisfies these conditions. So that we may say that an infinite class is one in which if it is true that every quantity next greater than a quantity of a given class itself belongs to that class, then it is true that every.
+
+\* For example, in the ordinary algebra of imaginaries two quantities may both result from the addition of quantities of the form $a^2 + b^2 i$ to the same quantity without either being in this relation to the other.
+
+[marginalia]
+$\Sigma_x \Sigma_i \Pi_j \Pi_k (\bar{r}_{xki} \bar{r}_{kxj} +$
+$\bar{r}_{lki} \Sigma_i \Pi_j \Sigma_k \Pi_l (\bar{r}_{kxi} \bar{r}_{kxj} + \bar{r}_{lxi} + \bar{r}_{lxj})$
+[/marginalia]
+
+[pn]86^a[/pn]
+
+Defining the limited & finite systems
+as above. To show
+1[ins]st[/ins] That every limited system is finite
+2[ins]nd[/ins] That every finite system is limited
+
+[fig]Diagram with arrows showing relationships between points in a system[/fig]

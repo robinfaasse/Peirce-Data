@@ -1,0 +1,54 @@
+$$S_{lmn} = S_{s}(c-1)^{l+m+n-3} + U_{s}(-1)^{l-1}(c-1)^{m+n-2} + V_{s}(-1)^{m-1}(c-1)^{l+n-2} + W_{s}(-1)^{n-1}(c-1)^{l+m-2} + T_{s}(-1)^{l+m+n-3}$$
+
+$$\begin{array}{rlllll}
+[del]\frac{S_{111}}{M}[/del] = 0 & = S_{s} & + U_{s} & + V_{s} & + W_{s} & + T_{s} \\
+\frac{S_{211}}{M} = 0 & = S_{s}(c-1) & - U_{s} & + V_{s}(c-1) & + W_{s}(c-1) & - T_{s} \\
+\frac{S_{121}}{M} = 0 & = S_{s}(c-1) & + U_{s}(c-1) & - V_{s} & + W_{s}(c-1) & - T_{s} \\
+\hline
+\frac{S_{112}}{M} = 0 & = S_{s}(c-1) & + U_{s}(c-1) & + V_{s}(c-1) & - W_{s} & - T_{s} \\
+S_{222}/M = (c-3) & = S_{s}(c-1)^{3} & - U_{s}(c-1)^{2} & - V_{s}(c-1)^{2} & - W_{s}(c-1)^{2} & - T_{s}
+\end{array}$$
+
+$$\begin{array}{rlllll}
+0 & = S_{s}c & & + V_{s}c & + W_{s}c \\
+0 & = S_{s}c & + U_{s}c & & + W_{s}c \\
+0 & = S_{s}c & + U_{s}c & + V_{s}c & \\
+(c-3) & = S_{s}\left[ \frac{(c-1)^{3}+1}{= c(c-1)(c-2)} \right] & + U_{s}(-c^{2}+2c) & [del]\rightarrow[/del] [ins]+[/ins] V_{s}c(c-2) & - W_{s}[del]c[/del]c(c-2)
+\end{array}$$
+
+$$\begin{array}{rllll}
+0 & = & + U_{s}c & - V_{s}c & \\
+0 & = & + U_{s}c & & - W_{s}c \\
+[del]c-1[/del](c-2)(c-3) & = & - U_{s}c(c-2) & [del]\rightarrow[/del] [ins]+[/ins] V_{s}[del]\frac{c^{2}}{(c-2+1)}\right)[/del] [ins]c^{2}[/ins](c-2) & - W_{s}c^{2}(c-2)
+\end{array}$$
+
+$$\begin{array}{rllll}
+0 & = & + U_{s}[del]2[/del] & - V_{s}[del]1[/del] & - W_{s}[del]1[/del] \\
+& & U_{s} = V_{s} = W_{s}
+\end{array}$$
+
+$$\begin{aligned}
+[del]2(c-1)[/del] \\
+(c-1)(c-3) & = & U_{s}(-c-2c^{2}) \qquad U_{s} = -\frac{(c-1)(c-3)}{c(2c+1)} = V_{s} = W_{s} \\
+& & S_{s} = -(V_{s}+W_{s}) = + \frac{2(c-1)(c-3)}{c(2c+1)} \\
+& & T_{s} = \frac{(c-1)(c-3)}{c(2c+1)} \qquad U_{s} = V_{s} = W_{s} = -T_{s} \\
+& & S_{2} = 2 T_{s}
+\end{aligned}$$
+
+$$\frac{+ 2(c-1)^{4}[del](c-3)[/del] - (c-1)[del](c-3)[/del] + 3(c-1)^{3}[del](c-3)[/del]}{c(2c+1)} (c-3)$$
+
+$$2c+1 \overline{)\begin{aligned} 2c^{3}-5c^{2}+3c \\ \underline{2c^{3}+c^{2}} \ \ \ \ \ \ \ \ \\ -6c^{2}+3c \end{aligned}} (c^{2}$$
+
+$$\begin{array}{r}
+2c^{4}-8c^{3}[del]+12c^{2}[/del]-8c+2 \\
+c+1 \\
+\hline 3c^{3}-9c^{2}[del]-5c[/del]-3 \\
+\hline 2c^{4}-5c^{3}+3c^{2} \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+\end{array}$$
+
+[marginalia]
+[marginalia]
+Solution:
+$U_{s} = V_{s} = W_{s} = -T_{s} = -\frac{1}{2} S_{2} = -\frac{c-3}{c^{2}(2c-3)}$
+[/marginalia]
+[/marginalia]

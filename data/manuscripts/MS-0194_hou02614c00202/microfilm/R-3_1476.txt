@@ -1,0 +1,91 @@
+[fig]Coordinate axes with intersecting lines[/fig]
+
+$\cos^2 \frac{x}{2} + \sin^2 \frac{x}{2}$
+
+$\cos 2x = \cos^2 x - \sin^2 x$
+$= 2\cos^2 x - 1$
+
+$\sqrt{\frac{\cos 2x + 1}{2}} = \cos x$
+
+$\sin 2\frac{x}{2} = 2 \sin \frac{x}{2} \cos \frac{x}{2}$
+$= 4 \sin \frac{x}{2} \sqrt{\frac{\cos 2\frac{x}{2} + 1}{2}}$
+
+$\sin \frac{x}{2} = \frac{\sin \frac{x}{2}}{\sqrt{\cos 2\frac{x}{2} + 1}}$
+
+$\sin x = \sqrt{\frac{2 - \cos 2x}{2}} = \sqrt{\frac{1 - \cos^2 2x}{2\cos^2 x + 1}}$
+
+$\frac{1 + \cos^2 \frac{x}{2}}{2 - \cos^2 \frac{x}{2}} \text{ etc}$
+$\frac{2}{2} - \cos^2 \frac{x}{2} - \cos^2 \frac{x}{2}$
+
+2 *
+
+[del]$\cos 2x = \cos^2 x - \sin^2 x$[/del]
+$= 2\cos^2 x - 1$
+
+$\sqrt{\frac{1 + \cos 2x}{2}} = \cos x$
+
+$\sin 2x = 2 \sin x \cos x$
+
+[del]$\cos 2x = 4$[/del]
+
+[del]$\cos^2 2x = 1 - 2\sin^2 x$[/del]
+$\cos 2x = 1 - 2\sin^2 x$
+$\sin x = \sqrt{\frac{1 - \cos 2x}{2}}$
+
+$\cos x + \sqrt{1 - \cos^2 x} \cdot i$
+
+$2\cos^2 x - 1 + 2\cos x \sqrt{1 - \cos^2 x} \cdot i$
+
+$\sqrt{\frac{1 + \cos x}{2}} + \sqrt{\frac{1 - \cos x}{2}} \cdot i$
+
+$4\cos^2 x - 1 - 2\cos x$
+
+$2\cos^2 x - 1 - 2\cos x (1 - \cos x)$
+
+$(4\cos^2 x - 2\cos x - 1) \sqrt{\frac{1 + \cos x}{2}}$
+
+$2\cos^2 x - 1 + 2\cos x (1 + \cos x) \sqrt{\frac{1 - \cos x}{2}}$
+$= (4\cos^2 x + 2\cos x - 1) \sqrt{\frac{1 - \cos x}{2}}$
+
+$(ac)(ab)(ac)(ab) = (ab)(ac)(ab)(ac)$
+
+$(ac)(ab)(ac)(ab) = (ab)(ac)$
+
+$\cos^2 x + \frac{1}{2}\cos x = \frac{1}{4}$
+$\cos x = -\frac{1}{4} \pm \frac{\sqrt{5}}{4}$
+$\cos x = -\frac{1}{4} \mp \frac{\sqrt{5}}{4}$
+
+$\frac{\frac{\sqrt{5}}{4}}{\frac{5}{4}} = \frac{8}{5}$
+$-\frac{1}{4} + \frac{\sqrt{5}}{4}$
+
+$\begin{array}{c} (ad) \\ (ab)(cd) \\ \end{array} \begin{array}{c} d\ b\ c\ a \\ d\ b\ a\ c \\ d\ a\ c\ b \end{array}$
+$(ac)(bd)(ad) d\ c\ a\ b$
+
+$c\ d\ a\ b$
+$a\ d\ c\ b$ (ac)
+
+$b\ a\ c\ d$ (ab)
+
+$b\ c\ a\ d$ (ac)(ab)
+$b\ e\ d\ a$ (ad)(ab)(ac)
+
+$\frac{24}{18}$
+$19$
+
+$\begin{array}{c} b\ a\ c\ d \\ b\ d\ c\ a \\ b\ d\ a\ c \end{array}$
+
+$\begin{array}{c|c} (ab)(ac) & b\ a\ c\ d \\ (ad)(ac) & c\ b\ d\ a \end{array}$
+
+$(ab)(ac)$ $c\ a\ b\ d$
+$(ab)(ad)$ $d\ a\ c\ b$
+$(ac)(ab)$ $b\ c\ a\ d$
+$(ac)(ad)$ $d\ b\ c\ a$
+$(ad)(ab)$ $b\ d\ c\ a$
+$(ad)(ac)$ $c\ b\ d\ a$
+
+$(ac)(ab)(ac)$ $a\ c\ b\ d$
+$(ad)(ab)(ad)$ $a\ d\ c\ b$
+$(ab)(ac)(ab)$ $a\ c\ b\ d$
+$(ad)(ac)(ad)$ $a\ b\ d\ c$
+$(ab)(ad)(ab)$ $a\ d\ c\ b$
+$(ac)(ad)(ac)$ $a\ b\ d\ c$

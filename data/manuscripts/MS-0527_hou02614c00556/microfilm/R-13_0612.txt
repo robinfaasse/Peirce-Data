@@ -1,0 +1,47 @@
+[pn]171[/pn]
+
+might marry would be a woman; any beautiful woman would be an ineligible
+wife; any plain woman would be an ineligible wife. Let
+$m$ be any one whom I might marry,
+$b$, beautiful,
+$p$, plain,
+$w$, woman,
+$i$, ineligible.
+Then the premises are
+$m \prec (b \prec \mathbf{f}) \prec p$,
+$m \prec w$,
+$w \prec b \prec i$,
+$w \prec p \prec i$.
+Let $x$ be the conclusion. Then,
+$[m \prec (b \prec \mathbf{f}) \prec p] \prec (m \prec w) \prec (w \prec b \prec i) \prec (w \prec p \prec i) \prec x$
+is necessarily true. Now if we suppose $m = \mathbf{v}$, the proposition can only be
+made false by putting $w = \mathbf{v}$ and either $b$ or $p = \mathbf{v}$. In this case the proposition
+can only be made false by putting $i = \mathbf{v}$. If, therefore, $x$ can only be made $\mathbf{f}$ by
+putting $m = \mathbf{v}$, $i = \mathbf{f}$, that is if $x = (m \prec i)$ the proposition is necessarily true.
+
+In this method, we introduce the two special tokens of second intention
+$\mathbf{f}$ and $\mathbf{v}$, we retain two indices of tokens $x$ and $y$, and we have a somewhat
+complex [u]icon[/u], with a special prescription for its use.
+
+[marginalia]
+[del]3[/del] [ins]8[/ins] 7 A
+[/marginalia]
+
+A better method may be found as follows. We have seen that
+$x \prec (y \prec z)$
+may be conveniently written $x \prec y \prec z$;
+while $(x \prec y) \prec z$
+ought to retain the parenthesis. Let us extend this rule, so as to be more
+general, and hold it necessary [u]always[/u] to include the antecedent in parenthesis.
+Thus, let us write $(x) \prec y$
+instead of $x \prec y$. If now, we merely change the external appearance of two
+signs; namely, if we use the vinculum instead of the parenthesis, and the sign
+$+$ in place of $\prec$, we shall have
+$x \prec y$ written $\overline{x} + y$
+$x \prec y \prec z$ " $\overline{x} + \overline{y} + z$
+$(x \prec y) \prec z$ " $\overline{\overline{x} + y} + z$, etc.
+We may further write for $x \prec y$, $\overline{x} + y$ implying that $x + \overline{y}$ is an antecedent for
+
+[marginalia]
+[fig]pointing hand[/fig] This should read: [del]$\overline{\overline{x} + y} + z$[/del] [ins]$\overline{\overline{\overline{x} + y}} + z$[/ins]
+[/marginalia]

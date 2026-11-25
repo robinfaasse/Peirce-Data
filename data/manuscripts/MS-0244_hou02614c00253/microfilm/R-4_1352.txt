@@ -1,0 +1,13 @@
+$$U_{m+n} = P_{m,m+n-1} U_{m+n-1} - P_{m,m+n-2} U_{m+n-2} + \text{etc} \quad + T_m$$
+$$= Q_m$$
+[fig]wavy line[/fig]
+$$\underline{U_{m+n} = P_{m,n-1} U_{m+n-1} - P_{m,n-2} U_{m+n-2} + \text{etc} \quad + T_m}$$
+$$\underline{U_{m+n} = Q_{0,n-1} U_{n-1} + Q_{0,n}}$$
+$$\underline{U_{m+n} = P_{1,m+n-1} U_{m+n-1} - P_{2,m+n-2} U_{m+n-2} + \text{etc} \quad + T_m}$$
+$$U_{m+n} = Q_{m+1,n-1} U_{n-1} - Q_{m+2,n-2} U_{n-2} + \text{etc} \quad + T_{m+n}$$
+$$U_{m+n-1} = Q_{m,n-1} U_{n-1} - Q_{m+1,n-2} U_{n-2} + \text{etc} \quad + T_{m+n-1}$$
+$$U_{m+n-2} = Q_{m-1,n-1} U_{n-1} - Q_{m,n-2} U_{n-2} + \text{etc} \quad + T_{m+n-2}$$
+$$U_{m+n-3} = Q_{m-2,n-1} U_{n-1} - Q_{m-1,n-2} U_{n-2} + \text{etc} \quad + T_{m+n-3}$$
+
+$$[del]\text{by}[/del] \ Q_{m+1,n-1} = P_{1,m+n-1} Q_{m,n-1} - P_{2,m+n-2} Q_{m-1,n-1}$$
+$$Q_{m+2,n-2} =$$

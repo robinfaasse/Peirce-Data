@@ -1,0 +1,31 @@
+[marginalia]
+[date]1914 March 3[/date]
+page 1
+[/marginalia]
+
+If [ins]$\frac{d\rho}{S} = \frac{dr}{T}$[/ins]
+$\log g + P = \log r$
+
+$(\frac{T}{R})^2 + (\frac{2Z-z}{Z})^2 = 1$
+
+[del]$1 - (\frac{T}{R})^2 = (\frac{2Z-z}{Z})^2$[/del]  $(1 - \frac{z}{Z})^2 = 1 - (\frac{T}{R})^2$
+
+$\frac{2Z-z}{Z} = \sqrt{1 - (\frac{T}{R})^2}$  $1 - \frac{z}{Z} = \sqrt{1 - (\frac{T}{R})^2}$
+
+Is this $\frac{d\rho}{g} = \frac{dr}{r}$ satisfied by
+
+$z = Z - \frac{Z}{R} \sqrt{R^2 - r^2} = Z (1 - \sqrt{1 - (\frac{r}{R})^2})$
+
+and $g = r - \frac{dr}{dz} z + \sqrt{z^2 + 1 + (\frac{dr}{dz})^2 z^2}$
+
+$\frac{dz}{dr} = + \frac{1}{2} \frac{2r}{R \sqrt{R^2 - r^2}} = \frac{r}{R} \frac{\frac{r}{R}}{\sqrt{1 - (\frac{r}{R})^2}}$
+
+$\frac{dr}{dz} = \frac{1}{2} \frac{R}{Z} \frac{\sqrt{1 - (r/R)^2}}{r/R}$
+
+$\frac{dr}{dz} z = \frac{1}{2} R \frac{\sqrt{1 - (r/R)^2}}{r/R} - \frac{1}{2} R \frac{1 - (r/R)^2}{r/R}$
+
+$\sqrt{1 + (\frac{dr}{dz})^2} = \sqrt{1 + \frac{1}{4} (\frac{R}{Z})^2 \frac{1 - (r/R)^2}{(r/R)^2}}$
+
+$z \sqrt{1 + (\frac{dr}{dz})^2} = Z - $
+
+$1 + \frac{1}{4} \frac{R^2}{Z^2}$

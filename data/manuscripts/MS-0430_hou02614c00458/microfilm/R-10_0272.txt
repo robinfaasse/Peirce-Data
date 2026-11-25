@@ -1,0 +1,26 @@
+[pn]Logic
+III
+53[/pn]
+
+[marginalia]me, in [date]1880[/date][ins]*[/ins] I found this:[/marginalia]
+
+(56) If [del]x < a, and a < b[/del] then, if [del]x < b[/del],
+then [del]x < a < b[/del],
+whatever terms [del]x[/del], a, and b may be; and conversely,
+
+(57) if [del]x < a < b[/del],
+then [del]x < a and a < b[/del];
+
+(58) and if [del]x < a < b[/del],
+[del]x < b[/del].
+
+Now in order to show that, accepting these definitions, [del]x < y[/del]
+is equivalent to [del]x < y[/del], it [ins]will[/ins] suffice to show that assuming
+either to be true, the other is necessarily true. I will first show
+that if [del]x < y[/del] is true [del]x < y[/del] is true. By the definition
+of [del]c[/del] if [del]x < y[/del] then [del]x < c < y[/del]; and by the defi-
+nition of [del]c[/del], (or [del]instance[/del]) if [del]x < c < y[/del] then [del]x < y[/del]. It only remains to
+
+[marginalia]* The sufficiency of the definition was long in question. Schröder
+in the first volume of his Algebra der Logik denies it. It is, however,
+faultless, as will appear below.[/marginalia]

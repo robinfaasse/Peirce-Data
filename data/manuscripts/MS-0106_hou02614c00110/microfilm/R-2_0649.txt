@@ -1,0 +1,23 @@
+$$\sin \alpha \cos \beta = \frac{1}{16} \frac{2 x_{1} (s-q) + s^{2} - q^{2}}{\sqrt{(x_{1}^{2} + sq)^{2} - x_{1}^{2} (s+q)^{2}}}$$
+
+$$\cos \alpha \sin \beta = \frac{1}{16} \frac{2 x_{1} (s-q) - s^{2} + q^{2}}{\sqrt{(x_{1}^{2} + sq)^{2} - x_{1}^{2} (s+q)^{2}}}$$
+
+$$\begin{array}{l}
+x_{1}^{4} + s^{2} q^{2} \\
+- x_{1}^{2} s^{2} - x_{1}^{2} q^{2} \\
+\hline (s^{2} - x_{1}^{2}) (q^{2} - x_{1}^{2})
+\end{array}$$
+
+$$\sin (\alpha + \beta) = \frac{1}{4} \frac{x_{1} (s-q)}{\sqrt{(s^{2} - x_{1}^{2}) (q^{2} - x_{1}^{2})}}$$
+
+$$\sin (\alpha - \beta) = \frac{1}{8}$$
+
+$$(A+B)(C+D) \cdot (A-B)(C-D)$$
+
+$$AC + AD + BC + BD$$
+
+$$AC - AD [del]-[/del] [ins]+[/ins] BC + BD$$
+
+$$\frac{\sin (\alpha - \beta)}{\sin (\alpha + \beta)} = \frac{(s+x_{1})^{2} + (s-x_{1})^{2}}{} = \frac{s+q}{2} \frac{1}{x_{1}}$$
+
+$$\frac{s^{4} - s^{2} x_{1}^{2} + q^{4} - q^{2} x_{1}^{2}}{(q^{2} - x_{1}^{2})(s^{2} - x_{1}^{2})} = \frac{s^{4} + q^{4}}{(q^{2} - x_{1}^{2})(s^{2} - x_{1}^{2})} - x_{1}^{2} \frac{s^{2} - q^{2}}{(q^{2} - x_{1}^{2})(s^{2} - x_{1}^{2})}$$

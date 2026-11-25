@@ -1,0 +1,18 @@
+$$R = -\frac{R}{r} \sin\theta \cdot D_t e$$
+$$\frac{1}{r} D_\theta R = -\frac{R}{r^2} \cos\theta \cdot D_t e$$
+$$\Theta = r D_t \theta = c \cdot e^{-\sqrt{\frac{n}{2\mu'}} (r-R)} \sin\left\{\sqrt{\frac{n}{2\mu'}} (r-R) - nt\right\} \cos\theta$$
+$$D_r \Theta = -c \sqrt{\frac{n}{2\mu'}} e^{-\sqrt{\frac{n}{2\mu'}} (r-R)} \sin\left\{\sqrt{\frac{n}{2\mu'}} (r-R) - nt\right\} \cos\theta$$
+$$+ c \sqrt{\frac{n}{2\mu'}} e^{-\sqrt{\frac{n}{2\mu'}} (r-R)} \cos\left\{\sqrt{\frac{n}{2\mu'}} (r-R) - nt\right\} \cos\theta$$
+$$-\frac{\Theta}{r} = -\frac{c}{r} e^{-\sqrt{\frac{n}{2\mu'}} (r-R)} \sin\left\{\sqrt{\frac{n}{2\mu'}} (r-R) - nt\right\} \cos\theta$$
+
+At surface
+$$T_\theta = \rho\mu' \frac{1}{R} \cos\theta D_t e [del]\mp[/del] [ins]+[/ins] \rho\mu' c \sqrt{\frac{n}{2\mu'}} \sin nt \cdot \cos\theta$$
+$$-\rho\mu' c \sqrt{\frac{n}{2\mu'}} \cos nt \cdot \cos\theta [del]\mp[/del] [ins]-[/ins] \rho\mu' c \frac{1}{R} \sin nt \cdot \cos\theta$$
+$$= \rho\mu' \left(\frac{1}{R} - \sqrt{\frac{n}{2\mu'}}\right) D_t e \cdot \cos\theta - \rho[del]\mu'[/del] [ins]\sqrt{\frac{2\mu'}{n}}[/ins] D_t^2 e \cdot \cos\theta$$
+$$T_\theta \cos\theta = -\rho\mu' \sqrt{\frac{n}{2\mu'}} \cdot D_t e \cos^2\theta - \rho[del]\mu'[/del] [ins]\sqrt{\frac{2\mu'}{n}}[/ins] D_t^2 e \cdot \cos^2\theta$$
+$$\text{Force } 2\rho R \ell \sqrt{\frac{n\mu'}{2}} \cdot D_t e \int_{-\frac{1}{2}\pi}^{+\frac{1}{2}\pi} \cos^2\theta [del]d\theta[/del] - 2\rho R \ell \sqrt{\frac{2\mu'}{n}} \cdot D_t^2 e \int_{-\frac{1}{2}\pi}^{+\frac{1}{2}\pi} \cos^2\theta \cdot d\theta$$
+$$= \rho\pi R^2 \ell \cdot \frac{1}{R} \sqrt{\frac{n\mu'}{2}} D_t e - \rho\pi R^2 \ell \frac{1}{R} \sqrt{\frac{2\mu'}{n}} D_t^2 e$$
+$$k = \frac{1}{R} \sqrt{\frac{2\mu'}{n}} \quad k' = \left(\frac{2\mu'}{R^2} + \frac{1}{R} \sqrt{\frac{n\mu'}{2}}\right)$$
+
+Stokes gets
+$$k = \frac{2}{R} \sqrt{\frac{2\mu'}{n}} \quad k' = \frac{2}{R} \sqrt{\frac{2\mu'}{n}} + \frac{2}{R^2} \frac{\mu'}{n}$$

@@ -1,0 +1,34 @@
+[pn]FL[/pn] [pn]82[/pn]
+
+Putting Q = 0 P = 1
+(ad - bc)x - bn - dm = 0
+and so on.
+
+In the Algebra of Dyadic Relatives, we generally form
+either [u](u j v) (ṽ j w)[/u] or [u](u j v) ṽ w[/u]. Then the elimination take place thus:
+[u](u j v) (ṽ j w)[/u] ⤙ [u]u j v (ṽ j w)[/u] ⤙ [u]u j v ṽ j w[/u] ⤙ [u]u j T j w[/u] ⤙ [u]u j w[/u]
+[u](u j v) ṽ w[/u] ⤙ [u][(u j v) ṽ] w[/u] ⤙ [u][u j v ṽ] w[/u] ⤙ [u][u j T] w[/u] ⤙ [u]u w[/u]
+Sometimes, however, we have [u](u v) (ṽ w)[/u]. Then we only have a "spurious" conclusion
+[u](u v) (ṽ w)[/u] ⤙ [u][(u v) ṽ] w[/u] ⤙ [u][u (v ṽ)] w[/u] ⤙ [u]u T w[/u].
+
+There are cases in which instead of eliminating we wish to develop,
+that is to introduce a letter. Given [u]u w[/u] we have
+[u]u w[/u] ⤙ [u]u I w[/u] ⤙ [u]u (v j ṽ) w[/u] ⤙ [u]u v j ṽ w[/u].
+
+There is a considerable variety of [del]the[/del] special problems of con-
+siderable difficulty. But the easiest way is, when we come upon [del]them[/del]
+such, is to transform at once into the General Algebra of Logic.
+
+Let us now consider how the Algebra of Dyadic Relatives
+has to be modified to meet the case of a triadic relative. Here,
+in place of the relative and its converse, [u]l[/u]̌[sub]ij[/sub] = [u]l[/u][sub]ji[/sub], we have
+[del]six[/del] [ins]three[/ins] possible arrangements of the [ins]three[/ins] subjects. But these six [del]can[/del]
+all be reached by two independent operations upon any one. If
+for example we use the six operative symbols 1, A, B, C, D, E so that
+1 g[sub]ijk[/sub] = g[sub]ijk[/sub] A g[sub]ijk[/sub] = g[sub]ikj[/sub] B g[sub]ijk[/sub] = g[sub]jik[/sub] C g[sub]ijk[/sub] = g[sub]jki[/sub]
+D g[sub]ijk[/sub] = g[sub]kij[/sub] E g[sub]ijk[/sub] = g[sub]kji[/sub], then we have the following
+equations: 1A = A 1B = B 1C = C 1D = D 1E = E
+A1 = A A² = 1 AB = C AC = B AD = E AE = D
+B1 = B BA = D B² = 1 BC = E BD = A BE = C
+C1 = C CA = E CB = A C² = D CD = 1 CE = B C³ = 1
+D1 = D DA = B DB = E DC = 1 D² = C DE = A D³ = 1

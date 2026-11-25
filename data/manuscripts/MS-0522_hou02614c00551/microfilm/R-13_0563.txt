@@ -1,0 +1,66 @@
+[marginalia]
+Third Company
+First Squad
+[fig]Three-node directed graph[/fig]
+[fig]Five-node directed graph with circle[/fig]
+[fig]Six-node directed graph with circle[/fig]
+[/marginalia]
+
+[marginalia]
+Second Squad
+[fig]Five-node directed graph[/fig]
+[fig]Five-node directed graph[/fig]
+[fig]Six-node directed graph[/fig]
+[/marginalia]
+
+[marginalia]
+[fig]Four-node directed graph[/fig]
+If we solve
+[del]a[/del] [ins]b[/ins] < x < [u]x[/u]
+that is a solution of
+a < x < [u]x[/u]
+[fig]Four-node directed graph[/fig]
+[fig]Four-node directed graph[/fig]
+[/marginalia]
+
+[marginalia]
+[fig]Four-node directed graph[/fig]
+[fig]Four-node directed graph[/fig]
+[fig]Four-node directed graph[/fig]
+[/marginalia]
+
+[marginalia]
+[fig]Four-node directed graph[/fig]
+[fig]Four-node directed graph[/fig]
+[/marginalia]
+
+a < x < x
+x < y < a
+x < a + (a + u) [del]x[/del] [ins]y[/ins] + u
+x < [del]a + (a + u) y + u[/del]
+
+a < x < x
+x < y < a
+a < x < y
+
+To eliminate x
+This, he says, "gehört zu den einfachsten
+unter den schwierigen und zu den schwierigsten
+unter den einfachsten Eliminationsproblemen"
+
+But in fact, if there are more than
+3 individuals in the universe x cannot be
+eliminated.
+x < (x + y < x) < x < x + y
+[del]x[/del] < [del]$\Pi_i \Pi_k \Sigma_j \bar{a}_{ik} + y_{ij} \cdot y_{jk}$[/del]
+
+[del]$\frac{y_{ij} \cdot y_{jk}}{\Sigma_j y_{ij} \cdot y_{ji}}$[/del]
+If i is a or itself $\Sigma_j y_{ij} \cdot y_{ji}$
+This j is different from i
+[del]if j is[/del]
+
+[fig]Four-node graph with arrows[/fig]
+x < x
+x < x
+x < [u]x[/u]
+x < [u]x[/u]

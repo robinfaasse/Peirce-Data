@@ -1,0 +1,16 @@
+[pn]9[/pn]
+
+[ins]Each[/ins] [del]The[/del] play consists in occupying an unoccupied square, by the [ins]player's[/ins] putting his mark in it. The object aimed at is to occupy the three squares of a line, that is, one of the following triads:
+
+1, 2, 3;
+4, 5, 6;
+7, 8, 9;
+1, 4, 7;
+2, 5, 8;
+3, 6, 9;
+1, 5, 9;
+3, 5, 7.
+
+As soon as a player does this, he points at the three [ins]occupied squares[/ins], one by one, saying "tit" at the first, "tat" at the second, "toe" at the third. This is called "making tit-tat-toe," and wins the game.
+
+The mathematical analysis of the play consists in ascertaining the effects of the different ways of playing. It is accomplished by experiment. The first player has at the outset the choice of 9 squares, of which he can occupy any one; at the second play [del]there[/del] are only 8 to choose from; at the third play there are only 7, etc. And thus there are, only 9 x 8 x 7 x 6 x 5 x 4 x 3 x [del]2 x 1[/del] ways of filling the board; or 725760 ways in all. The performance of as many of these 725760 experiments as might be necess[del]ary[/del] to bring each

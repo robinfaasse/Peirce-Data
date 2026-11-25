@@ -1,0 +1,34 @@
+[marginalia]Morison's Bridge [date]1898 Sept[/date].[/marginalia]
+
+I now make the same changes in (28) and (29)
+
+Signs of ♡
+
+[fig]Coordinate axes with heart symbols labeled 1 to 6 in different quadrants[/fig]
+
+The change of coordinates will change the signs of ♡₁ ♡₂ ♡₃
+but [u]not[/u] of ♡₄ ♡₅ ♡₆.
+
+This will change sign of δx₁
+
+The change of signs of [del]P₀ P₂[/del] Y₂ will [ins]change the signs of [del]nothing[/del] [ins]ε₀ and ε₂[/ins][/ins]
+and the interchange of 0 and 2 involves change of sign of Ks and ks
+
+Changing coordinates [del]of (28)[/del]
+will change [del]Signs of Ks[/del] [ins]K₀ to -K₀[/ins]
+
+(28) with changed coordinate becomes
+
+- ♡₂ + [ins]♡₁[/ins] [del]♡₁[/del] [u](+ ε₀K₀ + β₀μ₀ + [pn]P₁[/pn])[/u] / -2ε₀K₀ - α₀λ₀ - β₀μ₀ - 1/Λ₀² - [pn]S₀[/pn] + [ins]♡₄[/ins] [del]♡₄[/del] [u](+ ε₀μ₀ + α₀K₀)[/u] / -2ε₀K₀ - α₀λ₀ - β₀μ₀ - 1/Λ₀² - [pn]S₀[/pn] + [ins]♡₃[/ins] [del]♡₃[/del] [u](+ ε₂Kᵢ + β₂μᵢ - [pn]S₁[/pn])[/u] / -2ε₂Kᵢ + α₂λᵢ + β₂μᵢ + 1/Λ₂² + [pn]P₁[/pn] + [ins]♡₆[/ins] [del]♡₆[/del] [u](- ε₂μᵢ + α₂Kᵢ)[/u] / -2ε₂Kᵢ + α₂λᵢ + β₂μᵢ + 1/Λ₂² + [pn]P₁[/pn]
+
++ { - μ₀/Λ₀² + α₀ [pn]S₀[/pn] / -2ε₀K₀ - α₀λ₀ - β₀μ₀ - 1/Λ₀² - [pn]S₀[/pn] + - μᵢ/Λ₂² - α₂ [pn]P₁[/pn] / -2ε₂Kᵢ + α₂λᵢ + β₂μᵢ + 1/Λ₂² + [pn]P₁[/pn] } δx₁
+
++ { + K₀/Λ₀² - ε₀ [pn]S₀[/pn] / -2ε₀K₀ - α₀λ₀ - β₀μ₀ - 1/Λ₀² - [pn]S₀[/pn] + Kᵢ/Λ₂² + ε₂ [pn]P₁[/pn] / -2ε₂Kᵢ + α₂λᵢ + β₂μᵢ + 1/Λ₂² + [pn]P₁[/pn] } δy₁ = 0
+
+Interchange 0 and 2 change signs of ε's in (28)
+
+♡₂ + [u](+ ε₂Kᵢ - β₂μᵢ - [pn]P₁[/pn]) ♡₃ + (- ε₂μᵢ + α₂Kᵢ) ♡₆[/u] / + 2ε₂Kᵢ - α₂λᵢ - β₂μᵢ - 1/Λ₂² - [pn]S₁[/pn] + [u](+ ε₀K₀ + β₀μ₀ + [pn]P₀[/pn]) ♡₁ + (+ ε₀μ₀ + α₀K₀) ♡₄[/u] / + 2ε₀K₀ + α₀λ₀ + β₀μ₀ + 1/Λ₀² + [pn]S₀[/pn]
+
++ { - μᵢ/Λ₂² - α₂ [pn]P₁[/pn] / + - μ₀/Λ₀² + α₀ [pn]S₀[/pn] / } δx₁ [ins]Shows these equations (28) is right[/ins]
+
++ { + Kᵢ/Λ₂² + ε₂ [pn]P₁[/pn] / + + K₀/Λ₀² - ε₀ [pn]S₀[/pn] / } δy₁ = 0

@@ -1,0 +1,114 @@
+Sheet 1
+Calculation of $\Theta t$ for $t=3$ $=4$ $=5$ $=6$ $=7$ $=8$ $=9$ $=10$
+
+[u]$t=3$ $t^2=9$[/u]
+$t^{-1}$ $0.3333333 = \frac{1}{2} 1\text{st term of } \beta$
+$0.5 \text{ last}$ $0.166666667$
+$t^{-2} \times \text{last}$ $0.0185185185$ $2\text{nd term of } \beta$
+$1.5 \text{ last}$ { $92592592$
+$0.0277777778$
+$t^{-2} \text{ last}$ $0.003086419753$ $3\text{rd term of } \beta$
+$2.5 \text{ last}$ { $77160493821$
+$0.008573388202$ $4\text{th term of } \beta$
+$3.5 \text{ last}$ { $25720164606$
+$4286694101$
+$30306858707$
+$t^{-2} \text{ last}$ $0.00033674095412$ $5\text{th term of } \beta$
+$4.5 \text{ last}$ { $1667047706$
+$166704771$
+$1833752477$
+$t^{-2} \text{ last}$ $0.000203750275$ $6\text{th term of } \beta$
+$5.5 \times \text{ last}$ { $881255229$
+$1018751875$
+$1120627063$
+$t^{-2} \times \text{ last}$ $0.000124514118$ $7\text{th term of } \beta$
+$6.5 \times \text{ last}$ { $747084708$
+$62257059$
+$809317767$
+$t^{-2} \times \text{ last}$ $0.000089926863$ $8\text{th term of } \beta$
+$7.5 \times \text{ last}$ { $22481718$ [del]25[/del]
+$674458147$
+$t^{-2} \times \text{ last}$ $0.000074939052$ $9\text{th term of } \beta$
+$8.5 \times \text{ last}$ { $674451468$
+$37469526$
+$636981942$
+$t^{-2} \times \text{ last}$ $0.000070775771$ $10\text{th term of } \beta$
+
+The next term of $\beta$ would be larger than the
+10th, since $t^2 < 9.5$. Consequently, the compu-
+tation cannot be carried further. Half the
+last term is reckoned in, only.
+
+$1\text{st term of } \beta$ $+0.3333333$ $0.3172981$
+[del]$2\text{nd term}$[/del] $-0.01851852$ $-0.00000899$
+$2\text{nd term}$ $-0.0185185$ $0.3172082$
+$+0.00000749$
+$3\text{rd term}$ $+0.0030864$ $0.3172831$
+$-0.00000354$
+$4\text{th term}$ $-0.0008573$ $0.3172477 = \beta$
+$0.3170439$
+$5\text{th term}$ $+0.0003334$ $-9.5013984 = \log \beta$
+$0.3173773$ $9.7514251 = \log \frac{1}{2}$
+$6\text{th term}$ $-0.0002037$ $96.0913497 = e^{-t^2}$
+$0.3171736$ $95.3441732 = \log (1-\Theta t)$
+$7\text{th term}$ $+0.0001245$ $4.6558268 = \log 1-\Theta t$
+$0.3172981$ $0.000022088521 = 1-\Theta t$
+$0.999977911479 = \Theta t$
+$= 1 - \frac{1}{45272}$ i.e. once in 45272 times
+[del]$\Theta t > 3$[/del]
+
+$\log \Theta = 0.4342944819$
+$t^2 \log e = 3.908650337$
+$t^2 \log e \times \log \Theta = 0.091349663$
+
+[u]$t=4$ $t^2=16$[/u]
+$t^{-1} = 0.25$
+$0.5 \text{ last}$ $0.125$
+$t^{-2} \text{ last}$ $0.0078125$
+$1.5 \text{ last}$ { $390625$
+$1071875$
+$t^{-2} \text{ last}$ $0.000669297$
+$2.5 \text{ last}$ $16732425$
+$t^{-2} \text{ last}$ $0.00010457765625$
+$3.5 \text{ last}$ { $366021796$
+$366021796$
+$t^{-2} \text{ last}$ $0.00002287636225$
+$4.5 \text{ last}$ { $2058872600$
+$102943630$
+$t^{-2} \text{ last}$ $0.000006433976875$
+$5.5 \text{ last}$ { $70773745625$
+$353868728125$
+$t^{-2} \text{ last}$ $0.00000221167955078$
+shift decimal point 5 spaces to left.
+$0.000000436553055$ [ins]Last $\times 6.5$[/ins]
+$14375917308070$ [ins]Last $\times 7.5$[/ins]
+$0.00000008984948175044 = t^{-2} \text{ last}$
+$224623704375$ [ins]Last $\times 8.5$[/ins]
+$9 \times$ $6738711131783$
+$0.00000002111694458052 = t^{-2} \text{ last}$
+$3578537825$ [ins]Last $\times 9.5$[/ins]
+$1436568425$
+$0.000000053799402893442$ [ins]Last $\times 10.5$[/ins]
+$0.00000002237462688402 = t^{-2} \text{ last}$
+$111873134420$ [ins]Last $\times 11.5$[/ins]
+$11 \times$ $2125589553982$
+$0.00000001328493471239 = t^{-2} \text{ last}$
+$664246735519$ [ins]Last $\times 12.5$[/ins]
+$1394918144791$
+$12 \times$ $0.0000000871823840494$
+$435911920247$ [ins]Last $\times 13.5$[/ins]
+$1002597416588$
+$16233853556$
+$13 \times \text{ term}$ $0.00000000626623385356 = t^{-2} \text{ last}$
+$78328792316950$ [ins]Last $\times 14.5$[/ins]
+$14 \times \text{ term}$ $0.000000004895495198094 = t^{-2} \text{ last}$
+$66015890065$ [ins]Last $\times 15.5$[/ins]
+$75115109215$
+$66090185174269$
+$0.000000041306365733918$
+$59885222030563$
+$59895423531741871$
+$0.0000000374338939463632$
+$57952390945$
+$58021025305619786296$
+$36264084761164$

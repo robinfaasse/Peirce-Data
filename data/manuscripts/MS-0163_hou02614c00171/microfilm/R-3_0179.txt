@@ -1,0 +1,97 @@
+[fig]Geometric diagram with lines and points labeled A, B, C, C-A, B-A, etc.[/fig]
+
+[marginalia]
+[del]A + qB - qC[/del]
+[del](1-x)B + xA - qC[/del]
+[del]-pxB[/del] xA + (1-x+px)C
+(p+q)x = 1
+x = [del]1[/del]/1-p-q
+[del]1/1-p-q A - 1/1-p-q B - q/1-p-q C[/del]
+[/marginalia]
+
+[marginalia]
+[del]pxB - qC[/del]
+[del]+(1-p)B[/del]
+[del]+(1-q)C[/del]
+1-p-q
+[/marginalia]
+
+[marginalia]
+(-2+p+q)A
++(1-q)B
++(1-p)C
+/ 1-p-q
+[/marginalia]
+
+[marginalia]
+xA + (1-xp)B - x(1-p)C
+[del]+[/del] xA = x(1-q)B + (1-x)C
+1 - x(p+q-1) = 0
+x = 1 / 1-p-q
+[del]1/1-p-q A + 1-p/1-p-q B + (p-1)C[/del]
+[del]1-p/1-p-q[/del]
+[del]2[/del] A + (q-p-1)B + (p-q-1)C / 1-p-q
+[/marginalia]
+
+[marginalia]
+(u-v)(v-w)(w-u)
+[del]w-u/u-v = -q[/del]
+[del]w = (1-q)u + qv[/del]
+[/marginalia]
+
+***
+
+[fig]Geometric diagram of a complete quadrangle with intersecting lines.[/fig]
+
+y-z / x-y = -p
+z = px + (1-p)y
+
+1 + y-z / x-y + w-u / u-v
+= xy - xu - yu + yu / xy - xu - yu + yu
+- xu - xv - yu + yv / -xu - xv - yu + yv
+- xu + zu + xw - yw / -xu + zu + xw - yw
+= 2(x-y)(u-v)A / u(y-z) + v(z-x) + w(x-y)
+
+[marginalia]
+- (u-w)(x-y) / (u-v)(y-z)
+- (u-w)(x-y) / (u-v)(y-z) + (v-z) + (z)
+u-w / u-v + y-z / x-y - [del]u-w/u-v[/del]
+= u(y-z) + v(z-x) + w(x-y) / (u-v)(y-z)
+[/marginalia]
+
+[fig]Geometric diagram with points A, B, C, B-A, C-A, etc.[/fig]
+
+[marginalia]
+(x-y)A
++ (y-z)B
++ (z-x)C
+[/marginalia]
+
+[marginalia]
+(v-w)A
++ (w-u)B
++ (u-v)C
+[/marginalia]
+
+[marginalia]
+(v-w)(u-v)A
++ (w-u)(u-v)B
++ (u-v)(u-v)C
+- (u-v)(v-w)A
+- (u-v)(w-u)B
+- (u-v)(u-v)C
+[/marginalia]
+
+[marginalia]
+(x-y)(u-v)A
++ (y-z)(u-v)B
++ (z-x)(u-v)C
+- (u-w)(x-y)A
+- (u-w)(y-z)B
+- (u-w)(z-x)C
+[/marginalia]
+
+[marginalia]
+(x-z)(u-v)(u-w)(A-C)
+u(y-z) + v(z-x) + w(x-y)
+[/marginalia]

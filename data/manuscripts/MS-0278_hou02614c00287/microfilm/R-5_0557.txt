@@ -1,0 +1,20 @@
+ALGEBRA OF WHOLE NUMBERS.
+
+[ins]Scholium 12.[/ins]
+[del]Art 34.[/del] [ins]Definition 3[/ins] We now proceed to the elementary algebraic [del]facts[/del] [ins]truths[/ins] about whole numbers [ins]including 0, which we will on account of its importance term the Cardinal Number[/ins]. The pupil is supposed to have learned arithmetic and to know that the remainder of a minuend left after subtracting a subtrahend merely [u]means[/u] that number to which the subtrahend being added the sum would be the minuend. Also, that the quotient of a dividend by a divisor merely [u]means[/u] that number which [del]added[/del] [ins]multiplied[/ins] by the divisor gives the dividend as product. Other things the pupil has learned in arithmetic are formally stated in Axioms 6, 7, 8, 9, 10.
+
+[u]Definition 38[/u]. By the [del]system[/del] [ins]cardinal[/ins] of [del]whole[/del] numbers we mean that simple, [del]wise[/del] sequence of numbers, which has 0, for its first object, and [ins]next[/ins] after any object has the next [del]greater[/del] [ins]or higher[/ins] number, and has no last object.
+
+[u]Axiom 6[/u]. The effect of substituting in a sum for either term (supposing it to be a whole number) the number next greater is to change the value of the sum to the number next greater.
+
+[u]Axiom 7[/u]. 0 + 0 = 0.
+
+[u]Theorem 10[/u]. [u]The sum of two whole numbers is a whole number[/u].
+
+[u]Demonstration[/u]. For, by Axiom 6, if this is true of any two numbers, it is true when for one of them we substitute the number next higher. But, by Axiom 7, it is true when both are 0. Hence, etc.
+
+[u]Theorem 11[/u]. [ins](The Commutative Principle)[/ins] [u]Addition is a commutative mode of combination[/u].
+
+[u]Demonstration[/u]. Let X and Y be any two whole numbers. Then I [del]say[/del] [ins]mean[/ins] that X+Y = Y+X.
+[del]For suppose there be a number N, at least as[/del] [ins]or particular[/ins]
+[del]For suppose this is true when X has a certain[/del] great as Y, such that if X=N the proposition is true. That is, N+Y = Y+N. Then, by Axiom 6, if N' be the number next greater than N, Y+N' is the number next greater than Y+N. Also, by Axiom 6, N'+Y is the number next greater than N+Y. But N+Y = Y+N; and there can be but one number next greater than another [ins]by Definition 20[/ins] because the [del]object[/del] [ins]being[/ins] in a sequence of any two one is greater than the other, while to be next greater is to be greater without [del]being greater than anything greater[/del]. Hence N'+Y = Y+N'. That is if the proposition is true for X when X equals a number [del]at least[/del] as great as Y, it is true when X has the value next greater. But Y is the [del]least number as great as Y, and for X=Y it is true by Corollary 6. Hence, it is true whenever X is any[/del] [ins]two numbers of which one is at least as great as the other, that is, of any two whatever.[/ins]

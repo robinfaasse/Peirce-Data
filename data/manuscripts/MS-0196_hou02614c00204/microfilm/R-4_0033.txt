@@ -1,0 +1,19 @@
+Again we know that the sides of a regular hexagon [del]are [unclear]eq[/unclear][/del] [ins]inscribed[/ins] in a circle are equal to the radius. Hence, if one of the vertices is at $i$, the first vertex to the right of the axis of $Y$ has [del]$x = \frac{1}{2}$, $y = \sqrt{1 - (\frac{1}{2})^2} = \frac{\sqrt{3}}{2}$[/del]; so that $i$ should be the cube of
+
+[fig]Regular hexagon inscribed in a circle[/fig]
+
+[del]$\frac{1}{2} (1 + \sqrt{3} i)$[/del], $\frac{1}{2} (\sqrt{3} + i)$
+
+Let us try.
+
+[del]$\frac{1}{2^3} (1 + \sqrt{3} i)^3 = \frac{1}{8} (1 + 3 \sqrt{3} i + 9 i^2 + 3 \sqrt{3} i^3)$[/del]
+$\frac{1}{2^3} (\sqrt{3} + i)^3 = \frac{1}{8} (3 \sqrt{3} + 9 i + 3 \sqrt{3} i^2 + i^3)$
+$= \frac{1}{8} (3 \sqrt{3} + 9 i - 3 \sqrt{3} - i)$
+$= \frac{1}{8} (8 i) = i$.
+
+In order to prove that this is always so, we must get an algebraical expression for an arc of the circle. Suppose we had the value of the arc $YP$ for a known value of $x$, namely $x = QP$. Of course, the circle being of unit radius, $y = \sqrt{1 - (QP)^2}$. Let us find how much longer the arc will be for $x = Q'P' = QP + RP'$, where $RP'$ is [ins]a very[/ins] infinitely small quantity $d$. We shall have,
+
+[fig]Geometric diagram of circle arc and coordinates[/fig]
+
+[del]$x^2 = $[/del] $(x + d)^2 = x^2 + 2 x d + d^2$.
+$y' = \sqrt{1 - (x+d)^2} = \sqrt{1 - [del]x^2[/del] - 2 x d - d^2}$

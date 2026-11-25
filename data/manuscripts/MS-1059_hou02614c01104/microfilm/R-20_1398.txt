@@ -1,0 +1,40 @@
+[fig]spherical triangle[/fig] Great circle from [ins]Lat[/ins] 42° Long 60°
+to 51 10
+
+$\frac{1}{2}$ A 25°
+b 48
+c 39 cot 0.32150 0.32150
+$\frac{1}{2}$(b-c) 4.5 sin 8.89464 9.99866
+$\frac{1}{2}$(b+c) 43.5 sin 9.83781 9.86056
+$\frac{1}{2}$(B-C) 6.460 9.05395 0.18072
+$\frac{1}{2}$(B+C) 56.591 sin 9.05119 cos 9.99723
+B 63.051 sin 9.92159 9.74085
+C 50.131 0.87038 9.74362
+889598 9.97725
+197440 9.76637
+9.76636 9.72087
+
+9.87107 9.79887
+9.95007 9.88509
+9.92100 9.91378
+
+$\cos a = \cos b \cos c + \sin b \sin c \cos A$
+$\cos a - \sin b \sin c \cos A = \cos b \cos c$
+$\cos^2 a - 2 \cos a \sin b \sin c \cos A$
+$+ \sin^2 b \sin^2 c \cos^2 A = \cos^2 b \cos^2 c - \cos^2 b \sin^2 c$
+
+$\sin^2 c \left( \cos^2 b + \sin^2 b \cos^2 A \right) - 2 \cos a \sin b \sin c \cos A$
+$= \cos^2 b - \cos^2 a$
+
+$\sin^2 c - 2 \frac{\cos a \sin b \cos A}{\cos^2 b + \sin^2 b \cos^2 A} \sin c = \frac{\cos^2 b - \cos^2 a}{\cos^2 b + \sin^2 b \cos^2 A}$
+
+$\cos^2 a \sin^2 b \cos^2 A + \cos^4 b - \cos^2 a \cos^2 b$
+$+ \sin^2 b \cos^2 b \cos^2 A$
+$- \cos^2 a \sin^2 b \cos^2 A$
+
+$\cos^2 b \left( \cos^2 b - \cos^2 a + \sin^2 b \cos^2 A \right)$
+$+ \cos^2 A - \cos^2 b \cos^2 A$
+$\cos^2 b \left( \sin^2 a - \sin^2 b \sin^2 A \right)$
+
+$\sin c = \frac{\cos a \sin b \cos A \pm \cos b \sqrt{\sin^2 a - \sin^2 b \sin^2 A}}{\cos^2 b + \sin^2 b \cos^2 A}$
+$1 - \sin^2 A \sin^2 b$

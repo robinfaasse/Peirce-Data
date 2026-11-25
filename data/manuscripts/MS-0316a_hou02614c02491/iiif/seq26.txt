@@ -1,0 +1,41 @@
+[fig]diagram[/fig] [fig]diagram[/fig]
+[fig]diagram[/fig]
+[fig]diagram[/fig]
+
+[fig]diagram[/fig]
+AB [u]A[/u]  [del]ABAB[/del]    4
+AC    [ins]B[/ins]  3
+AD  / ABAB[ins]D[/ins]  ABABABS  Diff 2 / \ Same 1
+BA ( 6 ABAC[ins]B[/ins]  ABAB  Diff 2  1 [del]3 Diff[/del]
+BC  \ ABAD[ins]B[/ins]  1 [del]4[/del] 3 Diff 0  / \ / \  Same 4
+BD   C   2 1 3 2 1
+CA  [u]       [/u]
+CB  / ABCA[ins]B[/ins]  2 Diff 4 · 3 = 12 [del]24[/del]  Same 0
+CD ( 7 ABCB[ins]D[/ins]  3 Diff 12 · 2 = 24  Same = 12 · 1 = 12
+DA  \ ABCD[ins]B[/ins]  4 Diff 24 · 2 + 12[ins]· 3[/ins] = 84 [del]3[/del] Same = 24 · 1 = 24
+DB  [u]       [/u] [u]       [/u]
+DC  12  / ABDA[ins]B[/ins]  5 Diff 84[del]60[/del] · 2 + 24 · 3 = 240  5 colors
+  ( 7 ABDB[ins]D[/ins]  [del]U[sub]n+1[/sub] = U[sub]n[/sub][/del]  U[sub]n+1[/sub] = U[sub]n[/sub]
+48  \ ABDC[ins]B[/ins]  [fig]diagram[/fig]
+36   A I  U[sub]n+1[/sub] = 5 U[sub]n[/sub] + 4 U[sub]n[/sub]
+84  20   A[sub]1[/sub] = 0 I[sub]1[/sub] = 1
+  12  168  A[sub]n+1[/sub] = 2 · A[sub]n[/sub] + 3 I[sub]n[/sub] I[sub]n+1[/sub] = A[sub]n[/sub] [fig]diagram[/fig]
+  240  72  A[sub]n+1[/sub] - 2 I[sub]n+1[/sub] Same Diff
+   240
+[fig]diagram[/fig]  16   [fig]diagram[/fig]  [fig]diagram[/fig]
+  16   [fig]diagram[/fig]
+  144
+  [fig]diagram[/fig]
+a² + 4a + 4 [del]70[/del]8  [fig]diagram[/fig]
+a + 2   272
+2   [fig]diagram[/fig] [fig]diagram[/fig]
+x - ½ a = ± [u]a + 2[/u]  Same Diff
+  2  diff [fig]diagram[/fig]
+[del]x = (a-1) ± 1[/del]  [fig]diagram[/fig]  [fig]diagram[/fig]
+  2  B
+x² - ax = a + 1  [fig]diagram[/fig]  A 3ⁿ + (-1)ⁿ =
++ ¼ a² = ¼ a² + a + 1  Same diff
+U[sub]n+1[/sub] = 2 U[sub]n[/sub] + 3 U[sub]n[/sub]  [fig]diagram[/fig]  A + B = 4
+U[sub]n+1[/sub] = 2 U[sub]n[/sub] + 3 U[sub]n-1[/sub]  3A - B = 0
+x² - 2x = 3 x - 1 = ± 2  x = 3ⁿ + (-1)ⁿ
+ + 1 = 4 x = 3 x = -1  x =

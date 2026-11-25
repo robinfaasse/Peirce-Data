@@ -1,0 +1,54 @@
+[pn]237[/pn]
+
+since there are no free extremities, if $X$ be the number of
+edges having hammata and $H$ be the number of hammata,
+the sum of the valencies of the hammata is $2X-N$. But if $X'$
+is the [ins]number[/ins] [del]sum[/del] of the edges at which there are no hammata, and $K$
+[del]the number then[/del] cycloses, the total station-number of the edges
+is [del]$X$[/del] [ins]$X'$[/ins]$-K$. Hence, according to the theorem the station number
+of the whole linear configuration is $([del]X[/del] [ins]$X'$[/ins]$-C)-(2X-N) = N-X+X'-C$.
+But since there are no furcations [ins]no free extremities[/ins] [del]except[/del] where there are hammata,
+[del]and[/del] all the edges having no hammata are simple ovals,
+and $C-X'$. Hence, the station number of the whole line is
+$N-(X+X'-C)$, that is it is the number [ins]or chorisis[/ins] of ham-
+mata, or say their station-number, less the [ins]total[/ins] [del]station[/del]-number of
+the edges. Thus we see that if [del]there[/del] a hamma is placed at
+every furcation and free extremity (perhaps elsewhere besides)
+the station number of the whole line is that of the hammata
+diminished by that of the edges.
+
+Exercises. Give the station numbers of the fol-
+lowing configurations, the valencies of the hammata, and the station
+numbers of the portions.
+
+[fig]Circle with two nodes[/fig]
+$-2, 4$
+
+[fig]Two concentric circles with two nodes[/fig]
+$-1, 7$
+
+[fig]Grid of 3x3 lines with nodes[/fig]
+$-8, 4$
+
+[fig]Grid of 4x4 lines with nodes[/fig]
+$-16, 48$
+
+[fig]Central node with radiating lines and loops[/fig]
+$0, 9$
+
+[fig]Circle with one node[/fig]
+$0, 2$
+
+[fig]Circle with inscribed Y shape[/fig]
+$-2, 8$
+
+[fig]Square with inscribed square and diagonal lines[/fig]
+$-4, 16$
+
+[fig]Figure eight shape[/fig]
+$-1, 3$.
+
+[fig]Circle with two internal nodes and arrows[/fig]
+$3, 3$.
+
+Figs. 123-132.

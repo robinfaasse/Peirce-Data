@@ -1,0 +1,47 @@
+4. There are 4 planes meeting in a ray.
+will they cut all other rays in the same
+anharmonic ratio?
+
+[fig]Diagram showing four planes intersecting along a common axis, with a line cutting through them.[/fig]
+
+Let the planes cut in the axis of z
+
+Their equations
+[align=left]
+y = 0
+y = 0
+y = tan \alpha . x
+y = tan \beta . x
+[/align]
+
+In what ratio do they cut the line
+[align=left]
+z = 0 [del]x[/del] [ins]\frac{x}{A}[/ins] + \frac{y}{B} = 1
+y = tan \alpha . x
+\frac{1}{A} + \frac{tan \alpha}{B} = \frac{1}{x}
+x = \frac{1}{\frac{1}{A} + \frac{tan \alpha}{B}}
+y = \frac{1}{\frac{1}{tan \alpha . A} + \frac{1}{B}}
+[/align]
+
+[align=center]
+\sqrt{(A - \frac{1}{\frac{1}{A} + \frac{tan \alpha}{B}})^2 + (\frac{1}{\frac{1}{A tan \alpha} + \frac{1}{B}})^2}
+[/align]
+
+[align=center]
+\sqrt{(A - \frac{1}{\frac{1}{A} + \frac{tan \beta}{B}})^2 + (\frac{1}{\frac{1}{B tan \beta} + \frac{1}{B}})^2}
+[/align]
+
+[del]\frac{A^2 tan^2 \beta}{(B + A tan \beta)^2} + \frac{B^2 tan^2 \beta}{(1 + tan \beta)^2}[/del]
+[del]\frac{A^4 tan^2 \beta (1 + tan \beta)^2 + B^4 tan^2 \beta + 2 A B^3 tan^3 \beta + A^2 B^2 tan^4 \beta}{(A^4 + B^4) tan^2 \beta + 2 A (A^2 + B^2) tan^3 \beta + A^2 (A^2 + B^2) tan^4 \beta}[/del] \sqrt{A^2 + B^2}
+
+[del]\sqrt{(A - \frac{AB}{B + A tan \beta})^2 + (\frac{B^2 tan \beta}{B + A tan \beta})^2}[/del]
+
+[del]\sqrt{\frac{1}{A}}[/del]
+
+[align=right]
+\sqrt{A^2 + B^2}
+[/align]
+
+[align=right]
+\sqrt{(\frac{1}{\frac{1}{A} + \frac{tan \alpha}{B}})^2 + (B - \frac{1}{\frac{1}{A tan \alpha} + \frac{1}{B}})^2}
+[/align]

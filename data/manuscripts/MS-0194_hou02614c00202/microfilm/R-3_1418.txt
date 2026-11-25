@@ -1,0 +1,39 @@
+[marginalia]
+$\sin(x+y) = \sin x \cos y + \sin y \cos x$
+$= (\tan x + \tan y)$
+[/marginalia]
+
+$$\sin \frac{b-c}{2} =$$
+$$\sin \frac{b}{2} \cos \frac{c}{2} - \cos \frac{b}{2} \sin \frac{c}{2}$$
+$$= (\tan \frac{b}{2} - \tan \frac{c}{2}) \cos \frac{b}{2} \cos \frac{c}{2}$$
+
+$$\sin \frac{a}{2}$$
+$$\frac{\sin \frac{a}{2}}{\cos \frac{b}{2} \cos \frac{c}{2}}$$
+
+$$\frac{\sin^2 \frac{a}{2} - \sin^2 \frac{b-c}{2}}{\sin b \sin c} = \sin^2 \frac{A}{2}$$
+
+$$\frac{\sin^2 \frac{b+c}{2} - \sin^2 \frac{a}{2}}{\sin b \sin c} = \cos^2 \frac{A}{2}$$
+
+[fig]Triangle sketch[/fig]
+
+$$\tan^2 \frac{A}{2} = \frac{1 - \frac{\sin^2 \frac{b-c}{2}}{\sin^2 \frac{a}{2}}}{\frac{\sin^2 \frac{b+c}{2}}{\sin^2 \frac{a}{2}} - 1}$$
+
+$$\tan^2 \frac{A}{2} = \frac{1 - (\frac{b-c}{a})^2}{(\frac{b+c}{a})^2 - 1}$$
+
+$$a^2 = b^2 + c^2 - 2bc \cos A$$
+$$= b^2 + c^2 - 2bc (1 - 2\sin^2 \frac{A}{2})$$
+$$= (b-c)^2 + 4bc \sin^2 \frac{A}{2}$$
+$$= (b+c)^2 - 4bc \cos^2 \frac{A}{2}$$
+
+$$\frac{a^2 - (b-c)^2}{2bc} =$$
+$$\frac{b^2 + c^2 - a^2}{2bc} =$$
+
+[fig]Triangle sketch[/fig]
+
+$$\sin^2 \frac{A}{2} = \frac{a^2 - (b-c)^2}{4bc}$$
+$$\cos^2 \frac{A}{2} = \frac{(b+c)^2 - a^2}{4bc}$$
+
+$$\sin \frac{b}{2} \cos \frac{c}{2} - \sin \frac{c}{2} \cos \frac{b}{2}$$
+$$\tan \frac{b}{2}$$
+
+[fig]Shaded triangle sketch[/fig]

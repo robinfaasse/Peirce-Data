@@ -1,0 +1,19 @@
+Logic
+III
+60
+(84) ($\underline{x} \smallsmile y) \smallsmile y$ is equivalent to asserting that either $\underline{x}$ or $y$ is true.
+For by (66) and (76) if either $\underline{x}$ or $y$ is true ($\underline{x} \smallsmile y) \smallsmile y$ is true.
+If ($\underline{x} \smallsmile y) \smallsmile y$ is true, by (65), either $y$ is true or ($\underline{x} \smallsmile y)$ is false,
+and in the latter case, by (64), $\underline{x}$ is true.
+(85) [($\underline{x} \smallsmile y) \smallsmile y] \smallsmile y$ is equivalent to $\underline{x} \smallsmile y$.
+For, by [del](76)[/del] [ins](84)[/ins], if $\underline{x}$ is true [del]$\underline{x} \smallsmile y$ is true[/del] [($\underline{x} \smallsmile y) \smallsmile y]$ is true. Hence,
+by contraposition, if [del]$\underline{x}$ is true $\underline{x} \smallsmile y$ is true[/del] [ins]y[ins][del] [($\underline{x} \smallsmile y) \smallsmile y] \smallsmile y$ is
+true, $\underline{x} \smallsmile y$ is true. [ins]Again,[/ins] [del]Further[/del] by (76) if ($\underline{x} \smallsmile y)$ is true [($\underline{x} \smallsmile y) \smallsmile y] \smallsmile y$
+is true.
+(86) ($\underline{x} \smallsmile y) \smallsmile \underline{x}$ is equivalent to $\underline{x}$.
+For if $\underline{x}$ is true, [ins]by (66)[/ins] ($\underline{x} \smallsmile y) \smallsmile \underline{x}$ is true; and if ($\underline{x} \smallsmile y) \smallsmile \underline{x}$ is
+true, for by (65), $\underline{x} \smallsmile y$ is not true unless $\underline{x}$ is true, and
+if $\underline{x} \smallsmile y$ is not true $\underline{x}$ is true. Hence if ($\underline{x} \smallsmile y) \smallsmile \underline{x}$ is true, $\underline{x}$
+is true. Hence, (86).
+(87) $\{[(\underline{x} \smallsmile y) \smallsmile y] \smallsmile z\} \smallsmile z$ is equivalent to $[\underline{x} \smallsmile (y \smallsmile z) \smallsmile z] \smallsmile (y \smallsmile z) \smallsmile z$.
+For, by (84), each is equivalent to asserting that $\underline{x}$ or $y$ or $z$ is true.

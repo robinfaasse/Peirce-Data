@@ -1,0 +1,45 @@
+[fig]Diagram of seven overlapping circles numbered 1 to 7[/fig] [u]To add a new region[/u] 0
+
+If no summit is cut off
+Adds 2 edges bordering on new 0
+Adds 1 edge not bordering on 0
+Adds 2 [ins]like[/ins] summits on 0
+
+---
+
+[fig]Diagram of overlapping circles[/fig] If one summit is cut off
+3 summits on 0 added
+Adds 3 edges bordering on [del]0[/del] [ins]0[/ins]
+
+---
+
+[fig]Diagram of overlapping circles with dashed lines[/fig] If 2 summits are cut off
+Adds 4 summits on 0
+Adds 4 edges on 0
+Cuts off 1 edge not on 0
+
+---
+
+[fig]Two diagrams of overlapping circles[/fig] If 3 summits are cut off
+[del]the 1st way[/del]
+Adds 3 summits on 0
+Adds 3 edges on 0
+Cuts off 3 edges not on 0
+Cuts off 1 region
+
+[fig]Diagram of overlapping circles with dashed lines[/fig] [u]2nd Way[/u]
+Adds 5 summits on 0
+Adds 5 edges on 0
+Cuts off 2 edges not on 0
+
+[fig]Three diagrams of overlapping circles and intersecting lines[/fig] [u]3rd Way[/u]
+Adds 7 summits on 0
+Adds 7 edges on 0
+Cuts off [del]3[/del] [ins]1[/ins] edge not on 0
+Adds 1 region
+
+[u]4th Way[/u]
+Adds 9 summits on 0
+Adds 9 edges on 0
+Cuts off 0 edge not on 0
+Adds 2 regions

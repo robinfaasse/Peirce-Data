@@ -1,0 +1,36 @@
+[pn]193[/pn]
+
+necessarily involves a single letter being logically impossible
+has this exception. It does not hold good if the formula
+involves an infinite number of letters. Suppose, for example,
+
+Q = [u]A|P[/u] | [u]B|A|P[/u] | [u]C|B|A|P[/u] | [u]et cetera ad infinitum[/u].
+
+If P in this formula represents a formula logically neces-
+sary, Q is logically impossible. Consider, as another
+illustration [ins]the following[/ins] series of finite formulae:
+
+[del]A|A | A|A|B|B[/del]
+
+[del]that is, either[/del] [u]A|A[/u]
+
+that is, [del]either[/del] A follows from A, or either A is false or
+A is true. This is logically necessary. Next,
+
+[u]A|A[/u] | [u]B|B[/u],
+
+that is, either A does not follow from A (that is either A is
+[del]at once true and false[/del]) or B follows from B. This is also
+necessary, because of the necessary consequent [u]B|B[/u].
+
+Next take [u]A|A[/u] | [u]B|B[/u] | [u]C|C[/u],
+
+that is, either A is at once true and false, or B is at once
+true and false or C is either true or false. This also is
+is logically necessary, because after the series of [del]im-[/del]
+[del]poss[/del] absurd alternatives, a necessary consequent comes
+at the end. But next take
+
+[u]A|A[/u] | [u]B|B[/u] | [u]C|C[/u] | [u]D|D[/u] | [u]et cetera ad infinitum[/u].
+
+This series of absurd alternatives [u]has no end[/u], and consequently

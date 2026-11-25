@@ -1,0 +1,18 @@
+[pn]147[/pn]
+
+We first divide the last row by 7, making it,
+$\begin{matrix} -1 & 0 & 1 & 2 & 3 & 4 & 5 & \frac{H}{7} \end{matrix}$
+
+We substitute for Colum III, III - 4 II (i.e. col III diminished by 4 times col II)
+for Col IV, IV - II - VI.
+for Col V, V - 4 VI.
+
+We thus get
+$\begin{matrix} 5 & 0 & 1 & 0 & 0 & 0 & -17 & a \\ 0 & 1 & 0 & 0 & 0 & 0 & 0 & b \\ 1 & -4 & -9 & 0 & 1 & 0 & 0 & c \\ 0 & 1 & 0 & 5 & 0 & 1 & 0 & d \\ 0 & 0 & 1 & 0 & -9 & -4 & 1 & e \\ 0 & 0 & 0 & 0 & 0 & 1 & 0 & f \\ -13 & 0 & 0 & 0 & 1 & 0 & 11 & g \\ -1 & 0 & 1 & -2 & 19 & 4 & 5 & \frac{H}{7} \end{matrix}$
+
+Now for Row IV substitute 2. IV + 5 VIII which will make it
+$\begin{matrix} -5 & 2 & 5 & 0 & 95 & 22 & 25 & 5\frac{H}{7} + 2d \end{matrix}$
+
+All the numbers in Column IV are now zero except the [del]eighth[/del] [ins]fourth[/ins]. We therefore
+erase the $4^{\underline{\text{th}}}$ column and $8^{\underline{\text{th}}}$ row and get
+$\begin{matrix} 5 & 0 & 1 & 0 & 0 & -17 & a \\ 0 & 1 & 0 & 0 & 0 & 0 & b \\ 1 & -4 & -9 & 1 & 0 & 0 & c \\ -5 & 2 & 5 & 95 & 22 & 25 & 5\frac{H}{7} + 2d \\ 0 & 0 & 1 & -9 & -4 & 1 & e \\ 0 & 0 & 0 & 0 & 1 & 0 & f \\ -13 & 0 & 0 & 1 & 0 & 11 & g \end{matrix}$

@@ -1,0 +1,32 @@
+notes throughout either of these 2 groups of observations ought to differ considerably less among themselves than they differ from the other group; and your $g$ should come out nearly uniform, but always too small. The error of the time of falling, should be so to the time, [del]if[/del] [ins]as[/ins] you find it.
+
+e.g., if the $r$ of the new series of the hands be $r_1$ & $r_2$ [del]$[:: r_1 > r > r_2]$[/del] [ins]$[:: r_1 > r'' > r_2]$[/ins], and if we assume the law
+$D_t r \propto - (r - r_2) \quad \therefore r = r_2 + (r_1 - r_2) e^{-\frac{t}{T}}$
+$\therefore$ observed mean rate $= \frac{1}{t} \int_0^t r dt = r_2 + (r_1 - r_2) \frac{T}{t} (1 - e^{-\frac{t}{T}})$,
+which, when $T = \frac{2}{3}$ & $t = (0, 2, 4, \quad 1, 3, 5 \text{ etc} \quad )$,
+[del]or when $r_1 = \dots$[/del] [ins]$\doteq r_2 + (0, .16, .25 \quad .48, .78, .87 \quad ) (r_1 - r_2)$;[/ins]
+then $r' = \frac{98.5}{98.3} r_2 + \frac{1.5}{98.3} r_1 \doteq r_2 + \frac{r_1 - r_2}{64}$
+& $r'' = \frac{25}{80} r_1 + \frac{75}{80} r_2$
+would differ 4 times as widely from each other, as [del]each[/del] [ins]the[/ins] off-hand [del]any[/del] member of its group, and over twice as widely as $r''$ does [del]from[/del] [ins]from[/ins] [del]the[/del] [ins]either[/ins]. [del]This is a little[/del] [del]Don't quite like this. The thing (1) is yet assumed on physical grounds, though[/del] [del]some other law might give better agreement.[/del]
+Have not yet examined the one on the [fig]sketch of a pendulum[/fig]
+
+Yours J. E. Oliver.
+
+P. S. 6. Have just finished that article.
+I think Zöllner's theory can apply to cases under pretty much the same conditions, like Herschel's; for I did [del]not[/del] find that that light given out in burning $1$ gr. of H. or CO was larger [del]nearly[/del] [ins]nearly[/ins] by [del]half[/del] [ins]one half[/ins] than [del]that[/del] [ins]the[/ins] [del]of[/del] [ins]given by[/ins] $1$ gr. of C. But B. is very careful not to include this case (pp. 237-8, trs.); & for the rest, he may be all right.
+
+Obs. rate $= r_2 + (r_1 - r_2) \frac{T}{t - t_0} ( e^{-\frac{t_0}{T}} - e^{-\frac{t}{T}} )$
+Putting $T = \frac{2}{3} \quad t_1 = 4^s \quad t_2 = 2^s \quad \frac{T}{t_1 - t_0} ( e^{-\frac{t_0}{T}} - e^{-\frac{t_1}{T}} ) = .016$
+
+[u]Fall[/u] [u]Coeff. of $(r_1 - r_2)$[/u]
+$08 - 02$ $.86$
+$18 - 08$ $.79$
+$32 - 18$ $.72$
+$50 - 32$ $.64$
+$02 - 00$ $.95$
+
+$(r_1 - r_2) \doteq .020$
+[u]Fall[/u]
+$08 \quad 02$
+$18 \quad 08$
+$32 \quad 18$

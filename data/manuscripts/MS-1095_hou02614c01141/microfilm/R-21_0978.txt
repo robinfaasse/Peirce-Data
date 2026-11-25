@@ -1,0 +1,29 @@
+[pn]200[/pn]
+
+$C_1 \sin \mathfrak{c}_1 + C_2 \sin \mathfrak{c}_2 = 0$
+
+$C_1 \sqrt{\frac{g}{\lambda} + 2a} \cos \mathfrak{c}_1 + C_2 \sqrt{\frac{g}{\lambda}} \cos \mathfrak{c}_2 = 0$
+
+$C_1 = p \cos q$  [del]$C_2 = p \cos q$[/del]  $C_2 = p' \cos q'$
+
+$C_1 \sqrt{\frac{g}{\lambda} + 2a} = p \sin q$  $C_2 \sqrt{\frac{g}{\lambda}} = p' \sin q'$
+
+[del]or[/del]
+
+$p \sin (\mathfrak{c}_1 + q) + p' \sin (\mathfrak{c}_2 + q') = 0$
+
+$p \sin (\mathfrak{c}_1 - q) + p' \sin (\mathfrak{c}_2 - q') = 0$
+
+$p \sin (\mathfrak{c}_1 + q) = - p' \sin (\mathfrak{c}_2 + q')$
+
+$p \sin (\mathfrak{c}_1 - q) = - p' \sin (\mathfrak{c}_2 - q')$
+
+$\frac{\tan \mathfrak{c}_1 + \tan q}{\tan \mathfrak{c}_1 - \tan q} = \frac{\tan \mathfrak{c}_2 + \tan q'}{\tan \mathfrak{c}_2 - \tan q'}$
+
+[del]$\tan \mathfrak{c}_1 \tan \mathfrak{c}_2 - \tan \mathfrak{c}_1 \tan q' + \tan \mathfrak{c}_2 \tan q - \tan q \tan q'$[/del]
+
+$= \tan \mathfrak{c}_1 \tan \mathfrak{c}_2 + \tan \mathfrak{c}_1 \tan q' - \tan \mathfrak{c}_2 \tan q - \tan q \tan q'$
+
+$\tan \mathfrak{c}_1 \tan q' = \tan \mathfrak{c}_2 \tan q$
+
+$\frac{\tan \mathfrak{c}_1}{\tan \mathfrak{c}_2} = \frac{\sqrt{\frac{g}{\lambda} + 2a}}{\sqrt{\frac{g}{\lambda}}}$

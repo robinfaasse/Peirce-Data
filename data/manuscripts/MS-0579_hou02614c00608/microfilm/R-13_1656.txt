@@ -1,0 +1,27 @@
+[u]General forms with 5 copulas[/u]
+
+I  $U \prec \{V \prec [W \prec (X \prec (Y \prec Z)) ]\}$
+II  $U \prec \{V \prec [W \prec ((X \prec Y) \prec Z) ]\}$
+III  $U \prec \{V \prec [(W \prec X) \prec (Y \prec Z) ]\}$
+IV  $U \prec \{V \prec [(W \prec (X \prec Y)) \prec Z ]\}$
+V  $U \prec \{V \prec [((W \prec X) \prec Y) \prec Z ]\}$
+VI  $U \prec \{(V \prec W) \prec [X \prec (Y \prec Z) ]\}$
+VII  $U \prec \{(V \prec W) \prec [(X \prec Y) \prec Z ]\}$
+VIII  $U \prec \{[V \prec (W \prec X)] \prec (Y \prec Z) \}$
+IX  $U \prec \{[(V \prec W) \prec X] \prec (Y \prec Z) \}$
+X  $U \prec \{[V \prec (W \prec (X \prec Y))] \prec Z \}$
+XI  $U \prec \{[W \prec ((W \prec X) \prec Y)] \prec Z \}$
+XII  $U \prec \{[(V \prec W) \prec (X \prec Y)] \prec Z \}$
+XIII  $U \prec \{[(V \prec (W \prec X)) \prec Y] \prec Z \}$
+XIV  $U \prec \{[((V \prec W) \prec X) \prec Y] \prec Z \}$
+XV  $(U \prec V) \prec \{W \prec [X \prec (Y \prec Z) ]\}$
+XVI  $(U \prec V) \prec \{W \prec [(X \prec Y) \prec Z ]\}$
+XVII  $(U \prec V) \prec [(W \prec X) \prec (Y \prec Z) ]$
+XVIII  $(U \prec V) \prec \{[W \prec (X \prec Y)] \prec Z \}$
+XIX  $(U \prec V) \prec \{[(W \prec X) \prec Y] \prec Z \}$
+XX  $[U \prec (V \prec W)] \prec [X \prec (Y \prec Z) ]$
+XXI  $[U \prec (V \prec W)] \prec [(X \prec Y) \prec Z ]$
+XXII  $[(U \prec V) \prec W] \prec [X \prec (Y \prec Z) ]$
+XXIII  $[(U \prec V) \prec W] \prec [(X \prec Y) \prec Z ]$
+XXIV  $\{U \prec [V \prec (W \prec X)]\} \prec (Y \prec Z)$
+XXV  $\{U \prec [(V \prec W) \prec X]\} \prec (Y \prec Z)$

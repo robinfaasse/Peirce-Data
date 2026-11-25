@@ -1,0 +1,22 @@
+Knife-edge; $L$, the length of the corresponding simple pendulum; so that
+
+$$\frac{T^2}{\pi^2} = \frac{L}{g} \text{ .}$$
+
+Then we have
+
+$$\frac{[del]T^2 + 2 T \Delta T + \Delta^2[/del]}{\pi^2} [del]\frac{T'^2}{\pi^2}[/del] = \frac{L}{g} \cdot \frac{M L H - 2 m h (r+h) \omega}{M H - 2 m h \omega}$$
+$$= \frac{L}{g} \left\{ 1 + 2 \frac{m}{M} \frac{h}{H} \left( 1 - \frac{r+h}{L} \right) \omega \right\} \text{ .}$$
+
+If the pendulum has any number of joints, the effect of each being very small, their combined effect is the sum of the effects by the above formula.
+
+[fig]Diagram of a pendulum with multiple joints and segments[/fig]
+
+$$\begin{aligned}
+h'_1 &= L - r_2 \\
+h'_1 &= r_2 - r_1 - h_1 \\
+h'_2 &= r_3 - r_2 - h_2 \\
+r' + h' &= L - r - h \\
+h' &= L - r - r' - h
+\end{aligned}$$
+
+$$L - r$$

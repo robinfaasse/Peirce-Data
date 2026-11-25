@@ -1,0 +1,36 @@
+$$t^3 - \Sigma r_i^2 \cdot t^2$$
+$$+ \frac{1}{4} \Sigma (r_i r_j \sin_{ij})^2 t -$$
+
+$$\frac{1}{12} r_1 r_2 r_3 \sin_{12} \sin_{23} \sin_{31}$$ [del]$\frac{1}{12} r_1 r_2 r_3 \sin \binom{12}{3}$[/del]
+
+[fig]crossed out geometric diagram[/fig]
+
+$$\frac{1}{6} r^3$$
+
+$$\frac{4}{9} \Theta r^3$$
+
+$$\frac{1}{2} \Sigma r^2$$
+$$\frac{1}{9} (\Sigma r)^2$$
+
+---
+
+$$\left( \begin{aligned} a + b + c \\ a + \beta b + \gamma c \\ a + \beta^2 b + \gamma^2 c \end{aligned} \right)$$
+$$3a$$
+
+$$\begin{aligned} a^2 + \beta b^2 + \gamma^2 c^2 - \gamma ab - \beta ac - bc \\ a^2 + \beta^2 b^2 + \gamma c^2 - \beta ab - \gamma ac - bc \\ a^2 + b^2 + c^2 - ab - ac - bc \end{aligned}$$
+
+$$3a^2 - 3bc$$
+
+$$a^3 + b^3 + c^3 - 3abc$$
+
+$$t^3 - 3At + 3B^2 t - C^3 = 0$$
+
+$$A = a$$
+$$B^2 = a^2 - bc$$
+$$A^2 - B^2 = bc$$
+$$A^3 - AB^2 = abc$$
+$$3(A^3 - AB^2) = 3abc$$
+[del]$3(A^3 - AB^2) + C^3 = a^3 + b^3 + c^3$[/del]
+
+$$A^2 - B^2 = bc$$
+$$2A^3 - 3AB^2 + C^3 = a^3 + b^3 + c^3$$

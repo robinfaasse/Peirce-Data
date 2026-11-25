@@ -1,0 +1,24 @@
+Then [del]W_n^N[/del] [ins]W_n^N[/ins] according as
+[del]Then[/del] On the whole, a different notation is
+preferable.
+
+The [u]fund[/u] is a collection of objects, each object having
+some one, and only one, of the descriptions, $A_0$, $A_1$,
+$A_2$, etc. The number of objects of any descrip-
+tion $A_i$ is $a_i$. The descriptions are so num-
+bered that if $i \leqq j$, $a_i \leqq a_j$.
+
+Let [pn](n)[/pn] be that value of $i$ such that
+$n > a_{\textcircled{n}}$ [del]$n \leqq a_{\textcircled{n}+1}$[/del] [ins]$n \leqq a_{\textcircled{n}+1}$[/ins]
+
+Two sets of objects drawn from the fund are
+said to be of the same description if, and only if,
+taking [del]no matter[/del] [ins]any[/ins] what one of the descriptions $A_0, A_1,$ etc
+the numbers of objects of that description contained in
+the two sets are equal.
+
+Let $W_{n,N}$ be the [del]sets of $n$ objects drawn from the fund[/del] [ins]number of [del]different[/del] [ins]possible[/ins] [del]descri[/del] [ins]different[/ins] descriptions[/ins]
+[del]sets being of different descriptions[/del] of sets of $n$ objects that can be drawn from the fund
+(independently of one another, i.e. using, if necessary, the same
+object in different sets) without using any object of
+description $A_i$ if $i > N$.

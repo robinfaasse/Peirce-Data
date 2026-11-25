@@ -1,0 +1,23 @@
+[pn]Logic
+III
+80[/pn]
+
+is scriptible, [u]y[/u]⤙[u]z[/u] is scriptible. Thus, if [u]x[/u]⤙[u]y[/u]⤙[u]z[/u] is scrip-
+tible, either [u]x[/u]⤙[u]z[/u] or [u]y[/u]⤙[u]z[/u] is scriptible; which completes the
+proof of (82).
+
+[pn](83)[/pn] To assert ([u]x[/u]⤙[u]y[/u])⤙[u]z[/u] to be scriptible is equivalent to asserting
+that both [u]y[/u]⤙[u]z[/u] and ([u]x[/u]⤙[u]z[/u])⤙[u]z[/u] are scriptible.
+
+For, by (65), if [u]y[/u] is scriptible, so is [u]x[/u]⤙[u]y[/u]; whence, by (66)
+[u]y[/u]⤙[u]z[/u]⤙[u]x[/u]⤙[u]y[/u] is always scriptible. Whence by contraposition
+[del]([u]y[/u]⤙[u]z[/u])⤙[u]z[/u]⤙[u]y[/u]⤙[u]z[/u][/del] [del]([u]x[/u]⤙[u]y[/u]⤙[u]z[/u])⤙[u]y[/u]⤙[u]z[/u] is scriptible, and by (66), if ([u]x[/u]⤙[u]y[/u])⤙[u]z[/u][/del]
+is scriptible, so is [u]y[/u]⤙[u]z[/u]. Moreover, by (64), either [u]x[/u]⤙[u]y[/u] is
+scriptible or [u]x[/u] is scriptible. But, by (66), ([u]x[/u]⤙[u]y[/u])⤙[u]z[/u] being
+scriptible, if [u]x[/u]⤙[u]y[/u] is scriptible, [u]z[/u] is scriptible. Hence if
+([u]x[/u]⤙[u]y[/u])⤙[u]z[/u] is scriptible, either [u]x[/u] or [u]z[/u] is so, when, by (60),
+([u]x[/u]⤙[u]z[/u])⤙[u]z[/u] is scriptible. Thus, if ([u]x[/u]⤙[u]y[/u])⤙[u]z[/u] is scriptible, both
+[u]y[/u]⤙[u]z[/u] and ([u]x[/u]⤙[u]z[/u])⤙[u]z[/u] are so. On the other hand, if ([u]x[/u]⤙[u]z[/u])⤙[u]z[/u]
+is scriptible, by (79), either [u]x[/u] or [u]z[/u] is scriptible. But if [u]x[/u]
+is scriptible, then by (66) if [u]x[/u]⤙[u]y[/u] is scriptible, [u]y[/u] is scriptible;
+whence, again by (66), [u]y[/u]⤙[u]z[/u] being scriptible, [u]z[/u] is scriptible.

@@ -1,0 +1,42 @@
+[pn]2[/pn]
+
+[marginalia]
+Calculation which has to be made.
+
+$\tan Q = \tan I \sin (\alpha - \Omega)$
+
+$\tan p = - \frac{\sin Q}{\cos (Q - \delta)} \cot (\alpha - \Omega)$
+
+$\tan l = \tan (Q - \delta) \cos p$
+
+$\sin l' = \sin i \cos \beta \sin (\lambda - \Omega) - \cos i \sin \beta$
+
+$a' = \frac{a r}{\rho}$  $a'' = a' \times .665$  $b' = a' \sin l$  $b'' = b' \times .665$
+
+
+Take [date]1876 Jan 0[/date] Here $T - 1800 = 76.000603$
+[date]1877 Jan 0[/date] is 365 days later
+$T - 1800 = 77.000603 - .000685 = 77.000082$
+
+$\cos u = \sin p \text{ cosec } I \cos \delta$
+
+[del]1879 Jan 1 76.001206[/del]
+
+$\begin{array}{r} 79.000685 \\ 603 \\ \hline 79.001288 \end{array} = \text{[date]Jan 1, 1879[/date]}$
+$\begin{array}{r} 0.000603 \end{array} \ \ \ \ \ \text{[date]Jan 1, 1860[/date]}$
+
+[fig]handwritten calculation with fractions[/fig]
+[/marginalia]
+
+Different formulas
+for the probable error
+taken from Encke Jahrbuch [date]1834[/date] p 293
+
+$e_n = \frac{\eta [A^n]}{m}$
+
+$\begin{aligned} r &= 0.845347 \ e_1 \left\{ 1 \pm \frac{0.509584}{\sqrt{m}} \right\} \\ &= 0.674489 \ e_2 \left\{ 1 \pm \frac{0.476936}{\sqrt{m}} \right\} \\ &= 0.577190 \ e_3 \left\{ 1 \pm \frac{0.497199}{\sqrt{m}} \right\} \\ &= 0.512502 \ e_4 \left\{ 1 \pm \frac{0.550719}{\sqrt{m}} \right\} \\ &= 0.465583 \ e_5 \left\{ 1 \pm \frac{0.635508}{\sqrt{m}} \right\} \\ &= 0.429497 \ e_6 \left\{ 1 \pm \frac{0.755776}{\sqrt{m}} \right\} \end{aligned}$
+
+The general formula is
+$\begin{aligned} r &= \rho \sqrt[2n]{\frac{2}{(2n-1)!!^2}} \ e_n \left\{ 1 \pm \frac{\rho}{\sqrt{m}} \frac{\sqrt{2}}{n} \sqrt{\frac{(2n-1) \cdot (2n-3) \cdots 1}{2^n} - 1} \right\} \begin{cases} \text{when} \\ n \\ \text{is} \\ \text{even} \end{cases} \\ &= \rho \sqrt[2n]{\frac{2^n}{(2n-1)!!^2 \cdots 1}} \ e_n \left\{ 1 \pm \frac{\rho}{\sqrt{m}} \frac{\sqrt{2}}{n} \sqrt{\frac{(2n-1) \cdot (2n-3) \cdots 1}{2^n} - \frac{1}{2}} \right\} \begin{cases} \text{when} \\ n \\ \text{is} \\ \text{even} \end{cases} \end{aligned}$
+
+Here $\rho = 0.476936$

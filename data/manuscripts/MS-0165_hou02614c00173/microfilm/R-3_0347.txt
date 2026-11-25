@@ -1,0 +1,19 @@
+[pn]100[/pn]
+
+[u]Art. 45.[/u]
+
+[del]Art[/del] [u]Problem 4 To find the greatest common divisor of several numbers.[/u]
+
+[u]Solution[/u]. Find the greatest common divisor of any two, and then the greatest common divisor of the number so found and any third of the given numbers, and so on until all have been used, when the [ins]last[/ins] greatest common divisor, so ascertained, will be the divisor required.
+
+[marginalia]
+Example
+6019530
+16313115
+5111106
+80290
+[/marginalia]
+
+[u]Demonstration[/u]. Let A, B, C, D, etc be the given numbers. Let K be the greatest common factor of A and B. Then, every divisor [del]of that[/del] common to A and B is a divisor of K. Let I be the greatest common divisor of K and C; then, every number which divides A, B, and C divides K and C, and therefore I. Thus, the last divisor divides all the numbers A, B, C, etc. Conversely, whatever divides [del]greatest common divisor[/del] divides the two numbers of which it is the greatest common divisor; and thus, whatever divides the last greatest common divisor so found, divides all the numbers A, B, C, etc. Consequently, this number is the greatest common divisor of them all.
+
+[del]Example[/del] [ins]Exercise[/ins], 36. Find the greatest common divisor of 80290, 5111106, 6019530, 16313115.

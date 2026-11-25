@@ -1,0 +1,36 @@
+46.
+
+otherwise stated as follows:
+	1st, if [u]x[/u] [fig]figure[/fig] [u]x[/u] has not always the same value, its value must
+be that of [u]x[/u]; and 2ndly, if [u]x[/u] [fig]figure[/fig] [u]x[/u] always has the same value,
+the sign must be commutative.	Although, as a general rule,
+I do not approve of demonstrations in dichotomic algebra, [del]since[/del]
+[ins]I insert between the
+leaves a briefer
+proof to be substi-
+tuted for this in
+printing.
+1903 Feb/15[/ins] they can only consist in examining every possible case, yet [ins]*[/ins]
+perhaps it will be well to prove [ins]That this is the condition sine qua non of associativeness.[/ins] this.  First if [u]v[/u] [fig]figure[/fig] [u]v[/u] = [u]v[/u]
+and [u]f[/u] [fig]figure[/fig] [u]f[/u] = [u]f[/u], we have
+	[u]v[/u] [fig]figure[/fig] ([u]v[/u] [fig]figure[/fig] [u]v[/u]) = [u]v[/u] [fig]figure[/fig] [u]v[/u]	([u]v[/u] [fig]figure[/fig] [u]v[/u]) [fig]figure[/fig] [u]v[/u] = [u]v[/u] [fig]figure[/fig] [u]v[/u]
+	[u]f[/u] [fig]figure[/fig] ([u]f[/u] [fig]figure[/fig] [u]f[/u]) = [u]f[/u] [fig]figure[/fig] [u]f[/u]	([u]f[/u] [fig]figure[/fig] [u]f[/u]) [fig]figure[/fig] [u]f[/u] = [u]f[/u] [fig]figure[/fig] [u]f[/u].
+		In order to compare [u]v[/u] [fig]figure[/fig] ([u]v[/u] [fig]figure[/fig] [u]f[/u]) and ([u]v[/u] [fig]figure[/fig] [u]v[/u]) [fig]figure[/fig] [u]f[/u] =
+[u]v[/u] [fig]figure[/fig] [u]f[/u], we remark that either [u]v[/u] [fig]figure[/fig] [u]f[/u] = [u]v[/u] or [u]v[/u] [fig]figure[/fig] [u]f[/u] = [u]f[/u]. In
+the former case, [u]v[/u] [fig]figure[/fig] ([u]v[/u] [fig]figure[/fig] [u]f[/u]) = [u]v[/u] [fig]figure[/fig] [u]v[/u] = [u]v[/u] and ([u]v[/u] [fig]figure[/fig] [u]v[/u]) [fig]figure[/fig] [u]f[/u] =
+[u]v[/u] [fig]figure[/fig] [u]f[/u] = [u]v[/u].	In the latter case
+	[u]v[/u] [fig]figure[/fig] ([u]v[/u] [fig]figure[/fig] [u]f[/u]) = [u]v[/u] [fig]figure[/fig] [u]f[/u] = [u]f[/u] and ([u]v[/u] [fig]figure[/fig] [u]v[/u]) [fig]figure[/fig] [u]f[/u] = [u]v[/u] [fig]figure[/fig] [u]f[/u] = [u]f[/u].
+Obviously also [u]f[/u] [fig]figure[/fig] ([u]f[/u] [fig]figure[/fig] [u]v[/u]) = ([u]f[/u] [fig]figure[/fig] [u]f[/u]) [fig]figure[/fig] [u]v[/u]; [u]f[/u] [fig]figure[/fig] ([u]v[/u] [fig]figure[/fig] [u]v[/u]) =
+[fig]figure[/fig] ([u]f[/u] [fig]figure[/fig] [u]v[/u]) [fig]figure[/fig] [u]v[/u] and [u]v[/u] [fig]figure[/fig] ([u]f[/u] [fig]figure[/fig] [u]f[/u]) = ([u]v[/u] [fig]figure[/fig] [u]f[/u]) [fig]figure[/fig] [u]f[/u].
+		If [u]v[/u] [fig]figure[/fig] [u]f[/u] = [u]f[/u] [fig]figure[/fig] [u]v[/u] = [u]v[/u], then
+[u]v[/u] [fig]figure[/fig] ([u]f[/u] [fig]figure[/fig] [u]v[/u]) = [u]v[/u] [fig]figure[/fig] [u]v[/u], ([u]v[/u] [fig]figure[/fig] [u]f[/u]) [fig]figure[/fig] [u]v[/u] = [u]v[/u] [fig]figure[/fig] [u]v[/u].
+		If [u]v[/u] [fig]figure[/fig] [u]f[/u] = [u]v[/u], [u]f[/u] [fig]figure[/fig] [u]v[/u] = [u]f[/u], then
+[u]v[/u] [fig]figure[/fig] ([u]f[/u] [fig]figure[/fig] [u]v[/u]) = [u]v[/u] [fig]figure[/fig] [u]f[/u] = [u]v[/u], ([u]v[/u] [fig]figure[/fig] [u]f[/u]) [fig]figure[/fig] [u]v[/u] = [u]v[/u] [fig]figure[/fig] [u]v[/u] = [u]v[/u].
+		If [u]v[/u] [fig]figure[/fig] [u]f[/u] = [u]f[/u], [u]f[/u] [fig]figure[/fig] [u]v[/u] = [u]v[/u], then
+[u]v[/u] [fig]figure[/fig] ([u]f[/u] [fig]figure[/fig] [u]v[/u]) = [u]v[/u] [fig]figure[/fig] [u]v[/u] = [u]v[/u], ([u]v[/u] [fig]figure[/fig] [u]f[/u]) [fig]figure[/fig] [u]v[/u] = [u]f[/u] [fig]figure[/fig] [u]v[/u] = [u]v[/u].
+		If [u]v[/u] [fig]figure[/fig] [u]f[/u] = [u]f[/u] [fig]figure[/fig] [u]v[/u] = [u]f[/u], then
+[u]v[/u] [fig]figure[/fig] ([u]f[/u] [fig]figure[/fig] [u]v[/u]) = [u]v[/u] [fig]figure[/fig] [u]f[/u] = [u]f[/u], ([u]v[/u] [fig]figure[/fig] [u]f[/u]) [fig]figure[/fig] [u]v[/u] = [u]f[/u] [fig]figure[/fig] [u]v[/u] = [u]f[/u].
+Hence in any case, [u]v[/u] [fig]figure[/fig] ([u]f[/u] [fig]figure[/fig] [u]v[/u]) = ([u]v[/u] [fig]figure[/fig] [u]f[/u]) [fig]figure[/fig] [u]v[/u]; and by parity of
+reasons [u]f[/u] [fig]figure[/fig] ([u]v[/u] [fig]figure[/fig] [u]f[/u]) = ([u]f[/u] [fig]figure[/fig] [u]v[/u]) [fig]figure[/fig] [u]f[/u]; Thus in any cases if
+[fig]figure[/fig] * [ [ins]printer see
+after these[/ins] Attached footnote [del]s[/del] [ins]of[/ins] pages ]

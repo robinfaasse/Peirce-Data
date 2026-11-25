@@ -1,0 +1,33 @@
+[pn]92[/pn]
+
+[u]Logic Symmetrical, or commutative.[/u]
+
+(57) $x \ \Upsilon \ y = \overline{x} \cdot \overline{y} = \overline{x} \cdot y = (x \prec y) \prec y$.
+
+This is the operation of Aggregation. It is commutative:
+
+(58) If $x \ \Upsilon \ y$, then necessarily $y \ \Upsilon \ x$.
+
+It is associative:
+
+(59) If $x \ \Upsilon \ (y \ \Upsilon \ z)$, then necessarily $(x \ \Upsilon \ y) \ \Upsilon \ z$;
+
+(60) If $(x \ \Upsilon \ y) \ \Upsilon \ z$, then necessarily $x \ \Upsilon \ (y \ \Upsilon \ z)$.
+
+[del]Other fo[/del] It follows the important rule
+
+(61) If $(x \ \Upsilon \ y) \cdot z$, then $x \ \Upsilon \ (y \cdot z)$.
+
+Other formulae are:
+
+(62) Necessarily, $x \ \Upsilon \ \overline{x}$.
+
+(63) $(x \ \Upsilon \ y) \cdot z = (x \cdot z) \ \Upsilon \ (y \cdot z)$
+
+(64) If $x \ \Upsilon \ y$, then if $y \prec z$, necessarily $x \ \Upsilon \ z$.
+
+(65) If $x \ \Upsilon \ y$, then if $y \cdot z$, necessarily $x \ \Upsilon \ z$.
+
+[del]$x \ \Upsilon \ y = x \cdot y = x \cdot \overline{y} = x \cdot y \prec f = \overline{x} \cdot y$.[/del]
+
+Aggregation may be formally defined in three clauses, as follows:

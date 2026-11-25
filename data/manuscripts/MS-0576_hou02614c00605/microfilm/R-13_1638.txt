@@ -1,0 +1,43 @@
+In either case we must have fundamental operations
+which convert either into the other.
+
+Suppose $a \prec b$
+
+Then let us suppose that $+$ denotes such an operation that
+$$x + a = b$$
+
+If $a = b$ then let the special form $x$ takes be $0$.
+$$0 + a = a$$
+$$0 + b = b$$
+
+And we may assume that $0 = 0$
+
+If $y + b = c$
+and $x + a = b$
+we may write $y + (x + a) = c$
+& then if we have written $z + a = c$ we may write
+$$y + x = z$$ whence $y + (x + a) = (y + x) + a$
+
+If we have had reason to write
+[del]$x + a = b$[/del] $y + x = z$
+and [del]$x + c = d$[/del] $y + u = v$
+then we may conveniently write
+$$w + x = u$$
+$$w + z = v$$
+
+$$v = y + w + x$$
+$$v = w + y + x$$
+$$y + w = w + y$$
+
+[marginalia]
+$i = mj$
+$i = mxj$
+[del]$x + i = y + j$[/del]
+$x + mi = y + j$
+[/marginalia]
+
+[fig]Concentric oval contours[/fig]
+
+[fig]Two intersecting curved lines[/fig]
+
+[fig]Array of Y-shaped symbols and letters[/fig]

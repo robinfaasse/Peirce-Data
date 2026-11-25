@@ -1,0 +1,28 @@
+of the copula. Thus, the $A$ and $B$ may be identical.
+$A \prec A$ is scriptible by I and II.
+
+Next, it may depend on I alone. If $Z$ is
+scriptible $Y \prec Z$ is scriptible and consequently
+$X \prec (Y \prec Z)$ is scriptible and so on indefinitely.
+
+Next it may depend on II and III. Thus, if
+$A \prec (A \prec B)$ is scriptible $A \prec B$ is scriptible.
+For by III if $A \prec (A \prec B)$ and $A$ are scriptible
+$A \prec B$ is scriptible, and if $A$ is not scriptible
+by II $A \prec B$ is scriptible.
+
+Next, it may depend on I, II, and III. Thus,
+if $A \prec (B \prec C)$ is scriptible $B \prec (A \prec C)$ is scriptible.
+For if $A \prec (B \prec C)$ is scriptible and $A$ is not scriptible
+then by [ins]I and[/ins] II $B \prec (A \prec C)$ is scriptible. But if $A \prec (B \prec C)$
+and $A$ are both scriptible then by III $B \prec C$ is
+scriptible. And if $B$ is not scriptible by II $B \prec (A \prec C)$
+is scriptible, but if $B \prec C$ and $B$ are both scriptible
+then by III $C$ is scriptible and if $C$ is scriptible
+by I [del]$B \prec (A \prec C)$[/del] [ins]$B \prec (A \prec C)$[/ins] is scriptible.
+
+The following also depends on all three. If
+$A$ is scriptible, then $(A \prec B) \prec B$ is scriptible. For
+if $B$ is scriptible by I $(A \prec B) \prec B$ is scriptible. But
+by II either $(A \prec B) \prec B$ or $A \prec B$ is scriptible and by III
+if both $A$ and $A \prec B$ are scriptible, $B$ is scriptible.

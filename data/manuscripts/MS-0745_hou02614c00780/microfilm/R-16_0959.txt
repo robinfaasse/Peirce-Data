@@ -1,0 +1,14 @@
+a problem in the Boolian algebra.
+
+In dual relatives, there are four species of propositions:
+$$\Pi_i \Pi_j u_{ij} \quad \Sigma_i \Pi_j u_{ij} \quad \Pi_j \Sigma_i u_{ij} \quad \Sigma_i \Sigma_j u_{ij}.$$
+
+We have, in general,
+$$\Pi_i \Pi_j = \Pi_j \Pi_i$$
+$$\Sigma_i \Sigma_j = \Sigma_j \Sigma_i$$
+$$\Sigma_i \Pi_j \prec \Pi_j \Sigma_i.$$
+
+The last is the most important formula of logic.
+But we have
+$$\Sigma_i \Pi_j u_i v_j = \Pi_j \Sigma_i u_i v_j$$
+$$\Sigma_i \Pi_j (u_i + v_j) = \Pi_j \Sigma_i (u_i + v_j).$$

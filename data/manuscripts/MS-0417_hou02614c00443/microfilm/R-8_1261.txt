@@ -1,0 +1,28 @@
+[pn]346[/pn]
+
+[del]2. Every piece striped with red and orange is also
+striped with blue and yellow, and vice versa.[/del]
+It is required to eliminate yellow, and to express
+the conclusion in terms of green (by W. B. Grove.)
+
+Let $w$ mean The piece [ins]spoken of[/ins] is striped with white,
+$g$ " " " " [ins]green[/ins] [del]with yellow[/del],
+$b$ " " " " with black,
+$y$ " " " " with yellow,
+$r$ " " " " with red and orange,
+$c$ [del]b[/del] [del]y[/del] " " " " with blue.
+
+The first observation consists really of two; first, that
+no matter what piece be taken
+$\bar{w} + \bar{g} + b \cdot y$
+Second, that no matter what piece be taken
+$\bar{y} + \bar{b} + w \cdot g$
+The second observation has likewise two parts; first,
+that
+$\bar{r} + c \cdot y$
+and second that
+$\bar{c} + \bar{y} + r$
+
+The first premise gives us by rule 3
+$(\bar{w} + \bar{g} + b \cdot y) (\bar{w} + \bar{g} + b \cdot y)$
+and by rule 2 $(\bar{w} + \bar{g} + b) (\bar{w} + \bar{g} + y)$

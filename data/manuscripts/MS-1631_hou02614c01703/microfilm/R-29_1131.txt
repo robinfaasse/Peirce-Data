@@ -1,0 +1,61 @@
+§201. $\int_{0}^{\infty} \mathcal{G}^{\lambda(x-\alpha)\sqrt{-1}} = \frac{\mathcal{G}^{\infty(x-\alpha)\sqrt{-1}} - \mathcal{G}^{-\infty(x-\alpha)\sqrt{-1}}}{(x-\alpha)\sqrt{-1}} = \frac{2\sin\infty(x-\alpha)}{\alpha-x.}$
+
+§202. $\int_{-\infty}^{\infty} \frac{\sin\infty x}{x} = \partial$
+
+[date]1859. April the 6[sup]th[/sup][/date]
+§207. $\mathcal{D}_{t}^{n} f_{x} = \frac{1}{2\partial} \int_{-\infty}^{\infty} (-)^{\frac{n}{2}} \lambda^{n} \mathcal{G}^{\lambda(x-\alpha)\sqrt{-1}} f_{\alpha}$
+§208. $\mathcal{R} = \mathcal{L}$
+
+§210. Ex 4. $a\mathcal{D}_{x}X + \mathcal{D}_{t}X = 0$
+$a\lambda X + \mathcal{D}_{t}X = 0$
+$s = -a\lambda t$
+$X = A\mathcal{G}^{-a\lambda t}$
+$= \mathcal{G}^{-a\lambda t} f_{\alpha}$
+$= \frac{1}{2\partial} \int \mathcal{G}^{\lambda(x-\alpha)\sqrt{-1}} X$
+$= \frac{1}{2\partial} \int \mathcal{G}^{\lambda(x-\alpha-at)\sqrt{-1}} f_{\alpha}$
+$= f(x-at)$
+
+$\mathcal{D}_{t}X = -af'$
+$\mathcal{D}_{x}X = f'$
+$X = f_{x-at}$
+
+Ex 6. $\mathcal{D}_{x}^{2}V + \mathcal{D}_{t}^{2}V = 0$
+$-\lambda^{2}V + \mathcal{D}_{t}^{2}V = 0$
+$\mathcal{D}^{2} = -\lambda^{2} = 0$
+$\mathcal{D} = \pm \lambda$
+$V = A\mathcal{G}^{\lambda t} + B\mathcal{G}^{-\lambda t} = f_{\alpha}\mathcal{G}^{\lambda t} + F_{\alpha}\mathcal{G}^{-\lambda t}$
+$V = \frac{1}{2\partial} \int \mathcal{G}^{\lambda(x-\alpha)\sqrt{-1} - \lambda t} f_{\alpha} + \frac{1}{2\partial} \int \mathcal{G}^{(\lambda(x-\alpha)+\lambda t)\sqrt{-1}} F_{\alpha}$
+$= f_{x-t\sqrt{-1}} + F_{x+t\sqrt{-1}}$
+
+***
+
+[date]1857 April 8[sup]th[/sup][/date]
+Ex 3 & 7.
+
+[date]1857 April 13[sup]th[/sup][/date]
+Lectured on Analytical Mechanics §§199 et seq.
+Exhausted my brochure.
+
+[date]1857 April 28.[/date]
+[u]CHATER XI.[/u]
+
+§452. Motion of [del]centre[/del] [ins]centre[/ins] of gravity is independent of mutual connections.
+Motion of translation is motion of centre of gravity.
+$\mathcal{D}_{t}\Omega = (\mathcal{D}_{t}\mathcal{D}_{\eta} - \mathcal{D}_{\eta}) T_{\eta\eta'}$
+
+§453 Translation depends on external forces. [fig]diagram with a closed curve and an arrow[/fig]
+
+§455 Motion of [u]Point[/u] on [u]Line[/u] is expressed by integrals by [u]Quadratures[/u].
+
+$\left. \begin{aligned} \mathcal{D}_{t}x &= x' \\ \mathcal{D}_{t}y &= y' \\ \mathcal{D}_{t}z &= z' \\ \mathcal{D}_{t}x' &= \mathcal{D}_{x}\Omega \\ \mathcal{D}_{t}y' &= \mathcal{D}_{y}\Omega \\ \mathcal{D}_{t}z' &= \mathcal{D}_{z}\Omega \end{aligned} \right\} \text{Six Integrals.}$
+
+$\Pi = 0 \quad \Pi_{1} = 0$
+$\Pi' = 0 \quad \Pi'_{1} = 0$
+$T = \Omega + H$
+$= \frac{1}{2} v^{2}$
+$v^{2} = x'^{2} + y'^{2} + z'^{2} = \mathcal{D}_{t}s^{2}$
+
+$t = \int_{s_{0}}^{s} \frac{1}{v} = \int_{s_{0}}^{s} \frac{\mathcal{D}s}{\sqrt{2\Omega+2H}}$
+
+§456 Velocity depends not on Path but on Position
+[fig]graph showing a curve with horizontal lines[/fig]

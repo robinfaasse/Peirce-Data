@@ -1,0 +1,30 @@
+[marginalia]
+Calc. Diff.
+21
+[/marginalia]
+
+Let $\phi$ and $\psi$ be any two logical operations. Then
+the mean in $\phi.(\psi.u)$ is definite; but $(\phi.\psi).u$ no
+meaning has, as yet, been assigned. Let us adopt the
+following rule of notation:
+
+[del]Rule of Notation 3. Whatever operational symbols represent[/del]
+
+[del]sions[/del] $\phi$ and $\psi$ may represent, and whatever $u$ may re-
+present, $(\phi.\psi).u$ shall be equivalent to $\phi.(\psi.u)$, so
+that no parentheses shall be necessary.
+
+Let us further adopt the following rule:
+
+<u>Rule of Notation 4.</u> An equation between two operational
+symbols or expressions shall signify that the equation
+will hold whatever symbol or quantity may be added.
+
+Let us further adopt the following rule:
+operational
+<u>Rule of Notation 5.</u> Whatever [ins]operational[/ins] symbol or expression $\phi$ may
+represent, the following equations shall hold, whatever positive
+integers $m$ [ins]and $n$[/ins] may be:
+(5) $\phi^1 = \phi$ [del]$\phi^m.\phi^n = \phi^{1+n}$[/del] $\phi^m.\phi^n = \phi^{m+n}$
+
+Let us see what can be deduced from the last rule, which

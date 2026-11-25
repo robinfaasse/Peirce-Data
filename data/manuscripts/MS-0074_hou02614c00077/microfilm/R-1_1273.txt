@@ -1,0 +1,29 @@
+that of the original root. So that
+
+[u]F[sub]n[/sub][/u] = F[sub]0[/sub] F[sub]n-1[/sub] + F[sub]1[/sub] F[sub]n-2[/sub] + . . . . . . + F[sub]n-2[/sub] F[sub]1[/sub] + F[sub]n-1[/sub] F[sub]0[/sub]
+
+Now if n=0, so that there is but one letter, there
+is but one form, [del]and[/del] [ins]so[/ins] F[sub]0[/sub] = 1. Then the formula gives.
+
+F[sub]1[/sub] = F[sub]0[/sub] F[sub]0[/sub] = 1
+
+F[sub]2[/sub] = F[sub]0[/sub] F[sub]1[/sub] + F[sub]1[/sub] F[sub]0[/sub] = 1.1 + 1.1 = 2
+
+F[sub]3[/sub] = F[sub]0[/sub] F[sub]2[/sub] + F[sub]1[/sub] F[sub]1[/sub] + F[sub]2[/sub] F[sub]0[/sub] = 1.2 + 1.1 + 2.1 = 5
+
+F[sub]4[/sub] = F[sub]0[/sub] F[sub]3[/sub] + F[sub]1[/sub] F[sub]2[/sub] + F[sub]2[/sub] F[sub]1[/sub] + F[sub]3[/sub] F[sub]0[/sub] = 1.5 + 1.2 + 2.1 + 5.1 = 14
+
+etc.
+
+In this way one gets F[sub]5[/sub] = 42, F[sub]6[/sub] = 132, F[sub]7[/sub] = 429, etc.
+
+The second sort of solution is also easy.
+For if we find any simple formula that suits
+the first half dozen numbers, and find upon
+trial that it suits several others, there can be
+no doubt that this is the correct formula.
+Now taking the ratios of successive F's, we
+find
+[u]F[sub]1[/sub][/u]/F[sub]0[/sub] = 1, [u]F[sub]2[/sub][/u]/F[sub]1[/sub] = 2, [u]F[sub]3[/sub][/u]/F[sub]2[/sub] = 2 1/2, [u]F[sub]4[/sub][/u]/F[sub]3[/sub] = 2 4/5, [u]F[sub]5[/sub][/u]/F[sub]4[/sub] = 3, [u]F[sub]6[/sub][/u]/F[sub]5[/sub] = 3 1/7, etc.
+
+Now, noticing that [u]F[sub]6[/sub][/u]/F[sub]5[/sub] = 22/7 and that the next ratio but

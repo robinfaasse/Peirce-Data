@@ -1,0 +1,30 @@
+Some examples of such types of relation
+$\Pi_{i}\Pi_{j}\Pi_{k}\Pi_{l} \quad \bar{\gamma}_{ij} + \bar{\gamma}_{kl} + l_{ik}\cdot l_{jl}$
+
+[fig]Graph with vertices i, j, k, l[/fig]
+
+$\Pi_{i}\Pi_{j}\Sigma_{k}\Pi_{u}\Pi_{v} \quad \bar{\gamma}_{ij} + \bar{\gamma}_{kl}\cdot T_{ki}\cdot [ins]\bar{\gamma}_{uv} +[/ins] [del]\bar{\gamma}_{uv}[/del] \cdot [del]\left\{\begin{array}{c} l_{ui} \\ l_{uk} \end{array}\right\}[/del] [ins]\left(\begin{array}{c} l_{ui} \\ l_{uk} \end{array}\right)[/ins] \cdot \left[ (l_{ui}+l_{uk})\cdot l_{vj} + T_{ui}\cdot T_{uk}\cdot T_{vj} \right]$
+
+[fig]Graph with vertices i, j, k, u, v[/fig]
+
+$\Pi_{i}\Pi_{j}\Sigma_{g}\Sigma_{u}\Pi_{a}\Pi_{v} \quad \bar{\gamma}_{gi} + \bar{\gamma}_{ig}\cdot T_{gj}\cdot T_{ik}\cdot T_{ik} \cdot [del]\left(\begin{array}{c} T_{ui} \\ T_{uj} \end{array}\right)[/del] [ins]\left(\begin{array}{c} T_{ui} + T_{vj} \\ T_{vi} + T_{uj} \end{array}\right)[/ins] \cdot [del]\left( T_{vi} + T_{uj} \right)[/del]$
+
+[del]$T_{ui}\cdot T_{vj}$[/del]
+
+[del]$T_{ui}\cdot T_{vj}$[/del]
+
+$\left[ \bar{\gamma}_{gav}\cdot (T_{ui} + l_{vg} + l_{vj})\cdot (T_{vj} + l_{ui} + l_{uk}) \cdot (l_{ui}\cdot l_{vj} + l_{ui}\cdot l_{vg} + T_{ui}\cdot l_{vj}\cdot T_{uk} + T_{ui}\cdot T_{vj} \right]$
+
+$\bar{\gamma}_{yw}\cdot (T_{ui} + l_{vi} + l_{vg})\cdot (T_{vj} + l_{ui} + l_{uk}) \cdot [del]\begin{array}{c} T_{ui}\cdot T_{vj} + T_{ui}\cdot l_{uk} + l_{ui}\cdot l_{vj} + l_{vg} \\ T_{ui}\cdot T_{vj} \end{array}[/del] [ins](T_{ui} + l_{uk})\cdot (T_{vj} + l_{vg})[/ins] \cdot [del]l_{ui}\cdot (l_{vi} + l_{vg}) + l_{vj}\cdot (l_{ui} + l_{uk}) + T_{ui}\cdot T_{vj}[/del] [ins]l_{ui}\cdot T_{uk}\cdot T_{vj} + l_{ui}\cdot T_{vi}\cdot l_{vg} + T_{ui}\cdot l_{uk}\cdot l_{vj}\cdot T_{vg} + T_{ui}\cdot T_{vj}[/ins]$
+
+$\Pi_{i}\Pi_{j}\Sigma_{g}\Sigma_{k}\Pi_{u}\Pi_{v} \quad \bar{\gamma}_{ji}\cdot \bar{\gamma}_{gi}\cdot \bar{\gamma}_{gkj}\cdot T_{ik}\cdot T_{gi}\cdot (\bar{\gamma}_{guv} + l_{ui}\cdot l_{uj} + l_{ui}\cdot l_{vg} + \psi_{ui}\cdot T_{vj})$
+
+[fig]Graph with vertices i, j, k, g, u, v[/fig]
+
+$\Pi_{i}\Pi_{u}\Sigma_{j}\Sigma_{k}\Sigma_{v}\Pi_{x}\Pi_{y} \quad \bar{\gamma}_{iu}\cdot \bar{\gamma}_{ju}\cdot \bar{\gamma}_{ku}\cdot \bar{\gamma}_{iv}\cdot \bar{\gamma}_{jv}\cdot \bar{\gamma}_{kv}\cdot T_{ij}\cdot T_{ik}\cdot T_{jk}\cdot T_{uv} \cdot \left[ (l_{ki} + l_{kj} + l_{kk})\cdot (l_{yu} + l_{yv}) + T_{ui}\cdot T_{vi}\cdot T_{yk}\cdot T_{yk}\cdot T_{ij} \right]$
+
+[del]$+ \bar{\gamma}_{gky}$[/del]
+
+[fig]Graph with vertices i, j, k, u, v, x, y[/fig]
+
+$\Pi_{i}\Pi_{j}\Sigma_{w}\Sigma_{z}\Sigma_{v}\Sigma_{x}\Pi_{s}\Pi_{t} \quad \bar{\gamma}_{ig} + \bar{\gamma}_{vj}\cdot \bar{\gamma}_{vj}\cdot \bar{\gamma}_{iw}\cdot \bar{\gamma}_{iz}\cdot T_{vi}\cdot T_{ki}\cdot T_{vx} \cdot T_{vj}\cdot T_{zj}\cdot T_{wz}\cdot \left[ \bar{\gamma}_{st} + \left( l_{sv} + l_{si} + l_{sx} + T_{jt} \right) \cdot \left( l_{tw} + l_{tj} + l_{tz} + T_{ij} \right) \right]$

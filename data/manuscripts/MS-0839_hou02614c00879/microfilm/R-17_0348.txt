@@ -1,0 +1,97 @@
+$$D(\sqrt{u^2-u+1}\ i' + m' + w n') C(\sqrt{u^2-u+1}\ i' + m' + w n') D \sqrt{u^2-u+1}\ i' + m' + w n'$$
+
+[fig]bracket grouping terms[/fig]
+
+$$\begin{array}{c|c|c|c|c|c}
+& i' & k' & l' & m' & n' \\
+\hline
+\underline{CD}\ \frac{\sqrt{u^2-u+1}\ i'}{\sqrt{u}} & & & & -\sqrt{u} & -w\sqrt{u} \\
+-1 & -w & & & +w & \\
+-uw & & -u & & & +uw \\
+\hline
+\end{array}$$
+
+$$\begin{array}{c|c|c|c|c|c|c}
+\underline{CD} & i' & j' & k' & l' & m' & n' \\
+\hline
+\begin{array}{l}
+\underline{> (u^2-u+1)\sqrt{u}} \\
+-\sqrt{u} \\
+-wu\sqrt{u} \\
+\hline \\
++\sqrt{u} \\
+-\sqrt{u} \\
+\hline \\
++uw\sqrt{u} \\
+-u^2\sqrt{u}
+\end{array} & \begin{array}{l}
+\\
+\\
+\\
+\hline \\
+-w\sqrt{u} \\
+\hline \\
+-u\sqrt{u} \\
+\hline \\
++u\sqrt{u} \\
+-u\sqrt{u} \\
+\hline \\
+\end{array} & \begin{array}{l}
+\\
+\\
+\\
+\hline \\
+\\
+\hline \\
+-u\sqrt{u} \\
+\hline \\
+\\
+\hline \\
++w\sqrt{u} \\
+-u\sqrt{u}
+\end{array} & \begin{array}{l}
+\\
+\\
+\\
+\hline \\
++w \\
+\hline \\
++u^2 \\
+\hline \\
+\\
+\hline \\
+\end{array} & \begin{array}{l}
+-\sqrt{u} \\
++1 \\
++uw \\
+\hline \\
++uw \\
+\hline \\
+\\
+\hline \\
+-(u^2-u+1) \\
++\sqrt{u} \\
+\hline \\
+\end{array} & \begin{array}{l}
+-u\sqrt{u} \\
++u \\
++u^2w \\
+\hline \\
+\\
+\hline \\
++u \\
+\hline \\
+\\
+\hline \\
+-w(u^2-u+1) \\
++u\sqrt{u}
+\end{array} & \\
+\hline
+-u\sqrt{u}\ i' & \begin{array}{l}
+-w\sqrt{u} \\
++u\sqrt{u}
+\end{array} j' & \begin{array}{l}
+-u\sqrt{u} \\
++w\sqrt{u}
+\end{array} k' & (+u^2+w)l' & (-u^2+u+2uw)m' & +wu[del]w[/del]2[del]w[/del]-wn' &
+\end{array}$$

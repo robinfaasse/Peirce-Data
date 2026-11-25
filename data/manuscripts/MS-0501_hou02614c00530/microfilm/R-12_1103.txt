@@ -1,0 +1,29 @@
+[pn]6½[/pn]
+
+[u]Definition of $\hat{C}$.[/u]
+
+[u]Clause 1.[/u] The relation expressed by $\hat{C}$ is [u]definite[/u] in such sense that, whatever $a$ and $i$ may be,
+If $a$, then $i \hat{C} a$.
+
+[u]Clause 2.[/u] The relation expressed by $\hat{C}$ is [u]individual[/u] in such sense that, whatever $a$ and $e$ may be,
+Either $a$ or $a \hat{C} e$.
+
+[u]Clause 3.[/u] Whatever $i$ and $e$ may be,
+If $i$ and $i \hat{C} e$,
+then $e$.
+
+[u]Corollary 1.[/u] Whatever $a$ may be,
+$a \hat{C} a$.
+
+For putting $a$ for $e$ in Clause 2,
+Either $a \hat{C} a$ or $a$.
+But putting $a$ for $i$ in Clause 1,
+If $a$ then $a \hat{C} a$.
+
+[u]Corollary 2.[/u] From Clause 1 and Clause 2, whatever $a$, $e$, may be,
+Either $a \hat{C} e$ or $i \hat{C} a$.
+
+[u]Corollary 3.[/u] [ins]Supposing that[/ins] Whatever $x$ may be,
+If $x \hat{C} a$ then $x \hat{C} b$
+we shall have $a \hat{C} b$. For
+[del]For if the antecedent condition holds, whatever $x$ may be, it will hold if $x$ is $a$, when $a \hat{C} b$ merely repeats the antecedent, on account of Corollary 1.[/del]

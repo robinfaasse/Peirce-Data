@@ -1,0 +1,34 @@
+$a$ equatorial semi axis
+$b$ polar semi axis
+$$e = \frac{\sqrt{a^2-b^2}}{a}$$ [fig]Ellipse with semi-axes and angle[/fig] [fig]Concentric circles with angles[/fig]
+
+$\lambda$ Latitude
+$$b = \frac{a-b}{b} \qquad \tan \lambda = \frac{a}{b} \tan \omega$$
+
+$\psi$ Azimuth of geodesic [fig]Circle with inscribed angle[/fig]
+$\gamma$ A constant angle for each geodesic
+$$\cos \omega \sin \psi = \cos \gamma$$
+(It is the reduced latitude $\omega$ of northernmost point)
+
+$\varphi$ an auxiliary angle,
+$$\cos \varphi \sin \gamma = \sin \omega$$
+$$\begin{aligned} q &= 0 \text{ for northernmost} \\ &= 90^\circ \text{ for equator} \end{aligned}$$
+
+$\theta$ auxiliary $\tan \theta = \frac{ae}{b} \sin \gamma$
+$k$ auxiliary $k = \sin \theta$
+$\chi$ " $\tan \chi = \frac{\tan \gamma}{k}$
+$\alpha$ " $\frac{2K}{\pi} \alpha = F(\chi, k')$ [ins]$\text{if } \chi = 1 \quad \alpha = \frac{F(\chi, k')}{F\varphi}$[/ins]
+$x$ " $x = \frac{\pi}{2K} F\varphi$
+
+$$\text{Diff Long} = \left[ \frac{\pi}{2K} D_\alpha \log \vartheta_1(\alpha i) - k e \cot \gamma \right] \cdot F\varphi + \frac{1}{2i} \log \frac{\vartheta(x + \alpha i)}{\vartheta(x - \alpha i)}$$
+
+Suppose $\gamma$ very small.
+$$\begin{aligned} \theta &= \frac{ae}{b} \gamma = k \\ \tan \chi &= \frac{b}{ae} = [1.0833] = 12.115 \\ \chi &= 0.9476 \end{aligned}$$
+$$\frac{ae}{b} = 0.08257$$
+
+$$\log F(\chi, k') = \begin{aligned} &0.5902 - .0219 \times .0825 \gamma \\ &- .00181 \gamma \end{aligned}$$
+
+$$\begin{array}{r} 83) 36 ( \\ \frac{332}{280} \end{array}$$
+
+$$\begin{array}{rccc} 204 & 175 & 147 & 122 \\ \frac{51}{2} & \frac{44}{2} & \frac{37}{2} & \frac{30\frac{1}{2}}{1\frac{1}{2}} \\ \frac{49}{5951} & \frac{42}{5725} & \frac{36}{5497} & \frac{29}{5272} \\ \frac{5902}{219} & \frac{5683}{222} & \frac{5461}{218} & \frac{5243}{} \\ & \frac{165}{165} & & \\ & \frac{165}{[del]\text{8}[/del]} & & \end{array}$$
+$$99175$$

@@ -1,0 +1,37 @@
+[pn]4[/pn]
+[marginalia]Hyp Geom[/marginalia]
+
+or [space] $\frac{C}{r} = \frac{\cos \theta}{\tanh a} + \sqrt{\frac{\cos^2 \theta}{\tanh^2 a} - 1}$
+
+It will be noticed that, because
+$(x + \sqrt{x^2 - 1})(x - \sqrt{x^2 - 1}) = 1$,
+the two values of $\frac{C}{r}$ due to the ambiguous sign of the square root are reciprocals of one another. We may, therefore, equally write
+$r = C \left( \frac{\cos \theta}{\tanh a} - \sqrt{\frac{\cos^2 \theta}{\tanh^2 a} - 1} \right)$
+
+In order to determine $C$ we have $r = l$ for $\theta = 0$. or
+$C = l \left( \frac{1}{\tanh a} + \sqrt{\frac{1}{\tanh^2 a} - 1} \right) = l \coth \frac{a}{2}$
+[del]or[/del] with the other sign, $C = l \tanh \frac{a}{2}$.
+
+Let us next examine the hypothenuse. The trigonometrical formula is
+$\tanh h = \frac{\tanh a}{\cos B}$
+
+(here $h$ [del]is[/del] [ins]should be[/ins] the same function of $r$ that $a$ is of $l$, and since $B = \theta$
+
+$\frac{\tanh F^{-1} r}{\tanh F^{-1} l} = \frac{\sec \theta}{\sec 0}$
+
+[marginalia]
+$\frac{C}{r} = \frac{1}{\tanh a} + \text{Cosech } a$
+$\coth \frac{a}{2}$
+$-$
+$\tanh \frac{a}{2}$
+[/marginalia]
+
+[fig]Circle with intersecting lines[/fig]
+
+$\frac{4}{l^2} (1 + \tanh^2 \frac{a}{2}) - \frac{4 \cosh^2 \frac{a}{2}}{l^2}$
+
+$\frac{1}{\cosh^2 \frac{a}{2}} - 1$
+
+$(1 + \frac{2}{\coth^2 \frac{a}{2} + 1}) \frac{1}{2} = \frac{2 \tan \frac{a}{2}}{1 + \tan^2 \frac{a}{2}} = \frac{\tan}{\coth \frac{a}{2}} = \tan$
+
+$\frac{2}{1 + \cosh \frac{a}{2}} = \frac{2}{1 + \tanh^2 \frac{a}{2}} = \frac{\tan}{\tanh \frac{a}{2}}$

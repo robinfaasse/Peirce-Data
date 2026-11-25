@@ -1,0 +1,51 @@
+If only one operation is to be used, it cannot be
+symmetrical; and it will be proved that it is such
+that, if the sign $\prec$ is used to signify it,
+$$\text{true} \prec \text{true}\quad\text{is}\quad\text{true},$$
+$$\text{false} \prec \text{false}\quad\text{is}\quad\text{true},$$
+$$\text{false} \prec \text{true}\quad\text{is}\quad\text{true},$$
+$$\text{true} \prec \text{false}\quad\text{is}\quad\text{false}.$$
+That is to say, $A \prec B$ has very nearly the meaning 'If $A$ be
+true, then $B$ is true'; It has more precisely the meaning
+'Either $A$ is false or $B$ is true.' This operation is not
+associative.
+
+$$\Pi_x \Sigma_y \ell_{xy}$$
+$$x \prec \ell_y$$
+$$x \prec (y \prec \ell_y)$$
+$$[del]x \prec (y \prec \ell_y)[/del]$$
+
+$$\Sigma_y \Pi_x \ell_{xy}$$
+$$[del]y \prec (x \prec \ell_{xy}) \prec v[/del]$$
+$$y \prec (x \prec \ell_{xy}) \prec v$$
+
+$$\Pi_x \Pi_y \ell_{xy}$$
+$$x \prec y \prec \ell_{xy}$$
+$$[del]x \prec y \prec \ell_{xy}[/del]$$
+
+$$\bar{x} + \bar{y} + \ell_{xy}$$
+$$\bar{x} + \bar{y} + \ell_{xy}$$
+
+$$y(\bar{x} + \ell) \bar{u} + v$$
+
+$$x \prec (y \prec \ell_{xy}) \prec v$$
+$$\bar{x} + y \bar{\ell} + v$$
+
+$$x \prec y \prec \bar{\ell}$$
+$$\bar{x} + y \bar{\ell}$$
+
+$$A(\bar{x} + \ell) y$$
+
+$$[del](A \prec B) \prec C[/del]$$
+$$(\bar{A} + B) C$$
+
+$$A \prec (B \prec C)$$
+$$A(\bar{B} + C)$$
+
+$$A \prec B \prec C$$
+$$(\bar{A} + B) C$$
+
+$$A \prec B$$
+$$(A \prec A) \prec B$$
+
+$$A \prec B \prec C$$

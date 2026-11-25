@@ -1,0 +1,15 @@
+[pn]R[/pn] [pn]41[/pn]
+
+[u]1[sup]st[/sup][/u], The value of a fraction is not affected by multiplying both numerator and denominator by the same quantity;
+
+[u]2[sup]nd[/sup][/u], The increase of the numerator of a fraction, its denominator remaining unchanged, increases the fraction.
+
+It follows, first, that of two fractions $\frac{A}{B}$ and $\frac{C}{D}$, if $AD < CB$ the latter is the larger, and vice versa. For $\frac{A}{B} = \frac{AD}{BD}$. If then $AD < CB$ $\frac{AD}{BD} < \frac{CB}{BD}$ But $\frac{C}{D} = \frac{CB}{BD}$. Hence, if $AD < CB$, $\frac{A}{B} < \frac{C}{D}$; and by symmetry the reverse is the case. [del]On this account we may call the difference of the products each formed by multiplying the numerator of one of two fractions by the denominator of the other their comparant.[/del]
+
+[u]Second[/u], the value of $\frac{A+C}{B+D}$ is always intermediate between those of $\frac{A}{B}$ and $\frac{C}{D}$. For suppose $\frac{A}{B} < \frac{C}{D}$ so that $AD < BC$. Then $\frac{A}{B} = \frac{A(B+D)}{B(B+D)}$ and [del]$\frac{A}{B} <$[/del] $\frac{A(B+D) + BC - AD}{B(B+D)}$ But the last fraction is $\frac{B(A+C)}{B(B+D)} = \frac{A+C}{B+D}$; so that $\frac{A}{B} < \frac{A+C}{B+D}$. On the other hand $\frac{A+C}{B+D} = \frac{(A+C)D}{(B+D)D}$ and $\frac{A+C}{B+D} < \frac{(A+C)D + BC - AD}{(B+D)D}$ But the last fraction is $\frac{(B+D)C}{(B+D)D} = \frac{C}{D}$. Hence, if $\frac{A}{B} < \frac{C}{D}$ $\frac{A}{B} < \frac{A+C}{B+D} < \frac{C}{D}$.
+
+This affords the means of arranging the fractions without calculation. For it follows that if $\frac{A}{B}$ has a value intermediate between $\frac{M}{N}$ and $\frac{M+1}{N}$, then there is no fraction of denominator $N-B$ between the same limits. For $\frac{M}{N}$ is intermediate between $\frac{A}{B}$ and $\frac{M-A}{N-B}$ and $\frac{M+1}{N}$ is intermediate between [del]$\frac{M-A+1}{N-B}$[/del] $\frac{A}{B}$ and $\frac{M-A+1}{N-B}$. Thus, both $\frac{M}{N}$ and $\frac{M+1}{N}$ are intermediate between $\frac{M-A}{N-B}$ and $\frac{M-A+1}{N-B}$, and there is no fraction of denominator $N-B$ between those limits.
+
+But if $\frac{A}{B} = \frac{M}{N}$ then also $\frac{M-A}{N-B} = \frac{M}{N}$.
+
+Hence, if $N$ is odd[ins]*[/ins] and $B < N$, of the two denominators $B$ and $N-B$ one gives a fraction intermediate between $\frac{M}{N}$ and $\frac{M+1}{N}$ and the other not; so that there are between those limits just $\frac{1}{2}(N-1)$ fractions of

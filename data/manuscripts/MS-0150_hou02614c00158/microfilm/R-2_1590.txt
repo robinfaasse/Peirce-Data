@@ -1,0 +1,18 @@
+[del]An[/del] [ins]Theorem[/ins]. In [del]every[/del] [ins]any plane[/ins] triangle, the [del]radius[/del] [ins]diameter[/ins] of the circum-circle equals any side divided by the sine of the opposite angle.
+
+[fig]Triangle ABC inscribed in a circle with diameter CD[/fig] [u]Demonstration[/u]. Let ABC be a triangle and CD a diameter of the circum-circle. Then, the theorem is that
+$$CD = \frac{BC}{\sin A}.$$
+Draw BD. Then, [del]let[/del] by Theorem [gap] since A and D are angles on the circumference subtending the same arc, they are equal. And since CBD is an angle inscribed in a semicircle, it is, by Theorem [gap], equal to a right angle. Hence, by [del]the Definition[/del] [gap],
+$$\sin A = \sin D = \frac{BC}{CD}$$
+or multiplying by $\frac{CD}{\sin A}$
+$$CD = \frac{BC}{\sin A}.$$ Q.E.D.
+
+[u]Theorem[/u]. In any plane triangle whose sides are [u]a[/u], [u]b[/u], [u]c[/u], and where C is the angle opposite [u]c[/u],
+$$c^2 = a^2 + b^2 - 2ab \cos C$$
+
+[fig]Triangle ABC with perpendicular BF to AC[/fig] [u]Demonstration[/u]. For let [del]p[/del] [ins]BF[/ins] be the perpendicular from B upon AC. [ins]and let F be its foot[/ins]
+Then, by the Pythagorean proposition
+$$c^2 = p^2 + (AF)^2$$
+and
+$$p^2 = a^2 - (FC)^2$$
+Hence $c^2 = a^2 + (b - FC)^2 - FC^2 = a^2 + b^2 - 2b \cdot FC$

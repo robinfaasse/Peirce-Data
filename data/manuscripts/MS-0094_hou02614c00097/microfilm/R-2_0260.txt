@@ -1,0 +1,17 @@
+[pn]252[/pn]
+
+§ 135 Let us ask where ray $\{AB\}$ is cut by ray [del]$\{ [2A+B+C] \}$[/del] [ins]designation of[/ins] $\{[2A+B+C][A+2B+C]\}$ and where by ray $\{[A+C][B+C]\}$. To find the [del]the point[/del] [ins]a designation of the point on[/ins] $\{AB\}$ and at the same time on $\{[A+C][B+C]\}$ is [del]to find[/del] [ins]to find[/ins] an expression of the form
+$$p A + q B,$$
+that is, a "syzygy" of $A$ and $B$, which is at the same time of the form
+$$s [A+C] + t [B+C],$$
+that is, is a syzygy of $A+C$ and $B+C$. The answer is that since $C$ must disappear, $t$ must undo the work of $s$; and the point can only be
+$$[A-B].$$
+So, [del]to find[/del] [ins]to find a designation of[/ins] a point on $\{[2A+B+C][A+2B+C]\}$ which is also on $\{AB\}$ we must make $C$ disappear, and the only syzygy of $2A+B+C$ and $A+2B+C$ which does this is
+$$[2A+B+C] - [A+2B+C] = [A-B].$$
+Accordingly, the three [del]rays[/del] [ins]rays[/ins] meet in one point. That is, the rays
+$$\{AB\}$$
+$$\{[AC]\{BD\}\}[\{AD\}\{BC\}]\}$$
+$$\{[[AD]\{[AB]\{CD\}\}[\{AC\}\{BD\}\}][\{BD\}\{[AB]\{CD\}\}[\{AD\}\{BC\}\}]\}]$$
+meet in one point and always will do so, whatever points $A, B, C, D$, maybe. So says the notation. But is it necessarily true?
+
+It is so provided every point, ray, and plane is represented in the notation correctly in reference to [ins]all[/ins] the other points, rays, and planes.

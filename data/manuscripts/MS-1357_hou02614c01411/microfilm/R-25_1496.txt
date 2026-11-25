@@ -1,0 +1,51 @@
+[pn]3[/pn]
+[del]$\frac{K^2}{2} \log \frac{\sqrt{1+K^2} - K + \sqrt{K^2-1}}{1 + K + \sqrt{K^2-1}}$[/del]
+$\frac{1}{\sqrt{K^2-1}}$
+
+$\equiv \left( -\frac{1}{2} - \frac{1}{2}\xi + \frac{1}{2}\sqrt{1+\xi^2} \right)$
+$+ \frac{1}{K} \left[ +\frac{1}{2} + \frac{1}{2}\xi + \frac{1}{2}\xi^2 + \left( -\frac{1}{2} - \frac{1}{2}\xi \right) \sqrt{1+\xi^2} \right]$ ?
+$+ \frac{1}{K^2} \left( \begin{aligned} &-\frac{1}{4} - \frac{1}{4}\xi \\ &-\frac{1}{6} - \frac{1}{4}\xi - \frac{1}{6}\xi^3 + \left( \frac{1}{6} + \frac{1}{6}\xi^3 \right) \sqrt{1+\xi^2} \end{aligned} \right) \begin{aligned} &+ \frac{1}{4} \\ &\sqrt{1+\xi^2} \end{aligned}$
+$- \frac{1}{K^2} \left[ -\frac{5}{12} - \frac{1}{2}\xi - \frac{1}{6}\xi^3 + \left( \frac{5}{12} + \frac{1}{6}\xi^3 \right) \sqrt{1+\xi^2} \right]$
+
+the
+$\log [\sqrt{1+\xi^2} - \xi] =$
+$D = [del]\left( \sqrt{1+\xi^2} + \xi \right)[/del] \left( \frac{\xi}{\sqrt{1+\xi^2}} - 1 \right) = -\frac{1}{\sqrt{1+\xi^2}} = -\left( 1+\xi^2 \right)^{-\frac{1}{2}}$
+
+$\frac{1}{2} D^2 = + \frac{1}{2} \left( 1+\xi^2 \right)^{-\frac{3}{2}} \xi$
+$\frac{1}{3!} D^3 = -\frac{1}{6} \left( 1+\xi^2 \right)^{-\frac{3}{2}} + \frac{1}{6} \left( 1+\xi^2 \right)^{-\frac{3}{2}}$
+$\frac{1}{4!} D^4 = +\frac{5}{8} \left( 1+\xi^2 \right)^{-\frac{7}{2}} \xi^3 [del]-\frac{1}{8} \xi[/del] [ins]-\frac{3}{8} \left( 1+\xi^2 \right)^{-\frac{5}{2}} \xi[/ins]$
+$\frac{1}{5!} D^5 = -\frac{7}{8} \left( 1+\xi^2 \right)^{-\frac{9}{2}} \xi^4 + \frac{3}{4} \left( 1+\xi^2 \right)^{-\frac{7}{2}} \xi^2 - \frac{3}{40} \left( 1+\xi^2 \right)^{-\frac{5}{2}}$
+$\frac{1}{6!} D^6 = +\frac{21}{16} \left( 1+\xi^2 \right)^{-\frac{11}{2}} \xi^5 [del]+ \frac{35}{24}[/del] [ins]+ \frac{35}{24} \left( 1+\xi^2 \right)^{-\frac{9}{2}} \xi^3[/ins] [del]-\frac{9}{8} \xi[/del] [ins]+ \frac{15}{16} \left( 1+\xi^2 \right)^{-\frac{7}{2}} \xi[/ins]$
+$\frac{1}{7!} D^7 = -\frac{33}{16} \left( 1+\xi^2 \right)^{-\frac{13}{2}} \xi^6 + [del]\frac{105}{16}[/del] [ins]\frac{105}{16} \left( 1+\xi^2 \right)^{-\frac{11}{2}} \xi^4[/ins] [del]-\frac{15}{16}[/del] [ins]-\frac{15}{16} \left( 1+\xi^2 \right)^{-\frac{9}{2}} \xi^2[/ins] + \frac{5}{112} \left( 1+\xi^2 \right)^{-\frac{7}{2}}$
+$\frac{1}{8!} D^8 = +\frac{429}{128} \left( 1+\xi^2 \right)^{-\frac{15}{2}} \xi^7 - [del]\frac{693}{128}[/del] [ins]\frac{693}{128} \left( 1+\xi^2 \right)^{-\frac{13}{2}} \xi^5[/ins] + [del]\frac{135}{128}[/del] [ins]\frac{135}{128} \left( 1+\xi^2 \right)^{-\frac{11}{2}} \xi^3[/ins] - [del]\frac{35}{256}[/del] [ins]\frac{35}{256} \left( 1+\xi^2 \right)^{-\frac{9}{2}} \xi[/ins]$
+
+$\log [\sqrt{1+\xi^2} - \xi] = -\xi + \frac{1}{6}\xi^3 - \frac{3}{40}\xi^5 + \frac{5}{112}\xi^7 - \frac{245}{8064}\xi^9$
+
+$\begin{array}{r} 33 \\ \underline{4} \\ 132 \\ \underline{429} \\ 692 \end{array}$
+$\begin{array}{r} 180 \\ \underline{315} \\ 896 \end{array}$
+$\begin{array}{r} 896 \\ \underline{896} \\ 8264 \end{array}$
+
+When $\xi = 1$
+$\frac{1}{6} \quad .16666667$
+$\frac{5}{112} \quad \underline{.04464286}$
+$.21130953$
+[u]Probably not correct[/u]
+in second place
+
+$\sqrt{2}-1 = .4142 = 1 - .5858$
+
+$\begin{array}{r} 1.075 \\ \underline{.0303819} \\ 1.1053819 \\ \underline{.2113095} \\ \underline{0.8940724} \end{array}$
+
+$\begin{array}{r} .5858 \\ .1716 \\ .0500 \\ .0146 \\ .0043 \\ .0013 \\ \hline .8276 \end{array}$
+
+$\begin{array}{r} 6) \underline{40424} \\ 674 \\ \underline{3432} \\ 2010 \end{array}$
+
+$\begin{array}{r} 3432 \\ \underline{6864} \\ 5) \underline{689832} \\ 135 \end{array}$
+
+$\begin{array}{r} 0001240079 \\ 0006200395 \\ 0031001975 \\ \underline{0006200395} \\ .0303819355 \end{array}$
+
+$\begin{array}{r} 3) \underline{20102} \\ 06701 \end{array}$
+
+$\begin{array}{r} 4) \underline{5858} \end{array}$
+
+$\begin{array}{r} 245 \\ \underline{245} \\ 8064 \end{array}$

@@ -1,0 +1,42 @@
+[pn]5[/pn]
+
+[u]Reassociation is that illative process by which[/u] [del]X[/del]
+
+[fig]Logic diagram with cursive letters[/fig]
+
+[del]m[/del] [fig]Logic diagram with cursive letters[/fig]
+
+[del]m[/del]
+
+[del]m[/del]
+
+$a(b+c)$
+$ab+c$
+
+[del]$a(b+c+d)$[/del]
+$a(b+c+ad)$
+[del]$a(b+c)$[/del]
+$a(b+c)$
+$a(ab+c)$
+$ab+c$
+[del]$a+c$[/del]
+$a(b+c) \sim a(ab+c)$
+$a[b+c d(e+f)]$
+$a[b+c d(ae+f)]$
+
+[fig]Logic diagram with nested loops around a, b+c[/fig]
+[fig]Logic diagram with nested loops around a, b+c[/fig]
+[fig]Logic diagram with nested loops around a, b+c[/fig]
+[fig]Logic diagram with nested loops around a, b, c[/fig] $a+bc$
+[fig]Logic diagram with nested loops around a, b, c-d[/fig]
+[fig]Logic diagram with nested loops around a, b, c-de[/fig]
+[fig]Logic diagram with nested loops around a-b, a-c[/fig]
+
+[del]$a+$[/del]
+[del]$a+b$[/del]
+[del]$a[b+cd$[/del]
+$a[b+c \cdot (d+e)]$
+
+$a+bc = (a+b) \cdot (a+c)$
+[fig]Logic diagram with nested loops around a, bc[/fig] [fig]Logic diagram with nested loops around a, b[/fig]
+[fig]Logic diagram with nested loops around a, bc[/fig] [fig]Logic diagram with nested loops around a-b, a+c[/fig]

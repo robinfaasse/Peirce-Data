@@ -1,0 +1,21 @@
+protractor, instead of
+$$r = \tan (45^{\circ} - \frac{\varphi}{2})$$
+
+To take
+$$r = \left(\frac{1 + \varepsilon \sin \varphi}{1 - \varepsilon \sin \varphi}\right)^{\frac{\varepsilon}{2}} \tan (45^{\circ} - \frac{\varphi}{2})$$
+where $\varepsilon$ is the eccentricity of a meridian, $\varepsilon = 0.08227$.
+
+Then
+$$\frac{dr}{d\varphi} = [del]\varepsilon^{2}[/del] \frac{\cos \varphi}{1 - \varepsilon^{2} \sin^{2} \varphi} \left(\frac{1 + \varepsilon \sin \varphi}{1 - \varepsilon \sin \varphi}\right)^{\frac{\varepsilon}{2}} \tan (45^{\circ} - \frac{\varphi}{2}) - \frac{1}{2} \left(\frac{1 + \varepsilon \sin \varphi}{1 - \varepsilon \sin \varphi}\right)^{\frac{\varepsilon}{2}} \sec^{2} (45^{\circ} - \frac{\varphi}{2})$$
+$$= \left(\frac{1 + \varepsilon \sin \varphi}{1 - \varepsilon \sin \varphi}\right)^{\frac{\varepsilon}{2}} \left( \frac{\varepsilon^{2} (1 - \sin \varphi)}{1 - \varepsilon^{2} \sin^{2} \varphi} - \frac{1}{1 + \sin \varphi} \right)$$
+
+If we put
+$$r = \tan (45^{\circ} - \frac{\varphi'}{2})$$
+where $\varphi'$ is the quantity which is equalized in transformations
+of the projection, then
+$$\frac{dr}{d\varphi'} = [del]\times \frac{1}{1 + \sin \varphi'}[/del] - \frac{1}{2} \sec^{2} (45^{\circ} - \frac{\varphi'}{2}) = - \frac{1}{2} (1 + r^{2})$$
+$$= - \frac{1}{2} \left[ 1 + \left(\frac{1 + \varepsilon \sin \varphi}{1 - \varepsilon \sin \varphi}\right)^{\varepsilon} \tan^{2} (45^{\circ} - \frac{\varphi}{2}) \right]$$
+$$= - \frac{1}{2} \left(\frac{1 + \varepsilon \sin \varphi}{1 - \varepsilon \sin \varphi}\right)^{\frac{\varepsilon}{2}} \left[ \left(\frac{1 - \varepsilon \sin \varphi}{1 + \varepsilon \sin \varphi}\right)^{\frac{\varepsilon}{2}} + \tan^{2} (45^{\circ} - \frac{\varphi}{2}) \right]$$
+
+$$\frac{d\varphi'}{d\varphi} = [del]\frac{1}{1 + \sin \varphi'}[/del] \left(\frac{1 - \varepsilon \sin \varphi}{1 + \varepsilon \sin \varphi}\right)^{\frac{\varepsilon}{2}} \frac{\sec^{2} (45^{\circ} - \frac{\varphi}{2}) - 2 \frac{\varepsilon^{2} (1 - \sin \varphi)}{1 - \varepsilon^{2} \sin^{2} \varphi}}{\tan^{2} (45^{\circ} - \frac{\varphi}{2}) + \left(\frac{2 \varepsilon \sin \varphi}{1 + \varepsilon \sin \varphi}\right)^{\varepsilon}}$$
+$$\approx \left(\frac{1 - \varepsilon \sin \varphi}{1 + \varepsilon \sin \varphi}\right)^{\frac{\varepsilon}{2}}$$

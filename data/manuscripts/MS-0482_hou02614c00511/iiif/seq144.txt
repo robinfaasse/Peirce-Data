@@ -1,0 +1,47 @@
+45
+tuous man who is either not wise or ugly. There is here no effectual 
+bond between the encircled [u]w[/u] and the [u]v[/u]; so that a transformation 
+is possible. Such will generally be the result of identifications of 
+evenly and oddly enclosed nexes.
+The second clause of the rule permits any [ins]simple[/ins] [del]oddly enclosed[/del] nex to be 
+severed at any oddly enclosed point. This is not obvious from the wording; 
+but it becomes so when it is considered that [ins]a point in passing along a simple[/ins] [del]a[/del] nex, drawn according to 
+the rules, can move out of one set of circles and then into another, 
+but can never move in and then out. Hence, as long as a simple nex 
+is severed in an odd enclosure, the inner part, if there be an inner 
+part, will be oddly enclosed. [del]But if a nex branches, it will be necessary to[/del] 
+[del]observe whether there be given.[/del] [del]Since it is obv[/del] If a r
+
+[fig]
+a —— b
+a b       a+b
+a + ((a) b)
+a + (b c)   a + b[u]c[/u]
+[del]a+[/del]
+((a))
+a — (abc)
+a—b  a+b
+a—((b))
+ab ((a b))
+a (b—c)   [u]a[/u] · (b + [u]c[/u])
+a (a b c)  [u]a[/u] (a + b + c)
+[/fig]
+
+[fig]
+Inside one can be omitted or inserted under even or odd enclosures
+[/fig]
+
+[fig]
+a — b  ) can be inserted a—b
+a — a b )       [u]a[/u] + a + b    a a b
+                Can be omitted
+( (a b c) )
+a — ( b c )     a + [u]b c[/u]
+a — ( a b c )   a + [u]a b c[/u]
+a — ( b ( c + d ) )     a + [u]b[/u] · (c + d)
+a — ( b ( a + c + d ) )  a + [u]b[/u] (a + c + d)
+(( ( b ) ))
+a — ( ( b ) )
+a — ( b — ( c — ( d — e ) ) )  a + [u]b[/u] · ( c + [u]d e[/u] )
+                               = [del]a + [/del] [u]b[/u] ( c + [u]a d e[/u] )
+[/fig]

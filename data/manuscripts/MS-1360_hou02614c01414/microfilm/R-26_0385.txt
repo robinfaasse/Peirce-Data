@@ -1,0 +1,73 @@
+[ins]$\tau_{n}^2$[/ins]
+$\tau_{n+2}(\tau_{n}-\tau_{n-1}) + \tau_{n+1}\tau_{n} - \tau_{n}\tau_{n-1} + \tau_{n-1}^2 + \tau_{n-2}(\tau_{n+1}-\tau_{n}) = $
+
+$\tau_{n+2}(\tau_{n}-\tau_{n-1}) - \tau_{n+1}(\tau_{n+1}-\tau_{n}) - \tau_{n-1}(\tau_{n}-\tau_{n-1}) + \tau_{n-2}(\tau_{n+1}-\tau_{n})$
+
+$(\tau_{n+2}-\tau_{n-1})(\tau_{n}-\tau_{n-1}) = (\tau_{n+1}-\tau_{n-2})(\tau_{n+1}-\tau_{n})$
+
+$\frac{\tau_{n+2}-\tau_{n-1}}{\tau_{n+1}-\tau_{n}} = \frac{\tau_{n+1}-\tau_{n-2}}{\tau_{n}-\tau_{n-1}}$
+
+[del]$\frac{(\tau_{n+2}-\tau_{n+1}) + (\tau_{n}-\tau_{n-1})}{\tau_{n+1}-\tau_{n}}$[/del] [del]$\frac{(\tau_{n+2}-\tau_{n+1})}{\tau_{n+2}-\tau_{n+1} + \tau_{n}}$[/del] [del]$+ (\tau_{n+1}$[/del]
+
+$\frac{d\tau + d^2\tau}{d\tau} = C$
+
+$1 + d \log d\tau = C$
+
+$d_s \log d_s \tau = C$
+
+$\tau$
+
+$\log D_s \tau = S + C_1$
+
+$\frac{3ds + \frac{15}{2}(ds)^2 + \frac{21}{2}(ds)^3}{3 - 3ds + \frac{3}{2}(ds)^2 + \frac{3}{2}(ds)^3} \tau = C_1 \mathcal{S}^s + C_2$
+
+$\frac{ds + \frac{1}{2}(ds)^2 + \frac{7}{6}(ds)^3}{1 + (ds)^2 f_1} \tau = f_0 + x f$
+
+$\tau_n = \tau_{n-1} + ds D$
+
+[marginalia]
+$-\tau_{n+1}^2 + 2\tau_{n}\tau_{n+1} + \tau_{n}^2$
+$+\tau_{n}^2 - 2\tau_{n}\tau_{n-1} + \tau_{n-1}^2$
+[/marginalia]
+
+[marginalia]
+$(\tau_{n+2}-\tau_{n+1})(\tau_{n}-\tau_{n-1})$
+$-\tau_{n+1}(\tau_{n+1}-\tau_{n})$
+$-\tau_{n-1}(\tau_{n}-\tau_{n-1})$
+$+ \tau_{n}(\tau_{n+1}-\tau_{n}) + \tau_{n}(\tau_{n}-\tau_{n-1})$
+$\tau_{n+2}(\tau_{n}-\tau_{n-1})$
+[/marginalia]
+
+[marginalia]
+$d^2x$
+$d +$
+$\delta +$
+[/marginalia]
+
+[marginalia]
+$0$ $\tau_{n-1}$
+$1$ $\tau_{n}$
+$2$ $\tau_{n+1}$
+$3$ $\tau_{n+2}$
+[/marginalia]
+
+[marginalia]
+$\tau$
+[/marginalia]
+
+[marginalia]
+$f_0$
+$f_0 + ds f'_0 + \frac{(ds)^2}{2} f''_0 + \frac{(ds)^3}{6} f'''_0$
+$f_0 + 2ds + \frac{(2ds)^2}{2} + \frac{4}{3}(ds)^3$
+$f_0 + 3ds + \frac{9}{2}(ds)^2 + \frac{9}{2}(ds)^3$
+$f_0 + 4ds + 8(ds)^2 + \frac{32}{3}(ds)^3$
+[/marginalia]
+
+[marginalia]
+$\frac{64}{3}$
+$\frac{63}{6}$
+[/marginalia]
+
+[marginalia]
+$s$
+[/marginalia]

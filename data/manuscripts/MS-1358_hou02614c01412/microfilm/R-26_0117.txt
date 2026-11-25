@@ -1,0 +1,25 @@
+[pn]9[/pn]
+
+[u]Morison's Bridge 1899 Feb 4[/u]
+
+$b_{-N} = b_{-R+(R-N)}$
+$= (R-N)b_{-R+1} - \frac{(R-N-1)[5(R-N)^2-25(R-N)+36]}{6} b_{-R} - \delta$
+
+$b_{N+2} - 4b_{N+1} + 6b_N - 4b_{N-1} + b_{N-2} + g w_{-R+(R-N)} + \frac{E}{B\beta} \frac{b_{-N}}{N^2} = 0$
+
+$b_{N+2} = 4b_{N+1} - 6b_N + 4b_{N-1} - b_{N-2} - g w_{\underset{-N}{[del]+R+2[/del]}} + \frac{E}{B\beta} \frac{b_{-N}}{N^2}$
+
+[fig]curly bracket pointing from 4b_{N+1} to the line below[/fig] $4(R-N+1) b_{-R+1} - \frac{4}{6} (R-N) [5(R-N+1)^2 - 25(R-N+1) + 36] b_{-R}$
+
+$- \frac{g}{\beta} (1 + 4 + 10 + \text{etc} )$
+$- 6(R-N) b_{-R+1} + \frac{(R-N)}{6} [5(R-N)^2 - 25(R-N) + 36] b_{-R}$
+$+ 4(R-N-1) b_{-R+1} + \frac{4}{6} (R-N-2) [5(R-N-1)^2 - 25(R-N-1) + 36] b_{-R}$
+$- (R-N-2) b_{-R+1} + \frac{(R-N-3)}{6} [5(R-N-2)^2 - 25(R-N-2) + 36] b_{-R}$
+$+ \frac{E}{B\beta} \frac{R-N}{N^2} b_{-R+1} + \frac{E}{B\beta} \frac{1}{N^2}$
+$+ \text{etc}$
+
+$= \left[ (R-N) (1 + \frac{E}{B\beta} \frac{1}{N^2}) + 2 \right] b_{-R+1}$
+
+$[ - \frac{5}{6}(R-N)^3 - \frac{187}{6}(R-N) - \frac{6}{6} ]$
+
+[fig]scratchpad calculations[/fig]

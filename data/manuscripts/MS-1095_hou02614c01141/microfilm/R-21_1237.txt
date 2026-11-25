@@ -1,0 +1,39 @@
+[fig]Two line drawings of beams or curves with vertical lines[/fig]
+
+[fig]Geometric diagram of a three-dimensional frame or structure[/fig]
+
+[del][fig]Small scribble[/fig][/del]
+
+[del]$(n-1)$[/del]
+
+$$\begin{aligned}
+& u_0^2 - 2u_0u_1 + u_1^2 \\
+& \qquad\qquad + u_1^2 [del]-[/del][ins]$+$[/ins] 2u_1u_2 + u_2^2 \\
+& \qquad\qquad\qquad\qquad u_2^2 + 2u_2u_3 + u_3^2
+\end{aligned}$$
+
+$$u_1 + u_2 + u_3 + u_4 = 0$$
+
+$$\begin{aligned}
+& u_0^2 - 2u_0u_1 + u_1^2 \\
+& \qquad [del]= 2u_0 + u_1[/del] \quad u_1^2 + 2u_1u_2 + u_2^2 \\
+& \qquad\qquad\qquad\qquad\qquad\qquad u_2^2 + 2u_2u_3 + u_3^2
+\end{aligned}$$
+
+$$u_1 + u_2 + [del]u_3 + u_4 = 0[/del]$$
+
+$$-2u_0 + [del]4[/del]u_1 - 2u_2$$
+
+$$\begin{aligned}
+& u_1 + u_2 = -u_0 - u_3 \\
+& u_1 = \frac{8u_0 + 4u_3}{12}
+\end{aligned}$$
+
+$$-2u_0 + 4u_1 - 2u_2$$
+
+$$du_2 + du_3 = 0 \qquad\qquad\qquad\qquad du_2 = 0$$
+
+$$[del]4[/del]u_0 + 6u_1 - 6u_2) du_1 + (-2u_1 + 4u_2 - 2u_3)$$
+$$+ 12u_1 \qquad\qquad [del]4[/del]u_3 = 0$$
+
+$$u_1 = -$$

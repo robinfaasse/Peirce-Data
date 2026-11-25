@@ -1,0 +1,28 @@
+[marginalia]A[/marginalia] [fig]Venn diagram with circle a containing a smaller circle[/fig] [fig]Venn diagram with circle a containing circle b[/fig]
+
+[u]                                                                                                                                  [/u]
+
+[marginalia]# a[/marginalia] [fig]Venn diagram with circle c a containing circle b[/fig] [fig]Venn diagram with circle a containing circle b[/fig] [fig]Venn diagram with circle a c containing circle b[/fig]
+
+[u]                                                                                                                                  [/u]
+
+[fig]Venn diagram with circle a containing circle b[/fig] [fig]Venn diagram with circle a containing circle b c[/fig] [fig]Venn diagram with circle a containing circle c[/fig]
+
+[u]                                                                                                                                  [/u]
+
+[marginalia]a[/marginalia] [fig]Venn diagram with circle containing circle a[/fig] [fig]Venn diagram with circle m containing circle n[/fig] [fig]Venn diagram with circle n containing circle p[/fig]
+
+[fig]Venn diagram with circle x containing circle y[/fig] [fig]Venn diagram with circle y containing circle z[/fig] [marginalia]x
+y[/marginalia] [fig]Venn diagram with circle y containing circle z[/fig] [fig]Venn diagram with circle m containing circle p[/fig] [fig]Venn diagram with circle y containing circle z[/fig]
+
+[u]                                                                                                                                  [/u]
+
+[fig]Venn diagram with circle x containing circle y containing circle z[/fig] [fig]Venn diagram with circle m containing circle p[/fig] [fig]Venn diagram with circle s containing circle p[/fig] [fig]Venn diagram with circle s containing circle m[/fig] [marginalia]x
+y[/marginalia] [fig]Venn diagram with overlapping circles x and y containing z[/fig]
+
+[u]                                                                                                                                  [/u]
+
+[fig]Venn diagram with circle x containing circle y containing z[/fig] [fig]Venn diagram with circle x containing circle y[/fig] [fig]Venn diagram with circle s containing circle m[/fig] [fig]Venn diagram with circle s containing circle p[/fig] [marginalia]y
+z[/marginalia] [fig]Venn diagram with overlapping circles y and z[/fig]
+
+[fig]Venn diagram with circle containing circle[/fig]

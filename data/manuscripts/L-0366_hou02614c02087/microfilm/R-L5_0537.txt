@@ -1,0 +1,36 @@
+[marginalia]
+[pn]1909[/pn]
+[date]July
+13[/date]
+[pn]7[/pn]
+[/marginalia]
+
+I cannot finish the last sentence, for I have quite forgotten
+what I was about to say. For twelve days, my nose has been
+upon the grindstone, on the most distasteful work, which I am
+entirely unfitted for, drawing up a complicated contract, while Juliette
+has been pouring conflicting items to be inserted into it; so that each
+day when I have given up the work for the day & hoped to write a little
+on this letter, I have promptly fallen asleep.
+
+But suppose we have a number, [del]of[/del] [ins]L[/ins], of letters; of [del]wh[/del] [ins]which[/ins] [u]A[/u] of
+them are [u]a[/u]'s and any arrangement of them is just as probable
+as any other. Then the probability that the first will be an [u]a[/u] is
+[fraction]A/L[/fraction]. The probability that one or other or both of the first two will
+be [u]a[/u] is [fraction]A/L[/fraction] + [fraction]L-A/L[/fraction] [fraction]A/L-1[/fraction] = 1 - [fraction]L-A/L[/fraction] [fraction]L-A-1/L-1[/fraction]. The probability
+that some one or more of the first N of them will be [u]a[/u]
+will be 1 - [fraction]L-A/L[/fraction] [fraction]L-A-1/L-1[/fraction] [fraction]L-A-2/L-2[/fraction] ... [fraction]L-A-N+1/L-N+1[/fraction].
+
+If we use the usual symbol ! [del]to[/del] placed after a whole number
+to denote the continued product of such whole numbers up to
+and including that whole number, so that 3! = 3.2.1, 4! = 4.3.2.1
+the probability that one or more of the first [u]n[/u] letters will be
+an [u]a[/u] is 1 - [fraction](L-A)! (L-N)!/L! (L-A+N)![/fraction]. Now there is a convenient
+formula which gives the value of n! for any value of [u]n[/u], not
+precisely, it is true, nor even indefinitely near to precision, but
+in all cases [del]x[/del] with an error not a billionth of the smallest
+error that is worth considering in any calculation of probabilities.
+This formula, called "Stirling's formula" is best put in the following
+form, where log. stands for an ordinary, Briggsian logarithm [del]on[/del]
+[ins]base 10.[/ins]
+log n! = [fraction]1/2[/fraction] [bracket]log (2[pi]) + (2n+1) log n[/bracket] + log e [bracket]-n + [fraction]B_1/1.2.n[/fraction] - [fraction]B_2/3.4.n^3[/fraction] + [fraction]B_3/5.6.n^5[/fraction] - [fraction]B_4/7.8.n^7[/fraction] + etc.[/bracket]

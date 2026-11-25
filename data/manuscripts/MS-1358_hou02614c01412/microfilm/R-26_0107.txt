@@ -1,0 +1,35 @@
+Morrison's Bridge 1899 Feb 3 - St. Venant
+
+Whether one ought to take account of elongations
+of suspenders.
+
+Imagine cable rigid. Neglect weight of truss
+
+[fig]Sketch of a bridge cable with vertical suspenders[/fig]
+
+$b_n$ length of $n^{\text{th}}$ suspender
+$B_n$ natural length of same
+
+Then Energy =
+$\sum_0^N \frac{1}{2} E \left( \frac{b_n - B_n}{B_n} \right)^2 + g w \sum_{m_0}^{m_1} b_n$
+
+$\frac{E}{B_n^2} (b_n - B_n) + g w = 0$
+
+[del]That is outside the live load[/del] The equations are
+
+[fig]Horizontal line with three points[/fig]
+
+$\sum_0^N \frac{1}{2} E \left( \frac{b_n - B_n}{B_n} \right)^2 + \sum_0^N \frac{1}{2} \beta \left( b_{n+2} - 2 b_{n+1} + b_n - B_{n+2} + 2 B_{n+1} - B_n \right)^2$
+$+ g w \sum_{m_0}^{m_1} b_n$
+
+That is, outside of suspenders (
+But $B_n = \beta (N - n) n$
+$B_{n+1} - B_n = \beta (N - n - 1)(n+1) - \beta (N - n) n$
+$= \beta [ (N - n) - (n+1) ]$
+$= \beta (N - 2n - 1)$
+$B_{n+2} - 2 B_{n+1} + B_n = -2 \beta$
+
+$\frac{E}{B_n^2} (b_n - B_n) + \beta (b_{n-2} - 2 b_{n-1} + b_n + 2 \beta)$
+$+ \beta ( -2 b_{n-1} + 4 b_n - b_{n+1} - 4 \beta )$
+$+ \beta ( b_n - 2 b_{n+1} + b_{n+2} + 2 \beta ) = 0$
+[del]+ g w = 0[/del] Within suspenders add the term $g w$

@@ -1,0 +1,24 @@
+$$\frac{D_{x}^{2}y}{[1+(D_{x}y)^{2}]^{\frac{3}{2}}} = \frac{1}{a}$$, or Radius is reciprocal of Cur-
+vature; now, as Radius of Curvature of any
+Curve is Radius of osculating circle at point
+of calculation, we have for its Equation
+$$R = \frac{[1+(D_{x}y)^{2}]^{\frac{3}{2}}}{D_{x}^{2}y}$$.
+
+$$D_{x}^{2}\tau = D_{x}^{2}x \cdot D_{x}\tau = \frac{1}{[1+(D_{x}y)^{2}]}$$
+
+$$D_{x}\tau =$$
+
+$$\tan \tau = D_{x}y$$
+
+$$D\tan \tau = D_{x}^{2}y = 2\tan \tau$$
+
+$$1+(D_{x}y)^{2} = 1+(\tan \tau)^{2} = \sec^{2}\tau$$
+
+[pn]5[/pn]
+
+[fig]Diagram of a cycloid curve with a rolling circle of radius a[/fig]
+
+$$AP\text{ must} = AM = PM, \vartheta = \frac{PM}{a} = \frac{PM}{a}$$ [ins]$$PM = a\vartheta$$[/ins]
+$$y = TS + PS = a + a\cos(\vartheta - 90^{\circ}) = a(1 - \cos \vartheta)$$
+$$x = AM - OS = a\vartheta - a\sin(\vartheta - 90^{\circ}) = a(\vartheta - \sin \vartheta)$$
+These are the eqs of Cycloid

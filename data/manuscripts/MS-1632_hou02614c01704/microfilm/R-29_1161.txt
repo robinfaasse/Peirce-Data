@@ -1,0 +1,32 @@
+[pn]234.[/pn] Let the radii of the given circles be $r$ and $r'$, [del]that[/del]
+[del]of the sought one[/del] $R$; [del]the[/del] length of the tangent to the two
+circles $d$ and the segments made on it by the point of
+contact of the new circle to $d'$ and to $d''$
+we have $(R+r)^{2} - (R-r)^{2} = [del](d')^{2}[/del] = 4Rr$ - - - -
+$(R+r')^{2} - (R-r')^{2} = [del](d'')^{2}[/del] = 4Rr'$ - - - -
+[del]$\frac{d'^{2}}{r} = \frac{d''^{2}}{r'} = 4R$[/del]
+[del]$\frac{(d+d')^{2}}{r} + \frac{(d-d')^{2}}{r'} = \frac{4d^{2}}{r+r'}$[/del]
+$\frac{1}{2}d + d' = 2 R^{\frac{1}{2}} r^{\frac{1}{2}}$
+$\frac{1}{2}d - d' = 2 R^{\frac{1}{2}} r'^{\frac{1}{2}}$
+$d = 2 R^{\frac{1}{2}} (r^{\frac{1}{2}} + r'^{\frac{1}{2}})$  $R = \frac{d^{2}}{4(r^{\frac{1}{2}} + r'^{\frac{1}{2}})^{2}}$ .
+
+[pn]235.[/pn] Required the locus of the intersections of the
+ordinates of an ellipse, with the perpendiculars let
+fall from its center upon the tangents at the extrem-
+ities of their ordinates.
+
+Solution: Let the ellipse be $a^{2}y^{2} + b^{2}x^{2} = a^{2}b^{2}$.
+$y', x$ are the coordinates of the points of the locus, corres-
+ponding to $y, x,$ of the ellipse. We have the proportion
+[del]subnormal[/del] $x : y :: y : y'$
+[del]subnormal[/del] or $\frac{b^{2}}{a^{2}}x : x :: \frac{b}{a}(\overline{a^{2}-x^{2}})^{\frac{1}{2}} : y' = \frac{a}{b}(\overline{a^{2}-x^{2}})^{\frac{1}{2}}$ [ins]concentric with the given one[/ins]
+The locus sought is then an ellipse. [del]To find its axes let[/del]
+[del]them be[/del] $A$ and $B$.
+[fig]sketch of ellipse[/fig] $y'^{2} = \frac{B^{2}}{A^{2}} (A^{2}-x^{2})$.
+Hence $\frac{B}{A} = \frac{a}{b}$.  $b B = a A$.
+$A = a$.
+$B = \frac{a^{2}}{b}$ [del]= the parameter to b[/del]
+such
+[del]so[/del] that the transverse of the given ellipse is the conjugate
+of the new one; and the parameter to the conjugate of the
+first, the transverse of the second.

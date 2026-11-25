@@ -1,0 +1,24 @@
+[del]Ex[/del]
+$$A_1 (v-y_1)^2 + A_2 (v-y_2)^2 + \text{etc} = 0$$
+$$B_2 (y_1-f)^2 + B_2 (y_2-f)^2 + \text{etc} = 0$$
+
+If $y_i = v$
+$$(v-y_1)^2 = 0$$
+$$(y_1-f)^2 = (v-f)^2$$
+
+If $y_i = f$
+$$(v-y_1)^2 = (v-f)^2$$
+$$(y_2-f)^2 = 0$$
+
+$$(m-f)^2 + (k-f)^2 = 0$$
+
+$$(x-f)(v-y) = 0$$
+$$(y-f)(v-z) = 0$$
+
+[fig]Diagram with intersecting lines and labels[/fig]
+
+$$\begin{array}{cc}
+y \approx v & y = f \\
+0 & v-f \\
+v-f & 0
+\end{array}$$

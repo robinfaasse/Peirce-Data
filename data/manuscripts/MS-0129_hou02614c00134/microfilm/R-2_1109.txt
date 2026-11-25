@@ -1,0 +1,15 @@
+[u]Theorem[/u]. If [u]a triangle be cut by a ray parallel to[/u] [u]either side, then rays through the opposite vertex divide[/u] [u]that side and its parallel proportionally[/u], at least, when the segments are commensurable.
+
+[u]Demonstration[/u]. In the triangle $\Delta\text{ABC}$, let $\{\text{DE}\}$ be parallel to $\{\text{BC}\}$ and cut $\{\text{AD}\}$ and $\{\text{AC}\}$ in $[\text{D}]$ and $[\text{E}]$ respectively. Let $\{\text{AM}\}$ cut $\{\text{DE}\}$ and $\{\text{BC}\}$ in $[\text{U}]$ and $[\text{M}]$ respectively, and let $\{\text{AN}\}$ cut $\{\text{DE}\}$ and $\{\text{BC}\}$ in $[\text{V}]$ and $[\text{N}]$ respectively.
+
+[fig]Triangle ABC with parallel line DE and rays AM, AN[/fig] To prove, that (if the [del]lengths[/del] [ins]lengths[/ins] are commensurable)
+$$|\text{UV}| : |\text{MN}| = |\text{AE}| : |\text{AC}|.$$
+
+Let the motion be moved so as to bring the particle $[\text{C}]$ to the particle at $[\text{A}]$ remaining in the same coming to $[\text{A}']$, and the particle at $[\text{V}]$ coming to $[\text{V}']$, which may be taken in the ray $\{\text{BC}\}$ because $\angle\text{AEV} = \angle\text{A}'\text{C}\text{B}$, by the doctrine of parallels. Then, by the last theorem
+$$|\text{CV}'| : |\text{CA}| = |\text{CA}'| : |\text{CA}|$$
+or
+$$|\text{EV}| : |\text{CN}| = |\text{EA}| : |\text{CA}|.$$
+and in like manner
+$$|\text{EU}| : |\text{CM}| = |\text{EA}| : |\text{CA}|.$$
+Hence, by the doctrine of proportions,
+$$|\text{UV}| : |\text{MN}| = |\text{EA}| : |\text{CA}|. \quad \text{Q.E.D.}$$

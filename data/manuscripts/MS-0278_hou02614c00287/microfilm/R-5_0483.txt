@@ -1,0 +1,16 @@
+In [del]the[/del] $e^{xi} = \left(1+\frac{1}{N}\right)^{Nxi}$ put $N = \frac{\mu}{i}$
+
+$e^{xi} = \left(1+\frac{i}{\mu}\right)^{\frac{\mu}{i}xi} = \left(1+\frac{i}{\mu}\right)^{\mu x}$
+
+In this expression, put $x = \frac{1}{\mu}$
+
+$e^{\frac{i}{\mu}} = \left(1+\frac{i}{\mu}\right) = \cos \frac{1}{\mu} + \sin \frac{1}{\mu} \cdot i$
+
+Hence $\cos \frac{1}{\mu} = 1$ $\sin \frac{1}{\mu} = \frac{1}{\mu}$ when $\mu$ is [del]very[/del] [ins]infinite[/ins].
+
+In the formulae for $\sin (u+v)$ and $\cos (u+v)$ put $v = \frac{1}{\mu}$ where $\mu$ is infinite
+
+$\sin \left(u+\frac{1}{\mu}\right) = \sin u + \frac{1}{\mu} \cos u$
+$\cos \left(u+\frac{1}{\mu}\right) = \cos u - \frac{1}{\mu} \sin u$
+
+It follows that $\cos u$ will decrease as $u$ increases until $\sin u$ becomes zero. At that point $\cos u = \sqrt{1}$ and since it has been continually decreasing from $\cos 0 = 1$, it follows that it is the negative root. That is $\cos u = -1$. [del]There[/del] [ins]It[/ins] must therefore [del]be zero[/del] [ins]pass through[/ins] all [ins]real[/ins] values from $+1$ to $-1$.

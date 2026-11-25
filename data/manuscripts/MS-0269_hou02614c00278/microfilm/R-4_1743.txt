@@ -1,0 +1,30 @@
+[fig]Diagram showing a central node A connected to three nodes B, C, D[/fig] 1. Every summit has three adjacent summits.
+2. Let B, C, D be the summits adjacent to A.
+Then there are six quantities
+(BAC) (BAD) (CAB) (CAD) (DAB) (DAC)
+such that
+(DAC) = (CAB) = (BAD)
+(DAB) = (BAC) = (CAD)
+While (DAC) $\neq$ (DAB)
+
+If $(A A' A'') = (A' A'' A''') = (A'' A''' A^{IV}) = \text{etc}$
+$(A_1 A_2 A_3) = (A_2 A_3 A_4) = (A_3 A_4 A_5)$ etc
+We shall finally have $(A_{n-1} A_n A_1) = (A_n A_1 A_2) = (A_1 A_2 A_3)$
+and in the series no letter is repeated.
+
+[fig]Graph with vertices labeled -1, +1, -1, +1[/fig]
+[fig]Pentagonal graph with vertices labeled -1, -1[/fig]
+
+Let the summits adjacent to A be denoted by [del]$A_1, A_2, A_3$[/del] [ins]$iA, jA, kA$[/ins]
+[del]$1A, 2A, 3A$[/del]
+
+[fig]Tree diagram showing branching paths labeled with operators i, j, k acting on A[/fig]
+
+Then $i^2 A = A$ [del]$j^2 = 1$[/del] [ins]$j^2 = 1$[/ins] $k^2 = 1$
+If then we form the products
+$i$
+$ki$
+$jki$
+$ijki$
+$jijki$ etc
+we shall finally reach a product equal to 1

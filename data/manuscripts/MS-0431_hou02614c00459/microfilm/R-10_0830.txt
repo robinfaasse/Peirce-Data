@@ -1,0 +1,22 @@
+[marginalia]
+[pn]Logic[/pn]
+[pn]U[/pn]
+[pn]III[/pn]
+171
+[/marginalia]
+
+as a preliminary step
+[ins]$\begin{aligned} i' & = \frac{(i-j)-(k-i)}{3} \\ j' & = \frac{(j-k)-(i-j)}{3} \\ k' & = \frac{(k-i)-(j-k)}{3} \end{aligned}$[/ins]
+$\begin{aligned} l' & = \frac{(l-m)-(n-l)}{3} \\ m' & = \frac{(m-n)-(l-m)}{3} \\ n' & = \frac{(n-l)-(m-n)}{3} \end{aligned}$
+
+where since $i'+j'+k' = l'+m'+n' = 0$, the [del]6[/del] [ins]new[/ins] letters are not independent, and with these we should find the last multiplication-table reproduced exactly, except that all the letters would be accented.
+
+Of course all the formulae given will also hold good, [ins]every[/ins] [del]and[/del] the last formulae will hold, [del]if to name to be removed from the letters[/del]
+
+[del]now we have[/del] That is, the equation $i' = \frac{(i-j)-(k-i)}{3}$ will give
+$i' = \frac{(i'-j')-(k'-i')}{3}$; this being a consequence of $i'+j'+k'=0$.
+We do not, of course, have $i+j+k$ or $l+m+n$ equal to zero;
+but upon that head there will be a remark to be made in due time.
+
+Let us see how a quantity must be composed to make its square vanish; that is, let us find what values of $q,r,s,t,u,v$ will make
+$(qi+rj+sk+tl+ym+zn)^2 = 0$

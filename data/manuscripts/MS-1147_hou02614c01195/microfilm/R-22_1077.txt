@@ -1,0 +1,31 @@
+[marginalia]
+Symbolical
+Logic
+12
+All our transformations are to be made
+by insertions and omissions. That is, if
+from A follows B, we can transform
+A into AB and then omit the A. But
+to say that we can transform A into AB
+is, by the same principle, to say that A can be
+transformed into
+[/marginalia]
+
+permits us to write $[X(B)]$. That is, if B is sometimes true,
+then "If X is ever true, B is sometimes true". Let us write the
+proposition "If C is true under at any quasi-instant, then at
+some quasi-instant, if A is true at any quasi-instant, B is
+true at some quasi-instant." This is $(C\{[A(B)]\})$. But,
+by Rule III, this is the same as $(CA(B))$. This is the [del]author's[/del]
+proposition stated in [del]by[/del] [ins]equivalent to[/ins] this, "If at any quasi-
+instant C is true and at any quasi-instant A is true,
+then at some quasi-instant B is true."
+
+It is now plain that in place of Rule II, a new rule
+ought to be substituted showing the effect of [del]conditional[/del]
+[del]disjunction. For[/del] we have the fact "If A is ever true, then
+B is sometimes true; and further, C is sometimes true",
+then [del]it is[/del] [ins]it is[/ins] true that "If A is ever true, then both B is
+sometimes true and C is sometimes true". That is
+$\{[A(B)]C\} \quad \{[A(B)]C\} \quad [AC(B)]C \quad (a)(b) \quad [a(b)] \quad [a(c)]$
+[fig]mathematical scribble[/fig]

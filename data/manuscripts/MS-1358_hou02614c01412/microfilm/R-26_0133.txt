@@ -1,0 +1,54 @@
+[marginalia]
+Morrison's Bridge 1898 Feb 7
+[/marginalia]
+
+[del]$$B_n = M_n - M_{n-1}$$[/del]
+$$B_n = -M_{n+1} + M_n + \frac{W}{2}$$
+
+[marginalia]
+Such were the words
+that o'er the sacred pride
+Of the first Edward scattered
+wild dismay. As down
+the steep of Snowdon's
+shaggy side, He wound
+with toilsome march his
+long array. Stout Glo'ster stood
+aghast in speechless trance;
+"To arms!" cried Mortimer, and
+couched his quivering lance.
+[/marginalia]
+
+Suppose that a truss rests on four points
+[fig]Truss on four points[/fig]
+and over an intermediate space its weight per foot
+is different, and the bending is such as to bring
+it into straightness.
+
+[fig]Force diagrams[/fig]
+
+[del]Energy $\frac{1}{2} \int B \left(\frac{d\theta}{ds}\right)^2 ds +$[/del]
+
+[del]If $\theta$ is the angle between[/del]
+If $\theta$ is the unstrained angle of any part to the horizontal
+$\delta\theta$ an increase of this angle, [del]bending[/del] [ins]lifting[/ins] the line from the horizontal
+
+[del]$\frac{1}{2} \int B \left(\frac{d\theta}{ds}\right)^2 ds +$[/del]
+[del]Variation $\frac{1}{2} B \left(\frac{d\theta}{ds}\right)$[/del]
+
+[fig]Geometric diagrams of links and angles[/fig]
+
+[fig]Linked chain diagram[/fig]
+[del]$y_a \rightarrow y_b \ y_c \ y_d$[/del]
+[fig]Small support diagram[/fig]
+
+Let the [del]first[/del] [ins]middle[/ins] link be horizontal and the rest
+have the angles with the horizontal $\Theta_n$     $\Theta_0 = 0$
+let the length of each link be [del]$l$[/del] $u$ (constant)
+and the weight of each be [del]$w$[/del] $u$ [del]except[/del] in middle
+[del]one[/del] (from $-N$ to $+N$) and the outside from $n = \pm N$ to $\pm [del]M[/del]$
+be $v$. Then energy when brought to horizontal is
+$$\frac{1}{2} B \left[ \Theta_1^2 + (\Theta_2 - \Theta_1)^2 + (\Theta_3 - \Theta_2)^2 + \dots (\Theta_{N} - \Theta_{N-1})^2 \right]$$
+$$+ \frac{1}{2} B \left[ \Theta_1^2 + (\Theta_2 - \Theta_1)^2 + \dots \right] + (\Theta_{N+1} - \Theta_N)^2$$
+[del]$- u w \Theta_1 - u w \Theta_2$[/del] $- I u [del]w[/del] v \Theta_1 + \cos \Theta_1 + \text{etc}$
+[del]$- I u [del]w[/del] v \cos \Theta_1 (N-1) u - L \cos \Theta_2 (N-2) u - I \cos \Theta_3 (N-3)$[/del]

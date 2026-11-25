@@ -1,0 +1,62 @@
+$$\sin^{2}(x+y) = \frac{1}{2} [ 1 - \cos 2(x+y) ]$$
+$$= \frac{1}{2} [ 1 - \cos 2x \cos 2y + \sin 2x \sin 2y ]$$
+$$\sin^{2}(x-y) = \frac{1}{2} [ 1 - \cos 2(x-y) ]$$
+$$= \frac{1}{2} - \frac{1}{2} \cos 2x \cos 2y - \frac{1}{2} \sin 2x \sin 2y$$
+
+$$\frac{\sin^{2}(x+y)}{\sin^{2}(x-y)} = \frac{1}{4} - \frac{1}{2} \cos 2x \cos 2y + \frac{1}{4} \cos^{2} 2x \cos^{2} 2y - \frac{1}{4} \sin^{2} 2x \sin^{2} 2y$$
+$$= \frac{1}{4} - \frac{1}{2} \cos 2x \cos 2y + \frac{1}{4} - \frac{1}{4} \cos^{2} 2x - \frac{1}{4} \sin^{2} 2y$$
+$$= \frac{1}{2} - \frac{1}{2} \cos 2x \cos 2y - \frac{1}{4} \sin^{2} 2x - \frac{1}{4} \sin^{2} 2y$$
+
+[fig]Geometric diagram with intersecting lines inside a square[/fig]
+
+[pn][M][/pn] = [del]$\sin^{4}$[/del]
+
+$$\sin(x+y) \sin(x-y) = \sin^{2}x - \sin^{2}y$$
+$$= \frac{1}{2} \cos 2y - \frac{1}{2} \cos 2x$$
+
+[marginalia]
+$\cos 2a = 2\cos^{2}a - 1$
+$\cos^{2}a = \frac{1}{2}(1+\cos 2a)$
+[/marginalia]
+
+$$\frac{\sin x \cos y + \cos x \sin y}{\sin x \cos y - \cos x \sin y}$$
+$$\frac{\sin^{2}x \cos^{2}y - \cos^{2}x \sin^{2}y}{\cos^{2}y - \cos^{2}x \cos^{2}y}$$
+$$- \cos^{2}x + \cos^{2}x \cos^{2}y$$
+$$= \frac{1}{2} \cos 2y - \frac{1}{2} \cos 2x$$
+
+$$\frac{\frac{1}{2}[1+\cos(n-p)] \frac{1}{2}[1+\cos(s+m)]}{+ \frac{1}{2}[1+\cos(n+p)] \frac{1}{2}[1+\cos(s-m)]}$$
+$$= \frac{1}{4} [1+\cos m \cos p] (1+\cos s \cos m) - \frac{1}{4} \sin m \sin p \sin s$$
+
+$$\frac{(A+B)(C-D)}{+ (A-B)(C+D)}$$
+
+$$\sin^{2}m = \frac{1}{2}(1+\cos m)$$
+$$\cos 2m = 1 - 2\sin^{2}m$$
+
+$$\sin \frac{1}{2}(q+m-p) \sin \frac{1}{2}(q-m+p) = \sin^{2} \frac{1}{2}q + \sin^{2} \frac{1}{2}(p-m)$$
+
+[marginalia]
+$\cos 2a = 2\cos^{2}a - 1$
+$1 + \cos 2a = 2\cos^{2}a$
+[/marginalia]
+
+$$\sin^{2}(x+y) = \sin^{2}x \cos^{2}y + \cos^{2}x \sin^{2}y + 2\sin x \cos x \sin y \cos y$$
+$$\sin^{2}(x-y) = \sin^{2}x \cos^{2}y + \cos^{2}x \sin^{2}y - 2\sin x \cos x \sin y \cos y$$
+
+$$\sin^{2}(x+y) + \sin^{2}(x-y) = 2\cos^{2}x + 2\cos^{2}y - 4\cos^{2}x \cos^{2}y$$
+$$= 2 + \cos 2x + \cos^{2}y - (1+\cos 2x)(\frac{1+\cos 2y}{2})$$
+$$= 1 - \cos 2x \cos 2y$$
+
+$$\frac{(M+N)(P-Q)}{+ (M-N)(P+Q)}{2MP - 2NQ}$$
+
+$$\sin^{2}(u-v) \sin^{2}(x+y) = (\sin^{2}x \cos^{2}y + \cos^{2}x \sin^{2}y + 2\sin x \cos x \sin y \cos y)$$
+$$\times (\sin^{2}u \cos^{2}v + \cos^{2}u \sin^{2}v - 2\sin u \cos u \sin v \cos v)$$
+$$= (\cos^{2}x + \cos^{2}y - 2\cos^{2}x \cos^{2}y + 2 \text{ \_\_\_\_\_\_\_\_ }$$
+$$(\cos^{2}u + \cos^{2}v - 2\cos^{2}u \cos^{2}v - 2 \text{ \_\_\_\_\_\_\_\_ }$$
+
+$$[s+m]^{2} + [s-m]^{2}$$
+
+$$\sin^{2}(u-v) \sin^{2}(x+y) + \sin^{2}(u+v) \sin^{2}(x-y)$$
+$$= 2(\cos^{2}x + \cos^{2}y - 2\cos^{2}x \cos^{2}y)(\cos^{2}u + \cos^{2}v - 2\cos^{2}u \cos^{2}v)$$
+$$- 8 \sin x \cos x \sin y \cos y \sin u \cos u \sin v \cos v$$
+
+$$\frac{(1-\cos s \cos m + \sin s \sin m)}{(1-\cos s \cos n - \text{ \_\_\_\_\_\_\_\_ })}$$

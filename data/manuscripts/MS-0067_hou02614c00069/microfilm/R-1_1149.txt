@@ -1,0 +1,45 @@
+Cases of 1111
+[del]ab.cd.ef.gh[/del]
+[del]ae.bd.eg.fh[/del]
+[del]ad.bc.eh.fg[/del]
+The other [del]forms[/del] [ins]synthemes[/ins]
+will be taken from among
+ae bf cg dh     af be cg dh     ag be cf dh     ah be cf dg
+ae bf ch dg     af be ch dg     ag be ch df     ah be cg df
+ae bg cf dh     af bg ce dh     ag bf ce dh     ah bf ce dg
+ae bg ch df     af bg ch de     ag bf ch de     ah bf cg de
+ae bh cf cg     af bh ce dg     ag bh ce df     ah bg ce df
+ae bh cg cf     af bh cg de     ag bh cf de     ah bg cf de
+
+Thus
+ae bf cg dh | ae.bf.cg.dh | ae.bf.cg.dh | ae.bf.cg.dh
+af be ch dg | af.be.ch.dg | af.bg ch de | af.bh.ce.dg
+ag bh ce df | ag bh cf de | ag.bh.ce df | ag.be.ch.df
+ah bg cf de | ah bg ce df | ah be cf dg | ah.bg.cf.de
+
+ae bf ch dg | ae bf ch dg | ae.bf.ch.dg | ae.bf.ch.dg
+af be cg dh | af be [del]cg[/del] [ins]bg[/ins] dh | af.bg.ce.dh | af.bh.cg.de
+ag bh ce df | ag bh cf de | ag.bh.cf.de | ag.be.cf.dh
+ah bg cf de | [del]ah[/del] bg ce df | ah.be.cg.df | ah.bg.ce.df
+
+ae.bg.cf.dh | ae.bg.cf.dh | ae.bg.cf.dh | ae.bg.cf.dh | [del]ae.bg.cf.dh[/del]
+af.be.ch.dg | af.bh.ce.dg | af.bh.ce.dg | [del]af.bh.cg.de[/del] | af.bh.cg.de
+ag.bh.ce.df | ag.be.ch.df | ag.bf.ch.de | ag.be.ch.df
+ah.bf.cg.de | ah.bf.cg.de | ah.be.cg.df | ah.bf.ce.dg
+
+ae.bg.ch.df | ae.bg.ch.df | ae.bg.ch.df | ae.bg.ch.df | ae.bg.ch.df
+af.be.cg.dh | af.bh.ce.dg | af.[del]bh[/del] [ins]bf[/ins].ce.dg | af.bh.cg.de | af.bh.cg.de
+ag.bh.cf.de | ag.be.cf.dh | ag.bf.[del]ch.de[/del] | ag.be.cf.dh | ag.bf.ce.dh
+ah.bf.ce.dg | ah.bf.cg.de |               | ah.bf.ce.dg | ah.be.cf.dg
+
+[marginalia]
+No double
+24 cases
+[del]120[/del] x 12
+[del]1143[/del]
+[del]1114[/del]
+[del]1115[/del]
+[del]1116[/del]
+[/marginalia]
+
+will be [del]exactly[/del] parallel making 144 sets, or [del]with each[/del] 1,2,3,4,5 in all 720 sets of this kind

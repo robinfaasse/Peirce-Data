@@ -1,0 +1,20 @@
+[u]Unlimited Discrete Simple Quantity.[/u]
+
+A system of unlimited quantity has no minimum, but in unlimited number a certain quantity is called one, and the numbers as great as this constitute a partial system of [del]un[/del][ins]some[/ins]limited number of which this one is a minimum. The definitions of addition and multiplication require no change, except that the one therein is to be understood in the new sense.
+
+To extend the proofs of the principles of addition and multiplication to unlimited number, it is necessary to show that if true for any number ($1+n$) they are also true for the next smaller number $n$. For this purpose, we can use the same transformations as in the second clauses of the former proof; only we shall to make use of the following lemma.
+
+[u]If $x+y=x+z$, then $y=z$[/u] whatever numbers $x$, $y$, and $z$, may be. First this is true in case $x=1$, for then $y$ and $z$ are both next smaller than the same number. Therefore, neither is smaller than the other, otherwise it would not be next smaller to $1+y=1+z$. But in a simple system, of any two different numbers one is smaller. Hence, $y$ and $z$ are equal. Second, if the proposition is true for $x=n$, it is true for $x=1+n$. For if $(1+n)+y=(1+n)+z$ then by the definition of addition $1+(n+y)=1+(n+z)$; whence it would follow that $n+y=n+z$, and, by hypothesis, that $y=z$. Third, If the proposition is true for $x=1+n$, it is true for $x=n$. For if $n+y=n+z$, then $1+n+y=1+n+z$, because the system is simple. The proposition has thus been proved to be true of $1$, of every [ins]greater[/ins] and of every smaller number, and therefore to be universally true.
+
+An inspection of the above proofs of the principles of addition and multiplication for semilimited number will show that they are readily extended to unlimited number by means of the proposition just proved.
+
+The number next smaller than one is called naught, $0$. This definition in symbolic form is $1+0=1$. To prove that $x+0=x$, let $x'$ be the number next smaller than $x$. Then,
+$$\begin{array}{rll}
+x+0 & & \\
+= & (1+x') + 0 & \text{by the definition of } x': \\
+= & (1+0) + x' & \text{by the principles of addition:} \\
+= & 1+x' & \text{by the definition of naught:} \\
+= & x & \text{by the definition of } x'.
+\end{array}$$
+
+To prove that $x0=0$. First, in case $x=1$, the proposition holds by the definition of multiplication. Next, if true for $x=n$, it is true for $x=1+n$. For

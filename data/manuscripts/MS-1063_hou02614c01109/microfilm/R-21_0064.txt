@@ -1,0 +1,35 @@
+Take any material point
+of the compound pendulum
+It receives first [del]an[/del] [ins]vertical[/ins] acceleration
+$= g$ [del]It also receives[/del] What
+accelerations [ins]$\ddot{z}$ and $\ddot{x}$[/ins] must
+it receive besides,
+in order on the
+whole to retain
+the value of $l$ un-
+changed and to
+produce [del]an acceleration[/del]
+[del]a change[/del]
+$\ddot{\varphi}$ in the change of $\varphi$.
+
+[fig]Diagram of pendulum coordinates with l, z, x, and phi[/fig]
+
+To ascertain this, say the position
+of P by a vertical alteration
+$\delta_1 z$ and [del]then by[/del] [ins]also[/ins] such an
+oblique variation that
+it receives on the whole a [del]mass[/del] [ins]change[/ins]
+of its position along [del]the[/del] its path
+equal to $l \delta \varphi$. Required to
+find $\delta_2 z$ and $\delta_2 x$ the components
+of the second change.
+
+Since $z = l \sin \varphi$
+$x = l \cos \varphi$
+
+$\delta_1 z + \delta_2 z = l \cos \varphi \delta \varphi$
+$\delta_2 x = - l \sin \varphi \delta \varphi$
+
+Hence
+$(\text{D}_t^2 z)_2 = l \cos \varphi \cdot \ddot{\varphi} - g$
+$(\text{D}_t^2 x)_2 = - l \sin \varphi \cdot \ddot{\varphi}$

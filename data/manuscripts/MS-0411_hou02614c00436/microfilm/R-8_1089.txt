@@ -1,0 +1,22 @@
+[pn]246[/pn]
+
+Since $\overline{0|x}$ true
+the rule of antecedental distribution gives
+$\overline{\overline{x|0}|0} | \overline{\overline{x|0}|x}$ true
+
+And since by rule 1
+$\overline{x|} \ \overline{x|}$ true
+
+Rule 4 gives the inference
+$\overline{\overline{x|0}|x}$ true
+$\therefore$ x true
+
+Whence by the principle of Barbara
+$\overline{\overline{x|0}|0}$ true
+$\therefore$ x true
+
+And consequently
+$\overline{\overline{x|0}|0}|x$ true.
+
+This may be called the consequential form of the principle
+[del]of excluded middle.[/del]

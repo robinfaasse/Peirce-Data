@@ -1,0 +1,56 @@
+```
+u	Δu	\frac{u^2}{Δu}	u	Δv
+
+a	-a(1+\frac{1}{2}a)	\frac{a}{1+\frac{1}{2}a}	a/(1+\frac{1}{2}a)	\frac{1}{2}a^2(\frac{1}{1+\frac{1}{2}a} - \frac{1}{1+\frac{2}{3}a})
+-\frac{1}{2}a^2	-\frac{1}{2}a^2(1+\frac{2}{3}a)	-\frac{1}{2}a^2/(1+\frac{2}{3}a)	a-\frac{1}{2}a^2/(1+\frac{2}{3}a)	-\frac{1}{3}a^3(\frac{1}{1+\frac{2}{3}a} - \frac{1}{1+\frac{3}{4}a})
++\frac{1}{3}a^3	-\frac{1}{3}a^3(1+\frac{3}{4}a)	\frac{1}{3}a^3/(1+\frac{3}{4}a)	a-\frac{1}{2}a^2+\frac{1}{3}a^3/(1+\frac{3}{4}a)
+-\frac{1}{4}a^4	-\frac{1}{4}a^4(1+\frac{4}{5}a)	-\frac{1}{4}a^4/(1+\frac{4}{5}a)	a-\frac{1}{2}a^2+\frac{1}{3}a^3-\frac{1}{4}a^4/(1+\frac{4}{5}a)
++\frac{1}{5}a^5
+
+a(1-\frac{1}{1+\frac{1}{2}a}) = a \frac{\frac{1}{2}a}{1+\frac{1}{2}a} = \frac{\frac{1}{2}a^2}{1+\frac{1}{2}a}
+-\frac{1}{2}a^2(1-\frac{1}{1+\frac{2}{3}a}) + \frac{1}{3}a^3/(1+\frac{3}{4}a) = \frac{1}{3}a^3(-\frac{1}{1+\frac{2}{3}a} + \frac{1}{1+\frac{3}{4}a})
+
+\frac{1}{m}a^m(1-\frac{1}{1+\frac{m}{m+1}a}) - \frac{1}{m+1}a^{m+1}\frac{1}{1+\frac{m+1}{m+2}a}
+= \frac{1}{m+1}a^{m+1}(\frac{1}{1+\frac{m}{m+1}a} - \frac{1}{1+\frac{m+1}{m+2}a})
+= \frac{1}{m+2}a^{m+2}(\frac{1}{1+\frac{m+1}{m+2}a} - \frac{1}{1+\frac{m+2}{m+3}a})
+
+Δ^2 = \frac{1}{m+1}a^{m+1}(\frac{1}{1+\frac{m}{m+1}a} + \frac{\frac{m+1}{m+2}a}{1+\frac{m+1}{m+2}a} - \frac{\frac{m+1}{m+2}a}{1+\frac{m+2}{m+3}a})
+
+Δv_m = (-1)^m \frac{a^m}{m} (1 - \frac{1}{1+\frac{m}{m+1}a}) - \frac{a^{m+1}}{m+1} \frac{1}{1+\frac{m+1}{m+2}a}
+= (-1)^m \frac{a^{m+1}}{m+1} [ \frac{1}{1+\frac{m}{m+1}a} - \frac{1}{1+\frac{m+1}{m+2}a} ]
+\frac{m}{1+\frac{m}{m+1}a} + \frac{\frac{m+1}{m+2}a + \frac{m+1}{m+2}a^2}{1+\frac{2m+1}{m+2}a+...} - \frac{m+1}{m+2} = \frac{(-1)^m}{(m+1)(m+2)} a^{m+2} \frac{1}{1+\frac{m}{m+1}a}
+
+\frac{Δu}{[del]\frac{(-1)^m}{m}a^m[/del]}	\Delta^2 m
+-\frac{(-1)^m}{m}a^m	\frac{(-1)^{m+1}}{m+1}a^{m+1} + \frac{(-1)^m}{m}a^m
+= (-1)^m a^m (\frac{a}{m+1} + \frac{1}{m})
+= (-1)^m \frac{a^m}{m} (1 + \frac{m}{m+1}a)
+
+u =
+v+a-\frac{1}{2}a^2+\frac{1}{3}a^3-
+u_m = \Sigma \frac{(-1)^m}{m}a^m
+
+\frac{(Δu)^2}{Δ^2 m} = -\frac{(-1)^m}{m}a^m / (1 + \frac{m}{m+1}a)
+
+u_1 = 0
+u_2 = 0 + a
+u_3 = [del]a[/del] + a - \frac{1}{2}a^2 = a(1-\frac{1}{2}a)
+u_4 = 0 + a - \frac{1}{2}a^2 + \frac{1}{3}a^3 = [del]a[/del] (1-\frac{1}{2}a)(1+\frac{a^2}{3(1-\frac{1}{2}a)})
+
+v_1 = a/(1+\frac{1}{2}a)	v_m = u_m - \frac{(-1)^m}{m}a^m / (1+\frac{m}{m+1}a)
+v_2 = a - \frac{1}{2}a^2/(1+\frac{2}{3}a)
+v_3 = a - \frac{1}{2}a^2 + \frac{1}{3}a^3/(1+\frac{3}{4}a)
+v_4 = a - \frac{1}{2}a^2 + \frac{1}{3}a^3 - \frac{1}{4}a^4/(1+\frac{4}{5}a)
+
+Δv_1 = a - \frac{a}{1+\frac{1}{2}a} = \frac{1}{2}a^2/(1+\frac{1}{2}a)
+Δv_2 = -\frac{1}{2}a^2 + \frac{\frac{1}{2}a^2}{1+\frac{2}{3}a} + \frac{1}{3}a^3/(1+\frac{3}{4}a)
+Δv_m = [del](-1)[/del](-1)^m \frac{1}{m}a^m (1 - \frac{1}{1+\frac{m}{m+1}a}) + (-1)^m \frac{1}{m+1}a^{m+1}/(1-\frac{m+1}{m+2}a)
+
+0
++a	-a(1+\frac{1}{2}a)
+a	=\frac{1}{2}a^2
+a-\frac{1}{2}a^2	-\frac{1}{2}a^2(1+\frac{2}{3}a)
++\frac{1}{3}a^3	\frac{1}{3}a^3(1+\frac{3}{4}a)
+a-\frac{1}{2}a^2+\frac{1}{3}a^3	-\frac{1}{4}a^4(1+\frac{4}{5}a)
+-\frac{1}{4}a^4
+a-\frac{1}{2}a^2+\frac{1}{3}a^3-\frac{1}{4}a^4
+```

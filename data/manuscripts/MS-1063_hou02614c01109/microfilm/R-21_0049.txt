@@ -1,0 +1,37 @@
+If we reckon $s$ from the
+lowest point of the path, we have
+(1) $s = \lambda \varphi$
+and as [del]$\lambda$ is constant[/del]
+(2) $D_t^2 s = \lambda D_t^2 \varphi$
+we have
+
+From these data to find
+the relation between $\varphi$ and
+$t$, the time past any fixed epoch.
+
+Now, of the two accelerations
+only the first [del]produces any[/del]
+[ins]has[/ins] effect upon $\varphi$. We have
+therefore [del]first[/del] to inquire what
+acceleration of the change in
+the value of $\varphi$ is produced by
+a vertical acceleration of the
+motion of $P$ equal to $g$ and
+this acceleration [del]of the motion[/del]
+of $\varphi$ will be the [del]quantity[/del] $D_t^2 \varphi$.
+
+---
+
+$- \frac{1}{y^2+z^2} \times \frac{xz}{x^2} \frac{1}{1+\frac{y^2+z^2}{x^2}} - \frac{1}{\sqrt{y^2+z^2}}$
+
+$90^\circ - \psi = \arctan \frac{(y^2+z^2)^{\frac{1}{2}}}{y}$
+
+$- \delta \psi = - \frac{1}{y} \frac{1}{1+\frac{z^2}{y^2}} \frac{y}{(y^2+z^2)^{\frac{1}{2}}} z$
+
+$= - \frac{xz}{y^2+z^2 \sqrt{y^2+z^2}} - \frac{1}{\sqrt{y^2+z^2}}$
+
+$\frac{\lambda \sin \varphi [del]\delta \psi[/del] - \cos \psi}{(\lambda^2 \sin^2 \varphi + z^2 \tan^2 \psi + z^2) [del]\tan \psi[/del]}$
+$([ins]+ z^2 \sec^2 \psi[/ins])$
+
+$= - \frac{z \tan \psi}{z^2 \tan^2 \psi + z^2}$
+$= - \frac{1}{z} \sin 2\psi$

@@ -1,0 +1,29 @@
+[del]j = i²[/del] [ins]j = i²[/ins] [del]k² = i² · i = i³[/del]
+
+[del]k² = i + m[/del] [ins]m = k² - i[/ins]
+
+[del]ki = l[/del] [del]ik = i² + r l[/del] [del]ik = i² + r i k[/del]
+
+k [del]never a product[/del]
+
+k² = i + m     k³ = (i + m) k = 0
+
+l² = 0   lk = j   kl = r j = r l k
+
+---
+
+i² = j   i³ = 0
+k² = i + m   k³ = 0   m = k² - i
+ik = l   ki = i² + r i k = i (i + r k)
+
+---
+
+[fig]Line segment divided into parts A, B, C, D labeled a, b, c, d[/fig]
+
+[del](ba)ᵢ + (bb)ᵢ + (bc)ᵢ + (b[/del]
+(aa)ᵢ + (ab)ᵢ + (ac)ᵢ + [del](ad)ᵢ[/del] + etc
++ (ba)ᵢ + (bb)ᵢ + (bc)ᵢ + (bd)ᵢ + etc
+
+iA = [u](aa)ᵢ[/u] [ins]A[/ins] + [u](ba)ᵢ[/u] [ins]B[/ins] + [u](ca)ᵢ[/u] [ins]C[/ins] + etc
+[del]i²A = j (aa)ᵢ[/del]
+i²A = (aa)ᵢ² + (ab)ᵢ (ba)ᵢ

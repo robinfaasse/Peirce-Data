@@ -1,0 +1,57 @@
+[marginalia]Barycentric representation of a circle[/marginalia]
+
+[pn]2[/pn]
+
+[fig]Circle inscribed in a triangle with numbered vertices and lines[/fig]
+
+[del][fig]Small diagram[/fig][/del]
+[del]$\rho^2 + \rho + 1 = 0$[/del]
+$\rho^2 + \rho + \frac{1}{2} = -\frac{3}{4}$
+$A + \rho B + \rho^2 C$  $\rho = -\frac{1}{2} \pm \frac{1}{2}\sqrt{-3}$
+$A + \rho^2 B + \rho C$  $\rho = -\frac{1}{2} \mp \frac{1}{2}\sqrt{-3}$
+$\rho^3 = \frac{1}{4} + \frac{3}{4} = 1$
+
+$1 + \rho + \rho^2 + \rho^3 + \rho^4 = 0$
+$\frac{1-\rho^5}{1-\rho} = 0$  $\rho^5 = 1$
+
+[fig]Three small geometric diagrams showing intersecting lines and triangles[/fig]
+
+[fig]Circle with inscribed star polygon and numbered vertices[/fig]
+
+[fig]Circle with inscribed triangle and lines[/fig]
+
+[fig]Small geometric diagram with lines[/fig]
+
+***
+
+[fig]Circle with intersecting lines[/fig]
+
+[fig]Circle with a horizontal line and a perpendicular chord[/fig]
+
+$x^2 + y^2 = R^2$
+
+$r \sec(\theta - \theta_1) = r$
+$r \cos(\theta - \theta_1) = r_1$
+$r' \cos(\theta' - \theta_2) = r_2$
+
+$\theta = \theta_1 + \arccos \frac{r_1}{r}$
+$\theta' = \theta_2 + \arccos \frac{r_2}{r'}$
+
+$r \cos\theta \cos\theta_1 + r \sin\theta \sin\theta_1 = r_1$
+$r' \cos\theta' \cos\theta_2 + r' \sin\theta' \sin\theta_2 = r_2$
+
+$r \sin\theta \frac{(\sin\theta_1 \cos\theta_2 - \cos\theta_1 \sin\theta_2)}{\sin(\theta_1 - \theta_2)} = r_1 \cos\theta_2 - r_2 \cos\theta_1$
+
+$r \cos\theta (\cos\theta_2 \sin\theta_1 - \cos\theta_1 \sin\theta_2) = r_2 \sin\theta_1 - r_1 \sin\theta_2$
+
+$\tan\theta = \frac{r_1 \cos\theta_2 - r_2 \cos\theta_1}{r_2 \sin\theta_1 - r_1 \sin\theta_2}$
+
+$r = \frac{\sqrt{r_1^2 + r_2^2 - 2 r_1 r_2 \cos(\theta_1 - \theta_2)}}{\sin}$
+
+$\sin\theta = \sin\theta_1 \frac{r_1}{r} + \cos\theta_1 \sqrt{1 - \frac{r_1^2}{r^2}}$
+
+$\cos\theta = $
+
+[fig]Circle with inscribed triangle and angles[/fig]
+
+[fig]Geometric diagram showing angles and side lengths[/fig]

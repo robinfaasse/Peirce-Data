@@ -1,0 +1,34 @@
+$$8' = 8 (\bar{\text{⑤}} + \bar{\text{A}}) (\text{A} + \bar{\text{g}}) (\bar{\text{A}} + \bar{\text{K}}) (\bar{\text{K}} + \bar{\text{Q}}) (\text{X} + \text{g}) (\text{A} + \text{J} + \dots$$
+
+$$\begin{aligned}
+&= \bar{\text{⑤}} \text{A} \bar{\text{K}} \bar{\text{Q}} \text{J} \bar{\text{X}} \text{g} && \text{Imp} \longrightarrow [del](\bar{\text{A}} + \bar{\text{Q}} + \bar{\text{J}} + \dots[/del] \\
+&= \bar{\text{⑤}} \text{A} \bar{\text{K}} \bar{\text{Q}} \text{J} \bar{\text{X}} \text{g} && \text{Imp} \longrightarrow [del](\bar{\text{K}} + \bar{\text{Q}} + \bar{\text{J}} + \dots[/del] \\
+& \qquad \qquad \bar{\text{X}} \text{g} && \longrightarrow [del](\bar{\text{A}} + \bar{\text{K}} + \dots[/del] \\
+& \qquad \qquad \bar{\text{X}} \text{g} && \longrightarrow [del](\bar{\text{K}} + \dots[/del] \\
+& \qquad \quad \bar{\text{Q}} \text{J} \bar{\text{X}} \text{g} && \text{Imp} \longrightarrow \\
+& \qquad \qquad \quad \text{g} && \longrightarrow \\
+& \qquad \qquad \bar{\text{X}} \text{g} && \longrightarrow \\
+& \qquad \quad \text{J} \bar{\text{X}} \text{g} && \text{Imp} \longrightarrow \\
+& \qquad \qquad \quad \bar{\text{g}} && \text{Imp} \longrightarrow \\
+& \qquad \qquad \bar{\text{X}} \bar{\text{g}} && \longrightarrow \\
+& \qquad \bar{\text{A}} \bar{\text{K}} \bar{\text{Q}} \text{J} \bar{\text{X}} \text{g} && \text{Imp} \longrightarrow [fig]connecting lines[/fig] \\
+& \qquad \qquad [del]\bar{\text{X}} \bar{\text{g}}[/del] && \text{Imp} \\
+& \qquad \qquad \bar{\text{X}} \bar{\text{g}} \\
+& \qquad \quad \bar{\text{J}} \bar{\text{X}} \bar{\text{g}} \\
+& \qquad \qquad \bar{\text{X}} \bar{\text{g}} && \text{Imp} \\
+& \qquad \quad \bar{\text{⑤}} \bar{\text{K}} \bar{\text{Q}} \text{J} \bar{\text{X}} \bar{\text{g}} \\
+& \qquad \quad \bar{\text{J}} \bar{\text{X}} \bar{\text{g}} \\
+& \qquad \quad \bar{\text{Q}} \bar{\text{J}} \bar{\text{X}} \bar{\text{g}} \\
+& \qquad \quad \bar{\text{J}} \bar{\text{X}} \bar{\text{g}} && \text{Imp} \longrightarrow \\
+& \qquad \quad \bar{\text{J}} \bar{\text{X}} \bar{\text{g}} && \text{Imp} \longrightarrow
+\end{aligned}$$
+
+[marginalia]
+$\bar{\text{K}} + \bar{\text{Q}} + \bar{\text{J}} + \bar{\text{X}} + \bar{\text{g}}$
+[/marginalia]
+
+[marginalia]
+$\bar{\text{A}} \bar{\text{q}} (\bar{\text{J}} \bar{\text{x}} + \bar{\text{J}} \text{x})$
+[/marginalia]
+
+$$\bar{\text{Q}} \text{J} \bar{\text{X}} \bar{\text{q}} (\bar{\text{K}} \bar{\text{K}} + \bar{\text{A}} \bar{\text{K}}) \qquad \bar{\text{K}} \bar{\text{J}} \bar{\text{X}} \bar{\text{q}} (\text{A} + \bar{\text{Q}}) \qquad \bar{\text{K}} \text{J} \bar{\text{X}} \bar{\text{q}} (\dots$$

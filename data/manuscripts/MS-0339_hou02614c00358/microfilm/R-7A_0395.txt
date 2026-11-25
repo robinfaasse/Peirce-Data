@@ -1,0 +1,33 @@
+$n_{i}$ the particular choice of $i$ actually made [del]will[/del] [ins]is[/ins] [del]be true[/del] (other indices being what they are)
+
+$n_{ij}$ the particular choice of $i$ actually made [del]will[/del] [ins]is[/ins] [del]be true[/del] (no matter how other indices are chosen) [del]choices would be true[/del]
+
+$n_{i|j}$ the particular choice of $j$ actually made [del]will[/del] [ins]is[/ins] [del]be true[/del]
+
+$n_{i}$ either no choice of $i$ is [del]will[/del] [ins]actually[/ins] [del]be[/del] made or the particular choice made is [del]will be[/del] [ins]actually[/ins] [del]true[/del]
+
+$n_{i}$ some choice of $i$ will allow [del]the[/del] [ins]a[/ins] [del]true[/del] choice
+
+$n_{ij}$ [del]will[/del] [ins]either[/ins] the choice of $i$ actually made [del]will be[/del] [ins]is[/ins] [del]true[/del], or the choice of $j$ actually made [del]will be[/del] [ins]is[/ins] [del]true[/del]
+
+$n_{i|j}$ the choice of $i$ actually made [del]will be[/del] [ins]is[/ins] [del]true[/del] but the actual choice of $j$ [del]will be[/del] [ins]is[/ins] [del]false[/del]
+
+$m_{i}$ the choice of $i$ actually made [del]will be[/del] [ins]is[/ins] [del]false[/del]
+
+$n_{ij} = \overline{m}_{i} + \overline{m}_{j}$
+
+$n_{i} = F + m_{i}$
+
+$n_{i} \cdot n_{j} = (F + m_{i}) (F + m_{j})$
+
+We thus see that $n_{i} \cdot n_{j}$ is not
+
+$n_{i} \cdot n_{j} \cdot V_{ij} =$
+
+$\overline{n}_{i} + \overline{n}_{j} + V_{ij} = U$
+
+$= (U$
+
+$n_{i} \cdot b_{i} = (F + m_{i}) \cdot b_{i}$
+
+$\overline{n}_{i} + b_{i} = \overline{F} \cdot \overline{m}_{i} + b_{i}$

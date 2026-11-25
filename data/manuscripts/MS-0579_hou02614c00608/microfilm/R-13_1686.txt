@@ -1,0 +1,7 @@
+[u]Rule 1[/u]: [u]principle of permutation[/u]. The order of antecedents is [del]indifferent[/del] [ins]immaterial[/ins]. This,
+
+[u]a[/u];[u]b[/u];[u]c[/u] = [u]b[/u];[u]a[/u];[u]c[/u].
+
+[ins]It will be enough to[/ins] [del]I shall[/del] prove that if [u]a[/u];[u]b[/u];[u]c[/u] is true then [u]b[/u];[u]a[/u];[u]c[/u] is true.
+
+[u]Proof[/u]. [del]By[/del] [ins]By[/ins] $\beta$, either [u]a[/u] is true or [u]a[/u];[u]c[/u] is true, in which case (by $\alpha$) [u]b[/u];[u]a[/u];[u]c[/u] is true. But if [u]a[/u] is true, [u]a[/u];[u]b[/u];[u]c[/u] being true, then (by $\gamma$) [u]b[/u];[u]c[/u] is true. Now if [u]b[/u];[u]c[/u] is true and [u]b[/u] is true, then (by $\gamma$) [u]c[/u] is true; and in that case (by $\alpha$) [u]a[/u];[u]c[/u] is true, and [u]b[/u];[u]a[/u];[u]c[/u] is true. But, [del]by[/del] [ins]by[/ins] $\beta$, either [u]b[/u] is true or [u]b[/u];[u]a[/u];[u]c[/u] is true. Hence, supposing [u]a[/u];[u]b[/u];[u]c[/u] is true, [u]b[/u];[u]a[/u];[u]c[/u] is true in any case.

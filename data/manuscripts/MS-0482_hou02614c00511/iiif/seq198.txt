@@ -1,0 +1,32 @@
+[fig]graph[/fig] [fig]graph[/fig]
+[del]$\Pi_{4} \Pi_{1} \Sigma_{2} \Pi_{3} \Pi_{3'} \Pi_{3''}$[/del]
+[fig]graph[/fig]
+$\Pi_{4} \Sigma_{1} \Pi_{2} \Sigma_{3} \Sigma_{3'} \Sigma_{3''} \Sigma_{4'}$
+$\underline{w_{1}} \cdot (l_{12} + \bar{b_{23}} \cdot S_{34}) + v_{4}$
+$\underline{w_{1}} \cdot (l_{12} + \bar{b_{23}} \cdot l_{33'3''} l_{3'' 44'} \cdot S_{3'4'}) + v_{4}$
+$\Pi_{4} \Sigma_{1} \Pi_{2} \underline{w_{1}} \cdot (l_{12} + \bar{b}_{24} \cdot S_{44}) + v_{4}$
+[fig]graph[/fig]
+$\Pi_{4} \Sigma_{1} \Pi_{2} \Pi_{3''} \Pi_{4'} \Sigma_{3} \Sigma_{3'}$
+[del]$\Pi_{4} \Pi_{1}$[/del] $\underline{w_{1}} \cdot (l_{12} + T_{44'} + T_{43''} + l_{33'3''} \cdot \bar{b_{23}} \cdot S_{3'4'}) + v_{4}$
+$\Pi_{4} \Sigma_{1} \Pi_{2} \underline{w_{1}} \cdot (l_{12} + \bar{b}_{24} \cdot S_{44}) + v_{4}$
+[fig]graph[/fig]
+$\Pi_{3} \Sigma_{2} \Pi_{1} (w_{1} + \bar{l}_{12}) \cdot \bar{b}_{23} + v_{3}$
+[fig]graph[/fig]
+$\Pi_{3} \Sigma_{2} \Pi_{1} (w_{1} + \bar{l}_{12} + \bar{S}_{13}) \cdot \bar{b}_{23} + v_{3}$
+$\Pi_{2} \Sigma_{1} \bar{w}_{1} l_{12} S_{13} + \bar{b}_{23}$
+
+$\Pi_{1} \Pi_{2} \Sigma_{1'} \Sigma_{1''} \Sigma_{2'} \Sigma_{2''}$
+$\bar{w}_{1} + l_{1' 1''} \cdot \ell_{1' 2'} \cdot b_{1'' 2''} \cdot l_{2' 2''} + v_{2}$
+[del]$\bar{w}_{1}$[/del] $\Pi_{1} \Pi_{2} \bar{w}_{1} + l_{12} \cdot b_{12} + v_{2}$
+[fig]graph[/fig]
+No graph is bonded to itself
+and no triad of diversity
+unites a graph to itself.
+[fig]graph[/fig]
+[fig]graph[/fig]
+[fig]graph[/fig]
+[fig]graph[/fig]
+$\Pi_{3} \Sigma_{3'} \Sigma_{2} \Pi_{3''} \Pi_{1}$
+$(w_{1} + \bar{l}_{12} + \bar{S}_{13''} + [ins]T_{33''}[/ins] + T_{3' 3''}) \cdot \bar{b}_{23} + [ins]v_{3}[/ins]$
+$\Pi_{3} \Sigma_{2} \Pi_{1}$
+$(w_{1} + \bar{l}_{12} + \bar{S}_{13}) \cdot \bar{b}_{23} + v_{3}$

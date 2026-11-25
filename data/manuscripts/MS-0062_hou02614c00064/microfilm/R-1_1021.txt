@@ -1,0 +1,62 @@
+[marginalia]
+[pn]25[/pn]
+[pn]20[/pn]
+[pn]2000[/pn]
+[pn]25[/pn]
+[pn]20[/pn]
+[pn]25[/pn]
+[/marginalia]
+
+[del]0 0 1 1 0 1 1 1 0 [ins]0[/ins] 0 1 0 0 1 0 1[/del] [ins]1 1 1 0 0 1 1 0 1 1 1 1[/ins]
+[marginalia]
+[del]S_9[/del]
+[del]Alt. S_8[/del]
+[/marginalia]
+
+1 0 0 0 0 1 1 1 0
+[fig]Binary tree branch[/fig] 0 0 1 0 0 1 0 0 1 1 0 0 1
+[fig]Binary tree branch[/fig] 1 1 0 0 0 0 1 0 0 0 0 1
+1 0 0 1 0 1 1 0 1 1
+[fig]Binary tree branch[/fig] 1 0 0 1 1 0 1 1 0 1 1
+1 0 0 0 1 1 0 1 0 0 0 1
+[fig]Binary tree branch[/fig] 1 0 1 1 0 0 0 0 1 0 0 0 0 1
+1 1 0 0 1 1 0 0 0 1 1
+[fig]Binary tree branch[/fig] 1 0 0 0 0 0 1 0 0 0 0 0 1
+1 0 0 0 0 0 1 1
+[fig]Binary tree branch[/fig] 1 1 0 0 0 0 1 0 0 0 1 1
+1 0 0 0 0 0 1 0 0 0 0 0 1
+1 0 0 0 1 0 1 0 0 1 1
+[fig]Binary tree branch[/fig] 1 0 0 0 1 1 0 0 0 0 1
+1 1 0 0 1 0 1 0 1 1
+[fig]Binary tree branch[/fig] 1 0 0 0 0 0 1 0 0 0 0 1
+1 0 0 0 1 0 1 0 0 1
+[fig]Binary tree branch[/fig] 1 0 0 0 0 0 1 0 0 0 0 1
+1 1 0 0 1 0 1 0 0 1 1
+[fig]Binary tree branch[/fig] 1 0 0 1 0 1 1 0 1 1
+1 0 0 0 0 0 1 0 0 0 0 1
+[fig]Binary tree branch[/fig] 1 0 1 1 0 0 0 0 1 0 0 0 0 1
+1 0 1 1 0 1 1 0 1 1
+1 0 0 0 0 0 1 0 0 0 0 1
+[fig]Binary tree branch[/fig] 1 0 1 1 0 0 0 0 1 0 0 0 0 1
+1 0 1 1 0 1 1
+[fig]Binary tree branch[/fig] 1 0 0 0 0 0 1 0 0 0 0 1
+1 0 0 0 1 0 1 1
+[fig]Binary tree branch[/fig] 1 0 0 0 0 0 1 0 0 0 0 1
+1 0 0 0 1 1 0 1 1
+[fig]Binary tree branch[/fig] 1 0 0 0 0 0 1 0 0 0 0 1
+1 0 0 0 1 1 0 1 1
+[fig]Binary tree branch[/fig] 1 0 0 0 0 0 1 0 0 0 0 1
+1 0 0 0 1 1 0 1 1
+[fig]Binary tree branch[/fig] 1 0 0 0 0 0 1 0 0 0 0 1
+1 0 0 0 1 1 0 1 1
+[fig]Binary tree branch[/fig] 1 0 0 0 0 0 1 0 0 0 0 1
+1 0 1 1 0 1 1
+[fig]Binary tree branch[/fig] 1 0 1 1 0 0 0 0 1 0 0 0 0 1
+1 1 1 1 0 0 0 1 0 1 0 0 1 1
+[fig]Binary tree branch[/fig] 1 0 1 1 0 0 0 0 1 0 0 0 0 1
+
+[marginalia]
+[u]Div N_o 7[/u]
+[u]S_9[/u]
+S_8
+[/marginalia]

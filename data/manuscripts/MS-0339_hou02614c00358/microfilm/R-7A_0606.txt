@@ -1,0 +1,36 @@
+[date]1908 Nov 2[/date]
+
+Suppose Two elastic oscillations
+
+A force of restitution upon each oscillating
+body, equal to $D_t^2 s_1 = - g_1 s_1$ [del]$D_t^2 s_2 = - g_2 s_2$[/del]
+A force of one upon the other [del]$D_t^2 s_1 = a (s_2 - s_1)$[/del]
+[del]$D_t^2 (s_1 - s_2) = a (s_2 - s_1)$[/del] [del]$D_t^2 s_2 = a (s_1 - s_2)$[/del]
+
+So that
+$D_t^2 s_1 = - (a + g_1) s_1 + a s_2$
+$D_t^2 s_2 = a s_1 - (a + g_2) s_2$
+
+Then suppose [del]$x$[/del] [ins]and $y$[/ins] to be such that
+[del]$D_t^2 [x s_1 + (1-x) s_2] = - y [x s_1 + (1-x) s_2]$[/del]
+[del]$= - x (a + g_1) s_1 + x a s_2$[/del]
+[del]$+ (1-x) a s_1 - (1-x) (a + g_2) s_2$[/del]
+[del]$= [a - (2a + g_1) x] s_1 - [a - (2a + g_2) x] s_2$[/del]
+
+[marginalia]
+$\frac{p}{p+q} + \frac{q}{p+q}$
+[/marginalia]
+
+[del]$- y x = a$[/del]
+$D_t^2 [p s_1 + q s_2] = - y [p s_1 + q s_2]$
+$= - p (a + g_1) s_1 + p a s_2$
+$+ q a s_1 - q (a + g_2) s_2$
+$= [ [del]-(q-p)[/del] [ins]-(p-q)[/ins] a + p g_1 ] s_1 + [ (p-q) a - q g_2 ] s_2$
+$= - y p s_1 - y q s_2$
+
+$y p = p g_1 + (p-q) a$
+$y q = q g_2 - (p-q) a$
+$y (p+q) = [del]p - q[/del] p g_1 + q g_2$
+$y = \frac{p}{p+q} g_1 + \frac{q}{p+q} g_2$
+$y (p-q) = p g_1 - q g_2 + [del]2[/del] [ins]2[/ins] (p-q) a$
+$y = \frac{p}{p-q} g_1 - \frac{q}{p-q} g_2 + 2 a$

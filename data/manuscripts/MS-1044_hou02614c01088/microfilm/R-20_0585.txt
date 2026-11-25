@@ -1,0 +1,25 @@
+given number belongs, proceed as follows. If the number is written in the Arabic
+notation with two figures, first find its "nine-remainder", that is, the remain-
+[del]der left after division of it by nine.[/del] This is done by adding its figures, and
+if the sum is written with two figures, by repeating the operation until a
+[ins]sum[/ins] [del]remainder[/del] is obtained which is written with only one figure; and this,
+[ins]unless it be 9, the nine-remainder is 0.[/ins] is the nine-remainder. A number which agrees with its nine-remainder
+in being even or in being odd may be called an [del]Early[/del] [ins]Earlier[/ins]-Slope Number; a num-
+ber which disagrees with in nine-remainder in that one of the two is even
+and the other odd may be called a Later-Slope Number.
+
+The "group-number" of the Ordinal Number of an Element is obtained from
+its Nine-remainder, [del]as above[/del] obtained as above,
+
+First, if the ordinal number be a later-slope number by subtracting 1 from
+[ins]its[/ins] [del]the[/del] nine-remainder;
+
+secondly, if the ordinal number be [del]less than 1[/del] [ins]zero, by adding 1,[/ins]
+
+thirdly, if the ordinal number be equal to its nine-remainder by subtracting
+2 from it,
+
+fourthly, if the ordinal number be an earlier-slope number greater than
+its nine-remainder, the latter is also its group number, [ins]unless it be 9, when 0 is the group-number[/ins]
+
+The different group-numbers belong to the following elements:

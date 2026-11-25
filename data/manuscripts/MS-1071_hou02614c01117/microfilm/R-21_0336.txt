@@ -1,0 +1,51 @@
+[fig]Geometric construction of a square inscribed in a circle with intersecting lines[/fig]
+
+[del]\frac{x}{y}[/del] [del]\left(\frac{x}{X}\right)^2 + \left(\frac{y}{Y}\right)^2 = 1[/del]
+
+[fig]Rough sketch of an ellipse with inscribed lines[/fig]
+
+[fig]Semicircle[/fig]
+
+[fig]Right triangle with vertical division[/fig]
+
+$\frac{x}{X \cdot y} \cdot 1$
+
+$\frac{x}{X} = \frac{y}{?}$
+
+$\frac{x}{X}$
+
+$\frac{x}{X} = p$
+
+$X^2 x^2 + Y^2 y^2 =$
+
+$\frac{Y}{X} x^2 + \frac{X}{Y} y^2 = X Y$
+
+$\frac{X}{x} = \frac{Y}{y}$
+
+$\left(\frac{x}{X}\right)^2 = 1 - \left(\frac{y}{Y}\right)^2$
+
+[fig]Circle[/fig]
+
+$\frac{x^2}{16} + \frac{y^2}{9} = 1$
+
+$\frac{9}{16} + \frac{4}{9} = \frac{81 + 64}{144} = \frac{145}{144}$
+
+$y = 3 \sqrt{1 - \frac{x^2}{16}}$
+
+$= \frac{3}{4} \sqrt{16 - x^2}$
+
+$\begin{array}{ccccc}
+x & x^2 & \left(\frac{x}{4}\right)^2 & 1 - \left(\frac{x}{4}\right)^2 & \\
+0 & 0 & & & \\
+1 & 1 & \frac{1}{16} & \frac{15}{16} & \frac{135}{16} \\
+2 & 4 & \frac{4}{16} & \frac{12}{16} & 108/16 \\
+3 & 9 & \frac{9}{16} & \frac{7}{16} & 63/16 \\
+4 & 16 & & &
+\end{array}$
+
+$\begin{array}{cccc}
+150 & & & \\
+15 & 120 & 160 & \\
+& 12 & 15 & \\
+& & 14 &
+\end{array}$

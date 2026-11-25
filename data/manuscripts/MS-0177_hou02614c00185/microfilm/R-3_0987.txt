@@ -1,0 +1,11 @@
+pretty nearly a straight line.
+
+The Rule is to assume it is a straight line and so calculate a value of $x$ which may be wrong but which will be much nearer the truth; and then we can use this as one of the values for a new approximation.
+
+But the rule wont work if for example the curve is like this
+
+[fig]A coordinate axis with a sharply curved line[/fig]
+
+because that is not a straight line and the result of the rule will be a value much worse than those originally assumed. This however we find out when we proceed to make a new approximation.
+
+I will first show how to work the ordinary "rule of false" or "Rule of Double Position" and then I will give a rule of threefold Position which

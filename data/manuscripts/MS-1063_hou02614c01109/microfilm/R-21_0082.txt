@@ -1,0 +1,25 @@
+```
+[pn]43[/pn]
+
+[del]A:A + B:B + C:C + D:D + E:E + F:F + G:G + H:H[/del]
+[del]A:B - B:A + C:D - D:C + E:F - F:E + G:H - H:G[/del]
+A:E - E:A + B:F - F:B + G:C - C:G + D:H - H:D
+
+A:B - B:A - C:D + D:C
+- E:B + F:A + G:D - H:C
+
+---
+
+M:M + N:N
+M:N - N:M
+
+A:A - B:B
+
+[del]As[/del]
+i = R_i I_i = 0
+l = R_l I_l = [del]A[/del]
+j = R_j I_j = [del]M[/del]
+k = R_k I_k = N
+
+u d
+```

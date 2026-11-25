@@ -1,0 +1,33 @@
+[marginalia]
+Mundus Pendet [date]1892 Jan 25[/date]
+[/marginalia]
+
+[pn]3[/pn]
+
+$D(\arctan u)^{2} = \frac{2 \arctan u}{1+u^{2}} Du$
+
+$\delta \int (D_{x} \arctan D_{x} y)^{2} dx = \frac{4 \arctan (\frac{y_{n}-y_{n-1}}{dx})}{1+(\frac{y_{n}-y_{n-1}}{dx})^{2}} \frac{\delta y_{n}}{dx} - 2 \frac{\arctan \frac{y_{n+1}-y_{n}}{dx}}{1+(\frac{y_{n}-y_{n-1}}{dx})^{2}} \frac{\delta y_{n}}{dx}$
+
+$- \frac{4 \arctan (\frac{y_{n+1}-y_{n}}{dx})}{1+(\frac{y_{n+1}-y_{n}}{dx})^{2}} \frac{dy_{n}}{dx} + 2 \frac{\arctan (\frac{y_{n+2}-y_{n+1}}{dx})}{1+(\frac{y_{n+1}-y_{n}}{dx})^{2}} \frac{dy_{n}}{dx}$
+
+[del]$y_{n+2} - y_{n+1} - y_{n+1}$[/del]
+$y_{n+2} - y_{n+1} - y_{n+1} + y_{n} = \Delta^{2} y_{n}$
+$y_{n} - 2y_{n-1} + y_{n-2} = \Delta^{2} y_{n-2}$
+
+$2 \frac{D \arctan D_{x} y}{1+D}$
+
+[fig]Geometric diagram with intersecting lines[/fig]
+
+$\arctan$
+
+$2 \arctan (y_{1} + \delta y_{1}) \arctan (y_{2} - \delta y_{1}) - 2 \arctan y_{1} \arctan y_{2}$
+
+$=$
+
+[del]$\arctan v$[/del]
+
+[del]$u_{x+1} v_{x+1} - u_{x} v_{x}$[/del]
+
+[del]$u_{x+1} v_{x+1} - u_{x} v_{x+1}$[/del]
+
+[del]$\dots$[/del]

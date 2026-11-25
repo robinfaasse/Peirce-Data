@@ -1,0 +1,21 @@
+[u]Problem[/u]. To two fixed points, one at level [u]2b[/u] above the other and horizontally distant by [u]2a[/u], are attached the ends of a cord [ins]of elasticity E and[/ins] of length [u]L₁ + L + L₂[/u] having weights [u]P₁[/u] and [u]P₂[/u] [ins]fastened to it[/ins], the former distant by [u]L₁[/u] from the lower fixed point, the latter distant by [u]L₂[/u] from the [del]higher[/del] [ins]upper[/ins]. Required the position of equilibrium.
+
+Adopt rectangular coördinates with origin midway between the fixed points, y directed vertically downwards, x coplanar with the fixed points increasing toward the higher. Subjacent [del]letters[/del] [ins]numbers[/ins] to distinguish the positions [ins]of the two weights.[/ins]
+
+The work is [u]1[/u]/2 E ([u]√((x₁+a)² + (y₁-b)²) - L₁[/u]/L₁)² + [u]1[/u]/2 E ([u]√((x₂-a)² + (y₂+b)²) - L₂[/u]/L₂)²
+
++ [u]1[/u]/2 E ([u]√((x₂-x₁)² + (y₂-y₁)²) - L[/u]/L)² - P₁ y₁ - P₂ y₂
+
+The condition of equilibrium is
+
+E ([u]1[/u]/L₁ - [u]1[/u]/√((x₁+a)²+(y₁-b)²)) [(x₁+a) dx₁ + (y₁-b) dy₁] + E ([u]1[/u]/L₂ - [u]1[/u]/√((x₂-a)²+(y₂+b)²)) [(x₂-a) dx₂ + (y₂+b) dy₂] + E ([u]1[/u]/L - [u]1[/u]/√((x₂-x₁)²+(y₂-y₁)²)) [(x₂-x₁)(dx₂-dx₁) + (y₂-y₁)(dy₂-dy₁)] - P₁ dy₁ - P₂ dy₂ = 0.
+
+That is,
+
+([u]1[/u]/L₁ - [u]1[/u]/√((x₁+a)²+(y₁-b)²)) (x₁+a) + ([u]1[/u]/L - [u]1[/u]/√((x₂-x₁)²+(y₂-y₁)²)) (x₁-x₂) = 0
+
+([u]1[/u]/L₂ - [u]1[/u]/√((x₂-a)²+(y₂+b)²)) (x₂-a) + ([u]1[/u]/L - [u]1[/u]/√((x₂-x₁)²+(y₂-y₁)²)) (x₂-x₁) = 0
+
+([u]1[/u]/L₁ - [u]1[/u]/√((x₁+a)²+(y₁-b)²)) (y₁-b) + ([u]1[/u]/L - [u]1[/u]/√((x₂-x₁)²+(y₂-y₁)²)) (y₁-y₂) - [u]P₁[/u]/E = 0
+
+([u]1[/u]/L₂ - [u]1[/u]/√((x₂-a)²+(y₂+b)²)) (y₂+b) + ([u]1[/u]/L - [u]1[/u]/√((x₂-x₁)²+(y₂-y₁)²)) (y₂-y₁) - [u]P₂[/u]/E = 0

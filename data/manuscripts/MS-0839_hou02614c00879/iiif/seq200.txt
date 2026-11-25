@@ -1,0 +1,23 @@
+839
+
+$a \prec b$
+
+$A \qquad \overset{C}{a} \prec \overset{C}{(a \prec b)} \prec c$
+$C \qquad a \prec \overset{A}{(b \prec c)}$
+$AA \qquad \overset{A}{[a} \prec \overset{A}{(b \prec c)}] \prec \overset{A}{d}$
+$CC \qquad a \prec \overset{A}{[b} \prec \overset{A}{(c \prec d)}]$
+$AC=CA \qquad \overset{A}{(a} \prec \overset{C}{b}) \prec \overset{C}{(c} \prec \overset{A}{d})$
+$AC \qquad \overset{A}{[(a} \prec \overset{C}{b}) \prec \overset{A}{c}] \prec \overset{C}{d}$
+$CA \qquad a \prec \overset{A}{[(\overset{C}{b} \prec c)} \prec \overset{A}{d}]$
+
+$AAA \qquad \{ a \prec [ b \prec (c \prec d) ] \} \prec e$
+$CCC \qquad a \prec \{ b \prec [ c \prec (d \prec e) ] \}$
+$AAC \qquad [ a \prec (b \prec c) ] \prec (d \prec e)$
+$ \qquad \qquad \{ a \prec [ (b \prec c) \prec d ] \} \prec e$
+$ \qquad \qquad [ (a \prec b) \prec (c \prec d) ] \prec e$
+$CCA \qquad a \prec \{ b \prec [ (c \prec d) \prec e ] \}$
+$ \qquad \qquad a \prec [ (b \prec c) \prec (d \prec e) ]$
+$ \qquad \qquad (a \prec b) \prec [ b \prec (d \prec e) ]$
+$AC \qquad (a \prec b)$
+$ \qquad \qquad [ (a \prec b) \prec c ] \prec (d \prec e)$
+$ACC \qquad \{ [ (a \prec b) \prec c ] \prec d \} \prec e$

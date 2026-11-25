@@ -1,0 +1,47 @@
+1901 Dec 10 199r
+
+To prove that if (a+b) [math symbol] c then ([del]a[/del] [ins]ā[/ins] [math symbol] b) [math symbol] c
+
+[math symbol] (a [math symbol] t) [math symbol] ā
+[math symbol]
+
+[math symbol] [math symbol] (ā [math symbol] b) [math symbol] (a [math symbol] t) [math symbol] b
+[math symbol]
+
+[math symbol] [math symbol] (ā [math symbol] b) [math symbol] (b [math symbol] t) [math symbol] (a [math symbol] t) [math symbol] t
+[math symbol]
+
+[math symbol] [math symbol] [del](ā [math symbol] b) [math symbol][/del] (a [math symbol] t) [math symbol] (b [math symbol] t) [math symbol] (ā [math symbol] b) [math symbol] t
+[math symbol]
+
+or by definition (ā [math symbol] b) [math symbol] (a + b) [fig]figure[/fig]
+
+[math symbol] [(a + b) [math symbol] c] [math symbol] (ā [math symbol] b) [math symbol] c
+<u>                                                                                                                    </u>
+
+To prove that if c [math symbol] (a + b) then c [math symbol] (ā [math symbol] b)
+
+[del]That (a + b) [math symbol] (ā [math symbol] b) is prove[/del]
+(a + b) [math symbol] (ā [math symbol] b) is proved on last page
+
+Hence if c [math symbol] (a + b) c [math symbol] ā [math symbol] b
+<u>                                                                                                                    </u>
+
+To prove that if c [math symbol] (ā [math symbol] b) c [math symbol] (a + b)
+
+This proved above that (ā [math symbol] b) [math symbol] (a + b) [math symbol] [math symbol] etc
+<u>                                                                                                                    </u>
+
+To prove that a [math symbol] b [math symbol] (a [math symbol] [u]b[/u])
+
+[math symbol] Now b [math symbol] b is true
+[math symbol] b [math symbol] b
+[math symbol] [(b [math symbol] b) [math symbol] [math symbol]] [math symbol] [math symbol] [math symbol] [math symbol]
+[math symbol] [math symbol] [math symbol] [(b [math symbol] b) [math symbol] 0] [math symbol] 0
+[math symbol] [(b [math symbol] b) [math symbol] 0] [math symbol] 0
+[del][math symbol] b [math symbol] (b [math symbol] 0) [math symbol] 0[/del]
+
+[math symbol] a [math symbol] b [math symbol] (a [math symbol] b [math symbol] 0) [math symbol] 0
+
+Requires the proof that
+{[(x [math symbol] y) [math symbol] z] [math symbol] w} [math symbol] [x [math symbol] (y [math symbol] z) [math symbol] w]

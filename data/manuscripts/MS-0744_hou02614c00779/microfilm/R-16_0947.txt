@@ -1,0 +1,20 @@
+Distinction between [u]à priori[/u] & [u]à fortiori[/u].
+
+[del]Every syllogism[/del] [ins]Any proposition[/ins] can be [del]put[/del] [ins]got[/ins] into a hypothetical form thus
+
+$$\begin{array}{c} \text{YisX} \\ \text{ZisY} \\ \hline \text{ZisX} \end{array}$$
+
+becomes If Y then X
+But Y (under Z)
+$\therefore$ X (under Z)
+
+This is Barbara or Darii. Celarent or Ferio would be
+If Y then not X
+But Y
+$\therefore$ Not X
+
+$$\left. \begin{array}{c} \text{X,Y} \\ \text{Z,Y} \\ \hline \therefore \text{Z,X} \end{array} \right\} \text{becomes either} \left\{ \begin{array}{c} \text{If X then not Y} \\ \text{but Y} \\ \hline \therefore \text{Not X} \end{array} \right. \text{or} \left\{ \begin{array}{c} \text{If X then Y} \\ \text{but not Y} \\ \hline \therefore \text{Not X} \end{array} \right.$$
+
+$$\left. \begin{array}{c} \text{Y,X} \\ \text{Y,Z} \\ \hline \therefore \text{Z,X} \end{array} \right\} \text{becomes either} \left\{ \begin{array}{c} \text{If Y then [ins](maybe)[/ins] X} \\ \text{If Y then [ins](maybe)[/ins] Z} \\ \hline \therefore \text{If Z then (maybe) X} \end{array} \right\} \text{or} \begin{array}{c} \text{If Y then not X} \\ \text{If Y then Z} \\ \hline \text{If Z then not X} \end{array}$$
+
+$$\left. \begin{array}{c} \text{X Y} \\ \text{Y Z} \\ \hline \text{Z X} \end{array} \right\} \text{becomes either} \left\{ \begin{array}{c} \text{If X then Y} \\ \text{If Y then Z} \\ \hline \therefore \text{If Z then X} \end{array} \right\} \text{or} \left\{ \begin{array}{c} \text{If X then Y} \\ \text{If Y then not Z} \\ \hline \text{If Z then X} \end{array} \right\} \text{\&c.}$$

@@ -1,0 +1,75 @@
+[pn]62[/pn] [pn]63[/pn]
+[marginalia]
+[u]See p 76[/u]
+[/marginalia]
+[marginalia]
+[u]See p 76[/u]
+[/marginalia]
+
+This is so important that I start again.
+
+Given $\psi t = \frac{a+bt}{c+et}$ Required $\psi^n t$
+$= \frac{b}{e} \frac{\frac{a}{b}+t}{\frac{c}{e}+t}$
+
+Put $\frac{a}{b} = A$ $\frac{b}{e} = B$ $\frac{c}{e} = C$
+
+[marginalia]
+Suppose $\psi^n \psi^1 = 1$
+$C + \psi^n = AB + B \psi^n$
+$\frac{C-AB}{B-1} = L$
+$A = -M$
+$B = N$
+$\frac{MB-C}{1-B}$
+$\frac{-N+MB}{B-1} = L$
+$L = N$
+$L = -M$
+$B = \frac{L-N}{L-M}$
+[/marginalia]
+
+$\psi^{n+1} = B \frac{A+\psi^n}{C+\psi^n}$ $\psi^0 = t$
+
+$\psi^{n+1}\psi^n + C\psi^{n+1} - B\psi^n - AB = 0$
+$(\psi^n+C)(\psi^{n+1}+C) - C(\psi^n+C) - B(\psi^n+C) + B(C-A) = 0$
+
+Assume $\psi_n = \frac{u_{n+1}}{u_n} - C$ $\psi_n + C = \frac{u_{n+1}}{u_n}$
+$\psi_{n+1} = \frac{u_{n+2}}{u_{n+1}} - C$ $\psi_{n+1} + C = \frac{u_{n+2}}{u_{n+1}}$
+
+The equation becomes
+$(\frac{u_{n+2}}{u_{n+1}} - C) \frac{u_{n+1}}{u_n} - B \frac{u_{n+1}}{u_n} + B(C-A) = 0$
+or
+$u_{n+2} - (B+C)u_{n+1} + B(C-A)u_n = 0$
+
+$E = \frac{B+C}{2} \pm \sqrt{\frac{(B+C)^2}{4} - BC + AB}$
+$= \frac{B+C}{2} \pm \frac{B-C}{2} \sqrt{1 + \frac{4AB}{(B-C)^2}}$
+
+Put $\alpha = \frac{B+C}{2} + \frac{B-C}{2} \sqrt{1 + \frac{4AB}{(B-C)^2}}$
+$\beta = \frac{B+C}{2} - \frac{B-C}{2} \sqrt{1 + \frac{4AB}{(B-C)^2}}$
+
+$\alpha + \beta = B+C$ $\alpha\beta = \frac{(B+C)^2}{4} - \frac{(B-C)^2}{4}(1 + \frac{4AB}{(B-C)^2}) = B(C-A)$
+
+$\psi^{n+2} = B \frac{A+B \frac{A+\psi^n}{C+\psi^n}}{C+B \frac{A+\psi^n}{C+\psi^n}} = B \frac{A(B+C) + (A+B)\psi^n}{AB+C^2 + (B+C)\psi^n}$
+
+$u_n = C_1 \alpha^n + C_2 \beta^n$
+$\psi^n = \frac{C_1 \alpha^{n+1} + C_2 \beta^{n+1}}{C_1 \alpha^n + C_2 \beta^n} - C$
+$= \frac{\alpha^{n+1} + C \beta^{n+1}}{\alpha^n + C \beta^n} - C$
+
+$t = \frac{\alpha + C \beta}{1 + C} - C$
+[del]$t + C$[/del] $C = \frac{\alpha - t - C}{-\beta + t + C} = - \frac{t + C - \alpha}{t + C - \beta}$
+
+Put $\alpha' = \alpha - c = \frac{B-C}{2} \{ 1 + \sqrt{1 + \frac{4AB}{(B-C)^2}} \}$
+$\beta' = \beta - c = \frac{B-C}{2} \{ 1 - \sqrt{1 + \frac{4AB}{(B-C)^2}} \}$
+
+$\alpha' + \beta' + C = B$
+$\alpha'\beta' = \frac{(B-C)^2}{4} - \frac{4AB}{(B-C)^2} = AB$
+
+$C = - \frac{t - \alpha'}{t - \beta'}$
+
+$\psi^n = \frac{(\alpha'+c)^{n+1} - \frac{t-\alpha'}{t-\beta'}(\beta'+c)^{n+1}}{(\alpha'+c)^n - \frac{t-\alpha'}{t-\beta'}(\beta'+c)^n} - C$
+$= \frac{(t-\beta')(\alpha'+c)^n \alpha' - (t-\alpha')(\beta'+c)^n \beta'}{(t-\beta')(\alpha'+c)^n - (t-\alpha')(\beta'+c)^n}$
+$= \frac{(\alpha-c)(\beta-c)(\beta^n-\alpha^n) - [(\beta-c)\beta^n - (\alpha-c)\alpha^n]t}{(\alpha-c)\beta^n - (\beta-c)\alpha^n - [\beta^n-\alpha^n]t}$
+$= \frac{[(\alpha'+c)(\beta'+c)(\beta'^n-\alpha'^n)] - [(\beta'+c)\beta'^n - (\alpha'+c)\alpha'^n]t}{[(\alpha'+c)\beta'^n - (\beta'+c)\alpha'^n] - [\beta'^n-\alpha'^n]t}$
+
+$\psi^0 = \frac{(\alpha-\beta)t}{\alpha-\beta} = t$
+
+$\psi^n = \frac{[\alpha'\beta' - \alpha'\beta'] - [(\beta'+c)(\frac{1}{\alpha'^n} - \frac{1}{\beta'^n}) - c(\frac{1}{\alpha'^n} - \frac{1}{\beta'^n})]t}{c(\frac{1}{\alpha'^n} - \frac{1}{\beta'^n}) - [\frac{1}{\alpha'^n} - \frac{1}{\beta'^n}]t}$
+$= \frac{-\beta' [(\beta'+\alpha'+c)]t}{-c - t} = \frac{+\alpha\beta + \beta t}{+c + t} = B \frac{A+b}{C+t}$

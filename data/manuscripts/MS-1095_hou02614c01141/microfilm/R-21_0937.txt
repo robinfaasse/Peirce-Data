@@ -1,0 +1,16 @@
+$$x dy - y dx = r^{2} d\varphi$$ [del]twice elementary triangle from origin[/del]
+
+$x D_{t}y - y D_{t}x$ rate of description of [u]area[/u] round origin
+$x D_{t}^{2}y - y D_{t}^{2}x$ rate of acceleration of area described
+
+[fig]Geometric diagram with triangles and rectangles[/fig]
+
+$$r = a(1-e^{2}) - ex$$
+
+$$\begin{array}{l}
+x^{2} dy^{2} - 2xy dx dy + y^{2} dx^{2} = c^{2} dt^{2} \\
+x^{2} dx^{2} + 2xy dx dy + y^{2} dy^{2} = r^{2} dr^{2}
+\end{array} \quad - R = \frac{\left(\frac{dr}{dt}\right)^{2}}{2 D_{t}r D_{t}^{2}r D_{t}t}$$
+
+[del]$r^{2} (ds)^{2}$[/del] $= c^{2} dt^{2} + r^{2} dr^{2}$
+$$v^{2} = \frac{c^{2}}{r^{2}} + (D_{t}r)^{2}$$

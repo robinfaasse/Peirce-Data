@@ -1,0 +1,26 @@
+[pn]Series
+8[/pn]
+
+[del]47[/del] give a considerable number of values, because the inspec-
+tion of the table will [del]enable[/del] [ins]furnish[/ins] a person [del]to find[/del] [ins]with a choice of[/ins] fractions ap-
+proximating to any given value. If, however, the value of a
+single term should be wanted, it may be calculated as follows.
+
+First, take the reflexion of [del]P[/del] [ins]R[/ins], or [del]R[/del] [ins]P[/ins]. It is, then, necessary (or
+desirable) to calculate a certain [del]R[/del] number MR, being, in fact,
+the numerator of the fraction of which Np is the denominator.
+
+In order to find this, we have the formulae
+[u]M[/u] (2[sup]u[/sup]-1) = [u]m[/u] [del]R[/del] [ins]1[/ins]
+M 1[sup]u[/sup] 0[sup]z[/sup] R = [[u]u[/u](2[sup]z[/sup]-1)+1] . MR + [u]u[/u] . M 1[sup]z[/sup] R
+
+Here, 1[sup]u[/sup] 0[sup]z[/sup] R denotes a [del]g[/del] number expressed by expressing R
+in the secundal notation and prefixing (or affixing) z zeros and
+outside of them u units. It will be convenient to have the lower
+values of MR before ones eyes, in making the calculation.
+
+R  [u]1[/u] [u]10[/u] [u]11[/u] [u]100[/u] [u]101[/u] [u]110[/u] [u]111[/u] [u]1000[/u] [u]1001[/u] [u]1010[/u] [u]1011[/u] [u]1100[/u] [u]1101[/u] [u]1110[/u] [u]1111[/u]
+MR 1 1  2  1   3   2   3   1    2    3    5    3    5    3    4
+
+R  [u]10000[/u] [u]10001[/u] [u]10010[/u] [u]10011[/u] [u]10100[/u] [u]10101[/u] [u]10110[/u] [u]10111[/u] [u]11000[/u] [u]11001[/u] [u]11010[/u] [u]11011[/u] [u]11100[/u] [u]11101[/u] [u]11110[/u] [u]11111[/u]
+MR 1     5     4     7     3     8     5     7     7     5     8     3     7     4     5     5

@@ -1,0 +1,53 @@
+[u]Logic[/u]
+III.
+88
+
+JAN 25 1902
+
+<u>Necessarily True.</u>
+
+(<u>x</u> ⊗ <u>x</u>) ⤚ <u>x</u>  <u>x</u> ⤛ (<u>x</u> ⊗ <u>x</u>)
+(<u>x</u> < <u>x</u>) ⤚ <u>x</u>  <u>x</u> ⤛ (<u>x</u> > <u>x</u>)
+(<u>x</u> > <u>x</u>) ⤚ <u>x</u>  <u>x</u> ⤛ (<u>x</u> < <u>x</u>)
+(<u>x</u> ⋁ <u>x</u>) ⤚ <u>x</u>  <u>x</u> ⤛ (<u>x</u> ⋁ <u>x</u>)
+(<u>x</u> Δ <u>x</u>) ⤚ <u>x</u>  <u>x</u> ⤛ (<u>x</u> Δ <u>x</u>)
+(<u>x</u> Δ <u>x</u>) ⤚ <u>x</u>  <u>x</u> ⤛ (<u>x</u> Δ <u>x</u>)
+(<u>x</u> ☌ <u>x</u>) ⤚ <u>x</u>  <u>x</u> ⤛ (<u>x</u> ☌ <u>x</u>)
+[del](<u>x</u> ☌ <u>x</u>) ⤚ <u>x</u>[/del] [ins](<u>x</u> ☍ <u>x</u>) ⤚ <u>x</u>[/ins]  <u>x</u> ⤛ (<u>x</u> ☍ <u>x</u>)
+(<u>x</u> X <u>x</u>) ⤛ <u>x</u>  <u>x</u> ⤚ (<u>x</u> X <u>x</u>)
+
+(<u>x</u> ☍ <u>x</u>) ⤛ <u>x</u>  <u>x</u> ⤚ (<u>x</u> ☍ <u>x</u>)
+
+(<u>x</u> ☌ <u>x</u>) ⤛ <u>x</u>  <u>x</u> ⤚ (<u>x</u> ☌ <u>x</u>)
+
+[del](<u>x</u> ☌ <u>x</u>) ⤛ <u>x</u>[/del] [ins](<u>x</u> ☍ <u>x</u>) ⤛ <u>x</u>[/ins]  <u>x</u> ⤚ (<u>x</u> ☍ <u>x</u>)
+
+(<u>x</u> ☍ <u>x</u>) ⤛ <u>x</u>  <u>x</u> ⤚ (<u>x</u> ☍ <u>x</u>)
+
+(<u>x</u> Δ <u>x</u>) ⤛ <u>x</u>  <u>x</u> ⤚ (<u>x</u> Δ <u>x</u>)
+(<u>x</u> Δ <u>x</u>) ⤛ <u>x</u>  <u>x</u> ⤚ (<u>x</u> Δ <u>x</u>)
+(<u>x</u> ⋁ <u>x</u>) ⤛ <u>x</u>  <u>x</u> ⤚ (<u>x</u> ⋁ <u>x</u>)
+
+<u>Necessarily False.</u>
+
+(<u>x</u> X <u>x</u>) < <u>x</u>  <u>x</u> > (<u>x</u> X <u>x</u>)
+(<u>x</u> ☍ <u>x</u>) < <u>x</u>  <u>x</u> > (<u>x</u> ☍ <u>x</u>)
+(<u>x</u> ☌ <u>x</u>) < <u>x</u>  <u>x</u> > (<u>x</u> ☌ <u>x</u>)
+(<u>x</u> ☍ <u>x</u>) < <u>x</u>  <u>x</u> > (<u>x</u> ☍ <u>x</u>)
+(<u>x</u> ∇ <u>x</u>) < <u>x</u>  <u>x</u> > (<u>x</u> ∇ <u>x</u>)
+(<u>x</u> ∇ <u>x</u>) < <u>x</u>  <u>x</u> > (<u>x</u> ∇ <u>x</u>)
+(<u>x</u> ☍ <u>x</u>) < <u>x</u>  <u>x</u> > (<u>x</u> ☍ <u>x</u>)
+[ins](<u>x</u> ⋁ <u>x</u>) < <u>x</u>[/ins]  [ins]<u>x</u> > (<u>x</u> ⋁ <u>x</u>)[/ins]
+(<u>x</u> ⊗ <u>x</u>) > <u>x</u>  <u>x</u> < (<u>x</u> ⊗ <u>x</u>)
+
+(<u>x</u> ⋁ <u>x</u>) > <u>x</u>  <u>x</u> < (<u>x</u> ⋁ <u>x</u>)
+
+(<u>x</u> < <u>x</u>) > <u>x</u>  <u>x</u> < (<u>x</u> > <u>x</u>)
+
+(<u>x</u> > <u>x</u>) > <u>x</u>  <u>x</u> < (<u>x</u> < <u>x</u>)
+
+(<u>x</u> ☌ <u>x</u>) > <u>x</u>  <u>x</u> < (<u>x</u> ☌ <u>x</u>)
+
+(<u>x</u> ☍ <u>x</u>) > <u>x</u>  <u>x</u> < (<u>x</u> ∇ <u>x</u>)
+(<u>x</u> ∇ <u>x</u>) > <u>x</u>  <u>x</u> < (<u>x</u> ∇ <u>x</u>)
+(<u>x</u> ☍ <u>x</u>) > <u>x</u>  <u>x</u> < (<u>x</u> ☍ <u>x</u>)

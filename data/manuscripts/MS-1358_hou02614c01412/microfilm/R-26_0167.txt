@@ -1,0 +1,43 @@
+[marginalia]5[/marginalia]
+
+Morison's Bridge [date]1898 Feb 17[/date]
+
+[del]C[/del] [ins]C[/ins] For the part between N and P
+
+[fig]Line segment diagram with points[/fig]
+
+The variation of the energy is
+
+$\delta \frac{B}{2 ds} \left\{ \left[ (\theta - \Theta)_{n+1} - (\theta - \Theta)_n \right]^2 + \left[ (\theta - \Theta)_n - (\theta - \Theta)_{n-1} \right]^2 + \left[ (\theta - \Theta)_{n-1} - (\theta - \Theta)_{n-2} \right]^2 \right\}$
+
+$+ u ds \frac{(\delta y_n + \delta y_{n-1})}{[del]2[/del] [ins]ds[/ins]} + \delta$ [del]Not worth taking into account[/del]
+
+[fig]Line segment[/fig]
+
+Morison's Bridge [date]1898 Feb 18[/date]
+
+[marginalia]I have had chores galore and still have; with hardly any time for this work[/marginalia]
+
+[fig]Geometric diagram with triangles[/fig] [fig]Geometric diagram with parallel lines[/fig]
+
+[del]Para[/del]
+[del]Suspension[/del] [del]Support[/del] Parabolic [del]for[/del] [ins]if[/ins] cable
+
+[fig]Line segment diagram with angles[/fig]
+
+[del]$x_{n+1}$[/del]
+$x_n = \frac{1}{2} ds \cdot \cos \theta_n$     $y_n = y_{n+1} + \frac{1}{2} ds \cdot \sin \theta_n$
+
+$x_{n+\frac{1}{2}} = ds \cos \theta_n$     $ds \sin \theta_n$
+
+$x_{n+1} = ds (\cos \theta_n + \frac{1}{2} \cos \theta_{n+1})$     $y_{n+1} = ds (\sin \theta_n + \frac{1}{2} \sin \theta_{n+1})$
+
+$x_{n+\frac{1}{2}} = ds (\cos \theta_n + \cos \theta_{n+1})$     [del]$\sin \theta_n + \sin \theta_{n+1} = 0$[/del]
+
+$\delta y_{n+1} = ds (\cos \theta_n \delta \theta_n + \cos \theta_{n+1} \delta \theta_{n+1})$
+
+$\delta \theta_{n+1} = - \delta \theta_n \frac{\cos \theta_n}{\cos \theta_{n+1} ds}$
+
+$= - \delta \theta_n \frac{\cos \theta_n ds + \sin \theta_n \delta \theta_n}{\cos \theta_{n+1} ds}$
+
+$= - \delta \theta_n (1 + \tan \theta_n ds \delta \theta_n)$

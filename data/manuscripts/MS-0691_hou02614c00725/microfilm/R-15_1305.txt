@@ -1,0 +1,80 @@
+[pn]5.2[/pn]
+
+[del]9[/del] [del]27[/del] [del]45[/del] [del]9[/del]
+5 15 5
+
+42
+14
+56
+
+$p = 3.5$  $q = 2.7$
+$p' = 5.7$  $q' = 2.3$
+$p'' = 3.7$  $q'' = 2.5$
+
+$p'p'' = 3.5.7$
+$q'q'' = 2.3.5$
+
+$\begin{array}{r} 49 \\ 4 \\ \hline \end{array}$
+$+ 2.2.7$  $\begin{array}{r} 53.3.5 \\ 28.3.5 \\ \hline 81.3.5 \end{array}$
+
+$\begin{array}{r} p+q''' = 45 \\ p = 15 \\ \hline q''' = 30 \end{array}$
+
+[del]$p''' + q = 27$[/del]
+[ins]$p''' + q = 27$[/ins]
+$14$
+
+$\begin{array}{r} p+q'''' = 81 \\ p = 15 \\ \hline q'''' = 66 \end{array}$
+
+$\begin{array}{r} p''' + q = 15 \\ q = 14 \\ \hline p''' = 1 \end{array}$
+
+[fig]Diagram with intersecting lines and numbers[/fig]
+
+$\begin{array}{r} 50 \\ 76 \\ \hline 126 \end{array}$
+$\begin{array}{r} 22 \\ 20 \\ \hline 42 \end{array}$
+$\begin{array}{r} 36 \\ 36 \\ \hline 72 \end{array}$
+$\begin{array}{r} 24 \\ 72 \\ \hline 96 \end{array}$ - Solid
+
+Hollow $\begin{array}{r} 72 \\ 36 \\ \hline 108 \end{array}$
+
+$\begin{array}{r} 36 \\ 36 \\ \hline 72 \end{array}$
+$\begin{array}{r} 36 \\ 24 \\ \hline 60 \end{array}$
+
+[del]3[/del]
+Material true
+Color true — $15 + 66 = 81$
+Color false — $6 + 21 = 27$
+
+Material false
+Color true — $35 + 10 = 45$
+Color false — [del]$15$[/del] [del]$14$[/del] [ins]$15$[/ins] $+ 10 = 25$
+
+$\begin{array}{r} 15 \\ 30 \\ \hline 45 \end{array}$
+
+$\begin{array}{r} 9 \\ 15 \\ \hline \end{array}$
+
+$\begin{array}{r} 9 \\ 5 \\ \hline \end{array}$
+
+$\begin{array}{r} 1 \\ 5 \\ \hline \end{array}$
+
+$\begin{array}{r} 50 \\ 20 \\ \hline 34 \\ 40 \\ \hline \end{array}$
+
+$\frac{3}{2}$ | $\frac{5}{4}$
+$\frac{5}{2}$ | $\frac{3}{2}$
+
+$\begin{array}{r} 3 \\ \hline 4 \end{array}$
+$\begin{array}{r} 3 \\ \hline 4 \end{array}$
+
+Color true
+Very true 15
+False 10
+Color false
+True 3
+False 2
+
+Material true
+White true — $\frac{15}{6}$
+White false — $\frac{5}{2}$
+
+Material false
+White true — $\frac{35}{14}$
+White false — $\frac{5}{2}$

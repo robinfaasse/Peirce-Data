@@ -1,0 +1,33 @@
+[pn]3[/pn]
+or both will be [del]B[/del] [ins]$\frac{270.269 - 264.263}{270.269}$[/ins], In order to ascertain the
+probability that a [del]B[/del] will occur in the first 27 places once or
+more times, one might by the aid of a table of logarithms
+make the calculation with no great difficulty. However,
+there is a much shorter way which requires the use of a
+table of the values of a certain function generally denoted
+by $\Theta t$. (Though certain entirely unrelated function in the theory
+of elliptic integrals are also so denoted, so I had better add that
+this $\Theta t = \frac{2}{\sqrt{\pi}} \int_{0}^{t} e^{-x^{2}} dx$, where $t$ may be substituted for
+$x$ without changing the meaning.) There is such a table in
+every treatise on probabilities, and in every good encyc-
+lopedia article on the subject. You will also find one carried
+a little further than usual, [del]together with[/del] [ins]a more accurate[/ins]
+rule for using it than that usually given in a volume en-
+titled "Studies in Logic by Members of the Johns Hopkins Uni-
+versity, Boston: Little & Brown, 1883." p. 136. The rule is on
+the p. 135 where $r$ is the general probability that [del]the[/del] [ins]an[/ins] event
+will be of a certain kind. $n$ is the number in the set, and $m_{1}$ and
+$m_{2}$ the limits inclusive of the number of cases in the set of that
+kind, $m_{2}$ being greater than $m_{1}$. A table carried to more figures
+is given in Chauvenet, W. A Manual of Spherical and Practical Astronomy
+Vol II. p. 593. But this is only carried to $t=2$
+
+There is also a formula, called (if I remember rightly) Stirling's
+formula for calculating $N!$ when $N$ is not a very small number.
+It is [del]$N! = \sqrt{2\pi} N^{N+\frac{1}{2}} e^{-N}$[/del] $N! = \sqrt{2\pi} N^{N+\frac{1}{2}} e^{-N + \frac{1}{12N} - \frac{1}{360N^{3}} + \text{etc.}$
+
+I will calculate a few values of $N!$ by this formula (which does not
+profess to be exact, in order that you may see how near it comes to exactitude
+and I shall arrange the calculation so that you can see how much difference the second
+and third terms of the exponent of $e$ make. $e$ is 2.718281828459
+$\pi$ is 3.14159265359

@@ -1,0 +1,33 @@
+Morison's Bridge [date]1898 Feb 23[/date]
+
+$$a + bI + cI^2 = a' + b'I + c'I^2$$
+
+[del]$$a + bI + cI^2 = a' + b'I + c'I^2$$[/del]
+
+$$b + 2cI = b' + 2c'I$$
+
+$$b' = b + 2(c-c')I$$
+
+[del]$$a' = a + 2(c-c')I^2$$[/del]
+
+$$a' = a - 2(c-c')I^2 + (c-c')I^2$$
+
+$$a' = a - (c-c')I^2$$
+
+$$\begin{aligned} a &= a' + (c-c')I^2 \\ b &= b' - 2(c-c')I \\ ab &= a'b' - 2(c-c')I + b'(c-c')I^2 \\ &\quad - 2(c-c')^2 I^3 \end{aligned}$$
+
+$$b'' = b' + 2(c'-c'')J = b + 2(c-c')I + 2(c'-c'')J$$
+
+$$a'' = a' - (c'-c'')J^2 = a - (c-c')I^2 - (c'-c'')J^2$$
+
+[fig]Sketch of a parabola[/fig] The old parabola was [del]$$y = \frac{x^2}{2p}$$[/del]
+$$y = \frac{x^2}{2p}$$
+
+Arc
+$$\begin{aligned} &\frac{1}{2}\sqrt{2py + 4y^2} + \frac{1}{2}p \log \left[ \sqrt{1+\frac{2y}{p}} + \sqrt{\frac{2y}{p}} \right] \\ &= \frac{1}{2}\sqrt{x^2 + \frac{x^4}{p^2}} + \frac{1}{2}p \log \left[ \sqrt{1+\frac{x^2}{p^2}} + \sqrt{\frac{x^2}{p^2}} \right] \\ &= \frac{1}{2}x \sqrt{1+\frac{x^2}{p^2}} + \frac{1}{2}p \log \left[ \sqrt{1+\frac{x^2}{p^2}} + \frac{x}{p} \right] \end{aligned}$$
+
+The new parabola
+$$y - a' + \frac{b'^2}{4c'} = c' \left(x + \frac{b'}{2c'}\right)^2 \qquad c' = \frac{1}{2p} \qquad p = \frac{1}{2c'}$$
+
+Arc
+$$\begin{aligned} &= \frac{1}{2}\left(x+\frac{b'}{2c'}\right)\sqrt{1+\frac{4\left(x+\frac{b'}{2c'}\right)^2 c'^2}{1}} + \frac{1}{4c'} \log \left[ \sqrt{1+\frac{4\left(x+\frac{b'}{2c'}\right)^2 c'^2}{1}} + \left(\frac{x+\frac{b'}{2c'}}{\frac{1}{2c'}}\right) \right] \\ &= \frac{1}{4c'} \left\{ (2c'x+b')\sqrt{1+(2c'x+b')^2} + \log \left[ 2c'x+b' + \sqrt{1+(2c'x+b')^2} \right] \right\} \end{aligned}$$

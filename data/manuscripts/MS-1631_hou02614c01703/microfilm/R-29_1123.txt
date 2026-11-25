@@ -1,0 +1,50 @@
+function V.
+§314 $\omega = D_x V$ $\omega_0 = -D_{x_0} V$
+[del]Gave an example[/del]
+§315 This method inapplicable in the case
+where the expression of the force in-
+volves the velocity.
+
+[u]Principle of Least Action[/u]
+§316 The system moves from its given initial
+to its given final position with the least ex-
+penditure of action.
+§317 [del]Partial Differential Eq. &c[/del]
+
+[date]Jan 7. 1859[/date].
+
+[u]CHAPTER X[/u].
+INTEGRATION OF THE DIFFERENTIAL EQS OF MOTION.
+
+[u]I[/u]
+[u]DETERMINANTS AND FUNCTIONAL DETERMINANTS.[/u]
+§327 Gauss's determinants
+$R_n = \Sigma \pm a a'_1 a''_2 \dots a^n_n$
+$\begin{matrix} a & a' & a'' & a''' \\ a_1 & a'_1 & a''_1 & a'''_1 \\ a_2 & a'_2 & a''_2 & a'''_2 \\ a_3 & a'_3 & a''_3 & a'''_3 \end{matrix}$  $\begin{matrix} 1 & 2 & 2 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end{matrix}$  $\begin{matrix} 45 & 10 \\ 64 & 48 \\ 126 & 70 \\ \hline 135 & 128 \\ 128 & \\ \hline & 7 \end{matrix}$
+
+§328 Sign of determinant. "Extremely import-
+ant point."
+§329 $a^i_k = a^k_i$ $R_n = 0$
+§330 $a^{i > n-1}_{k < n} = 0$ $R_n = R_{n-1} R_{n,n}$
+§331 $a^{i > n}_{k < n} = 0$ $R_n = R_{n-1} R^n_n$
+§332 $a^{i > n-2}_{k < n-1} = 0$ $R_n = R_{n-2} a^{(n-1) (n)}_{n-1, n-1} a^{(n)}_{n,n}$
+§333 $a^{i > k}_{k} = 0$ $R_n = a a'_1 a''_2 \dots a^{(n)}_n$
+§334 Partial determinant.
+$R_n = \Sigma_k (a^k_i D_{a^k_i} R_n) = \Sigma_i (a^k_i D_{a^k_i} R_n)$
+Nothing more than saying that $R_n$ is a
+homogeneous quantity.
+§335 Deduction of all the partial determinants
+from one.
+
+[date]Jan 10. 1859[/date].
+
+§336. Conditional equations for the partial determin-
+ants. $0 = \Sigma (A^{(i)}_{k} a^{(j)}_{k})$
+Gave another proof, besides that in the
+book. It depended on interchanging the
+accents.
+§337 Expression of the determinant and partial
+determinant by partial determinants of the
+second order.
+$A^{(i)}_{k} = \Sigma_{j,l} (A^{(i,j)}_{k,l} a^{(j)}_{l})$
+$R_n = \Sigma_{i,j} (A^{(i,j)}_{k,l} a^{(i)}_{k} a^{(j)}_{l})$

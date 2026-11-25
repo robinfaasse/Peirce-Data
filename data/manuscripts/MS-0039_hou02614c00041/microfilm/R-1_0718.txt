@@ -1,0 +1,19 @@
+[u]Theorems[/u]
+
+I.
+
+The main procedure of inference consists in multiplying premises together or the same premise into itself, then identifying [del]some[/del] [ins]some[/ins] of the indices (namely the index of a $\Pi$ with any index to the left in the quantifier), then breaking down parentheses, and applying principle of contradiction.
+
+It is therefore natural to begin by multiplying $g$ into itself. We have
+
+$g_{il} \, g_{mn} = \Pi_{\alpha} (\bar{q}_{\alpha i} + \bar{h}_{\alpha} + q_{\alpha l}) \, \Pi_{\beta} (\bar{q}_{\beta m} + \bar{h}_{\beta} + q_{\beta n})$
+
+We identify [del]$\alpha$[/del] [ins]$\beta$[/ins] with [del]$\beta$[/del] [ins]$\alpha$[/ins], and we are led to take $m = l$. We thus have
+
+$g_{il} \, g_{ln} = \Pi_{\alpha} (\bar{q}_{\alpha i} + \bar{h}_{\alpha} + q_{\alpha l}) (\bar{q}_{\alpha l} + \bar{h}_{\alpha} + q_{\alpha n})$
+
+Breaking down the parenthesis the Boolean becomes
+
+$\bar{q}_{\alpha i} + \bar{h}_{\alpha} + q_{\alpha l} \, \bar{q}_{\alpha l} + \bar{h}_{\alpha} + q_{\alpha n}$
+
+and $q_{\alpha l} \, \bar{q}_{\alpha l}$ [del]vanishes[/del], by the principle of contradiction, while $\bar{h}_{\alpha} + \bar{h}_{\alpha} = \bar{h}_{\alpha}$ by the

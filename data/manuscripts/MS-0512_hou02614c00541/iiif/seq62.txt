@@ -1,0 +1,24 @@
+FL 83
+Syllogistic inference takes place in one or other of two ways
+which are essentially [u]the same[/u], as follows
+$\bar{v} \prec u \quad \bar{u} = (\bar{u} + v)$ $1 \prec u \quad 1 \prec (\bar{u} \dagger v)$ or $1 \prec (v \dagger \bar{u})$
+$\therefore \quad \bar{v} \prec u \cdot (\bar{u} + v)$ $\therefore \quad 1 \prec u(\bar{u} \dagger v)$ or $1 \prec (v \dagger \bar{u})u$
+$\therefore$ [By $x(y+z) \prec x \cdot y + z$] [By $x(y \dagger z) \prec x y \dagger z$ or $(x \dagger y)z \prec x \dagger y z$]
+$\bar{v} \prec u \bar{u} + v$ $\therefore \quad 1 \prec u \bar{u} \dagger v$ or $1 \prec v \dagger \bar{u} u$
+$\therefore$ [By [del]$\theta$[/del] $x \cdot \bar{x} \prec 0$ [By $x \bar{x} \prec \bar{\dagger}$
+and if $x \prec y \quad x + z \prec y + z$] and if $x \prec y \quad x \dagger z \prec y \dagger z$]
+$\bar{v} \prec 0 + v$ $\therefore \quad 1 \prec \bar{\dagger} \dagger v$ or $1 \prec v \dagger \bar{\dagger}$
+$\therefore \quad \bar{v} \prec v$ $\therefore \quad 1 \prec v$
+
+Now, [ins]in the sense that[/ins] this process [del]includes[/del] depends upon
+[u]every fundamental formula not a mere equation[/u], it is true that
+all demonstrative inference is syllogistic.
+For instance, the inference [del]true[/del]
+$\Sigma_{i} \Pi_{j} \ell_{i j}$
+$\therefore \quad \Pi_{j} \Sigma_{i} \ell_{i j}$
+is in the Algebra of Dyadic Relatives
+$\bar{v} (\ell \dagger v)$
+$\therefore \quad \bar{v} \ell \dagger v$
+involving one of the fundamental formulae of syllogism.
+The second and third figures of syllogism introduce mere
+equational formulae.

@@ -1,0 +1,17 @@
+$$\pm \sqrt{2\cos\theta_S - 2\cos\theta_G} = \frac{k}{\sigma}\sin\theta_S$$
+
+$$2\cos\theta_S - 2\cos\theta_G = \frac{k^2}{\sigma^2} - \frac{k^2}{\sigma^2}\cos^2\theta_S$$
+
+$$\frac{k^2}{\sigma^2}\cos^2\theta_S + 2\cos\theta_S [del]\#\ \ \ [/del] - \frac{k^2}{\sigma^2} - 2\cos\theta_G = 0$$
+
+$$\cos\theta_S = -\frac{\sigma^2}{k^2}\left(1 \pm \sqrt{1 + \frac{k^4}{\sigma^4} - 2\frac{k^2}{\sigma^2}\cos\theta_G}\right)$$
+$$\pm \sqrt{[del]\sin^2\theta_G +[/del]\left(\frac{k^2}{\sigma^2} - \cos\theta_G\right)^2}$$
+
+$$\mathcal{A}x^2 + \mathcal{B}x + \mathcal{C} = 0$$
+
+$$4\mathcal{A}^2x^2 + 4\mathcal{B}\mathcal{A}x + 4\mathcal{A}\mathcal{C}$$
+$$+ \mathcal{B}^2$$
+
+$$2\mathcal{A}x + \mathcal{B} = \sqrt{\mathcal{B}^2 - 4\mathcal{A}\mathcal{C}}$$
+
+$$x = -\frac{1}{2}\frac{\mathcal{B}}{\mathcal{A}}\left(1 \pm \sqrt{1 - 4\frac{\mathcal{A}\mathcal{C}}{\mathcal{B}^2}}\right)$$

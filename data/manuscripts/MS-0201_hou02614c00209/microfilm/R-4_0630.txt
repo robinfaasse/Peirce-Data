@@ -1,0 +1,15 @@
+[pn]MM[/pn] [fig]bracket[/fig] point, to embrace the units place with a horizontal bracket below.
+
+The simplest way of converting from the decimal to the secundal notation, or the reverse is to proceed by powers of two. Thus, in order to convert express 1907 in secundal notation, [del]remembering[/del] [ins]multiply by 2 and find[/ins] the familiar fact that $2^{10} = 1024$, [del]I know that $2^{11} = 2048$[/del] [ins]8. I subtract $2^3$ for $2^{11}$[/ins] [del]Consequently $2^{11} - 2^7 = 2048 - 128 = 1920$. I attract $2^5 = 32$, $2^6 = 64$, and $2^7 = 128$. Consequently $2^{11} - 2^7 = 2048 - 128 = 1920$. I attract $2^4$ and get $2^{11} - (2^7 + 2^4) = 1904$ and adding 3, I get 1907.[/del] Now performing these processes in secundal notation, I write
+
+[fig]black circle[/fig]
+$$\begin{array}{r@{\quad=\quad}l}
+2^{11} + 3 & 100000000011 \\
+2^7 + 2^4 & \phantom{100}10010000 \\
+\hline
+1907 & 11101110011
+\end{array}$$
+
+The rule for addition, in case there is no circulating secundal fraction, is this:
+
+Begin at right-hand-most place that contains more than one [ins]one[/ins], and draw a line through [del]two[/del] [ins]make it a single[/ins] of these and [del]continue[/del] [ins]go[/ins] to the left, crossing through [del]one[/del] [ins]one[/ins]

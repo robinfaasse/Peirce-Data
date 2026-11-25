@@ -1,0 +1,23 @@
+Solving this equation we have:
+
+$$d = 66.11$$
+
+For convenience the depth has been made 66 feet 8 inches equal to $\frac{200}{3}$.
+
+The required section of the chords of the stiffening truss will then be determined by the following formula:
+
+$$a = \frac{\frac{Wl^2}{8d}}{s}$$
+
+in which,
+
+$$d = \frac{200}{3}$$
+
+$$l = 1400$$
+
+$$s = 17,000$$
+
+$$W = 4162$$
+
+Solving this equation we have $a = 450$.
+
+In the design the chords of the stiffening truss have a smooth

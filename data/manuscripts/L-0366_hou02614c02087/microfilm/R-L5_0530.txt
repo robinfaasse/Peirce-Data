@@ -1,0 +1,50 @@
+[marginalia]
+# 909
+June 30
+[pn]12[/pn]
+[/marginalia]
+
+We now come to inverse operations, for which we can
+no longer absolutely rely upon symbolical algebra. Yet
+its suggestions are always valuable.
+
+The first inverse operation is $\Sigma$, which is the inverse of
+$\Delta$ that is $\Sigma = \Delta^{-1}$. [del]Is[/del] [ins]This[/ins] is that operation [del]in[/del] which [ins]upon $\Delta$ being[/ins] performed
+upon [del]$\Delta_{x}$[/del] gives [del]$\Delta_{x}$[/del] $1$. Now $\Delta = E - 1$
+
+$\frac{1}{E-1} = \frac{E^{-1}}{1-E^{-1}}$ Perform the long division
+
+[fig]Long division of E^-1 by 1-E^-1[/fig]
+$$\begin{array}{r@{\quad}l}
+1-E^{-1} \Big) & E^{-1} \quad \Big( E^{-1} + E^{-2} + E^{-3} \\
+& \underline{E^{-1} - E^{-2}} \\
+& \phantom{E^{-1} -} E^{-2} \\
+& \phantom{E^{-1} -} \underline{E^{-2} - E^{-3}} \\
+& \phantom{E^{-1} - E^{-2} -} E^{-3} \\
+& \phantom{E^{-1} - E^{-2} -} \underline{E^{-3} - E^{-4}}
+\end{array}$$
+
+[del]It[/del] [ins]It is thus[/ins] suggested that $\Sigma = E^{-1} + E^{-2} + E^{-3} + \text{etc}$
+and this is correct; for $(E^{-1} + E^{-2} + E^{-3} + \text{etc})(E - 1) =$
+$$\begin{array}{r}
+1 + E^{-1} + E^{-2} + E^{-3} + \text{etc} \\
+- E^{-2} - E^{-2} - E^{-3} + \text{etc}
+\end{array}$$
+$= 1$.
+
+But where is the succession of E's to stop? There is nothing in
+the problem to show any cessation. The last multiplication will
+not come out right if it stops at all; and since we cannot
+carry the summation on unceasingly, we must stop where
+we must and add an "arbitrary constant" whose value in any
+case must be discovered by some other condition of the
+problem.
+
+I must first give you the "[u]conjugate form of Maclaurin's
+Theorem[/u]". Let [del]$\Phi_{x}$[/del] [ins]$\Phi x$[/ins] $= a + b[del]x[/del] [ins]$x$[/ins] + c[del]x[/del] [ins]$x^{2}$[/ins] + d[del]x[/del] [ins]$x^{3}$[/ins] + e[del]x[/del] [ins]$x^{4}$[/ins] + etc [marginalia] where a, b, c, d,
+etc are no matter
+what [/marginalia]
+[marginalia] No matter
+what A B C D etc
+are [/marginalia]
+$\Psi x = A + B[del]x[/del] [ins]$x$[/ins] + C[del]x[/del] [ins]$x^{2}$[/ins] + D[del]x[/del] [ins]$x^{3}$[/ins] + E[del]x[/del] [ins]$x^{4}$[/ins] + etc

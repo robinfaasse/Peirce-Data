@@ -1,0 +1,16 @@
+$$x = F_1 p = A_1 - B \cos p + C \sin p$$
+$$y = F_2 p = A_2 + \frac{1}{4} B \sin p - \frac{1}{12} B \sin 3p - C \cos p$$
+$$x^2 = A_1^2 + B^2 \cos^2 p + C^2 \sin^2 p - 2AB \cos p + 2AC \sin p - BC \sin 2p$$
+$$= (A_1^2 + \frac{1}{2} B^2 + \frac{1}{2} C^2) - 2AB \cos p + 2AC \sin p + \frac{1}{2} (B^2 - C^2) \cos 2p$$
+$$- BC \sin 2p$$
+
+$$y^2 = A_2^2 + \frac{1}{16} B^2 \sin^2 p + \frac{1}{144} B^2 \sin^2 3p + C^2 \cos^2 p$$
+$$+ \frac{1}{2} A_2 B \sin p - 2 A_2 C \cos p - \frac{1}{4} BC [del]\sin p \cos p[/del] [ins]\sin 2p[/ins] - \frac{1}{6} A_2 B \sin 3p$$
+$$- \frac{1}{24} B^2 \sin p \sin 3p + \frac{1}{6} BC \sin 3p \cos p$$
+$$= A_2^2 + \frac{1}{32} B^2 + [del]\frac{1}{288}[/del] [ins]\frac{1}{288}[/ins] B^2 + \frac{1}{2} C^2$$
+$$- \frac{1}{32} B^2 \cos 2p + \frac{1}{2} C^2 \cos 2p$$
+$$- \frac{1}{4} BC \sin 2p$$
+$$- \frac{1}{288} B^2 \cos 6p$$
+$$+ \frac{1}{2} A_2 B \sin p$$
+$$- 2 A_2 C \cos p$$
+$$- \frac{1}{6} A_2 B \sin 3p$$

@@ -1,0 +1,62 @@
+To convert Heliocentric Lat & Long. into Geocentric R.A & Dec
+
+$\lambda$ Hel Long $\hslash$
+$\beta$ " Lat $\hslash$
+
+$\alpha$ Geoc. RA $\hslash$
+$\delta$ " Dec
+
+$\Lambda$ Long. of Sun
+$r$ = Radius Vector of Saturn.
+
+$P$ Dist of Sun
+$\Delta$ Dist of Saturn
+
+Project $\hslash$ onto plane of ecliptic let $\Delta'$ and $r'$ be projected
+lengths & $t$ the distance of $\hslash$ from Elliptic
+
+$t = r \sin \beta$
+$\Delta \cos \beta' = \Delta'$
+$\frac{r \cos \beta}{\Delta \cos \beta'} \sin (\lambda - \Lambda) = \sin (\lambda' - \Lambda)$
+
+$\frac{r}{\Delta} \sin \beta = \frac{\sin \beta'}{\cos \beta'}$ (where $\beta'$ is Geoc. Lat)
+$\frac{r}{\Delta} \cos \beta = \frac{\sin (\lambda' - \Lambda)}{\sin (\lambda - \Lambda)}$ (where $\lambda'$ is Geoc Long)
+
+Then from $\beta'$ and $\lambda'$ calculate $\alpha$ and $\delta$. These formulae
+are extemporized and very likely could be improved.
+
+[fig]Geometric diagram with lines connecting Sun, Earth, and Saturn[/fig]
+
+$9.96254$
+$4.68557$
+$4.72303$
+
+$0.36262$
+$0.40007$
+
+$\sin \delta = \frac{\sin \beta' - \cos \omega \sin \delta}{\sin \omega \cos \delta}$
+$\frac{\sin \beta'}{\cos \omega \sin \delta}$
+Gauss's
+$\cot \omega \tan \delta$
+
+[fig]Arc of a circle with angle markings[/fig]
+
+$180$
+$-90$
+$90-\delta$
+
+[fig]Spherical triangle with vertices Pole Ecl, Pole Eq, and Saturn[/fig]
+
+$\cos \delta$
+
+$\cos \alpha = \frac{\sin \beta' - \cos \lambda' \cos \beta'}{\cos \delta}$
+$\cos^2 \alpha = \frac{\cos^2 \lambda' \cos^2 \beta'}{\cos^2 \delta}$
+$\sin^2 \alpha = 1 - \frac{\cos^2 \lambda' \cos^2 \beta'}{\cos^2 \delta}$
+$\cos^2 \delta - \cos^2 \lambda' \cos^2 \beta'$
+
+$\frac{\cos \frac{1}{2} (90 - \beta' - \omega)}{\cos \frac{1}{2} (90 - \beta' + \omega)} \cot \frac{1}{2} (90 - \lambda') = \tan \varphi$
+$\frac{\sin \frac{1}{2} (90 - \beta' - \omega)}{\sin \frac{1}{2} (90 - \beta' + \omega)} \cot \frac{1}{2} (90 - \lambda') = \tan \psi$
+
+$\sin \delta = \sin \beta' \cos \omega + \cos \beta' \sin \omega \sin \lambda'$
+$\sin \beta' \cos \omega$
+$\cos \beta' \tan \omega \sin \lambda'$

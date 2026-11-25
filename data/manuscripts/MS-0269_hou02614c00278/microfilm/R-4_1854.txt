@@ -1,0 +1,44 @@
+[del]$\frac{dy}{dx} = \sqrt{a} x^{\frac{1}{2}}$[/del]
+[del]$y = \frac{2}{3} \sqrt{a} x^{\frac{3}{2}} + C$[/del]
+[del]$(y + C)^2 = \frac{4}{9} a x^3$[/del]
+[del]$2 (y + C) \frac{dy}{dx} = \frac{4}{3} a x^2$[/del]
+
+$\frac{dy}{dx} = \sqrt{a} x^{-\frac{1}{2}}$
+$y + C = 2 \sqrt{a} x^{\frac{1}{2}}$
+[del]$\frac{dy}{dx}$[/del]
+$(C + y)^2 = 4 a x$
+$2 (C + y) \frac{dy}{dx} = 4 a$
+$(\frac{dy}{dx})^2 = \frac{4 a^2}{4 a x} = \frac{a}{x}$
+
+$\frac{dy}{dx} = \frac{\frac{4}{3} a x^2}{2 (y + C)} = \frac{\frac{4}{3} a x^2}{2 \cdot \frac{2}{3} \sqrt{a} x^{\frac{3}{2}}}$
+$(\frac{dy}{dx})^2 = \frac{\frac{16}{9} a^2 x^4}{\frac{16}{9} a x^3}$
+$= a x$
+
+$(\frac{dy}{dx})^2 + 2 \frac{y}{x} \frac{dy}{dx} + \frac{y^2}{x^2} = 1 + \frac{y^2}{x^2}$
+$\frac{dy}{dx} = -\frac{y}{x} \pm \sqrt{1 + \frac{y^2}{x^2}}$
+
+$y = v x$
+$v + x \frac{dv}{dx} = -v \pm \sqrt{1 + v^2}$
+$\frac{dv}{-2v + \sqrt{1 + v^2}} = \frac{dx}{x}$
+
+$m = -1$
+$\int \frac{dv}{-2v + \sqrt{v^2 + 1}}$
+$z = \sqrt{v^2 + 1} - v$
+$dz = \frac{v}{\sqrt{v^2 - 1}} - 1$
+
+[del]$z + v = \sqrt{v^2 + 1}$[/del]
+$z^2 + 2vz + [del]v^2[/del] = [del]v^2[/del] + 1$
+$v = \frac{1 - z^2}{2z}$
+$= \frac{1}{2z} - \frac{z}{2}$
+[del]$dv = (\frac{1}{2} \log z - \frac{1}{2}) dz$[/del]
+$dv = (-\frac{1}{2z^2} - \frac{1}{2}) dz$
+
+[del]$\int \frac{(-\frac{1}{2z^2} - \frac{1}{2}) dz}{2z - \frac{1}{2z} - \frac{z}{2}}$[/del]
+
+$\int \frac{\frac{1}{2} (-\frac{1}{z^2} - 1) dz}{z - \frac{1}{2z} + \frac{z}{2}}$
+
+$= \int \frac{z^2 - 1}{+ 3z^3 - z} dz = \int \frac{z + 1}{z^2 + z + 1} dz$
+
+$z^2 - 1) z^3 - z ( z + \frac{1}{z+1}$
+$\frac{z^2 - z}{z - 1}$
+$\frac{z + 1}{z^2 + z + 1}$

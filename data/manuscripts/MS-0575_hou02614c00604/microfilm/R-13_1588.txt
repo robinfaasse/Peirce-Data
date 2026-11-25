@@ -1,0 +1,13 @@
+[u]Theorem 3[/u]. [u]Logical Addition[/u] and [u]Internal Multiplication[/u] are
+[del]Mutually[/del] [ins]distributive[/ins]; that is,
+$$\underline{x} \cdot_p (\underline{y} +_p \underline{z}) = \underline{x} \cdot_p \underline{y} +_p \underline{x} \cdot_p \underline{z},$$ (20)
+$$\underline{x} +_p \underline{y} \cdot_p \underline{z} = (\underline{x} +_p \underline{y}) \cdot_p (\underline{x} +_p \underline{z}).$$ (21)
+[u]Proof[/u]. By 4 $$\underline{y} \prec \underline{y} +_p \underline{z}$$ (22)
+By (22), (11), (2) $$\underline{x} \cdot_p \underline{y} \prec \underline{y} +_p \underline{z}$$ (23)
+By (23), (7), (8) $$\underline{x} \cdot_p \underline{y} \prec \underline{x} \cdot_p (\underline{y} +_p \underline{z})$$ (24)
+In the same way, we could show that
+$$\underline{x} \cdot_p \underline{z} \prec \underline{x} \cdot_p (\underline{y} +_p \underline{z})$$ (25)
+From (24), (25), (5)
+$$\underline{x} \cdot_p \underline{y} +_p \underline{x} \cdot_p \underline{z} \prec \underline{x} \cdot_p (\underline{y} +_p \underline{z}).$$ (26)
+Whence by Corollary 1,
+$$\underline{x} +_p \underline{y} \cdot_p \underline{z} \prec (\underline{x} +_p \underline{y}) \cdot_p (\underline{x} +_p \underline{z})$$ (27)

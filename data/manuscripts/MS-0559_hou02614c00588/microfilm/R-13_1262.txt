@@ -1,0 +1,32 @@
+$$\begin{array}{c}
+\cancel{\text{Y}}\ \Phi^{n+1}\ \text{X}\ \text{true}, \\
+\therefore \cancel{\text{Y}}\ \Phi^{n+1}\ \text{Y}\ \text{true},
+\end{array}$$
+which expresses the lemma to be proved.
+
+We can now with great ease all but establish the truth of the rule, leaving one [del]or[/del] point to be reëxamined. For if X can under every even number of vincula be substituted for Y, it can [ins]be so substituted[/ins] under none. Hence, [del]as we have[/del] again
+$$\begin{array}{c}
+\cancel{\text{Y}}\ \text{Y}\ \text{true}, \\
+\therefore \cancel{\text{Y}}\ \text{X}\ \text{true}.
+\end{array}$$
+Hence, by the same sort of reasoning used to establish the [del]last[/del] rule ($2$), — called the Fermatian inference, — we show that
+$$\begin{array}{c}
+\cancel{\text{Y}}\ \Phi^{2n+1}\ \text{X}\ \text{true}, \\
+\therefore \cancel{\text{Y}}\ \Phi^{2n+1}\ \text{Y}\ \text{true},
+\end{array}$$
+is valid. Now for the "vice versa" which ends the rule; [ins]for the last sentence has already been proved.[/ins] In the case supposed we have
+$$\begin{array}{c}
+\cancel{\cancel{\text{Y}}}\ \text{Y}\ \text{true}, \\
+\therefore \cancel{\cancel{\text{Y}}}\ \text{X}\ \text{true},
+\end{array}$$
+and if from this it follows that
+$$\begin{array}{c}
+\cancel{\text{Y}}\ \Phi^{2n+2}\ \text{X}\ \text{true}, \\
+\therefore \cancel{\text{Y}}\ \Phi^{2n+2}\ \text{Y}\ \text{true}.
+\end{array}$$
+But it remains to show that
+$$\begin{array}{c}
+\cancel{\text{Y}}\ \Phi^{0}\ \text{X}\ \text{true}, \\
+\therefore \cancel{\text{Y}}\ \Phi^{0}\ \text{Y}\ \text{true},
+\end{array}$$
+is valid. This proof we postpone.

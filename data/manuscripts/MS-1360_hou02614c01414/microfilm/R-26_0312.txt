@@ -1,0 +1,16 @@
+Report on Morrison's Bridge
+
+(24) [pn]x[/pn] = lA [integral] ( [fraction]1[/fraction]/[epsilon] + [fraction]1[/fraction]/[square root]A^2 + Q^2([lambda] - [lambda]_k)^2 ) d[lambda]
+= [fraction]1[/fraction]/2 lA { [fraction]x[/fraction]/[epsilon] + [fraction]1[/fraction]/Q log [fraction][ [square root]A^2 + Q^2([lambda] - [lambda]_k)^2 + Q([lambda] - [lambda]_k) ] [ [square root]A^2 + Q^2[lambda]_k^2 + Q[lambda]_k ][/fraction]/[ [square root]A^2 + Q^2([lambda] - [lambda]_k)^2 - Q([lambda] - [lambda]_k) ] [ [square root]A^2 + Q^2[lambda]_k^2 - Q[lambda]_k ] }
+
+These equations present the advantage in that, if [epsilon] gradually changes, the trajectory of each particle is shown.
+
+If the load is so placed as to be uniform along the horizontal abscissa, after the stretching, that is, if
+(25) p = q [pn]x[/pn],
+where q is a constant, we may consider [phi], the [ins]angle of slope[/ins] angle of the cable.
+Equation (5) at once gives
+(26) [fraction]dy[/fraction]/[fraction]d[pn]x[/pn][/fraction] = tan [phi] = tan [phi]_0 - [fraction]q[/fraction]/[fraction]A[/fraction] [pn]x[/pn],
+so that [ins](even if [epsilon] is not constant)[/ins] the curve is a parabola with its vertex at the lowest point. If [del][epsilon] be constant and[/del] b = 0,
+(27) tan [phi]_0 = [del][fraction]qa[/fraction]/[fraction]2[/fraction][/del] [fraction]1/2 a q[/fraction]/[fraction]A[/fraction];
+and, by integration,
+(28) y = [del][fraction]q[/fraction]/[fraction]2[/fraction][/del] [fraction]1[/fraction]/2 [fraction]q[/fraction]/[fraction]A[/fraction] [pn]x[/pn] (a - [pn]x[/pn]) = 1/2 [pn]x[/pn]_k (tan [phi]_0 - cot [phi]_0 . tan^2 [phi]).

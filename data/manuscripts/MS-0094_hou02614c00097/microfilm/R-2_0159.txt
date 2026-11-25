@@ -1,0 +1,41 @@
+[pn]149[/pn]
+
+Now all the numbers in Col. I are zero except in Row II. We erase Col I. and Row II and so get
+
+$$\begin{array}{cccl}
+46 & -5 & 17 & a - 20b - 5c \\
+6 & 25 & 8 & 5\frac{11}{7} + a - 2b + 2d - 22f \\
+1 & -9 & 1 & e + 4f \\
+21 & -1 & -40 & 3a - 8b - 2c + g
+\end{array}$$
+
+Now for Row I we substitute $\text{I} - \text{II} + 2\text{III} - 2\text{IV}$,
+for [del]Row II[/del] [ins]$\text{II} - 6\text{III}$[/ins]
+for Row IV $-3\text{II} - 3\text{III} + \text{IV}$
+
+Thus all the numbers in Column I become zero, except in Row III. We erase Col. I. and Row III and get
+
+$$\begin{array}{cccl}
+-116 & 57 & -5\frac{11}{7} - 6a - 2b - c - 2d + 2e + 30f - 2g \\
+149 & 2 & 5\frac{11}{7} + a - 2b \quad + 2d - 6e - 46f \\
+-259 & -67 & -15\frac{11}{7} \quad - 2b - 2c - 6d - 3e + 54f + g.
+\end{array}$$
+
+Now for Row I substitute $\text{I} + \text{III}$
+for [del]Row III[/del] [ins]$\text{I} - \text{III}$[/ins], and we get
+
+$$\begin{array}{cccl}
+-375 & -10 & -20\frac{11}{7} - 6a - 4b - 3c - 8d - e + 84f - g \\
+149 & 2 & 5\frac{11}{7} + a - 2b \quad + 2d - 6e - 46f \\
+143 & 124 & 10\frac{11}{7} - 6a \quad + c + 4d + 5e - 24f - 3g
+\end{array}$$
+
+Now for Row I substitute $12\text{I} - 2\text{II} + \text{III}$
+for Row II $\text{I} + 5\text{II}$.
+
+and all the members of Col II vanish except in Row III. Erase Col II and Row III and divide Col I by 5. We thus get
+
+$$\begin{array}{cl}
+-931 & -240\frac{11}{7} - 80a - 44b - 35c - 96d + 5e + 1076f - 15g \\
+74 & 5\frac{11}{7} - a - 14b - 3c + 2d - 31e - 146f - g.
+\end{array}$$

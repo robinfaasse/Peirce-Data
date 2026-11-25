@@ -1,0 +1,41 @@
+[marginalia]Morrison's Bridge [date]1899 March 5[/date][/marginalia] [pn]6[/pn]
+
+$D_{\eta}\xi_{R}'' = +\frac{1}{2}\frac{(n+1)}{n}\xi_{R}'' - \frac{1}{2n} + \frac{(\eta_{n+1}-\eta_{n})}{s}(1+\frac{(n+1)^{2}}{n^{2}}) - \frac{(\eta_{n}-\eta_{n-1})}{s}(1+\frac{n^{2}}{n^{2}})$
+$= \frac{1}{2}\frac{s}{n} + \frac{\eta_{n+1}-2\eta_{n}+\eta_{n-1}}{s}(1+\frac{n^{2}}{n^{2}}) [del]\frac{+2(n+1)\eta_{n+1}-2n\eta_{n}}{s}[/del] + (\eta_{n+1}-\eta_{n})\frac{2n}{n^{2}}$
+
+$\frac{dn}{2n} + (1+\frac{n^{2}}{n^{2}})D_{n}^{2}\eta\cdot dn + \frac{2n}{n}D_{n}\eta\cdot dn$
+
+$B [del]D_{n}^{4}\eta[/del] + w + \frac{K}{s}\xi_{R}''[\frac{1}{n} + 2(1+\frac{n^{2}}{n^{2}})D_{n}^{2}\eta + \frac{4n}{n^{2}}D_{n}\eta] = 0$
+[del]$B D_{n}^{5}\eta$[/del]
+[del]$B D_{n}^{4}\eta$[/del]
+[del]$B D_{n}^{3}\eta$[/del]
+$+ K\xi_{R}''[\frac{8n}{n^{2}}D_{n}^{2}\eta + 2(1+\frac{n^{2}}{n^{2}})D_{n}^{3}\eta + \frac{4}{n^{2}}D_{n}\eta [del]-\frac{8n}{n^{3}}D_{n}\eta[/del]] = 0$
+
+$\int \eta D_{n}\eta = n\eta - \int \eta dn$
+
+$\int n^{2}D_{n}^{2}\eta = n^{2}D_{n}\eta - 2\int n\cdot D_{n}\eta$
+$= n^{2}D_{n}\eta - 2n\eta + 2\int \eta dn$
+
+$2\int(n^{2}D_{n}^{2}\eta + 4n D_{n}\eta = 2n^{2}D_{n}\eta - 4n\eta + 4\int n dn$
+$+ 4n\eta - 4\int n dn$
+
+$B D_{n}^{3}\eta + wn + K\xi_{R}''[\frac{1}{n} + 2D_{n}\eta + \frac{2n^{2}}{n^{2}}D_{n}\eta] + C_{0}$
+
+[del]$B D_{n}^{2}\eta + \frac{1}{2}wn^{2} + K\xi_{R}''[\frac{1}{n}n + 2\eta + \frac{2n^{2}}{n^{2}}D_{n}\eta - 4\int\eta dn] + C_{0}n + C_{1}$[/del]
+
+$\iint \eta$
+[del]$n\int\eta$[/del]
+$\int\eta + n\eta$
+$\frac{n^{2}\eta}{n\eta + n^{2}D_{n}\eta}$
+$n\iint\eta$
+[del]$n$[/del]
+[del]$n\int\eta + n\int n$[/del]
+
+$n^{2}D_{n}\eta = D_{n}(2\iint\eta - 2n\int\eta + n^{2}\eta)$
+$= 2\int\eta - 2\int\eta - 2n\eta + 2n\eta + n^{2}D_{n}\eta$
+
+$n\int\eta = [del]n\iint[/del] D_{n}\int$
+
+[del]$\int n\int\eta = n\eta - \int\int$[/del]
+
+$\int x^{2}Dy = x^{2}y - \int$

@@ -1,0 +1,76 @@
+[marginalia]
+Minison's Bridge 1899 March
+[/marginalia]
+
+[pn]8[/pn]
+
+Call $D_x y = z$
+
+[del]$B D_x^2 z + \frac{\kappa \xi'}{\mu} (1 + \frac{n^2}{\mu^2}) z = $[/del]
+
+$B D_x^2 z + 2 \kappa \xi'' (1 + \frac{n^2}{\mu^2}) x = - w n - C_0$
+
+$D_x^2 y + a (1 + \frac{x^2}{\mu^2}) y = 0$
+
+$D_x^2 y = \frac{1}{2} D_y (D_x y)^2$
+
+$D_y (D_x y)^2 = - 2 a (1 + \frac{x^2}{\mu^2}) y$
+
+[del]$(D_x y) = C - a ($[/del]
+
+$y = \mathcal{G} x^m$
+$D_x y = m \mathcal{G} x^{m-1}$
+$D_x^2 y = m \mathcal{G} x^{m+2}$
+
+$y = \mathcal{G}^{x^2}$
+$D_x y = 2 x \mathcal{G}^{x^2}$
+$D_x^2 y = 2 \mathcal{G}^{x^2} + 4 x^2 \mathcal{G}^{x^2}$
+$= 2 (1 + 2 x^2) y$
+
+$y = \mathcal{G}^{A x^M}$
+$D_x y = A M x^{M-1} \mathcal{G}^{A x^M}$
+$D_x^2 y = A M (M-1) x^{M-2} + A$
+
+$y = x \mathcal{G}^{A x}$
+$D_x y = (1 + A x) \mathcal{G}^{A x}$
+$D_x^2 y = [del]A[/del] [ins]$A + (1+Ax)A$[/ins]
+
+$y = x \mathcal{G}^{A x^2}$
+$D_x y = (1 + 2 A x^2) \mathcal{G}^{A x^2}$
+$D_x^2 y = [del]4 A x + (1+2Ax^2) 2 A[/del]
+
+$y = C \mathcal{G}^{A x^2}$
+$D_x y = 2 A C x \mathcal{G}^{A x^2}$
+$D_x^2 y = (2 A C + 4 A^2 C x^2) \mathcal{G}^{A x^2}$
+$= 2 A (1 + 2 A x^2) y$
+
+$y = x^M \mathcal{G}^{A x^N}$
+$D_x y = (M x^{M-1} + A N x^{M+N-1}) \mathcal{G}^{A x^N}$
+$D_x^2 y = [del]M(M-1)x^{M-2}[/del] [ins]$+ A N (M+N-1) x^{M+N-2}$[/ins]
+$A M N x^{M+N-2} + A^2 N^2 x^{2N-2}$
+
+$y = \mathcal{G}^{\Phi x}$
+$D_x y = \Phi' x \mathcal{G}^{\Phi x}$
+$D_x^2 y = [\Phi'' x + \Phi' x^2]$
+
+$\frac{D \log y}{D y}$
+$\frac{D \log D y}{D y}$
+$\frac{x D_x^2 y - (D_x y)^2}{y^2}$
+$\frac{D_x^2 y}{y} - (\frac{D_x y}{y})^2$
+
+[del]$y = \psi x \mathcal{G}^{\Phi x}$[/del]
+$y = \psi x \mathcal{G}^{\Phi x}$
+$D_x y = (\psi' x + \psi x \Phi' x) \mathcal{G}^{\Phi x}$
+$D_x^2 y = [\psi'' x + 2 \psi' x \Phi' x + \psi x \Phi'' x + \psi x (\Phi' x)^2]$
+
+$y = \mathcal{G}^{A x^2 + B x}$
+$D_x y = (2 A x + B) \mathcal{G}^{A x^2 + B x}$
+$D_x^2 y = [2 A + (2 A x + B)^2] \mathcal{G}^{A x^2 + B x}$
+
+$\frac{a}{\mu} x^2$
+$\int \frac{a}{\mu} \cdot x$
+$\frac{\sqrt{a}}{\sqrt{\mu}}$
+
+$y = x^2 \mathcal{G}^{A x^2}$
+$D_x y = (2 x + 2 A x^3) \mathcal{G}^{A x^2}$
+$D_x^2 y = (2 + 10 A x^2 + 4$

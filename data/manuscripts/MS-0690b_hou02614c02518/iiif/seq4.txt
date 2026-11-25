@@ -1,0 +1,22 @@
+(3)
+
+$$\frac{\text{p}_1}{\text{p}_1 + \text{q}_1} \cdot \frac{\text{p}_2}{\text{p}_2 + \text{q}_2} \cdot \frac{\text{p}_3}{\text{p}_3 + \text{q}_3} \cdot \text{etc.} \text{ X } \frac{\text{p}_5}{\text{p}_5 + \text{q}_5} \cdot \frac{\text{p}_6}{\text{p}_6 + \text{q}_6} \cdot \frac{\text{p}_7}{\text{p}_7 + \text{q}_7} \cdot \text{etc. ;}$$
+
+and the probability that all the arguments [u]pro[/u] lead to error while
+all the arguments [u]con[/u] lead to truth, will be
+
+$$\frac{\text{q}_1}{\text{p}_1 + \text{q}_1} \cdot \frac{\text{q}_2}{\text{p}_2 + \text{q}_2} \cdot \frac{\text{q}_3}{\text{p}_3 + \text{q}_3} \cdot \text{etc.} \text{ X } \frac{\text{q}_5}{\text{p}_5 + \text{q}_5} \cdot \frac{\text{q}_6}{\text{p}_6 + \text{q}_6} \cdot \frac{\text{q}_7}{\text{p}_7 + \text{q}_7} \cdot \text{etc.}$$
+
+But one or other of these two alternatives must be the case; so that
+the [u]odds[/u] or ratio of favorable to unfavorable probability on the
+whole is simply
+
+$$\frac{\text{p}_1 \cdot \text{p}_2 \cdot \text{p}_3 \cdot \text{etc. } \text{p}_5 \cdot \text{p}_6 \cdot \text{p}_7 \text{ etc.}}{\text{q}_1 \cdot \text{q}_2 \cdot \text{q}_3 \cdot \text{etc. } \text{q}_5 \cdot \text{q}_6 \cdot \text{q}_7 \text{ etc.}}.$$
+
+Now if we suppose that the impression made on the mind of the wise
+man is proportional to the logarithm of the [u]odds[/u] as its exciting
+cause, then the total impression will be
+
+$$\text{log.} \left( \frac{\text{p}_1}{\text{q}_1} \cdot \frac{\text{p}_2}{\text{q}_2} \cdot \frac{\text{p}_3}{\text{q}_3} \cdot \text{etc.} \cdot \frac{\text{p}_5}{\text{q}_5} \cdot \frac{\text{p}_6}{\text{q}_6} \cdot \frac{\text{p}_7}{\text{q}_7} \cdot \text{etc.} \right) =$$
+
+$$\text{log.} \frac{\text{p}_1}{\text{q}_1} + \text{log.} \frac{\text{p}_2}{\text{q}_2} + \text{log.} \frac{\text{p}_3}{\text{q}_3} + \text{etc. } + \text{log.} \frac{\text{p}_5}{\text{q}_5} + \text{log.} \frac{\text{p}_6}{\text{q}_6} + \text{log.} \frac{\text{p}_7}{\text{q}_7} + \text{ etc.}$$

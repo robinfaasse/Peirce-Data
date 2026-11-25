@@ -1,0 +1,11 @@
+The shorter pendulum will usually oscillate at nearly its [del]nearly[/del] [del]own[/del] [ins]own[/ins] period of oscillation on the same
+
+$$5a - b \left( 1 + \frac{3 \sqrt{a}}{5a - b} i \right) \delta^2$$
+
+$$+ 2 \sqrt{a} (a - b) \left( 1 + \frac{3a + \frac{j}{i}}{2 \sqrt{a} (a - b)} i \right) \delta$$
+
+$$+ a \sqrt{a} \cdot i + \sqrt{a} \cdot j = 0$$
+
+$$\delta^2 + 2 \frac{\sqrt{a} (a - b)}{5a - b} \left( 1 + \frac{9a^2 + 3ab + (5a - b) \frac{j}{i}}{2 \sqrt{a} (a - b) (5a - b)} i \right) + \frac{- 6a (a - b) + 15a^2 - 3ab + (5a - b) \frac{j}{i}}{9a^2 + 3ab + (5a - b) \frac{j}{i}} \frac{2 \sqrt{a} (a - b) (5a - b)}{[del]5a \sqrt{a} - ab \sqrt{a} + (5a - b) \frac{j}{i}[/del]}$$
+
+$$+ \frac{a \sqrt{a} + \sqrt{a} \frac{j}{i}}{5a - b} i \left( 1 - \frac{3a}{5a - b} i \right) = 0$$

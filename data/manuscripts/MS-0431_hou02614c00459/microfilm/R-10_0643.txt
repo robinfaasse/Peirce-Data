@@ -1,0 +1,28 @@
+[pn]Logic
+III
+85[/pn]
+
+[u]violating the first prescription[/u]. In the second case, we have,
+[u]v[/u] O ([u]f[/u] O [u]f[/u]) = [u]v[/u] O [u]v[/u] = [u]f[/u],
+[u]f[/u] O ([u]v[/u] O [u]f[/u]) = [u]f[/u] O [u]f[/u] = [u]v[/u],
+
+[u]violating the second prescription[/u]. In the third case, we have
+[u]v[/u] O ([u]f[/u] O [u]v[/u]) = [u]v[/u] O [u]f[/u] = [u]v[/u],
+[u]f[/u] O ([u]v[/u] O [u]v[/u]) = [u]f[/u] O [u]v[/u] = [u]f[/u],
+
+[u]violating the first prescription[/u]. In the fourth case, we have
+[u]v[/u] O ([u]f[/u] O [u]f[/u]) = [u]v[/u] O [u]f[/u] = [u]v[/u],
+[u]f[/u] O ([u]v[/u] O [u]f[/u]) = [u]f[/u] O [u]v[/u] = [u]f[/u],
+
+[u]violating the second prescription[/u].
+
+It will be remarked that one or other of the two formulae
+[u]x[/u] O ([u]y[/u] O [u]z[/u]) = [u]y[/u] O ([u]x[/u] O [u]z[/u])
+([u]x[/u] O [u]y[/u]) O [u]z[/u] = ([u]x[/u] O [u]z[/u]) O [u]y[/u]
+is true of 14 out of the 16 [del]signs[/del] [ins]signs[/ins], or all but [u]v[/u] and [u]f[/u].
+
+Another very commonly true pair of formulae are
+([u]x[/u] O [u]y[/u]) O [u]z[/u] = ([u]y[/u] O [u]z[/u]) O [u]x[/u]
+[del]([u]x[/u] O ([u]y[/u] O [u]z[/u]) = [u]z[/u] O ([u]y[/u] O [u]x[/u])[/del] [ins][u]x[/u] O ([u]y[/u] O [u]z[/u]) = [u]z[/u] O ([u]y[/u] O [u]x[/u])[/ins].
+
+[pn]F[/pn]

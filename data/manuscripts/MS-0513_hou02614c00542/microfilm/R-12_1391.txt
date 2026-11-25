@@ -1,0 +1,21 @@
+We define multiplication and addition as follows:
+$$yx = \log_x \left[ \left( x^y \right)^z \right]$$ [and if there [del]are[/del] [ins]is[/ins] indeterminacy such a value is to be taken as to make $yx$ independent of $x$.]
+$$y+u = \log_y \log_x \left[ \left( x^y \right)^{y^u} \right]$$
+We can go no further since neither $\log_x \left( x^u + x^v \right)$ nor $x^{\log_x u \cdot \log_x v}$ is independent of $x$.
+
+These, however, are not mere definitions of multiplication and addition. They are important properties of involution. Namely,
+$\log_x \left[ \left( x^y \right)^z \right]$ is independent of $x$ or $\log_x \left[ \left( x^y \right)^z \right] = \log_{\xi} \left[ \left( \xi^y \right)^z \right]$
+$\log_y \log_x \left[ \left( x^y \right)^{y^u} \right] = \log_{\eta} \log_{\xi} \left[ \left( \xi^{\eta} \right)^{\eta^u} \right]$
+We also have the facts that in $x^y = z$, $x$ and $y$ may be any numbers whatever; [del]but $z$ can only be certain or[/del] but after either $x$ or $y$ is chosen $z$ can only be one of a [del]peculiar[/del] [ins]suitable[/ins] set of number[ins]s[/ins]
+
+For $x=0$ $z$ is $0$ or $1$ ([ins]perhaps if $y=0$ $z$ is any number[/ins])
+For $x=1$ $z$ is $1$
+For $x=2$ $z$ is $1, 2, 4, 8,$ etc
+For $x=3$ $z$ is $1, 3, 9, 27$ etc
+
+For $y=0$ $z$ is $1$ (Perhaps if $x=0$, $z$ is any number)
+For $y=1$ $z$ is any number
+For $y=2$ $z$ is $0, 1, 4, 9, 16, 25, \dots$
+For $y=3$ $z$ is $0, 1, 8, 27, 64, 125,$ etc.
+
+[fig]mathematical scratchwork and equations[/fig]

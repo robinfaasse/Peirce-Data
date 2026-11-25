@@ -1,0 +1,46 @@
+[del]R² = 1/4 (A+B)² = (A+B)²/4[/del] [fig]Right triangle[/fig]
+Polar coordinates
+
+A₁ sec (θ - θ₁) = r
+
+[del]A = r[/del]
+
+[del]r =[/del] [ins]2 A₁[/ins] / [del]6^{θi} + 6^{-θi}[/del]
+
+[del]r =[/del] 2 A₁ 6^{θi} / 6^{(θ-θ₁)i} + 6^{-(θ-θ₁)i}
+
+2 A₁ / 6^{-θ₁i} + 6^{(θ₁-2θ)i}
+
+r₂ 6^{θ₂i} r₃ 6^{θ₃i}
+
+r₂ cos θ₂i
+
+cos θ = 1/2 6^{θi} + 1/2 6^{-θi}
+
+[del]A[/del] [del]B[/del]
+A B C D vectors
+
+p/(p+q) A + q/(p+q) B
+s/(s+t) C + t/(s+t) D
+
+6^{θ₁i} 6^{θ₂i} 6^{θ₃i} 6^{θ₄i} [fig]Circle with vectors[/fig]
+
+p/(p+q) 6^{θ₁i} + q/(p+q) 6^{θ₂i}
+
+p/(p+q) cos θ₁ + p/(p+q) sin θ₁ i
+q/(p+q) cos θ₂ + q/(p+q) sin θ₂ i [fig]Circle with intersecting lines[/fig]
+
+sin α + cos α = [fig]Angle diagram[/fig]
+sin α + sin (90° - α) = 2 sin 45° cos (45° - α)
+
+√2 cos (45° - α) = [del]1[/del]/[del]√2[/del] cos α + [del]1[/del]/[del]√2[/del] sin α
+
+cos 2p = 2 cos² p - 1
+[del]cos 2p[/del] = 1 - 2 sin² p
+
+sin² p cos² α + 2 sin p cos p sin α cos β + cos² p cos² β
+sin² p sin² α + 2 sin p cos p sin α sin β + cos² p sin² β
+
+I² / R² = 1 + sin 2p cos (α - β) = 1 + sin 2q cos (γ - δ)
+sin² p cos 2α + cos² p cos 2β + sin 2p cos (α + β) = 0
+1/2 (1 - cos 2p) + 1/2 (1 + cos 2p)

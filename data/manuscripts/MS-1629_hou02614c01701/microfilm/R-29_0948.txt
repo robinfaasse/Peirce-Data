@@ -1,0 +1,18 @@
+[u]Integration of Differential Equations[/u]
+
+§196.9. To integrate the differential equation
+
+[pn]D_t^4[/pn] x + x = 0
+
+[del]\alpha_1 x_0 + \alpha_2 x_0' + \alpha_3 x_0'' + \alpha_4 x_0''' = x[/del]
+
+f = D_t^4 + 1
+
+S = s^4 + 1 = 0
+
+S = \pm \frac{1}{2}\sqrt{2} \pm \frac{1}{2}\sqrt{2} \sqrt{-}
+
+x = \sum_i \alpha_i \mathcal{G}^{s_i t}
+
+x = \alpha_1 \mathcal{G}^{t(\frac{1}{2}\sqrt{2} + \frac{1}{2}\sqrt{2}\sqrt{-})} + \alpha_2 \mathcal{G}^{t(+\frac{1}{2}\sqrt{2} - \frac{1}{2}\sqrt{2}\sqrt{-})} + \alpha_3 \mathcal{G}^{t(-\frac{1}{2}\sqrt{2} + \frac{1}{2}\sqrt{2}\sqrt{-})}
++ \alpha_4 \mathcal{G}^{t(-\frac{1}{2}\sqrt{2} - \frac{1}{2}\sqrt{2}\sqrt{-})}

@@ -1,0 +1,25 @@
+Now $r = 6^y$ $\theta = \chi$
+Put $S = 6^Y$
+
+$\frac{r}{S} = 6^{y-Y} = \cosh(y-Y) + \sinh(y-Y)$
+$-\frac{S}{r} = -6^{Y-y} = -\cosh(y-Y) + \sinh(y-Y)$
+
+$\sinh(y-Y) = E \sin(\chi - \Theta)$
+
+On the Stereographic the equation of a parallel
+is
+$\xi^2 + (\eta - \beta)^2 = \gamma^2$
+
+When $\xi = 0$
+$\eta_1 = \beta + \gamma = S \tan \frac{90^\circ - lat + 51^\circ}{2}$
+$\eta_2 = \beta - \gamma = -S \tan \frac{90^\circ - lat - 51^\circ}{2} = S \tan \frac{51^\circ - 90^\circ + lat}{2}$
+
+$\beta = \frac{S \sin 51^\circ}{\cos 51^\circ + \sin lat}$  $\gamma = \frac{S \cos lat}{\cos 51^\circ + \sin lat}$
+
+$r^2 \sin^2 \theta + (r \cos \theta - S \frac{\sin 51^\circ}{\cos 51^\circ + \sin lat})^2 = S^2 \frac{\cos^2 lat}{(\cos 51^\circ + \sin lat)^2}$
+
+[del]$\frac{\frac{r}{S} + \frac{S}{r}}{(\cos 51^\circ + \sin lat)} = 2 \cos \theta \frac{\sin 51^\circ}{\cos 51^\circ + \sin lat}$[/del]
+
+$\frac{r}{S} (\cos 51^\circ + \sin lat) + \frac{S}{r} \frac{1}{\cos 51^\circ + \sin lat} = 2 \sin 51^\circ \cos \theta$
+
+Putting [del]$\eta$[/del] [ins]$e^y$[/ins] $= \log \frac{S}{\cos 51^\circ + \sin lat}$

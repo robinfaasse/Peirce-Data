@@ -1,0 +1,81 @@
+[fig]Geometric diagrams of lines and triangles[/fig]
+
+[fig]Geometric diagram of intersecting lines[/fig]
+
+[fig]Geometric diagram of a triangle and lines[/fig]
+
+[fig]Geometric diagram of a pyramid[/fig]
+
+[fig]Geometric diagram of a triangle[/fig]
+
+[fig]Geometric diagram of a pyramid[/fig]
+
+[fig]Geometric diagram of intersecting lines[/fig]
+
+[fig]Geometric diagram of a triangle[/fig]
+
+[fig]Geometric diagram of a triangle with lines[/fig]
+
+[fig]Geometric diagram of a pyramid[/fig]
+
+$B = C + p O + q Q$
+$A = C + r O - s Q$
+$\perp B C, \infty = p O + q Q$
+$\perp A C, \infty = r O + s Q$
+[del]$\perp$[/del]
+$B = A + (p - r) O + (s - q) Q$
+
+$B - C = p O + [del]p[/del] [ins]q[/ins] Q$
+$B - [del]O[/del] [ins]p O[/ins] = C + q Q = A'$
+$B = C + r O + [del]r[/del] [ins]q[/ins] Q$
+[del]$B + Q = C$[/del]
+$B - q Q = C - r O = A''$
+
+---
+
+$R \text{ any } \{ \frac{B+C}{2}, \frac{A+?}{2} \text{ etc}$ copunctual
+
+[fig]Geometric diagram of a triangle with circles[/fig]
+
+$\begin{aligned}
+a &= a' + a'' \\
+b &= b' + b'' \\
+c &= c' + c'' 
+\end{aligned}$
+
+$\begin{aligned}
+a'' &= b' \\
+b'' &= c' \\
+c'' &= a' 
+\end{aligned}$
+
+$\begin{aligned}
+a' + b' &= a \\
+b' + c' &= b \\
+c' + a' &= c 
+\end{aligned}$
+
+$\begin{aligned}
+a' - c' &= a - b \\
+a' &= \frac{1}{2} (a - b + c) \\
+b' &= \frac{1}{2} (a + b - c) \\
+c' &= \frac{1}{2} (-a + b + c) 
+\end{aligned}$
+
+$\begin{aligned}
+X &= [del]\text{---}[/del] (s-a) B + (s-b) C \\
+Y &= (s-b) A + (s-a) B [ins]+ (s-a) C[/ins] \\
+Z &= (s-b) A + (s-a) B 
+\end{aligned}$
+
+$\left\{ \begin{aligned}
+&B + C , & a A + (s-c) B + (s-b) C \\
+&C + A , & (s-c) A + b B + (s-a) C \\
+&A + B , & (s-b) A + (s-a) B + c C 
+\end{aligned} \right\}$
+
+[fig]Geometric diagram of a triangle[/fig] $\frac{a+b-c}{4 a}$
+
+[fig]Geometric diagram of a triangle[/fig] $\frac{a-b+c}{4 a}$
+
+$a A + b B + c C$

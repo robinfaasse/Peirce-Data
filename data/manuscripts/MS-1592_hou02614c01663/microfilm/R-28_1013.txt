@@ -1,0 +1,16 @@
+[fig]connecting lines above and below formula[/fig]
+[del]a[/del] b (c + [u]d[/u]) (e + [u]f[/u]) (g + [u]h[/u]) (i + [u]j[/u])
+
+(e ≺ d) ≺ (b ≺ f) ≺ (f ≺ e) ≺ (d ≺ a)
+≺ b ≺ a
+
+***
+
+[u]a[/u] b (c + [u]d[/u]) (e + [u]f[/u]) (g + [u]h[/u] + [u]i[/u] j)
+[fig]connecting lines above and below formula[/fig]
+[u]a[/u] b (c + [u]d[/u]) (e + [u]f[/u]) (g + [u]h[/u] + [u]i[/u] j)
+
+{([ins]e[/ins] ≺ [del]c[/del]) ≺ (b ≺ d)} ≺ ([ins]e[/ins] ≺ [del]f[/del] ≺ [del]c[/del]) ≺ (d ≺ a)
+≺ b ≺ a
+[(f ≺ c) ≺ b ≺ a] ≺ (f ≺ d) ≺ (d ≺ a)
+b ≺ a

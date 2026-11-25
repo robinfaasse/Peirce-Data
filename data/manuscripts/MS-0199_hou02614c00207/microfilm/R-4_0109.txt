@@ -1,0 +1,17 @@
+[pn]M.M
+D, 49[/pn] When the entire circulant of the quotient is wanted, the
+Rule of "Direct Division" is the easiest. It is as follows:
+
+First, free dividend and divisor of circulants, by these three principles:
+
+1[sup]st[/sup], that a number expressed by a given series of figures is twice the number ex-
+pressed by the same series of figures but with the [del]zero-place removed[/del] [ins]mark of the each unit of[/ins] one place
+to the left among the figures of the series; 2[sup]d[/sup], that a circulant beginning at
+the -1-place and ending at the -n-place is equal to [del]1[/del] [ins]that for[/ins] 1 divided by 2[sup]n[/sup]-1; and
+3[sup]d[/sup], [del]by[/del] the algorithms for the greatest common divisor, and the series of approx-imations
+of continued fractions. In this way, a dividend or divisor involving a circulant
+and it can be brought to the form of a vulgar fraction expressed in its lowest
+terms. For example, given 10[u]0[/u]11 is twice 1[u]0[/u]0[u]0[/u]1, or twice 10[u]11[/u]/1111
+
+Now (10 x 1111) + 11 = 11110 + 11 = [del]11121[/del] 106001, so that 10[u]11[/u]/1111 = 106001/1111.
+The Greatest Common Divisor is 11; and dividing numerator and denominator by this,

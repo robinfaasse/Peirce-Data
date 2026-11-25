@@ -1,0 +1,7 @@
+$$D_u F^r = D_u r D_r F^r$$
+$$\equiv - \log r D_r F^r$$
+
+$$[del]d^2[/del] \frac{du}{d\theta} = \frac{D_u \frac{1}{u}}{\log r dr} = \log u$$
+$$d \frac{1}{r} = [ins]d[/ins]r \cdot \log r$$
+$$\frac{du}{dr} \frac{dr}{d\theta}$$
+$$[del]\log r[/del] [ins]\frac{1}{2}[/ins] (u^2 + (\frac{du}{d\theta})^2)$$

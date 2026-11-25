@@ -1,0 +1,135 @@
+[pn]30[/pn] [pn]31[/pn]
+
+[marginalia]
+$\frac{1}{6} - \frac{1}{2} + \frac{1}{12}$
+[/marginalia]
+
+$$\sum \frac{u_{x+1}}{u_x} = \frac{u_x}{u_{x-1}} + \frac{u_{x-1}}{u_{x-2}} - \dots - \frac{u_1}{u_0}$$
+
+$$\sum \frac{u_{x+1} u_x}{u_x u_{x-1}} = \sum \frac{u_{x+1}}{u_{x-1}} =$$
+
+$$\Delta \frac{u_{x+1}}{u_{x-1}} = \frac{u_{x+2}}{u_x} - \frac{u_{x+1}}{u_{x-1}}$$
+
+$$\sum (a^x) = \frac{a^x}{a-1}$$
+
+$$\frac{a^t - 1}{t} \cdot \frac{1}{1 - e^{-t}}$$
+
+$$\frac{e^{-t}}{e^{-t} - 1} = \frac{1}{t + \frac{t^2}{2!} + \frac{t^3}{3!} + \text{etc}}$$
+
+$$\frac{1}{t + \frac{t^2}{2!} + \frac{t^3}{3!} + \text{etc}} =$$
+
+$$\begin{array}{l}
+1 + \frac{t}{2!} + \frac{t^2}{3!} + \text{etc} \\
+\underline{- \frac{t}{2!} - \frac{t^2}{2!2!} - \frac{t^3}{2!3!}} \\
+\end{array}$$
+
+$$(t^{-1} - \frac{1}{2!} + \frac{3-2!}{3!2!} t$$
+
+$$\begin{array}{l}
+\frac{3!(6-3!2!)}{-3!5.6 + 5-6.2!} \\
+\end{array}$$
+
+$$\begin{array}{l}
+\frac{(4-2!)2!}{4(3-2!)} \\
+4.2! - 2!^2 - 4.3-4 \\
+\end{array}$$
+
+$$+ \frac{3-2!}{3!2!} t^2 + \frac{4-2!}{4!2!} t^3 + \frac{5-2!}{5!2!} t^4 + \frac{6-2!}{6!2!} t^5$$
+
+$$\frac{3-2!}{3!2!} t^2 + \frac{3-2!}{3!(2!)^2} t^3 + \frac{3-2!}{(3!)^2 2!} t^4 + \frac{3-2!}{4!3!2!} t^5$$
+
+The result, Boole says, is $\frac{1}{t} - \frac{1}{2} + \frac{t}{12} - \frac{t^3}{720} + \frac{t^5}{30240}$
+
+Hence $\sum u_x = \int u_x dx - \frac{1}{2} u_x + \frac{1}{12} \frac{du_x}{dx} - \frac{1}{720} \frac{d^3 u_x}{dx^3} + \frac{1}{30240} \frac{d^5 u_x}{dx^5}$
+
+$$t + \frac{t^2}{2} + \frac{t^3}{6} + \frac{t^4}{24} + \frac{t^5}{120} + \frac{t^6}{720}$$
+
+$$\begin{array}{l}
+1 + \frac{t}{2} + \frac{t^2}{6} + \frac{t^3}{24} + \frac{t^4}{120} + \frac{t^5}{720} + \frac{t^6}{5040} \\
+\underline{- \frac{t}{2} - \frac{t^2}{4} - \frac{t^3}{12} - \frac{t^4}{48} - \frac{t^5}{240} - \frac{t^6}{1440}} \\
+\end{array}$$
+
+$$\begin{array}{l}
+\frac{t^2}{12} + \frac{t^3}{24} + \frac{3}{240} t^4 + \frac{t^5}{360} + \frac{t^6}{27!} \\
+\underline{- \frac{t^2}{12} - \frac{t^3}{24} - \frac{t^4}{72} - \frac{t^5}{288} - \dots} \\
+\end{array}$$
+
+[marginalia]
+$\frac{1}{2} - \frac{2}{5} = \frac{5}{14}$
+[/marginalia]
+
+$$\begin{array}{l}
+15040 \\
+7.6.5.4.3.2 \\
+2.65.32 \\
+\end{array}$$
+
+$$\begin{array}{l}
+9 \\
+40 \\
+1440 \\
+\end{array}$$
+
+$$- \frac{t^4}{720} - \frac{t^5}{1440}$$
+
+$$\frac{1}{12.6!} - \frac{5}{2.7!} = (\frac{1}{6} - \frac{5}{7}) \frac{1}{2.6!}$$
+
+$$- \frac{1}{t} + \frac{t}{2!} + \frac{t^2}{2.3!} + \frac{t^3}{2.3!5!} + \frac{4.5.6}{3!5!7!} t^5$$
+
+$$1 + \frac{t}{2!} + \frac{t^2}{3!} + \frac{t^3}{4!} + \frac{t^4}{5!} + \frac{t^5}{6!} + \frac{t^6}{7!} + \frac{t^7}{8!}$$
+
+$$\begin{array}{l}
+- \frac{t}{2!} - \frac{t^2}{3!} - \frac{t^3}{4!} - \frac{t^4}{5!} - \frac{t^5}{6!} - \frac{t^6}{7!} - \frac{t^7}{8!} - \frac{t^8}{9!} \\
+- \frac{t}{2} - \frac{t^2}{2.2!} - \frac{t^3}{2.3!} - \frac{t^4}{2.4!} - \frac{t^5}{2.5!} - \frac{t^6}{2.6!} - \frac{t^7}{2.7!} - \frac{t^8}{2.8!} \\
+\end{array}$$
+
+[marginalia]
+$\frac{1}{2} - \frac{1}{3} = \frac{1}{6}$
+$\frac{1}{2} - \frac{1}{4}$
+$\frac{1}{2} - \frac{1}{5} = \frac{3}{10}$
+$\frac{1}{2} - \frac{1}{6} = \frac{1}{3}$
+$\frac{1}{2} - \frac{1}{7} = \frac{5}{2.7}$
+[/marginalia]
+
+$$+ \frac{t^2}{2.3!} + \frac{2 t^3}{2.4!} + \frac{3 t^4}{2.5!} + \frac{4 t^5}{2.6!} + \frac{5 t^6}{2.7!} + \frac{6}{2.8!} t^7 + \frac{7}{2.9!} t^8$$
+
+$$\begin{array}{l}
++ \frac{t^2}{2.3!} + \frac{t^3}{2.2!3!} + \frac{t^4}{2.3!3!} + \frac{t^5}{2.3!4!} + \frac{t^6}{2.3!5!} + \frac{t^7}{2.3!6!} + \frac{t^8}{2.3!7!} \\
+\end{array}$$
+
+$$\begin{array}{l}
+- \frac{1}{60} \frac{t^4}{2.3!} - \frac{6}{2.3!6!} t^5 - \frac{12}{2.3!7!} t^6 - \frac{20}{2.3!8!} t^7 - \frac{30}{2.3!9!} t^8 \\
+\end{array}$$
+
+[marginalia]
+$\frac{3}{4.5} + \frac{1}{3!} = \frac{1}{6} - \frac{3}{20} = \frac{1}{60}$
+$\frac{1}{3!} - \frac{7}{8.9} = \frac{8.9 - 7.3!}{3! \cdot 8.9} = \frac{72 - 42}{30} = \frac{30}{20}$
+$7.8 - 6^2 = \frac{56 - 36}{20}$
+$1.2.6-7-3.4.6$
+$\frac{42}{30} = \frac{30}{24}$
+[/marginalia]
+
+$$- \frac{1.2 t^4}{2.3!5!} - \frac{2.3 t^5}{2.3!6!} - \frac{3.4 t^6}{2.3!7!} - \frac{4.5 t^7}{2.3!8!} - \frac{5.6 t^8}{2.3!9!}$$
+
+$$- \frac{1.2}{2.3!5!} t^4 - \frac{1.2}{2.2!3!5!} t^5 - \frac{1.2}{3!2!3!5!} t^6 - \frac{1.2}{4!2!3!5!} t^7 - \frac{1.2}{5!2!3!5!} t^8$$
+
+$$- \frac{1.2.6.7 - 3.4.2.3}{2.3!7!} = - \frac{2.4.5.6.7}{6.24.5.6} = - \frac{4.5.6}{3!5!7!}$$
+
+$$\begin{array}{l}
+\frac{1.2.8.9 - 5.6.5}{144 \cdot 120} \\
+\frac{288 \cdot 3600}{576 \cdot 144} \\
+\frac{6048}{3600} \\
+\frac{2448} \\
+\end{array}$$
+
+$$+ \frac{1.2.6.7.8 - 4.5.4.3}{4!2.3!7!} t^7$$
+
+$$\begin{array}{l}
+6.2 \cdot \frac{2.3.4.7}{2.3!7!} \\
+\frac{16.6}{2.6} \\
+\end{array}$$
+
+$$\begin{array}{l}
+14.4.7.8 \\
+2.3!4!8! \\
+\end{array}$$

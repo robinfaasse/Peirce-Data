@@ -1,0 +1,35 @@
+[pn]14[/pn]
+
+[del]la logique de la quantité[/del]
+proposition devient
+
+[u]$\Pi_m \Pi_n \Pi_a \Pi_b \Sigma_i \Pi_e \Pi_f \Pi_g \Pi_h \Pi_j \Pi_k \Pi_l \Pi_o \Sigma_u \Sigma_v \overline{q_{iu} q_{iv}} + (\overline{r_{ieg}} + \overline{r_{ieh}} + r_{ifg} + \overline{r_{jae}} + r_{jaf} + \overline{r_{kbg}} + r_{kbh}) q_{mu} q_{nv} r_{iuv}$[/u]
+
+[del]Mais[/del]. Imaginons la définition de $p_i p_j$ élevé à n'importe qu'elle puissance, elle ne
+pourrait pas donner un nul produit avec $r_{iuv}$ que si deux lettres [ins]seraient[/ins] [del]soit[/del]
+identifiées avec $u$ ou avec $v$. Mais dans ce cas cette definition deviendrait
+$\infty$, et ne donnerait pas un nul produit. Ainsi, il n'y a pas de contradiction
+et la proposition est possible. Ce qui est possible pour deux sujets de $m$
+et de $n$ est également possible pour chaque paire de tels sujets, puisque
+la proposition n'a rien à distinguer entre les différents sujets de $m$
+ou de $n$. C'est pourquoi la proposition suivante est possible:
+
+$\Pi_m \Pi_n \Pi_u \Pi_v \Sigma_i q_{mu} + q_{nv} + p_i \cdot p_i \cdot r_{iuv}$.
+
+Mais si, dans la partie quantifiante le $\Sigma_i$ précède le $\Pi_u$ ou le $\Pi_v$, une
+contradiction pourrait arriver. Examinons [ins]précisément[/ins] comment la proposition
+suivante peut devenir impossible
+
+$-\Sigma_i \Pi_u \Sigma_v q_{mu} + q_{nv} \cdot p_i \cdot p_i \cdot r_{iuv} =$
+$\Sigma_i \Pi_e \Pi_f \Pi_g \Pi_h \Pi_j \Pi_k \Pi_a \Pi_b \Pi_o \Sigma_v q_{mu} + (\overline{r_{ieg}} + \overline{r_{ieh}} + r_{ifg} + \overline{r_{jae}} + r_{jaf} + \overline{r_{kbg}} + r_{kbh}) q_{nv} \cdot r_{iuv} =$
+$\Sigma_i \Pi_u q_{mu} + p_i p_i \cdot (\Sigma_v q_{nv} \cdot r_{iuv}) \cdot q_{mu}$
+
+Nous pouvons représenter $\Sigma_v q_{nv} \cdot r_{iuv}$ par
+$q_{nv_1} \cdot r_{iuv_1} + q_{nv_2} \cdot r_{iuv_2} + q_{nv_3} \cdot r_{iuv_3} + \text{etc.}$
+
+Cela ne veut pas dire que les [del]individ[/del] sujets individuels de $n$ peuvent
+être rangés en ligne, car cela serait une pétition de principe; encore
+moins qu'il pourrait être distingués par les nombres ordinaux.
+La série n'est une vague et peu correct forme de représenta-
+tion. Néanmoins, avec réserve, nous pourrons la rendre utile.
+Maintenant, il y a un produit $\Pi_u$ des telles séries

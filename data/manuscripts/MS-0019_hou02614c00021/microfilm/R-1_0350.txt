@@ -1,0 +1,35 @@
+[pn]6[/pn]
+<u>Logic of Quantity</u>.
+
+Multiplying the squares of the first and last by the second of these statements,
+identifying [u]u[/u] and [u]u'[/u] with [u]v[/u], and all the rest with [u]u'[/u], we get
+$$\Sigma_v \Pi_{u'} q_{vv} \cdot \overline{q}_{vv} \cdot (\overline{q}_{lu'} + q_{vu'}) ,$$
+which multiplied into (9), identifying [u]m[/u] with [u]l[/u], [u]n[/u] with [u]o[/u], and [u]u'[/u] with [u]u[/u],
+gives
+$$w_{lo} .$$
+Q.E.D.
+
+<u>Corollary 13</u>. If one collection, [u]l[/u], is part of a second, [u]m[/u], itself a
+part of a third, [u]n[/u], then [u]l[/u] is part of [u]n[/u]. For by Definition 3, every
+part is included in its whole.
+
+<u>Art. 4</u>. <u>Definition 4</u>. Let us say that one collection, [u]m[/u], proceeds
+from another, [u]n[/u], [ins]or that there is at least one object of m for every object of n,[/ins] and write $s_{mn}$, if, and only if, some preference
+transfers [u]n[/u] to [u]m[/u]; that is
+(10) $$\Pi_m \Pi_n \Sigma_i \overline{s}_{mn} + p_i \cdot t_{imn}$$
+(11) $$\Pi_m \Pi_n \Pi_i \overline{p}_i + \overline{t}_{imn} + s_{mn} .$$
+
+<u>Corollary 14</u>. Every collection [del]proceeds[/del] [ins]that includes[/ins] [ins]proceeds[/ins] from every collection that it
+includes. For, by Corollary 2, identity is a preference, and by [del]Corol-[/del]
+[del]lary 7[/del] [ins]Corollary 7[/ins], identity transfers every collection to every collection that
+includes it.
+
+<u>Corollary 15</u>. If one collection proceeds from a second, which it-
+self proceeds from a third, then the first proceeds from the third.
+This follows from Theorems 2 and 4.
+
+<u>Art. 5</u>. <u>Scholium 2</u>. Suppose [u]m[/u] includes nothing more than A and B.
+That is, whatever [ins]is true of anything, that is[/ins] [del]is true[/del] [ins]m[/ins] is [del]true[/del] [ins]either true[/ins] of A or of B.
+(12) $$\Pi_x \overline{q}_{mx} + q_{xA} + q_{xB} + \overline{q}_{mx}$$
+Suppose that [u]n[/u] [del]includes[/del] [ins]includes[/ins] [del]consists[/del] of the three individuals C, D, E. That is
+(13) $$q_{nC} \cdot q_{nD} \cdot q_{nE} .$$

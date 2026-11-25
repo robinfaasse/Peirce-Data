@@ -1,0 +1,20 @@
+Now if this is all right the formula
+for the developement of [u]fx[/u] is
+[fig]figure[/fig]
+fx [u]≡[/u] [del]D[/del] f.0 + x D[sub]x[/sub]f.0
+f(1-x) [u]≡[/u] f.1 - x D[sub]x[/sub]f.1	?
+[del]f(x-1)[/del]
+f(1-x) = [del]D[sub]x[/sub]fx[/del] - fx
+
+Some how this is not satisfactory
+D[sub]x[/sub] fx [u]≡[/u] [u]f(x+Δ) - fx[/u]
+                  Δ
+D[sub]x[/sub] f0 [u]≡[/u] [u]fΔ - f0[/u]
+                Δ
+which if independent of Δ is f(1) - f(0)
+
+Let us reexamine -
+I had to show that
+f(x+nΔ) [u]≡[/u] fx + n Δfx
+             [u]≡[/u] fx + n f(x+Δ) - nfx
+             [u]≡[/u] n . f(x+Δ) + (1-n) fx

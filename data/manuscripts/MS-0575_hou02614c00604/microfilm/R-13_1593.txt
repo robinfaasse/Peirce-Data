@@ -1,0 +1,19 @@
+I define the logical products as follows:—
+
+$1^{\text{st}}$, $A \mathbin{_{o}} B \prec A$;
+
+$2^{\text{nd}}$, $A \mathbin{_{o}} B \prec B$;
+
+$3^{\text{rd}}$, If $C \prec A$ and $C \prec B$, then $C \prec A \mathbin{_{o}} B$.
+
+The exact [del]false[/del] correspondence between logical addition and multiplication appears from these definitions; and was, as Schröder acknowledges, recognized by me in my first paper on the subject.
+
+We have, therefore,
+
+$(x \mathbin{_{o}} y) \mathbin{_{o}} z = x \mathbin{_{o}} (y \mathbin{_{o}} z)$
+
+$x \mathbin{_{o}} y = y \mathbin{_{o}} x$
+
+$x \mathbin{_{o}} x = x$.
+
+If $x \prec y$, then $x \mathbin{_{o}} z \prec y \mathbin{_{o}} z$.

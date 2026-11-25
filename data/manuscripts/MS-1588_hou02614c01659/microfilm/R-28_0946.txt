@@ -1,0 +1,13 @@
+The Bisection of an Interval by Interpolation
+[ins]for an even number[/ins]
+If [del]n[/del] given equidistant values are to be
+used from $x=0$ to $x=n-1$ and the value for $x=\frac{n-1}{2}$
+is desired, the formula (Boole's Fin. Diff. $3^{\text{rd}}$ ed p 40 at the top) is
+$u_{\frac{n-1}{2}} = \frac{1}{(n-1)!} \frac{n-1}{2} \cdot \frac{n-3}{2} \cdot \frac{n-5}{2} \dots \cdot \frac{-n+1}{2} \{ \frac{2 u_{n-1}}{-n+1} - C_1 \frac{2 u_{n-2}}{-n+3} + \text{etc}$
+when $C_r = \frac{(n-1)!}{r! (n-1-r)!}$
+
+Suppose $n=4$
+$C_r = \frac{6}{r! (3-r)!}$
+$u_{1\frac{1}{2}} = \frac{1}{6} \frac{3}{2} \cdot \frac{1}{2} \cdot -\frac{1}{2} \cdot -1\frac{1}{2} \{ -\frac{2}{3} u_3 + \frac{6}{2} u_2 + \frac{6}{2}$
+
+[fig]Table of differences and algebraic derivations[/fig]

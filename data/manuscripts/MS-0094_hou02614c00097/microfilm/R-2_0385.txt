@@ -1,0 +1,22 @@
+[pn]137[/pn]
+
+§ 211. [del]Theorem[/del] [ins]Theorem[/ins] 83. The area of a plane [del]triangles[/del] [ins]rectilineal[/ins] bears the same ratio to the whole plane that the excess of the sum of its internal angles over one circuit (or [del]two[/del] [ins]two[/ins] right angles) bears to [del]two[/del] [ins]two[/ins] circuits, or one revolution.
+
+<u>Demonstration</u>. Any three points [A], [B], [C] non coradial have between them three rays {AB}, {BC}, {CA}. These [ins]numbered in the figure, 0, 1, 2, 3[/ins] form four triangles[del].[/del] [ins],[/ins] Considering any one of them, [del]as 0, every[/del] [ins]as 0, every[/ins] pair of rays forms one plane lune embracing in its area the area of this triangle, and the angles of these lunes are the angles of the triangle. [del]The lune[/del] Thus,
+
+[fig]Four triangles formed by three intersecting lines[/fig]
+
+Lune A = $\Delta$ 0 + $\Delta$ 1,
+Lune B = $\Delta$ 0 + $\Delta$ 2,
+Lune C = $\Delta$ 0 + $\Delta$ 3,
+Whole plane = $\Delta$ 0 + $\Delta$ 1 + $\Delta$ 2 + $\Delta$ 3.
+
+But
+$\frac{\text{Lune A}}{\text{Whole Plane}} = \frac{\angle \text{A}}{\text{O}} = \frac{\Delta 0 + \Delta 1}{\Delta 0 + \Delta 1 + \Delta 2 + \Delta 3}$
+
+$\frac{\text{Lune B}}{\text{Whole Plane}} = \frac{\angle \text{B}}{\text{O}} = \frac{\Delta 0 + \Delta 2}{\Delta 0 + \Delta 1 + \Delta 2 + \Delta 3}$
+
+$\frac{\text{Lune C}}{\text{Whole Plane}} = \frac{\angle \text{C}}{\text{O}} = \frac{\Delta 0 + \Delta 3}{\Delta 0 + \Delta 1 + \Delta 2 + \Delta 3}$
+
+Adding the last three
+$\frac{\text{Sum of Lunes}}{\text{Whole Plane}} = \frac{\angle \text{A} + \angle \text{B} + \angle \text{C}}{\text{O}} = 1 + \frac{2 \Delta 0}{\Delta 0 + \Delta 1 + \Delta 2 + \Delta 3}$

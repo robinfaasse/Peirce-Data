@@ -1,0 +1,27 @@
+[pn]13[/pn]
+
+[u]Report on Morrison's Bridge[/u]
+
+Let us now consider the work which will be done by the moving load. And first for the continuous parts over the span of suspension, namely, the [del]suspension[/del] [ins]tension[/ins] cable, the suspenders [ins]and roadway[/ins], and the suspended truss.
+
+If [u]e[/u] is the [del]elasticity[/del] [ins]product of the[/ins] into the cross-section of the cable, and [u]l[/u] is the natural length measured from the parts suspending [u]p[/u] = 0 to [u]p[/u], then the work of extension is
+
+[del][fig]crossed out scribble[/fig][/del]
+
+$\frac{1}{2} \int \frac{e}{dl} (\sqrt{(dx)^2 + (dy)^2} - dl)^2 = \frac{e}{2} \int \left( \frac{\sqrt{(dx/dp)^2 + (dy/dp)^2} - 1}{dl/dp} \right)^2$
+
+[fig]Diagram of a suspension cable curve with vertical lines[/fig]
+
+$y_k - y' + \eta - y$
+
+$y'_k - y + \eta$
+
+$\frac{\mu}{\lambda}$
+
+[fig]Two small diagrams of a cable curve with a vertical support[/fig]
+
+$x' = x'_k \frac{p}{p_k}$
+
+$s \left( 1 + \frac{dp}{s dp} \right) = \text{length}$
+$= y'_k - y'_k \frac{x'}{x'_k} (2 - \frac{x'}{x'_k})$
+$= y'_k (\frac{x'}{x'_k})^2$

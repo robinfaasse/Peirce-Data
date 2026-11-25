@@ -1,0 +1,46 @@
+$$l = \frac{1}{\alpha} (I \cdot l - \Theta + B - A) \qquad \frac{d\theta}{dl} = I$$
+
+$$(I - \alpha) l = \Theta + A - B$$
+
+$$l = \frac{\Theta + A - B}{I - \alpha}$$
+
+$$\frac{I \Theta}{I - \alpha} = \theta$$ [fig]diagram with parallel lines and intersecting transversals[/fig] $$l = \frac{1}{\alpha} \left( \frac{I \Theta}{I - \alpha} - \Theta \right)$$
+
+$$\Delta l = \frac{A - B}{I - \alpha}$$ [fig]diagram with parallel lines and intersecting transversals[/fig] $$l = \frac{1}{2I - \alpha} \left( \frac{I \Theta}{I - \alpha} + X \right)$$
+
+$$\Delta \theta = \frac{I}{I - \alpha} - 1 = \frac{\alpha}{I - \alpha}$$ [fig]diagram with intersecting lines[/fig] $$\frac{\Theta}{I - \alpha} = 2 l \times \frac{\alpha}{I - \alpha}$$
+
+[fig]diagram with parallel lines and intersecting transversals[/fig] $$\frac{\Theta (2 I - \alpha)}{I - \alpha}$$
+
+$$\frac{\alpha}{I - \alpha} + 2$$
+
+$$(2 I - \alpha)$$
+
+$$x = \frac{- I \Theta + \alpha \Theta}{I - \alpha}$$
+
+$$l = \frac{1}{2I - \alpha} (\theta + \Theta)$$ [fig]diagram with parallel lines and multiple intersecting transversals[/fig]
+
+[fig]diagram with intersecting lines[/fig]
+
+$$\frac{A + n C}{B + n D}$$
+
+$$\frac{A}{B} \qquad \frac{A + C}{B + D} \qquad \frac{A + 2 C}{B + 2 D} \qquad \frac{A + 3 C}{B + 3 D}$$
+
+$$\frac{A}{B} = \frac{C}{D}$$
+
+$$AD = CB$$
+
+$$\begin{array}{l}
+[del]AB + AD[/del] \\
+[del]* B^2 + 3 ABD + 2 AD^2[/del] \\
+[del]* B^2 + 2 ABD[/del] \\
+[del]* B^2 + ABD[/del] \\
+\qquad - ABD \\
+\qquad - ABD
+\end{array} \begin{array}{l}
+\\
++ CB^2 + 2 CBD \\
+[del]+ 2 CB^2 + 2 CBD[/del] \\
+- 2 AD^2 + CB^2 + 2 CBD \\
+\qquad + CB^2
+\end{array}$$

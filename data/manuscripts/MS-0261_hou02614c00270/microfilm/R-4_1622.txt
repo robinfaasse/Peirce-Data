@@ -1,0 +1,45 @@
+[pn]III[/pn] [u]Ovals with one node and one bitangent[/u]
+
+[fig]Oval with node and bitangent[/fig]
+
+[ins]Outside[/ins] [del]There are[/del] points from which 4 tangents can be drawn
+[del]Points on bitangent[/del] [ins]3 "[/ins]
+Half inside " " " 2 " " "
+Quite " " " " 0 " " " "
+
+[del]Quite[/del] [ins]From[/ins] outside lines do not cut oval
+[del]From node[/del] [ins]Half inside[/ins] have 2 intersections
+[ins]3 "[/ins]
+Quite " have 4 "
+
+Simple oval with above
+
+[fig]Concentric ovals, inner with node[/fig]
+0 Common points
+0 " tangents
+
+[fig]Concentric ovals, outer with node[/fig]
+0 Com. pts
+4 " tangents
+
+[fig]Intersecting ovals, one with node[/fig]
+0 Com. pts
+8 " tangents
+
+[fig]Intersecting ovals, one with node[/fig]
+2 com pts
+6 Com tang
+
+[fig]Intersecting ovals[/fig]
+[fig]Intersecting ovals[/fig]
+[fig]Intersecting ovals[/fig]
+
+8 com pts 2 com tan
+
+4 Com pt 0 com tan
+
+8 com pts no com tangents
+
+[fig]Intersecting ovals[/fig]
+[fig]Intersecting ovals[/fig]
+[fig]Intersecting ovals[/fig]

@@ -1,0 +1,54 @@
+[pn]2[/pn] [u]Follows p 3[/u]
+
+[del]
+$$r = \sqrt{2ATM} \left(\frac{t^2}{T^2} + 1\right)^{-\frac{1}{2}}$$
+$$D_t r = -\frac{\sqrt{2ATM}}{T^2} \left(\frac{t^2}{T^2} + 1\right)^{-\frac{3}{2}} t$$
+$$D_t^2 r = -\frac{\sqrt{2ATM}}{T^2} \left(\frac{t^2}{T^2} + 1\right)^{-\frac{3}{2}} + 3 \frac{\sqrt{2ATM}}{T^4} \left(\frac{t^2}{T^2} + 1\right)^{-\frac{5}{2}} t^2$$
+$$(D_t \theta)^2 = \frac{1}{T^2 M^2} \left(\frac{t^2}{T^2} + 1\right)^2$$
+$$r (D_t \theta)^2 = \frac{\sqrt{2ATM}}{T^2 M^2} \left(\frac{t}{T} + 1\right)^{\frac{3}{2}}$$
+[/del]
+
+$$D_r t = \frac{r}{\sqrt{2Er^2 + K - 4A^2}}$$
+$$t = \frac{1}{2E} \sqrt{2Er^2 + K - 4A^2}$$
+$$\frac{2E^2 t^2 - K + 4A^2}{2E} = r^2$$
+
+$$D_t \theta = \frac{2A}{2Et_1^2 + \frac{4A^2 - K}{2E}} = \frac{4AE}{4E^2 t^2 + 4A^2 - K} = \frac{AE}{E^2 t^2 + A^2 - \frac{1}{4} K}$$
+
+If $A^2 > \frac{1}{4} K$
+$$\theta = \Theta + \frac{A}{\sqrt{A^2 - \frac{1}{4} K}} \arctan \frac{Et}{\sqrt{A^2 - \frac{1}{4} K}}$$
+$$t = \frac{\sqrt{A^2 - \frac{1}{4} K}}{E} \tan \frac{\sqrt{A^2 - \frac{1}{4} K}}{A} (\theta - \Theta)$$
+$$= \frac{A}{E} \sqrt{1 - \frac{K}{4A^2}} \tan \sqrt{1 - \frac{K}{4A^2}} (\theta - \Theta)$$
+
+[del]$$t^2 = \frac{A^2}{E^2} (1 - \frac{K}{4A^2}) \tan^2 \sqrt{1 - \frac{K}{4A^2}} (\theta - \Theta)$$[/del]
+[del]$$r^2 = 2A \frac{A}{E} (1 - \frac{K}{4A^2}) \tan^2 + 2 \frac{A}{E} (1 - \frac{K}{4A^2})$$[/del]
+$$r^2 = 2 \frac{A^2}{E} (1 - \frac{K}{4A^2}) \sec^2 \sqrt{1 - \frac{K}{4A^2}} (\theta - \Theta)$$
+
+If $A^2 < \frac{1}{4} K$
+
+$$r = A \sqrt{\frac{2(1 - \frac{K}{4A^2})}{E}} \sec \dots$$
+
+[fig]Hyperbolic curves and a circle with axes[/fig]
+
+[pn]Precedes p 2[/pn] [pn]3[/pn]
+
+Hence the rate of description of area is constant
+Substituting
+$$D_t \theta = \frac{2A}{r^2} \text{ in (1)}$$
+we get
+$$D_t^2 r = (4A^2 - k) r^{-3}$$
+$$\frac{1}{2} (D_t r)^2 = E - \frac{1}{2} (4A^2 - k) r^{-2}$$
+$$D_\theta r = \pm \sqrt{\frac{E}{2A^2} r^4 - (1 - \frac{k}{4A^2}) r^2}$$
+(3) $$D_r \theta = \pm \left\{ \frac{E}{2A^2} r^4 + (\frac{k}{4A^2} - 1) r^2 \right\}^{-\frac{1}{2}}$$
+or we can write
+$$(D_t r)^2 = 2E + \frac{k - 4A^2}{2A} D_t \theta$$
+
+Put $\rho = \log r$. Then
+$$D_\theta \rho = \sqrt{\frac{E}{2A^2} e^{2\rho} + \frac{k}{4A^2} - 1} = \frac{1}{2A} \sqrt{2E e^{2\rho} + k - 4A^2}$$
+
+The solution is of the form
+$$t = [del]A[/del] [ins]T[/ins] \tan (M\theta - M\Theta)$$
+$$\theta = \Theta + \frac{1}{M} \arctan \frac{t}{T}$$
+
+For
+$$D_t \theta = \frac{1}{TM} \left(\frac{t^2}{T^2} + 1\right) = \frac{2A}{r^2}$$
+$$r = \sqrt{2ATM \left(\frac{t^2}{T^2} + 1\right)}$$

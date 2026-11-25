@@ -1,0 +1,11 @@
+[u]Proof of Rule 1[/u]. In the statements of M and N, substitute [u]x[/u] for [u]y[/u], so that they read as follows:
+M. If [u]x[/u] is true, [u]x[/u] = [u]x[/u].
+N. If [u]x[/u] is false, [u]x[/u] = [u]x[/u].
+Hence, in any case, [u]x[/u] = [u]x[/u].
+
+[u]Proof of Rule 2[/u]. In the statements of M and N, substitute [u]y[/u] for [u]x[/u], and [u]x[/u] for [u]y[/u], so that they read as follows:
+M. If [u]x[/u] and [u]y[/u] are both true, [u]y[/u] = [u]x[/u].
+N. If [u]x[/u] and [u]y[/u] are both false, [u]y[/u] = [u]x[/u].
+But from K and I taken together (since no proposition is both true and false) if [u]x[/u] = [u]y[/u] then either [u]x[/u] and [u]y[/u] are [ins]either[/ins] both true, or both false. Hence, by M and N, as just stated, if [u]x[/u] = [u]y[/u], then [u]y[/u] = [u]x[/u].
+
+[u]Proof of Rule 3[/u]. In the statement of I, substitute [u]y[/u] for [u]x[/u], and [u]z[/u] for [u]y[/u], so that it reads, if [u]y[/u] = [u]z[/u], then either [u]y[/u] is [del]true[/del] [ins]false[/ins] or [u]z[/u] [del]is true[/del]. From I, so stated, and K, it follows that if x = y and y = z, then either

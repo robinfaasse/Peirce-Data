@@ -1,0 +1,30 @@
+$$\int F d\varphi = F \frac{d\varphi}{d\theta} d\theta$$
+
+$$\sin^2 \frac{1}{2}\varphi = \sin^2 \frac{1}{2}\psi \sin^2 \frac{1}{2}A$$
+$$\cos^2 \frac{1}{2}\varphi = 1 - \sin^2 \frac{1}{2}\psi \sin^2 \frac{1}{2}A$$
+
+$$\sqrt{1 - \frac{\sin^2 \frac{1}{2}\varphi}{\sin^2 \frac{1}{2}A}}$$
+
+$$\frac{\sin \frac{1}{2}\varphi}{\sin \frac{1}{2}A} = \sin \frac{1}{2}\psi$$
+
+$$d \sin \frac{1}{2}\psi = \frac{\cos \frac{1}{2}\varphi}{\sin \frac{1}{2}A} d \frac{1}{2}\varphi$$
+$$d \sin \frac{1}{2}\psi = \cos \frac{1}{2}\psi d \frac{1}{2}\psi$$
+
+$$\frac{d \frac{1}{2}\psi}{d \frac{1}{2}\varphi} = \frac{\cos \frac{1}{2}\varphi}{\sin \frac{1}{2}A \cos \frac{1}{2}\psi}$$
+
+$$= \frac{\cos^2 \frac{1}{2}\varphi}{\cos^2 \frac{1}{2}\psi \sin^2 \frac{1}{2}A}$$
+
+$$= \frac{1 - \sin^2 \frac{1}{2}\psi \sin^2 \frac{1}{2}A}{\cos^2 \frac{1}{2}\psi \sin^2 \frac{1}{2}A}$$
+
+$$\sqrt{1 - \frac{\sin^2 \varphi}{\sin^2 i}}$$
+
+$$\frac{\sin \varphi}{\sin i} = \sin \theta$$
+
+$$d \sin \theta = \cos \theta d\theta$$
+$$= \frac{\cos \varphi}{\sin i} d\varphi$$
+
+$$\frac{d\theta}{d\varphi} = \frac{\cos \varphi}{\cos \theta} \frac{1}{\sin i}$$
+
+$$\int \frac{1}{\sqrt{1 - \frac{\sin^2 \varphi}{\sin^2 i}}} d\varphi = \int \frac{1}{\sqrt{1 - \sin^2 \theta \frac{\cos^2 \varphi}{\cos^2 \theta} \frac{1}{\sin^2 i}}} d\theta$$
+
+$$= \int \frac{1}{\sqrt{1 - \frac{1 - \sin^2 \theta \sin^2 i}{\cos^2 \theta \sin^2 i} \sin^2 \theta}}$$

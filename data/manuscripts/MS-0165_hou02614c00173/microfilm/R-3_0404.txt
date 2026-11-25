@@ -1,0 +1,36 @@
+[pn]157[/pn]
+
+We will subtract the third row from the second:
+$$\left| \begin{matrix}
++1, & 0, & 0, & 0 \\
++2, & -4, & 0, & +4 \\
+-4, & +9, & -5, & +11 \\
+\mathcal{C}, & \frac{\mathcal{A}+\mathcal{B}}{-\mathcal{C}}, & \frac{\mathcal{B}+}{2\mathcal{C}}, & 2\mathcal{A}-\mathcal{M}
+\end{matrix} \right| = 0.$$
+
+We will [del]subtract[/del] [ins]add[/ins] the second column [del]from[/del] [ins]to[/ins] the fourth:
+$$\left| \begin{matrix}
++1, & 0, & 0, & 0 \\
++2, & -4, & 0, & 0 \\
+-4, & +9, & -5, & 20 \\
+\mathcal{C}, & \frac{\mathcal{A}+\mathcal{B}}{-\mathcal{C}}, & \frac{\mathcal{B}+}{2\mathcal{C}}, & \frac{3\mathcal{A}+\mathcal{B}-\mathcal{C}}{-\mathcal{M}}
+\end{matrix} \right| = 0$$
+
+We will add 4 times the third column to the fourth:
+$$\left| \begin{matrix}
++1, & 0, & 0, & 0 \\
++2, & -4, & 0, & 0 \\
+-4, & +9, & -5, & 0 \\
+\mathcal{C}, & \frac{\mathcal{A}+\mathcal{B}}{-\mathcal{C}}, & \frac{\mathcal{B}}{+2\mathcal{C}}, & \frac{3\mathcal{A}+5\mathcal{B}+7\mathcal{C}}{-\mathcal{M}}
+\end{matrix} \right| = 0$$
+
+We have now only to put the lower right hand corner square equal to zero. Substituting for $\mathcal{M}$ its value,
+$$\mathcal{A}(3-x) + \mathcal{B}(5-y) + \mathcal{C}(7-z) = 0.$$
+Make $\mathcal{A}=1$, $\mathcal{B}=0$, $\mathcal{C}=0$, and we have $x=3$.
+Make $\mathcal{A}=0$, $\mathcal{B}=1$, $\mathcal{C}=0$, and we have $y=5$.
+Make $\mathcal{A}=0$, $\mathcal{B}=0$, $\mathcal{C}=1$, and we have $z=7$.
+
+[del]We will now reconsider all the above with stricter ac-[/del]
+[del]curacy[/del]
+
+[u]Art 70. Examples.[/u]

@@ -1,0 +1,36 @@
+[marginalia]
+[date]1859
+Jun 30[/date]
+[pn]15[/pn]
+[/marginalia]
+
+All that now remains is to fix the values of the numerators
+and then see if the formula works right.
+
+He is then to apply the conjugate form of [del]the[/del] Maclaurin's
+theorem to evaluate $(e^{D_x}-1)^n$ where $n$ is a positive whole
+number. I will write the formula
+
+$$\phi a = \phi 0 + \phi D_0 . a + \phi D_0^2 . \frac{a^2}{2!} + \phi D_0^3 . \frac{a^3}{3!} + \text{etc.}$$
+
+Now $\phi D_x$, the function in question, is $(e^{D_x}-1)^n$; and when
+$0$ is substituted for the variable $D_x$, [del]of[/del] since $e^0 = 1$, the function
+$\phi 0 = 0$. Further $\phi D_0^m = (e^{D_0}-1)^n 0^m = \text{(since } e^{D_0} = E \text{)} \ \Delta^n 0^m$
+Consequently the formula becomes
+$$(e^{D_0}-1)^n = \Delta^n 0 . D_0 + \Delta^n 0^2 . \frac{D_0^2}{2!} + \Delta^n 0^3 . \frac{D_0^3}{3!} + \text{etc.}$$
+
+But now if you refer to the table of values of $\Delta^n 0^m$ (or work
+it out for yourself, which is easy,) you will see that, if $m < n$, $\Delta^n 0^m = 0$,
+and if $m = n$, $\Delta^n 0^m = n!$ Hence
+$$(e^{D_0}-1)^n = \frac{n! D_0^n}{n!} + \frac{\Delta^n 0^{n+1}}{(n+1)!} D_0^{n+1} + \frac{\Delta^n 0^{n+2}}{(n+2)!} D_0^{n+2} + \text{etc.}$$
+
+Of course, the first term is $D_0^n$ Accordingly in the development of
+$\frac{D_0}{e^{D_0}-1}$ the coefficient of $D_0^m$ is
+$$\frac{1}{m!} \left\{ 0^m - \frac{1}{2} \Delta 0^m + \frac{1}{3} \Delta^2 0^m - \frac{1}{4} \Delta^3 0^m + \dots + \frac{(-1)^m}{m+1} \Delta^m 0^m \right\}$$
+I must mention that as $3! = \frac{4!}{4}$, $2! = \frac{3!}{3}$, $1! = \frac{2!}{2}$, so $0! = \frac{1!}{1} = 1$.
+
+When $m$ [del]has any[/del] [ins]is[/ins] odd [del]value[/del] except $1$ the coefficient and the term
+vanish.
+
+Now we divide by $D_0$ and get a development of
+$$\frac{1}{e^{D_0}-1} = \frac{1}{D_0} - \frac{1}{2} + \frac{1}{2!} \left( -\frac{1}{2} \Delta^1 0^2 + \frac{1}{3} \Delta^2 0^2 \right) [del]D_0[/del] D_0 - \frac{1}{4!}$$

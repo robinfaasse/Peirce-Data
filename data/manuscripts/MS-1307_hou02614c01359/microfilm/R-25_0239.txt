@@ -1,0 +1,25 @@
+$r^2 = 1 + \varepsilon^2 - 2\varepsilon\cos A$
+
+$= 1 - 2\varepsilon\cos M + \varepsilon^2(1 + 2\sin^2 M) + \varepsilon^3\sin^2 M\cos M$
+
+$1 - \frac{1}{2}x + \frac{3}{8}x^2 - \frac{5}{16}x^3$
+
+$L = x + x^2 - x^3$
+
+$x$  $-2\varepsilon\cos M + \varepsilon^2(1 + 2\sin^2 M) + \varepsilon^3\sin^2 M\cos M$
+$x^2$  $\varepsilon^2(4 - 4\sin^2 M) + \varepsilon^3(-4 - 8\sin^2 M)\cos M$
+$x^3$  $+ \varepsilon^3(-8 + 8\sin^2 M)\cos M$
+
+$-\frac{1}{2}x$  $1$
+$+ \varepsilon\cos M + \varepsilon^2(-\frac{1}{2} - \sin^2 M) + \varepsilon^3(-\frac{1}{2})\sin^2 M\cos M$
+$+ \varepsilon^2(\frac{3}{2} - \frac{3}{2}\sin^2 M) + \varepsilon^3(-\frac{3}{2} - [del]12[/del] [ins]3[/ins]\sin^2 M)\cos M$
+$+ \varepsilon^3(+\frac{5}{2} - \frac{5}{2}\sin^2 M)\cos M$
+
+$\frac{1}{r} = 1 + \varepsilon\cos M + \varepsilon^2(1 - 2\sin^2 M) + \varepsilon^3([del]\frac{1}{2}[/del] [ins]\frac{1}{2}[/ins] - [del]6[/del] [ins]3[/ins]\sin^2 M)\cos M$
+
+$\sin V = \sin M \left( 1 + \varepsilon\cos M + \varepsilon^2(1 - 2\sin^2 M) + \varepsilon^3(1 - 6\sin^2 M)\cos M \right.$
+$\varepsilon\cos M + \varepsilon^2(1 - \sin^2 M) + \varepsilon^3(1 - 2\sin^2 M)\cos M$
+$+ \varepsilon^2(-\frac{1}{2}\sin^2 M) + [del]\varepsilon^3(-\frac{1}{2}\sin^2[/del]
+$\left. + \varepsilon^3(-\frac{1}{2}\sin^2 M)\cos M \right)$
+
+$\sin V = \sin M \left[ 1 + 2\varepsilon\cos M + \varepsilon^2(2 - 2\frac{1}{2}\sin^2 M) + \varepsilon^3(2 - 8\frac{1}{2}\sin^2 M)\cos M \right]$

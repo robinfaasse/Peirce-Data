@@ -1,0 +1,32 @@
+[fig]Square divided into four quadrants labeled A, B, C, D[/fig]
+
+A B C D
+
+[del]A[/del] [ins]C[/ins] + x (D - C)
+A + x (B - A)
+
+[del]A[/del] [ins]C[/ins] + [del]B[/del] [ins]D[/ins] / 2
+
+[del]1/4 (A + B + C + D)[/del]
+(2-x) A + x B + (2-x) C + x D
+(1-x) A + (x+1) B + (1-x) C + (x+1) D
+
+y(2-x) + (1-y)(1-x) = 1
+yx + (1-y)(1+x) = 1
+
+2y - xy + 1 - x - y + xy = 1
+y - x = 0
+[del]x + 1 - x = 1[/del]
+
+Uq q = Uq Tq + <q Uq
+q = Tq [del]G[/del] < Uq
+
+[del]$\int \frac{1}{q} dq$[/del]
+
+q = Tq (SUq + VUq)
+
+q = a (cos [del]$\theta$[/del] + sin [del]$\theta$[/del] . U)
+1/q = 1/a (cos [del]$\theta$[/del] - sin [del]$\theta$[/del] . U)
+dq = da q/a + d[del]$\theta$[/del] (-sin [del]$\theta$[/del] + cos [del]$\theta$[/del] . U)
+1/q dq = da/a + d[del]$\theta$[/del] . U
+$\int$ 1/q dq = log a + U [del]$\theta$[/del] = log Tq + <q UVq

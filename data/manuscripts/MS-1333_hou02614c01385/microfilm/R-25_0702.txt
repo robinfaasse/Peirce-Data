@@ -1,0 +1,56 @@
+[fig]Small asterisk symbol[/fig]
+
+[fig]Two intersecting circles containing "c" and "c"[/fig]  [fig]Angle bracket pointing right[/fig]  [fig]Oval enclosing "b" connected by line to "b"[/fig]
+
+[fig]Small diagram with four nodes labeled "a" and "b"[/fig]  !!  [ins]a[/ins]
+
+[fig]Circle with internal arcs and nodes labeled "b", "s", "s"[/fig]  [fig]Two intersecting circles containing "c" and "c"[/fig]
+
+[fig]Three connected elements on a vertical line[/fig]  [fig]Circle with six nodes labeled with "s"[/fig] [fig]Circle with six nodes labeled with "s"[/fig]
+
+[fig]Horizontal oval containing "d — [del]e[/del] [ins]c[/ins]" and curly brackets[/fig]
+
+[fig]Horizontal oval containing "d — c" with curly brackets and cross-out lines[/fig]
+
+[fig]Horizontal oval containing "d — c" with curly brackets[/fig]
+
+[fig]Horizontal oval containing "d — c" with curly brackets and an arrow pointing to "s"[/fig]
+
+[fig]Horizontal oval with three nested loops containing "d — c", "d — c", "d — [del]c[/del] [ins]d[/ins]"[/fig]
+
+[fig]Circle with six nodes[/fig]
+
+$(\bar{e} + e)(\bar{e} + e)$
+
+$\overline{\Pi_i (\bar{l}_{xi} + l_{yi}) \cdot \Pi_j (\bar{l}_{xj} + l_{yj})}$
+
+$\Pi_c (\bar{l}_{xi} \cdot l_{yi} + \bar{l}_{xj} \cdot l_{yj})$
+
+[fig]Circle with vertical line and node "b"[/fig]
+
+[fig]Five nodes in a pentagonal shape, with "b" on three of them[/fig]  [fig]Five nodes in a pentagonal shape, with "s" on three of them[/fig]
+
+[fig]Circle with five nodes labeled "b"[/fig]  [fig]Oval containing "a — c — b"[/fig]
+
+[fig]Two overlapping circles with "a" and "b"[/fig]
+
+[fig]Vertical loops with arrows[/fig]  $\overline{(a + b)} \overline{(b + c)}$ or $\overline{(a + c)}$
+
+[fig]Vertical loops with arrows[/fig]
+
+$\underline{\Pi_x \Pi_y} \Pi_z \bar{a}_i \cdot a_j \cdot \bar{s}_i \cdot s_j \cdot \bar{s}_{ki} \cdot s_{ki}$
+
+$\Pi_u \Pi_y \Pi_z (\bar{b}_x + b_y + \bar{s}_{zx} \cdot s_{zy} \cdot \bar{\psi}_x \cdot \psi_y)$
+
+$\Pi_{pi} \Pi_q \Pi_r \Pi_s \bar{s}_{pq} + \bar{c}_{pq} \psi \cdot c_{rs} \psi \cdot s_{rs}$
+
+$\Pi_u \Sigma_v \bar{a}_u + c_{uv} \cdot b_v$
+
+$\Pi_u \Sigma_v \Pi_s \Pi_t (\bar{s}_{ut} \cdot \psi \cdot \bar{c}_{uv} \psi \cdot \bar{c}_{vs} \cdot \psi \cdot s_{us})$
+
+$\Pi_x \Sigma_y \Pi_z \Sigma_s [\bar{s}_{ys} \cdot \psi \cdot s_{zs} \cdot b_x \cdot b_y \cdot a_x \cdot \psi \cdot \bar{a}_y \cdot b_z \cdot$
+$\Pi_x \Sigma_y \Pi_z \Sigma_s (\bar{s}_{ys} \cdot \psi \cdot s_{zs}) (b_x + s_{yx} \cdot \psi \cdot s_{yx}) (\bar{b}_z + \bar{s}_{zi} \cdot \psi \cdot \bar{s}_{zj}) (\bar{a}_y + \bar{s}_{zy} \cdot \psi \cdot \bar{s}_{zy}) (a_x + s_{zx} \cdot \psi \cdot s_{zx})$
+
+$[del](\bar{a} \psi \cdot c_{us} \cdot b_v) (\bar{a}_y \cdot \psi \cdot c_{vs} \cdot b_z)[/del]$
+
+[del]$(\bar{a}_p + b_q) (\bar{a}_r + \psi \cdot s_{rs} \cdot a_r)$[/del]

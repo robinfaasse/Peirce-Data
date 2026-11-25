@@ -1,0 +1,24 @@
+[pn]80[/pn]
+
+$$\{y\} = y(p-i)A + (1-y)rR + [1-r+y(r-p+i)]S$$
+
+The point at which this intersects $\{x\}$ is obtained by putting
+$$.y(p-i) = 1-x$$
+$$(1-y)r = xq$$
+or $$y(p-i)q + (1-y)r = q$$
+$$y = \frac{q-r}{pq-r-iq} \quad 1-y = \frac{(p-i-1)q}{pq-r-iq} \quad x = \frac{(p-i-1)r}{pq-r-iq}$$
+$$1-x = \frac{(p-i)(q-r)}{(p-i)q-r}$$
+$$[xy] = \frac{(p-i)(q-r)A + (p-i-1)(1-q)rS + (p-i-1)qrR}{(p-i)q-r}$$
+
+By simply omitting $i$ we get $[x\{01\}]$. Put $\{x\} \text{ or } \{[x\{01\}]2\}$
+
+$$\{z\} = \frac{[z(p-i)(pq-r) + \frac{(1-z)}{p}(q-r)]A + [(1-p+i)(pq-r) + \frac{(1-z)}{p}(p-1)(1-q)r]S + (1-z)(p-1)qrR}{pq-r}$$
+$$= \frac{[p(q-r) - z(1-p)pq - zi(pq-r)]A + [(p-1)(1-q)r + (p-r)(1-p)q + i(pq-r)]S + (1-z)(p-1)qrR}{pq-r}$$
+
+This ray cuts $\{RS\}$ in the point $[0']$ where
+$$p(q-r) - z(1-p)pq - zi(pq-r) = 0$$
+$$z = \frac{p(q-r)}{p(1-p)q + i(pq-r)}$$
+$$[0'] = [(p-1)(1-q)r + p(q-r) - \frac{p(1-p)q(q-r)r}{p(1-p)q + i(pq-r)}]S + \frac{p(1-p)(pq-r)qr}{p(1-p)q + i(pq-r)}R$$
+$$= \frac{\begin{matrix} p(1-p)q(1-r) \\ [del]p^2(1-p)^2q^2(1-r) - p(1-p)q(1-q)r - p(1-p)q(q-r)r + i pq(1-r)[/del] \end{matrix} [del]\begin{matrix} pq-r \\ [del]...[/del] + i(1-q)r(pq-r) \end{matrix}[/del]}{p(1-p)q(pq-r) + i(pq-r)^2}S$$
+$$\quad + \frac{p(1-p)qr - i(1-p)qr}{p(1-p)q + i(pq-r)}R$$
+$$= \frac{[p(1-p)q(1-r) + ipq(1-r) - i(1-q)r]S + [p(1-p)qr - i(1-p)qr]R}{p(1-p)q + i(pq-r)}$$

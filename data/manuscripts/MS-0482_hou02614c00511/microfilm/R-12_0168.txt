@@ -1,0 +1,31 @@
+$$\frac{1}{1-ax^2}$$
+
+$$(1-ax^2)^{-1}$$
+
+$$+ 2ax(1-ax^2)^{-2}$$
+
+$$+ 2a(1-ax^2)^{-2} - 8a^2x^2(1-ax^2)^{-3}$$
+
+$$= \frac{2a - 2a^2x^2 - 8a^2x^2}{(1-ax^2)^{-3}} = \frac{2a(1-5ax^2)}{(1-ax^2)^{-3}}$$ [fig]Diagram with circles labeled w, l, v[/fig]
+
+$$A_0 Fx + A_1 F'x + A_2 F''x + \text{etc}$$
+
+$$A_0 F'x + A_1 F''x + A_2 F'''x + \text{etc}$$
+
+$$(1+ax^2) F''x = Fx$$
+
+$$\begin{matrix} (1-ax^2)^{-1} \\ + a(1-ax^2)^{-2} \\ + 2a(1-ax^2)^{-3} \end{matrix}$$ [fig]Scribbled drawing[/fig]
+
+$$\frac{2a(1-5ax^2) = 1}{0}$$
+
+$$D_x z = \frac{D_y z}{D_x y}$$
+
+$$D_x^2 z = \frac{D_y^2 z}{D_x y} - \frac{D_y z \cdot D_x^2 y}{(D_x y)^2}$$
+
+$$A_0 + A_1 x + A_2 x^2 + \text{etc}$$
+
+$$\frac{\begin{matrix} 2A_2 + 6A_3 x + 12A_4 x^2 + \text{etc} \\ + 2A_2 a x^2 \end{matrix}}{x}$$
+
+$$\begin{matrix} (n+1)(n+2) A_{n+2} \\ + a(n-1)n A_n \end{matrix} + m A_n = 0$$
+
+$$A_{n+2} = \frac{an(n-1)+m}{(n+1)(n+2)} A_n$$

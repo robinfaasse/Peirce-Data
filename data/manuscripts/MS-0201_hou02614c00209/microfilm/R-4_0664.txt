@@ -1,0 +1,9 @@
+[pn]111[/pn]
+
+in each place, until you come to a place which contains no 1, when you end the line with a large dot representing a one. Repeat this operation until there remains no one (the large dots being ones) in any place. Then simply copy the ones that remain and put zeros in the places that contain no one. Here is an example:
+
+[fig]Three diagrams showing binary addition with dots and connecting lines[/fig]
+
+Subtraction can be performed in various ways. The method by the arithmetical complement has the advantage of [del]giving[/del] [ins]giving in one operation[/ins] the algebraical sum of any number of terms. The following is another rule:
+
+Write the [del]minuend[/del] subtrahend under the minuend place by place. Cancel simultaneously

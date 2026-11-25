@@ -1,0 +1,34 @@
+[pn]113[/pn]
+
+For supposing
+[u]u[/u]² - [u]uv[/u] + [u]v[/u]² = 0,
+we may multiply by [u]u[/u] + [u]v[/u] ( having first noted that this is not al-
+ready a factor of the operation, so that it will create a false
+solution,) when we shall have
+[u]u[/u]³ + [u]v[/u]³ = 0;
+so that [u]u[/u] = - [u]v[/u] [del]³[/del] [ins]∛[/ins] = ( 1 + [u]j[/u] ) [u]v[/u]
+and
+[u]um'[/u] + [u]vn'[/u] = [u]v[/u]/√-3 [ [u]n[/u] - [u]l[/u] + ( 1 + [u]j[/u] ) [u]l[/u] - [u]m[/u] ] = [u]v[/u]/√-3 ( [u]l[/u] + [u]j[/u] [u]m[/u] + [u]j[/u]² [u]n[/u] ).
+
+Other convenient general expressions for a moriturum are
+[del]~[/del] C ( √[u]u[/u]² - [u]u[/u] + 1 [u]l'[/u] + [u]m'[/u] + [u]un'[/u] )
+C ( √[u]1[/u] + 3[u]R[/u] [u]l'[/u] + ( 1 + [u]R[/u] ) [u]m'[/u] + ( 1 - [u]R[/u] ) [u]n'[/u] )
+C ( √( [u]w[/u] + [u]ρ[/u] ) ( [u]w[/u] + [u]ρ[/u]² ) [u]l'[/u] + [u]m'[/u] + [u]wn'[/u] ).
+
+Let us ask under what conditions two moritura, J and K,
+will satisfy the equation JKJ = J. By the use of the multiplica-
+tion table (together with the equations [u]i'[/u] + [u]j'[/u] + [u]k'[/u] = 0 and [u]l'[/u] + [u]m'[/u] + [u]n'[/u] = 0)
+it will be found that
+( A[u]l'[/u] + B[u]m'[/u] + C[u]n'[/u] )( D[u]l'[/u] + E[u]m'[/u] + F[u]n'[/u] )( A[u]l'[/u] + B[u]m'[/u] + C[u]n'[/u] ) =
+[ ( A² + B² + C² - BC) D + A ( C - 2B) E + A ( B - 2C) F ] [u]l'[/u]
++ [ 2ABD + B ( B - 2C) F + ( C² - B² - A² ) E ] [u]m'[/u]
++ [ 2ACD + C ( C - 2B) E + ( B² - C² - A² ) F ] [u]n'[/u].
+
+If then we take for our two moritura,
+M = B ( √[u]u[/u]² - [u]u[/u] + 1 [u]l'[/u] + [u]m'[/u] + [u]un'[/u] )
+N = E ( √[u]v[/u]² - [u]v[/u] + 1 [u]l'[/u] + [u]m'[/u] + [u]vn'[/u] )
+we shall have
+A = B √[u]u[/u]² - [u]u[/u] + 1 C = B[u]u[/u]
+D = E √[u]v[/u]² - [u]v[/u] + 1 F = E[u]v[/u];
+and in order to make M N M = M, we must have [ B² ( [u]u[/u]² - [u]u[/u] + 1 ) + B²
++ B² [u]u[/u]² - B [u]u[/u] ] E √[u]v[/u]² - [u]v[/u] + 1 + B² √[u]u[/u]² - [u]u[/u] + 1 [ ( [u]u[/u] - 2 )[del]v[/del] + ( [u]u[/u] - 2[u]u[/u] ) [u]v[/u] ] E = B √[u]u[/u]² - [u]u[/u] + 1

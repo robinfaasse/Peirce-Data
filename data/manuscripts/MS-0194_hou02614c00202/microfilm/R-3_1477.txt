@@ -1,0 +1,7 @@
+$$\tan A = \frac{\sin a \sin C}{\sin b \cos a - \sin a \cos b \cos C}$$
+
+$$\tan A' = \frac{\sin a \sin M \cos C - \sin a \cos M \sin C}{\sin b \cos a - \sin a \cos b \cos M \cos C [del]+[/del] [ins]\mathbf{+}[/ins] \sin a \cos b \sin M \sin C}$$
+
+$$\tan (A+A') = \frac{\begin{aligned} & \sin a \cos a \sin b \sin C - \sin^{2} a \cos b \cos M \sin C \cos C [del]-[/del] [ins]\mathbf{-}[/ins] \sin^{2} a \cos b \sin M \sin^{2} C \\ & \sin a \cos a \sin b \sin M \cos C - \sin^{2} a \cos b \sin M \cos^{2} C + \sin^{2} a \cos b \cos M \sin C \cos C \\ & - \sin a \cos a \sin b \cos M \sin C \end{aligned}}{\text{}}$$
+
+[fig]Geometric diagrams with intersecting lines, circles, and triangles[/fig]

@@ -1,0 +1,27 @@
+[pn]26[/pn]
+[pn]RR[/pn]
+
+[u]Corollary 7[/u]. Whatever cardinal numbers [u]L[/u], [u]M[/u], and [u]N[/u] may be,
+[u]L·(M+N) = L·M + L·N[/u]. For let [u]M[/u] be a cardinal number having this
+character, that, whatever cardinal numbers [u]L[/u] and [u]N[/u] may be,
+[u]L·(M+N) = L·M + L·N[/u]. Then,
+[u]L·(G M+N) = L·G(M+N) = L·(M+GN) =[/u] (by hypothesis) [u]L·M + L·GN[/u]
+[u]= L·M + (L + L·N) = (L·M + L) + L·N = (L + L·M) + L·N = L·GM + L·N[/u]
+Thus, the character, if it belongs to [u]M[/u] belongs to [u]GM[/u]. But it belongs to zero, since
+[u]L·(0+N) = L·N = 0 + L·N = L·0 + L·N[/u]. Hence, by the Fermatian Principle, this
+character belongs to every cardinal number.
+
+Or, we might suppose [u]L[/u] to have the character that [u]L·(M+N) = L·M + L·N[/u]
+Then, [u]GL·(M+N) = (M+N) + L·(M+N) = (M+N) + (L·M + L·N) = M + [N + (L·M + L·N)][/u]
+[u]= M + [(L·M + L·N) + N] = M + [L·M + (L·N + N)] = (M + L·M) + (L·N + N) =[/u]
+[u](M + L·M) + (N + L·N) = GL·M + GL·N[/u] But [u]0·(M+N) = 0 = 0 + 0 = 0·M + 0·N[/u].
+Hence, etc.
+
+[u]Corollary 8[/u]. Whatever cardinal numbers [u]L[/u], [u]M[/u], [u]N[/u] may be [u]L·(MN) = (LM)·N[/u].
+For suppose [u]M[/u] to have this character. Then [u]L·(GM·N) = L·(N + M·N) = L·N + L·(M·N)[/u]
+[u]= L·N + (L·M)·N = (L + L·M)·N = (L·GM)·N[/u]; so that if [u]M[/u] has the character so has [u]GM[/u].
+But [u]L·(0·N) = L·0 = 0 = 0·N = (L·0)·N[/u]. So that zero has the character. Hence, etc.
+
+[u]Corollary 9[/u]. Whatever cardinal numbers [u]M[/u] and [u]N[/u] may be [u]M·N = N·M[/u]. For
+suppose [u]M[/u] has this character. Then [u]GM·N = N + M·N = N + N·M = N·GM[/u]. So
+that if [u]M[/u] has the character so has [u]GM[/u]. But [u]0·N = 0 = N·0[/u] So that zero has the character. Hence, etc.

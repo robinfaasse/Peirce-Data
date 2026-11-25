@@ -1,0 +1,36 @@
+[fig]Geometric diagram of a quadrilateral inscribed in a circle with labeled angles and sides[/fig]
+
+[del]$\sin A \sin B + \sin A \sin B \cos^2 C + \sin A \cos B \sin^2 C$[/del] $+\cos A \sin B \sin C \cos C$
+$+ \sin A \cos B \sin C \cos C - \sin A \sin B \sin^2 C$
+$+ \cos A \cos B \sin^2 C$
+
+$+ \sin A \sin B \cos B \cos C$
+$+ \sin A \cos^2 B \sin C$
+$+ \cos A \sin^2 B \sin C$
+$+ \cos A \sin B \cos B \sin C$
+
+[marginalia]
+$\sin(A+B+C)$
+[/marginalia]
+
+$\cos 2C = 1 - 2\sin^2 C$
+
+$ab + cd + ef = 0$
+
+$\sin A \sin B + \sin C \sin D + \frac{\sin(B+C)}{\sin(A+B)}$
+
+[del]$\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$[/del]
+
+[u]$\sin A \sin B$[/u]
+$- \sin A \sin B \sin^2 C$
+$+ \sin A \sin B \cos B \cos C$
+$+ \sin A \sin B \cos C (1 + \cos B)$
+$+ \sin A \cos B \cos C \sin C$
+$+ \sin A \cos B \cos C$
+$\sin(A+B) \frac{1}{2} \sin 2C$
+$\cos(A+B) \frac{1}{2} (1 - \cos 2C)$
+$\frac{1}{2} \cos(A+B) - \cos(A+B+2C)$
+$+ \sin(A+C) \frac{1}{2} \sin 2B$
+$\cos(A-C)$
+
+$A+B+C+D = 180^\circ$

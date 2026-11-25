@@ -1,0 +1,28 @@
+[pn]QE Math[/pn] [pn]1[/pn]
+
+[u]On the Quadratic Equation[/u]
+
+The general quadratic equation is
+$$Ax^2 + Bx + C = 0$$
+where $A, B, C$ are constants and $A$ is not equal to zero. If
+it has any real root at all it has two. For suppose
+one solution is $x = m$. Then
+$$Am^2 + Bm + C = 0$$
+Now dividing $Ax^2 + Bx + C$ by $x - m$ we get
+[fig]Long division of Ax^2+Bx+C by x-m[/fig]
+$$x - m \overline{) Ax^2 + Bx + C (} Ax + (Am + B)$$
+$$\underline{Ax^2 - Amx}$$
+$$+ (Am + B)x + C$$
+$$\underline{+ (Am + B)x - Am^2 - Bm}$$
+$$Am^2 + Bm + C = 0$$
+
+That is, $\frac{Ax^2 + Bx + C}{x - m} = Ax + Am + B$
+
+or $Ax^2 + Bx + C = (Ax + Am + B)(x - m)$
+
+If, therefore, $Ax^2 + Bx + C = 0$, the product of the two
+factors, $x - m$ and $(Ax + Am + B)$, is zero; and if either
+of these is zero the product is zero. But if
+$$Ax + Am + B = 0$$
+$$x = - m - \frac{B}{A}$$
+So that given any root of the equation, if we add to it $\frac{B}{A}$, and

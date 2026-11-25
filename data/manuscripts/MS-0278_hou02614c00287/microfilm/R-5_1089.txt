@@ -1,0 +1,9 @@
+[fig]Grid of binary truth tables and logical formulas[/fig]
+
+[marginalia]
+$b_3 = a_1 a_2 a_3$
+$b_2 = [del]a_1 a_2[/del] [ins]a_1 a_2 \bar{a}_3[/ins]
+$b_1 = a_1 \bar{a}_2 \bar{a}_3$
+[/marginalia]
+
+$f_9 = \bar{b}_3 \cdot \bar{b}_2 \cdot [del]\bar{b}_1[/del] \sim [ins]\bar{b}_1[/ins] = [del]\bar{b}_3 \cdot \bar{b}_2 \cdot \bar{b}_1[/del] [ins]\sim [ (a_1 a_2 a_3) + (a_1 a_2 \bar{a}_3) + (a_1 \bar{a}_2 \bar{a}_3) ][/ins]$

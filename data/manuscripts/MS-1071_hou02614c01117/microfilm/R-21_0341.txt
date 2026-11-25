@@ -1,0 +1,45 @@
+[fig]Circle with horizontal and vertical axes[/fig]
+
+$$\left(\frac{r}{R}\right)^2 + [del]\frac{(Z-z)^2}{Z^2}[/del]$$
+$$\left(\frac{r}{R}\right)^2 = [del]\frac{Z^2 - (Z-z)^2}{Z^2}[/del] \quad 1 -$$
+$$= \frac{[del](2Z[/del] Z^2 - Z^2 + 2zZ - Z^2}{Z^2} =$$
+$$\left(\frac{r}{R}\right)^2 = 1 - \frac{(Z-z)^2}{Z^2}$$
+$$\left(\frac{r}{R}\right)^2 + \left(\frac{z}{Z}\right)^2 = 1$$
+$$\left(\frac{r}{R}\right)^2 = \left(1 + \frac{z}{Z}\right)\left(1 - \frac{z}{Z}\right)$$
+$$= \frac{z}{Z}\left(2 - \frac{z}{Z}\right)$$
+
+$$[del]z = Z-z[/del]$$
+
+[fig]Circle with axes and inscribed triangle[/fig]
+
+$$\frac{2r \cdot dr}{R^2} = \frac{2 \cdot dz}{Z} - \frac{2z \cdot dz}{Z^2}$$
+$$\frac{r \cdot dr}{R^2} = \frac{[del]dz[/del] Z - z}{Z^2} dz$$
+
+$$\frac{\sqrt{(dr)^2 + (dz)^2}}{r}$$
+$$\frac{r^2 (dr)^2}{R^4}$$
+
+$$[del]r = R \sqrt{z}[/del]$$
+$$r = \frac{R}{Z} \sqrt{z(2Z-z)}$$
+
+$$\frac{dr \sqrt{1 + \left(\frac{dz}{dr}\right)^2}}{r} = \frac{dr}{r^2} \sqrt{1 + \left(\frac{z}{R}\right)^4 \frac{r^2}{(Z-z)^2}}$$
+
+$$\frac{\rho}{r} = \frac{[del](dz)[/del] ds}{\sqrt{(dr)^2 + (dz)^2}}$$
+$$\frac{ds}{\rho} = \frac{\sqrt{(dr)^2 + (dz)^2}}{r} = \frac{dr \sqrt{1 + \left(\frac{dz}{dr}\right)^2}}{r}$$
+$$= \frac{dr \sqrt{1 + \left(\frac{dz}{dr}\right)^2}}{r}$$
+$$\left(\frac{dz}{dr}\right)^2 = \left(\frac{r}{R}\right)^4$$
+
+$$\frac{dz}{dr} = \frac{r}{R^2} \frac{Z^2}{Z-z}$$
+$$\frac{dr}{dz} = \frac{R^2}{Z^2} \frac{Z-z}{r}$$
+
+$$q = \sqrt{1 + p^2}$$
+$$D_q = \frac{p \cdot D_p}{\sqrt{1+p^2}} =$$
+$$D^2_q = [del](p D^2_p + (Dp)^2) \sqrt{1-p^2}[/del]$$
+
+$$\frac{R^2 + Z^2}{R^2 - Z^2} \sin^2 + Z^2 \cos^2$$
+
+$$\sin^2 \theta + \cos^2 \theta = 1$$
+$$\frac{r}{R} = \sin \theta \quad \frac{z}{Z} = \cos \theta$$
+$$r = R \sin \theta \quad z = Z \cos \theta$$
+$$dr = -R \sin \theta \cdot d\theta \quad dz = Z \cos \theta \cdot d\theta$$
+$$(dr)^2 = R^2 \sin^2 \theta (d\theta)^2 \quad (dz)^2 = Z^2 \cos^2 \theta (d\theta)^2$$
+$$(dr)^2 + (d\theta)^2 = (R^2 \sin^2 \theta + Z^2 \cos^2 \theta) d\theta$$

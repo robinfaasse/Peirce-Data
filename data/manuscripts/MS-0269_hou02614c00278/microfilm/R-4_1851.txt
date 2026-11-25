@@ -1,0 +1,81 @@
+[pn]1[/pn]
+$$y = a\left(\frac{dy}{dx}\right) + b\left(\frac{dy}{dx}\right)^2$$
+
+$$bp^2 + ap = y$$
+
+[del]$$p^2 + \frac{a}{b}p = \frac{y}{b}$$[/del]
+
+$$p = -\frac{1}{2}\frac{a}{b} \pm \sqrt{\frac{1}{4}\frac{a^2}{b^2} + \frac{y}{b}}$$
+
+$$\frac{dx}{dy} = \frac{1}{-\frac{1}{2}\frac{a}{b} \pm \sqrt{\frac{y}{b}}}$$
+
+$$\frac{dx}{dy} = \frac{1}{\sqrt{\frac{y}{b} + \frac{1}{4}\frac{a^2}{b^2}} - \frac{1}{2}\frac{a}{b}}$$
+
+$$x = 2b\sqrt{\frac{y}{b} + \frac{1}{4}\frac{a^2}{b^2}} + \frac{1}{2}\frac{a}{b}\log\left(\sqrt{\frac{y}{b} + \frac{1}{4}\frac{a^2}{b^2}} - \frac{1}{2}\frac{a}{b}\right)$$
+
+$$= \sqrt{4by + a^2} + \frac{1}{2}\frac{a}{b}\log\left(\sqrt{4by + a^2} - a\right)$$
+
+$$\frac{dx}{dy} = \frac{2b}{\sqrt{4by + a^2}} + \frac{\frac{1}{2}\frac{a}{b}}{\left(\sqrt{4by + a^2} - a\right)}\frac{2b}{\sqrt{4by + a^2}}$$
+
+$$= \frac{2b}{\sqrt{4by + a^2}} + \frac{a}{\left(\sqrt{4by + a^2} - a\right)\sqrt{4by + a^2}}$$
+
+$$y = \frac{1}{2r} 6^{rx} - \frac{q}{r^2} 6^{rx}$$
+
+$$D_x y = 6^{2rx} - \frac{q}{r} 6^{rx}$$
+
+$$D_x^2 y = 2r 6^{2rx} - q 6^{rx}$$
+
+[marginalia]
+$$(D_x - r)y = q$$
+$$D_x y = ry + q$$
+$$D_x x = rx + q = \frac{1}{r}$$
+$$D - \frac{1}{r}$$
+[del]$$6^{px}$$[/del]
+$$6^{\frac{x}{r}}$$
+$$D_x y + ry = 6^{px}$$
+$$y = C 6^{px} + 6^{\frac{x}{r}}$$
+$$-\frac{q}{r^2}$$
+[/marginalia]
+
+[pn]2[/pn]
+$$y = a\left(\frac{dy}{dx}\right) + b\left(\frac{dy}{dx}\right)^2$$
+
+$$y = ap + bp^2$$
+
+$$p^2 + \frac{a}{b}p = \frac{y}{b}$$
+
+$$p = -\frac{1}{2}\frac{a}{b} \pm \sqrt{\frac{y}{b} + \frac{1}{4}\frac{a^2}{b^2}}$$
+
+$$= -\frac{1}{2}\frac{a}{b} \pm \frac{1}{2b}\sqrt{4by + a^2}$$
+
+$$\frac{dx}{dy} = \frac{2b}{\sqrt{4by + a^2} - a}$$
+
+[del]$$x = \sqrt{4by + a^2} + a\log$$[/del]
+
+$$x = \frac{\sqrt{4by + a^2} + a\log\left(\sqrt{4by + a^2} - a\right)}{2b}$$
+
+$$\frac{dx}{dy} = \frac{2b}{\sqrt{4by + a^2}} + \frac{a}{2b}\frac{2b}{\sqrt{4by + a^2} - a}\frac{2b}{\sqrt{4by + a^2}}$$
+
+$$\frac{dy}{dx} = \frac{\sqrt{4by + a^2} - a}{2b}$$
+
+$$\left(\frac{dy}{dx}\right)^2 = \frac{4by + a^2 - 2a\sqrt{4by + a^2} + a^2}{4b^2}$$
+
+[marginalia]
+$$\left(\frac{dy}{dx}\right)^2 = \frac{x + 2ax + a^2}{x^2 + 2ax}$$
+$$\left(\frac{dy}{dx}\right)^2 = \frac{1}{x^2}$$
+$$\frac{dy}{dx} = \frac{1}{x}$$
+$$D_x x = \frac{1}{a} 6^{\frac{x}{a}} + B 6^{\frac{x}{a}}$$
+$$D^2 - \frac{1}{a^2} x =$$
+$$\left(D^2 - \frac{1}{a^2}\right)x =$$
+$$\left(D + \frac{1}{a}\right)\left(D - \frac{1}{a}\right) =$$
+$$D_x x - \frac{x}{a} = \frac{1}{a}$$
+$$D_x x = \frac{x+1}{a}$$
+$$D_x y = \frac{x+1}{a}$$
+$$D_x x + \frac{x}{a} = 6^{\frac{x}{a}} - 1 = xy = a\log(x+1) + a\log(1-x)$$
+[/marginalia]
+
+$$D_x x + \frac{x}{a} = \frac{1}{a} 6^{\frac{x}{a}} + \frac{1}{a}$$
+
+$$\sqrt{1 - 6^{\frac{x}{a}}}$$
+
+$$\frac{1}{2a}\sqrt{\frac{1}{6^{\frac{x}{a}}} + \frac{1}{2a\sqrt{1 - 6^{\frac{x}{a}}}}}$$

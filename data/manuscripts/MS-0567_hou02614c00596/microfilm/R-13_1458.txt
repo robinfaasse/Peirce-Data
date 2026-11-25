@@ -1,0 +1,18 @@
+tribution-formula but only an associ-
+ation-formula, and therefore the deduction
+of a distribution formula from it is not
+a matter of the utmost simplicity. Never-
+theless, [del]multiplying[/del] squaring the antecedent
+we have
+[del]\underline{(a+b)c \prec ac}[/del]
+$(a+b)c = (a+b)c(a+b)c$
+$= c(a+b)c$
+and then by the application [ins]twice[/ins] of the for-
+mula, which is
+$(a+b)c \prec a+bc$,
+we have
+$c(a+b)c \prec (ca+b)c \prec ca+bc$;
+so that we have proved
+$(a+b)c \prec ac+bc$,
+a distribution formula, from which all
+others are deducible.

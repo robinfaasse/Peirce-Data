@@ -1,0 +1,69 @@
+[pn]11[/pn]
+
+[u]The following to be [ins]postponed[/ins][/u]
+
+If aces or deuce-ace thrown A wins 1 fr
+If cing-six thrown A loses 1 fr
+If anything else thrown A throws again
+
+Prob. [del]Chance[/del] of aces = $\frac{1}{6^2}$ Prob of deuce-ace = $\frac{2}{6^2}$
+
+$\therefore$ if $u_x$ = chance of As winning B when A has $x$ francs
+$u_x = \frac{3}{36} u_{x+1} + \frac{2}{36} u_{x-1} + \frac{31}{36} u_x$
+or $\frac{3}{36} u_{x+1} - \frac{5}{36} u_x + \frac{2}{36} u_{x-1} = 0$
+or $3 u_{x+1} - 5 u_x + 2 u_{x-1} = 0$
+
+Take the equ. $3 z^2 - 5 z + 2 = 0$
+It is satisfied by $z=1$
+$z-1 \overline{) 3 z^2 - 5 z + 2 (} 3 z - 2$
+$\underline{3 z^2 - 3 z}$
+$-2 z + 2$
+$\underline{-2 z + 2}$
+$0$
+$\therefore$ Also satisfied by $3 z - 2 = 0$
+$z = \frac{2}{3}$
+
+$u_x = C_1 (1)^x + C_2 (\frac{2}{3})^x$
+$= C_1 + C_2 (\frac{2}{3})^x$
+
+But by condition of problem
+$u_0 = 0$
+and if W is whole combined fortune of A and B
+$u_W = 1$
+
+or $0 = C_1 + C_2$
+or $1 = C_1 + C_2 (\frac{2}{3})^W$
+i.e $C_1 = - C_2$
+
+But if on throwing 6 ace
+A loses his entire fortune
+
+$u_x = \frac{3}{36} u_{x+1} + \frac{2}{36} u_{x-1} + \frac{29}{36} u_x$
+or $3 u_{x+1} - 7 u_x + 2 u_{x-1} = 0$
+The equation $3 z^2 - 7 z + 2 = 0$
+is satisfied by $z=2$
+$z-2 \overline{) 3 z^2 - 7 z + 2 (} 3 z - 1$
+$\underline{3 z^2 - 6 z}$
+$- z + 2$
+$\underline{- z + 2}$
+$0$
+$3 z - 1 = 0$
+$z = \frac{1}{3}$ $\therefore u_x = C_1 (2)^x + C_2 (\frac{1}{3})^x$
+
+$C_1 + C_2 = 0$
+$C_1 2^W - C_1 \frac{1}{3^W} = 1$
+$C_1 = \frac{3^W}{2^W - \frac{1}{3^W}} = \frac{3^W}{6^W - 1}$
+
+$u_x = \frac{3^W}{6^W - 1} (2^x - \frac{1}{3^x})$
+$= \frac{3^W}{6^W - 1} \frac{6^x - 1}{3^x}$
+$= \frac{6^x - 1}{6^W - 1} 3^{W-x}$
+
+So $u_x = \frac{1 - (\frac{2}{3})^x}{1 - (\frac{2}{3})^W}$
+
+when [del]W = 2 x = 1[/del]
+when $W = 2x$
+$u_x = \frac{1 - (\frac{2}{3})^x}{1 - (\frac{2}{3})^{2x}} = \frac{1}{1 + (\frac{2}{3})^x}$
+$= \frac{3^x}{3^x + 2^x}$
+
+& if $W = 2x$
+$u_x = \frac{3^x}{6^x + 1}$

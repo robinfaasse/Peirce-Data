@@ -1,0 +1,33 @@
+[pn]RR[/pn] [pn]23[/pn]
+
+But, by the first condition, zero has the character in question. Since
+by the first condition zero is a product of 0 multiplied into any
+cardinal number, N, and the first two conditions require no other
+cardinal number to be so; so that by the third condition there is no
+other cardinal number that is so.
+
+Hence, by the Fermatian principle, every cardinal number possesses
+this character.
+
+[u]Corollary 1[/u]. The product of any cardinal number, N, multiplied
+into zero is zero. For suppose N to be a cardinal number having this
+character, that N x 0 = 0. Then, by the second condition, GN x 0 =
+0 + N·0 = 0 + 0 = 0. But, by the first condition, 0 has this charac-
+ter, namely, that 0 x 0 = 0. Hence, by the Fermatian Principle, every
+cardinal number has this character.
+
+[u]Corollary 2[/u]. Whatever cardinal numbers M and N may be M x N > 0
+unless M = 0 or N = 0. For suppose M to be a cardinal number having
+this character that either M = 0 or M x N > 0 whatever cardinal number
+but zero N may be. Then, GM x N = N + M·N by the second condition.
+But by a former corollary N + M·N > M·N unless N = 0. Hence, by the
+second condition of Definition 1, GM x N > 0 unless N = 0, or M = 0. But if
+M = 0, GM x N = N + M·N = N + 0 = N and every number not zero is greater than zero.
+
+But zero manifestly possesses this character. Hence, by the
+Fermatian Principle, every number possesses this character.
+
+[u]Corollary 3[/u]. The product of any cardinal number, N, multiplied
+by the cardinal number that is G to zero (which is called 1, one)
+is N. For by the second condition G0 x N = N + 0·N which by the first
+condition is N + 0, which by a former corollary is N. Hence 1 x N = G0 x N = N.

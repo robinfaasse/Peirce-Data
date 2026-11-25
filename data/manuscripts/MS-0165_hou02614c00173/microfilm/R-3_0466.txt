@@ -1,0 +1,24 @@
+[pn]210[/pn]
+
+[u]Corollary[/u] 66. If there are any commensurable roots of the equation, they are necessarily integral and factors of the last term.
+
+[del]Art 66.[/del] [u]Exercises[/u]. 103. Find the roots of the equation
+[u]x[/u]⁵ - 19[u]x[/u]³ + 34[u]x[/u]² + 12[u]x[/u] - 40 = 0
+Putting [u]x[/u] = +10 we have
+y = 100000 - 19000
++ 3400 - 40
++ 120
+= 103520 - 19040 = 84480
+
+and it is plain that every larger value of [u]x[/u] would give a larger value of y. Hence there is no root so large as +10
+Putting [u]x[/u] = -10
+y = - 100000 + 19000
+- 120 + 3400
+- 40
+= - 100160 + 22400 = [del]- 8[/del] [ins]- 7[/ins]79200
+
+and it is plain that every smaller value of [u]x[/u] would give a smaller value of y. Hence there is no root so small as -10.
+
+We begin by trying 1 and -1 as roots (this should always be done). We find 1 is not a root since
+1 - 19 + 34 + 12 - 40 = -12
+But -1 is a root for -1 + 19 + 34 - 12 - 40 = 0

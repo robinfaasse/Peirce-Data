@@ -1,0 +1,38 @@
+[u]Simplex lines on surface affect cyclosis and periphraxis opposite[/u]
+[u]ways. But something has to be added to periphraxis[/u]
+[u]which seems to be twice the fornaces[/u]
+
+[del]X[/del] [ins]$\Pi$[/ins] . $X + S = \text{periphraxis}$
+
+$$\begin{array}{lccc|c}
+& X & S & \Pi & \overset{\text{fornaces}}{K} \\
+\text{for sphere} & 1 & 0 & 1 & 0 \\
+\quad \text{sphere with caps} & 1 & \text{Caps} & \text{Caps} + 1 & 0 \\
+\quad \text{anchor ring} & 1 & 0 & 1 & 2 \\
+\quad \text{[del]sphere[/del] ball with caps and fornaces} & 1 & \text{Caps} & \text{Caps} + 1 & 2K \\
+\text{disk} & 1 & -1 & 0 & 0 \\
+\quad \text{disk with cap} & 1 & 0 & 1 & 0 \\
+\quad \text{disk with fornax} & 1 & -1 & 0 & 2
+\end{array}$$
+
+[fig]sketch of a disk with a cap[/fig]
+
+But when $X+S$ is negative cyclosis is affected
+
+$$\begin{array}{lccc|c|c}
+& X & S & \Pi & \overset{\text{Non-fornacious}}{K} & \\
+\text{perforated [del]disk[/del]} & 1 & -2 & 0 & 1 & \\
+\text{hemmed disk} & 1 & 1 & 1 & 0 & \overset{\text{Forn-}}{\overset{\text{cap-K}}{1}} \\
+\text{split and doubly hemmed disk} & 1 & 3 & 2 & & 2 \\
+\quad \text{hemmed & perforated disk} & 1 & 0 & 1 & 1 & 1 \\
+\text{Anchor ring perforated} & 1 & -1 & 0 & 0 & \overset{\text{Partially}}{\overset{\text{forn-K}}{2}} \\
+\text{Anchor ring with a septum across bar} & 1 & 1 & 1 & 0 & 1
+\end{array}$$
+
+[fig]sketch of a split and doubly hemmed disk[/fig]
+
+[fig]sketch of an anchor ring with a septum[/fig]
+
+$\left. \begin{array}{l} \\ \\ \\ \end{array} \right\}$ Here the fornacious K act the other way
+
+That is you dont count fornacious eyebars, but only that where ring comes up against a limit.

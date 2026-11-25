@@ -1,0 +1,17 @@
+[pn]30[/pn] Sylvester, I say, [del]or[/del] [ins]who[/ins] had such a colossal genius for not seeing the force of any demonstration which excited his jealousy, continued to say that he could not see that I had proved my theorem, until he began to discern that he was becoming a general laughing-stock of everybody who studied the subject; whereupon he held his peace and abstained from saying anything [u]pro[/u] or [u]con[/u]. Here is my proof. It relates to those algebras which have a number of [u]linearly independent units[/u], which means that if [u]i[/u] is any one of them and [u]j[/u], [u]k[/u], [u]l[/u] etc the rest, it is impossible by real numbers $a_1$, $a_2$, $a_3$, etc to express [u]i[/u] as a polynomial $a_2 j + a_3 k + a_4 l + \text{etc.}$ But the multiplication is [u]associative[/u]; that is, $i \cdot jk = ij \cdot k$ That is to say if $ij = \alpha$ and $jk = \beta$ then $\alpha k = i \beta$. So then I say in the first place that the multiplication table of such an algebra [ins]always[/ins] may [del]always[/del] be represented as follows, where $a_{11}$, $a_{12}$, etc $b_{11}$, $b_{12}$ etc, $c_{11}$, $c_{12}$ etc are all real numbers, [ins]or zeroes[/ins] [del]where[/del] [ins]while[/ins] $i, j, k,$ etc are the relative units, as above-said:
+
+$$\begin{array}{lll}
+i^2 = a_{11}i + b_{11}j + c_{11}k + \text{etc} & ij = a_{12}i + b_{12}j + c_{12}k + \text{etc} & ik = a_{13}i + b_{13}j + c_{13}k + \text{etc} \\
+ji = a_{21}i + b_{21}j + c_{21}k + \text{etc} & j^2 = a_{22}i + b_{22}j + c_{22}k + \text{etc} & jk = a_{23}i + b_{23}j + c_{23}k + \text{etc} \\
+ki = a_{31}i + b_{31}j + c_{31}k + \text{etc} & kj = a_{32}i + b_{32}j + c_{32}k + \text{etc} & k^2 = a_{33}i + b_{33}j + c_{33}k + \text{etc} \\
+\text{etc, etc} & &
+\end{array}$$
+
+This is evidently because each letter with two subscript numbers occurs but once; so all that is necessary in order to put the system into this form is to take its multiplication-table and substitute either zero or the proper value in each term of each product. For example, one algebra (called $O_3$ by my father) has this multiplication-table [fig]multiplication table for i, j, k, l[/fig] Therefore $a_{11}=0$ $b_{11}=1$ $c_{11}=0$ $d_{11}=0$
+$$\begin{array}{l}
+a_{12}=b_{12}=c_{12}=d_{12}=a_{13}=b_{13}=c_{13}=d_{13}=a_{14}=b_{14}=c_{14}=d_{14}=0 \\
+a_{21}=a_{22}=a_{23}=a_{24}=b_{21}=b_{22}=b_{23}=b_{24}=c_{21}=c_{22}=c_{23}=c_{24}=d_{21}=d_{22}=d_{23}=d_{24}=0 \\
+a_{31}=a_{32}=a_{33}=a_{34}=b_{31}=b_{32}=b_{33}=b_{34}=c_{31}=c_{32}=c_{33}=c_{34}=d_{31}=d_{32}=d_{33}=d_{34}=0
+\end{array}$$
+$$a_{41}=a_{42}=a_{43}=a_{44}=b_{41}=b_{42}=0, b_{43}=1, b_{44}=0, c_{41}=1, c_{42}=c_{43}=0, c_{44}=1, d_{41}=d_{42}=d_{43}=d_{44}=0$$
+It is simple as rolling off a log.

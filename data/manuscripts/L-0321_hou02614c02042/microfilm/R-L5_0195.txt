@@ -1,0 +1,20 @@
+which extended theorem is that if
+[u]x[/u] is any [del]some[/del] integer prime to [u]m[/u], i.e. not
+divisible by any prime factor of [u]m[/u] (for
+instance, differing from a multiple of
+[u]m[/u] by one less or one more than any
+prime factor of [u]m[/u] except 2 and 3), then
+[u]x[/u] [sup] [u]v[/u] [u]m[/u] [/sup] - 1 is divisible by [u]m[/u]. For example,
+the 4[sup]th[/sup] power that does end (when decimally
+expressed) in 5 nor in 0 will be one more
+than a multiple of 5 that is will end in
+6 or 1. Thus 2[sup]4[/sup] = 16 and 3[sup]4[/sup] = 81 etc. So
+putting m = 6, we see that (since [u]v[/u] 6 = 2)
+the square of any odd number not divisible
+by 3 will be 1 more than a multiple of 6
+thus 5[sup]2[/sup] - 1 = 4 x 6, 7[sup]2[/sup] - 1 = 8 x 6, 11[sup]2[/sup] - 1 = 20 x 6.
+This is easily proved from the fact (a+b)[sup]p[/sup],
+p being a prime, when divided by p, leaves
+the same remainder as does a[sup]p[/sup] + b[sup]p[/sup], which is
+obvious from the Binomial theorem; and since a and b
+are sums of units, any integer [ins]to a prime power,[/ins]

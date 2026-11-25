@@ -1,0 +1,19 @@
+protractor, instead of
+$$r = \tan (45^{\circ} - \frac{\varphi}{2}),$$
+[del]I[/del] take
+$$r = \left( \frac{1 + \varepsilon \sin \varphi}{1 - \varepsilon \sin \varphi} \right)^{\frac{\varepsilon}{2}} \tan (45^{\circ} - \frac{\varphi}{2})$$
+where $\varepsilon$ is the eccentricity of the meridian. $\varepsilon = 0.08227$.
+Differentiating
+$$\frac{dr}{d\varphi} = \left( \frac{1 + \varepsilon \sin \varphi}{1 - \varepsilon \sin \varphi} \right)^{\frac{\varepsilon}{2}} \left( - \frac{1}{2} \sec^{2} (45^{\circ} - \frac{\varphi}{2}) + \frac{\varepsilon^{2} (1 - \sin \varphi)}{1 - \varepsilon^{2} \sin^{2} \varphi} \right)$$
+When we come to make an oblique projection
+$$r' e^{\theta' i} = \frac{[del]r[/del] e^{\theta i} - A}{r e^{\theta i} - B}$$
+the scale of the map as measured by [del]the modulus of[/del] $\frac{dr' e^{\theta' i}}{d\varphi}$ will not be constant
+for [del]a[/del] given value of $r$. But it will be true that, taking $\varphi'$
+such that
+$$r [ins]'[/ins] = \tan (45^{\circ} - \frac{\varphi'}{2}),$$
+the [del]modulus[/del] value of $\frac{dr' e^{\theta' i}}{d\varphi'}$ will be the same.
+$$\frac{dr}{d\varphi'} = - \frac{1}{2} \sec^{2} (45^{\circ} - \frac{\varphi'}{2}) = - \frac{1}{2} (1 + r^{2}) = - \frac{1}{2} \left( 1 + \left( \frac{1 + \varepsilon \sin \varphi}{1 - \varepsilon \sin \varphi} \right)^{\varepsilon} \tan^{2} (45^{\circ} - \frac{\varphi}{2}) \right)$$
+$$= - \frac{1}{2} \left( \frac{1 + \varepsilon \sin \varphi}{1 - \varepsilon \sin \varphi} \right)^{\frac{\varepsilon}{2}} \left[ \left( \frac{1 - \varepsilon \sin \varphi}{1 + \varepsilon \sin \varphi} \right)^{\frac{\varepsilon}{2}} + \left( \frac{1 + \varepsilon \sin \varphi}{1 - \varepsilon \sin \varphi} \right)^{\frac{\varepsilon}{2}} \tan^{2} (45^{\circ} - \frac{\varphi}{2}) \right]$$
+$$= - \frac{1}{2} \left( \frac{1 + \varepsilon \sin \varphi}{1 - \varepsilon \sin \varphi} \right)^{\frac{\varepsilon}{2}} \left[ \frac{(1 - \varepsilon \sin \varphi)^{\varepsilon} - (1 + \varepsilon \sin \varphi)^{\varepsilon}}{(1 - \varepsilon^{2} \sin^{2} \varphi)^{\frac{\varepsilon}{2}}} + \left( \frac{1 + \varepsilon \sin \varphi}{1 - \varepsilon \sin \varphi} \right)^{\frac{\varepsilon}{2}} [del]\sec^{2}[/del] [ins]\tan^{2}[/ins] (45^{\circ} - \frac{\varphi}{2}) \right]$$
+[del]$\frac{d\varphi'}{d\varphi} = $[/del]
+$$\frac{d\varphi'}{d\varphi} = \frac{\sec^{2} (45^{\circ} - \frac{\varphi}{2}) - 2 \frac{\varepsilon^{2} (1 - \sin \varphi)}{1 - \varepsilon^{2} \sin^{2} \varphi}}{\left( \frac{1 + \varepsilon \sin \varphi}{1 - \varepsilon \sin \varphi} \right)^{\frac{\varepsilon}{2}} \sec^{2} (45^{\circ} - \frac{\varphi}{2}) + \frac{(1 - \varepsilon \sin \varphi)^{\varepsilon} - (1 + \varepsilon \sin \varphi)^{\varepsilon}}{(1 - \varepsilon^{2} \sin^{2} \varphi)^{\frac{\varepsilon}{2}}}}$$

@@ -1,0 +1,10 @@
+[del]$\equiv$[/del]
+$\begin{array}{c|c}
+\left\{ m_1(h_1^2+\gamma_1^2) + m_2 l_1^2 [ [del]1[/del] - \frac{h_2}{l_2} ]^2 + \frac{\gamma_2^2}{l_2^2} \right\} D^2 & m_2 (h_2 - \frac{h_2^2+\gamma_2^2}{l_2}) l_1 D^2 \\
++ \varepsilon_1 + \varepsilon_2 (1+\frac{l_1}{l_2})^2 + \varepsilon_3 \frac{l_1^2}{l_2^2} & - \varepsilon_2 (1+\frac{l_1}{l_2}) - \varepsilon_3 l_1 (\frac{1}{l_2} + \frac{1}{l_3}) \\
++ g m_1 l_1 + g m_2 l_1 (1-\frac{h_2}{l_2}) + [del]2[/del] [ins]g[/ins] (m_3+m_4) l_1 & - g (m_3+m_4) l_2 - g m_2 h_2 \\
+\hline
+m_2 l_1 (h_2 - \frac{h_2^2+\gamma_2^2}{l_2}) D^2 & \left\{ m_2 (h_2^2+\gamma_2^2) + m_3 l_2^2 [ [del]1[/del] - \frac{h_3}{l_3} ]^2 + \frac{\gamma_3^2}{l_3^2} \right\} D^2 \\
+- \varepsilon_2 (1+\frac{l_1}{l_2}) - \varepsilon_3 l_1 (\frac{1}{l_2} + \frac{1}{l_3}) & + \varepsilon_2 + \varepsilon_3 (1+\frac{l_2}{l_3})^2 + [del]\varepsilon_4[/del] [ins]\varepsilon_4[/ins] \frac{l_2^2}{l_3^2} \\
+- g (m_3+m_4) l_1 - g m_2 h_2 \frac{l_1}{l_2} & + g m_2 h_2 + g m_3 l_2 (1-\frac{h_3}{l_3}) + 2 m_4 l_2
+\end{array}$ [marginalia]$\varepsilon_3 \frac{l_1}{l_2}$[/marginalia]

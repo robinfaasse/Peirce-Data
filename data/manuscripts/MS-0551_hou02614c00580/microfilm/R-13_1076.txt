@@ -1,0 +1,36 @@
+[pn]-2-[/pn]
+
+$$w = xy$$
+$$S = x\bar{y} + \bar{x}y$$
+
+Consolidating these into one proposition by the methods under Consolidation we have:
+$$\bar{w}xy + w(1-xy) + \bar{S}(x\bar{y} + \bar{x}y) + S(xy + \bar{x}\bar{y}) = 0$$
+
+From this we obtain the value of $w$ as follows:
+$$w = \frac{\bar{S}x\bar{y} + S\bar{x}y + Sxy + \bar{S}\bar{x}\bar{y}}{2xy - 1}$$
+
+We need to develop the above equation in terms of $S, x$ and $y$.
+
+The easiest way to do this is to write the class terms in the scheme of the Possible in a vertical column to the left and to write the class terms in the function to be developed along the head of the column. Multiply these together leaving blanks where the product is zero.
+
+The result will be as follows:
+
+| Class Terms | Numerator | | | | | Denominator | | |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| | $Sxy$ | $S\bar{x}y$ | $S\bar{x}\bar{y}$ | $\bar{S}xy$ | Results | $2xy - 1$ | Results | Coefficients |
+| $Sxy$ | $1$ | | | | $1$ | $2 - 1$ | $1$ | $1$ |
+| $Sx\bar{y}$ | | | | | $0$ | $-1$ | $-1$ | $0$ |
+| $S\bar{x}y$ | | $1$ | | | $1$ | $-1$ | $-1$ | $-1$ |
+| $S\bar{x}\bar{y}$ | | | | | $0$ | $-1$ | $-1$ | $0$ |
+| $\bar{S}xy$ | | | | | $0$ | $2 - 1$ | $1$ | $0$ |
+| $\bar{S}x\bar{y}$ | | | | $1$ | $1$ | $-1$ | $-1$ | $-1$ |
+| $\bar{S}\bar{x}y$ | | | | | $0$ | $-1$ | $-1$ | $0$ |
+| $\bar{S}\bar{x}\bar{y}$ | | | $1$ | | $1$ | $-1$ | $-1$ | $-1$ |
+
+The coefficients to the right correspond to the class terms on the extreme left. The letter $L$ indicates an impossible description, the same as $\frac{0}{0}$.
+
+Without writing the terms out in full we evidently have:
+$$w_1 = \bar{S}xy$$
+$$[v] = 1 = Sxy + S\bar{x}y + \bar{S}x\bar{y} + \bar{S}\bar{x}\bar{y}$$
+
+We thus have the following equations:

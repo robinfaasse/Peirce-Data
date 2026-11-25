@@ -1,0 +1,36 @@
+On Multitude [pn]7[/pn]
+
+This is a consequence of the third order in (2) and of the first order in (3); or
+$(2)^3 \cdot (3) \prec (6)$.
+
+For multiplying (2) three times into (3) substituting in the three expressions
+of (2), for $\alpha, \beta, x$, respectively, $\delta, \varepsilon, u$; $\zeta, \eta, v$; $\theta, \iota, w$; we get
+[del]$\Pi_{\delta} \Sigma_{\varepsilon} \Pi_{\zeta} \Sigma_{\eta} \Pi_{\theta} \Sigma_{\iota} \Pi_{u} \Pi_{v} \Pi_{w}$[/del]
+$\Pi_{\delta} \Sigma_{\varepsilon} \Pi_{\zeta} \Sigma_{\eta} \Pi_{\alpha} \Pi_{\beta} \Sigma_{\gamma} \Pi_{\theta} \Sigma_{\iota} \Pi_{x} \Pi_{u} \Pi_{v} \Pi_{w}$
+$(\bar{q}_{\delta u} + \bar{q}_{\varepsilon u}) \cdot (\bar{q}_{\zeta v} + \bar{q}_{\eta v}) \cdot (q_{\alpha x} + q_{\beta x} + \bar{q}_{\gamma x}) \cdot (q_{\theta w} + q_{\iota w}) \cdot$
+$(\bar{q}_{\delta u} + \bar{q}_{\varepsilon u}) \cdot (\bar{q}_{\alpha x} + \bar{q}_{\gamma x}) \cdot (\bar{q}_{\zeta v} + \bar{q}_{\eta v}) \cdot (q_{\beta x} + \bar{q}_{\gamma x}) \cdot (\bar{q}_{\theta w} + \bar{q}_{\iota w})$
+
+Identifying $\alpha$ with $\varepsilon$, $\beta$ with $\eta$, [del]and $\theta$ with $\gamma$[/del], $u, v,$ and $w$ with $x$, we get by the usual formulae [ins]of reduction,[/ins]
+$\Pi_{\delta} \Sigma_{\varepsilon} \Pi_{\zeta} \Sigma_{\eta} \Sigma_{\gamma} \Sigma_{\iota} \Pi_{x} \ (\bar{q}_{\delta x} + \bar{q}_{\varepsilon x} + q_{\iota x}) \cdot (q_{\delta x} + \bar{q}_{\iota x}) \cdot (q_{\delta x} + \bar{q}_{\iota x})$
+
+and dropping from the quantifying part the indices not found in the Boolean, we get
+$\Pi_{\delta} \Pi_{\zeta} \Sigma_{\iota} \Pi_{x} \ (\bar{q}_{\delta x} + \bar{q}_{\zeta x} + q_{\iota x}) \cdot (q_{\delta x} + \bar{q}_{\iota x}) \cdot (q_{\zeta x} + \bar{q}_{\iota x})$
+
+Q.E.D.
+
+<u>Theorem 4</u>. There is a collection which includes no [del]object[/del] [ins]unit[/ins] at all. That is
+(7) $\Sigma_{\alpha} \Pi_{x} \ \bar{q}_{\alpha x}$.
+
+This is a consequence of the second order in (2) and of the first order in (3);
+so that $(2)^2 (3) \prec (7)$.
+
+For multiplying (5) by the [del]second factor of[/del] (2) we get
+$\Sigma_{\alpha} \Pi_{x'} \Sigma_{\beta} \Pi_{x} \Pi_{x'} \ q_{\alpha x'} \cdot (\bar{q}_{\alpha x'} + \bar{q}_{\beta x})$
+
+Identifying $x'$ with $x$ and $x'$ with $x$, we get by the usual formulae of reduction
+$\Sigma_{\alpha} \Sigma_{\beta} \Pi_{x} \ \bar{q}_{\beta x}$
+
+Dropping the index $\alpha$ which does not occur in the Boolean, we get
+$\Sigma_{\beta} \Pi_{x} \ \bar{q}_{\beta x}$
+
+Q.E.D.

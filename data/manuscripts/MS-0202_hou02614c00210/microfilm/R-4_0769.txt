@@ -1,0 +1,20 @@
+[pn]C
+17[/pn] will be divisible by that prime. Thus, in the column where x+y = 5, the Cs
+[del]will be[/del] are seen to be, 5, 10, 10, 5; in that column where x+y = 7, the Cs are
+7, 21, 35; and in the column where x+y = 11, the Cs are 11, 55, 165, 330, 462,
+all plainly divisible by 11, since the sums of the figures in even places equal the
+sums of those in odd places in each and every [del]v[/del] value of C.
+
+Now these Cs are the coefficients of the binomial theorem. That is to say, [del]by[/del]
+[del]long division[/del]
+$(a+b)^n = [del]C_{n,1}[/del] a^n + C_{n,1} a^{n-1}b + C_{n,2} a^{n-2}b^2 + \dots C_{n,n-1} ab^{n-1} + C_{n,n} b^n$
+
+Hence, if [ins]n[/ins] [del]a[/del] [del]is[/del] [ins]be[/ins] a prime [del]number[/del], $(a+b)^p = a^p + \text{terms divisible by } p + b^p$
+
+[fig]large black dot[/fig] So [del]f[/del]. Taking $a=b=1$, $(a+b)^p = 2^p = 1^p + \text{terms divisible by } p + 1^p = 2 + \text{multiple of } p$.
+
+Take $a=b=c=1$. Then $(a+b+c)^p = [(a+b)+c]^p = (a+b)^p + \text{terms div. by } p + c^p = 3 + \text{multiple of } p$.
+
+And in general, whatever number B may be, $B^p = B + \text{terms divisible by } p$. Thus, in
+all cases, p being a prime number, $B^p - B$ is divisible by p. In order to illustrate
+this, I will raise the [del]first[/del] [ins]four[/ins] [del]ten[/del] numbers each to the 11th power, and [del]after subtracting[/del] [ins]show that[/ins] [del]each[/del]

@@ -1,0 +1,36 @@
+Suppose
+$$h = A x [del]+[/del] [ins]+[/ins] B y + C z + E t + G (x^2 + y^2 + z^2 - t^2) + H$$
+
+$$D_t h = E - 2 G t$$
+$$-D_x h = +A - 2 G x$$
+$$-D_y h = +B - 2 G y$$
+$$-D_z h = +C - 2 G z$$
+
+Then what is $u$, If we write $u = A' x + B' y + C' x + E' t + G' (x^2 + y^2 + z^2 - t^2) + H'$
+
+[del]Since $D_t h = D_x u$[/del] it is we have
+
+$$D_t u = E' - 2 G' t$$
+$$D_x u = A' + 2 G' x$$
+$$-D_y u = -B' - 2 G' y$$
+$$+D_z u = C' + 2 G' z$$
+
+Hence
+$$A' = E \quad G' = G = 0$$
+$$E' = +A$$
+$$C' = +B$$
+$$B' = C$$
+
+Put $v = A'' x + B'' y + C'' z + E'' t + H''$
+
+$$D_y v = B'' = E$$
+$$-D_z v = -C'' = +A$$
+$$D_t v = E'' = +B$$
+$$D_x v = A'' = +C$$
+
+Put $w = A''' x + B''' y + C''' z + [del]E'''[/del] [ins]E'''[/ins] t + H'''$
+
+$$D_z w = C''' = E$$
+$$D_y w = B''' = +A$$
+$$-D_x w = -A''' = +B$$
+$$D_t w = [del]E''' = A[/del] [ins]E''' = +C[/ins]$$

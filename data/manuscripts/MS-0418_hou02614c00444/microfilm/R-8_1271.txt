@@ -1,0 +1,27 @@
+[pn]393[/pn]
+
+proposition was true if either the antecedent were false or the
+consequent were true, and was only [del]true[/del] [ins]false[/ins] if the antecedent
+was [del]true[/del] [ins]false[/ins] while the consequent was [del]false[/del] [ins]true[/ins]. But the examples
+now adduced is one where the antecedent is false,
+yet the hypothetical is false. Namely, what is meant
+is
+$$\Sigma_i \Sigma_j \Pi_k \{ a_i (\overline{a}_k + c_k) \overline{c}_j$$
+
+That is, there is a possibility of the antecedent being
+true, there is a possibility of the consequent being
+false, but it is necessary that either the antece-
+dent should be [del]true[/del] [ins]false[/ins] or the consequent [del]true[/del] [ins]false[/ins]. This
+cannot be expressed in [del]pure[/del] Booleans, as
+
+The chief points to notice about the signs of
+lexis are that
+$$\Pi_i \Pi_j = \Pi_j \Pi_i$$
+$$\Sigma_i \Sigma_j = \Sigma_j \Sigma_i$$
+$$\Sigma_i \Pi_j \varphi_i \cdot \psi_j = \Pi_j \Sigma_i \varphi_i \cdot \psi_j$$ [ins]Greek[/ins]
+$$\Sigma_i \Pi_j (\varphi_i + \psi_j) = \Pi_j \Sigma_i (\varphi_i + \psi_j)$$
+
+[marginalia]Sign $\prec$[/marginalia]
+[del]$$\Pi_i \Sigma_j \prec$$[/del]
+$$\Sigma_i \Pi_j \prec \Pi_j \Sigma_i$$
+The universal follows from the particular, never the particular

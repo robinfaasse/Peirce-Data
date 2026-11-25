@@ -1,0 +1,28 @@
+[pn]145[/pn]
+
+56. A merchant makes 33 per cent every year upon his
+capital [ins]as it was[/ins] at the beginning of the year, but spends [del]yearly[/del] $1000. Yet at
+the end of three years he had doubled his capital. How much was
+it originally?
+
+Let x be the original amount.
+At the end of the first year it was [u]4[/u]/3 x - 1000.
+At the end of the second year it was [u]4[/u]/3 ([u]4[/u]/3 x - 1000) - 1000.
+At the end of the third year it was [u]4[/u]/3 [[u]4[/u]/3 ([u]4[/u]/3 x - 1000) - 1000] - 1000 = 2x
+
+Clearing from fractions,
+4 [4 (4x - 3000) - 9000] - 27000 = 54 x
+= 4 [16x - 12000 - 9000] - 27000
+= 64x - 48000 - 36000 - 27000
+= 64x - 111000 = 54x.
+
+Hence, 10x = 111000;
+x = 11100.
+
+57. At what times are the hands of a clock in conjunction?
+[del]The first tim[/del] Let [del]t[/del] [ins]t+60[/ins] be the first number of minutes after 12
+o'clock. The minute-hand moves over t + 60 minutes, [del]the[/del] [ins]and[/ins]
+the hour-hand over [u]1[/u]/12 (t + 60). The minute-hand has gone
+one whole 60 minutes further than the hour-hand. Hence,
+t = [u]1[/u]/12 (t + 60);
+so that, t = [u]60[/u]/11 or 1 hour and [u]5[/u]/11 = 1[sup]h[/sup] 5[sup]m[/sup] 27.2727[sup]s[/sup] etc.

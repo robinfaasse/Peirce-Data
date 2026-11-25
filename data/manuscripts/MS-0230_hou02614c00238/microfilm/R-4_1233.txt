@@ -1,0 +1,31 @@
+[fig]Coordinate axes with a curve[/fig]
+
+$$\begin{array}{c}
+(L [z^2] + M [zx] + N [xy]) [del]d\ell[/del] \\
+[del]+ (L [zx] + M [x^2] + N [yz]) d\ell = 0[/del] \\
++ (M [y^2] + L [xy] + N [yz]) [del]dm[/del] \\
++ (N [z^2] + L [zx] + M [yz]) [del]dn = 0[/del] \\
+\ell d\ell + m dm + n dn = 0 \\
+\ell L + m M + n N = 0 \\
+L d\ell + M dm + N dn = 0
+\end{array}$$
+
+***
+
+$$\begin{array}{c}
+- [xy]^2 - [zx]^2 - [yz]^2 = \\
+- [del]d^2[/del] [yz]^2 - [zx]^2 [del]- b^2 [xy]^2 - d [xy] -[/del] \\
+= \\
++ [yz]^2 [del]b[/del] + [zx]^2 [del]a[/del] + [xy]^2 [del]c[/del] + \\
++ [yz]^2 d + [zx]^2 d + [xy]^2 d + \\
++ [yz]^2 [del]d[/del] + [zx]^2 [del]d[/del] + [xy]^2 [del]d[/del] = H_1 H_2 \\
+[del]= a + b + d[/del] \quad [yz]^2 + [zx]^2 + [xy]^2 = \\
+a + b + d + [yz]^2 + [zx]^2 + [xy]^2 \\
+= H_1 + H_2 + H_3 \quad [del]\text{###}[/del]
+\end{array}$$
+
+$$\begin{array}{c}
+H_3 = [z^2] + r \\
+H_2 = [y^2] + q \\
+H_1 = [x^2] + p
+\end{array}$$

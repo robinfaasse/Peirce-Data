@@ -1,0 +1,16 @@
+[u]a+b+c[/u]   [u]a[/u] + [u]b[/u] + [u]c[/u]
+[u]a[/u]+ [u]b+c[/u]   [u]a[/u] + [u]b[/u] [u]c[/u]
+[u]a[/u]+ [u]b[/u] [u]c[/u]   a ([u]b[/u] + [u]c[/u])
+a [u]b+c[/u]   a [u]b[/u] [u]c[/u]
+[del]a[/del][ins][u]a[/u][/ins]+[u]b[/u]+[u]c[/u]   a [u]b[/u] + [u]c[/u]
+[u]a+b[/u] + [u]c[/u]   [u]a[/u] + [u]b[/u] + [u]c[/u]
+a [u]b[/u] [u]c[/u]   a [u]b[/u] [u]c[/u]
+[u](a+b)[/u] [u]c[/u]   ([u]a[/u] + [u]b[/u]) [u]c[/u]
+[u]                                                 [/u]
+[u]a+b[/u] + [u]a[/u] + b   (a+[u]b[/u]) [u]a[/u] + b  =  a + b
+[u](a+b)[/u] [u]a[/u] [u]b[/u]   (a[u]b[/u] + a[del]b[/del][ins][u]b[/u][/ins]) [u]b[/u]  =  a [u]b[/u]
+[u](a+b)[/u] [u]a[/u] [u]b[/u]   ([u]a[/u] + b) [u]a[/u] [u]b[/u]  =  [u]a[/u] [u]b[/u]
+[u](a+b)[/u] [u]a[/u] [u]b[/u]  = ([u]a[/u] + b) ([u]a[/u] [u]b[/u]) = 0
+[u]a [u]b[/u][/u] [u]a [u]b[/u][/u]   a [u]b[/u] a [u]b[/u] = a [u]b[/u]
+a [u]b[/u] [u]a [u]b[/u][/u]   a [u]b[/u] ([u]a[/u] + b) = 0
+[u](a[u]b[/u])[/u] [u]a[u]b[/u][/u]   [u]a[/u] + b + a[u]b[/u] = [unreadable]

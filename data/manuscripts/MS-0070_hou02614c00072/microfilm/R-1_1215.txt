@@ -1,0 +1,23 @@
+$$\sum_i \sum_j \sum_k \sum_{\alpha} \prod_x \sum_{\beta} \prod_w \sum_u \sum_z$$
+$$(i+j)_k \cdot (\bar{q}_{\alpha x} + \bar{\sigma}_{xz}) \cdot [\bar{q}_{\beta w} + q_{\alpha u} \cdot (u+j)_w] \cdot q_{\beta z} \cdot \bar{\sigma}_{zk}$$
+
+[fig]Line pointing from the first summation to the second summation[/fig]
+$$\sum_i \sum_j \sum_k \sum_{\alpha} \sum_u \sum_z$$
+$$(i+j)_k \cdot (u+j)_z \cdot \bar{\sigma}_{ui} \cdot \bar{\sigma}_{zk}$$
+[fig]Line pointing from the first expression to the second expression[/fig]
+First identify $w$ with $z$ and so get rid of $\bar{q}_{\beta w}$
+Then identify $x$ with $u$ and so get rid of $\bar{q}_{\alpha x}$
+Then drop $q_{\alpha u}$
+
+[u]$u : \prod_i \prod_j \prod_k \prod_z \prod_u$[/u]
+$$(i+j)_k \cdot (u+j)_z + \bar{\sigma}_{ui} + \bar{\sigma}_{zk}$$
+Insert open integrand $q_{\alpha u}$
+
+$$(i+j)_k + q_{\alpha u} + (u+j)_z + \bar{\sigma}_{ui} + \bar{\sigma}_{zk}$$
+[del]$$(i+j)_k + q_{\alpha u} + (u+j)_z + q_{\alpha u} \cdot \bar{\sigma}_{ui} + \bar{\sigma}_{zk}$$[/del]
+Diversify $u$
+$$\prod_i \prod_j \prod_k \prod_{\alpha} \sum_x \prod_z$$
+
+$$(i+j)_k + q_{\alpha u} + (u+j)_z + q_{\alpha x} \cdot \bar{\sigma}_{xi} + \bar{\sigma}_{zk}$$
+$$(i+j)_k + [q_{\alpha u} + (u+j)_z] \cdot q_{\beta w} + q_{\beta z} + \bar{\sigma}_{zk}$$ Diversify $z$
+$$(i+j)_k + q_{\beta w} \cdot [q_{\alpha u} + (u+j)_w] + q_{\beta z} + \bar{\sigma}_{zk} + \bar{\sigma}_{xz}$$

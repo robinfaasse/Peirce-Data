@@ -1,0 +1,20 @@
+[pn]152[/pn]
+
+5 to be substituted).
+
+$$\left| \begin{matrix}
++3 & , & -2 & , & +1 & , & -6 \\
++4 & , & -1 & , & -2 & , & +7 \\
++2 & , & +3 & , & -4 & , & +7 \\
+0 & , & +1 & , & 0 & , & -y
+\end{matrix} \right| = 0.$$
+
+Now this means, that [del]if[/del] [ins]by multiplying[/ins] all the numbers in each vertical column [del]are multiplied[/del] by a suitable number (i.e. by the values $x, y, z, 1$), the sum of [del]these[/del] [ins]the[/ins] numbers in every horizontal row can be made zero. [del]If the[/del] [ins]four[/ins] equations express anything more than that, it is that the last of the four multipliers may be $1$. But that would always be the case. For suppose $u, v, w, t$ were the multipliers that made the horizontal rows sum up to $0$. Then $\frac{u}{t}, \frac{v}{t}, \frac{w}{t}, 1$ would have the same effect, since $\frac{0}{t} = 0$.
+
+But we have just seen that by multiplying each [del]equation[/del], that is, each horizontal row, by a suitable multiplier, the sum of all the numbers in every vertical column can be made zero.
+
+Note, then, this reasoning:
+
+The whole meaning of the equations is, that suitable multiplication of each column will make the sum of every row zero.
+
+No general rule can be true of the array which does not follow as a necessary consequence of this.

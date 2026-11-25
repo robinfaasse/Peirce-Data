@@ -1,0 +1,40 @@
+Logic
+III
+44.
+
+A proposition, and equally, a schema may itself be the subject of an assertion.
+
+[u](z + h)(z + x)(h + x)[/u]
+[u]z h x + z h x + z h x + z h x[/u]
+[u](z + h + x)(z + h)(z + x)[/u]
+[u]z h x + z h x + z h x + z h x[/u]
+[u](z + x)[/u]
+[u]z h x + z h x + z h x + z h x[/u]
+[u](z + x)(h + z)(h + x)[/u]
+[u](z + h)[/u]
+[u]z h x + z h x + z h x + z h x[/u]
+[u](h + x)[/u]
+
+(z + x)(z + h)(h + x)
+[fig]figure[/fig]
+[u](z + h + x)(z + h)(h + x)[/u]
+z h x + z h x + z h x
+
+[fig]figure[/fig]
+
+[fig]figure[/fig]
+[u]z h[/u]   [u]z x[/u]   [u]h x[/u]
+(z + h)(z + x)(h + x)
+
+[fig]figure[/fig]
+[u]z h[/u]   [u]z x[/u]   [u]h x[/u]
+[del](z + h + x)[/del](z + h)(z + x)(h + x)
+[u]z h x + z h x + z h x + z h x[/u]
+
+[fig]figure[/fig]
+[u]h z[/u]   [u]z x[/u]
+(z + h + x)(z + h)(z + x)
+[del](z + x)(h + h)(h + x)[/del]
+[del](z + h)(z + x)(h + x)[/del]
+[u]z h x[/u]
+[u]z h x + z h x + z h x + z h x[/u]

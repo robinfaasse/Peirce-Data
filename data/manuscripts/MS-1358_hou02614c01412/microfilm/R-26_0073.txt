@@ -1,0 +1,29 @@
+[marginalia]Morrison's Bridge [date]1899 Jan 23[/date][/marginalia]
+
+[fig]Sketch of a chain or link mechanism[/fig]
+
+Last link of indefinite length $l$
+$\sum \cos \theta_n = a$  $\sum \sin \theta_n = b$
+
+$\text{Energy} = \sum_0^m [del]x_n[/del] [ins]s_n[/ins] \sin \theta_n + E \sum_0^N (\theta_{n+1} - \theta_n)^2$
+
+[fig]Geometric diagram of link angles[/fig]
+
+[fig]Geometric diagram showing angle delta theta[/fig]
+
+[fig]Detailed geometric diagram with angles theta and delta theta[/fig]
+
+$\text{Lift} = \delta \theta_n \frac{\cos (\theta_{n+1} - \theta_n)}{\cos \theta_{n+1}}$
+
+$\text{Elongation} = \delta \theta_n \frac{\sin \theta_n}{\cos \theta_{n+1}}$
+
+$\delta \theta_n \frac{\cos (\theta_{n+1} - \theta_n)}{\cos \theta_{n+1}} + \delta \theta_{n+1} \frac{\cos (\theta_{n+2} - \theta_{n+1})}{\cos \theta_{n+2}} = 0$
+
+$\delta \theta_{n+1} = - \delta \theta_n \frac{\cos (\theta_{n+1} - \theta_n) \cos \theta_{n+2}}{\cos (\theta_{n+2} - \theta_{n+1}) \cos \theta_{n+1}}$
+
+$\text{Total elongation} = \delta \theta_n \left( \frac{\sin \theta_n}{\cos \theta_{n+1}} - \frac{\cos (\theta_{n+1} - \theta_n)}{\cos (\theta_{n+2} - \theta_{n+1})} \frac{\sin \theta_{n+1}}{\cos \theta_{n+1}} \right)$
+$= - \frac{\sin (\theta_{n+1} - \theta_n)}{\cos (\theta_{n+2} - \theta_{n+1})}$
+
+$\cos \theta_{n+2} (\sin \theta_n - \sin \theta_{n+1})$
+$\cos \theta_{n+2} \cos \theta_{n+1} \sin \theta_n + \sin \theta_{n+2} \sin \theta_{n+1} \sin \theta_n$
+$- \cos \theta_{n+2} \sin \theta_{n+1} \cos \theta_n - \sin \theta_{n+2} \sin \theta_{n+1} \sin \theta_n$

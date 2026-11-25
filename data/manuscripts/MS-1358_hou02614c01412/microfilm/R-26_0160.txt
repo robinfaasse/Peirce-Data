@@ -1,0 +1,27 @@
+Morrison's Bridge 1899 Feb 14 [pn]2[/pn]
+
+[fig]Geometric diagram with intersecting lines[/fig] [fig]Geometric diagram with intersecting lines[/fig] $\tan x + \cot x = \frac{\sin^2 x + \cot^2 x}{\sin x \cot x}$
+$= 2 \csc 2x$
+
+[fig]Geometric diagram showing differentials dx and ds[/fig]
+$\tan (x+y) = \frac{\sin (x+y)}{\cos (x+y)}$
+$= \frac{\sin x \cos y + \cos x \sin y}{\cos x \cos y - \sin x \sin y}$
+$= \frac{\tan x + \tan y}{1 - \tan x \tan y}$
+
+$\tan (\theta_{n+2ds} + \delta\theta_{n+2ds}) = \frac{\frac{1}{2} ds \sin \theta_{n+2ds}}{\frac{1}{2} ds \cos \theta_{n+2ds} + \delta x}$
+
+$= \frac{\tan \theta_{n+2ds} + \delta\theta_{n+2ds}}{1 - \tan \theta_{n+2ds} \cdot \delta\theta_{n+2ds}} = \tan \theta_{n+2ds} + \tan^2 \theta_{n+2ds} \delta\theta_{n+2ds} + \delta\theta_{n+2ds}$
+$= \tan \theta_{n+2ds} + \sec^2 \theta_{n+2ds} \delta\theta_{n+2ds}$
+
+$= \tan \theta_{n+2ds} - \tan \theta_{n+2ds} \frac{2 \delta x}{ds \cos \theta_{n+2ds}}$
+
+$\therefore$ [del]$\delta\theta_{n+2ds} = \frac{1}{2} \sin \theta_{n+2ds} \sin$[/del]
+$\delta\theta_{n+2ds} = - \sin \theta_{n+2ds} \frac{2 \delta x}{ds}$
+
+or $\frac{1 - \tan \theta_{n+2ds} \cdot \delta\theta_{n+2ds}}{\tan \theta_{n+2ds} + \delta\theta_{n+2ds}} = \cot \theta_{n+2ds} \frac{1 - \tan \theta_{n+2ds} \cdot \delta\theta_{n+2ds}}{1 + \cot \theta_{n+2ds} \cdot \delta\theta_{n+2ds}}$
+$= \cot \theta_{n+2ds} - (\tan \theta_{n+2ds} + \cot \theta_{n+2ds}) \delta\theta_{n+2ds}$ [fig]Small scribble[/fig]
+
+$= \cot \theta_{n+2ds} + 2 \frac{\delta x}{ds} \csc \theta_{n+2ds}$
+
+[del]$\delta\theta_{n+2ds} = - 2 \frac{\delta x}{ds} \sec \theta_{n+2ds}$[/del]
+$\delta\theta_{n+2ds} = - 2 \frac{\delta x}{ds} \frac{\csc \theta_{n+2ds}}{\tan \theta_{n+2ds} + \cot \theta_{n+2ds}} = - \frac{\delta x}{ds} \frac{\sin 2\theta_{n+2ds}}{\sin \theta_{n+2ds}}$

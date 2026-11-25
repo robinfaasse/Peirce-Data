@@ -1,0 +1,28 @@
+[fig]Circle with horizontal and vertical axes[/fig]
+
+Suppose $g$ constant
+$a^2 = [y^2] + [z^2]$
+$b^2 = [x^2] + [z^2]$
+$c^2 = [x^2] + [y^2]$
+
+$-\frac{a^2 + b^2 + c^2}{2}$
+
+[fig]Square with diagonals and an adjacent triangle[/fig]
+
+Put $g^2$ for the sum of the
+squares of the distances from
+the axis and
+$\xi = gl$  $\eta = gm$  $\zeta = gn$
+$\xi^2 + \eta^2 + \zeta^2 = g^2$
+
+$\xi^2 ([y^2] + [z^2]) + \eta^2 ([x^2] + [z^2]) + \zeta^2 ([x^2] + [y^2])$
+$- 2 \xi \eta [xy] - 2 \xi \zeta [xz] - 2 \eta \zeta [yz] = 1$
+
+This represents a quadric
+surface and since for each
+system of possible values
+of $l, m, n$ there is a finite value
+of $g$, it is an ellipsoid. But
+it is a special kind of ellipsoid.
+Namely the reciprocals of the
+three axes form a triangle

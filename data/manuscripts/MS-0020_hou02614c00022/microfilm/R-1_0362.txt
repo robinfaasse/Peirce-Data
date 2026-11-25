@@ -1,0 +1,25 @@
+[pn]4.[/pn]
+
+[u]Logic of Quantity[/u]
+
+identifying [u]l[/u] with [u]v[/u], we get
+
+(9) $\Sigma_v q_{vv} \cdot T_{vA} \cdot T_{vB}$.
+
+We next square $\Pi_u \bar{q}_{mu} + q_{nu}$ and multiply the [del]product[/del] [ins]square[/ins] by $q_{mA} \cdot q_{mB}$, and identifying [u]u[/u] with A and [u]u'[/u] with B, get
+
+(10) $q_{nA} \cdot q_{nB}$
+
+We next multiply the cube of the premise relating to [u]m[/u], by (9) and [del](10)[/del], by the cube of (6) and the $6^{\text{th}}$ power of (1). Then, identifying all the [u]i[/u]s, [u]e[/u], [u]e'[/u], [u]e"[/u] with A, [u]e'''[/u], [u]e''''[/u], [u]e^v[/u] with B, [u]f[/u], [u]f'[/u], [u]f"[/u], [u]f'''[/u], with A, $f^{\text{IV}}$ and $f^{\text{V}}$ with B, [u]g[/u] and [u]g'''[/u] with B, [u]g'[/u], [u]g"[/u], [u]g''''[/u], [u]g^v[/u] with [u]v[/u], [u]s[/u] with [u]v[/u], [u]s'[/u] with A, [u]s"[/u] with B, [u]l[/u] with [u]v[/u], [u]l'[/u] with [u]v'[/u], [u]l"[/u] with [u]v"[/u], we get as before $\bar{s}_{mn}$.
+
+On the other hand, were we to drop the premise which enumerates the collection [u]m[/u], it is plain that merely from that which expresses that [u]m[/u] is a part of [u]n[/u] $\bar{s}_{mn}$ would not logically follow. This corrects a gross error of logic into which most people fall. It thus appears that, in order to necessitate $\bar{s}_{mn}$ it is not only necessary that [u]m[/u] should be a part of [u]n[/u] of something from which [u]n[/u] proceeds, but also that it should possess some character independent of [u]n[/u].
+
+[u]Problem 1[/u]. [u]Required that character of a collection, m, which will render it impossible that it should proceed from a collection of which it forms a part[/u].
+
+[u]Solution[/u]. The condition that [u]m[/u] is a part of [u]n[/u] is expressed by
+
+$\Pi_u \bar{q}_{mu} + q_{nu}$ $\Sigma_v q_{nv} \cdot \bar{q}_{mv}$
+
+We may write this in the abridged form $P_{mn}$. Writing X for the unknown character sought, we have
+
+$P_{mn} \cdot X_m \prec \bar{s}_{mn}$.

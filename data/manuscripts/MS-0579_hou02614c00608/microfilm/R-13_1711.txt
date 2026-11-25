@@ -1,0 +1,24 @@
+[u]Algebra of the Copula[/u]
+
+The copula of consequence, $\prec$, may be defined
+as follows:
+$\alpha$. If $b$ is true, then $a \prec b$ is true.
+$\beta$. [del]If[/del] [ins]Either[/ins] $a$ is [del]or[/del] $a \prec b$ is true.
+$\gamma$. If $a \prec b$ and $a$ are true, $b$ is true.
+
+The letters $a$ and $b$ may be replaced by proposi-
+tions, that replacing $a$ being written in parenthe-
+ses. Thus, we shall have the forms following:
+
+With 0 copula: $A$.
+With 1 copula: $A \prec B$.
+With 2 copulas: $(A \prec B) \prec C$
+$A \prec B \prec C$.
+With 3 copulas: $[(A \prec B) \prec C] \prec D$
+$(A \prec B \prec C) \prec D$
+$(A \prec B) \prec C \prec D$
+$A \prec (B \prec C) \prec D$
+$A \prec B \prec C \prec D$.
+
+With 4 copulas, there are 14 forms, with 5, 42;
+with 6, 132; etc. The last letter of a proposition

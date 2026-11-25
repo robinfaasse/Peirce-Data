@@ -1,0 +1,18 @@
+Rule for investigating the order in which process
+No 2 gives to the cards.
+
+<u>Definition of Process.</u> Put [del]the[/del] [ins]1st[/ins] card on bottom & then
+put down new top card [del]down reversed, so as to make[/del] [ins]facing the other way, putting these cards down in a pile[/ins]
+[del]a pile[/del] [ins]Continue[/ins] this alternation, till you come to the last
+card. Lay this down face up upon the pile.
+
+Let the number of cards used be <u>n</u> Let $\phi^t$ be the
+place of a card after performing the process t times.
+Take [del]each[/del] [ins]integrals[/ins] number up to <u>n</u>; let these represent $\phi^0$.
+$2^t \phi^0 = \phi^t$. To express $\phi^t$ however as a number less
+than (n+1); subtract from [del]it[/del] [ins]the next lowest quantity[/ins] $2^t [ins]\pm I[/ins] (2n+1)$, where I is an
+integral. Then subtract from it a half of the quantity
+last subtracted, if possible; & so on until the remainder
+is greater than half the quantity last subtracted; then mul-
+tiply by $2^r$ where r is the number of subtractions made.
+Repeat this process of subtractions if necessary until the

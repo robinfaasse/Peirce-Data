@@ -1,0 +1,22 @@
+[u]Theorem[/u] [u]If two sides of a triangle are unequal, the[/u]
+[del]greater[/del] [ins]greater [del]side[/del][/ins] [u]is opposite the greater[/u] [ins]internal[/ins] [del]angle[/del] [del]internally[/del].
+
+[u]Demonstration[/u]. In the triangle EBC, let
+$|EC| > |BC|$.
+[fig]Triangle EBC with points A and F[/fig] Then, I say, that $\angle B > \angle E$.
+For upon the side CE, find a point, A, such
+that $|AC| = |BC|$. Then, $\angle CAB = \angle CBA$.
+But [del]$\angle E$[/del] $\angle EBC = \angle EBA + \angle ABC$; so that
+$\angle EBC > \angle ABC$.
+
+Next, give the motion a motion of translation along $\{EC\}$ as axis,
+until the particle that has been at $[E]$ [del]enters[/del] [ins]moves goes[/ins] to $[A]$. Then it is plain
+that the filament in $\{EB\}$ [ins]will be[/ins] [del]is[/del] so moved as to cut $\{CB\}$ at a point
+nearer to $[C]$, say at $[F]$, than before. Hence, we have
+$\angle BEC = \angle FAC = \angle BAC - \angle BAF$;
+so that $\angle BEC < \angle BAC$
+But by the Pons Asinorum $\angle BAC = \angle ABC$.
+Hence $\angle BEC < \angle EBC$. Q.E.D.
+
+[u]Corollary[/u]. If two angles of a triangle are equal, so likewise are
+the sides opposite them.

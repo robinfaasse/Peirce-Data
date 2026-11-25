@@ -1,0 +1,41 @@
+$$D_{\log x} F = D_{\log x} x \cdot D_{x} F$$
+
+$$F = y^{-1} (x^{2} + y^{2})^{-n}$$
+
+$$D_{x} F = -2nxy^{-1} (x^{2} + y^{2})^{-n-1}$$
+$$= -2nxy^{-1} (x^{2} + y^{2})^{-n-1}$$
+
+$$\sigma^{x} \quad \sigma^{x}$$
+$$\sigma^{1x} \quad x \sigma^{x}$$
+
+$$\varphi = F (x^{2} + y^{2})^{n}$$
+
+$$D_{x} \varphi = D_{x} F \cdot (x^{2} + y^{2})^{n} + 2n F \cdot x (x^{2} + y^{2})^{n-1}$$
+
+$$D_{x}^{2} \varphi = D_{x}^{2} F (x^{2} + y^{2})^{n} + [del]2[/del]4n \cdot D_{x} F \cdot x (x^{2} + y^{2})^{n-1} + [del]4n(n-1) F x^{2}[/del]$$
+$$+ 2n F (x^{2} + y^{2})^{n-1} + 4n(n-1) F x^{2} (x^{2} + y^{2})^{n-2}$$
+
+$$D_{y}^{2} \varphi = D_{y}^{2} F (x^{2} + y^{2})^{n} + 4n D_{y} F y (x^{2} + y^{2})^{n-1}$$
+$$+ 2n F (x^{2} + y^{2})^{n-1} + 4n(n-1) F y^{2} (x^{2} + y^{2})^{n-2}$$
+
+$$(D_{x}^{2} + D_{y}^{2}) \varphi = (D_{x}^{2} + D_{y}^{2} F) (x^{2} + y^{2})^{n} + 4n (D_{x} F \cdot x + D_{y} F \cdot y) (x^{2} + y^{2})^{n-1}$$
+$$[del]+ 4n F (x^{2} + y^{2})^{n-1}[/del] + 4n F (x^{2} + y^{2})^{n-1}$$
+
+$$(D_{x}^{2} + D_{y}^{2})^{2} \varphi = (D_{x}^{2} + D_{y}^{2})^{2} F (x^{2} + y^{2})^{n} + 8n \left( \begin{aligned} & D_{x}^{3} F \cdot x + D_{x} D_{y}^{2} F \cdot x + D_{x}^{2} D_{y} F y + D_{y}^{3} F y \\ & + D_{x}^{2} F + D_{y}^{2} F \end{aligned} \right) (x^{2} + y^{2})^{n-1}$$
+$$8n^{2} (D_{x}^{2} + D_{y}^{2}) F (x^{2} + y^{2})^{n-1} + 16n^{2} \left( \begin{aligned} & D_{x}^{2} F \cdot x^{2} + D_{y}^{2} F \cdot y^{2} + D_{x} F \cdot x + D_{y} F \cdot y + 2 D_{x} D_{y} F xy \end{aligned} \right) (x^{2} + y^{2})^{n-2}$$
+$$+ 32n^{3} (D_{x} F \cdot x + D_{y} F \cdot y) (x^{2} + y^{2})^{n-2}$$
+$$+ 16n^{4} F (x^{2} + y^{2})^{n-2}$$
+
+$$(x D_{x} + y D_{y})^{2} = x D (x D_{x}$$
+$$D_{x} F \cdot x + D_{y} F \cdot y$$
+$$D_{x} \quad D_{x}^{2} F \cdot x + D_{x} F + D_{x} D_{y} F \cdot y$$
+$$D_{x}^{2} \left\{ \begin{aligned} & D_{x}^{3} F \cdot x + 2 D_{x}^{2} F + D_{x}^{2} D_{y} F \cdot y \\ & D_{y}^{3} F \cdot y + 2 D_{y}^{2} F + D_{x} D_{y}^{2} F \cdot x \end{aligned} \right.$$
+$$D_{x}^{2} F \cdot x^{2} + D_{x} F \cdot x + 2 D_{x} D_{y} F \cdot xy$$
+$$D_{y}^{2} F \cdot y^{2} + D_{y} F \cdot y$$
+
+$$D_{x} (x^{2} + y^{2})^{n}$$
+$$= 2nx (x^{2} + y^{2})^{n-1}$$
+
+$$D_{x} \log x \cdot x$$
+$$[del]\frac{x}{x} = 1[/del]$$
+$$\log x + x \frac{1}{x} = \log x + 1$$

@@ -1,0 +1,21 @@
+II.
+
+[u]Problem[/u]. To determine, in a table of logarithmic sines carried to a certain number of places of decimals, what is the [del]smallest[/del] [ins]least[/ins] angle at which [del]a certain difference[/del] [ins]quantity[/ins] being the difference between adjacent angles in the table) the error in taking out a sine by means of proportional parts will be inappreciable.
+
+[u]Solution[/u]. Let [u]m[/u] be the angle.
+$\delta$ the difference of adjacent angles
+[u]N[/u] the number of places of decimals
+
+Then $\frac{1}{2} 10^{-N}$ is the least greatest admissible error of the logarithm which will not affect the figures.
+
+Let [u]x[/u] be a positive angle less than $\delta$. Then in taking out [del]$m + \frac{1}{2} + x$[/del] the error will be
+$-\frac{1}{2} 10^{-N} = \frac{x}{\delta} [ \log \sin (m + \delta) - \log \sin (m - \frac{1}{2} \delta) ] + \log \sin (m - \frac{1}{2} \delta) - \log \sin (m - \frac{1}{2} \delta + x)$
+and x
+
+Supposing N to vary and m and $\delta$ to remain constant
+$D_D \frac{1}{2} 10^{-N} = \frac{1}{\delta} [ \log \sin (m + \frac{1}{2} \delta) - \log \sin (m - \frac{1}{2} \delta) ] - \operatorname{cotan} (m - \frac{1}{2} \delta + x)$
+
+Supposing N and m to vary and x and $\delta$ to remain constant
+$D_m \frac{1}{2} 10^{-N} = \frac{x}{\delta} [ \operatorname{cotan} (m + \frac{1}{2} \delta) - \operatorname{cotan} (m - \frac{1}{2} \delta) ] + \operatorname{cotan} (m - \frac{1}{2} \delta) - \operatorname{cotan} (m - \frac{1}{2} \delta + x)$
+
+It will be perceived from this that the greatest value of

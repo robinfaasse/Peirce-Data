@@ -1,0 +1,31 @@
+For example if $\prec$ means "is" then [del]man[/del] [ins]cook[/ins] $\dagger_{3}$ [del]Negroes[/del] [ins]Negro[/ins] denotes
+an object of the class which includes all cooks and all negroes
+and no other objects. The signification of $\dagger_{3}$ will of course
+vary with that of $\prec$, and accordingly corresponding to each
+signification there will be an [del]inverse[/del] converse signification correspond-
+ing to the converse copula. We may denote this converse opera-
+tion by $\bar{\dagger}_{3}$ and call it combination.
+
+Corresponding to the operation of [del]combination[/del] [ins]conjunction[/ins] is the in-
+verse operation of exception which may be denoted by $\bar{\dagger}_{3}$.
+Its definition is that $x \bar{\dagger}_{3} y \prec z$ signifies the same as $x \prec y \dagger_{3} z$.
+It may be noticed that $x \bar{\dagger}_{3} y$ is the same as $x \bar{\dagger}_{3} (\infty \bar{\dagger}_{3} y)$.
+
+Corresponding to the operation of combination is the inverse
+operation of limitation which may be denoted by $\bar{\bar{\dagger}}_{3}$. Its de-
+finition is that $x \prec y \bar{\bar{\dagger}}_{3} z$ signifies the same as $x \dagger_{3} y \prec z$.
+
+The sign $\dagger_{3}$ is inconvenient to manipulate [del]because[/del] because it
+does not follow because $x \dagger_{3} y = x \dagger_{3} z$ that $y = z$. To avoid
+this inconvenience we adopt the operation of addition
+the definition of which is that
+
+$1^{\text{st}}$ $x + y = x \dagger_{3} y$ if $x \bar{\dagger}_{3} y = 0$
+
+$2^{\text{nd}}$ $x + y$ is not the same as $x$
+
+$3^{\text{rd}}$ that all the rules for $\dagger_{3}$ apply to $+$ except those dependent on $x \dagger_{3} x = x$
+
+Corresponding to addition is the inverse operation of subtrac-
+tion defined by saying that $x + y = z$ and $y = z - y$ are true [del]and[/del] [ins]or[/ins]
+false together.

@@ -1,0 +1,19 @@
+[pn]136[/pn]
+
+$$\left| \begin{matrix} 1 & -1 & +1 \\ 1 & -\frac{1}{2} & -\frac{2}{3} \\ A & B/2 & C/3 \end{matrix} \right| = 0$$
+
+We [del]subtract[/del] [ins]diminish[/ins] the [del]first[/del] [ins]second[/ins] line by the first
+
+$$\left| \begin{matrix} 1 & -1 & +1 \\ 0 & +\frac{1}{2} & -\frac{5}{3} \\ A & B/2 & C/3 \end{matrix} \right| = 0$$
+
+We add the [del]last[/del] [ins]first[/ins] column to the second [del]and subtract[/del] [ins]and subtract it[/ins] from the third
+
+$$\left| \begin{matrix} 1 & 0 & 0 \\ 0 & +\frac{1}{2} & -\frac{5}{3} \\ A & A+B/2 & C/3-A \end{matrix} \right| = 0$$
+
+We multiply the second column by [del]3/5[/del] [ins]2[/ins] and the third by [del]3/5[/del] [ins]3/5[/ins]
+
+$$\left| \begin{matrix} 1 & 0 & 0 \\ 0 & 1 & -1 \\ A & 2A+B & C/5-\frac{3}{5}A \end{matrix} \right| = 0$$
+
+We [del]subtract[/del] [ins]diminish[/ins] the [del]second[/del] [ins]third[/ins] line by [del]the first[/del] [ins]A times the first[/ins]
+
+$$\left| \begin{matrix} 1 & 0 & 0 \\ 0 & 1 & -1 \\ [del]A[/del] [ins]0[/ins] & 2A+B & C/5-\frac{3}{5}A \end{matrix} \right| = 0$$

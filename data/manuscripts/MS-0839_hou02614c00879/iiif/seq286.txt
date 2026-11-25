@@ -1,0 +1,28 @@
+[del]R^2 = 1/4 (AB)^2[/del] = (1/2 AB)^2 [fig]figure[/fig]
+Polar coordinates
+cos θ = 1/2 e^θi + 1/2 e^-θi
+A_1 sec (θ - θ_1) = r
+[del]A_1 = r[/del] [del]r = 2 A_1 / e^θi + e^-θi[/del]
+A B C D vectors [fig]figure[/fig]
+p / p+q A + q / p+q B
+[del]x[/del] 2 A_1 e^θi / e^(θ - θ_1)i + e^-(θ - θ_1)i
+s / s+t C + t / s+t D
+2 A_1 1 / e^-θ_1i + e^(θ_1 - 2θ)i
+e^θ_1i e^θ_2i e^θ_3i e^θ_4i
+p / p+q e^θ_1i + q / p+q e^θ_2i
+[fig]figure[/fig]
+r_2 e^θ_2i r_3 e^θ_3i
+p / p+q cos θ_1 + p / p+q sin θ_1 i
+r_2 cos θ_2 i
+q / p+q cos θ_2 + q / p+q sin θ_2 i
+
+sin α + cos α =
+sin α + sin (90° - α) = 2 sin 45° cos (45° - α) [fig]figure[/fig]
+√2 cos (45° - α) = [del]1 / √2[/del] cos α + [del]1 / √2[/del] sin α
+cos 2ρ = 2 cos^2 ρ - 1
+cos 2ρ = 1 - 2 sin^2 ρ
+sin^2 ρ cos^2 α + 2 sin ρ cos ρ sin α cos β + cos^2 ρ cos^2 β
+sin^2 ρ sin^2 α + 2 sin ρ cos ρ sin α sin β + cos^2 ρ sin^2 β
+I^2 / R^2 = 1 + sin 2ρ cos (α - β) = 1 + sin 2ρ cos (γ - δ)
+sin^2 ρ cos 2α + cos^2 ρ cos 2β + sin 2ρ cos (α + β) = 0
+1/2 (1 - cos 2ρ) + 1/2 (1 + cos 2ρ)

@@ -1,0 +1,26 @@
+[pn]5[/pn]
+
+Consider then
+$\Sigma_{8}\Sigma_{2}\Pi_{7}\Sigma_{8}\Pi_{9}\Pi_{3}\Pi_{4}$
+$x_{1}x_{2}\bar{I}_{12}(\bar{x}_{3}+\bar{z}_{4}+I_{34})+\bar{z}_{0}+\bar{x}_{9}+\bar{\gamma}_{78}z_{8}(\bar{\gamma}_{98}+I_{98})$
+
+This must give
+[del]$\Pi_{a}\Pi_{b}\Pi_{c}\Sigma_{d}\Pi_{e}\Pi_{f}\Pi_{g}$[/del]
+[del]$\Pi_{a}\Pi_{b}\Pi_{c}$[/del]
+$\Sigma_{a}\Sigma_{b}\Sigma_{c}\Pi_{d}\Pi_{e}\Pi_{f}\Pi_{g}$
+$x_{a}z_{b}z_{c}\bar{I}_{ab}\bar{I}_{bc}\bar{I}_{ac}+\bar{x}_{d}+\bar{x}_{e}+\bar{x}_{f}+\bar{x}_{g}$
+
+To get this one must multiply the Boolean
+$\bar{x}_{7}+\bar{x}_{7'}+\bar{x}_{7''}+\bar{\gamma}_{78}\bar{\gamma}_{7'8'}\bar{\gamma}_{7''8''}z_{8}z_{8'}z_{8''}(\bar{\gamma}_{98}+\bar{\gamma}_{9'8'}+\bar{\gamma}_{9''8''})$
+$+\bar{\gamma}_{9}\bar{I}_{9'}\bar{I}_{9''}$
+
+$7=g$ $7'=g'$ $7''=g''$
+
+$\bar{x}_{7}+\bar{x}_{7'}+\bar{x}_{7''}+\bar{I}_{79}+\bar{I}_{7'9'}+\bar{I}_{7''9''}+\bar{\gamma}_{78}\bar{\gamma}_{7'8'}\bar{\gamma}_{7''8''}z_{8}z_{8'}z_{8''}\bar{\gamma}_{98}\bar{\gamma}_{9'8'}\bar{\gamma}_{9''8''}$
+
+$7'=g$ $7''=g'$ $7=g''$
+
+[u]Eureka![/u]
+
+$\bar{\gamma}_{78}\bar{\gamma}_{7'8'}\bar{\gamma}_{7''8''}$
+$\bar{\gamma}_{78''}\bar{\gamma}_{7'8}\bar{\gamma}_{7''8'}$

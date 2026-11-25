@@ -1,0 +1,37 @@
+[fig]Circle intersected by two horizontal and two vertical lines[/fig]
+
+[fig]Circle with multiple intersecting lines[/fig]
+
+[fig]Two vertical lines intersecting a circle[/fig]
+
+[fig]Small circle[/fig]
+
+[fig]Medium circle[/fig]
+
+$$x^2 + y^2 - R^2 = 0$$
+
+$$[del]x^2 + y^2[/del] - 2 X_1 x - 2 Y_1 y + [del]X_1^2 + Y_1^2 - R_1^2[/del] = 0$$
+
+$$r_0 \cos \theta_i + r_1 \sin \theta_i$$
+
+$$R_1 \cos \theta_i + r_1 \cos \theta_i$$
+
+$$R_1 \cos \theta_1 + r_1 \cos \theta_1$$
+
+***
+
+[fig]Small circle[/fig]
+
+[fig]Circle with inscribed triangle and vertical lines[/fig]
+
+[fig]Circle with vertical line and horizontal arrow[/fig]
+
+[fig]Two nested circles with intersecting lines[/fig]
+
+Manger
+
+$$x^2 + y^2 - 2 X_1 x - 2 Y_1 y + [del]X_1^2 + Y_1^2 - R_1^2[/del]$$
+
+$$x^2 + y^2 - 2 X_2 x - 2 Y_2 y = 0$$
+
+$$(X_1 - X_2) x + (Y_1 - Y_2) y = 0$$

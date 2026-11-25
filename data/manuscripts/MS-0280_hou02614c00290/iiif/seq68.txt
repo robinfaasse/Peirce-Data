@@ -1,0 +1,18 @@
+[fig]
+kills no
+([del]kills[/del]) ([ins]lives[/ins])
+
+-kills-
+(hanged)
+
+-kills-
+(is hanged)
+[/fig]
+
+[fig]
+kills lives
+(lives)
+-lives- ([del]kills[/del])
+-kills-
+(is hanged)
+[/fig]

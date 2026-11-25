@@ -1,0 +1,40 @@
+[pn]25[/pn]
+
+having a terminated line in common has the same census-value,
+3, as if they had but a point in common. Equating, then, the
+census-value to 3, we have
+$$X_2 + 2\Pi_2 + V_2^2 + 2\ ^2\text{I}_2^{-1} = 3$$
+We then compute the value of $^2\text{I}_2^{-1}$ as follows:
+$$\begin{array}{rcccl}
+^2\text{I}_2^{-1} & = & 1\frac{1}{2} & = & 1\frac{1}{2} \\
+& & -\frac{1}{2}X_2 & & -\frac{1}{2} - \frac{1}{2} V_2^1 \\
+& & -\Pi_2 & & -1 \ \ \ \ + 1 \ \ \ \text{"} \\
+& & -\frac{1}{2}V_2^2 & & \ \ \ \ \ \ \ \ \ + 1 \ \ \ \text{"} \\
+\hline \\
+& & & = & \ \ \ \ \ \ \ -\frac{1}{2} V_2^1.
+\end{array}$$
+
+If we join to such a surface $s$ additional simple closed surfaces, so
+that one of the first pair has a line in common with each of the
+additional surfaces, [del]all[/del] these lines having having no point common
+to two except one point common to all at an ordinary point of the
+line joining the first pair of surfaces, nor any of the surfaces
+having any other place [del]&[/del] [ins]in[/ins] common to two of them, the census value,
+from characters of the whole, is
+$$X_2 + (s+2)\Pi_2 + V_2^2 + (s+2)\ ^2\text{I}_2^{-1} + \ ^2\text{I}_2^s.$$
+But, computed from parts, the same ([del]it is[/del] remembering that each of
+the $s+1$ lines is on two surfaces, and that the census-value of it must
+therefore be once subtracted from the sum of the census-values of the
+surfaces, while the common point is on $s+2$ surfaces and must
+be subtracted $s+1$ times, which is just the number of times it is
+subtracted in subtracting the $s+1$ lines) is
+$$(s+2)X_2 + (s+2)\Pi_2 - (s+1)(X_1 + 2\text{U}_1^{-1}) = (s+2)(X_2 + \Pi_2) - (s+1)$$
+Hence $\begin{array}{rcccl}
+^2\text{I}_2^s & = & (s+1)X_2 & = & s+1 \ \ \ + (s+1) V_2^1 \\
+& & - \ \ \ V_2^2 & & \ \ \ \ \ \ \ \ \ \ \ \ \ - 2 \ \ V_2^1 \\
+& & - (s+2)\ ^2\text{I}_2^{-1} & & \ \ \ \ \ \ \ \ \ \ \ \ \ (+ \frac{1}{2}s + 1 \ V_2^1 \\
+& & - (s+1) & & -s-1 \\
+\hline \\
+& & & & \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \underline{\frac{3}{2} s \ V_2^1}
+\end{array}$
+[u]The census value of the surface is $3+s$, and it makes no difference how the lines of junction of the $s$ surfaces[/u]

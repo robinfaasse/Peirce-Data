@@ -1,0 +1,37 @@
+[fig]Sketch of a hill on coordinate axes[/fig]
+to determine ridge
+
+Given eq. of hill to determine ridge
+
+$z =$ height of hill.
+$z = f(x,y)$
+
+Section $zy$ of hill.
+
+[fig]Sketch of a hill section with a vertical line through the highest point[/fig] Series of sections
+line through highest
+point
+
+$D_y z = 0$
+
+Then for every val of $x$ I find
+val of $y$ which makes $z$ a
+max.
+
+May get bottom of valley
+[del]in this way.[/del]
+
+Distinguish these by $D^2$
+
+[fig]Sketch of a double-peaked hill profile[/fig]
+
+Suppose Hill of 2nd deg.
+
+[fig]Sketch of a cylindrical ridge or hill[/fig]
+
+$z = Ax^2 + Bxy + Cy^2 + Ex + Fy + H$
+$D_y z = Bx + 2Cy + F = 0$
+Ridge therefore straight line
+$D_y^2 z = 2C$ [del]$\times 0$[/del]
+If $2C = +$ Vall
+$2C = -$ Ridge

@@ -1,0 +1,126 @@
+```
+[ins]25[/ins] [del]25[/del]
+25 | 1 0 0 1
+[u]      1 1 0 1[/u]
+             r
+
+0.28
+
+[u]1 0 0 0 0[/u]
+1 1 0 1
+[u]1 1 0 1[/u]
+1 1 0 1
+[u]1 0 0 1 1[/u]
+1 1 0 1
+[u]1 0 1 1 0[/u]
+1 1 0 1
+[u]1 0 0 1 0[/u]
+1 1 0 1
+[u]1 0 0 0 1[/u]
+1 1 0 1
+[u]1 0 1 0 1[/u]
+1 1 0 1
+[u]1 0 1 1 1[/u]
+1 1 0 1
+[u]1 0 0 0[/u]
+
+[u]1 1 0 0 1[/u]
+         1
+[u]1 1 0 1[/u]
+
+[del]4[/del]
+- [u]5[/u] [ins]1[/ins] 0 0 1 1
+- 
+1 7
+[u]+ 1 9[/u]
++ 73
+
+35
+[u]38[/u]
+73
+
+0
+[del]-[/del] [u]1[/u]
++ [del]5[/del] [ins]25[/ins]
+[u]- [del]19[/del] [ins]19[/ins][/u]
+  125
+
+- [del]5[/del] [ins]5[/ins]
+[u]- [del]24[/del] [ins]25[/ins][/u]
+- [del]19[/del] [ins]20[/ins]
+[u]- 19[/u]
+- [del]38[/del] [ins]39[/ins]
+[u]- [del]19[/del] [ins]125[/ins][/u]
+
+- 5
+[u]- 19[/u]
+- 19
+
+19
+[u]5[/u]
+152
+
+[u]1 1 0 1[/u]
+1 0
+
+1 1 0 0 1
+[u]      1 1 0 0 1[/u]
+[fig]diagram with arrows and text 1 1 0 1 and 1 0 1 1 1[/fig]
+
+30
+5
+[u]124[/u]
+
+1 0 0 1 1 0 0 0 1 1 0 0 0 0
+[fig]arrow pointing right[/fig] [u]1 0 0 1 1 0 0 0 1[/u]
+1 1 0 0 0 1 1 1 0 1 0 1 1 1 0 0 0 0
+[fig]arrow pointing left[/fig] 1 0 1 0 0 0 1 1 1 0 1 0 1 1 1 0 0 0 0 1 , 1
+1 1 0 0 0 1 1 1 0 1 0 1 1 1 0 0 0
+
+1 0 0 0 1 0 1 0 0 0 1 1 1 0 1 0 1 1 1 0 0 0 0 1
+1 0 0 0 1
+[fig]arrow pointing right[/fig] 1 0 0 0 1 1 1 1 0 1 0 1 1 1 0 0 0 0 1
+[fig]arrow pointing right[/fig] 1 0 0 1 0 0 1 1 0 1 1
+
+1 0 0 1 1
+[u]1 1 1 1 0 1[/u]
+1 1 0 1 1
+[u]1 1 1 1 0 1[/u]
+1 1 0 1 1
+1 0 0 0 0 1 1
+[del]x[/del] [u]0 0 0 0 0 1 1[/u]
+1 0 1 1 0 1 1
+[u]0 0 0 0 0 1 1[/u]
+1 1 1 0 0 1
+[u]0 0 0 0 0 1 1[/u]
+1 1 1 1 0 1
+[u]0 0 0 0 0 1 1[/u]
+1 0 1 0 0 1
+[u]0 0 0 0 0 1 1[/u]
+1 0 1 0 1 1
+[fig]arrow with diagram showing division[/fig] 1 0 0 0
+
+1 0 0 0
+
+[fig]diagram showing division with 1 0 0 0 0 and arrows[/fig]
+
+1 1 0 1
+[u]1 1 0 1[/u]
+1 1 0 1
+[u]1 1 0 1[/u]
+1 1 0 1
+[u]1 1 0 1[/u]
+1 1 0 1
+[u]1 1 0 1[/u]
+1 1 0 1
+[u]1 1 0 1[/u]
+1 1 0 1
+[u]1 1 0 1[/u]
+1 1 0 1
+[u]1 1 0 1[/u]
+1 1 0 1
+[u]1 1 0 1[/u]
+1 0 0 0
+
+[fig]diagram showing division with 1 0 0 0 0 and arrows[/fig]
+```

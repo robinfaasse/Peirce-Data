@@ -1,0 +1,33 @@
+$$D_x p = -\rho D_t u$$
+$$D_y p = -\rho D_t v$$
+
+$$D_x D_y p = -\rho [del]D_x[/del] D_y D_t u$$
+$$= -\rho D_x D_t v$$
+
+$$D_x u + D_y v = 0$$
+$$D_x D_t u + D_y^2 v = 0$$
+$$D_x D_y D_t u + D_y^2 D_t v = 0$$
+$$D_x D_y D_t u = D_x^2 D_t v$$
+$$(D_x^2 + D_y^2) D_t v = 0$$
+$$D_t v = F_1'(x+iy) + F_2'(x-iy)$$
+$$D_y p = -\rho F_1'(x+iy) - \rho F_2'(x-iy)$$
+$$p = i \rho \int F_1'(x+iy) d(x+iy) - i \rho F_2'(x-iy) d(x-iy)$$
+$$D_x p = i \rho F_1'(x+iy) - i \rho F_2'(x-iy)$$
+$$D_t u = -i F_1'(x+iy) + i F_2'(x-iy)$$
+$$D_x D_t u = -i F_1''(x+iy) + i F_2''(x-iy)$$
+$$D_y D_t v = i F_1''(x+iy) - i F_2''(x-iy)$$
+
+$$y=0 \quad x=1 \quad D_t u = -i F_1' 1 + i F_2' 1$$
+when $y=0 \quad v=0 \quad F_1 x + F_2 x = 0 \quad F_1 = -F_2$
+$$v = \phi(x+iy) - \phi(x-iy) + f_2$$
+$$u = -i \phi(x+iy) - i \phi(x-iy) + f_1$$
+$$= -2i \phi 1 + f_1 = D_t \xi$$
+
+[marginalia]
+[fig]Diagram of a circle with a horizontal line and an arrow pointing left.[/fig]
+[fig]Diagram of a circle with a concentric outer arc and an arrow pointing right.[/fig]
+[pn]130[/pn]
+[/marginalia]
+
+$$y = \sqrt{a^2 - x^2} \quad u = D_t \xi$$
+$$i \phi(x + \sqrt{x^2-a^2}) - i \phi(x - \sqrt{x^2-a^2}) = [del]D_t \xi[/del]$$

@@ -1,0 +1,36 @@
+[pn]373[/pn]
+
+[marginalia]Pretty cumbrous [del]are[/del] [ins]the[/ins] elimination formulae[/marginalia]
+
+[fig]Logical formula with copula signs[/fig]
+
+[pn]§ 191.[/pn]
+
+The following examples will be sufficient [del]for the present[/del].
+
+From the premises $\Sigma_{i} a_{i} b_{i}$ and $\Pi_{j} (\bar{b}_{j} \mathbin{\bar{\lor}} c_{j})$, eliminate $b$. We first write
+$$\Sigma_{i} \Pi_{j} a_{i} b_{i} (\bar{b}_{j} \mathbin{\bar{\lor}} c_{j}).$$
+
+The distributive process gives
+$$\Sigma_{i} \Pi_{j} a_{i} (b_{i} \bar{b}_{j} \mathbin{\bar{\lor}} b_{i} c_{j}).$$
+
+But we [del]always have a right to drop a factor or[/del] [ins]can[/ins] insert an [del]additive[/del] [ins]copresent[/ins] term. We thus get
+$$\Sigma_{i} \Pi_{j} a_{i} (b_{i} \bar{b}_{j} \mathbin{\bar{\lor}} c_{j}).$$
+
+By the third process, we can, if we like, insert $n_{ij}$ for $b_{i} \bar{b}_{j}$. In either case, we identify $j$ with $i$ and get the conclusion
+$$\Sigma_{i} a_{i} c_{i}.$$
+
+[pn]§ 192.[/pn]
+
+Given the premises
+$$\Sigma_{h} \Pi_{i} \Sigma_{j} \Pi_{k} (\alpha_{h i j k} \mathbin{\bar{\lor}} s_{j k} \eta_{k})$$
+$$\Sigma_{u} \Sigma_{v} \Pi_{w} \Pi_{y} (\epsilon_{u v y w} \mathbin{\bar{\lor}} \bar{s}_{y w} \theta_{v w}).$$
+
+Required to eliminate $s$. The combined premise is
+$$\Sigma_{h} \Sigma_{u} \Sigma_{v} \Pi_{i} \Sigma_{j} \Pi_{w} \Pi_{k} \Pi_{y} (\alpha_{h i j k} \mathbin{\bar{\lor}} s_{j k} \eta_{k}) (\epsilon_{u v y w} \mathbin{\bar{\lor}} \bar{s}_{y w} \theta_{v w}).$$
+
+Identify $k$ with $w$ and $y$ with $j$, and we get
+$$\Sigma_{h} \Sigma_{u} \Sigma_{v} \Pi_{i} \Sigma_{j} \Pi_{w} (\alpha_{h i j w} \mathbin{\bar{\lor}} s_{j w} \eta_{w}) (\epsilon_{u v j w} \mathbin{\bar{\lor}} \bar{s}_{j w} \theta_{v w}).$$
+
+The Boolian part then reduces, so that the conclusion is
+$$\Sigma_{h} \Sigma_{u} \Sigma_{v} \Pi_{i} \Sigma_{j} \Pi_{w} (\alpha_{h i j w} \epsilon_{u v j w} \mathbin{\bar{\lor}} \alpha_{h i j w} \theta_{v w} \mathbin{\bar{\lor}} \Psi_{u v j w} \eta_{w}).$$

@@ -1,0 +1,59 @@
+[fig]Geometric diagram with lines and points labeled A, B, C, D, E, F, P, Q, O[/fig]
+
+[del]E =[/del] [ins]A + Q[/ins]
+
+[del]B[/del] [ins]yO + y̅Q[/ins]
+
+[del]C[/del] [ins]zO + z̅Q[/ins]
+
+[del]D[/del] [ins]xO + x̅Q[/ins]
+
+[del]E = [frac]x-z[/frac] A + [frac]xz[/frac] O + [frac]x(1-z)[/frac] Q[/del]
+
+[del]F = [frac](x-z)(1-z) A + (1-x)z^2 O + x(1-z)^2 Q[/frac][/del]
+
+[del]E A + z x O + x z̅ Q[/del]
+
+[del]1-z = z-zx[/del]
+
+[del](1-x) x O + 1-x Q[/del]
+
+[del](1-y) A + y O + (1-y) Q[/del]
+
+[frac](1-z) A + z x O + (1-z) Q[/frac]
+
+= [frac](1-y)(1-x)[/frac] [frac]xy[/frac] (1 ± [sqrt][frac]1-y[/frac][/sqrt])
+
+1 + [frac]xy[/frac] (1 ± [sqrt][frac]1-y[/frac][/sqrt])
+
+[frac](1-x)(1-y)[/frac]
+
+= [frac]xy[/frac] (1 ± [sqrt][frac]1-y[/frac][/sqrt])
+
+[frac]xy[/frac] (1 ± [sqrt][frac]1-y[/frac][/sqrt])
+
+E = [frac]x-z[/frac] A + [frac]xz[/frac] O + [frac]x(1-z)[/frac] Q
+
+F = [frac](x-z)(1-z) A + (1-x)z^2 O + x(1-z)^2 Q[/frac]
+
+D = [frac](1-x)z^2 O + x(1-z)^2 Q[/frac]
+
+z^2 - xz^2 + x - 2xz + xz^2
+
+y = [frac](1-x)z^2[/frac]
+
+[del]xy[/del] - 2xyz + [del]y[/del] z^2 = (1 - x - y) z^2
+
+z^2 + 2 [frac]xy[/frac] z = [frac]xy[/frac]
+
+(z + [frac]xy[/frac])^2 = [frac]xy[/frac] + [frac]x^2 y^2[/frac]
+
+= [frac]xy - x^2 y - xy^2 + x^2 y^2[/frac]
+
+= [frac]xy(1-x)(1-y)[/frac]
+
+[frac]xy[/frac] (1 ± [sqrt][frac]1-y[/frac][/sqrt])
+
+= [frac]xy[/frac] (1 ± [sqrt][frac]1-y[/frac][/sqrt])
+
+[marginalia]Internal Bisector upper sign shown by putting x=y[/marginalia]

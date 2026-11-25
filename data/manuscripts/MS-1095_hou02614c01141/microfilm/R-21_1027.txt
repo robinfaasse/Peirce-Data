@@ -1,0 +1,13 @@
+Let $h_{1}$, $h_{2}$, $h_{3}$, etc be the distances of the centres of mass from the upper joints. Let $\gamma_{1}$, $\gamma_{2}$, $\gamma_{3}$, etc be the moments of inertia round axes through the centres of mass parallel to the axis of $z$. [ins] (Let $m_{1}, m_{2}, m_{3}$, etc be their masses.) [/ins] Let $\theta_{1}$, $\theta_{2}$, $\theta_{3}$ etc be the angular displacements of the pieces about their centres. Let $p$ be the total number of pieces. Let $t$ be the time. Using then the notation $\Sigma u_{n} \equiv u_{n-1} + u_{n-2} + u_{n-3} + \dots + u_{1}$, we have for any piece, say the $n^{\underline{\text{th}}}$,
+
+[fig]Vertical lines and curves drawn through the equations below[/fig]
+
+$$x_{n} = l_{1} [del]\sin[/del] \theta_{1} + l_{2} [del]\sin[/del] \theta_{2} + \text{etc} \dots l_{n-1} [del]\sin[/del] \theta_{n-1} + h_{n} [del]\sin[/del] \theta_{n}$$
+$$= \Sigma l_{n} \sin \theta_{n} + h_{n} \sin \theta_{n}$$
+$$y_{n} = \Sigma l_{n} \cos \theta_{n} + h_{n} \cos \theta_{n}$$
+
+$$\text{D}_{t} x_{n} = \Sigma (l_{n} \cos \theta_{n} \cdot \text{D}_{t} \theta_{n}) + h_{n} \cos \theta_{n} \cdot \text{D}_{t} \theta_{n}$$
+$$\text{D}_{t} y_{n} = - \Sigma (l_{n} \sin \theta_{n} \cdot \text{D}_{t} \theta_{n}) - h_{n} \sin \theta_{n} \cdot \text{D}_{t} \theta_{n}$$
+
+$$(\text{D}_{t} x_{n})^{2} = \Sigma \{ l_{n}^{2} \cos^{2} \theta_{n} \cdot (\text{D}_{t} \theta_{n})^{2} \} + h_{n}^{2} \cos^{2} \theta_{n} \cdot (\text{D}_{t} \theta_{n})^{2}$$
+$$+ 2 \Sigma (l_{n} \cos \theta_{n} \text{D}_{t} \theta_{n}) h_{n} \cos \theta_{n} \text{D}_{t} \theta_{n}$$

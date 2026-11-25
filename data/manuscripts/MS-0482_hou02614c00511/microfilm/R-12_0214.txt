@@ -1,0 +1,34 @@
+[pn]52[/pn]
+$a = a \bar{j} 0 + a \cdot [ (a \bar{j} 1) \cdot \bar{a} ] \Upsilon + a \cdot (\bar{a} \Upsilon \cdot \bar{a}) \Upsilon$. Finally, $a = a \cdot a \Upsilon + a \cdot (a \bar{j} 1)$.
+But $a \cdot (\bar{a} \bar{j} 1) = a \cdot (\bar{a} \bar{j} 1) \cdot (\bar{a} \Upsilon \cdot \bar{a}) \Upsilon + a \cdot (\bar{a} \bar{j} 1) \{ [ (a \bar{j} 1) + a ] \bar{j} 1 \}$
+And [del]$a \cdot (\bar{a} \bar{j} 1) \{ [ (a \bar{j} 1) + a ] \bar{j} 1 \}$[/del]
+[del]$= a \cdot (\bar{a} \bar{j} 1) \cdot (\bar{a} \Upsilon \cdot \bar{a}) \Upsilon +$[/del] $a \cdot \{ \bar{a} \cdot [ (a \bar{j} 1) + a ] \bar{j} 1 \}$
+$= [del]a \cdot (\bar{a} \bar{j} 1) \cdot (\bar{a} \Upsilon \cdot \bar{a}) \Upsilon +[/del] a \cdot \{ \bar{a} (a \bar{j} 1) \bar{j} 1 \}$
+$= [del]a \cdot (\bar{a} \bar{j} 1) \cdot (\bar{a} \Upsilon \cdot \bar{a}) \Upsilon +[/del] a \cdot (\bar{a} \bar{j} 1) \cdot (a \bar{j} 1 \bar{j} 1)$
+
+Now $(1 \bar{j} 1)_{ik} = \Pi_j (1_{ij} + 1_{jk})$ and if there are more than two objects in the
+universe, $j$ may be so taken that $1_{ij} = 0$ and $1_{jk} = 0$, so that $1 \bar{j} 1 = 0$. Hence
+the last line of the formula
+$= [del]a \cdot (\bar{a} \bar{j} 1) \cdot (\bar{a} \Upsilon \cdot \bar{a}) \Upsilon +[/del] a \cdot (\bar{a} \bar{j} 1) \cdot (a \bar{j} 0)$
+$= [del]a \cdot (\bar{a} \bar{j} 1) \cdot (\bar{a} \Upsilon \cdot \bar{a}) \Upsilon +[/del] a \cdot (\bar{a} \bar{j} 1) \cdot (a \bar{j} 1 \cdot \Upsilon)$
+$= [del]a \cdot (\bar{a} \bar{j} 1) \cdot (\bar{a} \Upsilon \cdot \bar{a}) \Upsilon +[/del] a \cdot (\bar{a} \bar{j} 1) \cdot (a \bar{j} 1) \cdot (a \bar{j} \Upsilon)$
+$= [del]a \cdot (\bar{a} \bar{j} 1) \cdot (\bar{a} \Upsilon \cdot \bar{a}) \Upsilon +[/del] a \cdot (\bar{a} \bar{j} 1) \cdot (a \bar{j} 1)$
+$= [del]a \cdot (\bar{a} \bar{j} 1) \cdot (\bar{a} \Upsilon \cdot \bar{a}) \Upsilon +[/del] a \cdot (\bar{a} \cdot a \bar{j} 1)$
+$= [del]a \cdot (\bar{a} \bar{j} 1) \cdot (\bar{a} \Upsilon \cdot \bar{a}) \Upsilon +[/del] a \cdot (0 \bar{j} 1)$
+
+But if there is more than one object in the universe $0 \bar{j} 1 = 0$ so that
+$a (\bar{a} \bar{j} 1) = a \cdot (\bar{a} \bar{j} 1) \cdot (\bar{a} \Upsilon \cdot \bar{a}) \Upsilon$ and thus
+$a = a \bar{j} 0 + a \cdot [ (a \bar{j} 1) \cdot \bar{a} ] \Upsilon + a \cdot (\bar{a} \Upsilon \bar{a}) \Upsilon \cdot a \Upsilon + a \cdot (\bar{a} \bar{j} 1)$.
+
+[del]Now we have the general formula $(l + b) \bar{j} s = \sum_F (l \bar{j} p) \cdot (b \bar{j} q) \cdot (p \cdot q = s)$[/del]
+[del]We apply this to find $a \bar{j} 1$.[/del] This is the meaning of the symbol $\text{D}\bar{\text{A}}\bar{\text{B}}\bar{\text{T}}\text{O}$.
+Since, $\bar{a}$ includes precisely what $a$ excludes, [del]and vice versa[/del],
+$\bar{a} = \text{D}\bar{\text{A}}\bar{\text{B}}\bar{\text{T}}\text{O} = \bar{a} \bar{j} 0 + \bar{a} \cdot [ (\bar{a} \bar{j} 1) \cdot a ] \Upsilon + \bar{a} (a \Upsilon \cdot a) \Upsilon \cdot \bar{a} \Upsilon + \bar{a} \cdot (a \bar{j} 1)$
+[ins]Here the fifth character corresponds to the first term, the fourth character to the second, etc.[/ins]
+
+[del]Hence, $a \cdot 1 = (\bar{a} \bar{j} 0) \Upsilon + \{ \bar{a} \cdot [ (\bar{a} \bar{j} 1) \cdot a ] \Upsilon \} \Upsilon + [ \bar{a} \bar{a} \Upsilon \cdot (a \cdot a \Upsilon) \Upsilon ] \Upsilon + [ \bar{a} \cdot (a \bar{j} 1) ] \Upsilon$[/del]
+
+[u]Now the first term $(\bar{a} \bar{j} 0) \Upsilon = \bar{a} \bar{j} 0$.[/u] [del]For $(\bar{a} \bar{j} 0) \Upsilon$[/del] For by [del]using[/del] a continually useful
+associative formula $(\bar{a} \bar{j} 0) \Upsilon = \bar{a} \bar{j} 0 \Upsilon$; and $0 \Upsilon = 0$; so that $(\bar{a} \bar{j} 0) \Upsilon = \bar{a} \bar{j} 0$.
+
+[del]On the other hand, $l \bar{j} b < l \Upsilon$ unless $b = 0$. Consequently, $\Upsilon \bar{j} 1 < \Upsilon \Upsilon$. But $1 \bar{j} 1$.[/del]

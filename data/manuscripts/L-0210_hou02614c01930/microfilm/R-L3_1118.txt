@@ -1,0 +1,29 @@
+[pn]page 2[/pn]
+
+[u]First Half[/u]
+
+By (3), $a\cdot c \prec c$
+" " $b\cdot c \prec c$
+
+[1] $\therefore$ by (2), $a\cdot c + b\cdot c \prec c$
+
+By (3), $a\cdot c \prec a$, and by (4), $a \prec a+b \therefore a\cdot c \prec a+b$
+" " $b\cdot c \prec b$ " " $b \prec a+b \therefore b\cdot c \prec a+b$
+
+[2] $\therefore$ by (2), $a\cdot c + b\cdot c \prec a+b$
+
+From [1] and [2], by (2), $a\cdot c + b\cdot c \prec (a+b)\cdot c$
+
+If $(a+b)\cdot c \prec a\cdot c + b\cdot c$ ([del]the vinculum or obelus is[/del] [ins]the sign of negation[/ins])
+
+there must be something, m, such that
+
+[3] $m \prec (a+b)\cdot c$
+
+while
+
+[4] $m \prec a\cdot c + b\cdot c$
+
+For the definition of the copula, $\prec$, is that $y \prec z$ means merely that if $x \prec y$ then $x \prec z$ and that with, whatever $x, y, z,$ and $u$ may be. Hence if $y \prec z$ there must be some $x$ such that $x \prec y$ while $x \prec z$. To be sure, it would seem that I only had a right to say $x \prec z$; but
+
+[fig]Two lines of logical notation: x < y over x' < y'[/fig]

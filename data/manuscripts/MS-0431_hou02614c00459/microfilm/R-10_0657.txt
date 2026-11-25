@@ -1,0 +1,32 @@
+[pn]Logic
+III
+99[/pn]
+
+$$\begin{array}{c|c|c|c|c}
+x \propto x & x \propto y & x \lambda y & x \mathbb{P} y & x \propto x \\
+\hline
+x \propto x & x \propto y & x \lambda y & x \mathbb{P} y & x \propto x \\
+x \propto \bar{x} & x \propto \bar{y} & x \lambda \bar{y} & x \mathbb{P} \bar{y} & x \propto \bar{x} \\
+\bar{x} \propto x & \bar{x} \propto y & \bar{x} \lambda y & \bar{x} \mathbb{P} y & \bar{x} \propto x \\
+\bar{x} \propto \bar{x} & \bar{x} \propto \bar{y} & \bar{x} \lambda \bar{y} & \bar{x} \mathbb{P} \bar{y} & \bar{x} \propto \bar{x} \\
+\hline
+x \propto x \propto x & x \propto y \propto y & x \lambda y \lambda y & x \mathbb{P} y \mathbb{P} y & x \propto x \\
+x \propto \bar{x} \propto x & x \propto \bar{y} \propto y & x \lambda \bar{y} \lambda y & x \mathbb{P} \bar{y} \mathbb{P} y & x \propto \bar{x} \\
+\bar{x} \propto x \propto x & \bar{x} \propto y \propto y & \bar{x} \lambda y \lambda y & \bar{x} \mathbb{P} y \mathbb{P} y & \bar{x} \propto x \\
+\bar{x} \propto \bar{x} \propto x & \bar{x} \propto \bar{y} \propto y & \bar{x} \lambda \bar{y} \lambda y & \bar{x} \mathbb{P} \bar{y} \mathbb{P} y & \bar{x} \propto \bar{x} \\
+\hline
+x \propto x \propto \bar{x} & x \propto y \propto \bar{y} & x \lambda y \lambda \bar{y} & x \mathbb{P} y \mathbb{P} \bar{y} & x \propto x \\
+x \propto \bar{x} \propto \bar{x} & x \propto \bar{y} \propto \bar{y} & x \lambda \bar{y} \lambda \bar{y} & x \mathbb{P} \bar{y} \mathbb{P} \bar{y} & x \propto \bar{x} \\
+\bar{x} \propto x \propto \bar{x} & \bar{x} \propto y \propto \bar{y} & \bar{x} \lambda y \lambda \bar{y} & \bar{x} \mathbb{P} y \mathbb{P} \bar{y} & \bar{x} \propto x \\
+\bar{x} \propto \bar{x} \propto \bar{x} & \bar{x} \propto \bar{y} \propto \bar{y} & \bar{x} \lambda \bar{y} \lambda \bar{y} & \bar{x} \mathbb{P} \bar{y} \mathbb{P} \bar{y} & \bar{x} \propto \bar{x} \\
+\hline
+\bar{x} \propto x \propto \bar{x} \propto x & \bar{x} \propto y \propto \bar{y} \propto y & \bar{x} \lambda y \lambda \bar{y} \lambda y & \bar{x} \mathbb{P} y \mathbb{P} \bar{y} \mathbb{P} y & \bar{x} \propto x \\
+\bar{x} \propto \bar{x} \propto \bar{x} \propto x & \bar{x} \propto \bar{y} \propto \bar{y} \propto y & \bar{x} \lambda \bar{y} \lambda \bar{y} \lambda y & \bar{x} \mathbb{P} \bar{y} \mathbb{P} \bar{y} \mathbb{P} y & \bar{x} \propto \bar{x} \\
+x \propto x \propto \bar{x} \propto x & x \propto y \propto \bar{y} \propto y & x \lambda y \lambda \bar{y} \lambda y & x \mathbb{P} y \mathbb{P} \bar{y} \mathbb{P} y & x \propto x \\
+x \propto \bar{x} \propto \bar{x} \propto x & x \propto \bar{y} \propto \bar{y} \propto y & x \lambda \bar{y} \lambda \bar{y} \lambda y & x \mathbb{P} \bar{y} \mathbb{P} \bar{y} \mathbb{P} y & x \propto \bar{x} \\
+\hline
+\bar{x} \propto x \propto \bar{x} \propto \bar{x} & \bar{x} \propto y \propto \bar{y} \propto \bar{y} & \bar{x} \lambda y \lambda \bar{y} \lambda \bar{y} & \bar{x} \mathbb{P} y \mathbb{P} \bar{y} \mathbb{P} \bar{y} & \bar{x} \propto x \\
+\bar{x} \propto \bar{x} \propto \bar{x} \propto \bar{x} & \bar{x} \propto \bar{y} \propto \bar{y} \propto \bar{y} & \bar{x} \lambda \bar{y} \lambda \bar{y} \lambda \bar{y} & \bar{x} \mathbb{P} \bar{y} \mathbb{P} \bar{y} \mathbb{P} \bar{y} & \bar{x} \propto \bar{x} \\
+x \propto x \propto \bar{x} \propto \bar{x} & x \propto y \propto \bar{y} \propto \bar{y} & x \lambda y \lambda \bar{y} \lambda \bar{y} & x \mathbb{P} y \mathbb{P} \bar{y} \mathbb{P} \bar{y} & x \propto x \\
+x \propto \bar{x} \propto \bar{x} \propto \bar{x} & x \propto \bar{y} \propto \bar{y} \propto \bar{y} & x \lambda \bar{y} \lambda \bar{y} \lambda \bar{y} & x \mathbb{P} \bar{y} \mathbb{P} \bar{y} \mathbb{P} \bar{y} & x \propto \bar{x}
+\end{array}$$

@@ -1,0 +1,37 @@
+$$D_s \chi = (E-2A) + 2A (\log s + \log q) + 2A \frac{s+q}{s} + B s^{-2}$$
+$$+ C q(s+q) + C s q$$
+
+$$D_q D_s \chi = \frac{2A}{q} + \frac{2A}{s} [del]- 2 B s[/del] + 2C(s+q) + [del]C q[/del]$$
+
+$$D_s D_q D_s \chi = -\frac{2A}{s^2} + 2C$$
+
+$$D_q^2 D_s^2 \chi = 0$$
+
+$$(E-2A) + 2A \log r + [del]2A (\frac{r^2}{s^2}[/del]$$
+$$+ 2A [del]\frac{r^2}{s^2}[/del] (1 + \frac{q}{s}) + B \frac{1}{s^2} + 2C [del]s q[/del] [ins]r^2[/ins] + C q^2$$
+
+$$[del]\psi'_z = A \frac{1}{z} + C[/del]$$
+$$\psi_z = A \log z + C z$$
+$$\psi_z = A \log z + B \frac{1}{z} + E$$
+$$\psi_{\frac{r^2}{v^2}} = A \log r^2 - A \log v^2 + C r^2 \frac{1}{v^2}$$
+$$[del]\psi_{r^2 v^2}[/del] = A \log r^2 + A \log v^2 + B \frac{1}{r^2} \frac{1}{v^2} + E$$
+$$+ 2A \frac{1}{v^2} + 2C r^2$$
+[u]$$2 r^2 \psi'_{r^2 v^2}$$[/u]
+
+$$\begin{array}{c}
+C a^2 + B \frac{1}{a^2} + 2A = 0 \\
+C b^2 + B \frac{1}{b^2} + 2A = 0
+\end{array}$$
+$$\begin{array}{l}
+B = a^2 b^2 C \\
+2A = -(a^2 + b^2) C
+\end{array}$$
+
+$$\begin{array}{l}
+E + 2C (A \log a^2 + a^2) = -\frac{1}{2} V \\
+E + 2C (A \log b^2 + b^2) = 0
+\end{array}$$
+$$[del]E = -q[/del] [ins]E =[/ins] [del]C[/del]$$
+$$E = -2C (b^2 - (a^2 + b^2))$$
+
+[pn]29[/pn] [pn]1243[/pn]

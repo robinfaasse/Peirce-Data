@@ -1,0 +1,23 @@
+[pn]41[/pn]
+
+(4) The repetition of an antecedent to a consequent of a
+consequent or to an inantecedent of a consequent
+or the repetition of an inconsequent as inconsequent
+to an inantecedent of an inantecedent or to a consequent
+of an inantecedent makes no difference.
+
+That is,
+[u]x[/u] | [u]y[/u] | z = [u]x[/u] | [u]y[/u] | [u]x[/u] | z
+[u]x[/u] | (y | [u]z[/u]) = [u]x[/u] | [([u]x[/u] | y) | [u]z[/u]]
+x | [u]y[/u] | [u]z[/u] = x | [u]z[/u] | [u]y[/u] | [u]z[/u]
+[u]x[/u] | y | z = [u]x[/u] | (y | [u]z[/u]) | z
+[u]x[/u] | = [u]x[/u] | [u]x[/u] |
+[u]y[/u] = [u]y[/u] | [u]y[/u]
+[u]x[/u] | [u]y[/u] | = [u]x[/u] | ([u]x[/u] | [u]y[/u])
+[del][u]x[/u] | [u]y[/u] | = [u]x[/u] | [u]y[/u] | [u]x[/u] | [u]y[/u] |[/del]
+[u]x[/u] | y = [u]x[/u] | [u]y[/u] | y
+[del][u]x[/u] | [u]x[/u] = x[/del]
+x | [u]y[/u] = x | [u]x[/u] | [u]y[/u]
+[del][u]x[/u] | [u]y[/u] |[/del]
+x | [u]y[/u] | z = ([u]x[/u] | y) | [u]y[/u] | z
+[u]x[/u] | y | z | y = [u]x[/u] | [u]y[/u] | z | x

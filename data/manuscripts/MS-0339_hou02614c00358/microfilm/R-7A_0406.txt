@@ -1,0 +1,36 @@
+$a_{1} b_{1}$ means some $a$ is $b$
+$a_{1} \prec b_{1}$ means every $a$ is $b$
+$a_{1} \infty b_{1}$ means something is $a$ & $b$
+$a_{1} \infty \prec b_{1}$ means everything is $a$ or $b$
+
+$a \prec x$
+$a_{1} \prec x_{1}$ [del]Some[/del] Nothing is $a$
+
+$a \prec b \prec x_{1}$ No $a$ is $b$
+$= a_{1} b_{1} \prec x_{1}$
+
+$a_{1} (b_{1} \prec x_{1})$ Some $a$ is not $b$
+$= (a_{1} \prec b_{1}) \prec x_{1}$
+
+$a \prec b \prec c$ Whatever is $a$ is $b$ & $c$
+$= a \cdot b \prec c$ If both $a$ and $b$ are $c$
+
+$a \cdot (b \prec c)$     $a \cdot (\overline{b} + c)$
+$(a \prec b) \prec c$     $\overline{a \overline{b}} \prec c$
+
+$s \dagger m$
+$(\overline{u} \dagger p) (s \overline{p} \dagger q)$
+
+$s \overline{p} (\overline{u} \dagger p) \dagger q$
+$= (\overline{u} \dagger q)$
+
+$s \dagger (\overline{u} \dagger p) \dagger q$
+$= s \overline{m} \dagger q$
+$(s \dagger m) \dagger q$
+
+$(a \dagger p) (s \dagger \overline{p})$
+
+$a \dagger b \dagger c$
+$(a \dagger b) \dagger c$     $a \dagger (b \dagger c)$
+
+[fig]Venn diagram with three intersecting circles labeled s, m, and p[/fig]

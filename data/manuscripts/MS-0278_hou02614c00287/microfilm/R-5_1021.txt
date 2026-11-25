@@ -1,0 +1,36 @@
+[u]Distinct algebras[/u]
+
+[del]First order[/del]
+
+[u]Single[/u]   [u]2[/u]
+
+[u]Double[/u]  From single  1
+        Other idemp. 1
+        Nilpotent    [u]1[/u]
+                     [u]3[/u]
+
+[u]Triple[/u]  From double  1
+        Nilpotent    [u]5[/u]
+                     [u]6[/u]
+
+[u]Quadruple[/u] From triple [del]5[/del] [ins]5[/ins]
+          Other idemp. 4
+          Nilp.       [u]10[/u]
+                      [u][del]19[/del][/u]
+
+[u]Quintuple[/u] From quadruple 10
+          Other idempotent 2
+          Nilpotent   [u]43[/u]
+                      [u]55[/u]
+
+[space]
+
+$K^5$ $o_5$
+$q$ $r$ $s$ $t$ $w$ $x$ $y$
+$z$ $aa$ $ab$ $ad$ $ae$
+$af$ $ai$ $aj$ $ak$ $al$
+$am$ $an$ $ao$ $ap$
+$aq$ $as$ $at$ $au$ $av$
+$ax$ $az$
+$ba$ $bb$ $bc$ $bd$ $be$ $bf$
+[del]$bg$[/del] $bg$ $G$ $bp$ $br$

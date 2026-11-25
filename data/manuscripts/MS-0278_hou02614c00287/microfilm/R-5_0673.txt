@@ -1,0 +1,58 @@
+[fig]Geometric diagram with lines intersecting at points labeled A, B, C, P, and others, with curved arrows indicating relationships.[/fig]
+
+[marginalia]
+[pn]12[/pn]
+[/marginalia]
+
+$\underline{x} A + \bar{x} B$
+$p = p B + \bar{p} C$
+$y \underline{x} A + y \bar{x} B$
+$+ \bar{y} p B + \bar{y} \bar{p} C = \frac{p x}{p + x - 1} A + \frac{\bar{p} \bar{x}}{p + x - 1} C$
+$y \bar{x} + \bar{y} p = 0$
+$y = \frac{p}{p + x - 1}$  $\bar{y} = \frac{x - 1}{p + x - 1}$
+
+$u \underline{x} A + u \bar{x} B$
+$+ \bar{u} q B + \bar{u} \bar{q} C$
+
+$\underline{x} A + \bar{x} B$
+$p B + \bar{p} C$
+
+$y \underline{x} A + y \bar{x} B$
+$+ \bar{y} p B + \bar{y} \bar{p} C$
+
+$y \bar{x} + \bar{y} p = 0$
+$y \bar{x} + p = y p$
+$y = \frac{p}{x + p - 1}$  $\bar{y} = \frac{- \bar{x}}{p - \bar{x}}$
+
+$\frac{p x}{p - \bar{x}} A - \frac{\bar{x} \bar{p}}{p - \bar{x}} C$
+$\frac{p x}{p + x - 1} A + \frac{p + x - 1 - p x}{p + x - 1} C$
+
+$u \underline{x} A + \bar{u} \bar{x} B$
+$+ \bar{u} q B + \bar{u} \bar{q} C$
+
+$= \frac{v p x}{p + x - 1} A$
+$+ \bar{v} r B$
+$+ \frac{\bar{v} p + v x - v - v p x}{p + x - 1} C$
+$+ \bar{v} \bar{r} C$
+
+$x u (p + x - 1) = v p$
+$v = (1 + \frac{1 - x}{p}) u$  $\bar{v} = 1 - u + \frac{1 - x}{p} u$
+
+$u - u x + q - u q = r - u r + \frac{1 - x}{p} r$
+$u (1 - x - q + r - \frac{1 - x}{p} r) = r - q$
+$u = \frac{r - q}{r - q + 1 - x - 1 - x / p r}$
+$\bar{u} = \frac{1 - x + \frac{1 - x}{p} r}{r - q + 1 - x + \frac{1 - x}{p} r}$
+
+$= \frac{v p x}{p + x - 1} A - \frac{\bar{v} \bar{p} \bar{x}}{p + x - 1} C$
+$+ \bar{v} r B + \bar{v} \bar{r} C$
+$u x = \frac{v p x}{p + x - 1}$  $u = v \frac{p}{p + x - 1}$  $\bar{u} = \frac{p + x - 1 - v p}{p + x - 1}$
+
+$u \bar{x} + \bar{u} q = \bar{v} r$
+$v p - v p x + p q + x q - q - v p q = p r + r x - r$
+$- v p r - v r x + v r$
+$v (p - p x - p q + p r + r x - r) = p r + r x - r + q - q x - p q$
+$v = \frac{(r - q) (p + x - 1)}{r (p + x - 1) - p (q + x - 1)}$
+$\bar{v} = \frac{(q - p) (p + x - 1)}{r (p + x - 1) - p (q + x - 1)}$
+
+$= \frac{(p + x - p x - 1) (r - q) (p + x - 1) + (1 - r) (q - p) (p + x - 1)}{r (p + x - 1) - p (q + x - 1)}$
+$= \frac{\frac{p + x - 1}{p + x - p x} (r - q) (p + x - 1) - r (p + x - 1) + q (p + x - 1)}{}$

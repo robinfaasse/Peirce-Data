@@ -1,0 +1,22 @@
+[marginalia]
+V. F. D.
+3
+[/marginalia]
+
+$\Sigma = \Delta^{-1}$, so that $\Delta \underline{u}_n = 1$, $\Sigma \underline{u}_n = [-\infty +] 1$, where
+the square brackets enclose an application to the result
+of the operation $1$, not to this operation itself, and
+$\Sigma_n \underline{u}_n = \underline{u}_{n-1} + \underline{u}_{n-2} + \text{etc} + C_1 = C_2 - \underline{u}_n - \underline{u}_{n+1} - \underline{u}_{n+2} - \text{etc}$,
+where $C_2 - C_1 = \sum_{-\infty}^{+\infty} \underline{u}_n$, so likewise we should may genera-
+lize the ordinary use of $\Gamma$ (which use is foreign to this calculus)
+so that $\Gamma = \Lambda^{-1}$, and $\Lambda \underline{u}_n = 1$, $\Gamma \underline{u}_n = [-\infty \times] 1$, and
+$\Gamma_n \underline{u}_n = C_3 \underline{u}_{n-1} \cdot \underline{u}_{n-2} \cdot \underline{u}_{n-3} \cdot \text{etc} = C_4 \frac{1}{\underline{u}_n \cdot \underline{u}_{n+1} \cdot \underline{u}_{n+2} \cdot \text{etc}}$,
+where $C_4 / C_3 = \Gamma_{-\infty}^{+\infty} \underline{u}_n$. The objection to the employment
+of $\Pi$ instead of $\Gamma$ is that many [del]modern[/del] mathematicians
+assume $\Pi \underline{u}_n = \underline{u}_n \cdot \underline{u}_{n-1} \cdot \underline{u}_{n-2} \cdot \text{etc}$, so that they have the
+awkward formula, $\Pi e^{B_n} = e^{\Sigma B_{n+1}}$. Boole uses the curiously
+inconsistent notation, $\underline{u}_n^{(m)} = \underline{u}_n \cdot \underline{u}_{n-1} \cdot \underline{u}_{n-2} \dots \underline{u}_{n-m+1}$ and
+$\underline{u}_n^{(-m)} = \frac{1}{\underline{u}_n \cdot \underline{u}_{n+1} \cdot \underline{u}_{n+2} \dots \underline{u}_{n+m-1}}$, [del]without apparently remarking
+that the ratio of these two[/del] But there is considerable gain
+in simplicity of expression, both in this case and in others, if, while
+we use the note of admiration in its usual mathematical sense, we

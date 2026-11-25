@@ -1,0 +1,35 @@
+FL 96
+We define multiplication and addition as follows:
+$yz = \log_x[(x^y)^z]$ [and if there [ins]is[/ins] [del]is[/del] indeterminacy such a value is to be taken as to make $yz$ independent of $x$.]
+$y + u = \log_y \log_x [(x^y)^{y^u}]$
+We can go no further since neither $\log_x (x^u + x^v)$ nor $x^{\log_x u \cdot \log_x v}$ is in-
+dependent of $x$.
+These however, are not mere definitions of multiplication and
+addition. They are important properties of involution. Namely,
+$\log_x [(x^y)^z]$ is independent of $x$ or $\log_x [(x^y)^z] = \log_\xi [(\xi^y)^z]$
+$\log_y \log_x [(x^y)^{y^u}] = \log_\eta \log_\xi [(\xi^\eta)^{\eta^u}]$
+We also have the facts that in $x^y = z$, $x$ and $y$ may be any
+numbers whatever; [del]but z can only be certain or[/del] but after either
+$x$ or $y$ is chosen $z$ can only be one of a [del]peculiar[/del] [ins]suitable[/ins] set of numbers.
+[fig]figure[/fig] For $x=0$ $z$ is $0$ or $1$
+(perhaps if $y=0$ $z$ is any number)
+For $x=1$ $z$ is $1$
+For $x=2$ $z$ is $1, 2, 4, 8, \text{etc}$
+For $x=3$ $z$, is $1, 3, 9, 27 \text{etc}$
+For $y=0$ $z$ is $1$ (Perhaps if $x=0$, $z$ is any number)
+For $y=1$ $z$ is any number
+For $y=2$ $z$ is $0, 1, 4, 9, 16, 25, \text{etc}$
+For $y=3$ $z$ is $0, 1, 8, 27, 64, 125, \text{etc.}$
+
+[fig]figure[/fig]
+$1.4^2$ $10^6$
+$1.4^2$ $1 000 000$
+$\log_x z = y$
+$\log_x (x^y) = y$
+$\log_{[fig]figure[/fig]} z = y$
+$x^y = z$
+$x^{\log_x z} = z$
+[ins]$\ast$[/ins] $(\sqrt[y]{z})^y = z$
+$x = \sqrt[y]{z}$
+$x = \log_{\sqrt[y]{z}} \sqrt[y]{z}$
+$x = \sqrt[y]{(x^y)}$

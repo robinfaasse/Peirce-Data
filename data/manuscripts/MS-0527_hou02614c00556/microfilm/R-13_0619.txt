@@ -1,0 +1,24 @@
+[pn]178[/pn]
+
+[ins][del]IV[/del][/ins] — _Second-intentional Logic._ [ins]𝘹[/ins]
+
+[pn]398[/pn] Let us now consider the logic of terms taken in collective senses. Our notation, so far as we have developed it, does not show us even how to express that two indices, $i$ and $j$, denote one and the same thing. We may adopt a special token of second intention, say $1$, to express identity, and may write $1_{ij}$. But this relation of identity has peculiar properties. The first is that if $i$ and $j$ are identical, whatever is true of $i$ is true of $j$. This may be written
+$\Pi_{i}\Pi_{j}\{\overline{1}_{ij} + \overline{x}_{i} + x_{j}\}$.
+The use of the general index of a token, $x$, here, shows that the formula is iconical. The other property is that if everything which is true of $i$ is true of $j$, then $i$ and $j$ are identical. This is most naturally written as follows: Let the token, $q$, signify the relation of a quality, character, fact, or predicate to its subject. Then the property we desire to express is
+$\Pi_{i}\Pi_{j}\Sigma_{k}(1_{ij} + \overline{q}_{ki}q_{kj})$.
+And identity is defined thus $1_{ij} = \Pi_{k}(q_{ki}q_{kj} + \overline{q}_{ki}\overline{q}_{kj})$.
+That is, to say that things are identical is to say that every predicate is true of both or false of both.[ins]𝘹𝘹[/ins] It may seem circuitous to introduce the idea of a quality to express identity; but that impression will be modified by reflecting that $q_{ki}q_{kj}$ merely means that $i$ and $j$ are both within the class or collection $k$. If we please, we can dispense with the token $q$, by using the index of a token and by referring to this in the Quantifier just as subjacent indices are referred to. That is to say, we may write $1_{ij} = \Pi_{x}(x_{i}x_{j} + \overline{x}_{i}\overline{x}_{j})$.
+
+[pn]399[/pn] The properties of the token $q$ must now be examined. These may all be summed up in this, that taking any individuals $i_{1}$, $i_{2}$, $i_{3}$, etc., and any individuals, $j_{1}$, $j_{2}$, $j_{3}$, etc., there is a collection, class, or predicate embracing all the $i$'s and excluding all the $j$'s except such as are identical with some one of the $i$'s. This might be written
+$(\Pi_{\alpha}\Pi_{i_{\alpha}})(\Pi_{\beta}\Pi_{j_{\beta}})\Sigma_{k}(\Pi_{\alpha}\Sigma_{i_{\alpha}'})\Pi_{l}\ q_{ki_{\alpha}}(\overline{q}_{kj_{\beta}} + q_{li_{\alpha}'}q_{lj_{\beta}} + \overline{q}_{li_{\alpha}'}\overline{q}_{lj_{\beta}})$,
+where the $i$'s and the $i'$'s are the same lot of objects. This notation presents indices of indices. The $\Pi_{\alpha}\Pi_{i_{\alpha}}$ shows that we are to take any collection whatever of $i$'s, and then any $i$ of that collection. We are then to do the same with the $j$'s. We can then find a quality $k$ such that the $i$ taken has it, and also such that the $j$ taken wants it unless we can find an $i$ that is identical with the $j$ taken. The necessity of some kind of notation of this description in treating of classes collectively appears from this consideration: that in such discourse we are neither
+
+[marginalia]
+[ins]𝘹[/ins] [u]\[see 403 H\][/u] ✓
+[ins]𝘹𝘹[/ins] [u]cf. Principia Mathematica[/u]
+[/marginalia]
+
+[marginalia]
+Wittgenstein ✓
+[fig]tick mark[/fig]
+[/marginalia]

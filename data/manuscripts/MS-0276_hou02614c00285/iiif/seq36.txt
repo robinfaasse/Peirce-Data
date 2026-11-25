@@ -1,0 +1,34 @@
+[fig]square divided into four sections with top left section shaded[/fig] [fig]square divided into four sections with top sections shaded[/fig]
+
+[fig]square divided into four sections labeled m, $\bar{m}$, n, $\bar{n}$[/fig]
+m $\bar{m}$
+n
+$\bar{n}$
+
+[fig]square divided into four sections with top right and bottom left sections shaded[/fig]
+
+$\frac{mn}{n\bar{m}}$ = $\frac{m}{\bar{m}}\frac{n}{n}$
+
+[del]m[/del] $\cdot$ $\frac{m}{\bar{m}}$ $\cdot$ $\frac{n}{\bar{n}}$
+
+$\frac{mn + m\bar{n}}{\bar{m}n + \bar{m}\bar{n}}$ $\frac{mn + \bar{m}n}{m\bar{n} + \bar{m}\bar{n}}$
+
+4 3
+5 [fig]square divided into four sections labeled 20, 15, 8, 6 with 20 and 6 shaded[/fig]
+2
+
+$\frac{4}{3} \cdot \frac{5}{2} = \frac{20}{6}$
+
+$\frac{5}{2} + \frac{4}{3} = \frac{15 + 8}{6}$ AD = BC
+[fig]square divided into four sections labeled A, B, C, D[/fig]
+$\frac{5}{2} + \frac{4}{3}$ or A = D
+
+$AD^2 + ABC$
+$A(BC - AD)$
+$= (BC - AD)D$
+
+$\frac{A}{D} = \frac{A + B}{C + D} \frac{A + C}{B + D} = \frac{A^2 + BC}{D^2 + BC}$
+
+$ABC + [del]ABD[/del] + [del]ACD[/del] + AD^2 = A^2D + [del]ABD[/del] + [del]ACD[/del] + BCD$
+
+$A(BC + D^2) = (A^2 + BC)D$ $\frac{A}{D}$

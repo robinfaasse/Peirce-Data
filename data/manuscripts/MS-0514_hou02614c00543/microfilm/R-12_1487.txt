@@ -1,0 +1,59 @@
+[fig]Sketch of a tetrahedron[/fig]
+
+[fig]Sketch of intersecting lines[/fig]
+
+[fig]Sketch of a tetrahedron with diagonals[/fig]
+
+[marginalia]
+3
+[/marginalia]
+
+[marginalia]
+2
+[/marginalia]
+
+[marginalia]
+68
+32
+[/marginalia]
+
+[marginalia]
+1
+[/marginalia]
+
+[marginalia]
+3
+16
+[/marginalia]
+
+[marginalia]
+3.416
+8
+251328
+36
+4
+651
+130
+[/marginalia]
+
+[marginalia]
+1 [del]square[/del]
+12 [del]shingles[/del]
+[/marginalia]
+
+[del]x[/del] y
+y z
+[del]x[/del] z
+
+x:y - y:x < [ins]z:x[/ins]
+y:z - z:y
+z:x - x:z
+
+x:y - y:x + z:t - t:z
+y:z - z:y + x:t - t:x
+z:x - x:z + y:t - t:y
+
+x:z - z:x - y:t + t:y
+x:x + z:z + y:y + t:t
+[del]x:x[/del]
+UVW = 1

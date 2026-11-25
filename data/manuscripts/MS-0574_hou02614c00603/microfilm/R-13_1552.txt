@@ -1,0 +1,20 @@
+[marginalia]
+$G$, Greater than
+[/marginalia]
+
+[pn](2)[/pn]
+$gg \prec g$
+Greater than is a transitive relation
+$gg \prec g$     $\breve{g}\breve{g} \prec \breve{g}$     $\overline{g} \prec \overline{g} \dagger \overline{g}$     $\breve{\overline{g}} \prec \breve{\overline{g}} \dagger \breve{\overline{g}}$
+$g \prec \breve{\overline{g}} \dagger g$     $\breve{g} \prec g \dagger \breve{g}$     $\breve{g}\overline{g} \prec \overline{g}$     $g\breve{g} \prec \breve{g}$
+? — $gg \prec \breve{\overline{g}} \dagger g$
+$1 \prec \breve{\overline{g}} \dagger \overline{g} \dagger g$     $1 \prec \breve{\overline{g}} \dagger \breve{\overline{g}} \dagger g$     $\breve{g}gg \prec \overline{1}$     $\breve{g}\breve{g}\overline{g} \prec \overline{1}$
+$1 \prec g \dagger \breve{\overline{g}} \dagger \breve{g}$     $1 \prec \breve{g} \dagger \overline{g} \dagger \breve{g}$     $g\breve{g}\overline{g} \prec \overline{1}$     $gg\breve{\overline{g}} \prec \overline{1}$
+
+Coroll
+$gg \prec \breve{\overline{g}} \dagger g$     $\breve{g}\breve{g} \prec \overline{g} \dagger \breve{g}$
+
+[marginalia]
+From this coroll.
+$\propto$ (1) we get (2)
+[/marginalia]

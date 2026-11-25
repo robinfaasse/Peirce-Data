@@ -1,0 +1,25 @@
+$$y_{n+1} = b x_{n+1} + c y_n$$
+$$x_n = c x_{n+1} + b y_n$$
+
+Transposing
+$$-b x_{n+1} - y_{n+1} = -c y_n$$
+$$c x_{n+1} = x_n - b y_n$$
+
+Multiplying second by an indeterminate $\zeta$ and adding
+$$(b+c\zeta)x_{n+1} - y_{n+1} = [del]\frac{\zeta}{b+c\zeta}[/del] [ins]\frac{\zeta}{b+c\zeta}[/ins] \left[ (b+c\zeta)x_n - \frac{(b+\frac{c}{\zeta})(b+c\zeta)}{b+c\zeta} y_n \right]$$
+
+Put
+$$(b+\frac{c}{\zeta})(b+c\zeta) = 1$$
+$$\zeta = \frac{1-b^2-c^2}{2bc} \pm \sqrt{\frac{1+b^4+c^4-2b^2-2c^2-2b^2c^2}{4b^2c^2}}$$
+
+$$(b+c\zeta)x_n - y_n = C \left(\frac{b}{\zeta}+c\right)^{-n}$$
+$$(b+\frac{c}{\zeta})x_n - y_n = C' (b\zeta+c)^{-n}$$
+
+$$c(\zeta-\frac{1}{\zeta})x_n = C \left(\frac{b}{\zeta}+c\right)^{-n} - C' (b\zeta+c)^{-n}$$
+$$c(\zeta-\frac{1}{\zeta})y_n = C(b+\frac{c}{\zeta})\left(\frac{b}{\zeta}+c\right)^{-n} - C'(b+c\zeta)(b\zeta+c)^{-n}$$
+
+Now $y_0 = 1 \quad x_N = 0$
+$$C\left(\frac{b}{\zeta}+c\right)^{-N} - C'(b\zeta+c)^{-N} = 0$$
+$$c(\zeta-\frac{1}{\zeta}) = C(b+\frac{c}{\zeta}) - C'(b+c\zeta)$$
+$$= C \left[ (b+\frac{c}{\zeta}) - \left(\frac{b\zeta+c}{\frac{b}{\zeta}+c}\right)^N (b+c\zeta) \right]$$
+$$C = \frac{c(\zeta-\frac{1}{\zeta})}{b+\frac{c}{\zeta} - \left(\frac{b\zeta+c}{\frac{b}{\zeta}+c}\right)^N (b+c\zeta)}$$

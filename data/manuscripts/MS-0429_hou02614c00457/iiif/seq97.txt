@@ -1,0 +1,22 @@
+Note
+p 46
+2 356
+
+$2^{\underline{\text{nd}}}=$ Suppose $\underset{\sim}{v} \bigcirc \underset{\sim}{v} = \underset{\sim}{f}$ and $\underset{\sim}{f} \bigcirc \underset{\sim}{f} = \underset{\sim}{v}$. Then I will show
+that the operation is not associative. For on the one hand
+$(\underset{\sim}{v} \bigcirc \underset{\sim}{v}) \bigcirc \underset{\sim}{f} = \underset{\sim}{f} \bigcirc \underset{\sim}{f} = \underset{\sim}{v}$
+while on the other hand, if whether $\underset{\sim}{v} \bigcirc \underset{\sim}{f} = \underset{\sim}{v}$, so that
+$\underset{\sim}{v} \bigcirc (\underset{\sim}{v} \bigcirc \underset{\sim}{f}) = \underset{\sim}{v} \bigcirc \underset{\sim}{v} = \underset{\sim}{f}$,
+or whether $\underset{\sim}{v} \bigcirc \underset{\sim}{f} = \underset{\sim}{f}$, so that
+$\underset{\sim}{v} \bigcirc (\underset{\sim}{v} \bigcirc \underset{\sim}{f}) = \underset{\sim}{v} \bigcirc \underset{\sim}{f} = \underset{\sim}{f}$,
+in either case, the associative rule is broken.
+$3^{\underline{\text{rd}}}=$ Suppose $\underset{\sim}{v} \bigcirc \underset{\sim}{v} = \underset{\sim}{f} \bigcirc \underset{\sim}{f}$ and $\underset{\sim}{v} \bigcirc \underset{\sim}{f} = \underset{\sim}{f} \bigcirc \underset{\sim}{v}$. Then I will
+show that the operation is associative For otherwise it would be
+possible to give such values to $\underset{\sim}{p}, \underset{\sim}{q}, \underset{\sim}{r}$, that
+$\underset{\sim}{p} \bigcirc (\underset{\sim}{q} \bigcirc \underset{\sim}{r}) \ \cancel{\delta} \ (\underset{\sim}{p} \bigcirc \underset{\sim}{q}) \bigcirc \underset{\sim}{r}$,
+that is, [del]either $\underset{\sim}{p} \bigcirc \underset{\sim}{q} \bigcirc \underset{\sim}{r}$, or else while $\underset{\sim}{p} \bigcirc \underset{\sim}{q} \ \cancel{\delta} \ \underset{\sim}{r}$ or else[/del]
+[del]$\underset{\sim}{p} \ \cancel{\delta} \ \underset{\sim}{q} \bigcirc \underset{\sim}{r}$ while $\underset{\sim}{p} \bigcirc \underset{\sim}{q} = \underset{\sim}{r}$.[/del] But since $\underset{\sim}{v} \bigcirc \underset{\sim}{f} = \underset{\sim}{f} \bigcirc \underset{\sim}{v}$, it follows
+that the second side of the inequality would be equal to
+$\underset{\sim}{r} \bigcirc (\underset{\sim}{q} \bigcirc \underset{\sim}{p})$
+so that the inequality requires $\underset{\sim}{p} \ \cancel{\delta} \ \underset{\sim}{r}$. But then also [del]$\underset{\sim}{q} \bigcirc \underset{\sim}{p} \ \cancel{\delta}$[/del]
+[del]$\underset{\sim}{q} \bigcirc \underset{\sim}{r}$[/del] and consequently, the two assumed equations are inconsistent

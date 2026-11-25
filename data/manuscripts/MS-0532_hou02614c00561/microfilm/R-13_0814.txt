@@ -1,0 +1,24 @@
+[u]A⫫B[/u]
+[del]to signify[/del] [ins]signify[/ins] that if A is true B is true, [del]that[/del]
+is, that in no possible case is A true while
+B is false. Let
+[u]A⫫B⫫C[/u]
+mean that if A is true, then this is true: If
+B is true, C is true. This is only false, provided
+there is a possible case in which A is true
+and B⫫C false; that is, provided A and B
+are [ins]equally[/ins] both true while C is false. We see then
+that
+A⫫B⫫C = B⫫A⫫C.
+Let
+[u]A⫫B[/u]⫫C
+mean that if A⫫B is true, then C is true.
+This will be true in two cases, first [del]of[/del] when
+there is a possibility A⫫B is false, that is
+when it is possible that A is true while
+B is false, and second if C is known to
+be true.
+
+This completes the [del]description[/del] [ins]description[/ins] of this nota-
+tion. It is [del]very[/del] inconvenient one in practice,
+but it presents the advantage of doing every

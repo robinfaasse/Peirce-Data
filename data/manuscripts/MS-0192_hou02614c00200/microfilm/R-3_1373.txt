@@ -1,0 +1,32 @@
+[pn]19[/pn]
+
+have to be determined, begin with the formula
+$$y = \alpha_{1} B + \alpha_{3} B^{3} + \alpha_{5} B^{5} + \alpha_{7} B^{7} + \alpha_{9} B^{9} + \text{etc} = \sum_{0}^{\infty} p \alpha_{2p+1} B^{2p+1}$$
+We get successive powers of $y$ by ordinary algebraic multiplication,
+carefully attending to the general expressions, thus:
+$$y^{2} = \alpha_{1}\alpha_{1} B^{2} + (\alpha_{1}\alpha_{3} + \alpha_{3}\alpha_{1}) B^{4} + (\alpha_{1}\alpha_{5} + \alpha_{3}\alpha_{3} + \alpha_{5}\alpha_{1}) B^{6} + (\alpha_{1}\alpha_{7} + \alpha_{3}\alpha_{5} + \alpha_{5}\alpha_{3} + \alpha_{7}\alpha_{1}) B^{8}$$
+$$+ \text{etc} = \sum_{0}^{\infty} p \sum_{0}^{p} q \alpha_{2q+1} \alpha_{2(p-q)+1} B^{2p+2}$$
+$$y^{3} = \alpha_{1}\alpha_{1}\alpha_{1} B^{3} + (\alpha_{1}\alpha_{1}\alpha_{3} + \alpha_{1}\alpha_{3}\alpha_{1} + \alpha_{3}\alpha_{1}\alpha_{1}) B^{5} + (\alpha_{1}\alpha_{1}\alpha_{5} + \alpha_{1}\alpha_{3}\alpha_{3} + \alpha_{1}\alpha_{5}\alpha_{1} + \alpha_{3}\alpha_{1}\alpha_{3} + \alpha_{3}\alpha_{3}\alpha_{1}$$
+$$+ \alpha_{5}\alpha_{1}\alpha_{1}) B^{7} + (\alpha_{1}\alpha_{1}\alpha_{7} + \alpha_{1}\alpha_{3}\alpha_{5} + \alpha_{1}\alpha_{5}\alpha_{3} + \alpha_{1}\alpha_{7}\alpha_{1} + \alpha_{3}\alpha_{1}\alpha_{5} + \alpha_{3}\alpha_{3}\alpha_{3} + \alpha_{3}\alpha_{5}\alpha_{1}$$
+$$+ \alpha_{5}\alpha_{1}\alpha_{3} + \alpha_{5}\alpha_{3}\alpha_{1} + \alpha_{7}\alpha_{1}\alpha_{1}) B^{9}$$
+$$= \sum_{0}^{\infty} p \sum_{0}^{p} q \sum_{0}^{q} r \alpha_{2r+1} \alpha_{2(q-r)+1} \alpha_{2(p-q)+1} B^{2p+3}$$
+
+The mode of formation is obvious. We may arrange the $\alpha$'s in the order
+of their indices multiplying each product of $\alpha$'s by [ins]the number of different[/ins]
+[ins]distinguishable[/ins] ways of arranging its factors. Thus:
+$$y^{3} = \alpha_{1}^{3} B^{3} + 3\alpha_{1}^{2}\alpha_{3} B^{5} + (3\alpha_{1}^{2}\alpha_{5} + 3\alpha_{1}\alpha_{3}^{2}) B^{7} + (3\alpha_{1}^{2}\alpha_{7} + 6\alpha_{1}\alpha_{3}\alpha_{5} + \alpha_{3}^{3}) B^{9}$$
+$$+ (3\alpha_{1}^{2}\alpha_{9} + 6\alpha_{1}\alpha_{3}\alpha_{7} + 3\alpha_{1}\alpha_{5}^{2} + 3\alpha_{3}^{2}\alpha_{5}) B^{11} + \text{etc}$$
+$$y^{5} = \alpha_{1}^{5} B^{5} + 5\alpha_{1}^{4}\alpha_{3} B^{7} + (5\alpha_{1}^{4}\alpha_{5} + 10\alpha_{1}^{3}\alpha_{3}^{2}) B^{9} + (5\alpha_{1}^{4}\alpha_{7} + 20\alpha_{1}^{3}\alpha_{3}\alpha_{5} + 10\alpha_{1}^{2}\alpha_{3}^{3}) B^{11}$$
+$$+ (5\alpha_{1}^{4}\alpha_{9} + 20\alpha_{1}^{3}\alpha_{3}\alpha_{7} + 10\alpha_{1}^{3}\alpha_{5}^{2} + 30\alpha_{1}^{2}\alpha_{3}^{2}\alpha_{5} + 5\alpha_{1}\alpha_{3}^{4}) B^{13} + \text{etc}$$
+
+The general formula is
+$$y^{n} = \alpha_{1}^{n} B^{n} + n\alpha_{1}^{n-1}\alpha_{3} B^{n+2} + (n\alpha_{1}^{n-1}\alpha_{5} + \frac{n(n-1)}{2} \alpha_{1}^{n-2}\alpha_{3}^{2}) B^{n+4}$$
+$$+ (n\alpha_{1}^{n-1}\alpha_{7} + n(n-1)\alpha_{1}^{n-2}\alpha_{3}\alpha_{5} + \frac{n(n-1)(n-2)}{2.3} \alpha_{1}^{n-3}\alpha_{3}^{3}) B^{n+6}$$
+$$+ (n\alpha_{1}^{n-1}\alpha_{9} + n(n-1)\alpha_{1}^{n-2}\alpha_{3}\alpha_{7} + \frac{n(n-1)}{2} \alpha_{1}^{n-2}\alpha_{5}^{2} + \frac{n(n-1)(n-2)}{2} \alpha_{1}^{n-3}\alpha_{3}^{2}\alpha_{5}$$
+$$+ \frac{n(n-1)(n-2)(n-3)}{4!} \alpha_{1}^{n-4}\alpha_{3}^{4}) B^{n+8} + \text{etc.}$$
+
+In forming the coefficient of each power of $B$ [del]we[/del] have to remember that
+there must be in each term of the coefficient as many [del]of[/del] factors as the [del]exponent of the numeroly[/del] [ins]exponent of the coefficient[/ins]. This is obvious from the expression for $y$.
+We begin by attaching the index $1$ to all but one of these $\alpha$s. The sum of the
+indices must [del]also[/del] equal the power of $B$ as is obvious form the formula for
+$y$. Hence, the index of the last factor is determined. We next increase one index

@@ -1,0 +1,23 @@
+[pn]9.[/pn]
+
+$$\frac{A}{A_1} = \frac{M g^2 (l - h)}{\varphi^2 \frac{l^3}{3}}$$
+
+Ainsi, en écrivant $A = (l - h) A_1$, on aura
+
+$$\varphi = \frac{A}{h} \cos (\sqrt{\frac{g}{l + M \frac{g}{4} \frac{h}{l}}} \cdot t) - \frac{M^2 g^2}{\varphi^2 \frac{l^3}{3}} A \cos (\sqrt{\frac{\varphi^2}{M(l-h)}} \cdot t)$$
+
+$$S = - \frac{M g}{\varphi^2} A \cos (\sqrt{\frac{g}{l + M \frac{g}{4} \frac{h}{l}}} \cdot t) + \frac{M^2 g^2}{\varphi^2 \frac{l^2}{3}} A \cos (\sqrt{\frac{\varphi^2}{M(l-h)}} \cdot t).$$
+
+Le deuxième terme de $\varphi$ n'est que la $\frac{1}{300,000}$ du premier, ainsi on peut le négliger.
+
+On mesure $\varphi$, en observant la déflexion, $S$, du pied, produite par une force horizontale égale à l'unité de poids; ce qui s'écrit
+
+$$\varphi = \frac{g}{S}.$$
+
+En substituant cette valeur, on conclut, enfin
+
+$$\varphi = \frac{A}{h} \cos (\sqrt{\frac{g}{l + M S \frac{h}{l}}} \cdot t).$$
+
+Ainsi, l'effet sur le pendule est de lui donner une longueur virtuelle plus grande que sa longueur actuelle par $M S \frac{h}{l}$
+
+Indiquons la durée d'une oscillation par $T$, et les corrections provenant de la flexion par $\Delta$; alors, nous

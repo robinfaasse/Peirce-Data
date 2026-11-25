@@ -1,0 +1,32 @@
+[pn]228[/pn]
+
+[pn]S20.[/pn] [u]Theorem 16[/u]. Two rays in one plane have a point in common.
+
+[u]Demonstration[/u]. Let {[u]b[/u]} and {[u]c[/u]} be two [ins]different[/ins] rays in one plane [del] {[u]bc[/u]} [/del] [ins]{[u]bc[/u]}[/ins].
+Then, I say, they have a common point [[u]bc[/u]].
+
+For take any point [[u]A[/u]] not in [del]of[/del] ([u]bc[/u]). Then there is a
+plane ([u]Ab[/u]) and a plane ([u]Ac[/u]); and these two planes are
+different planes. For were they the same, the ray
+{([u]Ab[/u])([u]bc[/u])}
+would be the same as the ray
+{([u]Ac[/u])([u]bc[/u])}.
+[del]Now one[/del] [ins]But one of these[/ins] is {[u]b[/u]}, [del]and[/del] [ins]while[/ins] the other {[u]c[/u]}, which are distinct rays.
+
+Hence the planes ([u]Ab[/u]) and ([u]Ac[/u]) have in common a ray
+{([u]Ab[/u])([u]Ac[/u])} ;
+and this ray is not in ([u]bc[/u]), for if it were, it would be common
+to ([u]Ab[/u]) and ([u]bc[/u]), and therefore the only ray they have in
+common. It would be {([u]Ab[/u])([u]bc[/u])} ; and it would also be common
+to ([u]Ac[/u]) and ([u]bc[/u]), and therefore the only ray they have in
+common. It would be {([u]Ac[/u])([u]bc[/u])}. And thus {([u]Ab[/u])([u]bc[/u])} and
+{([u]Ac[/u])([u]bc[/u])} would be the same ray. Since then {([u]Ab[/u])([u]Ac[/u])} is
+not in ([u]bc[/u]) it has a point in [del]common[/del] [ins]of[/ins] common with ([u]bc[/u]).
+
+But [del]{([u]Ab[/u])([u]Ac[/u])} = {[u]A[/u] [[u]bc[/u]]}[/del]. [del]That is,[/del] [ins][([u]bc[/u]){([u]Ab[/u])([u]Ac[/u])}][/ins] is
+[del][([u]bc[/u])([u]Ab[/u])([u]Ac[/u])], it is[/del] in ([u]Ab[/u]) since it is in the ray {([u]Ab[/u])([u]Ac[/u])}
+which is in this plane. It is in ([u]Ac[/u]) for the same reason. It
+is in ([u]bc[/u]), Hence it is in the [del]common ray of[/del] [ins]common ray of ([u]Ab[/u]) and ([u]bc[/u]) or[/ins] {([u]Ab[/u])([u]bc[/u])}, which is
+{[u]b[/u]}, and in the common ray of [del]of[/del] ([u]Ac[/u]) and ([u]bc[/u]), or {([u]Ac[/u])([u]bc[/u])}
+which is {[u]c[/u]}. It is therefore a point common to {[u]b[/u]} and {[u]c[/u]}. Consequently
+there is such a point. Q.E.D. [ins]The student can prove that if two rays have a common point they lie in one plane.[/ins]

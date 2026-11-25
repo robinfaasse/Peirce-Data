@@ -1,0 +1,18 @@
+$$\frac{x_{1}^{2}}{\alpha_{1}-\lambda} + \frac{x_{2}^{2}}{\alpha_{2}-\lambda} + \frac{x_{3}^{2}}{\alpha_{3}-\lambda} = 1$$
+
+$(\alpha_{1}-\lambda)(\alpha_{2}-\lambda)(\alpha_{3}-\lambda) = x_{1}^{2}(\alpha_{2}\alpha_{3} - (\alpha_{2}+\alpha_{3})\lambda + \lambda^{2})$
+$\phantom{(\alpha_{1}-\lambda)(\alpha_{2}-\lambda)(\alpha_{3}-\lambda) = } x_{1}^{2}(\alpha_{2}-\lambda)(\alpha_{3}-\lambda)$
+$\phantom{(\alpha_{1}-\lambda)(\alpha_{2}-\lambda)(\alpha_{3}-\lambda)} + x_{2}^{2}(\alpha_{3}-\lambda)(\alpha_{1}-\lambda)$
+$\phantom{(\alpha_{1}-\lambda)(\alpha_{2}-\lambda)(\alpha_{3}-\lambda)} + x_{3}^{2}(\alpha_{1}-\lambda)(\alpha_{2}-\lambda)$
+
+$\lambda^{3} - (\alpha_{1}+\alpha_{2}+\alpha_{3})\lambda^{2} + (\alpha_{1}\alpha_{2} + \alpha_{2}\alpha_{3} + \alpha_{3}\alpha_{1})\lambda - \alpha_{1}\alpha_{2}\alpha_{3}$
+$\phantom{\lambda^{3}} + (x_{1}^{2} + x_{2}^{2} + x_{3}^{2})\lambda^{2} - [x_{1}^{2}(\alpha_{2}+\alpha_{3}) + x_{2}^{2}(\alpha_{3}+\alpha_{1}) + [del]x_{3}^{2}[/del](\alpha_{1}+\alpha_{2})]\lambda$
+[del][fig]scribble[/fig][/del]
+$\phantom{\lambda^{3} + (x_{1}^{2} + x_{2}^{2} + x_{3}^{2})\lambda^{2}} + x_{1}^{2}\alpha_{2}\alpha_{3}$
+$\phantom{\lambda^{3} + (x_{1}^{2} + x_{2}^{2} + x_{3}^{2})\lambda^{2}} + x_{2}^{2}\alpha_{3}\alpha_{1}$
+$\phantom{\lambda^{3} + (x_{1}^{2} + x_{2}^{2} + x_{3}^{2})\lambda^{2}} + x_{3}^{2}\alpha_{1}\alpha_{2} = 0$
+
+$\lambda_{1} + \lambda_{2} + \lambda_{3} = \alpha_{1} + \alpha_{2} + \alpha_{3} - x_{1}^{2} - x_{2}^{2} - x_{3}^{2}$
+$\lambda_{1}\lambda_{2} + \lambda_{2}\lambda_{3} + \lambda_{3}\lambda_{1} = \alpha_{1}\alpha_{2} + \alpha_{2}\alpha_{3} + \alpha_{3}\alpha_{1}$
+$\phantom{\lambda_{1}\lambda_{2} + \lambda_{2}\lambda_{3} + \lambda_{3}\lambda_{1} = } - x_{1}^{2}(\alpha_{2}+\alpha_{3}) - x_{2}^{2}(\alpha_{3}+\alpha_{1}) - x_{3}^{2}(\alpha_{1}+\alpha_{2})$
+$\lambda_{1}\lambda_{2}\lambda_{3} = \alpha_{1}\alpha_{2}\alpha_{3} ([del]\frac{x_{1}^{2}}{\alpha_{1}}[/del] 1 - \frac{x_{1}^{2}}{\alpha_{1}} - \frac{x_{2}^{2}}{\alpha_{2}} - \frac{x_{3}^{2}}{\alpha_{3}})$

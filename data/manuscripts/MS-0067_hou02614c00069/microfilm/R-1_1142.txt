@@ -1,0 +1,318 @@
+[u]a b c d e f[/u]
+ab cf de
+[del]ac bd ef[/del]
+
+1 ab cd ef = 1
+2 ab ce df
+[del]3 ab cf de[/del]
+[del]4 ac bd ef[/del]
+[del]5 ac be df[/del] = f
+[del]6 ac bf de[/del] = [unclear]φ[/unclear]⁻¹
+[del]7 ad bc ef[/del]
+[del]8 ad be cf[/del] = F⁻¹
+[del]9 ad bf ce[/del]
+[del]x ae bd cf[/del]
+[del]y ae be df[/del] = [unclear]φ[/unclear]
+[del]q ae bf cd[/del]
+K af bc de = F
+A af bd ce = f⁻¹
+[del]B af be cd[/del]
+
+[fig]Directed graph on 6 vertices[/fig]
+
+[fig]Directed graph on 6 vertices[/fig]
+
+[fig]Directed graph with 6 vertices[/fig]
+
+[columns]
+[column]
+f
+f
+F
+1
+Q
+F
+[u]([unclear]φ[/unclear])[/u]
+7
+(B)
+[/column]
+[column]
+f⁻¹
+1
+(f)
+F⁻¹
+1
+Q
+2
+(Q)
+(B)
+[/column]
+[column]
+[del]F[/del]
+(F⁻¹)
+(f)
+1
+[del]F[/del]
+Q⁻¹
+2
+(Q⁻¹)
+(B)
+[/column]
+[column]
+[unclear]φ[/unclear]
+7
+(f)
+Q
+(f⁻¹)
+1
+(Q⁻¹)
+2
+(B)
+[/column]
+[column]
+[unclear]φ[/unclear]⁻¹
+(f⁻¹)
+7
+([unclear]φ[/unclear])
+2
+([unclear]φ[/unclear]⁻¹)
+1
+(Q)
+X
+[/column]
+[column]
+B
+3
+7
+4
+2
+9
+(1)
+[/column]
+[/columns]
+
+[column]
+B
+c
+d
+[fig]Directed graph on 4 vertices[/fig]
+[/column]
+[column]
+0
+[fig]Directed graph on 6 vertices[/fig]
+[fig]Directed graph on 6 vertices[/fig]
+[/column]
+
+f₀
+b
+e
+B²
+c
+d
+f
+e
+a
+b
+F₀⁻¹
+c
+b
+
+f
+d
+a
+c
+f₀⁻¹
+f
+a
+F₀⁻¹
+a
+f
+e
+c
+[fig]Three horizontal lines[/fig]
+c
+b
+d
+a
+c
+b
+d
+a
+c
+b
+d
+a
+e
+f
+[fig]Horizontal line[/fig]
+f₀
+d
+c
+[fig]Horizontal line[/fig]
+F₀
+d
+c
+b
+f
+e
+a
+[fig]Directed graph on 6 vertices[/fig]
+EF₀
+[ins]near FF[/ins]
+d
+c
+a
+e
+b
+f
+f₀
+d
+c
+[fig]Horizontal line[/fig]
+F₀⁻¹
+[ins]near F⁻¹[/ins]
+d
+c
+a
+e
+b
+f
+[fig]Horizontal line[/fig]
+FF₀
+[ins]near F²[/ins]
+d
+c
+[fig]Horizontal line[/fig]
+[unclear]φ[/unclear]₀
+[fig]Horizontal line[/fig]
+FF₀⁻¹
+[ins]near F⁻²[/ins]
+d
+c
+[fig]Horizontal line[/fig]
+F
+[fig]Horizontal line[/fig]
+
+[fig]Table with 4 columns and 5 rows[/fig]
+[table]
+[row]
+[cell]
+[unclear]φ[/unclear]f
+a
+d
+f
+e
+[/cell]
+[cell]
+f[unclear]φ[/unclear]
+a
+d
+f
+e
+[/cell]
+[cell]
+[unclear]φ[/unclear]F
+c
+d
+b
+f
+[/cell]
+[cell]
+F[unclear]φ[/unclear]
+c
+d
+b
+f
+[/cell]
+[/row]
+[row]
+[cell]
+[unclear]φ[/unclear]f⁻¹
+d
+f
+c
+a
+[/cell]
+[cell]
+f[unclear]φ[/unclear]⁻¹
+d
+f
+c
+a
+[/cell]
+[cell]
+[unclear]φ[/unclear]F⁻¹
+c
+b
+d
+e
+[/cell]
+[cell]
+F[unclear]φ[/unclear]⁻¹
+c
+b
+d
+e
+[/cell]
+[/row]
+[row]
+[cell]
+[unclear]φ[/unclear]⁻¹f
+f
+c
+b
+d
+[/cell]
+[cell]
+f⁻¹[unclear]φ[/unclear]
+f
+c
+b
+d
+[/cell]
+[cell]
+[unclear]φ[/unclear]⁻¹F
+d
+e
+b
+a
+[/cell]
+[cell]
+F⁻¹[unclear]φ[/unclear]
+d
+e
+b
+a
+[/cell]
+[/row]
+[row]
+[cell]
+[unclear]φ[/unclear]⁻¹f⁻¹
+c
+b
+a
+e
+[/cell]
+[cell]
+f⁻¹[unclear]φ[/unclear]⁻¹
+c
+b
+a
+e
+[/cell]
+[cell]
+[unclear]φ[/unclear]⁻¹F⁻¹
+e
+a
+d
+f
+[/cell]
+[cell]
+F⁻¹[unclear]φ[/unclear]⁻¹
+e
+a
+d
+f
+[/cell]
+[/row]
+[/table]

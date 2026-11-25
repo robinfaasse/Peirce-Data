@@ -1,0 +1,31 @@
+[pn]20[/pn]
+
+[u]Report on Live Loads[/u]
+
+The condition of equilibrium gives the equations
+
+[del][u]cos $\Phi_0$[/u][/del] [ins]$\frac{\cos \Phi_0}{\Lambda_0}$[/ins] $(\cos \Phi_0 \cdot x_0 + \sin \Phi_0 \cdot y_0) + \frac{\sin \Phi_0}{M_0} (\sin \Phi_0 \cdot x_0 - \cos \Phi_0 \cdot y_0) - \frac{1 - \frac{R_0}{R_0}}{P_0} (x_1 - x_0) = 0$
+
+$\frac{1 - \frac{R_0}{R_0}}{P_0} (x_1 - x_0) - \frac{1 - \frac{R_i}{R_i}}{P_i} (x_2 - x_1) = 0$
+
+$\frac{1 - \frac{R_i}{R_i}}{P_i} (x_2 - x_1) + \frac{\cos \Phi_2}{\Lambda_2} [\cos \Phi_2 \cdot (x_2 - x_2) + \sin \Phi_2 \cdot (y_2 - y_2)] + \frac{\sin \Phi_2}{M_2} [\sin \Phi_2 \cdot (x_2 - x_2) - \cos \Phi_2 \cdot (y_2 - y_2)] = 0$
+
+[fig]V-shaped diagram[/fig] [fig]Line diagram with arrows[/fig]
+
+$\frac{1}{\Lambda} (1 - \frac{R}{\sqrt{x^2+y^2}}) y - \Phi = 0$
+
+[del]$(x_1 - x_0)^2 + (y_1 - y_0)^2$[/del]
+
+$\Theta = \frac{1}{2 \Lambda} \{ \sqrt{(x_1 - x_0)^2 + (y_1 - y_0)^2} - R \}^2 - \Phi y$ [fig]Arrow pointing right[/fig]
+
+$\frac{1}{\Lambda} \frac{\{ \sqrt{(x_1 - x_0)^2 + (y_1 - y_0)^2} - R}{\sqrt{(x_1 - x_0)^2 + (y_1 - y_0)^2}} (x_1 - x_0) - \Phi = 0$
+
+$\frac{1}{\Lambda} (1 - \frac{R}{\sqrt{x^2+y^2}}) x [del]\times[/del] [del][fig]Scribble[/fig][/del] = 0$
+
+$\frac{1}{\Lambda} (1 - \frac{R_0}{\sqrt{x^2+y^2}}) x - \frac{1}{M} (1 - \frac{R_i}{\sqrt{(a-x)^2+(y-b)^2}}) [del]\times[/del] [ins]$(a-x)$[/ins] = 0
+
+$\frac{1}{\Lambda} (1 - \frac{R_0}{\sqrt{x^2+y^2}}) y - \Phi + \frac{1}{M} (1 - \frac{R_i}{\sqrt{(a-x)^2+(y-b)^2}}) (b-y) = 0$
+
+$\frac{1}{\Lambda} (1 - \frac{R_0}{\sqrt{x_1^2+y_1^2}}) x' - \frac{1}{M} ($
+
+$\begin{array}{r} 32 \\ 32 \\ \hline 1024 \end{array}$

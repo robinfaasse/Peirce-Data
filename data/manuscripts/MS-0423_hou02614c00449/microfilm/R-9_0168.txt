@@ -1,0 +1,32 @@
+[pn]98[/pn]
+
+But it has [ins]just[/ins] been shown that a quantity can be separated
+into [del]a[/del] scalar and [del]v[/del]ector part in only one way. Hence
+
+[del]sv' = -s'v[/del]
+
+$sv' = -s'v$
+$s'' = 1 - ss'$
+
+[del]Th[/del] [del]the[/del] The former equation makes
+$ji = \frac{s'}{s}(s-v)$.
+
+Let us next consider such an expression as
+$ai + bj = S + V$
+where $S$ and $V$ are [del]the[/del] scalar and vector of the
+first member. Squaring the vector, we get
+
+$V^2 = -N = (ai + bj - S)^2 = -a^2 - b^2 + S^2 + abs + abs' - 2aSi - 2bSj$
+$+ ab(1 - \frac{s'}{s})v$
+
+or
+$ab(1 - \frac{s'}{s})v = -N + a^2 + b^2 - S^2 - abs - abs' + 2aSi + 2bSj$.
+
+But since $v$ is the vector of $ij$ it must, as we have seen
+be linearly independent of unity, $i$, and $j$. Hence the
+first member must vanish. But if $v = 0$, $ij = s$, whence
+$-i = sj$, contrary to hypothesis. Hence
+$1 - \frac{s'}{s} = 0$
+or $s' = s$
+whence $s'' = 1 - s^2$
+[del]But s' being the negative of the square of v is positive. Hence s^2 < 1.[/del] [pn]196[/pn]

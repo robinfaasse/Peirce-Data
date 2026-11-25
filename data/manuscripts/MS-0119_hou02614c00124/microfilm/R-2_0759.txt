@@ -1,0 +1,19 @@
+[pn]Ms 119[/pn]
+
+Notes on Non Euclidean Geometry
+
+[fig]Circle with a horizontal line through it and a radius drawn[/fig] Every line has a pole and every point a polar.
+
+Let equation of absolute be $x^2 + y^2 = 1$
+
+Consider the point $y = y_1$, $x = 0$ Then for the polar $y = \frac{1}{y_1}$
+
+The distance between $(0, y_1)$ and $(x_2, \frac{1}{y_1})$ is by Story's (3)
+$$2ik \text{ arc cos } \frac{0}{\sqrt{(y_1^2 - 1)(x_2^2 + \frac{1}{y_1^2} - 1)}} = ik [del]\pi[/del] [ins]\theta[/ins] = ik\theta$$
+
+The length of a whole line is $2ik\theta$
+
+The distance between $(x, y)$ and $(x + dx, y + dy)$ is by (3)
+$$2ik \frac{1}{x^2 + y^2 - 1} \sqrt{(x^2 + y^2 - 1) \frac{1}{2} (2dx^2 + 2dy^2) - \frac{1}{4} (2x.dx + 2y.dy)^2}$$
+$$= 2ik \frac{1}{x^2 + y^2 - 1} \sqrt{([del]x^2[/del] [ins]x^2[/ins] + y^2 - 1) dx^2 + (x^2 - 1) dy^2 - 2xy\,dx\,dy}$$
+$$= 2ik \frac{1}{x^2 + y^2 - 1} \sqrt{(ydx - xdy)^2 - dx^2 - dy^2}$$

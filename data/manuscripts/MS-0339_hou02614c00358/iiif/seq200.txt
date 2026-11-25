@@ -1,0 +1,16 @@
+93r
+
+This leads us to notice that
+
+$$x + y \prec x \bar{y} + (0 + y)$$
+$$(x + y)_{ab} = \Pi_{i} \text{ } x_{ai} + y_{ib}$$
+$$[x \bar{y} + (0 + y)]_{ab} = \Sigma_{j} \text{ } x_{aj} \bar{y}_{jb} + \Pi_{k} \text{ } 0_{ak} + y_{kb}$$
+We have
+$$\Sigma_{l} \text{ } \bar{y}_{lb} + \Pi_{m} \text{ } y_{mb}$$ [del]$\Sigma_{l} \bar{y}_{lb} \Pi_{n}$[/del] [fig]figure[/fig] [del]this that[/del] [ins]$\bar{y} + y = \infty$[/ins]
+(This is the fundamental formula)
+Multiplying this into $(x+y)_{ab}$ we get
+$$(\Sigma_{l} \bar{y}_{lb} + \Pi_{m} y_{mb}) (\Pi_{i} \text{ } x_{ai} + y_{ib})$$
+$$\Sigma_{l} \Pi_{i} (x_{ai} + y_{ib}) \bar{y}_{lb} + \Pi_{m} \Pi_{i} (x_{ai} + y_{ib}) y_{mb}$$
+Identifying $i$ with $l$, this gives
+$$\Sigma_{l} \text{ } x_{al} \bar{y}_{lb} + \Pi_{m} y_{mb}$$
+Hence also $\infty \bar{y} \cdot (x + y) \prec x \bar{y}$

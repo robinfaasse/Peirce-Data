@@ -1,0 +1,28 @@
+we first get, by (2)
+[u]Y[/u] | [u]X[/u] | [u]Y[/u] | Z
+
+and then by (4)
+[u]Y[/u] | [u]X[/u] | Z.
+
+The others are proved in essentially the same way.
+
+We have also these two most important formulae:
+
+(7)
+[u]X[/u] | Y | [u]Z[/u]
+[u]X[/u] | [u]Y | Z[/u] ;
+
+and
+
+(8)
+[u]X | [u]Y | Z[/u][/u]
+[u]X[/u] | Y | Z.
+
+To prove (7) we assume
+[u]([u]X[/u] | Y)[/u] | [u]Z[/u].
+
+By (2), we get
+[u]X[/u] | [u]([u]X[/u] | Y)[/u] | [u]Z[/u]
+
+By (4), we get
+[u]X[/u] | [u](Y | [u]Z[/u])[/u].

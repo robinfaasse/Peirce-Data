@@ -1,0 +1,94 @@
+[marginalia]
+a
+b
+c
+y
+e
+z
+d
+s
+e
+u
+f
+v
+g
+w
+h
+7
+6
+3
+2
+[/marginalia]
+
+[marginalia]
+a
+b
+c
+[/marginalia]
+
+[del]x - a[/del]
+[del]y - b[/del] [del]b - 2x + a[/del]
+[del]z - c[/del] [del]y - 2b + x[/del] [del]4y - 3b + 3x - a[/del]
+[del]e - y[/del] [del]c - 2y + b[/del] [del]e - 3y + 3b - x[/del] [del]e - 4y + 6b - 4x + a[/del]
+[del]z - 4c + 6y - 4b + x[/del] [del]z - 5c + 10y - 10b + 5x - a[/del]
+[del]d - 5z + 10c - 10y + 5b - x[/del] [del]d - 6z + 15c - 20y + 15b - 6x + a[/del]
+[del]s - 6d + 15z - 20c + 15y - 6b + x[/del] [del]s - 7d + 21z - 35c + 35y - 21b + 7x[/del]
+[del]e - 7s + 21d - 35z + 35c - 21y + 7b - x[/del]
+[del]u - 7e + 21s - 35d + 35z - 21c + 7y - b[/del]
+
+[del]e - 8s + 28d - 56z + 70c - 56y + 28b - 8x + a[/del]
+
+[del]8[/del] [del]8 . 7 / 2 = 28[/del] [del]28 . 6 / 3 = 56[/del] [del]56 . 5 / 4 = 70[/del]
+
+[del]8u - 64e + 224s - 448d + 560z - 448c + 224y - 64b + 8x + a = 0[/del]
+[del]u - 8e + 28s - 56d + 70z - 56c + 28y - 8b + x = 0[/del]
+[del]f - 8u + 28e - 56s + 70d - 56z + 28c - 8y + b = 0[/del]
+[del]v - 8f + 28u - 56e + 70s - 56d + 28z - 8c + y[/del]
+[del]g - 8v + 28f - 56u + 70e - 56s + 28d - 8z + c[/del]
+[del]w - 8g + 28v - 56f + 70u - 56e + 28s - 8d + z = 0[/del]
+[del]h - 8w + 28g - 56v + 70f - 56u + 28e - 8s + d = 0[/del]
+
+[del]8u - 64e + 224s - 448d + 560z - 448c + 224y - 64b + 8x = 0[/del]
+[del]8u - 63e + 216s - 420d + 504z - 378c + 168y - 36b + a = 0[/del]
+
+[del]21f - 168u + 588e - 1176s + 1470d - 1176z + 588c - 168y + 21b[/del]
+[del]21f - 160u + 525e - 960s + 1050d - 672z + 210c - 15b + a = 0[/del]
+
+[del]48v - 64f + 224u + 448e + 560s - 448d + 224z - 64c + 8y[/del]
+[del]+ 29f - 64u + 98e - 112s + 98d - 64z + 29c - 8y + b = 0[/del]
+
+[del]g - 35f + 160u - 356e + 448s - 356d + 160z - 35c + b = 0[/del]
+
+[del]1024[/del]
+[del]336[/del]
+
+[del]+ 8u[/del] [del]- 56[/del] [del]+ 560[/del] [del]+ 504z[/del] [del]+ 224[/del] [del]- 56[/del] [del]+ 168y[/del]
+
+[del]- 64u[/del] [del]- 64z[/del] [del]- 8y[/del]
+[del]8u - 63e + 216s - 420d + 504z - 378c + 168y - 36b[/del]
+[del]u + 36s + 168d - 378z + 504c - 420y + 216b - 63e + 8a[/del]
+[del]8u[/del]
+
+[del]h - 36g + 168v - 378f + 504u - 420e + 216s - 63d + 8z[/del]
+
+[del]u - 8ζ - 8ϕ + 28χ - 56ψ + 504ξ = 0[/del]
+[del]z - 504ζ - 56ϕ + 28χ - 8ψ + 8ξ = 0[/del]
+[del]y - 168ζ - 8ϕ + 1χ = 0[/del]
+[del]v - 336ζ - 169χ - 8ψ + 168ξ = 0[/del]
+[del]128ζ - 129ϕ + 27χ[/del]
+[del]256 . 512ζ - 64ϕ + 28χ = 0[/del]
+[del]168ζ - 8ϕ + χ = 0[/del]
+[del]2113 . 44ζ - 648 + 8χ = 0[/del]
+[del]832ζ - 20χ = 0[/del]
+[del]208ζ = 5χ[/del]
+
+[del]27ζ = ϕ + 7/8χ[/del]
+
+[del]840[/del] [del]8) 1048 / 131[/del]
+[del]208[/del]
+
+[del]ζ = 5[/del]
+[del]ϕ = 131[/del]
+[del]χ = 208[/del]
+
+[del]208ζ = 5χ[/del]

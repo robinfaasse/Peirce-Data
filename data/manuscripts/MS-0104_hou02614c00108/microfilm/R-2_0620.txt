@@ -1,0 +1,27 @@
+[pn]3[/pn]
+
+to the distance through which the moving point
+[ins]at that same instant[/ins] [del]has advanced[/del] on the line from the same starting
+point. Let [u]p[/u] and [u]q[/u] be two [del]arbitrary[/del] real vari-
+able [del]angular[/del] parameters, of the nature of angles,
+[ins]such[/ins] [del]so[/del] that in the whole course of the curve
+neither varies more than [del]180°[/del] [ins]360°[/ins], and one of them
+by just this amount. [del]Let[/del] Suppose the curve
+does not pass twice through infinity. Then I
+write
+[u]t[/u] = [u]N[/u] [u]q[/u]
+where [u]N[/u] is an even number. Suppose the tan-
+gent does not make two semirevolutions. Then
+I write
+[u]σ[/u] = [u]M[/u] [u]p[/u]
+where [u]M[/u] is an even number. [del]And[/del] Only one of
+these parameters is needed, however.
+Let [u]x[/u], [u]y[/u], be [ins]rectangular[/ins] [del]Cartesian[/del] coördinates, and
+[del][u]u[/u], [u]v[/u], be tangential coördinates[/del] Then, we
+may put
+[del]tan [u]t[/u] = D[sub]x[/sub] [u]y[/u] = ∫ sec s . d[u]u[/u].[/del]
+[del]tan [u]σ[/u] = D[sub]u[/sub] [u]v[/u] =[/del] [del]∫ sec t . d[u]x[/u].[/del]
+tan [u]t[/u] = D[sub]x[/sub] [u]y[/u] = [u]v[/u]/[u]u[/u]
+tan [u]σ[/u] = ∫√1+(D[sub]x[/sub]y)² dx = ∫ sec [u]t[/u] . d[u]x[/u]
+Call this s
+The radius of curvature ρ = D[sub]t[/sub] s

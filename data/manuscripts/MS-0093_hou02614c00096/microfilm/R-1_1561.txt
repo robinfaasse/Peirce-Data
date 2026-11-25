@@ -1,0 +1,88 @@
+[pn]50[/pn]
+
+$$u_{x+2} + a^2 u_x = 0$$
+$$u_x = a^x \left\{ A \cos \frac{\pi x}{2} + B \sin \frac{\pi x}{2} \right\}$$
+$$u_{x+2} = a^{x+2} \left\{ - A \cos \frac{\pi x}{2} - B \sin \frac{\pi x}{2} \right\}$$
+$$u_{x+2} + a^2 u_x = 0$$
+
+$$u_{x+3} + a^3 u_x = 0$$
+$$u_x = a^x \left\{ A \sin \frac{\pi x}{3} + B \sin \frac{\pi (x+1)}{3} + C \sin \frac{\pi (x+2)}{3} \right\}$$
+
+$$u_{x+1} + a u_x = 0$$
+$$u_x = a^x A [del]\cos[/del] \pi x$$
+
+$$u_{x+2} + a u_{x+1} + b u_x = 0$$
+[del]E[/del] $E^2 + a E + b = 0$
+$E^2 + a E + \frac{1}{4} a^2 = \frac{1}{4} a^2 - b$
+$E = -\frac{1}{2} a \pm \frac{1}{2} a \sqrt{1 - \frac{4b}{a^2}}$
+
+[marginalia]
+$\frac{1 + \sqrt{m}}{1 - \sqrt{m}}$
+$\frac{1 - m}{A(1 + \sqrt{m})}$
+$B(1 - \sqrt{m})$
+[/marginalia]
+
+[del]$u_x = \left( -\frac{1}{2} a \right)^x \left( 1 + \sqrt{1 - \frac{4b}{a^2}} \right)^x + B \left( \right.$[/del]
+$$u_x = \left( -\frac{a}{2} \right)^x \left\{ A \left( 1 + \sqrt{1 - \frac{4b}{a^2}} \right)^x + B \left( 1 - \sqrt{1 - \frac{4b}{a^2}} \right)^x \right\}$$
+
+[marginalia]
+$\sin x \theta$
+$\sin (x\theta + 2\theta) = \sin x\theta \cdot 2\cos\theta - [del]\sin x\theta[/del] + \cos x\theta \cdot 2\sin\theta \cos\theta$
+$2\cos\theta \sin(x\theta + \theta) = \sin x\theta \cdot 2\cos\theta + \cos x\theta \cdot 2\sin\theta \cos\theta$
+[/marginalia]
+
+[marginalia]
+$\frac{Ap - Bq + (Aq + Bp)i}{Ap - Bq - (Aq + Bp)i} \frac{(A+Bi)}{(A-Bi)} \frac{(p+qi)}{(p-qi)}$
+[/marginalia]
+
+[marginalia]
+$2\cos^2 - 1$
+[/marginalia]
+
+[pn]51[/pn]
+
+Suppose [del]$u_x = A \sin \left( \frac{\pi}{m} x + n \right)$[/del]
+$$u_x = A \sin \left( \frac{\pi x}{m} + n \right)$$
+$$u_{x+m} = - A \sin \left( \frac{\pi x}{m} + n \right)$$
+$$u_x = A \sin \left( \frac{\pi x + n}{[ins]m[/ins]} \right)$$
+$$u_{x+1} = - A \sin \left( \frac{\pi x + n}{[ins]m[/ins]} \right)$$
+$$u_{x+1} + u_x = 0$$
+
+$$\underline{u_x = A a^x \sin \left( \frac{\pi x + n}{[ins]m[/ins]} \right)}$$
+$$\underline{u_{x+1} = - A a^{x+1} \sin \left( \frac{\pi x + n}{[ins]m[/ins]} \right)}$$
+$$u_{x+2} + u_x = 0$$
+$$u_x = A \sin \frac{\pi x}{2} + B \sin \frac{\pi (x+1)}{2}$$
+$$u_{x+2} + 2 a u_{x+1} + (a^2 + b^2) u_x = 0$$
+[del]$u_x = A a^x$[/del]
+$$u_{x+2} - 2 r \cos\theta \cdot u_{x+1} + r^2 u_x = 0$$
+$$\frac{u_{x+2}}{r^{x+2}} - 2 \cos\theta \frac{u_{x+1}}{r^{x+1}} + \frac{u_x}{r^x} = 0$$
+
+[marginalia]
+$\frac{a+bi}{a-bi}$
+$\frac{p+qi}{p-qi}$
+$\frac{R e^{\theta i}}{R e^{-\theta i}}$
+$\frac{r(\cos\theta + i\sin\theta)}{r(\cos\theta - i\sin\theta)}$
+$m^2 - 2\cos\theta m + 1 = 0$
+$\cos\theta \pm \sqrt{\cos^2\theta - 1}$
+$m = \cos\theta \pm i\sin\theta$
+$u_x = A (\cos\theta + i\sin\theta)^x$
+$+ B (\cos\theta - i\sin\theta)^x$
+[/marginalia]
+
+$$v_x = \frac{u_x}{r^x} = [del]\cos[/del] A (\cos x\theta + i\sin x\theta) + A [del](\cos x\theta - i\sin x\theta)[/del]$$
+$$= 2 A \cos x\theta$$
+$$v_{x+2} = 2 A \cos (x\theta + 2\theta)$$
+$$v_x = A \cos x\theta + B \sin x\theta = R \sin (x\theta + A)$$
+
+$$v_{x+2} = A (\cos\theta + i\sin\theta)^{x+2} + A (\cos\theta - i\sin\theta)^{x+2}$$
+$$v_x = A (\cos\theta + i\sin\theta)^x + A (\cos\theta - i\sin\theta)^x$$
+$$\sin(x\theta + 2\theta) = \sin x\theta \cdot \cos 2\theta + \cos x\theta \cdot \sin 2\theta$$
+[del]$\sin x\theta$[/del]
+$$= \sin x\theta \cdot 2\cos^2\theta - \sin x\theta + \cos x\theta \cdot 2\sin\theta \cos\theta$$
+$$= \cos\theta \cdot 2\cos\theta \sin x\theta + \cos\theta \cdot 2\sin\theta \cos x\theta$$
+
+[marginalia]
+$2\cos\theta v_{x+1} = 2\cos\theta A (\cos\theta + i\sin\theta)^{x+1}$
+$+ 2\cos\theta A (\cos\theta - i\sin\theta)^{x+1}$
+$2\cos\theta (\cos\theta \pm i\sin\theta)$
+[/marginalia]

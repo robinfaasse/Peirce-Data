@@ -1,0 +1,21 @@
+$U_{x,y}$ is the probability that in $x$ games
+he loses just $y$ francs
+
+$U_{x,y} =$
+[del]$p U_{x,y} = $[/del]
+[del]$U_{x,y}$[/del]
+[del]$U_x$ Prob of coming to zero at $x^{\text{th}}$ game[/del]
+[del]$U_x$[/del]
+$U_{x,y}$ Prob coming to $y$ in $x$ games
+
+$U_{x,0} = $ [del]$U_{x-1}$[/del] [ins]$(1-p)$[/ins] $U_{x-1,1}$
+
+$U_{x-1,1} = (1-p) U_{x-2,2}$
+
+$U_{x-2,2} = p U_{x-3,1} + (1-p) U_{x-3,3}$
+
+$U_{x-2,2} = p(1-p) U_{x-4,2} + (1-p) U_{x-3,3}$
+
+$U_{x+2,}$
+
+[fig]Diagram showing paths on a grid representing game outcomes[/fig]

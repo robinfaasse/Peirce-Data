@@ -1,0 +1,14 @@
+[pn]21[/pn]
+
+[u]Theorem 7[/u]. [u]Four planes perpendicular to a fifth are copunctual[/u].
+[u]Demonstration[/u]. Let the four planes $(\alpha)$, $(\beta)$, $(\gamma)$, $(\delta)$, be all perpendicular to a fifth plane, $(\varepsilon)$, Then, I say, that the common point $[\alpha\beta\gamma]$ lies in $(\delta)$.
+
+[fig]Diagram showing intersecting lines and planes with Greek letter labels[/fig] If any three of the four planes are coradial, this is evidently true. It will, accordingly, be the only requisite to examine the case in which the six rays $\{\alpha\beta\}$, $\{\alpha\gamma\}$, $\{\alpha\delta\}$, $\{\beta\gamma\}$, $\{\beta\delta\}$, $\{\gamma\delta\}$, are all different.
+
+Let $[O]$ be the point $[\alpha\beta\gamma]$. Taking $[\alpha\beta\varepsilon]$ as centre, let us consider the spherical triangle [del]the[/del] $\text{L}\alpha\beta\varepsilon$. Since $\angle\alpha\varepsilon = \angle\beta\varepsilon = \frac{1}{2}\partial$, this is a birectangular triangle, and by Corollary [blank space], $) \alpha (= ) \beta ( = \frac{1}{2}\partial$. But a spherical length is the same thing as a plane angle otherwise conceived. Hence, the ray $\{\alpha\beta\}$ is perpendicular to $\{\alpha\varepsilon\}$ [del]and to $\{\beta\varepsilon\}$[/del]. In like manner, $\{\alpha\gamma\}$ is perpendicular to $\{\alpha\varepsilon\}$ [del]and to $\{\gamma\varepsilon\}$[/del]. Then [del]is[/del] the plane triangle $\Delta O[\alpha\beta\varepsilon][\alpha\gamma\varepsilon]$ is birectangular at $[\alpha\beta\varepsilon]$ and $[\alpha\gamma\varepsilon]$, and so, by Corollary , is biquadrantal in [del]$\{\alpha\varepsilon\}$[/del] $\{\alpha\beta\}$ and $\{\alpha\gamma\}$. That is, the point $[O]$ lies in $\{\alpha\beta\}$ at a quadrant's distance from $[\alpha\beta\varepsilon]$.
+
+But let $[Q]$ be the point $[\alpha\beta\delta]$, and in precisely the same way, we see that $[Q]$ lies in $\{\alpha\beta\}$ at a quadrant's distance from $[\alpha\beta\varepsilon]$.
+
+Thus, $[Q] = [O]$. That is, the plane $(\delta)$ passes through the common point of planes $(\alpha)$, $(\beta)$, $(\gamma)$. Q.E.D.
+
+Corollary 11. By the same reasoning, mutatis mutandis, four points [ins]a quadrant[/ins] [del]quadrantally[/del] distant [del]from[/del] [ins]from[/ins] a fifth are coplanar.

@@ -1,0 +1,33 @@
+We now take $F_1$ and $F_2$, two functions
+having the period $\pi$, and write
+$$\begin{aligned}
+x &= F_1 q \\
+y &= F_2 q
+\end{aligned}$$
+Then
+$$\tan \tau = \frac{F_1' q}{F_2' q}$$
+$$s = \int \frac{\sqrt{(F_1' q)^2 + (F_2' q)^2}}{F_2' q} F_1' q \cdot dq$$
+
+But $\tau = N q$
+which determines a relation between $F_1$ and
+$F_2$. To investigate this use the notation
+[del]$$\begin{aligned}
+\overset{+}{a} &= \frac{1}{2} e^{+2qi} \\
+\bar{a} &= \frac{1}{2} e^{-2qi}
+\end{aligned}$$[/del]
+$$\begin{aligned}
+D_q \overset{+}{a} &= 2 i \cdot \overset{+}{a} \\
+D_q \bar{a} &= -2 i \cdot \bar{a}
+\end{aligned}$$
+
+so that [del]$\sin a = $[/del]
+[del]$\cos 2a = $[/del] [del]$\overset{+}{a} + \bar{a}$[/del]
+[del]$\sin 2ai = $[/del] [del]$\overset{+}{a} - \bar{a}$[/del]
+
+Suppose
+$$F_2 q = \frac{A_1 + B_1 \overset{+}{a} + C_1 \bar{a} + D_1 \overset{+}{2a} + E_1 \bar{2a} + \text{etc}}{A_2 + B_2 \overset{+}{a} + C_2 \bar{a} + D_2 \overset{+}{2a} + E_2 \bar{2a} + \text{etc}} = \frac{P}{Q}$$
+
+[del]$F_2' q = 2i \frac{A_1 + B_1 \overset{+}{a} + \text{etc}}{A_2 + B_2 \overset{+}{a} + \text{etc}}$[/del]
+$$F_2' q = 2i \frac{P}{Q} \left\{ \frac{P - A_1}{P} - \frac{Q - A_2}{Q} \right\}$$
+
+[pn]4[/pn]

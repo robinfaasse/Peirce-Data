@@ -1,0 +1,33 @@
+[pn]12[/pn]
+[del]In color[/del]
+regions of $5, 8, 11, 14,$ etc boundaries [del]the corner[/del] the number of
+corners of value $-1$ is congruent to $1$ for the modulus $3$. For
+regions of $6, 9, 12, 15$ etc boundaries the number is con-
+gruent to $0$. For regions of $7, 10, 13, 16,$ etc boundaries the number
+is congruent to $-1$. Then, for $N_5, N_6, N_7$ etc regions of $5,$
+$6, 7$ etc boundaries, [del]the total three[/del] the total sum (since each
+corner is counted thrice) is congruent to
+$$\frac{1}{3} (N_5 - N_7 + N_8 - N_{10} + N_{11} - N_{13} + N_{14} - \text{etc})$$
+But by the census theorem
+$$\frac{1}{3} N_5 = 4 + \frac{1}{3} N_7 + \frac{2}{3} N_8 + N_9 + 1\frac{1}{3} N_{10} + 1\frac{2}{3} N_{11} + \text{etc}$$
+Hence the total is congruent to
+$$4 + N_8 + N_9 + N_{10} + 2N_{11} + 2N_{12} + 2N_{13} + \text{etc}.$$
+which is a whole number and is therefore possible. For
+instance, in Fig. 13. $N_5 = 14, N_6 = 4, N_8 = 1,$ and [del]consequently[/del] [ins]the number[/ins]
+of corners of value $-1$ is $5$.
+
+[fig]A circular map with concentric rings and radial boundaries, labeled Fig. 13.[/fig]
+Fig. 13
+
+In order to prove the proposition, I find
+it easiest to prove much more than that
+proposition. Namely, I shall prove that
+in any map of the kind considered,
+namely a map that can be drawn on a
+spheroidal surface, [del]having[/del] [ins]where[/ins] three boundaries meet at every
+corner, no region of less than $5$ boundaries, and no region
+or mass of two regions having any cyclosis, not only can
+the corners [del]all[/del] receive [ins]each[/ins] the value $+1$ or $-1$ so as to make the
+sum of the values round each region divisible by three, but further-
+more, [del]select[/del] any region of the map being arbitrarily selected and
+any two adjacent corners of that region, all the other corners of that

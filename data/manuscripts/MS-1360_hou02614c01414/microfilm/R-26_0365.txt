@@ -1,0 +1,23 @@
+These coordinates are thus too oblique; and besides, the coefficient $\partial x_N / \partial \frac{k}{Q}$ changes its value too rapidly to afford a good linear approximation. We have
+
+$$\delta \left( \frac{k x_N}{Q} \right) = \delta \left( \frac{k x'_N}{Q} \right) - \delta \left( \frac{k x'_0}{Q} \right) = \cos \tau_N d \left( \frac{k s'_N}{Q} \right) - \cos \tau_0 d \left( \frac{k s'_0}{Q} \right),$$
+
+$$\delta \left( \frac{k y_N}{Q} \right) = \delta \left( \frac{k y'_N}{Q} \right) - \delta \left( \frac{k y'_0}{Q} \right) = \sin \tau_N d \left( \frac{k s'_N}{Q} \right) - \sin \tau_0 d \left( \frac{k s'_0}{Q} \right).$$
+
+These give
+
+$$\delta \left( \frac{k s'_N}{Q} \right) = \frac{\cos \tau_0 \delta \left( \frac{k y_N}{Q} \right) - \sin \tau_0 \delta \left( \frac{k x_N}{Q} \right)}{\sin (\tau_N - \tau_0)},$$
+
+$$\delta \left( \frac{k s'_0}{Q} \right) = \frac{\cos \tau_N \delta \left( \frac{k y_N}{Q} \right) - \sin \tau_N \delta \left( \frac{k x_N}{Q} \right)}{\sin (\tau_N - \tau_0)}.$$
+
+The difference of which is
+
+$$s_N \delta \frac{k}{Q} = \frac{(\sin \tau_N - \sin \tau_0) \delta \left( \frac{k x_N}{Q} \right) - (\cos \tau_N - \cos \tau_0) \delta \left( \frac{k y_N}{Q} \right)}{\sin (\tau_N - \tau_0)};$$
+
+whence
+
+$$\delta \left( Br. \log \frac{k}{Q} \right) = M \frac{(\sin \tau_N - \sin \tau_0) \delta x_N - (\cos \tau_N - \cos \tau_0) \delta y_N}{\sin (\tau_N - \tau_0) s_N - (\sin \tau_N - \sin \tau_0) x_N + (\cos \tau_N - \cos \tau_0) y_N}.$$
+
+If we do not know $\delta x_N$ and $\delta y_N$, but know $\delta [x_N - c(x_Q - x_P)]$ and $\delta [y_N - c(y_Q - y_P)]$ we have using double accents when the origin is at $\frac{1}{2} N$.
+
+$$\delta \left( Br. \log \frac{k}{Q} \right) = M \frac{[\sin \tau_N - \sin \tau_0 - c(\sin q - \sin p)] \delta [x_N - c(x_Q - x_P)] - [\cos \tau_N - \cos \tau_0 - c(\cos q - \cos p)] \delta [y_N - c(y_Q - y_P)]}{\begin{aligned} & [\sin \tau_N - \sin \tau_0 - c(\sin q - \sin p)] [(\cos \tau_N + \cos \tau_0) s''_N - c(\cos q \cdot s''_Q - \cos p \cdot s''_P) - x_N + c(x_Q - x_P)] \\ & - [\cos \tau_N - \cos \tau_0 - c(\cos q - \cos p)] [(\sin \tau_N + \sin \tau_0) s''_N - c(\sin q \cdot s''_Q - \sin p \cdot s''_P) - y_N + c(y_Q - y_P)] \end{aligned}}$$

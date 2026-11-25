@@ -1,0 +1,17 @@
+[pn]MS 570[/pn] [u]Sketch of the Theory of[/u]
+[u]Non-Associative Multiplication.[/u]
+By C. S. Peirce.
+
+[u]1.[/u] Any factor [ins]i[/ins] [del]whatever[/del] may be conceived as consisting of a sum of elementary fractions like (A:B), whose denominators are all the elements of quantities which being multiplied by i give a product other than zero and whose numerators are the results of the multiplication.
+We have then, by definition,
+(A:B) B = A     (A:B) C = 0
+
+The last equation holds because if i multiplied by C gives A or any quantity of which A is a part, it is necessary [ins]by our rules,[/ins] to include [ins](A:C)[/ins] among the elementary fractions which compose i, [del](A:C)[/del]. Then since (A:C) C = A and {(A:B) + (A:C)} C = A, it follows that (A:B) C = 0.
+
+In the case of associative multiplication, since
+{(A:B) (B:C)} C = (A:B) {(B:C) C} = A,
+and {(A:B) (B:C)} D = (A:B) {(B:C) D} = 0,
+we have (A:B) (B:C) = (A:C); for it is the definition of (A:C) that multiplied by C it gives A, and multiplied by anything else it gives zero.
+
+In the case of non-associative multiplication, this equation does not hold and, therefore, for the same reason that (A:B) C = 0 we have,
+(A:B) (B:C) = 0.

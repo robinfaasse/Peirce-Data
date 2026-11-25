@@ -1,0 +1,33 @@
+[pn]31[/pn] That I have underlined in red, and the rules that whatever expressions
+$\alpha, \beta, \gamma$ may be $\alpha + \beta = \beta + \alpha$ and [del]$(\alpha + \beta) + \gamma = \alpha + (\beta + \gamma)$ if $\alpha + \beta = \delta$[/del] if $\alpha + \beta = \delta$
+and $\beta + \gamma = \epsilon$ then $\delta + \gamma = \alpha + \epsilon$; and $\beta + 0 = \beta$, and if $\alpha + \gamma = \beta + \gamma$ then $\alpha = \beta$,
+and [del]$\alpha \beta = \pi$ and $\alpha \gamma = \kappa$[/del] if $\alpha \beta = \pi$ and $\alpha \gamma = \kappa$ and $\beta + \gamma = \delta$, then $\alpha \delta = \pi + \kappa$,
+and $\alpha 0 = 0$, and if $\alpha \beta = \pi$ and $\beta \gamma = \psi$ then $\pi \gamma = \alpha \psi$ which are all
+almost universal rules of algebra, together with the special rule that
+if $\alpha \beta = \alpha \gamma$ then either $\alpha = 0$ or $\beta = \gamma$. The sign, $-$, has this meaning $\alpha - \beta = \gamma$
+is merely a way of writing $\alpha = \gamma + \beta$. Hence $\beta - \beta = \gamma$ is a way of writing
+$\beta = \gamma + \beta$ But $\beta = \beta + 0 = 0 + \beta$ Hence $\beta - \beta = \gamma$ is a way of writing $0 + \beta = \gamma + \beta$
+But by the rule [del]at the end of the third[/del] [ins]on line[/ins] of this page it follows that $\gamma = 0$
+that is that $\beta - \beta = 0$, whatever expression of the algebra $\beta$ may be. $-\gamma$ is
+such a quantity that $\alpha + (-\gamma) = \alpha - \gamma$. Since [del]$\beta \cdot$[/del] $\alpha 0 = 0$, if $\alpha \beta = 0$, then $\alpha \beta = \alpha 0$
+and by the rule underscored in blue, if $\alpha \beta = 0$, then since $\alpha \beta = \alpha 0$, either $\alpha = 0$
+or $\beta = 0$. We have then, [u]Result No. 1[/u], if $\alpha \beta = 0$, either $\alpha = 0$ or $\beta = 0$. This
+result holds whatever [del]expressions[/del] $\alpha$ and $\beta$ maybe (provided that each is
+a permissible expression). It will therefore hold good when $\alpha = \beta$ But in
+that case, we have by Result No. 1, that if $\alpha^2 = \alpha \alpha = 0$ then $\alpha = 0$. That is
+we have, as [u]Result No. 2[/u] that [del]$0$ is the only expression[/del] equal to zero are the
+only ones whose squares vanish. But from this it follows that if, since
+every [del]term of the[/del] expression is of the universal form and because
+$(\alpha + \beta)^2 = \alpha^2 + \alpha \beta + \beta \alpha + \beta^2$ and since $(A:B)(C:D) = 0$ if $B$ and $C$ are different,
+we have as [u]Result No. 3[/u] that [del]with[/del] every expression must have some capital letter that
+both follows a colon and precedes a colon.
+
+[fig]Line segment diagram with points A_n, A_n+1[/fig] $\sum_{-\infty}^{+\infty} A_i : A_{i+1}$
+
+$\beta = [del]b_1[/del] [ins]b_0[/ins] (D:E) + b_1 (E:F) + b_2 (F:G) + b_3 (G:H)$
+$+ \text{etc}$
+Suppose $F = A_q \gamma$
+$\beta \alpha = b_1 a_q (E:A_q)$
+
+$\alpha = \sum_{-\infty}^{+\infty} a_i (A_i : A_{i+1})$
+$\alpha^m = \sum_{-\infty}^{+\infty} \frac{\Pi a_i}{\Pi a_{i+m}} (A_i : A_{i+m})$

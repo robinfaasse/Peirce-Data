@@ -1,0 +1,34 @@
+[pn]8[/pn]
+
+quantity,
+which extends endlessly forward and backward without a limit,
+or $\infty$.
+
+This system may be formally defined as follows: There is [del]a[/del]
+[del]oper[/del] function $E$, such that [ins]being a[/ins] [u]known[/u] and [u]$x$[/u] an unknown quantity
+of the system, the equations
+$$E\underline{x} = \underline{a} \text{ and } E\underline{a} = \underline{x}$$
+have each, in every case, just one solution, and such that taking
+any two different quantities [u]$a$[/u] and [u]$b$[/u] of the system one of them
+may be produced from the other by repeatedly performing the operation
+$E$ upon it, and no performance of this operation or repetition of it
+upon a quantity of the system can give that quantity.
+
+[u]Art. 6[/u]. In this, as in every system of quantity there is a function,
+$S$, of two variables such that
+$$S(E\underline{x},\underline{y}) = S(\underline{x},E\underline{y}) = E S(\underline{x},\underline{y}).$$
+And there is a quantity [u]$u$[/u] such that
+$$S(\underline{u},\underline{u}) = \underline{u}.$$
+The operation $S$ is called addition, and the quantity [u]$u$[/u], [del]$\infty$[/del] [ins]zero[/ins].
+
+Another operation is defined by the general formulae
+$$P(E\underline{x},\underline{y}) = S[P(\underline{x},\underline{y}), \underline{y}],$$
+$$P(\underline{x},E\underline{y}) = S[\underline{x}, P(\underline{x},\underline{y})],$$
+$$P(0,0) = 0.$$
+This is multiplication. From these definitions [del]of the operations[/del] all their
+[del]fundamental properties are readily deducible.[/del]
+
+[u]Art. 7[/u]. The last operation [del]is[/del] causes the enlargement of the
+system of datary quantity, to make a new system. For while
+the equation
+$$S(\underline{x}, \underline{y}) = \underline{z}$$

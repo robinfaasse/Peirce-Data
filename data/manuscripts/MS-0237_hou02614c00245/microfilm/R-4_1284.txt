@@ -1,0 +1,37 @@
+[marginalia]
+Repeated
+Differentials
+
+[u]1[/u]
+
+[del]M 237[/del]
+[/marginalia]
+
+[u]Formulae for Repeated Differentiation[/u]
+
+[pn]1[/pn]
+
+$\frac{Dw}{w} = D\log w$
+
+$\therefore \frac{v}{u} D\frac{u}{v} = D\log u - D\log v = \frac{Du}{u} - \frac{Dv}{v}$
+
+$\therefore D\frac{u}{v} = \frac{Du}{v} - \frac{u Dv}{v^2} = \frac{Du}{v} - \frac{Dv}{v} (\frac{u}{v})$
+
+$\therefore \frac{D^2 w}{w} = D^2 \log w + \frac{(Dw)^2}{w^2} = D^2 \log w + (D\log w)^2$
+
+$\therefore \frac{v}{u} D^2 \frac{u}{v} = D^2 \log u - D^2 \log v + (D\log u)^2 - 2 D\log u D\log v + (D\log v)^2$
+$= \frac{D^2 u}{u} - \frac{(Du)^2}{u^2} - \frac{D^2 v}{v} + \frac{(Dv)^2}{v^2} + \frac{(Du)^2}{u^2} - 2 \frac{Du}{u} \frac{Dv}{v} + \frac{(Dv)^2}{v^2}$
+$= \frac{D^2 u}{u} - \frac{D^2 v}{v} - 2 \frac{Du Dv}{u v} + 2 \frac{(Dv)^2}{v^2}$
+
+$\therefore D^2 \frac{u}{v} = \frac{D^2 u}{v} - \frac{u D^2 v}{v^2} - 2 \frac{Du Dv}{v^2} + 2 \frac{u (Dv)^2}{v^3} = \frac{D^2 u}{v} - \frac{D^2 v}{v} \frac{u}{v} - 2 \frac{Du Dv}{v^2} + 2 \frac{(Dv)^2}{v^2} \frac{u}{v}$
+
+$\therefore \frac{D^3 w}{w} = D^3 \log w + \frac{D^2 w \cdot Dw}{w^2} - \frac{Dw \cdot D^2 w}{w^2} - \frac{Dw \cdot Dw^2}{w^2} + 2 \frac{(Dw)^3}{w^3}$
+$= \frac{D^3 w}{w} - 3 \frac{D^2 w \cdot Dw}{w^2} + 2 \frac{(Dw)^3}{w^3}$
+$= \frac{D^3 w}{w} - 3 [D^2 \log w + (D\log w)^2] D\log w + 2 (D\log w)^3$
+$= \frac{D^3 w}{w} - 3 D^2 \log w \cdot D\log w - (D\log w)^3$
+
+$\therefore \frac{D^3 w}{w} = D^3 \log w + 3 D^2 \log w \cdot D\log w + (D\log w)^3$
+
+$\therefore \frac{v}{u} D^3 \frac{u}{v} = D^3 \log u - D^3 \log v + 3 (D^2 \log u \cdot D\log u - D^2 \log v \cdot D\log v) + (D\log u)^3 - 3 D^2 \log u D\log v - 3 D\log u D^2 \log v + 3 D\log u (D\log v)^2 - (D\log v)^3$
+$= \frac{D^3 u}{u} - 3 \frac{D^2 u Du}{u^2} + 2 \frac{(Du)^3}{u^3} - \frac{D^3 v}{v} + 3 \frac{D^2 v Dv}{v^2} - 2 \frac{(Dv)^3}{v^3} + 3 (\frac{D^2 u}{u} - \frac{(Du)^2}{u^2}) (\frac{Du}{u} - \frac{Dv}{v}) - 3 (\frac{D^2 v}{v} - \frac{(Dv)^2}{v^2}) (\frac{Du}{u} - \frac{Dv}{v}) + (\frac{Du}{u} - \frac{Dv}{v})^3$
+$= \frac{D^3 u}{u} - 3 \frac{D^2 u Dv}{u v} + 3 \frac{Du (Dv)^2}{u v^2} - \frac{(Dv)^3}{v^3} \dots$

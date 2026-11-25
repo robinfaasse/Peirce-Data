@@ -1,0 +1,33 @@
+[pn]3[/pn] This furnishes a method of dividing
+by any odd number; and of course di-
+vision by [del]a[/del] power of two is merely a
+matter of shifting the units place by [del]as man[/del]
+a number of places to the left equal to the
+exponent of that power. For [del]that[/del] every
+odd number exactly divides some F[sub]n[/sub]
+is proved as follows. First, if the number
+in question is a prime, say p, then F[sub]p-1[/sub]
+is divisible by p. (Thus 5 and 7 being primes,
+F4 = F(5-1) = 1111 and F6 = F(7-1) = 111111
+[del]is divi[/del] This is an immediate consequence of
+one of the most historically famous propo-
+sitions of mathematics, which goes by the
+name of "Fermat's theorem." Pierre de
+Fermat was a lawyer of Toulouse who in
+reading the arithmetic of the Greek (Alexan-
+drian) Diophantos, took occasion
+to jot down in the margins any additional pro-
+
+positions that might strike him. In 1670, after his death, they were
+printed, and for long, — certainly for more than a century, — proved
+an insoluble enigma to the mathematical world. In fact, when I was
+younger, and scientific discoveries did not rain upon us: thick as now-a-days,
+there was still one of Fermat's statements that had not been proved either
+true or false. How it is now I don't know. All the others were true, I believe.
+The one that goes by the name of "Fermat's theorem" [u]par excellence[/u], is that
+if [u]p[/u] is any prime and [u]n[/u] is any integer not divisible by [u]p[/u], then [u]n[/u][sup][u]p[/u]-1[/sup] - 1 is
+divisible by [u]p[/u]. For example, let p = 5. Then the 4[sup]th[/sup] power of any
+whole number, written decimally, will have either 6 or 1 in the units'
+place; so that one less than that will be divisible by 5. If p is an
+odd prime and n = 2, n[sup]p-1[/sup] - 1 will be F(p-1) and will, by the the-
+orem be divisible by p. I may mention that Fermat came nearer

@@ -1,0 +1,59 @@
+u
+
+[del]a[/del]
+[del]a (1 - [frac12]a)[/del]
+[del]a [1 - [frac12]a (1 - [frac23]a)][/del]
+a {1 - [frac12]a [1 - [frac23]a (1 - [frac38]a)]}
+a (1 - [frac12]a {1 - [frac23]a [1 - [frac38]a (
+
+a
+a - [frac12]a^2
+a - [frac12]a^2 + [frac13]a^3
+a - [frac12]a^2 + [frac13]a^3 - [frac14]a^4
+a - [frac12]a^2 + [frac13]a^3 - [frac14]a^4 + [frac15]a^5
+a - [frac12]a^2 + [frac13]a^3 - [frac14]a^4 + [frac15]a^5 - [frac16]a^6
+
+- [frac12]a^2
++ [frac13]a^3
+- [frac14]a^4
++ [frac15]a^5
+- [frac16]a^6
+
+[del]x^2 - [frac12]x + [frac13][/del]
+[del]x^2 - [frac12]x + [frac13][/del]
+[del]x^2 - [frac12]x + [frac13][/del]
+[del]x^2 - [frac12]x + [frac13][/del]
+[del]x^2 - [frac12]x + [frac13][/del]
+[del]x^2 - [frac12]x + [frac13][/del]
+
++ [frac16] - [frac13]a^2 + [frac12]a^2
++ - [frac14]a^4 - [frac13]a^3
++ [frac15]a^5 + [frac14]a^4
+- [frac16]a^6 - [frac15]a^5
+
+[frac{[frac14]a^4}{[frac13]a^3 + [frac12]a^2}} = [frac{[frac14]a^2}{[frac13]a + [frac12]}]
+
+[frac{A}{A + B}] = [frac{A}{A(1 + [frac{B}{A}])}] [del]~[/del] [frac{A}{1 - [frac{B}{A}]}] = [frac{A^2}{A - B}]
+A + B + C = A (1 + [frac{B+C}{A}]) = [frac{A}{1 - [frac{B+C}{A}]}] = [frac{A^2}{A - (B+C)}]
+= [frac{A^2}{A - [frac{B^2}{B-C}]}]
+
+1 1
+2 3
+3 6
+4 10
+5 15
+6 21
+
+1 + x + x^2 + x^3 + x^4
+1 + 2x + 3x^2 + 4x^3
+F_0 - F_1 = 1
+
+1 + y + y^3 + y^6 + y^10 + y^15
+
+A + B + C
+[del]A[/del] [frac{B}{A}] [frac{C}{B}]
+
+A  A[frac{B}{A}]  A[frac{B^2}{A^2}]([frac{AC}{B^2}])  A[frac{B^3}{A^3}]([frac{AC}{B^2}])^3
+[frac{B}{A}]  [frac{B}{A}]([frac{AC}{B^2}])  [frac{B}{A}]([frac{AC}{B^2}])^2  [frac{B}{A}]([frac{AC}{B^2}])^3
+
+1 + x + x^2y + x^3y^3 + x^4y^6

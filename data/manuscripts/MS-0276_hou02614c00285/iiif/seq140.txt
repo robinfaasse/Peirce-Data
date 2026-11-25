@@ -1,0 +1,25 @@
+[fig]sketch of circles and tangent lines[/fig]
+
+$\frac{r}{\mathcal{R}}$ [del]$\mathcal{R}$[/del] $\alpha = \frac{\mathcal{R}^2}{\alpha'}$ [del]$\frac{a'}{2\mathcal{R}^2}$[/del] $b = \frac{\mathcal{R}^2}{b'}$
+$(x-\alpha)^2 + (y-\beta)^2 = \rho^2$
+$x^2-2x\alpha + [del]\alpha^2[/del] + y^2-2y\beta + \beta^2 = \rho^2$ [ins]$\alpha^2$[/ins] [ins]now if[/ins]
+[del]$\alpha'$[/del] $x^2 + y^2 - 2x\alpha - 2y\beta + \mathcal{G} = 0$ [fig]sketch of circles and tangent lines[/fig] $\alpha' = \frac{\alpha r^2}{\mathcal{G}}$ $\beta' = \frac{\beta r^2}{\mathcal{G}}$
+$\mathcal{G}' = \frac{r^4}{\mathcal{G}}$
+I have to show that
+for $y = 0$ $x' = \frac{r^2}{x}$
+$x^2 - 2x\alpha + \mathcal{G} = 0$ $x'^{2} + y'^{2} - 2x'\alpha' - 2y'\beta'$
+$(x-\alpha)^2 = \alpha^2 - \mathcal{G}$ [ins]$+\mathcal{G}' = 0$[/ins]
+$x = \alpha \pm \sqrt{\alpha^2-\mathcal{G}}$ $\alpha'$ Put $y = 0$
+$x'^{2} - 2x' \frac{\alpha r^2}{\mathcal{G}} + \frac{r^4}{\mathcal{G}} = 0$
+$x x' = \frac{r^2}{\mathcal{G}} (\alpha^2 - \frac{\alpha}{\alpha_2}^1 = \frac{r^2}{\alpha_2}$ $\frac{\mathcal{R}^4}{\mathcal{G}} x' = r$
+$\mathcal{G}' = \frac{r^4}{\mathcal{G}}$
+[fig]circle with horizontal and vertical lines[/fig] $\frac{\alpha'_1}{r} = \frac{r}{\alpha_2}$ $\alpha$ $\beta$ $\mathcal{G}' = \alpha'^2 + \beta'^2 - \gamma'^2$
+$(x' - \frac{\alpha r^2}{\mathcal{G}})^2 = r^4 (\frac{\alpha^2}{\mathcal{G}^2} - \frac{1}{\mathcal{G}})$
+$\frac{\alpha_1+\alpha_2}{2} = \alpha$ $x' = \frac{\alpha r^2}{\mathcal{G}} \pm r^2 \frac{\sqrt{\alpha^2 - \mathcal{G}}}{\mathcal{G}}$
+$= \frac{r^2}{\mathcal{G}} (\alpha \pm \sqrt{\alpha^2-\mathcal{G}})$
+$\sqrt{\alpha^2+\beta^2} - \rho$ [ins]one[/ins]
+[del]$\sqrt{\alpha^2+\beta^2} + \rho$[/del] $m$ dist from centre of projection to nearest point of circle
+[del]$m'$[/del] " furthest " other "
+$\sqrt{\alpha^2+\beta^2} + \rho$ " furthest " former circle
+$\sqrt{\alpha^2+\beta^2} + \rho$ $n$ " [del]nearest[/del] " latter circle
+$m' = \frac{r^2}{m}$ $n' = \frac{r^2}{n}$ $\mathcal{R} = \frac{m+n}{2}$ [del]$\frac{\sqrt{\alpha^2+\beta^2}}{2}$[/del] $\mathcal{R}' = \frac{m'+n'}{2} = \frac{r^2}{2} \cdot \frac{m+n}{mn} =$

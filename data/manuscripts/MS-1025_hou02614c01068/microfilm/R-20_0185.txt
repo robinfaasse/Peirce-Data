@@ -1,0 +1,15 @@
+$$\frac{dx}{dt} = ax + b \mathfrak{G}^{ct}$$
+
+$$x = m \mathfrak{G}^{at} + n \mathfrak{G}^{ct}$$
+
+$$\frac{dx}{dt} = am \mathfrak{G}^{at} + cn \mathfrak{G}^{ct}$$
+
+$$= ax + (c-a)n \mathfrak{G}^{ct}$$
+
+$$b = (c-a)n \qquad n = \frac{b}{c-a}$$
+
+$$x = m \mathfrak{G}^{at} + \frac{b}{c-a} \mathfrak{G}^{ct}$$
+
+$$\frac{dx}{dt} = am \mathfrak{G}^{at} + \frac{bc}{c-a} \mathfrak{G}^{ct}$$
+
+$$= c$$

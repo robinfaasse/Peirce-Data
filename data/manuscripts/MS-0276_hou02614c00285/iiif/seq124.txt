@@ -1,0 +1,18 @@
+When $\angle AVC = \frac{1}{2}\pi$
+$p^{2}$ can be eliminated by the equal[del]s[/del][ins]ity[/ins]
+[del]$p^{2} = (\rho^{2} + \gamma^{2}) (p^{2} + \alpha^{2})$[/del]
+$p^{2} = \gamma\alpha$
+giving
+$(\alpha\gamma + \gamma^{2})(\alpha + q) + (\alpha\gamma + \alpha^{2})(\gamma - q)$
+$= (\alpha\gamma + q^{2})(\gamma + \alpha) + (\gamma - q)(\alpha + q)(\gamma + \alpha)$
+and we now have
+$(\alpha\gamma + \gamma^{2})(\alpha + q)^{2} + (\alpha\gamma + \alpha^{2})(\gamma - q)^{2}$
+$= (\alpha\gamma + q^{2})(\gamma + \alpha)^{2}$
+For developing,
+$\alpha^{2}\gamma + \alpha\gamma^{2} + 2\alpha^{2}\gamma q + 2\alpha\gamma^{2}q + \alpha\gamma q^{2} + \gamma^{2}q^{2}$
+$+\alpha\gamma^{2} + \alpha^{2}\gamma - 2\alpha^{2}\gamma q - 2\alpha\gamma^{2}q + \alpha\gamma q^{2} + \alpha^{2}q^{2}$
+$-\alpha\gamma^{3} - 2\alpha^{2}\gamma^{2} - \alpha^{3}\gamma$ [del]$- 2\alpha\gamma q^{2} - \gamma^{2}q^{2} - \alpha^{2}q^{2}$[/del]
+
+But I declare I don't see how anybody ever
+derived this from the consideration of the Stewart
+Simson Proposition.

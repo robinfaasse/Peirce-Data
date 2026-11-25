@@ -1,0 +1,29 @@
+[pn]Logic
+III
+11 1/2[/pn]
+
+$$\begin{array}{ccc}
+x = y & x = \bar{y} & x = \bar{y} \\
+x = V & x = V & x = F \\
+\therefore y = V & \therefore \bar{y} = F & \therefore y = V
+\end{array}$$
+
+Really the same as the last two, though they appear different owing to the imperfection of the notation use, are the following:
+
+$$\begin{array}{cc}
+x = \bar{y} & x = \bar{y} \\
+y = F & y = V \\
+\therefore x = V & \therefore x = F.
+\end{array}$$
+
+The mathematician always extends and generalizes his notation. Why not write $x = \bar{V}$ and $x = \bar{F}$, [del]to which yield[/del] [ins]to which correspond[/ins] the [del]following[/del] [ins]inferential[/ins] forms?
+
+$$\begin{array}{cc}
+x = \bar{F} & x = \bar{V} \\
+F = F & V = V \\
+\therefore x = V & \therefore x = F.
+\end{array}$$
+
+The premises $F=F$ and $V=V$ are no new postulates. For a postulate expresses in part the hypothesis of the system. But these are mere empty formulae arising from the superfluities of the notation. For $x = \bar{F}$ is but a superfluous form for expressing $x = V$, and $x = \bar{V}$ of expressing $x = F$.
+
+We may strip off these superfluities of notation. But unless we do so by arbitrarily forbidding certain combinations of [del]symbols[/del] [ins]signs[/ins],

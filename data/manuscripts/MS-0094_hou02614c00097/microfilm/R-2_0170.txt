@@ -1,0 +1,25 @@
+[pn]74.[/pn] [pn]160[/pn]
+
+$\S$ 83. There is a method of representing imaginary quantities by
+points on a plane which throws much light on the nature of
+these expressions, and has other uses. We shall, therefore, do well
+to refer to it, although it is quite disconnected from graphics.
+Taking the imaginary expression
+[u]x[/u]+[u]y[/u][u]i[/u]
+where [u]i[/u]$^{2}$=-1, let us multiply and divide it by the essentially
+positive quantity [u]R[/u] = $\sqrt{\underline{x}^{2}+\underline{y}^{2}}$ which gives us
+[u]x[/u]+[u]y[/u][u]i[/u] = [u]R[/u] $\left( \frac{\frac{\underline{x}}{\underline{y}}}{\sqrt{1+\frac{\underline{x}^{2}}{\underline{y}^{2}}}} + \frac{\underline{i}}{\sqrt{1+\frac{\underline{x}^{2}}{\underline{y}^{2}}}} \right)$
+
+Now mark a point on a plane and call it zero. Around it as a centre
+describe circles, and let R have a distinct value for each of these,
+[ins]the value of R[/ins] proportional to the radius of the circle. Finally draw
+[fig]Polar coordinate grid with concentric circles and radial lines[/fig] rays through the zero and let [u]x[/u]/[u]y[/u] have a distinct
+value for each of these, the value of [u]x[/u] being [ins]measured[/ins] [del]measured[/del] [ins]along one of these[/ins] [del]rays[/del] [ins]rays[/ins]
+[del]to[/del] going from it in one direction, and the value of [u]y[/u] being
+the distance from [del]another[/del] [ins]the other[/ins] of the [del]rays[/del] [ins]That is[/ins] (at right angles to the first.
+
+In this way, every imaginary quantity will have a point
+of the plane assigned to it. Imagine the figure of circles and rays
+to be movable. Let it be moved without being turned. [pn]415[/pn]
+[del]and[/del] [del]instead[/del] of being at zero, will now be at [del]some[/del] [ins]the[/ins] point appropri-
+ated to [del]some other quantity[/del] [ins]A[/ins]; and it is plain that the

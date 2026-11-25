@@ -1,0 +1,35 @@
+[pn]116[/pn]
+
+[u][The Rule of Algebraical Subtraction.][/u]
+
+" [u]Theorem. 34. [u]A remainder after subtraction equals the[/u][/u]
+[u][u]sum of the minuend and the negative of the subtrahend.[/u][/u]
+
+[u]Demonstration[/u]. Let M be any minuend, S a subtrahend, and
+the remainder R. [ins]Then I say R = M + (-S). For[/ins] Then, by the meaning of subtraction,
+M = R + S
+Adding the negative of S
+M + (-S) = (R + S) + (-S)
+which by Theorems 14, and 31 equals R. [del]Q.E.D.[/del] Q.E.D.
+
+Art. 57. [del]Definition 58.[/del] Let the multiplication of negative numbers
+be so understood, that if [ins]for[/ins] a factor not positive the number next lower
+is substituted, the product will be diminished by the other factor.
+
+[u][The Rule of Signs.][/u]
+[u]Theorem 35. [u]The effect of substituting for a factor of a product[/u][/u]
+[u][u]its negative is to change the product to its negative.[/u][/u]
+
+[u]Demonstration[/u]. First, suppose the unchanged factor, P, is
+positive. Then I say that P(-Q) = -(PQ). Suppose Q positive, and
+[ins]I have a value for which the equation holds.[/ins]
+Then, by Theorem 29, -Q - 1 is the number next smaller than -Q and,
+by Theorem 32, -Q - 1 = -(Q + 1). But, by [del]Theorem[/del] [ins]Definition[/ins] 54, P(-Q - 1) =
+P(-Q) - P, which, by hypothesis, equals -(PQ) - P, which, by Theorem
+32, equals -[(PQ) + P], which, by Theorem 23, equals -[P(Q + 1)]. Hence,
+thus, if P(-Q) = -(PQ) holds for any positive value of Q (P being
+positive) it holds for the next greater value. But it holds for Q = 0
+by Postulate 4 and Theorem 18. Hence it holds for all positive values of
+Q (P being positive). If Q is negative, let [u]Q[/u] be its negative, which
+will be positive. Then the product P(-[u]Q[/u]) = PQ by Theorem 30, and as
+we have just shown, P(-[u]Q[/u]) = -(P[u]Q[/u]), which is -[P(-Q)]. Hence -PQ = -[P(-Q)] again

@@ -1,0 +1,29 @@
+[marginalia]
+[date]Monon's Bridge 1899 March 1[/date]
+[/marginalia]
+
+[pn]5[/pn]
+
+$\xi_{R}'' = \xi_{N} - (R-N) + \sqrt{(\frac{R^{2}-N^{2}}{r})^{2} + (R-N)^{2} - (\frac{R^{2}-N^{2}}{r} - \eta_{N})^{2}}$
+
+$\xi_{-R}'' = -\xi_{-N} - (R-N) + \sqrt{(\frac{R^{2}-N^{2}}{r})^{2} + (R-N)^{2} - (\frac{R^{2}-N^{2}}{r} - \eta_{-N})^{2}}$
+
+$\xi_{R}'' = [del]\frac{1}{2}[/del] [ins]\frac{1}{2}[/ins] (\xi_{N} - \xi_{-N}) - (R-N) + \frac{1}{2} \sqrt{\hspace{4cm}}$
+$\hspace{4.5cm} + \frac{1}{2} \sqrt{\hspace{4cm}}$
+
+$= \frac{1}{2}(\xi_{N} - \xi_{-N}) - (R-N) + \begin{aligned} & \frac{1}{2}(R-N)\sqrt{1 + (\frac{R+N}{r})^{2}} \sqrt{1 - \frac{(\frac{R^{2}-N^{2}}{r} - \eta_{N})^{2}}{(R-N)^{2} [1 + (\frac{R+N}{r})^{2}]}} \\ & + \frac{1}{2}(R-N)\sqrt{1 + (\frac{R+N}{r})^{2}} \sqrt{1 - \frac{(\frac{R^{2}-N^{2}}{r} - \eta_{-N})^{2}}{(R-N)^{2} [1 + (\frac{R+N}{r})^{2}]}} \end{aligned}$
+
+$\frac{1}{2} \sqrt{(R-N)^{2} + 2 \frac{R^{2}-N^{2}}{r} \eta_{N} + \eta_{N}^{2}}$
+
+$\frac{1}{2}(R-N) \sqrt{1 + 2 \frac{R+N}{r} \frac{\eta_{N}}{R-N} + \frac{\eta_{N}^{2}}{(R-N)^{2}}}$
+
+$\frac{1}{2}(R-N) \left\{ 1 + \frac{R+N}{r} \frac{\eta_{N}}{R-N} + \begin{aligned} & \frac{1}{2} \frac{\eta_{N}^{2}}{(R-N)^{2}} \\ & - \frac{1}{2} (\frac{R+N}{r})^{2} \frac{\eta_{N}^{2}}{(R-N)^{2}} \end{aligned} \right\}$
+
+$(\theta_{n+s} - \theta_{n})^{2} = \frac{(\eta_{n+s} - 2\eta_{n} + \eta_{n-s})^{2}}{s^{2}}$
+
+$\frac{\mathcal{B}}{s^{3}} \left\{ \eta_{n+2s} - 4\eta_{n+s} + 6\eta_{n} - 4\eta_{n-s} + \eta_{n-2s} \right\}$
+
+[fig]Calculation table:
+1 -2 1
+  -2 4 -2
+1 -4 +5 -2[/fig]

@@ -1,0 +1,35 @@
+[pn]145[/pn]
+
+$$\left| \begin{matrix}
+-1 & 0 & 0 \\
+-4 & -6 & 1 \\
+p-q & 2p-3q+r & px+qy+rz-q
+\end{matrix} \right|$$
+
+This gives
+
+$$\left| \begin{matrix}
+-6 & 1 \\
+2p-3q+r & px+qy+rz-q
+\end{matrix} \right|$$
+
+Adding 6 times the second column to the first we get
+
+$$\left| \begin{matrix}
+0 & 1 \\
+\left\{ \begin{matrix} 2p-3q+r \\ +6px+6qy+6rz \end{matrix} \right. & px+qy+rz-q \end{matrix} \right|$$
+
+This gives
+
+$$2p-9q+r+6px+6qy+6rz = 0$$
+
+[del]Make p=[/del]
+We can give any values we like to p, q, r. Make [u]p[/u]=1, [u]q[/u]=0, [u]r[/u]=0, and we have
+$$2+6x = 0,$$
+$$x = -\frac{2}{6}$$
+Make [u]q[/u]=1, [u]p[/u]=[u]r[/u]=0, and we get
+$$-9+6y = 0,$$
+$$y = \frac{9}{6}.$$
+Make [u]r[/u]=1, [u]p[/u]=[u]q[/u]=0, and we get
+$$1+6z = 0$$
+$$z = -\frac{1}{6}.$$

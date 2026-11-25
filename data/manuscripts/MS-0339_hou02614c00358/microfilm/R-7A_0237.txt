@@ -1,0 +1,23 @@
+[pn]60r[/pn]
+
+Now $f(x+n\Delta) = A_n + B$
+
+The whole proof rests on
+
+$(a+b)^n = a^n + n a^{n-1} b + \&c$
+
+Now this is true only if $n$ is an integer
+
+$(1+d)^n fx = f(x+nd)$
+
+Suppose $n$ to be an integer [del]to[/del] [ins]so[/ins] that
+
+$nd = v$
+
+$f(x+v) = (1 + nd + \frac{n(n-1)d^2}{2} + \frac{n(n-1)(n-2)d^3}{2\cdot 3} + \&c) fx$
+
+which if $n-1 = n$
+
+$= (1 + v + \frac{v^2}{2} + \frac{v^3}{2\cdot 3} + \&c) fx$
+
+$fx = 1 + x$

@@ -1,0 +1,21 @@
+[pn]14[/pn]
+[u]Rigid suspension Bridge[/u]
+
+$\frac{1}{2} \frac{E}{L} \left( \sqrt{x_{0}^{2}+y_{0}^{2}} + \frac{E}{L} p x_{0}' \sqrt{1+\frac{y_{0}'^{2}}{x_{0}'^{2}}} - L \right)^{2} + \frac{1}{2} \frac{E}{L} \left( \sqrt{(2x_{1}'-x_{00})^{2}+y_{00}^{2}} + \frac{E}{L} p x_{1}' \sqrt{1+\frac{y_{1}'^{2}}{x_{1}'^{2}}} - L \right)^{2}$
+
+$+ \frac{1}{2} \varrho \int \left( \frac{dx}{dp} \sqrt{1+(\frac{dy}{dx})^{2}} - 1 \right)^{2} dp + \frac{1}{2} \int \left[ \frac{d(\xi-x)}{dp} \sqrt{1+(\frac{d(\eta-y+y')}{d(\xi-x)})^{2}} - 1 \right]^{2} dp$
+
+$+ \frac{1}{2} E (\eta_{0}^{2}+\eta_{00}^{2}) + \frac{1}{2} \Upsilon (\xi_{0}^{2}+\xi_{00}^{2}) + \frac{1}{2} \varepsilon \int (\frac{d^{2}\eta}{d\xi^{2}})^{2} d\xi + \frac{1}{2} \upsilon \int (\frac{d\xi}{d\xi'} - 1)^{2} d\xi' - \int \eta dq$
+
+In the third term from the end the differentiation and integration ought
+to be relative to $p$ rather than to $\xi$, I suppose; but the difference is
+to slight to be [del]noticed[/del] important. Equilibrium requires every variation
+of this expression to be equated to zero; that is,
+$0 = \frac{E}{L} \left( \frac{E}{L} + p x_{0}' \frac{1+(\frac{y_{0}'}{x_{0}'})^{2}}{\sqrt{x_{0}^{2}+y_{0}^{2}}} - \frac{L}{\sqrt{x_{0}^{2}+y_{0}^{2}}} \right) (x_{0}\delta x_{0} + y_{0}\delta y_{0}) \times$
+$+ \left( \frac{E}{L} + p x_{1}' \frac{1+(\frac{y_{1}'}{x_{1}'})^{2}}{\sqrt{(2x_{1}'-x_{00})^{2}+y_{00}^{2}}} + \frac{L}{\sqrt{(2x_{1}'-x_{00})^{2}+y_{00}^{2}}} \right) [(x_{00}-x_{1}')\delta x_{00} + y_{00}\delta y_{00}]$
+$- \varrho \left( \frac{dp}{dl} - \frac{dp/dx}{\sqrt{1+(dy/dx)^{2}}} \right) \left( \frac{d^{2}x}{dp^{2}} \delta x dp + \frac{d^{2}y}{dp^{2}} \delta y dp \right)$
+$- \left( \frac{dp}{dl'} - \frac{dp/d(\xi-x)}{\sqrt{1+[d(\eta-y+y')/d(\xi-x)]^{2}}} \right) \left[ \frac{d^{2}(\xi-x)}{dp^{2}} \int (\delta\xi-\delta x) dp + \frac{d^{2}(\eta-y+y')}{dp^{2}} \int (\delta\eta-\delta y) dp \right]$
+$+ E \eta_{0}\delta\eta_{0} + E \eta_{00}\delta\eta_{00} + \Upsilon \xi_{0}\delta\xi_{0} + \Upsilon \xi_{00}\delta\xi_{00}$
+$+ \varepsilon \frac{d^{4}\eta}{d\xi^{4}} \int \delta\eta.dp - \upsilon \left( \frac{d\xi}{d\xi'} - 1 \right) \frac{d^{2}\xi}{d\xi'^{2}} \int \delta\xi.d\xi' - \int \delta\eta.dq$
+
+This multiple equation is equivalent to the following simple equations:

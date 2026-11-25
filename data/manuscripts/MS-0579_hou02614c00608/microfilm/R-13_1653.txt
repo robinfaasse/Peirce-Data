@@ -1,0 +1,31 @@
+[pn]Ms 579[/pn]
+
+[u]Algebra of the copula[/u]
+
+With one copula we have the general form
+$$U \prec V$$
+
+With two copulas the two forms
+I. $U \prec (V \prec W)$
+II. $(U \prec V) \prec W$
+
+With 3 copulas the five forms
+I. $U \prec [V \prec (W \prec X)]$
+II. $U \prec [(V \prec W) \prec X]$
+III. $(U \prec V) \prec (W \prec X)$
+IV. $[U \prec (V \prec W)] \prec X$
+V. $[(U \prec V) \prec W] \prec X$
+
+It is a matter of curiosity to know how many of these forms there are.
+In general, if $N$ be the number of copulas $\Phi N$ the
+number of forms
+$$\Phi N = \frac{2(2N-1)!}{(N-1)!(N+1)!} = \frac{1}{N} \frac{(2N)!}{(N-1)!(N+1)!}$$
+
+Such a number is divisible by [del]a power of an[/del] [ins]any[/ins]
+[del]odd[/del] prime provided that after division by a power
+of that prime, it leaves a remainder [ins]not less than[/ins] [del]exceeding[/del]
+half that power [del]but not[/del] [ins]just[/ins] one less than that power,
+and it is divisible by a power of that prime whose
+exponent equals the number of powers for which
+this rule holds. For the divisor two the exponent is one
+higher, unless $N$ is [del]just[/del] one less than a power of 2.

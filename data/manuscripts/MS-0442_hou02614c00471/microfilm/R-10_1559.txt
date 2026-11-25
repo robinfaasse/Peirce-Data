@@ -1,0 +1,32 @@
+[pn]1[/pn]
+
+[u]The First Rule of Logic[/u]
+
+[del]Several[/del] [ins]Certain[/ins] methods of mathematical computation correct
+themselves; so that if an error be committed, it is only
+necessary to keep right on, and it will be corrected in
+the end. For instance, I want to extract the cube root of 2
+
+The true answer is 1.25992105.. The rule is as follows:
+Form a [del]column of numbers,[/del] [ins]which for the sake of brevity we may call the A's.[/ins]
+[del]In any column of numbers, add the last two, triple the sum, and the[/del]
+The first 3 A's are [del]any 3 numbers taken at will.[/del] [ins]any 3 numbers.[/ins] To form a new A, add the [del]last two[/del]
+[del]last number but two of the column, and set down the result at a new num[/del] [ins]the bottom of[/ins]
+As, triple the sum, [del]Add to[/del] [ins]and to[/ins] this sum [ins]add[/ins] the last A but two, and set down the
+result as [del]the next[/del] [ins]a new number in it.[/ins] [del]the column as a new number in it.[/del]
+[del]Repeat this, the oftener the better.[/del]
+Now any A [del]lower in the column[/del] [ins]divided[/ins]
+by the following A gives a fraction which increased by 1 is approxima[del]te[/del]
+[del]Then the last number but one divided by the last gives a quotient[/del]
+[del]which increased by 1 is the [ins]cube[/ins] root of 2.[/del]
+
+[u]Correct Computation.[/u]
+
+[fig]Table of correct computation[/fig]
+
+[u]Erroneous Computation.[/u]
+
+[fig]Table of erroneous computation with error marked[/fig]
+
+[del]You see the error committed in the second computation though it seemed to multiply[/del]
+[del]was, systematically, corrected in the end.[/del]

@@ -1,0 +1,29 @@
+[u]On Multiplication[/u] [pn]23[/pn]
+
+sequent into $U$, the antecedent, by (39) becomes $U$, while the consequent,
+by (26), is the antecedent of $\breve{q} U$, so that
+$$\gamma \prec 1 \gamma \prec \breve{q} (\bar{q} \bar{J} 1) U \prec \breve{q} U$$
+
+or
+$$(43') \qquad \gamma \prec \breve{q} U \quad \text{or} \quad \breve{q} U$$
+which is the same as (43). We may call this
+[u]Corollary 1[/u]. Every object is a unit of a collection.
+
+Now the suggested form of the second axiom, expressed in the General Algebra,
+is
+$$(44) \qquad \Pi_{\alpha} \Sigma_{\beta} \Pi_{\underline{x}} (q_{\alpha \underline{x}} + \bar{q}_{\beta \underline{x}}) \cdot (\bar{q}_{\alpha \underline{x}} + \bar{q}_{\beta \underline{x}});$$
+while if $\underline{c}$ is the relation which every collection whatever bears to everything what-
+ever, the same proposed axiom is expressed in the dyadic algebra as follows:
+$$(44') \qquad \underline{c} \breve{\underline{c}} \cdot 1 \prec (q J \breve{q}) (\bar{q} J \breve{q})$$
+Squaring (44) and dropping the last compredicant of each compredicant,
+we get, substituting $\gamma, \delta, y$ in one compredicant for $\alpha, \beta, x$,
+$$\Pi_{\alpha} \Sigma_{\beta} \Pi_{\underline{x}} \Pi_{\gamma} \Sigma_{\delta} \Pi_{y} (q_{\alpha \underline{x}} + \bar{q}_{\beta \underline{x}}) \cdot (q_{\gamma y} + \bar{q}_{\delta y}).$$
+Identifying $\gamma$ with $\beta$, dropping the first compredicant and then the quantifi-
+ers whose indices do not occur in the Boolian, we have,
+$$\Sigma_{\beta} \Sigma_{\delta} \Pi_{y} (q_{\beta y} + \bar{q}_{\delta y})$$
+But this is the aggregate of a proposition with itself, so that
+$$\Sigma_{\beta} \Pi_{y} q_{\beta y}$$
+and by carrying the $\Sigma$ to the right and changing $y$ and $\beta$ to $x$ and $\alpha$, we
+get (43).
+
+In order to draw the same conclusion from (44') it will be best first to give

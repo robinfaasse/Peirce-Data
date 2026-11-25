@@ -1,0 +1,18 @@
+[u]Rule 5. Distributive principle.[/u]
+
+$\{[a \prec b] \smallsmile [c \prec d] \prec e\} \smallsmile f$
+$\{[a \prec b \smallsmile c] \smallsmile [d \prec e \prec [del]f[/del]] \prec g\} \smallsmile h$
+$a \prec \{[b \smallsmile c] \prec [d \prec e \prec f] \prec g\} \smallsmile h$ $(\bar{a} + \bar{b} + c)(\bar{d} + \bar{e} + f)\bar{g} + h$
+$a \prec b \smallsmile \{c \prec [d \prec e \prec f] \prec g\} \smallsmile h$
+$a \prec b \smallsmile (c \prec d) \smallsmile \{[e \prec f] \prec g\} \smallsmile h$
+$\{[a \prec b \smallsmile c] \prec d\} \smallsmile \{[e \prec f] \prec g\}$
+$\{[a \prec b \smallsmile c] \prec d\} \prec e \smallsmile \{f \prec g\} \smallsmile h$
+
+$\{[a \prec b \smallsmile c] \prec [d \prec e \prec f \prec g] \prec h\} \prec i$
+$\{[a \prec b \smallsmile c] \prec d\} \prec \{[a \prec b \smallsmile c] \prec e\} \smallsmile \{[a \prec b \smallsmile c] \prec [f \prec g] \prec h\} \prec i$
+
+$(a \prec b) \smallsmile b$
+$a \prec b \prec b$
+$a + b$  $a + b + c$
+[del]$a$[/del] [del]$a$[/del]  $(a \prec b) \smallsmile b$
+$(a \prec b) \smallsmile (c \prec b) \prec b$

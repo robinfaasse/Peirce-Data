@@ -1,0 +1,20 @@
+$$\begin{pmatrix} \alpha & \omega \\ 0 & 1 \end{pmatrix} \begin{pmatrix} \alpha & \omega \\ 2 & 0 \end{pmatrix} \therefore \begin{pmatrix} \alpha & \omega \\ 2 & 1 \end{pmatrix} \begin{pmatrix} \alpha & 0 \\ 2 & 0 \end{pmatrix} \begin{pmatrix} \omega & 1 \\ 2 & 0 \end{pmatrix}$$
+
+[fig]Diagram of three dots connected by lines[/fig]
+
+The primitive proposition is that
+$$\begin{pmatrix} \alpha & \omega \\ 0 & 1 \end{pmatrix} \begin{pmatrix} \alpha & \omega \\ 2 & 0 \end{pmatrix} \prec \begin{pmatrix} \alpha & 1 \\ 2 & 0 \end{pmatrix}$$
+
+$$\begin{pmatrix} \alpha & \omega \\ 1 & 0 \end{pmatrix} \begin{pmatrix} \alpha & \omega \\ 2 & 1 \end{pmatrix} \begin{pmatrix} \alpha & \omega \\ 3 & 2 \end{pmatrix} \begin{pmatrix} \alpha & \omega \\ 4 & 3 \end{pmatrix} \prec \begin{pmatrix} 1 & 2 \\ 4 & 3 \end{pmatrix}$$
+
+$$\begin{pmatrix} \alpha & 0 \\ 2 & 1 \end{pmatrix} \begin{pmatrix} \alpha & 1 \\ 3 & 2 \end{pmatrix} [del]\begin{pmatrix} \alpha & 2 \\ 4 & 3 \end{pmatrix}[/del]$$
+
+$$\begin{pmatrix} \alpha & 1 \\ 3 & 2 \end{pmatrix} [del]\begin{pmatrix} \alpha & 2 \\ 4 & 3 \end{pmatrix}[/del]$$
+
+$$\begin{pmatrix} \alpha & 0 \\ 1 & \omega \end{pmatrix} \begin{pmatrix} \alpha & 1 \\ 2 & \omega \end{pmatrix}$$
+
+$$\begin{pmatrix} 0 & \omega \\ 2 & 1 \end{pmatrix} \begin{pmatrix} 1 & 2 \\ \alpha & 3 \end{pmatrix} \begin{pmatrix} 1 & 2 \\ 0 & \alpha \end{pmatrix} \sim \begin{pmatrix} 1 & 3 \\ 0 & 3 \end{pmatrix}$$
+
+[del]\alpha \omega[/del] $\begin{pmatrix} \alpha & 1 \\ 3 & 2 \end{pmatrix} \begin{pmatrix} \alpha & 0 \\ 2 & 1 \end{pmatrix} \sim \begin{pmatrix} \alpha & 0 \\ 3 & 2 \end{pmatrix}$
+
+$$\begin{pmatrix} \alpha & 1 \\ 3 & 2 \end{pmatrix} \begin{pmatrix} \alpha & 0 \\ 3 & 1 \end{pmatrix} \sim \begin{pmatrix} 0 & 1 \\ 3 & 2 \end{pmatrix}$$

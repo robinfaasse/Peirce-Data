@@ -1,0 +1,23 @@
+of $x$ and $y$ for one value of $s$, [ins]namely[/ins] [del]that is[/del] for $s_{N+1}$, by which to eliminate the two unknowns $Q$ and $\tau_0$. That is, we have
+$$\int_0^S \cos \tau \cdot ds = X_{N+1} \qquad \int_0^S \sin \tau \cdot ds = Y_{N+1}$$
+
+From these two equations together with
+$$Fs = Q \tan \tau + \omega_N$$
+where $Q$ and $\omega_N$ are constants to eliminate these constants is a question of pure mathematics [del]with[/del] [ins]concerning[/ins] which physics has nothing further to say.
+
+[fig]Sketch of a person's head and shoulders with scribbled hair[/fig]
+
+$$d \cos \tau = \sin \tau \cdot d\tau$$
+
+[del]$D_x$[/del] $(1+x^2)^{-\frac{1}{2}} = [del]-\frac{1}{2}[/del] (1+x^2)^{-\frac{3}{2}} \times \left( \frac{d\omega_N}{Q^2} + 2 \frac{(Fs-\omega_N)}{Q^3} dQ \right)$
+
+$$\frac{[del]\frac{1}{Q^3}[/del] \left[ Q \delta\omega_N + 2(Fs-\omega_N) [del]\delta[/del] \delta Q \right]}{\left( 1 + \frac{Fs-\omega_N}{Q^2} \right)^{\frac{3}{2}}} = \delta X_{n+1}$$
+
+[marginalia]
+$Q^{-2}$
+$-2Q^{-3}$
+$\frac{(Fs-\omega_N)}{Q} Q^{-1}$
+[/marginalia]
+
+$$-\frac{1}{2}(1+x^2)^{-\frac{3}{2}} 2 \times dx = + \frac{\frac{Fs-\omega_N}{Q^3} \left\{ (Fs-\omega_N) \delta Q + [del]Q[/del] \delta\omega_N \right\}}{[del]\left( \quad \right)^{\frac{3}{2}}[/del]} = \delta X_{n+1}$$
+$$\frac{[del]Fs-\omega_N}{Q^2}[/del] \left\{ (Fs-\omega_N) \delta Q + \delta\omega_N \right\} = \delta Y_{n+1} \frac{Fs-\omega_N}{Q^3}$$

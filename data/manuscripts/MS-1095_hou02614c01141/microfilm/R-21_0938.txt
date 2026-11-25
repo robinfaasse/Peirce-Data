@@ -1,0 +1,23 @@
+gives
+
+$$0 = \begin{vmatrix}
+(l_1 D_t^2 + g) , & 0 , & D_t^2 , & 0 \\
+0 , & (l_2 D_t^2 + g) , & 0 , & D_t^2 \\
+h_1 D_t^2 , & 0 , & (D_t^2 + \frac{\varepsilon_1 + \varepsilon_3}{\mathcal{M}_1}) , & -\frac{\varepsilon_3}{\mathcal{M}_1} \\
+0 , & h_2 D_t^2 , & -\frac{\varepsilon_3}{\mathcal{M}_2} , & (D_t^2 + \frac{\varepsilon_2 + \varepsilon_3}{\mathcal{M}_2})
+\end{vmatrix}$$
+
+or, on development,
+
+$$0 = (l_1 D^2 + g) (l_2 D^2 + g) (D^2 + \frac{\varepsilon_1 + \varepsilon_3}{\mathcal{M}_1}) (D^2 + \frac{\varepsilon_2 + \varepsilon_3}{\mathcal{M}_2}) + h_1 h_2 D^8$$
+$$- h_1 D^4 (l_2 D^2 + g) (D^2 + \frac{\varepsilon_2 + \varepsilon_3}{\mathcal{M}_2}) - h_2 D^4 (l_1 D^2 + g) (D^2 + \frac{\varepsilon_1 + \varepsilon_3}{\mathcal{M}_1})$$
+$$- (l_1 D^2 + g) (l_2 D^2 + g) \frac{\varepsilon_3^2}{\mathcal{M}_1 \mathcal{M}_2}$$
+
+$$= (l_1 l_2 + h_1 h_2 - h_1 l_2 - h_2 l_1) D^8$$
+$$+ (l_1 l_2 \frac{\varepsilon_1 + \varepsilon_3}{\mathcal{M}_1} + l_1 l_2 \frac{\varepsilon_2 + \varepsilon_3}{\mathcal{M}_2} + [del]\frac{\varepsilon_1 + \varepsilon_3}{\mathcal{M}_1} \frac{\varepsilon_2 + \varepsilon_3}{\mathcal{M}_2}[/del] [ins]\frac{l_1 \varepsilon_1 + \varepsilon_3}{\mathcal{M}_1} \frac{\varepsilon_2 + \varepsilon_3}{\mathcal{M}_2}[/ins] + l_1 g + l_2 g$$
+$$- h_1 l_2 \frac{\varepsilon_2 + \varepsilon_3}{\mathcal{M}_2} - h_1 g - h_2 l_1 \frac{\varepsilon_1 + \varepsilon_3}{\mathcal{M}_1} - h_2 g) D^6$$
+$$+ (l_1 l_2 \frac{\varepsilon_1 + \varepsilon_3}{\mathcal{M}_1} \frac{\varepsilon_2 + \varepsilon_3}{\mathcal{M}_2} + l_1 g \frac{\varepsilon_2 + \varepsilon_3}{\mathcal{M}_2} + l_1 g \frac{\varepsilon_1 + \varepsilon_3}{\mathcal{M}_1} + l_2 g \frac{\varepsilon_1 + \varepsilon_2}{\mathcal{M}_1} + l_2 g \frac{\varepsilon_2 + \varepsilon_3}{\mathcal{M}_2} + g^2$$
+$$- h_1 g \frac{\varepsilon_2 + \varepsilon_3}{\mathcal{M}_2} - h_2 g \frac{\varepsilon_1 + \varepsilon_3}{\mathcal{M}_1} - l_1 l_2 \frac{\varepsilon_3^2}{\mathcal{M}_1 \mathcal{M}_2} ) D^4$$
+$$+ (l_1 g \frac{\varepsilon_1 + \varepsilon_3}{\mathcal{M}_1} \frac{\varepsilon_2 + \varepsilon_3}{\mathcal{M}_2} + l_2 g \frac{\varepsilon_1 + \varepsilon_3}{\mathcal{M}_1} \frac{\varepsilon_2 + \varepsilon_3}{\mathcal{M}_2} + g^2 \frac{\varepsilon_1 + \varepsilon_3}{\mathcal{M}_1} + g^2 \frac{\varepsilon_2 + \varepsilon_3}{\mathcal{M}_2}$$
+$$- l_1 g \frac{\varepsilon_3^2}{\mathcal{M}_1 \mathcal{M}_2} - l_2 g \frac{\varepsilon_3^2}{\mathcal{M}_1 \mathcal{M}_2} ) D^2$$
+$$+ g^2 \frac{\varepsilon_1 + \varepsilon_3}{\mathcal{M}_1} \frac{\varepsilon_2 + \varepsilon_3}{\mathcal{M}_2} - g^2 \frac{\varepsilon_3^2}{\mathcal{M}_1 \mathcal{M}_2}$$

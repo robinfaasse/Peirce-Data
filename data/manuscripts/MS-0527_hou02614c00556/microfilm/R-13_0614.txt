@@ -1,0 +1,33 @@
+[pn]173[/pn]
+
+[pn]394[/pn] All attempts to introduce this distinction into the Boolian algebra were more or less complete failures until Mr. Mitchell [ins]¹[/ins] showed how it was to be effected. His method really consists in making the whole expression of the proposition consist of two parts, a pure Boolian expression referring to an individual and a Quantifying part saying what individual this is. Thus, if [u]k[/u] means ‘he is a king,’ and [u]h[/u], ‘he is happy,’ the Boolian [u](\bar{k} + h)[/u] means that the individual spoken of is either not a king or is happy. Now, applying the quantification, we may write
+Any [u](\bar{k} + h)[/u]
+to mean that this is true of any individual in the (limited) universe, or
+Some [u](\bar{k} + h)[/u]
+to mean that an individual exists who is either not a king or is happy. So
+Some [u](kh)[/u]
+means some king is happy, and Any [u](kh)[/u] means every individual is both a king and happy. The rules for the use of this notation are obvious. The two propositions
+Any [u](x)[/u] Any [u](y)[/u]
+are equivalent to Any [u](xy)[/u].
+From the two propositions Any [u](x)[/u] Some [u](y)[/u]
+we may infer Some [u](xy)[/u].[del]*[/del] [ins]**[/ins]
+
+Mr. Mitchell has also a very interesting and instructive extension of his notation for [u]some[/u] and [u]all[/u], to a two-dimensional universe, that is, to the logic of relatives. Here, in order to render the notation as iconical as possible we may use [u]\Sigma[/u] for [u]some[/u], suggesting a sum, and [u]\Pi[/u] for [u]all[/u], suggesting a product.[del]*[/del] [ins]***[/ins] Thus [u]\Sigma_{i} x_{i}[/u] means that [u]x[/u] is true of some one of the individuals denoted by [u]i[/u] or
+[u]\Sigma_{i} x_{i} = x_{i} + x_{j} + x_{k} + \text{etc.}[/u][del]*[/del] [ins]***[/ins]
+
+[u]*[/u] I will just remark, quite out of order, that the quantification may be made numerical; thus producing the numerically definite inferences of DeMorgan and Boole. Suppose at least [u]\frac{3}{4}[/u] of the company have white neckties and at least [u]\frac{1}{2}[/u] have dress coats. Let [u]w[/u] mean ‘he has a white necktie,’ and [u]d[/u] ‘he has a dress coat.’ Then, the two propositions are
+[u]\frac{3}{4}(w)[/u] and [u]\frac{1}{2}(d)[/u].
+These are to be multiplied together. But we must remember that [u]xy[/u] is a mere abbreviation for [u]\overline{\bar{x} + \bar{y}}[/u], and must therefore write [u]\overline{\frac{3}{4}\bar{w} + \frac{1}{2}\bar{d}}[/u].
+Now [u]\frac{3}{4}w[/u] is the denial of [u]\frac{3}{4}w[/u], and this denial may be written [u](> \frac{1}{4})\bar{w}[/u], or more than [u]\frac{1}{4}[/u] of the universe (the company) have not white neckties. So [u]\frac{1}{2}\bar{d} = (> \frac{1}{2})\bar{d}[/u]. The combined premises thus become
+[u]\overline{(> \frac{1}{4})\bar{w} + (> \frac{1}{2})\bar{d}}[/u].
+Now [u](> \frac{1}{4})\bar{w} + (> \frac{1}{2})\bar{d}[/u] gives May be [u](\frac{1}{4} + \frac{1}{2})(\bar{w} + \bar{d})[/u].
+Thus we have May be [u](\frac{3}{4})(\overline{w + d})[/u],
+and this is (At least [u]\frac{1}{4}[/u]) [u](\overline{\bar{w} + \bar{d}})[/u],
+which is the conclusion.
+
+[marginalia]
+[del]*[/del] [ins]¹[/ins] [u][ [del]ib[/del] ][/u] ✓
+[del]*[/del] [ins]**[/ins] [ [del]this is the seventeenth[/del] ? ] ✓
+[del]*[/del] [ins]***[/ins] [u]\Pi_{x} \Pi_{y} = \Pi_{xy}[/u] and [u]\Pi_{x} \Sigma_{y} \prec \Sigma_{y} \Pi_{x}[/u] ✓
+[del]*[/del] [ins]****[/ins] [u][see 448][/u] ✓
+[/marginalia]

@@ -1,0 +1,18 @@
+If $e^x \equiv y$
+one must write $x \equiv \log_e y$
+But we may have also
+$e^z \equiv y$ though $z \not\equiv x$ [del]$x \not\equiv z$[/del]
+$\therefore z \equiv \log_e y$
+$\therefore \log_e y$ must be an indeterminate expression.
+$\log_e e \equiv 1$
+$\log_e 1 \equiv 0$ generally
+& always $\log_e 1^n \equiv 0$
+
+Now in order to get at formula for developement
+without which Boole's Calculus is nothing, let us
+see if we can get at something like Taylor's Theorem.
+Let $\phi x + \Delta_x \phi x \equiv \phi(x + \Delta_x x)$
+where $\Delta_x x$ is whatever we please
+Let us rather take
+[fig]figure[/fig] $\Delta_x \phi x \equiv \phi(x + \Delta x) - \phi x$
+where $\Delta x$ is anything not $\infty$

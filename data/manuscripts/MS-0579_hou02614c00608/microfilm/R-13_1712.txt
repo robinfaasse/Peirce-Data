@@ -1,0 +1,29 @@
+[u](\bar{a} + b)\bar{c} + d[/u]
+[u]\bar{a}\bar{c} + b\bar{c} + d[/u]
+
+[(a \prec b) \prec c] \prec d
+\doteq [(a \prec c) \prec \bar{c}] \prec (b \prec c) \prec d
+
+[((i \prec j) \prec k \prec l] \prec m
+i \prec (j \prec k \prec l) \prec m
+{[(k \prec i) \prec j] \prec l} \prec m
+(k \prec i) \prec (j \prec l) \prec m
+
+[(c \prec d) \prec (e \prec [del]f[/del] [ins]g[/ins]) \prec g] \prec h
+(\bar{c} + d)(\bar{e} + f)\bar{g} + h
+
+[a \prec (b \prec c) \prec d] \prec e
+a(\bar{b} + c)\bar{d} + e
+(a\bar{b} + ac)\bar{d}
+
+({(a \prec b) \prec [(a \prec c) \prec c]} \prec d) \prec e
+
+[u]\bar{a} + b\bar{c} + d[/u]
+(\bar{a} + b)(\bar{a} + \bar{c})
+
+[u]a\bar{b} + \bar{c} + d[/u]
+(a + \bar{c})(b + \bar{c})
+
+a \prec (b \prec c) \prec d
+{(a \prec b) \prec [(a \prec c) \prec c]} \prec d
+(a \prec b) \prec c \prec d

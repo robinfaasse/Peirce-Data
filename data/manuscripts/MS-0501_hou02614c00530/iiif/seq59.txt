@@ -1,0 +1,15 @@
+Theorem IV. Whatever i, a, e may be if
+i hat{c} a hat{c} e
+then a hat{c} i hat{c} e.
+8
+Proof. For suppose i, a, e, to be any such things that i hat{c} a hat{c} e.
+Then I have only to show that a hat{c} i hat{c} e. By [ured]Clause 1[/ured],
+(No 1) If e, then i hat{c} e
+(No 2) If i hat{c} e, then a hat{c} i hat{c} e. By [ured]Clause 2[/ured],
+(No 3) Either i or i hat{c} e
+(No 4) Either a or a hat{c} i hat{c} e. By [ured]Clause 3[/ured],
+(No 5) If i and i hat{c} a hat{c} e, then a hat{c} e
+(No 6) If a and a hat{c} e, then e. By (No 5) and the hypothesis,
+if i, then a hat{c} e; whence, by (No 3), either i hat{c} e or a hat{c} e; whence by
+(No 6), either i hat{c} e or if a then e; whence by (No 1), if a, then i hat{c} e;
+whence, by [del](No 2)[/del] [ins](No 2)[/ins], if a, then a hat{c} i hat{c} e; whence, by (No 4), a hat{c} i hat{c} e. Q. E. D.

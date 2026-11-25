@@ -1,0 +1,31 @@
+[pn]FL[/pn] [pn]36[/pn]
+
+flexibility to be applied in all possible cases. As long as we only
+wanted to generalize the [del]subject of the Boolean[/del], the [del]affo[/del] problem
+was a simple one, because all subjects are alike in their formlessness.
+But propositions of the most diverse forms are now required to be,
+comprised under one general description.
+
+If we make [u]c[/u] denote a collection, [del]then we ma[/del] and write [u]u[/u][sub]ci[/sub] to mean
+[u]i[/u] is a unit of the collection [u]c[/u], then the above statement about qualities
+can be written
+$$\Pi_c \Sigma_\alpha \Pi_i \Pi_j (\bar{u}_{ci} + q_{\alpha i}) \cdot (u_{cj} + \bar{q}_{\alpha j}).$$
+Or we may follow Schröder in writing the index vertically under the
+quantifier when that index is to be regarded as a predicate, and all
+possible logical terms are to be considered as possible forms of it.
+Thus we may write the above proposition
+$$\Pi_c \Sigma_\alpha \Pi_{\underset{u}{i}} \Pi_j (\bar{u}_i + q_{\alpha i}) \cdot (u_j + \bar{q}_{\alpha j}).$$
+But the former way seems preferable as evidently introducing nothing
+essentially new into the algebra.
+
+Let us represent the inference
+The Bible says that Enoch did not die;
+[del]But all men die[/del] [ins]Enoch was a man;[/ins]
+[ins]all men die[/ins]
+$\therefore$ [del]If Enoch was a man[/del], the Bible is not true.
+
+Let t[sub]B[/sub] mean the bible is true, d[sub]E[/sub] Enoch dies (neglect the time-element)
+m[sub]i[/sub], [u]i[/u] is a man. Then we can easily express, "If the Bible is
+true, Enoch does not die," thus:
+$$\bar{t}_B + \bar{d}_E.$$
+Now to say that the Bible asserts that Enoch [del]did[/del] [ins]does[/ins] not die is to assert

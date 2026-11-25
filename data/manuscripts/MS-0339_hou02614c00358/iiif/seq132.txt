@@ -1,0 +1,20 @@
+Let $\varphi$ be such that
+$\varphi(x+y) \equiv \varphi x + \varphi y$
+Then $\varphi(x+\Delta x) \equiv \varphi x + \varphi \Delta x$
+But $\Delta \varphi x \equiv \varphi(x+\Delta x) - \varphi x$
+$\therefore \Delta \varphi x \equiv \varphi \Delta x$
+$\therefore$ [del]$(\varphi+\Delta)(\varphi x+\Delta x^?)$[/del] [ins]$(\varphi+\Delta)^n x$[/ins] [ins]$?$[/ins]
+Let us scrutinize that.
+$(\varphi_x + \Delta_x)^2$ $\varphi+\Delta$
+$\underline{\varphi+\Delta}$
+$\varphi^2 + 2\varphi\Delta + \Delta^2 \equiv$ [del]$\varphi_2 x +$[/del]
+
+Let $\varphi$ be [del]$\equiv$[/del] $a,x + b$
+$(\varphi+\Delta)x \equiv \varphi x + \Delta x \equiv a,x + b + \Delta x$
+$(\varphi+\Delta)(\varphi+\Delta)x =$
+$a,x + a,b + a,\Delta x + b + \Delta(\varphi+\Delta)x$
+$\equiv a,b + a,b + a,\Delta x + b + (\varphi+\Delta)\Delta x$
+$\equiv a,x + a,b + a,\Delta x + b + a,\Delta x + b + \Delta.\Delta x$
+$\equiv a,x + a,b + 2a,\Delta x + 2b + \Delta^2 x$
+$\varphi^2 x \equiv a,x + a,b + b$
+$\varphi\Delta x = a,\Delta x + b$

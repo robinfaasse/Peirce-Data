@@ -1,0 +1,51 @@
+is obvious. It is true if the consequent $x$ is true or if [del]the[/del] [ins]its[/ins] [del]consequent[/del] [ins]antecedent[/ins] [del]$(x \prec f) \prec f$[/del] [ins]Charing $f$ for its consequent[/ins] is false. This antecedent [del]is false[/del]
+
+if its antecedent is true. This second antecedent $(x \prec f)$
+
+is true if its antecedent [ins]$(x)$[/ins] is false. Therefore, whether
+
+$x$ be true or false the proposition is true.
+
+We now pass from the consideration of a single indi-
+
+vidual to that of the whole universe; and first we have
+
+that rude distinction of "some" and "all" which may be
+
+said to discriminate logic from mathematics. After the
+
+whole Boolian school had for thirty years been puzzling
+
+over the problem of how to take account of this distinction
+
+in their notation, without any satisfactory result, Mr.
+
+Mitchell, by a wonderfully clear intuition, points out
+
+that what is needed is to enclose the whole Boolian expres-
+
+sion in brackets, and to indicate [ins]to[/ins] what proportion of the
+
+universe it refers [del]by[/del] by exterior signs. Denoting by $A$
+
+any expression such as we have hitherto considered, we
+
+may write $\Pi A$ to signify that $A$ is true of every individu-
+
+al of the universe, and $\Sigma A$ to mean that it is true of some
+
+individual of the universe. The operational signs $\prec$ $\times$
+
+and $+$ are applicable to these new expressions, and in fact,
+
+[del]we have[/del] in virtue of the postulate that something in the
+
+universe exists, we have $\Pi A \prec \Sigma A$, or more briefly written
+
+$$\Pi \prec \Sigma$$
+
+We have also the [del]three[/del] [ins]four[/ins] formulae
+
+$$(\Pi A) \times (\Pi B) = \Pi (A \times B) \qquad (\Sigma A) + (\Sigma B) = \Sigma (A + B)$$
+
+$$(\Pi A) \times (\Sigma B) \prec \Sigma (A \times B) \qquad \Pi (A + B) \prec (\Pi A) + (\Sigma B).$$

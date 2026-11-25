@@ -1,0 +1,30 @@
+[pn]88[/pn]
+[pn]Logic III[/pn]
+
+[marginalia]
+[u]Necessarily false[/u].
+[/marginalia]
+
+$(\bar{x} \wedge \bar{x}) > \bar{x}$     $\bar{x} < (\bar{x} \wedge \bar{x})$
+$(\bar{x} \curlyvee \bar{x}) > \bar{x}$     $\bar{x} < (\bar{x} \curlyvee \bar{x})$
+$(\bar{x} < \bar{x}) > \bar{x}$     $\bar{x} < (\bar{x} > \bar{x})$
+$(\bar{x} \otimes \bar{x}) > \bar{x}$     $\bar{x} < (\bar{x} \otimes \bar{x})$
+$(\bar{x} \curlywedge \bar{x}) < \bar{x}$     $\bar{x} > (\bar{x} \curlywedge \bar{x})$
+$(\bar{x} \infty \bar{x}) < \bar{x}$     $\bar{x} > (\bar{x} \infty \bar{x})$
+$(\bar{x} \succ \bar{x}) < \bar{x}$     $\bar{x} > (\bar{x} \propto \bar{x})$
+$(\bar{x} \propto \bar{x}) < \bar{x}$     $\bar{x} > (\bar{x} \succ \bar{x})$
+$(\bar{x} \times \bar{x}) < \bar{x}$     $\bar{x} > (\bar{x} \times \bar{x})$
+
+[marginalia]
+[u]Necessarily true[/u].
+[/marginalia]
+
+$(\bar{x} \curlywedge \bar{x}) \succ \bar{x}$     $\bar{x} \propto (\bar{x} \curlywedge \bar{x})$
+$(\bar{x} \infty \bar{x}) \succ \bar{x}$     $\bar{x} \propto (\bar{x} \infty \bar{x})$
+$(\bar{x} \propto \bar{x}) \succ \bar{x}$     $\bar{x} \propto (\bar{x} \propto \bar{x})$
+$(\bar{x} \times \bar{x}) \succ \bar{x}$     $\bar{x} \propto (\bar{x} \times \bar{x})$
+$(\bar{x} \wedge \bar{x}) \propto \bar{x}$     $\bar{x} \succ (\bar{x} \wedge \bar{x})$
+$(\bar{x} \curlyvee \bar{x}) \propto \bar{x}$     $\bar{x} \succ (\bar{x} \curlyvee \bar{x})$
+$(\bar{x} > \bar{x}) \propto \bar{x}$     $\bar{x} \succ (\bar{x} < \bar{x})$
+[del]$(\bar{x} < \bar{x}) \propto \bar{x}$[/del]     [del]$\bar{x} \succ (\bar{x} > \bar{x})$[/del]
+$(\bar{x} \otimes \bar{x}) \propto \bar{x}$.     $\bar{x} \succ (\bar{x} \otimes \bar{x})$

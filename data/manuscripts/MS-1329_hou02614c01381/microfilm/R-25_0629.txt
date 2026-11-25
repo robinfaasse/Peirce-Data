@@ -1,0 +1,171 @@
+[del]s=2 f=2[/del]
+s=3 f=[frac]12[/frac]/[frac]6-p[/frac]
+
+[tabular]
+p | f
+6 | [inf]
+5 | 12
+4 | 6
+3 | 4
+2 | 3
+[/tabular]
+
+[fig]curved triangle[/fig]
+
+[frac]2[/frac]/[frac]4[/frac]/[frac]8[/frac]/[frac]20[/frac] [frac]2[/frac]/[frac]4[/frac]/[frac]12[/frac] [frac]2[/frac]/[frac]8[/frac] 6
+
+If the faces have
+each p angles
+and s come together
+at each angle
+the number of faces
+is [frac]4s[/frac]/[frac]4+(p-2)(2-s)[/frac]
+= [frac]4s[/frac]/[frac]2p+2s-ps[/frac]
+
+s=4 f=[frac]16[/frac]/[frac]8-2p[/frac]
+
+[tabular]
+p | f
+4 | [inf]
+3 | 8
+2 | 4
+[/tabular]
+
+[frac]6[/frac]/[frac]4-p[/frac] [frac]6[/frac]/[frac]3[/frac] [frac]1[/frac]/[frac]5[/frac]
+[frac]6[/frac]/[frac]4[/frac] = [frac]2[/frac]/[frac]10-3p[/frac] [frac]6[/frac]/[frac]5[/frac]
+[frac]6[/frac]/[frac]123[/frac]/[frac]5[/frac] = 2
+[frac]6[/frac]/[frac]12[/frac]/[frac]5[/frac] 3
+
+[frac]1[/frac]/[frac]d[/frac]
+1
+2
+
+[fig]triangle[/fig]
+
+[frac]1[/frac]/[frac]30[/frac]
+[frac]1[/frac]/[frac]8[/frac]
+[frac]1[/frac]/[frac]4[/frac]
+[frac]1[/frac]/[frac]2[/frac]
+
+[frac]3[/frac]/[frac]40[/frac]
+[frac]2[/frac]/[frac]40[/frac]
+[frac]5[/frac]/[frac]40[/frac]
+[frac]10[/frac]/[frac]40[/frac]
+
+[frac]3[/frac]/[frac]40[/frac]
+[frac]5[/frac]/[frac]40[/frac]
+
+[frac]10[/frac]/[frac]8[/frac]
+[frac]3[/frac]/[frac]8[/frac]
+[frac]1[/frac]/[frac]2[/frac]
+[frac]10[/frac]/[frac]4[/frac]
+[frac]12[/frac]/[frac]2[/frac]
+
+[frac]21[/frac]/[frac]7[/frac]/[frac]8[/frac]/[frac]3[/frac]/[frac]10[/frac]/[frac]3[/frac]/[frac]4[/frac]/[frac]3[/frac] [frac]2[/frac]/[frac]5[/frac]
+
+[fig]circle with cross[/fig]
+
+s=5 f=[frac]20[/frac]/[frac]10-3p[/frac]
+
+[tabular]
+p | f
+3 | 20
+2 | [del]6[/del] [ins]5[/ins]
+[/tabular]
+
+[fig]triangle[/fig]
+
+[frac]6[/frac]/[frac]4[/frac]
+[frac]24[/frac]/[frac]12-4p[/frac]
+[frac]6[/frac]/[frac]5[/frac]
+[frac]3[/frac]/[frac]2[/frac]
+
+[frac]6[/frac]/[frac]3-p[/frac]
+[frac]20[/frac]/[frac]8[/frac]
+[frac]4[/frac]/[frac]2[/frac]
+
+[frac]4x[/frac]/[frac]6-x[/frac]
+[inf]
+20
+8
+4
+2
+
+[fig]circle with 1[/fig]
+
+y
+4
+3
+2
+
+[frac]2y[/frac]/[frac]12-y[/frac]
+[inf]
+6
+2
+
+[frac]4y[/frac]/[frac]14-5y[/frac]
+
+[frac]4x[/frac]/[frac]6-x[/frac]
+[frac]4y[/frac]/[frac]8-2y[/frac]
+[frac]4y[/frac]/[frac]10-3y[/frac]
+
+[fig]polyhedron vertex[/fig]
+
+[frac]4y[/frac]/[frac]12-4y[/frac] = [frac]y[/frac]/[frac]3-y[/frac]
+[frac]4y[/frac]/[frac]14-5y[/frac]
+
+[tabular]
+s=6 | f=[frac]24[/frac]/[frac]12-4p[/frac]
+p | f
+2 | [del]12[/del] [ins]6[/ins]
+[/tabular]
+
+[tabular]
+s=8 | f=[frac]32[/frac]/[frac]16-6p[/frac]
+p | f
+2 | [del]16[/del] [ins]8[/ins]
+[/tabular]
+
+[tabular]
+s=10 | f=[frac]40[/frac]/[frac]20-8p[/frac]
+p | f
+2 | [del]20[/del] [ins]10[/ins]
+[/tabular]
+
+[tabular]
+s=20 | f=[frac]80[/frac]/[frac]40-18p[/frac]
+p | f
+2 | [del]40[/del] [ins]20[/ins]
+[/tabular]
+
+[tabular]
+s=[inf] | f=[frac]4p[/frac]/[frac]2p-2p[/frac]
+p | f
+2 | [inf]
+[/tabular]
+
+z
+3
+2
+
+[frac]12[/frac]/[frac]2[/frac]
+
+[frac]4z[/frac]/[frac]10-3z[/frac]
+
+[frac]3p[/frac]/[frac]q-3[/frac] = 12
+[frac]2p[/frac]/[frac]q-2[/frac] = 2
+
+[frac]z[/frac]/[frac]10[/frac]/[frac]3[/frac]-z = [frac]4z[/frac]/[frac]10-3z[/frac]
+
+p=10q-32
+p=[frac]10q[/frac]/[frac]3[/frac] - [frac]16[/frac]/[frac]3[/frac]
+
+3q=10
+q=[frac]10[/frac]/[frac]3[/frac]
+
+6p=6q-12
+6p=20q-72
+0=18q-60
+
+2p=2q-4
+3p=12q-36

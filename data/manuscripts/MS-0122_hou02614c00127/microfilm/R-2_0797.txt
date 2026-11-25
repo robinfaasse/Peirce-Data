@@ -1,0 +1,15 @@
+"I give a diagram of that for $x' = \frac{25-x}{x-1}$"
+
+[fig]Diagram showing mapping of points on a number line with curved arrows[/fig]
+
+$$\frac{\gamma}{\alpha - \beta + \gamma} \frac{i}{1 + \frac{i}{\alpha - \beta + \gamma}}$$
+
+$$\frac{\gamma}{\alpha - \beta + \gamma} i \left(1 - \frac{i}{\alpha - \beta + \gamma}\right)$$
+
+$$\frac{\beta\gamma + (\alpha + \gamma)i}{\gamma + i} = \frac{\beta\gamma + \beta i + (\alpha - \beta + \gamma)i}{\gamma + i}$$
+$$= \beta + \frac{\alpha - \beta + \gamma}{\gamma} i$$
+$$\alpha + \frac{\gamma}{\alpha - \beta + \gamma} i$$
+
+[fig]Small line segment with tick marks[/fig]
+
+if $\alpha > \beta$ $\gamma > 0$ or $-\gamma > \alpha - \beta$

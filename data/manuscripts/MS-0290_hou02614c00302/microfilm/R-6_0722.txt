@@ -1,0 +1,14 @@
+[u]Whether possible for $A$ to differ in more than one column from every other row[/u]
+$\alpha_x^n$ means value in column $n$ row $x$
+always either $1$ or $0$
+
+1 Whatever $m$ and $n$ may be and whatever $x$ and $y$ may be, we cannot have $\alpha_x^m = 1$ $\alpha_y^m = 1$ $\alpha_x^n = 0$ $\alpha_y^n = 0$
+[ins]or $\alpha_x^m = 0$ $\alpha_y^m = 0$ $\alpha_x^n = 1$ $\alpha_y^n = 1$[/ins]
+
+2 For every value of $n$ there must be [del]at[/del] [ins]not[/ins] more than one [del]$y$[/del] [ins]$x$[/ins] such that $\alpha_x^n = 1$ $\alpha_y^n \ge 1$
+
+3 Whatever $x$ and $y$ may be there must be [del]some $n$ such[/del] [ins]some $n$[/ins] that $\alpha_x^n = 1$ $\alpha_y^n = 0$ or else $\alpha_x^n = 0$ $\alpha_y^n = 1$
+
+4 For every $x$ the number of $n$'s for which $\alpha_x^n = 1$ is [del]finite[/del]
+
+[fig]Diagrams of binary matrices with arrows and annotations[/fig]

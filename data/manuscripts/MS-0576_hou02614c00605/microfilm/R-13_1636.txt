@@ -1,0 +1,33 @@
+Denoting their copulas by $\leftarrow$, $\prec$, and $\Delta$, these may
+be defined as follows.
+
+If [del]$x \prec$[/del] $x \prec y$ and $y \prec z$ then $x \prec z$. And $x \prec x$
+If $x \leftarrow y$ and $y \leftarrow z$ then $x \leftarrow z$. And $x \not\leftarrow x$.
+If $x \ \Delta \ y$ and $y \ \Delta \ z$ then $x \ \Delta \ z$.
+
+Here the straight vertical line through a copula sign
+negatives the copula.
+
+If the only copula of an algebra is $\prec$ then all its
+expressions may be thrown into classes so that
+
+1. If $x$ and $y$ belong to the same class $x \prec y$ and $y \prec x$
+
+2. These classes form an indefinite number of series
+so that for the same series
+$x \prec y \prec z \prec w \prec$ etc
+
+& these different series may be connected so that
+if $x$ & $y$ are expressions in different series we may
+have $x \not\prec y$. If there is but one such series we have a
+single algebra. If there are more than one, we have a
+multiple algebra.
+
+If the copula of an algebra is $\leftarrow$ all its expressions
+belong to one series of classes such that [del]if[/del]
+
+1. If [del]$x$ and[/del] $y$ belong to the same class $x \leftarrow y$ and $y \leftarrow x$
+
+2. [del]The[/del] The series of classes are such that
+$a \not\leftarrow b \not\leftarrow c \not\leftarrow d \not\leftarrow e$ etc
+and if $x \leftarrow y$ then $y \not\leftarrow x$.

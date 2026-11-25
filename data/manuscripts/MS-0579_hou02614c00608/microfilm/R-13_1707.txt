@@ -1,0 +1,25 @@
+$$(a \prec b) \prec c \prec a$$
+This follows from $c \prec a$ by Rule III. But further, the
+latter follows from the former. That is,
+$$[(a \prec b) \prec c \prec a] \prec c \prec a$$
+or
+$$c \prec [c \prec (a \prec b) \prec a] \prec a.$$
+This is true provided
+$$[(a \prec b) \prec a] \prec a$$
+
+$$[(a \prec b) \prec c] \prec a$$
+$$(\bar{a} + b)\bar{c} + a$$
+
+$$\bar{a}\bar{b} + a$$
+
+$$c \prec a \qquad (\bar{a} + b)\bar{c} + d \qquad \bar{a} + b\bar{c} + d$$
+$$[(a \prec b) \prec c] \prec d \qquad a \prec (b \prec c) \prec d$$
+$$[del](\bar{a} + b)(\bar{c} + d)\bar{e} + f[/del]$$
+$$\{[[(a \prec b) \prec c] \prec d\} \prec e] \prec f$$
+$$[del][(\bar{a} + b)\bar{c} + d]\bar{e} + f[/del]$$
+$$(\bar{a} + b)(\bar{c} + d)\bar{e} + f$$
+$$[del](\bar{a} + b)(\bar{c} + d)[/del]$$
+$$\{[a \prec b] \prec [c \prec d] \prec e\} \prec f$$
+$$\{[a \prec (b \prec c) \prec d\} \prec e\} \prec f$$
+
+$$\left\{ \begin{aligned} (a \prec b) \prec (c \prec d) \prec e \\ [a \prec (b \prec c) \prec d] \prec e \\ a\bar{b} + c\bar{d} + e \\ a(\bar{b} + c)\bar{d} + e \end{aligned} \right.$$

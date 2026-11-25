@@ -1,0 +1,23 @@
+The relation is to have as aggregants
+$r$ and $\breve{\bar{r}}$
+
+$$(r + \breve{\bar{r}} + x)(r + \breve{\bar{r}} + x)$$
+$$= r \cdot r + r \cdot \breve{\bar{r}} + \breve{\bar{r}} \cdot r + \breve{\bar{r}} \cdot \breve{\bar{r}}$$
+$$+ r \cdot x + \breve{\bar{r}} \cdot x + x \cdot r + x \cdot \breve{\bar{r}} + x \cdot x$$
+
+The negative converse of it will be
+$$\bar{r} \cdot \breve{r} \cdot \bar{x}$$
+
+Now $(\bar{r} \cdot \breve{r} \cdot \bar{x})(\bar{r} \cdot \breve{r} \cdot \bar{x})$
+$$\prec \bar{r} \cdot \bar{r} + \bar{r} \cdot \breve{r} + \breve{r} \cdot \bar{r} + \breve{r} \cdot \breve{r} + \bar{r} \cdot \bar{x} + \breve{r} \cdot \bar{x} + \bar{x} \cdot \bar{r} + \bar{x} \cdot \breve{r} + \bar{x} \cdot \bar{x}$$
+
+Does it somehow depend on $x(y + z) \prec xy + z$
+
+[del]$x(y + z) \prec y + z$[/del]
+
+Say the relation is $(xy + z)(xy + z)$
+$$xy + z \prec xy + z \cdot xy + z$$
+
+[del]And now[/del] $\bar{x}(\bar{y} + \bar{z}) \prec \bar{x}\bar{y} + \bar{z}$
+$$(\bar{x}\bar{y} + \bar{z})(\bar{x}\bar{y} + \bar{z})$$
+$$\prec \bar{x}\bar{y} + \bar{x}\bar{y} \cdot \bar{z} + \bar{z}$$

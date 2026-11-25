@@ -1,0 +1,66 @@
+[marginalia]
+Live Loads
+[/marginalia]
+
+[pn]19[/pn]
+
+This agrees with the former solution, except that it shows, what
+that did not, that [ins]1/[/ins]C(1-r) is the horizontal pull of the chain.
+It will be remarked that this solution required only the summation
+of a first difference and the other of a second difference, which,
+had the expression been complicated, might have been a
+great advantage.
+
+[marginalia]
+This ink is not
+green enough
+or less green
+It is [del]seen[/del] just the
+same
+[/marginalia]
+
+[del]x² + 2xy + y²[/del]
+
+x² + axy + by² + cx + dy + e
+x² + a'xy + b'y² + c'x + d'y + e'
+0 xy 0 -xy 0 -
+0 0 y² 0 -yy 0
+0 0 0 0 y - y
+[del]x² 0 0 0 xy 0 0[/del]
+
+x² + ax + b = 0
+x² - xx 0
+0 x - x
+
+[marginalia]
+It is now
+strongly acidified
+But I cannot see that it
+is more
+[/marginalia]
+
+1 a b
+1 -x 0
+0 1 -x
+
+0 a+x b
+1 -x 0
+0 1 -x
+
+b + (a+x)x = 0
+
+x² + ax + b = 0
+x² + a'x + b' = 0
+x² - xx + 0 = 0
+[del]x² + ax + x[/del]
+
+1 a b
+1 a' b'
+1 -x 0
+
+0 a+x b
+0 a'+x b'
+1 -x 0
+
+(a+x)b' - (a'+x)b = 0
+(b'-b)x

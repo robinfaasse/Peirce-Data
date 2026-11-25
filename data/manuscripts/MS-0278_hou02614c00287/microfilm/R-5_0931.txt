@@ -1,0 +1,40 @@
+[u]$\text{Tan} = \frac{\text{Sin}}{\sqrt{1-\text{Sin}^2}}$[/u]
+
+$\text{Sin } x = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \text{etc}$
+
+$\text{Tan } x = x + \frac{1}{3} x^3 + \frac{2}{15} x^5 + \frac{17}{315} x^7 + \frac{62}{2835} x^9$
+
+[u]$\text{Tan}^2 = \frac{\text{Sin}^2}{\text{Cos}^2} = \text{Sec}^2 - 1$[/u]
+
+[pn]16[/pn]
+
+$D^2 \text{Tan} = 2 \text{Tan } D\text{Tan}$
+
+$D^3 \text{Tan} = 2 (D\text{Tan})^2 + 2 \text{Tan } D^2\text{Tan}$
+
+$D\text{Tan } x = (1 + \text{Tan } x)^2$
+
+$D^2 \text{Tan } x = 2 \text{Tan } x \cdot D\text{Tan } x$
+$= 2 \text{Tan } x (1 + \text{Tan}^2 x)$
+$= 2 \text{Tan } x + 2 \text{Tan}^3 x$
+
+$D^3 \text{Tan } x = 2 D\text{Tan } x + 2 \cdot 3 \text{Tan}^2 x \cdot D\text{Tan } x$
+$= 2$
+
+[u]$DT = 1 + T^2$[/u]
+
+$D^2 T = 2 T DT = 2 [T (1 + T^2)] = 2 [T + T^3]$
+
+$D^3 T = 2 [DT + 3 T^2 DT] = 2 [1 + 3 T^2] (1 + T^2)$
+$= 2 [1 + 4 T^2 + 3 T^4]$
+
+$D^4 T = 2 [8 T + 12 T^3] (1 + T^2) = 2 [8 T + 12 T^3]$
+
+$DT = 1 + T^2$
+
+$D^2 T = 2 T DT = 2 (T + T^3)$
+
+$D^3 T = 2 (1 + 3 T^2) (1 + T^2) = 2 (1 + 4 T^2 + 3 T^4)$
+$= 2 ([del]8 T[/del] [ins]$1$[/ins] + [del]$12 T^3$[/del] [ins]$3 T^2$[/ins]) (1 + T^2) = 2 [ins]$\begin{matrix} 1 & + & 3 T^2 \\ 1 & + & T^2 \end{matrix}$[/ins] $1 + 4 T^2 + 3 T^4$
+
+$D^4 T = 2 (8 T + 12 T^3) (1 + T^2) = 2 (8 + 20 T^2 + [del]12 T^4[/del] [ins]$\begin{matrix} 8 & + & 12 \\ 12 & + & 12 \end{matrix}$[/ins]) [ins]$T^2$[/ins]

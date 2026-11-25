@@ -1,0 +1,31 @@
+[marginalia]
+1909
+July 15
+[u]TI[/u]
+[/marginalia]
+
+[del]to[/del] be exactly [u]m[/u] S's and (n-m) non-S's will be
+[pn]n![/pn] [frac]p[sup]m[/sup]/m![/frac] [frac]q[sup]n-m[/sup]/(n-m)![/frac]
+
+But supposing [u]n[/u] is a pretty large number, and you
+wish to know what the probability is that among the [u]n[/u] Gs
+[del]the[/del] [ins]the[/ins] number of S's will be somewhere between [u]m[/u][sub]1[/sub] and
+[u]m[/u][sub]2[/sub], both inclusively. You must then resort to a table, given
+in all works on the doctrine of chances, of what is called the
+[fig]circle with a cross inside[/fig] function. It is [u]O[/u]t = [frac]2/[radic]&pi;[/frac] [int][sub]0[/sub][sup]t[/sup] e[sup]-x[sup]2[/sup][/sup]dx. In the absence of
+such a table you can calculate values by the following
+formulae. Namely, in case t < 1,
+[u]O[/u]t = [frac]2/[radic]&pi;[/frac] t - [frac]2/3[radic]&pi;[/frac] t[sup]3[/sup] + [frac]1/5[radic]&pi;[/frac] t[sup]5[/sup] - [frac]1/21[radic]&pi;[/frac] t[sup]7[/sup] + etc = [del][frac]2(-1)[sup]s[/sup]t[sup]2s+1[/sup]/s!(2s+1)[radic]&pi;[/frac][/del]
+= [sum][sub]0[/sub][sup]&infin;[/sup] [frac]2(-1)[sup]s[/sup] t[sup]2s+1[/sup]/s! (2s+1)[radic]&pi;[/frac]
+(from which it follows, by the way, that [u]O[/u](-t) = -[u]O[/u]t)
+and in case t > 1
+[u]O[/u]t = 1 - e[sup]-t[sup]2[/sup][/sup] ( [frac]1/[radic]&pi;[/frac] t[sup]-1[/sup] - [frac]1/2[radic]&pi;[/frac] t[sup]-3[/sup] + [frac]3/4[radic]&pi;[/frac] t[sup]-5[/sup] - [frac]15/8[radic]&pi;[/frac] t[sup]-7[/sup] + [frac]105/16[radic]&pi;[/frac] t[sup]-9[/sup] - [del]etc[/del] )
+= 1 - e[sup]-t[sup]2[/sup][/sup] [sum][sub]0[/sub][sup]&infin;[/sup] [frac](2s)!/s! 2[sup]2s[/sup][radic]&pi;[/frac] (-1)[sup]s[/sup] t[sup]-2s-1[/sup]
+
+Having [u]O[/u]t s at your disposal by table or formula, in
+order to find the probability that among n independent instances
+of genus G there will be from m[sub]1[/sub] to m[sub]2[/sub] (m[sub]1[/sub] < m[sub]2[/sub]) that belong to
+species S, when the probability of any one G being an S is p,
+you first calculate t[sub]1[/sub] and t[sub]2[/sub] by these formulae
+t[sub]1[/sub] = [frac]m[sub]1[/sub] - (n+1)p/[radic]2npq[/frac] t[sub]2[/sub] = [frac]1 + m[sub]2[/sub] - (n+1)p/[radic]2npq[/frac]
+where q = 1-p (and these formulae are slightly more accurate than those

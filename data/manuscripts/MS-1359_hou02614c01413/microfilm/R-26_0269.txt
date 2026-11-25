@@ -1,0 +1,31 @@
+[pn]p. 57[/pn] [del]$\int (x \int z^{-2} dx) dx$[/del] $= \frac{1}{2} A_{0}^{-1} \eta^{2} + \frac{1}{12} A_{0}^{-2} A_{2} \eta^{4} + (-\frac{3}{40} A_{0}^{-3} A_{4} + \frac{1}{10} A_{0}^{-2} A_{4}) \eta^{6}$
+$+ (\frac{1}{280} A_{0}^{-4} A_{2}^{3} - \frac{11}{420} A_{0}^{-3} A_{2} A_{4} + \frac{5}{56} A_{0}^{-2} A_{6}) \eta^{8}$
+$+ (-\frac{1}{630} A_{0}^{-5} A_{2}^{4} + \frac{13}{1050} A_{0}^{-4} A_{2}^{2} A_{4} - \frac{1}{35} A_{0}^{-3} A_{2} A_{6} - \frac{1}{50} A_{0}^{-3} A_{4}^{2} + \frac{7}{90} A_{0}^{-2} A_{8}) \eta^{10}$
+$+ (\frac{1}{1188} A_{0}^{-6} A_{2}^{5} - \frac{11}{1386} A_{0}^{-5} A_{2}^{3} A_{4} + \frac{29}{1980} A_{0}^{-4} A_{2}^{2} A_{6} + \frac{23}{2772} A_{0}^{-4} A_{2} A_{4}^{2} - \frac{17}{594} A_{0}^{-3} A_{2} A_{8} - \frac{9}{770} A_{0}^{-3} A_{4} A_{6} + \frac{3}{44} A_{0}^{-2} A_{10}) \eta^{12}$
+$+ (-\frac{1}{2002} A_{0}^{-7} A_{2}^{6} + \frac{85}{18018} A_{0}^{-6} A_{2}^{4} A_{4} - \frac{62}{7007} A_{0}^{-5} A_{2}^{3} A_{6} + \frac{211}{10010} A_{0}^{-5} A_{2}^{2} A_{8} + \frac{335}{21021} A_{0}^{-4} A_{2} A_{4} A_{6} + \frac{25}{524} A_{0}^{-3} A_{11}^{3}$
+$- \frac{83}{3003} A_{0}^{-3} A_{2} A_{10} - \frac{47}{4095} A_{0}^{-3} A_{4} A_{8} - \frac{5}{1274} A_{0}^{-3} A_{6}^{2} - \frac{11}{182} A_{0}^{-2} A_{12}) \eta^{14} + \text{etc.}$
+
+The above formulae apply only to the part of the bridge where the live
+load is, but we can make them apply to the other two parts between the extreme
+suspenders by simply putting $w=0$. The formulae for these two parts will
+differ from one another only in having different values for the
+constants of integration. For the three parts there will be 12 such
+constants. But at the point J, the equations for the live-load part
+will involve $\eta_{J+s}$ and $\eta_{J+2s}$; and will therefore apply to these $\eta$s,
+while for the equations for the part beyond J will involve and apply
+to $\eta_{J}$ and $\eta_{J-s}$. There are thus four consecutive $\eta$s to which
+which both formulae apply. Hence the values of $\eta_{J}$, $D \eta_{J}$, $D^{2} \eta_{J}$, and
+$D^{3} \eta_{J}$ are given equally by either set of formulae; and we
+thus have four equations between the integration-constants for
+the two parts. A similar state of things exists at I; so that there
+are 8 equations thus given between the 12 constants, leaving
+but 4 independent unknowns. These four must be determined
+by the conditions at $\pm N$. Now we have treated the truss as
+cut off at these points, representing the effect of the
+unsuspended parts by the force and couple whose
+expressions involve $\mathcal{D}$ and $\mathcal{I}$. Hence the
+differential coefficient of the bending energy relating
+to $\eta_{N}$ is
+$\frac{\mathcal{B}}{s^{3}} (\eta_{N} - 2 \eta_{N-s} + \eta_{N-2s})$
+and that relative to $\eta_{N-s}$ is
+$\frac{\mathcal{B}}{s^{3}} [-2(\eta_{N} - 2 \eta_{N-s} + \eta_{N-2s}) + (\eta_{N-s} - 2 \eta_{N-2s} + \eta_{N-3s})]$

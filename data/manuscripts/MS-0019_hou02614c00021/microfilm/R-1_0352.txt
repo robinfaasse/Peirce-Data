@@ -1,0 +1,33 @@
+[pn]8[/pn]
+[u]Logic of Quantity[/u]
+it remains to investigate.
+
+[u]Problem 1[/u]. [u]Required that property which a collection must have to[/u]
+[u]prevent it from proceeding from any collection of which it forms[/u]
+[u]a part.[/u]
+
+Solution. Let [u]m[/u] be the [del]property in question[/del] [ins]collection, and[/ins] let [u]X[/u][sub]m[/sub] express that it
+has the property sought. Then
+[math]\Pi_n \bar{w}_{mn} \text{ + } \bar{X}_m \text{ + } \bar{s}_{mn}[/math]
+That is [math]\Sigma_n w_{mn} \cdot s_{mn} \prec \bar{X}_m[/math].
+
+We have, then to form [math]w_{mn} \cdot s_{mn}[/math], to eliminate [u]n[/u], as economically
+as possible, so as to have as broad an [u]X[/u] as possible.
+
+But after [u]X[/u] has been determined so as to fulfil this condition, it
+must then be narrowed, if necessary, so as to fulfil another condi-
+tion, namely, that no addition to the universe can [ins]enable[/ins] [del]destroy[/del] the
+character [del]of the collection[/del] to proceed from any collection of which it is a part. This addition to the universe will be expressed by
+[del]changing[/del] [ins]reducing[/ins] every quantifier to [math]\Sigma[/math] which refers to objects not within
+the collection.
+
+Finally, it may be that the first step of eliminating [u]n[/u] was not
+economically performed, and that [u]X[/u] requires to be broadened so that
+any collection whatever that does not possess [u]X[/u] may, by an addition
+to the universe, be made to proceed from a collection of which it
+forms a part.
+
+To carry out this method of solution, we first write [math]w_{mn} \cdot s_{mn}[/math] in full.
+(18) [math]\Sigma_i \Sigma_v \Pi_s \Sigma_r \Pi_t \Pi_g \Pi_y \Pi_u q_{rv} \cdot \bar{q}_{mv} \cdot (\bar{q}_{mu} \text{ + } q_{nu}) \cdot (\bar{q}_{ns} \text{ + } q_{mr} \cdot r_{irs}) \cdot (\bar{r}_{ies} \text{ + } \bar{r}_{ieg} \text{ + } l_{sg})[/math]
+The first factor is the only one whose elimination without loss of assertion cannot
+be immediately effected. On account of this factor we square (18). Then, identifying [u]i[/u]

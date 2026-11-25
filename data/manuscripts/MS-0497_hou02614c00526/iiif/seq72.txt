@@ -1,0 +1,15 @@
+$\frac{2}{3}$ M is P
+[fig]S is M[/fig]
+[fig]S is P[/fig]
+---
+S is P
+S is M
+[del]Some[/del] M is P
+---
+Some S is P
+Any S is M
+$\therefore$ Some S is [del]M[/del] [ins]P[/ins]
+---
+No S is [del]P[/del]
+Any M is P
+$\therefore$ No M is P

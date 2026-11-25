@@ -1,0 +1,27 @@
+[marginalia]
+Attraction
+5
+[/marginalia]
+
+Let us apply our formula for $r$ to ascertaining what $r$ will be
+when
+$$t - t_c = \frac{r_a}{\sqrt{k}} \sqrt{r_a^2 - r_c^2} \pm \tau$$
+
+Since $(t - t_c)^2 = \frac{1}{k} r_a^2 (r_a^2 - r_c^2) \pm 2 \frac{r_a}{\sqrt{k}} \sqrt{r_a^2 - r_c^2} \tau + \tau^2$
+
+we shall have
+$$r = \sqrt{r_c^2 + 2 (r_a^2 - r_c^2) \pm 2 \tau \sqrt{k} \sqrt{1 - \frac{r_c^2}{r_a^2}} - (r_a^2 - r_c^2) \mp 2 \frac{\sqrt{k}}{r_a} \sqrt{r_a^2 - r_c^2} \tau - \frac{k}{r_a^2} \tau^2}$$
+$$= \sqrt{r_a^2 - \frac{k}{r_a^2} \tau^2}$$
+
+This shows that the greatest distance occurs [ins]at the instant[/ins] when $t - t_c = \frac{r_a}{\sqrt{k}} \sqrt{r_a^2 - r_c^2}$
+and at any interval $\tau$ before or after that instant the distance of
+the particle falls short of $r_a$ by the same amount, whether this in-
+stant be before or after that defined.
+
+(20) If the particle had been shot in any other direction
+than directly away, but with the same initial velocity, it
+evidently could not go further from the centre than when shot
+directly away. Hence $r_a$ is [del]at least[/del] the maximum distance that
+the particle can go, however it is shot, so long as it starts from
+a point at distance $r_c$ from the centre of attraction, and with
+the same velocity $v_c = \sqrt{k} \sqrt{\frac{1}{r_c^2} - \frac{1}{r_a^2}}$

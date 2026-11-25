@@ -1,0 +1,30 @@
+Suppose a body revolving round a fixed
+centre so that its radius vector returns to the
+same value after a complete revolution.
+
+$$r^{-1} = A_0 + A_1 \cos \theta + A_2 \cos 2\theta + A_3 \cos 3\theta + \text{etc}$$
+$$\text{+ } B_1 \sin \theta + B_2 \sin 2\theta + B_3 \sin 3\theta + \text{etc}$$
+
+But we must suppose the two sides of the
+orbit alike, otherwise the attraction is different
+on different sides. Hence $B_1 = B_2 = B_3 = \text{etc} = 0$
+
+[del]$$D_\theta r^{-1} = - A_1 \sin \theta - 2 A_2 \sin 2\theta - 3 A_3 \sin 3\theta + \text{etc}$$[/del]
+
+Then we may write
+
+[del]$$D_\theta^2 r^{-1} = - A_1$$[/del]
+
+$$r^{-1} = C_0 + C_1 \cos \theta + C_2 (\cos \theta)^2 + C_3 (\cos \theta)^3 + \text{etc}$$
+
+$$(D_\theta r^{-1}) = - \sin \theta \left( C_1 + 2 C_2 \cos \theta + 3 C_3 (\cos \theta)^2 + \text{etc} \right)$$
+
+$$(D_\theta r^{-1})^2 = \sin^2 \theta \left( C_1^2 + 4 C_1 C_2 \cos \theta + (6 C_1 C_3 + 4 C_2^2) \cos^2 \theta + (8 C_1 C_4 + 12 C_2 C_3) \cos^3 \theta \right)$$
+$$\text{+ etc}$$
+
+$$= C_1^2 + 4 C_1 C_2 \cos \theta + (-C_1^2 + 6 C_1 C_3 + 4 C_2^2) \cos^2 \theta + (-4 C_1 C_2 + 8 C_1 C_4 + 12 C_2 C_3) \cos^3 \theta$$
+$$\text{+ etc}$$
+
+$$(r^{-1} - C_0) = \phantom{C_1^2 + } 4 C_1 C_2 \cos \theta \phantom{+ (-C_1^2 + 6 C_1 C_3} + 4 C_2^2 \cos^2 \theta \phantom{+ (-4 C_1 C_2 + 8 C_1 C_4} + 4 C_2 C_3 \cos^3 \theta$$
+
+$$(r^{-1} - C_0)^2 = \phantom{C_1^2 + 4 C_1 C_2 \cos \theta + } (-C_1^2 + 6 C_1 C_3) \cos^2 \theta + (-2 C_1 C_2 \phantom{+ 8 C_1 C_4} + 12 C_2 C_3) \cos^3 \theta$$

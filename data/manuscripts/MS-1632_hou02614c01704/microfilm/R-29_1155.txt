@@ -1,0 +1,42 @@
+and daughter.
+
+[u]Solution[/u]. Let $x$ represent the daughter's share.
+$2x$ will be the mother's
+and $4x$ each of the son's
+so that $2 \cdot 4x + 2x + x = 11x = 10000$
+$x = 909 \frac{1}{11}$
+$2x = 1818 \frac{2}{11}$
+$4x = 3636 \frac{4}{11}$
+
+224. The fractions $\frac{2}{3}$ and $\frac{1}{3}$ are such that their difference is equal to the sum of their cubes: are there other fractions having the same properties?
+
+[u]Solution[/u]. Let the fractions sought be
+$\frac{ax+a'}{cx+c'}$ and $\frac{bx+b'}{cx+c'}$
+These give $(a^3+b^3-ac^2+bc^2)x^3 + (3a^2a'+3b^2b'-a'c^2+b'c^2-2acc'+2bcc')x^2$
+$+ (3aa'^2+3bb'^2-2a'cc'+2b'cc'-ac'^2+bc'^2)x + (a'^3+b'^3-a'c'^2+b'c'^2) = 0$
+
+[u]Solution[/u] Let the fractions be $s+d$ and $s-d$.
+We have $(s+d)^3 + (s-d)^3 = (s+d) - (s-d)$
+or $s^3 + 3d^2s = d$
+Let $s = ad$
+$(a^3+3a)d^2 = 1$
+$a^3+3a = \square$ and $a > 1$
+But if we [del]had found[/del] were to find $a < 1$ and such.
+
+Let $a^3+3a = \square$. We might make $a = 2$
+for $(\frac{2}{3})^3 + (\frac{1}{3})^3 = \frac{8}{27} + \frac{1}{27} = \frac{9}{27} = \frac{1}{3} = (3a^2+a^3) = a$.
+Let $b^2+3b = c^2$
+
+Hence. $a = x+b$, and $a^3+3a = (a^2x+c)^2$
+$x^3 + (3b-a'^2)x^2 + (3b^2-2a'c+3)x + b^3+3b-c^2 = 0$
+Let $3b^2-2a'c+3 = 0$. or $a' = \frac{3b^2+3}{2c}$
+We get. $x = a'^2 - 3b = \frac{(b^2+3)^2}{4c^2} - 3b$
+$a = a'^2 - 2b = \frac{(b^2+3)^2}{4b(b^2+3)} - 2b$
+By this formula we can find the value of $a$ from another which we call $b$. Now we know $a$ may be [del]equal to[/del] $2$.
+Let $b = 2$. [del]Then $a = \frac{1}{4}$[/del] [ins]Then $2^2+3 = 4+3 = 7$[/ins] [del]Then[/del] $a = \frac{7}{4}$, which is less than $1$.
+Instead of $b$ [del]we must[/del] [ins]we must[/ins] write $a = \frac{7}{4} = 1.2$.
+Then $d = \frac{1}{\sqrt{a^3+3a}} = \frac{1}{\sqrt{\frac{343}{64} + \frac{21}{4}}} = \frac{8}{42}$.
+$s = ad = \frac{14}{42}$
+[del]Then[/del] $s+d = \frac{22}{42}$
+$s-d = \frac{6}{42}$. [del]which is the same as[/del]
+By substituting [del]for[/del] $b = \frac{7}{4}$ we might easily find another value of $a$, which we might again substitute for $b$. Proceeding in this way, we should find an infinite number of fractions possessing the desired property.

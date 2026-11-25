@@ -1,0 +1,17 @@
+[fig]figure[/fig] Substituting a ^ C e for e in Clause 3 of the Definition of ^ C s, we have
+if i and i ^ C a ^ C e
+then a ^ C e.
+Whence by our assumption,
+if i
+then a ^ C e
+Substituting a for i in the same Clause 3 we have
+if a and a ^ C e
+then e
+Whence by the [del]previous[/del] [ins]last[/ins] conclusion
+if i and a
+then e
+Substituting e for a in Clause 1 of the same Definition, we have
+if e , then i ^ C e
+Whence by the last result
+if i and a
+then i ^ C e.

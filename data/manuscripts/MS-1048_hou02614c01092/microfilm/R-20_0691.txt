@@ -1,0 +1,26 @@
+Suppose the molecular proportion of
+$\text{NaCl}$ in the solution is $p$, that of the
+water $1-p$. Suppose these act by [del]double[/del]
+[del]decomposition[/del] at some rate of [ins]double[/ins] change
+decomposition to produce $\text{HCl}$ and $\text{NaOH}$,
+proportionally to the amounts present. So that
+$$u = c(p-x)(1-p-x),$$
+where $x$ is the molecular amount of
+double decomposition. Then the rate of the
+inverse double decomposition is
+$$v = C x^2$$
+$C$ is evidently far greater than $c$
+When equilibrium is reached
+$$C x^2 = c(p-x)(1-p-x)$$
+$$= c p(1-p) - c x + c x^2$$
+
+$$(C-c)x^2 + cx = cp(1-p)$$
+$$x^2 + \frac{c}{C-c} x = \frac{c}{C-c} p(1-p)$$
+$$+ \frac{1}{4} \frac{c^2}{(C-c)^2} \qquad \frac{1}{4} \frac{c^2}{(C-c)^2}$$
+[marginalia]
+[del]$C x^2 = c \bar{p} \bar{p} - x$[/del]
+$x = \sqrt{\frac{c}{C}} \bar{p} \bar{p}$
+[/marginalia]
+$$x = -\frac{1}{2} \frac{c}{C-c} \pm \sqrt{\frac{1}{4} \frac{c^2}{(C-c)^2} + \frac{c}{C-c} p(1-p)}$$
+$$= [del]-\frac{1}{2} \frac{c}{C-c} \{ 1 \pm \sqrt{1 - 4 \frac{C-c}{c} p(1-p)}[/del]$$
+$$= -\frac{1}{2} \frac{c}{C-c} \pm \sqrt{\frac{c}{C-c} p(1-p)} \sqrt{1 + \frac{1}{4} \frac{c}{C-c} \frac{1}{p(1-p)}}$$

@@ -1,0 +1,9 @@
+[u]To mathematicians. Methods of the above calculations[/u]
+
+If [u]$\pi$[/u] is the [u]odds[/u] (ratio of chances in favor to chances against) of a man gaining a single bet, and
+
+$\Pi$ is the odds that he will gain [del]x bets bef[/del] [ins]net an excess of $x$[/ins] bets in his favor before he loses an excess of $y$ bets, then
+
+$$\Pi = \pi^x \frac{1-\pi^y}{1-\pi^x}$$
+
+If a man has a fortune of $2^{\underline{n}}-1$ he will gain 1 franc at a martingale unless he loses [u]$n$[/u] bets successively.

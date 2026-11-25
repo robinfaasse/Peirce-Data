@@ -1,0 +1,29 @@
+$$U = \left(\Sigma x^{2}\right)^{\mathcal{N}} F\left(X, Y, Z, \text{etc}\right)$$
+
+$$X = \frac{k^{2}x}{\Sigma x^{2}} \qquad \frac{\partial X}{\partial x} = \frac{k^{2}\left(-x^{2}+y^{2}+\text{etc}\right)}{\left(\Sigma x^{2}\right)^{2}} \qquad \frac{\partial Y}{\partial x} = -2k^{2} \frac{xy}{\left(\Sigma x^{2}\right)^{2}}$$
+
+$$\frac{\partial U}{\partial x} = 2\mathcal{N}x\left(\Sigma x^{2}\right)^{\mathcal{N}-1} F + \frac{\left(\Sigma x^{2}\right)^{\mathcal{N}}}{k^{2}} \left\{ \frac{\partial X}{\partial x} \frac{\partial F}{\partial X} + \frac{\partial Y}{\partial x} \frac{\partial F}{\partial Y} + \text{etc} \dots \right\}$$
+
+$$\frac{\partial U}{\partial x} = 2\mathcal{N}x\left(\Sigma x^{2}\right)^{\mathcal{N}-1} F + k^{2}\left(-x^{2}+y^{2}+\text{etc}\right)\left(\Sigma x^{2}\right)^{\mathcal{N}-2} \frac{\partial F}{\partial X} + 2k^{2}xy\left(\Sigma x^{2}\right)^{\mathcal{N}-2} \frac{\partial F}{\partial Y}$$
+$$-2k^{2}xz\left(\Sigma x^{2}\right)^{\mathcal{N}-2} \frac{\partial F}{\partial Z}$$
+
+$$\begin{aligned}
+\frac{\partial^{2} U}{\partial x^{2}} = & 2\mathcal{N}\left(\Sigma x^{2}\right)^{\mathcal{N}-1} F \\
+& + 4\mathcal{N}\left(\mathcal{N}-1\right)x^{2}\left(\Sigma x^{2}\right)^{\mathcal{N}-2} F \\
+& + 2\mathcal{N}\left(\mathcal{N}-1\right) = -\mathcal{M} \\
+& \mathcal{N} = -\frac{\mathcal{M}}{2} + 1
+\end{aligned} \quad \begin{aligned}
+& + 2k^{2}\mathcal{N}x \left[ \frac{\left(-x^{2}+y^{2}+\text{etc}\right)}{\left(\Sigma x^{2}\right)^{\mathcal{N}-3}} \frac{\partial F}{\partial X} \begin{aligned} & - 4k^{2}\mathcal{N}xy\left(\Sigma x^{2}\right)^{\mathcal{N}-3} \frac{\partial F}{\partial Y} \\ & - 2k^{2}y\left(\Sigma x^{2}\right)^{\mathcal{N}-2} \frac{\partial F}{\partial Y} \end{aligned} \right] \\
+& - 2k^{2}x\left(\Sigma x^{2}\right)^{\mathcal{N}-2} \frac{\partial F}{\partial X} - 4k^{2}\left(\mathcal{N}-2\right)x^{2}y\left(\Sigma x^{2}\right)^{\mathcal{N}-3} \frac{\partial F}{\partial Y} \\
+& + 2k^{2}\left(\mathcal{N}-2\right)\left(-x^{2}+y^{2}+\text{etc}\right)\left(\Sigma x^{2}\right)^{\mathcal{N}-3} \frac{\partial F}{\partial X} \\
+& - 4k^{2}\mathcal{N}xz\left(\Sigma x^{2}\right)^{\mathcal{N}-3} \frac{\partial F}{\partial Z} \\
+& [del]4k^{2}[/del] \left[ k^{2}\left(-4\mathcal{N}+2\right)x^{3} + k^{2}\left(4\mathcal{N}-3\right)xy^{2} \right] \frac{\partial F}{\partial X}
+\end{aligned}$$
+
+$$+ k^{4}\left(-x^{2}+y^{2}+\text{etc}\right)^{2}\left(\Sigma x^{2}\right)^{\mathcal{N}-4} \frac{\partial^{2} F}{\partial X^{2}} - 2k^{4}xy\left(-x^{2}+y^{2}+\text{etc}\right)\left(\Sigma x^{2}\right)^{\mathcal{N}-4} \frac{\partial^{2} F}{\partial X \partial Y} + 4k^{4}x^{2}y^{2}\left(\Sigma x^{2}\right)^{\mathcal{N}-4} \frac{\partial^{2} F}{\partial Y^{2}}$$
+$$- 2k^{4}xy\left(-x^{2}+y^{2}+\text{etc}\right)\left(\Sigma x^{2}\right)^{\mathcal{N}-4} \frac{\partial^{2} F}{\partial X \partial Y}$$
+
+$$\begin{aligned}
+& -\frac{8\mathcal{N}+8}{2} \\
+& = -8\mathcal{N} - 6
+\end{aligned}$$

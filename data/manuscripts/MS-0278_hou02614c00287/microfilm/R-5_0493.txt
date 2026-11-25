@@ -1,0 +1,22 @@
+$$\sin(x+y) = \sin x \cos y + \cos x \sin y$$
+
+$$\sin^{2}(x+y) = \sin^{2}x (1-\sin^{2}y) + (1-\sin^{2}x)\sin^{2}y$$
+$$+ 2\sin x \sin y \cos x \cos y$$
+
+$$\sin^{2}(x+y) - \sin^{2}x - \sin^{2}y + 2\sin^{2}x\sin^{2}y = 2\sin x \sin y \cos x \cos y$$
+
+$$\sin^{4}(x+y) + \sin^{4}x + \sin^{4}y [del]+ 4\sin^{4}x\sin^{4}y[/del]$$
+$$-2\sin^{2}(x+y)\sin^{2}x - 2\sin^{2}(x+y)\sin^{2}y + 4\sin^{2}(x+y)\sin^{2}x\sin^{2}y$$
+$$+ 2\sin^{2}x\sin^{2}y [del]- 4\sin^{4}x\sin^{2}y - 4\sin^{2}x\sin^{4}y[/del]$$
+$$= 4\sin^{2}x\sin^{2}y [del]- 4\sin^{4}x\sin^{2}y - 4\sin^{2}x\sin^{4}y + 4\sin^{4}x\sin^{4}y[/del]$$
+
+$$\sin^{4}(x+y) [del]- 2\sin^{2}(x+y)[/del] (\sin^{2}x + \sin^{2}y - 2\sin^{2}x\sin^{2}y) + (\sin^{2}x - \sin^{2}y)^{2} = 0$$
+
+$$\sin^{4}x + \sin^{4}y + 4\sin^{4}x\sin^{4}y$$
+$$+ 2\sin^{2}x\sin^{2}y - 4\sin^{4}x\sin^{2}y - 4\sin^{2}x\sin^{4}y$$
+
+$$\sin^{2}(x+y) - (\sin^{2}x + \sin^{2}y - 2\sin^{2}x\sin^{2}y) = \pm 2\sin x \sin y \sqrt{\sin^{2}x\sin^{2}y - \sin^{2}x - \sin^{2}y + 1}$$
+
+$$\sin^{2}(x+y) = \sin^{2}x + \sin^{2}y - 2\sin^{2}x\sin^{2}y \pm 2\sin x \sin y \sqrt{1 - \sin^{2}x - \sin^{2}y + \sin^{2}x\sin^{2}y}$$
+
+$$= \sin^{2}x(1-\sin^{2}y) + (1-\sin^{2}x)\sin^{2}y \pm 2\sin x \sin y \sqrt{(1-\sin^{2}x)(1-\sin^{2}y)}$$

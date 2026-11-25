@@ -1,0 +1,15 @@
+$$sq = \beta^2 \quad (s-ci)(q+ci) = \alpha^2$$
+
+[del]$$\frac{\alpha^2}{\beta^2}$$[/del]
+$$\alpha^2 - \beta^2 = (s-q)ci + c^2$$
+
+$$s = \frac{\beta^2}{q}$$
+
+$$\alpha^2 - \beta^2 = (\frac{\beta^2}{q} - q)ci + c^2$$
+
+$$-i \frac{(\alpha^2 - \beta^2 - c^2)}{c} q = \beta^2 - q^2$$
+
+$$q^2 - \frac{\alpha^2 - \beta^2 - c^2}{c} i q = \beta^2$$
+
+$$q = \frac{1}{2} \frac{\alpha^2 - \beta^2 - c^2}{c} i \pm [del]\sqrt{\beta^2 - \frac{(\alpha^2 - \beta^2 - c^2)^2}{c^2}}[/del]$$
+$$= \frac{1}{2} \frac{\alpha^2 - \beta^2 - c^2}{c} i \pm \frac{1}{c} \sqrt{2\alpha^2\beta^2 + 2\beta^2c^2 + 2\alpha^2c^2 - \alpha^4 - \beta^4 - c^4}$$

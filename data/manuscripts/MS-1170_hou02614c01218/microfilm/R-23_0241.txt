@@ -1,0 +1,31 @@
+$$\omega$$     $$\omega + 1$$     $$\omega + 2$$     $$\dots$$
+$$\omega \cdot 2$$     $$\omega \cdot 2 + 1$$     $$\omega \cdot 2 + 2$$
+$$\omega \cdot 3$$     $$\omega \cdot 3 + 1$$     $$\omega$$
+
+$$\omega^2$$     $$\omega^2 + 1$$
+
+$$\omega + n_1$$
+$$\omega \cdot n_2 + n_1$$
+[del]$$\omega^2 + n_2 + n_1$$[/del]
+
+$$\omega$$     $$\omega + 1$$     [del]$$\omega + 2$$[/del]     $$x_1$$
+$$\omega \cdot 2$$     $$x_2$$
+$$\omega \cdot 3$$
+
+$$\left. \begin{aligned}
+&\omega^2 + \omega \\
+&\omega^2 + \omega \cdot 2 \\
+&\omega^2 + \omega \cdot 3 \ \dots \\
+&\omega^2 \cdot 2 + \omega \ \dots \\
+&\omega^2 \cdot 2 + \omega \cdot 2 \\
+&\omega^2 \cdot 2 + \omega \cdot 3
+\end{aligned} \right\} x_3$$
+
+$$\omega^2 \cdot 3$$
+$$\omega^2 \cdot 4$$
+$$\omega^3 + \omega$$
+$$\omega$$
+
+$$\omega^3 \cdot n_3$$
+$$\omega^3 \cdot n_4$$
+$$\omega^4 \cdot n_5$$

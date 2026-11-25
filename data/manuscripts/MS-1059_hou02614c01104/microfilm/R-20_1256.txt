@@ -1,0 +1,134 @@
+```
+[fig]dot[/fig]
+
+$$\frac{x}{(nx+1)^2}$$
+
+$$[del]2\log x + \log[/del]$$
+
+$$\begin{matrix}
+01234 & 02431 & 04132 & 01234 \\
+12340 & 24310 & 41320 & 1 \\
+23401 & 43102 & 13204 \\
+34012 & 31024 & 32041 \\
+40123 & 10243 & 20413
+\end{matrix}$$
+
+$$\begin{matrix}
+01234 & 12340 & 23401 \\
+02413 & 23401 & 34012 \\
+04321 & 34012 & 40123 \\
+03142 & 40123 & 01234
+\end{matrix}$$
+
+[del]01234[/del]
+[del]01432[/del]
+[del]01[/del]
+[del]05234[/del]
+[del]01234[/del]
+[del]01324[/del]
+[del]01234[/del]
+
+[fig]scribble[/fig]
+
+$$\begin{matrix}
+\begin{array}{c}
+\text{1 2 3 4 0} \\
+\hline
+43120 \\
+21430 \\
+34210 \\
+12340
+\end{array} & \left| \begin{array}{c}
+34215 \\
+21435
+\end{array} \right.
+\end{matrix}$$
+
+[del]21430[/del]
+$$21430$$
+
+$$\begin{matrix}
+Q & 1 & 2 & 3 & 4 & 5 & b \\
+J & 2 & 3 & 4 & 5 & \times 10 \\
+G & 4 & 9 & 3 & 1 & 8 \\
+5 & 8 & 7 = 15 & 12 & 8 & 8 \\
+10 & 3 & 2 & 9 & 1 & 9 \\
+7 & 6 & 6 & 10 & & 2 \\
+1 & 12 & 12 & 1 & & 12 \\
+2 & 11 & & & & 7 \\
+4 & 9 & & & & \\
+8 & 5 & & & & \\
+3 & 10 & & & & \\
+6 & 7
+\end{matrix}$$
+
+[fig]curved brackets connecting numbers[/fig]
+$$\begin{array}{r}
+2 \\
+3 \\
+5 \\
+\hline
+8 \\
+12 \\
+[del]17[/del] \\
+18 \\
+19 \\
+20 \\
+21 \\
+22 \\
+23
+\end{array}$$
+
+$$\begin{array}{r}
+17 \\
+3 \\
+\hline
+51
+\end{array}$$
+
+$$72$$
+
+[fig]flower-like scribble[/fig]
+
+$$\begin{matrix}
+1 & 5 & 12 & 8 \\
+3 & [del]12[/del] & 10 & 11 \\
+9 & 6 & 4 & 7
+\end{matrix}$$
+
+$$\begin{matrix}
+12 & 4 & 1 & 5 \\
+8 & 9 & 3 & 2 \\
+11 & 7 & 10 & 6
+\end{matrix}$$
+
+$$\begin{matrix}
+\begin{array}{c}
+1 \\
+\hline
+3 \\
+2 \\
+\hline
+3 \\
+b \\
+\hline
+4 \\
+12 \\
+8 \\
+\hline
+11 \\
+3 \\
+9
+\end{array} & \begin{array}{c}
+\frac{1}{2} \\
+\frac{3}{4} \\
+\frac{5}{6} \\
+\frac{7}{8} \\
+\frac{9}{10} \\
+\frac{11}{12} \\
+\frac{25}{26} \\
+\frac{27}{28} \\
+\frac{29}{30}
+\end{array}
+\end{matrix}$$
+```

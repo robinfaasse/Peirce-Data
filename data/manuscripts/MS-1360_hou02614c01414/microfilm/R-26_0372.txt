@@ -1,0 +1,16 @@
+or $$\frac{\tau_{n+2} - \tau_{n-1}}{\tau_{n+1} - \tau_{n}} = \frac{\tau_{n+1} - \tau_{n-2}}{\tau_{n} - \tau_{n-1}}$$
+
+But one member of this equation differs from the other only in consequence of the increase of the subscript variable by $1$; so that it only means that the fraction on either side is constant. [del]Suppose this constant value less than 3.[/del] Suppose this constant value to be between $+3$ and $-1$. Then we may take $A$ for such a constant angle that
+$$\frac{\tau_{n+3} - \tau_{n}}{\tau_{n+2} - \tau_{n+1}} = 1 + 2 \cos A$$
+
+Supposing, then, $\tau_{n}$ has the form $C^{n}$, the equation would become
+$$C^{3} - (1 + 2 \cos A) C^{2} + (1 + 2 \cos A) C - 1 = 0$$
+One root is [ins]evidently[/ins] $C = 1$. Dividing, then, by $C - 1$, we get
+$$C^{2} - 2 \cos A \cdot C + 1 = 0.$$
+or $$C = \cos A \pm \sqrt{\cos^{2} - 1} = \cos A \pm \sin A \cdot i = e^{\pm A i}$$
+where $e$ is the Neperian base. Hence the general solution is
+$$\tau_{n} = C_{0} + C_{1} \sin n A + C_{2} \cos n A.$$
+But if $1 + 2 A$ is greater than $+3$ or less than $-1$, $A$ is imaginary and we have, in the notation of Gudermannians,
+$$\frac{\tau_{n+3} - \tau_{n}}{\tau_{n+2} - \tau_{n+1}} = 1 + 2 \cosh B$$
+$$\tau_{n} = C_{0} + C_{1} \sinh n B + C_{2} \cosh n B.$$
+It is plain that the fraction whose value is $1 + 2 \cos A$ or $1 + 2 \cosh B$ [ins]usually[/ins] differs infinitely little from $3$; so that $A$ or $B$ is infinitely small.

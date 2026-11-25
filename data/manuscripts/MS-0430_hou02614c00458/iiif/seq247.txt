@@ -1,0 +1,18 @@
+Logic
+[ured]III[/ured] [ins](73)[/ins] If x < x < y is true, then x < y is true.
+58 For by (65) if x < x < y is true, x is only true if x < y is true.
+But if x is false, by (67), x < y is true. That is, a repeated ante-
+cedent may be dropped.
+[(x < y) < z] < w
+[del]xx[/del] [del](x < z < [del]y[/del]) < w[/del]
+[del]t[/del] ( [del]x[/del] + y) [del]z[/del] + w [del](y < z) < w[/del]
+tx + tyz + w {[del](x < y) < z[/del]} < u } < v
+[del]x([del]y[/del] + z) u + v[/del] [del]x(y < z)[/del] {( [del]x[/del] + y) [del]z[/del] + w (xy + z) u + v
+[ins]u + v[/ins] [[del]x < (y < z) < w[/del]] < t
+[del][x < (y < z) < u] < v[/del] [del]t([del]x[/del] + y)[/del] [del](y + z) v + u[/del]
+(x < y) < (x < z < u) < v [del]xx[/del] x (y + z) [del]u[/del] . u + u [del]z u + v[/del] [del]y + v[/del]
+[del]a + c (u + v)[/del] [del]xy + xzu + u[/del]
+[del]a < [x < (v < y)][/del] [del][x < (y < z) < u] < u[/del]
+[del]p +[/del] p q r + u [del]p + q + u[/del] (x < y) < (x < z < u) < u
+[fig]figure[/fig] [del]u < v[/del] [del](x < z) < u[/del] [del]((x < y) < z) < u[/del] [del](x < u) < u[/del]
+[del]x < y) < v[/del]

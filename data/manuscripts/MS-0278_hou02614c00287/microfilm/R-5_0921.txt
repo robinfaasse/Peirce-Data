@@ -1,0 +1,50 @@
+$$\left(\frac{r}{R}\right)^{2} + \left(\frac{z^{2}}{Z^{2}}\right)^{2} = 1$$
+
+$$\left(\frac{r}{R}\right)^{2} + \left(\frac{z}{Z+z}\right)^{2} = 1$$
+
+[del]$$\frac{3+z}{z}$$[/del] [del]$$\frac{3-z}{z}$$[/del]
+
+$$\left(\frac{r}{R}\right)^{2} = \frac{[del]z^{2}[/del] [ins]z[/ins] [del](2+z)[/del] [ins]2z-z^{2}[/ins]}{Z^{2}}$$
+
+$$z = 3+z$$
+$$3 = z-z$$
+
+$$\left(\frac{r}{R}\right)^{2} + \frac{z^{2}-2Zz+Z^{2}}{Z^{2}} = 1$$
+
+$$3 = z^{2}-2Zz+Z^{2}$$
+
+$$\left(\frac{r}{R}\right)^{2} - 1 = \frac{z(z-2Z)}{Z^{2}}$$
+
+$$\left(\frac{r}{R}\right)^{2} + \frac{z(z-2Z)}{Z^{2}} = 0$$
+
+$$r \cdot (Z-x) = \frac{r}{R} \cdot 2Z$$
+
+[del]$$R = z(1+e)$$[/del] [ins]$$Z = R(1-e)$$[/ins]
+
+[del]$$\frac{1-2e}{1}$$[/del]
+
+$$\frac{z^{2}}{z(z-2Z)} = \frac{z}{z-2Z}$$
+
+[fig]Circle with inscribed angles and lines[/fig]
+
+[del]$$\left(\frac{r}{R}\right)^{2} + \frac{z^{2}}{R^{2}(1+e)^{2}} \cdot \frac{z(z-2Z)}{Z^{2}}$$[/del]
+
+$$\frac{r^{2}}{R^{2}} + \frac{z^{2}}{R^{2}(1+e)^{2}} \cdot \frac{z(z-2Z)}{Z^{2}}$$
+
+[del]$$\frac{r^{2}}{R^{2}} = \frac{z}{Z} (1-e)$$[/del] [del]$$\frac{1}{R^{2}} = \frac{1}{Z^{2}} (1+2e)$$[/del]
+
+[del]$$\frac{r^{2}}{R^{2}} = \frac{z}{Z} (1-e)$$[/del] [del]$$\frac{r^{2}}{R^{2}} = \frac{z^{2}}{R^{4} (1-2e+e^{2})}$$[/del]
+
+[del]$$\left(\frac{r}{R}\right)^{2} + \frac{z(z-2R(1+e))}{R^{2}(1+e)^{2}} = 0$$[/del]
+
+[del]$$\frac{z}{R^{2}e} \left( \frac{z}{1+e} - 2R \right) = 0$$[/del]
+
+[del]$$\left(\frac{r}{R}\right)^{2} + \frac{z(z-2Z)}{Z^{2}} = 0$$[/del]
+
+[del]$$\left(\frac{r}{R}\right)^{2} = \frac{z(2Z-z)}{Z^{2}}$$[/del]
+
+[del]$$z = R(1-e)$$[/del] [del]$$\left(\frac{r}{R}\right)^{2} = \frac{z(2R(1-e)-z)}{R^{2}(1-e)^{2}}$$[/del]
+
+[del]$$r^{2} = \frac{z}{1-e} \left( 2R - \frac{z}{1-e} \right)$$[/del]
+
+[del]$$r^{2} = \frac{z}{1-e} \left( 2R - \frac{z}{1-e} \right)$$[/del]

@@ -1,0 +1,20 @@
+Now if this is all right the formula
+for the development of $f(x\Delta) \equiv x(\Delta + x)$
+
+$$fx \equiv [del]x\Delta[/del] [ins]x\Delta[/ins] f.0 + x D_x f.0$$
+$$f(1-\Delta) \equiv f.1 - x D_x f.1$$
+[del]$$\frac{x\Delta - x\Delta}{f(1-x)} \equiv \frac{x\Delta + x\Delta}{D_x fx - x fx + \Delta x + x}$$[/del]
+$$f(1-x) \equiv$$
+
+Somehow this is not satisfactory $\because x\Delta \not\equiv$
+$$D_x fx \equiv \frac{x\Delta + f(x+\Delta) - fx}{\Delta} \equiv x(\Delta + 1)$$
+$$D_x f0 \equiv \frac{f\Delta - f0}{\Delta} \times \equiv x(\Delta - 1)$$
+which if independent of $\Delta$ is $\frac{f(1) - f(0)}{1}$
+$$[del]x + \Delta[/del] [ins]\Delta[/ins] \frac{(1-n)(1-n)n}{\Delta} \Delta \frac{(1-n)n}{1} + \Delta - 1 \equiv x(\Delta - 1)$$
+
+Let us reexamine -
+
+I had to show that
+$$f(x+n\Delta) \equiv fx [del]+ n\Delta fx[/del] \equiv [del]n\Delta[/del] [ins]n[/ins] \equiv [del]n[/del] [ins]x[/ins] + [del]x[/del] [ins]n[/ins]$$
+$$\equiv fx + n\Delta f(x+\Delta) - nfx$$
+$$\equiv n, f(x+\Delta) + (1-n) fx$$

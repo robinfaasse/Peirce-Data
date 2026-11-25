@@ -1,0 +1,40 @@
+[marginalia]
+[date]1908 Sep 18[/date]
+8
+[/marginalia]
+
+he reaches $2^{\omega}$ (or as he expresses it, $\omega^{\omega}$, which is the
+same multitude) and $2^{2^{\omega}}$ and $2^{2^{2^{\omega}}}$ and so on in-
+definitely, then he certainly has [del]not[/del] ordinals that count a
+series greater than any collection, But his multitudes being
+themselves a collection, and not skipping but always advancing
+to the next, it is impossible they should count a series more
+multitudinous than themselves; so that there must be an
+error somewhere. It may be the fallacy lies in not observing
+that the multitude of a collection is not the [ins]last ordinal in
+this or that count of it, but is the[/ins] earliest ordinal that can count
+it, the count varying according to the order of counting. Or it may
+be owing to his not having proved that none of his descriptions
+of ordinals involve any absurdity. Schönfliess agrees with
+me that Cantor has not proved all he thinks he had.
+
+Cantor does not stand with the relation of "next" but with
+that of "after" and consequently fails to recognize any distinction
+between one kind of "after" and another, which is a great blemish.
+
+In referring to his paper in Vol XLIX of the Annalen, I omitted
+to say that it cannot be read without first mastering in mi-
+nute details a previous paper in Vol XLVI where he treats of
+multitudes. I should be much disposed to write a work myself
+on this subject if my logic were not far more important.
+
+I don't know as I ever showed you how rational fractions are
+fundamentally ordinals. Start with the assumption that $\frac{N}{1}$ where
+$N$ is an integer represents that integer, and with the assumption that
+$\frac{A+M}{B+N}$ where $A,B,M,N$ are integers is after either $\frac{A}{B}$ or $\frac{M}{N}$ and that
+the one of these it is not after is after it. Of course, the same would
+be true of $\frac{A}{B}$ and $\frac{M}{N}$. Next assume that $\frac{1}{0}$ is after $\frac{0}{1}$. It follows
+that using Cantor's sign $P < Q$ for $Q$ is after $P$, $\frac{1}{1} = 1$ is after $\frac{0}{1} = 0$
+and that $\frac{1}{1} < \frac{1}{0}$. Then having $\frac{0}{1} < \frac{1}{1} < \frac{1}{0}$ we interpose $\frac{0}{1} < \frac{1}{2} < \frac{1}{1}$
+and $\frac{1}{1} < \frac{2}{1} (= 2) < \frac{1}{0}$. Next $\frac{0}{1} < \frac{1}{3} < \frac{1}{2} < \frac{2}{3} < \frac{1}{1}$ etc. Next
+$\frac{0}{1} < \frac{1}{4} < \frac{1}{3} < \frac{2}{5} < \frac{1}{2} < \frac{3}{5} < \frac{2}{3} < \frac{3}{4} < \frac{1}{1}$; and it is easy to prove that we

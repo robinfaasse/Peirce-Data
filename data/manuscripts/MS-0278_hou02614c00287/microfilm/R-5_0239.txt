@@ -1,0 +1,26 @@
+[del]1 line through 2 points[/del]
+6 lines meet in 15 points
+
+15 lines may meet by 3s in 20 points
+
+[fig]Geometric diagram with lines and points labeled with letters and Greek symbols[/fig]
+
+<u>Proposition</u>
+
+On each of 3 lines through a point S
+take 3 points A A' A'' on one
+[space] B B' B'' on another
+[space] C C' C'' on the third
+
+Call the intersection of B'C' and B''C'' [space] [del]$\alpha$[/del]
+" " " [del]B'C'[/del] [ins]B''C[/ins] and B'C'' [space] [del]$\beta$[/del]
+" " " BC and B''C'' [space] [del]$\gamma$[/del]
+" " " AC and A''C'' [space] [del]$\gamma'$[/del]
+" " " BC and B'C' [space] [del]$\alpha''$[/del]
+" " " AC and A'C' [space] [del]$\beta''$[/del]
+
+Then the lines through
+$\alpha$ and $\beta$
+$\alpha'$ and $\beta'$
+$\alpha''$ and $\beta''$
+meet in one point O.

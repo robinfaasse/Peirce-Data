@@ -1,0 +1,39 @@
+The differences of logarithms have, of
+course, a degree of significance that those of
+other functions lack.
+
+Taking $\Delta$ in the sense of $E-1$
+$(E-1) \log x = \log(1+\frac{1}{x}) = M(\frac{1}{x} - \frac{1}{2} \frac{1}{x^2} + etc)$
+$M(\frac{1}{x} - \frac{1}{2} x^{-2} + \frac{1}{3} x^{-3} [del]- \frac{1}{4} x^{-4}[/del] + etc)$
+$= M \frac{1}{x} (1 - \frac{1}{2x} [del][1 - \frac{2}{3} \frac{1}{x}(1 - \frac{3}{4} \frac{1}{x} [ins]([/ins] etc \frac{4}{5} \frac{1}{x})[/del])$
+If $x > 1000$ for many purposes
+$M \frac{1}{x} (1 - \frac{1}{2x})$ will be near enough, and
+$M \frac{1}{x} [1 - \frac{1}{2x}(1 - \frac{2}{3x})]$ will almost
+always be near enough. If one is working
+with very highly developed logs we may need
+$M \frac{1}{x} \{ 1 - \frac{1}{2x} [ 1 - \frac{2}{3} \frac{1}{x} (1 - \frac{3}{4} \frac{1}{x}) ] \}$
+Take $x = 1010$ $\frac{1}{x} = .00099009900990099$
+$\frac{1}{4} \frac{1}{x} = .00024752475247524[ins]75[/ins]$
+$\frac{3}{4} \frac{1}{x} \qquad .0007425742574257425$
+[del]$\frac{1}{x} - \frac{2}{3} \frac{1}{x} =$[/del] $1 - \frac{2}{3} \frac{1}{x} = .000 66006600660066$
+[fig]
+7425
+44550
+44550
+490050
+
+4
+121
+   99
+   99
+  891
+ 891
+ 9801
+
+9900.
+  99
+9801
+[/fig]
+$.0000004900990099$
+$490099$
+$49$

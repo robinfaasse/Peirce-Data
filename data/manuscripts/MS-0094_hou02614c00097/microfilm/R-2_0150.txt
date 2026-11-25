@@ -1,0 +1,26 @@
+[pn]140[/pn]
+
+§73. In geodesy the number of equations, with an equal
+number of unknown quantities, often goes up to 20, 50,
+100, or even [del]for[/del] several hundred. The only [ins]practicable[/ins] way of pro-
+ceeding in those cases may be illustrated by the
+above three equations
+[math]x + y + z = 1[/math],
+[math]2x + 3y + 5z = 3[/math],
+[math]7x + 11y + 13z = 12[/math].
+If the second member of the last equation had been 11
+instead of 12, the solution would have been [math]x = 0[/math], [math]y = 1[/math], [math]z = 0[/math].
+As it is, it cannot differ very much from that. Then write
+[math]y = 1 + y'[/math],
+and find the small value of [math]y'[/math]. This gives
+([math]1'[/math]) [math]x + y' + z = 0[/math],
+([math]2'[/math]) [math]2x + 3y' + 5z = 0[/math],
+([math]3'[/math]) [math]7x + 11y' + 13z = 1[/math].
+We now solve the equations at once; for the first [del]two[/del] [ins]doubled[/ins] gives
+[math]2x + 2y' + 2z = 0[/math],
+and subtr[del]acting[/del] [ins]this[/ins] from ([math]2'[/math]) we get
+[math]y' + 3z = 0[/math], or
+(4) [math]y' = -3z[/math].
+But ([math]1'[/math]) multiplied by 3 gives
+[math]3x + 3y' + 3z = 0[/math]
+and [del]it is[/del] subtracted from ([math]2'[/math]) leaves

@@ -1,0 +1,51 @@
+[pn]6[/pn]
+<u>Hyp Geom</u>
+
+The first form agrees in the two terms, the second
+does not. The obvious explanation is that the first
+form supposes the interior of the circle representing
+the absolute to be the map; the [del]latter[/del] second, the
+exterior.
+
+It remains to inquire whether [del]this[/del] [ins]the[/ins] formula [del]just obtained[/del] [ins]just obtained[/ins]
+agrees with the hyperbolic equation
+
+[fig]Right triangle with sides a, h and angle B[/fig] $\tanh h = \frac{\tanh a}{\cos B}$
+
+[del]If so, we ought to have[/del] [ins]This gives[/ins]
+
+$\frac{[del]\times[/del] \tanh \frac{h}{2}}{1 + \tanh^2 \frac{h}{2}} = \frac{\tanh \frac{a}{2}}{1 + \tanh^2 \frac{a}{2}} \sec B$
+
+or
+
+$\tanh \frac{h}{2} + \coth \frac{h}{2} = \left( \tanh \frac{a}{2} + \coth \frac{a}{2} \right) \cos B$
+
+we ought to have
+
+$\frac{r}{L} = \left( \tanh \frac{h}{2} \right)^{\pm 1}$
+
+and therefore
+
+$\left( \frac{r}{L} + \frac{L}{r} \right) = \left( \frac{l}{L} + \frac{L}{l} \right) \cdot \theta$
+
+Now the equation of the circle is
+
+[fig]Circle with intersecting lines and variables r, L, l[/fig]
+[del]$r^2 + L^2 = l^2$[/del]
+$r^2 + L^2 = r^2 + 2lr + l^2$
+$\therefore$
+$l^2 + L^2 = 2l$
+$q - l = \frac{L^2}{l}$
+$q - 2lq + l^2$
+
+[del]$r^2 + L^2 = q^2$[/del]
+$q - \sqrt{q^2 - L^2} = l$
+
+$\frac{l}{L} = \tanh^2 \frac{a}{2}$
+
+$\frac{\cdot \sec \theta}{\frac{r}{L} + \frac{L}{r}} = 2 \frac{\cos \theta}{\tanh a}$
+$= \cos \theta \frac{1 + \tanh^2 \frac{a}{2}}{\tanh \frac{a}{2}}$
+$= \cos \theta \left( \tanh \frac{a}{2} + \coth \frac{a}{2} \right)$
+$= \cos \theta \left( \frac{l}{L} + \frac{L}{l} \right)$
+
+Therefore it does agree.

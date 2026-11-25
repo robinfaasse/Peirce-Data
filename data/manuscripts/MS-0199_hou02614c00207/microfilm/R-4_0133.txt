@@ -1,0 +1,26 @@
+[marginalia]
+MM 1
+D. 13
+[/marginalia]
+
+$$\begin{array}{rcccl}
+A & + & B & + & \Gamma & + & \Delta & + & \cdots & - & N & = & S_{0} \\
+A\alpha & + & B\beta & + & \Gamma\gamma & + & \Delta\delta & + & \cdots & - & N\nu & = & S_{1} \\
+A\alpha^{2} & + & B\beta^{2} & + & \Gamma\gamma^{2} & + & \Delta\delta^{2} & + & \cdots & - & N\nu^{2} & = & S_{2} \\
+\multicolumn{13}{c}{\text{---------------------------------}} \\
+A\alpha^{n-1} & + & B\beta^{n-1} & + & \Gamma\gamma^{n-1} & + & \Delta\delta^{n-1} & + & \cdots & - & N\nu^{n-1} & = & S_{n-1}
+\end{array}$$
+
+Now according to the rule, $r$ being any number, from $n$ consecutive values of the $S$'s, we calculate one more, either $S_{r}$ or $S_{r+n}$, from the equation
+
+$$a_{0} S_{r+n} + a_{1} S_{r+n-1} + a_{2} S_{r+n-2} + \cdots + a_{n} S_{r} = 0,$$
+
+where the coefficients $a_{0}, a_{1}, \dots a_{n}$, are those of the equation to be solved,
+
+$$a_{0} x^{n} + a_{1} x^{n-1} + a_{2} x^{n-2} + \cdots + a_{n} x^{0} = 0.$$
+
+The second principle is that [del]the[/del] [ins]any[/ins] roots of this equation satisfies every equation of the form
+
+$$a_{0} x^{r+n} + a_{1} x^{r+n-1} + \cdots + a_{n} x^{r} = 0,$$
+
+where $r$ is a positive or negative integer.

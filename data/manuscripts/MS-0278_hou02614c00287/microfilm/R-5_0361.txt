@@ -1,0 +1,28 @@
+[fig]Tetrahedron with labeled edges and heights[/fig] [del]$(hA)^2 = \frac{1}{4}(x^2+b^2)A^2 = \frac{1}{4}x^2A^2 + (hA)^2$[/del]
+
+$\sqrt{(abc)^2 - \frac{1}{4}x^2C^2} + \sqrt{(aBc)^2 - \frac{1}{4}x^2B^2} + \sqrt{(Abc)^2 - \frac{1}{4}x^2A^2} = (ABC)$
+
+$(aBc)^2 - \frac{1}{4}x^2B^2 + (Abc)^2 - \frac{1}{4}x^2A^2 + 2\sqrt{\text{A}}\sqrt{\text{B}} = (ABC)^2 - 2(ABC)\sqrt{\text{C}} + (abc)^2 - \frac{1}{4}x^2C^2$
+
+$2\sqrt{\text{A}}\sqrt{\text{B}} + 2(ABC)\sqrt{\text{C}} = \frac{1}{4}x^2(A^2+B^2-C^2) - (Abc)^2 - (aBc)^2 + (abc)^2 + (ABC)^2$
+
+$4\text{A}\text{B} + 8(ABC)\sqrt{\text{A}\text{B}\text{C}} + 4(ABC)^2\text{C} =$
+$\frac{1}{16}x^4(A^2+B^2-C^2)^2 - \frac{1}{2}x^2(A^2+B^2-C^2)[(Abc)^2+(aBc)^2-(abc)^2-(ABC)^2] +$
+$\begin{aligned}
+&+(Abc)^4 + (aBc)^4 + (abc)^4 + (ABC)^4 \\
+&+2(Abc)^2(aBc)^2 + 2(abc)^2(ABC)^2 \\
+&-2(Abc)^2(abc)^2 - 2(ABC)^2(abc)^2 \\
+&-2(Abc)^2(ABC)^2 - 2(aBc)^2(ABC)^2
+\end{aligned}$
+
+$64(ABC)^2\text{A}\text{B}\text{C} = \frac{1}{256}x^8(A^2+B^2-C^2)^4 - \frac{1}{16}x^6(A^2+B^2-C^2)^3[(Abc)^2+(aBc)^2-(abc)^2-(ABC)^2]$
+$-\frac{1}{2}x^4[\text{A}\text{B}+(ABC)^2\text{C}](A^2+B^2-C^2)^2 + \frac{1}{4}x^4(A^2+B^2-C^2)^2[(Abc)^2+(aBc)^2-(abc)^2-(ABC)^2]^2$
+$\begin{aligned}
+&+\frac{1}{8}x^4(A^2+B^2-C^2)^2[(Abc)^4+(aBc)^4+(abc)^4+(ABC)^4] \\
+&+\frac{1}{4}x^4(A^2+B^2-C^2)^2[(Abc)^2(aBc)^2+(abc)^2(ABC)^2 \\
+&\qquad\qquad\qquad\quad -(Abc)^2(abc)^2-(aBc)^2(abc)^2 \\
+&\qquad\qquad\qquad\quad -(Abc)^2(ABC)^2-(aBc)^2(ABC)^2]
+\end{aligned}$
+
+[del]$+ 4x^2[\text{A}\text{B}+(ABC)^2\text{C}](A^2+B^2-C^2)[(Abc)^2+(aBc)^2-(abc)^2-(ABC)^2]$[/del]
+$-x^2(A^2+B^2-C^2)[(Abc)^2+(aBc)^2-(abc)^2-(ABC)^2][(Abc)^4+(aBc)^4+(abc)^4+(ABC)^4]$

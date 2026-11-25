@@ -1,0 +1,37 @@
+Thus, take $n = 13$, $n+1 = 14$:
+
+$14 \div 2 = 7$ exact — This yields no factor.
+$14 \div 2^{2} = 3\frac{2}{4}$  $2 < 1 + \frac{1}{2} 4$  " " " "
+$14 \div 2^{3} = 1\frac{6}{8}$  $6 > 1 + \frac{1}{2} 8$  [del]Makes[/del] [ins]Makes[/ins] $2$ a factor.
+$14 \div 2^{4} = \frac{14}{16}$  $14 > 1 + \frac{1}{2} 16$  " $2$ " "
+
+Hence $E'13$ has $2^{2}$ as factor.
+
+$14 \div 3 = 4\frac{2}{3}$  $2 < 1 + \frac{1}{2} \cdot 3$  This yields no factor.
+$14 \div 3^{2} = 1\frac{5}{9}$  $5 < 1 + \frac{1}{2} \cdot 9$  " " " "
+$14 \div 3^{3} = \frac{14}{27}$  $14 < 1 + \frac{1}{2} \cdot 27$  " " " "
+
+Hence $E'13$ does not contain $3$ as a factor.
+
+$14 \div 5 = 2\frac{4}{5}$  $4 > 1 + \frac{1}{2} 5$  Makes $5$ a factor
+$14 \div 5^{2} = \frac{14}{25}$  $14 > 1 + \frac{1}{2} 25$  Makes $5$ a factor.
+
+Hence $E'13$ contains $5^{2}$ as factor[del]s[/del].
+
+$14 \div 7 = 2$ exact
+$14 \div 7^{2} = \frac{14}{49}$  $14 < 1 + \frac{1}{2} 49$
+
+Hence $E'13$ does not contain $7$ as factor.
+
+$14 \div 11 = 1\frac{3}{11}$  $3 < 1 + \frac{1}{2} 11$  This yields no factor
+
+$E'13$ does not contain $11$ as factor.
+
+$14 \div 13 = 1\frac{1}{13}$  $1 < 1 + \frac{1}{2} 13$  $E'13$ does not contain $13$ as factor
+
+$14 \div 17 = \frac{14}{17}$  $14 > 1 + \frac{1}{2} 17$  $E'13$ contains $17$ as factor.
+$14 \div 19 = \frac{14}{19}$  $14 > 1 + \frac{1}{2} 19$  $E'13$ contains $19$ as factor.
+$14 \div 23 = \frac{14}{23}$  $14 > 1 + \frac{1}{2} 23$  $E'13$ contains $23$ as factor.
+and no higher prime factor.
+
+Hence $E'13 = 2^{2} \cdot 5^{2} \cdot 17 \cdot 19 \cdot 23$.

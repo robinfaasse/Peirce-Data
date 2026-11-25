@@ -1,0 +1,13 @@
+[pn]27[/pn]
+
+$$A \prec B$$
+
+which answers, in most cases, perfectly well. The reason of this is worth examination. As long as all the propositions are quantified with $\Pi$, [del]the result is evidently just[/del] [ins]quantifiers do not act upon[/ins] one another, at all. Hence, Boole's original calculus was perfectly satisfactory for universal non-relative propositions; although he worked with the ordinary rules of algebra together with an equation of condition of the form $x(1-x)=0$ for every letter. Hence, all his [ins]interpretable[/ins] quantities were confined to the values $0$ and $1$. In [del]that logic of relatives, also, in the form of the calculus of logic[/del] [ins]the algebra of logic[/ins] which uses the quantifiers $\Pi$ and $\Sigma$, all the quantities [del]are either[/del] [ins]have one[/ins] or other of two values. Yet we easily express [ins]that[/ins] some things are $A$s [del]and[/del] [ins]while[/ins] some are not $A$s by writing
+$$\Sigma_i A_i > 0 \quad \Sigma_j \bar{A}_j > 0.$$
+But if we are to dispense with the quantifiers, [del]we are obliged to[/del] [ins]by the above[/ins] [del]abridgment,[/del] we are obliged to write such expressions as
+$$\infty \bar{\prec} A \quad \infty \bar{\prec} \bar{A},$$
+which, owing to their abridged form, look as if [del]they[/del] there were quantities which had other than [del]the[/del] two values.
+
+Schröder, indeed, regards such expressions as meaning that the quantities really do have other than the two values; and it is marvellous to see that, notwithstanding the confusion that one would expect to result, he threads his way through the labyrinth with perfect success.
+
+His twenty-first chapter is [del]entitled[/del] [ins]relates to[/ins] the contrast between the categorical and hypothetical logic. He opens it with the remark

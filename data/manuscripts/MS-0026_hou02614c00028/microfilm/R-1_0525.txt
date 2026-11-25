@@ -1,0 +1,29 @@
+[marginalia]On Multitude.[/marginalia] [pn]6[/pn]
+
+$$\Pi_{z} \Sigma_{\alpha} \Sigma_{\beta} \Pi_{y} \bar{q}_{\beta z} \cdot (q_{\alpha y} + \bar{q}_{\beta y}).$$
+
+Dropping from the quantifying part the index $\alpha$, which does not occur in the Boolean, and then changing $\beta$ to $\alpha$, we get (4). Q.E.D.
+
+[u]Theorem 2[/u]. There is a collection which includes all possible objects.
+That is
+(5) $$\Sigma_{\alpha} \Pi_{x} q_{\alpha x}.$$
+
+This is a consequence of the first order from axioms (2) and (3); so that $(2) \cdot (3) \prec$ (5). For the product of the last two factors of (3) is
+$$\Pi_{\alpha} \Pi_{\beta} \Sigma_{\gamma} \Pi_{x} \bar{q}_{\alpha x} \cdot \bar{q}_{\beta x} + q_{\gamma x}.$$
+
+Multiplying this by the first factor of (2), whose indices we accent, we get
+$$\Pi_{\alpha} \Pi_{\alpha'} \Sigma_{\beta'} \Pi_{\beta} \Sigma_{\gamma} \Pi_{x} \Pi_{x'} (q_{\alpha' x'} + q_{\beta' x'}) \cdot (\bar{q}_{\alpha x} \cdot \bar{q}_{\beta x} + q_{\gamma x}).$$
+
+Identifying $\alpha'$ with $\alpha$, $\beta$ with $\beta'$, and $x'$ with $x$, we have by the application of the same general formulae that were used in Theorem 1, and are almost always applied,
+$$\Pi_{\alpha} \Sigma_{\beta'} \Sigma_{\gamma} \Pi_{x} q_{\gamma x}$$
+
+Dropping from the quantifying part the indices $\alpha$ and $\beta'$, which do not occur in the Boolean, and changing $\gamma$ to $\alpha$, we get (5). Q.E.D.
+
+[u]Corollary 1[/u]. From (5), by carrying the $\Sigma$ to the right we get immediately
+[del](6)[/del] (5 bis) $$\Pi_{x} \Sigma_{\alpha} q_{\alpha x}.$$
+That is, every object is [del]con[/del] a unit of some collection.
+
+[u]Scholium 1[/u]. This corollary can also be deduced immediately from (1); so that there is an inelegant pleonasm in the statement of the axioms.
+
+[u]Theorem 3[/u]. For every two collections, there is a third which includes every unit of either, and nothing else. That is,
+(6) $$\Pi_{\alpha} \Pi_{\beta} \Sigma_{\gamma} \Pi_{x} (q_{\alpha x} + \bar{q}_{\gamma x}) \cdot (q_{\beta x} + \bar{q}_{\gamma x}) \cdot (\bar{q}_{\alpha x} + \bar{q}_{\beta x} + q_{\gamma x}),$$

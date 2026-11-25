@@ -1,0 +1,27 @@
+[pn]30[/pn] Sylvester, I say, had such a colossal genius for not seeing the
+force of any demonstration that excited his jealousy that he continued
+to say that he could not see that I had proved my theorem, until he
+began to discern that he was becoming the laughing-stock of all who
+had studied his subject, and then he only held his peace, but did not
+explicitly acknowledge the proof. Here that proof is. It [del]relates[/del] [ins]relates[/ins] to those
+systems of algebra which have a number of [u]linearly independent units[/u];
+that is to say, if $i_1, i_2, i_3$ etc are a set of such no one of them
+as $i_1$ can be expressed as a polynomial in the others $i_1 = c_2 i_2 + c_3 i_3 + \text{etc}$
+where $c_2, c_3,$ etc are numbers. If there is one such set there are an
+infinite number each of such a nature that every other quantity of
+the system can be expressed in the form $c_1 i_1 + c_2 i_2 + c_3 i_3 + \text{etc}$. The
+whole character of the system is expressed in its multiplication-
+table. As a general rule $i_1 \times i_2$ is not equal to $i_2 \times i_1$ but the multipli-
+cation is [u]associative[/u] that is to say if $\alpha, \beta, \gamma$ are any quantities of the
+system and if $\alpha \beta = \mu$ $\beta \gamma = \nu$ then $\alpha \nu = \mu \gamma$ or $(\alpha \beta) \gamma = \alpha (\beta \gamma)$. The
+multiplication-table may be expressed in a general way by writing
+$i_m i_n$ where $m$ and $n$ may be any two numbers and $i_m$ is the
+$m^{\text{th}}$ of the set of independent units while $i_n$ is the $n\text{th}$ unit of the set.
+$i_m \cdot i_n = [m,n,1] i_1 + [m,n,2] i_2 + [m,n,3] i_3 + \text{etc} = \sum_p [m,n,p] i_p$
+[del]which[/del] where the quantities in brackets are the numerical coefficients
+so expressed that one can see by their expression [del]what they are coeffi-[/del]
+[del]cients of.[/del] [ins]the first of the 3 numbers denoting the multiplying unit, the second the multiplier, and the third that of which the number is a coefficient.[/ins] To express that $i_l (i_m i_n) = (i_l i_m) i_n$ we see first that
+$i_m i_n = \sum_p [m,n,p] i_p$ where $\sum_p$ means that all the different units are
+successively to be put in place of $i_p$ with the proper coefficients and added
+as just shown. Then [del]if[/del] $i_l (i_m i_n) = i_l \sum_p [m,n,p] i_p = \sum_p [m,n,p] i_l i_p$
+$= \sum_p [m,n,p] \sum_q [l,p,q] i_q$ But $i_l i_m = \sum_r [l,m,r] i_r$ and

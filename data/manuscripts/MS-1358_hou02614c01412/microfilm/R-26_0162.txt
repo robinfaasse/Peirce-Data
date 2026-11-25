@@ -1,0 +1,36 @@
+Monson's Bridge 1899 [date]Feb 14[/date] [pn]4[/pn]
+
+$\delta y = \frac{1}{2} ds \sin \theta - (\frac{1}{2} ds - \delta s) \sin (\theta + \delta \theta)$
+$= \text{[del]}\frac{1}{2} ds (\sin \theta -[/del]$
+$= - \frac{1}{2} ds \cos \theta \cdot \delta \theta + \delta s \sin \theta$
+$= + 2 \delta x \sin \theta \cos \theta = \delta x \sin 2\theta$
+
+[fig]Geometric diagram with lines and angles[/fig] $\frac{\frac{1}{2} ds \sin \theta_{n+ds} + \text{[del]}\delta s \sin \theta[/del] \ [ins]\frac{2 \delta x \sin \theta \cos \theta}{\delta s \sin^2 \theta}[/ins]}{\frac{1}{2} ds \cos \theta_{n+ds} - \text{[del]}\delta x + \delta s \cos \theta[/del] \ [ins]\frac{\delta x + \delta s \cos^2 \theta}{\delta x \cos 2\theta}[/ins]} = \tan (\theta_{n+ds} + \delta \theta)$
+
+[fig]Two intersecting geometric diagrams[/fig]
+
+$D \tan = \sec^2$
+$\tan \theta_{n+ds} + \sec^2 \theta_{n+ds} \delta \theta_{n+ds} = \tan \theta_{n+ds} \frac{\sin 2\theta}{1 + 2 \frac{\delta x}{ds} \frac{\sin \theta \cos \theta}{\sin \theta \cos \theta}}$
+
+$\delta x = (\frac{1}{2} ds - \delta s) \cos (\theta + \delta \theta) - \frac{1}{2} ds \cos \theta$
+$= - \frac{1}{2} ds \sin \theta \cdot \delta \theta - \delta s \cos \theta$
+$= - \delta x \sin^2 \theta - \delta x \cos^2 \theta = - \delta x \cos 2\theta$
+
+[fig]Right triangle diagram[/fig]
+$x = y t$
+$y \tan \theta = \text{[del]}x[/del] \ [ins]x[/ins]$
+$y \sec^2 \theta \ \delta \theta = \delta x$
+$\frac{1}{2} \frac{ds}{\cos \theta} \sec^2 \theta \ \delta \theta = \delta x$
+$\delta \theta = 2 \cos \theta \frac{\delta x}{ds}$
+
+$s^2 = y^2 + x^2$
+$2 s \delta s = 2 x \delta x$
+$\delta s = \sin \theta \cdot \delta x$
+
+[fig]Right triangle diagram[/fig]
+$y_2 = (\frac{1}{2} ds - \delta s) \sin \theta$
+$\text{[del]}y_2 = s \sin \theta[/del]$
+$\text{[del]}\delta y_2 = \delta s[/del]$
+$\delta y_2 = - \delta s \sin \theta$
+$+ \frac{1}{2} ds \cos \theta \cdot \delta \theta$
+$= (- \sin^2 \theta + \cos^2 \theta) \delta x$

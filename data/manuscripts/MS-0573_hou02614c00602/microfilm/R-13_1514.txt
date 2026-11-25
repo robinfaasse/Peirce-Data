@@ -1,0 +1,16 @@
+$$+27(5-A)^2(5-B)(5-C)+27(5-A)(5-B)^2(5-C)+27(5-A)(5-B)(5-C)^2$$
+$$-27(5-A)^2(5-B)-27(5-A)^2(5-C)-27(5-A)(5-B)^2-27(5-B)^2(5-C)$$
+$$-27(5-A)(5-C)^2-27(5-B)(5-C)^2+54(5-A)(5-B)(5-C)=0.$$
+But this equation will be found to be nothing
+but the development of the following:
+$$[(A-2)(B-2)-9][(B-2)(C-2)-9][(C-2)(A-2)-9]=0.$$
+In like manner, from the last 3 of the above
+6 equations, we have,
+$$[(a-2)(b-2)-9][(b-2)(c-2)-9][(c-2)(a-2)-9]=0.$$
+[del]From[/del] [ins]To[/ins] the product of the last two equations,
+we [del]subtract[/del] [ins]add[/ins] 729 times their sum, and so
+get,
+$$\{(A-2)^2(B-2)^2(C-2)^2-9(A-2)(B-2)(C-2)(A+B+C-6)+[del]16[/del] [ins]81[/ins] [(A-2)(B-2)+$$
+$$(B-2)(C-2)+(C-2)(A-2)]\}\{(a-2)^2(b-2)^2(c-2)^2-9(a-2)(b-2)(c-2)$$
+$$[del]\text{---}[/del] (a+b+c-6)+81[(a-2)(b-2)+(b-2)(c-2)+(c-2)(a-2)]\}$$
+$$-531441=0.$$

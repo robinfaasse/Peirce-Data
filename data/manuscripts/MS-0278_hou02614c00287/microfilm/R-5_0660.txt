@@ -1,0 +1,39 @@
+[fig]Checkmark[/fig]
+$$x^2+y^2 = \xi^2+\eta^2$$
+$$\frac{y}{x} = \frac{\frac{\eta}{\xi} + \tan \Theta}{1 - \frac{\eta}{\xi} \tan \Theta}$$
+$$\frac{y^2}{x^2} = \frac{\eta^2 \cos^2 \Theta + 2\xi\eta \sin \Theta \cos \Theta + \xi^2 \sin^2 \Theta}{\xi^2 \cos^2 \Theta - 2\xi\eta \sin \Theta \cos \Theta + \eta^2 \sin^2 \Theta}$$
+$$\frac{\xi^2+\eta^2}{x^2} = 1 + \frac{\eta^2 \sin^2 \Theta + \xi^2 \sin^2 \Theta + 2\xi\eta \sin \Theta \cos \Theta}{\eta^2 \sin^2 \Theta + \xi^2 \cos^2 \Theta - 2\xi\eta \sin \Theta \cos \Theta}$$
+$$= \frac{\xi^2+\eta^2}{\eta^2 \sin^2 \Theta + \xi^2 \cos^2 \Theta - 2\xi\eta \sin \Theta \cos \Theta}$$
+
+[fig]Vertical rectangle[/fig]
+$$x = \xi \cos \Theta - \eta \sin \Theta$$
+$$y = \xi \sin \Theta + \eta \cos \Theta$$
+[fig]Rotated square with diagonals[/fig]
+
+$$y_1 = y$$
+$$x_1 = x + by$$
+$$x_1^2+y_1^2 = x^2+y^2+2bxy+b^2y^2$$
+$$\frac{x_1^2+y_1^2}{x^2+y^2} = 1 + by \frac{2x+by}{x^2+y^2} = \frac{1+2b\tan \varphi + (1+b^2)\tan^2 \varphi}{1+\tan^2 \varphi}$$
+$$= 1 + b \frac{2\frac{x}{y}+b}{\frac{x^2}{y^2}+1}$$
+$$\frac{2(\frac{x^2}{y^2}+1) - 2(\frac{x}{y})(2\frac{x}{y}+b)}{[del](\frac{x^2}{y^2}+1)^2[/del]}$$
+$$\frac{\frac{x^2}{y^2}+1}{\frac{x}{y}} - 2\frac{x}{y} = b$$
+$$\frac{\frac{y}{x} - \frac{x}{y}}{\frac{y^2-x^2}{xy}} = b$$
+
+$$[del]\cos^2[/del] \varphi + b \sin 2\varphi + b^2 \sin^2 \varphi$$
+$$2b \cos 2\varphi + b^2 \sin 2\varphi = 0$$
+$$b = \frac{-2\cos 2\varphi}{\sin 2\varphi}$$
+$$b = \tan (90^\circ + 2\varphi)$$
+$$b = \tan \varphi - \cot \varphi$$
+$$\tan 2\varphi = \frac{2\tan \varphi}{1-\tan^2 \varphi}$$
+$$b = \tan \varphi - \cot \varphi$$
+$$D \tan \varphi = \sec^2 \varphi$$
+$$D \cot \varphi = -\frac{\sin^2 \varphi - \cos^2 \varphi}{\sin 2\varphi}$$
+$$= -\csc^2 \varphi$$
+$$D \tan^2 \varphi = 2 \sin \varphi \sec^3 \varphi$$
+$$D \cot^2 \varphi = -2 \cos \varphi \csc^3 \varphi$$
+
+$$x_1 = x + y \tan \varphi - y \cot \varphi$$
+$$x_1^2+y_1^2 = x^2 + 2xy \tan \varphi - 2xy \cot \varphi + y^2 (\tan^2 \varphi - 2 + \cot^2 \varphi)$$
+$$\frac{x_1^2+y_1^2}{x^2+y^2} = 1 + \frac{y^2}{x^2+y^2} (2\frac{x}{y} \tan \varphi - \cot \varphi + \tan^2 \varphi + \cot^2 \varphi - 3)$$
+$$= 1 + \frac{\frac{y^2}{x^2}}{1+(\frac{y}{x})^2} (2\tan \varphi - 2\cot \varphi)$$
+$$= 1 + \frac{\frac{y}{x}}{1+(\frac{y}{x})^2} 2(\tan \varphi - \cot \varphi) + \frac{(\frac{y}{x})^2}{1+(\frac{y}{x})^2} (\tan^2 \varphi + \cot^2 \varphi - 3)$$

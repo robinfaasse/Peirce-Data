@@ -1,0 +1,12 @@
+[date]1880 Jan 19[/date]
+
+[u]Plane ordinal geometry[/u].
+
+A line drawn in the plane separates it into two regions. A second line [del]E[/del] cuts the first and thus penetrates both regions and adds two regions; and so on successively, the [u]n[/u][ins][u]th[/u][/ins] line adding n [del]new[/del] [ins]as[/ins] to the number of regions. [del]Thence[/del] [ins]Hence[/ins], the total number of regions is [u]1/2(n^2+n) + 1[/u], of which 2n are infinite, leaving 1/2(n^2-3n)+1 limited.
+The total number of segments of lines is n^2, of which 2n are infinite leaving n^2-2n finite; and that of points of intersection is 1/2(n^2-n). Of course, coincidences are not now considered.
+
+The following rule is self-evident:
+
+[u]Rule 3[/u]. In passing along infinity in a plane which is separated by unlimited curves, we pass from the region [greek]αβγδ[/greek] etc. by successive requalifications of single letters, just as in a line separated by points, until we reach [greek]α[/greek][bar]β[/bar][greek]γ[/greek][bar]δ[/bar] etc. when we pass by new requalifications of the letters in the same order as before back to [greek]αβγδ[/greek] etc.
+
+The secant lines may be assumed to be so lettered that these requalifications take place

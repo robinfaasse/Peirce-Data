@@ -1,0 +1,7 @@
+(4) If in $A \prec B$ we substitute for $A$ something which if scriptible implies that $B$ is scriptible the formula becomes necessarily scriptible. For by II Either $A \prec B$ is scriptible [del]or $A$ is scriptible[/del] [ins]or $A$ is scriptible[/ins], and in this case by hypothesis $B$ is scriptible, and then by I the formula is scriptible. Now if in $C \prec B$, $C$ is necessarily scriptible, the truth of $C \prec B$ implies by III that $B$ is scriptible. Thus, $[(A \prec A) \prec B] \prec B$ is scriptible and so is
+$$\{ A \prec [ B \prec (C \prec C) ] \} \prec D) \prec D$$
+and so forth. Also
+$$(\{ [ (A \prec A) \prec B ] \prec B \} \prec C) \prec C$$
+and so forth.
+
+(5) If in $A \prec B$ we substitute for $B$ something which is scriptible if $A$ is scriptible then the formula is scriptible. This is the case by I with $B \prec A$ and hence, for instance $A \prec (B \prec A)$ is scriptible

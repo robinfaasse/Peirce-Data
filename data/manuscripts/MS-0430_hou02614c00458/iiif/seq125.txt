@@ -1,0 +1,23 @@
+Logic
+[u]III[/u]
+65
+
+be written [u]a[/u] ⤙ ([u]b[/u] ⤙ [[u]c[/u] ⤙ [u]d[/u]]), when [u]b[/u] ⤙ ([u]c[/u] ⤙ [u]d[/u]) and [u]c[/u] ⤙ [u]d[/u]
+would become additional constituents. By the [u]standard[/u] con-
+stituents of an algebraical consequence shall be meant [del]what[/del] [ins]those terms which[/ins] would be
+its constituents if it were written in standard form. By [u]potential[/u]
+constituents will be meant all those terms [ins]each of[/ins] which might become
+a constituent by adding or removing parentheses enclosing
+consequents of constituents.
+By the [ured][u]proximates[/u][/ured] of an algebraical consequence[del]s[/del] shall be
+meant those constituents which are not constituents of other
+constituents. Thus, in ([u]a[/u] ⤙ [u]b[/u]) ⤙ [u]c[/u] ⤙ ([u]d[/u] ⤙ [u]e[/u]), the proximates are
+[u]a[/u] ⤙ [u]b[/u], [u]c[/u], and [u]d[/u] ⤙ [u]e[/u]. The [u]standard proximates[/u] are those
+constituents which would be proximates if the consequence were in
+standard form.
+By the [ured][u]ultimate[/u][/ured] of an algebraical consequence shall
+be meant that proximate whose relation to the consequence
+can be described as consequent, or consequent of the consequent,
+or by further repetitions of "consequent of." Thus [u]d[/u] ⤙ [u]e[/u] is the ultimate
+of [u]a[/u] ⤙ [u]b[/u] ⤙ [u]c[/u] ⤙ ([u]d[/u] ⤙ [u]e[/u]). The [u]standard ultimate[/u] will be [del]any[/del] [ins]that[/ins] letter
+which would be ultimate were the consequence written in standard form.

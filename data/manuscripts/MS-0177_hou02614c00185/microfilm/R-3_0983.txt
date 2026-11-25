@@ -1,0 +1,23 @@
+To solve an algebraic numerical equation
+
+[del]The equation must be known[/del]
+If there are several possible solutions
+all on a par, no general rule can
+lead to any one solution rather than
+another. Therefore the equation
+[del]had better[/del] [ins]must[/ins] be put into such a form
+that one solution is smaller than
+any other; and that solution is sought.
+For example; if the equation is $x^2 = 10$
+that is if we seek the square root of 10
+[del]there[/del] are two equal values, one positive
+the other negative. Let us, however, seek
+the positive value. It is near 3. Let
+us therefore write $x = 3 + y$ $(3+y)^2 = 10$
+or $y^2 + 6y + 9 = 10$ $y^2 + 6y = 1$
+When this is done and the equation is
+brought to the form
+$Ay^n + By^{n-1} + Cy^{n-2} + \text{etc} + My + N = 0$
+[del]divide[/del] by $-N$ and so bring it to the form
+$1 = -\frac{A}{N}y^n - \frac{B}{N}y^{n-1} + \text{etc}$
+or say $1 = ay^n + by^{n-1} + \text{etc}$

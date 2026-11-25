@@ -1,0 +1,29 @@
+[u]$x\bar{t} = \sum_{i}\sum_{j}$[/u]
+
+$x0 = 0x = 0$
+$x1 = 1x = x$
+
+$x\bar{0} =$ whole line where there is anything in $x$ relates of $y$ united to every correlate
+$\bar{0}x =$ [del]whole column where $x$ has anything[/del] correlates of $y$ to every relate
+
+$x \dagger 0 =$ whatever lines are filled up with $x$
+$0 \dagger x =$ " columns are filled up " "
+
+$x \bar{1} =$ wherever line in $x$ has one indiv., the rest of line is $1$ if line has more than one whole line
+
+$\bar{1}x =$ columns same.
+
+$x \dagger 1 =$
+
+$x \dagger \bar{0} \neq \bar{0} \dagger x = \bar{0}$
+$x \dagger \bar{1} = \bar{1} \dagger x = x$
+
+$(x\bar{0})_{ij} = \sum_{p} (x)_{ip}$
+$(\bar{0}x)_{ij} = \sum_{p} (x)_{pj}$
+
+$(x \dagger 0)_{ij} = \prod_{p} (x)_{ip}$
+$(0 \dagger x)_{ij} = \prod_{p} x_{pj}$
+
+$(x\bar{1})_{ij} = \sum_{p} x_{ip} \bar{1}_{pj}$
+
+$(x \dagger \bar{1})_{ij} = \prod_{p} \{(x)_{ip} + \bar{1}_{pj}\}$

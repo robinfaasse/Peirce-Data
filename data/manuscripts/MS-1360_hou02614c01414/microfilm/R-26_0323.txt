@@ -1,0 +1,24 @@
+The differential of the work equated to zero gives as the condition of equilibrium
+(1) [u]$\sum_i^n$[/u] { $\mathcal{E}_i$ ( $\frac{1}{l_i}$ - $\frac{1}{\sqrt{(\Delta x_i)^2 + (\Delta y_i)^2}}$ ) [ $\Delta x_i$ ($x_{i+1}$ - $x_i$) + $\Delta y_i$ ($y_{i+1}$ - $y_i$) ] - $P_i$ $dy_i$ } = 0
+That is, there are $n$ equations of the form
+(2) -$\mathcal{E}_i$ ( $\frac{1}{l_i}$ - $\frac{1}{\sqrt{(\Delta x_i)^2 + (\Delta y_i)^2}}$ ) $\Delta x_i$ + $\mathcal{E}_{i-1}$ ( $\frac{1}{l_{i-1}}$ - $\frac{1}{\sqrt{(\Delta x_{i-1})^2 + (\Delta y_{i-1})^2}}$ ) $\Delta x_{i-1}$ = 0,
+and $n$ others of the form
+(3) -$\mathcal{E}_i$ ( $\frac{1}{l_i}$ - $\frac{1}{\sqrt{(\Delta x_i)^2 + (\Delta y_i)^2}}$ ) $\Delta y_i$ + $\mathcal{E}_{i-1}$ ( $\frac{1}{l_{i-1}}$ - $\frac{1}{\sqrt{(\Delta x_{i-1})^2 + (\Delta y_{i-1})^2}}$ ) $\Delta y_{i-1}$ = $P_i$.
+Equations (2) give
+(4) $\mathcal{E}_i$ ( $\frac{1}{l_i}$ - $\frac{1}{\sqrt{(\Delta x_i)^2 + (\Delta y_i)^2}}$ ) $\Delta x_i$ = $C$,
+where $C$ is a constant, at present unknown. Substituting (4) in (3) and noting
+that $\Delta y_0$ = $y_1$, $\Delta x_0$ = $x_1$, we get
+(5) $\frac{\Delta y_i}{\Delta x_i}$ = $\frac{y_1}{x_1}$ - $\frac{\sum_j^i P_j}{C}$.
+
+Since $y_0$ = 0, $y_{n+1}$ = [u]$b$[/u], $x_0$ = 0, $x_{n+1}$ = [u]$a$[/u], the sum of the equations (5) each multi-
+plied by $\Delta x_i$ is
+(6) [u]$b$[/u] = [u]$a$[/u] $\frac{y_1}{x_1}$ - $\frac{1}{C}$ [u]$\sum_i^n$[/u] { $\sum_j^i P_j \cdot \Delta x_i$ }
+Substituting (5) in (4), we get
+
+(7) [del]$\mathcal{E}_i$[/del] $\Delta x_i$ = $l_i$ ( $\frac{C}{\mathcal{E}_i}$ - $\frac{1}{\sqrt{1 + (\frac{y_1}{x_1} - \frac{\sum_j^i P_j}{C})^2}}$ )
+The sum of the equations represented by (7) is
+(8) [u]$a$[/u] = [u]$\sum_i^n$[/u] { $l_i$ ( $\frac{C}{\mathcal{E}_i}$ - $\frac{C}{\sqrt{C^2 (1 + \frac{y_1^2}{x_1^2}) - 2 C \frac{y_1}{x_1} \sum_j^i P_j + (\sum_j^i P_j)^2}}$ ) }
+If $y_1 / x_1$ is known, and something equivalent to it is required to be known
+this equation will serve to determine $C$. If $\frac{y_1}{x_1}$ is not known, then
+(5) and (6) may help to determine $C$. Equation (8) [del]can[/del] have but two
+real roots, and it is the one with the smallest modulus which refers

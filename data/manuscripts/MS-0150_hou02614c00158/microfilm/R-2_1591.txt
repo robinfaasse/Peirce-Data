@@ -1,0 +1,30 @@
+But, by the definitions and ,
+$$\cos \underline{C} = \frac{FC}{\underline{a}}$$
+or
+$$FC = \underline{a} \cos \underline{C}.$$
+
+Hence,
+$$\underline{c}^2 = \underline{a}^2 + \underline{b}^2 - 2 \underline{a} \underline{b} \cos \underline{C}.$$
+Q.E.D.
+
+[u]Corollary[/u] Adding to the equation twice the evident equation
+$$\underline{c}^2 = \underline{c} (\underline{a} \cos B + \underline{b} \cos A)$$
+we get
+$$\underline{a}^2 + \underline{b}^2 + \underline{c}^2 = 2 \underline{a}\underline{b} \cos \underline{C} + 2 \underline{b}\underline{c} \cos A + 2 \underline{c}\underline{a} \cos B.$$
+
+We also easily deduce that in any [ins]plane[/ins] quadrilateral whose sides are $\underline{a}, \underline{b}, \underline{c}, \underline{d}$,
+[del]$$\underline{d}^2 = \underline{a}^2 + \underline{b}^2 + \underline{c}^2 - 2 \underline{a}\underline{b} \cos \widehat{ab} - 2 \underline{b}\underline{c} \cos \widehat{bc} - 2 \underline{c}\underline{a} \cos \widehat{ca}$$[/del]
+$$\underline{d}^2 = \underline{a}^2 + \underline{b}^2 + \underline{c}^2 - 2 \underline{a}\underline{b} \cos \angle \underline{ab} - 2 \underline{b}\underline{c} \cos \angle \underline{bc} - 2 \underline{c}\underline{a} \cos \angle \underline{ca}.$$
+
+Similar equations hold for [del]other[/del] [ins]higher[/ins] polygons.
+
+Thus, in any pentagon whose sides are $\underline{a}, \underline{b}, \underline{c}, \underline{d}, \underline{e}$.
+$$\underline{a}^2 + \underline{b}^2 + \underline{c}^2 + \underline{d}^2 + \underline{e}^2 = 2 \underline{a}\underline{b} \cos \angle \underline{ab}$$
+$$+ 2 \underline{a}\underline{c} \cos \angle \underline{ac} + 2 \underline{b}\underline{c} \cos \angle \underline{bc}$$
+$$+ 2 \underline{a}\underline{d} \cos \angle \underline{ad} + 2 \underline{b}\underline{d} \cos \angle \underline{bd} + 2 \underline{c}\underline{d} \cos \angle \underline{cd}$$
+$$+ 2 \underline{a}\underline{e} \cos \angle \underline{ae} + 2 \underline{b}\underline{e} \cos \angle \underline{be} + 2 \underline{c}\underline{e} \cos \angle \underline{ce} + 2 \underline{d}\underline{e} \cos \angle \underline{de}$$
+
+[del]$$= 2 \underline{a}\underline{b} \cos \angle \underline{ab}$$[/del]
+[del]$$- 2 \underline{a}\underline{b} \cos \angle \underline{ab} \cos \underline{bc} + 2 \underline{a}\underline{c} \sin \angle \underline{ab} \sin \angle \underline{bc}$$[/del]
+
+This is easily seen, if we reflect that $p \cos \widehat{pq}$ is the orthogonal projection of $p$ upon $\{q\}$. Consequently, if the side $\underline{e}$ is replaced by two sides $\underline{e}$ and $\underline{f}$, instead of $\underline{e}^2$ we must put $\underline{e}^2 + \underline{f}^2 - 2 \underline{e}\underline{f} \cos \angle \underline{ef}$. But then, instead of the last line of terms involving $\underline{e} \cos \angle \underline{ae}$ etc. we have to put for $2 \underline{a}\underline{e} \cos \angle \underline{ae}$, $2 \underline{a}\underline{e} \cos \angle \underline{ae} + 2 \underline{a}\underline{f} \cos \angle \underline{af}$, etc.

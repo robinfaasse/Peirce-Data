@@ -1,0 +1,27 @@
+[fig]Quaternion multiplication rules: ij=k, jk=i, ji=-k, kj=-i[/fig]
+
+[u]A:A[/u] + [u]B:B[/u] + [u]C:C[/u] + [u]D:D[/u] + [u]E:E[/u] + [u]F:F[/u] + [u]G:G[/u] + [u]H:H[/u]
+
+[u]A:B[/u] - [u]B:A[/u]
+
+[u]C:D[/u] - [u]D:C[/u]
+
+[u]E:F[/u] - [u]F:E[/u]
+
+[u]G:H[/u] - [u]H:G[/u]
+
+[ins]1[/ins] A:B - B:A + C:D - D:C [ins]7[/ins] - E:F + F:E [ins]8[/ins] - G:H + H:G [ins]5[/ins]
+
+[del]A:C - C:A[/del]
+
+[ins]2[/ins] B:C - C:B + [ins]6[/ins] A:D - D:A [ins]2[/ins] - E:H + H:E + G:F - F:G
+
+[ins]4[/ins] A:C - C:A - B:D + D:B [ins]3[/ins] - E:G + G:E [ins]5[/ins] - H:F + F:H
+
+[ins]P[/ins] A:E - E:A + B:F - F:B + C:G - G:C + D:H - H:D
+
+- B:E + E:B - F:A + A:F + G:D - D:G - H:C + C:H
+
+- D:E + E:D + B:G - G:B - C:F + F:C + A:H - H:A
+
+- C:E + E:C + A:G - G:A - B:H + H:B + D:F - F:D

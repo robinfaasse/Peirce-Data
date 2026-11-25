@@ -1,0 +1,28 @@
+[pn]111[/pn]
+
+Squaring this by the multiplication tabel we find
+
+[u]q[/u][sup]2[/sup] + 2[u]rs[/u] + [u]x[/u][sup]2[/sup] + [u]y[/u][sup]2[/sup] + [u]z[/u][sup]2[/sup]) [u]i[/u] + {[u]2qx[/u] + ([u]r[/u]+[u]s[/u]) ([u]y[/u]+[u]z[/u])} [u]l[/u]
++ ([u]s[/u][sup]2[/sup] + [u]2qr[/u] + [u]yz[/u] + [u]xz[/u] + [u]xy[/u]) [u]j[/u] + [[u]2qy[/u] + ([u]r[/u]+[u]s[/u]) ([u]x[/u]+[u]z[/u])] [u]m[/u]
++ ([u]r[/u][sup]2[/sup] + [u]2qs[/u] + [u]yz[/u] + [u]xz[/u] + [u]xy[/u]) [u]k[/u] + [[u]2 qz[/u] + ([u]r[/u]+[u]s[/u]) ([u]x[/u]+[u]z[/u])] [u]n[/u] = 0
+
+Of course, each polynomial coefficient of [u]i[/u], [u]j[/u], [u]k[/u], [u]l[/u], [u]m[/u], [u]n[/u], must
+vanish in order to make the whole vanish. Adding the coeffici-
+ents of [u]l[/u], [u]m[/u], [u]n[/u], and equating the sum to zero, we have
+2 ([u]q[/u]+[u]r[/u]+[u]s[/u]) ([u]x[/u]+[u]y[/u]+[u]z[/u]) = 0
+Hence either [u]q[/u]+[u]r[/u]+[u]s[/u] = 0 or else [u]x[/u]+[u]y[/u]+[u]z[/u] = 0. But adding the
+coefficients of [u]i[/u], [u]j[/u], [u]k[/u] and equating to zero, we get
+([u]q[/u]+[u]r[/u]+[u]s[/u])[sup]2[/sup] + ([u]x[/u]+[u]y[/u]+[u]z[/u])[sup]2[/sup] = 0.
+Consequently,
+[u]q[/u]+[u]r[/u]+[u]s[/u] = ([u]x[/u]+[u]y[/u]+[u]z[/u]) [u]\sqrt{-1}[/u]
+and whichever is equal to zero, the other must equally be so.
+Now taking the coefficients of [u]l[/u], [u]m[/u], [u]n[/u] separately, and using the
+equations [u]r[/u]+[u]s[/u] = -[u]q[/u], [u]y[/u]+[u]z[/u] = -[u]x[/u], [u]x[/u]+[u]z[/u] = -[u]y[/u], [u]x[/u]+[u]y[/u] = -[u]z[/u], we get
+3 [u]q[/u] [u]x[/u] = 0
+3 [u]q[/u] [u]y[/u] = 0
+3 [u]q[/u] [u]z[/u] = 0;
+so that either [u]q[/u] = 0 or else [u]x[/u]=[u]y[/u]=[u]z[/u]=0. In the latter case, the
+coefficients of [u]i[/u], [u]j[/u], [u]k[/u] give the following equations:
+[u]r[/u][sup]2[/sup] + 4 [u]r[/u] [u]s[/u] + [u]s[/u][sup]2[/sup] = 0
+-2 [u]r[/u][sup]2[/sup] -2 [u]r[/u] [u]s[/u] + [u]s[/u][sup]2[/sup] = 0
+[u]r[/u][sup]2[/sup] - 2 [u]r[/u] [u]s[/u] - 2 [u]s[/u][sup]2[/sup] = 0

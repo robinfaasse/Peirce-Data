@@ -1,0 +1,168 @@
+Greatest Common Divisors of Ath. Wts.
+[del]$(D = 16)$[/del]
+$\begin{array}{lccccc}
+\text{G} & 9.1 & & 40.13 & & \\
+\text{Mg} & 24.36 & [ins]15.2[/ins] & 24.36 & & \\
+\text{Ca} & 40.13 & [ins]15.77[/ins] & 15.77 & 1 & \\
+\text{Sr} & 87.68 & [ins]47.55[/ins] & 8.59 & 1 & \\
+\text{Ba} & 137.43 & [ins]49.75[/ins] & 7.18 & 1 & \\
+\text{Ra} & 225 & [ins]88[/ins] & 1.41 & 5 & \\
+& & [ins]15.77[/ins] & 1.43 & 13 & 11 \\
+& 289.60 & [ins]47.71[/ins] & & &
+\end{array}$
+$\begin{array}{l}
+128205 \\
+256410 \\
+384615 \\
+512820 \\
+641025 \\
+[del]769230[/del] \\
+[del]897435[/del] \\
+1025640 \\
+1153845 \\
+1282000
+\end{array}$
+$\begin{array}{r}
+1 \\
+1 \\
+1 \\
+1 \\
+5 \\
+11
+\end{array}$
+$\begin{array}{r}
+190 \\
+123 \\
+67 \\
+56 \\
+55
+\end{array}$
+$\begin{array}{r}
+190 \\
+123 \\
+67 \\
+56 \\
+55
+\end{array}$
+$\begin{array}{r}
+313 \\
+190 \\
+123 \\
+67 \\
+56 \\
+55
+\end{array}$
+
+$\begin{array}{cccccccc}
+& & & & 1 & 5 & 11 \\
+& 0 & 1 & 1 & 2 & 3 & 17 & 190 \\
+0 & 1 & 1 & 2 & 3 & 5 & 28 & 313
+\end{array}$
+$\begin{array}{r}
+313 \\
+190 \\
+\hline 503
+\end{array}$
+$\begin{array}{r}
+40.13 \\
+24.36 \\
+\hline 64.49 \\
+503 \\
+\hline 1419 \\
+1006 \\
+\hline 413 \\
+4024 \\
+\hline 106 \\
+1006 \\
+\hline 54 \\
+503
+\end{array}$
+
+[del]$289.64 = 1006\text{ M}$[/del]
+[del]$144.80 = 503\text{ M}$[/del]
+[del]$17.59$[/del]
+[del]$17.59$[/del]
+[del]$17.59$[/del]
+$\begin{array}{r}
+1.43 \\
+728 \\
+8.71
+\end{array}$
+$\begin{array}{r}
+13 \\
+715 \\
+871 \\
+\hline 15.86
+\end{array}$
+$\begin{array}{r}
+038463 \\
+012821 \\
+038463 \\
+\hline 40129
+\end{array}$
+$\begin{array}{r}
+012821 \\
+025642 \\
+038463 \\
+051284 \\
+064105 \\
+076926 \\
+089747 \\
+102568 \\
+115389 \\
+128210
+\end{array}$
+$\begin{array}{r}
+1 \\
+2 \\
+3 \\
+4 \\
+5 \\
+6 \\
+7 \\
+8 \\
+9
+\end{array}$
+$\begin{array}{r}
+823 \\
+1646 \\
+2469 \\
+3292 \\
+4115 \\
+4938 \\
+5761 \\
+6584 \\
+7407 \\
+8230
+\end{array}$
+
+$\begin{array}{r}71 \\ 9.1 \\ \hline 0.09747\end{array}$
+$\begin{array}{r}1072 \\ 137.43 \\ \hline 12821 \\ 0922 \\ 089747 \\ 02453 \\ 025642 \\ \hline 137.44112\end{array}$
+$\begin{array}{r}684 \\ 87.68 \\ \hline 076926 \\ 10754 \\ 102568 \\ 4972 \\ 051284 \\ \hline 87.69616\end{array}$
+$\begin{array}{r}1123 \\ 144.80 \\ \hline 10256 \\ 0974 \\ 08974 \\ 0769 \\ 0641 \\ \hline 1123032\end{array}$
+$\begin{array}{r}6410 \\ 07692 \\ \hline 199.99\end{array}$
+$\begin{array}{r}1560 \\ 200.0 \\ 0770 \\ 0718 \\ 06410 \\ 0770 \\ 07692 \\ 0.08 \\ \hline 08974\end{array}$
+$\begin{array}{r}200.0 \\ 08974 \\ 01282 \\ 91022 \\ \hline\end{array}$
+$\begin{array}{r}200.0 \\ 08974 \\ 07692 \\ 10754 \\ 102568 \\ 04972 \\ 038463 \\ 11257 \\ \hline 9999910256\end{array}$
+$\begin{array}{r}775 \\ 756 \\ \hline 19\end{array}$
+
+$M = 0.12821$
+[del]$71\text{ M} = 9.1029$[/del]
+$M = 0.1282$
+$\begin{array}{r}71\text{ M} = \\ 190\text{ M} = \\ 313\text{ M} = \\ 1072\text{ M} = \\ 684\text{ M} = \end{array}$
+$\begin{array}{r}9.1022 \\ 24.358 \\ 40.1266 \\ 137.4304 \\ 87.6888\end{array}$
+$\begin{array}{r}24.36 \\ 40.13 \\ 137.43 \\ 87.68\end{array}$
+$\begin{array}{r}0128205 \\ 076923 \\ 0641025 \\ 076923 \\ 05128 \\ 87.6888 \\ \hline\end{array}$
+$\begin{array}{r}076926 \\ 102568 \\ 051284 \\ \hline 87.69564\end{array}$
+$\begin{array}{r}1281 \\ 32.1778 \\ \hline\end{array}$
+$\begin{array}{r}1755 \\ 225 \\ \hline 01282\end{array}$
+$\begin{array}{r}01282 \\ 08974 \\ 06410 \\ 06410 \\ \hline 2249910\end{array}$
+$\begin{array}{r}1923 \\ 77 \\ \hline\end{array}$
+$\begin{array}{r}19 \\ 38 \\ 57 \\ 76 \\ 95 \\ 114 \\ 133 \\ 152 \\ 171 \\ 190\end{array}$
+$\begin{array}{r}9 \\ 24.36 \\ 01282 \\ \hline 1154 \\ 11538 \\ \hline\end{array}$
+$\begin{array}{r}19 \\ 12 \\ 70 \\ 70 \\ \hline 510 \\ 65.40 \\ 06410 \\ \hline 130 \\ 01282 \\ \hline 018\end{array}$
+$\begin{array}{r}2008 \\ 251 \\ \hline 2259\end{array}$
+$\begin{array}{r}707 \\ 503 \\ \hline 205 \\ 2008 \\ \hline 498 \\ 251 \\ \hline 247\end{array}$
+$\begin{array}{r}968 \\ 08974 \\ \hline 706 \\ 06410 \\ \hline 65\end{array}$
+$\begin{array}{r}06410 \\ 01282 \\ \hline 65.382\end{array}$
+$\text{Zn} = 510\text{ M}$

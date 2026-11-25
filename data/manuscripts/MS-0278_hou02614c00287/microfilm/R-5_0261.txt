@@ -1,0 +1,20 @@
+lies. So
+$[0+x]$, $[0+x+y+z]$, $[y+z]$ are coradial,
+and for a similar reason
+$[0+y]$, $[0+x+y+z]$, $[x+z]$ are coradial,
+and $[0+z]$, $[0+x+y+z]$, $[x+y]$ are coradial.
+
+We have, so far, the following points
+[u]The original set[/u] — — — — — — — — — — 4 points,
+[u]First additional point[/u] — — — — — — — — — 1 point,
+[u]Second additional set[/u] — — — — — — — — — 4 points,
+[u]Third additional set[/u] — — — — — — — — — 6 points,
+[u]Total[/u] — — — — — — — — — — — — — 15 points.
+
+Between 15 things there are 455 triplets; so that between 15 points there might be 455 planes. But between these points the only planes are the following:
+
+[u]1st[/u], 4 planes between 3 original points, each containing also 1 point of the second additional set and [del]four[/del] [ins]3[/ins] of the third additional set, such as
+$(xyz)$ which contains: $[x]$, $[y]$, $[z]$, $[x+y+z]$, $[x+y]$, $[y+z]$, $[x+z]$.
+
+[u]2nd[/u], 6 planes between 2 original points and the first additional point, each containing besides, [del]two[/del] [ins]1[/ins] of the second additional set and and 2 of the third additional set, such as:
+$(0,x,0+x+y+z)$, which contains: $[0]$, $[x]$, $[0+x+y+z]$, $[x+y+z]$, $[0+y+z]$, $[x+0]$, $[y+z]$.

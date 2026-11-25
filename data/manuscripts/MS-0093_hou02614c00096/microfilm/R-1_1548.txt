@@ -1,0 +1,29 @@
+[pn]24[/pn] [pn]25[/pn]
+
+He works out the formulas
+[u]$\int_0^n u_t dt$[/u] $= n u_0 + \frac{n^2}{2} \Delta u_0 + (\frac{n^3}{3} - \frac{n^2}{2}) \frac{\Delta^2 u_0}{2!} + (\frac{n^4}{4} - n^3 + n^2) \frac{\Delta^3 u_0}{3!}$
+$+ (\frac{n^5}{5} - \frac{3}{2} n^4 + \frac{11}{3} n^3 - 3 n^2) \frac{\Delta^4 u_0}{4!}$
+$+ (\frac{n^6}{6} - 2 n^5 + \frac{35}{4} n^4 - \frac{50}{3} n^3 + 12 n^2) \frac{\Delta^5 u_0}{5!}$
+$+ (\frac{n^7}{7} - \frac{15}{6} n^6 + 17 n^5 - \frac{274}{3} n^3 - 60 n^2) \frac{(\Delta^6 u)_0}{6!}$
+$+ \text{etc.}$
+
+Boole does not remark the law of these
+coefficients of $\frac{n^m}{m} \frac{\Delta^t u_0}{t!}$
+
+Calling this coefficient [del]$C_{m,t}$[/del] [ins]$C_{t-m, t}$[/ins] it is a polynomial in
+$t$ of the [del]2nd[/del] [ins]$2(t-m+1)$th[/ins] power such that [del]$C_{m,t} = 1$[/del] [del]$C_{m,t} = $[/del]
+[del]$C_{m,t}$[/del]
+Calling this coefficient $C_{t-m, t}$ it is a polynomial
+in $t$ of the $2(t-m+1)$th power, such that $C_{t-m, -1} = 1$
+$C_{t-m, m}$ ([del]that is the coef of $\frac{n^2}{2}$[/del]) is $(t-1)!$ and all
+between these (if there are any) are 0.
+$C_{t-m, -2} = 2^{t-m+2} - 1$
+$C_{-1, t} = 1$
+$C_{0, t} = \frac{t(t-1)}{2}$
+$C_{1, t} = \frac{1}{24} t(t-1)(t-2)(3t-1)$
+$C_{2, t} = \frac{1}{48} t^2(t-1)^2(t-2)(t-3)$
+$C_{3, t} =$
+
+I tabulate the coeff.
+
+[fig]Table of coefficients for t and C[/fig]

@@ -1,0 +1,50 @@
+[pn]r[/pn]
+
+$\Sigma_i \ x_i \cdot \bar{y}_i \ [del]\Psi \bar{\gamma}_i[/del] \ \Pi_h$
+$+ \Sigma_j \bar{\gamma}_{ij} \cdot x_j \cdot y_j \cdot \bar{\gamma}_{hi} \cdot (\bar{\gamma}_{kh} + \bar{\gamma}_{ki}) \cdot [del]\bar{x}_k \cdot[/del] \bar{y}_k$
+$+ \Pi_l \Pi_m \bar{\gamma}_{lm} \cdot x_m + y_l$
+
+---
+
+$\Sigma_i \Sigma_j \Sigma_k \Pi_l \Pi_m \Pi_n$
+$x_i \cdot \bar{y}_i + \bar{\gamma}_{ij} \cdot x_j \cdot y_j \cdot \bar{\gamma}_{ki} (\bar{\gamma}_{kl} + \bar{\gamma}_{li}) \cdot \bar{y}_k$
+$+ \bar{\gamma}_{mn} \cdot x_n + y_m$
+
+---
+
+[del]$\times$[/del] $\Pi_i \ \bar{x}_i + y_i$
+
+$\Pi_j \ [del]\Pi_k[/del] \Pi_k \ \Pi_l \ \Sigma_m$
+$\bar{\gamma}_{jk} + \bar{x}_k + \bar{\gamma}_{pj} + \bar{\gamma}_{lm} \cdot \bar{\gamma}_{mj} + \bar{y}_l$
+$+ \bar{y}_j$
+
+[fig]W-shaped diagram[/fig]
+
+---
+
+[upside-down]
+Some non-P is to P not is to X
+but not is to any to some P
+[/upside-down]
+
+***
+
+$\Pi_u \ \Pi_v \ \Sigma_w$
+$\bar{\gamma}_{uw} + [del]\bar{\gamma}_{vw} + \bar{\gamma}_{uw}[/del] + \bar{\gamma}_{uw} \cdot \bar{\gamma}_{vw} + y_u$
+
+$\Pi_i \ [del]\Pi_j[/del] \ \Pi_j \ \Pi_k \ \Pi_l \ \Sigma_m$
+[del]$\bar{y}_i + \bar{\gamma}_{ij} + \bar{x}_j + \bar{\gamma}_{kl} + \bar{x}_l$[/del]
+[del]$\bar{\gamma}_{ki} + \bar{\gamma}_{km} \cdot \bar{\gamma}_{mi} + \bar{y}_k$[/del]
+
+---
+
+$\Pi_h \ \Pi_j \ \Pi_k \ \Pi_l \ \Sigma_i$
+$\bar{\gamma}_{hl} + \bar{\gamma}_{hj} + \bar{\gamma}_{hi} \cdot \bar{\gamma}_{ij} + \bar{\gamma}_{jk}$
+$+ y_h + \bar{y}_j + \bar{x}_k + \bar{x}_l$
+
+$\Sigma_m \ \Sigma_n$
+$\bar{\gamma}_{mn} \cdot x_n \cdot \bar{y}_m$
+
+[marginalia]
+[fig]directed graph with nodes k, l, m, i, j, h[/fig]
+[/marginalia]

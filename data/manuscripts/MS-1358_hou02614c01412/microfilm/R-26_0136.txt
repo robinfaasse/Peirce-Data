@@ -1,0 +1,46 @@
+[marginalia]Morrison's Bridge [date]1899 Feb 7[/date].[/marginalia] [pn]4[/pn]
+
+Variation 0.1.
+
+[del]a - b[/del]
+[del]a - b[/del]
+
+[del]a - b[/del] [ins]$\Theta_{n+1} + \delta\theta$[/ins]
+
+$\frac{1}{2} B \{ - (\Theta_n - \Theta_{n-1})^2 + (\Theta_{n+1} - \Theta_n)^2 + (\Theta_{n+2} - \Theta_{n+1})^2 + \dots$
+
+$B \{ (\Theta_n - \Theta_{n-1})\delta\theta + (\Theta_{n+1} - \Theta_n)2\delta\theta - (\Theta_{n+2} - \Theta_{n+1})\delta\theta \}$
+$= B [ - \Theta_{n+2} + 3\Theta_{n+1} - 3\Theta_n + \Theta_{n-1} ] \delta\theta$
+
+[del]$+ \frac{w I}{c} \delta\theta$[/del] [ins]$+ v I \delta\theta$[/ins] [fig]diagram of angles[/fig]
+
+The equation will be then
+$\Delta^3 \Theta_n \pm [del]w I[/del]$ [fig]diagram of angles[/fig]
+
+At the extremity we shall have [fig]diagram of angles[/fig]
+when the end is lifted
+
+$- B (\Theta_a - \Theta_{a-1}) \delta\theta + \frac{1}{2} v I \delta\theta = 0$ [fig]diagram of angles[/fig]
+
+At the other end
+$- B (\Theta_{a+1} - \Theta_a) \delta\theta + \frac{1}{2} v I \delta\theta = 0$
+
+When next to end is lifted
+$B [ - (\Theta_a - \Theta_{a-1}) + 2 (\Theta_{a+1} - \Theta_a) ] \delta\theta$
+[del]$B [ - \Theta_a + 3\Theta_{a-1} - 2\Theta_{a-2} ] + v I \delta\theta$[/del]
+
+$\Delta^2 A$
+
+[fig]diagram of angles[/fig]
+
+Inclinations were
+$\begin{matrix} \Theta_{a-1} & \Theta_a \\ \Theta_{a-1} & \Theta_a - \delta\theta \end{matrix}$ [fig]diagram of angles[/fig]
+
+Inclinations were
+$\begin{matrix} \Theta_a & \Theta_{a+1} \\ \Theta_a + \delta\theta & \Theta_{a+1} \\ -\delta\theta \end{matrix}$ [fig]diagram of angles[/fig]
+
+Inclinations were
+$\begin{matrix} \Theta_{a-2} & \Theta_{a-1} & \Theta_a \\ \Theta_{a-2} - \delta\theta & \Theta_{a-1} & \Theta_a \\ +2\delta\theta & -\delta\theta \end{matrix}$ [fig]diagram of angles[/fig]
+
+[fig]diagram of angles[/fig] The inclinations at first were
+$\begin{matrix} \Theta_{n-1} & \Theta_n & \Theta_{n+1} & \Theta_{n+2} \\ \Theta_{n-1} & \Theta_n - \delta\theta & \Theta_{n+1} + \delta\theta & \Theta_{n+2} \\ -\delta\theta & +2\delta\theta & -\delta\theta \end{matrix}$

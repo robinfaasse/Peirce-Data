@@ -1,0 +1,24 @@
+[u]Approximations[/u]
+
+To find the greatest common divisor of
+two numbers we divide back & forth thus
+
+To find greatest common divisor of
+702 and 364
+
+[fig]Euclidean algorithm division table for 702 and 364[/fig]
+
+26 is the greatest common divisor
+
+To find the successive approximations to
+any number, say $\pi = 3.14159$, we first
+act as if we wanted the greatest common
+divisor of it and 1
+
+[fig]Euclidean algorithm division table for 3.14159 and 1[/fig]
+
+Then $3.14159 = \frac{1}{3 + \frac{1}{7 + \frac{1}{15 + \frac{1}{1 + \frac{1}{26\text{ etc}}}}}}$
+
+or $\frac{1}{3}$  $\frac{1}{3 + \frac{1}{7}} = \frac{7}{22}$
+
+$\frac{1}{3 + \frac{1}{7 + \frac{1}{15}}} = \frac{1}{3 + \frac{15}{106}} = \frac{106}{333}$

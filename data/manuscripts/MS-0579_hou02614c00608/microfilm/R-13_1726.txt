@@ -1,0 +1,16 @@
+Algebra of the Copula
+
+$\alpha_{ab}$ [u]$b$[/u] is antecedent of the proposition [u]$a$[/u]
+$\beta_{ab}$ [u]$b$[/u] is consequent of the proposition [u]$a$[/u]
+$\gamma_{a}$ $a$ is scriphible
+
+Definition of the copula
+
+I $\Pi_{a}\Pi_{b}(\bar{\beta}_{ab} + \bar{\gamma}_{b} + \gamma_{a})$
+II $\Pi_{a}\Pi_{b}(\bar{\alpha}_{ab} + \gamma_{b} + \gamma_{a})$
+III $\Pi_{a}\Pi_{b}\Pi_{c}(\bar{\alpha}_{ab} + \bar{\beta}_{ac} + \bar{\gamma}_{a} + \bar{\gamma}_{b} + \gamma_{c})$
+IV $\Pi_{a}\Pi_{b}\Pi_{c}(\bar{\alpha}_{ab} + \bar{\alpha}_{ac} + 1_{bc})$
+V $\Pi_{a}\Pi_{b}\Pi_{c}(\bar{\beta}_{ab} + \bar{\beta}_{ac} + 1_{bc})$
+VI $\Pi_{a}\Pi_{b}\Pi_{c}\Pi_{d}(\bar{\alpha}_{ac} + \bar{\alpha}_{bc} + \bar{\beta}_{ad} + \bar{\beta}_{bd} + 1_{ab})$
+[del]VII $\Pi_{a}\bar{\alpha}_{aa}$[/del] VII $\Pi_{a}(\Pi\bar{\alpha}\bar{\beta})_{aa}$
+[del]VIII $\Pi_{b}\bar{\beta}_{aa}$[/del]

@@ -1,0 +1,48 @@
+$$\frac{S_{EW}}{T} = \frac{S}{T}$$
+$$S_{NS} = \frac{dz}{\sqrt{(dr)^2 + (dz)^2}}$$
+$$\frac{dg}{S} = \frac{\sqrt{(dr)^2 + (dz)^2}}{r}$$
+
+$$\left(\frac{r}{R}\right)^2 + \left(\frac{z-Z}{Z}\right)^2 = 1 \qquad z^2 - 2z(Z-z)$$
+
+$$\left(\frac{r}{R}\right)^2 = 1 - \left(\frac{z}{Z} - 1\right)^2 = 1 - \left(\frac{z^2}{Z^2} - 2\frac{z}{Z} + 1\right) = \left(\frac{z}{Z}\right)\left(2 - \frac{z}{Z}\right)$$
+
+$$r = R \sqrt{\frac{z}{Z}\left(2 - \frac{z}{Z}\right)} = \frac{R}{Z} \sqrt{z(2Z-z)}$$
+
+But [del]$\frac{r}{R}$[/del] $\frac{R-Z}{Z}$ is usually called $e$. I prefer [ins]to write it $E$[/ins] [del]for some reason or other[/del]
+
+or $\frac{R}{Z} = 1 + E \qquad R = Z(1+E)$
+
+$$r = (1+E)\sqrt{z(2Z-z)}$$
+
+$$dr = (1+E) \frac{1}{2} \frac{2Z-2z}{\sqrt{z(2Z-z)}} dz = \frac{Z-z}{\sqrt{z(2Z-z)}} dz$$
+
+$$\sqrt{(dr)^2 + (dz)^2} = dz \sqrt{1 + \left(\frac{dr}{dz}\right)^2}$$
+
+$$\left(\frac{dr}{dz}\right)^2 = \frac{(Z-z)^2}{z(2Z-z)} = \frac{(Z+z)(Z-z)}{[2Z(Z-z)][Z-(Z-z)]} = \frac{1 + \frac{z}{Z}(1 - \frac{z}{Z})}{[2 + (- \frac{z}{Z})][\frac{z}{Z}]}$$
+
+[del]$ab = (a-b)(a+b)$[/del]
+[del]$(a-b)(a+b) = (a+b)(a-b)$[/del]
+$$a+b = z \quad (a-b) = 2Z-z$$
+[del]$2a = 2Z \quad a = Z$[/del]
+[del]$2b = z - 2Z + z = 2z - 2Z$[/del]
+[del]$b = z - Z$[/del]
+$$2b = 2z - 2Z$$
+$$b = -(Z-z)$$
+
+$$z^2 - (Z-z)^2 = 2Zz - z^2$$
+
+$$z^2(1 - \frac{z}{Z})^2$$
+
+$$2Z-z = Z(2-\frac{z}{Z})$$
+$$z = Z(\frac{z}{Z})$$
+$$z(2Z-z)$$
+
+$$(a+b) = Z - (Z-z)$$
+$$(a-b) = Z + (Z-z)$$
+
+$$z(2Z-z) = [Z - (Z-z)][Z + (Z-z)]$$
+$$= Z^2 [1 - (1-\frac{z}{Z})][1 + (1-\frac{z}{Z})]$$
+
+$$\left(\frac{dr}{dz}\right)^2 = \frac{(1-\frac{z}{Z})^2}{[1 - (1-\frac{z}{Z})^2]}$$
+
+$$1 + \left(\frac{dr}{dz}\right)^2 = \frac{1}{1 - (1-\frac{z}{Z})^2} \qquad \sqrt{1 + \left(\frac{dr}{dz}\right)^2} = \frac{1}{\sqrt{1 - (1-\frac{z}{Z})^2}}$$

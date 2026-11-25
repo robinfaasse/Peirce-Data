@@ -1,0 +1,41 @@
+[fig]Geometric diagram with lines and angles[/fig]
+
+$\frac{1}{2} v^2 = \frac{a}{r} + C$
+
+$\frac{1}{2} v^2 = \frac{a}{r} + C$
+
+$(ds)^2 = r^2 (d\theta)^2 + dr^2$
+
+$r^2 d\theta = C$
+
+$\frac{1}{2} r^2 (D_t \theta)^2 + \frac{1}{2} (D_t r)^2 = \frac{a}{r} + C$
+
+$r^2 D_t \theta = E$
+
+$r^4 (D_t \theta)^2 = E^2$
+
+$\frac{1}{2} r^2 (D_t \theta)^2 = \frac{1}{2} \frac{E^2}{r^2}$
+
+$(D_t r)^2 = 2C + 2\frac{a}{r} - \frac{E^2}{r^2}$
+
+$D_t r = \sqrt{2C + 2\frac{a}{r} - \frac{E^2}{r^2}}$
+
+---
+
+$\arccos (\frac{c^2 - A^2}{cr} - \frac{A}{c}) = \phi$
+
+$\frac{c^2 - A^2}{cr} = D_r \phi$
+
+$\frac{c^2 - A^2}{cr} = D_r \phi$
+
+$\sqrt{1 - (\frac{A^2}{c^2} + 2 \frac{A}{c} \frac{c^2 - A^2}{cr} - \frac{(c^2 - A^2)^2}{c^2 r^2})}$
+
+$D_t r = 2C + 2\frac{a}{r} - \frac{E^2}{r^2}$
+
+$(D_t \theta)^2 = \frac{E^2}{r^4}$
+
+$(D_\theta r)^2 = \frac{2C r^4 + 2 a r^3}{E^2} - r^2$
+
+$D_r \theta = \frac{1}{r \sqrt{\frac{2C}{E^2} r^2 + \frac{2a}{E^2} r - 1}}$
+
+$\frac{A}{c^2 - A^2} = \frac{a}{E^2}$

@@ -1,0 +1,30 @@
+[marginalia]
+Morrison's Bridge
+1st Case
+[/marginalia]
+
+[fig]Diagram of a multi-span bridge curve with supports labeled 1, 2, 2L-1, 2L, 2L+1[/fig]
+
+Let an elastic curve of uniform weight be supported
+at $x = 0$, $\pm 2X$, $\pm 4X$, $\pm 6X$, $\dots$ $\pm 2\Omega X$
+[ins]Let $X$ be the value of $x$ at the extremity[/ins]
+Between two successive points the curve will be regular
+so that if $x_1$, $x_3$, $x_5$ - - - $x_{2\Omega+1}$ be the variable values
+between the supports and $y_1$, $y_3$, $y_5$ - - - $y_{2\Omega+1}$ the
+corresponding values of $y$ (measured upward)
+$y_n = - A \left(x_n^4 + C'_n x^3 + C''_n x^2 + C'''_n x + C^{IV}_n\right)$
+$\partial y_n / \partial x_n = - A \left(4 x_n^3 + 3 C'_n x^2 + 2 C''_n x + C'''_n\right)$
+$\partial^2 y_n / \partial x_n^2 = - A \left(12 x_n^2 + 6 C'_n x + 2 C''_n\right)$
+$\partial^3 y_n / \partial x_n^3 = - A \left(24 y_n + 6 C'_n\right)$
+with the conditions ($L$ being any whole number up to $\Omega$)
+
+$C'_{2\Omega+1} = - 4 [del]X[/del] [ins]X[/ins]$
+$C''_{2\Omega+1} = 6 [del]X^2[/del] [ins]X^2[/ins]$
+$6 C'_{2L-1} LX + C''_{2L-1} = 6 C'_{2L+1} LX + C''_{2L+1}$
+$2 C''_{2L-1} LX + C'''_{2L-1} = 2 C''_{2L+1} LX + C'''_{2L+1}$
+$12 C'_{2L-1} L^2 X^2 - C'''_{2L-1} = 12 C'_{2L+1} L^2 X^2 - C'''_{2L+1}$
+$5 C'_{2L-1} L^3 X^3 - C^{IV}_{2L-1} = 5 C'_{2L+1} L^3 X^3 - C^{IV}_{2L+1}$
+$16 L^4 X^4 + 12 C'_{2L-1} L^3 X^3 = 11 C'_{2L+1} L^3 X^3 - C''_{2L+1} L^2 X^2 - C'''_{2L+1} LX - C^{IV}_{2L+1}$
+$C'''_1 = 0$
+$C'''_{-2L+1} = - C'''_{2L-1}$
+$C'_{-2L+1} = - C'_{2L-1}$

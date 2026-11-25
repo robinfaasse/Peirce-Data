@@ -1,0 +1,73 @@
+[pn]88[/pn]
+
+Change the expression so that for C appears
+[ins]$$M = -\frac{1}{C}$$ $$C = -\frac{1}{M}$$[/ins]
+$$R_{n+1} \Theta_{n+1}^{\theta^{n+1}} = M \frac{[del](M-A-1)(B-1) - [A(A-1)(B-1) - AB] R_n \Theta_n^{\theta_n}[/del]}{M - R_n \Theta_n^{\theta_n}}$$
+
+$$R_{n+1} \Theta_{n+1}^{\theta^{n+1}} = M \frac{M(A-1)(B-1) - [(A-1)(B-1) - AB] R_n \Theta_n^{\theta_n}}{M - R_n \Theta_n^{\theta_n}}$$
+
+Put [del]$$R_n \Theta_n^{\theta_n} = A$$[/del] Then $$R_{n+1} \Theta_{n+1}^{\theta^{n+1}} = M \frac{M(AB-A-B+1) + (A+B-1)A}{M-A} = M \frac{MAB}{M-A} - BH$$
+Put $$R_n \Theta_n^{\theta_n} = M(1-A)$$ Then $$R_{n+1} \Theta_{n+1}^{\theta^{n+1}} = M \frac{AB-A-B+1 + (A+B-1)(1-A)}{A}$$
+$$M - M + MA$$
+$$= M \frac{AB-A-B+1 + A+B-1 - A^2-AB+A}{MA}$$
+$$= M \frac{M(1-A)}{MA} = M(1-A)$$
+
+Change the expression to
+$$R_{n+1} \Theta_{n+1}^{\theta^{n+1}} = M \frac{MAB - [AB - (1-A)(1-B)] R_n \Theta_n^{\theta_n}}{M - R_n \Theta_n^{\theta_n}}$$
+$$M \frac{MAB - (1+A+B)MA}{M-MA} \quad A \quad -1+A+B$$
+$$= MAB + \frac{M(1-A)(1-B) R_n \Theta_n^{\theta_n}}{M - R_n \Theta_n^{\theta_n}}$$
+
+Now if we take the orig coordinates with origin half
+way between MA and MB so that for MA = 1 MB = -1
+counting angles from the radius to A and taking the scale
+of measurement such that from A to B measures 2 units
+$$R_{n+1} \Theta_{n+1}^{\theta^{n+1}} = M \frac{M - [-1] R_n \Theta_n^{\theta_n}}{M - R_n \Theta_n^{\theta_n}}$$
+
+[fig]Geometric diagram with circles and lines[/fig] If $$R_{n+1} \Theta_{n+1}^{\theta^{n+1}} = M \frac{M - R_n \Theta_n^{\theta_n} = MAB + (1-A-B) R_n \Theta_n^{\theta_n}}{M - R_n \Theta_n^{\theta_n}}$$
+$$= MAB + [A-A - B] R_n \Theta_n^{\theta_n}$$
+$$M(1-AB) = (2-A-B) R_n \Theta_n^{\theta_n}$$
+$$R_n \Theta_n^{\theta_n} = M \frac{1-AB}{2-A-B}$$
+
+[fig]Geometric diagram with intersecting curves[/fig]
+
+$$\frac{(M+1)^n + (M-1)^n}{(M+1)^n - (M-1)^n}$$
+$$1-AB = \frac{(M-1)^n + (M+1)^n}{(M-1)^n - (M+1)^n}$$
+$$\frac{(a+b)^n - (a-b)^n}{(a+b)^n - (a-b)^n}$$
+$$M^2 + 5M^2 + 10M^3 + 10M^2 + 5M + 1$$
+
+[pn]89[/pn]
+
+$$R_{n+1} \Theta_{n+1}^{\theta^{n+1}} = MAB + \frac{M(1-A)(1-B) R_n \Theta_n^{\theta_n}}{M - R_n \Theta_n^{\theta_n}}$$
+
+$$MAB + (1-A)MA$$
+Suppose MA = 1 MB = -1
+$$A = \frac{1}{M} \quad MAB = -\frac{1}{M}$$
+$$1-A = \frac{M-1}{M} \quad M(1-A)(1-B) = \frac{M^2-1}{M}$$
+$$1-B = \frac{M+1}{M} \quad R_{n+1} \Theta_{n+1}^{\theta^{n+1}} = -\frac{1}{M} + \frac{\frac{M^2-1}{M} R_n \Theta_n^{\theta_n}}{M - R_n \Theta_n^{\theta_n}}$$
+When $$R_n \Theta_n^{\theta_n} = 1 \quad R_{n+1} \Theta_{n+1}^{\theta^{n+1}} = -\frac{1}{M} + \frac{\frac{M^2-1}{M}}{M-1} = -\frac{1}{M} + \frac{M+1}{M} = 1$$
+$$R_{n+1} \Theta_{n+1}^{\theta^{n+1}} = -\frac{1}{M} + \frac{(M^2-1) R_n \Theta_n^{\theta_n}}{M^2 - M R_n \Theta_n^{\theta_n}}$$
+$$= -\frac{1}{M} + \frac{\frac{M^2-1}{M}}{\frac{M^2-1}{M+1}} = -\frac{1}{M} - \frac{M-1}{M} = -1$$
+
+$$R_n \Theta_n^{\theta_n} = 0 \quad R_{n+1} \Theta_{n+1}^{\theta^{n+1}} = -\frac{1}{M}$$
+$$R_n \Theta_n^{\theta_n} = \infty \quad R_{n+1} \Theta_{n+1}^{\theta^{n+1}} = -\frac{1}{M} - M + \frac{1}{M} = -M$$
+$$R_n \Theta_n^{\theta_n} = M \quad R_{n+1} \Theta_{n+1}^{\theta^{n+1}} = \infty \quad R_n \Theta_n^{\theta_n} = M$$
+$$R_{n+1} \Theta_{n+1}^{\theta^{n+1}} = 0 \quad (M-\frac{1}{M}) \frac{R_n \Theta_n^{\theta_n}}{M-R_n \Theta_n^{\theta_n}} = \frac{1}{M} \quad M R_n \Theta_n^{\theta_n} = 1 \quad R_n \Theta_n^{\theta_n} = \frac{1}{M}$$
+
+When $$R_n \Theta_n^{\theta_n} = -M \quad R_{n+1} \Theta_{n+1}^{\theta^{n+1}} = -\frac{1}{M} + (M-\frac{1}{M}) \frac{-M}{2M} = -\frac{1}{2}(M+\frac{1}{M})$$
+" $$R_n \Theta_n^{\theta_n} = -\frac{1}{M} \quad R_{n+1} \Theta_{n+1}^{\theta^{n+1}} = -\frac{1}{M} + (M-\frac{1}{M}) \frac{-\frac{1}{M}}{M+\frac{1}{M}} = -\frac{2}{M+\frac{1}{M}}$$
+
+When $$R_n \Theta_n^{\theta_n} = R^{-1} \Theta^{-1} \quad R_{n+1} \Theta_{n+1}^{\theta^{n+1}} = -\frac{1}{M} + (M-\frac{1}{M}) \frac{R^{-1} \Theta^{-1}}{M-R^{-1} \Theta^{-1}} = -\frac{1}{M} ( \frac{2M}{M+\frac{1}{M}} ) = -\frac{2}{M+\frac{1}{M}}$$
+
+$$-\frac{1}{M} + (M-\frac{1}{M}) \frac{z}{M-z} = \frac{M-z}{Mz-1} = \frac{M+(-z)}{M(-z)+1}$$
+$$-\frac{1}{M} + (M-\frac{1}{M}) \frac{z}{M-z} = \frac{-\frac{1}{M}(M-z) + M^2 z - \frac{1}{M} z}{M-z} = \frac{Mz-1}{Mz-1}$$
+$$\frac{M^2 z^2 - Mz - Mz + 1}{(M-z)^2} = \frac{Mz}{M-z} \frac{Mz-1}{M-z} = \frac{Mz-1}{(M-z)^2} = \frac{Mz-1}{M-z} ( \frac{Mz}{M-z} - \frac{1}{M-z} ) = ( \frac{Mz-1}{M-z} )^2$$
+$$\frac{Mz-1}{M-z} = \frac{z}{\sqrt{M-z}}$$
+$$R_n \Theta_n^{\theta_n} = \frac{-2}{M+\frac{1}{M}} \quad R_{n+1} \Theta_{n+1}^{\theta^{n+1}} = \frac{-\frac{2M}{M+\frac{1}{M}} - 1}{M + \frac{2}{M+\frac{1}{M}}} = \frac{-2M-M-\frac{1}{M}}{M+3} = \frac{-3M-\frac{1}{M}}{M+3}$$
+
+$$x_n = 0 \quad z_{n+1} = -M$$
+$$z_n = -M \quad z_{n+1} = -\frac{2M}{M+\frac{1}{M}}$$
+$$z_n = -\frac{2M}{M+\frac{1}{M}} \quad z_{n+1} = -\frac{3M^2+3M}{3M^2+1}$$
+$$z_n = -\frac{3M^2+3M}{3M^2+1} \quad z_{n+1} = -\frac{4M^3+4M}{M^4+6M^2+1}$$
+$$z_n = -\frac{4M^3+4M}{M^4+6M^2+1} \quad z_{n+1} = -\frac{5M^4+10M^2+5M}{5M^4+10M^2+1}$$
+
+$$z_{n+m} = \frac{(M+1)^m + (M-1)^m}{(M+1)^m - (M-1)^m}$$

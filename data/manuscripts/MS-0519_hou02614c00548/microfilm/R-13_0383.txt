@@ -1,0 +1,32 @@
+[pn]15[/pn]
+
+Now instead of introducing $q_{ki}$ we
+can proceed as follows. The premise,
+
+$$\Pi_{k} (q_{ki} + \overline{q}_{kj})$$
+
+is to be multiplied by any identical equation
+and Step 5 may be performed.
+We may then introduce into the iden-
+tical [del]equation[/del] proposition $q_{ki}$ and $q_{kj}$ where-
+ever we please so long as they are
+eliminable [del]with[/del] [ins]on[/ins] restoration of the
+identical equation, but [del]some of[/del] the
+quantifier must be changed to $\Sigma_{k}$.
+
+For example the steps are
+
+$$\Pi_{k} (q_{ki} + \overline{q}_{kj})$$
+
+$$\Pi_{e} \Pi_{k} (q_{ei} + \overline{q}_{ei}) (q_{ki} + \overline{q}_{kj})$$
+
+$$\Pi_{e} \Pi_{k} (q_{ei} + \overline{q}_{li}) (q_{ei} + \overline{q}_{ej}) (q_{ki} + \overline{q}_{kj})$$
+
+[del]$$\Pi_{e} \Pi_{k} q_{ki} + \overline{q}_{ei} \overline{q}_{ej} q_{kj}$$[/del]
+
+$$\Pi_{e} \Sigma_{k} (q_{ei} \overline{q}_{ki} + \overline{q}_{ei}) (q_{ei} + \overline{q}_{kj} \overline{q}_{ej}) (q_{ei} + \overline{q}_{li}) (q_{ki} + \overline{q}_{kj})$$
+
+$$\Pi_{e} \Sigma_{k} (q_{ei} \overline{q}_{ki} q_{ki} q_{ei} \overline{q}_{ki} + \overline{q}_{ei} q_{ki} \overline{q}_{ki} q_{ki} < \Pi_{e} (q_{ei} \overline{q}_{ei} + \overline{q}_{ei} \overline{q}_{ej})$$
+
+They always will be eliminable so long as we
+do not uselessly introduce $q_{ki}$ and $\overline{q}_{kj}$.

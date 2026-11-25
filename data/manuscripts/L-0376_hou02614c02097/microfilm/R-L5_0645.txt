@@ -1,0 +1,23 @@
+REPORT of [blank] Inspector of [blank] Steam Boiler used by [blank]
+at [blank] inspected [blank] 189
+
+[marginalia][date](7/9/91)[/date][/marginalia]
+
+Dear Professor:
+
+[fig]Triangle ABC with unit vectors alpha, beta, gamma along sides[/fig]
+
+[fig]Construction of symmedian vector from vertex C[/fig]
+
+From the definition of the symmedian line of the triangle $A\ B\ C$ ($\alpha, \beta, \gamma$ being unit vectors,) we have the construction in the second figure for finding it. Let $\rho$ be a vector along the symmedian line from $C$, $\sigma$ a vector along the s. line from $B$, and $\delta$ a vector along the s. line from $A$. Then from the second figure
+$$\rho = \frac{b\alpha - a\beta}{2}$$
+and, by symmetry, $\sigma = \frac{a\gamma - c\alpha}{2}$, $\delta = \frac{c\beta - b\gamma}{2}$.
+Also $c\gamma + b\beta + a\alpha = 0$. Eliminating $\gamma$, [del]$\beta$[/del] [ins]$\sigma$[/ins] by means of this last equation we have
+$$\rho = \frac{1}{2} (b\alpha - a\beta) \qquad \sigma = - \frac{1}{2} ([a^2+c^2]\alpha + ab\beta) \qquad \delta = \frac{1}{2} ([b^2+c^2]\beta + ab\alpha)$$
+From these it is easy to show that $\rho$, $\sigma$ & $\delta$ intersect in a point, and that this point is distant from $C$ $\frac{2 a b L}{a^2+b^2+c^2}$ where $L$ is the length of the medial line from $C$ to the opposite side.
+Is this the symmedian point?
+
+Yours, respectfully,
+A. D. Risteen
+
+Hartford, [date]July 9. (1891)[/date]

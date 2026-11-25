@@ -1,0 +1,52 @@
+[fig]Table of Quadridimensional Topic[/fig]
+[u]Quadridimensional Topic[/u]
+
+| Point | Line | Surface | [del]Space[/del] [ins]Plenome[/ins] | [del]Dimension[/del] |
+| :--- | :--- | :--- | :--- | :--- |
+| Ray | Planes | | | |
+| [del]Conn[/del] +1 | -1 | +1 | -1 | +1 = (-1) |
+
+Listing Numbers
+| Chorisy | Cyclosy | Periphery | Apeiry | Plerosy |
+| :--- | :--- | :--- | :--- | :--- |
+| Dimension 0 | 1 | 2 | 3 | 4 |
+| Particle | Filament | Film | Solid | Plene |
+
+[del]Cen[/del]
+[fig]Two small circles[/fig]
+[fig]Small circle[/fig]
+
+[fig]3D coordinate axes[/fig]
+
+A point interruption of chorisy [del]at ordinary Point of line[/del]
+[del]for Line Diminish Cyclosy[/del]
+[del]then Increase Chorisy[/del]
+[del]ordinary Dim. Periphery[/del]
+[del]then Increase Cyclosy[/del]
+
+" " " " " " in solid
+
+[fig]Two small circles[/fig]
+
+[del]Cyclosy[/del] [ins]Inc.[/ins] is number of possible [del]cuts through[/del] from boundary to boundary without increasing chorisy
+Line by Point without increasing chorisy
+Surface by Lines cut boundary to boundary or self [ins]returning[/ins]
+Solid by simple Surface interruption
+
+Periphery is number of [del]interruption[/del] Surface by Point without increasing cyclosy
+
+Some 2 terms of each must be +
+[del]-1:0 + 0:1 - 3:2 + 2:3[/del] = 0:1 - 1:0 + 2:3 - 3:2
+[del]F 2:0 ± 3:1 ± 0:2 F 1:3[/del] = ± 0:2 F 1:3 F 2:0 ± 3:1
+[del]± 3:0 ± 2:1 F 1:2 F 0:3[/del] = F 0:3 F 1:2 ± 2:1 ± 3:0
+[del]--+ +++ +-F[/del] [del]++-[/del] [del]--+[/del] [del]--+[/del] [del]-++[/del]
+
+[del]+ 0:1[/del] [del]+ 2:3[/del] [ins]± 3:2[/ins] i = + 0:1 - 1:0 - 2:3 + 3:2
+± 1:3 [del]F 2:0[/del] [ins]F 2:0[/ins] j = ± 0:2 ± 1:3 F 2:0 F 3:1
+F 3:0 [del]± 0:3[/del] k = ± 0:3 F 1:2 ± 2:1 F 3:0
+
+| +++ | -+- | --+ | +-- |
+| :--- | :--- | :--- | :--- |
+| +-- | --+ | -+- | +++ |
+
++ 3:2 - 2:3

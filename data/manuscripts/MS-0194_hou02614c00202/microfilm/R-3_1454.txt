@@ -1,0 +1,40 @@
+line of centres. From B draw diameters to these circles,
+and let their extremities be denoted by R and P respectively.
+Then, in the triangle BRP,
+side BR = [fraction]c/sin D₃[/fraction]
+side BP = [fraction]a/sin D₁[/fraction]
+∠ PRB = A₂  ∠ RPB = C₂
+∠ PBR = 180° - B₂ - D₂
+side PR = √[[fraction]a²/sin² D₁[/fraction] + [fraction]c²/sin² D₃[/fraction] + [fraction]2 a c/sin D₁ sin D₃[/fraction] cos (B₂ + D₂)]
+[del]sin D₁ sin D₃[/del] [fraction]sin (B₂ + D₂)/PR[/fraction]
+sin A₂ = [fraction]a/sin D₁[/fraction] · [fraction]sin (B₂ + D₂)/PR[/fraction]
+sin C₂ = [fraction]c/sin D₃[/fraction] · [fraction]sin (B₂ + D₂)/PR[/fraction]
+
+Example
+B₂ = - 140°
+a = 5
+c = 3
+Required v.
+
+B₂ - 140°
+D₂ - 80°
+B₂ + D₂ 140
+RBP 40
+a 5
+sin D₁ = sin 55°
+RB
+
+c 3
+sin D₃ = sin 25°
+PB
+[fraction]RB/PB[/fraction] = tan m
+
+logs
+a .698970
+9.913365
+0.785605
+
+0.477121
+9.625948
+c. 851173
+9.934434

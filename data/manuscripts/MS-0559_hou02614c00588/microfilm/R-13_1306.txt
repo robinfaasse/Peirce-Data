@@ -1,0 +1,22 @@
+This aggregate equals $1$ if of the components
+any one, or more, equals $1$, while the rest are
+equal to $0$. Hence, it is to be interpreted as asserting
+that some one, or more, of the propositions aggre-
+gated is true.
+
+We can, if we choose, consider this "logical addition"
+as mathematical addition, the fundamental formula
+defining the values being $2\underline{x} = \underline{x}$. This holds for
+$\underline{x} = 0$ and for $\underline{x} = \log \infty$. Now,
+$\log \infty + \log \infty = \log \infty$     $0 + \log \infty = \log \infty$
+$0 + 0 = 0$.
+
+At the same time,
+$\log \infty \times \log \infty = \log \infty$     $0 \times \log \infty = 0$
+$0 \times 0 = 0$.
+
+It is to be remarked that the distributive principle
+holds two ways for aggregation and multiplication.
+Namely, not only [del]$\underline{a+b-ab}$[/del] $(a+b)c = (a+b-ab)c = ac+bc-abc = ac \underline{+} bc$;
+But also
+$a+bc = a+bc-abc = (a+b-ab)(a+c-ac) = (a+b)(a+c)$.

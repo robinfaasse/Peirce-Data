@@ -1,0 +1,96 @@
+[fig]Mathematical calculations and binary-like tables[/fig]
+
+[fig]Mathematical calculations and binary-like tables[/fig]
+
+Example: Transform 1893 into secundals
+
+| A | B |
+|---|---|
+| [del]189[/del] | |
+| [del]189[/del] | |
+| [del]94[/del] | |
+| [del]91[/del] | |
+| [del]45[/del] | |
+| [del]47[/del] | |
+| [del]23[/del] | |
+| [del]23[/del] | |
+| [del]11[/del] | |
+| [del]11[/del] | |
+| [del]5[/del] | |
+| [del]5[/del] | |
+| [del]2[/del] | |
+| [del]2[/del] | |
+| [del]1[/del] | |
+| [del]1[/del] | |
+| [del]1[/del] | |
+| [del]1[/del] | |
+| [del]0[/del] | |
+
+[del]189[/del] | 3
+[del]189[/del] | 0
+94 | 5
+91 | 0
+45 | 10
+47 | 0
+23 | 5
+23 | 0
+11 | 5
+11 | 0
+5 | 5
+5 | 0
+2 | 5
+2 | 0
+1 | 0
+1 | 0
+1 | 5
+1 | 0
+0 | 
+
+11
+101
+0
+101
+101
+101
+101
+101
+11101100101
+
+[del]1[/del]
+[del]2[/del]
+[del]4[/del]
+[del]8[/del]
+[del]16[/del] 000x
+[del]12[/del] 000xx00x
+4
+8
+16
+
+[u]Transform 1025 into secundals[/u]
+
+102 | 5
+102 | 0
+51 | 0
+51 | 0
+25 | 5
+25 | 0
+12 | 5
+12 | 0
+6 | 0
+6 | 0
+3 | 0
+3 | 0
+1 | 5
+1 | 0
+1 | 5
+1 | 0
+
+101
+0
+101
+101
+0
+0
+101
+101
+10000000001

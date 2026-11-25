@@ -1,0 +1,30 @@
+[marginalia]
+# color
+[/marginalia] [pn]15[/pn]
+
+[u]2[sup]nd[/sup][/u] The region on the other side of the erased boundary
+has, let us say [ins]a[/ins] [del]for[/del] the sum of its corner values except the
+terminations of that boundary. Then the sum of the
+corner values belonging to the originally designated
+region must before the restoration of the erased
+boundary have been [del]-a[/del] [ins]in restoring the boundary[/ins]. But these have all had
+their signs changed so that they are now a, and since
+the [del]two[/del] corners of the boundary reduce the one sum to
+zero it must reduce the other to zero.
+
+[u]3[sup]rd[/sup][/u] The regions confine to the region originally designated
+but not having for a corner either extremity of the boundary
+all had their sums of their corner values zero before the
+restoration of the boundary. But all that has been changed
+in them are two [del]even[/del] adjacent corner values changed from
++1 and -1 to -1 and +1. Hence the sums of their
+corner values remains the same.
+
+[u]4[sup]th[/sup][/u] Each of the two regions upon which the erased
+boundary abuts has in the restoration of the boundary
+had the sign of a corner value reversed and another
+corner value added. Suppose the reversed corner value
+originally was a. On reversal it becomes -a. Another
+corner-value -a is added, making -2a. But -2a ≡ a (mod 3)
+Therefore the sum of the corner values of each of these regions
+remains unchanged.

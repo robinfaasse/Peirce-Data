@@ -1,0 +1,22 @@
+[pn]353[/pn]
+
+[u]Notation 18[/u]
+[u]Art. 139.[/u] [del]Scholium 65[/del]. We have already seen that the points on a ray are arranged like the real quantities. Hence,
+$$p [A] + (1-p) [B],$$
+if $p$ passes through the whole series of real values may be understood to mean the successive points of the ray $\{AB\}$. When $p=1$, this becomes $[A]$; and when $p=0$, it becomes $[B]$. It will also be convenient to disregard any multiplier of the whole; and to consider
+$$mp [A] + m(1-p) B$$
+as the same as $p A + (1-p) B$. Accordingly,
+$$p A + q B$$
+will be the same as
+$$\frac{p}{p+q} A + \frac{q}{p+q} B = \frac{p}{p+q} A + \left(1 - \frac{p}{p+q}\right) B.$$
+
+Now it is to be observed that the relations of homaloids are precisely those of linear equations.
+
+Take, for instance, the expression
+$$x A + y B [del]+[/del] [ins]+ z[/ins] C$$
+which must be understood as the same as
+$$\frac{x}{x+y+z} A + \frac{y}{x+y+z} B + \frac{z}{x+y+z} C.$$
+This equals, by the rules of algebra,
+$$\frac{x+y}{x+y+z} \left( \frac{x}{x+y} A + \left(1 - \frac{x}{x+y}\right) B \right) + \left(1 - \frac{x+y}{x+y+z}\right) C.$$
+
+It must, then, denote some point on the ray through $[C]$ and through the point denoted by $\frac{x}{x+y} A + \left(1 - \frac{x}{x+y}\right) B$. This may be

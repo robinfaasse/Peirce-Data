@@ -1,0 +1,27 @@
+[u]A New Logical Algebra[/u]
+
+1. [del]A[/del] [ins]A[/ins] [del]⤙[/del] [ins]⤙[/ins] B means A may be
+2. A·B means both A and B are
+
+Subjacent indices are individual
+The universe itself is [del]call[/del] [ins]a[/ins] subjec
+
+3. $A_i$ means A is true of i
+4. [del]◯ is a blank assertion[/del]
+No more signs are needed to b
+5. $1_{ij}$ means [del]ident[/del] i is identical with j.
+[del]Rules of Transformation[/del]
+
+But $A \leftleftarrows B \cdot C$ means A
+$A \leftleftarrows B \leftleftarrows C$ means
+$B \cdot C$ means $A \cdot (B \cdot C)$
+
+[u]Rules of Transformation[/u]
+
+I. $A \cdot B \leftleftarrows B \cdot A$
+II. $(A \cdot B) \cdot C \leftleftarrows A \cdot (B \cdot C)$
+III. $A \cdot B \leftleftarrows A$
+IV. If $A \leftleftarrows B$ then $(A \cdot B) \leftleftarrows$
+V. $1_{ij} \leftleftarrows 1_{ji}$
+VI. $1_{ij} \cdot 1_{jk} \leftleftarrows 1_{ij} \cdot 1_{jk} \cdot 1_{ik}$
+VII. $1_{ij} \cdot A_i \leftleftarrows 1_{ij}$

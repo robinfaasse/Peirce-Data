@@ -1,0 +1,14 @@
+[pn]On
+15[/pn] expressions must contain the same number, $q$, of figures. An
+easy modification of this reasoning will show that the equivalents of
+all the fractions whose denominators is P, [del]and whose numerators is less than P, must[/del] [ins]consist of[/ins]
+[del]have[/del] circulating expressions of the same number of figures. All these
+must be different, and there are P-1 of them in all. Consequently the
+value of $q$ must always be some aliquot part of P-1. In other
+words P-1 dialyses must restore the value of every fraction
+in P upon which they successively operate. In particular, whatever
+the value of B, $B^{P-1} \frac{1}{P} = W + \frac{1}{P}$, where W is some whole
+number. Multiplying this equation by P, we get
+$B^{P-1} = WP + 1$,
+which is the important proposition, named after its great discoverer,
+[u]Fermat's theorem[/u]. It would be easy (nor is of any present concern)

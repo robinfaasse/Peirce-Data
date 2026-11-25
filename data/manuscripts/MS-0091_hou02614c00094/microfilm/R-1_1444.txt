@@ -1,0 +1,23 @@
+[marginalia]
+[pn]Calc. Diff.
+7[/pn]
+[/marginalia]
+
+[u]d[/u][u]u[/u] = D[sub][u]x[/u][/sub][u]u[/u].[u]d[/u][u]x[/u],
+where D[sub][u]x[/u][/sub][u]u[/u], [del]is[/del] the differential coefficient, remains absolutely
+unchanged, however [u]d[/u][u]x[/u] may be altered. Substituting the
+difference for the differential, this proposition fails, unless
+[u]u[/u] is a linear function of [u]x[/u]. It is true that for any
+integral function, there is an analogous equation. Thus,
+[del]Δ[sub][u]n[/u][/sub] [u]x[/u][sub][u]n[/u][/sub][sup]3[/sup] = [u]x[/u][sub][u]n[/u]+1[/sub][sup]3[/sup] - [u]x[/u][sub][u]n[/u][/sub][sup]3[/sup] =[/del] Δ[sub][u]n[/u][/sub] [u]x[/u][sub][u]n[/u][/sub][sup]3[/sup] = ([u]x[/u][sub][u]n[/u]+1[/sub][sup]2[/sup] + [u]x[/u][sub][u]n[/u]+1[/sub][u]x[/u][sub][u]n[/u][/sub] + [u]x[/u][sub][u]n[/u][/sub][sup]2[/sup]) Δ[sub][u]n[/u][/sub][u]x[/u][sub][u]n[/u][/sub],
+where the [del]c[/del] coefficient of Δ[sub][u]n[/u][/sub][u]x[/u][sub][u]n[/u][/sub] is algebraically inde-
+pendent of Δ[sub][u]n[/u][/sub][u]x[/u][sub][u]n[/u][/sub]. But that does not suffice to verify
+the proposition, for which purpose, that coefficient would
+have to remain unchanged however Δ[sub][u]n[/u][/sub][u]x[/u][sub][u]n[/u][/sub] might be
+changed, [u]x[/u][sub][u]n[/u][/sub] remaining unchanged meantime. Since
+the coefficient in question equals (Δ[sub][u]n[/u][/sub][u]x[/u][sub][u]n[/u][/sub])[sup]2[/sup] + 3 Δ[sub][u]n[/u][/sub][u]x[/u][sub][u]n[/u][/sub] + 3 [u]x[/u][sub][u]n[/u][/sub][sup]2[/sup],
+this is [ins]then[/ins] evidently not true.
+
+This divergency [del]between[/del] of the two theories would be suf-
+ficient of itself to preclude any close parallelism between
+the two kinds of equations. It will appear, for instance,

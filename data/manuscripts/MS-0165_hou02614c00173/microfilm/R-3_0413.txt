@@ -1,0 +1,46 @@
+[pn]166[/pn]
+
+77. A certain whole number consists of six digits. Its triple
+is got by transferring its first digit to the end, and its quintuple
+by transferring its last digit to the beginning. What is the number?
+
+As there are here but 2 equations to determine 6 unknowns, we have
+to take into account that they are whole numbers less than 10.
+
+Let the number be
+
+[u]x[/u] + 10 [u]y[/u] + 100 [u]z[/u] + 1000 [u]u[/u] + 10000 [u]v[/u] + 100 000 [u]w[/u].
+
+Then its triple is
+
+3 [u]x[/u] + 30 [u]y[/u] + 300 [u]z[/u] + 3000 [u]u[/u] + 30000 [u]v[/u] + 300 000 [u]w[/u].
+
+This is said to equal
+
+[u]w[/u] + 10 [u]x[/u] + 100 [u]y[/u] + 1000 [u]z[/u] + 10000 [u]u[/u] + 100000 [u]v[/u];
+
+So that
+
+7 [u]x[/u] + 70 [u]y[/u] + 700 [u]z[/u] + 7000 [u]u[/u] + 70000 [u]v[/u] = 299999 [u]w[/u].
+
+Its quintuple is
+
+5 [u]x[/u] + 50 [u]y[/u] + 500 [u]z[/u] + 5000 [u]u[/u] + 50000 [u]v[/u] + 500 000 [u]w[/u].
+
+This is said to equal
+
+[u]y[/u] + 10 [u]z[/u] + 100 [u]u[/u] + 1000 [u]v[/u] + 10000 [u]w[/u] + 100000 [u]x[/u];
+
+So that
+
+99995 [u]x[/u] = 49 [u]y[/u] + 490 [u]z[/u] + 4900 [u]u[/u] + 49000 [u]v[/u] + 490 000 [u]w[/u].
+
+[u]Multiplying the first equation by 14285, and adding to the last, we get[/u]
+
+999999 [u]y[/u] + 9999990 [u]z[/u] + 99999900 [u]u[/u] + 999999000 [u]v[/u] = [del]4285095715[/del] [ins]4285100000[/ins] [u]w[/u],
+
+or (1000 000 - 1) ([u]y[/u] + 10 [u]z[/u] + 100 [u]u[/u] + 1000 [u]v[/u]) = ([del]10000000000 minus 4285[/del] [ins]4285100000[/ins]) [u]w[/u],
+
+or [del]999999 y + 1000000 z + 10000000 u + 100000000 v = 4285000000 w[/del]
+
+(1000 000 - 1) ([u]y[/u] + 10 [u]z[/u] + 100 [u]u[/u] + 1000 [u]v[/u] - 4285 [u]w[/u]) = 0,

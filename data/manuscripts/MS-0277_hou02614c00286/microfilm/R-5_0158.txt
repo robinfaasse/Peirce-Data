@@ -1,0 +1,58 @@
+[fig]Four figure-eight shapes showing different topological connections[/fig]
+
+[u]Line figures[/u]
+[del]Cyclosy[/del] [ins]Chorisy[/ins] +2
+Chorisy [del]-1 or 0[/del] [ins]+1 or +2[/ins]
+Singularity -3
+
+Line Cyclosy +1
+Line Chorisy -1 or 0
+[del]0 or +1[/del]
+Point chorisy +1 or 0
+[ins]+1[/ins]
+Singularity 0
+
+Line Cyclosy 0
+Line Chorisy -1 or 0
+[del]-1 or 0[/del]
+[ins]+1[/ins]
+Singularity -1
+
+Point chorisy 2 or 1
+
+[fig]Figure-eight with a loop at the intersection[/fig]
+
+[fig]Two overlapping figure-eight shapes[/fig]
+Line cyclosy +1
+" Chorisy -1 or 0
+[del]0 or +1[/del]
+[ins]+1 or +2[/ins]
+Singularity +1
+
+Point chorisy 1
+
+[u]Line[/u] [del]-1 or 0[/del] [ins]-2 or -1[/ins]
+Sing +2
+[del]+1 or +2[/del]
+[del]Cut -2[/del]
+[del]-2 or -1[/del]
+[ins]+4[/ins]
+[ins]+2 or +3[/ins]
+[del]Cut -1[/del]
+[ins]+1 or +2[/ins]
+
+[u]      [/u]
+-3 or -2
+[del]Cut -2[/del]
+[del]+1 or +2[/del]
+Sing +6
++3 or +4
+Cut -2
++1 or +2
+
+[fig]Circle[/fig]
+
+[u]Line[/u] -1 or 0
+[u]Point[/u] +1 or 0
+[u]on it[/u]
+0 or [ins]1[/ins]

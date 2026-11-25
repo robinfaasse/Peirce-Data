@@ -1,0 +1,18 @@
+The Kinetic energy of the [u]n[/u][sup]th[/sup] piece is
+
+[u]E[/u][sub]n[/sub] = [frac]1[/frac]/2 m[sub]n[/sub] (D[sub]t[/sub]x[sub]n[/sub])[sup]2[/sup] + [frac]1[/frac]/2 m[sub]n[/sub] (D[sub]t[/sub]y[sub]n[/sub])[sup]2[/sup] [del]+ [frac]1[/frac]/2 m[sub]n[/sub] γ[sub]n[/sub][sup]2[/sup] (D[sub]t[/sub]θ[sub]n[/sub])[sup]2[/sup][/del]
+= [frac]1[/frac]/2 m[sub]n[/sub] [sum][sub]i[/sub][sup]n-1[/sup] [sum][sub]j[/sub][sup]n-1[/sup] { l[sub]i[/sub] l[sub]j[/sub] cos (θ[sub]i[/sub] - θ[sub]j[/sub]) . D[sub]t[/sub]θ[sub]i[/sub] . D[sub]t[/sub]θ[sub]j[/sub] }
++ [del]m[/del][ins]m[/ins][sub]n[/sub] [sum][sub]i[/sub][sup]n-1[/sup] { l[sub]i[/sub] h[sub]n[/sub] cos (θ[sub]i[/sub] - θ[sub]n[/sub]) . D[sub]t[/sub]θ[sub]i[/sub] . D[sub]t[/sub]θ[sub]n[/sub] } + [frac]1[/frac]/2 m[sub]n[/sub] (h[sub]n[/sub][sup]2[/sup] + γ[sub]n[/sub][sup]2[/sup]) (D[sub]t[/sub]θ[sub]n[/sub])[sup]2[/sup]
+
+The first term of the last member is [del]the[/del] equal to
+m[sub]n[/sub] [sum][sub]i[/sub][sup]n-1[/sup] [sum][sub]j[/sub][sup]i[/sup] { l[sub]i[/sub] l[sub]j[/sub] cos (θ[sub]i[/sub] - θ[sub]j[/sub]) . D[sub]t[/sub]θ[sub]i[/sub] . D[sub]t[/sub]θ[sub]j[/sub] }.
+
+The total Kinetic energy of the system is
+
+E = [sum][sub]n[/sub][sup]p[/sup] [sum][sub]i[/sub][sup]n-1[/sup] [sum][sub]j[/sub][sup]i[/sup] { m[sub]n[/sub] l[sub]i[/sub] l[sub]j[/sub] cos (θ[sub]i[/sub] - θ[sub]j[/sub]) . D[sub]t[/sub]θ[sub]i[/sub] . D[sub]t[/sub]θ[sub]j[/sub] }
++ [sum][sub]n[/sub][sup]p[/sup] [sum][sub]i[/sub][sup]n-1[/sup] { m[sub]n[/sub] h[sub]n[/sub] l[sub]i[/sub] cos (θ[sub]i[/sub] - θ[sub]n[/sub]) . D[sub]t[/sub]θ[sub]i[/sub] . D[sub]t[/sub]θ[sub]n[/sub] } + [frac]1[/frac]/2 [sum][sub]n[/sub][sup]p[/sup] { m[sub]n[/sub] (h[sub]n[/sub][sup]2[/sup] + γ[sub]n[/sub][sup]2[/sup]) (D[sub]t[/sub]θ[sub]n[/sub])[sup]2[/sup] }
+[del]= [sum][sub]i[/sub][sup]p-1[/sup] [sum][sub]j[/sub][sup]i[/sup] { ([sum][sub]i+1[/sub][sup]p[/sup] m[sub]n[/sub]) l[sub]i[/sub] l[sub]j[/sub] cos (θ[sub]i[/sub] - θ[sub]j[/sub]) . D[sub]t[/sub]θ[sub]i[/sub] . D[sub]t[/sub]θ[sub]j[/sub] }[/del]
+[del]+ [sum][sub]i[/sub][sup]p-1[/sup] { ([sum][sub]i+1[/sub][sup]p[/sup] m[sub]n[/sub] h[sub]n[/sub]) l[sub]i[/sub] cos (θ[sub]i[/sub] - θ[sub]j[/sub]) . D[sub]t[/sub] [ins]Dθ[/ins][/del]
+
+The operator of the first term may be transformed by the equation
+[sum][sub]n[/sub][sup]p[/sup] [sum][sub]i[/sub][sup]n-1[/sup] [sum][sub]j[/sub][sup]i[/sup] = [sum][sub]i[/sub][sup]p-1[/sup] [sum][sub]j[/sub][sup]i[/sup] [sum][sub]i+1[/sub][sup]p[/sup] [sub]n[/sub] .

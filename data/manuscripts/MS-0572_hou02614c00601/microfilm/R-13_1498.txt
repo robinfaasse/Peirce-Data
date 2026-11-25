@@ -1,0 +1,20 @@
+[marginalia]Ms 572[/marginalia]
+
+Non-commutative multiplication, denoted by writing multiplicand after multiplier without a dot, signifies the application of one relation to another.
+
+Thus if [u]l[/u] denotes lover and [u]m[/u] murderer
+[u]lm[/u]
+denotes lover of a murderer. So if [u]w[/u] denotes woman
+[u]lw[/u]
+is the class of things each of which is lover of a woman.
+
+[u]l[/u]([u]mw[/u]) = ([u]lm[/u])[u]w[/u]
+? ([u]l[/u]+[u]m[/u])[u]w[/u] = [u]lw[/u] + [u]mw[/u]     ([u]l[/u]+,[u]m[/u])[u]w[/u] = [u]lw[/u] +, [u]mw[/u]
+[u]l[/u]([u]w[/u]+,[u]g[/u]) = [u]lw[/u] +, [u]lg[/u]
+
+[u]l[/u]^[u]m[/u] is lover of every murderer.
+
+([u]l[/u]^[u]m[/u])^[u]w[/u] = [u]l[/u]^[u]mw[/u]
+([u]l[/u],[u]m[/u])^[u]w[/u] = [u]l[/u]^[u]w[/u],[u]m[/u]^[u]w[/u]
+[u]l[/u]^[u]w[/u]+,[u]g[/u] = [u]l[/u]^[u]w[/u],[u]l[/u]^[u]g[/u]
+([u]l[/u]+[u]m[/u])^[u]w[/u] < [u]l[/u]^[u]w[/u] + [u]m[/u]^[u]w[/u] + [del]Σ[/del] [ins]Σ[/ins]_p ([u]l[/u]^[u]w-p[/u],[u]m[/u]^[u]p[/u])

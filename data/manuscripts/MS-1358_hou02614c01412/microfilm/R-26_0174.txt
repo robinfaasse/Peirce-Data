@@ -1,0 +1,32 @@
+[fig]Sketch of a parabola with geometric constructions and angles[/fig]
+
+[fig]Coordinate axes with intersecting curves and angle labels[/fig]
+
+[fig]Detailed geometric construction of a parabola with vertical ordinates[/fig]
+
+[del]r[/del] [ins]r[/ins] sin [del]c[/del] [ins]w[/ins] = x
+R - r cos w = y
+tan [del]cot[/del] [ins]1/2[/ins] w = D_x y
+
+y = ax²
+D_x y = 2ax
+tan [del]cot[/del] [ins]1/2[/ins] w = 2ar sin w
+= 4ar sin 1/2 w cos 1/2 w
+1 = 4ar [del]cos[/del] [ins]cos²[/ins] 1/2 w
+4a = 1/R
+R = r cos² 1/2 w
+
+R/r = cos² 1/2 w
+1 - R/r = sin² 1/2 w
+2 R/r - 1 = cos w
+[del]r cos w = 2R - r[/del]
+r - r cos w = r - (2R - r) = 2r - 2R
+r - R = y
+r - R = 1/4R x²
+x = 2 √R(r - R)
+ds = [del]2[/del] r/r-R dr = r/√r(r-R) dr
+
+R = [del]x cot 1/2 w[/del]
+[del]2[/del]
+x = R tan 1/2 w
+dx = R sec² 1/2 w dw ?

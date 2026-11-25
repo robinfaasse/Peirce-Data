@@ -1,0 +1,24 @@
+arc YP. Let us write it, as is done in the integral
+calculus
+$$\int_{0}^{x} \frac{d}{\sqrt{1-x^{2}}}$$
+
+Let us now see whether when this arc is doubled, the
+quantity that is (or is the [del]affix[/del] [ins]of[/ins]) its extremity, namely
+$$\sqrt{1-x^{2}} + x i$$
+be not squared.
+
+To double
+$$\int_{0}^{x} \frac{d}{\sqrt{1-x^{2}}}$$
+we add more of the little quantities $\frac{d}{\sqrt{1-x^{2}}}$. Though
+$d$ has the same value for each, $x$ is growing longer as
+each one is added, and so $\sqrt{1-x^{2}}$ grows smaller, and
+$\frac{d}{\sqrt{1-x^{2}}}$ larger and longer. Consequently, we do not
+have to double $x$ to double $\int_{0}^{x} \frac{d}{\sqrt{1-x^{2}}}$. But each
+addition of $\frac{d}{\sqrt{1-x^{2}}}$ to the arc [del]adds to[/del] [ins]changes[/ins] the quantity
+$$\sqrt{1-x^{2}} + x i$$
+[del]the increments[/del]
+[del]$$-\frac{x}{\sqrt{1-x^{2}}} d + d i$$[/del]
+to
+$$\sqrt{1-x^{2}} - \frac{x}{\sqrt{1-x^{2}}} d + (x + d) i$$
+But this is [del]for[/del] multiplying it by $1 + \frac{d}{\sqrt{1-x^{2}}} i$; for
+$$(1 + \frac{d}{\sqrt{1-x^{2}}} i) (\sqrt{1-x^{2}} + x i) = \sqrt{1-x^{2}} + x i + d \frac{\sqrt{1-x^{2}}}{\sqrt{1-x^{2}}} i + \frac{d x}{\sqrt{1-x^{2}}} i^{2}$$

@@ -1,0 +1,25 @@
+[pn]Boole 9[/pn]
+
+When it = $x_0$ the equation becomes
+$(x_1 - x_0) f x_0 = (x_0 - x_0) f x_1 + (x_1 - x_0) f x_0$
+where the first term of the second member disappears and
+when $x = x_1$ it becomes
+$(x_1 - x_0) f x_1 = (x_1 - x_0) f x_1$.
+This equation then being true let us substitute for $x_1$
+& $x_0$ the values which they have in logic namely [del]unity[/del] [ins]one[/ins] & zero
+& we have
+[del]$f x$[/del] [ins]$f x$[/ins] $= x f [del]1[/del] [ins]1[/ins] + (1-x) f [del]0[/del] [ins]0[/ins]$
+
+Now [del]let[/del] I will show how to use this formula. by developing
+the expression [del]$\frac{a-b^2}{a}$[/del] [ins]$\frac{1-(a-b)^2}{a}$[/ins] This has to be developed in terms
+of $a$ & $b$. We have to complicate the formula a little
+$f(a,b) = a (f[del]a[/del][ins]1[/ins],b) + (1-a) f(0,b)$
+developing this again according to $b$ we have
+$f(a,b) = a b (f(1,1)) + a(1-b) f(1,0) + (1-a)b f(0,1) + (1-a)(1-b) f(0,0)$
+Now to apply it When $a=1$ & $b=1$
+[del]$\frac{a-b^2}{a}$[/del] [ins]$\frac{1-(a-b)^2}{a}$[/ins] $= 1$ The first term then is $ab$
+When $a=1$ $b=0$ [ins]$\frac{1-(a-b)^2}{a}$[/ins] $= 0$ The second term disappears
+When $a=0$ $b=1$ $\frac{1-(a-b)^2}{a} = \frac{0}{0}$ the third term then is $\frac{0}{0} (1-a)b$
+When $a=0$ $b=0$ $\frac{1-(a-b)^2}{a} = \frac{1}{0}$ the fourth term then is $\frac{(1-a)(1-b)}{0}$
+We have then
+$\frac{1-(a-b)^2}{a} = ab + \frac{0}{0}(1-a)b + \frac{(1-a)(1-b)}{0}$

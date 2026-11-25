@@ -1,0 +1,29 @@
+[u]Transformations[/u]
+
+[u]III and IV[/u]
+
+$x_1 + \frac{1}{2}(s+q) = -\frac{1}{2}(s-q)i \cot \beta$
+$x_1 - \frac{1}{2}(s+q) = -\frac{1}{2}(s-q)i \cot \alpha$
+
+[del]$2$[/del]
+[del]$x_1$[/del] $x_1 = -[del]\frac{1}{4}[/del] (s-q)i \frac{[del]2[/del] \sin(\alpha+\beta)}{\cos(\alpha-\beta) - \cos(\alpha+\beta)}$
+
+$s+q = [del]\frac{1}{2}[/del] (s-q)i \frac{[del]2[/del] \sin(\alpha-\beta)}{\cos(\alpha-\beta) - \cos(\alpha+\beta)}$
+
+$\frac{s+q}{x_1} = 2 \frac{\sin(\alpha-\beta)}{\sin(\alpha+\beta)}$
+
+[del]$-\frac{(s-q)i}{2} \frac{s+q}{x_1}$[/del]
+
+$\frac{(s+q)^2}{4x_1^2} \sin^2(\alpha+\beta) = \sin^2(\alpha-\beta)$
+
+$-\frac{(s-q)i}{2x_1} \sin(\alpha+\beta) + \cos(\alpha+\beta) = \cos(\alpha-\beta)$
+
+$-\frac{(s-q)^2}{4x_1^2} \sin^2(\alpha+\beta) + \cos^2(\alpha+\beta) - \frac{s-q}{x_1}i \sin(\alpha+\beta)\cos(\alpha+\beta) = [del]\cos^2(\alpha-\beta)[/del]$
+
+$[del]\frac{sq}{x_1^2} \sin^2(\alpha+\beta) +[/del] \cos^2(\alpha+\beta) - \frac{s-q}{x_1}i \sin(\alpha+\beta)\cos(\alpha+\beta) = 1$
+
+$\sin^2(\alpha+\beta) = -\frac{s-q}{x_1}i \sin(\alpha+\beta)\cos(\alpha+\beta) + \frac{sq}{x_1^2} \sin^2(\alpha+\beta)$
+
+[del]$\tan(\alpha+\beta) = [fig]crossed out fraction[/fig]$[/del]
+
+$\tan(\alpha+\beta) = \frac{-\frac{(s-q)}{x_1}i}{1 - \frac{sq}{x_1^2}}$

@@ -1,0 +1,37 @@
+When $\alpha = a$
+
+[fig]Circle with radius a and lines c, beta[/fig] $\chi = C \sin B$
+
+When $\alpha = a + \varepsilon$
+
+[del]$\chi = \frac{a + \varepsilon}{a} C \sin B$[/del]
+
+[del]$\sin B = \frac{1}{2 c} \sqrt{2 \alpha^2 c^2 + 2 \alpha^2 \beta^2 + 2 \beta^2 c^2 - \alpha^4 - \beta^4 - c^4}$[/del]
+
+[del]When $\beta = b + \varepsilon$ $\chi = 0$[/del]
+
+When $\alpha = a + \varepsilon$
+
+$\chi = C x$
+
+[fig]Two triangles sharing side c with angles A, B and sides alpha, beta[/fig]
+
+$x = \alpha \sin B = \beta \sin A$
+
+$\chi = \frac{a + \varepsilon}{a} C \sin B$
+
+[del]$\sin B = $[/del] So that we might imagine
+
+$\chi = \beta \sin A + (\alpha - a)^2$
+
+$x = \frac{1}{2 c} \sqrt{2 \alpha^2 c^2 + 2 \alpha^2 \beta^2 + 2 \beta^2 c^2 - \beta^4 - c^4 - \alpha^4}$
+
+When $\beta = b$
+
+For $\alpha = a + \varepsilon$ $\chi = x$
+
+For $\beta = b + \varepsilon$ $\chi = 0$
+
+$\chi = (\beta - b)^2 \{ \frac{x}{(\beta - b)^2} + (\alpha - a)^2$
+
+$\chi = \frac{(\beta - b)^2}{\frac{(\beta - b)^2}{x} + (\alpha - a)^2 f}$

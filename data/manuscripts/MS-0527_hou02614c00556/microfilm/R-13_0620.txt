@@ -1,0 +1,53 @@
+[pn]129[/pn]
+
+speaking of a single individual (as in the non-relative logic) nor of a small num-
+ber of individuals considered each for itself, but of a whole class, perhaps an
+infinity of individuals. This suggests a relative term with an indefinite series of
+indices as $x_{ijkl\dots}$. Such a relative will, however, in most, if not in all cases, be
+of a degenerate kind and is consequently expressible as above. But it seems
+preferable to attempt a partial decomposition of this definition. In the first
+place, any individual may be considered as a class. This is written
+$$\Pi_i \Sigma_k \Pi_j q_{ki} (\overline{q}_{kj} + 1_{ij}).$$
+This is the ninth icon. Next, given any class, there is another which includes all
+the former excludes and excludes all the former includes. That is,
+$$\Pi_i \Sigma_k \Pi_l (q_{li} \overline{q}_{ki} + \overline{q}_{li} q_{ki}).$$
+This is the tenth icon. Next, given any two classes, there is a third which includes
+all that either includes and excludes all that both exclude. That is
+$$\Pi_i \Pi_m \Sigma_k \Pi_l (q_{li} q_{ki} + q_{mi} q_{ki} + \overline{q}_{li} \overline{q}_{mi} \overline{q}_{ki}).$$
+This is the eleventh icon. Next, given any two classes, there is a class which
+includes the whole of the first and any one individual of the second which there
+may be not included in the first and nothing else. That is,
+$$\Pi_i \Pi_m \Pi_l \Sigma_k \Pi_j \{ q_{li} + \overline{q}_{mi} + q_{ki} (q_{kj} + \overline{q}_{lj}) \}.$$
+This is the twelfth icon.
+
+[marginalia]
+[del]40[/del]
+[/marginalia]
+
+[ins]40[/ins] To show the manner in which these formulæ are applied let us suppose we
+have given that everything is either true of $i$ or false of $j$. We write
+$$\Pi_k (q_{ki} + \overline{q}_{kj}).^{[ins]\times[/ins]}$$
+The tenth icon gives $\Pi_i \Sigma_k (q_{li} \overline{q}_{ki} + \overline{q}_{li} q_{ki}) (q_{li} \overline{q}_{lj} + \overline{q}_{li} q_{lj})$
+Multiplication of these two formulæ give
+$$\Pi_i \Sigma_k (q_{li} \overline{q}_{li} + q_{li} \overline{q}_{lj}),$$
+or, dropping the terms in $k$ $\Pi_i (\overline{q}_{li} + q_{li})$.
+Multiplying this with the original datum and identifying $l$ with $k$, we have
+$$\Pi_k (q_{ki} q_{kj} + \overline{q}_{ki} \overline{q}_{kj}).$$
+No doubt, a much more direct method of procedure could be found.
+
+[marginalia]
+[del]41[/del]
+[/marginalia]
+
+[ins]41[/ins] Just as $q$ signifies the relation of predicate to subject, so we need another
+token, which may be written $r$, to signify the conjoint relation of a simple rela-
+tion, its relate and its correlate. That is, $r_{jat}$ is to mean that $i$ is in the relation
+$a$ to $j$. Of course, there will be a series of properties of $r$ similar to those of $q$.
+But it is singular that the uses of the two tokens are quite different. Namely,
+the chief use of $r$ is to enable us to express that the number of one class is at
+least as great as that of another. This may be done in a variety of different
+
+[marginalia]
+$^{\times}$ [ [u]see 403 I[/u] ]
+$^{\times\times}$ [ [u]see 403 I[/u] ]
+[/marginalia]

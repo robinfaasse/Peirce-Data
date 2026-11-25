@@ -1,0 +1,36 @@
+§ 8. We now consider the more important case in which the distribution of the load is horizontally uniform, that is, in which K is constant, so that, integrating (28) and determining the constant by (6),
+
+(40) $$w = \kappa x.$$
+
+The integration of (34) gives
+$$\frac{dy}{dx} = \frac{\kappa}{Q} x + \tan \tau_0$$
+
+(41) $$y = \frac{\kappa}{2Q} x^2 + x \tan \tau_0.$$
+
+Substituting (40) in (25), this latter becomes
+
+(42) $$\frac{\kappa y - \kappa x_H}{Q} = dy/dx,$$
+
+whence
+
+(43) $$y = \frac{\frac{1}{2} \kappa x^2 - \kappa x_H x}{Q}$$
+
+so that
+
+(44) $$\tan \tau_0 = - \frac{\kappa x_H}{Q}$$
+
+By definition and (40)
+
+(45) $$\bar{x}_n^m = \frac{\int_n^m x dw}{\int_n^m dw} = \frac{1}{2} (x_m - x_n)$$
+
+Putting $n = H$ $m = 0$
+
+(46) $$\bar{x}_H^0 = - \frac{1}{2} x_H$$
+
+Hence, by (19)
+
+(47) $$Q = \frac{\kappa x_H^2}{2 y_H}$$
+
+Substituting this in (43) we get
+
+(48) [del]$$y =$$[/del] $$\frac{y}{y_H} = \frac{x^2}{x_H^2} - \frac{x}{x_H}.$$

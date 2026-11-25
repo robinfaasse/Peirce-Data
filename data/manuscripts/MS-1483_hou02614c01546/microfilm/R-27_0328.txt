@@ -1,0 +1,52 @@
+From 9, it follows that
+From 8. If $x \prec a$ [del]$x \prec b$[/del] then $x \prec Z$
+$a \prec y$ [del]$b \prec y$[/del] then $I \prec y$
+
+If $x \prec a$ $x \prec c$ then $x \prec Z$
+If $a \prec y$ $c \prec y$ then $I \prec y$
+
+[fig]Venn diagram with shaded regions[/fig] $\Pi_i (\overline{r_i} + r_{ai}) \prec a \prec \overline{b}$
+$\overline{a \prec \overline{b}} \prec \Sigma_i r_{bi} \cdot \overline{r_{ai}}$
+
+$\Sigma_i a \prec b + r_{bi} \cdot \overline{r_{ai}}$
+
+$a \prec \overline{b} +$
+If $r_{bi}$ $a \prec b +$
+
+[fig]Venn diagram with two circles[/fig]
+
+$(x \prec a) \cdot (x \prec b) + (a \prec \overline{b})$
+
+[fig]Venn diagram with three intersecting circles[/fig]
+
+[marginalia]
+$x \prec \overline{D}$
+$x \prec D$
+If $a \prec y$ $b \prec y \therefore I \prec y$
+$x \prec m$ $x \prec \overline{m}$
+$\therefore x \prec R$
+
+$x \prec B$
+$Q \prec m = T$
+
+$P \cdot Q \prec S$
+$T \cdot R \prec T$
+[/marginalia]
+
+[marginalia]
+$a \prec \overline{b}$
+$a \prec \overline{b}$
+$a \prec \overline{b} = P$
+$x \prec a = Q$
+$x \prec b = R$
+[/marginalia]
+
+[marginalia]
+$a \prec \overline{b}$
+$b \prec \overline{a}$
+$\overline{b \prec \overline{a}}$
+
+If $x \prec y$
+Either $\overline{y \prec x}$
+or $y \prec x$
+[/marginalia]

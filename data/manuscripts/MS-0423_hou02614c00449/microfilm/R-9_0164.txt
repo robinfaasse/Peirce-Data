@@ -1,0 +1,25 @@
+[pn]84[/pn]
+
+[u]3[ins]rd[/ins] Case.[/u]  $iji = j$. Then
+$$ijij = jj = -1$$
+$$jiji = jj = -1$$
+and $ij$ and $ji$ are also square roots of negative unity.
+$$iji.i = -ij = ji.$$
+But $(ij)i = j$
+$i(ij) = -j$,
+equations that do not hold for $ij = i$ nor for $ij = j$. [del]Let us[/del]
+[del]then assume[/del] Nor can we put
+$$ij = \sin \theta . i + \cos \theta . j$$
+For then $i.ij = -\sin \theta + \cos \theta . ij = -\sin \theta + \cos \theta \sin \theta . i + \cos^2 \theta . j$
+and we should have
+$$\cos \theta = \sqrt{-1}.$$
+
+Let us then write
+$$ij = k$$
+$$ji = -k$$
+Then
+$$ki = iji = j$$
+$$ik = iij = -j$$
+$$kj = ijj = -i$$
+$$jk = -jji = i$$
+This is the algebra of quaternions.

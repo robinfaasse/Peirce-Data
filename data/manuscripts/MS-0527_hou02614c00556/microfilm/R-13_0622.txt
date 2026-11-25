@@ -1,0 +1,46 @@
+[pn]181[/pn]
+
+necessary the following reasoning would hold good (the limited universe consisting
+of numbers); for it precisely conforms to DeMorgan’s scheme.
+
+Some odd number is prime;
+[u]Every odd number has its square, which is neither prime nor even ;[/u]
+Hence, some number is neither odd nor even.*
+
+[del]Now[/del] Now, to say that a lot of objects is finite, is the same as to say that if we
+pass through the class from one to another we shall necessarily come round to
+one of those individuals already passed; that is, if every one of the lot is in any
+one-to-one relation to one of the lot, then to every one of the lot some one is
+in this same relation. This is written thus:
+$$\Pi_{\beta}\Pi_{u}\Sigma_{v}\Sigma_{s}\Pi_{t}\{\bar{c}_{\beta} + \bar{x}_{u} + x_{v}r_{u\beta v} + x_{s}(\bar{x}_{t} + \bar{r}_{t\beta s})\}$$
+Uniting this with the two premises and the second clause of the definition of $c$,
+we have
+$$\Sigma_{a}\Sigma_{a}\Pi_{\beta}\Pi_{u}\Sigma_{v}\Sigma_{s}\Pi_{t}\Sigma_{j}\Pi_{i}\Pi_{y}\Pi_{e}\bar{\Pi}_{f}\Pi_{g}x_{a}y_{a}c_{a}(\bar{x}_{i} + r_{jat}\bar{y}_{j}\bar{z}_{j})$$
+$$\{\bar{c}_{\beta} + \bar{x}_{u} + x_{v}r_{u\beta v} + x_{s}(\bar{x}_{t} + \bar{r}_{t\beta s})\}(\bar{c}_{\gamma} + \bar{r}_{eyg} + \bar{r}_{fyw} + 1_{ef}).$$
+We now substitute $a$ for $\beta$ and for $\gamma$, a for $u$ and for $e$, $j$ for $t$ and for $f$, $v$ for $g$.
+The factor in $i$ is to be repeated, putting first $s$ and then $v$ for $i$. The Boolian
+part thus reduces to
+$$(\bar{x}_{s} + r_{jas}\bar{y}_{j}\bar{z}_{j})c_{a}x_{a}y_{a}r_{aav}x_{v}r_{jav}\bar{y}_{j}\bar{z}_{j}1_{aj} + r_{jas}\bar{y}_{j}\bar{z}_{j}x_{s}\bar{x}_{j}(\bar{x}_{v} + r_{jav}\bar{y}_{j}\bar{z}_{j})(\bar{r}_{aav} + \bar{r}_{jav} + 1_{aj}),$$
+which, by the omission of factors, becomes
+$$y_{a}\bar{y}_{j}1_{aj} + \bar{x}_{j}\bar{z}_{j}.$$
+Thus we have the conclusion
+$$\Sigma_{j}\bar{x}_{j}\bar{z}_{j}.$$
+
+[pn]409[/pn] It is plain that by a more iconical and less logically analytical notation this
+procedure might be much abridged. How minutely analytical the present system
+is, appears when we reflect that every substitution of indices of which nine were
+used in obtaining the last conclusion is a distinct act of inference. The annulling
+of $(y_{a}\bar{y}_{j}1_{aj})$ makes ten inferential steps between the premises and conclusion of
+the syllogism of transposed quantity.
+
+[marginalia][u]Formal Logic p. 168[/u][/marginalia]
+
+* Another of DeMorgan’s examples is this: “Suppose a person, on reviewing his purchases for the
+day, finds, by his counterchecks, that he has certainly drawn as many checks on his banker (and
+maybe more) as he has made purchases. But he knows that he paid some of his purchases in money,
+or otherwise than by checks. He infers then that he has drawn checks for something else except that
+day’s purchases. He infers rightly enough.” Suppose, however, that what happened was this: He
+bought something and drew a check for it; but instead of paying with the check, he paid cash. He then
+made another purchase for the same amount, and drew another check. Instead, however, of paying
+with that check, he paid with the one previously drawn. And thus he continued without cessation, or
+[u]ad infinitum[/u]. Plainly the premises remain true, yet the conclusion is false.

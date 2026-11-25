@@ -1,0 +1,40 @@
+This page is oriented upside down. Here is the transcription of the text in its correct orientation (reading from the bottom of the image upwards):
+
+***
+
+$q = Tq (\cos\varphi\cdot i + \cos\chi\cdot j + \cos\psi\cdot k + \sqrt{1 - \cos^2\varphi - \cos^2\chi - \cos^2\psi})$
+
+$\frac{1}{q} = \frac{1}{Tq} (\cos\varphi\cdot i - \cos\chi\cdot j - \cos\psi\cdot k + \sqrt{}$
+
+$dq = [del]Tq\cdot dTq[/del] + Tq (-\sin\varphi\cdot i + \sin\varphi\cos\varphi\sqrt{1 - \cos^2\chi - \cos^2\psi} - \cos^2\psi) d\varphi$
+$+ Tq (-\sin\chi\cdot i + \sin\chi\cos\chi$
+$+ Tq (-\sin\psi\cdot i + \sin\psi\cos\psi$
+
+$\frac{q}{Tq}$
+
+$\frac{1}{q} dq = \frac{dTq}{Tq} + (-\sin\varphi\cos\varphi + [del]\sin\varphi\sqrt{1 - \cos^2\varphi - \cos^2\chi - \cos^2\psi}[/del]) d\varphi$
+$- \sin\varphi\cos\varphi (\cos^2\varphi + \cos^2\chi + \cos^2\psi) d\varphi$
+
+$- \sin\varphi\sqrt{1 - \cos^2\varphi - \cos^2\chi - \cos^2\psi}\cdot i\cdot d\varphi$
+
+$- \cos\chi\sin\varphi\cos\varphi\cdot j$
+
+$j\cdot d\varphi + \sin\varphi\cos\psi\cdot j\cdot d\varphi$
+
+$- \cos\psi\sin\varphi\cos\varphi\cdot k$
+
+$k\cdot d\varphi + \sin\varphi\cos\chi\cdot k\cdot d\varphi$
+
+$\int \frac{1}{q} dq = \log Tq + \frac{1}{4}\cos^4\varphi + \frac{1}{2}(\cos^2\chi + \cos^2\psi)\cos^2\varphi$
+
+$+ \frac{1}{2} (a - \cos^2 x) \cos x \sin x$
+$+ \frac{1}{2} (a - \cos^2 x) \cos x \sin x$
+
+[fig]Mathematical scratchwork[/fig]
+
+$(Sq + Vq) (Sq' + Vq') =$
+$+ (Sq' + Vq') (Sq + Vq)$
+$= SqSq' +$
+$(VqVq' + Vq'Vq)$
+$= 2SqSq' + (VqVq' + Vq'Vq)$
+$+ 2(SqVq' + Sq'Vq)$

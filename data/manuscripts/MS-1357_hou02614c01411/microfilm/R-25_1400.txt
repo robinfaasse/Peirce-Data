@@ -1,0 +1,24 @@
+[pn]22[/pn]
+
+<u>Report on Live Loads</u>
+
+In order to obtain a second linear equation, let us dissect the [del]triangle[/del] [ins]triangles[/ins] $012$ (whose area may be written $\nabla_{012}$) by means of a vertical line through $1$, a horizontal line through $2$, and an oblique line from the junction of these two to $0$, as shown in Figs. 1 and 2.
+
+[fig]Fig. 1: Geometric diagram with points 0, 1, 2 and coordinates[/fig] [fig]Fig. 2: Geometric diagram with points 0, 1, 2 and coordinates[/fig] [fig]Fig. 3: Diagram showing two connected line segments[/fig] [fig]Fig. 4: Diagram showing two connected line segments[/fig]
+
+We have
+(11) $\nabla_{012} = \frac{1}{2}(x_2 - x_1)y_2 + \frac{1}{2}x_1(y_1 - y_2) + \frac{1}{2}(x_2 - x_1)(y_1 - y_2) = \frac{1}{2}(x_2 y_1 - y_2 x_1)$
+
+Now we know by trigonometry that
+$\nabla_{012} = \frac{1}{4}\sqrt{(\sqrt{x_2^2 + y_2^2} + R_0 + R_1)(\sqrt{x_2^2 + y_2^2} + R_0 - R_1)(\sqrt{x_2^2 + y_2^2} - R_0 + R_1)(\sqrt{x_2^2 + y_2^2} + R_0 + R_1)}$
+$= \frac{1}{4}\sqrt{2(x_2^2 + y_2^2)R_0^2 + 2(x_2^2 + y_2^2)R_1^2 + 2R_0^2 R_1^2 - (x_2^2 + y_2^2)^2 - R_0^4 - R_1^4}$
+
+We have then the two linear equations
+(10) $2x_2 \cdot x_1 + 2y_2 \cdot y_1 = x_2^2 + y_2^2 + R_1^2 - R_0^2$
+(11) $-2y_2 \cdot x_1 + 2x_2 \cdot y_1 = 4\nabla_{012}$
+
+and these give
+(12) $x_1 = \frac{1}{2}x_2 - \frac{x_2(R_1^2 - R_0^2) + 4y_2 \nabla_{012}}{2(x_2^2 + y_2^2)}$
+(13) $y_1 = \frac{1}{2}y_2 + \frac{y_2(R_0^2 - R_1^2) + 4x_2 \nabla_{012}}{2(x_2^2 + y_2^2)}$
+
+The negative values of the square root belong to the cases of Figs 3 and 4 where the cord is replaced by two struts or a strut and a tie.

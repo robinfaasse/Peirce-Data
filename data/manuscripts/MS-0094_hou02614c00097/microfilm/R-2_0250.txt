@@ -1,0 +1,21 @@
+[pn]242[/pn]
+
+<u>Explanation</u>. Some points in this statement require explanation.
+
+Not every intersection will receive any mark. [del]On the contrary,[/del] [del]it is on[/del] It is easy to find these in practice, so that the algebraic condition that an intersection shall be marked [del]is[/del] is hardly [del]req[/del] required. But the condition is that if the numbers attached to the points on one of the intersecting rays are $x_1, y_1, z_1$, and [del]on the[/del] $x_2, y_2, z_2$ and those of the points on the other one of the intersecting rays are $X_1, Y_1, Z_1$, and $X_2, Y_2, Z_2$, then the intersection cannot be marked unless
+$$(x_1 y_2 - x_2 y_1)(Z_1 - Z_2) + (y_1 z_2 - y_2 z_1)(X_1 - X_2) + (z_1 x_2 - z_2 x_1)(Y_1 - Y_2)$$
+$$+ (x_1 - x_2)(Y_1 Z_2 - Y_2 Z_1) + (y_1 - y_2)(Z_1 X_2 - Z_2 X_1) + (z_1 - z_2)(X_1 Y_2 - X_2 Y_1) = 0.$$
+
+[del]Denoting[/del] the numbers of the intersection be, $x, y, z$,
+
+$$x = \frac{(X_2 - X_1)(x_1 y_2 - y_2 y_1) + (x_2 - x_1)(X_2 Y_1 - X_1 Y_2)}{(y_1 - x_2)(Y_2 - Y_1) - (y_1 - y_2)(X_2 - X_1)}$$
+
+$$y = \frac{(Y_2 - Y_1)(y_1 z_2 - y_2 z_1) + (y_2 - y_1)(Y_2 Z_1 - Y_1 Z_2)}{(y_1 - y_2)(Z_2 - Z_1) - (z_1 - z_2)(Y_2 - Y_1)}$$
+
+$$z = \frac{(Z_2 - Z_1)(z_1 x_2 - z_2 x_1) + (z_2 - z_1)(Z_2 X_1 - Z_1 X_2)}{(z_1 - z_2)(X_2 - X_1) - (x_1 - x_2)(Z_2 - Z_1)}$$
+
+But these cumbrous formulae [del]are seldom[/del] of any use; for the calculation is perfectly simple.
+
+When one of the numbers is $\infty$, the corresponding number of the other point has to be changed alone.
+
+By the "weighted mean" of two numbers is meant their sum after multiplying them respectively by two fractions whose sum is 1, or their difference after multiplying them respectively by two numbers whose difference is 1. It must

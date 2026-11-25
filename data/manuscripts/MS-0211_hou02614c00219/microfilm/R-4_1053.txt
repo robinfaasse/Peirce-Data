@@ -1,0 +1,25 @@
+[u]To be postponed.[/u]
+
+[pn]12[/pn]
+
+The problem to ascertain what the average number of bets a player will make is really an easy one; but I will here attack it so as to illustrate how to solve [del]an equal[/del] a linear equation of finite differences with constant coefficients when the known term is not zero.
+
+Giving $x$ and $y$ the same significations as above, let $w_{x,y}$ be the average number of bets after the player with hoard $x$ has lost $y$ francs.
+
+In $\frac{31}{60}$ of the cases the number of bets will be $1 + w_{x,y+1}$
+and in $\frac{29}{60}$ " " " " " " " $1 + w_{x,y-1}$
+
+Hence, on the average,
+$$w_{x,y} = 1 + \frac{31}{60} w_{x,y+1} + \frac{29}{60} w_{x,y-1}$$
+
+That is
+$$w_{x,y+1} - \frac{60}{31} w_{x,y} + \frac{29}{31} w_{x,y-1} = - \frac{60}{31}$$
+
+or
+$$\left(E_y^2 - \frac{60}{31} E_y + \frac{29}{31}\right) w_{x,y} = - \frac{60}{31}$$
+
+But we have seen that this is
+$$\left(E_y - 1\right) \left(E_y - \frac{29}{31}\right) w_{x,y} = - \frac{60}{31}$$
+
+Hence
+$$w_{x,y} = \frac{1}{\left(E_y - 1\right) \left(E_y - \frac{29}{31}\right)} \left(- \frac{60}{31}\right)$$

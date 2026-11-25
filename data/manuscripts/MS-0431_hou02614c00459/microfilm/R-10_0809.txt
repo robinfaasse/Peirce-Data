@@ -1,0 +1,19 @@
+[pn]Logic
+[del]14[/del]
+167[/pn]
+
+[fig]Grid diagram with letters i, j, k, l, m, n[/fig]
+
+Suppose we now make $x, y, z$ ordinary numbers, real or imaginary, and so determine them that $x\underline{i} + y\underline{m} + z\underline{n}$ is idempotent, that is, so that,
+$(x\underline{i} + y\underline{m} + z\underline{n})^{2} = x\underline{i} + y\underline{m} + z\underline{n}$
+
+The multiplication table gives us the [del]three[/del] [ins]three[/ins] equations
+$x^{2} + 2yz = x$ or $(x - \frac{1}{2})^{2} + 2yz = \frac{1}{4}$
+$2xy + z^{2} = y$ or $2(x - \frac{1}{2})y + z^{2} = 0$
+$2xz + y^{2} = z$ or $2(x - \frac{1}{2})z + y^{2} = 0$
+
+The sum of the three gives
+$(x - \frac{1}{2} + y + z)^{2} = \frac{1}{4}$ or $(x + y + z - 1)(x + y + z) = 0$
+
+The difference between the second and third gives
+$(2x - 1 - y - z)(y - z) = 0$

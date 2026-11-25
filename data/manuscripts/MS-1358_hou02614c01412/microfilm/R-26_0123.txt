@@ -1,0 +1,48 @@
+Morison's Bridge 1899 [date]Feb 5[/date]
+
+$b_{-P+4} = 4b_{-P+3} - 6b_{-P+2} + 4b_{-P+1} - [del]b_{-P}[/del]$
+
+[fig]curly bracket grouping terms[/fig] $\begin{pmatrix} 16b_{-P+2} \\ -6 \end{pmatrix} + \frac{40(Q-P)^2 + [del]84[/del] [ins]96[/ins] (Q-P) + [del]20[/del] [ins]16[/ins]}{(R-Q)(Q-P+1)(Q-P-1)} b_{-R}$
+$- 4 \frac{2(Q-P)^2 - 12(Q-P) + 1}{(R-Q)(Q-P+1)(Q-P-1)} b_{-R}$
+
+$= +10b_{-P+2} + \frac{32(Q-P)^2 + 96(Q-P) + 16}{(R-Q)(Q-P-1)(Q-P+1)} b_{-R}$
+
+$b_{-P+5} = 4b_{-P+4} - 6b_{-P+3} + 4b_{-P+2} - b_{-P+1}$
+
+$= \begin{matrix} 40 \\ -24 \\ +4 \end{matrix} + \begin{matrix} 128 \\ -60 \\ +2 \end{matrix} \begin{matrix} +384 \\ -126 \\ -3 \end{matrix} + \begin{matrix} +64 \\ -30 \\ +1 \end{matrix}$
+
+$= 20b_{-P+2} + \frac{70(Q-P)^2 + 255(Q-P) + 35}{(R-Q)(Q-P-1)(Q-P+1)} b_{-R}$
+
+$b_{-P+6} = 4b_{-P+5} - 6b_{-P+4} + 4b_{-P+3} - b_{-P+2}$
+
+$= \begin{matrix} 80 \\ -60 \\ +16 \\ -1 \end{matrix} \begin{matrix} +280 \\ -192 \\ +40 \end{matrix} \begin{matrix} +1020 \\ -576 \\ +84 \end{matrix} \begin{matrix} +140 \\ -96 \\ +20 \end{matrix}$
+
+$= 35b_{-P+2} + \frac{120(Q-P)^2 + 528(Q-P) + [del]46[/del] [ins]64[/ins]}{(R-Q)(Q-P-1)(Q-P+1)} b_{-R}$
+
+[del]$1 + xp + xp^2 + xp^3$[/del]
+$\begin{matrix} x+y+z = -2 \\ 2x+4y+8z = 0 \\ 3x+9y+27z = 10 \end{matrix}$
+$\begin{matrix} 2y+6z = 4 \\ 4y+18z = 12 \end{matrix}$
+$y=0 \quad 6z=4$
+$6x = -16$
+
+[marginalia]
+$\frac{Q-P+1}{2(Q-P)+1}$
+$\frac{2(Q-P)^2 - 3(Q-P) + 1}{}$
+[/marginalia]
+
+[marginalia]
+$\begin{matrix} 130 & 384 \\ 60 & \underline{129} \\ & 255 \end{matrix}$
+[/marginalia]
+
+[marginalia]
+[fig]Pascal's triangle-like number grid[/fig]
+[/marginalia]
+
+[marginalia]
+$\begin{matrix} 1104 \\ \underline{576} \\ 528 \end{matrix}$
+$\begin{matrix} 1412 \\ \underline{274} \end{matrix}$
+[/marginalia]
+
+[marginalia]
+[fig]arithmetic calculations and number grids[/fig]
+[/marginalia]

@@ -1,0 +1,63 @@
+... [del]at[/del] the same conclusion can be reached much
+more easily by identifying $q_k$ with $1_j$, which we
+have a right to do on account of the universal
+quantifier. [del]Thus from[/del]
+$$\Pi_i \Sigma_j \Pi_k (q_{ki} + \bar{q}_{kj})$$
+we get
+$$\Pi_i \Sigma_j (1_{ji} + \bar{1}_{jj}) = \Pi_i \Sigma_j 1_{ji}.$$
+Hence the proposition
+$$\Pi_i (q_{ii} q_{\lambda j} + \bar{q}_{\lambda i} \bar{q}_{\lambda j})$$
+holds, because it becomes identical when $i$ is sub-
+stituted for $j$.
+
+Let us now consider some examples of a
+somewhat more difficult kind. Given the pro-
+position
+$$\Sigma_k \Pi_a \Sigma_b \Pi_c \{ \bar{x}_a + r_{kab} y_b (\bar{r}_{kcb} + 1_{ac}) \},$$
+[del]which[/del] [ins]that is[/ins] there is a relation $k$ such that whatever object
+[del]is[/del] taken, either this is not an $x$ or it stands in the relation
+to some object which is a $y$ and to which nothing,
+except that $x$ stands in that relation. Required to find
+all the propositions deducible from this by elimination
+of $k$. The simple omission of factors gives
+$$\Pi_a \Sigma_b (\bar{x}_a + y_b).$$
+That is, there either is no $x$ or there is a $y$. We get
+nothing further by identifying $c$ with $a$. There is
+therefore no further conclusion without involution.
+Squaring, with identification of $k$ (without which
+we should plainly reach nothing new) we have
+$$\Sigma_k \Pi_a \Sigma_b \Pi_c \Pi_d \Sigma_e \Pi_f$$
+$$\{ \bar{x}_a + r_{kab} y_b (\bar{r}_{kcb} + 1_{ac}) \} \{ \bar{x}_d + r_{kde} y_e (\bar{r}_{kfe} + 1_{df}) \}$$
+the application to the Boolean of the common formula
+$$(a+x)(b+y) \prec a + b + xy$$
+gives
+$$\bar{x}_a + \bar{x}_d + r_{kab} r_{kde} y_b y_e (\bar{r}_{kcb} + 1_{ac}) (\bar{r}_{kfe} + 1_{df}).$$
+We now identify $f$ with $a$, [ins]when the first and the last[/ins] [del]term become[/del]
+$$r_{kab} (\bar{r}_{kae} + 1_{ad}).$$
+But we have
+$$r_{kab} \bar{r}_{kae} \prec \bar{1}_{be}.$$
+Thus we reach the conclusion
+$$\Pi_a \Sigma_b \Pi_d \Sigma_e (\bar{x}_a + \bar{x}_d + \bar{1}_{ad} + y_b y_e \bar{1}_{be});$$
+that is, there are either not two $x$'s different from one
+another or there are two $y$'s different from one
+another. A little examination will show that no
+other conclusion could be reached by elimination
+from the square. Cubing the original proposition,
+we reach in a similar way
+$$\Sigma_k \Pi_a \Sigma_b \Pi_c \Pi_d \Sigma_e \Pi_f \Pi_g \Sigma_h \Pi_i$$
+$$\bar{x}_a + \bar{x}_d + \bar{x}_g + y_b y_e y_h r_{kab} r_{kde} r_{kgh} (\bar{r}_{kcb} + 1_{ac}) (\bar{r}_{kfe} + 1_{df}) (\bar{r}_{kih} + 1_{gi})$$
+Identifying $f$ with $a$, $i$ with $d$, $g$ with $c$, the last term
+of the Boolean becomes
+$$y_b y_e y_h r_{kab} r_{kde} r_{kch} (\bar{r}_{kcb} + 1_{ac}) (\bar{r}_{kae} + 1_{ad}) (\bar{r}_{kdh} + 1_{cd})$$
+whence
+$$y_b y_e y_h (\bar{1}_{be} + 1_{ac}) (\bar{1}_{be} + 1_{ad}) (\bar{1}_{ch} + 1_{cd}),$$
+whence again
+$$y_b y_e y_h \bar{1}_{bh} \bar{1}_{be} \bar{1}_{eh} + 1_{ac} + 1_{ad} + 1_{cd},$$
+so that we have the conclusion
+$$\Pi_a \Sigma_b \Pi_d \Sigma_e \Pi_c \Sigma_h$$
+$$\bar{x}_a + \bar{x}_d + \bar{x}_c + 1_{ac} + 1_{ad} + 1_{cd} + y_b y_e y_h \bar{1}_{be} \bar{1}_{bh} \bar{1}_{eh},$$
+that is there either are not three $x$'s all different
+from one another or there are three $y$'s
+different from one another.
+
+It is plain that by raising the $n$th...

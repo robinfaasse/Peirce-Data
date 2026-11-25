@@ -1,0 +1,26 @@
+[pn]9'[/pn] But now it is time to see what principles $\Pi$ re-
+quires $\text{E}'$ to be. When $[b]=2$. Writing $p$ and $q$ for
+$b_1$ and $b_2$, $\Pi$ becomes
+$\text{E}(pq)\Psi\text{E}(p\delta)\Psi\text{E}(q\delta)+O(\delta)$
+and when for $\delta$ we put the elements, $\gamma$, of the [del]any[/del]
+such thing as similitude
+$\text{E}(pq)\Psi\text{E}(q\gamma)\Psi\text{E}(\gamma p)$,
+i.e. $O(pq)\cdot O(q\gamma)\prec\text{E}(\gamma p)$
+Writing $\text{E}(pq)=\Sigma_\omega\mathcal{E}_{\omega p}\cdot\mathcal{E}_{\omega q}$ $O(pq)=\Pi_\omega\bar{\mathcal{E}}_{\omega p}\Psi\bar{\mathcal{E}}_{\omega q}$
+$\text{E}(q\gamma)=\Sigma_{\omega'}\mathcal{E}_{\omega' q}\cdot\mathcal{E}_{\omega' \gamma}$ $O(q\gamma)=\Pi_{\omega'}\bar{\mathcal{E}}_{\omega' q}\Psi\bar{\mathcal{E}}_{\omega' \gamma}$
+Squaring the $O$s, we get
+$O(pq)=(\Pi_\omega\bar{\mathcal{E}}_{\omega p}\Psi\bar{\mathcal{E}}_{\omega q})\cdot(\Pi_\omega\bar{\mathcal{E}}_{\omega p}\Psi\bar{\mathcal{E}}_{\omega q})$
+$O(q\gamma)=(\Pi_{\omega'}\bar{\mathcal{E}}_{\omega' q}\Psi\bar{\mathcal{E}}_{\omega' \gamma})\cdot(\Pi_{\omega'}\bar{\mathcal{E}}_{\omega' q}\Psi\bar{\mathcal{E}}_{\omega' \gamma})$
+Writing $\bar{\omega}$ for the negative of $\omega$ and $\bar{\omega}'$ for the negative of $\omega'$
+we have $\mathcal{E}_{\bar{\omega}}=\bar{\mathcal{E}}_\omega$ and $\mathcal{E}_{\bar{\omega}'}=\bar{\mathcal{E}}_{\omega'}$. Substituting in the second
+component of each square
+$O(pq)=(\Pi_\omega\bar{\mathcal{E}}_{\omega p}\Psi\bar{\mathcal{E}}_{\omega q})\cdot(\Pi_\omega\mathcal{E}_{\omega p}\Psi\mathcal{E}_{\omega q})$
+$O(q\gamma)=(\Pi_{\omega'}\bar{\mathcal{E}}_{\omega' q}\Psi\bar{\mathcal{E}}_{\omega' \gamma})\cdot(\Pi_{\omega'}\mathcal{E}_{\omega' q}\Psi\mathcal{E}_{\omega' \gamma})$
+We compose these [ins]with transposed components[/ins] [del]interposing the expression for $O(q\gamma)$ between the[/del]
+[del]components of $O(pq)$ and then[/del] identify $\omega'$ with $\omega$ and $\bar{\omega}'$ with $\bar{\omega}$, [ins]respelly[/ins]
+$O(pq)O(q\gamma)=(\Pi_\omega\bar{\mathcal{E}}_{\omega p}\Psi\bar{\mathcal{E}}_{\omega q})(\Pi_{\omega'}\bar{\mathcal{E}}_{\omega' q}\Psi\bar{\mathcal{E}}_{\omega' \gamma})(\Pi_{\omega'}\mathcal{E}_{\omega' q}\Psi\mathcal{E}_{\omega' \gamma})(\Pi_\omega\mathcal{E}_{\omega p}\Psi\mathcal{E}_{\omega q})$
+$\prec(\Pi_\omega\bar{\mathcal{E}}_{\omega p}\Psi\bar{\mathcal{E}}_{\omega q}\cdot\mathcal{E}_{\omega q}\Psi\mathcal{E}_{\omega \gamma})\cdot(\Pi_\omega\bar{\mathcal{E}}_{\omega q}\Psi\bar{\mathcal{E}}_{\omega \gamma}\cdot\mathcal{E}_{\omega p}\Psi\mathcal{E}_{\omega q})$
+$=(\Pi_\omega\bar{\mathcal{E}}_{\omega p}\Psi\mathcal{E}_{\omega \gamma})\cdot(\Pi_\omega\bar{\mathcal{E}}_{\omega \gamma}\Psi\mathcal{E}_{\omega p})$
+(Identifying $\omega'$ with $\omega$) $=\Pi_\omega(\bar{\mathcal{E}}_{\omega p}\Psi\mathcal{E}_{\omega \gamma})\cdot(\mathcal{E}_{\omega p}\Psi\bar{\mathcal{E}}_{\omega \gamma})$
+$=\Pi_\omega\bar{\mathcal{E}}_{\omega p}\cdot\bar{\mathcal{E}}_{\omega \gamma}\Psi\mathcal{E}_{\omega p}\mathcal{E}_{\omega \gamma}=\text{E}(p\gamma)$.
+Thus $O(pq)\cdot O(q\gamma)\prec\text{E}(p\gamma)$.

@@ -1,0 +1,37 @@
+2. [del]If the day of the year is[/del] Take out the number opposite the month in the following table
+
+[tabular]
+Jan 207 (leap year 208)
+Feb 176 (leap year 177)
+March 148
+April 117
+May 87
+June 56
+July 26 [ins](or 391 if the date is after July 26)[/ins] [del]or 391[/del]
+Aug 360
+Sep 329
+Oct 299
+Nov 268
+Dec 238
+[/tabular]
+
+and from this subtract the [del]365[/del] day of the month.
+Increase the remainder [ins]by 1[/ins] if the year is the year before a leap year.
+
+[tabular]
+1891 | 365 | 366 | 365.25 | Add 1
+1890 | 730 | 731 | 730.50
+1889 | [del]1095[/del] | 1096 | 1095.75
+1888 | | 1461 | 1
+[/tabular]
+
+Multiply by 0.0831 Call this A in the year
+
+Subtract the year from 1892 if the date is earlier than July 27, otherwise from [del]1891[/del] [ins]1891.1[/ins] (If the year is later than 1892 make the difference negative)
+Multiply remainder by 30.363 Call this B
+
+Add A and B and subtract [del]the sum from[/del] the next higher multiple of 360°. The result is the mean anomaly.
+
+3. Enter the table with the mean anomaly in column 1, and take out the equation of the centre from column 2, [del]and[/del] Add this to the mean anomaly to get the true anomaly [del]of[/del]
+
+4. Add 13°.5 to the true anomaly and the sum is the heliocentric longitude referred to the equinox of 1900. If the [del]epoch[/del] [ins]equinox[/ins] of the globe is that of an earlier

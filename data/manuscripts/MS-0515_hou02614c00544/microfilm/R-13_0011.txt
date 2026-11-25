@@ -1,0 +1,19 @@
+[marginalia]First Prin[/marginalia]
+[pn]5[/pn]
+
+we erase [del]z[/del] [ins]z[/ins] instead, we might erase [del]either[/del] [ins]y[/ins] or [del]y[/del] [ins]z[/ins],
+showing that we might assert [del]y[/del] [ins]y[/ins] alone. But let
+us instead erase [del]x[/del] [ins]x[/ins], leaving [del]y[/del] [ins]y[/ins]. Then since we
+might have written z alone, we can [del]write[/del] [ins]insert[/ins] it
+now, giving [del]yz[/del] [ins]yz[/ins]; and then, since we might
+have written [del]x[/del] [ins]x[/ins] alone, we can insert it now
+giving [del]xyz[/del] [ins]xyz[/ins]. Thus we have,
+
+[del]xyz[/del] [del]yxz[/del] [del]= yxz[/del] [u]xy[/u]·[u]z[/u] = [u]x[/u]·[u]yz[/u],
+proving the associative principle.
+
+[u]Corollary 3[/u]. Any component of an asserted proposition
+may be erased without danger of falsehood.
+
+[u]Corollary 4[/u]. Any component of an asserted propo-
+sition may be iterated to any multitude of times.

@@ -1,0 +1,30 @@
+and it is clear that the truth of a general formula may
+be tested by trying whether it will always hold when eithe
+v of f is substituted throughout for each letter. In writ-
+ing the formulae, it will be well to adopt the rule that
+a parenthesis extending to the end of the formula or to
+the end of an exterior parenthesis is to be omitted.
+
+Of fomulae of two terms in v and f, only v-:f is false,
+for f-:f , v-:v , f-:v, are all true. This shows that
+a-:a
+is necessarily true. Of formulae of the form a-:b-:c in
+v and f the only one that is false is v-:v-:f. It follows
+that
+a-:b-:b
+necessarily holds, and also that
+a-:b-:c = b-:a-:c.
+
+It is easily seen that the rule is that in a formula without
+a parenthesis the order of all the terms except the last
+is indifferent. The different rule governing the last letter
+leads us to use a different symbol for every copula preced-
+ing the last without parenthesis. In place of a-:b-:c we
+are led to write (a.b)-:c. Then the expression (a.b) may
+be defined by the equation
+(a.b) = (a-:(b-:f))-:f.
+
+The definition which I formerly gave of non-relative addi-
+tion and multiplication were defective; they failed to
+yield demonstrations of the propositions
+(a+b)xc-:(axc)+(bxc)

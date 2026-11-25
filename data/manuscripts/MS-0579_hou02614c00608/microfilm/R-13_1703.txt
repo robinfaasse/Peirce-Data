@@ -1,0 +1,39 @@
+1. When a parenthesis ends with the formula
+[ins]or part in another parenthesis[/ins]
+it is omitted. Thus
+
+$$\begin{array}{lcl}
+\text{for } a \prec (b \prec c) & \text{we write} & a \prec b \prec c \\
+a \prec [b \prec (c \prec d)] & \text{"\quad"} & a \prec b \prec c \prec d \\
+(a \prec b) \prec (c \prec d) & & (a \prec b) \prec c \prec d \\
+a \prec [(b \prec c) \prec d] & & a \prec (b \prec c) \prec d \\
+[a \prec (b \prec c)] \prec d & & (a \prec b \prec c) \prec d
+\end{array}$$
+
+$$\begin{array}{lcl}
+& a \prec b \prec c & \bar{a} + \bar{b} + c \\
+(a \prec b) \prec c & c + \bar{b} a & \text{Thus} \\
+[[del]a \prec a[/del]] \prec b] \prec c & c + \bar{b} (a + \bar{m}) & (a \prec b \prec c) \prec d
+\end{array}$$
+
+$$\begin{array}{l}
+a \bar{b} \bar{c} + d \\
+\bar{a} + b \bar{c} + d \\
+a \bar{b} + \bar{c} + d
+\end{array}$$
+
+$$\begin{array}{l}
+[(a \prec b) \prec c \prec d] \prec e \\
+(\bar{a} + b) \bar{c} + d
+\end{array}$$
+
+$$\begin{array}{lcl}
+[(a \prec b \prec c) \prec d] \prec e & & e + \bar{d} ([u]c[/u] + \bar{b} + \bar{a}) \\
+a \prec [(b \prec c) \prec d] \prec e & & e + \bar{d} (c + \bar{b}) + \bar{a}
+\end{array}$$
+
+$$\begin{array}{lcl}
+e + \bar{d} c (b + \bar{a}) & a \prec b \prec (c \prec d) \prec e \\
+\{[(a \prec b) \prec c] \prec d\} \prec e & & e + \bar{d} ([u]c[/u] + \bar{b} a) \\
+a \prec \{[b \prec c] \prec d\} \prec e & & e + \bar{d} (c + \bar{b}) + \bar{a}
+\end{array}$$

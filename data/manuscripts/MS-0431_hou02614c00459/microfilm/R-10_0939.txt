@@ -1,0 +1,29 @@
+[marginalia]
+[u]Logic[/u]
+III
+81
+[/marginalia]
+
+upon me to show that this sign is as vital to algebra as the
+drawing of breath is to its student. Nor will this prove useless in-
+formation, should ever the student find himself confronted
+with the task of constructing an algebra. An algebra may
+very well be constructed which has no other specific sign, as
+I will show in a note.
+
+Another property of composition is found by substituting
+[u]x[/u] for [u]y[/u] in (27); namely,
+(36) If [u]x[/u], then [u]x[/u] ∘ [u]x[/u].
+
+Of course, by (25) or (26),
+(37) If [u]x[/u] ∘ [u]x[/u], then [u]x[/u].
+
+By applying (9), (10), (11) to (25), (26), (27), (28), (34), (35), we
+obtain a number of obvious consequences; such as,
+(38) If [u]x[/u] then [u]x[/u] ∘ [u]y[/u]; If [u]y[/u] then [u]x[/u] ∘ [u]y[/u].
+
+[del]That is, new components may be introduced under an obelus.[/del]
+
+[del](39) If [u]y[/u], then [del]either [u]x[/u] or [u]y[/u][/del][/del]
+(39) If [u]x[/u], then [u]x[/u] ∘ [u]y[/u].
+(40) If [u]x[/u] ∘ [u]y[/u] then either [u]x[/u] or [u]y[/u].

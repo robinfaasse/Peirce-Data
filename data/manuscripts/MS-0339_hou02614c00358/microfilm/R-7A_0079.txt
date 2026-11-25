@@ -1,0 +1,35 @@
+When $A=1$ $B=0$ $C=0$ the sum of eq. becomes $\mathcal{F}^A + L$
+
+" $A=0$ $B=1$ " " " " $\mathcal{F}^B + L$
+
+" $A=0$ $B=0$ $C=1$ " " " " $\mathcal{F}^C + L$
+
+The product is
+
+$\mathcal{F}^A \mathcal{F}^B \mathcal{F}^C + L = 0$
+
+[del]Suppose[/del] [ins]Denote[/ins] $L = D \Sigma M + \Sigma N$
+
+where $D$ has the signification mentioned above.
+
+Thence it is easy to deduce that if $(1-A)(1-B)(1-C) = 0$ or if only 3 colours are used
+
+$D = C$
+
+But $D = \mathcal{F}^A \mathcal{F}^B$
+
+when $D \mathcal{F}^C = 0$
+
+That is $D$ cannot touch $C$
+
+But from the given equations alone this cannot be deduced: Hence not in every case will 3 colours serve.
+
+Now let suppose $(1-A)(1-B)(1-C)(1-\mathcal{C}^{(1-A)(1-B)(1-C)}) = 0$ or that 4 colours are used.
+
+Then if $D = C$ Nothing follows from this proposition
+
+[del]But this cannot happen[/del]
+
+if $DC = 0$ or [ins]the[/ins] $D = (1-A)(1-B)(1-C)$ then
+
+But there is nothing in the given equations to contradict it.

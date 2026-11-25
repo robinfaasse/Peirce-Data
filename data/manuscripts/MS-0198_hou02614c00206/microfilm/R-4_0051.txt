@@ -1,0 +1,17 @@
+[u]Problem[/u]. Given two points, [A] and [B], find all the points whose distances [del]from these points in[/del] [ins]to [A] are to[/ins] their distances from [B] in a given ratio.
+
+[u]Solution[/u]. Take any pair of distances in the given ratio, and having their sum greater, and difference less, than the distance between [A] and [B]. Find the two points at those distances from [A] and [B]. Do the same for another such pair of distances. Describe a circle through the four points so found, and all the required points are all the points of that circle.
+
+[u]Demonstration[/u]. Let [P] be any point of the circle, and [O] its centre, [Q] the foot of the perpendicular through [P] upon the ray {AB}. [del]Then, if the distance AP is to the distance BP in the ratio, r, $(PQ^2 + AQ^2) = r^2 (PQ^2 + BQ^2)$ Then, if[/del]
+
+[fig]Diagram showing points A, B, O, Q, P on a line and circle[/fig]
+
+Then [del]$AO^2 + 2 AO \cdot OQ + OQ^2 + PQ^2$[/del]
+
+Then, $OQ^2 + QP^2 = r_1^2$, where $r_1$ is the radius of the circle; and the square of the ratio of the distances of [P] from [A] and [B] is
+$(AO^2 + 2 AO \cdot OQ + OQ^2 + QP^2) / (BO^2 + 2 BO \cdot OQ + OQ^2 + QP^2) = \rho^2$
+
+If, then, [O] is so taken that $AO = \rho^2 \cdot BO$, this gives
+$OQ^2 + QP^2 = \frac{AO^2 - \rho^2 BO^2}{\rho^2 - 1} = \text{[del]}\frac{\rho^2}{\rho^2 - 1}\text{[/del]} + \rho^2 BO^2 = \frac{\rho^2}{\rho^2 - 1} AB^2$.
+
+If then the radius is so taken that $r_1 = \frac{\rho}{\sqrt{\rho^2 - 1}} AB$, the circumference of the circle contains all the points which satisfy the conditions.

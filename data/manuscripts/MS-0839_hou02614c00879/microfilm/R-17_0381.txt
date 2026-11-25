@@ -1,0 +1,25 @@
+$$A(B+xC) = \left\{ b + x\frac{p}{q}(\frac{1}{2}-b) \right\}j + \left\{ d + x(\frac{1}{2}-\frac{p}{q}d) \right\}l$$
+
+$$(B+xC)A = \left\{ (1-b) - x\frac{p}{q}(\frac{1}{2}-b) \right\}j + \left\{ -d + x(\frac{1}{2}+\frac{p}{q}d) \right\}l$$
+
+$$-bd + x\left\{ \frac{1}{2}b + 2\frac{p}{q}bd - \frac{1}{2}\frac{p}{q}d \right\} + x^{2}\frac{p}{q}(\frac{1}{2}-b)(\frac{1}{2}+\frac{p}{q}d)$$
+
+$$= +d [del]+bd[/del] + x\left\{ [del]-\frac{1}{2}b - \frac{p}{q}d + \frac{p}{q}bd[/del] [ins]-\frac{1}{2}d + \frac{p}{q}bd[/ins] \right\} - x^{2}\frac{p}{q}(\frac{1}{2}-b)(\frac{1}{2}-\frac{p}{q}d)$$
+
+***
+
+$$-d [del]+bd[/del] + x\left\{ -\frac{1}{2}+b + [del]\frac{p}{q}bd[/del] \right\} + x^{2}\frac{p}{q}(\frac{1}{2}-b) = 0$$
+
+Put $x = \frac{q}{p}$
+
+[del]$d + \frac{q}{p}(-\frac{1}{2}+b) +$[/del]
+
+[del]$2d(\frac{1}{2}-b) + 2bd + \frac{q}{p}(-\frac{1}{2}+b) + \frac{q}{p}(\frac{1}{2}-b)$[/del]
+
+$$-d + \frac{q}{p}(-\frac{1}{2}+b) + d + \frac{q}{p}(\frac{1}{2}-b) = 0$$
+
+$$x - \frac{q}{p} \ \left| \ \begin{aligned} &x^{2}\frac{p}{q}(\frac{1}{2}-b) + x(-\frac{1}{2}+b+\frac{p}{q}d) - d \\ &\underline{x^{2}\frac{p}{q}(\frac{1}{2}-b) + x(-\frac{1}{2}+b \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ } \\ &\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ x\frac{p}{q}d - d \end{aligned} \right. \ \ \begin{aligned} &x\frac{p}{q}(\frac{1}{2}-b) \\ &+\frac{p}{q}d \end{aligned}$$
+
+$$x(\frac{1}{2}-b) + d = 0$$
+
+$$x = -\frac{d}{\frac{1}{2}-b} \ \ \ (\frac{1}{2}-b)(B+xC) = (\frac{1}{2}-b)B - dC$$

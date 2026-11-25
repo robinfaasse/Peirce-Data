@@ -1,0 +1,62 @@
+```
+[fig] vertical line dividing the page [/fig]
+
+[del]a[/del] [ins]1[/ins] ≺ a
+[del]a[/del] [ins]2[/ins] ≺ u
+
+a + u ≺ a + u
+1 ≺ [del]a[/del] [ins]u[/ins] + a
+
+[fig] horizontal line [/fig]
+
+1 ≺ a + b
+1 ≺ b + a
+1 ≺ b + c
+1 ≺ c + b
+1 ≺ c + a
+1 ≺ a + c
+Commutative
+
+1 ≺ a + b
+1 ≺ b + c
+1 ≺ c + a
+1 ≺ b + a
+1 ≺ c + b
+1 ≺ a + c
+Non commutative
+
+[fig] horizontal line [/fig]
+
+1 ≺ ab
+1 ≺ bc
+1 ≺ ca
+
+[fig] horizontal line [/fig]
+
+ab = a + b
+ab = b + a
+
+a + b = a + b
+a + b = b + a
+
+(ab + c) = (b + c) = (a + b + c) = (b + c + a) = (c + a + b)
+
+a1 = 1a = a
+a + u = u + a = u
+
+(a + b)c ≺ a + bc
+a(b + c) ≺ ab + c
+
+[del]1 ≺ a + b + c[/del]
+
+1 ≺ (a + b)c
+1 ≺ a + bc
+1 ≺ a(b + c)
+1 ≺ ab + c
+1 ≺ abc
+
+Suffusion
+1 ≺ (a + x)(x + b) ≺ a + b
+1 ≺ (a + x)x + b ≺ a + b
+1 ≺ (a + x)(x + b) ≺ a + b
+```

@@ -1,0 +1,26 @@
+[pn]154[/pn]
+
+§79. If this is the case, if $x = -B$ satisfies the quadratic, or
+$$B^{2} - 2BB + C = 0,$$
+we have
+$$-B^{2} + C = 0$$
+or
+$$C = B^{2}.$$
+
+[del]Thus[/del] [ins]Substituting this value,[/ins] we find that a quadratic equation of the form
+$$x^{2} + 2Bx + B^{2} = 0$$
+has only one [del]no[/del] solution which is $x = -B$
+
+The expression $x^{2} + 2Bx + B^{2}$ is, in fact, equal to $x+B$ multiplied into itself. Thus:
+$$\begin{array}{l}
+x + B \\
+\underline{x + B} \\
+x^{2} + Bx \\
+\underline{\phantom{x^{2} + }Bx + B^{2}} \\
+x^{2} + 2Bx + B^{2}.
+\end{array}$$
+
+Now when a product equals zero, one of the factors equals zero; and therefore when the factors are equal, the only way is for that to be zero. In this case, therefore, the only solution is
+$$x + B = 0,$$
+or
+$$x = -B.$$

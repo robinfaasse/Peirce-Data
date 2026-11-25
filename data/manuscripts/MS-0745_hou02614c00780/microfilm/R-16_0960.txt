@@ -1,0 +1,23 @@
+[u]Lecture XII[/u].
+
+[u]General formulae of the logic of relatives[/u]. Two types of individual dual relatives.
+A:A          A:B
+
+Classification of relatives according to their including all, some, or none of the individual duals of either of these types.
+
+Of the type A:A
+[fig]Table classifying relatives by inclusion of types A:A and A:B[/fig]
+$$\begin{array}{c|c|c|c}
+& \text{All} & \text{Some} & \text{None} \\ \hline
+\text{All} & \infty & \begin{array}{c} \text{Negatives of} \\ \text{equiparants} \end{array} & \text{n} \\ \hline
+\text{Some} & \begin{array}{c} \text{[del]Negatives[/del]} \\ \text{[del]alio-relatives[/del]} \end{array} & \text{Free} & \text{Alio-relatives} \\ \hline
+\text{None} & 1 & \text{Equiparants} & 0
+\end{array}$$
+
+Converse and negative.
+$$\breve{l}_{ij} = l_{ji}$$
+
+$$\breve{\breve{l}} = l \qquad \bar{\bar{l}} = l$$
+$$\bar{\breve{l}} = \breve{\bar{l}}$$
+
+$$(l \prec b) = (\bar{b} \prec \bar{l}) \qquad (l \prec b) = (\breve{l} \prec \breve{b})$$

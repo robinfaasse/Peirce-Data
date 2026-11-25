@@ -1,0 +1,21 @@
+```
+[del]\frac{x-yi}{x+yi-ai} + \frac{x+yi}{x-yi+ai}[/del]
+
+[del]= \frac{2x^2-2y^2 + xyi - xyi + xai - xai}{x^2+y^2-2ay+a^2}[/del]
+
+[del]= \frac{2x^2-2y^2}{x^2-y^2}[/del]
+
+[del]2[/del]
+
+P \frac{1}{x^2+y^2-2ay+a^2} + Q \frac{1}{x^2+y^2+2ay+a^2}
+
+\frac{(P+Q)(x^2+y^2+a^2) + 2(P-Q)ay}{(x^2+y^2+a^2)^2 - 4a^2y^2}
+
+Try X = \frac{x}{(x+yi+ai)(x+yi-ai)} = \frac{1}{2}(x+iy) + x-iy [del]x[/del] \frac{1}{x}
+
+D_x X = X D_x \log X = X ( \frac{1}{x} - \frac{1}{x+iy+ai} - \frac{1}{x+yi-ai}
+
+= X * \frac{[del]-x^2[/del] -y^2+a^2 + [del]2xyi + 2xai[/del]}{x(x+iy+ai)(x+yi-ai)}
+
+= \frac{1}{(x+iy+ai)^2(x+yi-ai)^2} = \frac{1}{(x^2-y^2+2iy+a^2)^2}
+```

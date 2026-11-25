@@ -1,0 +1,14 @@
+[fig]Geometric diagram showing a polygonal path and a curved path with labeled vertices and angles.[/fig]
+
+$$\sin \tau_{n-1} + \sin \tau_{n} + \sin \tau_{n+1} = \mathcal{C}_{1}$$
+$$\cos \tau_{n-1} + \cos \tau_{n} + \cos \tau_{n+1} = \mathcal{C}_{2}$$
+
+[del]$\sin \tau$[/del]  [del]$\sin \tau_{n-2} + \sin \tau$.[/del]
+
+$$\cos \tau_{n-1} \cdot \delta \tau_{n-1} + \cos 0 \cdot \delta \tau_{n} + \cos \tau_{n+1} \cdot \delta \tau_{n+1} = 0$$
+$$\sin \tau_{n-1} \cdot \delta \tau_{n-1} + \sin \tau_{n} \cdot \delta \tau_{n} + \sin \tau_{n+1} \cdot \delta \tau_{n+1} = 0$$
+
+$$\varepsilon_{n-1} (\tau_{n-1} - \tau_{n-2})^{2} + \varepsilon_{n} (\tau_{n} - \tau_{n-1})^{2} + \varepsilon_{n+1} (\tau_{n+1} - \tau_{n})^{2} + \varepsilon_{n+2} (\tau_{n+2} - \tau_{n+1})^{2}$$
+
+$$\delta \varepsilon_{n-1} (\tau_{n-1} - \tau_{n-2})^{2} +$$
+$$2 \varepsilon_{n-1} (\tau_{n-1} - \tau_{n-2}) \delta \tau_{n-1} + 2 \varepsilon_{n}$$

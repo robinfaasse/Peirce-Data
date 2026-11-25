@@ -1,0 +1,22 @@
+and [u]n+1[/u] is (which we know by a familiar pro-
+position in permutations to be [u](2n+1)![/u]
+[u]n!(n+1)![/u] in number)
+
+they may be distributed into classes each containing
+[u]2n+1[/u] arrangements convertible into one another
+by joining [del]to[/del] [ins]make[/ins] a circle and cutting again,
+or say, cyclically identical. For the same arrange-
+ment cannot occur twice or more in one cycle.
+For if it did, all [del]the[/del] [ins]the[/ins] [del]said[/del] arrangements of the cycle
+must recur, and one or other of the last two
+propositions would be violated. Now each of these
+classes contains just one possible tell tale row
+and consequently the number of these, which
+is the number of ABC separations, must be
+[u](2n)![/u]
+[u]n!(n+1)![/u]
+
+It can readily be shown that this number contains
+any prime number, p, as many times as a factor as there
+are powers of p which being taken as divisors of
+[u]n+1[/u] leave remainders at least one more than [u]1/2[/u] p.

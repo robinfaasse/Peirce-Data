@@ -1,0 +1,118 @@
+[marginalia]
+[del]40.52602[/del]
+[del]13.710[/del]
+[del]26.816[/del]
+[del]24200992[/del]
+28.234394
+[del]22.100465[/del]
+121.00260
+136.178419284
+[/marginalia]
+
+[marginalia]
+[del]1895[/del]: [del]6980[/del]
+[del]4238[/del]
+[del]2742[/del] : 10
+[del]10[/del]
+1895) 27120 (
+[/marginalia]
+
+[marginalia]
+1895: [del]5970[/del]
+[del]6131[/del]
+[del]819[/del]: 10
+[del]10[/del]
+1895) 8190 (4.32
+[del]7580[/del]
+6100
+[del]5685[/del]
+4150
+[/marginalia]
+
+[marginalia]
+612
+582
+30
+28
+2
+[/marginalia]
+
+[marginalia]
+1000 : 216 :: 3786
+[del]216[/del]
+22596
+3786
+7572
+813,456
+[/marginalia]
+
+[marginalia]
+0123
+813
+0936
+[/marginalia]
+
+[marginalia]
+2) 80.67683
+40.33842
+[/marginalia]
+
+[marginalia]
+[del]212[/del]
+45
+[/marginalia]
+
+[marginalia]
+[del]2-4[/del]
+[/marginalia]
+
+[marginalia]
+[del]cosa[/del]
+[/marginalia]
+
+$\log b =$ 0.60205999
+$\log a =$ 0.4971500
+$\log \sin \psi =$ 9.8494850
+$\log \tan \vartheta =$ 10.9486950
+
+$\vartheta = 83^\circ\ 34'\ 44''.32$
+
+$\log \tan \vartheta =$ 10.9486950
+$\log \cos \vartheta =$ 9.0487238
+$\log \frac{\sin \vartheta}{\tan \vartheta} =$ 1.8999612
+
+1895 : 819 : 1970
+819
+18839
+1877
+14968
+1895) 1532429 ( 808
+15160
+16429
+15160
+1269
+
+$\frac{\sin \vartheta}{\cos \vartheta} =$ 79.42574
+$\log \tan (45^\circ + \frac{\psi}{2}) = \log \tan (56^\circ 17'\ 22''.16) =$ 1.25109
+
+$a = \frac{b}{\varphi} =$
+
+$\log 3 =$ 0.47712125
+$\log 2 =$ 0.45151500
+$\log 5 =$ 0.4971500
+-0.5284262
+
+thread = 13.61984
+
+16. Through a given point to draw a straight line cutting an ellipse, given in magnitude and position, so that the intercepted part may be of a given length.
+
+Solution. Let $A$ and $B$ be the axes of the ellipse, $x$ and $y$ the coordinates of the given point referred to these axes, $\rho$ the radius vector of the ellipse referred to the given point, and $\varphi$ the angle which $\rho$ makes with $A$. The polar equation of the ellipse referred to the point given is.
+$\left. \begin{aligned} A^2 \rho^2 \sin^2 \varphi + 2 A^2 y \rho \sin \varphi + A^2 y^2 \\ + B^2 \rho^2 \cos^2 \varphi + 2 B^2 x \rho \cos \varphi + B^2 x^2 \end{aligned} \right\} = A^2 B^2$
+
+To find the lengths of $\rho$ corresponding to any value of $\varphi$, we must solve this as a quadratic and obtain.
+$\rho = P \pm \sqrt{R}$
+$P$ and $R$ being functions of $\varphi$ and known quantities.
+The difference between the two values of $\rho$ or the intercepted distance is $2 \sqrt{R}$. So that we have
+[del]$2 \sqrt{R} = 2d$ the given dist[/del]
+$R = d^2$
+But $R = \frac{- A^2 B^2 + A^2 y^2 + B^2 x^2}{A^2 \sin^2 \varphi + B^2 \cos^2 \varphi} + \left( \frac{A^2 y \sin \varphi + B^2 x \cos \varphi}{A^2 \sin^2 \varphi + B^2 \cos^2 \varphi} \right)^2$

@@ -1,0 +1,19 @@
+[u]Velocity of rotation[/u]
+
+$$\sqrt{(D_t\varphi)^2 + (D_t\psi)^2 + 2\sin\theta(D_t\varphi)(D_t\psi)}$$
+
+[u]Distance of Centre of g[/u]
+
+$$\sqrt{\left(k \frac{D_t\psi}{\sqrt{(D_t\varphi)^2 + (D_t\psi)^2 + 2\sin\theta(D_t\varphi)(D_t\psi)}} + h\cos\varphi\right)^2 \frac{D_t\varphi + \sin\theta(D_t\psi)}{\sqrt{\dots}}}$$
+$$+ h^2\sin^2\varphi$$
+
+[u]Moment of Inertia[/u]
+
+$$I \frac{(D_t\varphi + \sin\theta(D_t\psi))^2}{(D_t\varphi)^2 + (D_t\psi)^2 + 2\sin\theta(D_t\varphi)(D_t\psi)} + J \frac{(D_t\psi)^2\cos^2\theta}{(D_t\varphi)^2 + (D_t\psi)^2 + 2\sin\theta(D_t\varphi)(D_t\psi)}$$
+
+$$+ m (\text{Dis of centre of grav})^2$$
+
+$$T = \frac{1}{2}(I + mh^2)(D_t\varphi)^2$$
+$$+ (I\sin\theta + mh^2\sin\theta + mhk\cos\varphi)(D_t\varphi)(D_t\psi)$$
+$$+ \frac{1}{2}\left(I\sin^2\theta + J\cos^2\theta + mk^2 + mh^2(\cos^2\varphi\sin^2\theta + \sin^2\varphi)\right.$$
+$$\left. + mhk\cos\varphi\sin\theta\right)(D_t\psi)^2$$

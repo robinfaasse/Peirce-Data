@@ -1,0 +1,28 @@
+61. ([del]Attributed[/del] [ins]Attributed[/ins] to Euclid in the Paletine Anthology.) A mule and [pn]158[/pn] a donkey were walking along laden with corn. The mule says to the donkey, "If you give me one measure, I should carry twice as much as you: if I gave you one, we should carry equal burdens." Tell me their burdens, O most learned of geometers.
+
+Put [u]m[/u] for the mule's load,
+[u]d[/u] for the donkey's load.
+
+There are two equations, namely:
+[u]m[/u] + 1 = 2([u]d[/u] - 1),
+[u]m[/u] - 1 = [u]d[/u] + 1.
+
+Solve each equation for [u]m[/u] as though [u]d[/u] were known. Thus we get,
+[u]m[/u] = 2([u]d[/u] - 1) - 1 = 2[u]d[/u] - 3
+[u]m[/u] = [u]d[/u] + 1 + 1 = [u]d[/u] + 2
+
+Now we have two expressions [del]both[/del] [ins]each[/ins] equal to [u]m[/u]. Set them equal to one another.
+2[u]d[/u] - 3 = [u]d[/u] + 2.
+
+This gives
+[u]d[/u] = [frac]2 - (-3)[/frac][frac]2 - 1[/frac] = 5.
+
+We substitute the value in the two first equations, which so become
+[u]m[/u] + 1 = 2(5 - 1) = 8
+[u]m[/u] - 1 = 5 + 1 = 6.
+
+Now solving each of these we get
+[u]m[/u] = 8 - 1 = 7.
+[u]m[/u] = 6 - (-1) = 6 + 1 = 7.
+
+The agreement of the two values shows [ins]that[/ins] no mistake has been committed.

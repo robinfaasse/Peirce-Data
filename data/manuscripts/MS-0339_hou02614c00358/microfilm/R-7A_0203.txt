@@ -1,0 +1,30 @@
+[marginalia][pn][Follows 43][/pn] [pn]46r[/pn][/marginalia]
+
+& show there [del]ought to[/del] [ins]be[/ins] a Middle Voice
+
+[fig]Square with diagonal lines[/fig] [del]v[/del] [ins]v[/ins] [del]is itself[/del]
+
+[del]A₁ = v
+A₂ = v[/del]
+
+[del]ΣᵢAᵢ = ΣᵢAᵢ . v = v . ΣᵢAᵢ[/del]
+
+[del](v - 1) x = 0[/del]
+[del](v + (v-1) [del]x[/del] [ins]y[/ins] =[/del]
+
+[del]v =[/del] [ins]v[/ins] , [del]a[/del] [ins]x[/ins]
+
+If [del]v[/del] [ins]a[/ins] = [del]v[/del] [ins]v[/ins] , [del]a[/del] [ins]x[/ins]
+
+Then 1st [del]a = a[/del] [ins]a_x = a_x[/ins] [del]v[/del] [ins]v[/ins]_x (x - 1) + x_v = v_x
+And hence
+[del]x_v = x_v v_x[/del]
+[del]x_v (1 - v_x) = 0[/del]
+[del]x_v (1 - v) [del]v[/del] = 0[/del]
+[del]x (1 - v) = 0[/del]
+[del]x_v (1 - v_x) = 0[/del]
+
+That embodies the whole condition [del]a law of this[/del]
+symbol. That is that (x - 1) v_x + x_v = x
+
+[del]v / 1 - v[/del] ( v - v_x / 1 - v ) = 0 or v_x v (1 - v_x) = 0

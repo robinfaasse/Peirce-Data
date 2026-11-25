@@ -1,0 +1,29 @@
+[pn]4 Colors[/pn] [pn]7[/pn]
+That principle we must write
+[u]A[/u] - [u]B[/u] = [u]l[/u] ([u]B[/u] - [u]E[/u]).
+It follows that we must denote the third region confine to [u]r[/u] and [u]l[/u]
+at [u]B[/u] by -[u]l[/u] [u]r[/u], where I put an obelus over a letter to denote its
+reciprocal. For, calling this region, for a moment, [u]x[/u], we have
+[u]E[/u] - [u]B[/u] = [u]x[/u] ([u]B[/u] - [u]C[/u])
+But we have just seen that
+[u]E[/u] - [u]B[/u] = [u]l[/u] ([u]B[/u] - [u]A[/u])
+and that [u]B[/u] - [u]A[/u] = [u]r[/u] ([u]C[/u] - [u]B[/u]).
+Consequently,
+[u]E[/u] - [u]B[/u] = -[u]l[/u] [u]r[/u] ([u]B[/u] - [u]C[/u])
+or [u]x[/u] = -[u]l[/u] [u]r[/u].
+On the same principle the succession of regions confine to [u]r[/u]
+is
+[u]l[/u]
+-[u]l[/u] [u]r[/u]
+-([u]l[/u] [u]r[/u])' [u]r[/u] = [u]r[/u] [u]l[/u] [u]r[/u]
+-([u]r[/u] [u]l[/u] [u]r[/u])' [u]r[/u] = -[u]r[/u] [u]l[/u] [u]r[/u]²
+-([u]r[/u] [u]l[/u] [u]r[/u]²)' [u]r[/u] = [u]r[/u]² [u]l[/u] [u]r[/u]²
+-([u]r[/u]² [u]l[/u] [u]r[/u]²)' [u]r[/u] = -[u]r[/u]² [u]l[/u] [u]r[/u]³
+etc.
+So the succession of regions confine to [u]r[/u] [u]l[/u] [u]r[/u], for example, will be
+[u]r[/u]
+-[u]r[/u] ([u]r[/u] [u]l[/u] [u]r[/u])' = -[u]l[/u] [u]r[/u]
+-([u]l[/u] [u]r[/u])' ([u]r[/u] [u]l[/u] [u]r[/u])' = [u]r[/u] [u]l[/u] [u]r[/u] [u]l[/u] [u]r[/u]
+-([u]r[/u] [u]l[/u] [u]r[/u] [u]l[/u] [u]r[/u])' ([u]r[/u] [u]l[/u] [u]r[/u])' = -[u]r[/u] [u]l[/u] [u]r[/u] [u]l[/u]² [u]r[/u]
+-([u]r[/u] [u]l[/u] [u]r[/u] [u]l[/u]² [u]r[/u])' ([u]r[/u] [u]l[/u] [u]r[/u])' = [u]r[/u] [u]l[/u]² [u]r[/u] [u]l[/u]² [u]r[/u]
+etc.

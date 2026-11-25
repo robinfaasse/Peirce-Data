@@ -1,0 +1,56 @@
+or electrical action of a particle of matter, [del]being pro-[/del]
+[del]portional to the body or force[/del] is, therefore, inversely pro-
+portional to the square of the distance from the particle.
+It is attraction in the case of gravitation, or between el-
+ectricities of opposite kinds; & repulsion between electri-
+cities of the same kind.
+
+[u]Attraction of an Infinite Lamina[/u]
+
+§108 $\Omega = Ax + B$
+$D_{z}^{2}\Omega = 0$
+$D_{y}^{2}\Omega = 0$
+$\therefore \nabla_{2}\Omega = D_{x}^{2}\Omega = 0$
+$D_{x}\Omega = A$
+$\Omega = Ax + B$
+
+§109 [u]Level Surfaces[/u]
+
+§110 The force of the lamina's attraction is constant upon
+all external points.
+This would be a more remarkable result if $B$
+were not $\infty$
+
+§111 $D_{x}\Omega = -2\partial aK$
+
+[fig]Right triangle with vertices O, H, P and variable x-xi[/fig]
+
+[fig]Small right triangle with sides s, y and hypotenuse[/fig]
+
+$TT' = \rho d\xi$
+
+$dg = (x-\xi)d\xi\sec^{2}\varphi$
+
+[u]Lecture LXXXI[/u]
+
+To determine the limits of the integration.
+
+[fig]Right triangle with multiple rays from one vertex[/fig]
+
+$\tan\varphi = \frac{OA}{x}$ will vary from zero to
+the point where the tangent = $\infty$ or from $0$ to $\frac{1}{2}\partial$
+$\eta$ may go all round from $2\partial$ to $0$
+$\xi$ varies from $0$ to $A$ or from $a$ to zero
+
+$D_{x}\Omega = -k\int_{0}^{a}\int_{0}^{2\partial}\int_{0}^{\frac{1}{2}\partial}\sin\varphi$
+
+To perform the integration
+
+$\int_{0}^{\frac{1}{2}\partial}\sin\varphi = \left\{\begin{array}{c} 0 \\ -1 \end{array}\right.$  $\int_{0}^{\frac{1}{2}\partial}\sin\varphi = 1$
+difference $+1$
+
+$\int_{0}^{2\partial} 1 = \left\{\begin{array}{c} 2\partial \\ 0 \end{array}\right.$  $\int_{0}^{2\partial}\int_{0}^{\frac{1}{2}\partial} = 2\partial$
+difference $2\partial$
+
+$\int_{0}^{a} 2\partial = \left\{\begin{array}{c} 2\partial a \\ 0 \end{array}\right.$  $-k\int_{0}^{a}\int_{0}^{2\partial}\int_{0}^{\frac{1}{2}\partial} = -2\partial aK$
+difference $2\partial a$

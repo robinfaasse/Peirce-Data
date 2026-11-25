@@ -1,0 +1,33 @@
+[marginalia]
+Series
+12
+[/marginalia]
+
+[pn]3[/pn]., When a fraction is inserted in a space bounded on the left
+by a fraction, the sign < is [del]to[/del] [ins]to the left of[/ins] be inserted [del]before[/del] [ins]to the left of[/ins] the new fraction;
+but when the space is bounded on the left by a sign, this sign is
+to be repeated to the right of the new fraction.
+
+Following this rule, I get the following lines, in each of which I
+put commas to show where the next insertions are [ins]to[/ins] be made:
+
+[del]0[/del]/1 < , 1/1 , < 2/1 , < 3/1 , < 4/1
+
+0/1 = 0/2 < , 1/2 < , 1/1 = 2/2 < , 3/2 < , 2/1 = 4/2 < , 5/2 < 3/1
+
+0/1 = 0/3 , = 0/2 < , 1/3 < 1/2 < , 2/3 < , 1/1 = 3/3 = 2/2 < , 4/3 < 2/1 = 4/2 < , 5/3 < 3/1
+
+0/1 = 0/3 = 0/4 = 0/2 < , 1/4 < 1/3 < , 1/2 = 2/4 < , 2/3 < 3/4 < , 1/1 = 3/3 = 2/2 = 4/4 < , 4/3 < 5/4 < , 2/1 = 4/2 < , 5/3 < 3/1
+
+0/1 = 0/3 = 0/5 , = 0/4 = 0/2 < , 1/5 < 1/4 < , 1/3 < , 2/5 < 1/2 = 2/4 < , 3/5 < 2/3 < , 3/4 < 4/5 < , 1/1 = 3/3 = 2/2 = 4/4 = 5/5
+
+0/1 = 0/3 = 0/5 = 0/6 = 0/4 = 0/2 < , 1/6 < 1/5 < , 1/4 < , 1/3 = 2/6 < , 2/5 < 1/2 = 2/4 = 3/6 < , 3/5 < 2/3 = 4/6 < , 3/4 < 4/5 < , 5/6 = 1/1
+
+0/1 = 0/3 = 0/5 = 0/7 , = 0/6 = 0/4 = 0/2 < , 1/7 < 1/6 < , 1/5 < , 2/7 < 1/4 < , 1/3 = 2/6 < , 2/5 < 3/7 < , 1/2 = 2/4 = 3/6 < , 4/7 < 3/5 < 2/3
+
+0/1 = 0/3 = 0/5 = 0/7 = 0/8 = 0/6 = 0/4 = 0/2 < , 1/8 < 1/7 < , 1/6 < , 1/5 < , 2/7 < 1/4 = 2/8 < , 1/3 = 2/6 < , 2/5 < 3/7 < , 3/8 < 1/2
+
+In concluding I give a single specimen of the formulae relating to the Ns:
+
+N2[sup]m[/sup]·N(2[sup]m[/sup]+l) = N(2[sup]m[/sup]+2[sup]m+1[/sup]+l)+N(2[sup]2m+1[/sup]+2[sup]m+1[/sup]-l-1),
+where l < 2[sup]m[/sup].

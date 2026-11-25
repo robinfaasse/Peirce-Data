@@ -1,0 +1,11 @@
+[u]Report on Morrison's Bridge.[/u]
+
+[del]= 2 { [u]\Delta u_{1}[/u] \cdot \delta [u]\Delta u_{2}[/u] / \Delta^{2} v - [u]\Delta^{2} u_{2}[/u] / \Delta^{3} v \cdot \delta [u]u_{2}[/u] + \sum ( [u]\Delta^{4} u_{i-2}[/u] / \Delta^{4} v \cdot \delta [u]u_{i}[/u] \cdot \Delta v ) }[/del]
+
+That is
+
+[u]\delta[/u] [u]\int[/u]_{[u]u_{1}[/u]}^{[u]u_{2}[/u]} ([u]d^{2} u[/u] / [u]d v^{2}[/u])^{2} [u]d v[/u] = ([u]d^{2} u[/u] / [u]d v^{2}[/u] \cdot \delta [u]d u[/u] / [u]d v[/u])_{[u]2[/u]} - ([u]d^{3} u[/u] / [u]d v^{3}[/u])_{[u]2[/u]} \delta [u]u_{2}[/u] + [u]\int[/u]_{[u]u_{1}[/u]}^{[u]u_{2}[/u]} [u]d^{4} u[/u] / [u]d v^{4}[/u] \delta [u]u[/u] \cdot [u]d v[/u]
+- ([u]d^{2} u[/u] / [u]d v^{2}[/u] \cdot \delta [u]d u[/u] / [u]d v[/u])_{[u]1[/u]} + ([u]d^{3} u[/u] / [u]d v^{3}[/u])_{[u]1[/u]} \delta [u]u_{1}[/u] .
+
+Equating to zero the variations relatively to [u]\delta x[/u] and [u]\delta y[/u], we have, as the
+[del]main[/del] conditions of the equilibrium of the suspending cable

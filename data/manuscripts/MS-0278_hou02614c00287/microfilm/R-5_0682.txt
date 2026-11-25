@@ -1,0 +1,90 @@
+[del]l+b[/del]
+$(l+b)_1 w = \sum_j (l_j w) \cdot [b_j (w)]$
+$(l+b) [del]p[/del] = \sum_u (l_u u) \cdot [\sum_p (p \bar{u}) \cdot ((p+b)_1 w)]$
+
+[del]$a_{AA} A:A + a$[/del]
+$[a_{AA} A:A + a_{AB} A:B + \text{etc}] \dagger [b_{AA} A:A + b_{AB} A:B]$
+$= \Pi_i [a_{Ai} A:i + a_{Ai} A:i + b_{in} i:A$
+$[a_{AA} + b_{AA}] \cdot [a_{AB} + b_{BA}] \cdot [a_{AC} + b_{CA}] A:A$
+$+ [a_{AA} + b_{AB}] \cdot [a_{AB} + b_{BB}] \cdot [a_{AC} + b_{CB}] A:B$
+$+ \text{etc}$
+
+$\{(T \cdot z)(T \cdot \bar{z})\}_{ij} = \sum_k (T \cdot z)_{ik} \cdot (T \cdot \bar{z})_{kj}$
+$= \sum_k T_{ik} \cdot T_{kj} z_{ik} \cdot \bar{z}_{kj}$
+
+[marginalia]
+$11 \cdot 2 \cdot 4$
+$12 \cdot 2 \cdot 4 \cdot 5$
+$13 \cdot 4 \cdot 5$
+$14 \cdot 2 \cdot 5$
+$15$
+$16$ [del]X[/del]
+$17 \cdot 2$
+$18 \cdot 2$
+[/marginalia]
+
+[fig]Grid with numbers 1 to 8 and letters S, O[/fig]
+$x+1$
+
+If [del]being neither i nor j[/del] [ins]is[/ins] [ins]and is[/ins] whatever is [del]written[/del] [del]z[/del] [ins]z'd[/ins] by $i$ is also $z$ or $j$ then $\{(T \cdot z)(T \cdot \bar{z})\}_{ij} = 0$
+
+If $i = j$ then the question is
+is there a $k$ such that $i$ is $z$ to $k$
+but $k$ is $\bar{z}$ to $i$
+That is [ins]are[/ins] the column $i$ and row $i$ [del]is[/del] exactly alike
+[del]That is whatever is z of i z'd by i and vice versa[/del]
+If so $(T \cdot z)(T \cdot \bar{z})_{ii} = 0$ if not $= \infty$
+
+$2$ is $u$ to $1$ $\bar{u}$ to $1$
+
+[marginalia]
+$11 \cdot 4$
+$12 \cdot 2 \cdot 5$
+$13 \cdot 4$ X
+$14 \cdot 2 \cdot 4$
+$15 \cdot 4 \cdot 5$
+[/marginalia]
+
+[fig]Grid with numbers 1 to 5 and letters S, O, X[/fig]
+
+[fig]Grid with lines[/fig]
+
+[fig]Geometric diagram with lines[/fig]
+
+If $i \neq j$ then question is
+are col row $i$ and column $j$ exactly alike
+
+If $i$ is $z$ to $j$
+[del]then[/del] $i$ is $(T \cdot z)(T \cdot \bar{z})$ to $j$
+
+$\frac{\bar{u}}{u} \text{ to } 2$
+$1$ is $u$ to $1$ $\bar{u}$ to $2$
+$2$ is $u$ to $2$ $\bar{u}$ to $1$
+$\{\frac{\bar{u}}{u} \text{ to } 1$
+
+$1$ [del]is u to 2[/del] [ins]$\bar{u}$ to 2[/ins] $u$ to $2$
+$2$ $\bar{u}$ to $1$ $u$ to $1$
+
+[fig]Directed graph with nodes 1, 2, 3, 4[/fig]
+
+$B B'$
+
+$1$ is $u$ to $2$
+$2$
+$3$ is neither to $1$
+
+[fig]Directed graph with nodes 1, 2, 3[/fig]
+
+$u$ to $1$
+[fig]Circular directed graph with nodes 1, 2, 3[/fig]
+
+not $u$ to $3$
+$\bar{u}_1 \bar{u}_1$ $2$
+$\bar{u}_2 \bar{u}_2$ $3$
+$\bar{u}_3 \bar{u}_3$ $1$
+
+[fig]Geometric diagram with nodes 1 to 5[/fig]
+
+[fig]Square diagram[/fig]
+
+[fig]Directed graph with nodes 1, 2, 3, 4[/fig]

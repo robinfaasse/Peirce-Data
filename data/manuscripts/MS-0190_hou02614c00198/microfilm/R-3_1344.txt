@@ -1,0 +1,39 @@
+[pn]Arithmetic Integers Divisibility 2[/pn]
+
+<u>Divisor 7.</u> Beginning at the right hand of the [del]augend[/del] number separate it
+into periods of six figures. Write the different periods [ins]are[/ins] under [del]another[/del] [ins]each other[/ins] and
+add; and repeat the operation until there [del]is[/del] [ins]are[/ins] no longer more than one
+period. Separate the six figures into two periods of three figures
+each, and subtract the left hand period from the right hand [ins]period[/ins] adding
+7 to the first figure of the latter if necessary. Having thus obtained a
+number less than 1000, multiply the hundreds by 2 and the tens by
+3, and add the products to the units. Then the remainder of
+the original number after division by 7 will equal that of the
+sum last obtained.
+
+Example. Let the number be 998271101899. We proceed as follows:
+$$\begin{array}{r}
+998271 \\
+101899 \\
+\hline
+1100170
+\end{array}$$
+$$\begin{array}{r}
+100170 \\
+1 \\
+\hline
+100171
+\end{array}$$
+$$\begin{array}{r}
+171 \\
+100 \\
+\hline
+071
+\end{array}$$
+$$\begin{array}{r}
+0 \times 2 = 0 \\
+7 \times 3 = \frac{21}{21} \\
+\frac{1}{22}
+\end{array}$$
+[del]This leaves a rema[/del]
+$\frac{22}{7}$ which leaves remainder 1.

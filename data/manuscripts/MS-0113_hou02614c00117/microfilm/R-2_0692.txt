@@ -1,0 +1,28 @@
+[pn]113[/pn]
+
+[u]Icosahedron[/u]
+
+[marginalia]
+[del]+
+-
++
+-
++
+-[/del]
+[del]1
+2
+3
+4
+5[/del]
+[/marginalia]
+
+[fig]Perspective drawing of an icosahedron with labeled vertices[/fig]
+
+$$\begin{array}{ll}
+e = 0.618034 & \eta = 1.618034 \\
+\frac{1}{\eta} = e = [del]\eta -[/del] 1 + \eta & \frac{1}{e} = \eta = 1 + e \\
+e^{2} = 2 - \eta = 1 - e & \eta^{2} = 2 + e = 1 + \eta \\
+e^{3} = -3 + 2\eta = -1 + 2e & \eta^{3} = 3 + 2e = 1 + 2\eta \\
+e^{4} = 5 - 3\eta = 2 - 3e & \eta^{4} = 5 + 3e = 2 + 3\eta \\
+e^{5} = -8 + 5\eta = -3 + 5e & \eta^{5} = 8 + 5e = 3 + 5\eta
+\end{array}$$

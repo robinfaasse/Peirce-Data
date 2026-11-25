@@ -1,0 +1,22 @@
+Logic
+III
+83
+
+But in (27) substituting $\overline{y}$ for $y$, we find
+     If $x$, then if $\overline{y}$, [del]the [ins]necessarily[/ins] [del]y[/del][/del] necessarily $x \cdot \overline{y}$
+Syllogizing the last two,
+     If $x \cdot \overline{y} \cdot z$, then if $x$, necessarily if $\overline{y}$ then $y$.
+But in (2) putting a false proposition for $z$ and $y$ for $x$.
+     [ins]necessarily either[/ins]
+     [del]Either[/del] $\overline{y}$ or $y$.
+Hence, by the last two,
+     If $x \cdot \overline{y} \cdot z$, then if $x$, necessarily $y$.
+But in ([del]26[/del]) substituting $x \cdot \overline{y}$ [del]$x$[/del] for $x$, and $z$ for $y$, we find
+     If $x \cdot \overline{y} \cdot z$ then [u]necessarily[/u]
+And in (27) substituting $y$ for $x$, and $z$ for $y$, we find
+     If $y$, then if $z$, necessarily $y \cdot z$
+By these last three,
+(46)      If $x \cdot \overline{y} \cdot z$, then if $x$, necessarily $y \cdot z$
+But in (2) substituting a false proposition for $z$ and $x \cdot \overline{y} \cdot z$ for $x$
+we find
+(47)           Necessarily either $x \cdot \overline{y} \cdot z$ or $\overline{x \cdot \overline{y} \cdot z}$.

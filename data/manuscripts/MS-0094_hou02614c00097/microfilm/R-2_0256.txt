@@ -1,0 +1,26 @@
+[pn]2[/pn] [pn]248[/pn]
+
+put in place of $x$ and $y$. But if they are all considered as the
+same as
+$$\frac{x}{x+y} A + \frac{y}{x+y} B$$
+with the denominator [ins]+[/ins] omitted, then, writing $\xi$ for $\frac{x}{x+y}$, the
+general expression becomes
+$$\xi A + (1-\xi) B$$
+and we see that the variation is only singly-continuous, as it
+should be to represent [del]all[/del] the points of a ray and no others.
+$\S$ . If a syzygy of [del]any[/del] two points with variable multipliers
+thus represent the points of a ray, it necessarily follows
+that a syzygy of three points [del]as[/del] with variable multipliers
+[del]represents[/del] the points in a plane and no others. For
+consider
+$$2 A + 3 B + 5 C$$
+This is the same as $2 A + [3 B + 5 C]$. Now $3 B + 5 C$ is a point
+on the [del]ray[/del] [ins]$\{$[/ins]$BC$[ins]$\}$[/ins], and by varying the $3$ and $5$ may be
+any such point and no other. Hence $2 A + [3 B + 5 C]$ is any
+point in any ray through $A$ cutting [del]a so[/del] the ray [ins]$\{$[/ins]$BC$[ins]$\}$[/ins],
+this is simply any point in the plane $(ABC)$. Of course, it
+is understood that $A$ is not itself expressible as a syzygy
+of $B$ and $C$.
+
+In like manner a syzygy of any four points [ins]not coplanar[/ins] [del]as three co-
+ordinate[/del] precisely suffices to name every point in space.

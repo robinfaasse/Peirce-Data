@@ -1,0 +1,50 @@
+```
+[fig]Graph with binary sequences plotted on grid[/fig]
+
+[marginalia]
+[u]Correct[/u]
+[/marginalia]
+
+[fig]Binary sequence calculations and divisions[/fig]
+
+01
+00110010
+00110011
+
+0010101
+0011
+
+[fig]Binary division tree[/fig]
+
+13 x 29
+2, 3, 61
+3, 7, 47
+
+233
+377
+610
+987
+1597
+2584
+4181
+
+377
+
+2^3 = 8
+3 x 7 = 21
+2 x 17 = 34
+3 x 11 = 33
+
+2^4 3^2 = 144
+2^3 3^3 = 216
+
+1024
+2048
+4096
+
+4181
+4096
+85
+21/85
+1/4
+```

@@ -1,0 +1,28 @@
+[pn]74[/pn] PLANE GEOMETRY. [CH. XIII. § 256.
+
+[u]Theorem of Pythagoras.[/u]
+
+b. Again, in the equal triangles [u]DIO[/u], [u]TIB[/u], we have
+[u]DO[/u] = [u]TB[/u];
+whence
+[u]HI[/u] = [u]CO[/u] = [u]CD[/u] + [u]DO[/u],
+and also
+[u]HI[/u] = [u]AT[/u] = [u]AB[/u] - [u]BT[/u] = [u]AB[/u] - [u]DO[/u];
+the sum of which is
+2 [u]HI[/u] = [u]AB[/u] + [u]CD[/u],
+or
+[u]HI[/u] = [u]1/2[/u] ([u]AB[/u] + [u]CD[/u]).
+
+255. [u]Corollary.[/u] The area of a trapezoid is the product of its altitude by the line joining the middle points of the sides which are not parallel.
+
+256. [u]Theorem.[/u] The square described upon the hypothenuse of a right triangle is equivalent to the sum of the squares described upon the other two sides.
+
+[u]Proof.[/u] Let squares be constructed upon the three sides of the right triangle [u]ABC[/u] (fig. 130), right-angled at [u]B[/u]. From [u]B[/u] let fall upon [u]AC[/u] the perpendicular [u]BDE[/u], and the square [u]ACSR[/u] is divided into the two rectangles [u]ADER[/u] and [u]DCES[/u].
+
+Now the area of [u]ADER[/u] is, by § 242, [u]AD[/u] [del]X[/del] [ins]x[/ins] [u]AR[/u] = [u]AD[/u] [del]X[/del] [ins]x[/ins] [u]AC[/u]; and the area of the square [u]ABNM[/u] is, by § 243, [u]AB[/u]².
+
+But, by § 184,
+[u]AD[/u] : [u]AB[/u] = [u]AB[/u] : [u]AC[/u];
+or multiplying extremes and means,
+[u]AB[/u]² = [u]AD[/u] [del]X[/del] [ins]x[/ins] [u]AC[/u];
+that is, the square [u]ABNM[/u] is equivalent to the rectangle [u]ADER[/u].

@@ -1,0 +1,36 @@
+[pn](11[/pn]
+
+[del]D[/del] [ins][u]D[/u][/ins] [del]P[/del] [ins][u]P[/u][/ins] = [del]r D r P[/del] [ins][u]r D r P[/u][/ins] - [del]P[/del] [ins][u]P[/u][/ins]
+[del]r[/del] [ins][u]r[/u][/ins] [del]r[/del] [ins][u]r[/u][/ins] [del]r²[/del] [ins][u]r²[/u][/ins]
+
+[del]1[/del] [ins][u]1[/u][/ins] [del]D r[/del] [ins][u]D r[/u][/ins] = [del]D r[/del] [ins][u]D r[/u][/ins] [del]P[/del] [ins][u]P[/u][/ins] + [del]P[/del] [ins][u]P[/u][/ins]
+[del]r[/del] [ins][u]r[/u][/ins] [del]r[/del] [ins][u]r[/u][/ins] [del]r²[/del] [ins][u]r²[/u][/ins]
+
+[del]D P =[/del] D r Q = r D Q + Q
+r D Q = D r Q - Q
+[del]r D Q =[/del]
+
+Call [del]P[/del] [ins][u]P[/u][/ins] = Q (not the Q of page 10)
+[del]r[/del] [ins][u]r[/u][/ins]
+
+[del]co =[/del] [del]1[/del] [ins][u]1[/u][/ins] [del]D r P[/del] [ins][u]D r P[/u][/ins] [del]G int[/del] [ins][u]G int[/u][/ins] = ([del]D r Q[/del] [ins][u]D r Q[/u][/ins] + [del]Q[/del] [ins][u]Q[/u][/ins]) [del]G int[/del] [ins][u]G int[/u][/ins]
+[del]r[/del] [ins][u]r[/u][/ins] [del]r[/del] [ins][u]r[/u][/ins]
+
+q = - D θ q
+
+[del]lim[/del] [del]1[/del] [ins][u]1[/u][/ins] - [del]i n[/del] [ins][u]i n[/u][/ins] D θ + [del]1[/del] [ins][u]1[/u][/ins] D θ³ + [del]1[/del] [ins][u]1[/u][/ins] D r D θ + D r² D θ [del]+[/del] [ins]-[/ins] [del]1[/del] [ins][u]1[/u][/ins] D θ
+[del]r[/del] [ins][u]r[/u][/ins] [del]μ'[/del] [ins][u]μ'[/u][/ins] [del]r²[/del] [ins][u]r²[/u][/ins] [del]r[/del] [ins][u]r[/u][/ins] [del]r²[/del] [ins][u]r²[/u][/ins]
+
++ [del]3[/del] [ins][u]3[/u][/ins] D r D θ + [del]2[/del] [ins][u]2[/u][/ins] = 0
+[del]r[/del] [ins][u]r[/u][/ins] [del]r²[/del] [ins][u]r²[/u][/ins]
+
+- i n [del]r²[/del] [ins][u]r²[/u][/ins] D θ + D θ³ + r² D r² D θ [del]+[/del] [ins]-[/ins] D θ + 3 r D r D θ + 2 = 0
+[del]μ'[/del] [ins][u]μ'[/u][/ins]
+
+r² D² Q = r (r D) D Q
+= r (D r - 1) D Q
+= (r D . r D - r D) Q
+= {(D r - 1) (D r - 1) - D r + 1} Q
+= D r D r - 3 D r + 2
+= D (D r - 1) r - 3 D r + 2
+= D² r² - 4 D r + 2

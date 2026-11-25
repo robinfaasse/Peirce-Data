@@ -1,0 +1,38 @@
+$$
+\begin{aligned}
+i &= A_{1} (I:I) + A_{2} (I:J) + A_{3} (I:K) + \text{etc} \\
+&+ B_{1} (J:I) + B_{2} (J:J) + B_{3} (J:K) + \text{etc} \\
+&+ C_{1} (K:I) + C_{2} (K:J) + C_{3} (K:K) + \text{etc} \\
+&+ \text{etc}
+\end{aligned}
+$$
+where $(I:I)$, $(I:J)$, etc. are new units such
+that in general
+$$
+\begin{aligned}
+(I:J) J &= I \quad & (I:J) (J:K) &= (I:K) \\
+\text{and} \quad (I:J) K &= 0 \quad & (I:J) (K:L) &= 0
+\end{aligned}
+$$
+In this way it appears that [del]the[/del] [ins]every[/ins] units of every
+algebra may be regarded in at least one way
+as a [ins]linear[/ins] [del]polynomial[/del] in [del]these[/del] units following these
+laws.
+
+This proposition is equally true whether
+the ordinary imaginary be or be not regarded
+as a scalar.
+
+In order to reduce ordinary double algebra
+to this form (not regarding the imaginary as a
+scalar) we put
+$$
+\begin{aligned}
+[del]1 = A:A + B:B[/del] \quad 1 &= X:X + Y:Y \\
+[del]\sqrt{-1} = A:B - B:[/del] \quad \sqrt{-1} &= X:Y - Y:X
+\end{aligned}
+$$
+This representation is [del]exceedingly[/del] closely al-
+lied to the geometric representation of ima-
+ginaries, for it shows that the multiplication
+by $\sqrt{-1}$ converts the [del]the[/del] ordinate into an

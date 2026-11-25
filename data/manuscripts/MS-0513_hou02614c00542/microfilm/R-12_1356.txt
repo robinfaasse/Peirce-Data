@@ -1,0 +1,21 @@
+[pn]FL[/pn] [pn]89[/pn]
+
+These two propositions are true, notwithstanding their last quantifier
+is $\Pi$. Their negatives are, therefore, false, these false propositions
+being $\Sigma_{\alpha} \Pi_{\beta} \Sigma_{i} \ q_{\alpha i} \cdot q_{\beta i} + \bar{q}_{\alpha i} \cdot \bar{q}_{\beta i} = \Sigma_{\alpha} \Pi_{\beta} \Sigma_{i} \ (q_{\alpha i} + \bar{q}_{\beta i}) \cdot (\bar{q}_{\alpha i} + q_{\beta i})$
+$\Sigma_{i} \Pi_{j} \Sigma_{\alpha} \ q_{\alpha i} \cdot \bar{q}_{\alpha j} + \bar{q}_{\alpha i} \cdot q_{\alpha j} = \Sigma_{i} \Pi_{j} \Sigma_{\alpha} \ (q_{\alpha i} + q_{\alpha j}) \cdot (\bar{q}_{\alpha i} + \bar{q}_{\alpha j})$
+But this last proposition involves a contradiction, for identifying $j$
+with $i$ it becomes
+$\Sigma_{i} \Sigma_{\alpha} \ q_{\alpha i} \cdot \bar{q}_{\alpha i}$
+Hence, it is true also that
+$\Pi_{\alpha} \Sigma_{\beta} \Pi_{i} \ (q_{\alpha i} + \bar{q}_{\beta i}) \cdot (\bar{q}_{\alpha i} + q_{\beta i})$
+or $\Pi_{\alpha} \Sigma_{\beta} \Pi_{i} \ q_{\alpha i} \cdot q_{\beta i} + \bar{q}_{\alpha i} \cdot \bar{q}_{\beta i}$ .
+
+Hence, we might lay down the rule that if the last quantifier of
+a character is $\Sigma$ the proposition is true unless a contradiction is
+involved, but if the last quantifier of a character is $\Pi$ the propo-
+sition is true unless its denial involves a contradiction. If, then,
+it were objected that this would exclude $\Pi_{\alpha} \Sigma_{i} \ q_{\alpha i}$ as false, the
+answer would have to be that it [u]is[/u] false, since impossible characters
+exist. But this will not do; for the proposition is not false of ordinary
+characters, but only of those which

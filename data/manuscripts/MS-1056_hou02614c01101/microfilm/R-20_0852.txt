@@ -1,0 +1,30 @@
+And if, not only,
+$$\sigma_i = (-)^{i+1} \sigma_{-i}$$
+but also
+$$\sigma_{i-1} = (-)^i \sigma_{1-i}$$
+Then the equation just got reduces to
+$$\sigma_{i-2} = (-)^{i-1} \sigma_{2-i}$$
+Consequently if [del]an[/del] equations of this form hold for two consecutive values of $i$ there is a similar equation for every value of $i$ further removed from zero. But from (1)
+$$\sigma_0 = (-)^1 \sigma_0$$
+and putting $m=0$ in (3b)
+$$\sigma_1 = (-)^2 \sigma_{-1}$$
+So that we have in general
+$$(4) \quad \sigma_m + (-)^m \sigma_{-m} = 0$$
+
+We may write (3b) in the form
+$$\Delta \sigma_m = \sigma_{m-1}$$
+$$(5) \quad \Delta^p \sigma_m = \sigma_{m-p}$$
+
+Thence by (3b) we have
+$$3^{\frac{d}{dm}} \sigma_m = (1+\Delta) \sigma_m = \sigma_{m+1} = \Delta^{-1} \sigma_m$$
+$$(6) \quad (1+\Delta)^p \sigma_m = \Delta^{-p} \sigma_m$$
+
+Table of $\sigma_m$
+[fig]Table of values for m, sigma_m, and delta_m[/fig]
+$$\begin{array}{c|c|c|c|c|c|c|c|c|c}
+m & 0 & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\
+\hline
+\sigma_m & 0 & 1 & 1 & 2 & 3 & 5 & 8 & 13 & 21 \\
+\hline
+\Delta \sigma_m & 0 & 1 & -1 & 2 & -3 & 5 & -8 & 13 & -21
+\end{array}$$

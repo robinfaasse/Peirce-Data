@@ -1,0 +1,33 @@
+[pn]343[/pn]
+
+[del]Theorem[/del]
+
+[u]Definition 192[/u]. A right triangle is a triangle having a
+right angle. The side opposite the right angle is called the
+hypothenuse, the others the legs.
+
+Theorem 50. The square on the hypothenuse of a right
+triangle is equal to the sum of the squares on the legs.
+
+[u]Demonstration[/u]. Let ABC be a [del]right[/del] triangle right angled at
+[fig]Right triangle ABC with altitude BP[/fig] B. [del]For[/del] Let {PB} be a ray through [B]
+perpendicular to {AC} and let [P] be
+the intersection of the two rays.
+Then the triangles APB and ABC are similar
+For they have the angle A in common, and [del]it[/del] $\angle$APB = $\angle$ABC for
+both are right angles. The third angle being two right angles less the sum of
+the others is equal in the two triangles. But triangles whose angles are [ins]all[/ins] equal
+[del]are[/del] similar. For the similar reasons the triangles ABC and BPC are similar.
+We have then
+|AP : |AB = |AB : |AC
+|PC : |BC = |BC : |AC
+
+Multiplying means and extremes
+|AP x |AC = (|AB)$^{2}$
+|PC x |AC = (|BC)$^{2}$
+
+Adding
+(|AC)$^{2}$ = (|AP)$^{2}$ + (|BC)$^{2}$
+
+Now the square [del]on a[/del] line is proportional to the square
+of the line. Hence, etc.

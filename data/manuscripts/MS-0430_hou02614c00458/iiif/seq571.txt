@@ -1,0 +1,9 @@
+Logic
+[u]III[/u]
+24
+
+I will next prove that if an unenclosed part of a graph is iterated within one enclosure, the [del]iterated[/del] inner occurrence of it can be erased. That is, if the graph AB(CA) can be written, so can AB(C). For the former asserts that A is V, B is V, but that not both C and A are V. It follows that C is not V. Now all that the second graph asserts is that A is V, B is V, and C is not V. Q.E.D.
+
+I will next prove that if an unenclosed part of a graph is iterated under any odd number of enclosures, the inner occurrence of it can be erased. For we have just seen that an unenclosed part of a graph can be iterated within any even number of enclosures. It can therefore be iterated just outside the inmost enclosure of the iteration within odd enclosures; and then by Rule III applied to what [ins]has[/ins] [del]was[/del] just been proved, the inmost iteration can be erased, after which by Rules I and III, the evenly enclosed occurrence can be erased.
+
+Rule III now extends what has just been proved, so that if

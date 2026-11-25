@@ -1,0 +1,19 @@
+else two opposite sides are in one ray. (Exercise 103. To prove this.)
+If the [del]s[/del] successive vertices do lie alternately on two rays, take
+the intersection of these rays as the centre of projection. Call
+the first vertex [del]$[C_0]$[/del] [ins]$[C_0]$[/ins], the second $[D_0]$, the third $[C_{-p}]$, the
+fourth $[D_{-p}]$. That is, we [del]consider[/del] assume an [ins]as yet[/ins] unknown trace
+which makes $[D_q]$ the $q^{\text{th}}$ delineation of $[D_0]$, while $[C_0]$
+is the $p^{\text{th}}$ delineation of $[C_{-p}]$. This [del]is[/del] [ins]will[/ins] always [del]possible[/del]
+[del]and leaves it open and to give any values we like to $p$[/del] [ins]and we may make the $p$[/ins]
+[del]will call the fifth vertex $[C_q]$[/del]
+
+[del]le[/del] the case however the trace be drawn. We will put the inter-
+section of the $1^{\text{st}}$ and $4^{\text{th}}$ sides on the trace. Hence since the
+first side is $\{C_0 D_0\}$, and one vertex of the fourth side is $[D_q]$
+the fifth vertex must be called $[C_q]$. We will also [del]put the[/del] [ins]make the[/ins]
+[del]intersecti[/del] trace pass through the intersection of the $2^{\text{nd}}$ and $5^{\text{th}}$
+sides. Now since the second is $\{C_{-p} D_0\}$ and since one
+vertex of the $5^{\text{th}}$ side is $[C_q]$, it follows that the sixth vertex
+must be $[D_{p+q}]$. Then since the third side is $\{C_{-p} D_q\}$ while
+the sixth is $\{C_0 D_{p+q}\}$, they intersect on the same trace. Q.E.D.

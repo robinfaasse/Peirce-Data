@@ -1,0 +1,21 @@
+[pn]Existential Graphs.[/pn] [pn]Ms 483[/pn]
+
+[u]Terminology of Logical Graphs.[/u]
+
+A [u]graph of lowest dimensionality[/u] is a diagram, or part of a diagram, composed of at least one [u]spot[/u], and perhaps also of [u]bonds[/u] and [u]circles[/u]. A graph need not be all connected into one piece.
+
+A [u]spot[/u] is a part of a diagram treated as a point, yet having distinguishable [u]sides[/u] and also a [u]quality[/u] which makes it like or unlike any other spot. But no relations between the qualities other than that of being alike or unlike are imaged in the graph.
+
+A [u]bond[/u] is a simple line connecting two spots and thus having precisely two ends and no more, and no furcations or branchings.
+
+A [u]circle[/u] is an endless line [del]containing[/del] [ins]enclosing[/ins] a graph. An [u]enclosure[/u] is a circle with its contents. A graph is said to be [u]encircled by[/u] a given circle when it alone is contained in that circle; it is said to be [u]enclosed[/u] in the circle when it is contained within that circle.
+
+An [u]element[/u] of a graph is a spot, bond, or circle forming part of the graph.
+
+A [u]node[/u] is a spot or enclosure not itself enclosed. We may consider the nodes of the graph and the nodes of each enclosure. [del]The second nodes of a graph are the nodes of its nodes, etc.[/del] [ins]The number of [ins]nodes[/ins] [del]nodes[/del] of a graph is its [u]nodality[/u].[/ins]
+
+A graph is said to be [u]oddly[/u] or [u]evenly[/u] [u]enclosed[/u] according as it is enclosed in an odd or even number of circles. [ins]The number of circles enclosing a part of a graph is its [u]degree of enclosure[/u].[/ins]
+
+The [u]chorisis[/u] of a graph is the number of separate pieces, each enclosure being considered as one piece or part of a piece.
+
+The [u]cyclosis[/u] of a graph is the number of bonds which need to be cut to prevent their forming any ring, continuity being assumed through each node, and each enclosure being treated

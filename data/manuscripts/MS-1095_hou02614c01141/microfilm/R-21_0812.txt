@@ -1,0 +1,19 @@
+$s_1, s_2$, the instantaneous displacements of the knife-edges from the positions of repose due to the bending of the supports.
+$t$, the time.
+
+Then, as shown Coast Survey Report for [date]1881[/date], p. 428, the kinetic energy of the pendulums is
+
+$$\frac{1}{2} M_1 l_1 h_1 (D_t \varphi_1)^2 + M_1 h_1 \cos \varphi_1 . D_t \varphi_1 . D_t s_1 + \frac{1}{2} M_1 (D_t s_1)^2$$
+$$+ \frac{1}{2} M_2 l_2 h_2 (D_t \varphi_2)^2 + M_2 h_2 \cos \varphi_2 . D_t \varphi_2 . D_t s_2 + \frac{1}{2} M_2 (D_t s_2)^2 .$$
+
+The stress is
+$$M_1 g h_1 (1 - \cos \varphi_1) + M_2 g h_2 (1 - \cos \varphi_2) + \frac{1}{2} \varepsilon_1 s_1^2 + \frac{1}{2} \varepsilon_2 s_2^2 + \frac{1}{2} \varepsilon_3 (s_1 - s_2)^2 .$$
+
+The simplified Lagrangians are then
+
+$$l_1 D_t^2 \varphi_1 + D_t^2 s_1 = - g \varphi_1$$
+$$l_2 D_t^2 \varphi_2 + D_t^2 s_2 = - g \varphi_2$$
+$$l_1 D_t^2 \varphi_1 + D_t^2 s_1 = [del]\frac{\varepsilon_1 + \varepsilon_3}{M_1}[/del] - \frac{\varepsilon_1 + \varepsilon_3}{M_1} s_1 + \frac{\varepsilon_3}{M_1} s_2$$
+$$l_2 D_t^2 \varphi_2 + D_t^2 s_2 = \frac{\varepsilon_3}{M_2} s_1 - \frac{\varepsilon_2 + \varepsilon_3}{M_2} s_2 .$$
+
+The symbolical elimination of $\varphi_1, \varphi_2, s_1, s_2$

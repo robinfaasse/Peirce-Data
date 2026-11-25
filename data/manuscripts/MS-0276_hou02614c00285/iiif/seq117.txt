@@ -1,0 +1,27 @@
+[113]
+
+[fig]triangle diagram with labels p, q, and a[/fig] To transfer the line
+of this equation (where
+p and q [ins]the distances[/ins]
+of the point from two
+fixed points are the
+variables while [del]two[/del] m, n and
+l are constants) into polar and
+orthogonal coordinates :
+mp² + n q² = l³
+When the [del]po[/del] variable point is in line
+with the two fixed points
+p - q = ± a
+m( q ± a )² + n q² = l³
+(m + n) q² ± 2 m a q + m a² - l³
+q² ± 2 ma/m+n q = l³ - m a² / m + n = l³(m+n) - (m² + mn)a² / (m+n)²
+( q + ma/m+n )² = [del]m² a²[/del] l³(m+n) - m n a² / (m + n)²
+q = - m a / m + n ± √ l³(m+n) - m n a² / m + n
+
+[marginalia running vertically along the left side]
+l³(m+n)/ (m+n)²
+
+But h = m a / m + n
+= α / m+n
+q = - α / (m+n) ± √ l³ / m+n - m n a² / (m+n)²
+= - α / m+n ± √ l³ / m+n - α² / m n

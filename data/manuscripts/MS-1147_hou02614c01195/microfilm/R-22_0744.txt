@@ -1,0 +1,23 @@
+[del]$\Sigma \prec R$[/del]
+$P \prec Q \quad Q \prec R \quad \therefore P \prec R$
+
+[del]$\overline{A} \prec A$[/del]
+Either $A \prec \overline{A}$ or $\overline{A} \prec A$
+
+[fig]Venn diagram with regions labeled A, B, and B bar[/fig]
+If $AB \prec A\overline{B}$
+$\therefore \overline{A}B \succ \overline{A}\overline{B}$
+
+[fig]Venn diagram with four quadrants[/fig]
+$A\text{'s and the } B\text{'s}$
+
+[marginalia]
+$\Sigma_k \Sigma_j a_{ij} b_{jk} \prec \Sigma_k D_{ik}$
+$\Pi_k \Pi_j \overline{a_{ij}} \overline{b_{jk}} \succ \Sigma D_{ik}$
+[/marginalia]
+
+[marginalia]
+$O_i : a_i$
+$O_i \text{ to } a_i$
+$O_i : a_i$
+[/marginalia]

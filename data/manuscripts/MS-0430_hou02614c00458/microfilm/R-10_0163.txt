@@ -1,0 +1,23 @@
+[pn]Logic
+III
+20[/pn]
+
+asserts that $K$ is $V$ and [fig]circle containing 'I H'[/fig] is $V$, [ins]To assert that[/ins] [del]then[/del]
+is to [del]assert[/del] [ins]deny[/ins] that [fig]circle containing 'I H'[/fig] is $V$. To assert that [fig]circle containing 'I H'[/fig] is $V$ is to
+assert that $I$ is $V$ and $H$ is $V$. Hence, to deny that [fig]circle containing 'I H'[/fig] is
+$V$ is to assert that either $I$ is not $V$ or that $H$ is not $V$.
+But the hypothesis is that [del]$I$ is not $V$ or that $H$ is not $V$[/del] [ins]to say that $I$ is $V$ is to assert[/ins] [del]asserts nothing nor asserts[/del]
+[del]if then the former contains a falsity, this is contained in the latter.[/del]
+[del]By[/del] [ins]deny[/ins] [del]it[/del] in saying that $G$ is $V$. Hence, to say that $I$ is not $V$
+is to [del]assert[/del] [ins]deny[/ins] that $G$ is $V$. But if either $G$ is not $V$ or $H$ is not $V$
+then $GH$ is not $V$; for if $GH$ is $V$, $G$ is $V$ and $H$ is $V$. And if
+$GH$ is not $V$, [fig]circle containing 'G H'[/fig] is $V$. And if [fig]circle containing 'G H'[/fig] is $V$ and $K$ is $V$, then
+[fig]circle containing 'G H'[/fig] $K$ is $V$ and the graph [fig]circle containing 'G H'[/fig] $K$ may be written. Thus,
+if $G$ could be transformed as an entire graph to $I$, then
+[fig]circle containing 'I H'[/fig] $K$ can be transformed to [fig]circle containing 'G H'[/fig] $K$, whatever [ins]graphs[/ins] $H$ and
+$K$ may be; and the rule holds for a single enclosure.
+
+If the rule breaks down for any number of enclosures,
+there must be some smallest number of enclosures for
+which it can break down, being valid for every smaller
+number. Then, let $G$ be a graph involving one [ins]fewer of[/ins] [del]less[/del] enclo-

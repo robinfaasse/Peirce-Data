@@ -1,0 +1,18 @@
+[pn]Logic of Quantity[/pn] [pn]3.[/pn]
+
+[u]Corollary 5[/u]. The relation of incompressibility transfers no collection (except 0) to any collection. For $\Pi_s \Pi_r \bar{r}_{\{0\}rs} = 0$ and $\Pi_x \bar{l}_{x0} \mathbin{\psi} \Sigma_s q_{xs}$ whence, by (6) $\Pi_m \Pi_n \bar{l}_{n0} \mathbin{\psi} \bar{t}_{\{0\}mn}$
+
+[u]Corollary 6[/u]. The relation of coexistence, [del]C[/del][ins]D[/ins], transfers every collection to every collection except 0. For $\Pi_s \Pi_r \bar{D}_{sr}$ ; whence by (7)
+$\Pi_m \Pi_n \bar{l}_{0m} \mathbin{\psi} \bar{t}_{\{D\}mn}$
+
+[u]Corollary 7[/u]. The relation of identity, I, transfers every collection to every collection that includes it. For [del]$\Pi_s \Pi_r \bar{l}_{sr} \mathbin{\psi}$[/del] [ins]$\Pi_s \Sigma_r (\bar{q}_{ms} \mathbin{\psi} q_{mr} \cdot l_{rs})$[/ins] (and to say that one collection $m$ includes another $n$ is to say that $\Pi_s \bar{q}_{ns} \mathbin{\psi} q_{ms}$. The product of these two statements gives $\Pi_s \Sigma_r \bar{q}_{ns} \mathbin{\psi} q_{mr} \cdot l_{rs}$ ; and this multiplied into (7) gives $t_{\{I\}mn}$.
+
+[u]Corollary 8[/u]. The relation of negation or otherness, T, transfers every collection[ins], to[/ins] [del]to[/del] every collection not an individual of [del]$n$[/del][ins]$n$[/ins] and not 0. For to say that $m$ is not an individual of $n$ and is not [del]zer[/del] zero is to say that $\Sigma_r \Sigma_s q_{mr} \cdot (\bar{q}_{nr} \mathbin{\psi} q_{ms} \cdot T_{sr})$. But we have $\Pi_s \Pi_r (l_{sr} \mathbin{\psi} T_{sr})$ Multiplying these we have
+$\Pi_s$ [del]$\{$[/del] [ins]$\{$[/ins] $\Sigma_r q_{mr} \cdot \bar{q}_{nr} \cdot l_{sr} \mathbin{\psi} \Sigma_r q_{mr} \cdot \bar{q}_{nr} \cdot T_{sr} \mathbin{\psi} \Sigma_r \Sigma_s q_{mr} \cdot q_{ms} \cdot T_{sr} \cdot l_{sr} \mathbin{\psi} \Sigma_r \Sigma_s q_{mr} \cdot q_{ms} \cdot$ [del]$T_{sr} \cdot T_{sr}$[/del][ins]$T_{sr}$[/ins] $\}$
+This gives
+$\Pi_s \{ \bar{q}_{ns} \mathbin{\psi} \Sigma_r q_{mr} \cdot T_{sr} \mathbin{\psi} \Sigma_s q_{ms} \cdot T_{sg} \}$
+But the last two terms have the same meaning. Hence we have,
+$\Pi_s \Sigma_r \bar{q}_{ns} \mathbin{\psi} q_{mr} \cdot T_{sr}$
+Multiplying this into (7) we get $t_{\{T\}mn}$.
+
+[u]Theorem 3[/u]. [u]Every relation which transfers only collection to another transfers every collection the former includes to every collection that includes the latter.[/u]

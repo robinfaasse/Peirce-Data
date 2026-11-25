@@ -1,0 +1,29 @@
+§ 3. The exponential function of [del]1[/del] [ins]t[/ins] as variable
+is called the Naperian base and is usually denoted
+by [del]e[/del] [ins]6[/ins]; but by scholars of Benjamin Peirce by
+the character 6. That is, if t is a positive
+integer
+[u]6[/u]<sup>t</sup> = Exp t.
+
+Take the product of Exp x . Exp (-x)
+Exp x = 1 + x + 1/2 x² + 1/3! x³ + etc = [summation]<sub>0</sub><sup>∞</sup> x<sup>r</sup>/r!
+Exp (-x) = 1 - x + 1/2 x² - 1/3! x³ + etc = [summation]<sub>0</sub><sup>∞</sup> (-1)<sup>r</sup> x<sup>r</sup>/r!
+
+Product = 1
++ (1/2 [del]x²[/del] - 1 + 1/2) x²
++ (2/4! - 2/3! + 1/2 1/2) x⁴
++ (2/6! - 2/5! + 2/2.4! - 1/3!3!) x⁶
++ etc
+
+But by the binomial theorem all the terms but
+the first vanish. Hence,
+Exp (-t) = [u]6[/u]<sup>-t</sup>
+
+It is also evident that (Exp 1/t)<sup>t</sup> = [u]6[/u]. Hence
+Exp 1/t = [u]6[/u]<sup>1/t</sup>
+
+Hence for any rational fraction s/t
+Exp s/t = [u]6[/u]<sup>s/t</sup>
+
+The method of limits extends this result to
+irrational exponents.

@@ -1,0 +1,14 @@
+[pn]On
+40[/pn] the, total number of cards. Suppose this total number (which is prime)
+falls short of [u]m[/u]H by [u]g[/u] cards. (I select the letter [u]g[/u], because it is easy to remember
+that [del]it[/del] [ins]of[/ins] is less than H, owing to its preceding it in the alphabet.) This number [u]g[/u] must
+also be prime to H; that is, [u]g[/u] and H must have no common exact divisor among
+whole numbers greater than 1. For if [u]g[/u] [del]was[/del] [ins]equal to[/ins] [u]s[/u] [u]d[/u], and H were equal to [u]t[/u] [u]d[/u], the total
+number of cards would be [u]m[/u]H - [u]g[/u] = [u]m[/u] [u]t[/u] [u]d[/u] - [u]s[/u] [u]d[/u] = ([u]m[/u] [u]t[/u] - [u]s[/u]) [u]d[/u], which would be a
+multiple of [u]d[/u] and not a prime, as is our fundamental condition. Then, [u]m[/u]-1 being
+the number of cards in the last, or Hth, pile, the former ordinal place in the pack,
+before the deal, of its top card must be ([u]m[/u]-1)H, and the former place of the
+card that comes after it must, in order to make [ins]the former place of[/ins] every card either H more than that
+of the card that is to come after it or else less than that by the total number of cards,
+must be (([u]m[/u]-1)H + H - ([u]m[/u]H-[u]g[/u]) = [u]g[/u]. This will be the [del]first[/del] [ins]bottom[/ins] card of the [u]g[/u]th pile. If
+[u]g[/u] is not greater than H-[u]g[/u], it must be less than that number, since otherwise it would

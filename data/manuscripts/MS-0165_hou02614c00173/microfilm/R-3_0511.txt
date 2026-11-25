@@ -1,0 +1,25 @@
+[pn]258[/pn]
+
+cases, to assume that the configuration examined is contained in a
+limited box:
+
+<u>Theorem 48</u>. [[u]Census Theorem[/u].] The census-number [del]derived from[/del] [ins]of a whole place[/ins]
+is equal to [del]the sum[/del] [ins]the sum[/ins] of those of the [ins]homogeneous[/ins] parts of that place.
+
+<u>Illustrations</u>. 1st An ordinary closed surface has 2 for its census-
+number. Hence, if it is divided into pieces [ins]called faces,[/ins] having edges, which
+edges have extremities [ins]called vertices,[/ins] and no other singularities, then the sum
+of the number of [del]surfaces[/del] [ins]faces[/ins] and vertices is 2 more than the
+number of edges. [del]A par[/del] Thus, four parts of such a surface
+can all touch one another. For then the number of edges will
+be $4 \times (4-1) \div 2 = 6$ and the number of vertices $4 \times (4-1) \div 3 = 4$. Now,
+$4 + 4 = 6 + 2$. 2nd A [del]perissad[/del] surface has 1 for its census
+number. Hence if it is divided as above, the sum of the faces
+and vertices is one more than the number of edges. Hence,
+6 parts of such a surface can all touch one another. For
+$6 \times (6-1) \div 2 = 15$ and $6 \times (6-1) \div 3 = 10$ and $6 + 10 = 15 + 1$.
+3rd A ring-surface has 0 for its census number. Hence if it is
+divided in the same way, the sum of the numbers of faces and
+vertices equals the number of edges. Hence, seven parts of
+such a surface can all touch one another. For $7 \times (7-1) \div 2 = 21$
+and $7 \times (7-1) \div 3 = 14$, and $7 + 14 = 21$.

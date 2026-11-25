@@ -1,0 +1,99 @@
+$$\begin{array}{ccccc}
+S_{222} & u_{222} & v_{222} & w_{222} & t_{222} \\
+c(c-1)(c-2)(c-3) & c(c-1)(c-2) & c(c-1)(c-2) & c(c-1)(c-2) & c(c-1)(c-2)(c-3) \\
+& c(c-1)(c-2)(c-3) & c(c-1)(c-2) & c(c-1)(c-2) & c(c-1)(c-2) \\
+& c(c-1)(c-2) & c(c-1)(c-2)(c-3) & c(c-1)(c-2)(c-3) & c(c-1)(c-2)(c-3) \\
+& c(c-1)(c-2)(c-3) & c(c-1)(c-2)(c-3) & c(c-1)(c-2)(c-3) & c(c-1)(c-2)(c-3) \\
+& c(c-1)(c-2)(c-3) & c(c-1)(c-2)(c-3) & c(c-1)(c-2)(c-3) & c(c-1)(c-2)(c-3) \\
+& c(c-1)(c-2)(c-3)(c-4) & c(c-1)(c-2)(c-3)(c-4) & c(c-1)(c-2)(c-3)(c-4) & c(c-1)(c-2)(c-3)(c-4) \\
+& & & & c(c-1)(c-2) \\
+& & & & c(c-1)(c-2)(c-3) \\
+& & & & c(c-1)(c-2)(c-3) \\
+& & & & c(c-1)(c-2)(c-3) \\
+& & & & c(c-1)(c-2)(c-3)(c-4) \\
+& & & & c(c-1)(c-2)(c-3) \\
+& & & & c(c-1)(c-2)(c-3)(c-4) \\
+& & & & c(c-1)(c-2)(c-3) \\
+& & & & c(c-1)(c-2)(c-3) \\
+& & & & c(c-1)(c-2)(c-3)(c-4) \\
+& & & & c(c-1)(c-2)(c-3)(c-4) \\
+& & & & c(c-1)(c-2)(c-3)(c-4) \\
+& & & & c(c-1)(c-2)(c-3)(c-4)
+\end{array}$$
+
+$$\begin{array}{c}
+\text{II} \\
+c(c-1)(c-2) \left( \begin{array}{r}
++3c+2 \\
+\underline{c^2-7c-9} \\
++12
+\end{array} \right) \\
+= c(c-1)(c-2) \frac{(c^2-4c+5)}{(c-2)^2+1}
+\end{array}$$
+
+$$\begin{array}{c}
+c^2-4c = -5 \\
++4 \\
+c-2 = i \\
+c = 2 \pm i \\
+c-2+i \\
+\underline{c-2-i} \\
+(c-2)^2+1
+\end{array}$$
+
+$$\begin{array}{c}
+w_{122} \quad c(c-1)(c-2) \\
+\frac{(c-3)^2+2(c-2)}{c^2-6c+9} \quad c \\
+x^2+1 = (x^2-1)^2+2x \quad \frac{+2c-4}{c^2-4c+5}
+\end{array}$$
+
+$$\begin{array}{c}
+c(c-1)(c-2) \\
+\times \left( \begin{array}{r}
++9c+2 \\
+-27 \\
++6c^2-42c+72
+\end{array} \right) \\
+\underline{c^3-12c^2+47c-60}
+\end{array}$$
+
+$$\begin{array}{c}
+c-2 \\
+\frac{c^2-7c+12}{8} \\
+\frac{c^3-7c^2+12c}{-5c^2+35c-60} \\
+\underline{c^3-12c^2+47c-60}
+\end{array}$$
+
+$$\frac{(c-2)^2+1}{c-3}$$
+
+$$\frac{(c-2)(2c-5) + (c-3) \left[ (c-3)^2 + (c-2) \right]}{(c-2)^2 + (c-2)(c-3) + (c-3)(c-2)^2 + (c-3)}$$
+
+$$c^3-6c^2+14c-13$$
+
+$$\begin{array}{c}
+\frac{2c^2-9c+10}{(c-3)(c-1)+(c-2)^3} \\
+\frac{c^3-6c^2+12c-8}{+4c+3}
+\end{array}$$
+
+$$\begin{array}{ccccc}
+S_{221} & u_{221} & v_{221} & w_{221} & t_{221} \\
+c(c-1)(c-2) & c(c-1)(c-2) & [del]c(c-1)(c-2)[/del] & c(c-1)(c-2)(c-3) & c(c-1)(c-2) \\
+& c(c-1)(c-2)(c-3) & c(c-1)(c-2) & & c(c-1)(c-2)(c-3) \\
+& & c(c-1)(c-2)(c-3) & & c(c-1)(c-2)(c-3) \\
+& & & & c(c-1)(c-2)(c-3)(c-4)
+\end{array}$$
+
+$$\begin{array}{c}
+\text{II} \\
+c(c-1)(c-2) \left( \begin{array}{r}
++2c+1 \\
+-6 \\
++c^2-7c+12 \\
+\underline{c^2-5c+7}
+\end{array} \right)
+\end{array}$$
+
+$$\begin{array}{ccccc}
+S_{211} & u_{211} & v_{211} & w_{211} & t_{211} \\
+& & c(c-1)(c-2) & c(c-1)(c-2) & c(c-1)(c-2)(c-3)
+\end{array}$$

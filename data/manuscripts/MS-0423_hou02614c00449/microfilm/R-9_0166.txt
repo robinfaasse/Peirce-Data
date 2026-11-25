@@ -1,0 +1,28 @@
+[pn]96[/pn]
+
+of quite as few as five letters. Thus,
+$$ijijij = jijij.j = -jiji.$$
+
+[del]But[/del] [ins]39[/ins] But the moment we suppose the number of linearly
+independent letters is finite we can reason as follows. Taking
+any expression, $A$, some power of it is a linear function of
+inferior powers. Hence there is some equation
+$$\Sigma_m (a_m A^m) + a_0 = 0$$
+By the theory of equations, this is resoluble into quadratic
+factors. One of these, then, must equal zero. Let it be
+$$(A-s)^2 + t^2 = 0$$
+Then
+$$\left(\frac{A-s}{t}\right)^2 = -1$$
+or, every expression upon subtraction of a real number
+from it can be converted, in one way only, into a [del]square[/del]
+[del]root[/del] [ins]a square root[/ins] of a negative number. Let us call such [del]number[/del] [ins]expression[/ins] the
+[u]vector[/u] of the first [del]number[/del] [ins]expression[/ins], and the real number sub-
+tracted the [u]scalar[/u] of it.
+
+Let [ins]$i^2 = -1, j^2 = -1$ and[/ins] $ij = s + v$,
+where $s$ is scalar, and $v$ vector. Then it is impossible to find
+three [ins]real[/ins] numbers $a, b, c$, such that
+$$v = a + bi + cj$$
+[del]For if[/del] [ins]possibly[/ins] [del]true at all[/del] this would be possible [del]of unit[/del] For [del]supp[/del] [ins]assume[/ins]
+this equation. Then, since
+$$ij.j = -i$$

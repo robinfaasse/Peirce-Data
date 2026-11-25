@@ -1,0 +1,13 @@
+[u]The algebra of the copula[/u].
+
+The system of quantity with which we deal in logic has but two values, [del]t[/del] [ins]v[/ins] the [del]fals[/del] true and [del]f[/del] [ins]f[/ins] the false. But one operation is necessary which I shall here signify by a semicolon placed between the two propositions operated upon. The definition of ([u]a[/u];[u]b[/u]) is [del]as[/del] follows: —
+$\alpha$. If [u]b[/u] is true ([u]a[/u];[u]b[/u]) is true.
+$\beta$. Either [u]a[/u] is true or ([u]a[/u];[u]b[/u]) is true.
+$\gamma$. If ([u]a[/u];[u]b[/u]) and [u]a[/u] are true, [u]b[/u] is true.
+
+This gives the propositions
+[u]v[/u];[u]v[/u]=[u]v[/u] [u]f[/u];[u]v[/u]=[u]v[/u] [u]v[/u];[u]f[/u]=[u]f[/u] [u]f[/u];[u]f[/u]=[u]v[/u].
+
+In writing the propositions parentheses ending the whole or any part enclosed in parenthesis will be omitted. The last letter of a [del]formula[/del] [ins]proposition[/ins] or paren-thetized combination is called its consequent; the [del]series of[/del] [ins]unenclosed[/ins] letters and parenthetized combinations preceding [del]it[/del] [ins]the consequent[/ins] are called the antecedents.
+
+The algebraic rules are as follows: —

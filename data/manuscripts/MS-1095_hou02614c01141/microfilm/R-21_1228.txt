@@ -1,0 +1,13 @@
+$$D_y u - D_x v = 4i (F_3' + F_4')$$
+So that $F_3' + F_4'$ is [del]wholly[/del] [ins]purely[/ins] imaginary
+for all real values of $x$ and $y$
+$$D_x (D_y u - D_x v) = 4i (F_3'' + i F_4'')$$
+$$D_y (D_y u - D_x v) = 4i (i F_3'' + F_4'')$$
+$$(D_x [del]+[/del] [ins]+[/ins] D_y) (D_y u - D_x v) = 4i ([del]1+i[/del]) (F_3'' + F_4'')$$
+$$(D_x + D_y) (D_y u - D_x v) = 4i (1+i) (F_3'' + F_4'')$$
+$$D_x p + D_y p = -2\mu (1+i) (F_3'' - F_4'')$$
+$(1+i) (F_3'' + F_4'')$ is wholly imag
+$(1+i) (F_3'' - F_4'')$ is " " real
+
+$\left. \begin{aligned} &(1+i) F_3'' (x+iy) \\ -&(1+i) F_4'' [del]i[/del] (x+iy) \end{aligned} \right\}$ [del]and[/del] are conjugate
+x

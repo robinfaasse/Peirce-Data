@@ -1,0 +1,18 @@
+[pn]Cor
+20[/pn] | But $10^6 = 1000000$ and $10^6 - 1 = 999999$. This must be divisible
+by 7. And since, as nearly as numbers can express quantities
+$1 \doteq 0.999999999999999999$ etc ad infinitum
+it follows that since $\frac{1}{7} = 0.142857142857142857$ ad infinitum, the whole
+number $142857$ is $\frac{1}{7} \times 999999$. To show that it must be so, but is,
+in fact, so, I perform the division
+
+[fig]Long division of 999999 by 7 showing remainders and quotient digits[/fig]
+$7 \overline{) 999999}$
+$\frac{7}{29}$
+$\frac{28}{19}$
+$\frac{14}{59}$
+$\frac{56}{39}$
+$\frac{35}{49}$
+$\frac{49}{0}$
+
+The reason of the peculiar property of this number is thus apparent.

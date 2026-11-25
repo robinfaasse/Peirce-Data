@@ -1,0 +1,23 @@
+[pn]RR[/pn]
+
+[u]VI Definitions[/u] [del]of[/del] : A divisor of a cardinal number, $N$, is a cardinal number which multiplied by a cardinal number gives $N$ as product.
+[del]The number, $N$, is said to be exactly divisible by its divisor.[/del]
+
+An [u]aliquot part[/u] of a cardinal number, $N$, is a divisor of $N$ other than $N$ itself.
+
+A [u]factor[/u] of a cardinal number, $N$, is a cardinal number which multiplied into an aliquot part of $N$ gives $N$ as product.
+
+A [u]remainder[/u] of a cardinal number, $N$, [ins]for the modulus, $M$, other than $0$,[/ins] or [u]after division[/u] by $M$ [ins]($M$ being[/ins] a cardinal number[ins])[/ins] is a cardinal number [ins]$R$[/ins] less than $N$ which added to the product of $M$ multiplied by a cardinal number, $Q$, called the [u]quotient[/u] of $N$ by $M$, gives $N$ as the sum. That is, [del]if[/del] $N = R + Q \cdot M$. [del]If the remainder is zero, we may say there is no remainder, since in this case $N = Q \cdot M$.[/del]
+
+A cardinal number, $M$, is said to be [u]prime[/u] to another, $N$, if, and only if, no factor of $M$ is a divisor of $N$.
+
+A [u]prime number[/u] is a cardinal number that is prime to all cardinal numbers except those of which it is a divisor.
+[del]A modular number is a cardinal number not zero.[/del]
+
+[u]VII Abbreviations[/u]. We may write $N \equiv N'$ (mod $M$) where $M$ is any cardinal number not zero to express that $N$ and $N'$ are cardinal numbers leaving the same remainder after division by $M$.
+
+We may denote the remainder and quotient of $N$ divided by $M$ by $\mathcal{R}_M N$ and $\mathcal{Q}_M N$ respectively. Then $N = \mathcal{R}_M N + (\mathcal{Q}_M N) \cdot M$.
+
+We may denote $GGO$ by $2$.
+
+[u]Scholium[/u]. The number $2$ is logically and mathematically peculiar. In old arithmetics multiplication and division by $2$ are considered as peculiar operations, Duplation and Mediation. We have need of an arithmetic of two even in reasonings which do no concern quantity in the ordinary sense.

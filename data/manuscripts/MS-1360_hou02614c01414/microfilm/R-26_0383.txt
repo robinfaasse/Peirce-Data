@@ -1,0 +1,48 @@
+```
+[del]$\frac{\varepsilon_{n-1}}{\varepsilon_{n}}$[/del]
+[del]$\frac{\varepsilon_{n}}{\varepsilon_{n+1}}$[/del]
+[del]$\frac{\varepsilon_{n+1}}{\varepsilon_{n+2}}$[/del]
+
+[del]$d\varepsilon$[/del]
+[del]$d\varepsilon$[/del]
+[del]$d\varepsilon$[/del]
+
+$\varepsilon - d\varepsilon + \frac{d^{2}\varepsilon}{2}$
+$\varepsilon$
+$\varepsilon + d\varepsilon + \frac{d^{2}\varepsilon}{2}$
+
+[del]$d\varepsilon - \frac{1}{2} d^{2}\varepsilon$[/del]
+[del]$d\varepsilon + \frac{1}{2} d^{2}\varepsilon$[/del]
+
+$f_{0} + x f'_{0} + \frac{x^{2}}{2} f''_{0}$
+
+$\rightarrow$ [del]$x$[/del]
+$\frac{a}{b}$
+
+$\varepsilon - \frac{3}{2} d\varepsilon + \frac{9}{8} d^{2}\varepsilon$
+$\varepsilon - \frac{1}{2} d\varepsilon + \frac{1}{8} d^{2}\varepsilon$
+$\varepsilon + \frac{1}{2} d\varepsilon + \frac{1}{8} d^{2}\varepsilon$
+$\varepsilon + \frac{3}{2} d\varepsilon + \frac{9}{8} d^{2}\varepsilon$
+
+$\left(\varepsilon - \frac{3}{2} d\varepsilon + \frac{9}{8} d^{2}\varepsilon\right) \tau_{n-2}^{2} + \left(-2\varepsilon + 3d\varepsilon - \frac{9}{4} d^{2}\varepsilon\right) \tau_{n-2} \tau_{n-1} + \frac{\begin{array}{l} \left(\varepsilon - \frac{3}{2} d\varepsilon + \frac{9}{8} d^{2}\varepsilon\right) \tau_{n-1}^{2} \\ + \left(\varepsilon - \frac{1}{2} d\varepsilon + \frac{1}{8} d^{2}\varepsilon\right) \tau_{n-1}^{2} \end{array}}{\left(2\varepsilon - 2d\varepsilon + \frac{5}{4} d^{2}\varepsilon\right) \tau_{n-1}^{2}}$
+
+$\frac{\begin{array}{l} \left(\varepsilon - \frac{1}{2} d\varepsilon + \frac{1}{8} d^{2}\varepsilon\right) \tau_{n}^{2} \\ + \left(\varepsilon + \frac{1}{2} d\varepsilon + \frac{1}{8} d^{2}\varepsilon\right) \tau_{n}^{2} \end{array}}{\left(2\varepsilon + \frac{1}{4} d^{2}\varepsilon\right) \tau_{n}^{2}}$
+
+$\left(-2\varepsilon - d\varepsilon - \frac{1}{4} d^{2}\varepsilon\right) \tau_{n} \tau_{n+1}$
+
+$\begin{array}{l} + \left(\varepsilon + \frac{1}{2} d\varepsilon + \frac{1}{8} d^{2}\varepsilon\right) \tau_{n+1}^{2} \\ + \left(\varepsilon + \frac{3}{2} d\varepsilon + \frac{9}{8} d^{2}\varepsilon\right) \tau_{n+1}^{2} \end{array}$
+
+$+ \left(-2\varepsilon + 3d\varepsilon + \frac{9}{4} d^{2}\varepsilon\right) \tau_{n+1} \tau_{n+2} + \left(\varepsilon + \frac{3}{2} d\varepsilon + \frac{9}{8} d^{2}\varepsilon\right) \tau_{n+2}^{2}$
+
+$\overline{\left(2\varepsilon + 2d\varepsilon + \frac{5}{4} d^{2}\varepsilon\right) \tau_{n+1}^{2}}$
+
+$\left(\varepsilon - \frac{3}{2} d\varepsilon + \frac{9}{8} d^{2}\varepsilon\right) \tau_{n-2} \left(1 + \frac{1}{2} \frac{d^{2}}{dt^{2}}\right) + \left(-2\varepsilon + 2d\varepsilon - \frac{5}{4} d^{2}\varepsilon\right) \tau_{n-1} \left(1 + \frac{1}{2} \frac{d^{2}}{dt^{2}}\right) + \left(\varepsilon + \frac{1}{2} d\varepsilon + \frac{1}{8} d^{2}\varepsilon\right) \tau_{n}$
+
+$\left(-2\varepsilon + d\varepsilon - \frac{1}{4} d^{2}\varepsilon\right) \tau_{n-1}$
+
+$\frac{\begin{array}{l} \left(4\varepsilon [del]- d\varepsilon[/del]\right) \tau_{n} \\ \left(\varepsilon + \frac{1}{2} d\varepsilon + \frac{1}{8} d^{2}\varepsilon\right) \tau_{n} \left(1 + \frac{1}{2} \frac{d^{2}}{dt^{2}}\right) \end{array}}{\left(1 + \frac{1}{2} \frac{d^{2}}{dt^{2}}\right)}$
+
+$+ \left(-2\varepsilon - d\varepsilon - \frac{1}{4} d^{2}\varepsilon\right) \tau_{n+1}$
+
+$+ \left(-2\varepsilon - 2d\varepsilon - \frac{5}{4} d^{2}\varepsilon\right) \tau_{n+1} \left(1 - \frac{1}{2} \frac{d^{2}}{dt^{2}}\right) + \left(\varepsilon + \frac{3}{2} d\varepsilon + \frac{9}{8} d^{2}\varepsilon\right) \tau_{n+2} \left(1 - \frac{1}{2} \frac{d^{2}}{dt^{2}}\right)$
+```

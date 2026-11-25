@@ -1,0 +1,28 @@
+[pn]115[/pn]
+
+[u]Theorems[/u]
+
+[u]Notation[/u] $A \prec B$ means $A$ is relatively transformable into $B$.
+
+[del]XI. If a graph is transformable into an oval enclosure consisting of an oval enclosing a second graph, this second graph is transformable into an oval enclosure consisting of an oval containing the first graph.[/del]
+
+[del]Proof. Let $A$ be the first graph, $B$ the second graph.[/del]
+[del]And let $A \prec$ [fig]circle enclosing B[/fig][/del]
+[del]Then by V [fig]circle enclosing B[/fig] $\prec$ [fig]circle enclosing A[/fig][/del]
+[del]But by VI $B \prec$ [fig]circle enclosing B[/fig] so that $B \prec$ [fig]circle enclosing A[/fig]. Q.E.D.[/del]
+
+[del]XII[/del] [ins]XI[/ins]. If an enclosure consisting of an oval enclosing a graph is transformable into a second graph, then an oval enclosure consisting of an oval containing the second graph is transformable into the first graph.
+
+[u]Proof[/u] Let $A$ be the first graph, $B$ the second graph.
+And let [fig]circle enclosing A[/fig] $\prec B$
+Then by VII there is a graph $x$ such that $A = $ [fig]circle enclosing x[/fig].
+Hence, [fig]circle enclosing circle enclosing x[/fig] $\prec B$
+Whence by VI $x \prec B$
+$\therefore$ by V [fig]circle enclosing B[/fig] $\prec$ [fig]circle enclosing x[/fig]
+$\therefore$ by hypothesis [fig]circle enclosing B[/fig] $\prec A$. Q.E.D.
+
+[del]XIII[/del] [ins]XII[/ins]. An unenclosed enclosure consisting of an oval containing only another enclosure consisting of an oval containing any graph is transformable into that graph.
+
+[u]Proof[/u]. Let $a$ be the doubly enclosed graph
+Then by I [fig]circle enclosing a[/fig] $\prec$ [fig]circle enclosing a[/fig]
+$\therefore$ by [del]XII[/del] [ins]XI[/ins] [fig]circle enclosing circle enclosing a[/fig] $\prec a$. Q.E.D.

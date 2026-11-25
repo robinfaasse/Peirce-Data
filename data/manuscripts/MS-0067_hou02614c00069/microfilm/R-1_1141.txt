@@ -1,0 +1,34 @@
+[del]b₀ = 0[/del]
+
+a₀ + b₀ = a₁ + b₁ = a₂ + b₂ = a₃ + b₃ = a₄ + b₄ = a₅ + b₅
+
+[del]a₀ = 0 a₁ = -b₁[/del]
+a₀ + b₁
+
+[del]ab cd ef[/del]
+[del]ab ce df[/del]
+[del]ab ef de[/del]
+
+[del]ae[/del]
+ab cd ef   bc de fa
+ab ce df
+ab ef de
+
+[del]ab cd ef[/del] 1   ab cd ef
+f₁1 [del]ab[/del] bd ef ac F₁1
+f₂1 [del]ab[/del] be cf ad
+
+f₁1 [del]be[/del] [ins]bc[/ins] [del]cf[/del] [ins]de[/ins] da
+f₂1 fa be [del]cd[/del] [ins]cd[/ins]
+
+[del]F₁1[/del] [ins]F₂1[/ins] fc ab de
+F₁⁻¹1 cd be fa
+
+[del]φ₁1[/del] [ins]φ₂1[/ins] [del]fa[/del] [ins]fc[/ins] [del]cd[/del] [ins]be[/ins] [del]be[/del] [ins]da[/ins]
+[del]φ₁⁻¹1[/del] [ins]φ₁⁻¹1[/ins] fa be da
+
+E₁1
+
+[fig]Diagram with curved lines and letters: cd, ab, ef, bc, da, fe, de[/fig]
+
+[fig]Diagram with intersecting curves and letters: cd, ab, ef, bd, ce, ac, ef, ab, df, cd, ae, bf[/fig]

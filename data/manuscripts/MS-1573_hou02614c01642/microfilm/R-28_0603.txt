@@ -1,0 +1,47 @@
+If $(i \prec e) \prec e$ and $i \prec e$ then $e$
+Either $i$ or $i \prec e$
+
+$\therefore$ If — — — — — — — — — — — — — — — —
+
+[u]$(a \prec b) \prec c$[/u]
+[del]$a \prec b \prec c$[/del]
+[del]$(a \prec a \prec e) \prec c$[/del]
+[del]$a \prec 1$[/del]
+[del]$a \prec a \prec a$[/del]
+$(a \prec b) \prec c$
+$a \prec 0 \ \prec (a \prec b)$
+$(a \prec b) \prec c$
+
+$o \prec e$
+$(i \prec o) \prec (i \prec e)$
+$[(i \prec e) \prec e] \prec [(i \prec o) \prec e]$
+$(i \prec o) \prec e$   [del]$(i \prec e) \prec e$[/del]
+[del]Either $i$ or $e$[/del]
+If $(i \prec o)$ then $e$
+Either $(i \prec o)$ or $i$
+Either $i$ or $e$
+[del]$\sim (a \prec o) \prec c$[/del]
+[del]$a \prec e$[/del]
+[del]$e \prec (a \prec o)$[/del]
+[del]$\{(a \prec o) \prec c\} \prec (e \prec a) \prec a$[/del]
+$\{(a \prec o) \prec a\} \prec a$
+
+[del]$\frac{1}{(i \prec e) \prec e}$[/del]
+[del]$i \prec i$[/del]
+[del]$(i \prec o) \prec (x \prec o)$[/del]
+[del]$(e \prec o) \prec i$[/del]
+[del]$(e \prec o) \prec i$[/del]
+[del]$(i \prec o) \prec [(e \prec o) \prec e]$[/del]
+[del]$[(e \prec o) \prec a] \prec e$[/del]
+[del]$e \prec o \prec e$[/del]
+[del]$e$[/del]
+
+[del]$a \prec a$[/del]
+$(a \prec o) \prec a$
+If $(a \prec o)$ then $a$
+Either $(a \prec o)$ or $a$
+
+$(a \prec b) \prec c$
+If $(a \prec b)$ then $c$
+Either $(a \prec b)$ or $b$
+Either $c$ or $b$

@@ -1,0 +1,21 @@
+12
+M is P
+S is M
+S is P
+
+[fig]bracket[/fig]
+
+S is P                      M is P
+S is M                      S is P
+M is P                      S is M
+
+[u]                                                      [/u]
+[fig]vertical line[/fig]
+[del]Some[/del] All S is [del]not[/del] P           All M is [del]not[/del] P
+All [del]Some[/del] S is M                   [del]Some[/del] All S is [del]not[/del] P
+Some M is [del]not[/del] P           [del]Some[/del] All S is not M
+
+[u]    —    [/u]                      [u]    —    [/u]
+[del]All[/del] [ins]Some[/ins] S is [del]found[/del] P           All M is for example P P’ P’’
+S is taken as M             S is P P’ P’’
+[del]All[/del] M is P                 S is M

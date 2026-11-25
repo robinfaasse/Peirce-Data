@@ -1,0 +1,8 @@
+radius vector. If the straight line does not pass through the origin,
+suppose the energy is not sufficient to carry the particle to infinity.
+If $y$ increases with $x$, the particle can never move further than the
+value of $r$ for which the line crosses the line $x=y$. We have $v^2 = \frac{A}{r^2} - B$
+$v^2 - \frac{a^2}{r^2} = \frac{A-a^2}{r^2} - B$ $\frac{r^2}{a} \sqrt{v^2 - \frac{a^2}{r^2}} = \frac{r}{a} \sqrt{A-a^2 - B r^2}$ $\theta = \int \frac{a dr}{r \sqrt{C - B r^2}}$ The line
+will be a spiral and in a finite time the particle will reach the centre
+with an infinite velocity. It will take an infinite number of turns in
+doing so.

@@ -1,0 +1,62 @@
+[del]+ sin u sin (t-v) + sin v sin (t-u) + sin (u+v) sin t = 0[/del]
+
+[del]— (A^u — A^-u)(A^t-v — A^-t+v) = A^t[/del]
+
+[del]{(-u) - (u)}{( -v+t) - (v-t)} = (-u-v+t) - (-u+v-t) - (u-v+t) + (u+v-t)[/del]
+[del]{(v) - (-v)}{(-u+t) - (u-t)} = ( +(-u+v+t) ) ( +(u-v-t) ) ( -(u+v-t) )[/del]
+[del]{(t) - (-t)}{(u-v) - (-u+v)} = -( -u-v+t) ( (+u-v+t) )[/del]
+[del] - (-u+v+t) ( -(u-v-t) )[/del]
+[del] + (-u+v+t)[/del]
+
+
+sin a sin (b-c) + sin b sin (c-a) + sin c sin (a-b) = 0
+
+[fig]Mathematical calculations and derivatives[/fig]
+
+[del]d(1-y^2)^1/2[/del]
+[del]= (1-y^2)^-1/2 y dy[/del]
+
+[del]x = \sqrt{1-y^2}[/del]
+[del]x^2 = 1-y^2[/del]
+[del]y^2 = 1-x^2[/del]
+[del]y = \sqrt{1-x^2}[/del]
+
+\int \frac{1}{\sqrt{1-x^2}} = arc sin x
+
+D_x arc sin x = D_y sin y
+
+\int \frac{dx}{\sqrt{1-x^2}} = arc sin x
+
+\int \frac{1}{\sqrt{1-sin^2 x}} d sin x = [del]dx[/del] x
+
+\frac{d sin x}{dx} = \sqrt{1-sin^2 x}
+
+-\int \frac{dy}{\sqrt{1-y^2}} = arc sin \sqrt{1-y^2}
+
+[del]-\int \frac{dy}{\sqrt{1-y^2}}[/del] - arc sin y = arc sin \sqrt{1-y^2}
+
+(1+x)^1/2 = 1
+1/2(1+x)^-1/2 = 1/2
+-1/4(1-x)^-3/2 = -1/4
++3/8(1-x)^-5/2 = +3/8
+\frac{3.5}{16}(1-x)^-7/2 = \frac{3.5}{16}
+
+cos y
+
+\frac{1}{\sqrt{1-x^2}}
+
+\frac{1}{\sqrt{1-x^2}}
+
+1-x^2
+1+x^2-x^4+x^6-x^8
+1+1/2x^2
+
+\frac{dy}{dx} + y \sqrt{} = 1
+
+y = S^sx + x
+D_x y = S^sx + [del]x[/del]
+y = S
+
+\frac{1}{1+1/2x^2-1/8x^4+1/16x^6-1/32x^8}
+
+(\frac{dy}{dx})^2 + y^2 = 1

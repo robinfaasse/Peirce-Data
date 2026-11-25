@@ -1,0 +1,31 @@
+[marginalia]
+Logic
+III
+56
+[/marginalia]
+
+This sign, $\prec$, with no other, except symbols for different propositions, gives rise to a valuable algebra, which I call the Algebra of the Copula of Inclusion.
+
+All the rules of this algebra are deducible from the definition of the sign $\prec$, which is as follows:
+
+(64) If, [ins]in[/ins] any supposed state of things, a given proposition, $p$, is not true unless a proposition, $q$, is true, then $p \prec q$ is true;
+
+(65) and if [del]the pro[/del] $p \prec q$ is true, then $p$ is not true unless $q$ is true.
+
+From (64) we have immediately
+
+(66) If $q$ is true $p \prec q$ is true. That is, any antecedent may be prefixed.
+
+(67) Either $p$ is true or $p \prec q$ is true.
+
+From (65) we have immediately
+
+(68) If $p$ and $(p \prec q)$ are true, $q$ is true.
+
+[del](69) If $p \prec q$ is true, either[/del]
+
+[del]The following rules hold, whatever propositions $x, y, z$ etc[/del]
+
+[del]may be:[/del]
+
+I write [del]p \prec q \prec r[/del] $p \prec q \prec r$ for $p \prec (q \prec r)$.

@@ -1,0 +1,18 @@
+[pn]3[/pn]
+
+[fig]Table labeled bh_6 with rows and columns i, j, k, l, m, n[/fig]
+
+$i = A:A + B:B + C:C + D:D$
+$j = A:B + B:C$
+$k = A:C$
+$l = a A:B + A:D + D:C$
+$m = A:E$
+$n = E:C$
+
+[fig]Table labeled br_5 with rows and columns i, j, k, l, m[/fig]
+
+$i = A:B + B:C$
+$j = A:C$
+$k = D:B + D:E + E:F$
+$l = D:C$
+$m = D:F$

@@ -1,0 +1,46 @@
+Try the following as fundamental
+
+(1) Identity. [del]If [u]a[/u] = [u]b[/u] then [u]a[/u] = [u]b[/u][/del] [ins][u]a[/u] 7 [u]a[/u][/ins]
+[del][u]b[/u] 7 [u]a[/u] 7 [u]a[/u][/del]
+
+(2) Principle of Modus Ponens If [u]a[/u] then [u]b[/u] 7 [u]a[/u]
+[del]Proved from[/del]
+[del][u]b[/u] 7 [u]a[/u] 7 [u]a[/u][/del]
+
+(2½) If [u]a[/u] 7 then [u]a[/u] 7 [u]b[/u]
+[ins][u]a[/u] 7 [u]a[/u] 7 [u]b[/u][/ins]
+
+(3) If [u]a[/u] 7 [u]a[/u] 7 [u]b[/u] then [u]a[/u] 7 [u]b[/u]
+[ins][u]a[/u] 7 [u]a[/u] 7 [u]b[/u] 7 [u]a[/u] 7 [u]b[/u][/ins]
+
+(4) [del]If[/del] [u]a[/u] 7 [u]b[/u] 7 [u]c[/u] = [u]b[/u] 7 [u]a[/u] 7 [u]c[/u]
+[del][u]a[/u] 7 [u]b[/u] 7 [u]c[/u] 7 [u]b[/u] 7 [u]a[/u] 7 [u]c[/u][/del]
+[del][u]a[/u] 7 [u]b[/u] 7 [u]c[/u] 7 [u]b[/u] 7 [u]a[/u] 7 [u]c[/u][/del]
+
+(5) If [u]a[/u] 7 [u]b[/u] 7 [u]c[/u] then [u]a[/u] 7 [u]c[/u] 7 [u]c[/u]
+[ins][u]a[/u] 7 [u]b[/u] 7 [u]c[/u] 7 [u]c[/u] 7 [u]d[/u] 7 [u]a[/u] 7 [u]c[/u] 7 [u]d[/u][/ins]
+[ins][u]a[/u] 7 [u]a[/u] 7 [u]b[/u][/ins]
+(5½) If [u]a[/u] 7 [u]a[/u] 7 [u]b[/u] then [u]b[/u]
+By modus ponens
+
+(6) If [u]a[/u] 7 [u]b[/u] 7 [u]d[/u] and [u]c[/u] 7 [u]d[/u], then [u]a[/u] 7 [u]c[/u] 7 [u]d[/u] Dilemma
+[ins][u]a[/u] 7 [u]b[/u] 7 [u]d[/u] 7 [u]c[/u] 7 [u]d[/u] 7 [u]a[/u] 7 [u]c[/u][/ins]
+
+(7) If [u]a[/u] 7 [u]b[/u] and [u]b[/u] 7 [u]c[/u] then [u]a[/u] 7 [u]c[/u]
+If p and q then r
+If from p then q [del]p 7 q[/del]
+If p 7 q then if p, q
+
+(8) If [u]a[/u] 7 [u]b[/u] then [u]b[/u] 7 [u]c[/u] 7 [u]a[/u] 7 [u]c[/u]
+
+(9) If [u]b[/u] 7 [u]c[/u] then [u]a[/u] 7 [u]b[/u] 7 [u]a[/u] 7 [u]c[/u]
+
+(10) If from a follows b [del]and[/del] [u]b[/u] 7 [u]c[/u], then [u]a[/u] 7 [u]c[/u]
+
+(11) If from b follows c and [u]a[/u] 7 [u]b[/u], then [u]a[/u] 7 [u]c[/u]
+
+[del](12) If [u]a[/u] 7 [u]b[/u] and [u]b[/u] 7 [u]c[/u] then if a then c[/del] From (Modus ponens)
+
+[del](13)[/del] If from a follows b and from b follows c then [u]a[/u] 7 [u]c[/u]
+
+[del](14)[/del] If from a follows b and [u]b[/u] 7 [u]c[/u] and if a then c modu

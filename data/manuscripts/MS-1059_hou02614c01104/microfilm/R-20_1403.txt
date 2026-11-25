@@ -1,0 +1,55 @@
+[fig]Spherical triangle diagram with sides a, b, c and angles A, B', C'[/fig]
+
+$$\sin C' = \sin A \sin c$$
+$$\cos B' = - \frac{\cos A}{\cos C'}$$
+[del]$$\sin b' = \frac{\sin B' \cot b'}{\sin A}$$[/del] $\cot b' = - \tan c \cos A$
+
+$$\cos a = \sin (b - b') \cos C'$$
+$$\tan^2 \frac{1}{2} a = \frac{1 - \cos a}{1 + \cos a}$$
+$$\tan B'' = \frac{\sin C'}{\cot (b - b')} = \sin C' \tan (b - b')$$
+
+$$0 = \cos b' \cos c + \sin b' \sin c \cos A$$
+$$\cot b' = - \tan c \cos A$$
+
+$$\begin{array}{lll}
+A & \sin & \cos \\
+c & \sin & \\
+C' & \sin & \sec \\
+B' & \sin & \cos \\
+b' & \sin & \\
+b - b' & \tan & \sin \\
+a & & \cos \\
+B'' & \tan &
+\end{array}$$
+
+[fig]Spherical triangle diagram with angle 51[/fig]
+
+$$\begin{array}{llll}
+\sin 17 \frac{1}{2} & 9.47814 & \cos 17 \frac{1}{2} & 9.97942 \\
+\cos [del]59[/del] [ins]51[/ins] & 9.79887 & \sin 51 & 9.89050 \\
+& \overline{9.27701} & \cos 50 & \underline{9.80807} \\
+& & & 9.67799
+\end{array}$$
+
+$$\begin{array}{r}
+.18924 \\
+47642 \\
+\hline 66566 \\
+- 28718 \\
+\hline
+\end{array}$$
+
+$$\begin{array}{ll}
+9.82325 & 41^{\circ}.738 \\
+9.45815n & -16.69
+\end{array}$$
+
+$$\begin{array}{cc}
+9.98131 & 9.87289 \\
+\underline{9.85425} & \underline{9.88425} \\
+9.90294 & 0.01136 \\
+\underline{9.97942} & \underline{9.97942} \\
+9.88236 & 9.99078 \\
+130^{\circ}.307 & 101^{\circ}.76 \\
+49.70 &
+\end{array}$$

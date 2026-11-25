@@ -1,0 +1,37 @@
+[marginalia]Missions Porisge 1893 Jan 29[/marginalia] [pn]3[/pn]
+
+$(\Delta\theta_{n+3} - 3\Delta\theta_{n+2} + 3\Delta\theta_{n+1} - \theta_{n-1}) l_{n+1} \cos\theta_{n+1} - (\theta_{n+2} - 2\theta_{n+1} + \theta_{n}) \Delta l_{n+1} \cos\theta_{n+1}$
+$= - k_{n+2} l_{n+2}^2 \cos\theta_{n+2} \cos\theta_{n+1}$
+
+$\cos\theta_{n+1} = \cos(\theta_n + \Delta\theta_n) = \cos\theta_n \cos\Delta\theta_n - \sin\theta_n \sin\Delta\theta_n$
+$\cos\theta_{n+2} = \cos(\theta_n + 2\Delta\theta_n + \Delta^2\theta_n) = \cos\theta_n \cos 2\Delta\theta_n \cos\Delta^2\theta_n$
+$- \cos\theta_n \sin 2\Delta\theta_n \sin\Delta^2\theta_n$
+$- \sin\theta_n \sin 2\Delta\theta_n \cos\Delta^2\theta_n$
+$- \sin\theta_n \cos 2\Delta\theta_n \sin\Delta^2\theta_n$
+
+[del]To find[/del]
+
+[del]$\delta$[/del] $\delta l_n \sin\theta_n + \delta l_{n+1} \sin\theta_{n+1} = 0$
+Of values $l_n \cos\theta_n \delta\theta_n + l_{n+1} \cos\theta_{n+1} \delta\theta_{n+1} = 0$
+$\delta\theta_{n+1} = - \frac{l_n \cos\theta_n}{l_{n+1} \cos\theta_{n+1}} \delta\theta_n$
+$\delta(\theta_{n+1} - \theta_n) = - \frac{l_{n+1} \cos\theta_{n+1} + l_n \cos\theta_n}{l_{n+1} \cos\theta_{n+1}} \delta\theta_n$
+
+[del]$\delta(\theta_{n+2} - \theta_{n+1}) \frac{l_{n+1} \cos\theta_{n+1} + l_n \cos\theta_n}{l_{n+1} \cos\theta_{n+1}}$[/del]
+
+$\delta \log l_n \sin\theta_n$
+$= k g l_n \cos\theta_n \delta\theta_n$
+
+$D \frac{u}{v}$
+$= \frac{v Du - u Dv}{v^2}$
+
+[del]$\delta$[/del] $(\theta_{n+2} - \theta_{n+1}) \frac{l_n \cos\theta_n}{l_{n+1} \cos\theta_{n+1}} - (\theta_{n+1} - \theta_n) (1 + \frac{l_n \cos\theta_n}{l_{n+1} \cos\theta_{n+1}}) + (\theta_n - \theta_{n-1}) + \frac{k g l_n}{\beta} \cos\theta_n = 0$
+
+$(\theta_{n+1} - \theta_n) \frac{1}{l_n \cos\theta_n} = u_n$
+
+[del]$u_n = \frac{(\theta_{n+1} - \theta_n)}{l_n \cos\theta_n}$[/del]
+
+$\int \frac{D_s \theta \cdot ds}{l \cos\theta} = \int \frac{d\theta}{l \cos\theta} = \frac{1}{2l} \log \frac{1 + \sin\theta}{1 - \sin\theta}$
+
+$\frac{1}{l} \frac{\sin\theta}{1 + \sin\theta}$ [del]$\frac{\cos\theta(1 - \sin\theta) + \cos\theta(1 + \sin\theta)}{\cos^2\theta (1 - \sin\theta + \sin^2\theta}$[/del]
+
+$\frac{1}{l \cos\theta} D_s \theta$

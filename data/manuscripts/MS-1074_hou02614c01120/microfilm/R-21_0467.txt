@@ -1,0 +1,27 @@
+To study
+
+$$\int_{0}^{x} \frac{dx}{\sqrt{1-x^{2}}} = \bar{A}^{1}x \qquad \bar{A}^{1}0 = 0$$
+
+Put $x = \sqrt{1-y^{2}} \qquad [del]y = \sqrt{1-x^{2}}[/del] \qquad dx = [del]\pm[/del] [ins]-\frac{y}{\sqrt{1-y^{2}}} dy[/ins]$
+
+$$\bar{A}^{1}\sqrt{1-y^{2}} = \bar{A}^{1}x = -\int_{1}^{y} \frac{dy}{\sqrt{1-y^{2}}} = \int_{y}^{1} \frac{dy}{\sqrt{1-y^{2}}} - \int_{0}^{y} \frac{dy}{\sqrt{1-y^{2}}}$$
+
+$$\bar{A}^{1}\sqrt{1-y^{2}} = \bar{A}^{1}1 - \bar{A}^{1}y$$
+
+[del]Put $x = \sqrt{1-y^{2}}$[/del] [del]$y = -\sqrt{1-x^{2}}$[/del] [del]$dx = $[/del]
+
+Put [del]$y = -x$[/del] [ins]$x = -y$[/ins] $\qquad dx = -dy$
+
+$$\bar{A}^{1}x = \bar{A}^{1}(-y) = -\int_{0}^{y} \frac{dy}{\sqrt{1-y^{2}}} = -\bar{A}^{1}y$$
+
+Put $y = -z$
+$$\bar{A}^{1}\sqrt{1-z^{2}} = \bar{A}^{1}1 + \bar{A}^{1}z$$
+
+$$\int_{0}^{\sqrt{1-x^{2}}} = \int_{0}^{1} - \int_{0}^{x}$$
+
+$$\begin{aligned}
+2\bar{A}^{1}1 - \bar{A}^{1}x & = 2\int_{0}^{1} - \int_{0}^{x} = \int_{0}^{1} + \int_{0}^{1} - \int_{0}^{x} \\
+& = \int_{0}^{1} - \int_{0}^{0} - \int_{0}^{x} \\
+& = \int_{0}^{1} - \int_{1}^{x} \\
+& = [del]\int_{0}^{1}[/del]
+\end{aligned}$$

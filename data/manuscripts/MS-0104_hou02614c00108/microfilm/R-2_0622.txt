@@ -1,0 +1,24 @@
+[del]First part[/del] [ins]Not.[/ins] [pn]4[/pn]
+
+We now take $F_1$, $F_2$, to signify functions having the period $\pi$. and we write
+
+$$\begin{aligned}
+x &= F_1 q \\
+y &= F_2 q
+\end{aligned}$$
+
+Then $\tan \tau = \frac{F'_1 q}{F'_2 q} = [del]A_q[/del] \tan Nq$
+
+which determines a relation between $F_1$ and $F_2$.
+
+$$F'_1 q = [del]A_q F'_2 q[/del] \tan Nq \cdot F'_2 q$$
+
+Suppose
+
+$$F_2 q = \frac{A_1 + B_1 \sin 2q + C_1 \cos 2q + D_1 \sin 4q + E_1 \cos 4q + \text{etc}}{A_2 + B_2 \sin 2q + C_2 \cos 2q + D_2 \sin 4q + E_2 \cos 4q + \text{etc}}$$
+
+$$F'_2 q = \frac{A_1 + B_1 \sin 2q + \text{etc}}{A_2 + B_2 \sin 2q + \text{etc}} \left( \frac{2B_1 \cos 2q - 2C_1 \sin 2q + \text{etc}}{A_1 + B_1 \sin 2q + [del]\text{etc}[/del] [ins]\text{etc}[/ins]} - \frac{2B_2 \cos 2q - 2C_2 \sin 2q + \text{etc}}{A_2 + B_2 \sin 2q + [del]\text{etc}[/del] [ins]\text{etc}[/ins]} \right)$$
+
+Put $N = 2$
+
+$$F'_1 q = \frac{A_1 \sin 2q + B_1 \sin^2 2q + \text{etc}}{A_2 \sin 2q + B_2 \sin 2q \cos 2q} \left( \right. [fig]blank space with brackets and lines[/fig] \left. \right)$$

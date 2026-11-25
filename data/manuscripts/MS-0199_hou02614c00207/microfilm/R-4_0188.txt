@@ -1,0 +1,18 @@
+[pn]MNT
+p. 60[/pn] Example 2. Required both roots of $x^{10} - 101 x + 101 = 0$. It
+will be convenient to begin by finding the reciprocals of the roots.
+[del]Consequently,[/del] [ins]To form, by[/ins] [del]the[/del] [ins]this equation is $101 ( \frac{1}{x} - \frac{1}{x^{10}} ) = 1$. We proceed as follows;[/ins]
+this equation the substitutes of powers of $\frac{1}{x}$ that are shown in the column on
+the side of the page, marked Scheme A. Now since
+any one of these divided by the one below it is an ap-
+proximation to the smaller value of $1/x$, it fol-
+lows that any one divided by the one above
+it is an approximation to the larger value of $1/x$.
+
+[fig]Grid of numbers representing Scheme A[/fig]
+Scheme A
+
+In order to get the smaller value, a series of substitutes may be
+computed from the formula [del]$x = \frac{1}{101} x^{10} + 1$[/del] [ins]$\frac{1}{x} - \frac{1}{101} \frac{1}{x^{10}} = 1$[/ins]. It may be noted that
+$\frac{1}{101} = 0.\dot{0}09\dot{9}$. But we have a right to start with any two quantities
+(not both zero) that we arbitrarily select. Oblige me then by taking for

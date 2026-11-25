@@ -1,0 +1,11 @@
+[pn]165[/pn]
+
+76. Three soldiers in battle make $96 booty, which they wished to share equally. First, A gave to B and C as much as each had. But B then had too much; and he gave to A and C as much as each had. But that gave C too much; so, he, in turn, gave A and B as much as each had. This equalized the shares. How much had each, at first?
+
+Let [u]a[/u], [u]b[/u], [u]c[/u] be the original amounts. When one doubles the shares of all the others, he gives away all there is except that he does not double his own share. Hence, he is left with twice what he had less $96.
+
+A's share was, at first, [u]a[/u]. It was then 2[u]a[/u] - $96; then 4[u]a[/u] - $192, then 8[u]a[/u] - $384 = $32. That is, [u]a[/u] = $48 + $4.
+
+B's share was, at first, [u]b[/u]. It was then 2[u]b[/u]; then 4[u]b[/u] - $96; last 8[u]b[/u] - [del]$192 = $32[/del] [ins]$192 = $32[/ins] That is, [u]b[/u] = $24 + [del]$[/del]$4.
+
+C's share was, at first, [u]c[/u]. It was then 2[u]c[/u]; then 4[u]c[/u]; last 8[u]c[/u] - $96 = $32 That is [u]c[/u] = $12 + $4.

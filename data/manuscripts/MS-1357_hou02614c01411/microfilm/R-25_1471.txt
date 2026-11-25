@@ -1,0 +1,23 @@
+87. If the distribution of the load is horizontally uniform,
+we may write
+$$\omega = Kx$$
+where $K$ is constant. Then (19) and (15) give
+$$Kx = \omega_R + Q \frac{dy}{dx}$$
+or
+$$\frac{1}{2}Kx^2 = \omega_R x + C + Qy.$$
+But the attachment of the cord being at the origin, $C = 0$,
+and the equation of the curve is
+$$y = \frac{K}{Q} (\frac{1}{2}x^2 - x_R x)$$
+or
+(25)
+$$\frac{y}{y_R} = 2 \frac{x}{x_R} - \frac{x^2}{x_R^2}.$$
+This is a parabola with vertical axis.
+Since $y_R$ is negative, we may put
+$$\Upsilon = - y_R = \text{the versin (when the towers are of equal height)}$$
+When $Y = 0$, that is, when the towers are of equal height
+
+(26)
+$$Q = \frac{KX^2}{8\Upsilon}.$$
+In the same case, by (20),
+(27)
+$$\text{Max } q = \frac{KX^2}{8\Upsilon} \sqrt{1 + (\frac{4\Upsilon}{X})^2}$$

@@ -1,0 +1,59 @@
+$$(xi + yj + zk + w)^2 = ai + bj + ck + d$$
+
+[del]$$\bullet$$[/del] $$-x^2 - y^2 - z^2 + w^2$$
+$$+ 2xwi + 2ywj + 2zwk$$
+
+$$\begin{array}{c}
+2xw = a \\
+2yw = b \\
+2zw = c
+\end{array}$$
+$$\begin{array}{c}
+x^2 = \frac{a^2}{4w^2} \\
+y^2 = \frac{b^2}{4w^2} \\
+z^2 = \frac{c^2}{4w^2}
+\end{array}$$
+
+$$-x^2 - y^2 - z^2 + w^2 = d$$
+
+$$-\frac{a^2 + b^2 + c^2}{4w^2} + w^2 = d$$
+
+$$4w^4 - 4dw^2 = a^2 + b^2 + c^2$$
+
+$$(2w^2 - d)^2 = a^2 + b^2 + c^2 + d^2$$
+
+$$2w^2 = d \pm \sqrt{a^2 + b^2 + c^2 + d^2}$$
+
+$$w = \pm \sqrt{\frac{1}{2}d \pm \frac{1}{2}\sqrt{a^2 + b^2 + c^2 + d^2}}$$
+
+Either $a = b = c = 0$ when $w = 0$
+
+or $w = \pm \sqrt{\frac{1}{2}d + \frac{1}{2}\sqrt{a^2 + b^2 + c^2 + d^2}}$
+
+$$S\sqrt{q} = \pm \sqrt{\frac{1}{2}Sq + \frac{1}{2}Tq}$$
+
+$$2w^2 = S + T$$
+$$w = \frac{S + T}{\sqrt{2}\sqrt{S + T}}$$
+
+$$\frac{b^2 + y^2 + z^2 + w^2 = \frac{a^2 + b^2 + c^2 + d^2 + d\sqrt{a^2 + b^2 + c^2 + d^2}}{2w^2}}{\sqrt{x^2 + y^2 + z^2 + w^2} = \frac{a^2 + b^2 + c^2 + d^2 + d\sqrt{a^2 + b^2 + c^2 + d^2}}{d + \sqrt{a^2 + b^2 + c^2 + d^2}}}$$
+
+$$T_V = \frac{VT\sqrt{S + T}}{\sqrt{S + T}}$$
+$$(T + S)V = VT + \sqrt{T + S}$$
+
+$$S\sqrt{q} = \frac{1}{\sqrt{2}} \frac{(S + T)q}{\sqrt{S + T}\sqrt{q}}$$
+
+$$V\sqrt{q} = \frac{1}{\sqrt{2}} \frac{Vq}{\sqrt{S + T}\sqrt{q}}$$
+
+$$4w^4 = a^2 + b^2 + c^2 + 2d^2$$
+$$+ 2d\sqrt{a^2 + b^2 + c^2 + d^2}$$
+
+$$w^2 = \frac{1}{2}(d + \sqrt{a^2 + b^2 + c^2 + d^2})$$
+
+$$x = \frac{a}{\pm \sqrt{2}\sqrt{d + \sqrt{a^2 + b^2 + c^2 + d^2}}}$$
+
+$$T = \sqrt{S^2 + T^2}$$
+$$a + bi$$
+$$a^2$$
+$$T = \sqrt{S^2 - V^2}$$
+$$U = \frac{S + V}{\sqrt{S^2 - V^2}}$$
+$$U = \frac{\sqrt{S + V}}{\sqrt{S - V}}$$

@@ -1,0 +1,163 @@
+[fig]Geometric lines crossing the page[/fig]
+
+[marginalia]
+8
+7
+2
+4
+8
+7
+[/marginalia]
+
+[del]
+[del]1 + R₁ = R₁ (1 + P₁) (1 + U)[/del]
+[del]\frac{1}{R₁} + 1 =[/del]
+[del]\frac{1}{R₁} = P₁ + U + UP₁[/del]
+[del]\frac{1}{R₁} = U + (1 + U) P₁[/del]
+[del]P₁ = (\frac{1}{R₁} - U) / (1 + U)[/del] Right
+[/del]
+
+[del]
+[del]UQ₁ (1 + R₁) = (1 + U) (1 + Q₁)[/del]
+[del]U (1 + R₁) = (1 + U) (\frac{1}{Q₁} + 1)[/del]
+[del]1 + R₁ = (1 + \frac{1}{U}) (1 + \frac{1}{Q₁})[/del]
+[del]R₁ = \frac{1}{U} + \frac{1}{Q₁} + \frac{1}{UQ₁}[/del]
+[/del]
+
+[del]
+[del]\frac{1}{1 + R₁} = \frac{1}{(1 + \frac{1}{U}) (1 + \frac{1}{Q₁})}[/del]
+[del]R₁ - \frac{1}{U} = \frac{1}{Q₁} (1 + \frac{1}{U})[/del]
+[/del]
+
+[del]
+[del]\frac{R₁ - \frac{1}{U}}{1 + \frac{1}{U}} = \frac{1}{Q₁}[/del]
+[del]= \frac{R₁U - 1}{1 + U} = \frac{1}{Q₁}[/del]
+[/del]
+
+Q₁ = \frac{1 + U}{R₁U - 1} Right
+
+1 + Q₁ = \frac{(R₁ + 1) U}{R₁U - 1}
+
+\frac{Q₁}{1 + Q₁} = \frac{1 + U}{(1 + R₁) U}
+
+\frac{UQ₁}{1 + Q₁} = \frac{1 + U}{1 + R₁}
+
+P₁ = \frac{\frac{1}{R₁} - U}{1 + U}
+
+1 + P₁ = \frac{1 + \frac{1}{R₁}}{1 + U}
+
+\frac{1}{1 + P₁} = \frac{1 + U}{1 + \frac{1}{R₁}}
+
+\frac{P₁}{1 + P₁} = \frac{\frac{1}{R₁} - U}{1 + \frac{1}{R₁}}
+
+\frac{U}{1 + Q₁} = \frac{\frac{1}{Q₁} - 1}{1 - \frac{1}{P₁}}
+
+[del]U = \frac{Q₁ - 1}{1 - \frac{1}{P₁}}[/del]
+
+[del]U = P₁ \frac{Q₁ - 1}{P₁ - 1}[/del]
+
+[del]U + 1 = \frac{P₁Q₁ - 1}{P₁ - 1}[/del]
+
+[del]
+\frac{UQ₁}{1 + Q₁} A
+[/del]
+
+[del]
+\frac{UQ₁}{1 + Q₁} A + \frac{1}{1 + R₁} B + \frac{P₁ + P₁Q₁ + U + UP₁}{(1 + P₁) (1 + Q₁)} C
+[/del]
+
+[del]
+\frac{1 + U}{1 + R₁} A + \frac{R₁ (1 + U)}{1 + R₁} B
+[/del]
+
+[del]UQ₁ (1 + R₁) = 1 + Q₁[/del]
+
+[del]UQ₁ (1 + \frac{1}{P₁}) = 1 + Q₁[/del]
+
+[del]UQ₁ (1 + \frac{1}{P₁}) = P₁ + P₁R₁[/del]
+
+[del]U (1 + P₁) = P₁ + P₁R₁[/del]
+
+[del]Q₁ - 1 = U (1 - \frac{1}{P₁})[/del]
+
+[del]P₁ (1 + Q₁) + U (1 + P₁) = 0[/del]
+
+[del]U = - \frac{1 + Q₁}{1 + \frac{1}{P₁}} = \frac{- P₁ (1 + Q₁)}{1 + P₁}[/del]
+
+\frac{U}{1 + U} A + \frac{Q₁}{1 + Q₁} A
+
+\frac{1}{1 + R₁} A
+
+\frac{1}{1 + U} B + \frac{P₁}{1 + P₁} C
+
++ \frac{U}{1 + Q₁} C
+
+[del]R₁ (1 + P₁) = 1 + R₁[/del]
+
+[del]R₁P₁ = 1[/del]
+
+[del]
+\frac{1}{1 + U}
+[/del]
+
+[del]
+1 + U = \frac{1 - P₁Q₁}{1 + P₁}
+[/del]
+
+[del]
+\frac{U}{1 + U} = \frac{- P₁ (1 + Q₁)}{1 - P₁Q₁}
+[/del]
+
+\frac{U}{1 + U} \frac{1}{1 + Q₁} C
+
+\frac{1}{1 + U} \frac{1}{1 + P₁} B + \frac{1}{1 + U} \frac{P₁}{1 + P₁} C
+
+\frac{R₁}{1 + R₁} B
+
+\frac{1}{1 - R₁U} + \frac{1}{R₁}
+
+\frac{- P}{1 - P₁Q₁} = \frac{R₁}{1 + R₁}
+
+\frac{- PQ}{1 - P₁Q₁} = \frac{1}{1 + R₁}
+
+[marginalia]
+9
+[/marginalia]
+
+[marginalia]
+18
+[/marginalia]
+
+[del]
+= P₁ + P₁Q₁ + U + UP₁
+[/del]
+
+[del]
+= 1 - Q₁ - UQ₁ - Q₁
+[/del]
+
+[marginalia]
+0
+[/marginalia]
+
+[marginalia]
+2
+[/marginalia]
+
+[marginalia]
+2
+[/marginalia]
+
+1 + R = (1 + \frac{1}{U}) (1 + \frac{1}{Q₁})
+
+R = \frac{1}{U} + \frac{1}{Q₁} (1 + \frac{1}{U})
+
+R - \frac{1}{U} = \frac{1}{Q₁} (1 + \frac{1}{U})
+
+[marginalia]
+0
+[/marginalia]
+
+R = \frac{1}{U} (1 + \frac{1}{Q₁}) +
+
+- \frac{1}{Q₁} = R₁ - \frac{1}{U} = \frac{1}{Q₁} (1 + \frac{1}{U})

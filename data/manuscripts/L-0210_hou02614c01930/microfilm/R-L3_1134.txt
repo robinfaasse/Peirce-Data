@@ -1,0 +1,41 @@
+way in which you conceal the associative character of
+this formula which you write
+$a \oplus (b \oplus c) \oplus b \oplus a \oplus c$
+but which I should write
+$(b \oplus c) a \oplus b \oplus (c \oplus a)$
+comparing it with
+$(b \oplus c) \oplus a \quad \underline{\&} \quad b \oplus (c \oplus a)$
+
+The proof of the lemma looks all right, but I
+have not examined it very closely. It appears to me
+that it might be proved more readily as follows:
+From Nos 4 and 5, it follows that $Z$ and $I$ are
+unique. Now if it were possible for $a \oplus b$ to
+be true when $b$ belongs to the $x$ class that is when
+$b \odot Z$, while $a$ does not, i.e. when $a \odot Z$,
+$b \odot Z$ while $a$ does not, i.e. when $a \overline{\odot} Z$,
+then, by No. 3, $a \oplus m$ would be true whatever $m$ might be,
+and $m \oplus b$ would be true whatever $m$ might be, so that
+$a \oplus b$ would always be true. Hence $x \odot y$ and $y \odot x$ whatever
+$x$ and $y$ might be, contrary to No. 10, your "trivial" pos-
+tulate. Hence, if $a \oplus b$, either $a \odot Z$ or $b \odot Z$; then
+by making $b$ in No.3, first $Z$, and then $a \oplus b$.
+That if $a \odot Z$ or $b \odot Z$, then $a \oplus b \overline{\odot} Z$ unless
+Hence Nos 6 and 7 show that $a \oplus b \overline{\odot} Z$,
+$a \odot Z$ and $b \odot Z$, while $a \oplus b \odot Z$ unless $a \odot Z$
+and that the converse propositions hold.
+Hence $(a \oplus b) c \odot Z$, unless both $c \odot Z$ and either $a \odot Z$
+or $b \odot Z$, while $a \oplus b c \odot Z$, unless both $a \odot Z$ and
+either $b \odot Z$ or $c \odot Z$, which establishes the lemma very
+simply.
+
+very faithfully
+[signature]C S Peirce[/signature]
+
+You might insert this method in a note or
+otherwise, if you think it worth while. Indeed, I
+should be obliged to you if you would. It might
+be developed. I dare say there may be blunders
+in this letter. It has been written with some-
+body talking to me all the time. I shall be
+much interested to see your whole paper.

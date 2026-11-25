@@ -1,0 +1,51 @@
+From (15) & (17) we have
+
+$$10 \equiv 1$$
+
+Hence
+
+$$\begin{array}{l} \ell_1 \equiv \ell \text{ to something} \\ \ell_0 \equiv 0 \text{ or } \ell \text{ to everything} \end{array} \qquad \begin{array}{l} 1 \ell \equiv 1 \\ 0 \ell \equiv 0 \end{array}$$
+
+Now if we let
+
+$$\ell'x \equiv 1 - (1 - \ell)x$$
+
+$$\ell'x \equiv 1 - (1 - 1)x \equiv 1 - 0x \equiv 1 - 0 \equiv 1$$
+$$\ell'x \equiv 1 - (1 - 0)x \equiv 1 - 1x \equiv 1 - 1 \equiv 0$$
+$$\ell'1 \equiv 1 - (1 - \ell)1 \equiv 1 - \text{other than } \ell \text{ to something} \equiv \text{what is } \ell \text{ & everything} \equiv \ell_0$$
+$$\ell'0 \equiv 1 - (1 - \ell)0 \equiv 1 - \text{other than } \ell \text{ to everything} \equiv (1 - \ell)1$$
+
+Then $\ell'x$ might be written $\ell^x$
+
+and we should have
+
+$$1^x \equiv 1 \qquad 0^x \equiv 0$$
+
+$$\ell^1 \equiv \ell_0 \text{ which might be written } \ell$$
+
+[del]$$\frac{(1-\ell)^1 \equiv (1-\ell)0 \equiv (1-\ell)}{3}$$[/del]
+
+$$\ell^0 \equiv 1 - \ell_0 \equiv [del](1-\ell)[/del] 1 \text{ which might be written } \ell'$$
+
+***
+
+[pn]51R[/pn]
+
+We have also
+
+$$\ell^x \ell^y \equiv \ell^{x+y}$$
+
+$$(\ell, m)^x \equiv \ell^x, m^x$$
+
+$$\ell^{x,y} \equiv \ell^x + \frac{0}{0}, \ell^y$$
+
+This may be expressed as $(\ell^x)^y \equiv (\ell^y)^x$ ??
+
+$$(\ell + m)^x \equiv \ell^x + \frac{0}{0} + m^x$$
+
+$$\ell^{0, A + 1, B + \frac{0}{0}, C + \frac{1}{0}, D} \equiv \ell^0, \ell^B, \ell^{\frac{0}{0}, C}, \ell^D$$
+
+$$\ell^{B + \frac{0}{0} C} \equiv \ell^B, \ell^{\frac{0}{0} C}$$
+
+$$\ell^x, \ell^{-x} \equiv \ell^{x + (-x)} \equiv \ell^0$$
+$$\ell^x, \ell^x \equiv \ell^x + \frac{0}{0}, (1 - \ell^x)$$

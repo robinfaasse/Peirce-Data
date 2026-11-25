@@ -1,0 +1,32 @@
+$$\sqrt{x^2+y^2} - \frac{R}{\sqrt{2}} \sqrt{1 - \frac{y}{\sqrt{x^2+y^2}}} = \frac{1}{2} R$$
+
+$$x^2+y^2 - \sqrt{2} R \sqrt{x^2+y^2} \sqrt{1 - \frac{y}{\sqrt{x^2+y^2}}} [del]+ \text{?}[/del] [del]\text{?}[/del] - \frac{1}{2} R \frac{y}{\sqrt{x^2+y^2}} = 0$$
+
+$$r = R \sqrt{\frac{1-\cos \varphi}{2}} + a R$$
+
+$$r - a R = R \sqrt{\frac{1-\cos \varphi}{2}}$$
+
+$$r^2 - 2 a r R + a^2 R^2 = \frac{1}{2} R^2 - \frac{1}{2} R^2 \cos \varphi$$
+
+$$r^3 - 2 \sqrt{2} r^2 R = - \frac{1}{2} R^2 x$$
+
+$$r^3 = 2 \sqrt{2} r^2 R - \frac{1}{2} R^2 x$$
+
+$$r^6 = 8 r^4 R^2 - 2 \sqrt{2} r^2 R^3 x + \frac{1}{4} R^4 x^2$$
+
+$$(x^2+y^2)^3 =$$
+
+[u]6[sup]th[/sup] order[/u]. -
+For it may certainly be easily represented by 4[sup]th[/sup]
+
+[fig]Three topological knot-like diagrams[/fig]
+
+$$\frac{1}{x^2} + \frac{1}{y^2} + \frac{1}{z^2} + 3 \left( \frac{1}{x^4} + \frac{1}{y^4} + \frac{1}{z^4} \right) = 0$$
+
+$$\frac{1}{x^2} + \frac{1}{y^2} + \frac{1}{\frac{1}{4}-y+y^2} + a \left( \frac{2}{y} + \frac{2}{\frac{1}{2}-y} + \frac{1}{y(\frac{1}{2}-y)} \right) = 0$$
+
+$$\begin{array}{l} x = \frac{1}{2} \\ \\ \end{array} \begin{array}{l} y+z = \frac{1}{2} \\ z = \frac{1}{2}-y \end{array}$$
+
+$$\begin{array}{r} 4 y^2 \left(\frac{1}{2}-y\right)^2 + \left(\frac{1}{2}-y\right)^2 + y^2 + a \left[ 2 y \left(\frac{1}{2}-y\right)^2 \right. \\ \left. \vphantom{\left(\frac{1}{2}-y\right)^2} + 4 \left(\frac{1}{2}-y\right) \right] = 0 \end{array}$$
+
+$$\begin{array}{r} \frac{1}{4} y^2 + y^4 \\ + \frac{1}{4} - y + y^2 - 4 y^3 + 4 y^4 \end{array}$$

@@ -1,0 +1,24 @@
+$$\Sigma_i \Sigma_j \ell_{ij} = \Sigma_j \Sigma_i \ell_{ij} = \Sigma_i \Sigma_k \Sigma_j \ell_{ij} \ell_{kj}$$
+$$= \Sigma_j \Sigma_i \Sigma_k \ell_{ij} \ell_{kj} = \Sigma_i \Sigma_j \Sigma_k \Sigma_l \ell_{ij} \ell_{kl} .$$
+
+Any index may be made different in the
+different factors by the formulae of the
+$5^{\text{th}}$ Step; and by a formula to be given under
+the $7^{\text{th}}$ step and index universally quantified
+(quantified by [del]a[/del] $\Pi$) may be made identical
+in the different factors. It therefore, only
+remains to consider [ins]under what circumstances[/ins] [del]how[/del] indices parti-
+cularly quantified (quantified by $\Sigma$s) can
+be identified in the different factors.
+
+The fact that an index is preceded by a
+particularly quantified index not identified
+in the different factor will not prevent [del]the[/del] its
+from being identified. Thus, consider
+$$\Sigma_i \Pi_j \Sigma_k \ell_{ijk} .$$
+This is equivalent to
+$$\Sigma_i \Sigma_l \Pi_j \Sigma_k \ell_{ijk} \ell_{ljk} .$$
+And it is plain that it will always be so
+because
+[del]$$\Sigma_i \Sigma_j \Sigma_j$$
+$$\Sigma_i a_{ij} \Sigma_i \Sigma_j a_{ij}$$[/del]

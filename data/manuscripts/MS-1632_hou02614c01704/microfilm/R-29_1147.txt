@@ -1,0 +1,50 @@
+[fig]Geometric diagram with triangle ABC and inscribed rectangle[/fig]
+
+<u>Second Solution.</u> [del]If a[/del]
+to be inscribed as is $DEFG$
+$ABC$. Let $b$ and $a$ be the
+sides of the rectangle, and $bd$
+the area [del]$C$[/del] $E$ being equal to $d$.
+Let the angle $ACB = \omega$.
+$AB = AF + FB = \frac{a}{\sin \omega} + b \cos \omega$.
+$AC = AG + GC = b \sin \omega + \frac{a}{\cos \omega}$.
+
+$AB \cdot AC = 2bd = \left(\frac{a}{\sin \omega} + b \cos \omega\right) \left(b \sin \omega + \frac{a}{\cos \omega}\right) = \frac{a^2}{\sin \omega \cos \omega} + b^2 \sin \omega \cos \omega + 2ab$,
+was $2 \sin \omega \cos \omega = \sin 2\omega$.
+$\frac{2a^2}{\sin 2\omega} + \frac{1}{2} b^2 \sin 2\omega + 2ab = 2bd$.
+$b^2 \sin^2 2\omega + 4(a-d) b \sin 2\omega = -4a^2$
+$b \sin 2\omega + 2(a-d) = \sqrt{(4(a-d)^2 - 4a^2)} = [del]\sqrt{4(d^2 - 2ad)}[/del]$
+$= 4 \sqrt{(d(d-2a))}$.
+$b \sin 2\omega = -2(a-d) \pm 2 \sqrt{(d(d-a))}$
+the construction is simple
+
+7. In the drawing of a lottery, according to the
+old system, there remained 6,300 tickets in the
+wheel, amongst which were two capital
+prizes, and were to be drawn on nine successive
+days, 700 tickets each day; what was the probability
+of drawing the two prizes on each of the nine days,
+and what on drawing them at all on the same
+day?
+
+Solution. Let $n$ be the number of days still
+to be drawn, and $m$ the number of tickets drawn on
+each day. Then,
+1. If one had been already drawn, the chance of
+drawing the other on any particular day is, of course,
+$\frac{1}{n}$.
+2. If one had not yet been drawn, the chance that
+one would not be drawn on a certain day would
+be $\frac{n-1}{n}$, that the other would not would also be
+$\frac{n-1}{n}$. So that the chance that both would not
+would be $(\frac{n-1}{n})^2$. the chance that one of the two
+would be drawn is then $1 - (\frac{n-1}{n})^2 = \frac{n^2 - (n-1)^2}{n^2} = \frac{2n-1}{n^2}$.
+3. The chance that one would be drawn on a certain
+day is $\frac{2}{n}$. the chance that the other would also is
+$\frac{m-1}{mn-1}$ or the number of tickets to be drawn on that
+day divided by the whole number, excluding in both
+cases the ticket already drawn. The chance, then, that
+both will be drawn on a given day is $\frac{2}{n} \cdot \frac{m-1}{mn-1} = \frac{2(m-1)}{n(mn-1)}$.
+4. the chance of both being drawn at all on the
+same day, is the product of the number of days by the chance
+of their being drawn on the a given day or $n \cdot \frac{2(m-1)}{n(mn-1)} = \frac{2(m-1)}{mn-1}$.

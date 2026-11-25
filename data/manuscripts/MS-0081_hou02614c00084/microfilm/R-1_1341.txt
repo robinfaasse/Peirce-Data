@@ -1,0 +1,36 @@
+Notes on the Fundamentals of Algebra
+
+The copula is the first symbol. Supposing there is but one copula
+it can be shown that its definition would be,
+
+1. $x \prec x$ whatever $x$ may be
+2. If $x \prec y$ and $y \prec z$, then $x \prec z$.
+3. If $x \prec y$ and $y \prec x$, then $x$ and $y$ are indistinguishable,
+([ins]and we write[/ins] $x = y$.)
+
+The letters usually have material significance. But some have a
+merely formal significance being evolved from algebra itself. Such
+are
+$0$, or zero, which is thus defined,
+$0 \prec x$ whatever $x$ may be.
+
+$\infty$, or general infinity, which is thus defined,
+$x \prec \infty$ whatever $x$ may be.
+[del]If[/del] $x \prec 0, x = 0$. If $\infty \prec x, \infty = x$.
+
+[u]Ligation[/u]
+
+Ligations of letters are either simple or branching.
+Example of simple ligation $x \prec y \prec z \prec u \prec v \prec w$
+Example of branching ligation $x \prec \left\{ \begin{matrix} y \\ z \end{matrix} \right\} \prec u \prec \left\{ \begin{matrix} v \\ w \end{matrix} \right\}$
+
+[u]All branching ligation may be reduced to bifurcation[/u] $x \prec \left\{ \begin{matrix} y \\ z \\ w \end{matrix} \right\} = x \prec \left\{ \begin{matrix} y \\ x \prec \left\{ \begin{matrix} z \\ w \end{matrix} \right. \end{matrix} \right.$
+
+[u]Simple Ligation[/u].
+
+Simple ligation is of the following kinds
+Supposing [del]l[/del] $l \cdot m \prec x \cdot y$
+1. Such that $l \cdot x \prec m \cdot y$. This is called [u]multiplication[/u].
+2. Such that $l^y \prec m^x$. This is called [u]progressive involution[/u].
+3. Such that $^m x \prec ^l y$. This is called [u]regressive involution[/u].
+[del]Such that $m \cdot y \prec l \cdot x$.[/del]

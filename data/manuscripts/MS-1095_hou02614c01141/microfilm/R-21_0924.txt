@@ -1,0 +1,12 @@
+[del]V = g m h (1 - cos θ₀) + g m (r + h) g m r cos θ₀[/del]
+U = g m₀ h₀ (1 - cos θ₀) + g m r (1 - cos θ₀) + g m h (1 - cos θ) + ½ ε (δθ)²
+
+If the differential equations were formed and resolved, the motion would be seen to consist of two harmonic components, the amplitudes of which are arbitrary constants. It is, therefore, possible for one of these to vanish. This assumes an equation between θ and θ₀; and it is plain (or if not, it will shortly appear) that this expresses the condition that U shall be a minimum.
+The equation, then, is
+[del]g m h sin θ + ε (δθ)[/del]
+g m h sin θ + ε δθ = 0,
+or
+δθ = - [fraction]g m h / ε[/fraction] sin θ.
+
+Let us write [ins][fraction]ω / 1 - ω[/fraction][/ins] [del]ω[/del] for the angular flexure of the joint which would be produced by a force equal to the weight of the lower piece applied rectangularly at [del]a distance from the joint[/del] the centre of mass of this piece, so that
+g m h = ε [del]ω[/del] [ins][fraction]ω / 1 - ω[/fraction][/ins]

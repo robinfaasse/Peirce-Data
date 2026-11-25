@@ -1,0 +1,27 @@
+[u]i'' i = i (i' - k') = i' - k'[/u] | [u]i''[/u] | [u]i (k' - i') = k' - i'[/u] | [u]i''[/u] | [u]i (i' - j') = i' - j'[/u] | [u]i''[/u]
+i | k' - i' | j'' | | i' - j' | k'' | | j' - k' | i''
+k | i' - j' | k'' | l | j' - k' | i'' | k | k' - i' | j''
+l | m' - n' | l'' | k | n' - l' | m'' | l | l' - m' | n''
+m | n' - l' | m'' | l | l' - m' | n'' | m | m' - n' | l''
+n | l' - m' | n'' | m | m' - n' | l'' | n | n' - l' | m''
+
+[u]l'' i = i (m' - n') = m' - n'[/u] | [u]l''[/u] | (n' - l') | n' - l' = m''
+i | l' - m' | n'' | | m' - [del]n'[/del] [ins]l'[/ins] = l''
+k | n' - l' | m'' | | l' - m' = n''
+l | j' - k' | i'' | | k' - i' = j''
+m | i' - j' | k'' | | j' - k' = i''
+n | k' - i' | j'' | | i' - j' = k''
+
+i'' i = i' - k' | j' - k' | i'' | j'' i = k' - i' | = k' - i' = j''
+i | k' - i' | j'' | i | i' - j' = k''
+k | i' - j' | k'' | k | j' - k' = i''
+l | m' - n' | l'' | l | l' - m' = n''
+m | n' - l' | m'' | m | m' - n' = l''
+n | l' - m' | n'' | n | n' - l' = m''
+
+l'' i = (m' - n') i = m' - n' | l'' | m'' i = (n' - l') | n'' i = (l' - m') i | l' - m' | n''
+l | l = n' - l' = m'' | l | | m' - n' | l''
+k | k = l' - m' = n'' | k | | n' - l' | m''
+l | l = j' - k' = i'' | l | | k' - i' | j''
+m | m = k' - i' = j'' | m | | i' - j' | k''
+n | n = i' - j' = k'' | n | | j' - k' | i''

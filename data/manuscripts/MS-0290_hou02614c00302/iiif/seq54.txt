@@ -1,0 +1,177 @@
+[fig]red diagonal line crossing the page[/fig]
+[u]Vapor Pressure of Water[/u]
+{"location": [870, 755], "text": "T"}
+{"location": [862, 638], "text": "log t"}
+{"location": [878, 458], "text": "1+log p"}
+{"location": [894, 281], "text": "log [del]T[/del] [ins]t[/ins]"}
+{"location": [901, 182], "text": "1+log p"}
+{"location": [834, 752], "text": "263"}
+{"location": [833, 613], "text": "2.4200"}
+{"location": [823, 417], "text": "0.3284"}
+{"location": [824, 335], "text": "3325"}
+{"location": [833, 248], "text": "000"}
+{"location": [838, 169], "text": "001"}
+{"location": [803, 755], "text": "273"}
+{"location": [805, 613], "text": "2.4362"}
+{"location": [791, 417], "text": "0.6609"}
+{"location": [792, 334], "text": "5826"}
+{"location": [806, 249], "text": "16"}
+{"location": [811, 169], "text": "34"}
+{"location": [757, 756], "text": "283"}
+{"location": [763, 610], "text": "2.4669"}
+{"location": [759, 417], "text": "1.2435"}
+{"location": [753, 334], "text": "4981"}
+{"location": [770, 248], "text": "47"}
+{"location": [773, 166], "text": "92"}
+{"location": [727, 754], "text": "313"}
+{"location": [725, 608], "text": "2.4955"}
+{"location": [725, 417], "text": "1.7416"}
+{"location": [721, 332], "text": "4326"}
+{"location": [737, 235], "text": "75 [ins]1[/ins]/2"}
+{"location": [742, 165], "text": "142"}
+{"location": [689, 753], "label": "marginalia", "text": "4d"}
+{"location": [693, 756], "text": "333"}
+{"location": [696, 606], "text": "2.5224"}
+{"location": [690, 415], "text": "2.1742"}
+{"location": [681, 331], "text": "3765"}
+{"location": [702, 248], "text": "102"}
+{"location": [702, 165], "text": "185"}
+{"location": [657, 755], "text": "353"}
+{"location": [662, 608], "text": "2.5478"}
+{"location": [654, 416], "text": "2.5507"}
+{"location": [643, 335], "text": "3361"}
+{"location": [664, 249], "text": "128"}
+{"location": [668, 165], "text": "223"}
+{"location": [624, 755], "text": "373"}
+{"location": [624, 611], "text": "2.5717"}
+{"location": [619, 417], "text": "2.8808"}
+{"location": [609, 333], "text": "2906"}
+{"location": [628, 250], "text": "152"}
+{"location": [632, 165], "text": "256"}
+{"location": [587, 756], "text": "393"}
+{"location": [584, 608], "text": "2.5944"}
+{"location": [584, 417], "text": "3.1714"}
+{"location": [573, 335], "text": "1338"}
+{"location": [595, 251], "text": "174"}
+{"location": [594, 167], "text": "285"}
+{"location": [550, 755], "text": "403"}
+{"location": [545, 610], "text": "2.6053"}
+{"location": [549, 417], "text": "3.3052"}
+{"location": [538, 334], "text": "2473"}
+{"location": [553, 251], "text": "185"}
+{"location": [555, 167], "text": "299"}
+{"location": [515, 755], "text": "423"}
+{"location": [513, 610], "text": "2.6263"}
+{"location": [512, 418], "text": "3.5525"}
+{"location": [504, 336], "text": "5129"}
+{"location": [517, 250], "text": "206"}
+{"location": [520, 164], "text": "323"}
+{"location": [478, 754], "text": "473"}
+{"location": [478, 608], "text": "2.6749"}
+{"location": [477, 418], "text": "4.0654"}
+{"location": [468, 334], "text": "4078"}
+{"location": [479, 251], "text": "285"}
+{"location": [483, 162], "text": "375"}
+{"location": [441, 755], "text": "523"}
+{"location": [444, 608], "text": "2.7185"}
+{"location": [441, 416], "text": "4.4732"}
+{"location": [430, 332], "text": "1406"}
+{"location": [442, 235], "text": "298 [ins]1[/ins]/2"}
+{"location": [449, 162], "text": "415"}
+{"location": [406, 755], "text": "543"}
+{"location": [409, 610], "text": "2.7348"}
+{"location": [408, 415], "text": "4.6138"}
+{"location": [395, 332], "text": "5562"}
+{"location": [410, 249], "text": "315"}
+{"location": [411, 161], "text": "429"}
+{"location": [373, 735], "text": "637.6"}
+{"location": [377, 609], "text": "2.8045"}
+{"location": [372, 415], "text": "5.1700"}
+{"location": [383, 232], "text": "384 [ins]1[/ins]/2"}
+{"location": [379, 158], "text": "485"}
+{"location": [330, 602], "text": "3845"}
+{"location": [333, 418], "text": "48416"}
+{"location": [316, 215], "text": "30"}
+{"location": [315, 235], "text": "1"}
+{"location": [298, 305], "text": "d log t"}
+{"location": [267, 185], "text": "a + b log p"}
+{"location": [308, 305], "text": "------- ="}
+{"location": [265, 305], "text": "d log p"}
+{"location": [186, 184], "text": "a + b log p"}
+{"location": [223, 184], "text": "----------- ="}
+{"location": [240, 212], "text": "1"}
+{"location": [232, 112], "text": "("}
+{"location": [178, 192], "text": "d (a + b log p)"}
+{"location": [217, 187], "text": "-----------------"}
+{"location": [232, 239], "text": "d t"}
+{"location": [146, 210], "text": "d log p"}
+{"location": [168, 237], "text": "d (a + b log p)"}
+{"location": [182, 182], "text": "-----------------"}
+{"location": [182, 154], "text": "d log p"}
+{"location": [116, 281], "text": "d t [del]d log p[/del]"}
+{"location": [144, 282], "text": "-------"}
+{"location": [160, 282], "text": "b d log p"}
+{"location": [108, 187], "text": "d (a + b log p)"}
+{"location": [141, 187], "text": "-----------------"}
+{"location": [152, 112], "text": ")"}
+{"location": [83, 131], "text": "d log p"}
+{"location": [100, 79], "text": "a + b log p"}
+{"location": [128, 112], "text": "="}
+{"location": [53, 78], "text": "d log p"}
+{"location": [58, 269], "text": "d t = a t [ins]0[/ins] + [ins]1[/ins]/b log (a + b log p)"}
+{"location": [29, 217], "text": "[ured]2.420 t[/ured]"}
+{"location": [24, 76], "text": "8.8432"}
+{"location": [23, 189], "text": "0697"}
+{"location": [18, 292], "text": "8.2095"}
+{"location": [11, 442], "text": "0162"}
+{"location": [874, 275], "text": "- 2.42"}
+{"location": [874, 171], "text": "- 0.22"}
+{"location": [284, 843], "text": "32"}
+{"location": [267, 843], "text": "14"}
+{"location": [252, 843], "text": "28"}
+{"location": [238, 843], "text": "42"}
+{"location": [223, 841], "text": "48"}
+{"location": [278, 807], "text": "7"}
+{"location": [300, 807], "text": "10"}
+{"location": [297, 780], "text": "9/50"}
+{"location": [257, 780], "text": "50"}
+{"location": [223, 781], "text": "500"}
+{"location": [252, 730], "text": "126"}
+{"location": [263, 715], "text": "2.4"}
+{"location": [262, 638], "text": "2.42"}
+{"location": [245, 689], "text": ".04105"}
+{"location": [241, 608], "text": "2.8045"}
+{"location": [231, 717], "text": "111"}
+{"location": [226, 755], "text": "1000"}
+{"location": [207, 676], "text": "64625"}
+{"location": [200, 597], "text": "3845"}
+{"location": [198, 706], "text": ".60520"}
+{"location": [151, 858], "text": "30"}
+{"location": [146, 725], "text": "3524"}
+{"location": [133, 722], "text": "[del]51700[/del]"}
+{"location": [108, 720], "text": "64625"}
+{"location": [62, 743], "text": "3845"}
+{"location": [74, 650], "text": "48416"}
+{"location": [71, 631], "text": "1"}
+{"location": [33, 742], "text": "2988"}
+{"location": [42, 679], "text": "3845"}
+{"location": [33, 627], "text": "/3"}
+{"location": [414, 825], "text": "3643"}
+{"location": [422, 825], "text": "273.3"}
+{"location": [394, 825], "text": "637.6"}
+{"location": [818, 542], "text": "162"}
+{"location": [784, 543], "text": "307"}
+{"location": [744, 542], "text": "286"}
+{"location": [722, 542], "text": "269"}
+{"location": [689, 542], "text": "254"}
+{"location": [655, 541], "text": "239"}
+{"location": [620, 541], "text": "227"}
+{"location": [584, 541], "text": "209"}
+{"location": [545, 543], "text": "210"}
+{"location": [504, 541], "text": "486"}
+{"location": [468, 541], "text": "436"}
+{"location": [434, 541], "text": "163"}
+{"location": [399, 542], "text": "597"}
+{"location": [158, 17], "label": "marginalia", "text": "30"}
+{"location": [517, 11], "label": "marginalia", "text": "40"}
+{"location": [874, 18], "label": "marginalia", "text": "50"}

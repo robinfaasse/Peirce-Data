@@ -1,0 +1,47 @@
+[pn](1)[/pn] [marginalia][date]1914 Jan 7[/date][/marginalia]
+$$\frac{r}{R} \left(\frac{r}{R}\right)^2 + \left(\frac{z}{Z}\right)^2 = 1$$
+
+Substituting [del]R[/del] [ins]$$r = R\underline{r}$$[/ins] and $$z = Z\underline{z}$$
+where $$\underline{r}$$ and $$\underline{z}$$ are [del]fractions[/del]
+
+(1) becomes (2)
+
+(2) $$\underline{r}^2 + \underline{z}^2 = 1$$ i.e. $$\underline{r} = \sqrt{1-\underline{z}^2}$$ or $$\underline{z} = \sqrt{1-\underline{r}^2}$$
+
+Differentiating and using a dot to denote a symbolic multiplication not associative with arithmetic multiplication, we get
+
+(3) $$\underline{r} \text{ d}.\underline{r} + \underline{z} \text{ d}.\underline{z} = 0$$ i.e. $$\text{ d}.\underline{z} = - (\underline{r}/\underline{z}) \text{ d}.\underline{r}$$
+$$\frac{\text{d}\underline{z}}{\text{d}\underline{r}} = - \frac{\underline{r}}{\underline{z}}$$  $$= - \frac{\underline{r}}{\sqrt{1-\underline{r}^2}} \text{ d}.\underline{r}$$
+or $$\text{ d}\underline{r} = - \frac{\underline{z}}{\underline{r}} \text{ d}.\underline{z}$$
+$$= - \frac{\underline{z}}{\sqrt{1-\underline{z}^2}} \text{ d}.\underline{z}$$
+
+Since I do not propose to investi-
+gate [del]the formulae by means
+of the idea of geometric projection[/del]
+[ins]or shall I call a system of representation a map projection[/ins]
+[ins]Now[/ins] a conformal map-project [del]may be defined
+here as one in which the scale of the[/del]
+[ins]is one in which[/ins] at each point, its
+scale [del]is the at each point is the[/del] same in all directions, [del]which
+will be incurred Let our initial[/del] I propose first to [del]give the[/del]
+formulae for the simplest conformal map-project [ins]deduce[/ins]
+
+On this initial [del]map[/del] conformal map-project the equality of
+scale in all directions will be secured by making the scale
+E-West scale, (in which direction the curvature of the
+section of the spheroid is a maximum or minimum) equal
+to the N-S scale, — a proposition which I will demonstrate
+in a note, below. [del]If or[/del] On the initial map-project I will
+[del]make[/del] represent all the circles of latitude by concentric
+circles, so that it will be convenient to use the polar
+coordinates [del]$$\rho$$[/del] [ins]$$\rho$$[/ins] (for radius-vector) and [del]$$\theta$$[/del] [ins]$$\theta$$[/ins] [ins]initial[/ins] (for [del]longitude[/del] [ins]longitude[/ins], as angular coordinate).
+
+The E-W scale will be $$\frac{\rho}{R\underline{r}}$$
+
+The N-S scale will be $$\frac{\text{d}\rho}{\sqrt{Z^2(\text{d}\underline{z})^2 + R^2(\text{d}.\underline{r})^2}}$$
+
+Since these are to be equal, the map-project will be
+defined by the equation
+
+(4) $$\frac{\text{d}\rho}{R\underline{r}} = \frac{\sqrt{Z^2(\text{d}.\underline{z})^2 + R^2(\text{d}.\underline{r})^2}}{R\underline{r}}$$
+$$= \frac{\text{d}\underline{r}}{\underline{r}} \sqrt{\left(\frac{Z}{R}\right)^2 \left(\frac{\text{d}\underline{z}}{\text{d}\underline{r}}\right)^2 + 1} = \sqrt{\left(\frac{Z}{R}\right)^2 \frac{\underline{r}^2}{1-\underline{r}^2} + 1} \frac{\text{d}.\underline{r}}{\underline{r}}$$

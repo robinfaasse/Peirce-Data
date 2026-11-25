@@ -1,0 +1,10 @@
+[u]Theorem[/u]. The sum of the three internal angles of any plane triangle whose sides are immeasurably small compared with a circuit is one circuit, or two right angles.
+
+[u]Demonstration[/u]. Let [A], [B], [C], be three points whose mutual distances are immeasurably small compared with a [del]half[/del] circuit. Then, I say,
+$$\angle\text{ABC} + \angle\text{BCA} + \angle\text{CAB} = \text{O}$$
+
+[fig]Three intersecting lines forming a small triangle with extended rays J, K, I[/fig] For take [del]any[/del] [ins]a[/ins] point [O], [del]within the triangle[/del] [ins](it may be any point, but we will suppose it equidistant from the three sides)[/ins], and three rays through it so as to cut the rays {AB}, {BC}, {CA}, at distances of half a circuit from [O], in the points [K], [I], [J], respectively.
+
+Imagine an axis of rotation through [O] perpendicular to the plane (OABC). Then, the axis of translation will have every point at a distance of half a circuit from [O]. It will also be in the plane (OABC). It will, therefore, pass through [I], [J], [K]. [del]And[/del] Thus, these three points are coradial. Hence
+$$\angle\text{IJK} = \angle\text{JKI} = \angle\text{KIJ} = \text{O}$$
+$$\angle\text{IJK} + \angle\text{JKI} + \angle\text{KIJ} = 3\text{O}$$

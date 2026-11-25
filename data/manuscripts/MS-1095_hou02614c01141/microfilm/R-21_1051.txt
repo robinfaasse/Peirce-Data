@@ -1,0 +1,19 @@
+The negative of this at the surface is
+$-\mu \frac{1}{R} \cos \theta D_t e$
+which again only affects amplitude.
+
+The normal pressure due to second motion is
+$-2\mu \frac{1}{r} D_\theta (r D_t \theta) = [del]+[/del] 2\mu \frac{c}{r} e^{-\sqrt{\frac{n}{2\mu'}} (r-R)} \sin \{ \sqrt{\frac{n}{2\mu'}} (r-R) [del]- nt[/del] \} \frac{\sin}{\cos} \theta$
+
+[del]The[/del] negative of which at the surface is
+$+ 2\mu \frac{1}{R} \frac{\sin}{\cos} \theta . D_t e$
+which only affects amplitude.
+
+The tangential pressure due to the second motion is
+$-\mu D_r (r D_t \theta) = + \mu c \sqrt{\frac{n}{2\mu'}} e^{-\sqrt{\frac{n}{2\mu'}} (r-R)} \sin \{ \dots \} \frac{\cos}{\sin} \theta$
+$- \mu c \sqrt{\frac{n}{2\mu'}} e^{-\sqrt{\frac{n}{2\mu'}} (r-R)} \cos \{ \dots \} \frac{\cos}{\sin} \theta$
+
+The negative of which at the surface is
+$-\mu c \sqrt{\frac{n}{2\mu'}} \sin nt . \frac{\cos}{\sin} \theta - \mu c \sqrt{\frac{n}{2\mu'}} \cos nt . \frac{\cos}{\sin} \theta$
+$= -\mu \sqrt{\frac{n}{2\mu'}} D_t e . \frac{\cos}{\sin} \theta + \mu n \sqrt{\frac{n}{2\mu'}} \frac{\cos}{\sin} \theta . e$
+which affects both arc and period

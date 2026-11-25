@@ -1,0 +1,30 @@
+[del]La logique de la quantité[/del]
+
+posons que la collection [del]T[/del] [ins]$\mathfrak{T}$[/ins] contient la collection, $\mathfrak{t}$, et que la collection $\mathfrak{o}$ contient
+$\mathfrak{u}$. Alors nous avons
+$\Pi_u\ \overline{q}_{tu} \mathbin{\psi} q_{ouu}$     $\Pi_{u'} \Sigma_{u''} \ (\overline{q}_{mu'} \mathbin{\psi} q_{nu''}) \cdot q_{nu'} \overline{q}_{mu''}$     $\Pi_{u''} \ \overline{q}_{ou''} \mathbin{\psi} q_{ou''}$
+
+Multiplions les carrés [del]y[/del] des premières et troisième propositions (distinguant
+les facteurs par écrivant $u$, et $u'_1$ pour $u$ et $u''$) et identifions $u'$ et $u''$ [del]avec[/del]
+avec $u$, et $u_1$ et $u''_1$ avec $v$. Nous obtiendrons ainsi $\Pi_u \Sigma_v (\overline{q}_{tu} \mathbin{\psi} q_{ou}) \cdot q_{ov} \overline{q}_{tv}$,
+ou $w_{to}$. Q.E.D.
+
+[u]Article 4[/u]. Demandons si $\Sigma_i p_i \cdot t_{imn}$ est une relation entre $\underline{m}$ et $\underline{n}$ pos-
+sibles et contingentes. En substituant les definitions de $p$ et $t$, la possibilité s'écrit
+$\Sigma_m \Sigma_n \Sigma_i \Sigma_e \Sigma_f \Sigma_g \Sigma_j \Sigma_a \Pi_s \Sigma_r \ r_{ief} \cdot r_{ieg} \cdot r_{jaf} \cdot \overline{r}_{jag} \cdot (\overline{q}_{ns} \mathbin{\psi} q_{mr} \cdot \overline{r}_{irs})$
+Cette proposition est affirmative. Aussi elle s'enfuit de la possibilité
+$\Sigma_m \Sigma_i \Sigma_e \Sigma_f \Sigma_g \Sigma_j \Sigma_a \Pi_s \ r_{ief} \cdot r_{ieg} \cdot r_{jaf} \cdot \overline{r}_{jag} \cdot \overline{q}_{ns}$.
+Cette proposition est le produit des deux
+$\Sigma_n \Pi_s \ \overline{q}_{ns}$     $\Sigma_i \Sigma_e \Sigma_f \Sigma_g \Sigma_j \Sigma_a \ r_{ief} \cdot r_{ieg} \cdot r_{jaf} \cdot \overline{r}_{jag}$
+Toutes ces deux hypothèses sont possibles. Mais le produit de deux hypothèses pos-
+sible est possible, n'a moins qu'elles soient contradictoires, ce qui ne peut
+pas être dans ce cas-ci. Ainsi la relation $\Sigma_i p_i \cdot t_{imn}$ est possible. Sa con-
+tingence, c'est à dire la possibilité de sa négative s'écrit
+$\Sigma_m \Sigma_n \Pi_i \Pi_e \Pi_f \Pi_g \Pi_j \Pi_a \Sigma_s \Pi_r \ \overline{r}_{ief} \mathbin{\psi} \overline{r}_{ieg} \mathbin{\psi} \overline{r}_{jaf} \mathbin{\psi} r_{jag} \mathbin{\psi} q_{ns} \cdot (\overline{q}_{mr} \mathbin{\psi} r_{irs})$
+Cette proposition s'enfuit de
+$\Sigma_m \Sigma_n \Sigma_s \Pi_r \ q_{ns} \cdot \overline{q}_{mr}$
+ce qui est proposition affirmative irréductible. Ainsi la relation $\Sigma_i p_i \cdot t_{imn}$
+est aussi bien contingente que possible.
+
+Disons donc qu'une collection ou qualité, $\underline{m}$, a un sujet pour chaque sujet d'une col-
+lection ou qualité, $\underline{n}$, et écrivons, $s_{mn}$, pourvu que $\Sigma_i p_i \cdot t_{imn}$, [del]ou[/del]

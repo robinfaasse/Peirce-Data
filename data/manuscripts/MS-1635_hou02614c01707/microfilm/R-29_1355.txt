@@ -1,0 +1,36 @@
+[fig]triangle with vertices A, B[/fig] [del]\log (\frac{x}{a} + \sqrt{\frac{x^2}{a^2} - 1})[/del]
+[del]\frac{a + \sqrt{x^2 - a^2}}{x}[/del]
+[del]\frac{x}{a} + \sqrt{\frac{x^2}{a^2} - a^2}[/del]
+
+[del]\cosh^2 b \cdot \sin^2 A = \cos^2 B[/del]
+[del]\cosh^2 b \cdot \sin^2 \theta = \cos^2 B[/del]
+
+[fig]triangle with sides r, r+dr and angle d\theta[/fig] [del]\frac{\sqrt{1+x^2} + x}{\sqrt{1+x^2} - x}[/del]
+[del]\frac{\sec + \tan}{\sec - \tan}[/del]
+
+\tan B = \frac{r \cdot d\theta}{r + dr - r} = r \frac{d\theta}{dr} = \frac{\sec + \csc}{\sec - \csc}
+
+\tan (\pi - B) = \frac{(r + dr) d\theta}{r - r - dr} = - \frac{r}{dr} d\theta
+
+\tan (\pi - B) = \frac{- \tan B}{1} \qquad \frac{x + \sqrt{x^2 - 1}}{x - \sqrt{x^2 - 1}}
+
+- \log r = \log \left[ \frac{\cos \theta + \sqrt{\cos^2 \theta - \tanh^2 b}}{\tanh b} \right] + C
+
+\frac{R}{r} = \frac{\cos \theta}{\tanh b} + \sqrt{\left(\frac{\cos \theta}{\tanh b}\right)^2 - 1}
+[del]\frac{R}{r} = \frac{\sin \theta}{\tanh b} - \sqrt{\left(\frac{\cos \theta}{\tanh b}\right)^2 - 1}[/del]
+
+\frac{1}{a} \log (ax + \sqrt{a^2 x^2 - 1})
+\frac{a + \frac{ax}{\sqrt{a^2 x^2 - 1}}}{ax + \sqrt{a^2 x^2 - 1}} = \frac{a}{\sqrt{a^2 x^2 - 1}}
+= \frac{a}{a \sqrt{x^2 - \frac{1}{a^2}}}
+
+\cosh^2 b \cdot \sin^2 \theta = \cos^2 B
+\cosh^2 b \cdot \sin^2 \theta = \sec^2 B
+
+\frac{\sqrt{1 - \cosh^2 b \sin^2 \theta}}{\cosh b \sin \theta} = r \frac{d\theta}{dr}
+
+D_{\theta} \log r = \frac{\cosh b \sin \theta}{\sqrt{1 - \cosh^2 b \sin^2 \theta}}
+
+[del]D_{\theta} \cosh b \sin \theta = \cosh b \cos \theta = \cos[/del]
+[del]D_{\cos \theta} D_{\theta} \log r =[/del] D_{\theta} \cos \theta = - \sin \theta
+D_{\cos \theta} \log r = - \frac{\cosh b}{\sqrt{1 - \cosh^2 b + \cosh^2 b \cdot \cos^2 \theta}}
+[del]\sqrt{\cos^2 \theta - \tanh^2 b}[/del]

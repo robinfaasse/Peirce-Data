@@ -1,0 +1,27 @@
+[pn]14[/pn]
+
+I must also notice an important matter of
+algebra, namely that any fraction like
+[del]$\frac{1}{(x-a)(x-b)(x-c)\text{ etc}}$[/del] can always be resolved
+into a sum $\frac{P}{x-a} + \frac{Q}{x-b} + \frac{R}{x-c} + \text{etc.}$
+
+In particular
+$\frac{1}{(x-a)(x-b)} = \frac{\frac{1}{a-b}}{x-a} - \frac{\frac{1}{a-b}}{x-b}$
+
+So that
+$\frac{1}{(E-a)(E-b)} = \frac{\frac{1}{a-b}}{E-a} - \frac{\frac{1}{a-b}}{E-b}$
+
+and
+$\frac{1}{(E-1)(E-\frac{29}{31})} = \frac{1}{\frac{2}{31}} \left( \frac{1}{E-1} - \frac{1}{E-\frac{29}{31}} \right)$
+
+Hence
+$\frac{1}{(E-1)(E-\frac{29}{31})} (-30) = \frac{31}{2} \left( \Sigma (-30) - \Sigma \frac{(-30)}{\left(\frac{29}{31}\right)^{y+1}} \right)$
+$= -30 \left( y - \frac{\left(\frac{31}{29}\right)^y \left(\frac{31}{29}\right)^{y+2}}{\frac{31}{29} - 1} \right)$
+$= -30 \left( y - \frac{\left(\frac{31}{29}\right)^2}{\frac{31}{29} - 1} \right) = -30y + 30 \frac{31^2}{31 \cdot 29 - 29^2}$
+$= -30y + \frac{30}{29} \frac{31}{\frac{2}{29}} = -30y + \frac{15 \cdot 31}{29}$
+
+That is, a particular solution is $W_{x,y} = -30y + \frac{15 \cdot 31}{29}$
+We prove this by showing it satisfies the equation
+$\frac{31}{60} W_{x,y+1} = -\frac{31}{2}y - \frac{31}{2} + \frac{31}{60} \frac{15 \cdot 31}{29}$
+$\frac{29}{60} W_{x,y-1} = -\frac{29}{2}y + \frac{29}{2} + \frac{29}{60} \frac{15 \cdot 31}{29}$
+[u]$\frac{31}{60} W_{x,y+1} + \frac{29}{60} W_{x,y-1} = -30y \ \ \ \ \ \ \ \ \ + \frac{2}{2} \ \ \ \ \ \ \ \ \ + \frac{15 \cdot 31}{29}$[/u]

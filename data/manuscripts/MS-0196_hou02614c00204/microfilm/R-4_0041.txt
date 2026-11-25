@@ -1,0 +1,28 @@
+. In the formula [u]just[/u] found, put [u]z[/u] = 90°, [u]y[/u] = 0. We thus get
+1. sin (-[u]z[/u]) + 0 + sin [u]x[/u] . 1 = 0
+or
+sin (-[u]z[/u]) = - sin [u]z[/u].
+
+. In the same formula, put [u]y[/u] = 90°, and we recover the formula of Corollary . For we thus get,
+sin [u]y[/u] . cos [u]z[/u] + sin ([u]z[/u] - [u]x[/u]) - sin [u]z[/u] . cos [u]x[/u] = 0
+or
+sin ([u]z[/u] - [u]x[/u]) = sin [u]z[/u] . cos [u]x[/u] - sin [u]x[/u] cos [u]z[/u] .
+
+[del]. In the [ins]last[/ins] formula, put [u]z[/u] = [u]x[/u], and we find
+0 = sin [u]x[/u] . cos [u]x[/u][/del]
+[del]In the formula of[/del]
+[del]In the same formula, put [u]y[/u] = 90°, [u]x[/u] = - [u]t[/u], [u]z[/u] = [u]t[/u], and we get[/del] In the formula of the theorem, put [u]y[/u] = - [u]x[/u], and we get,
+0 = sin [u]x[/u] . cos (-[u]x[/u]) + cos [u]x[/u] . sin (-[u]x[/u])
+This gives
+tan (-[u]x[/u]) = [frac]sin (-[u]x[/u])[/frac][frac]cos (-[u]x[/u])[/frac] = - [frac]sin [u]x[/u][/frac][frac]cos [u]x[/u][/frac] = - tan [u]x[/u],
+or
+tan (-[u]x[/u]) = - tan [u]x[/u].
+
+. The formula
+0 = sin [u]x[/u] . cos (-[u]x[/u]) + cos [u]x[/u] . sin (-[u]x[/u])
+gives
+0 = sin [u]x[/u] . cos (-[u]x[/u]) - cos [u]x[/u] . sin [u]x[/u],
+or
+0 = cos (-[u]x[/u]) - cos [u]x[/u],
+or
+cos (-[u]x[/u]) = cos [u]x[/u],

@@ -1,0 +1,26 @@
+[pn]55[/pn]
+
+[marginalia]
+[del]Cove Road[/del]
+[/marginalia]
+
+That this rule is only a special case of the polynomial Theorem will
+readily be admitted, because it results from Taylor's theorem, which
+is but an application of the binomial theorem, which is only another
+form of expression of the polynomial theorem. But in order to show
+just how the rule results directly from the polynomial theorem, it
+is necessary to consider the "admirations", that is, the numbers 2!,
+3!, 4!, etc. We may define [u]n[/u]! as [u]n[/u]([u]n[/u]-1)! This definition
+leaves 1! an arbitrary constant; but no inconvenience will
+result from that. Only 1! is understood to be finite. Since, then,
+by the definition ([u]n[/u]-1)! = [u]n[/u]! / [u]n[/u], it follows that 0! is 1! / 1, i.e.
+equals 1! Also (-1)! = 0! / 0, that is, is infinite; and all the
+admirations of finite negative numbers are infinite. Their ratios,
+however, may be obtained from the definition which gives [u]n[/u]! / ([u]n[/u]-1)! = [u]n[/u].
+That is, (-1)! / (-2)! = -1, (-2)! / (-3)! = -2, whence (-1)! / (-3)! = (-1)(-2) = 2, etc.
+
+That being understood, the polynomial theorem is
+([u]a[/u]¹ / 1! + [u]b[/u]¹ / 1! + [u]c[/u]¹ / 1! + etc)[sup]m[/sup] / m! = ∑ ([ins]for all values of i, j, k etc such that[/ins] i + j + k + etc = m) [u]a[/u]ⁱ / i! [u]b[/u]ʲ / j! [u]c[/u]ᵏ / k! etc
+
+For example
+([u]a[/u]¹ / 1! + [u]b[/u]¹ / 1!)[sup]3[/sup] / 3! = [u]a[/u]⁰ / 0! [u]b[/u]³ / 3! + [u]a[/u]¹ / 1! [u]b[/u]² / 2! + [u]a[/u]² / 2! [u]b[/u]¹ / 1! + [u]a[/u]³ / 3! [u]b[/u]⁰ / 0! + [u]a[/u]⁴ / 4! [u]b[/u]⁻¹ / (-1)! + etc

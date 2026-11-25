@@ -1,0 +1,35 @@
+[marginalia]
+1909
+June 30
+[pn]11[/pn]
+[/marginalia]
+
+[ins]caution, it is a very powerful method.[/ins]
+If, then, [u]e[/u] is the number that is called the Napierian Base,
+being [u]e[/u] = 1 + [fraction]1[/fraction]/1! + [fraction]1[/fraction]/2! + [fraction]1[/fraction]/3! + etc ad infinitum which
+is nearly [u]e[/u] = 2.718281828 then
+[u]e[/u]<sup>x</sup> = 1 + [fraction]x[/fraction]/1! + [fraction]x<sup>2</sup>[/fraction]/2! + [fraction]x<sup>3</sup>[/fraction]/3! + etc ad inf.
+
+Therefore the long formula on the last page may be written
+fa = e<sup>a D<sub>0</sub></sup>f0,
+which is the symbolical expression of Maclaurin's Theorem; or
+E<sub>x</sub> = e<sup>D<sub>x</sub></sup>
+and we may treat the symbols E<sub>x</sub>, D<sub>x</sub>, Δ<sub>x</sub> exactly like symbols
+of numbers, when no inverse operations [del]cons[/del] in are involved. You
+now see what Δ<sub>0</sub><sup>n</sup> 0<sup>m</sup> means. It means that you are to calculate
+Δ<sub>x</sub><sup>n</sup> x<sup>m</sup> and then put x = 0. Here is a table of its values
+
+| | 0<sup>1</sup> | 0<sup>2</sup> | 0<sup>3</sup> | 0<sup>4</sup> | 0<sup>5</sup> | 0<sup>6</sup> | 0<sup>7</sup> | 0<sup>8</sup> | 0<sup>9</sup> | 0<sup>10</sup> |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Δ<sub>0</sub><sup>1</sup> | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| Δ<sub>0</sub><sup>2</sup> | 0 | 2 | 6 | 14 | 30 | 62 | 126 | 254 | 510 | 1022 |
+| Δ<sub>0</sub><sup>3</sup> | 0 | 0 | 6 | 36 | 150 | 540 | 1806 | 5796 | 18150 | 55980 |
+| Δ<sub>0</sub><sup>4</sup> | 0 | 0 | 0 | 24 | 240 | 1560 | 8400 | 40824 | 186480 | 818520 |
+| Δ<sub>0</sub><sup>5</sup> | 0 | 0 | 0 | 0 | 120 | 1800 | 16800 | 126000 | 834120 | 5103000 |
+| Δ<sub>0</sub><sup>6</sup> | 0 | 0 | 0 | 0 | 0 | 720 | 15120 | 191520 | 1905120 | 16435440 |
+| Δ<sub>0</sub><sup>7</sup> | 0 | 0 | 0 | 0 | 0 | 0 | 5040 | 141120 | 2328480 | 29635200 |
+| Δ<sub>0</sub><sup>8</sup> | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 40320 | 1451520 | 30240000 |
+| Δ<sub>0</sub><sup>9</sup> | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 362880 | 16329600 |
+| Δ<sub>0</sub><sup>10</sup> | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3628800 |
+
+You will remark that if n > m, then Δ<sub>0</sub><sup>n</sup> 0<sup>m</sup> = 0 while Δ<sub>0</sub><sup>m</sup> 0<sup>m</sup> = m!

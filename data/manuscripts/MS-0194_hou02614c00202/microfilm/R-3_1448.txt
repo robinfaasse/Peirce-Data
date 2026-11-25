@@ -1,0 +1,55 @@
+[pn]5[/pn]
+
+[del]We now want to know the[/del]
+
+In the case of a geodesic
+$$ds = \frac{1}{Q} q^2 d\omega$$
+where $Q$ is the minimum value of $q$
+
+$$q = a \cos u = a \frac{\cos \varphi}{\sqrt{1 - e^2 \sin^2 \varphi}}$$
+
+$$ds = \frac{a}{Q} \frac{\cos^2 \varphi}{1 - e^2 \sin^2 \varphi} d\omega$$
+
+[marginalia]
+$$\sin^2 \varphi = \frac{\sin^2 u}{1 - e^2 \cos^2 u}$$
+$$= \frac{1 - \cos^2 u}{1 - e^2 \cos^2 u}$$
+$$1 - \sin^2 \varphi = (1 - e^2 \sin^2 \varphi) \cos^2 u$$
+$$\cos u = \frac{\cos \varphi}{\sqrt{1 - e^2 \sin^2 \varphi}}$$
+$$\sin u = \frac{\sqrt{1 - e^2} \sin \varphi}{\sqrt{1 - e^2 \sin^2 \varphi}}$$
+
+[fig]ellipse[/fig]
+[/marginalia]
+
+We want to make the geodesic straight
+and have the scale the same all along it.
+
+Since $a \frac{\cos \varphi}{\sqrt{1 - e^2 \sin^2 \varphi}} \sin \alpha = Q$ where $\alpha$ is the azimuth
+
+$$Q = a \frac{\cos \Phi}{\sqrt{1 - e^2 \sin^2 \Phi}}$$
+
+$$\cos \alpha \cdot d\alpha = \frac{\cos \Phi}{\sqrt{1 - e^2 \sin^2 \Phi}} \frac{- [del]\frac{1}{2}[/del] \frac{e^2 \sin \varphi \cos \varphi}{\sqrt{ }} + \sin \varphi \sqrt{ }}{\frac{1 - e^2}{1 - e^2 \sin^2 \varphi} \cos^2 \varphi} d\varphi$$
+
+$$= \frac{\cos \Phi}{\sqrt{1 - e^2 \sin^2 \Phi}} \frac{(1 - e^2) \sin \varphi}{\cos^2 \varphi (1 - e^2 \sin^2 \varphi)^{\frac{3}{2}}} d\varphi$$
+
+[marginalia]
+[del]Straightened[/del]
+[del]in next page[/del]
+[/marginalia]
+
+[marginalia]
+$$= \frac{\cos \Phi}{\sqrt{1 - e^2 \sin^2 \Phi}} \frac{[del]1 - e^2[/del] \cos^2 \varphi (1 - e^2) \sin \varphi d\varphi}{(1 - e^2 \sin^2 \varphi)^{\frac{3}{2}}}$$
+
+$$y = \frac{x^2}{1 - x^2}$$
+$$\frac{dy}{y} = d \log y$$
+$$= \frac{-2 e^2 x}{1 - e^2 x^2} + \frac{2x}{1 - x^2}$$
+$$= \frac{2(1 - e^2)x}{(1 - x^2)(1 - e^2 x^2)}$$
+$$dy = \frac{2(1 - e^2)y}{(1 - e^2 x^2)^2}$$
+[/marginalia]
+
+$$\sin \alpha = \frac{\cos \Phi}{\sqrt{1 - e^2 \sin^2 \Phi}} \frac{\sqrt{1 - e^2 \sin^2 \varphi}}{\cos \varphi}$$
+
+$$\cos \alpha = \frac{\sqrt{\frac{\cos^2 \Phi}{1 - e^2 \sin^2 \Phi} (1 - \sin^2 \varphi)(1 - e^2 \sin^2 \Phi) - (1 - \sin^2 \Phi)(1 - e^2 \sin^2 \varphi)}}{(1 - e^2 \sin^2 \Phi - \sin^2 \varphi)}}$$
+
+$$\sqrt{1 - e^2 \sin^2 \Phi} \cos \varphi$$
+
+$$d\alpha = \frac{\cos \Phi \sin \varphi \cos \varphi}{[del]\cos \varphi[/del] \sqrt{\sin^2 \Phi - \sin^2 \varphi} (1 - e^2 \sin^2 \varphi)^{\frac{3}{2}}} d\varphi$$

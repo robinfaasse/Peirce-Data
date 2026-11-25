@@ -1,0 +1,15 @@
+[pn]137[/pn]
+
+This gives by rearrangement
+$(BFG - CEG - AFH + CDH + AEJ - BDJ)z - BGM + EGL + AHM - DHL$
+$= AEN - BDN$;
+and this gives
+$$z = \frac{AEN - BDN + BGM - AHM + DHL - EGL}{AEJ - BDJ + BGF - AHF + DHC - EGC}.$$
+
+From this, we write down by symmetry (changing $A$ to $B$, $B$ to $C$, $C$ to $A$
+$D$ to $E$, etc. [del]of[/del] [ins]$z$ to $x$, $x$ to $y$,[/ins])
+$$x = \frac{BFN - CEN + CHM - BJM + EJL - FHL}{BFG - CEG + CHD - BJD + EJA - FHA},$$
+$$y = \frac{CDN - AFN + AJM - CGM + FGL - DJL}{CDH - AFH + AJE - CGE + FGB - DJB}.$$
+
+$\S$ 71. We could show almost instantly that if the third equation is [del]of[/del] deducible by adding a number of times the first to another number of times the second, — that is, if it is deducible from the first and second, at all, — the result is to make both numerator and denominator of each of the expressions just written vanish; and that [del]the numerators and denominators in this[/del] case all vanish under no other circumstances. But this is a detail, which the student can postpone to his regular study of algebra.
+It would also be easy to show, if it were of any particular interest to us, that what is [unclear]im[/unclear]... [unclear]two[/unclear] an

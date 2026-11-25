@@ -1,0 +1,25 @@
+[marginalia]
+Logic
+III
+64
+[/marginalia]
+
+thing corresponding to it in D, then there is something
+in D corresponding to each and every proximate
+constituent of E. If any oddly enclosed constituent, O,
+of C has anything in D corresponding to it, only one
+proximate constituent of O has anything in D corre-
+sponding to it.
+
+This intricate definition must be illustrated too,
+examples. The [ins]only[/ins] ultimate consequentials of [u](a < b) < c[/u]
+are [u]b < c[/u] and [u](a < c) < c[/u]. The [ins]only[/ins] ultimate consequentials
+of [u](a < b) < (c < d) < e < f[/u] are, [u]b < d < e < f[/u],
+[u](a < f) < d < e < f[/u], [u]b < (c < f) < e < f[/u], [u](a < f) < (c < f) < e < f[/u]
+The [ins]only[/ins] ultimate consequentials of [u][(a < b) < c] < [d < e] < f < g < h[/u]
+are [u]g < h[/u], [u](f < h) < h[/u], [u]d < (e < h) < h[/u], [u]a < b < (c < h) < h[/u].
+The only ultimate consequentials of [u][((a < b) < c < d) < e < f] <[/u]
+[u](g < h) < i[/u] are [u]f < h < i[/u], [u]f < (g < i) < i[/u], [u](e < i) < h < i[/u],
+[u](e < i) < (g < i) < i[/u], [del](d < i) < h < i[/del] [u](d < i) < h < i[/u], [u](d < i) < (g < i) < i[/u],
+[u]b < c < (d < i) < h < i[/u], [u](a < i) < c < (d < i) < h < i[/u], [u]b < c < (d < i) <[/u]
+[u](g < i) < i[/u], [u](a < i) < c < (d < i) < (g < i) < i[/u].

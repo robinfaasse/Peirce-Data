@@ -1,0 +1,23 @@
+$$\int = + \text{Const} - \frac{B}{A} z - \frac{B}{A} \frac{1}{z} + 4 \frac{B}{A^2} \log z + \frac{8 B}{A^2 \sqrt{4+A^2}} \log \frac{A z + 2 + \sqrt{4+A^2}}{A z + 2 - \sqrt{4+A^2}}$$
+
+$$= \text{Const} - \frac{4 C \varepsilon \Psi_k}{G^2 a^2} \sqrt{1 + \frac{C^2}{G^2} \left(\frac{a}{2}-x\right)^2} - \frac{4 \varepsilon \Psi_k}{G a^2} \left(\frac{a}{2}-x\right)$$
+
+$$- \frac{4 C \varepsilon \Psi_k}{G^2 a^2} \frac{1}{\sqrt{1 + \frac{C^2}{G^2} \left(\frac{a}{2}-x\right)^2} + \frac{C}{G} \left(\frac{a}{2}-x\right)} \qquad \frac{64}{\Psi_k}$$
+
+$$+ 4 \frac{C}{G^3} \frac{\frac{256}{64} \varepsilon^2 \Psi_k^2}{a^4} \log \left( \sqrt{1 + \frac{C^2}{G^2} \left(\frac{a}{2}-x\right)^2} + \frac{C}{G} \left(\frac{a}{2}-x\right) \right) \qquad \sqrt{\frac{256 \varepsilon^2 \Psi_k^2}{G^2} + G^2 a^4}$$
+
+$$+ \frac{512 C \varepsilon^2 \Psi_k^2}{G^3 a^4 \sqrt{4 + \frac{C^2 a^4}{64 \varepsilon^2 \Psi_k^2}}} \log \frac{G a^2 \sqrt{1 + \frac{C^2}{G^2} \left(\frac{a}{2}-x\right)^2} - \frac{C^2 a^2}{G} \left(\frac{a}{2}-x\right) + 16 \varepsilon \Psi_k + \dots}{G a^2 \sqrt{\phantom{1}} - \frac{C^2 a^2}{C} \left(\frac{a}{2}-x\right) + 16 \varepsilon \Psi_k - \sqrt{\frac{256 \varepsilon^2 \Psi_k^2}{G^2} + G^2 a^4}}$$
+
+$$\frac{4096 C \varepsilon^3 \Psi_k^3}{G^3 a^4 \sqrt{256 \varepsilon^2 \Psi_k^2 + G^2 a^4}} \qquad A = \frac{G a^2}{8 \Psi_k}$$
+
+$$C = \frac{[del]\frac{G a^2}{8 \Psi_k}[/del]}{[del]a[/del]} = \frac{4 \Psi_k}{a}$$
+
+$$- \frac{4 C \varepsilon \Psi_k}{G^2 a^2} = - \frac{16 \varepsilon \Psi_k^2}{G^2 a^3} \qquad \frac{C}{G} = \frac{4 \Psi_k}{a G} \qquad \frac{4 C \varepsilon \Psi_k}{G^2 a^2} = - \frac{16 \varepsilon \Psi_k^{[ins]2[/ins]}}{G^2 a^3}$$
+
+$$\frac{G}{C} = \frac{a G}{4 \Psi_k}$$
+
+$$- \frac{4 \varepsilon \Psi_k}{G^2 a^3} \sqrt{16 \Psi_k^2 + a^2 G^2 \left(\frac{a}{2}-x\right)^2} + \frac{4 \varepsilon \Psi_k}{G a^2} x - \frac{\frac{64 \varepsilon \Psi_k^3}{G^2 a^3}}{\sqrt{16 \Psi_k^2 + a^2 G^2 \left(\frac{a}{2}-x\right)^2} + a G \left(\frac{a}{2}-x\right)}$$
+
+$$+ \frac{1024 \varepsilon^2 \Psi_k^3}{G^3 a^5} \log \left[ \sqrt{1 + \frac{a^2 G^2}{16 \Psi_k^2} \left(\frac{a}{2}-x\right)^2} + \frac{a G}{4 \Psi_k} \left(\frac{a}{2}-x\right) \right] \qquad + 4 \Psi_k \sqrt{\frac{256 \varepsilon^2 \Psi_k^2}{G^2} + G^2 a^4}$$
+
+$$\frac{16384 \varepsilon^3 \Psi_k^4}{G^3 a^5 \sqrt{256 \varepsilon^2 \Psi_k^2 + G^2 a^4}} \log \frac{G a^2 \sqrt{16 \Psi_k^2 + a^2 G^2 \left(\frac{a}{2}-x\right)^2} - a^2 G^2 \left(\frac{a}{2}-x\right) + 16 \varepsilon \Psi_k^2 \dots}{\dots} \qquad \frac{64}{\Psi_k}$$

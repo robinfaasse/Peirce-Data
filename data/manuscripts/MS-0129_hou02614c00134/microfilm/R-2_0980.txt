@@ -1,0 +1,13 @@
+[marginalia][pn]29[/pn][/marginalia]
+
+[u]Corollary 16[/u]. If all the planes through each of two intersecting rays are perpendicular to one plane, then the latter is the metrical conjugate of the point of intersection of those rays.
+
+Art. 14. [u]Theorem 14[/u]. [u]In every rotation, flat films in planes perpendicular to the axis of rotation remain in those planes[/u].
+
+[u]Demonstration[/u]. Let [u]{r}[/u] be an axis of rotation and [u](\pi)[/u] be a plane such that every plane through [u]{r}[/u] is perpendicular to [u](\pi)[/u], and let [u][A][/u] be any point in [u](\pi)[/u], and let [u][B][/u] be the point to which it is carried by any rotatory displacement round [u]{r}[/u]. Then, I say that [u][B][/u] lies in the plane [u](\pi)[/u].
+
+[fig]Diagram showing axis r, plane pi, and points A, B, P[/fig]
+
+For let [u][P][/u] be the point [del]in which[/del] [ins][u][\pi r][/u].[/ins] Let the flat film in [u](Ar)[/u] be carried to [u](Br)[/u]. [del]Call[/del] [ins]Denote[/ins] [u]{AP}[/u] by [u]{a}[/u]. Then, by Theorem , [u]\angle ar = \frac{1}{2} D[/u]. Hence, when the flat film from [u](Ar)[/u] arrives in [u](Br)[/u], so the the particle from [u][A][/u] reaches [u][B][/u], since the particle at [u][P][/u] is, by Definition , fixed at its point, the straight filament from [u]{a}[/u] is brought to [u]{PB}[/u], which we may call [u]{b}[/u]. And [u]\angle br = \frac{1}{2} D[/u]. Then the [u]\wedge rab[/u] is biquadrantal, in [u])ra([/u] and [u])rb([/u], and so, by Theorem , is birectangular at [u]{a}[/u] and [u]{b}[/u]. That is, [u](APB)[/u] is perpendicular to [u](rb)[/u] and to [u](ra)[/u]. But there is but one plane through [u]{a}[/u] perpendicular to [u](ra)[/u]; and that is [u](\pi)[/u]. Hence [u](APB) = (\pi)[/u]. Q.E.D.
+
+[u]Corollary 17[/u]. In every translation, particles at points distant a quadrant from the axis of translation remain at those points.

@@ -1,0 +1,5 @@
+[pn]15[/pn]
+
+Given 4 rays, (A), (B), (C), (D), [ins](no two of them in one plane)[/ins] how many rays can cut each all four?
+
+Take first any point [ins][X][/ins] of space, whatever not lying in (A). Then since the multiplicities of the point and the ray are 1 and 2 and they contain only "the homoloid of zero multiplicity," that is to say, no place at all, they are both contained in a homoloid of multiplicity 3, i.e. in a plane, {AX}. Since this plane and (B), of multiplicities 3 and 2 are both contained in space of multiplicity 4, they must contain in common a homoloid of multiplicity 1, i.e. a point, [{AX}B]. By parity of reasoning there must equally be a point [{AX}C]. These two points cannot [del]be in one plane[/del] [ins]coincide, because[/ins] the rays (B) and (C), of multiplicities 2 and 2, would lie in one plane (contrary to the hypothesis) if they contained in common a point; for 2+2-1 = 3. Hence the two points lie in one ray; and since both points lie in the plane {AX}, so also, as seen above, does that ray. But (A) lies in the same plane {AX}; so that the ray ([{AX}B][{AX}C]) and (A) must have a

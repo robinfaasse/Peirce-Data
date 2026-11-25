@@ -1,0 +1,39 @@
+[marginalia]
+[del]Monis vis Pondge[/del] [ins]1898[/ins] Feb 5 Sexagesima Sunday
+[/marginalia]
+
+[pn]3[/pn]
+
+Repeat the work
+
+$$b_{-R+2} = 2b_{-R+1} - b_{-R}$$
+
+[del]$$-2b_{-R+2} + 4b_{-R+1} - 2b_{-R}$$
+$$+b_{-R+3} - 2b_{-R+2} + b_{-R+1}$$
+$$-b_{-R+3} = 4b_{-R+2} - 5b_{-R+1} + 2b_{-R}$$[/del]
+
+$$\begin{aligned}
+&= \begin{array}{cc} 8 & -4 \\ -5 & +2 \end{array} \\
+&= 3b_{-R+1} - 2b_{-R}
+\end{aligned}$$
+
+$$\begin{array}{c|cc}
+& \Delta & \Delta^2 \\
+b_{-R} & & \\
+b_{-R+1} & b_{-R+1} - b_{-R} & 0 \\
+2b_{-R+1} - b_{-R} & b_{-R+1} - b_{-R} & 0 \\
+3b_{-R+1} - 2b_{-R} & b_{-R+1} - b_{-R} &
+\end{array}$$
+
+$$b_{-R+r} = r b_{-R+1} + (1-r) b_{-R}$$ [marginalia] $-R+r = \rho$ \\ $r = R-\rho$ [/marginalia]
+$$b_{\rho} = (R-\rho) b_{-R+1} + (1-R+\rho) b_{-R}$$
+$$0 = (R-Q) b_{-R+1} + (1-R+Q) b_{-R}$$
+$$b_{-R+1} = \frac{R-Q-1}{R-Q} b_{-R}$$ [marginalia] [del]$-R+Q$[/del] [/marginalia]
+$$b_{\rho} = \frac{(R-Q-1)(R-\rho) + (1-R+\rho)(R-Q)}{R-Q} b_{-R}$$
+$$\begin{aligned}
+&= \frac{[del]\rho-Q[/del] [ins]\rho-Q[/ins]}{R-Q} b_{-R}
+\end{aligned}$$ [marginalia] $-\rho = -Q+q$ \\ $\rho-Q = -q$ [/marginalia] [marginalia] $b_{-Q+q} = \frac{q}{R-Q} b_{-R}$ [/marginalia]
+
+$$b_{-Q+3} = 4b_{-Q+2} - 6b_{-Q+1} - b_{-Q-1}$$
+[del]$$-(6+1) b_{-R} = 3b_{-R}$$[/del]
+$$= 4b_{-Q+2} - \frac{5b_{-R}}{R-Q}$$

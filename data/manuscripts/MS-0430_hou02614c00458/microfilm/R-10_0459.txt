@@ -1,0 +1,22 @@
+[pn]Logic
+II
+71[/pn]
+
+antecedent, we enclose it, writing, for example, [u](a < b) < c[/u],
+in order to distinguish the whole consequence from [u]a < b < c[/u],
+which we always understand as if it were written [u]a < (b < c)[/u].
+[del]For[/del] [ins]But[/ins] it is a rule of the notation that a consequent need
+not be separately enclosed. If there are several enclosures,
+one within another, we use parentheses for the inner-
+most, brackets for the next innermost, braces for the
+next innermost, and for outer ones heavy parentheses,
+heavy brackets, heavy braces, large parentheses, etc.
+Thus in [u][a < (b < c) < d] < {[e < (f < g) < h] < (i < j < k)} < l[/u]
+the antecedent is [u][a < (b < c) < d][/u]. The antecedent of the ante-
+cedent is [u]a[/u]. [del]The[/del] [ins]The antecedent of the[/ins] consequent of the antecedent is [u]b < c[/u], etc.
+
+Treatises on algebra do not dwell upon the subject of the
+enclosure: they do not need to do so. [del]But[/del] [ins]Their use is inconsistent, however, and[/ins] [del]But[/del] it merits the
+attention of the logician as the very type of an efficient
+algebraical tool, — the embodiment in purest form of the
+quintessential characteristic of mathematical thought,

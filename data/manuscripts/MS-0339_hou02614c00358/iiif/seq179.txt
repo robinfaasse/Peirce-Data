@@ -1,0 +1,58 @@
+[del]x<y means that we take a member of x to be simpler to y[/del]
+[del]y > x means that we take y to be complex to x[/del]
+
+[del]Hence if we have no member of y to simpler than x[/del]
+
+[del]Suppose we have no x member of y such that x is simpler than y[/del]
+
+[del]Suppose we have no member of y complex to x[/del]
+[del]Then we have no x such that y > x[/del]
+
+[del]y > (x+a)[/del]
+
+[del]Hence[/del]
+
+[del]we have [fig]figure[/fig] as y > (x+a)[/del]
+
+[del]x < y[/del]
+
+[del]Suppose we have some x such that [fig]figure[/fig][/del]
+
+[del]Let x < y mean that [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig][/del]
+
+[del]Suppose x is any member of a class X[/del]
+[del]Suppose y is any member of a class Y[/del]
+[del]If we have no x such that x is complex to y[/del]
+[del]Then y is at least as simple as x[/del]
+[del]y ≤ x[/del]
+
+[del](x < y)[/del]
+
+[del]Let x and y be any two objects[/del]
+[del]If x is simpler than y we write x < y[/del]
+[del]If x is more complex than y we write x > y[/del]
+
+[del]Fundamental Law[/del]
+
+[del]Suppose we have a set of members x[/del]
+[del]Suppose we have a set of members y[/del]
+
+[del]If we have no member y of the set Y such that y is more complex than x[/del]
+[del]Then x is at least as complex as any y[/del]
+
+[del]x ≥ y[/del]
+
+[del]Then we have [fig]figure[/fig][/del]
+
+[del]which means we have [(x < y) ⊃ (x < x + a)][/del]
+
+[del]Suppose x is any number[/del]
+[del]Then x is either less than y or greater than y or equal to y[/del]
+
+[del]If x < y[/del]
+[del]If x > y[/del]
+[del]If x = y[/del]
+
+[del]x < y[/del]
+
+[del]y > x[/del]

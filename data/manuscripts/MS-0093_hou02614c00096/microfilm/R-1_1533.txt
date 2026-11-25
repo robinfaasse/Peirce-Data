@@ -1,0 +1,34 @@
+The Logic of Finite Differences.
+
+$\begin{aligned}
+E_x u_x &= u_{x+1} \\
+\Delta_x &= E_x - 1 \\
+\Sigma_x &= 1 / (E_x - 1)
+\end{aligned}$
+
+$\prod_0^l u_x = u_0 \cdot u_1 \cdot u_2 \cdot \dots \cdot u_l$
+Observe that this is not a function of $x$ but of $l$
+
+$E_l \prod_0^l u_x = u_0 \cdot u_1 \cdot u_2 \cdot \dots \cdot u_l \cdot u_{l+1}$
+
+$\Delta_l \prod_0^l u_x = \left(\prod_0^l u_x\right) (u_{l+1} - 1)$
+
+But put $u_x = x(x-1)(x-2)\dots(x-m+1) = x^{(m)} = \prod_0^{m-1} (x-i)$
+
+Then [del]$E_x x^{(m)} = (x+1)^{(m)} = \frac{x+1}{x+1-m} x^{(m)}$[/del] [del]$\prod_0^{m-1} u_{x+1-i}$[/del] $= \prod_0^{m-1} (x+1-i)$
+
+$E_x u_x = u_{x+1} = (x+1) \frac{u_x}{x-m+1} = \frac{x+1}{x+1-m} u_x = (x+1)^{(m)} = \prod_0^m (x+2-i)$
+
+$(x+1) \times (x-1)(x-2)\dots(x+2-m)$
+$= (x+2-1)(x+2-2)(x+2-3)\dots(x+2-m)$
+
+$\Delta_x u_x = u_{x+1} - u_x = [del]\text{something}[/del] \frac{x+1}{x+1-m} x^{(m-1)}$
+$= (x+1)^{(m)} - x^{(m)} =$
+
+[del]$\frac{m}{x+1-m}$[/del] $(x+1) x^{[del](m-1)[/del] [ins](m-1)[/ins]} (x+1)$
+
+$E_x x^{(6)} = E_x x(x-1)(x-2)(x-3)(x-4)(x-5)$
+$= E_x (x+1)^{(6)} = (x+1)x(x-1)(x-2)(x-3)(x-4) = [del](x+1)[/del] \frac{x+1}{x-5} x^{(6)} = (x+1)x^{(5)}$
+
+$\Delta_x x^{(6)} = [del]\frac{x+1}{x-5}[/del] [del]x+1[/del] [del]x(x-1)[/del]$
+$= x \cdot x \cdot (x-1)(x-2)(x-3)(x-4) + x(x-1)(x-2)(x-3)(x-4)$

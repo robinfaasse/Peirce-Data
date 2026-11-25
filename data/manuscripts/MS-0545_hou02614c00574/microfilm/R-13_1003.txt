@@ -1,0 +1,16 @@
+[pn]MS 545[/pn]
+
+Suppose a relation [u]r[/u] such that if anything, A, is in that relation to anything else, B, and there is any character, Q, which A has [del]and B has not[/del], then
+either there is something having the character, Q, which is in the relation, [u]r[/u], to B, but not to anything else that is in that relation to B,
+or else there is something, A', [del]having the character Q, and being[/del] [ins]which is[/ins] in the relation, [u]r[/u], to B, and at the same time being in the relation, [u]r[/u], to something, B', which has not the character Q, [del]and[/del] [ins]A'[/ins] not being in the relation, [u]r[/u], to anything that is in that relation to B'.
+
+[fig]Diagram showing A and B separated by a vertical line with a horizontal arrow pointing to B[/fig]
+
+Let [u]r[/u] be such a relation that if anything, A, is [u]r[/u] to anything, B, then
+either A is not [u]r[/u] to anything that is [u]r[/u] to B,
+or given any character, Q, whatever, there is something, A', which resembles A in that respect, and is [u]r[/u] to something B' which differs from A in that respect, while A' is not [u]r[/u] to anything that is [u]r[/u] to B', but A' is [u]r[/u] to B.
+
+Then we can reason as follows:
+Whatever is [u]r[/u] to X without being [u]r[/u] to anything that is [u]r[/u] to X is a P;
+But whatever is [u]r[/u] to X and at the same time is [u]r[/u] to [del]any P[/del] [ins]something[/ins] without being [del]or[/del] [ins]r[/ins] to anything that is [u]r[/u] to that P, is a P;
+[u]∴[/u] Whatever is [u]r[/u] to [del]the[/del] X is a P.

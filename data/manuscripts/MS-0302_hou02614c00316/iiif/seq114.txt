@@ -1,0 +1,69 @@
+[fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig]
+[fig]figure[/fig]
+5 Lines
+1 quinqilateral
+5 quad
+5 tri
+
+6 Lines
+[u]1st case[/u]
+cuts 5 quadrilaterals
+making
+[del]1[/del] 2 quinqulaterals
+6 quinqulaterals
+10 trilaterals
+
+[u]2nd case[/u]
+cuts 1 triangle 4 quad.
+making
+3 quinqulaterals
+6 quadrilaterals
+7 triangles
+
+[u]3rd case[/u]
+cuts 2 tri. 3 quadri
+making
+2 quinqul
+8 quadri
+6 tri
+
+[del]m[/del]
+cuts 2 [ins]non[/ins] adj
+quadr
+[del]4[/del] 1 quinqi
+[del]6[/del] 13 quadr
+[del]10[/del] 5 tri
+
+[del]m[/del]
+2 quinq. [ins]non[/ins>
+8 quadr 32
+6 tri 18
+
+[u]4th Case[/u]
+Cuts 2 adjacent
+sides of quinqulat.
+making
+2 quinqulat
+2 quadrilat
+1 sexilateral
+6 trilat
+60
+15
+24
+21
+—
+120
+
+[u]5th case[/u]
+Cuts 2 [del]adj[/del] [ins]non adj[/ins]
+sides [ins]other than after[/ins]
+2 quadri [del](differ)[/del]
+2 tri.
+making
+2 quinqulat 10
+8 quadr 32
+6 tri 18
+—
+60
+
+[fig]figure[/fig]

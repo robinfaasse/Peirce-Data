@@ -1,0 +1,59 @@
+[pn]22[/pn]
+
+[u]Boole notes[/u]
+$x^{(m)}$ for $x(x-1)\dots(x-m+1)$
+He then shows
+$\phi x = \phi 0 + \Delta\phi 0 \cdot \frac{x}{1!} + \Delta^2\phi 0 \frac{x^{\text{Boole's } x^{(2)}}}{2!} + \text{etc}$
+
+By Taylor's theorem
+$\Delta u_x = \frac{\partial u_x}{\partial x} + \frac{1}{2!} \frac{\partial^2 u_x}{\partial x^2} + \text{etc.}$
+
+Then
+$u_{x+n} = u_x + n\Delta u_x + \frac{n^{(2)}}{2!} \Delta^2 u_x + \frac{n^{(3)}}{3!} \Delta^3 u_x + \text{etc}$
+
+[marginalia]
+Boole in his
+1st Edition puts
+D for E most
+inappropriately,
+I write D for
+$\frac{d}{dx}$
+[/marginalia]
+
+$E = 1 + \Delta$
+$E = e^D$
+
+$\Delta^n 0^m = n^m - n^{(1)}(n-1)^m + \frac{n^{(2)}}{2!} (n-2)^m$
+$- \frac{n^{(3)}}{3!} (n-3)^m + \text{etc.}$
+
+For table of $\Delta 0$ see DeMorgan Calculus p. 253.
+
+The Secondary Form of Maclaurin's Theorem is
+$\phi t = \phi 0 + \phi \frac{d}{d0} 0 \cdot t + \phi \frac{d}{d0} 0^2 \cdot \frac{t^2}{2!} + \phi \frac{d}{d0} 0^3 \cdot \frac{t^3}{3!} + \text{etc}$
+where $\phi \frac{d}{d0} 0^n$ means what $\phi \frac{d}{dt} t^n$ [del]becomes[/del]
+when $t=0$. [The mode of expression is [del]most[/del]
+illogical.]
+
+***
+
+[pn]23[/pn]
+
+By $\phi(\frac{d}{d0}) 0^m$
+He means that the function is to be equal
+to a series in powers of the variable and
+$\frac{d}{dt}$ is made the variable. After development
+the $\frac{d}{dt}$ operates and finally $t$ is made zero
+What confusion of ideas, [ins]I denote[/ins] [del]to call[/del] all this as
+he does!
+
+$\Delta [del]u_x[/del] v_x = ([del]u_x[/del])([del]v_x[/del]) - u_x v_x$
+$= u_x \Delta v_x + v_{x+1} \Delta u_x$
+$\Delta \frac{u_x}{v_x} = \frac{v_x \Delta u_x - u_x \Delta v_x}{v_x v_{x+1}}$
+
+[u]Interpolation[/u]
+$u_x = u_0 + x \Delta u_0 + \frac{x^{(2)}}{2!} \Delta^2 u_0 + \text{etc}$
+
+$u_x = u_a \frac{(x-b)(x-c)\dots}{(a-b)(a-c)\dots} + u_b \frac{(x-a)(x-c)\dots}{(b-a)(b-c)\dots} + \text{etc}$
+
+$\frac{du_x}{dx} = \pm \frac{bc\dots n (\frac{1}{b} + \frac{1}{c} \dots \frac{1}{n})}{(a-b)(a-c)\dots a\cdot n} u_a + \text{etc}$
+$\frac{d^2 u_x}{dx^2} = \mp \frac{bc\dots n (\frac{1}{bc} + \frac{1}{bd} + \frac{1}{cd} + \dots)}{2! (a-b)(a-c)\dots a\cdot n} u_a + \text{etc}$

@@ -1,0 +1,22 @@
+But since this is on the plane
+$ldx + mdy + ndz = 0$
+Multiplying the first equation by $n$
+and the second by $z_1$ and sub-
+tracting
+$(nx_1 - lz_1)dx + (ny_1 - mz_1)dy = 0$
+Hence $nx_1 - lz_1 = 0$
+$ny_1 - mz_1 = 0$
+$\frac{x_1}{l} = \frac{z_1}{n} \quad \frac{y_1}{m} = \frac{z_1}{n}$
+and the nearest point is on the
+line $\frac{x}{l} = \frac{y}{m} = \frac{z}{n} = h$.
+
+The distance of any other point from
+the axis is
+$\sqrt{x^2+y^2+z^2 - (lx+my+nz)^2}$
+The sum of the squares of the distances
+of all the points from [del]the[/del] [ins]this[/ins] axis is
+[del]$m^2+n^2$[/del] $[1-l^2][x^2] + [1-m^2][y^2] + [1-n^2][z^2]$
+$- 2lm[xy] - 2mn[yz] - 2ln[xz]$
+The condition that the axis is such as
+to make this a maximum or minimum
+is

@@ -1,0 +1,72 @@
+[u]D[/u] [sub]8[/sub] m [u] $(\Theta_2 - \Theta_1) [1 - \frac{1}{12} (\Theta_2 + \Theta_1)]$ [/u]
+$(\Theta_2 + \Theta_1) [1 - \frac{1}{12} (\Theta_2 - \Theta_1)] - 2 \Theta_1$
+
+$\Theta_2 - \Theta_1 - \frac{1}{12} \Theta_2^2 + \Theta_1^2$
+$\Theta_2 + \Theta_1 - \frac{1}{12} \Theta_2^2 + \Theta_1^2$
+
+$\begin{array}{cc}
+0.4375 & 0.4378_n \\
+0.6522_n & 0.6510 \\
+\hline
+9.7853_n & 9.7868_n \\
+\\
+0.0549 & 0.0304_n \\
+9.1345 & 9.0769_n \\
+\hline
+0.9204 & 8.953.5
+\end{array}$
+
+$C_0 = - \frac{B}{A} (1 - \frac{1}{12} \Theta_1^2) \frac{1}{2} = [7.8615_n]$
+
+$C_0 \cosh \frac{1}{2} \Theta_2 + [del]C_1[/del] [ins]C_4[/ins] \sinh \frac{1}{2} \Theta_1 = C_2 \cosh \frac{1}{2} \Theta_1 + C_3 \sinh \frac{1}{2} \Theta_1 - \frac{B}{A} \frac{1}{2} \frac{1}{2} \Theta_1$
+$[del]C_0 \sinh \frac{1}{2} \Theta_1 + C_1 \cosh \frac{1}{2} \Theta_1 = C_2 \sinh \frac{1}{2} \Theta_1 + C_3 \cosh \frac{1}{2} \Theta_1[/del]$
+
+$C_0 = C_2 - \frac{B}{A} \frac{1}{\cosh \frac{1}{2} \Theta_2} \frac{1}{2} \cosh \frac{1}{2} \Theta_1$
+
+$[del]C_5 \cosh \frac{1}{2} \Theta_1 +[/del]$
+$C_4 = C_2 - \frac{B}{A} \frac{1}{\cosh \frac{1}{2} \Theta_2} \frac{1}{2} \cosh \frac{1}{2} \Theta_2$
+
+$C_4 \cosh \frac{1}{2} + C_5 \sinh \frac{1}{2} = 0$
+$C_5 = C_3 + \frac{B}{A} \frac{1}{\cosh \frac{1}{2} \Theta_2} \frac{1}{2} \sinh \frac{1}{2} \Theta_2$
+$C_1 = C_3 + \frac{B}{A} \frac{1}{\cosh \frac{1}{2} \Theta_2} \frac{1}{2} \sinh \frac{1}{2} \Theta_1$
+
+$\begin{array}{r|l}
+9.9389 & \\
+9.5740 & \\
+\hline
+0.6049 & 9.5129 \\
+0.1178 & 0.0962 \\
+\hline
+1.0316 & 9.6091 \\
+.0073 & +.40654 \\
+\hline
+1.3043 & -.00727 \\
+\hline
+C_2 & +.3993 \\
+& -1.3116 \\
+\hline
+C_4 & -.9123 \\
+\hline
+9.9601 & \\
+9.9603 & \\
+\hline
+C_5 & .9126 \\
+& -1.2706 \\
+\hline
+& .3580 \\
+C_3 & +.2431 \\
+\hline
+C_1 & -.1149
+\end{array}$
+
+$\begin{array}{r}
+9.8728 \\
+9.5129 \\
+\hline
+0.5911 \\
+0.1040 \\
+\hline
+9.3857
+\end{array}$
+
+[fig]small calculation scribble[/fig]

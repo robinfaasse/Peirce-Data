@@ -1,0 +1,27 @@
+At first instant $w = 0$ everywhere
+
+$$p = p_0 + \frac{p_0}{\frac{1}{y} - 100^2 \left[ 1 - (10y)^2 - \left(\frac{z}{1000}\right)^2 \right] + x}$$
+
+$$D_x p = \frac{- p_0 \cdot 100^2 \cdot 2 \cdot \frac{1}{1000^2} z}{\left\{ \frac{1}{y} - 100^2 \left[ 1 - (10y)^2 - \left(\frac{z}{1000}\right)^2 \right] + x \right\}^2} = - \frac{\frac{1}{50} z P}{\left\{ \frac{1}{y} - 100^2 \left[ 1 - (10y)^2 - \left(\frac{z}{1000}\right)^2 \right] + x \right\}^2}$$
+
+$$\frac{dw}{dt} = \frac{\frac{1}{50} z P_0}{\rho_0 \left\{ \frac{1}{y} - 100^2 \left[ 1 - (10y)^2 - \left(\frac{z}{1000}\right)^2 \right] + x + 1 \right\} \left\{ \frac{1}{y} - 100^2 \left[ 1 - (10y)^2 - \left(\frac{z}{1000}\right)^2 \right] + x \right\}^2}$$
+
+$$\frac{d(u-v)}{dt} = \frac{- \left[ - \frac{1}{y^2} + 100^3 \cdot 2 \cdot y [del]\right\}[/del] [ins]\right][/ins] P_0}{\rho_0 \left\{ \frac{1}{y} - 100^2 \left[ 1 - (10y)^2 - \left(\frac{z}{1000}\right)^2 \right] + x + 1 \right\} \left\{ \frac{1}{y} - 100^2 \left[ 1 - (10y)^2 - \left(\frac{z}{1000}\right)^2 \right] + x \right\}^2}$$
+
+$$\frac{1}{y^3} + \frac{1}{y} = \frac{100^3 \cdot 2}{2000000}$$
+
+Hence for $y = .0079$ [fig]diagram of a curved line branching into two[/fig]
+The direction of the battering is undisturbed
+
+Also for $y = 0$
+
+But for $\frac{1}{y} + [del]100^2[/del] [ins]1,000,000[/ins] y^2 = 100^2 \left[ 1 - \left(\frac{z}{1000}\right)^2 \right] - x$
+
+Also for $\frac{1}{y} + 1,000,000 y^2 = 100^2 \left[ 1 - \left(\frac{z}{1000}\right)^2 \right] - x - 1$
+
+$\frac{d(u-v)}{dt}$ is infinite.
+
+$$y - \left\{ \frac{1}{100} [del]=[/del] [ins]-[/ins] \left(\frac{z}{10000}\right)^2 - \frac{x}{100^3} \right\} y = - 1$$
+
+$y = \text{about} - \frac{1}{100}$
+when $x = 0$ $z = 0$

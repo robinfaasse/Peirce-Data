@@ -1,0 +1,32 @@
+x + y + z = 1
+[del](x+k)(y+k)[/del] [del]\frac{1}{x+k} + \frac{1}{y+k} + \frac{1}{z+k} = 0[/del]
+[fig]diagram of a circle with inscribed and intersecting lines[/fig]
+x = k  k + 2y = 1
+y = \frac{1-k}{2}
+\frac{1}{x' } + \frac{1}{y'} + \frac{1}{z'} = 0
+[del]x = \frac{1-k}{2}[/del] [del]y = \frac{1+k}{2}[/del]  \frac{1}{x+k} + \frac{1}{y+k} + \frac{1}{z+k} = 0
+z = -k - \frac{1}{\frac{1}{x+k} + \frac{1}{y+k}}
+[u]A = (1+2k)X - k\cdot Y - k Z[/u]
+B = [del]\alpha_1 X + \beta_1 Y - (k + \frac{1}{\frac{1}{\alpha_1+k} + \frac{1}{\beta_1+k}})[/del]
+B = \left(\frac{P_1 + \sqrt{P_1^2 - \frac{4P_1}{1+3k+\frac{1}{P_1}}}}{2}\right) X + \left(\frac{P_1 - \sqrt{P_1^2 - \frac{4P_1}{1+3k+\frac{1}{P_1}}}}{2}\right) Y + (1-P_1) Z [del]\frac{1}{x+y}[/del]
+[del]\frac{1}{x+k} + \frac{1}{y+k} + \frac{1}{1-x-y+k} = 0[/del]
+C = \left(\frac{P_2 + \sqrt{P_2^2}}{2}\right) X + \frac{P_2 - \sqrt{ }}{2} Y + (1-P_2) Z [del](x+k)(y+k) + (x+k)(1+k-x-y)[/del]
+[del]+ (y+k)(1+k-x-y) = 0[/del]
+D = \left(\frac{P_3 + \sqrt{ }}{2}\right) X + \frac{P_3 - \sqrt{ }}{2} Y + (1-P_3) Z [del]= xy+kx+ky[/del]
+[del](x+k)y[/del]
+[del]x+k[/del]
+-y^2 + (1+2k-x)y
+[del]+ (x+k)k + x[/del] [del](1+2k-x)[/del]
++ k(1+k-x)
+x + 2kx - x^2 + k+2k^2
+= kx [del]- kx[/del]  + k + k^2
+x - x^2 + 2k + 3k^2
+\frac{P}{1+3k+\frac{1}{P}} = \xi\eta
+\frac{\xi+\eta}{1+3k+\frac{1}{\xi+\eta}} = \xi\eta \sqrt{P^2 - \frac{4P}{1+3k+\frac{1}{P}}}
+\frac{(\xi+\eta)}{\xi\eta} - \frac{1}{\xi+\eta} = 1+3k \frac{1}{2}P + \frac{1}{2}
+[del]\frac{1}{\xi} + \frac{1}{\eta} - \frac{1}{\xi+\eta} = 1+3k[/del] \frac{1}{\eta} - \frac{1}{\xi+\eta} = 1+3k - \frac{1}{\xi}
+\frac{1}{\xi} + \frac{1}{\eta} = 1+3k + \frac{1}{\xi+\eta} \frac{\xi + \eta}{\eta(\xi+\eta)} \eta(\xi+\eta) = \frac{\xi}{1+3k-\frac{1}{\xi}}
+(\xi+\eta)\frac{1}{\xi\eta} = (1+3k)(\xi+\eta)\xi\eta + \xi\eta \eta^2 + \xi\eta + \frac{1}{4}\xi^2 = \frac{(1+3k)\xi + \frac{3}{4}}{1+3k-\frac{1}{\xi}} x+y = 1+k + \frac{1}{\frac{1}{x+k} + \frac{1}{y+k}}
+\frac{y+k}{x+k} = w (w+1)^2 = (1+3k)(w+1) (x+k) + (y+k) = 1+3k \frac{(x+k)(y+k)}{x+y+2k}
+\frac{1}{\xi} + \frac{1}{\eta} - \frac{1}{\xi+\eta} = \frac{(\xi+\eta)^2-\xi\eta}{\xi\eta(\xi+\eta)} = (1+3k) [(x+k) + (y+k)]^2 = (1+3k) [(x+k) + (y+k)]
++ (x+y)(y+k)

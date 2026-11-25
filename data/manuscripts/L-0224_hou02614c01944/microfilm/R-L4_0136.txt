@@ -1,0 +1,25 @@
+page 4
+
+If $\delta$ is of the E form, [del]but the[/del] [ins]while no[/ins] collection [del]formed[/del] [ins]composed[/ins] of $\delta$ and [del]the[/del] [ins]a[/ins] single member of $\beta$ is of the E form, then $\beta$ is of the E form.
+
+In order to see what this implies in addition to what Clause 1 implies, let us express [del]this[/del] [ins]the[/ins] proposition in terms of the implication just made out, namely, Clause 2 expresses that
+
+If [del]there be an[/del] [ins]in an[/ins] essential respect [del]every[/del] [ins]all[/ins] elements of [del]has[/del] [ins]$\delta$ have[/ins] [del]some[/del] [ins]a[/ins] single determination, while in no essential respect have all the elements of $\delta$ the same determination as any element of $\beta$ (no matter which element it be,) then in some essential respect all the elements of $\beta$ have the same determination.
+
+Let us see how this can be. Let us write $0, 1, 2, 3,$ etc for the different determinations, and let us write the determinations [ins]in[/ins] of different respects in different horizontal rows and different [del]elem[/del] determinations of different elements in different columns. Then $\delta$ may be represented by this block:
+
+[fig]Matrix representation of delta[/fig]
+
+$\delta$
+Elements
+$\begin{matrix} 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & 1 & 2 & 2 \\ 1 & 1 & 1 & 2 & 2 \\ 0 & 0 & 1 & 2 & 3 \\ 2 & 3 & 3 & 0 & 1 \end{matrix}$
+Essential Respects
+
+In an essential respect (top row) all the elements of $\delta$ have a single determination so that E($\delta$) is true.
+
+$\beta$
+Element
+$\begin{matrix} 1 & 2 & 3 & 4 \\ 0 & 1 & 2 & 0 \\ 1 & 1 & 1 & 1 \\ 2 & 3 & 4 & 0 \\ 0 & 0 & 1 & 1 \end{matrix}$
+Essen. respects
+
+The [ins]other[/ins] condition holds also, since the top line of $\delta$ is the only one having all the determinations the same, namely $0$, and there is no $0$ on the top line of $\beta$. It [del]accidentally[/del] happens that the consequent also is true because of the $3^\text{d}$ line of $\beta$. But it need not have been so. How then could it

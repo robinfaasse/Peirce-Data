@@ -1,0 +1,12 @@
+When the noddy is on the support of a [ins]gravity[/ins] pendulum oscillating in the same plane, we may neglect the influence of the former upon the latter. Then, if $\xi$ be the horizontal displacement of the support, we shall have
+
+$$D_t x = \int_0^s \cos \theta \cdot D_t \theta \cdot ds + h \cos \vartheta \cdot D_t \vartheta + D_t \xi$$
+$$D_t y = - \int_0^s \sin \theta \cdot D_t \theta \cdot ds - h \sin \vartheta \cdot D_t \vartheta$$
+$$\frac{E}{\mu} = \frac{1}{2} \int_0^s (D_t \theta)^2 ds + h D_t \vartheta \int_0^s \cos (\vartheta - \theta) D_t \theta \cdot ds + \frac{1}{2} (h^2 + \gamma^2) (D_t \vartheta)^2$$
+$$+ D_t \xi \int_0^s \cos \theta \cdot D_t \theta \cdot ds + h \cos \vartheta \cdot D_t \vartheta \cdot D_t \xi + \frac{1}{2} (D_t \xi)^2,$$
+
+or neglecting the square of $\theta$,
+$$\frac{E}{\mu} = \frac{1}{2} \int_0^s (D_t \theta)^2 ds + S h D_t \vartheta \cdot D_t \chi + \frac{1}{2} (h^2 + \gamma^2) (D_t \vartheta)^2$$
+$$+ S D_t \xi \cdot D_t \chi + h D_t \vartheta \cdot D_t \xi + \frac{1}{2} (D_t \xi)^2.$$
+
+Thus, [del]two of the[/del] [ins]to[/ins] [del]Lagrangians will be have[/del] [ins]heretofore considered[/ins] [del]the following terms added. To the first[/del]

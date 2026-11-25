@@ -1,0 +1,11 @@
+The negative must be defined by the formulae
+of contradiction and excluded middle.
+[u]x[/u],[u]n[/u]-[u]x[/u] < 0     1 < [u]x[/u] + [u]n[/u]-[u]x[/u] .
+
+To [del]prove[/del]
+Suppose x < y . Multiply by n-y
+x,n-y < 0
+Add n-x
+x,n-y + n-x < n-x
+But n-y < x,n-y + n-x,n-y < x,n-y + n-x
+<tex>\therefore</tex> n-y < n-x.

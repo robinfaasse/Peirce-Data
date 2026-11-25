@@ -1,0 +1,29 @@
+[pn]2[/pn]
+
+REPORT of [u]                                                                                                    [/u] Inspector on [u]                                                               Steam Boiler used by[/u]
+[u]                                                                                at                                                                inspected                                                189[/u]
+
+might be connected with the coördinates $x_1, y_1, z_1$
+of the variable point in [del]the other[/del] another plane by the
+equations $x_1 : y_1 : z_1 = yz : zx : xy$, so that for every
+point of the first plane would correspond a single
+point of the second. The foregoing equations may be
+put in the form $x : y : z = y_1 z_1 : z_1 x_1 : x_1 y_1$, showing
+that for every point in the second plane there corresponds
+a single point of the first. These two facts taken to-
+gether constitute the transformation as a birational one.
+See also Cremona transformation and homographic
+transformation.
+
+[u]Cayleyan transformation[/u]. The Hessian transformation of the
+conic $(a, b, c, f, g, h)(x_1, x_2, x_3)^2$ is
+$(m^2 a + 2mf)x_1^2 + (m^2 b + 2mg)x_2^2 + (m^2 c + 2mh)x_3^2$
+$- (a + 2m^2 f)x_2 x_3 - (b + 2m^2 g)x_3 x_1 - (c + 2m^2 h)x_1 x_2 = 0$
+If the proposed conic is the product of two lines $\lambda_x, \mu_x$,
+the discriminant of the Hessian transformation of this product
+is obtained by substituting in the general discriminant
+of the foregoing Hessian, for the coefficients $a, b, c,$ etc.,
+of the conic, the products $\lambda_1 \mu_1, \lambda_2 \mu_2, \lambda_3 \mu_3,$ etc. In
+the result replace $\mu_1, \mu_2, \mu_3$ by $\lambda_1, \lambda_2, \lambda_3$, and
+the result gives the covariant $m(\lambda_1^3 + \lambda_2^3 + \lambda_3^3) + (1 - 4m^3)\lambda_1 \lambda_2 \lambda_3$,
+which is called the Cayleyan of the cubic. If a

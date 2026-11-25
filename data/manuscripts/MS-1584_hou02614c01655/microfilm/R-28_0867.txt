@@ -1,0 +1,17 @@
+[fig]Three-branched diagram with central connection[/fig] $S_{lmn}$ is the number of ways with $c$ colors of coloring a [del]three-branch[/del] [ins]with $l, m, n$, regions in its 1st, 2nd, & 3rd branch[/ins] branch figure [del]so that all branches[/del] [ins]so that all branches[/ins] terminate with the same colors
+
+$u_{lmn}$ = [del]same number so that[/del] [ins]same number so that[/ins] branch 1 [del]differs[/del] [ins]terminates differently from[/ins] branches 2 and 3 which terminate alike
+
+$v_{lmn}$ = number so that branch 2 terminates differently branches 1 & 3 terminating alike
+
+$w_{lmn}$ = [del]same number so that[/del] [ins]same number so that[/ins] branch 3 terminates differently from branches 1 & 2 which terminate alike
+
+$t_{lmn}$ the number of ways with $c$ colors of coloring a three branch figure so shaped that [del]each[/del] the first region in each branch touches the first in each of the others, but after that each region touches only the preceding and following regions of the same branch, and there are $l, m, n$, regions in branches 1, 2, 3, and all the branches have their terminals of different colors.
+
+It is obvious that $S_{111} = u_{111} = v_{111} = w_{111} = 0$
+$t_{111} = c(c-1)(c-2)$
+
+$S_{l,m,n} = u_{l-1,m,n} = v_{l,m-1,n} = w_{l,m,n-1}$
+$t_{l,m,n} = (c-2) \{ u_{l-1,m,n} + w_{l-1,m,n} \} + (c-3) t_{l-1,m,n}$
+$u_{l,m,n} = (c-1) S_{l-1,m,n} + (c-2) u_{l-1,m,n}$
+$v_{l,m,n} = w_{l-1,m,n} + t_{l-1,m,n}$

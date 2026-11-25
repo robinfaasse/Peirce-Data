@@ -1,0 +1,91 @@
+The cubic $(x^2+y^2)(y+c) + 2\bar{c}xy = 0$ where $c=\frac{1}{10}$ $\bar{c}=\frac{9}{10}$
+[del]and the line[/del]
+$3x-5y-2=0$
+Intersect at
+$$\begin{array}{cc}
+x & y \\
+-1 & -1 \\
+-0.09481046 & -0.45658628 \\
++0.62372223 & -0.02576665\frac{1}{2}
+\end{array}$$
+
+To find tangentials from these points we first have to calculate
+$a$ by the equation
+$a^2(y+c)^2 + a(-2xy^2+2c^2x-4\bar{c}y^2+4c\bar{c}y) + 2\bar{c}xy^2+2c\bar{c}xy-y^4+2cy^3-c^2y^2+4\bar{c}^2y^2$
+$$\begin{array}{cccccccccc}
+\scriptstyle -1+c & & \scriptstyle +2 & \scriptstyle -.02 & \scriptstyle -3.6 & \scriptstyle -.36 & \scriptstyle -1.8 & \scriptstyle +.18 & \scriptstyle -1 & \scriptstyle -0.2 & \scriptstyle -.01 & \scriptstyle +3.24 \\
+\scriptstyle .81
+\end{array}$$
+
+[marginalia]
+.81
+3.24
+[/marginalia]
+
+$$\begin{array}{r}
+0.02 \\
+3.6 \\
+.36 \\
+\hline -3.98 \\
++2 \\
+\hline -1.98
+\end{array}$$
+
+$$\begin{array}{r}
+-1.8 \\
++0.18 \\
+3.24 \\
+\hline 3.42 \\
+3.01 \\
+\hline +.41
+\end{array}$$
+
+$$\begin{array}{r}
+1 \\
+0.2 \\
+.01 \\
+\hline 3.01
+\end{array}$$
+
+$0.81 a^2 - 1.98 a + 0.41$
+$(0.9a)^2 - 2\times 1.1(0.9a) + 0.41$
+
+[marginalia]
+.81
+[/marginalia]
+
+$$\begin{array}{r}
+1.21 \\
+.41 \\
+\hline .80
+\end{array}$$
+
+$$\begin{array}{r}
+\pm .894427191 \\
++ 1.1 \\
+\hline + 1.994427191 \\
++ 2.21603021 \\
+\hline + 0.22041423
+\end{array}$$
+
+$$\begin{array}{r}
+2.731322 \\
+9 \overline{) 2.05572809} \\
+\hline 22841423
+\end{array}$$
+
+[marginalia]
+5.2
+1.36
+23
+[del]158[/del]
+[/marginalia]
+
+$$\begin{array}{l}
+Ax^2+Bx+C=0 \\
+4A^2x^2+2B2AX+4AC=0 \\
+\frac{-B \pm \sqrt{B^2-4AC}}{2A}
+\end{array}$$
+
+$a = $
+$a = $

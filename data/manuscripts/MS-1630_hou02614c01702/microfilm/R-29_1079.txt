@@ -1,0 +1,42 @@
+[fig]Coordinate axes with a curve[/fig] Direc of min curv
+
+[fig]Geometric diagram with a wedge[/fig]
+
+[fig]Square[/fig]
+
+[fig]Grid pattern[/fig]
+
+$ds = \rho\ dv$
+$ds' = \rho'\ dv'$
+[del]$d\sigma = \rho\rho'\ dv\ dv'$[/del]
+[del]$d\psi = dv\ dv'$[/del]
+$d\psi = dv\ dv'$
+
+$\mathcal{R}^2 = \rho\rho' = \text{measure of sup. curv.}$
+$\mathcal{R} = \sqrt{\rho\rho'}$
+
+How to change surface without changing relation between its parts
+In soft hats measure of curv[del]atures[/del] does not change.
+
+To prove this: —
+
+[fig]Circle with intersecting lines[/fig] Direc of $\rho'$
+
+$\rho\ dv = a$ (given quantity) $= \rho'\ dv'$
+If you bend to surface $\rho_1\ dv_1$ $= \rho'_1\ dv'_1$
+
+$\rho\rho' = \mathcal{R}^2 = \frac{a^2}{dv\ dv'}$
+$\rho\rho'\ dv\ dv' = a^2$
+$\rho_1\rho'_1\ dv_1\ dv'_1 = a^2$
+
+To prove $dv\ dv' = dv_1\ dv'_1$ [del]can't be done[/del]
+
+$\frac{1}{2} (\frac{1}{\rho} + \frac{1}{\rho'}) = \mathcal{A}$
+$\frac{1}{2} (\frac{1}{\rho} - \frac{1}{\rho'}) = \mathcal{B}$
+
+$\frac{1}{\rho_\phi} = \mathcal{A} - \mathcal{B} \cos 2\phi$
+
+$\rho_\phi\ dv_\phi = \frac{dv_\phi}{\mathcal{A} - \mathcal{B} \cos 2\phi} = a = \frac{dv_{\phi_1}}{\mathcal{A} - \mathcal{B} \cos 2\phi_1}$
+$\rho_{\phi'}\ dv_{\phi'} = \frac{dv_{\phi'}}{\mathcal{A} - \mathcal{B} \cos 2\phi'} = a = \frac{dv_{\phi'_1}}{\mathcal{A} - \mathcal{B} \cos 2\phi'_1}$
+
+$a(\phi - \phi') = \text{dist apart of those quantiti}$

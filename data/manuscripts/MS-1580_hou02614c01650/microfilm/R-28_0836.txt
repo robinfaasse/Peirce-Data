@@ -1,0 +1,32 @@
+[del]$\alpha\ \beta\ \gamma\ \delta\ \varepsilon\ \zeta\ \eta\ \theta\ \iota\ \kappa\ \lambda\ \mu\ \nu\ \xi\ \omicron\ \pi$[/del]
+$\alpha\ \beta\ \gamma\ \delta\ \varepsilon\ \zeta\ \eta\ \theta\ \iota\ \kappa\ \lambda\ \mu\ \nu\ \xi\ \omicron\ \pi\ \rho\ \sigma\ \tau\ \upsilon\ \varphi\ \chi\ \psi\ \omega$
+[u]$\begin{array}{c|cccc|cccccccc}
+ & \alpha & \beta & \gamma & \delta & \varepsilon & \zeta & \eta & \theta & \iota & \kappa & \lambda & \mu \\
+\hline
+\alpha & \iota & \kappa & \lambda & \mu & \alpha & \delta & \beta & \gamma & \varepsilon & \theta & \zeta & \eta \\
+\beta & \lambda & \kappa & \mu & \iota & \beta & \gamma & \alpha & \delta & \delta & \varepsilon & \eta & \zeta \\
+\gamma & \mu & \iota & \lambda & \kappa & \gamma & \beta & \delta & \alpha & \zeta & \eta & \varepsilon & \theta \\
+\delta & \kappa & \lambda & \iota & \mu & \delta & \alpha & \gamma & \beta & \eta & \zeta & \theta & \varepsilon \\
+\hline
+\varepsilon & \alpha & \beta & \gamma & \delta & \varepsilon & \zeta & \eta & \theta & \iota & \kappa & \lambda & \mu \\
+\zeta & \gamma & \delta & \alpha & \beta & \zeta & \varepsilon & \theta & \eta & & & & \\
+\eta & \delta & \gamma & \beta & \alpha & \eta & \theta & \varepsilon & \zeta & & & & \\
+\theta & \beta & \alpha & \delta & \gamma & \theta & \eta & \zeta & \varepsilon & & & & \\
+\iota & & & & & \iota & & & & & & & \\
+\kappa & & & & & \kappa & & & & & & & \\
+\lambda & & & & & \lambda & & & & & & & \\
+\mu & & & & & \mu & & & & & & &
+\end{array}$[/u]
+
+$\begin{array}{cccc}
+\alpha & \delta & \gamma & \beta \\
+\beta & \gamma & \delta & \alpha \\
+\gamma & \beta & \alpha & \delta \\
+\delta & \alpha & \beta & \gamma
+\end{array}$
+
+$x^2 = m$
+
+[del]$(\frac{x+m}{2})^2 = \theta$[/del]
+
+$(\frac{\varepsilon+\zeta}{2})^2 = \frac{\varepsilon+\zeta}{2}$  $(\frac{\varepsilon+\eta}{2})^2 = \frac{\varepsilon+\eta}{2}$  $(\frac{\varepsilon+\theta}{2})^2 = \frac{\varepsilon+\theta}{2}$

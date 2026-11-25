@@ -1,0 +1,25 @@
+[105]
+
+$$Logx = M logx$$
+$$D_x Logx = M x^{-1}$$
+$$D_x^2 Logx = -M x^{-2}$$
+$$D_x^3 Logx = 2 M x^{-3}$$
+$$D_x^4 Logx = -6 M x^{-4}$$
+$$D_x^5 Logx = 24 M x^{-5}$$
+
+To prove Taylor’s theorem, supposing
+[ins]$u_h^1, u_h^2$ etc$[/ins] [del]$u_x, u_x'$ etc$[/del] are unknown functions of $h$
+$f(x+h) = fx + u_h^0 D_x fx + u_h^1 D_x^2 fx + etc$
+Then $u_o = u_o' = u_o''$ etc $= 0$
+$D_h f(x+h) = D_x fx + u_h D_x^2 fx + u_h' D_x^3 fx + etc$
+$D_x f(x+h) = D_h u_h . D_x fx + D_h u_h' D_x^2 fx + etc$
+[del]$D_x^2 f(x+h) = D_x fx + u_h D_x^2 fx + u_h' D_x^4 fx$[/del]
+[ins]$D_h u_h = 1 \quad D_h u_h' = u_h$
+$u_h = h + C \quad u_h = \frac{1}{2} h^2 + C$
+$u_h = h \quad u_h = \frac{1}{2} h^2$[/ins]
+
+Thus it is proved that if $f(x+h)$ can
+be expressed in the form
+[del]$D_x f(x+h) = D_x fx + u_h D_x^2 f$[/del]
+$f(x+h) = fx + u_1 D_x fx + u_2 D_x^2 fx + etc$
+Taylor’s theorem is the expression

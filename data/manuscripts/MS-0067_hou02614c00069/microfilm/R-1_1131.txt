@@ -1,0 +1,53 @@
+```
+[del]\sin^{2} y = h^{2} - h^{2} \cos^{2} x[/del]
+[del]\frac{1}{\sin^{2} y} = \frac{1}{h^{2} - h^{2} \cos^{2} x}[/del]  [del]\cot^{2} y = \frac{\frac{1}{h^{2}} - 1 + \cos^{2} x}{1 - \cos^{2} x}[/del]
+[del]\frac{1}{h^{2}} \sin^{2} y = 1 - \cos^{2} x[/del]  [del]\cos^{2} x = 1 - \frac{1}{h^{2}} \sin^{2} y[/del]
+[del]\frac{1}{h^{2}} \tan^{2} z = \frac{1}{\cos^{2} x} - 1[/del]  [del]= \frac{1}{1 + h^{2} \tan^{2} z}[/del]
+
+.142857
+.285714
+.571428
+1.142857
+
+076923
+153846
+307692
+615384
+1.230769
+461538
+.923076
+1.846153
+1.692307
+1.384615
+769230
+1.538461
+1.076923
+
+[del]h^{2} - \sin^{2} y = \frac{1}{\frac{1}{h^{2}} + \tan^{2} z}[/del]
+[del]\cot^{2} y = \frac{1}{\frac{1}{h^{2}} - 1 + \sec^{2} z}[/del]
+
+[del]\frac{1}{h^{2} (1 - \cos^{2} x)} - 1 = \frac{1}{h^{2} (1 - \cos^{2} x)} - 1 = \frac{1 - h^{2} + h^{2} \cos^{2} x}{h^{2} - h^{2} \cos^{2} x}[/del]
+[fig]right triangle[/fig] [del]= \frac{\frac{1}{h^{2}} - 1 + \cos^{2} x}{1 - \cos^{2} x}[/del]
+[del]\frac{\cos^{2} x}{1 - \cos^{2} x}[/del]
+[del]1 - h^{2} + h^{2} \cos^{2} x = \sin^{2} y[/del]
+[del]1 - h^{2} + \frac{1}{\frac{1}{h^{2}} + \tan^{2} z} = \cos^{2} y[/del]
+
+\sin y = h \sin x
+\tan z = h \tan x
+
+\sin^{2} y = h^{2} \sin^{2} x = h^{2} - h^{2} \cos^{2} x
+\tan^{2} z = h^{2} \tan^{2} x = h^{2} \frac{1}{\cos^{2} x} - h^{2}
+
+\cos^{2} x = 1 - \frac{1}{h^{2}} \sin^{2} y
+= \frac{1}{1 + \frac{1}{h^{2}} \tan^{2} z}
+
+\sin^{2} y = 1 - \frac{1}{1 + \frac{1}{h^{2}} \tan^{2} z}
+
+\frac{1}{h^{2}} \tan^{2} z = \frac{\tan^{2} z}{\frac{1}{\sin^{2} y} - 1}
+= \frac{\tan^{2} z}{\cot^{2} y}
+= \tan^{2} z \tan^{2} y
+\frac{1}{h^{2}} = \tan^{2} y
+\cot^{2} z = \frac{1}{\sin^{2} y} - 1 = \cot^{2} y
+\cot z = \cot y
+z = y
+```

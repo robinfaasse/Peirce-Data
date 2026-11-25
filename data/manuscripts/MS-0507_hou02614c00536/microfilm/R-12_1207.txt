@@ -1,0 +1,33 @@
+$$\sum_j \prod_i (r_{ji} \mathbin{\psi} \overline{f}_{ij}) \cdot b_{ji}$$
+$$= \sum_j \prod_i \prod_k (r_{ji} \mathbin{\psi} \overline{f}_{ij}) \cdot b_{jk}$$
+
+There is a benefactress of all people who rejects every flatterer of her
+
+[fig]Diagram with nested loops labeled rejects, flattered by, and benefactress[/fig]
+
+$$\prod_i \sum_j (r_{ji} \mathbin{\psi} \overline{f}_{ij}) \cdot b_{ji}$$
+$$= \prod_i \sum_j \sum_k r_{ji} \cdot b_{ji} \mathbin{\psi} \overline{f}_{ki} \cdot b_{ki}$$
+
+[u]Whoever flatters every benefactress of him[/u]
+[u]is rejected by a benefactress of him[/u]
+i.e. Everybody has a benefactress [del]but[/del]
+who rejects him if he flatters her
+
+[fig]Two nested loop diagrams with labels rejects, flattered by, and benefactress of[/fig]
+
+$$\prod_i \sum_j r_{ji} \mathbin{\psi} \overline{f}_{ij} \cdot b_{ji}$$
+$$\prod_i \sum_j \sum_k r_{ji} \mathbin{\psi} \overline{f}_{ik} \cdot b_{ki}$$
+Whoever flatters every benefactress of him is rejected [ins]by somebody[/ins]
+
+[fig]Nested loop diagram with labels rejects, flattered by, and benefactress of[/fig]
+
+$$\sum_j \prod_i r_{ji} \mathbin{\psi} \overline{f}_{ij} \cdot b_{ji}$$
+$$= \sum_j \prod_i \prod_k (r_{ji} \mathbin{\psi} \overline{f}_{ij}) \cdot (r_{ji} \mathbin{\psi} b_{ji})$$
+
+There is [del]one[/del] [ins]one who[/ins] rejects everybody
+who flatters her [del]or of whom she is not benefactress[/del]
+[del]= there is a woman who if she is the benefactress of anybody who flatters her rejects him[/del]
+[del]= There is a woman who rejects everybody of whom it is true that if she is his benefactress she flatters her[/del]
+= There is a woman who rejects every body [del]who flatters her and who[/del] [ins]except those[/ins] who [del]flatters her[/del] [ins]do not flatter her[/ins] and all besides [del]but[/del] [ins]those[/ins] of whom she is benefactress
+
+[fig]Three nested loop diagrams with labels rejects, flattered by, and benefactress of[/fig]

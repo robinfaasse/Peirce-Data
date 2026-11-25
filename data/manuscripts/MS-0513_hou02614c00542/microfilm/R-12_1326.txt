@@ -1,0 +1,31 @@
+[pn]83[/pn]
+
+The above described two relative operations, "relative addition" and "relative multiplication" belong (like the non-relative operations) to a set, which may [ins]variously[/ins] be conceived as [del]6 or 8 or 12 or 16[/del] [ins]numbering from 6 to 64[/ins], as shown in the following table.
+
+[u]The Simple Combinations of Logic.[/u]
+
+[u]UNIVERSAL[/u] [u]Non Relative[/u] [u]Relative[/u]
+[u]Inclusion[/u] $l \prec b$ "if loves then benefits." $l \propto b$ "loved (if at all) only by benefactors of"
+[u]Involution[/u] $l \bar{\prec} b = \bar{l} \prec \bar{b}$ "loves if benefits." $l \infty b = \bar{l} \propto \bar{b}$ "loves whatever may be benefitted by"
+[u]Aggregation[/u] $l \text{ } \bar{\psi} \text{ } b = \bar{l} \prec b$ "either loves or benefits." $l \text{ } \bar{\dagger} \text{ } b = \bar{l} \propto b$ "loves all but what benefits,"
+[u]Exclusion[/u] $l \text{ } \bar{\vee} \text{ } b = l \prec \bar{b}$ "if loves or benefits, then." $l \text{ } \bar{\wedge} \text{ } b = l \propto \bar{b}$ "loved only by those not benefitted by."
+
+[u]PARTICULAR[/u]
+[u]Exclusion[/u] $l \bar{\prec} b$ may love without benefitting $l \bar{\propto} b$ "[del]loved by[/del] [ins]benefitted[/ins] by others than lovers of"
+[u]Aggregation[/u] $l \bar{\bar{\psi}} b$ may not love though benefitting $l \bar{\infty} b$ "benefits something not loved by"
+[u]Involution[/u] $l \bar{\bar{\vee}} b$ neither loves nor benefits $l \bar{\bar{\dagger}} b$ "unbenefitted by something not loved by"
+[u]Inclusion[/u] $l \bar{\bar{\prec}} b$ both loves and benefits $l \bar{\bar{\wedge}} b$ "benefactor of a lover of."
+
+The relative operations may be multiplied by [del]eight[/del] [ins]four[/ins] by taking the converses of the two constituents and the whole.
+
+Of [del]these[/del] operations there are certain ones which merit particular attention. One is a variety of involution. One I write with an exponent, $l^b = l \infty b$ "loves every benefactor of"
+Another operation is $^b l$ "loves only benefactors of"
+
+The following formulae hold
+$(l \cdot b)^s = l^s \cdot b^s$
+$l^{s+t} = l^s \cdot l^t$
+$l^{(st)} = (l^s)^t$
+
+$^s(l \cdot b) = ^s l \cdot ^s b$
+$^{s+t} l = ^s l \cdot ^t l$
+$^{(st)} l = ^s(^t l)$.

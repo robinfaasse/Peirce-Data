@@ -1,0 +1,15 @@
+[fig]Complex curve with multiple loops and a central cusp[/fig]
+
+[fig]Broad flat curve with a smaller loop inside[/fig] [fig]Large circle with a small double loop on top[/fig]
+
+$(x^2+y^2-px)^2 = m^2(x^2+y^2)$
+$y=0 \quad (x^2-px)^2$
+[fig]Curve with two loops resting on a horizontal line[/fig] [fig]Two overlapping circular shapes[/fig]
+$\quad \quad (x-p)^2 [del]x^2[/del] = m^2 x^2$
+$\quad \quad [del]\begin{array}{c} m > p \\ m > p \end{array}[/del] \quad x = \frac{p-m}{p+m}$
+$2(x^2+y^2-px)(2x D_y x + 2y - p D_y x)$
+$= m^2(2x D_y x + 2y)$
+[fig]A flat triangular curve resting on a horizontal line[/fig]
+$[del]2[/del](x^2+y^2-px)(2x-p)D_y x - m^2 x D_y x$
+$\quad = m^2 y - 2(x^2+y^2-px)y$
+$\quad [del]m^2[/del] = 2(x^2+y^2-px) = [del]m[/del] 2\sqrt{x^2+y^2}$

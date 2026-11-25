@@ -1,0 +1,27 @@
+[marginalia]
+Notation
+53
+[/marginalia]
+
+[u]The Algebra of Dyadic Relatives[/u] is characterized by
+the employment of certain modes of combination of rela-
+tive terms by means of which the quantifiers and the signs
+of indefinite individuals are eliminated. These eight simple modes
+of combination, in two sets of four. But one of each set is sufficient.
+
+Of one set, the most appropriate signs are [del]V[/del] [ins]$\vee$[/ins] < $\wedge$ > crossed by
+a line of identity. Instead of $\vee$ the blank or dot may be used.
+
+Thus,
+$(l \dagger b)_{ik} = (l \cdot b)_{ik} = (l \cdot b)_{ik} = \Sigma_j l_{ij} b_{jk} = i - l - b - k$
+$(l \text{ } \text{A} \text{ } b)_{ik} = \Sigma_j l_{ij} \wedge b_{jk}$
+$(l \text{ } \text{L} \text{ } b)_{ik} = \Sigma_j l_{ij} < b_{jk}$
+$(l \text{ } \text{G} \text{ } b)_{ik} = \Sigma_j l_{ij} > b_{jk}$
+
+For the other set no such natural signs present themselves; but I think
+the best way will be to add tails to the signs of $\curlywedge$ $\curlywedge$ $\infty$ or their equi-
+valents; thus
+$(l \text{ } \text{S} \text{ } b)_{ik} = \Pi_j l_{ij} \text{ } \text{S} \text{ } b_{jk}$
+$(l \text{ } \text{S} \text{ } b)_{ik} = \Pi_j l_{ij} \text{ } \curlywedge \text{ } b_{jk}$
+$(l \text{ } \text{S} \text{ } b)_{ik} = \Pi_j l_{ij} \text{ } \infty \text{ } b_{jk}$
+$(l \text{ } \text{S} \text{ } b)_{ik} = \Pi_j l_{ij} \text{ } \infty \text{ } b_{jk}$.

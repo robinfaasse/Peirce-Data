@@ -1,0 +1,18 @@
+$A(v-y)^2=0$   Either $A=0$ or $y=v$
+$B(y-f)^2=0$   Either $B=0$ or $y=f$
+
+$\sqrt{A}.(v-y)=0$
+$\sqrt{B}.(y-f)=0$   $v^2-2yv+y^2=0$
+                  $0$ or $(v-f)^2$
+$\sqrt{AB}(v-y)=0$
+$\sqrt{AB}(y-f)=0$
+
+$\sqrt{AB}(v-f)=0$
+$AB(v-f)^2=0$
+[del]$A$[/del] $AB(v^2-2yv+y^2)=0$   $AB(v^2-2yv+y^2)=0$
+$B(y^2-2yf+f^2)=0$   $AB(f^2-2yf+y^2)=0$
+$Ay^2-2Avy=-Av^2$   $AB\{v^2-f^2-2(v-f)y\}=0$
+$Bf^2-2Bfy=-Bf^2$   $AB\{v+f-2y\}=0$
+$\overline{A^2y^2-2AvAy=-A^2v^2}$
+$Ay-Av=0$
+[del]$y=$[/del]

@@ -1,0 +1,13 @@
+[u]The Skew Mercator.[/u]
+
+Chapter I. Mathematical Theory.
+
+[fig]Coordinate axes with a point and angle theta[/fig] §1. The position of a point may be expressed [del]by[/del] in rectangular coordinates, x and y, or polar coordinates [ins]r and [del]θ[/del] [ins]θ[/ins][/ins] having the same origin. But I reckon θ as on a clock from vertically up round to the right.
+
+For the purposes of the conform projections, or those which preserve the angles, it is convenient to make one imaginary expression define the position of a point. Namely
+z = r e[sup]θi[/sup] = r cos θ + r sin θ . i = y + xi.
+
+§2. If a projection have these two properties
+1[sup]st[/sup], that for each place, there is some right angle in nature (I mean, the surface represented, earth, heavens or what) having its vertex there which is represented by a right angle on the map,
+2[sup]nd[/sup] that along the two legs of such right angle[del]s[/del] the scales are the same,
+then the projection preserves all the angles. For let [fig]Two sets of coordinate axes[/fig] xoy be such a right angle in nature, represented by the right angle x'oy' on the map. Imagine the portion seen to be infinitesimal, so that there shall be no curves. Then, completing the rectangles, if [frac]oy[/frac]/[frac]oy'[/frac] = [del][frac]ox[/frac]/[frac]ox'[/frac][/del] [frac]ox[/frac]/[frac]ox'[/frac]

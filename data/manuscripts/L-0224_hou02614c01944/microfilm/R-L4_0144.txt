@@ -1,0 +1,39 @@
+[pn]Page 12[/pn]
+
+In order to express the O relation by my General Algebra of Logic,
+I write $\alpha_i$ etc. to mean that $i$ is an element of $\alpha$ etc. and
+I write $x_{ij}$ etc to mean $i$ is $x$ in the respect $j$. Then Clause I
+is $\Pi_h \Sigma_i \Sigma_j (\alpha_i x_{ih} \prec \alpha_j ; x_{jh} \prec (\alpha \psi \gamma)_i ; x_{ih} \prec [del](\alpha + \gamma)_j[/del] [ins]\gamma_j[/ins] ; x_{jh})$
+which, is [del]obvious[/del] from the principle that aggregants can be
+applied to any assertions, Clause II is this:
+$\Pi_h \Sigma_k \Sigma_u \Sigma_v \Pi_i \Pi_j (\bar{\beta}_i + \bar{x}_{ik} + \bar{\delta}_u \cdot \bar{x}_{uh}) \cdot (\bar{\delta}_v \cdot \bar{x}_{vh} + \bar{\beta}_j + \bar{\psi} \bar{x}_{jk})$
+$\prec \Pi_h \Sigma_k [del]\Sigma_u \Sigma_v \Pi_i \Pi_j[/del] [ins]\Sigma_u \Sigma_v \Pi_i \Pi_j[/ins] [del]\bar{\beta}_i + \bar{x}_{ik} + \bar{\delta}_u \cdot \bar{x}_{uh}[/del] \bar{\beta}_i + \bar{x}_{ik} + \bar{\delta}_u \cdot \bar{x}_{uh} + \bar{\delta}_v \cdot \bar{x}_{vh} + \bar{\beta}_j \cdot \bar{\psi} \bar{x}_{jk}$
+The first step toward deducing the consequent from the antecedent
+proceeds on the commonest of all principles that [del]a + b \prec[/del]
+$(a + b) \cdot c \prec a + b \cdot c$. This gives the consequent except
+that $k$ is not introduced [ins]$h$ remaining[/ins] everywhere as in
+the antecedent. The principle by which we pass from this
+[del]to the[/del] conclusion is $\Pi_x l_{xx} \prec \Pi_x \Sigma_y l_{xy}$. I do not know
+whether I ever stated this in print or not. It is a part of
+of a principle thoroughly developed by me in a memoir
+which Newcomb practically refused to print in 1885 or 1886
+which is the reason why I have never since printed anything
+on logic which could not be put in popular form. I there called
+the principle (of which this is a very small part) the principle
+of identification and diversification. It holds good strictly
+even if there is no $x$. From "every phoenix [del]who[/del] would burn itself"
+it follows that "every phoenix would burn something". This
+somewhat remarkable since $\Pi_x l_x$ does not warrant $\Sigma_x l_x$
+
+In order to use my algebra of dyadic relations, as given
+in my Note B, we may write [del]$\breve{\alpha} \breve{x} \bar{y} \ne 0$ for $\breve{\alpha} \breve{x} \bar{y} \ne 0$[/del]
+for [del]$\breve{O}(x)$ and $\breve{E}(y) \ne 0$[/del]
+$O(x) = \breve{\alpha} \breve{x} \cdot \breve{x} \bar{\gamma} \ne 0$ $E(x) = (\breve{\alpha} \breve{j} \bar{x} \cdot \breve{\psi} \breve{x} \bar{\gamma} x) \infty$
+Clause I is self-evident. Clause II is
+$(\bar{\beta} \breve{j} \bar{x} \ne 0 + \bar{\delta} \breve{x} \bar{y} \ne 0) \cdot (\bar{\delta} \breve{x} \bar{y} \ne 0 + \bar{\beta} \breve{j} \bar{x} \ne 0) \prec$
+$(\bar{\beta} \breve{j} \bar{x}) \infty + \bar{\psi} (\bar{\beta} \breve{j} \bar{x}) \infty + \bar{\psi} (\bar{\delta} \breve{x} \bar{y} 0) \cdot (\bar{\delta} \breve{x} \bar{y} 0)$
+
+[marginalia]
+See the explanation
+on p. 13.
+[/marginalia]

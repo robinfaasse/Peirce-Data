@@ -1,0 +1,25 @@
+[pn]143[/pn] [pn]131[/pn]
+
+[u]Art. 62. Theorem 37. The addition and multiplication of rational fractions follow the associative, commutative, and distributive laws.[/u]
+
+[u]Demonstration[/u]. [u]$(\frac{A}{N} + \frac{B}{N}) + \frac{C}{N} = \frac{A+B}{N} + \frac{C}{N} = \frac{A+B+C}{N} = \frac{A}{N} + \frac{B+C}{N}$[/u]
+[u]$= \frac{A}{N} + (\frac{B}{N} + \frac{C}{N})$[/u].
+[u]$\frac{A}{N} + \frac{B}{N} = \frac{A+B}{N} = \frac{B+A}{N} = \frac{B}{N} + \frac{A}{N}$[/u].
+
+[u]$(\frac{A}{B} \cdot \frac{M}{N}) \frac{P}{Q} = \frac{AM}{BN} \cdot \frac{P}{Q} = \frac{AMP}{BNQ} = \frac{A}{B} \cdot \frac{MP}{NQ} = \frac{A}{B} (\frac{M}{N} \cdot \frac{P}{Q})$[/u].
+
+[u]$\frac{A}{B} \cdot \frac{M}{N} = \frac{AM}{BN} = \frac{MA}{NB} = \frac{M}{N} \cdot \frac{A}{B}$[/u]
+
+[u]$\frac{A}{B} (\frac{M}{S} + \frac{N}{S}) = \frac{A}{B} \cdot \frac{M+N}{S} = \frac{A(M+N)}{BS} = \frac{AM+AN}{BS} = \frac{AM}{BS} + \frac{AN}{BS} = \frac{A}{B} \cdot \frac{M}{S} + \frac{A}{B} \cdot \frac{N}{S}$[/u]
+
+[u]Chapter VII. Simple Equations.[/u]
+
+[u]Art. 63. Problem 5. To put [del]an equation[/del] [ins]a problem[/ins] into equations.[/u]
+
+[u]Solution[/u]. [del]Represent by an equation[/del] Put a letter for each unknown quantity and form an equation, representing each fact given about it.
+
+[u]Demonstration[/u]. If this can be done (it may require great ingenuity or experience) all the data of the problem are thus represented.
+
+[u]Problem[/u]. To solve an equation of the form
+$A_1x + A_2x + \text{etc} + B_1 + B_2 + \text{etc} = C_1x + C_2x + \text{etc} + D_1 + D_2 + \text{etc}$
+[u]Solution[/u] $x = \frac{D_1 + D_2 + \text{etc} - (B_1 + B_2 + \text{etc})}{A_1 + A_2 + \text{etc} - (C_1 + C_2 + \text{etc})}$

@@ -1,0 +1,51 @@
+[fig]Diagram of fraction tree[/fig]
+
+[del]$\frac{0}{1} < \frac{1}{1}$[/del] $\frac{0}{1} < \frac{1}{2} < \frac{2}{3} < \frac{3}{4} < \frac{4}{5}$
+
+$\frac{0}{2} < \frac{0}{1} < \frac{1}{2} < \frac{1}{1} < \frac{3}{2} < \frac{2}{1} < \frac{5}{2}$
+
+$\frac{0}{2} = \frac{0}{1}$
+$\frac{1}{2} = \frac{1}{2}$
+$\frac{2}{2} = \frac{1}{1}$
+$\frac{3}{2} = \frac{3}{2}$
+$\frac{4}{2} = \frac{2}{1}$
+$\frac{5}{2} = \frac{5}{2}$
+
+[marginalia]
+$ax = x + b$
+$(a-1)x = b$
+$x = \frac{b}{a-1}$
+[/marginalia]
+
+$x a + b = x$
+$x(a-1) = -b$
+$x = \frac{-b}{a-1}$
+
+[del]$\frac{a+m}{b+n}$[/del]
+$\frac{2a+m}{2b+n}$
+
+$\frac{a}{b} = \frac{2a}{2b} < \frac{2a+m}{2b+n} = \frac{a}{b} = \frac{2a}{2b} < \frac{3}{2}$
+
+$\frac{a}{b} = \frac{a}{2}$
+$\frac{a}{b} = \frac{a}{3}$
+
+$\frac{a}{b} = \frac{a}{2}$
+$\frac{a}{b} = \frac{a}{3} = \frac{a}{4}$
+
+$\frac{a}{b}$
+$\frac{a}{b}$
+$\frac{a+c}{b+d}$
+
+$\frac{a}{b} < \frac{c}{d}$
+
+$\frac{a}{b} < \frac{a+c}{b+d} < \frac{c}{d}$
+
+[u]Depends only on what went before[/u]
+
+$\frac{a}{b} = \frac{a}{2} < \frac{1}{1} < \frac{a}{1} = \frac{1}{2} < \frac{1}{1} < \frac{3}{2} < \frac{2}{1} = \frac{4}{2} = \frac{2}{1}$
+
+$\frac{a}{b} = \frac{a}{3} = \frac{a}{2} < \frac{1}{3} < \frac{1}{2} < \frac{2}{3} < \frac{1}{1} < \frac{3}{2} < \frac{2}{1} < \frac{5}{2} < \frac{3}{1} < \frac{7}{2} =$
+
+$\frac{a}{b}$
+
+[fig]Concentric ovals[/fig]

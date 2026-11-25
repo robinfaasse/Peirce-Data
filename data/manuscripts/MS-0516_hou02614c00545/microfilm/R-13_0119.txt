@@ -1,0 +1,14 @@
+[pn]Basic Rules
+51[/pn]
+
+Since the whole line of identity denotes the same individual, a line of identity cannot be considered as enclosed in any oval in which it is not entirely enclosed.
+
+We now see the reason for the restriction upon Rule V. For consider the graph
+
+[fig]Existential graph: "is a man" connected to "loves" connected to "is a woman" inside nested ovals[/fig]
+
+This reads "Every man loves some woman." But if we were to attach a proper name, [ins]say P,[/ins] to the inner line of identity, without attaching one to the outer, the meaning would be "Every man loves some [del]individual[/del] woman, [ins]since P is a[/ins] [del]P[/del], which [del]would[/del] amount[ins]s[/ins] to name that line before the other would be equivalent to
+
+[fig]Existential graph: P connected to "is a man" and "loves" inside nested ovals[/fig]
+
+that is, "Some woman is loved by all men."

@@ -1,0 +1,26 @@
+[marginalia]
+[pn]Logic[/pn]
+[pn]III[/pn]
+54
+[/marginalia]
+
+prove that if [u]x[/u] < [u]y[/u] then [u]x[/u] < [u]y[/u]. Now [u]u[/u] < [u]u[/u] means
+that [del]what[/del] [ins]if[/ins] [u]u[/u] is [del]another[/del] accepted as true, then [u]u[/u] is accepted
+as true. Consequently, whatever [u]u[/u] may be, [u]u[/u] < [u]u[/u] is true.
+[del]We have then [u]x[/u] < [u]y[/u].[/del]
+Hence by the first clause of the definition of composition,
+if [del][u]x[/u] < [u]y[/u][/del] [ins][u]x[/u] < [u]y[/u][/ins], it follows that [del]then [u]u[/u] < [u]u[/u][/del] [u]x[/u] < [u]x[/u] < [u]y[/u]. If now
+only remains to prove that [u]x[/u] < [u]y[/u] < [u]x[/u]. Now we have just
+seen that [u]u[/u] < [u]u[/u] is true whatever [u]u[/u] may be. Let [u]u[/u] be
+[u]x[/u] < [u]y[/u]. Then we have [u]x[/u] < [u]y[/u] < [u]x[/u] < [u]y[/u] and by the second
+clause of the definition of composition [u]x[/u] < [u]y[/u] < [u]x[/u]. Thus,
+Jevons's argument falls to the ground.
+
+Along with the definition of [u]a[/u] < [u]b[/u] in terms of < I gave,
+as a pendant, a definition of [u]a[/u] + [u]b[/u], as follows
+[pn](59)[/pn] If [u]a[/u] < [u]t[/u], then if [u]b[/u] < [u]t[/u], [u]a[/u] + [u]b[/u] < [u]t[/u].
+[pn](60)[/pn] If [u]a[/u] + [u]b[/u] < [u]t[/u], [u]a[/u] < [u]t[/u].
+[pn](61)[/pn] If [u]a[/u] + [u]b[/u] < [u]t[/u], [u]b[/u] < [u]t[/u].
+
+At the same time, I gave a definition of nega-
+tion. It is as follows:

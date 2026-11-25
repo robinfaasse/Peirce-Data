@@ -1,0 +1,21 @@
+If we write
+$$\psi_1 = g_1 \sqrt{\frac{\mu_1 h_1}{l_1}} \cdot \phi_1$$
+$$\psi_2 = g_2 \sqrt{\frac{\mu_2 h_2}{l_2}} \cdot \phi_2$$
+
+and if we put
+$$\Sigma T^2 = T_1'^2 + T_2'^2$$
+$$\Delta T^2 = T_1'^2 - T_2'^2$$
+
+$$Q = \frac{p_1 p_2 - q_1 q_2}{2 p_1 p_2 - \frac{1}{2}(q_1 + q_2)^2} (q_1 + q_2) \sqrt{\frac{\mu_1 \mu_2 h_1 h_2}{l_1 l_2}}$$
+
+these equations take the form
+$$(\Sigma T^2 + \Delta T^2) D_t^2 \psi_1 + Q D_t^2 \psi_2 = -2 \psi_1$$
+$$(\Sigma T^2 - \Delta T^2) D_t^2 \psi_2 + Q D_t^2 \psi_1 = -2 \psi_2$$
+
+Let us now take
+$$u = \sqrt{\sqrt{(\Delta T^2)^2 + Q^2} + \Delta T^2} \cdot \psi_1 + \sqrt{\sqrt{(\Delta T^2)^2 + Q^2} - \Delta T^2} \cdot \psi_2$$
+$$v = \sqrt{\sqrt{(\Delta T^2)^2 + Q^2} - \Delta T^2} \cdot \psi_1 [del]-[/del] [ins]- \sqrt{\sqrt{(\Delta T^2)^2 + Q^2} + \Delta T^2} \cdot \psi_2[/ins]$$
+
+so that
+$$\psi_1 = \frac{\sqrt{\sqrt{(\Delta T^2)^2 + Q^2} + \Delta T^2}}{2 \sqrt{(\Delta T^2)^2 + Q^2}} \cdot u + \frac{\sqrt{\sqrt{(\Delta T^2)^2 + Q^2} - \Delta T^2}}{2 \sqrt{(\Delta T^2)^2 + Q^2}} \cdot v$$
+$$\psi_2 = \frac{\sqrt{\sqrt{(\Delta T^2)^2 + Q^2} - \Delta T^2}}{2 \sqrt{(\Delta T^2)^2 + Q^2}} \cdot u - \frac{\sqrt{\sqrt{(\Delta T^2)^2 + Q^2} + \Delta T^2}}{2 \sqrt{(\Delta T^2)^2 + Q^2}} \cdot v$$

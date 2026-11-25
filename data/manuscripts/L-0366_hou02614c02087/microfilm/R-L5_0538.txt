@@ -1,0 +1,44 @@
+[marginalia]
+1909
+[date]July
+13[/date]
+8
+[/marginalia]
+
+In this formula $\pi$ is the ratio of a circumference to its diameter,
+$3.141592653589793$; so that $\log 2\pi$ is $0.7981798684$
+$e$ is the Neperian base $2.718281828459$; so that $\log e = 0.4342944819032518$
+The B's are the so-called Bernoulli's numbers
+$B_1 = \frac{1}{6}$ $B_3 = \frac{1}{30}$ $B_5 = \frac{1}{42}$ $B_7 = \frac{1}{30}$ $B_9 = \frac{5}{66}$ $B_{11} = \frac{691}{2730}$ $B_{13} = \frac{7}{6}$ $B_{15} = \frac{3617}{510}$
+
+You can use as many terms as are each smaller than the preceding one,
+with increasing accuracy. But when the terms begin to increase, they will
+only carry you farther from the truth. If $n$ is pretty large or you
+don't care for great precision, you need not use any of the terms
+involving B's. The larger $n$ is, the more accurate is the formula.
+Nobody would ever use it for a value of $n$ less than 10, because
+direct multiplication would be easier. But for the sake of
+illustrating its use, I will first calculate by means of it $2!$, then
+$20!$ and finally $200!$
+
+The correct results in the two first cases are
+$2! = 1 \cdot 2 = 2$ $\log 2 = 0.301029995663981$
+$20! = 2^{10+5+2+1} \cdot 3^{6+2} \cdot 5^4 \cdot 7^2 \cdot 11 \cdot 13 \cdot 17 \cdot 19 = 10^4 \cdot 2^{14} \cdot 3^8 \cdot 7^2 \cdot 11 \cdot 13 \cdot 17 \cdot 19$
+$2^{14} = 2^4 \cdot 2^{10} = 16 \cdot 1024 = \begin{array}{r} 1632 \\ \underline{\phantom{1}64} \\ 16384 \end{array}$
+$3^9 = 3^4 \cdot 3^4 \cdot 3 = \begin{array}{r} \phantom{18}81 \\ \underline{\phantom{18}81} \\ 181 \\ \underline{64\phantom{1}} \\ 6561 \\ \underline{\phantom{656}\cdot 3} \\ 19683 \end{array}$
+$7^2 = 49$
+
+$\begin{array}{l} \phantom{32}17 \\ \underline{\phantom{32}19} \\ 323 = 19 \cdot 17 \\ \underline{\phantom{32}969} \\ 4199 = 13 \cdot 17 \cdot 19 \\ \underline{\phantom{41}4199} \\ 46189 = 11 \cdot 13 \cdot 17 \cdot 19 \\ \underline{230945} \\ 2263261 = 49 \cdot 13 \cdot 17 \cdot 19 \\ 4526522 = 2 \cdot 49 \cdot 13 \cdot 17 \cdot 19 \\ \underline{6789783} = 3 \cdot 49 \cdot 13 \cdot 17 \cdot 19 \cdot 11 \\ [del]\text{4550}\text{4526522000}[/del] = 20000 \times 49 \cdot 13 \cdot 17 \cdot 19 \\ \phantom{4526522000}\underline{\phantom{2}6789783\phantom{0}} = \phantom{2000}3 \times 49 \cdot 13 \cdot 17 \cdot 19 \\ \phantom{45}45272009783 = 20003 \times 49 \cdot 13 \cdot 17 \cdot 19 \\ \phantom{4526522000}\underline{\phantom{2}6789783\phantom{0}} = \phantom{2000}300 \times 49 \cdot 13 \cdot 17 \cdot 19 \\ \phantom{45}44593031483 = 19703 \times 49 \cdot 13 \cdot 17 \cdot 19 \\ \phantom{4526522000}\underline{\phantom{2}45265220} = \phantom{2000}20 \times 49 \cdot 13 \cdot 17 \cdot 19 \\ \phantom{45}44547766263 = 19683 \times 49 \cdot 13 \cdot 17 \cdot 19 \end{array}$
+
+[marginalia]
+Having
+got the
+number of
+times that $3$ is
+a factor one too
+great, I have to
+divide the result
+by 3
+[/marginalia]
+
+$\begin{array}{r} \phantom{18246785061324824.1024} 44547766263 \cdot 1000 \cdot 3^9 \cdot 7^2 \cdot 13 \cdot 17 \cdot 19 \\ \phantom{18246785061324824.1024} 89095532526 \text{ — } 20 \\ \phantom{18246785061324824.1024} \underline{178191065052} \text{ — } 4 \\ \phantom{18246785061324824.} 45616912653312 = 1024 \\ \phantom{18246785061324824.} \underline{18246785061324824} \cdot 1024 \\ \phantom{18246785061324824.} 729870602452992 = 16 \cdot 1024 \cdot 3^9 \cdot 7^2 \cdot 13 \cdot 17 \cdot 19 \\ \phantom{18246785061324824.} \underline{2432902008176640000} = 20! \end{array}$

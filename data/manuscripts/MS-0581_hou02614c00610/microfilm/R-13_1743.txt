@@ -1,0 +1,60 @@
+[fig]Coordinate axes x, y, z[/fig]
+$$\sum_3 \Pi_x \sum_y \sum_i \sum_k \Pi_u \Pi_v$$
+$$\bar{q}_i + \gamma_{ix} \cdot \gamma_{iy} \cdot \gamma_{jx} \cdot \gamma_{jy} \cdot \gamma_{zx} \cdot \gamma_{zy} \cdot a'_j \cdot a'_k \cdot T_{ij} \cdot T_{ik} \cdot T_{jk} \cdot T'_{xy} \cdot (\bar{T}_{yu} + [del]\bar{T}_{yv}[/del])$$
+$$(\bar{q}_{ui} + \bar{q}_{uj}) (\bar{q}_{vi} + \bar{q}_{vj})$$
+$$+ T'_{ui} \cdot T'_{uj} \cdot T'_{vi} \cdot T'_{vj} \cdot T'_{xy}$$
+
+Then This is the same as to say
+[del]$$\sum_3 \Pi_x \sum_y \sum_i \sum_k \Pi_u \Pi_v$$[/del]
+[del]$$\sum_3 \Pi_x \sum_y \sum_i \sum_k \Pi_u \Pi_v$$[/del]
+$$\sum_3 \Pi_i \sum_j \sum_k \Pi_u$$ [fig]Triangle with arrows[/fig]
+
+$$\Pi_a \sum_3 \Pi_i \Pi_j [del]\Pi_k[/del] [del]\sum_u[/del] \sum_v$$
+$$\bar{q}_{ai} + \bar{q}_{aj} + \bar{q}_{ak} + l_{ki} + l_{kj} + l_{ki} + l_{ki} + \bar{T}_{zi} \cdot \bar{T}_{zj}$$
+
+$$\Pi_a \Pi_i \Pi_j \sum_3 \Pi_k [del]\Pi_u[/del] \sum_v \Pi_h [del]\sum_l[/del]$$
+$$\bar{q}_{ai} + \bar{q}_{aj} + \bar{q}_{ak} + l_{ij} + l_{jk} + l_{ki} + [del]\bar{T}_{zi} \cdot \bar{T}_{zj}[/del]$$
+$$+ \bar{T}_{zi} \cdot [del]\bar{T}_{zj}[/del] \bar{T}_{zk} \cdot \bar{T}_{zm} \cdot \bar{T}_{mk} \cdot (l_{mn} + \bar{T}_{zn}) \cdot \bar{T}_{lk} \cdot \bar{T}_{jkl} \cdot (l_{ln} + \bar{T}_{znk})$$
+
+---
+
+$$\sum_a l_a$$
+[del]$$\sum_a \sum_b T_{ab}$$[/del]
+[del]$$\sum_a \sum_b T_{ab}$$[/del]
+
+$$\sum_3 \Pi_a \sum_i \Pi_k \bar{a}_i + \gamma_{ji} \cdot a'_k \cdot (\bar{\gamma}_{ik} + \bar{a}_k + l_{jk})$$
+
+[del]$$\Pi_a \Pi_b \sum_3$$[/del]
+$$\Pi_a \sum_{\beta} \Pi_i \Pi_j (\bar{\gamma}_{aij} + \bar{\gamma}_{\beta ij}) (\bar{\gamma}_{aij} + \bar{\gamma}_{\beta ij})$$
+$$\Pi_a \sum_{\beta} \Pi_i \Pi_j (\bar{\gamma}_{aij} + \bar{\gamma}_{\beta ij}) (\bar{\gamma}_{aij} + \bar{\gamma}_{\beta ij})$$
+$$\Pi_a \Pi_{\beta} \sum_{\gamma} [del]\Pi_i \Pi_j[/del]$$
+$$(\bar{\gamma}_{aij} + \bar{\gamma}_{\beta ij} + \bar{\gamma}_{\gamma ij})$$
+$$\cdot (\bar{\gamma}_{aij} \cdot \bar{\gamma}_{\beta ij} + \bar{\gamma}_{\gamma ij})$$
+
+$$\Pi_i \Pi_j \Pi_a [del]\bar{q}_{ai} + \bar{q}_{aj}[/del]$$
+$$\bar{q}_{ai} + \bar{q}_{aj} + T_{ij}$$
+$$\Pi_i \Pi_j \sum_a \bar{q}_{ai} \cdot \bar{q}_{aj} + l_{ij}$$
+$$\Pi_a \Pi_{\beta} \sum_3 \Pi_i \Pi_j *$$
+$$(\bar{q}_{ai} + \bar{q}_{\beta i} + \bar{\gamma}_{ij})$$
+$$\cdot (\bar{q}_{ai} \cdot \bar{q}_{\beta j} + \bar{\gamma}_{ij})$$
+
+---
+
+$$\sum_a \sum_b T_{ab}$$
+$$\Pi_x \sum_y T_{xy}$$
+$$\Pi_a \Pi_b l_{ab} + \sum_x \Pi_y l_{xy}$$
+
+$$(\sum_a \sum_b T_{ab}) \cdot (\sum_x \Pi_y T_{xy})$$
+$$\Pi_y (\sum_y T_{xy} + \Pi_z [del]\bar{T}_{yz}[/del])$$
+
+$$\Pi_a \sum_b l_{ab}$$
+[fig]Geometric diagrams with lines and points[/fig]
+$$\Pi_x \Pi_y \Pi_z T_{xy} + T_{yz} + l_{xz}$$
+$$\Pi_x \Pi_y T_{xy} + l_{yx}$$
+$$\sum_a \sum_b \Pi_x \Pi_y [del]l_{xy}[/del] (T_{xy} + T_{yz} + H_{xz}) \cdot T_{ab}$$
+$$\sum_a \sum_b (T_{ay} + T_{yb}) \cdot T_{ab}$$
+
+$$T_{ab} \prec T_{xb}$$
+$$H \ \ \ \ \ T_{ax} + T_{xb} + l_{ab}$$
+$$\sum_a \sum_b \Pi_y l_{ay} + l_{by} = \Pi_y \sum_a l_{ay} \sum_b l_{by}$$
+$$\Pi_y \sum_c p_{ay} = \Pi_y \sum_c l_{cy} + \sum_c l_{cy}$$

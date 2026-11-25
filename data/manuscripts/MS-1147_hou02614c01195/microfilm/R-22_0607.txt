@@ -1,0 +1,35 @@
+[u]$\overline{a} + \overline{b}$[/u]
+
+$\overline{a}\overline{j}\overline{c}$
+$\Pi_2 \overline{a}_{12} + \overline{l}_{23}$
+$\overline{a}_{12}$
+
+[del]$\overline{a}_{13} + \overline{l}_{13}$[/del]
+$\overline{a}_{13} + \overline{l}_{13}$
+$\overline{a}_{12} + \overline{l}_{21}$
+$\overline{a}_{12}$
+$\overline{a}\overline{j} + \overline{i}$
+$\Pi_1 \Pi_3 \Pi_2 \overline{a}_{12} + \overline{j}_{23} + \overline{i}_{13}$
+[del]$\Pi_3 \overline{a}_{13} + \overline{l}_{13}$[/del]
+$\Pi_1 \Pi_2 \overline{a}_{1j} + \overline{l}_{ii}$
+$(1 + \overline{a})_{ij} = \Pi_k l_{ik} + \overline{a}_{kj}$
+[del]$\Pi_k$[/del]
+$\Sigma_4 \Sigma_2 \Pi_3 l_{2i} (l_{23} + \overline{a}_{34}) + \overline{l}_{4i}$
+
+$$\begin{array}{c|c}
+(a i)_{13} & (a \overline{j} i) \\
+= \Sigma_2 a_{12} \cdot i_{23} & = \Sigma_1 \Sigma_2 \Pi_2 a_{12} + l_{23} \\
+= \Sigma_2 a_{12} \cdot l_{12} & = \Sigma_1 \Pi_2 a_{12} + l_{12} \\
+= a_{ii} & a \overline{j} i = \infty \\
+[del]a i = a_{ii}[/del] & = \Sigma_1 \Sigma_2 a_{12} + \overline{j}_{12} \\
+a = \Sigma_1 a_{11} & = \Sigma_1 \Sigma_2 a_{12} + l_{12} \\
+a i = \Sigma_1 a_{ii} & = \Sigma_1 \Sigma_2 \\
+a \overline{j} \overline{c} = \Sigma_1 \Sigma_2 \Sigma_3 a_{12} \cdot l_{23} & a \overline{j} \overline{c} \\
+= \Sigma_1 \Sigma_2 [del]a_{12}[/del] a_{12} & \\
+a \cdot i = \Sigma_1 \Sigma_2 a_{12} \cdot i_{12} & \\
+= \Sigma_2 a_{12} \cdot l_{12} & \\
+= \Sigma_2 a_{12} & \\
+a \cdot i = a \cdot i & \\
+a \cdot \overline{i} = \Sigma_1 \Sigma_2 a_{12} \cdot \overline{l}_{12} & \\
+a \overline{i} = a \cdot \overline{i} & \Sigma_1 \Sigma_2 a_{12} [del]a_{12}[/del]
+\end{array}$$

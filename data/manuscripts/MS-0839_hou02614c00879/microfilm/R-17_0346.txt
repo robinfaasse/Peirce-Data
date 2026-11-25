@@ -1,0 +1,50 @@
+[fig]Table with mathematical formulas and vertical grid lines[/fig]
+
+[del][u][fig]square root symbol[/fig][/u][/del] [ins][fig]square root symbol[/fig][/ins] [del][fig]square root symbol[/fig][/del]
+[del]-(1+R)(1+S)[/del]
+[del]-(1-R)(1-S)[/del]
+
+[del]-1-R-S-RS[/del]
+[del]-1+R+R-RS[/del]
+
+[u]i'[/u]
+[u](1+3S²) [fig]square root symbol[/fig]R[/u]
+-3RS[fig]square root symbol[/fig]S
+-[fig]square root symbol[/fig]S
+
+[u][fig]square root symbol[/fig]1+3R²[/u] i'' + (1+R) m'' + (1-R) n'' [u][fig]square root symbol[/fig]1+3S²[/u] i' + (1+S) m' + (1-S) n'
+
+i''
+[del](1+R)(S-1)[/del]
+[del](R-1)(1+S)[/del]
+
+j''
+(R-1)(1+S)
+
+k''
+
+l''
+-(1+S)[fig]square root symbol[/fig]R
++(1+R)[fig]square root symbol[/fig]S
+
+m''
+-(1-S)[fig]square root symbol[/fig]R
++(1-R)[fig]square root symbol[/fig]S
+
+n''
+
+[[fig]square root symbol[/fig]1+3S² i' + (1+S) m' + (1-S) n'] [([fig]square root symbol[/fig]S - 3RS [del]+1[/del]) i'' + ([del]1-[/del]R+S[del]+1[/del]) j'' + ([del]1+[/del]R-S[del]+1[/del]) k''
++ [(1+R)[fig]square root symbol[/fig]S - (1+S)[fig]square root symbol[/fig]R] m'' + ((1-R)[fig]square root symbol[/fig]S - (1-S)[fig]square root symbol[/fig]R) n'']
+
+i'
+(s-R)[fig]square root symbol[/fig]S
+
+j'
++(R-S)[fig]square root symbol[/fig]S
+
+k'
+(1+R)(1+3S²)
++(1+S)[fig]square root symbol[/fig]S[fig]square root symbol[/fig]
+
+(R-1)(1+3S²)
++(S-1)[fig]square root symbol[/fig]S[fig]square root symbol[/fig]

@@ -1,0 +1,9 @@
+$u_{x,y}$
+
+$u_{x,1} = u_{x-1,0} + u_{x,0}$
+
+$u_{x,2} = u_{x-2,0} + u_{x-1,0} + u_{x,0}$
+
+[fig]Coordinate axes with x and y labels[/fig]
+
+$C_{x+y,y} = C_{x+y-1,y} + C_{x+y-1,y-1}$

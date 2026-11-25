@@ -1,0 +1,28 @@
+[pn]3[/pn]
+
+[u]x[/u] is equal to v, and becomes equal to v when
+[u]x[/u] is equal to f, represents the negative of
+x. The simplest such expression is
+f + v - x.
+
+[del]The[/del] The variables, instead of denoting propositions,
+may denote terms. In that case v will denote
+what is present, f what is absent, and the
+algebra will remain unaltered.
+
+The particular numbers chosen for f and
+v are perfectly arbitrary. Boole takes f = 0,
+v = 1. This makes the expression for the
+logical aggregate of [u]x[/u], [u]y[/u], [u]z[/u], etc.,
+1 - (1 - x) (1 - y) (1 - z) etc.
+and the expression for the logical compound
+of the same letters
+x y z etc.
+
+I have preferred to take f = 0, v = log [subscript]co[/subscript].
+It must be remembered that log [subscript]co[/subscript] is, although
+infinite, of the zero order of infinity. Con-
+sequently
+log [subscript]co[/subscript] + log [subscript]co[/subscript] = log [subscript]co[/subscript]
+log [subscript]co[/subscript] - log [subscript]co[/subscript] = 0
+although the values of these expressions

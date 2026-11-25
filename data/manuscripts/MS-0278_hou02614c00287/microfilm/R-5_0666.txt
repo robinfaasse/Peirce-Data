@@ -1,0 +1,94 @@
+[fig]Geometric diagram with triangle and intersecting lines[/fig]
+
+[marginalia]
+[del]If a body[/del]
+Suppose a body attracted
+inversely as cube of dist.
+to move in orbit of
+cleon [ins]some kind of[/ins] curve
+Central force =
+attraction = $k \frac{1}{r^3}$
+[fig]Small circle with central point[/fig]
+$k \frac{1}{r^3} = \frac{v^2}{\rho}$
+[/marginalia]
+
+[marginalia]
+If a body constr[ins]ain[/ins]ed to
+move along a straight
+groove velocity $\propto \frac{1}{r}$
+[del]attraction[/del]
+$k \frac{1}{r^3}$
+[/marginalia]
+
+$x = (\frac{1}{2} + x) A + (\frac{1}{2} - x) B$  $y = (\frac{1}{2} + y) A + (\frac{1}{2} - y) C$
+
+[del]$P = (\frac{1}{2} + p) (\frac{1}{2} + x) A + (\frac{1}{2} + p) (\frac{1}{2} - x) B$[/del]
+[del]$+ (\frac{1}{2} - p) (\frac{1}{2} + y) A$[/del] $+ (\frac{1}{2} - p) (\frac{1}{2} - y) C$
+[del]$= (\frac{1}{2} + x) A +$[/del]
+$= (\frac{1}{4} + \frac{1}{2}x + \frac{1}{2}y + px - py) A + (\frac{1}{4} + \frac{1}{2}p - \frac{1}{2}x - px) B + (\frac{1}{4} - \frac{1}{2}p - \frac{1}{2}y + py) C$
+
+$W = (\frac{1}{2} + u) (\frac{1}{2} + x) A + (\frac{1}{2} + u) (\frac{1}{2} - x) B$
+$+ (\frac{1}{2} - u) (\frac{1}{2} + y) A + (\frac{1}{2} - u) (\frac{1}{2} - y) C$
+
+$= (\frac{1}{2} + u) (\frac{1}{2} + y) A \begin{aligned} &+ (\frac{1}{2} + v) (\frac{1}{2} - x) B + (\frac{1}{2} - v) (\frac{1}{2} - y) C \\ &+ (\frac{1}{2} - v) (\frac{1}{2} + y) A + (\frac{1}{2} - v) (\frac{1}{2} + x) B + (\frac{1}{2} - v) (\frac{1}{2} - x) C \end{aligned}$
+
+$\frac{1}{2} (\frac{1}{2} + x) + u (\frac{1}{2} + x) = \frac{1}{2} (\frac{1}{2} + y) + v (\frac{1}{2} + y)$
+
+$(\frac{1}{2} + u) (\frac{1}{2} + x) = (\frac{1}{2} + v) (\frac{1}{2} + y)$
+
+[del]$- (\frac{1}{2} + v) (\frac{1}{2} + y) + (\frac{1}{2} + v) (\frac{1}{2} + x)$[/del]
+
+$\frac{1}{2} + u = \frac{\frac{1}{2} + v}{\frac{1}{2} + x} (\frac{1}{2} + v)$
+
+$\frac{1}{2} - u = \frac{(\frac{1}{2} - p) + (\frac{1}{2} + p) (\frac{1}{2} + v)}{\frac{1}{2} - p}$
+
+$- \frac{\frac{1}{2} + p}{\frac{1}{2} - p} (\frac{1}{2} + v) (\frac{1}{2} - x) + (\frac{1}{2} + y) + \frac{(\frac{1}{2} + p) (\frac{1}{2} + y)}{\frac{1}{2} - p} (\frac{1}{2} + v) = (\frac{1}{2} - v) (\frac{1}{2} - y)$
+
+$(\frac{1}{2} - y) + \frac{(\frac{1}{2} + p) (\frac{1}{2} - y)}{\frac{1}{2} - p} (\frac{1}{2} + v) = (\frac{1}{2} + v) (\frac{1}{2} - p) - \frac{(\frac{1}{2} + v) (\frac{1}{2} + p) (\frac{1}{2} - y)}{\frac{1}{2} - p}$
+
+$1 + \frac{(\frac{1}{2} + p) (\frac{1}{2} + v)}{\frac{1}{2} - p} = (\frac{1}{2} + v) (\frac{1}{2} - p) + (\frac{1}{2} - v)$
+
+$\frac{1}{4} + \frac{1}{2}x + \frac{1}{2}y + px - py = 0$
+
+[del]$(\frac{1}{2} + x) = $[/del]
+
+$(p - \frac{1}{2}) y = \frac{1}{4} + \frac{1}{2}x + px$
+
+$y = \frac{\frac{1}{4} + \frac{1}{2}x + 2px}{2p - 1}$
+
+$\frac{1}{2} + y = \frac{\frac{1}{2}p + \frac{1}{2}x + 2px}{2p - 1}$
+
+$\frac{1}{2} - y = $
+
+$(\frac{1}{2} + p) (\frac{1}{2} + x) + (\frac{1}{2} - p) (\frac{1}{2} + y) = 0$
+
+$\frac{1}{2} + y = - \frac{(\frac{1}{2} + p)}{(\frac{1}{2} - p)} (\frac{1}{2} + x)$
+
+[del]$y = $[/del]
+
+$\frac{1}{2} - y = $
+
+$- \frac{1}{2} = \frac{- \frac{1}{4} + \frac{1}{2}p}{\frac{1}{2} - p}$
+
+$\frac{1}{2} + y = \frac{- \frac{1}{4} - \frac{1}{2}p - \frac{1}{2}x - px}{\frac{1}{2} - p} = - \frac{(\frac{1}{2} + p)}{(\frac{1}{2} - p)} (\frac{1}{2} + x)$
+
+$y = \frac{- \frac{1}{2} - \frac{1}{2}x - px}{\frac{1}{2} - p}$
+
+$\frac{1}{2} - y = \frac{\frac{1}{2}p + \frac{1}{2}x - px}{\frac{1}{2} - p} = \frac{[del](\frac{1}{2} + p) (\frac{1}{2} - x)[/del]}{(\frac{1}{2} - p)}$
+
+$(\frac{1}{2} - p) (\frac{1}{2} + x)$
+
+$(\frac{1}{2} - p) + (\frac{1}{2} + p) (\frac{1}{2} + x)$
+
+$\frac{1}{2} - p + \frac{1}{4}$
+$+ \frac{1}{2}p + \frac{1}{2}x + px$
+$= \frac{3}{4} - \frac{1}{2}p + \frac{1}{2}x + px$
+$= \frac{3}{4} + \frac{1}{2}p - \frac{1}{2}x - px$
+[del]$1 - (\frac{1}{2} + p) (\frac{1}{2} - x)$[/del]
+
+[marginalia]
+$\frac{v^2}{\rho} = k \frac{1}{r^3}$
+$\text{Supposing } v^2 = k \frac{1}{r^2}$
+$\text{Attraction} = 2k \frac{1}{r^3} - \frac{v^2}{\rho}$
+$\text{Central force} = $
+[/marginalia]

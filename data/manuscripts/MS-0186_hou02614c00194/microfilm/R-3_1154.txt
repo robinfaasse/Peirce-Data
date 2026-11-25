@@ -1,0 +1,26 @@
+piles. Thus from
+$$2, 2, 1, 1$$
+we get
+$$0, 1, 2, 5, 7, 12.$$
+Leaving off the last, will give the number of piles into which
+you must deal to restore the order. Thus from
+$$4, 2, 2, 1$$
+we get
+$$0, 1, 4, 9, 22, 31.$$
+
+If you deal 53 cards into 37 piles, the numbers of
+sets rounds will be
+$$1, 2, 3, 4, [del]1[/del].$$
+If you deal into 34 piles the numbers will be
+$$1, 1, 1, 3, 1, 2, 1.$$
+If you deal into 33 piles, the numbers will be
+$$1, 1, 1, 1, 1, 5, 1.$$
+If you deal into 32 piles, the numbers will be
+$$1, 1, 1, 1, 10, 1.$$
+If you deal into 30 piles, the number will be
+$$1, 1, 3, 3, 2.$$
+
+You perceive that the object of counting the rounds
+is find out how many piles you must deal into to [del]keep[/del] [ins]restore[/ins]
+the proper order, and consequently [ins]by multiplication[/ins] [del]how many[/del] [ins]for how many[/ins] piles you
+must deal into to make any given card the first,

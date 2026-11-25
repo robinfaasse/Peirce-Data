@@ -1,0 +1,11 @@
+$$1 = A:A + B:B + C:C + D:D$$
+$$i = A:B + B:C - C:D - D:A$$
+$$j = A:C - B:D + C:A - D:B$$
+$$k = -A:D - B:A + C:B + D:C$$
+
+$$i^2 = k \quad jk = l \quad j^3 = l \quad j^4 = 1$$
+
+$$\underline{1} = A:A + B:B + C:C + D:D$$
+$$\underline{i} = A:B - B:A + C:D - D:C$$
+$$\underline{j} = -A:C + C:A + B:D - D:B$$
+$$\underline{k} = A:D - D:A + B:C - C:B$$

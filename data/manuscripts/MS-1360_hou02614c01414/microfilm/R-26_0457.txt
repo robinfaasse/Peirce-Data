@@ -1,0 +1,11 @@
+[pn]7[/pn]
+
+[marginalia]Report on Morrison's Bridge[/marginalia]
+
+(30) $y = \cot \varphi_{0} \int (1 - \frac{\bar{x}}{\bar{x}_{k}}) dx = \bar{x}_{k} \tan \varphi_{0} \cdot \cot \varphi (1 + \cot^{2} \varphi) \cdot d\varphi$
+$= \cot \varphi_{0} \cdot \bar{x} (1 - \frac{\bar{x}}{2\bar{x}_{k}}) = \bar{x}_{k} \tan \varphi_{0} (\cot^{2} \varphi_{0} - \cot^{2} \varphi)$
+
+If we now write $\psi$ for
+(31) $\psi = \text{arc sin } \frac{A}{\varepsilon}$,
+equation (6) gives
+$l = \int \frac{1}{\sin \psi + \frac{1}{\sqrt{1 + (\cot \varphi_{0} - \frac{E}{A})^{2}}}} \cdot dx = \bar{x}_{k} \tan \varphi_{0} \int \frac{\text{cosec}^{2} \varphi}{\sin \psi + \sin g} d\varphi$

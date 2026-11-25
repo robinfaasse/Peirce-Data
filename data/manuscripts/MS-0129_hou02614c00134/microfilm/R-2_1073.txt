@@ -1,0 +1,11 @@
+[u]Art.[/u] . [u]Definition[/u]. Parallel rays are rays which intersect on the firmament.
+
+[u]Theorem[/u] . In any plane, rays [del]equally[/del] [ins]equally[/ins] inclined and inclined the same way to a third are parallel.
+
+[u]Demonstration[/u]. Let {$a$} and {$b$} be rays inclined equally and the same way to a third ray {$c$} in one plane. Call [$ac$] = [$P$] and [$bc$] = [$R$] Let [$Q$] be the point halfway between [$P$] and [$R$]. Through [$Q$] draw a ray perpendicular to {$a$} at [$S$] and cutting {$b$} at [$T$]. Then in the two triangles PQS and RQT, we have $\angle$PQS = $\angle$RQT, |PQ| = |PT|, $\angle$ SPQ = $\angle$TRQ. Hence $\angle$T = $\angle$S, that is, the ray {$ST$} is perpendicular to {$b$} as well as to {$a$}.
+
+[fig]Diagram showing intersecting lines a, b, c with points P, Q, R, S, T[/fig]
+
+Now let the motion [del]be[/del] moved along the axis of translation {$ST$} until the particle at [$S$] reaches [$T$]. Then, if we proceed along either of the perpendiculars to the axis {$a$} or {$b$} for half a circuit we shall [ins]by theorem[/ins] [del]reach the same intersection with the axis of rotation[/del] But, by Theorem, that point is on the firmament, so that {$a$} and {$b$} intersect on the firmament. Q.E.D.
+
+[u]Corollary[/u] . If {$a$} and {$b$} are parallel rays and {$c$} is a ray cutting {$b$} not on the firmament, then {$a$} and {$c$} are not parallel. For if they were [$ac$] would be on the firmament, and since a ray [del]cuts[/del] [ins]limits[/ins] the firmament in only one point, and {$a$} and {$b$} intersect on the firmament, {$b$} and {$c$} would have a common point on the firmament, and so would have two common points, contrary to [del]the theorem[/del]. Hence, two parallel rays are equally inclined and on the same side to any third ray that cuts them both.

@@ -1,0 +1,32 @@
+$$ \mathfrak{M} D_t^2 s + \mathfrak{M} h D_t^2 \varphi = -s $$
+$$ \mathfrak{M} h D_t^2 s + \mathfrak{M} I h D_t^2 \varphi = - [del]\mathfrak{M}[/del] [ins]\mathfrak{M}[/ins] g \varphi $$
+
+$$ D_t^2 s + h D_t^2 \varphi = - \frac{s}{\mathfrak{M}} $$
+$$ D_t^2 s + I D_t^2 \varphi = - g \varphi $$
+
+$$ [del](1+x) D_t^2 s + (1+x) h[/del] $$
+$$ (1+x) D_t^2 s + (I + x h) D_t^2 \varphi = - ( g \varphi + \frac{ex}{m} s ) $$
+$$ = - \frac{L+xh}{g} ( (1+x) \varphi + \frac{L+xh}{g} \frac{ex}{m} s ) $$
+
+$$ (I + [del]x[/del] [ins]h[/ins] ) \varphi + (1+x) s = A_1 \cos ( \sqrt{\frac{g}{L+xh}} t + \eta_1 ) $$
+
+$$ \varphi = (1+x_2) A_1 \cos ( \sqrt{\frac{g}{L+hx_1}} t + \eta_1 ) - (1+x_1) A_2 \cos ( \sqrt{\frac{g}{L+hx_2}} t + \eta_2 ) $$
+$$ s = - (L+hx_2) A_1 [del]\cos[/del] + (L+hx_1) A_2 $$
+
+---
+
+$$ (1+x_2) A_1 = (1+x_1) A_2 = - p (L+hx_2) A_1 $$
+$$ + p (L+hx_1) A_2 $$
+$$ \frac{(1+x_2) + p (L+hx_2)}{(1+x_1) + p (L+hx_1)} = \frac{A_2}{A_1} $$
+
+$$ \frac{(L+xh) ex}{g m} = x + 1 $$
+
+$$ e h x^2 + e L x = g m x + g m $$
+$$ x^2 + \frac{e L - g m}{e h} x = \frac{g m}{e h} $$
+$$ x = - \frac{1}{2} \frac{e L - g m}{e h} \mp \sqrt{ \frac{g m}{e h} + \frac{1}{4} ( \frac{e L - g m}{e h} )^2 } $$
+$$ = - \frac{1}{2} \frac{e L - g m}{e h} \mp \frac{1}{2} \sqrt{ \frac{4 g m h}{e L^2} + ( 1 - \frac{g m}{e L} )^2 } $$
+$$ = - \frac{1}{2} \frac{e L - g m}{e h} \mp \frac{1}{2} \frac{e L}{e h} ( 1 - \frac{g m}{e L} + 2 \frac{g m h}{e L^2} ) $$
+$$ = - \frac{1}{2} \frac{e L - g m}{e h} \mp \frac{1}{2} \frac{e L}{e h} ( 1 - \frac{1}{2} \frac{g m}{e L} + \frac{g m h}{e L^2} ) $$
+$$ L + h x_1 = L + \frac{g m h}{e L} $$
+$$ \left\{ \begin{aligned} &+ \frac{g m}{2 e} \\ &- \frac{L}{h} + \frac{g m}{2 e h} - \frac{g m}{e L} \end{aligned} \right. \frac{g m}{e L} - \frac{g m h}{e L^2} $$
+$$ \frac{g m h}{L} = e S_0 $$

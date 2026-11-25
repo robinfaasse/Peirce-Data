@@ -1,0 +1,18 @@
+If the weights are infinitesimal, while the cord hangs down loosely, then [u]p[/u] and [u]C[/u] are infinitesimal compared with [u]s[/u]. Consequently (11) becomes
+(16) [u]dx[/u]/[u]dl[/u] = cos [u]τ[/u] = 0
+which means there is no stretching. If now the distribution of the infinitesimal weight is uniform along the line of abscissas, so that
+(17) [u]p[/u] = [u]G[/u] [u]x[/u],
+where [u]G[/u] is a constant, equation (12) becomes, by (10),
+(18) [u]dy[/u]/[u]dx[/u] = tan [u]τ[/u]₀ - [u]G[/u]/[u]C[/u] [u]x[/u]
+showing that the form of the cord is a parabola. In fact,
+(19) [u]y[/u] = [u]x[/u] tan [u]τ[/u]₀ - 1/2 [u]G[/u]/[u]C[/u] [u]x[/u]²
+= [u]b[/u] . ([u]x[/u]_k - 1/2 [u]a[/u]) [u]x[/u] / ([u]x[/u]_k - 1/2 [u]a[/u]) [u]a[/u]
+
+Now by (14)
+[del][fig]crossed out integral formula[/fig][/del]
+
+(20) [u]l[/u] = ∫ [u]dx[/u] / √[1 + [u]G[/u]²/[u]C[/u]² ([u]x[/u]_k - [u]x[/u])²] = 1/2 [u]C[/u]/[u]G[/u] log √[1 + [u]G[/u]²/[u]C[/u]² ([u]x[/u]_k - [u]x[/u])²] + [u]C[/u]/[u]G[/u] ([u]x[/u] - [u]x[/u]_k) / √[1 + [u]G[/u]²/[u]C[/u]² ([u]x[/u]_k - [u]x[/u])²] - [u]C[/u]/[u]G[/u] ([u]x[/u] - [u]x[/u]_k)
+
++ 1/2 [u]C[/u]/[u]G[/u] log √[1 + [u]G[/u]²/[u]C[/u]² [u]x[/u]_k²] - [u]C[/u]/[u]G[/u] [u]x[/u]_k / √[1 + [u]G[/u]²/[u]C[/u]² [u]x[/u]_k²] + [u]C[/u]/[u]G[/u] [u]x[/u]_k
+
+= 1/2 [u]a[/u] ([u]x[/u]_k - 1/2 [u]a[/u]) / [u]b[/u] log [√[[u]a[/u]² ([u]x[/u]_k - 1/2 [u]a[/u])² + [u]b[/u]² ([u]x[/u]_k - [u]x[/u])²] - [u]b[/u] ([u]x[/u]_k - [u]x[/u])] [√[[u]a[/u]² ([u]x[/u]_k - 1/2 [u]a[/u])² + [u]b[/u]² [u]x[/u]_k²] - [u]b[/u] [u]x[/u]_k] / [√[[u]a[/u]² ([u]x[/u]_k - 1/2 [u]a[/u])² + [u]b[/u]² ([u]x[/u]_k - [u]x[/u])²] + [u]b[/u] ([u]x[/u]_k - [u]x[/u])] [√[[u]a[/u]² ([u]x[/u]_k - 1/2 [u]a[/u])² + [u]b[/u]² [u]x[/u]_k²] + [u]b[/u] [u]x[/u]_k]

@@ -1,0 +1,47 @@
+[pn]Page 10[/pn]
+
+[pn]Page 9[/pn]
+
+So then [del]\((E_x - A_x)^{-1}\)[/del] \((E_x - A_x) = (E - A_x) (E_x - A_x)^{-1}\)
+
+\((E_x - A_x)^{-1} + (E_x - B_x)^{-1}\)
+\(= (E_x - A_x)^{-1} (E_x - B_x)^{-1} (E_x - B_x) + (E_x - A_x) (E_x - A_x)^{-1} (E_x - B_x)^{-1}\)
+
+\(u_x = (E_x - A_x) (E_x - B_x) v_x\)
+\(v_x = (E_x - B_x)^{-1} (E_x - A_x)^{-1} u_x\)
+\(= (E_x - B_x)^{-1} \left\{ \Pi A_{x-1} \left( \Sigma \frac{u_x}{\Pi A_x} + C_1 \right) \right\}\)
+\(= \Pi B_{x-1} \Sigma \left\{ \frac{\Pi A_{x-1}}{\Pi B_x} \left( \Sigma \frac{u_x}{\Pi A_x} \right) \right\} + C_2 \Pi B_{x-1}\)
+\(= \Pi B_{x-1} \Sigma \left\{ \frac{\Pi A_{x-1}}{\Pi B_x} \left( \frac{u_{x-1}}{\Pi A_{x-1}} + \frac{u_{x-2}}{\Pi A_{x-2}} + \frac{u_{x-3}}{\Pi A_{x-3}} + \text{etc} \right) \right\} + C_1\)
+\(= \Pi B_{x-1} \Sigma \frac{1}{\Pi B_x} \left\{ u_{x-1} + A_{x-1} u_{x-2} + A_{x-1} A_{x-2} u_{x-3} + \text{etc} \right\} + C_1 \Pi A_{x-1}\)
+\(= \Pi B_{x-1} \left\{ \frac{u_{x-2}}{\Pi B_{x-1}} + \frac{u_{x-3}}{\Pi B_{x-2}} + \frac{u_{x-4}}{\Pi B_{x-3}} + \frac{[del]u_{x-5}[/del]}{\Pi B_{x-4}} \right.\)
+\(+ A_{x-2} \frac{u_{x-3}}{\Pi B_{x-1}} + A_{x-3} \frac{u_{x-4}}{\Pi B_{x-2}} + A_{x-4} \frac{u_{x-5}}{\Pi B_{x-3}}\)
+\(+ A_{x-2} A_{x-3} \frac{u_{x-4}}{\Pi B_{x-1}} + A_{x-3} A_{x-4} \frac{u_{x-5}}{\Pi B_{x-2}}\)
+\(\left. + A_{x-2} A_{x-3} A_{x-4} \frac{u_{x-5}}{\Pi B_{x-1}} \right\}\)
+\(+ C_1 \left( \frac{\Pi A_{x-2}}{\Pi B_{x-1}} + \frac{\Pi A_{x-3}}{\Pi B_{x-2}} + \text{etc} \right)\)
+
+\( = u_{x-2} + B_{x-1} u_{x-3} + B_{x-1} B_{x-2} u_{x-4} + B_{x-1} B_{x-2} B_{x-3} u_{x-5}\)
+\(+ A_{x-2} u_{x-3} + B_{x-1} A_{x-3} u_{x-4} + B_{x-1} B_{x-2} A_{x-4} u_{x-5}\)
+\(+ A_{x-2} A_{x-3} u_{x-4} + B_{x-1} A_{x-3} A_{x-4} u_{x-5}\)
+\(+ A_{x-2} A_{x-3} A_{x-4} u_{x-5}\)
+
+\(+ C_1 \left\{ \Pi A_{x-2} + [del]F A_{x-2}[/del] B_{x-1} \Pi A_{x-3} + B_{x-1} B_{x-2} \Pi A_{x-4} + \text{etc} \right\}\)
+\(+ C_2 \Pi B_{x-1}\)
+
+This solves the linear equation of \(2^{\text{nd}}\) order after it is reduced to the form
+\((E_x^2 - E_x B_x - A_x E_x + A_x B_x) v_x = u_x\)
+\(v_{x+2} - (B_{x+1} + A_x) v_{x+1} + A_x B_x v_x = u_x\)
+
+Suppose we have given
+\(v_{x+2} - P_x v_{x+1} + Q_x v_x = u_x\)
+\(P_x = B_{x+1} + A_x\)
+\(Q_x = A_x B_x\)
+
+[marginalia]
+We have to solve the equat.
+[del]\(B_{x+1} = A_x\)[/del]
+\(P_x - A_x = \frac{Q_{x+1}}{A_{x+1}}\)
+[/marginalia]
+
+[del]Take any function convenient as \(A_x\)[/del]
+\(B_{x+1} = P_x - A_x\)
+\(\frac{Q_x}{A_x} = B_x\)

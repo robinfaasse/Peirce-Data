@@ -1,0 +1,30 @@
+[pn]58[/pn]
+
+[u]Demonstration[/u]. It is evident that, by reasoning similar
+to that of Lemma 1, it follows that if an enumerable col-
+lection could be put into one-to-one correspondence with
+a collection of which it formed only a part, then the same
+thing would be true of a collection [del]fewer[/del] formed by dropping
+an object from the first collection; and that consequently a
+single object could be put into a one-to-one correspondence with
+a collection of which it was a part; and further, that this
+last is impossible. Hence, no enumerable part is equal to its
+whole. But it is evidently inclusible in its whole, and hence,
+by definition, an enumerable part is less than the whole collection.
+[ins]Exercise. Develope the above reasoning.[/ins]
+
+[del][u]Definition[/u][/del] [u]Definition 26[/u]. A [u]denumerable[/u], or indefinitely great, col-
+lection is [del]a colle[/del] an enumerable collection which can be
+arranged in a [ins]simple,[/ins] sparse sequence.
+
+[u]Theorem 8[/u]. [u]All denumerable collections are equal[/u].
+
+[u]Demonstration[/u]. First, every such collection can be arranged
+in a [ins]simple, sparse[/ins] sequence having a first object but no last. For, by Definition 26,
+it can be arranged in a simple, sparse sequence; and by Defi-
+nitions 26 and 25, this sequence cannot have both a first
+and a last object. If it has a last but not a first, the [del]trans-[/del]
+[del]versal of the arrangement[/del] will give it a first but not a
+last. If the [ins]simple, sparse[/ins] sequence, [del]in[/del] [ins]say [u]w[/u],[/ins] which the collection is first arranged,
+has neither beginning nor end, the new sequence may be
+formed by [del]first[/del] taking any object as first [ins]and next the object next after it in [u]w[/u][/ins] and then alternate[del]ly[/del]

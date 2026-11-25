@@ -1,0 +1,30 @@
+The grand problem of combinations is this
+
+There are $l$ collections of things consisting
+[del]the M's[/del] [ins]one[/ins] of A's, $a$ in number, of B's, $b$ in number, etc.
+[del]the M's[/del] [ins]another[/ins] of A's, $a'$ in number, of B's, $b'$ " " etc
+[del]the M's[/del] [ins]a third[/ins] of A's, $a''$ in number, of B's, $b''$ in number etc
+
+$$\begin{aligned}
+& a + b + c + d + \text{etc} \\
+= & a' + b' + c' + d' + \text{etc} \\
+= & a'' + b'' + c'' + d'' + \text{etc} \\
+= & \text{etc} = m
+\end{aligned}$$
+
+The question is how many [del]distributions[/del] [ins]differently described[/ins] [ins]each into[/ins] [del]there of[/del] [ins]distributions are[/ins] [del]one[/del] of each collection
+$m$, entirely distinct sets, of $l$ things [del]one of each collection[/del]
+two distributions being differently described only, if the
+member of sets of [del]any given[/del] [ins]some one[/ins] description in the two
+distributions is different. Two sets are of the same
+description unless one contains a thing from [del]one[/del] [ins]some[/ins]
+collection of a different description from the
+one from the same collection contained by the
+other.
+
+If [del]for[/del] $\Phi = \left\{ \begin{smallmatrix} a & b & c & d & \text{etc} \\ a' & b' & c' & d' & \text{etc} \\ a'' & b'' & c'' & d'' & \text{etc} \\ & \text{etc} & & \end{smallmatrix} \right\}$ be the number required.
+
+If one collection is all of one description, that is, if
+[del]$a = m, a' = m, a'' = m$[/del] $a = m$, then the number of is the
+same as if there were no such collection.
+If there is but one collection, $\Phi = 1$.

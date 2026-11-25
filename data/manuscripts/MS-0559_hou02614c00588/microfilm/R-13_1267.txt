@@ -1,0 +1,30 @@
+This being so, suppose we have the premise
+[del]X[/del] [ins]$\overline{X}$[/ins] | W true,
+that is to say from the truth of X follows the truth of W.
+Then, by the regula de quocumque, from the truth of Y
+follows the truth of W, or
+[del]Y[/del] [ins]$\overline{Y}$[/ins] | W, true.
+
+We see that, in this case, the reverse substitution is [del]justified[/del] [ins]justified[/ins].
+Moreover W may be of no matter how complicated a
+form. As a special case, we have the inference
+[del]X[/del] [ins]$\overline{X}$[/ins] | true,
+$\therefore$ [del]Y[/del] [ins]$\overline{Y}$[/ins] | true.
+
+It follows that $\overline{Y}$ may everywhere under no vinculum
+be substituted for $\overline{X}$, [del]just[/del] [ins]precisely[/ins] as it has just been shown
+to follow from the validity of the inference
+Y $\therefore$ X [ins]true,[/ins]
+$\therefore$ X [ins]true,[/ins]
+that X can everywhere under no vinculum be substituted
+for Y.
+
+Let $\Phi^n X$ denote [del]any[/del] [ins]an[/ins] expression in which X occurs under
+$n$ vincula, and $\Phi^n Y$ the corresponding expression in
+which Y is substituted for X in that [ins]one[/ins] place. X may occur
+more than once, but that is of no consequence. [ins]$\Phi_1^n X$, $\Phi_2^n X$,
+may be used to denote other expressions of the[/ins]
+
+We have seen, then, that if Y $\therefore$ X is a valid inference,
+so is also $\Phi^0 Y \therefore \Phi^0 X$. As this is true whatever propositions
+Y and X may be, it is true if they are $\overline{X}$ and $\overline{Y}$ re-

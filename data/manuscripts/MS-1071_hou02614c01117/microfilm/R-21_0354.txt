@@ -1,0 +1,17 @@
+$$\frac{ds}{\rho} = \frac{ds}{\sqrt{(dr)^2 + (dz)^2}}$$
+
+$$\frac{ds}{\rho} = \frac{\sqrt{(dr)^2 + (dz)^2}}{r}$$
+
+$$(\frac{r}{R})^2 + (\frac{z}{Z})^2 = 1$$
+
+$$\frac{r dr}{R^2} + \frac{z dz}{Z^2} = 0$$
+
+$$z = Z \sqrt{1 - (\frac{r}{R})^2}$$
+
+$$dz = - \frac{Z}{R} \frac{r dr}{\sqrt{1 - (\frac{r}{R})^2}}$$
+
+$$(dz)^2 = - \frac{Z^2}{R^2} \frac{r^2}{R^2 - r^2} (dr)^2$$
+
+$$(dz)^2 + (dr)^2 = [del]\frac{Z^2}{R^2}[/del] [ins]\frac{Z^2 r^2}{R^2 (R^2 - r^2)}[/ins] (dr)^2$$
+
+[fig]Pascal's triangle and arithmetic calculations[/fig]

@@ -1,0 +1,14 @@
+[u]Arithmetic. Integers[/u] [u]Cyclic Numeration.[/u]
+
+Suppose we want to know on what day of the week will fall a day
+which is, say, 143 days later than a Wednesday. We reckon as follows:
+
+Wednesday is the 4th day of the week, or 0 weeks + 4 days
+
+from the previous Saturday,
+
+142 days are 20 weeks + 2 days
+
+Adding we have 20 + 6 days, from that first Saturday.
+
+The day in question is therefore the 6th day of [del]the[/del] [ins]a[/ins] week, or Friday.

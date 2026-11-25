@@ -1,0 +1,17 @@
+But it holds for $M = 0$, since [ins]by theorem 13[/ins] [del]$0 \cdot N = 0$[/del] [ins]$0 + N = N$[/ins] and [ins]by corollary 11,[/ins] $L \cdot 0 = 0$. So that [del]$(0 + N) = L \cdot 0 + L \cdot N$[/del] [ins]Hence, by Theorem 12 and Definition 38,[/ins] Thus the first formula holds for all whole numbers.
+
+[del]Second, by[/del] [ins]By[/ins] similar reasoning the second formula holds for all whole numbers. [del]Thus the theorem is demonstrated.[/del] [ins]Exercise 12. Develop the second part of the above demonstration.[/ins]
+
+[u]Theorem 24[/u]. [u]Multiplication of whole numbers is an associative combination[/u].
+
+[u]Demonstration[/u]. Let $L, M, N$ be any three whole numbers. Then $(LM)N = L(MN)$. For suppose this holds good when $M$ is any whole number $P$, then [del]it holds[/del] [ins]it equally[/ins] holds also, if $M$ is the number $P'$ next greater than $P$. For [del]$(LP')N = [L(1 + P)]N = (L + LP)N$[/del] $= LN + (LP)N = LN + L(PN) = L(N + PN) = L[(1 + P)N] = L(P'N)$. Now, it does hold good for $M = 0$, since $(L0)N = 0N = 0 = L0 = L(0N)$. Hence, it holds good for all whole numbers.
+
+[u]Exercise 13[/u]. [u]Develope the above demonstration[/u].
+
+[u]Theorem 25[/u]. [ins](The Commutative Principle of Multiplication)[/ins] [u]The multiplication of whole numbers is a commutative operation[/u].
+
+[u]Demonstration[/u]. If $XY = YX$, then $XY' = Y'X$, where $Y'$ is the number next greater than $Y$. For $XY' = X(1 + Y) = X + XY = X + YX = [del](1 + Y)[/del] [ins](1 + Y)[/ins]X$. But if $Y = 0$, $XY = X0 = 0 = 0X = YX$. Hence, [del]when[/del] [ins]when $Y$ is any[/ins] whole number $XY = YX$. Q.E.D.
+
+[u]Exercise 14[/u]. [u]Develope this demonstration[/u].
+
+[u]Theorem[/u]. [u]It is not possible to find two whole numbers each of which multiplied by a given whole number will result in a given product unless both the given numbers are 0[/u].

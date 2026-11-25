@@ -1,0 +1,39 @@
+[u]§6. Horizontally uniform distribution of the load.[/u] When $\omega/\kappa$ is
+constant, we may write
+(18) $\omega' = \kappa \kappa' = Q \tan \tau$.
+The (14) gives (independently of the constancy of $\kappa$)
+$q = \kappa g \cos^2 \tau$
+
+$\frac{\omega}{Q} = \tan \tau$
+$\cos \tau = \frac{1}{\sqrt{1 + \frac{\omega^2}{Q^2}}}$
+
+$\int \frac{1}{\sqrt{}}$
+
+$(1 + \omega^2 Q^{-2})^{-\frac{1}{2}}$
+
+$\int uv = u \int v - \int v \mathcal{D}u$
+$\sin^2 \tau \int \cos \tau - 2 \int \sin^2 \tau \cos \tau$
+$\int \sin^2 \tau \cos \tau ds = \sin^2 \tau \int \cos \tau ds - \int \frac{d \sin^2 \tau}{d\tau} ds$
+$\frac{\sin^3 \tau}{3 \sin^2 \tau \cos \tau}$
+
+$y = \int \sin \tau \cdot ds$
+
+$\mathcal{D}_Q y =$
+$\mathcal{D}_Q \sin \tau = \mathcal{D}_Q \tan \tau \frac{\cos \tau}{\sec^2 \tau}$
+$= - \frac{1}{Q} \tan \tau \cos^3 \tau$
+$= - \frac{1}{Q} \sin \tau \cos^2 \tau$
+
+$+ \frac{1}{2} ( \quad )^{-\frac{3}{2}} \omega^2 Q^{-3}$
+
+$\mathcal{D}_Q \cos \tau = \mathcal{D}_Q \tan \tau \sin \tau$
+$= - \frac{\omega}{Q^2} \frac{\sin \tau}{\sec^2 \tau} = - \frac{1}{Q} \sin^2 \tau \cos \tau$
+$= - \frac{1}{\omega} \sin^3 \tau$
+
+$\mathcal{D}_Q x = \frac{1}{Q} \int \sin^2 \tau \cos \tau \cdot ds$
+$\mathcal{D}_Q y = - \frac{1}{Q} \int \sin \tau \cos^2 \tau ds$
+$= - \frac{1}{Q} \int \frac{\tan \tau d\tau}{\mathcal{D}_y^2} = - \frac{2}{Q} \int \frac{\tan \tau \cdot d\tau}{\mathcal{D}_y (\mathcal{D}_y)}$
+$= - \frac{2}{Q} \int \frac{\tan \tau d\tau dy}{d (\tan \tau)^2}$
+$= - \frac{1}{Q} \int \frac{d\tau dy}{d (\tan \tau)} = - \frac{1}{Q} \int \frac{dy}{\sec^2 \tau}$
+$= - \frac{1}{Q} \int \cos^2 \tau \cdot dy$
+
+$- \frac{1}{Q} \int (\mathcal{D}_y x)^2 dy$

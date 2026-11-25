@@ -1,0 +1,6 @@
+You will now form the three equations
+[u]($\xi_R c'$)[/u] $\xi_R$ + [u]($a'c'$)[/u] $a'$ + [u]($b'c'$)[/u] $b'$ + 2 [u]($c'^2$)[/u] $c'$ + [u]($cc'$)[/u] $c$ + [u]($c'c''$)[/u] $c''$ + [u]($c'$)[/u] = 0
+[u]($\xi_R c$)[/u] $\xi_R$ + [u]($a'c$)[/u] $a'$ + [u]($b'c$)[/u] $b'$ + [u]($c'c$)[/u] $c'$ + 2 [u]($c^2$)[/u] $c$ + [u]($cc''$)[/u] $c''$ = 0
+[u]($\xi_R c''$)[/u] $\xi'_R$ + [u]($a'c''$)[/u] $a'$ + [u]($b'c''$)[/u] $b'$ + [u]($c'c''$)[/u] $c'$ + [u]($cc''$)[/u] $c$ + 2 [u]($c''^2$)[/u] $c''$ = 0.
+
+In these equations you will substitute the values of $\xi_R$, $a'$, $b'_0$ in terms of $c'$, $c$, $c''$. You will thus get three equations in $c'$, $c$, $c''$ which you will solve by Gauss's method used in Least Squares. You will substitute these values in the expressions for $b'_0$, [del]$\xi_R$[/del], $a'$, $\xi''_R$ in terms of $c'$, $c$, $c''$ and so get all the unknowns. This finishes the calculation of the formula for the first part of the effect, except that you now calculate the values of $a$ and $b$ by means of the equations on the third line of p. 47 and $a''$ and $b''$ by similar equations in which $J$ replaces $I$.

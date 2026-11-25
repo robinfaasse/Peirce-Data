@@ -1,0 +1,28 @@
+[u]Art. 8.[/u] Let us make a numerical calculation of [del]e[/del] [ins]𝔢[/ins]
+1 = 1
+1 = 1
+[fraction]1/2[/fraction] = 0.5
+[fraction]1/3![/fraction] = 0.1666666667
+[fraction]1/4![/fraction] = 0.0416666667
+[fraction]1/5![/fraction] = [del]0.0083333333[/del] [ins]0.008[sup]2[/sup]3[sup]5[/sup]3[sup]5[/sup]3[sup]5[/sup]3[sup]5[/sup]3[sup]5[/sup]3[sup]5[/sup]3[/ins]
+[fraction]1/6![/fraction] = [del]0.0013888889[/del] [ins]0.0013[sup]8[/sup]8[sup]8[/sup]8[sup]8[/sup]8[sup]8[/sup]8[sup]8[/sup]9[/ins]
+[fraction]1/7![/fraction] = [del]0.0001984127[/del] [ins]0.00019[sup]8[/sup]8[sup]4[/sup]4[sup]1[/sup]1[sup]2[/sup]2[sup]7[/sup][/ins]
+[fraction]1/8![/fraction] = [del]0.0000248016[/del] [ins]0.000024[sup]8[/sup]8[sup]0[/sup]0[sup]1[/sup]1[sup]6[/sup][/ins]
+[fraction]1/9![/fraction] = 0.0000027557
+[fraction]1/10![/fraction] = 0.0000002756
+[fraction]1/11![/fraction] = 0.0000000251
+[fraction]1/12![/fraction] = 0.0000000021
+[fraction]1/13![/fraction] = 0.0000000002
+𝔢 = [u]2.718281828[del]6[/del] [ins]5[/ins][/u]
+Some errors may have accumulated owing to neglected decimal places
+[del]but[/del] we shall safely conclude 𝔢 = 2.7182818[del]3[/del] [ins]28...[/ins]
+
+[u]Art. 9.[/u] Let us make a numerical calculation of H [ins]supposing sin H = [fraction]1/2[/fraction][/ins] where
+[del]For this purpose[/del] we have to solve, for y considered as unknown, the
+equation
+[u]y - [fraction]1/3![/fraction] y[sup]3[/sup] + [fraction]1/5![/fraction] y[sup]5[/sup] - [fraction]1/7![/fraction] y[sup]7[/sup] + etc = B[/u]
+or at least to get one root of [del]the equation[/del]
+If [del]y is not too large[/del] [ins]B also[/ins] are not too large, y
+can be developed in series according to increasing powers of B.
+And since sin(-y) = -sin y, this will contain only odd powers.
+Thus if we write α[sub]1[/sub], α[sub]3[/sub], α[sub]5[/sub], etc for the coefficients, whose values

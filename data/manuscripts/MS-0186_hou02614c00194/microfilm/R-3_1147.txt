@@ -1,0 +1,25 @@
+in place 1, since 5 x 1 = 5, card 5;
+in place 2, since 5 x 2 = 10, card 10;
+in place 3, since 5 x 3 = 15 and 1 from 5 leaves 4, card 4;
+in place 4, since 5 x 4 = 20 and 2 from 10 leaves 8, and
+repaying 1 borrowed we have 9, card 9;
+in place 5, since 5 x 5 = 25 and 2 from 5 leaves 3, card 3;
+in place 6, since 5 x 6 = 30 and 3 from 10 leaves 7, and re-
+paying 1, we get 8, card 8;
+in place 7, since 5 x 7 = 35 and 3 from 5 leaves 2, card 2;
+in place 8, since 5 x 8 = 40 and 4 from 10 leaves 6, and
+repaying 1 we get 7, card 7;
+in place 9, since 5 x 9 = 45 and 4 from 5 leaves 1, card 1;
+in place 10, since 5 x 10 = 50 and 5 from 10 leaves 5, and
+repaying 1 we get 6, card 6;
+in place 11, since 5 x 11 = 55 and 5 from 5 leaves [del]10[/del] 0, and
+repaying 1 we get 11, card 11 (≡ 0.)
+
+Suppose we now want to add 2. Then we must cut
+so as to bring 2 to the zero-place at face of the pack.
+We shall then find
+in place 1, since [del]5 + 2[/del] [ins]5 x 1 + 2[/ins] = 7, card 7;
+in place 2, since 5 x 2 + 2 = 12 ≡ 1, card 1;
+in place 3, since 5 x 3 + 2 = 6, card 6;
+in place 4, since 5 x 4 + 2 = 22 ≡ 0, card Jack;
+in place 5, since 5 x 5 + 2 = 27 ≡ 5, card 5; etc.

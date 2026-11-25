@@ -1,0 +1,13 @@
+Case 3151. The [del]first[/del] [ins]second[/ins] player occupies the corner opposite [fig]Tic-tac-toe board[/fig] that of the first player. The latter makes tit-tat-toe
+
+Case 3152 The second player occupies the side square [fig]Tic-tac-toe board[/fig] between the occupied corners. The first player makes tit-tat-toe in either of two ways.
+
+Case 3153. The second player occupies the centre. [fig]Tic-tac-toe board[/fig] The first player is obliged to occupy the corner opposite that of the second player. The second player is obliged to occupy the side square between the first player's two corners. There is no tit-tat-toe.
+
+Case 3154. The second player occupies the side square [fig]Tic-tac-toe board[/fig] adjoining two vacant corners. The first player makes tit-tat-toe in either of two ways.
+
+Case 3155. The second player occupies the side [fig]Tic-tac-toe board[/fig] square adjoining the first player's corner. There is no tit-tat-toe.
+
+Case 3156. The second player occupies the corner op- [fig]Tic-tac-toe board[/fig] posite the corner he already occupies. The first player occupies the centre and makes tit-tat-toe. This exhausts Case 315.
+
+Case 316. The first player occupies the side square [fig]Tic-tac-toe board[/fig] opposite that he already occupies. The second player is obliged to occupy the centre. The first player is obliged to occupy the corner opposite the second player's corner. The second player

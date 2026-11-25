@@ -1,0 +1,48 @@
+Monson's Bridge 1898 Sep 13 [pn]8[/pn]
+
+$$\begin{array}{ccc}
+x_0 = 0.6 & x_1 = 13.0 & x_2 = 14.1 \\
+y_0 = 0.1 & y_1 = 6.0 & y_2 = 1.0
+\end{array}$$
+
+$$\begin{array}{c}
+x_1 - x_0 = 12.4 \\
+y_1 - y_0 = 5.9
+\end{array}$$
+
+$$\begin{array}{r}
+153.76 \\
+34.81 \\
+\hline 188.57
+\end{array}$$
+
+$$\begin{array}{c}
+x_2 - x_1 = 1.1 \\
+y_1 - y_2 = 5.0
+\end{array}$$
+
+$$\begin{array}{r}
+1.21 \\
+25\phantom{.00} \\
+\hline 26.21
+\end{array}$$
+
+$$\begin{array}{c}
+13.73 \\
+1.05615 \\
+.9468 \\
+1 - \frac{R_0}{R_v} \quad .0532
+\end{array}$$
+
+$$\begin{array}{c}
+5.120 \\
+1.024 \\
+.9766 \\
+1 - \frac{R_i}{R_i} \quad .0234 \\
+\frac{1}{F_i} \left(1 - \frac{R_i}{R_i}\right) = .0468
+\end{array}$$
+
+$$\begin{array}{ll}
+\frac{1}{F_0} \left(1 - \frac{R_0}{R_v}\right) (x_1 - x_0) = .660 & \frac{1}{F_0} \left(1 - \frac{R_0}{R_v}\right) (y_1 - y_0) = 0.314 \\
+\frac{1}{F_i} \left(1 - \frac{R_i}{R_i}\right) (x_2 - x_1) = .0515 & \frac{1}{F_i} \left(1 - \frac{R_i}{R_i}\right) (y_1 - y_2) = 0.234
+\end{array}$$

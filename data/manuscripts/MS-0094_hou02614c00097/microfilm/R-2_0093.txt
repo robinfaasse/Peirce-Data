@@ -1,0 +1,13 @@
+[pn]82 84[/pn]
+
+[u]Theorem 8[/u]. The connectivity of a number of pieces, [u]M[/u], with a number of blots, [u]N[/u], is the number of rims increased by 2 and diminished by twice the number of pieces.
+
+[u]Demonstration[/u]. For making [ins]N[/ins] cross-cuts each extending from a blot to an outer rim, we obtain the case of [u]Cor. 7[/u] namely a number of pieces without blots. The connectivity is now 2 - M. Hence, before making the [del]cross[/del] [ins]N[/ins]-cuts it must have been 2 + N - M. But the number of rims equals the number of blots plus the outer rims, [del]who[/del] which are one for each piece, so that [ins]the rims are in number[/ins] [del]Rims[/del] equal N + M, or N equals [del]the[/del] [ins]the number of[/ins] [del]Rims[/del] [ins]the number of rims less by M.[/ins] [del]Rims - M[/del]. Consequently, 2 + N - M equals 2 + Rims - 2M.
+
+[u]Corollary 8[/u]. Since a globular surface with one blot is a [del]distorted dist of[/del] distortion of a closed figure drawn on paper without a blot, it follows that the connectivity of a group of G globular surfaces having B blots is ascertained by remembering that if we add a blot to each surface increasing the connectivity by G, we shall have the case of the theorem, and the connectivity will be 2 + B - G. Therefore, before making the G blots it must have been 2 + B - 2G.
+
+[u]Theorem 9[/u]. The connectivity
+of a simple artiad is 0,
+of a unifornicate artiad is 2,
+of a bifornicate artiad is 4,
+and so on, adding two for each tunnel-bridge.

@@ -1,0 +1,37 @@
+[pn]4[/pn]
+
+[u]y[/u]
+[u]y (x² + y²)[sup]-n[/sup][/u]
+
+[marginalia]
+[del]D[sub]x[/sub][/del]
+
+[u]D[sub]x[/sub] y[/u] = D[sub]x[/sub] log y
+y
+D[sub]x[/sub] y = y D[sub]x[/sub] log y
+[/marginalia]
+
+D[sub]x[/sub] = - [del]n[/del] [ins]2n[/ins] x y (x² + y²)[sup]-n-1[/sup]
+= - 2n x y (x² + y²)[sup]-n-1[/sup]
+
+D[sub]x[/sub]² = - 2n y (x² + y²)[sup]-n-1[/sup] + 2n(n+1) x² y (x² + y²)[sup]-n-2[/sup]
+
+= [u]- 2n x² y - 2n y³ + (4n² + 4n) x² y[/u]
+(x² + y²)[sup]n+2[/sup]
+
+= [u]([del]4n² + 2n[/del] [ins]4n² + 2n[/ins]) x² y - 2n y³[/u]
+(x² + y²)[sup]n+2[/sup]
+
+D[sub]y[/sub] = (x² + y²)[sup]-n[/sup] - 2n y² (x² + y²)[sup]-n-1[/sup]
+
+[u]x² + [del]- 2n y²[/del] [ins]y²[/ins][/u]
+(x² + (-2n+1) y²) (x² + y²)[sup]-n-1[/sup]
+
+D[sub]y[/sub]² = (-2n² + n) y (x² + y²)[sup]-n-1[/sup] [del]- 2n² - n[/del] [ins]- 2(n+1) (x² + (-2n+1) y²) (x² + y²)[sup]-n-2[/sup] y[/ins]
+
+= [del]- 2n² + n[/del] [ins]- 2n² - n[/ins] x² y [del]- 2n² + n[/del] [ins]+ 4n³ - 2n² - 2n² - n[/ins] y³
+
+[del]4n³ - 6n²[/del]
+
+= [u]- 4n² x² y + 4n³ - 6n² y³[/u]
++ 4n² + 2n - 2n

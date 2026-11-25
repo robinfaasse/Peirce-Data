@@ -1,0 +1,53 @@
+$$x = \beta \cos t + \beta_{\prime} \sin t + \beta_{\prime\prime} \cos t + \beta_{\prime\prime\prime} \sin t$$
+$$D_t x = -\beta \sin t - \beta_{\prime} \cos t + \beta_{\prime\prime} \sin t - \beta_{\prime\prime\prime} \cos t$$
+$$D_t^2 x = -\beta \cos t - \beta_{\prime} \sin t - \beta_{\prime\prime} \cos t - \beta_{\prime\prime\prime} \sin t$$
+$$D_t^3 x = -\beta \sin t + \beta_{\prime} \cos t - \beta_{\prime\prime} \sin t + \beta_{\prime\prime\prime} \cos t$$
+$$D_t^4 x = x = \beta \cos t + \beta_{\prime} \sin t + \beta_{\prime\prime} \cos t + \beta_{\prime\prime\prime} \sin t$$
+
+$\S 390$. Superfluous Constants.
+$\S 391$. Initial values the arbitrary Constants
+$\S 392$. Initial values are the Variables
+$\S 393$ In. Eq. which expresses the value of variable
+$\S 394$ Dif. eqs. of high orders. Normal Form.
+$$D_t^{n_i} x_i = X_i$$
+
+$$D_t^3 x = D_t x D_t^2 y + y^2$$
+$$D_t^4 y = D_t^2 x + D_t^3 y + x y$$
+
+$$\begin{array}{ll}
+D_t x = x' & D_t y = y' \\
+D_t x' = x'' & D_t y' = y'' \\
+& D_t y'' = y'''
+\end{array}$$
+
+$$\begin{array}{ll}
+D_t^2 x = x'' & D_t^2 y = y'' \\
+D_t^3 x = D_t x'' & D_t^3 y = y''' \\
+& D_t^4 y = D_t y'''
+\end{array}$$
+
+$$\begin{array}{l}
+D_t x'' = x' y'' + y^2 \\
+D_t y''' = x'' + y''' + x y
+\end{array}$$
+
+Here we have a system of 7 equations & 7 variables.
+$D_t^3 x$ gives 3 variables
+$D_t^4 y$ " 4 "
+Together 7 "
+
+$\S 395$. How can equations be brought to the Normal Form?
+$$\left. \begin{array}{l}
+D_t^3 x + D_t^3 y D_t^2 z = a \\
+D_t^2 y - D_t x + D_t z = x \\
+D_t^3 y + D_t x - D_t z = y \\
+D_t^2 y - D_t^2 x + D_t^2 z = D_t x \\
+D_t^3 y + D_t^2 x - D_t^2 z = D_t y
+\end{array} \right\}$$
+
+$$D_t^3 y = \frac{1}{2} D_t x + \frac{1}{2} D_t y$$
+$$D_t^2 y - D_t^2 z = \frac{1}{2} D_t y - \frac{1}{2} D_t x$$
+$$D_t^2 z (1 + D_t^3 y) = a - \frac{1}{2} D_t y + D_t x$$
+$$D_t^2 z = \frac{a - \frac{1}{2} D_t y + D_t x}{1 + \frac{1}{2} D_t x + \frac{1}{2} D_t y}$$
+
+Suppose now that they are not reducible in that way.

@@ -1,0 +1,27 @@
+[pn]29[/pn]
+
+Circumference
+[fig]Diagram of a curve with tangent lines[/fig] $r = a \theta$
+
+$r d\theta$ $dr$
+
+$dr = a d\theta$
+
+$\frac{[del]dr[/del]}{[del]d\theta[/del]} \frac{r d\theta}{dr} = \frac{r}{a} = \theta = 2 \pi$
+
+[fig]Diagram of a spiral sector[/fig]
+
+$\frac{a^2 \theta^3}{6}$
+
+Successive surfaces are
+$\frac{1}{6} : 1 : 2 : 3 : 4$
+
+[fig]Spiral curve[/fig]
+
+$\begin{array}{cc} 3 & 4 \\ \overline{12} & \overline{18} \\ 15 & 24 \\ & 46 \end{array}$
+
+$\begin{array}{c} 6 \\ 12 \end{array}$
+
+$\begin{array}{ccc} 2 & \text{—} & 1 \\ 6 & \text{—} & 8 \\ 12 & & 27 \\ 18 & & 64 \end{array}$
+
+$\begin{array}{ccccc} & & & & 1 \\ & & & 1 & \overline{7} \\ & 1 & 1 & \overline{8} & \overline{15} \\ 2 & \text{—} & 2 & \overline{27} & 37 \\ & & 3 & \overline{64} & \\ & & 4 & & \\ & & 5 & & \end{array}$

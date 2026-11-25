@@ -1,0 +1,30 @@
+TABLE OF THE "HEADINGS" OF THE NUMBERS
+
+The heading of any whole number, $m$, is $\nu$, the least [ins]positive[/ins] integer
+such that $(2^{\nu}-1)/(2m+1)$ is a positive whole number; which, since I shall
+employ the secunda[del]l[/del], instead of the decimal, system of numerical notation,
+(writing $1, 10, 11, 100, 101, 110, 111, 1000, 1001, 1010$, etc for
+$2, 3, 4, 5, 6, 7, 8, 9, 10$, etc.), I shall express by saying that $\nu$ has
+such value as to [del]make[/del] [ins]give[/ins] $(10^{\nu}-1)/(10m+1)$ the least positive integral
+value for each integral value of $m$ that is not negative.
+
+| $m$ | $\nu$ | Remarks. |
+| :--- | :--- | :--- |
+| $0$ | $1$ | Let us not split hairs disputing whether to call, $1$ or |
+| $1$ | $10$ | To calculate $\nu$, the most obvious rule is to divide a number |
+| $10$ | $100$ | of $1$s by $10m+1$, until we reach a remainder zero, and |
+| $11$ | $11$ | then count the number of $1$s that were needed. In |
+| $100$ | $110$ | order to bring about this result, which number will |
+| $101$ | $1010$ | obviously be $\nu$. By affixing (i.e. suffixing) a $1$ to the |
+| $110$ | $1100$ | expression for $m$, we get $10m+1$. But I have, as a |
+| $111$ | $100$ | matter of fact, hardly applied that principal at all in |
+| $1000$ | $1000$ | forming this table, but have used special rules, of which |
+| $1001$ | | the following are examples. If $m$ is of the form $m = 10\mu$, |
+| | | then $\nu = \mu + 1$. This may be seen by considering that, in that case, |
+| | | $2m+1 = 10^{\mu+1} = 10+1 = 10^{\mu+1}-1$. Again, if $m$ is of the form |
+| | | $m = 10^{\mu}$ then $\nu = 10(\mu+1)$; since in that case, $10m+1 = 10^{\mu+1}+1$ |
+| | | and therefore, if we [del]take a case[/del] [ins]apply[/ins] of this rule, $(10^{\nu}-1)/(10m+1)$ |
+| $1100$ | | |
+| $1101$ | | |
+| $1110$ | | |
+| $1111$ | $101$ | |

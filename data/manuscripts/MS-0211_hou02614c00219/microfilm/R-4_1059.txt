@@ -1,0 +1,21 @@
+[marginalia][pn]18[/pn][/marginalia]
+
+In order to determine the arbitrary constants,
+we have, in the first place, the condition that
+when $y = -1$ $U_{x,y} = 0$ so that
+$$0 = C_1 + C_2 \frac{31}{29} - 30 \frac{1 + \left(\frac{29}{31}\right)^{x+1}}{1 - \left(\frac{29}{31}\right)^{x+1}}$$
+
+In the second place, $u_{x,y} U_{x,y}$, the product of the
+probability of a favorable result for the player into the
+average number of bets if the result is favorable, is
+the average number of bets leading to a favorable result.
+Now, this is zero when $y = x$. Hence
+$$0 = C_1 + C_2 \left(\frac{29}{31}\right)^x + 60 x \frac{\left(\frac{29}{31}\right)^{x+1}}{1 - \left(\frac{29}{31}\right)^{x+1}}$$
+
+These give
+$$C_2 = \frac{29}{31} \frac{30 + 30 \left(\frac{29}{31}\right)^{x+1} + 60 x \left(\frac{29}{31}\right)^{x+1}}{\left[1 - \left(\frac{29}{31}\right)^{x+1}\right]^2}$$
+$$C_1 = - \frac{30 \left(\frac{29}{31}\right)^{2x+2} + 30 \left(\frac{29}{31}\right)^{x+1} + 60 x \left(\frac{29}{31}\right)^{x+1}}{\left[1 - \left(\frac{29}{31}\right)^{x+1}\right]^2}$$
+
+Whence
+$$U_{x,y} = 30 \frac{1 + \left(\frac{29}{31}\right)^{x+1}}{1 - \left(\frac{29}{31}\right)^{x+1}} - 60 x \left(\frac{29}{31}\right)^{x+1} \frac{1 - \left(\frac{29}{31}\right)^{y+1}}{\left[1 - \left(\frac{29}{31}\right)^{x+1}\right] \left[\left(\frac{29}{31}\right)^{y+1} - \left(\frac{29}{31}\right)^{x+1}\right]}$$
+$$+ 30 y \frac{\left(\frac{29}{31}\right)^{y+1} + \left(\frac{29}{31}\right)^{x+1}}{\left(\frac{29}{31}\right)^{y+1} - \left(\frac{29}{31}\right)^{x+1}}$$

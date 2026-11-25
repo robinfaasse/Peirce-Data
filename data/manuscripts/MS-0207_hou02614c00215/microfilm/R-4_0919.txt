@@ -1,0 +1,16 @@
+[pn]12[/pn] [pn]19[/pn]
+
+by substituting in place of the fraction [ins]$\frac{A_{n+1}}{A_{n}}$[/ins] neglected in $\frac{B_{n}}{C_{n}}$, the value $\frac{1}{Q_{n+1} + \frac{A_{n+2}}{A_{n+1}}}$
+and then neglecting the fraction $A_{n+2}$. Now since $A_{f+1}$ must be zero
+since every value of $A_{n}$ is smaller than $A_{n+1}$ and all are integers, it follows
+that the fraction neglected in $\frac{B_{f+1}}{C_{f+1}}$ is equal to zero. Thus, $\frac{B_{f+1}}{C_{f+1}} = \frac{A_{1}}{A_{0}}$. Hence,
+the comparant of $\frac{B_{f}}{C_{f}}$ and $\frac{A_{1}}{A_{0}}$ is $1$ and therefore there is no frac-
+tion of intermediate value of lower denominator than $\frac{B_{f} + A_{1}}{C_{f} + A_{0}}$. And
+since we have seen that the comparant of $\frac{M+KR}{N+KS}$ and $\frac{R}{S}$ is $1$ if
+that of $\frac{M}{N}$ and $\frac{R}{S}$ is $1$, putting $\frac{A_{1}}{A_{0}}$ for $\frac{M}{N}$, $\frac{B_{f}}{C_{f}}$ for $\frac{R}{S}$, and $-1$
+for $K$, we find that $\frac{A_{1} - B_{f}}{A_{0} - C_{f}}$ and $\frac{A_{1}}{A_{0}}$ have no intermediate frac-
+tion of lower denominator than $\frac{2A_{1} - B_{f}}{2A_{0} - C_{f}}$.
+
+It follows that the rows next to the radiant of $\frac{A_{1}}{A_{0}}$ [del]there of[/del] [ins]is that[/ins] of the
+fractions $\frac{n A_{1} + B_{f}}{n A_{0} + C_{f}}$ and $\frac{n A_{1} - B_{f}}{n A_{0} - C_{f}}$, and that the rows which
+are $(\text{next})^{m}$ to that radiant are $\frac{n A_{1} + m B_{f}}{n A_{0} + m C_{f}}$ and $\frac{n A_{1} - m B_{f}}{n A_{0} - m C_{f}}$.

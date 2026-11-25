@@ -1,0 +1,33 @@
+[pn][5][/pn]
+
+$$\frac{5}{2} + \left( \kappa - \frac{1}{2\kappa + 1} \right) \log \left[ \frac{1 + \frac{5}{2} - \frac{5}{2}}{} \right] + \frac{\kappa^2}{\sqrt{\kappa^2 - 1}} \log \left[ \frac{\sqrt{\kappa^2 - 1} + \kappa + \sqrt{\kappa^2 - 1}}{1 + \kappa + \sqrt{\kappa^2 - 1}} \right]$$
+
+$$= \text{①} + \text{②} + \text{③} + \text{④} + \text{⑤} \quad \begin{aligned} & - \frac{\kappa^2}{\sqrt{\kappa^2 - 1}} \log \left[ 1 + (\kappa - \sqrt{\kappa^2 - 1}) (\sqrt{1 + \frac{5}{2}} + \frac{5}{2}) \right] \\ & + \frac{\kappa^2}{\sqrt{\kappa^2 - 1}} \log \left[ 1 + \kappa - \sqrt{\kappa^2 - 1} \right] \end{aligned}$$
+
+$$= \text{①} + \text{②}_0 + \text{③}_1 \frac{5}{2} + \text{etc.}$$
+
+| | $\frac{5}{2}$ | $\frac{5^2}{2^2}$ | $\frac{5^3}{2^3}$ | $\frac{5^4}{2^4}$ | $\frac{5^5}{2^5}$ | $\frac{5^6}{2^6}$ | $\frac{5^7}{2^7}$ | $\frac{5^8}{2^8}$ |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| $\frac{5}{2} =$ | | $+ 1$ | | | | | | |
+| $\text{②}_0$ | | | | | | | | |
+| $\text{③}_1$ | $+ \frac{1}{2}$<br>$- \frac{1}{2}$ | $- \frac{1}{2}$ | $+ \frac{1}{4}$ | $- \frac{1}{8}$ | | $+ \frac{1}{32}$ | | $- \frac{5}{256}$ |
+| $\text{④}_1$ | $- \frac{1}{2}$ | $- \frac{1}{2}$ | $- \frac{1}{4}$ | $+ \frac{1}{16}$ | | $- \frac{1}{32}$ | | $+ \frac{5}{256}$ |
+| $\text{⑤}_1$ | $+ \frac{1}{2}$ | | | | | | | |
+| Sum | $0$ | $0$ | $0$ | | $0$ | $0$ | | $0$ |
+| $\text{②}_2$ | | $+ \frac{1}{2}$ | | $- \frac{1}{12}$ | | $+ \frac{3}{80}$ | | $- \frac{5}{224}$ |
+| $\text{③}_2$ | $+ \frac{1}{2}$<br>$- \frac{1}{2}$ | $+ \frac{1}{2}$<br>$- \frac{1}{4}$ | [del]$- \frac{1}{4}$[/del]<br>$+ \frac{1}{4}$ | $+ \frac{1}{8}$ | [del]$- \frac{1}{16}$[/del] | $- \frac{1}{32}$ | [del]$+ \frac{1}{64}$[/del] | $+ \frac{1}{64}$ |
+| $\text{④}_2$ | $+ \frac{1}{2}$ | $+ \frac{1}{4}$ | [del]$+ \frac{1}{4}$[/del] | $+ \frac{1}{8}$ | [del]$+ \frac{1}{16}$[/del] | $- \frac{1}{32}$ | [del]$+ \frac{1}{64}$[/del] | $+ \frac{1}{64}$ |
+| $\text{⑤}_2$ | $- \frac{1}{2}$ | | | | | | | |
+| Sum | $0$ | $1$ | [del]$0$[/del] | [del]$0$[/del] | [del]$0$[/del] | [del]$0$[/del] | [del]$0$[/del] | [del]$0$[/del] |
+| $\text{②}_2$ | | | | | | | | |
+| $\text{③}_2$ | $+ \frac{5}{12}$<br>$- \frac{5}{12}$ | $- \frac{1}{2}$ | $+ \frac{5}{24}$ | $+ \frac{1}{32}$ | | $- \frac{1}{192}$ | | $+ \frac{3}{512}$ |
+| $\text{④}_2$ | $- \frac{5}{12}$ | $- \frac{1}{2}$ | $- \frac{5}{24}$ | $- \frac{1}{96}$ | | $- \frac{5}{192}$ | | $+ \frac{25}{1536}$ |
+| $\text{⑤}_2$ | $+ \frac{5}{12}$ | | | | | | | |
+| Sum | $0$ | $-1$ | [del]$0$[/del] | $- \frac{1}{3}$ | [del]$0$[/del] | [del]$0$[/del] | [del]$0$[/del] | [del]$0$[/del] |
+| $\text{②}_3$ | | $+ \frac{3}{8}$ | | $- \frac{1}{16}$ | | $+ \frac{9}{320}$ | | $- \frac{15}{896}$ |
+| $\text{③}_3$ | | | | | | | | |
+| $\text{④}_3$ | | | | | | | | |
+| $\text{⑤}_3$ | | | | | | | | |
+| Sum | | | | | | | | |
+
+[fig]Scratch work and calculations in the lower right quadrant of the table[/fig]

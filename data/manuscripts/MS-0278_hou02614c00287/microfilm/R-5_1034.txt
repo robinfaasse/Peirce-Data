@@ -1,0 +1,112 @@
+[del]If two numbers are equal the sum of[/del]
+If two numbers are each the sum of an odd and even
+square so is their product in two ways
+[del]1[/del] [ins]2[/ins] . . . . 1 + 4 = 5 . . . . $4(p^2 + q^2 + q) + 1$
+[del]2[/del] [ins]5[/ins] . . . . 25 + 16 = 41 . . . . $4(P^2 + Q^2 + Q) + 1$
+[del]5[/del] [ins]8[/ins] . . . . 25 + 64 = 205 . . . . Product $16(p^2+q^2+q)(P^2+Q^2+Q) + 4(p^2+q^2+q+P^2+Q^2+Q)+1$
+[del]4[/del] [ins]10[/ins] . . . . 16 + 100
+
+[marginalia]
+8
+[u]13[/u]
+10
+[u]14[/u]
+6
+[/marginalia]
+
+169 + 196
+[u]36[/u] [u]9[/u]
+205 205
+
+$2p \cdot 2q+1$
+$2P \cdot 2Q+1$
+$4pP \cdot (2q+1)(2Q+1)$
+$2qp \cdot 2P \cdot 2p(2Q+1)$
+
+$\{[4pP \pm (2q+1)(2Q+1)]\}^2 = 16p^2P^2 \pm 8p(2q+1)P(2Q+1) + (2q+1)^2(2Q+1)^2$
+$\{[2p(2Q+1) \mp 2(2q+1)P]\}^2 = 4p^2(2Q+1)^2 \mp 8p(2q+1)P(2Q+1) + 4(2q+1)^2P^2$
+
+$4p^2(4P^2+4Q^2+4Q+1) + (4q^2+4q+1)(4P^2+4Q^2+4Q+1)$
+Q.E.D.
+
+Suppose
+$(2m+1)(2n+1) = 4p^2+4q^2+4q+1$
+$4mn + 2m + 2n = 4p^2+4q^2+4q$
+$2mn + m + n = 2p^2+2q^2+2q$
+Then [del]to[/del] $m+n$ is even or both are odd or both even
+$mn + \frac{m+n}{2} = p^2+q^2+q$
+
+$mn = x^2+y^2$
+$mn = \frac{1}{2}(X^2+Y^2)$
+[del]times power of 2 times[/del]
+Any multiple of the sum of two squares
+is the sum of two squares.
+$2m = (x^2+2xy+y^2) + (x^2-2xy+y^2)$
+$m = x^2+y^2$
+
+$5 = 4+1$
+$10 = 9+1$
+$20 = 16+4$
+$40 = 36+4$
+
+[marginalia]
+$mn = x^2+y^2$
+$mn - 2xy = (x-y)^2$
+[/marginalia]
+
+[marginalia]
+$mn = x^2-y^2$
+$mn - y^2 = x^2$
+$(\sqrt{mn}-y)(\sqrt{mn}+y) = x^2$
+[/marginalia]
+
+[marginalia]
+$m+y$
+$mn+y^2 = W + (m-n)y - y^2$
+$mn - y^2 = W + (m-n)y$
+$(x^2-y^2) + 2xy$
+[/marginalia]
+
+[marginalia]
+[fig]scribble[/fig]
+[/marginalia]
+
+[marginalia]
+36
+[u]25[/u]
+61
+[/marginalia]
+
+[marginalia]
+36
+[u]16[/u]
+52
+[/marginalia]
+
+[marginalia]
+49
+[u]25[/u]
+74
+[/marginalia]
+
+[marginalia]
+49
+[u]16[/u]
+65
+[/marginalia]
+
+[marginalia]
+49
+[u]9[/u]
+58
+[/marginalia]
+
+[marginalia]
+49
+[u]32[/u]
+81
+[/marginalia]
+
+[marginalia]
+[fig]grid of numbers[/fig]
+[/marginalia]

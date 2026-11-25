@@ -1,0 +1,19 @@
+(2) In the last example, substitute for the first premise:
+everybody has urged everybody to shoot all the persons
+to whom he has abused him.
+Then the premises become
+$$\Pi_i \Pi_j \Pi_k \quad \bar{v}_{ijk} \text{ + } u_{ijk}$$
+$$\Sigma_x \Pi_y \Sigma_z \quad v_{xyz} \cdot \bar{u}_{xzy}$$
+We write
+$$\Sigma_x \Pi_y \Sigma_z \Pi_i \Pi_j \Pi_k \quad (\bar{v}_{ijk} \text{ + } u_{ijk}) \cdot v_{xyz} \cdot \bar{u}_{xzy}$$
+
+Identifying as before we get
+$$\Sigma_x \Pi_y \Sigma_z \quad u_{xyz} \cdot \bar{u}_{xzy}$$
+There is a man who has urged everybody to shoot a certain
+person without urging him to shoot anybody. (There is
+a slight contradiction here.)
+But we can also identify
+$$\Sigma_x \Pi_y \Sigma_z \quad \bar{v}_{xzy} \cdot v_{xyz}$$
+There is a man who has abused everybody to one man
+whom he has not abused to anybody. (Note the same
+contradiction.

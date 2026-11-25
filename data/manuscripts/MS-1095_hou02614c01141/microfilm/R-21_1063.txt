@@ -1,0 +1,22 @@
+[fig]Sector of a circle with radial lines[/fig] We will now suppose that the
+air [del]can[/del] moves outward from
+the centre of the circle so as
+to preserve the continuity. That is to say
+[del]D_t r = R^2/r[/del]
+D_t r = -D_t e . R/r sin θ
+
+This motion is supposed to be so small that
+the square of the velocity may be neglected. We
+will superpose upon it another small motion
+also satisfying the equation of continuity and
+such that the second motion satisfies the forces
+of viscosity developed by the first.
+We may take
+[del]For[/del] D_t e = c sin nt
+
+The [ins]first[/ins] motion is always radial to the centre. That
+is [fig]Inverted triangle with a vertical line[/fig] u : v = x : y
+D_t r = \sqrt{u^2 + y^2} = c sin nt \frac{R}{\sqrt{x^2+y^2}} \frac{y}{\sqrt{x^2+y^2}}
+[del]u[/del] v = u \frac{y}{x} u = v \frac{x}{y}
+\frac{v \sqrt{x^2+y^2}}{y} = c sin nt \frac{R y}{x^2+y^2}
+v = R c sin nt . \frac{y^2}{(x^2+y^2)^{\frac{3}{2}}} u = R c sin nt \frac{xy}{(x^2+y^2)^{\frac{3}{2}}}

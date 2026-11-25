@@ -1,0 +1,36 @@
+[pn]12 75[/pn]
+
+[u]An algebraical [del]point[/del] excursus.[/u]
+
+It is often desirable in algebra to express a fraction as a
+sum of fractions each having its denominator of the first
+degree. For example, let us seek to express
+[ins]1[/ins]/[del](x-a)(x-b)(x-c)(x-d)(x-e)[/del] in the form [del]$\frac{\alpha}{x-a} + \frac{\beta}{x-b} + \frac{\gamma}{x-c} + \frac{\delta}{x-d} + \frac{\varepsilon}{x-e}$[/del]
+where $\alpha, \beta, \gamma, \delta, \varepsilon$, are quantities to be determined.
+Reducing to a common denominator, the last sum becomes
+$\alpha(x-b)(x-c)(x-d)(x-e) + \beta(x-a)[del](x-c)(x-d)[/del](x-e) + (x-a)(x-b)\gamma(x-d)(x-e)$
+$+ (x-a)(x-b)(x-e)\delta(x-e) + (x-a)(x-b)[del](x-c)(x-d)[/del]\varepsilon$ / $(x-a)(x-b)(x-c)(x-d)(x-e)$
+
+[del]The first term[/del]
+The terms of the numerator, on development, are
+$\alpha [x^4 - (b+c+d+e)x^3 + (bc+bd+be+cd+ce+de)x^2 - (bcd+bce+bde+cde)x$
+$+ bcde] + \beta [x^4 - (a+c+d+e)x^3 + (ac+ad+ae+cd+ce+de)x^2 - etc.$
+The whole numerator must be equal to 1 for all values of $x$. Hence,
+the coefficients of $x^4, x^3, x^2,$ and $x$, are separately equal to 0,
+while the sum of the terms not containing $x$ is equal to 1. That is,
+(1) $\alpha + \beta + \gamma + \delta + \varepsilon = 0$
+(2) $\alpha(b+c+d+e) + \beta(a+c+d+e) + \gamma(a+b+d+e) + \delta(a+b+c+e) + \varepsilon(a+b+c+d) = 0$
+(3) $\alpha(bc+bd+be+cd+ce+de) + \beta(ac+ad+ae+cd+ce+de) + \gamma(ab+ad+ae+bd+be+de)$
+$+ \delta(ab+ac+ae+bc+be+ce) + \varepsilon(ab+ac+ad+bc+bd+cd) = 0$
+(4) $\alpha(bcd+bce+bde+cde) + \beta(acd+ace+ade+cde) + \gamma(abd+abe+ade+bde)$
+$+ \delta(abc+abe+ace+bce) + \varepsilon(abc+abd+acd+bcd) = 0$
+(5) $\alpha bcde + \beta acde + \gamma abde + \delta abce + \varepsilon abcd = 1$
+
+If we multiply (1) by $a+b+c+d+e$, and subtract (2) from it, we get,
+(2') $\alpha a + \beta b + \gamma c + \delta d + \varepsilon e = 0$
+
+If we multiply (1) by $ab+ac+ad+ae+bc+bd+be+cd+ce+de$ and subtract
+(3) from it, we get
+(3') $\alpha a(b+c+d+e) + \beta b(a+c+d+e) + \gamma c(a+b+d+e) + \delta d(a+b+c+e) + \varepsilon e(a+b+c+d) = 0$
+
+If we now multiply (2') by $a+b+c+d+e$ and subtract (3') from it, we get

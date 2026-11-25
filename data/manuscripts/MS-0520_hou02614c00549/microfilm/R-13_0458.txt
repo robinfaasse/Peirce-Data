@@ -1,0 +1,28 @@
+[pn]25[/pn]
+
+Hence the equation is insoluble unless this relation holds between [u]a[/u] and [u]b[/u].
+Hence, the problem is to find a general expression for [u]x[/u] when
+[u]a[/u] [del]•[/del] [ins]•[/ins] [del]b[/del] [ins]b[/ins] [del]•[/del] [ins]•[/ins] [del]x[/del] [ins]x[/ins] [del]•[/del] [ins]•[/ins] [del]b[/del] [ins]b[/ins]. The first solution he finds is [u]x[/u] = [u]u[/u] + [del]w[/del] [ins]w[/ins] [[u]a[/u] • ([u]u[/u] + [u]b[/u])] [del]b[/del] [ins]b[/ins] [del]w[/del] [ins]w[/ins].
+But he also gives [u]x[/u] = [u]u[/u] + [[u]a[/u] • ([u]u[/u] + [u]b[/u])] [del]b[/del] [ins]b[/ins] [del]w[/del] [ins]w[/ins]
+[u]x[/u] = [u]u[/u] + [del]w[/del] [ins]w[/ins] [[u]a[/u] • ([u]u[/u] + [u]b[/u])] [u]b[/u]
+[u]x[/u] = [u]u[/u] + [[u]a[/u] • ([u]u[/u] + [u]b[/u])] [u]b[/u].
+
+Now, in criticising this result, let us fix our ideas by [del]putting[/del] [ins]letting [u]a[/u] denote "lover of",[/ins] for
+[u]x[/u] "grateful to", [u]b[/u] "benefactor of". Thus, [u]a[/u] [del]x[/del] [ins]x[/ins] [del]b[/del] [ins]b[/ins] signifies [del]that[/del] that every
+lover of a person is grateful to [u]some[/u] benefactor of that person. This
+informs us that certain classes of pairs are included under "grateful
+to". It [del]g[/del] does not exclude anything from being grateful to anything
+else. Hence of the equation [u]x[/u] = [u]u[/u] + [[u]a[/u] [u]u[/u] + [u]b[/u]] [u]b[/u], which is equivalent
+to the propositions [u]u[/u] + [[u]a[/u] • ([u]u[/u] + [u]b[/u])] [u]b[/u] [del]x[/del] [ins]x[/ins] [u]x[/u] and [u]x[/u] [del]u[/del] [ins]u[/ins] + [[u]a[/u] • ([u]u[/u] + [u]b[/u])] [u]b[/u],
+the latter is necessarily so much pure formalism without any meaning.
+The former asserts that there is some mode [u]u[/u] of being grateful such that, if
+A is a lover of B and B is benefited by C, but A is not grateful in the
+[u]u[/u] mode to any benefactor of B, then A is grateful to C. But it leaves
+us wholly in the dark as to what this [ins][u]u[/u][/ins] mode of being grateful is; which shows
+how Schröder's formulation of problems fails to meet any real requirements.
+
+If the problem were, given [u]a[/u] [del]x[/del] [ins]x[/ins] [u]b[/u] to find some [del]condition[/del] under which
+[del]one person[/del] [ins]A[/ins] will necessari[del]ly[/del] be grateful to [del]another[/del] [ins]C[/ins], we have a kind of problem
+often occurring in mathematical investiga[del]tion[/del]. To solve [u]this[/u] problem, let
+us express [del]it[/del] [ins]the given fact[/ins] in the general alge[del]bra[/del] thus $\Pi_i \Pi_k \Sigma_j \bar{a}_{ij} + \bar{x}_{ij} \cdot \bar{b}_{jk}$.
+[del]Squaring this, we get $\Pi_i \Pi_k \Sigma_j \Pi_i \Pi_k \Sigma_{j'} (\bar{a}_{ij} + \bar{x}_{ij} \cdot \bar{b}_{jk}) (\bar{a}_{ij'} + \bar{x}_{ij'} \cdot \bar{b}_{j'k})$[/del]

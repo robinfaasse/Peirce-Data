@@ -1,0 +1,26 @@
+[pn]10[/pn]
+
+or, every expression, upon subtraction of
+a real number ([ins]i.e. a real[/ins] [del]or[/del] multiple of [u]i[/u]), can
+be converted [ins]in one way only,[/ins] into a [del]num[/del] quantity whose
+square is a negative number. We may
+express this by saying that every quantity
+consists of a scalar and a vector part.
+A quantity whose square is a negative number
+we call [del]at[/del] vector.
+
+6. Our next step is to show that the vector
+part of the product of two vectors is linearly
+independent of these vectors and of unity.
+That is, [u]i[/u] and [u]j[/u] being any two vectors, if
+[u]i[/u][u]j[/u] = s + [u]v[/u]
+where s is a scalar and [u]v[/u] a vector, we
+cannot so determine three real scalars
+[u]a[/u], [u]b[/u], [u]c[/u], such that
+[u]v[/u] = a + b[u]i[/u] + c[u]j[/u].
+This is proved, if we prove that no scalar
+subtracted from [u]i[/u][u]j[/u] leaves a remainder
+b[u]i[/u] + c[u]j[/u]. If this be true when [u]i[/u] and [u]j[/u] are any
+unit vectors whatever, it is true when these
+are multiplied by real scalars, and so
+is true of every pair of vectors. We will

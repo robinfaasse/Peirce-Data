@@ -1,0 +1,27 @@
+[marginalia]
+Morison's Bridge [date]19 Feb 11[/date]
+[/marginalia]
+
+[pn]7[/pn]
+
+[del]\Delta^4_n n^p = \frac{p!}{(p-4)!} n^{p-4} + 24 n^{p-4} + 240 \frac{p!}{5!(p-5)!} n^{p-5} + etc[/del]
+
+[u]b_n[/u] = B_0 + B_1 n + B_2 n^2 + B_3 n^3 + etc
+
+\Delta^4_n b_n = 24 B_4 + 240 B_5 + 1560 B_6 + 8400 B_7 + 40824 B_8 + 186480 B_9 + 818520 B_{10} + etc
+
++ ([del]\frac{5 \times 24}{120}[/del] [ins]5 \times 24[/ins] B_5 + 6 \times 240 B_6 + 7 \times 1560 B_7 + 8 \cdot 8400 B_8 ) n
++ ( \frac{6 \cdot 5}{2} 24 \cdot B_6 + etc ) n^2
+[del]\frac{7 \cdot 6 \cdot 5}{3!}[/del] + ( \frac{7 \cdot 6 \cdot 5}{3!} 24 B_7 ) n^3
+
+= 24 B_4
++ ( 5 \cdot 24 n + [del]\frac{5 \cdot 4}{2}[/del] [ins]240[/ins] ) B_5
++ ( \frac{6 \cdot 5}{2} 24 n^2 + \frac{6 \cdot 5 \cdot 4}{3!} 240 n + \frac{6!}{2! 4!} 1560 ) B_6
++ etc
+
+But \beta \Delta^4_n b_n + \frac{E_n}{\beta} n^{-2} b_n cannot vanish
+unless B_0 = B_1 = 0
+
+\frac{E_n}{\beta B} B_2 = 24 B_4 + 240 B_5 + 1560 B_6 + etc
+\frac{E_n}{\beta B} B_3 = 2 \times 24 B_5 + 6 \cdot 240 B_6 + etc
+\frac{E_n}{\beta B} B_4 = \frac{6 \cdot 5}{2} 24 B_6 + etc

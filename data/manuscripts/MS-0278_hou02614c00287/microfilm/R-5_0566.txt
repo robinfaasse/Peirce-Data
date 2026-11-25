@@ -1,0 +1,29 @@
+mathematicians in writing the four equations as follows:
+
+$$\left| \begin{matrix} +6, & +6, & +6, & +6 \\ +8, & +3, & -12, & -7 \\ +4, & -9, & -24, & -7 \\ 0, & -3, & 0, & y \end{matrix} \right| = 0$$
+
+Such an array as the first member of this equation is
+called a determinant.
+
+Now let us go back to the original equations:
+$$3x - 2y + 1z - 6 = 0,$$
+$$4x - 1y - 2z + 7 = 0,$$
+$$2x + 3y - 4z + 7 = 0.$$
+
+Had we added $6$ times the first to $1\frac{1}{2}$ times the third, we should
+have got
+$$21x - 7\frac{1}{2}y \qquad -25\frac{1}{2} = 0.$$
+
+Had we then added $-2$ [del]times[/del] times the second to [del]$3\frac{1}{2}$ times[/del] the third
+we should have got
+$$-6x + 5y \qquad -7 = 0.$$
+
+Now had we added $3\frac{1}{2}$ times the last to the last but one, we should
+have got
+[del]$$+10y \qquad -24\frac{1}{2} = 0$$[/del]
+$$+10y \qquad -50 = 0$$
+
+Had we then added to this $-10$ times the fourth equation $y-y=0$, we
+should have got the same thing, only that the $10y$ would be put in
+the last column
+$$\begin{matrix} -50 \\ +10y \end{matrix} = 0.$$

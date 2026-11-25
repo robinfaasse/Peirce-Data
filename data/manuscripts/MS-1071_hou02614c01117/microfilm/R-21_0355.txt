@@ -1,0 +1,38 @@
+$$ \left(\frac{r}{R}\right)^2 + \left(\frac{z}{Z}\right)^2 = 1 $$
+
+[del]East and West[/del] [ins]E and N S[/ins] scales to be equal
+
+I begin by making the simplest [del]projection[/del] [ins]representation[/ins] that will just cover [del]an[/del] [ins]the[/ins] unlimited plane
+
+This will be one in which all the circles of constant latitude are represented by concentric circles
+
+Then let $\rho$ and $\theta$ be the polar coördinates of any point on the map
+
+The E W scale will be $\frac{\rho}{r}$
+
+The N S scale will be $\frac{d\rho}{\sqrt{(dr)^2 + (dz)^2}}$
+
+To make the map conformal, then, it will suffice to put
+
+$$ \frac{\rho}{r} = \frac{d\rho}{\sqrt{(dr)^2 + (dz)^2}} $$
+
+multiplying by [del]$\frac{\sqrt{(dr)^2 + (dz)^2}}{\rho}$[/del] we get $\frac{d\rho}{\rho} = \frac{[del]\sqrt{(dr)^2 + (dz)^2}[/del] \sqrt{1 + (dz/dr)^2} \cdot dr}{r}$ and [del]taking[/del] [ins]separating[/ins] $dr$ as a factor
+
+Differentiating the equation of the earth's surface
+
+$$ \frac{r dr}{R^2} + \frac{z dz}{Z^2} = 0 $$
+
+so that $\frac{dz}{dr} = - \frac{Z^2}{R^2} \frac{r}{z}$
+
+$$ \left(\frac{dz}{dr}\right)^2 = \frac{Z^4}{R^4} \frac{r^2}{z^2} = \frac{Z^4}{R^2} \frac{1 - (z/Z)^2}{z^2} = \frac{Z^2}{R^4} \frac{r^2}{1 - (r/R)^2} $$
+
+$$ = \frac{Z^2}{R^2} \frac{r^2}{R^2 - r^2} $$
+
+[marginalia]
+$x = \frac{r}{R}$
+$dr = R dx$
+[/marginalia]
+
+$$ 1 + \left(\frac{dz}{dr}\right)^2 = \frac{R^4 - (R^2 - Z^2) r^2}{R^4 - R^2 r^2} $$
+
+$$ = 1 $$

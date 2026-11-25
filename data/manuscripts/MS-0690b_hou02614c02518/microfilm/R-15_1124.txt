@@ -1,0 +1,22 @@
+(3)
+
+$$\frac{p_1}{p_1 + q_1} \cdot \frac{p_2}{p_2 + q_2} \cdot \frac{p_3}{p_3 + q_3} \cdot \text{etc.} \ [del]\text{X}[/del] \ [ins]\cdot[/ins] \ \frac{p_5}{p_5 + q_5} \cdot \frac{p_6}{p_6 + q_6} \cdot \frac{p_7}{p_7 + q_7} \cdot \text{etc.};$$
+
+and the probability that all the arguments [u]pro[/u] lead to error while
+all the arguments [u]con[/u] lead to truth, will be
+
+$$\frac{q_1}{p_1 + q_1} \cdot \frac{q_2}{p_2 + q_2} \cdot \frac{q_3}{p_3 + q_3} \cdot \text{etc.} \ [del]\text{X}[/del] \ [ins]\cdot[/ins] \ \frac{q_5}{p_5 + q_5} \cdot \frac{q_6}{p_6 + q_6} \cdot \frac{q_7}{p_7 + q_7} \cdot \text{etc.}$$
+
+But one or other of these two alternatives must be the case; so that
+the odds or ratio of favorable to unfavorable probability on the
+whole is simply
+
+$$\frac{p_1 \cdot p_2 \cdot p_3 \cdot \text{etc.} \cdot p_5 \cdot p_6 \cdot p_7 \ \text{etc.}}{q_1 \cdot q_2 \cdot q_3 \cdot \text{etc.} \cdot q_5 \cdot q_6 \cdot q_7 \ \text{etc.}} \cdot$$
+
+Now if we suppose that the impression made on the mind of the wise
+man is proportional to the logarithm of the odds as its exciting
+cause, then the total impression will be
+
+$$\text{log.} \ \begin{Bmatrix} \frac{p_1}{q_1} \cdot \frac{p_2}{q_2} \cdot \frac{p_3}{q_3} \cdot \text{etc.} \cdot \frac{p_5}{q_5} \cdot \frac{p_6}{q_6} \cdot \frac{p_7}{q_7} \cdot \text{etc.} \end{Bmatrix} =$$
+
+$$\text{log.} \ \frac{p_1}{q_1} + \text{log.} \ \frac{p_2}{q_2} + \text{log.} \ \frac{p_3}{q_3} + \text{etc.} + \text{log.} \ \frac{p_5}{q_5} + \text{log.} \ \frac{p_6}{q_6} + \text{log.} \ \frac{p_7}{q_7} + \text{etc.}$$

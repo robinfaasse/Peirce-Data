@@ -1,0 +1,25 @@
+[pn]13[/pn]
+
+remainder whose square is a scalar. We
+do not yet know whether the sum of two [del]vectors[/del] [ins]vectors[/ins]
+is a vector or not (though we do know that
+it is not a scalar). Let us then take such a
+sum as $ai + bj$ and suppose $x$ to be the scalar
+which subtracted from it makes the square of
+the remainder a scalar. Then, $C$ being a scalar,
+$(-x + ai + bj)^{2} = $ [del]a scalar[/del] [ins]$C$[/ins].
+[del]But[/del] developing the square we have
+$(-x + ai + bj)^{2} = x^{2} - a^{2} - b^{2} + abs + abs' - 2axi - 2bxj$
+$+ ab(1 - \frac{s'}{s})v = C$
+Then,
+$ab(1 - \frac{s'}{s})v = C - x^{2} + a^{2} + b^{2} - abs - abs' + 2axi + 2bxj$.
+But $v$ being the vector of $ij$, by the last
+paragraph but one the equation must vanish.
+Either then $v = 0$ or $1 - \frac{s'}{s} = 0$. But if $v = 0$, $ij = s$
+and multiplying into $j$
+$-i = sj$
+which is absurd, [del]unless[/del] $i$ and $j$ being dissimilar
+Hence $1 - \frac{s'}{s} = 0$ and
+$ji = s - v$.
+
+Q.E.D.

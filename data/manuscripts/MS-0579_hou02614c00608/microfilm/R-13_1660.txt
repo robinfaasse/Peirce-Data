@@ -1,0 +1,26 @@
+[u]Study[/u]
+On the formal laws of the copula of in-
+clusion.
+
+In order to make sure I have every princi-
+ple, I propose to consider every formula ne-
+cessarily true up to say six copulas inclusive.
+(1) $A \prec A$.
+[u]The principle of identity[/u]
+
+With two copulas, we have the forms
+$A \prec (B \prec C)$
+$(A \prec B) \prec C$.
+
+The first of these becomes necessarily true
+when $C = B$. That is $A \prec (B \prec B)$. The prin-
+ciple is
+(2) If $B$, then $A \prec B$.
+
+Also when $C = A$. That is $A \prec (B \prec A)$. The
+principle is
+(3) If $A \prec (B \prec C)$ then $B \prec (A \prec C)$
+so that the parenthesis is unnecessary.
+
+The second of the above forms yields no necessary
+formula.

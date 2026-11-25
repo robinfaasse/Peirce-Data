@@ -1,0 +1,25 @@
+Corresponding to the inference
+[u]S | P[/u] true,
+<span style="padding-left: 30px;">$$\therefore$$</span> [u]x | S[/u] | [u]x | P[/u] true.
+
+we have
+[u]S [ins]~[/ins] P[/u] false
+<span style="padding-left: 30px;">$$\therefore$$</span> [u]S [ins]~[/ins] x[/u] [u]P [ins]~[/ins] x[/u] false.
+
+Corresponding to the contrapositive inference
+[u]S | P[/u] true,
+<span style="padding-left: 30px;">$$\therefore$$</span> [u]P | x[/u] | [u]S | x[/u] true,
+
+we have
+[u]S [ins]~[/ins] P[/u] false,
+[u]x [ins]~[/ins] P[/u] [u]x [ins]~[/ins] S[/u] false.
+
+Corresponding to the inference
+[u]x | y[/u] | [u]z | w[/u] true,
+<span style="padding-left: 30px;">$$\therefore$$</span> [u]x | y[/u] | [u]z | w[/u] true,
+
+we have
+[u]x [ins]~[/ins] y[/u] [u]x [ins]~[/ins] w[/u] false.
+<span style="padding-left: 30px;">$$\therefore$$</span> [u]x [ins]~[/ins] y[/u] [u]x [ins]~[/ins] w[/u] false.
+
+Other analogies the student can trace out for himself.

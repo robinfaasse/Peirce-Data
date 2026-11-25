@@ -1,0 +1,26 @@
+[fig]sketch of a bird[/fig]
+
+0 1 3 7 15 31
+[1,2] [2,2] [3,2] [4,2] [5,2] [6,2]
+
+[del][1,2][/del] [2,2] = E_x[1,2]
+[x,2] = E_x^{x-1}[1,2]
+
+(E_x-1) [1,2]
+(E_x-1)^2 [1,2]
+(E_x-1)^3 [1,2]
+
+(E_x-1)^n [1,2]
+
+(E_x-1)^n [1,y] = [[del]x[/del], y-1]
+(E_x-1) [1,y] = [1, [del]y[/del] [ins]y-1[/ins]]
+
+[fig]difference table[/fig]
+
+[fig]difference table[/fig]
+
+[fig]number line with intervals[/fig]
+
+[fig]difference table[/fig]
+
+[fig]difference table[/fig]

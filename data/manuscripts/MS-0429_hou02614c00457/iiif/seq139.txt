@@ -1,0 +1,35 @@
+63
+
+[u]x[/u] X [u]y[/u]     [u]x \gamma y \gamma x \overline{\gamma} y[/u]     [u]x \lambda y \lambda x \overline{\lambda} y[/u]     [u]x \alpha y \alpha x \alpha y[/u]     [u]x \text{\reflectbox{$\lambda$}} y \text{\reflectbox{$\lambda$}} x \text{\reflectbox{$\lambda$}} y[/u]
+
+[u]x[/u] \gamma [u]y[/u]                     [u]\overline{x} \lambda \overline{y}[/u]               [u]\overline{x} \alpha y[/u]               [u]x \text{\reflectbox{$\lambda$}} \overline{y}[/u]
+
+[u]x[/u] \lambda [u]y[/u]         [u]\overline{x} \gamma \overline{y}[/u]                                     x \alpha [u]\overline{y}[/u]               [u]\overline{x} \text{\reflectbox{$\lambda$}} y[/u]
+
+[u]x[/u] \alpha [u]y[/u]         [u]\overline{x} \gamma y[/u]               [u]x \lambda \overline{y}[/u]                                     [u]\overline{x} \lambda \overline{y}[/u]
+
+[u]x[/u] \text{\reflectbox{$\lambda$}} [u]y[/u]         [u]x \gamma \overline{y}[/u]               [u]\overline{x} \lambda y[/u]               [u]\overline{x} \alpha \overline{y}[/u]
+
+[u]x[/u] \Delta [u]y[/u]     [u]x \overline{\gamma} \overline{x} \overline{\gamma} y[/u]           [u]x \lambda y \lambda \overline{y}[/u]           [u]x \alpha x \alpha y[/u]           [u]x \text{\reflectbox{$\lambda$}} x \lambda \overline{y}[/u]
+
+[u]x[/u] \nabla [u]y[/u]     [u]x \gamma y \overline{\gamma} \overline{x}[/u]           [u]\overline{x} \lambda x \lambda y[/u]           [u]\overline{x} \alpha \overline{y \alpha y}[/u]           [u]x \text{\reflectbox{$\lambda$}} y \lambda \overline{y}[/u]
+
+[u]x[/u] \infty [u]y[/u]     [u]\overline{x \gamma y \gamma \overline{x} \gamma \overline{y}}[/u]     [u]x \lambda y \lambda \overline{x} \lambda \overline{y}[/u]     [u]x \alpha y \alpha x \alpha y[/u]     [u]x \text{\reflectbox{$\lambda$}} \overline{y} \overline{x} \text{\reflectbox{$\lambda$}} y[/u]
+
+[u]x[/u] \delta [u]y[/u]     [u]x \overline{\gamma y \gamma \overline{x} \gamma y}[/u]     [u]x \lambda \overline{y} \lambda \overline{x} \lambda y[/u]     [u]x \alpha y \alpha \overline{x \alpha y}[/u]     [u]\overline{x \text{\reflectbox{$\lambda$}} \overline{y}} \text{\reflectbox{$\lambda$}} x \text{\reflectbox{$\lambda$}} y[/u]
+
+[u]x[/u] \text{\reflectbox{$\nabla$}} [u]y[/u]       [u]\overline{x} \gamma y \overline{\gamma} \overline{y}[/u]           [u]x \lambda y \text{\reflectbox{$\lambda$}} \overline{y}[/u]           [u]x \alpha y \alpha \overline{y}[/u]           [u]\overline{x} \text{\reflectbox{$\lambda$}} y \text{\reflectbox{$\lambda$}} y[/u]
+
+[u]x[/u] \text{\reflectbox{$\Delta$}} [u]y[/u]       [u]\overline{x \gamma x} \gamma \overline{y}[/u]           [u]x \lambda \overline{x} \lambda y[/u]           [u]\overline{x \alpha x} \alpha \overline{y}[/u]           [u]x \text{\reflectbox{$\lambda$}} x \text{\reflectbox{$\lambda$}} y[/u]
+
+[u]x[/u] < [u]y[/u]           [u]x \overline{\gamma} \overline{y}[/u]               [u]\overline{x \lambda y}[/u]               [u]\overline{x \alpha y}[/u]               [u]x \text{\reflectbox{$\lambda$}} \overline{y}[/u]
+
+[u]x[/u] > [u]y[/u]           [u]\overline{x} \overline{\gamma} y[/u]               [u]x \text{\reflectbox{$\lambda$}} \overline{y}[/u]               [u]x \overline{\alpha y}[/u]               [u]\overline{x} \text{\reflectbox{$\lambda$}} y[/u]
+
+[u]x[/u] V [u]y[/u]           [u]\overline{x} \overline{\gamma} \overline{y}[/u]               [u]x \text{\reflectbox{$\lambda$}} y[/u]               [u]x \alpha \overline{y}[/u]               [u]\overline{x} \text{\reflectbox{$\lambda$}} y[/u]
+
+[u]x[/u] \wedge [u]y[/u]           [u]x \overline{\gamma} y[/u]               [u]\overline{x} \lambda \overline{y}[/u]               [u]\overline{x} \alpha y[/u]               [u]x \text{\reflectbox{$\lambda$}} \overline{y}[/u]
+
+[u]x[/u] \text{\ding{108}} [u]y[/u]     [u]x \overline{\gamma} y \gamma x \overline{\gamma} y[/u]     [u]x \lambda y \lambda x \lambda y[/u]     [u]x \alpha y \alpha x \alpha y[/u]     [u]x \text{\reflectbox{$\lambda$}} y \text{\reflectbox{$\lambda$}} x \text{\reflectbox{$\lambda$}} y[/u]
+
+[fig]diagonal line crossing middle of text blocks[/fig]

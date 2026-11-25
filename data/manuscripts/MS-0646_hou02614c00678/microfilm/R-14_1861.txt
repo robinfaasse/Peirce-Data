@@ -1,0 +1,51 @@
+[marginalia]
+[pn]1910 Jan 22[/pn]
+PM 11:45
+DEFINITION
+4th draught
+[pn]31[/pn]
+[/marginalia]
+
+[u]DEFINITIONS OF THE SIGNS [del]+[/del] [ins]of[/ins] AND [del].[/del] [ins]•[/ins].[/u]
+
+Whatever [u]a[/u], [u]b[/u], and [u]x[/u] may denote or signify,
+
+(2') If [u]a[/u] < [u]x[/u] and [u]b[/u] < [u]x[/u],
+then [u]a[/u] + [u]b[/u] < [u]x[/u];
+
+If [u]x[/u] < [u]a[/u] and [u]x[/u] < [u]b[/u],
+then [u]x[/u] < [u]a[/u] • [u]b[/u];
+[pn](2')[/pn]
+
+and conversely,
+
+(3') If [u]a[/u] + [u]b[/u] < [u]x[/u],
+then [u]a[/u] < [u]x[/u] and [u]b[/u] < [u]x[/u].
+
+If [u]x[/u] < [u]a[/u] • [u]b[/u],
+then [u]x[/u] < [u]a[/u] and [u]x[/u] < [u]b[/u].
+[pn](3')[/pn]
+
+Since [u]x[/u] may be whatever we please, make it
+[u]a[/u] • [u]b[/u]
+when, by (3'), since [u]a[/u] • [u]b[/u] < [u]a[/u] • [u]b[/u],
+
+(A) {
+[u]a[/u] • [u]b[/u] < [u]a[/u]
+[u]a[/u] • [u]b[/u] < [u]b[/u]
+
+[u]a[/u] • [u]b[/u]
+when by (3'), since [u]a[/u] • [u]b[/u] < [u]a[/u] • [u]b[/u], by the definition of <
+
+[u]a[/u] • [u]b[/u] < [u]a[/u]
+[u]a[/u] • [u]b[/u] < [u]b[/u]
+[u]b[/u] • [u]a[/u] < [u]b[/u]
+[u]b[/u] • [u]a[/u] < [u]a[/u].
+} (A)
+
+(C) and by (2') [u]b[/u] • [u]a[/u] < [u]a[/u] • [u]b[/u]
+Since [u]a[/u] and [u]b[/u] may be whatever we please, let us make both [u]x[/u]; Then by the definition of < and (2')
+
+(B) [u]x[/u] + [u]x[/u] < [u]x[/u].
+
+[u]x[/u] < [u]x[/u] • [u]x[/u].

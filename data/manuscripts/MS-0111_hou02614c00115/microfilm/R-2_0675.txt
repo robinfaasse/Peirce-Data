@@ -1,0 +1,55 @@
+[pn]No. 11[/pn]
+
+Formulae for Plane Triangles
+
+[del]Let[/del] [ins]Put[/ins] $a+b+c = 2s$
+$a' = s-a$
+$b' = s-b$
+$c' = s-c$
+
+$\frac{1}{\tan\frac{1}{2}A} + \frac{1}{\tan\frac{1}{2}B} + \frac{1}{\tan\frac{1}{2}C} = \frac{1}{\tan\frac{1}{2}A\tan\frac{1}{2}B\tan\frac{1}{2}C}$
+
+$a' \tan\frac{1}{2}A = b' \tan\frac{1}{2}B = c' \tan\frac{1}{2}C$
+
+$\frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}$
+
+$\text{Area} = T = \sqrt{s a' b' c'} = \frac{b' c'}{\tan\frac{1}{2}A} = bc \sin A$
+
+<u>Inscribed and Escribed circles</u>
+
+$r = \frac{T}{s} = s \tan\frac{1}{2}A \tan\frac{1}{2}B \tan\frac{1}{2}C = a' \tan\frac{1}{2}A$
+
+$r_a = \frac{T}{a'} = s \tan\frac{1}{2}A$
+
+$\frac{s}{r_a} + \frac{s}{r_b} + \frac{s}{r_c} = \frac{s^3}{r_a r_b r_c} = \frac{s}{r}$
+
+<u>Distances from A</u>
+of inscribed [del]contact[/del] [ins]circle[/ins] $r \cot\frac{1}{2}A = s \tan\frac{1}{2}B \tan\frac{1}{2}C = a'$
+of escribed with respect to $a = s$
+of escribed with respect to $b = c'$
+of escribed with respect to $c = b'$
+
+<u>to Centres</u>
+of Inscribed $= a' \sec\frac{1}{2}A = r \csc\frac{1}{2}A = \sqrt{\frac{a'bc}{s}}$
+of escribed with respect to $a = s \sec\frac{1}{2}A = r_a \csc\frac{1}{2}A = \sqrt{\frac{sbc}{a'}}$
+of " " $b = c' \csc\frac{1}{2}A = r_b \sec\frac{1}{2}A = \sqrt{\frac{bcc'}{b'}}$
+of " " $c = b' \csc\frac{1}{2}A = r_c \sec\frac{1}{2}A = \sqrt{\frac{bb'c}{c'}}$
+
+<u>Dist between centres</u>
+$r$ to $r_a$ $a \sec\frac{1}{2}A = a \sqrt{\frac{bc}{sa'}} = \sqrt{bc} (\sqrt{\frac{s}{a'}} - \sqrt{\frac{a'}{s}}) = 2 \sqrt{\frac{a}{a'}} \sqrt{Rr}$
+$r_b$ to $r_c$ $a \csc\frac{1}{2}A = a \sqrt{\frac{bc}{b'c'}} = \sqrt{bc} (\sqrt{\frac{b'}{c'}} + \sqrt{\frac{c'}{b'}}) = \sqrt{aa'} \sqrt{\frac{R}{r}}$
+
+<u>Inscribed and escribed circles</u>
+Angles of common tangs of two circles to line of centres
+$\frac{1}{2}A$ on two sides $\frac{1}{2}A + \frac{1}{2}A = A$
+$B + \frac{1}{2}A$ or $C + \frac{1}{2}A$ (three [del]supplementary[/del] [ins]differing by $180^\circ$[/ins])
+
+<u>$a$ and $b$ Escribed circles</u>
+$90^\circ - \frac{1}{2}C$ on two sides (supplement $90^\circ + \frac{1}{2}C$)
+$A + \frac{1}{2}C - 90^\circ$ (supplement $\frac{1}{2}C + B + 90^\circ$
+
+The [del]undrawn[/del] [ins]common[/ins] tan gents are 3 parallel pairs, making angles
+A with side $a$, B with $b$, C with $c$. That is, one pair are inclined
+by C to $c$ and B to $b$ and $90^\circ + \frac{1}{2}A$ to $a$ etc. [del]Of[/del] [ins]Of[/ins] these, one cuts $c$ at dist $\frac{bc}{a}$ from A
+and $b$ at dist $c$ from A, and $a$ at $\frac{ab}{c}$ from B, and $a$ at $\frac{ac}{b}$ from C. The other cuts $c$ at $b$ from A, side
+$a$ and $b$ at $c$ from A. This pair is dist $\frac{2bc}{a} \sin B$

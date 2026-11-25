@@ -1,0 +1,31 @@
+[fig]Handwritten logical diagrams and formulas[/fig]
+
+[pn]7_3[/pn]
+
+[fig]Boxed formula (y)[/fig] (y) [u]$\pm M \prec \pm P$
+$\mp M \prec \pm S'$
+$\mp S' \prec \pm P$[/u]
+
+[fig]Boxed formula (y1)[/fig] [u]$\pm M \prec \pm P$
+$\pm M \bar{\prec} \mp S'$
+$\pm S' \bar{\prec} \mp P$[/u] ($y_1$)
+
+[fig]Boxed formula (y')[/fig] [u]$\mp M \bar{\prec} \mp P$
+$\mp M \prec \pm S'$
+$\therefore \pm S' \bar{\prec} \pm P$[/u] ($y'$)
+
+
+[pn]7_4[/pn]
+
+[fig]Boxed formula (z)[/fig] (z) [u]$\pm P \prec \pm M$
+$\pm M \prec \pm S'$
+[del]$\mp P \prec \mp S'$[/del]
+$\mp S' \prec \mp P$[/u]
+
+[fig]Boxed formula (z1)[/fig] [u]$\pm P \prec \pm M$
+$\mp M \bar{\prec} \mp S'$
+$\mp S' \bar{\prec} \pm P$[/u] ($z_1$)
+
+[fig]Boxed formula (z')[/fig] [u]$\pm P \bar{\prec} \mp M$
+$\pm M \prec \pm S'$
+$\mp S' \bar{\prec} \pm P$[/u] ($z'$)

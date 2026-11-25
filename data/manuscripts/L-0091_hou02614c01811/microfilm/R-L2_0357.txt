@@ -1,0 +1,15 @@
+Key West [date]1885 Apr 12[/date]
+
+My dear Mr Söhmer
+
+The equation of the [u]Elastic Curve[/u] in its simplest expression is
+$$\rho y = \frac{1}{2} b^2$$
+where $\rho$ is the radius of curvature. This gives
+$$x = \int \frac{y^2 - c^2}{\sqrt{b^4 - (y^2 - c^2)^2}} dy.$$
+
+Suppose first $c^2 > b^2$. Then write
+$$m = \frac{1}{c^2 - b^2} \qquad n = \frac{1}{c^2 + b^2} \qquad k^2 = \frac{2 b^2}{c^2 - b^2}$$
+
+$$[del]y^2 =[/del] \eta^2 = \frac{c^2 - b^2}{1 - \frac{2 b^2}{c^2 + b^2} \eta^2}$$
+
+$$y^2 - c^2 = - b^2 \frac{b^2 + c^2 - 2 c^2 \eta^2}{b^2 + c^2 - 2 b^2 \eta^2}$$

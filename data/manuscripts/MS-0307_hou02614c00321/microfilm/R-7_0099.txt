@@ -1,0 +1,41 @@
+[fig]Pentagram inside a pentagon[/fig] [fig]Ten-pointed star polygon[/fig]
+
+[fig]Pentagram with labeled vertices[/fig] [fig]Pentagon with labeled vertices and extended edges[/fig]
+
+[fig]Small circular diagram with arrows[/fig]
+
+[fig]Three-dimensional prism-like diagram with labeled vertices[/fig]
+
+$$x + y + z + p + q = 0$$
+
+$$x + y + p + z + q$$
+
+$$\frac{q+z}{}$$
+
+$$\begin{array}{c}
+x\ y\ \left\{ \begin{array}{l} p\ z\ q \\ q\ z\ p \end{array} \right. \\
+x\ y\ \left\{ \begin{array}{l} p\ q\ z \\ z\ q\ p \end{array} \right. \\
+x\ y\ \left\{ \begin{array}{l} z\ p\ q \\ q\ p\ z \end{array} \right.
+\end{array}
+\begin{array}{c}
+2 \\
+3 \\
+6 \\
+5
+\end{array}
+\begin{array}{c}
+1\ 2\ 4\ 8\ 5 \\
+\text{—}
+\end{array}
+\begin{array}{ccccc}
+x & p & y & z & q \\
+2 & 3 & 4 & 6 & 5
+\end{array}$$
+
+$$\begin{array}{c}
+3 \\
+2 \\
+4
+\end{array}$$
+
+[fig]Small circular diagram with intersecting lines[/fig]

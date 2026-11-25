@@ -1,0 +1,36 @@
+[del]nothing can be $r$ to $A$ without being $r$ to $B$. Thus, to say that
+John is as short a word as Jack is the same as to say that nothing can
+be as short a word as John without being as short a word as Jack.[/del]
+
+§ 2.2.3.2. Second Definition of Ordinals
+
+Clause I. The most fundamental relation of ordinals, [del]from[/del]
+upon which all others depend is a certain appurtenance, $N$,
+(being next higher.)
+
+Clause II. Every ordinal is $N$'d by an ordinal.
+
+Clause III. There is an ordinal that is not $N$ to any ordinal;
+(and any such ordinal is called a zero, $0$.)
+
+Clause IV. Whatever ordinal is $N$ of an ordinal is also in a
+certain relation, $g$, of comparative fulfillment to that ordinal.
+
+Clause V. Whatever ordinals $p$ and $q$ may be, either the facts
+that certain ordinals are $N$ to certain ordinals, taken in
+
+[del]If $a \prec b$ then If $c \prec b$[/del]
+
+$a + b \prec a + b$
+
+$a + b$ possesses [del]every cha of $a$ and every cha of $b$[/del]
+[del]and every chem of $a + b$ is[/del]
+either [del]a[/del] possesses a cha not poss by $b$
+or [del]both[/del] possesses every cha.
+
+$\begin{array}{cc}
+\text{If } x \prec y & \text{If } x + z \prec y + z \\
+\left\{ \begin{aligned} x + z &\prec y + z \\ z + x &\prec z + y \end{aligned} \right. & x \prec y \\
+& \text{If } z + x \prec z + y \\
+& x \prec y
+\end{array}$

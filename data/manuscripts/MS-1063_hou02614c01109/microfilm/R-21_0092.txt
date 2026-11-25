@@ -1,0 +1,25 @@
+$$q = w + x i + y j + z k$$
+$$\frac{1}{q} = w - x i - y j - z k$$
+$$dq = dw + dx \cdot i + dy \cdot j + dz \cdot k$$
+$$\frac{1}{q} dq = [del]dw + dx[/del]$$
+$$= (w - x i - y j - z k) dw$$
+$$+ (x + w i - z j + y k) dx$$
+$$+ (y + z i + w j - x k) dy$$
+$$+ (z - y i + x j + w k) dz$$
+
+$$\int \frac{1}{q} dq = \frac{1}{2} \log T^2 + \frac{x i + y j + z k}{\sqrt{x^2+y^2+z^2}} \arctan \frac{\sqrt{x^2+y^2+z^2}}{w} + [del]\mathbb{P}[/del] [ins]\mathbb{Q}[/ins] (x,y,z)$$
+
+$$\int \frac{x}{x^2+b} = \frac{1}{2} \log (x^2+b)$$
+$$\int \frac{1}{x^2+b} = \frac{1}{\sqrt{b}} \arctan \frac{x}{\sqrt{b}}$$
+
+$$\frac{1}{q} = \frac{1}{T^2} (S_q - V_q)$$
+
+$$\int \frac{1}{q} dq = \frac{1}{2} \log T^2 + \frac{y i + z j - y k}{\sqrt{1-y^2-z^2}} \arctan \frac{\sqrt{w^2+y^2+z^2}}{z' \cos t} \times \frac{A+B}{w+xi} + \mathbb{Q} (w,y,z)$$
+$$+ \frac{y' \cos \theta + \frac{y}{\sqrt{1-y^2-z^2}} \sqrt{w^2+y^2+z^2}}{y' \sin \theta - y \times \sin t} \frac{1}{d} = \frac{w-xi}{w^2+x^2} dw$$
+$$= \frac{1}{2} \log T^2 + \frac{-zi - wj + xk}{\sqrt{w^2+y^2+z^2}} \arctan \frac{\sqrt{w^2+y^2+z^2}}{y} + [fig]circular diagram with arrows[/fig] \frac{w}{w^2+x^2} dx$$
+
+$$[del]\log (w+xi) = \frac{1}{2} \log (w^2+x^2) + \arctan \frac{x}{w} \cdot \sqrt{-1}[/del]$$
+$$[del]- \arctan \frac{x}{w} \cdot \sqrt{-1}[/del]$$
+$$[del]\frac{1}{2} \log (w^2+x^2)[/del]$$
+
+$$\frac{1}{4} w + k$$

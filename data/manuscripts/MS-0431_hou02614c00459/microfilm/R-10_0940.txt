@@ -1,0 +1,26 @@
+[pn]Logic
+III
+82.[/pn]
+
+(41) If [u]x·y[/u], then either [u]x[/u] or [u]y[/u].
+(42) If [u]x·y[/u], then either [u]x[/u] or [u]y[/u].
+(43) If [u]x·y[/u], then [u]y·x[/u], etc.
+(44) If [u]x·(y·z)[/u], then [u](x·y)·z[/u], and conversely.
+
+It is less obvious that if one component [del]of an uncovered compound[/del] be partially covered by a double obelus, then an uncovered component may be introduced under the double obelus. That is to say,
+
+(45) If [u]x·y·z[/u], then [ins]necessarily[/ins] [u]x·y·z[/u].
+
+[u]Demonstration[/u].
+In (25), substituting [u]x·y[/u] for [u]x[/u] and [u]z[/u] for [u]y[/u], we find
+If [u]x·y·z[/u] then [ins]necessarily[/ins] [u]x·y[/u].
+
+But in (1) substituting [u]x·y[/u] for [u]x[/u], we find
+If [u]x·y[/u] then if [u]x·y[/u], necessarily [u]y[/u].
+
+Syllogizing these two propositions,
+If [u]x·y·z[/u], then if [u]x·y[/u], necessarily [u]y[/u].
+
+[del]But in (26) substituting [u]x·y[/u] for [u]x[/u] and [u]z[/u] for [u]y[/u] we have
+If [u]x·y·z[/u], then necessarily [u]z[/u].
+And in (27) substituting [u]y[/u] for [u]x[/u] and [u]z[/u] for [u]y[/u], we find[/del]

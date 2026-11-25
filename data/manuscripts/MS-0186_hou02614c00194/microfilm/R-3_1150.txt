@@ -1,0 +1,30 @@
+[pn]10[/pn]
+
+them, place the pile headed by the K♣ on the pile headed by the J♣;
+
+$$\begin{array}{c c}
+\text{Q}\heartsuit & \text{X}\heartsuit\text{;} \\
+\text{X}\spadesuit & 8\spadesuit\text{;} \\
+9\diamondsuit & 7\diamondsuit\text{;} \\
+8\clubsuit & 6\clubsuit\text{;} \\
+7\heartsuit & 5\heartsuit\text{;} \\
+5\spadesuit & 3\spadesuit\text{;} \\
+4\spadesuit & 2\spadesuit\text{;} \\
+3\clubsuit & 1\clubsuit\text{;} \\
+2\heartsuit & \text{K}\clubsuit\text{;} \\
+\text{O} & \text{Q}\heartsuit\text{;} \\
+4\diamondsuit & \text{X}\spadesuit\text{;} \\
+3\clubsuit & 9\diamondsuit\text{;} \\
+2\heartsuit & 8\clubsuit\text{;} \\
+\text{O} & 7\heartsuit\text{;} \\
+4\diamondsuit & 5\spadesuit\text{;} \\
+3\clubsuit & 4\spadesuit\text{;} \\
+2\heartsuit & 3\clubsuit\text{;} \\
+\text{O} & 2\heartsuit\text{.}
+\end{array}$$
+
+This restores the original order because $12 \times 31 = \text{[del]}437[/del] [ins]372[/ins]$,
+and $53$ into $372$ goes $7$ times and $1$ over; so that
+$$12 \times 31 \equiv 1 \pmod{53}\text{;}$$
+that is, the two dealings are equivalent to multiplying
+by $1$; that is, they leave the cards in their original order.

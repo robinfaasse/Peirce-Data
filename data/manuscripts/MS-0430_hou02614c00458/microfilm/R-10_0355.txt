@@ -1,0 +1,23 @@
+[pn]Logic
+III.
+53
+X[/pn]
+
+— that is the formula of identity, involved in the meaning
+of $\underline{\curlyeq}$. Then the second clause becomes
+If $r \underline{\curlyeq} s$ and $r \underline{\curlyeq} t$, then $r \underline{\curlyeq} t \underline{\curlyeq} s$
+Since then, we assume $r \underline{\curlyeq} s$, it follows that $r \underline{\curlyeq} t \underline{\curlyeq} s$. The
+fourth clause becomes
+Either there is some term, [ins] $t$ [/ins] such that $t \underline{\curlyeq} r$ and $t \underline{\curlyeq} s$ are true
+but $t \underline{\curlyeq} r$ is not true, or $r \underline{\curlyeq} s \underline{\curlyeq} r$.
+There evidently can be no term such that $t \underline{\curlyeq} r$ is both
+true and not true; hence $r \underline{\curlyeq} s \underline{\curlyeq} r$. Since then both
+$r \underline{\curlyeq} r \underline{\curlyeq} s$ and $r \underline{\curlyeq} s \underline{\curlyeq} r$, we have, by the definition of $\underline{\curlyeq}$,
+$r \underline{\overline{\curlyeq}} r \underline{\curlyeq} s$ as a consequence of $r \underline{\curlyeq} s$. On the other hand, [del]by[/del]
+substituting the same letters for $x, y, z$, the first [del]and third[/del]
+clauses of the definition of $y \underline{\curlyeq} z$ becomes
+If $r \underline{\curlyeq} r \underline{\curlyeq} s$, then $r \underline{\curlyeq} r$ and $r \underline{\curlyeq} s$.
+If $r \underline{\curlyeq} r \underline{\curlyeq} r$, then of whatever term it is [del]true[/del] [ins] [u]more[/u] [/ins] [del]that[/del]
+[del]$t \underline{\curlyeq} r$ and $t \underline{\curlyeq} s$, it is true that $t$[/del]
+But if $r \underline{\overline{\curlyeq}} r \underline{\curlyeq} s$, it follows by the definition of $\underline{\overline{\curlyeq}}$ that
+$r \underline{\curlyeq} r \underline{\curlyeq} s$ and hence that $r \underline{\curlyeq} s$. We have thus proved that

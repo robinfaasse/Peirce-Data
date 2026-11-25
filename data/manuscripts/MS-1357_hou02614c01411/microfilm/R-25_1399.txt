@@ -1,0 +1,28 @@
+[pn]21[/pn]
+
+[u]Report on Live Loads[/u]
+
+succeed, and might not. If it is valid for the complicated
+problem to which Melan applies it, it ought to be so for
+the present relatively very simple one, which is substan-
+tially that of the effect of a live load upon a single sus-
+pender of an unstiffened suspension-bridge. For the
+[del]only difference[/del] theory of the effects of a live load upon
+a structure already strained is precisely that of the effects
+of the same load upon another structure which, [ins]when[/ins] unstrained,
+has the same form that the first has when strained, with
+certain practically negligible changes in the [del]coefficients[/del] [ins]moduli[/ins]
+[del]of elasticities of the[/del] [ins]different elasticities[/ins] concerned. Let us then apply Melan's prin-
+ciple of computation to [del]an actual[/del] [ins]a[/ins] numerical case under the
+present problem, in order to see how it will work.
+
+For this purpose we have to obtain an expression for
+the moment of the horizontal pull when [math]\Delta = 0[/math]. This will be
+equal to [math]-\frac{\partial y_{1}}{\partial x_{2}}[/math] when [math]y_{2}[/math], [math]R_{0}[/math], and [math]R_{1}[/math] are constant. We may as
+well form the expression for [math]x_{1}[/math] and [math]y_{1}[/math] in terms of [math]x_{2}[/math], [math]y_{2}[/math], [math]R_{0}[/math], [math]R_{1}[/math].
+Of course [math]x_{0} = y_{0} = 0[/math] by the choice of [math]O[/math] as the origin. We have,
+then,
+(8) [u][math]x_{1}[/math][/u] + [u][math]y_{1}[/math][/u] = [u][math]R_{0}[/math][/u]
+(9) [u][math]x_{2} - x_{1}[/math][/u] + [u][math]y_{1} - y_{2}[/math][/u] = [u][math]R_{1}[/math][/u].
+These equations furnish the linear equation
+(10) [u][math]x_{2}[/math][/u] [math]- 2 x_{2} \cdot x_{1}[/math] + [u][math]y_{2}[/math][/u] [math]- 2 y_{2} \cdot y_{1}[/math] = [u][math]R_{1}[/math][/u] - [u][math]R_{0}[/math][/u].

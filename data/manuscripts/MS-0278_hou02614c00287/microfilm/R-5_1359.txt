@@ -1,0 +1,49 @@
+[pn]1[/pn]
+
+Fermat's theorem means
+
+[del]any odd number is 1 more than an even number[/del]
+[del]any number not divisible by 3 is 1 more[/del]
+[del]any number [ins]not[/ins] divisible by 3 leaves 1 on divi[/del]
+
+The square of any odd number leaves a remainder 1
+
+[del]The square of any odd number[/del] [ins]by 8[/ins]
+
+[del]The square of any number not divisible by 3 is 1 more than[/del]
+
+[fig]Table of numbers and words in columns[/fig]
+
+[u]B - 1[/u]
+
+[del]Either[/del] [ins]2[/ins] [del]Either[/del] B - 1 or B + 1 = np + B - 1
+
+[del]Either[/del] [ins]3[/ins] [del]Either[/del] B² - B + 1 or B² = np + B
+
+[del]Either[/del] [ins]4[/ins] [del]Either[/del] (B - 1)² or B² - B = np
+
+[del]By Fermat[/del] [del]Either[/del] [ins]5[/ins] [del]Either[/del] (B - 1)³ or (B² - 1) B = np
+
+[del]with[/del] [ins]6[/ins] (B - 1)⁴ or (B³ - 1) B = np
+
+B⁴ - 1 = np
+
+2⁴ - 1 = 15
+
+[del]Either[/del] [ins]p[/ins] [del]Either[/del] [u]B^p - B[/u] or [u]B^(p-1) - 1[/u] = np
+(B - 1)^p B
+
+[del]Either[/del] [ins]p[/ins] [del]Either[/del] (B - 1)^p or (B^(p-1) - 1) B = np
+
+[del]p[/del] [ins]p[/ins] 2 (1) 3 (4) 4 (9) 5
+
+[del]2[/del] [del]1[/del] 2 3 6 N A B
+[del]3[/del] [del]2[/del] 8 24 K N 60
+
+p
+2
+3
+5
+7
+11
+13

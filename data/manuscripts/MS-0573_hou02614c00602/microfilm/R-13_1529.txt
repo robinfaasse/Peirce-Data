@@ -1,0 +1,24 @@
+as stated above, either x < y or y < z,
+substituting z for x, x for y, and y for z, either x < y or y < x.
+Hence, either x < y or both y < z and z < x.
+In like manner, either y < x or both z < y and x < z.
+Hence, either both x < y and y < x, (when x = y), or
+both y < z and z < x or both z < y and x < z.
+Call this proposition P. Again by rule 2, substi-
+tuting y for x, z for y, and x for z, either
+y < z or z < x. Hence, by P, either x = y or
+both y < z and z < x or both z < y and y < z
+(when y = z) or both x < z and z < x (when x = z).
+[marginalia]Call this proposition Q.[/marginalia]
+Again by rule 2, substituting z for y and y for z,
+either x < z or z < y. Then, by Q, either x = y
+or y = z or x = z or both y < z and z < y (when
+again y = z), or both z < x and x < z (when
+again z = x). So that, finally, either x = y or
+y = z or z = x. Q.E.D.
+
+Let us now call the true point on our
+scale t, and the false point f. To fix the
+ideas, we may take any two numbers
+arbitrarily for t and f, though it will
+be convenient to make t the larger. You

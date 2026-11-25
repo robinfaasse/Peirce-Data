@@ -1,0 +1,12 @@
+[pn]88 1/2[/pn]
+[pn]357[/pn]
+
+But then, omitting components, ([u]a[/u] [u]x[/u] + [u]b[/u] [u]x[/u] + [u]c[/u] [u]x[/u] + etc)
+([u]x[/u] + [u]x[/u] + [u]x[/u] + etc) will also be [u]v[/u]. But, then, ([u]a[/u]'[u]x[/u] + [u]b[/u]'[u]x[/u] + [u]c[/u]'[u]x[/u] + etc)'[u]x[/u]
+will be [u]v[/u]. For if ([u]a[/u] [u]x[/u] + [u]b[/u] [u]x[/u] + [u]c[/u] [u]x[/u] + etc)'([u]a[/u] [u]x[/u] + [u]b[/u] [u]x[/u] + [u]c[/u] [u]x[/u] + etc) is
+[u]v[/u], then by the second clause of the definition of composition,
+[u]a[/u] [u]x[/u] + [u]b[/u] [u]x[/u] + [u]c[/u] [u]x[/u] + etc is [u]v[/u]; and then by the third clause of the
+definition of aggregation, either [u]a[/u]'[u]x[/u] or [u]b[/u]'[u]x[/u] or [u]c[/u]'[u]x[/u] etc. is
+[u]v[/u]; and then, by the second clause of the definition of composi-
+tion, [u]x[/u] is [u]v[/u]; and then, since by the first clause of the defin-
+of composition, - - - - - - - - - - - - - - - - - - - - - - - -

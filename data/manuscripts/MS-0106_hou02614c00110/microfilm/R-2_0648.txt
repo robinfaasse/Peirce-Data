@@ -1,0 +1,15 @@
+$$\frac{s}{s+x_1} + \frac{q}{s^2} \frac{(x_1-b)}{(s+x_1)^2} + \frac{q}{s^2} \frac{(x_1-b)}{(s+x_1)^2 \cdot q-x_1} =$$
+
+$$\frac{sq(s+q) + (s+q)(s-q)x_1 - (s+q)x_1^2}{x(s+x_1)^2(q-x_1)}$$
+
+$$\frac{s^2q + sx_1^2 - qx_1^2 + [del]x_1^2[/del] + sq^2 - sx_1^2 - q^2x_1}{(s+x_1)^2(q-x_1)}$$
+
+$$\frac{(s^2-x_1^2)(q+x_1) + (s^2-x_1^2)(q^2-x_1)}{(s+x_1)^2(q-x_1)}$$
+
+$$- \left\{ (s+x_1)^2 - (s-x_1)^2 \right\} \left( 3q^2x_1 + x_1^3 \right)$$
+
+$$\left\{ (s-x_1)^2 + (s+x_1)^2 \right\} \left( q^3 + 3x_1q \right)$$
+
+$$\left( s-x_1 \right)^2 \left( q+x_1 \right)^3 + \left( s+x_1 \right)^2 \left( q-x_1 \right)^3$$
+
+[fig]Three curved lines pointing downwards[/fig]

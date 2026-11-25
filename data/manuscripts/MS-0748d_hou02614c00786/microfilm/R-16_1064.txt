@@ -1,0 +1,7 @@
+$$(y-v)A' + (z-v)B' = 0$$
+
+from these two $y$ can be eliminated, giving
+
+$$(x-v)AA' - (z-v)BB' = 0$$
+
+which has the interpretation "If $X$ is true $Y$ is true"

@@ -1,0 +1,17 @@
+Five points $x, y, z, u, v$
+
+Each point on 4 lines, each containing 2 points, making 10 lines in all
+$x, y$
+$x, z \quad y, z$
+$x, u \quad y, u \quad z, u$
+$x, v \quad y, v \quad z, v \quad u, v$
+
+Each point on 6 planes, each containing 3 points, making 10 planes in all
+
+Each of the 10 lines intersects 3 others at each of the 2 points on it, so that each intersects 6 lines in all and non-intersects 3
+
+[fig]Geometric diagram with labeled vertices[/fig] [fig]Hexagram star diagram[/fig]
+
+[fig]Y-shaped geometric diagram with labels[/fig]
+
+[fig]Geometric diagram with labeled vertices[/fig] [fig]Scatter plot of points[/fig]

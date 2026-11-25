@@ -1,0 +1,33 @@
+[pn]64[/pn]
+
+[u]x[/u] X [u]y[/u]	[u]x < y < x < y[/u]	[u]x > y > x > y[/u]	[u]xvy v xvy[/u]	[u]x ∧ y ∧ x ∧ y[/u]
+
+[u]x[/u] [fig]gamma[/fig] [u]y[/u]	[u]x < y[/u]	[u]x > y[/u]	[u]x v y[/u]	[u]x ∧ y[/u]
+
+[u]x[/u] [fig]loop[/fig] [u]y[/u]	[u]x < y[/u]	[u]x > y[/u]	[u]x v y[/u]	[u]x ∧ y[/u]
+
+[u]x[/u] ≺ [u]y[/u]	[u]x < y[/u]	[u]x > y[/u]	[u]x v y[/u]	[u]x ∧ y[/u]
+
+[u]x[/u] ≀ [u]y[/u]	[u]x < y[/u]	[u]x > y[/u]	[u]x v y[/u]	[u]x ∧ y[/u]
+
+[u]x[/u] ⊳ [u]y[/u]	[u]x < x < y[/u]	[u]x > x > y[/u]	[u]x v x v y[/u]	[u]x ∧ x ∧ y[/u]
+
+[u]x[/u] ⋈ [u]y[/u]	[u]x < y < y[/u]	[u]x > y > y[/u]	[u]x v y v y[/u]	[u]x ∧ y ∧ y[/u]
+
+[u]x[/u] ⋈ [u]y[/u]	[u]x < y < x < y[/u]	[u]x > y > x > y[/u]	[u]x v y v x v y[/u]	[u]x ∧ y ∧ x ∧ y[/u]
+
+[u]x[/u] [fig]symbol[/fig] [u]y[/u]	[u]x < y < x < y[/u]	[u]x > y > x > y[/u]	[u]x v y v x v y[/u]	[u]x ∧ y ∧ x ∧ y[/u]
+
+[u]x[/u] [fig]symbol[/fig] [u]y[/u]	[u]x < y < y[/u]	[u]x > y > y[/u]	[u]x v x v y[/u]	[u]x ∧ y ∧ y[/u]
+
+[u]x[/u] ⊲ [u]y[/u]	[u]x < x < y[/u]	[u]x > x > y[/u]	[u]x v x v y[/u]	[u]x ∧ x ∧ y[/u]
+
+[u]x[/u] < [u]y[/u]		[u]x > y[/u]	[u]x v y[/u]	[u]x ∧ y[/u]
+
+[u]x[/u] > [u]y[/u]	[u]x < y[/u]		[u]x v y[/u]	[u]x ∧ y[/u]
+
+[u]x[/u] v [u]y[/u]	[u]x < y[/u]	[u]x > y[/u]		[u]x ∧ y[/u]
+
+[u]x[/u] ∧ [u]y[/u]	[u]x < y[/u]	[u]x > y[/u]	[u]x v y[/u]
+
+[u]x[/u] [fig]diamond[/fig] [u]y[/u]	[u]x < y < x < y[/u]	[u]x > y > x > y[/u]	[u]x v y v x v y[/u]	[u]x ∧ y ∧ x ∧ y[/u]

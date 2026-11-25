@@ -1,0 +1,28 @@
+[pn]§247. 104.[/pn] [pn]29[/pn]
+
+[del]But[/del] Let us enclose the description of a class in square
+brackets to denote the number of individuals in it. Then
+the premises of the above may be arithmetically stated
+thus:
+$$[x \cdot y] > 0$$
+$$[x] \leqq [y \cdot \bar{z}]$$
+
+Developing the last, we get
+$$[x \cdot y \cdot z] + [x \cdot y \cdot \bar{z}] + [x \cdot \bar{y} \cdot z] + [x \cdot \bar{y} \cdot \bar{z}] \leqq [x \cdot y \cdot \bar{z}] + [\bar{x} \cdot y \cdot \bar{z}]$$
+
+Cancelling $[x \cdot y \cdot \bar{z}]$, we have
+$$[x \cdot y \cdot z] + [x \cdot \bar{y} \cdot z] + [x \cdot \bar{y} \cdot \bar{z}] \leqq [\bar{x} \cdot y \cdot \bar{z}]$$
+Developing the first premise
+$$[x \cdot y \cdot z] + [x \cdot y \cdot \bar{z}] > 0$$
+If this follows, not only that
+$$[\bar{x} \cdot \bar{z}] > 0$$
+but also even that, throwing aside Ys, there are more
+non Xs not Zs than there are of Xs that are Zs.
+But the [del]proposition[/del] fallacy lies in assuming the [del]ridicu-[/del]
+[del]lous[/del] proposition that [ins][u]every[/u][/ins] [del]a[/del] part is [u]less than its whole[/u].
+[ins]Simple Simon[/ins]
+[del]True[/del] That is, because the odd squares are no [del]fewer[/del] [ins]super-[/ins] [ins]fewer[/ins] than
+all the odd numbers, we quietly reason as if they
+were more than a part of odd numbers; so that
+after taking away [ins]alike[/ins] from odd squares and [del]odd[/del] [ins]from[/ins] [ins]odd[/ins] numbers
+[del]those not primes[/del] the odd [ins]uneven[/ins] primes, we should

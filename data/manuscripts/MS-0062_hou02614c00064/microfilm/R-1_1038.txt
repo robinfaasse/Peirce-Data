@@ -1,0 +1,65 @@
+[marginalia]
+[del]1st Approx.[/del]
+[ins]2nd Approx.[/ins] [del]+ .01[/del]
+[ins]+ .01[/ins]
+[/marginalia]
+
+. 0 0 1 1 0 0 1 1 0 0 1 1 0 0 1 1 0 0 1 1 0 0 1 1 0 0 1 1 0 0 [del]1 1 0 0[/del]
+
+[marginalia]
+[del]10[/del] -
+[del]0 1[/del]
+[u]1 0 1 1[/u]
+
+0 1
+[del]1 0[/del]
+[u][del]1 0 1[/del][/u]
+1 1 0 1
+
+0 1 1 -
+[u]1 0 1[/u]
+[/marginalia]
+
+. 1 1 1 0 0 0 1 0 0 0 0 0 -
+[fig]curved line connecting digits[/fig] . 1 1 0 1 0 1 0 1 .
+[fig]curved line connecting digits[/fig] . 0 0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 0 -
+[fig]curved line connecting digits[/fig] . 0 0 1 0 0 0 0 0 0 0 1
+[fig]curved line connecting digits[/fig] . 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 -
+[fig]curved line connecting digits[/fig] . 0 0 1 1 0 0 0 0 0 0 1
+[fig]curved line connecting digits[/fig] . 0 0 0 0 0 1 1 1 0 0 0 1 0 0 0 0 0 -
+[fig]curved line connecting digits[/fig] . 0 1 1 1 0 0 1 1 0 0 1 1
+[fig]curved line connecting digits[/fig] . 0 0 0 0 0 1 1 1 1 0 0 0 1 0 0 0 0 0 -
+[fig]curved line connecting digits[/fig] . 1 1 0 1 0 0 0 1 0 0 1 1 1 1
+[fig]curved line connecting digits[/fig] . 0 0 0 0 0 1 1 1 1 1 0 0 0 1 0 0 0 0 0 -
+[fig]curved line connecting digits[/fig] . 1 1 1 1 0 0 0 0 0 0 1 1 1 1
+[fig]curved line connecting digits[/fig] . 0 0 0 0 0 1 1 1 1 1 1 0 0 0 1 0 0 0 0 0 -
+[fig]curved line connecting digits[/fig] . 1 0 1 1 1 0 0 1 1 0 1 1 1 1
+[fig]curved line connecting digits[/fig] . 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 1 0 0 0 0 0 -
+[fig]curved line connecting digits[/fig] . 1 1 0 1 1 0 1 0 1 1 0 1 1 1 1
+[fig]curved line connecting digits[/fig] . 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 1 0 0 0 0 0 -
+[fig]curved line connecting digits[/fig] . 1 1 1 0 1 0 1 1 0 1 1 1 1 1
+[fig]curved line connecting digits[/fig] . 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 1 0 0 0 0 0 -
+[fig]curved line connecting digits[/fig] . 1 0 1 1 1 0 0 1 1 1 0 1
+[fig]curved line connecting digits[/fig] . 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 1 0 0 0 0 0 -
+[fig]curved line connecting digits[/fig] . 1 1 0 1 1 0 1 1 0 1 1
+[fig]curved line connecting digits[/fig] . 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 0 0 1 -
+[fig]curved line connecting digits[/fig] . 1 0 0 0 1 0 0 1 1 1 0 1
+[fig]curved line connecting digits[/fig] . 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 0 0 1 -
+[fig]curved line connecting digits[/fig] . 1 1 0 0 0 0 1 1 0 1 1
+[fig]curved line connecting digits[/fig] . 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 0 0 1 -
+[fig]curved line connecting digits[/fig] . 1 1 1 0 1 1 0 1 1
+[fig]curved line connecting digits[/fig] . 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 0 0 0 1 -
+[fig]curved line connecting digits[/fig] . 1 1 1 0 1 1 0 1 1 1 0 1 1 0 1 1
+
+[marginalia]
+[fig]vertical line with numbers[/fig]
+1
+0
+0
+0
+0
+0
+1
+[/marginalia]
+
+. 1 0 1 1 1 1 0 1 1 1 0 1 1 0 1 1 0 0 0 1 1 1 1 0 0 0 1 1 [fig]curved line connecting digits[/fig]

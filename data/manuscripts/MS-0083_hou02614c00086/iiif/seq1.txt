@@ -1,0 +1,75 @@
+In the same way then any other substitution neither
+a b nor an [ins]s[/ins][del]sub[/del][ins]S[/ins] s[ins]j[/ins]n [ins]or any s[/ins] S[sub]m[/sub] will give S[sub]2[/sub]b[sub]n[/sub] different from S[sub]2[/sub]b[sub]n[/sub]
+and from so with each one and so it will be
+with every one. And S[sub]1[/sub]b[sub]m[/sub] cannot be = S[sub]2[/sub]b[sub]n[/sub]
+for then S[sub]2[/sub][sup]-1[/sup]S[sub]1[/sub] = [del]b[sub]n[/sub]b[sub]m[/sub][sup]-1[/sup][/del] S[sub]2[/sub] = S[sub]1[/sub]b[sub]m[/sub]b[sub]n[/sub][sup]-1[/sup] and S[sub]2[/sub] would
+be one of the S[sub]1[/sub]b's. And thus all the [del]substitutions[/del]
+will be      b b[sub]1[/sub] b[sub]2[/sub] ~ ~ b[sub]n[/sub] those of B
+          •  S[sub]1[/sub] S[sub]1[/sub]b[sub]1[/sub] S[sub]1[/sub]b[sub]2[/sub] ~ S[sub]1[/sub]b[sub]n[/sub]
+             S[sub]2[/sub] S[sub]2[/sub]b[sub]1[/sub] S[sub]2[/sub]b[sub]2[/sub] ~ S[sub]2[/sub]b[sub]n-1[/sub]
+                  etc
+or [del]in all[/del] the order of G will be a multiple
+of that of B. Hence the order of every group
+of degree k is a divisor of k!
+    What is true of the [del]wording[/del] of Lagrange's Theorem
+is much more so of Cauchy's, which is that [del]Every
+group whose order a p[/del] In every group there is a substi-
+tution of [del]whose[/del] [ins]whose[/ins] order is a prime factor of [del]the[/del] [ins]it[/ins]. Every prime
+factor of the order of any group is the order of some
+substitution of [del]that[/del] group. Considering that every
+group is a natural growth out of an initially substitu-
+tion or collection of substitutions, this is not astonishing,
+particularly since [ins]what is called[/ins] the order of a substitution is
+really nothing [del]but to[/del] [ins]but the[/ins] order of the group which grows
+out of that substitution. Nevertheless it is a genuine
+Theorem, and more Corollary, such as Lagrange's. Con-
+sider, for example, the group that grows out of the substi-
+tution for abcde of edabc. This substitution being
+repeated until it reproduces the original arrange-
+ment is abcde and is seen to consist of
+          edabc   (ace)(bd) ←
+          cbeda   (cae)(b)(d) Its order is 6 and
+          adcbe   (a)(c)(e)(bd) both (ace)(b)(d)
+          ebadc   (eac)(b)(d) and (ace)(b)(d) are
+          cdeba   (cae)(bd) substitutions of order 3
+          abcde   (a)(b)(c)(d)(e) (ca)(c)(e)(db) of order 2,
+                                     which it also contains
+
+If a series of five letters are to be so transposed that no one
+letter remains in the same place they must be transposed 3 in one
+cycle and 2 in another or all in one cycle of 5, when the
+order of the group will be five instead of six. We may, how-
+ever, form a compound group in which one substitu-
+tion consists of a cycle of 3 and a cycle of 2 and ano-
+ther of a cycle of 5. This must give a group of order 5 x 6
+= 30, one might think, thus:
+abcde  bcdea  cdeab  deabc  eabcd
+bcade  caedb  aedbc  edbca  dbcae
+cabde  abdca  bdeca  decab  ecabd
+abced  bceda  cedab  edabc  dabce
+bcade  cadeb  adebc  debca  ebcad
+cabed  abedc  bedca  edcab  dcabc
+This, however, is not a complete group. For, taking
+the third arrangement in the second column
+and comparing this with the initial arrangement, it
+has undergone the substitution (a)(b)(edc) that is
+a has been replaced by d, d by e, and e by a. Then there
+ought to be a repetition of this, giving the arrangement
+abcdb But this does not occur. So the second in the
+same column has undergone the substitution (cabe)d
+which being applied twice more should give ecbda
+and bcade, neither of which occur. For a group
+is [del]necessarily[/del] [ins]not essentially[/ins] a complete system of arrangements but
+of substitutions. The thirty substitutions that in
+the 30 arrangements act on the arrangement abcde
+are as follows:      [ins]pentagon[/ins] [ins]star[/ins] [ins]star[/ins]
+Order
+1 (a)(b)(c)(d)(e) 5(aedcb) 5(adbec) 5(acebd) 5(abcde)
+6 (acb)(de) 4(abec)(d) 4(a)(bdce) 6(ae)(bcd) 2(ad)(b)(c)(e)
+3(abc)(d)(e) 3(a)(b)(ced) 5(aecdb) 2(ad)(be)(c) 5(abcde)
+2(a)(b)(c)(de) 4(aecb)(d) 6(adc)(be) 6(ace)(bd) 4(abcd)(e)
+3(acb)(d)(e) 5(abedc) 2(a)(b)(ce) 5(aebid) 3(ade)(b)(e)
+6(abc)(de) 2(a)(b)(ce)(d) 4(aeb)(cd) 4(adbe)(e) 4(acbd)(e)
+How very irregular they now look! Eight of these arrangements are effects
+of cycles of 5, and it is curious to see of what sort these are.
+But I will give a Table of them:

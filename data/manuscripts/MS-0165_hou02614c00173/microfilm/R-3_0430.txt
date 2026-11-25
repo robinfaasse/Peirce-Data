@@ -1,0 +1,29 @@
+[pn]183[/pn]
+
+But if Z is joined to A, D and P are separated by
+the opposites K and X.
+
+[u]Theorem 40[/u]. [u]The[/u] [u]rational[/u] [u]numbers[/u] [u]in[/u] [u]the[/u] [u]order[/u] [u]of[/u]
+[u]their[/u] [u]values[/u] [u]form[/u] [u]a[/u] [u]ring[/u].
+
+[u]Demonstration[/u]. For take any four rational numbers,
+A, B, C, D, such that A < B < C < D. Then, I say that
+AC and BD are pairs of opposites. That is, D can pass in
+the order of values to either [del]A[/del] or [del]C[/del] [ins]the other nor[/ins] without passing through B,
+[del]but cannot pass to B[/del]
+[del]and B can pass to[/del] without passing either A or C, and B
+can pass to A or C without passing through the other nor
+through D. But A cannot pass to C with passing either
+through B or D.
+
+Form the anharmonic ratio
+[u]a[/u] = [fraction]\frac{D - C}{D - B}[/fraction] · [fraction]\frac{B - A}{C - A}[/fraction].
+This is positive; for D - C, D - B, B - A, and C - A are all positive.
+It is also less that 1. For D - C < D - B and B - A < C - A. Multiply
+the equation by (D - B)(C - A). This gives
+[u]a[/u] D(C - A) - [u]a[/u] B(C - A) = D(B - A) - C(B - A).
+Add [u]a[/u] B(C - A) - D(B - A), This gives
+D[[u]a[/u] (C - A) - (B - A)] = [u]a[/u] B(C - A) - C(B - A).
+Dividing by [u]a[/u] (C - A) - (B - A), we get
+D = [fraction]\frac{[u]a[/u] B(C - A) - C(B - A)}{[u]a[/u] (C - A) - (B - A)}[/fraction].
+Let A, B, C be fixed; but let D vary [del]as [u]a[/u][/del] [ins]while[/ins] [u]a[/u] varies. Let [u]a[/u]

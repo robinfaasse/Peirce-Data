@@ -1,0 +1,15 @@
+[pn]17[/pn]
+
+[fig]Tic-tac-toe board with numbers and symbols[/fig] The first player [del]then[/del] [ins]is[/ins] obliged to occupy the opposite side square, and the second player has [ins]his choice of[/ins] 4 plays, as numbered, making cases 21311, 21312, 21313, 21314.
+
+Case 21311. The second player occupies the vacant side square adjoining the first player's corner. The first player [fig]Tic-tac-toe board with X and O[/fig] makes tit-tat-too by occupying the corner opposite that already taken.
+
+Case 21312. The second player occupies the corner [fig]Tic-tac-toe board with X and O[/fig] adjoining a vacant side square. The first player is obliged to occupy the opposite corner. The second player is obliged to occupy the fourth corner. There is no tit-tat-too.
+
+Case 21313. The second player occupies the corner adjoining [fig]Tic-tac-toe board with X and O[/fig] his own side square. The first player occupies the opposite corner and makes tit-tat-too.
+
+Case 21314. The second player occupies the corner opposite the first player's corner. There is no tit-tat-too. [fig]Tic-tac-toe board with X and O[/fig] [ins]This exhausts case 2131.[/ins]
+
+Case 2132. The second player occupies the corner adjoining the first player's side square but [fig]Tic-tac-toe board with X and O[/fig] not opposite his corner. The first player is obliged to occupy the opposite corner. The second player is obliged to occupy the side square between the first player's two corners. There is no tit-tat-too.
+
+Case 2133. The second player occupies the side square opposite the one occupied. The first player makes tit-tat-too.

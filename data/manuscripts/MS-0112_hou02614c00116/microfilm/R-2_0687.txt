@@ -1,0 +1,34 @@
+$$e-e^2$$
+
+$$\begin{matrix}
+1 & -1-e & e \\
+1+e & e & -1 \\
+e & 1 & 1+e
+\end{matrix}$$
+
+$$1(x:x - y:z + z:y) + e(x:z + y:y + z:x) + (1+e)(y:x + z:z) + [del](x:y)[/del]$$
+
+$$1(-y:y - [del]z:z[/del]) + \frac{e}{e}(x:z - y:x + z:y) + (1+e)([del]-y:z[/del] + z:x) + (1-e)(x:y)$$
+[marginalia]$$x:z + y:y$$[/marginalia]
+[marginalia]$$e(x:y - y:z + z:x)$$[/marginalia]
+[marginalia]$$-(1-e)\begin{pmatrix}x:x \\ +y:y \\ +z:z\end{pmatrix}$$[/marginalia]
+
+$$1(x:x - y:y - z:z) + e(x:z - y:x + z:y) + [del](x:y)[/del]$$
+$$x:x - y:y - z:z \qquad + e(x:z - y:x + z:y)$$
+$$-x:y$$
+
+[fig]Grid diagram with plus and minus signs[/fig] [fig]Grid diagram with plus and minus signs[/fig] $$\begin{matrix} 1 \\ -2-e \\ 1-e \end{matrix}$$
+
+$$\begin{matrix}
+\frac{1}{2}(-1-e) & -1 & 1+e \\
+1 & \frac{1}{2}(-3-e) & -e \\
+1+e & e & \frac{1}{2}(1+e)
+\end{matrix}$$
+
+[fig]Grid diagram with plus and minus signs[/fig] [fig]Grid diagram with plus and minus signs[/fig]
+
+$$\begin{matrix}
+-e & -1 & 1+e \\
+1 & -1-e & -e \\
+1+e & e & 1
+\end{matrix}$$

@@ -1,0 +1,53 @@
+[del]x + y + z = 1[/del]
+[del]x + k[/del] [del]y + k[/del] [del]z + k[/del]
+[del]x + k[/del] [ins]k + 2y = 1[/ins]
+[ins]y = [frac]1-k[/frac]/2[/ins]
+
+[fig]Circle with inscribed triangle and intersecting lines[/fig]
+
+[frac]1[/frac]/[del]x[/del] + [frac]1[/frac]/[del]y[/del] + [frac]1[/frac]/[del]z[/del] = 0
+[frac]1[/frac]/x + [frac]1[/frac]/[del]1-k[/del]/2 + [frac]1[/frac]/[del]y[/del] + [frac]1[/frac]/x+k + [frac]1[/frac]/y+k + [frac]1[/frac]/z+k = 0
+z = -k - [frac]1[/frac]/[frac]1[/frac]/x+k + [frac]1[/frac]/y+k
+
+A = (1+2k)X - kY - kZ
+[del]B = [alpha] X + [beta] Y - (k + [frac]1[/frac]/[frac]1[/frac]/[alpha]+k + [frac]1[/frac]/[beta]+k)[/del]
+B = ([frac]p_1 + \sqrt{p_1^2 - [frac]4p_1[/frac]/1+3k+[frac]1[/frac]/p_1}[/frac]/2)X + ([frac]p_1 - \sqrt{p_1^2 - [frac]4p_1[/frac]/1+3k+[frac]1[/frac]/p_1}[/frac]/2)Y + (1-p_1)Z
+
+C = ([frac]p_2 + \sqrt{p_2^2}[/frac]/2)X + [frac]p_2 - \sqrt{}[/frac]/2 Y + (1-p_2)Z
+
+D = ([frac]p_3 + \sqrt{}[/frac]/2)X + [frac]p_3 - \sqrt{}[/frac]/2 Y + (1-p_3)Z
+
+[fig]Small diagram with horizontal line and arc[/fig]
+
+[frac]1[/frac]/x+k + [frac]1[/frac]/y+k + [frac]1[/frac]/1-x-y+k = 0
+(x+k)(y+k) + (y+k)(1+k-x-y) + (x+k)(1+k-x-y) = 0
+[del]= xy + kx + ky[/del]
+[del](x+k)y[/del]
+[del]x+k[/del]
+-y^2 + (1+2k-x)y + [del](x+k)k[/del] (1+2k-x) + k(1+k-x)
+x+2kx - x^2 + k+2k^2 + k + k^2
+[del]= kx[/del]
+[del]= kx[/del]
+x - x^2 + 2k + 3k^2
+
+[frac]p[/frac]/1+3k+[frac]1[/frac]/p = [xi][eta]
+[frac][xi]+[eta][/frac]/1+3k+[frac]1[/frac]/[xi]+[eta] = [xi][eta] \sqrt{p^2 - [frac]4p[/frac]/1+3k+[frac]1[/frac]/p}
+[frac]1[/frac]/2 p + [frac]1[/frac]/2
+
+[frac]([xi]+[eta])[/frac]/[xi][eta] - [frac]1[/frac]/[xi]+[eta] = 1+3k
+[frac]1[/frac]/[xi] + [frac]1[/frac]/[eta] - [frac]1[/frac]/[xi]+[eta] = 1+3k - [frac]1[/frac]/[xi]
+[del][frac]1[/frac]/[xi] + [frac]1[/frac]/[eta] - [frac]1[/frac]/[xi]+[eta] = [frac]1[/frac]/[eta] - [frac]1[/frac]/[xi]+[eta][/del]
+
+[frac]1[/frac]/[xi] + [frac]1[/frac]/[eta] = 1+3k + [frac]1[/frac]/[xi]+[eta]
+[eta]([xi]+[eta]) = [frac][xi][/frac]/1+3k-[frac]1[/frac]/[xi]
+[eta]^2 + [xi][eta] + [frac]1[/frac]/4 [xi]^2 = [frac](1+3k)[xi]^2 + [frac]3[/frac]/4 [xi]^2[/frac]/1+3k-[frac]1[/frac]/[xi]
+[del][frac][xi]+[eta][/frac]/[xi]([xi]+[eta])[/del]
+([xi]+[eta])^2 = (1+3k)([xi]+[eta])[xi][eta] + [xi][eta]
+[frac]1[/frac]/[xi] + [frac]1[/frac]/[eta] - [frac]1[/frac]/[xi]+[eta] = [frac]([xi]+[eta])^2 - [xi][eta][/frac]/[xi][eta]([xi]+[eta]) = (1+3k)
+
+[frac]y+k[/frac]/x+k = [omega]
+([omega]+1)^2 = [frac](1+3k)[/frac]/x+k ([omega]+1)
+
+x + y = 1 + k + [frac]1[/frac]/[frac]1[/frac]/x+k + [frac]1[/frac]/y+k
+(x+k) + (y+k) = 1+3k - [frac](x+k)(y+k)[/frac]/x+y+2k
+[(x+k) + (y+k)]^2 = (1+3k)[(x+k) + (y+k)] + (x+k)(y+k)

@@ -1,0 +1,15 @@
+[pn]Logic
+III
+83[/pn]
+
+If $y$, then if $z$, necessarily $y \cdot z$.
+Consequently, by the last three propositions,
+If $x \cdot \overline{y \cdot z}$, then of $x \cdot \overline{y}$, necessarily $y \cdot \overline{z}$.
+But in (27) substituting $\overline{y}$ for $y$ we find
+If $x$ [del]then[/del] [ins]is[/ins] if $\overline{y}$, necessarily $x \cdot \overline{y}$;
+so that
+If $x \cdot \overline{y \cdot z}$, then if $z$, necessarily, if $\overline{y}$, then $y \cdot \overline{z}$
+But by in (2) substituting a false proposition for $z$ and $y$ for $x$,
+Either $y$ or $\overline{y}$.
+Hence,
+If $x \cdot \overline{y \cdot z}$, then if $z$, either $y$ or $y \cdot \overline{z}$

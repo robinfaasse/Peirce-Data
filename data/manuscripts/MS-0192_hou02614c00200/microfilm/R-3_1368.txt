@@ -1,0 +1,29 @@
+[u]Art. 4.[/u] The exponential function of 1 as variable is called the Naperian base, and is by most mathematicians denoted by [u]e[/u] but by scholars of Benjamin Peirce by [u]in[/u]. That is, if [u]t[/u] is a positive integer
+[u]in[/u][sup]t[/sup] = Exp t
+
+Take the product Exp z . Exp (-z)
+Exp z = 1 + z + [frac]1[/frac]/[sub]2[/sub] z[sup]2[/sup] + [frac]1[/frac]/[sub]3![/sub] z[sup]3[/sup] + [frac]1[/frac]/[sub]4![/sub] z[sup]4[/sup] + etc = [sum][sub]0[/sub][sup]∞[/sup] [frac]z[sup]r[/sup][/frac]/[sub]r![/sub]
+Exp (-z) = 1 - z + [frac]1[/frac]/[sub]2[/sub] z[sup]2[/sup] - [frac]1[/frac]/[sub]3![/sub] z[sup]3[/sup] + [frac]1[/frac]/[sub]4![/sub] z[sup]4[/sup] - etc = [sum][sub]0[/sub][sup]∞[/sup] [frac](-)[sup]r[/sup] z[sup]r[/sup][/frac]/[sub]r![/sub]
+
+Exp z . Exp (-z) = 1
++ [frac]1[/frac]/[sub]2[/sub] (1 - 2 + 1) z[sup]2[/sup]
++ [frac]1[/frac]/[sub]4![/sub] (1 - 4 + 6 - 4 + 1) z[sup]4[/sup]
++ [frac]1[/frac]/[sub]6![/sub] (1 - 6 + 15 - 20 + 15 - 6 + 1) z[sup]6[/sup]
++ etc
+
+But by the binomial theorem
+0 = (1 - 1)[sup]2[/sup] = 1 - 2 + 1
+" = (1 - 1)[sup]4[/sup] = 1 - 4 + 6 - 4 + 1
+" = (1 - 1)[sup]6[/sup] = 1 - 6 + 15 - 20 + 15 - 6 + 1
+
+Hence
+Exp (-[del]t[/del]) = [frac]1[/frac]/[sub]Exp t[/sub] = in[sup]-t[/sup]
+
+It is evident that (Exp [frac]1[/frac]/[sub]t[/sub])[sup]t[/sup] = in. Hence
+[del]Exp [frac]1[/frac]/[sub]t[/sub] = in[sup][frac]1[/frac]/[sub]t[/sub][/sup][/del]
+
+Hence, for any rational fraction
+Exp [frac]s[/frac]/[sub]t[/sub] = in[sup][frac]s[/frac]/[sub]t[/sub][/sup]
+
+For irrational values the [ins]method of[/ins] reasoning of Archimedes shows that
+Exp z = in[sup]z[/sup]

@@ -1,0 +1,19 @@
+[del]Later[/del]
+
+4, Subtract the year from A.D. 2022 and [del]subtract[/del] [ins]diminish[/ins] the difference by the next lower multiple of 929. Enter this number in the first column of the following table and take out the great inequality.
+
+| Diff years | Great inequality | No years | Great inequality |
+| :--- | :--- | :--- | :--- |
+| 0 to 22 | 0.0 | [del]487[/del] [ins]489[/ins] - 533 | -0.1 |
+| 23 " 68 | +0.1 | 534 - 588 | -0.2 |
+| 69 " 124 | +0.2 | 589 - 804 | -0.3 |
+| 125 " 340 | +0.3 | 805 - 860 | -0.2 |
+| 341 " 395 | +0.2 | 861 - 906 | -0.1 |
+| 396 " 442 | +0.1 | 907 - 928 | 0.0 |
+| 441 " 486 | 0.0 | | |
+
+Apply this to the true anomaly, and add 13.5. The result is the [ins]heliocentric[/ins] longitude referred to the equinox of A.D. 1900. To get it for the equinox of any other date at the rate 0.014 per year.
+
+5. Diminish the heliocentric longitude by 99.3, the longitude of the node and add $\frac{1}{10000}$ B. The result is the argument of the latitude. Enter the table with this and from Column 3 take out the Heliocentric latitude.
+
+[fig]Mathematical calculations in bottom right corner[/fig]

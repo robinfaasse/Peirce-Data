@@ -1,0 +1,28 @@
+as one. Now anythings may be represented as one. 225r
+
+To say that A and B are a pair is simply to say
+that they exist and are opposed in existence.
+$\Pi_i \Pi_j \{ \rho_{ii} = \Sigma_u \Sigma_v 1_{iu} \cdot 1_{jv} \cdot T_{uv} \}$
+
+This is better expressed by writing
+$\Pi_i \Pi_j \Sigma_{\alpha} \text{[del]}\Sigma_u \Sigma_v[/del] \{ \overline{P_{\alpha ij}} + \overline{O_i \cdot O_j} \cdot T_{ij} \} \cdot \{ O_i + O_j + 1_{ij} + P_{\alpha ij} \}$
+or more simply
+$\Pi_i \Pi_j \Sigma_{\alpha} \{ \overline{P_{\alpha ij}} + T_{ij} \} \cdot \{ P_{\alpha ij} + 1_{ij} \}$
+
+Therefore $\Sigma_{\alpha} P_{\alpha ij} = T_{ij}$ or $\Sigma_{\alpha} \rho_{\alpha} = T$.
+
+Consequently since $T_{ij} = T_{ji}$
+it follows that $P_{\alpha ij} = P_{\alpha ji}$ (?) [ins] [No only $\Sigma_{\alpha} P_{\alpha ij} = \Sigma_{\alpha} P_{\alpha ji}$] [/ins]
+
+The couple of logic is a different idea.
+Here $P_{\alpha} C_{\alpha ij}$ and $C_{\alpha ji}$
+are different propositions but
+$\Sigma_{\alpha} C_{\alpha ij}$ does not assert anything whatever since
+$\Pi_i \Pi_j \Sigma_{\alpha} C_{\alpha ij}$ is always true.
+
+To say that $i$ and $j$ [del]and[/del] form a pair and $k$ and $l$ another
+quite different pair is to say, using $E_{\alpha \beta}$ to mean that $\alpha$ and $\beta$
+are mutually exclusive pairs.
+[del]$\Sigma_{\alpha} \Sigma_{\beta}$[/del] $\Pi_i \Pi_j \Pi_k \Pi_l \Sigma_{\alpha} \Sigma_{\beta} \{ \overline{P_{\alpha ij}} + \overline{P_{\beta kl}} + \overline{E_{\alpha \beta}} +$
+$T_{ij} \cdot T_{kl} \cdot \overline{T_{ik}} \cdot \overline{T_{jl}} \cdot \overline{T_{il}} \cdot \overline{T_{ik}}$
+$= \Sigma_{\alpha} \Sigma_{\beta} P_{\alpha ij} \cdot P_{\beta kl} \cdot E_{\alpha \beta}$

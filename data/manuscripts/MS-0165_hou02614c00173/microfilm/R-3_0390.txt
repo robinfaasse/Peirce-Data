@@ -1,0 +1,26 @@
+[pn]143[/pn]
+
+53. (By Metrodorus, [del]an algebraist[/del] [ins]a mathematician[/ins] of Constantine's time.) Of four pipes, one fills a cistern in one day, the next in 2 days, the third in 3 days, the fourth in four days. How long will it take all, running together, to fill the cistern?
+
+Let [u]x[/u]₁, [u]x[/u]₂, [u]x[/u]₃, [u]x[/u]₄ be the discharge of the four pipes in one day, in fractions of the cistern. The equations are
+[u]x[/u]₁ = 1,
+2[u]x[/u]₂ = 1,
+3[u]x[/u]₃ = 1,
+4[u]x[/u]₄ = 1.
+
+The question is, how much is [frac] 1 / [u]x[/u]₁ + [u]x[/u]₂ + [u]x[/u]₃ + [u]x[/u]₄ [/frac] ?
+
+We have [u]x[/u]₁ = 1, [u]x[/u]₂ = [frac] 1 / 2 [/frac], [u]x[/u]₃ = [frac] 1 / 3 [/frac], [u]x[/u]₄ = [frac] 1 / 4 [/frac].
+
+Then [frac] 1 / [u]x[/u]₁ + [u]x[/u]₂ + [u]x[/u]₃ + [u]x[/u]₄ [/frac] = [frac] 1 / 1 + [frac] 1 / 2 [/frac] + [frac] 1 / 3 [/frac] + [frac] 1 / 4 [/frac] [/frac] = [frac] 12 / 12 + 6 + 4 + 3 [/frac] = [frac] 12 / 25 [/frac].
+
+54. There is a number, [del]whose[/del] [ins]such that 20 plus the[/ins] product of [del]which[/del] [ins]it[/ins] by 3 less than itself, is to one less than its double, as 17 increased by the square of one less than the [del]number[/del] [ins]the number[/ins], is to one more than its double. What is the number?
+
+Let x be the number. Then, the equations,
+[frac] 20 + x(x - 3) / 2x - 1 [/frac] = [frac] 17 + (x - 1)² / 2x + 1 [/frac], or [frac] x² - 3x + 20 / 2x - 1 [/frac] = [frac] x² - 2x + 18 / 2x + 1 [/frac].
+
+Clearing from fractions, we get,
+2x³ - 5x² + 37x + 20 = 2x³ - 5x² + 38x - 18.
+
+Add -2x³ + 5x² - 37x + 18, and we have
+38 = x.

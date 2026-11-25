@@ -1,0 +1,39 @@
+[fig]Twelve 4x4 dot grid diagrams with diagonal lines and circles[/fig]
+
+[del]+1+2 0 0 -2 -2[/del]
+First type 2.
+
+Imposs
+
+Second type 1.
+
+Third type 1.
+
+Imposs
++2+2 0 -1 -1 -2
+
+First type 4
+
+Second type 4
+
+Imposs
+
++2+2 -1 -1 -1 -1
+One type 2
+
+Imposs
++2+1+1-1-1-2
+
+First type 4
+
+Second type 2
+
+[fig]Mathematical equations written vertically[/fig]
+
+$F = a \frac{1}{s^n} = a s^{-n}$
+
+$D_s \int F ds = - \frac{a}{n+1} s^{-n+1}$
+
+$D_s F = -n a s^{-n-1}$
+
+$\sqrt{D_s F} = -n a s^{\frac{-n-1}{2}}$

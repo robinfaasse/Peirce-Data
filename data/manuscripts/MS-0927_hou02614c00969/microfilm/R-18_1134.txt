@@ -1,0 +1,38 @@
+[fig]Diagrams of circles representing logical relations numbered 1 to 5, and a column labeled Contr[/fig]
+
+[u]All S is all P[/u] [fig]concentric circles[/fig] | [ins]2 3 4 5[/ins] | 1
+[u]All S is some P[/u] [fig]concentric circles[/fig] or [fig]concentric circles[/fig] [del][fig]scribble[/fig][/del] | [del][fig]circle[/fig][/del] 3 4 5 | 1 2
+[u]All S is not P[/u] [fig]separate circles[/fig] [fig]concentric circles[/fig] [fig]concentric circles[/fig] | 1 2 4 5 | 3
+[u]Some S is all P[/u] [fig]concentric circles[/fig] [fig]concentric circles[/fig] | [fig]circle[/fig] 2 3 5 | 1 4
+[u]Some S is some P[/u] [fig]concentric circles[/fig] [fig]concentric circles[/fig] [fig]overlapping circles[/fig] [fig]overlapping circles[/fig] | 3 | 1 2 4 5
+[u]Some S is not P[/u] [fig]separate circles[/fig] [fig]concentric circles[/fig] [fig]overlapping circles[/fig] | 1 2 | 3 4 5
+[u]Not all S is all P[/u] [fig]concentric circles[/fig] [fig]separate circles[/fig] ? | 1 3 5 | 2 4
+[u]Not all S is some P[/u] [fig]concentric circles[/fig] [fig]overlapping circles[/fig] [fig]separate circles[/fig] [fig]concentric circles[/fig] ? | 1 | 2 3 4 5
+[u]Not all S is not P[/u] [fig]concentric circles[/fig] [fig]overlapping circles[/fig] [fig]concentric circles[/fig] [fig]concentric circles[/fig] ? | 3 | 1 2 4 5
+
+[fig]concentric circles[/fig]
+
+[u]- d = x[/u]
+x - d = x
+d = x
+x = x - s
+x - d = x - s
+d = x - s
+x = s
+x - d = s
+s = d
+
+[u]d[/u]
+s = d
+
+s | d
+s x d
+s < d
+s > d
+s = d
+
+s
+
+(d - 1) s + ds = s
+ds = s
+[u]s - ds[/u]

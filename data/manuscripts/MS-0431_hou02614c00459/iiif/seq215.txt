@@ -1,0 +1,17 @@
+Logic Symmetrical, or commutative.
+III [ured](57)[/ured] [u]x[/u] [u]V[/u] [u]y[/u] = [u]x[/u] [u]·[/u] [u]y[/u] = [u]x[/u] [u]≺[/u] [u]y[/u] = ([u]x[/u] [u]≺[/u] [u]y[/u]) [u]≺[/u] [u]y[/u].
+92 This is the operation of [u]Aggregation[/u]. It is commutative:
+[ured](58)[/ured] If [u]x[/u] [u]V[/u] [u]y[/u], then necessarily [u]y[/u] [u]V[/u] [u]x[/u].
+It is associative:
+[ured](59)[/ured] If [u]x[/u] [u]V[/u] ([u]y[/u] [u]V[/u] [u]z[/u]), then necessarily ([u]x[/u] [u]V[/u] [u]y[/u]) [u]V[/u] [u]z[/u];
+[ured](60)[/ured] If ([u]x[/u] [u]V[/u] [u]y[/u]) [u]V[/u] [u]z[/u], then necessarily [u]x[/u] [u]V[/u] ([u]y[/u] [u]V[/u] [u]z[/u]).
+[del]Other fo[/del] It follows the important rule
+[ured](61)[/ured] If ([u]x[/u] [u]V[/u] [u]y[/u]) [u]·[/u] [u]z[/u], then [u]x[/u] [u]V[/u] ([u]y[/u] [u]·[/u] [u]z[/u]).
+Other formulae are:
+[ured](62)[/ured] . Necessarily, [u]x[/u] [u]V[/u] [u]x[/u],
+[ured](63)[/ured] ([u]x[/u] [u]V[/u] [u]y[/u]) [u]·[/u] [u]z[/u] = ([u]x[/u] [u]·[/u] [u]z[/u]) [u]V[/u] ([u]y[/u] [u]·[/u] [u]z[/u])
+[ured](64)[/ured] If [u]x[/u] [u]V[/u] [u]y[/u], then if [u]y[/u] [u]≺[/u] [u]z[/u], necessarily [u]x[/u] [u]V[/u] [u]z[/u].
+[ured](65)[/ured] If [u]x[/u] [u]V[/u] [u]y[/u], then if [u]y[/u] [u]·[/u] [u]z[/u], necessarily [u]x[/u] [u]·[/u] [u]z[/u].
+[u]x[/u] [u]·[/u] [u]y[/u] = [u]x[/u] [u]·[/u] [u]y[/u] = [u]x[/u] [u]≺[/u] [u]y[/u] = [del][u]x[/u] [u]≺[/u] [u]y[/u] [u]≺[/u] [u]f[/u] =[/del] [u]x[/u] [u]V[/u] [u]y[/u].
+Aggregation may be formally defined in three clauses,
+as follows:

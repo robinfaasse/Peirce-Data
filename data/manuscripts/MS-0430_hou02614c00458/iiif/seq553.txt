@@ -1,0 +1,28 @@
+Logic
+III
+15
+
+which would be in conflict with the spirit of mathematics,
+we can only do so at the expense of the symmetry of the
+notation. We may, for example, [del]instead of[/del] [ins]continue to write[/ins] [u]x[/u] = V, [del]write[/del]
+[del]simply [u]x[/u][/del] [ins]but[/ins] and instead of [u]x[/u] = [u]F[/u], we may write [del][u]x[/u][/del] [ins][u]V[/u] = [u]x[/u][/ins].
+Then our four forms of inference will be
+
+[u]x[/u] = [u]y[/u]        [u]x[/u] = [u]y[/u]        [u]x[/u] = [u]y[/u]        [u]x[/u] = [u]y[/u]
+[u]x[/u] = V        V = [u]x[/u]        [u]x[/u] = [u]V[/u]        [u]V[/u] = [u]x[/u]
+∴ [u]y[/u] = V      ∴ V = [u]y[/u]      ∴ [u]V[/u] = [u]y[/u]      ∴ [u]y[/u] = [u]V[/u]
+
+But since [u]x[/u] = [u]y[/u] and [u]y[/u] = [u]x[/u] are two forms of writing the same thing,
+we shall have, as apparently different forms,
+
+[u]x[/u] = [u]y[/u]        [u]x[/u] = [u]y[/u]        [u]x[/u] = [u]y[/u]        [u]x[/u] = [u]y[/u]
+[u]y[/u] = V        V = [u]y[/u]        [u]V[/u] = [u]y[/u]        [u]y[/u] = [u]V[/u]
+∴ [u]x[/u] = V      ∴ V = [u]x[/u]      ∴ [u]V[/u] = [u]x[/u]      ∴ [u]V[/u] = [u]x[/u]
+
+[del]The symmetry of the equational form necessarily carries along with[/del] [ins]entails superfluity.[/ins]
+[del]it superfluity[/del] In order to get rid of this, let us abandon equa-
+tions and use a non-reciprocal relation instead of the reciprocal
+relation of equality. For that purpose let us write [u]x[/u] ⤙ [u]y[/u] to
+mean that one of the following three pairs of assertion is true
+[u]x[/u] is V      [u]x[/u] is [u]F[/u]      [u]x[/u] is [u]F[/u]
+[u]y[/u] is V      [u]y[/u] is V      [u]y[/u] is [u]F[/u].

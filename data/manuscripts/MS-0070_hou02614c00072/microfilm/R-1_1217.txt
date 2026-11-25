@@ -1,0 +1,15 @@
+I will now proceed with some demonstrations.
+
+[del](14) may be proved[/del]
+[u] [del]q[/del] [ins]q[/ins] [sub]j[/sub] [del](i+j)[/del] [sub]k[/sub] < (H[sub]i[/sub] + j)[sub]k[/sub] [/u]
+v = j  u > i  then by (15), w > k
+v = j  [u] [del]q[/del] [ins]q[/ins] [sub]x[/sub] [del]G[/del] [ins]G[/ins] [sub]xu[/sub] + G[sub]ix[/sub] [/u]  [u] by (14) [del]q[/del] [ins]q[/ins] [sub]y[/sub] G[sub]yx[/sub] [/u]
+(i + j)[sub]k[/sub]  (u + v)[sub]w[/sub]
+
+[u] v = j [/u]
+if u > i  by (15) w > k
+[del]q[/del] [ins]q[/ins] [sub]x[/sub] [del]G[/del] [ins]G[/ins] [sub]xu[/sub] + G[sub]ix[/sub] [del]then by (14)[/del] and [del]if[/del] (i + j)[sub]k[/sub] [del]then by (14)[/del] [ins]then by (14)[/ins] [u] q[sub]y[/sub] G[sub]yw[/sub] + G[sub]ky[/sub] [/u]
+[u] q[sub]x[/sub] [del]G[/del] [ins]G[/ins] [sub]xu[/sub] + G[sub]ix[/sub] + q[sub]ui[/sub] + G[sub]wk[/sub] [/u]
+[u] q[sub]x[/sub] [del]G[/del] [ins]G[/ins] [sub]xu[/sub] + G[sub]ix[/sub] [/u]
+q[sub]x[/sub] [del]G[/del] [ins]G[/ins] [sub]xu[/sub] + G[sub]ix[/sub]
+q[sub]x[/sub] q[sub]i[/sub] q[sub]j[/sub] q[sub]k[/sub] q[sub]u[/sub] q[sub]w[/sub] (i + j)[sub]k[/sub] + (u + j)[sub]w[/sub]

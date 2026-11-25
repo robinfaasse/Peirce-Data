@@ -1,0 +1,70 @@
+Concurrent System M.
+
+[del]BC (AB + BC + CD)[/del]
+[del]+ AB.CD[/del]
+[del]= AB (BC + CD) + BC.CD + BC^2[/del]
+[del](BC + CD) (AB + BC)[/del]
+[del]AB. (BC + CD)[/del]
+
+[fig]Circle with inscribed quadrilateral ABCD and internal vectors P, Q, R[/fig]
+[del]AB.CD[/del]
+[del]- BC.DA[/del]
+[del]- AD.BC[/del]
+= BD.CA
+
+- sin θ_2 sin (θ_1 + θ_2 + θ_3)
++ sin θ_1 sin θ_3
+
+[del]BC.AD[/del]
+[del]Q(P+Q+R) + P(Q+R) = (Q+R)(P+Q)[/del]
+[del]Q(P+Q) + QR[/del]
+[del]QP + Q(Q+R) + P(Q+R)[/del] =
+
+[fig]Circle with inscribed triangle and internal vectors[/fig]
+
+[del]Q(P+Q+R) + PR[/del]
+[del]P+Q) Q + (P+Q) R[/del]
+[del](P+Q)(Q+R)[/del]
+
+[del]Q = N[/del]
+[del]N+R[/del]
+[del]N+R) + (N-Q)R[/del]
+[del]= N(Q+R)[/del]
+[del]Q-R)[/del]
+[del]Q) R'[/del]
+
+[fig]Circle with inscribed quadrilateral and internal vectors[/fig]
+
+[fig]Circle with inscribed quadrilateral ABCD and internal vectors[/fig]
+AB.CD
+- AC.BD
++ DA.CB
+
+[fig]Circle with inscribed quadrilateral ABCD and internal vectors[/fig]
+AB AC AD
+BC BD
+CD
+
+BC.AD
++ AB.CD
++ CA.BD
+
+[fig]Circle with inscribed quadrilateral ABCD and internal vectors[/fig]
+
+[fig]Circle with inscribed quadrilateral ABCD and internal vectors[/fig]
+AB.CD
+- BC.DA
+
+[fig]Circle with inscribed quadrilateral and internal vectors[/fig] < AB.CD
+[del]BD.CA[/del]
+[del]+ AD.BC[/del]
+[del]+ AB.DC[/del]
+AB BC CD DA
+CA
+
+[del]AB.CD[/del]
+[del]AC.BC[/del]
+[del]AD.BD[/del]
+CD
+
+[fig]Circle with inscribed quadrilateral ABCD and internal vectors[/fig]

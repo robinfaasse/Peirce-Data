@@ -1,0 +1,13 @@
+We easily plot $z$, $10z$, and $10z - 34$. But
+[del]$z^2$[/del] [ins]$z^2$[/ins] $= 10z - 34$.
+How shall we recognize this as the square of $z$? If
+$z_1 = 5 + 3i$
+[del]$z_1^2$[/del] [ins]$z_1^2$[/ins] $= 10z_1 - 34 = 16 + 30i$
+while
+$$\begin{aligned}
+z_1^2 &= (5 + 3i)^2 \\
+&= 25 + 30i + 9i^2 \\
+&= 25 + 30i - 9 \\
+&= 16 + 30i
+\end{aligned}$$
+For $i^2 = -1$, in algebra.

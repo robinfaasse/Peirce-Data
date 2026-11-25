@@ -1,0 +1,47 @@
+$S$ and $D$ are integers. They are prime to one another.
+For since
+$$\begin{matrix}
+H = S + D \\
+B = S - D,
+\end{matrix}$$
+any common factor of $S$ and $D$ would be a common
+factor of $H$ and $B$, contrary to $\S 4$. By $\S 3$
+$$U^2 = SD.$$
+Hence, since $S$ and $D$ are prime to one another, each is a
+square. If then we use the notation
+$$\begin{matrix}
+V = \sqrt{D} \\
+W = \sqrt{S},
+\end{matrix}$$
+$V$ and $W$ are integers prime to one another. Thus, in
+every Pythagorean triangle the legs and hypothenuse
+are of the forms
+$$\begin{matrix}
+A = 2VW \\
+B = (W+V)(W-V) \\
+H = W^2 + V^2.
+\end{matrix}$$
+[del]Since[/del] Then by $\S 5$, of the two integers, $V$ and $W$, one is even
+and the other odd. [Several corollaries as to the divisibility
+of $A$, $B$, and $H$ might here be drawn.]
+
+In like manner, $H+A$ and $H-A$ are odd numbers, so that
+denoting them by
+$$\begin{matrix}
+\Sigma = H+A \\
+\Delta = H-A,
+\end{matrix}$$
+$\Sigma$ and $\Delta$ are [ins]odd[/ins] integers. Since
+$$\begin{matrix}
+H = \frac{1}{2}(\Sigma + \Delta) \\
+A = \frac{1}{2}(\Sigma - \Delta)
+\end{matrix}$$
+any common [del]odd[/del] factor of $\Sigma$ and $\Delta$ would be a common factor of $H$
+and $A$; so that $\Sigma$ and $\Delta$, being odd, are prime to one another.
+Since
+$$B^2 = \Sigma\Delta$$
+$\Sigma$ and $\Delta$ are, each of them, squares, and if we use the notation
+$$\begin{matrix}
+V' = \sqrt{\Delta} \\
+W' = \sqrt{\Sigma}
+\end{matrix}$$

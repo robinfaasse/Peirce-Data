@@ -1,0 +1,29 @@
+of [gap] Inspector on [gap] Steam Boiler used
+at [gap] inspected [gap] 189
+
+quadrifaction [gap] but every quadrifaction is a sum
+of [del]binary[/del] [ins]trinary[/ins] quadrifactions such that each component quadrif. [del]it[/del]
+contains two or else three letters. Thus we have the ident.
+$$2(a-b)(b-c)(c-d)(d-a) = (b-c)^2(a-d)^2 - (c-a)^2(b-d)^2 + (a-b)^2(c-d)^2$$
+The theory is connected with that of the invariants of a system
+of binary quartics."
+
+Now as to "trees". In his article in [u]Phil. Mag.[/u], [date]1857[/date],
+p. 172, Cayley remarks that the expression
+$$A \partial_x + B \partial_y + C \partial_z + \dots$$ ,
+where $A, B, C, \dots$ contain $x, y, z$, is of the nature both of
+an operator and of an operand. Hence he calls it an
+"operandator." Let $P, Q, R$ be any operandators, and
+let $U$ be another, or, "to fix the ideas", let $U$ be a mere ope-
+rand. Let us define $PU$ as the result of the operation
+$P$ in $U$. Then
+$$QPU = (Q \times P)U + (QP)U$$
+$Q \times P$ denotes the algebraic product of $Q$ and $P$, so that
+$Q \times P = P \times Q$. $(QP)U$ denotes that [del]the[/del] the operation $Q$
+is performed on $P$, and then, considering the result as an
+operator, the operation $(QP)$ is performed on $U$. "Without
+a more convenient form of notation, Cayley remarks, it would
+be difficult, to find the corresponding expressions for $RQPU$, &c.
+"This, however, can be at once effected by means of the
+analytical forms called "trees"." ... "the inspection of
+these figures will at once show what is meant by the tree

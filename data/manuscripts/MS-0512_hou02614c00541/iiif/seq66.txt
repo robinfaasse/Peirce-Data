@@ -1,0 +1,27 @@
+FL [flush right] 84 [/flush right]
+
+or going one step further, full (or empty) except for a single square
+or not so etc. All these regularities are easily expressed. Thus
+$\sigma l \check{\sigma}$ Somebody loves somebody
+$\sigma l \dagger \text{0}$ Everybody is loved by somebody
+$\sigma (l \dagger \text{0})$ Somebody loves everybody
+$\sigma (l \dagger \bar{l}) \dagger \text{0}$ There is at most but one person who loves any given person
+$\sigma (l \dagger \bar{l} \dagger \text{0})$ There is at most but one person who loves anybody at all.
+$\sigma (l \dagger \bar{l} \check{0})$ There is at most but one person who loves everybody
+$\sigma \text{J} (l \dagger \bar{l}) \check{0}$ Either there is somebody not lover at all or each person is the sole lover of somebody
+$(\sigma \dagger l \dagger \bar{l}) \check{0}$ There is at least one person who has one lover at most
+$\sigma (l \dagger \text{J} \dagger \text{0})$ Somebody loves at least two persons
+$\sigma [(l \dagger \bar{l}) \dagger \text{J} \dagger \text{0}]$ Somebody is the sole lover of at least two persons
+$\sigma (l \dagger \bar{l}) \dagger \text{J} \dagger \text{0}$ There are at least two persons each loved by but one.
+[del] $\sigma l \cdot \text{T} \cdot l \text{J} \cdot$ [/del]
+But we cannot go beyond two with [del] dyadic [/del] [ins] the algebra of [/ins] dyadic relatives. With the
+general algebra we can write $\Pi_{1} \Sigma_{2} \Sigma_{3} \Sigma_{4} \text{ } l_{12} \cdot l_{13} \cdot l_{14} \cdot \bar{l}_{23} \cdot \bar{l}_{24} \cdot \bar{l}_{34}$ and so
+on. This does not seem to be expressible in the Dyadic Algebra.
+So $\Pi_{1} \Pi_{2} \Sigma_{3} \Pi_{4} \text{ } l_{31} \cdot l_{32} \cdot (\bar{l}_{34} + l_{41} + l_{42})$ is beyond the powers of
+the dyadic algebra, this expressing that any two persons are loved by
+somebody who loves nobody else, and that every person is loved by somebody
+who loves nobody else.
+So $\Pi_{1} \Pi_{2} \Pi_{3} \Sigma_{4} \Pi_{5} \text{ } l_{41} \cdot l_{42} \cdot l_{43} (\bar{l}_{45} + l_{51} + l_{52} + l_{53})$ extends the
+assertion to every set of [ins] [del] not more than [/del] [/ins] three persons.
+To extend the assertion to [u]all[/u] sets requires an extension of the
+notation.

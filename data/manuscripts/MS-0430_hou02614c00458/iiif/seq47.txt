@@ -1,0 +1,21 @@
+Logic
+III
+26.
+
+"It either rains, snows, or hails," we require a function of
+p, n, and g which shall be equal to v when either p, n,
+or g equals v, that is when
+(16)        (v - p) (v - n) (v - g) = 0
+and which shall be equal to f when p = n = g = f. The
+first condition is satisfied by
+            v + (v - p) (v - n) (v - g) D
+where D is a finite constant; [ins]while[/ins] [del]and[/del] the last condition re-
+quires that D shall be determined by the equation
+(17)        v + (v - f) (v - f) (v - f) D = f
+so that D = - (v - f)^{-2}.
+    At this point a signal improvement is forced upon our
+notice by the symbols themselves. It is truly wonderful how,
+throughout mathematics, if we only steadily pursue the clear path
+of mathematics, [del]through[/del] those very schemata which we ourselves
+have generated at certain points turn and clearly address us,
+asking us why we do not adopt some conception which, without

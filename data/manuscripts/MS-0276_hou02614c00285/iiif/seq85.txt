@@ -1,0 +1,26 @@
+[83]
+$r = 6^{a\phi}$
+$6^a(\phi+d\phi) = 6^{a\phi}6^{ad\phi}$
+$= 6^{a\phi}(1+ad\phi)$
+$r = 6^{a\sin\phi}$
+$\frac{dr}{r} = \frac{d}{d\phi}(a^2 - \phi^2)^{\frac{1}{2}}d\phi$
+$= a(1 - \frac{\phi^2}{a^2})^{\frac{1}{2}}d\phi$
+$\frac{d\tan\phi}{d\phi} = \frac{\cos^2\phi + \sin^2\phi}{\cos^2\phi} = \sec^2\phi$
+$\frac{d\phi}{d\tan\phi} = \cos^2\phi$
+$\tan^2 = \frac{1 - \cos^2}{\cos^2}$
+$= \sec^2 - 1$
+[del]$\sqrt{x^2+1}$[/del]
+$\sqrt{x^2+1}dx = \frac{1}{2}\frac{dx}{\sqrt{x^2+1}}$ $\frac{d\arctan\phi}{d\phi} = \frac{1}{\tan^2\phi+1}$
+$\sqrt{x^2}+1 = \frac{1}{2\sqrt{x^2+1}}$ $\sec^2\phi d\phi = d\tan\phi$
+$\int \sec^2\phi d\phi = \tan\phi$
+[del]$\sqrt{x^2+1}$[/del]
+$\sqrt{x^2+1} = \frac{x^2+1}{\sqrt{x^2+1}} \frac{d\tan\phi}{d\phi} = \tan^2\phi + 1$
+$= \frac{x^2}{\sqrt{x^2+1}} + \frac{1}{\sqrt{x^2+1}}$
+$\frac{d\tan\phi}{d\phi} = \frac{1}{d\phi} = (\tan^2\phi + 1)$
+$\frac{d\sin x}{\cos x} =$
+$\frac{\cos^2x + \sin^2x}{\cos^2x}$
+$\frac{d\tan}{dx} = \sec^2x$
+$d\tan\phi$
+$d\arctan x = \frac{dx}{x^2+1}$
+$\frac{-d\cos}{d\tan\phi} = \cos^2\phi \frac{d\tan\phi}{d\phi} = \frac{1}{\cos^2\phi}$
+$\frac{d\arctan x}{dx} = \frac{1}{\sec^2[ins]x[/ins] d\tan\phi} = \frac{d\phi}{\cos^2\phi}$

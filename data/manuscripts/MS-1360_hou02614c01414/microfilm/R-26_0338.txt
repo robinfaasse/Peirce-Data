@@ -1,0 +1,26 @@
+may in an extensive treatise save solving the same equations
+twice over; and they are rather pleasing. They are toys. It seems
+to me there is one better image to think with than an analytical
+expression, provided it be clear [del]of[/del] [ins]to[/ins] [del]irrelevant[/del] [ins]imagination[/ins] [del]coördinates, etc.[/del]
+But no doubt [del]different minds[/del] different minds have different kinds of images
+come the easiest.
+
+The weight may be resolved into a tangential and a normal
+component. The former is [frac]dw[/frac]/[frac]ds[/frac] sin τ at each point. Just as
+in a fluid the tendency to motion is proportional to the space-
+variation of the pressure. That is,
+[del]q[/del] [frac]dq[/frac]/[frac]ds[/frac] = [frac]dw[/frac]/[frac]ds[/frac] sin τ.
+This agrees with (1) and (2); for [frac]dq[/frac]/[frac]ds[/frac] = Q sin τ sec² τ · 1/g and
+[frac]dw[/frac]/[frac]ds[/frac] = Q sec² τ 1/g. The second member may be integrated by
+parts in two ways. One gives
+[del]q - Q = dy[/del]
+q - Q = [frac]dw[/frac]/[frac]ds[/frac] y' - ∫ y [frac]d²w[/frac]/[frac]ds²[/frac] ds'.
+Now [del]and[/del] the last term vanishes in the common catenary; and any
+other may practically be considered as made up of pieces of
+ordinary catenaries joined together. The other way of integrating
+gives
+q - Q = w' sin τ - ∫ [frac]w'[/frac]/[frac]g[/frac] cos τ · ds.
+
+The normal component of the weight [frac]dw[/frac]/[frac]ds[/frac] cos τ is balanced
+by the resultant of q_n and q_n-1 resolved in the direction bi-
+secting the [del]the[/del] angle between them, which is 1/2 (q_n + q_n-1) (τ_n - τ_n-1).

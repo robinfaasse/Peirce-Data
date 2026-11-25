@@ -1,0 +1,11 @@
+[u]Distributive formulae[/u]
+
+$a\bar{b} + c = (a+c)(\bar{b}+c)$
+
+$(a \smallsmile b) \smallfrown c = \begin{cases} b \smallfrown c \\ (a \smallsmile c) \smallfrown c \end{cases}$
+
+$(\bar{a} + b)\bar{c} + d = \bar{a}\bar{c} + b\bar{c} + d$
+
+$[(a \smallsmile b) \smallfrown c] \smallsmile d = [(a \smallsmile d) \smallfrown c] \smallsmile (b \smallfrown c) \smallsmile d$
+
+$a\bar{b} + \bar{c} + d = \begin{aligned} &[del]a\bar{c} + \bar{b}\bar{c} + d[/del] \\ &(\bar{c} + a)(\bar{b} + \bar{c}) + d \end{aligned}$

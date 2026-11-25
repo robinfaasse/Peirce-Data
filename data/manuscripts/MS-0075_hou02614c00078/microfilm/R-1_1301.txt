@@ -1,0 +1,22 @@
+[pn](3[/pn]
+
+Then we should have
+-[u]i[/u] = [u]b[/u]²[u]i[/u]
+or
+[u]b[/u]² = -1
+which is absurd [u]b[/u] being an ordinary number.
+
+The next step is to prove that if the product of any two vectors [u]i[/u] and [u]j[/u] is [u]ij[/u] = [u]s[/u] + [u]v[/u], [u]s[/u] being the scalar and [u]v[/u] the vector[ins],[/ins] then [u]ji[/u] = [u]r[/u]([u]s[/u] - [u]v[/u]) where [u]r[/u] is an ordinary number or scalar, positive or negative. If this is true when [u]i[/u] and [u]j[/u] are unit vectors it is true whatever vectors they are. We will therefore suppose them unit vectors.
+
+Let us write
+[u]ji[/u] = [u]s[/u]' + [u]v[/u]'
+[u]vv[/u]' = [u]s[/u]'' + [u]v[/u]''
+Then [u]ij[/u].[u]ji[/u] = ([u]s[/u] + [u]v[/u])([u]s[/u]' + [u]v[/u]') = [u]ss[/u]' + [u]sv[/u]' + [u]s[/u]'[u]v[/u] + [u]v[/u]''
++ [u]s[/u]''
+
+But [u]ij[/u].[u]ji[/u] = [del][u]ij[/u]²[u]i[/u][/del] [ins][u]i[/u] [u]j[/u]² [u]i[/u][/ins] = -[u]i[/u]² = 1
+Hence
+[u]v[/u]'' = 1 - [u]ss[/u]' - [u]s[/u]'' - [u]sv[/u]' - [u]s[/u]'[u]v[/u]
+But since [u]v[/u]'' is the vector of [u]vv[/u]' this cannot be unless [u]v[/u]'' vanishes. Hence
+0 = 1 - [u]ss[/u]' - [u]s[/u]'' - [u]sv[/u]' - [u]s[/u]'[u]v[/u]
+Hence [u]sv[/u]' + [u]s[/u]'[u]v[/u] = 0 or [u]v[/u]' = - [frac][u]s[/u]'[/frac][u]s[/u] [u]v[/u]

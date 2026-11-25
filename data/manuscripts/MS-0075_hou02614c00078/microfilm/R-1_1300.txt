@@ -1,0 +1,12 @@
+[pn](2[/pn]
+
+Our next step is to prove that the vector part of the product of two [del]scalars[/del] [ins]vectors[/ins] is linearly independent of these [del]scalars[/del] [ins]vectors[/ins] and of unity. [del]If this is true of the unit vectors it is obviously true of all vectors.[/del] That is, [u]i[/u] and [u]j[/u] being any two vectors, if
+[u]ij[/u] = s + [u]v[/u]
+s being a scalar and [u]v[/u] a vector, we cannot so determine three scalars a, b, c so that
+[u]v[/u] = a + b[u]i[/u] + c[u]j[/u]
+This is proved if we prove that [u]ij[/u] is not of the form a + b[u]i[/u] + c[u]j[/u], that is that there is no scalar which subtracted from [u]ij[/u] leaves a remainder b[u]i[/u] + c[u]j[/u]. If this be true when [u]i[/u] and [u]j[/u] are any unit vectors whatever, it is true [del]of all[/del] when these are multiplied by ordinary numbers, and so is true of every pair of vectors. We will, therefore, suppose [u]i[/u] and [u]j[/u] to be unit vectors.
+
+Now [u]ij[/u]² = -[u]i[/u]. If therefore we had
+[u]ij[/u] = a + b[u]i[/u] + c[u]j[/u]
+-[u]i[/u] = [u]i[/u]([u]j[/u]²) = ([u]ij[/u])[u]j[/u] = a[u]j[/u] + b[u]ij[/u] - c
+= [del]-c + a + b²i + bcj[/del] [ins]-c + b²[u]i[/u] + [matrix] + a[u]j[/u] \\ + bc[u]j[/u] [/matrix][/ins]

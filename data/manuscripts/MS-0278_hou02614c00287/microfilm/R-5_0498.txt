@@ -1,0 +1,63 @@
+$$\sin(x+y) = \phi_1 \sin x + \phi_2 \sin y$$
+
+[del]$\phi_1 \cdot \sin^2 x + \phi_2 \cdot \sin^2 y$[/del] $+ \phi_1 \cdot \sin^2 x + \phi_2 \cdot \sin^2 y + \psi_2 \cdot \sin x \sin y$
+
+[fig]Circle with horizontal and vertical diameters and an angle[/fig]
+
+$\sin(x+y)$ depends only on $\sin x$ and $\sin y$
+
+$\phi_0 = 1$
+
+[fig]Angle diagram with 15, 30, 45, 60 degrees[/fig]
+
+$$\left. \begin{aligned} \sin(a+1)\pi + v\pi i & = -a - bi \\ \sin(a-1)\pi + v\pi i & = -a - bi \end{aligned} \right\} =$$
+
+$$\sin(90^\circ + x) =$$
+
+$$\sin(n\pi + x) = \phi_1 \cdot \sin x + \phi_2 \sin n\pi \cdot \begin{array}{c} x \\ \pi-x \\ \pi-x \\ 2\pi+x \end{array}$$
+
+$$= \phi_1 \sin x \cdot \begin{array}{c} \frac{\pi}{2}-c \\ -\frac{\pi}{2}-c \end{array}$$
+
+$\phi_1 n\pi = 1$
+
+$$\sin(90^\circ + 90^\circ + x) = \phi(90^\circ + x) + \phi(90^\circ) \sin(90^\circ + x)$$
+
+$$\sin(n\pi + \frac{\pi}{2} + x) = \phi \cdot \dots$$
+
+[fig]Three lines meeting at a point[/fig]
+
+$$\phi_x - \phi(n+\frac{\pi}{2})\pi \cdot \sin x$$
+
+$$\sin^2(x+y) - 2(\sin^2 x + \sin^2 y - 2\sin^2 x \sin^2 y) \sin^2(x+y)$$
+
+$$- \sin^4 x - \sin^4 y + 2\sin^2 x \sin^2 y + 4\sin^2 x \sin^2 y$$
+$$+ 2\sin^2 x \sin^2 y - 4\sin^2 x \sin^2 y$$
+$$= - \sin^4 x - \sin^4 y + 4\sin^2 x \sin^2 y$$
+
+$$4\sin^2 x \sin^2 y (\sin^2 x + \sin^2 y)$$
+
+$$\left. \begin{array}{c} x \\ \pi-x \\ 2\pi+x \\ 3\pi-x \end{array} \right\} 3\pi \left\{ \begin{array}{c} 3\pi \\ 3\pi \\ 5\pi \\ 5\pi \end{array} \right.$$
+
+$$\begin{array}{c} x \\ \pi-x \\ 2\pi+x \end{array}$$
+
+$$(2n+1)\pi - x$$
+
+$$\sin(90^\circ + 90^\circ) = 2\phi 90^\circ = 0$$
+
+$$\phi 90^\circ = 0$$
+
+$$\phi n + \frac{\pi}{2} = 0$$
+
+$$c + \pi \quad c + x + 2N\pi$$
+
+$$c + \dots \quad 2c - x + \pi + 2N\pi$$
+
+$$\sin(x+y) = \sin x \sqrt{1-\sin^2 y} + \sqrt{1-\sin^2 x} \sin y$$
+
+$$\sin^2(x+y) = \sin^2 x - 2\sin^2 x \sin^2 y + \sin^2 y$$
+
+$$1 \times \quad \times 1 + 2\sin x \sin y \sqrt{(1-\sin^2 x)(1-\sin^2 y)}$$
+
+$$\sin^2(x+y) + \sin^2 x \sin^2 y + \dots$$
+
+$$1 \times - 2\sin^2 x \sin^2 y + \dots$$

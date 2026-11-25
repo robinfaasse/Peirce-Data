@@ -1,0 +1,24 @@
+All prime numbers except ACb and BCat
+have [del]the first 3 letters A, B, C,[/del] [ins]in[/ins] one of the
+orders CBA or BAC. These having AB are
+divisible by 2 These having ABC or BCA by 3
+
+To multiply
+$$\begin{array}{c}
+\text{BADC} \\
+\text{CBA} \\
+\hline
+\end{array}$$
+This is $(\text{BADC})(\text{CAB} + \text{BA})$
+
+$$\begin{aligned}
+& \text{BAAAADCCCC} + \text{BADC} \\
+= & \begin{array}{r}
+\text{[del]C[/del] B ED} \\
++\quad \text{BADC} \\
+\hline \text{C B}^{\text{DE}}\text{A}
+\end{array}
+\end{aligned}$$
+
+But it is in very high numbers that
+the advantage comes out

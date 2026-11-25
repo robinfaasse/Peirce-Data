@@ -1,0 +1,58 @@
+Monson's Bridge 1899 Feb 6 St. Dorothy
+
+To apply Theorem of Three Moments to [del]truss, just[/del]
+to show its absurdity.
+
+[fig]Line diagram with points -Q, -P, -N, 0, +N, +P, +Q[/fig]
+
+$$2(Q-N)M_{-P} + (P-N)M_{-N} = \frac{1}{4} W \left[ (Q-P)^3 + (P-N)^3 \right]$$
+
+$$M_{-N} = \frac{1}{4} W \frac{(Q-P)^3 + (P-N)^3}{P-N} - 2 \frac{Q-N}{P-N} M_{-P}$$
+
+$$(P-N)M_{-P} + 2(P-N+1) [del]M_{-N}[/del] [ins]M_{-N}[/ins] + M_{-N+1} = \frac{1}{4} W \left[ (P-N)^3 + 1 \right]$$
+
+$$M_{-N+1} = [del]P+N + 4(P-N+1)\frac{Q-N}{P-N}[/del] M_{-P} + \frac{1}{4} W \left[ (P-N)^3 + 1 - 2 \frac{(Q-P)^3 + (P-N)^3}{(P-N)} (P-N+1) \right]$$
+
+$$[del]4(P-N)(Q-N) + 4(Q-N) -[/del]$$
+
+$$\frac{(P-N)^4 + (P-N) - 2(Q-P)^3(P-N+1) [del]- 2(P-N)^4[/del] - 2(P-N)^3}{P-N}$$
+
+$$[del]M_n[/del] \quad M_{n+1} + [del]a[/del] M_n + M_{n-1} = \frac{W}{2}$$
+
+[u]Suppose $M_0 = 0 \quad M_1 = 0$[/u]
+
+[del]$M_{n+1}$[/del]
+$$\begin{aligned}
+M_2 &= \frac{W}{2} \\
+M_3 &= -3 \frac{W}{2} \\
+M_4 &= [del]13 \frac{W}{2}[/del] \quad M_4 = 1 + 12 - 1 = 12 \\
+[del]M_5[/del] &= [del]-51 \frac{W}{2}[/del] \quad M_5 = 1 -
+\end{aligned}$$
+
+$$M_{n+2} + [del]a[/del] M_{n+1} + M_n = [del]1[/del] \quad [del]\Delta^2 + (a+2)\Delta + (a+2)\Delta^0 = 1[/del]$$
+
+[u]Suppose $M_0 = M_1 = 0$[/u]
+
+$$\begin{aligned}
+M_2 &= 1 \quad [ins]a[/ins] \\
+M_3 &= 1-a \quad a-a^2 \\
+M_4 &= [del]-a+a^2[/del] \quad -a+a^3 \\
+M_5 &= a+a^2-a^3 \quad a^2+a^3-a^4 \\
+M_6 &= 1+a-a^3+a^4 \\
+M_7 &=
+\end{aligned}$$
+
+$$[del]a(M_{n+2}[/del]$$
+$$M_{n+3} + a M_{n+2} + M_{n+1} = 1$$
+$$M_{n+2} + a M_{n+1} + M_n = 1$$
+$$M_{n+3} + (a-1) M_{n+2} - (a-1) M_{n+1} - M_n = 0$$
+
+$$x-1 \ \big) \ x^3 + (a-1)x^2 - (a-1)x - 1 \ \big( \ x^2 + ax + 1$$
+$$\frac{x^3 - x^2}{ax^2 - ax}$$
+$$\frac{ax^2 - ax}{x-1}$$
+
+$$\begin{aligned}
+x^2 + 4x = -1 \quad x &= \frac{-4 \pm \sqrt{12}}{2} \\
+x^2 + 4x + 4 = 3 \quad &= -2 \pm \sqrt{3} \\
+x+2 &= \pm \sqrt{3}
+\end{aligned}$$

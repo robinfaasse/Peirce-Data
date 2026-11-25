@@ -1,0 +1,5 @@
+[pn]D 65[/pn] [ins]I place to the place next to the left, in the usual way. You will perceive[/ins] [del]see[/del] that the effect of this arrangement of the work is that with great facility you make [del]each[/del] [ins]the[/ins] member in each horizontal line equal to four times the sum of twice the number in the line next higher plus the number in the line next higher than that. In short, you thus make
+
+$$S_{r} = 4 (S_{r-1} + 2 S_{r-2})$$
+
+where, $r$ being any ordinal number positive or negative, $S_{r-1}$ is the substitute that comes the second before $S_{r}$. Our arbitrary substitutes are, first, $S_{0}$, and next after that $S_{1}$. [ins]moreover,[/ins] From these we calculate the next which I call $S_{-2}$. You will see, before long, why I thus number them backwards; but you can already discern a certain appropriateness in the numbering, since if $S_{r}$ be the substitute for $y^{2}$, $S_{r-1}$ is the substitute for $y^{1}$, and $S_{r-2}$ is the substitute for $y^{0}$. Or if

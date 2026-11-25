@@ -1,0 +1,35 @@
+Thirdly Let $x_{0} = -1 + \sqrt{-}$
+
+$\underline{1^{\text{st}}}$ $n=2$ $\phi'x_{0} = \frac{x_{0}^{2}}{(x_{0}-x_{0}')^{2}(x+1)^{3}(x-1)}$
+
+$x_{0}^{2} = -2\sqrt{-}$ $x_{0}-x_{0}' = 2\sqrt{-}$ $(x_{0}-x_{0}')^{2} = -4$ $x+1 = \sqrt{-}$ $(x+1)^{3} = -\sqrt{-}$
+
+$(x-1) = -2+\sqrt{-}$ $\phi'x_{0} = V = \frac{-2\sqrt{-}}{(-4)(-\sqrt{-})(-2+\sqrt{-})}$
+
+$= \frac{-4}{-\sqrt{-}}$
+$\frac{4\sqrt{-}}{-2+\sqrt{-}}$
+$\frac{-4-8\sqrt{-}}{}$ )
+
+$V = \phi'x_{0} = \frac{2\sqrt{-}}{4+8\sqrt{-}} = $ [del]$\frac{1}{2} + \frac{1}{8}\sqrt{-}$[/del] $-5 + \frac{1}{10}\sqrt{-}$
+
+$A = -5$ $B = \frac{1}{10}$ $X = x+1$ $Y = -1$ $a = -1$ $b = 1$
+
+$\int = \frac{2AX + 2BY}{x^{2}+2ax+a^{2}+b^{2}} = \frac{-10x - 10\frac{1}{5}}{x^{2}+2x+2}$
+
+$\underline{2^{\text{nd}}}$ $n=1$ $\phi'x_{0} = D \frac{x_{0}^{2}}{(x_{0}-x_{0}')^{2}(x+1)^{3}(x-1)}$
+
+$\log V = 2\log x_{0} - 2\log(x_{0}-x_{0}') - 3\log(x+1) - \log(x-1)$
+
+$\frac{DV}{V} = \frac{2}{x_{0}^{2}} - \frac{2}{x_{0}-x_{0}'} - \frac{3}{x+1} - \frac{1}{x-1} = \frac{DV}{-5} + \frac{10DV}{\sqrt{-}} = \frac{2}{5} + \frac{4}{5}\sqrt{-}$
+
+$\frac{\frac{2}{5} + \frac{4}{5}\sqrt{-}}{-5 + \frac{1}{10}\sqrt{-}}$
+
+$\frac{-2}{-\frac{4}{50}} + \frac{\frac{2}{50}\sqrt{-}}{-4\sqrt{-}}$
+
+$\frac{-2\frac{4}{50} - 3\frac{48}{50}\sqrt{-}}{}$
+
+$A = 2\frac{4}{50}$ $B = -3\frac{48}{50}$ $a = -1$ $b = +1$ $\int = -2\frac{4}{50}\log[(x+1)^{2}+1] + 3\frac{24}{50}\tan^{-1}\frac{1}{x+1}$
+
+Ans. $= \frac{1}{200}\log(x-1) - \frac{1}{4x^{2}+8x+4} + \frac{3}{2x+2} + \frac{47}{50}\log(x+1) - $ [del]$\frac{10x-10\frac{1}{5}}{4x^{2}+8x+2}$[/del] $- 2\frac{4}{50}\log[(x+1)^{2}+1] - 6\frac{24}{50}\tan^{-1}\frac{1}{x+1}$
+
+$\xi$

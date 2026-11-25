@@ -1,0 +1,27 @@
+[marginalia]
+[date]1909 May 19[/date] 5:45
+MEANING
+[del]Pragmaticism[/del]
+[pn]39[/pn]
+[/marginalia]
+
+It will help the reader to see how Leibniz saw this, and what was the peculiar turn
+of his thought if we [ins]re-[/ins]perform together, he and I, the elimination of the ubiquita from the three
+equations, and this time in a more deliberate manner. Going back, then, to the three
+
+equations,
+(I.) $11x + 12y + 13z = 0$
+(II.) $21x + 22y + 23z = 0$
+(III.) $31x + 32y + 33z = 0$,
+
+let us begin by eliminating $z$, first from equations (I) and (II), next from equations (II) and (III),
+and finally from equations (III) and (I). We first multiply (I) by [del]11[/del] [ins]21[/ins] and (II) [del]by 11[/del] [ins]by 11[/ins].
+
+(I) $\cdot 21$ [del]21[/del] $21\cdot 11x + [del]12\cdot 21[/del] [ins]12\cdot 21[/ins] y + 13\cdot 21z = 0$
+(II) $\cdot 11$ $11\cdot 21x + 11\cdot 22y + 11\cdot 23z = 0$
+and by subtraction (I)$\cdot 21 - $ (II)$\cdot 11 = (12\cdot 21 - 11\cdot 22)y + (13\cdot 21 - 11\cdot 23)z = 0$, which equation we may designate as C.
+
+Next we multiply (II) into 31 and (III) by 21 getting
+(II) $\cdot 31$ $21\cdot 31x + 22\cdot 31y + 23\cdot 31z = 0$
+(III) $\cdot 21$ $21\cdot 31x + 21\cdot 32y + 21\cdot 33z = 0$
+and by subtracting (II)$\cdot 31 - $ (III)$\cdot 21 = (22\cdot 31 - 21\cdot 32)y + (23\cdot 31 - 21\cdot 33)z = 0$, which equation we may designate A.

@@ -1,0 +1,37 @@
+[pn]Logic
+III
+40[/pn]
+
+means that if [u]x[/u] is [u]t[/u], then [u]z[/u] is [u]t[/u]. But this is the meaning of
+[u]z[/u] < [u]x[/u]. Hence we may write $\Phi_{\underline{k}} \Phi_{\underline{j}} = \Phi_{\underline{l}}$ and say that
+$\Phi_{\underline{k}}$ operating upon $\Phi_{\underline{j}}$ gives $\Phi_{\underline{l}}$
+
+Of our seven operations, two $\Phi_{\underline{m}}$ and $\Phi_{\underline{o}}$ are the most
+familiar. Namely, if $\Phi$ is any one the seven operations, we
+have
+
+$\Phi_{\underline{m}} \Phi = \Phi$     $\Phi \Phi_{\underline{m}} = \Phi$
+$\Phi_{\underline{o}} \Phi = \Phi_{\underline{o}}$     $\Phi \Phi_{\underline{o}} = \Phi_{\underline{o}}$
+
+The relation of $\Phi_{\underline{n}}$ to the others is interesting. Namely
+
+$\Phi_{\underline{n}} \Phi_{\underline{n}} = \Phi_{\underline{m}}$
+$\Phi_{\underline{n}} \Phi_{\underline{i}} = \Phi_{\underline{k}}$     $\Phi_{\underline{i}} \Phi_{\underline{n}} = \Phi_{\underline{j}}$
+$\Phi_{\underline{n}} \Phi_{\underline{j}} = \Phi_{\underline{l}}$     $\Phi_{\underline{j}} \Phi_{\underline{n}} = \Phi_{\underline{k}}$
+$\Phi_{\underline{n}} \Phi_{\underline{k}} = \Phi_{\underline{j}}$     $\Phi_{\underline{k}} \Phi_{\underline{n}} = \Phi_{\underline{l}}$
+$\Phi_{\underline{n}} \Phi_{\underline{l}} = \Phi_{\underline{i}}$     $\Phi_{\underline{l}} \Phi_{\underline{n}} = \Phi_{\underline{i}}$
+
+From this we [del]write[/del] [ins]infer[/ins] that $\Phi_{\underline{i}} \Phi_{\underline{j}} = \Phi_{\underline{i}} \Phi_{\underline{n}} \Phi_{\underline{n}} \Phi_{\underline{j}} = \Phi_{\underline{k}} \Phi_{\underline{l}} = \Phi_{\underline{j}}$
+$\Phi_{\underline{i}} \Phi_{\underline{k}} = \Phi_{\underline{i}} \Phi_{\underline{n}} \Phi_{\underline{n}} \Phi_{\underline{k}} = \Phi_{\underline{k}} \Phi_{\underline{j}} = \Phi_{\underline{l}}$
+$\Phi_{\underline{i}} \Phi_{\underline{l}} = \Phi_{\underline{i}} \Phi_{\underline{n}} \Phi_{\underline{n}} \Phi_{\underline{l}} = \Phi_{\underline{k}} \Phi_{\underline{i}} = \Phi_{\underline{k}}$
+$\Phi_{\underline{j}} \Phi_{\underline{i}} = \Phi_{\underline{j}} \Phi_{\underline{n}} \Phi_{\underline{n}} \Phi_{\underline{i}} = \Phi_{\underline{k}} \Phi_{\underline{k}} = \Phi_{\underline{i}}$
+$\Phi_{\underline{j}} \Phi_{\underline{k}} = \Phi_{\underline{j}} \Phi_{\underline{n}} \Phi_{\underline{n}} \Phi_{\underline{k}} = \Phi_{\underline{k}} \Phi_{\underline{j}} = \Phi_{\underline{l}}$
+$\Phi_{\underline{j}} \Phi_{\underline{l}} = \Phi_{\underline{j}} \Phi_{\underline{n}} \Phi_{\underline{n}} \Phi_{\underline{l}} = \Phi_{\underline{k}} \Phi_{\underline{i}} = \Phi_{\underline{k}}$
+$\Phi_{\underline{k}} \Phi_{\underline{i}} = \Phi_{\underline{k}} \Phi_{\underline{n}} \Phi_{\underline{n}} \Phi_{\underline{i}} = \Phi_{\underline{l}} \Phi_{\underline{k}} = \Phi_{\underline{j}}$
+$\Phi_{\underline{k}} \Phi_{\underline{j}} = \Phi_{\underline{k}} \Phi_{\underline{n}} \Phi_{\underline{n}} \Phi_{\underline{j}} = \Phi_{\underline{l}} \Phi_{\underline{l}} = \Phi_{\underline{i}}$
+$\Phi_{\underline{k}} \Phi_{\underline{l}} = \Phi_{\underline{k}} \Phi_{\underline{n}} \Phi_{\underline{n}} \Phi_{\underline{l}} = \Phi_{\underline{l}} \Phi_{\underline{i}} = \Phi_{\underline{k}}$
+$\Phi_{\underline{l}} \Phi_{\underline{i}} = \Phi_{\underline{l}} \Phi_{\underline{n}} \Phi_{\underline{n}} \Phi_{\underline{i}} = \Phi_{\underline{i}} \Phi_{\underline{k}} = \Phi_{\underline{l}}$
+$\Phi_{\underline{l}} \Phi_{\underline{j}} = \Phi_{\underline{l}} \Phi_{\underline{n}} \Phi_{\underline{n}} \Phi_{\underline{j}} = \Phi_{\underline{i}} \Phi_{\underline{l}} = \Phi_{\underline{k}}$
+$\Phi_{\underline{l}} \Phi_{\underline{k}} = \Phi_{\underline{l}} \Phi_{\underline{n}} \Phi_{\underline{n}} \Phi_{\underline{k}} = \Phi_{\underline{i}} \Phi_{\underline{j}} = \Phi_{\underline{j}}$
+
+and $\Phi_{\underline{i}} \Phi_{\underline{i}} = \Phi_{\underline{l}}$

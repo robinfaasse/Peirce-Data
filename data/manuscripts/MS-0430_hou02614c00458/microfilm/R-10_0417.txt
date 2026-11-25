@@ -1,0 +1,15 @@
+[marginalia]
+Logic
+[u]III[/u]
+83
+[/marginalia]
+
+Consequently, to assert that [u](x < y) < (y < z) < z[/u] is scriptible is equivalent to asserting that either [u]x[/u] or [u]y[/u] or [u]z[/u] is scriptible. We have, thus, proved that [del]each of[/del] [ins]to assert either of[/ins] the three forms is equivalent to the same assertion.
+
+[del](85) If [del][u](x < y) < z[/u][/del] is scriptible, so is [u]x < (y < z) < z[/u].[/del]
+
+[del](85) The expression [del][u](x < y) < y[/u][/del] < y is equivalent to [u]x < y[/u][/del]
+
+(85) The expressions [u]([del]x[/del] [ins]x[/ins] < y) < z[/u] and [u]x < (y < z) < z[/u] are equivalent.
+
+[u]Proof[/u]. I will first prove that if [u]x < (y < z) < z[/u] is scriptible, then [u](x < y) < z[/u] is scriptible. By (82), [del]the[/del] for to assert the former is equivalent to asserting that either [u]x < z[/u] or [u]y < z < z[/u]. Consider the first alternative. By (64), either [u]z[/u] is scriptible or [u]x < y[/u] is scriptible. But if [u]x < z[/u] is scriptible, by (66), if [u]x[/u] is scriptible [u]z[/u] is scriptible. Hence, if [u]x < z[/u] is scriptible, either [u]x < y[/u] or [u]z[/u] is scriptible. But by [del](80)[/del] [ins](82)[/ins] in this case, [u](x < y) < z[/u] is scriptible. Now consider the second alternative. By (65) if [u]y[/u] is scriptible, [u]x < y[/u] is scriptible.

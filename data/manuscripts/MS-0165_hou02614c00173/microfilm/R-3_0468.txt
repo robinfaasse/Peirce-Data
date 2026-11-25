@@ -1,0 +1,15 @@
+[pn]222[/pn]
+
+104. Find the roots of the equation
+[u]x[/u]³ - 6[u]x[/u]² + 19[u]x[/u] - 44 = 0.
+[u]x[/u] = 10 gives y = 546, and it is plain that there can be no larger root. But [u]x[/u] = 1 gives y = -30. Thus there is a root between 1 and 10. Try [u]x[/u] = 4.
+y = 64 - 96 + 76 - 44 = 0.
+Divide by [u]x[/u] - 4
+[u]x[/u] - 4) [u]x[/u]³ - 6[u]x[/u]² + 19[u]x[/u] - 44 ([u]x[/u]² - 2[u]x[/u] + 11
+[u][u]x[/u]³ - 4[u]x[/u]²[/u]
+-2[u]x[/u]²
+[u]-2[u]x[/u]² + 8[u]x[/u][/u]
+11[u]x[/u]
+[u]11[u]x[/u] - 44[/u]
+0
+The equation [u]x[/u]² - 2[u]x[/u] + 11 = 0 gives [u]x[/u] = 1 ± [u]√1 - 11[/u] = 1 ± √10.[u]i[/u]

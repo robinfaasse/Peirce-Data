@@ -1,0 +1,74 @@
+[u]Developments[/u]
+
+$$\frac{K}{\sqrt{K^2-1}} = \frac{K}{\sqrt{1-\frac{1}{K^2}}} = K(1+\frac{1}{2K^2}) = K + \frac{1}{2K}$$
+$$= K(1+\frac{1}{2K^2} + \frac{3}{8K^4}) = K + \frac{1}{2K} + \frac{3}{8K^3}$$
+
+[del]D[/del]
+$$(1+x)^{-\frac{1}{2}}$$
+$$-\frac{1}{2}(1+x)^{-\frac{3}{2}}$$
+$$\frac{1}{2}D^2 + \frac{3}{8}(1+x)^{-\frac{5}{2}}$$
+
+$$(1+x)^{-1}$$
+$$-(1+x)^{-2}$$
+$$+(1+x)^{-3}$$
+
+$$1+K+\sqrt{K^2-1} = K+1+K\sqrt{1-\frac{1}{K^2}}$$
+$$= K+1+K(1-\frac{1}{2K^2}-\frac{1}{8K^4}) = 2K+1-\frac{1}{2K}-\frac{1}{8K^3}$$
+$$= 2K(1+\frac{1}{2K}-\frac{1}{4K^2}-\frac{1}{16K^4})$$
+
+$$(1-\frac{1}{2K}+\frac{1}{2K^2}-\frac{3}{8K^3})$$
+
+$$\begin{array}{c|c|c|c|c}
+\frac{1}{K^0} & \frac{1}{K^1} & \frac{1}{K^2} & \frac{1}{K^3} & \frac{1}{K^4} \\
+\hline
++1 & +\frac{1}{2} & -\frac{1}{4} & 0 & -\frac{1}{16} \\
+& -\frac{1}{2} & -\frac{1}{4} & +\frac{1}{8} & 0 \\
+& & +\frac{1}{2} & +\frac{1}{4} & -\frac{1}{8} \\
+& & & -\frac{3}{8} & -\frac{3}{16} \\
+& & & & +\frac{3}{8}
+\end{array}$$
+
+$$\begin{array}{l}
+1+\frac{1}{2K}-\frac{1}{4K^2}-\frac{1}{16K^4} \\
+\underline{1-\frac{1}{2K}+\frac{1}{2K^2}-\frac{3}{8K^3}+\frac{3}{8K^4}} \\
+\begin{array}{rll}
+1+\frac{1}{2K}-\frac{1}{4K^2} & & -\frac{1}{16K^4} \\
+-\frac{1}{2K}-\frac{1}{4K^2}+\frac{1}{8K^3} & & +\frac{1}{16K^4} \\
+\hline
+-\frac{1}{2K}-\frac{4K^2}{4K^2}+\frac{1}{8K^3} & & \\
++\frac{1}{2K^2}+\frac{1}{4K^3}-\frac{1}{8K^4} & & \\
+\hline
++\frac{1}{2K^2}+\frac{1}{4K^3}-\frac{1}{8K^4} & & \\
+-\frac{3}{8K^3}-\frac{3}{16K^4} & & \\
+\hline
+-\frac{3}{8K^3}+\frac{3}{16K^4} & &
+\end{array}
+\end{array}$$
+
+$$K+\sqrt{K^2-1} = K+K\sqrt{1-\frac{1}{K^2}} = [del]2K[/del] K+K(1-\frac{1}{2K^2}-\frac{1}{8K^4})$$
+$$= 2K-\frac{1}{2K}-\frac{1}{8K^3} = 2K(1-\frac{1}{4K^2}-\frac{1}{16K^4})$$
+
+$$\frac{K+\sqrt{K^2-1}}{1+K+\sqrt{K^2-1}} = \frac{2K}{2K} \frac{(1-\frac{1}{4K^2}-\frac{1}{16K^4})}{(1+\frac{1}{2K}-\frac{1}{4K^2}-\frac{1}{16K^4})} (1-\frac{1}{2K}+\frac{1}{2K^2}-\frac{3}{8K^3})$$
+$$= 1-\frac{1}{2K}+\frac{1}{2K^2}-\frac{3}{8K^3}$$
+$$\begin{array}{r}
+-\frac{1}{4K^2}+\frac{1}{8K^3} \\
+\hline
+= 1-\frac{1}{2K}+\frac{1}{4K^2}-\frac{1}{4K^3}
+\end{array}$$
+
+$$\frac{\sqrt{1+\xi^2}-\xi}{1+K+\sqrt{K^2-1}}$$
+
+$$[del]\frac{K+\sqrt{K^2-1}}{1+K+\sqrt{K^2-1}}[/del]$$
+$$= 1-\xi+\frac{1}{2}\xi^2-\frac{1}{8}\xi^4 + \frac{1}{16}\xi^6 \text{ etc}$$
+
+$$\log(1+x)$$
+$$(1+x)^{-1}$$
+$$-\frac{1}{2}(1+x)^{-2}$$
+
+$$\frac{\frac{1}{2K}-\frac{1}{4K^2}+\frac{1}{4K^3}-\frac{3}{16K^4}}{\frac{1}{2K}-\frac{1}{4K^2}+\frac{1}{4K^3}-\frac{3}{16K^4} + (\frac{1}{2K}-\frac{1}{4K^2}+\frac{1}{4K^3}-\frac{3}{16K^4})(-\xi+\frac{1}{2}\xi^2-\frac{1}{8}\xi^4+\frac{1}{16}\xi^6\text{ etc})}$$
+$$+ (\frac{1}{2K}-\frac{1}{4K^2}+\frac{1}{4K^3})(-\xi+\frac{1}{2}\xi^2-\frac{1}{8}\xi^4+\frac{1}{16}\xi^6-\text{ etc}$$
+
+$$\frac{\sqrt{1+\xi^2}-\xi+K+\sqrt{K^2-1}}{1+K+\sqrt{K^2-1}} = 1 + (\frac{1}{2K}-\frac{1}{4K^2}+\frac{1}{4K^3})(-\xi+\frac{1}{2}\xi^2-\frac{1}{8}\xi^4+\frac{1}{16}\xi^6-\text{ etc})$$
+
+$$\log\frac{\sqrt{1+\xi^2}-\xi+K+\sqrt{K^2-1}}{1+K+\sqrt{K^2-1}} = \frac{1}{2K}(\sqrt{1+\xi^2}-\xi-1) + (-\frac{1}{4K^2}\Gamma + \frac{1}{8K^2}\Gamma^2) + (\frac{1}{4K^3}\Gamma + \frac{1}{8K^3}\Gamma^2 + \frac{1}{24K^3}\Gamma^3)$$
+$$= \frac{1}{2K}(-\xi-1+\sqrt{1+\xi^2}) + \frac{1}{K^2}(\frac{1}{2}+\frac{1}{2}\xi+\frac{1}{2}\xi^2+(-\frac{1}{2}-\frac{1}{2}\xi)\sqrt{1+\xi^2}) + \frac{1}{K^3}(\frac{1}{6}-\frac{1}{4}\xi-\frac{1}{8}\xi^2-\frac{1}{6}\xi^3+(\frac{1}{6}+\frac{1}{6}\xi)\sqrt{1+\xi^2})$$

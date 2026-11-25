@@ -1,0 +1,24 @@
+$$a \prec (b \prec c) \prec d \prec e$$
+$$a \prec (b \prec c \prec d) \prec e$$
+$$(a \prec b \prec c) \prec d \prec e$$
+$$a \prec b \prec (c \prec d) \prec e$$
+
+$$(a \prec b \prec c \prec d) \prec e$$
+$$(a \prec (b \prec c) \prec d) \prec e$$
+$$((a \prec b \prec c) \prec d) \prec e$$
+$$(((a \prec b) \prec c) \prec d) \prec e$$
+
+$$\bar{a} + b\bar{c} + \bar{d} + e$$
+$$a + b\bar{c}d + e$$
+$$ab\bar{c} + \bar{d} + e$$
+$$\bar{a} + \bar{b} + c\bar{d} + e$$
+
+$$abc\bar{d} + e$$
+$$a(\bar{b} + c)\bar{d} + e$$
+$$(\bar{a} + \bar{b} + c)\bar{d} + e$$
+$$(a\bar{b} + c)\bar{d} + e$$
+
+Another general rule is that
+antecedents may be inserted
+antecedents of antecedents dropped
+[u]etc[/u].

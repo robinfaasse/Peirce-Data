@@ -1,0 +1,51 @@
+In order to get the entire circulating decimal
+representing any [del]final[/del] vulgar fraction [ins]of the denominator[/ins],
+1[sup]st[/sup] If the last significant figure [del]is[/del] [ins]of the denominator[/ins] is 5 multiply
+numerator and denominator by 2 until this
+ceases to be the case; but if the last significant
+figure of the denominator is even, multiply
+numerator and denominator by 5 until
+this ceases to be the case.
+
+2[sup]nd[/sup] That done, if the denominator ends
+in one or more zeros strike them out,
+thus multiplying by a power of 10, and
+when the operation is complete divide
+by the same power by shifting the decimal
+point. If in consequence of the suppression
+[del]of zeros[/del], or for other reason the fraction is
+not a proper one, convert it into a mixed
+quantity and consider only the proper
+fraction at first.
+
+[fig]curly bracket pointing down[/fig]
+
+4[sup]th[/sup] Form two numbers to be called the "initial
+number" and the "current multiplier" as
+follows:
+
+If the denominator ends in 9, strike this off and
+increase the denominator thus truncated by 1 for
+the "current multiplier". The numerator is the
+"initial number"
+
+If the denominator ends in 7, strike this off and
+having multiplied the truncated residue by 7
+add 5 to the product to make the current
+multiplier. 7 times the numerator is the initial
+number.
+
+If the denominator ends in 3, strike this off
+and having multiplied the truncated residue
+by 3 add one to it for the current multiplier
+[del]The initial number is[/del] 3 times the numerator
+
+If the denominator ends in 1, strike this
+off and having multiplied the truncated residue
+by 9 and 1 one to it for the current multiplier
+The initial number is 9 times the numerator
+
+5[sup]th[/sup]. Strike off the last figure of the initial num-
+ber. Multiply this by the current multiplier
+and add to the truncated residue to get a
+new number to be treated in the same way

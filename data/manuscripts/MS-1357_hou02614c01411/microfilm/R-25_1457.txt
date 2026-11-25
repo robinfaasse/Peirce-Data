@@ -1,0 +1,13 @@
+Let $X$ and $Y$ be the coordinates of $\Omega_N$, so that
+(2) $X = \sum_1^N s_n \cos \tau_n$, $Y = \sum_1^N s_n \sin \tau_n$.
+
+<u>§2. Statical Conditions</u>. Denote by
+$q_0, q_1, \dots q_n \dots q_N$ the tensions on the stretches between the weighted points,
+and by
+$w_1, w_2, \dots w_n \dots w_N$ all the weight from $A$ up to and inclusive of the weighted point whose [del]number[/del] [ins]ordinal[/ins] is [del]the[/del] subscript to $w$.
+
+[fig]Diagram showing a weighted point on a cord with tension forces acting on it.[/fig] At each weighted point, say the $n^{\underline{\text{th}}}$, are three forces, the weight, $w_n - w_{n-1}$, whose horizontal component is zero, and the reactions from the tensions on the stretches, namely a force equal to $q_n$ acting at an angle $90^\circ + \tau_n$ to the weight, and a force equal to $q_{n-1}$ acting at an angle $270^\circ + \tau_{n-1}$ (reckoned the same way) to the weight. These three forces being in equilibrium, we have
+(3) $w_n - w_{n-1} = q_n \sin \tau_n - q_{n-1} \sin \tau_{n-1}$,
+(4) $q_n \cos \tau_n = q_{n-1} \cos \tau_{n-1}$.
+
+From the last equation it follows that $q \cos \tau$ has the same value all along the cord. Denote this constant value of the horizontal component of the tension by $Q$, so that

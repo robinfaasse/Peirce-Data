@@ -1,0 +1,10 @@
+Logic
+[ured]III[/ured]
+[u]74[/u]
+[u]Propositions deduced from B.[/u]
+(69) Using [del]man[/del] subscript numbers simply to distinguish $p_1, p_2$ etc. as [del]signif[/del] having different significations,
+If [u]$x$[/u] is $q$, then it is also $p_1 \times q$ and $p_2 \times p_1 \times q$ and $p_3 \times p_2 \times p_1 \times q$, and so on, for any finite number of $p$'s.
+For, by (65) if [u]$x$[/u] is $q$, [u]$x$[/u] is $p_1 \times q$; and if [u]$x$[/u] is $p_1 \times q$, it is $p_2 \times p_1 \times q$. And if we write $r_1$ for $p_1 \times q, r_2$ for $p_2 \times r_1$, and in general [u]$r_n$[/u] for $p_n \times r_{n-1}$, then if [u]$x$[/u] is [u]$r_n$[/u] [del]then[/del], whatever integer $n$ may be, [u]$x$[/u] is [u]$r_{n+1}$[/u], consequently if [u]$x$[/u] is $q$, it is [u]$r_n$[/u] whatever number $n$ may be, and whatever characters $p_1, p_2, p_3,$ etc. may be.
+[u]Propositions deduced from C.[/u]
+(70) If [u]$x$[/u] is [ins]at once[/ins] [u]$s_0$[/u] and [u]$s_0$[/u] $\prec$ [u]$s_1$[/u] and [u]$s_1$[/u] $\prec$ [u]$s_2$[/u] and so forth, then [u]$x$[/u] is [u]$s_n$[/u] whatever characters $s_0, s_1, s_2$ etc. may be.
+For, by (66), if [u]$x$[/u] is [u]$s_0$[/u] and is [u]$s_0$[/u] $\prec$ [u]$s_1$[/u], then it is [u]$s_1$[/u]. But again by (66) if [u]$x$[/u] is [u]$s_1$[/u] and is [u]$s_1$[/u] $\prec$ [u]$s_2$[/u], then it is [u]$s_2$[/u]; so that if [u]$x$[/u] is [u]$s_0$[/u] and [u]$s_0$[/u] $\prec$ [u]$s_1$[/u] and [u]$s_1$[/u] $\prec$ [u]$s_2$[/u], then [u]$x$[/u] is [u]$s_1$[/u] and [u]$s_2$[/u],

@@ -1,0 +1,35 @@
+[pn]W3[/pn] [pn]131[/pn]
+
+§66. [del]From[/del] The rule holds even if [u]a[/u], [u]m[/u], and [u]n[/u] are unknown numbers. For instance, suppose [u]x[/u] and [u]y[/u] are two numbers of which we are only informed that twice [u]x[/u] added to [u]y[/u] gives 21 and [u]x[/u] added to twice [u]y[/u] gives 12. These relations are expressed by the two equations
+2[u]x[/u] + [u]y[/u] = 21,
+[u]x[/u] + 2[u]y[/u] = 12.
+
+Taking the first of these, we have according to the rule
+[u]x[/u] = (21 - [u]y[/u]) / 2.
+
+[ins]Substitute[/ins] [del]Put[/del] this value for [u]x[/u] in the second equation and we get
+(21 - [u]y[/u]) / 2 + 2[u]y[/u] = 12
+
+That is
+[fraction]21/2[/fraction] - [fraction]1/2[/fraction] [u]y[/u] + 2[u]y[/u] = 12,
+
+or
+1[fraction]1/2[/fraction] [u]y[/u] + [fraction]21/2[/fraction] = 12.
+
+Then by the rule
+[u]y[/u] = (12 - [fraction]21/2[/fraction]) / 1[fraction]1/2[/fraction]
+
+Now 12 = [fraction]24/2[/fraction], and 12 - [fraction]21/2[/fraction] = [fraction]3/2[/fraction]; [del]any[/del] [ins]and[/ins] 1[fraction]1/2[/fraction] = [fraction]3/2[/fraction], so that [u]y[/u] = 1.
+
+Substituting this value in the equation
+[u]x[/u] = (21 - [u]y[/u]) / 2,
+
+and we get
+[u]x[/u] = (21 - 1) / 2
+
+or
+[u]x[/u] = 10.
+
+Thus, 2[u]x[/u] + [u]y[/u] = 20 + 1 = 21,
+[u]x[/u] + 2[u]y[/u] = 10 + 2 = 12,
+and the [del]given[/del] [ins]given[/ins] equations are satisfied.

@@ -1,0 +1,25 @@
+[marginalia]
+[pn]Logic
+III[/pn]
+138
+[/marginalia]
+
+For if [u]([del]a[/del] [ins]x[/ins] + y + [del]b[/del] [ins]z[/ins] + x' + y' + z' + etc.) ([del]a'[/del] [ins]x'[/ins] + y' + [del]b'[/del] [ins]z'[/ins] + x + y + z + etc.)[/u] is [u]v[/u], then
+by the second clause of the definition of composition,
+[u]a + x + b + z + x' + y' + z' + etc[/u] is [u]v[/u]; and then by, the third clause of
+the definition of aggregation, either [u]a[/u] or [u]x[/u] or [u]b[/u] or [u]z[/u] etc. is
+[u]v[/u]; and then, by the second, clause of the definition of com-
+position, [u]x[/u] is [u]v[/u]; and then, since by, the first clause of the
+definition of composition, is [u](a + x + b + z + x' + y' + z' + etc) (a' + x' + b' + z' + x + y + z + etc)[/u] is
+[u]v[/u], [u]a' + x' + b' + z' + x + y + z + etc[/u] is [u]v[/u]; it follows from the third clause of
+the same definition that [u](a' + x' + b' + z' + x + y + z + etc) [del]x[/del] [ins]x'[/ins][/u] is [u]v[/u]. And
+further, if [u](a + x + b + z + x' + y' + z' + etc) x'[/u] is [u]v[/u], it follows, by omission of
+components that [u](a + b + z + etc) x'[/u] is [u]v[/u].
+
+Secondly, suppose that [u](a + x + b + z + x' + y' + z' + etc.)[/u] is [u]f[/u]. Then,
+by the first clause of the definition of composition, [u](a + x + b + z + x' + y' + z' + etc) x[/u]
+is [u]f[/u]. And further, [u]a[/u] and [u]x[/u] and [u]b[/u] and [u]z[/u] etc, have by, the first and
+second clauses of the definition of aggregation, all severally,
+the value [u]f[/u]. Then, if [u]z[/u] is [u]v[/u], by the third clause of the definition
+of composition, [del]a[/del] [ins]a[/ins], b, c, etc have all severally the
+value [u]f[/u], and by, the third clause of the definition of aggre-

@@ -1,0 +1,49 @@
+[marginalia]
+[pn]Ms 103[/pn]
+[/marginalia]
+
+[u]Syllabus
+of Plane Analytical Geometry.[/u]
+
+[del]Let[/del] If $P_{1}$ and $P_{2}$ are any two points in the
+plane and $\lambda$ is a number, let
+$$\lambda P_{1} + (1-\lambda) P_{2}$$
+denote any third point in the same line. That is,
+if $P_{1}, P_{2}, P_{3}$ are three points, the condition that they
+shall be in a line is that three numbers $a_{1}, a_{2}, a_{3}$ can be found such
+that
+$$a_{1} P_{1} + a_{2} P_{2} + a_{3} P_{3} = 0$$
+$$a_{1} + a_{2} + a_{3} = 0.$$
+
+In like manner, if $L_{1}$ and $L_{2}$ are any two lines in
+the plane, and $\lambda$ is a number, let
+$$\lambda L_{1} + (1-\lambda) L_{2}$$
+denote any third line crossing their intersection.
+That is, the condition that three lines $L_{1}, L_{2}, L_{3}$
+meet in a point is
+$$a_{1} L_{1} + a_{2} L_{2} + a_{3} L_{3} = 0$$
+$$a_{1} + a_{2} + a_{3} = 0.$$
+
+[del]In like manner[/del]
+If $P_{1}, P_{2}, P_{3}$ are any points in the plane, any fourth
+point $P_{4}$ is in a line [del]through[/del] [ins]with[/ins] $P_{3}$ and some point
+in the line [del]betw[/del] through $P_{1}$ and $P_{2}$ and hence
+$$P_{4} = x_{1} P_{1} + x_{2} P_{2} + x_{3} P_{3}$$
+where $x_{1} + x_{2} + x_{3} = 1$
+
+or
+$$x_{1} P_{1} + x_{2} P_{2} + x_{3} P_{3} + x_{4} P_{4} = 0$$
+$$x_{1} + x_{2} + x_{3} + x_{4} = 0$$
+
+In like manner, if $L_{1}, L_{2}, L_{3}$ are any lines in
+the plane, any fourth line $L_{4}$ passes through the
+intersection of $L_{3}$ and some line through the
+intersection of $L_{1}$ and $L_{2}$ and therefore
+$$L_{4} = u_{1} L_{1} + u_{2} L_{2} + u_{3} L_{3}$$
+where $u_{1} + u_{2} + u_{3} = 1$
+
+or
+$$\left. \begin{aligned}
+u_{1} L_{1} + u_{2} L_{2} + u_{3} L_{3} + u_{4} L_{4} = 0 \\
+u_{1} + u_{2} + u_{3} + u_{4} = 0
+\end{aligned} \right\}$$

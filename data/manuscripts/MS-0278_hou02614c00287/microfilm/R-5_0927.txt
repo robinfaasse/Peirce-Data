@@ -1,0 +1,45 @@
+$$(dr)^2 + (dz)^2$$
+
+$$r = R \cdot r' \quad z = Z \cdot z'$$
+
+$$r^2$$
+
+$$dr = R \, dr' \quad dz = Z \, dz'$$
+
+$$(dr)^2 = R^2 (dr')^2 \quad (dz)^2 = Z^2 (dz')^2$$
+
+$$\sqrt{(dr)^2 + (dz)^2} = \sqrt{R^2 (dr')^2 + Z^2 (dz')^2}$$
+
+$$\frac{ds}{r} = \frac{\sqrt{R^2 (dr')^2 + Z^2 (dz')^2}}{R \cdot r'}$$
+
+$$r' = R \cdot r'$$
+
+$$r' = \sqrt{(2-z')z'} \quad dr' = \frac{1}{2} \frac{2-2z'}{\sqrt{(2-z')z'}} dz'$$
+
+$$dr' = \frac{1-z'}{\sqrt{(2-z')z'}} dz'$$
+
+$$(dr')^2 = \left( \frac{(1-z')^2}{(2-z')z'} \right) (dz')^2 = \left( \frac{1}{2z' - z'^2} - 1 \right) (dz')^2$$
+
+$$R^2 (dr')^2 + Z^2 (dz')^2 = \left[ R^2 \frac{(1-z')^2}{(2-z')z'} + Z^2 \right] (dz')^2$$
+
+$$\frac{ds}{r} = \frac{\sqrt{(dr)^2 + (dz)^2}}{r} = \frac{\sqrt{\frac{(1-z')^2}{(2-z')z'} + \frac{Z^2}{R^2}} (dz')}{\sqrt{(2-z')z'}} = \frac{\sqrt{\left[ R^2 \frac{(1-z')^2}{(2-z')z'} + Z^2 \right] (dz')^2}}{R \sqrt{(2-z')z'}}$$
+
+$$\begin{array}{r|l}
+1 - z' = \zeta & = \frac{\sqrt{\zeta^2 + \frac{Z^2}{R^2}}}{1 - \zeta^2} d\zeta \\
+z' = 1 - \zeta & \\
+2 - z' = 1 + \zeta & \\
+z'(2-z') = 1 - \zeta^2 & = \frac{\sqrt{\zeta^2 + \left(\frac{Z}{R}\right)^2}}{\zeta^2 - 1} (d\zeta) \\
+dz' = -d\zeta & 
+\end{array}$$
+
+[fig]Diagram of a curved line segment[/fig]
+
+$$\frac{\sqrt{1 - \left(\frac{dr}{dz}\right)^2}}{r} = \dots$$
+
+$$\frac{e^{\sqrt{1 - \left(\frac{dr}{dz}\right)^2}}}{r}$$
+
+$$\begin{array}{c|c}
+z' - 1 = \zeta & z' = \zeta + 1 \\
+z' - 2 = \zeta - 1 & z' - 2 = \zeta - 1 \\
+2 - z' = 1 - \zeta & 
+\end{array}$$

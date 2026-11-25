@@ -1,0 +1,38 @@
+[pn]7[/pn]
+
+Let us examine the quadrilateral [u]\gamma\bar{\alpha}\beta\delta[/u].
+It is bounded by \gamma\bar{\delta}\beta/\bar{\alpha}, \bar{\alpha}\bar{\gamma}\delta/\beta, \gamma\beta\alpha/\delta
+and \bar{\beta}\alpha\delta/\gamma. We pass round it [del]by[/del] [ins]through[/ins] the series
+of regions
+\gamma\bar{\delta}\beta/\bar{\alpha}, \bar{\delta}\bar{\gamma}/\bar{\alpha}\beta, \bar{\alpha}\bar{\gamma}\delta/\beta, \beta\bar{\gamma}\alpha/\delta, \gamma\beta\alpha/\delta,
+\delta\alpha\bar{\gamma}, \bar{\beta}\bar{\alpha}\delta/\gamma, \bar{\beta}\bar{\delta}\alpha/\gamma
+It is therefore [del]bound[/del] finite.
+
+[fig]Four intersecting lines forming a central triangle[/fig]
+
+$$\begin{array}{ccc}
+0 & 1 & \\
+& & 1 \\
+1 & 2 & \\
+& & 2 \\
+2 & 4 & \\
+& & 3 \\
+3 & 7 & \\
+& & 4 \\
+4 & 11 &
+\end{array}$$
+
+$$\frac{x^2+x}{2}$$
+
+$$\frac{x(x+1)}{2} + 1$$
+
+$$xn^2 + yn + z$$
+$$\begin{aligned}
+z &= 1 \\
+[del]\frac{n^2+n}{2} &= 1[/del] \\
+[del]\frac{4n^2+2n}{2n^2} &= 3[/del] \\
+x + y &= 1 \\
+4x + 2y &= 3 \\
+[del]2x + 2y = 2[/del] \\
+2x &= 1
+\end{aligned}$$

@@ -1,0 +1,19 @@
+Effect of Flexure of Piece carrying Knife
+
+Suppose weight of yard pendulum produces
+flexure increasing $h$ by $x$
+
+Then length measured is $h_d + h_u + x$ or
+if we consider that in each case $h+x$ is
+the real distance is $h_d + h_u - x$
+
+Then the length of the seconds pendulum found
+instead of being $\frac{h_d + h_u}{T^2}$ as it ought to be
+is $\frac{h_d + h_u - x}{T^2}$ so that the error is $-\frac{x}{T^2}$
+
+In the case of the metre pendulum $x$ is $1.06$
+greater that is is $1.06 x$ and since $T^2_{\text{metre}} = T^2_{\text{yd}} + 1.09$
+the error for the metre will be about $.97$ of that
+of the yard so that the ratio instead of being
+unity will be
+$$\frac{\lambda - .97 \xi}{\lambda - \xi} = 1 + .03 \frac{\xi}{\lambda}$$

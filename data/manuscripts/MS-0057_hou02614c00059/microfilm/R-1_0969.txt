@@ -1,0 +1,26 @@
+[del]in the minuend must be changed from 0 to 1 or from 1 to 0 to give the figure in the remainder.[/del]
+
+[u]Example.[/u] Subt. ct $42097\frac{3}{7}$ from $61894\frac{2}{31}$. I write the subtrahend and minuend in black in the most compact form. I then perform the first operation in brown, the second in red, and the third in blue. The black dots must be imagined to be erased in the first operation.
+
+[fig]Binary subtraction table with colored annotations[/fig]
+
+[u]CHAPTER THE FOURTH. Multiplication.[/u]
+
+This is the multiplication table
+[fig]Binary multiplication table[/fig]
+
+All multiplication will be ordinary long multiplication and calls for no examples, except for the treatment of circulates. The proper way of treating these will be considered later. Meantime they can be managed as in the following example.
+
+[u]Example.[/u] Multiply $1\frac{3}{7}$ by $1\frac{2}{3}$. That is $1.\dot{0}1\dot{1} \times 1.\dot{1}\dot{0}$
+This is $1 + \dot{0}\dot{1}\dot{1} + \dot{0}\dot{1}\dot{0} + (110 \times \dot{0}\dot{0}1 \times \dot{0}\dot{0}1)$
+To multiply $\dot{0}\dot{0}1$ by $\dot{0}\dot{0}1$ or $\dot{0}1010\dot{1}$
+by $\dot{0}00100\dot{1}$
+We have
+[fig]Binary multiplication of circulates[/fig]
+which equals $\dot{0}0001\dot{1}$
+which we multiply by 110
+[fig]Binary multiplication by 110[/fig]
+$110 \times \dot{0}\dot{0}1 \times \dot{0}\dot{0}1 = \dot{0}\dot{0}1001\dot{0}$
+[fig]Addition of terms[/fig]
+Answer = $10.\dot{0}1100\dot{0}$
+which is $2\frac{8}{21}$

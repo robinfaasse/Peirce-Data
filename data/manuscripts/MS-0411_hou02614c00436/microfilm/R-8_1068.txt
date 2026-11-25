@@ -1,0 +1,31 @@
+[pn]195[/pn]
+
+in the infinite series for $Q$ we have an example of a proposition
+which is false if another proposition is true. So a false proposition is
+possible, if a true proposition is possible; and if this be not the case,
+[del]a fortiori[/del] [ins]<u>a fortiori</u>[/ins] is a false proposition possible. A single letter, then, since it
+may stand for any proposition may stand for a false proposition.
+To make the formula necessary, then, there must be something
+that prevents all the antecedentals from being true at once, in case the
+consequental is false. For example, if one of the antecedentals be
+identical with the consequental, this is effected.
+
+Let us write the formula thus:
+$\overline{P_1} | \overline{P_2} | \overline{P_3} | \dots \overline{P_n} | A$.
+
+Each of the antecedentals $P_1, P_2, P_3$, etc. is in itself a
+formula having its consequental and its $0, 1, 2,$ or more
+antecedentals. Thus we can write
+$P_1 = \overline{Q_{11}} | \overline{Q_{12}} | \overline{Q_{13}} | \dots \overline{Q_{1n_1}} | B_1$,
+$P_2 = \overline{Q_{21}} | \overline{Q_{22}} | \overline{Q_{23}} | \dots \overline{Q_{2n_2}} | B_2$,
+etc etc.
+
+The $Q$'s may be called the <u>second antecedentals</u> of the
+original formula, and the $B$'s the <u>second consequentals</u>. The
+$B$s are single letters; but the $Q$s are consequences which
+may be written
+$Q_{11} = \overline{R_{111}} | \overline{R_{112}} | \overline{R_{113}} | \dots \overline{R_{11m_{11}}} | C_{11}$
+$Q_{21} = \overline{R_{211}} | \overline{R_{212}} | \overline{R_{213}} | \dots \overline{R_{21m_{21}}} | C_{21}$
+etc. etc. etc.
+
+The $R$s may be called the <u>third antecedentals</u> of the whole

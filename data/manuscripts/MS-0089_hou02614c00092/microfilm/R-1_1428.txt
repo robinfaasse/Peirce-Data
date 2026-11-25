@@ -1,0 +1,32 @@
+This gives
+$D_t\ D_x\ D_y\ D_z$
+with the same laws as $1, i, j, k$
+Thus,
+$D_x D_y = - D_y D_x = D_z D_t = D_t D_z$
+$D_x^2 = D_y^2 = D_z^2 = - D_t^2$
+
+It follows that the monogenous function must have
+$D_x D_y = D_z D_x = 0$
+
+No term containing $y$ contains $x$ [del]unless[/del]
+except at certain branch points
+
+But there is this way out of it suppose that
+starting at any point say the origin the
+function is only a two way spread in
+a four dimensional space. It is, say, a moving line
+Now we can increase $dy$ independent of $dx$ or
+viceversa But then, both the change of $x$ and of $t$
+are determined.
+But then the derivatives are not partial differentials.
+
+[del]If seems then that[/del] no term can contain two different letters
+Neither can any term contain any letter to higher than the second degree
+and then $x^2, y^2, z^2$ must have the same coefficient while that of $t^2$ only,
+differs by [ins]having[/ins] sign reversed. Hence the general form is
+$ax + by + cz + et + g(x^2+y^2+z^2-t^2) + h$
+
+[fig]triangle[/fig]
+[fig]square[/fig]
+
+[fig]crossed out square[/fig] [fig]square[/fig] [fig]circle[/fig]

@@ -1,0 +1,51 @@
+[u]Morison's Bridge 1899 Feb 5[/u] [pn]4[/pn]
+
+[del]b[/del]
+[del]b_{-q}[/del]
+$b_{-Q} = 0$
+$b_{-Q+1} = \frac{1}{R-Q} b_{-R}$
+$b_{-Q+2} = b_{-Q+2}$
+$b_{-Q+3} = 4b_{-Q+2} - \frac{5}{R-Q} b_{-R}$
+
+$\Delta$
+$b_{-Q+1} - b_{-Q} = \frac{1}{R-Q} b_{-R}$
+$b_{-Q+2} - b_{-Q+1} = b_{-Q+2} - \frac{1}{R-Q} b_{-R}$
+$b_{-Q+3} - b_{-Q+2} = 3b_{-Q+2} - 5 \frac{1}{R-Q} b_{-R}$
+
+$\Delta^2$
+$\Delta^2 b_{-Q} = b_{-Q+2} - 2 \frac{b_{-R}}{R-Q}$
+$\Delta^2 b_{-Q+1} = 2b_{-Q+2} - 4 \frac{b_{-R}}{R-Q}$
+$\Delta^2 b_{-Q-1} = b_{-Q+2} - 2 \frac{b_{-R}}{R-Q}$
+
+$b_{-Q+q} = [del]F[/del] q \frac{1}{6} b_{-Q+2} + \frac{q^2}{2!} + \frac{q^3}{3!} (b_{-Q+2} - 2 \frac{b_{-R}}{R-Q})$
+$= \frac{1}{6} q (q^2-1) b_{-Q+2} - \frac{q^3}{3} \frac{b_{-R}}{R-Q}$
+
+$-Q+q = P$
+$q = Q-P$
+$0 = \frac{1}{6} (Q-P-1)(Q-P)(Q-P+1) b_{-Q+2} - \frac{(Q-P)^3}{3} \frac{b_{-R}}{R-Q}$
+$b_{-Q+2} = 2 \frac{(Q-P)^2}{(Q-P-1)(Q-P+1)} \frac{b_{-R}}{R-Q}$
+
+$gWEs + \frac{1}{2} Es^2$
+$gWE's + Es = 0$
+$s = - \frac{gW}{E} E's$
+
+[fig]diagram with formulas[/fig]
+
+A "general consideration" p. 25 of Report.
+
+Energy [del]dead load[/del] $W_1 y_1 + W_2 y_2 + etc$
+$+ \Phi y_1 y_2 y_3 + [del]\Phi y_1 y_2 y_3[/del]$
+
+Equations $W_1 \delta y_1 + W_2 \delta y_2 + etc + \delta y_1 D_{y_1} \Phi + \delta y_2 D_{y_2} \Phi + etc = 0$
+
+Energy with live load $\sum (w_i + W_i) (y_i + [del]\delta y_i[/del]) + [del]W_i +[/del] \Phi$
+
+Equations [del]\sum (w_i + W_i) y_i + \sum[/del]
+[del](w_i + W_i) \delta y_i +[/del]
+[del]\sum[/del] $(w_i + W_i) \delta y_i + \sum \delta y_i D_{y_i} \Phi = 0$
+
+$Wy + \frac{1}{2} Ey^2$
+$W + Ey = 0$ $y = - \frac{W}{E}$
+$(w+W) y + \frac{1}{2} Ey^2$
+$w+W + Ey = 0$
+$y = - \frac{W}{E} - \frac{w}{E}$

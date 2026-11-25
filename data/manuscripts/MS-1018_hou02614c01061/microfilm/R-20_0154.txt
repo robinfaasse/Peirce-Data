@@ -1,0 +1,42 @@
+[pn]1[/pn]
+Equipotential Curves
+For motion toward center
+of [u]x[/u] only.
+
+Distance = [del]a[/del] [ins]a²[/ins]/x² = a²/(x²+y²)
+
+x Component = ax/(x²+y²)^(3/2)
+
+-a [integral] x/(x²+y²)^(3/2) dx
+
+[integral] x/(x²+y²)^(3/2) dx = -1/(x²+y²)^(1/2)
+
+[fig]Diagram showing coordinate axes and a curve[/fig]
+
+D_t² r = -b/r² D_t² [del]r[/del] [ins]θ[/ins] = [del]b[/del]
+
+[pn]2[/pn]
+D_t² x = -ax/(x²+y²)^(3/2)
+
+(D_t x)² =
+
+D_t (D_t x)² = 2 D_t x D_t² x
+
+D_t (D_t x)² = 2 [del]D_t x[/del] D_t² x + C
+
+(D_t x)² = 2a/(x²+y²)^(1/2) + f y
+
+(D_t y)² = 2a/(x²+y²)^(1/2) + f x
+
+(D_t s)² = 4a/(x²+y²)^(1/2) + f x + f y
+
+[fig]Right triangle with sides labeled x, y, and r[/fig]
+-2/r³
+-dr/r²
+tar⁻¹
+
+D_t² r = -ar⁻²
+(D_t r)² = ar⁻¹
+D_t² α = 0
+
+D_t s

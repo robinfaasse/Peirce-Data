@@ -1,0 +1,40 @@
+[marginalia]
+Monomial Bridge [date]1899 March 3[/date]
+[/marginalia]
+
+[pn]4[/pn]
+
+[u]z[/u] = 1 + A₂n² + A₄n⁴ + A₆n⁶ + A₈n⁸ + etc
+z² = 1 + 2A₂n² + (2A₄ + A₂²)n⁴ + (2A₆ + 2A₂A₄)n⁶ + (2A₈ + 2A₂A₆ + A₄²)n⁸ + etc
+[del]z³ = 1 + 3A₂n² + (3A₄ + 3A₂²)n⁴ + (3A₆ +[/del] [del]18[/del] [del](2A₁₀ + 2A₂A₈ + 2A₄A₆)n¹⁰[/del]
+[del]+ (2A₁₂ + 2A₂A₁₀ + 2A₄A₈ + A₆²)n¹²[/del]
+z³ = 1 + 3A₂n² + (3A₄ + 3A₂²)n⁴ + (3A₆ + 6A₂A₄ + A₂³)n⁶ + (3A₈ + [del]6[/del][ins]12[/ins]A₂A₆ + 3A₄² + 3A₂²A₄)n⁸
++ (3A₁₀ + [del]6[/del][ins]12[/ins]A₂A₈ + [del]6[/del][ins]12[/ins]A₄A₆ + 3A₂²A₆ + 3A₂A₄²)n¹⁰
++ (3A₁₂ + [del]6[/del][ins]12[/ins]A₂A₁₀ + [del]6[/del][ins]12[/ins]A₄A₈ + 3A₆²
++ 2A₂A₄A₆ + 3A₂²A₈ + [del]6[/del][ins]12[/ins]A₂A₄A₆ + A₄³)n¹²
+
+[fig]Fraction bar[/fig]
+
+[fig]Asterisk[/fig]
+[align]
+Exp Divisor
+2 2
+3 6
+4 24
+[del]3·2[/del] [del]2!2![/del]
+[del]3·2[/del] 3! x 2!
+[/align]
+
++ (3A₁₄ + [del]6[/del][ins]12[/ins]A₂A₁₂ + [del]6[/del][ins]12[/ins]A₄A₁₀ + [del]6[/del][ins]12[/ins]A₆A₈
+3A₂²A₁₀ + [del]6[/del][ins]12[/ins]A₂A₄A₈ + 3A₂A₆² + 3A₄²A₆)n¹⁴
+
+z⁴ = 1 + [del]4[/del][ins]8[/ins]A₂n² + (4A₄ + 6A₂²)n⁴ + (4A₆ + [del]12[/del][ins]24[/ins]A₂A₄ + 4A₂³)n⁶
++ (4A₈ + [del]12[/del][ins]24[/ins]A₂A₆ + 6A₄² + [del]12[/del][ins]24[/ins]A₂²A₄ + A₂⁴)n⁸
++ (4A₁₀ + [del]12[/del][ins]24[/ins]A₂A₈ + [del]12[/del][ins]24[/ins]A₄A₆ + [del]12[/del][ins]24[/ins]A₂²A₆ + [del]12[/del][ins]24[/ins]A₂A₄² + [del]4[/del][ins]8[/ins]A₂³A₄)n¹⁰
++ (4A₁₂ + [del]12[/del][ins]24[/ins]A₂A₁₀ + [del]12[/del][ins]24[/ins]A₄A₈ + 6A₆² + [del]12[/del][ins]24[/ins]A₂²A₈ + [del]24[/del][ins]48[/ins]A₂A₄A₆ + 4A₄³ + [del]12[/del][ins]24[/ins]A₂³A₆ + [del]6[/del][ins]12[/ins]A₂²A₄²
++ [del]12[/del][ins]24[/ins]A₂³A₆ + [del]12[/del][ins]24[/ins]A₂²A₄² + 4A₂A₄³)
++ (4A₁₄ + [del]12[/del][ins]24[/ins]A₂A₁₂ + [del]12[/del][ins]24[/ins]A₄A₁₀ + [del]12[/del][ins]24[/ins]A₆A₈ + [del]12[/del][ins]24[/ins]A₂²A₁₀ + [del]24[/del][ins]48[/ins]A₂A₄A₈ + [del]12[/del][ins]24[/ins]A₂A₆² + [del]12[/del][ins]24[/ins]A₄²A₆
+[del]12[/del][ins]24[/ins]A₂³A₈ + [del]24[/del][ins]48[/ins]A₂²A₄A₆ + 4A₂A₄³)
+
+z⁵ = 1 + 5A₂n² + (5A₄ + [del]10[/del][ins]3·2[/ins]A₂²)n⁴ + (5A₆ + [del]20[/del][ins]10[/ins]A₂A₄ + [del]10[/del][ins]10[/ins]A₂³)n⁶
++ (5A₈ + [del]20[/del][ins]20[/ins]A₂A₆ + 10A₄² + [del]30[/del][ins]24[/ins]A₂²A₄ + 5A₂⁴)n⁸

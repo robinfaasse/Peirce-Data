@@ -1,0 +1,49 @@
+[pn]628[/pn]
+[fig]Binary tree diagram with mathematical notes[/fig]
+$\sqrt{10} = 1 + x$
+$x^{2} + 2x = 1$
+
+0
+1
+2
+5
+_
+
+$\begin{array}{r} 846 \\ 169 \\ \hline 985 \end{array}$
+
+$\begin{array}{r} 0 \\ 10 \\ 101 \\ 1100 \\ \hline\end{array}$
+
+$\begin{array}{r} 1970 \\ 408 \\ \hline 3378 \end{array}$
+
+$\begin{array}{r} 2 \\ 12 \\ 29 \\ 70 \\ 169 \\ 408 \\ 985 \\ \hline 3378 \end{array}$
+
+$\begin{array}{r} 0 \\ 10 \\ 101 \\ 1100 \\ 110110 \\ 11001001 \\ \hline\end{array}$
+
+$\begin{array}{r} 10 \\ 101 \\ 1100 \\ 11101 \\ 1010110 \\ 10101001 \\ 110010000 \\ \hline\end{array}$
+
+$\left. \begin{array}{r} 512 \\ 256 \\ 128 \\ 64 \\ 16 \\ 8 \\ 1 \\ \hline \end{array} \right\} 985$
+
+[u]Petersburg Problem[/u]
+
+Suppose $1024$ trials
+
+$\begin{array}{rcccr}512 & \text{times} & \text{I shall pay} & \$1 & \$512 \\ 256 & \text{"} & \text{"} & \$2 & 512 \\ 128 & \text{"} & \text{"} & \$4 & 512 \\ 64 & \text{"} & \text{"} & \$8 & 512 \\ 32 & \text{"} & \text{"} & \$16 & 512 \\ 16 & \text{"} & \text{"} & \$32 & 512 \\ 8 & \text{"} & \text{"} & \$64 & 512 \\ 4 & \text{"} & \text{"} & \$128 & 512 \\ 2 & \text{"} & \text{"} & \$256 & 512 \\ 1 & \text{"} & \text{"} & \$512 & 512 \\ \hline 1023 & & \text{Total} & & \$5120 \end{array}$
+
+If I am paid $\$10$ a time. I gain
+But suppose there are to be $\begin{array}{r} 1024 \\ 2048 \\ 4096 \text{ trials} \end{array}$
+
+[del]Then with the[/del] $1048576$
+Then $524288$ times I shall pay $\$1$ [del]$524288$[/del]
+
+and in $1048576$ trials I shall pay $\$10485760$
+and I shall want to be paid $\$20$ a time
+
+This I am confident would always be
+enough. If there were to be but $30$ trials
+$16$ or fewer I should pay $\$1$ $\$16$
+$8$ " " " $\$2$ $16$
+$4$ " " " $\$4$ $16$
+$2$ " " " $\$8$ $16$
+$1$ " " " $\$16$ $16$
+I might pay $\left. \begin{array}{r} \overline{31} \end{array} \right) \overline{80}$
+$\$3$ would be enough

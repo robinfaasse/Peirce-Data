@@ -1,0 +1,30 @@
+vvf vfv fvf
+[fig]Venn diagram[/fig]
+x y z + x y z + x y z
+____________________________________________________________________________________
+[fig]Venn diagram[/fig]
+(x + y) (x + z) (y + z) ([del]y + z[/del])
+[fig]Venn diagram[/fig]
+x [$\phi$] y  x [$\phi$] z  y [$\neq$] z
+2
+3
+8
+__
+48
+[fig]Venn diagram[/fig]
+($\overline{x}$ + z) ($\overline{y}$ + z) ($\overline{x}$ + y) ($\overline{y}$ + x)
+zx   x = y
+x y z
+($\overline{z}$ + y + x)
+[del]($\overline{z}$ + y + x)[/del] ($\overline{z}$ + y + x) (y + x + z)
+(a + b) (a + c)
+[del]a + b c[/del]
+z + x y [del]($\overline{z}$ + y + x) (y + x + z) (y + x + z)[/del]
+[fig]Venn diagram[/fig]
+[ins]($\overline{z}$ + x)[/ins]
+- ($\overline{x}$ + y) ($\overline{y}$ + x) ($\overline{z}$ + y + x) ($\overline{z}$ + y + x) ($\overline{z}$ + y + x) ($\overline{z}$ + y + x)
+- ($\overline{x}$ + y) (y + x) 2 [ins]($\overline{z}$ + y)[/ins]
+2 z + y + x z + y + x z + y + x z + y + x
+2
+3 ($\overline{z}$ + y) ($\overline{z}$ + x) (y + x)
+z y x + z y x + z y x + z y x

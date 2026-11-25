@@ -1,0 +1,69 @@
+[fig]Graph with algebraic fractions and scribbles[/fig]
+
+[fig]Graph with vertices B, A, A, A[/fig] [fig]Graph with vertices C, B, A, A[/fig] [fig]Chinese characters[/fig]
+
+$$\begin{array}{l}
+S_{l,m,n} = u_{l-1,m,n} \\
+\phantom{S_{l,m,n}} = v_{l,m-1,n} \\
+\phantom{S_{l,m,n}} = w_{l,m,n-1}
+\end{array}$$
+
+$$\begin{array}{l}
+u_{l,m,n} = (c-1) S_{l-1,m,n} + (c-2) u_{l-1,m,n} \\
+v_{l,m,n} = (c-1) S_{l,m-1,n} + (c-2) u_{l,m-1,n}
+\end{array}$$
+
+[fig]Graph with vertices A, B, A, B[/fig] [fig]Graph with vertices C, A, B[/fig] [fig]Graph with vertices A, B, A, B[/fig] [fig]Graph with vertices A, B, A[/fig] [fig]Graph with vertices A, C, B[/fig]
+
+$$\begin{array}{l}
+v_{l,m,n} = w_{l,m,n} + t_{l-1,m,n} \\
+w_{l,m,n} = v_{l-1,m,n} + t_{l-1,m,n} \\
+t_{l,m,n} = (c-2) (v+w)_{l-1,m,n} + (c-3) t_{l-1,m,n}
+\end{array}$$
+
+$$\begin{array}{l}
+S_{111} = u_{111} = v_{111} = w_{111} = 0 \\
+t_{111} = c(c-1)(c-2) \\
+\\
+S_{211} = [del]u_{211}[/del] = 0 \\
+t_{211} = c(c-1)(c-2)(c-3) \\
+u_{211} = c(c-1)(c-2) \\
+w_{211} = c(c-1)(c-2)
+\end{array}$$
+
+[u]$$S_{221} = c(c-1)(c-2)$$$$[/u]
+$$\begin{array}{l}
+u_{221} = c(c-1)(c-2)^2 \\
+v_{221} = c(c-1)(c-2)^2 \\
+w_{221} = c(c-1)(c-2) [del]\left( \frac{c-3}{c-2} \right)[/del] [ins]\left[ \frac{(c-2)^2 + 1}{c-2} \right][/ins] \\
+t_{221} = c(c-1)(c-2) [del]\left( \frac{2c-5}{c-2} \right)[/del] \\
+u_{212} = c(c-1)(c-2)^2 = w_{122} \\
+v_{212} = c(c-1)(c-2)(c-3) = u_{122} \\
+w_{212} = c(c-1)(c-2)^2 = v_{122}
+\end{array}$$
+
+[fig]Graph with loop[/fig]
+
+$$\begin{array}{l}
+\frac{c(c-1)^2(c-2)}{c(c-1)(c-2)^2(c-3)} \\
+\frac{c^2-5c+6}{c^2-4c+5} + \frac{c-1}{c-1}
+\end{array}$$
+
+$$\begin{array}{l}
+\frac{c(c-1)(c-2)^2}{c(c-1)(c-2)(2c-5)} \\
+\frac{3c-7}{c(c-1)(c-2)^2}
+\end{array}$$
+
+$$\begin{array}{l}
+S_{121} = v_{121} = 0 \\
+S_{112} = w_{112} = 0 \\
+t_{121} = t_{112} = c(c-1)(c-2)(c-3) \\
+u_{121} = w_{121} = u_{112} = v_{112} = [del]\text{clem}[/del]
+\end{array}$$
+
+$$\begin{array}{l}
+S_{222} = c(c-1)(c-2)(c-3) \\
+u_{222} = [del](c^2-4c+5)[/del] c(c-1)(c-2) \left[ (c-2)^2 + 1 \right] \\
+v_{222} = c(c-1)(c-2) [del](3c-7)[/del] \left[ (c-2)^2 + 1 \right] \\
+w_{222} =
+\end{array}$$

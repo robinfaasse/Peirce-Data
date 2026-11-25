@@ -1,0 +1,39 @@
+[pn]23121[/pn]
+
+[fig]Grid table with letters j, k, l, m, o, e, and zeros[/fig]
+
+[del]$l m = c_{45} k +$[/del] [ins]$l$[/ins]
+$m i = c_{51} k + c_{51} l$
+$m l = c_{45} l c$
+$m^2 = c_{45} j +$ [del]$c_{51} k + l$[/del]
+
+[u]25121[/u] $d_5 = 1$
+$c_{45} = c_{54}$
+
+$k = A \cdot D$ $i = A \cdot B + B \cdot C + C \cdot D$
+$j = A \cdot C + B \cdot D$
+$k = A \cdot D$
+
+[del]$m = A \cdot E + E \cdot C + B \cdot E + E \cdot D$[/del]
+
+[del]$l = B \cdot C + A \cdot D$[/del]
+
+[del]$i m = A \cdot E$[/del]
+[del]$m i = E \cdot D$[/del]
+
+$l_1 = c_{5} k + l$
+[del]$i m = l_1 - c_{5} k$[/del]
+$m_1 = m - c_{5} j$
+
+[del]$l = A \cdot E + F \cdot D$[/del]
+[del]$m = A \cdot F + E \cdot D$[/del]
+
+[del]$A \cdot B$[/del] $l = A \cdot E + F \cdot D$
+$m = B \cdot E + E \cdot C$
+$+ E \cdot D + A \cdot F$
+
+$l = i m$
+$m^2 = j + i m$
+$m^2 = i (i + m)$
+$l = i (i + m) = j + l$
+$(j + l) (i + m) =$

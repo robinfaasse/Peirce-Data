@@ -1,0 +1,19 @@
+[pn]4[/pn]
+
+$A$	$A$ is true
+$AB$	$A$ & $B$ are both false
+$AB_0C$	Either $A$ or $B$ are true or $C$ is false
+$AB_0AB$	Either $A$ or $B$ is true
+$A_0C$	$A$ is true or $C$ is false
+$\therefore A_0C : B B_0C : C$
+
+$A\overline{x}\overline{B} = \overline{A+B}$
+$(A+B)\times\overline{C}$
+$A\overline{C} + B\overline{C}$
+
+$\begin{array}{c} AB_0C ; A \\ C \end{array}$	$\begin{array}{c} AB_0C \\ A_0 \end{array}$
+
+$\begin{array}{c} AB \\ \therefore A \end{array}$	$\begin{array}{c} A_0, B \\ \therefore AB_0C \end{array}$	$\begin{array}{c} AB_0C ; D \\ \therefore A_0, C_0D \end{array}$
+
+Set down a single propn that is true
+or pairs of propositions that are false

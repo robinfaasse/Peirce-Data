@@ -1,0 +1,7 @@
+In (4), put $u = m-1$
+$i^m j^n = \sum ( a, i^m j^{n-1} + b, i^{m-1} j^n )$
+which in this case gives
+$0 = i^{m-1} j^n$
+[del]and in like manner[/del] putting in (2) [del]is u[/del]
+successively smaller and smaller m,
+get [del]$0 = i^{m-2} j^n = i^{m-3} j^n$ down to $i^2 j^n = 0$[/del]

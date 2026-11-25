@@ -1,0 +1,21 @@
+called the "sheet of assertion," and its purpose is vaguely supposed
+such that the writing of a given sign upon it may or may
+[del]not conduce to agree with[/del] [ins]be agreeable to[/ins] that purpose.
+
+[fig]Geometrical diagram with intersecting lines and curves[/fig]
+
+[fig]Small diagram showing angles alpha and beta[/fig]
+
+$\sin \beta = \frac{\sin \alpha}{n}$
+$\alpha - \beta$
+
+$\sin^2 \beta = \frac{\sin^2 \alpha}{n^2}$
+$1 - \sin^2 \beta = 1 - \frac{\sin^2 \alpha}{n^2}$
+$\cos \beta = \sqrt{1 - \frac{\sin^2 \alpha}{n^2}} = \frac{1}{n} \sqrt{n^2 - \sin^2 \alpha}$
+$= \frac{1}{n} \sqrt{n^2 - 1 + \cos^2 \alpha}$
+
+$\frac{x}{y} = \tan (\alpha - \beta)$
+$= \frac{\sin \alpha \cos \beta - \cos \alpha \sin \beta}{\cos \alpha \cos \beta - \sin \alpha \sin \beta}$
+
+$\cos \beta = \frac{\cos \alpha}{n} \sqrt{1 + \frac{n^2 - 1}{\cos^2 \alpha}}$
+$= \cos \alpha \sqrt{\frac{1}{\cos^2 \alpha} + (\frac{1}{\cos^2 \alpha}) \frac{n^2 - 1}{n^2}}$

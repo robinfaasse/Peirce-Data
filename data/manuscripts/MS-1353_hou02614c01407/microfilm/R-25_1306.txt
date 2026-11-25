@@ -1,0 +1,44 @@
+Correction of the Stereographic for [del]projection[/del] [ins]compression[/ins] of the earth
+
+[fig]horizontal line[/fig] [fig]horizontal line with vertical tick[/fig] [fig]geometric diagram with lines[/fig] [fig]vertical line with ticks[/fig]
+
+$q \cdot d\omega = \sin \alpha \cdot ds$
+
+Suppose $\alpha = 90^{\circ}$
+$\alpha = 0^{\circ}$
+
+on earth
+$ds = q \cdot d\omega$
+$ds = dq \cdot \text{cosec } \varphi$
+
+on map
+$r d\omega$
+$dr$
+
+[fig]triangle with angle d\omega[/fig]
+[fig]triangle with angle d\omega[/fig]
+[fig]angle \varphi with arrows[/fig]
+
+$$\frac{dr}{dq} \sin \varphi = \frac{r}{q}$$
+
+$$\frac{dr}{dq} \cdot \frac{\sin u}{\sqrt{1 - e^2 \cos^2 u}} = \frac{r}{q}$$
+
+$$- \frac{dr}{a \sin u \cdot du \sqrt{1 - e^2 \cos^2 u}} = \frac{r}{a \cos u}$$
+
+$$- \frac{dr}{r} = \frac{\sqrt{1 - e^2 \cos^2 u} \cdot du}{\cos u}$$
+
+$$- \log r = \frac{\sqrt{1 - e^2 \frac{\cos^2 \varphi}{1 - e^2 \sin^2 \varphi}}}{\frac{\cos \varphi}{\sqrt{1 - e^2 \sin^2 \varphi}}} du$$
+
+$$\sin^2 \varphi = \frac{1 - \sin^2 u}{1 - e^2 \cos^2 u}$$
+
+$$(1 - e^2 \sin^2 \varphi) \cos^2 u = 1 - \sin^2 \varphi$$
+
+$$\cos u = \frac{\cos \varphi}{\sqrt{1 - e^2 \sin^2 \varphi}}$$
+
+[del]$- \sin u \cdot du = \frac{- \sin \varphi \cdot d\varphi \sqrt{1 - e^2 \sin^2 \varphi} + \cos \varphi \frac{e^2 \sin \varphi \cos \varphi \cdot d\varphi}{\sqrt{1 - e^2 \sin^2 \varphi}}}{1 - e^2 \sin^2 \varphi}$[/del]
+
+$$\cos \varphi \cdot d\varphi =$$
+
+$$- \cos u \cdot$$
+
+$$\frac{+ \sin u \frac{e^2 \cos u}{1 - e^2 \sin^2 \varphi}}{1 - e^2 \cos^2 u}$$

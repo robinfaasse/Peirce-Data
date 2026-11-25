@@ -1,0 +1,15 @@
+[pn]Logic
+III
+61[/pn]
+
+(88) [u](x < y) < z[/u] is equivalent to asserting both [u](x < z) < z[/u] and [u]y < z[/u].
+
+For if [u](x < y) < z[/u] is true, by (65), either [u]z[/u] is true or [u]x < y[/u] is false, when, by [del](67)[/del] [ins](61)[/ins], [u]x[/u] is true. But if either [u]z[/u] or [u]x[/u] is true, by (84), [u](x < z) < z[/u] is true. Hence, if [u](x < y) < z[/u] is true [u](x < z) < z[/u] is true, and, by (81) [u]y < z[/u] is true at the same time. By (84) if [u](x < z) < z[/u] is true either [u]x[/u] or [u]z[/u] is true; and by (88), if [u]z[/u] is not true but [u]y < z[/u] is true, [u]y[/u] is false. Hence if both [u](x < z) < z[/u] and [u]y < z[/u] are true, either [u]z[/u] is true, when by (66), [u](x < y) < z[/u] is true, or [u]x[/u] is true and [u]y[/u] false when by (65) [u]x < y[/u] is false, and by (67) [u](x < y) < z[/u] is true. Thus if both [u](x < z) < z[/u] and [u]y < z[/u] are true, [u](x < y) < z[/u] is true; and (88) follows.
+
+(89) If [u](x < y) < z[/u] is true [u]x < y < z[/u] is true.
+
+This follows from (88) and (66).
+
+(90) If [u][x < (y < z)] < u[/u] is true, then [u](x < y) < [(x < z) < u][/u].
+
+For [u][x < (y < z)] < u[/u] is equivalent, by (88) to asserting at once [u]u < v[/u] and [u](x < y) < v[/u] and [u][(y < z) < v] < v[/u], which [del]is again equivalent to asserting[/del] [ins]look like equivalent to asserting [del](x < y) < u[/del][/ins]

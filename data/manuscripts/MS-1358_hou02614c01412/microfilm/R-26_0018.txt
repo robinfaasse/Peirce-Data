@@ -1,0 +1,28 @@
+[pn]5[/pn]
+[u]Motion's Pontrye 1898 Sep 1[/u]
+
+Try (26) which I suspect.
+Changing coordinates
+[del]$\delta x_1 - \delta x_2 =$[/del] $\delta x_1 - \delta x_2 = \frac{(\beta_2 + \lambda_i)\heartsuit_3 + (\varepsilon_2 + \kappa_i)\heartsuit_6 + (-\varepsilon_2 \kappa_i + \alpha_2 \lambda_i + \frac{1}{\Lambda_2 \mu_2})\delta x_1 + (\beta_2 \kappa_i - \varepsilon_2 \lambda_i)\delta y_1}{-2\varepsilon_2 \kappa_i + \alpha_2 \lambda_i + \beta_2 \mu_i + \frac{1}{\Lambda_2 \mu_2} + [P_i]}$
+
+Interchanging 0 and 2 in (24)
+$\delta x_1 - \delta x_2 = \frac{(-\beta_2 - \lambda_i)\heartsuit_3 + (-\varepsilon_2 - \kappa_i)\heartsuit_6 + (\varepsilon_2 \kappa_i - \alpha_2 \lambda_i - \frac{1}{\Lambda_2 \mu_2})\delta x_1 + (-\beta_2 \kappa_i + \varepsilon_2 \lambda_i)\delta y_1}{2\varepsilon_2 \kappa_i - \alpha_0 \lambda_0 - \beta_0 \mu_0 - \frac{1}{\Lambda_0 \mu_0} - [P_0]}$
+
+All right
+Try (27) Changing coordinates
+$\delta y_1 - \delta y_2 = \frac{(\varepsilon_2 + \kappa_i)\heartsuit_3 + (\alpha_2 + \mu_i)\heartsuit_6 + (\alpha_2 \kappa_i - \varepsilon_2 \mu_i)\delta x_1 + (-\varepsilon_2 \kappa_i + \beta_2 \mu_i + \frac{1}{\Lambda_2 \mu_2})\delta y_1}{-2\varepsilon_2 \kappa_i + \alpha_2 \lambda_i + \beta_2 \mu_i + \frac{1}{\Lambda_2 \mu_2} + [P_i]}$
+
+Interchanging 0 & 2 in (25)
+$\delta y_1 - \delta y_2 = \frac{(-\varepsilon_2 - \kappa_i)\heartsuit_3 + (-\alpha_2 - \mu_i)\heartsuit_6 + (-\alpha_2 \kappa_i + \varepsilon_2 \mu_i)\delta x_1 + (\varepsilon_2 \kappa_i - \beta_2 \mu_i - \frac{1}{\Lambda_2 \mu_2})\delta y_1}{2\varepsilon_2 \kappa_i - \alpha_2 \lambda_i - \beta_2 \mu_i - \frac{1}{\Lambda_2 \mu_2} - [P_i]}$
+
+These are all right
+Try (21) Changing coordinates
+$\heartsuit_5 + (\kappa_0 - \kappa_i)\delta x_1 + (\lambda_0 + \lambda_i)\delta y_1 - \kappa_0 \delta x_0 - \lambda_0 \delta y_0 + \kappa_i \delta x_2 - \lambda_i \delta y_2$
+
+Interchanging 0 and 1
+$\heartsuit_5 + (-\kappa_i + \kappa_0)\delta x_1 + (\lambda_i + \lambda_0)\delta y_1 + \kappa_i \delta x_2 - \lambda_i \delta y_2 - \kappa_0 \delta x_0 - \lambda_0 \delta y_0 = 0$
+[u]Right[/u]
+
+It appears then that the error lies
+in the substitutions of (24) - (27) in (21)
+[u]Repeat this[/u]

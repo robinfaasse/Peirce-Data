@@ -1,0 +1,32 @@
+[pn]2[/pn]
+
+[u]Monroe's Bridge[/u] [date]1898 Feb 7[/date]
+
+Energy in horizontal position
+$\frac{1}{2} B \left[ \Theta_1^2 + (\Theta_2 - \Theta_1)^2 + (\Theta_3 - \Theta_2)^2 + \dots (\Theta_Q - \Theta_{Q-1})^2 \right]$
+$+ \frac{1}{2} B \left[ \Theta_1^2 + (\Theta_1 - \Theta_2)^2 + (\Theta_2 - \Theta_3)^2 + \dots (\Theta_{Q-1} - \Theta_Q)^2 \right]$
+$- \frac{1}{2} I u (\sin \Theta_1 + \sin \Theta_2 + \dots \sin \Theta_N) - \frac{1}{2} I v (\sin \Theta_{N+1} + \sin \Theta_{N+2} + \dots \sin \Theta_Q)$
+$+ \frac{1}{2} I u (\sin \Theta_1 + \sin \Theta_2 + \dots \sin \Theta_N) + \frac{1}{2} I v (\sin \Theta_{N+1} + \sin \Theta_{N+2} + \dots \sin \Theta_Q)$
+
+[del]$- I u [ (Q-1) \sin \Theta_1 + (Q-2) \sin \Theta_2 +$[/del]
+$- I u \left[ (N-1) \sin \Theta_1 + (N-2) \sin \Theta_2 + \dots + \sin \Theta_{N-1} \right]$ [del]$- I v [$[/del]
+[del]$- I v [ (Q-N) \sin \Theta_{N+1} + (Q-N-1) \sin \Theta$[/del]
+[del]$- I v [ (Q-N) \sin \Theta_{N+1} + (Q-$[/del]
+$- I v (Q-N) (\sin \Theta_1 + \sin \Theta_2 + \dots \sin \Theta_N)$
+$- I v \left[ (Q-N-1) \sin \Theta_{N+1} + (Q-N-2) \sin \Theta_{N+2} + \dots \sin \Theta_{Q-1} \right]$
+$+ I u \left[ (N-1) \sin \Theta_{-1} + (N-2) \sin \Theta_{-2} + \dots \sin \Theta_{-N+1} \right]$
+$+ I v (Q-N) (\sin \Theta_{-1} + \sin \Theta_{-2} + \dots \sin \Theta_{-N})$
+$+ I v \left[ (Q-N-1) \sin \Theta_{-N-1} + (Q-N-2) \sin \Theta_{-N-2} + \dots \sin \Theta_{-Q+1} \right]$
+
+Now suppose the vertical heights [ins]of simple joints[/ins] to be [del]increased[/del] [ins]infinitesimally[/ins] by $\delta y_{12}$ $\delta y_{23}$ $\delta$
+by changes of the $\Theta$'s [del]in two consecutive links[/del] [ins]in each[/ins]
+
+[del][fig]crossed out diagram[/fig][/del] [del]$\delta y_{n(n+1)}$[/del] [ins]n positive[/ins]
+
+Since the line is horizontal
+[del]$I$[/del] $I \delta \theta_n = \delta y_{n(n+1)}$
+$I \delta \theta_{n+1} = \delta y_{n(n+2)}$
+$\delta \theta_n = - \delta \theta_{n+1}$
+
+$\sum_{-\infty}^{+\infty} \left\{ B_n [ [del](\Theta_{n+1} - \Theta_n)^2[/del] [ins]$(\theta_n - \Theta_n)^2$[/ins] [del]$+ w_n y_n$[/del] [ins]$+ w_n y_n$[/ins] \right\}$
+[del][fig]crossed out scribble[/fig][/del]

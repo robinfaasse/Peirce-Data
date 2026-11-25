@@ -1,0 +1,11 @@
+The proper treatment of (7) is to multiply it by the proposition
+(8) $\sum_{\lambda} \sum_{\mu} \prod_{b} \overline{q}_{\lambda a} \cdot (\overline{q}_{\lambda b} + q_{\mu b})$
+
+Namely for $b$ put $s$ and for $q_{\mu s}$ put $q_{\eta x} \cdot q_{\eta y}$
+
+$\sum_{\lambda} \sum_{a} q_{\lambda a} \cdot (\overline{q}_{\lambda s} + q_{\eta s} + [del]q_{\eta x \cdot} q_{\eta y}[/del] [ins]q_{\eta x} \cdot q_{\eta y}[/ins])$
+Now identifying $u$ and $z$ in (7) with $a$ and $\kappa$ with $\lambda$
+it becomes
+$\sum_{y} \sum_{a} \sum_{i} \sum_{\eta} \Pi_{x} \Pi_{y} \Pi_{\beta} \sum_{s} \Pi_{h}$
+$\overline{q}_{a h} \cdot \overline{q}_{\beta i} \cdot q_{\lambda a} \cdot \{ [del]\overline{q}_{\lambda s}[/del] [ins]\overline{q}_{\lambda s}[/ins] + \overline{q}_{\beta x} + (\overline{q}_{\beta y} + [del]q_{\eta y}[/del] [ins]q_{\eta y}[/ins] + \overline{q}_{\beta h} + q_{\theta y} + \overline{q}_{\eta x a} + q_{\eta y d})$
+$\cdot \overline{q}_{\lambda s} \cdot [del]q_{\eta s}[/del] \cdot [del]\{ \overline{q}_{\beta h}[/del] + q_{\theta y} + [del]\overline{q}_{\eta x}[/del] \cdot q_{\eta y a} [del]\}[/del])$

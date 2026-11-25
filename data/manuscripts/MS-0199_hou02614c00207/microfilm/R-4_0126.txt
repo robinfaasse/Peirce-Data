@@ -1,0 +1,26 @@
+[pn]M.S.
+D 66[/pn] $S_r$ be regarded as the substitute for $y^r$ then $S_{r-1}$ is the
+substitute for $y^{r-1}$, and $S_{r-2}$ is the substitute for $y^{r-2}$ But of
+all this you shall gain a much clearer vision before you get to the end
+of this evolution.
+
+I have set down a few of the first substitutes and the resulting
+approximations to the values of $y$. [ins]Approximations to $y$.[/ins] [ins](Roman)[/ins]
+
+$$\begin{array}{l c l}
+S_0 & - & 1 \\
+S_1 & - & 1 \\
+S_2 & 1100 & 0.0001 \\
+S_3 & 1100100 & 0.000111101 \\
+S_4 & 110101000 & 0.00011110001100 \\
+S_5 & 1110000010000 & 0.00011110001101111111
+\end{array}$$
+
+[marginalia]The last figure
+should be 0[/marginalia]
+
+The last approximation is nearer correct than it could be expressed in 5 decimal
+places.
+
+I have now something to say which applies equally to the numerical
+solutions of all equations, and is not limited to the present example. It is

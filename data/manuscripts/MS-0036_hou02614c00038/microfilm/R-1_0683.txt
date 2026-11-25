@@ -1,0 +1,17 @@
+The comparison of collections with regard to their
+number depends upon putting their members into
+correspondence with one another. How, then, shall
+we write that for every [u]l[/u] there is an [u]m[/u]? We must
+say that there is a relation, r, such that no two different
+every [u]l[/u] is in this relation to some [u]m[/u] and no two different
+ones to the same [u]m[/u].
+
+[del]$\Sigma_r \Pi_i \Pi_j \Pi_k \bar{r}_{ik} (\bar{l}_i + \bar{r}_{ik} m_k) (\bar{l}_j + \bar{r}_{jk} +$[/del]
+[del]$\Sigma_r \Pi_i (\Pi_j \Sigma_k) \Pi_h [\bar{l}_i + \bar{r}_{ik} m_k (\bar{l}_j + \bar{r}_{jk} + n_i n_j + \bar{n}_i \bar{n}_j)]$[/del]
+$\Sigma_r \Pi_i \Sigma_k \Pi_j \Pi_h \cdot \bar{l}_i + \bar{r}_{ik} m_k (\bar{l}_j + \bar{r}_{jk} + n_i n_j + \bar{n}_i \bar{n}_j)$
+
+This [del](A + B + C) D[/del] does not appear to differ from the broader
+$\Sigma_r \Pi_i \Sigma_k \Pi_j \Pi_h \cdot \bar{l}_i + \bar{l}_j + \bar{r}_{ik} m_k (\bar{r}_{jk} + n_i n_j + \bar{n}_i \bar{n}_j)$
+
+As an abbreviation for this we may write
+$G_{lm}$ that is there are at least as many [u]m[/u]'s as [u]l[/u]'s

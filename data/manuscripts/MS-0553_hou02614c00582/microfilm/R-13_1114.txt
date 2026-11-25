@@ -1,0 +1,22 @@
+Let $u_{pqr}$ mean $p$ urges $q$ to shoot $r$,
+and let $v_{pqr}$ mean $p$ abuses $q$ to $r$.
+
+Then the premises are
+$$\Pi_i \Sigma_j \Pi_k (\bar{v}_{ijk} + u_{ijk})$$
+$$\Sigma_x \Pi_y \Sigma_z \ \ v_{xyz} \cdot \bar{u}_{xzy}$$
+
+We can write the $\Pi$s and $\Sigma$s in two orders either
+$$\Sigma_x \Pi_y \Sigma_z \Pi_i \Sigma_j \Pi_k \ (\bar{v}_{ijk} + u_{ijk}) \cdot v_{xyz} \cdot \bar{u}_{xzy}$$
+or
+$$\Sigma_x \Pi_i \Sigma_j \Pi_y \Sigma_z \Pi_k \ (\bar{v}_{ijk} + u_{ijk}) \cdot v_{xyz} \cdot \bar{u}_{xzy}$$
+
+In the first case, we cannot identify anything but $k$ with $j$
+and hence can eliminate nothing. In the second case, we can
+identify $i$ with $x$, $y$ with $j$, and $k$ with $z$. We thus get
+
+$$\Sigma_x \Sigma_j \Sigma_z \ (\bar{v}_{xjz} + u_{xjz}) \cdot v_{xjz} \cdot \bar{u}_{xzj}$$
+which gives
+$$\Sigma_x \Sigma_j \Sigma_z \ \ u_{xjz} \cdot \bar{u}_{xzj}$$
+that is, there is a man who has urged one party to
+shoot another without having urged the latter to shoot
+the former.

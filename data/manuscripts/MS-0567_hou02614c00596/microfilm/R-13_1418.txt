@@ -1,0 +1,63 @@
+[pn]6[/pn]
+
+Now dropping $m$ we have
+$\Pi_i \Pi_j \Pi_k (l_{ik} + l_{ij})$
+
+i.e. whatever is in the relation $l$ to anything is in that
+relation to everything.
+
+An artifice which I have not included among
+the regular steps of the inferential procedure but
+which is occasionally useful, consists in taking the
+latter part of the quantifier away from its position
+at the head of the proposition and putting it
+before the part which alone it concerns. The
+formulae governing this operation are
+$\Pi_j a_i b_{ij} = a_i \Pi_j b_{ij}$  $\Sigma_j a_i b_{ij} = a_i \Sigma_j b_{ij}$
+$\Pi_j (a_i + b_{ij}) = a_i + \Pi_j b_{ij}$  $\Sigma_j (a_i + b_{ij}) = a_i + \Sigma_j b_{ij}$.
+This transformation will generally be used in
+connection with the formulae
+$a \prec a + b$
+and
+$a + x b = a \bar{x} + x b$.
+
+***
+
+[pn]7[/pn]
+
+[u]Second-intentional logic, resumed.[/u]
+
+The special peculiarity of ordinary algebra
+has given us the false notion that inverse
+operations are the general means of solving
+algebraical problems. But the study of general
+algebra shows that inverse operations lead to
+determinate results only in special cases, — that
+what is called "the general case" is in truth a
+mere form of speciality, — and that the only,
+general method of elimination is by performing
+a direct operation which will give a constant
+result whatever the value of the variable. — Thus
+in ordinary algebra, it happens to be the case that
+every quantity has a reciprocal so that
+$\frac{1}{x} \cdot x = 1$.
+
+So in logical algebra, the only way of eliminati[ins]ng[/ins]
+any token is by means of the properties of special
+terms of second intention such as
+$a_{ij} \bar{a}_{xy} \prec 1_{ix} + 1_{jy}$  $a_i \bar{a}_j \prec 0$.
+
+In order to bring these formulae to bear it
+may be necessary to multiply the premises into
+itself, to manipulate the indices, and use
+processes of association and of development by
+distribution; but whatever cannot be eliminated
+by these means cannot be eliminated at all.
+
+The universes of marks to which the tokens
+$l$, $1$, and others like these refer are, in referen[ins]ce[/ins]
+to the combinations of objects to which they are
+attached, unlimited universes. [Compare the
+Thomish doctrine of angelic natures.] That is
+to say, every lot of objects has some qual[ins]ity[/ins]
+common and peculiar to the objects com[ins]prising it.[/ins]

@@ -1,0 +1,23 @@
+$$F(xi + yj + zk) = Xi + Yj + Zk$$
+
+[del]$$\frac{\partial F}{\partial u} =$$[/del]
+$$\frac{dF}{du} = [del]i[/del] \frac{\partial}{\partial [del]i[/del]}$$
+
+$$\partial F = \frac{\partial X}{\partial x} i$$
+
+$$F[del](xi + yj + zk + w)^2[/del] = 2wxi + [del]2wyj +[/del] 2wzk - x^2 - y^2 - z^2 + w^2$$
+
+[del]$$dF = 2w \cdot dx i + 2xdw i$$[/del]
+
+$$((x + \partial x)i + [del]y[/del] + dy j)^2 =$$
+$$= 2(wdx + xdw)i + [fig]cross diagram[/fig]$$
+
+$$dF = (\frac{\partial X}{\partial x} dx + \frac{\partial X}{\partial y} dy + \frac{\partial X}{\partial z} dz)i + (\frac{\partial Y}{\partial x} + \partial$$
+
+[del]cos theory[/del] $$X_y X_z + \sqrt{1 - Y_x^2 - Y_z^2} Y_z + Z_y \sqrt{1 - Z_x^2 - Z_y^2} = 0$$
+
+$$F(x + yi) = X + Yi$$
+
+$$\frac{dF}{dz} = (\frac{\partial X}{\partial x} - \frac{\partial X}{\partial y} [del]i[/del]) + (\frac{\partial Y}{\partial x} i + \frac{\partial Y}{\partial y}) [del]i[/del] (dx + dy \cdot i)$$
+
+$$\frac{\partial X}{\partial x} + \frac{\partial Y}{\partial y} i = - \frac{\partial X}{\partial y} i + \frac{\partial Y}{\partial y}$$

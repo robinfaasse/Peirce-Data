@@ -1,0 +1,39 @@
+[pn]802[/pn] [pn]Ms 549[/pn]
+100000 will become 000001 or 1
+10000 " " 000010 or 10 i.e. 2
+100001 " " 000011 or 11 i.e 3
+1000 " " 000100 or 100 i.e 4
+100010 " " 000101 or 101 i.e. 5
+10001 " " 000110 or 110 i.e 6
+100011 " " 000111 or 111 i.e 7
+100 " " 001000 or 1000 i.e 8 etc.
+
+I may also mention that if to the numerators of any
+line we add the denominators (the row which is the row
+on numerators reversed) and prefix that row of
+numerators, you have the numerators of the next line.
+Thus
+Num. of 1[ins]st[/ins] line 1
+Denom of 1[ins]st[/ins] line [u]1[/u]
+Sum 2
+Sum with [del]previous line[/del] [ins]prefixed[/ins] [del]Numerators of 2[ins]nd[/ins] line[/del] 1 2
+Denom. 2[ins]nd[/ins] line [u]2 1[/u]
+Sum 3 3
+Num. 3[ins]d[/ins] line 1 2 3 3
+Denom 3 len [u]3 3 2 1[/u]
+Sum 4 5 5 4
+Num 4[ins]th[/ins] line 1 2 3 3 4 5 5 4
+Denom 4[ins]th[/ins] lin [u]4 5 5 4 3 3 2 1[/u]
+Sum 5 7 8 7 7 8 7 5
+Num 5[ins]th[/ins] line 1 2 3 3 4 5 5 4 5 7 8 7 7 8 7 5
+Denom 5[ins]th[/ins] line [u]5 7 8 7 7 8 7 5 4 5 5 4 3 3 2 1[/u]
+Sum 6 9 11 10 11 13 12 9 9 12 13 11 10 11 9 6
+[del]Last row of[/del] [ins]etc[/ins] [del]denoms[/del] [u]5 7 8 7 7 8 7 5 4 5 5 4 3 3 2 1[/u]
+} The last half
+of the last row
+of fractions,
+and I could mention sundry others
+
+With all these extraordinary facilities if Royse
+cannot reduce the values of fractions to a function of their
+ordinal place in this table, he had better admit that a function

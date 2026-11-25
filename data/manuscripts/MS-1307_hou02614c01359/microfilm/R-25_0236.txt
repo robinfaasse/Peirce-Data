@@ -1,0 +1,29 @@
+[u]Notes on Ptolemy[/u]
+
+$v = M + 2e\sin M + \frac{5}{4}e^{2}\sin 2M + \frac{1}{12}e^{3}\left(13\sin 3M - 3\sin M\right)$
+
+Put $M = 90^{\circ}$  $\sin 90^{\circ} = 1$  $\sin 2\times 90 = 0$  $\frac{-13}{-3 \over -16}$
+$v = 90^{\circ} + 2e - \frac{4}{3}e^{3}$
+
+[fig]Circle[/fig]
+
+$\sin v = \sin M \cos [del]\left(2e - M\right)[/del] [ins]v - M[/ins] + \frac{e}{2} \cdot 2\sin \frac{\sin M\cos M}{\frac{\cos^{2} - \sin^{2}}{\sin}}$
+$+ \cos M \sin \left(v - M\right)$
+
+$\sin v - M$
+$\times$
+$-\frac{1}{6}x^{3}$
+$= 2e\sin M + \frac{5}{4}e^{2}\sin 2M + \frac{1}{12}e^{3}\left(13\sin 3M - 3\sin M\right)$
+$- \frac{16}{12}e^{3}\sin^{3}M$
+$= 2e\sin M + \frac{5}{2}e^{2}\sin M\cos M + \frac{1}{12}e^{3}\left(26\sin M\cos^{2}M - 3\sin^{3}M [del]- 3\sin M[/del]\right)$
+
+$\cos v - M = 1 [del]*[/del]$
+$-\frac{1}{2}x^{2}$
+$- 2e^{2}\sin^{2}M - 5e^{3}\sin^{2}M\cos M$
+
+$\sin v = \sin M \left( [del]1 + 2e\cos M - 5e^{3}\sin^{2}M\cos M[/del] \right.$
+$+ 2e\cos M$
+$- 2e^{2}\sin^{2}M - 5e^{3}\sin^{2}M\cos M$
+$+ \frac{5}{2}e^{2}\cos^{2}M + \frac{1}{12}e^{3}\left(26\cos^{3}M - 3\sin^{2}M\cos M - 3\cos M\right)$
+
+$= [del]\sin M[/del] \left(1 + 2e\cos M + e^{2}\left(\frac{5}{2} - 4\frac{1}{2}\sin^{2}M\right)\right)$

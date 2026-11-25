@@ -1,0 +1,35 @@
+[fig]Coordinate axes rotated by angle theta[/fig]
+
+$\chi = x f_{1}(x+iy) + iy f_{2}(x+iy)$
+$\quad + x f_{3}(x-iy) - iy f_{4}(x-iy)$
+
+$\begin{aligned} x' &= x \cos \theta + y \sin \theta \\ y' &= y \cos \theta - x \sin \theta \end{aligned}$
+
+$\begin{aligned} x f_{1}(x+iy) &= x F_{1}(x+iy) + x F_{2}(x+iy) \\ iy f_{2} &= iy F_{1} - iy F_{2} \end{aligned}$
+
+$\begin{aligned} \xi &= x+iy \\ \text{or } \eta &= ix+y \end{aligned}$
+
+$(x+iy) F_{1}(x+iy) + (x-iy) F_{2}(x+iy)$
+
+$F_{1}(x+iy) + F_{2}(y+xi) + (y+xi) F_{3}(x+iy) + [del](x+iy)[/del] F_{4}(y+xi)$
+
+$\xi = x+iy \quad \eta = y+xi$
+
+$[del]\text{D}[/del] \quad D_{x} = d_{\xi} D_{\xi} + d_{\eta} D_{\eta}$
+$\quad D_{y} = d_{\xi} D_{\xi} + d_{\eta} D_{\eta}$
+
+$D_{x} = [del]D_{\xi}[/del] D_{\xi} + i D_{\eta}$
+$D_{y} = i D_{\xi} + D_{\eta}$
+
+$\begin{aligned} D_{x}^{2} &= D_{\xi}^{2} + 2 i D_{\xi} D_{\eta} - D_{\eta}^{2} \\ D_{y}^{2} &= -D_{\xi}^{2} + 2 i D_{\xi} D_{\eta} + D_{\eta}^{2} \end{aligned}$
+
+$D_{x}^{2} + D_{y}^{2} = 4 i D_{\xi} D_{\eta}$
+
+$(D_{\xi} + i D_{\eta}) p = 4 \mu i D_{\xi} D_{\eta} u$
+$(i D_{\xi} + D_{\eta}) p = 4 \mu i D_{\xi} D_{\eta} v$
+
+$(-i D_{\xi} + D_{\eta}) p = 4 \mu D_{\xi} D_{\eta} u$
+$[del]D_{\eta} p = 2 \mu D_{\xi} D_{\eta} (u+iv)[/del]$
+$D_{\xi} p = 2 \mu D_{\xi} D_{\eta} (v+iu)$
+
+$\begin{aligned} &= \frac{v+i\varepsilon}{[del]u[/del]+2iu} \\ &\quad \varepsilon + iv = 2iu \\ &-\frac{1}{2}i\varepsilon + \frac{1}{2}v = u \end{aligned}$

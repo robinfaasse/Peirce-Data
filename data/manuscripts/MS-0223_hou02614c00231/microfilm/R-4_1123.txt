@@ -1,0 +1,22 @@
+[del]$\rho_{-2} = r \cos \theta \underline{i} - \sin \theta \underline{j}$[/del]
+
+$\rho_{-2} = r \cos \theta \cos \varphi \underline{i} - r \sin \theta \cos \varphi \underline{j} - r \sin \varphi \underline{k}$
+$\rho_{-1} = r \cos \theta \underline{i} - r \sin \theta \underline{j}$
+$\rho_{0} = r \underline{i}$
+$\rho_{+1} = r \cos \theta \underline{i} + r \sin \theta \underline{j}$
+$\rho_{+2} = r \cos \theta \cos \varphi \underline{i} + r \sin \theta \cos \varphi \underline{j} + r \sin \varphi \underline{k}$
+
+$(d^2 \rho)_{-1} = r ( 1 + \cos \theta \cos \varphi - 2 \cos \theta ) \underline{i} + ( 2 r \sin \theta - r \sin \theta \cos \varphi ) \underline{j}$
+$= [del]r ( 1 + \frac{\theta^2}{2} - \frac{\varphi^2}{2} - 1[/del] [ins]$- r \sin \varphi \underline{k}$[/ins]
+
+$(d^2 \rho)_{0} = - r \theta^2 \underline{i}$
+
+$(d^2 \rho)_{+1} = r ( 1 + \cos \theta \cos \varphi - 2 \cos \theta ) [del]\underline{i}[/del] + r ( - 2 \sin \theta + \sin \theta \cos \varphi ) \underline{j}$
+$+ r \sin \varphi \underline{k}$
+
+$\left\{ \begin{aligned}
+& r ( 1 + 1 - \frac{1}{2} \theta^2 - \frac{1}{2} \varphi^2 - 2 + \theta^2 ) \\
+& - r ( \frac{1}{2} \theta^2 - \frac{1}{2} \varphi^2 ) \underline{i} + [del]r ( - 2 \theta + \theta -[/del] [ins]$+ r \theta \underline{j} - r \varphi \underline{k}$[/ins] \\
+& - r ( 1 + 1 - \frac{1}{2} \theta^2 - \frac{1}{2} \varphi^2 + 2 + \theta^2 ) \quad r ( - 2 \theta + \theta ) \\
+& r ( \theta^2 - \frac{1}{2} \varphi^2 ) \underline{i} - r \theta \underline{j} + r \varphi \underline{k}
+\end{aligned} \right.$

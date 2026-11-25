@@ -1,0 +1,7 @@
+[pn]B
+4[/pn] "modulus," The modulus, for example, is congruent to 0 for that modulus. 9 is congruent to 16 for modulus 7. We write this thus:
+9 ≡ 16 (mod 7),
+or, in general,
+(am + c) ≡ (bm + c) (mod. m)
+
+The result of subtracting from any positive number [del]the[/del] [ins]comes nearest to, without being[/ins] [del]highest[/del] multiple of the modulus that is [del]not[/del] greater than that number is called the residue of that number for that modulus. (Germans call it the [del]rest[/del] [ins]Rest[/ins]). Thus, the residue of 20 for the modulus 7 is 6, [del]the[/del] while the residue of 21 is 0. The residue [del]has[/del] [ins]only[/ins] has a meaning when we pass from one system of numeration to another. As long as we are counting with one modulus, all congruent numbers are the same. Monday is Monday, and Tuesday is Tuesday, and nothing else, so long as we have [del]nor[/del] [ins]nothing[/ins] to do with the distinctions between one week and

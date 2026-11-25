@@ -1,0 +1,35 @@
+[pn]Page 4[/pn]
+
+But [u]$D = \mathcal{E} - x$[/u]  [u]$x = \mathcal{E} - D$[/u]
+Expressing the $X$s as functions of $x$, substitute for $x$
+the value $\mathcal{E} - D$
+and developing in powers of $\mathcal{E}$ by means of the formulae
+[u]$F_m D = F_{m-1} D - F_{m-1} (D-1)$[/u]
+and
+$F_0 (D-\mathcal{E}) = F_0 D - F_0 D \cdot \rho + F_0 D \cdot \frac{\rho^2}{2!} - \text{etc}$
+the equation becomes
+$f_0 D \cdot u_x + f_1 D \cdot \rho u_x + f_2 D \cdot \rho^2 u_x + \dots - f_n D \cdot \rho^n u_x = X$
+Now the equation once brought to this form assume
+$u = \sum_m a_m \mathcal{E}^m 1$. The equation is then (first putting $X=0$)
+$\sum_m \{ f_0 [del]a_m[/del] \mathcal{E}^m + f_1 [del]a_m[/del] \mathcal{E}^{m+1} + \dots + f_n a_m \mathcal{E}^{m+n} \} 1 = 0$
+But now remembering that $f D \mathcal{E}^m 1 = \mathcal{E}^m f(m) 1$ we get
+$\sum_m \{ a_m \mathcal{E}^m f_0 m + a_m \mathcal{E}^{m+1} f_1(m+1) + \dots a_m \mathcal{E}^{m+n} f_n(m+n) \} 1 = 0$
+Taking [del]any one[/del] [ins]a single value of[/ins] coefficient of [del]any of its[/del] $\mathcal{E}^m$, it is
+$\mathcal{E}^m \{ a_m f_0 m + a_{m-1} f_1 m + \dots a_{m-n} f_n m \}$
+
+***
+
+[pn]Page 7[/pn]
+
+$X_0 u_{x+n} + X_1 u_{x+n-1} + X_2 u_{x+n-2} \dots X_n u_x = \phi x$
+Multiply [del]both sides[/del] by [del]$\frac{(x-1)!}{(x-1+n)!}$[/del]
+$x u_{x+1} = \mathcal{E} u_x$  $x(x+1) u_{x+2} = \mathcal{E}^2 u_x$ etc
+[fig]arrow pointing from equation below to this line[/fig]
+[del]$X_n u_x + (x+1)(x+2) X_{n-2} \mathcal{E}^2 u_x \dots = \phi x$[/del]
+$\frac{(x+n-1)!}{(x-1)!} X_n u_x + \frac{(x+n-1)!}{x!} X_{n-1} \mathcal{E} u_x + \frac{(x+n-1)!}{(x+1)!} X_{n-2} \mathcal{E}^2 u_x$
+or if we had written the equation
+$X_n u_x + X_{n-1} u_{x+1} + X_{n-2} u_{x+2} \dots - X_0 u_{x+n} = \phi x$
+[del]Multiply Divide[/del] Multiply by $\frac{(x+n-1)!}{(x-1)!}$
+$\frac{(x+n-1)!}{(x-1)!} X_n u_x + \frac{(x+n-1)!}{(x-1)!} X_{n-1} u_{x+1} + \frac{(x+n-1)!}{(x-1)!} X_{n-2} u_{x+2} \dots + \frac{(x+n-1)!}{(x-1)!} X_0 u_{x+n}$
+$\frac{(x+n-1)!}{(x-1)!} X_n u_x + \frac{(x+n-1)!}{x!} X_{n-1} \mathcal{E} u_x + \frac{(x+n-1)!}{(x+1)!} X_{n-2} \mathcal{E}^2 u_x \dots + \frac{(x+n-1)!}{(x+n-1)!} X_0 \mathcal{E}^n u_x = \frac{(x+n-1)!}{(x-1)!} \phi x$
+$\frac{X_n}{(x-1)!} u_x + \frac{X_{n-1}}{x!} \mathcal{E} u_x + \frac{X_{n-2}}{(x+1)!} \mathcal{E}^2 u_x + \dots \frac{X_0}{(x+n-1)!} \mathcal{E}^n u_x = \frac{\phi x}{(x-1)!}$

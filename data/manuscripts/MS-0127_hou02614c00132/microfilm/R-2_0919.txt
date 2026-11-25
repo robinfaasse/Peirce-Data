@@ -1,0 +1,47 @@
+[fig]Geometric construction with intersecting lines and curves[/fig]
+
+[del]$\frac{r - [del]q[/del] [ins]p[/ins] (q-1)}{r} = h (1-q)$[/del]
+
+$\frac{q r - (q-1) p}{r} = h(1-q)$
+
+$\frac{r - q(q-1)}{r(q-1) - q(q-1)} = h(1-q)$
+
+$\frac{r - q(q-1)}{b(q-1-q)} = 1-y$
+
+$\frac{r(q-1)}{q-r} = \frac{r - q(q-1)}{q-r}$
+
+$h = \frac{p-r-\frac{q}{r}}{1-\frac{q}{r}}$
+
+$1 - \frac{q}{r} = h(p-r-\frac{q}{r})$
+
+$\frac{1}{1-y} - \frac{q}{r} = \frac{q}{r}$
+
+$1-y(q-1) = x$
+
+[fig]Geometric diagram with points and lines[/fig]
+
+$\frac{1-y}{q} = \frac{x-1}{r}$
+
+$r(1-y) = qx$
+
+$r(1-y) = q(x-1)$
+
+[fig]Geometric diagram with lines and points[/fig]
+
+$r + r + (1-q) \frac{(r-1)}{r}$
+
+$\frac{r-q+q-r+q}{r}$
+
+$\frac{pq-pq - pq + iqr - r + r + qx + py - ry}{r - q(q-1)}$
+
+$\frac{+(r-1)(r-q) + (q-r)(r-p+q)}{(q-1)q-r}$
+
+[fig]Geometric diagram with intersecting lines[/fig]
+
+[fig]Geometric diagram with three-dimensional coordinate lines[/fig]
+
+$\frac{r-1-r}{r-p+q} + 1-1$
+
+$1 + \frac{q}{r} - r + qr - pq + qi$
+
+[fig]Geometric diagram with numbered points[/fig]

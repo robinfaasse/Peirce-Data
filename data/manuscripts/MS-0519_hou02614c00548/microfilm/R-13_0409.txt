@@ -1,0 +1,22 @@
+[pn]67[/pn]
+
+$\Pi^{[n]}$ and $\Sigma^n$
+
+$\Pi'_i x_i$ means everything [ins]except perhaps but one[/ins] is $x$
+$\Pi''_i x_i$ " " " " " two is $x$
+etc
+
+$\Sigma^2_i x_i$ means there are two $x$'s at least
+
+$\Pi'_i \Pi'_j l_{ij}$ everything loves every other but one
+$\Pi'_j \Pi'_i l_{ij}$ every object but one is loved by everything
+$\Pi'_j \Pi'_i \prec \Pi'_i \Pi'_j$
+
+$\Sigma_i \Sigma^2_j l_{ij}$ something loves two things
+$\Sigma^2_j \Sigma_i l_{ij}$ there are two things loved by something or other (not necessarily by the same)
+
+[del]$\Sigma^2_j \Sigma_i \prec \Sigma_i \Sigma^2_j$[/del]
+$\Sigma_i \Sigma^2_j \prec \Sigma^2_j \Sigma_i$
+
+$\Pi'''_i \Sigma^3_j l_{ij}$ every object but three loves 3 things
+$\Sigma^3_j \Pi'''_i l_{ij}$ [del]There are 3 things loved by every object but 3.[/del] [ins]there are 3 things loved by every object but 3.[/ins]

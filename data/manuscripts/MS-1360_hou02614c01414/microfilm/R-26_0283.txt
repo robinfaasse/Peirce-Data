@@ -1,0 +1,33 @@
+Equating the [ins]total[/ins] differential of this expression to zero, we get, for the condition of equilibrium,
+
+(1) $\sum \left\{ \varepsilon \left( \frac{1}{\underline{l}} - \frac{1}{\sqrt{(\Delta \underline{x})^2 + (\Delta \underline{y})^2}} \right) (\Delta \underline{x} \cdot \Delta d\underline{x} + \Delta \underline{y} \cdot \Delta d\underline{y}) - P d\underline{y} \right\} = 0$
+
+That is, there are [del]n[/del] [ins]n[/ins] equations of the form
+
+(2) $-\varepsilon_{\underline{i}} \left( \frac{1}{\underline{l}_{\underline{i}}} - \frac{1}{\sqrt{(\Delta \underline{x}_{\underline{i}})^2 + (\Delta \underline{y}_{\underline{i}})^2}} \right) \Delta \underline{x}_{\underline{i}} + \varepsilon_{\underline{i}-1} \left( \frac{1}{\underline{l}_{\underline{i}-1}} - \frac{1}{\sqrt{(\Delta \underline{x}_{\underline{i}-1})^2 + (\Delta \underline{y}_{\underline{i}-1})^2}} \right) \Delta \underline{x}_{\underline{i}-1} = 0$
+
+and $n$ [del]others[/del] of the form
+
+(3) $-\varepsilon_{\underline{i}} \left( \frac{1}{\underline{l}_{\underline{i}}} - \frac{1}{\sqrt{(\Delta \underline{x}_{\underline{i}})^2 + (\Delta \underline{y}_{\underline{i}})^2}} \right) \Delta \underline{y}_{\underline{i}} + \varepsilon_{\underline{i}-1} \left( \frac{1}{\underline{l}_{\underline{i}-1}} - \frac{1}{\sqrt{(\Delta \underline{x}_{\underline{i}-1})^2 + (\Delta \underline{y}_{\underline{i}-1})^2}} \right) \Delta \underline{y}_{\underline{i}-1} = P_{\underline{i}}$
+
+Equations (2) give, for every value of $\underline{i}$,
+
+(4) $\varepsilon \left( \frac{1}{\underline{l}} - \frac{1}{\sqrt{(\Delta \underline{x})^2 + (\Delta \underline{y})^2}} \right) \Delta \underline{x} = \underline{A}$
+
+where $\underline{A}$ is a constant, of the dimensions of [del]an energy[/del] [ins]a force[/ins], being the [del]energy[/del] [ins]force[/ins] [ins]pull[/ins] of the horizontal [del]string[/del] [ins]link[/ins] the determination of which is difficult [ins]whether easy or difficult depends on what else is known[/ins].
+
+Substituting (4) in (3), [del]we[/del] and remarking that $\Delta \underline{y}_0 = \underline{y}_1$, $\Delta \underline{x}_0 = \underline{x}_1$, we get by summation, for every value of $\underline{i}$,
+
+(5) $\frac{\Delta \underline{y}}{\Delta \underline{x}} = \frac{\underline{y}_1}{\underline{x}_1} - \frac{P + \sum P}{\underline{A}}$, [ins]Where $\sum$ has the precise meaning of $\Delta^{-1}$![/ins]
+
+Substituting (5) in (4), we get, for every value of $\underline{y}$,
+
+(6) $\varepsilon \left( \frac{\Delta \underline{x}}{\underline{l}} - \frac{1}{\sqrt{1 + (\frac{\underline{y}_1}{\underline{x}_1} - \frac{P + \sum P}{\underline{A}})^2}} \right) = \underline{A}$.
+
+Equations (5) and (6) would serve to determine $\underline{x}_{\underline{i}}$ and $\underline{y}_{\underline{i}}$ if we only knew the value of $\underline{A}$, [del]and[/del] the absolute, instead of the relative, values of $\underline{l}_{\underline{i}}$, and the value of $\underline{y}_1 / \underline{x}_1$. But we have not yet made use of our knowledge of $\underline{a}$, $\underline{b}$, [del]and[/del] [ins]and[/ins] $\underline{k}$. Putting $\underline{i} = \underline{k}$ in (5), we get
+
+(7) $\frac{\underline{y}_{\underline{k}}}{\underline{x}_1} = \frac{1}{\underline{A}} \sum \underline{P}_{\underline{k}+1}$ [ins]$\underline{k}$ is the value of $i$ for the horizontal link (which is generally infinitesimally short).[/ins]
+
+This substituted in (5) [del]gives and (6)[/del] gives
+
+(8) $\frac{\Delta \underline{y}}{\Delta \underline{x}} = -\frac{1}{\underline{A}} \sum_{\underline{k}+1} \underline{P}$ [ins]We can prove the vertical pull on fixed points is known[/ins]

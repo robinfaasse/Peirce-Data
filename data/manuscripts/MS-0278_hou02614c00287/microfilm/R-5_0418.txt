@@ -1,0 +1,29 @@
+$$\sin(a \sin x) = \cos \phi + \sin \phi \sqrt{-1}$$
+
+$$x = A + B \sqrt{-1}$$
+
+$$\sin x = \sin A \cosh B + \cos A \sinh B \sqrt{-1}$$
+
+$$a \sin x = a \sin A \cosh B + a \cos A \sinh B \sqrt{-1}$$
+
+$$\sin(a \sin x) =$$
+
+$$\begin{array}{r} \sin \{ a \sin A \cosh B \} \cosh \{ a \cos A \sinh B \} \\ + \cos \{ \phantom{a \sin A \cosh B} \} \sinh \{ \phantom{a \cos A \sinh B} \} \sqrt{-1} \end{array}$$
+
+---
+
+$$\begin{array}{r} \sin^2 \{ \phantom{a \sin A \cosh B} \} \cosh^2 \{ \phantom{a \cos A \sinh B} \} \\ + \cos^2 \{ \phantom{a \sin A \cosh B} \} \sinh^2 \{ \phantom{a \cos A \sinh B} \} \end{array} = 1$$
+
+$$\sin^2 \{ \phantom{a \sin A \cosh B} \} + \sinh^2 \{ \phantom{a \cos A \sinh B} \} = 1$$
+
+$$\sinh \{ a \cos A \sinh B \} = [del]\pm[/del] \cos \{ a \sin A \cosh B \}$$
+
+$$a \cos A \sinh B = n \qquad a \sin A \cosh B = m$$
+
+$$m^2 + n^2 = a^2 \{ \sin^2 A + \sinh^2 B \}$$
+
+Suppose $B = 0$ then $\sinh (a \cos A) = \cos (a \sin A)$
+
+then $n = 0 \qquad a \sin A = \text{odd times } \frac{1}{2}\pi$
+
+Suppose $A = N\pi \quad \sinh (a \sinh B) = [del]\Phi[/del]$

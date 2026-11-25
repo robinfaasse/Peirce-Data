@@ -1,0 +1,20 @@
+LOGIC OF QUANTITY.
+By C. S. Peirce
+
+[u]Art. 1[/u]. [u]Definition 1[/u]. Let us say that any relation, [u]i[/u], is a proceed-ing, and write [u]p[/u][sub]i[/sub], if, and only if whatever is in the relation [u]i[/u] to anything, or, as we shall say, proceeds from it, is in that relation to nothing else.
+
+Let us say that one collection, [ins]m[/ins], proceeds from another, [ins]n[/ins], [ins]and write S[sub]imn[/sub][/ins] [del]if[/del] [ins]if[/ins], and only if from every object of the latter some object of the former proceeds.
+
+(1) $\Pi_i \Pi_e \Pi_f \Pi_g \bar{p}_i \mathbin{\psi} \bar{r}_{ief} \mathbin{\psi} \bar{r}_{ieg} \mathbin{\psi} 1_{fg}$
+(2) $\Pi_i \Sigma_e \Sigma_f \Sigma_g r_{ieg} \cdot r_{ieg} \cdot \bar{1}_{fg} \mathbin{\psi} p_i$
+(3) $\Pi_i \Pi_m \Pi_n \Pi_s \Sigma_r \bar{S}_{imn} \mathbin{\psi} p_i \cdot (\bar{q}_{ns} \mathbin{\psi} \bar{q}_{mr} \cdot r_{irs})$
+(4) $\Pi_m \Pi_n \Pi_i \Sigma_s \Pi_r \bar{p}_i \mathbin{\psi} q_{is} (\bar{q}_{mr} \mathbin{\psi} \bar{r}_{irs}) \mathbin{\psi} S_{imn}$
+
+[u]Illustration 1[/u]. The relation, {0}, of impossibility is a proceeding by which every collection proceeds from nothing.
+
+[u]Illustration 2[/u]. The relation {1}, of identity is a proceeding by which every collection proceeds from every collection included in it.
+
+[u]Theorem 1[/u]. [u]If one collection, l, proceeds from a second, m, which[/u] [u]itself proceeds from a third, n, then l proceeds from n.[/u]
+
+[u]Demonstration[/u]. For suppose $S_{ilm} \cdot S_{jmn}$. Then, I say $S_{(ij)ln}$. For [del]multiply[/del] [ins]squaring (3),[/ins] [del]substituting[/del] [ins]accenting as[/ins] usual, the indices of one factor, and then substi-tuting l for m, m for n, j for i. Next identify s with r'; and multiply the result by the premise $S_{ilm} \cdot S_{jmn}$. We thus get
+$\Pi_{s'} \Sigma_{r'} \Sigma_r p_i \cdot p_j \cdot (\bar{q}_{ns'} \mathbin{\psi} \bar{q}_{lr} \cdot r_{irr'} \cdot r_{jr's'})$.

@@ -1,0 +1,11 @@
+[pn]53[/pn]
+
+[u]Live Loads[/u]
+
+where [u]A[/u], [u]B[/u], [u]C[/u], [u]G[/u] are arbitrary constants to be determined by terminal
+equations. I have been unable to find any finite expression satis-
+fying the defining equation of [u]z[/u]; but of serial expressions there
+is no lack. The following seems very convergent:
+[u]z[/u] = 1 - [u]1[/u]/[u]2[/u] [u]a[/u] [u]n[/u]² + ([u]a[/u]²/[u]24[/u] - [u]c[/u]/[u]12[/u]) [u]n[/u]⁴ + [u]a[/u]/[u]720[/u] (-[u]a[/u]²+14[u]c[/u]) [u]n[/u]⁶ + [u]1[/u]/[u]40320[/u] ([u]a[/u]⁴-[u]41[/u]/[u]2[/u][u]a[/u]²[u]c[/u]+[u]60[/u][u]c[/u]²) [u]n[/u]⁸ + [del]&c[/del] [ins]+ [u]1[/u]/[u]3628800[/u] ([u]a[/u]⁵+100[u]a[/u]³[u]c[/u] - 844[u]a[/u][u]c[/u]²) [u]n[/u]¹⁰[/ins]
+[del]The following is however perhaps more convergent:[/del]
+[u]z[/u] = e^[-[u]1[/u]/[u]2[/u] [u]a[/u] [u]n[/u]² - [u]c[/u]/[u]12[/u] ([u]c[/u]+[u]a[/u]²)[u]n[/u]⁴ + [u]a[/u]/[u]45[/u] ([u]c[/u]+[u]a[/u]²)[u]n[/u]⁶ + [u]1[/u]/[u]2520[/u] (+5[u]c[/u]²+22[u]c[/u][u]a[/u]²+17[u]a[/u]⁴)[u]n[/u]⁸ - [u]1[/u]/[u]14175[/u] (19[u]c[/u]²[u]a[/u]+50[u]c[/u][u]a[/u]³+31[u]a[/u]⁵)[u]n[/u]¹⁰ +&c]

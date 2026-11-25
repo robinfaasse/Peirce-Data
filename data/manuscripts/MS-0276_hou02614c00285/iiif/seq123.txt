@@ -1,0 +1,20 @@
+The most obvious & straight-forward [117]
+proof of the Stewart-Simson Proposition
+is obtained by dropping a perpen-
+dicular [ins]p[/ins] from the vertex on the
+base, and lettering as here shown
+[fig]figure[/fig]
+([del]usually written[/del] [ins]usually written[/ins] VA²·BC + VC²·AB = VB²·AC + AB·BC·AC)
+Then the proposition [del]this[/del] takes the form
+(p² + γ²)(α + q) + (p² + α²)(γ - q)
+[del]= (p² + q²)(γ - q)(γ + α)(α + q)[/del]
+= (p² + q²)(γ + α) + (γ - q)(γ + α)(α + q)
+The terms in p² obviously cancell. Striking
+them out, carrying the rest to the second
+member and arranging them according to
+ascending powers of q, we get,
+0 = - γ² α - α² γ [del]+[/del]
+    + γ(γ + α)α
+    + q [- γ² + α² - (γ + α)α + γ(γ + α)] [ins]Turn over[/ins]
+    + q² [γ + α - (γ + α)]
+which is an evidently identical equation.

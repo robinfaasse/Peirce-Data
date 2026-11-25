@@ -1,0 +1,26 @@
+[u]U ≺ V[/u]
+U ≺ (V ≺ W)
+(U ≺ V) ≺ W
+[u]                                      [/u]
+U ≺ [V ≺ (W ≺ X)]
+U ≺ [(V ≺ W) ≺ X]
+[del](U ≺ V) ≺ (W ≺ X)[/del]
+(U ≺ V) ≺ (W ≺ X)
+[del](U ≺ V) ≺ W[/del]
+[U ≺ (V ≺ W)] ≺ X
+[(U ≺ V) ≺ W] ≺ X
+[u]                                      [/u]
+U ≺ {V ≺ [W ≺ (X ≺ Y)]}
+U ≺ {V ≺ [(W ≺ X) ≺ Y]}
+U ≺ [(V ≺ W) ≺ (X ≺ Y)]
+U ≺ {[V ≺ (W ≺ X)] ≺ Y}
+U ≺ {[(V ≺ W) ≺ X] ≺ Y}
+(U ≺ V) ≺ [W ≺ (X ≺ Y)]
+(U ≺ V) ≺ [(W ≺ X) ≺ Y]
+[U ≺ (V ≺ W)] ≺ (X ≺ Y)
+[(U ≺ V) ≺ W] ≺ (X ≺ Y)
+{U ≺ [V ≺ (W ≺ X)]} ≺ Y
+{U ≺ [(V ≺ W) ≺ X]} ≺ Y
+[(U ≺ V) ≺ (W ≺ X)] ≺ Y
+[del][(U ≺ V) ≺ W] ≺ X[/del] ≺ Y
+{[(U ≺ V) ≺ W] ≺ X} ≺ Y

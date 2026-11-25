@@ -1,0 +1,15 @@
+(Peirce)
+[u]Theorem 3.[/u] { [x],[y] + [x],[z] ≺ [x],([y]+,[z]) (20)
+[x] +, [y],[z] ≺ ([x]+,[y]),([x]+,[z]) (21)
+
+[u]Proof.[/u] By (4)
+[y] ≺ [y] +, [z]. (22)
+By (22), (11), (2),
+[x],[y] ≺ [y] +, [z] (23)
+By (23), (7), (8),
+[x],[y] ≺ [x],([y]+,[z]) (24)
+In the same way,
+[x],[z] ≺ [x],([y]+,[z]) (25)
+Then from (24), (25), (5) we obtain (20); whence (21) follows by corollary (1).
+
+The converses of these propositions are much more difficult to prove.

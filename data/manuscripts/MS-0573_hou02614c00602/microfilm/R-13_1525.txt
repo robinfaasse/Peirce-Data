@@ -1,0 +1,20 @@
+[u]y[/u] is false or [u]x[/u] and [u]z[/u] are both true.
+Call this proposition, E. In the statement
+of M, substitute [del][u]x[/u][/del] [ins][u]z[/u][/ins] for [del][u]z[/u][/del] [ins][u]y[/u][/ins], so that it
+reads, if [u]x[/u] and [u]z[/u] are both true [u]x[/u] = [u]z[/u].
+From M, so stated, and E, it follows that
+if [u]x[/u] = [u]y[/u] and [u]y[/u] = [u]z[/u], then either [u]x[/u] = [u]z[/u] or
+[u]y[/u] is false. Call this proposition E'. In
+the statement of K, substitute [u]y[/u] for [u]x[/u], and
+[u]z[/u] for [u]y[/u], so that it reads, if [u]y[/u] = [u]z[/u], either
+[u]y[/u] is true or [u]z[/u] is false. From K, so stated,
+and I, it follows that if [u]x[/u] = [u]y[/u] and [u]y[/u] = [u]z[/u],
+either [u]y[/u] is true or [u]x[/u] and [u]z[/u] both false.
+Call this proposition F. In the statement
+of N, substitute [u]z[/u] for [u]y[/u], so that it reads,
+if [u]x[/u] and [u]z[/u] are both false, [u]x[/u] = [u]z[/u]. Then
+from M, so stated, and F, it follows that
+if [u]x[/u] = [u]y[/u] and [u]y[/u] = [u]z[/u], either [u]x[/u] = [u]z[/u] or [u]y[/u] is true.
+Call this proposition F'. From E' and F'
+it follows that if [u]x[/u] = [u]y[/u], and [u]y[/u] = [u]z[/u], then
+[u]x[/u] = [u]z[/u].

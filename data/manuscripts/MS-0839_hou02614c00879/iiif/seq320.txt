@@ -1,0 +1,38 @@
+b = .000351
+c = .0163
+
+b/c = .0215
+[u]bt[/u]
+[u]φ[/u]  [u]b/cφ[/u]  [u]natlog(1 + b/cφ)[/u]  [u]Calc t[/u]  [u]Obs t[/u]  [u]O - C[/u]
+.03  .717  0.540  1540 [ins]s[/ins]  assumed [ins]s[/ins]  0 [ins]s[/ins]
+.02  1.075  0.730  2080  2180 [ins]s[/ins]  + 100
+.01  2.15  1.147  3270  3440  + 170
+.05  4.30  1.668  4750  4920  + 170
+.04  5.37  1.852  5280  5400  + 120
+.03  7.17  2.100  5980  6030  + 50
+.02  10.75  2.464  7020  6860  - 160
+.01  21.5  3.113+  8870  8430  - 440
+
+[u]Reading Relat φ[/u]  [u]Natlog[/u]  [u][del]Calc[/del] bt [del]t[/del][/u]  [u]Obs. t[/u]
+.030 [del].0324[/del] .662  0.5086 [del]1449[/del]  assumed  0
+.025 .02[del]0[/del]9 .799  0.5872 [del]1673[/del]  1729 + 5[del]9[/del]  + 56
+.020 .0215 1.000 0.6931 [del]1975[/del]  20[del]9[/del]1 [ins]0[/ins] + 122  + 116
+.015 .016[del]2[/del]1 1.3[del]2[/del]4 [del]0.850[/del] [ins].8[del]63[/del]50[/ins] [del]242[del]1[/del]8[/del]  2606 + 194  + 185
+.010 .0107 2.01 [del]1.10[del]2[/del][/del] [ins]1.10[del]1[/del]2[/ins] [del]3140[/del]  [del]334[del]1[/del][/del] [ins]3341[/ins] + 2[del]10[/del] [ins]1[/ins]9  + 201
+.005 .005[del]4[/del]3 4.0[del]5[/del]6 [del]1.6[del]03[/del]21[/del] [ins]1.621[/ins] [del]4567 4618[/del] [del]4827[/del] [ins]4827[/ins] + 258  + 209
+12 [del]H[/del] [ins]11[/ins]  0300
+    [u]23[/u]
+    .0277
+
+[del]425[/del] [ins]5.06[/ins] [del]5.06[/del] [ins]1.823[/ins] [del]5134[/del] [del]53[del]0[/del]5[/del] [ins]+ 211[/ins]  + 173 (220)
+[del]347[/del] [ins]6.38[/ins] [del]6.38[/del] [ins]2.052[/ins] [del]5846[/del]  5940 [ins]+ 149[/ins]  + 94 (154)
+[del]200[/del] [ins]10.3[/ins] [del]10.3[/del] [ins]2.4248[/ins] [del]6908[/del]  6772 [ins]- 40[/ins]  - 136 (37)
+.00101 [ins]21.3[/ins] [del]21.3[/del] [ins]2.9907[/ins] [del]8521[/del]  8339 [ins]- 184[/ins]  - 506 ([del]399[/del])
+            [ins]3.1046[/ins] [del]8845[/del] [ins]8.9985[/ins]
+                        4.6052
+8020                    [u]2.3933[/u]
+2.3026  1222
+3.1046  2.3026  0296
+        .4248  2.3026  6881
+               2.3322  2.3026
+                       2.9907

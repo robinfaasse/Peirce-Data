@@ -1,0 +1,17 @@
+[del]A=0 B=0 C=0[/del] [ins]A[/ins] [del]A=0 B=0 D=0[/del]
+
+[del]A=0 B=0 C=0[/del]
+
+[del]A=0 B=0 C=0[/del]
+
+[del]A=0 X=0 Y=0[/del]
+
+[del]A=0 X=0 Y=0[/del]
+
+[del]A=0 X=0 Y=0[/del]
+
+[del]ABCD[/del]
+
+[fig]Tree diagram connecting ABCD, ABCE, ABCF to DE, DF, EF[/fig]
+
+[fig]Tree diagram connecting ABCD, ABCE, ABCF to ABDE, ABEF, ABDF, ABF[/fig]

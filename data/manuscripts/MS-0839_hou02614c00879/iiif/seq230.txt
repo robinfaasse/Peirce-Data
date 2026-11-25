@@ -1,0 +1,14 @@
+20
+In 7, put u=m-4
+u=m-5 etc
+successively, and we thus find
+that if
+p+q > m-2 q > 1
+then i^p j^q = 0
+If in (1) we put u=0, v=n-1, that
+equation becomes
+i j^n = sum _2^inf a_t i^t j^n-1 + b_1 j^n
+The series will [del]contain[/del] run to t=m-n-1
+after which all the terms will vanish
+By putting in (1) u=1 v=n-1, we get
+i^2 j^n = sum _2^inf a_t i^1+t j^n-1 + b_1 i j^n

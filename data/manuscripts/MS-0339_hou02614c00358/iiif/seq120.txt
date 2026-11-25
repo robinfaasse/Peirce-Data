@@ -1,0 +1,18 @@
+A  C(x+y) = Cx + Cy = Cx + Cy , (1 - Cx)
+$\therefore$ Cx = Cx + C(x - x) , (1 - Cx)
+Cx = Cx , (1 - C(x-x)) [del]+[/del] [ins]x[/ins] C(x-x)
+C1 - Cx , (1 - C(1-x)) = C(1-x)
+C1 - Cx = C(1-x) , (1-Cx)
+C(1-x) = (C1 - Cx) ; (1 - Cx)
+= $\frac{0}{0}$ , C1 , Cx + C1 , (1 - Cx) + $\frac{1}{0}$ (1 - C1) , Cx
+(1) = $\frac{0}{0}$ , Cx + C1 , (1 - Cx)
+
+mx + (1 - m)x = 1
+$\therefore$ mx + (1 - m)x , (1 - mx) = 1
+(2) (1 - m)x = (1 - mx) + $\frac{0}{0}$ mx
+
+(3) C($\frac{0}{0}$x) = $\frac{0}{0}$ Cx
+Ca , Cb = C(a , b + a , $\bar{b}$) , C($\bar{a}$ , b + $\bar{a}$ , $\bar{b}$)
+= (C(a , b) + C(a , $\bar{b}$)) , (C($\bar{a}$ , b) + C($\bar{a}$ , $\bar{b}$))
+= C(a , b) + C(a , $\bar{b}$) , C($\bar{a}$ , b)
+= C(a , b) , (1 - C(a , $\bar{b}$) , C($\bar{a}$ , b)) + C(a , $\bar{b}$) , C($\bar{a}$ , b)

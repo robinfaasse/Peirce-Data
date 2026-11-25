@@ -1,0 +1,62 @@
+[marginalia]
+Mission's Bridge [date]1899 Jan 27 Friday[/date].
+[/marginalia]
+
+[marginalia]
+Tension of St. Julien -
+[/marginalia]
+
+The Energy = $W(dx_o - dx_{N+1}) +$ [del]$\Sigma$[/del] [del]$+ \rho K \sum_{0}^{N-1} \sin \theta_n + \frac{1}{2} \Sigma (\theta_{n+1} - \theta_n)^2 \cdot E$[/del]
+
+[fig]Sketch of bridge cable and tower[/fig] $\mathcal{E}$ elasticity of elongation of cable
+
+The tops of the towers only move horizontally
+
+[del]These are subject to[/del]
+
+The energy = $H(x_0 - x_{N+1}) + \mathcal{E} \left\{ \sum_0^N \left[ \sqrt{(x_{n+1}-x_n)^2 + (y_{n+1}-y_n)^2} \right] - \Lambda \right\}^2$
+
+$+ ghl \sum_1^{N-1} \frac{\sum_m^{N-1} k \sin \theta_n}{\sum \dots} + g l_0 \frac{\sin \theta_0}{\sum} N k$
+
+$+ \frac{1}{2} g l^2 k (\sin \theta_0 + \sin \theta_N)$
+
+[fig]Diagram of bridge span with suspenders[/fig]
+
+$+ \frac{1}{2} g l^2 k \sum_1^{N-1} \sin \theta_n + g l k \sum_1^{N-1} \sin \theta_n$
+
+$+ g l k \sum_1^{N-1} \frac{\sum_m^{N-1} \sin \theta_n}{2}$
+
+$+ K (\sin \theta_0 + \sin \theta_N)$
+
+$+ \frac{1}{2} (K+k) \frac{\sum_1^{N-1} (\sum_m^{N-1} (L_0 \sin \theta_0 - L_N \sin \theta_N)}{\sum \sin \theta_0}$
+
+$+ k \sum_1^{N-1} \frac{1}{m} (L_0 \sin \theta_0 + l \sum_1^{m-1} \sin \theta_n)$
+
+$+ k' \sum_1^{p} \frac{1}{m} (L_0 \sin \theta_0 + l \sum_1^{m-1} \sin \theta_n)$ ?
+
+$+ E \sum_0^{N-1} (\theta_{n+1} - \theta_n)^2$
+
+$+ F \theta_0 + F' \theta_n$ —
+
+[marginalia]
+$\rho_k$ is the weight of section of dead load
+
+[del]Proportion[/del]
+
+$L$ lengths of extreme sections
+$l$ of other sections
+
+$k$ weight per section of live load
+
+[del]Support[/del] the whole under suspenders and to fill a [del]limit[/del] [ins]exact[/ins] number of sections exactly
+
+Weights borne by suspenders only
+So much on each.
+on $1^{\text{st}}$ and $N^{\text{th}}$
+$K$ on the rest $k$ for dead load
+$k'$ for live load (wholly under suspenders. Other cases, postponed.)
+
+$K$ is not absolutely [del]const[/del]
+[/marginalia]
+
+These last terms, not yet calculated, depend on the parts between inner and outer piers.

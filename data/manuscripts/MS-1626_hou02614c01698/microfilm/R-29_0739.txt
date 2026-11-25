@@ -1,0 +1,42 @@
+[u]To calculate the height[/u]
+[u]of Aurorae[/u]
+[u]according to H. A. Newton[/u]
+
+$\sin \phi = \sin d \cdot \cos a \cdot \csc (d+h)$
+$\tan c = 2 \sin h \cdot \sin \phi \cdot \sec^2 \phi$
+$x = R (\sec c - 1)$
+
+where,
+$d$ is the distance on the earth's surface
+from the observer to the centre of
+[del]curvature of[/del] the nearest portion of
+the belt of frequent auroral displays
+$a$ is the half amplitude of the
+auroral arch on the horizon
+$h$ is the apparent altitude of the
+auroral arch.
+$R$ is the earth's radius.
+$x$ is the height of the auroral cloud
+from the earth.
+
+I give also his derivation
+$b = $ distance from the observer to point of
+earth vertically under that part of the
+cloud that forms the vertex of the arch
+$c = $ dist. from observer to point vertically
+under the part of the arch in the horizon
+We have then 4 equations
+(1) $R+x = R \sec c = R \cos h \sec (b+h)$
+But [fig]spherical triangle[/fig] hence
+(2) $\cos (d-b) = \cos d \cos c + \sin d \sin c \cos a$
+From these eq. eliminate $b$ and $c$ and find $x$
+in terms of $a, d, h,$ and $R$
+From (1) $\cos (b+h) = \cos h \cdot \cos c$
+$\therefore \cos (d-b) = \cos \{d+h - (b+h)\}$
+$= \cos (d+h) \cos (b+h) + \sin (d+h) \sin (b+h)$
+(3) $= \cos (d+h) \cos h \cos c + \sin (d+h) \sqrt{1 - \cos^2 h \cos^2 c}$
+Equating (2) & (3) and dividing by $\cos c$
+$\cos d + \sin d \tan c \cos a = \cos (d+h) \cos h$
+$+ \sin (d+h) \sqrt{\sec^2 c - \cos^2 h}$
+But $\sec^2 c = \tan^2 c + 1$ and $\sin^2 h = 1 - \cos^2 h$
+$\therefore \sqrt{\sec^2 c - \cos^2 h} = \sqrt{\tan^2 c + \sin^2 h}$

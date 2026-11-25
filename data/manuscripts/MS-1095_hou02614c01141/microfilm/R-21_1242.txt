@@ -1,0 +1,22 @@
+$$D_{x}^{2} \Delta_{x}^{2} u = 0$$
+
+$$D_{x} \Delta_{x}^{2} u = f_{1} \eta$$
+
+$$\Delta_{x}^{2} u = x f_{1} \eta + f_{2} \eta$$
+
+$$\Delta_{x} u = \frac{1}{2} x^{2} f_{1} \eta + x f_{2} \eta + f_{3} \eta'$$
+
+[del]A[/del] $u = \frac{1}{6} x^{3} f_{1} \eta + x^{2} f_{2} \eta + x f_{3} \eta' + f_{4} \eta'$
+
+[del]$u = f(x + iy$[/del]
+
+[del]if[/del] $u = f_{1}(x + iy) + x f_{2}(x + iy)$
+$\phantom{u =} + f_{3}(x - iy) + x f_{4}(x - iy)$
+
+$$D_{x} u = f_{1}' + f_{2} + x f_{2}' + f_{3}' + f_{4} + x f_{4}'$$
+
+$$D_{x}^{2} u = f_{1}'' + 2 f_{2}' + [del]f_{2}''[/del] + x f_{2}'' + f_{3}'' + 2 f_{4}' + x f_{4}''$$
+
+$$D_{y} u = i f_{1}' + i x f_{2}' - i f_{3}' - i x f_{4}'$$
+
+$$D_{y}^{2} u = - f_{1}'' - x f_{2}'' + f_{3}'' - x f_{4}''$$

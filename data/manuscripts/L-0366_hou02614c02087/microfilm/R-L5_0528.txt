@@ -1,0 +1,43 @@
+[marginalia]
+[date]1909
+June 30[/date]
+[pn]10[/pn]
+[/marginalia]
+
+I have pasted on this sheet a bit of squared
+paper on which the little crosses are simply
+mistakes to be altogether disregarded. The two
+brown lines I have drawn are the axes of $x$ and $y$.
+The fine black dots lie on the curve $y = fx = x^2 - 2$
+The blue dots are at heights above the axis of $x$ equal
+to the increase of $y$ [del]per unit[/del] (for the black dots) per
+unit of $x$ at the same value of $x$, i.e. on the
+same vertical. That is to say, the blue dots
+have $y = D_x fx$, $fx$ being always $x^2 - 2$.
+
+[fig]Graph with plotted points on grid paper[/fig]
+
+When a symbol for an operation, such
+as $D_x$ has an exponent, that exponent
+expresses how many times over the
+operation is performed. For example,
+$D_x^2 fx$ means $D_x (D_x fx)$ and $D_x^3 fx$ means
+$D(D^2 fx)$, etc.
+
+We have the habit of writing $D_x^n f0$
+to mean that $D_x^n fx$ is to be algebraically
+expressed in terms of $x$ and then $x$ is to be put equal to
+zero. For example when $fx = x^2 - 2$, $D_x fx = 2x$, and $D_x^2 fx = 2$.
+Consequently [del]if having this meaning[/del] $D_x f0 = 0$, but $D_x^2 f0 = 2$.
+[ins]But it seems to me more consistent to write $D_x^0 f0$ instead of $D_x^0 f0$, and I shall do so.[/ins]
+
+Now Maclaurin's theorem is, that for ordinary functions, which
+are expressible in a series according to powers of $x$,
+$$fa = f0 + a D_x f0 + a^2 \frac{D_x^2 f0}{2!} + a^3 \frac{D_x^3 f0}{3!} + a^4 \frac{D_x^4 f0}{4!} + \text{etc. ad infinitum.}$$
+
+Now I must mention that if $F$ and $\Phi$ [ins]and $\Psi$[/ins] are two symbols of complex
+operations [del]ends[/del] composed only of [del]additions[/del] additions, multiplications, and
+raising to positive integral powers of [del]nothing[/del] but such compounds of
+$D$ and constant numbers, then $(F \Phi)D = F(\Phi D)$ and $(F + \Phi)\Psi = $
+$F\Psi + \Phi\Psi$ and in short the rules of algebra generally hold good.
+[u]This is the favorite method of English mathematicians, and with proper[/u]

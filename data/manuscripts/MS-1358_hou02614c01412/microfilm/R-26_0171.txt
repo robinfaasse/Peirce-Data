@@ -1,0 +1,44 @@
+[u]Aris's Bridge[/u] [del]cirgy[/del] [ins]clogy[/ins] [date]Feb 19[/date]
+
+The part of the energy concerned in one of the equations I is
+[del][fig]sketch of a curve with points[/fig] [u]B[/u]/2 [ [u]y[/u]ₙ - [u]y[/u]ₙ₋₁/S ]² + ([u]y[/u]ₙ₊₁ - [u]y[/u]ₙ/S)² + ([u]y[/u]ₙ₊₂ - [u]y[/u]ₙ₊₁/S)²
++ [u]w[/u] [u]S[/u] ([u]y[/u]ₙ₋₁ + [u]y[/u]ₙ + [u]y[/u]ₙ₊₁) [u]S[/u]ₙ
++ [u]w[/u] [u]S[/u] ([u]y[/u]ₙ + [u]y[/u]ₙ₊₁)[/del]
++ K
+
+The Geometrical conditions are [del]such that[/del] [ins]such that the towers are pulled over but by a negligible amount probably while the truss is not pulled over at all. Let this be so for the present.[/ins] [del]x and y are the same[/del]
+[del]ξ and η[/del] are the changes of the coordinates due to live load.
+of the parts of the truss on which those live loads rest.
+
+[fig]diagram of a truss bridge section with vertical lines[/fig]
+
+[del]The equations I are of the form
+[u]B[/u]/S² [u]δ[/u]ₙ
+[u]B'[/u]/S [ ([u]θ[/u]ₙ - [u]θ[/u]ₙ₋₁) [u]δ[/u]ₙ + ([u]θ[/u]ₙ₊₁ - [u]θ[/u]ₙ) [u]δ[/u]ₙ [del]cos θₙ[/del][/del]
+
+[del]The stiffness is in the truss exclusively[/del]
+The change of angle of truss is not that of
+cable - [ins]inclination[/ins]
+Call φ the [del]change of[/del] angle of truss, under live load
+
+[fig]diagram of intersecting lines[/fig]
+[fig]right triangle[/fig]
+[fig]right triangle with angle theta[/fig]
+[fig]diagram of a vertical post with guy wires[/fig]
+
+[del]yₙ = 1/2 S sin φ[/del]
+yₙ - yₙ₋₁ = 1/2 S sin φₙ = 1/2 S sec ϑₙ sin (θ+ϑ)ₙ - 1/2 S sin ϑₙ
+= 1/2 S sin ϑₙ + 1/2 S cos ϑₙ tan ϑₙ - 1/2 S sin ϑₙ
+
+sin φₙ + sin ϑₙ - sin θₙ = cos θₙ tan ϑₙ
+(sin φₙ + sin ϑₙ)² - 2 (sin φₙ + sin ϑₙ) sin θₙ + sin² θₙ
+= tan² ϑₙ - sin² θₙ tan² ϑₙ
+
+[fig]right triangle with hypotenuse 1/2 S sec theta[/fig]
+[fig]right triangle with hypotenuse 1/2 S sec theta and base theta + phi[/fig]
+
+sin² θₙ sec² ϑₙ - 2 (sin φₙ + sin ϑₙ) sin θₙ = tan² ϑₙ - (sin φₙ + sin ϑₙ)²
+[del]- sin θₙ 2 (sin φₙ + sin ϑₙ) cos ϑₙ[/del]
+[ [del]sin θₙ sec ϑₙ - (sin φₙ + sin ϑₙ) cos ϑₙ[/del] ]² = tan² ϑₙ - (sin φₙ + sin ϑₙ)² [del]sin² ϑₙ[/del]
+[del]- tan² ϑₙ sin ϑₙ sin φₙ[/del]
+sin θₙ = cos ϑₙ [ [del]sin φₙ + sin ϑₙ[/del] ] cos ϑₙ ± [del]S[/del] tan² ϑₙ - (sin φₙ + sin ϑₙ)² [del]sin² ϑₙ[/del]

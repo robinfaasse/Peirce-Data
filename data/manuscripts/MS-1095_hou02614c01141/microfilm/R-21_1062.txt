@@ -1,0 +1,24 @@
+$$D_t u = \mu' (D_x^2 u + D_y^2 u + D_z^2 u)$$
+
+To apply this equation we take the
+[del]axis of[/del] [ins]tangential[/ins] of the cylinder
+
+[fig]Circle tangent to a horizontal line[/fig]
+$$\begin{aligned}
+u &= r D_t \theta \\
+D_t u &= r D_t^2 \theta
+\end{aligned}$$
+
+$$\begin{aligned}
+D_z^2 u &= 0 \\
+D_y^2 u &= D_r^2 (r D_t \theta) \\
+D_x^2 u &= D_\theta D_t \theta + \frac{1}{r} D_\theta^2 D_t \theta
+\end{aligned}$$
+
+$$\begin{aligned}
+d u &= \qquad\qquad D_x u = \frac{1}{r} D_\theta u \\
+D_x^2 u &= \frac{1}{r} D_\theta (\frac{1}{r} D_\theta u) \\
+&= \frac{1}{r} D_\theta u + \frac{1}{r^2} D_\theta^2 u
+\end{aligned}$$
+
+[fig]Circle with a sector and tangent line[/fig]

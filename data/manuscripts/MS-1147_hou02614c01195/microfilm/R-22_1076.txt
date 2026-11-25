@@ -1,0 +1,34 @@
+[marginalia]
+Symbolical
+Logic
+12
+[/marginalia]
+
+[fig]cross[/fig]
+
+permits write $[X(B)]$. That is, if $B$ is sometimes true,
+then "If $X$ [del]can[/del] [ins]is[/ins] ever [del]be[/del] [ins]so[/ins] true, $B$ is sometimes true. Let us write
+"If $C$ is ever true, then sometimes if $A$ is ever true, $B$ is
+sometimes true." This is $(C \{ [A(B)] \})$. But, by Rule III,
+this is the same as $(C(A(B)))$. That is, it follows the above pro-
+position is equivalent to "If $C$ is ever true and $A$ is ever true then
+$B$ is sometimes true." We can now so exhibit the [u]modus[/u]
+[u]ponens[/u] and [u]modus tollens[/u]. Given the premises "If $A$ is
+ever true, $B$ is sometimes true" and "$A$ is sometimes true", we
+write them $[A(B)] A$
+
+$[A(B)] C$
+$[A(B)] C$
+
+$[A(BA)] [A(B)]$
+
+[fig]circle with letter A inside[/fig]
+
+$\frac{[A(C)] C}{(A) C}$
+
+$\frac{[X]}{[A(X)] [A(AX)]}$
+$A(AX) A(X)$
+
+$\frac{[A(A)]}{A(A)}$
+
+$\frac{A(BA)}{A(\overline{a} + b)}$

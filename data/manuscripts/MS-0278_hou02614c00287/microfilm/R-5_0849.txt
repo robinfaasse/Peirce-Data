@@ -1,0 +1,22 @@
+Differentiating, we find
+[del]3[/del] [ins]8)[/ins] [tab] $dr = \left(1 + \frac{1}{294}\right) \frac{Z-z}{\sqrt{2Zz-z^2}} dz = \left(1 + \frac{1}{294}\right) \frac{1-\frac{z}{Z}}{\sqrt{2\frac{z}{Z}-\left(\frac{z}{Z}\right)^2}} dz$
+
+Squaring (8)
+9) [tab] $(dr)^2 = \left(1 + \frac{1}{146\frac{3}{4}}\right) \frac{[del]Z^2[/del] [ins]Z^2[/ins] - [del]2Zz + z^2[/del]}{\left(2Zz-z^2\right)} [del]- 1[/del] (dz)^2$
+[tab] $= \left(1 + \frac{1}{146\frac{3}{4}}\right) \frac{Z^2 (dz)^2}{2Zz-z^2} [del]- \left(1 + \frac{1}{146\frac{3}{4}}\right) (dz)^2[/del]$
+
+[ins]Adding $(dz)^2$[/ins]
+10) [tab] $(dr)^2 + (dz)^2 = \left[\left(1 + \frac{1}{146\frac{3}{4}}\right) \frac{Z^2}{2Zz-z^2} - \frac{1}{146\frac{3}{4}}\right] (dz)^2$
+[tab] $= \frac{Z^2}{2Zz-z^2} + \frac{1}{146\frac{3}{4}} \frac{[del]Z^2 - (2Zz-z^2)[/del] [ins](Z-z)^2[/ins]}{2Zz-z^2} (dz)^2$
+
+Extracting the square root
+[del]$\sqrt{(dr)^2 + (dz)^2} = $[/del]
+[tab] $= \frac{1}{2Zz-z^2} [del]\left[ Z^2 + \frac{1}{146\frac{3}{4}} \right][/del]$
+[tab] $= \frac{1}{2Zz-z^2} \left( Z^2 + \frac{1}{146\frac{3}{4}} (Z-z)^2 \right) (dz)^2$
+[tab] $= \frac{Z^2}{2Zz-z^2} \left[ 1 + \frac{1}{146\frac{3}{4}} \left(1-\frac{z}{Z}\right)^2 \right] (dz)^2$
+
+[del]$(dy)^2 = \left(1 + \frac{1}{146\frac{3}{4}}\right) \frac{Z^2 - 2Zz + z^2}{2Zz-z^2} = \frac{1-\frac{2z}{Z} + \frac{z^2}{Z^2}}{\sqrt{2\frac{z}{Z} - \left(\frac{z}{Z}\right)^2}}[/del]
+
+[tab] $(dr)^2 = \left(1 + \frac{1}{146\frac{3}{4}}\right) \left( \frac{1-2\frac{z}{Z} + (\frac{z}{Z})^2}{2\frac{z}{Z} - (\frac{z}{Z})^2} \right)$
+[tab] $= \left(1 + \frac{1}{146\frac{3}{4}}\right) \left( \frac{1-2\frac{z}{Z} + (\frac{z}{Z})^2}{2\frac{z}{Z} - (\frac{z}{Z})^2} \right) (dz)^2$
+$(dr)^2 + (dz)^2 = \left( \frac{1}{2\frac{z}{Z} - (\frac{z}{Z})^2} + \frac{1}{146\frac{3}{4}} \frac{1}{2\frac{z}{Z} - (\frac{z}{Z})^2} [del]- 1 - \frac{1}{146\frac{3}{4}}[/del] \right)$

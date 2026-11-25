@@ -1,0 +1,19 @@
+[fig]A:B + S:T = B:A + T:S
+A:S + B:B = B:S + T:A
+A:B + B:A + C:D + D:C[/fig]
+
+This is bad. For that x+y = y+x is directly implied
+in the definition, since this says nothing about the
+order of the two integers added. I will, therefore,
+prove that (x+y) + z = x + (y+z)
+First if y is 0 then both are x+z and are therefore
+the same integer.
+Next suppose y follows next after Y and that
+(x + Y) + z = x + (Y + z)
+Then by Clause I, (x + y) + z [del]is the integer next following[/del]
+is the sum of z and the integer next following x+Y
+which by the same clause is the integer next following
+(x + Y) + z. But this is by hypothesis the integer next following
+x + (Y + z) which by clause I is the sum of x and the integer
+next following (Y + z) which by clause I is the sum of x and y + z
+Hence (x+y) + z = x + (y+z). We have thus proved that the

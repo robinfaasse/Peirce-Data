@@ -1,0 +1,50 @@
+We have now to satisfy the condition
+
+$$m i = a' j + b' l$$
+
+for this purpose add to $m$ $a' A:G + b' B:H$
+and to $i$ $G:C + H:F$.
+
+This makes
+$$i = A:B + B:C + G:C + H:F$$
+$$m = D:E + E:F + a' A:G + b' B:H$$
+
+Now consider $k$.
+First $i k = l$ $m k = c' j + d' l$
+
+Add to $i$ $D:I$ and make $k = I:F$
+Add to $m$ $c' A:J + d' D:K$ and add to
+$k$ $J:C + K:F$.
+
+Next $k i = j + a l$ $k m = c j + c l$
+
+Add to $k$ $A:L + a D:M + b A:N + c D:O$
+Add to $i$ $L:C + M:F$ Add to $m$ $N:C + C:F$
+
+This completes the solution and gives
+$$i = A:B + B:C + G:C + H:F + D:I + L:C + M:F$$
+$$j = A:C$$
+$$k = I:F + J:C + K:F + A:L + a D:M + b A:N + c D:O$$
+$$l = D:F$$
+$$m = D:E + E:F + a' A:G + b' B:H + c' A:J + d' D:K + N:C + O:F$$
+
+cation table
+
+[fig]Multiplication table for i', j, k[/fig]
+
+This satisfies the condition. And,
+for $i'$ one may write $A:A$ for $k$ $B:B$
+for $j = A:B$.
+
+This is the whole story.
+
+For example. Take the algebra $6_{15}$
+
+[fig]Multiplication table for i, j, k, l, m[/fig]
+
+All the blanks are zero's
+
+Put $i = A:B + B:C$
+$j = A:C$
+$m = D:E + E:F$
+$l = D:F$

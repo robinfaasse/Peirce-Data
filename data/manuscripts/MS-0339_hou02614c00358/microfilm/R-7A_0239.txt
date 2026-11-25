@@ -1,0 +1,19 @@
+[del]$\varphi x = \frac{C}{x} + \dots$[/del] [ins]$\varphi_1 x$[/ins]
+$\varphi x = \frac{C}{x} (1 + \dots)$
+
+However, this is not the way
+
+Just develope $\varphi$ according [del]to[/del] [ins]to[/ins]
+relative terms. Then
+
+$\varphi x = a + bx + c_1 e^{a_1 + b_1 x} + c_2 e^{a_2 + b_2 x}$
+$\varphi (0) = a + c_1 e^{a_1} + c_2 e^{a_2}$
+
+$\varphi (1) = a + b + c_1 e^{a_1 + b_1} + c_2 e^{a_2 + b_2}$
+
+It is next to be determined [del]how[/del]
+contained in $\varphi x$. If there is
+which will be treated hereafter.
+
+But here I write a
+developement formula

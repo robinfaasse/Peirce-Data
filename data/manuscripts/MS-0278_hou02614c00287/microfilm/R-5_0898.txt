@@ -1,0 +1,42 @@
+[pn]1914 [del]Feb 1[/del]
+page 1[/pn]
+
+$(\frac{r}{R})^2 = 1 - (\frac{z}{Z})^2$
+
+$3 = z - z = (\frac{z}{Z} - 1) Z$
+
+$(\frac{r}{R})^2 = 1 - (\frac{z}{Z})^2 + 2(\frac{z}{Z}) - 1 = \frac{z}{Z} (2 - \frac{z}{Z})$
+
+$\frac{r dr}{R^2} = (1 - \frac{z}{Z}) \frac{dz}{Z}$
+
+$\frac{r}{R} = \sqrt{\frac{z}{Z} (2 - \frac{z}{Z})}$
+
+$\sqrt{\frac{z}{Z} (2 - \frac{z}{Z})} \frac{dr}{R} = (1 - \frac{z}{Z}) \frac{dz}{Z}$
+
+$(\frac{r}{R})^2 = \frac{z}{Z} (2 - \frac{z}{Z})$
+
+$\frac{dr}{R} = \frac{1 - z/Z}{\sqrt{\frac{z}{Z} (2 - z/Z)}} \frac{dz}{Z}$
+
+$(\frac{dr}{r})^2 = (\frac{1}{\frac{z}{Z} (2 - \frac{z}{Z})} - 1) \frac{(dz)^2}{Z^2}$
+
+[del]$\frac{(dr)^2 + (dz)^2}{(dr)^2} =$[/del]
+
+$\frac{(dr)^2}{r^2} = \frac{1}{\frac{z}{Z} (2 - \frac{z}{Z})} (\frac{1}{\frac{z}{Z} (2 - \frac{z}{Z})} - 1) \frac{(dz)^2}{Z^2}$
+
+$\frac{(dz)^2}{r^2} = \frac{(dz)^2}{R^2 \frac{z}{Z} (2 - \frac{z}{Z})}$
+
+[del]$\frac{(dr)^2 + (dz)^2}{r^2} =$[/del] $r^2 = R^2 \frac{z}{Z} (2 - \frac{z}{Z})$
+
+$(dr)^2 = \frac{R^2}{Z^2} [ \frac{1}{\frac{z}{Z} (2 - \frac{z}{Z})} - 1 ] dz^2$
+
+[del]$\frac{(dr)^2}{r^2} = \frac{1}{Z^2} (\frac{1}{\frac{z}{Z} (2 - \frac{z}{Z})} - 1) \frac{dz^2}{R^2}$[/del]
+
+$(\frac{dr}{r})^2 = \frac{1 - \frac{z}{Z} (2 - \frac{z}{Z})}{(\frac{z}{Z})^2 (2 - \frac{z}{Z})^2} \frac{(dz)^2}{Z^2}$
+
+$\frac{(dz)^2}{r^2} = \frac{(dz)^2}{R^2 \frac{z}{Z} (2 - \frac{z}{Z})}$
+
+$\frac{(dr)^2 + (dz)^2}{r^2} = \frac{(dz)^2}{Z^2 \frac{z}{Z} (2 - \frac{z}{Z})} ( \frac{1}{z(2Z-z)} - \frac{1}{Z^2} + \frac{1}{R^2} )$
+
+[del]$\frac{\sqrt{(dr)^2 + (dz)^2}}{r} = $[/del] $= \frac{(dz)^2}{z(2Z-z)} ( \frac{Z^2}{z(2Z-z)} - 1 + \frac{Z^2}{R^2} )$
+
+$= \frac{(dz)^2}{z(2Z-z)} ( 1 - \frac{z(2Z-z)}{Z^2} )$

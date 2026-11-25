@@ -1,0 +1,28 @@
+[pn]20[/pn]
+
+[del]Identity has at all times been represented in functional algebra by[/del]
+1. But to avoid all confusion, it will be best to give this sign a
+distinctive appearance, by writing it as a thick vertical line. Other-
+ness will then naturally be represented by a plain T, this being
+compounded of the signs for identity and negation. Schröder uses $1_1$
+for identity and $0_1$ for otherness, which is objectionable, since the rela-
+tion of identity to the universe is quite different from that of other-
+ness to nothing.
+
+Two alternative copula-signs recommend themselves for special
+occasions, as, for example, when the algebra of the copula is em-
+ployed. Namely, the sign for $\prec$ is a modified F, [ins]as for "follows,"[/ins] whose upper line
+is to extend over the whole antecedent. Thus, we may write [ins]indifferently in place[/ins]
+$A \prec B$ and $\overline{A} \text{F} B$,
+reading "from A follows B. So we may write indifferently,
+$(A \prec B) \prec C$ and $\overline{\overline{A} \text{F} B} \text{F} C$,
+reading "from, from A follows B, follows C." The sign for $\overline{\prec}$ is a modified
+C, for "leaves contingent," where the upper part extends over the whole non-
+consequent. Thus, we may write indifferently
+$A \overline{\prec} B$ and $A \overline{\text{C} B}$,
+reading "A leaves B contingent" i.e. not necessary. So we may write indifferently
+$A \overline{\prec} (B \overline{\prec} C)$ and $A \overline{\text{C} B \overline{\text{C} C}}$,
+reading "A leaves, B leaves C contingent, contingent." [del]As[/del] It is necessary
+to distinguish by parentheses between
+$\overline{A} \text{F} (B \overline{\text{C} C})$ and $(\overline{A} \text{F} B) \overline{\text{C} C}$,
+or "from A follows, that B leaves C contingent" and "that from A follows B, leaves

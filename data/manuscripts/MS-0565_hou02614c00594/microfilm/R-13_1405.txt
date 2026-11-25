@@ -1,0 +1,27 @@
+assertion that some odd number of these propositions
+were true. [del]But as it[/del] But using the fundamental
+quadratic, the sum was 0 if all the propositions added
+[del]had 0 for their value,[/del] [ins]were 0,[/ins] 1 if one alone were 1 and the rest 0, and
+was neither 1 nor 0 if more than one were 1 and
+the rest 0. Consequently, a sum had to be interpreted
+as tacitly assuming (though not asserting) that all
+the propositions added were mutually incompatible, and
+as asserting that some one was true all the others being
+false.
+
+Owing to the awkwardness of this, Jevons, first, and
+subsequently nearly every writer on the subject (several
+of them unaware of what others had done) discarded
+the operation of addition, and substituted another
+operation, usually called logical addition, but otherwise
+termed aggregation. Denoting this, as Jevons came to do,
+by a sign of division turned round 90°, it may be
+defined by the equation
+
+[u]x[/u] ⊹ [u]y[/u] = [u]x[/u] + [u]y[/u] - [u]x[/u] [u]y[/u].
+
+or
+
+[u]x[/u] ⊹ [u]y[/u] ⊹ [u]z[/u] ⊹ ... = [u]x[/u] + [u]y[/u] + [u]z[/u] + ...
+- [u]x[/u] [u]y[/u] - [u]x[/u] [u]z[/u] - [u]y[/u] [u]z[/u] - ...
++ [u]x[/u] [u]y[/u] [u]z[/u] + ... - ...

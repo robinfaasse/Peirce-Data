@@ -1,0 +1,14 @@
+The fluxion of this is
+
+$$D_t D_{\theta_k} E = dl \int_0^k d\lambda \int_{m_k}^M dm \left[ \cos(\theta_k - \theta_\lambda) \cdot D_t^2 \theta_\lambda \right]$$
+$$+ dl \int_k^I dl \int_m^M dm \left[ \cos(\theta_l - \theta_k) \cdot D_t^2 \theta_l \right]$$
+$$+ dl \cdot D_t m_k \cdot g^2 \cdot D_t^2 \theta_k$$
+$$+ dl \int_0^k d\lambda \int_{m_k}^M dm \left[ \sin(\theta_k - \theta_\lambda) (D_t [del]\theta_\lambda[/del] [ins]\theta_k[/ins])^2 \right]$$
+$$+ dl \int_k^I dl \int_m^M dm \left[ \sin(\theta_k - \theta_l) (D_t \theta_l)^2 \right]$$
+$$- dl \int_0^k d\lambda \int_{m_k}^M dm \left[ \sin(\theta_k - \theta_\lambda) (D_t \theta_k)(D_t \theta_\lambda) \right]$$
+$$- dl \int_k^I dl \int_m^M dm \left[ \sin(\theta_k - \theta_l) (D_t \theta_k)(D_t \theta_l) \right]$$
+
+The partial differential coefficient relatively to $\theta_k$ is $D_{\theta_k} E =$
+
+$$- dl \int_0^k d\lambda \int_{m_k}^M dm \left[ \sin(\theta_k - \theta_\lambda) (D_t \theta_k)(D_t \theta_\lambda) \right]$$
+$$- dl \int_k^I dl \int_m^M dm \left[ \sin(\theta_k - \theta_l) (D_t \theta_k)(D_t \theta_l) \right]$$

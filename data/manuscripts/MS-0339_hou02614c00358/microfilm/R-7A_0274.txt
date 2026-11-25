@@ -1,0 +1,34 @@
+[pn]1 84r[/pn]
+
+[del]x + y = y + x[/del]
+
+[del]•[/del] $(a^b)^c = a^{bc}$
+$ab.c = a.bc$
+
+$a^b a^c = $ [del]$a^{b+c}$[/del] $x \prec y$ $y \prec z$
+$a^c b^c$ $x \prec y$ $x \prec z$ $x \prec yz$
+$(x \prec y) \prec (x \prec z) \prec x \prec yz$
+
+[del]$a^b$[/del] [del]$x \prec y$[/del] [del]$a^c$[/del]
+$a \prec a^b$ $y \prec (x \prec y)$
+
+[del]$x \prec y$[/del] [del]$x \prec z$[/del] $a^{ax}$ $a^{xa}$
+
+[u]$ab.c = a.bc$[/u] [u]$ab = ba$[/u]
+$(a^b)^c = a^{(bc)}$
+
+[del]$a^b$[/del] $a^b c \therefore a^{b^c} \therefore (a^b)^{(c^b)}$
+[del]$a^b$[/del] $ab^c \therefore (ab)^c \therefore (a^c)^{(ab)}$
+
+$(x \prec y) \prec x$
+$x\overline{y} + x$
+$x(\overline{y} + z) + \overline{x}z$
+[del]$\overline{c} + ab$[/del]
+$a(b + \overline{c})$
+$b\overline{a} + \overline{c} + a$
+[del]$(a \prec b)$[/del]
+$(b \prec a) \prec (c \prec a)$
+$a + b$
+[del]$a$[/del] $\overline{a} + b$
+$(a \prec b) \prec b$
+$\frac{a}{b}$

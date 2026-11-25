@@ -1,0 +1,38 @@
+[del]x + y[/del]
+
+$$\frac{\frac{x}{\rho^n} + \frac{y}{R^n \sigma^{- \theta n i}} + \frac{z}{R^n \sigma^{- \theta n i}}}{\frac{x}{\rho^{n+1}} + \frac{y}{R^{n+1} \sigma^{- \theta (n+1) i}} + \frac{z}{R^{n+1} \sigma^{- \theta n i}}}$$
+
+$$= \rho \cdot \frac{1 + \frac{y}{x} \left(\frac{\rho}{R}\right)^n \sigma^{- \theta n i} + \frac{z}{x} \left(\frac{\rho}{R}\right)^n \sigma^{\theta n i}}{1 + \frac{y}{x} \left(\frac{\rho}{R}\right)^{n+1} \sigma^{- \theta (n+1) i} + \frac{z}{x} \left(\frac{\rho}{R}\right)^{n+1} \sigma^{\theta (n+1) i}}$$
+
+[del]P + Qi[/del] $\cos \theta + \sin \theta i$
+
+$$\frac{1 + \frac{y}{x} \left(\frac{\rho}{R}\right)^n 2 \cos n \theta}{1 + \frac{y}{x} \left(\frac{\rho}{R}\right)^{n+1} 2 \cos (n+1) \theta}$$
+
+[del]1 + x[/del] + [del]\frac{1 - x}{1+x}[/del]
+[del]= \frac{1 - x^2}{1+x}[/del]
+
+$$\begin{aligned}
+P^2 + Q^2 &= \frac{1}{\rho} \\
+R &= \frac{1}{\sqrt{\rho}} \\
+\left(\frac{R}{\rho}\right) &= \frac{1}{\rho^{\frac{3}{2}}} = [del]\frac{1}{\sqrt{\rho^3}}[/del]
+\end{aligned}$$
+
+$$\begin{array}{r}
+3010300 \\
+1003433
+\end{array}$$
+
+$$\begin{array}{l}
+1.252921 \\
+9.4148413 \\
+\frac{0.5851587}{2925793} \\
+0.8777380 \frac{1}{2} \\
+7.546367 \\
+1 - 3 w^2 + 3 w
+\end{array}$$
+
+$$(\sqrt[3]{2} - 1)^3$$
+
+$$\frac{[del]\sqrt[3]{2}[/del] - 3 \cdot 2^{\frac{2}{3}} + 3 \cdot 2}{(w - 1)^3}$$
+
+$$w^3 - 3 w^2 + 3 w - 1$$

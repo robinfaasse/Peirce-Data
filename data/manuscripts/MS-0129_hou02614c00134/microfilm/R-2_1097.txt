@@ -1,0 +1,44 @@
+A length is the measure of the extension of a limited
+part of a homaloid between two points.
+
+[del]bounded by them[/del] [ins]The[/ins] distance between two points is the least of the two lengths
+[ins]upon[/ins] the homaloid through them.
+
+Right lengths are equal lengths [ins]bounded by[/ins] the same pair
+of points.
+
+Supplementary lengths are the two lengths bounded by the
+same pair of points.
+
+[u]Notation[/u] [del]We will[/del] denote homaloids by braces like rays.
+
+[u]Theorem[/u] . Vertical angles are equal.
+
+Demonstration. Let [del]ray[/del] $\{AB\}$ and $\{CD\}$ be two [del]rays[/del] [ins]homaloids[/ins]
+intersecting in $[X] = [\{AB\}\{CD\}]$. Let $[A]$
+and $[B]$ be near $[X]$ on opposite sides of
+it; and let $[C]$ and $[D]$ be near $[X]$ on
+opposite sides of it. Then, I say, $\angle CXB = \angle DXA$.
+
+[fig]Two intersecting lines forming vertical angles[/fig]
+
+Let the metron move, with the [del]point[/del] particle at $[X]$ remaining
+there, until the [del]fiber[/del] filament in $\{AB\}$ returns to this homa-
+loid but with the part on the side of $[C]$ carried over
+to the side of $[D]$. Then, the part previously just filling
+$\angle AXB$, now just fills $\angle BXA$ (on the other side). So that
+$\angle AXB$ (toward $[C]$) $= \angle BXA$ (toward $[D]$).
+
+or $\angle AXC + \angle CXB = \angle BXD + \angle DXA$.
+
+In a similar way
+$\angle CXD$ (toward $[B]$) $= \angle DXC$ (toward $[A]$).
+
+[del]Adding these equations[/del]
+[del]Subtracting the last or[/del] $\angle CXB + \angle BXD = \angle DXA + \angle AXC$.
+
+Adding the equations, we get
+$\angle AXC + 2 \angle CXB + \angle BXD = \angle BXD + 2 \angle DXA + \angle AXC$
+
+Subtracting $\angle AXC + \angle BXD$ from both sides and halving
+$\angle CXB = \angle DXA$ Q.E.D.

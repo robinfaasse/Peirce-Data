@@ -1,0 +1,19 @@
+the blank (not, it may be filled no matter how, as in
+the case of $\top A$), then this precisely asserts $A$; but if
+we write
+$$\bar{A}$$
+to mean that it is possible to find an antecedent from which $A$
+does not follow, this precisely denies $A$. Thus we have
+$$\top X = X$$
+$$\bar{X}\vert = \bar{X}.$$
+
+A question of notation here arises. Shall
+$$A\vert B\cdot C$$
+be understood to mean
+$$(A\vert B)\cdot C$$
+or
+$$A\vert (B\cdot C)\text{ ?}$$
+
+It will be found convenient to [del]consider[/del] [ins]consider[/ins] the vertical
+line as a greater separation than a dot; so that
+$$A\vert B\cdot C = A\vert (B\cdot C).$$

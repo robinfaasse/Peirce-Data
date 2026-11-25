@@ -1,0 +1,17 @@
+[fig]figure[/fig]
+The graph
+which has been described is also called
+simply, the set of states with transitions.
+Example.
+[fig]figure[/fig]
+Each such box (with a dot in it) indicates a state
+which can exist for a ball. That is, the state is certain
+information (which, as we see, can be stored in boxes)
+about the position or motion.
+The graph
+[fig]figure[/fig]
+states what transitions are possible. For example, if the ball is in state [fig]figure[/fig] it can only
+go to state [fig]figure[/fig]. In that case, the information which was in
+the box for state [fig]figure[/fig] will instead be in the box for state [fig]figure[/fig].
+In this particular graph, state [fig]figure[/fig] will then go into state [fig]figure[/fig].
+And so off.

@@ -1,0 +1,32 @@
+[pn]342[/pn]
+
+$$\underline{x}\cdot\underline{y} + \underline{x}\cdot\underline{z},$$
+$$\therefore \underline{x} + \underline{x}\cdot\underline{z},$$
+$$\therefore \underline{x} + \underline{x},$$
+$$\therefore \underline{x}.$$
+
+And at the same time
+$$\underline{x}\cdot\underline{y} + \underline{x}\cdot\underline{z},$$
+$$\therefore \underline{y} + \underline{x}\cdot\underline{z},$$
+$$\therefore \underline{y} + \underline{z}.$$
+
+But since
+$$\underline{x},$$
+$$\underline{y} + \underline{z},$$
+we have
+$$\underline{x}\cdot(\underline{y} + \underline{z}).$$
+
+We have thus proved, on the one hand the
+validity of the inference
+$$\underline{x}\cdot(\underline{y} + \underline{z})$$
+$$\therefore \underline{x}\cdot\underline{y} + \underline{x}\cdot\underline{z},$$
+and, on the other hand, the validity of the
+converse inference
+$$\underline{x}\cdot\underline{y} + \underline{x}\cdot\underline{z}$$
+$$\therefore \underline{x}\cdot(\underline{y} + \underline{z})$$
+and these two together constitute our meaning
+when we write
+$$\underline{x}\cdot(\underline{y} + \underline{z}) = \underline{x}\cdot\underline{y} + \underline{x}\cdot\underline{z}\text{ *}.$$
+
+[u]* This is what I had in mind in a statement Am. Math. J.[/u]
+[u]III. 53. which has been severely criticized.[/u]

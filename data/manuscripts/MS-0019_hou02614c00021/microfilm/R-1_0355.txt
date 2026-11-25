@@ -1,0 +1,31 @@
+[u]Logic of Quantity.[/u]
+(30), we get the square of
+$$q_{ns'} \cdot \left[ \bar{q}_{mr''} \dagger (\bar{q}_{ms'} \dagger \bar{r}_{ir's'}) \cdot (\bar{r}_{ir'k} \cdot q_{mk} \dagger r_{Ns'}) \right]$$
+$$= q_{ns'} \cdot (\bar{q}_{mr''} \dagger \bar{q}_{ms'} \dagger \bar{r}_{ir's'}) \cdot (\bar{q}_{mr''} \dagger \bar{r}_{ir'k} \cdot q_{mk} \dagger r_{Ns'}).$$
+We identify $s''$ with $s'$ and the only factors of the square needed are
+$$q_{ns'} \cdot (\bar{q}_{mr''} \dagger \bar{q}_{ms'} \dagger \bar{r}_{ir''s'}) \cdot (\bar{q}_{mr'} \dagger \bar{r}_{ir'k} \cdot q_{mk} \dagger r_{Ns'}).$$
+Multiplying the factors $q_{ms'} \cdot (\bar{r}_{is'} \dagger q_{ms'})$, and identifying as above stated,
+we get $q_{ns'} \cdot (\bar{q}_{mr''} \dagger \bar{q}_{ms'} \dagger \bar{r}_{ir''s'}) \cdot r_{Ns'}$.
+Now multiplying in (27), we get
+$$q_{ms'} \cdot (\bar{q}_{mr''} \dagger \bar{r}_{ir''s'}),$$
+which is at once annulled by $\bar{q}_{ms} \dagger q_{mr} \cdot r_{irs}$.
+
+It is thus unnecessary to add any term $X'''$; and the problem is
+solved, by (22) above.
+
+[u]Definition 5[/u]. A collection [ins] [del]may[/del] [ins]m,[/ins] [/ins] may be said to be [u]finite[/u], or [u]enumerable[/u], [ins]and we may write E(m)[/ins]
+if, and only if, [del]there is[/del] [ins]every[/ins] preference [del]which[/del] that transfers the collection to itself
+[del]is[/del] is the converse of a relation which transfers it to itself. Otherwise,
+it may be said to be [u]infinite[/u], or [u]inenumerable[/u].
+
+N.B. The word [u]innumerable[/u] is reserved for another signification.
+
+[u]Art. 6. Definition 6[/u]. One collection [ins]n,[/ins] is said to be [u]greater than[/u] another,
+m, and m is said to be [del]less[/del] [ins]less[/ins] or [u]fewer than[/u] n, and we may
+write $M_{\underline{m}\underline{n}}$, if, and only if [u]n[/u] proceeds from [u]m[/u], i.e. has an object for
+every object of [u]m[/u], but [u]m[/u] does not proceed from, or contain an object
+for every object of, [u]n[/u].
+
+[u]Definition 7[/u]. Two collections [ins]m and n,[/ins] are said to be [u]equal[/u], and we
+may write $I_{mn}$, if, and only if, each proceeds from, or has an object
+for every object of, the other.

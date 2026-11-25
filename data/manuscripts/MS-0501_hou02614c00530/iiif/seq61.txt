@@ -1,0 +1,19 @@
+9
+
+[ured]Theorem V.[/ured] Whatever i, a, e may be, if (i[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] a)[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] e, then either
+i or e.
+Proof. For suppose i, a, e to be any such things that (i[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] a)[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] e.
+Then I have only to show that either i or e. By [u]Clause 3[/u], if i[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] a and
+(i[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] a)[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] e, then e; whence, by the hypothesis, if i[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] a then e. But
+by [u]Clause 2[/u], either i or i[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] a; whence either i or e. Q.E.D
+
+[ured]Theorem VI.[/ured] Whatever i, a, e. may be, if (i[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] a)[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] e, then a[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] e.
+Proof. For suppose i, a, e. to be any such things that (i[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] a)[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] e. Then
+I have only to show that a[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] e. By Clause 1,
+(No 1) If a, then i[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] a
+(No 2) If e, then a[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] e By Clause 2,
+(No 3) Either a or a[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] e By Clause 3,
+(No 4) If (i[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] a) and (i[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] a)[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] e, then e.
+By (No 4) and the hypothesis, if (i[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] a) then e; whence by (No 1), if
+a then e; whence, by (No 3), either a[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] e or e; whence by (No 2),
+a[ins]^[/ins] [ins]c[/ins] [ins]^[/ins] e. Q.E.D.

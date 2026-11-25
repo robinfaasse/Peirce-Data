@@ -1,0 +1,21 @@
+[fig]Diagram with variables x4, x5, x6, y7, a, 42, 43, 45[/fig]
+
+[fig]Table with numbers 1 to 11[/fig]
+
+[del]m+n-1[/del]
+
+[fig]Diagram with variables a, x, y, m=1 subtracted[/fig]
+
+[u]Cuts down by 1[/u] choices [del]b[sub]x4[/sub][/del] [ins]y[sub]4[/sub][/ins] [del]y[sub]4[/sub][/del] etc
+x[sub]4[/sub]y[sub]4[/sub] x[sub]2[/sub]y[sub]4[/sub] x[sub]2[/sub]y[sub]2[/sub] x[sub]3[/sub]y[sub]2[/sub] x[sub]4[/sub]y[sub]2[/sub] x[sub]4[/sub]y[sub]3[/sub] x[sub]5[/sub]y[sub]3[/sub] x[sub]5[/sub]y[sub]5[/sub] x[sub]6[/sub]y[sub]5[/sub] x[sub]6[/sub]y[sub]6[/sub] [del]x[sub]6[/sub]y[sub]6[/sub][/del] [ins]x[sub]7[/sub]y[sub]6[/sub][/ins]
+
+[del]Adds[/del]
+[del]16x6[/del]
+
+[del]a[sub]1[/sub]x[sub]2[/sub] a[sub]2[/sub]y[sub]2[/sub] a[sub]3[/sub]x[sub]4[/sub] a[sub]4[/sub]y[sub]3[/sub] a[sub]5[/sub]x[sub]5[/sub] a[sub]6[/sub]y[sub]5[/sub] a[sub]7[/sub]x[sub]6[/sub][/del]
+
+[u]Number of Red Lines[/u]!
+n is number of ys
+y adds (m-2) + (n-2) = m+n-4
+Subtracts [del]m+n-1[/del]
+Subtracts 3

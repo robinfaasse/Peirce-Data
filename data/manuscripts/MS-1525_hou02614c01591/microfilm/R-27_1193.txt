@@ -1,0 +1,144 @@
+[u]Analysis of Tit-tat-too[/u].
+
+X is the first player, O the second. The squares are numbered as in the figure
+[fig]3x3 grid numbered 1 to 9[/fig]
+
+To show the plays we draw a line with the number of the square occupied by X above it, and that [ins]immediately after[/ins] occupied by O below it. A colon signifies that a move is forced, that is, was necessary to [del]produce[/del] prevent immediate tit-tat-too. It is supposed that such moves are always made. Consequently, tit-tat-too can only be made when a player can occupy a square [del]below[/del] on two lines on each of which he occupies already a square while the third on each is vacant. [del]When it is evidently impossible for either party to do this, the analysis is arrested.[/del] [ins](not always so for when there are not 3 vacant squares)[/ins] When this is done, the analysis is [del]also likewise[/del] arrested. !!! means "makes tit-tat-too. A dash, —, means that tit-tat-too can be made by neither player. In stating the choices, we put = between two squares whose relation to those occupied is essentially the same.
+
+[fig]3x3 grid with center square shaded[/fig] X, at the outset, has choice between 2=4=6=8, 5, 1=3=7=9.
+[fig]3x3 grid with center and top-middle squares shaded[/fig] O has choice between 8, 5, 1=3, 4=6, 7=9.
+[fig]3x3 grid with center, top-middle, and bottom-middle squares shaded[/fig] X has choice between 1=3, 5, 7=9, 4=6.
+[fig]3x3 grid with center, top-middle, bottom-middle, and center-left squares shaded[/fig] X has choice between 4, 5, 6, 7, 9.
+
+[fraction]
+[num]2[/num]
+[den]8[/den]
+[/fraction]
+
+[fraction]
+[num]2[/num]
+[den]8[/den]
+[/fraction] [fraction]
+[num]1[/num]
+[den]3![/den]
+[/fraction]
+
+[fraction]
+[num]2[/num]
+[den]8[/den]
+[/fraction] [fraction]
+[num]1[/num]
+[den]3![/den]
+[/fraction] [fraction]
+[num]4[/num]
+[den]7:[/den]
+[/fraction] O!!!
+
+[fraction]
+[num]2[/num]
+[den]8[/den]
+[/fraction] [fraction]
+[num]1[/num]
+[den]3![/den]
+[/fraction] [fraction]
+[num]5[/num]
+[den]9:[/den]
+[/fraction] O!!!
+
+[fraction]
+[num]2[/num]
+[den]8[/den]
+[/fraction] [fraction]
+[num]1[/num]
+[den]3![/den]
+[/fraction] [fraction]
+[num]6[/num]
+[den]4:[/den]
+[/fraction] [fig]3x3 grid with several squares shaded[/fig] O has choice between 7 (best), 4, 5, 9.
+
+[fraction]
+[num]2[/num]
+[den]8[/den]
+[/fraction] [fraction]
+[num]1[/num]
+[den]3![/den]
+[/fraction] [fraction]
+[num]6[/num]
+[den]4:[/den]
+[/fraction] [fraction]
+[num]7[/num]
+[den]9:[/den]
+[/fraction] O!!!
+
+[fraction]
+[num]2[/num]
+[den]8[/den]
+[/fraction] [fraction]
+[num]1[/num]
+[den]3![/den]
+[/fraction] [fraction]
+[num]6[/num]
+[den]4:[/den]
+[/fraction] [fraction]
+[num]4[/num]
+[den]5:[/den]
+[/fraction] [fraction]
+[num]7[/num]
+[den]9:[/den]
+[/fraction] —
+
+[fraction]
+[num]2[/num]
+[den]8[/den]
+[/fraction] [fraction]
+[num]1[/num]
+[den]3![/den]
+[/fraction] [fraction]
+[num]6[/num]
+[den]4:[/den]
+[/fraction] [fraction]
+[num]5[/num]
+[den]9:[/den]
+[/fraction] [fraction]
+[num]7[/num]
+[den]4:[/den]
+[/fraction] —
+
+[fraction]
+[num]2[/num]
+[den]8[/den]
+[/fraction] [fraction]
+[num]1[/num]
+[den]3![/den]
+[/fraction] [fraction]
+[num]6[/num]
+[den]4:[/den]
+[/fraction] [fraction]
+[num]9[/num]
+[den]7:[/den]
+[/fraction] [fraction]
+[num]7[/num]
+[den]4:[/den]
+[/fraction] —
+
+[fraction]
+[num]2[/num]
+[den]8[/den]
+[/fraction] [fraction]
+[num]1[/num]
+[den]3![/den]
+[/fraction] [fraction]
+[num]7[/num]
+[den]9:[/den]
+[/fraction]
+
+[fraction]
+[num]2[/num]
+[den]8[/den]
+[/fraction] [fraction]
+[num]1[/num]
+[den]3![/den]
+[/fraction] [fraction]
+[num]9[/num]
+[den]7:[/den]
+[/fraction]

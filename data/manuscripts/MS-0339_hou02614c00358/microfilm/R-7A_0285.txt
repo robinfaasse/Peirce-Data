@@ -1,0 +1,30 @@
+This leads to another that
+
+$$(\mu + \theta) + \frac{p_{x}}{(\xi + \Upsilon)_{ab}} = \frac{1}{\Sigma_{i}} \Sigma_{i} \frac{\xi_{i}}{\xi_{ab}} \Upsilon_{ib}$$
+
+$$(\xi + \Upsilon)_{ab} = \Pi_{j} \frac{\xi_{ab} + \Upsilon_{jb}}{\Upsilon_{jb}}$$
+
+$$\mu + \theta + \frac{p_{x}}{\Pi_{j} \frac{\xi_{ab} + \Upsilon_{jb}}{\Upsilon_{jb}}} = \frac{1}{\Sigma_{i}} \Sigma_{i} [(\mu + \theta) + \Upsilon_{ib}]$$
+
+[del]$\Pi_{j} \frac{\xi_{ab} + \Upsilon_{jb}}{\Upsilon_{jb}}$[/del]
+
+[del]$\omega = q + \bar{q}$[/del] [del]$\Pi_{j} \frac{\xi_{ab} + \Upsilon_{jb}}{\Upsilon_{jb}}$[/del]
+
+[del]$\Sigma_{i} \Upsilon_{ib}$[/del]
+
+the other
+
+(This is the fundamental formula)
+[del]$\Sigma_{i} \Upsilon_{ib}$[/del] is the sum of the $\Upsilon_{ib}$ for all $i$.
+
+$$(\mu + \theta + p_{x} \Pi_{j} \frac{\Upsilon_{jb}}{\xi_{ab} + \Upsilon_{jb}}) (\Sigma_{i} \Upsilon_{ib} + \Pi_{j} \frac{\xi_{ab} + \Upsilon_{jb}}{\Upsilon_{jb}})$$
+
+$$= \Sigma_{i} \Upsilon_{ib} (\mu + \theta + p_{x} \Pi_{j} \frac{\Upsilon_{jb}}{\xi_{ab} + \Upsilon_{jb}}) + \Pi_{j} \frac{\xi_{ab} + \Upsilon_{jb}}{\Upsilon_{jb}} (\mu + \theta + p_{x} \Pi_{j} \frac{\Upsilon_{jb}}{\xi_{ab} + \Upsilon_{jb}})$$
+
+I think this is right.
+
+$$= \Sigma_{i} \Upsilon_{ib} (\mu + \theta) + p_{x}$$
+
+$$+ \Pi_{j} \frac{\xi_{ab} + \Upsilon_{jb}}{\Upsilon_{jb}} (\mu + \theta) + p_{x}$$
+
+which is the same.

@@ -1,0 +1,32 @@
+[fig]Logic diagram with letters a, l, m, v, w[/fig]
+
+[fig]Logic diagram with letters A, l, w, v[/fig]
+
+[fig]Logic diagram with letters a, w, v[/fig]
+
+Either some man is wise
+or no man is virtuous
+
+[fig]Logic diagram with nested circles and letters a, w, v[/fig]
+
+[ins]A asserts that[/ins] some men is wise
+i.e Either, no man is wise or
+Some wise man asserts [ins]that[/ins] some [del]virtuous[/del] [ins]every[/ins] [del]man[/del] [ins]virtuous man[/ins] [del]asserts that[/del]
+
+Some wise man asserts every man is ugly
+
+[fig]Logic diagram with nested circles and letters w, t, u[/fig]
+
+Some wise man asserts some man is ugly
+
+[fig]Logic diagram with nested circles and letters w, t, u[/fig]
+
+[pn]A(B+C)[/pn]
+
+[del]Σ₁ Π₂[/del]
+
+Σ₁ Π₂ v₁ · ([u]w[/u]₂ + l₂e)
+
+Σ₁ [del]Π₂[/del] [ins]Π₃[/ins] [del]v₁ · ([u]w[/u]₂ + l₂e)[/del] [ins]([u]w[/u]₃ + l₃e)[/ins]
+
+Σ₁ Π₂ Π₃ Σ₄ Σ₅ v₁ · [del]Π₂[/del] [ins]([u]w[/u]₃ + [del]l₃e[/del] [ins]l₃₅ l₂₄ e₅₄[/ins])[/ins]

@@ -1,0 +1,43 @@
+For any substitution [ins]$\begin{array}{c} A \\ B \\ m \therefore C \end{array}$[/ins] one may put $\therefore mB \prec C$ [ins]$\begin{array}{c} A \\ B \\ m \therefore C \end{array}$[/ins] [del]$\begin{array}{c} mB \prec C \\ B \\ m \therefore C \end{array}$[/del]
+
+All the laws of $\therefore$ must hold for $\prec$
+We have therefore $A \prec A$ and if $A \prec B$ $B \prec C$ then $A \prec C$. Also $\frac{B}{A} \cdot A = B$ [del]$\prec C$[/del]
+
+Suppose we have given $n(mA) \prec C$
+
+Let $m \prec B$ [del]($B$ may be so taken for we may have $B = mA$)[/del]
+and [del]then[/del] $nB \prec C$
+[del]$m \therefore \frac{A}{B}$[/del] [del]$n \therefore \frac{B}{C}$[/del] Let [del]$A$ be $mA$. That[/del] [del]$C \prec C$[/del]
+Then [del]$(n(m(A))) \prec C$[/del] [del]$(nm)A \prec C$[/del]
+
+[del]$\begin{array}{c} A \\ B \\ m \therefore B \end{array}$[/del] [del]$\begin{array}{c} B \\ C \\ n \therefore C \end{array}$[/del] [del]$\begin{array}{c} A \\ B \\ m \therefore B \end{array}$[/del] [del]$\begin{array}{c} B \\ C \\ n \therefore C \end{array}$[/del] [del]$\begin{array}{c} A \\ C \\ (nm) \therefore C \end{array}$[/del]
+
+$\begin{array}{ccc} A & B & A \\ m \therefore B & n \therefore C & (nm) \therefore C \end{array}$
+
+[del]Taken[/del] $mnopq$. Here is a series in order which may be joined by pairs [del]$mn$ $np$ $pq$[/del] or [del]$mnop$[/del] Nothing is required than that all the substitutions indicated shall be performed and that they shall be performed in order.
+
+If $A \prec B$ $mA \prec mB$
+Proof $\begin{array}{ccc} A & A & A \\ \therefore B & [del]mA \prec mB[/del] & m \therefore mB \\ m \therefore mB & & \end{array}$ $mA \prec mB$
+
+[del]If $A \prec B$[/del]
+If $m \prec n$ $mA \prec nA$
+
+[del]$\begin{array}{ccc} & m & \\ & \therefore n & \\ \therefore & mA \prec nA & \end{array}$[/del] [del]$\begin{array}{c} mA \\ \therefore nA \end{array}$[/del] [del]$\begin{array}{c} mA \\ \therefore nA \end{array}$[/del]
+[del]$\begin{array}{c} (nm)A \prec n(mA) \\ (nm)A \prec n(mA) \end{array}$[/del]
+[del]$m \prec n$[/del]
+[del]$nm \prec na$[/del]
+[del]$mA \prec mA$[/del]
+
+$\begin{array}{ccc} m & A & A \\ \therefore n & \therefore mA & \therefore nA \end{array}$
+
+$\begin{array}{cc} & mA \\ \therefore & nA \end{array}$
+
+$\begin{array}{cc} & A \\ m & \therefore nA \end{array}$
+
+$\begin{aligned} & m \\ \therefore & n \end{aligned}$
+
+$\begin{aligned} & 1 \\ \therefore & n \end{aligned}$
+
+[marginalia]
+[fig]Scratch work with variables x, y, z, p, q and relations[/fig]
+[/marginalia]

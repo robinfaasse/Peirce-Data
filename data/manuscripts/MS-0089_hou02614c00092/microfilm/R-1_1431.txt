@@ -1,0 +1,164 @@
+$$
+\begin{aligned}
+1 + i + j + k &= p \\
+1 + i - j - k &= q \\
+1 - i + j - k &= r \\
+1 - i - j + k &= s
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+p^2 &= -2 + 2i + 2j + 2k \\
+q + r + s &= 3 - i - j - k \\
+p^2 &= p - q - r - s
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+pq &= (1 + i + j + k)(1 + i - j - k) \\
+&= \begin{array}{r}
+1 + i - j - k \\
+i - 1 - k + j \\
+j + k - 1 - i \\
+k - j + i - 1
+\end{array} \\
+&= -2 + 2i + 2j - 2k \\
+&= p + q + r - s
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+qp &= +2 + 2i - j - k \\
+&\phantom{= +2 + 2i} + j - k \\
+&\phantom{= +2 + 2i} + j - k \\
+&\phantom{= +2 + 2i} + j + k \\
+&= 2 + 2i + 2j + 2k \\
+&= p + q + r + s
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+\begin{array}{l}
+p + q + r + s = 4 \\
+\underline{p + q} = 2 + 2i \\
+p + q = 1 + i \\
+r + s = 1 - i \\
+r - s = j - k
+\end{array}
+\end{aligned}
+\quad
+\begin{aligned}
+p + q - r - s = \\
+= p + q + r + s
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+p^2 &= p - q - r - s \\
+pq &= p + q + r - s \\
+pr &= 
+\end{aligned}
+$$
+
+$$
+\begin{array}{c}
+\frac{2 + 2i}{2 - 2i} \\
+\hline
+4
+\end{array}
+$$
+
+$$
+\begin{aligned}
+(p + q)(r + s) &= 2 \\
+(r + s)(p + q) &= 2 \\
+\frac{1}{2}(p + q + r + s)
+\end{aligned}
+\quad
+(p + q)(r - s) = 2(p - q + r - s)
+$$
+
+$$
+\begin{array}{r}
+1 + i + j + k \\
+1 + i + j + k \\
+-1 + i - j + k \\
+-1 + i + j - k \\
+-1 - i + j + k \\
+\hline
+-2 + 2i + 2j + 2k
+\end{array}
+$$
+
+$$
+\begin{aligned}
+(1 + i) + (j + k) \\
+(1 + i)^2 + (j + k)^2 &- (1 + i)(j + k) \\
+&+ (j + k)(1 + i)
+\end{aligned}
+$$
+
+[fig]Geometric diagram with intersecting lines[/fig]
+
+$$
+\begin{aligned}
+&[(1 + i) + (j + k)][(1 + i) - (j + k)] \\
+&(1 + i)^2 - (j + k)^2 \\
+&\phantom{(1 + i)^2} - (1 + i)(j + k) \\
+&\phantom{(1 + i)^2} + (j + k)(1 + i)
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+p(p + q) = 2p - 2s \quad (1 + i)(j + k) &= \begin{array}{r}
+[del]+ 2k[/del] \\
+j - k \\
+j + k
+\end{array} \\
+(j + k)(1 + i) &= \begin{array}{r}
+\phantom{j - k} \\
+\phantom{j + k}
+\end{array} \\
+&= 2j
+\end{aligned}
+$$
+
+$$
+\begin{array}{c}
+1 + i \\
+1 - i \\
+\hline
+2
+\end{array}
+\quad
+1 +
+$$
+
+[fig]Geometric diagram with triangles[/fig]
+
+$$
+\begin{aligned}
+(1 + i)^2 &= 2i \\
+(j + k)^2 &= -2
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+(1 + i)(j - k) \\
+\begin{array}{r}
+j - k \\
+-j + k \\
+\hline
+2j
+\end{array}
+\end{aligned}
+\quad
+p - q + r - s
+$$

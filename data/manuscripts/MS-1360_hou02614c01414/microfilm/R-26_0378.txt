@@ -1,0 +1,15 @@
+or
+$$\frac{\tau_{n+2} - \tau_{n-1}}{\tau_{n+1} - \tau_{n}} = \frac{\tau_{n+1} - \tau_{n-2}}{\tau_{n} - \tau_{n-1}}$$
+
+That is
+$$\frac{\tau_{n+3} - \tau_{n}}{\tau_{n+2} - \tau_{n+1}} = 2 \sec A + 1$$
+
+where $A$ is a constant. The solution of this is.
+$$\tau_{n} = C_{1} + C_{2} \tan An + C_{3} \sec An$$
+
+For in that case
+$$\tau_{n+3} - \tau_{n} = C_{2} [\tan (An+3A) - \tan An] + C_{3} [\sec (An+3A) - \sec An]$$
+$$= C_{2} \frac{\sin 3A}{\cos An \cdot \cos (An+3A)} + C_{3} \frac{\cos 3A}{\cos An \cdot \cos (An+3A)} - C_{3}$$
+
+$$\tau_{n+2} - \tau_{n+1} = C_{2} [\tan (An+2A) - \tan (An+A)] + C_{3} [\sec (An+2A) - \sec (An+A)]$$
+$$= C_{2} \frac{\sin A}{\cos (An+A) \cdot \cos (An+2A)} + C_{3} \frac{\cos A}{\cos (An+A) \cdot \cos (An+2A)} - C_{3}$$

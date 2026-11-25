@@ -1,0 +1,25 @@
+[marginalia]Morison's Bridge [date]1898 Sept[/date][/marginalia] [pn]4[/pn]
+
+[ins]INT[/ins]
+Eq. (29)
+[del]Change of coordinates[/del] [ins]Change sign of denom[/ins] [del]Rest sign ok[/del]
+
+$\heartsuit_5 + \frac{(\varepsilon_0 \lambda_0 + \beta_0 \kappa_0) \heartsuit_7 + (-\varepsilon_0 \kappa_0 - \alpha_0 \lambda_0 - [\rho_0]) \heartsuit_6}{-2 \varepsilon_0 \kappa_0 - \alpha_0 \lambda_0 - \beta_0 \mu_0 - \frac{1}{\Lambda_0 \Gamma_0} - [\rho_0]} + \frac{(+\varepsilon_2 \lambda_i - \beta_2 \kappa_i) \heartsuit_3 + \left( \begin{matrix} +\varepsilon_2 \kappa_i + \alpha_2 \lambda_i \\ + [\rho_i] \end{matrix} \right) \heartsuit_2}{-2 \varepsilon_2 \kappa_i + \alpha_2 \lambda_i + \beta_2 \mu_i + [\rho_i]}$
+
+$+ \left\{ \frac{-\frac{\kappa_0}{\Lambda_0 \Gamma_0} + \varepsilon_0 [\rho_0]}{\cdot} + \frac{-\frac{\kappa_i}{\Lambda_2 \Gamma_2} - \varepsilon_2 [\rho_i]}{\cdot} \right\} \delta x_1$
+
+$+ \left\{ \frac{-\frac{\lambda_0}{\Lambda_0 \Gamma_0} - \beta_0 [\rho_0]}{\cdot} + \frac{\frac{\lambda_i}{\Lambda_2 \Gamma_2} + \beta_2 [\rho_i]}{\cdot} \right\} \delta y_1 = 0$
+[ins]wrong[/ins] [ins]wrong[/ins]
+
+Interchanging $0$ and $2$ in (29)
+
+$\heartsuit_5 + \frac{(-\varepsilon_2 \lambda_i + \beta_2 \kappa_i) \heartsuit_3 + (\varepsilon_2 \kappa_i - \alpha_2 \lambda_i - [\rho_i]) \heartsuit_2}{2 \varepsilon_2 \kappa_i - \alpha_2 \lambda_i - \beta_2 \mu_i - \frac{1}{\Lambda_2 \Gamma_2} - [\rho_i]} + \frac{(\varepsilon_0 \lambda_0 + \beta_0 \kappa_0) \heartsuit_7 + (+\varepsilon_0 \kappa_0 + \alpha_0 \lambda_0 + [\rho_0]) \heartsuit_6}{2 \varepsilon_0 \kappa_0 + \alpha_0 \lambda_0 + \beta_0 \mu_0 + [\rho_0]}$
+
+$+ \left\{ \frac{\frac{\kappa_i}{\Lambda_2 \Gamma_2} + \varepsilon_2 [\rho_i]}{\cdot} + \frac{\frac{\kappa_0}{\Lambda_0 \Gamma_0} - \varepsilon_0 [\rho_0]}{\cdot} \right\} \delta x_1$
+
+$+ \left\{ \frac{-\frac{\lambda_i}{\Lambda_2 \Gamma_2} - \beta_2 [\rho_i]}{\cdot} + \frac{\frac{\lambda_0}{\Lambda_0 \Gamma_0} + \beta_0 [\rho_0]}{\cdot} \right\} \delta y_1 = 0$
+
+One sign in (29) is wrong.
+
+[del]#8000[/del]
+[fig]Caricature of a man's head in profile[/fig]

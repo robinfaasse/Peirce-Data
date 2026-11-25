@@ -1,0 +1,18 @@
+35 Fairfax Hall
+[date]December 12, 1903[/date].
+
+My dear Mr. Peirce, —
+
+Here is a simpler proof for the independence of postulate 9 in my second paper:
+
+Consider a set of five elements: $0, \alpha, \beta, \gamma, 1$, with $\prec$ defined as follows: $0 \prec x$, $x \prec x$, $x \prec 1$ whenever $x$ belongs to the set; but [del]with in[/del] all other cases $x \prec y$ shall be false.
+
+This system satisfies postulates 1, 2, 3, 4, 5, obviously. Postulates 6 and 7 are also satisfied, taking $s = 1$ and $p = 0$; that is, $a + b = 1$ and $ab = 0$, [del]whenever[/del] whenever $a \neq b$. Postulate 8 also holds, thus: $\bar{0} = 1$; $\bar{1} = 0$; $\bar{\alpha} = \beta \text{ or } \gamma$; $\bar{\beta} = \alpha \text{ or } \gamma$; $\bar{\gamma} = \alpha \text{ or } \beta$. But postulate 9 does not hold, for we have
+$\beta\gamma = 0$; $\alpha(\beta + \gamma) = \alpha \cdot 1 = \alpha$; $\alpha\beta + \alpha\gamma = 0 + 0 = 0$; but not $\alpha \prec 0$.
+Therefore proposition 9 cannot be deduced from propositions 1-8.
+
+If we add to our "Beweiskapitel" another postulate, say $8'$, to the effect that the $\bar{a}$ in 8 shall be uniquely determined by the $a$, then it may well be that 9 is deducible from [del]the present[/del] the set of postulates thus enlarged; at least the proof of independence just given would no longer be valid. I shall be perfectly delighted if your notes can supply the demonstration; for the resulting set of postulates must be more elegant than the set I have used. —
+
+With many thanks for your kindness,
+Very sincerely yours,
+Edward V. Huntington.

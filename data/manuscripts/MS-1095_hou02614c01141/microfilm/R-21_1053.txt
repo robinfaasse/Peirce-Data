@@ -1,0 +1,20 @@
+Diff equation
+$$r D_t^2 \theta = \mu' \left( \frac{1}{r} D_{\theta} (r D_t \theta) + \frac{1}{r^2} D_{\theta}^2 (r D_t \theta) + D_r^2 (r D_t \theta) \right)$$
+
+$$\frac{1}{r} D_{\theta} (r D_t \theta) = + \frac{1}{r} [del]D_r[/del] [ins]X_1[/ins] \sin nt \cdot [del]\sin[/del] [ins]\cos[/ins] \theta + \frac{1}{r} [del]D_r[/del] [ins]X_2[/ins] \cos nt \cdot [del]\sin[/del] [ins]\cos[/ins] \theta$$
+$$+ \frac{1}{r} [del]D_r[/del] [ins]X_3[/ins] \sin nt \cdot [del]\cos[/del] [ins]\sin[/ins] \theta + \frac{1}{r} [del]D_r[/del] [ins]X_4[/ins] \cos nt \cdot [del]\cos[/del] [ins]\sin[/ins] \theta$$
+
+$$\frac{1}{r^2} D_{\theta}^2 (r D_t \theta) = - \frac{1}{r^2} X_1 \sin nt \cos \theta - \frac{1}{r^2} X_2 \cos nt \cos \theta$$
+$$- \frac{1}{r^2} X_3 \sin nt \sin \theta - \frac{1}{r^2} X_4 \cos nt \sin \theta$$
+
+$$D_r^2 (r D_t \theta) = D_r^2 X_1 \sin nt \cos \theta + D_r^2 X_2 \cos nt \cos \theta$$
+$$+ D_r^2 X_3 \sin nt \sin \theta + D_r^2 X_4 \cos nt \sin \theta$$
+
+[del]✓[/del] $n X_1 = \mu' \left( \frac{1}{r} [del]D_r X_4[/del] [ins]X_4[/ins] - \frac{1}{r^2} X_2 + D_r^2 X_2 \right)$
+[del]✓[/del] $- n X_4 = \mu' \left( - \frac{1}{r} X_1 - \frac{1}{r^2} X_3 + D_r^2 X_3 \right)$
+$- n X_2 = \mu' \left( \frac{1}{r} [del]D_r X_3[/del] [ins]X_3[/ins] - \frac{1}{r^2} X_1 + D_r^2 X_1 \right)$
+[del]✓[/del] $n X_3 = \mu' \left( - \frac{1}{r} X_2 - \frac{1}{r^2} X_4 + D_r^2 X_4 \right)$
+[u]$X_4 = \frac{\mu'}{nr} X_1 + \frac{\mu'}{nr^2} X_3 - \frac{\mu'}{n} D_r^2 X_3$[/u]
+$n X_1 = \mu' \left( \frac{\mu'}{nr^2} X_1 - \frac{1}{r^2} X_2 + \frac{\mu'}{nr^3} X_3 + D_r^2 X_2 - \frac{\mu'}{nr} D_r^2 X_3 \right)$
+$X_3 = - \frac{\mu'^2}{n^2 r^3} X_1 - \frac{\mu'}{nr} X_2 - \frac{\mu'^2}{n^2 r^4} X_3 + 2 \frac{\mu'^2}{n^2 r^2} D_r^2 X_3 + \mu'$
+$+ \frac{\mu'^2}{nr} D_r^2 X_1 - \frac{\mu'^2}{n^2} D_r^4 X_3$

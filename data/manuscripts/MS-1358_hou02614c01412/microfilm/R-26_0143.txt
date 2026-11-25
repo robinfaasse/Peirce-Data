@@ -1,0 +1,35 @@
+Morrison's Bridge [date]1899 Feb 9[/date] Sh. Apollonia [pn]1[/pn]
+
+When [del]x[/del] [ins]u[/ins] = - Q the equation becomes
+
+[del](([u]B[/u]/ds)[(\theta_{-Q+ds}-\Theta_{-Q+ds}) - (\theta_{-Q}-\Theta_{-Q})][/del]
+
+- [[del]x[/del] [ins]*[/ins]([u]\theta_{-Q+2ds}[/u] - \Theta_{-Q+2ds}) - (\theta_{-Q+ds} - \Theta_{-Q+ds})] - Y_{-Q} ds ) + 1/2 U (ds)^2 = 0
+
+[fig]Small horizontal line with a curve[/fig]
+
+[fig]Small horizontal line with a curve[/fig]
+
+When u = -Q + ds
+
+- 1 + 3 - 1 - 1 + 1/2
++ 1 - 1 + 1
+__________________
+- 1 + 4 - 2
+__________________
+- 1 + 3 - 3 - 1
++ 1 + 1 + 1
+
+B/ds { * (\theta_{-Q+3ds} + 3\theta_{-Q+2ds} - 3\theta_{-Q+ds} + \theta_{-Q} + \Theta etc) + 1/2 U (ds)^2 = 0
+
+- 1 + 3 - 2 + 1/2
+__________________
+- 1 + 2 [del]0[/del] - 1
+1 + 4 - 6 + [del]4[/del] [ins]5[/ins] - 1
+- 1 + 1
+
+\theta_{-Q+ds} = \Theta_{-Q+ds} - \Theta_{-Q} + \theta_{-Q} - [u]Y_{-Q}[/u]/B (ds)^2
+
+d \Theta_{-Q+ds}/ds = Y_{-Q}/B (ds)
+
+[fig]Two lines meeting at an angle[/fig]

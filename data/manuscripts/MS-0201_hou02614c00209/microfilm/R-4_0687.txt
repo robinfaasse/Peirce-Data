@@ -1,0 +1,7 @@
+[pn]Noll[/pn]
+
+Division will ordinarily be performed as shown in the following example:
+
+[fig]Binary division calculation[/fig]
+
+But for some purposes the entire circulating fraction is wanted. In that case, the rule is as follows: [del]Divide dividend and divisor respectively by[/del] First, [del]take[/del] the dividend as 1, [ins]afterward[/ins] multiplying the result by the true dividend. Also divide the divisor repeatedly by 2, until the quotient is odd, subsequently shifting the units' place of the quotient as many places to the left as the number of [ins]these[/ins] divisions by 2. Then strike of the last figure of the divisor, and add it to what is left regarded as the whole expression of a number, and call the result "the current multiplier." Then beginning with 1 [del]draw a vertical line[/del] [ins]make a mark[/ins] to the

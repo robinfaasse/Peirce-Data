@@ -1,0 +1,62 @@
+$$\begin{array}{rcc}
+\frac{41}{79} & = & .51899 \\
+\frac{40}{77} & = & .51923 \\
+\frac{27}{52} & = & .51948 \\
+\frac{13}{25} = \frac{26}{50} = \frac{39}{75} & = & .52000 \\
+\frac{38}{73} & = & .52055 \\
+\frac{25}{48} & = & .52083 \\
+\frac{37}{71} & = & .52113 \\
+\frac{12}{23} = \frac{24}{46} = \frac{36}{69} & = & .52174 \\
+\frac{35}{67} & = & .52239 \\
+\frac{23}{44} & = & .52273 \\
+\frac{34}{65} & = & .52308 \\
+\frac{11}{21} = \frac{22}{42} = \frac{33}{63} & = & .52381 \\
+\frac{32}{61} & = & .52459 \\
+\frac{21}{40} & = & .52500 \\
+\frac{31}{59} & = & .52542 \\
+\frac{10}{19} = \frac{20}{38} = \frac{30}{57} = \frac{40}{76} & = & .52632 \\
+\frac{39}{74} & = & .52703 \\
+\frac{29}{55} & = & .52724 \\
+\frac{19}{36} = \frac{38}{72} & = & .52778 \\
+\frac{20}{38} & = & .52830 \\
+\frac{29}{55} & = & .52857 \\
+\frac{9}{17} = \frac{18}{34} = \frac{27}{51} = \frac{36}{68} & = & .52941 \\
+\frac{35}{66} & = & .53030 \\
+\frac{26}{49} & = & .53061 \\
+\frac{17}{32} = \frac{34}{64} & = & .53125 \\
+\frac{42}{79} & = & .53165
+\end{array}
+\begin{array}{r}
+24 \\
+25 \\
+52 \\
+55 \\
+28 \\
+30 \\
+61 \\
+65 \\
+34 \\
+35 \\
+73 \\
+78 \\
+41 \\
+42 \\
+22 \\
+68 \\
+71 \\
+21 \\
+54 \\
+52 \\
+27 \\
+84 \\
+89 \\
+31 \\
+64 \\
+40
+\end{array}$$
+
+The first half of this interval is occupied by two series of fractions, those of large odd denominators and [del]those of smaller[/del] even denominators. The difference of the denominators is at first 25; but it sinks to 21, passing nodes of difference 25, 23, and 21. The effect is to give two small differences followed by two [ins]double[/ins] [del]large[/del] differences.
+
+The last half the interval is occupied by two sets of fractions, those of large even denominators and those of smaller odd denominators. The difference of the denominators, which is at first 19 sinks to 17. The effect is to give two large differences followed by a small one. But the pairs of large differences are alternately larger and smaller, the latter being in the mean only 2/3 of the former.
+
+In calculating the differences by the formula we must here [del]see[/del] [ins]get[/ins] a value of $\xi$ for each pair. Thus for the difference between $\frac{27}{52}$ and $\frac{40}{79}$, we have $H = 3$ $K = 25$. Hence $\xi = - \frac{1}{25 \times 52}$ and $\Delta y = \frac{1}{77 \times 52}$. But this mode of calculation has little or no sense when only two fractions are concerned.

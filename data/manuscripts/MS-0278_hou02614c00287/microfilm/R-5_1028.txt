@@ -1,0 +1,32 @@
+$$iA = (aa)_i A + (ba)_i B + \text{etc}$$
+$$i^2A = (aa)_i^2 A + (ab)_i(ba)_i A + \text{etc}$$
+$$+ (ba)_i(aa)_i B + (bb)_i(ba)_i B + \text{etc}$$
+$$i^3A = (aa)_i^3$$
+
+$$\begin{array}{llll}
+iA = B & iB = i^2A = jA - C & iC = 0 & \\
+kA = D & kA = lA - E & ik = i^2kA - jkA & \\
+j = i^2 & l = ik & m = k^2 - i & i^3 = 0 \\
+\end{array}$$
+$$\underline{ki = i^2 + rik = i(i + rk)} \qquad k^3 = 0$$
+
+$$\begin{array}{lll}
+[del]ik = kik[/del] & i^2k & \\
+[del]i^2k = iik = ik[/del] & [del]ikk = k = 0[/del] & iki = ri^2k \qquad i^2ki = 0 \\
+[del]iki = iki = 0[/del] & & kik = i^2k + rik^2 \\
+[del]ikk = ik^2 = i^2[/del] & & kik^2 = i^2k^2 \\
+[del]kki = ki^2 = k = kik^2[/del] & & ikik^2 = 0 \\
+[del]kik = kik = ri^2[/del] & & ikik = ri^2k^2 \\
+\end{array}$$
+
+$$iki = ri^2k$$
+$$[del]ki^2 = riki = r^2i^2k[/del]$$
+$$[del]k^2i = ki^2 + rkik = r^2ki^2k + rkik[/del]$$
+$$\qquad\qquad\qquad\qquad = rikik + [del]ri^2k[/del] + r^2ik^2$$
+$$[del]kik = i^2k + rik^3[/del] = r^3i^2k^2 + r^2ik^2 + [del]ri^2k[/del]$$
+
+$$iki = ri^2k = 0$$
+$$i^2k^2 = 0$$
+$$kik = rik^2 = ri^2$$
+$$ik^2 = i^2 \qquad [del]ik[/del]$$
+$$k(k^2 - i) = 0$$

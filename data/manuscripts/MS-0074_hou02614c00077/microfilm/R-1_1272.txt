@@ -1,0 +1,24 @@
+[pn]1[/pn]
+
+Suppose a row of letters to be separated into
+two parts by a punctuation mark, and each part
+into two parts by slighter [ins](or subordinate)[/ins] punctuation marks, and
+so on, until the letters are all separated. Then,
+if [u]n[/u] is the number of punctuations (or [u]n[/u] + 1 the
+number of letters) the question is how many dis-
+tinct forms of separation there are.
+
+The solution has 3 possible degrees of per-
+fection. 1[ins]st[/ins], we may obtain a rule for calculating
+the number in any given case, equivalent to
+an equation of finite differences. 2[ins]nd[/ins], we
+may obtain a general formula, which we
+may be morally certain satisfies that equation.
+3[ins]rd[/ins], we may [ins]be able to[/ins] trace out the connection
+between the former and the latter, so as to demon-
+strate the formula.
+
+The first sort of solution is very easy. For, if [u]F[/u][ins]n[/ins]
+is the number of forms with [u]n[/u] punctuations, after
+the first punctuation has been put in, the row is
+separated into two, the sum of whose letters equal to

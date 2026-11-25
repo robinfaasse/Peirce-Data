@@ -1,0 +1,24 @@
+[fig]Geometric construction of a circle with intersecting lines and a vertical axis.[/fig]
+
+[fig]Three small geometric diagrams: a circle with axes and angles, a plain circle, and a triangle inscribed in a circle.[/fig]
+
+$a : b = b : x$
+$x = \frac{b^2}{a}$
+
+$x = \frac{\frac{b^2}{a} + \frac{a^2}{b}x}{1 + \frac{a}{b}x} = \frac{\frac{b^2}{a}(1 - \frac{a^2}{b^2})}{1 - \frac{a^2}{b^2}} = \frac{2b^2}{a - \frac{b^2}{a}}$
+
+$y = b + \frac{a}{b}x$
+
+$x = \frac{\frac{b^2}{a}}{1 - \frac{a^2}{b^2}} + \frac{\frac{a}{b}y}{1 - \frac{a^2}{b^2}}$
+
+[del]$y = \sqrt{a^2+b^2}$[/del]
+
+$y = b + \frac{a}{b} [del]\frac{\frac{b^2}{a}}{1-\frac{a^2}{b^2}}[/del]$
+
+$y = b + \frac{a}{b} \sqrt{a^2+b^2}$
+
+[del]$y = b \frac{a^2+b^2}{a^2-b^2}$[/del]
+
+$y = \frac{a^2+2ab}{a-b}$
+
+$y = b \frac{a^2+b^2}{a^2-b^2}$

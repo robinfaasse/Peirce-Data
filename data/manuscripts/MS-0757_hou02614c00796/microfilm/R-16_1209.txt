@@ -1,0 +1,33 @@
+[del]a + (b + c)[/del]
+
+a ≺ [ b ≺ (c ≺ d) ]     ā + b + c̅ + d
+
+[ (a ≺ b) ≺ c ] ≺ d     (ā + b) c̅ + d
+
+[ (a ≼ b) ≼ c ] ≼ d     a b̅ c̅ d̅
+
+[del](a ≺ x) ≺ [ (b ≺ x) ≺ (c ≺ x) ][/del]     [del]x[/del]
+
+[del](a ≺ 0) ≺ [ (b ≺ 0) ≺ { (c ≺ 0) ≺ 0 } ][/del]     [del]a x̅ + b x̅ + c̅ + x[/del]
+
+a b     (a ≼ b) ≼     [del](M ≼ a) ≺ (M ≼ b)[/del]
+[del]M ā + M̅ + b[/del]
+
+a ≼ b ≼     [del](M ≼ b) ≺[/del]
+
+x ≼ ā ≼ b̅     [del]ā + b[/del]     [del](M ≼ a) ≼ (M ≼ b)[/del]
+[del]M ā[/del]     a ≺ b
+M̅ + a + b
+
+[del]y[/del] z̅ (a ≺ b ≺ x) ≼ (c ≺ d ≺ y)
+z a b x̅ c d y̅     [ (a ≺ b) ≺ c ] ≺ d
+(ā + b) c̅ + d
+
+(a ≺ 0) ≺ (b ≺ 0) ≺ 0
+a ≼ b ≼ c ≼ 0
+a ≼ b ≼ c ≼ 0
+
+[ (a ≺ b [del]≺ d[/del]) ≺ (d ≺ [del]d[/del]) ≺ (f ≺ g ≺ [del]0[/del]) ] ≺ (i ≺ [del]0[/del]) ≺ [del]0[/del]
+
+(ā + b [del]+ d[/del]) (d̅ [del]+ d[/del]) f g [del]h[/del]     f̅ + g̅ + h + i̅ + k
++     i̅ + [del]0[/del]

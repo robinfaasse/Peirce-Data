@@ -1,0 +1,45 @@
+and $R$ its radius. Also let $2\omega'$ be the angle of
+the required sector and $R'$ its radius. We have
+first from the fundamental property of triangles
+$R : R' :: \sin(\omega+\omega') : \sin\omega$
+and the sector sought $\frac{2 \times 3.1416 \times R'^2 \omega'}{360^\circ}$
+In order that this be a maximum $R'^2 \omega'$ need
+only become so. But $R' = \frac{R \sin\omega}{\sin(\omega+\omega')}$
+Hence $R'^2 \omega' = \frac{R^2 \sin^2\omega \cdot \omega'}{\sin^2(\omega+\omega')}$ and it is only
+necessary that $d. \frac{\omega'}{\sin^2(\omega+\omega')} = 0$.
+or $\frac{1}{\sin^2(\omega+\omega')} - \frac{2\omega'\cos(\omega+\omega')}{\sin^3(\omega+\omega')} = 0$.
+Hence $2\omega' = \tan(\omega+\omega')$.
+Cor. If $\omega$ is very small we have $\omega = \omega'$.
+
+<u>Question 11.</u> In a given right-angled Triangle
+it is required to determine the greatest inscribed
+Parabola, whose abscissa is parallel to the perpen-
+dicular of the triangle.
+
+[fig]Right-angled triangle with inscribed parabola[/fig]
+
+Solution.
+
+Let $BD = CP = y''$; $CD = a$; $A'D = y'$;
+$AB = a$ $BAC = \omega$, $DP' = x'$.
+and $y^2 = 2px$ the equation of the parabola
+We have because the curve passes through $C$ and $C$ the
+equations. $y'^2 = 2pa\tan\omega$
+$y''^2 = 2px'$
+The triangle $AB'E$ gives $x' = AB' \tan\omega$
+But $AB' = a - y' - y''$.
+So that $x' = (a - y' - y'') \tan\omega$
+therefore $y''^2 = (a - y' - y'') 2p\tan\omega$
+Multiplying by $a$ $a y''^2 = (a - y' - y'') 2ap\tan\omega$
+$= (a - y' - y'') y'^2$
+hence $y''^2(y'+y'') = a(y'^2 - y''^2)$
+Dividing by $y'+y''$ $y''^2 = a(y' - y'')$
+$y'' = y' - \frac{y''^2}{a}$
+But the area of the parabola $= \frac{2}{3} DPBC + \frac{2}{3} D'P'C + \frac{2}{3} P'C'F - \text{etc}$
+$= \frac{2}{3} a y' \tan\omega + \frac{2}{3} y'' (a - y' - y'') \tan\omega + \frac{2}{3} y'' \tan\omega - \frac{2}{3} y''^2 \tan\omega$
+$= \frac{2}{3} \tan\omega (a - y'') (y' + y'') + \frac{2}{3} \tan\omega (y''^2 - y''^2)$
+So that we have to find when
+$(4a - y'' - 3y') (y' + y'') = (4a - 4y' + \frac{y''^2}{a}) (2y' + \frac{y''^2}{a})$ is
+a maximum.
+that is $4y'^3 - 6ay'^2 - 8a^2y' + 8a^3 = 0$
+this is the irreducible case of Cubic Equations.

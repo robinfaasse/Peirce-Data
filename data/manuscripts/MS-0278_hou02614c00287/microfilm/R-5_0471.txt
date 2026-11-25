@@ -1,0 +1,27 @@
+$$\frac{r}{s} (\sin \varphi + \cos 51^{\circ}) + \frac{s}{r} (\sin \varphi - \cos 51^{\circ}) = 2 \cos \theta \sin 51^{\circ}$$
+
+If $\sin \varphi > \cos 51^{\circ}$ i.e. $\varphi > 39^{\circ}$
+
+put $r = \log s \sqrt{\frac{\sin \varphi - \cos 51^{\circ}}{\sin \varphi + \cos 51^{\circ}}}$
+
+$r = 6^{y}$ $\theta = x$
+
+[marginalia]
+These are the [del]least[/del] formulas
+[/marginalia]
+
+$$6^{y-r} + 6^{-y+r} = 2 \cos \theta \frac{\sin 51^{\circ}}{\sqrt{\sin^{2} \varphi - \cos^{2} 51^{\circ}}}$$
+
+Let $\log \tan (45^{\circ} + \frac{\eta}{2}) = M \frac{\pi}{180^{\circ}} y - r$
+
+$$\sec \eta = \frac{\sin 51^{\circ}}{\sqrt{\sin^{2} \varphi - \cos^{2} 51^{\circ}}} \cos x$$
+
+But if $\sin \varphi < \cos 51^{\circ}$ i.e. $\varphi < 39^{\circ}$
+
+put $r = \log s \sqrt{\frac{\cos 51^{\circ} - \sin \varphi}{\cos 51^{\circ} + \sin \varphi}}$
+
+$$6^{y-r} - 6^{-y+r} = 2 \cos \theta \frac{\sin 51^{\circ}}{\sqrt{\cos^{2} 51^{\circ} - \sin^{2} \varphi}}$$
+
+$$\tan \eta = \frac{\sin 51^{\circ}}{\sqrt{\cos^{2} 51^{\circ} - \sin^{2} \varphi}} \cos x.$$
+
+$$\frac{1 + \sin \eta}{\cos \eta} + \frac{1 - \sin \eta}{\cos \eta}$$

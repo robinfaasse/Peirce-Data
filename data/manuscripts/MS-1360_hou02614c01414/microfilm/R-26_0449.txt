@@ -1,0 +1,20 @@
+Work done against the elasticity of the truss, if $k$ be its resistance
+to flexure, $x$ the horizontal abscissa, and $\eta$ the vertical displace-
+ment of any vertical section across it, is $k \int (\frac{d^2\eta}{dx^2})^2 dx$, and the vari-
+ation of the work due to any variation $\delta\eta$ of a particular $\eta$ is
+$\delta \cdot k \int (\frac{d^2\eta}{dx^2})^2 dx = 2k \frac{d^4\eta}{dx^4} \cdot \delta\eta$.
+
+For simplicity, I shall regard the suspenders as inexten-
+sible under the train. For the cable, let $k'$ be its resistance
+to elongation, [del]the[/del] [ins]its[/ins] ordinate of any point under the weight of the
+truss, $y = ax^2$, the ordinate were the weight of truss and cable
+infinitesimal, but evenly distributed, $y_0 = a_0x^2$, the effect of the
+weight without the train, $y' = (a - a_0)x^2$. Then, the stretching of
+any small part $dx$ of the cable under the [del]fixed[/del] [ins]whole[/ins] load is
+[del]($dx$[/del] $(\sqrt{1 + (\frac{dy_0 + dy' + d\eta}{dx})^2} - \sqrt{1 - (\frac{dy_0}{dx})^2}) dx = - \frac{dy' + d\eta}{\sqrt{1 + (\frac{dy_0}{dx})^2}}$; and
+the work is $k' \frac{(dy' + d\eta)^2}{1 + (\frac{dy_0}{dx})^2}$. The work for the whole length $= k' \int \frac{[(\frac{dy'}{dx}) + (\frac{d\eta}{dx})]^2}{1 + (\frac{dy_0}{dx})^2} dx$;
+and the variation of this is [del]2k' $\frac{\frac{dy'}{dx} + \frac{d\eta}{dx}}{1 + (\frac{dy_0}{dx})^2}$[/del] $-2k' \frac{\frac{d^2y'}{dx^2} + \frac{d^2\eta}{dx^2}}{1 + (\frac{dy_0}{dx})^2} \cdot \delta\eta = 2k' \frac{a - a_0 + \frac{d^2\eta}{dx^2}}{1 + 4a^2x^2} \delta\eta$.
+
+If $P$ is the entire load upon an element of the bridge, the variation
+of work against gravity is $P \delta\eta$. Thus, the equation is
+$2k \frac{d^4\eta}{dx^4} - 2k' \frac{a - a_0 + \frac{d^2\eta}{dx^2}}{1 + 4a^2x^2} + P = 0$.

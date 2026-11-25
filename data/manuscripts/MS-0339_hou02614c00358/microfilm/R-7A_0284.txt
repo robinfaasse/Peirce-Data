@@ -1,0 +1,27 @@
+[pn]93r[/pn]
+
+This leads us to notice that
+
+[del]$\text{d} \overline{x}$[/del] [del]$\overline{x} \overline{y}$[/del] [del]$\overline{x} \overline{y}$[/del] $= \overline{x \overline{y}} + (0 \dagger y)$
+
+[del]$(x \dagger y)_{ab} = \Pi_{i} (x_{ai} \dagger y_{ib})$[/del]
+
+$[x \overline{y} + (0 \dagger y)]_{ab} = \Sigma_{i} x_{ai} \overline{y}_{ib} + \Pi_{k} 0_{ak} \dagger y_{kb}$
+
+We have
+
+$\Sigma_{b} \overline{y}_{lb} \frac{\Pi_{i} (x_{ai} \dagger y_{ib})}{\Pi_{k} (x_{ak} \dagger y_{kb})}$ [del]$\overline{y}_{mb}$[/del]
+
+(This is the fundamental formula)
+
+Multiplying this into $(x \dagger y)_{ab}$ we get
+
+$(\Sigma_{l} \overline{y}_{lb} \dagger \Pi_{m} y_{mb}) (\Pi_{i} x_{ai} \dagger y_{ib})$
+
+$\Sigma_{l} \Pi_{i} (x_{ai} \dagger y_{ib}) \overline{y}_{lb} \dagger \Pi_{m} \Pi_{i} (x_{ai} \dagger y_{ib}) y_{mb}$
+
+Identifying $y$ with $l$, this gives
+
+$\Sigma_{l} x_{al} \overline{y}_{lb} \dagger \Pi_{m} y_{mb}$
+
+Since also $0 \dagger \overline{y} \cdot (x \dagger y) = x \dagger \overline{y}$

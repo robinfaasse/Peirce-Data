@@ -1,0 +1,29 @@
+[fig]Triangle diagram[/fig]
+
+$h = b \sec A$
+
+$r^2 = \frac{h^2}{4} + b^2 - bh \cos A$
+
+$h \cos A = b$
+
+$r^2 = \frac{h^2}{4}$
+
+[fig]Triangle diagram with labels a, b, h, A, B[/fig]
+
+$\cos h = \cot A \cot B$
+
+$\cos a$
+
+$\tan h = \frac{\tan b}{\cos A}$
+
+$\cot h = \cot b \cos A$
+
+[del]$\sec^2 h$[/del] [ins]$\sec^2 h$[/ins] $= \frac{\cos^2 A + \tan^2 b}{\cos^2 A}$
+
+$\cos r = \cos \frac{1}{2} h \cdot \cos b + \sin \frac{h}{2} \sin b \cos A$ [del]$\frac{\tan b (\cos^2 \frac{h}{2} - \sin^2 \frac{h}{2})}{\tan h \cdot 2 \sin \frac{h}{2} \cos \frac{h}{2}}$[/del]
+
+$\cos h = \frac{\cos A}{\sqrt{\cos^2 A + \tan^2 b}}$
+
+$\cos^2 r = \cos^2 \frac{h}{2} \cos^2 b + \sin^2 \frac{h}{2} \sin^2 b \cos^2 A + \sin h \cos b \sin b \cos A$
+
+$\cos r \cos \frac{h}{2} \cos b = \cos^2 \frac{h}{2} \cos^2 b + (1 - \cos^2 b) (2 \cos^2 \frac{h}{2} - 1)$

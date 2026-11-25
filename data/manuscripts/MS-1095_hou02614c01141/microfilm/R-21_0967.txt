@@ -1,0 +1,56 @@
+$$R = \frac{\varepsilon + \delta}{2}$$
+
+$$\left(\frac{\varepsilon + \delta}{2} - h\right)^2 = \frac{\varepsilon + \delta}{2} - h$$
+
+$$h = \frac{1}{4}(\varepsilon + \delta + \eta + \theta)$$
+$$i = \frac{1}{4}(+\varepsilon + \delta - \eta - \theta)$$
+$$[del]m[/del] [ins]k[/ins] = \frac{1}{4}(+\varepsilon - \delta + \eta - \theta)$$
+$$l = \frac{1}{4}(+\varepsilon - \delta - \eta + \theta)$$
+
+$$\frac{1}{4}(-\alpha - \beta + \gamma + \delta)$$
+$$A:C \quad \frac{1}{4}(-\alpha + \beta - \gamma + \delta)$$
+$$\frac{1}{4}(-\alpha + \beta + \gamma - \delta)$$
+
+$$\text{A'A}$$
+$$\text{B'A}$$
+
+$$\left(\frac{\alpha + \gamma}{2}\right)^2 = h$$
+$$\left(\frac{\alpha + \gamma}{2} - h\right)$$
+
+$$\text{A:C} + \text{C:B} + \text{B:A} - \text{D:D} = q$$
+
+$$\frac{1}{4}(-\alpha - \beta + \gamma + \delta)\frac{1}{4}(-\varepsilon - \delta + \eta + \theta) = 0$$
+
+$$(-\alpha + \beta - \gamma + \delta)$$
+$$\begin{array}{r}
++\alpha - \beta - \gamma + \delta \\
+-\alpha + \beta + \gamma - \delta \\
+\hline
+\end{array} = 0$$
+
+$$(-\alpha + \beta + \gamma - \delta)(+\varepsilon + \delta - \eta - \theta) = [del]+2\alpha - 2\beta - 2\gamma + 2\delta[/del] [ins]+2\alpha - 2\beta - 2\gamma + 2\delta[/ins]$$
+
+$$(\varepsilon - \delta + \eta - \theta)(-\alpha + \beta + \gamma - \delta)$$
+$$\text{B:A} = l$$
+
+$$(-\alpha + \beta + \gamma - \delta)(-\alpha + \beta + \gamma - \delta) = \begin{array}{r}
+\iota + \mu - \kappa - \lambda \\
++ \iota - \mu - \kappa + \lambda \\
++ \iota - \mu - \kappa + \lambda \\
+\hline
+\end{array}$$
+
+$$\text{C:B} \quad \text{B:A}$$
+$$(-\alpha - \beta + \gamma + \delta)(-\alpha + \beta + \gamma - \delta) = \begin{array}{r}
+\iota - \mu - \kappa - \lambda \\
++ \iota - \mu - \kappa + \lambda \\
++ \iota - \mu - \kappa + \lambda \\
+\hline
+\end{array}$$
+
+$$\frac{1}{4}(\iota - \kappa + \lambda - \mu) = \text{C:A}$$
+
+$$\begin{array}{l}
+\text{A:A} + \text{B:B} + \text{C:C} + \text{D:D} = \varepsilon \\
+\text{A:A} - \text{B:B} - \text{C:C} + \text{D:D} = \delta
+\end{array}$$

@@ -1,0 +1,12 @@
+[u]Explanation.[/u]
+
+To [del]show that[/del] [ins]what[/ins] the odds [del]that are[/del] that a man will make a net gain of a given number of francs at one franc bets before he loses his whole fortune.
+
+Let us write [u]P[sub]n[/sub][/u] for the probability that a man will make a net gain of one franc before he loses his fortune, supposing that he has already lost [u]n[/u] francs. Let the chance of his winning any single bet be [frac]30[/frac]/[sub]61[/sub]. Then, [u]P[sub]n[/sub][/u] is [sup]30[/sup]/[sub]61[/sub] of his chance of making the same net gain after [ins]supposing[/ins] he has lost one franc less, [u]plus[/u] [sup]31[/sup]/[sub]61[/sub] of his chance of making the same net gain supposing he has lost one franc more. That is,
+[u]P[sub]n[/sub][/u] = [frac]30[/frac]/[sub]61[/sub] [u]P([sub]n[/sub]-1)[/u] + [frac]31[/frac]/[sub]61[/sub] [u]P([sub]n[/sub]+1)[/u].
+
+Now this is not a single equation. For it gives an equation for every value of [u]n[/u] from 0 to the [del]total[/del] amount of the mans fortune, say [u]a[/u]. Besides, we know that for [u]n[/u] = -1, that is, when he has netted a gain of one franc, [u]P(-1)[/u] = 1; and that for [u]n[/u] = [u]a[/u], that is, when he has lost his whole fortune, [u]P[sub]a[/sub][/u] = 0. There are, thus, [u]a[/u]+2 [ins]linear[/ins] equations between [u]a[/u]+2 unknown quantities, which are just sufficient to determine their values. If, therefore, [del]an express[/del] [ins]values can be[/ins] found which satisfy all these equations, they must be the solution. For since the equations are all linear, there is but one possible solution. Now these values are all embraced in the single expression,
+[u]P[sub]n[/sub][/u] = 30[sup][u]n[/u]+1[/sup] [frac]31[sup][u]a[/u]-[u]n[/u][/sup] - 30[sup][u]a[/u]-[u]n[/u][/sup][/frac]/[sub]31[sup][u]a[/u]+1[/sup] - 30[sup][u]a[/u]+1[/sup][/sub].
+
+For, in the first place this satisfies all the equations of the general form given above, since
+30[sup][u]n[/u]+1[/sup] [frac]31[sup][u]a[/u]-[u]n[/u][/sup] - 30[sup][u]a[/u]-[u]n[/u][/sup][/frac]/[sub]31[sup][u]a[/u]+1[/sup] - 30[sup][u]a[/u]+1[/sup][/sub] = [frac]30[/frac]/[sub]61[/sub] 30[sup][u]n[/u][/sup] [frac]31[sup][u]a[/u]-[u]n[/u]+1[/sup] - 30[sup][u]a[/u]-[u]n[/u]+1[/sup][/frac]/[sub]31[sup][u]a[/u]+1[/sup] - 30[sup][u]a[/u]+1[/sup][/sub] + [frac]31[/frac]/[sub]61[/sub] 30[sup][u]n[/u]+2[/sup] [frac]31[sup][u]a[/u]-[u]n[/u]-1[/sup] - 30[sup][u]a[/u]-[u]n[/u]-1[/sup][/frac]/[sub]31[sup][u]a[/u]+1[/sup] - 30[sup][u]a[/u]+1[/sup][/sub]

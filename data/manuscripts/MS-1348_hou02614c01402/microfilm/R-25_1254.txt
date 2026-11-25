@@ -1,0 +1,22 @@
+[del]The accepted principles of chemicodynamics.[/del]
+Let $p$ be the molecular proportion of $\text{NaCl}$
+in the solution; so that that of $\text{H}_2\text{O}$ is $1-p$.
+The $\text{NaCl}$ and $\text{H}_2\text{O}$ are continually undergoing
+double decomposition at a slow rate propor-
+tional to the product of their concentrations.
+If $c$ is a [ins]certain[/ins] small constant, the rapidity of
+this action is $c p (1-p)$. In this way $\text{HCl}$
+and $\text{NaOH}$ are formed in equivalent pro-
+portions, say $x$. But these rapidly undergo
+double decomposition, at a rate proportional
+to the product of their concentrations; so that
+if $C$ is a certain large constant, the rapidity
+of this action will be $C x^2$. When equili-
+brium is reached, these two rapidities are
+equal, and $x = \sqrt{\frac{c}{C} p (1-p)}$. Or, if we wish
+to be so precise as to take account of the
+loss of $\text{NaCl}$ and $\text{H}_2\text{O}$ in forming $\text{HCl}$ and
+$\text{NaOH}$, the equation will be,
+$$C x^2 = c (p-x) (1-p-x);$$
+and the approximate solution of this is
+$$x = \sqrt{\frac{c}{C-c} p (1-p)} - \frac{1}{2} \frac{c}{C-c}.$$

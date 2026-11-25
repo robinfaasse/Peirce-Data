@@ -1,0 +1,32 @@
+[marginalia]Morrison's Bridge
+[date]1899 Feb 21[/date][/marginalia]
+
+<u>A somewhat new departure</u>
+inasmuch as I will place the suspenders where they
+[del]have been but[/del] [ins]really are, and[/ins] hang the weights from them.
+
+Now I will investigate the geometrical condition when [del]one weight[/del] [ins]suspender[/ins]
+[del]only is lifted to [unclear]y[/unclear][/del]
+the suspenders are lifted generally. I wish thus to show
+[del][unclear]y[/unclear] = [unclear]S[/unclear][/del]
+that the inclinations of the suspenders are of no account.
+
+$\eta_0 = y_0$
+$x_s = \sqrt{1 - y_s^2}$ [fig]triangle[/fig]
+[fig]triangle[/fig]
+
+The parabola is $y = \frac{1}{4R} x^2$
+
+[fig]triangle[/fig] That is $l$, length suspender
+$l = \frac{1}{4R} x^2$
+
+[fig]triangle[/fig] The length of section of cable
+between $n^{\text{th}}$ and $(n+1)^{\text{th}}$ suspenders
+$= \sqrt{(dx)^2 + (dy)^2} = \sqrt{S^2 + \frac{1}{16R^2} [(n+S)^2 - n^2]^2}$
+$= \sqrt{S^2 + \frac{1}{16R^2} (2nS + S^2)^2}$
+
+[fig]triangle[/fig]
+
+Then the two equations to determine $\xi_{n+1}$ and $\eta_{n+1}$ are
+$(\xi_{n+1} - \xi_n)^2 + (\eta_{n+1} - \eta_n)^2 = [del]\frac{S^2}{16R^2}[/del] (S^2 + \frac{4n^2 S^2 + 4n S^3 + S^4}{16R^2})$
+$(\xi_n - x_n)^2 + (\eta_n - y_n)^2 = \frac{1}{16R^2} [del]x_n^4[/del] n^4$

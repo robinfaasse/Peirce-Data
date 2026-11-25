@@ -1,0 +1,39 @@
+[del]$\frac{d y}{d x} = \frac{1}{x}$[/del]
+$d y^{\frac{1}{2}} = \frac{1}{2} y^{-\frac{1}{2}} d y$
+
+$w^2 + x^2 + y^2 + z^2 = 1$
+
+$\sqrt{1 - y^2 - z^2} + x i + y j + z k$
+[fig]Geometric diagram with intersecting lines and curves[/fig]
+
+$q = \phi \psi \chi \omega$
+
+$\sqrt{1 - \cos^2 \phi - \cos^2 \psi - \cos^2 \chi - \cos^2 \omega} + \cos \phi i + \cos \psi j + \cos \chi k$
+
+$= \cos \omega + \sqrt{1 - \cos^2 \psi - \cos^2 \chi - \cos^2 \omega} i + \cos \psi j + \cos \chi k$
+
+$d q = \frac{1}{2} \frac{1}{\sqrt{}} + \cos \phi \sin \phi i - \sin \psi j$
+
+$\frac{1}{2}$
+
+---
+
+$\int \frac{1}{x} d x = \log x$
+
+$x = 6^{u + \theta}$
+
+$d x = [del]6^{u + \theta}[/del] J 6^{u + \theta} d \theta$
+
+$\frac{1}{x} = 6^{-u - \theta}$
+
+$\frac{1}{x} d x = J d \theta$
+
+$\int \frac{1}{x} d x = J \theta = \log x$
+
+$x \stackrel{T_x = 0}{=} U_x \stackrel{z = \text{Const}}{=} F(\theta, \phi)$
+
+$d x = D_{\theta} F(\theta, \phi) d \theta$
+
+$\frac{1}{x} = F(\theta, \phi)$
+
+$\frac{1}{x} d x = F(-\theta, \phi) D_{\theta} F(\theta, \phi) d \theta$

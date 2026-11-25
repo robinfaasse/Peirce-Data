@@ -1,0 +1,52 @@
+[pn]Page 5[/pn]
+
+[u]Example[/u]
+
+[del]\((x-a)u_x - (2x-a-1)u_{x-1} + (1-q^2)(x-1)u_{x-2} = 0\)[/del]
+
+Multiply by [u]\(x\)[/u]
+
+\(x(x-a)u_x - (2x-a-1)xu_{x-1} + (1-q^2)x(x-1)u_{x-2} = 0\)
+
+Put \(x\mathcal{E}^{-1} = \mathcal{E}\) [del]\(\mathcal{E}^2 u_x = x\mathcal{E}^{-1}x\mathcal{E}^{-1}u_x = x\mathcal{E}^{-1}xu_{x-1} = x(x-1)\)[/del]
+
+\(\{x(x-a) - (2x-a-1)\mathcal{E} + (1-q^2)\mathcal{E}^2\}u_x = 0\).
+
+Put \(x = \mathcal{D} + \mathcal{E}\)
+
+\(\{(\mathcal{D}+\mathcal{E})(\mathcal{D}+\mathcal{E}-a) - (2\mathcal{D}+2\mathcal{E}-a-1)\mathcal{E} + (1-q^2)\mathcal{E}^2\}u_x = 0\)
+
+\(\{\mathcal{D}^2 + \mathcal{E}\mathcal{D} + \mathcal{D}\mathcal{E} [del]+ \mathcal{E}^2[/del] - a\mathcal{D} - a\mathcal{E} - 2\mathcal{D}\mathcal{E} - 2\mathcal{E}^2 + a\mathcal{E} + \mathcal{E} + \mathcal{E}^2 - q^2\mathcal{E}^2\}u_x = 0\)
+
+\(\{\mathcal{D}^2 + \mathcal{E}\mathcal{D} - \mathcal{D}\mathcal{E} - a\mathcal{D} + \mathcal{E} - q^2\mathcal{E}^2\}u_x = 0\)
+
+But \(\mathcal{D}\mathcal{E} = \mathcal{E}(\mathcal{D}+1)\)
+
+\(\therefore \{\mathcal{D}^2 - a\mathcal{D} - [del]q^2[/del] q^2\mathcal{E}^2\}u_x = 0\)
+
+Now assume \(u_x = \sum a_m \mathcal{E}^m 1\)
+
+\(\sum_m \{\mathcal{D}^2 - a\mathcal{D} - q^2\mathcal{E}^2\} a_m \mathcal{E}^m 1 = 0\)
+
+But \(\mathcal{D}^2 \mathcal{E}^m 1 = \mathcal{E}^m m^2 1\) \(\mathcal{D}\mathcal{E}^m = \mathcal{E}^m m 1\)
+
+\(\sum_m \{ m^2 \frac{x!}{(x-m)!} - a m \frac{x!}{(x-m)!} - q^2 \frac{x!}{(x-m-2)!} \} a_m = 0\)
+
+or \(-q^2 \frac{x!}{(x-2)!} a_0 + \{ \frac{x!}{(x-1)!} - a \frac{x!}{(x-1)!} \} a_1 - q^2 \frac{x!}{(x-3)!} a_1\)
+\(+ \{ (4-2a) \frac{x!}{(x-2)!} - q^2 \frac{x!}{(x-4)!} \} a_2 + \{ (9-3a) \frac{x!}{(x-3)!} - q^2 \frac{x!}{(x-5)!} \} a_3 + \text{etc}\)
+
+or \((1-a) \frac{x!}{(x-1)!} a_1 + \{ (4-2a) a_2 - q^2 a_0 \} \frac{x!}{(x-2)!} + \{ (9-3a) a_3 - q^2 a_1 \} \frac{x!}{(x-3)!}\)
+
+***
+
+[pn]Page 6[/pn]
+
+\(a_2 = q^2 \frac{a_0}{2(2-a)}\) \(a_3 = q^2 \frac{a_1}{3(3-a)}\)
+
+\(a_4 = q^2 \frac{a_2}{4(4-a)} = q^4 \frac{a_0}{8(2-a)(4-a)}\)
+\(a_5 = q^2 \frac{a_3}{5(5-a)} = q^4 \frac{a_1}{15(3-a)(5-a)}\)
+
+etc
+
+\(u_x = a_0 \{ 1 + \frac{q^2}{2(2-a)} \frac{x!}{(x-2)!} + \frac{q^4}{8(2-a)(4-a)} \frac{x!}{(x-4)!} + \text{etc} \}\)
+\(+ a_1 \{ x + \frac{q^2}{3(3-a)} \dots \}\)

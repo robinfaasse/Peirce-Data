@@ -1,0 +1,27 @@
+[pn]13[/pn]
+
+$(D_x^2 + D_y^2) v = \cos\theta D_r^2 q - 3\sin\theta . D_r^2 w - r\sin\theta . D_r^2 w$
+$+ \cos\theta . \frac{1}{r} D_r q$ [del]$+ \frac{r\sin\theta}{r^2}$[/del]
+$+ \cos\theta \frac{1}{r^2} D_\theta^2 q - \sin\theta \frac{1}{r^2} D_\theta^2 q - \cos\theta \frac{q}{r^2}$
+[del]$- \frac{\sin\theta}{r} D_\theta w$[/del] $+ 2\cos\theta \frac{1}{r} D_\theta w - \frac{\sin\theta}{r} D_\theta^2 \theta$
+
+$r w$
+$w + r D_r w$
+$2 D_r w + r D_r^2 w$
+
+$q \cos\theta$
+$D_\theta q . \cos\theta - q\sin\theta$
+$D_\theta^2 q \cos\theta - D_\theta q . \sin\theta - q\cos\theta$
+
+$r w \sin\theta$
+$w\cos\theta + D_\theta w \sin\theta$
+$- w\sin\theta + 2 D_\theta w . \cos\theta + D_\theta^2 w \sin\theta$
+
+$D_x u = +\sin^2\theta . D_r q + w\sin\theta\cos\theta + \sin\theta\cos\theta r . D_r w$
+$+ \sin\theta\cos\theta \frac{1}{r} D_\theta q + \cos^2\theta \frac{q}{r} + \cos^2\theta D_\theta w - [del]\sin\theta\cos\theta . w[/del]$
+
+$D_y v = \cos^2\theta D_r q - [del]\sin\theta\cos\theta w[/del] - \sin\theta\cos\theta r . D_r w$
+$- \sin\theta\cos\theta \frac{1}{r} D_\theta q + \sin^2\theta \frac{q}{r} + \sin^2\theta D_\theta w + [del]\sin\theta\cos\theta . w[/del]$
+
+$D_x u + D_y v = D_r q + \frac{q}{r} + D_\theta w = 0$ Equation of continuity
+$r(w . dr - q . d\theta) = d\psi$

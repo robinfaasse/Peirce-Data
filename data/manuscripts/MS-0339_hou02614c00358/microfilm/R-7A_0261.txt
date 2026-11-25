@@ -1,0 +1,33 @@
+[pn]757[/pn]
+
+[u]On Chapter II[/u]
+
+or $u = C$ $\Phi x = C$
+
+Usually in algebra $u = 0$ [del]represents[/del] [ins]is[/ins] the truth of a [del]proposition[/del] [ins]certain[/ins] [del]the falsity of which is represented[/del] [del]by $\Phi x$ having any other value.[/del]
+
+So we may conceive that $\Phi(x,y)$ is the number of $x$'s that are $y$'s. $\Phi(x,y) = 0$ represents No $x$ is $y$.
+
+Or we may write
+$$\begin{array}{lclcl}
+\Phi(x,y) & \text{number} & \text{of } x\text{'s} & \text{that} & \text{are } y\text{'s} \\
+\Psi(x,y) & \text{"} & \text{" } x\text{'s} & \text{"} & \text{" not } y\text{'s} \\
+\mathrm{X}(x,y) & \text{"} & \text{" non } x\text{'s} & \text{"} & \text{" } y\text{'s} \\
+\omega(x,y) & \text{"} & \text{" non } x\text{'s} & \text{"} & \text{" not } y\text{'s}
+\end{array}$$
+
+Equating these to zero gives the four universal propositions, [del]equating them[/del]
+
+$\Phi(x,y) \neq 0$
+
+(with caution) give particular propositions.
+
+The above expressions are not really functions of $x$ and $y$; yet we have the equations
+$$\begin{array}{l}
+[del]x = \Phi(x,y)[/del] \\
+x = \Phi + \Psi \\
+U - x = \mathrm{X} + \omega
+\end{array} \qquad y = \Phi + \mathrm{X}$$
+
+so that we do have 3 equations among the 4 unknowns.
+If then we assume one more say [del]$\Phi$[/del] $\Phi + \omega - \Psi - \mathrm{X} = V$

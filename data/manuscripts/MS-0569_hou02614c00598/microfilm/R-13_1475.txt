@@ -1,0 +1,28 @@
+[pn]C[/pn] [pn]12[/pn]
+
+[u]Rule II[/u] can be proved from propositions A
+and B alone. For in the statement of A, substitute
+[u]y[/u] for [u]x[/u] and [u]z[/u] for [u]y[/u]. It then reads that if [u]y[/u]
+is false, [u]y[/u] < [u]z[/u]. But by B, if [u]y[/u] is true, [u]x[/u] < [u]y[/u].
+Hence, either [u]x[/u] < [u]y[/u] or [u]y[/u] < [u]z[/u]. Q.E.D.
+
+[u]Rule III[/u] can be proved from proposition C
+alone. For in the statement of C, substitute [u]v[/u]
+for [u]x[/u] and [u]u[/u] for [u]y[/u]; and it reads that if
+[u]v[/u] < [u]u[/u], either [u]v[/u] is false or [u]u[/u] is true. If, there-
+fore, [u]v[/u] is any true proposition, and [u]u[/u] any
+false one, it is [del]false[/del] [ins]not true[/ins] that [u]v[/u] < [u]u[/u]. Thus, it
+is possible so to take [u]u[/u] and [u]v[/u] that [u]v[/u] < [u]u[/u] shall
+be false. Q.E.D.
+
+The rule of interpretation evidently follows
+from propositions A and B.
+
+That these four rules fully represent
+propositions A, B, C, can be shown by de-
+ducing the latter from the former. [del]In the state-[/del] [ins]It is left to the student to construct these proofs.[/ins]
+ment of Rule II, [del]substitute[/del] [ins]substitute[/ins] [u]v[/u] for [u]x[/u], [u]u[/u] for [u]y[/u],
+and [u]y[/u] for [u]z[/u]. It then reads that either [u]v[/u] < [u]u[/u] or
+[u]u[/u] < [u]y[/u]. Hence, by Rule III, [u]u[/u] < [u]y[/u]. In the state-
+ment of the rule of interpretation, substitute
+[u]x[/u] for [u]y[/u]. We thus find that if [u]x[/u] is false,

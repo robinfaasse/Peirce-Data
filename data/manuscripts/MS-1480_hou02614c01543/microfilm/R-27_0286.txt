@@ -1,0 +1,99 @@
+[marginalia]
+[pn]57[/pn]
+[del]3[/del]) [del]0588235294117647[/del]
+0196078431372549
+[/marginalia]
+
+[marginalia]
+0434782608695652173913
+0144927536231884057971
+[/marginalia]
+
+[marginalia]
+[pn]58[/pn]
+[del]3[/del]) [del]153846153846[/del]
+0153846
+[/marginalia]
+
+[marginalia]
+[del]015873[/del]
+09090
+030303
+076923
+025641
+[/marginalia]
+
+[marginalia]
+[del]3[/del]) [del]142857142857[/del]
+0142857
+[/marginalia]
+
+[marginalia]
+[del]3[/del]) [del]142857[/del]
+012987
+[/marginalia]
+
+[marginalia]
+[del]3[/del]) [del]21052631578947368421[/del]
+017543859649122807
+[/marginalia]
+
+[marginalia]
+[del]3[/del]) [del]258[/del]
+29
+[/marginalia]
+
+[marginalia]
+[del]8[/del]/[del]8[/del] = [del]1[/del]
+[/marginalia]
+
+[marginalia]
+[del]2[/del]/[del]2[/del] = [del]1[/del]
+[/marginalia]
+
+[marginalia]
+[del]1[/del]/[del]1[/del] = [del]1[/del]
+[/marginalia]
+
+[marginalia]
+[del]0.22[/del]
+[/marginalia]
+
+[marginalia]
+[del]0.18[/del]
+[del]0.18[/del]
+[/marginalia]
+
+[marginalia]
+[del]9[/del]/[del]10[/del]
+[del]33[/del]
+[/marginalia]
+
+[marginalia]
+[fig]Coordinate axes with points plotted[/fig]
+[/marginalia]
+
+[marginalia]
+[del]1[/del]/[del]75[/del] = [del]1[/del]/[del]3[/del] · [del]1[/del]/[del]25[/del]
+[del]·) 04'[/del]
+[/marginalia]
+
+[u]4xyzw[/u] = [del]2xy + 2zw - 1 + (-1)[/del]
+
+[del]2xy[/del] = x + y - [del]1[/del]/[del]2[/del] + [del]1[/del]/[del]2[/del] (-1)[ins]x+y[/ins]
+
+[del]2zw[/del] = z + w - [del]1[/del]/[del]2[/del] + [del]1[/del]/[del]2[/del] (-1)[ins]z+w[/ins]
+
+4xyzw = x + y + z + w - 2 + [del]1[/del]/[del]2[/del] (-1)[ins]x+y[/ins] + [del]1[/del]/[del]2[/del] (-1)[ins]z+w[/ins] + [del]1[/del]/[del]2[/del] (-1)[ins]x+y[/ins] (-1)[ins]z+w[/ins]
+
+x=0 y=0 (-1)[ins]xy[/ins] = 1 (-1)[ins]x[/ins] = 1 (-1)[ins]y[/ins] = 1 [del]1[/del]/[del]2[/del] [ (1 - (-1)) ]
+x=0 y=1 (-1)[ins]xy[/ins] = 1 (-1)[ins]x[/ins] = 1 (-1)[ins]y[/ins] = -1
+x=1 y=1 (-1)[ins]xy[/ins] = -1 (-1)[ins]x[/ins] = -1 (-1)[ins]y[/ins] = -1
+
+(-1)[ins]xy[/ins] = 1 = [del]1[/del]/[del]2[/del] [ [del](-1)[/del] - (-1)[ins]x[/ins] ] [ [del]1[/del] - (-1)[ins]y[/ins] ]
+
+= [del]1[/del]/[del]2[/del] [ [del]1[/del] + (-1)[ins]x[/ins] + (-1)[ins]y[/ins] - (-1)[ins]x+y[/ins] ]
+
+-2 + [del]1[/del]/[del]2[/del] (xy + zw) + [del]1[/del]/[del]2[/del] + [del]1[/del]/[del]2[/del] (x + y + z + 1) (x - y + z + 1) (w - zw)
+
++ [del]1[/del]/[del]4[/del] ( [del]1[/del] + x + y - xy + z + zx + zy - zxy - w - wx - wy + wxy - zw - zwx - zwy + zwxy )

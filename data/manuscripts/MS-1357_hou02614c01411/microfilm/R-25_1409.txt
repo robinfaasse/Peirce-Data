@@ -1,0 +1,81 @@
+[pn]131[/pn]
+
+Report on Live Loads
+
+Thus the equations are
+[u]0.3771158171[/u] $\delta x_1$ - [u]$\frac{1}{8.619101118}$[/u] $\delta y_1$ = 0
+- 0.1160213793 $\delta x_1$ + 0.3158617124 $\delta y_1$ - 1 = 0
+
+[marginalia]
+$\frac{a}{1/b}$
+Sum
+Diff.
+[/marginalia]
+
+[marginalia]
+Prod.
+[/marginalia]
+
+[marginalia]
+c
+[/marginalia]
+
+[u]Proof.[/u]
+
+[u]$\begin{array}{r} .3771158171 \\ 8.619101118 \\ \hline 12390259289 \\ 4847942947 \end{array}$[/u]
+[u]Quarter Squares[/u]
+3837926401 + 36730
+587553 360 + 10410
+[u]3250373041 + 26320[/u]
+26320
+3.250399361 $\delta x_1$ = $\delta y_1$
+
+[u]$\begin{array}{r} .3158617124 \\ 6409016485 \\ \hline 911782237 \end{array}$[/u]
+[u]Quarter Squares[/u]
+8026 882 025 + 5283.6
+210598 + [del]7[/del] 9.5
+[u]1026671427 + 5283.1[/u]
+5284
+1.026676708
+
+[u]$\begin{array}{r} 116021379 \\ .910655329 \end{array}$[/u] $\delta x_1$ = 1
+1.0981003038 = $\delta x_1$
+
+[u]$\begin{array}{r} 3.250399361 \\ 14231502399 \\ \hline 77130703677 \end{array}$[/u]
+[u]Quarter Squares[/u]
+5063 389 806 + 17975
+1494 093 062 + 14323
+[u]3569 296 744 + 285[/u]
+285
+3.569297030 = $\delta y_1$
+
+[u]$\begin{array}{r} 3.569297030 \\ .3158617124 \\ \hline 6727914154 \\ 410679906 \end{array}$[/u]
+[u]Quarter Squares[/u]
+[u]$\begin{array}{r} 1131615960 + \\ 4214809 + \\ \hline 1127401151 + \\ 3122 \end{array}$[/u]
+1.127404272
+
+$\begin{array}{r} 4761 \\ 1640 \\ \hline 3121 \end{array}$
+
+[u]$\begin{array}{r} 1.0981103038 \\ .3771158171 \\ \hline 14752261287 \\ 7209944867 \end{array}$[/u]
+[u]Quarter Squares[/u]
+5440685121 + 45148
+1299566450 + 16174
+[u]4141118671 + 28974[/u]
+28974
+.4141147645
+
+[u]$\begin{array}{r} 3.569297030 \\ .1160213793 \\ \hline 15171434960 \\ 8032840900 \end{array}$[/u]
+[u]Quarter Squares[/u]
+5754284449 + [del]26[/del] [ins]620[/ins]
+1613146896 + 16417
+[u]4141137553 + 10093[/u]
+10093
+.4141147646
+
+[u]$\begin{array}{r} 10981103038 \\ 1160213793 \\ \hline 12141316831 \\ 9820889245 \end{array}$[/u]
+[u]Quarter Squares[/u]
+3685279142 + 10218
+2411202816 + 43823
+[u]1274076326 - 33605[/u]
+33605
+.1274042721

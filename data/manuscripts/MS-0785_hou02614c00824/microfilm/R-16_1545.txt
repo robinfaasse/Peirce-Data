@@ -1,0 +1,25 @@
+shall be happy to go through it with him
+in its full form.
+
+Suppose that [u]a[/u] and [u]b[/u] are independent.
+
+(1) Any individual term, by condition 3 of def. 6,
+can be put into the form $\Sigma(A,B)$
+
+(2) The terms of this logical sum are either all
+identical with one another or not. [ins]Principle of Contradictn[/ins]
+
+(3) If not, then denote by $(A_p,B_q)$ and $(A_r,B_s)$
+two terms not identical. Then, if
+
+$$\begin{matrix} A_p \bar{\bar{\supset}} A_r & B_q \bar{\bar{\supset}} B_s \end{matrix}$$
+[ins]this by Def 3. Barbara[/ins]
+$A_p.B_q \bar{\bar{\supset}} A_r.B_s$. Hence, since this is false,
+either $A_p \bar{\bar{\supset}} A_r$ is false
+or $B_q \bar{\bar{\supset}} B_s$ is false [ins]Modus tollens[/ins]
+
+(4) Hence, by conditions (1) and (2) of def 6,
+Either No $A_p$ is $A_r$
+or No $B_q$ is $B_s$ [del]Either[/del]
+
+(5) Hence, by definition 3,

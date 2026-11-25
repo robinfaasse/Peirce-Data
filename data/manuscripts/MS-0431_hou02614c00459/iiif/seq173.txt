@@ -1,0 +1,18 @@
+Logic
+III
+73
+
+In (13) substituting $\overline{\text{S}}$ for S, we have
+If from $\overline{\text{S}}$ would follow P, then [ins]necessarily[/ins] from $\overline{\text{P}}$ would follow $\overline{\overline{\text{S}}}$
+whence, by (10),
+(15) If from $\overline{\text{S}}$ would follow [del]S[/del] [ins]P[/ins], then necessarily from $\overline{\text{P}}$ would follow S.
+In [del](14)[/del] [ins](15)[/ins] substituting $\overline{\text{P}}$ for [del]S[/del] [ins]P[/ins], we have as above
+(16) If from S would follow $\overline{\text{P}}$ then [ins]necessarily[/ins] from [del]P[/del] [ins]P[/ins] would follow $\overline{\text{S}}$.
+Remembering that ‘if —, then —’ [ins]and ‘from — follows —’ are[/ins] taken in the sense that the
+consequent is at least as true as the antecedent, we may define $\underline{\text{v}}$
+in two clauses, thus:
+[del](17) If $\underline{\text{v}}$, then necessarily $x$[/del]
+(17) If $x$, then necessarily $\underline{\text{v}}$.
+[del](18) If, whatever $x$ may be, from $x$ [ins]necessarily[/ins] [del]fol[/del] follow [ins]to[/ins] $y$, then $y$ is $\underline{\text{v}}$[/del]
+[del](18) If, whatever $x$ may be, from $x$ will follow[/del]
+(18) If $\underline{a}$ be such that, whatever $x$ may be, from $x$ would follow $\underline{a}$,

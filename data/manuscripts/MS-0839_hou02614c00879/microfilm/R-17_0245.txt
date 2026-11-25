@@ -1,0 +1,60 @@
+The algebra
+
+[marginalia]
+[fig]dot diagram[/fig]
+[fig]dot diagram[/fig]
+[fig]dot diagram[/fig]
+$2\alpha + 2\varepsilon - \delta - \beta - \gamma - \xi$
+[fig]dot diagram[/fig]
+[fig]dot diagram[/fig]
+[fig]dot diagram[/fig]
+$i = $
+$\frac{1}{6} (2\alpha - \beta - \gamma - \delta + 2\varepsilon - \xi)$
+$\alpha - \varepsilon$
+[fig]dot diagram[/fig]
+[fig]dot diagram[/fig]
+[fig]dot diagram[/fig]
+[del]$\alpha$[/del]
+[del]$-\beta - \gamma + \delta + \varepsilon + \xi$[/del]
+[del]$-\beta$[/del]
+$-\varepsilon$
+$\delta + \gamma - \beta - \xi$
+[fig]dot diagram[/fig]
+[fig]dot diagram[/fig]
+[fig]dot diagram[/fig]
+$-\beta + \gamma + \delta - \xi$
+[/marginalia]
+
+$$\begin{array}{l}
+I = (a:a) + (b:c) + (c:b) \\
+J = (a:c) + (b:b) + (c:a) \\
+K = (a:b) + (b:a) + (c:c) \\
+I = (a:b) + (b:c) + (c:a) \\
+M = (a:c) + (b:a) + (c:b)
+\end{array}$$
+may be transformed as follows
+$$\begin{array}{l}
+i = \frac{1}{6} \{ \phantom{\frac{\sqrt{3}}{2}} i + j + 4k - 3l - 3m \} \\
+j = \frac{\sqrt{3}}{2} \{ \phantom{\frac{1}{6}} i - j \phantom{+ 4k} + \phantom{3}l - \phantom{3}m \} \\
+k = \frac{\sqrt{3}}{2} \{ \phantom{\frac{1}{6}} i - j \phantom{+ 4k} - \phantom{3}l + \phantom{3}m \} \\
+l = \frac{1}{2} \{ \phantom{\frac{\sqrt{3}}{2}} i + j \phantom{+ 4k} - \phantom{3}l - \phantom{3}m \} \\
+m = \frac{1}{3} \{ \phantom{\frac{\sqrt{3}}{2}} i + j + k \}
+\end{array}$$
+
+Then, the multiplication table is
+$$\begin{array}{c|c|c|c|c|c|}
+\multicolumn{1}{c}{} & \multicolumn{1}{c}{i} & \multicolumn{1}{c}{j} & \multicolumn{1}{c}{k} & \multicolumn{1}{c}{l} & \multicolumn{1}{c}{m} \\
+\cline{2-6}
+i & i & j & 0 & 0 & 0 \\
+\cline{2-6}
+j & 0 & 0 & i & j & 0 \\
+\cline{2-6}
+k & k & l & 0 & 0 & 0 \\
+\cline{2-6}
+l & 0 & 0 & k & l & 0 \\
+\cline{2-6}
+m & 0 & 0 & 0 & 0 & m \\
+\cline{2-6}
+\end{array}$$
+
+The algebra is therefore a compound of [del]simple[/del] [ins]ordinary[/ins] algebra and of the algebra of biquaternions (Hamiltons).

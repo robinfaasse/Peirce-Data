@@ -1,0 +1,13 @@
+If there is a [del]C[/del] [ins]A[/ins] that is A, there is a C [del]that is[/del] [ins]A and B[/ins]
+If there is a C that is not B, there is some C [del]that is not A[/del]
+[del]or else there is[/del]
+Every C is A
+
+there is a C not [del]both[/del] [del]A and[/del] B
+
+[fig]C A         C A B   C A B
+C [del]is[/del] -B      C [del]is[/del] -A
+__________________________
+X - A        X - A -
+             B
+X - B        X - A[/fig]

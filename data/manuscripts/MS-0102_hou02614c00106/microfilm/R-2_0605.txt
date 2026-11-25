@@ -1,0 +1,34 @@
+[u]Let $P_1$ and $P_2$ be any two points.[/u]
+[fig]Line segment with points P1 and P2[/fig]
+
+Now consider this expression
+$\lambda P_1 + (1-\lambda) P_2$
+where $\lambda$ is a number. $P_1$ and $P_2$ are not numbers,
+and therefore the binomial cannot be understood
+exactly as in ordinary algebra; but we are to seek
+some meaning for it which shall be somewhat
+analogous to that of algebra. If $\lambda = 0$, it becomes
+$0 P_1 + 1 P_2$.
+and this we may take as equal to $P_2$, speaking $0 P_1 = 0$
+and $1 P_2 = P_2$. Then if $\lambda = 1$, the expression will
+become equal to $P_1$. When $\lambda$ has any other value,
+we may [del]suppose[/del] assume that the expression
+denotes some other point, and as $\lambda$ varies con-
+tinuously we may assume that this point moves
+continuously [del]all the values[/del] [ins]as $\lambda$ passes[/ins] through
+the whole series of real values. [del]The point will[/del]
+[del]describe a line; and the simplest supp[/del] [ins]Our assumption[/ins] is
+is that this line is straight. [del]That we will assume;[/del]
+but at present we make no [ins]further[/ins] assumption as to the
+position of the point on the line when $\lambda$ has
+values other than $0$ and $1$. We may write
+$\lambda P_1 + (1-\lambda) P_2 = P_3$.
+Transposing $P_3$ to the first side of the equation, and
+multiplying [del]by any number,[/del] [ins]both sides[/ins] we [del]have an ex-[/del]
+[del]press[/del] equations of the form
+$a_1 P_1 + a_2 P_2 + a_3 P_3 = 0$
+where
+$a_1 + a_2 + a_3 = 0$
+[del]and[/del] Such an equation will signify that $P_1, P_2, P_3$
+are in a straight line; for it is equivalent to
+$P_3 = \frac{a_1}{a_1+a_2} P_1 + \frac{a_2}{a_1+a_2} P_2$.

@@ -1,0 +1,27 @@
+&enclose parentheses, and braces &enclose square brackets. I would
+use heavy parentheses &enclose light braces, heavy brackets &enclose
+heavy parentheses, and heavy braces to enclose heavy brackets. In
+order to dispense with these signs as much as possible, it will be
+best to adopt the rule that relative operations connect terms more
+intimately than non-relative operations, and that multiplication
+[del](even when[/del] [ins]non-relative[/ins] connects terms more intimately than
+addition (even when relative). Hence,
+
+$a+b\dagger c$ will mean $a+(b\dagger c)$, not $(a+b)\dagger c$, which must be
+written with the parenthesis. So we may write $a\dagger bc$ for $a\dagger(b\cdot c)$ [ins]$=$ [del]$(a\dagger b)\cdot(a\dagger c)$[/del][/ins]
+and write $(a\dagger b)\cdot c$ with the parenthesis. We may write $a\cdot bc$ for $a\cdot(bc)$,
+and write $(a\cdot b)c$ with the parenthesis. [del]We may[/del] This accords with
+Schröder's rule; but he makes an exception which I have found
+caused me great loss of time in reading his [del]boo[/del] last volume.
+
+The quantifiers being all written [del]at[/del] before the Boolean and sepa-
+rated by a [ins]blank[/ins] space from it, the latter will not require to be enclosed.
+Thus, I write $\Pi_i\Sigma_j\Pi_k\ a_{ij}(b_{jk}+c_{ki})$ and not $\Pi_i\Sigma_j\Pi_k [a_{ij}\cdot(b_{jk}+c_{ki})]$.
+The latter is [del]clumsy[/del] and needlessly clumsy. A blank space is al-
+ways preferable to [del]an parenthesis[/del] enclosure, where it is equally conveni-
+ent.
+
+Certain terms, especially, four demand special signs. One of
+these is that which is enclosed under every term. That is it is 'nothing',
+or "incompatible with —." Prof. Schröder says [ins]it is more[/ins] [del]I ought to[/del] accurate
+to say 'not coexistent with'. I deny this. Under the quantifiers, we

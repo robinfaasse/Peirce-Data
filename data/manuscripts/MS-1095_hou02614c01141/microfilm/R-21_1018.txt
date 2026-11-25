@@ -1,0 +1,16 @@
+$$U = \frac{1}{2} g m_0 h_0 \theta_0^2 + \frac{1}{2} g m_1 r \theta_0^2 + \frac{1}{2} g m h [del]\theta_0^2[/del] [ins]\theta_0^2[/ins] [del]+ \frac{1}{2} g m h[/del] \theta_0^2 \omega.$$
+
+In order to express the Kinetic energy, we must first find the distance of the axis of the joint [ins](which we may denote by $r + \delta r$)[/ins] from the centre of rotation of the second piece. This is given by the equation
+$$(r + \delta r)(\theta_0 + \delta \theta) = r \theta_0$$
+or
+$$\delta r \cdot \theta_0 + r \cdot \delta \theta = 0,$$
+or
+$$\delta r = - r \frac{\delta \theta}{\theta_0} = r \omega.$$
+
+The Kinetic energy is thus seen to be
+$$E = \frac{1}{2} m_0 (h_0^2 + \gamma_0^2) (D_t \theta_0)^2 + \frac{1}{2} m \{(r + r \omega + h)^2 + \gamma^2\} (D_t \theta)^2$$
+$$= \frac{1}{2} m_0 (h_0^2 + \gamma_0^2) (D_t \theta_0)^2 + \frac{1}{2} m \{(r + h)^2 + \gamma^2 [del]+[/del] [ins]+ 2[/ins] [del]\gamma^2[/del] [ins]h[/ins] (r + h) \omega\} (D_t \theta_0)^2.$$
+
+It is to be observed that the sign of $\omega$ is the same as that of $h$, while $\delta \theta$ has the opposite sign. The sign of $r$ is negative when the joint is above the knife-edge.
+
+Let $T$ be the period of oscillation which the pendulum would have if it were absolutely rigid, $T + \Delta T$ that which it has with the elastic joint; $M$ the mass of the whole pendulum $= m_0 + m$; $H$ the distance of its centre of mass from the

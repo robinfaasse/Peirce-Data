@@ -1,0 +1,42 @@
+[pn]I[/pn]
+
+How to take account of Refraction & semidiameter
+in the rising or setting of the Sun.
+
+Depression 50'
+
+For Lat. 40° N.
+[u]Declin.[/u] | [u]Corr. of hour angle when declin. N.[/u] | [u]when dec. is S.[/u]
+0° | 68" | 68"
+5 | 68" | 69"
+10 | 69" | 72"
+15 | 72" | 76"
+20 | 76" | 82"
+25 | 82" |
+
+For other Latitudes the corr. is very nearly proportional
+to the secant of the Latitude.
+
+To compute the above table more exactly, make
+following columns [ [ins]d[/ins] = dec l = lat z = zenith dist ]
+1 sec d
+2 tan d
+3 cos z sec l sec d
+4 tan l tan d = cos h₀
+5 cos h₀ - cos z sec l sec d
+[bracket]
+6 sec K ⊕ column 5
+7 sec K ⊖ column 5
+8 cos h₀ + sec K ⊕ = cos (h₀ - h)
+9 cos h₀ - sec K ⊖ = cos (h₀ + h)
+10 h
+11 h
+[/bracket]
+12 h - h₀
+13 h - h₀
+
+not quite right
+This table is [del]wrong[/del], but
+it is true that the corrections
+are very nearly proportional
+to the secants of the Latitudes

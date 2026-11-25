@@ -1,0 +1,37 @@
+[pn]3.[/pn]
+[u]Notes on Listing[/u]
+
+Introduction gives history of Euler's polyhedral theorem.
+
+Leonhard Euler: Elementa doctrinae solidorum, et Demonstratio nonnul-
+larum insignium proprietatum, quibus solida hedris planis inclusa sunt
+praedita. Novi Commentarii Acad. Sc. Petrop. IV ad annum [del]1752[/del] [ins]1753[/ins]
+Petropoli 1758 p. 109 and 140.
+
+He did not prove [ins](at least not satisfactorily?)[/ins] the theorem (which is that sum of faces and vertices
+of a polyhedron exceeds by two the number of edges); but it was
+proved by
+
+Legendre Élémens de géométrie Paris 1794.
+
+(Anvers) I remark that the prop is VII.24 of the 1[ins]st[/ins] Ed. of Legendre. But in the
+2[ins]nd[/ins] and all later editions to the 9[ins]th[/ins] (1812) it is the 25[ins]th[/ins] proposition. There
+is also a note about it Note IX in ed of 1794 p. 311
+It becomes Note VIII in 2[ins]nd[/ins] ed. An VIII. p. 346
+
+Cauchy Recherches sur les polyèdres, 2[ins]e[/ins] partie Jour. de l'Ecol polytech-
+nique 16[ins]me[/ins] Cahier. Paris 1813 p. 76
+
+Lhuilier Gergonne Ann. III (1812 Dec) p. 169
+
+Cayley Partitions of a Close Phil Mag 1861 June p. 424
+
+Cauchy extends it to cell formation of polyhedra replacing 2 by
+P+1 where P is the number of polyhedra.
+
+Lhuilier notes 3 only possible kinds of exceptions and makes eq.
+Faces + Vertices = Edges + 2(i - o + 1) + p + p' + p'' + p''' + etc
+
+i the number of enclosed polyhedral spaces in the interior of the polyhedron
+o the number of tunnels through the mass.
+p, p', p'', p''' etc the number of inscribed polygons on the faces [del]which[/del] [ins]of the[/ins] polyhedron

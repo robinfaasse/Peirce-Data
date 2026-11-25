@@ -1,0 +1,51 @@
+129. It is required to find the caustic by reflection, the
+reflecting curve being the locus of the intersections of a
+tangent to a given circle, with a line perpendicular
+to it, passing through a given point in the circle
+and the focus of incident rays being at the pole of the
+reflecting circle.
+
+<u>Solution.</u> Let the origin of the coordinates be the given point
+and the axis the diameter $2R$ of the given circle. The equation
+of the circle is $r = 2R \cos \omega$.
+The radius $r'$ of the reflecting curve is
+$r' = 2R \cos^2 \omega$.
+Let $\omega'$ be the angle $r'$ makes with the axis of
+$r' = 2R \cos^2 \omega' = R \cos \omega' + R$.
+$dr' = -R \sin \omega' d\omega'$
+$ds^2 = dr'^2 + r'^2 d\omega^2 = (2R^2 + 2R^2 \cos \omega') d\omega'^2$
+$ds^2 + r'^2 + 2r' dr \cos v = (r' + dr')^2$
+$\cos v = \frac{dr'}{ds} = \frac{-\sin \omega'}{(2 + 2\cos \omega')^{\frac{1}{2}}} = \frac{-\sin \omega'}{2 \cos \frac{1}{2}\omega'} = -\sin \frac{1}{2}\omega'$
+$v = 180^\circ - 90^\circ + \frac{1}{2}\omega' = 90^\circ + \frac{1}{2}\omega'$
+$180^\circ - v = 90^\circ - \frac{1}{2}\omega'$
+$\omega' - (180^\circ - v) = \frac{3}{2}\omega' - 90^\circ = \omega''$
+$\omega' = 60^\circ + \frac{2}{3}\omega''$
+$2v - 180^\circ = \omega'$
+$r''^2 = 2r'^2 + 2r' dr \cos v = $
+$r'' R = (R \cos \omega' + R) [del]dr[/del] (2 - 2\cos \omega')^{\frac{1}{2}} = [del]R \cos \omega' + R[/del]$
+$= 4R \cos^2 \frac{1}{2}\omega' \sin \frac{1}{2}\omega' [del]- \sin \omega'[/del]$
+$= 2R \sin (60^\circ + \frac{2}{3}\omega'') \sin (60^\circ + \frac{2}{3}\omega'')$
+
+<u>Solution.</u> Let the given point be the origin of
+coordinates, and the [del]to[/del] corresponding diameter of
+the circle the axis [del]of[/del] of the curves.
+$R =$ radius of the given circle
+$r =$ [del]angle[/del] radius vector of reflecting curve
+$r' =$ that of the caustic.
+$\omega =$ angle $r$ makes with the axis.
+$\omega' =$ [del]angle[/del] $r'$ makes with [del]its[/del] [ins]it[/ins].
+[del]ds = r element of[/del]
+$v =$ angle $r$ makes with the element of reflecting curve.
+[del]tan v = r d\omega / dr[/del] $r = R + R \cos \omega$.
+$\tan v = \frac{r d\omega}{dr} = - \frac{1 + \cos \omega}{\sin \omega} = \tan \frac{1}{2}\omega$. [del]v d\omega[/del]
+$180^\circ - 2v = \omega =$ angle $r$ makes with the line [del]pt[/del] that
+ray of light describes [del]the[/del] after reflection.
+By $\omega - \omega' =$ angle of $r$ and $r'$
+[del]w[/del] $2\omega - \omega' =$ supplement of the third angle.
+[del]The[/del] $r : r' = \sin (2\omega - \omega') : \sin \omega$
+[del]For[/del] $r \sin \omega = r' \sin (2\omega - \omega')$ A
+By differentiating, [del]kept[/del] [ins]treat[/ins] the values of $r'$ and $\omega'$ as [del]remains[/del]
+unchanged, and [del]that[/del] $dr = -R \sin \omega d\omega$.
+$-R \sin^2 \omega + R \cos \omega + R \cos \omega = R (\cos \omega + \cos \omega) = 2r' \cos (2\omega - \omega')$ B
+Eliminating $\omega$ from (A) and (B), we get the equation
+sought.

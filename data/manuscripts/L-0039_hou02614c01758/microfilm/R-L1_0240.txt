@@ -1,0 +1,25 @@
+[pn]4[/pn]
+
+the area swept by the radius vector of the corner is the
+hyperbolic sector $\psi$. Indicating hyperbolic functions
+by capital letters
+$$\alpha = \text{Cos }\psi + \text{Sin }\psi = \varepsilon^{\psi}$$
+
+Let $w = 6k\psi$. Then if $M$ is Young's modulus
+$\alpha = \varepsilon^{w/6k}$; $h = \varepsilon^{w/9k}$; $\alpha^2 h = y = \varepsilon^{w/M} = 1 + \frac{w}{M} \dots\dots\dots$
+$\frac{1}{\alpha} = x = \varepsilon^{-w/6k} = 1 - \frac{w}{M} \dots\dots\dots$ and $xy = 1$
+
+<u>Value of $w$</u>. Experiment shows that $\alpha^2 h - 1 = F/M$
+where $F$ is [ins]being small relatively to $M$[/ins] coincident with stress and with load. It therefore
+also coincides with $w$. Finally, since $M$ is a resistance
+at zero strain, $w$ is the external force at zero strain,
+i.e. the load or initial stress, say $L$, or
+$$\underline{w = L.}$$
+
+- The above argument seems to contain only one [del]unusual[/del] [ins]unusual[/ins]
+feature, viz. the determination of the constancy of [del]$M$[/del] [ins]$M$[/ins] from
+special cases of relations between $x$ and $h$. But just as
+one determines the value of a constant of integration by
+assuming special values of the variable, so it seems to
+me legitimate to [del]test[/del] the variability of a function by
+assuming special values of the constants.

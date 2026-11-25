@@ -1,0 +1,19 @@
+[u]i'[/u] = [frac]\frac{([u]b[/u]_{2}[u]c[/u]_{3} - [u]b[/u]_{3}[u]c[/u]_{2})[u]i[/u] + ([u]b[/u]_{3}[u]c[/u]_{1} - [u]b[/u]_{1}[u]c[/u]_{3})[u]j[/u] + ([u]b[/u]_{1}[u]c[/u]_{2} - [u]b[/u]_{2}[u]c[/u]_{1})[u]k[/u]}{a_{1}b_{2}c_{3} - a_{3}b_{2}c_{1} + a_{3}b_{1}c_{2} - a_{2}b_{1}c_{3} + a_{2}b_{3}c_{1} - a_{1}b_{3}c_{2}}[/frac]
+
+Now, if [u]b[/u]_{1}, [u]b[/u]_{2}, [u]b[/u]_{3}, [u]c[/u]_{1}, [u]c[/u]_{2}, [u]c[/u]_{3}, are positive, as the hypothesis requires the coefficients of [u]i[/u], [u]j[/u], and [u]k[/u] in this expression for [u]i'[/u] cannot all be positive; for supposing those of [u]i[/u] and [u]j[/u] to be so, we have
+[u]b[/u]_{2}[u]c[/u]_{3} > [u]b[/u]_{3}[u]c[/u]_{2},
+[u]b[/u]_{3}[u]c[/u]_{1} > [u]b[/u]_{1}[u]c[/u]_{3}.
+
+Hence,
+[frac]\frac{[u]b[/u]_{2}[u]c[/u]_{3}}{[u]b[/u]_{1}[u]c[/u]_{3}}[/frac] > [frac]\frac{[u]b[/u]_{3}[u]c[/u]_{2}}{[u]b[/u]_{3}[u]c[/u]_{1}}[/frac]
+
+or
+[frac]\frac{[u]b[/u]_{2}}{[u]b[/u]_{1}}[/frac] > [frac]\frac{[u]c[/u]_{2}}{[u]c[/u]_{1}}[/frac]
+
+or
+[u]b[/u]_{2}[u]c[/u]_{1} > [u]b[/u]_{1}[u]c[/u]_{2}
+
+or
+[u]b[/u]_{1}[u]c[/u]_{2} - [u]b[/u]_{2}[u]c[/u]_{1} < 0.
+
+The system of three colors of which this is nearly true consists first of a Green [del]of[/del] wave-length [del]of[/del], second of a red, and third of a blue or violet.

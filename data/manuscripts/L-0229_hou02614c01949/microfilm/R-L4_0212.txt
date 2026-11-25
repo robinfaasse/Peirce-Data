@@ -1,0 +1,50 @@
+[pn]g-34[/pn]
+
+is the shortest way.
+
+The standard form of the Syllogism:
+A is B
+B is C
+$\therefore$ A is C.
+
+It depends on the principle of the
+transitiveness of the copula.
+This principle originated with Aristotle.
+
+[fig]Diagram showing terms P, M, S in boxes[/fig]
+P is M
+[u]P[/u] is [u]S[/u]
+[u]M[/u] is [u]S[/u]
+
+[fig]Diagram showing terms S, M, P in boxes[/fig]
+S is M
+[u]P[/u] is [u]M[/u]
+[u]S[/u] is [u]P[/u]
+
+***
+
+[u]1st Figure[/u]
+Rule
+Case
+Result
+
+[u]2nd Figure[/u]
+Rule
+Denial of Result
+Denial of Case
+
+[u]3rd Figure[/u]
+Denial of Result
+Case
+Denial of Rule
+
+M is S
+M is [del]S[/del] [ins]not P[/ins] by principle of contradiction
+S is not P $\therefore$
+
+not-M is not not P $\therefore$
+
+M is S
+P is not-M this is irrelevant
+P is not S
+or it may be omitted

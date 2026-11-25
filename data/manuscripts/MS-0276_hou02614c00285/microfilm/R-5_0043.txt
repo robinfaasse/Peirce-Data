@@ -1,0 +1,145 @@
+```
+[fig]Calculation columns, fractions, and binary diagrams[/fig]
+
+227268
+454536
+4318092
+177797
+4495889
+
+4194304
+262144
+32768
+4096
+2048
+512
+16
+1
+4495889
+
+536870912
+268435456
+67108864
+4194304
+2097152
+262144
+131072
+65536
+512
+256
+64
+[del]879166275[/del]
+[fig]Binary tree diagram with ones and zeros[/fig]
+111001000111000010
+110100011001100000110100011
+111011000101110010010
+
+100010000111000010001
+1000100011111000100
+1111001101011061011000111101010
+
+— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+
+[marginalia]
+4514
+256
+128
+128
+76
+64
+[/marginalia]
+
+[del]a[/del]
+[del]b[/del]
+
+[del]a + b[/del]
+[del]b + a[/del]
+
+[del]A + a[/del]
+[del]B + b[/del]
+
+[del]A[/del] [del]B[/del]
+
+[del]a - [del]A[/del]/[del]B[/del][/del]
+[del]B + b[/del]
+
+[del]a + [del]a[/del]/[del]B[/del] - Ab[/del]
+B² + bB
+
+[del]A[/del] - [del]b[/del]
+B + b
+
+[del]A + a[/del]
+B + b
+
+[del]A + a[/del]
+B + b
+
+[del]A[/del]
+B
+
+[del]A[/del]
+B
+
+= [del]aB - Ab[/del]
+B + b
+
+[del]aB - Ab[/del]
+B² + bB
+
+= [del]a[/del] - [del]A[/del]/[del]B[/del]
+B + b
+
+= [del]A[/del]/[del]B[/del] - [del]a[/del]/[del]b[/del]
+[del]B + b[/del]
+
+[del]A[/del] - [del]b[/del]
+B + b
+
+= [del]a[/del]/[del]b[/del]
+A + a
+
+[del]A'[/del]
+B'
+
+= [del]mA' + A[/del]
+mB' + B
+
+97879/1957586 = [del]a[/del]/[del]b[/del]
+97879
+1859701
+76573
+7651936274
+10011 = 19
+
+1048576
+2097152
+-737856
+65536
+32768
+2048
+1024
+-872
+16
+2
+1936274
+3872548
+7745096
+9681370
+7745096
+97879
+879166275
+11111100100100
+
+[marginalia]
+97519
+[/marginalia]
+
+[fig]Binary tree diagram with ones and zeros[/fig]
+111011000101110010010
+11011110111111000100
+11011110111111000100
+100010010010010100010001
+22 15 15 15 12 11 9 7 4
+[fig]Binary tree diagram with ones and zeros[/fig]
+```

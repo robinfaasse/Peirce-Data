@@ -1,0 +1,24 @@
+FL
+For example, suppose
+$\Pi_a \overline{q_{Pa}} + I_{ab} + I_{ac} + I_{ad}$
+$\Pi_a q_{Qa} + T_{AB} \cdot T_{AC} \cdot T_{AD} \cdot T_{AE}$
+We can then prove that $\Sigma_4 \Sigma_5 \Sigma_6 q_{P4} \cdot \gamma_{S45} \cdot \gamma_{S46} \cdot q_{Q5} \cdot q_{Q6} \cdot T_{56}$. But
+in order to do so we must raise
+$\Pi_8 \Sigma_7 q_{P7} \cdot \gamma_{S78} + \overline{q_{Q8}}$
+to the fourth power. Each factor will then give (identifying $A$ with $8$)
+$\Pi_8 \Sigma_7 q_{P7} \cdot \gamma_{S78} \cdot q_{Q8} + T_{8B} \cdot T_{8C} \cdot T_{8D} \cdot T_{8E}$
+In one factor we identify $8$ with $B$, in another with $C$, in another with
+$D$ and in another with $E$. Since $T_{xx} \prec 0$, this gives
+$\Sigma_7 \Sigma_{7'} \Sigma_{7''} \Sigma_{7'''} q_{P7} \cdot \gamma_{S7B} \cdot q_{QB} \cdot \gamma_{S7'C} \cdot q_{QC} \cdot \gamma_{S7''D} \cdot q_{QD} \cdot \gamma_{S7'''E} \cdot q_{QE}$.
+We now multiply in the condition of constitution of $P$ and identifying
+$a$ with $7$ we get
+$\Sigma_7 \Sigma_{7'} \Sigma_{7''} \Sigma_{7'''} q_{P7} \cdot \begin{matrix} q_{P7'} \cdot q_{P7''} \cdot q_{P7'''} \\ (I_{7b} + I_{7c} + I_{7d}) \\ (I_{7'b} + I_{7'c} + I_{7'd}) \\ (I_{7''b} + I_{7''c} + I_{7''d}) \\ (I_{7'''b} + I_{7'''c} + I_{7'''d}) \end{matrix} \gamma_{S7B} \cdot \gamma_{S7'C} \cdot \gamma_{S7''D} \cdot \gamma_{S7'''E} \cdot q_{QB} q_{QC} q_{QD} \cdot q_{QE}$
+By the definition of identity $I_{7b} \prec \Pi_\gamma \overline{q_{\gamma 7}} + q_{\gamma b}$ and identifying
+$q_\gamma$ with $\gamma_S$ we have [del]$\gamma_{S8B} \prec \gamma_{S} \prec \gamma_{S7B} + \gamma_{S8B}$[/del] [ins]$\gamma_{S7B} \prec \gamma_{S7B} + \gamma_{S b B}$[/ins]. Then when this
+is multiplied by $\gamma_{S7B}$, it gives $\gamma_{S b B}$. [del]Thus, we get[/del] In like man-
+ner $q_{P7} \cdot I_{7b}$ gives $q_{Pb}$. Accordingly we get
+$(q_{Pb} \cdot \gamma_{S b B} + q_{Pc} \cdot \gamma_{S c B} + q_{Pd} \cdot \gamma_{S d B}) \cdot q_{QB}$
+$\cdot (q_{Pb} \cdot \gamma_{S b C} + q_{Pc} \cdot \gamma_{S c C} + q_{Pd} \cdot \gamma_{S d C}) \cdot q_{QC}$
+$\cdot (q_{Pb} \cdot \gamma_{S b D} + q_{Pc} \cdot \gamma_{S c D} + q_{Pd} \cdot \gamma_{S d D}) \cdot q_{QD}$
+$\cdot (q_{Pb} \cdot \gamma_{S b E} + q_{Pc} \cdot \gamma_{S c E} + q_{Pd} \cdot \gamma_{S d E}) \cdot q_{QE}$
+When this is developed it will give $81$ [del]terms[/del] aggregants. But it is not

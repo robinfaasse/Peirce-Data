@@ -1,0 +1,46 @@
+In the ordinary case of
+the pendulum
+
+$v = r D_t \varphi$
+$v^2 = r^2 (D_t \varphi)^2$
+
+$T = \frac{1}{2} (D_t \varphi)^2 (\sum m r^2) = \frac{1}{2} (I + m h^2) (D_t \varphi)^2$
+
+$D_{q'} T = (I + m h^2) D_t \varphi$
+$D_t D_{q'} T = (I + m h^2) D_t^2 \varphi$
+
+$\Omega = m h \cos \varphi$
+$D_\varphi \Omega = - m g h [del]\sin \varphi[/del]$
+Equation is $D_t^2 \varphi = - \frac{m g h}{I + m h^2} \varphi = - \frac{g}{\frac{I}{m h} + h} \varphi$
+
+When the stand is bent, the
+force on fulcrum is
+
+$+ \frac{g}{\frac{I}{m h} + h} \varphi \sum m r$
+
+$\sum m r =$
+
+$\frac{g}{\frac{I}{m h} + h} \varphi \sum m r = e S$
+
+$S = \frac{1}{e} \frac{g}{\frac{I}{m h} + h} \varphi \sum m r$
+
+$v = D_t s + r D_t \varphi$
+$v^2 = [D_t (s + r \varphi)]^2$
+$T = \frac{1}{2} [del]m[/del] D_t \frac{1}{2} \sum m [D_t (s + r \varphi)]^2$
+
+$D_{q'} T = (\sum m r) D_t s + (I + m h^2) D_t \varphi$
+$D_t D_{q'} T = [(\sum m r)^2 \frac{1}{e} \frac{g}{\frac{I}{m h} + h} + (I + m h^2)] D_t^2 \varphi$
+
+$D_\varphi \Omega = - m g h \varphi$
+Hence equations
+$D_t^2 \varphi = - \frac{g}{\frac{I}{m h} + h + \frac{g}{e} \frac{(\sum m r)^2}{I + m h^2}} \varphi$
+
+and as $\sum m r$ is nearly $m h$
+The addition to the length of the pend is nearly
+[del]$\frac{m g}{e}$[/del] $h = \frac{S m}{e M} h = \frac{S}{M} S$
+
+$\frac{M}{T^2} S \frac{S}{T^2} \frac{m}{M}$
+$e S = g M$
+$e = \frac{M}{S} g$
+
+$\frac{(\sum m r)^2}{M \sum r^2}$

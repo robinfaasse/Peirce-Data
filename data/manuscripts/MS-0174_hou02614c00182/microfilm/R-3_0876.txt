@@ -1,0 +1,21 @@
+[pn]No 174[/pn]
+
+[u]Rule for Division[/u].
+
+First, treat the divisor as follows:
+
+If its last figure is a zero strike this off and treat what remains as the divisor.
+
+If its last figure is a 5 multiply the whole by 2 and treat the product as the divisor.
+
+If its last figure is [del]even[/del] [ins]even[/ins] (2, 4, 6, or 8) multiply the whole by 5 and treat the product as the divisor.
+
+Repeat this treatment until a divisor is reached [ins]to[/ins] which these rules no longer apply.
+
+Second. [del]The last figure of the treated divisor[/del] [ins]By means of the table given below,[/ins] divide [del]37[/del] by the last figure of the treated divisor and call the last figure of the quotient, the quotient multiplier.
+
+[u]Table[/u]
+[del]Note.[/del] 1701 ÷ 1 = 1701
+1701 ÷ 3 = 567
+1701 ÷ [del]7[/del] [ins]7[/ins] = 243
+1701 ÷ 9 = 189

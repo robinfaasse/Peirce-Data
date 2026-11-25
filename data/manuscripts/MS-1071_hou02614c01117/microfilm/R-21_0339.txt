@@ -1,0 +1,59 @@
+$$\left(\frac{r}{R}\right)^2 + \left(\frac{z}{Z}\right)^2 = 1$$
+
+$$\frac{r dr}{R^2} + \frac{z dz}{Z^2} = 0$$
+
+$$\frac{\rho}{r} = \frac{d\rho}{\sqrt{dr^2 + dz^2}}$$
+
+$$\frac{d\rho}{\rho} = \frac{\sqrt{dr^2 + dz^2}}{r}$$
+
+$$\frac{d\rho}{\rho} = \frac{dr}{r}$$
+
+$$\left(1-u^2\right)^{\frac{1}{2}}$$
+
+[del]$\frac{1}{2}\left(1-u^2\right)^{-\frac{1}{2}} u$[/del]
+
+$$\frac{dz}{dr} = -\left(\frac{Z}{R}\right)^2 \frac{r}{z}$$
+
+$$= -\frac{Z}{R} \frac{r}{\sqrt{R^2-r^2}}$$
+
+[del]$1 +$[/del] $\left(\frac{dz}{dr}\right)^2 = \left(\frac{Z}{R}\right)^2 \frac{r^2}{R^2-r^2}$
+
+$$1 + \left(\frac{dz}{dr}\right)^2 = \frac{R^2\left(R^2-r^2\right) + Z^2 r^2}{R^2\left(R^2-r^2\right)}$$
+
+$$\frac{1 + \left(\frac{dz}{dr}\right)^2}{r^2} = \frac{R^2\left(\frac{R^2}{r^2}-1\right) + Z^2}{R^2\left(R^2-r^2\right)}$$
+
+$$\frac{\sqrt{1 + \left(\frac{dz}{dr}\right)^2}}{r} = \frac{\sqrt{R^2\left(\frac{R^2}{r^2}-1\right) + Z^2}}{r R \sqrt{\frac{R^2}{r^2}-1}} = \sqrt{\frac{1}{r^2} + \frac{\left(\frac{Z}{R}\right)^2}{\frac{R^2}{r^2}-1}}$$
+
+$$= \frac{\sqrt{\left(\frac{R}{r}\right)^2 - 1 + \left(\frac{Z}{R}\right)^2}}{\sqrt{R^2-r^2}} =$$
+
+$$\frac{z}{Z} = \sqrt{1-\left(\frac{r}{R}\right)^2}$$
+
+$$\left(\frac{r}{R}\right)^2$$
+
+$$\frac{r}{R^2} dr + \frac{\sqrt{1-\left(\frac{r}{R}\right)^2}}{Z} dz$$
+
+$$dz = -\left(\frac{Z}{R}\right)^2 \frac{r}{z} dr$$
+
+$$= -\left(\frac{Z}{R}\right)^2 \frac{r}{Z \sqrt{1-\left(\frac{r}{R}\right)^2}} dr$$
+
+$$\frac{z}{Z} = \sqrt{1-\left(\frac{r}{R}\right)^2} = -\frac{Z}{R} \frac{\frac{r}{R}}{\sqrt{1-\left(\frac{r}{R}\right)^2}} dr$$
+
+$$= -\frac{Z}{R} \tan\left(\text{arc sin } \frac{r}{R}\right) dr$$
+
+$$\frac{dz}{dr} = -\frac{Z}{R} \tan\left(\text{arc sin } \frac{r}{R}\right)$$
+
+$$\frac{dz}{dr} = -\left(\frac{Z}{R}\right)^2 \frac{r}{z}$$
+
+$$= -\left(\frac{Z}{R}\right)^2 \frac{r}{Z \sqrt{1-\left(\frac{r}{R}\right)^2}}$$
+
+$$= -\frac{Z}{R} \frac{r}{\sqrt{R^2-r^2}}$$
+
+$$\left(\frac{dz}{dr}\right)^2 = \left(\frac{Z}{R}\right)^2 \frac{r^2}{R^2-r^2}$$
+
+$$\sin^2 + \cos^2 = 1$$
+
+$$1 + \tan^2 = \frac{\cos^2 + \sin^2}{\cos^2} = \sec^2$$
+
+$$\frac{dr}{r} \sqrt{1 + \left(\frac{dz}{dr}\right)^2} = \sec \text{ [del]arc[/del] [ins]arc[/ins] \tan \left[ \frac{dz}{dr} \right] = \sec \text{ arc tan} \left[ -\frac{Z}{R} \frac{r}{\sqrt{R^2-r^2}} \right]$$
+
+$$= \sec \text{ arc tan} \left( -\frac{Z}{R} \tan \text{ arc sin } \frac{r}{R} \right)$$

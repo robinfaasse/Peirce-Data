@@ -1,0 +1,19 @@
+[u]CHAPTER THE SECOND. Of Addition.[/u]
+
+The most convenient rule is as follows:
+
+1[sup]st[/sup], Write the secundal expressions of the augend and its successive addends in [u]additory array[/u], that is, so that figures in the same secundal place are in the same vertical column.
+
+2[sup]nd[/sup], Change the places of the dots so that they are over the same secundal places in all the numerical expressions, by making the [u]k[/u] of each [ins]agree with[/ins] [del]that of[/del] the smallest [u]k[/u] and [u]k[/u]+1-[u]l[/u] for each the least common multiple of the [u]k[/u]+1-[u]l[/u] of all as given.
+
+3[sup]rd[/sup], Call the following operation the [u]Staple Process[/u], viz:
+
+i. Scrutinize the right hand most column of the array, and if need be the column next to the left of the column last scrutinized, until you find a column containing more 1s than one. Cancell these two.
+
+ii. If the column next to the left of a column in which one or more 1s have just been cancelled contains a 1, cancell one 1 in that column.
+
+But if that column does not contain a 1 insert a 1 in it and thereby bring the Staple Process to an end.
+
+Perform the staple process upon the [ins]circulate [del]periods[/del] of the[/ins] array again and again as long as any column contains more than one 1; and in doing this, if the rule requires a 1 to be inserted in a column to the left of the [u]k[/u] column, and therefore in the serious, [del]it[/del] [ins]the 1[/ins] is not only to be inserted in that column of the serious but also in the column of the circulate that is [u]k[/u]+1-[u]l[/u] places to the right of that column. If the final result is that there is one 1 in every column of the circulate, all these 1s are to be cancelled and a 1 is to be [del]placed[/del] [ins]inserted[/ins] in the last column of the serious.
+
+4[sup]th[/sup] Perform the staple process upon the serious of the array, modified as it may be by insertions of 1s [del]from[/del] [ins]by[/ins] the third operation. This operation & the third will

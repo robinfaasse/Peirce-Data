@@ -1,0 +1,32 @@
+[pn]1[/pn]
+
+... Attraction inversely as cube of distance
+
+Vis viva [del]$\frac{1}{2}(D_t x)^2 + \frac{1}{2}(D_t y)^2$[/del] [ins]$\frac{1}{2}(\underline{D_t x})^2 + \frac{1}{2}(\underline{D_t y})^2$[/ins]
+$= \frac{1}{2} \{ (\underline{D_t r \cos \theta})^2 + (\underline{D_t r \sin \theta})^2 \}$
+$= \frac{1}{2} \{ (\underline{D_t r \cdot \cos \theta} - r \sin \theta \cdot D_t \theta)^2 + (\underline{D_t r \sin \theta} + r \cos \theta \cdot D_t \theta)^2 \}$
+$= \frac{1}{2} \{ (\underline{D_t r})^2 + r^2 (\underline{D_t \theta})^2 \}$
+
+From Lagrange's Equations
+
+(1) $D_t^2 r - r (D_t \theta)^2 = - k r^{-3}$
+
+(2) $2 r D_t r \cdot D_t \theta + r^2 D_t^2 \theta = 0$
+
+The element of the path
+is $\sqrt{r^2 (d \theta)^2 + (dr)^2}$ [fig]triangle diagram[/fig]
+
+The perpendicular from centre to path is $(r+dr) \sin \arctan \frac{r d\theta}{dr}$
+$= (r+dr) \frac{1}{\sqrt{1 + \frac{r^2 (d\theta)^2}{(dr)^2}}} = \frac{r dr}{\sqrt{(dr)^2 + r^2 (d\theta)^2}}$
+$\therefore$ The element of the area is $\frac{1}{2} r dr$
+$= (r+dr) \frac{1}{\sqrt{1 + \frac{(dr)^2}{r^2 (d\theta)^2}}} = \frac{r (r+dr) d\theta}{\sqrt{r^2 (d\theta)^2 + (dr)^2}}$
+
+Element of area described is [del]$\frac{1}{2}$[/del] $\frac{1}{2} r^2 d\theta$
+Dividing (2) by $r^2 D_t \theta$ it becomes
+(21) [del]$D_t \log r^2 + D_t \log D_t \theta = 0$[/del] [ins]$D_t \log r^2 + D_t \log D_t \theta = 0$[/ins] on
+(22) $\log \{ r^2 D_t \theta \} = [del]\text{A}[/del] \log A$
+
+[marginalia]
+Continued
+p 5
+[/marginalia]

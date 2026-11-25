@@ -1,0 +1,27 @@
+[date]1899 Jan 24[/date]
+
+$$\theta_2 = [del]2[/del](2\theta_1 - \theta_0) + \frac{g}{E} \frac{N \sin \theta_N}{\sin(\theta_N - \theta_0)} \cos(\theta_1 - \theta_0) - \frac{g}{E} \cos \theta_1$$
+
+$$\theta_{n+1} = 2[del](\theta_n - \theta_{n-1})[/del] + \frac{g}{E} \frac{N \sin \theta_N}{\sin(\theta_N - \theta_0)} \cos(\theta_n - \theta_0) - \frac{g}{E} n \cos \theta_n$$
+
+If the $\theta$'s are so small that their squares can be neglected
+
+$$\theta_{n+1} = 2[del]\theta_n[/del] - \theta_{n-1} + \frac{g}{E} \frac{N \theta_N}{\theta_N - \theta_0} - \frac{g}{E} n$$
+
+$$\theta_{n+1} - 2\theta_n + \theta_{n-1} = \frac{g}{E}$$
+
+$$\theta_{n+2} - 2\theta_{n+1} - \theta_n = \frac{g}{E} \frac{(N-1)\theta_N + \theta_0}{\theta_N - \theta_0} - \frac{g}{E} n$$
+
+$$\Delta \theta_n = C + \frac{g}{E} \frac{(N-1)\theta_N + \theta_0}{\theta_N - \theta_0} n - \frac{1}{2} \frac{g}{E} n(n-1)$$
+
+$$\theta_n = [del]\theta_0[/del] + C n + \frac{1}{2} \frac{g}{E} \frac{(N-1)\theta_N + \theta_0}{\theta_N - \theta_0} n(n-1) - \frac{1}{6} \frac{g}{E} n(n-1)(n-2)$$
+
+$$\Delta n(n-1) = (n+1)n - n(n-1) = 2n$$
+
+$$\Delta n(n-1)(n-2) = (n+1)n(n-1) - n(n-1)(n-2) = 3n(n-1)$$
+
+$$\theta_N = \theta_0 + C N + \frac{1}{2} \frac{g}{E} \frac{(N-1)\theta_N + \theta_0}{\theta_N - \theta_0} N(N-1) - \frac{1}{6} \frac{g}{E} N(N-1)(N-2)$$
+
+$$C = \frac{\theta_N - \theta_0}{N} - \frac{1}{2} \frac{g}{E} \frac{(N-1)^2 \theta_N + (N-1)\theta_0}{\theta_N - \theta_0} - \frac{1}{6} \frac{g}{E} (N-1)(N-2)$$
+
+$$= \theta_N \left( \frac{1}{N} - \frac{g}{2E} \frac{(N-1)^2}{\theta_N - \theta_0} \right) - \theta_0 \left( \frac{1}{N} + \frac{g}{2E} \frac{N-1}{\theta_N - \theta_0} \right) - \frac{1}{6} \frac{g}{E} (N-1)(N-2)$$

@@ -1,0 +1,17 @@
+[pn]Basic Rules
+37[/pn]
+
+"Tedious"
+My proof, that from the definitions of [del]addition[/del] [ins]aggregation[/ins] and [del]compo-[/del]
+[del]sition[/del] that ([del]a[/del] [ins]a[/ins]+b)[del].[/del]c is transformable into a+b.c is as
+follows:
+
+If (a+b).c is not transformable into a+b.c, let m be
+a graph transformable into (a+b).c but not into a+b.c
+
+Since m is transformable into (a+b).c, it follows from
+the definition of composition that
+(1) m is transformable into a+b
+(2) m is transformable into c
+
+But because

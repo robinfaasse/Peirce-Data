@@ -1,0 +1,40 @@
+[del][fig]crossed out text[/fig][/del]
+
+[del]\frac{1}{2}[/del]
+
+[del]\frac{1}{2}[/del]
+
+\frac{1}{2\cdot 3}
+
+\frac{1}{2\cdot 3\cdot 4}
+
+\begin{align*}
+&(1+x)^{\frac{1}{2}} \\
+&\frac{1}{2}(1+x)^{-\frac{1}{2}} \\
+-&\frac{1}{4}(1+x)^{-\frac{3}{2}} \\
++&\frac{3}{8}(1+x)^{-\frac{5}{2}} \\
+-&\frac{15}{16}(1+x)^{-\frac{7}{2}} \\
+[del]*[/del]+&\frac{105}{32}(1+x)^{-\frac{9}{2}}
+\end{align*}
+
+[del]\frac{1}{2\cdot 3\cdot 4\cdot 5}[/del]  \frac{\frac{5\cdot 3\cdot 7}{256}}{}
+
+1 + \frac{1}{2}x - \frac{1}{8}x^2 + \frac{1}{16}x^3 \qquad 21
+
+1 - \frac{1}{2}i^2 - \frac{1}{8}i^4 - \frac{1}{16}i^6 \qquad \frac{\frac{32}{8}}{256}
+
+\begin{align*}
+&(1+x)^{-3} \\
+\frac{1}{2} \quad &-3(1+x)^{-4} \\
+\frac{1}{2\cdot 3} \quad &+12(1+x)^{-5} \\
+\frac{1}{2\cdot 3\cdot 4} \quad &-60(1+x)^{-6} \\
+\frac{1}{2\cdot 3\cdot 4\cdot 5} \quad &+360(1+x)^{-7}
+\end{align*}
+
+[del]\rightarrow \frac{3}{2} *[/del]
+
+1 - 3x + 6x^2 - 10x^3 + 15x^4
+
+1 + 3i^2 + 6i^4 + 10i^6 + 15i^8
+
+i^3 + 3i^5 + 6i^7 + 10i^9 + 15i^{11}

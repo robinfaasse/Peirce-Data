@@ -1,0 +1,16 @@
+$$D^0 \quad \sqrt{A+x} = (A+x)^{\frac{1}{2}}$$
+$$D^1 = \frac{1}{2} \frac{1}{\sqrt{A+x}} = \frac{1}{2} (A+x)^{-\frac{1}{2}}$$
+$$D^2 \qquad\qquad = -\frac{1}{4} (A+x)^{-\frac{3}{2}}$$
+$$D^3 \qquad\qquad = +\frac{3}{8} (A+x)^{-\frac{5}{2}}$$
+$$D^4 \qquad\qquad = -\frac{3\cdot 5}{16} (A+x)^{-\frac{7}{2}}$$
+
+$$\sqrt{A+x} = \sqrt{A} + \frac{1}{2} \frac{x}{\sqrt{A}}$$
+$$\qquad\quad = A^{\frac{1}{2}} + \frac{1}{2} A^{-\frac{1}{2}} x - \frac{1}{8} A^{-\frac{3}{2}} x^2 + \frac{1}{16} A^{-\frac{5}{2}} x^3 - \frac{5}{128} A^{-\frac{7}{2}} x^4$$
+
+$$x = \frac{1}{2c} \sqrt{2\beta^2 c^2 - \beta^4 - c^4 + 2\alpha^2 c^2 + 2\alpha^2 \beta^2 - \alpha^4}$$
+$$\qquad\qquad\qquad\qquad\qquad \alpha^2 (2\beta^2 + 2c^2 - \alpha^2)$$
+$$= \frac{1}{2c} \sqrt{2\beta^2 c^2 - \beta^4 - c^4}$$
+$$[del]2cx =[/del] \quad [del]\frac{\beta^2 - c^2}{2c}[/del] \quad [del]\frac{1}{2} \frac{2}{\beta^2 - c^2}[/del] \alpha^2 (2\beta^2 + 2c^2 - \alpha^2)$$
+
+$$[del]2[/del] c x = \sqrt{4\beta^2 c^2 - (\alpha^2 - \beta^2 - c^2)^2}$$
+$$\qquad = 2\beta c \sqrt{1 - \frac{(\alpha^2 - \beta^2 - c^2)^2}{4\beta^2 c^2}}$$

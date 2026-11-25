@@ -1,0 +1,24 @@
+This aggregate equals 1 if of the components any one
+equals 1 while the rest are either 1 or 0. Hence, it is
+to be interpreted as asserting that some one, [ins]at least,[/ins] [del]or more,[/del]
+of the propositions aggregated is true.
+
+We can, if we choose, identify this "logical addition"
+with mathematical addition, by assuming as the fundamen-
+tal equation that transformation of Boole's quadratic
+which results from substituting [u]e[sup]$\xi$[/sup][/u] for [u]x[/u]. This gives
+e[sup]2$\xi$[/sup] = e[sup]$\xi$[/sup]
+or
+2$\xi$ = $\xi$.
+This holds for $\xi$ = 0 and also for $\xi$ = log $\infty$. It is to
+be remarked that while $\infty$ + $\infty$ is indeterminate for
+ordinary infinity, it is not so for logarithmic infinity[del],[/del][ins].[/ins]
+[del]unless we hold that e[sup]$\infty$[/sup] is indeterminate. For e[sup]$\infty$[/sup] + e[sup]$\infty$[/sup][/del]
+[del]e[sup]$\infty$[/sup] $\cdot$ e[sup]$\infty$[/sup] = 0 $\times$ 0.[/del] For logarithmic infinity, [ins]considered as an [del]imaginary[/del] [ins]ordinary[/ins] quantity,[/ins] has a determinate
+argument. Namely, the logarithm of [del]infinity[/del] [ins]infinity[/ins] is real and positive
+and that of zero is real and negative. Consequently, e[sup]x[/sup]
+is determinate when x is logarithmic infinity. Hence,
+as 0 $\times$ 0 is determinate, so is e[sup]-log$\infty$[/sup] e[sup]-log$\infty$[/sup] = e[sup]-(log$\infty$ + log$\infty$)[/sup].
+Hence log$\infty$ + log$\infty$ is determinate. Thus we have
+log $\infty$ + log $\infty$ = log $\infty$          0 + log $\infty$ = log $\infty$
+0 + 0 = 0.

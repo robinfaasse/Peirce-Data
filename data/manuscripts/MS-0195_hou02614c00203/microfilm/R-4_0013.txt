@@ -1,0 +1,38 @@
+[pn]HUG 1620.40[/pn]
+
+[fig]Circle with radius vector[/fig]  $\frac{d^2r}{dt^2} =$
+
+[del]$D_t$[/del] $D_t(D_t r) =$
+
+$\frac{1}{2} \left[ (\frac{dx}{dt})^2 + (\frac{dy}{dt})^2 \right]$  $\frac{k}{\sqrt{x^2+y^2}}$
+
+$\frac{d^2x}{dt^2} = $ [fig]Two parallel lines with a transversal[/fig] $\frac{kx}{\sqrt{x^2+y^2}^3}$  [fig]Line segment[/fig] [fig]Right triangle with angle theta[/fig] $r^{-1}\sin\theta$
+
+$\frac{d^2x}{dt^2} = -\frac{kx}{\sqrt{x^2+y^2}^3}$  $\log \sqrt{x^2+y^2}$
+
+$\frac{1}{2} D_x (D_t x)^2 = -\frac{kx}{x^2+y^2}$  $\frac{x}{\sqrt{x^2+y^2}}$  $x = r\cos\theta$
+$y = r\sin\theta$
+
+$\frac{1}{2} D_y (D_t y)^2 = -\frac{ky}{x^2+y^2}$  $D_t^2(r\cos\theta) = r^{-1}\cos\theta$
+$D_t^2(r\sin\theta) = -r^{-1}\sin\theta$
+
+$D_t^2 \log x = \frac{2}{x}$  $D_t^2(ax+by)$  $\frac{x+iy}{x-iy}$
+$\frac{x^2+y^2}{}$
+
+$D_t \log x = \frac{x}{2}$
+
+$D_{\log x^2} (D_t x)^2 = \frac{kx^2}{x^2+y^2}$  $D_t^2(x+iy) = -\frac{k}{x-iy}$
+
+[del]$D_t$[/del] $D_t r\cos\theta = D_t r \cdot \cos\theta - D_t\theta \cdot r\sin\theta$
+
+$D_t^2 r\cos\theta = D_t^2 r \cos\theta - 2 D_t r \cdot D_t\theta \sin\theta$
+$- D_t^2\theta \cdot r\sin\theta$
+$- (D_t\theta)^2 r\cos\theta$
+
+$\sin\theta D_t^2(r\cos\theta) + \cos\theta D_t^2(r\sin\theta)$
+$= D_t^2 r \cos 2\theta$
+
+$D_t r\sin\theta = D_t r \sin\theta + D_t\theta \cdot r\cos\theta$
+$D_t^2(r\sin\theta) = D_t^2 r \sin\theta + 2 D_t r \cdot D_t\theta \cos\theta$
+$+ D_t^2\theta \cdot r\cos\theta$
+$- (D_t\theta)^2 r\sin\theta$

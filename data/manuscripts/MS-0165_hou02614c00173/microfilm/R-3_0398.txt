@@ -1,0 +1,42 @@
+[pn]151[/pn]
+
+similar way. Thus, by choosing a suitable multiplier for
+each equation, the sum of the three, after multiplication
+by those multipliers, would contain no unknown but $y$.
+
+In fact, to make our ideas still more definite, we have
+only to multiply the first equation by $6$, the second by $-7$,
+and the third by $5$ to get this result, as follows:
+[marginalia]
+($6 \times 1^{\text{st}}$)
+[del]($6 \text{ times } 1^{\text{st}}$)[/del]
+($-7 \times 2^{\text{nd}}$)
+($5 \times 3^{\text{rd}}$)
+[/marginalia]
+$\begin{aligned}
++18x - 12y + 6z &= +36 \\
+-28x + 7y + 14z &= +49 \\
++10x + 15y - 20z &= -35 \\
+\hline
+\text{\underline{Sum}} \qquad\qquad 0x + 10y + 0z &= +50
+\end{aligned}$
+
+Suppose, then, we add a fourth equation,
+$$y = y_1$$
+If we add in $-10$ times this, we have
+$$0x + 0y + 0z = -10y_1 + 50.$$
+
+Let us go back to the original equations, adding to each the
+negative of its second member, and appending the above
+fourth equation. We have
+$$\begin{aligned}
++3x - 2y + 1z - 6 &= 0, \\
++4x - 1y - 2z + 7 &= 0, \\
++2x + 3y - 4z + 7 &= 0, \\
++0x + 1y + 0z - y &= 0.
+\end{aligned}$$
+
+We can express precisely what these equations express,
+by a more luminous notation. Namely, we write down
+the coefficients and absolute terms, without the [del]unknown[/del] quantities
+(except the second $y$ of the fourth equation, for which we imagine the value

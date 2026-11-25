@@ -1,0 +1,27 @@
+FL 80
+
+The following are the most important formulae:
+$\Pi_{u} \Pi_{v} \Pi_{w}$
+
+$u,v,w, u+v\sim v+u w+u\sim u+w. u,v,w, uv\sim vu wu\sim uw.$
+$" \enspace " \enspace " \enspace u+w+v\sim v+u+w w+u+v\sim v+w+u. " \enspace " \enspace " \enspace uvw\sim vwu wuv\sim vuw.$
+$" \enspace " \enspace " \enspace \overline{v}\times \overline{u} " \enspace " \enspace " \enspace \breve{v} \times \breve{u}.$
+$(u \cdot v) \cdot w = u \cdot (v \cdot w) (uv)w = u(vw)$
+$(u \dagger v) \dagger w = u \dagger (v \dagger w) (u \dagger v) \dagger w = u \dagger (v \dagger w).$
+$(u \dagger v) \cdot w \prec u \dagger v \cdot w w \cdot (u \dagger v) \prec w \cdot u \dagger v (u \dagger v) w \prec u \dagger v w w(u \dagger v) \prec w u \dagger v$
+$(u \cdot v) w \prec u w \cdot v w w(u \cdot v) \prec w u \cdot w v$
+$(u \dagger v w) \dagger (u \dagger v) (u \dagger v) \dagger w$ [del]$\ldots$[/del] $(w \dagger u) + (w \dagger v) \prec w \dagger (u \dagger v).$
+$(u \dagger v) w = u w \dagger v w w(u \dagger v) = w u \dagger w v (u \cdot v) \dagger w = (u \dagger w) \cdot (v \dagger w) w \dagger (u \cdot v) = \binom{w \dagger u}{w \dagger v}.$
+$\overline{\overline{u}} = u \breve{\breve{u}} = \breve{\breve{u}} \breve{\tilde{u}} = u$
+$\overline{u \cdot v} = \overline{u} \dagger \overline{v} \overline{u \dagger v} = \overline{u} \cdot \overline{v} \breve{u v} = \breve{v} \dagger \breve{u} \breve{u \dagger v} = \breve{v} \breve{u}$
+$\breve{u \cdot v} = \breve{v} \dagger \breve{u} \breve{u \dagger v} = \breve{v} \cdot \breve{u} \widetilde{u v} = \widetilde{u} \dagger \widetilde{v} \widetilde{u \dagger v} = \widetilde{u} \widetilde{v}$
+to $\Big( \begin{aligned} u+0 &= 0+u = u \\ u \cdot \mathrm{V} &= \mathrm{V} \cdot u = u \end{aligned} u \dagger T = T \dagger u = u$
+$\cdot u 1 = 1 u = u$
+$T \cdot u \times T u \cdot T \times T 0 u \times 0 u 0 \times 0$
+$1 \times 1+u 1 \vee u+1 \mathrm{V} \times u \dagger \mathrm{V} \mathrm{V} \times \mathrm{V} \dagger u$
+$u \cdot \overline{u} \times 0 u \widetilde{u} \times T$
+$\mathrm{V} \times u \dagger \overline{u} 1 \times u \dagger \breve{u}$
+$u \cdot 1 \prec u \cdot \widetilde{\breve{u}} \cdot 1 u \mathrm{V} \times u \breve{\tilde{u}} \mathrm{V} etc,$
+
+The non-relative operations are alone commutative, and for them
+alone [del]additio[/del] $u+v \cdot w = (u+v) \cdot (u+w).$

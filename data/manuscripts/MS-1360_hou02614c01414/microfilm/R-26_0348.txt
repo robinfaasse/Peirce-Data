@@ -1,0 +1,25 @@
+$$\int \frac{ds}{\sqrt{1 + \frac{\left(F_s - \omega_H - \delta\omega_H\right)^2}{\left(Q + \delta Q\right)^2}}}$$
+
+$$= \int \frac{ds}{\sqrt{1 + \frac{\left(F_s - \omega_H\right)^2 - 2\left(F_s - \omega_H\right)\left(\delta\omega_H + \frac{dQ}{Q}\right)}{Q^2\left(1 + \frac{\delta Q}{Q}\right)^2}}}$$
+
+$$= \int \frac{ds}{\sqrt{\left(1 + \frac{\left(F_s - \omega_H\right)^2}{Q^2}\right) \left[ 1 - 2 \frac{\left(F_s - \omega_H\right)}{1 + \frac{\left(F_s - \omega_H\right)^2}{Q^2}} \left(\delta\omega_H + \frac{dQ}{Q}\right) \right]}}$$
+
+$$\frac{F_s - \omega_H - \delta\omega_H}{Q\left(1 + \frac{\delta Q}{Q}\right)}$$
+
+$$\frac{p + q}{p\left(1 + \frac{q}{p}\right)}$$
+
+$$\frac{F_s - \omega_H}{Q} - \frac{\delta\omega_H - \left(F_s - \omega_H\right)\frac{\delta Q}{Q}}{Q}$$
+
+$$\omega_H = Q \tan$$
+
+$$\int \frac{ds}{\sqrt{1 + \left(\frac{F_s - \omega_H}{Q}\right)^2}} \left[ 1 + \frac{\left(F_s - \omega_H\right) ds}{\left(1 + \frac{F_s - \omega_H}{Q}\right)^{\frac{3}{2}}} \left(\delta\omega_H + \frac{\delta Q}{Q}\right) \right]$$
+
+[fig]Sketch of a face in profile[/fig]
+
+[del]$\int \cos \tau$[/del] $d\tan\tau = \sec^2\tau \cdot d\tau$
+
+$\sin\tau \cdot \cos^2\tau \cdot d\tan\tau$
+
+$\omega_H = -Q \tan\tau_0$
+
+[fig]Three crescent-shaped curves[/fig]

@@ -1,0 +1,20 @@
+[u]Syllabus of the Elements of Trigonometry.[/u]
+
+[u]Art 1[/u] [u]Definition of $\sin z$.[/u]
+$\sin z$ is a function of $z$ having the following properties:
+$1^{\text{st}}$, For each value of $z$, real or imaginary, $\sin z$ has a single value.
+$2^{\text{nd}}$, The same general formula for $\sin (c+z)$ in terms of $c$ and $z$ holds whether $c$ be real or imaginary.
+$3^{\text{rd}}$, There is a constant quantity, $\pi$ such that
+$\sin (z \pm \pi) = \sin (-z)$.
+$4^{\text{th}}$, There are no values of $z$ whose sines are equal except those that are deducible from the third property and there is some value of $z$ which satisfies the equation
+$\sin z = a + bi$
+whatever the value of $a + bi$.
+$5^{\text{th}}$, $\sin 0 = 0$.
+$6^{\text{th}}$, $\sin \infty = \infty$.
+$7^{\text{th}}$, $\sin \frac{\pi}{2} = 1$.
+
+[u]Art 2[/u] From the third property it follows that the equation
+$\sin z = \sin c$
+is satisfied only by
+$z = 2N\pi + c$ or $z = 2N\pi + \pi - c$
+where $N$ is any whole number, positive or negative.

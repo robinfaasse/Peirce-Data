@@ -1,0 +1,33 @@
+[u]3 copulas combined[/u]
+
+[u]III[/u] $(a \prec b \prec c) \prec d$     $a \bar{b} \bar{c} + d$
+
+[u]III[/u] $\prec$ [u]II[/u]
+
+[u]IV[/u] $((a \prec b) \prec c) \prec d$     $(\bar{a} + b) \bar{c} + d$
+
+[u]III[/u] $\prec$ [u]IV[/u]
+
+$(a \prec b) \prec c \prec d$     $a \bar{b} + \bar{c} + d$
+
+[u]IV[/u] $\prec$ [u]II[/u]
+
+This is a distributive principle. To see what it is in general, consider
+
+$\{ [ (a \prec b) \prec c \prec d ] \prec (e \prec f) \prec g \prec h \} \prec [ (i \prec j) \prec k \prec l ] \prec (m \prec n) \prec o \prec p$
+
+$p + \bar{o} + \bar{n} m + \bar{l} k (j + \bar{i}) + \bar{h} g (f + \bar{e}) ( [del]d[/del] \bar{c} + \bar{b} a)$
+
+$\bar{l} k j + \bar{i}$     $\bar{h} g f + \bar{e}$
+$\bar{l} (j + \bar{i} k)$     $\bar{h} (f + g \bar{e})$
+$\bar{l} j + k \bar{i}$     $\bar{h} f + g \bar{e}$
+
+$\bar{h} g (f + \bar{e} d + \bar{c} + \bar{b} a)$
+$\bar{h} g (d + \bar{c} (f + \bar{e}) + \bar{b} a)$
+$\bar{h} g (d + \bar{c} + \bar{b} a (f + \bar{e}))$
+$\bar{h} g ([del]d[/del] + \bar{e} + f \bar{c} + \bar{b} a)$
+$\bar{h} g (d + \bar{e} + \bar{c} + \bar{b} a f)$
+
+$i \prec (j \prec k \prec l) \prec (m \prec n) \prec o \prec p$
+$\{ [ (k \prec i) \prec j ] \prec l \}$
+$(k \prec i) \prec (j \prec l)$

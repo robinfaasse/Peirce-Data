@@ -1,0 +1,59 @@
+[pn]R[/pn]
+
+This will be found by far the simplest method of calculating a circulating decimal.
+
+Every [del]rational[/del] [ins]expression of a[/ins] fraction [del]expres[/del] in decimals must end in a circulating decimal whose period embraces a number of decimal places which is a divisor of [del]one less than[/del] [ins]the totient of[/ins] the [del]numerator[/del] [ins]denominator[/ins] of the fraction. This is substantially Fermat's theorem. If the [del]circulating decimal is[/del] [ins]places of the circulating decimal are[/ins] one less than the denominator (which of course, only happens when that is prime) the different multiples less than 1 are the different arrangements of the circulating decimal. Otherwise, there is some number of circulating decimals whose different arrangements end the different multiples. These are matters well known; so that I do not stop to prove them.
+
+The fractions of denominator not greater than 30 and values not greater than 1 are:
+
+$\frac{1}{30} = .\dot{0}\dot{3}$
+
+$\frac{1}{29} = .\dot{0}34482758620689655172413793\dot{1}$
+
+$\frac{1}{28} = .\dot{0}357142\dot{8}$
+
+$\frac{1}{27} = .\dot{0}3\dot{7}$
+
+$\frac{1}{26} = .\dot{0}38461\dot{5}$
+
+$\frac{1}{25} = .04\dot{0}\dot{0}$
+
+$\frac{1}{24} = .041\dot{6}\dot{6}$
+
+$\frac{1}{23} = .\dot{0}43478260869565217391\dot{3}$
+
+$\frac{1}{22} = .0\dot{4}\dot{5}$
+
+$\frac{1}{21} = .\dot{0}4761\dot{9}$
+
+$\frac{1}{20} = .05\dot{0}\dot{0}$
+
+$\frac{1}{19} = .\dot{0}5263157894736842\dot{1}$
+
+$\frac{1}{18} = .0\dot{5}\dot{5}$
+
+$.0\dot{3}\dot{3}$
+
+$.0\dot{0}11494252873563218390804597\dot{7}$
+
+$.00\dot{1}231527093596059113300492610837438423645320197044334975369458128082177339901477832\dot{5}$
+
+$.0\dot{0}13227513227513227513227\dot{5}$
+
+$.0014245\dot{0}$
+
+$.00\dot{1}5384\dot{6}$
+
+$.001\dot{6}\dot{6}$
+
+$.001\dot{8}11594202898550724637\dot{6}$
+
+$.00\dot{1}9762845849802371541\dot{5}$
+
+$.0\dot{0}2164\dot{5}$
+
+$.00\dot{2}3809\dot{5}$
+
+$.00\dot{2}6315789473684210\dot{5}$
+
+$.00\dot{2}923976608187134\dot{5}$

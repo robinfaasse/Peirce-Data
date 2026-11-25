@@ -1,0 +1,22 @@
+[pn]17[/pn] By this and (A)
+If $i \hat{\subset} a$, then $e$.
+By this and (D)
+Either $e$ or $(i \hat{\subset} a) \hat{\subset} e$.
+
+We have thus proved that if both $i$ and $a \hat{\subset} e$, we get this result.
+But this is also true if $e$ is true. Hence, it is true if either $e$ or
+both $i$ and $a \hat{\subset} e$. Now from this, with (C), we have
+$(i \hat{\subset} a) \hat{\subset} e$
+Q.E.D.
+
+[u]Corollary 6[/u]. Hence, [u]à fortiori[/u], if both $a \hat{\subset} e$ and either $i$ or $e$,
+then $(i \hat{\subset} a) \hat{\subset} e$.
+
+[u]Corollary 7[/u]. Hence, if $a \hat{\subset} e$ then $(i \hat{\subset} a) \hat{\subset} (i \hat{\subset} e)$. For, by Theorem I,
+if $a \hat{\subset} e$ [del]and[/del] then if $i$ then $(i \hat{\subset} a) \hat{\subset} e$; or by [del]This Corollary[/del] [ins]Corollary 6[/ins], if $a \hat{\subset} e$ then
+$i \hat{\subset} ((i \hat{\subset} a) \hat{\subset} e)$; or by Theorem II, if $a \hat{\subset} e$, then $(i \hat{\subset} a) \hat{\subset} i \hat{\subset} e$.
+
+[u]Corollary 8[/u]. [del]From Corollary 7[/del], by Theorem II, if $i \hat{\subset} a$ and $a \hat{\subset} e$,
+then $i \hat{\subset} e$.
+
+[u]Corollary 9[/u]. From Corollary 8, we have, if $i \hat{\subset} a$, then $(a \hat{\subset} e) \hat{\subset} (i \hat{\subset} e)$.

@@ -1,0 +1,15 @@
+839
+
+$$u_{x+1, y+1} = u_{x+1, y} + u_{x, y+1}$$
+
+$$E_y \Delta_x u = E_x y$$
+
+$$u \quad E_x - 1 \quad \Delta_x \Delta_y u_{x, y} = u_{x, y}$$
+
+$$\Delta_x a u_{x, y} = u_{x, y}$$
+
+$$a E = (a+1) \Phi y + \Phi (y-1) + \Phi (y-2) + \Phi (y-3)$$
+
+$$E = (1 + \frac{1}{a})$$
+
+$$u_{x, y} = (1 + \Sigma_y) \Phi y$$

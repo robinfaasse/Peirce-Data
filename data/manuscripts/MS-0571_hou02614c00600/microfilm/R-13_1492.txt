@@ -1,0 +1,9 @@
+[pn](say 5 and 2)[/pn] [pn]13[/pn]
+
+Any two numbers whatever [del]might[/del] [ins]be[/ins] chosen for [u]u[/u] and [u]v[/u], [del]the numbers of truth[/del] the representatives of the [del]true[/del] [ins]false[/ins] and the [del]false[/del] [ins]true[/ins]; though there is some convenience in making [u]v[/u] the larger. [del]We might, for instance, take v=5 and u=2.[/del] Then, the principle of contradiction is satisfied by these being different numbers; for a number, [ins][u]x[/u],[/ins] cannot at once [del]be[/del] equal to 5 and to 2, and therefore the proposition represented by [u]x[/u] cannot be at once true and false. But, [ins]in order[/ins] to satisfy the principle of excluded middle, that [ins]every[/ins] [del]a[/del] proposition is either true or false, every letter, [u]x[/u], signifying a proposition, must, considered as a number, be supposed subject to a quadratic equation whose roots are [u]u[/u] and [u]v[/u]. In short, we must have
+
+([u]x[/u] - [u]u[/u])([u]v[/u] - [u]x[/u]) = 0.
+
+Since the product forming the left hand member of this equation vanishes, one of the factors must vanish. So that either [u]x[/u] - [u]u[/u] = 0 and [u]x[/u] = [u]u[/u], or [u]v[/u] - [u]x[/u] = 0 and [u]x[/u] = [u]v[/u].
+
+We have here, already, an algebra sufficient for many logical purposes. For example,

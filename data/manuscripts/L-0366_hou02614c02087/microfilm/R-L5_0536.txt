@@ -1,0 +1,32 @@
+[marginalia]
+1909
+[date]July 1[/date]
+[u]7[/u]
+[/marginalia]
+
+valves a continued product of successive whole numbers
+and every such product is of the form [ins]$\frac{m!}{n!}$[/ins] where $m$
+and $n$ are [ins]positive[/ins] whole numbers and $m!$ denotes the product of
+all the whole numbers from 1 up to and including $m$; and $n!$
+has the corresponding relation to $n$. Now when these numbers are
+so large as 270, and [del]one is nearly as la[/del] [ins]one of these numbers[/ins] $m$ and $n$ is nearly
+as large as the other, it would be intolerably laborious to per-
+form the multiplications, especially when considering that
+probabilities must in fact be but roughly known, so far as
+they relate to expectation, except in highly artificial circum-
+stances (as in throwing dice). Accordingly, you should in
+such case avail yourself of what is known as Stirling's
+formula, which though only approximate, not mathematically exact, yet comes billions of times nearer than there
+is any need of in probabilities. This formula is
+$\log m! = \frac{1}{2} \log 2\pi + (m + \frac{1}{2}) \log m + \log e (-m + \frac{B_1}{2m} - \frac{B_3}{4!m^3} + \frac{B_5}{6!m^5} - \frac{B_7}{8!m^7}$
+[del]All these logs are ordinary logarithms.[/del] [ins]$+ \frac{B_9}{10!m^9} - \text{etc.}$[/ins])
+where $\log 2\pi = 0.7981798683581149$ ([del]of course 5 places is[/del] [ins]all you need use[/ins])
+$\log e = 0.43429448190325182765$
+$\log \log e = -0.3622156887 = 9.6377843113$
+$B_1 = \frac{1}{6}$ $B_3 = \frac{1}{30}$ $B_5 = \frac{1}{42}$ $B_7 = \frac{1}{30}$ $B_9 = \frac{5}{66}$ $B_{11} = \frac{691}{2730}$
+
+You had better set down $\log m$ and multiply it at once by $(2m+1)$
+and then add $\log 2\pi$ and divide the sum by 2. Call that A
+[del]Then write down $\log \log e$ and add to it $\log m$. The sum is[/del] [ins]$\log \log e$[/ins] [ins]$\log e$ is $0.43429448$[/ins]
+Then, unless $m$ is very large (over 1000) multiply [del]$0.36221569$[/del]
+by $m$ and subtract the product from A. Call this your first Approximation

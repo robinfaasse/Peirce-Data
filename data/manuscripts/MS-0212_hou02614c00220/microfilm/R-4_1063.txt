@@ -1,0 +1,30 @@
+[marginalia]
+[pn]Trade Secret
+3[/pn]
+[/marginalia]
+
+The true value is 0.741937344729, so that [del]the best of[/del] the [del]three[/del] approximations of the [del]a[/del] series has an error of 0.114245384 or about one fifth of the quantity. The second series of approximations will be
+
+$$\begin{array}{ccc}
+b & \Delta b & \Delta^2 b \\
+0.70968 & +0.04128 & -0.05432 \\
+0.75096 & -0.01304 & +0.01909 \\
+0.73792 & +0.00605 & -0.00933 \\
+0.74397 & -0.00328 & +0.00536 \\
+0.74069 & +0.00208 & -0.00351 \\
+0.74277 & -0.00143 & \\
+0.74134 & &
+\end{array}$$
+
+The error of the fifth of this series is only $-0.00124246$. The third series of approximations will be
+
+$$\begin{array}{ccc}
+c & \Delta c & \Delta^2 c \\
+0.74105 & +0.00100 & -0.00122 \\
+0.74205 & -0.00022 & \\
+0.74183 & &
+\end{array}$$
+
+The error of the last is only $-0.000110$. Finally the fourth series of approximations is represented by the single value
+
+$d = 0.74188$, the error of which is only $-0.000061$

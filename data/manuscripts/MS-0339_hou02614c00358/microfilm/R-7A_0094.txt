@@ -1,0 +1,46 @@
+[pn]84[/pn]
+
+[del]x + y = y + x[/del]
+
+[del]o[/del] $(a^b)^c = a^{bc}$
+$ab.c = a.bc$
+
+$a^b.a^c = a^{[del]b+c[/del] [ins]b+c[/ins]}$  $x \prec y$  $y \prec z$
+$a^c b^c$  $x \prec y$  $x \prec z$  $x \prec yz$
+$(x \prec y) \prec (x \prec z) \prec x \prec yz$
+
+[del]a \prec b[/del]
+$a \prec a^b$  $y \prec (x \prec y)$
+
+[del]x \prec y[/del]  $a^{ax}$  $a^{xa}$
+
+$ab.c = a.bc$  $ab = ba$
+$(a^b)^c = a^{(bc)}$
+
+[del]a^b[/del]  $a^b c \therefore a^{b^c} \therefore (a^b)^{(c^b)}$
+[del](ab)^c[/del]  $ab^c \therefore (ab)^c \therefore (a^c)^{(ab)}$
+
+[(a \prec b) \prec (c \prec d)] \prec [(e \prec f) \prec (g \prec h)]
+
+$(\bar{a} + b)c\bar{d} + e\bar{f} + \bar{g} + h$
+
+[del]e \prec f[/del] $(e \prec F') \prec h$
+
+$x \prec 1'$  $1^x$
+$F \prec x$  $x^0$
+
+$\frac{x \prec 1' \prec x}{\bar{x} \prec x \prec F'}$  $x = x'$
+$0^x$  $0^x$  $y^{0^x} = x^{0^y}$
+
+$(x \prec y) \prec x$
+$x\bar{y} + x$
+$x(\bar{y} + z) + \bar{x}z$
+$\bar{c} + ab$
+$a(b + \bar{c})$
+$b\bar{a} + \bar{c} + a$
+[del](c \prec b)[/del]
+$(b \prec a) \prec (c \prec a)$
+$a + b$
+$a\bar{b} + b$
+$(a \prec b) \prec b$
+$\frac{(\frac{a}{b})}{\frac{a}{b}}$

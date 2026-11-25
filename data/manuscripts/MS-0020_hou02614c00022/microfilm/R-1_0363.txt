@@ -1,0 +1,28 @@
+[u]Logic of Quantity[/u]
+
+whence
+$$P_{mn} \cdot S_{mn} \prec \overline{X}_m.$$
+
+If, then, we form $P_{mn} \cdot S_{mn}$ and from this expression eliminate [u]n[/u] without loss of any implication about [u]m[/u] and take the negative of the result, we must obtain an exhaustive statement of the conditions under which [u]m[/u] cannot proceed from any collection of which it is a part. Now
+$$\begin{aligned}
+P_{mn} &= (\Pi_u \bar{q}_{mu} \mathbin{\psi} q_{nu}) \cdot (\Sigma_v q_{nv} \cdot \bar{q}_{mv}) \\
+S_{mn} &= \Sigma_i p_i \cdot (\Pi_s \Sigma_r \bar{q}_{ns} \mathbin{\psi} q_{mr} \cdot r_{irs}) \\
+p_i &= \Pi_e \Pi_f \Pi_g \bar{r}_{ief} \mathbin{\psi} \bar{r}_{ieg} \mathbin{\psi} l_{fg}.
+\end{aligned}$$
+
+Thus the whole expression from which [u]n[/u] has to be eliminated is
+$$\Sigma_v \Sigma_i \Pi_s \Sigma_r \Pi_e \Pi_f \Pi_g \Pi_u q_{nv} \cdot \bar{q}_{mv} \cdot (\bar{q}_{mu} \mathbin{\psi} q_{nu}) \cdot (\bar{q}_{ns} \mathbin{\psi} q_{mr} \cdot r_{irs}) \cdot (\bar{r}_{ief} \mathbin{\psi} \bar{r}_{ieg} \mathbin{\psi} l_{fg})$$
+
+The elimination of [u]n[/u] is very simple except from the first factor. We square the whole expression, and [ins]identifying[/ins] [del]i'[/del] [ins]$i'$[/ins] with [u]i[/u] (as we are entitled to do after squaring), [del]s'[/del] [ins]$s'$[/ins] and [del]r'[/del] [ins]$r'$[/ins] with [del]v'[/del] [ins]$v'$[/ins] (which, to avoid the accent, we may change to [u]w[/u]), [del]s'[/del] [ins]$s'$[/ins] with [del]r'[/del] [ins]$r'$[/ins] (which we may change to [u]y[/u]), and [u]u[/u] with [u]s[/u], and changing [del]g'[/del] [ins]$g'$[/ins] to [u]y[/u], and observing that [del]by[/del] $q_{nw} \cdot \bar{q}_{mw} \prec \bar{q}_{my}$ we get
+$$\Sigma_i \Sigma_v \Sigma_y \Pi_s \Sigma_r \Pi_e \Pi_f \Pi_g \Pi_y q_{mv} \cdot q_{my} \cdot (\bar{r}_{igr} \mathbin{\psi} \bar{q}_{my}) \cdot (\bar{q}_{ms} \mathbin{\psi} q_{mr} \cdot r_{irs}) \cdot (\bar{r}_{ief} \mathbin{\psi} \bar{r}_{ieg} \mathbin{\psi} l_{fg})$$
+
+If we write
+$$\bar{c}_{imsy} = \bar{q}_{ms} \mathbin{\psi} q_{mr} \cdot r_{isr}$$
+
+this is
+$$\Sigma_v \Sigma_i \Sigma_y \Pi_s \Sigma_r \Pi_g p_i \cdot c_{imsr} \cdot \bar{c}_{imsy} \cdot \bar{q}_{mv}$$
+
+and consequently
+$$X_m = \Pi_i \Pi_s \Sigma_r \Sigma_s \Pi_r \bar{p}_i \mathbin{\psi} \bar{c}_{imsr} \mathbin{\psi} c_{isy} \mathbin{\psi} \Pi_v q_{mv}.$$
+
+This means that the problem has two solutions. One is when [u]m[/u] embraces the whole universe. But this is not within the intention of the problem, is destroyed by merely adding to the universe without affecting [u]n[/u] and is therefore not what was meant by a character of [u]m[/u].

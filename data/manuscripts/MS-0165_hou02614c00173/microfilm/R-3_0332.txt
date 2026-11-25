@@ -1,0 +1,39 @@
+[pn]85[/pn]
+
+[u]Theorem 12[/u]. [u]The addition of zero to a number does not alter the number[/u].
+
+[u]Demonstration[/u]. Suppose this to be true [del]of[/del] of any number, N, so that
+$0 + N = N$. Then, letting $N'$ denote the number next higher than N, by
+Axiom 6, $0 + N' = N'$. Thus, the proposition if true for any number is true
+for the next higher.
+
+But, by axiom 7, it is true for $N = 0$. Hence, by Theorem 4, it is
+true of every number after 0 in the sequence of numbers. But by defini-
+tion 30, all other numbers come after 0 in the sequence. Hence, it is
+true of all numbers.
+
+[u]Axiom 8[/u]. 1 is the number next higher than 0.
+
+[u]Theorem 13[/u]. [u]The addition of one to a [ins]whole[/ins] number gives the[/u]
+[u]number next higher[/u].
+
+[u]Demonstration[/u]. [del]For[/del] Let N be any cardinal number, [del]and let N'[/del]
+[del]be the number next higher than N.[/del] [del]Then,[/del]
+[del]by Theorem 12, $0 + N = N$. Let N' be the[/del] Then I say that $1 + N = N'$.
+
+For, by Theorem 12, $0 + N = N$. Hence, by Axiom 6, [del]the[/del]
+number next higher than 0 added to N gives $N'$. But, by Axiom 8, 1
+is the number next higher than 0. Hence $1 + N = N'$.
+
+[u]Corollary 11[/u]. Any number added to 0 gives the same number, and any number added
+to 1 gives the next higher number. For this results from the application of Theorem 11 to Theorems 12 and 13.
+
+[u]Theorem 14[/u]. [ [u]The Associative Principle[/u]. ] [u]Addition is an associative mode of[/u]
+[u]combination[/u].
+
+[u]Demonstration[/u]. Let L, M, N be any three cardinal numbers. Then the theorem means
+that $(L + M) + N = L + (M + N)$.
+
+First, this is true when $M = [del]0[/del] 1$ That is $(L + 1) + N = L + (1 + N)$. [del]For L + N is, by[/del]
+[del]Theorem 10, a whole number. And, by Corollary 11, L + 1 is the number next higher than L. Hence,[/del]
+[del]by Axiom 6, (L+1)+N is the number next higher than L+N. So 1+N, by Theorem 13, is[/del]

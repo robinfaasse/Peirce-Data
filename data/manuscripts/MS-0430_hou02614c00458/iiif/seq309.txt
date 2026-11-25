@@ -1,0 +1,25 @@
+Logic
+III
+81
+
+(90) If [u]v[/u] is [u]x[/u] -< [u]y[/u] -< [u]z[/u], then it is [u]y[/u] -< [u]x[/u] -< [u]z[/u].
+[del]That is[/del]
+For, by (78), either [u]v[/u] is [ins]in[/ins] [u]m[/u] or is [u]r[/u] -< [u]m[/u] -< [u]n[/u]. [del]when[/del]
+Hence, either [u]v[/u] is [u]x[/u] or is [u]y[/u] -< [u]x[/u] -< [u]z[/u]. But if [u]v[/u] is [u]x[/u] and is
+[u]x[/u] -< [u]y[/u] -< [u]z[/u], then by (66), it is [u]y[/u] -< [u]z[/u]. Now by (64), either
+[u]v[/u] is [u]y[/u] or it is [u]y[/u] -< [u]x[/u] -< [u]z[/u]; while if [u]v[/u] is [u]y[/u] and is [u]y[/u] -< [u]z[/u], then
+by (66) it is [u]z[/u] when by (65) it is [u]x[/u] -< [u]z[/u] and consequently
+[u]y[/u] -< [u]x[/u] -< [u]z[/u]. Thus in every case (90) holds.
+
+Definitions. Let us call any letter or [del]enclosed[/del] the whole
+of what is in any enclosure in a consequence, a [u]term[/u] of
+the consequence. Let us call any unenclosed term [del]or any[/del] [ins]whether[/ins]
+[u]unenclosed[/u] [ins][del]in[/del][/ins] along with another [ins]of a[/ins] [u]proximate term[/u]. Thus
+in the consequence {[( [u]x[/u] -< [u]y[/u]) -< [u]z[/u] -< [u]u[/u]] -< [u]v[/u]} [del]-< [u]w[/u][/del] -< [u]t[/u], the [ins][del]terms[/del] proxi[/ins]
+[del]will mate terms with[/del] be [( [u]x[/u] -< [u]y[/u]) -< [u]z[/u] -< [u]u[/u]] -< [u]v[/u] [del], [u]w[/u][/del], [ins][u]w[/u][/ins], and [u]t[/u].
+The other terms will be [u]v[/u], [( [u]x[/u] -< [u]y[/u]) -< [u]z[/u] -< [u]u[/u], [u]u[/u], [del][u]z[/u] -< [u]u[/u][/del], [u]z[/u],
+[u]x[/u] -< [u]y[/u], [u]y[/u], and [u]x[/u].
+
+Let us call the proximate terms [ins]as well as their consequents[/ins], except the consequent
+[del]together with the whole consequence,[/del]
+[ins][fig]figure[/fig][/ins] the [u]first antecedental[/u]s; the first antecedentals of the first

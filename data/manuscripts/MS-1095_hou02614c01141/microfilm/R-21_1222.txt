@@ -1,0 +1,14 @@
+$$u = D_{y}\chi = iF_{1}' + F_{2}' + F_{3} + (-x+iy)F_{3}' + iF_{4} + (x+iy)F_{4}'$$
+$$v = -D_{x}\chi = -F_{1}' - iF_{2}' - iF_{3} + (-ix-y)F_{3}' - F_{4} + (ix+y)F_{4}'$$
+$$D_{x}u = iF_{1}'' + iF_{2}'' + (-x+iy)F_{3}'' + (ix-y)F_{4}''$$
+$$D_{x}^{2}u = iF_{1}''' - F_{2}''' - F_{3}'' + (-x+iy)F_{3}''' + iF_{4}'' + (-x-iy)F_{4}'''$$
+$$D_{y}u = -F_{1}'' + F_{2}'' + 2iF_{3}' + (-ix-y)F_{3}'' + 2iF_{4}' + (x+iy)F_{4}''$$
+$$D_{y}^{2}u = -iF_{1}''' + F_{2}''' + (2i-1)F_{3}'' + (x-iy)F_{3}''' + 3iF_{4}'' + (x+iy)F_{4}'''$$
+$$D_{x}p = \mu(D_{x}^{2}+D_{y}^{2})u = 2\mu(i-1)F_{3}'' + 4\mu iF_{4}''$$
+$$D_{x}v = -F_{1}'' + F_{2}'' [del]- 2iF_{3}'[/del] + (-ix-y)F_{3}'' + [del]\frac{-2iF_{4}'}{(-2i+1)}[/del] [ins]+ (x+iy)F_{4}''[/ins]$$
+$$D_{x}^{2}v = -F_{1}''' + iF_{2}''' - 3iF_{3}'' + (-ix-y)F_{3}''' + [del]F_{4}''[/del] + (+ix-y)F_{4}'''$$
+$$D_{y}v = -iF_{1}'' - iF_{2}'' + (x-iy)F_{3}'' [del]+ \text{something illegible}[/del] + (-ix+y)F_{4}''$$
+$$D_{y}^{2}v = +F_{1}''' - iF_{2}''' [del]+ iF_{3}''[/del] + (ix+y)F_{3}''' + F_{4}'' + (-ix+y)F_{4}'''$$
+$$D_{y}p = \mu(D_{x}^{2}+D_{y}^{2})v = -4\mu iF_{3}'' + 2\mu(1-i)F_{4}''$$
+
+Before descending to the particular problem in hand, something can be inferred from the conditions that the velocity and pressure must be real.

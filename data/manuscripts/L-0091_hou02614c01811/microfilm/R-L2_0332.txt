@@ -1,0 +1,22 @@
+A Hardy's noddy mounted on a
+pendulum support is a special case
+of two pendulums on one support. It
+will be convenient to obtain a gene-
+ral solution of this problem.
+
+I have shown in my paper on Faye's
+method of swinging pendulums that two
+of the differential equations for this prob-
+lem are the same as for a simple pen-
+dulum on a flexible support. Namely,
+neglecting quantities of the second order
+they are
+$$l_1 D_t^2 \varphi_1 + D_t^2 s_1 = - g_1 \varphi_1$$
+$$l_2 D_t^2 \varphi_2 + D_t^2 s_2 = - g_2 \varphi_2$$
+
+where
+$t$ is the time
+$\varphi_1$ and $\varphi_2$, the angular displacements from
+the vertical of the two pendulums,
+$s_1$ and $s_2$, the linear displacements of
+the middle points of the knife-edges,

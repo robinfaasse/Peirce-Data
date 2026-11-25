@@ -1,0 +1,22 @@
+[pn]403[/pn] [pn]197[/pn]
+
+[del]J.[/del] By the same principle, we can if we please
+solve the example of [del]p. 400[/del] [ins]400[/ins] as follows. Given
+the premise
+$$\Pi_{\kappa} (q_{\kappa i} + \bar{q}_{\kappa j})$$
+We multiply [del]this[/del] [ins]the square of this[/ins] by an identical proposition, thus,
+$$\Pi_{\lambda} \Pi_{\kappa} [del]\Pi_{\lambda}[/del] (q_{\lambda i} + \bar{q}_{\lambda i}) (q_{\lambda j} + \bar{q}_{\lambda j}) (q_{\kappa i} + \bar{q}_{\kappa j}) (q_{\kappa i} + \bar{q}_{\kappa j})$$
+[del]We[/del] Identifying [del]$\kappa$[/del] with $\lambda$, we get
+$$\Pi_{\lambda} \Pi_{\kappa} (q_{\lambda i} + \bar{q}_{\lambda i}) (q_{\lambda j} + \bar{q}_{\lambda j}) (q_{\lambda i} + \bar{q}_{\lambda j}) (q_{\kappa i} + \bar{q}_{\kappa j}).$$
+We now introduce $\bar{q}_{\kappa i}$ and $q_{\kappa j}$ into the
+identical proposition wherever we please
+so long as they cannot be eliminated
+without making the [del]equation[/del] proposition
+otherwise than identical; and this con-
+dition will be fulfilled so long as we
+do not introduce $q_{\kappa i}$ or $\bar{q}_{\kappa j}$. [del]We get then[/del]
+Only $\Pi_{\kappa}$ must be changed to $\Sigma_{\kappa}$. We get then
+$$\Pi_{\lambda} \Sigma_{\kappa} (q_{\lambda i} \bar{q}_{\kappa i} + \bar{q}_{\lambda i}) (q_{\lambda j} + q_{\kappa j} \bar{q}_{\lambda j}) (q_{\lambda i} + \bar{q}_{\lambda j}) (q_{\kappa i} + \bar{q}_{\kappa j})$$
+This gives successively
+$$\Pi_{\lambda} \Sigma_{q} (q_{\lambda i} \bar{q}_{\kappa i} q_{\lambda i} \bar{q}_{\kappa j} + \bar{q}_{\lambda i} q_{\kappa j} \bar{q}_{\lambda j} q_{\kappa i})$$ [fig]checkmark[/fig]
+and $\Pi_{\lambda} (q_{\lambda i} q_{\delta i} + \bar{q}_{\lambda i} \bar{q}_{\lambda i})$.

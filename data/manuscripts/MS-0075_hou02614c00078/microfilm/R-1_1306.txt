@@ -1,0 +1,25 @@
+To ascertain of what associative algebras having
+a limited number of linearly independent units
+it is true that if $pq = p'q$ then $p = p'$ [ins]unless $q=0$[/ins] and if
+$pq = pq'$ then $q = q'$, unless $p = 0$
+
+I [del]regard[/del] [ins]suppose[/ins] $\sqrt{-}$ as being a unit linearly inde-
+pendent of $1$. My father in his work on linear
+associative algebra takes the opposite view but
+I shall be able to avail myself of certain pro-
+positions proved by him; and I commence by
+restating these propositions with the proofs.
+
+The first is his §40 that in every linear associative
+algebra there is at least one idempotent or one nil-
+potent expression. If $A$ be any expression in
+such an algebra there must be some equation
+$$\sum_m a_m A^m = 0$$
+where [ins]the[/ins] $a_m$'s are scalars. Collect all the terms ex-
+cept the last into one expression $BA$. Then the
+equation becomes
+$$BA + a_1 A = (B + a_1) A = 0$$
+Hence
+$$(B + a_1) A^m = 0$$
+$$(B + a_1) B = 0$$
+$$\left(-\frac{B}{a_1}\right)^2 = -\frac{B}{a_1}$$

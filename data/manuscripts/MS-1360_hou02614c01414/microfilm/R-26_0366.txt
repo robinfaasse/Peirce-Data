@@ -1,0 +1,12 @@
+If all the values of $s$ and of $w$ are given, as well as $X$ and $Y$, in order to determine all the coordinates
+$$\begin{matrix} x_1, & x_2, & \dots & x_n & \dots & x_N \\ y_1, & y_2, & \dots & y_n & \dots & y_N \end{matrix}$$
+we add to these $2N$ unknowns, also the $N+1$ values of $i_n$ and $Q$, making $3N+2$ unknowns, to determine which we have $2N$ equations (1), $N$ more like the following
+(12) $W_n = Q (\tan i_n - \tan i_{n-1})$
+and the two equations
+(13) $x_N = X \quad y_N = Y$.
+
+<u>Other general propositions</u>. Consider any portion of the cord. The pulls upon its ends act along the terminal lines of that portion. Those two lines of force meet in one point; and since their horizontal components are equal and opposite, their resultant is vertical. It is, of course, upward. But since equilibrium exists it does not make a couple with the resultant of the weights attached to the [ins]intermediate[/ins] portion of the cord. It must therefore be in the line of that resultant weight; that is, it lies in the vertical of the centre of gravity of the intermediate weights. This is expressed by the equation
+(14) $\frac{\sum_{n+1}^m w x}{\sum_{n+1}^m w} = \frac{x_m \tan i_m - y_m - x_{n+1} \tan i_n + y_n}{\tan i_m - \tan i_n}$
+
+[del]If[/del] [ins]As[/ins] $y_m = y_n$
+(15) $\frac{x_m - \frac{\sum_{n+1}^m w x}{\sum_{n+1}^m w}}{x_n - \frac{\sum_{n+1}^m w x}{\sum_{n+1}^m w}} = \frac{\tan i_n}{\tan i_m}$

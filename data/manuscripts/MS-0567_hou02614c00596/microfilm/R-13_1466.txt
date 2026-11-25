@@ -1,0 +1,10 @@
+$$(\sum_i a_i)(\sum_j a_j) = (a_1 + a_2 + a_3 + \text{etc}) (a_1 + a_2 + a_3 + \text{etc})$$
+$$\begin{aligned}
+= & a_1 a_1 + a_1 a_2 + a_1 a_3 + \text{etc} \\
++ & a_2 a_1 + a_2 a_2 + a_2 a_3 + \text{etc} \\
++ & a_3 a_1 + a_3 a_2 + a_3 a_3 + \text{etc} \\
++ & \text{etc.}
+\end{aligned}$$
+
+where
+$$\sum_i \sum_j a_i a_j = a_1 a_1$$

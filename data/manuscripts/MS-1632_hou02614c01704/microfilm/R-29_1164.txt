@@ -1,0 +1,29 @@
+$$A = \frac{r \sin \omega}{2 \sin (\omega - \alpha)} - \frac{r \sin (\omega + \alpha)}{2 \sin (\omega + \alpha)} + \frac{r \sin \omega}{\sin (\omega - \alpha) \sin (\omega + \alpha)}$$
+$$B = \frac{r \cos \omega}{\cos \alpha}$$
+$$AV = DV + AD = \frac{r \sin \omega}{\sin (\omega - \alpha)} + \frac{z}{\cos \alpha}$$
+$$NM = A = \frac{r \sin (\omega - \alpha)}{\sin (\omega - \alpha)} - A$$
+$$Mv = \frac{r \cos (\omega - \alpha)}{\sin (\omega - \alpha)}$$
+$$Ny = \frac{z}{\cos \omega}$$
+$$Re = LN - AG = PA \cos \alpha - l$$
+$$PA = AV - DV = \frac{r \sin \omega}{\sin (\omega - \alpha)} + \frac{z}{\cos \alpha} - \frac{B \sin \omega}{\sin \alpha}$$
+$$A = \frac{r \sin \alpha \cos \omega}{\sin (\omega - \alpha) \sin (\omega + \alpha)} + \frac{z \cos \alpha}{\sin (\omega + \alpha)}$$
+$$NM = \frac{r \sin \omega \cos \omega}{\sin (\omega - \alpha) \sin (\omega + \alpha)} - \frac{z \cos \alpha}{\sin (\omega + \alpha)} = \frac{A^2 - B^2}{A^2} z$$
+
+$$z = \frac{A^2 NM}{A^2 - B^2}$$
+
+$$y^2 = \frac{B^2}{A^2} (A^2 - z^2)$$
+$$\mathcal{R}^2 = y^2 + \frac{B^2}{A^2} z^2 = B^2 - \frac{B^2}{A^2} z^2 + \frac{B^2}{A^2} z^2 = B^2 - \frac{B^2 NM^2}{A^2 - B^2}$$
+$$NM = \mathcal{R} + Ny = \mathcal{R} + \delta$$
+$$\mathcal{R}^2 = B^2 - \frac{B^2 (\mathcal{R} + \delta)^2}{A^2 - B^2}$$
+$$\frac{B^2}{A^2 - B^2} = \frac{\sin (\omega - \alpha) \sin (\omega + \alpha)}{\cos^2 \omega}$$
+
+$$Ny = \frac{z \sin \omega \cos \alpha}{\sin \alpha \cos \omega} - \frac{R}{\cos \omega}$$
+$$\mathcal{R} = NM - Ny = \frac{r \sin \omega \cos \omega}{\sin (\omega - \alpha) \sin (\omega + \alpha)} - \frac{r \cos \alpha \sin \omega}{\cos \omega \sin (\omega - \alpha) \sin (\omega + \alpha)}$$
+
+$$\mathcal{R} = - \frac{r \sin \omega}{\cos \omega} - \frac{z}{\cos \omega} + \frac{R}{\cos \omega}$$
+
+$$\frac{\sin^2 \alpha}{\cos^2 \omega}$$
+
+$$\frac{\sin^2 \alpha}{2 (\omega + \alpha) (\omega - \alpha)} z^2$$
+
+$$\left( \mathcal{R} + \frac{\sin \alpha \sin (\omega - \alpha)}{\cos \alpha} z \right)^2 - 2 \sin \omega (r + \mathcal{R} - l)^2 = 0$$

@@ -1,0 +1,23 @@
+[del]Arb[/del] . Theorem . [Ptolemy's Theorem.] If [A], [B], [C],
+[D] are arranged in this order on a circle, then
+AB.CD + BC.AD + CA.BD = 0.
+
+[fig]Circle with center dot[/fig] [u]Demonstration[/u]. For let [O] be the centre
+of the circle and r [del]the[/del] [ins]the[/ins] length of its
+radius. Write
+[u]u[/u] = [frac]1[/frac] [del]2[/del] AOB,
+[u]v[/u] = [frac]1[/frac] [del]2[/del] BOC,
+[u]w[/u] = [frac]1[/frac] [del]2[/del] COD.
+
+Then AB = 2r sin [u]u[/u], BC = 2r sin [u]v[/u], CD = 2r sin [u]w[/u].
+AD = 2r sin ([u]u[/u]+[u]v[/u]+[u]w[/u]), CA = -2r sin ([u]u[/u]+[u]v[/u])
+BD = 2r sin ([u]v[/u]+[u]w[/u]).
+
+Then, [del]AB.CD+BC[/del] [frac]1[/frac]4r[sup]2[/sup][AB.CD + BC.AD + CA.BD] =
+sin [u]u[/u] . sin [u]w[/u] + sin([u]u[/u]+[u]v[/u]+[u]w[/u]) sin [u]v[/u] - sin([u]u[/u]+[u]v[/u]). sin([u]v[/u]+[u]w[/u])
+= sin [u]u[/u] . sin [u]w[/u] + sin [u]u[/u] . sin [u]v[/u] . cos [u]v[/u] . cos [u]w[/u] + cos [u]u[/u] . sin[sup]2[/sup][u]v[/u] . cos [u]w[/u]
++ cos [u]u[/u] . sin [u]v[/u] . cos [u]v[/u] . sin [u]w[/u] - sin [u]u[/u] . sin[sup]2[/sup][u]v[/u] . sin [u]w[/u]
+- sin [u]u[/u] [del]sin v cos v cos[/del] [ins]- sin [u]u[/u] . cos[sup]2[/sup][u]v[/u] . sin [u]w[/u][/ins]
+- cos [u]u[/u] sin[sup]2[/sup][u]v[/u] cos [u]w[/u] - cos [u]u[/u] . sin [u]v[/u] . cos [u]v[/u] . sin [u]w[/u]
+= sin [u]u[/u] . sin [u]w[/u] - sin [u]u[/u] . sin[sup]2[/sup][u]v[/u] . sin [u]w[/u] - sin [u]u[/u] . cos[sup]2[/sup][u]v[/u] . sin [u]w[/u]
+= sin [u]u[/u] . sin [u]w[/u] - sin [u]u[/u] (sin[sup]2[/sup][u]v[/u] + cos[sup]2[/sup][u]v[/u]) sin [u]w[/u] = 0

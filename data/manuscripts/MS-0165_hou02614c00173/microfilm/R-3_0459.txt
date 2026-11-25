@@ -1,0 +1,37 @@
+[pn]212[/pn]
+
+94. Find the square root of 26.
+Assume $\sqrt{26} = 5 + x$. Then $x^2 + 10x + 25 = 26$
+$x^2 + 10x = 1$
+
+$\begin{array}{cr}
+u_1 & 1 \\
+u_2 & 10 \\
+u_3 & 101 \\
+u_4 & 1020 \\
+u_5 & 10301 \\
+u_6 & 104030 \\
+u_7 & 1050601 \\
+u_8 & 10610040 \\
+u_9 & 107151001 \\
+u_{10} & 1082120050 \\
+u_{11} & 10928351501 \\
+u_{12} & 110365635060 \\
+u_{13} & 1114584702101
+\end{array}$
+
+Hence $\sqrt{26} = 5.09901951$
+
+95. Find the root [del]between[/del] [ins]of[/ins] $x^4 - 12x^2 + 12x - 3 = 0$ between 2 and 3 [del]of[/del]
+to six places of decimals. We substitute $x = y + 3$ and the equation becomes
+$-( \frac{1}{6} y^4 + 2y^3 + 7y^2 + 8y ) = 1$
+
+Assume [del]of[/del] $u_1 = 0$, $u_2 = 1$, $u_3 = -7$, $u_4 = 50$. Then we get
+$\begin{array}{l}
+u_5 = -353 \\
+u_6 = +2487\frac{5}{6} \\
+u_7 = -17530\frac{1}{2} \\
+u_8 = +123526\frac{5}{6} \\
+u_9 = -870418\frac{1}{2}
+\end{array}$
+$x = 2.5580834$

@@ -1,0 +1,39 @@
+.1  1
+.01  2
+.001  3
+.0001  4
+---
+.11  [del]$\omega$[/del]
+.101  $\omega + 1$
+.1001  $\omega + 2$
+---
+[del].111  $2\omega$[/del]
+[del].1101  $2\omega + 1$[/del]
+[del].11001  $2\omega + 2$[/del]
+---
+[del].1111  $3\omega$[/del]  [del].1011  $3\omega$[/del]
+[del].11111  $4\omega$[/del]  .10101  $3\omega + 1$
+[del].111111[/del]  .101001  $3\omega + 2$
+---
+.10011  $4\omega$
+.100011  $5\omega$
+.1111  $\omega^2$
+.11101  $\omega^2 + 1$
+---
+[del].111011  $\omega^2 + \omega$[/del]
+[del].110101  $\omega^2 + \omega + 1$[/del]
+[del].1100111  $\omega^2 + 2\omega$[/del]
+.1100011  $\omega^2 + 3\omega$
+.10111  $2\omega^2$
+.100111  $3\omega^2$
+.1000111  [del]$4\omega^2$[/del]
+.11111  $\omega^3$
+.111101  $\omega^3 + 1$
+.111011  $\omega^3 + \omega$
+[del].1110011  $\omega^3 + 2\omega$[/del]
+.1110111  $\omega^3 + \omega^2$
+.1101101  $\omega^3 + \omega^2 + 1$
+.1101011  $\omega^3 + \omega^2 + \omega$
+.11010101  $\omega^3 + \omega^2 + \omega + 1$
+.11010011  $\omega^3 + \omega^2 + 2\omega$
+.110

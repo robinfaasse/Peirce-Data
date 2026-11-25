@@ -1,0 +1,18 @@
+these values in that of X we have
+$$X = \frac{\frac{x^2}{pq}}{\frac{x}{p} + \frac{x}{q} - \frac{x^2}{pq}} = \frac{X}{q + p - X}$$
+$$1 = \frac{1}{q + p - X}$$
+$$X = q + p - 1$$
+Which is the probability required.
+I will now take a case where an attempt [del]is[/del] [ins]was[/ins] made to work inductively.
+Let the probability that it thunders on a given day be [u]p[/u]
+the probability that it thunders & hails be [u]q[/u]
+Required the probability that it hails or [u]X[/u]
+Let [u]x[/u] be It hails
+[u]y[/u] It thunders
+Let [u]u[/u] It thunders & hails
+Then [u]u = xy[/u]
+$x = \frac{u}{y}$. Developing this we have $x = uy + \frac{1}{0}u(1-y) + 0(1-u)y + \frac{0}{0}(1-u)(1-y)$
+Proceeding now This solves the logical question; proceeding with probabilities we have $p = \frac{y}{y + (1-u)(1-y)}$ $q = \frac{uy}{y + (1-u)(1-y)}$ $X = \frac{uy + \frac{0}{0}(1-u)(1-y)}{y + (1-u)(1-y)}$
+Elimination of [u]u[/u] & [u]y[/u] results in the following value of X
+$X = q + \frac{0}{0}(1-p)$
+which is a You perceive an indeterminate result; showing merely that the data were insufficient.

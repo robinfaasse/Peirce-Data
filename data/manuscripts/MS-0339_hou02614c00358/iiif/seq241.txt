@@ -1,0 +1,33 @@
+XV If an enclosure consisting of an oval containing a graph is transfor-  116r
+mable into an enclosure consisting of an oval containing a second 
+graph, this second graph is transformable into the first.
+
+Proof. Let A and B be the first and second graphs, respectively.
+   Let [fig]A[/fig] [math]\sim[/math] [fig]B[/fig]
+   Then by V [fig]B[/fig] [math]\sim[/math] [fig]A[/fig]
+   [math]\therefore[/math] by VI   B [math]\sim[/math] [fig]A[/fig]
+   [math]\therefore[/math] by XIV B [math]\sim[/math] A     Q.E.D.
+
+   [ins]and always[/ins]
+XVI. If one graph, [del]is trans[/del] when unenclosed transformable into a second,
+it is so transformable wherever it is evenly enclosed, and the second is
+transformable into the first wherever it is oddly enclosed.
+
+Proof Let a and b be the first and second graphs, respectively; so that
+   a [math]\sim[/math] b.
+   Then, by IV, whatever graph c may be
+      ac [math]\sim[/math] bc
+   [math]\therefore[/math] by V, [fig]bc[/fig] [math]\sim[/math] [fig]ac[/fig]
+   [math]\therefore[/math] by IV, whatever graph d may be [fig]bc[/fig]d [math]\sim[/math] [fig]ac[/fig]d,
+   [math]\therefore[/math] by V [fig][fig]ac[/fig]d[/fig] [math]\sim[/math] [fig][fig]bc[/fig]d[/fig]
+   [math]\therefore[/math] by IV, whatever graph e may be [fig][fig]ac[/fig]c[sub]1[/sub][/fig]c[sub]2[/sub] [math]\sim[/math] [fig][fig]bc[/fig]c[sub]1[/sub][/fig]c[sub]2[/sub].
+   Now suppose it were proved that [ins]n being a certain whole number[/ins] if any graph, when unenclosed and alone,
+   were transformable into a second it would necessarily be so transformable
+   [ins]everywhere[/ins] within an even number of ovals not exceeding [del]2M[/del] [ins]2n[/ins] [del]where n is any positive integer[/del], then let a [ins]n[/ins] be any
+   graph containing a enclosed within 2n ovals, and let b[sub]n[/sub] be the graph
+   resulting from the transformation in a[sub]n[/sub] of a into b. Then a[sub]n[/sub] [math]\sim[/math] b[sub]n[/sub]
+   and as above [fig]a[sub]n[/sub] c[sub]n[/sub] c[sub]n+1[/sub][/fig] c[sub]n+2[/sub] [math]\sim[/math] [fig]b[sub]n[/sub] c[sub]n[/sub] c[sub]n+1[/sub][/fig] c[sub]n+2[/sub]. That is, the same
+   proposition is true of n+I. But we have proved it is true if n = 0
+   Hence, it is true whatever whole number n may be. Moreover, whatever
+   whole number n may be if a [math]\sim[/math] b[sub]n[/sub] then [fig]b[sub]n[/sub][/fig] c[sub]n+1[/sub] [math]\sim[/math] [fig]a[sub]n[/sub][/fig] c[sub]n+1[/sub]. That is 
+   the [del]reverse[/del] [del]transformation[/del] [ins]reverse part of the proposition[/ins] may be made under any odd number of ovals.

@@ -1,0 +1,31 @@
+[del]A : A + B : B + C : C[/del]
+[del]A : B + B : C + C : A[/del]
+[del]a A : C + b B : A + c C : B[/del]
+
+[del]p A + q B[/del]
+
+[del]i (p A + q B) = q A + a p B[/del]
+
+[del]q = p[/del] [del]q = a p[/del]
+
+[del]a cannot be 1. Can be anything else.[/del]
+
+---
+
+i A : A = i B : B etc
+
+Hence, if i contains A : A
+it contains B : B etc. and
+is the Scalar unit.
+
+If i contains B : A
+i A = B
+i B is not zero
+Suppose then i contains
+C : B
+Each combination can occur
+only once
+
+i = A : A + B : B
+j = A : B + a B : A
+i^2 = A : A + a B : B

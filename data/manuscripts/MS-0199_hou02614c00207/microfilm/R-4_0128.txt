@@ -1,0 +1,20 @@
+[pn]MM
+D68[/pn] [ins]So[/ins] may be written more compactly, and in some respects more
+conveniently, thus:
+[u][del]n[/del] [ins]k[/ins][/u]
+[u]∑[/u] [sub]i[/sub] [del]a[/del] [ins]a[sub]i[/sub][/ins] x[sup]i+k[/sup] = 0,
+for to multiply [del]by[/del] the whole by x[sup]k[/sup] is only to add [del]k[/del] [ins]r[/ins] new roots all
+of which are zero. Now if the series of substitutes are denoted by S[sub]i[/sub]
+where i takes a consecutive series of integral values, then the equation
+for calculating the substitutes is
+[u][del]n[/del] [ins]k[/ins][/u]
+[u]∑[/u] [sub]i[/sub] a[sub]i[/sub] S[sub]i+k[/sub] = 0.
+The arbitrarily taken substitutes run from [del]S[sub]1[/sub][/del] [ins]S[sub]-k[/sub][/ins] up to S[sub]n[/sub] inclusive
+to calculate the substitutes with negative indexes, we put the equation,
+as I have said, into the forms
+-[del]1[/del]/a[sub]0[/sub] [u][del]n[/del] [ins]k[/ins][/u]
+[u]∑[/u] [sub]i[/sub] a[sub]i[/sub] S[sub]i[/sub] = S[sub]0[/sub]
+-[del]1[/del]/a[sub]0[/sub] [u][del]n[/del] [ins]k[/ins][/u]
+[u]∑[/u] [sub]i[/sub] a[sub]i[/sub] S[sub]i-1[/sub] = S[sub]-1[/sub]
+-[del]1[/del]/a[sub]0[/sub] [u][del]n[/del] [ins]k[/ins][/u]
+[u]∑[/u] [sub]i[/sub] a[sub]i[/sub] S[sub]i-2[/sub] = S[sub]-2[/sub] etc.

@@ -1,0 +1,26 @@
+[pn]83[/pn]
+
+So that the multiplication table is
+
+[fig]Multiplication table for elements 1, A, B, E, C, D[/fig]
+
+If the object is to produce the simplest algebraic system, we [del]must[/del] [ins]may[/ins] use instead of 1, A, B, C, D, E, the operations g, h, i, j, k, l, defined as follows:
+
+$g = \frac{1}{6} (1 + A + B + C + D + E)$ [del]so that $g \rho_{123}$[/del]
+[del]$h = \frac{1}{6}$[/del] [del]$h = \frac{1}{6}$[/del] $= \frac{1}{6} (\rho_{123} + \rho_{231} + \rho_{312} + \rho_{132} + \rho_{321} + \rho_{213})$
+$h = \frac{1}{6} (1 + C + D - A - B - E)$ so that $h \rho_{123} = \frac{1}{6} (\rho_{123} + \rho_{231} + \rho_{312} - \rho_{132} - \rho_{321} - \rho_{213})$
+$i = \frac{1}{6} (2 \cdot 1 - C - D + 2A - B - E)$ so that $i \rho_{123} = \frac{1}{6} (2\rho_{123} - \rho_{231} - \rho_{312} + 2\rho_{132} - \rho_{321} - \rho_{213})$
+$l = \frac{1}{6} (2 \cdot 1 - C - D - 2A + B + E)$ so that $l \rho_{123} = \frac{1}{6} (2\rho_{123} - \rho_{231} - \rho_{312} - 2\rho_{132} + \rho_{321} + \rho_{213})$
+$j = \frac{1}{2\sqrt{3}} (C - D + B - E)$ so that $j \rho_{123} = \frac{1}{2\sqrt{3}} (\rho_{231} - \rho_{312} + \rho_{213} - \rho_{321})$
+$k = \frac{1}{2\sqrt{3}} (-C + D + B - E)$ so that $k \rho_{123} = \frac{1}{2\sqrt{3}} (-\rho_{231} + \rho_{312} + \rho_{213} - \rho_{321})$
+
+Then the multiplication table becomes, as follows, where all the blanks are 0s.
+
+[fig]Multiplication table for elements g, h, i, j, k, l[/fig]
+
+Then, instead of writing $\rho$, we should [del]have to write[/del] $(g + h + i + l)\rho$; for $g + h + i + l = 1$.
+
+However, the operations 1, A, B, C, D, E are best and can be represented by accents over the letters as follows
+$\acute{g} = [del]Cg[/del] = [del]Cg[/del] \text{ where } C g_{123} = g_{231}$
+$\grave{g} = Dg \text{ where } D g_{123} = g_{312}$
+$\bar{g} = Ag \quad \tilde{g} = Eg \quad \hat{g} = Bg$

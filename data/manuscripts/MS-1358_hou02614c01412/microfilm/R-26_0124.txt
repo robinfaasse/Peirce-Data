@@ -1,0 +1,54 @@
+[marginalia]
+Anison's Bridge [date]1899 Feb 5[/date]
+[/marginalia]
+
+[pn]2[/pn]
+
+In general if $\Delta^4 u_n = 0$
+$u_n = C_0 + C_1 n + C_2 n^2 + C_3 n^3$
+
+$\begin{aligned}
+&C_0 &&= u_0 \\
+&C_0 + C_1 + C_2 + C_3 &&= u_1 \\
+[del]&C_0 + 2 C_1 + 4 C_2 + 8 C_3[/del] &&= u_2 \\
+&C_0 + 3 C_1 + 9 C_2 + 27 C_3 &&= u_3
+\end{aligned}$
+
+$\begin{aligned}
+[del]2 C_2[/del] + 2 C_2 + 6 C_3 &= u_2 - 2 u_1 + u_0 \\
+4 C_2 + 18 C_3 &= u_3 - u_2 - u_1 + u_0 \\
+6 C_3 &= u_3 - 3 u_2 + 3 u_1 - u_0 \\
+2 C_2 \qquad &= -u_3 + 4 u_2 - 5 u_1 + 2 u_0 \\
+&= (u_2 - 2 u_1 + u_0) - (u_3 - 3 u_2 + 3 u_1 - u_0)
+\end{aligned}$
+
+$\begin{aligned}
+u_1 - u_0 &= C_1 + C_2 + C_3 \\
+u_2 - u_1 &= C_1 + 3 C_2 + 7 C_3 \\
+u_3 - u_2 &= C_1 + 5 C_2 + 19 C_3
+\end{aligned}$
+
+$\begin{aligned}
+u_2 - 2 u_1 + u_0 &= 2 C_2 + 6 C_3 \\
+u_3 - 2 u_2 + u_1 &= 2 C_2 + 12 C_3
+\end{aligned}$
+
+$u_3 - 3 u_2 + 3 u_1 - u_0 = 6 C_3$
+
+$6 C_1 + 6 C_2 + 6 C_3 = [del]6 u_1 - 6 u_0[/del] \ \ 6 (u_1 - u_0)$
+
+$\begin{aligned}
+6 C_2 &= 3 \Delta^2 [del]u_n[/del] - 3 \Delta^3 \\
+6 C_3 &= \qquad \quad \Delta^3 \\
+\hline
+6 (C_2 + C_3) &= 3 \Delta^2 - 2 \Delta^3 \\
+6 C_1 &= 6 \Delta - 3 \Delta^2 + 2 \Delta^3
+\end{aligned}$
+
+$\begin{aligned}
+&6 C_1 + 6 C_2 + 6 C_3 \\
+&- 6 C_2 - 18 C_3 \\
+&\qquad + 12 C_3
+\end{aligned}$
+
+$u_n = [del]u_0[/del] [ [ins]1 +[/ins] [del]n[/del] [ins]\frac{n}{6}[/ins] (6 \Delta - 3 \Delta^2 + 2 \Delta^3) [del]+ \frac{n^2}{6}[/del] [ins]+ \frac{3 n^2}{6}[/ins] (\Delta^2 - \Delta^3) + \frac{1}{6} n^3 \Delta^3 ] u_0$

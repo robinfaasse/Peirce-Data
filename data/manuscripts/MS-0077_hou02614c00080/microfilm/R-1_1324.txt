@@ -1,0 +1,26 @@
+[pn]12[/pn]
+
+are vectors. Then
+$$ij.ji = (s+v)(s'+v') = ss' + sv' + s'v + v'' + s''$$
+But we have
+$$ij.ji = ij^2i = -i^2 = 1.$$
+Hence,
+$$v'' = 1 - ss' - s'' - sv' - s'v.$$
+But $v''$ is the vector of $vv'$, so that by the
+last paragraph such an equation cannot
+subsist unless $v''$ vanishes. Thus we get
+$$0 = 1 - ss' - s'' - sv' - s'v,$$
+[del]or $sv' + s'v = \text{a scalar}$[/del]
+or $sv' = 1 - ss' - s'' - s'v.$
+But a quantity can only be separated in one
+way into a scalar and a vector part; so that
+$$sv' = -s'v.$$
+That is,
+$$ji = \frac{s'}{s}(s-v).$$
+[del]or putting Q.E.D.[/del]
+
+8. Our next step is to prove that $s = s'$; so
+that if $ij = s+v$ then $ji = s-v$. It is obviously
+sufficient to prove this when $i$ and $j$ are
+unit vectors. Now from any quantity a
+scalar may be subtracted so as to leave a

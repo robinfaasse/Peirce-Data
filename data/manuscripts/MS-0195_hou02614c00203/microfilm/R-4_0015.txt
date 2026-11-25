@@ -1,0 +1,37 @@
+$$\cos\theta\cdot D_t(r\cos\theta) + \sin\theta\cdot D_t(r\sin\theta)$$
+$$= D_t^2 r - (D_t\theta)^2 r$$
+
+$$\frac{dx}{x} = \frac{dy}{y}$$
+$$\log x\cdot dx = \log y\cdot dy + C$$
+$$\int\log x\cdot dx = \int\log y\cdot dy + Cy + C'$$
+$$\log y\cdot dy = \log Cx\cdot dx$$
+$$D_x y = \log\frac{Cx}{y}$$
+
+$$d\sigma^\eta = \eta\sigma^\eta dy$$
+$$d\sigma^\xi = \sigma^\xi d\xi$$
+$$\frac{d\sigma^\eta}{d\sigma^\xi} = \frac{\sigma^\eta}{\sigma^\xi}\frac{dy}{d\xi} = \frac{\xi + \log C}{\eta}$$
+$$d\eta = \frac{1}{\eta}\sigma^{-\eta}$$
+$$d\sigma^\eta\cdot\sigma^{-\eta} = \frac{1}{\eta}\sigma^{-\eta}$$
+$$d\sigma^\eta =$$
+
+$$v^2 = X + \frac{1}{r}$$
+$$v^2 = \frac{1}{r^2}$$
+
+$$v_1^2 = V^2 + \frac{K}{r_1^n}$$
+$$v_1^2 = \frac{Y}{r_1^2}$$
+
+$$r^2\frac{v^2}{K} = \frac{\frac{1}{r_2^n} - \frac{1}{r_1^n}}{\frac{1}{r_2^2} - \frac{1}{r_1^2}}$$
+
+$$v_2^2 = v_1^2 + K\left(\frac{1}{r_2^n} - \frac{1}{r_1^n}\right)$$
+$$v_2^2 = v_1^2\frac{r_1^2}{r_2^2}$$
+$$v_1^2\left(\frac{r_1^2}{r_2^2} - 1\right) = K\left(\frac{1}{r_2^n} - \frac{1}{r_1^n}\right)$$
+
+$$v_2^2 = V^2 + \frac{K}{r_2^n}$$
+$$v_2^2 = \frac{Y}{r_2^2}$$
+
+$$Y = v_1^2 r_1^2 + K r_1\frac{K}{r_1^n}$$
+$$= v_2^2 r_2^2 + K r_2\frac{K}{r_2^n}$$
+
+$$\frac{Y}{r_2^2} = V^2 + \frac{K}{r_2^n}$$
+
+$$Y\left(\frac{1}{r_1^2} - \frac{1}{r_2^2}\right) = K\left(\frac{1}{r_1^n} - \frac{1}{r_2^n}\right)$$

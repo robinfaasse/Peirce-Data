@@ -1,0 +1,36 @@
+[pn]142[/pn]
+
+$$\begin{array}{rcccl}
+0x & + & 0y & + & 0z & = & 1 & (1-x-y-z), \\
+-1x & + & 0y & + & 2z & = & 3 & (1-x-y-z), \\
+-5x & - & 1y & + & 1z & = & 12 & (1-x-y-z), \\
+-yx & + & (1-y)y & - & yz & = & y & (1-x-y-z).
+\end{array}$$
+
+That is,
+$$\begin{array}{rcccl}
+-1x & + & 0y & + & 2z & = & 0, \\
+-5x & - & 1y & + & 1z & = & 0, \\
+-yx & + & (1-y)y & - & yz & = & 0.
+\end{array}$$
+
+[del]Now, subtracting the second column from the others,
+$$\begin{array}{rcccl}
+-1x & + & 0(x+y+z) & + & 2z & = & 0 \\
+-4x & - & 1(x+y+z) & + & 2z & = & 0 \\
+-1x & + & (1-y)(x+y+z) & - & 1z & = & 0
+\end{array}$$[/del]
+
+Now, adding twice the first column to the [del]second[/del] [ins]third[/ins]
+[del]$$+(x-2z-2z)$$[/del]
+$$\begin{array}{rcccl}
+-1(x-2z) & + & 0y & + & 0z & = & 0, \\
+-5(x-2z) & - & 1y & - & 9z & = & 0, \\
+-y(x-2z) & + & (1-y)y & - & 3yz & = & 0.
+\end{array}$$
+
+That is,
+$$\begin{array}{rcccl}
+-1y & - & 9z & = & 0, \\
++(1-y)y & - & 3yz & = & 0.
+\end{array}$$

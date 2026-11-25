@@ -1,0 +1,33 @@
+[pn]7[/pn]
+[date]Morrison's Bridge 1899 March 1[/date]
+
+Call [del]D_2[/del] [ins]D_n[/ins] [del]y[/del] [ins]η[/ins] = z
+
+[del]B[/del] [ins]B[/ins] D_n^2 z + [del]2Kξ''[/del] [ins]\frac{2Kξ''}{B}[/ins] z = - \frac{C_0}{B} - \frac{wn}{B} - \frac{2Kξ''}{B} n z
+
+B D^2 + 2Kξ'' = 0
+D^2 = - \frac{2Kξ''}{B}
+D = ?
+(D + i \frac{2Kξ''}{B}) (B - i \frac{2Kξ''}{B}) z = - \frac{C_0}{B} - \frac{wn}{B} - \frac{2Kξ''}{B} n z
+
+[del]\frac{1}{D+a}[/del] (D+a) z = 1
+z = \frac{1}{D+a} 1
+
+Δ = E - 1
+Δ + a = E + (a - 1)
+\frac{1}{Δ + [del]a[/del] [ins]a[/ins]} = \frac{1}{E + (a - 1)} = \frac{1}{(a - 1)} \frac{1}{1 + \frac{E}{a-1}}
+= \frac{1}{a-1} (1 - [del]\frac{E}{a-1}[/del]
+= \frac{1}{E} \frac{1}{1 - [del](1-a)[/del] [ins](1-a)[/ins] E^{-1}} = E^{-1} (1 + (1-a) E^{-1} + (1-a)^2 E^{-2} + etc)
+= E^{-1} Σ
+
+z = [del]A[/del] + B n + C n^2 + etc
+D z = B + 2 C n + 3 D n^2 + etc
++ a z = [del]A[/del] + a B n + C a n^2 + etc
+
+[del]A[/del] + B = 1  C = \frac{1}{2} a  D = \frac{1}{3!} a^2  E = \frac{a^3}{4!}
+B = 1 - A a  C = \frac{1}{2} a (1 - A a)  D \frac{1}{3!}
+x = A
+z = [del]A[/del] [ins]a^2 A[/ins] + \frac{1-Aa}{a} \{ a n + \frac{1}{2!} a^2 n^2 + \frac{1}{3!} a^3 n^3 \} [del]Aa[/del] + \frac{1-Aa}{a} (x + a^2 n + \frac{1}{2!} a^3 n^2)
+z = [del]\frac{1}{a}[/del] + (1-A) e^{an}
+D z = (1-Aa) e^{an}
+a z = [del]1[/del] + (1-Aa) e^{an}

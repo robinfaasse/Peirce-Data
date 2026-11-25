@@ -1,0 +1,27 @@
+[marginalia]
+Now the $\Sigma (A_r + x) t$
+[/marginalia]
+
+Then my first development formula will be
+
+$\Sigma^c (a + bx)^c = \Phi x$
+
+where, however, $c$ may involve $x$.
+
+$c$ will in fact itself be of the same form.
+
+So that the formula should be written
+
+[del]$\Phi x = \Sigma_0^c (a_i + b_i x)^c$[/del] [ins]$\Phi x = \Sigma_0^c (a_i + b_i x)^{\Phi'_i x}$[/ins]
+
+Now, I reserve this important matter for future study. I ought somehow to get from it something answering to Maclaurin's theorem.
+
+This
+
+$\Phi(0) = \Sigma_i^c a_i^{\Phi'_i 0}$
+
+$\Phi(1) = \Sigma_i^c (a_i + b_i)^{\Phi'_i 1}$
+
+Here are only two equations for the determination of three unknown quantities.
+
+But returning to $\Phi x$ I can first separate this into a series of terms. For

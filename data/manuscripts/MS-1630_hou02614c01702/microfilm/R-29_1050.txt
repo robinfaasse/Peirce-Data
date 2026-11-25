@@ -1,0 +1,35 @@
+[pn]28[/pn] [u]Lecture XLVI[/u]
+
+[del]$\int_{x_{0}}^{x} fx = Fx$[/del]
+
+$\int f\phi x D\phi x = F\phi x$
+$\phi x = y$
+$F\phi x = Fy$
+$D_{x} F\phi x = D_{x} Fy = D_{y} Fy D_{x} y$
+$D_{y} Fy = fy$
+$= fy D_{x} y$
+$D_{x} F\phi x = f\phi x D_{x}\phi x$
+$F\phi x = \int_{x_{0}}^{x} f\phi x D_{x}\phi x$
+
+***
+
+CHAPTER II.
+
+[pn]20[/pn] [del]($2^{\text{nd}}$)[/del]
+$ax^{n}$
+
+[u]First[/u]
+$\int u Dv = uv - \int v Du$
+$a x^{n} \cdot 1 = D v$
+$= u$
+$v = x$
+
+[del]$ax^{n+1}$[/del] $- n \int a x^{n}$
+
+[u]Second[/u] $\int_{x_{0}}^{x} a x^{n} = \frac{a(x^{n+1} - x_{0}^{n+1})}{n+1}$
+
+[del][u]Third[/u][/del]
+
+[u]23[/u]
+
+[u]24[/u]

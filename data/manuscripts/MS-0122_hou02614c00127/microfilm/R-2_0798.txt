@@ -1,0 +1,21 @@
+[fig]Number line with mapping arrows[/fig]
+
+[del]If[/del] [ins]To[/ins] give [del]a figure for[/del] [ins]x' = [frac]25-x[/frac]/[frac]x[/frac][/ins]
+
+[del]x x' + (α+γ) x - (β-γ) x' + αβ = 0[/del]
+
+x' = [frac](α+γ) x - [del]αβ[/del] [ins]αβ[/ins][/frac]/[del]x - β + γ[/del] [ins]x - β + γ[/ins]
+
+x' = [frac](α+γ) x - αβ[/frac]/[frac]x - β + γ[/frac]
+
+If x = α     [frac]α² + αγ - αβ[/frac]/[frac]α - β + γ[/frac]
+
+If x = γ     [del][frac]γ² + αγ - αβ[/frac]/[frac]γ - β + γ[/frac][/del]
+
+If x = α + i     [frac]α(α-β+γ) + αi + γi[/frac]/[frac]α-β+γ + i[/frac] = [del]α + [frac]α+γ[/frac]/[frac]α-β+γ[/frac] i[/del] [ins]α + [frac]γi[/frac]/[frac]α-β+γ+i[/frac][/ins]
+= α + [frac]γi[/frac]/[frac]α-β+γ+i[/frac]
+= α + [frac]γ[/frac]/[frac]α-β+γ[/frac] i (1 - [frac]i[/frac]/[frac]α-β+γ[/frac])
+
+x = β + i     [frac]βγ + (α+γ)i[/frac]/[frac]γ(1 + [frac]i[/frac]/[frac]γ[/frac])[/frac]
+β + (1 + [frac]α[/frac]/[frac]γ[/frac]) i
+β + [frac]α-β+γ[/frac]/[del]γ[/del] i

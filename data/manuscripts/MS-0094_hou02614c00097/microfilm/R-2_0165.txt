@@ -1,0 +1,26 @@
+[pn]155[/pn]
+
+§80 But now suppose $C$ is not equal to $B^2$ but
+differs from $B^2$ by $D$, where $D$ may be a positive
+or a negative number. Then the equation is
+$$x^2 + 2Bx + B^2 + D = 0.$$
+Then $(x+B)^2 = -D.$
+Now [del]a[/del] [ins]no[/ins] positive number multiplied into itself gives
+a positive number; and [del]a[/del] [ins]its[/ins] negative multiplied into
+it gives the negative of that number; but the negative
+multiplied into itself gives the negative of that negative
+or the positive square again. So no positive or negative
+number multiplied into itself gives a negative number. Hence
+$-D$ must be positive or the equation has no root. We have
+$$C = B^2 + D$$
+Hence $-D = B^2 - C$;
+[del]If this is positive[/del] and we have
+$$(x+B)^2 = B^2 - C$$
+Take the square root of the two quantities. Then
+$$x+B$$
+may be $\sqrt{B^2-C}$ or it may be the [ins]corresponding[/ins] negative number.
+[del]Either then[/del] [ins]Thus, the two roots are[/ins]
+$$X_1 = -B + \sqrt{B^2-C}$$
+$$X_2 = -B - \sqrt{B^2-C}.$$
+And we see that agreeably to what we found above
+$$X_1 + X_2 = -2B.$$

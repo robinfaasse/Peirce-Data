@@ -1,0 +1,48 @@
+1. Through any two given points, there is but one continuum
+of points[del], that[/del] [ins]is a ray;[/ins] i.e. that is such as to contain every
+point contained by a ray through any two of its points.
+
+[fig]Right triangle with hypotenuse r, adjacent side R, and angle theta[/fig]
+
+[fig]Circle with radiating lines from a point on the circumference[/fig]
+
+$r = R \sec (\theta - \Theta)$
+
+$r = \tan \theta$
+$\rho = \tan 2\theta$
+
+$\frac{a x + b y + c z}{e x + f y + g z}$ [del]$(ax+b+c)=1$[/del]
+
+[fig]Four-sided polygon with diagonals[/fig]
+
+$\frac{2 \sin \theta \cos \theta}{\sin^2 \theta - \cos^2 \theta}$
+$= \frac{2 \tan \theta}{\tan^2 \theta - 1}$
+$= \frac{2r}{r^2 - 1}$
+
+$r = R_1 \sec (\theta - \Theta_1)$
+$r = R_2 \sec (\theta - \Theta_2)$
+
+[fig]Intersecting lines forming a network[/fig]
+
+[fig]Circle with inscribed triangle and vertical line[/fig]
+
+[del]$r = \cos \theta$[/del]
+$\theta - \Theta_1 = 90^\circ + M 180^\circ$
+$\theta - \Theta_2 = 90^\circ + N 180^\circ$
+
+$\rho = \frac{2r}{1 - r^2}$
+
+$r = R \tan \theta$
+$\rho = 2 R \tan \frac{1}{2} \theta$
+$\tan \theta = \frac{2 \tan \frac{1}{2} \theta}{\tan^2 \frac{1}{2} \theta - 1}$
+
+$\frac{1}{R_1} \cos \theta \cos \Theta_1 + \frac{1}{R_1} \sin \theta \sin \Theta_1$
+$= \frac{1}{R_2} \cos \theta \cos \Theta_2 + \frac{1}{R_2} \sin \theta \sin \Theta_2$
+
+$(\frac{\rho}{2R} - 1) (\frac{\rho}{2R} + 1)$
+
+$\tan \theta = \frac{\frac{1}{R_2} \cos \Theta_2 - \frac{1}{R_1} \cos \Theta_1}{- \frac{1}{R_2} \sin \Theta_2 + \frac{1}{R_1} \sin \Theta_1}$
+
+$r^2 = \frac{\rho^2}{4R^2} - 1$
+
+$r = \frac{\rho}{}$

@@ -1,0 +1,37 @@
+$$\begin{aligned}
+y_{3} &= 1 + 6 \cdot 6 = 37 \\
+y_{4} &= 6 + 6 \cdot 37 = 228 \\
+y_{5} &= 37 + 6 \cdot 228 = 1405 \\
+&\text{etc.}
+\end{aligned}$$
+
+$$\begin{aligned}
+0 \\
+1 \\
+6 \\
+37 \\
+6 + 6 \cdot 37 &= 228 \\
+37 + 6 \cdot 228 &= \\
+228 \\
+\underline{\ \ \ \ \ 6} \\
+1368 \\
+\underline{\ \ \ 37} \\
+1405
+\end{aligned}$$
+
+Then the successive
+approximations to $y$ will
+be
+$$\frac{1}{6}\ \ \frac{6}{37}\ \ \frac{37}{228}\ \ \frac{228}{1405}$$
+and the successive approximations to
+$\sqrt{10}$ will be $3$ more than that
+
+Thus
+$$\left(3 + \frac{1}{6}\right)^{2} = 9 + 2 \cdot \frac{3}{6} + \frac{1}{36} = 10\ \frac{1}{36}$$
+$$\left(3 + \frac{6}{37}\right)^{2} = 9 + 2\ \frac{18}{37} + \frac{36}{1069} = 10 - \frac{1}{1069}$$
+$$\left(3 + \frac{37}{228}\right)^{2} = 9 + \frac{222}{228} + \frac{37^{2}}{228^{2}} = 10\ \frac{1}{(228)^{2}}$$
+$$\text{etc.}$$
+
+In this way square roots, cube roots etc
+and many other quantities are easily
+found

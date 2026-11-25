@@ -1,0 +1,15 @@
+First Prin
+5
+we erase [del]z[/del] [ins]x[/ins] instead, we might erase [del]either[/del] [ins]y[/ins] [del]x[/del] [ins]y[/ins] [del]or y[/del],
+showing that we might assert [del][ins]x[/ins]/y[/del] [ins]y/x[/ins] alone. But let
+us instead erase [del]x[/del] [ins]y[/ins], leaving [del]y[/del] [ins]x[/ins]. Then since we
+might have written z alone, we can [del]write[/del] [ins]insert[/ins] it
+now, giving [del]y z[/del] [ins]x z[/ins]; and then, since we might
+have written [del]x[/del] [ins]y[/ins] alone, we can insert it now
+giving [del]x y z[/del] [ins]x y z[/ins]. Thus we have,
+[del]y z y x ⋅ z = y ⋅ x z[/del] [ins]x y ⋅ z = x ⋅ y z[/ins],
+proving the associative principle.
+[u]Corollary 3.[/u] Any component of an asserted proposition
+may be erased without danger of falsehood.
+[u]Corollary 4.[/u] Any component of an asserted propo-
+sition may be iterated to any multitude of times.

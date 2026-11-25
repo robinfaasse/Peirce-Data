@@ -1,0 +1,66 @@
+$\phi = \text{Geog Lat}$
+
+$\log \tan (45^{\circ} - \phi)$
+
+$\frac{\sec^{2} (45^{\circ} - \phi)}{\tan (45^{\circ} - \phi)}$
+
+$= \frac{2}{\sin (90^{\circ} - \phi)} = 2 \sec \phi$
+
+[fig]Circle with inscribed lines and angles[/fig]
+
+$\sqrt{21} = 4.58$
+$\sqrt{21} = 4 \frac{19}{33.16}$
+
+$R \tan \phi + R \cos \phi = R$
+$R \frac{\sin \phi}{\cos \phi} + R (\frac{1}{\cos \phi} - 1)$
+$r^{2} + (z-1)^{2} = R^{2}$
+
+$\underline{2 R \tan \frac{\phi}{2} = \rho}$
+$2 R \tan \frac{1}{2} (90^{\circ} - \phi)$
+$2 R \tan (45^{\circ} - \frac{1}{2} \phi)$
+
+$\frac{2 R \sec^{2} (45^{\circ} - \frac{1}{2} \phi)}{2 R \tan (45^{\circ} - \frac{1}{2} \phi)}$
+$= 2 R$
+
+$(\frac{r}{R})^{2} + (\frac{z}{R})^{2} = 1$
+
+$(\frac{r}{R})^{2} + \frac{z^{2}}{R(1+e)^{2}} = 1$
+
+$\frac{r^{2}}{1} + \frac{z^{2}}{(1+e)^{2}} = R^{2}$
+$z^{2} = (1+e)^{2} (R^{2} - r^{2})$
+$2 z dz = - (1+e)^{2} r dr$
+$dz = - (1+e)^{2} \frac{r}{z} dr$
+$dz = - (1+e) \frac{r}{\sqrt{R^{2}-r^{2}}} dr$
+$(1+e) \sqrt{R^{2}-r^{2}} dz = - (1+e)^{2} r dr$
+
+$\frac{dz}{dr} = - (1+e) \frac{r}{\sqrt{R^{2}-r^{2}}}$
+$1 + (\frac{dz}{dr})^{2} = 1 + (1+e)^{2} \frac{r^{2}}{R^{2}-r^{2}}$
+$= \frac{R^{2} + 2 e r^{2}}{R^{2}-r^{2}}$
+
+$\sqrt{1 + (\frac{dz}{dr})^{2}} = \sqrt{\frac{1 + 2 e (\frac{r}{R})^{2}}{1 - (\frac{r}{R})^{2}}} = \frac{1 + e (\frac{r}{R})^{2}}{\sqrt{1 - (\frac{r}{R})^{2}}}$
+
+$dr \frac{\sqrt{1 + (\frac{dz}{dr})^{2}}}{r} = d \log r \sqrt{1 + r^{2} (\frac{dz}{d \log r})^{2}}$
+
+$\frac{dx}{dr} =$
+
+$d \log r = \frac{1}{r} dr$
+$(dr)^{2} = r^{2} (d \log r)^{2}$
+$\frac{dz^{2}}{dr^{2}} = \frac{dz^{2}}{r^{2} d \log r^{2}}$
+
+$\frac{x}{y}$
+
+$\frac{\sqrt{1-x^{2}}}{x}$
+$- \frac{\frac{x}{\sqrt{1-x^{2}}}}{x^{2}}$
+
+$d \frac{u}{v} = \frac{du \cdot v - dv \cdot u}{v^{2}}$
+
+$d \frac{x}{\cos x} = d \frac{x}{\cos x}$
+
+$x \cdot \frac{\sin x}{\cos^{2} x} = \sqrt{1 - \frac{\sin^{2} x}{\cos^{2} x}}$
+
+$d (\cos x)^{-2}$
+$d \sqrt{\frac{1-\cos^{2}}{\cos^{2}}} = \frac{1}{2} \sqrt{\frac{\cos^{2}}{1-\cos^{2}}} \cos$
+
+$\frac{x^{m}}{x^{n}} = \frac{m x^{m-1} \cdot x^{n} - n x^{n-1} \cdot x^{m}}{x^{2n}}$
+$= \frac{m x^{m+n-1} - n x^{m+n-1}}{x^{2n}}$
+$= (m-n) x^{m-n-1}$

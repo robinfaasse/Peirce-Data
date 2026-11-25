@@ -1,0 +1,22 @@
+[u]XXV[/u]. A heavy line of connection is equivalent to connections of all its extremities to mutually transformable but otherwise unknown individual vertices of graphs.
+
+Proof. [fig]oval containing "loves" with line to x[/fig] ~ [fig]oval containing "loves" with line to x[/fig] by VIII
+
+[fig]oval containing "loves" with two lines to x[/fig] ~ [fig]oval containing "loves" with two lines to x[/fig] by XXII
+
+[fig]oval containing "loves" with two lines to x[/fig] ~ [fig]oval containing "loves" with two lines to x[/fig] by XVII
+
+And conversely [fig]x-loves-x[/fig] ~ [fig]x-loves-x[/fig] by IX
+[fig]x-loves-x[/fig] ~ [fig]oval containing "loves"[/fig] by XVII.
+
+[u]XXVI[/u]. The [del]outermost[/del] [ins]innermost[/ins] [del]efficient[/del] bond [ins]of connection[/ins] between two graphs is inside their innermost common enclosure.
+
+Proof. Let two graphs [del]a[/del] [ins]a[/ins] and [del]b[/del] [ins]b[/ins] be [del]enveloped in[/del] [ins]joined by[/ins] [del]one oval[/del] [ins]a bond[/ins] and connected by a heavy line extending beyond that oval.
+Then I say that the whole is mutually transformable with [fig]two nested ovals containing a and b[/fig]
+
+For on the one hand by [del]XVIII[/del] [ins]VI[/ins] [fig]oval containing a and b with external loop[/fig] ~ [fig]nested ovals containing a and b with external loop[/fig]
+[special_character] by XVII [fig]oval containing a and b[/fig] ~ [fig]nested ovals containing a and b[/fig]
+[special_character] by XXIII [fig]oval containing a and b with loop[/fig] ~ [fig]nested ovals containing a and b with loop[/fig]
+
+And on the other hand
+by [del]XVIII[/del] [ins]VI[/ins] [fig]oval containing a and b with complex loop[/fig] ~ [fig]nested ovals containing a and b with complex loop[/fig] [special_character] by XVII [fig]oval containing a and b with loop[/fig] [special_character] by XXIII [fig]nested ovals containing a and b with loop[/fig] ~ [fig]oval containing a and b[/fig]

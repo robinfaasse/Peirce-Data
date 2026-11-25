@@ -1,0 +1,22 @@
+$$D_t s = (D_t s)^2$$
+$$D_t (D_t s)^2 = (D_t s)^2$$
+$$D_t^2 s = (D_t s)^2$$
+$$s = C - \log (D_t s)^2$$
+$$(D_t s)^2 = C e^{-s}$$
+$$D_t s = C^{\frac{1}{2}} e^{-\frac{1}{2} s}$$
+$$D_s t = C^{-\frac{1}{2}} e^{\frac{1}{2} s}$$
+
+$$D_x y = x^{-1}$$
+$$y = C + \log x$$
+
+[fig]exponential decay curve[/fig]
+
+$$t = T_0 - 2 C^{-\frac{1}{2}} e^{-\frac{1}{2} s}$$
+
+Dr. J. Franklin Jameson
+196 Bowen Street
+Providence
+R. I.
+
+$$\log \left(\frac{T_0 - t}{2}\right)^2 = \frac{1}{2} b s$$
+$$2 b \log \left(\frac{T_0 - t}{2}\right)^2 = s$$

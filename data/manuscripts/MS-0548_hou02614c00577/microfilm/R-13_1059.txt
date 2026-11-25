@@ -1,0 +1,28 @@
+```
+[fig]curly bracket grouping the following seven lines[/fig]
+[ins]x[/ins] [del]⤙[/del] [ins]⤚[/ins] [u]A[/u] ⤙ P ⤙ [u]β[/u]
+[ins]x[/ins] ⤙ [del]J[/del] [ins]J[/ins] ⤙ P ⤙ [u]β[/u]
+[ins]x[/ins] ⤙ [u]C[/u] ⤙ (P ⤙ [u]β[/u])
+[ins]x[/ins] ⤙ [u]C[/u] ⤙ P ⤙ [u]β[/u]
+[ins]x[/ins] ⤙ [del]C[/del] [ins]C[/ins] ⤙ P ⤙ [u]β[/u]
+[ins]x[/ins] ⤙ [u]C[/u] ⤙ J ⤙ P ⤙ [u]β[/u]
+[ins]x[/ins] ⤙ [u]C[/u] ⤙ J ⤙ [u]β[/u]
+
+[u]
+  [ins]24[/ins]
+  [ins]24[/ins]
+  726
+[/u] syllogisms
+
+P ⤙ β     [u]P[/u] ⤙ [u]β[/u]
+P ⤙ [u]β[/u]     [u]P[/u] ⤙ β
+[u]P[/u] ⤙ β     P ⤙ [u]β[/u]
+[u]P[/u] ⤙ [u]β[/u]     P ⤙ β
+
+[u]
+  [del]16[/del]
+  16
+  256
+[/u] syllogisms
+[u]  726[/u]
+982 syllogisms.

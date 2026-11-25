@@ -1,0 +1,87 @@
+[pn]Cu
+18[/pn] of which the sum of certain numbers called the $\beta$s (which are different in
+different terms) is always to be equal to $n$. [del]But the sum of no $\beta$ can[/del] [ins]But[/ins]
+be a negative number, nor can any one be as great as $n$. [ins]$\Pi \frac{1}{\beta!}$ denotes[/ins]
+any one term
+
+$$(a+b+c+d)^5 = a^5 + b^5 + c^5 + d^5 +$$
+
+[marginalia]
+13
+52
+[/marginalia]
+
+$$\begin{array}{cccc}
+a & b & c & d \\
+0 & 0 & 1 & 4 \\
+0 & 0 & 2 & 3 \\
+0 & 0 & 3 & 2 \\
+0 & 0 & 4 & 1 \\
+0 & 1 & 0 & 4 \\
+0 & 1 & 1 & 3 \\
+0 & 1 & 2 & 2 \\
+0 & 1 & 3 & 1 \\
+0 & 1 & 4 & 0 \\
+0 & 2 & 0 & 3 \\
+0 & 2 & 1 & 2 \\
+0 & 2 & 2 & 1 \\
+0 & 2 & 3 & 0
+\end{array}
+\quad
+\begin{array}{cccc}
+a & b & c & d \\
+0 & 3 & 0 & 2 \\
+0 & 3 & 1 & 1 \\
+0 & 3 & 2 & 0 \\
+0 & 4 & 0 & 1 \\
+0 & 4 & 1 & 0 \\
+1 & 0 & 0 & 4 \\
+1 & 0 & 1 & 3 \\
+1 & 0 & 2 & 2 \\
+1 & 0 & 3 & 1 \\
+1 & 0 & 4 & 0 \\
+1 & 1 & 0 & 3 \\
+1 & 1 & 1 & 2 \\
+1 & 1 & 2 & 1 \\
+1 & 1 & 3 & 0
+\end{array}
+\quad
+\begin{array}{cccc}
+a & b & c & d \\
+1 & 2 & 0 & 2 \\
+1 & 2 & 1 & 1 \\
+1 & 2 & 2 & 0 \\
+1 & 3 & 0 & 1 \\
+1 & 3 & 1 & 0 \\
+1 & 4 & 0 & 0 \\
+2 & 0 & 0 & 3 \\
+2 & 0 & 1 & 2 \\
+2 & 0 & 2 & 1 \\
+2 & 0 & 3 & 0 \\
+2 & 1 & 0 & 2 \\
+2 & 1 & 1 & 1 \\
+2 & 1 & 2 & 0
+\end{array}
+\quad
+\begin{array}{cccc}
+a & b & c & d \\
+2 & 2 & 0 & 1 \\
+2 & 2 & 1 & 0 \\
+2 & 3 & 0 & 0 \\
+3 & 0 & 0 & 2 \\
+3 & 0 & 1 & 1 \\
+3 & 0 & 2 & 0 \\
+3 & 1 & 0 & 1 \\
+3 & 1 & 1 & 0 \\
+3 & 2 & 0 & 0 \\
+4 & 0 & 0 & 1 \\
+4 & 0 & 1 & 0 \\
+4 & 1 & 0 & 0
+\end{array}$$
+
+[u]
+$$\begin{array}{c}
+5 \\
+\hline 52
+\end{array}$$
+[/u]

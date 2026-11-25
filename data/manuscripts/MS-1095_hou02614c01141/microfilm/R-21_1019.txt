@@ -1,0 +1,22 @@
+[del]U = gmhθt[/del]
+[del]U = 1/2 gmh_0 θ_0^2[/del] [ins]m_1 h[/ins]
+
+[ins]1/2 gmh (θ_0 + δθ)^2[/ins]
+[ins]θ_0^2 +[/ins]
+ε = [ins]gmh[/ins]/[del]ω[/del]
+
+U = 1/2 g (m_0 h_0 + m_1 r) θ_0^2 + gmh θ_0 δθ + 1/2 gmh 1/ω (δθ)^2
+
+x_0 = h_0 [del]sin[/del] θ_0  y_0 = h_0 [del]cos θ_0[/del]
+
+[del]x_1[/del] = r sin θ_0 + h sin θ  y_1 = r cos θ_0 + h cos θ
+
+y_0 = 1/2 h_0 θ_0^2  (θ_0 + δθ)^2 = θ_0^2 + 2 θ_0 δθ
+
+x = (r + h) θ_0 + h δθ  y = 1/2 (r + h) θ_0^2 + h θ_0 δθ
+
+[del]D_t x_0 = h_0 cos θ_0[/del]
+
+D_t x_0 = h_0 D_t θ_0  D_t y_0 = h_0 θ_0 D_t θ_0
+
+(D_t x_0)^2 + (D_t y_0)^2 = (1 + θ_0^2) h_0^2 (D_t θ_0)^2

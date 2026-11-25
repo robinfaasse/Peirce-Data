@@ -1,0 +1,16 @@
+62r
+
+So that if there are no relatives
+
+$$\varphi x \equiv \varphi_{1,s}(1-\varphi_{0,s})x + \varphi_{0,s}(1-\varphi_{1,s})(1-x)$$
+$$\equiv \varphi_{1,s}x - [del]\varphi_{1,s}[/del]\varphi_{0,s}x + \varphi_{0,s} - \varphi_{0,s}x - \varphi_{1,s}\varphi_{0} + \varphi_{1,s}\varphi_{0,s}x$$
+$$\begin{aligned} \equiv \varphi_{1,s}x + \varphi_0 + \varphi_{1,s}\varphi_{0,s}x - \varphi_{0,s}x - \varphi_{1,s}\varphi_0 \\ - \varphi_{1,s}\varphi_{0,s}x \end{aligned}$$
+$$\equiv (\varphi_{1}-\varphi_{0})_{s}x + \varphi_{0} (1-x) - \varphi_{1,s}\varphi_{0}$$
+
+There must be some mistake here
+
+$$\varphi x - \varphi_{1,s}(\varphi - \varphi_0)_{s}x \equiv \varphi_{1,s}\varphi_{0,s}x + \varphi_{0,s}(1-x)$$
+$$\equiv \varphi_{1,s}\varphi_{0,s}x + \varphi_{0} - \varphi_{0,s}x$$
+$$\varphi x = \varphi_{1,s}\varphi_0 + \varphi_{1,s}(1-\varphi_0)_{s}x + \varphi_{0,s}(1-\varphi_{1,s})(1-x)$$
+
+[u]I drop this here for the present.[/u]

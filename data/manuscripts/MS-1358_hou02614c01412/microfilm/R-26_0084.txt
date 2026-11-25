@@ -1,0 +1,52 @@
+[marginalia]Morrison's Bridge 1873 Jan 25[/marginalia]
+
+[del]There are now two ideas to be pursued.[/del]
+[del]One - that by first supposing all variation is variation of height[/del]
+[del]followed by horizontal variation and so on alternately, the same[/del]
+[del]result is reached[/del]
+The other - that by allowing only one [del]$\theta_n$[/del] to change at each
+variation together with variations of $l_0$, $l_N$, $\theta_0$ and $\theta_N$ an
+equation is reached easier to solve -
+
+[u]Variation of Height only[/u]
+If all variation is variation of height only, the ends remain
+fixed.
+The total energy
+$hg \int y dx + E \int (D_x \text{arc tan} D_x y)^2 dx$
+$+ \int \frac{(D_x^2 y)^2}{[1 + (D_x y)^2]^2} dx$
+
+$D_x \text{arc tan} D_x y$
+$= D_x^2 y \cdot (1 + D_x y^2)^{-1}$
+
+$u^2 = \frac{u^3}{3}$
+$\frac{1}{3} D(u^3) \cdot Du$
+$\int u^2 = \frac{1}{3} D(u^3) \cdot u$
+$- \frac{1}{3} \int [u D^2(u^3)]$
+$= \frac{1}{3} u^3 Du$
+$- \frac{1}{3} \int u^3 D^2 u$
+
+$D_t D_s D_t s = D_t D_s \frac{1}{D_s t} = - D_t \frac{D_s^2 t}{(D_s t)^2} = - [del]D_t[/del] \frac{\frac{1}{2} D_t (D_s t)^2}{(D_s t)^2}$
+
+[del]$\frac{D_s^2 t}{(D_s t)^2} = 2 \frac{D_s^2 t}{(D_s t)^2}$[/del]
+
+$\frac{1}{2} D_t (D_s t)^2 = [del]D_t D_s t \cdot D_s t[/del] D_s D_t [del]D_s t[/del] \cdot D_s [del]D_s t[/del] [ins]$D_s t$[/ins] $= \frac{1}{2} D_s \cdot 2 D_s t \cdot D_s^2 t = D_s^2 t$
+
+[del]$C \equiv$[/del] $\frac{1}{2} [del]D_s^2[/del] D_t^2 \log (D_s t)^2 = - D_t^2 \log (D_s t)$
+
+$\frac{- D_t D_s^2 t \cdot (D_s t)^2 + D_s^2 t \cdot D_t (D_s t)^2}{(D_s t)^4} = 3 (D_t s)^2 (D_t^2 s)^2 - (D_t s)^3 (D_t^3 s) - 2 (D_t s)^3 (D_t^3 s)$
+
+$D_t (D_s t)^2 = 2 D_s^2 t$
+$D_t D_s^2 t = \frac{1}{2} D_t^2 (D_s t)^2 = \frac{1}{2} D_t^2 (D_t s)^{-2} = - D_t [ (D_t s)^{-3} D_t^2 s ]$
+$= [del]D_t^2[/del] 3 (D_t s)^{-4} (D_t^2 s)^2 - (D_t s)^{-3} (D_t^3 s)^2$
+
+$D_t (D_s t)^2 = D_t (D_t s)^{-2} = - 2 (D_t s)^{-3} D_t^2 s$
+
+$D_t D_s D_t s = D_t (D_s t \cdot D_s^2 s) = - D_t ((D_t s)^{-1} D_t^2 s) = - (D_t s)^{-2} (D_t^2 s)^2 + (D_t s)^{-1} (D_t^3 s)$
+
+[del]$\frac{D_t^2 u}{D_t u}$[/del]
+$D u^2 = 2 u^2 Du$
+$u^2 = \frac{1}{3} D u^3 \frac{1}{Du}$
+$\int u^2 = \frac{1}{3} \frac{u^3}{Du} + \frac{1}{3} \int \frac{u^3 D^2 u}{(Du)^2}$
+
+$\frac{Du^3}{u} \log u$
+$\int u^2 = \frac{1}{3} Du^3 \cdot \log u - \int D^2 u^3 \log u$

@@ -1,0 +1,31 @@
+THE CALCULUS OF FINITE DIFFERENCES.
+
+[del]Art.[/del] [ins]1.[/ins] The calculus of finite differences is an algebraic method
+of treating problems of the dependence of quantities upon
+whole numbers. Thus if $x$ is the number of a house in a
+certain street and $u_x$ the number of people living in that
+house, the relation between $x$ and $u_x$ illustrates the kind
+of dependence considered. There may be no discernible law
+in that relation, although what will be considered will
+usually be general relations between two such quantities,
+as $u_x$ [del]and[/del] [ins]or[/ins] $v_x$. In some cases, however, $u_x$ is calculable by an
+arithmetical rule from $x$.
+
+Art. 2. The problems of the calculus are [del]various[/del]. They are
+divided into the direct, among which may be mentioned [del]that[/del]
+of interpolation, or the finding of intermediate values of a
+function from known values, and their law, and the inverse
+such as the finding of the [del]y[/del] algebraic form of a function which
+fulfils certain conditions.
+
+Art. 3. The chief instruments of the calculus are three symbols
+of operation $E$, $\Delta$, and $\Sigma$, which are treated according to algebraic
+rules. Of these, $E$ is the fundamental operation. It is defined
+as the operation which increases the variable of a function [ins]usu-[/ins]
+ally written as a subjacent index, by unity. It is called by [del]McClin-[/del]
+[del]tock the enlargement.[/del] If there can be any doubt as to [del]the[/del] which vari-
+able is to be increased, this is written against the $E$ as a subjacent
+index. If the variable is to be increased only in some of the places into
+which it enters into the function, a line may be drawn under [del]the[/del] [ins]under[/ins]
+[del]the omitted[/del] [ins]those[/ins] in [del]those[/del], [ins]and[/ins] a similar line being drawn (or omitted) [del]in[/del] [ins]under[/ins]
+the subjacent index of the $E$. Thus, $E_{\underline{x}} u_{\underline{x}} v_x = u_{x+1} v_x$

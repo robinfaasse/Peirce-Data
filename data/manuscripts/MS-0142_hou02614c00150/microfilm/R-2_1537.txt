@@ -1,0 +1,41 @@
+The following is a particular case of an important proposition
+in topical geometry. Suppose an empire without cyclosis on
+a spheroidal surface (having all the coigns trihedral) con-
+sists of sub-empires without cyclosis. Let E be the number
+of outward coigns of the great empire, I that of its inward
+(not interior) coigns. Let $e_n$ and $i_n$ be the same for any one of
+the subempires. Then
+$$I - E + 6 = \Sigma_n (i_n - e_n + 6).$$
+If the subempires are single regions $i_n = 0$, and we have
+$$E = I + 6 + \Sigma_n (e_n - 6).$$
+In order to illustrate the use of this, note that the equation
+$$4N_2 + 3N_3 + 2N_4 + N_5 = 12 + N_7 + 2N_8 + 3N_9 + \text{etc.},$$
+would permit a map to consist of 13 pentagonal regions and one
+heptagonal region. But in that case there would be an empire
+consisting of the heptagon and two pentagons, which would have,
+$3 + 6 + (1 - 1 - 1) = 8$ [del]outward coigns[/del] [ins]inward coigns[/ins]. [del]Hence, if the boundaries
+between these three regions were erased, the result would be a map
+consisting of an octagon, 3 tetragons, and 8 pentagons[/del] The rest of
+the map would, therefore, be an empire of 11 pentagons with 8
+inward coigns and 3 outward coigns. That is
+$$3 = 8 + 6 - 11$$
+
+[fig]Diagram of a circular ring divided into 6 sectors[/fig] 6
+[fig]Diagram of a circular ring divided into 8 sectors[/fig]
+$$7 = 7 + 6 - 6$$
+[fig]Diagram of a circle with 8 radial lines[/fig]
+[fig]Diagram of a flower-like shape with 5 petals[/fig]
+
+[fig]Diagram of a circle with 12 sectors and a central circle[/fig]
+$\begin{array}{c} 12 \\ \underline{4} \\ 8 \end{array}$
+$\begin{array}{c} 8 - \end{array}$
+$\begin{array}{c} \text{//} \\ 3 \\ 3 \\ 3 \end{array}$
+
+$$I + 6 - 13 = 0$$
+$$E - I = 6 - N$$
+$$I = N - 6$$
+
+[fig]Circle[/fig]
+$\begin{array}{c} 4 \\ 9 \\ 14 \end{array}$
+
+[fig]Diagram of overlapping circles[/fig]

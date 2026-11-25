@@ -1,0 +1,34 @@
+[pn]143[/pn]
+
+Now [del]adding[/del] [ins]subtracting[/ins] nine times the first column [del]to[/del] [ins]from[/ins] the second, we
+get
+
+$$\begin{array}{c}
+-1 (y + 9z) + 0z = 0, \\
+(1-y)(y + 9z) + (9 + 6y)z = 0.
+\end{array}$$
+
+That is,
+
+$$(9 + 6y)z = 0.$$
+
+That is, either $z = 0$ or $9 + 6y = 0$, and $y = \frac{9}{6}$.
+
+§75. In performing this operation, it is needless to take
+account of the characters of the unknown quantities, except
+those that are in the multipliers of unknown quantities. We
+can just write down these multipliers, as many rows as
+columns, and then any number of times any row may be
+added [ins]to[/ins] or subtracted from any row; and the same rule
+holds for the columns.
+
+When all the numbers in a row [ins](or column)[/ins] are zero except one,
+we can wipe out that row [ins](or column)[/ins] and the column [del]for row[/del]
+that contains that one number. And the same rule holds
+interchanging "row" and "column."
+
+For example, going back to our [del]three[/del] original [del]three[/del]
+terms, we add to them to make as many rows
+as columns, [del]at[/del] $px + qy + rz = px + qy + rz$.
+
+We then have —

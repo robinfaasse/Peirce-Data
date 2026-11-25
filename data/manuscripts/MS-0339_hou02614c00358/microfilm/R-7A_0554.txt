@@ -1,0 +1,50 @@
+[marginalia]
+[date]1906 Aug 31[/date]
+[/marginalia]
+[pn]300r[/pn]
+
+[del]A:B - B:A[/del]
+[del]A:C - C:A[/del]
+[del]A:D - D:A[/del]
+[del]A:E - E:A[/del]
+
+A:B - B:A = [del]i[/del]
+[del]-[/del] A:A - B:B = -1
+A:A + B:B = 1
+- A:B + B:A = -i
+
++ A:B - B:A + C:C = k
+A:A + B:C - C:B = i
+- A:B + B:B + C:A = j
+[u]i[/u]i = - A:C + B:A - C:B
+jk = - A:C - B:A + C:B
+[del]ki =[/del] [del]- A:C[/del] - B:A - C:B
+
+[bracket]
+kj = + A:B + B:C + C:A
+ji = + A:B + B:C + C:A
+ik = + A:B + B:C + C:A
+[/bracket]
+
+i² = A:A - B:B - C:C
+j² = - A:A + B:B - C:C
+k² = - A:A - B:B + C:C
+
+ijk = - A:C + B:B + C:A = j
+kji = A:C - B:B + C:A = [del]k[/del]
+jki = A:B - B:A + C:C = k
+iki = A:B + B:A - C:C
+kij = A:A + B:C - C:B = i
+jik = - A:A + B:C + C:B
+i³ = A:A - B:C + C:B
+i⁴ = A:A + B:B + C:C
+
+[marginalia]
+i = A:B - B:A + C:D - D:C + E:F - F:E + G:H - H:G
+j = A:C - B:D - C:A + D:B - E:H + F:G - G:F + H:E
+k = - A:D - B:C + C:B + D:A + E:G - F:H - G:E + H:F
+l = A:E - B:F - C:H - D:G - E:A + F:B + G:D + H:C
+m = - A:F - B:E - C:G + D:H + E:B + F:A + G:C - H:D
+n = - A:H + B:G - C:E - D:F + E:C + F:D - G:B + H:A
+o = + A:G + B:H - C:F + D:E + E:D - F:C + G:A - H:B
+[/marginalia]

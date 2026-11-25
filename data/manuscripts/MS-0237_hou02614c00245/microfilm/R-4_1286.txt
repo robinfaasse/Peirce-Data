@@ -1,0 +1,28 @@
+[pn]D"[/pn]
+
+[u]Formulae for repeated differentiation[/u]
+
+[u]Du[/u] / u = Dlog u
+
+[u]D²u[/u] / u = D²log u + (Dlog u)²
+
+[u]D³u[/u] / u = D³log u + 3 Dlog u · D²log u + (Dlog u)³
+
+[u]D⁴u[/u] / u = D⁴log u + 4 Dlog u · D³log u + 3 (D²log u)² + 6 (Dlog u)² D²log u + (Dlog u)⁴
+
+[u]D⁵u[/u] / u = D⁵log u + 5 Dlog u · D⁴log u + 10 D²log u · D³log u + 10 (Dlog u)² D³log u + 15 Dlog u · (D²log u)²
++ 10 (Dlog u)³ D²log u + (Dlog u)⁵
+
+For example, required the successive differentiation of u/v
+
+v/u D u/v = Dlog u/v = Dlog u - Dlog v  D u/v = [u]Du[/u]/v - [u]u Dv[/u]/v²
+
+v/u D² u/v = D²log u - D²log v + (Dlog u)² - 2 Dlog u · Dlog v + (Dlog v)²
+
+D² u/v = [u]v[/u]/u D² u/v [del]· u/v[/del] = [del]u/v[/del] [ins]u/v[/ins] { [u]D²u[/u]/u - [u]D²v[/u]/v + [u](Du)²[/u]/u² - 2 [u]Du Dv[/u]/uv + [u](Dv)²[/u]/v² }
+
+= [u]D²u[/u]/v - [u]u[/u]/v² D²v + 2 [u]u(Dv)²[/u]/v³ - 2 [u]Du Dv[/u]/v²
+
+v/u D³ u/v = D³log u - D³log v + 3 (Dlog u - Dlog v) (D²log u - D²log v) + (Dlog u)³ - 3 (Dlog u)² Dlog v + 3 Dlog u (Dlog v)² - (Dlog v)³
+
+D³ u/v = u/v ( D³ u/v - 3

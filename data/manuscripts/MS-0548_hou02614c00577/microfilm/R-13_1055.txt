@@ -1,0 +1,12 @@
+$$\{a(b+c)\}_{ij} = \sum_{x} a_{ix} (b+c)_{xj}$$
+$$= \sum_{x} a_{ix} \prod_{y} (b_{xy} + c_{yi})$$
+$$= \sum_{x} \prod_{y} a_{ix} (b_{xy} + c_{yi})$$
+
+$$\{ab+c\}_{ij} = \prod_{y} \{(ab)_{iy} + c_{yj}\} =$$
+$$= \prod_{y} \sum_{x} (a_{ix} b_{xy}) + c_{yi}$$
+
+[fig]Line connecting the two main blocks of equations[/fig]
+
+[del]\sum_{x} \prod_{y} a_{ix} b_{xy} +[/del] $\sum_{x} \prod_{y} a_{ix} c_{yi}$
+[del]$a(b+c)$[/del]
+$\overline{a}(b+c)$

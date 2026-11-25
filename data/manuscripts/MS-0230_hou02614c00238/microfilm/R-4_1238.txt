@@ -1,0 +1,37 @@
+$$x_1^2 y_2^2 + x_2^2 y_1^2 + 2 x_1 x_2 y_1 y_2 = (x_1 y_2 + x_2 y_1)^2$$
+
+[del][fig]scribble[/fig][/del]
+
+$$\frac{[xy]^2}{2} + \frac{[yz]^2 + [zx]^2}{4} \ge [xy]^2$$
+
+$$\frac{[yz]^2 + [zx]^2}{2} \ge [xy]^2$$
+
+$$\begin{vmatrix} [yz] & [zx] \\ [xy] & [yz] \end{vmatrix}$$
+
+[del][fig]crossed out triangle[/fig][/del]
+
+$$([yz] - [zx])([zx][yz])$$
+
+$$[yz][zx][yz] - [zx]^2 [yz]$$
+
+$$[zx]([yz]^2 + [zx][yz])$$
+
+$$\frac{2 [yz]^2 - 2 [zx]^2 - 2 [yz]^2 +}{14}$$
+
+$$(x + y - z)^2 = [x^2] + [y^2] + [z^2]$$
+
+$$(x + y + z)^2$$
+
+---
+
+$$x^2 + y^2 + z^2 + 2xy + 2xz + 2yz$$
+
+$$([z^2] + [xy])^2 \ge [zy]^2$$
+
+$$[zx]^2 + [xy]^2 \ge [zx][xy] \cdot 2$$
+
+$$2 [zx][xy] + [z^2] - [zx] - [yz]$$
+
+$$2 [zx][xy] - [zx]^2 - [yz]^2$$
+
+$$2 [zx][xy]$$

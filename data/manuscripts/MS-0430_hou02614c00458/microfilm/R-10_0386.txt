@@ -1,0 +1,13 @@
+[pn]Logic
+III
+69[/pn] completely written out, since its constituents must
+be written, if at all, one by one.
+
+(79) If [del](x < y)[/del] [ins]x < y[/ins] then x < y
+(80) If x < y [del](x <)[/del] x < x
+(81) (x < y) < y = (y < y) < x
+(82) If (x < y) < z then (x < z) < z = x < z [del]= (x < z) < y[/del]
+(83) If (x < y) < z then y < z (x < y) < z = x < z or z < z
+(84) If (y < z) < z and y < z, then [del](x < y) < z = (x < z) < z[/del] [ins][(x < y) < z] < z = x < z = (y < z) < z[/ins]
+(85) Any consequence of which an ultimate constituent is acceptable is
+(86) [del]Any consequence is acceptable[/del] If [(x < y) < t] < z then x < (y < t) < z

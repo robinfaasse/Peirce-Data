@@ -1,0 +1,31 @@
+$$\frac{d}{dy} = P \frac{d}{dw} + Q \frac{d}{dw}$$
+
+$$P \cos \omega + Q \varpi \sin \omega = 1$$
+
+$$P \sin \omega + Q \varpi \cos \omega = 0$$
+
+$$- Q \varpi = \sin \omega$$
+
+$$Q = - \frac{\sin \omega}{\varpi}$$
+
+$$x = r \sin (\theta - \theta_1)$$
+
+$$y = r \cos (\theta - \theta_1)$$
+
+$$\frac{d}{dx} = P \frac{d}{dr} + Q \frac{d}{d\theta}$$
+
+$$P \sin (\theta - \theta_1) + Q r \cos (\theta - \theta_1) = 1$$
+
+$$P \cos (\theta - \theta_1) - Q r \sin (\theta - \theta_1) = 0$$
+
+$$Q r = \cos (\theta - \theta_1)$$
+
+$$P = \sin (\theta - \theta_1)$$
+
+$$\frac{d}{dx} = \sin (\theta - \theta_1) \frac{d}{dr} + \frac{\cos (\theta - \theta_1)}{r} \frac{d}{d\theta}$$
+
+$$\frac{d^2}{dx^2} = \sin^2 (\theta - \theta_1) \frac{d^2}{dr^2} + 2 \frac{\sin (\theta - \theta_1) \cos (\theta - \theta_1)}{r^2} \frac{d}{d\theta}$$
+
+$$+ 2 \frac{\sin (\theta - \theta_1) \cos (\theta - \theta_1)}{r} \frac{d^2}{dr d\theta} + \frac{\cos^2 \theta - \theta_1}{r} \frac{d}{dr}$$
+
+$$+ \frac{\cos^2 (\theta - \theta_1)}{r^2} \frac{d^2}{d\theta^2}$$

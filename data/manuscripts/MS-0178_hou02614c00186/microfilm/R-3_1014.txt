@@ -1,0 +1,55 @@
+Continue this process until the initial number
+is reproduced as a number to be treated in
+the same way.
+
+Then the succession of figures struck off
+in their reverse order from last to first
+are the circulating decimal.
+
+<u>Examples</u>
+
+To find the circulating decimal representing
+$\frac{2}{79}$, 8 is the current multiplier 2 the initial
+number
+
+[fig]Arithmetic calculation for 2/79[/fig]
+
+Initial number = 2
+
+$\frac{2}{79} = \dot{0}25316455696\dot{2}$
+
+Find the circulating decimal representing $\frac{17}{137}$
+
+$\begin{array}{r|l}
+13 & 7 \\
+9 & 1 \\
+\hline
+9 & 6
+\end{array}$
+
+$\begin{array}{r|l}
+17 & \\
+11 & 9
+\end{array}$
+
+96 is the current multiplier
+119 the initial number
+
+$\begin{array}{rl}
+96 & 1 \\
+192 & 2 \\
+288 & 3 \\
+384 & 4 \\
+480 & 5 \\
+576 & 6 \\
+672 & 7 \\
+768 & 8 \\
+864 & 9 \\
+960 & 
+\end{array}$
+
+[fig]Arithmetic calculation for 17/137[/fig]
+
+Initial number = 119
+
+$\frac{17}{137} = \dot{1}240875\dot{9}$

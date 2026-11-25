@@ -1,0 +1,30 @@
+[pn]44[/pn] PLANE GEOMETRY. [CH. IX. § 156.
+
+To find the Ratio of two Lines.
+
+the segment sought would be a semicircle described upon the diameter [u]AB[/u].
+
+156. [u]Problem.[/u] To find a common measure of two given straight lines, [u]AB[/u], [u]CD[/u] (fig. 87), in order to express their ratio in numbers.
+
+[u]Solution.[/u] a. The method of finding the common divisor is the same as that given in arithmetic for two numbers. Apply the smaller [u]CD[/u] to the greater [u]AB[/u], as many times as it will admit of; for example, twice with a remainder [u]BE[/u].
+
+Apply the remainder [u]BE[/u] to the line [u]CD[/u], as many times as it will admit of; twice, for example, with a remainder [u]DF[/u].
+
+Apply the second remainder [u]DF[/u] to the first [u]BE[/u], as many times as it will admit of; once, for example, with a remainder [u]BG[/u].
+
+Apply the third remainder [u]BG[/u] to the second [u]DF[/u], as many times as it will admit of.
+
+Proceed thus till a remainder arises, which is exactly contained a certain number of times in the preceding.
+
+This last remainder is a common measure of the two proposed lines; and, by regarding it as unity, the values of the preceding remainders are easily found, and, at length, those of the proposed lines from which their ratio in numbers is deduced.
+
+If, for example, we find that [u]GB[/u] is contained exactly three times in [u]FD[/u], [u]GB[/u] is a common measure of the two proposed lines.
+
+b. Let [u]GB[/u] = 1;
+
+and we have
+
+[u]FD[/u] = 3 [u]GB[/u] = 3,
+[u]EB[/u] = 1. [u]FD[/u] + [u]GB[/u] = 3 + 1 = 4,
+[u]CD[/u] = 2. [u]EB[/u] + [u]FD[/u] = 8 + 3 = 11,
+[u]AB[/u] = 2. [u]CD[/u] + [u]EB[/u] = 22 + 4 = 26;

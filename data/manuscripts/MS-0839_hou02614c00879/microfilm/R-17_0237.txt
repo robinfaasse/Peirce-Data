@@ -1,0 +1,27 @@
+[del]ij = ai + bi² + ci³ + di⁴ + ej + fj²[/del]
+[del]ij² = ai² + bi³ + ci⁴ + di⁵ + eij + fij²[/del]
+[del]ij² = aij + bij² + cij³ + dij⁴ + ej²[/del]
+[del]0 = aij² + bij³ + cij⁴ + dij⁵[/del]
+[del]ij = ai² + bi³ + ci⁴ + [ins]di⁵[/ins] eij + fij²[/del]
+[del]i²j² = ai³ + bi⁴ + eij²[/del]
+[del]i³j = ai³[/del]
+[del]i²j² = ai²j + bi³j[/del]
+ij = ai + bi² + ci³ + di⁴ + ej + fj²
+i²j = [del]ai² + bi³ + ci⁴[/del] [ins]ai² + bi³ + ci⁴[/ins] + eij + fij²
+i³j = [del]ai³ + bi⁴[/del] [ins]ai³ + bi⁴[/ins] + ei²j + fi²j²
+i⁴j = [ins]ai⁴[/ins] + ei³j + fi³j²
+[del]i⁵j[/del] = [ins]ei⁴j + fi⁴j²[/ins]
+0 = i⁵j =
+
+ij² = aij + bij² + cij³ + dij⁴ + ej²
+i²j² = ai²j + bi²j² + ci²j³ + di²j⁴ + eij²
+i³j² = ai³j + bi³j² + ci³j³ + di³j⁴ + ei²j²
+i⁴j² = ai⁴j + bi⁴j² + ci⁴j³ + di⁴j⁴ + ei³j²
+i⁵j² = [ins]ei⁴j²[/ins]
+0 = i⁵j² =
+
+0 = ij³ = aij² + bij³ + cij⁴ + dij⁵
+0 = i²j³ = ai²j² + bi²j³ + ci²j⁴
+0 = i³j³ = ai³j² + bi³j²
+0 = i⁴j³ = ai⁴j²
+0 = i⁵j³ =

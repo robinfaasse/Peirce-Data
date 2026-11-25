@@ -1,0 +1,31 @@
+A [del]C(x+y) = Cx + Cy = Cx + Cy, (1-Cx)[/del]
+
+[del]$$\therefore$$ Cx = Cx + C(x-x), (1-Cx)[/del]
+
+[del]Cx = Cx, (1-C(x-x)) + C(x-x)[/del]
+
+[del]C1 - Cx, (1-C(1-x)) = C(1-x)[/del]
+
+[del]C1 - Cx = C(1-x), (1-Cx)[/del]
+
+[del]C(1-x) = (C1-Cx); (1-Cx)[/del]
+
+[del]$$= \frac{0}{0}, C1, Cx + C1, (1-Cx) + \frac{1}{0} (1-C1), Cx$$[/del]
+
+(1) [del]$$= \frac{0}{0}, Cx + C1, (1-Cx)$$[/del]
+
+[del]$$1 \equiv x + (1-x)$$[/del]
+
+[del]$$\therefore mx + (1-m)x, (1-mx) \equiv 1$$[/del]
+
+(2) [del]$$(1-m)x \equiv (1-mx) + \frac{0}{0} mx$$[/del]
+
+(3) [del]$$C(\frac{0}{0} x) \equiv \frac{0}{0} Cx$$[/del]
+
+$$Ca, Cb \equiv C(a,b + a,\bar{b}), C(a,b + \bar{a},b)$$
+
+$$\equiv (C(a,b) + C(a,\bar{b})), (C(a,b) + C(\bar{a},b))$$
+
+$$\equiv C(a,b) + C(a,\bar{b}), C(\bar{a},b)$$
+
+$$\equiv C(a,b), (1 - C(a,\bar{b}), C(\bar{a},b)) + C(a,\bar{b}), C(\bar{a},b)$$

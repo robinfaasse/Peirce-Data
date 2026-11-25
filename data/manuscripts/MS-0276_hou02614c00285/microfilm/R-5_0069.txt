@@ -1,0 +1,75 @@
+[fig]Geometric diagrams showing triangles and circles[/fig]
+
+$p^2 = r^2 + u^2 + 2 u r \cos \theta$
+
+$q^2 = r^2 + v^2 - 2 v r \cos \theta$
+
+$v p^2 + u q^2 = (u+v) r^2 + u v (u+v)$
+
+Compare with
+$m p^2 + n q^2 = l^2$
+
+$\frac{v}{u+v} p^2 + \frac{u}{u+v} q^2 = r^2 + u v$
+
+Compare with
+$\mu p^2 + \nu q^2 =$
+
+where $\mu = \frac{m}{m+n}$  $\nu = \frac{n}{m+n}$
+
+$u+v = a$
+
+$p_0^2 = r^2 + u^2$
+
+$q_0^2 = r^2 + v^2$
+
+$\frac{v}{u+v} p_0^2 + \frac{u}{u+v} q_0^2 = r^2 + u v$
+
+$\frac{u^2 v + u v^2}{u+v} = u v$
+
+$\frac{(u+v)^2 - (u-v)^2}{4}$
+
+[del][fig]Scribble[/fig][/del]
+
+$\frac{p^2 + q^2}{2} = r^2 + u^2$
+
+$\frac{p^2 + q^2}{2} = \left(\frac{p+q}{2}\right)^2 + \left(\frac{p-q}{2}\right)^2$
+
+$\frac{p^2 + q^2}{2} = r^2 + u^2$
+
+---
+
+$p^2 = r^2 + u^2 + 2 (u-v) r \cos \theta$
+
+$P : P' = Q : Q'$
+
+$P^2 = \frac{v}{u} Q^2$
+
+$v p^2 = v r^2 + v u^2 + 2 u v r \cos \theta$
+
+$u q^2 = u r^2 + u v^2 - 2 u v r \cos \theta$
+
+$u^2 v - v^2 u + 2 u v (u+v) r \cos \theta = 0$
+
+$\cos \theta = \frac{v^2 - u^2}{2 u v (u+v)^2} = \frac{v^2 - u^2}{2 u v}$
+
+$\frac{a+b}{a-b} = \frac{c^2 - b^2}{a+b} = a-b$
+
+$= \frac{1}{2} \left( \frac{v}{u} - \frac{u}{v} \right)$
+
+Apply the Stewart-Simson Theorem
+
+[del][fig]Scribble[/fig][/del]
+
+$\frac{T P^2}{r u a} - \frac{T Q^2}{r v a} + \frac{q^2}{v a} = 1$
+
+$\frac{v^2 + u^2}{v p^2 + u q^2} = u v + a r^2$
+
+If $p$ and $q$ are mutually perpendicular
+
+$p^2 + q^2 = a^2$ and $\frac{p^2}{a} + \frac{q^2}{a} = a$
+
+with $u+v = a$ we have $u+v = a$
+
+$\frac{p^2 + q^2}{a^2} = 1$
+
+$u a = v + u v$

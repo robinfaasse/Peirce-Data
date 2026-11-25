@@ -1,0 +1,26 @@
+Suppose that we use the form $A:B$ to express an elementary
+relative term or one that relates to a single pair of
+individuals so that $A$ is the same as $(A:B)\text{ to }B$ Or if we
+write this last $(A:B)B$ then we have $A = (A:B)B$. Just as a
+general absolute term is indeterminate between the individual
+$A\ B\ C\ D\ \dots$ so a general relative term is indeterminate
+between some of the elementary relatives of a block like this
+$$\begin{matrix}
+A:A & A:B & A:C & A:D \\
+B:A & B:B & B:C & B:D \\
+C:A & C:B & C:C & C:D \\
+D:A & D:B & D:C & D:D
+\end{matrix}$$
+For instance we may have a relative $w$ which is indeterminate
+between the following elementary terms
+[fig]Boxed list of elementary relative terms[/fig]
+
+A relation may be combined with an absolute term
+in several ways. The $1^{\text{st}}$ of these ways may be called the
+simple application and may be defined as follows.
+If $a$ & $b$ are absolute terms & $m$ & $n$ relative terms then
+$$\begin{matrix}
+\text{if } m \prec n \\
+\text{and } a \prec b \\
+\text{then } ma \prec nb
+\end{matrix}$$

@@ -1,0 +1,29 @@
+Let us examine the algebraic laws of the braces, brackets, and parentheses.
+
+[u]Definitions[/u].
+Two points A and B may be coincident A = B, or not, A [del]=[/del] [ins]≠[/ins] B.
+A point [del]A[/del] may lie on a ray b, A [del]≼[/del] [ins]⪯[/ins] b, or not, A [del]⋠[/del] [ins]⋠[/ins] b.
+Two planes [del]a[/del] [ins]α[/ins] and [del]b[/del] [ins]β[/ins] may be coincident, α = β, or not, α [del]=[/del] [ins]≠[/ins] β
+A ray [del]a[/del] [ins]a[/ins] may lie in a plane β (when β is said to pass [del]through[/del] [ins]through[/ins] a), a ⪯ β
+or not a [del]⪯[/del] [ins]⋠[/ins] β
+If a point, A, lies on a ray b, which lies in a plane, γ, A ⪯ b b ⪯ γ,
+then A is said to lie in γ, and γ to pass through A, A ⪯ γ.
+
+[u]Postulates[/u].
+1. Any two points whatever, A and B, lie on some common ray, {AB}.
+and if A ⪯ c A ⪯ d B ⪯ c B ⪯ d, either A = B or c = d.
+2. Any two planes whatever, α and β, pass through some common ray, {[del]α[/del] [ins]α[/ins]β}
+and if c ⪯ α [del]b[/del] [ins]c[/ins] ⪯ β d ⪯ α d ⪯ β, either c = d or α = β.
+(The ray may lie at infinity, [del]but that is a metrical property which does[/del]
+[del]not concern the geometry of intersections.[/del])
+3. If any point, A, lies in two rays, b and c, A ⪯ b A ⪯ c, then
+these rays lie in some common plane (bc)
+4. If any plane, α, passes through two rays, b and c, b ⪯ α c ⪯ α,
+then these rays pass through some common point [bc]. This may
+lie at infinity.
+[del]5. Given any point, every ray and homogeneous part of a ray[/del]
+5. Every ray is a [ins]one-connected[/ins] line [del]without[/del] of which all parts are alike in their connections
+And therefore there are points on every [ins]one-connected[/ins] part of it, and [del]the[/del] [ins]the[/ins] points upon it are
+such that they form two pairs each having its two points separated [ins]each way[/ins] [del]both ways[/del]
+by one of the points of the other pair.
+6 Every plane is [ins]one-connected[/ins] surface, of which all parts are alike in their connections

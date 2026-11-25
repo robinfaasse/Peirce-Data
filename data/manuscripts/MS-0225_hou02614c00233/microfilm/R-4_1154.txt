@@ -1,0 +1,20 @@
+[pn]VII.[/pn]
+
+[u]To find times of Moon's Rising and Setting.[/u]
+
+First get the times correct to a half or quarter of an hour.
+Then enter declination in "Table of [ins]1[/ins] [del]2[/del]/[del]10[/del][ins]8[/ins] h."
+
+If Declination is [u]N[/u]
+and [u]setting[/u] is wanted [del]subtract[/del] [ins]add the[/ins] hour angle there found to mean
+time of meridian Transit at Washington + 6 (Hourly diff - 2[sup]m[/sup])
+[u]rising[/u] subtract " " " from "
+
+If Declination is [u]S[/u]
+For [u]setting[/u] subtract hour angle in table from mean
+time transit at Wash. + 24[sup]m[/sup] + 6 (Hourly diff - 2[sup]m[/sup])
+[u]rising[/u] add " " " to
+
+This will give the result within a minute.
+
+6[sup]m[/sup] must be added to San Francisco

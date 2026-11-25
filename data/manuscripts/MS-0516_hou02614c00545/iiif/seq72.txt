@@ -1,0 +1,11 @@
+Basic Rules
+30
+
+And further, if [fig]((A)(B)(C))[/fig] is scriptible, either A, or B, or C, is scriptible. For if A is not scriptible [fig](A)[/fig] is scriptible; if B is not scriptible, [fig](B)[/fig] is scriptible, etc. and then
+[fig](A)(B)(C)[/fig]
+is scriptible. Whence,
+[fig]( (A)(B)(C) )[/fig]
+is not scriptible. All these consequences easily follow from principles already laid down. Hence, if
+[fig]( (A)(B)(C) ) etc[/fig]
+is scriptible, either A, or B, or C, is scriptible.
+For this reason, Jevons, and all subsequent students of Boole, following De Morgan (whose pupil Jevons was) have adopted the operation of [u]logical aggregation[/u] as fundamental. That it ought not to be considered as a primitive operation, if copulation and negation, are to be taken as primitive, appears from my paper of March, 1867.

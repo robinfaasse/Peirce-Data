@@ -1,0 +1,14 @@
+[pn]Cu
+42[/pn] dealing-gatherings, will finally be in the [del]2nd x Q[/del] [ins]first original[/ins] place. But we
+have seen that [del]1/2[/del] [ins]1[/ins] = 7. Its place will, therefore, be $7^{12} \times Q$. But Fermat's
+theorem, which was proved in my first communication shows that
+$7^{12} = 1 + \text{Multiple of } 13$. Therefore, the red 1 will be in the Q place. The red 2,
+takes the place of the [del]2nd[/del] Black card [del]whose place is 2xQ and[/del] [ins]in the Q place[/ins] [ins]and[/ins] afterwards
+undergoes 11 2-pile dealing-gatherings. [del]Its[/del] [ins]find[/ins] place will therefore be $7^{11} \times Q =$
+$2 \times Q = J$. The red 3 takes the place of a Black card in the Q place, and after-
+ward undergoes 10 2-pile dealing-gatherings. Its final place with therefore
+be $7^{10} \times Q = 2^2 Q = 9$. The red four will finally be in the $7^9 \times Q = 2^3 Q = 5^{\text{th}}$
+place. I arrange these results in tabular form, as follows
+
+Black Cards $\begin{cases} \text{Face} & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & \text{X} & \text{J} & \text{Q} \\ \text{Place} & 7 & 8 & \text{J} & 9 & 4 & \text{Q} & 6 & \text{X} & 3 & 5 & 2 & 1 \end{cases} = \log_{\text{base } 2} \text{Face} + 7$
+Red Cards $\begin{cases} \text{Face} & 7 & 8 & \text{J} & 9 & 4 & \text{Q} & 6 & \text{X} & 3 & 5 & 2 & 1 \\ \text{Place} & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & \text{X} & \text{J} & \text{Q} \end{cases} = 2^{13 - \text{Face}} \times \text{Q}$

@@ -1,0 +1,35 @@
+[fig]Diagram with nodes i, j, k, l, m, n and connecting lines[/fig]
+
+$ij = k$
+$il = m$
+$jl = n$
+
+$ij = k$
+$ji = -k$
+
+$jk = i$
+$kj = -i$
+
+$ki = j$
+$ik = -j$
+
+$ij = k$
+$jl = n$
+$kl = 0$
+$il = 0$
+
+$A:B - B:A + B:C - C:D + E:F + F:E + G:H - H:G = i$
+$A:C - C:A + B:D - D:B + E:G + G:E - F:H + H:F = j$
+$A:D - D:A - B:C + C:B + E:H - H:E - F:G + G:F = k$
+$A:E - E:A - B:F + B:F + C:G - G:C + D:H - H:D = l$
+$A:F - F:A - B:E + E:B + D:G - G:D - C:H + H:C = m$
+$A:G - G:A - C:E + E:C - D:F + F:D + B:H - H:B = n$
+$A:H - H:A - D:E + E:D - B:G + G:B + C:F - F:C = 0$
+
+$A:B - B:A + C:D + D:C + E:F - F:E + G:H - H:G = i$
+$A:C - C:A + B:D - D:B + E:G - G:E - F:H + H:F = j$
+$+ A:D + D:A - B:C + C:B - E:H + H:E - F:G + G:F = k$
+$+ A:E - E:A + F:B - B:F - C:G + G:C - D:H + H:D = l$
+$- A:F + F:A - B:E + E:B - D:G + G:D + C:H - H:C = m$
+$- A:G + G:A - C:E + E:C + D:F - F:D + B:H - H:B = n$
+$+ A:H - H:A - D:E + E:D - C:F + F:C - B:G + G:B = 0$

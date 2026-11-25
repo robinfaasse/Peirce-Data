@@ -1,0 +1,17 @@
+$$\begin{array}{l c l c l}
+r_{1} = \left(1 + \frac{1}{60}x\right) & & r_{1}^{2} = 1 & & \\
+r_{2} = 1.44 \left(1 + \frac{1}{30}x\right) & & r_{2}^{2} = 2 & & r_{2}/r_{1} = 1.44 \left(1 + \frac{1}{60}x\right) \\
+r_{3} = 1.71 \left(1 + \frac{1}{20}x\right) & & r_{3}^{2} = 3 & & r_{3}/r_{1} = 1.71 \left(1 + \frac{1}{30}x\right)
+\end{array}$$
+
+$\text{Brightness} = \frac{1}{r^{2}} \left(1 + \frac{1}{3} \times r^{2}\right)$
+
+$$\begin{array}{l c l}
+1 \left(1 + \frac{1}{3}x\right) & = & \left(1 + \frac{1}{3}x\right) \\
+\frac{1}{2} \left(1 - \frac{2}{60}x\right) \left(1 + \frac{2}{3}x\right) & = & \frac{1}{2} \left(1 + \frac{19}{30}x\right) \\
+\frac{1}{3} \left(1 - \frac{4}{60}x\right) \left(1 + \frac{3}{3}x\right) & = & \frac{1}{3} \left(1 + \frac{14}{15}x\right)
+\end{array}$$
+
+$\text{Ratios } \left\{ \begin{array}{l} \frac{1}{2} \left(1 + \frac{3}{10}x\right) \\ \frac{1}{3} \left(1 + \frac{3}{5}x\right) \end{array} \right.$
+
+$\text{Prop motion} = \frac{1}{r} \left(1 + \frac{1}{6} \times r^{2}\right)$

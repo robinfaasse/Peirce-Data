@@ -1,0 +1,29 @@
+[marginalia]Morrison's Bridge 1898 Sept[/marginalia] [pn]1361[/pn] [pn]7[/pn]
+
+Let $H$ be the horizontal pull
+
+Then $x_1 = H \Lambda_0$     $x_2 - x_1 = H \Lambda_2$
+
+Let $V_0$ and $V_2$ be the vertical pulls
+
+$V_0 + V_2 = 1$     $y_0 = H \Lambda_0$     $y_2 - y_1 = H \Lambda_2$
+
+$\frac{V_0}{H} = \frac{[del]y_1 - y_0[/del] y_1 - y_0}{x_1 - x_0}$     $\frac{V_2}{H} = \frac{y_1 - y_2}{x_2 - x_1}$
+
+$\frac{1}{H} = \frac{y_1 - y_0}{x_1 - x_0} + \frac{y_1 - y_2}{x_2 - x_1}$
+
+$= \frac{y_1 x_2 [del]- y_1 x_1[/del] - y_0 x_2 + y_0 x_1 [del]- y_1 x_0 - y_2 x_1 + y_2 x_0[/del]}{(x_1 - x_0)(x_2 - x_1)}$ [fig]Force diagram with three lines meeting at a point[/fig]
+
+$H = \frac{(x_2 - x_1)(x_1 - x_0)}{x_2 y_1 - y_1 x_0 + x_0 y_2 - y_2 x_1 + x_1 y_0 - y_0 x_2}$
+
+$\frac{V_0}{H} (x_1 - x_0) = y_1 - y_0$
+
+$\frac{V_2}{H} (x_2 - x_1) = y_1 - y_2$
+
+[del]$\frac{V_0}{H} x_1 - \frac{V_0}{H} x_0$[/del] [del]$\frac{1}{H}$[/del] $x_1 = \frac{V_0 x_0}{H} + \frac{V_2 x_2}{H} + y_2 - y_0$
+
+$x_1 = V_0 x_0 + V_2 x_2 + H (y_2 - y_0)$
+
+$x_2 - x_0 = H \left(\frac{1}{V_0} + \frac{1}{V_2}\right) y_1 - H \left(\frac{y_0}{V_0} + \frac{y_2}{V_2}\right)$
+
+$\frac{\frac{x_2 - x_0}{H} + \frac{y_0}{V_0} + \frac{y_2}{V_2}}{\frac{1}{V_0} + \frac{1}{V_2}} = y_1$

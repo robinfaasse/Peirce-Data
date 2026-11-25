@@ -1,0 +1,48 @@
+[marginalia]
+$p = z - y$
+$q = x - z$
+$r = y - x$
+
+$pq = z^2$
+$pr = y^2$
+$qr = x^2$
+
+$pqr$
+
+[del]$x^2 + y^2 + z^2 - xy - xz - yz$[/del]
+[/marginalia]
+
+$\begin{array}{c}
+(z-y)yz \\
++ (x-z)xz \\
++ (y-x)xy
+\end{array}$
+[fig]curved lines connecting terms[/fig]
+$\begin{array}{c}
+yz^2 - y^2z \\
++ x^2z - xz^2 \\
++ xy^2 - x^2y
+\end{array}$
+
+$\begin{array}{c}
+(z-y)(x-z)z \\
+(z-y)(y-x)y \\
+(x-z)(y-x)x
+\end{array}$
+
+$(x-y)(x-z)(y-z)$
+
+$\begin{array}{c}
+xz^2 + y^2z - xyz - z^3 \\
+y^2z + xy^2 - xyz - y^3 \\
+x^2y + xz^2 - xyz - x^3 \\
+x^2y - x^2z - xyz \\
++ xz^2 - xy^2 + xyz \\
++ y^2z - yz^2
+\end{array}$
+
+[u]$x^2y + xz^2 + xy^2 + xz^2 + y^2z + yz^2$[/u]
+$- 3xyz - x^3 - y^3 - z^3$
+
+$z^2[y+z-1] + y^2[x+z-1] + x^2[y+x-1]$
+$- 3xyz$

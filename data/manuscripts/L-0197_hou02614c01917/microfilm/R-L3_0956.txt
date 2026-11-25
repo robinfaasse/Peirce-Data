@@ -1,0 +1,98 @@
+[marginalia]
+VA
+[date]Camb. 1872 Feb 2[/date]
+[/marginalia]
+
+My dear Sir,
+
+It gives me great pleasure to answer your question.
+
+You have ten sets of 10000 numbers, in each of which, each digit should occur about 1000 times. This makes 100 numbers each of about 1000. The values of these 100 numbers should be distributed as follows.
+
+[fig]Table of values, probabilities, and errors[/fig]
+
+[cols]
+[col]
+[u]Values[/u]
+0 - 940
+940 - 950
+950 - 960
+960 - 970
+970 - 980
+980 - 990
+990 - 1000
+1000 - 1010
+1010 - 1020
+1020 - 1030
+1030 - 1040
+1040 - 1050
+1050 - 1060
+1060 - 10000
+[/col]
+[col]
+No. of numbers
+which should
+fall in each
+class
+0
+1
+2
+4
+8
+15
+20
+20
+15
+8
+4
+2
+1
+0
+Sum. 100
+[/col]
+[col]
+Prob.
+error of
+each
+class
+± 0+
+± 1+
+± 1+
+± 2+
+± 3+
+± 4+
+± 4+
+± 4+
+± 4+
+± 3+
+± 2+
+± 1+
+± 1+
+± 0+
+[/col]
+[col]
+Errors of last col.
+one of which is to occur
+in the whole column will be so large
+± 2+
+± 2+
+± 3+
+± 4+
+± 5+
+± 6+
+± 6+
+± 6+
+± 6+
+± 5+
+± 4+
+± 3+
+± 2+
+± 2+
+[/col]
+[/cols]
+
+The pluses after these numbers indicate that the real values are a little larger numerically.
+
+It is an even chance that the number of errors in the second column which exceed the probable errors will be either 6, 7, or 8.
+
+I have given the number of numbers having

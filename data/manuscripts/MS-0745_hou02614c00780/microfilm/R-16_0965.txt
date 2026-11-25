@@ -1,0 +1,22 @@
+The most perfect method of doing this, consists
+in finding a system of relatives [del]w + w' + w'' + w''' + etc[/del]
+$w$, $w'$, $w''$, $w'''$, etc.
+such that
+$\Pi_i \Sigma_j w_{ij}$ $\Pi_i \Sigma_j w'_{ij}$ $\Pi_i \Sigma_j w''_{ij}$ etc.
+$\Pi_i \Pi_j \{ w_{ij} + (wn)_{ij} \}$ $\Pi_i \Pi_j \{ w'_{ij} + (w'n)_{ij} \}$ etc.
+$\Pi_i \Pi_j (w_{ij} + w'_{ij} + w''_{ij} + \text{etc})$
+
+Then we have
+$\Sigma_j u_j = u_i + (wu)_i + (w'u)_i + (w''u)_i + (w'''u)_i + \text{etc.}$
+$\Pi_j u_j = u_j \times (wu)_j \times (w'u)_j \times (w''u)_j \times (w'''u)_j \times \text{etc.}$
+
+After this, we shall use the process of elimination
+of the Boolean algebra.
+Required, for instance, to eliminate $s$ from the
+premises
+$\Sigma_h \Pi_i \Sigma_j \Pi_k (\alpha_{hik} + s_{jk} l_{ji})$
+$\Sigma_u \Sigma_v \Pi_x \Pi_y (\varepsilon_{uyx} + \bar{s}_{yv} b_{vx})$.
+Multiplying, we have
+$\Sigma_u \Sigma_v \Pi_x \Pi_y \Sigma_h \Pi_i \Sigma_j \Pi_k (\alpha_{hik} + s_{jk} l_{ji}) (\varepsilon_{uyx} + \bar{s}_{yv} b_{vx})$.
+This is the same as
+$\Sigma_u \Sigma_v \Pi_x \Pi_y \Sigma_j \Pi_k (\alpha_{uxk} + s_{jk} l_{jx}) (\varepsilon_{uyx} + \bar{s}_{yv} b_{vx})$.

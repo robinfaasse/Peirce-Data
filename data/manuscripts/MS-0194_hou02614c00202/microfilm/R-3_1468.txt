@@ -1,0 +1,25 @@
+[marginalia]
+[fig]U. S. Coast and Geodetic Survey letterhead[/fig]
+[/marginalia]
+
+[fig]Spherical triangle with angles A, B and sides a, b[/fig]
+
+$\cos a = \frac{1}{2} \cos b (\tan b \sqrt{3} \cdot \cos A - 1)$
+
+$\sin B = \frac{\sin A \sin b}{\sin a}$
+
+when $a = 90^\circ$
+
+$\sin B = \sin A \sin b$
+
+$= \frac{\sin A}{\sqrt{1 + 3 \cos^2 A}}$
+
+[del]$\frac{1}{2} \tan b + \frac{\sqrt{3}}{2} \sin b \cos A = 0$[/del]
+
+$\tan b = \frac{1}{\sqrt{3} \cdot \cos A}$
+
+$\cot^2 b = 3 \cos^2 A$
+
+$\csc^2 b = 1 + 3 \cos^2 A$
+
+$\sin b = \frac{1}{\sqrt{1 + 3 \cos^2 A}}$

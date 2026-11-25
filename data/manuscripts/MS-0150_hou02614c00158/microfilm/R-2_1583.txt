@@ -1,0 +1,26 @@
+Begin with $A$, $B$, and then syzygies, such as
+[del]$0.99 A + 0.01 B$,[/del] $[0.99 A + B]$, or $[A + \frac{100}{99} B]$,
+[del]$1.01 A - 0.01 B$,[/del] etc $[1.01 A - B]$, or $[A - \frac{100}{101} B]$, etc.
+
+The ratio of the multiplier of $A$ to that of $B$, which is the only quantity
+in question, since both multipliers may be multiplied by any one
+number without change of meaning, may gradually increase from
+$0$ through all positive numbers to infinity $\infty$. Since infinity is
+$\frac{1}{0}$ and $+0$ and $-0$ are the same, there is no difference between
+$+\infty$ and $-\infty$. Thus,
+$[1000000 A + B] = [A + \frac{1}{1000000} B]$;
+$[\infty A + B] = [A + 0 B] = A$;
+[del]$[-\infty A + B]$[/del] $= [1000000 A - B] = [A - \frac{1}{1000000} B]$.
+
+Thus the ratio passes to the negative values and returns through
+all the negative values to $0$. This is precisely analogous to the motion
+of a point particle along a ray, and shows that on each ray
+[del]the[/del] points exactly correspond to the designations.
+
+Next suppose the designation includes $C$. Then any syzygy
+between $A$, $B$, and $C$, such as
+$[3A + 7B + 11C]$
+is a syzygy between $A$ and a syzygy between $B$ and $C$. The syzygy
+between $B$ and $C$ represents any point on the ray through $B$
+and $C$. The syzygy between $A$ and that syzygy represents any
+point [del]C[/del] on the ray [del]through[/del] $A$ and that point on the ray $\{BC\}$.

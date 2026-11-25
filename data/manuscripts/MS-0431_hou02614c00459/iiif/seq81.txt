@@ -1,0 +1,20 @@
+Logic
+III
+42
+
+[del]x_v · y_v[/del] $v_x \cdot v_y$, $v_x \cdot f_y$, $f_x \cdot v_y$, $f_x \cdot f_y$.
+But the usual way is to write two equations one below the other
+$\begin{matrix} x=v & x=v & x=f & x=f \\ y=v & y=f & y=v & y=f \end{matrix}$
+If two sets of values are admitted, they may be such as to fix
+the value of one quantity and give no information about the
+other. Since there are two values which the former quantity
+may have, and it may be either of the two quantities,
+there are 2x2, or 4, possible informations of this kind,
+namely
+$v_x$ , $f_x$ , $v_y$ , $f_y$ ;
+or $x=v$, $x=f$, $y=v$, $y=f$.
+There remain, then, 6-4, or 2, informations of a different
+kind. Namely the sets of values they admit may be
+either $v v$ and $f f$ or $v f$ and $f v$.
+The former cannot be better expressed than in the usual
+way, namely, by [ins]omitting[/ins] $x=y$. The usual way of expressing the

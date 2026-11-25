@@ -1,0 +1,27 @@
+Suppose a [ins]small[/ins] mass [del]x[/del] [ins]m[/ins] to be added to the pendulum in its axis, at a distance [u]x[/u] outside the knife at the heavy end. The result will be to carry the centre of gravity toward that end by [u]$\Delta$h[/u] and to lengthen the periods by $\Delta T_d$ and $\Delta T_u$
+
+$$M \Delta h = m (h_u - \Delta h + x)$$
+
+$$\frac{g}{\pi^2} T_d^2 = \frac{M \gamma^2 + m (h_d + h_u + x)^2}{\begin{matrix} [del]M h_d[/del] \\ M h_d + m (h_d + h_u + x) \end{matrix}}$$
+
+$$= [del]M h_d[/del] (\frac{\gamma^2}{h_d} + h_d) (1 + \frac{m (h_d + h_u + x)^2}{M \gamma^2 + M h_d^2}) (1 - \frac{m}{M} \frac{h_d + h_u + x}{h_d})$$
+
+$$= (\frac{\gamma^2}{h_d} + h_d) \{ 1 + \frac{m}{M} (\frac{1 + \frac{x}{h_d + h_u}}{h_d} - \frac{1}{h_d}) (h_d + h_u + x)$$
+
+$$= (\frac{\gamma^2}{h_d} + h_d) (1 + \frac{m}{M} \frac{x (h_d + h_u + x)}{h_d (h_d + h_u)})$$
+
+$$\frac{\Delta T_d}{T_d} = \frac{1}{2} [del]\frac{m}{M}[/del] \frac{x (h_d + h_u + x)}{h_d (h_d + h_u)}$$
+
+$$= \frac{1}{2} \frac{\Delta h \cdot x (h_d + h_u + x)}{h_u + x} \frac{1}{h_d (h_d + h_u)}$$
+
+$$[del]= \frac{1}{2} \frac{m}{M} \frac{([del]H[/del] \dots}{h_d (h_d + h_u)}[/del]$$
+
+$$= \frac{1}{2} \frac{(\Delta h - \frac{m}{M} h_u) (h_d \frac{m}{M} + \Delta h) \frac{M}{m}}{h_d (h_d + h_u)}$$
+
+$$(M + m) \Delta h = m (h_u + x)$$
+
+$$\Delta h = \frac{m}{M} (h_u + x)$$
+
+$$\frac{M}{m} \Delta h - h_u = x$$
+
+$$\frac{M}{m} (\Delta h - \frac{m}{M} h_u)$$

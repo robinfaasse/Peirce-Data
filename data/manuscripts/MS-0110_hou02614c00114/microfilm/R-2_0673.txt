@@ -1,0 +1,29 @@
+[pn]Ms 110[/pn]
+
+[u]Note on Pythagorean Triangles.[/u]
+By C. S. Peirce
+
+A Pythagorean triangle is a set of 3 integer numbers proportional to the legs and hypothenuse of a right triangle. It is irreducible if the 3 integers have no common measure. The number of irreducible Pythagorean triangles of which a given number is hypothenuse is 0, if the number contains a prime factor [del]of[/del] [ins]not of[/ins] the form [del]($4n+1$)[/del] [ins]$2^{p-1}$ where $p$ is[/ins]; otherwise, it is equal to the number of its different prime factors. For example, $725 = 5^{2} \cdot 29$. Accordingly,
+
+$\begin{array}{rccrl}
+(333)^{2} & = & 110889 & (364)^{2} & = & 132496 \\
+(644)^{2} & = & 414736 & (627)^{2} & = & 393124 \\
+\hline
+(725)^{2} & = & 525625 & (725)^{2} & = & 525625
+\end{array}$
+
+It is also true that $(500)^{2} + (525)^{2} = (725)^{2}$; but that triangle is reducible. Again, $1105 = 5 \cdot 13 \cdot 17$. Accordingly,
+
+$\begin{array}{rccrccrcc}
+(47)^{2} & = & 2209 & (264)^{2} & = & 69696 & (576)^{2} & = & 331776 \\
+(1104)^{2} & = & 1218816 & (1073)^{2} & = & 1151329 & (943)^{2} & = & 889249 \\
+\hline
+(1105)^{2} & = & 1221025 & (1105)^{2} & = & 1221025 & (1105)^{2} & = & 1221025
+\end{array}$
+
+$\begin{array}{rcc}
+(740)^{2} & = & 547600 \\
+(817)^{2} & = & 667489 \\
+\hline
+& & 1221025
+\end{array}$

@@ -1,0 +1,31 @@
+Let
+
+[u]A⫫B⫫C[/u]
+
+mean that if A is true B⫫C is true; that
+is that either A is false or B⫫C true, or
+again that either A is false or B is false or
+C is true. This interpretation shows that
+
+[u]A⫫B⫫C[/u] = [u]B⫫A⫫C[/u].
+
+Let
+
+[u][u]A⫫B[/u]⫫C[/u]
+
+mean that if A⫫B is true, then C is true,
+that [del]is,[/del] [ins]is[/ins] that either A⫫B is false or C true, or
+again that either A is true and B false or
+C is true.
+
+This completely describes the notation.
+It does not [del]form[/del] [ins]yield[/ins] a convenient calculus,
+but it has the [del]analytical[/del] [del]merit[/del] logical
+merit of doing everything that the Boolean
+algebra does without any superfluous sym-
+bols.
+
+By way of exercise, let us interpret
+a few propositions expressed in this
+system. Let F be a proposition known
+to be false. Then A⫫F will mean that

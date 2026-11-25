@@ -1,0 +1,21 @@
+That is to the say that the series of values of
+$$x_0, x_1, x_2, x_3 \dots \dots x_a$$
+form an arithmetical progression. The common difference is
+$$\frac{x_{-1} - x_a}{a+1} = - \frac{1}{a+1}$$
+and we have [del]$\chi_0$[/del] $x_0 = 1 - \frac{1}{a+1} = \frac{a}{a+1}$
+Hence $x_n = \frac{a-n}{a+1}$
+
+The question of how many of the original players remain at the
+table after a given number of bets, is slightly more difficult. If the
+winning players did not leave the table, but continued to play, it is plain
+that [del]the[/del] [ins]after the end of $n$ bets[/ins] [del]number[/del] [ins]proportion[/ins] of players having won $a$ times and lost $m-a$ times will
+be [del]proportional[/del] [ins]equal[/ins] to that term in the development of $(p+q)^n$, where
+$q = 1-p$, in which $p$ is raised to the $a^{\text{th}}$ power and [del]of[/del] $q$ to the $(m-a)^{\text{th}}$
+power. For [del]at the end[/del] [ins]after[/ins] of the different bets the proportions of players
+having [ins]made[/ins] different winnings or losings will be as follows:
+
+[ins]Proportions of all the players[/ins]
+
+[fig]Pascal's triangle diagram showing probabilities of winnings and losings over 7 bets[/fig]
+
+It is plain these form a Pascal's triangle, which is the icon of the binomial de-

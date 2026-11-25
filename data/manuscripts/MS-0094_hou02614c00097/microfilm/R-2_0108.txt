@@ -1,0 +1,38 @@
+[pn]100[/pn]
+
+It is accordingly evident that, calling an edge the part cut off
+by a hamma, we have the formula.
+
+Station-number of whole line = Sum station numbers of edges [del]minus[/del] [ins]Sum[/ins] Valencies
+of Hammata.
+
+If no edge has a furcation, and its two ends run to Hammata, the formula is
+Station number whole line = Number of hammata minus Number of Edges.
+
+§ 44. Let us next suppose that while there is no solid space,
+there is a surface on which are figures composed of [del]po[/del]
+lines, cut into [del]her[/del] edges by hammata. Then, it is plain that
+every separate line [del]increases[/del] [ins]de-[/ins]creases the connective valency by 1, inde-
+pendently of circuits; [del]But ever[/del] and the same is true of every
+isolated point, which we call in this case a summit. But every
+closer circuit is equivalent to a cross-cut and increases the
+connective valency by 1. This is just the opposite of their effect
+(except the isolated summit) upon the station-number of the line.
+[ins](calling the compartments of the surface faces)[/ins]
+Hence we have the formula
+
+Connective Valency unmarked surface = Sum Valencies of Faces + Station number whole
+line
++ Isolated Summits
+
+= Sum Valencies Faces + Sum Station numbers Edges - Sum Valencies [del]Hammata[/del] [ins]Summits[/ins] + Isolated Sum-
+mits
+
+But if no edge has a furcation [del]and[/del] the two extremities of every edge
+are at Summits, we have [del]as before[/del]
+
+Connective Valency whole surface = Sum Valencies of Faces [del]minus[/del] Number edges
++ Number of Summits.
+
+This is supposing the surface is only once [del]mapped[/del] [ins]wrapped[/ins] with the
+polyhedral net.

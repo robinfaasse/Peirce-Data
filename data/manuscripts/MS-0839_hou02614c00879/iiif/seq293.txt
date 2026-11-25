@@ -1,0 +1,19 @@
+$A+B+C+D=0$
+$AB+BA+AC+CA+BC+CB=0$
+[u]$A(pB+qC) = (pB+qC)A$[/u]
+$pAB+qAC=pBA+qCA \qquad CA = \frac{p}{q}(AB-BA)+AC$
+[del]$(A+B+C)$[/del]
+
+$A(xB+yC) = xAB + yAC$
+$(xB+yC)A = xBA + yCA$ [del]#[/del]
+$(aA+bB)^2 = ab(AB+BA)=j$ [fig]figure[/fig]
+$AC+CA = k$
+$BC+CB = j-k$
+$= xAB+yAC \qquad\qquad\qquad (x-\frac{p}{q}y)AB + \frac{p}{q}yj + yk$
+$= xj - xAB + yk - yAC \qquad [del]x(AB-j)=y([/del]$
+$p(AB-BA)+q(AC-CA)=0 \qquad x((1+n)AB-nj)+y((1+n)AC-nk)=0$
+[del]$p(j-2A$[/del]
+$p(2AB-j) + q(2AC-k)=0 \qquad\qquad y(-(1+n)\frac{p}{q}AB + (1+n)\frac{p}{q}j+k)$
+$AC = -\frac{p}{q}AB + \frac{p}{q}j + k$
+
+[u][del]$(A+xU)(A+yU) = \frac{(x+y)AU}{qAU+} + xyU^2$[/del][/u]

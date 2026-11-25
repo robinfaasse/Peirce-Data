@@ -1,0 +1,89 @@
+[pn]86[/pn]
+
+An infinite plane on which the [ins]polar[/ins] coordinates of a
+point are $R_{0}$ and $\theta_{0}$ is mapped on the plane itself
+the map of the point having the coordinates $R_{1}$
+and $\theta_{1}$ But this map must contain a map of
+the map and on the map of the map the
+point $R_{1}, \theta_{1}$ has its coordinates $R_{2}, \theta_{2}$ etc.
+It is a conform projection showing every point
+once and only once and not having [del]two[/del]
+[ins]its[/ins] points mapped [del]to[/del] [ins]at[/ins] the same point.
+
+Hence
+$R_{n+1} \bigcirc^{\theta_{n+1}} = \frac{[AB - (A-1)(B-1)] C R_{n} \bigcirc^{\theta_{n}} - (A-1)(B-1)}{C^{2} R_{n} \bigcirc^{\theta_{n}} + C}$
+
+[marginalia]
+$\frac{+\frac{1}{M} p + q}{-\frac{1}{M^{2}} r + \frac{1}{M}}$
+$-M \frac{M q + p}{M - r}$
+
+$C R_{n+1} \bigcirc^{\theta_{n+1}} + 1 = A$
+$\frac{A-1}{C} = M(1-A)$
+[/marginalia]
+
+Then the origin $R_{n} = 0$ will appear at
+$R_{n+1} \bigcirc^{\theta_{n+1}} = - \frac{(A-1)(B-1)}{C} = \frac{AB R_{n} \bigcirc^{\theta_{n}}}{C R_{n} \bigcirc^{\theta_{n}} + 1} - \frac{(A-1)(B-1)}{C}$
+
+The point at infinity
+$R_{n} = \infty$ will appear at
+$\frac{AB}{C} - \frac{(A-1)(B-1)}{C}$
+
+The point $R_{n} = 1$ $\theta_{n} = 0$ will appear at
+[marginalia]
+By counting the angles
+from the proper radius
+$C$ may be made real.
+[/marginalia]
+$\frac{AB}{C+1} - \frac{(A-1)(B-1)}{C}$
+
+[del]At[/del] [ins]An[/ins] infinity [del]and[/del] on the map will be represented
+the point for which
+$R_{n} \bigcirc^{\theta_{n}} = - \frac{1}{C}$
+
+At the origin of the map will be represented the point
+for which
+$R_{n} \bigcirc^{\theta_{n}} = \frac{1}{C} \frac{1}{\frac{AB}{(A-1)(B-1)} - 1}$
+
+***
+
+[pn]87[/pn]
+
+? It is a mere matter of the radius from which the
+angles are measured to assume $C$ to be real
+and positive then
+
+the point at infinity on the map will represent the
+point for which $R_{n} = \frac{1}{C}$ $\theta_{n} = 180^{\circ}$
+
+The point on the plane for which
+$R_{n} = C$ $\theta_{n} = 0^{\circ}$
+will be represented by
+$R_{n+1} \bigcirc^{\theta_{n+1}} = \frac{[AB - (A-1)(B-1)] C^{2} - (A-1)(B-1)}{C^{3} + C}$
+$= \frac{1}{C} \left\{ AB \frac{C^{2}}{C^{2}+1} - (A-1)(B-1) \right\}$
+
+$C R_{n+1} \bigcirc^{\theta_{n+1}} + 1 = \frac{(A+B)(C R_{n} \bigcirc^{\theta_{n}} + 1) - AB}{C R_{n} \bigcirc^{\theta_{n}} + 1}$
+
+[marginalia]
+[fig]Geometric diagram with intersecting lines and angles[/fig]
+$R \cos \theta + R \sin \theta i$
+$+ R \cos \theta_{2} + R \sin \theta_{2} i$
+$+ 1$
+[/marginalia]
+
+[del]There[/del] There are two points which
+are represented by themselves
+They are
+$(C R_{n} \bigcirc^{\theta_{n}} + 1)^{2} - (A+B)(C R_{n} \bigcirc^{\theta_{n}} + 1) + AB = 0$
+That is the two points for which
+$C R_{n} \bigcirc^{\theta_{n}} + 1 = A$
+$C R_{n} \bigcirc^{\theta_{n}} + 1 = B$
+
+where is the point mapping a point $p A + (1-p) B = C R_{n} \bigcirc^{\theta_{n}} + 1$
+$C R_{n+1} \bigcirc^{\theta_{n+1}} + 1 = \frac{(A+B)(p A + (1-p) B) - AB}{p A + (1-p) B}$
+$= \frac{p A^{2} + [del]p B[/del] [ins](1-p)[/ins] B^{2}}{p A + (1-p) B} = A + B - \frac{1}{\frac{p}{B} + \frac{1-p}{A}}$
+
+[marginalia]
+[fig]Triangle with interior lines and points[/fig]
+[/marginalia]
+
+$= \frac{p A^{2} + A B - p A B}{p A + (1-p) A B}$

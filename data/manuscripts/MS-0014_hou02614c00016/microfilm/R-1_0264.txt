@@ -1,0 +1,20 @@
+[pn]24[/pn]
+
+<u>Quantity</u>
+
+Now the block $\mathfrak{m}\mathfrak{n}$, if $\mathfrak{m}$ is [ins]not greater than $\mathfrak{n}$ and is either[/ins] enumerable or denumerable, [del]it[/del] [ins]agrees[/ins] is pretty clearly of the same order with $\mathfrak{n}$ in being enumerable, denumerable, or of any given order of [del]den[/del] abnumerality. However, it is not logically requisite to prove this; but it will be sufficient to consider the case in which both $\mathfrak{m}$ and $\mathfrak{n}$ are abnumeral and [del]therefore[/del] of the forms $2^\mu$ and $2^\nu$. In that case, I say that for the block, we have
+$$2^\mu \cdot 2^\nu = 2^{\mu + \nu}$$
+
+This is true because $2^\mu \cdot 2^\nu$ is the multitude of pairs of ways in which $\mu$ places can be each filled either with $0$ or $1$ and in which $\nu$ other places can be each filled with $0$ or $1$. But [del]this[/del] each of these is simply a way in which the aggregate of $\mu$ and $\nu$ places, which we may represent by $\mu + \nu$, can each be filled with [del]to[/del] $0$ or $1$. Now the aggregate of $\mu$ and $\nu$ [ins]places agrees[/ins] with that one multitude of the two which is not smaller than the other is [del]being[/del] enumerable, denumerable, or of a given order of abnumerality.
+
+It has thus been proved that
+$$[del]2^{\mathfrak{D}^2}[/del] \left[ 2^{(\mathfrak{D})} \right]^{2^{(\mathfrak{D})}} = 2^{\left(2^{\mathfrak{D}} \cdot 2^{\mathfrak{D}}\right)} = 2^{\left(2^{\mathfrak{D} + \mathfrak{D}}\right)} = 2^{\left(2^{\mathfrak{D}}\right)}$$
+that is that any [del]denumer[/del] abnumeral multitude multiplied into itself a multitude of times of less abnumerality is not increased.
+
+Thence it follows, by the same reasoning which was used to show [del]that[/del] [del]there[/del] the [del]non[/del] impossibility of any multitude intermediate between the denumerable and the first abnumeral that there is no multitude intermediate between two successive abnumerals after the second.
+
+Consequently, if $\infty$ [del]or $\infty$[/del] (a form of Aries resembling $\infty$, which I employ in the algebra of logic) represents the [del]first[/del] [ins]denumerable multitude[/ins] [del]abnumeral[/del], the only multitudes possible, are, $1^{\text{st}}$, the denumerable series of enumerable multitudes,
+$$0, 1, 2, 3, 4, 5, \text{etc.}$$
+and $2^{\text{nd}}$, the denumerable [del]series[/del] of inenumerable multitudes,
+$$[del]\text{Exp. }\mathfrak{n} = \mathfrak{D}, \text{Exp.}^2 \mathfrak{n} = \mathfrak{A}_1, \text{Exp.}^3 \mathfrak{n} = \mathfrak{A}_2[/del] \text{ Exp.}^3 \mathfrak{A}$$
+$$\text{Exp.}^0 \infty = \infty, \text{ Exp.}^1 \infty = 2^\infty, \text{ Exp.}^2 \infty = 2^{2^\infty}, \text{ Exp.}^3 \infty = 2^{2^{2^\infty}}, \text{ etc.}$$

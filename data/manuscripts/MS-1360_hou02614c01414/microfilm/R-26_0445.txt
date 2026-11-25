@@ -1,0 +1,35 @@
+[del]\sin^2 \varphi = \frac{1 - \cos^2 u}{1 - e^2 \cos^2 u}[/del]
+
+$\cos^2 u (1 - e^2 \sin^2 \varphi) = 1 - \sin^2 \varphi$
+
+$\cos u = \frac{\cos \varphi}{\sqrt{1 - e^2 \sin^2 \varphi}}$
+
+$q = \frac{a \cos \varphi}{\sqrt{1 - e^2 \sin^2 \varphi}}$
+
+$dq \sqrt{1 - e^2 \sin^2 \varphi} + q [del]\frac{1}{2}[/del] \frac{e^2 \sin \varphi \cos \varphi d\varphi}{\sqrt{1 - e^2 \sin^2 \varphi}} = - a \sin \varphi \cdot d\varphi$
+
+$dq = a \frac{\frac{e^2 \sin \varphi \cos^2 \varphi}{1 - e^2 \sin^2 \varphi} - \sin \varphi}{\sqrt{1 - e^2 \sin^2 \varphi}} d\varphi$
+
+$= a \frac{e^2 \sin \varphi [del]- e^2 \sin^3 \varphi[/del] - \sin \varphi + [del]e^2[/del]}{(1 - e^2 \sin^2 \varphi)^{\frac{3}{2}}} d\varphi$
+
+$= a (e^2 - 1) \frac{\sin \varphi}{(1 - e^2 \sin^2 \varphi)^{\frac{3}{2}}} d\varphi$
+
+$\frac{dq}{q \sin \varphi} = (e^2 - 1) \frac{1}{\cos \varphi (1 - e^2 \sin^2 \varphi)} d\varphi = d \log r$
+
+[del]\frac{\frac{1}{1 - e^2}}{\cos \varphi} = \frac{\frac{e^2}{1 - e^2} \cos \varphi}{1 - e^2 \sin^2 \varphi}[/del]
+
+[del]\frac{1}{1 - e^2} \frac{d\varphi}{\cos \varphi}[/del]
+
+[del]\frac{\sec^2 \varphi}{\tan \varphi} = \sin[/del]
+
+[del]\frac{e^2 \cos \varphi}{1 - e^2 \sin^2 \varphi}[/del]
+
+$\frac{e^2 d\sin \varphi}{1 - e^2 \sin^2 \varphi}$
+
+$d \{ \log (1 - \sin \varphi) - \log \cos \varphi \} = \frac{- \cos \varphi}{1 - \sin \varphi} + \frac{\sin \varphi}{\cos \varphi} = - \frac{1}{\cos \varphi}$
+
+$\frac{e}{2} (\frac{\frac{1}{e}}{1 + e \sin \varphi} + \frac{\frac{1}{e}}{1 - e \sin \varphi})$
+
+$\frac{1 + \varphi}{1 - \varphi}$
+
+$\cdot \frac{e}{2} \log (1 + e \sin \varphi) - \frac{e}{2} \log (1 - e \sin \varphi)$

@@ -1,0 +1,19 @@
+[pn]2[/pn]
+
+$.4444444444 \&c = .5$
+
+$\frac{a}{t} + a\frac{1}{t^2} + a\frac{1}{t^3} + \&c$
+
+Multiply by $t-1$
+
+$\left\{ \begin{aligned} a + \frac{a}{t} + \frac{a}{t^2} + \&c \\ - \frac{a}{t} - \frac{a}{t^2} - \&c \end{aligned} \right.$
+
+$a$
+
+Hence $(t-1) \left( a\frac{1}{t} + a\frac{1}{t^2} + a\frac{1}{t^3} + \&c \right) = a$
+
+$a\frac{1}{t} + a\frac{1}{t^2} + a\frac{1}{t^3} + \&c = \frac{a}{t-1}$
+
+Let $t = [del]10[/del] [ins]10[/ins]$
+
+$0.\dot{a} = \frac{a}{9}$

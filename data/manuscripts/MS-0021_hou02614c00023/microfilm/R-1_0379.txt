@@ -1,0 +1,39 @@
+[u]La logique de la quantité[/u]
+
+$$\Pi_{e} \Pi_{f} \Pi_{g} \Pi_{j} \Pi_{k} \bar{r}_{ief} \lor \bar{r}_{ieg} \lor \bar{r}_{jxf} \lor \bar{r}_{jxg}$$
+
+[del]Et[/del] Maintenant en multipliant cette proposition par (2) en identifiant $i$ avec $h$, nous obtenons $p_{h}$, ce qui devait être démontré.
+
+Nous pourrons aussi démontrer que le produit relatif de deux relations [del]corrélativement[/del] [ins]objectivement[/ins] singulières est une relation [del]corrélativement[/del] [ins]objectivement[/ins] singulière. Car la définition du produit relatif est
+
+$$\Pi_{i} \Pi_{z} \Sigma_{y} \bar{r}_{ij} \lor \bar{s}_{yz} \lor r_{ixy} \cdot s_{jyz}.$$
+
+Multipliant [del]cela deux fois[/del] le carré de cette définition par (2), nous aurons
+
+$$\Sigma_{e''} \Sigma_{f''} \Sigma_{g''} \Sigma_{k''} \Sigma_{a''} \Sigma_{y} \Sigma_{y'} \bar{r}_{ie''y} \cdot \bar{s}_{jys} \cdot \bar{r}_{ie''y'} \cdot \bar{s}_{j'y'g''} \cdot \bar{r}_{k''a''f''} \bar{r}_{k''a''g''} \lor R(ij).$$
+
+Et la proposition que $i$ et $j$ sont des relations [del]corrélativement[/del] [ins]objectivement[/ins] singulière s'exprime ainsi :
+
+$$\Pi_{e} \Pi_{f} \Pi_{g} \Pi_{k} \Pi_{a} \Pi_{e'} \Pi_{f'} \Pi_{g'} \Pi_{k'} \Pi_{a'} (\bar{r}_{ief} \lor \bar{r}_{ieg} \lor \bar{r}_{kaf} \lor \bar{r}_{kag}) (\bar{r}_{j'e'f'} \lor \bar{r}_{j'e'g'} \lor \bar{r}_{k'a'f'} \lor \bar{r}_{k'a'g'})$$
+
+Maintenant nous n'avons qu'à multiplier ces deux propositions, et puis identifier dans le produit $e$ avec $e''$, $f$ avec $y$, $g$ [ins]et $e'$[/ins] avec $y'$, $k$ avec $j$, $a$ avec $f''$, [del]$e'$ avec $y'$[/del] [ins]$e'$ et $f'$[/ins] avec $y$, [del]$f'$ avec $y'$[/del] [ins]$g'$ avec $g''$, $k'$ avec $k''$, $a'$ avec $a''$, [del]$g'$ avec $g''$[/del][/ins] pour obtenir $R(ij)$, ce qui était à démontrer.
+
+$$\Sigma_{e} \Sigma_{f} \Sigma_{g} \Sigma_{k} \Sigma_{a} \Sigma_{y} \Sigma_{y'} \Pi_{i} \Pi_{j}$$
+
+[u]Article 2. Les propositions[/u]
+
+[del]$$\Sigma_{m} \Sigma_{n} \Sigma_{i} \Pi_{q}$$[/del]
+
+$$\Sigma_{m} \Sigma_{n} \Sigma_{i} \Pi_{s} \Sigma_{r} \bar{q}_{ns} \lor q_{mr} \cdot r_{imn}$$
+
+et
+
+$$\Sigma_{m} \Sigma_{n} \Sigma_{i} \Sigma_{s} \Pi_{r} \bar{q}_{ns'} (\bar{q}_{mr} \lor \bar{r}_{imn})$$
+
+[marginalia]* je parle des sujets d'une collection au lieu de ses objets, pour ne pas me servir de différents phrases en parlant d'une collection et d'une qualité. Par qualité je veux dire n'importe quel caractère essentiel d'une espèce ou d'une collection.[/marginalia]
+
+sont également affirmatives irréductibles, de sorte que les relations sont possibles et contingentes. Ainsi nous pouvons agréer la définition suivante :
+
+[del]Une relation, $i$, est dite de donner un sujet d'une collection ou qualité, $m$, à chaque[/del] [del]De deux collections ou qualités, $m$ et $n$, l'une, $m$, est dite de prétendre[/del] [del]sujet d'une autre collection ou qualité, $n$, pourvu qu'à chaque sujet de $n$ il y a[/del] [del]un sujet pour chaque sujet de l'autre[/del]
+
+dans cette relation, $i$, quelque sujet de $m$. Par exemple, nous pourrions dire que

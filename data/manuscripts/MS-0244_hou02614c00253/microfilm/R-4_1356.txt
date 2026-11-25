@@ -1,0 +1,10 @@
+[del]u²_{x+1} + (A_x u_x + C_x) u_{x+1} + B_x u²_x + D_x u_x + E_x = 0[/del]
+[u]u²_{x+1} + A_x u_{x+1} u_x + B_x u²_x + C_x u_{x+1} + D_x u_x + E_x = 0[/u]
+
+[u]u²_1 + A_0 u_1 u_0 + B_0 u²_0 + C_0 u_1 + D_0 u_0 + E_0[/u]
+u_{x+1} = - \frac{1}{2} A_x u_x - \frac{1}{2} C_x [del]±[/del] [ins]±[/ins] \sqrt{\frac{1}{4} A²_x u²_x + \frac{1}{2} A_x C_x u_x + \frac{1}{4} C²_x \atop - B_x u²_x - D_x u_x - E_x}
+
+u_1 = - \frac{1}{2} A_0 u_0 - \frac{1}{2} C_0 ± \sqrt{(\frac{1}{4} A²_0 - B_0) u²_0 + (\frac{1}{2} A_0 C_0 - D_0) u_0 + \frac{1}{4} C²_0 - E_0}
+u_2 = - \frac{1}{2} A_1 u_1 - \frac{1}{2} C_1 ± \sqrt{(\frac{1}{4} A²_1 - B_1) u²_1 + (\frac{1}{2} A_1 C_1 - D_1) u_1 + \frac{1}{4} C²_1 - E_1}
+= \frac{1}{2} \frac{A_1}{2} A_0 u_0 + \frac{1}{2} \frac{A_1}{2} C_0 [del]∓[/del] [ins]∓[/ins] \frac{A_1}{2} \sqrt{0} - \frac{1}{2} C_1
+± \sqrt{                                                                                                                   }

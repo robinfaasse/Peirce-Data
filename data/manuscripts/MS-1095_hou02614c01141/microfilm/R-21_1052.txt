@@ -1,0 +1,24 @@
+Thus $X_1 = - c \cdot e^{-\sqrt{\frac{n}{2\mu'}} (r-R)} \cos \sqrt{\frac{n}{2\mu'}} (r-R)$
+$X_2 = c \cdot e^{-\sqrt{\frac{n}{2\mu'}} (r-R)} \sin \sqrt{\frac{n}{2\mu'}} (r-R)$
+
+$X_3 \text{ and } X_4 = 0$
+
+$r D_t \theta = c \cdot e^{-\sqrt{\frac{n}{2\mu'}} (r-R)} \sin \theta \left( - \cos \sqrt{\frac{n}{2\mu'}} (r-R) \sin n t \right.$
+$\left. \phantom{r D_t \theta = c \cdot e^{-\sqrt{\frac{n}{2\mu'}} (r-R)} \sin \theta} + \sin \text{ [gap] } \cos \text{ [gap]} \right)$
+$= c \cdot e^{-\sqrt{\frac{n}{2\mu'}} (r-R)} \sin \left\{ \sqrt{\frac{n}{2\mu'}} (r-R) - n t \right\} [del]\cos[/del] \theta$
+
+We must now calculate the pressures
+[del]on the cylin[/del] [ins]due[/ins] to the two motions and in-
+tegrate them over the cylindrical surface
+
+For the first motion
+$D_t r = c \sin n t \cdot \frac{R}{r} \sin \theta = - D_t e \cdot \frac{R}{r} \sin \theta$
+
+The normal pressure due to viscosity is
+$- 2 \mu D_r D_t r = [del]+[/del] 2 \mu \frac{D_t e}{r} = 2 \mu \frac{R}{r^2} \sin \theta \cdot D_t e$
+
+the neg. of which at the surface becomes
+$+ 2 \mu \frac{1}{R} \sin \theta \cdot D_t e$
+
+Only affects are. The tangential pressures is
+$- \mu \frac{d D_t r}{r d \theta} = + \mu \frac{R}{r^2} \cos \theta \cdot D_t e$

@@ -1,0 +1,18 @@
+[del]z[/del] [ins]z[/ins] < x +_ (y +_ z)
+Hence, by the third condition,
+(x +_ y) +_ z < x +_ (y +_ z).
+In the same way, it could be shown that
+x +_ (y +_ z) < (x +_ y) +_ z
+or x +_ (y +_ z) = (x +_ y) +_ z.
+
+The proof the logical addition is commutative
+is still more simple.
+By the first condition [del]y[/del] [ins]x[/ins] < y +_ x
+By the second, y < y +_ x
+Hence, by the third, x +_ y < y +_ x.
+
+From the first condition of inclusion
+x < x
+Hence by the third condition of addition
+x +_ x < x
+By the 1st or 2nd condition of addition x < x +_ x.

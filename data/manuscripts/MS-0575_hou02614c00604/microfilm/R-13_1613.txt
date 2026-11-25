@@ -1,0 +1,28 @@
+[u]Definition of the negative[/u].
+
+[u]x[/u] , [u]n[/u]·[u]x[/u] < 0 (45)
+
+1 < [u]x[/u] + [u]n[/u]·[u]x[/u] (46)
+
+
+[u]Theorem 6[/u]. If [u]x[/u] < [u]y[/u] , then [u]n[/u]·[u]y[/u] < [u]n[/u]·[u]x[/u] .
+
+[u]Proof[/u]. Assuming
+
+[u]x[/u] < [u]y[/u] (47)
+
+By (34)
+
+[u]x[/u] , [u]n[/u]·[u]y[/u] < [u]y[/u] , [u]n[/u]·[u]y[/u] (48)
+
+By (48), (45), (2)
+
+[u]x[/u] , [u]n[/u]·[u]y[/u] < 0 [del]X[/del] (49)
+
+By (33), (49), (41), (2)
+
+[u]x[/u] , [u]n[/u]·[u]y[/u] + [u]n[/u]·[u]x[/u] < [u]n[/u]·[u]x[/u] .
+
+But by (46), (34), (42), (2)
+
+[u]n[/u]·[u]y[/u] < [u]x[/u] , [u]n[/u]·[u]y[/u] +

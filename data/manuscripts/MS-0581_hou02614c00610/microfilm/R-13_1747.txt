@@ -1,0 +1,21 @@
+[pn]11[/pn]
+
+[del]0[/del] [del]$\Pi_{\alpha}$[/del] $\Pi_{\alpha} \Pi_{j} m_{\alpha i}$
+$m_{\alpha} \prec 1$ $\Pi_{\alpha} \Pi_{i} m_{i} + q_{\alpha i}$
+[del]$\Pi_{\alpha} \Pi_{j} m_{i}$[/del]
+[del]$\Pi_{\alpha} \Pi_{j} m_{\alpha} + m_{j}$[/del]
+[del]$\Pi_{\alpha} \Pi_{j}$[/del] $m_{i} ($
+[del]$\Pi_{\beta}$[/del] $\Sigma_{i} \Pi_{\beta} \Pi_{j} m_{\alpha j} + q_{ji} q_{\alpha i} + \overline{q}_{ji} \overline{q}_{\alpha i} )$
+
+$m_{\alpha} \prec 2$ $\Sigma_{i} \Pi_{\beta} \Pi_{j} \overline{q}_{\alpha i} + q_{ji} \cdot ( \overline{q}_{\beta j} + q_{\beta i} )$ [fig]directed graph with three nodes[/fig]
+$\Pi_{\beta} \Sigma_{i} \Pi_{j} \overline{q}_{\alpha i} + q_{\alpha i} \cdot ( \overline{q}_{\beta j} + q_{\beta i} )$
+
+$m_{\alpha} \prec 3$ $\Pi_{\beta} \Sigma_{i} \Pi_{j} \Pi_{k} [del]\overline{q}_{\alpha i}[/del] + \overline{q}_{\alpha k} + q_{\alpha i} \cdot ( \overline{q}_{\beta j} + q_{\beta i} ) \cdot ( \overline{q}_{\gamma k} + q_{\gamma i} )$
+[del]$\Pi_{\beta}$[/del] [del]$( \overline{q}_{\beta i} + q_{\beta k} \cdot q_{\beta i} )$[/del]
+$( \overline{q}_{\beta i} + q_{\beta k} \cdot q_{\beta i} )^{1 \rightarrow 2}$
+$m_{\alpha} \prec 4$ $q_{\alpha i} \cdot q_{\alpha j} \cdot ( \overline{q}_{\beta i} + q_{\beta k} \cdot q_{\beta i} ) \cdot ( \overline{q}_{\gamma j} + q_{\gamma k} \cdot q_{\gamma j} )$ [fig]directed graph with three nodes and multiple edges[/fig]
+$q_{\beta j}$
+$q_{\beta i} k$
+
+[fig]triangle with arrows on edges[/fig]
+[fig]triangle with arrows on edges[/fig]

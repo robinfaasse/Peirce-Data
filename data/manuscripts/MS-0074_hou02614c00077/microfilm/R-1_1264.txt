@@ -1,0 +1,25 @@
+[pn]12[/pn]
+so on until all the letters are separated. I
+shall call the resulting form an [u]ABC-separation[/u].
+
+The following are examples
+[u]A[/u]:[u]B[/u].[u]C[/u];[u]D[/u],[u]E[/u]:[u]F[/u]
+[u]A[/u].[u]B[/u];[u]C[/u]:[u]D[/u];[u]E[/u],[u]F[/u]
+
+Let [u]n[/u] be the number of punctuations; Then, the
+number of letters will be [u]n[/u]+1. Let F[u]n[/u] be the
+number of [u]ABC-separations[/u] with [u]n[/u] punctu-
+ations, or say of [u]n[/u]-point separations. Then,
+if [u]i[/u] be the number of letters to the left of the
+highest punctuation, so that [u]n[/u]+1-[u]i[/u] is the number
+to the [del]left[/del] [ins]right[/ins], the number of ABC separations of
+the row to the left is F([u]i[/u]-1) and the number
+of ABC separations of the row to the right is
+F([u]n[/u]-[u]i[/u]), and the number of those ABC-separations
+of the total row in which the first punctuation
+has [u]i[/u] letters to the left of it is F([u]i[/u]-1).F([u]n[/u]-[u]i[/u]). And
+the total number of [u]n[/u]-point separations is
+F[u]n[/u] = [summation][sub]1[/sub][sup][u]n[/u][/sup][sub][u]i[/u][/sub] F([u]i[/u]-1).F([u]n[/u]-[u]i[/u])
+= F0.F([u]n[/u]-1) + F1.F([u]n[/u]-2) + . . . . . +F([u]n[/u]-2).F1 +F([u]n[/u]-1)F0
+
+And it is evident that F0 = 1 ; so that this formula gives

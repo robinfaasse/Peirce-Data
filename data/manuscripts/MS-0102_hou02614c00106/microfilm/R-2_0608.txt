@@ -1,0 +1,65 @@
+To find $P_{67\cdot 12}$ we simply consider that the coefficients
+must be composed of $a$ and $b$ [del]and that in[/del] [ins]their[/ins]
+coefficients of $P_{1}$ and $P_{2}$ these letters have opposite
+signs, so that
+$$2(a-b) P_{67\cdot 12} = 2a P_{7} - 2b P_{6} = (a-b-c) P_{1} + (a-b+c) P_{2}$$
+and so
+$$2(a+b) P_{67\cdot 34} = 2a P_{7} + 2b P_{6} = (a+b-c) P_{3} + (a+b+c) P_{4}.$$
+
+We now come upon [del]a[/del] [ins]the[/ins] very curious theorem. Name-
+ly: if we take the [del]three[/del] [ins]equations of the[/ins] points $P_{56\cdot 14}$ $P_{57\cdot 24}$ [del]and add[/del] [ins]and[/ins] $P_{67\cdot 12}$
+[del]their equations, we have[/del]
+$$\begin{array}{rcc}
+2(b+c) P_{56\cdot 14} & = & 2b P_{6} + 2c P_{5} \\
+-2(a+c) P_{57\cdot 24} & = & -2c P_{5} - 2a P_{7} \\
+2(a-b) P_{67\cdot 12} & = & -2b P_{6} \qquad\quad + 2a P_{7}
+\end{array}$$
+we see that they can be so added as to give zero
+and therefore these three points lie in a straight line.
+And we can find several other sets, for if the coefficients
+add up to zero, the points will be certain to do so. Thus
+we have
+$$\begin{array}{r}
+2(a+b) P_{67\cdot 34} + 2(-a+c) P_{57\cdot 13} + 2(-b-c) P_{56\cdot 14} = 0 \\
+2(a+b) P_{67\cdot 34} + 2(-a-c) P_{57\cdot 24} + 2(-b+c) P_{56\cdot 23} = 0 \\
+2(a-b) P_{67\cdot 12} + 2(-a+c) P_{57\cdot 13} + 2(b-c) P_{56\cdot 23} = 0 \\
+2(a-b) P_{67\cdot 12} + 2(-a-c) P_{57\cdot 24} + 2(b+c) P_{56\cdot 14} = 0.
+\end{array}$$
+
+Compare the relations of these 4 lines with those of the
+4 points originally taken
+
+These 4 lines intersect in 6
+points $P_{67\cdot 34}$, $P_{67\cdot 12}$, $P_{57\cdot 13}$, $P_{57\cdot 24}$
+$P_{56\cdot 14}$ $P_{56\cdot 23}$
+
+The original 4 points lay in pairs on
+the 6 lines $P_{1}P_{2}$, $P_{3}P_{4}$, $P_{1}P_{3}$, $P_{2}P_{4}$,
+$P_{1}P_{4}$, $P_{2}P_{3}$.
+
+These 6 points lie [ins]in pairs[/ins] on three other
+lines besides the [del]two[/del] [ins]three[/ins] with which we
+started. Namely $P_{6}P_{7}$, $P_{5}P_{7}$, $P_{5}P_{6}$.
+These 3 lines intersect in [del]3 points[/del]
+$P_{5}, P_{6}, P_{7}$.
+
+These 6 lines intersect in three other
+points besides the original 4, namely
+$P_{5}, P_{6}, P_{7}$.
+These three points lie [del]and pairs on[/del]
+3 lines $P_{5}P_{6}$, $P_{5}P_{7}$, $P_{6}P_{7}$.
+
+These 3 points lie in pairs with the other
+6 points on 6 new lines, namely
+$P_{5} P_{67\cdot 34} - P_{5} P_{67\cdot 12} - P_{6} P_{57\cdot 13} - P_{6} P_{57\cdot 24} -$
+$P_{7} P_{56\cdot 14} - P_{7} P_{56\cdot 23}$
+
+These [del]3[/del] [ins]6[/ins] lines intersect the other
+6 lines on 6 new points namely
+$P_{67\cdot 12} P_{67\cdot 34} P_{57\cdot 13} P_{57\cdot 24} P_{56\cdot 14} P_{56\cdot 23}$
+
+These 6 lines intersect in 3s in 4
+points $P_{1}, P_{2}, P_{3}, P_{4}$
+
+These 6 points lie in threes on
+4 lines,

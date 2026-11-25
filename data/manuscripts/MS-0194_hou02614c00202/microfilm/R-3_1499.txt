@@ -1,0 +1,35 @@
+[fig]Geometric diagram with triangles[/fig]
+
+[fig]Geometric diagram with triangles and lines[/fig]
+
+$\tan^2 = \frac{\cos^2\alpha - 2\frac{A}{A'}\cos\alpha + \frac{A^2}{A'^2}}{\sin^2\alpha}$
+
+$\sec^2 = \frac{1 - 2\frac{A}{A'}\cos\alpha + \frac{A^2}{A'^2}}{\sin^2\alpha}$
+
+$\sec = \frac{1}{A'}\frac{PP'}{\sin\alpha}$
+
+$\cos IOP' = \frac{A'}{PP'}$
+
+$\frac{PP'}{A'}$
+
+[fig]Geometric diagram with a circle and angles[/fig]
+
+$\frac{A'\cos\alpha - A}{\sin\alpha}$
+
+$\frac{\cos\alpha - \frac{A}{A'}}{\sin\alpha} = 1$
+
+$\frac{\sin\alpha}{\sqrt{\quad}}$
+
+$\left(\frac{A' - A}{\cos\alpha}\right)\frac{\cos\alpha}{\sin\alpha}$
+
+[del]$\frac{A'\cos\alpha}{\sin\alpha} = $[/del] $\frac{A'\cos\alpha - A}{\sin\alpha}$
+
+[del]$A'^2 + A^2 - 2AA'\cot$[/del]
+
+$\frac{[del]A'^2\cos^2\alpha[/del] [ins]A'^2\cos^2\alpha[/ins] - 2AA'\cos\alpha + A^2}{\sin^2\alpha}$
+
+$(A'\cot\alpha - A\csc\alpha)^2 [del]+ A'^2 + A^2\cot^2\alpha - 2AA'\frac{\cos\alpha}{\sin^2\alpha} + A^2\frac{1}{\sin^2\alpha}[/del]$
+
+$A'^2\cot^2\alpha - A^2\csc^2\alpha$
+
+[del]$A'^2\csc^2\alpha$[/del] $\frac{\sqrt{(A'^2 - 2AA'\cos\alpha + A^2)}}{\sin\alpha}$

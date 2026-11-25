@@ -1,0 +1,27 @@
+[pn]290[/pn]
+
+This gives [del]z=3[/del] [ins]z=4[/ins], E = 12.
+The number of faces is [u]24[/u]/3 = 8
+The number of summits is [u]24[/u]/4 = 6
+And we have the [u]hexacral octohedron[/u]
+
+[fig]A drawing of an octahedron[/fig]
+
+[fig]A Venn-like diagram of three mutually intersecting loops inside a circle[/fig]
+Fig 185
+
+There are no solutions for higher numbers.
+
+167. Required to find how many faces on the surface of
+an anchor-ring can all [del]the[/del] touch one another.
+Since the cyclosis of this surface is 2 and its periphraxis
+1, its valency is zero. Hence, for simple faces,
+No. [del]Edges[/del] [ins]Summits[/ins] + No. Faces = No. Edges.
+Suppose [u]x[/u] is the [ins]greatest[/ins] number of faces which can all touch
+one another. Then the number of [del]edges is 1/2 x (x-1)[/del] and
+the number of edges is [del]1/3 x (x-1)[/del]
+[u]x[/u] = 1/6 [u]x[/u] ([u]x[/u]-1)
+or [u]x[/u] = 7.
+Had we taken the number of edges at 1/2 [u]x[/u] ([u]x[/u]-1), we should
+have [u]x[/u] = 0. Had we taken the [del]number of edges 1/2 x - 1[/del]
+we should have found [u]x[/u] = 1/4 [u]x[/u] ([u]x[/u]-1), [u]x[/u] = 5 &etc.

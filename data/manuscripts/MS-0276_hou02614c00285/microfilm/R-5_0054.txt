@@ -1,0 +1,82 @@
+[fig]Sketch of a curve[/fig] [fig]Geometric diagram with angles[/fig]
+
+$$\int \frac{dx}{\sqrt{1+x^2}}$$
+
+$$\phi = \psi + \sqrt{1-x^2}$$
+
+$$r = \frac{\phi}{\sqrt{1-x^2}}$$
+
+$$= \frac{\phi}{\sqrt{1-x^2}}$$
+
+$$r \frac{d\psi}{r} = d\phi$$
+
+$$\frac{dr}{r} = \frac{d\log r}{dr} = \frac{1}{r}$$
+
+$$\int \log r dr = r$$
+
+$$\int \frac{d\log r}{dr} = \frac{1}{r}$$
+
+$$r d\log r = dr$$
+
+$$\theta^3 dg = dG^3$$
+
+$$dr = r d$$
+
+$$dr = \tan \theta r d\theta$$
+
+$$\int \tan \theta \cdot d\theta = \log \sec \theta$$
+
+Suppose $\Phi = B\theta$
+
+$$d\log r = B \tan \theta d\theta$$
+
+[del]$$\frac{1}{r} = B \log \sec$$[/del]
+
+$$\frac{dr}{r} = d\log r = B \tan \theta \cdot d\theta$$
+
+$$\log r = B \log \sec \theta$$
+
+$$r = (\sec \theta)^B$$
+
+$$r^{\frac{1}{B}} = \sec \theta$$
+
+Suppose for example
+
+---
+
+[fig]Sketch of a curve[/fig]
+
+[fig]Sketch of a curve[/fig]
+
+or suppose
+
+$$dr = \tan \theta \cdot r \cdot d\phi$$
+
+Suppose $\theta = \frac{\Theta}{4} - (\phi - \phi_0)^2$
+
+$$\phi = \phi_0 \pm \sqrt{\frac{\Theta}{4} - \theta}$$
+
+Real only when $-a < x < +a$
+
+$$\sqrt{1 - \left(\frac{x}{a}\right)^2} = \sqrt{1 - \left(\frac{x}{a}\right)^2}$$
+
+$$\frac{1}{\sqrt{1 - \left(\frac{x}{a}\right)^2}} - \frac{x^2}{a^2 \sqrt{1 - \left(\frac{x}{a}\right)^2}}$$
+
+$$\int \frac{dx}{\sqrt{1-x^2}}$$
+
+$$\begin{aligned}
+a &= 1 \\
+b &= -1
+\end{aligned}$$
+
+$$\int \sqrt{1-x^2} dx = \int \frac{dx}{\sqrt{1-x^2}} - \int \frac{x^2 dx}{\sqrt{1-x^2}}$$
+
+$$= \frac{1}{2} \int \frac{dx}{\sqrt{1-x^2}} + x \sqrt{1-x^2}$$
+
+$$\frac{1}{2\sqrt{1-x^2}} + \sqrt{1-x^2} [del]\rightarrow[/del] \frac{1}{2} x^2$$
+
+$$(1-x^2)^{\frac{1}{2}} + \frac{1}{2} x (1-x^2)^{-\frac{1}{2}}$$
+
+$$x (1-x^2)^{\frac{1}{2}}$$
+
+$$(1-x^2)^{\frac{1}{2}} \frac{1}{2} x^2$$

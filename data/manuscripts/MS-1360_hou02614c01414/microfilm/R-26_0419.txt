@@ -1,0 +1,35 @@
+In the back stays, supposing the tower does not resist
+flexure at all, the stress is $H \sec \theta$ if $\theta$ is the angle
+of the back stays [del]to the[/del] [ins]tangent[/ins] at the tower. This angle will
+be sensibly independent of $H$.
+
+In the suspenders, supposed at infinitesimal, equal
+distances, the pull is $H D_x^2 y - K \sec \tau$,
+
+In the [del]cable-[/del] towers there is a force of compression equal
+to $H (\tan T + \tan T)$.
+
+We now consider the work of bending. [del]In measuring[/del]
+the modulus of elasticity of a truss, [del]we make a portion[/del]
+[del]a cantilever[/del] lay down a piece [ins]on its side[/ins] on a flat surface and
+[del]fixing a heavy[/del] [del]or[/del] fixing in one end bring a weight to
+bear horizontally at right angles to the other end. Then the
+modulus of elasticity $F = \frac{g M}{I}$, and this is the force upon a
+particle of the chord. If $b$ is half the distance between the chords,
+and $B$ the chord section of a chord the force on the lower chord is $F B \frac{dx}{\delta dx}$.
+But $g = b \frac{dx}{\delta dx}$. Hence $F B \frac{\delta dx}{dx} = \frac{g M}{I} B \frac{\delta dx}{dx} = \frac{M}{I} B b$ and the
+work done on an element $\frac{M^2 B^2 b^2}{I^2 E} dx$ and on both $2 \frac{M^2 B b^2}{I^2 E} dx$ But
+$I = [del]2 B b^2[/del] [del]6 B b^2[/del] 2 B b^2$ so that the work is $\frac{M^2}{I E} dx$.
+
+[marginalia]
+[fig]Cross-section diagram of a beam[/fig]
+$h = (2b + a)$
+$b = b$
+$b(2b+a)^3$
+$- b(2b-a)^3$
+$\frac{1}{12} \{ b 2 \cdot 3 \cdot 4 b^2 a$
+$\int x^2 dy =$
+$\int \frac{1}{3} x^3$
+$(x+\frac{1}{2}a)^3 - (x-\frac{1}{2}a)^3$
+$3 x^2 a$
+[/marginalia]

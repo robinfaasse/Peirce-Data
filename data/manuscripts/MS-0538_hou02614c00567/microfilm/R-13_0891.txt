@@ -1,0 +1,86 @@
+[fig]Two square grids with dots and a diagonal line[/fig]
+
+$$\begin{array}{cc}
+a:b & b:c \\
+\hline
+a:c \\
+\hline
+a:1 & \\
+a:2 & b:2
+\end{array}
+\begin{array}{c}
+1:b \\
+1:c \\
+\hline
+1:2
+\end{array}
+\begin{array}{c}
+\\
+2:c \\
+\hline
+\end{array}$$
+
+$$\begin{array}{c}
+a:3 \\
+a:4 \\
+a:5 \\
+a:6 \\
+\\
+\\
+a:7
+\end{array}
+\begin{array}{c}
+\\
+\\
+b:5 \\
+b:6
+\end{array}
+\begin{array}{c}
+1:4 \\
+1:5 \\
+1:6 \\
+\\
+\\
+2:6
+\end{array}
+\begin{array}{c}
+3:1 \\
+3:b \\
+3:c \\
+3:2 \\
+3:4 \\
+3:5 \\
+3:6
+\end{array}
+\begin{array}{c}
+4:b \\
+4:c \\
+4:2 \\
+4:5 \\
+4:6
+\end{array}
+\begin{array}{c}
+\\
+\\
+5:2 \\
+5:6
+\end{array}
+\begin{array}{c}
+\\
+\\
+\\
+\\
+6:c
+\end{array}
+\begin{array}{c}
+7:3 \\
+7:1 \\
+7:b \\
+7:c \\
+7:2 \\
+7:4 \\
+7:5 \\
+7:6
+\end{array}$$
+
+[u]Endless or[/u]

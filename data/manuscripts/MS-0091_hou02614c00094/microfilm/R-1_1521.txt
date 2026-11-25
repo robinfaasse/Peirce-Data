@@ -1,0 +1,23 @@
+[marginalia]
+Calc. Diff
+20
+[/marginalia]
+
+(3) [u]v[/u]<sub>[u]l[/u]</sub> = [u]w[/u].[u]u[/u]<sub>[u]l[/u]</sub>
+Then we have
+[u]v[/u]<sub>[u]l[/u]+1</sub> = [u]w[/u].[u]u[/u]<sub>[u]l[/u]+1</sub> = [u]w[/u].([u]φ[/u].[u]u[/u]<sub>[u]l[/u]</sub>)
+[u]v[/u]<sub>[u]l[/u]+1</sub> = [u]ψ[/u].[u]v[/u]<sub>[u]l[/u]</sub> = [u]ψ[/u].([u]w[/u].[u]u[/u]<sub>[u]l[/u]</sub>)
+so that
+(4) [u]w[/u].([u]φ[/u].[u]u[/u]<sub>[u]l[/u]</sub>) = [u]ψ[/u].([u]w[/u].[u]u[/u]<sub>[u]l[/u]</sub>)
+This suggests our writing
+(5) ([u]w[/u].[u]φ[/u]).[u]u[/u]<sub>[u]l[/u]</sub> = ([u]ψ[/u].[u]w[/u]).[u]u[/u]<sub>[u]l[/u]</sub>
+and since no convention yet adopted has given
+this any meaning, we may adopt the following rule:
+[u]Rule of Notation 2[/u]. Given any two symbols of
+operation, [u]φ[/u] and [u]ψ[/u], and any symbol of quantity, [u]u[/u],
+([u]φ[/u].[u]ψ[/u]).[u]u[/u] shall denote [u]φ[/u].([u]ψ[/u].[u]u[/u]).
+We have no assurance that there may not be
+some other [del]given[/del] description of quantity, [u]w[/u], such [del]as[/del] [ins]that[/ins] ([u]w[/u].[u]φ[/u])[u]w[/u]
+would not be equal to ([u]ψ[/u].[u]w[/u]).[u]w[/u]. But if we knew
+that in all cases
+([u]w[/u].[u]φ[/u]).[u]w[/u] = ([u]ψ[/u].[u]w[/u]).[u]w[/u],

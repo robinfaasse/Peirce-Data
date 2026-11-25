@@ -1,0 +1,82 @@
+[pn]Figs 13-28[/pn]
+
+[marginalia]
+Case 1. [u]2[/u]
+[/marginalia]
+[fig]Tic-tac-toe grid[/fig] O has choice between 8 (Case 11), 5 (Case 12), 1=3 (Case 13), 4=6 (Case 14), 7=9 (Case 15).
+
+[marginalia]
+Case 11. [u]8[/u]
+[/marginalia]
+[fig]Tic-tac-toe grid[/fig] X has choice between 1=3 (Case 111), 7=9 (Case 112), 4=6 (Case 113), 5 (Case 114).
+
+[marginalia]
+Case 111. [u]1[/u] [u]3[/u]
+[/marginalia]
+[fig]Tic-tac-toe grid[/fig] O has an unreinforced semidouble H, and X can only prevent the A by occupying 7 or 9. Neither of these gives X an H, and therefore there is no tit-tat-to
+
+[marginalia]
+Case 112. [u]7[/u]
+[/marginalia]
+[fig]Tic-tac-toe grid[/fig] X has a semidouble H, and O can only prevent the A by occupying 1 [del]or 9[/del] [ins](Case 1121)[/ins] or 3 (Case 1122). O cannot make an H.
+
+[marginalia]
+Case 1121. [u]1[/u]
+[/marginalia]
+[fig]Tic-tac-toe grid[/fig] X can only make an unreinforced single H, and A would be prevented. Consequently, there is no tit-tat-too.
+
+[marginalia]
+Case 1122. [u]3[/u]
+[/marginalia]
+[fig]Tic-tac-toe grid[/fig] X can only make an unreinforced single H, and A would be prevented. Consequently, there is no tit-tat-too.
+
+[marginalia]
+Case 113. [u]4[/u]
+[/marginalia]
+[fig]Tic-tac-toe grid[/fig] X has a single H, and O can only prevent A by occupying either 1 (Case 1131), 3 (Case 1132), 7 (Case 1133), or 9 (Case 1134).
+
+[marginalia]
+Case 1131. [u]1[/u]
+[/marginalia]
+[fig]Tic-tac-toe grid[/fig] O has a single H. X can only prevent [del]f[/del] [ins]it[/ins] by occupying either 7, 9, 5, or 6. The last two do not give him an H, so that there would be no tit-tat-too. The other plays give unreinforced single Hs, and A would be prevented by O occupying 3. Consequently there is no tit-tat-too.
+
+[marginalia]
+Case 1132. [u]3[/u]
+[/marginalia]
+[fig]Tic-tac-toe grid[/fig] O has a semidouble H, and X cannot occupy 1, which would give O an A. X can only occupy, either [del]5 (Case 11321),[/del] 6 (Case 11322), 7 (Case 11323), or 9 (Case 11324).
+
+[marginalia]
+Case [del]11321.[/del] [ins]11322.[/ins] [u]6[/u]
+[/marginalia]
+[fig]Tic-tac-toe grid[/fig] X has a weakly reinforced single H. There is no tit-tat-too.
+
+[marginalia]
+Case 11323. [u]7[/u]
+[/marginalia]
+[fig]Tic-tac-toe grid[/fig] X has no H. There is no tit-tat-too.
+
+[marginalia]
+Case 11324. [u]9[/u]
+[/marginalia]
+[fig]Tic-tac-toe grid[/fig] X has no H, and consequently there is no tit-tat-too.
+
+[marginalia]
+[del]Case 1133[/del]
+Case 1133. [u]7[/u]
+[/marginalia]
+[fig]Tic-tac-toe grid[/fig] [del]X[/del] [ins]O[/ins] has [del]only[/del] an unreinforced single H, and A will be prevented. Consequently there is no tit-tat-too.
+
+[marginalia]
+[u]9[/u]
+[/marginalia]
+[fig]Tic-tac-toe grid[/fig] X has a [del]peculiar[/del] [ins]double[/ins] composite H, [del]with 4 intersections and 4 lines.[/del] If O occupies either of the pair of squares 1 and 6 or of the pair 3 and 5, X makes A by occupying the other square of the pair, and so X makes tit-tat-too.
+
+[marginalia]
+Case 1134. [u]9[/u]
+[/marginalia]
+[fig]Tic-tac-toe grid[/fig] [del]7[/del] [ins]5[/ins]; [fig]Tic-tac-toe grid[/fig] X has an A, and makes tit-tat-too.
+
+[marginalia]
+Case 114. [u]5[/u]
+[/marginalia]
+[fig]Tic-tac-toe grid[/fig] X has an unreinforced semidouble H, and O can only prevent A by occupying 1=3. He thus gets an unreinforced single H, and A is prevented; so that there is no tit-tat-too.

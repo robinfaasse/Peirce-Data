@@ -1,0 +1,15 @@
+[del]E u_x v_x = u_{x+1} v_{x+1}[/del]. The E is [del]supposed[/del] [ins]to be understood as affecting[/ins] everything which follows it, to the end of the additive term. Thus [del]E u_x v_x = u_{x+1} v_{x+1}[/del]. If E has a numerical exponent, as E², the meaning is that the operation is to be performed so many times. Thus, E³ u_x = u_{x+3}. Then, necessarily, E⁰ means that the variable is [del]to remain[/del] unchanged. Negative exponents will mean that the [del]variable[/del] [ins]exponent[/ins] is to be diminished. A fractional or other exponent will mean that that exponent is to be added to the variable. Thus, E^i u_x = u_{x+i}
+
+A sum of E's denotes that they are to be separately performed and the results added. Thus (E_x + E_y) u_{x,y} = u_{x+1,y} + u_{x,y+1}.
+
+If the E has a multiplier to the left of it, the meaning is that the operation E is first to be performed and then the multiplication [del]by that factor[/del]. Thus u_x E v_x = u_x v_{x+1}. Accordingly u_x E_x = E_x u_x. Observing this simple [del]precaution[/del] [ins]distinction[/ins], the rules of algebraical addition and multiplication apply to E
+
+Thus (E + u_x)(E + v_x) w_x = (E² + u_x E + E v_x + u_x v_x) w_x
+= w_{x+2} + u_x w_{x+1} + v_{x+1} w_{x+1} + u_x v_x w_x
+
+The same result will be reached thus
+(E + u_x)(E + v_x) w_x = (E + u_x) (w_{x+1} + v_x w_x) = w_{x+2} + v_{x+1} w_{x+1} + u_x w_{x+1} + u_x v_x w_x.
+
+Division is simple so long as the divisor is monomial. For
+1/E u_x = u_{x-1}
+that is 1/E is that operation which performed upon u_x gives some thing whose enlargement is u_x. But when the divisor is a binomial or polynomial, there are difficulties requiring particular study. For this purpose, it is well to consider [del]Δ and Σ[/del].

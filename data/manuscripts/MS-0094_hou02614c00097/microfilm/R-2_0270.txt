@@ -1,0 +1,27 @@
+[pn]262[/pn]
+
+Take any three such points
+$[x X + y Y + z Z + \frac{1}{1-x-y-z} W]$,
+$[x' X + y' Y + z' Z + \frac{1}{1-x'-y'-z'} W]$,
+$[x'' X + y'' Y + z'' Z + \frac{1}{1-x''-y''-z''} W]$.
+
+Do these lie in one ray according to the notation? The condition
+of their doing so is that
+$\frac{x-x'}{x''-x'} = \frac{y-y'}{y''-y'} = \frac{z-z'}{z''-z'}$.
+
+Now
+$x-x' = \frac{\frac{5}{3} - \frac{13}{14} \frac{12}{11}}{\frac{2}{3} - \frac{7}{8} \frac{12}{11}} (z'-z)$
+$x''-x' = \frac{\frac{5}{3} - \frac{13}{14} \frac{12}{11}}{\frac{2}{3} - \frac{7}{8} \frac{12}{11}} (z'-z'')$
+
+$\frac{x-x'}{x''-x'} = \frac{z-z'}{z''-z'}$
+
+Obviously, [del]the same thing[/del] [ins]a similar relation[/ins] will [del]be the case[/del] hold for the $y$'s.
+Thus, [del]the[/del] any three points lying on both of any two planes
+lie in one ray, [del]as[/del] if the notation has the property in question.
+[del]And[/del] Thus the first two fundamental propositions are proved.
+
+But it may be objected that the proof is imperfect because
+we assumed that both the given planes would cut the rays
+[del]$\{XW\}$[/del], $\{YW\}$, $\{ZW\}$. This objection will be answered by showing that
+[del]by[/del] [ins]from[/ins] the principles of the notation the truth of the third fundamental
+proposition can [del]be deduced[/del], that any Plane and Ray contain

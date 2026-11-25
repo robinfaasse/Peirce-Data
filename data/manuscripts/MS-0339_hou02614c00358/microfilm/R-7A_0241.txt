@@ -1,0 +1,20 @@
+So that if these [del]are the[/del] [ins]be[/ins] relatives
+
+$$\varphi x = \varphi_{1} \cdot (1 - \varphi_{0}) \cdot x + \varphi_{0} \cdot (1 - \varphi_{1}) \cdot [del]c[/del]$$
+
+$$= \varphi_{1} \cdot x - \varphi_{1} \cdot \varphi_{0} \cdot x + \varphi_{0} - \varphi_{0} \cdot x = \varphi_{1}$$
+
+$$= \varphi_{1} \cdot x + \varphi_{0} + \varphi_{1} \cdot \varphi_{0} \cdot x - \varphi_{1}$$
+$$[del]= - \varphi_{1} \cdot \varphi_{0} \cdot x[/del]$$
+
+$$= (\varphi_{1} - \varphi_{0}) \cdot x + \varphi_{0} \cdot (1 - x) - \varphi_{1} \cdot \varphi_{0}$$
+
+There must be some mistake here
+
+$$\varphi x - \varphi_{1} \cdot (1 - \varphi_{0}) \cdot x = \varphi_{1} \cdot \varphi_{0} \cdot x + \varphi_{0} \cdot (1 - x)$$
+
+$$= \varphi_{1} \cdot \varphi_{0} \cdot x + \varphi_{0} - \varphi_{0} \cdot x$$
+
+$$\varphi x = \varphi_{1} \cdot \varphi_{0} \cdot x + \varphi_{1} \cdot (1 - \varphi_{0}) \cdot x + \varphi_{0} \cdot (1 - x)$$
+
+[u]I drop this here for[/u]

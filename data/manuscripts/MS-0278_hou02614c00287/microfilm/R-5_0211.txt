@@ -1,0 +1,48 @@
+$$t_{lmn} = S(c-1)^{l+m+n-3} + U(c-1)^{l-1}(c-1)^{m+n-2} + V(c-1)^{m-1}(c-1)^{l+n-2} + W(c-1)^{n-1}(c-1)^{l+m-2} + T(c-1)^{l+m+n-3}$$
+
+$$\begin{array}{lll}
+t_{111} = S + U + V + W + T & = c(c-1)(c-2) & \text{[fig Graph with three vertices]} \\
+t_{211} = S(c-1) - U + V(c-1) + W(c-1) - T & = c(c-1)(c-2)(c-3) \\
+t_{121} = S(c-1) + U(c-1) - V + W(c-1) - T & = c(c-1)(c-2)(c-3) \\
+t_{112} = S(c-1) + U(c-1) + V(c-1) - W - T & = c(c-1)(c-2)(c-3) \\
+t_{221} = S(c-1)^{2} + U(c-1)^{2} - V(c-1) - W(c-1) + T & = [del]c(c-1)(c-2)(2c-5)[/del] [ins]c(c-1)(c-2)(c-3)^{2}[/ins]
+\end{array}$$
+
+$$t_{222} = S(c-1)^{3} - U(c-1)^{2} - V(c-1)^{2} - W(c-1)^{2} - T = c(c-1)(c-2)(c^{3}-6c^{2}+14c-13)$$
+
+$$\begin{array}{c}
+c(c-1)(c-2) \\
+\text{[fig Graph with three vertices]}
+\end{array}$$
+
+$$\begin{array}{ccc}
+c(c-1)(c-2) & c(c-1)(c-2) & c(c-1)(c-2)(c-3) \\
+\text{[fig Graph with four vertices]} & \text{[fig Graph with four vertices]} & \text{[fig Graph with four vertices]}
+\end{array}$$
+
+$$\begin{array}{ccc}
+c(c-1)(c-2)^{2} & c(c-1)(c-2)^{2} & c(c-1)(c-2)(c-3)^{2} \\
+\text{[fig Graph with five vertices]} & \text{[fig Graph with five vertices]} & \text{[fig Graph with five vertices]}
+\end{array}$$
+
+$$\begin{array}{ccc}
+c(c-1)(c-2)^{3} & c(c-1)(c-2)(2c-5) & \\
+\text{[fig Graph with six vertices]} & \text{[fig Graph with six vertices]} & \\
+& c(c-1)(c-2) & c(c-1)(c-2)(c-3) \\
+& \text{[fig Graph with six vertices]} & \text{[fig Graph with six vertices]} \\
+& c(c-1)(c-2)^{2}(c-3) & c(c-1)(c-2)(c-3)^{3} \\
+& c(c-1)(c-2)^{2} & c(c-1)(c-2)^{2}(c-3)
+\end{array}$$
+
+$$\begin{array}{c}
+(c-a)^{3} = c^{3}-3ac^{2}+3a^{2}c-a^{3} \\
+(c-3)^{3} = c^{3}-9c^{2}+27c-27
+\end{array}$$
+
+$$\begin{array}{r}
+c^{2}-4c+4 \\
+\underline{2c^{2}-15c+12} \\
+c-2 \\
+\underline{c^{2}-9c^{2}+27c-27} \\
+c^{3}-6c^{2}+14c-13
+\end{array}$$

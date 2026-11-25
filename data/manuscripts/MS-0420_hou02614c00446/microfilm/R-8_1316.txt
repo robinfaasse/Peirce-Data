@@ -1,0 +1,29 @@
+[pn]393[/pn]
+
+propositions is by proving that they cannot give rise
+to any [del]a[/del] contradiction; and this being proved, they
+are proved true.
+
+For example, it is required to prove that
+$$\Pi_a \Sigma_k \Pi_b \ q_{ka} \cdot (\overline{q}_{kb} + 1_{ab})$$
+
+That is, that every object, $A$, has [ins]whether individual or general,[/ins] a quality, $K$, which
+is a quality of no object, $B$, unless $B$ is identical
+with $A$. Now this can only lead to an absurd result
+if $k$ be eliminated. But without "logical involution," or
+the compounding of the premise with itself, $k$ can
+only be eliminated in two ways, $1^{\text{st}}$, by eliminating
+$q_{ka}$ and $q_{kb}$ independently, and $2^{\text{nd}}$, by identifying
+$b$ with $a$. In the first way, we can only get
+$$\Pi_a \Pi_b \ (\overline{1}_{ab} + 1_{ab})$$
+which is true; and in the second way we can only
+get
+$$\Pi_a \ 1_{aa}$$
+which is equally true. We next proceed, then to square
+the proposition in question, and so get
+$$\Pi_a \Sigma_k \Pi_b \Pi_c \ q_{ka} \cdot (\overline{q}_{kb} + 1_{ab}) \cdot (\overline{q}_{kc} + 1_{ac})$$
+
+Unless we identified $k$ in the factors, there could be no
+aid in eliminating $k$. But this identification forces
+us to identify $a$ which is to the left of it in the
+logisterium. But it is easy to show that from this

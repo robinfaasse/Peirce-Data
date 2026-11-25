@@ -1,0 +1,25 @@
+[ured]Basic Rules[/ured] [ins]14[/ins]
+15
+
+[ured]Case I.[/ured] By the definition of this case,
+(A$_1$)$\cdot$(B$_4$) A is not scriptible.
+
+By the definition of transformable given in §3.
+(B$_1$)$\cdot$(B$_5$)$\cdot$(B$_6$) Any graph is transformable into any given graph, [ins]unless[/ins]
+such transformation would [del]not[/del] transform anything scriptible
+into anything not scriptible.
+(C$_1$)$\cdot$(A$_2$) $\therefore$ A is transformable into B.
+
+By the definition of the scroll [fig]scroll[/fig] given above,
+(B$_2$)$\cdot$(B$_9$) P is scriptible if A is transformable into B.
+(C$_2$)$\cdot$(A$_3$) $\therefore$ P is scriptible.
+
+By Corollary 3,
+(A$_4$) If A (B [fig]scroll[/fig]) were scriptible A would be scriptible.
+(C$_4$)$\cdot$(A$_5$) $\therefore$ A (B [fig]scroll[/fig]) is not scriptible.
+(C$_5$)$\cdot$(A$_6$) $\therefore$ A B [fig]scroll[/fig] is transformable into [fig]scroll[/fig].
+
+By the definition of the scroll,
+(B$_6$) If A B [fig]scroll[/fig] is transformable into [fig]scroll[/fig], Q is scriptible.
+(C$_6$)$\cdot$(B$_3$) $\therefore$ Q is scriptible.
+(C$_3$)$\cdot$(A$_7$) $\therefore$ In Case I, P and Q agree in respect to scriptibility.

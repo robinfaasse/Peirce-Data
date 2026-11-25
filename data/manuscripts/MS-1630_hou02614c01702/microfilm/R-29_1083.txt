@@ -1,0 +1,21 @@
+[fig]Ellipsoid with intersecting planes[/fig]
+
+[fig]Geometric construction with angles and axes[/fig]
+
+[fig]Right triangle with angle phi[/fig]
+
+$$x = A_y \sin \varphi$$
+$$z = A_y \cos \varphi$$
+
+$$\frac{\sin^2 \varphi}{A_x^2} + \frac{\cos^2 \varphi}{A_z^2} = \frac{1}{A_y^2}$$
+
+$$\frac{1}{2} \left( \frac{1}{A_x^2} + \frac{1}{A_z^2} \right) + \frac{1}{2} \left( \frac{1}{A_x^2} - \frac{1}{A_z^2} \right) \cos 2\varphi = \frac{1}{A_y^2}$$
+
+$$\cos 2\varphi = \frac{\frac{1}{A_y^2} - \frac{1}{2} \left( \frac{1}{A_x^2} + \frac{1}{A_z^2} \right)}{\frac{1}{2} \left( \frac{1}{A_x^2} - \frac{1}{A_z^2} \right)}$$
+
+$\varphi =$ angle which optic axis
+make with the longer geometric
+axis.
+
+2 kinds of hyperbolas
+y  "  "  paraboloids

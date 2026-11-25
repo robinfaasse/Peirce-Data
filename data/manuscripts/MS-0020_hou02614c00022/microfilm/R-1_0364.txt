@@ -1,0 +1,21 @@
+LOGIC OF QUANTITY.
+
+By C. S. Peirce.
+
+[u]Art. 1. Definition 1.[/u] A [u]semi-correspondence[/u], $S_{imn}$, of one collection, [u]$m$[/u], to another, [u]$n$[/u], is the character of a relation, [u]$i$[/u], such that no object is in this relation to two different objects, but to every object of collection [u]$n$[/u] some object of collection [u]$m$[/u] is in relation [u]$i$[/u].
+(1) $\Pi_i \Pi_m \Pi_n \Pi_e \Pi_f \Pi_g \Pi_s \Sigma_r \bar{S}_{imn} \dagger (\bar{r}_{ief} \dagger \bar{r}_{ieg} \dagger 1_{fg})(\bar{q}_{ns} \dagger q_{mr} r_{irs})$
+(2) $\Pi_i \Sigma_m \Sigma_n \Sigma_e \Sigma_f \Sigma_g \Sigma_s \Pi_r r_{ief} \cdot r_{ieg} \cdot \bar{1}_{fg} \dagger q_{ns} \cdot (\bar{q}_{mr} \dagger \bar{r}_{irs}) \dagger S_{imn}$
+
+[u]Corollary 1.[/u] The relation, $\{0\}$ of impossibility is a semi-correspondence of any collection to nothing considered as a collection.
+
+[u]Corollary 2.[/u] The relation, $\{1\}$, of identity is a semicorrespondence of any collection to a collection included by it.
+
+[u]Theorem 1.[/u] If [del]one[/del] [ins]a[/ins] collection, [u]$l$[/u], is in a semicorrespondence to a second, [u]$m$[/u], which is in a semicorrespondence to a third, [u]$n$[/u], then the first is in a semi-correspondence to the third.
+
+[u]Demonstration.[/u] For suppose $S_{ilm} \cdot S_{jmn}$. For multiply (1), after substituting [u]$l$[/u] for [u]$m$[/u] and [u]$m$[/u] for [u]$n$[/u] into (1) in which $j$ is substituted for $i$, and the letters $e, f, g, s, r$ are accented. Identify $f$ and $g$ with $e'$ and $s$ with $r'$; and multiply by $S_{ilm} \cdot S_{jmn}$. We thus get
+$\Pi_e \Pi_{e'} \Pi_{f'} \Pi_{g'} \Pi_{s'} \Sigma_{r'} \Sigma_r (\bar{r}_{iee'} \cdot [del]\bar{r}_{iee'}[/del] \cdot (\bar{r}_{je'f'} \dagger \bar{r}_{je'g'} \dagger 1_{f'g'}) \cdot (\bar{q}_{mr'} \dagger q_{lr} \cdot r_{irr'})(q_{ns'} \dagger q_{mr'} \bar{r}_{jr's'})$
+This [del]reduces to[/del] [ins]gives[/ins]
+$\Pi_e \Pi_{f'} \Pi_{g'} \Pi_{s'} \Sigma_r [(\bar{r}_i \bar{r}_j)_{ef'} \dagger (\bar{r}_i \bar{r}_j)_{eg'} \dagger 1_{f'g'}] \cdot [\bar{q}_{mr'} \dagger \bar{q}_{ns'} \dagger q_{lr} \cdot (\bar{r}_i \bar{r}_j)_{rs'}]$
+Now (1) multiplied by $S_{jmn}$ gives $\Pi_{s'} \Sigma_{r'} \bar{q}_{ns'} \dagger q_{mr'}$. Multiplying this in, we get
+$\Pi_e \Pi_{f'} \Pi_{g'} \Pi_{s'} \Sigma_r [(\bar{r}_i \bar{r}_j)_{ef'} \dagger (\bar{r}_i \bar{r}_j)_{eg'} \dagger 1_{f'g'}] \cdot [\bar{q}_{ns'} \dagger q_{lr} \cdot (\bar{r}_i \bar{r}_j)_{rs'}]$
+Multiplying this by (2) and identifying [ins]m with l,[/ins] $f'$ with $f$, $g'$ with $g$, $s'$ with $s$, and $r_i$ with $(r_i r_j)$ we get

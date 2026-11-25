@@ -1,0 +1,10 @@
+Logic
+III
+60
+X
+
+[u]x[/u] is false and ([u]x[/u] \/ [u]y[/u]) is true. And if [u]x[/u] \/ [u]y[/u] is true, then either [u]x[/u] is [del]true[/del] [ins]false[/ins] or [u]y[/u] is true. Hence if {[u]x[/u] \/ [u]y[/u]) \/ [u]z[/u]} \/ [u]w[/u] is true, either [u]w[/u] is true and [u]z[/u] is false while either [u]y[/u] is true or [u]x[/u] is false. But if [u]w[/u] is true, or [u]x[/u] is [del]true[/del] [ins]false[/ins], by (64) [u]x[/u] \/ ([u]y[/u] \/ [u]z[/u]) \/ [u]w[/u] is true; while if [u]y[/u] is true and [u]z[/u] false, [u]y[/u] \/ [u]z[/u] is false, in which case also [u]x[/u] \/ ([u]y[/u] \/ [u]z[/u]) \/ [u]w[/u] is true, Hence, (83) is true. This formula, although so complicated, is important.
+(84) {[[u]x[/u] \/ [u]y[/u]] \/ [u]z[/u]} \/ [u]w[/u] \/ [u]x[/u] \/ ([u]y[/u] \/ [u]z[/u]) \/ [u]w[/u]
+This follows from (83) by (64).
+(85) If [u]x[/u] is true, and [u]y[/u] \/ [u]z[/u] is true, then ([u]x[/u] \/ [u]y[/u]) \/ [u]z[/u] is true. For (80) gives by transposition [u]x[/u] \/ ([u]y[/u] \/ [u]z[/u]) \/ ([u]x[/u] \/ [u]y[/u]) \/ [u]z[/u]; and hence, by (65) if [u]x[/u] is true, then if ([u]y[/u] \/ [u]z[/u]) is true ([u]x[/u] \/ [u]y[/u]) \/ [u]z[/u] is true.
+(86) If [u]x[/u] \/ [u]y[/u] \/ [u]z[/u] is true, then ([u]z[/u] \/ [u]w[/u]) \/ [u]x[/u] \/ [u]y[/u] \/ [u]w[/u] is true

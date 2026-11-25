@@ -1,0 +1,16 @@
+[u]Analysis of Tit-tat-too[/u].
+
+X is the first player, O the second. The squares are numbered as in the figure
+[fig]3x3 grid numbered 1 to 9[/fig]
+
+To show the plays, we draw a line, as for a fraction, and write above it the number of the square occupied by X, and below that occupied just after by O. This apparent fraction is followed successively by others showing the following plays. It is supposed that each player invariably prevents immediate tit-tat-too, when it can be done by occupying a vacant square in a row of three, of which the adversary holds the other two. Consequently, tit-tat-too can only be made when there are two intersecting lines, on which the intersection and two other squares (one on each) are vacant, while the player holds the two remaining squares. If this is not the case after 5 squares are filled, it cannot later become so. Hence, the analysis stops at that point. A dash means that [del]no[/del] tit-tat-too is made by neither player. !!! means "makes tit-tat-too". A colon shows that a play is forced to prevent immediate tit-tat-too. Squares related in precisely the same way (as far as the possibilities of the play are concerned) to those already occupied are considered as equivalent, and their numbers are connected in stating the [del]choice[/del] [ins]range[/ins] of choice, by =, and they are not separately treated.
+
+[fig]3x3 grid with center square shaded[/fig] X, at the outset, has choice between 2=4=6=8, 5, 1=3=7=9.
+$\frac{2}{8}$ [fig]3x3 grid with top-middle and bottom-middle squares shaded[/fig] O has choice between 8, 5, 1=3, 4=6, 7=9.
+$\frac{2}{8}\frac{5}{}$ [fig]3x3 grid with top-middle, bottom-middle, and center squares shaded[/fig] X has choice between 1=3, 5, 7=9, 4=6.
+$\frac{2}{8}\frac{5}{3}\frac{1}{}$ [fig]3x3 grid with top-middle, bottom-middle, center, top-left, and top-right squares shaded[/fig] X has choice between 4, 5, 6, 7, 9.
+$\frac{2}{8}\frac{5}{3}\frac{1}{4}\frac{4}{}$ O!!!
+$\frac{2}{8}\frac{5}{3}\frac{1}{5}\frac{5}{}$ O!!!
+$\frac{2}{8}\frac{5}{3}\frac{1}{7}\frac{9}{}$ O!!! If O neglects to occupy 7 at this stage, tit-tat-too cannot be made at all
+$\frac{2}{8}\frac{5}{3}\frac{1}{7}\frac{9}{}$ —
+$\frac{2}{8}\frac{5}{3}\frac{1}{9}\frac{7}{}$ —

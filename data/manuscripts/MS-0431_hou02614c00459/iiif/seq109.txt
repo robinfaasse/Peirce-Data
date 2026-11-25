@@ -1,0 +1,23 @@
+Logic
+[u]III[/u]
+51
+
+pairs, there will be 4x3, or 12, informations of this kind. [del]the[/del] [ins]down[/ins]
+One of the three quantities may have its value given, cutting off [del]or[/del]
+the possible sets to four; and then the other two may be determined
+to be equal or unequal, cutting down the [del]possibilities[/del] [ins]possible sets[/ins] to two.
+Since the quantity determined may have either of two values, and
+the other two may be either equal or unequal, and it may
+be any one of the three which is determined, there will be
+2x2x3, or 12, informations of this kind. We shall very natu-
+rally employ the dot to express these, For example,
+v_x ⋅ (y = z)        v_x ⋅ (y ≠ z)
+f_x ⋅ (y = z)        f_x ⋅ (y ≠ z)
+Next, two of the three quantities may be determined to be unequal
+to the third, and consequently [del]equal to the[/del] each other. Since the
+third may be either v or f, this leaves two sets of values possible.
+Since either of the [ins]three[/ins] quantities may be that third, there will be
+three such informations. These will be expressed by
+(x ≠ y) ⋅ (x ≠ z) or (x ≠ y) ⋅ (x ≠ z) ⋅ (y = z), etc.
+Finally all three quantities may be determined to be equal.
+(x = y) ⋅ (x = z) or (x = y) ⋅ (x = z) ⋅ (y = z)

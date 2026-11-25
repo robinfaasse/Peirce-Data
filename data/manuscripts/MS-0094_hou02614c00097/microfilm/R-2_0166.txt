@@ -1,0 +1,26 @@
+[pn]156[/pn]
+
+§81. Something will be said below about the calculation
+of square roots. Mean time, it may be mentioned that unless
+$-C > B^{2}$
+that is, [del]unless[/del] ([ins]being[/ins] $C$ is a negative quantity), the two roots are nearly
+$X_{1} = 2B - \frac{C}{2B}$
+$X_{2} = \frac{C}{2B} + \frac{C^{2}}{(2B)^{3}}$
+
+Otherwise, the roots are nearly
+$X_{1} = B + \sqrt{-C} + \frac{1}{2} \frac{B^{2}}{\sqrt{-C}}$,
+$X_{2} = B - \sqrt{-C} - \frac{1}{2} \frac{B^{2}}{\sqrt{-C}}$.
+
+We can also get an approximate value as follows. Put the
+equation into [ins]one of[/ins] the forms
+$x^{2} + 2Bx + \mathcal{M}^{2} = 0$
+$x^{2} + 2Bx - \mathcal{N}^{2} = 0$
+
+Divide by $x$ and by $\mathcal{M}$ or $\mathcal{N}$, and the equations [del]are[/del]
+$\frac{x}{\mathcal{M}} + \frac{\mathcal{M}}{x} = -2 \frac{B}{\mathcal{M}}$
+$\frac{x}{\mathcal{N}} - \frac{\mathcal{N}}{x} = -2 \frac{B}{\mathcal{N}}$
+
+We can now enter the following table with $\frac{B}{\mathcal{M}}$ or [del]$\frac{B}{\mathcal{N}}$[/del]
+and take out $\frac{x}{\mathcal{M}}$ or $\frac{x}{\mathcal{N}}$
+
+[fig]Table of values for B/M, x/M, M/x and B/N, x/N, N/x[/fig]

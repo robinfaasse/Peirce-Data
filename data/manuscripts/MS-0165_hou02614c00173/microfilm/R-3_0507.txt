@@ -1,0 +1,38 @@
+[pn]275[/pn]
+
+HQ. Now it is not true that 16 + 16 = 32 + 2. But applying Listing's
+theorem, we have
+
+$$\begin{array}{ccccc}
+1 + X = 1 & 1 + X_{0} = 16 & 1 + X_{1} = 32 & 1 + X_{2} = 16 & 1 + X_{3} = 1 \\
+K = [del]1[/del] & & K_{1} = 0 & K_{2} = 0 & K_{3} = 1 \\
+\Pi = 0 & & [del]\Pi_{1} = 0[/del] & \Pi_{2} = 0 & \Pi_{3} = 0 \\
+A = 0 & & & & A_{3} = 0
+\end{array}$$
+
+$$1 + X - K + \Pi - A = [del]0[/del] \quad 1 + X_{0} = 16 \quad 1 + X_{1} - K_{1} = 32 \quad 1 + X_{2} - K_{2} + \Pi_{2} = 16 \quad 1 + X_{3} - K_{3} + \Pi_{3} - A_{3} = 0$$
+
+Now 0 = 16 - 32 + 16 - 0.
+
+Again in Figure 159, which represents a solid [ins]ABCD,[/ins] with a hollow [ins]EFGH,[/ins] in it, there are 8 faces ABC, DAB, CDA, BCD, EFG, HEF, GHE, FGH; there are 8 summits, A, B, C, D, E, F, G, H; and there are 12 edges AB, [del]BC[/del] CD, AC, BD, AD, BC, EF, GH, EG, FH, EH, FG;
+
+[fig]Tetrahedron with inner tetrahedron[/fig] Figure 159.
+
+But it is not true that 8 + 8 = 12 + 2. Applying, however, Theorem 47,
+we have
+
+$$\begin{array}{ccccc}
+1 + X = 1 & 1 + X_{0} = 8 & 1 + X_{1} = 12 & 1 + X_{2} = 8 & 1 + X_{3} = 1 \\
+K = 0 & & K_{1} = 0 & K_{2} = 0 & K_{3} = 0 \\
+\Pi = 1 & & & \Pi_{2} = 0 & \Pi_{3} = 1 \\
+A = 0 & & & & A_{3} = 0
+\end{array}$$
+
+$$1 + X - K + \Pi = 2 \quad 1 + X_{0} = 8 \quad 1 + X_{1} - K_{1} = 12 \quad 1 + X_{2} - K_{2} + \Pi_{2} = 8 \quad 1 + X_{3} - K_{3} + \Pi_{3} - A_{3} = 2$$
+
+and it is true that 2 = 8 - 12 + 8 - 2.
+
+Johann Benedict Listing ([date]b. 1808 - d. 1882[/date]), professor of Physics in
+Göttingen, [del]who[/del] [ins]has[/ins] almost created topology, and gave it is name in [date]1847[/date], produced
+the above theorem in [date]1861[/date]. It is convenient, however, to modify it, so as to
+take account of nodes and of overlappings.

@@ -1,0 +1,58 @@
+Logic
+[u]III[/u]
+3g
+
+and [u]y[/u] in this order will be possible in the seven cases:
+
+1[ins]st[/ins][u]=[/u] , vv , ff ; $\Phi_j \Phi_k = \Phi_i \Phi_n \Phi_k = \Phi_i \Phi_i$
+2[ins]nd[/ins][u]=[/u] , vf , fv ; $\Phi_k \Phi_i =$
+3[ins]rd[/ins][u]=[/u] , vv , vf , fv ; $\Phi_i \Phi_l = \Phi_i \Phi_n \Phi_i = \Phi_j \Phi_j$
+4[ins]th[/ins][u]=[/u] , vv , vf , ff ; $\Phi_l = \Phi_n \Phi_i \Phi_n$
+5[ins]th[/ins][u]=[/u] , vv , fv , ff ; $\Phi_o = \Phi_i \Phi_n \Phi_i \Phi_n$
+6[ins]th[/ins][u]=[/u] , vf , fv , ff . $\Phi_n \Phi_o = \Phi_o = \Phi_i \Phi_n \Phi_i$
+
+[fig]diagram[/fig]
+$(\Phi \Phi') \Phi''$
+[fig]diagram[/fig]
+$\Phi_i \Phi_j = \Phi_k$
+$\Phi_k \Phi_n$
+
+[del]f[/del]
+fv vv vf
+[fig]diagram[/fig]
+[del]vf[/del]
+vv vf
+
+$\Phi_n \Phi_i =$ f v v
+$\Phi_i \Phi_n =$ v v f
+$\Phi_n \Phi_l =$ v f f
+$\Phi_l \Phi_n$
+$\Phi_i \Phi_i$
+$\Phi_i \Phi_k$
+
+$\Phi_k$
+$\Phi_j$
+$\Phi_i$
+
+$\Phi_l = \Phi_n \Phi_i \Phi_n$
+$\Phi_l \Phi_l = \Phi_n \Phi_i \Phi_i \Phi_n$
+
+[fig]diagram[/fig]
+$\Phi_i \Phi_n \Phi_k$
+$\Phi_k \Phi_n$
+$\Phi_i \Phi_n \Phi_i$
+$\Phi_n \Phi_i \Phi_n$
+$\Phi_i \Phi_n \Phi_i \Phi_n$
+$\Phi_n \Phi_i \Phi_n \Phi_i$
+$\Phi_i \Phi_n \Phi_i \Phi_n \Phi_i$
+$\Phi_n \Phi_i \Phi_n \Phi_i \Phi_n$
+
+[fig]diagram[/fig]
+$\Phi_n \Phi_i \Phi_n = \Phi_i \Phi_n \Phi_i$
+[fig]diagram[/fig]
+$\Phi_n \Phi_i \Phi_n \Phi_i = \Phi_i \Phi_n \Phi_i \Phi_n$
+[fig]diagram[/fig]
+$\Phi_i \Phi_n \Phi_i \Phi_n \Phi_i = \Phi_n \Phi_i \Phi_n \Phi_i \Phi_n$
+
+$(\Phi_i \Phi_n) \Phi_i$
+[u]=[/u]

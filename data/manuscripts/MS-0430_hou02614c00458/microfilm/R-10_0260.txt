@@ -1,0 +1,39 @@
+[pn]Logic[/pn]
+[pn]III.[/pn]
+41
+
+This must be the case, since we have, whatever the values of
+$x$ and $y$,
+(36) $1 - (x + y) = (1-x)(1-y)$.
+Hence, any general [del]formula[/del] [ins]equation[/ins], when both sides are negatived
+will simply, interchange arithmetical progression and mul-
+tiplication, and interchange $0$ and $1$. True, all the letters will
+be changed to their negatives; but that makes no difference, since
+the general equation is supposed to be true in all cases. Here fol-
+low a few such general equations arranged, as Schröder first
+arranged them in his [u]Operationskreis[/u], in 1877:
+
+(37) $x \cdot x = x$
+$\bar{x} + \bar{x} = \bar{x}$
+
+(38) $x + \bar{x} = 1$
+$\bar{x} \cdot \bar{\bar{x}} = 0$
+
+(39) $(x + y) + z = x + (y + z)$
+$(\bar{x} \cdot \bar{y}) \cdot \bar{z} = \bar{x} \cdot (\bar{y} \cdot \bar{z})$
+
+(40) $x + y = y + x$
+$\bar{x} \cdot \bar{y} = \bar{y} \cdot \bar{x}$
+
+(41) $(x + y) \cdot z = x \cdot z + y \cdot z$
+$(\bar{x} \cdot \bar{y}) + \bar{z} = (\bar{x} + \bar{z}) \cdot (\bar{y} + \bar{z})$
+
+(42) $(x + y) \cdot (x + \bar{y}) = x$
+$(\bar{x} \cdot \bar{y}) + (\bar{x} \cdot \bar{\bar{y}}) = \bar{x}$
+
+[del]42[/del]
+(43) $x + 0 = x$
+$\bar{x} \cdot 1 = \bar{x}$
+
+(44) $x + 1 = 1$
+$\bar{x} \cdot 0 = 0$.

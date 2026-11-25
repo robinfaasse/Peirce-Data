@@ -1,0 +1,9 @@
+$$\frac{\partial X}{\partial x} \frac{\partial Y}{\partial x} = -2xy [del]\left(x^2+y^2+z^2+etc\right)[/del] \left(\Sigma x^2\right)^{-4}$$
+$$\frac{\partial X}{\partial y} \frac{\partial Y}{\partial y} = -2xy \left([del]x^2-[/del]y^2+z^2+etc\right) \left(\Sigma x^2\right)^{-4}$$
+$$\frac{\partial X}{\partial z} \frac{\partial Y}{\partial z} = 4xyz^2$$
+
+$$\frac{[del]\left(\frac{\partial X}{\partial x}\right)^2 + \left(\frac{\partial Y}{\partial y}\right)^2 + \left(\frac{\partial Z}{\partial z}\right)^2[/del]}{\left(\frac{\partial X}{\partial x}\right)^2 + \left(\frac{\partial X}{\partial y}\right)^2 + \left(\frac{\partial X}{\partial z}\right)^2}$$
+
+$$\frac{\left(-x^2+y^2+z^2\right)^2}{\left(\Sigma x^2\right)^4} + \frac{4x^2y^2}{\left(\Sigma x^2\right)^4} + \frac{4x^2z^2}{\left(\Sigma x^2\right)^4}$$
+
+$$=$$

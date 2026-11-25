@@ -1,0 +1,29 @@
+2 feet [del]68[/del] [del]32[/del] 3
+[del]18[/del] [ins]100[/ins]
+3.1416
+    8
+25.1328
+36
+  4
+65.1
+130
+
+130 square
+1300 shingles [fig]sketch[/fig]
+
+x y
+  y z
+-x  z [fig]crossed lines[/fig]
+
+x : y - y : x
+y : z - z : y > x y z
+z : x - x : z [fig]crossed lines[/fig]
+
+x : y - y : x + z : t - t : z
+y : z - z : y + x : t - t : x
+z : x - x : z + y : t - t : y [fig]pentagon sketch[/fig]
+
+x : z - z : x [del]- y : t + t : y[/del]
+x : x + z : z + y : y + t : t
+U V = W
+U V W = 1

@@ -1,0 +1,36 @@
+[pn]P4[/pn]
+
+[u]rule[/u], and covers every case of the rule for m+1 ovals. It is thus shown
+that if the rule is true up to any number of ovals, it is true for a greater
+number. But by [u]XIV[/u] it is true for zero ovals. Hence it is true for any
+number without limit.
+
+Rule XXIV. (Rule of iteration and concision)
+[u]Rule XXIV[/u]. Any partial graph outside any [del]number[/del] [ins]succession[/ins] of ovals
+may be iterated within those ovals, provided that the corresponding
+hands [del]in[/del] [ins]of[/ins] the iteration are attached to the very same heavy lines as
+before the iteration; and if any partial graph is so iterated, the
+inner occurrence may be "concised", or struck out.
+
+1[sup]st[/sup], the rule holds for iterations, when iterand and iterate are both un-
+enclosed. That is [fig]graph a b[/fig] [del]⤙[/del] [ins]⤙[/ins] [fig]graph a a b[/fig] For assuming [fig]graph a b[/fig], by [u]XVII[/u] this is
+equivalent to [fig]graph with x, y, etc[/fig] whence, by [u]XIV[/u] [fig]graph with a, x, etc[/fig] can be written, and by [u]III[/u],
+[fig]graph with a, x, y, etc[/fig] can be written. But this, by [u]XVII[/u] is equivalent to [fig]graph a a b[/fig] which can
+therefore be written. Q.E.D.
+
+2[sup]nd[/sup], the rule holds for iterations, when the iterand is unenclosed, and the
+iterate is evenly enclosed. This follows by [u]XVII[/u] and [u]XXII[/u].
+
+3[sup]rd[/sup], the rule holds for iterations when iterand and iterate are evenly enclosed.
+This follows from the last and [u]XXII[/u].
+
+4[sup]th[/sup], the rule holds for iterations when the iterate is oddly enclosed, by [u]XXIII[/u].
+
+5[sup]th[/sup], the rule holds for concisions when the [del]iterand[/del] [ins]iterand[/ins] is in [del]one[/del] [ins]no[/ins] oval and the
+iterate is in [del]two[/del] [ins]one[/ins] That is, [fig]graph a a b[/fig] [del]⤙[/del] [ins]⤙[/ins] [fig]graph a b[/fig]. This follows from the first case,
+[u]XVII[/u] and [u]XX[/u]. i.e because [fig]graph a b[/fig] ⤙ [fig]graph a a b[/fig] it follows that [fig]graph a a b[/fig] ⤙ [fig]graph a b[/fig]
+
+6[sup]th[/sup], the rule holds for concisions when the iterand is in [del]one[/del] [ins]no[/ins] oval and the
+iterate is in any [del]even[/del] [ins]odd[/ins] number (greater than one). By [u]XVII[/u] and [u]XXII[/u].
+
+7[sup]th[/sup], the rule holds for concisions when the iterand is in [del]any[/del] [ins]odd[/ins]ly enclosed and

@@ -1,0 +1,7 @@
+$D\left(\sqrt{u^{2}-u+1} i^{\prime}+m^{\prime}+u n^{\prime}\right) C\left(\sqrt{u^{2}-w+1} i^{\prime}+m^{\prime}+w n^{\prime}\right) D\left(\sqrt{u^{2}-u+1} i^{\prime}+m+u n^{\prime}\right)$
+
+[fig]figure[/fig]
+
+$\begin{array}{lccccc}C D & i^{\prime} & j^{\prime} & k^{\prime} & l^{\prime} & m^{\prime} & n^{\prime} \\ & \sqrt{u} & & & -\sqrt{u} & -w \sqrt{u} & \\ & -1 & -w & & +\sqrt{u} & & \\ & -u w & & -u & & & +u \sqrt{u}\end{array}$
+
+$\begin{array}{l|c|c|c|c|c|c}C^{2} D & i^{\prime} & j^{\prime} & k^{\prime} & l^{\prime} & m^{\prime} & n^{\prime} \\ \hline \begin{array}{l|l|l}(u^{2}-u+1) \sqrt{w} \\ \hline-\sqrt{u} \\ \hline-u w \sqrt{u} & & \\ \hline & -w \sqrt{u} & \\ \hline & +w & -\sqrt{u} \\ \hline+1 & & +u \sqrt{u} \\ \hline+u w & & +u \\ \hline & -u \sqrt{u} & +u^{2} \\ \hline+u w & & \\ \hline+u \sqrt{u} & +u \sqrt{u} & \\ -\sqrt{u} & -u \sqrt{u} & \\ \hline+u w \sqrt{u} & & +w \sqrt{u} \\ -u^{2} \sqrt{u} & & -u \sqrt{u} \\ \hline-u \sqrt{u} i^{\prime} & -w \sqrt{u} j^{\prime} & -u \sqrt{u} k^{\prime} \\ +u \sqrt{u} & +w \sqrt{u} & (u^{2}+w) l^{\prime} \\ \hline & (-u^{2}+u+2 u w) m^{\prime} & +w u [del]2[/del] u-w n^{\prime} \\ & & \end{array} & -w (u^{2}-u+1) & \end{array}$

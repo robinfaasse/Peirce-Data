@@ -1,0 +1,22 @@
+Logic
+III
+73
+
+Substituting in (7) and (8) true propositions for Z and z, false ones for Y and y, we get
+(9) If [u]x[/u], then [u][u]x[/u][/u].
+(10) If [u][u]x[/u][/u], then [u]x[/u].
+
+Substituting in (1), P for x and [u]S[/u] for y, we have
+(11) If P is true, then [ins]necessarily[/ins] [del]from[/del] [u][u]P[/u][/u] [del]follows[/del] [ins]would follow[/ins] [u]S[/u].
+But substituting in (2), [del]x[/del] [u][u]P[/u][/u] for z and S for x, we have
+(12) Either S is true or necessarily [del]from[/del] [u][u]P[/u][/u] [del]follows[/del] [ins]would follow[/ins] [u]S[/u].
+From (11) and (12), it follows that
+(13) If from S would follow P, then necessarily from [u][u]P[/u][/u] would follow [u]S[/u].
+For if from S would follow P, then if S is true, P is true, whence by (11), necessarily from [u][u]P[/u][/u] would follow [u]S[/u]. But if S is not true, then by (12), necessarily from [u][u]P[/u][/u] would follow [u]S[/u]. Therefore, in either case, (13) holds.
+
+JAN 10 1902
+
+In (13) substituting [u]P[/u] for P, we have
+If from S would follow [u]P[/u], then necessarily from [u][u][u]P[/u][/u][/u] would follow [u]S[/u]
+Hence, by (9)
+(14) If from S would follow [u]P[/u], then necessarily from P would follow [u]S[/u].

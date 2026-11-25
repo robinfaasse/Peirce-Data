@@ -1,0 +1,20 @@
+[fig]Diagram of a three-segment hanging chain or linkage[/fig]
+
+Lengths $l_0$, $l_1$, $l_2$
+Horizontal dist of extremities = A
+Vertical 2 above 0 = B
+
+$\tan \chi = \frac{1}{2} (\tan \varphi + \tan \psi)$
+$l_0 [del]\sin \varphi[/del] [ins]\sin \varphi[/ins] + l_1 \sin \chi + l_2 \sin \psi = B$
+$l_0 \cos \varphi + l_1 \cos \chi + l_2 \cos \psi = A$
+
+[del]$\frac{1 + \tan^2}{\tan}$[/del] $\frac{1}{\sqrt{1+\cot^2}} = \sin$
+$\frac{1}{\sqrt{1+\tan^2}} = \cos$
+
+$l_0 \sin \varphi + l_1 \frac{\frac{1}{2}(\tan \varphi + \tan \psi)}{\sqrt{1 + \frac{1}{4}(\tan \varphi + \tan \psi)^2}} + l_2 \sin \psi = B$
+
+$l_0 \cos \varphi + l_1 \frac{1}{\sqrt{1 + \frac{1}{4}(\tan \varphi + \tan \psi)^2}} + l_2 \cos \psi = A$
+
+$\frac{1}{2} l_0 (\sin \varphi + \cos \varphi \tan \psi) + l_1 \frac{\frac{1}{2}(\tan \varphi + \tan \psi)}{\dots} + \frac{1}{2} l_2 (\tan \varphi \sin \psi + [del]\cos[/del] [ins]\sin[/ins] \psi) = \frac{1}{2} A [ins]\tan \varphi + \tan \psi[/ins]$
+
+$l_0 \cos \varphi (\tan \psi - \tan \varphi) + l_2 [del]\cos \psi[/del] (\tan \psi - \tan \varphi) = A (\tan \varphi + \tan \psi) - B$

@@ -1,0 +1,45 @@
+[del]3h - 7k - 3 = 0[/del]
+[del]-7h + 3k + 7 = 0[/del]
+
+[del]9h - 21k - 9 = 0[/del]
+[del]-49h + 21k + 49 = 0[/del]
+
+[del]-40h + 40 = 0[/del]
+[del]h = 1[/del]
+[del]3h - 3 = 0[/del]
+
+y = ap + bp²
+p = (a + 2bp) [fraction]dp/dx[/fraction]
+dx = ([fraction]a/p[/fraction] + 2b) dp
+x + C = a log p + 2bp
+[del][fraction]x + 2b + C/a[/fraction] = p[/del]
+[del]a e^[fraction]x/a[/fraction] = y + E[/del]
+[del]x dy/dx = e^[fraction]-2b+C/a[/fraction] e^[fraction]x/a[/fraction][/del]
+
+---
+
+∫ (3y - 7x + 7) dx
+∫ 3y dx - [fraction]7/2[/fraction]x² + 7x + C
+∫ (3x - 7y - 3) dy
+∫ 3x dy - [fraction]7/2[/fraction]y² - 3y
+
+d [fraction]x/y[/fraction] = [fraction]y dx - x dy/y²[/fraction]
+(3y - 7x) dx + 7 dx = (3x - 7y) dy - 3 dy
+(3ξ - 7η) dη = (3η - 7ξ) dξ
+[fraction]dη/dξ[/fraction] = [fraction]3[fraction]η/ξ[/fraction] - 7/3 - 7[fraction]η/ξ[/fraction][/fraction]
+
+[fraction]η/ξ[/fraction] = ω
+dη = ω dξ + ξ dω
+[fraction]dη/dξ[/fraction] = ω + ξ [fraction]dω/dξ[/fraction]
+
+ω + ξ [fraction]dω/dξ[/fraction] = [fraction]3ω - 7/3 - 7ω[/fraction]
+ξ [fraction]dω/dξ[/fraction] = [fraction]3ω - 7/3 - 7ω[/fraction] - ω
+= 7 [fraction]ω² - 1/3 - 7ω[/fraction]
+
+[fraction]3/ω²-1[/fraction] = [fraction]3/2[/fraction] [fraction]1/ω-1[/fraction] - [fraction]3/2[/fraction] [fraction]1/ω+1[/fraction]
+[fraction]7ω/ω²-1[/fraction] = [fraction]7/2[/fraction] [fraction]1/ω-1[/fraction] + [fraction]7/2[/fraction] [fraction]1/ω+1[/fraction]
+
+[fraction]dξ/ξ[/fraction] = [fraction]3 - 7ω/ω² - 1[/fraction] dω
+[fraction]dξ/ξ[/fraction] = -5 [fraction]1/ω-1[/fraction] + 2 [fraction]1/ω+1[/fraction]
+log Aξ⁷ = 5 log (ω - 1) + 2 log (ω + 1)
+Aξ⁷ = [fraction](ω - 1)⁵/(ω + 1)²[/fraction]

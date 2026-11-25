@@ -1,0 +1,25 @@
+[pn]202[/pn]
+
+Thus, we can infer
+[u]Z[/u] true,
+[u]∴ Y|Z[/u] true.
+
+[u]Rule 3.[/u] [u]Any first antecedental[/u], [del]Q,[/del] [u]may be omitted[/u] [u]from an expression, without loss of veritability, provided[/u] [u]its truth follows from such coördinate antecedentals[/u] [u]as there may be.[/u]
+
+As a special case, under this rule, [u]any true antecedent[/u] [u]may be omitted.[/u]
+
+As an example of Rule 3, the following inference holds:
+[u]P|Q|R[/u] true,
+[u]P|[del]Q[/del][ins]R[/ins][/u] true,
+∴ [u]P|R[/u] true.
+
+Rule 3 is the syllogistic principle.
+
+[u]Rule 4.[/u] An antecedent[del]al[/del] is without effect, [ins]from any antecedental[/ins] if, [del]part of it, the[/del] [del]every[/del] truth of its consequent follows.
+
+Thus the inference holds
+[u]X|Y|Z[/u] true,
+[u]X|Z[/u] true,
+∴ [u]Z[/u] true.
+
+This is the principle of dilemma.

@@ -1,0 +1,27 @@
+[pn]37[/pn]
+
+Then two formulae often useful [del]and[/del] [ins](though they trench on[/ins]
+[u]the second-intentional[/u]) are
+$a_{ijk\text{ etc}} \cdot \overline{a}_{xyz\text{ etc}} \prec \overline{1}_{ix} + \overline{1}_{jy} + \overline{1}_{kz} + \text{etc.}$
+and
+$1_{ix} \cdot 1_{jy} \cdot 1_{kz} \cdot \text{etc} \prec a_{ijk\text{ etc.}} + \overline{a}_{xyz\text{ etc.}}$
+
+The principles of contradiction and excluded middle may be considered
+as special cases under these [del]five[/del] formulae: Namely, these
+[del]last[/del] give
+$a_{i} \cdot \overline{a}_{i} \prec \overline{1}_{ii} \prec 0.$
+$\infty \prec 1_{ii} \prec a_{i} + \overline{a}_{i}.$
+
+§188. We shall also make use of the distribution-formulae
+$x \cdot (y + z) = x \cdot y + x \cdot z$
+$x + y \cdot z = (x + y) \cdot (x + z),$
+with the resulting development-formulae
+$F x = x \cdot F [del]1[/del] [ins]\infty[/ins] + \overline{x} \cdot F 0$
+$= (x + F 0) \cdot (\overline{x} + F [del]1[/del] [ins]\infty[/ins]).$
+
+§189.
+We continually use
+$a + b = a + \overline{a} \cdot b$
+$x \cdot y + \overline{x} \cdot \overline{y} = (x + \overline{y}) \cdot (\overline{x} + y)$
+$(a + b) \cdot c \prec a + b \cdot c$
+$(a + x) \cdot (b + y) \prec a + b + x \cdot y$

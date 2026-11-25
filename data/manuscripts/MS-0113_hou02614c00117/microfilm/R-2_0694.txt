@@ -1,0 +1,76 @@
+[u]Icosahedron[/u]
+
+Rotations about vertices, $5^{\text{th}}$ roots of unity.
+
+[marginalia]
+$15432$
+$\begin{pmatrix} A \\ D \end{pmatrix} \frac{1}{2}$
+[del]$13312$[/del]
+[ins]$34224$[/ins]
+[/marginalia]
+$\begin{vmatrix} 1 & -\frac{1}{e} & e \\ \frac{1}{e} & e & -1 \\ e & 1 & \frac{1}{e} \end{vmatrix}$
+[u]squares[/u]
+$\frac{1}{2} \begin{vmatrix} -e & -1 & \frac{1}{e} \\ 1 & -\frac{1}{e} & -e \\ \frac{1}{e} & e & 1 \end{vmatrix}$
+[u]cubes[/u]
+$\frac{1}{2} \begin{vmatrix} 1 & 1 & \frac{1}{e} \\ \frac{1}{e} & -\frac{1}{e} & e \\ \frac{1}{e} & -e & 1 \end{vmatrix}$
+[u]$4^{\text{th}}$ powers[/u]
+$\frac{1}{2} \begin{vmatrix} 1 & \frac{1}{e} & e \\ -\frac{1}{e} & e & 1 \\ e & -1 & \frac{1}{e} \end{vmatrix}$
+
+[marginalia]
+$1[del]4[/del][ins]5[/ins]23$
+$\begin{pmatrix} B \\ C \end{pmatrix} \frac{1}{2}$
+[del]$42243$[/del]
+upper "
+[/marginalia]
+$\begin{vmatrix} 1 & -\frac{1}{e} & -e \\ \frac{1}{e} & e & 1 \\ -e & -1 & \frac{1}{e} \end{vmatrix}$
+$\frac{1}{2} \begin{vmatrix} -e & -1 & -\frac{1}{e} \\ 1 & -\frac{1}{e} & e \\ -\frac{1}{e} & -e & 1 \end{vmatrix}$
+$\frac{1}{2} \begin{vmatrix} -e & 1 & -\frac{1}{e} \\ -1 & -\frac{1}{e} & -e \\ -\frac{1}{e} & e & 1 \end{vmatrix}$
+$\begin{vmatrix} 1 & \frac{1}{e} & -e \\ \frac{1}{e} & e & -1 \\ -e & 1 & \frac{1}{e} \end{vmatrix}$
+
+[marginalia]
+$14[del]23[/del][ins]23[/ins]5$
+$\begin{pmatrix} E \\ H \end{pmatrix} \frac{1}{2}$
+[del]$31213$[/del]
+lower
+$24342$
+[/marginalia]
+$\begin{vmatrix} \frac{1}{e} & e & 1 \\ e & 1 & -\frac{1}{e} \\ -1 & \frac{1}{e} & e \end{vmatrix}$
+$\frac{1}{2} \begin{vmatrix} 1 & \frac{1}{e} & e \\ \frac{1}{e} & -e & -1 \\ -e & 1 & -\frac{1}{e} \end{vmatrix}$
+$\frac{1}{2} \begin{vmatrix} 1 & \frac{1}{e} & -e \\ \frac{1}{e} & -e & 1 \\ e & -1 & -\frac{1}{e} \end{vmatrix}$
+$\begin{vmatrix} \frac{1}{e} & e & -1 \\ e & 1 & \frac{1}{e} \\ 1 & \frac{1}{e} & e \end{vmatrix}$
+
+[marginalia]
+$12[del]45[/del][ins]45[/ins]3$
+$\begin{pmatrix} F \\ G \end{pmatrix} \frac{1}{2}$
+[del]$15432$[/del]
+[ins]$44411$[/ins]
+upper
+[/marginalia]
+$\begin{vmatrix} \frac{1}{e} & -e & -1 \\ -e & 1 & -\frac{1}{e} \\ 1 & \frac{1}{e} & e \end{vmatrix}$
+$\frac{1}{2} \begin{vmatrix} 1 & -\frac{1}{e} & -e \\ -\frac{1}{e} & -e & -1 \\ e & 1 & -\frac{1}{e} \end{vmatrix}$
+$\frac{1}{2} \begin{vmatrix} 1 & -\frac{1}{e} & e \\ -\frac{1}{e} & -e & 1 \\ -e & -1 & -\frac{1}{e} \end{vmatrix}$
+$\begin{vmatrix} \frac{1}{e} & -e & 1 \\ -e & 1 & \frac{1}{e} \\ -1 & \frac{1}{e} & e \end{vmatrix}$
+
+[marginalia]
+[del]$13542$[/del]
+[ins]$24134$[/ins]
+$\begin{pmatrix} L \\ I \end{pmatrix} \frac{1}{2}$
+$12[del]5[/del][ins]5[/ins]34$
+lower
+[/marginalia]
+$\begin{vmatrix} e & -1 & \frac{1}{e} \\ 1 & \frac{1}{e} & e \\ -\frac{1}{e} & e & 1 \end{vmatrix}$
+$\frac{1}{2} \begin{vmatrix} -\frac{1}{e} & -e & 1 \\ e & 1 & \frac{1}{e} \\ -1 & \frac{1}{e} & -e \end{vmatrix}$
+$\frac{1}{2} \begin{vmatrix} -\frac{1}{e} & e & -1 \\ -e & 1 & -\frac{1}{e} \\ 1 & \frac{1}{e} & -e \end{vmatrix}$
+$\begin{vmatrix} e & -1 & -\frac{1}{e} \\ -1 & -\frac{1}{e} & e \\ -\frac{1}{e} & e & 1 \end{vmatrix}$
+
+[marginalia]
+[del]$15324$[/del]
+[ins]$43422$[/ins]
+$\begin{pmatrix} J \\ K \end{pmatrix} \frac{1}{2}$
+$134[del]2[/del][ins]2[/ins]5$
+lower "
+[/marginalia]
+$\begin{vmatrix} e & 1 & \frac{1}{e} \\ -1 & \frac{1}{e} & -e \\ -\frac{1}{e} & -e & 1 \end{vmatrix}$
+$\frac{1}{2} \begin{vmatrix} -\frac{1}{e} & e & 1 \\ -e & 1 & -\frac{1}{e} \\ -1 & \frac{1}{e} & -e \end{vmatrix}$
+$\frac{1}{2} \begin{vmatrix} -\frac{1}{e} & -e & -1 \\ e & 1 & \frac{1}{e} \\ 1 & -\frac{1}{e} & -e \end{vmatrix}$
+$\begin{vmatrix} e & 1 & -\frac{1}{e} \\ 1 & -\frac{1}{e} & -e \\ -\frac{1}{e} & -e & 1 \end{vmatrix}$

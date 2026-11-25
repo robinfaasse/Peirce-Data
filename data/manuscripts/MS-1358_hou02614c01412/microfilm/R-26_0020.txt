@@ -1,0 +1,31 @@
+[pn]9[/pn]
+
+[u]Morrison's Bridge 1898 Sept[/u]
+
+The only error found in the equations is
+without effect on the case in hand. I proceed
+to make a rough calculation.
+
+$$\begin{array}{c c c c c c}
+\frac{\mu_0}{r_0 \sqrt{\theta_0}} & \begin{array}{c} .852 \\ \underline{\ \ \ 3\ \ \ } \\ 2.556 \end{array} & .221 & \frac{\mu_1}{r_1 \sqrt{\theta_1}} & \begin{array}{c} .72 \\ \underline{\ \ 20\ \ } \\ 14.4 \end{array} & \begin{array}{c} .144 \\ \underline{\ \ 1200} \\ .15608 \end{array} \\
+\frac{\lambda_0}{r_0 \sqrt{\theta_0}} & \begin{array}{c} .14793 \\ \underline{\ \ \ \ \ \ 3\ \ \ \ } \\ .44379 \end{array} & .0383 & \frac{\lambda_1}{A} & \begin{array}{c} 1.28 \\ \underline{\ \ 20\ \ } \\ 25.6 \end{array} & \begin{array}{c} [del]4.56[/del] \\ .256 \\ \underline{\ \ 2148} \\ .27748 \end{array} \\
+\frac{\kappa_0}{r_0 \sqrt{\theta_0}} & \begin{array}{c} .355 \\ \underline{\ \ \ 3\ \ \ } \\ 1.065 \end{array} & .0921 & \kappa_1 & \begin{array}{c} 0.96 \\ \underline{\ \ 19.2} \end{array} & \begin{array}{c} .192 \\ \underline{\ \ 01611} \\ .20811 \end{array} \\
+\begin{array}{c} \kappa_0 \lambda_0 \\ \beta_0 \theta_0 \\ \frac{1}{r_0 \theta_0} \end{array} & \begin{array}{c} .0444 \\ 8.5207 \\ \underline{\ \ \ 3\ \ \ \ \ } \\ 11.5651 \end{array} & & \begin{array}{c} \alpha_2 \lambda_1 \\ \beta_1 \theta_1 \\ \frac{1}{r_1 \theta_1} \end{array} & \begin{array}{c} 0.256 \\ 72 \\ \underline{\ \ 20\ \ } \\ 92.256 \end{array} &
+\end{array}$$
+
+The equations are then
+$$\left( \frac{2.556}{11.5651} + \frac{14.4}{92.256} \right) \delta x_1 + \left( \frac{1.065}{11.5651} - \frac{19.2}{92.256} \right) \delta y_1 = [del]0[/del] [ins]1[/ins]$$
+$$\left( \frac{1.065}{11.5651} - \frac{19.2}{92.256} \right) \delta x_1 + \left( \frac{.44379}{11.5651} + \frac{25.6}{92.256} \right) \delta y_1 = 1$$
+
+$$\frac{1}{11.5651} = .086467 \quad \frac{1}{92.256} = .010839$$
+
+$$\begin{array}{c c c c}
+.086467 & .221 & 2081 & .27748 \\
+\underline{.005622} & \underline{.156} & \underline{\ \ 921} & \underline{.0383} \\
+.09209 & .377 & 1160 & .3158
+\end{array}$$
+
+$$.377 \delta x_1 - .1160 \delta y_1 = 0 \qquad .1160 = \frac{1}{8.62}$$
+$$-.116 \delta x_1 + .316 \delta y_1 = 1 \qquad \delta y_1 = 3.25 \delta x_1$$
+$$.316 \delta y_1 = 1.027 \delta x_1 \qquad \underline{.316 \delta y_1 = 1.027 \delta x_1}$$
+$$\frac{116}{.911} \delta x_1 = 1 \qquad \delta x_1 = 1.098 \qquad \begin{array}{c} \frac{0.1160}{.0335} = 1 \\ \delta x_1 = 75.2 \end{array}$$

@@ -1,0 +1,24 @@
+[pn]LOGIC[/pn]
+[pn]III[/pn]
+[pn]58[/pn]
+
+If [u]x[/u] is true [u](x < y) < y[/u]
+This follows from (73) by (65).
+
+(75) If [u]x[/u] and [u](x < y)[/u] are true, [u]y[/u] is true.
+This follows from (74) by (65). This is the modus ponens.
+
+(76) If [u]x[/u] and [u](x < y)[/u] and [u](y < z)[/u] are true, [u]z[/u] is true.
+For, by (75), if [u]x[/u] and [u](x < y)[/u] are true, [u]y[/u] is true; but if [u]y[/u] and [u](y < z)[/u] are true, then, by (75), [u]z[/u] is true.
+
+(77) If [u](x < y)[/u] and [u](y < z)[/u] are true, [u](x < z)[/u] is true.
+For by (76) if [u](x < y)[/u] and [u](y < z)[/u] are true, then if [u]x[/u] is true, [u]z[/u] is true; whence, [del]by[/del] [ins]by[/ins] (64), follows (77). This is the principle of Barbara.
+
+(78) If [u]x < y[/u] is true, then [u](y < z) < (x < z)[/u] is true.
+For by (77) if [u]x < y[/u] is true, then if [u](y < z)[/u] is true, [u](x < z)[/u] is true; whence, by (64) follows (78). This is the rule of contraposition.
+
+(79) [del][u](y < z) < ((x < y) < (x < z))[/u][/del] [ins][u][(x < y) < (y < z)] < [x < z][/u][/ins]
+This follows by contraposition from (72).
+
+(80) If [u](x < y) < z[/u] is true, then [u]y < z[/u] is true.
+This follows from (79) by (65). It may be expressed: An antecedent of an antecedent may be suppressed.

@@ -1,0 +1,33 @@
+[pn]80[/pn]
+
+The following are the most important formulae:
+$$\Pi_{u} \Pi_{v} \Pi_{w}$$
+
+$$\begin{array}{lcllcl}
+\text{If } u \prec v, & u \cdot w \prec v \cdot w & w \cdot u \prec w \cdot v. & \text{If } u \prec v, & u w \prec v w & w u \prec w v. \\
+\text{"  "  "} & u \dagger w \prec v \dagger w & w \dagger u \prec w \dagger v. & \text{"  "  "} & u \jmath w \prec v \jmath w & w \jmath u \prec w \jmath v. \\
+\text{"  "  "} & \bar{v} \prec \bar{u} & & \text{"  "  "} & \tilde{v} \prec \tilde{u}. & \\
+& (u \cdot v) \cdot w = u \cdot (v \cdot w) & & & (u v) w = u (v w) & \\
+& (u \dagger v) \dagger w = u \dagger (v \dagger w) & & & (u \jmath v) \jmath w = u \jmath (v \jmath w). & \\
+(u \dagger v) \cdot w \prec u \dagger v \cdot w & w \cdot (u \dagger v) \prec w \cdot u \dagger v & & (u \jmath v) w \prec u \jmath v w & w (u \jmath v) \prec w u \jmath v & \\
+& (u \cdot v) w \prec u w \cdot v w & w (u \cdot v) \prec w u \cdot w v & & \\
+\multicolumn{3}{c}{(u \jmath w) \dagger (v \jmath w) \dagger (u \dagger v) \jmath w} & \multicolumn{3}{l}{[del]w \jmath (u \dagger v)[/del] (w \jmath u) \dagger (w \jmath v) \prec w \jmath (u \dagger v).} \\
+(u \dagger v) w = u w \dagger v w & w (u \dagger v) = w u \dagger w v & & (u \cdot v) \jmath w = (u \jmath w) \cdot (v \jmath w) & w \jmath (u \cdot v) = \begin{pmatrix} w \jmath u \\ w \jmath v \end{pmatrix} &
+\end{array}$$
+
+$$\begin{array}{lcl}
+\bar{\bar{u}} = u & \tilde{\tilde{u}} = \tilde{u} & \tilde{\tilde{u}} = u \\
+\overline{u \cdot v} = \bar{u} \dagger \bar{v} & \overline{u \dagger v} = \bar{u} \cdot \bar{v} & \widetilde{u v} = \tilde{v} \tilde{u} \quad \widetilde{u \jmath v} = \tilde{v} \tilde{u} \\
+\tilde{\bar{u}} = \bar{\tilde{u}} & \tilde{u \dagger v} = \tilde{v} \dagger \tilde{u} & \widetilde{u v} = \tilde{u} \jmath \tilde{v} \quad \widetilde{u \jmath v} = \tilde{u} \tilde{v} \\
+\text{to } \begin{pmatrix} u \dagger 0 = 0 \dagger u = u \\ u \cdot \text{U} = \text{U} \cdot u = u \end{pmatrix} & & \begin{array}{l} u \jmath \text{T} = \text{T} \jmath u = u \\ \cdot u 1 = 1 u = u \end{array}
+\end{array}$$
+
+$$\begin{array}{lcl}
+\text{T} \cdot u \prec \text{T} \quad u \cdot \text{T} \prec \text{T} & & 0 u \prec 0 \quad u 0 \prec 0 \\
+1 \prec 1 \dagger u \quad 1 \prec u \dagger 1 & & \text{U} \prec u \jmath \text{U} \quad \text{U} \prec \text{U} \jmath u \\
+\multicolumn{2}{c}{u \cdot \bar{u} \prec 0} & u \tilde{u} \prec \text{T} \\
+\multicolumn{2}{c}{\text{U} \prec u \dagger \bar{u}} & 1 \prec u \jmath \tilde{u} \\
+\multicolumn{2}{c}{u \cdot 1 \prec u \cdot \bar{u} \cdot 1} & u \text{U} \prec u \tilde{u} \text{U} \quad \text{etc.}
+\end{array}$$
+
+The non-relative operations are alone commutative, and for them alone [del]additi[/del] $u \dagger v \cdot w = (u \dagger v) \cdot (u \dagger w)$.

@@ -1,0 +1,65 @@
+[u]Calculation Atmospheric[/u]
+[u]Effects[/u]
+
+No 1
+
+$$\begin{array}{cc}
+r''' & 4837 \\
+r & 1240 \\
+\hline
+r'' = r''' - r & 3597
+\end{array}$$
+
+$$\begin{array}{cc}
+h_{d} + h_{n} & 1.00078 \\
+h_{d} - h_{n} & 49.8 \\
+& 2.981
+\end{array}$$
+
+$$\begin{array}{cc}
+100.08 \\
+49.80 \\
+\hline
+149.88 & 50.28 \\
+74.94 & 25.14
+\end{array}$$
+
+$$\begin{array}{cc}
+\text{No 1 } d & 784 \\
+\text{No 2 } d & 808 \\
+\text{No 1 } up & 262.6 \\
+& \underline{\phantom{262.}3} \\
+& 787.8
+\end{array}$$
+
+$$\begin{array}{rcc}
+\text{by Equation No 2} & 0.69657 & 9.80753 \\
+808 & 90741 & 90741 \\
+& 60398 & 71494 \\
+784 & 89432 & 89432 \\
+\text{No 1 } H\text{er} & 70966 & 82062 \\
+\begin{array}{r}
+787.8 \\
+262.6
+\end{array} & 89642 & 89642 \\
+& 70756 & 81852 \\
+1.00078 & 34 & 34 \\
+\text{No 1 } H\text{e u.} & \overline{70722} & \overline{81818}
+\end{array}$$
+
+$$\begin{array}{c}
+\text{Expon} \\
+18.30 \\
+1 \\
+\hline
+\overline{) 18.31} \\
+18.31 \\
+9155 \\
+183 \\
+\hline
+27648 \\
+9 \\
+\hline
+2764 \\
+1382
+\end{array} \quad 15095.$$

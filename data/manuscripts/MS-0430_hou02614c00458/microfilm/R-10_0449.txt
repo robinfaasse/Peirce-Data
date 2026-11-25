@@ -1,0 +1,15 @@
+[pn]Logic
+III
+76[/pn]
+
+[pn](72)[/pn] reached by successive additions of unity, (71) is true.
+
+If [u]V[/u] is [u]S[/u]₀ and is [del]P, if[/del] [ins]P, if[/ins] [u]P[/u] and is [u]S[/u]₁⤙[u]S[/u]₂⤙[u]S[/u]₃⤙...⤙[u]S[/u]ₙ, and so on up to [u]S[/u]₁⤙[u]S[/u]₂⤙[u]S[/u]₃⤙...⤙[u]S[/u]ₙ, then [u]V[/u] is [u]S[/u]ₙ.
+
+For, by (66) if [u]V[/u] is [u]S[/u]₁ and is [u]S[/u]₁⤙[u]S[/u]₂, it is [u]S[/u]₂. But, by (71), if [u]V[/u] is [u]S[/u]₁ and [u]S[/u]₂ and is [u]S[/u]₁⤙[u]S[/u]₂⤙[u]S[/u]₃ it is [u]S[/u]₃; and if it is [u]S[/u]₁ and [u]S[/u]₂ and [u]S[/u]₃ and is [u]S[/u]₁⤙[u]S[/u]₂⤙[u]S[/u]₃⤙[u]S[/u]₄, it is [u]S[/u]₄; and so on. And generally, if [del]it be[/del] [ins]it be[/ins] true that were [u]V[/u] at once [u]S[/u]₁ and [u]S[/u]₂ and so forth up to [u]S[/u]ₘ not inclusive and if [del]it is also[/del] [ins]it would then also be [u]S[/u]ₘ[/ins] [del]S₁⤙S₂⤙S₃⤙...⤙Sₘ[/del] [ins]then[/ins] if [u]V[/u] were at once [u]S[/u]₁ and [u]S[/u]₂ and so on up to [u]S[/u]ₘ inclusive, and if it were further [del]S₁⤙S₂⤙S₃⤙...⤙Sₘ⤙Sₘ₊₁[/del] [ins][u]S[/u]₁⤙[u]S[/u]₂⤙[u]S[/u]₃⤙...⤙[u]S[/u]ₘ⤙[u]S[/u]ₘ₊₁[/ins], it would necessarily be also [u]S[/u]ₘ₊₁. Whence, since any [ins]whole[/ins] number can be reached by successive additions of one, (72) is true.
+
+Propositions deduced from A and B.
+
+[pn](73)[/pn] Defining M∞ as in (67), whatever character [u]P[/u] may signify, [u]V[/u] is [u]P[/u]⤙M∞.
+
+For, by (67), [del]P[/del] [u]V[/u] is M∞ and, by (65), if M∞ then [u]P[/u]⤙M∞. Whence appears the truth of (73).

@@ -1,0 +1,23 @@
+[u]A Problem relating to the Construction
+of a reversible pendulum[/u]
+
+[u]Datum[/u]. A pendulum consists of two
+rigid parts, one above the knife-edge, the
+other below. These two parts are joined at
+the knife-edge and there is a finite resistance
+to bending at the joint.
+
+[u]Quaesitum[/u]. How stiff must this joint be
+in order that the period of oscillation shall
+not be affected by the bending by more
+than one two-millionth part?
+
+[u]Solution[/u]. Adopt this notation
+$\left. \begin{matrix} \varphi_1 \\ \varphi_2 \end{matrix} \right\}$ angle of displacement of the $\left\{ \begin{matrix} \text{lower} \\ \text{upper} \end{matrix} \right\}$ part from the vertical
+$\left. \begin{matrix} I_1 \\ I_2 \end{matrix} \right\}$ moments of inertia
+$\gamma_1$ $\gamma_2$ Moments of gravity
+[del]$\gamma_1$ $\gamma_2$[/del] $\varepsilon$ Elasticity of the joint
+
+Then the equations are
+$I_1 D_t^2 \varphi_1 = -\gamma_1 \varphi_1 - \varepsilon (\varphi_1 - \varphi_2)$
+$I_2 D_t^2 \varphi_2 = +\gamma_2 \varphi_2 + \varepsilon (\varphi_1 - \varphi_2)$

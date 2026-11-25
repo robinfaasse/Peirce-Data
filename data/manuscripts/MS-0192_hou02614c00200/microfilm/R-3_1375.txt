@@ -1,0 +1,32 @@
+is $\frac{n(n-1)(n-2)(n-3)(n-4)(n-5)}{6!} \alpha_1^{n-6} \alpha_3^6$. No further combination can
+be made. Hence, the whole term of $y^n$ is
+$(n \alpha_1^{n-1} \alpha_{11} + n(n-1) \alpha_1^{n-2} \alpha_3 \alpha_9 + n(n-1) \alpha_1^{n-2} \alpha_5 \alpha_7 + \frac{n(n-1)(n-2)}{2} \alpha_1^{n-3} \alpha_3^2 \alpha_9 +$
+$+ n(n-1)(n-2) \alpha_1^{n-3} \alpha_3 \alpha_5 \alpha_7 + \frac{n(n-1)(n-2)(n-3)}{3!} \alpha_1^{n-4} \alpha_3^3 \alpha_7 + \frac{n(n-1)(n-2)(n-3)}{4} \alpha_1^{n-4} \alpha_3^2 \alpha_5^2$
+$+ \frac{n(n-1)(n-2)(n-3)(n-4)}{4!} \alpha_1^{n-5} \alpha_3^4 \alpha_5 + \frac{n(n-1)(n-2)(n-3)(n-4)(n-5)}{6!} \alpha_1^{n-6} \alpha_3^6) B^{n+10}$
+
+Having thus obtained [del]values of[/del] [ins]expressions for[/ins] the powers of $y$ in terms of $B$ and the
+unknown $\alpha$s, we substitute these in the equation to be solved,
+[del]We do[/del] keeping [del]terms[/del] in the same power of $B$ together. We thus get
+
+$B = \alpha_1 B$
+$+ \alpha_3 B^3 - \frac{1}{3!} \alpha_1^3 B^3$
+$+ \alpha_5 B^5 - \frac{1}{2} \alpha_1^2 \alpha_3 B^5 + \frac{1}{5!} \alpha_1^5 B^5$
+$+ \alpha_7 B^7 - (\frac{1}{2} \alpha_1^2 \alpha_5 + \frac{1}{2} \alpha_1 \alpha_3^2) B^7 + \frac{1}{4!} \alpha_1^4 \alpha_3 B^7 - \frac{1}{7!} \alpha_1^7 B^7$
+$+ \alpha_9 B^9 - (\frac{1}{2} \alpha_1^2 \alpha_7 + \alpha_1 \alpha_3 \alpha_5 + \frac{1}{6} \alpha_3^3) B^9 + (\frac{1}{4!} \alpha_1^4 \alpha_5 + \frac{1}{12} \alpha_1^3 \alpha_3^2) B^9 - [del]\frac{1}{9!} \alpha_1^9 B^9[/del] [ins]\frac{1}{9!} \alpha_1^9 B^9[/ins]$
+$+ \text{etc.}$
+
+This, it must be remembered, is a general expression which holds
+good for all values of $B$, so long as it is not so large as to render
+the series divergent. Hence, it holds for an excessively small value
+of $B$. But for an excessively small value of $B$, all powers of $B$ as high
+as $B^3$ are insignificant, and may be neglected. Hence $B = \alpha_1 B$. Sub-
+tracting this equation from the above, $B^3$ is now the lowest value, and
+[del]by[/del] the same reasoning $\alpha_3 B^3 - \frac{1}{3!} \alpha_1^3 B^3 = 0$. In short, [del]an[/del] [ins]an[/ins] equation which
+holds good generally is equivalent to as many equations as there are
+[del]powers of the variable.[/del] Indeed, a general equation is equivalent to as
+many equations [del]among the coefficients as we[/del] [ins]as we[/ins] may choose to take of
+values of the variable. For it holds good of every such value.
+
+Hence, $B = \alpha_1 B$ or $\alpha_1 = 1$
+$\alpha_3 - \frac{1}{3!} \alpha_1^3 = 0$ or $\alpha_3 = \frac{1}{3!} = \frac{1}{6}$
+$\alpha_5 - \frac{1}{2} \alpha_1^2 \alpha_3 + \frac{1}{5!} \alpha_1^5 = 0$ or $\alpha_5 = \frac{1}{2} \cdot \frac{1}{6} - \frac{1}{5!} = \frac{9}{5!} = \frac{3}{2.4.5}$

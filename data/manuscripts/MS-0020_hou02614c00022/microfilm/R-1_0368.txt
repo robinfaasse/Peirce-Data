@@ -1,0 +1,19 @@
+[u]Logic of Quantity[/u]
+
+[u]Art. 2. Definition 2.[/u] A relation, [u]j[/u], is a one-to-one correspondence between two collections, [u]C[/u][sub]jmn[/sub], whose distinguishing characters are [u]m[/u] and [u]n[/u], [del]if[/del] [ins]7[/ins] [u]j[/u] being a one-to-one correspondence, [u]C[/u][sub]j[/sub], everything having the character [u]m[/u] is in the relation [u]j[/u] to something having the character [u]n[/u] while to everything having the character [u]n[/u] something having the character [u]m[/u] is in the relation [u]j[/u]. That is,
+
+(13) [math]\Pi_j \Pi_m \Pi_n \Pi_p \Sigma_q \Pi_s \Sigma_r \bar{C}_{jmn} \mathbin{\psi} C_j \cdot (\bar{q}_{mp} \mathbin{\psi} q_{nq} \cdot \bar{r}_{jrq}) \cdot (\bar{q}_{ns} \mathbin{\psi} q_{mr} \cdot \bar{r}_{jrs})[/math]
+(14) [math]\Pi_j \Pi_m \Pi_n \Sigma_p \Pi_q \Sigma_s \Pi_r q_{mp} \cdot (\bar{q}_{nq} \mathbin{\psi} \bar{r}_{jrq}) \mathbin{\psi} q_{ns} \cdot (\bar{q}_{mr} \mathbin{\psi} \bar{r}_{jrs}) \mathbin{\psi} \bar{C}_j \mathbin{\psi} C_{jmn}[/math]
+
+[u]Scholium 1.[/u] Suppose that we take [u]m[/u] and [u]n[/u] such that
+[math]q_{rC} \cdot q_{rD} \cdot q_{rE}[/math]
+and [math]\Pi_t \Pi_l \bar{q}_{mt} \mathbin{\psi} \bar{q}_{tl} \mathbin{\psi} q_{tA} \mathbin{\psi} q_{tB}[/math]
+
+Multiply the former of these propositions into the cube of the latter and the cube of (13) identifying [del][math]j[/math][/del] [ins][math]j'[/math][/ins] with [u]r[/u], [del][math]j'[/math][/del] [ins][math]j''[/math][/ins] with [u]r'[/u], [del][math]j''[/math][/del] [ins][math]j'''[/math][/ins] with [u]r''[/u], j' and j'' with j, [u]t[/u] with jC in such a sense [del]with that[/del] [ins]that[/ins] [math]q_{tx} = \bar{r}_{jxC}[/math] etc., t' similarly with jD, t'' similarly with jE, [del]and[/del] [ins]and[/ins] we get with C, s' with D, and s'' with E, we get [ins][math]\mathbin{\psi} q_{jAC} \cdot q_{jAE} \mathbin{\psi} q_{jAD} \cdot q_{jAE} \mathbin{\psi} q_{jBC} \cdot q_{jBE}[/math][/ins]
+[math]\Pi_j \bar{C}_{jmn} \mathbin{\psi} C_j \cdot (q_{jAC} \cdot q_{jAD} \mathbin{\psi} q_{jBC} \cdot q_{jBE} \mathbin{\psi} q_{jBD} \cdot q_{jBE})[/math].
+
+Now multiplying by the cube of (1) and by [math]\bar{I}_{CD} \cdot \bar{I}_{CE} \cdot \bar{I}_{DE}[/math] and identifying [del][math]j, j',[/math][/del] [ins][math]j, j',[/math][/ins] and [del][math]j''[/math][/del] [ins][math]j''[/math][/ins] with j, [u]e[/u] with A, e' and e'' with B, [u]f[/u] and f' with C, f'' and g with D, and g' and g'' with E, we get
+[math]\Pi_j \bar{C}_{jmn}[/math] ;
+that is, There is no one-to-one correspondence between [u]m[/u] and [u]n[/u].
+
+[del]If however, we multiply[/del] [ins]attempt to reason in the same way about[/ins] [del]two collections[/del] [del]concerning which we only assume[/del] [ins][math]\Sigma_q q_{mq} \cdot \bar{q}_{nq}[/math] and[/ins] [del][math]q_m \mathbin{\psi} q_n[/math][/del] [del]and[/del] [del][math]q_m \mathbin{\psi} q_n[/math][/del], [del]although we assume[/del] [ins][math]\Sigma_q q_{nq} \cdot \bar{q}_{mq}[/math][/ins], we find that we cannot [del]assume[/del] [ins]infer[/ins] any such impossibility. This suggests the following problem.

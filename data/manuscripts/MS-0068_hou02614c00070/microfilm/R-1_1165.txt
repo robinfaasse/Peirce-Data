@@ -1,0 +1,27 @@
+[pn]Series
+W[/pn]
+
+is established.
+
+At the same time, I found a little trick for writing down
+the relations, [del]not[/del] [ins]now[/ins] of fractional values, merely, but of fractions.
+The rule is double. That is, one may write down at one time,
+the fractions having the same denominator or the fractions
+having the same numerator. I will proceed to do the former.
+
+We begin then by writing
+
+$$\frac{0}{1} \quad < \quad \frac{1}{1} \quad < \quad \frac{2}{1} \quad < \quad \text{etc}$$
+
+We now insert the fractions of denominator 2; after that,
+those of denominator 3; and generally those of any deno-
+minator only after having inserted the fractions of all
+lower denominators. [del]In[/del] [ins]In[/ins] inserting the fractions of deno-
+minator N, we follow this rule:
+
+1. We insert the fractions beginning with $\frac{0}{N}$, and taking
+always next the fraction whose numerator is one
+greater than that of the fraction last inserted
+
+2. We begin at the extreme left and insert a fraction
+in every [u](N-1)[/u]th interval between a fraction and a

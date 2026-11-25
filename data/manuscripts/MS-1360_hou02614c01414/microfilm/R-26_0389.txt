@@ -1,0 +1,26 @@
+For example for $\Omega = 0$ we have
+$$y = -A (x^4 - 4 X x^3 + 6 X^2 x^2)$$
+$A = 1 \quad X = 1$
+
+$$\begin{array}{cc|cc}
+x & y & x & y \\
+.01 & .001 & [del].1[/del] & .056 \\
+.02 & .002 & .2 & .200 \\
+.03 & .005 & .3 & [del]440[/del] \\
+.04 & .010 & .4 & [del]730[/del] \\
+.05 & .014 & [del].5[/del] & 1.062 \\
+.06 & .021 & .6 & 1.426 \\
+.07 & .028 & .7 & 1.808 \\
+.08 & .036 & .8 & 2.202 \\
+.09 & .046 & .9 & 2.600 \\
+.10 & & 1.0 & 3.000
+\end{array}$$
+
+If $\Omega = 1 \qquad C_1''' = 0 \quad C_1^{IV} = 0$
+$$\begin{aligned}
+& 6 C_1' x + [del]3[/del] C_1'' = [del]-12 X^2[/del] [del]-24[/del] X x + 6 X^2 \\
+& [del]12[/del] C_1' x^2 + 4 C_1'' x = -48 X x^2 + 24 X^2 x + C_3''' \\
+& 4 x^2 + 2 C_1' x^3 + [del]3[/del] C_1'' [del]x^2[/del] = 0 \\
+& \qquad C_1' = -X^3 - 6 [del]X x[/del] + \frac{3}{2} [del]x^2[/del] \\
+& \qquad C_1'' = -2 X^2 + 12 X - 3 [del]x^2[/del]
+\end{aligned}$$

@@ -1,0 +1,31 @@
+[pn]Logic
+III
+57[/pn]
+
+The following rules hold, whatever propositions $x, y, z, t$ may be.
+
+(69) $x \prec x$
+
+For if $x$ is true, it holds by (66); if $x$ is false, by (67). This is the
+[u]Principle of Identity[/u].
+
+(70) If $x \prec y \prec z$ is true, then $y \prec x \prec z$ is true.
+
+For if $x \prec y \prec z$ is true, by (65), if $x$ is true, $y \prec z$ is true;
+and [del]by[/del] [ins]again[/ins] by (65), if $x$ is true, then if $y$ is true, $z$ is true.
+That is, if $x$ and $y$ are true, $z$ is true. But by (64), $x$ being
+true if $y$ is true, $y \prec x$ is true; and again, by (64), $x \prec z$ being
+true if $y$ is true, $y \prec x \prec z$ is true [ins]Thus (70) is proved.[/ins]. This may be called the Rule
+of Transposition. Namely, antecedents of one consequent can be
+transposed.
+
+(71) $(x \prec y \prec z) \prec y \prec x \prec z$.
+
+This follows from (70), by (64)
+
+(72) $y \prec x \prec y$
+
+This follows from (66) by (64). It also follows from (69) by (66) and (70).
+
+[del](73) If $x \prec y$ is true, then $x \prec x \prec y$ is true.
+This follows from (66).[/del]

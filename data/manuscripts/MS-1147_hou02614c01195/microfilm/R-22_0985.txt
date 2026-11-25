@@ -1,0 +1,39 @@
+[pn]10[/pn]
+
+[marginalia]
+Probable
+Inference
+[/marginalia]
+
+Then, according to Laplace, the probability of either is [frac]1/2[/frac].
+
+But I reflect that M may be true in either of two
+mutually exclusive ways, A and B.
+
+[del]PM[/del] [del]PN[/del] QM QN
+
+[del]PQ[/del] [ins]Pa[/ins]
+
+[frac]x + y - xy / 1 - x - y + xy[/frac] = [frac][frac]ξ / 1+ξ[/frac] + [frac]η / 1+η[/frac] - [frac]ξη / (1+ξ)(1+η)[/frac] / 1 - [frac]ξ / 1+ξ[/frac] - [frac]η / 1+η[/frac] + [frac]ξη / (1+ξ)(1+η)[/frac][/frac]
+
+= [frac]ξ(1+η) + η(1+ξ) - ξη / (1+ξ)(1+η) - {ξ(1+η) + η(1+ξ)} + ξη[/frac] = [frac]ξ + η + ξη / 1[/frac] = ξ + η + ξη
+
+[frac]xy / 1-xy[/frac] = [frac][frac]ξ / 1+ξ[/frac] [frac]η / 1+η[/frac] / 1 - [frac]ξ / 1+ξ[/frac] [frac]η / 1+η[/frac][/frac] = [frac][frac]ξη / (1+ξ)(1+η)[/frac] / [frac]1 + ξ + η / (1+ξ)(1+η)[/frac][/frac] = [frac]ξη / 1 + ξ + η[/frac]
+
+[frac]1-xy / xy[/frac] = [frac]1 + ξ + η / ξη[/frac] = [frac]1 / ξη[/frac] + [frac]1 / η[/frac] + [frac]1 / ξ[/frac]
+
+[frac]x / 1-x[/frac] = ξ
+
+[frac]y / 1-y[/frac] = η
+
+[frac]x / 1-x[/frac] + [frac]y / 1-y[/frac] = ξ + η
+
+[frac]x(1-y) + y(1-x) / xy + (1-y)(1-x)[/frac] = [frac][frac]ξ / 1+ξ[/frac] [frac]1 / 1+η[/frac] + [frac]η / 1+η[/frac] [frac]1 / 1+ξ[/frac] / [frac]ξη / (1+ξ)(1+η)[/frac] + [frac]1 / (1+ξ)(1+η)[/frac][/frac] = [frac]ξ + η / ξη + 1[/frac]
+
+ξ + η = [frac]x / 1-x[/frac] + [frac]y / 1-y[/frac]
+
+[frac]ξ+η / 1 + [frac]ξη / ξ+η+1[/frac][/frac] = [frac][frac]x / 1-x[/frac] + [frac]y / 1-y[/frac] / 1 + [frac]xy / 1-xy[/frac][/frac] = [frac]x(1-y) + y(1-x) / x(1-y) + y(1-x) + (1-xy)[/frac]
+
+[frac]ξη / 1+ξ+η[/frac] = [frac]xy / 1-xy[/frac]
+
+[frac]xy / 1-xy[/frac] + [frac]x / 1-x[/frac] + [frac]y / 1-y[/frac] = [frac]xy + x(1-xy) + y(1-xy) / (1-xy)[/frac]

@@ -1,0 +1,30 @@
+[u]3 formulas.[/u]
+
+I	$a \prec b \prec c \prec d$		$\bar{a} + \bar{b} + \bar{c} + d$
+
+$\alpha$. If $d$ then $a \prec b \prec c \prec d$
+$\beta$. [del]If[/del] Either $a$, $b$, and $c$ or $a \prec b \prec c \prec d$
+$\gamma$. If $a \prec b \prec c \prec d$ [del]and[/del] [ins]as well as[/ins] $a$, $b$, [del]and $c$[/del] [ins]and $c$[/ins], then $d$.
+
+Special
+$\left. \begin{aligned} \text{A} \quad & a \prec b \prec c \prec c \\ \text{B} \quad & a \prec b \prec c \prec b \\ \text{C} \quad & a \prec b \prec c \prec a \end{aligned} \right\}$ Necessary
+D	$a \prec b \prec b \prec d \quad = \quad a \prec b \prec d$
+E	$a \prec b \prec a \prec d \quad = \quad a \prec b \prec d$
+F	$a \prec a \prec b \prec d \quad = \quad a \prec b \prec d$
+etc.
+
+II	$a \prec (b \prec c) \prec d$		$\bar{a} + b\bar{c} + d$
+
+[u]II $\prec$ I[/u]
+[del]$\alpha$. If $a$ and $c$ then $d$[/del]
+$\alpha$. If $d$ then $a \prec (b \prec c) \prec d$
+$\beta$. If $a$ and $c$ then [del]$d$[/del] $a \prec (b \prec c) \prec d$
+$\gamma$. If $a$ then either [del]$b$[/del] or $a \prec (b \prec c) \prec d$
+$\delta$. If $a \prec (b \prec c) \prec d$ and $a$ and $c$ then $d$
+$\epsilon$ If $a \prec (b \prec c) \prec d$ and $a$ then either $b$ or $d$.
+
+The only special cases of importance are
+A	$a \prec (a \prec b) \prec d \quad = \quad a \prec c \prec d$
+B	$a \prec (b \prec a) \prec d \quad = \quad a \prec d$
+
+The general principle is that an antecedent of an antecedent has no effect if it is also an antecedent. And an antecedent has no effect if its consequent is an antecedent.

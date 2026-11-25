@@ -1,0 +1,33 @@
+[del](u+v)(u+x)(u+y)(w+y)(y+z)(w+z) = uz + vy + wx[/del]
+
+$(w+x)(w+y)(w+z)(x+y)(x+z)(y+z) = wxy + wxz + wyz + xyz$
+
+[del]=======
+(v+w)(v+x)(v+y)(v+z)[/del] [del](w+x)(w+y)(w+z)
+(x+y)(x+z)[/del] $(x+y)(x+z)(y+z) = vwxy + vwxz$
+$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ + vwyz + vxyz$
+$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ + wxyz$
+
+$(v+w+x)(w+x+y)(x+y+z)(y+z+v)(z+v+w) = vx + wy + xz + yv + zw$
+
+[del](u+v+w)(v+w+x)(w+x+y)
+(u+v+w)(w+x+y)(y+z+w) = uw + wy + yu + vx + xz + zv[/del]
+
+$(u+v+w)(v+w+x)(w+x+y)(x+y+z)(y+z+[del]w[/del][ins]u[/ins])(z+[del]w[/del][ins]u[/ins]+v)[del](v[/del] $= ux + vy + wz$
+$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ [ins]u(z+u+v) =[/ins]\ \ \ \ \ \ \ \ \ \ ux + vy + wz$
+
+[del](u+v)(v+w)(w+x)(x+y)(y+z)(z+u) =[/del]
+[del](u+v+w+x)(v+w+x+y)(w+x+y+z)(x+y+z+u)(y+z+u+v)(z+u+v+w)[/del]
+[fig]curving lines connecting terms of the equation[/fig] [del]= ux + vy + wz + uw + vx + wy + xz + yu + zv[/del]
+
+$(u+x)(v+y)(w+z)(u+w)(v+x)(w+y)(x+z)(y+u)(z+v)$
+$= uvwx + vwxy + wxyz + xyzu + yzuv + zuvw$
+
+[del](c+d)(c+g)(c+h)(d+e)(d+p)(e+f)(e+o)(f+g)(f+n)(g+h)(g+m)(h+i)[/del]
+
+[del](a+b)(a+e)(a+h)(b+c)(b+j)(e+d)(c+l)(d+e)(d+n)(e+f)[/del]
+$(a+b)(b+c)(c+d)(d+e)(e+a)(a+h)(b+j)(c+l)(d+n)(e+f)(f+g)(g+h)$
+$(h+i)[del](i+j)(j+c)[/del](k+l)(l+m)(m+n)(n+o)[del](o+f)[/del](g+q)(i+r)(k+s)(m+t)$
+$(o+p)(p+q)(q+r)(r+s)(s+t)(t+p)$
+$= acdfhikmoqrt + beefhikmnpqs + abdfgiklnprt$
+$+ acegijlnoqst + bdeghjlmoprs$

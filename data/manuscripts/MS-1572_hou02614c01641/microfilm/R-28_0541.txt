@@ -1,0 +1,24 @@
+BOOLEAN ALGEBRA Continued
+
+wife, for if she be fair she will be common, if foul then, loathsome", (Blundervilles, Art
+of Logic 1599). Let a mean that any object is a wife, b that she is fair, c that she is
+foul, d that she is eligible. Then, the first premise is a+b+c, or any object is either
+a wife, or is fair, or is foul. The other two premises are ab:d and ac:d, that is, if any
+object is a fair wife it is not eligible, and if any object is a foul wife it is not elig-
+ible. These two propositions may be otherwise written, a+b+d and a+c+d. Now, multiplying
+the three premises we have (a+b+c) (a+b+d) (a+c+d). By the application of the distributive
+principle of addition with respect to multiplication, this is the same as a+(b+c) (b+d) (c+d)
+and by the application of the distributive principle of multiplication with respect to add-
+ition, this is the same as a+b(b+d(c+d)+c(b+d)(c+d) Again, applying the same principle, and
+striking out bb and cc, we have a+bd(c+d)+cd(b+d) and by the striking out of factors this r
+reduces to a+d+d, or a+d, or if any object be a wife she is not eligible, or no wife is el-
+igible.
+
+Without the introduction of any further signs, the above kind of reasoning are all
+that this system can comprehend, but it is useful in two ways, first, the practice of the
+method gives us great facility in imagining facts in other logical relations, so that we re
+reason much more easily than we did before, even without the use of the method. Secondly,
+the algebra is itself very useful whenever we meet with a very complicated state of things;
+provided it is not so excessively complicated as to be unmanageable even with this aid. I
+shall now add a number of examples sufficient to thoroughly exercise the student and give
+him a mastery of this really very simple system.

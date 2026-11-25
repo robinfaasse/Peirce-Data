@@ -1,0 +1,26 @@
+[fig]Two long, thin triangles meeting at a vertex[/fig] [fig]Horizontal line with four points[/fig]
+
+[fig]Circle with inscribed triangles and axes[/fig] [fig]Ellipse with semi-axes A and B[/fig]
+
+$$\frac{A - E}{A + E}$$
+
+[fig]Ellipse with inscribed triangles and axes[/fig] [fig]Ellipse with inscribed circle and axes[/fig]
+
+$$\frac{x^2}{A^2} + \frac{y^2}{B^2} = 1$$
+
+[del]B[/del] $A = kB$
+
+[del]Area from axis[/del]
+[del]Area = [unclear]y[/unclear] [unclear]x[/unclear] = k arc tan $\frac{x}{y}$ - $\frac{B^2}{2}$[/del]
+[del]Total[/del]
+
+[fig]Ellipse with a shaded sector[/fig]
+
+$$\text{Area} = \frac{\text{Angle}}{2\pi} k \pi B^2$$
+
+$$E^2 = A^2 - B^2$$
+$$= B^2(k^2 - 1)$$
+
+$$\text{Area} = \frac{1}{2} k B^2 \arctan \frac{x}{y} - \frac{1}{2} xy + \frac{1}{4} k \pi B^2$$
+
+[fig]Geometric construction with lines and angles[/fig]

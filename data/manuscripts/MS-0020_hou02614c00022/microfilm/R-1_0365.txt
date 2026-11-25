@@ -1,0 +1,20 @@
+[pn]Logic of Quantity[/pn] [pn]1[/pn] [pn]Q.E.D.[/pn]
+
+$$S_{(ij) \beta n}.$$
+
+[u]Art. 2. Scholium 1.[/u] Suppose [u]m[/u] and [u]n[/u] such that
+$$q_{nC} \cdot q_{nD} \cdot q_{nE}$$
+$$\Pi_l \Pi_t \bar{q}_{ml} + \bar{q}_{tl} + q_{tA} + q_{tB}.$$
+Multiply the former of these propositions into the cube of the latter and the cube of (1), distinguishing the factors by accents, and identifying [u]l[/u] with [u]r[/u], [u]l'[/u] with [u]r'[/u], [u]l''[/u] with [u]r''[/u], [u]i'[/u] and [u]i''[/u] with [u]i[/u], $q_{tx}$ with $r_{ixC}$, etc., $q'_{t'x}$ with $r'_{ixD}$, etc., $q''_{t''x}$ with $r''_{ixE}$, etc., [u]s[/u] with C, [u]s'[/u] with D, [u]s''[/u] with E, [u]e[/u] with A, [u]e'[/u] and [u]e''[/u] with B, [u]f[/u] and [u]f'[/u] with C, [u]f''[/u] and [u]g[/u] with D, and [u]g'[/u] and [u]g''[/u] with E, and multiplying by $\bar{l}_{CD} \cdot \bar{l}_{CE} \cdot \bar{l}_{DE}$; we get after reduction
+$$\Pi_j \text{Simn} ;$$
+that is, there is no semi-correspondence of [u]m[/u] to [u]n[/u].
+
+So also, if we make substantially the same assumption in regard to [u]m[/u], namely,
+(3) $$q_{mA} \cdot q_{mB} \cdot \Pi_l \bar{q}_{ml} + l_{lA} + l_{lB},$$
+but in regard to [u]n[/u] merely assume that
+(3') $$\Pi_u \bar{q}_{nu} + q_{nu} \Sigma_v q_{nv} \cdot \bar{q}_{mv},$$
+the last proposition multiplied by $\Pi_l \bar{q}_{ml} \cdot \bar{l}_{lA} \cdot \bar{l}_{lB} + q_{ml} \cdot (l_{lA} + l_{lB})$ gives, on identifying [u]l[/u] with [u]v[/u],
+(4) $$\Sigma_v q_{nv} \cdot T_{vA} \cdot T_{vB}.$$
+The other proposition about [u]n[/u], being squared and multiplied by $q_{mA} \cdot q_{mB}$, gives, on identifying [u]u[/u] with A and [u]u'[/u] with B,
+(5) $$q_{nA} \cdot q_{nB}.$$
+Now multiplying the $6^{\text{th}}$ power of (1) by the cube of (3) and by (4) and (5), identifying all the [u]i[/u]s, [u]e[/u], [u]e'[/u], [u]e''[/u] with A, $e''', e^{iv}, e^v$ with B, [u]f[/u], [u]f'[/u], [u]f''[/u], [u]f'''[/u] with A, $f^{iv}$ and $f^v$ with B, [u]g[/u] and $g''$ with B, $g', g''', g^{iv}, g^v$ with [u]v[/u], [u]s[/u] with [u]v[/u], [u]s'[/u] with A, [u]s''[/u] with B, [u]l[/u] with [u]r[/u], [u]l'[/u] with [u]r'[/u],

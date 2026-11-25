@@ -1,0 +1,20 @@
+Logic
+III
+23
+the rule holds in this case.
+I will next prove that an unenclosed part of a graph
+can be iterated within any even number of enclosures. For
+if not there must be some smallest even number for which
+the rule may break down. Let it then be iterated within the
+greatest even number of enclosures for which the rule holds.
+That done, since we have just seen that an unenclosed part of
+a graph can be iterated within two enclosures, it follows
+from Rule III, that this part may be inserted a third time
+within [del]the number[/del][ins]two more[/ins] of enclosures. That done, the middle oc-
+currence of it can be erased by Rules I and III. Thus the rule
+will hold for the number of enclosures for which it was supposed
+to break down, if it breaks down at all. Hence, it cannot break
+down, as far as the iteration [ins]within even enclosures[/ins] of an [del]enclosed[/del][ins]unenclosed[/ins] part is concerned.
+It follows, then, by Rule III that any evenly enclosed part
+of a graph can be iterated within any [del]additional[/del] even
+number of additional enclosures.

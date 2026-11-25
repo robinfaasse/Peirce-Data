@@ -1,0 +1,42 @@
+$$e^2 + e = 1$$
+
+[del]of[/del] $SA = S(ex + z) = ex + z$
+$Sq = S(-x + ey) = -x - ey = H$
+$SH = S(-x - ey) = [del]H[/del] -y - ez = L$
+$SL = S(-y - ez) = ex - z = C$
+$Sc = S(ex - z) = y - ez = J$
+$S[del]c[/del] = S(y - ez) = -x + ey = q$
+
+$\begin{aligned} (1+e)^2 &= 1 + 2e + [del]e^2[/del] \\ &= \frac{1-e}{2(1+e)} \\ &= 2+e \end{aligned}$
+
+$S^2 = \begin{matrix} 1 & -1-e & e \\ -2-e & -1 & 1+e \\ +1-e & +e & 1 \end{matrix}$
+$= \frac{e}{2} x;x \quad -\frac{1}{2} x;y + \frac{1+e}{2} x;z$
+
+$\begin{matrix} 1+e & -2-e & 1 \\ 1-e & 1-e & -e \\ & -1 & 1-e \end{matrix}$
+$+ \frac{1}{2} y;x \quad - \frac{1+e}{2} y;y \quad - \frac{e}{2} y;z$
+
+$\begin{matrix} 1 & -1-e & e \\ 1+e & e & -1 \\ e & 1 & 1+e \end{matrix}$
+
+$\begin{matrix} +e & -1 & 1-e \\ 1+e & +e & -1 \\ +1 & +1+e & 2+e \end{matrix}$
+$\frac{1+e}{2} z;x \quad + \frac{e}{2} z;y \quad + \frac{1}{2} z;z$
+
+$\begin{matrix} -e & -1 & 1+e \\ 1 & -1-e & -e \\ 1+e & e & 1 \end{matrix}$
+
+$S^4 = \begin{matrix} 1+e & e & -1 \\ -1 & 1+e & e \\ 2+e & 1 & +1+e \end{matrix}$
+$= \frac{1}{2} x;x \quad (1+e) x;y \quad \frac{e}{2} x;z$
+
+$\begin{matrix} 1 & -1-e & e \\ -2-e & -1 & 1+e \\ 1-e & e & 1 \\ -e & -1 & 1+e \end{matrix}$
+
+$\begin{matrix} -e & -1 & 1+e \\ -1-e & 2+e & 1 \\ -1 & -1+e & -e \end{matrix}$
+$- \frac{1-e}{2} y;x \quad + \frac{e}{2} y;y \quad + \frac{1}{2} y;z$
+
+$\begin{matrix} 1+e & -2-e & 1 \\ 1 & 1-e & -e \\ -e & -1 & -1-e \end{matrix}$
+
+$\begin{matrix} 1 & -1-e & e \end{matrix}$
+
+$\begin{matrix} - & 2+e & e & -1 & 1-e \\ .e & -1+e & 1+e & e & -1 \\ +1+e & 1 & & 1+e & 2+e \end{matrix}$
+$\frac{e}{2} z;x - \frac{1}{2} z;y + \frac{1+e}{2} z;z$
+
+$\begin{matrix} - & - & 2+e \\ e & -1 & -1+e \\ 1+e & e & 1 \\ e & -1 & 1+e \end{matrix}$
+
+$\begin{matrix} 1+e & e & [del]1+e[/del] \end{matrix}$

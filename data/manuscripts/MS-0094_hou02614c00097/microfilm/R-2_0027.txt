@@ -1,0 +1,19 @@
+[u]Definition 12.[/u]
+
+§ 4. [u]Surds[/u]: There are certain endless series of numbers, such as
+[del]$\frac{a}{b}$[/del] [ins]$\frac{a}{b}$[/ins] [del]$\frac{2a+1}{2b}$[/del]
+$\frac{1}{4}$ $\frac{3}{8}$ $\frac{7}{16}$ $\frac{15}{32}$ $\frac{31}{64}$ $\frac{63}{128}$ $\frac{127}{256}$ $\frac{255}{512}$ etc. [del]for limits which ever.[/del]
+which have [ins]each[/ins] a rational limit, that is, [del]a fraction[/del] larger than [del]any[/del] [ins]member of a given[/ins] [del]of such[/del] [ins]of that kind,[/ins] a series, yet smaller than every other fraction [ins]which is[/ins] larger than every member of [del]such[/del] [ins]the[/ins] series. [del]This is true of $\frac{1}{2}$[/del] Thus, the limit of the above series is $\frac{1}{2}$. So the series
+
+$\frac{1}{10}$ $\frac{11}{100}$ $\frac{111}{1000}$ $\frac{1111}{10000}$ $\frac{11111}{100000}$ $\frac{111111}{1000000}$ $\frac{1111111}{10000000}$ $\frac{11111111}{100000000}$
+
+has for its limit, $\frac{1}{9}$.
+
+But there are other endless series of fractions each [ins]member[/ins] greater [del]than[/del] the preceding, of the same series, and [del]none[/del] [ins]no member[/ins] of the series so great as [del]for[/del] some fractions, which nevertheless have no [del]finite[/del] rational limit. That is, given any fraction greater than every fraction of the series, there are always [del]smaller fractions[/del] [ins]others[/ins] [del]that[/del] [ins]which[/ins] are greater than any fraction of the series. Take for instance the series of numbers beginning with 0, 1, and having every following member the sum of the two [del]immediately preceding[/del] [ins]preceding[/ins] thus:
+
+0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 etc.
+
+Now with [del]these[/del] members we may make the two [del]series of fractions[/del]
+
+$\frac{0}{1}$ $\frac{1}{2}$ $\frac{3}{5}$ $\frac{8}{13}$ $\frac{21}{34}$ $\frac{55}{89}$ $\frac{144}{233}$ etc.
+$\frac{1}{1}$ $\frac{2}{3}$ $\frac{5}{8}$ $\frac{13}{21}$ $\frac{34}{55}$ $\frac{89}{144}$ $\frac{233}{377}$ etc.

@@ -1,0 +1,21 @@
+[marginalia]
+Trade Secret
+2
+[/marginalia]
+
+[del]three trials of successive approximations giving[/del] will furnish [ins]three successive approximations of the second[/ins] series; and from these three, the same rule will show how to obtain a still better approximation of a third series. It will be still better to begin with seven [ins]or even nine[/ins] [del]successive[/del] approximations of the first series, when one can make series after series of approximations. [del]From[/del] [ins]ordinarily[/ins] [ins]corresponding actual approximations of[/ins] three successive series, a still better approximation can often be obtained; but the advantage of this procedure is dubious and at best very slight.
+
+As an example, let us calculate the natural logarithm of 2.1 from the first six terms of the divergent series
+[u]log (1+x) = x - 1/2 x² + 1/3 x³ - 1/4 x⁴ + 1/5 x⁵ - 1/6 x⁶[/u]
+This gives seven approximations as follows:
+
+| a | Δa | Δ²a |
+|---|---|---|
+| 0.0 | +1.1 | -1.705 |
+| 1.1 | -0.605 | +1.04866667 |
+| 0.495 | +0.44366667 | -0.80969167 |
+| 0.93866667 | -0.36602500 | [del]+[/del][ins]or[/ins] 0.68812700 |
+| 0.57264167 | +0.32210200 | -0.61736217 |
+| 0.89474367 | -0.29526017 | [del]+0.57364832[/del] |
+| 0.59948350 | [del]+0.27838816[/del] | -0.54633676 |
+| | [del]-0.26794800[/del] | |

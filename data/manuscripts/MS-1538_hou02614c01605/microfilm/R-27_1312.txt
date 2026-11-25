@@ -1,0 +1,35 @@
+[del]\frac{m_0 - n_0}{A} + \frac{n_0 \phi m_0 - m_0 \psi n_0}{B} = \phi m_0 - \psi n_0[/del]
+
+[del]\frac{(B - n_0) \phi m_0}{A}[/del]
+
+$(n_0 - B) \phi m_0 + \frac{B}{A} m_0 = (m_0 - B) \psi n_0 + \frac{B}{A} n_0$
+
+For $x = 0 \quad m_0 = n_0$
+$y = n_0 + t$
+
+$x = \frac{m_0 - n_0}{\phi (m_0 + t) - \psi (n_0 + t)}$
+
+$y = \frac{n_0 \phi (m_0 + t) - m_0 \psi (n_0 + t)}{\phi (m_0 + t) - \psi (n_0 + t)} + t$
+
+$m_0 - n_0 = \frac{A}{B} (n_0 - B) \phi m_0$
+
+$y = \frac{1}{2} (\Sigma - x) \phi - \frac{1}{2} (\Sigma + x) \psi$
+
+[fig]Grid pattern[/fig]
+
+[fig]Intersecting lines[/fig]
+
+[fig]Caricature of a man standing[/fig]
+
+$\frac{m_0 + n_0}{\phi - \psi} = \Sigma$
+
+$\frac{m_0 - n_0}{\phi - \psi} = x$
+
+$\frac{m_0}{\phi - \psi} = \frac{1}{2} \Sigma + \frac{1}{2} x$
+
+$\frac{n_0}{\phi - \psi} = \frac{1}{2} \Sigma - \frac{1}{2} x$
+
+$n_0 \phi m_0 - m_0 \psi n_0 = B (\phi m_0 - \psi n_0)$
+$+ \frac{B}{A} m_0 - n_0$
+
+$y_0 + \frac{B}{A} x_0 = B$

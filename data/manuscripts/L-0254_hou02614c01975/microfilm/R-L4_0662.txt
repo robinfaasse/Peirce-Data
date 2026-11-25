@@ -1,0 +1,93 @@
+[fig]Geometric diagram of a cube[/fig]
+
+[fig]Geometric diagram of a cube with diagonal axes[/fig]
+
+[fig]Geometric diagram of a cube with coordinate axes[/fig]
+
+$$\frac{i + j + k}{\sqrt{3}}$$
+$$\frac{1}{\sqrt{3}} (i + j + k)$$
+
+$$\begin{array}{c|c}
+i \pm \sqrt{2} k & i + \sqrt{2} k - l \\
+i - \sqrt{2} k \\
+\pm \sqrt{2} k & i - \sqrt{2} k \\
+\mp \sqrt{2} k + l & - \sqrt{2} k + l \\
+i + l & i - 2\sqrt{2} k + l
+\end{array}$$
+
+$$(1 - \frac{1}{\sqrt{3}}) i - \frac{1}{\sqrt{3}} j - \frac{1}{\sqrt{3}} k$$
+
+$$- \frac{1}{\sqrt{3}} (i - \sqrt{3}) \rightarrow \frac{1}{3}$$
+
+$$\frac{\frac{1}{\sqrt{3}} (1 - \frac{1}{\sqrt{3}})}{- \frac{1}{3}} = \frac{\frac{1}{\sqrt{3}} - \frac{1}{3}}{- \frac{1}{3}} = 1 - \sqrt{3}$$
+
+$$\begin{array}{c|c}
+i & k \\
+\hline - \frac{1}{3} & - \frac{1}{3} \\
++ & + \frac{1}{\sqrt{3}} \\
+\hline - \frac{1}{3} & - \frac{1}{3} \\
++ & + \frac{1}{\sqrt{3}}
+\end{array}$$
+
+$$\frac{\sqrt{3}}{3} - \frac{1}{\sqrt{3}}$$
+
+$$\frac{\sqrt{3}}{3}$$
+
+$$\frac{1}{\sqrt{3}}$$
+
+$$\frac{1}{\sqrt{3}} i - \frac{1}{\sqrt{3}} k$$
+
+$$i + l$$
+
+$$[del](i + j)[/del]$$
+
+$$i \text{ [ins]light of[/ins]}$$
+$$l \text{ [del]greenness of[/del]}$$
+$$j \text{ a [del]light[/del] [ins]greenness[/ins] of } +$$
+$$k \text{ a greenness [del]equal to the light of[/del] of } -$$
+
+$$\frac{1}{\sqrt{3}} (i + j) \equiv \frac{\sqrt{2}}{\sqrt{3}} (k + l)$$
+
+$$\frac{1}{\sqrt{3}} (i + j) + \frac{\sqrt{2}}{\sqrt{3}} (\frac{i}{2} + \frac{\sqrt{3}}{2} j) (k + l)$$
+
+$$\frac{1}{\sqrt{3}} (i + j) + \frac{\sqrt{2}}{3} (\frac{i}{2} \pm \frac{\sqrt{3}}{2} j) (k + l)$$
+
+$$\frac{\sqrt{2}}{3} (\frac{i}{2} + \frac{\sqrt{3}}{2} j) = \frac{i}{\sqrt{6}} + \frac{j}{\sqrt{2}} = \frac{1}{\sqrt{2}} (\frac{i}{\sqrt{3}} + j)$$
+
+$$\frac{1}{\sqrt{3}} (x + y) + \frac{1}{\sqrt{2}} (\frac{i}{\sqrt{3}} + j) (x + z)$$
+
+$$\frac{1}{\sqrt{2}} (\frac{i}{\sqrt{3}} + j) (y + w)$$
+
+$$\frac{1}{\sqrt{3}} + \frac{1}{2} \frac{1}{\sqrt{2}} (\frac{i}{\sqrt{3}} + j) = \frac{1}{\sqrt{3}}$$
+$$y = 0 \quad x = 1$$
+
+$$z \frac{1}{\sqrt{3}} + w \frac{1}{\sqrt{2}} (\frac{i}{\sqrt{3}} + j) = \frac{1}{\sqrt{2}} (\frac{i}{\sqrt{3}} - j) \frac{\sqrt{2}}{\sqrt{3}}$$
+$$w = -1 \quad z = \sqrt{2} \quad \frac{n = 0}{z = \sqrt{2}}$$
+
+$$\sqrt{3} \quad \sqrt{2} \quad 1$$
+
+$$\frac{1}{3} (i + j + k)$$
+
+$$\frac{2}{3} i - \frac{1}{3} j - \frac{1}{3} k$$
+
+$$\frac{1}{3} (j - k)$$
+
+$$\frac{2}{3} i - \frac{1}{3} j - \frac{1}{3} k$$
+
+$$i - \sqrt{2} k$$
+
+$$i + \sqrt{2} k - l$$
+
+$$i - \sqrt{2} k - l$$
+
+$$(i + j + k) (2i - j - k)$$
+
+$$\begin{array}{c|c|c}
+i & j & k \\
+\hline +2 & -1 & -1 \\
++1 & +1 & +1 \\
+\hline +1 & +1 & -2 \\
+\hline & & 3i - 3k
+\end{array}$$
+
+$$- \frac{3}{6} i + \frac{3}{6} j + \frac{3}{6} k$$

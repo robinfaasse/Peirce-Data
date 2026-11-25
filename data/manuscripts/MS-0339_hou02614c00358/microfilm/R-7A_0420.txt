@@ -1,0 +1,36 @@
+[pn]204[/pn]
+[marginalia][date]DEC 16 1901[/date][/marginalia]
+
+[u]From A, B, C[/u]
+
+From (25) Either [del]m[/del] [ins]m < n[/ins] or if m < s and s < t, then t
+(33) (m < s) < ((s < m < n) < m < n
+(34) (s < m < n) < (m < s) < m < n
+
+From (26) Either m < n if m < s < t and s, then t
+(35) (m < s < t < n) < s < m < n
+(36) s < (m < s < m < n) < m < n
+
+From (27) Either m or if (m < n) < s and s < t then t
+(37) [del]$[/del] [(m < n) < s] < (s < m) < m [ins](m < n < s / s < m)[/ins]
+(38) (s < m) < [(m < n) < s] < m
+
+[del]From (28)[/del]
+(39) {[(s < t) < t] < n} < s < (s < t) < t
+(40) (s < t) < {[(s < t) < t] < n} < s < t
+
+From (28') Either m or if (m < n) < s < t and s then t
+(41) [(t < n) < s < t] < s < t
+(42) s < [(t < n) < s < t] < t
+(43) {[(s < t) < n] < s < t} < s < t
+[(x < n) < x] < x
+
+[del](t < n) < y < x[/del]
+
+(33) would give the Barbara formula if (s < n) < (s < m < n)
+Unfortunately so far no way of doing this is apparent
+
+(34) Reiterates but unfortunately leaves the wrong m
+
+(37) might be made use of it concludes (s < m) < m i.e. s < m
+It is on the whole surprising how impossible it seems to get anything out of these formulae.

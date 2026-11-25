@@ -1,0 +1,49 @@
+[fig]Existential graphs with nested enclosures and variables[/fig]
+
+[fig]Existential graph with nested enclosures containing q and p[/fig]
+
+Either everything is
+p or something
+is not q
+
+[fig]Existential graph with nested enclosures containing q and p[/fig]
+
+[u]Whatever is q is c[/u]
+
+[fig]Existential graph with nested enclosures[/fig]
+
+[del][fig]Empty enclosure[/fig][/del]
+
+$(a+b)(c+d)$
+
+[fig]Existential graphs with nested enclosures containing a, b, c, d[/fig]
+
+[fig]Existential graph with nested enclosures containing c, x, delta[/fig]
+
+[fig]Existential graph with nested enclosures containing s, t[/fig]
+
+$a+b+c+d$
+
+[fig]Existential graph with nested enclosures containing s, t, u[/fig]
+
+[fig]Existential graphs with nested enclosures containing a, b, c, d, s, t, u[/fig]
+
+$\Pi_z \Pi_i \Sigma_j \Pi_u \Sigma_x \{ \bar{\beta}_i + \chi_{iz} \} + \delta_j \cdot \chi_{ij} \{ \bar{\beta}_u + \bar{\chi}_{uz} + \delta_v \cdot \bar{\chi}_{uv} \}$
+
+[del][fig]Crossed out lines[/fig][/del]
+
+[fig]Existential graph with nested enclosures containing s, t, u[/fig]
+
+$\Pi_\psi \Sigma_\phi \Sigma_\theta \Sigma_\omega \Pi_i \Pi_u \bar{\beta}_u + \bar{\chi}_{u\phi} + \bar{\beta}_i + \chi_i + \delta_j \cdot \chi_{j\psi} \cdot \delta_{k\psi}$
+
+$(\bar{a} + \bar{b})(\bar{c} + \bar{d})$
+
+[fig]Existential graph with nested enclosures containing a, b, c, d[/fig]
+
+$(\bar{a} + \bar{b}) \bar{c} + \bar{d}$
+
+[fig]Existential graph with nested enclosures containing a, b, c, d[/fig]
+
+$a$
+
+[fig]Existential graph with nested enclosures containing a, b, c, d[/fig]

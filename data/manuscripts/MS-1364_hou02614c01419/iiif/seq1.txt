@@ -1,0 +1,35 @@
+The Rotational Displacements of
+crystallography may with great advantage be discus-
+sed in the notation [del]of[/del] published in 1870 for the [del]deter[/del]
+treatment of relations in general. A noncommutative
+multiplication is used. The capital letters representing
+individual objects A : B denotes [ins]elementary[/ins] the relation of A to B,
+[del]the[/del] and no other relation whatever. Then (A:B)B=A
+and (A:B)(B:C)=A:C but (A:B)X=0 unless X=B or con-
+tains B. Thus (A:B)(B+C)=A.
+I shall further use the letter A to denote a rotational dis-
+placement round an axis no distinctly represented and through
+180°, clockwise to an eye looking in a way not specified. To this
+letter A exponents will be attached to multiply the angle of dis-
+placement. Thus, A[ins]1/5[/ins] will be a displacement about the same
+axis through 1/5(180°)=36°. [del]A bar[/del] An obelus or horizontal line
+over any symbol, say [u]S[/u], to make it denote 1-S. Thus A' is will
+denote a rotation in the counterclockwise sense of A[ins]1/5[/ins]. I shall denote by
+0, 1, 2, 3, 4 the five rays of a pentaster [ins]the plane of[/ins] to which the axis of A is
+perpendicular, these being numbered phyllotactically, the phyllotactic
+intervals of a pentaster being double the ordinals proceeding from each
+ray to the next. These numbers attached to A below, as A₁, A₂, etc,
+[del]denote[/del] express [del]a[/del] rotational displacements round these axes. [fig]diagram of a five-pointed star with points labeled 2, 0, 3, 1, 4[/fig]
+A₀ = 0:0 + 4:1 + 3:2 + 2:3 + 1:4
+A₁ = 2:0 + 1:1 + 0:2 + 4:3 + 3:4
+A₂ = 4:0 + 3:1 + 2:2 + 1:3 + 0:4
+A₃ = 1:0 + 0:1 + 4:2 + 3:3 + 2:4
+A₄ = 3:0 + 2:1 + 1:2 + 0:3 + 4:4
+A₀² = A₁² = A₂² = A₃² = A₄² = A⁰ = 1
+A₀A₁ = 3:0 + 4:1 + 0:2 + 1:3 + 2:4 = A₁ A₂ = A₂ A₃ = A₃ A₄ = A₄ A₀
+A₀A₄ = 2:0 + 3:1 + 4:2 + 0:3 + 1:4 = A₂ A₁ = A₃ A₂ = A₄ A₃ = A₅ A₀
+A₀A₂ = 1:0 + 2:1 + 3:2 + 4:3 + 0:4 = A₁ A₃ = A₂ A₄ = A₃ A₀ = A₄ A₁
+A₀A₃ = 4:0 + 0:1 + 1:2 + 2:3 + 3:4 = A₁ A₄ = A₂ A₀ = A₃ A₁ = A₄ A₂
+[del]K[/del]
+Calling Aₙ Aₙ₊₂ = i, we have i²=Aₙ Aₙ₋₁, i³=Aₙ Aₙ₊₁, i⁴=Aₙ Aₙ₋₂
+i⁵=1

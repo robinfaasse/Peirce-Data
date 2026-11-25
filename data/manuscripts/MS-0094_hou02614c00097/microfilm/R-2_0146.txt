@@ -1,0 +1,23 @@
+[pn]106[/pn]
+
+Representing the known numbers by letters
+[ins]•[/ins] $Ax + By + Cz = L$,
+$Dx + Ey + Fz = M$,
+$Gx + Hy + Jz = N$.
+The first two equations give
+$Ax + By = L - Cz$,
+$Dx + Ey = M - Fz$,
+[del]Here[/del] [del]these[/del] [del]ge[/del] Comparing with the two equations,
+$ax + by = m$
+$cx + dy = n$
+we find $a = A$, $b = B$, $m = L - Cz$
+$c = D$, $d = E$, $n = M - Fz$.
+Hence, by the formulae found above
+$x = \frac{B(M-Fz) - E(L-Cz)}{BD - EA} = \frac{BM - EL + (-BF + EC)z}{BD - EA}$
+$y = \frac{A(M-Fz) - D(L-Cz)}{AE - DB} = \frac{AM - DL + (-AF + DC)z}{AE - DB}$
+
+Substituting these values in the third equation
+$G \frac{BM - EL + (-BF + EC)z}{BD - EA} + H \frac{AM - D[del]L[/del][ins]L[/ins] + (-AF + DC)z}{AE - DB} + Jz = N$
+Multiplying both quantities equated by $AE - DB$ we get
+$-GBM + GEL + G(BF - EC)z + HAM - HDE + H(-AF + DC)z + J(AE - DB)z$
+$= N(AE - DB)$.

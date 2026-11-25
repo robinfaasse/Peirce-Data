@@ -1,0 +1,29 @@
+[fig]Long division in binary notation[/fig]  [fig]Long division in binary notation[/fig]  [fig]Long division in binary notation[/fig]
+
+$$\frac{1}{(2^2-1)^2} = \frac{1}{2^4 - 2^3 + 1}$$
+
+$$\frac{1}{2^m-1} \times \frac{1}{2^n-1} = \frac{1}{2^{m+n} - 2^m - 2^n + 1}$$
+
+$$2^{m+n-1} + 2^{m+n-2} + \text{etc} + 2^m + 2^n + 2^3 + 2^2 + 2^1$$
+$$-2^m - 2^n$$
+$$\overline{\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ +2^n \cdot 0 \cdot 0 \cdot}$$
+
+[fig]Long division in binary notation[/fig]  [fig]Long division in binary notation[/fig]
+
+$$2^{m+n} - 2^m - 2^n + 1$$
+
+$$\begin{array}{r@{\quad}l}
+1\ 0\ 0\ 0\ 0\ 0\ 0\ 0\ 0\ 0\ 0\ 1 & [fig]Binary division diagram[/fig] [fig]Binary division diagram[/fig] \\
+\hline
+1\ 1\ 1\ 0\ 1\ 1\ 1\ 0\ 0\ 0\ 1 & \\
+\end{array}$$
+
+$$2^{m+n} - 2^m - 2^n + 1$$
+
+$$\frac{[del]2^{m+n} + 2^m + 2^n[/del]}{[del]2^x + 2^y + 2^z[/del]}$$
+
+$$\frac{[del]2^x + 2^y + 2^z + 2^u[/del] + 1}{}$$
+
+[fig]Binary division diagram[/fig]
+
+$$\frac{2^{m+n+k}}{2^{m+n-1} + 2^{m+n-2} \dots 2^{m+1} + 2^{m-1} + 2^{m-2} \dots \frac{2^n + 1}{2^n-1}}$$

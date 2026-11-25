@@ -1,0 +1,41 @@
+[pn]12[/pn]
+
+[del][fig]crossed out scribble[/fig][/del] [ins]$D_t^2$[/ins]
+
+$D_t x$
+$\frac{x}{\sqrt{x^2+y^2}}$
+
+$= \frac{x D_t x}{\sqrt{x^2+y^2}}$
+
+$\frac{(x D_t x + y D_t y)^2}{x^2+y^2}$
+
+$D_t y$
+$\frac{y}{\sqrt{x^2+y^2}}$
+
+$= \frac{x^2 (D_t x)^2}{x^2+y^2} + \frac{y^2 (D_t y)^2}{x^2+y^2} + \frac{2xy D_t x D_t y}{x^2+y^2}$
+
+$\frac{(x D_t x + y D_t y)^2}{x^2+y^2}$
+
+[ins]$D_t y$[/ins]
+$(dx)^2 + (dy)^2 - (d(\sqrt{x^2+y^2}))^2$
+
+$= \text{something}$
+
+$d \sqrt{x^2+y^2} = \frac{x dx + y dy}{\sqrt{x^2+y^2}}$
+
+[fig]small triangle[/fig]
+
+[u]$x^2 (dx)^2 + y^2 (dy)^2 + 2xy dx dy$[/u]
+$(x^2+y^2) (dx^2+dy^2)$
+
+$y^2 (dx)^2 + x^2 (dy)^2 - 2xy dx dy = 0$
+
+$x dy = y dx$
+
+$\frac{dy}{y} = \frac{dx}{x}$
+
+$\log y + C = \log x$
+
+$y C = x$
+
+[fig]geometric diagram with lines and triangles[/fig]

@@ -1,0 +1,100 @@
+[fig]Circle divided into two halves labeled a and b[/fig]
+[del]x[/del] [ins]a[/ins] [u]a+2[/u]
+A
+[u]b+2[/u]
+= B
+b
+
+A + B = 4
+
+[fig]Circle divided into three sectors labeled a, b, and c[/fig]
+a [u]a+3[/u]
+[u]b+3[/u] b
+[u]c+3[/u]
+c
+
+A + B + C = 9
+
+[fig]Circle divided into four regions labeled a, b, c, and d[/fig]
+d [u]d+3[/u]
+[u]a+4[/u] a
+c [u]c+4[/u]
+[u]b+3[/u]
+b
+
+A + B + C + D = 14
+
+[del]x = Number of outward corners on border[/del]
+[del]x = Number of inward[/del] y = total
+z - 5x + 6 = y
+
+[fig]Circle divided into five regions labeled a, b, c, d, and e[/fig]
+e [u]e+4[/u]
+[u]a+4[/u] a
+d [u]d+3[/u]
+[u]c+5[/u]
+[u]b+3[/u] b
+c
+
+A + B + C + D + E = 19
+
+[fig]Circle divided into six regions labeled a, b, c, d, e, and f[/fig]
+[u]f+4[/u] [u]a+5[/u]
+[u]e+3[/u]
+[u]d+5[/u] [u]c+4[/u]
+[u]b+3[/u]
+
+A + B + C + D + E + F = 24
+
+[del]5[/del]
+[del]10[/del]
+[del]7[/del]
+
+5x - 6 = y
+where x is the number
+of corners on border
+and y is total
+number
+
+[fig]Circle divided into four horizontal bands labeled a, b, c, and d[/fig]
+a
+[u]a+2[/u]
+d [u]b+d+4[/u] b
+[u]c+2[/u]
+c
+
+[fig]Circle divided into four regions labeled a, b, c, and d[/fig]
+a+3
+d+4 b+4
+c+3
+
+[fig]Circle divided into five regions labeled a, b, c, d, e, and f[/fig]
+f+4 a+3
+e+5 b+5
+d+3 c+4
+
+[fig]Circle divided into six regions labeled a, b, c, d, e, and f[/fig]
+f+3 a+6
+e+4 b+3
+d+4 c+4
+
+[fig]Circle divided into five regions labeled a, b, c, d, e, and f[/fig]
+f+3 a+4
+e+6 b+4
+d+3 c+4
+
+[fig]Circle divided into five regions labeled R, B, and Y[/fig]
+B R
+R Y
+B R
+
+[fig]Circle with radiating lines and regions labeled R, Y, G, and V[/fig]
+R
+Y Y G V Y
+G V
+R Y G R
+V
+
+4
+outward 4 2
+Inward 4 2

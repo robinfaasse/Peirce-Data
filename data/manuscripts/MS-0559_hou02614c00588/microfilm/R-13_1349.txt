@@ -1,0 +1,26 @@
+I say that for a formula to be false, it is requisite that all
+its antecedentals should be true and its consequental false.
+To show that this is so, suppose it to be true for every
+formula [del]with[/del] the number of whose antecedentals is
+[del]n.[/del] [ins][u]n[/u].[/ins] Consider, then, a formula with [u]n[/u]+1 antecedentals.
+This is a consequence, and as such can only be false
+if its antecedent is true while its consequente is false.
+But its consequente, being a formula of [u]n[/u] antecedentals,
+can only be false (by hypothesis) if all the antecedentals
+are true and the consequental false. Now the [u]n[/u]+1 ante-
+cedentals are the antecedent and the [u]n[/u] antecedentals
+of the consequent. To make the entire formula false, all
+these must be true, while the consequental of the consequent,
+which is also the consequental of the whole formula, is
+false. Thus the rule, if true for every formula of any number,
+[u]n[/u], of antecedentals, is true likewise for every formula having
+one antecedental additional. But it is true [ins]in case[/ins] for [u]n[/u]=1;
+hence, it is true for every finite value of [u]n[/u]. Accordingly, in
+order that a formula should be logically necessary, that is,
+true by virtue of its form, it is only requisite that something
+about its form should prevent all the antecedentals from
+being true when the consequental is not true.
+
+It is always possible that the consequental should
+be false, because it is a single letter, and as such may
+stand for any proposition whatever, no matter what. Now

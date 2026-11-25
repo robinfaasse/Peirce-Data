@@ -1,0 +1,55 @@
+($\epsilon+\zeta$)($\alpha+\beta$) = h ($\alpha+\beta$)($\epsilon+\zeta$) = h
+($\epsilon+\eta$)($\alpha+\beta$) = 2($\alpha+\beta$) ($\alpha+\beta$)($\epsilon+\eta$) = h
+
+$\epsilon+\zeta$
+x:x x:y | -x:z -x:w
+y:x y:y | -y:z -y:w
+[del]-z:x -z:y[/del] +z:z +z:w
+[del]-w:x -w:y[/del] +w:z +w:w
+
+[del]A:A[/del] $\alpha+\beta$
+x:x x:z
+y:y y:w
+z:z z:w
+w:w w:z
+
+[del]h[/del] $\epsilon+\eta$
+x:x [del]x:y[/del] [ins]y:y[/ins] [ins]x:w[/ins] [del]X[/del] [ins]X[/ins][del]Y[/del]
+y:y y:z
+z:y z:z
+w:w
+
+[del]X[/del] [del]X[/del]
+[del]x:x[/del] [del]x:y[/del]
+
+pq = h qp = h
+p²=p q²=h
+[del](q-p)(h-q) =[/del]
+(p-h)(q-h) = h
+
+$\alpha+\gamma$
+x:x x:z
+y:x y:z
+z:y z:w
+w:y w:w
+
+[fig]figure[/fig]
+
+[fig]figure[/fig]
+pq = q qp = h
+(p-h)(q-h) = q-h
+
+$\alpha+\delta$
+x:x x:y
+y:z y:w
+z:z z:w
+w:x w:y
+
+($\epsilon+\zeta$)($\alpha+\beta$) = 2($\alpha+\gamma$)
+
+$\frac{\alpha+\beta}{\alpha+\beta} = 1$ [del]$\frac{a}{b}$[/del] $\frac{\alpha+\gamma}{\alpha+\gamma} = 1$
+
+It is evident that
+every substitution is a relative term
+
+639

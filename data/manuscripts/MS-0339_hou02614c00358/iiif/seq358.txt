@@ -1,0 +1,51 @@
+193r
+Suppose
+[p,q] is a mean of p and q such that is
+p is 1 it is independent of q
+[del]√log p . log q[/del]
+[del]a+b / 2[/del]
+[del]2 log p . log q / log p + log q[/del] [del]x[/del] [ins][u]1[/u][/ins] ([del]p / 1-p[/del] + [del]q / 1-q[/del]) = p + q - 2pq / 2 - p - q
+[del]√log p . log q[/del] 2 + p / 1-p + q / 1-q
+
+[fig]figure[/fig] 2 - 2p - 2q + 2pq
++ p - pq
++ q - pq
+--------------------
+2 - p - q
+
+p + q - 2pq / 2 - p - q
+If p = 1
+1 + q = 1
+1 - q
+
+{p,q} is a mean of p and q such that
+[p,q] + {p,q} = p + q
+p + q - p + q - 2pq / 2 - p - q = p + q - p^2 - q^2 / 2 - p - q
+2p + 2q - p^2 - q^2 - 2pq / - p - q + 2pq
+If p = 0
+q (1 - q) / 2 - q
+
+[del]p + q / 2[/del] p + q - 2pq / 2 - 2p - 2q + 2pq = [ins][u]1[/u] / [u]2[/u][/ins] [pi] / 1 + [pi] + [kappa] / 1 + [kappa] + R [pi][kappa] / (1 + [pi]) (1 + [kappa]) / (1 - [pi] / 1 + [pi]) (1 - [kappa] / 1 + [kappa])
+= 1 / 2 ([pi] (1 + [kappa]) + [kappa] (1 + [pi]) - 2 [pi][kappa]) / [del]1 / 2[/del] ([pi] + [kappa])
+
+pq - p^2 - q^2 / 2 - 2p - 2q + p^2 + q^2 = [pi] / (1 + [pi])^2 + [kappa] / (1 + [kappa])^2 / 1 / 1 + [pi] + 1 / 1 + [kappa] - [pi] / (1 + [pi])^2 - [kappa] / (1 + [kappa])^2
+= [pi] (1 + [kappa])^2 + [kappa] (1 + [pi])^2 / (1 + [pi]) (1 + [kappa])^2 + (1 + [pi])^2 (1 + [kappa]) - [pi] (1 + [kappa])^2 - [kappa] (1 + [pi])^2
+p = [pi] / 1 + [pi] = [pi] + [del]4[/del] 2[pi][kappa] + [pi][kappa]^2 + [kappa] + [pi]^2[kappa]
+1 - p = 1 / 1 + [pi]
+
+[pi] (1 + [kappa]) / 1 + [pi] + [kappa] (1 + [pi]) / 1 + [kappa] / 2 + [pi] + [kappa] - [pi] (1 + [kappa]) / 1 + [pi] + [kappa] 1 + [pi] / 1 + [kappa]
+xy / (1-x)(1-y) (x / 1-x + y / 1-y)
+[del]p[/del] If p = 0 p+q - p^2 - q^2 / 2 - 2p - 2q + p^2 + q^2 q(1 - q) / (1 - q)^2 (x / 1-x)^2 + (y / 1-y)^2 + xy / (1-x)(1-y) (x / 1-x + y / 1-y)
+
+It is required to find a mean xy (x + y - 2xy) / x^2 (1-y)^2 + (1-x)^2 y^2 + xy (x + y - 2xy)
+such that if
+p = 1 it is independent of q x^2 (2y^2 - 2y + 1) - 2xy^2 + y^2 / x^2 - 2x^2 y + 2x^2 y^2 + y^2 - 2y^2 x + 2y^2 x^2
+and if p = 0 it is q. y^2 - y + 1 / 2 / y^2 - y - - 1 / 4 + 1 / 4 x^2 + y^2 - 2xy (x+y) + 2x^2 y^2
+F(1,q) = 1 [del]x^2 (2y+1)^2 + (x-y)^2[/del] x^2 - x^2 y + y^2 - xy^2 / x^2 (1-y) + y^2 (1-x)
+F(0,q) = q x^2 (1-y) + y^2 (1-x) + x^2 y^2 / x^2 (1-y) + y^2 (1-x) + xy [del]x / 1-x + y / 1-y[/del] [del]x^2 / (1-x) + y^2 / (1-y)[/del] [del]x^2 (1-y) + y^2 (1-x) / (1-x)(1-y)[/del] [zeta]^2 + [eta]^2 / [zeta] + [eta] x^2 (1-y) + y^2 (1-x)
+F(q,q) = q xy (1-y) + xy (1-x) / x(1-y) + y(1-x) + xy x^2 (1-y) + y^2 (1-x) + y / x(1-y) + y(1-x) x / 1-x + y / 1-y / x / 1-x + y / 1-y + xy / (1-x)(1-y)
+xy / x+y √x^2 + y^2 / 2 x+y / x(1-y) + y(1-x) + (x / 1-x)^2 + (y / 1-y)^2
+(x+a)(y+a) (x/1-x)^2 + (y/1-y)^2 / 1-y + 1-x / (1-x)(1-y) + x / 1-x + y / 1-y
+(x-a)(y+a) x / 1-x + y / 1-y + (x / 1-x)^2 + (y / 1-y)^2 x / 1-x + y / 1-y / 1 / 1-x + 1 / 1-y
+x^2 (1-y)^2 + y^2 (1-x)^2 / x(1-x)(1-y)^2 + y(1-y)(1-x)^2 + x^2 y^2 (1-y) + y^2 x(1-x) [del](xy / 1-x)^2 + (xy / 1-y)^2[/del] x^2 y + x^2 y / x^2 + y^2
+xy (x+y) / x^2 + y^2

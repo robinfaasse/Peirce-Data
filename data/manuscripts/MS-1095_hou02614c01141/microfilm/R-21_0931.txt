@@ -1,0 +1,18 @@
+Thus:
+
+$$ \left\{ I_{1}I_{2} \text{ D}_{t}^{2} + \frac{I_{1}(\mathcal{E}+\gamma_{2}) + I_{2}(\mathcal{E}+\gamma_{1})}{2} + \sqrt{I_{1}I_{2}\mathcal{E}^{2} + \left(\frac{I_{1}(\mathcal{E}+\gamma_{2}) - I_{2}(\mathcal{E}+\gamma_{1})}{2}\right)^{2}} \right\} \times $$
+$$ \left\{ I_{1}I_{2} \text{ D}_{t}^{2} + \frac{I_{1}(\mathcal{E}+\gamma_{2}) + I_{2}(\mathcal{E}+\gamma_{1})}{2} - \sqrt{I_{1}I_{2}\mathcal{E}^{2} + \left(\frac{I_{1}(\mathcal{E}+\gamma_{2}) - I_{2}(\mathcal{E}+\gamma_{1})}{2}\right)^{2}} \right\} = 0. $$
+
+The quantity under the radical sign may be transformed as follows:
+
+$$ I_{1}I_{2}\mathcal{E}^{2} + \left(\frac{I_{1}(\mathcal{E}+\gamma_{2}) - I_{2}(\mathcal{E}+\gamma_{1})}{2}\right)^{2} = I_{1}I_{2}\mathcal{E}^{2} + \left(\frac{(I_{1}-I_{2})\mathcal{E} + I_{1}\gamma_{2} - I_{2}\gamma_{1}}{2}\right)^{2} $$
+
+$$ = \left(\frac{(I_{1}+I_{2})\mathcal{E}}{2}\right)^{2} + \frac{1}{2}(I_{1}-I_{2})(I_{1}\gamma_{2}-I_{2}\gamma_{1})\mathcal{E} + \frac{1}{4}(I_{1}\gamma_{2}-I_{2}\gamma_{1})^{2} $$
+
+Since [u]$\mathcal{E}$ is very large[/u], we may neglect the cube of its reciprocal, and then the square root of the above quantity is
+
+$$ \frac{(I_{1}+I_{2})\mathcal{E}}{2} \left\{ 1 + \frac{(I_{1}-I_{2})(I_{1}\gamma_{2}-I_{2}\gamma_{1})}{(I_{1}+I_{2})^{2}\mathcal{E}} + \frac{1}{2}\frac{(I_{1}\gamma_{2}-I_{2}\gamma_{1})^{2}}{(I_{1}+I_{2})^{2}\mathcal{E}^{2}} - \frac{1}{2}\frac{(I_{1}-I_{2})^{2}(I_{1}\gamma_{2}-I_{2}\gamma_{1})^{2}}{(I_{1}+I_{2})^{4}\mathcal{E}^{2}} \right\} $$
+
+$$ = \frac{I_{1}+I_{2}}{2}\mathcal{E} + \frac{1}{2}\frac{I_{1}-I_{2}}{I_{1}+I_{2}}(I_{1}\gamma_{2}-I_{2}\gamma_{1}) + \frac{I_{1}I_{2}(I_{1}\gamma_{2}-I_{2}\gamma_{1})^{2}}{(I_{1}+I_{2})^{3}\mathcal{E}} $$
+
+Consequently the symbolical equation becomes

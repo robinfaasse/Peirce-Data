@@ -1,0 +1,78 @@
+[fig]Diagram with circles and arrows[/fig] [del]A - a[/del]
+[fig]Diagram with circles and arrows[/fig]
+[u]A - a[/u]
+[del]B - a[/del]
+[u]A l A A l b[/u]
+[u]A l B B l A B b[/u]
+
+A - a
+B - a
+[u]A l A A l b[/u]
+[u]A l B B b[/u]
+
+[fig]Diagram with circles and arrows[/fig]
+[u]A - a[/u]
+[del]A l A[/del]
+[u]A l B A l b[/u]
+
+A - a
+B - a
+[u]A l A A l b[/u]
+[u]A l B B b[/u]
+
+[del]A - a[/del]
+[del]B - a[/del]
+[u]A l A[/u]
+[u]A l [del]B[/del][/u]
+
+[fig]Diagram with circles and arrows[/fig]
+
+[fig]Diagram with circles and arrows[/fig]
+[del]A - a[/del]
+Z a [del]A l b[/del]
+[del]Z l Z[/del]
+[u]Z l A [del]A l b[/del] A l b[/u]
+
+Z m
+[u]z t s[/u]
+
+Z m Y
+[u]z t s Y[/u]
+
+[fig]Diagram with circles and arrows[/fig]
+A b
+[del]Z a[/del]
+[u]A l A[/u]
+
+Z m Z
+[u]z t s Z[/u]
+
+A b
+Za
+[u]Z l A[/u]
+
+Z
+
+[fig]Diagram with circles and arrows[/fig]
+Z m Y
+X s Y
+[u]z t X[/u]
+
+A a
+[u]A l A[/u]
+
+Z m Y
+Z s Y
+[u]z t z[/u]
+
+Z m Y
+u s Y
+[u]z t Y[/u]
+
+Z m Z
+X s Z
+[u]z t X[/u]
+
+Z m Z
+Z s Z
+[u]z t z[/u]

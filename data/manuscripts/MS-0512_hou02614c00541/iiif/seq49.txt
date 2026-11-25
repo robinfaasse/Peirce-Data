@@ -1,0 +1,161 @@
+Square = Quantity
+[fig]figure[/fig]
+[ins]([/ins]u + v + w[ins])[/ins]$^2$ + (x + y + z)$^2$ = x + y + z
+2(u + v + w)(x + y + z) = u + v + w
+or
+Either u + v + w = 0
+x + y + z = 1
+[del]x + y + z = 0[/del]
+Either u + v + w = 0 [del]if u = 0 v = 0 w = 0[/del]
+[ins]If u + v + w = 0[/ins]
+or 2x - y - z = 1
+x + y + z = [del]1[/del] [ins]$\frac{1}{2}$[/ins]
+u + v + w = $\pm \frac{1}{2}$
+
+[del]4y$^2$ = 1 + y$^2$ + z$^2$ + 2yz + 2y + 2z[/del]
+If x + y + z = 1
+x = $\frac{2}{3}$
+x = $\frac{1}{3}$
+[ins]y = $\frac{1}{3}$[/ins]
+1 y + z = $\frac{1}{3}$
+2x(y - z) = (y + z)(y - z)
+or else y = z
+
+[del]x + y + z = 0[/del]
+Square = 0
+2ux + (u + w)(y + z) C
++ 2uy + (u + w)(y + z) AC
++ 2uz + (u + v)(y + z) CA
++ u$^2$ + v$^2$ + w$^2$ + x$^2$ + 2yz
++ uv + vw + wu + 2xy + z$^2$ A
++ uv + vw + wu + 2xz + y$^2$ A$^2$
+
+uC + vAC + wCA
++ x + yA + zA$^{-1}$
+
+2x(y - z) = (y + z)(y - z)
+2y = y + z
+Then (u + v + w) x = 0
+(u + v + w) y = 0
+(u + v + w) z = 0
+[del]Either u + v + w = 0[/del]
+or x = y = z = 0
+which is a case of y = z
+(x - y)(x + y)
+x$^2$ + yz - yx - xz
+
+[del](u + v + w)[/del]$^2$ + (x + y + z)$^2$ [del]= 0[/del]
+But in this case
+[del]u + v + w = 0[/del] [ins]and y = z = x[/ins]
+x + y + z = 0
+z = 0
+y = 0
+x = 0
+z = 0
+y = 0
+x = 0
+
+2y = x + y + z
+- x + y + z = 0
+- x = y + z
+y = x = y = z - z
+[del]2y$^2$ + 2uv + 2v$^2$ + 2uw = 0[/del]
+[del]2u$^2$ + 2uv + 2v$^2$ + 2uw = 0[/del]
+[del]u$^2$ + u v + v$^2$ + u w = 0[/del]
+uv + vw + wu + y$^2$ = 0
+u$^2$ + u v + w$^2$ - 2y = 0
+A - A$^2$ [ins]A$^2$[/ins] [del]A$^2$ - A[/del]
+A$^2$ - A [ins]A[/ins] [del]A - A$^2$[/del]
+A$^2$ - AC [del]AC - A$^2$[/del]
+AC - A$^2$ [ins]A$^2$[/ins] [del]A$^2$ - AC[/del]
+AC - CA [ins]A[/ins] [del]A - AC[/del]
+[fig]figure[/fig] [fig]figure[/fig]
+
+[del]2y - y - z = 1[/del]
+[del]y - z = 1[/del]
+[del]$\frac{2}{3}$[/del] - y - z = $\frac{1}{3}$
+- u$^2$ - uv - v$^2$ + z$^2$ = $\frac{1}{4}$
+- u$^2$ - uv - v$^2$ + y$^2$ = $\frac{1}{2}$
+2u$^2$ + 2uv + 2v$^2$ + $\frac{1}{3}$ + 2yz = $\frac{1}{3}$
+[ins]$\frac{1}{2}$ (1 - AC)[/ins]
+[ins]$\frac{1}{2}$ (1 - AC)[/ins]
+[ins]$\frac{1}{2}$ (1 - CA)[/ins]
+[del](1 - AC) (1 - AC)[/del]
+[ins]A - G[/ins]
+A - [del]A[/del]$^2$ + AC - CA
+A - [del]A$^2$[/del] - AC + CA
+A$^2$ - [del]2[/del] + A - CA + C
+A$^2$ - [del]2[/del] + A - C + AC
+[ins]+ C[/ins] [ins]- AC[/ins] [ins]+ AC[/ins] [ins]- C[/ins]
+unless u = v = w = 0
+2y = y + z
+z = y
+or z = 0 y = 0
+x = 0
+(y + z)$^2$ + 8yz = 0
+y$^2$ + 10yz + z$^2$ = 0
+y = 0
+z = 0
+[del]x = 0[/del] y = 0 z = 0
+[del]x = 0[/del]
+y = 0
+z = 0
+x = 0
+y = 0
+z = 0
+x = 0
+
+[del]y = 2[/del]
+[del]y = -2x[/del]
+[del]x = 0[/del]
+[del]y = 0[/del]
+[ins]y$^2$ + 2xy = 0[/ins]
+[ins]x$^2$ + 2yz = 0[/ins]
+[ins]z$^2$ + 2xy = 0[/ins]
+x = 0
+y = 0
+z = 0
+
+$\frac{1}{2}$ (1 + A)
+$\frac{1}{2}$ (1 - G)
+u = x
+v = z
+w = y
+x = y
+v = x
+w = u
+
+[fig]figure[/fig]
+x - y - u
+y - z - v
+z - x - w
+x y z
+u v w
+[fig]figure[/fig]
+x = z
+y = x
+z = y
+u = w
+v = u
+w = v
+u = v
+v = u
+w = w
+u = w
+v = v
+w = u
+x = y
+y = x
+z = z
+x = x
+y = z
+z = y
+x = z
+y = y
+z = x
+[del]A$^2$ - CA[/del]
+[del]A - CA[/del]
+[del]A$^2$ - AG[/del]
+[del]AC - G + A$^2$[/del]
+[del]A - AC - A$^2$ - AG[/del]
+[del]2 + A - A$^2$ - 2AC[/del]

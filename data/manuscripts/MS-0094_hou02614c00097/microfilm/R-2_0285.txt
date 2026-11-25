@@ -1,0 +1,31 @@
+[pn]277[/pn]
+
+Let us make another application of the same principle
+
+(1) We will take the point [0]
+
+(2) But instead of the plane (C) we will take
+$(0+X, 0+2Y, 0+3Z)$
+
+(3) Then the [del]intersections[/del] [ins]pts[/ins] will be
+$[X_0] = [0+X]$,
+$[Y_0] = [0+2Y]$,
+$[Z_0] = [0+3Z]$.
+
+(4) Then we have
+$[\{X_0 Y\} \{X Y_0\}] = [0+X+2Y]$,
+$[\{X_0 Z\} \{X Z_0\}] = [0+X+3Z]$,
+$[\{Y_0 Z\} \{Y Z_0\}] = [0+2Y+3Z]$.
+
+(5) The plane of these will contain
+$\{\omega (0+X, 0+2Y, 0+3Z)\}$.
+
+(6) [del]For[/del] Instead of $[\varepsilon \omega (0XY)]$, we shall have $[2Y-X]$,
+Instead of $[\varepsilon \omega (0YZ)]$, we shall have $[3Z-2Y]$,
+Instead of $[\varepsilon \omega (0XZ)]$, we shall have $[3Z-X]$, or $[\frac{3}{2}Z - \frac{1}{2}X]$.
+
+Then, $[0+2Y+3Z]$, $[0+X+3Z]$, $[2Y-X]$ will be in one ray;
+$[0+X+2Y]$, $[0+X+3Z]$, $[3Z-2Y]$ will be in one ray;
+$[0+X+2Y]$, $[0+2Y+3Z]$, $[3Z-\frac{1}{2}X]$ will be in one ray,
+
+as they should be according to the notation.

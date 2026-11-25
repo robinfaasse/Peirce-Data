@@ -1,0 +1,26 @@
+[pn]107[/pn]
+
+which could not be deduced from one alone. Now from one
+statement [del]of value[/del] [ins]and independent[/ins] of this simple kind it is plain that two
+different quantities cannot be evaluated.
+
+§ 70. Just as the values of two unknown quantities can be
+deduced from two equations of this kind, so the values of three
+can be deduced from three. For example, suppose
+$$x + y - z = 1$$
+$$x - y + z = 2$$
+$$x + y + z = 3$$
+From the first we have
+$$x = 1 - y + z,$$
+Substituting this in the others, one gets
+$$1 - y + z - y + z = 2,$$
+$$1 - y + z + y + z = 3,$$
+or what is the same
+$$-2y + 2z = 1,$$
+$$0y + 2z = 2,$$
+these give, by the formulae above
+[del]The first of these giv[/del]
+$$y = \frac{2 \cdot 2 - 2 \cdot 1}{2 \cdot 0 + 2 \cdot 2} = \frac{4 - 2}{4} = \frac{1}{2}$$
+$$z = \frac{-2 \cdot 2 - 0 \cdot 1}{-2 \cdot 2 - 2 \cdot 0} = \frac{-4}{-4} = 1$$
+And substituting these, one gets
+$$x = 1 - y + z = 1 - \frac{1}{2} + 1 = 1\frac{1}{2}.$$

@@ -1,0 +1,29 @@
+[del]P|Q R|S[/del] [del]P|S[/del]
+[u]a|b[/u] [u]a+b[/u] [del]P|Q[/del] [ins]P|Q[/ins] [u]R|S[/u] a([u]b[/u]+c)
+[u]a[/u] b [u]a[/u] [u]b[/u] [del]S[/del] $\therefore$ R|S $\therefore$ P|Q [u]a[/u] b+c
+
+[u]a|b|c[/u] = a[u]b[/u]+c P|Q Q|P
+[u]a[/u] b|c = [u]a[/u]+b+c $\therefore$ R|Q $\therefore$ Q|R
+([u]a[/u]|b)[u]c[/u] = ([u]a[/u]+b)[u]c[/u] [u]p[/u]+q $\prec$ [u]r[/u]+q
+[del]a[/del] a[u]b[/u] [u]c[/u] = a[u]b[/u] [u]c[/u] X[u]X[/u] [u]q[/u][u]p[/u] $\prec$ q[u]r[/u]
+a|[u]b[/u]|c = [u]a[/u]+[u]b[/u]+c X[u]X[/u]
+a|b[u]c[/u] = [u]a[/u]+b[u]c[/u]
+a[u]b[/u]|c a[u]b[/u] [u]c[/u]
+a[u]b[/u] [u]c[/u] a([u]b[/u]+c)
+[fig]Tree diagram showing logical derivations[/fig]
+[u]a|b|c[/u] [del]a+c[/del] [u]a|b|c[/u] a[u]b[/u][u]c[/u] a[u]b|c[/u]
+$\downarrow$ $\downarrow$ $\downarrow$ $\downarrow$
+a[u]b[/u] [u]c[/u] ([u]a[/u]|b)[u]c[/u] a[u]b[/u] a[u]b[/u][u]c[/u]
+$\downarrow$ $\downarrow$ $\downarrow$
+[u]a|b|c[/u] a|[u]b[/u][u]c[/u]
+$\downarrow$ $\downarrow$ a[u]b[/u] = a[u]b[/u][u]c[/u] a[u]b|c[/u] = b[u]a|c[/u]
+A always a[u]b[/u] [u]c[/u] a[u]b|c[/u] $\swarrow$ $\searrow$ [fig]Cross[/fig]
+[u]A[/u] sometimes $\searrow$ $\swarrow$ a[u]b[/u] a[u]c[/u] [u]b[/u][u]c[/u]
+a[u]c[/u] $\downarrow$ $\downarrow$ $\downarrow$
+X[u]X[/u] inantecedent [u]T[/u] X[u]T[/u] X a[u]b[/u][u]c[/u] a ([u]a[/u]|b)[u]c[/u]
+[u]X[/u] X $\downarrow$ $\downarrow$
+[u]a+c[/u] [u]a|b|c[/u] c a|b[u]c[/u]
+([u]a[/u]+b)[u]c[/u]+d a[u]b[/u][u]c[/u]|d $\downarrow$ $\downarrow$
+[u]a|b|c|d[/u] (a|[u]b|c[/u]+d) [u]b|c[/u] a+c a|b
+[del]a[/del] a[u]b[/u][u]c[/u][u]d[/u] a[u]b[/u][u]c[/u] [u]d[/u] $\downarrow$ $\swarrow$ $\swarrow$ $\searrow$
+a([u]b[/u]+c[u]d[/u]) a([u]b[/u]+c)[u]d[/u] b|a+c = a|b|c a[u]b[/u]|c = a[u]c|b[/u]

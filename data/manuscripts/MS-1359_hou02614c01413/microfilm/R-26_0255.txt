@@ -1,0 +1,30 @@
+[pn]p.20[/pn] where [u]u[/u] is that load which just begins to lift the truss, and [u]v[/u] is the
+remainder, [u]w[/u] - [u]u[/u]. [del][ I omit in copying to the end of II, since end of
+truss is fastened down. ][/del] [ins]middle p. 40.[/ins]
+
+In solving the main problem of the effect of the live load, it is equally [del]important[/del] [ins]indispensable[/ins] that the method selected should leave no room for serious doubt as
+to whether every part of the effect is substantially taken into account and that it
+should be no more complicated than the nature of the problem necessitates. Two different
+methods approve themselves to me, of which one is more satisfactory except that it
+involves the numerical solution of a large number of equations, requiring a
+very competent computer, while the algebraic developments it involves are so
+extended that I hesitate to undertake them until I can have an algebraist
+duplicate every step concurrently with my own calculation. The other method
+in my opinion is fully sufficient, but I do not know that there is no room for
+doubt [ins][pn][u]p.41[/u][/pn][/ins] in the minds of others about that; and it is also pretty complicated,
+though less so than the other.
+
+In either case, the following notation may be employed:
+[u]x[/u] shall be the horizontal coördinate of any part under the dead load (serving to fix the
+identity of that part) measured from the midspan as zero, increasing toward Jersey end.
+[u]x[/u] + [u]x[/u]ₙ is the horizontal coördinate of that part of the truss which under the dead load is at
+[u]x[/u], measured from the same origin and in the same direction.
+[u]x[/u] + [u]ξ[/u]ₙ is the same for the corresponding part of the cable.
+[u]y[/u]ₙ is the vertical coördinate of the same part of the truss, measured upwards from
+the position under the dead load.
+[u]η[/u]ₙ is the same for the corresponding part of the cable measured upward from the dead
+load parabola
+[u]Θ[/u]ₙ is the unstrained inclination to the horizon, rising toward Jersey end if positive,
+of the part of the truss indicated by [u]x[/u], when [u]Θ[/u]₀ = 0,
+[del][u]Θ[/u]ₙ[/del] [ins][u]ϑ[/u]ₙ[/ins] is the inclination to the horizon, rising toward Jersey end, of the truss at [u]x[/u],
+under live load.

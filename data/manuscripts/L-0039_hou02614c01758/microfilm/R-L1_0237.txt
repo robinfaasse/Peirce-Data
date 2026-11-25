@@ -1,0 +1,22 @@
+[pn]1[/pn]
+
+[marginalia]U.S. Geological Survey,
+Washington D.C. [date]April 9, 1893[/date][/marginalia]
+
+My dear Charles;—
+
+I have struck a new method of attacking the Elastic Law which seems to me sound, and perhaps it may contain points which will help you to form a decided opinion on my paper, now in your hands.
+
+[u]Lines of absolute motion[/u]. Suppose an isotropic, elastic unit cube to be strained in the direction oy. Then the ratio of linear contraction to longitudinal extension for small strain is
+$$\sigma = \frac{3k - 2n}{2(3k + n)}$$
+
+Let $x_0, y_0$ be the original position of a particle and $x, y$ its final position. Then the lateral contraction per unit length is $-dx/x$ and the [del]longitudinal extension[/del] [ins]longitudinal extension[/ins] is $dy/y$. Thus for small strain
+$$\sigma = - \frac{dx}{x} \cdot \frac{y}{dy};$$
+
+so that
+$$\sigma \ln y = \ln C - \ln x,$$
+
+and
+$$x y^\sigma = C = x_0 y_0^\sigma.$$
+
+This equation is general only in form. It shows that the actual lines of absolute motion coincide with this locus for infinitesimal strain; but the possibility is not excluded

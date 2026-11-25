@@ -1,0 +1,16 @@
+[A(A)]
+
+[del]x[/del] [ins]x[/ins] [(x)]
+x [A(x)]
+x [A(Ax)]
+[A(A)]
+
+[A(B)] [B(C)]
+[A(B)] [A(B) B(C)]
+[A{B(C)}] [B(C)]
+
+[fig]Diagram with lines and letters A, B, C, D, E[/fig]
+
+[fig]Diagram with lines and letters A, B[/fig]
+
+[fig]Diagram with lines and letters A, B, C, D[/fig]

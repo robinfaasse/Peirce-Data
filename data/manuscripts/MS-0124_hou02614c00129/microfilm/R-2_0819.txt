@@ -1,0 +1,30 @@
+[u]Trigonometrical Formulae[/u]
+using only the tangent
+
+$\text{arc }\tan x = \int \frac{dx}{1+x^{2}} = x - \frac{1}{3}x^{3} + \frac{1}{5}x^{5} - \frac{1}{7}x^{7} + \text{etc}$
+
+$\text{Tan } x = x + \frac{2}{3!}x^{3} + \frac{[del]16[/del][ins]16[/ins]}{5!}x^{5} + \frac{272}{7!}x^{7} + \text{etc}$
+
+$\tan \Sigma a = \frac{\Sigma \tan a - \Sigma \tan a \tan b \tan c + \Sigma \tan a \tan b \tan c \tan d \tan e - \text{etc}}{1 - \Sigma \tan a \tan b + \Sigma \tan a \tan b \tan c \tan d - \text{etc.}}$
+
+[u]Plane Triangles.[/u]
+
+Put $\begin{aligned} a' &= \frac{1}{2}(-a+b+c) \\ b' &= \frac{1}{2}(a-b+c) \\ c' &= \frac{1}{2}(a+b-c) \end{aligned}$  $\begin{aligned} a &= b'+c' \\ b &= a'+c' \\ c &= a'+b' \end{aligned}$  $\begin{aligned} s &= a'+b'+c' \\ &= \frac{1}{2}(a+b+c) \end{aligned}$
+
+$\begin{aligned} a+b &= s+c' \\ b+c &= s+a' \\ a+c &= s+b' \end{aligned}$  $\begin{aligned} a-b &= b'-a' \\ b-c &= c'-b' \\ c-a &= a'-c' \end{aligned}$  $\begin{aligned} r &= \text{radius inscribed circle} \\ r_{a}, r_{b}, r_{c} &= \text{radii escribed circles} \\ T &= \text{area} \\ R &= \text{radius circumscribed circle} \end{aligned}$
+
+$\alpha = \tan \frac{1}{2}A \quad \beta = \tan \frac{1}{2}B \quad \gamma = \tan \frac{1}{2}C$
+
+$a'\alpha = b'\beta = c'\gamma = r \quad r_{a} = s\alpha$
+
+$\alpha\beta\gamma = \frac{r}{s} = \frac{a'\alpha^{2}}{r_{a}} = \frac{b'\beta^{2}}{r_{b}} = \frac{c'\gamma^{2}}{r_{c}}$
+
+$\frac{1}{r_{a}} + \frac{1}{r_{b}} + \frac{1}{r_{c}} = \frac{1}{r}$
+
+$\frac{1}{\alpha} + \frac{1}{\beta} + \frac{1}{\gamma} = \frac{s}{r} = \frac{1}{\alpha\beta\gamma}$
+
+$T = sr = a'r_{a} = b'r_{b} = c'r_{c} = \frac{b'c'}{\alpha} = \frac{a'c'}{\beta} = \frac{a'b'}{\gamma}$
+
+$T = p_{a}\frac{a}{2} = r_{a}a' \quad \Sigma \frac{1}{p_{a}} = \Sigma \frac{1}{r_{a}} = \frac{1}{r} \quad \Sigma r_{a} - r = 4R$
+
+$R = \frac{(\alpha + \frac{1}{\alpha})}{2} \frac{a}{2} = \frac{1}{2} \alpha a' = r \quad \Sigma \frac{1}{\alpha} = \frac{s}{r} \quad \Sigma \frac{1}{\alpha + \frac{1}{\alpha}} = \frac{2s}{R}$

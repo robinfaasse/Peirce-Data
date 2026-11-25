@@ -1,0 +1,14 @@
+[u]Second and third Fundamental definitions[/u]. [pn]1[sup]st[/sup]:[/pn]
+[u]Logical Addition[/u].
+
+(II.) If [u]x[/u] < [u]y[/u] then [u]x[/u] < [u]y[/u] + [u]z[/u] and [u]x[/u] < [u]z[/u] + [u]y[/u].
+(III.) If [u]x[/u] < [u]z[/u] and [u]y[/u] < [u]z[/u], then [u]x[/u] + [u]y[/u] < [u]z[/u].
+
+In order to render theorem 1 applicable, we require
+an operation which in such application is to be inter-
+changed with logical addition. Its definition will be
+derived from that of addition by the same rule. Thus,
+we have,
+[pn]2[sup]d[/sup]:[/pn] [u]Definition of Logical Internal Multiplication[/u].
+(II'.) If [u]y[/u] < [u]x[/u] then [u]y[/u],[u]z[/u] < [u]x[/u] and [u]z[/u],[u]y[/u] < [u]x[/u].
+(III'.) If [u]z[/u] < [u]x[/u] and [u]z[/u] < [u]y[/u] then [u]z[/u] < [u]x[/u],[u]y[/u].

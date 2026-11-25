@@ -1,0 +1,31 @@
+[pn]13[/pn]
+
+[marginalia]Rep[del]ort[/del][ins]ort on[/ins] Morrison's Bridge[/marginalia]
+
+Then, it is evident that, under the fixed load, the form of the cable is a parabola with vertical axis and vertex down, and that the whole weight of the truss is borne by the suspenders. The equation of the cable is
+$$y' = y'_+ \frac{x'}{x'_+} (2 - \frac{x'}{x'_+}).$$
+
+Hence, its slope is,
+$$\frac{dy'}{dx'} = 2 \frac{y'_+}{x'_+} (1 - \frac{x'}{x'_+}),$$
+
+and
+$$\frac{dy'_0}{dx'_0} = 2 \frac{y'_+}{x'_+}$$
+
+The horizontal pull is, by (29),
+$$A' = \frac{p x'_+^2}{2 y'_+}$$
+
+The total pull upon the virtual backstay is
+$$\sqrt{A'^2 + (p x'_+)^2} = p x'_+ \sqrt{1 + \frac{x'_+^2}{4 y'_+^2}}.$$
+
+The elongation of each backstay is
+$$\frac{T}{E} p x'_+ \sqrt{1 + \frac{x'_+^2}{4 y'_+^2}}$$
+
+Hence, the length of cable which would be over the span, were all the weight taken off, would be
+$$2 ( [u]l_+[/u] - \frac{T}{E} p x'_+ \sqrt{1 + \frac{x'_+^2}{4 y'_+^2}} ),$$
+
+where [u]$l_+$[/u] is to be determined by means of equation (35), [del]noticing[/del] [ins]having regard to[/ins] the different notation.
+
+If, now, the load between two points, $p_1$ and $p_2$, be increased from $p$ to $p + q$, where
+$$p > p_1, p < p_2, q = \frac{p - p_1}{p_2 - p_1} q_2,$$
+
+then the work (to a constant [del]pres[/del][ins]press[/ins]) becomes

@@ -1,0 +1,9 @@
+$$\overline{n}_i + n_{ij} \cdot b_{ij} = \overline{b}_{ij} \cdot \overline{n}_i +$$
+$$= (\overline{n}_i + n_j) \cdot (\overline{n}_i +$$
+
+$$n_j \cdot (\overline{n}_{ji} + b_{ij}) = (\overline{b}_{ij} + n_j)$$
+$$= (\overline{b}_{ji} + n_j)$$
+
+This will not do.
+$n_i \cdot b_i$ Everything is $b$
+$\overline{n}_i + b_i$ Something is $b$

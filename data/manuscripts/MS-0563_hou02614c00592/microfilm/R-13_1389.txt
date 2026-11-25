@@ -1,0 +1,30 @@
+[pn]3[/pn]
+
+The relation of the B's to the C's is
+determined by the equations
+$C_1 (\mathcal{E}_1 - a) = b B_1$     $C_2 (\mathcal{E}_2 - a) = b B_2$
+
+or, what is the same,
+$B_1 (\mathcal{E}_1 - d) = c C_1$     $B_2 (\mathcal{E}_2 - d) = c C_2$
+
+Then write
+$\alpha = \frac{C_1 b}{C_2}$     $\beta = b$
+
+$\gamma = (\mathcal{E}_1 - a) \frac{C_1}{C_2}$     $\delta = \mathcal{E}_2 - a$
+
+$e^i = \frac{\mathcal{E}_1}{\mathcal{E}_2}$
+$- \log e^i = \theta$
+
+and we have
+
+[del]$W_x = \frac{\alpha e^x + \beta}{\gamma e^x + \delta}$[/del] = $\frac{\alpha e^{ix} + \beta e^{-ix}}{\gamma e^{ix} + \delta e^{-ix}}$
+
+$W_x = \frac{\alpha + \beta \cos \theta x + \dots}{\dots}$
+
+This is [del]evidently[/del] of course periodic. The
+condition of the period being real would
+easily be found.
+
+Going back to the equations
+$u_{x+1} = a u_x + b v_x$
+$v_{x+1} = c u_x + d v_x$

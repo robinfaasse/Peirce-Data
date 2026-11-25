@@ -1,0 +1,28 @@
+REPORT of [blank] Inspector on [blank] Steam Boiler [blank]
+at [blank] inspected [blank]
+
+in question, and by the terms 'root', 'branches' (which may be [del]eith[/del]
+main branches, intermediate branches, or free branches,) and [del]knots[/del] [ins]tips[/ins]
+(which may be either the root itself, or proper knots, or the extremit[ins]ies[/ins]
+of the free branches.)"
+
+Fig. 1 Fig. 2 Fig. 3
+[fig]Three sets of simple line diagrams representing trees with 1, 2, and 3 branches.[/fig]
+
+Fig. 1 (bis) Fig. 2 (bis) Fig. 3 (bis)
+[fig]Three sets of labeled tree diagrams with letters U, P, Q, R.[/fig]
+
+[u]R Q P U[/u] consists of six terms, represented by Fig. 3 (bis.)
+[u]1st term[/u] = [u](R x Q x P) U[/u] [u]2d term[/u] = [u](R Q x P) U[/u] [[u]3d term[/u] = [u](Q x R P) U[/u]]
+[u]4th term[/u] = [u](R x Q P) U[/u] [u]5th term[/u] = [u]((R x Q) P) U[/u]] [u]6th term[/u] = [u]((R Q) P) U[/u]
+The 3rd, 4th & 5th terms, enclosed in brackets, were taken from
+the figures by myself. Cayley gives only the 1st, 2d, & 6th.
+Cayley says the number of unlettered trees with [u]n[/u] branches (calls
+his number [u]An[/u]) may be completely expressed by the equation
+[u](1-x)^-1 . (1-x^2)^-A1 . (1-x^3)^-A2 . (1-x^4)^-A3 ... = 1 + A1 x + A2 x^2 + A3 x^3 + A4 x^4 + ...[/u]
+He gives
+[u]n[/u] = 1 2 3 4 5 6 7
+[u]An[/u] = 1 2 4 9 20 48 115
+
+[u]n[/u] = 8 9 10 11 12
+[u]An[/u] = 286 719 1842 4766 12486

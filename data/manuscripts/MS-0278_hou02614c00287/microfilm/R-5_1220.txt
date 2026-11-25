@@ -1,0 +1,49 @@
+0 gives Sunday
+1 " Monday
+2 " Tuesday
+3 gives Wednesday
+4 " Thursday
+5 " Friday
+6 gives Saturday.
+
+<u>Example.</u> To find the day of the week on which 25 December 1894 will fall:
+Century Index 2
+Year Index 1
+Month Index 2
+Day Index 25 (or 4, deducting 21)
+30 rem. 2
+Hence the day will be Tuesday.
+
+With a little practice, all this computation can easily be performed mentally.
+
+<u>Note.</u> The Gregorian Calendar, or New Style, was introduced by Pope Gregory XIII. on Friday, 5 October 1582 (O.S.), which became 15 October 1582 (N.S.). It was adopted by Great Britain Saturday, 3 September 1752 (O.S.) = 14 September 1752 (N.S.). The Julian Calendar, or Old Style, is still used in Russia and by the Greek Church. The difference of the two calendars is now twelve days.
+
+The following dates will furnish practice in the above rule. All dates before the introduction of the Gregorian Calendar are in Old Style; all later dates, unless otherwise marked, are in New Style.
+
+15 December 37 was Sunday.
+23 August 476 was Monday.
+16 July 622 was Friday.
+24 December 800 was Thursday.
+14 October 1066 was Saturday.
+29 December 1170 was Tuesday.
+29 May 1453 was Tuesday.
+12 October 1492 was Friday.
+24 August 1572 was Sunday.
+23 April 1616 (O.S.) was Tuesday.
+11 December 1620 (O.S.) was Monday.
+28 October 1636 (O.S.) was Thursday.
+13 February 1689 (O.S.) was Wednesday.
+22 February 1732 was Friday.
+19 April 1775 was Wednesday.
+4 July 1776 was Thursday.
+19 October 1781 was Friday.
+14 July 1789 was Tuesday.
+2 December 1805 was Monday.
+18 June 1815 was Sunday.
+7 June 1832 was Thursday.
+12 April 1861 was Friday.
+9 April 1865 was Sunday.
+4 September 1870 was Sunday.
+1 January 1901 will be Tuesday.
+22 February 1932 will be Monday.
+4 July 2276 will be Tuesday.

@@ -1,0 +1,59 @@
+[pn]6[/pn]
+
+[u]Morrison's Bridge 1899 [date]Feb 23[/date][/u]
+
+[u]Straight parts of cable[/u]
+
+[u]Old arc[/u]
+[indent]
+$D_x y = \frac{x}{p}$
+
+At $N = \frac{N}{p}$     $y$ at $N = \frac{N^2}{2p}$
+
+Equation $y = \frac{N^2}{2p} + \frac{N(x-N)}{p} = \frac{2xN - N^2}{2p}$
+
+at $R = \frac{2RN - N^2}{2p}$
+[/indent]
+
+[vertical line separating columns]
+
+At $-N = -\frac{N}{p}$
+
+Equation
+$y = \frac{N^2}{2p} - \frac{N(x+N)}{p}$
+$= -\frac{2xN + N^2}{2p}$
+
+[u]New Arc[/u]—
+
+$y = a'' + b''N + c''N^2 = [del]y[/del]$
+$D_x y = b'' + 2c''N$
+Equation $= (a'' + b''N + c''N^2) + (b'' + 2c''N)(x-N)$
+$= a'' - c''N^2 + (b'' + 2c''N)x$
+
+$a'' - c''N^2 + (b'' + 2c''N)R = \frac{2R-N}{2p} N$
+
+[marginalia]
+I don't know
+about this after all
+[/marginalia]
+
+$= a - (c-c')I^2 - (c'-c'')J^2 - c''N^2 + [b + 2(c-c')I + 2(c'-c'')J + 2c''N]R$
+
+$c''(J^2 - N^2 - 2JR + 2NR) = \frac{2RN - N^2}{2p} - c'(I^2 - J^2 - 2IR + 2JR) + c(I^2 - 2IR)$
+$- a - bR$
+
+$y = a - bN + cN^2$
+$D_x y = +b - 2cN$
+
+$(a - bN + cN^2) + (+b - 2cN)(x+N)$
+$= a - cN^2 + (b - 2cN)x = y$
+
+$(a - cN^2) [del]y[/del] - (b - 2cN)R = - \frac{(N-2R)N}{2p}$
+
+$c = \left( \frac{2RN - N^2}{2p} - a + bR \right) / (2R - N)$
+$= \frac{N}{2p} + \frac{-a + bR}{2R - N}$
+
+At $-N$ $-\frac{N}{p}$     $\frac{N^2}{2p}$
+
+$y = \frac{N^2}{2p} - \frac{N}{p}(x+N)$
+$= - \frac{(2x+N)N}{2p}$

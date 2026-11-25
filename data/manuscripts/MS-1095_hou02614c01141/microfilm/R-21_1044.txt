@@ -1,0 +1,34 @@
+[fig]Right triangle with sides labeled ds, de, R, R and angles d\theta, \theta[/fig]
+
+By this triangle $d\theta = \sin\theta \frac{de}{R}$
+or $D_{\theta}e = R \csc\theta$
+
+[marginalia]This agrees with definition of $\theta$, not with last formula[/marginalia]
+
+Integrating $e = R \log\tan\frac{\theta}{2}$
+
+When $e=0$ $\log\tan\frac{\theta}{2} = 0$ $\tan\frac{\theta}{2} = 1$ $\theta = 90^{\circ}$ showing the [del]angle for[/del] position at which the zero of $e$ begins.
+
+In the equation
+$D_e s = \sin\theta$
+
+Substitute for $e$ its value
+$D_{R\log\tan\frac{\theta}{2}} s = \sin\theta$
+
+$\frac{ds}{R d\log\tan\frac{\theta}{2}} = \sin\theta$
+
+$\frac{ds}{\frac{d\tan\frac{\theta}{2}}{\tan\frac{\theta}{2}}} = R\sin\theta$
+
+$\frac{ds}{d\tan\frac{\theta}{2}} = R \frac{\sin\theta}{\tan\frac{\theta}{2}}$
+
+$\frac{ds}{\frac{1}{2}\sec^2\frac{\theta}{2} \cdot d\theta} = R \frac{\sin\theta}{\tan\frac{\theta}{2}}$
+
+$\frac{ds}{d\theta} = R \frac{\sin\theta}{2\sin\frac{\theta}{2}\cos\frac{\theta}{2}} = R$
+
+$s = R\theta + C$
+
+or $s = R(\theta - 90^{\circ})$
+
+[marginalia]$\tan(\frac{\theta}{2} - 45^{\circ})$
+$= \frac{\tan\frac{\theta}{2} - 1}{1 + \tan\frac{\theta}{2}}$
+$e = -R \log(1 - \tan^2\frac{\theta}{2})$[/marginalia]

@@ -1,0 +1,16 @@
+[pn]CH. XVI. § 357.][/pn] [pn]SOLIDS.[/pn] [pn]111[/pn]
+
+Ratio of right Parallelopipeds.
+
+**357. Theorem.** *Two right parallelopipeds are to each other as the products of their bases by their altitudes.*
+
+*Proof.* Let the two right parallelopipeds be $ABCD$ $EFGH$, $AKLM$ $NOPQ$ (fig. 168), which we will denote by $AG$ and $AP$.
+
+Then, if the sides of the rectangles $ABCD$ and $AKLM$ are commensurable, the rectangles can, by § 241, be divided into equal rectangles; and, if, through each of the vertices of these small rectangles, perpendiculars are erected to the plane $AL$, the parallelopipeds $AG$ and $AP$ are divided into smaller right parallelopipeds. All the parallelopipeds of $AG$ are equivalent, by § 355, as well as all those of $AP$; and the number of parallelopipeds in $AG$ is equal to the number of rectangles in $ABCD$; and the number of parallelopipeds in $AP$ is equal to the number of rectangles in $AKLM$.
+
+If now the altitudes $AE$ and $AN$ are commensurate, $AN$ can be divided into equal parts, of which $AE$ contains a certain number; and, if, through the points of division of $AN$, planes are drawn parallel to the base $AL$, each of the partial parallelopipeds of $AG$ and $AP$ are divided into smaller equal parallelopipeds, and all these smallest parallelopipeds are equal to each other.
+
+Now, the whole number of the smallest parallelopipeds contained in $AG$ is the product of the number of rectangles in its base $ABCD$ by the number of divisions of its altitude $AE$, and the number contained in $AP$ is the product of the number of rectangles in its base $AKLM$ by the number of divisions in its altitude $AN$. Hence
+$$AG : AP = ABCD \times AE : AKLM \times AN.$$
+
+This demonstration is readily extended to the case where the sides are incommensurate, by dividing the solids into infinitely small parallelopipeds.

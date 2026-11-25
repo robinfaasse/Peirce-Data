@@ -1,0 +1,11 @@
+[fig]figure[/fig] [del]All[/del] A is B unless it is C
+[del]a < b[/del]
+a < b + c
+b < a + c
+
+[fig]figure[/fig]
+All A not B is C
+[del]All B not C is B[/del]
+$\therefore$ All A not C is B
+Excl. Mid
+a b x c

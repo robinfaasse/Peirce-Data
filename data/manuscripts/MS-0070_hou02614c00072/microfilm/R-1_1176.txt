@@ -1,0 +1,15 @@
+[pn]N4[/pn]
+
+[u]v[/u] with [u]j[/u], and [u]v'[/u] with [u]j'[/u], [u]k'[/u] with [u]w[/u], [u]w'[/u] with [u]k[/u], and [del]S[/del] [ins]S'[/ins] with [u]S[/u] (for though
+the rule as given in the memoir is the right one, theoretically, yet in
+practice the operation of this and part of the 6[sup]th[/sup] can generally be
+reduced with convenience to the identification of the index of
+any [del]$\Pi$[/del] with any index to the left of it in the quantifier). We, at the
+same time, apply Rule 6 somewhat, remembering that $q_{ai}\cdot\bar{q}_{ai}\prec 0$ etc.
+and applying the principle $(A\text{ or }B)\cdot(A\text{ or }C) = A\text{ or }B\cdot C$, and then
+applying Rule 7 we get
+$\Pi_{i}\Pi_{j}\Pi_{k}\Pi_{w}\Sigma_{s}\Pi_{\beta}\ (\bar{i+j})_{k}\cdot\bar{\psi}\ (\bar{i+j})_{w} + \bar{S}_{\beta}\cdot\psi\ (\bar{q}_{\beta w} + q_{\beta k})\cdot(\bar{q}_{\beta k} + q_{\beta w})$
+or $\Pi_{i}\Pi_{j}\Pi_{k}\Pi_{w}\Pi_{\beta}\ (\bar{i+j})_{k} + (\bar{i+j})_{w} + \bar{S}_{\beta} + \bar{q}_{\beta w}\cdot\bar{q}_{\beta k} + q_{\beta w}\cdot q_{\beta k}$
+Let us now compound this with (7) in which, to avoid confusion, we may write
+[u]m[/u] for [u]u[/u], [u]n[/u] for [u]v[/u], [u]v[/u] for $\alpha$, and $\Phi$ for $\beta$. We thus get
+$\Pi_{m}\Pi_{n}\Sigma_{v}\Pi_{\Phi}\Pi_{i}\Pi_{j}\Pi_{k}\Pi_{w}\Pi_{\beta}\{(\bar{i+j})_{k}\cdot\bar{\psi}\ (\bar{i+j})_{w} + \bar{S}_{\beta}\cdot\bar{q}_{\beta w}\cdot\bar{q}_{\beta k} + q_{\beta w}\cdot q_{\beta k}\}\cdot\{(\bar{m+n})_{v}\cdot\bar{\Phi}\ (\bar{m+n})_{v} + \bar{S}_{\Phi}\cdot\bar{q}_{\Phi v}\cdot\bar{q}_{\Phi v} + q_{\Phi v}\cdot q_{\Phi v}\}$

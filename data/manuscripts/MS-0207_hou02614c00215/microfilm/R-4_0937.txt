@@ -1,0 +1,26 @@
+Let us consider what fractions of denominators less than $q$
+have values intermediate between those of two successive multiples
+of $\frac{1}{q}$, say $\frac{l}{q}$ and $\frac{l+1}{q}$. Let $m < q$ and suppose that there is no
+multiple of $\frac{1}{m}$ between $\frac{l}{q}$ and $\frac{l+1}{q}$, so that, if $\frac{c}{m}$ is the largest
+multiple of $\frac{1}{m}$ less than $\frac{l}{q}$
+$$\frac{c}{m} < \frac{l}{q} \qquad \frac{l+1}{q} < \frac{c+1}{m} \text{.}$$
+
+That is,
+$$cq < lm \qquad \begin{aligned} (l+1)m &< cq+q \\ [del]lm+m &< (c+1)q[/del] \end{aligned}$$
+
+Subtracting these inequalities from $lq$, we have
+$$\begin{aligned} lq - lm &< lq - cq & lq - cq - q &< lq - (l+1)m \\ & & \text{or } \quad lq - cq &< lq + q - (l+1)m \end{aligned}$$
+$$\text{or } \qquad l(q-m) < (l-c)q \qquad (l-c)q < (l+1)(q-m)$$
+$$\begin{aligned} \text{or } \\ \text{or} \end{aligned} \qquad \frac{l}{q} < \frac{l-c}{q-m} \qquad \frac{l-c}{q-m} < \frac{l+1}{q}$$
+
+Thus if $\frac{c}{m}$ and $\frac{c+1}{m}$ are outside of the interval from $\frac{l}{q}$ to $\frac{l+1}{q}$,
+one being greater and the other less, then $\frac{l-c}{q-m}$ is between these
+limits, and conversely.
+
+If $\frac{c}{m} = \frac{l}{q}$, then $\frac{l-c}{q-m} = \frac{l}{q}$. If $q$ is odd, then of the two
+numbers, $m$ and $q-m$, one is even and the other odd. Both
+are less than $q$; so that according to the rule for arranging
+equal fractions [del]in the row[/del], $\frac{c}{m}$ and $\frac{l-c}{q-m}$ will be on opposite
+sides of $\frac{l}{q}$. Hence, if $q$ is odd, there will always be [ins]in the row[/ins] [del]between two
+successive multiples of $\frac{1}{q}$[/del] just $\frac{1}{2}(q-1)$ fractions of lower
+denomination. If $q$ is even, the arrangement is not quite so

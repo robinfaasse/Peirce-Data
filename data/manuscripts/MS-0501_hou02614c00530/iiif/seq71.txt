@@ -1,0 +1,27 @@
+10
+[ured]Theorem VII.[/ured] Whatever i, a, e may be, if either e or both i and 
+a[ins]^[u]c[/u][/ins]e, then (i[ins]^[u]c[/u][/ins]a)[ins]^[u]c[/u][/ins]e.
+
+[ured]Proof.[/ured] For, by [u]Clause 1[/u], if e then (i[ins]^[u]c[/u][/ins]a)[ins]^[u]c[/u][/ins]e. Consequently, 
+it will be sufficient to prove that if i and a[ins]^[u]c[/u][/ins]e then either e 
+or (i[ins]^[u]c[/u][/ins]a)[ins]^[u]c[/u][/ins]e. For this purpose, [del]suppose[/del] [ins]assume[/ins] that i, a, e are any 
+such things that; 1[u]st[/u], i; and 2[u]nd[/u], a[ins]^[u]c[/u][/ins]e. Then I have only to show 
+that either e or (i[ins]^[u]c[/u][/ins]a)[ins]^[u]c[/u][/ins]e. By [u]Clause 1[/u],
+
+(No 1) [del]If e, then[/del] Either i[ins]^[u]c[/u][/ins]a or (i[ins]^[u]c[/u][/ins]a)[ins]^[u]c[/u][/ins]e
+
+By [u]Clause 3[/u]
+
+(No 2) If a and a[ins]^[u]c[/u][/ins]e , then e
+
+(No 3) If i and i[ins]^[u]c[/u][/ins]a, then a.
+
+By (No 2) and the 2[u]nd[/u] assumption, if a then e; whence, by No 3, if 
+i and i[ins]^[u]c[/u][/ins]a, then e; whence, by the 1[u]st[/u] assumption, if i[ins]^[u]c[/u][/ins]a then e; 
+whence by (No 1) either e or (i[ins]^[u]c[/u][/ins]a)[ins]^[u]c[/u][/ins]e. Q.E.D.
+
+[ured]Corollary 3.[/ured] Hence, [u]à fortiori[/u], if both a[ins]^[u]c[/u][/ins]e and either i or e, then 
+(i[ins]^[u]c[/u][/ins]a)[ins]^[u]c[/u][/ins]e.
+
+[ured]Scholium.[/ured] This is the most difficult of all the theorems 
+of this section, and may be considered as the key to the subject.

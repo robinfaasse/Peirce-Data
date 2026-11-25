@@ -1,0 +1,16 @@
+[marginalia]
+Calc Diff
+20
+[/marginalia]
+
+$\Phi^0$ shall be such an operation that
+(4) $(\Phi^m)^n = \Phi^{(m\cdot n)}$
+This rule is admissible, since $(\Phi^m)^n = \Phi^{(m\cdot n)}$
+
+So far, we have only established the signification of positive integer exponents. The effect of zero as an exponent is, however, determined by the equations
+$\Phi^m \underline{u} = \Phi^{m+0} \underline{u} = \Phi^m \Phi^0 \underline{u}$
+[del]$\Phi \underline{u} = \Phi^2 \underline{u} = \Phi^{2+0} \underline{u} = \Phi$[/del]
+$\Phi \underline{u} = \Phi^1 \underline{u} = \Phi^{0+1} \underline{u} = \Phi^0 \cdot \Phi^1 \underline{u} = \Phi^{(0\cdot 1)} \cdot \Phi^1 \underline{u} = (\Phi^0)^1 \Phi \underline{u}$
+$\Phi \underline{u} = \Phi^{1+0} \underline{u} = \Phi \cdot \Phi^0 \underline{u}$.
+
+That is, $\Phi^0$ is such an operation that performed any number of times upon any quantity that can result from performing the operation $\Phi$ on [del]any[/del] [ins]their[/ins] thing leaves that quantity unchanged, and furthermore such that performed upon any other quantity gives a quantity upon which $\Phi$ has the same effect. For example, if $\Phi \underline{u}$ is the remainder after subtracting from $\underline{u}$ the largest integer not greater

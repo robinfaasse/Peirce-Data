@@ -1,0 +1,26 @@
+[u]Report on Live Loads[/u]
+
+$$\frac{R_o}{R_o} = \frac{21}{22} \qquad \frac{R_i}{R_i} = \frac{21}{23}$$
+$$1 - \frac{R_o}{R_o} = \frac{1}{22} \qquad 1 - \frac{R_i}{R_i} = \frac{2}{23}$$
+
+The six equations thus become
+$$\frac{3}{10} x_0 - \frac{1}{22} (x_1 - x_0) = 0 \qquad \text{or} \qquad 38 x_0 = 5 x_1$$
+$$\frac{1}{22} (x_1 - x_0) - \frac{4}{23} (x_2 - x_1) = 0 \qquad \text{or} \qquad 111 x_1 = 23 x_0 + 88 x_2$$
+$$\frac{4}{23} (x_2 - x_1) + \frac{1}{5} (x_2 - 15) = 0 \qquad \text{or} \qquad 43 x_2 = 20 x_1 + 345$$
+$$10 y_0 - \frac{1}{22} (y_1 - y_0) = 0 \qquad \text{or} \qquad 11 y_0 = y_1$$
+$$\frac{1}{22} (y_1 - y_0) - 1 + \frac{4}{23} (y_1 - y_2) = 0 \qquad \text{or} \qquad 111 y_1 = 23 y_0 + 88 y_2 + 1$$
+$$- \frac{4}{23} (y_1 - y_2) + 100 (y_2 - 1) = 0 \qquad \text{or} \qquad 2304 y_2 = 4 y_1 + 2300$$
+
+The first three equations give
+$$111 x_1 = (\frac{115}{38} + \frac{1760}{43}) x_1 + \frac{88 \times 345}{43}$$
+$$\text{or} \qquad (4773 - \frac{4945}{38} - 1760) x_1 = 88 \times 345$$
+$$\text{or} \qquad (3013 - 130 \frac{5}{38}) x_1 = 30360$$
+$$\text{or} \qquad 2882 \frac{33}{38} x_1 = 30360$$
+
+The [del]other[/del] [ins]three[/ins] equations give
+$$111 y_1 = (\frac{23}{[del]11[/del] [ins]11[/ins]} + \frac{352}{2304}) y_1 + 1 + \frac{2300}{2304} \times 88$$
+$$\text{or} \qquad (111 - 2 \frac{1}{11} - \frac{11}{72}) y_1 = 89 - \frac{11}{72}$$
+
+This gives the absurd result that $R_o < R_o$. This method of computation thus fails.
+
+It is now necessary to show that the differential method will work; for it is conceivable that it should not.

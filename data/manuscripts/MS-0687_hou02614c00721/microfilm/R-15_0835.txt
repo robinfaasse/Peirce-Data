@@ -1,0 +1,109 @@
+[del]a + b[/del]
+$a + Bb + B^{2}c + B^{3}d$
+
+[fig]Vertical line with tick marks[/fig]
+
+[marginalia]
+[del]1[/del]
+[del]0[/del]
+[del]1[/del]
+[del]0[/del]
+[del]0[/del]
+[del]0[/del]
+[del]1[/del]
+[del]1[/del]
+[del]0[/del]
+[del]1[/del]
+[del]1[/del]
+[/marginalia]
+
+[marginalia]
+$c\ 0$
+$0\ 1$
+$0\ 2$
+$1\ 0$
+$1\ 1$
+$1\ 2$
+$2\ 0$
+$2\ 1$
+$2\ 2$
+[/marginalia]
+
+$ab + ac + bc$
+$ab \lambda ac \lambda bc$
+
+$abc \cdot (a+b+c) \cdot (a \lambda b \lambda c) = 3abc$
+$abc \lambda abd \lambda acd \lambda bcd$
+$abc \lambda acd \lambda ade \lambda bcd \lambda bde \lambda cde$
+
+$\frac{n(n-1)(n-2)}{6}$
+
+$\begin{array}{ccccc} & 0 & 0 & & \\ & 0 & 1 & 1 & \\ & 1 & 3 & 2 & 1 \\ \cdot & 4 & 6 & 3 & 1 \\ \cdot & 10 & 10 & 4 & 1 \\ \cdot\cdot & 20 & 15 & 5 & 1 \\ \cdot\cdot & 35 & 21 & 6 & 1 \\ \cdot\cdot & 56 & 28 & 7 & 1 \\ \circ & 84 & & & \end{array}$
+
+[marginalia]
+[fig]Sketch of a hand pointing right[/fig]
+[fig]Sketch of a hand pointing right[/fig]
+[fig]Sketch of a hand pointing right[/fig]
+[del]Give 1[/del]
+[del]in last place[/del]
+[del]to[/del] [del]all[/del] [del]but[/del] [del]one[/del]
+[/marginalia]
+
+[marginalia]
+$a$
+$\lambda$
+$b$
+$\lambda$
+$c$
+[/marginalia]
+
+[marginalia]
+Give 1
+in last place
+
+$1111$
+$-011$
+$0001$
+$--1$
+$--00$
+
+Give 1
+in last pl.
+$0$
+$0111$
+$--11$
+$-001$
+$0000$
+$---0$
+
+Give 1
+in last pl.
+$-111$
+$0011$
+$--01$
+$-000$
+$----$
+[/marginalia]
+
+[marginalia]
+$1111$
+
+$- \over 0$ | $0111$
+$- \over 1$ | $-111$
+$- \over 1$ | $0011$
+$- \over 0$ | $-011$
+$- \over 00$ | $--11$
+$- \over 0$ | $0001$
+$- \over 00$ | $-001$
+$- \over 01$ | $--01$
+$- \over 1$ | $---1$
+$- \over 00$ | $0000$
+$- \over 01$ | $-000$
+$- \over 1$ | $--00$
+$- \over 10$ | $---0$
+$- \over 11$ | $----$
+[/marginalia]
+
+[fig]Vertical lines and brackets[/fig]
+
+$\begin{array}{ccccc} & & a+b+c & a\lambda b\lambda c & abc \\ 000 & 0 & 0 & 0 & 0 \\ 001 & 1 & 1 & 1 & 0 \\ 002 & 2 & 2 & 2 & 0 \\ 011 & 2 & 2 & 2 & 0 \\ 012 & 3 & 3 & 0 & 1 \\ 022 & 4 & 4 & 1 & 0 \\ 111 & 3 & 3 & 0 & 1 \\ 112 & 4 & 4 & 1 & 0 \\ 122 & 5 & 5 & 2 & 0 \\ 222 & 6 & 6 & 0 & 2 \end{array}$

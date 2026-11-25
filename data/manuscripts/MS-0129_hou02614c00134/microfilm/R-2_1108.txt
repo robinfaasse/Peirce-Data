@@ -1,0 +1,8 @@
+[u]Theorem[/u]. [u]A ray parallel to one side of a triangle[/u] [u]divides the other two (produced if necessary) into proportional[/u] [u]segments[/u].
+
+Demonstration. [del]First[/del] Let ABC be any triangle and {B'C'} any ray in its plane parallel to {BC}. Then, I say, that
+[fig]Triangle ABC with parallel line B'C' intersecting extended sides[/fig] AB' : B'B = AC' : C'C.
+
+Divide the longer of the two lengths AC, AC' into any [del]other[/del] number of parts. Then, the shorter will be equal to some whole number of those parts, together with a remainder. Find how many times this remainder goes into the longer length, and divide the latter [del]by[/del] [ins]into[/ins] [del]the next higher[/del] [ins]a[/ins] [del]one more[/del] whole number of equal parts at least as great as that number of times. The shorter length will now equal some whole number of the new parts, together with a remainder smaller than before. For the remainder is less than the divisor; and the divisor is not greater than the previous remainder. Thus, one or other of two things must happen. Either the remainder will eventually vanish, or there will be an [ins]endless[/ins] simple, sparse, sequence of divisions each with a remainder less than that next previous. In the latter case, the shorter of the two lengths AC, AC' will be the limit of the series of multiples nearest [ins]less than[/ins] [del]to[/del] it in length.
+
+For every such nearest value the proportion will hold; and hence it will hold in the limit, and AB' : B'B = AC' : C'C. Q.E.D.

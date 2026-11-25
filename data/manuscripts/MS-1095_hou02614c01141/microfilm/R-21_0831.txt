@@ -1,0 +1,11 @@
+Then the differential equations give
+
+$$(\Sigma T^2 + \sqrt{(\Delta T^2)^2 + Q^2}) D_t^2 \underline{u} = -2\underline{u}$$
+$$(\Sigma T^2 - \sqrt{(\Delta T^2)^2 + Q^2}) D_t^2 \underline{v} = -2\underline{v}.$$
+
+Thus both [u]u[/u] and [u]v[/u] undergo a simple pendulous oscillation in their values, their periods being
+
+$$\text{Period of } \underline{u} = \frac{\partial}{2} \sqrt{\Sigma T^2 + \sqrt{(\Delta T^2)^2 + Q^2}}$$
+$$\text{Period of } \underline{v} = \frac{\partial}{2} \sqrt{\Sigma T^2 - \sqrt{(\Delta T^2)^2 + Q^2}}$$
+
+The amplitudes and phases of [u]u[/u] and [u]v[/u] depend on the initial conditions. The equations giving the values of $\psi_1$ and $\psi_2$ in terms of [u]u[/u] and [u]v[/u] show the ratios of the amplitudes of their harmonic constituents.

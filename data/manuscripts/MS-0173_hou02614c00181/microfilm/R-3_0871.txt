@@ -1,0 +1,14 @@
+A System of Arithmetic
+
+Denote numbers as follows: —
+[u]0  A[/u]       [u]2  ACB[/u]      [u]4  CAB[/u]
+[u]1  BA[/u]      [u]3  BCA[/u]      [u]5  CBA[/u]
+6  ABDC    8  ACDB     10 CADB
+[u]7  BADC[/u]    [u]9  BCDA[/u]     [u]11 CBDA[/u]
+12 ADBC    14 ADCB     16 CDAB
+[u]13 BDAC[/u]    [u]15 BDCA[/u]     [u]17 CDBA[/u]
+18 DABC    20 DACB     22 DCAB
+[u]19 DBAC[/u]    [u]21 DBCA[/u]     [u]23 DCBA[/u]
+24 ABCED etc.
+
+Rule for addition. First set down A. Count the number of A's following B's Divide by 2. [del]Set down remainder by further[/del] If remainder is odd set down B to left of A if even to right. Carrying quotient add with the number of A's and B's to right of C's. Divide sum by 3. [del]If[/del] According as remainder is 0, 1, 2, set down C with 0, 1, 2 of the letters A and B to the right of it. And so on.

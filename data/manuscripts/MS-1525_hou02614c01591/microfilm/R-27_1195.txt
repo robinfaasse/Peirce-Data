@@ -1,0 +1,32 @@
+[u]Analysis of
+Tit-tat-too.[/u]
+
+X is first player, O second player. The squares are numbered
+
+[fig]3x3 grid numbered 1 to 9[/fig]
+
+We draw a line as for a fraction and write the number of the square occupied by X in the numerator, that occupied by O in the denominator. If two plays are precisely equivalent we write = between the numbers of the squares. !!! means "makes tit-tat-too" — means "nobody makes tit-tat-too"
+
+[u]1[ins]st[/ins] Play.[/u] X has choice between 2=4=6=8, 5, 1=3=7=9.
+[u]2 .[/u] O has choice between 8, 5, 1=3, 4=6, 7=9.
+[u]3 .[/u] X has choice between 1=3, 5, 7=9, 4=6.
+
+$\frac{2}{8}$ $\frac{1}{3}$ $\frac{4}{7}$ O!!!
+$\frac{2}{8}$ $\frac{1}{3}$ $\frac{5}{9}$ O!!!
+$\frac{2}{8}$ $\frac{1}{3}$ $\frac{6}{7}$ O!!!
+$\frac{2}{8}$ $\frac{1}{3}$ $\frac{7}{4}$ —
+$\frac{2}{8}$ $\frac{1}{3}$ $\frac{9}{4}$ $\frac{7}{6}$ —
+
+[del]$\frac{2}{8}$ $\frac{5}{1}$[/del]
+[del]$\frac{2}{8}$ $\frac{5}{4}$[/del] O has choice between 1=3, 7=9, 4=6. [fig]3x3 grid with some squares shaded[/fig]
+[del]$\frac{2}{8}$ $\frac{5}{7}$[/del] X has
+$\frac{2}{8}$ $\frac{5}{1}$ $\frac{3}{7}$ O!!!
+$\frac{2}{8}$ $\frac{5}{1}$ $\frac{4}{6}$ —
+$\frac{2}{8}$ $\frac{5}{1}$ $\frac{6}{4}$ $\frac{7}{3}$ —
+$\frac{2}{8}$ $\frac{5}{1}$ $\frac{7}{3}$ —
+$\frac{2}{8}$ $\frac{5}{1}$ $\frac{9}{3}$ [del]$\frac{7}{4}$[/del] —
+$\frac{2}{8}$ $\frac{5}{1}$ $\frac{9}{6}$ —
+$\frac{2}{8}$ $\frac{5}{1}$ $\frac{9}{4}$ $\frac{7}{3}$ —
+$\frac{2}{8}$ $\frac{5}{1}$ $\frac{9}{7}$ $\frac{4}{6}$ —
+$\frac{2}{8}$ $\frac{5}{1}$ $\frac{9}{7}$ $\frac{6}{4}$ —
+$\frac{2}{8}$ $\frac{5}{4}$ $\frac{1\text{ or }3}{}$ X!!!

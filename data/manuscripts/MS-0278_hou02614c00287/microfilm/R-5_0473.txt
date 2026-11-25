@@ -1,0 +1,26 @@
+[fig]Tetrahedron ABCD with altitude DP[/fig] Volume of tetrahedron ABCD
+$= \frac{1}{3} ABC \cdot DP$
+
+$DP = DQ \sin BC$
+
+$\sin BC = \frac{\sqrt{1 - \cos^{2} ABC - \cos^{2} ABD - \cos^{2} CBD + 2 \cos ABC \cos ABD \cos CBD}}{\sin ABC \sin CBD}$
+
+$DQ = \frac{2 BCD}{BC}$
+
+$ABCD = \frac{2}{3} \frac{ABC}{\sin ABC} \cdot \frac{BCD}{\sin CBD} \cdot \frac{\sqrt{1 - \cos^{2} ABC - \cos^{2} ABD - \cos^{2} CBD + 2 \cos ABC \cos ABD \cos CBD}}{BC}$
+
+$\frac{ABC}{\sin ABC} = \frac{1}{2} AB \cdot BC$, $\frac{BCD}{\sin CBD} = \frac{1}{2} BC \cdot BD$
+
+$ABCD = \frac{1}{6} AB \cdot BC \cdot BD \sqrt{\phantom{1 - \cos^{2} ABC - \cos^{2} ABD - \cos^{2} CBD + 2 \cos ABC \cos ABD \cos CBD}}$
+
+$\cos ABC = \frac{AB^{2} + BC^{2} - AC^{2}}{2 AB \cdot BC}$ $\cos ABD = \frac{AB^{2} + BD^{2} - AD^{2}}{2 AB \cdot BD}$ $\cos CBD = \frac{BC^{2} + BD^{2} - CD^{2}}{2 BC \cdot BD}$
+
+$ABCD = \frac{1}{6} \sqrt{AB^{2} \cdot BC^{2} \cdot BD^{2} [del]- \frac{1}{4} AB^{2} \cdot BD^{2} \cdot BC^{2} + AC^{2} \cdot BD^{2} \dots[/del]}$
+[del]$- \frac{1}{4} AB^{2} \cdot BD^{2} \dots$[/del]
+$- \frac{1}{4} (AB^{2} + BC^{2} - AC^{2})^{2} BD^{2} - \frac{1}{4} (AB^{2} + BD^{2} - AD^{2})^{2} BC^{2} - \frac{1}{4} (BC^{2} + BD^{2} - CD^{2})^{2} AB^{2}$
+$+ \frac{1}{4} (AB^{2} + BC^{2} - AC^{2}) (AB^{2} + BD^{2} - AD^{2}) (BC^{2} + BD^{2} - CD^{2})$
+
+[marginalia]$\frac{1}{12} \sqrt{}$[/marginalia] $= \frac{1}{12} \sqrt{4 AB^{2} \cdot BC^{2} \cdot BD^{2} - (AB^{2} + BC^{2})^{2} BD^{2} - (AB^{2} + BD^{2})^{2} BC^{2} - (BC^{2} + BD^{2})^{2} AB^{2}}$
+$+ (AB^{2} + BC^{2}) (AB^{2} + BD^{2}) (BC^{2} + BD^{2})$
+$+ 2 (AB^{2} + BC^{2}) BD^{2} \cdot AC^{2} + 2 (AB^{2} + BD^{2}) BC^{2} \cdot AD^{2} + 2 (BC^{2} + BD^{2}) AB^{2} \cdot CD^{2}$
+$- (AB^{2} + BD^{2}) (BC^{2} + BD^{2}) AC^{2} - (AB^{2} + BC^{2}) (BC^{2} + BD^{2}) AD^{2} - (AB^{2} + BC^{2}) (AB^{2} + BD^{2}) CD^{2}$

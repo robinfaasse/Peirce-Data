@@ -1,0 +1,73 @@
+$$\int u \frac{\delta^2 v}{dx^2} dx$$
+
+$$\begin{aligned}
+& u_i \delta v_i \\
+- & 2 u_{i-1} \delta v_i \\
++ & u_{i-2} \delta v_i
+\end{aligned}$$
+
+$$\frac{d^2 u}{dx^2} \int \delta v \, dx$$
+
+$$\frac{(u_i - 2 u_{i-1}) \delta v_i}{[del]dx dx[/del]}$$
+
+$$\frac{\delta v_0}{dx}$$
+
+$$\left( \frac{u_i - u_{i-1}}{dx} - \frac{u_0}{dx} \delta v_1 \right)$$
+
+$$\int u \frac{\delta du}{dx} dx$$
+
+$$\begin{aligned}
+- & u_i \\
++ & u_{i+1}
+\end{aligned}$$
+
+$$\frac{du}{dx} \int \delta u \, dx$$
+
+$$- u \, \delta u_0$$
+
+$$[del]u_i \delta v_i[/del]$$
+
+$$\begin{aligned}
+& u_i \delta(v_{i+1} - 2 v_i + v_{i-1}) \\
++ & u_{i-1} \delta(v_i - 2 v_{i-1} + v_{i-2}) \\
++ & u_{i-2} \delta(v_{i-1} - 2 v_{i-2} + v_{i-3})
+\end{aligned}$$
+
+$$\int u \frac{d^2 v}{dx^2} dx \quad \frac{d^2 u}{dx^2} \int \delta v \, dx$$
+
+$$\frac{du}{dx} \delta v_0$$
+
+$$\frac{u_i \, \delta v_0}{dx}$$
+
+$$\frac{1}{2} (u_{i+1} - u_i)^2$$
+
+$$\Sigma_i (\Delta_i u_i)^2 \quad \Sigma_i (u_{i+1} - u_i)^2$$
+
+$$\begin{aligned}
+& \Sigma_i u_{i+1}^2 - 2 u_{i+1} u_i + u_i^2 \\
+& u_i^2 - 2 u_i u_{i-1} + u_{i-1}^2 \\
++ & u_{i-1}^2 - 2 u_{i-1} u_{i-2} + u_{i-2}^2 \\
++ & u_{i-2}^2 - 2 u_{i-2} u_{i-3} + u_{i-3}^2 \\
++ & \text{etc}
+\end{aligned}$$
+
+$$2 \frac{u_{i-1} \delta u_{i-1}}{(i-1+c)^2 \Delta v}$$
+
+$$2 \frac{u}{v^2} \Sigma \delta u \, \Delta v$$
+
+Since $\Delta v$ is const.
+
+$$\begin{aligned}
+u_{i+1} \quad v & = i \Delta v + v_0 \\
+& = (i+c) \Delta v
+\end{aligned}$$
+
+$$[del]\text{Then}[/del]$$
+
+$$du = \left(\frac{u}{v}\right) \frac{\Delta u}{\Delta v} = \frac{\Delta u}{\Delta v}$$
+
+$$2 u_i \delta u_i - 2 u_{i-1} \delta u_i$$
+
+$$[del]+ 2[/del] - 2 u_i \delta u_{i-1} + 4 u_{i-1} \delta u_{i-1} - 2 u_{i-2} \delta u_{i-1}$$
+
+$$\frac{u_i^2}{(i+c)^2 \Delta v} + \frac{u_{i-1}^2}{(i-1+c)^2 \Delta v} + \frac{u_{i-2}^2}{(i-2+c)^2 \Delta v} +$$

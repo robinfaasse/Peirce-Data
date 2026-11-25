@@ -1,0 +1,39 @@
+[marginalia]
+[u]Memoir Pondé[/u] [date]1898 Sept 1[/date]
+[/marginalia]
+
+[pn]6[/pn]
+
+$\heartsuit_5 + \kappa_0(\delta x_1 - \delta x_0) + \kappa_1(\delta x_2 - \delta x_1) + \lambda_0(\delta y_1 - \delta y_0) + \lambda_1(\delta y_2 - \delta y_1) = 0$
+
+$\heartsuit_5 \begin{matrix} (-\beta_0 \kappa_0 - \kappa_0 \lambda_0) \heartsuit_1 \\ (+ \varepsilon_0 \lambda_0 + \kappa_0 \lambda_0) \end{matrix} \begin{matrix} + (\varepsilon_0 \kappa_0 + \kappa_0^2) \heartsuit_4 \\ - \alpha_0 \lambda_0 - \lambda_0 \mu_0 \end{matrix} \begin{matrix} + \text{etc} \\ + \text{etc} \end{matrix}$
+
+$\begin{matrix} (-\beta_2 \kappa_1 - \kappa_1 \lambda_1) \heartsuit_3 \\ - \varepsilon_2 \lambda_1 + \kappa_1 \lambda_1 \end{matrix} \begin{matrix} + (\varepsilon_2 \kappa_1 - \kappa_1^2) \heartsuit_6 \\ + \alpha_2 \lambda_1 + \lambda_1 \mu_1 \end{matrix} \begin{matrix} + \text{etc} \\ + \text{etc} \end{matrix}$
+
+$\kappa_0^2 - \lambda_0 \mu_0 = - [del]18[/del]$
+
+$\heartsuit_5 + (\varepsilon_0 \lambda_0 - \beta_0 \kappa_0) \heartsuit_1$
+
+[fig]Check mark[/fig]
+
+$\frac{1}{2} E_1 \left(\sqrt{x^2+y^2} - R_0\right)^2 + \frac{1}{2} E_2 \left(\sqrt{(a-x)^2+(b-y)^2} - R_1\right)^2 - \Phi y = 0$
+
+$E_1 \left(1 - \frac{R_0}{\sqrt{x^2+y^2}}\right) (x dx + y dy)$
+
+$E_1 \left(1 - \frac{R_0}{\sqrt{x^2+y^2}}\right) x [del]-[/del] [ins]=[/ins] E_2 \left(1 - \frac{R_1}{\sqrt{(a-x)^2+(b-y)^2}}\right) (a-x) [del]= 0[/del]$
+
+$E_1 \left(1 - \frac{R_0}{\sqrt{x^2+y^2}}\right) y - E_2 \left(1 - \frac{R_1}{\sqrt{(a-x)^2+(b-y)^2}}\right) (b-y) - \Phi = 0$
+
+$E_1 \left(1 - \frac{R_0}{\sqrt{x^2+y^2}}\right) [del]x[/del] [ins]\left[ x(b-y) + y(a-x) \right][/ins] = + \Phi (a-x)$
+
+$E_1 \left(1 - \frac{R_0}{\sqrt{x^2+y^2}}\right) = \Phi \frac{(a-x)}{ay [del]- xy[/del] - bx}$
+
+$E_2 \left(1 - \frac{R_1}{\sqrt{(a-x)^2+(b-y)^2}}\right) [del]\left[ (a-x)y - x(b-y) \right][/del] = \Phi \frac{x}{ay - bx}$
+
+[marginalia]
+$1 - \frac{\Phi}{E} \frac{a-x}{ay-bx} = \frac{R_0}{\sqrt{x^2+y^2}}$
+
+$\sqrt{x^2+y^2} = \frac{R_0}{1 - \frac{\Phi}{E} \frac{a-x}{ay-bx}}$
+
+$x$
+[/marginalia]

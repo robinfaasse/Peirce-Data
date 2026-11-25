@@ -1,0 +1,74 @@
+[pn]1[/pn]
+[u]Example[/u]
+
+Chauvenet gives for Eclipse of [date]1860 July 18[/date], the
+following point on central path
+Gr. m.t. 2[ins]h[/ins]
+Latitude [del]of[/del] [ins]$\phi$[/ins] $57^\circ \cdot 39'$ Diff $-1^\circ \ 32'$
+Long. W. fr. G. $37^\circ \ 14'$ " $-5^\circ \ 29'$
+And for limit of totality
+$d\phi = +51'.8$
+$d\omega = -16'.62$
+
+To find azimuth of path of eclipse, convert $-5^\circ 29'$
+into equatorial interval, thus
+$l_g -5^\circ 29'$ 2.5172n
+$\cos 57^\circ 39'$ [u]9.7284[/u]
+2.2456n
+$l_g -1^\circ 32'$ [u]1.9638n[/u]
+[del]$\cot \tan$ path[/del] 0.2818
+$A'$ [u]$62^\circ 24'.5$[/u]
+$27^\circ 35'.5$
+
+To calculate $Y$ or
+hour angle of Sun.
+Given in Chauvenet
+$-35^m.1$
+$\frac{341}{170}$
+$\frac{170}{511} = 8^\circ \ 31'$
+
+By almanac [del]$5^h \ 16' \ 19''.5$[/del] Dec of sun ($\delta_0$ or $d$) $= +20^\circ 57'$
+
+To calculate $A$ and $f$.
+$\sin \phi$ 9.9267 $\cos \phi$ 9.7284
+$\sin \delta$ [u]9.5533[/u] $\cos \delta$ [u]9.9703[/u]
+9.4800 $\cos \delta$ [u]9.5552[/u]
+2.6939
+
+$\cos \delta$ 9.9703
+$\sin t$ [u]9.1705n[/u]
+9.1408n
+$\sin y$ [u]9.7818[/u]
+$\sin A$ = 9.3590n
+$A = -13^\circ 12'.8$
+
+9.2139
+$\cot A$ [u]0.6210[/u]
+$\cot y$ 9.9010
+
+[pn]2[/pn]
+$m = \tan (A - A')$
+$l = \text{semi breadth of ecclipse}$
+
+Then
+$l = \sqrt{\frac{m^2 a^2 + b^2}{m^2 + 1}} = \sqrt{\frac{m^2 \frac{a^2}{c^2} + \frac{b^2}{c^2}}{\frac{m^2}{c^2} + 1}} = \sqrt{\frac{m^2 \frac{a^2}{c^2} + \frac{b^2}{c^2}}{\frac{m^2}{c^2} + \frac{1 + \cos^2 \delta}{1 + \cos^2 \delta}}}$
+$= a \sqrt{\frac{m^2 \frac{2 f}{a^2} + \text{coeff}}{m^2 + 1}} = a \sqrt{\sin^2 (A - A') + \cos^2 y \cos^2 (A - A')}$
+$= \frac{\Sigma' - \Sigma}{\Sigma'} \sigma \frac{\sin^2 (A - A')}{(\sin \phi \sin \delta + \cos \phi \cos \delta \cos t)^2} + \cos^2 (A - A')$
+
+[fig]Diagram of earth's sphericity and shadow cone[/fig]
+
+To take account of sphericity of shadow
+& sphericity of earth. Consider the
+right spherical triangle ABC [fig]Spherical triangle ABC with center O[/fig] O being
+the centre. Where O is a point on central
+line, A the Zenith, B the highest point of
+circular [ins]section of[/ins] shadow whose centre is O. C
+any other point of edge of circular shadow.
+Here the angle A is the azimuth of point C reckoned from the oppo-
+site to sun. Side b is Zenith distance of B. call it $\zeta$.
+
+Next see Fig. 2. Here f = angle of conical shadow I radius of [ins]circular[/ins] section where
+centre is at O, $s_1$ radius of curvature of earth. $\phi = \text{angular radius}$
+of shadow on earth.
+$\phi = x + f - \zeta$
+$s_1 \sin \alpha = I \cos f + s_1 \sin (\zeta - f)$

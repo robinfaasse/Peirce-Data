@@ -1,0 +1,32 @@
+$A = \text{mean coeff:}$
+
+$g(x p_{123} + y p_{231} + z p_{312} + u p_{321} + v p_{132} + w p_{213})$
+$= \frac{1}{6}(x+y+z+u+v+w)(p_{123}+p_{231}+p_{312}+p_{321}+p_{132}+p_{213})$
+[del]$h$[/del] $\frac{1}{6}(x+y[del]+z[/del]-u-v-w)(p_{123}+p_{231}+p_{312}[del]-p_{321}-p_{132}-p_{213}[/del])$
+
+$i = \begin{pmatrix} 2x & -x & -x & +2x & -x & -x \\ -y & +2y & -y & -y & +2y & -y \\ -z & -z & +2z & -z & -z & +2z \\ +2u & -u & -u & +2u & -u & -u \\ -v & +2v & -v & -v & +2v & -v \\ -w & -w & +2w & -w & -w & +2w \end{pmatrix}$
+
+[fig]Three-legged diagram[/fig] [del]Subtracts from[/del]
+[del]Add to half[/del] each coeff: the mean of all
+
+[del]Subtracts $(2x-y-z)$[/del]
+
+$\begin{matrix} 3y-3z \\ +3v-3w \\ \hline y-z+v-w \\ \hline Y-Z-V+W \end{matrix}$
+
+$\begin{matrix} \frac{1}{2}x - \frac{1}{6}x - \frac{1}{6}u - \frac{1}{6}v \\ \frac{1}{6}x - \frac{1}{12}y - \frac{1}{12}z \\ + \frac{1}{36}x - \frac{2}{36}y - \frac{1}{36}z \\ + \frac{1}{36}x + \frac{1}{36}y - \frac{2}{36}z \\ \hline \frac{4}{36}x - \frac{4}{36}y - \frac{6}{36}z \end{matrix}$
+
+$\begin{matrix} (x & y & z) \\ \hline \frac{1}{2}x & - \frac{1}{6}y & - \frac{1}{6}z \\ - \frac{1}{6}x & \frac{1}{3}y & - \frac{1}{6}z \\ - \frac{1}{6}x & - \frac{1}{6}y & \frac{1}{3}z \end{matrix}$
+
+$\begin{matrix} x & y & z \\ \begin{pmatrix} +\frac{1}{3}x \\ -\frac{1}{6}y \\ -\frac{1}{6}z \end{pmatrix} & \begin{pmatrix} -\frac{1}{6}x \\ +\frac{1}{3}y \\ -\frac{1}{6}z \end{pmatrix} & \begin{pmatrix} -\frac{1}{6}x \\ -\frac{1}{6}y \\ +\frac{1}{3}z \end{pmatrix} \end{matrix}$
+
+$\begin{matrix} \frac{1}{6} & \frac{1}{18}y \\ x'' = \frac{1}{9}x - \frac{1}{18}y - \frac{1}{18}z \\ + \frac{1}{36}x - \frac{2}{36}y + \frac{1}{36}z \\ + \frac{1}{36}x + \frac{1}{36}y - \frac{2}{36}z \\ \hline \frac{1}{6}x - \frac{1}{12}y - \frac{1}{12}z \end{matrix}$
+
+$j(x p_{123} + y p_{231} + z p_{312} + u [del]p_{321}[/del] + v [ins]p_{132}[/ins] + w p_{213}$
+
+$= \begin{matrix} & x & -x & +x & -x \\ -y & & y & & y \\ z & -z & & -z & \\ & -u & u & & u \\ & & -v & v & -v \\ -w & w & & -w & \end{matrix}$
+
+$k = \begin{matrix} 123 & 231 & 312 & 321 & 132 & 213 \\ \cdot & -x & +x & \cdot & -x & +x \\ +y & \cdot & -y & -y & \cdot & +y \\ -z & +z & \cdot & \cdot & z-z & \cdot \\ \cdot & -u & u & \cdot & u-u & \cdot \\ v & \cdot & -v & -v & \cdot & v \\ -w & w & \cdot & \cdot & w-w & \cdot \end{matrix}$
+
+$\begin{matrix} \frac{x+z}{2} & +2v-2w \\ -x & +2u & -w \\ +x-y & -u+v & \\ \hline & -3y+3z & +3v-3w \end{matrix}$
+
+$\begin{matrix} \frac{y+z}{y+z} & \frac{y-z-v+w}{y-z-u-w} \end{matrix}$

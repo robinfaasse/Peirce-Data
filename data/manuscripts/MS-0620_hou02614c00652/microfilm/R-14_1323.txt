@@ -1,0 +1,15 @@
+[pn]48[/pn] (224
+
+[fig]Curly bracket grouping the first three equations[/fig]
+$\begin{aligned}
+11\cdot 22\cdot 33\ x + 12\cdot 22\cdot 33\ y + 13\cdot 22\cdot 33\ z &= 0 \\
+13\cdot 21\cdot 32\ x + 13\cdot 22\cdot 32\ y + 13\cdot 23\cdot 32\ z &= 0 \\
+12\cdot 23\cdot 31\ x + 12\cdot 23\cdot 32\ y + 12\cdot 23\cdot 33\ z &= 0 \\
+\hline
+\end{aligned}$
+
+$\begin{aligned}
+11\cdot 23\cdot 32\ x + [ins]12\cdot 23\cdot 32\ y + 13\cdot 23\cdot 32\ z[/ins] &= 0 \\
+12\cdot 21\cdot 33\ x + [ins]12\cdot 22\cdot 33\ y + 12\cdot 23\cdot 33\ z[/ins] &= 0 \\
+13\cdot 22\cdot 31\ x + [ins]13\cdot 22\cdot 32\ y + 13\cdot 22\cdot 33\ z[/ins] &= 0
+\end{aligned}$

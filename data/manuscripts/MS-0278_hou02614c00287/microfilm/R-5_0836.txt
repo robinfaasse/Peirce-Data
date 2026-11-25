@@ -1,0 +1,19 @@
+[del]S[/del] [ins]s[/ins] log tan ½ ($90^{\circ}$ - $\phi$) = log $\rho$
+
+$D_{\phi} = \frac{1}{2R} \frac{1}{\tan (45^{\circ} - \frac{\phi}{2})} \frac{1}{\cos^{2} (45^{\circ} - \frac{\phi}{2})}$
+
+= - $\frac{1}{2R} \frac{1}{\sin \phi \cos \phi}$
+
+[del]$\sin 2 \phi = $[/del] $D_{\phi} \log \tan \frac{1}{2} (90^{\circ} - \phi)$
+
+= $\frac{1}{\tan \frac{1}{2} (90^{\circ} - \phi)} D_{\phi} \tan \frac{1}{2} (90^{\circ} - \phi) = \frac{\sec^{2} \frac{1}{2} (90^{\circ} - \phi)}{\tan \frac{1}{2} (90^{\circ} - \phi)} \cdot D_{\phi} \frac{1}{2} (90^{\circ} - \phi) = \frac{d (\frac{1}{2} (90^{\circ} - \phi))}{\frac{1}{2} \sin (90^{\circ} - \phi)} = \frac{- \frac{1}{2} d \phi}{\frac{1}{2} \cos \phi} = - \frac{d \phi}{\cos \phi}$
+
+$D_{\phi} \log \tan \frac{1}{2} (90^{\circ} - \phi)$
+
+= $\frac{D_{\phi} \tan \frac{1}{2} (90^{\circ} - \phi)}{\tan \frac{1}{2} (90^{\circ} - \phi)} = \frac{D_{\phi} \frac{1}{2} (90^{\circ} - \phi)}{\sin \frac{1}{2} (90^{\circ} - \phi) \cos \frac{1}{2} (90^{\circ} - \phi)} = \frac{D_{\phi} (90^{\circ} - \phi)}{\sin (90^{\circ} - \phi)} = - \frac{1}{\cos \phi}$
+
+$\frac{d \rho}{S} = \frac{\sqrt{(dr)^{2} + (d\lambda)^{2}}}{r}$
+
+$N S \sqrt{dx} =$
+
+[fig]Circle with inscribed triangle and tangent line[/fig]

@@ -1,0 +1,12 @@
+$$\frac{x}{a} + \frac{y}{b} + \frac{z}{c} = 1$$
+$\frac{h}{a} + \frac{k}{b} + \frac{l}{c} = 1$      $\frac{hk}{a} + \frac{k^2}{b} + \frac{kl}{c} = k$
+$\frac{l}{a} + \frac{h}{b} + \frac{k}{c} = 1$      $\frac{l^2}{a} + \frac{hl}{b} + \frac{kl}{c} = l$
+$\frac{k}{a} + \frac{l}{b} + \frac{h}{c} = 1$      $\frac{hl}{a} + \frac{h^2}{b} + \frac{hk}{c} = h$
+                             $\frac{k^2}{a} + \frac{kl}{b} + \frac{hk}{c} = k$
+
+$\frac{hk - l^2}{a} + \frac{k^2 - hl}{b} = k - l$
+$\frac{hl - k^2}{a} + \frac{h^2 - kl}{b} = h - k$
+
+$\frac{(hk - l^2)(h^2 - kl) - (hl - k^2)(k^2 - hl)}{[del]x[/del] a} = (k - l)(h^2 - kl) - (h - k)(k^2 - hl)$
+$a = \frac{(hk - l^2)(h^2 - kl) - (hl - k^2)(k^2 - hl)}{(k - l)(h^2 - kl) - (h - k)(k^2 - hl)}$
+$= \frac{[del]h^3 k - kl^3 - [unclear][/unclear][/del]}{h^3 k + hl^3 - hk^2 l - hl^2 - (hk^2 l - hk^2 l) + k^2 + h}$

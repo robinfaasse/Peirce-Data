@@ -1,0 +1,21 @@
+[fig]Geometric diagram with lines, points labeled A, B, C, D, E, F, G, H, M, W, and auxiliary sketches.[/fig]
+
+$$D = \frac{a}{a-b+c} A - \frac{b}{a-b+c} B + \frac{c}{a-b+c} C$$
+
+$$M = \frac{a}{a-b} A - \frac{b}{a-b} B$$
+
+$$W = \frac{-b}{-b+c} B + \frac{c}{-b+c} C$$
+
+$$E = \frac{p}{p+q} A + \frac{q}{p+q} B$$
+
+$$G = u \frac{-b}{-b+c} B + u \frac{c}{-b+c} C$$
+
+$$\frac{u \frac{p}{p+q} A + u \frac{q}{p+q} B}{(1-u) \frac{p}{p+q}} = \frac{u \frac{-b}{-b+c} + (1-u) \frac{q}{p+q}}{-b}$$
+
+$$\frac{a}{\frac{p}{a} + \frac{q}{b}} + \frac{\frac{p}{a} + \frac{q}{b}}{\frac{p+q}{-b+c}} = u \left( \frac{\frac{p}{a} + \frac{q}{b}}{\frac{p+q}{-b+c}} + \frac{p+q}{-b+c} \right)$$
+
+$$u = \frac{\frac{p}{a} + \frac{q}{b}}{\frac{p}{a} + \frac{q}{b} + \frac{p+q}{-b+c}}$$
+
+$$G = \frac{\frac{p}{a}}{\left(\frac{p}{a} + \frac{q}{b}\right)(-b+c) + p+q} A$$
+$$+ \frac{\left(\frac{p}{a} + [del]\frac{q}{b}[/del]\right)(-b)}{\left(\frac{p}{a} + \frac{q}{b}\right)(-b+c) + p+q} B$$
+$$+ \frac{\left(\frac{p}{a} + \frac{q}{b}\right)c}{\left(\frac{p}{a} + \frac{q}{b}\right)(-b+c) + p+q} C$$

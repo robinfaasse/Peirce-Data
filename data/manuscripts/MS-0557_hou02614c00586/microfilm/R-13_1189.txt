@@ -1,0 +1,18 @@
+[marginalia]where every individual in the universe is to be successively substituted[/marginalia] [ins]dual[/ins] [del]A[/del] relative term, such as $l$, 'lover of', may be treated in the same way, except that the individuals in this case are pairs. That is we may write
+$$l = (l)_{aa}\ A:A + (l)_{ab}\ A:B + (l)_{ac}\ A:C + \text{etc.}$$
+$$+\ (l)_{ba}\ B:A + (l)_{bb}\ B:B + (l)_{bc}\ B:C + \text{etc.}$$
+$$+\ (l)_{ca}\ C:A + (l)_{cb}\ C:B + (l)_{cc}\ C:C + \text{etc.}$$
+$$+\ \text{etc.}$$
+Here, as before, each coefficient is either zero or greater than zero.
+
+By means of this notation we may define the eight simple modes of combination of relatives as follows:—
+
+$$(ls)_{ij} = \Sigma_x\ (l)_{ix}\ (s)_{xj} \qquad (\overline{ls})_{ij} = \Pi_x\ \{\ 0^{(l)_{ix}} + 0^{(s)_{xj}}\ \}$$
+
+$$(l^s)_{ij} = \Pi_x\ \{\ (l)_{ix}^{(s)_{xj}}\ \} \qquad (\overline{l^s})_{ij} = \Sigma_x\ \{\ 0^{0^{(l)_{ix}}\ (s)_{xj}}\ \}$$
+
+$$(^ls)_{ij} = \Pi_x\ \{\ (s)_{xj}^{(l)_{ix}}\ \} \qquad (\overline{^ls})_{ij} = \Sigma_x\ \{\ 0^{(l)_{ix}\ 0^{(s)_{xj}}}\ \}$$
+
+$$(l \circ s)_{ij} = \Sigma_{x[del]j[/del]} \ 0^{0^{(l)_{ix} + (s)_{xj}}} \qquad (\overline{l \circ s})_{ij} = \Pi_x\ \{\ (l)_{ix} + (s)_{xj}\ \}$$
+
+Of these eight operations, we shall find it convenient to deal in the future only

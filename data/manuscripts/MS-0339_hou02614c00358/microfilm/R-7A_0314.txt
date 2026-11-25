@@ -1,0 +1,15 @@
+[del]XX[/del] [ins]XXI[/ins]. Any graph maybe written enclosed and unenclosed in any connection [ins]both being oddly enclosed[/ins].
+Corollary from proof of XIX.
+
+[del]XXI[/del] [ins]XXII[/ins]. If one graph can be [del]illatively[/del] transformed into another an enclosure maybe written consisting of an oval enclosing the former graph and an oval enclosing nothing but the latter.
+Proof. Let [u]a[/u] [del]and[/del] [ins]and[/ins] [u]b[/u] be the first and second graphs respectively. Then I say that if a [math]\prec[/math] b, we may write [fig]oval enclosing a and another oval enclosing b[/fig].
+For by XX, we can write [fig]oval enclosing a and another oval enclosing a[/fig]
+and by XVI if a [math]\prec[/math] b we can transform [fig]oval enclosing a and another oval enclosing a[/fig] into [fig]oval enclosing a and another oval enclosing b[/fig], so that the latter can in that case be written. Q.E.D.
+
+[del]XXII[/del] [ins]XXIII[/ins]. If a graph is written outside any number of ovals, it makes no difference whether it is written inside of them or not, nor whether it is repeated outside of them.
+Proof. First, [del]To[/del] If a graph is written outside an oval it maybe [del]stated[/del] [ins]if[/ins] written inside that oval. Whatever graphs [u]a[/u] and [u]b[/u] maybe, I say that a [fig]oval enclosing a and b[/fig] [math]\prec[/math] a [fig]oval enclosing b[/fig].
+For ab [math]\prec[/math] ab by I
+and ab [math]\prec[/math] a by XVII
+Hence ab [math]\prec[/math] a ab by III
+Hence a [fig]oval enclosing a and b[/fig] [math]\prec[/math] a [fig]oval enclosing b[/fig] by V and IV. Q.E.D.
+Second. But a [fig]oval enclosing b[/fig] [math]\prec[/math] a [fig]oval enclosing a and b[/fig] by XVII. Hence it makes no difference whether a is written inside the oval, so long as it is written outside.

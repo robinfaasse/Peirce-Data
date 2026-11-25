@@ -1,0 +1,22 @@
+Logic
+III
+83
+
+Consequently, to assert that (x < y) ˅ (y < z) < z is scriptible
+is equivalent to asserting that either x or y or z is scrip-
+tible. We have, thus, proved that [del]to assert either[/del] [ins]each[/ins] of the three forms
+is equivalent to the same assertion.
+
+(85) If [del](x < y)[/del] ([u]x[/u] < [u]y[/u] [del]< z[/del]) < [u]z[/u]) < [u]t[/u] is scriptible, so is [u]x[/u] < ([u]y[/u] < [u]z[/u]) < [u]t[/u].
+(85) [del]The expression ([u]x[/u] < [u]y[/u] < [u]z[/u]) < [u]y[/u] is equivalent to [u]x[/u] < [u]y[/u][/del]
+(85) The expressions ([u]x[/u] < [u]y[/u]) < [u]z[/u]) < [u]z[/u] and [u]x[/u] ˅ ([u]y[/u] < [u]z[/u]) < [u]z[/u] are
+equivalent.
+Proof. I will first prove that if [u]x[/u] ˅ ([u]y[/u] < [u]z[/u]) < [u]z[/u] is scriptible,
+then ([u]x[/u] < [u]y[/u]) < [u]z[/u]) < [u]z[/u] is scriptible. By (82), [del]the for[/del] to assert
+the former is equivalent to asserting that either [u]x[/u] < [u]z[/u] or ([u]y[/u] < [u]z[/u]) < [u]z[/u].
+Consider the first alternative. By (64), either [u]x[/u] is scriptible
+or [u]x[/u] < [u]y[/u] is scriptible. But if [u]x[/u] < [u]z[/u] is scriptible, by (66), if
+[u]x[/u] is scriptible [u]z[/u] is scriptible. Hence, if [u]x[/u] < [u]z[/u] is scriptible
+either [u]x[/u] < [u]y[/u] or [u]z[/u] is scriptible. But by [del](80)[/del] [ins](64)[/ins] in this case,
+([u]x[/u] < [u]y[/u]) < [u]z[/u]) < [u]z[/u] is scriptible. Now consider the second
+alternative. By (65) if [u]y[/u] is scriptible, [u]x[/u] < [u]y[/u] is scriptible.

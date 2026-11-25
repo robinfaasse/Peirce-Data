@@ -1,0 +1,22 @@
+[pn]R[/pn] [pn]21[/pn]
+
+It remains to show that there can only be one such [ins]cardinal[/ins] number. If $M=L$,
+zero is the only cardinal number such that $0+M=M$. For, by a former corollary,
+$N+M>M$ unless $N=0$, and no cardinal number is greater than itself. If $M$ is
+not $L$, then, by theorem V, one of the two numbers $L$ and $M$ is greater than the
+other. Call $L$ the greater. Then, $N+L>L$, unless $N=0$, [del]in which case $N+L=L$.[/del]
+[del]Hence, $N+L>M$ and no number is greater than itself[/del] Hence, there is a number,
+$N$, such that $N+L=M$. But there cannot be two different numbers, $N$ and $N'$,
+such that $N+M=L$ and $N'+M=L$. For by the last theorem one sum would be
+greater than the other. Now no cardinal number is greater than itself.
+
+[u]Definition 3[/u]. The [u]difference[/u] between two cardinal numbers, $L$ and
+$M$, is such a number $N$, that either $N+M=L$ or $N+L=M$. [del]It is said[/del]
+[del]to be the remainder after subtracting the small as subtrahend from the larger, as minuend.[/del]
+
+It is best denoted by the "minus sign" written after the larger of $L$ and $M$
+and before the smaller.
+
+[u]Corollary 1[/u]. $L-M$ is no cardina[ins]l[/ins] number unless $L>M$.
+
+[u]Corollary 2[/u]. If $L>M$, then $(L-M)+M=L$.

@@ -1,0 +1,28 @@
+106
+415
+
+
+since multiplication is invertible for the letters, there will be
+no other letter that multiplied either by or into that letter will
+give [u]i[/u] as the product.  Consequently, if the product of two
+letters is [u]i[/u], each of them is equal to some power of the other.
+[fig]figure[/fig] If, then, two letters, say [u]j[/u] and [u]k[/u], are not powers of one an-
+other, their product cannot be a power of either;  for were [u]j-k[/u]
+== [u]k[/u] [sup][u]q[/u][/sup] , since multiplication is invertible for the letters, we
+should have [u]j[/u] = [u]k[/u][sup][u]p-1[/u][/sup], that is, [u]j[/u] would be a power of [u]k[/u].  If,
+then, there are two series of letters, the letters of each series
+powers of one another, but no two letters of the one and the oth-
+er powers of one another, then there must be a third series of
+which this is true;  but any of these series may consist of a
+single square root of [u]i[/u].  Of the five letters [u]j[/u], [u]k[/u], [u]l[/u], [u]m[/u], [u]n[/u], not
+more than three can be square roots of [u]i[/u].  In the first place,
+all five of the letters [u]j[/u], [u]k[/u], [u]l[/u], [u]m[/u], [u]n[/u] cannot be square roots of
+[u]i[/u].  For if [u]j[/u][sup]2[/sup]=[u]k[/u][sup]2[/sup] == [u]i[/u]  Then [u]jk[/u] must be a different letter
+from either [u]j[/u] or [u]k[/u].  Call it [u]l[/u].  Since then [u]jk[/u]=[u]l[/u], we have
+[u]lk[/u]=[u]jk[/u][sup]2[/sup] = [u]ji[/u]=[u]j[/u]  and [u]jl[/u]=[u]j[/u][sup]2[/sup][u]k[/u]=[u]ik[/u]=[u]k[/u].  Moreover, if [u]l[/u][sup]2[/sup] = [u]i[/u],
+that is, if [u]jkjk[/u]--[u]i[/u], multiplying into [u]k[/u] we have
+[u]kj[/u]=[u]ikj[/u]=[u]j[/u][sup]2[/sup][u]kj[/u]=[u]j[/u][sup]2[/sup][u]kji[/u] = [u]j[/u][sup]2[/sup][u]kjk[/u][sup]2[/sup] = [u]j[/u]([u]jk[/u]-[u]jk[/u]) [u]k[/u] = [u]jl[/u][sup]2[/sup][u]k[/u]=[u]jik[/u] = [u]jk[/u],
+so that [u]kj[/u] = [u]jk[/u] = [u]l[/u]  and [u]lj[/u] = [u]kl[/u][sup]2[/sup] = [u]kj[/u] = [u]k[/u], [u]kl[/u] = [u]k[/u][sup]2[/sup][u]j[/u]--[u]ij[/u]--[u]j[/u].
+
+
+[fig]figure[/fig]

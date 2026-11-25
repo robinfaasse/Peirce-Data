@@ -1,0 +1,29 @@
+In like manner if we take the cube
+[del]$(4+3i)^3$[/del] $(4+3i)^3 = 64 + 3 \cdot 16 \cdot 3i + 3 \cdot 4 \cdot 9i^2 + 27i^3$
+$= 64 + 144i - 108 - 27i$
+$= -44 + 117i$
+
+If the angle be measured, it will be found to be $110^\circ 37'$
+which is 3 times the first.
+
+Thus, we see (presuming this to be exact) that
+when the quotient is raised to the [u]$n^{\text{th}}$[/u] power, the
+angle is multiplied by $n$. That is to say, these
+angular quantities are of the nature of exponents!
+Since the point $i$ (that is, the point for which
+$y=0$, $x=1$) is on the circle at [del]a distance[/del] [ins]an angular[/ins] distance
+of $90^\circ$ from the axis of [del]$Y$[/del] [ins]$Y$[/ins], it follows [del]that[/del] [ins]that[/ins]
+$i^{\theta/90}$
+is [del]for is the affix of[/del] the point on the circle $\theta$
+degrees from the axis of $Y$ [del]measuring[/del] [ins]measuring[/ins] round clockwise.
+
+We can test this for $\theta = 45^\circ$. In that case, the
+hypothenuse (or radius) being 1, the legs (or coordi-
+nates) are both $\frac{1}{\sqrt{2}}$. Accordingly the quantity, which
+should be [del]$\sqrt{i}$[/del] is
+$\frac{1}{\sqrt{2}} + \frac{1}{\sqrt{2}}i$
+
+Squaring
+$(\frac{1}{\sqrt{2}} + \frac{1}{\sqrt{2}}i)^2 = \frac{1}{2}(1+i)^2$
+$= \frac{1}{2}(1+2i+i^2)$
+$= \frac{1}{2}(1+2i-1) = i$.

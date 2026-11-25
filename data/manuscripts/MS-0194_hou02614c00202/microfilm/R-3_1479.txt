@@ -1,0 +1,62 @@
+$$\sin(a+b+c+d)$$
+
+$$\sin(a+b)\cos(c+d)$$
+$$+\cos(a+b)\sin(c+d)$$
+
+$$\sin a\cos b\cos(c+d)$$
+$$+\cos a\sin b\cos(c+d)$$
+$$+\cos a\cos b\sin(c+d)$$
+$$-\sin a\sin b\sin(c+d)$$
+
+$$\sin a\cos b\cos c\cos d$$
+$$-\sin a\cos b\sin c\sin d$$
+$$+\cos a\sin b\cos c\cos d$$
+$$-\cos a\sin b\sin c\sin d$$
+$$+\cos a\cos b\sin c\cos d$$
+$$+\cos a\cos b\cos c\sin d$$
+$$-\sin a\sin b\sin c\cos d$$
+$$-\sin a\sin b\cos c\sin d$$
+
+$$\cos(a+b+c+d)$$
+
+$$\cos(a+b)\cos(c+d)$$
+$$-\sin(a+b)\sin(c+d)$$
+
+$$\cos a\cos b\cos(c+d)$$
+$$-\sin a\sin b\cos(c+d)$$
+$$-\sin a\cos b\sin(c+d)$$
+$$-\cos a\sin b\sin(c+d)$$
+
+$$\cos a\cos b\cos c\cos d$$
+$$-\cos a\cos b\sin c\sin d$$
+$$-\sin a\sin b\cos c\cos d$$
+$$+\sin a\sin b\sin c\sin d$$
+$$-\sin a\cos b\sin c\cos d$$
+$$-\sin a\cos b\cos c\sin d$$
+$$-\cos a\sin b\sin c\cos d$$
+$$-\cos a\sin b\cos c\sin d$$
+
+$$\frac{\sin a\cos d}{\cos c\cos d + \sin c\sin d}$$
+
+$$\frac{ABc + aBc + abC - ABC}{abc - aBC - AbC - ABc} D = 0$$
+
+$$\frac{Abc + aBc + abC - ABC}{abc - aBC - AbC - ABc}$$
+$$\frac{abc - aBC - AbC - ABc}{[del](ABc - aBc - abC - ABC)[/del] d} D = -1$$
+
+$$-pd + qD = 0$$
+$$+qd + pD = -1$$
+
+$$\frac{q}{p} D = d$$
+
+$$\left(\frac{q^2}{p} + p\right) D = -1$$
+$$\left(\frac{p^2+q^2}{p}\right) D = -1$$
+$$D = -\frac{p}{p^2+q^2}$$
+
+$$\cos(D-\alpha)$$
+$$D-\alpha = 180^\circ$$
+$$\alpha = 180^\circ - D$$
+
+$$\frac{ABc - aBc - abC - ABC}{abc - aBC - AbC - ABc} = -d$$
+
+$$\frac{p^2}{(p^2+q^2)^2} + \frac{q^2}{(p^2+q^2)^2} = \frac{1}{p^2+q^2}$$
+$$\frac{p^2+q^2}{(p^2+q^2)^2} = \frac{1}{p^2+q^2}$$

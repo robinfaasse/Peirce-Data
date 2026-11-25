@@ -1,0 +1,23 @@
+[pn]2[/pn]
+Morison's Portage 1899 Feb 24
+
+[fig]Right triangle[/fig] Length of old straight path
+
+[u]$\sqrt{\left(\frac{2RN-N^2}{2r} - \frac{2NN-N^2}{2r}\right)^2 + (R-N)^2}$[/u]
+$= \sqrt{\frac{(R-N)^2 N^2}{r^2} + (R-N)^2} = (R-N)\sqrt{1 + \frac{N^2}{r^2}}$
+$p = \frac{1}{2} \frac{x^2}{y}$
+$r = \frac{[del]\frac{1}{2} x[/del]}{2y} x$
+
+where $\frac{N}{r}$ is rather small
+
+Length new straight path
+$\sqrt{\left\{ \left[ a'' + (b''-e'')N + c''N^2 + e''R [ins]+ e''X[/ins] \right] - \left[ a'' + b''N + c''N^2 \right] \right\}^2 + (R+X-N)^2}$
+$= \sqrt{\left[ -e''N + e''R + e''X \right]^2 + (R-N)^2 + 2(R-N)X + X^2}$
+$= R-N \sqrt{1 + \frac{2X}{R-N} + \frac{X^2}{(R-N)^2} + e''^2 \left( \frac{R-N+X}{R-N} \right)^2}$
+$= (R-N) \sqrt{1 + e''^2 + \frac{2X}{R-N} \left( [del]1 +[/del] 1 + e''^2 \right) + \frac{X^2}{(R-N)^2} (1+e''^2)}$
+$= (R-N) \sqrt{1+e''^2} \sqrt{1 + \frac{2X''}{R-N} \frac{1+2e''^2}{1+e''^2} + \frac{X^2}{(R-N)^2}}$ [fig]Curve[/fig]
+
+At the other end
+Length new straight path
+$\sqrt{\left\{ \left[ a - (b+e)N + cN^2 + e(R+X) \right] - \left[ a - bN + cN^2 \right] \right\}^2 + (R+X-N)^2}$
+$= (R-N)\sqrt{1+e^2} \sqrt{1 + \frac{2X}{R-N} \frac{1+2e^2}{1+e^2} + \frac{X^2}{(R-N)^2}}$

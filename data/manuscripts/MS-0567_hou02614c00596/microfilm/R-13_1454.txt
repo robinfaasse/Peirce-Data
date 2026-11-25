@@ -1,0 +1,22 @@
+$$\Pi_i a_i = (\Pi_i a_i)^2 = \Pi_i a_i a_i = (a_1 a_2 a_3 \text{ etc}) (a_1 a_2 a_3 \text{ etc})$$
+$$= \Pi_i a_i . \Pi_j a_j = \Pi_i \Pi_j a_i a_j$$
+
+$$\Sigma_i a_i = (\Sigma_i a_i)^2 = \Sigma_i a_i a_i = a_1 a_1 + a_2 a_2 + a_3 a_3 + \text{ etc}$$
+$$= (a_1 + a_2 + a_3 + \text{ etc}) (a_1 + a_2 + a_3 + \text{ etc})$$
+$$= \Sigma_i a_i . \Sigma_j a_j = \Sigma_i \Sigma_j a_i a_j .$$
+
+[del]In the case of the[/del]
+The first index may thus remain the same
+or be made different in the different
+factors. The same is obviously true of
+any index, provided all that go before
+it remain unchanged. For instance,
+$$\Pi_i \Sigma_j \Pi_k a_{ijk} = \Pi_i \Sigma_j (\Pi_k a_{ijk})$$
+and since, as we have just seen
+$$\Pi_k a_{ijk} = \Pi_k a_{ijk} a_{ijk} = \Pi_k \Pi_l a_{ijk} a_{ijl}$$
+we have
+[del]$$\Pi_i \Sigma_j \Pi_k a_{ijk} =$$[/del] $$\Pi_i \Sigma_j \Pi_k a_{ijk} a_{ijk} = \Pi_i \Sigma_j \Pi_k \Pi_l a_{ijk} a_{ijl}$$
+The same is also true of any index preceded
+only by others quantified as it is, whether these
+others remain unchanged in the different
+factors or not. Thus,

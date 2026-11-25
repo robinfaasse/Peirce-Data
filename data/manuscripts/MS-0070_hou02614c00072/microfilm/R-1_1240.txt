@@ -1,0 +1,43 @@
+[del]$\Pi_i \Pi_j \sum_k (i+j)_k \frac{\bar{q}_{kk} \cdot q_{ki}}{\bar{s}_k \cdot \bar{s}_j + s_i}$[/del]
+$\Pi_i \Pi_j \Pi_k [(i+j)_k + \bar{s}_{ki}$ Is that needed?
+
+$\Pi_k \sum_i \sum_j (i+j)_k$ Do't need to write $\Sigma_i \Pi_k \Pi_j$ or $\Sigma_i \Sigma_j \Pi_k$? No, it binds not
+$\Pi_i \Pi_j \Pi_k \Pi_u \Pi_w \Pi_y (i+j)_k \cdot (u+y)_w \cdot \bar{s}_\alpha + \bar{s}_\beta + (q_{xi} \cdot q_{au} + \bar{q}_{xi} \cdot \bar{q}_{au}) (q_{xk} \cdot q_{yw} + \bar{q}_{xk} \cdot \bar{q}_{yw})$
+$+ \bar{s}_\gamma (q_{yi} \cdot q_{yu} \cdot q_{bk} \cdot q_{bw} + \bar{q}_{yi} \cdot \bar{q}_{yu} \cdot \bar{q}_{bk} \cdot \bar{q}_{bw})$
+
+[fig]Venn diagram with nested circles containing letters a, b, x[/fig]
+
+[fig]Venn diagram with circles containing letters a, b, x[/fig]
+
+$\begin{array}{c|c c c}
+e & b & d & a & c \\ \hline
+a & c & d & e &
+\end{array}$
+$\begin{array}{c|c c c}
+d & a & c & d \\ \hline
+d & b & e & c
+\end{array}$
+
+$\begin{array}{c c}
+a \rightarrow d \\
+d \rightarrow c \\
+c \rightarrow e
+\end{array}$
+$\begin{array}{c c c c c}
+a & b & c & d & e \\
+b & a & e & d & c \\
+c & e & b & d & a \\
+\underline{d} & \underline{c} & \underline{a} & \underline{d} & \underline{b} \\
+d & b & e & c & a
+\end{array}$
+
+[fig]Venn diagram with nested circles containing letters a, x, d[/fig]
+
+[fig]Venn diagram with nested circles containing letters a, x, d[/fig]
+
+[del]I write to say that I have[/del]
+My [ins]I write to[/ins] reply to your advertisement in today's Herald
+
+Sir:
+
+W. H. S.

@@ -1,0 +1,22 @@
+[pn]Ms 77[/pn] [u]Algebra of the Copula[/u]
+
+Logical quantity has but two values, t the true
+and f the false. But one operation is neces-
+sary, defined as follows:
+$\alpha$. If b is true, $a \prec b$ is true.
+$\beta$. Either a or $a \prec b$ is true.
+$\gamma$. If a and $a \prec b$ are true, b is true.
+This gives the following:
+$f \prec t = t$  $f \prec f = t$  $t \prec t = t$  $t \prec f = f$.
+Any proposition written is supposed to be true.
+In writing propositions parentheses are employed
+to enclose compounds to be treated as single letters
+in combining them with letters or other such com-
+pounds. These may be called [u]clauses[/u]. Parentheses
+ending clauses or propositions are omitted, and
+the clauses they would have included are not
+commonly regarded as such. The last letter of
+a proposition or clause is called its [u]consequent[/u].
+Its other [ins]immediate parts,[/ins] letters or clauses, [del]not enclosed[/del] are
+called [u]antecedents[/u]. Thus in the proposition
+$a \prec [ (b \prec c) \prec d \prec e ] \prec f$

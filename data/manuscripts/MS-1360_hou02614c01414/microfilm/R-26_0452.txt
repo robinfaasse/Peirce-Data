@@ -1,0 +1,59 @@
+[u]This calculation was used before Apr 26.[/u]
+
+To calculate H_g = [ins]+[/ins] \frac{\int M y dx}{\int y^2 dx + \frac{Js}{E_o}} + \frac{hl^2}{8f} \left( 1 - \frac{Js}{E_o \int y^2 dx} \right)
+
+\frac{M}{load} = \frac{\frac{X^2}{2} - x^2}{2} where the origin is in the middle
+
+[marginalia]
+X = \frac{l}{2}
+Y = f
+[/marginalia]
+
+y = \frac{Y}{X^2} \left( X^2 - x^2 \right)
+
+\int M y dx = \frac{load \cdot Y}{2 X^2} \int_{-X}^{+X} \left( \frac{X^2}{2} - x^2 \right) \left( X^2 - x^2 \right) dx = \frac{Y}{2 X^2} \int_{-X}^{+X} \left[ \frac{X^4}{2} - \left( \frac{X^2}{2} + X^2 \right) x^2 + x^4 \right] dx
+
+= \frac{Y}{[del]3[/del] X^2} \left[ \frac{2}{3} [del]X[/del] X^2 - \frac{2}{15} X^2 \right] X \cdot load
+
+= \frac{2}{3} X^3 \frac{Y}{[del]X^2[/del]} \left[ \frac{X^2}{[del]2[/del]} - \frac{1}{5} \right] load
+
+= \frac{1}{12} l^3 f \left[ \frac{l^2}{[del]2[/del]} - \frac{1}{5} \right] load
+
+\int y^2 dx = \int \left( Y^2 - 2 \frac{Y^2}{X^2} x^2 + \frac{Y^4}{X^4} x^4 \right) = [del]2[/del] \left( Y^2 - 2 Y^2 \left( 1 - \frac{2}{3} + \frac{1}{5} \right) \right) X = \frac{8}{15} f^2 l
+
+\frac{\int M y dx}{\int y^2 dx + \frac{Js}{E_o}} = \frac{l^2}{8f} \frac{\frac{1}{12} \left( \frac{l^2}{[del]2[/del]} - \frac{1}{5} \right) load}{\frac{8}{15} + 8 \frac{J}{E_o l^2} \frac{s}{l} \frac{l^2}{64 f^2}} = \frac{l^2}{8f} \frac{\left( \frac{5}{4} - \frac{1}{4} \frac{l^2}{[del]2[/del]} \right) load}{1 + 120 \frac{J}{E_o l^2} \frac{s}{l} \frac{l^2}{64 f^2}}
+
+In this calculation t = 3100 feet l = 2850 feet f = 311.06 feet, (which allows
+for there being no weight on the cable beyond the middle 2850 feet, while
+the whole span is 400 ft.)
+
+\left( \frac{3100}{2850} \right)^2 - \frac{1}{5} = \left( 1 + \frac{1}{11.4} \right)^2 - \frac{1}{5} = 0.8 + \frac{2}{11.4} + \frac{1}{(11.4)^2} + \frac{1}{5.7}
+
+[marginalia]
+J = 3 000 000 in^2 ft^2
+E_o 1500 in^2
+l^2 = 8 122 500 ft^2
+E_o l^2 12 183 750 000 in^2 ft^2
+[/marginalia]
+
+\frac{s}{l} = 1 + \frac{1}{12} \left( \frac{8f}{l} \right)^2 + \frac{2 \cdot Backstay}{l}
+
+\frac{8f}{l} = [ 9.94110 ]
+\left( \frac{8f}{l} \right)^2 \begin{array}{r} 9.88220 \\ 1.07918 \\ \hline 8.80302 \end{array}
+\frac{1}{12} \left( \frac{8f}{l} \right)^2 = .063536
+
+Backstays = 1200 ft
+\frac{2 Backstay}{l} = \frac{24}{28.5} = \begin{array}{r} 1.38021 \\ 1.45484 \\ \hline \bar{1}.92537 \end{array}
+\frac{s}{l} = 1.837730
+
+[marginalia]
+\begin{array}{r} 0.807694675 \\ \hline 17543860 \\ 98313835 \\ 21578354 \end{array}
+12 ) \begin{array}{r} 8252385 \\ \hline 8244 \\ \hline 8385 \\ 8388 \end{array}
+[del]1[/del] - \begin{array}{r} \bar{1}.14790 \\ \bar{1}.96791 \end{array}
+[/marginalia]
+
+[marginalia]
+J = 6.4771213
+E_o l^2 = 10.085781
+\begin{array}{r} 96.391340 \\ 0.084282 \\ 0.11780 \\ \hline 96.77342 \\ 2.07918 \\ \hline 8.85260 \\ 0.02988 \\ 0.02952 \\ \hline 0.0594 \end{array}
+[/marginalia]

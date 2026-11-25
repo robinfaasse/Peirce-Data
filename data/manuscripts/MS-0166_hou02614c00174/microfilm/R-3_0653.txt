@@ -1,0 +1,32 @@
+[pn]137[/pn]
+
+We increase the third column by the second
+
+$$\left| \begin{matrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 2A+B & \frac{7}{5}A+B+\frac{C}{5} \end{matrix} \right| = 0$$
+
+We diminish the third line by $2A+B$ times the second.
+
+$$\left| \begin{matrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & \frac{7}{5}A+B+\frac{C}{5} \end{matrix} \right| = 0$$
+
+This means that
+$$\frac{7}{5}A [del]+ B[/del] + \frac{C}{5} [del]= 0[/del] = 0$$
+and we are at liberty to [del]make[/del] [ins]assume[/ins] any one equation we like
+among $A, B, C$, besides
+$$A\underline{m} + B\underline{d} + C = 0$$
+which we assumed at first. Thus, put $B = 0$. Then
+$$A\underline{m} + C = 0$$
+and
+$$\underline{m} = - \frac{C}{A}$$
+Then
+$$\frac{7}{5}A [del]+ B[/del] + \frac{C}{5} [del]= 0[/del] = 0$$
+becomes
+$$\frac{7}{5}A - \frac{A\underline{m}}{5} = 0 \quad \text{or} \quad \underline{m} = 7.$$
+
+But if we assume $A = 0$
+$$B\underline{d} + C = 0$$
+and
+$$\frac{7}{5}A + B + \frac{C}{5} = 0$$
+becomes
+$$B - \frac{B\underline{d}}{5} = 0 \quad \text{or} \quad \underline{d} = 5$$
+Assuming $C = 0$, we have $A\underline{m} + B\underline{d} = 0$ and $\frac{7}{5}A + B + \frac{C}{5} = 0$ becomes
+$$\frac{7}{5}A - A\frac{\underline{m}}{\underline{d}} = 0 \quad \text{or} \quad \underline{m}:\underline{d} :: 7:5.$$

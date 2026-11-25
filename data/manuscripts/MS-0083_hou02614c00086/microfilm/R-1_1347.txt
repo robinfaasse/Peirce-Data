@@ -1,0 +1,35 @@
+[pn]1[/pn]
+
+[u]INDEX TO[/u]
+"SUBSTITUTIONS"
+
+[u]Function simplifiée[/u] p 4
+[u]Fonction reductible[/u] p 5 (Or when only factors are constants and multiples of the function)
+[u]Equation[/u] $\equiv C \pmod p$ has the same number of roots (equal or not) as the number of linear factors [del]its resolution is discussed, p 6[/del] [ins]and its resolution is discussed, p 6[/ins]
+
+[del]If $x^{p-1} \equiv 1 \pmod p$ is satisfied by $x$ then $x$ is of the same[/del] [ins]Corollary $x^{d} - 1 \equiv 0 \pmod p$ has $d$ roots if $d$ is divisible by $p-1$.[/ins] [del]primitive root[/del] [ins]Primitive root[/ins] defined p 9
+$x^d \equiv a \pmod p$
+[del]when[/del] the binomial congruence $x^d \equiv y^d \pmod p$
+if $y$ is a primitive root of $x^{p-1} \equiv c \pmod p$ then $x \equiv y^z$
+$x \equiv y^{\frac{p-1}{d} z}$, have the same congruence shall be $y^{d z} \equiv y^z \equiv 0$
+We must therefore have $rz \equiv z \pmod{p-1}$ See N 2.
+$x$ must be divisible by $\frac{p-1}{d}$ [del]if it be so then call[/del]
+[del]it a common of $r$ and $p-1$ equal that of $d$.[/del]
+
+[u]Quadratic residue[/u] p 13
+
+[u]Book II. Of Substitutions[/u]
+
+Def of substitution, cycle, circular, unity p 21
+
+[del]The representation, degree, order, improper, degree[/del]
+[del]of groups, similar, similar substitutions,[/del]
+[del]order of substitution[/del] N 22
+If $A$ is of order $mn$ that of $A^m$ is $n$, p 22
+[del]La transformée de $A$ par $B$ is $B A B^{-1}$ or as, Poisson[/del] [ins]p 24[/ins]
+$A B A B^{-1}$. Def of semblables, To transform (abc)(de)(fgh) into
+(ba)(df)(eg), one way is by (abc)(de)(fgh) another by (ad)(be)(cfg), another by (adegf)(b...) (ad)(be)(cfg)
+
+no product
+of its substitutions of each of which by a certain [del]one[/del] of the substitutions of the first of the two containing groups (calling either the "first", but constantly the same one) equals any product of into any substitution of the other, or the two containing groups is a multiple of the product of the orders of these two containing groups, considering zero as such a multiple. This is proved by showing that it follows immediately from the hypothesis that if there is any such substitution in the containing group then every product of this [del]one[/del] [ins]sub-[/ins] by any substitution of the first group and into any substitution of the second sub-group is itself a substitution of the containing group having the same property and that all such are distinct, and further showing in the same direct manner that if there is any besides these any other such group, there is the same number additional, and all distinct from one another and from those that went before, and so on, until the [del]group[/del] is exhausted.
+A corollary is that if the subgroups have no pair of similar substitutions, the product of their orders divides the order of the whole. The second lemma is that there is a group of any degree k and of the order of the highest power of any prime number [del]or of any product of[/del] [ins]which divides k![/ins] But perhaps it will be better to state this thus: Taking any [del]prime[/del] [ins]power[/ins] [del]number[/del] [ins]of any prime number, say $p^s$[/ins] [del]and any power of it as the highest power of that prime number, say $p^s$[/del] such that $p^s$ [del]divides $k!$ then there is a group of degree k and of order $p^s$. If $s=0$[/del] [ins]divides $k!$[/ins] the proposition manifestly holds. Taking any prime p and any whole number k there is a group of degree k whose order is $p^s$ this being the highest power of p which divides k! If $k < p$, $s = 0$, and the proposition is manifestly true, the group being [del]1[/del] [ins](1)[/ins]. Taking any power of a prime $p^s$ and that k such that k! is a multiple of $p^s$ but not of $p^{s+1}$ there is a Group of degree k and order $p^s$.

@@ -1,0 +1,45 @@
+[pn]QE[/pn] [pn]5[/pn]
+
+To test this, we multiply .774597 by itself
+
+1  774597
+2 1549194
+3 2323791
+4 3098388
+5 3872985
+6 4647582
+7 5422179
+8 6196776
+9 6971373
+  774597
+
+774597
+.5422179
+  5422179
+  3098388
+   3872985
+    6971373
+     5422179
+.60,0,0005³
+
+For most purposes, it is sufficient to put
+[u]√1 - [fraction]4AC/B²[/fraction][/u] = 1 - 2 [fraction]AC/B²[/fraction] - 2 [fraction](AC)²/B⁴[/fraction] - 4 [fraction](AC)³/B⁶[/fraction]
+
+Hence the two roots are
+x = - [fraction]B/2A[/fraction] (1 + [u]√1 - [fraction]4AC/B²[/fraction][/u]) = - [fraction]B/A[/fraction] + [fraction]C/B[/fraction] + [fraction]AC²/B³[/fraction] + 2 [fraction]A²C³/B⁵[/fraction]
+x = - [fraction]B/2A[/fraction] (1 - [u]√1 - [fraction]4AC/B²[/fraction][/u]) = - [fraction]C/B[/fraction] - [fraction]AC²/B³[/fraction] - 2 [fraction]A²C³/B⁵[/fraction]
+
+For example, take the equation [del]x² - 10x + 1 = 0[/del] [del]x² - 10x + 1 = 0[/del] [ins]x² - 10x + 1 = 0[/ins]
+A = 1 B = -10 C = +1 , Then, the roots are nearly [ins]" [fraction]980/99[/fraction][/ins]
+
+x = 5(1 + √.96) = [del]10 - [fraction]1/10[/fraction] - [fraction]1/1000[/fraction] - [fraction]2/100000[/fraction][/del] + 10 - [fraction]1/10[/fraction] - [fraction]1/1000[/fraction] - [fraction]2/100000[/fraction] = 9.89898 [del]= 49.4949[/del]
+x = 5(1 - √.96) = [fraction]1/10[/fraction] + [fraction]1/1000[/fraction] + [fraction]2/100000[/fraction] = 0.10102 [del]= .5051[/del]
+
+[del]40402[/del]
+[del]10102[/del]
+[del]20204[/del]
+[del]1.0205[/del]
+
+([fraction]980/99[/fraction])² - 10 ([fraction]980/99[/fraction]) + 1 = [fraction]1/(99)²[/fraction] = [fraction]1/9801[/fraction]
+
+1 + (.10102)² = .010205

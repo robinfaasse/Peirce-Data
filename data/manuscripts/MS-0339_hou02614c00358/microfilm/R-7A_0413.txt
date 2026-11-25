@@ -1,0 +1,40 @@
+[marginalia]
+[date]DEC 10 1901[/date]
+[date]DEC 16 1901[/date]
+[/marginalia]
+
+Starting with
+(1) If $q$, then $p \prec q$
+(2) Either $p \prec m$ or $m \prec n$
+(3) If $s$ and $s \prec t$, then $t$
+
+We get from (1) alone
+(4) If $q$ then $r \prec p \prec q$ etc
+
+From (2) alone
+(5) Either $(l \prec m)$ or $(l \prec m) \prec n$
+
+From (3) alone
+(6) If $a \prec b$ and $(a \prec b) \prec c \prec d$ then $c \prec d$
+[del](7) If $a$ and [del]not ($b \prec c$)[/del] and $b$[/del]
+(7) If $a$ and $b$ [ins]and $a \prec b \prec c$[/ins] then $c$
+(8) If $(a \prec b)$ and [del]($b \prec c$)[/del] [ins]and $(a \prec b) \prec (b \prec c)$[/ins] then $(b \prec c)$
+(9) If [del]($a \prec b$)[/del] and $(b \prec c)$ and $(a \prec b) \prec (b \prec c) \prec a \prec c$ then $a \prec c$
+
+From (1) and (2)
+[del]By[/del] Putting $q = m$
+If $q$ then $p \prec q$
+Either $q$ or $q \prec n$
+(10) $\therefore$ Either $p \prec q$ or $q \prec n$
+
+[del]Put $n = p$[/del]
+(11) $\therefore$ Either $p \prec q$ or $q \prec p$
+
+[del]Put $n = p = q$[/del]
+(12) $\therefore$ $p \prec p$
+
+Put $q = (m \prec n)$
+(13) Either $m \prec n$ or $p \prec m \prec n$
+(14) $p \prec (m \prec m) \prec n$
+(15) $p \prec q \prec q$
+[del](16) $\therefore$ $p \prec q \prec q$[/del]

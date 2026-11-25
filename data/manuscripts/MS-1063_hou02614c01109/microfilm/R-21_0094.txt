@@ -1,0 +1,35 @@
+```
+[fig]Upside down page containing mathematical derivations and equations.[/fig]
+
+But [u]$\frac{w}{\sqrt{w^2+x^2}} = \cos \theta$[/u]
+$w dy - x dw$
+$= \left(\frac{w}{\sqrt{x^2+w^2}}\right) \frac{x}{\sqrt{w^2+x^2}} dx - \left(\frac{x}{\sqrt{w^2+x^2}}\right) \frac{w}{\sqrt{w^2+x^2}} dw$
+$= \left(\frac{xw}{x^2+w^2}\right) (\cos \theta d\sin \theta - \sin \theta d\cos \theta)$
+
+$\sin d\cos - \cos d\sin = -\sin^2 - \cos^2$
+
+$d \frac{y}{x} = \frac{dy \cdot x - dx \cdot y}{x^2}$
+$d \frac{y}{x} = \frac{dy}{x} - \frac{y}{x^2} dx$
+$x y d \frac{y}{x} = x dy - y dx$
+
+$w + x + y + z = \omega$
+$w - x - y + z = \xi$
+$w + x - y - z = \eta$
+$w - x + y - z = \zeta$
+
+$\omega^2 = w^2 + x^2 + y^2 + z^2 + 2wx + 2wy + 2wz + 2xy + 2xz + 2yz$
+$\xi^2 = w^2 + x^2 + y^2 + z^2 - 2wx - 2wy + 2wz + 2xy - 2xz - 2yz$
+$\eta^2 = w^2 + x^2 + y^2 + z^2 + 2wx - 2wy - 2wz - 2xy - 2xz + 2yz$
+$\zeta^2 = w^2 + x^2 + y^2 + z^2 - 2wx + 2wy - 2wz - 2xy + 2xz - 2yz$
+
+$\omega^2 + \xi^2 + \eta^2 + \zeta^2 = 4(w^2 + x^2 + y^2 + z^2)$
+
+$w^2 + x^2 + y^2 + z^2 = d^2$
+
+$w dw + x dx + y dy + z dz$
+$\frac{1}{2} dw^2 + \frac{1}{2} dx^2 + \frac{1}{2} dy^2 + \frac{1}{2} dz^2$
+$- x dw + w dx + z dy - y dz$
+
+$d \frac{y}{x} = \frac{x dy - y dx}{x^2}$
+$d \frac{w}{x} = \frac{x dw - w dx}{x^2}$
+```

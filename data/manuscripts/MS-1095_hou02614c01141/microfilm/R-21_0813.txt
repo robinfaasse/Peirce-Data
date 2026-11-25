@@ -1,0 +1,19 @@
+We divide this equation by $(l_1-h_1)(l_2-h_2)$, and
+then use the following abbreviations,
+
+$\frac{g}{l_1-h_1} = \kappa_1$, $\frac{g}{l_2-h_2} = \kappa_2$,
+
+$\frac{l_1}{l_1-h_1} = \lambda_1$, $\frac{l_2}{l_2-h_2} = \lambda_2$,
+
+$\frac{\varepsilon_1}{M_1} = E_1$, $\frac{\varepsilon_2}{M_2} = E_2$, $\frac{\varepsilon_3^2}{M_1 M_2} = E_3^2$,
+
+[del]$E_1 = E_1 \lambda_1 + \kappa_1$[/del]
+
+$E_1 \lambda_1 + \kappa_1 = F_1$  $E_2 \lambda_2 + \kappa_2 = F_2$
+
+$a_1 = \frac{1}{2} F_1 + \frac{1}{2} \sqrt{F_1^2 - 4 E_1 (l_1-h_1)}$  $a_2 = \frac{1}{2} E_2 + \frac{1}{2} \sqrt{F_2^2 - 4 E_2 (l_2-h_2)}$
+$b_1 = \frac{1}{2} F_1 - \frac{1}{2} \sqrt{F_1^2 - 4 E_1 (l_1-h_1)}$  $b_2 = \frac{1}{2} F_2 - \frac{1}{2} \sqrt{F_2^2 - 4 E_2 (l_2-h_2)}$
+
+The equation thus is written
+$D^8 + (F_1 + F_2) D^6 + (F_1 F_2 + \kappa_1 E_1 + \kappa_2 E_2 - \lambda_1 \lambda_2 E_3^2) D^4$
+$+ (\kappa_1 E_1 F_2 + \kappa_2 E_2 F_1 - \lambda_1 \kappa_2 E_3^2 - \lambda_2 \kappa_1 E_3^2) D^2 + (\kappa_1 \kappa_2 (E_1 E_2 - E_3^2) = 0$

@@ -1,0 +1,30 @@
+Then the census-number of the points of junction is
+[u]$C_J = X_P$[/u].
+The census-number of the map is
+[u]$C_R - C_B + C_P$[/u]
+and the theorem is
+[u]$C = C_R - C_B + C_P$[/u]
+or
+$X - K + \Pi = X_R - X_B + X_P - K_R + K_B + \Pi_R$.
+
+§2. Let us determine how many regions, at most,
+can all be confine to one another on a given surface.
+In this case, $X = 1$, and
+$X_B = \frac{1}{2} X_R (X_R - 1)$.
+The largest [ins]possible[/ins] value of $X_P$ will be obtained for a given value
+of $X_R$ is $\frac{1}{3} X_R (X_R - 1)$ if this is a whole number. If $x$ is
+a whole number, [del]as yet[/del] [ins]as yet[/ins] indeterminate, we may
+write
+$X_P = \frac{1}{3} [X_R (X_R - 1) - \underline{x}]$.
+Substituting these values, the census-theorem gives
+$1 - K + \Pi = X_R - \frac{1}{6} X_R (X_R - 1) - \frac{1}{3} \underline{x} - K_R + K_B + \Pi_R$.
+Solving this for $X_R$, we have for the largest root
+$X_R = \frac{1}{2} [7 + \sqrt{24(K - K_R + K_B - \Pi + \Pi_R) - 8 \underline{x} + 25}]$.
+It is evident that, in order to make $X_R$ as large as possible
+we must take for $\underline{x}$ the smallest whole number which
+will make the quantity under the radical sign a perfect
+square. For example, if the surface on which the map is
+drawn is spheroidal, we have
+$K = 0$, $\Pi = 1$, $\Pi_R = 0$; and assuming $K_B = 0$, we ought to
+[del]put $K_B = 0$, $\underline{x} = 0$, and[/del]
+$X_R = \frac{1}{2} [7 + [del]\sqrt{24 + 25}[/del] \sqrt{-1 + 25}] = 4$.

@@ -1,0 +1,30 @@
+1909 Feb 16 341r
+Studies of Modal, Temporal, and Other Logical Forms
+which relate to Special Universes.
+
+The basis of logic must [del]be[/del] regard the Universe of Discourse
+as [del]an[/del] individual. The Boolean algebra of Logic [ins]so[/ins] regards it.
+Hence Boole thought it sufficient to adopt the fundamental quadratic
+x(x - 1) = 0 which is a special form of (x - V)(x - [del]V[/del][ins]F[/ins]) = 0 where V is [del]that[/del]
+[del]the[/del] the [u]value[/u] of any true proposition, and F that of any false propo-
+sition, and this again is x² - [del]F[/del][ins]E[/ins](V + F)x + VF = 0 [ins]or [frac]x/V[/frac] + [frac]x/F[/frac] = 1[/ins] [del]which is a speciali-[/del]
+[del]zation of[/del] for (x - V)(x - F) = 0 divided by FV gives ([frac]x/V[/frac] - 1)([frac]x/F[/frac] - 1) = [frac]0/VF[/frac] or
+[frac]x/V[/frac] · [frac]x/F[/frac] - [frac]x/V[/frac] - [frac]x/F[/frac] + 1 = 0 Now [frac]x/V[/frac] · [frac]x/F[/frac] = 0
+
+Now if we put x̄ for the negation of x and let Φ(x, y) be such a
+function of x and y that Φ(V, V) = V Φ(V, F) = Φ(F, V) = F Φ(F, F) = F
+[del]so that Φ(V, z) = (V, z)[/del] [del]Φ(V, z) = z and[/del] Φ(x, F) = F
+Then the system of values being V and F only and [del]Φ[/del] ψ being such a
+function that [del]ΦΦ[/del]. ψ(V, V) = V ψ(V, F) = ψ(F, V) = V ψ(F, F) = F
+[del]so that ψ(V, x) = V and ψ(x, F) = x[/del]
+so that Then [del]any other function as[/del] Xₓ = ψ{[Phi][(xV), x], [Phi][(xF), x̄]}
+[del]Xₓ = ψ{[Phi][(xV), x], [Phi][(xF), x̄]}[/del]
+For either Xₓ = V or Xₓ = F
+and either x = V or x = F
+[del]If x = V ψ[Phi][(xF) F = F[/del]
+[del]and ψ[[Phi](V, x)], Φ[/del]
+If x = V Φ[(xV), x] = (VV) and Φ[(xF), x̄] = F
+and ψ{[Phi][(xV), x], Φ[(xF), x̄]} = ψ[(XV), F] = [del]x[/del](XV) = X_v
+while if x = F Φ[(xV), x] = F and Φ[(xF), x̄] = (XF)
+and ψ{[Phi][(xV), x], Φ[(xF), x̄]} = ψ{F, (XF)} = (XF) = X_f
+Thus the development holds in any case.

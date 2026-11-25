@@ -1,0 +1,33 @@
+by $2$ and diminish one by $2$; and we repeat this operation
+in successive terms of the coefficients upon the same indices until
+they it cannot be performed again without deranging the order of the
+indices. We then go back to the term resulting from the first such
+operation and increase [del]one of[/del] its smallest indices by [del]1[/del] [ins]$1$[/ins] while
+decreasing its largest by $2$; and so on. For example, to form
+the coefficient of $B^{n+10}$ [del]the[/del] we first take $\alpha_1^{n-1}\alpha_{11}$. There are
+[del]$n$ different arrangements of the factors, that is, $n$ arrangements[/del]
+[del]that show as different, namely[/del]
+$$\alpha_{11}\alpha_1^{n-1}$$
+$$\alpha_1\alpha_{11}\alpha_1^{n-2}$$
+$$\alpha_1^2\alpha_{11}\alpha_1^{n-3}$$
+etc.
+Hence the first term is $n\alpha_1^{n-1}\alpha_{11}$. The next contains the factors $\alpha_1, \alpha_3, \alpha_9$
+There are $(n-1)$ places in which the $\alpha_3$ may be inserted among the $\alpha_1$s and
+$n$ places in which the $\alpha_9$ may be inserted among the $\alpha_1$s and the $\alpha_3$.
+Hence this term is $n(n-1)\alpha_1^{n-2}\alpha_3\alpha_9$. The next, on the same principle
+is $n(n-1)\alpha_1^{n-2}\alpha_5\alpha_7$. We cannot repeat the operation without
+deranging the order of the indices. We therefore return to $\alpha_1^{n-2}\alpha_3\alpha_9$
+and increasing the index of one $\alpha_1$ and diminishing that of $\alpha_9$, we
+get $\alpha_1^{n-3}\alpha_3^2\alpha_9$. There are $(n-2)$ places in which one $\alpha_3$ may be
+put among the $n-3$ factors $\alpha_1$ and $(n-1)$ places in which the other
+$\alpha_3$ may be put among the $\alpha_1$s and the first $\alpha_3$. But since the two
+$\alpha_3$s are indistinguishable each of these [del]$\frac{(n-1)(n-2)}{2}$[/del] arrangements are
+indistinguishable; so that there are only [del]$\frac{n(n-1)}{2}$[/del] $\frac{(n-1)(n-2)}{2}$ distinguishable
+arrangements. Finally there are $n$ places into which $\alpha_9$ may be placed.
+Hence the term is $\frac{n(n-1)(n-2)}{2}\alpha_1^{n-3}\alpha_3^2\alpha_9$. The next is $n(n-1)(n-2)\alpha_1^{n-3}\alpha_3\alpha_5\alpha_7$
+This operation cannot be repeated without deranging the order of the
+indices. We therefore return to $\alpha_1^{n-3}\alpha_3^2\alpha_9$ and increasing the
+index of an $\alpha_1$ and diminishing that of $\alpha_9$ we get $\alpha_1^{n-4}\alpha_3^3\alpha_9$.
+The term is $\frac{n(n-1)(n-2)(n-3)}{3!}\alpha_1^{n-4}\alpha_3^3\alpha_9$. The next is $\frac{n(n-1)(n-2)(n-3)}{2\cdot 2}\alpha_1^{n-4}\alpha_3^2\alpha_5^2$
+Returning to $\alpha_1^{n-4}\alpha_3^3\alpha_9$, we next get $\alpha_1^{n-5}\alpha_3^4\alpha_5$. The term is
+$\frac{n(n-1)(n-2)(n-3)(n-4)}{4!}\alpha_1^{n-5}\alpha_3^4\alpha_5$ The next combination is $\alpha_1^{n-6}\alpha_3^6$. The term

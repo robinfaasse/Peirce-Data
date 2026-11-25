@@ -1,0 +1,23 @@
+of $\{M_{i} - M_{i+1}\}$ by $\delta$ and $\delta^{-1}$ or the weight of
+$\{M_{i} - M_{i+1}\}$ by $Q$. [del]Combine[/del] [ins]Add[/ins] $\{M_{i} - M_{i+1}\}$ [del]with[/del] [ins]and[/ins] $(M_{i+1} - M_{i+2})$
+and we have for the error square of the sum $\delta + 1$
+and for its weight $\frac{1}{\delta + 1}$. This will afford a value of
+$M_{i+1} - M_{i}$. Combine this value with $(M_{i-1} - M_{i})$ and
+we shall have
+$$\{M_{i-1} - M_{i}\} = \frac{(M_{i-1} - M_{i}) + \frac{1}{\delta + 1} \{M_{i-1} - M_{i+1}\} - \frac{1}{\delta + 1} \{M_{i} - M_{i+1}\}}{1 + \frac{1}{\delta + 1}}$$
+
+But if the series is infinite (that is, if $n = \infty$) the weight
+of $\{M_{i-1} - M_{i}\}$ or $1 + \frac{1}{\delta + 1}$ is the same as the weight of
+$\{M_{i} - M_{i+1}\}$ or $\frac{1}{\delta}$ and if $n$ is only moderately great
+say [del]$\ge 5$[/del] this is sensibly the case. We may therefore
+write for an approximation
+$$\frac{1}{\delta} = 1 + \frac{1}{\delta + 1}$$
+$$\delta + 1 = \delta(\delta + 1) + \delta$$
+$$\delta(\delta + 1) = 1$$
+$$\delta = \frac{1}{2}(\sqrt{5} - 1)$$
+
+This number has a property which it will be convenient
+to make use of. For since
+$$\frac{1}{\delta} = \delta + 1 \text{ or } Q = 1 + Q^{-1}$$
+we have
+$$Q^{n+1} = Q^{n} + Q^{n-1}$$

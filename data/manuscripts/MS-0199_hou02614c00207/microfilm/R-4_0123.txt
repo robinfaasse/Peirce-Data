@@ -1,0 +1,24 @@
+[marginalia]
+[pn]M.11[/pn]
+[pn]D; 63[/pn]
+[/marginalia]
+
+[u]$x = -y + 11$[/u], since the table shows that the lesser root is somewhat
+less that [u]$11$[/u]. Then we shall transform the equation $x^{10} - 101x + 101 = 0$
+by substituting $x = -y + 11$, as follows:
+
+$$\begin{array}{r c l}
+x^{10} & = & y^{10} - 11y + 1001 \\
+-101x & = & \phantom{y^{10}} + 101y - 1111 \\
++101 & & \phantom{+101y} + 101 \\
+\hline
+0 & = & y^{10} + 10y - \phantom{0}001
+\end{array}$$
+
+or [u]$1$[/u] $= (y^{10} + 10y) \times 100$
+
+Now in regard to the two arbitrary substitutes for $y$ [ins]and $y$,[/ins]
+although there is a slight, [del]— a very slight,[/del] [ins]in almost every case,[/ins] advantage in making [del]all such[/del]
+[ins]those[/ins] numbers [del]D[/del] [del]easy[/del] [ins]all 0's,[/ins] except the last, which is best made 1, yet for
+the sake of [del]giving[/del] [ins]imparting[/ins] a little stronger chiaroscuro to the exhibition of a
+certain relation to which the reader's attention will shortly be drawn,

@@ -1,0 +1,42 @@
+There is thus no doubt the totient of zero is
+zero.
+But the totient of $a^{\alpha}\cdot b^{\beta}\cdot c^{\gamma}$ etc where $a, b,$
+$c,$ etc are the prime factors of $a^{\alpha}\cdot b^{\beta}\cdot c^{\gamma}$ is
+$a^{\alpha-1}(a-1)\cdot b^{\beta-1}(b-1)\cdot c^{\gamma-1}(c-1)$ etc. Since
+the only factor of $0$ is $0,$ if its exponent is $1$
+the totient is $0^{0}(1-1) = 0$ & if the exponent
+is $N,$ the totient is $0^{N}(N-1) = 0.$ In any case
+the totient of $0$ is $0.$
+
+We must therefore make $0$ a prime factor
+of itself and [del]therefore[/del] since
+[u]A prime factor of a cardinal number is
+a prime number that is a factor of it,[/u]
+one must define a prime number thus
+[u]A prime number is a number to which
+every number but its own multiples is
+prime.[/u]
+
+It is commonly said that the number of
+divisors of a number is the product of the
+exponents of its prime factors after each
+exponent has been increased by $1.$ Thus
+$12 = 2^{2}\cdot 3^{1}\cdot 5^{0}\cdot 7^{0}\cdot$ etc. and $(2+1)(1+1)(0+1)\text{etc} = 6$
+and the $6$ divisors of $12$ are $1, 2, 3, 4, 6, 12$
+So $1 = 2^{0}\cdot 3^{0}\cdot 5^{0}\cdot 7^{0}$ and $(0+1)^{0+1}\text{etc} = 1$ and
+$1$ is the only divisor of $1.$ But to make this hold
+for $0,$ we must either regard zero as $0^{\infty}$ or else
+as $2^{-\infty}\cdot 3^{-\infty}\cdot 5^{-\infty}\cdot 7^{-\infty},$ etc. Either view would
+
+make the totient of zero, zero. Either view
+would require the wording of the present
+rule to be slightly changed in one or another
+way.
+
+It is commonly said that $(N-1)! + 1$ is divi-
+sible by $N$ if $N$ is prime, but otherwise is not.
+Thus $6! = 720$ and $721$ is divisible by $7.$
+But $5! = 120$ and $121$ is not divisible by $6.$
+$0! = 1$ and $2$ is divisible by $1;$ so that this
+makes $1$ prime. But $(-1)! = \infty$ and
+$0$ is not a divisor of $\infty.$

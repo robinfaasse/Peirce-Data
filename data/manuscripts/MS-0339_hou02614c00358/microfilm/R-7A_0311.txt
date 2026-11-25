@@ -1,0 +1,34 @@
+[pn]116r[/pn]
+
+[del]XV. If an enclosure consisting of an oval containing a graph is transfor-
+mable into an enclosure consisting of an oval containing a second
+graph, the second graph is transformable into the first.[/del]
+
+[del]Proof. Let A and B be the first and second graphs, respectively.[/del]
+[del]Let[/del] [fig]graph A inside oval[/fig] [del]~[/del] [fig]graph B inside oval[/fig]
+[del]Then by V[/del] [fig]graph B inside oval[/fig] [del]~[/del] [fig]graph A inside oval[/fig]
+[del]∴ by VI[/del] [del]B[/del] [del]~[/del] [fig]graph A inside oval[/fig]
+[del]∴ by XIV[/del] [del]B ~ A[/del]     [del]Q.E.D.[/del]
+
+XVI. If one graph, [del]is trans[/del] when unenclosed [ins]and alone is[/ins] transformable into a second,
+it is so transformable wherever it is evenly enclosed, and the second is
+transformable into the first wherever it is oddly enclosed.
+
+[u]Proof[/u] Let [u]a[/u] and [u]b[/u] be the first and second graphs respectively; so that
+a ~ b.
+Then, by IV, whatever graph [u]c[/u] may be
+ac ~ bc
+∴ by V, [fig]graph bc inside oval[/fig] ~ [fig]graph ac inside oval[/fig]
+∴ by IV, whatever graph [u]d[/u] may be [fig]graph bc inside oval[/fig] [u]d[/u] ~ [fig]graph ac inside oval[/fig] [u]d[/u],
+∴ by V [fig]graph ac inside oval and graph d inside oval[/fig] ~ [fig]graph bc inside oval and graph d inside oval[/fig]
+∴ by IV, whatever graph [u]c[/u][sub]2[/sub] may be [fig]graph ac inside oval and graph c2 inside oval[/fig] ~ [fig]graph bc inside oval and graph c2 inside oval[/fig].
+Now suppose it were proved that [del]if[/del] [ins]n being a certain whole number[/ins] [del]any graph, when unenclosed and alone,
+were transformable into a second it would necessarily be so transformable[/del]
+[ins]everywhere[/ins] within an even number of ovals not exceeding 2n, then let [u]a[/u][sub]n[/sub] be any
+graph containing [u]a[/u] enclosed within 2n ovals, and let [u]b[/u][sub]n[/sub] be the graph
+resulting from the transformation in [u]a[/u][sub]n[/sub] of [u]a[/u] into [u]b[/u]. Then [del]a[/del][sub]n[/sub] ~ [del]b[/del][sub]n[/sub]
+and as above [fig]graph an inside oval and graph cn+1 inside oval[/fig] c[sub]n+2[/sub] ~ [fig]graph bn inside oval and graph cn+1 inside oval[/fig] c[sub]n+2[/sub]. That is, the [del]pro[/del]
+proposition is true of n+1. But we have proved it is true if n=0
+[del]Hence, it is true whatever whole number n may be. Moreover, whatever[/del]
+[del]whole number n may be, if a ~ b, then[/del] [fig]graph bn inside oval[/fig] c[sub]n+1[/sub] ~ [fig]graph an inside oval[/fig] c[sub]n+1[/sub]. [del]That is,[/del]
+[del]the second transformation may be made under any odd number of ovals.[/del]

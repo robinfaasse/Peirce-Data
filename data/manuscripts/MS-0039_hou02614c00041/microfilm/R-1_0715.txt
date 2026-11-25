@@ -1,0 +1,24 @@
+that there is a number all whose hereditary
+characters are possessed by all numbers,
+or
+$$\Sigma_i \Pi_\alpha \Pi_l (\bar{q}_{\alpha i} + \bar{h}_\alpha + q_{\alpha l})$$
+
+It is usual and useful to say that a number which
+possesses all the hereditary characters of another
+is [u]at least as great as[/u] that other. We may write
+$g_{il}$ to signify that $l$ is at least as great as $i$,
+so that
+$$g_{il} = \Pi_\alpha (\bar{q}_{\alpha i} + \bar{h}_\alpha + q_{\alpha l}).$$
+
+The first proposition is thus expressed by saying
+[del]that[/del] there is a number that all numbers are
+at least as great as, or
+
+$$\Sigma_i \Pi_l g_{il}.$$
+
+A number that all numbers are at least as great
+as is called [u]one[/u]. We may write $U_i$ to signify that
+$i$ is one, so that
+$$U_i = \Pi_l g_{il}.$$
+
+Then the first proposition is that there is a one or

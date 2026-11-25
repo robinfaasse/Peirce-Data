@@ -1,0 +1,24 @@
+[marginalia]
+[pn]Logic[/pn]
+[u]III[/u]
+69
+[/marginalia]
+
+lytical equivalents are [del]to[/del] [ins]be[/ins] written. For example, assuming
+that [del]x[/del] [ins]$(x \prec y)$[/ins] and $(y \prec z)$ are scriptable, we shall find
+that $x \prec z$ is necessarily scriptable. Hence,
+$(x \prec y) \prec ( (y \prec z) \prec x \prec z$
+whatever expressions $x$, $y$ and $z$ may be.
+
+[u]Proof[/u]. It has already been proved that the proposition
+is true when there is only one dragon's head. It will, there-
+fore, now be sufficient to prove that, supposing it holds
+[del]for[/del] in every case when the number of dragon's heads
+is less than any [ins]given[/ins] [del]finite[/del] number $n$, then it also
+holds when the number of dragon's head is not more
+than $n$. Suppose then, that the proposition is known
+to be true [ins]whenever[/ins] [del]when[/del] the number of dragon's heads is less
+than $n$. And suppose, further, that [del]we have that[/del] [ins]assuming[/ins]
+$\Omega_1, \Omega_2, \Omega_3, \dots \Omega_n$ to be all scriptible, it follows
+from A, B, C, and from the scriptibility, definiteness,
+and individuality of $V$, that $V$ is scriptible. Then,

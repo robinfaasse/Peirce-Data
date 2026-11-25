@@ -1,0 +1,33 @@
+[pn]20[/pn] = 19 + 1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+18 + 1
+2
+3
+4
+5
+6
+7
+8
+10 - 9
+
+[u]20[/u]
+
+$u_{x+1, y+1} = u_{x+1, y} + u_{x, y+1}$
+
+$E_y \Delta_x u = E_x y$
+
+$u \xrightarrow{E_x - 1} \Delta_x \Delta_y u_{x,y} = u_{x,y}$
+$\Delta_x u_{x,y} = u_{x,y}$
+
+$a E = (a+1) \phi y + \Phi(y-1) + \Phi(y-2) + \Phi(y-3)$
+$E = (1 + \frac{1}{a})$
+$u_{x,y} = (1 + \Sigma_y) \Phi y$

@@ -1,0 +1,14 @@
+$$\sum a_i = F_1 + F_2$$
+$$\sum a_i a_j = F_1 F_2 + E_1 \kappa_1 + E_2 \kappa_2 = (\eta + E_3^2) \lambda_1 \lambda_2 + E_1 \lambda_1 \kappa_2 + E_2 \lambda_2 \kappa_1 + \kappa_1 \kappa_2$$
+$$\sum a_i a_j a_k = (\eta + E_3^2) (\lambda_1 \kappa_2 + \lambda_2 \kappa_1) + (E_1 + E_2) \kappa_1 \kappa_2$$
+$$\sum a_i a_j a_k a_l = (\eta + E_3^2) \kappa_1 \kappa_2$$
+
+$$\dot{i}_1 + \dot{i}_2 + \dot{i}_3 + \dot{i}_4 = 0$$
+$$\dot{i}_1 (a_3 + F_2) + \dot{i}_2 (a_4 + F_1) + \dot{i}_3 (a_1 + F_2) + \dot{i}_4 (a_2 + F_1) = \kappa_1 E_1 + \kappa_2 E_2 - E_3^2 \lambda_1 \lambda_2$$
+$$\dot{i}_1 (E_2 \kappa_2 + \frac{1}{2} F_2 a_3) + \dot{i}_2 (E_1 \kappa_1 + \frac{1}{2} F_1 a_4) + \dot{i}_3 (E_2 \kappa_2 + \frac{1}{2} F_2 a_1) + \dot{i}_4 (E_1 \kappa_1 + \frac{1}{2} F_1 a_2) = - E_3^2 (\lambda_1 \kappa_2 + \lambda_2 \kappa_1)$$
+$$\dot{i}_1 E_2 \kappa_2 a_3 + \dot{i}_2 E_1 \kappa_1 [del]a_4[/del] + \dot{i}_3 E_2 \kappa_2 a_1 + \dot{i}_4 E_1 \kappa_1 a_2 = - E_3^2 \kappa_1 \kappa_2$$
+[u]$$\dot{i}_2 E_1 \kappa_1 a_4 + \dot{i}_3 E_2 \kappa_2 a_1 + \dot{i}_4 E_1 \kappa_1$$[/u]
+$$- \dot{i}_2 Q_1 a_4 - \dot{i}_3 Q_2 a_1 + \dot{i}_4 Q_1 a_2 = + E_3^2 \kappa_1 \kappa_2$$
+$$\dot{i}_1 \frac{1}{2} [del]Q_1[/del] F_2 a_3^2 + \dot{i}_2 (\frac{1}{2} [del]Q_2[/del] [ins]a_3^2[/ins] + \frac{1}{2} F_1 a_3 a_4) + \dot{i}_3 (Q_2 a_3 + \frac{1}{2} F_2 a_1 a_3) + \dot{i}_4 (Q_1 a_3 + \frac{1}{2} F_1 a_2 a_3) = - E_3^2 a_3 (\lambda_1 \kappa_2 + \lambda_2 \kappa_1)$$
+$$- \dot{i}_1 \frac{1}{2} (a_3^2 F_2 + a_3 F_2^2) + \dot{i}_2 \frac{1}{2} (a_3 a_4 F_2 + a_3 F_1 F_2) + \dot{i}_3 \frac{1}{2} (a_1 a_3 F_2 + a_3 F_2^2) + \dot{i}_4 \frac{1}{2} (a_2 a_3 F_2 + a_3 F_1 F_2) = \frac{1}{2} a_3 F_2 [del]E_3^2[/del] (\kappa_1 E_1 + \kappa_2 E_2 - E_3^2 \lambda_1 \lambda_2)$$
+$$+ \frac{1}{2} a_3 F_2^2 + \frac{1}{2} a_3 F_2^2 + \frac{1}{2} a_3 F_2^2 + \frac{1}{2} a_3 F_2^2$$

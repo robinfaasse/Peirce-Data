@@ -1,0 +1,41 @@
+DEC 16 1901
+DEC 16 1901
+Follows last page
+
+Starting with
+(1) If q , then p < q
+(2) Either p m or m < n
+(3) If s and s < t, then t
+We get from (1) alone
+(4) If q then r < p < q etc
+From (2) alone
+(5) Either (l < m) or (l < m) < n
+From (3) alone
+(6) If a < b and (a < b) < c < d then c < d
+[del](7) If a and [del](b < c)[/del] and b[/del]
+[del]a < b <[/del]
+(7) If a and b [ins]and[/ins] a < b < c then c
+(8) If (a < b) and [del](b < c)[/del] and (a < b) < (b < c) then (b < c)
+(9) If (a < b) and (b < c) and (a < b) < (b < c) < a < c then a < c
+
+From (1) and (2)
+[del]If[/del] Putting q=m
+If q then p < q
+Either q or q < n
+(10) $\therefore$ Either p < q or q < n
+Put n=p
+(11) $\therefore$ Either p < q or q < p
+Put n=p=q
+p < p
+(12) $\therefore$
+Put q = (m < n)
+(13) Either [del]m or[/del] p < m < n
+(14) p < (m < m) < n
+(15) p < q < q
+(16) r < p < q < q
+
+turn over
+
+(a < b) < (c < d)
+
+[del]a < b[/del]

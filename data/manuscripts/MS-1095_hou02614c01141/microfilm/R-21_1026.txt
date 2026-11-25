@@ -1,0 +1,16 @@
+$$A_i D^2 + B_i = \{ m_i (h_i^2 + \gamma_i^2) + 2 \sum_{i+2}^p \!_n m_n l_i^2 \} \sum_1^{p-1} \!_i \left( \sum_{i+1}^p \!_n m_n l_i + m_i h_i \right)$$
+$$+ \left( \frac{\varepsilon_i}{g} + \frac{\varepsilon_{i+1}}{g} + m_i h_i + \sum_{i+1}^p \!_n m_n l_i \right) \left( \sum_1^{p-1} \!_i (m_i (h_i^2 + \gamma_i^2) + \right.$$
+
+[fig]Diagram with lines and a fraction[/fig] [del]$\frac{l_j}{l_{j+1}}$[/del]
+
+$$k$$
+
+$$A_{jk} = (m_j h_j + \sum_{j+2}^p \!_n m_n l_j) l_k$$
+$$\frac{l_j}{l_{j+1}} \quad A_{j+1, k} = (m_{j+1} h_{j+1} \frac{l_j}{l_{j+1}} + \sum_{j+2}^p \!_n m_n l_j) l_k$$
+$$(m_j h_j - m_{j+1} h_{j+1} \frac{l_j}{l_{j+1}} + m_{j+1} l_j) l_k D^2$$
+$$- \varepsilon_j$$
+$$\hline$$
+$$A_j = m_j (h_j^2 + \gamma_j^2) + 2 \sum_{j+1}^p \!_n m_n l_j^2$$
+$$\frac{l_j}{l_{j+1}} \quad A_{j+1, j} = (m_{j+1} h_{j+1} \frac{l_j}{l_{j+1}} + \sum_{j+2}^p \!_n m_n l_j) l_j$$
+$$\{ m_j (h_j^2 + \gamma_j^2) + 2 m_{j+1} l_j^2 - m_{j+1} h_{j+1} \frac{l_j^2}{l_{j+1}} \} D^2$$
+$$+ \varepsilon_j + \varepsilon_{j+1} + \varepsilon_{j+1} \frac{l_j}{l_{j+1}} + g \sum_{j+1}^p \!_n m_n l_i + g m_i h_i$$

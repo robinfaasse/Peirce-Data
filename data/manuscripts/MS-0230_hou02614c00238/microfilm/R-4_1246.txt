@@ -1,0 +1,43 @@
+[del]$(x_1^2 + y_1^2 + \text{etc}) (z_1^2 + z_2^2 + \text{etc})$[/del]
+$x_1^2 y_1^2 z_1^2 + x_2^2 y_2^2 z_2^2$
+$+ x_1^2 y_1^2 z_2^2 + x_1^2 y_2^2 z_3^2 + \text{etc}$
+
+$\underline{(x_1 y_1 + x_2 y_2 + \text{etc}) (z_1^2 + z_2^2 + \text{etc})}$
+$-(y_1 z_1 + y_2 z_2 + \text{etc}) (x_1 z_1 + x_2 z_2 + \text{etc})$
+$= x_1 y_1 z_1^2 + x_2 y_2 z_2^2 + x_1 y_1 z_2^2 + x_2 y_2 z_1^2$
+$- x_1 y_1 z_1^2 - x_2 y_2 z_2^2 - [del]x_2 y_1 z_1 z_2[/del] - x_1 y_2 z_1 z_2$
+
+$x_p^2 y_q^2 z_r^2 + [del]x_p y_q[/del]$
+$+ 2 x_p x_q y_p y_r z_q z_r$
+
+$- x_p^2 y_q y_r z_q z_r$
+
+[fig]Graph with rectangular steps and a diagonal line[/fig]
+
+$l x_1 + m y_1$
+$l y_1 + m y_2$
+
+---
+
+$[x^2] [xy] [x]$
+$[xy] [y^2] [y]$
+$[x] [y] [z^2]$
+
+[del]$3x^2 + ax + b + c = 0$[/del]
+[del]$3x^2 - 2ax +$[/del]
+
+$x^3 - 3ax^2 + 3b^2 x + c^3 = 0$
+$3x^2 - 6ax + 3b^2 = 0$
+$6x - 6a$
+
+[del]$x_1^2 y_2^2$[/del] $- 2 x_1 x_2 y_1 y_2$
+$x_2^2 y_1^2$
+
+$\le \frac{[del]x_1 x_2[/del]}{[del]y_1 y_2[/del]} \frac{(x_1 y_2 + x_2 y_1)^2}{2}$
+
+[fig]Square with inscribed triangles and lines[/fig]
+
+$\frac{x_1 y_2}{2}$
+$- \frac{1}{2} x_1 y_1$
+$- \frac{1}{2} x_2 y_2$
+$= \frac{1}{2} (y_2 - y_1) (x_1 - x_2)$

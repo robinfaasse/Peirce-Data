@@ -1,0 +1,24 @@
+[pn]7[/pn]
+
+[del]Par[/del] [ins]$\rho$[/ins] $= g \cdot \text{tg} \eta$
+
+[del]$\frac{1}{2} (D_t x^2 = [G^2 \cos \theta$[/del] $\eta = G^\rho \sin \theta$
+$D_t x = [del]D_t \rho \cdot G^\rho \cos \theta[/del] - G^\rho \sin \theta D_t \theta$
+$D_t y = D_t \rho \cdot G^\rho \sin \theta + G^\rho \cos \theta D_t \theta$
+$D_t s = \frac{1}{2} \sqrt{c - a s^2}$
+$J = \frac{1}{2} (D_t x)^2 + \frac{1}{2} (D_t y)^2 = \frac{1}{2} G^{2\rho} ((D_t \rho)^2 + (D_t \theta)^2)$
+
+$G^{2\rho} D_t s + \frac{1}{\sqrt{a}} \text{arc} \frac{G^{2\rho}}{s} D_t \theta$     $K G^{-3\rho}$
+
+$s = \sqrt{\frac{c}{a}} [del]G^{2\rho} (D_t \rho)^2[/del] + G^{2\rho} D_t^2 \rho - G^{2\rho} (D_t \theta)^2 = -2 K G^{-3\rho}$
+
+[del]$G^{2\rho} D_t \theta$[/del]
+$2 G^{2\rho} D_t \rho D_t \theta + G^{2\rho} D_t^2 \theta = 0$
+
+$2 D_t \rho + \frac{D_t^2 \theta}{D_t \theta} = 0$
+
+$2 D_t \rho + D_t (\log D_t \theta) = 0$
+$2 \rho + \log D_t \theta = C$
+$D_t \theta = G^{c - 2\rho}$
+$(D_t \theta)^2 = G^{2c - 4\rho}$
+$G^{2\rho} (D_t \rho)^2 + G^{2\rho} D_t^2 \rho - G^{2(c-\rho)} = 2 K G^{-3\rho}$

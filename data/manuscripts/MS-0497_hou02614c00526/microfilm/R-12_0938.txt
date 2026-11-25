@@ -1,0 +1,28 @@
+[fig]Geometric diagram of a tetrahedron with labeled vertices and lines[/fig]
+
+[u]Colors[/u]
+
+[del]x[/del] Walking
+
+x Surface
+
+[del]x[/del] Elasticity
+
+[del]x[/del] History
+
+---
+
+$\sqrt{a^2-q^2} + \sqrt{c^2-q^2} = b$
+
+$a^2+c^2-2q^2 + 2\sqrt{a^2-q^2}\sqrt{c^2-q^2} = b^2$
+
+$4(a^2-q^2)(c^2-q^2) = $
+$(b^2-a^2-c^2+2q^2)^2$
+
+$4a^2c^2 - 4(a^2+c^2)q^2 + 4q^4$
+
+$(b^2-a^2-c^2)^2 + 4(b^2-a^2-c^2)q^2 + 4q^4$
+
+$4b^2q^2 = 4a^2c^2 - (b^2-a^2-c^2)^2$
+
+$(\sqrt{a^2-q^2} + b)^2 + q^2 = 4z^2$

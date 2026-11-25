@@ -1,0 +1,33 @@
+I will state this matter a little more in detail.
+
+By using 6 terms of slow series we can generally get the result accurate to [del]three or[/del] [ins]to five[/ins] places. I shall suppose the whole computation is done with Crelle's Rechentafeln (and a table of reciprocals, though this is not necessary). First make a column of values of [u]n[/u] from 0 to 5. Then a column of [u]u[/u]ₙ. Then Δ[u]u[/u]ₙ Then [ins]uₙ/[/ins]Δ[u]u[/u]ₙ Then [del]uₙ/[/del] [ins]Then[/ins] [del]uₙ/[/del] [ins]calculate[/ins] [del]bottom[/del] [ins]uₙ₊₁/Δuₙ - uₙ/Δuₙ₋₁ and the rest[/ins] Difference this to get Δ [del]uₙ/[/del] [ins]uₙ/Δuₙ[/ins] Then Δ² [del]uₙ/[/del] [ins]uₙ/Δuₙ[/ins] Then (Δ[u]u[/u]ₙ)² Then [del](Δuₙ)²/[/del] [ins]Δ²uₙ[/ins] Then [del]wₙ[/del] Then Δwₙ Then Δ²wₙ then (Δwₙ)² Then [del](Δwₙ)²/[/del] [ins]Δ²wₙ[/ins] Then the final approximation.
+
+For example, I show the calculation of nat log 2.1 = 0.74194 from the slowly divergent formula log (1+x) = x - [frac]x²[/frac]/2 + [frac]x³[/frac]/3 - [frac]x⁴[/frac]/4 + [frac]x⁵[/frac]/5 - [frac]x⁶[/frac]/6 where straightforward calculation would give as successive approximations 1.1, 0.495, 0.9387, 0.5727, 0.8948, 0.5995 [ins]3525[/ins] not one figure being right.
+
+Calling the series t₀ + t₁ + t₂ + t₃ + t₄ + t₅
+Δuₙ = - tₙ₊₁ (Δ [frac]tₙ[/frac]/Δtₙ)
+u₀ = - t₀ [frac]t₀[/frac]/Δt₀
+uₙ = uₙ - [frac](Δuₙ)²[/frac]/Δ²uₙ
+
+| n | uₙ | Δuₙ | [frac]1[/frac]/Δuₙ | uₙ/Δuₙ | Δ uₙ/Δuₙ |
+|---|---|---|---|---|---|
+| 0 | 1.1 | -1.705 | -0.5865 | -0.64516 | 0.068236 |
+| 1 | -0.605 | +1.0407 [ins]663[/ins] | +0.9536 | -0.57693 | 0.028992 |
+| 2 | +0.443 [del]5[/del] [ins]567[/ins] | -0.8097 [ins]588[/ins] | -1.2350 | -0.54793 | 0.016028 |
+| 3 | -0.366025 | +0.688127 | +1.4532 | -0.53191 [ins]101[/ins] | 0.009176 |
+| 4 | +0.322102 | -0.6174 [ins]622[/ins] | -1.6198 | -0.52174 | 0.007034 |
+| 5 | -0.295 [del]8[/del] [ins]26017[/ins] | + .5736589 | -0.514705 | (Δuₙ) |
+
+| n | Δ² uₙ/Δuₙ | uₙ | Δ²uₙ | (Δuₙ)² | (Δuₙ)²/Δ²uₙ | wₙ |
+|---|---|---|---|---|---|---|
+| 0 | +0.04128 [ins]10.470[/ins] | 0.70968 | -0.5411 | .0017044 | -0.31493 [ins]10[/ins] | .741158 |
+| 1 | -0.01296 | 0.75996 | +0.187 [ins].0053407[/ins] | .0001652 | +0.088276 | .742134 |
+| 2 | +.00587 | 0.73811 | -0.0090 | .000034 | -0.0038 [del]0[/del] [ins]004[/ins] | .741914 |
+| 3 | -0.00317 | 0.7408 | .000010 | | | |
+| 4 | | 0.7408 | | | | |
+
+| | Δwₙ | Δ²wₙ | (Δwₙ)² | (Δwₙ)²/Δ²wₙ | wₙ - (Δwₙ)²/Δ²wₙ |
+|---|---|---|---|---|---|
+| 0 | +000976 | -.0012 [ins]95[/ins] | .000000953 | .00080 | Final Approx .741954 |
+| 1 | -000220 | [ins]835.07[/ins] | | | |
+| 2 | | | | | |

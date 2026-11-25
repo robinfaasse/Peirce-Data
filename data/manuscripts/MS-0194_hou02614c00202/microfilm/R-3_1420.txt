@@ -1,0 +1,46 @@
+[del]A = a + a' i[/del]
+
+A = R cos \alpha + R sin \alpha i
+B = R cos \beta + R sin \beta i
+C = R cos \gamma + R sin \gamma i
+D = R cos \delta + R sin \delta i
+
+A - B = R (cos \alpha - cos \beta) + R (sin \alpha - sin \beta) i
+
+[del]= R \sqrt{2 - 2 cos (\alpha - \beta)} ( \frac{cos \alpha - cos \beta}{\dots} + R \frac{sin \beta - \dots}{\dots} i[/del]
+[del]= 2 R sin \frac{\beta - \alpha}{2} sin \frac{\beta + \gamma}{2} + 2 R \frac{sin \beta - \alpha}{2}[/del]
+= - 2 R sin \frac{\alpha - \beta}{2} sin \frac{\alpha + \beta}{2} + 2 R sin \frac{\alpha - \beta}{2} cos \frac{\alpha + \beta}{2} i
+= 2 R sin \frac{\alpha - \beta}{2} ( cos (90^{\circ} + \frac{\alpha + \beta}{2}) + sin (90^{\circ} + \frac{\alpha + \beta}{2}) i )
+
+C - D = 2 R sin \frac{\gamma - \delta}{2} ( cos (90^{\circ} + \frac{\gamma + \delta}{2}) + sin (90^{\circ} + \frac{\gamma + \delta}{2}) i )
+
+B - C = 2 R sin \frac{\beta - \gamma}{2} ( \dots
+
+A - D = 2 R sin \frac{\alpha - \delta}{2} \dots
+
+[marginalia]
+cos (90^{\circ} + x) = - sin x
+sin (90^{\circ} + x) = cos x
+[/marginalia]
+
+[del]A[/del] sin \frac{\alpha - \beta}{2} sin \frac{\gamma - \delta}{2} + sin \frac{\alpha - \delta}{2} sin \frac{\beta - \gamma}{2} = sin \frac{\alpha - \gamma}{2} sin \frac{\beta - \delta}{2}
+
+(a b' - a' b) (c d' - c' d) + (a d' - a' d) (b c' - b' c) = (a c' - a' c) (b d' - b' d)
+
+[del]a b' c d' - a b' c' d - a' b c d' + a' b c' d[/del]
+[del]- a b' c d' + a b' c' d[/del]
+[del]+ a b' c' d[/del]
+[del]- a' b c d' + a' b c' d[/del]
+[del]+ a' b' c d[/del]
+[del]+ a' b' c d[/del]
+= a b' c' d - a b' c' d
+- a' b c d' + a' b c d'
+
+[del]L = R \frac{y cos \alpha + y cos \beta}{x + y}[/del]
+
+[del]L = R cos[/del]
+L = R \frac{x cos \alpha + y cos \beta}{x + y} + R \frac{x sin \alpha + y sin \beta}{x + y} i
+= R \frac{u cos \gamma + v cos \delta}{u + v} + R \frac{u sin \gamma + v sin \delta}{u + v} i
+
+sin p cos \alpha + cos p cos \beta = sin q cos \gamma + cos q cos \delta
+sin p sin \alpha + cos p sin \beta = sin q sin \gamma + cos q sin \delta

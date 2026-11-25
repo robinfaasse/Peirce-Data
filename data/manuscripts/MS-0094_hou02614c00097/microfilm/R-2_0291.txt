@@ -1,0 +1,24 @@
+[pn]A3[/pn] [pn]282[/pn]
+
+[u]Phimus[/u] ($\phi\acute{\iota}\mu o\varsigma$) is the Greek for dice-box. That surface resembles a somewhat flattened dice-box extending to infinity.
+
+[fig]A grid of intersecting lines forming a hyperboloid-like shape.[/fig] [u]$\S$142. Theorem 26.[/u] If all of three rays are cut by each of three other rays and if a seventh cuts the first three and an eighth the second three, then the seventh and eighth intersect.
+
+[u]Demonstration[/u] Let [u]$i$, $j$, $k$[/u], be the first three rays, and [u]$p$, $q$, $r$[/u], the second three, $s$ the seventh and $l$ the eighth.
+
+[del]Both of[/del] Use the following notation
+$[ip] = A$, $[ir] = B$,
+$[kp] = C$, $[kr] = D$.
+
+We are now free to call any point we like $[A+B+C+D]$. We will apply that designation to $[jq]$.
+
+It follows that $[iq] = [A+B]$, $[ip] = [A+C]$,
+$[kq] = [C+D]$, $[ir] = [B+D]$.
+
+Suppose the seventh ray which cuts [del]$j$[/del] [ins]$j = \{ [A+C] [B+D] \}$[/ins] cuts it in the point $[p[A+C] + (1-p)[B+D]]$
+and that the eighth ray, which cuts [del]$j$[/del] [ins]$j = \{ [A+B] [C+D] \}$[/ins], cuts it in the point $[q[A+B] + (1-q)[C+D]]$
+
+Then the seventh ray cuts [del]$j$[/del] [ins]$i = \{ AB \}$[/ins] in
+$[pA + \overline{1-p} B]$,
+and cuts $k = \{ CD \}$ in
+$[pC + \overline{1-p} D]$;

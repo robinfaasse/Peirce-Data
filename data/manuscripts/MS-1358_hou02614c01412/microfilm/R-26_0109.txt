@@ -1,0 +1,22 @@
+[marginalia]Morison's Bridge [date]1899 Feb 4[/date][/marginalia]
+
+$$\frac{E}{B_0^4 \beta} (b_n - B_n) + b_{n+2} - 4b_{n+1} + 6b_n - 4b_{n-1} + b_{n-2} + \frac{gw}{\beta} = 0$$
+
+$$B_n = [del]n(N-n)(n-\frac{1}{2}N)^2[/del]$$
+
+[fig]small sketch of a bridge truss[/fig] Let us make the zero of $n$ in the middle
+[del][fig]crossed out sketch[/fig][/del]
+
+$$B_n = B n^2$$
+
+For that part outside suspenders this becomes
+
+$$\Delta_n^4 b_n = - \frac{gw}{\beta}$$
+
+$$b_n = -\frac{1}{24} \frac{gw}{\beta} n^4 + C_1 n^3 + C_2 n^2 + C_3 n + C_4$$
+
+[fig]table of differences for n^4[/fig] where the first term disappears except for parts under the live load.
+
+If $Q$ is the value of $n$ at the extremity of the truss.
+
+There are two cases. [u]1st[/u] This end is lifted off its support.

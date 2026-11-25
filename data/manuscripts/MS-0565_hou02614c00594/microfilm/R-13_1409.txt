@@ -1,0 +1,30 @@
+so that this reduces to
+[u]x[/u] + [u]y[/u] = 1.
+
+Thus,
+[u]x[/u] + [u]y[/u]
+means
+Either [u]x[/u] or [u]y[/u], but not both.
+
+If we wish to express
+Either [u]x[/u] or [u]y[/u] (or both)
+we must write
+[u]x[/u] + [u]y[/u] + [u]x[/u] [u]y[/u]
+and this function of [u]x[/u] and [u]y[/u] is really simpler,
+though in the mode of expression more complex, than
+[u]x[/u] + [u]y[/u]. In fact, the function [u]x[/u] + [u]y[/u] + [u]x[/u] [u]y[/u] is exactly as
+simple as, and, in fact, is a perfect counterpart of [u]x[/u] [u]y[/u].
+
+I proceed to show that this is so. First, just as
+[u]x[/u] [u]y[/u] is a symmetrical function, congruent with [u]y[/u] [u]x[/u], so
+is
+[u]x[/u] + [u]y[/u] + [u]x[/u] [u]y[/u] = [u]y[/u] + [u]x[/u] + [u]y[/u] [u]x[/u].
+
+Second, just as
+([u]x[/u] [u]y[/u]) [u]z[/u] = [u]x[/u] ([u]y[/u] [u]z[/u])
+so
+([u]x[/u] + [u]y[/u] + [u]x[/u] [u]y[/u]) + [u]z[/u] + ([u]x[/u] + [u]y[/u] + [u]x[/u] [u]y[/u]) [u]z[/u] = [u]x[/u] + ([u]y[/u] + [u]z[/u] + [u]y[/u] [u]z[/u]) + [u]x[/u] ([u]y[/u] + [u]z[/u] + [u]y[/u] [u]z[/u])
+These two formulae hold in all [del]algebra[/del] arithmetic.
+
+Third, just as [u]x[/u] [u]x[/u] = [u]x[/u], so
+[u]x[/u] + [u]x[/u] + [u]x[/u] [u]x[/u] = [u]x[/u].

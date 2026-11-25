@@ -1,0 +1,32 @@
+[u]Bi-nodal Heptagram[/u]
+[u]Multiplication Table.[/u]
+
+[fig]Columns of binary numbers arranged in tables[/fig]
+
+[u]The Arithmetical Triangle.[/u]
+
+$(1-1)^{-n} = 1 + n + \frac{n(n+1)}{2}$
+
+[fig]Grid table of binary numbers with column headers 0 to 9[/fig]
+
+[fig]Grid table of binary numbers with column headers 0 to 9[/fig]
+
+$3! = 6$
+$2! = 6/3 = 2$
+$1! = 2/2 = 1$
+$0! = 1/1 = 1$
+$-1! = 1/0 = \infty$
+$-2! = \infty/-1 = -\infty$
+$-3! = -\infty/-2 = \infty$
+
+$\frac{(x+y)!}{x! y!}$ Put $y=0$ $\frac{(x+0)!}{x! 0!} = \frac{1}{1} = 1$
+
+Put $y = -1$ $\frac{(x-1)!}{x! (-1)!} = \frac{\frac{1}{x}}{\infty} = 0$ [ins]unless $x=0$ when it is $0/0$[/ins]
+
+Put $y = -2$ $\frac{(x-2)!}{x! (-2)!} = \frac{\frac{1}{x(x-1)}}{-\infty} = 0$ [ins]unless $x=0$ or $1$[/ins]
+
+[fig]Small grid with numbers and arrows[/fig]
+
+[fig]Coordinate plot of points forming a cross shape[/fig]
+
+[fig]Handwritten division and multiplication scratch work with numbers 38, 152, 24, 22, 6, 3[/fig]

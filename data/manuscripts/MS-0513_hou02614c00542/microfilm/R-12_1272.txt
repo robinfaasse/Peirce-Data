@@ -1,0 +1,29 @@
+[pn]35[/pn]
+
+else. My way of expressing it had been
+$$\Pi (\Pi_i) \Sigma_\alpha \Pi_i q_{\alpha i} \cdot (\Pi_j [del]\Pi_j[/del] [ins]l_{ij} +[/ins] \overline{q}_{\alpha j})$$
+That is, taking any universe of [u]i[/u]'s whatever, there is a [del]character[/del] [ins]character[/ins] $\alpha$,
+such that every [u]i[/u] has the character $\alpha$, and every object, j, [del]other signified[/del]
+is either identical with some [u]i[/u] or does not possess the character, $\alpha$. This
+is understood to express everything that would be expressed by such
+propositions as the following, for example:
+$$\Pi_i \Sigma_\alpha \Pi_j q_{\alpha i} \cdot (l_{ij} + \overline{q}_{\alpha j})$$
+$$\Pi_i \Pi_j \Sigma_\alpha \Pi_k q_{\alpha i} \cdot q_{\alpha j} \cdot (l_{ik} + l_{jk} + \overline{q}_{\alpha k})$$
+$$\Pi_i \Pi_j \Pi_k \Sigma_\alpha \Pi_l q_{\alpha i} \cdot q_{\alpha j} \cdot q_{\alpha k} \cdot (l_{il} + l_{jl} + l_{kl} + \overline{q}_{\alpha l})$$
+$$\Pi_\alpha \Pi_\beta \Sigma_i \Pi_i q_{\alpha i} \cdot q_{\gamma i} + q_{\beta i} \cdot q_{\gamma i} + \overline{q}_{\alpha i} \cdot \overline{q}_{\beta i} \cdot \overline{q}_{\gamma i}$$
+$$\Pi_\alpha \Pi_\beta \Sigma_\gamma \Pi_i q_{\alpha i} \cdot q_{\gamma i} + \overline{q}_{\beta i} \cdot q_{\gamma i} + \overline{q}_{\alpha i} \cdot q_{\beta i} \cdot \overline{q}_{\gamma i}$$
+$$\Pi_\alpha \Sigma_\beta \Pi_i q_{\alpha i} \cdot \overline{q}_{\beta i} + \overline{q}_{\alpha i} \cdot q_{\beta i}$$
+These all follow very easily and obviously from the formula in Schröder's
+notation.
+
+[u]3[sup]rd[/sup][/u], it may be necessary to multiply into the product of premises
+some logical formula, such as
+$$\Pi_i \Pi_j \Pi_k T_{ij} + T_{jk} + I_{ki}$$
+
+[u]4[sup]th[/sup][/u], it may be necessary to use the process of abstraction, by
+which I mean that transformation which converts a predicate into
+a subject. For example, given
+$$\Pi_i \Sigma_j \overline{m}_i + l_{ij} \cdot w_j$$
+or every man loves some woman, we may write
+$$\Sigma_\alpha \Pi_i \Sigma_j \overline{m}_i + r_{\alpha ij} \cdot w_j$$
+or, there is a relation which every man bears to some woman. But

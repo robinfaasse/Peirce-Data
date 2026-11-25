@@ -1,0 +1,26 @@
+[del]$\Pi_A \Pi_B \Sigma_c (A.B) +$[/del]
+
+$\Pi_A \Pi_B \Sigma_c$ [del]$(A.B) + (A.c)$[/del]
+[del]$\overline{\overline{A.B}} +$[/del] $(A.c)(B.c)$
+
+[del]$\diagup$[/del]
+
+$\Pi_A \Pi_B \Pi_a \Pi_b$ $(A.B) + (a.b) + \overline{A.a} + \overline{A.b} + \overline{B.a} + \overline{B.b}$
+
+$\Pi_A \Pi_B \Pi_C \Sigma_\delta$ $(A.\delta)(B.\delta)(C.\delta)$
+
+$\Pi_A \Pi_B \Pi_C \Pi_\delta \Pi_\epsilon \Sigma_f$ $(A.B) + (A.C) + (B.C) + (\delta.\epsilon)$
+$+ (A.\delta) + \overline{(B.\delta)} + \overline{(C.\delta)}$
+$+ \overline{(A.\epsilon)} + \overline{(B.\epsilon)} + \overline{(C.\epsilon)}$
+$+ (A.f)(B.f)(C.f)$
+
+$\Pi_\alpha \Pi_\beta \Sigma_c$ $(c.\alpha)(c.\beta)$
+
+$\Pi_\alpha \Pi_\beta \Pi_a \Pi_b$ $(a.b) + (\alpha.\beta) + \overline{(a.\alpha)} + \overline{(a.\beta)} + \overline{(b.\alpha)} + \overline{(b.\beta)}$
+
+$\Pi_\alpha \Pi_\beta \Pi_\gamma \Sigma_D$ $(D.\alpha)(D.\beta)(D.\gamma)$
+
+$\Pi_\alpha \Pi_\beta \Pi_\gamma \Pi_D \Pi_E \Sigma_f$ $(\alpha.\beta) + (\alpha.\gamma) + (\beta.\gamma) + (D.E)$
+$+ \overline{(D.\alpha)} + \overline{(D.\beta)} + \overline{(D.\gamma)}$
+$+ \overline{(E.\alpha)} + \overline{(E.\beta)} + \overline{(E.\gamma)} +$
+$+ (f.\alpha)(f.\beta)(f.\gamma)$

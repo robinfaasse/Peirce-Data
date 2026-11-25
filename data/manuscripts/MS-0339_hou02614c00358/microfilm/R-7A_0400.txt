@@ -1,0 +1,27 @@
+$$\frac{pq - p^2 - q^2}{2 - 2p - 2q + p^2 + q^2} =$$
+
+$$p = \frac{\pi}{1+\pi}$$
+$$1-p = \frac{1}{1+\pi}$$
+
+$$\frac{\frac{\pi(1+\kappa)}{1+\pi} + \frac{\kappa(1+\pi)}{1+\kappa}}{2 + \pi + \kappa - \frac{\pi(1+\kappa)}{1+\pi} + \kappa \frac{1+\pi}{1+\kappa}}$$
+
+$$\text{If } p=0 \quad \frac{pq - p^2 - q^2}{2 - 2p - 2q + p^2 + q^2} =$$
+
+It is required to find a measure
+such that if
+$$p=1 \text{ it is independent of } q$$
+and if $p=0$ it $= q$.
+
+$$F(1,q) = 1$$
+$$F(0,q) = q$$
+$$F(p,1) = q$$
+
+$$\frac{xy}{x+y} \qquad \sqrt{\frac{x^2+y^2}{2}} \qquad \frac{xy(1-y)+xy(1-x)}{x(1-y)+y(1-x)} = \frac{x^2(1-y)+y^2(1-x)}{x(1-y)+y(1-x)}$$
+
+$$\frac{x+y}{x+y}$$
+
+$$\frac{(\frac{x}{1-x})(\frac{y}{1-y})}{(\frac{x}{1-x})+(\frac{y}{1-y})} \qquad (\frac{x}{1-x})^2 + (\frac{y}{1-y})^2$$
+
+$$\frac{\frac{x}{1-x} + \frac{y}{1-y} + (\frac{x}{1-x})^2 + (\frac{y}{1-y})^2}{\dots}$$
+
+$$\frac{x^2(1-y)^2 + y^2(1-x)^2}{x(1-x)(1-y)^2 + y(1-y)(1-x)^2 + 2(x(1-y)+y(1-x))}$$

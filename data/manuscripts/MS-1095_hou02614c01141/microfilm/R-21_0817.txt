@@ -1,0 +1,18 @@
+The first equation gives
+$$\varphi_{2} = \frac{I_{1}}{\varepsilon} D_{t}^{2} \varphi_{1} + \frac{\varepsilon + \gamma_{1}}{\varepsilon} \varphi_{1}$$
+$$D_{t}^{2} \varphi_{2} = \frac{I_{1}}{\varepsilon} D_{t}^{4} \varphi_{1} + \frac{\varepsilon + \gamma_{1}}{\varepsilon} D_{t}^{2} \varphi_{1}$$
+
+Substituting these values in the second equation we get
+
+$$0 = \frac{I_{1} I_{2}}{\varepsilon} D_{t}^{4} \varphi_{1} + (I_{2} \frac{\varepsilon + \gamma_{1}}{\varepsilon} + I_{1} \frac{\varepsilon - \gamma_{2}}{\varepsilon}) D_{t}^{2} \varphi_{1} - (\varepsilon - \frac{(\varepsilon + \gamma_{1})(\varepsilon - \gamma_{2})}{\varepsilon}) \varphi_{1}$$
+
+or, separating the operator of $\varphi_{1}$ into factors
+
+$$\left\{ I_{1} I_{2} D_{t}^{2} + \frac{1}{2} [I_{2}(\varepsilon + \gamma_{1}) + I_{1}(\varepsilon - \gamma_{2})] + \sqrt{I_{1} I_{2} \varepsilon^{2} + \left(\frac{I_{2}(\varepsilon + \gamma_{1}) - I_{1}(\varepsilon - \gamma_{2})}{2}\right)^{2}} \right\} \times$$
+$$\left\{ I_{1} I_{2} D_{t}^{2} + \frac{1}{2} [I_{2}(\varepsilon + \gamma_{1}) + I_{1}(\varepsilon - \gamma_{2})] - \sqrt{I_{1} I_{2} \varepsilon^{2} + \left(\frac{I_{2}(\varepsilon + \gamma_{1}) - I_{1}(\varepsilon - \gamma_{2})}{2}\right)^{2}} \right\} \varphi_{1} = 0$$
+
+The quantity under the radical sign may be transformed as follows
+$$I_{1} I_{2} \varepsilon^{2} + \left(\frac{I_{2}(\varepsilon + \gamma_{1}) - I_{1}(\varepsilon - \gamma_{2})}{2}\right)^{2} = I_{1} I_{2} \varepsilon^{2} + \left(\frac{(I_{2} - I_{1})\varepsilon + (I_{2}\gamma_{1} + I_{1}\gamma_{2})}{2}\right)^{2}$$
+$$= \frac{1}{4} (I_{2} + I_{1})^{2} \varepsilon^{2} + \frac{1}{2} (I_{2} - I_{1})(I_{2}\gamma_{1} + I_{1}\gamma_{2})\varepsilon + \frac{1}{4} (I_{2}\gamma_{1} + I_{1}\gamma_{2})^{2}$$
+
+Since $\varepsilon$ is very large, the square root of this quantity is approximately (neglecting $\varepsilon^{-3}$)

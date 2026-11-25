@@ -1,0 +1,224 @@
+[marginalia]
+Tack
+between 2
+Surfaces
+[/marginalia]
+
+[fig]Diagram of intersecting surfaces and lines[/fig]
+
+[marginalia]
+2 Points common
+to tack &amp; interrupter
+[del]Cl₁P¹ = +1[/del]
+[del]Cl₁P² = +2[/del]
+[del]Cl₁P³ = 0[/del]
+[del]S = 0[/del]
+[/marginalia]
+
+[marginalia]
+2 Surfaces
+With tack interrupter and at edge
+[/marginalia]
+
+[marginalia]
+Proj Plane
+Primal
+Spherical
+[/marginalia]
+
+[marginalia]
+2 Unbounded
+Primal Surfaces
+Tack at
+[del]Cl₁P⁰ = +1[/del]
+[del]Cl₁P¹ = 0[/del]
+[del]Cl₁P² = 0[/del]
+[del]Cl₁P³ = +1[/del]
+[del]x₁ = 3[/del]
+Inter.
+[del]Cl₁P⁰ = +1[/del]
+[del]Cl₁P¹ = +2[/del]
+[del]Cl₁P² = 0[/del]
+[del]Cl₁P³ = 0[/del]
+[del]+3[/del]
+2 Primal Surfaces
+[del]Cl₁P² = +1[/del]
+[/marginalia]
+
+[u]Study of $I_{10}P^{3}$[/u]
+The question is What is the effect of singularities
+1st Then, What is $Cl_{0}S_{1}P^{1}$?
+What is $Cl_{0}S_{1}P^{2}$?
+
+Compare [fig]Two intersecting lines[/fig] and [fig]Two intersecting lines[/fig]
+Common $Cl_{0}P^{0} = +3$
+$Cl_{0}P^{1} = -1$
+
+Compare [fig]Two intersecting lines[/fig] with [fig]Two intersecting lines[/fig]
+Common
+$Cl_{0}P^{0} = +4$
+$Cl_{0}P^{1} = -1$
+
+Peculiar
+With Wrinkles
+(Common +2)
+$Cl_{0}S_{1}P^{1} = x$
+
+With interrupter
+(Common +2)
+$Cl_{0}P^{0} = +1$
+$Cl_{0}P^{1} = -2$
+
+$x = -1$
+
+Crenated
+$Cl_{0}S_{12}P^{1} = y$
+
+2-coned
+$Cl_{0}P_{0} = +1$
+$Cl_{0}P_{1} = -3$
+[u]                     -2[/u]
+$y = -2$
+
+Then [fig]Semicircle on line[/fig]
+$Cl_{0}P^{0} = +2$
+$Cl_{0}P^{1} = -1$
+$Cl_{1}P^{1} = 0$ or 1?
+$Cl_{0}S_{1}P^{1} = -2$
+Total C = -1 or 0?
+
+[fig]Figure eight[/fig]
+$Cl_{0}P^{0} = 0$
+$Cl_{0}P^{1} = -1$
+$Cl_{1}P^{1} = +1$ or +2?
+$Cl_{0}S_{1}P^{1} = -2$
+
+This
+must
+be the same
+(because of
+rest of surface)
+
+[fig]Figure eight[/fig]
+$Cl_{0}P^{0} = 0$
+$Cl_{0}P^{1} = -1$
+$Cl_{1}P^{1} = +1$ or +2
+$Cl_{0}S_{1}P^{1} = -2$
+
+Suppose on Surface $I_{10}P^{3} = 1$ $I_{10}P^{2} = 0$ $I_{10}P^{1} = 4$ $S = 0$
+Total C = +2 Total of boundary -4 or 0?
+
+$Cl_{0}P^{0} = +2$  +2
+$Cl_{1}P^{1} = 0$   0
+$Cl_{1}P^{2} = 0$   0
+Total CP  +1  +2
+
+It follows that $Cl_{1}P^{1}$ [fig]Circle[/fig] = 1
+just like [fig]Circle[/fig]
+
+To total C interrup -2 or -1?
+$Cl_{1}P^{2}$  +3  +3
+$Cl_{1}P^{1}$  0   0
+$Cl_{1}P^{0}$  0   0
+[u]                     +1  +2[/u]
+
+It follows $Cl_{1}P^{2} = +2$
+for [fig]Circle with horizontal line[/fig]
+
+Total C interrup -2 or -1
+$Cl_{1}P^{2}$  +3
+$Cl_{1}P^{1}$  0
+$Cl_{1}P^{0}$  0
+[u]                     +1  +2[/u]
+
+It follows
+that
+$Cl_{1}P^{2} = +2$
+for [fig]Figure eight[/fig]
+
+But does not this open other questions?
+
+Tacked
+$Cl_{0}R^{1} = +1$
+$Cl_{1}P^{1} = 0$
+$Cl_{1}P^{2} = 0$
+$Cl_{1}S_{1}P^{1} = x_{1}$
+Total C = -1 + $x_{1}$
+or 2 + $x_{2}$
+
+$Cl_{0}P^{0} = +1$
+$Cl_{0}P^{1} = +2$
+$Cl_{0}P^{2} = -2$
+$Cl_{0}S_{1}P^{2} = x_{2}$
+Total C = +1 + $x_{2}$
+or $x_{2}$
+
+$Cl_{0}P^{0} = +1$
+$Cl_{0}P^{1} = 0$
+$Cl_{0}P^{2} = 0$ or 1 or 2
+$Cl_{0}S_{1}P^{2} = x_{2}$
+$Cl_{0}S_{1}P^{2} = -2$ -1 0
+$x_{2}$
+
+$Cl_{0}P^{0} = +1$
+$Cl_{0}P^{1} = +2$
+$Cl_{0}P^{2} = -2$ -1 0
+$Cl_{0}P^{3} = 0$
+$Cl_{0}P^{1} = -2$ -1 0
+$Cl_{0}P^{2} = +2$ +1 0
+
+$Cl_{0}S_{1}P^{2} = x_{2}$ = { [del]-2[/del] [ins]-1[/ins] [del]-1[/del] [ins]0[/ins] [del]0[/del] [ins]+1[/ins]
+
++4 +2 +3
+
+Between 2 Solids
+Tacked
+$Cl_{0}P^{3} = -1$
+$Cl_{1}P^{3} = 0$
+$Cl_{2}P^{3} = 0$
+$Cl_{12}P^{3} = 0$
+$Cl_{0}S_{1}P^{3} = x_{3}$
+Total C = $x_{3} - 1$
+
+Tack interrupter
+$Cl_{0}P^{0} = +1$
+$Cl_{0}P^{3} = -2$
+$Cl_{1}P^{3} = 0$
+$Cl_{2}P^{3} = -2$
+$Cl_{12}P^{3} = 0$
+Total C = -3
+$x_{3} = -2$
+
+Between two $P^{3}$'s
+Tacked
+$Cl_{0}P^{4} = +1$
+$Cl_{1}P^{4} = 0$
+$Cl_{2}P^{4} = 0$
+$Cl_{3}P^{4} = 0$
+$Cl_{12}P^{4} = 0$
+$Cl_{0}S_{1}P^{4} = x_{4}$
+Total C = +1 + $x_{4}$
+
+Tack interrupter
+$Cl_{0}P^{0} = +1$
+$Cl_{0}P^{4} = +2$
+$Cl_{1}P^{4} = 0$
+$Cl_{2}P^{4} = 0$
+$Cl_{3}P^{4} = -2$
+$Cl_{12}P^{4} = 0$
+
+Between two lines
+Tacked
+$Cl_{0}P^{1} = -1$
+$Cl_{1}P^{1} = 0$ or +2
+$Cl_{0}S_{1}P^{1} = x_{1}$
+Total C = $x_{1} - 1$
+$x_{1}$
+or $x_{1} + 1$
+
+Tack interrupter
+$Cl_{0}P^{0} = +1$
+$Cl_{0}P^{1} = -4$ or -3 or -2
+$Cl_{1}P^{1} = 0$
+Total C = -3 or -2 or -1
+$x_{1} = $ { [del]-2[/del] [ins]-1[/ins] [del]-1[/del] [ins]0[/ins] [del]0[/del] [ins]+1[/ins]

@@ -1,0 +1,19 @@
+[u]Lecture XIV.[/u]
+
+[u]General Method with the Logic of Relatives.[/u]
+
+The premises are first multiplied together and the operators $\Sigma$ and $\Pi$ are all brought to the left of all the operands by the formulae
+$$\Pi_i u_i \cdot \Pi_j v_j = \Pi_i \Pi_j u_i v_j .$$
+$$\Pi_i u_i \cdot \Sigma_j v_j = \Pi_i \Sigma_j u_i v_j .$$
+$$\Sigma_i u_i \cdot \Sigma_j v_j = \Sigma_i \Sigma_j u_i v_j .$$
+
+To these formulae may be added the following:
+$$\Pi_i u_i + \Pi_j v_j = \Pi_i \Pi_j (u_i + v_j) .$$
+$$\Pi_i u_i + \Sigma_j v_j = \Pi_i \Sigma_j (u_i + v_j) .$$
+$$\Sigma_i u_i + \Sigma_j v_j = \Sigma_i \Sigma_j (u_i + v_j) .$$
+
+We may [del]them[/del] [ins]also[/ins] often simplify the [del]formula[/del] [ins]expression[/ins] by means of the following:
+$$\Pi_i \Pi_j u_i v_j = \Pi_k u_k v_k .$$
+$$\Sigma_i \Sigma_j (u_i + v_j) = \Sigma_k (u_k + v_k) .$$
+
+It will then be found that the number to be eliminated occurs in the two forms $u_i$ and $\overline{u}_j$, and supposing the operator relative to $i$ to be to the left of that relative to $j$, it becomes necessary to substitute $j$ for $i$. There are various methods of doing this of various degrees of complexity. [del]A method[/del] [ins]One of[/ins] these will produce every conclusion

@@ -1,0 +1,91 @@
+[u]Logic Symmetrical.[/u]
+
+[pn]III[/pn]
+92
+
+[del]x . y[/del] [ins]x . y[/ins], [del](x . y) . y[/del] [ins](x . y) . y[/ins], [del]x . y[/del] [ins]x . y[/ins], [del]x . y[/del] [ins]x . y[/ins], [del]x . y[/del] [ins]x . y[/ins], [del]x . y[/del] [ins]x . y[/ins].
+
+This is the operation of aggregation. It is commutative:
+
+(57) If [del]x . y[/del] [ins]x . y[/ins] then [del]y . x[/del] [ins]y . x[/ins] necessarily
+
+It is associative:
+
+(58) If [del](x . y) . z[/del] [ins](x . y) . z[/ins], then [del]x . (y . z)[/del] [ins]x . (y . z)[/ins] necessarily;
+
+(59) If [del]x . (y . z)[/del] [ins]x . (y . z)[/ins], then [del](x . y) . z[/del] [ins](x . y) . z[/ins] necessarily.
+
+The important formula,
+
+(60) If [del](x . y) . z[/del] [ins](x . y) . z[/ins], then [del]x . y . z[/del] [ins]x . y . z[/ins] necessarily.
+
+Among the other formulae are
+
+(61) [del]Necessary[/del] [ins]Necessarily[/ins], [del]if[/del] [del](x . y) . z[/del] [ins](x . y) . z[/ins]
+
+[fig]small sketch[/fig]
+
+x . (y . y)
+y + y
+
+x + y . y
+(x + y) . (x + y)
+
+x + y . z
+x . y + z
+
+x + y . z
+x . y + z
+
+(x . y) . (x . y)
+(x . y) . y
+x . y
+(x . y) . (x . y)
+
+(x . y) . z
+x . y . z
+
+(x . y) . z
+x . y . z
+
+x . (y . z) = (x . y) . z
+
+x + y . z
+x . y + z
+
+x + y . z
+x . y + z
+
+x + y . z
+x . y + z
+
+(x + y) . (y + z)
+
+(x + y) . z
+x . (y + z)
+
+(x + y) . z
+x . (y + z)
+
+x . y . z
+x + y + y
+x . y . y
+
+x . y . z
+x + y + z
+(x + y) . z
+(x . y) . z
+
+x . (y . z)
+
+x . y . z
+x + y + z
+x . y . z
+
+x . y . z
+x + y + z
+x . y . z
+
+x . y . z
+x + y + z
+x . y . z

@@ -1,0 +1,45 @@
+[pn]Page 8[/pn]
+
+[del]$(E_{x} - A_{x})^{-1} u_{x} = \frac{1}{\Pi A_{x-1}} \sum \frac{u_{x}}{\Pi A_{x}}$[/del]
+[del]Because $\frac{1}{\Pi A_{x}} - \frac{u_{x+1}}{\Pi A_{x+1}} - \frac{A_{x}}{\Pi A_{x-1}} \sum \frac{u_{x}}{\Pi A_{x}} = u_{x}$[/del]
+
+How so? The equals
+$\frac{1}{\Pi A_{x}} \{ \frac{u_{x}}{\Pi}$
+
+$(E_{x} - A_{x})^{-1} u_{x} = \Pi A_{x-1} \sum \frac{u_{x}}{\Pi A_{x}}$
+
+Because $\Pi A_{x} \sum \frac{u_{x+1}}{\Pi A_{x+1}} - \Pi A_{x} \sum \frac{u_{x}}{\Pi A_{x}}$
+$= \Pi A_{x} ( \frac{u_{x}}{\Pi A_{x}} + \frac{u_{x-1}}{\Pi A_{x-1}} + \frac{u_{x-2}}{\Pi A_{x-2}} )$
+$- \Pi A_{x} ( \frac{u_{x-1}}{\Pi A_{x-1}} + \frac{u_{x-2}}{\Pi A_{x-2}} )$
+
+So then $(E_{x} - A_{x}) (E_{x} - A_{x})^{-1} = 1$
+
+$(E_{x} - A_{x}) (E_{x} - A_{x})^{-1} u_{x} = (E_{x} - A_{x})^{-1} (u_{x+1} - A_{x} u_{x})$
+$= \Pi A_{x-1} \sum \frac{u_{x+1}}{\Pi A_{x}} - \Pi A_{x-1} \sum \frac{A_{x} u_{x}}{\Pi A_{x}}$
+$= \Pi A_{x-1} \{ \frac{u_{x}}{\Pi A_{x-1}} + \frac{u_{x-1}}{\Pi A_{x-2}} + \frac{u_{x-2}}{\Pi A_{x-3}} \text{ etc} \}$
+$- \Pi A_{x-1} \{ \frac{u_{x-1}}{\Pi A_{x-2}} + \frac{u_{x-2}}{\Pi A_{x-3}} = u_{x}$
+
+***
+
+[pn]Page 7[/pn]
+
+But why not go to work this way?
+
+$\frac{1}{E_{x} - A_{x}} + \frac{1}{E_{x} - B_{x}}$
+$= \frac{E_{x} - B_{x} + E_{x} - A_{x}}{(E_{x} - A_{x}) (E_{x} - B_{x})}$
+
+Is not that so? Let us see
+
+$(E_{x} - A_{x})^{-1} + (E_{x} - B_{x})^{-1}$
+$= (E_{x} - A_{x})^{-1} (E_{x} - B_{x})^{-1} (E_{x} - B_{x}) + (E_{x} - A_{x}) (E_{x} - A_{x})^{-1} (E_{x} - B_{x})^{-1}$
+
+The question is is
+$(E_{x} - A_{x})^{-1} (E_{x} - A_{x}) = (E_{x} - A_{x}) (E_{x} - A_{x})^{-1}$
+and if not, what is necessary?
+
+$(E_{x} - A_{x})^{-1} (E_{x} - A_{x}) u_{x}$
+$= (E_{x} - A_{x})^{-1} (u_{x+1} - A_{x} u_{x})$
+$= \Pi \frac{1}{A_{x-1}} \sum \frac{u_{x+1}}{\Pi A_{x}} - \Pi \frac{1}{A_{x-1}} \sum \frac{A_{x} u_{x}}{\Pi A_{x}}$
+
+[del]$(E_{x} - A_{x}) (E_{x} - A_{x})^{-1} u_{x} = (E_{x} - A_{x}) \Pi A_{x-1} \sum \frac{u_{x}}{\Pi A_{x}}$[/del]
+[del]$= \Pi A_{x} \sum \frac{u_{x+1}}{\Pi A_{x+1}} - A_{x} \Pi A_{x-1} \sum \frac{u_{x}}{\Pi A_{x}}$[/del]

@@ -1,0 +1,17 @@
+$$d = + (A_1 + B_1 \sqrt{-1}) (A_2 + B_2 \sqrt{-1}) (A_3 + B_3 \sqrt{-1}) (A_4 + B_4 \sqrt{-1})$$
+
+$$= A_1 A_2 A_3 A_4$$
+
+$$\sqrt{-1} + A_1 A_2 A_3 B_4 + A_1 A_2 B_3 A_4 + A_1 B_2 A_3 A_4 + B_1 A_2 A_3 A_4$$
+
+$$\underline{-1} A_1 A_2 B_3 B_4 -$$
+
+$$\sqrt{-1} - A_1 B_2 B_3 B_4$$
+
+So that $A_1 A_2 A_3 A_4 \sum \frac{B_1}{A_1}$
+
+[del]$= A_1 ( \sum A_1 )$[/del]
+
+$$A_1 A_2 A_3 A_4 \sum \frac{B_1}{A_1} ( \sum \frac{B_1}{A_1} - \frac{B_1}{A_1} )$$
+
+[fig]Wavy line and parallel lines[/fig]

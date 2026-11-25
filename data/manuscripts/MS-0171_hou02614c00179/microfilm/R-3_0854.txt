@@ -1,0 +1,46 @@
+$$y = \text{Excess of a fraction over the next less } 79\text{th.}$$
+
+$$y = \frac{x-E}{N} - \frac{x}{79}$$
+
+$$y = \frac{x-E+F}{N+\Delta} - \frac{x}{79}$$
+
+$$(x-E)(N+\Delta) = [del]x[/del][ins]x-E+F[/ins]N$$
+
+$$\Delta = \frac{FN}{x-E}$$
+
+$$x = E + N \frac{F}{\Delta}$$
+
+$$N = \frac{\Delta}{F}(x-E)$$
+
+$$y = \frac{F}{\Delta} - \frac{x}{79}$$
+
+$$\begin{array}{c}
+x+y \\
+x-y \\
+\hline (x^2-y^2)
+\end{array}$$
+
+$$\begin{aligned}
+y_0 &= \frac{x-E}{N} - \frac{x}{79} \\
+y_1 &= \frac{x-E-A}{N-B} - \frac{x}{79} \\
+y_2 &= \frac{x-E-2A}{N-2B} - \frac{x}{79}
+\end{aligned}$$
+
+$$\begin{aligned}
+y_1 - y_0 &= \frac{x-E-A}{N-B} - \frac{x-E}{N} \\
+&= \frac{B(x-E) - NA}{N(N-B)} \\
+y_2 - y_1 &= \frac{x-E-2A}{N-2B} - \frac{x-E-A}{N-B} \\
+&= \frac{B(x-E[del]-A[/del]) - ([del]N-B[/del])A}{(N-B)(N-2B)}
+\end{aligned}$$
+
+$$\frac{1}{[u][N-(m+2)B][N-(m+1)B][/u]} - \frac{1}{[u][N-(m+1)B](N-mB)[/u]}$$
+
+$$[del]\text{A}[/del] \quad N-mB - N + (m+2)B$$
+
+$$\frac{2B}{[del]N^2-3(m+1)BN^2+3[/del] [u][N-(m+2)B][N-(m+1)B](N-mB)[/u]}$$
+
+$$\begin{aligned}
+&\frac{x-E-[del]m[/del][ins]m[/ins]A}{N-[del]m[/del][ins]m[/ins]B} - \frac{x-E-mA}{[del]N-mB[/del]} \\
+&= \frac{B(x-E-mA) - (N-mB)A}{[u][N-(m+1)B](N-mB)[/u]} \\
+&= \frac{B(x-E) - NA}{[u][N-(m+1)B](N-mB)[/u]}
+\end{aligned}$$

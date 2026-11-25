@@ -1,0 +1,23 @@
+If Z is scriptible
+$A \prec (B \prec Z)$
+$A \prec [B \prec (C \prec Z)]$
+and so on are scriptible, by I.
+
+(5). If $A \prec B$ is scriptible and $A$ is any necessary formula then $B$ is scriptible. Thus if any of the following is scriptible
+$(A \prec A) \prec B$
+$[A \prec (B \prec B)] \prec B$
+$B$ is scriptible
+
+(6) If $A \prec B$ is scriptible and $A$ is any necessary formula then
+$B \prec Z$
+$B \prec (C \prec Z)$
+and so on are scriptible.
+
+(7) Hence the following are scriptible
+$Z \prec (A \prec Z)$
+$Z \prec [A \prec (B \prec Z)]$
+and so forth
+$[(A \prec A) \prec Z] \prec Z$
+$\{ [A \prec (B \prec B)] \prec Z \} \prec Z$
+$[(A \prec A) \prec Z] \prec (B \prec Z)$
+$[(A \prec A) \prec Z] \prec [B \prec (C \prec Z)]$

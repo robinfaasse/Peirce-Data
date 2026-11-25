@@ -1,0 +1,25 @@
+then, suppose [u]i[/u] and [u]j[/u] to be unit vectors.
+Now,
+[u]i[/u][u]j[/u]² = - [u]i[/u].
+If therefore we had
+[u]i[/u][u]j[/u] = a + b[u]i[/u] + c[u]j[/u]
+we should have
+- [u]i[/u] = [u]i[/u][u]j[/u]² = a[u]j[/u] + b[u]i[/u][u]j[/u] - c
+= ab - c + b²[u]i[/u] + (a + bc)[u]j[/u]
+Whence, [u]i[/u] and [u]j[/u] being dissimilar,
+- [u]i[/u] = b²[u]i[/u]
+b² = - 1
+and b could not be real.
+
+7. Our next step is to show that, [u]i[/u] and [u]j[/u]
+being any two vectors, and
+[u]i[/u][u]j[/u] = s + [u]v[/u],
+s being [del]a[/del] [ins]scalar[/ins], and [u]v[/u] a vector, we have
+[u]j[/u][u]i[/u] = r(s - [u]v[/u])
+where r is a real scalar. It will be obviously
+sufficient to prove this for the case in which
+[u]i[/u] and [u]j[/u] are unit vectors. Assuming this,
+let us write
+[u]j[/u][u]i[/u] = s' + [u]v[/u]'
+[u]v[/u][u]v[/u]' = s'' + [u]v[/u]''
+where s' and s'' are scalars, while [u]v[/u]' and [u]v[/u]''

@@ -1,0 +1,28 @@
+[pn]XXIII[/pn] [fig]connecting arcs[/fig] $(\bar{u} + \bar{v})\bar{w} + x\bar{y} + z$
+$[ (u \prec v) \prec w ] \prec [ (u \prec v) \prec w ]$
+$[ (u \prec u) \prec v ] \prec [ (v \prec w) \prec w ]$
+
+$[ (u \prec v) \prec w ] \prec [ (w \prec u) \prec u ]$ ——— Remarkable
+
+$(\bar{u} + v)\bar{v} + v\bar{u} + u$
+
+[pn]XXIV[/pn] $uvw\bar{x} + \bar{y} + z$
+[pn]XXV[/pn] $u(\bar{v} + w)\bar{x} + \bar{y} + z$
+[pn]XXVI[/pn] [fig]connecting arcs[/fig] $(\bar{u} + v)w\bar{x} + \bar{y} + z$
+[pn]XXVII[/pn] $(\bar{u} + \bar{v} + w)\bar{x} + \bar{y} + z$
+[pn]XXVIII[/pn] [fig]connecting arcs[/fig] $(u\bar{v} + w)\bar{x} + \bar{y} + z$
+
+[pn]XXIX[/pn] $uvwx\bar{y} + z$
+[pn]XXX[/pn] $uv(\bar{w} + x)\bar{y} + z$
+[pn]XXXI[/pn] $u(\bar{v} + w)x\bar{y} + z$
+[pn]XXXII[/pn] $u(\bar{v} + \bar{w} + x)\bar{y} + z$
+[pn]XXXIII[/pn] $u(v\bar{w} + x)\bar{y} + z$
+[pn]XXXIV[/pn] $(\bar{u} + v)wx\bar{y} + z$
+[pn]XXXV[/pn] $(\bar{u} + v)(\bar{w} + x)\bar{y} + z$
+[pn]XXXVI[/pn] $(\bar{u} + \bar{v} + w)x\bar{y} + z$
+[pn]XXXVII[/pn] $(u\bar{v} + w)x\bar{y} + z$
+[pn]XXXVIII[/pn] $(\bar{u} + \bar{v} + \bar{w} + x)\bar{y} + z$
+[pn]XXXIX[/pn] $(\bar{u} + v\bar{w} + x)\bar{y} + z$
+[pn]XL[/pn] $(u\bar{v} + \bar{w} + x)\bar{y} + z$
+[pn]XLI[/pn] $(uv\bar{w} + x)\bar{y} + z$
+[pn]XLII[/pn] $[(\bar{u} + v)\bar{w} + x]\bar{y} + z$

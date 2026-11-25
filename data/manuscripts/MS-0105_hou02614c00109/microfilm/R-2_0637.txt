@@ -1,0 +1,28 @@
+Let $p$ be an angular parameter
+
+$F_1$ $F_2$ [del]functions[/del] having $360^\circ$ as their minimum period.
+
+Suppose
+$$x = F_1 p$$
+$$y = F_2 p$$
+
+Call this the condition of the curve between them being really unicursal.
+
+Let $s$ be the described arc.
+
+$\tau$ the angle through which the tangent has turned up to [ins]the variable[/ins] [del]any[/del] point of the curve.
+
+Then, $s = \int \sqrt{(F_1' p)^2 + (F_2' p)^2} dp$
+
+$$\text{Tan } \tau = \frac{F_2' p}{F_1' p} \quad \text{or} \quad F_1' p \cdot \sin \tau = F_2' p \cdot \cos \tau$$
+
+Suppose $\tau = N p$, where $N$ is an integer.
+
+This establishes a relation between $F_1'$ and $F_2'$
+
+If $N = 1$
+$$F_2' p = \tan p \cdot F_1' p$$
+
+[del]Suppose[/del] $F_1' p = $ [del]A[/del] $A \cos p + B \sin p$
+$$F_2' p = \frac{A \sin p + B \sin p \cdot \tan p}{\cos p - B \cos^3 p}$$
+$$= [del]A \sin p[/del] + \frac{1}{4} B \cos p - \frac{B}{4} \cos 3p$$

@@ -1,0 +1,23 @@
+[u]Notes to Kempe[/u]
+
+§ 3 Unit Substitute Monad. It has no parts
+
+§ 4. Distinguished, undistinguished. [del]Substitute[/del] Substitute [u]like[/u] and [del]unlike[/del] [ins]truly[/ins]. Undistinguished [del]monads[/del] [ins]monads[/ins] are identical. Monads may be distinguished yet possess no [ins]different[/ins] characters, not even relative characters: they are then [u]like[/u]. [ins]Write A=A
+A=B if A and B are alike[/ins]
+
+§ 5. [del]Pairs[/del] [ins]Dyads (dont say pairs)[/ins] are really of two types A:A and A:B. In Fig 1, The monads are all alike A=B=C. The dyads are [del]also alike in one sense[/del] [ins]alike in themselves but unlike in their relations.[/ins]
+
+[fig]Three-by-three matrix of dyads[/fig]
+A:A  A:B  A:C
+B:A  B:B  B:C
+C:A  C:B  C:C
+
+The identical dyads are A:A  B:B  C:C which are entirely alike
+
+Of a different form are A:B  B:C  C:A which by the arrows are brought under one class, thereby bringing B:A  C:B  A:C under the [del]other[/del] [ins]reverse[/ins].
+
+Put A:A + B:B + C:C = I
+A:B + B:C + C:A = l
+Then B:A + C:B + A:C = Kl
+lll = I  ll = Kl
+Kl.Kl = l [del]Kl.Kl.Kl = I[/del]

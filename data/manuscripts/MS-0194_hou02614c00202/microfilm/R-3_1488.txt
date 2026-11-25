@@ -1,0 +1,24 @@
+[fig]Diagram of a double pendulum with angles theta, phi1, phi2[/fig]
+
+[del]M₁ r sin ω[/del]
+
+(M₁ + M₂) r sin ω + M₁ l₁ sin φ₁ + M₂ l₂ sin φ₂
+
+(M₁ + M₂) r cos ω + M₁ l₁ cos φ₁ + M₂ l₂ cos φ₂
+
+(M₁ + M₂) r cos ω D_t ω + M₁ l₁ cos φ₁ D_t φ₁ + M₂ l₂ cos φ₂ D_t φ₂
+
+- (M₁ + M₂) r sin ω D_t ω - M₁ l₁ sin φ₁ D_t φ₁ - M₂ l₂ sin φ₂ D_t φ₂
+
+[del]M₁ r² cos² ω (D_t ω)² + 2 M₁ r l₁ cos ω cos φ₁ D_t ω D_t φ₁ + M₁ l₁² cos² φ₁ (D_t φ₁)²[/del]
+[del]+ M₁ r² sin² ω (D_t ω)[/del]       [del]sin[/del]   [del]sin[/del]                      [del]sin²[/del]
+
+[del]1/2[/del] M₁ r² (D_t ω)² + [del]2[/del] M₁ r l₁ cos (ω - φ₁) D_t ω D_t φ₁ + M₁ l₁² (D_t φ₁)²
++ M₂ [ins]+ M₂ r l₂ cos (ω - φ₂) D_t ω D_t φ₂ + M₂ l₂² (D_t φ₂)²[/ins]
+
+(M₁ + M₂) g cos ω + M₁ g cos φ₁ + M₂ g cos φ₂
+
+M₁ r² D_t ω + M₁ r l₁ cos (ω - φ₁) D_t φ₁ + M₂ r l₂ cos (ω - φ₂) D_t φ₂
+
+M₁ r² D_t² ω + M₁ r l₁ cos (ω - φ₁) D_t² φ₁ [del]+[/del] M₁ r l₁ sin (ω - φ₁) D_t ω D_t φ₁
+                                  + M₁ r l₁ sin (ω - φ₁) (D_t φ₁)²

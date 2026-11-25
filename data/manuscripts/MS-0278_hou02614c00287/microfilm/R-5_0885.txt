@@ -1,0 +1,19 @@
+[del](A:B) - (B:A) + (C:D) - (D:C)[/del]
+[del](A:B) - (C:A) - (C:D) + (D:C)[/del]
+[del](A:C) - (C:A) +[/del]
+
+(A:B) - (B:A) + (C:D) - (D:C) = k
+(B:D) - (D:B) + (C:A) - (A:C) = l
+[fig]Diagram with letters A, B, C and arrows[/fig] (D:A) - (A:D) + (C:B) - (B:C) = m
+
+[u](A:B) - (C:A) + (C:D) - (D:C)[/u]
+
+(B:C) - (C:B)
+
+(A:C)
+- (B:A + A:B) - (D:C + C:D)
++ (B:A - A:B) - (D:C + C:D)
+- (D:A + C:B) - (B:C + A:D)
+- (D:A + C:B) - (B:C) + (A:D)
++ (C:A) - (D:B) - (A:C) + (B:D)
+- (C:A) - (D:B) - (A:C) + (B:D)

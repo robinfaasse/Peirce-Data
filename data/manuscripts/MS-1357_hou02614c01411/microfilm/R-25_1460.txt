@@ -1,0 +1,29 @@
+[del]weight[/del] [ins]$\omega$[/ins] in infinite horizontal distance, namely,
+either $\omega_H = Q \tan \tau_0$ or $\omega_H = - Q \tan \tau_N$,
+according as $A$ or $\Omega$ is the lowest, and thus (14) will be satisfied.
+
+§4. Let us now find $x$ for the centre of gravity of the weights
+going from [del]a lot[/del] $x = x_n + \text{small quantity}$ [ins]with[/ins] increasing $x$ to $x = x_m + \text{small quantity}$.
+We will denote this by $\overset{m}{\underset{n}{x}}$, where $m > n$. For the sake of [ins]making[/ins] our formu-
+lae true when the smaller number is written above, it will be requisite to understand
+($15\frac{1}{2}$) $\overset{m}{\underset{n}{x}} = - \overset{n}{\underset{m}{x}}$.
+
+We shall use $\Sigma$ and $\Delta$, either with or without indications of the limits, thus:
+$\Delta u_m = \overset{m+1}{\underset{m}{\Delta}} u_n = u_{m+1} - u_m$,
+$\Sigma u_m = \overset{m-1}{\underset{n}{\Sigma}} u_n + \text{Arbitrary Constant} = u_{m-1} + u_m + \dots + u_n + \text{Arbitrary Constant}$
+
+We have by definition
+(16) $\overset{m}{\underset{n}{x}} = \frac{(\omega_m - \omega_{m-1})x_m + (\omega_{m-1} - \omega_{m-2})x_{m-1} + \dots + (\omega_{n+1} - \omega_n)x_{n+1}}{\omega_m - \omega_n}$
+$= \frac{\omega_m x_m - \omega_{m-1}(x_m - x_{m-1}) - \omega_{m-2}(x_{m-1} - x_{m-2}) - \dots - \omega_n(x_{n+1} - x_n) - \omega_n x_n}{\omega_m - \omega_n}$
+$= \frac{[\omega_m x_m - \Sigma(\omega_m \Delta x_m)] - [\omega_n x_n - \Sigma(\omega_n \Delta x_n)]}{\omega_m - \omega_n}$.
+
+But by (7) and (1)
+$\omega_m \Delta x_m = Q \Delta y_m - Q \tan \tau_0 \Delta x_m$
+$\Sigma(\omega_m \Delta x_m) = Q y_m - Q \tan \tau_0 x_m + C$
+$\omega_m x_m = Q x_m \tan \tau_m - Q \tan \tau_0 x_m$.
+
+Hence
+(17) $\overset{m}{\underset{n}{x}} = \frac{[x_m \tan \tau_m - y_m] - [x_n \tan \tau_n - y_n]}{\tan \tau_m - \tan \tau_n}$.
+
+It is evident that ($15\frac{1}{2}$) must be adopted, both numerator and denominator changing
+signs on interchanging $m$ and $n$.

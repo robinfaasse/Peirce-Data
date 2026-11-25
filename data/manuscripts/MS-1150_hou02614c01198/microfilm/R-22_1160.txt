@@ -1,0 +1,18 @@
+[u]Method of Solving a Numerical Equation[/u]
+
+Starting with the [del]simple[/del] [ins]False[/ins], if the equation is $Fx = 1$ [ins]and assuming $x = a_0$[/ins] we have $x = \frac{a_0}{Fa_0}$ as the first approximation.
+
+Applying this to the quadratic
+where $x_1 > x_2$
+$x^2 - (x_1 + x_2)x + x_1 x_2 = 0$
+[ins]assume[/ins] $a_0$. Then
+$$\begin{aligned}
+a_1 &= x_1 + x_2 - \frac{x_1 x_2}{a_0} \\
+&= \frac{a_0(x_1 + x_2) - x_1 x_2}{a_0} \\
+&= \frac{a_0(x_1 + x_2)(x_1 - x_2) - x_1 x_2(x_1 - x_2)}{a_0(x_1 - x_2)} \\
+&= \frac{(a_0 - x_2)x_1^2 + (x_1 - a_0)x_2^2}{(a_0 - x_2)x_1 + (x_1 - a_0)x_2} \\
+&= x_1 \frac{1 + \frac{x_1 - a_0}{a_0 - x_2} \left(\frac{x_2}{x_1}\right)^2}{1 + \frac{x_1 - a_0}{a_0 - x_2} \frac{x_2}{x_1}}
+\end{aligned}$$
+
+And
+$$a_n = x_1 \frac{1 + \frac{x_1 - a_0}{a_0 - x_2} \left(\frac{x_2}{x_1}\right)^{n+1}}{1 + \frac{x_1 - a_0}{a_0 - x_2} \left(\frac{x_2}{x_1}\right)^n}$$

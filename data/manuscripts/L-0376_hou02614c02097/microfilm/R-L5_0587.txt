@@ -1,0 +1,11 @@
+[u]Lexell's Theorems[/u].
+
+[fig]Hexagon with sides a, b, c, d, e, f and exterior angles alpha, beta, gamma, delta, epsilon, phi[/fig] The Greek letters stand for the angles of any polygon, and the United States letters stand for the sides. Then the theorems are
+
+(1) $a \sin \alpha + b \sin (\alpha + \beta) + c \sin (\alpha + \beta + \gamma) + d \sin (\alpha + \beta + \gamma + \delta) +$
+$e \sin (\alpha + \beta + \gamma + \delta + \epsilon) + f \sin (\alpha + \beta + \gamma + \delta + \epsilon + \phi) = 0$
+
+(2) Same thing with "$\cos$" everywhere in place of "$\sin$".
+[ Parenthetical remark: I don't see anything in these to be very proud of, yet Lexell remarks, [ins]rather proudly[/ins] that they offer a basis for a complete polygonal trigonometry (?), analogous to the ordinary triangle trigonometry. ]
+
+[u]Slonimski's Theorem[/u]. (Not Słonimski.) "Soit $Z$ un nombre quelconque, et désignons les chiffres de ce nombre en allant de la droite vers la gauche, par $z_1, z_2, z_3, \dots z_n \dots$ Si sous le nombre $Z$ on écrit ses multiples $2Z$, $3Z, \dots 9Z$, de sorte que les unités, les dizaines, les centaines, etc., soient en lignes verticales, il est clair que la dernière ligne verticale, celle qui passe par le dernier chiffre $z_1$ de $Z$, contiendra [u]les seconds chiffres des produits $2z_1, 3z_1, \dots 9z_1$[/u]. Mais il n'en sera pas ainsi de toute autre ligne verticale. Celle, par exemple, qui passe par $z_2$, ne contiendra pas [u]la serie des seconds chiffres des produits[/u]

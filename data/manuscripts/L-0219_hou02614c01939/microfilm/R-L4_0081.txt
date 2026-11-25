@@ -1,0 +1,20 @@
+[pn]14[/pn]
+
+are found, $(a = w)$ is needed for the further special case in which there is only one [u]($w_{un}$)[/u] $a$-line. It also denotes all the universes in each of which $a$ is single. [u]$\bar{a}$[/u]
+[u]$\bar{a}$[/u]
+[u]$\bar{a}$[/u]
+
+Schroeder actually revels in the discovery of equivalents for '$w$' (the sign) in a notation not expressly contrived (and, as he says, expressly not contrived) for the purpose.
+
+[fig]Curly bracket grouping terms l, m, n[/fig]
+$\langle (a \in b) (b \in c) \in (a \in c) \rangle =$
+
+$\left[ \langle (a = ab) + (i = \bar{a}b) + \dots (i = 0) \rangle \langle (b = bc) + (i = \bar{b}c) + \dots (i = 0) \rangle \in \right.$
+
+$\left. \langle (i = ac) + (i = \bar{a}c) + \dots (i = 0) \rangle \right] = \left[ \langle (i = abc) + (i = ab\bar{c}) + (i = \bar{a}bc + \bar{a}\bar{b}\bar{c}) \right.$
+
+$+ \text{ to } 63 \text{ terms excluding } 0 \rangle \langle (i = abc) + (i = \bar{a}bc) + \dots \text{ to } 60 \text{ odd terms} \rangle \in$
+
+$\left. \langle (i = abc) + (i = ab\bar{c}) + (i = \bar{a}bc + \bar{a}\bar{b}\bar{c}) + \dots \rangle \right]$
+
+(I have developed these in full, just to see how [del]they looked[/del])

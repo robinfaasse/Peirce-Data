@@ -1,0 +1,24 @@
+On Space-Logic. By C. S. Peirce.
+[[date]Written 1895 Nov. 13[/date]]
+
+Chapter I. Unidimensional.
+
+[u]Art. 1.[/u] Two points sever a self-returning line into two moieties.
+Let $l_{ABCD}$ [del]mean[/del] [ins]signify the assertion[/ins] that on the line, $l$, C and D are in the same
+one of the moieties made by A and B, and that B and C are
+in the same one of the moieties made by A and D.
+Thus, by definition,
+$l_{ABCD} = l_{BCDA} = l_{CDAB} = l_{DABC} = l_{DCBA} = l_{CBAD} = l_{BADC} = l_{ADCB}$.
+The definition of $l_{ABCD}$ is to be so understood that two
+coincident points are to be reckoned as on both sides of one
+another, not on neither side of one another. That is,
+$\infty \prec l_{AABC}$. Hence,
+$l_{ABCD}$ implies that neither A nor C coincides with either B or D.
+[ins]It precisely signifies that B and D are on the same side of A and C, and removed from both.[/ins]
+On the other hand,
+$l_{ABAC}$ implies that either B or C coincides with A.
+Immediate corollaries are that
+$l_{ABAB}$ means that A and B are coincident,
+$\overline{l}_{ABAB}$ means that A and B are not coincident.
+There are three possible cases, viz:
+$\Pi_X (l_{ABCX} + l_{ABXC} + l_{AXBC})$.

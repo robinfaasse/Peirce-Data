@@ -1,0 +1,32 @@
+[fig]Vertical line separating A with overbar and A with overbar twice[/fig] [fig]Vertical line separating A overbar over A and A A overbar A overbar overbar A overbar over A[/fig]
+
+$$\begin{array}{ccc}
+\text{A} & \text{B} & \text{(AB)} \\
+\text{(A(AB))} & \text{(B(AB))} & \text{(A B(AB))}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{A} \\
+[del]\text{AB}[/del] \\
+\text{(A(AB))A} \\
+\qquad\text{B} \\
+\qquad\text{(AB)} \\
+\qquad\text{AB} \\
+\qquad\text{A(AB)} \\
+\qquad\text{AB(AB}
+\end{array}$$
+
+$$\begin{array}{l}
+2 \\
+2^2 - 1 = 3 \\
+2^3 - 2 = 6 \\
+2^6 - 3
+\end{array}$$
+
+$$\begin{array}{l}
+2^1 \\
+2^2 - 2^1 \\
+2^{2^2 - 2^1} - 2^1 \\
+2^{2^{2^2 - 2^1} - 2^1} - 2^{2^2 - 2^1} \\
+2
+\end{array}$$

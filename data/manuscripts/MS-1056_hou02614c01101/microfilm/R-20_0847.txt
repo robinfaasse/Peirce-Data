@@ -1,0 +1,29 @@
+[u]Table of Phyllotactic Numbers[/u].
+
+| $m$ | $0$ | $1$ | $2$ | $3$ | $4$ | $5$ | $6$ | $7$ | $8$ | $9$ | $10$ | $11$ | $12$ | $13$ | $14$ | $15$ | $16$ |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| $^1\mathcal{O}_m$ | $0$ | $1$ | $1$ | $2$ | $3$ | $5$ | $8$ | $13$ | $21$ | $34$ | $55$ | $89$ | $144$ | $233$ | $377$ | $610$ | $987$ |
+| $^1\mathcal{O}_{-m}$ | $0$ | $1$ | $-1$ | $2$ | $-3$ | $5$ | $-8$ | $13$ | | | | | | | | | |
+
+Corollary $^1\mathcal{O}_0 + (-)^0\ ^1\mathcal{O}_{-0} = 0$
+$^1\mathcal{O}_1 + (-)^1\ ^1\mathcal{O}_{-1} = 0$
+
+Consequently,
+(5) $^1\mathcal{O}_m + (-)^m\ ^1\mathcal{O}_{-m} = 0$
+
+[fig]Scratch calculations[/fig]
+
+Corollary. $^1\mathcal{O}_{m+0} = ^1\mathcal{O}_1\ ^1\mathcal{O}_m + ^1\mathcal{O}_0\ ^1\mathcal{O}_{m-1}$
+$^1\mathcal{O}_{m+1} = ^1\mathcal{O}_2\ ^1\mathcal{O}_m + ^1\mathcal{O}_1\ ^1\mathcal{O}_{m-1}$
+
+Consequently,
+(6) $^1\mathcal{O}_{m+n} = ^1\mathcal{O}_{n+1}\ ^1\mathcal{O}_m + ^1\mathcal{O}_n\ ^1\mathcal{O}_{m-1} = ^1\mathcal{O}_m\ ^1\mathcal{O}_n + ^1\mathcal{O}_m\ ^1\mathcal{O}_{n-1} + ^1\mathcal{O}_{m-1}\ ^1\mathcal{O}_n$
+
+From (6) we have again
+$^1\mathcal{O}_{m+n+0} = ^1\mathcal{O}_1\ ^1\mathcal{O}_{n+1}\ ^1\mathcal{O}_m + ^1\mathcal{O}_1\ ^1\mathcal{O}_n\ ^1\mathcal{O}_{m-1} + ^1\mathcal{O}_0\ ^1\mathcal{O}_{m+n-1}$
+$^1\mathcal{O}_{m+n+1} = ^1\mathcal{O}_2\ ^1\mathcal{O}_{n+1}\ ^1\mathcal{O}_m + ^1\mathcal{O}_2\ ^1\mathcal{O}_n\ ^1\mathcal{O}_{m-1} + ^1\mathcal{O}_1\ ^1\mathcal{O}_{m+n-1}$
+
+Consequently,
+$^1\mathcal{O}_{m+n+p} = ^1\mathcal{O}_{p+1}\ ^1\mathcal{O}_{n+1}\ ^1\mathcal{O}_m + ^1\mathcal{O}_{p+1}\ ^1\mathcal{O}_n\ ^1\mathcal{O}_{m-1} + ^1\mathcal{O}_p\ ^1\mathcal{O}_{m+n-1}$
+
+[fig]Scratch calculations and formulas[/fig]

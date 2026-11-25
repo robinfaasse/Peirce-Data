@@ -1,0 +1,28 @@
+[pn]45[/pn]
+
+Thus our first two fractions (I won't take the trouble to write
+them in binary notation are
+$\frac{1}{3}$ $.3333333333$ $\frac{1}{2}$ $0.5000000000$;
+between these the first two are
+$\frac{2}{5}$ $.4000000000$ $\frac{3}{7}$ $0.42857142857$;
+between these the first two are
+$\frac{7}{17}$ $.4117647059$ $\frac{5}{12}$ $0.4166666667$;
+between these the first two are
+$\frac{12}{29}$ $.4137931034$ $\frac{17}{41}$ $0.4146341463$;
+between these the first two are
+$\frac{41}{99}$ $.4141414141$ $\frac{29}{70}$ $0.4142857[del]14[/del][ins]14[/ins]3$;
+between these the first two are
+$\frac{70}{169}$ $.4142011834$ $\frac{99}{239}$ $0.4142259414$
+All these are found in both parallel rows; but they
+are converging toward
+$0.41421356$
+or $\sqrt{2}-1$ which is not a rational fraction.
+
+Now the fact that in this case the numbers happened to be
+rational fractions had nothing to do with the result. It is plain
+that in every case, when between two values we insert
+two, and between those two, two more again, and so on
+indefinitely, there remains a limit which is never
+reached; and the multitude which includes all such limits
+cannot be made to correspond, one to one, to any denumerable
+collection. [ins]$\checkmark$ ([pn]139[/pn])[/ins]

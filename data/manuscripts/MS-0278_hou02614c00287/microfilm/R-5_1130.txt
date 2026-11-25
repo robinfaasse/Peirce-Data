@@ -1,0 +1,24 @@
+Extension of a surface from [del]a line[/del] [ins]a line[/ins]
+
+[del]adds a new edge at the new part[/del]
+[del]or else subtracts two extremities from that line[/del]
+[del]and adds 1 to its C[/del]
+
+If that line is non singular
+[fig]Rectangle[/fig]
+[fig]Intersecting planes[/fig]
+adds a new edge i.e. increase X by 1
+
+If that line has an acnode
+[del]adds another an extremity[/del]
+[del]or increases by 1 nodicity[/del]
+
+[fig]Two tangent circles[/fig]
+If that line has nodes.
+[fig]Two intersecting circles[/fig]
+[del]increases nodicity of each by 1 and adds[/del]
+[del]to the C of line[/del] [ins]making new nodicity 2(N+1)[/ins]
+[del]doubles[/del]
+makes new C of that line 2C + (N-1)
+
+[fig]Two parallel lines connected by two segments[/fig]

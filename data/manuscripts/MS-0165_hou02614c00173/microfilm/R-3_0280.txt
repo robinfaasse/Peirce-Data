@@ -1,0 +1,40 @@
+[fig]Tic-tac-toe board with X in top-middle, O in bottom-middle, and numbers 1 to 6 in other squares[/fig]
+
+Case 342. The first player occupies a side square.
+The second player has a choice between 6 ways of playing,
+as numbered in the figure, making cases 3421, 3422, 3423,
+3424, 3425, 3426.
+
+[fig]Tic-tac-toe board with O in top-left, X in top-middle, and numbers 1 to 5 in other squares[/fig]
+
+Case 3421. The second player occupies [del]a[/del] [ins]the[/ins] corner
+adjoining the two side-squares of the first player.
+The first player has his choice of 5 ways of playing as num-
+bered in the figure, making cases 34211, 34212, 34213, 34214,
+34215.
+
+[fig]Tic-tac-toe board with O in top-left, X in top-middle, X in top-right, X in middle-left, and O in bottom-middle[/fig]
+
+Case 34211. The first player occupies a corner
+adjoining [ins]one of[/ins] his own and a vacant side square.
+The second player can make tit-tat-toe by occupying the corner
+opposite the one he already occupies.
+
+[fig]Tic-tac-toe board with O in top-left, X in top-middle, X in middle-left, X in center, and O in bottom-middle[/fig]
+
+Case 34212. The first player occupies the centre.
+The second player is obliged to occupy the side square
+between two vacant corners. There is no tit-tat-toe.
+
+[fig]Tic-tac-toe board with O in top-left, X in top-middle, O in top-right, X in middle-left, O in center, X in middle-right, X in bottom-left, O in bottom-middle, and X in bottom-right[/fig]
+
+[u]Case 34213.[/u] The first player occupies the
+side square between two vacant corners. The second
+player is obliged to occupy the centre. The first player is obliged
+to occupy the corner opposite that of the [del]first[/del] [ins]second[/ins] player. There is no tit-tat-toe.
+
+[fig]Tic-tac-toe board with O in top-left, X in top-middle, X in middle-left, X in bottom-left, and O in bottom-middle[/fig]
+
+Case 34214. The first player occupies the cor-
+ner adjoining [ins]one of[/ins] his own and the second player's
+side squares. There is no tit-tat-toe unless the

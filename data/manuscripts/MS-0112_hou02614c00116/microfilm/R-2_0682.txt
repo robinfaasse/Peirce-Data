@@ -1,0 +1,29 @@
+$$x^4 + a x^3 y + b x^2 y^2 + c x y^3 + d y^4 = 0$$
+$$x = p \xi + q \eta$$
+$$y = r \xi + s \eta$$
+
+$$x^4 = p^4 \xi^4 + 4 p^3 q \xi^3 \eta + 6 p^2 q^2 \xi^2 \eta^2 + 4 p q^3 \xi \eta^3 + q^4 \eta^4$$
+
+$$x^3 = p^3 \xi^3 + 3 p^2 q \xi^2 \eta + 3 p q^2 \xi \eta^2 + q^3 \eta^3$$
+
+$$x^3 y = p^3 r \xi^4 + \left( \begin{aligned} 3 p^2 q r \\ + p^3 s \end{aligned} \right) \xi^3 \eta + \left( \begin{aligned} 3 p q^2 r \\ + 3 p^2 q s \end{aligned} \right) \xi^2 \eta^2 + \left( \begin{aligned} q^3 r \\ + 3 p q^2 s \end{aligned} \right) \xi \eta^3 + q^3 s \eta^4$$
+
+$$x^2 = p^2 \xi^2 + 2 p q \xi \eta + q^2 \eta^2$$
+$$y^2 = r^2 \xi^2 + 2 r s \xi \eta + s^2 \eta^2$$
+
+$$x^2 y^2 = p^2 r^2 \xi^4 + (2 p^2 r s + 2 p q r^2) \xi^3 \eta + (p^2 s^2 + q^2 r^2 + 4 p q r s) \xi^2 \eta^2$$
+$$+ (2 p q s^2 + 2 q^2 r s) \xi \eta^3 + q^2 s^2 \eta^4$$
+
+$$x y^3 = p r^3 \xi^4 + [del](3 p r^2 s + q r^3)[/del] \xi^3 \eta + \left( \begin{aligned} 3 p r s^2 \\ + 3 q r^2 s \end{aligned} \right) \xi^2 \eta^2 + \left( \begin{aligned} p s^3 \\ + 3 q r s^2 \end{aligned} \right) \xi \eta^3 + [del](q s^3)[/del] \eta^4$$
+
+$$\begin{aligned}
+& p^4 \xi^4 + 4 p^3 q \xi^3 \eta + 6 p^2 q^2 \xi^2 \eta^2 + 4 p q^3 \xi \eta^3 + q^4 \eta^4 \\
+& + a p^3 r + 3 a p^2 q r + 3 a p q^2 r + a q^3 r + a q^3 s \\
+& \phantom{+ a p^3 r} + a p^3 s + 3 a p^2 q s + 3 a p q^2 s + b q^2 s^2 \\
+& + b p^2 r^2 + 2 b p^2 r s + b p^2 s^2 + 2 b p q s^2 \\
+& \phantom{+ b p^2 r^2} + 2 b p q r^2 + b q^2 r^2 + 2 b q^2 r s + c q s^3 \\
+& \phantom{+ b p^2 r^2} \phantom{+ 2 b p q r^2} + 4 b p q r s \\
+& + c p r^3 + 3 c p r^2 s + 3 c p r s^2 + c p s^3 + d s^4 \\
+& \phantom{+ c p r^3} + c q r^3 + 3 c q r^2 s + 3 c q r s^2 \\
+& + d r^4 + 4 d r^3 s + 6 d r^2 s^2 + 4 d r s^3
+\end{aligned}$$

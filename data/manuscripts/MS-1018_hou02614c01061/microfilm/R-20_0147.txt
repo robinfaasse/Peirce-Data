@@ -1,0 +1,39 @@
+[fig]Geometric sketches of squares, grids, and lines[/fig]
+
+[fig]Sketch of a curve with points[/fig]
+
+$$D_{t}^{2} s = l^{2} D_{t}^{2} \varphi$$
+
+$$\varphi = \frac{s}{l}$$
+
+$$(D_{t} \varphi)^{2} (m_{1} l_{1}^{2} + m_{2} l_{2}^{2}) = C - g (m_{1} l_{1} + [del]m_{2} l_{2}[/del]$$
+
+$$m_{1} g \sin \varphi - m_{1} l_{1} D_{t}^{2} \varphi$$
+
+$$m_{1} (D_{t} \theta)^{2} + m_{1} (D_{t} s_{1})^{2} =$$
+
+$$D_{t}^{2} \varphi (m_{1} l_{1}^{2} + m_{2} l_{2}^{2}) = - \varphi (m_{1} l_{1} + m_{2} l_{2})$$
+
+$$D_{t}^{2} s_{1} \cdot m_{1} l_{1} + D_{t}^{2} s_{2} \cdot m_{2} l_{2} = - m_{1} s_{1} - m_{2} s_{2}$$
+
+---
+
+$$m_{1} s_{1} = u \cdot \varphi$$
+
+$$\int \varphi dt$$
+
+$$\int \frac{d\varphi}{dt} dt$$
+
+$$T_{1} = m_{1} \dot{s}_{1}^{2}$$
+
+$$T_{2} = m_{2} \dot{s}_{2}^{2}$$
+
+$$T_{1} + T_{2} = E_{1} - E_{2}$$
+
+$$g s_{1} (m_{1} + m_{2}) = (m_{1} l_{1} + m_{2} l_{2})$$
+
+$$D_{t}^{2} \varphi = \varphi \frac{m_{1} l_{1} + m_{2} l_{2}}{m_{1} + m_{2}}$$
+
+$$D_{t} (D_{t} \varphi)^{2} = - 2 g \varphi \frac{m_{1} l_{1} + m_{2} l_{2}}{m_{1} + m_{2}}$$
+
+$$m D^{2}$$

@@ -1,0 +1,30 @@
+[pn]Logic
+III
+42[/pn]
+
+[del][fig]crossed out logic symbols[/fig][/del] [u]v[/u] [u]v[/u], [u]v[/u] [u]f[/u], [u]f[/u] [u]v[/u], [u]f[/u] [u]f[/u].
+
+But the usual way is to write two equations one below the other
+
+[u]x[/u] = [u]v[/u]      [u]x[/u] = [u]v[/u]      [u]x[/u] = [u]f[/u]      [u]x[/u] = [u]f[/u]
+[u]y[/u] = [u]v[/u]      [u]y[/u] = [u]f[/u]      [u]y[/u] = [u]v[/u]      [u]y[/u] = [u]f[/u]
+
+If two sets of values are admitted, they may be such as to fix
+the value of one quantity and give no information about the
+other. Since there are two values which the former quantity
+may have, and it may be either of the two quantities,
+there are 2x2, or 4, possible informations of this kind,
+namely
+
+[u]v[/u] [sub]x[/sub] ,      [u]f[/u] [sub]x[/sub] ,      [u]v[/u] [sub]y[/sub] ,      [u]f[/u] [sub]y[/sub] ;
+
+or
+
+[u]x[/u] = [u]v[/u],      [u]x[/u] = [u]f[/u],      [u]y[/u] = [u]v[/u],      [u]y[/u] = [u]f[/u].
+
+There remain, then, 6-4, or 2, informations of a different
+kind. Namely the sets of values they admit may be
+either [u]v[/u] [u]v[/u] and [u]f[/u] [u]f[/u] or [u]v[/u] [u]f[/u] and [u]f[/u] [u]v[/u].
+
+The former cannot be better expressed than in the usual
+way, namely, [ins]writing[/ins] [u]x[/u] = [u]y[/u]. The usual way of expressing the

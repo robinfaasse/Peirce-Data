@@ -1,0 +1,49 @@
+[marginalia]
+[date]1902 July 28[/date]
+[/marginalia]
+
+The collection of multitude [del]0[/del] [ins]at most[/ins] [del]is[/del] [ins]1[/ins]
+[del]So that of any universal proposition is true.[/del]
+Of multitude [del]1[/del] [ins]at most[/ins] [del]is[/del] [ins]2[/ins] [del]$\prod_{\alpha}\prod_{\beta}\prod_{\gamma}\prod_{\delta}$[/del] [ins]$\prod_{\alpha}\prod_{\beta}\prod_{\gamma}$[/ins] [del]$(m_{\alpha} + m_{\beta} + m_{\gamma} + q_{\alpha\beta} + q_{\alpha\gamma} + q_{\beta\gamma})$[/del]
+One might also write $\prod_{\alpha}\prod_{\beta}\prod_{\gamma}\prod_{\delta} (m_{\alpha} + m_{\beta} + m_{\gamma} + q_{\alpha\beta} + q_{\alpha\gamma} + q_{\beta\gamma})$
+But this is the same thing $T_{\beta i}$ taking the place of $q_{\beta i}$
+Of multitude 1 exactly $\Sigma_{i}\prod_{\alpha}\prod_{\beta} M_{i} \cdot (M_{i} + \bar{q}_{\beta i} + q_{\beta i})$
+[del]For the def of multitude 1 at most can be expressed[/del]
+With [del]We[/del] therefore have
+
+$\prod_{\alpha}\Sigma_{i} m_{\alpha i} \cdot q_{\alpha i} \prec \prod_{\alpha}\prod_{i} m_{\alpha i} + q_{\alpha i}$
+Of multitude 2 at most we have the two definitions
+$\prod_{\alpha}\prod_{\beta}\prod_{\gamma}\prod_{i}\prod_{j}\prod_{k} m_{\alpha i} + m_{\beta j} + m_{\gamma k} + \bar{q}_{\alpha i} + \bar{q}_{\beta j} + \bar{q}_{\gamma k} + q_{\beta\gamma} + q_{\alpha\gamma} + q_{\alpha\beta}$
+$\prod_{\alpha}\Sigma_{i}\prod_{j}\Sigma_{k} \frac{m_{\alpha i} + m_{\alpha j} + m_{\alpha k}}{M_{j} + m_{i} \cdot (T_{\alpha ii} + \bar{T}_{\alpha ij}) + m_{k} \cdot T_{\alpha}}$
+$\rightleftarrows \frac{\prod_{\alpha}\prod_{\beta}\prod_{\gamma}}{\prod_{\alpha}\Sigma_{i}\prod_{j}\Sigma_{k}} \frac{m_{\alpha i} + m_{\beta j} + \bar{T}_{\alpha ii} + \bar{T}_{\alpha ij}}{m_{\alpha i} + m_{\beta j} + \bar{T}_{\alpha ii} + \bar{T}_{\alpha ij}}$
+[del]$\Sigma_{i}\prod_{j}\Sigma_{k}$[/del]
+$\prod_{\alpha}\Sigma_{i}\Sigma_{j}\Sigma_{\beta} \frac{m_{\alpha i} \cdot \bar{T}_{\alpha ii} \cdot \bar{T}_{\alpha ij}}{M_{\alpha i} \cdot r}$
+
+[del]$\prod_{\alpha}\prod_{\beta}\prod_{\gamma}\prod_{\delta}$[/del] $\prod_{i}\Sigma_{j} T_{ij} \cdot \gamma_{ij} \prec \frac{\gamma_{ji}}{\prod_{k}\prod_{l}}$
+$\prod_{\alpha}\Sigma_{i} T_{\alpha i} \cdot \gamma_{\alpha i} \prec \prod_{k}\prod_{l} T_{\alpha l} + l_{kl}$
+
+---
+
+Of a collection of multitude 0 [del]everything is true.[/del] [ins]$\prod_{i} (m_{i} + \bar{m}_{i})$[/ins]
+Of a collection [del]$\frac{m}{k}$[/del] of multitude 1, at most
+[del]$\prod_{\alpha}\prod_{\beta}$[/del]
+$\prod_{\alpha}\prod_{i}\prod_{j} (m_{i} + \bar{m}_{j} + \bar{q}_{\alpha i} + q_{\alpha j})$
+
+Of a collection of exactly multitude 1
+$\Sigma_{i}\prod_{\beta}\prod_{j} [del]m_{i} \cdot q_{\beta i}$[/del] [ins]$m_{i} \cdot (\bar{m}_{j} + \bar{q}_{\beta i} + q_{\beta j})$[/ins]
+[marginalia]
+$q_{\alpha i} \cdot q_{\beta i} \prec q_{\alpha j} \cdot q_{\beta j}$
+[/marginalia]
+
+Of a collection of multitude 2 at most
+$\prod_{\alpha}\prod_{\beta}\prod_{\gamma}\prod_{i}\prod_{j}\prod_{k} (\bar{m}_{i} + \bar{m}_{j} + \bar{m}_{k} + \bar{q}_{\alpha i} + \bar{q}_{\beta j} + \bar{q}_{\gamma k} + q_{\beta\gamma} + q_{\alpha\gamma} + q_{\alpha\beta})$
+Exactly 2
+$\Sigma_{\alpha}\Sigma_{\beta}\Sigma_{\gamma}\prod_{\delta}\prod_{i}\prod_{j}\prod_{k}\prod_{l} [del]m_{i} \cdot m_{j} \cdot q_{\alpha i} \cdot q_{\beta j}$[/del] [ins]$\cdot (m_{k} + \bar{q}_{\delta i} + q_{\delta k})$[/ins]
+
+$\Sigma_{i}\Sigma_{j}\Sigma_{k}\prod_{\beta} m_{i} \cdot m_{j} \cdot q_{\alpha i} \cdot q_{\beta j} \cdot (m_{k} + \bar{q}_{\beta i} + q_{\beta k})$
+
+Of a collection $m$ of multitude 2 at most another def. is
+[del]$\prod_{\alpha}\prod_{\beta}\Sigma_{i}$[/del] $\prod_{\alpha}\Sigma_{i}\prod_{j}\Sigma_{k} \bar{m}_{i} + \bar{m}_{j} + \bar{m}_{k} + \bar{T}_{\alpha ii} + \bar{T}_{\alpha ij}$
+
+[fig]curly bracket pointing to the formula below[/fig] $\prod_{\alpha} (\prod_{i}\Sigma_{j}) \bar{m}_{i} + \bar{m}_{j} + \bar{T}_{\alpha ii} + \bar{T}_{\alpha ij} \Psi T_{\alpha ij}$
+$\prod_{\alpha}\Sigma_{i}\prod_{j}\Sigma_{k} \bar{m}_{i} + \bar{m}_{j} + [del]\bar{T}_{\alpha ii}[/del] [ins]$\bar{T}_{\alpha ii}$[/ins] + \bar{T}_{\alpha ij} \Psi T_{\alpha ki} \cdot \gamma_{\alpha jk}$

@@ -1,0 +1,25 @@
+$$d \left( \log (1-\sin\varphi) - \log\cos\varphi \right) = \frac{-\cos\varphi}{1-\sin\varphi} + \frac{\sin\varphi}{\cos\varphi}$$
+$$= \frac{-(1+\sin\varphi)}{\cos\varphi} + \frac{\sin\varphi}{\cos\varphi} = -\frac{1}{\cos\varphi}$$
+
+[fig]Geometric diagrams with circles and intersecting lines[/fig]
+
+$$\log r = \log\tan (45^{\circ}-\frac{\varphi}{2}) + \frac{e}{2}\log \frac{1+e\sin\varphi}{1-e\sin\varphi}$$
+$$r = \left( \frac{1+e\sin\varphi}{1-e\sin\varphi} \right)^{\frac{e}{2}} \tan (45^{\circ}-\frac{\varphi}{2})$$
+
+$$\tan (45^{\circ}-\frac{\varphi}{2}) = \frac{1-\sin\varphi}{\cos\varphi}$$
+$$\tan^{2} (45^{\circ}-\frac{\varphi}{2}) \cos^{2}\varphi = (1-\sin\varphi)^{2}$$
+
+$$\frac{1-e + e\cos\varphi\tan(45^{\circ}+\frac{\varphi}{2})}{1+e + e\cos\varphi\tan(45^{\circ}-\frac{\varphi}{2})}$$
+
+$$\frac{\frac{1-e}{\cos\varphi} + e \left[ \frac{1+\sin\varphi}{\cos\varphi} \right]}{\frac{1+e}{\cos\varphi} - e \left( \frac{1+\sin\varphi}{\cos\varphi} \right)}$$
+
+[del]$$\frac{1-e\sin\varphi + e\sin\varphi}{\dots}$$[/del]
+
+[fig]Geometric diagrams with circles, triangles, and lines[/fig]
+
+$$C = q\sin\alpha$$
+
+$$\frac{dq}{q} \frac{\sqrt{1-e^{2}\frac{q^{2}}{a^{2}}}}{\sqrt{1-\frac{q^{2}}{a^{2}}}} = d\log r$$
+
+$$d \sqrt{1-e^{2}\frac{q^{2}}{a^{2}}}$$
+$$= \frac{-e^{2}\frac{q}{a^{2}}}{\dots}$$

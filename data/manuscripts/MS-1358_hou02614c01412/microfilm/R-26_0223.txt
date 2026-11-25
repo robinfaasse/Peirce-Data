@@ -1,0 +1,76 @@
+[marginalia]
+[del]Monon's Point is different[/del]
+[/marginalia]
+
+[pn]3[/pn]
+
+$$\omega'' + \omega'^2 =$$
+
+$$D^2 \log y + (D \log y)^2 = \frac{D^2 y}{y}$$
+
+$$\omega'' + \omega'^2 = a + cx^2$$
+
+$$D_x^2 \omega + (D_x \omega)^2 = a + cx^2$$
+
+[del]$$D_x^2 \omega_1 + (D_x \omega_1)^2 = a$$[/del]
+
+[del]$$D_x^2 \omega_2 + (D_x \omega_2)^2 = cx^2$$[/del]
+
+$$D_x \omega' + \omega'^2 = a + cx^2$$
+
+[marginalia]
+A 2
+B 3
+C 5
+D 2
+[/marginalia]
+
+[del]Put $\omega' = \phi^{4x} + px$[/del] [del]$$D_x \omega' = \phi^{ax}$$[/del]
+
+[del]$$D_x \omega' = \psi' \phi^{4x} + p$$[/del]
+
+$$\omega' = y + px$$
+
+$$D_x \omega = D_x y + p$$
+
+$$\omega'^2 = y^2 + 2pxy + p^2 x^2$$
+
+[marginalia]
+$$H = -\frac{1}{7} \left( -\frac{2}{45} a^2 c + \frac{1}{3} c^2 \right)$$
+$$= \frac{2}{315} a^2 c - \frac{1}{21} c^2$$
+$$G = -\frac{1}{3} AF$$
+$$= -\frac{1}{45} a^2 c$$
+[/marginalia]
+
+[marginalia]
+[del]sub[/del] N
+[del]$$AF + BE + CD$$[/del]
+$$+ 6G$$
+[/marginalia]
+
+---
+
+$$\omega' = A + Bx + Cx^2 + \text{etc } D x^3$$
+
+$$\omega'^2 = A^2 + 2ABx + (2AC + B^2)x^2 + \text{etc}$$
+
+$$D_x \omega = B + 2Cx + 3Dx^2 + 2(AD + BC)x^3 + 4E x^4 + 2(AE + BD + C^2)x^5 + 5F x^6$$
+
+$$A^2 + B = a$$
+
+$$B = a - A^2$$
+
+If $A^2 = a$
+$B = 0$
+
+$$C = -AB$$
+$$= A^3 - aA$$
+$$C = 0$$
+
+$$2AC + B^2 + 3D = c$$
+
+$$D = \frac{1}{3} c$$
+
+$$E = -\frac{1}{6} \sqrt{a} c$$
+
+[del]$$F = + \frac{1}{15} ac$$[/del]

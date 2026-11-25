@@ -1,0 +1,51 @@
+Analysis of Tit-tat-too.
+
+X is the first player, O the second player. The [del]squ[/del]
+bered as in the figure
+
+[fig]3x3 grid numbered 1 to 9[/fig]
+
+We draw a line as for a fraction and write the num[del]b[/del]
+occupied by X above it, and that occupied by O
+two plays are precisely equivalent, the board being [del]t[/del]
+or turned over, we write = between the numbers of
+After a forced play we put a colon. !!! means [del]tit-tat-t[/del]
+— means that [ins]neither player[/ins] [del]nobody[/del] makes tit-tat-too.
+
+X at the outset has the choice between 2=4=6=8, [del]5[/del]
+[u]2[/u] O has choice between 8, 5, 1=3, 4=6, 7=9.
+[u]2[/u] [fig]3x3 grid with X in position 2[/fig] X has choice between 1=3, 5, 7=9, 4=6.
+[u]2[/u] [u]1[/u] [fig]3x3 grid with X in 2, O in 8[/fig] O has choice between 4, 5, 6, 7, 9.
+[u]2[/u] [u]1[/u] [u]4[/u] [del]O!!![/del]
+[u]8[/u] [u]3[/u] [u]7![/u]
+[u]2[/u] [u]1[/u] [u]5[/u] [del]O!!![/del]
+[u]8[/u] [u]3[/u] [u]9![/u]
+[u]2[/u] [u]1[/u] [u]6[/u] [del]O!!![/del]
+[u]8[/u] [u]3[/u] [u]7[/u]
+[u]2[/u] [u]1[/u] [u]7[/u]
+[u]8[/u] [u]3[/u] [u]4![/u]
+[u]2[/u] [u]1[/u] [u]9[/u] [u]7![/u] [u]6![/u]
+[u]8[/u] [u]3[/u] [u]5[/u] [u]4![/u] [u]3![/u]
+[u]2[/u] [u]1[/u] [fig]3x3 grid with X in 2, O in 8, X in 5[/fig] O has choice between 1=3, 7=9, 4=6.
+[u]2[/u] [u]1[/u] [u]5[/u] [fig]3x3 grid with X in 2, O in 8, X in 5, O in 1[/fig] X has choice between 3, 4, 6, 7, 9.
+[u]2[/u] [u]1[/u] [u]5[/u] [u]3[/u] [del]O!!![/del]
+[u]8[/u] [u]1[/u] [u]7[/u] [u]9![/u]
+[u]2[/u] [u]1[/u] [u]5[/u] [u]4[/u]
+[u]8[/u] [u]1[/u] [u]6[/u] [u]9![/u]
+[u]2[/u] [u]1[/u] [u]5[/u] [u]6[/u] [u]7![/u]
+[u]8[/u] [u]1[/u] [u]4![/u] [u]3![/u]
+[u]2[/u] [u]1[/u] [u]5[/u] [u]7[/u]
+[u]8[/u] [u]1[/u] [u]3![/u]
+[u]2[/u] [u]1[/u] [u]5[/u] [u]9[/u] [fig]3x3 grid with X in 2, O in 8, X in 5, O in 1, X in 9[/fig] O has choice between 3, 4, 6, 7.
+[u]2[/u] [u]1[/u] [u]5[/u] [u]9[/u] [u]3[/u]
+[u]8[/u] [u]1[/u] [u]9[/u] [u]7[/u]
+[u]2[/u] [u]1[/u] [u]5[/u] [u]9[/u] [u]4[/u] [u]7![/u]
+[u]8[/u] [u]1[/u] [u]9[/u] [u]3[/u] [u]7![/u]
+[u]2[/u] [u]1[/u] [u]5[/u] [u]9[/u] [u]6[/u]
+[u]8[/u] [u]1[/u] [u]9[/u] [u]4[/u]
+[u]2[/u] [u]1[/u] [u]5[/u] [u]9[/u] [u]7[/u] [u]4![/u]
+[u]8[/u] [u]1[/u] [u]9[/u] [u]7[/u] [u]6![/u]
+[u]2[/u] [u]1[/u] [u]5[/u] [u]9[/u] [u]7[/u] [u]4![/u]
+[u]8[/u] [u]1[/u] [u]9[/u] [u]3[/u] [u]6![/u]
+[u]2[/u] [u]1[/u] [u]5[/u] [u]1 or 3[/u]
+[u]8[/u] [u]1[/u] [u]4[/u] [del]X!!![/del]

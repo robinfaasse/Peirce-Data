@@ -1,0 +1,33 @@
+[pn]RR[/pn] [pn]17[/pn]
+
+belongs to any cardinal number, $M$, it belongs to $C_1 M$. But by the last
+corollary, $0 + N > 0$, unless $N = 0$. Hence, the character is true of $0$.
+Hence, by the Fermatian Principle, it is true of all numbers.
+
+[del]Corollary. Whatever cardinal numbers $M$ and $N$ may be, $M + C_1 N = C_1 (M + N)$.[/del]
+
+[u]Corollary 3[/u]. Whatever cardinal numbers $M$ and $N$ may be, $M + C_1 N = C_1 (M + N)$.
+For suppose there is a cardinal number, $M$, which has this character, that,
+whatever cardinal number $N$ may be, $M + C_1 N = C_1 (M + N)$. Then
+$C_1 M + C_1 N = C_1 (M + C_1 N)$ by the $3^{\text{d}}$ condition of definition 2
+$= C_1 C_1 (M + N)$ by hypothesis
+$= C_1 (C_1 M + N)$ by the $3^{\text{d}}$ condition and the present theorem.
+That is $C_1 M + C_1 N = C_1 (C_1 M + N)$ or the character, if it belongs to $M$, belongs to $C_1 M$.
+But $0 + C_1 N = C_1 (0 + N)$ by the second condition. [del]Hence[/del] [ins]That is,[/ins] zero possesses the
+character. Hence, by the Fermatian Principle, every cardinal number possesses
+the character.
+
+[u]Corollary 4[/u]. Whatever cardinal number $N$ may be, $N + 0 = N$. For sup-
+pose $N$ to be [del]such[/del] a cardinal number which possesses this character, that $N + 0 = N$.
+Then, $C_1 N + 0 = C_1 (N + 0)$ by the third condition
+$= C_1 N$ by hypothesis.
+That is $C_1 N + 0 = C_1 N$ or the character if it belongs to any cardinal number $N$ be-
+longs to $C_1 N$. But by the first condition it belongs to zero; that is $N + 0 = N$ if $N = 0$.
+Hence, by the Fermatian Principle, it belongs to every cardinal number.
+
+[u]Corollary 5[/u]. Whatever cardinal number $N$ may be, $0 + N = N$. For suppose
+$N$ to be a cardinal number having this character that $0 + N = N$. Then
+$0 + C_1 N = C_1 (0 + N)$ by the second condition
+$= C_1 N$ by hypothesis.
+That is $0 + C_1 N = C_1 N$ if $0 + N = N$ or the character belongs if to $N$ then also to $C_1 N$. But
+[del]by the first condition it belongs to zero, and[/del] hence to every cardinal number.

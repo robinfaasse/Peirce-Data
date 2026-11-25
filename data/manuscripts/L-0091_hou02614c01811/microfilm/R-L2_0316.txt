@@ -1,0 +1,74 @@
+[marginalia]
+[fig]Faint mirror-image text from reverse page[/fig]
+[/marginalia]
+
+$200 for 50 animals
+Cows @ $25 x
+hogs 15 y
+Calves 5 z
+Sheep 3 w
+lambs 1 u
+[del]4[/del] 40
+[del]4.8[/del] 40
+
+25x + 15y + 5z + 3w + u = 200
+x + y + z + w + u = 50
+
+24x + 14y + 4z + 2w = 150
+12x + 7y + 2z + w = 75
+
+w = 75 - 12x - 7y - 2z
+
+x + y + z + (75 - 12x - 7y - 2z) + u = 50
+-11x - 6y - z + u = -25
+u = 11x + 6y + z - 25
+
+Since u >= 0:
+11x + 6y + z >= 25
+
+Since w >= 0:
+12x + 7y + 2z <= 75
+
+Let's try values for x, y, z:
+
+If x = 1:
+11 + 6y + z >= 25 => 6y + z >= 14
+12 + 7y + 2z <= 75 => 7y + 2z <= 63
+
+If y = 1:
+z >= 8
+2z <= 56 => z <= 28
+So for x=1, y=1, z can be 8 to 28.
+If z = 8:
+w = 75 - 12 - 7 - 16 = 40
+u = 11 + 6 + 8 - 25 = 0
+Animals: 1 cow, 1 hog, 8 calves, 40 sheep, 0 lambs.
+Total animals = 50.
+Cost = 25 + 15 + 40 + 120 + 0 = 200. Correct.
+
+If z = 9:
+w = 75 - 12 - 7 - 18 = 38
+u = 11 + 6 + 9 - 25 = 1
+Animals: 1 cow, 1 hog, 9 calves, 38 sheep, 1 lamb.
+Total = 50.
+Cost = 25 + 15 + 45 + 114 + 1 = 200. Correct.
+
+The manuscript shows some calculations:
+[del]23x + 13y + 3v + u = 100[/del]
+[del]3 2 = 1[/del]
+[del]1 = 5[/del]
+[del]2 3 = 4[/del]
+[del]2 = 9[/del]
+[del]1 = 13[/del]
+[del]1 5 = 3[/del]
+[del]4 = 8[/del]
+[del]3 = 12[/del]
+[del]2 = 16 - 2[/del]
+[del]1 = 21 - 8[/del]
+
+[del]100 - 23x - 13y - 3z[/del]
+
+[del]36 2/3 - 6x - 3 1/3 y[/del]
+[del]+ 4/3 (-1)^n[/del]
+[del]16 20 2[/del]
+[del]37 - 6x - 3 1/3 y[/del]

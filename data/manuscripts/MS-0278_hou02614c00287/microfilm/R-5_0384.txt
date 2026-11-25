@@ -1,0 +1,16 @@
+As the rules for using the sign $\prec$ are so difficult, that we discard the use of it entirely. [del]In[/del] [del]place of it we use[/del] In place of it we use the signs logical addition and multiplication. The logical sum of [del]the assertions $a$ and $b$[/del] [ins]two[/ins] propositions is that proposition which is true if either of those two are true and false only if both are false.
+[del]Thus[/del] If $A$ and $B$ are the two propositions, then the logical sum is written $A + B$. It is equivalent to $\bar{A} \prec B$.
+
+If $A$ is false and $B$ is false, $A + B$ is false.
+If $A$ is false and $B$ is true, $A + B$ is true.
+If $A$ is true and $B$ is false, $A + B$ is true.
+If $A$ is true and $B$ is true, $A + B$ is true.
+
+Suppose $A$ signifies "the earth moves round the sun," and $B$ "the sun moves round the earth"; then $A + B$ signifies "either the earth moves round the sun, or the sun moves round the earth."
+
+The logical product of two propositions is that proposition which is false if either be false and is true only if both [del]be[/del] true. [del]If $A$ and $B$[/del] The logical product of $A$ and $B$ is written $AB$. It is equivalent to $A \prec \bar{B}$.
+
+If $A$ is false and $B$ is false, [del]$AB$[/del] [ins]$AB$[/ins] is false.
+If $A$ is false and $B$ is true, $AB$ is false.
+If $A$ is true and $B$ is false, $AB$ is false.
+If $A$ is true and $B$ is true, $AB$ is true.

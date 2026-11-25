@@ -1,0 +1,34 @@
+[del]$x^2 + \frac{2b}{a}x + \frac{b^2}{a^2} = 0$[/del]
+[del]$x^2 + 2\frac{b}{a}x + \frac{b^2}{a^2} = \frac{b^2}{a^2} - \frac{c}{a}$[/del]
+[del]$(x+\frac{b}{a})^2 = \frac{b^2-ac}{a^2}$[/del]
+[del]$x+\frac{b}{a} = \pm \frac{\sqrt{b^2-ac}}{a}$[/del]
+[del]$x = \frac{-b \pm \sqrt{b^2-ac}}{a}$[/del]
+
+$x = 0$
+$ax^2 + by^2 + cz^2 + exy + fyz + gxz + hx + iy + jz + k = 0$
+$by^2 + cz^2 + fyz + iy + jz + k = 0$
+$y^2 + \frac{f z + i}{b} y = \frac{-cz^2-jz-k}{b}$
+$by^2 + (fz+i)y + (cz+j)z+k = 0$
+$y^2 + 2\frac{fz+i}{2b}y + \frac{f^2z^2+2fiz+i^2}{4b^2} = \frac{-cz^2-jz-k}{b} + \frac{f^2z^2+2fiz+i^2}{4b^2}$
+$y^2 + 2\frac{fz+i}{2b}y + (cz+j)z+k$
+$\frac{f^2z^2+2fiz+i^2}{16b^2} = \frac{cz^2+jz+k}{b}$
+$f^2z^2+2fiz+i^2 = 16bcz^2+16bjz+16bk$
+$(f^2-16bc)z^2 + 2(fi-8bj)z + i^2 - 16bk = 0$
+$z^2 + 2\frac{fi-8bj}{f^2-16bc}z + \frac{i^2-16bk}{f^2-16bc} = 0$
+
+$ax^2 + by^2 + cz^2 + exy + fyz + gxz + hx + iy + jz + k = 0$
+$y^2 + 2\frac{ex+gxz+h}{2a}x + \frac{by^2+cz^2+fyz+iy+jz+k}{a} = 0$
+$\frac{(ey+gz+h)^2}{4a^2} = \frac{by^2+cz^2+fyz+iy+jz+k}{a}$
+$e^2y^2+2egyz+g^2z^2+2ehy+2ghz+h^2$
+$= 4aby^2+4acz^2+4afyz+4aiy+4ajz+4ak$
+$(e^2-4ab)y^2 + 2[(eg-2af)z + (eh-2ai)]y + (g^2-4ac)z^2 + [del]2gh[/del]
+
+$by^2 + (fz+i)y + cz^2+jz+k = 0$
+$y^2 + \frac{fz+i}{b}y + \frac{cz^2+jz+k}{b} = 0$
+$\frac{f^2z^2+2fiz+i^2}{4b^2} = \frac{cz^2}{b} + \frac{jz}{b} + \frac{k}{b}$
+$(f^2-4bc)z^2 + (2fi-4bj)z + (i^2-4bk) = 0$
+$z^2 + \frac{2fi-4bj}{f^2-4bc}z + \frac{i^2-4bk}{f^2-4bc} = 0$
+$(\frac{2fi-4bj}{f^2-4bc})^2 = \frac{i^2-16bk}{f^2-4bc}$
+$(2fi-4bj)^2 = (f^2-4bc)(i^2-16bk)$
+$4f^2i^2 - 16fbij + 16b^2j^2 = f^2i^2 - 16bf^2k - 16bci^2 + 64b^2ck$
+[del]$f^2i^2 + 16j^2 = f^2i^2 - 16f^2k$[/del]

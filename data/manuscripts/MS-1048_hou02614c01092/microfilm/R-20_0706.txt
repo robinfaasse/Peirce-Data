@@ -1,0 +1,24 @@
+[fig]vertical wavy line with plotted points[/fig]
+
+$$\begin{array}{ccc|c}
++1 & - & \textcircled{+12} & +1 & 0 \\
+0 & \textcircled{-2} & \textcircled{+20} & 0 & 0 \\
+-9 & -5 & -2 & -5 & -6 \\
++-1 & - & \textcircled{+17} & +1 & 0 \\
+0 & -2 & - & -1 & +1 \\
+\hline
+-1 & \textcircled{+2.4} & -4 & -2 & \\
+-1 & - & - & -1 & \\
++2 & -6 & -16 & -7 & \\
+-2 & +1 & \textcircled{+6} & 0 & \\
+\textcircled{+8} & +16? & \textcircled{+20} & +16 & \\
+\end{array}$$
+
+$$\begin{array}{cccccc}
++0.1 & -0.1 & -0.5 & +0.1 & - & \\
+0 & +0.2 & - & +1.6 & -0.4 & \\
+-0.9 & -0.2 & -0.2 & +1.2 & - & \\
++0.1 & +0.8 & +2.4 & +2.0 & -1.6 & \\
+0 & - & -0.2 & +0.6 & \\
+-0.1 & -0.2 & -0.6 & +1.7 & +2 & \\
+\end{array}$$

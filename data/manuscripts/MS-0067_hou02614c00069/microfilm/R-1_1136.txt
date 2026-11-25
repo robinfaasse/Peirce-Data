@@ -1,0 +1,36 @@
+[del]cos[/del]
+
+$$\frac{\cos z + \sin z}{\cos z - \sin z} = \frac{\sqrt{2}}{\cos x + \sin x} \frac{\cos x + \sin x}{\cos x - \sin x}$$
+
+$$\cos z + \sin z = R (\cos z - \sin z)$$
+
+$$[del](1 + R) \cos z[/del]$$
+$$(R - 1) \cos z = [del](R + 1)[/del] \sin z$$
+$$\tan z = \frac{R - 1}{R + 1} = \frac{\sin (u + 1) \sin u + 1}{\sin (u - 1) \sin u - 1}$$
+
+[fig]Two intersecting lines[/fig]
+
+Put $\beta$ such that
+
+$$\frac{\cos z + \sin z}{\cos z - \sin z} = B \frac{\cos x + \sin x}{\cos x - \sin x}$$
+
+gives
+
+$$\frac{\cos \beta + \sin \beta}{\cos \beta - \sin \beta} = B \frac{\cos \beta - \sin \beta}{\cos \beta + \sin \beta}$$
+
+$$\tan^2 (45^\circ + \beta) = \frac{1 + \sin 2\beta}{1 - \sin 2\beta} = B$$
+
+$$\cos y + \sin y = \sqrt{2} \cdot \frac{\cos x + \sin x}{\cos \alpha + \sin \alpha}$$
+
+If $y = \alpha$
+
+$$\frac{1 + \sin 2y}{2} = \sin (45^\circ + x)$$
+
+[fig]Right triangle[/fig] If $y = -\alpha$
+
+$$\frac{\cos 2y}{2} = \sin (45^\circ + x)$$
+
+$$\cos 2x = 2\cos^2 x - 1$$
+$$= 1 - 2\sin^2 x$$
+
+$$\sin y = \frac{\sin \beta}{1 - \sin \beta} \sin x$$

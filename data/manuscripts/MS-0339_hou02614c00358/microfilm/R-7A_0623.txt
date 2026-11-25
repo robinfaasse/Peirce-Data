@@ -1,0 +1,56 @@
+[marginalia]
+1909 Feb 17
+[/marginalia]
+
+[pn]342r[/pn]
+
+[del]X[/del] [ins]X[/ins]x = [del]$\psi \{ \Phi [ (X V), x ], \Phi [ (X F), \bar{x} ] \}$[/del] [ins]$\psi \{ \Phi [ (X V), x ], \Phi [ (X F), \bar{x} ] \}$[/ins]
+
+[del]X[/del] [ins]X[/ins]x = [del]X[/del] [ins]A[/ins]
+$\Phi(N, F) = F$  $\Phi(F, V) = V$
+$\bar{x}$ is such a function of x that $\Phi(x, \bar{x}) = F$  $\psi(x, \bar{x}) = V$
+
+$\psi \{ a, \Phi(b, c) \} = [del]\Phi \{ \psi[/del] \Phi \{ \psi(a, b), \psi(a, c) \}$
+$\Phi \{ a, \psi(b, c) \} = \psi \{ \Phi(a, b), \Phi(a, c) \}$
+
+[marginalia]
+$a \psi a \cdot b$
+$= a (a + b) = a \cdot b \cdot a$
+
+$\left[ \begin{array}{l} a \psi a \cdot b \\ = a \cdot a \psi a \cdot b \\ = a \psi a \cdot b \\ = a \cdot (a + b) \end{array} \right.$
+$a + b \cdot c$
+$(a + b) \cdot c$
+
+$a \cdot (a \cdot b) = a$
+$a + a \cdot b = a$
+[/marginalia]
+
+$\psi \{ a, \Phi(b, a) \} = \Phi \{ \psi(a, a), \psi(a, b) \} = \Phi \{ a, \psi(a, b) \}$
+
+$\Phi(F, x) = x$
+$\psi(V, x) = x$
+
+$\Phi(V, x) = V$
+$\psi(F, x) = F$
+
+$\Phi(a, a) = a$
+$\psi(a, a) = a$
+
+$\psi \{ a, \Phi(a, b) \} = a$
+$\Phi \{ a, \psi(a, b) \} = a$
+
+Xx = $\psi \{ \Phi(x, i), \Phi(\bar{x}, j) \}$
+XV = $\psi \{ \Phi(V, i), \Phi(F, j) \} = \psi \{ V, j \} = j$
+XF = $\psi \{ \Phi(F, i), \Phi(V, j) \} = \psi \{ i, V \} = i$
+
+[del]Xx = $\psi \{ \Phi(X F, x), \Phi(X V, \bar{x}) \}$[/del]
+
+[del]N[/del] [ins]N[/ins]x = NV = F  NF = V
+
+Nx = $\psi \{ \Phi(NV, x), \Phi(NF, \bar{x}) \} = \psi \{ \Phi(F, x), \Phi(V, \bar{x}) \} = \psi \{ x, \bar{x} \} = x$
+
+[del]Nx = $\psi \{ \Phi(F, x),$[/del]
+
+Xx = $\psi \{ \Phi(NF, x), \Phi(NV, \bar{x}) \} = \psi \{ \Phi(V, x), \Phi(F, \bar{x}) \} = \psi(V, \bar{x}) = \bar{x}$
+
+Thus as soon as [del]F V and F[/del] FF and FV are known fx generally is known.

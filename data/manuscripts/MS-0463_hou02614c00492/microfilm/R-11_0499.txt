@@ -1,0 +1,42 @@
+[pn]5[/pn]
+
+[fig]Fraction S over T and T over S[/fig]
+
+Attraction inversely as cube of distance
+$D_t^2 r - r (D_t \theta)^2 = - K r^{-3}$ [marginalia]Dimensions of K $\frac{L^4}{T^2}$[/marginalia]
+$2 \frac{D_t r}{r} + \frac{D_t^2 \theta}{D_t \theta} = 0$
+$D_t \{ \log (r^2 D_t \theta) \} = 0$
+$r^2 D_t \theta = 2A$ [marginalia]$\frac{1}{2} r^2 D_t \theta)^2 = \frac{2A^2}{r^2}$[/marginalia]
+$D_t^2 r = (4A^2 - K) r^{-3}$
+$\frac{1}{2} (D_t r)^2 = E - \frac{1}{2} (4A^2 - K) r^{-2}$ [marginalia]Vis viva $= E + \frac{K}{r^2}$[/marginalia]
+$D_t r = \sqrt{2E - (4A^2 - K) r^{-2}}$
+[del]$D_r t = [2E - (4A^2 - K) r^{-2}$[/del]
+$D_r t = r / \sqrt{2E r^2 + K - 4A^2}$
+
+Put $\mathcal{E} = -E$
+
+[del]$A^2 < \frac{1}{4} K$[/del]
+$r$ can have any value if $E$ is positive
+But if $E$ is neg. $r$ cannot [del]be greater than[/del] [ins]be less than[/ins] $\sqrt{\frac{K - 4A^2}{2\mathcal{E}}}$
+This is the [del]one case to be expected[/del]
+
+$A^2 > \frac{1}{4} K$ $E$ positive
+$r$ cannot be less than $\sqrt{\frac{4A^2 - K}{2E}}$
+when it ceases to diminish
+
+$t = T - \frac{1}{2\mathcal{E}} \sqrt{K - 4A^2 - 2\mathcal{E} r^2}$
+$r = \sqrt{\frac{K - 4A^2}{2\mathcal{E}} - [del]2\mathcal{E}[/del] [ins]\frac{2\mathcal{E}}{4\mathcal{E}^2}[/ins] (t - T)^2}$
+
+[marginalia]$= \sqrt{2\mathcal{E}} \sqrt{\frac{K - 4A^2}{4\mathcal{E}^2} - (t - T)^2}$
+$D_t r = \sqrt{2\mathcal{E}}$[/marginalia]
+
+Then when $t$ gets beyond [del]a cert[/del] [ins]this[/ins] time
+[del]when $r = 0$[/del] $r$ becomes imaginary
+[del]its velocity is then $\infty$[/del]
+
+$D_t r = - 2\mathcal{E} (t - T) / \sqrt{\frac{K - 4A^2}{2\mathcal{E}} - 2\mathcal{E} (t - T)^2}$
+$D_t^2 r = \frac{-2\mathcal{E} \sqrt{\quad} - 4\mathcal{E}^2 (t - T)^2 / \sqrt{\quad}}{\frac{K - 4A^2}{2\mathcal{E}} - 2\mathcal{E} (t - T)^2} = \frac{-2\mathcal{E} - 4\mathcal{E}^2 (t - T)^2}{\frac{K - 4A^2}{2\mathcal{E}} - 2\mathcal{E} (t - T)^2}$
+
+$D_t \theta = \frac{2A}{\frac{K - 4A^2}{2\mathcal{E}} - 2\mathcal{E} (t - T)^2} = \frac{K - 4A^2}{\left( \frac{K - 4A^2}{2\mathcal{E}} - 2\mathcal{E} (t - T)^2 \right)^{\frac{3}{2}}}$
+
+$\theta = \Theta + \frac{A}{K - 4A^2} \log \frac{\sqrt{\frac{K - 4A^2}{2\mathcal{E}}} - (t - T) \sqrt{2\mathcal{E}}}{\sqrt{\frac{K - 4A^2}{2\mathcal{E}}} + (t - T) \sqrt{2\mathcal{E}}}$

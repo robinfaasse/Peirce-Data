@@ -1,0 +1,58 @@
+[pn]182[/pn]
+
+[pn]403 A.[/pn] [ins]†5.[/ins] Note[ins]x[/ins]
+[del]II. On the General Rule of Inference in Relative Logic[/del]
+Under the third step [[del]396[/del]], an example
+was given which is really a general formula of
+elimination. Namely, we [ins]have[/ins]
+$a_{ijk\text{ etc.}} \bar{a}_{xyz\text{ etc.}} \prec \bar{1}_{ix} + \bar{1}_{jy} + \bar{1}_{kz\text{ etc.}}$
+and conversely,
+$1_{ix} 1_{jy} 1_{kz\text{ etc.}} \prec a_{ijk\text{ etc.}} + \bar{a}_{xyz\text{ etc.}}$
+The principle of contradiction and of excluded
+middle might be considered as mere special cases of
+these formulae. Namely, the latter give
+$a_{i} \bar{a}_{i} \prec \bar{1}_{ii}$
+$1 \prec a_{i} + \bar{a}_{i}$
+
+[ins]x[/ins] [del][ins]✓[/ins] [ins]x[/ins] This undated note seems to have been written for publication
+in some issue of the Amer. Journal of Math., shortly subsequent to
+that in which the previous article appeared, why it was not
+published is [del]unknown[/del].[/del] [ins]✓[/ins]
+
+***
+
+Notes on the Algebra of Logic.
+(To follow Am. J. Math. VII. 202.)
+By C. S. Peirce.
+
+[del]On[/del] the General Rule of Inference in Relati[del]ve[/del]
+
+Under the $3^{\text{d}}$ step (p. 197), [del]an[/del] example was g[del]iven[/del]
+which is really a general formula of elimin[del]ation[/del]
+Namely, we have
+$a_{ijk\text{ etc.}} \bar{a}_{xyz\text{ etc.}} \prec \bar{1}_{ix} + \bar{1}_{jy} + \bar{1}_{kz\text{ etc.}}$
+and conversely,
+$1_{ix} 1_{jy} 1_{kz\text{ etc.}} \prec a_{ijk\text{ etc.}} + \bar{a}_{xyz\text{ etc.}}$
+The principles of contradiction and of exclude[del]d[/del]
+middle might be considered as mere spec[del]ial[/del]
+cases of these formulae. namely, the latter g[del]ive[/del]
+$a_{i} \bar{a}_{i} \prec \bar{1}_{ii}$
+$1 \prec a_{i} + \bar{a}_{i}$
+But the definition of identity is
+$V \prec 1_{ii}$ $\bar{1}_{ii} \prec f$;
+whence
+$a_{i} \bar{a}_{i} \prec f$ $V \prec a_{i} + \bar{a}_{i}$
+
+Under the head of the third step belongs [del]the[/del]
+frequently necessary development of the Bool[del]ean[/del]
+by means of distribution-formulae. [This proceedin[del]g[/del]
+and indeed the whole of the third step might
+more properly have been made to follow the
+fourth.] The fundamental formulae of
+distribution are
+$x(y+z) = xy + xz$
+$x + yz = (x+y)(x+z)$
+the general development formulae thence resultin[del]g[/del]
+are
+$Fx = xF1 + \bar{x} F0$
+$= (x + F0)(\bar{x} + F1)$.

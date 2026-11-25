@@ -1,0 +1,26 @@
+[del]y[/del]
+[del]D_x = xy[/del]
+
+[del]\frac{y}{(x^2+y^2)^n}[/del]
+
+D_x = [del]x[/del] \frac{-n \cdot 2xy}{(x^2+y^2)^{n+1}}
+
+D_x^2 = -2ny \frac{(x^2+y^2)[del]^{n+1}[/del] - [del](n+1)(x^2+y^2)^n[/del] 2x^2}{(x^2+y^2)[del]^{n+2}[/del] [ins]n+2[/ins]}
+
+= -2ny \frac{y^2 - (2n+1)x^2}{(x^2+y^2)^{n+2}}
+
+D_y = \frac{(x^2+y^2)[del]^n[/del] - n(x^2+y^2)[del]^{n-1}[/del] 2y^2}{(x^2+y^2)[del]^{n+1}[/del] [ins]n+1[/ins]}
+
+= \frac{x^2 [del]+[/del] - (2n-1)y^2}{(x^2+y^2)^{n+1}}
+
+D_y^2 = \frac{-2(2n-1)y(x^2+y^2)[del]^{n+1}[/del] - (n+1)[del](x^2+y^2)^n[/del] 2y \{x^2 - (2n-1)y^2\}}{(x^2+y^2)[del]^{n+2}[/del] [ins]n+2[/ins]}
+
+= -2y \frac{\begin{matrix} 2n-1 \\ +n+1 \end{matrix} x^2 + \begin{matrix} 2n-1 \\ -(2n-1)(n+1) \end{matrix} y^2}{}
+
+= -2y \frac{3n x^2 - (2n-1)n y^2}{(x^2+y^2)^{n+2}}
+
+D_x^2 + D_y^2 = -2y \frac{\begin{matrix} -2n^2-n \\ +3n \end{matrix} x^2 + \begin{matrix} n \\ -2n^2+n \end{matrix} y^2}{}
+
+= -2y \frac{(-2n^2+2n)x^2 + (-2n^2+2n)y^2}{(x^2+y^2)^{n+2}}
+
+= 4y n(n-1) \frac{1}{(x^2+y^2)^{n+1}}

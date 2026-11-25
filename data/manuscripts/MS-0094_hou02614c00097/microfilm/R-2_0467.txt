@@ -1,0 +1,33 @@
+[pn]116[/pn] SOLID GEOMETRY. [CH. XVI. § 378.
+
+---
+Section of Pyramid parallel to the Base.
+___
+
+altitude $SH$; that is, the convex surface of the pyramid is half the product of the perimeter of its base by the altitude of one of its triangles.
+
+376. *Corollary.* When the base of the regular pyramid is a polygon of an infinite number of sides, the pyramid is a right cone, and the altitude of each triangle becomes the side $SA$ (fig. 174) of the cone.
+
+Hence the area of the convex surface of the right cone is half the product of the circumference of the base by the side.
+
+377. *Theorem.* The section of a pyramid made by a plane parallel to the base is a polygon similar to the base.
+
+*Proof.* Let $MNOP$ &c. (fig. 171) be the section of a pyramid made by a plane parallel to its base $ABCD$ &c.
+
+Since $MN$ is, by § 334, parallel to $AB$, we have
+$$SB : SN = AB : MN,$$
+and since $NO$ is parallel to $BC$, we have
+$$SB : SN = BC : NO ;$$
+and, on account of the common ratio, $SB : SN$,
+$$AB : MN = BC : NO.$$
+
+In the same way we might prove
+$$AB : MN = BC : NO = CD : OP, \text{ \&c.}$$
+whence the sides of the polygons $ABCD$ \&c., $MNOP$ \&c. are proportional.
+
+The angles of the polygons are also equal; indeed on account of the parallel sides, we have
+$$MNO = ABC, NOP = BCD, \text{ \&c.}$$
+
+The polygons are therefore similar, by § 170.
+
+378. *Corollary.* The section of a cone made by a plane parallel to the base is a circle.

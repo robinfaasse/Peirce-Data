@@ -1,0 +1,14 @@
+[u]Given two sides and included angle[/u]
+
+[u]1[sup]st[/sup] Solution[/u]. $\tan \frac{1}{2}(A-B) = \frac{a-b}{a+b} \cot \frac{1}{2}C$
+$c = a \frac{\sin C}{\sin A}$ or $= b \frac{\sin C}{\sin B}$
+
+[u]2[sup]nd[/sup] Solution[/u] $\log a - \log b = \log \tan \chi$
+$\log \tan \frac{1}{2}(A-B) = \log \tan (\chi - 45^{\circ}) + \log \tan \frac{1}{2}C$
+
+[u]3[sup]rd[/sup] Solution[/u] $\log \tan A = \log a + \log \sin C - \log (b - a \cos C)$
+[del]$\log (a \cos C) = \log a + \log \cos C$[/del] [ins]This is too long and[/ins]
+
+[u]4[sup]th[/sup] Solution[/u] [del]$\log \tan$[/del] $\tan \chi = \frac{2 \sin \frac{1}{2}C}{a-b} \sqrt{ab}$ $c = (a-b) \sec \chi$
+
+The first method is obviously the best for getting the angles in all cases.

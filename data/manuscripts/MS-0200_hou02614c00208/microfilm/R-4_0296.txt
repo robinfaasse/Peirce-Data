@@ -1,0 +1,23 @@
+[pn]MM
+E 183[/pn] [u]entire doctrine of fractions is contained in this series, [del]and[/del] or rather, in its governing definition, or rule of construction.[/u] The [del]very[/del] easy proof of this may be [del]left[/del] omitted.
+
+I fear this series will not attract the attention it really merits; for it [del]is[/del] is dressed in a fantastic garb of artificiality that does not do it justice. It is like an honest, self-respecting actor, who, by some unfortunate mistake happened to be arrested in his theatrical dress, should appear before the judge in the guise of Jeremy Diddler.
+
+[ins]For[/ins] [del]But[/del] my series of rational values, I hope better things. Here there will be no need of copulas, because all the terms are different values. We begin by writing
+$$\frac{0}{1} \qquad \frac{1}{0}$$
+[del]and then go through the[/del] as the zero state of the series (although $\frac{1}{0}$ is not
+
+[pn]MM
+E 184[/pn] properly a rational value,) and we go through the series from beginning to end, time and again ceaselessly; every time inserting between every two adjacent fractions a new fraction whose numerator shall be the sum of the numerators, and its denominator the sum of the denominators of the two fractions between which it is inserted. The result will be that every positive rational value will be inserted, once only, and expressed in its lowest terms.
+
+Zero State: $\qquad \frac{0}{1} \quad \frac{1}{0}$
+
+$1^{\text{st}}$ State: $\qquad \frac{0}{1} \quad \frac{1}{1} \quad \frac{1}{0}$
+
+$2^{\text{nd}}$ State: $\quad \frac{0}{1} \quad \frac{1}{2} \quad \frac{1}{1} \quad \frac{2}{1} \quad \frac{1}{0}$
+
+$3^{\text{rd}}$ State: $\ \frac{0}{1} \quad \frac{1}{3} \quad \frac{1}{2} \quad \frac{2}{3} \quad \frac{1}{1} \quad \frac{3}{2} \quad \frac{2}{1} \quad \frac{3}{1} \quad \frac{1}{0}$
+
+$4^{\text{th}}$ State: $\ \frac{0}{1} \ \frac{1}{4} \ \frac{1}{3} \ \frac{2}{5} \ \frac{1}{2} \ \frac{3}{5} \ \frac{2}{3} \ \frac{3}{4} \ \frac{1}{1} \ \frac{4}{3} \ \frac{3}{2} \ \frac{5}{3} \ \frac{2}{1} \ \frac{5}{2} \ \frac{3}{1} \ \frac{4}{1} \ \frac{1}{0}$
+
+$5^{\text{th}}$ State: $\ \frac{0}{1} \ \frac{1}{5} \ \frac{1}{4} \ \frac{2}{7} \ \frac{1}{3} \ \frac{3}{8} \ \frac{2}{5} \ \frac{3}{7} \ \frac{1}{2} \ \frac{4}{7} \ \frac{3}{5} \ \frac{5}{8} \ \frac{2}{3} \ \frac{5}{7} \ \frac{3}{4} \ \frac{4}{5} \ \frac{1}{1}$ etc.

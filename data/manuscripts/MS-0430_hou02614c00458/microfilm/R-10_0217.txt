@@ -1,0 +1,29 @@
+[marginalia]
+Logic
+[fig]diagram[/fig]
+29
+[/marginalia]
+
+candidates could there have been?
+
+Considering any candidate, whoever he may be, let
+
+$J$ be the value of the proposition that he was a junior,
+$S$ " " " " " " senior,
+$L$ " " " " " " took Latin,
+$C$ " " " " " " competed in
+
+Then the premises [del]are[/del] [ins]form[/ins] the following graph:
+[fig]graph with nested ovals[/fig] [fig]graph with nested ovals[/fig] [fig]graph with nested ovals[/fig] [fig]graph with nested ovals[/fig]
+
+To which, because no senior is a junior, we add
+[fig]graph with nested ovals[/fig]
+
+By Rules I and III, the first of these ovals gives
+[fig]graph with nested ovals[/fig] and [fig]graph with nested ovals[/fig]
+
+Inserting the fourth in the last we get
+[fig]graph with nested ovals[/fig] whence [fig]graph with nested ovals[/fig] whence [fig]graph with nested ovals[/fig]
+
+Iterating the second in the fifth, we get
+[fig]graph with nested ovals[/fig] whence [fig]graph with nested ovals[/fig] and [fig]graph with nested ovals[/fig] and [fig]graph with nested ovals[/fig]

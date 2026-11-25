@@ -1,0 +1,25 @@
+[pn]146[/pn]
+
+§76. The student is [del]recommen[/del] [ins]counselled[/ins] to confine himself to easy examples which illustrate everything except what [del]belongs[/del] [ins]may be left[/ins] to the professional mathematician. We give, however, the work for one case of 7 linear equations with seven unknown quantities. The equations are
+$$\begin{array}{rccr}
+5t & + v & - 13z & = -7 \\
+& u & - 4v + w & = \phantom{-}0 \\
+t & - 4u & + 7v - 4w + x & = \phantom{-}7 \\
+& u & - 4v + 7w - 4x + y & = 14 \\
+& & v - 4w + 7x - 4y + z & = 21 \\
+& & w - 4x + [del]4[/del] [ins]7[/ins]y & = 28 \\
+-17t & & + x \phantom{-4y} + 11z & = 35
+\end{array}$$
+
+We might solve these equations quite readily by first eliminating [u]u[/u], [u]w[/u] and [u]y[/u], so as to leave 4 equations with 4 unknowns; but we prefer to illustrate another method. It is best to arrange each equation in a column thus.
+
+$$\begin{array}{rrrrrrrrl}
+5 & 0 & 1 & 0 & 0 & 0 & -17 & a \\
+0 & 1 & -4 & 1 & 0 & 0 & 0 & b \\
+1 & -4 & 7 & -4 & 1 & 0 & 0 & c \\
+0 & 1 & -4 & 7 & -4 & 1 & 0 & d \\
+0 & 0 & 1 & -4 & 7 & -4 & 1 & e \\
+0 & 0 & 0 & 1 & -4 & [del]4[/del] [ins]7[/ins] & 0 & f \\
+-13 & 0 & 0 & 0 & 1 & 0 & 11 & g \\
+-7 & 0 & 7 & 14 & 21 & 28 & 35 & H = at+bu+cv+dw+ex+fy+gz
+\end{array}$$

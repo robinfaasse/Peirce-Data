@@ -1,0 +1,16 @@
+[pn]M.11[/pn] taneously the left-hand-most 1 of the subtrahend and the right-hand-most
+of those ones of the minuend that are not further to the right than the 1
+of the subtrahend that is getting cancelled with it; and at the same time, write
+above the minuend and as an additive part of it, a 1 in each place to the
+right of that of the cancelling 1 of the minuend but not to the right of the
+cancelling [del]8[/del] 1 of the subtrahend. Repeat this operation until no 1 is left
+uncancelled in the subtrahend; [ins]in a line[/ins] and then repeat below the uncancelled [del]1s[/del]
+ones of the minuend, whether they belonged to it originally or were subse-
+quently added above, to [del]make[/del] [ins]express[/ins] the remainder. Example (where I connect
+simultaneously cancelled ones.)
+
+[fig]Binary subtraction example with cancellation lines and columns[/fig]
+Added to the Minuend: 1 1 1 1 1 1 1 1 1 1 1 1
+Minuend: 1 0 0 1 0 1 0 1 0 0 1 0 0 0 1 0 1 0 1 0 1 0 1 0
+Subtrahend: + 1 0 1 1 0 1 0 0 0 0 1 1 1 0 1 0 1 1
+Remainder: 1 1 0 1 0 1 0 0 0 0 1 0 0 0 1 0 1 0

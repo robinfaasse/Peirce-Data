@@ -1,0 +1,41 @@
+[fig]Triangle[/fig] [fig]Rectangle with diagonal lines[/fig]
+
+[fig]Circle with inscribed quadrilateral and diagonals[/fig]
+
+$$\cot B = \cos h \tan A$$
+$$\cot B' = \cos h \tan (M - A)$$
+
+$$\tan (B + B') = \frac{\frac{1}{\cos h \tan A} + \frac{1}{\cos h \tan (M - A)}}{1 + \frac{1}{\cos^2 h \tan A \tan (M - A)}}$$
+$$= \frac{\frac{[del]\cos h[/del] (\tan A + \tan (M - A))}{\cos^2 h \tan A \tan (M - A)}}{\frac{\cos^2 h \tan A \tan (M - A) + 1}{\cos^2 h \tan A \tan (M - A)}}$$
+
+[fig]Triangle[/fig]
+
+[fig]Triangle[/fig]
+
+[fig]Circle with horizontal line[/fig]
+
+[fig]Triangle[/fig]
+
+[fig]Concentric circles with inscribed triangles and lines[/fig]
+
+[fig]Triangle[/fig]
+
+$$= \frac{\cos^2 h (\tan (M - A) + \tan A)}{\cos^2 h [del]1[/del] + \tan A \tan (M - A)}$$
+
+$$\cot (B + B') = \frac{\cos^2 h [del]\tan (M - A) + \tan A[/del]}{\tan (M - A) + \tan A}$$
+
+[fig]Rhombus with diagonals[/fig]
+
+$$\tan A = \frac{\sin C}{\cot a \sin b - \cos b \cos C}$$
+
+$$\tan A' = \frac{\sin (M - C)}{\cot a \sin b - \cos b \cos (M - C)}$$
+
+$$\tan (A + A') = \frac{\frac{\sin C}{p - q \cos C} + \frac{\sin (M - C)}{p - q \cos (M - C)}}{1 - \frac{\sin C \sin (M - C)}{p^2 - pq (\cos C + \cos (M - C)) + q^2 \cos C \cos (M - C)}}$$
+
+[fig]Intersecting lines forming angles[/fig]
+
+[fig]Sectors of a circle with lines[/fig]
+
+$$\frac{p \sin C - q \sin C \cos (M - C) + p \sin (M - C) - q \cos C \sin (M - C)}{p^2 - pq (\cos C + \cos (M - C)) + q^2 \cos C \cos (M - C) + \sin C \sin (M - C)}$$
+
+$$\frac{p \sin C - q \sin C \cos (M - C) - q \cos C \sin (M - C) + p \sin (M - C) - q \cos C \sin (M - C) - q \sin C \cos (M - C)}{p^2 - pq (\frac{\cos C (1 + \cos M) + \sin C \sin M}{\cos C \cos M + \sin C \sin M}) + q^2 (\cos C \cos M + \sin C \sin M) \cos C + \sin C \cos C \sin M - \sin^2 C \cos M}$$

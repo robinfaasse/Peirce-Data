@@ -1,0 +1,19 @@
+[pn]32[/pn]
+
+[del]1[/del] [ins]V[/ins] [u]Definition 6[/u]. The [del]powers[/del] [ins]power[/ins] of any cardinal number, B, [ins]called the base of the power,[/ins] are a class of cardinal numbers, each having [del]an[/del] [ins]a[/ins] cardinal number, E, connected with it, called its exponent, [ins]and the power is written, $B^E$,[/ins] and powers and exponents are defined by the following conditions:
+
+[u]1[sup]st[/sup][/u], $G0$ is a power of B whose exponent is zero;
+
+[u]2[sup]d[/sup][/u], [del]The[/del] [ins]The product by the[/ins] power [del]of[/del], $B^E$, of B with exponent, E, multiplied by B is [del]given[/del] [ins]written[/ins], $B^{GE}$, a power of B with exponent $GE$;
+
+[u]3[sup]d[/sup][/u], No cardinal number is a power of a cardinal number, unless necessitated to be so by the foregoing conditions.
+
+[del]Corollary 2 of this definition $0^0 = G0$ as Corollary. $B^{G0} = B \times B^0 = B \times G0 = B$.[/del]
+
+[del]VI[/del] [ins]VI[/ins] [u]Theorem XII[/u]. Given any two cardinal numbers, B and E, there is one, and but one [ins]cardinal number which is a[/ins] power, $B^E$, of B with exponent, E.
+
+[u]Proof[/u]. For, by the first condition, there is such a cardinal number if $E = 0$; and by the second condition and Theorem IX, there is such a [del]power[/del] [ins]number[/ins] when the $E = GN$ provided there is such a number when $E = N$. Hence, by the Formation Principle, there always is such a number.
+
+But neither the first nor second condition necessitates any other number than $G0$ to be $B^0$, and by Corollary 2 from the Precepts there is but one cardinal number that is $G0$. Moreover, if there be but one [ins]cardinal[/ins] number that is $B^N$ neither the first nor second condition, by Theorem IX, necessitates more than one cardinal number to be $B^{GN}$. Hence, by the third condition, there is but one such number for each exponent.
+
+[u]Corollary 1[/u]. Hence, $0^0 = G0$ and is not indeterminate. In this respect, the definition here assumed differs from the usual one, which substitutes for the first condition $B^1 = B$ and adds [ins]the condition[/ins] that $B^E = P$ if $B^{GE} = B \cdot P$. But practically the present definition is just as useful, if not more so, than the usual one.

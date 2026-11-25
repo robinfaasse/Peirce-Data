@@ -1,0 +1,82 @@
+[del]t[sub]111[/sub] = A' B' C'[/del]
+[marginalia][del]2c-2[/del]
+[del]-1[/del][/marginalia]
+t[sub]111[/sub] = A' - 3B' + 3E' - H = c(c-1)(c-2)
+t[sub]211[/sub] = A'(c-1) - 2B'(c-2) + E'(c-3) + H = c(c-1)(c-2)(c-3)
+t[sub]221[/sub] = A'(c-1)[sup]2[/sup] - B'(c-1)(c-3) - E(2c-3) - H = c(c-1)(c-2)(c[sup]2[/sup]-5c+7)
+[del]2c-t[sub]221[/sub] = A'(c-1)[sup]3[/sup] - 3B'(c-1)[sup]2[/sup] + 3E'(c-1) + H = c(c-1)(c-2)(c[sup]3[/sup]-6c[sup]2[/sup]+11c-13)[/del]
+
+[marginalia]
+[del]2c+3[/del]
+[del]c[sup]2[/sup]-4c+3[/del]
+[del]c[sup]2[/sup]-2c-1[/del]
+[del]-2c+3[/del]
+[del]+c-3[/del]
+[del]-3c+9[/del]
+[del]+c-3[/del]
+[del]-c+3[/del]
+[del]+3c-3[/del]
+[del]+2c[/del]
+[del]-2c+3[/del]
+[/marginalia]
+
+A'c - B'(2c-1) + E'c = c(c-1)(c-2)[sup]2[/sup]
+A'c(c-1) - B'(c-1)[sup]2[/sup] - E'c = c(c-1)(c-2)[sup]3[/sup]
+A'c(c-1)[sup]2[/sup] + 2B'(c-1) + cE' = (c-1)(c-2)(c[sup]3[/sup]-5c[sup]2[/sup]+9c-6)
+
+[marginalia]
+[del]27[/del] [del]54[/del]
+[del]39[/del] [del]11[/del]
+[del]66[/del] [del]65[/del]
+[fig]Graph with three nodes labeled A, B, C[/fig]
+[fig]Graph with four nodes labeled A, B, C, D[/fig]
+[/marginalia]
+
+A'c[sup]2[/sup] - B'c[sup]2[/sup] = c(c-1)[sup]2[/sup](c-2)[sup]2[/sup]
+A'c[sup]2[/sup](c-1) + B'(c+1)(c-1) = c(c-1)(c-2)(c[sup]3[/sup]-4c[sup]2[/sup]+5c-2)
+[marginalia]
+[del]-2c+1[/del]
+[del]-c[sup]2[/sup]+2c-1[/del]
+[del]-2c+3[/del]
+[del]+3c-3[/del]
+[del]-c+1[/del]
+[del]+2c[/del]
+[del]c+1[/del]
+[/marginalia]
+= c(c-1)[sup]3[/sup](c-2)[sup]2[/sup]
+
+[marginalia]
+c[sup]2[/sup]-4c+4
+c[sup]2[/sup]-3c+2
+c[sup]3[/sup]-3c[sup]2[/sup]+2c
+(c-1)[sup]2[/sup](c-2)
+[fig]Graph with four nodes[/fig]
+[/marginalia]
+
+[marginalia]
+6 3
+1 2
+1 1
+[/marginalia]
+
+A'c[sup]3[/sup] - B' = [del]c[/del](c-1)(c-2)(c[sup]3[/sup]-3c[sup]2[/sup]+2c)
+A'c[sup]3[/sup] - B' = c[sup]2[/sup](c-1)(c-2)(c[sup]2[/sup]-3c+2)
+= c[sup]2[/sup](c-1)[sup]2[/sup](c-2)[sup]2[/sup]
+
+A'c[sup]4[/sup] - B'c = c[sup]3[/sup](c-1)[sup]2[/sup](c-2)[sup]2[/sup]
+A'c[sup]4[/sup] - B'c = (c-1)[sup]2[/sup](c-2)[sup]2[/sup]
+
+A'c(c[sup]3[/sup]-1) = [del](c[sup]3[/sup]-1)[/del](c-1)[sup]2[/sup](c-2)[sup]2[/sup]
+A' = [u](c-1)[sup]2[/sup](c-2)[sup]2[/sup][/u] / c
+
+B' = 0
+E' = [del]c[/del](c-1)(c-2)[sup]2[/sup] - [del](c-1)(c-2)[sup]3[/sup][/del] / c
+= [u](c-1)(c-2)[sup]2[/sup][/u] / c
+
+H = [u](c-1)[sup]2[/sup](c-2)[sup]2[/sup][/u] / c + [u]3(c-1)(c-2)[sup]2[/sup][/u] / c
+[marginalia]
+c[sup]2[/sup]-3c+2
+-c[sup]2[/sup]+3c-6
+[/marginalia]
+= [del]-4[/del] [del][u](c-1)(c-2)[/u] / c[/del]
+[ins]c[sup]2[/sup](c-1)(c-2)[/ins]

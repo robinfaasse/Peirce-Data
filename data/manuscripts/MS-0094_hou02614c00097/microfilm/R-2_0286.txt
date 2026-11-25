@@ -1,0 +1,33 @@
+[pn]278[/pn]
+
+We may also take a different plane instead of $(\omega)$. For
+example taking $(0+X, 0+Y, 0+Z) = (\omega')$
+
+(1). We take [del]away[/del] [ins]the[/ins] point $[0]$.
+
+(2). We take the plane $(0 + 2X, 0 + 3Y, [del]0[/del] [ins]0[/ins] + 5Z) = (\varepsilon')$.
+
+(3). The first intersections will be
+$[X_0] = [0 + 2X]$,
+$[Y_0] = [0 + 3Y]$,
+$[Z_0] = [0 + 5Z]$.
+
+(4). Instead of $[X]$, $[Y]$, $[Z]$, we have $[0+X]$, $[0+Y]$, $[0+Z]$
+$[X'] = [0+X]$,
+$[Y'] = [0+Y]$,
+$[Z'] = [0+Z]$.
+
+Then we have
+$[\{X_0 Y'\}\{X' Y_0\}] = [0 + \frac{4}{5}X + \frac{3}{5}Y]$.
+For this is $[50 + 4X + 3Y] = 2[0+2X] + 3[0+Y]$
+$= 4[0+X] + [0+3Y]$.
+
+$[\{X_0 Z'\}\{X' Z_0\}] = [0 + \frac{8}{9}X + \frac{5}{9}Z]$.
+For this is $[90 + 8X + 5Z] = 4[0+2X] + 5[0+Z]$
+$= 8[0+X] + [0+5Z]$.
+
+$[\{Y_0 Z'\}\{Y' Z_0\}] = [0 + \frac{6}{7}Y + \frac{5}{7}Z]$.
+For this is $[70 + 6Y + 5Z] = 2[0+3Y] + 5[0+Z]$
+$= 6[0+Y] + [0+5Z]$.
+
+[fig]Peirce's monogram signature[/fig]

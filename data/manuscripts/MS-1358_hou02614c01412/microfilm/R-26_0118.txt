@@ -1,0 +1,46 @@
+[marginalia]
+Morrison's Bridge [date]1899 Feb 11[/date]
+[/marginalia]
+
+[pn]10[/pn]
+
+$$b_{-R+q} = q b_{-R+1} - \frac{(q-1)(5q^2-25q+[u]36[/u])}{6} b_{-R}$$
+
+when $-R+q = Q$
+$$q = R-Q$$
+
+$$0 = b_Q = [del]q b[/del]$$
+$$0 = (R-Q) b_{-R+1} - \frac{(R-Q-1)\left(\begin{aligned}5(R-Q)^2 \\ -25(R-Q) \\ +36\end{aligned}\right)}{6} b_{-R}$$
+$$\begin{aligned}
+& (b_Q - 2b_{Q-1} + b_{Q-2})^2 \\
+& + (b_{Q-1} - 2b_{Q-2} + b_{Q-3})^2 \\
+& + (b_{Q-2} - 2b_{Q-3} + b_{Q-4})^2
+\end{aligned}$$
+
+$$b_{-R+1} = \frac{(R-Q-1)[5(R-Q)^2-25(R-Q)+36]}{6(R-Q)} b_{-R}$$
+
+$$\begin{aligned}
+& b_Q - 2b_{Q-1} + b_{Q-2} \\
+& \quad - 2b_{Q-1} + 4b_{Q-2} - 2b_{Q-3} \\
+& \qquad + b_{Q-2} - 2b_{Q-3} + b_{Q-4} = 0
+\end{aligned}$$
+
+There will be no equation to determine $b_{-Q+2}$
+
+$$b_Q - 4b_{Q-1} + 6b_{Q-2} - 4b_{Q-3} + b_{Q-4} = 0$$
+
+$$[del](b_{Q+1} - 2b_Q + b_{Q-1}[/del]$$
+$$b_{Q+1} - 2b_Q +$$
+
+$$b_{-R+q} = \left\{ \frac{q}{R-Q} (R-Q-1)[5(R-Q)^2-25(R-Q)+36] - \right.$$
+
+$$[del]q(R-Q) - q[/del]$$
+$$-[del](R-Q)q + (R-Q)[/del]$$
+
+$$\frac{5}{q}(R-Q)^3 - \frac{30}{q}(R-Q)^2 + \frac{61}{q}(R-Q) - 36q$$
+
+$$-5(R-Q)q^3 + 30(R-Q)q^2 - 61(R-Q)q + 36(R-Q)$$
+
+$$\frac{5(R-Q+q)(R-Q-q)(R-Q) - 30(R-Q)q(R-Q-q) + 36(R-Q-q)}{6(R-Q)} b_{-R}$$
+
+$$b_{-R+q} = \frac{5(R-Q+q)(R-Q) - 30(R-Q)q + 36}{6} \cdot \frac{R-Q-q}{R-Q} b_{-R}$$

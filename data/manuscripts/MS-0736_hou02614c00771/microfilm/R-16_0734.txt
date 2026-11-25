@@ -1,0 +1,43 @@
+It seems needful to assume
+
+(1) $a \overline{>} a$ Or if $a=b$ $a \overline{>} b$
+
+? (2) If $a \overline{>} b$ and $b \overline{>} a$ then $a=b$ (each can everywhere be substituted for the other.)
+
+(3) To combine two premises
+[del]If $p$ and $q$[/del] If $p q \overline{>} 0$ then $p$ and $q$
+
+[del]Unfinished
+Paso[/del]
+
+(4) Principle of modus ponens
+$a(\overline{b}+c) \prec a \overline{b}+c$
+If $a$ and $b \overline{>} c$ then $a \overline{>} b \overline{>} c$ [ins]This is syll.[/ins] [ins]modus ponens that
+If $a \overline{>} a \overline{>} b$ then $b$[/ins]
+Split into two?
+
+(5) Principle of dilemma
+If $a \overline{>} b \overline{>} d$ and $c \overline{>} d$ then $a \overline{>} c \overline{>} d$
+
+(6) Principle of excluded middle.
+Comes from $0 \overline{>} a$ If $a \overline{>} 0 \overline{>} 0$ or $a$ by Syll. $a \overline{>} 0 \overline{>} a$
+or one may write if $a \overline{>} \overline{a}$ then $a$ [ins]Now if $a \overline{>} b \overline{>} c$ then $a \overline{>} c$
+Now if $a \overline{>} b \overline{>} a$ then $a$[/ins]
+
+? (7) Principle of syllogism in one or more forms
+Perhaps by assuming [del]if $a$ then[/del] $a = \infty \overline{>} a$
+? which would come from modus ponens and if $a$ then $b \overline{>} a$
+we should get rid of some thing
+$(\overline{a}+b)(b+c) \prec \overline{a} + [del]b[/del][ins]b[/ins](\overline{b}+c) \prec \overline{a} + [del]b[/del][ins]b[/ins]\overline{b} + c \prec$
+
+$a \overline{>} b$ $b \overline{>} c$
+$a \overline{>} b \overline{>} c \overline{>} \dagger$
+
+[del]$\overline{a} + b \overline{>} c$[/del]
+$a \overline{>} b \overline{>} c$
+
+$a \overline{>} b$ $b \overline{>} c$ then $a \overline{>} c$
+$a \overline{>} b \overline{>} c$ [ins]true[/ins]
+If $a$ and $b \overline{>} c$
+then $a \overline{>} b \overline{>} c$
+allows

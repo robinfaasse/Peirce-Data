@@ -1,0 +1,31 @@
+[del]\frac{\Delta T_{d}}{T_{d}} = \frac{1}{2} (\Delta h)^{2} \frac{\mu}{m} + \frac{1}{2} (h_{d} - h_{u}) \Delta h - \frac{1}{2} h_{d} h_{u} \frac{m}{\mu}[/del]
+
+$$\frac{\Delta T_{d}}{T_{d}} = \frac{(\Delta h)^{2} \frac{\mu}{m} + (h_{d} - h_{u}) \Delta h - h_{d} h_{u} \frac{m}{\mu}}{2 h_{d} (h_{d} + h_{u})}$$
+
+$$\Delta h = .0003$$
+$$\frac{\mu}{m} = .500$$
+
+$$\begin{array}{r}
+.00000009 \\
+.000045 \\
+.00015 \\
+\hline
+.000195 \\
+.000375 \\
+\hline
+.000180 \\
+.00009 \\
+\hline
+.00012
+\end{array}$$
+
+$$.00015$$
+
+$$\begin{array}{r}
+\frac{3}{16} \\
+\end{array} \quad \begin{arrayr}
+.002 \\
+.006 \\
+.00150 \\
+.000375
+\end{array}$$

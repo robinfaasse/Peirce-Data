@@ -1,0 +1,23 @@
+[pn]Logic
+III
+33[/pn]
+
+[ins]enclosed ovals.[/ins]
+[del]any [unclear]pair of ovals[/unclear][/del] But if this is an enclosure,
+instead of a letter, it can be further simplified by erasing
+two ovals by Rule II. Thus [fig]P ( Q ( R ) )[/fig] is equivalent to
+[fig]P ( Q R )[/fig]. It is therefore a perfectly simple matter to free
+the graph from all ovals within enclosed ovals.
+
+Thus the first premise of our last problem is
+[fig]( J L ) S C[/fig]
+
+This is equivalent to
+[fig]( J S ) ( J C ) ( L S ) ( L C )[/fig].
+
+It is only necessary to take every possible combination, [del]pre-[/del]
+serving the numbers of enclosures, [ins]modified only by Rule II.[/ins]
+
+So [fig]( A ( B ( C ( D E ) ) ) )[/fig] is equivalent to
+
+[fig]( A B ) ( A C D ) ( A C E )[/fig].

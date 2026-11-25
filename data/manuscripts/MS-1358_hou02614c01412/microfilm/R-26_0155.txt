@@ -1,0 +1,40 @@
+[marginalia]Almirall Bridge 1909 Feb 12[/marginalia] [pn]b[/pn]
+
+$\Theta_{P+2} - 3\Theta_{P+1} + 3\Theta_{P} - \Theta_{P-1} + \frac{1}{2}\frac{u}{B}(ds)^{3} - \frac{1}{2}\frac{y_{P}}{B}(ds)^{2} = 0$
+
+$= -\frac{1}{6}\frac{u}{B}P^{3} [del]-\frac{u}{B}P^{2}ds - 2\frac{u}{B}Pds^{2}[/del] + \frac{4}{3}\frac{u}{B}(ds)^{3}$
+$+ \frac{1}{2}\frac{u}{B}P^{3} + \frac{3}{2}\frac{u}{B}P^{2}ds + \frac{3}{2}\frac{u}{B}P(ds)^{2} + \frac{1}{2}\frac{u}{B}(ds)^{3}$
+$- \frac{1}{2}\frac{u}{B}P^{3}$
+$+ \frac{1}{6}\frac{u}{B}P^{3} - \frac{1}{2}\frac{u}{B}P^{2}ds + \frac{1}{2}\frac{u}{B}P(ds)^{2} - \frac{1}{6}\frac{u}{B}(ds)^{3}$
+$+ \frac{1}{2}\frac{u}{B}(ds)^{3} - \frac{1}{2}\frac{y_{P}}{B}(ds)^{2}$
+
+$+ C_{2}P^{2} + 4C_{2}Pds + 4C_{2}(ds)^{2}$
+$- 3C_{2}P^{2} - 6C_{2}Pds - 3C_{2}(ds)^{2}$
+$+ 3C_{2}P^{2}$
+[del]$-\ C_{2}P^{2} + 2C_{2}Pds - C_{2}(ds)^{2}$[/del]
+$+ B_{2}P^{2}$
+$- B_{2}P^{2} + 2B_{2}Pds - B_{2}(ds)^{2}$
+
+$+ C_{1}P + 2C_{1}ds$
+$- 3C_{1}P - 3C_{1}ds$
+$+ 2C_{1}P$
+$+ [del]A[/del]B_{1}P$
+$- B_{1}P + B_{1}ds$
+
+[marginalia]
++3
++3
+-8
+-1
+[/marginalia]
+
+$= -\frac{1}{2}\frac{u}{B}(ds)^{3} - \frac{1}{2}\frac{y_{P}}{B}(ds)^{2} + (C_{2}-B_{2})([del]2[/del]ds + ds^{2}) - (C_{1}-B_{1})ds = 0$
+
+Also as on last page
+$-\frac{1}{2}\frac{u}{B}(ds)^{3} - \frac{1}{2}\frac{y_{P}}{B}(ds)^{2} + (C_{2}-B_{2})(+2Pds + ds^{2}) + (C_{1}-B_{1})ds = 0$
+
+$-\frac{u}{B}ds - \frac{y_{P}}{B} + (C_{2}-B_{2})2 [del]ds[/del] \ \ \ \ (C_{2}-B_{2})4P + 2(C_{1}-B_{1})$
+
+$(C_{2}-B_{2}) = \frac{1}{2}\frac{y_{P} + uds}{B}$ \ \ \ \ $C_{1}-B_{1} = P\frac{y_{P}+uds}{B}$
+
+$C_{0}-B_{0} = -\frac{3}{2}P^{2}\frac{y_{P}+uds}{B}$

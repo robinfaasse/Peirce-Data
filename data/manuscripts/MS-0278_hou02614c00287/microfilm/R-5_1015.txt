@@ -1,0 +1,79 @@
+$$j = i^{2} \quad k = i^{3} \quad l = m^{2}$$
+
+$$m^{3} = i^{3} \quad [del]m^{4} =[/del]$$
+
+$$im = \beta i^{3} \quad mi = \beta i^{3}$$
+
+$$\underline{iA = B \quad iB = i^{2}A = C \quad iC = i^{3}A = D \quad iD = 0}$$
+
+$$mA = E$$
+
+$$iE = imA = \alpha i^{3}A = \alpha D$$
+
+$$mE = m^{2}A = F$$
+
+$$iF = im^{2}A = 0$$
+
+$$mF = m^{3}A = i^{3}A = D$$
+
+$$mB = miA = \beta i^{3}A = \beta D$$
+
+$$mC = miB = \beta i^{3}B = 0$$
+
+$$mD = miC = \beta i^{3}C = 0$$
+
+[marginalia]
+[del]A for D[/del]
+[del]B for C[/del]
+[del]D for A[/del]
+[del]F for E[/del]
+[del]H for B[/del]
+[del]E for E[/del]
+E for F
+[/marginalia]
+
+$$i = B:A + C:B + D:C + \alpha D:E$$
+
+$$m = E:A + \beta D:B + F:E + D:F$$
+
+$$[del]m^{2} = G:C + \beta A:H + E:G + A:E[/del]$$
+
+$$[del]j = A:C + B:D[/del]$$
+
+$$[del]k = A:D[/del]$$
+
+$$[del]l = E:C + A:G[/del]$$
+
+$$m = \beta A:C + A:E + E:[del]F[/del][ins]F[/ins] + F:D$$
+
+$$m^{2} = A:F + E:D$$
+
+$$\begin{array}{c|c}
+j = i^{2} & k = i^{3} \quad l = im \\
+\hline
+mi = i^{3} + im & m^{2} = im \\
+\hline
+i^{2}m = 0 & \\
+\end{array}$$
+
+$$\underline{iA = B \quad iB = i^{2}A = jA = C}$$
+
+$$\underline{iC = i^{3}A = kA = D}$$
+
+$$mA = E$$
+
+$$\begin{array}{c|c}
+\text{for } K & A \\
+J & B \\
+I & C \\
+A & D \\
+L & E \\
+M & F
+\end{array}$$
+
+$$\begin{aligned}
+i &= I:A + J:I + K:J + L:M \\
+m &= M:A + K:I + \alpha L:I + L:M \\
+\hline
+[del]m[/del] [ins]m[/ins] &= F:D + A:C + \alpha E:C + E:F
+\end{aligned}$$

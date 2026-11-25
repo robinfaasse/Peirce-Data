@@ -1,0 +1,17 @@
+[pn]Logic
+III
+80[/pn]
+
+[u]Propositions deducible from A, B, C.[/u]
+
+(86) [u]V[/u] is ([u]m[/u] < [u]s[/u]) < ([u]s[/u] < [del][u]m[/u][/del] [ins][u]m[/u] < [u]n[/u][/ins]) < [u]m[/u] < [u]n[/u].
+For if, in (82), we put [del][u]n[/u][/del] in place of [u]t[/u], which may signify any character, [del]it[/del] that proposition becomes: If [u]V[/u] is both [u]m[/u] < [u]s[/u] and [u]s[/u] < [u]m[/u] < [u]n[/u], then it is [u]m[/u] < [u]n[/u]. This, by (80), gives (86).
+
+(87) [u]V[/u] is ([u]m[/u] < [u]s[/u] < [u]m[/u] < [u]n[/u]) < [u]s[/u] < [u]m[/u] < [u]n[/u]
+For if, in (83), we put [u]m[/u] < [u]n[/u] in place of [u]t[/u], which may be anything, that proposition becomes if [u]V[/u] is [u]s[/u] and [del][u]m[/u] < [u]s[/u] < [u]m[/u] < [u]n[/u][/del] [ins][u]m[/u] < [u]s[/u] < [u]m[/u] < [u]n[/u][/ins], then it is [del][u]s[/u] <[/del] [u]m[/u] < [u]n[/u], this, by (80), gives (87).
+
+(88) [u]V[/u] is [[u]m[/u] < [u]n[/u] < [u]s[/u]] < ([u]s[/u] < [u]m[/u]) < [u]m[/u].
+For if, in (84), we put [u]m[/u] in place of [u]t[/u], that proposition becomes, If [u]V[/u] is ([u]m[/u] < [u]n[/u]) < [u]s[/u] and is [u]s[/u] < [u]m[/u], then it is [u]m[/u], which by (80) gives (88).
+
+(89) [u]V[/u] is [[([u]t[/u] < [u]n[/u]) < [u]s[/u] < [u]t[/u]] < [u]s[/u] < [u]t[/u].
+For if in (85) we put [u]t[/u] for [u]m[/u], that proposition becomes, If [u]V[/u] is [u]s[/u] and is ([u]t[/u] < [u]n[/u]) < [u]s[/u] < [u]t[/u], then it is [u]t[/u], which by (80) gives (89).

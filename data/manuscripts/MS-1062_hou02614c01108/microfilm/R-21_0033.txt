@@ -1,0 +1,11 @@
+$$\delta^2 + \frac{2\sqrt{a}(a-b) + 3ai + j}{5a - b + 3\sqrt{a}\cdot i}\delta + \frac{a\sqrt{a}\cdot i + \sqrt{a}\cdot j}{5a - b + 3\sqrt{a}\cdot i} = 0$$
+
+[fig]Lines connecting terms in the numerator of the fraction below to terms in the expression below it[/fig]
+$$\frac{\begin{aligned} 20a^2\sqrt{a}\cdot i - 4ab\sqrt{a}\cdot i + [del]2[/del][ins]16[/ins]a\sqrt{a}\cdot j - [del]4[/del][ins]8[/ins]b\sqrt{a}\cdot j \\ + 12a^2i^2 + 12aij \end{aligned}}{4(5a - b + 3\sqrt{a}\cdot i)^2}$$
+
+$$4a^3 + 8a^2b + 4ab^2 - [del]\bullet[/del] 12a^2\sqrt{a}\cdot i - 12ab\sqrt{a}\cdot i + 4\sqrt{a}\cdot(a-b)j$$
+$$+ 9a^2i^2 + 6aij + j^2$$
+
+$$\left(\delta + \frac{2\sqrt{a}(a-b) + 3ai + j}{10a - 2b + 6\sqrt{a}\cdot i}\right)^2 = \frac{\begin{aligned} 4a^3 + 8a^2b + 4ab^2 - 8a^2\sqrt{a}\cdot i - 8ab\sqrt{a}\cdot i \\ - 16a\sqrt{a}\cdot j + 3a^2i^2 - 6aij + j^2 \end{aligned}}{4(5a - b + 3\sqrt{a}\cdot i)^2}$$
+
+$$\delta = \frac{-2\sqrt{a}(a-b) - 3ai - j}{10a - 2b + 6\sqrt{a}\cdot i} \pm \frac{\sqrt{\begin{aligned} 4a^3 + 8a^2b + 4ab^2 - 8a^2\sqrt{a}\cdot i - 8ab\sqrt{a}\cdot i \\ - 16a\sqrt{a}\cdot j - 3a^2i^2 - 6aij + j^2 \end{aligned}}}{10a - 2b + 6\sqrt{a}\cdot i}$$

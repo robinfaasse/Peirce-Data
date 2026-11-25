@@ -1,0 +1,72 @@
+[marginalia]
+Minot's Bridge 1879 March 2
+[/marginalia]
+
+[pn]6[/pn]
+
+[del]c = 3A₃ + 2A₀A₂ + A₁²[/del]
+[del]= 3A₃ - 2A₀²A₁ + A₁²[/del]
+= 3A₃ + 2(A₁ - a)A₁ + A₁²
+= 3A₃ + 3A₁² - 2aA₁
+
+A₂ = -A₀A₁ = -A₀(a - A₀²)
+
+[del]★[/del] A₃ = ⅓c - ⅓a² + ⁴/₃aA₀² - A₀⁴
+
+A₄ = -½A₀A₃ - ½A₁A₂
+= -⅙cA₀ + ⅙a²A₀ - ⅔aA₀³ + ½A₀⁵
++ ½a²A₀ - aA₀³ + ½A₀⁵
+= -⅙cA₀ + ⅔a²A₀ - ⁵/₃aA₀³ + A₀⁵
+
+A₁ = a - A₀²
+A₂ = -aA₀ + A₀³
+-a²A₀ + aA₀³
++ aA₀³ - A₀⁵
+
+A₅ = -⅖A₀A₄ - ⅖A₁A₃ - ⅕A₂²
+= -⅖A₀(-⅙cA₀ + ⅔a²A₀ - ⁵/₃aA₀³ + A₀⁵)
+- ⅖(a - A₀²)(⅓c - ⅓a² + ⁴/₃aA₀² - A₀⁴)
+- ⅕(-a + A₀²)²A₀²
+
+[marginalia]
+²⁴/₁₅ = ⁸/₅
+[/marginalia]
+
+= + ⅕cA₀² - ⁴/₁₅a²A₀² + [del]²⁰/₁₅[/del] [ins]⁴/₃[/ins]aA₀⁴ - ⅖A₀⁶
+- ⅖ac + ⅖a³ - ⁸/₁₅a²A₀² + ⅖aA₀⁴
++ ⅖cA₀² - ⅖a²A₀² + ⁸/₁₅aA₀⁴ - ⅖A₀⁶
+- ⅕a²A₀² + ⅖aA₀⁴ - ⅕A₀⁶
+
+= -⅖ac + ⅖a³ + ⅗cA₀² - ¹⁴/₁₅a²A₀² + ⁸/₅aA₀⁴ - ⅗A₀⁶
+
+[marginalia]
+There is no common divisor of A₄ and A₅
+[/marginalia]
+
+[fig]Long division calculation[/fig]
+12 A₀⁶ - 24 a A₀⁴ + ([del]¹⁴a² - 3c[/del]) [ins]+(¹⁴a² - 3c)[/ins] A₀² - 2a³ + 2ac
+6 A₀⁶ - 15 a A₀⁴ + ( ⁹a² - c) A₀²
+24 a A₀⁴ + (-10a² + 2c) A₀² + 2a³ - 2ac
+24 a A₀⁴ - 40a² A₀² + 16a³ - 4ac
+(30a² + 2c) A₀² - 14a³ + 2ac
+6(15a² + c) A₀² + 6(-7a² + c)a
+
+[marginalia]
+4a² - c
+15a² + c
+60a⁴ - 11a²c - c²
+[/marginalia]
+
+6A₀⁶ - 10a A₀⁴ + 4a² - c
+[marginalia]
+-150
+-42
+-108
+77
+-10
++ 6
+-16
+[/marginalia]
+6(15a² + c) A₀⁶ - 10(15a² + ac) A₀⁴ + 60a⁴ - 11a²c - c²
+6(15a² + c) A₀⁶ - 6(7a² - ac) A₀⁴
++ (108a² + 16ac) A₀⁴ - 60a⁴ + 11a²c + c²

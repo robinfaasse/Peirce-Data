@@ -1,0 +1,27 @@
+[del]a ≺ b[/del]
+
+[del](a ≺ b) ≺ c[/del]
+
+[del](a ≺ z) ≺ (b ≺ z)[/del] (a ≺ b) ≺ b
+
+(a ≺ c) ≺ [(b ≺ c) ≺ c] = a + b + c
+
+{[(a ≺ b) ≺ b] ≺ c} ≺ c = a + b + c
+
+(a ≺ b) ≺ b = (b ≺ a) ≺ a
+
+{[(a ≺ b) ≺ b] ≺ c} ≺ c
+
+{c ≺ [(a ≺ b) ≺ b]} ≺ [(a ≺ b) ≺ b]
+
+(a ≺ b) ≺ c
+
+a b̅ + c
+
+[(a ≺ b) ≺ (c ≺ d)]
+
+a b̅ + c̅ + d
+
+(a̅ + b) c d̅ + e f̅ + g̅ + h
+
+a̅ c d̅ + b c d̅

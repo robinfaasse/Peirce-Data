@@ -1,0 +1,13 @@
+[pn]F4[/pn] [pn]13[/pn]
+
+[u]Rule XV[/u]. If the [del]entire contents of[/del] [ins]with its contents,[/ins] an oval [del]forming[/del] and unenclosed and separate part of a graph, can be transformed into a graph, then if for that oval were substituted an oval containing the latter graph, this oval could be transformed into the contents of the first oval.
+
+That is, if [fig]oval containing a[/fig] c [math]\prec[/math] b c, then [fig]oval containing b[/fig] c [math]\prec[/math] a c.
+
+For suppose [fig]oval containing a[/fig] c [math]\prec[/math] b c. Then, since, by II and IV, b c [math]\prec[/math] c, it follows that [fig]oval containing a[/fig] c [math]\prec[/math] b. And since, by III, if [fig]oval containing a[/fig] and c are both scriptible [del]it follows that [fig]oval containing a[/fig] c is scriptible, it follows that is, [fig]oval containing a[/fig] and c are both scriptible b is scriptible.[/del] [ins]That is by XII, if [u]a[/u] could be transformed into anything and c is scriptible, so is b.[/ins] Now if [u]a[/u] is not scriptible, there is no falsity in saying that if it were written it could be transformed into anything. Hence, if [u]a[/u] is not scriptible [del]and[/del] [ins]while[/ins] [u]c[/u] is scriptible, [u]b[/u] is scriptible. Or, in other words, if [u]c[/u] is scriptible, either [u]a[/u] or [u]b[/u] is scriptible. That is, if [u]b[/u] is not scriptible [del]and[/del] [ins]while[/ins] [u]c[/u] is scriptible, [u]a[/u] is scriptible. Now if [fig]oval containing b[/fig] c is scriptible, by II and IV, [fig]oval containing b[/fig] is scriptible, so that, by XI, [u]b[/u] could be transformed in anything, [del]or graph[/del]. But [u]b[/u] is either scriptible or it is not. If [u]b[/u] is scriptible and could be transformed into anything, it [del]could[/del] [ins]can[/ins] be transformed into [u]a[/u], and [u]a[/u] is scriptible. But if [u]b[/u] is not scriptible, while [u]c[/u] is scriptible, we have just seen that [u]a[/u] is scriptible. In either case, therefore, if [fig]oval containing b[/fig] c is scriptible, [u]a[/u] is scriptible; or [fig]oval containing b[/fig] c [math]\prec[/math] a. But by II and IV, [fig]oval containing b[/fig] c [math]\prec[/math] c. Hence, by III, [fig]oval containing b[/fig] c [math]\prec[/math] a c. Q.E.D.
+
+[u]Rule XVI[/u]. Any unenclosed and separate part of the graph can have two ovals drawn round it.
+
+That is a b [math]\prec[/math] a [fig]double oval containing b[/fig].
+
+For, by I, [fig]oval containing b[/fig] [math]\prec[/math] [fig]oval containing b[/fig]. [math]\therefore[/math] by XIV b [math]\prec[/math] [fig]double oval containing b[/fig]. [math]\therefore[/math] by IV, a b [math]\prec[/math] a [fig]double oval containing b[/fig].

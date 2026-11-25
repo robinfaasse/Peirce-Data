@@ -1,0 +1,68 @@
+183r
+
+[fig]sketch[/fig]
+
+[fig]ink blot[/fig]
+
+[ins]4[/ins]
+4
+
+[del]$\overline{a} + b \cdot c$[/del]
+
+$(a \cdot b) \cdot c$
+
+$\overline{a} + b \cdot c$
+
+[del]$\overline{a}b + c$[/del]
+
+[del]$\overline{a \cdot b}$[/del]
+
+[del]$\overline{bc}$[/del]
+
+[fig]sketch[/fig] $a \cdot b \cdot c \prec (\overline{a} + b) \cdot c \prec \overline{a} + bc$
+[fig]sketch[/fig] $\searrow \overline{a} \cdot c + b$
+
+[fig]sketch[/fig]
+
+$\overline{A} + C + \overline{B} + C$
+
+$A \cdot B \cdot C$
+
+$\overline{A} + C) \cdot (A$
+
+$A \overline{C} \quad B \overline{C}$
+$A \cdot B \cdot \overline{C}$
+
+$a \cdot b \cdot c = a \cdot b \cdot c$
+
+$(a \cdot b) c \qquad$ [del]$a \cdot b \cdot c$[/del] [del]$a \cdot b \cdot a \cdot c$[/del]
+&
+
+$\left \{ \begin{matrix} a \cdot b \cdot c \\ (b \prec a) \prec c \quad \# \quad a \cdot b \cdot c = \overline{a} + b \cdot c \\ a \cdot b \cdot c \end{matrix} \right.$
+
+[fig]sketch[/fig] $\prec \overline{a} + b \prec \overline{a} + b \cdot c$
+
+[ins]Props[/ins]
+Moods of two term [del]are[/del]
+$(a \prec b) \cdot (b \prec c) \quad \prec \quad (a \prec c)$ Barbara
+$(a \prec b) \cdot a \cdot c \quad \prec \quad bc \quad$ Darii
+
+Moods of three term prop.
+
+I $a \prec b \prec c \quad d \prec a \quad \prec \quad d \prec b \prec c$
+iii $a \prec b \prec c \quad d \cdot a \quad \prec \quad d \cdot (b \prec c)$
+I $a \prec b \prec c \quad c \prec d \quad a \prec b \prec d$
+[del]$a \cdot b \cdot a \cdot c$[/del]
+iii $a \cdot (b \prec c) \quad a \prec d \quad d \cdot (b \prec c)$
+I $a \cdot (b \prec c) \quad d \prec b \quad a \cdot (d \prec c)$
+I $a \cdot (b \prec c) \quad c \prec d \quad a \cdot (b \prec d)$
+$a \cdot (b \prec c) \quad b \cdot d \quad a \cdot b \cdot c$
+I $a \prec b \cdot c \quad d \prec a \quad d \prec b \cdot c$
+I $a \prec b \cdot c \quad c \prec d \quad a \prec b \cdot d$
+iii $a \cdot b \cdot c \quad d \cdot a \quad d \cdot b \cdot c$
+iii $a \cdot b \cdot c \quad a \prec d \quad b \cdot c \cdot d$
+
+$(a \prec b) \cdot c \quad c \prec d \quad (a \prec b) \cdot d$
+$(a \prec b) \cdot c \quad d \prec b \quad (a \prec d) \cdot c$
+$(a \prec b) \cdot c \quad a \cdot b \quad (d \prec b) \cdot c$
+$(a \prec b) \cdot c \quad b \cdot d \quad [del](a \prec c) \cdot d[/del] \quad c \cdot d$

@@ -1,0 +1,32 @@
+[pn]W4[/pn] [pn]182[/pn]
+
+§67 It is plain that this proceedure will generally lead to the
+[del]one answe[/del] sole values of [u]x[/u] and [u]y[/u] which will satisfy
+the equations, [del]Thus,[/del] no matter what the known quantities
+are. (We will consider exceptions presently.) Thus, [del]and[/del] calling
+the known numbers [u]a[/u], [u]b[/u], [u]c[/u], [u]d[/u], [u]m[/u], [u]n[/u], suppose we had
+the two equations
+[u]ax[/u] + [u]by[/u] = [u]m[/u],
+[u]cx[/u] + [u]dy[/u] = [u]n[/u].
+
+The first of these gives
+[u]x[/u] = ([u]m[/u] - [u]by[/u])/[u]a[/u].
+
+Substituting this [ins]value of [u]x[/u][/ins] in the second equation, we get
+[u]c[/u]([u]m[/u] - [u]by[/u])/[u]a[/u] + [u]dy[/u] = [u]n[/u],
+
+or, what is the same thing,
+[del]#[/del] (-[u]cb[/u]/[u]a[/u] + [u]d[/u]) [u]y[/u] + [u]cm[/u]/[u]a[/u] = [u]n[/u];
+
+and this gives, according to the rule,
+[u]y[/u] = ([u]n[/u] - [u]cm[/u]/[u]a[/u]) / (-[u]cb[/u]/[u]a[/u] + [u]d[/u]).
+
+Multiplying numerator and denominator of this fraction
+by the same number, [u]a[/u], will not alter its value; so that
+[u]y[/u] = [u]an[/u] - [u]cm[/u] / [u]ad[/u] - [u]cb[/u]
+
+Considering that [u]a[/u] and [u]c[/u] are [ins]in the original equations[/ins] related to [u]x[/u] precisely
+as [u]b[/u] and [u]d[/u] respectively are to [u]y[/u], it must be that if we
+interchange [u]a[/u] and [u]b[/u], as well as [u]c[/u] and [u]d[/u], in the value of [u]y[/u], we shall
+get that of [u]x[/u]; or
+[u]x[/u] = [u]bn[/u] - [u]dm[/u] / [u]bc[/u] - [u]da[/u].

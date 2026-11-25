@@ -1,0 +1,47 @@
+```
+[fig]Three lines crossing three lines with letters a, b, c, alpha, beta, gamma[/fig]
+[fig]Three lines crossing three lines with letters a, b, c, alpha, beta, gamma[/fig]
+
+[del]$\alpha$[/del] $a + b + c$
+$b + \beta a + \gamma^2 a$
+$c + \gamma^2 a + \beta b$
+
+$\alpha + b + c$
+$\beta a + b + \gamma c$
+$\gamma^2 a + b + \beta c$
+
+$(\gamma^2 - \beta) a + (1 - \gamma^2) b + (1 - \beta) c$
+
+$\alpha + \gamma b + \beta^2 c$
+$\beta a + \gamma^2 b + \beta c$
+$\gamma^2 a + b + \gamma c$
+
+$\left( [x^2] - [z^2] \right) p = [y^2] - [z^2]$
+
+$\frac{x^2 - z^2}{z^2 - y^2} p = \frac{y}{x}$
+
+$\frac{y^2 - x^2}{z^2 - y^2} p = r = \frac{zx - yx}{xy - zy} = \frac{z - x}{y - z}$
+
+$\frac{1}{2} p^2 \left( 1 + \frac{(x^2 - z^2)^2}{(z^2 - y^2)^2} + \frac{[del]y^2 - x^2[/del]}{(z^2 - y^2)^2} \right)$
+
+$\frac{1}{2} \frac{p^2}{(z^2 - y^2)^2} \left( [del]x^2 + y^2 - 2xy[/del] [ins]\begin{array}{c} x^2 + y^2 - 2xy \\ + z^2 - 2xz \\ + z^2 - 2yz \end{array}[/ins] \right)$
+
+---
+
+$[x^2] + a$
+$[y^2] + \beta a$
+$[z^2] + \gamma^2 a$
+
+$\frac{[x^2] + p}{[y^2]}$
+
+$a + b + r = 0$
+
+$\frac{1}{r} (a + b + r^2) = [x^2] + [y^2] + [z^2] = 0$
+
+$p [x^2] + q [y^2] + r [z^2] + a [x^2] + b [y^2] + c [z^2]$
+
+$+ pqr$
+
+$= - [x^2] [y^2] [z^2] - [x^2] [y^2] [z^2] - [x^2] [y^2] [z^2]$
+$+ 2 [x^2] [y^2] [z^2]$
+```

@@ -1,0 +1,22 @@
+[pn]63[/pn]
+
+[u]§ 19 To determine x from[/u]
+[del]xb = a[/del]     [ins]x + b = a[/ins]
+[del]bx = a[/del]     [ins]b + x = a[/ins]
+
+[u]$\Pi_i \Pi_k \Sigma_j \bar{a}_{ik} + x_{ij} \cdot b_{jk}$[/u] [del]$= (\bar{a}_{ik} + x_{ij}) \bar{a}_{ik}$[/del]
+$\Pi_i \Pi_k \Pi_j \bar{x}_{ij} + b_{jk} + a_{ik}$
+
+$\Pi_i \Pi_k \Sigma_j \Pi_j \Pi_{k'} \Pi_{j'} (\bar{a}_{ik} + x_{ij}) (\bar{x}_{ij'} + \bar{b}_{j'k'} + a_{ik'})$
+
+$\Pi_i \Pi_k \Sigma_j \Pi_{k'} \bar{a}_{ik} + \bar{b}_{jk'} + a_{ik'}$
+
+[del]$\bar{a} + (a + b)$[/del]
+[del]$a + \bar{a} + b + a$[/del]
+$a + (a + b)$ or
+
+If is curious the Schröder gives the
+resultant $a \prec (a + \bar{b}) b$
+not writing $a = (a + \bar{b}) b$
+for as he is of equal value
+yes he does add it.

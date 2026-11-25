@@ -1,0 +1,29 @@
+[marginalia][pn]C.S.P. 1902 June 22 Page 2[/pn][/marginalia]
+point from which it begins to fall back, and its distance then [ins]r_0[/ins]
+we have [del]C =[/del] [ins]C = \frac{k}{r_0^2}[/ins]; for that gives the right vis viva. If we denote
+by [u]c[/u] the starting-point (carceres) from which it was thrown,
+its [del]on[/del] initial vis viva was [ins]\frac{1}{2}(\frac{dr}{dt})_c^2 = \frac{k}{r_c^2} - \frac{k}{r_0^2}[/ins]. When the particle
+comes back to [u]c[/u], let it be stopped and thrown again; but this time
+not directly away but along a line which indefinitely con-
+tinued straight (for the purpose of defining the direction of
+the throw) should be at a perpendicular distance P_c from
+the centre of force. Then, since its initial velocity is [del]v_c[/del] [ins](using v[/ins] [ins]for velocity in the path [del]taken[/del] [ins]traveling[/ins])[/ins] v_c = \sqrt{\frac{2k}{r_c^2} - \frac{2k}{r_0^2}}, the same as before,
+in the time dt it will move a distance v_c dt. This will be
+the base of a triangle of which the altitude is P_c so that in
+the time dt it will describe an area [del]A dt[/del] [ins]\frac{1}{2} P_c v_c dt[/ins] about the
+centre. Call the double of this A dt and since by Kepler's first
+law as proved by Newton bodies under the influence of central forces
+describe equal areas in equal times, the double of the rate of de-
+scribing area will be A throughout the motion. We will denote
+the position of the particle at any moment by polar coordinates,
+r and \theta, taking the centre of attraction as the origin. [del]The At[/del]
+any time dt, it will describe a triangle having the centre as
+the vertex, its two legs being r and r+dr and the included
+angle d\theta. The [ins]double[/ins] area of this triangle will be (by a formula of
+trigonometry) [del]\frac{1}{2}[/del] r(r+dr) sin d\theta, which (on account of the infini-
+tesimals) will be [del]\frac{1}{2}[/del] r^2 d\theta. But it will also be A dt Therefore \frac{d\theta}{dt} = \frac{A}{r^2}.
+The velocity v at any instant will have two components; one
+along the radius vector, equal to \frac{dr}{dt}, the other perpendicular to
+that equal to r \frac{d\theta}{dt}, which as we have just seen will be equal to
+\frac{A}{r}. We shall therefore have v^2 = (\frac{dr}{dt})^2 + \frac{A^2}{r^2} or \frac{dr}{dt} = \sqrt{v^2 - \frac{A^2}{r^2}}. We
+are now ready to form two differential equations; one expressing the

@@ -1,0 +1,35 @@
+(Ai' + Bm' + Cn')(Di' + Em' + Fn')
+= i'' j'' k'' l'' m'' n''
+AD -AE -AF
+-BE -BF +BD
+-CF -CE +CD
+(AD-BE-CF)i'' -BFj'' -CEk'' (-AE+BD)m'' (-AF+CD)n''
+Ai' + Bm' + Cn'
+i' j' k' l' m' n'
+(AD-BE-CF)A (AD-BE-CF)B (AD-BE-CF)C
+-BFA [del]B[/del][ins]B²[/ins]F [del]B[/del]BFC
+-ACE [del]C[/del][ins]C²[/ins]E BCE
+[del](-AE+BD)B[/del] [del](AE+BD)C[/del] A(-AE+BD)
+[del](AF+CD)C[/del] [del](AF+CD)B[/del] A(-AF+CD)
+
+[del]A²D-ABE[/del]
+[del](A²-B²-C²)Di'[/del] [del]-BFj'[/del] [del]ABF k'[/del] [del](B²F+CE²)[/del] [del]-A²E+B²E+2BCF[/del] [del]-A²F+BCE[/del]
+[del]+BCD[/del] [del]-ABF+ACE-BCD[/del] [del]-ACE[/del] [del]-C²E-B²F[/del] [del]+C²F[/del]
+[del]-BCD[/del] [del]-B²F-CE[/del]
+[del]A²D-2ABE-2ACF[/del] [del]ABF-ACE[/del] [del]ABF-ACE[/del] [del]B²F[/del] [del]2ABD[/del]
+[del]-B²D+C²D[/del] [del]+BCD[/del] [del]+BCD[/del] [del]CE²[/del] [del]-A²E+2ABD[/del] [del]-A²F+2ACD[/del]
+[del]+ABF+ACE[/del] [del]-2BCF-B²E[/del] [del]-2BCE-C²F[/del]
+[del]-BCD[/del] [del]+C²E+B²F[/del] [del]+B²F+C²E[/del]
+
+A = √u²-u+1 B = 1 C = u [del]+u²[/del]
+D = √v²-v+1 E = 1 [del]F = v[/del] F = v [del]-v²+v-1[/del]
+[del]+√u²√v²[/del]
+(u²-u+1)√v²-v+1 [del]+2uv[/del]
+√u²-u+1 (-2-2uv+v+u) [del]2uv√[/del]
+= √u²-u+1 [del]2√v[/del]
++ (√u²-u)√v²-v+1 -u²+u-1+v-2uv
++u² -1
+(1-2u)(1-2v) = √
+u+v-2uv = 3 [del]-u²v+uv-v-2u[/del] +2uv√
+[del]u+v-2uv = -6[/del] [del]-u²v+u[/del] +u²
+[del]2uv-2+v+u = 1[/del]

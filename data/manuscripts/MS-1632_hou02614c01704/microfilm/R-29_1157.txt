@@ -1,0 +1,49 @@
+227. Given the base and sum of the sides of a
+plane triangle to construct it when the angles at
+the base are as 1 to 2.
+
+Soluton. Let the base be $b$, the smaller angle $x$,
+and the sum of the other two sides = $s$.
+$\sin 3x : \sin x + \sin 2x :: b : s$.
+$3 \cos^2 x - \sin^2 x : 1 + 2 \cos x :: b : s$.
+$\frac{4 \cos^2 x - 1}{2 \cos x + 1} = \frac{b}{s} = 2 \cos x - 1 =$
+$\cos x = \frac{b+s}{2s}$
+
+On $2s$ as a diameter describe a circle. At the extremity of
+$2s$ draw [del]a[/del] [ins]each[/ins] chord = $b+s$. and from the same point lay off
+on [del]this[/del] [ins]one of the[/ins] chord[ins]s[/ins] the [del]base[/del] [ins]part[/ins] base $b$. At the middle of $b$ erect a
+perpendicular to meet the diameter. For the extremity of
+$b$ [del]will[/del] [ins]with[/ins] the $y$ [ins]a line[/ins] [del]which[/del] produced to the other chord will give
+the required triangle.
+
+228. In a given parabola, it is required to determine the
+greatest inscribed ellipse, one of whose axes shall be parallel
+to the base of the parabola.
+
+Let $h$ = height of parabola.
+$y^2 = p(h-x)$ is its equation referred to the middle of the base
+$y^2 = \frac{p'}{a} (ax-x^2)$ that of the ellipse. For the point of
+contact. $p(h-x) = \frac{p'}{a} (ax-x^2)$
+$p'x^2 - (p'a + ap)x + ahp = 0$.
+
+But there can only be one value to $x$ since it is a point of
+contact. Therefore,
+[del]$4 p' p^2 a p = (p'a + ap)^2 = p'^2 a^2 + a^2 p^2 + 2 a^2 p p'$[/del]
+[del]$4 h p' p = p' a + ap$.[/del]
+$4 a h p p' = (p' a + ap)^2 = a^2(p+p')^2$
+$a = \frac{4 h p p'}{(p+p')^2}$
+
+surface of the ellipse = $a^2 p' = \frac{4^2 h^2 p^2 p'^3}{(p+p')^4}$
+$d. \frac{p'^3}{(p+p')^4} \gtrless 0$.
+$4 (p+p') - 6 p' = 0$
+$p' = 2p$
+[del]and[/del] [ins]why the[/ins] axis finishing with that of the
+parabola, the other axis = $\sqrt{a p'} = \frac{4}{3} \sqrt{p h}$.
+Cor. For the circle, is the maximum.
+$\therefore \frac{4}{3} h = \frac{4}{3} \sqrt{p h}$.
+$4h^2 = 9ph$.
+$h = \frac{9}{4} p$.
+$a = 2p$.
+Cor. 2. $a$ is the transverse axis, when
+$\frac{4}{3} h > \frac{4}{3} \sqrt{p h}$.
+$h > \frac{9}{4} p$

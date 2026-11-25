@@ -1,0 +1,35 @@
+[marginalia]Report on Morrison's Bridge[/marginalia] [pn]5[/pn]
+
+same and has the same proportional distribution, and the elasticities and
+cross-sections of the links are the same, the horizontal pull is the same,
+[del]however[/del] [ins]whether[/ins] short or long [del]whatever[/del] the linear dimensions may be. Equation
+(18) will be solved by successive approximations. For an arithmetical
+algorithm for finding the root of smallest modulus of an [ins]algebraic[/ins] [del]equ[/del]
+equation, see Note A. As a first approximation, the multiplier of A
+in (18) may be assumed to be equal to [del]2[/del] [ins]2/[/ins] [u]S[/u]P.
+
+A having been determined, equation (17) will determine I, (16) serv-
+ing as a check. Then, (10) and (11) will give [u]x[/u][sub]i[/sub] and [u]y[/u][sub]i[/sub].
+
+If the links are infinitesimal, so that the funicular polygon becomes
+a catenary curve of some kind, [del]all[/del] the P[sub]i[/sub] may, without loss of gene-
+rality, be assumed constant, [ins]= dλ[/ins] for all values of i, while Δx[sub]i[/sub] will vary.
+We shall have
+
+(19) β = p - p[sub]k[/sub]
+
+For λ[sub]i[/sub], we shall have dλ, where λ is a quantity increasing from 0, when
+x = y = 0, to 1, when x = a, y = b. Equations (10) and (11) will become
+
+(20) y = I ∫ (p - p[sub]k[/sub]) ( 1/ε + 1 / √[A² + (p - p[sub]k[/sub])²] ) dλ
+(21) x = L A ∫ ( 1/ε + 1 / √[A² + (p - p[sub]k[/sub])²] ) dλ .
+
+If ε is constant throughout and [del]p[/del]
+
+(22) p = Qλ
+
+where Q is constant, we have that catenary curve which when ε = ∞ becomes
+the common catenary. In this case,
+
+(23) y = I ∫ { Q(λ - λ[sub]k[/sub]) ( 1/ε + 1 / √[A² + Q²(λ - λ[sub]k[/sub])²] ) } dλ = [del]I [ Q(λ - λ[sub]k[/sub])² / 2ε + 1/Q √[A² + Q²(λ - λ[sub]k[/sub])²] ][/del]
+= I [ Q (λ - λ[sub]k[/sub])² - λ[sub]k[/sub]² / 2ε + 1/Q ( √[A² + Q²(λ - λ[sub]k[/sub])²] - √[A² + Q²λ[sub]k[/sub]²] ) ]

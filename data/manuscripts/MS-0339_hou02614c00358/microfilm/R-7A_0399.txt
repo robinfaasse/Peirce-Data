@@ -1,0 +1,20 @@
+Suppose
+$[p, q]$ is a mean of $p$ and $q$ such that if
+$p$ is $1$ it is independent of $q$
+
+$\sqrt{\log p \cdot \log q}$
+
+[del]$\frac{2 a b}{a + b}$[/del]
+
+$\frac{2 \log p \cdot \log q}{\log p + \log q}$  $\frac{\left(\frac{p}{1-p} + \frac{q}{1-q}\right)}{2 + \frac{p}{1-p} + \frac{q}{1-q}} =$
+
+[del]$\frac{2 \frac{p}{1-p}}{2 + 2 \frac{p}{1-p}}$[/del]  $\frac{\frac{2 - 2p - 2q + 2pq}{+ p - pq} + q - pq}{2 - p - q}$
+
+[del]$\{p, q\}$ is a mean of $p$ and $q$ such that[/del]
+$[p, q] + \{p, q\} = p + q$
+$p + q - \frac{p + q - 2pq}{2 - p - q} = \frac{p + q - p}{2 - p}$
+$\frac{2p + 2q - p^2 - q^2 - 2pq}{+ 2pq} - p - q$
+
+$\frac{p + q - 2pq}{2 - 2p - 2q + 2pq}$  $\frac{\pi}{1+\pi} + \frac{\kappa}{1+\kappa} +$
+
+$= \frac{1}{2} \left( \frac{\pi(1+\kappa) + \kappa(1+\pi)}{(1+\pi)(1+\kappa)} \right)$

@@ -1,0 +1,15 @@
+$$D_t R = -\lambda_R R \quad R = R_0 e^{-\lambda_R t}$$
+$$D_t X = P_x \lambda_R R - \lambda_x X$$
+$$D_t (R + \mu X) = (-1 + \mu P_x) \lambda_R R - \mu \lambda_x X$$
+
+$$\frac{\mu \lambda_x}{(1 - \mu P_x) \lambda_R} = \mu \quad \frac{(1 - \mu P_x) \lambda_R}{\lambda_x} = 1$$
+$$\frac{1 - \frac{\lambda_x}{\lambda_R}}{P_x} = \mu \quad \lambda_R R \lambda_R \frac{1 - \lambda_x/\lambda_R}{R}$$
+
+$$D_t (R + \frac{1 - \lambda_x/\lambda_R}{P_x} X) = -\lambda_R R - \frac{1 - \lambda_x/\lambda_R}{P_x} \lambda_x X$$
+$$R + \frac{1 - \lambda_x/\lambda_R}{P_x} X = (R_0 + \frac{1 - \lambda_x/\lambda_R}{P_x} X_0) e^{-\lambda_R t}$$
+$$\frac{1 - \lambda_x/\lambda_R}{P_x} X = -R_0 e^{-\lambda_R t} + (R_0 + \frac{1 - \lambda_x/\lambda_R}{P_x} X_0) e^{-\lambda_R t}$$
+$$X = \frac{-R_0 P_x}{1 - \lambda_x/\lambda_R} e^{-\lambda_R t} + (\frac{R_0 P_x}{1 - \lambda_x/\lambda_R} + X_0) e^{-\lambda_x t}$$
+
+$$D_t (R + \mu X + \nu \mathcal{E}) = (-1 + \mu P_x) \lambda_R R + (-\mu + \nu P_e) \lambda_x X - \nu \lambda_e \mathcal{E}$$
+$$(-\mu + \nu P_e) \lambda_x = \mu$$
+$$\nu P_e \lambda_x = (1 + P_e \lambda_x) \mu$$

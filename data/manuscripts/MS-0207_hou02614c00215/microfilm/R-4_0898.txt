@@ -1,0 +1,17 @@
+[pn]10[/pn]
+
+If the denominator is now divisible by any power of 2 or of 5 multiply [del]numerator[/del] [ins]numerator[/ins] and denominator by the corresponding power of the other of these numbers and shift the decimal points to the left by a number of places equal to the exponent of that power.
+
+Now multiply numerator and denominator by the [ins]arithmetical complement of[/ins] [del]last[/del] [ins]last[/ins] figure of the cube of the latter.
+
+Dock the last figure of the denominator and increase the remnant by one. Call the result the current multiplier.
+
+Dock the last figure of the numerator and add to the remnant the product of the docked figure by the current multiplier. Call the sum the [del]second[/del] [ins]next[/ins] quasi-numerator. At the same time write the docked figure as the last figure of a number to be called the Final Subtrahend. Dock the last figure of the Quasi-numerator and add to the remnant the product of the docked figure by the current multiplier. Call the sum the next quasi-numerator, and write the docked figure as the next to the last figure of the Final Subtrahend.
+
+Proceed thus until the Quasi-numerator is identical with a previous quasi-numerator. [del]Or stop when the Quasi-numerator is the Denominator less a previous quasi-numerator; when the following figures are the arithmetical complement of those that follow that previous quasi-numerator.[/del]
+
+Subtract the Final Subtrahend from the circulating part of the same number continued indefinitely into the decimal places. The remainder is the quotient sought.
+
+For example: Required $\frac{2}{7}$. The cube of 7 ends with 3. We therefore multiply numerator and denominator by 7, giving $\frac{14}{49}$. The current multiplier is 5. The work now proceed as here shown.
+
+[fig]Handwritten arithmetic calculations and scratch work[/fig]

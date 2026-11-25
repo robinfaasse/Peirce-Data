@@ -1,0 +1,18 @@
+[u]Theorem[/u] [[u]The Addition Theorem of Trigonometry[/u].] If [u]x[/u] and [u]y[/u] are any angular [del]values[/del] quantities whatever, then
+[u]sin[/u] ([u]x[/u] + [u]y[/u]) = [u]sin[/u] [u]x[/u] . [u]cos[/u] [u]y[/u] + [u]cos[/u] [u]x[/u] . [u]sin[/u] [u]y[/u].
+
+[u]Demonstration[/u]. Let [u]a[/u], [u]p[/u], [u]h[/u] be the legs and hypothenuse of a right triangle of which the angle opposite [u]a[/u] equals [u]x[/u]; and let [u]b[/u], [u]p[/u], [u]k[/u] be the legs and hypothenuse of a right triangle of which the angle opposite [u]b[/u] equals [u]y[/u]. [del]Then[/del] Let the triangles be replaced that [u]h[/u], [u]k[/u], and [u]a[/u]+[u]b[/u] form a triangle; [fig]two right triangles sharing a side p[/fig] and let [u]s[/u] be the perpendicular upon [u]k[/u] from the opposite vertex of the last triangle. Then, the theorem is that
+[u]s[/u]/[u]h[/u] = [u]a[/u]/[u]h[/u] [u]p[/u]/[u]k[/u] + [u]p[/u]/[u]h[/u] [u]b[/u]/[u]k[/u] .
+
+The area of the large triangle is [u]sk[/u]. It is also [del]p[/del] [u]p[/u]([u]a[/u]+[u]b[/u]).
+Hence, [u]sk[/u] = [del]pa[/del] [u]pa[/u] + [u]pb[/u]
+Dividing by [u]hk[/u], we have
+[u]s[/u]/[u]h[/u] = [u]a[/u]/[u]h[/u] [u]p[/u]/[u]k[/u] + [u]p[/u]/[u]h[/u] [u]b[/u]/[u]k[/u] . Q.E.D.
+
+[u]Corollaries[/u] . By turning [del]the[/del] [ins]one[/ins] triangle over upon the other, we find
+[del]Corollaries[/del] [u]sin[/u] ([u]x[/u] - [u]y[/u]) = [u]sin[/u] [u]x[/u] . [u]cos[/u] [u]y[/u] - [u]cos[/u] [u]y[/u] . [u]sin[/u] [u]y[/u].
+. It follows that, no matter what [ins]angular[/ins] values [u]x[/u], [u]y[/u], [u]z[/u] may be
+[u]sin[/u] [u]x[/u] . [u]sin[/u] ([u]y[/u]-[u]z[/u]) + [u]sin[/u] [u]y[/u] . [u]sin[/u] ([u]z[/u]-[u]x[/u]) + [u]sin[/u] [u]z[/u] . [u]sin[/u] ([u]x[/u]-[u]y[/u]) = 0.
+For [del]developing this begon[/del], on development, the first member becomes,
+[u]sin[/u] [u]x[/u] . [u]sin[/u] [u]y[/u] . [u]cos[/u] [u]z[/u] - [u]sin[/u] [u]x[/u] . [u]cos[/u] [u]y[/u] . [u]sin[/u] [u]z[/u] + [u]cos[/u] [u]x[/u] . [u]sin[/u] [u]y[/u] . [u]sin[/u] [u]z[/u]
+- [u]sin[/u] [u]x[/u] . [u]sin[/u] [u]y[/u] . [u]cos[/u] [u]z[/u] + [u]sin[/u] [u]x[/u] . [u]cos[/u] [u]y[/u] . [u]sin[/u] [u]z[/u] - [u]cos[/u] [u]x[/u] . [u]sin[/u] [u]y[/u] . [u]sin[/u] [u]z[/u]

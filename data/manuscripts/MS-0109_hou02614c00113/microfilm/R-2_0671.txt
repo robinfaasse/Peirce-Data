@@ -1,0 +1,48 @@
+Treating $\frac{P}{Q}$ as unknown and solving by continued
+fractions or otherwise, we obtain a series of approximate
+solutions [del]which[/del] [ins]and they[/ins] being put in the form of rational frac-
+tions reduced to their lowest terms, [del]may[/del] their numerators
+and denominators may be assumed respectively equal
+to $P$ and $Q$, and then, by the formulae of §7, Pythagorean
+triangles can be obtained [del]the ratio of[/del] whose legs shall
+be as near to $r$ as may be desired.
+
+<u>Examples</u>.
+
+1. Take $r = 4\frac{1}{2}$. Then the equation is either
+$$(\frac{P}{Q})^2 + 9 (\frac{P}{Q}) = 1$$
+or
+$$(\frac{P}{Q})^2 + \frac{4}{9} (\frac{P}{Q}) = 1.$$
+
+The approximations to the solution of the first of these are the
+ratios of successive pairs of the following numbers
+$\begin{matrix} 0 \\ 1 \\ 9 \\ 82 \\ 747 \end{matrix}$
+
+Taking $P=1$ $Q=9$ both being odd,
+$A = \frac{1}{2} (9+1)(9-1) = 40$
+$B = 9$
+$H = \frac{1}{2} (81+1) = 41$
+$A^2+B^2 = 1600 + 81 = 1681 = H^2$
+$\frac{A}{B} = 4.44$
+
+Taking $P=9$ $Q=82$ one being even
+$A = 2 \cdot 9 \cdot 82 = 1476$
+$B = (82+9)(82-9) = 6643$
+$H = 81 + 6724 = 6805$
+$A^2+B^2 = 2178576 + 44129449 = 46308025 = 6805^2 = H^2$
+$\frac{B}{A} = 4.5007$
+
+Taking the second equation, the first approximation is $\frac{P}{Q} = \frac{4}{5}$. Taking
+$P=4, Q=5$, since one of these is even, we have
+$A = 2 \cdot 4 \cdot 5 = 40$
+$B = (5+4)(5-4) = 9$
+$H = 25 + 16 = 41$
+
+[del]Another[/del] [ins]The second[/ins] approximation is $\frac{P}{Q} = \frac{45}{56}$. Taking $P=45, Q=56$
+$A = 2 \cdot 45 \cdot 56 = 5040$
+$B = (56+45)(56-45) = 1111$
+$H = 3136 + 2025 = 5161$
+$\frac{A}{B} = 4.536$
+$A^2 = 25401600$
+$B^2 = 1234321$
+$H^2 = 26635921$

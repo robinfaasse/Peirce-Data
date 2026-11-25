@@ -1,0 +1,37 @@
+[pn]28[/pn]
+
+If $t$ is much over 100 francs
+$1 - (\frac{29}{31})^{t} = 1$ (sensibly)
+and $v_{t,z} = (\frac{29}{31})^{z}$
+
+$t = \infty$
+$$\begin{array}{cc}
+z & v_{t,z} \\
+1 & 0.9355 \\
+2 & 0.8751 \\
+3 & 0.8187 \\
+4 & 0.7659 \\
+5 & 0.7164 \\
+6 & 0.6703 \\
+7 & 0.6270 \\
+8 & 0.5866 \\
+9 & 0.5487 \\
+10 & 0.5133
+\end{array}$$
+
+If 10000 players each owning 1000000 francs
+sit down each determined to win 1 franc and play till he
+does or is ruined
+9355 will win 9355 francs
+645 will lose 645000000 francs
+Bank wins 645000000 francs
+
+Let us now ask how many bets the players will make
+on an average. Calling this average number $W_{t,z}$, it is
+pretty easy to see that
+$$W_{t,z} = \frac{31-29}{60} [t - (t+z) v_{t,z}] \frac{60}{31-29}$$
+[del](Hence, if a player wishes to play for an hour & a half a day at Monte Carlo and sticks to
+one franc bets, it will cost him 5 francs a day on an average.)[/del]
+But I will proceed to solve the problem in such a way
+as will exhibit this kind of equation of finite differences
+in which the known term is not zero.

@@ -1,0 +1,27 @@
+On the other hand, $n$ is infinitely large, so that by slightly
+altering the meaning of $A$ or $B$ we have an equation
+with four arbitrary constants.
+$$\tau = C_0 + C_1 \sin As + C_2 \cos As$$
+or
+$$\tau = C_0 + C_1 \operatorname{Sinh} Bs + C_2 \operatorname{Cosh} Bs.$$
+The curvature is
+$$\frac{1}{\rho} = \frac{d\tau}{ds} = A C_1 \cos As - A C_2 \sin As$$
+or
+$$\frac{1}{\rho} = \frac{d\tau}{ds} = B C_1 \operatorname{Cosh} Bs + B C_2 \operatorname{Sinh} Bs$$
+And this is [del]a maximum[/del] [ins]zero[/ins] when
+$$\tan As = \frac{C_1}{C_2}$$
+or
+$$\operatorname{Tanh} Bs = - \frac{C_1}{C_2}.$$
+In the latter case, there is no such point if the absolute value
+of $C_1$ exceeds that of $C_2$. The curvature is a maximum when
+[del]$\frac{1}{\rho}$ is[/del]
+$$- C_1 \sin As - C_2 \cos As = 0$$
+or
+$$C_1 \operatorname{Sinh} Bs + C_2 \operatorname{Cosh} Bs = 0$$
+that is when
+$$\tau = C_0$$
+and when
+$$\tan As = - \frac{C_2}{C_1}$$
+that is [del]exceed[/del] [ins]when[/ins] $As$ exceeds by $90^\circ$ the value for zero curvature
+or when
+$$\operatorname{Tanh} Bs = - \frac{C_2}{C_1}$$

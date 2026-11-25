@@ -1,0 +1,20 @@
+$ a \times b $
+
+$ AC \qquad [ \del{a \times (b \times c)} \ins{^c \quad ^A} ] \times d $
+$ \qquad (a \times b) \times (c \times d) $
+$ \qquad [ (a \times b) \times c ] \times d $
+
+$ CA \qquad a \times [ (b \times c) \times d ] $
+
+$ AACC \qquad [ a \times (b \times c) ] \times [ d \times (e \times f) ] $
+$ \qquad \{ a \times [ (b \times c) \times d ] \} \times (e \times f) $
+$ \qquad [ (a \times b) \times (c \times d) ] \times (e \times f) $
+$ \qquad \{ (a \times b) \times [ (c \times d) \times e ] \} \times f $
+$ \qquad \{ [ a \times (b \times c) ] \times (d \times e) \} \times f $
+$ \qquad \{ a \times [ (b \times (c \times d)) \times e ] \} \times f $
+
+$ ACAC \qquad \ins{^c \qquad ^c} (a \times b) \times [ (c \times d) \times (e \times f) ] $
+$ \qquad (a \times b) \times \{ [ (c \times d) \times e ] \times f \} $
+$ \qquad [ (a \times b) \times c ] \times [ (d \times e) \times f ] $
+
+$ \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad 839 $

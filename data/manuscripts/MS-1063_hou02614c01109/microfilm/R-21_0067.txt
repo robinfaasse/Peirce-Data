@@ -1,0 +1,55 @@
+```
+[fig]Algebraic calculations with fractions and variables[/fig]
+
+[del]e = [del](\frac{a+d}{bc} d - \frac{bc}{a+d})[/del] h[/del]
+
+h = [del]\frac{a+d}{bc} a - \frac{bc}{a+d}[/del] e
+
+\frac{a^2d + 2ad^2 + d^3 - b^2c^2}{abc + bcd}
+
+\frac{a^3 + 2a^2d + ad^2 - b^2c^2}{abc + bcd}
+
+(\frac{a+d}{bc} ad - a - d + \frac{b^2c^2}{(a+d)^2} ) = 1
+
+\frac{a+d}{bg} ad = x  ad = y  bc = z
+
+xz - xy + \frac{1}{x} = 1
+x^2(z-y) - x^2 = -1
+
+(a+d)(f-g) + (b-c)(e+h) = 0
+
+(a+d) f - [del]g[/del] = [del]\frac{c}{b}[/del] (e+h)
+a [del](\frac{a+d}{b})[/del] f = [del](\frac{c}{b})[/del] h
+af = bh
+
+[del]a^2 [del]G[/del] [ins]Ar[/ins] + b [del]G[/del] [ins]AB[/ins] + c [del]G[/del] [ins]Ar[/ins] [del]BA[/del] + [del]G[/del] [ins]BB[/ins][/del]
+[del](a^2 [del]G[/del] [ins]2ar[/ins] + bcG) [ins]Ar[/ins] [del]Ad[/del][/del]
+
+[del]Ar + B B + C C + D D[/del]
+[del]Ar + AB + B + D D[/del]
+
+(a+er) AA + (b+fr) AB + (c+gr) BA + (d+hr) BB
+
+2ae + bg + cf = 0
+af + be + bh + df = 0
+ce + ag + dg + ch = 0
+bg + cf + 2dh = 0
+
+ae = dh   dh + fg
+
+a:d = h:e
+b:f = c:g
+ab = -cd
+ah = de
+bg - cf = -dh = -ae
+af = bh
+
+(a+d) g + c (e+h) = (a+d) f + b (e+h)
+g = -\frac{c}{a+d} (e+h)    f = -\frac{b}{a+d} (e+h)
+bg = cf = -\frac{bc}{a+d} (e+h)
+
+(d - \frac{bc}{a+d}) h - \frac{bc}{a+d} e = 0
+(a - \frac{bc}{a+d}) e - \frac{bc}{a+d} h = 0
+
+\frac{c}{b} = \frac{g}{f}
+fg = cf cdeg

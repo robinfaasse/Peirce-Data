@@ -1,0 +1,20 @@
+Logic
+III
+30
+
+The last (5), gives
+(6) [fig]( (L) J )[/fig] whence [fig]( L J )[/fig] ;
+and (3) gives
+(7) [fig]( C J )[/fig]
+Iterating (6) in (7), we get,
+(8) [fig]( C ( J ( J L ) ) )[/fig] whence [fig]( C ( J L ) )[/fig] and [fig]( C ( L ) )[/fig] and [fig]( C L )[/fig].
+But (3) gives
+(9) [fig]( C ( L ) )[/fig]
+Iterating (8) in (9) we get
+(10) [fig]( C ( L ( L C ) ) )[/fig] whence [fig]( C ( L ( C ) ) )[/fig] whence [fig]( C ( ( C ) ) )[/fig] and [fig]( C C )[/fig] and [fig]( C )[/fig].
+Now (1) gives
+(11) [fig]( ( L ) ( C ) )[/fig] whence [fig]( L ( C ) )[/fig]
+Iterating (10) in (11) we get
+(12) [fig]( L ( C ( C ) ) ( C ) )[/fig] whence [fig]( L ( C ( ) ) ( C ) )[/fig], whence [fig]( L ( ) ( C ) )[/fig] and [fig]( C )[/fig].
+Iterating (2) in (1) we get
+(13) [fig]( J ( J L ( C ) L ) ( SC ) )[/fig] whence [fig]( J ( [del]L[/del] ( C ) L ) ( SC ) )[/fig] and [fig]( L ( C ) )[/fig].

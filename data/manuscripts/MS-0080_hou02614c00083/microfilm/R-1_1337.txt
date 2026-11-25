@@ -1,0 +1,51 @@
+$$i^4 = 0$$
+$$i^2 = j \quad i^3 = k \quad l$$
+$$\begin{aligned}
+i l &= a i + b j + c k + d l \\
+i^2 l &= a j + b k \qquad + d i l \\
+&= d a i + (a + d b) j + (b + d c) k + d^2 l \\
+i^3 l &= d a j + (a + b d) k \qquad + d^2 i l \\
+&= d^2 a i + (a d + b d^2) j + (a + b d + c d^2) k + d^3 l \\
+0 = i^4 l &= a d^2 j + (a d + b d^2) k + d^3 i l \\
+&= a d^3 i + (a d^2 + b d^3) j + (a d + b d^2 + c d^3) k + d^4 l
+\end{aligned}$$
+
+$$\begin{aligned}
+&d = 0 \\
+&\begin{cases}
+i l = a i + b j + c k \\
+j l = a j + b k \\
+k l = a k
+\end{cases}
+\end{aligned} \qquad \begin{aligned}
+i l^2 &= a i l + b j l + c k l \\
+&= a^2 i + 2 a b j + \begin{matrix} 2 a c k \\ + b^2 \end{matrix} \\
+&(a+1)^4 =
+\end{aligned}$$
+
+In an algebra in which every [del]the[/del] power vanishes
+[del]let $l$ be linearly independent of the powers[/del] [ins]and its powers[/ins]
+does every product of $n+1$ factors vanish?
+
+$$i = A : B \quad j = B : C \quad k = A : C$$
+[del]$(i + j)^2$[/del]
+$$(x i + y l)^2 = x y (i l + l i)$$
+
+[fig]Diagram with arrows showing relations between i, j, k, l[/fig]
+$$i l^3 = a^3 i$$
+
+$$(x i + y j + z k + w l)^2 = i$$
+$$x^2 j + 2 x y k + [del]x[/del] x w (i l + l i) + y w (j l + l j) + z w (k l + l k) + w^2 l^2$$
+
+Suppose [del]$l^p = i^m$[/del]
+$$l^2 = i^m$$
+[del]$l^{2 \frac{n}{m}}$[/del]
+$$l^{2 \frac{n}{m}} = l^n$$
+
+$$\frac{2 n}{m} > n$$
+
+$$i^{m \frac{n}{m}}$$
+$$l^p = i^m$$
+$$l^{p \frac{n}{m}} = i^{m \frac{n}{m}}$$
+$$\frac{p n}{m} > n$$
+$$p > m$$

@@ -1,0 +1,65 @@
+$$\left(\frac{x}{R}\right)^2 + \left(\frac{y}{R}\right)^2 + \left(\frac{z}{Z}\right)^2 = 1$$
+
+[del]Y = R, (1) becomes[/del]
+
+$$\frac{x^2+y^2}{R^2} + \left(\frac{z}{Z}\right)^2 = 1$$
+
+[del]moreover[/del]
+if we write $r^2$ for $x^2+y^2$, which amounts to changing to cylindrical [del]co-[/del]
+ordinates, (1) becomes
+
+$$\left(\frac{r}{R}\right)^2 + \left(\frac{z}{Z}\right)^2 = 1$$
+
+or $r^2 = R^2 \left(1 - \frac{z^2}{Z^2}\right)$
+
+now we substitute for $z$, which amounts to moving the origin (or starting
+measures) from the centre of the ellipsoid to the extremity of that axis
+[del]or equal to any diameter, the equation will take then[/del]
+
+$$(r/R)^2 = \frac{(2Z-z)z}{Z^2} = \frac{(2Z-z)z}{Z^2}$$
+
+$$r^2 = \left(\frac{R}{Z}\right)^2 (2Z-z)z$$
+
+or extracting the square root and then multiplying by R
+
+$$r = \frac{R}{Z} \sqrt{(2Z-z)z}$$
+
+$$r^2 = \left(\frac{R}{Z}\right)^2 (2Z-z)z$$
+
+investigation
+
+[del]ording[/del] to the tremendous and thorough [del]out[/del] of Mr. Hayford of the [del]bus[/del]
+[del]survey[/del], if we [del]attract[/del] [ins]allow[/ins] for the effects upon the [del]astronomical[/del] plumb-line
+[del]of the gravitating attractions[/del] [ins]at all parts of[/ins] exerted upon it by
+[del]of[/del] the earth's crust down to a depth of about 76 miles, [del]find we find[/del]
+[del]on those allowances, the calculated figure of the mean surface of[/del] M
+[del]assumed to be carried by a pipe to each station (one to[del]ler[/del] another)[/del] will
+ellipsoidal with $R/Z = 297/296 = 1.003378$, or, at any rate,
+that the value of that ratio is probably between 1.003384 and 1.003373
+the radius of the equator is approximately 3963.3 miles.
+
+$$R/Z = 297/296 = 1.003378 \text{, or at any rate}$$
+[del]ly[/del] between $1.003384$ and $1.003373$ while the radius of the
+[del]or[/del] is close to $3963.3$ miles and the distance from the centre of the
+to either pole is less by $13.347$ miles. It would be sufficiently
+to the truth for cartographic purposes to say that the radius of the
+is less than 4000 miles. Mr. Hayford gives a figure [del]with a probabl[/del]
+of only 18 metres, which shows that the survey has a [del]universe[/del] [ins]very[/ins]
+[del]ent[/del] unit of length, but what relation that unit has to the present metre
+is another question, which does not concern the cartographer.
+
+writing $R/Z$ by $1+E$ and differentiating (3) we get
+
+$$= (1+E) \frac{Z-z}{\sqrt{(2Z-z)z}} (dz)$$
+
+$$(dr)^2 = (1+E)^2 \frac{Z^2}{(2Z-z)z} -$$
+
+and $(dr)^2 = (1+E)^2 \left( \frac{Z^2}{(2Z-z)z} - 1 \right) (dz)^2$
+
+and consequently
+
+$$(dr)^2 + (dz)^2 = \left( \frac{(1+E)^2 Z^2}{(2Z-z)z} - (2+E)E \right) (dz)^2$$
+
+$$\frac{6+E}{1+2} E$$
+
+$$\sqrt{(dr)^2 + (dz)^2} = \frac{(1+E)Z}{\sqrt{(2Z-z)z}} \sqrt{1 - \left[ \frac{1}{1 + \frac{1}{(2+E)E}} \right] \frac{(2Z-z)z}{Z^2}} (dz)$$

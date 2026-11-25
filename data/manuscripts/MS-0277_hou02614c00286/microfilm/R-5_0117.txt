@@ -1,0 +1,51 @@
+$$R_i^5 = R_j^5 = R_k^5 = R_n^5 = R_s^5 = N$$
+
+$$\Delta_{ij} = R_i - R_j$$
+
+$$[del]R_i - R_k\ [unclear]over[/unclear]\ R_k - R_j[/del]$$
+
+$$\Delta_{ij} = - \Delta_{ji}$$
+$$\Delta_{ij} + \Delta_{jk} = \Delta_{ik}$$
+
+$$(R_j + \Delta_{ij})^5 = R_i^5 + 5 R_j^4 \Delta_{ij} + 10 R_j^3 \Delta_{ij}^2 + 10 R_j^2 \Delta_{ij}^3 + 5 R_j \Delta_{ij}^4 + [del]\Delta_{ij}^5[/del] - N$$
+
+$$(\Delta_{ij}^4 + 5 R_j \Delta_{ij}^3 + 10 R_j^2 \Delta_{ij}^2 + 10 R_j^3 \Delta_{ij} + 5 R_j^4) = 0$$
+
+$$[del]\Delta_{ij} - \Delta_{ki}\ [unclear]over[/unclear]\ \Delta_{ij} + \Delta_{jk}\ [unclear]over[/unclear]\ \Delta_{ik}[/del]$$
+
+$$(\Delta_{kj}^4 + 5 R_j \Delta_{kj}^3 + 10 R_j^2 \Delta_{kj}^2 + 10 R_j^3 \Delta_{kj} + 5 R_j^4) = 0$$
+
+$$\Delta_{ki}^3 + \Delta_{kj}^2 \Delta_{ij} + \Delta_{kj} \Delta_{ij}^2 + \Delta_{ij}^3$$
+$$\quad + 5 R_j (\Delta_{ki}^2 + \Delta_{ki}\Delta_{ij} + \Delta_{ij}^2) + 10 R_j^2 (\Delta_{ki} + \Delta_{ij}) + 10 R_j^3 [del]x[/del] = 0$$
+
+$$\Delta_{ki}^3 + \Delta_{kj}^2 \Delta_{ij} + \Delta_{kj} \Delta_{ij}^2 + \Delta_{ij}^3$$
+$$\quad + 5 R_l (\Delta_{ki} + \Delta_{ki}\Delta_{ij} + \Delta_{ij}^2)^2 + 10 R_j^2 (\Delta_{ki} + \Delta_{ij}) + 10 R_k^3$$
+
+---
+
+$$(R_1 + \Delta_{21})^5 = \Delta_{21}^5 + 5 R_1 \Delta_{21}^4 + 10 R_1^2 \Delta_{21}^3 + 10 R_1^3 \Delta_{21}^2 + 5 R_1^4 \Delta_{21} [del]+ R_1^5 - N[/del] = 0$$
+
+$$\Delta_{21}^4 + 5 R_1 \Delta_{21}^3 + 10 R_1^2 \Delta_{21}^2 + 10 R_1^3 \Delta_{21} + 5 R_1^4 = 0$$
+
+$$\Delta_{31}^4 + 5 R_1 \Delta_{31}^3 + 10 R_1^2 \Delta_{31}^2 + 10 R_1^3 \Delta_{31} + 5 R_1^4 = 0$$
+
+$$\Delta_{41}^4 - \Delta_{31}^4 + 5 R_1 (\Delta_{41}^3 - \Delta_{31}^3) + 10 R_1^2 (\Delta_{41}^2 - \Delta_{31}^2) + 10 R_1^3 (\Delta_{41} - \Delta_{31}) = 0$$
+
+$$\Delta_{31}^3 + \Delta_{41}^2 \Delta_{31} + \Delta_{41} \Delta_{31}^2 + \Delta_{31}^3 + 5 R_1 (\Delta_{41}^2 + \Delta_{41}\Delta_{31} + \Delta_{31}^2) + 10 R_1^2 (\Delta_{41} + \Delta_{31}) + 10 R_1^3 = 0$$
+
+$$\Delta_{31}^3 + \Delta_{41}^2 \Delta_{31}$$
+
+$$[del]\Delta_{21}^4 - \Delta_{41}^4[/del]$$
+
+$$\Delta_{21}^2 (\Delta_{21} - \Delta_{41}) + \Delta_{21} (\Delta_{21}^2 - \Delta_{41}^2) + (\Delta_{21}^3 - \Delta_{41}^3) + 5 R_1 (\Delta_{21}(\Delta_{21}-\Delta_{41})) + (\Delta_{21}^2 - \Delta_{41}^2)$$
+$$\quad + 10 R_1^2 \frac{(\Delta_{21}-\Delta_{41})}{\Delta_{11}}$$
+
+$$\Delta_{21}^2 + \Delta_{21} (\Delta_{31} + \Delta_{41}) + (\Delta_{31}^2 + \Delta_{31}\Delta_{41} + \Delta_{41}^2) + 5 R_1 (\Delta_{31} + \Delta_{41}) + 10 R_1^2 = 0$$
+
+$$\Delta_{41}^2 + \Delta_{41} [del](\Delta_{31} + \Delta_{41})[/del] + ([del]\Delta_{31}^2 + \Delta_{31}\Delta_{41} + \Delta_{41}^2[/del]) + 5 R_1 ([del]\Delta_{31} + \Delta_{41}[/del]) + 10 R_1^2 = 0$$
+
+$$\Delta_{21}^2 - \Delta_{51}^2 + (\Delta_{31} - \Delta_{51})(\Delta_{31} + \Delta_{51}) + 5 (\Delta_{31} - \Delta_{51})$$
+
+$$\Delta_{21} + \Delta_{51} + \Delta_{31} + \Delta_{41} + 5 R_1 = 0$$
+
+$$R_1 + R_2 + R_3 + R_4 + R_5 = 0$$

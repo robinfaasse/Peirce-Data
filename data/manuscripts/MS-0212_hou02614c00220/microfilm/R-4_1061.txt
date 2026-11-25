@@ -1,0 +1,11 @@
+[pn]Math 1A-6x[/pn]
+
+[u]A Trade Secret.[/u]
+
+Among the many little dodges that are generally known to professional computers but not to outsiders, the following ([del]I[/del] [ins]trust my brethren may not visit me with the death-penalty for making it public[/ins]) is curious for the reason that there is no mathematical necessity for its working as well as it usually does. Logically considered, it treats what commonly occurs in mathematical experience as a body of experience, and applies to it experiential reasoning.
+
+Namely if one has a number of successive approximations, $a_1, a_2, a_3,$ etc. to [del]a[/del] [ins]the[/ins] value of a quantity, then a better value than any of them will usually be obtained from the last three of them, say $a_n, a_{n+1}, a_{n+2}$, by adopting as an approximation of a second series
+
+$$b_n = \frac{a_n a_{n+2} - a_{n+1}^2}{a_{n+2} - 2 a_{n+1} + a_n} = a_n - \frac{(\Delta a_n)^2}{\Delta^2 a_n}$$
+
+If we take the last five approximations of the first series, these

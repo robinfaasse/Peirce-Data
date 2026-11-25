@@ -1,0 +1,38 @@
+$$u'_{l,m,n} = u'_{l,m,n} + 2t_{l-1,m,n}$$
+
+$$t_{l,m,n} = (c-2)u'_{l-1,m,n} + (c-3)t_{l-1,m,n}$$
+
+$$u'_{1,1,1} = 0 \quad t_{1,1,1} = [del]c[/del] c(c-1)(c-2)$$
+
+$$u_{0,1,1} = 0 \quad u_{1,1,1} = 0$$
+
+$$u_{l,m,n} = (c-1)u_{l-2,m,n} + (c-2)u_{l-1,m,n}$$
+
+[del]$$u_{1,m,n} = -u_{1,m,n}$$[/del]
+
+$$u_{l,m,n} - w_{l,m,n} = -u_{l-1,m,n} + w_{l-1,m,n}$$
+
+$$(u-w)_{l,m,n} = C_{m,n}(-1)^{l-1}$$
+
+[fig]Diagram of connected circles labeled A, B, C, D[/fig]
+$$\begin{aligned}
+v_{2,1,1} &= c(c-1)(c-2) \\
+w_{2,1,1} &= c(c-1)(c-2)
+\end{aligned}$$
+[fig]Diagram of connected circles labeled A, B, C[/fig]
+$$c(c-1)(c-2)$$
+[fig]Diagram of connected circles labeled A, B, C, D[/fig]
+$$c(c-1)(c-2)(c-3)$$
+
+$$\begin{aligned}
+w_{2,1,2} &= c(c-1)(c-2) \\
+v_{2,1,2} &= c(c-1)(c-2)(c-3) \\
+(v-w)_{2,1,2} &= [del]c-4[/del] c(c-1)(c-2)(c-4)
+\end{aligned}$$
+
+[fig]Diagram of connected circles labeled A, B, C[/fig]
+
+$$\begin{aligned}
+w_{1,1,2} &= 0 \\
+v_{1,1,2} &= c(c-1)(c-2)
+\end{aligned}$$

@@ -1,0 +1,69 @@
+[u]Quaternion Theory of Functions[/u]
+
+Let the variable be $t + xi + yj + zk$
+and the function be $h + ui + vj + wk = F(t + xi + yj + zk)$
+Then if there is a derivative such that $\delta$ being infinitesimal
+$F(t + xi + yj + zk + \delta) - F(t + xi + yj + zk) = F'(t + xi + yj + zk) \cdot \delta$
+$[F(t + xi + yj + zk + \delta) - F(t + xi + yj + zk)] \frac{1}{\delta} = F'(t + xi + yj + zk)$
+
+$\begin{aligned}
+&= D_t h + D_t u \cdot i + D_t v \cdot j + D_t w \cdot k \\
+&= + D_x u - D_x h \cdot i + D_x w \cdot j - D_x v \cdot k \\
+&= + D_y v - D_y w \cdot i - D_y h \cdot j + D_y u \cdot k \\
+&= + D_z w + D_z v \cdot i - D_z u \cdot j - D_z h \cdot k
+\end{aligned}$
+$\begin{aligned}
+&(D_t + D_x i - D_y j - D_z k) h \\
+&= F'(t + xi \dots )
+\end{aligned}$
+
+$\begin{aligned}
+D_t h &= D_x u = D_y v = D_z w \\
+D_t u &= D_y w = - D_x h = + D_z v \\
+D_t v &= - D_z u = - D_y h = + D_x w \\
+D_t w &= - D_x v = - D_z h = + D_y u
+\end{aligned}$
+
+[fig]Sketch of a man's face with curly hair[/fig]
+
+[fig]Profile sketch of a man with dark hair[/fig]
+
+$\begin{aligned}
+&D_t^2 h + D_t^2 u \cdot i + D_t^2 v \cdot j + D_t^2 w \cdot k \\
+= &- D_x^2 h - D_x^2 u \cdot i - D_x^2 v \cdot j - D_x^2 w \cdot k
+\end{aligned}$
+
+$\begin{aligned}
+&= - D_y D_x w + D_y D_x v \cdot i - D_y D_x u \cdot j + D_y D_x h \cdot k \\
+&= D_x D_y w - D_x D_y v \cdot i + D_x D_y u \cdot j - D_x D_y h \cdot j \\
+&= D_t D_z w + D_t D_z v \cdot i + D_t D_z u \cdot j - D_t D_z h \cdot k \\
+&= D_z D_t w - D_z D_t v \cdot i + D_z D_t u \cdot j - D_z D_t h \cdot k
+\end{aligned}$
+
+[fig]Profile sketch of a man with a large nose[/fig]
+
+[fig]Profile sketch of a man with a pointed nose[/fig]
+
+$\begin{aligned}
+(D_t^2 + D_x^2 &= 0 \\
+D_x^2 = D_y^2 &= D_z^2 \\
+D_y D_x &= - D_y D_x
+\end{aligned}$
+
+[fig]Profile sketch of a man with dark hair and a collar[/fig]
+
+$D_y D_z = - D_y D_z$
+
+$D_z D_x = - D_z D_x$
+
+It would seem to follow
+That $h$ $u$ $v$ $w$
+[del]are each[/del]
+[del]of the form[/del]
+[del]$\frac{1}{t^2 + x^2 + y^2 + z^2}$[/del]
+are each of
+the form
+$\frac{1}{t^2 + x^2 + y^2 + z^2}$ each of
+the form
+$\frac{1}{t^2 + x^2 + y^2 + z^2 + at + bx + cy + dz}$
+[del]$\dots$[/del]

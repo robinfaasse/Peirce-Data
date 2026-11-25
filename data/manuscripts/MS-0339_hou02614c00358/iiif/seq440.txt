@@ -1,0 +1,18 @@
+231r
+AUG 16 [del]1882[/del] [ins]1892[/ins]
+
+[u]Εὕρηκα[/u]
+There is nothing like pegging away at things! After puzzling [ins]distractedly[/ins] over the Algebra of the Copula for over 20 years, I believe I have the solution at last.
+I ought at once to have defined the copula. I tried to do so, but could not. I overlooked the circumstance that one Aristoteles had done it for me, in the dictum de omni.
+Namely, the copula expresses such a relation that if whatever term x we may take
+[del]if x — a[/del] [ins]if x \(\prec\) a[/ins]  or  [del]if b — x[/del] [ins]if b \(\prec\) x[/ins]
+[del]then x — b[/del] [ins]then x \(\prec\) b[/ins]  [del]then a — x[/del] [ins]then a \(\prec\) x[/ins]
+then, and only then, a \(\prec\) b
+Now if [del]x — a[/del] [ins]x \(\prec\) a[/ins], [ins]then[/ins] ([del]no[/del] [ins]no[/ins] matter what the relation maybe) x \(\prec\) a
+Hence, by the definition a \(\prec\) a.
+Let us define [del]0[/del] [ins]\(\infty\)[/ins] as such that, whatever x maybe,
+[del]x — 0[/del] [ins]x \(\prec\) \(\infty\)[/ins]
+Let us define 0 as such that, whatever y maybe
+0 \(\prec\) y.
+If then [del]0[/del] [ins]\(\infty\)[/ins] \(\prec\) b it follows that x \(\prec\) b
+If a \(\prec\) 0 it follows that a \(\prec\) b

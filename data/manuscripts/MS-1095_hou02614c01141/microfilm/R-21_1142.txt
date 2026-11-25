@@ -1,0 +1,26 @@
+[pn](5[/pn]
+
+[u]$h_l = \frac{1}{2} (h_d + h_u) + \frac{1}{2} (h_d - h_u)$[/u]
+[u]$h_u = \frac{1}{2} (h_d + h_u) - \frac{1}{2} (h_d - h_u)$[/u]
+$h_o = \frac{1}{2} (h_d - h_u)$
+
+[u]$\gamma^2 = h_d h_u \left(1 + \left(\frac{T_u^2}{T_d^2} - 1\right) \frac{h_d + h_u}{h_d - h_u}\right) = \text{squared}$[/u]
+
+radius gyration pendulum about
+axis through its centre of mass
+parallel to edge. $T_u$ and $T_d$ are periods
+in vacuo. Assume corrections are $-0.0009$ and $-0.0003$.
+
+$\gamma_o^2 = \gamma^2 + h_o^2 = $ squared radius gyration
+pendulum
+
+$J_o' = V (\gamma_o)^2 = $ Moment inertia fluid of unit density
+displaced [del]and contained[/del] by whole pen-
+dulum about axis parallel
+to edge through centre of pen-
+dulum.
+
+$J_o'' = J_o''' - J_o' = $ Moment inertia fluid of
+unit density [del]displaced[/del] contained in
+whole pendulum about same
+axis.

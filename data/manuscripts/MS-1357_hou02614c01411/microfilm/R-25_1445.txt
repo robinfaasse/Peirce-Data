@@ -1,0 +1,26 @@
+Live Loads
+in the process of construction. [pn]29[/pn]
+
+[fig]Line with points P and N[/fig]
+
+$x^2 + 4x = 1$
+$x^2 + 4x + 4 = 5$
+$x + 2 = \sqrt{5}$
+$x = -2 \pm \sqrt{5}$
+
+$M_{-N} = \frac{1}{4} W \frac{(Q-P)^3 + (P-N)^3}{P-N} - 2 \frac{\overset{2N+1}{\smile}}{\underset{2N-1}{\frown}} \frac{Q-N}{P-N} M_{-P}$
+
+$M_{-N} = \frac{1}{2} W - 4 M_{-N+1}$
+$M_{-N} + 4 M_{-N+1}$
+$M_{-N+2} = \frac{1}{2} W - 4 M_{-N+1} - M_{-N}$
+
+$(P-N) M_{-P} + \frac{W}{2(P-N+1)} \frac{(Q-P)^3 + (P-N)^3}{P-N} - 4(P-N+1) \frac{Q-N}{P-N} M_{-P} + M_{-N+1} = \frac{1}{4} [ (P-N)^3 + 1 ]$
+
+$M_{-N+1} =$
+
+$M_{-N+3} = \frac{1}{2} W - \frac{4}{2} W + \frac{4^2}{-1} M_{-N+1} + 4 M_{-N}$
+
+$M_{-N+3} = \frac{1}{2} W - \frac{4}{2} W + \frac{4^2}{2} W - (4^3 [del]+ 4[/del] [ins]+4[/ins]) M_{-N+1} - \frac{4^2}{+1} M_{-N}$
+$= \frac{1}{2} W + \frac{4^2}{2} W - 4^3 M_{-N+1} - 4^2 + 1 M_{-N}$
+
+$M_{-N+4} = \frac{1}{2} W - \frac{4^2}{2} W - \frac{4^3}{2} W$

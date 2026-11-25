@@ -1,0 +1,43 @@
+[marginalia]
+[date]DEC 19 1901[/date]
+[/marginalia]
+
+[pn]206r[/pn]
+
+[del]The algebra of the copula should be presented[/del]
+[del]in the form of propositions[/del]
+
+[del]a ≺ a[/del]
+[del]a ≺ b ≺ a[/del]    ([del]Arrangement of[/del]
+[del]a ≺ b ≺ c ≺ a[/del]    [del]antecedents in-[/del]
+[del]sistent[/del]
+[del]Any thing that[/del]
+[del]can be written[/del]
+[del]may be omitted[/del])
+
+[(a ≺ a) ≺ b] ≺ b
+
+[del](a ≺ a)[/del]        b
+(a ≺ a ≺ b) ≺ a ≺ b
+
+[del]a ≺ b ≺ c[/del]      [del]a b ≺ c[/del]
+(a ≺ b) ≺ c
+[del]a ≺ b ≺ c ≺ d[/del]    [del]a b ≺ c ≺ d[/del]
+[del](a ≺ b) ≺ c ≺ d[/del]
+a ≺ (b ≺ c) ≺ d
+(a ≺ b ≺ c) ≺ d
+[(a ≺ b) ≺ c] ≺ d
+
+[del]a ≺ b ≺ c ≺ d ≺ e[/del]
+(a ≺ b) ≺ c ≺ d ≺ e
+(a ≺ b) ≺ a ≺ b
+(a ≺ b) ≺ (a ≺ d) ≺ e
+(a ≺ b ≺ c) ≺ d ≺ e
+[(a ≺ b) ≺ c] ≺ d ≺ e
+
+[fig]bracket diagram[/fig] [del](a + b) ≺ c ≺ d[/del]
+[del]a ≺ b ≺ c ≺ d[/del]
+[del]a b ≺ c ≺ d[/del] [fig]bracket diagram[/fig]
+[del]a b ≺ c ≺ d + e[/del]
+[del]a b c ≺ d + e[/del]
+[del](a + b) ≺ c ≺ d + e[/del]

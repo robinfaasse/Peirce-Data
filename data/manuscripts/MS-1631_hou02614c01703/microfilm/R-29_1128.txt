@@ -1,0 +1,41 @@
+[date]March 28. 1859.[/date]
+
+[del]D²x + D³y + D⁴z =[/del]
+[del]Dx + D²y + D³z = x[/del]
+[del]x + Dy + 2D²z = Dz[/del]
+
+[del]D²x + D²y - D⁴z = Dx[/del]
+[del]D²x + D³y - 2D⁴z = D³x[/del]
+
+[del]2D⁴z = ½(a - Dx)[/del]
+[del]D²x + D²y = ½(a + Dx)[/del]
+[del]D²x + D³y = D³z + a - Dx[/del]
+[del]½(a + Dx) = D³z + a - Dx[/del]
+
+[del]D³y = m + nDx = D³z[/del]
+[del]Dx = 1[/del]
+Needn't have carried it to higher form.
+§397 Other normal forms.
+D³x = D³y + Dz
+D²y = D²x + Dz
+D²z = x + y
+§398 Normal Forms transformed.
+
+The method given last time of reducing equations so as as only to have [del]two variables[/del] is particularly applicable to linear equations. Can't get along without it in those equations.
+
+[del]b D_t x + c D_t y = M[/del]
+Eliminate x & y
+(D_t + c)x + (a D_t + e) y = M
+(b D_t + f)x + (c D_t + g)y = M'
+
+A denotes a combination of derivatives; not a mere factor.
+A x' + A_1 x_1 + A_2 x_2 = M
+A' x' + A'_1 x_1 + A'_2 x_2 = M'
+A'' x'' + A''_1 x_1'' + A''_2 x_2'' = M''
+
+[del]R_n x = P[/del]
+[del]R_n x_1 = P_1[/del]
+[del]R_n x_2 = P_2[/del]
+
+(a D_t + b) x + (a_1 D_t + b_1) x_1 = M
+(a' D_t + b') x + (a'_1 D_t + b'_1) x_1 = M'

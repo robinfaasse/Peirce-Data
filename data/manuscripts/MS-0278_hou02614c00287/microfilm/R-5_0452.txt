@@ -1,0 +1,15 @@
+$$^p x\ ^c y\ ^g z\ ^c y'\ ^g x'\ ^c z'\ (S_{xyz})(S'_{x'y'z'})$$
+or in the order
+$$^p x\ ^c y\ ^g z\ ^c x'\ ^g y'\ ^c z'\ (S_{xyz})(S'_{x'y'z'})$$
+From each of these we can deduce [del]4[/del] propositions not deducible from the other by the following rule.
+
+<u>2. Rule of Identification & Diversification. Part I.</u>
+<u>Identification</u>. [ins]Throughout the Bookian of[/ins] [del]In[/del] any proposition we can substitute for any letter marked [del]all[/del] [ins]one[/ins] any [del]other[/del] of those to its left in the indicator, dropping the former from the indicator.
+
+Thus in the proposition at the head of this page, identifying $x'$ with $x$, $y'$ with $y$, $z'$ with $z$, we get
+$$^p x\ ^c y\ ^g z\ (S_{xyz})(S'_{xyz})$$
+that [del]is,[/del] the two surfaces have a point in common.
+
+So in the second proposition, identifying $x'$ with $z$, and $z'$ with $y$ we get
+$$^p x\ ^c y\ ^g z\ ^g y'\ (S_{xyz})(S'_{zy'y})$$
+That is, if the second surface be rotated about an axis equally inclined to those of $x$, $y$, and $z$, [ins]through[/ins] [del]by[/del] $120^\circ$, so as to bring its [del]$x$[/del] axis into the position of [del]$z$[/del], its [del]$z$[/del] axis into the position of $y$, and its $y$ axis into the position of $x$, there will exist a plane perpendicular to the axis of $x$, which cuts the first surface at one or more real points for each [ins]real[/ins] value of $y$; and at some one of these (for each real value of $y$) a line parallel to the axis of $x$ will have a real intersection with the second surface.

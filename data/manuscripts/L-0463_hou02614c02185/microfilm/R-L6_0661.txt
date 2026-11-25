@@ -1,0 +1,30 @@
+[pn]27[/pn] [del]Derivations of points in the barycentric calculus, which by the
+way is the same as the combination of forces according to the
+parallelogram of forces, — let us say, in general, barycentrically, —[/del]
+is my discovery that any [ins]dyadic[/ins] relative may be put in the form
+
+$$\begin{aligned}
+& a_{11} (A\colon A) \mathbin{\pmb{\Psi}} a_{12} (A\colon B) \mathbin{\pmb{\Psi}} a_{13} (A\colon C) \mathbin{\pmb{\Psi}} \text{etc. through the universe} \\
+\mathbin{\pmb{\Psi}} & a_{21} (B\colon A) \mathbin{\pmb{\Psi}} a_{22} (B\colon B) \mathbin{\pmb{\Psi}} a_{23} (B\colon C) \mathbin{\pmb{\Psi}} \text{etc} \quad \text{"} \qquad \text{"} \qquad \text{"} \\
+\mathbin{\pmb{\Psi}} & a_{31} (C\colon A) \mathbin{\pmb{\Psi}} a_{32} (C\colon B) \mathbin{\pmb{\Psi}} a_{33} (C\colon C) \mathbin{\pmb{\Psi}} \text{etc} \quad \text{"} \qquad \text{"} \qquad \text{"} \\
+& \text{etc} \\
+& \text{through the universe}
+\end{aligned}$$
+
+when $A, B, C,$ are the monadic individuals of the universe
+while $(A\colon B)$ is such a relative that $(A\colon B)B = A$ while
+$(A\colon B)A = 0$ $(A\colon B)C = 0$ etc through the universe —
+
+It is my discovery of this combined with Sylvester's subsequent
+discovery (which, [ins]as[/ins] his airs seemed to say, took the wind out of my
+sails, — and I may remark that mathematicians often indulge
+in such airs and [ins]in[/ins] the ideas that lie behind the airs; but they
+would be most despicable in a logician) — his discovery [ins]that[/ins]
+[u]in general[/u] (a phrase which has a peculiar meaning in
+mathematics, [del]which meaning[/del] I will explain presently,) —
+that [u]in general[/u], I say, any expression such as
+$$\begin{aligned}
+& a_{11} (A\colon A) + a_{12} (A\colon B) + \text{etc} \\
+{} + {} & a_{21} (B\colon A) + b_{22} (B\colon B) + \text{etc} \\
+{} + {} & \text{etc}
+\end{aligned}$$

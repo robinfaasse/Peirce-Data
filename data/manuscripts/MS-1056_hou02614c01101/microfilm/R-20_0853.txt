@@ -1,0 +1,25 @@
+Let us write
+
+(7.) $\phi_{m} = \frac{\Delta \phi_{m}}{\phi_{m}} = \frac{\phi_{m-1}}{\phi_{m}}$ (Read, "Thal $m^{\text{th}}$")
+
+(8.) $\phi_{-m} = \frac{\phi_{-m-1}}{\phi_{-m}} = - \frac{\phi_{m+1}}{\phi_{m}} = - \frac{1}{\phi_{m+1}}$
+
+or $\frac{1}{\phi_{m}} = - \phi_{-m}$
+
+(9.) $1 + \phi_{m} = 1 + \frac{\Delta \phi_{m}}{\phi_{m}} = \frac{(1+\Delta)\phi_{m}}{\phi_{m}} = \frac{\phi_{m+1}}{\Delta \phi_{m+1}} = \frac{1}{\phi_{m+1}} = - \phi_{-m}$
+
+or $\frac{1}{1+\phi_{m}} = \phi_{m+1}$
+
+From (9) it follows that $\phi_{m}$ is an approximation to the value of the continued fraction $\frac{1}{1+\frac{1}{1+\frac{1}{1+\text{etc}}}}$ and that $\phi_{m+1}$ is the next approximation.
+
+Hence
+
+(10) $\phi_{\infty} = \frac{1}{2}(\sqrt{5}-1)$ $\frac{1}{\phi_{\infty}} = \frac{1}{2}(\sqrt{5}+1)$
+
+Putting in (9) $m = \infty$ we have
+
+$\frac{1}{1+\phi_{\infty}} = \phi_{\infty}$ or $1 = \phi_{\infty} + (\phi_{\infty})^{2}$
+
+Multiplying this by $(\phi_{\infty})^{p-1}$ we have
+
+(11) $(\phi_{\infty})^{p+1} = (\phi_{\infty})^{p-1} - (\phi_{\infty})^{p}$

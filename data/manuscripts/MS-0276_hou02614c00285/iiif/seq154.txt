@@ -1,0 +1,47 @@
+New values of n ([ins]I also subtract[/ins] [ins]1 from every m[/ins])
+
+n = 0
+
+[del]N[sub]m[/sub] = 1[/del]
+
+[del]m = 1[/del] 1
+
+m = 2 [ins]0[/ins] 1 [ins]1[/ins] 3 [ins]2[/ins] 2 [ins]3[/ins] 3
+
+m = 3 [ins]0[/ins] 1 [ins]1[/ins] 4 [ins]2[/ins] 3 [ins]3[/ins] 5 [ins]4[/ins] 2 [ins]5[/ins] 5 [ins]6[/ins] 3 [ins]7[/ins] 4 [ins]8[/ins] 1
+
+m = 4 [ins]0[/ins] 1 [ins]1[/ins] 5 [ins]2[/ins] 4 [ins]3[/ins] 7 [ins]4[/ins] 3 [ins]5[/ins] 8 [ins]6[/ins] 5 [ins]7[/ins] 7 [ins]8[/ins] 2 [ins]9[/ins] 7 [ins]10[/ins] 5 [ins]11[/ins] 8 [ins]12[/ins] 3 [ins]13[/ins] 7 [ins]14[/ins] 4 [ins]15[/ins] 5 [ins]16[/ins] 1
+[ins]1[/ins] 2 [ins]2[/ins] 4 [ins]3[/ins] 6 [ins]4[/ins] 5 [ins]5[/ins] 9 [ins]6[/ins] 4 [ins]7[/ins] 11 [ins]8[/ins] 7 [ins]9[/ins] 10 [ins]10[/ins] 3
+
+[del]2n[/del] (2n)[sub]m[/sub] = n[sub]m-1[/sub] [del](2n+1)[/del] (2n+1)[sub]m[/sub] = [del]n[/del]n[sub]m-1[/sub] + (n+1)[sub]m-1[/sub]
+
+(2n)[sub]m+1[/sub] = n[sub]m[/sub] (2n+1)[sub]m+1[/sub] = n[sub]m[/sub] + (n+1)[sub]m[/sub]
+
+Better subtract 1 from every value of m
+as I have done
+
+Using secundal notation
+
+[del]1 = 1[sub]0[/sub][/del]
+
+1 = [del]10[/del] (10[sup]0[/sup])[sub]0[/sub] = (10[sup]1[/sup])[sub]1[/sub] = (10[sup]10[/sup])[sub]10[/sub] = (10[sup]11[/sup])[sub]11[/sub] = (10[sup]m[/sup])[sub]m[/sub]
+
+10 = 1[sub]1[/sub] = [del](10)[sub]10[/sub][/del] = 10
+
+10 = (10[sup]0[/sup])[sub]1[/sub] = (10[sup]1[/sup])[sub]10[/sub] = (10[sup]10[/sup])[sub]11[/sub] = (10[sup]11[/sup])[sub]100[/sub] = (10[sup]m-1[/sup])[sub]m[/sub]
+
+[del](2n)[sub]m+1[/sub] =[/del] [del]x[/del] [del]n[/del] 1
+
+11 = 1[sup]0[/sup][sub]10[/sub] = (10[sup]1[/sup])[sub]11[/sub] = (10[sup]10[/sup])[sub]100[/sub] = (10[sup]11[/sup])[sub]1000[/sub] = (10[sup]m-10[/sup])[sub]m[/sup]
+
+11
+101 101[sub]m[/sub] = 10[sub]m-1[/sub] + 11[sub]m-1[/sub]
+= m-1 + 2m-3 = 3m-4
+
+101[sub]0[/sub]=1 101[sub]1[/sub]=10 101[sub]10[/sub]=11 101[sub]11[/sub]=100
+101[sub]100[/sub]=1000
+
+m = 0 1
+m = 1 1 2 1
+m = 2 1 3 2 3 1
+m = 3 1 4 3 5 2 5 3 4 1

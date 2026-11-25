@@ -1,0 +1,15 @@
+$$ = \frac{2\underline{n} (2\underline{n}-1)(2\underline{n}-2)(2\underline{n}-3)\dots 1}{(\underline{n}+1)\underline{n}(\underline{n}-1)\dots 1} \cdot \frac{2^{\underline{n}}}{2\underline{n}(2\underline{n}-2)(2\underline{n}-4)\dots 2} $$
+
+$$ = \frac{2\underline{n}(2\underline{n}-1)(2\underline{n}-2)\dots 1}{(\underline{n}+1)\underline{n}(\underline{n}-1)\dots 1} \cdot \frac{1}{\underline{n}(\underline{n}-1)(\underline{n}-2)\dots 1} $$
+
+$$ = \frac{(2\underline{n})!}{(\underline{n}+1)!\ \underline{n}!} $$
+
+The last is the expression desired.
+
+It remains to demonstrate mathematically that this formula satisfies the problem.
+
+Suppose that in writing the form, before we insert any letters we set down all the punctuation marks superordinate to the first letter, that is, all which help to separate its place, [del]and[/del] [ins]and[/ins] no others. Thus, in the first example above we should [del]put[/del] set down
+
+; :
+
+and in the second simply the period. We then [del]write[/del] [ins]insert[/ins] the first letter and go on to mark all the [ins]additional[/ins] punctuations necessary to distinguishing

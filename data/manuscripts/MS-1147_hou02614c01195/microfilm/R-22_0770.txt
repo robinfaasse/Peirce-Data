@@ -1,0 +1,21 @@
+[marginalia]Logical Graphs[/marginalia] [pn]18[/pn]
+
+can be transformed into another, B, then B, when enclosed in one oval
+can be transformed into A. For if A can be transformed into B, since all the
+rules for transformation apply to partial graphs, A[u]B[/u] can be transformed into
+B[u]B[/u], so that, by Rule VI, any graph we please can be juxtaposed to A[u]B[/u];
+whence, by Rule VII, if [u]B[/u] alone is written [u]A[/u] can be juxtaposed to it, and
+then, by Rule I, [u]A[/u][u]B[/u] can be transformed to [u]A[/u]. This may be called Theorem I.
+
+These rules thus implicitly define the effect of the junction by any heavy
+line that does not cross the line of an oval. It only remains to define
+the effect of a heavy line that does cross the line of an oval. This can
+conveniently be done by amending Rules IV and V.
+
+[u]Amended IV[/u]. Any two mutually transformable indices may be
+joined by a heavy line, provided that this, if it pass out of one oval
+and into another, shall pass so far out as to be unenclosed.
+
+[u]Amended V[/u]. Any part of a heavy line may be excised
+provided [del]such[/del] [ins]all the[/ins] loose ends so left [del]are[/del] [ins]are[/ins] [del]mutually transformable[/del] [ins]joined to [del]unindefinite[/del] [ins]indefinite[/ins][/ins]
+indices under the same enclosures as those ends.

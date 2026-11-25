@@ -1,0 +1,159 @@
+```
+(qi + rj + sk + xl + ym + zn)(Qi + Rj + Sk + Xl + Ym + Zn)
+
+= qQi + [ins]q[/ins]R[del]q[/del]j + qSk + qXl + qYm + qZn
+rs : rQ + rR + rS + rX + rY + rZ
+sR : sS + sQ + sX + sK + sR + sY
+xX : xy + xZ + xQ + xR + xS + xY
+yY : yX + yX + yS + yQ + yR + yZ
+zZ : zX + zY + zR + zS + zQ
+
+[fig]curly bracket grouping terms[/fig]
+q² + 2rs + x² + y² + z²
+2qr + s² + xy + yz + zx
+2qs + r² + xy + yz + zx
+[del]q[/del] [ins]2[/ins]qx + (r+s)(y+z)
+2qy + (r+s)(x+z)
+2qz + (r+s)(x+y)
+
+(x+y+z)² + (q+r+s)² = 0
+2(q+r+s)(x+y+z) = 0
+
+2qx [ins]sz[/ins] [ins]ry[/ins]
+[ins]sy[/ins] [ins]rz[/ins]
+
+qz [ins]sy[/ins] [ins]rx[/ins]
+[ins]sx[/ins] [ins]ry[/ins]
+
+q²Qi + qrRi + qsSk + qXl + qYm + qZn
+qrS + r²Q + rsR + rxY + ryZ + rzX
+qsR + rsS + s²Q + sxZ + syX + szY
+qxX + rxY + sxZ + x²Q + xyR + xzS
+qyY + ryZ + syX + xyQ + y²R + yzS
+qzZ + rzX + szY + xzQ + yzR + z²S
+
+[fig]curly bracket grouping terms[/fig]
+(q² + 2rs + x² + y² + z²) Q
++ (r² + 2qs + xz + xy + yz) R
++ (s² + 2qr + xy + yz + xz) S
++ [2qx + (s+r)(y+z)] X
++ [2qy + (s+r)(x+z)] Y
++ [2qz + (s+r)(x+y)] Z = q
+
+qsr
+rsq
+sxy
+syz
+szx
+
+[del]q²R[/del]
+[del]q²S[/del]
+[del]q²Q[/del]
+[del]qSS[/del]
+[del]qRR[/del]
+[del]qXX[/del]
+[del]qYY[/del]
+[del]qZZ[/del]
+
+qrR
+rsS
+s²Q
+sxZ
+syX
+szY
+
+qrS
+r²Q
+rsR
+rxY
+ryZ
+rzX
+
+qyY
+ryZ
+syX
+xyQ
+y²R
+yzS
+
+qzZ
+rzX
+szY
+xzQ
+yzR
+z²S
+
+qxX
+rxY
+sxZ
+x²Q
+xyR
+xzS
+
+[fig]curly bracket grouping terms[/fig]
+[r² + 2qs + x² + y² + z²] Q
++ [qr + q² + rs + xz + xy + yz] R
++ [rs + q² + qs + yz + xz + xy] S
++ [rx + yz + (q+s)(y+z)] X
++ [rx + y) + (q+s)(x+z)] Y
++ [rx + y) + (q+s)(x+y)] Z
+
+[fig]curly bracket grouping terms[/fig]
+[s² + 2qr + x² + y² + z²] Q
++ [rs + 2qr + xz + xy + yz] R
++ [q² + qr + qs + xz + xy + yz] S
++ [s(y+z) + (q+r)(y+z)] X
++ [s(x+z) + (q+r)(x+z)] Y
++ [s(x+z) + (q+r)(x+y)] Z
+
+qrs
+rsQ
+rxy
+ryz
+rzx
+
+qss
+rsR
+sxz
+syx
+szy
+
+qxx
+rxy
+sxz
+x²Q
+xyR
+xzS
+
+qyy
+ryz
+syx
+xyQ
+y²R
+yzS
+
+qzz
+rzx
+szy
+xzQ
+yzR
+z²S
+
+[del]q[/del] [ins]2[/ins]qx [ins]sz[/ins] [ins]ry[/ins]
+[ins]sy[/ins] [ins]rz[/ins]
+
+[del]q[/del] [ins]2[/ins]qy [ins]sz[/ins] [ins]rx[/ins]
+[ins]sx[/ins] [ins]rz[/ins]
+
+[del]q[/del] [ins]2[/ins]qz [ins]sy[/ins] [ins]rx[/ins]
+[ins]sx[/ins] [ins]ry[/ins]
+
+[del]q[/del] [ins]2[/ins]qx [ins]sz[/ins] [ins]ry[/ins]
+[ins]sy[/ins] [ins]rz[/ins]
+
+[del]q[/del] [ins]2[/ins]qy [ins]sz[/ins] [ins]rx[/ins]
+[ins]sx[/ins] [ins]rz[/ins]
+
+[del]q[/del] [ins]2[/ins]qz [ins]sy[/ins] [ins]rx[/ins]
+[ins]sx[/ins] [ins]ry[/ins]
+```

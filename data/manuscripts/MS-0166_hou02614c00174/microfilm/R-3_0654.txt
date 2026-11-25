@@ -1,0 +1,33 @@
+After the addition, they will be
+$$\begin{aligned}
+& +(A+B)x + B(y-x), [del]X[/del] \\
+& +(A'+B')x + B'(y-x), \\
+& +(A''+B'')x + B''(y-x), \\
+& \text{etc., etc.}
+\end{aligned}$$
+
+Our [del]two[/del] charter of liberties in working out the solutions
+has [del]these[/del] [ins]three[/ins] [del]two[/del] articles
+
+$1^{\text{st}}$, we multiply any column or row by a constant throughout,
+and $2^{\text{nd}}$, we may increase any column by any [ins]number of times any[/ins] [del]multiple of another[/del] column
+or any row by any number of times any row. [The first is really
+included in the second, but it is convenient to separate them.]
+$3^{\text{rd}}$, we can [del]transpose[/del] [ins]change the[/ins] order of the rows or of the columns.
+
+What we want to bring about is that [del]all[/del] [ins]none of[/ins] the numbers [del]except one[/del] in the
+dexter diagonal of the square of numbers shall be [del]X[/del] [ins]known to be zero[/ins], and that
+of [del]the[/del] [ins]any[/ins] two numbers symmetrically situated with respect to the dexter diagonal
+one or other shall be zero. It is best to begin by making [del]the[/del] top row all alike, and
+[del]subtracting the first column from each of the others, or substantially this.[/del]
+
+Let us add to our 3 equations, above, the identical
+$$Ax + By + Cz - (Ax + By + Cz) = 0$$
+For the sake of abbreviation, we will write $M$ in place of $Ax+By+Cz$.
+Then we have to begin with
+$$\left| \begin{matrix}
++3 & , & -2 & , & +1 & , & -6 \\
++4 & , & -1 & , & -2 & , & +7 \\
++2 & , & +3 & , & -4 & , & +7 \\
+A & , & B & , & C & , & -M
+\end{matrix} \right| = 0$$

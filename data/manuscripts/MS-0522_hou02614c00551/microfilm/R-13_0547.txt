@@ -1,0 +1,20 @@
+[pn]57[/pn]
+
+The $1^{\text{st}}$ problem of p. 239 is very
+easy.
+Given $x = (\bar{u} + 1) w + u$
+That is $w \prec x + (\bar{u} + 1) w + u$
+from which obviously $x$ cannot be elimi-
+nated
+And $2^{\text{nd}}$ [del]$(u + 1) w$[/del]
+$w \prec (u + 1) \cdot \bar{u} + x$
+
+This has two factors $u \prec x$
+and $w \prec 1 + x$
+whence at once $w \prec x + 1 + x$
+or $w \prec (x \cdot x + 1) w$
+which is the result he writes dividing
+$\bar{x} + 1 + (\bar{x} + 1) x = 0$
+which is [del]$\bar{x} + 1$[/del]
+$w \prec x + w \cdot (x + \bar{x})$
+whence $w \prec (x \cdot x + 1) w$

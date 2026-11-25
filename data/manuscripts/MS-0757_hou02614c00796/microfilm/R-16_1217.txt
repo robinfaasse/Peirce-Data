@@ -1,0 +1,55 @@
+[del]x = 0[/del] [del]y = 0[/del] [del]d = 1[/del]
+[del]p = 1[/del]
+
+[del]x ≺ (d ≺ h)[/del]  x ≺ (0 ≺ h)  h ≺ (0 ≺ x)
+[del]y ≺ (d ≺ x)[/del]
+[del]h ≺ (d ≺ x)[/del]
+[del]x ≺ d[/del] [del]y ≺ h[/del]  x ≺ 0  y ≺ 0
+[del]x ≺ (0 ≺ h)[/del] ≺ [del]y + h[/del]
+[del][h ≺ (0 ≺ x)] ≺ (x ≺ 0)[/del] [del]x ≺ y[/del] [del](x ≺ y) ≺ (y ≺ x)[/del]
+[(z ≺ x) ≺ (z ≺ h)] ≺ (h ≺ x)
+x ≺ [x ≺ (0 ≺ 0)]  x ≺ (0 ≺ h)
+[del]x + 0[/del] [del](0 + x)[/del] [del](0 ≺ x)[/del]  (0 ≺ (0 ≺ h)) ≺ (0 ≺ x)
+(0 ≺ h)] ≺ (0 ≺ x)
+x ≺ [0 ≺ (0 ≺ x)] [del][(0 ≺ x) ≺ (0 ≺ x)][/del] ≺ [del](0 ≺ [0 ≺ (0 ≺ x)])[/del]
+(0 ≺ x) ≺ (0 ≺ x) [0 ≺ (0 ≺ h)] ≺ (0 ≺ x)
+[0 ≺ (0 ≺ x)] ≺ [del]x[/del] [0 ≺ (0 ≺ x)] ≺ (0 ≺ h)
+[del]x[/del]
+h ≺ (0 ≺ x)
+[0 ≺ (0 ≺ h)] ≺ x
+(0 ≺ [del]x[/del]) ≺ (0 ≺ h)
+[del]x ≺ 0[/del]
+
+y ≺ y
+
+(0 ≺ z)
+y ≺ (z ≺ z) ≺ x
+y ≺ x ≺ (z ≺ z)
+x ≺ y ≺ (z ≺ z)
+x ≺ (y ≺ z)  x
+
+[del]x(d + dh)[/del] [del]y + p[/del] [del](x + d)(dh + dxh)[/del]
+[del](h + dx](x + d)(d + h)[/del]
+[del]y + p + y[/del]
+[del](h + dx)(h + x)[/del]
+
+(z ≺ x) ≺ (y ≺ z)
+h ≺ y
+x ≺ y
+(0 ≺ x) ≺ x
+(0 ≺ 0) ≺ x
+h ≺ y
+[del]y ≺ x[/del]
+y ≺ (x ≺ 0)
+x ≺ (y ≺ 0)
+
+h ≺ h ≺ y ≺ y ≺ x ≺ x
+z ≺ (h ≺ x) ≺ (z ≺ h) ≺ x
+[{z ≺ (h ≺ x)} ≺ (z ≺ y)] ≺ x
+[(z ≺ z) ≺ (z ≺ (h ≺ x))] ≺ x
+[(z ≺ h) ≺ x] ≺ [x ≺ (h ≺ x)]
+[del]z + y[/del] [del]x ≺ (y + y) z[/del]
+(z ≺ h) ≺ x ≺ z ≺ (y ≺ z)
+[u]z ≺ (h ≺ x) ≺ (z ≺ h) ≺ x[/u]
+
+z + hx ≺ (z + h)x

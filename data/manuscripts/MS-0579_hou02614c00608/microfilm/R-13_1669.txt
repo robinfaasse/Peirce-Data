@@ -1,0 +1,30 @@
+(3) $X \prec (Y \prec X)$
+
+For assume $X$ is true, then we must admit $Y \prec X$ is true. For assume $Y$ is true we must admit $X$ is true, according to the former assumption. Hence by A the formula holds. Or (3) [del]follows from[/del] [ins]follows from[/ins] [del]three[/del]
+
+($3'$) $X \prec (Y \prec Z) = Y \prec (X \prec Z)$
+
+Form III gives no necessary formula
+
+General forms with 3 copulas.
+
+I. [del]$X$[/del] $X \prec [Y \prec (Z \prec W)$
+II. $(X \prec Y) \prec (Z \prec W)$
+III. $[(X \prec Y) \prec Z] \prec W$.
+IV $X \prec [(Y \prec Z) \prec W]$
+V $[X \prec (Y \prec Z)] \prec W$
+
+Form I gives the necessary formulae
+$X \prec [Y \prec (Z \prec Z)]$
+$X \prec [Y \prec (Z \prec Y)]$ by $3'$
+$X \prec [Y \prec (Z \prec X)]$ by $3'$
+mere cases under (2) and (3)
+
+Form II gives the necessary formulae
+$(X \prec Y) \prec (X \prec Y)$ case of (1)
+$(X \prec Y) \prec (Z \prec Z)$ case of (2)
+
+Form III gives the necessary formulae
+(4) $[(X \prec X) \prec Y] \prec Y$.
+
+Proof. Assume $(X \prec X) \prec Y$ is true. Then we are bound to admit $Y$ is true. For by (1) $X \prec X$ must be assumed true and thus by B, we have to admit that $Y$ is true. So by A the formula holds.

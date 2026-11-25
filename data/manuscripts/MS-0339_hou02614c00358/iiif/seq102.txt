@@ -1,0 +1,19 @@
+or still better
+$$v, \textcircled{e}, (1 - e_v) = 0$$
+This fully defines $\textcircled{e}$
+That is
+$$\textcircled{e} = \frac{0}{v, (1 - e_v)} \qquad \begin{matrix} v=0 \\ \text{or } e_v = 1 \end{matrix}$$
+$$= \frac{0}{0} . (1 - v) + e_v$$
+
+Here I feel myself sadly in want of a better
+notation. How should I denote $e_x$ ? This by
+the usual developement gives
+$$e_x = e_1 x + e_0 (1 - x)$$
+This developement does not hold, but
+$$e_1 = e$$
+$$e_0 = 0$$
+I want some thing similar
+$$e^x = e^1_s x + e^0_s (1 - x)$$
+$e^0 = 1$ so this is not what I want
+$$x^e = 1^e_s x + 0^e_s (1 - x)$$
+$1^e = 1$ But $e_x$ is very analogous.

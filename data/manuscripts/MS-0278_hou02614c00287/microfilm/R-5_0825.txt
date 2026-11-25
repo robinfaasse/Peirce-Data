@@ -1,0 +1,8 @@
+$$\left(\frac{r}{R}\right)^{2} = \frac{2Zz - z^{2}}{Z^{2}}$$
+$$\frac{r dr}{R^{2}} = \frac{(Z-z)dz}{Z^{2}}$$
+$$dr = \frac{R^{2}}{r} \cdot \frac{Z-z}{Z^{2}} dz$$
+$$(dr)^{2} + (dz)^{2} = \left(1 + \frac{R^{4}}{r^{2}} \frac{(Z-z)^{2}}{Z^{4}}\right) (dz)^{2}$$
+$$\sqrt{(dr)^{2} + (dz)^{2}} = \sqrt{1 + \frac{R^{4} (Z-z)^{2}}{Z^{4} r^{2}}} dz$$
+$$= \sqrt{1 + \frac{R^{4} (Z-z)^{2}}{Z^{2} z (2Z - z)}} dz$$
+$$= \sqrt{\frac{2Z^{3}z - Z^{2}z^{2} + R^{4}Z^{2} - 2R^{4}Zz + R^{4}z^{2}}{Z^{2} z (2Z - z)}} dz$$
+$$= \sqrt{\frac{(R^{2}-Z^{2})z^{2} - 2Z(R^{4}-Z^{2})z + R^{4}Z^{2}}{Z^{2} z (2Z - z)}} dz$$

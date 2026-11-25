@@ -1,0 +1,22 @@
+[pn]13[/pn] [pn]P3[/pn]
+(1) If $x=y$, then $x$ may anywhere be substituted for $y$.
+(2) $x+y=y+x$.
+(3) $x+(y+z) = (x+y)+z$.
+(4) $xy = yx$.
+(5) $x(yz) = (xy)z$.
+(6) $(x+y)z = xz+yz$.
+(7) $x+0 = x$.
+(8) $x1 = x$.
+(9) $x+\infty = \infty$.
+(10) If $x+y = x+z$, either $y=z$ or $x=\infty$.
+(11) If $xy = xz$, either $y=z$, or $x=0$, or $x=\infty$.
+(12) If $x>y$, not $y>x$.
+(13) If $x>y$, then there is a quantity [ins]$a$[/ins] such that $a>0$ $a+y=x$.
+(14) If $x>y$, then $x+z > y+z$.
+(15) If $x>0$ and $y>0$, then $xy>0$.
+(16) Either $x>y$, or $x=y$, or $y>x$.
+(17) $1>0$
+[del](18) $0>1$[/del]
+
+It is plain that from these equations it is impossible to prove that $x^2 < 0$ is not true except by the aid of one of the last [del]five[/del] [ins]six[/ins] formulae, and further that it will be requisite to consider the factors of $x^2$. Now (15) is the only one of the last [del]five[/del] [ins]six[/ins] formulae, directly containing a product. This gives $x^2 > 0$ provided $x>0$. Also, if $0>x$, let $x+\xi = 0$, [del]by (13),[/del] then [del]$(x+\xi)$[/del] where $\xi > 0$. Then
+Then by (6) $x\xi + \xi^2 = 0\xi$

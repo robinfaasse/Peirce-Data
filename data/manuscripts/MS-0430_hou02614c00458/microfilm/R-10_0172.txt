@@ -1,0 +1,30 @@
+[pn]Logic
+III
+29[/pn]
+
+candidates could there have been?
+
+Considering any candidate, whoever he may be, let
+
+J be the value of the proposition that he was a junior;
+S, " " " " " " " senior;
+L, " " " " " " " took Latin;
+C, " " " " " " " composition.
+
+Then the premises form the following graphs
+
+(1) [fig]graph J L S C[/fig]
+(2) [fig]graph J L C[/fig]
+(3) [fig]graph C L J[/fig]
+
+To these, since no junior is a senior, we add
+
+(4) [fig]graph J S[/fig]
+
+Iterating (4) in (1), we get
+
+(5) [fig]graph J L J S S C[/fig] whence [fig]graph J L J S C[/fig] whence [fig]graph J L J C[/fig]
+
+[del]Iterating this last in (3) we get[/del]
+
+[del](6) [fig]graph C L J S T C J C[/fig] whence [fig]graph C L J S T C[/fig][/del]

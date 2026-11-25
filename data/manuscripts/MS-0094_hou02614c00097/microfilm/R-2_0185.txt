@@ -1,0 +1,29 @@
+[pn]411[/pn] [pn]179[/pn]
+
+[u]§ 93 Definition 138[/u]. [u]Production[/u], [del]otherwise called[/del] [ins]more accurately[/ins] [u]projection[/u], is an operation by which a configuration of [u]Points and Rays[/u], is replaced by a configuration of [u]Rays and Planes[/u], all [del]passing through[/del] [ins]containing[/ins] these Points and Rays and also [del]through[/del] [ins]containing[/ins] one common Point, called the [u]centre of production[/u].
+
+[u]Definition 139[/u]. [u]Section[/u], or [u]plane section[/u], is an operation by which a configuration of [u]Planes and Rays[/u] is replaced by a configuration of [u]Rays and Points[/u], all contained in these Planes and Rays, and also contained in one common Plane, called the [u]plane of section[/u].
+
+[u]Definition 140[/u]. [u]Central projection[/u] is the operation of production followed by a plane section, whereby a configuration of Points and Rays is replaced by a [del]sin[/del] plane configuration of Points and Rays.
+
+There is also an operation of plane section followed by production whereby any configuration of Planes and Rays is [del]followed[/del] [ins]replaced[/ins] by a configuration of Planes and Rays containing one common point.
+
+[fig]Mathematical formulas and equations in columns[/fig]
+$$\begin{array}{ll}
+(bc) = \kappa & (cd) = \mu \\
+(be) = \lambda & (ed) = \nu \\
+\\
+\underline{(bc)} \ \underline{(be)} \\
+\{ (bc) (be) \} = b \\
+\{ \kappa \ \lambda \}
+\end{array}
+\quad
+\begin{array}{l}
+\{ b \} = \{ \kappa \lambda \} \quad \{ d \} = \{ \mu \nu \} \\
+\{ c \} = \{ \kappa \mu \} \quad \{ e \} = \{ \lambda \nu \} \\
+\\
+[be] = [ \{ \kappa \lambda \} \{ \lambda \nu \} ] \\
+\phantom{[be]} = [ \kappa \lambda \nu ] \\
+[cd] = [ \{ \kappa \mu \} \{ \mu \nu \} ] \\
+\phantom{[cd]} = [ \kappa \mu \nu ]
+\end{array}$$

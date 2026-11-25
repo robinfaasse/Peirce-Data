@@ -1,0 +1,16 @@
+We see from (16) that $\phi^{\infty}$ and $\phi^{-\infty}$ are now
+different. Namely,
+(31) $\phi^{\infty} = -\frac{c}{2} + \alpha$ $\phi^{-\infty} = -\frac{c}{2} + \beta$
+while
+(32) $\phi' \infty = -\frac{c}{2} + (\alpha + \beta)$
+
+Equation (16) now takes the form
+
+$\phi^n x = \phi^{\infty} + \phi^{-\infty} - \phi\infty + \frac{(x - \phi^{\infty} - \phi^{-\infty} + \phi\infty) [(\phi\infty - \phi^{-\infty})^{n+1} - (\phi\infty - \phi^{\infty})^{n+1}] - (\phi\infty - \phi^{-\infty})(\phi\infty - \phi^{\infty}) [(\phi\infty - \phi^{-\infty})^n - (\phi\infty - \phi^{\infty})^n]}{(x - \phi^{\infty} - \phi^{-\infty} + \phi\infty) [(\phi\infty - \phi^{-\infty})^n - (\phi\infty - \phi^{\infty})^n] - (\phi\infty - \phi^{-\infty})(\phi\infty - \phi^{\infty}) [(\phi\infty - \phi^{-\infty})^{n-1} - (\phi\infty - \phi^{\infty})^{n-1}]}$
+
+(33) $= \phi^{\infty} + \phi^{-\infty} - \phi\infty + \frac{(x - \phi^{\infty})(\phi\infty - \phi^{-\infty})^{n+1} - (x - \phi^{-\infty})(\phi\infty - \phi^{\infty})^{n+1}}{(x - \phi^{\infty})(\phi\infty - \phi^{-\infty})^n - (x - \phi^{-\infty})(\phi\infty - \phi^{\infty})^n}$
+
+We ought not to restrict ourselves to the narrow conception
+that [u]n[/u] is an integer or that of its being real. It, therefore,
+becomes a problem to determine the value [ins]of $N$[/ins] [del]of[/del] [ins]or[/ins] $n$ for which
+(34) $\phi^N x = \phi^0 x$

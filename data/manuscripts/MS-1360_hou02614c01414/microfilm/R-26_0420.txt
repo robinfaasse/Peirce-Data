@@ -1,0 +1,27 @@
+force in the cable is brought up to H, the additional vertical
+force downward is
+[del]+x_c[/del]
+[ins]+x_c[/ins]
+[del]-x_c[/del]
+[ins]-x_c[/ins]
+[del]∫[/del] [ins]∫[/ins] { - 2 [frac]y_0 - y_c[/frac] [frac]H[/frac] + [frac]1[/frac] K [ [sqrt]1 + [frac]4(y_0 - y_c)^2[/frac][/sqrt] + [frac]x_c[/frac] log ( [sqrt]1 + [frac]4(y_0 - y_c)^2[/frac][/sqrt] + [frac]2(y_0 - y_c)[/frac] ) ] + [frac]1[/frac] K' (y_0 - y_c) } dx
+
+[del]Part II.[/del] To find the reactions [del]of the[/del] [ins]at the[/ins] piers, it [del]is[/del] [ins]does[/ins] not [ins]seem[/ins] [del]necessary[/del]
+to resort to [del]Bertot's[/del] (commonly called Clapeyron's) theorem of Three
+Moments, which, indeed, is not applicable without modification. It seems
+sufficient to assume that the sum of the four upward pressures
+equals the total downward pressure, that the pressures on sym-
+metrically situated piers are equal, and that there are no moments of
+flexure about the extremities of the truss.
+
+A
+
+[fig]Diagram with two triangles[/fig]
+
+[del]P[/del]
+[ins]P[/ins]
+[del]∫[/del] [ins]∫[/ins] [ins]q[/ins] (x - a) f(x - a) d(x - a)
+
+[del]q[/del]
+[ins]q[/ins]
+[del]∫[/del] [ins]∫[/ins] [ins]p + a[/ins] [gap] dy [gap] x - a = y

@@ -1,0 +1,47 @@
+[pn]Ms. 1355[/pn] [fig]Drawing of a chain with five links[/fig] [ins]simple[/ins]
+<u>Question 1</u>. In how many ways, with c+1 colors, can a chain of l+1 links
+be colored so that all adjacent links are colored differently?
+
+Let $p_l$ be the number of ways that give the first and last links [del]different[/del] [ins]the same[/ins] color
+$q_l$ " " " " " " " " " different colors
+
+(I write $p$ for $p_l$, $q$ for $q_l$, $Ep$ for $p_{l+1}$, $E^2p$ for $p_{l+2}$, etc)
+
+One easily sees that since if the last link is the same color as the first an additional link may have any one of
+c colors, and if first and last are different, any one of c-1 colors, therefore
+[del]$Ep = q$[/del] [del]$Ep = (c-1)p + (c-2)q$[/del]
+$Ep = q$
+$Eq = cp + (c-1)q$
+
+$E^2p = Eq = cp + (c-1)q = cp + (c-1)Ep$
+
+The general solution is
+$p_l = C_1 c^l + C_2 (-1)^l$     $q_l = C_1 c c^l - C_2 (-1)^l$
+
+But evidently if there is but one link, that is, if $l=0$, $p_0 = c+1$, $q_0 = p_1 = 0$
+$\therefore$ $p_0 = C_1 + C_2 = c+1$
+$q_0 = C_1 c - C_2 = 0$
+$C_1 [del](c+1)[/del] = c+1$ or $C_1 = 1$     $C_2 = c$
+
+and thus the general solution becomes
+$p_l = c^l + c (-1)^l$
+$q_l = c \cdot c^l - c (-1)^l$
+
+and the answer to the question is $p_l + q_l = (c+1) c^l$
+
+If $l$ is even $p_l = c^l + c = c (c^{l-1} + 1)$ which is divisible by $(c+1)$
+$q_l = c \cdot c^l - c = c (c^{l-1} - 1)$ [del]([unclear]etc[/unclear])[/del] " " " "
+[ins]$q_1 = 0$ $q_0 = 0$[/ins] [ins]$p_0 = 0$[/ins]
+
+If $l$ is odd $p_l = c^l - c = c (c^{l-1} - 1)$ " " " "
+$q_l = c \cdot c^l + c = c (c^{l-1} + 1)$ [del]([unclear]etc[/unclear])[/del] " " " "
+
+If $c=1$ and $l$ is [ins]every[/ins] odd? then $\left. \begin{array}{l} q_l \\ p_l \end{array} \right\} = 0$.
+
+But if the chain begins with a determinate color and may end with that color in $p_l$
+ways, with another determinate color in $q_l$ ways and with some one of the remaining
+[del]c-1[/del] [ins]c-2[/ins] [del]colors in[/del] $r_l$ ways. Then
+$Ep = q_l + r_l$     $Eq = p + r$     $Er = (c-1)(p+q) + (c-2)r$
+$E(p+q) = (p+q) + 2r$
+$E^2(p+q) = E(p+q) + 2Er = p+q + 2r + 2Er$
+$\left\{ \begin{array}{l} p = \frac{c^l + c(-1)^l}{c+1} \\ q = \frac{c^l - (-1)^l}{c+1} \\ r = \frac{c-1}{c+1} (c^l - (-1)^l) \end{array} \right.$

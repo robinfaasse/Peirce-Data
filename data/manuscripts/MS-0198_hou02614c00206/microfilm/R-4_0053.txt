@@ -1,0 +1,21 @@
+- Find all the points equidistant between [del]two points[/del] [ins]given[/ins] [del]and at a given distance from a third.[/del]
+
+- Find all the points equidistant from two given points and at a given distance from a given ray.
+
+[u]Problem[/u]. Given two rays [ins]given[/ins] {a} and {b}: find all the points equidistant from them.
+
+[u]Solution[/u]. Bisect the two adjacent angles made by {a} and {b} by two rays {x} and {y} both through [del][ab][/del]; and the points of these rays are the only points [ins]of the plane[/ins] satisfying the conditions.
+
+[u]Exercise[/u] Demonstrate the truth of the above solution
+
+- Find the centres of all circles touching three given rays.
+
+- Find all the points equidistant from [del]two[/del] [ins]given[/ins] rays and also from two given points.
+
+- Find all the points equidistant from two given rays and at a [del]fixed[/del] [ins]given[/ins] distance from a given point.
+
+- Find all the points equidistant from two given rays and at a [del]fixed[/del] [ins]given[/ins] distance from a third.
+
+- [u]Problem[/u]. Given [del]three[/del] [ins]two[/ins] points, [A] and [B], and two given rays {m} and {n}; required all the points at which the two points, [A] and [B], subtend an angle equal to [del]one of[/del] [ins]certain of[/ins] the angles of the two rays {m} and {n}.
+
+[u]Solution[/u]. Join [A] and [B] by the [del]ray[/del] [ins]segment[/ins] {AB}. At [A] [del]and [B][/del] erect [del]a[/del] perpendicular[del]s[/del] [ins]at [A] and [B][/ins] to {AB}. [del]From[/del] [ins]Through[/ins] [A] and [B]

@@ -1,0 +1,38 @@
+[marginalia]Morrison's Bridge [date]1898 Jan 23[/date][/marginalia] [pn]6[/pn]
+
+$$\sin s + \sin d = 2 \sin \frac{s+d}{2} \cos \frac{s-d}{2}$$
+$$\sin s - \sin d = 2 \cos \frac{s+d}{2} \sin \frac{s-d}{2}$$
+
+$$\frac{l_N - l_0}{2} = \sqrt{a^2+b^2} \frac{2 \sin \frac{\theta_N - \theta_0}{2}}{2}$$
+
+$$\sin A_N \cos \Theta - \cos \theta_N \sin \Theta$$
+$$- \sin \theta_0 \cos \Theta + \cos \theta_0 \sin \Theta$$
+
+[del]second[/del] [ins]third[/ins].
+$$\cos (a+b) + \cos (a-b) = 2 \cos a \cos b$$
+$$\cos (a-b) - \cos (a+b) = 2 \sin a \sin b$$
+$$\sin d + \cos s = 2 \cos \frac{s+d}{2} \cos \frac{s-d}{2}$$
+$$\cos d - \cos s = 2 \sin \frac{s+d}{2} \sin \frac{s-d}{2}$$
+
+$$\cos \Theta . 2 \cos \frac{\theta_N + \theta_0}{2} \sin \frac{\theta_N - \theta_0}{2} + \sin \Theta . 2 \sin \frac{\theta_N + \theta_0}{2} \sin \frac{\theta_N - \theta_0}{2}$$
+
+$$2 \cos (\Theta - \frac{\theta_N + \theta_0}{2}) \sin \frac{\theta_N - \theta_0}{2}$$
+
+$$[del]l_0 \sin \theta_0[/del] \ \ l_0 \sin \theta_0 = \sqrt{a^2+b^2} \frac{\sin \theta_0}{\sin (\theta_N - \theta_0)} \sin (A_N - \Theta) - \frac{\sin \theta_0}{\sin (\theta_N - \theta_0)} \sum_1^{N-1} l_n \sin (\theta_N - \theta_n)$$
+
+[fig]small sketch[/fig] [del]$\sum_1^m \sin \theta_n$[/del] [del]$\sum_1^m \sin \theta_n$[/del]
+
+$$\text{Height above first end of } \underline{m}^n = \sqrt{a^2+b^2} \frac{\sin \theta_0 \sin (\theta_N - \Theta) - \frac{\sin \theta_0}{\sin (\theta_N - \theta_0)} \sum_1^{N-1} l_n \sin (\theta_N - \theta_n) + \sum_1^m l_n \sin \theta_n}{\sin (\theta_N - \theta_0)}$$
+
+$$\text{Height of last end above } \underline{m}^n = \sum_{m+1}^{N-1} l_n \sin \theta_n + \sqrt{a^2+b^2} \frac{\sin \theta_N}{\sin (\theta_N - \theta_0)} \sin (\Theta - \theta_0) - \frac{\sin \theta_N}{\sin (\theta_N - \theta_0)} \sum_1^{N-1} l_n \sin (\theta_n - \theta_0)$$
+
+$$\sin \theta_0 \sin \theta_N \cos \Theta - \sin \theta_0 \cos \theta_N \sin \Theta$$
+$$- \sin \theta_0 \sin \theta_N \cos \Theta + \cos \theta_0 \sin \theta_N \sin \Theta$$
+$$\sin \Theta \sin (\theta_N - \theta_0)$$
+
+$$\sin \theta_0 \sin \theta_N \cos \theta_n - \sin \theta_0 \cos \theta_N \sin \theta_n$$
+$$- \sin \theta_0 \sin \theta_N \cos \theta_n + \cos \theta_0 \sin \theta_N \sin \theta_n$$
+$$\sin (\theta_N - \theta_0) \sin \theta_n$$
+
+$$\text{Height of } \underline{m}^n \text{ above first end} = \frac{\sqrt{a^2+b^2} (\sin \Theta . \sin (\theta_N - \theta_0) - \sin \theta_N \sin (\Theta - \theta_0))}{\sin (\theta_N - \theta_0)}$$
+$$+ \frac{- \sin \theta_0 \sum_1^{N-1} l_n \sin (\theta_N - \theta_n) + \sin (\theta_N - \theta_0) \sum_1^m l_n \sin \theta_n}{\sin (\theta_N - \theta_0)}$$

@@ -1,0 +1,55 @@
+$$s^5 = t^5 = u^5 = v^5 = w^5 = N$$
+
+[del]sk su sv sw[/del]
+[del]tu tv tw[/del]
+[del]uv uw[/del]
+[del]vw[/del]
+
+[del]st[/del] su sv sw
+[del]tu[/del] tv tw
+[del]uv[/del] uw
+vw
+
+vw tw
+tv
+
+[del]sk[/del] tv ws wb
+sv tu [del]wv[/del] wv
+uv [del]st[/del]
+
+$s^5 - t^5 = 0$
+$s^4 + s^3t + s^2t^2 + st^3 + t^4 = 0$
+$s^4 + s^3u + s^2u^2 + su^3 + u^4 = 0$
+
+$s^3(t-u) + s^2(t^2-u^2) + s(t^3-u^3) + t^4-u^4 = 0$
+$s^3 + s^2(t+u) + s(t^2+tu+u^2) + t^3+t^2u+tu^2+u^3 = 0$
+$s^3 + s^2(t+v) + s(t^2+tv+v^2) + t^3+t^2v+tv^2+v^3 = 0$
+
+$s^2(u-v) + st(u-v) + s(u^2-v^2) + t^2(u-v) + t(u^2-v^2) + u^3-v^3 = 0$
+$s^2 + st + su + s(t+u+v) + t(t+u+v) + u^2+uv+v^2 = 0$
+$s^2 + [del]st + su[/del] s(t+u+w) + t(t+u+w) + u^2+uw+w^2 = 0$
+
+$s(v-w) + t(v-w) + u(v-w) + (v^2-w^2) = 0$
+$s + t + u + v + w = 0$
+
+$s^5-t^5=0 \quad s^4+s^3t+s^2t^2+st^3+t^4=0$
+$u^5-t^5=0 \quad u^4+u^3t+u^2t^2+ut^3+t^4=0$
+$s^4-u^4 + (s^3-u^3)t + (s^2-u^2)t^2 + (s-u)t^3 = 0 \quad (s \neq t)$
+$s^3+s^2u+su^2+u^3 + (s^2+su+u^2)t + (s+u)t^2 + t^3 = 0 \quad (s \neq t \quad s \neq u)$
+$s^3+s^2u+su^2+u^3 + (s^2+su+u^2)w + (s+u)w^2 + w^3 = 0 \quad (s \neq w \quad s \neq u)$
+
+$(s^2+su+u^2)(t-w) + (s+u)(t^2-w^2) + (t^3-w^3)$
+$(s \neq t \quad s \neq w \quad s \neq u \quad t \neq w) \quad s^2+su+u^2 + (s+u)(t+w) + t^2+tw+w^2 = 0$
+$(s \neq t \quad s \neq v \quad s \neq u \quad t \neq v) \quad s^2+su+u^2 + (s+u)(t+v) + t^2+tv+v^2 = 0$
+$s+u+t+w+v = 0 \quad (s+u)(w-v) + t(w-v) + w^2-v^2 = 0$
+
+$(p + q\phi + r\phi^2)(p + q\phi^2 + r\phi)$
+$p + q\phi(ru+rw+su+sv)$
+
+su $s^5 + 5s^4u + 10s^3u^2 + 10s^2u^3 + 5su^4 + u^5 = 0$
+tv [u]$t^5 + 5t^4v + 10t^3v^2 + 10t^2v^3 + 5tv^4 + v^5 = 0$[/u]
+uw $w^5 + 5w^4u + 10w^3u^2 + 10w^2u^3 + 5wu^4 + w^5 = 0$
+
+sw $s^4+s^3w+s^2w^2+sw^3+w^4 + 5u(s^3+s^2w+sw^2+w^3) + 10u^2(s^2+sw+w^2) + 10u^3(s+w) + 5u^4$
+tv $s^4+s^3v+s^2v^2+sv^3+v^4 + 5v(s^3+s^2v+sv^2+v^3) + 10v^2(s^2+sv+v^2) + 10v^3(s+v) + 5v^4$
+uv $5(s^3+s^2w+sw^2+w^3) + 10(u+v)(s^2+sw+w^2) + 10(u^2+uv+v^2)(s+w) + 5(u^3+u^2v+uv^2+v^3)$

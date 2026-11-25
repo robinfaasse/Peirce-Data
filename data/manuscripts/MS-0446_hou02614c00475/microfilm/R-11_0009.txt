@@ -1,0 +1,74 @@
+The sifting out is done by forces. Thus let a stream of
+meteors moving with different rates of velocity come
+within the sphere of [del]attraction[/del] [ins]afflux[/ins] of a gravitating body.
+They will move off on hyperbolas according to their velocities
+as [del]a[/del] [ins]the[/ins] prism sifts light.
+
+[fig]Diagram showing hyperbolic paths of meteors around a body[/fig]
+
+[fig]Diagram of a triangle inside a circle[/fig]
+$\frac{1}{2} v^2 = \frac{1}{r}$
+$r = \frac{2}{v^2}$
+
+The mere law of mechanics that they [ins]each[/ins] continues to move with
+constant velocity will sift them
+
+[ins]Mutual[/ins] Attraction would [del]do[/del] in a measure prevent their being
+sifted. Mutual repulsion would [del]lead[/del] hasten the sifting.
+
+A state of mixtion may originate
+
+[fig]Diagram of a circle with intersecting lines[/fig]
+$\frac{v^2}{2} + \frac{V^2}{2} = \frac{C}{r}$
+$D_v^2 = D_s (v^2)$
+
+[fig]Horizontal line segment[/fig]
+
+$D_x^2 x = x^n$
+$\frac{1}{2} (D_x)^2 = C \frac{x^{n+1}}{n+1}$
+$(D_x)^2 = 2 C \frac{x^{n+1}}{n+1}$
+$(D_x)^2 = \frac{2}{n} x^{n+1} - \frac{2}{n} x^{n-1}$
+$= \frac{2}{n} x^{n+1} (1 - \frac{x^{n-1}}{x^{n+1}})$
+$T = \sqrt{\frac{n}{2}} \int \frac{dx}{x^{\frac{n+1}{2}} \sqrt{1 - \frac{x^{n-1}}{x^{n+1}}}}$
+
+$D_x^2 x = x^n$
+$\frac{1}{2} (D_x)^2 = \frac{1}{n} x^{n+1}$
+$(D_x)^2 = \frac{2}{n} x^{n+1}$
+$(D_x)^2 = \frac{2}{n} x^{2n+\frac{1}{2}}$
+$D_x v = \sqrt{\frac{2}{n}} \cdot x^{\frac{2n+1}{2}}$
+$D_x t = \sqrt{\frac{n}{2}} \cdot x^{-\frac{2n+1}{2}}$
+
+[del]How does chance act to[/del] [ins]give[/ins]
+[del]For[/del] Let us endeavor to [del]frame a state[/del] [ins]define the conditions under which[/ins]
+chance acts to produce these effects.
+
+For that purpose we must first define chance, not as to the
+causes which produce it, but as to the phenomenon itself.
+
+Now considered purely as a phenomenon, without reference
+to its causes, chance is a property of a distribution.
+
+Strictly it is the distribution of a character among a
+denumerable multitude. Every denumerable multitude
+has certain [del]generating sequen[/del] orders of sequence. A chance
+distribution is such a distribution of a character among such
+a multitude that in a generating sequence the [ins]average[/ins] frequency with
+which [del]an object next following one that has $q$ has itself $q$[/del]
+is the same as the frequency with which an object [del]that[/del]
+[del]next following one that has not $q$ has itself $q$[/del]
+an [ins]next[/ins] object following a series of objects has $q$ is just the
+same whatever the distribution of $q$ among the objects
+of that series may be. As we say in probabilities the frequency
+with which an object [del]next[/del] following a series of objects will
+be $q$ is independent of the distribution of $q$ among those
+objects.
+
+That is what we call a fortuitous distribution.
+
+To speak of a fortuitous distribution among a finite collection
+[del]is a phrase to which no definite objective meaning can be[/del]
+[del]attached.[/del] A pack of cards may be said to be well shuffled when
+the [del]order of[/del] sequence has no [del]more[/del] property that appeals to our minds
+particularly simple. [del]But[/del] That is vague and subjective. A thorough
+shuffling of a finite pack cannot be [del]defined[/del] [ins]precisely[/ins] exactly, and [del]not[/del] [ins]cannot[/ins] [ins]be[/ins] [u]actually[/u]
+defined. But law of high numbers.

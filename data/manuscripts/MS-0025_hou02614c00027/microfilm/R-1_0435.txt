@@ -1,0 +1,21 @@
+[pn]Multitude[/pn] [pn]23[/pn]
+
+for it merely amounts to this, that if the [ins]interior[/ins] angles of one triangle are, $A, B, C$,
+[fig]Triangle with angles A, B, C[/fig] those of the other three are
+$$\begin{matrix}
+A, & 180^{\circ}-B, & 180^{\circ}-C; \\
+180^{\circ}-A, & B, & 180^{\circ}-C; \\
+180^{\circ}-A, & 180^{\circ}-B, & C.
+\end{matrix}$$
+and
+
+To say that [ins]any[/ins] [del]the[/del] exterior angle exceeds either [del]non-adjacent[/del] interior angle is merely to say that the sum of any two interior angles is less than $180^{\circ}$. Let us put $x$ for the (positive or negative) amount by which $A+B$ falls short of $180^{\circ}$, $y$ the amount by which $A+C$ falls short of $180^{\circ}$, and $z$ the amount by which $B+C$ falls short of $180^{\circ}$. Let us also suppose $A < B < C$. Then $x > y > z$. If therefore $z > 0$, it is true of the first triangle that all three pairs of interior angles exceed $180^{\circ}$. But if it is not true of this triangle it is true of the second triangle; for then $z < 0$, and the sums of pairs of interior angles of the second triangle are
+$$\begin{matrix}
+A + 180^{\circ}-B = 180^{\circ}-y+z < 180^{\circ} \\
+A + 180^{\circ}-C = 180^{\circ}-x+z < 180^{\circ} \\
+180^{\circ}-B + 180^{\circ}-C = 180^{\circ}+z < 180^{\circ}.
+\end{matrix}$$
+
+Of one of the triangles, then, it is true that the sum of any pair of interior angles is [del]less than (or equal to)[/del] [ins]at greatest, as small as[/ins] $180^{\circ}$. [del]We will neglect the limiting value throughout for simplicity.[/del] Let this be the triangle having $A, B, C$ as its angles. Then $z > 0$. Hence, the second triangle has the sums of two pairs less and that of one pair greater than $180^{\circ}$; the third triangle has the sums of one pair less [del]and those[/del] of two pairs greater than $180^{\circ}$; while, the fourth triangle has the sums of all pairs greater than $180^{\circ}$. There are four triangles, the sum of whose angles are, twelve right angles, and [del]not more than one can have all its angles less than $90^{\circ}$.[/del] [ins]can have the sum less than $180^{\circ}$.[/ins]
+
+Precisely the same reasoning applies to the sides, except that for $180^{\circ}$, we must sub-

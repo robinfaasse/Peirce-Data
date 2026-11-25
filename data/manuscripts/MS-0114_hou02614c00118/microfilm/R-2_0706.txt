@@ -1,0 +1,39 @@
+$$\cos \theta = \frac{\frac{1 + \tanh^2 \frac{a}{2}}{1 - \tanh^2 \frac{a}{2}} \cosh b - \cosh c}{2 \frac{\tanh \frac{a}{2}}{1 - \tanh^2 \frac{a}{2}} \sinh b}$$
+
+$$\sinh x = \frac{1}{\tanh \frac{x}{2}} (\cosh x - 1)$$
+$$= \frac{1}{\tanh \frac{x}{2}} \left( \frac{2 \tanh^2 \frac{x}{2}}{1 - \tanh^2 \frac{x}{2}} \right)$$
+$$= \frac{2 \tanh \frac{x}{2}}{1 - \tanh^2 \frac{x}{2}}$$
+
+$$= \frac{(1 + \frac{r^2}{L^2}) \cosh b - (1 - \frac{r^2}{L^2}) \cosh c}{2 \frac{r}{L} \sinh b}$$
+
+$$2 \frac{r}{L} \cos \theta \sinh b = (1 + \frac{r^2}{L^2}) \cosh b - [del](1 - \frac{r^2}{L^2}) \cosh c[/del] [ins](1 - \frac{r^2}{L^2}) \cosh c[/ins]$$
+
+$$2 L x \sinh b = (L^2 + x^2 + y^2) \cosh b - (L^2 - x^2 - y^2) \cosh c$$
+
+$$\frac{\cos \theta}{\tanh a} = y \tanh L$$
+
+$$(x^2 + y^2) (\cosh b + \cosh c) + L^2 (\cosh b - \cosh c) = 2 L x \sinh b$$
+
+$$(x^2 + y^2) [del]x^2 + y^2 + L^2 \frac{\cosh^2 b - \cosh^2 c}{(\cosh b + \cosh c)^2}[/del] = 2 x L \frac{\sinh b}{\cosh b + \cosh c}$$
+
+$$(x - q)^2 + y^2 = R^2$$
+$$x^2 + y^2 + q^2 - R^2 = 2 q x$$
+$$[del]\frac{q}{L} = \sinh b[/del]$$
+
+$$\beta + \gamma = s$$
+$$\beta - \gamma = d$$
+
+$$\frac{R^2 + q^2}{L^2} s^2 = \frac{1}{2} (s^2 + d^2) - 2$$
+$$\frac{q^2 - R^2}{L} s^2 = s d$$
+$$\frac{q^2 - R^2}{L^2} s^2 = d$$
+
+$$\left( \frac{q}{L} \right)^2 = \frac{\beta^2 - 1}{(\beta + \gamma)^2}$$
+$$\left( \frac{q}{L} \right)^2 - \left( \frac{R}{L} \right)^2 = \frac{\beta^2 - \gamma^2}{(\beta + \gamma)^2}$$
+$$\left( \frac{R}{L} \right)^2 = \frac{\gamma^2 - 1}{(\beta + \gamma)^2}$$
+
+$$\sinh^2 b - \cosh^2 b$$
+$$\cosh^2 c - 1$$
+
+$$\left( x - L \frac{\sinh b}{\cosh b + \cosh c} \right)^2 + y^2 = \left( \frac{\sinh c}{\cosh b + \cosh c} \right)^2$$
+
+$$[del]\frac{q^2 - R^2}{L^2}[/del] \left( 1 + \frac{(q^2 - R^2)^2}{L^4} - 2 \frac{q^2 + R^2}{L^2} \right) s^2 = 4 \frac{2 L}{s = \frac{2 L}{\sqrt{q^2 - (q + R)^2}}}$$

@@ -1,0 +1,22 @@
+Logic
+III
+35
+
+[fig]EA (B)[/fig] [fig]FA (B)[/fig] [fig]GA (B)[/fig] [fig]EC (D)[/fig] [fig]FC (D)[/fig] [fig]GC (D)[/fig] .
+Fifth Case. The letter occurs [del]both[/del] [ins]only[/ins] unenclosed and singly
+enclosed. Here AX [fig]BX (C)[/fig] [fig]DX (E)[/fig] [fig]FX (G)[/fig] gives
+A [fig]B (C)[/fig] [fig]D (E)[/fig] [fig]F (G)[/fig] .
+Sixth Case. The letter occurs only unenclosed and doubly
+enclosed. It is to be simply erased.
+Seventh Case. The letter occurs unenclosed and both singly
+and doubly enclosed. AX [fig]BX (C)[/fig] [fig]DX (E)[/fig] [fig]FX (G)[/fig] [fig]I (X)[/fig] [fig]J (X)[/fig]
+gives A [fig]B (C)[/fig] [fig]D (E)[/fig] [fig]F (G)[/fig] .
+
+Most problems are problems of elimination, like
+the last. Let us treat that according to our method.
+The premiss-graph is
+[fig](J S)[/fig] [fig](J C)[/fig] [fig](L S)[/fig] [fig](L C)[/fig] [fig](J L (C))[/fig] [fig](C L)[/fig] [fig](C J)[/fig] [fig](J S)[/fig]
+We eliminate S, thus
+[fig](J I)[/fig] [fig](J C)[/fig] [fig](L I)[/fig] [fig](L C)[/fig] [fig](J L (C))[/fig] [fig](C L)[/fig] [fig](C J)[/fig]
+We eliminate I ; after dropping [fig](J I)[/fig] which is meaningless.
+[fig](J C)[/fig] [fig](C J)[/fig] [fig](C C)[/fig] [fig](J C)[/fig] [fig](C J)[/fig]

@@ -1,0 +1,35 @@
+[pn]26[/pn]
+
+In this class of problems, too, we find such as this: "[del]given that[/del] [ins]whoever is prejudiced[/ins] [del]against a person has faith in somebody[/del] [ins]on account of a fact is a[/ins] [del]testimony is[/del] [del]required[/del] [ins]of elimination[/ins] [del]for instance, given that a first hand[/del] [del]from[/del] the proposition [del]ax[/del] [ins]$ax \prec \bar{x}_x$[/ins] belongs, says Schröder, [del]This problem, says Schröder,[/del] "belongs to the easiest of the difficult and to the most difficult of the easy problems of elimination."
+
+$\sum_i \sum_j a_{ij} A_i : A_j = x$
+
+$\sum_i \sum_j \bar{a}_{ij} A_i$
+
+$x_{ij}$
+
+$\sum_j x_{ij} \bar{x}_{jk}$
+
+[fig]Diagram with lines and points labeled i and k[/fig]
+
+[del]$x_{11} \bar{x}_{12} + x_{12} \bar{x}$[/del]
+
+[del]$\prec$[/del] $\begin{array}{cc} A:A & A:B \\ B:A & B:B \end{array}$
+
+$A:A \quad A:B$
+
+$x = A:A \quad x\bar{x} = (A:A)(A:B) = A:B$
+
+$x = A:B \quad x\bar{x} = (A:B)(B:A + B:B) = A:A + A:B$
+
+$x = A:A + A:B \quad x\bar{x} = (A:B)(B:A + B:B) = A:A + A:B$
+
+$x = A:A + B:A \quad x\bar{x} = (A:A + B:A)(A:B) = A:B + B:B$
+
+$x = A:A + B:B \quad x\bar{x} = (A:A)(A:B) + (B:B)(B:A) = A:B + B:A$
+
+$x = A:B + B:A \quad x\bar{x} = (A:B)(B:B) + (B:A)(A:A) = A:B + B:A$
+
+[marginalia]
+$(a+b)^n = P_n + \sum (u+v=n) a^u \cdot b^v + b^n$
+[/marginalia]

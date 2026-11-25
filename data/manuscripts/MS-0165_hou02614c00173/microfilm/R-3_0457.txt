@@ -1,0 +1,23 @@
+[pn]210[/pn]
+
+We find, then,
+$$x = - \frac{7965366}{38164359} = - 0.208712,$$
+$$\frac{1}{x} = - \frac{38164359}{7965366} = - 4.791288,$$
+
+Thus, $(x + \frac{1}{x}) = - 5$, or
+$$x^2 + 5x + 1 = 0,$$
+$$x = - \frac{5}{2} \pm \sqrt{\frac{25}{4} - 1} = \frac{1}{2} (\pm \sqrt{21} - 5).$$
+
+Undoubtedly, [del]is[/del] [ins]if[/ins] one [del]is[/del] [ins]of these values being[/ins] a root, the other must [ins]also[/ins] be [del]so[/del]; for no other-wise could the coefficients be so simple. It is a [ins]general[/ins] rule that, when $A + B \sqrt{N}$ is the root of an equation, $\sqrt{N}$ being a surd and $A$ and $B$ rational, $A - B \sqrt{N}$ must also be a root, provided the coefficients are simple rational quantities.
+
+We, therefore, multiply together
+$$x + \frac{1}{2} (5 + \sqrt{21}),$$
+and $x + \frac{1}{2} (5 - \sqrt{21})$,
+getting $x^2 + \frac{1}{2} (5 + \sqrt{21}) x$
+$+ \frac{1}{2} (5 - \sqrt{21}) x + \frac{1}{4} (25 - 21)$
+or $x^2 + 5x + 1$.
+
+[del]And[/del] By this, we divide the equation; thus:
+[fig]Polynomial long division of x^4 + 5x^3 + 2x^2 + 5x + 1 by x^2 + 5x + 1[/fig]
+
+The equation $x^2 = -1$ evidently has no real root. Its imaginary roots are $x = i$, $x = -i$, where $i^2 = -1$.

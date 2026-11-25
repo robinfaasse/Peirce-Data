@@ -1,0 +1,29 @@
+[pn]Cu
+2[/pn] The first of my contributions is suggested by your revival
+of interest in the number 142857, whose peculiarity is that it
+is the only number, that written in the usual way, of which every
+multiple, $M\times N$, where $N$ is this number and $M$ is an integer multiplier,
+[del]is composed[/del] is written with the same figures in the same cyclical order,
+so long as $M$ does not exceed the number of figures with which the
+number is written. Thus,
+
+$$\begin{array}{rcc}
+142857 & = & N \\
+714285 & = & 5N \\
+571428 & = & 4N \\
+857142 & = & 6N \\
+285714 & = & 2N \\
+428571 & = & 3N
+\end{array}$$
+
+$$\begin{array}{rcc}
+N & = & 142857 \\
+2N & = & 285714 \\
+3N & = & 428571 \\
+4N & = & 571428 \\
+5N & = & 714285 \\
+6N & = & 857142
+\end{array}$$
+
+I propose to explain why this is. In the first place, it is obvious that
+the same thing could not be true of any number [ins]$N$,[/ins] which is written with

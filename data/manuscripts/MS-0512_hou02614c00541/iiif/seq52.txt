@@ -1,0 +1,29 @@
+FL 80
+
+The most important formulae are as follows:
+
+$\Pi_u \Pi_v \Pi_w$ If $u \prec v \quad u \cdot w \prec v \cdot w$; if $u \prec v \quad u w \prec v w$
+$\qquad \qquad \qquad w \cdot u \prec w \cdot v \quad \qquad \qquad w u \prec w v$
+$\qquad \qquad \qquad u \dplus w \prec v \dplus w \quad \qquad \qquad u \smallsmile w \prec v \smallsmile w$
+$\qquad \qquad \qquad w \dplus u \prec w \dplus v \quad \qquad \qquad w \smallsmile u \prec w \smallsmile v.$
+$\qquad \qquad \qquad \bar{v} \prec \bar{u} \qquad \qquad \qquad \qquad \tilde{v} \prec \tilde{u}$
+
+$\Pi_u \Pi_v \Pi_w \quad (u \cdot v) \cdot w = u \cdot (v \cdot w) \qquad \qquad (uv)w = u(vw)$
+$\qquad \qquad (u \dplus v) \dplus w = u \dplus (v \dplus w) \qquad \quad (u \smallsmile v) \smallsmile w = u \smallsmile (v \smallsmile w)$
+$\qquad \qquad (u \dplus v) \cdot w \prec u \dplus v \cdot w \qquad \quad (u \smallsmile v) w \prec u \smallsmile vw$
+$\qquad \qquad w \cdot (u \dplus v) \prec w \cdot u \dplus v \qquad \quad w (u \smallsmile v) \prec wu \smallsmile v.$
+$\qquad \qquad w (u \dplus w) = wu \dplus wv \quad w \smallsmile (uv) = (w \smallsmile u) \cdot (w \smallsmile v)$
+$\qquad \qquad (u \dplus v) w = uw \dplus vw \quad (uv) \smallsmile w = (u \smallsmile w) \cdot (v \smallsmile w)$ [del]$(w \smallsmile u) \cdot (w \smallsmile v)$[/del] [del]$(u \smallsmile w) \cdot (v \smallsmile w)$[/del] [ins]$(w \smallsmile u) (w \smallsmile v) = w \smallsmile u \cdot v$[/ins] [ins]$(u \smallsmile w) (v \smallsmile w) = u \cdot v \smallsmile w$[/ins]
+
+$\Pi_u \qquad \qquad$ [del]$\bar{u} = u$[/del] $\bar{\bar{u}} = u \qquad \quad \tilde{\tilde{u}} = \tilde{\tilde{u}}$ [del]$\tilde{\tilde{u}} = u$[/del] $\tilde{\tilde{u}} = u$
+$\Pi_u \Pi_v \qquad \quad \overline{u \cdot v} = \bar{u} \dplus \bar{v} \qquad \qquad \qquad \widetilde{uv} = \text{[del]}\tilde{u} \tilde{v}\text{[/del]} \tilde{v} \smallsmile \tilde{u}$
+$\qquad \qquad \overline{u \dplus v} = \bar{u} \cdot \bar{v} \qquad \qquad \qquad \widetilde{u \smallsmile v} = \tilde{v} \tilde{u}$
+$\qquad \qquad \overline{uv} = \bar{u} \smallsmile \bar{v} \qquad \qquad \qquad \widetilde{u \cdot v} = \tilde{v} + \tilde{u}$
+$\qquad \qquad \overline{u \smallsmile v} = \bar{u} \tilde{v} \qquad \qquad \qquad \qquad \widetilde{u \dplus v} = \tilde{v} \cdot \tilde{u}$
+
+$\Pi_u \qquad \qquad u \dplus 0 = 0 \dplus u = u \qquad \qquad u \smallsmile T = T \smallsmile u = u$
+$\qquad \qquad u \cdot U = U \cdot u = u \qquad \qquad u 1 = 1 u = u$
+$\qquad \qquad u \cdot \bar{u} \prec 0 \qquad \qquad \qquad \qquad u \tilde{u} \prec T$
+$\qquad \qquad U \prec u \dplus \bar{u} \qquad \qquad \qquad \qquad 1 \prec u \smallsmile \tilde{u}$
+$T \cdot u \prec T \quad u \cdot T \prec T \qquad \qquad \qquad u 0 \prec 0 \quad 0 u \prec 0$
+$1 \prec 1 \dplus u \quad 1 \prec u \dplus 1 \qquad \qquad \quad U \prec u \smallsmile U \quad U \prec u \smallsmile U$

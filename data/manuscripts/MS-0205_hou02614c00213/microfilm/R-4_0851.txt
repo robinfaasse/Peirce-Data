@@ -1,0 +1,29 @@
+[pn]38[/pn]
+
+[ins]In[/ins] Theorem
+[del]Corollary 2.[/del] XIII. [del]For[/del] [ins]Of powers with the same exponent, greater than zero, that[/ins] [del]a given exponent[/del] [ins]the power[/ins] [u]with the greater[/u]
+[u]base is the greater[/u]; [del]of any two[/del] [ins]and of[/ins] [del]two[/del] [u]powers of the same base[/u] [ins]greater than [u]SO[/u], that [u]with the greater exponent is the greater[/u].[/ins]
+
+[u]Proof[/u]. For suppose N is a cardinal number, having this charac-
+ter, that taking any two different cardinal numbers, B and C, such
+that C > B, it is true that C[sup]GN[/sup] > B[sup]GN[/sup]. Then, C[sup]GGN[/sup] = C x C[sup]GN[/sup] and
+B[sup]GGN[/sup] = B x B[sup]GN[/sup] so that, by Corollary 2 from Theorem X, C[sup]GGN[/sup] > B[sup]GGN[/sup] and
+GN possesses the same character. But zero possesses this character,
+since C[sup]SO[/sup] = C and B[sup]SO[/sup] = B by the [del]first and second conditions[/del] [ins]corollary from Definition 6.[/ins] Hence, etc.
+
+Next suppose there were two cardinal numbers, E and F, such
+that, F > E, while, B being some cardinal number greater than
+SO, B[sup]F[/sup] is not greater than B[sup]E[/sup]. Then, by Corollary 5 from the
+General Precepts, there must be some exponent, say H, such that B[sup]H[/sup]
+is not greater than B[sup]E[/sup] although H > E, [del]But[/del] [ins]either[/ins] H = O or H is [del]G[/del] [ins]G[/ins] to
+some number, say K, such that either K is not greater than E or
+B[sup]K[/sup] > B[sup]E[/sup]. But H cannot be O since H > E, by Corollary 3 from Theorem III.
+If K is not greater than E while GK, that is H, is greater than E, it fol-
+lows, by Theorem III, that K = E. Then B[sup]H[/sup] = B[sup]GK[/sup] = B x B[sup]K[/sup] = B x B[sup]E[/sup]. Now, by hy-
+pothesis, B > SO. Hence, by Theorem X, B x B[sup]E[/sup] > SO x B[sup]E[/sup]. But by Corollary 11
+from Theorem IX, SO x B[sup]E[/sup] = B[sup]E[/sup], so that B[sup]H[/sup] > B[sup]E[/sup]. Thus, it is absurd to suppose
+K not greater than E. Hence, the only remaining alternative is K > E
+and B[sup]K[/sup] > B[sup]E[/sup] while H = GK and B[sup]H[/sup] is not greater than B[sup]E[/sup]. But B[sup]H[/sup] = B[sup]GK[/sup] = B x B[sup]K[/sup]
+hence as just seen B[sup]H[/sup] > B[sup]K[/sup] and, by the 2[sup]nd[/sup] condition of Definition I, B[sup]H[/sup] > B[sup]E[/sup] contra-
+ry to the hypothesis. It is therefore, absurd to suppose the power [del]of the higher[/del] [ins]with the greater[/ins] exponent not
+the greater, as long as the base is greater than SO.

@@ -1,0 +1,39 @@
+[fig]Diagram with loop labeled A and text "is a dyadic relation"[/fig]
+
+[fig]Diagram with two loops labeled A and text "is a dyadic"[/fig]
+[fig]Diagram with loops labeled A and B, and text "is a dyadic relation", "is an A", "is a B"[/fig]
+
+[fig]Grid diagram[/fig]
+
+[fig]Grid diagrams labeled p, q, r, s[/fig]
+
+To say that
+every A stands in some relation to a B
+is to say that
+there is some relation in which every A stands [ins]to a B[/ins]
+
+[del]To say that every[/del]
+To say there is no relation in which
+every A stands to a B
+[ins]to which no other A stands in the
+same relation[/ins]
+
+[fig]Stick figures and dots[/fig]
+[fig]Venn diagram[/fig]
+[fig]Line diagrams with dots[/fig]
+[fig]Line diagrams with dots[/fig]
+[fig]Line diagrams with dots[/fig]
+[fig]Line diagrams with dots[/fig]
+[fig]Concentric loop diagrams[/fig]
+[fig]Concentric loop diagrams[/fig]
+
+[fig]Concentric loop diagram[/fig]
+
+$A \prec B$
+[del]$C \prec B$[/del] | $C \prec B$
+$C \prec A$ | [del]$B \prec A$[/del]
+
+$C \prec B$
+[del]A small B[/del] | B greater A
+A greater B |
+$\therefore$ B small A | $\therefore$ A small B

@@ -1,0 +1,35 @@
+(2) [pn]1[/pn]
+$(\frac{r}{R})^2 + (\frac{z}{Z})^2 = 1$
+
+Putting $z = [del]Z - z[/del] [ins]Z - z[/ins]$, (2) becomes
+$(\frac{r}{R})^2 + \frac{Z^2 - 2Zz + z^2}{Z^2} = $
+
+or
+(3) $(\frac{r}{R})^2 = \frac{(2Z - z)z}{Z^2}$
+
+and since the square of the difference $R - Z$ can be neglected [del]relatively[/del] [ins]relatively[/ins] to $R^2$
+we may conveniently write
+(4) [del]$\frac{r^2 = (1 + 2E)(2Z - z)z}{Z^2 (1 + E)^2}$[/del] or $r = (1 + E) \sqrt{2Zz - z^2}$
+
+Differentiating, we get
+(5) $dr = (1 + E) \frac{Z - z}{\sqrt{2Z - z}z} dz$
+
+(6) $(dr)^2 = (1 + E)^2 (\frac{Z^2}{(2Z - z)z} - 1) (dz)^2$
+
+and adding $(dz)^2$
+(7) $(dr)^2 + (dz)^2 = [(1 + E)^2 (\frac{Z^2}{2Zz - z^2}) - 2E] (dz)^2$
+
+[del]Taking the square root
+$\sqrt{(dr)^2 + (dz)^2} = $[/del]
+
+Dividing (7) by (4), the quotient is
+$\frac{(dr)^2 + (dz)^2}{r^2} = [del][(\frac{Z^2}{2Zz - z^2}) - (\frac{2E}{1 + 2E}) \frac{2E}{1 + 2E} (2Zz - z^2)][/del] \frac{(dz)^2}{(1 + E)^2 [1 - \frac{1}{(1 + E)^2}}$
+
+(8) $\frac{(dr)^2 + (dz)^2}{r^2} = [\frac{Z^2}{(2Zz - z^2)^2} - \frac{2E}{2Zz - z^2}] (dz)^2$
+
+$= \frac{Z^2}{(2Zz - z^2)^2} [1 - \frac{2E}{Z^2} \frac{2Zz - z^2}{Z^2}] (dz)^2$
+
+Taking the square root of (8) we find
+(9) $\frac{\sqrt{(dr)^2 + (dz)^2}}{r} = \frac{Z}{2Zz - z^2} [1 - E \frac{2Zz - z^2}{Z^2}] (dz)$
+
+$= [\frac{Z}{2Zz - z^2} - \frac{E}{Z}] (dz)$

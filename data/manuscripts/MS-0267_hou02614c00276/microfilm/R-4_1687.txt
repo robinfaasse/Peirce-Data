@@ -1,0 +1,36 @@
+[fig]Sketch of a closed loop with cross-hatching[/fig] [fig]Sketch of a figure-eight loop and a circle[/fig] [fig]Sketch of a ribbon loop with a twisted band[/fig]
+
+<u>A List of Surfaces.</u>
+
+I. The [del]simple[/del] [ins]artiad[/ins] surface for which $\chi = 1$ $K = 0$ $\Pi = 1$ [del]$\Theta = 0$[/del]
+[marginalia]$\mathcal{C} = 2$[/marginalia] [ins]$S = 0$[/ins]
+
+<u>Surfaces cut out of an artiad surface</u>
+
+[marginalia]($\mathcal{C} = 1$)[/marginalia] [del]1[/del] [ins]1 i[/ins] The [del]two[/del] [ins]plate[/ins] for which $\chi = 1$ $K = 0$ $\Pi = 0$ & $\chi Z_1 = 1$ $K Z_1 = 1$ [ins]Otherwise no $S$ nor $S Z$[/ins]
+[marginalia]($\mathcal{C} = 0$)[/marginalia] 1 ii The washer-ring for which $\chi = 1$ $K = 1$ $\Pi = 0$ $\chi Z_1 = 2$ $K Z_1 = 2$ [ins]Otherwise no $S, Z_1$ or $S Z_1$[/ins]
+[marginalia]($\mathcal{C} = -1$)[/marginalia] 1 iii The mask for which $\chi = 1$ $K = 2$ $\Pi = 0$ $\chi Z_1 = 3$ $K Z_1 = 3$ [ins]Otherwise no $S, Z_1$ or $S Z$[/ins]
+And so on to Infinity.
+
+<u>Surfaces made by joining two plates</u>
+
+[marginalia]($\mathcal{C} = 1$)[/marginalia] 2 i. The [del]simple[/del] tacked biplate $\chi = 1$ $K = 0$ $\Pi = 0$ $X S = 1$ $\chi Z_2 = 2$ $K Z_2 = 2$ [ins]Otherwise no $S_2, Z_2$ or $S Z$[/ins]
+[marginalia]$\mathcal{C} = 0$[/marginalia] 2 ii The doubly tacked biplate $\chi = 1$ $K = 1$ $\Pi = 0$ $X S = 2$ $\chi Z_2 = 2$ $K Z_2 = 2$ [ins]Otherwise no $S_2, Z_2$ or $S Z$[/ins]
+[marginalia]$\mathcal{C} = -1$[/marginalia] 2 iii The triply tacked biplate $\chi = 1$ $K = 2$ $\Pi = 0$ $X S = 3$ $\chi Z_2 = 2$ $K Z_2 = 2$ [ins]Otherwise no $S_2, Z_2, S Z$[/ins]
+and so on to infinity
+
+3 i The [del]edge[/del] [ins]simple[/ins] tacked biplate $\chi = 1$ $K = 0$ $\Pi = 0$ $\chi Z_1 = 1$ $K Z_1 = 2$ [ins]$X S_1 Z_1 = 1$ Otherwise no $S Z, S$ or $S Z$[/ins]
+3 ii The doubly edge tacked biplate $\chi = 1$ $K = 1$ $\Pi = 0$ $\chi Z_1 = 1$ $K Z_1 = 3$ $X S_1 Z_1 = 2$
+3 iii The triply edge tacked biplate $\chi = 1$ $K = 2$ $\Pi = 0$ $\chi Z_1 = 1$ $K Z_1 = 4$ $X S_1 Z_1 = 3$
+and so to $\infty$
+
+4 i The simple self-tacked plate
+
+<u>Half twisted ribbon.</u>
+
+$\chi_r = 1$ $K_r = 1$ $\Pi_r = 0$
+
+[del]$K_r' = 1$[/del] $\chi_r' = 1$
+$K_r' = 1$ $K_r' = 0$
+$\Pi_r' = 0$ $\Pi_r' = 0$
+$0 + 1 = 1$

@@ -1,0 +1,47 @@
+Every addition [ins]of L to the[/ins] [del]shadows[/del] chorisis of a color
+[u]Cuts down[/u]
+Adds 3 more to the chorisis of lines [del]at[/del] bordering on that
+color than it adds to the chorisis of other lines
+
+[fig]Diagram of four intersecting circles labeled 1, 2, 3, 4[/fig]
+12  13  14  23  24  34      123  124  134  234
+
+[fig]Diagram of four intersecting circles labeled 1, 2, 3, 4[/fig]
+Cut off 1 summit
+adds 3 to lines
+bordering on 4
+Adds 3 summits on 4
+
+12  (13  14  23  24  34      —  124  134  234
+         14      24  34         124  134  234
+
+[fig]Diagram of three regions 1, 2, 3 inside a circle 4[/fig]
+Cuts of
+no summit
+adds 2 lines
+bordering on 4
+and neighboring
+Adds 2 summits
+on 4
+
+12  13  14  23  24  34      123  124  134  234
+12      14      24               124
+                                 124
+
+[fig]Diagram of four regions 1, 2, 3, 4[/fig]
+Cut off 2 summits
+
+Adds 4 lines
+bordering on 4
+Cuts off 1 neighboring
+
+Adds 4 summits on 4
+
+12  13  14  23  24  34      123  124  134  —
+12  13  14                  123  124  132
+
+12  13  14  —  24  34      —  124  134  —
+12  13  14     24  34         124  134
+        14                    124  134
+        14                    124  134
+        /

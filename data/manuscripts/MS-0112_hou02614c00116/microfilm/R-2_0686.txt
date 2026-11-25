@@ -1,0 +1,78 @@
+$$
+ax + by + c = 0
+$$
+$$
+a'x + b'y + c' = 0
+$$
+$$
+a''x + b''y + c'' = 0
+$$
+
+$$
+(a^2 + a'^2 + a''^2)x^2 + (b^2 + b'^2 + b''^2)y^2 + (c^2 + c'^2 + c''^2)z^2
+$$
+$$
++ 2(ab + a'b' + a''b'')xy + 2(ac + a'c' + a''c'')x + 2([del]bc + b'c' + b''c''[/del] [ins]bc+b'c'+b''c''[/ins])y = 0
+$$
+
+$$
+A + B = 0 \qquad\qquad\qquad [del]A = 0[/del]
+$$
+$$
+C + D = 0 \qquad\qquad\qquad [del]B = 0[/del]
+$$
+$$
+AD - BC = 0
+$$
+$$
+D = \frac{BC}{A}
+$$
+$$
+C + D = \frac{AC + BC}{A} = (A + B)\frac{C}{A} = 0
+$$
+
+$$
+\begin{aligned}
+ax + b &= 0 \\
+x + [del]x[/del] [ins]2[/ins] &= 0 \\
+\\
+ax - b &= 0
+\end{aligned}
+\qquad\qquad
+\begin{aligned}
+ax + by + cz &= 0 \\
+a'x + b'y + c'z &= 0 \\
+a''x + b''y + c''z &= 0
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+ax + b &= 0 \\
+x [del]+ c[/del] [ins]- d[/ins] &= 0
+\end{aligned}
+\qquad\qquad
+\begin{aligned}
+[del]x = x_1[/del] \quad x &= (x : \xi)(\xi : 1) \\
+y &= (y : \eta)(\eta : 1)
+\end{aligned}
+$$
+
+$$
+(ad + bc)x + 2bd = 0 \qquad\qquad\qquad z
+$$
+$$
+acx^2 - bd = 0 \qquad\qquad\qquad
+\begin{aligned}
+ax + [del]b[/del] [ins]a'[/ins]y + a''z &= 0 \\
+[del]b[/del] [ins]b'[/ins]x + b'y + b''z &= 0 \\
+cx + c'y + c''z &= 0
+\end{aligned}
+$$
+
+$$
+(bc' - cb')a'' + (ca' - ac')b'' + (ab' - [del]ba'[/del] [ins]ba'[/ins])c'' = 0
+$$
+$$
+(a'b'' - b'a'')c + (b'a'' - ab'')c' + (ab' - ba')c'' = 0
+$$

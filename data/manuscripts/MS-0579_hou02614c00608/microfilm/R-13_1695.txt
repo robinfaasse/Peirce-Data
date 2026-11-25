@@ -1,0 +1,15 @@
+[ins]principle of repeated consequence[/ins]
+[u]3[sup]d[/sup] algebraic rule[/u]. If a is true then
+(a < b) < b is true. For by Theorem II if a < b
+is true, b is true and thence by Theorem I
+(a < b) < b is true.
+
+[u]4[sup]th[/sup] algebraic rule[/u]. If b < c is true then
+(a < b) < a < c is true. For by [ins]the 3[sup]d[/sup] Rule[/ins],
+if a is true [del](a < b) < b is true[/del] [ins]and a < b is true[/ins] then b is true
+and if b is true and b < c is true, then c
+is true. Hence by Theorem I if b < c is true
+the (a < b) < a < c is true.
+
+[u]5[sup]th[/sup] algebraic rule[/u] Principle of contraposition
+If a < b is true then (b < c) < a < c is true.

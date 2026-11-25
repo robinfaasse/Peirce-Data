@@ -1,0 +1,11 @@
+[pn]12[/pn] is obtainable just as, in decimal arithmetic, the remainder
+after division by 999 might be obtained. Namely, separate the [del]second[/del]
+expression of the dividend into periods of three figures each, [ins]beginning[/ins] [del]however[/del]
+with [del]that[/del] [ins]the[/ins] [del]three[/del] lowest power [del]of two[/del], write these periods under one another
+as separate numbers, and add them. If the sum exceed seven treat it
+in the same way, and the first sum less than seven will be the
+remainder in question. [ins]Take for example as dividend the number of the year [del]above[/del] [ins]show[u]n[/u][/ins] 11101110110[/ins]
+
+[fig]Long division calculation[/fig]
+
+[fig]Addition and division calculation[/fig]

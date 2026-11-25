@@ -1,0 +1,21 @@
+[marginalia]
+I of N
+25
+[/marginalia]
+
+these quantities to be very small. Then the odds, or ratio of favor-
+able to unfavorable cases, that the witnesses [ins]when they all[/ins] tell the truth [del]about[/del] [ins]about[/ins] this story is
+[del]((1-a)[/del] [ins]$\frac{(1-a)}{a}$[/ins] $\times \frac{(1-a')}{a'} \times \frac{(1-a'')}{a''}$ etc $\times \frac{b}{1-b} \times \frac{b'}{1-b'} \times \frac{b''}{1-b''}$ etc
+
+But if we are to speak of [del]a human action[/del] [ins]a necessary[/ins] event as "infinitely
+probable" and of an impossible event as "infinitely improbable"
+we should measure the probabilities by the logarithms of the odds,
+which we may call "likelihoods."
+[del]Then let us write[/del] [ins]$\alpha = \log \frac{1-a}{a}$, $\alpha' = \log \frac{1-a'}{a'}$ etc. which[/ins]
+will be large positive quantities, the "likelihood" that the different
+witnesses tell the truth; and let us write $\beta = \frac{\log \frac{1-b}{b}}{\log \frac{1-b'}{b'}}$ etc
+the "likelihood" that the different items of the story are false, which
+will also be the large positive quantities. Then the "likelihood" that [del]the[/del]
+witnesses all agreeing in testifying to all these items tell the truth will
+be $(\alpha + \alpha' + \alpha'' + \text{etc} - \beta - \beta' - \beta'' - \text{etc})$. This shows that the
+expression "balancing of likelihoods" is mathematically correct.

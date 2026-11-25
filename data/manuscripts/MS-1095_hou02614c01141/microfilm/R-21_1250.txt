@@ -1,0 +1,17 @@
+If $a$ is the radius of the pendulum, take [del]any[/del] [ins]any[/ins] two numbers $m$ and $n$ such that
+$$m > n > [del]1[/del] [ins]0[/ins]$$
+
+Then take
+$$\chi = \frac{2Umn}{m-n} \frac{a^{2n}}{[del]a^{2(m-n)}[/del]} \frac{1}{2n} \frac{y}{(x^2+y^2)^n} - \frac{2Um}{m-n} \frac{a^{2n}}{2m} \frac{y}{(x^2+y^2)^m}$$
+
+$$u = D_y \chi = \frac{2Umn}{m-n} \frac{a^{2n}}{[del]a^{2(m-n)}[/del]} \frac{\frac{x^2+y^2}{2n} - y^2}{(x^2+y^2)^{n+1}} - \frac{2U}{m-n} \frac{\frac{x^2+y^2}{2m} - y^2}{(x^2+y^2)^{m+1}} \cdot mn a^{2m}$$
+
+$$+ v = [del]-[/del] D_x \chi = \frac{2Umn}{m-n} \frac{a^{2n}}{[del]a^{2(m-n)}[/del]} \frac{xy}{(x^2+y^2)^{n+1}} - \frac{2U}{m-n} \frac{mn a^{2n} xy}{(x^2+y^2)^{m+1}}$$
+
+When $x^2+y^2 = a^2$, the denominators become equal, and $v$ vanishes, while $u$ reduces to $U$. On the other hand, if $x^2+y^2 = \infty$, both components of the velocity vanish.
+
+$$D_x v = U \frac{2mn}{m-n} a^{2n} y \frac{y^2 - (2n+1)x^2}{(x^2+y^2)^{n+2}} - U \frac{2mn}{m-n} a^{2m} y \frac{y^2 - (2m+1)x^2}{(x^2+y^2)^{m+2}}$$
+
+$$D_y u = U \frac{2mn}{m-n} a^{2n} (\frac{1}{n} - 2) y$$
+
+But this does not satisfy the hydrodynamic equation.

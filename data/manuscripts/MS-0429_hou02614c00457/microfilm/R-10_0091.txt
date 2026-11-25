@@ -1,0 +1,35 @@
+[pn]79.[/pn]
+[pn]386[/pn]
+
+definition of aggregation [u]a[/u] [u]Y[/u] [u]b[/u] [u]Y[/u] [u]c[/u] [u]Y[/u] ... [u]k[/u] [u]Y[/u] [u]l[/u] [u]Y[/u] [u]m[/u] [u]Y[/u] [u]n[/u] is not
+equal to [u]f[/u], and must be equal to [u]v[/u] and hence when written on a
+sheet of assertions, must be true.
+
+[marginalia]93[/marginalia] But if an aggregate has two aggregants only, then, by the
+first and second clauses of the definition of aggregation, if
+either of those aggregants is true, and so equal to [u]v[/u], and not
+to [u]f[/u], then the aggregate cannot have the value [u]f[/u], but must have
+the value [u]v[/u], and when written on a sheet of assertions must con-
+stitute a true assertion.
+
+[u]Corollary[/u]. It follows that every composite is true or
+equal to [u]v[/u] only in case all its components are so; being false,
+or equal to [u]f[/u], if any one of its components are so; while an
+aggregate is true, or equal to [u]v[/u], if any one of its aggregants
+is so, and is only false, or equal to [u]f[/u], if all its aggregants
+are so. But this applies only to composites and aggregants
+which can be written out.
+
+[marginalia]XI[/marginalia] [u]XI. If every one of the components of a composite might,
+with truth, be written upon a sheet of assertions, the composite
+itself can be so written, if it can be written out.[/u]
+
+[u]Demonstration[/u]. I shall use the [del]Termination[/del] [ins]Fermatian[/ins] method. As-
+sume that it is true of the composite (which can be written out)
+[u]a[/u] [u]b[/u] [u]c[/u] ... [u]k[/u] [u]l[/u] [u]m[/u]. Then it is also true of the composite [u]a[/u] [u]b[/u] [u]c[/u]
+... [u]k[/u] [u]l[/u] [u]m[/u] [u]n[/u], by the third clause of the definition of composi-
+tion. It is true of every composite of two components by the
+same clause. Hence it is always true.
+
+[marginalia]XII[/marginalia] [u]XII. If an aggregate might, with truth, be written out
+upon a sheet of assertions, then some one of its aggregants might[/u]

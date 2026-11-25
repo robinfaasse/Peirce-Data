@@ -1,0 +1,28 @@
+[pn]132[/pn] SOLID GEOMETRY. [CH. XVIII. § 445.
+
+[u]Sides and Angles of polar Triangle.[/u]
+
+[u]444. Definition.[/u] The triangle $DEF$ is called the [u]polar triangle[/u] of $ABC$, and in the same way $ABC$ is the [u]polar triangle[/u] of $DEF$.
+
+As several different triangles might be formed by producing the sides $DE$, $EF$, and $DF$, we shall limit ourselves to the one $DEF$, such that the pole $D$ of $BC$ is on the same side of $BC$ with the vertex $A$; $E$ is on the same side of $AC$ with the vertex $B$; and $F$ is on the same side of $AB$ with the vertex $C$.
+
+[u]445. Theorem.[/u] If the sides and angles of a spherical triangle and of its polar triangle are expressed in degrees, minutes, &c., the sides of either triangle thus expressed are respectively supplements of the angles of the other triangle.
+
+[u]Proof.[/u] Produce the sides $AB$, $AC$ (fig. 181), if necessary, to $G$ and $H$.
+
+Since $F$ is the pole of $AB$, and $E$ the pole of $AC$, we have, by § 425,
+$$EH = FG = 90^{\circ}.$$
+
+Hence
+$$EF = EH + HF = 90^{\circ} + HF$$
+$$GH = GF - HF = 90^{\circ} - HF,$$
+and, therefore,
+$$EF + GH = 180^{\circ}.$$
+
+But, by § 441 and 442,
+$$GH = \text{the angle } BAC,$$
+hence
+$$EF + \text{the angle } BAC = 180^{\circ};$$
+that is, the side $EF$ and the angle $BAC$ are supplements of each other.
+
+In the same way it may be shown, that $DF$ and the an-
