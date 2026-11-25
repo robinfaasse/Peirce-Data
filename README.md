@@ -1,6 +1,6 @@
 # Peirce data
 
-Data cleaning for the Peirce manuscripts (Collaborative Data Project).
+Data cleaning and dating models for the Peirce manuscripts (Collaborative Data Project).
 
 ## Contents
 
@@ -29,3 +29,16 @@ Steps, in order:
 5. link text and dates (`data/manuscripts_dataset.csv`, utf-8-sig, text in one cell)
 
 All outputs are generated, so they are in `.gitignore`; run the script to make them.
+
+## Dating models
+
+`code/dating/` holds three models that estimate the year of a manuscript with
+an 80% and 95% range, compared with grouped 5-fold cross-validation. See
+[`code/dating/README.md`](code/dating/README.md) for the design and results.
+
+```
+pip install -r requirements.txt
+python code/clean_data.py
+python code/dating/train_evaluate.py
+python code/dating/predict.py data/manuscripts/MS-0001_hou02614c00003
+```

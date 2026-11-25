@@ -1,0 +1,8 @@
+{
+  "n_train": 914,
+  "n_groups": 776,
+  "k": 5,
+  "expert_disagreement_mae": 0.749266862170088,
+  "n_with_two_sources": 341,
+  "best_model": "hybrid_gbm"
+}
