@@ -1,12 +1,14 @@
 """Load manuscripts_dataset.csv and build the modelling target."""
 import os
+import sys
 
 import numpy as np
 import pandas as pd
 
 from features import preprocess
 
-DATA = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "data")
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
+from clean_data import FOLDER as DATA  # noqa: E402  (data/ or Data/peirce_transcriptions/)
 SOURCES = ["irvine", "houghton", "robin"]
 
 # Training uses manuscripts whose sources agree to within this many years

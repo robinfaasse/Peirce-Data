@@ -31,6 +31,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 from mapie.regression import CrossConformalRegressor
+from sklearn.decomposition import TruncatedSVD
 from sklearn.model_selection import GroupKFold
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -82,6 +83,28 @@ def metrics(y, p):
             row[f"coverage_{q}"] = ((y >= p[f"lo{q}"]) & (y <= p[f"hi{q}"])).mean()
             row[f"width_{q}"] = (p[f"hi{q}"] - p[f"lo{q}"]).mean()
     return row
+
+
+def shrink_for_saving(obj, seen=None):
+    """Store the SVD topic matrices of hybrid_gbm as float32 instead of
+    float64: halves the file (~470 -> ~240 MB). Estimates move by well under
+    a year, far inside the CV error."""
+    seen = set() if seen is None else seen
+    if id(obj) in seen:
+        return
+    seen.add(id(obj))
+    if isinstance(obj, TruncatedSVD) and hasattr(obj, "components_"):
+        obj.components_ = obj.components_.astype(np.float32)
+    if isinstance(obj, (list, tuple)):
+        children = obj
+    elif isinstance(obj, dict):
+        children = obj.values()
+    elif hasattr(obj, "__dict__") and type(obj).__module__.split(".")[0] in ("sklearn", "mapie"):
+        children = vars(obj).values()
+    else:
+        return
+    for child in children:
+        shrink_for_saving(child, seen)
 
 
 def evaluate(df, X, y, groups):
@@ -216,10 +239,16 @@ def main():
     for name in MODELS:
         t0 = time.time()
         cp = conformal(name).fit_conformalize(X, y, groups=groups)
+        shrink_for_saving(cp)
         joblib.dump(cp, os.path.join(MODEL_DIR, f"{name}.joblib"), compress=3)
         print(f"final {name} saved ({time.time() - t0:.0f}s)")
     with open(os.path.join(MODEL_DIR, "best_model.txt"), "w") as f:
         f.write(best + "\n")
+    # Saved models only load with the same library versions.
+    import mapie, sklearn
+    with open(os.path.join(MODEL_DIR, "versions.txt"), "w") as f:
+        f.write(f"python {sys.version.split()[0]}\nscikit-learn {sklearn.__version__}\n"
+                f"mapie {mapie.__version__}\nnumpy {np.__version__}\npandas {pd.__version__}\n")
 
 
 if __name__ == "__main__":

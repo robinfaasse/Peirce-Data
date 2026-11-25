@@ -8,7 +8,7 @@ with an 80% and a 95% prediction interval (conformal prediction, MAPIE).
 ```
 pip install -r requirements.txt
 python code/clean_data.py                      # makes data/manuscripts_dataset.csv
-python code/dating/train_evaluate.py           # ~20 min: CV comparison + final models in models/ (~500 MB, not in git)
+python code/dating/train_evaluate.py           # ~20 min: CV comparison + final models in models/ (~250 MB, not in git)
 python code/dating/predict.py data/manuscripts/MS-0001_hou02614c00003
 python code/dating/predict.py --id 1 --all-models
 python code/dating/predict.py --undated        # all undated -> results/undated_predictions.csv
