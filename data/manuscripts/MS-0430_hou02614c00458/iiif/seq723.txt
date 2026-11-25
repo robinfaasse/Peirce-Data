@@ -1,0 +1,23 @@
+Logic
+III
+53
+X
+
+That is the formula of identity, involved in the meaning
+of [u]e[/u]. Then the second clause becomes
+If [u]x[/u][u]ε[/u][u]s[/u] and [u]r[/u][u]ε[/u][u]r[/u], then [u]r[/u][u]ε[/u][u]r[/u][u]e[/u][u]s[/u]
+Since then, we assume [u]r[/u][u]ε[/u][u]s[/u], it follows that [u]r[/u][u]ε[/u][u]r[/u][u]e[/u][u]s[/u]. The
+fourth clause becomes
+Either there is some term [ins]t[/ins] [del]t[/del] such that [u]t[/u][u]ε[/u][u]r[/u] and [u]t[/u][u]ε[/u][u]s[/u] are true
+but [u]t[/u][u]ε[/u][u]r[/u] is not true, or [u]r[/u][u]e[/u][u]s[/u] [u]⸦[/u] [u]r[/u].
+There evidently can be no term such that [u]t[/u][u]ε[/u][u]r[/u] is both
+true and not true; hence [u]r[/u][u]e[/u][u]s[/u] [u]⸦[/u] [u]r[/u]. Since then both
+[u]r[/u][u]ε[/u][u]r[/u][u]e[/u][u]s[/u] and [u]r[/u][u]e[/u][u]s[/u] [u]⸦[/u] [u]r[/u], we have, by the definition of [u]=[/u][u]e[/u],
+[u]r[/u] [u]=[/u][u]e[/u] [u]r[/u][u]e[/u][u]s[/u] as a consequence of [u]r[/u][u]ε[/u][u]s[/u]. On the other hand, [del]given[/del]
+substituting the same letters for [u]x[/u], [u]y[/u], [u]z[/u], the first and third
+clauses of the definition of [u]x[/u][u]e[/u][u]y[/u] becomes
+If [u]r[/u] [u]=[/u][u]e[/u] [u]r[/u][u]e[/u][u]s[/u], then [u]r[/u][u]ε[/u][u]r[/u] and [u]r[/u][u]ε[/u][u]s[/u].
+[del]If [u]r[/u][u]e[/u][u]s[/u] [u]⸦[/u] [u]r[/u], then of whatever term [u]t[/u] it may be true that
+[u]t[/u] [u]ε[/u] [u]r[/u] and [u]t[/u] [u]ε[/u] [u]s[/u], it is true that [u]t[/u][/del]
+But if [u]r[/u] [u]=[/u] [u]r[/u][u]e[/u][u]s[/u], it follows by the definition of [u]=[/u][u]e[/u] that
+[u]r[/u][u]ε[/u][u]r[/u][u]e[/u][u]s[/u] and hence that [u]r[/u][u]ε[/u][u]s[/u]. We have thus proved that

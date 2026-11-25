@@ -1,0 +1,27 @@
+$$x^3 - 7x + 6 = 0$$
+
+$$\begin{array}{ccc}
+x_1 + x_2 + x_3 = 0 & x_1 x_3 + x_2 (x_1 + x_3) = -7 & x_1 x_2 x_3 = -6 \\
+x_1 = -x_2 - x_3 & x_2 = - \frac{7 + x_1 x_3}{x_1 + x_3} & x_3 = - \frac{6}{x_1 x_2} \\
+& = \frac{7 + x_1 x_3}{\text{last } x_2} &
+\end{array}$$
+
+$$\begin{array}{ccc}
+1 & & 10 \\
+- 11 & - 103 & - 0.053 \\
++ 103 \begin{array}{r} -5.46 \\ 103 \overline{) + 1.54} \end{array} & - 0.015 \begin{array}{r} 1.54 \\ \cdot 257 \end{array} & + 3.90 \\
+- 3.89 \begin{array}{r} -15.17 \\ \cdot 015 \overline{) - 8.17} \end{array} & + 54.5 \begin{array}{r} 0.2120 \\ 35.3 \end{array} & + 0.0283 \\
+- 54.5 \begin{array}{r} -1.54 \\ 54.5 \overline{) 5.46} \end{array} & + 1 \begin{array}{r} 0.52.5 \\ 9.08 \end{array} & + 0.110 \\
+- 1.11 \begin{array}{r} -0.1221 \\ ) 6.779 \end{array} & + 6.88 \begin{array}{r} 0.7657 \\ 1.273 \end{array} & + 0.786 \\
+- 7.67 \begin{array}{r} -6.029 \\ 6.88 \overline{) 971} \end{array} & + 0.141 \begin{array}{r} 1.0815 \\ \cdot 18025 \end{array} & + 5.55 \\
+- 5.69 \begin{array}{r} -31.58 \\ .141 \overline{) -24.58} \end{array} & - 174 \begin{array}{r} 0.990 \\ 165 \end{array} & - 0.00606 \\
++ 174 \begin{array}{r} -1.05 \\ -174 \overline{) + 5.95} \end{array} & - 0.0342 \begin{array}{r} 5.95 \\ \cdot 992 \end{array} & + 1.008 \\
+- 0.974 \begin{array}{r} -.982 \\ ) 6.02 \end{array} & - 176 \begin{array}{r} 1.1714 \\ 28.5 \end{array} & - 0.035 \\
++ 176 \begin{array}{r} -6.16 \\ 176 \overline{) + 0.840} \end{array} & - 0.00477 \begin{array}{r} 0.040 \\ 0.14 \end{array} & + 7.14 \\
+- 7.14 \begin{array}{r} -5.058 \\ \cdot 177 \overline{) 1.902} \end{array} & - 399 \begin{array}{r} 6) 2.0489 \\ 471.5 \end{array} & - 0.00211 \\
++ 399 & - 0.0154 \begin{array}{r} 6) 6.158 \\ 1.026 \end{array} & + 0.974 \\
+- 0.959 \begin{array}{r} -0.842 \\ ) 6.155 \end{array} & - 394 \begin{array}{r} 378.8 \text { both} \\ 63.1 \text { 1.011} \end{array} & - 0.0158 \\
++ 394 \begin{array}{r} -0.934 \\ 154 \overline{) 6.066} \end{array} & - 0.00197 \begin{arrayr} 90.775 \\ \cdot 129117 \end{array} & + 7.74 \\
+- 7.74 \begin{array}{r} -6.225 \\ 394 \overline{) 0.775} \end{array} & - 507 \begin{array}{r} 6) 2.324 \\ 654 \end{array} & - 0.00153 \\
++ 507 \begin{array}{r} -5.991 \\ \cdot 0197 \overline{) \cdot 9985} \end{array} & - 0.0123 \begin{array}{r} 6) 6.224 \\ 1.0372 \end{array} & + 0.964 \\
+- 0.952 \begin{array}{r} -0.776 \\ 507 \overline{) 6.224} \end{array} & & \end{array}$$

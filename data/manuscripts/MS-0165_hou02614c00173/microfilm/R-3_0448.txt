@@ -1,0 +1,33 @@
+[pn]201[/pn]
+
+88. A speculator hearing [ins]in it[/ins] the price of certain stock quoted,
+determines to invest $160; but, before he can secure [del]them[/del] [ins]the stocks,[/ins] the
+price per share is $1 more; so that he [del]buys[/del] [ins]gets[/ins] 3 fewer shares
+for his $160. How many shares did he buy?
+Let n be the number. Then,
+$\frac{\$160}{n} = \frac{\$160}{n+3} + \$1$;
+$\$180 = \$1 \times n(n+3)$;
+$n = -\frac{3}{2} \pm \sqrt{\frac{9}{4} + 180} = -\frac{3}{2} \pm \frac{27}{2}$.
+That is, he either bought 12 or sold 15. If he bought 12, he gave
+$5 a piece for them. If he sold 15, he gave the buyer
+a bonus of $5 a piece to take them off his hands.
+
+[marginalia]
+[fig]Mathematical calculations in margin[/fig]
+[/marginalia]
+
+89. A [del]person[/del] [ins]lady[/ins] being asked her age, [del]replied she should not divulge[/del] [ins]refused to do so,[/ins]
+it. But being told by his Honor she must, she said: "My mother
+was 20 years old when she gave birth to me; and, even now, our
+united ages lacks full 2500 of equalling the product of the two."
+
+90. What two numbers have 41 for their sum, and 901 for
+the sum of their [del]squares[/del] [ins]values[/ins]? Let the numbers be the two roots
+of $x$ and let $p$ be their product. Then
+$x^2 - 41x + p = 0$
+$x^4 - 901x + p^2 = 0$
+The first equation gives $p^2 = x^4 - 82x^3 + 1681x^2$,
+which substituted in the other equations [del]gives[/del]
+$2x^4 - 82x^3 + 780x^2 = 0$
+or dividing by $2x^2$, $x^2 - 41x + 390$. Whence
+$x = -\frac{41}{2} \pm \sqrt{420\frac{1}{4} - 390} = -\frac{41}{2} \pm \sqrt{30\frac{1}{4}} = -\frac{41}{2} \pm \frac{11}{2}$

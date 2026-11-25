@@ -1,0 +1,26 @@
+$X x = \psi \{ \Phi [ (X V), x ], [ \Phi [ (X \overline{V}), \overline{x} ] \} \quad 1909 \text{ Feb } 17 \quad 342 \text{ r}$
+
+$X x = \text{ [del] } X A \text{ [/del] } \quad \Phi ( N, F ) = F \quad \Phi ( F, V ) = V$
+$\overline{x} \text{ is such a function of } x \text{ that } \Phi ( x, \overline{x} ) = F \quad \psi ( x, \overline{x} ) = V$
+
+$\psi \{ a, \Phi ( b, c ) \} = \text{ [del] } \Phi \{ \psi \text{ [/del] } \Phi \{ \psi ( a, b ), \psi ( a, c ) \}$
+$\Phi \{ a, \psi ( b, c ) \} = \psi \{ \Phi ( a, b ), \Phi ( a, c ) \}$
+
+[fig] figure [/fig] $\psi \{ a, \Phi ( b, a ) \} = \Phi \{ \psi ( a, a ), \psi ( a, b ) \} = \Phi \{ a, \psi ( a, b ) \}$
+$\Phi ( F, x ) = x \quad \Phi ( V, x ) = V \quad \Phi ( a, a ) = a$
+$\psi ( V, x ) = x \quad \psi ( F, x ) = F \quad \psi ( a, a ) = a$
+
+$\psi \{ a, \Phi ( a, b ) \} = a$
+$\Phi \{ a, \psi ( a, b ) \} = a$
+
+$X x = \psi \{ \Phi ( x, i ), \Phi ( \overline{x}, j ) \}$
+$X V = \psi \{ \Phi ( V, i ), \Phi ( F, j ) \} = \psi \{ V, j \} = j$
+$X F = \psi \{ \Phi ( F, i ), \Phi ( V, j ) \} = \psi \{ i, V \} = i$
+[del] $X x = \psi \{ \Phi ( X V, x ), \Phi ( X \overline{V}, \overline{x} ) \}$ [/del]
+
+[del] $X x = $ [/del] $N V = F \quad N F = V$
+$N x = \psi \{ \Phi ( N V, x ), \Phi ( N F, N x ) \} = \psi \{ \Phi ( F, x ), \Phi ( V, N x ) \} = [del] y \text{ [/del] } x$
+[del] $N x = \psi \{ \Phi ( F, x ),$ [/del] $= \psi \{ x, [del] N V \text{ [/del] } V \} = x$
+$X x = \psi \{ \Phi ( N F, x ), \Phi ( N V, \overline{x} ) \} = \psi \{ \Phi ( V, x ), \Phi ( F, \overline{x} ) = \psi ( V, \overline{x} ) = \overline{x}$
+
+Thus as soon as $X V \text{ and } X F$ [ins] $F V \text{ and } F F$ [/ins] [del] and $F V$ [/del] are known $F x$ generally is known.

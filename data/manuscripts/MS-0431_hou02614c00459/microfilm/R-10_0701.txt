@@ -1,0 +1,23 @@
+[marginalia]
+Logic
+III
+143
+[/marginalia]
+
+or, for two letters,
+[u]F[/u]'xy = ([u]F[/u]'v,v)·xy + ([u]F[/u]'v,f)·x[u]y[/u] + ([u]F[/u]'f,v)·[u]x[/u]y + ([u]F[/u]'f,f)·[u]x[/u][u]y[/u].
+
+In order to eliminate a letter, say x, when an expression
+containing it [del]as [u]F[/u]'x[/del] is asserted, it is only necessary to assert
+[u]F[/u]'v + [u]F[/u]'f ;
+
+for if [u]F[/u]'x has the value v, it either has this value, x being v
+or x being f. The only cases in which elimination is useful
+are when the assertions have [del]one of[/del] the forms (ax+y)([u]x[/u]+b)
+and ax[u]y[/u]([u]x[/u]+b), from one we get a+b and ab. There is, there-
+fore, no need of [ins]the[/ins] general method.
+
+Dichotomic mathematics is a very small subject. Its sub-
+stance is slight. But it enters as an element into all other
+mathematics and is the chief mathematics of logic; so that,
+on the whole, its importance is great.

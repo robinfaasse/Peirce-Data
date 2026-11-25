@@ -1,0 +1,19 @@
+[u]Solution of Quadratic[/u]
+[u]Equation[/u].
+
+$Ax^2 + Bx + C = 0$
+
+$x = - \frac{B \pm \sqrt{B^2 - 4AC}}{2A} = - \frac{2C}{B \mp \sqrt{B^2 - 4AC}}$
+
+If $\frac{4AC}{B^2} < 1$, this is developable in series.
+Namely, putting $x_1$ for large root $x_2$ for small.
+
+$x_1 = - \frac{B}{A} + \frac{C}{B} (1 + \frac{AC}{B^2} + 2 \frac{A^2C^2}{B^4} + 5 \frac{A^3C^3}{B^6} + \text{etc})$
+
+$x_2 = - \frac{C}{B} (1 + \frac{AC}{B^2} + 2 \frac{A^2C^2}{B^4} + 5 \frac{A^3C^3}{B^6} + \text{etc})$
+
+Given $Ax^2 + Bx - C = 0$
+
+If $\frac{B^2}{4AC} < 1$
+
+$x = - \frac{B}{2A} \pm \sqrt{\frac{C}{A}} \cdot (1 + \frac{B^2}{8AC} - \frac{B^4}{128 A^2C^2} + \text{etc})$

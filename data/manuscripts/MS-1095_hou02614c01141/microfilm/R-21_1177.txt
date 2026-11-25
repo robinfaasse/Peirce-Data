@@ -1,0 +1,23 @@
+$\sqrt{1-x^2}$ ) 1
+$\frac{\sqrt{1-x^2}}{1 - \sqrt{1-x^2}}$
+
+[del]$\sqrt{1-x^2}$[/del] $D^0 = (1-x^2)^{\frac{1}{2}}$
+$D^1 = [del]x[/del] -x(1-x^2)^{-\frac{1}{2}}$
+$D^2 = -(1-x^2)^{-\frac{1}{2}} - x^2(1-x^2)^{-\frac{3}{2}}$
+$D^3 = [del]2[/del]3x(1-x^2)^{-\frac{3}{2}} - 3x^3(1-x^2)^{-\frac{5}{2}}$
+$D^4 = -3(1-x^2)^{-\frac{3}{2}} - [del]15[/del][ins]12[/ins]x^2(1-x^2)^{-\frac{5}{2}} - 15x^4(1-x^2)^{-\frac{7}{2}}$
+$D^5 = -[del]36[/del][ins]15[/ins]x(1-x^2)^{-\frac{5}{2}} - [del]120[/del][ins]90[/ins]x^3(1-x^2)^{-\frac{7}{2}} - [del]105[/del][ins]105[/ins]x^5(1-x^2)^{-\frac{9}{2}}$
+$D^6 = -[del]36[/del][ins]15[/ins](1-x^2)^{-\frac{5}{2}} - [del]540[/del][ins]525[/ins]x^2(1-x^2)^{-\frac{7}{2}} - [del]1325[/del][ins]1575[/ins]x^4(1-x^2)^{-\frac{9}{2}} - 945x^6(1-x^2)^{-\frac{11}{2}}$
+$D^7 = -[del]180[/del][ins]1260[/ins]x(1-x^2)^{-\frac{7}{2}} - [del]1080[/del]
+
+[fig]Lines connecting coefficients to terms below[/fig]
+
+$1 - \frac{1}{2!}x^2 - \frac{[del]2[/del][ins]3[/ins]}{4!}x^4 - \frac{[del]3[/del][ins]15[/ins]}{6!}x^6 - \frac{[del]35[/del][ins]105[/ins]}{8!}x^8 - $
+
+$\frac{1}{2}$
+$\frac{1}{12}$
+$\frac{1}{48}$
+
+[fig]Arithmetic calculations[/fig]
+
+146

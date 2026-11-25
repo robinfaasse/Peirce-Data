@@ -23,7 +23,7 @@ cell (all whitespace collapsed to single spaces).
 
 The original files in manuscripts/ are never changed.
 
-Usage: python clean_data.py [folder]   (default: FOLDER below)
+Usage: python code/clean_data.py [folder]   (default: the repo's data/ folder)
 """
 import json
 import os
@@ -33,7 +33,8 @@ import sys
 import pandas as pd
 
 # Folder that contains manuscripts/, index.csv and collection_metadata.json.
-FOLDER = "/Users/robinfaasse/Documents/School/RUG - 2026:2027/Sem 1 - Block 1 + 2/Minor Data Wise/Collaborative Data Project/Data/peirce_transcriptions"
+# By default the data/ folder of this repository, so it works after git clone.
+FOLDER = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")
 
 # Tags whose content is removed as well (step 2). Add "date" here if you do
 # not want the model to see dates Peirce wrote himself.
@@ -317,7 +318,7 @@ def main():
     step_combine_pages(folder)
     step_correct_date(folder)
     step_link_text_and_dates(folder)
-    print(f"Done: {os.path.join(folder, 'manuscripts_dataset.csv')}")
+    print(f"Done: {os.path.normpath(os.path.join(folder, 'manuscripts_dataset.csv'))}")
 
 
 if __name__ == "__main__":

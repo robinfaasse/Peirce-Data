@@ -1,0 +1,52 @@
+[pn]36[/pn] [pn]37[/pn]
+
+[u]From De Morgan's Calculus p. 270[/u] [ins]Make the following[/ins]
+
+[del]This is[/del]
+$\frac{\psi x}{(x-a)^m \phi x} = \frac{A_0}{(x-a)^m} + \frac{A_1}{(x-a)^{m-1}} + \dots + \frac{A_{m-1}}{x-a} + \frac{fx}{\phi x}$
+
+$\psi x = \left\{ A_0 + A_1(x-a)^1 + A_2(x-a)^2 \dots A_{m-1}(x-a)^{m-1} \right\} \phi x + fx(x-a)^m$
+[ins](of order less than m)[/ins]
+Every diff. co[u]f[/u] of $fx(x-a)^m$ vanishes for $x=a$.
+
+$\psi a = A_0 \phi a$
+$\psi' a = A_0 \phi' a + 1 A_1 \phi a$
+$\psi'' a = A_0 \phi'' a + 2 A_1 \phi' a + 1 \cdot [del]2[/del] [ins]2[/ins] A_2 \phi a$
+$\psi''' a = A_0 \phi''' a + 3 A_1 \phi'' a + [del]2[/del] [ins]2[/ins] \cdot 3 A_2 \phi' a + 1 \cdot [del]2[/del] [ins]2[/ins] \cdot 3 A_3 \phi a$
+$\psi^{iv} a = A_0 \phi^{iv} a + 4 A_1 \phi''' a + 3 \cdot 4 A_2 \phi'' a + [del]2[/del] [ins]2[/ins] \cdot 3 \cdot 4 A_3 \phi' a + 1 \cdot 2 \cdot 3 \cdot 4 A_4 \phi a$
+etc.
+
+$A_0 = \frac{\psi a}{\phi a}$
+$A_1 = \frac{\psi' a}{\phi a} - \frac{\psi a \cdot \phi' a}{(\phi a)^2} = \frac{\psi' a \phi a - \psi a \phi' a}{\phi a^2}$
+$A_2 = \frac{1}{2} \frac{\psi'' a}{\phi a} - \frac{1}{2} \frac{\psi a \phi'' a}{(\phi a)^2} - [del]\left( D \frac{\psi x}{\phi x} \right)[/del] \frac{\phi' a}{\phi a} = \left( D \frac{\psi x}{\phi x} \right)_{x=a}$
+$= \frac{\psi' a - \psi a}{\phi a} D \log \phi a$
+
+[del]$D \frac{\psi' x \phi x - \psi x \phi' x}{\phi x^2}$[/del]
+$\psi' a = \frac{\psi a}{\phi a} \phi' a + 2 \left( D \frac{\psi x}{\phi x} \right) \phi' a + 2 A_2 \phi a$
+$A_2 = \frac{1}{2} \frac{\psi'' a}{\phi a} - \frac{1}{2} \frac{\psi a \cdot \phi'' a}{(\phi a)^2} - \left( D \frac{\psi a}{\phi a} \right) \frac{\phi' a}{\phi a}$
+[del]$= \frac{1}{2} \frac{\psi'' a (\phi a)^2 - \psi a \phi'' a \phi a}{\dots}$[/del]
+$= \frac{1}{2} D^2 \left( \frac{\psi x}{\phi x} \right)_a$
+
+$A_3 = \frac{1}{3!}$
+
+[marginalia]
+Seems wrong Turn over
+[/marginalia]
+
+$D \frac{u}{u} = D \log u$
+$\frac{D^2 u}{u} = (D \log u)^2 - D^2 \log u$
+$D \frac{D u}{u} = \frac{u D^2 u - (D u)^2}{u^2} = \frac{D^2 u}{u} - \left( \frac{D u}{u} \right)^2$
+$D^3 \log u = 2 D \log u D^2 \log u - \frac{u D^3 u - D u \cdot D^2 u}{u^2}$
+$= 2 D \log u \cdot D^2 \log u - \frac{D^3 u}{u} + D \log u \left( (D \log u)^2 - D^2 \log u \right)$
+$= D \log u \cdot D^2 \log u + [del]D \log u[/del] (D \log u)^3 - \frac{D^3 u}{u}$
+
+[marginalia]
+$D^2 \log u = \frac{u D^2 u - (D u)^2}{u^2}$
+$= \frac{D^2 u}{u} - (D \log u)^2$
+[/marginalia]
+
+$\frac{D^3 u}{u} = (D \log u)^3 + D \log u \cdot D^2 \log u - D^3 \log u$
+$D^4 \log u = (D^2 \log u)^2 + D \log u \cdot D^3 \log u + 3 (D \log u)^2 D^2 \log u - \frac{u D^4 u + D u \cdot D^3 u}{u^2}$
+$= (D^2 \log u)^2 + [del]D \log u \cdot D^3 \log u[/del] + [del]4[/del] [ins]3[/ins] (D \log u)^2 D^2 \log u - \frac{D^4 u}{u} + [del]D \log u[/del] (D \log u)^4$
+
+$\frac{D^4 u}{u} = (D \log u)^4$

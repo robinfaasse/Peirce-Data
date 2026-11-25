@@ -1,0 +1,47 @@
+[pn]3[/pn]
+Morrison's Bridge 1899 Feb 16
+
+We suppose truss rests on both piers at [del]- end[/del]
+But perhaps not on both (though always on one) at + end
+
+Energy =
+[del]Some terms
+does not rest on pier 2.[/del]
+[del]$\frac{1}{2} \beta$[/del] $\frac{1}{2} \beta \left( \sum_{-R+1}^{-Q-1} + \sum_{-P+1}^{-P-1} + \sum_{-P+1}^{P-1} + \sum_{+P+1}^{+Q-1} + \sum_{+Q+1}^{+R+1} \right) \left( b_{n+1} - 2b_n + b_{n-1} \right) + [del]\frac{1}{2} \frac{E}{B} \sum \frac{2b_n - 2b_n + b_{n-1}}{n^2}[/del]
+
+$\frac{1}{2} \beta \sum_{-R+1}^{+R-1} \left( b_{n+1} - 2b_n + b_{n-1} \right)^2 + \frac{1}{2} \frac{E}{B^2} \sum_{-N}^{+N} \frac{b_n^2}{n^2} + g \frac{w}{K} \sum_{-R}^{+R} b_n$
+
+when [del]is $n^2 > N^2$[/del] $E_n = 0$ otherwise $E_n$ is const $E$.
+
+$\begin{matrix} b_{-Q} = 0 \\ b_{-P} = 0 \end{matrix}$ Either $\begin{matrix} b_Q = 0 \\ \text{or } b_Q = 0 \end{matrix}$
+(or both.)
+
+[fig]Grid of dots with labels -R, -R+1, -R+2[/fig] [fig]Vertical line with horizontal base[/fig]
+
+[del]$\frac{1}{2} \beta \left( b_{-R+2} - 2b_{-R+1} \right)$[/del]
+
+$\beta \left( b_{-R+2} - 2b_{-R+1} + b_{-R} \right) [del]= 0[/del] + g w_{-R} = 0$ [del]$\frac{1}{2} \frac{b^2}{E B}$[/del] [del]$\frac{b^2}{B}$[/del] [del]$\frac{E b}{B}$[/del]
+
+$\beta \left( [del]b_{-R+2}[/del] - 2b_{-R+2} + 4b_{-R+1} - 2b_{-R} \right.$
+$\left. + b_{-R+3} - 2b_{-R+2} + b_{-R+1} \right)$
+
+$\beta \left( b_{-R+3} - 4b_{-R+2} + 5b_{-R+1} - 2b_{-R} \right) + g w_{-R+1} [del]+ 0[/del] + [del]\frac{E_n}{B^2} \frac{b_n}{n^2}[/del]$
+
+For the following we have, as
+$\beta \Delta^4 b_n + g w_{n+2} [del]+ 0[/del] + \frac{E_n}{B^2} n^{-2} b_n = 0$
+
+[del]$\sum \frac{b_n}{n^2}$[/del] [del]$\frac{b_n}{N^2} + \frac{b_{n+1}}{(n+1)^2}$[/del]
+
+when [del]we see[/del] this makes [del]$b_n = - \frac{1}{24} \frac{g}{B}$[/del] if $E_n = 0$
+$b_n = - \frac{1}{24} \frac{g}{\beta} w_{n+2} n^4 + C_3 n^3 + C_2 n^2 + C_1 n + C_0$
+
+[del]To determine[/del]
+
+$\begin{aligned} & = n^2 \Delta^2 u_n + [del]\begin{matrix} (2n+1) u_{n+2} + (2n-1) u_{n+1} \\ + 3n+3 \quad -2n-1 \quad u_{n+1} \end{matrix}[/del] \\ & = n^2 \Delta^2 u_n + (5n+4) u_{n+2} - (4n-2) u_{n+1} \Delta^2 u_n \\ & = n^2 \Delta^2 u_n + (n+2) u_{n+2} \end{aligned}$
+$\begin{aligned} & = [del](n^2+2n+1) \Delta u_{n+1}[/del] \\ & \quad [del]- \Delta u_n[/del] \\ & + (2n+5) u_{n+2} - (2n+3) u_{n+1} \end{aligned}$
+
+$b_1 + \frac{1}{2} b_2 + \frac{1}{3} b_3 + \frac{1}{16} b_4$
+
+$\begin{aligned} \bar{\Delta} & = n u_n \\ & = (n+1) u_{n+1} - n u_n \\ & n \Delta u_n + u_{n+1} \end{aligned}$
+
+$\begin{aligned} \Delta & = n^2 u_n \\ & = (n^2+2n+1) u_{n+1} - n^2 u_n \\ & = n^2 \Delta u_n + (2n+1) u_{n+1} \end{aligned}$

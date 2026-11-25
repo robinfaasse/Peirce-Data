@@ -1,0 +1,35 @@
+[pn]32[/pn] I will now take, or make rather, a system of symbols, $i'$, $j'$, $k'$, etc.
+whose relation to $A$, $I$, $J$, $K$, etc. I will define by the following equations,
+although, since $A$, $I$, $J$, $K$, etc. remain entirely undefined, the new symbols
+$i'$, $j'$, $k'$ etc. [del]will[/del] [ins]will[/ins] have little or no meaning even after these equations have
+been assumed. The equations connecting $i'$, $j'$, $k'$ etc with $A$, $I$, $J$, $K$ etc. shall
+be these following, in which $a_{11}$, $a_{12}$ etc $a_{21}$ $a_{22}$ etc etc $b_{11}$, $b_{12}$ etc etc $c_{11}$, etc etc
+[del]shall be the same as above[/del].
+$$\begin{aligned}
+i' = (I:A) &+ a_{11} (I:I) + b_{11} (J:I) + c_{11} (K:I) + \text{etc.} \\
+&+ a_{12} (I:J) + b_{12} (J:J) + c_{12} (K:J) + \text{etc} \\
+&+ a_{13} (I:K) + b_{13} (J:K) + c_{13} (K:K) + \text{etc} \\
+&+ \text{etc etc} \\
+j' = (J:A) &+ a_{21} (I:I) + b_{21} (J:I) + c_{21} (K:I) + \text{etc} \\
+&+ a_{22} (I:J) + b_{22} (J:J) + c_{22} (K:J) + \text{etc} \\
+&+ a_{23} (I:K) + b_{23} (J:K) + c_{23} (K:K) + \text{etc} \\
+&+ \text{etc. etc} \\
+k' = (K:A) &+ a_{31} (I:I) + b_{31} (J:I) + c_{31} (K:I) + \text{etc} \\
+&+ a_{32} (I:J) + b_{32} (J:J) + c_{32} (K:J) + \text{etc} \\
+&+ a_{33} (I:K) + b_{33} (J:K) + c_{33} (K:K) + \text{etc} \\
+&+ \text{etc etc}
+\end{aligned}$$
+etc.
+
+It will be observed that each of the symbols where $l_{mn}$ denotes the coefficient
+which consists of the $l$-th of the series of letters, $a$, $b$, $c$, etc, where $m$ and $n$
+are subjacent numbers, — each of these occurs but once, and $l_{mn}$ is in these
+equations the coefficient of that capital-pair whose first capital is the
+$l$-th of the series $I$, $J$, $K$, etc while its second capital is the $n$-th in the
+same series; and $l_{mn}$ is the coefficient of that capital pair in the expression
+which is equated to $m'$, where $m$ is the $m$-th of the series of letters $i'$, $j'$, $k'$, etc.
+
+Now it is axiomatic that two symbols of operations [del]which[/del] that are
+not defined are equivalent, if the operations they stand for must under
+all conceivable circumstances have the same effect, no matter upon what
+they operate.

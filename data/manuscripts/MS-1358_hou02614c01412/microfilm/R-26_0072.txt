@@ -1,0 +1,23 @@
+[marginalia]Monson's Bridge [date]1898 Sep 24[/date][/marginalia] [pn]4[/pn]
+
+This reduces to
+$$\delta x_0 = \left( \frac{R_0^3}{R_0 (x_1 - x_0)(y_1 - y_0)} - \frac{y_1 - y_0}{x_1 - x_0} - \frac{\frac{P_0}{M_0} (x_1 - x_0)(y_1 - y_0)}{\frac{P_0}{M_0} R_0^3 + R_0^3 - R_0 [u](x_1 - x_0)[/u]} \right) \delta x_1$$
+$$+ \left( 1 + \frac{-R_0^3 + R_0 [u](x_1 - x_0)[/u]}{\frac{P_0}{M_0} R_0^3 + R_0^3 - R_0 [u](x_1 - x_0)[/u]} \right) \delta y_1 - \heartsuit \frac{R_0^3}{R_0 (x_1 - x_0)(y_1 - y_0)} + \frac{\heartsuit \frac{P_0}{M_0} R_0^3}{\frac{P_0}{M_0} R_0^3 + R_0^3 - R_0 [u](x_1 - x_0)[/u]}$$
+$$\frac{\frac{P_0}{\Lambda_0} \frac{R_0^3}{R_0 (x_1 - x_0)(y_1 - y_0)} + \frac{R_0^3}{R_0 (x_1 - x_0)(y_1 - y_0)} - \frac{y_1 - y_0}{x_1 - x_0} - \frac{R_0 (x_1 - x_0)(y_1 - y_0)}{\frac{P_0}{M_0} + R_0^3 - \frac{R_0 [u](x_1 - x_0)[/u]}{R_0^3}}}{}$$
+
+The coeff of $\delta y_1$ above reduces to $\frac{\frac{P_0}{M_0} R_0^3}{\frac{P_0}{M_0} R_0^3 + R_0^3 - R_0 [u](x_1 - x_0)[/u]}$ or $\frac{\frac{P_0}{M_0}}{\frac{P_0}{M_0} + 1 - \frac{R_0 [u](x_1 - x_0)[/u]}{R_0^3}}$
+
+The denominator of the above is, in my other notation
+$$\frac{\alpha_0}{\kappa_0} + \frac{1}{P_0 \kappa_0} - \frac{y_1 - y_0}{x_1 - x_0} - [del]\beta_0[/del] \frac{[del]\kappa_0[/del] R_0^3}{\beta_0 + R_0^3 \lambda_0}$$ [marginalia]I have [del]for[/del] [ins]in[/ins] the definition of [u]$\rho_0$[/u] an [u]$\eta$[/u] very likely I did so in the calculation[/marginalia]
+
+Now $\lambda_0 \mu_0 = \frac{1}{P_0^2} \left( 1 - \frac{\eta_0}{R_0} + \frac{R_0}{\rho_0} \frac{[u](x_1 - x_0)(y_1 - y_0)[/u]}{[u]\rho_0[/u]} \right) = \frac{1}{P_0^2} [u]\rho_0[/u]^2 + \kappa_0^2$
+
+However to get to that notation, it is best to write the two equations
+$$(\alpha_0 + \mu_0) \delta x_0 + \kappa_0 \delta y_0 - \mu_0 \delta x_1 - \kappa_0 \delta y_1 + \heartsuit = 0$$
+$$\kappa_0 \delta x_0 + (\beta_0 + \lambda_0) \delta y_0 - \kappa_0 \delta x_1 - \lambda_0 \delta y_1 + \spadesuit = 0$$
+
+$$[(\alpha_0 + \mu_0)(\beta_0 + \lambda_0) - \kappa_0^2] \delta x_0 = [(\beta_0 + \lambda_0) \mu_0 - \kappa_0^2] \delta x_1 + [(\beta_0 + \lambda_0) \kappa_0 - \kappa_0 \lambda_0] \delta y_1 - (\beta_0 + \lambda_0) \heartsuit + \kappa_0 \spadesuit$$
+
+$$\delta x_0 = \frac{[\beta_0 \mu_0 - \frac{1}{P_0} [u]\rho_0[/u]] \delta x_1 + \beta_0 \kappa_0 \delta y_1 - (\beta_0 + \lambda_0) \heartsuit + \kappa_0 \spadesuit}{\frac{1}{\Lambda_0 \mu_0} + \alpha_0 \lambda_0 + \beta_0 \mu_0 + \frac{1}{P_0} [u]\rho_0[/u]}$$
+
+$$\delta x_1 - \delta x_0 = \frac{[\frac{1}{\Lambda_0 \mu_0} + \alpha_0 \lambda_0 + \frac{2}{P_0} [u]\rho_0[/u]] \delta x_1 - \beta_0 \kappa_0 \delta y_1 + (\beta_0 + \lambda_0) \heartsuit - \kappa_0 \spadesuit}{?}$$

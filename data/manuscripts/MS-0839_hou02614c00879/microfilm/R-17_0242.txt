@@ -1,0 +1,22 @@
+[pn]13[/pn]
+
+The same formula is forced upon us for
+imaginaries, provided it can lead to no inconsis-
+tency. Now any imaginary is
+$$z = x + yi$$
+$$e^z = e^{x+yi} = e^x \cdot e^{yi}$$
+But
+$$\text{Exp } yi = 1 - \frac{1}{2} y^2 + \frac{1}{4!} y^4 - \frac{1}{6!} y^6 + \text{etc}$$
+$$[ + y [del]\cdot[/del] - \frac{1}{3!} y^3 + \frac{1}{5!} y^5 - \frac{1}{7!} y^7 + \text{etc.} ] i$$
+
+This can lead to no inconsistency because all
+the rules are entirely free from exceptions,
+and no two apply to the same subject. In parti-
+cular, all the formulae are governed by the
+binomial theorem which applies equally
+to imaginary terms as to real ones. And if
+the exponent is imaginary, the formula
+just given alone determines the [del]new[/del] [ins]development[/ins].
+
+Consequently in all cases
+$$e^z = \text{Exp } z.$$

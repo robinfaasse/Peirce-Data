@@ -1,0 +1,58 @@
+[pn]225[/pn]
+
+Given [bracket] [parenthesis]x+y[parenthesis] [parenthesis]xy+1[parenthesis] = 18xy
+[parenthesis]x²+y²[parenthesis] [parenthesis]x²y²+1[parenthesis] = 208x²y² [/bracket]
+
+to determine x and y.
+
+<u>Solution.</u> The first equation squared gives
+[parenthesis][parenthesis]x²+y²[parenthesis]+2xy[parenthesis] [parenthesis][parenthesis]x²y²+1[parenthesis]+2xy[parenthesis] = 18²x²y² = 324x²y²
+or [parenthesis]x²+y²[parenthesis][parenthesis]x²y²+1[parenthesis] + 2xy[parenthesis][parenthesis]x²+y²[parenthesis]+[parenthesis]x²y²+1[parenthesis][parenthesis] + 4x²y² = 324x²y²
+[parenthesis]x²+y²[parenthesis]+[parenthesis]x²y²+1[parenthesis] = + [del]156[/del] [ins]56[/ins] xy
+
+Squaring this, we get
+[parenthesis]x²+y²[parenthesis]² + 2 [parenthesis]x²+y²[parenthesis][parenthesis]x²y²+1[parenthesis] + [parenthesis]x²y²+1[parenthesis]² = [del]2544[/del] [ins]3136[/ins] x²y²
+Subtract 4 [parenthesis]x²+y²[parenthesis][parenthesis]x²y²+1[parenthesis] = 832 x²y²
+[parenthesis]x²+y²[parenthesis]² - 2[parenthesis]x²+y²[parenthesis][parenthesis]x²y²+1[parenthesis] + [parenthesis]x²y²+1[parenthesis]² = 2304 x²y²
+Extract the square root [parenthesis]x²+y²[parenthesis] - [parenthesis]x²y²+1[parenthesis] = ± 48 xy
+Take this from and add it to [parenthesis]x²+y²[parenthesis] + [parenthesis]x²y²+1[parenthesis] = 56 xy.
+x²+y² = 104 xy or 4 xy
+x²y²+1 = 4 xy or 52 xy.
+By this last xy = 2 ± √3. xy = 26 ± 15√3.
+x²+y² = 104 ± 52√3 or = 104 ± 60√3.
+[parenthesis]x+y[parenthesis]² = 108 ± [del]154[/del] [ins]156[/ins] √3 or = 156 ± 90√3
+[parenthesis]x-y[parenthesis]² = 100 ± 50 √3 or = 52 ± 30 √3
+x+y = 3√2[parenthesis]6 ± 2√3[parenthesis]<sup>½</sup> or = √3[parenthesis]52 ± 30√3[parenthesis]<sup>½</sup>
+[parenthesis]x-y[parenthesis] = ± 5 [parenthesis]4 ± 2√3[parenthesis]<sup>½</sup> or = ± √[parenthesis]52 ± 30√3[parenthesis]
+x = ½ [parenthesis]3√3 ± 5[parenthesis] [parenthesis]4 ± 2√3[parenthesis]<sup>½</sup> or = ½ [parenthesis]√3 ± 1[parenthesis] [parenthesis]52 ± 30√3[parenthesis]<sup>½</sup>
+y = ½ [parenthesis]3√3 ∓ 5[parenthesis] [parenthesis]4 ± 2√3[parenthesis]<sup>½</sup> or = ½ [parenthesis]√3 ∓ 1[parenthesis] [parenthesis]52 ± 30√3[parenthesis]<sup>½</sup>
+
+Given axy = x²-by² and x²y² = x⁴+by² to [del]determine[/del]
+[del]x and y,[/del] in terms of a and b by simple equations, and
+to find general expressions for a and b which shall render
+x and y rational.
+
+<u>Solution.</u> 1. the sum of the given equations is.
+2x² = x²y²+axy,
+their difference is 2by² = x²y² - axy.
+the product of these is. 4bx²y² = x²y² [parenthesis]x²y²-a²[parenthesis].
+or. 4b = x²y² - a²
+xy = [parenthesis]4b + a²[parenthesis]<sup>½</sup>
+2x² = [bracket][parenthesis]4b+a²[parenthesis]<sup>½</sup>+a[bracket] [parenthesis]4b+a²[parenthesis]<sup>½</sup>
+x = [del]±[/del] [bracket] [parenthesis]4b+a²[parenthesis]<sup>½</sup>+a[bracket]<sup>½</sup> [bracket] [parenthesis]4b+a²[parenthesis]<sup>½</sup>[bracket]<sup>¼</sup>
+y = [bracket][parenthesis]4b+a²[parenthesis]<sup>½</sup>-a[bracket]<sup>½</sup> [bracket] [parenthesis]4b+a²[parenthesis]<sup>½</sup>[bracket]<sup>¼</sup>
+
+2. If x and y are rational their product must be so too.
+∴ or [parenthesis]4b+a²[parenthesis]<sup>½</sup> must be so.
+or 4b+a² = d² [marginalia] These values of a and b give
+xy = d. x = ± [fraction]d/e[/fraction]
+and y = [fraction]e/2b[/fraction] [/marginalia]
+b = ¼ d² - ¼ a²
+2x² = d² + ad
+4x² = 2d² + 2ad. = ▢. = e²
+a = [fraction]e²/2d[/fraction] - d
+2by² = d² - ad = 2d² - e²
+4b²y² = [parenthesis]4d²-e²[parenthesis] [parenthesis]¼d²-¼a²[parenthesis]
+= [parenthesis]4d²-e²[parenthesis] [parenthesis] [fraction]d²e²-e⁴/16d²[/fraction] [parenthesis]
+= [fraction]e²/16d²[/fraction] [parenthesis]4d²-e²[parenthesis]² = ▢ as required and we
+might have deduced from the first that y = [fraction]e/2b[/fraction].

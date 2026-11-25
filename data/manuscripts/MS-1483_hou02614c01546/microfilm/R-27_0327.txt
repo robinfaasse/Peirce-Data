@@ -1,0 +1,98 @@
+[marginalia]
+[del]the[/del] [ins]other[/ins] [del]original[/del] Dutch and Latin [ins]—upon which Latter Spinoza [del]assembles[/del] set such a stamp of his own—[/ins], and [del]in[/del] [ins]of[/ins] multitudinous translations. The [del]best[/del] [ins]editions[/ins] are acknowledged to be those of Van Vloten and Land; [del]but[/del] [ins]and[/ins] it is to be hoped that their issue of [date]1895[/date] may be replaced by a third which shall correct its misprints and be absolutely complete.
+[/marginalia]
+
+[fig]logical diagram[/fig]
+[del]
+[fig]crossed out diagram[/fig]
+[/del]
+
+[del]
+[u]a ⪯ b[/u]
+if x ⪯ a
+x ⪯ b
+∴ x ⪯ Z
+[/del]
+
+[del]
+B ⪯ [u]x[/u]
+If B' ⪯ B
+B' ⪯ x
+B' ⪯ Z
+[/del]
+
+[u]a ⪯ b[/u]
+Means
+If x ⪯ a   x ⪯ b
+then x ⪯ Z
+
+[del]
+p ⪯ q ⊕ r
+[u][del]q ⪯ x[/del][/u]
+if p' ⪯ p /
+if p' ⪯ q /
+then p' ⪯ r /
+[/del]
+
+[ins]Assum'd
+Hypothesis[/ins]
+
+[del]
+If x' ⪯ x
+and x' ⪯ b ⊕ ca
+then x' ⪯ Z
+[/del]
+
+x ⪯ (b ⊕ c) a
+x ⪯ a
+[del]x ⪯ b ⊕ c[/del]
+
+[u] (a ⊕ b) c ⪯ c [/u]
+(a ⊕ b) c ⪯ a ⊕ b
+
+[u] (b ⊕ c) a ⪯ b ⊕ ca [/u]
+x ⪯ Z
+x ⪯ (b ⊕ c) a
+[del]x ⪯ a[/del]
+[u]x ⪯ b ⊕ c[/u]
+If x' ⪯ x   x' ⪯ b ⊕ ca
+then x' ⪯ Z
+If x'' ⪯ x   x'' ⪯ b   x'' ⪯ Z
+If x''' ⪯ x   x''' ⪯ ca   x''' ⪯ Z
+Hence x ⪯ ca
+[del]then x' ⪯ Z[/del]
+
+a ⪯ b ⊕ c  If x ⪯ a  x ⪯ b  c ⪯ Z?
+a ⪯ P  P ⪯ % ?
+
+[u]a ⪯ (b ⊕ c)[/u]
+If x ⪯ a
+x ⪯ b ⊕ c
+[del]then x ⪯ Z[/del]
+a ⪯ b   b ⪯ c are [del]Z[/del]
+[del]a ⪯ Z   Z ⪯ c are[/del]
+a ⪯ b   b ⪯ c are Z
+
+[del]b ⪯ a[/del]
+
+a ⪯ b
+
+[del]p ⪯ a ⊕ b[/del]
+
+[del]a ⪯ b[/del]
+
+a ⪯ b
+
+[fig]circular logical diagram[/fig]
+
+a ⪯ b
+
+[del]a ⪯ b[/del]
+
+a ⪯ b
+
+a ⪯ b
+a ⪯ b
+a ⪯ b
+
+a ⪯ b

@@ -1,0 +1,33 @@
+$A B y$ {" [($[del]x[/del]$ $\small{\sim}$ $B$) $\small{\sim}$ $y$] $\small{\sim}$ $A$ } $\small{\sim}$ $z$
+$A^2 y$ [($B$ $\small{\sim}$ $[del]y[/del]$) $\small{\sim}$ ($x$ $\small{\sim}$ $A$)] $\small{\sim}$ $z$
+$A^2 x$ { $y$ $\small{\sim}$ [($B$ $\small{\sim}$ $x$) $\small{\sim}$ $A$] } $\small{\sim}$ $z$
+$A^3$ { $y$ $\small{\sim}$ [$x$ $\small{\sim}$ ($w$ $\small{\sim}$ $A$)] } $\small{\sim}$ $z$
+[fig]line[/fig]
+$z^4$
+$D z^3$
+$C z^3$
+$B z^3$
+$A z^3$
+$C y^2 z^2$
+$C^2 z^2$ $A \small{\sim}$ { $B \small{\sim}$ [[del]$y[/del]$ $\small{\sim}$ ($x \small{\sim} C$)] $\small{\sim} z$ }
+$B C z^2$ $A \small{\sim}$ { ($x \small{\sim} B$) $\small{\sim}$ [($y \small{\sim} C$) $\small{\sim} z$] }
+$A C z^2$ ($x \small{\sim} A$) $\small{\sim}$ { $B \small{\sim}$ [($y \small{\sim} C$) $\small{\sim} z$] }
+$B y x z^2$
+$B^2 z^2$ $A \small{\sim}$ { [$y \small{\sim}$ ($x \small{\sim} B$)] $\small{\sim}$ ($C \small{\sim} z$) }
+$A B z^2$ ($x \small{\sim} A$) $\small{\sim}$ [[del]$y[/del]$ $\small{\sim} B$] $\small{\sim}$ ($C \small{\sim} z$)
+$A y z^2$
+$A^2 z^2$ [$y \small{\sim}$ ($x \small{\sim} A$)] $\small{\sim}$ [$B \small{\sim}$ ($C \small{\sim} z$)]
+$B y^2 z$
+
+[fig]diagram[/fig]
+$\overline{A + B} + y \times \overline{C} + z$
+[fig]diagram[/fig]
+$\overline{A} + \overline{x B} + y \overline{C} + z$
+[fig]diagram[/fig]
+$x \overline{A + B} + y \overline{C} + z$
+[fig]diagram[/fig]
+$\overline{A} + y \times \overline{B + C} + z$
+[fig]diagram[/fig]
+$x A + y \overline{B + C} + z$
+[fig]diagram[/fig]
+$y \times \overline{A + B + C} + z$

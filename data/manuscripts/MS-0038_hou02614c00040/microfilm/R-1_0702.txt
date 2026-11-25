@@ -1,0 +1,70 @@
+[pn]90[/pn] PEIRCE: *On the Logic of Number.*
+
+$$
+\begin{aligned}
+& ((1 + n) y) z \\
+= & (y + ny) z & & \text{by the definition of multiplication:} \\
+= & yz + (ny) z & & \text{by the distributive principle:} \\
+= & yz + n (yz) & & \text{by hypothesis:} \\
+= & (1 + n) (yz) & & \text{by the definition of multiplication.}
+\end{aligned}
+$$
+
+6. To prove the commutative principle of multiplication; that
+$$xy = yx,$$
+whatever numbers $x$ and $y$ may be. In the first place, we prove that it is true for $y = 1$. For this purpose, we first show that it is true for $y = 1, x = 1$; and then that if true for $y = 1, x = n$, it is true for $y = 1, x = 1 + n$. For $y = 1$ and $x = 1$, it is an explicit identity. We have now to show that if $n1 = 1n$ then $(1 + n) 1 = 1 (1 + n)$. Now,
+$$
+\begin{aligned}
+& (1 + n) 1 \\
+= & 1 + n1 & & \text{by the definition of multiplication:} \\
+= & 1 + 1n & & \text{by hypothesis:} \\
+= & 1 + n & & \text{by the definition of multiplication:} \\
+= & 1 (1 + n) & & \text{by the definition of multiplication.}
+\end{aligned}
+$$
+
+Having thus shown the commutative principle to be true for $y = 1$, we proceed to prove that if it is true for $y = n$, it is true for $y = 1 + n$; that is, if $xn = nx$, then $x (1 + n) = (1 + n) x$. For
+$$
+\begin{aligned}
+& (1 + n) x \\
+= & x + nx & & \text{by the definition of multiplication:} \\
+= & x + xn & & \text{by hypothesis:} \\
+= & 1x + xn & & \text{by the definition of multiplication:} \\
+= & x1 + xn & & \text{as already seen:} \\
+= & x (1 + n) & & \text{by the distributive principle.}
+\end{aligned}
+$$
+
+*Discrete Simple Quantity Infinite in both directions.*
+
+A system of number infinite in both directions has no minimum, but a certain quantity is called one, and the numbers as great as this constitute a partial system of semi-infinite number, of which this one is a minimum. The definitions of addition and multiplication require no change, except that the one therein is to be understood in the new sense.
+
+PEIRCE: *On the Logic of Number.* [pn]91[/pn]
+
+To extend the proofs of the principles of addition and multiplication to unlimited number, it is necessary to show that if true for any number $(1 + n)$ they are also true for the next smaller number $n$. For this purpose we can use the same transformations as in the second clauses of the former proof; only we shall have to make use of the following lemma.
+
+If $x + y = x + z$, then $y = z$ whatever numbers $x$, $y$, and $z$, may be. First this is true in case $x = 1$, for then $y$ and $z$ are both next smaller than the same number. Therefore, neither is smaller than the other, otherwise it would not be next smaller to $1 + y = 1 + z$. But in a simple system, of any two different numbers one is smaller. Hence, $y$ and $z$ are equal. Second, if the proposition is true for $x = n$, it is true for $x = 1 + n$. For if $(1 + n) + y = (1 + n) + z$, then by the definition of addition $1 + (n + y) = 1 + (n + z)$; whence it would follow that $n + y = n + z$, and, by hypothesis, that $y = z$. Third, if the proposition is true for $x = 1 + n$, it is true for $x = n$. For if $n + y = n + z$, then $1 + n + y = 1 + n + z$, because the system is simple. The proposition has thus been proved to be true of $1$, of every greater and of every smaller number, and therefore to be universally true.
+
+An inspection of the above proofs of the principles of addition and multiplication for semi-infinite number will show that they are readily extended to doubly infinite number by means of the proposition just proved.
+
+The number next smaller than one is called naught, $0$. This definition in symbolic form is $1 + 0 = 1$. To prove that $x + 0 = x$, let $x'$ be the number next smaller than $x$. Then,
+$$
+\begin{aligned}
+& x + 0 \\
+= & (1 + x') + 0 & & \text{by the definition of } x' \\
+= & (1 + 0) + x' & & \text{by the principles of addition:} \\
+= & 1 + x' & & \text{by the definition of naught:} \\
+= & x & & \text{by the definition of } x'.
+\end{aligned}
+$$
+
+To prove that $x0 = 0$. First, in case $x = 1$, the proposition holds by the definition of multiplication. Next, if true for $x = n$, it is true for $x = 1 + n$. For
+$$
+\begin{aligned}
+& (1 + n) 0 \\
+= & 1 . 0 + n . 0 & & \text{by the distributive principle:} \\
+= & 1 . 0 + 0 & & \text{by hypothesis:} \\
+= & 1 . 0 & & \text{by the last theorem:} \\
+= & 0 & & \text{as above.}
+\end{aligned}
+$$

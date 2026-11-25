@@ -1,0 +1,27 @@
+[pn]<u>Lobic</u>
+3
+III
+177[/pn]
+
+$(A\underline{i}' + B\underline{m}' + C\underline{n}')(D\underline{i}' + E\underline{m}' + F\underline{n}')(A\underline{i}' + B\underline{m}' + C\underline{n}') =$
+$\underline{l} [ (A^2 + B^2 + C^2 - BC)D + A(C - 2B)E + A(B - 2C)F ] \underline{i}'$
+$+ [ 2ABD + B(B - 2C)F + (C^2 - B^2 - A^2)E ] \underline{m}'$
+$+ [ 2ACD + C(C - 2B)E + (B^2 - C^2 - A^2)F ] \underline{n}'$.
+
+If then we take for our two monitors,
+$M = B(\sqrt{u^2 - u + 1}\ \underline{i}' + \underline{m}' + u\underline{n}')$
+$N = E(\sqrt{v^2 - v + 1}\ \underline{i}' + \underline{m}' + v\underline{n}')$
+
+we shall have
+$A = B\sqrt{u^2 - u + 1}$     $C = Bu$
+$D = E\sqrt{v^2 - v + 1}$     $F = Ev$;
+
+and in order to make $MNM = M$, we must have
+$[B^2(u^2 - u + 1) + B^2 + B^2 u^2 - B^2 u] E\sqrt{v^2 - v + 1} + [del]B^2\sqrt{u^2 - u + 1}[/del] [ins][del]B^2\sqrt{u^2 - u + 1}[/del][/ins] [ (u - 2) [del]E[/del] + [del]u[/del] ] E$
+$= B\sqrt{u^2 - u + 1}$
+
+$2B^2 E \sqrt{u^2 - u + 1} \sqrt{v^2 - v + 1} + B^2 E \frac{(1 - 2u)v}{[del]u^2 - u + 1[/del]} + B^2 E [ u^2 - 1 - (u^2 - u + 1) ] = B$
+$2B^2 E \sqrt{u^2 - u + 1} \sqrt{v^2 - v + 1} + B^2 E \underline{u}(u - 2) + B^2 E [ 1 - \underline{u}^2 - (u^2 - \underline{u} + 1) ] = B\underline{u}$.
+
+Of course, neither $B$ nor $E$ is zero. [del]If[/del] But the case in which
+the coefficient of $\underline{m}'$ in one of the monitors only vanishes, will

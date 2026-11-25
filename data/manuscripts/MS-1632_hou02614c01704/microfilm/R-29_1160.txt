@@ -1,0 +1,43 @@
+230. It is required to inscribe the greatest trapezoid in
+a given segment of a circle.
+
+<u>Solution</u> Let the radius be unity, the arc of the segment
+$2\omega$. The chord which is placed on base of the trapezoid is
+$2\sin\omega$. The other which is parallel to this [del]maybe[/del] is the
+chord of an arc [del]which, being[/del] represented by $2\omega'$, gives $2\sin\omega'$
+for this base. The altitude is $\cos\omega' - \cos\omega$.
+and the surface = $(\sin\omega + \sin\omega')(\cos\omega' - \cos\omega)$.
+this, differentiated and equated to zero gives.
+$-(\sin\omega + \sin\omega')\sin\omega' + (\cos\omega' - \cos\omega)\cos\omega' = 0$
+or. $\cos 2\omega' - \cos(\omega' - \omega) = 0$
+$\omega - \omega' = 2\omega'$ $\omega' = \frac{1}{3}\omega$.
+
+231. Given $(\frac{\sin^2\varphi}{\cos^2\varphi})^{\sec^2\varphi} = \frac{4}{3}\cos^2\varphi(\tan^2\varphi)^{\tan^2\varphi}$ to determine $\varphi$.
+
+<u>Solution</u>. Divide by $\tan^2\varphi^{\tan^2\varphi}$
+$\tan^2\varphi^{\sec^2\varphi - \tan^2\varphi} = \tan^2\varphi = \frac{4}{3}\cos^2\varphi$. [fig]small diagram with intersecting lines[/fig]
+$\sin^2\varphi = \frac{4}{3}\cos^4\varphi = 1 - \cos^2\varphi$.
+$\cos^4\varphi + \frac{3}{4}\cos^2\varphi = \frac{3}{4}$.
+$\cos^2\varphi = -\frac{3}{8} \pm \sqrt{\frac{57}{64}} = \frac{1}{8}(\sqrt{57} - 3)$
+$\varphi$ &c
+
+[del]232. It is required to divide a quadrant of a circle into
+three arcs which shall be to each other in the ratio of three
+given right lines.[/del]
+
+<u>Solution</u>. Let the lines be $a$, $a'$, and $a''$ and the arcs
+$a\omega$, $a'\omega$, $a''\omega$.
+we have $a\omega + a'\omega + a''\omega = [del]90^\circ[/del]$
+$\omega = \frac{90^\circ}{a+a'+a''}$.
+
+233. In a triangle, having given the base, the ratio
+of the sides and one of the angles adjacent to the base,
+double the vertical [del]tri[/del] angle; to determine the triangle
+
+<u>Solution</u>. Let the base of the triangle be $b$. the
+ratio of the sides $\frac{c}{d}$. and the vertical angle $\omega$
+$\frac{\sin 3\omega}{\sin 2\omega} = \frac{c}{d}$. $\frac{3\cos^2\omega - \sin^2\omega}{2\cos\omega} = \frac{4\cos^2\omega - 1}{2\cos\omega}$
+$4\cos^2\omega - \frac{2c}{d}\cos\omega = 1$.
+$\cos\omega = \frac{c}{4d} \pm \sqrt{\frac{1}{4} + (\frac{c}{4d})^2}$.
+Let $\frac{c}{2d} = \cot\alpha$
+$\cos\omega = \frac{1}{2}\cot\alpha \pm \frac{1}{2}\csc\alpha = \frac{\cos\alpha \pm 1}{2\sin\alpha} = -\tan\frac{1}{2}\alpha\text{ or }\cot\frac{1}{2}\alpha$

@@ -1,0 +1,25 @@
+[fig]Diagram of a curve and a vertical line[/fig]
+
+Simple Pend.
+
+$\delta \psi = - \frac{\sin 2\psi}{2z} \delta z$
+
+$\delta \lambda = \frac{[del]\lambda[/del] z}{\lambda} \delta z$
+
+$z = \lambda \cos \psi$
+
+$\cos \psi \delta z$
+
+$\delta \psi = - \frac{\sin 2\psi}{2\lambda \cos \psi} \delta z$
+
+$\delta \psi = - \frac{1}{\lambda} \frac{\lambda \sin \psi \cos \psi}{\lambda^2 \sin^2 \psi + [del]\lambda^2 \cos^2 \psi[/del] \sec^2 \psi}$
+
+---
+
+$\frac{\frac{y}{x}}{1 + \frac{y^2}{x^2}}$
+
+$\frac{x \tan \psi}{1 + \tan^2 \psi}$
+
+$\lambda \delta \psi \sec \psi = \delta z$
+
+[fig]Diagram of a simple pendulum suspension[/fig]

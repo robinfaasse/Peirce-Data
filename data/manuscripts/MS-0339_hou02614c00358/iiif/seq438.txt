@@ -1,0 +1,19 @@
+229r
+
+Given any character [ins]$\alpha$[/ins] there is a character possessed by
+whatever does not possess $\alpha$ and by nothing that does possess $\alpha$
+
+Given any two characters $\alpha$ and $\beta$ there is a
+character which [ins]is[/ins] possessed by whatever possesses
+either $\alpha$ or $\beta$ and by nothing else
+
+Given any two characters, $\alpha$ and $\beta$ there is a
+character which is possessed by whatever
+possesses them both and by nothing else.
+
+Given any character $\alpha$ there is a character $\beta$
+such that if anything possesses $\alpha$ something
+possesses $\alpha$ and $\beta$ and nothing else possesses
+$\alpha$ and $\beta$.
+
+[del]Given any character $\alpha$ not posses[/del]

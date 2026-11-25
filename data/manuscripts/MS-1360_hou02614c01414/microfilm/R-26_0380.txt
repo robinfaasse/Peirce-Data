@@ -1,0 +1,14 @@
+[u]Chapter II. The Elastic Curve.[/u]
+
+§ . Suppose a cord no longer perfectly pliable, as hitherto, but having an energy of position inversely proportional to the square of the radius of curvature. Calling this $\Upsilon$ and the constant of elasticity $E$
+
+$$\Upsilon = \int E (\frac{\partial \tau}{\partial s})^2 ds$$
+
+Now taking $n-1$, $n$, $n+1$ as the [del]numbers[/del] [ins]ordinal[/ins] of three particles infinitely near together
+
+$$\Delta s = s_{n+1} - s_n = s_n - s_{n-1}$$
+
+$$\Delta \tau_n = \tau_{n+1} - \tau_n \qquad \Delta \tau_{n-1} = \tau_n - \tau_{n-1}$$
+
+Neglecting higher differences
+$$(\frac{\partial \tau}{\partial s})^2 = \frac{1}{2} (\frac{\tau_{n+1} - \tau_n}{s_{n+1} - s_n})^2 + \frac{1}{2} (\frac{\tau_n - \tau_{n-1}}{s_n - s_{n-1}})^2$$

@@ -1,0 +1,8 @@
+[del]aA + bB + cC + dD = eE[/del]
+aA + bB + cC = dD + eE
+
+E = aA + bB + cC + dD
+
+E = aA + bB + cC + (1 - a - b - c)D
+A' = A - D  B' = B - D  C' = C - D  E' = E - D
+E' = aA' + bB' + cC'

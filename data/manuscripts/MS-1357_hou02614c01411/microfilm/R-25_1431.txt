@@ -1,0 +1,16 @@
+[marginalia]Live Loads[/marginalia] [marginalia]X[/marginalia]
+
+These equations can be put into the form of series more readily calculated. The following are divergent, but they sufficiently illustrate the method. Of course, after [del]approx[/del] [ins]numerical[/ins] approximations have once been obtained [ins]from these,[/ins] convergent series can be framed.
+
+$\mathcal{N}-a = \mathcal{N} (\frac{1}{2} B^2 - \frac{3}{8} B^4 + \frac{5}{16} B^6 - \frac{35}{128} B^8 + \frac{63}{256} B^{10} - \text{etc})$
+$+ \frac{1-r^N}{1-r} C (B - \frac{3}{2} B^3 + \frac{15}{8} B^5 - \frac{35}{16} B^7 + \frac{315}{128} B^9 - \text{etc})$
+$+ \frac{1-r^{2N}}{1-r^2} C^2 (\frac{1}{2} - \frac{9}{4} B^2 + \frac{75}{16} B^4 - \frac{245}{32} B^6 + \frac{2835}{256} B^8 - \text{etc})$
+$- \frac{1-r^{3N}}{1-r^3} C^3 (\frac{3}{2} B - \frac{25}{4} B^3 + \frac{245}{64} B^5 - \frac{945}{32} B^7 + \text{etc})$
+$- \frac{1-r^{4N}}{1-r^4} C^4 (\frac{3}{8} - \frac{75}{16} B^2 + \frac{1225}{64} B^4 - \frac{6615}{128} B^6 + \text{etc})$
+$+ \frac{1-r^{5N}}{1-r^5} C^5 (\frac{15}{8} B - \frac{245}{64} B^3 + \frac{7875}{128} B^5 - \text{etc})$
+$+ \frac{1-r^{6N}}{1-r^6} C^6 (\frac{5}{16} - \frac{245}{32} B^2 + \frac{7875}{128} B^4 - \text{etc})$
+$- \frac{1-r^{7N}}{1-r^7} C^7 (\frac{35}{16} B - \frac{945}{[del]256[/del] [ins]32[/ins]} B^3 + \text{etc})$
+$- \frac{1-r^{8N}}{1-r^8} C^8 (\frac{35}{128} - \frac{2835}{256} B^2 + \text{etc})$
+$+ \frac{1-r^{9N}}{1-r^9} C^9 (\frac{315}{128} B - \text{etc})$
+$+ \frac{1-r^{10N}}{1-r^{10}} C^{10} (\frac{63}{256} - \text{etc})$
+$- \text{etc}$

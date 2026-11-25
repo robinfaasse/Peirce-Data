@@ -1,0 +1,29 @@
+[pn]58r[/pn]
+
+Let $\phi x = x + a$
+
+$\Delta (x + a) \equiv (x + \Delta x) + a - (x + a)$
+$\equiv \Delta x$
+
+Let $\phi x = a_{1}x$
+
+$\Delta (a_{1}x) \equiv a_{1}(x + \Delta x) - a_{1}x$
+$\equiv a_{1}\Delta x$
+
+Let $\phi x \equiv 1 - x$
+
+$\Delta (1 - x) \equiv 1 - (x + \Delta x) - (1 - x)$
+$\equiv - \Delta x$
+
+Let $\phi x = e^{x}$
+
+$\Delta e^{x} \equiv e^{x + \Delta x} - e^{x}$
+$\equiv e^{x} \cdot e^{\Delta x} - e^{x}$
+$\equiv e^{x} (e^{\Delta x} - 1)$
+
+Let $\phi x \equiv x^{2}$
+
+$\Delta x^{2} \equiv (x + \Delta x)^{2} - x^{2}$
+
+$\Delta (\phi x + \psi x) \equiv \phi(x + \Delta x) + \psi(x + \Delta x) - (\phi x + \psi x)$
+$\equiv \Delta \phi x + \Delta \psi x$

@@ -1,0 +1,25 @@
+[pn]F4[/pn] [pn]14[/pn]
+
+[u]Rule XVII[/u] Two ovals [del]one immediately enclosing nothing but the other[/del] [ins]the outer[/ins] [del]and its contents, and[/del] being unenclosed and separate, can be removed.
+
+That is [fig]a ( (b) )[/fig] [del]~[/del] [ins]⤙[/ins] [del]⤚[/del] a b.
+
+For, by I, [fig](b)[/fig] ⤙ [fig](b)[/fig] ∴ by XV [fig]( (b) )[/fig] ⤙ b ∴ by IV a [fig]( (b) )[/fig] ⤙ a b.
+
+[u]Rule XVIII[/u]. If a separate and unenclosed part of the graph can be transformed into another graph, if [del]the[/del] [ins]for[/ins] former part of the graph were substituted an oval containing the latter, this could be transformed into an oval containing that former part
+
+That is, if a c ⤙ b c, then [fig](b) c[/fig] ⤙ [fig](a) c[/fig].
+
+For, by [u]XVI[/u], b c ⤙ [fig]( (b) ) c[/fig]. Whence if a c ⤙ b c, a c ⤙ [fig]( (b) ) c[/fig]. But in that case, by [u]XIV[/u], [fig](b) c[/fig] ⤙ [fig](a) c[/fig]. Q.E.D.
+
+[u]Rule XIX[/u]. If the entire graph contained in a separate and unenclosed oval can be there transformed into a second graph, then were this second graph substituted for the oval, it could be transformed into the original contents of the oval.
+
+That is, if [fig](a) c[/fig] ⤙ [fig](b) c[/fig], then b c ⤙ a c.
+
+For suppose [fig](a) c[/fig] ⤙ [fig](b) c[/fig]. Then it is to be shown that b c ⤙ a c. By XIV, b c ⤙ [fig]( (a) ) c[/fig]. But by [u]XVII[/u] [fig]( (a) ) c[/fig] ⤙ a c. Whence b c ⤙ a c. Q.E.D.
+
+Otherwise: By [u]XV[/u] [fig]( (b) ) c[/fig] ⤙ a c. But by [u]XVI[/u] b c ⤙ [fig]( (b) ) c[/fig]. Whence b c ⤙ a c
+
+[u]Rule XX[/u]. If a graph when written alone and unenclosed is transformable into another, it is always transformable into that other when it forms a separate and evenly enclosed part of a graph, while that other, when separate and oddly enclosed is always transformable into it.
+
+That is [del]if[/del] [ins]if[/ins] a ⤙ b and if there is a graph in which a is enclosed in 2N+1

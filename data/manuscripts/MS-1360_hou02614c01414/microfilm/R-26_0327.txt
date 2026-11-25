@@ -1,0 +1,13 @@
+$$y'' = [del]\mu[/del] \frac{y}{1+2Bx+Ax^2} = \mu \frac{y}{F}$$
+
+$$y''' = \mu \frac{(1+2Bx+Ax^2) y' - 2(B+Ax)y}{(F)^2} = \quad DF^2 = 4F(B+Ax)$$
+
+$$y^{IV} = \mu \frac{[del]\mu y[/del] F^2 \mu y + [del]F^2 2(B+Ax) y'[/del] - F^2 2Ay - 4F^2(B+Ax)y' - 8F(B+Ax)^2 y}{F^4}$$
+
+$$\begin{aligned}
+= \mu \frac{\begin{aligned} [del]+[/del] F \mu y & - 2A - 4ABx - 2A^2x^2 \\ & - 8B^2 - 16ABx - 8A^2x^2 \\ & \overline{-(2A + 8B^2 + 20ABx + 10A^2x^2)y} \end{aligned} - 4(B+Ax)y'}{F^3}
+\end{aligned} \quad \begin{aligned} & 1+2Bx+Ax^2 \\ & \underline{B+Ax} \\ & B+2B^2x+ABx^2 \\ & \underline{\quad + A\quad + 2ABx + A^2x^2} \\ & B+A+2B^2x+3ABx+A^2x^2 \end{aligned}$$
+
+$$= \mu \frac{F \mu y - \{2A[del]F[/del] + 8(B+Ax)^2\}y - 4F(B+Ax)y'}{F^3}$$
+
+$$y^V = \mu \frac{\dot{F}(B+Ax)\mu y + F^3 \{4}{}$$

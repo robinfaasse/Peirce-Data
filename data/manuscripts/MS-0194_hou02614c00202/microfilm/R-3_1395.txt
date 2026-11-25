@@ -1,0 +1,26 @@
+[pn]0
+1
+2[/pn]
+
+$$\frac{(2N-2)!}{(N-1)! N!} = [del]1.[/del] [ins]1.[/ins] \frac{(2N-4)!}{(N-2)! (N-1)!} + \frac{2}{2} \frac{(2N-6)!}{(N-3)! (N-2)!}$$
+$$+ \frac{4!}{2! 3!} \frac{(2N-8)!}{(N-4)! (N-3)!}$$
+
+$$\begin{array}{c|cccc}
+A B, C; D & B C, D & A C, D & A B, D & A B, C \\
+A, B C; D & B C, D & A C, D & A B, D & A, B C \\
+A B; C, D & B; C, D & A, C, D & A B, D & A B, C \\
+A; B C, D & B C, D & A; C, D & A; B, D & A; B C \\
+A; B, C D & B, C D & A; C, D & A; B, D & A; B, C
+\end{array}$$
+[u]                                                                                                    [/u]
+$$\frac{2}{2} \quad \frac{6}{3} \quad \frac{10}{4} \quad \frac{14}{5}$$
+
+$$\begin{array}{l}
+[u]A, B[/u] \\
+A, B C \\
+A, C B \\
+A C, B \\
+C A, B
+\end{array} \qquad \begin{array}{c|ccc}
+A, B C & A, B & A, C & B C
+\end{array}$$

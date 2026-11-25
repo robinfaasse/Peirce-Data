@@ -1,0 +1,35 @@
+DEC 10 1901 201r
+
+[u]Algebra of the Copula[/u]
+
+[fig]figure[/fig]
+
+[u]a[/u] ≺ [u]a[/u]
+
+[u]a[/u] ≺ ([u]b[/u] ≺ [u]a[/u]) [u]a[/u] ≺ [u]b[/u] ≺ [u]a[/u] or [u]b[/u] ≺ [u]a[/u] ≺ [u]a[/u] Derived from [u]a[/u] ≺ [u]b[/u], By contra [u](b ≺ a)[/u] ≺ [u]a[/u]
+
+[u]a[/u] ≺ [u]a[/u] ≺ [u]b[/u] [Principle of contrad] [u]a[/u] = [u]a[/u] ≺ [fig]figure[/fig] By contra ([u]a[/u] ≺ [u]b[/u]) ≺ [u]a[/u]
+
+[ [u]a[/u] ≺ [u]b[/u] ≺ [u]c[/u] ] ≺ [ [u]b[/u] ≺ [u]a[/u] ≺ [u]c[/u] ]
+
+([u]a[/u] ≺ [u]b[/u]) ≺ ([u]b[/u] ≺ [u]c[/u]) ≺ ([u]a[/u] ≺ [u]c[/u])
+
+[del]([u]a[/u] ≺ [u]b[/u]) ≺ ([u]c[/u] ≺ [u]a[/u]) ≺ ([u]c[/u] ≺ [u]b[/u])[/del]
+      b      c         a      b         a      c
+
+DEC 16 1901
+
+The algebra of the copula is deducible from the definition of the copula. This definition positively asserts that some things can be written.
+
+First says if [u]q[/u] then [u]p[/u] ≺ [u]q[/u]
+             Either [u]p[/u] or [u]p[/u] ≺ [u]q[/u]
+For [del][u]q[/u][/del] put [u]p[/u], then this becomes if [u]p[/u] then [u]p[/u] ≺ [u]p[/u]
+                                             Either [u]p[/u] or [u]p[/u] ≺ [u]p[/u]
+Therefore [u]p[/u] ≺ [u]p[/u] is positively asserted to be permissible scriptible
+But the definition of the copula does not positively [ins]say[/ins] that [del]anything can be written[/del] there is anything that cannot be written.
+It only distinguishes between what we know to be scriptible and what we do not know to be scriptible
+
+The definition seems to be
+(1) If [u]q[/u], then [u]p[/u] ≺ [u]q[/u]
+(2) Either [u]p[/u] or [u]p[/u] ≺ [u]q[/u]
+(3) If [u]p[/u] and [u]p[/u] ≺ [u]q[/u], then [u]q[/u]

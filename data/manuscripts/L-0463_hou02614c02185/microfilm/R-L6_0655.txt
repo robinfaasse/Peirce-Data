@@ -1,0 +1,19 @@
+[pn]34[/pn] On the other hand,
+$$j_x j_y j_m A = j_x [ j_y (j_m A) ] = j_x [ j_y I_m ] = j_x [ [y,m,1] I_1 + [y,m,2] I_2 + \text{etc} ] = j_x \sum_t [y,m,t] I_t$$
+$$= \sum_t [y,m,t] j_x I_t = \sum_t [y,m,t] ( [x,t,1] [I_1 + [x,t,2] I_2 + \text{etc}] ) =$$
+$$= \sum_t \sum_{\pi} [y,m,t] [x,t,\pi] I_{\pi}$$
+
+Now put [del]these[/del] [ins]this[/ins] result beside the last on the last page, writing $t$, and $p$ as the summator variable in the one and $\tau$ and $\pi$ in the other; and they are
+$$\begin{aligned} i_x i_y i_m &= \sum_t \sum_p [y,m,t] [x,t,p] i_p \\ j_x j_y j_m A &= \sum_{\tau} \sum_{\pi} [y,m,\tau] [x,\tau,\pi] I_{\pi} \end{aligned}$$
+[del]and it is obvious that[/del] their multiplication-tables are exactly alike [del]in form[/del]. Now the form of the multiplication-table is the only meaning or sense that these otherwise undefined letters have.
+
+It is thus proved that any linear associative system of units may be put into matricular, or [del]at[/del] dyadic-relative form by simply regarding the coefficients of its multiplication-table as coefficients of capital-pairs in [del]the[/del] the precise manner in which the formula
+$$j_u = (J_u : A) + \sum_v \sum_w [u,v,w] (I_w : I_v)$$
+where the [del]bracketed[/del] [ins]coefficients[/ins] take the values read off from the multiplication table by the rule
+$$i_p i_q = \sum_r [p,q,r] i_r$$
+
+A concrete example will give the familiarity-kind of clearness to this. Required to put the algebra called by my father ($b d_5$) into matricular, or dyadic-relative, form. Its multiplication table is this
+
+[fig]Multiplication table for algebra bd5[/fig]
+
+Now the first term of the value of [del]each[/del] [ins]any $i_x$[/ins] in the new form, [del]whatever $x$ may be[/del] is always $(I_x : A)$ The other terms are found by looking along the [del]line[/del] [ins]horizontal[/ins] [del]file[/del] [ins]row[/ins] of the table that has $i_x$ set down at the left of it and if a unit say $i_z$ is found in the vertical file headed $i_y$, with it coefficient $k$ then the matricular value of $i_x$ must have a term $k (I_y : I_z)$. This rule will give in the present case

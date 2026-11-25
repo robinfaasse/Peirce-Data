@@ -1,0 +1,31 @@
+$\Delta a^x \phi x = a^{x+1} \phi(x+1) - a^x \phi x$
+
+$\Delta x a^x = (x+1) [del]a^{x+1}[/del] [ins]a^{x+1}[/ins] - x a^x$
+$= x a^x (a-1) + [del]a^{x+1}[/del]$
+$= x a^x \cdot a + a^x \cdot a - x a^x$
+$= (a-1) x \cdot a^x + a \cdot a^x$
+
+$\Delta a^x = a^{x+1} - a^x = (a-1) a^x$
+
+$\Delta \frac{a}{a-1} a^x = \frac{a}{a-1} (a-1) a^x = a \cdot a^x$
+
+$\Delta x a^x - \frac{a}{a-1} a^x = \Delta \frac{a x - x - a}{(a-1)^2} a^x = x a^x$
+
+$\Delta [del]\frac{a x^2}{2}[/del]$
+$\Delta \frac{1}{2} x (x-1) = \frac{1}{2} (x+1) x - \frac{1}{2} x (x-1) = x \{ \frac{1}{2} (x+1) - \frac{1}{2} (x-1) \} = x$
+
+$\Sigma x = \frac{1}{2} x (x-1) + C$
+
+$\Delta \frac{1}{a-1} a^x = \frac{1}{a-1} \{ a^{x+1} - a^x \} = \frac{a^x (a-1)}{a-1} = a^x$
+
+$\Sigma a^x = \frac{1}{a-1} a^x + C$
+
+$\Sigma [del](C - \frac{60}{29} x)[/del] = \Sigma (C - \frac{60}{29} x) (\frac{29}{31})^x = \Sigma C (\frac{29}{31})^x - \Sigma \frac{60}{29} x (\frac{29}{31})^x$
+$= C \Sigma (\frac{29}{31})^x - \frac{60}{29} \Sigma x (\frac{29}{31})^x$
+$= \frac{C}{\frac{29}{31} - \frac{31}{31}} (\frac{29}{31})^x + C_2 - \frac{60}{29} \{ \frac{x (\frac{29}{31})^x - \frac{29}{31}}{\frac{29}{31} - \frac{31}{31}} (\frac{29}{31})^x \}$
+$= - \frac{31}{60} C (\frac{29}{31})^x C_2 - \frac{60}{29} x (\frac{29}{31})^x + (\frac{29}{31})^x$
+$= (1 - \frac{31}{60} C) (\frac{29}{31})^x - \frac{60}{29} x (\frac{29}{31})^x + C_2$
+
+$\frac{29}{31} \Sigma = (\frac{29}{31} - \frac{29}{60} C) (\frac{29}{31})^x - \frac{60}{31} x (\frac{29}{31})^x + \frac{29}{31} C_2$
+
+$u_x = C_1 - \frac{60}{31} x + C_2 (\frac{31}{29})^x$

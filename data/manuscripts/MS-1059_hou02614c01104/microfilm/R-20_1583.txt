@@ -1,0 +1,28 @@
+[pn]1[/pn]
+
+Given the cubic
+(1) $(x^2+y^2)(y+c) + 2\bar{c}xy = 0$
+Required formula for points of tangency of tangents from a given point on the cubic.
+
+Take a line through $X,Y$
+$\frac{x-X}{y-Y} = a$
+(2) $x = ay + (X-aY)$
+$x^2 = a^2y^2 + 2a(X-aY)y + (X-aY)^2$
+Substitute in 1) for [del]intersection[/del] [ins]equation[/ins] of intersections
+(3) $(1+a^2)y^3 + 2a(X-aY)y^2 + (X-aY)^2y$
+$+ (1+a^2)c y^2 + 2a(X-aY)cy + (X-aY)^2c$
+$+ 2a\bar{c}y^2 + 2(X-aY)\bar{c}y$
+
+$= (1+a^2)y^3 + [2aX - 2a^2Y + (1+a^2)c + 2a\bar{c}]y^2 + [X^2 - 2aXY + a^2Y^2 + 2(ac+\bar{c})X - 2a(ac+\bar{c})Y]y$
+$+ (X-aY)^2c = 0$
+
+If $X,Y$ is on the cubic, this is divisible by $y-Y$
+(4) Quotient $(1+a^2)y^2 + [2aX + (1-a^2)Y + (1+a^2)c + 2a\bar{c}]y + X^2 + Y^2 + (1-a^2)cY + 2(ac+\bar{c})X$
+
+[del]$+ x^2$[/del] [del]$x^2y$[/del] [del]$x^2$[/del] [del]$y$[/del] [del]$+ X$[/del] [del]$+$[/del] [del]$y^3$[/del] [del]$+$[/del] [del]$cy^2$[/del] [del]$+ 2$[/del] [del]$c$[/del] [del]$xy$[/del] [del]$+ cX^2$[/del] [del]$= 0$[/del]
+
+If the line is a tangent the two roots of (4) are equal
+(5) [del]$-4X^2 - 4a^2X$[/del] $4a^2X^2 + 4a(1-a^2)XY + (1-2a^2+a^4)Y^2$ [del]$- 4(a+a^3)cX + 4a^2cX - 2(1-a^2)cY + 4(a-a^3)\bar{c}Y$[/del]
+[del]$- 4 - 4a^2$[/del] [del]$Y^2 - 8(a+a^3)cX - 8\bar{c}X - 4(1+a^2)cY$[/del]
+[del]$- 8\bar{c}X$[/del]
+$+ (1+2a^2+a^4)c^2 + 4(a+a^3)c\bar{c} + 4a^2\bar{c}^2 = 0$

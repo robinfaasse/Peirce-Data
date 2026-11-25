@@ -1,0 +1,18 @@
+Numerical Equation
+
+$Ax^2 + Bx + C = 0$
+
+$x = -\frac{1}{2} \frac{B}{A} \pm \frac{B}{2A} \sqrt{1 - 4 \frac{AC}{B^2}}$
+
+$1 > 4 \frac{AC}{B^2}$ or the roots are imaginary.
+
+$x_1 = -\frac{B}{A} + \frac{C}{B} + \frac{AC^2}{B^3} = -\frac{B}{A} + \frac{1}{\frac{B}{C} - \frac{A}{B}}$
+
+$x_2 = \frac{1}{\frac{A}{B} - \frac{B}{C}}$
+
+When $C$ is large and negative
+
+$Ax^2 + Bx - C^2 = 0$
+
+$x = -\frac{1}{2} \frac{B}{A} \pm \frac{\sqrt{B^2 + 4AC^2}}{2A} = -\frac{1}{2} \frac{B}{A} \pm \frac{C}{\sqrt{A}} \sqrt{1 + \frac{B^2}{4AC^2}}$
+$= -\frac{1}{2} \frac{B}{A} \pm \frac{C}{\sqrt{A}}$

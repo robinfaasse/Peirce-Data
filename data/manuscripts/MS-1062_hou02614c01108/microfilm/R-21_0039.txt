@@ -1,0 +1,20 @@
+Complete solution is
+
+$\phi_1 = \beta_1 A \cos \frac{t - t_1}{\sqrt{\frac{\lambda_1 + \lambda_2}{2} + \sqrt{(\frac{\lambda_1 - \lambda_2}{2})^2 + \beta_1 \beta_2}}} + \beta_1 B \cos \frac{t - t_2}{\sqrt{\frac{\lambda_1 + \lambda_2}{2} - \sqrt{(\frac{\lambda_1 - \lambda_2}{2})^2 + \beta_1 \beta_2}}}$
+
+$\phi_2 = \{ \sqrt{(\frac{\lambda_1 - \lambda_2}{2})^2 + \beta_1 \beta_2} - \frac{\lambda_1 - \lambda_2}{2} \} A \cos \frac{t - t_1}{\sqrt{\frac{\lambda_1 + \lambda_2}{2} + \sqrt{(\frac{\lambda_1 - \lambda_2}{2})^2 + \beta_1 \beta_2}}}$
+$- \{ \sqrt{(\frac{\lambda_1 - \lambda_2}{2})^2 + \beta_1 \beta_2} + \frac{\lambda_1 - \lambda_2}{2} \} B \cos \frac{t - t_2}{\sqrt{\frac{\lambda_1 + \lambda_2}{2} - \sqrt{(\frac{\lambda_1 - \lambda_2}{2})^2 + \beta_1 \beta_2}}}$
+
+Condition that long pendulum shall have short period
+of oscillation is that
+$B > A$
+
+Max. amplitude $\phi_1 = \beta_1 (A + B)$
+
+Min amplitude $\phi_2$
+$= (\sqrt{} + \delta) B - (\sqrt{} - \delta) A = \sqrt{} (B - A) + \delta (B + A)$
+
+Then [del]min[/del] [ins]max[/ins] ampl. $\phi_2$ must exceed $\frac{\delta}{\beta_1} \times$ max ampl. $\phi_1$
+
+They must at [del]some[/del] [ins]their[/ins] moments have opposite
+phases

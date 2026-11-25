@@ -1,0 +1,12 @@
+[pn]18[/pn]
+[ins]Then taking[/ins]
+
+[u]Art. 11 Theorem 4[/u]. If two planes are perpendicular, [del]then a[/del] [ins]in either a ray[/ins] [del]ray of either perpendicular to their intersection, is perpendi-[/del] [ins]every[/ins] [del]cular to[/del] [ins]plane through the[/ins] perpendicular [del]ray[/del] is perpendicular to the second of the two planes.
+
+[u]Demonstration[/u]. Let [math](\alpha)[/math] and [math](\beta)[/math] be two planes such that [math]\angle \alpha \beta = \frac{1}{2} \mathbb{O}[/math], and let [math]\{c\} = \{\alpha \beta\}[/math], let [math]\{d\}[/math] be contained in [math](\beta)[/math], [del]and[/del] let [math]\angle cd = \frac{1}{2} \mathbb{O}[/math], and let [math](e)[/math] contain [math]\{d\}[/math]. Then, I say the [math]\angle \alpha e = \frac{1}{2} \mathbb{O}[/math].
+
+[fig]Geometric diagram showing intersecting planes and rays[/fig]
+
+For let [math](\zeta)[/math] be a plane through [math]\{\alpha e\}[/math] such that [math]\angle \alpha \zeta = \frac{1}{2} \mathbb{O}[/math]. Then, in the spherical triangle [math]L \alpha \beta \zeta[/math] we have [math]\angle \alpha \beta = \angle \alpha \zeta = \frac{1}{2} \mathbb{O}[/math]. Whence, by [del]Theorem[/del] [ins]Corollary[/ins] 7, the spherical distance of [math]\{\beta \zeta\}[/math] from [math]\{\alpha \beta\}[/math] is a spherical quadrant. That is, their plane angle is a right angle. But both [math]\{\beta \zeta\}[/math] and [math]\{\beta e\}[/math] [del]pass th[/del] [ins]contain[/ins] [math][\alpha \beta e][/math]. Now, by [del]Theorem[/del] [ins]Corollary[/ins] 6, there is but ray in [math](\beta)[/math] through [math][\alpha \beta e][/math] perpendicular to [math]\{\alpha \beta\}[/math]. Hence [math]\{\beta \zeta\} = \{\beta e\}[/math]. [del]Now[/del] [ins]Now[/ins] [math]\{\alpha \zeta\} = \{\alpha e\}[/math]. But through two given rays there is but one plane. Hence [math](\zeta) = (e)[/math], and since [math]\angle \alpha \zeta = \frac{1}{2} \mathbb{O}[/math] we have [math]\angle \alpha e = \frac{1}{2} \mathbb{O}[/math]. Q.E.D.
+
+[u]Corollary 8[/u]. If two points are distant a quadrant, then taking a ray through either, [ins]point[/ins] perpendicular to the ray through both, every point on it is distant a quadrant from the second point.

@@ -1,0 +1,27 @@
+[pn]131[/pn]
+
+To fix our ideas let us suppose, $P=2, Q=3, R=5, S=7, [del]T=11[/del]$.
+Now consider the quantity $R - \frac{(S-R)(R-P)}{S-R+(S-P)t}$ [del]where $t$ is a[/del]
+quantity which changes with the time. At some very distant
+date in the past suppose $t = -1000000$. Then with the values
+we have taken our quantity is $R - \frac{(S-R)(R-P)}{S-R+(S-P)t} = 5 + \frac{6}{[del]2 - 5000000[/del] [ins]4999998[/ins]}$, that
+is, it is a very little more than $R$. As $t$ increases the quantity
+becomes larger until when $t = -1$ it is $R - \frac{(S-R)(R-P)}{P-R} = S$. When
+$t$ gets to be nearly $-\frac{S-R}{S-P}$ or with our numbers $\frac{2}{5}$, the quantity be-
+comes enormous. Thus for $t = [del]\frac{1}{2}[/del] [ins]our[/ins]$ with [del]the[/del] numbers it is $5 [del]+[/del] \frac{6}{2-\frac{5}{2}} = [del]17[/del] [ins]17[/ins]$
+for $t = [del]-\frac{4}{9}[/del] [ins]-\frac{4}{9}[/ins]$ it is $5 - \frac{6}{2-\frac{20}{9}} = 32$. For $t = 0.41$ it is $120$, and for
+$t = 0.4002$ it is $6005$. But as soon as $t > -\frac{S-R}{S-P}$ we find our
+quantity an extremely small negative quantity. Thus for $t = [del]-.4002[/del] [ins]-.3998[/ins]$ it
+is $-5995$; for $t = -.38$ it is $-55$. For $t = -\frac{1}{3}$, it is $-13$ and
+finally when $t = 0$ $R - \frac{(S-R)(R-P)}{S-R+(S-P)0} = P$. It now continues
+[del]to increase, When $t$ becomes $t = \frac{(S-R)(R-P)}{(R-Q)(S-P)}$[/del] [ins]$t = \frac{(S-R)(Q-P)}{(S-P)(R-Q)}$[/ins] we
+find our quantity becomes $Q$. Thus for our numbers with $t = \frac{2 \times 1}{5 \times 2} = \frac{1}{5}$
+$R - \frac{(S-R)(R-P)}{S-R+(S-P)t} = 5 - \frac{6}{2+\frac{5}{5}} = 3$. And when $t$ becomes very
+large indeed the quantity comes nearly up to $R$.
+
+In fact, if any four numbers are taken, $P, Q, R, S$, and we form
+the quantity $\frac{(S-R)(Q-P)}{(S-Q)(R-P)}$, which is called [del]their[/del] [ins]one of the six[/ins] [del]anharmonic ratios[/del] [ins]rational[/ins] [del]$\lambda$[/del]
+Let us remark that taking any four numbers, $P, Q, R, S$,
+there are six quantities called their anharmonic ratios. They
+are $\frac{(S-R)(Q-P)}{(S-Q)(R-P)}$, $\frac{(Q-S)(P-R)}{(Q-P)(S-R)}$, $\frac{(S-P)(Q-R)}{(S-Q)(P-R)}$, $\frac{(Q-S)(R-P)}{(Q-R)(S-P)}$, $\frac{(Q-R)(P-S)}{(Q-P)(R-S)}$, $\frac{(R-P)(S-Q)}{(P-S)(Q-R)}$
+We can choose any one of these; and keeping three of the

@@ -1,0 +1,27 @@
+[u]$\frac{D_{i}^{m-1} \cdot \frac{F(x_{0}+i)}{x-x_{0}-i}}{(m-1)!}$[/u]
+
+$\frac{1}{x-x_{0}-i} = \frac{1}{x-x_{0}} + \frac{i}{(x-x_{0})^{2}} + \frac{i^{2}}{(x-x_{0})^{3}} + \dots \frac{i^{r}}{(x-x_{0})^{r+1}}$
+
+*(14)
+
+$\frac{D_{i}^{m} F(x_{0}+i) i^{m}}{(m-1)!} =$ express[del]ion[/del]
+
+coelf. $i^{m}$ in the developement of
+$F(x_{0}+i) i^{m}$
+
+$P(x_{0}+i) = \frac{D_{i}^{m-1-p} F(x_{0}+i)}{(m-p-1)!}$
+
+$D_{i}$ here is the same as $D_{x_{0}}$ becau[del]se[/del]
+
+it contains one just as it does the other.
+
+$\sum_{r} \left[ \frac{D_{x_{0}}^{r} F_{x_{0}}}{(x-x_{0})^{m-r} (m-r-1)!} \right]$
+
+$p = m-1$
+
+$\frac{F_{x_{0}}}{(x-x_{0})^{m}} + \frac{D_{x_{0}} F_{x_{0}}}{(x-x_{0})^{m-1}} + \frac{D_{x_{0}}^{2} F_{x_{0}}}{2!(x-x_{0})^{m-2}}$
+
+Therefore you do not really but only theoretically go on to $\infty$.
+Look at form of this development. [del]D simplified[/del] $D$.
+
+$\frac{D^{m-1} F_{x_{0}}}{(m-1)! (x-x_{0})}$

@@ -1,0 +1,17 @@
+The Kinetic potency of the system is
+
+$$U = \frac{1}{2} \sum_{1}^{P}{}_{i} \varepsilon_{i} \left(\theta_{i} - \theta_{i-1}\right)^{2} [del]+[/del] [ins]+[/ins] g \sum_{1}^{P-1}{}_{i} \sum_{i+1}^{P}{}_{n} m_{n} l_{i} \cos \theta_{i} + g \sum_{1}^{P}{}_{n} m_{n} h_{n} \cos \theta_{n}$$
+
+This gives
+$$D_{\theta_{k}} U = \varepsilon_{k} \left(\theta_{k} - \theta_{k-1}\right) [del]+[/del] [ins]-[/ins] \varepsilon_{k+1} \left(\theta_{k+1} - \theta_{k}\right)$$
+$$+ g \sum_{k+1}^{P}{}_{n} \left\{ m_{n} l_{k} \sin \theta_{k} \right\} + g m_{k} h_{k} \sin \theta_{k}$$
+
+$$D_{\theta_{1}} U = \varepsilon_{1} \left(\theta_{1} - \theta_{0}\right) - \varepsilon_{2} \left(\theta_{2} - \theta_{1}\right)$$
+$$+ g \sum_{2}^{P}{}_{n} \left\{ m_{n} l_{1} \sin \theta_{1} \right\} + g m_{1} h_{1} \sin \theta_{1}$$
+
+$$D_{\theta_{P}} U = \varepsilon_{P} \left(\theta_{P} - \theta_{P-1}\right) + g m_{P} h_{P} \sin \theta_{P}$$
+
+The $\varepsilon$'s signify the elasticity of the joints, and $\theta_{0}$ the unconstrained position of the first piece.
+The Lagrangian equations are.
+[del]$[m_{1} (h_{1}^{2} + \gamma_{1}^{2}) + 2 \sum_{2}^{P}{}_{n} m_{n} l_{1}^{2}] D_{\theta_{1}} - \varepsilon_{1} \theta_{0} + (\varepsilon_{1} + \varepsilon_{2}) \theta_{1} - \varepsilon_{2} \theta_{2}$
+$+ g \sum_{2}^{P}{}_{n} \{ m_{n} l_{1} \sin \theta_{1} \} + g m_{1} h_{1} \sin \theta_{1} = 0$[/del]

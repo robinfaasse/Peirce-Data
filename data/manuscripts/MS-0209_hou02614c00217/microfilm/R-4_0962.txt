@@ -1,0 +1,19 @@
+Thus, the first $a-1$ equations are satisfied. Next, [del]putting[/del]
+
+[del]$x_1 = p + (1-p) x_2 = p + p^2 \frac{(1-p)^a - p^a (1-p)}{(1-p)^{a+1} - p^{a+1}}$[/del]
+$$= p + p \frac{p(1-p)^a - p^a(1-p)}{(1-p)^{a+1} - p^{a+1}}$$
+$$= p \frac{(1-p)^{a+1} - p^{a+1} + p(1-p)^a - p^a(1-p)}{(1-p)^{a+1} - p^{a+1}}$$
+$$= p \frac{(1-p)^a - [del]p(1-p)^a[/del] - p^{a+1} + p(1-p)^a - p^a + p^{a+1}}{(1-p)^{a+1} - p^{a+1}}$$
+$$= p \frac{(1-p)^a - p^a}{(1-p)^{a+1} - p^{a+1}} = x_0$$
+
+so that the last equation but one is satisfied. And finally
+
+$$x_a = p^{a+1} \frac{1 - 1}{(1-p)^{a+1} - p^{a+1}} = 0$$
+
+so that all the equations are satisfied. The expression for $x_n$ may be put into [del]a[/del] [ins]more[/ins] convenient form, if one remember that $\frac{p}{1-p}$ is the "odds" or the ratio [del]of[/del] of chances in favor to chances against winning a single bet. Then denoting this odds by $\omega$
+
+$$x_n = \omega^{n+1} \frac{1 - \omega^{a-n}}{1 - \omega^{a+1}}.$$
+
+When the game is even, that is, when the chance of winning a single bet equals the chance of losing it, the above solution becomes indeterminate. We then have
+
+$$x_n = \frac{1}{2} (x_{n+1} + x_{n-1})$$

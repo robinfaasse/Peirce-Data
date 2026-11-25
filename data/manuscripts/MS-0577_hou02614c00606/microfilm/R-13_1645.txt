@@ -1,0 +1,24 @@
+[u]Algebra of the Copula[/u]
+
+Let a row of letters be given, and let it be
+separated into two parts by a punctuation mark;
+then let each part be separated into two parts by
+slighter punctuation marks, and so on until
+the separation can be carried no further. The
+resulting form is such a form as is here
+[del]to[/del] [ins]to[/ins] be studied.
+
+As a matter of curiosity we may inquire
+how many such forms there are with any
+given number of letters. Here are examples
+Let n be the number of letters, and [u]F[/u][sub]n[/sub] that
+of the forms.
+
+[u]F[/u][sub]1[/sub] = 1          A
+___________
+
+[u]F[/u][sub]2[/sub] = 1          AB
+___________
+
+[u]F[/u][sub]3[/sub] = 2          AB,C
+                A,BC

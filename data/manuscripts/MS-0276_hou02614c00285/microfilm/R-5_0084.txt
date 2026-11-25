@@ -1,0 +1,35 @@
+[fig]Coordinate axes with arrows[/fig]
+
+[fig]Coordinate axes with "Forward" label[/fig]
+
+[fig]Helix coil[/fig]
+
+[fig]Small triangle diagram[/fig]
+
+[fig]Circle with sector and triangle[/fig]
+
+$x = r \cos \theta$
+$y = r \sin \theta$
+
+$D_t z = H$ (positive)
+$D_t \theta = C$ (positive)
+
+$D_t x = -Cy$
+$D_t y = Cx$
+
+$x_i \cdot y_i = (y_i - y_c) \cdot (x_i - x_c)$
+
+***
+
+In order to form the equation of the rosette, we need three equations to determine $a$, $b$, and $c$ in this equation
+$$\frac{x_i^2}{a} + \frac{y_i^2}{b} + \frac{z_i^2}{c} = 1$$
+
+Of these the first expresses the fact that the rosette passes through the point of the helix to which it belongs. That is
+$$\frac{x_i^2}{a} + \frac{y_i^2}{b} + \frac{z_i^2}{c} = 1$$
+
+The second is that it passes through the axis at the same value of $z_i$. That is
+$$\frac{z_i^2}{c} = 1$$
+
+The third equation expresses the leaning back of the rosette
+
+[fig]Arrow pointing left[/fig]

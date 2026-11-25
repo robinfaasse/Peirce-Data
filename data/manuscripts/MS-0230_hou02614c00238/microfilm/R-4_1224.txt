@@ -1,0 +1,21 @@
+Let 
+$$\frac{x}{l} = \frac{y}{m} = \frac{z}{n}$$
+be the equations of the axis through the origin.
+
+The distance of any point of the axis from the origin is
+[del]$$x^2 + y^2 + z^2$$[/del]
+
+$$= \sqrt{x^2 + \frac{m^2}{l^2}x^2 + \frac{n^2}{l^2}x^2}$$
+
+$$= \frac{x}{l} \sqrt{l^2 + m^2 + n^2}$$
+
+Put $\sqrt{l^2 + m^2 + n^2} = 1$ and write
+$$h = \frac{x}{l} = \frac{y}{m} = \frac{z}{n}$$
+Then the distance is $h$.
+
+[del]Let $x_1, y_1, z_1$[/del]
+Consider the plane
+$$lx + my + nz = h$$
+The distance of any point of this plane from the origin is
+$\sqrt{x_1^2 + y_1^2 + z_1^2}$. The condition that this is the nearest point is
+$$x_1 dx + y_1 dy + z_1 dz = 0$$

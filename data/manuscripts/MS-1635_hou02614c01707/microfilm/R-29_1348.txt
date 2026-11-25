@@ -1,0 +1,40 @@
+[pn]B-1[/pn]
+$\sqrt{a} + \sqrt{b} = 1$
+$a + b + 2\sqrt{ab} = 1$
+$4ab = 1 - 2a - 2b + a^2 + 2ab + b^2$
+$\sqrt{a} + \sqrt{b} - 1$
+$a^2 - 2ab + b^2 - 2a - 2b + 1$
+
+[u]$A+B-1$[/u]
+$A^4 - 2A^2B^2 + B^4 - 2A^2 - 2B^2 + 1$
+[u]$A^4 + A^3B - A^3$[/u]
+$-A^3B + A^3$
+[u]$-A^3B \ \ \ \ - A^2B^2 + AB^2$[/u]
+$A^3 \ [del]- A^2B^2[/del] \ [ins]+ A^2B^2[/ins] - 2A^2 + B^4 - 2B^2 + 1$
+[u]$A^3 \ \ \ \ \ \ \ \ \ \ \ + A^2B - A^2$[/u]
+$\ \ \ \ - A^2B^2 - 2A^2B - A^2 + B^4 - 2B^2 + 1$
+[u]$\ \ \ \ - A^2B^2 \ \ \ \ \ \ \ \ \ \ \ \ - AB^3 + AB^2$[/u]
+$-2A^2B - A^2 + AB^3 - AB^2 + B^4 - 2B^2 + 1$
+[u]$-2A^2B \ \ \ \ \ \ \ \ \ \ \ \ - 2AB^2 + 2AB$[/u]
+$-A^2 + AB^3 + AB^2 - 2AB + B^4 - 2B^2 + 1$
+[u]$-A^2 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ - AB + A$[/u]
+[del]$+AB^3 + AB^2 - AB + A + B^4 - 2B^2 + 1$[/del]
+[del]$AB^3 + AB^2 - AB + A + B^4 - 2B^2 + B - 1$[/del]
+[u]$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ -2B + 2$[/u]
+
+[fig]vertical line separating columns[/fig]
+
+$\begin{array}{l} A^3 - A^2B \\ \ \ + A^2 \\ \ \ \ \ - AB^2 \\ \ \ \ \ + 2AB \\ \ \ \ \ - A \\ + B^3 + B^2 \\ \ \ \ \ - B + 1 \end{array}$
+
+$A^4 - 2A^2B^2 - 2A^2 + B^4 - 2B^2 + 1$
+[u]$A^4 + A^3B - A^3$[/u]
+$A^3B + A^3 - 2A^2B^2 - 2A^2 + B^4 - 2B^2 + 1$
+[u]$A^3B + A^3 - A^2B^2 - AB^2 - A^2$[/u]
+$-A^2B^2 - 2AB + A^2 + B^4 - 2B^2 + 1$
+[u]$-A^2B^2 - 2A^2B - A^2 - AB^3 - AB^2 + AB + A$[/u]
+$AB^3 + AB^2 - AB + B^4 - 2B^2$
+[u]$AB^3 + AB^2 - AB + B^4 + [del]2B^2[/del] [ins]- 2B^2[/ins] + B$[/u]
+
+[fig]vertical line separating columns[/fig]
+
+$\begin{array}{l} A^3 \\ \ \ - A^2B + A^2 \\ \ \ - AB^2 - 2AB - A \\ \ \ + B^3 + B^2 - B + 1 \end{array}$

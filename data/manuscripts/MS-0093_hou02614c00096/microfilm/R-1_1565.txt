@@ -1,0 +1,52 @@
+[pn]58[/pn]
+
+$$\Delta_x^2 u_{x,y} = \Delta_y^2 u_{x,y-1}$$
+$$(\Delta_x^2 E_x^{-1} - \Delta_y^2 E_y^{-1}) u_{x,y} = 0$$
+
+$$\Delta = E - 1$$
+$$\Delta^2 = E^2 - 2E + 1$$
+$$\Delta^2 E^{-1} = E - 2 + E^{-1}$$
+
+$$E_x - E_x^{-1} = E_y - E_y^{-1}$$
+$$E_x + E_y^{-1} = E_y + E_x^{-1}$$
+
+[del]$$\phi(x+1, y) + \psi(x, y-1)$$[/del]
+[del]$$= \phi(x, y+1) + \psi(x-1, y)$$[/del]
+$$\phi(x+y) + \psi(x-y)$$
+[u]$$\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad$$[/u]
+
+$$u_{x,y} - x u_{x,y-1} = 0$$
+$$(E_x E_y - x) u = 0$$
+Regard $E_y$ as const and the solution is
+$$u = [del]x![/del] E_y^{-x} x! \phi y$$
+$$= x! \phi(y-x)$$
+which obviously satisfies the equation
+
+***
+
+[pn]59[/pn]
+
+This is not in this form in Boole
+$$u_{x,y} - A_{x,y} u_{x-a, y-b} = X$$
+
+[del]Assume $z = \alpha x + \beta y$
+$$u_{x,y} = v_z$$
+$$u_{x-a, y-b} = v_{z-1}$$
+$$z-1 = \alpha(x-a) + \beta(y-b)$$
+$$1 = \alpha a + \beta b$$
+$$\beta = \frac{1 - \alpha a}{b}$$[/del]
+
+Assume
+$$u_{x,y} = v_{z,k}$$
+$$u_{x-a, y-b} = v_{z-1, k}$$
+
+That is
+$$u_{x-m, y-n} = v_{z-\alpha, k-\beta}$$
+$$\alpha = \xi m + \eta n + \zeta$$
+$$\beta = \xi' m + \eta' n + \zeta'$$
+$$0 = \zeta \quad k = \zeta'$$
+$$1 = a \xi + b \eta$$
+$$k = a \xi' + b \eta' + \zeta'$$
+Then solve equation $v_{z,k} - A'_{z,k} v_{z-1,k} = X'_{z,k}$
+and in the solution whose arbitrary constant
+is $\Phi k$ substitute values of $k$ and $v_{z,k}$

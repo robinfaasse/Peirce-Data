@@ -1,0 +1,14 @@
+[u]Theorem[/u] . [u]All right angles are equal[/u].
+[u]Demonstration[/u]. Let {AC} be a homaloid, cut at right angles at [B] by another homaloid, {BG}. Let {DF} be a third homaloid cut at right angles in [E] by a fourth homaloid {HE}. Then I say $\angle\text{ABG} = \angle\text{DEH}$.
+
+[fig]Two intersecting lines with transverse lines and curves[/fig] [fig]Two intersecting lines AC and DF meeting at J[/fig] For let [J] be the point [{AC}{DF}]. Then let the metron move along {AC} [del]with the flat film in the surface remaining in the surface,[/del] until the particle at [B] comes to [J]. Then the part of the metron filling at first $\angle\text{ABG} + \angle\text{GBC}$ comes to fill $\angle\text{AJF} + \angle\text{FJC}$, so that
+.$2\angle\text{ABG} = \angle\text{BJF} + \angle\text{FJC}$
+In like manner
+$2\angle\text{DEH} = \angle\text{EJC} + \angle\text{CJF}$
+But by Theorem , $\angle\text{BJF} = \angle\text{GJE}$
+Hence $\angle\text{ABG} = \angle\text{HED}$ Q.E.D.
+
+[u]Theorem[/u] [u]All right lengths are equal[/u].
+[u]Demonstration[/u]. Let [A], [B], [C], [D] be four points on two homaloids {AB} and {CD}, such that the two lengths between [A] and [B] are equal and the two lengths between [C] and [D] are equal. Then, I say, $|AB| = |CD|$.
+
+[fig]Two curved lines meeting at J with points A, B, C, D[/fig] [fig]Two vertical lines with points A', C', B', D'[/fig] For let [J] be the point [{AB}{CD}]. Move the metron so that the particle at this point shall not leave it and bring the filament in {CD} into {AB}. Then that filament fills that homaloid, and

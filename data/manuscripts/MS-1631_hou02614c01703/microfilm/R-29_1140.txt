@@ -1,0 +1,15 @@
+[u]Maxima and Minima.[/u]
+
+When $x=x_0$ $D^{<n}f=0$
+then [del]when $h=0$[/del] $\Delta_h f = 0$ $D_h^{<n}\Delta_h f = 0$
+when $h=0$ $h^n = 0$ $D_h^{<n}h^n = n!$
+$\frac{\Delta_h f}{h^n} = \frac{D^n(x_0 + \theta_n h)}{n!}$
+
+If $h=i$ $f(x_0+h) = f x_0 + \frac{h^n}{n!} D^n f x_0$
+
+Hence to find maxima & minima
+find vals. of variable which reduce $Df = 0$
+if $D^n$ is even & positive minimum
+" " " negative maximum
+
+[u]Contact[/u]

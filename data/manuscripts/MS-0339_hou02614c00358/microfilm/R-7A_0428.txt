@@ -1,0 +1,60 @@
+[del]$\overline{(p \prec q)} \prec \sum_{m} (m \prec p) \cdot (m \prec \bar{q})$[/del]
+
+$\prod_{m} \left\{ (m \prec p) + (m \prec \bar{q}) \right\} \prec (p \prec q)$
+
+[marginalia]This does
+follow[/marginalia]
+
+[marginalia]But what
+follows is[/marginalia]
+
+$\prod_{m} \left\{ (m \prec p) + \overline{m \prec q} \right\}$
+
+[del]$d \prec 0 - (d \prec 0) \prec 0$[/del]
+
+Either [del]from anything to[/del]
+$x \prec q$
+or there is something $m$
+[del]$m \prec (q \prec y)$[/del]
+$m \prec 0$
+
+[fig]Venn diagrams of overlapping circles[/fig]
+
+The principle is
+that if
+$\overline{p \prec q}$
+there must be something $m$
+such that
+$m \prec p$
+$m \prec \bar{q}$
+$m \overline{\prec} 0$
+
+That is if
+$(p \prec q) \prec x$
+then there is something $m$
+such that
+$m \prec p$
+$m \prec (q \prec x)$
+
+That is if whatever be $z$
+$(z \prec p) \prec u$
+$(z \prec q \prec y) \prec v$
+then $p \prec q$
+
+The principle is that if [del]$p$[/del]
+whatever $m$ may be
+[del]and if $m \prec p$[/del]
+And if $p \prec q$
+
+For [del]such[/del]
+$p \prec q$
+is true if
+[del]whatever $m$[/del]
+[del]if you take that[/del]
+[del]$m \prec p$[/del]
+[del]it is not[/del]
+[del]the case that[/del]
+and if $m \prec 0$ then
+$m \prec \bar{q}$ is [del]not[/del]
+[del]if $m \prec q$[/del]
+[del]then $m \prec x$[/del]

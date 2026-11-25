@@ -1,0 +1,19 @@
+[u]Art[/u] . [u]Theorem[/u] . [[u]Matthew Stewart's Theorem[/u].] If the points [A], [B], [C] are coradial [ins]and lie in that order[/ins], then, no matter where [P] may be,
+
+[del]BC.AP² +[/del]
+AB.CP² + BC.AP² + CA.BP² + AB.BC.CA = 0.
+
+[u]Demonstration[/u]. For, by Theorem 1
+[fig]Triangle with vertices A, B, C and point P above, connected to A, B, C[/fig] AP² = AB² + BP² - 2AB.BP.cos ABP
+PC² = BC² + BP² - 2BC.BP.cos CBP
+
+But, by Corollary , cos CBP = -cos ABP
+We multiply the first equation by BC, the second by AB, and add their products; and thus find
+[del]BC[/del] AB.PC² + BC.AP² = AB.BC² + BC.AB² + AB.BP² + BC.BP²
+= AB.BC(AB+BC) + (AB+BC)BP²
+= AB.BC.AC + AC.BP²
+
+or AB.PC² + BC.AP² - AC.BP² - AB.BC.AC = 0. Q.E.D.
+
+[u]Exercise[/u] . Given a triangle. Required to find another on the same base, knowing, [u]first[/u], that the product of that side of the [del]new[/del] [ins]required[/ins] triangle which [del]crosses[/del] [ins]intersects[/ins] a side of the given triangle multiplied into that side it cuts equals the sum of the products of the other two sides by the distances of the opposite angles from the vertex of the given triangle; and [u]second[/u], that, P, Q, R being given numbers and x and y the unknown sides of the required triangles x²P + y²Q = R.
+(Find the locus of the vertex, first, by Ptolemy's theorem and then by Matthew Stewart's theorem.)

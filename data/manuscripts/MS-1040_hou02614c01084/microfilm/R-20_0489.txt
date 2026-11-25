@@ -1,0 +1,305 @@
+```
+[marginalia]
+5173
+10346
+15519
+[/marginalia]
+
+[marginalia]
+206.92
+[del]119.0[/del] 207.00
+8
+[del]9[/del]) 206.92
+5173
+[/marginalia]
+
+[marginalia]
+25176
+5132
+6) 31.08
+5.18
+[/marginalia]
+
+[marginalia]
+0.5175 ; 05.18
+10.350 ; 10.36
+15.525 ; 15.54
+20.700 ; 20.72
+25.875 ; 25.90
+[del]31.050[/del] ; 31.08
+36.225 ; 36.26
+[del]41.400[/del] ; 41.44
+[del]46.575[/del] ; 46.62
+51.80
+[/marginalia]
+
+[marginalia]
+23
+046
+069
+092
+115
+138
+161
+184
+207
+230
+[/marginalia]
+
+[marginalia]
+103.46
+15519
+118.979
+[/marginalia]
+
+[del]
+M
+a M + b N
+(1+ab) M - b N
+-(ad+cd+abc) M + (d+bc) N
+(1+ab+ad+cd+abc) M
+-(b+d+bcd) N
+[/del]
+
+[del]
+a
+b
+c
+d
+e
+[/del]
+
+[del]
+M
+a M + b N
+(c+abc) M - [del]b[/del] [ins]c[/ins] N
+-(a+c+abc) M + (1+bc) N
+[/del]
+
+[marginalia]
+14517
+23) 119.0 (512119.0
+115
+103.0
+4.0
+154
+23
+1554
+154
+391
+23
+161
+103.50
+25.525
+119.025
+[/marginalia]
+
+[marginalia]
+[fig]scribble[/fig]
+[/marginalia]
+
+[marginalia]
+99999
+0001
+[/marginalia]
+
+[marginalia]
+1
+0
+0
+1
+[/marginalia]
+
+[marginalia]
+a
+b
+a
+[/marginalia]
+
+[marginalia]
+b
+b
+a
+[/marginalia]
+
+[marginalia]
+c
+0.111
+1+bc
+0.111
+a+c+abc
+[/marginalia]
+
+[marginalia]
+[fig]vertical lines[/fig]
+[/marginalia]
+
+[marginalia]
+9
+1111
+[/marginalia]
+
+[marginalia]
+b
+[/marginalia]
+
+---
+
+[del]
+[fig]vertical brace[/fig]
+q"
+q'
+q_2
+q'_2
+[/del]
+
+[del]
+q' = [u]M - M_2[/u]
+N_2
+= [u]M[/u]
+q' N_2 + M_2
+[u]N_2[/u]
+q' N_2
+[/del]
+
+[del]
+q'_2 = [u]M_2 - M_3[/u]
+N_3
+= [u]M_2[/u]
+q'_2 N_3 + M_3
+[u]M_3[/u]
+[/del]
+
+[del]
+N = q M + N_2
+[u]q M[/u]
+N_2
+= Q_2 M_2 + N_3
+[u]q M_2[/u]
+N_3
+[/del]
+
+[del]
+q = [u]N - N_2[/u]
+M
+[/del]
+
+[del]
+q_2 = [u]N_2 - N_3[/u]
+M_2
+[/del]
+
+---
+
+[del]
+- = [u]A_0 - A_2[/u]
+A_1
+[/del]
+
+[del]
+[u]B_1 - B_3[/u]
+B_2
+= q'
+[/del]
+
+[del]
+[u]B_0 - B_2[/u]
+B_1
+[/del]
+
+[del]
+[del]A_0[/del] - A_1
+A_0
+[/del]
+
+[del]
+q = [u]B_0 - B_2[/u]
+B_1
+[/del]
+
+[del]
+[u]A_2 - A_4[/u]
+A_3
+[/del]
+
+[del]
+[u]B_3 - B_5[/u]
+B_4
+= q'_2
+[/del]
+
+[del]
+[u]B_1 - B_3[/u]
+B_2
+[/del]
+
+[del]
+q_2 = [u]B_2 - B_4[/u]
+B_3
+[/del]
+
+[del]
+[u]B_2 - B_4[/u]
+B_3
+[/del]
+
+[del]
+[u]B_3 - B_5[/u]
+B_4
+[/del]
+
+[del]
+[u]B_0 - B_2[/u]
+B_1
+[/del]
+
+[del]
+[u]B_1 - B_3[/u]
+B_2
+[/del]
+
+[del]
+[u]B_2 - B_4[/u]
+B_3
+[/del]
+
+[del]
+[u]B_3 - B_5[/u]
+B_4
+[/del]
+
+[del]
+1
+[u]B_0 - B_2[/u]
+B_1
+[/del]
+
+[del]
+[u]B_1 - B_3[/u]
+B_2
+[/del]
+
+[del]
+1 + [u](B_1 - B_3)(B_2 - B_4)[/u]
+B_2 B_3
+[/del]
+
+[del]
+[u]B_0 - B_2[/u]
+B_1
+[/del]
+
+[del]
+[u](B_0 - B_2)(B_1 - B_3)[/u] +
+B_1 B_2
+[/del]
+
+[del]
+[u]B_1 - B_3[/u]
+B_2
++ [u]B_3 - B_5[/u]
+B_4
++ [u](B_1 - B_3)(B_2 - B_4)(B_3 - B_5)[/u]
+B_2 B_3 B_4
+[/del]
+```

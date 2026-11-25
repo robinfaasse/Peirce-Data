@@ -1,0 +1,55 @@
+[pn]14[/pn]
+
+<u>On Multitude</u>
+
+$T$ is written in the form $T$.
+
+$T_{\underline{x}}$ means "$x$ does not exist," that is $T_{\underline{x}} = 0_{\underline{x}}$;
+
+$T_{\underline{x}\underline{y}}$ means "$x$ is not $y$";
+
+$T_{\underline{x}\underline{y}\underline{z}}$ means "$x, y, z$ are not all identical," that is $T_{\underline{x}\underline{y}\underline{z}} = T_{\underline{x}\underline{y}} + T_{\underline{y}\underline{z}}$.
+
+$2_{\underline{x}\underline{y}}$ means "$x$ and $y$ are different things"; that is, $2_{\underline{x}\underline{y}} = T_{\underline{x}\underline{y}}$;
+
+$2_{\underline{x}\underline{y}\underline{z}}$ means "$x, y,$ and $z$ are two things"; that is [del]$2_{\underline{x}\underline{y}\underline{z}}$[/del]
+$$2_{\underline{x}\underline{y}\underline{z}} = (1_{\underline{x}\underline{y}} + 1_{\underline{x}\underline{z}} + 1_{\underline{y}\underline{z}}) \cdot (T_{\underline{x}\underline{y}} + T_{\underline{y}\underline{z}}) \cdot (T_{\underline{x}\underline{z}} + T_{\underline{y}\underline{z}}) \cdot (T_{\underline{y}\underline{z}} + T_{\underline{x}\underline{y}})$$
+
+$\bar{2}_{\underline{x}\underline{y}}$ means "$x$ and $y$ are not different things"; that is $\bar{2}_{\underline{x}\underline{y}} = 1_{\underline{x}\underline{y}}$.
+
+$3_{\underline{x}\underline{y}\underline{z}}$ means "$x, y, z$ are three things", that is $3_{\underline{x}\underline{y}\underline{z}} = T_{\underline{x}\underline{y}} \cdot T_{\underline{y}\underline{z}} \cdot T_{\underline{z}\underline{x}}$
+
+$3_{\underline{x}\underline{y}\underline{z}\underline{t}}$ means "$x, y, z, t$ are three things"; that is
+[del]$3_{\underline{x}\underline{y}\underline{z}\underline{t}} = (1_{\underline{x}\underline{y}} + 1_{\underline{y}\underline{z}} + 1_{\underline{z}\underline{t}} + 1_{\underline{y}\underline{z}} + 1_{\underline{y}\underline{t}} + 1_{\underline{z}\underline{t}}) \cdot$[/del]
+
+$3_{\underline{x}\underline{y}\underline{z}\underline{t}} = (1_{\underline{x}\underline{y}} + 1_{\underline{x}\underline{z}} + 1_{\underline{x}\underline{t}} + 1_{\underline{y}\underline{z}} + 1_{\underline{y}\underline{t}} + 1_{\underline{z}\underline{t}}) \cdot (T_{\underline{x}\underline{y}} + T_{\underline{x}\underline{z}}) \cdot (T_{\underline{x}\underline{y}} + T_{\underline{x}\underline{t}}) \cdot (T_{\underline{x}\underline{y}} + T_{\underline{y}\underline{z}}) \cdot (T_{\underline{x}\underline{y}} + T_{\underline{y}\underline{t}}) \cdot (T_{\underline{x}\underline{y}} + T_{\underline{z}\underline{t}}) \cdot (T_{\underline{x}\underline{z}} + T_{\underline{x}\underline{t}}) \cdot$
+$(T_{\underline{x}\underline{z}} + T_{\underline{y}\underline{z}}) \cdot (T_{\underline{x}\underline{z}} + T_{\underline{y}\underline{t}}) \cdot (T_{\underline{x}\underline{z}} + T_{\underline{z}\underline{t}}) \cdot (T_{\underline{x}\underline{t}} + T_{\underline{y}\underline{z}}) \cdot (T_{\underline{x}\underline{t}} + T_{\underline{y}\underline{t}}) \cdot (T_{\underline{x}\underline{t}} + T_{\underline{z}\underline{t}}) \cdot (T_{\underline{y}\underline{z}} + T_{\underline{y}\underline{t}}) \cdot (T_{\underline{y}\underline{z}} + T_{\underline{z}\underline{t}}) \cdot$
+$(T_{\underline{y}\underline{t}} + T_{\underline{z}\underline{t}})$
+
+It is evident that the only [del]relations[/del] [ins]of this sort[/ins] for which symbols are required are $0, \text{O}, 1, T$.
+
+The properties of $0$ are
+
+$$2_{\underline{x}\underline{y}\underline{z}} = 1_{\underline{x}\underline{y}} \cdot T_{\underline{y}\underline{z}} \cdot T_{\underline{z}\underline{x}} + T_{\underline{x}\underline{y}} \cdot 1_{\underline{y}\underline{z}} \cdot T_{\underline{z}\underline{x}} + T_{\underline{x}\underline{y}} \cdot T_{\underline{y}\underline{z}} \cdot 1_{\underline{z}\underline{x}}$$
+[del]$= 1_{\underline{x}\underline{y}} + 1_{\underline{y}\underline{z}}$[/del]
+
+$$\bar{2}_{\underline{x}\underline{y}\underline{z}} = (T_{\underline{x}\underline{y}} + 1_{\underline{y}\underline{z}} + 1_{\underline{z}\underline{x}}) \cdot (1$$
+
+$$2_{\underline{x}\underline{y}\underline{z}} = 2_{\underline{x}\underline{y}} \cdot 1$$
+
+$$1_{\underline{x}\underline{y}} = (1_{\underline{x}} + 1_{\underline{y}}) \cdot (T_{\underline{x}} + T_{\underline{y}})$$
+
+$$1_{\underline{x}\underline{y}} = (0_{\underline{x}} + 0_{\underline{y}}) \cdot (\bar{0}_{\underline{x}} + \bar{0}_{\underline{y}})$$
+
+[del]$2_{\underline{x}\underline{y}\underline{z}\underline{t}} = 3_{\underline{x}\underline{y}\underline{z}} + 3_{\underline{x}\underline{y}\underline{t}} + 3_{\underline{x}\underline{z}\underline{t}} + 3_{\underline{y}\underline{z}\underline{t}}$[/del]
+
+[del]$abcd$[/del]
+[del]$abc + abd + acd + bcd$[/del]
+[del]$(a+b)(a+c)(a+d)$[/del]
+[del]$(b+c)(b+d)(c+d)$[/del]
+
+$$2_{\underline{x}\underline{y}\underline{z}} = (2_{\underline{x}\underline{y}} + 2_{\underline{y}\underline{z}} + 2_{\underline{z}\underline{x}}) \cdot (2$$
+
+[del]$xy \cdot yz + xy \cdot \bar{xz} + xz \cdot yz$[/del]
+
+$$(\bar{x}\bar{y} + \bar{x}\bar{z}) \cdot (\bar{x}\bar{y} + \bar{y}\bar{z}) \cdot (xz + yz)$$

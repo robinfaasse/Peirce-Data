@@ -1,0 +1,51 @@
+$$\frac{ds}{\rho} = \frac{\sqrt{(dr)^2 + (dz)^2}}{\rho}$$
+
+$$\left(\frac{r}{R}\right)^2 + \left(\frac{Z-z}{Z}\right)^2 = 1$$
+
+$$\left(\frac{r}{R}\right)^2 = 1 - \frac{(Z-z)^2}{Z^2} = \frac{z(2Z-z)}{Z^2} = \frac{z}{Z}\left(2-\frac{z}{Z}\right)$$
+
+[del]$$r^2 = \frac{R^2}{Z^2} z(2Z-z)$$[/del]
+
+$$\frac{R-Z}{R} = c$$
+$$R(1-c) = Z$$
+$$R^2 = \frac{Z^2}{(1-c)^2}$$
+
+$$\left(\frac{r}{R}\right)^2 = \frac{R^2}{Z^2} z(2Z-z)$$
+$$\left(\frac{r}{R}\right)^2 = \frac{1}{(1-c)^2} z(2Z-z)$$
+
+$$r = \frac{1}{(1-c)} \sqrt{z(2Z-z)}$$
+
+$$dr = \frac{1}{(1-c)} \frac{1}{2} \frac{(2Z-2z) dz}{\sqrt{z(2Z-z)}}$$
+
+[del]$$2r dr = \frac{R^2}{Z^2} (2Z-2z) dz$$[/del]
+[del]$$\frac{dr}{dz} = \frac{R^2}{2r Z^2} (2Z-2z)$$[/del]
+[del]$$\frac{dr}{dz} = \frac{1}{(1-c)^2} \frac{1}{2r} (2Z-2z)$$[/del]
+[del]$$\frac{dr}{dz} = \frac{1}{2} \frac{1}{1-c} \frac{2Z-2z}{\sqrt{z(2Z-z)}}$$[/del]
+
+$$\left(\frac{dr}{dz}\right)^2 = \frac{1}{(1-c)^2} \frac{1}{4} \frac{4(Z-z)^2}{z(2Z-z)} = \frac{1}{(1-c)^2} \frac{(Z-z)^2}{z(2Z-z)}$$
+
+$$\frac{1-2\frac{z}{Z} + \left(\frac{z}{Z}\right)^2}{2-\frac{z}{Z}} \frac{1}{(1-c)^2} \frac{(Z-z)^2}{z(2Z-z)}$$
+
+$$r = (1-c)$$
+
+$$= \frac{1}{(1-c)^2} \left[ \frac{1}{2-\frac{z}{Z}} - \frac{z}{Z} \right] = \frac{R}{Z} \sqrt{z(2Z-z)}$$
+
+$$= \frac{1}{1-c} \sqrt{\frac{z}{Z}\left(2-\frac{z}{Z}\right)}$$
+
+$$1 + \left(\frac{dr}{dz}\right)^2 = \frac{[del]\text{???}[/del]}{(1-c)^2} + \frac{(Z-z)^2}{z(2Z-z)}$$
+
+$$dr = \frac{1}{1-c} \frac{1}{2} \frac{2Z dz - 2z dz}{\sqrt{z(2Z-z)}} = \frac{1}{2} \frac{dz}{1-c} \frac{(2Z-z)-z}{\sqrt{(2Z-z)z}}$$
+
+$$= \frac{(1-c)^2 + 2-\frac{z}{Z} - \frac{z}{Z}}{(1-c)^2}$$
+
+$$= \frac{1}{1-c} \frac{Z-z}{\sqrt{z(2Z-z)}} = \frac{2Z-z-z}{\sqrt{z(2Z-z)}}$$
+
+$$= \frac{(1-c)^2 \left(2-\frac{z}{Z}\right) + 1 - 2\frac{z}{Z} + \left(\frac{z}{Z}\right)^2}{(1-c)^2 \left(2-\frac{z}{Z}\right)}$$
+
+$$= \frac{1}{2} \frac{dz}{1-c} \left[ \sqrt{\frac{2Z-z}{z}} - \sqrt{\frac{z}{2Z-z}} \right]$$
+
+$$\frac{ds}{\rho} = \frac{dz \sqrt{1+\left(\frac{dr}{dz}\right)^2} (1-c)}{(1-c) \sqrt{z(2Z-z)}} = \frac{dz}{z} \sqrt{1 - \frac{(Z-z)^2}{(1-c)^2}}$$
+
+$$\left(\frac{dr}{dz}\right)^2 = [del]\text{???}[/del] \frac{1}{(1-c)^2} \frac{(Z-z)^2}{z(2Z-z)}$$
+
+$$= \frac{1}{(1-c)^2} \frac{Z^2-2Zz+z^2}{2Zz-z^2}$$

@@ -1,0 +1,30 @@
+[pn]2[/pn]
+
+that $y\,dx/x\,dy$ may vary with some function of $x$ which re-
+duces to unity for zero strain; e.g. $\frac{y\,dx}{x\,dy} = -\frac{3k-2n}{2(3k+n)} xy + y - x$.
+
+If however the ratio $y\,dx/x\,dy$ varies with $x$ when
+the strains are finite, such variation must take place
+irrespective of any special relation which may exist between
+the constants [u]$n$[/u] and [u]$k$[/u], determined for zero strain. Now
+there are three cases in which the lines of absolute mo-
+tion can be determined for finite strain without any
+aid from any elastic hypothesis.
+
+I. Let the cube be incompressible. Then $k = \infty$ and
+the volume, or $x^2y$, is constantly unity. For this case
+also $\sigma = 1/2$. For the corner of the cube, or for $x_0 = y_0 = 1$
+one may therefore write
+$$x y^{1/2} = x y^\sigma = 1 \qquad \therefore - y\,dx/x\,dy$$
+so that in this case [del]$\sigma$[/del] [ins]$\frac{-y\,dx}{x\,dy}$[/ins] is constant however great the strain.
+
+II. Let the cube be compressible, but infinitely rigid.
+Then the corner of the cube can [del]move[/del] [ins]move[/ins] only on the
+line $x = y$. [del]and $\sigma$[/del] The value of $\sigma$ reduces to $-1$. Thus
+the locus may be written
+$$x y^{-1} = x y^\sigma = 1.$$
+
+III. In the case of simple linear elongation, unaccom-
+panied by lateral contraction, the path of the corner is
+$x = 1$; and this implies $\sigma = 0$. The equation may be written
+$$x y^0 = x y^\sigma = 1.$$

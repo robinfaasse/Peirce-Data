@@ -1,0 +1,46 @@
+[fig]Grid of numbers[/fig]
+
+$$F_n = F_0 + n \Delta^1$$
+
+$$F_n = F_0 + n(F_1 - F_0) + \frac{n(n-1)}{2}(F_2 - 2F_1 + F_0) + \frac{n(n-1)(n-2)}{2 \cdot 3}(F_3 - 3F_2 + 3F_1 - F_0) + \frac{n!}{(n-4)! 4!} (F_4 - 4F_3 + 6F_2 - 4F_1 + F_0)$$
+
+$$\begin{array}{c|c|c|c|c|c}
+& \Delta & \Delta^2 & \Delta^3 & \Delta^4 & \Delta^5 \\
+\hline
+a & & & & & \Delta^2 - 2\Delta^3 + 2\Delta^5 \\
+b & b-a & & & \Delta - \frac{1}{2}\Delta^2 + \frac{1}{3}\Delta^3 - \frac{1}{4}\Delta^4 + \frac{1}{5}\Delta^5 & \\
+c & c-b & c-2b+a & & & \Delta^2 - \Delta^3 + \frac{11}{12}\Delta^4 - \frac{5}{6}\Delta^5 \\
+d & d-c & d-2c+b & d-3c+3b-a & \Delta^2 - \frac{1}{2}\Delta^3 + \frac{1}{3}\Delta^4 - \frac{1}{4}\Delta^5 & \\
+e & e-d & e-2d+c & e-3d+3c-b & & \Delta^3 - \frac{3}{2}\Delta^4 + \frac{7}{4}\Delta^5 \\
+f & f-e & f-2e+d & f-3e+3d-c & \Delta^2 - \frac{1}{2}\Delta^3 & \\
+& & & & & \Delta^3 - \Delta^4 + \frac{7}{12}\Delta^5 \\
+& & & & \Delta^2 + \frac{1}{2}\Delta^3 & \\
+& & & & & \Delta^3 - \frac{1}{2}\Delta^4 + \frac{1}{12}\Delta^5 \\
+& & & & \Delta^2 + \frac{1}{2}\Delta^3 + \frac{1}{6}\Delta^4 & \\
+& & & & & \Delta^3 + \frac{1}{12}\Delta^5 \\
+& & & & \Delta^2 + \frac{1}{2}\Delta^3 + \frac{1}{6}\Delta^4 + \frac{1}{24}\Delta^5 & \\
+& & & & & \Delta^3 + \frac{1}{2}\Delta^4 + \frac{1}{4}\Delta^5 \\
+& & & & & \Delta^3 + 2\Delta^4 + 2\Delta^5
+\end{array}$$
+
+$$\begin{array}{c|c|c|c}
+& \Delta & \Delta^2 & \Delta^3 \\
+\hline
+a & & & \\
+b & & & \Delta - \frac{1}{2}\Delta^2 + \frac{1}{3}\Delta^3 \\
+c & & & \\
+d & & & \Delta^2 - \frac{1}{2}\Delta^3 \\
+e & & & \\
+f & & & \Delta^2 + \frac{1}{2}\Delta^3 \\
+& & & \\
+& & & \Delta^2 + \frac{1}{2}\Delta^3
+\end{array}$$
+
+$$\begin{array}{c|l}
+f & f \\
+e & e + f - 2e + d \\
+d & d + e - 2d + c - f + 3e - 3d + c \\
+c & c + d - 2c + b \\
+b & b + c - 2b + a \\
+a & a
+\end{array}$$

@@ -1,0 +1,29 @@
+That is, $y + 10z + 100u + 1000v = 4285w$.
+
+Now $4285$ is divisible by $5$ and $5$ times a number
+ends either in $5$ or $0$. Hence $y=0$ ([del]if[/del] [ins]and[/ins] $w$ is even) or
+$y=5$ [del]if[/del] [ins]and[/ins] $w$ is odd.
+
+[del]Now[/del] [ins]But[/ins] $w$ cannot be $0$, for then, the number would not be
+written with six figures. Hence $x$ cannot be zero, for were it
+so, the triple of the number would end with $0$ and therefore $w$
+would be $0$. Now $x$ is the number in the tens place of the
+triple. That number then is not zero. Then, $y$ cannot be zero.
+For if it were so, $3x$ would [del]have $x$ in the tens place, which cannot
+be, since $3x \neq 0$.[/del] [ins]be equal to, [del]or[/del] [ins]or greater than[/ins] $w + 10x$,[/ins] since the triple of the
+number [del]has[/del] [ins]derives[/ins] its last two places [del]depend on[/del] [ins]from[/ins] $x$ and $y$ alone. But,
+of course, $3x \ge w + 10x$ implies that $w=0$ $x=0$,
+which, we have just seen, cannot be the case.
+
+We, thus, find $y=5$. This makes $w$ odd. We thus get
+from the above equation
+$$10z + 100u + 1000v = 4280w + 5(w-1),$$
+or
+$$z + 10u + 100v = 428w + \frac{1}{2}(w-1).$$
+
+[del]It is easy to see the original number is divisible by $9$. It must
+be divisible by $3$ since its [del]triple[/del] is so, and hence the sum of its digits
+is so, and hence the number itself is so. Accordingly, its triple is divi-
+sible by $9$, and therefore so is the sum of the digits, and therefore so is the
+number itself. Hence [del]z+u+v+w+x+y[/del] $z+u+v+w+x+y = 9N$ or $z+u+v+w+x = 9N+4$
+But $z+u+v = 9N + 428w + \frac{1}{2}(w-1) = 9N + 5w + \frac{1}{2}(w-1)$ Hence $6w + \frac{1}{2}(w-1) + x + y$[/del]

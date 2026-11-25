@@ -1,0 +1,31 @@
+$$\frac{dp}{dx} = \mu \left( \frac{d^2u}{dx^2} + \frac{d^2u}{dy^2} \right)$$
+
+$$\frac{dp}{dy} = \mu \left( \frac{d^2v}{dx^2} + \frac{d^2v}{dy^2} \right)$$
+
+$$\frac{du}{dx} + \frac{dv}{dy} = 0$$
+
+$$D_{x,y}^2 p = \mu D_y \left( D_x^2 + D_y^2 \right) u = \mu \left( D_x^2 + D_y^2 \right) D_y^2 \chi$$
+
+$$D_{x,y}^2 p = \mu D_x \left( D_x^2 + D_y^2 \right) [del]v[/del] = \mu \left( D_x^2 + D_y^2 \right) D_x^2 \chi$$
+
+[del]\frac{D_x - D_y}{D_y}[/del] $\cdot \left( D_x^2 + D_y^2 \right)^2 \chi = 0$
+
+$$\left( D_x^2 + D_y^2 \right) \chi =$$
+$$[del]f_1[/del] f_1(x + iy)$$
+$$+ f_2(x - iy)$$
+
+$$\left( D_x^4 + 2 D_x D_y + D_y^4 \right) \chi = 0$$
+
+$$\left( d_x + i d_y \right)^2 \left( d_x - i d_y \right)^2 \chi = 0$$
+
+$$D_x = d_x + i d_y \quad \Delta_x = d_x - i d_y$$
+
+$$D_x = d_x + D_x y \cdot d_y$$
+
+$$D_x y = i$$
+
+$$y = ix + \eta \quad y = -ix + \eta'$$
+
+$$D_x = d_x + i d_y \quad \Delta_x = d_x - i d_y$$
+
+$$D_x^2 \Delta_x^2 u = 0$$

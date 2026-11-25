@@ -1,0 +1,51 @@
+[pn]54[/pn] [pn]55[/pn]
+
+Equations reducible to Linear with const coef
+
+$u_{x+n} + A_1 \phi_x u_{x+n-1} + A_2 \phi_x \phi(x-1) u_{x+n-2}$
+$+ A_3 \phi_x \phi(x-1) \phi(x-2) u_{x+n-3} + \text{etc} = X$
+
+For put $u_x = \phi(x-1) \phi(x-2) \dots \phi 1 \cdot v_x$
+
+$u_{x+n} = P_x \phi_{x-1} \dots \phi 1 \cdot v_{x+n}$
+$u_{x+n-1} = P_{x-1} \dots \phi 1 \cdot v_{x+n-1}$
+
+$v_{x+n} + A_1 v_{x+n-1} + A_2 v_{x+n-2} + \text{etc} = \frac{X}{\phi_x P_{x-1} \dots \phi_1}$
+
+A special case is
+[del]$u_{x+n} + A_1 \phi_x u_{x+n-1} + A_2 \phi_x \phi(x-1) u_{x+n-2} + \text{etc} = X$[/del]
+
+$u_{x+n} + A_1 a^x u_{x+n-1} + A_2 a^{2x-1} u_{x+n-2} + \text{etc} = X$
+$\phi_x = a^x$
+Therefore put $u_x = a^{\frac{(x-1)(x-n+1)}{2}} v_x$
+
+Another case
+$u_{x+1} u_x + a_x u_{x+1} + b_x u_x = C_x$
+
+Put $u_x = \frac{v_{x+1}}{v_x} - a_x$
+
+$(\frac{v_{x+2}}{v_{x+1}} - a_{x+1}) (\frac{v_{x+1}}{v_x} - a_x) + a_x (\frac{v_{x+2}}{v_{x+1}} - a_{x+1})$
+$+ b_x (\frac{v_{x+1}}{v_x} - a_x) = C_x$
+
+$\frac{v_{x+2}}{v_x} - a_{x+1} \frac{v_{x+1}}{v_x} - a_x \frac{v_{x+2}}{v_{x+1}} + a_{x+1} a_x$
+$+ b_x \frac{v_{x+1}}{v_x} + a_x \frac{v_{x+2}}{v_{x+1}} - a_{x+1} a_x - a_x b_x = C_x$
+
+or $v_{x+2} + (b_x - a_{x+1}) v_{x+1} - (a_x b_x + C_x) v_x = 0$
+
+If $C_x = 0$
+$v_{x+2} + (b_x - a_{x+1}) v_{x+1} - a_x b_x v_x = 0$
+
+$(E - b_x)(E - a_x) v_x = 0$
+$(E - a_x) v_x = w_x$
+$(E - b_x) w_x = 0$
+
+<u>Another case</u>
+$u_{x+1} u_x - a_x (u_{x+1} - u_x) + 1 = 0$
+
+$\frac{1}{a_x} = \frac{u_{x+1} - u_x}{1 - u_{x+1} u_x}$
+
+Put $u_x = \tan v_x$
+$\frac{1}{a_x} = \frac{\tan v_{x+1} - \tan v_x}{1 - \tan v_{x+1} \tan v_x} = \tan (v_{x+1} - v_x) = \tan \Delta v_x$
+
+$v_x = C + \Sigma \arctan \frac{1}{a_x}$
+$u_x = \tan (C + \Sigma \arctan \frac{1}{a_x})$

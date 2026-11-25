@@ -1,0 +1,42 @@
+[marginalia]4 Colors[/marginalia]
+
+Neither can it give confine regions the same color. For con- [ins]10[/ins]
+fine regions only have one [del]to[/del] corner between them. Now the value
+of this corner cannot be zero and consequently since the sum
+of the values of intermediate corners from one region to itself
+is congruent to zero for the modulus 3, that sum from one
+region to a confine region cannot be so [del]congruent[/del]. Con-
+sequently, two confine regions cannot receive the same
+color.
+
+This matter will appear more clearly from Fig. 8. It will
+be seen that if in going [ins]clockwise[/ins] round any region
+colored D, [del]in a[/del] in passing from A
+through a corner-value, -1, we come to
+B, [del]then in[/del] [ins]and[/ins] passing from B, through a
+corner-value, -1, or from A through
+a corner-value +1, we come to C. And
+this will be so for every region colored D.
+
+[fig]Diagram of connected regions labeled A, B, C, D[/fig]
+Fig. 8.
+
+Also in passing [del]round[/del] clockwise round any [del]and B to A[/del]
+region colored C, every corner value -1 changes A to D, and D to B, [ins]and B to A[/ins]
+Also in passing [del]round[/del] clockwise round any region colored B
+a corner-value -1 changes A to C, C to D, and D to A. Also in
+passing clockwise round any region colored A a corner-value
+-1 changes B to D, D to C, and C to B. It is evident from this
+that confine regions cannot be colored alike by the rule unless the
+[del]regions receive each two different colors.[/del]
+
+Although the above reasoning is, in reality, perfectly
+cogent, yet [del]the[/del] [ins]an[/ins] objection may suggest itself. It may be
+argued that (Fig 9) if the sum of the [del]sum of[/del] [ins]corner-[/ins]values round one region
+is a+b+c $\equiv$ 0 (mod 3) and round [del]a[/del] [ins]a[/ins] confine region
+is b+c+d $\equiv$ 0 (mod 3), then the sum of the corner values
+round the two combined, or a+b+c+d will be congruent
+to zero only if a $\equiv$ d $\equiv$ b+c $\equiv$ 0 (mod 3). But the expla-
+
+[fig]Diagram of two adjacent regions with corners a, b, c, d[/fig]
+Fig. 9

@@ -1,0 +1,27 @@
+[marginalia]Hyp Geom[/marginalia] [pn]3[/pn]
+
+erected cutting the other in A. Then
+$$\cos A = \cosh a \cdot \sin B$$
+
+Upon our map let the line [u]a[/u] be represented by [del]a[/del] [ins]line[/ins] of length [u]b[/u], where [u]b[/u] is a function of [u]a[/u] to be determined,
+$$[u]b[/u] = Fa.$$
+
+Let the angle B be represented by an equal angle which, as on the map we call $\theta$. Let the equation of the curve which represents the perpendicular be represented by
+$$[u]r[/u] = f(a, \theta)$$
+
+[fig]triangle with sides r and r+dr and angle d\theta[/fig] Upon the map we have a triangle having an angle $d\theta$ included between sides of the lengths [u]r[/u], and [u]r[/u] + d[u]r[/u]; and one of the other angles is A, where
+$$\cos A = \cosh a \cdot \sin \theta$$
+
+Then by plane trigonometry
+$$\tan A = \frac{[u]r[/u] \sin d\theta}{[u]r[/u] + d[u]r[/u] - [u]r[/u] \cos d\theta} = [u]r[/u] \frac{d\theta}{d[u]r[/u]}$$
+
+whence
+$$\frac{d \log [u]r[/u]}{d\theta} = \cot A = \frac{\cos A}{\sqrt{1 - \cos^2 A}} = \frac{\cosh a \cdot \sin \theta}{\sqrt{1 - \cosh^2 a \cdot \sin^2 \theta}}$$
+$$= \frac{[del]\cosh a[/del] \cdot \sin \theta}{\sqrt{\cos^2 \theta - \tanh^2 a}}$$
+
+Multiply both sides by $\frac{d\theta}{d \cos \theta} = - \frac{1}{\sin \theta}$, and we have
+
+$$\frac{d \log [u]r[/u]}{d \cos \theta} = - \frac{1}{\sqrt{\cos^2 \theta - \tanh^2 a}}$$
+
+giving
+$$\log [u]r[/u] = - \log \left[ \frac{\cos \theta}{\tanh a} + \sqrt{\frac{\cos^2 \theta}{\tanh^2 a} - 1} \right] + \log C$$

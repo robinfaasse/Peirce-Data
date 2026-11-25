@@ -1,0 +1,26 @@
+[marginalia]Morison's Bridge 1875 Feb 21[/marginalia] [pn]2[/pn]
+
+[del]By[/del] The last gives
+
+[del]$\xi_{n+1}^2 + \xi_n^2 - 2(\xi_{n+1} + \xi_n)x_n^2 + 2x_n^2$[/del]
+[del]$+ \eta_{n+1}^2 + \eta_n^2 + 2(\eta_{n+1} + \eta_n)y_n^2 + 2y_n$[/del]
+
+$\xi_{n+s}^2 + \xi_n^2 - 2\xi_{n+s}x_{n+s} - 2\xi_n x_n + [del]3x_{n+s}^2[/del] [ins]$x_{n+s}^2 + x_n^2$[/ins]$
+$+ \eta_{n+s}^2 + \eta_n^2 - 2\eta_{n+s}y_{n+s} - 2\eta_n y_n + [del]3y_{n+s}^2[/del] [ins]$y_{n+s}^2 + y_n^2$[/ins] = \frac{n^4 + (n+s)^4}{16 R^2}$
+
+Subtracting this from the other
+
+$-2\xi_{n+s}\xi_n + 2\xi_{n+s}x_{n+s} + 2\xi_n x_n - [del]3[/del]x_{n+s}^2 - x_n^2$
+$-2\eta_{n+s}\eta_n + 2\eta_{n+s}y_{n+s} + 2\eta_n y_n - [del]y[/del]$
+
+$\xi_n = x_n + \sqrt{\frac{n^4}{16 R^2} - (\eta_n - y_n)^2}$
+
+$\xi_{n+1} = x_{n+1} + \sqrt{\frac{(n+s)^4}{16 R^2} - (\eta_{n+s} - y_{n+s})^2}$
+
+$\xi_{n+1} - \xi_n = x_{n+1} - x_n + \sqrt{\hspace{1.5cm} n+s \hspace{1.5cm}} - \sqrt{\hspace{1.5cm} n \hspace{1.5cm}}$
+
+$(\xi_{n+1} - \xi_n)^2 = (x_{n+1} - x_n)^2 + 2(x_{n+1} - x_n)(\sqrt{\hspace{0.8cm} n+s \hspace{0.8cm}} - \sqrt{\hspace{0.8cm} n \hspace{0.8cm}})$
+$+ \frac{(n+s)^4}{16 R^2} - (\eta_{n+s} - y_{n+s})^2$
+$+ \frac{n^4}{16 R^2} - (\eta_n - y_n)^2$
+$- 2 \sqrt{\hspace{8cm}}$
+$= [del]s^4 +[/del] \frac{4n^3s + 6n^2s^2 + 4ns^3 + s^4}{16 R^2} - (\eta_{n+s} - \eta_n)^2$

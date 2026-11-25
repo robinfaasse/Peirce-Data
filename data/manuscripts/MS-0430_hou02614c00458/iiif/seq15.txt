@@ -1,0 +1,16 @@
+Logic
+III
+50
+X
+
+or, [del]"Whatever[/del] [ins]"Any[/ins] catholic there may be adores some woman or other." The detached line has no significance, except to assert that something is identical with something.
+
+We must be on our guard against iterating any part of a graph in an enclosure created for the purpose. Thus, given
+[fig]man --- (disgraced / wounded)[/fig]
+or "some man is disgraced if he is wounded," one may iterate and write
+[fig]man --- (man -- disgraced / wounded)[/fig]
+whence,
+[fig]___ --- (man --- disgraced / wounded)[/fig]
+"There is something which if it is wounded is a disgraced man." But one cannot from, the first of these three iterate thus
+[fig]man --- (wounded) / (man --- disgraced / wounded)[/fig]
+and infer "some man if wounded is a disgraced non-man."

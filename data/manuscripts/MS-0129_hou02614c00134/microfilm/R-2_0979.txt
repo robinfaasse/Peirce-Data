@@ -1,0 +1,34 @@
+[del]Corollary If all the planes through each of two intersecting rays are perpendicular
+to one plane, then the latter is the metrical conjugate[/del]
+
+<u>Theorem 13</u>. <u>If all the points of two intersecting rays
+are at a quadrant's distance from one point, then this
+point is the metrical conjugate of the plane of the two
+rays.</u>
+
+<u>Demonstration</u>. Let $\{OA\}$ and $\{OB\}$ be two rays intersecting
+in $[O]$; and let $[P]$ be a point such that
+$|PO| = |PA| = |PB| = \frac{1}{2}\partial$. [ins]Denote $(OAB)$ by $(\rho)$.[/ins] Let $[C]$ be [del]a[/del] [ins]any[/ins] point in $(OAB)$, and
+[del]$(\pi)$ any plane through $[P]$. Then, I say that $[P]$
+is at a quadrant's distance from every point
+of $(OAB)$, and every plane through $[P]$ is
+perpendicular to $(OAB)$.[/del] [ins]Then, I say that $|PC| = \frac{1}{2}\partial$ and
+$\angle \pi \rho = \frac{1}{2}\partial$.[/ins]
+
+[fig]Diagram showing intersecting rays OA and OB with point P below and points C, D, E.[/fig] For since $[PO] = [PA] = \frac{1}{2}\partial$, by Corollary , $[P]$ is [del]at a quad-[/del] [ins]distant a[/ins]
+[del]rant's distance[/del] [ins]quadrant[/ins] from every point [del]of[/del] [ins]of $[P]$[/ins] $\{OA\}$. And in like manner $[P]$
+is distant a quadrant from every point [del]of[/del] [ins]of $[P]$[/ins] $\{OB\}$. Through $[C]$
+draw a ray [ins]$\{DE\}$[/ins] in [del]$(OAB)$[/del] [ins]$(\rho)$[/ins] not through $[O]$. Let $[D]$ be its intersection
+with $\{OA\}$ and $[E]$ its intersection with $\{OB\}$. Then, we have
+just seen that $|PD| = |PE| = \frac{1}{2}\partial$. Whence, by Corollary , $|PC| = \frac{1}{2}\partial$.
+
+Let $[S]$ and $[T]$ be any two points in $\{\pi\rho\}$. Then, $\Delta PST$
+is biquadrantal in $|PS|$ and $|PT|$, and consequently, by
+Theorem , $\angle S = \frac{1}{2}\partial$. That is, any ray through $[P]$ is at
+right angles with every ray of $(\rho)$ that it cuts.
+
+Then, let $(\pi')$ be another plane through $[P]$. There will
+be a spherical triangle $\Lambda \pi\pi'\rho$; and since plane angles are the
+same as spherical [del]stretches[/del] [ins]lengths[/ins], this will be biquadrantal in $)\pi($ and
+$)\pi'($ . Hence, by Theorem , $\angle \pi\rho = \frac{1}{2}\partial$. That is every plane through $[P]$
+will be perpendicular to $(\rho)$. Q.E.D.

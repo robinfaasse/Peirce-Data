@@ -1,0 +1,53 @@
+$$K - \frac{K^{2}}{\sqrt{K^{2}-1}} = [del]K - K - \frac{1}{2K} - \frac{3}{8K^{3}} - \frac{5}{16K^{5}}[/del]$$ [pn]1[/pn]
+
+$$\sqrt{1 - \frac{1}{K^{2}}} = 1 - \frac{1}{2K^{2}} - \frac{1}{8K^{4}} - \frac{1}{16K^{6}}$$
+
+$$\begin{array}{rccc}
+1 & - \frac{1}{2} & - \frac{1}{8} & - \frac{1}{16} \\
+\hline
+& + \frac{1}{2} & + \frac{1}{8} & + \frac{1}{16} \\
+& + \frac{1}{2} & - \frac{1}{4} & - \frac{1}{16} \\
+\hline
+& & + \frac{3}{8} & + \frac{1}{8} \\
+& & + \frac{3}{8} & - \frac{3}{16} \\
+\hline
+& & & + \frac{5}{16}
+\end{array}$$
+
+$$(1 + \frac{1}{2K^{2}} + \frac{3}{8K^{4}} + \frac{5}{16K^{6}})$$
+
+$$\frac{K^{2}}{\sqrt{K^{2}-1}} \log [del][[/del] [ins][[/ins] 1 + (K - \sqrt{K^{2}-1})(\sqrt{1+\xi^{2}} + \xi) [del]][/del] [ins]][/ins]$$
+
+$$(K - \sqrt{K^{2}-1})^{2}$$
+$$= 2K^{2} - 1 - 2K\sqrt{K^{2}-1} = 2K^{2} - 1 - 2K^{2}(1 - \frac{1}{2K^{2}} - \frac{1}{8K^{4}} - \frac{1}{16K^{6}})$$
+$$= \frac{1}{4K^{2}} + \frac{1}{8K^{4}}$$
+
+$$(K - \sqrt{K^{2}-1})^{3}$$
+$$= K^{3} - 3K^{2}\sqrt{K^{2}-1}$$
+$$+ 3K^{2}-3 + (-K^{2}+1)\sqrt{K^{2}-1}$$
+$$= 4K^{3}-3 + (-4K^{2}+1)\sqrt{K^{2}-1} = (-4K^{2}+1) (1 - \frac{1}{2K^{2}} - \frac{1}{8K^{4}} - \frac{1}{16K^{6}})$$
+$$\begin{array}{rllll}
+& -4K^{3} & + 2K & + \frac{1}{2K} & + \frac{1}{4K^{3}} \\
++3 & + 4K^{3} & + K & - \frac{1}{2K} & - \frac{1}{8K^{3}} & - \frac{1}{16K^{5}}
+\end{array}$$
+
+$$K - \sqrt{K^{2}-1} = K - K(1 - \frac{1}{2K^{2}} - \frac{1}{8K^{4}} - \frac{1}{16K^{6}})$$
+$$= \frac{1}{2K} + \frac{1}{8K^{3}} + \frac{1}{16K^{5}}$$
+$$= \frac{1}{2K} (1 + \frac{1}{4K^{2}} + \frac{1}{8K^{4}})$$
+
+$$(K - \sqrt{K^{2}-1})^{2} = [del]\frac{1}{4K^{2}} (1 + \frac{1}{2K^{2}} + \frac{5}{16K^{4}})[/del] \frac{1}{4K^{2}} (1 + \frac{1}{2K^{2}} + \frac{5}{16K^{4}})$$
+
+$$(\sqrt{1+\xi^{2}} + \xi)^{2}$$
+$$1 + 2\xi^{2} + 2\xi\sqrt{1+\xi^{2}}$$
+$$\xi^{3} + 3\xi^{2}\sqrt{1+\xi^{2}}$$
+$$+ 3\xi + 3\xi^{3} + (1+\xi^{2})\sqrt{1+\xi^{2}}$$
+$$3\xi + 4\xi^{3} + (1+4\xi^{2})\sqrt{1+\xi^{2}}$$
+
+$$\log [1 + (K-\sqrt{K^{2}-1})(\sqrt{1+\xi^{2}}+\xi)] = (\frac{1}{2K} + \frac{1}{8K^{3}} + [del]\frac{1}{16K^{5}}[/del]) (\xi + \sqrt{1+\xi^{2}})$$
+$$- \frac{1}{2} (\frac{1}{4K^{2}} + \frac{1}{8K^{4}}) (1 + 2\xi^{2} + 2\xi\sqrt{1+\xi^{2}})$$
+$$+ \frac{1}{3} (\frac{1}{8K^{3}} (3\xi + 4\xi^{3} + (1+4\xi^{2})\sqrt{1+\xi^{2}}$$
+
+$$= \frac{1}{K} (\frac{1}{2}\xi + \frac{1}{2}\sqrt{1+\xi^{2}}) + \frac{1}{K^{2}} (-\frac{1}{8} - \frac{1}{4}\xi^{2} - \frac{1}{4}\xi\sqrt{1+\xi^{2}}) + \frac{1}{K^{3}} (\frac{1}{8}\xi + \frac{1}{24}\xi + \frac{4}{24}\xi^{3} + (\frac{1}{24} + \frac{1}{6}\xi^{2})\sqrt{1+\xi^{2}})$$
+
+$$\frac{K^{2}}{\sqrt{K^{2}-1}} \log = (\frac{1}{2}\xi + \frac{1}{2}\sqrt{1+\xi^{2}}) + \frac{1}{K} (-\frac{1}{8} - \frac{1}{4}\xi^{2} - \frac{1}{4}\xi\sqrt{1+\xi^{2}}) + \frac{1}{K^{2}} (\frac{1}{4}\xi + \frac{1}{6}\xi^{3} + (\frac{1}{24} + \frac{1}{6}\xi^{2})\sqrt{1+\xi^{2}})$$
+$$\frac{1}{K^{2}} (\frac{1}{16}\xi + \frac{1}{4}\xi + \frac{1}{6}\xi^{3} + (\frac{1}{32} + \frac{1}{24} + \frac{1}{6}\xi^{2})\sqrt{1+\xi^{2}})$$

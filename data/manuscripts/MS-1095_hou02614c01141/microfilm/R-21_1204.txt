@@ -1,0 +1,17 @@
+[pn]71/21[/pn]
+
+[fig]Large bracket-like scribble[/fig]
+
+$(s-x_1)^2 (q+x_1)^3 + (s+x_1)^2 (q-x_1)^3$
+
+$\left\{ (s-x_1)^2 + (s+x_1)^2 \right\} (q^3 + 3x_1^2 q)$
+$- \left\{ (s+x_1)^2 - (s-x_1)^2 \right\} (3q^2 x_1 + x_1^3)$
+
+
+$\frac{(s^2-x_1^2)(q+x_1) + (s^2-x_1^2)(q-x_1)}{(s+x_1)^2 (q-x_1)^2}$
+
+$\frac{s^2 q + [del]s^2 x_1[/del] [ins]s^2 x_1[/ins] - q x_1^2 [del]- x_1^3[/del] + s^2 q - s^2 x_1^2 - q^2 x_1}{(s+x_1)^2 (q-x_1)^2}$
+
+$\frac{sq(s+q) + (s+q)(s-q)x_1 - (s+q)x_1^2}{(s+x_1)^2 (q-x_1)^2}$
+
+$= \frac{s}{s+x_1} \frac{q}{(q-x_1)^2} + \frac{s}{(s+x_1)^2} \frac{q}{q-x_1}$  $\frac{}{(s+x_1)(q-x_1)}$

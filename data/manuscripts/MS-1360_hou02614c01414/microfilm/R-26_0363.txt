@@ -1,0 +1,16 @@
+If we add the two equations of which we just took the difference,
+we have
+
+[del]$$-\delta\left(\frac{k}{Q}(s'_N+s'_0)\right) = \delta\left\{\frac{k}{Q}s''_N - 2\delta\frac{ks''_H}{Q} = \frac{-(\sin\tau_N+\sin\tau_0)\delta\frac{kx_N}{Q} + (\cos\tau_N+\cos\tau_0)\delta\frac{ky_N}{Q}}{\sin(\tau_N-\tau_0)}\right\}$$[/del]
+
+$$= -2s''_H\delta\frac{k}{Q} - 2\frac{k}{Q}\delta s''_H = \frac{-(\sin\tau_N+\sin\tau_0)\left(x_N\delta\frac{k}{Q}+\frac{k}{Q}\delta x_N\right) + (\cos\tau_N+\cos\tau_0)\left(y_N\delta\frac{k}{Q}+\frac{k}{Q}\delta y_N\right)}{\sin(\tau_N-\tau_0)}$$
+
+$$\delta s''_H = \left\{\frac{(\sin\tau_N+\sin\tau_0)x_N - (\cos\tau_N+\cos\tau_0)y_N}{2\sin(\tau_N-\tau_0)} - s''_H\right\}\delta\log\frac{k}{Q} + \frac{(\sin\tau_N+\sin\tau_0)\delta x_N - (\cos\tau_N+\cos\tau_0)\delta y_N}{2\sin(\tau_N-\tau_0)}$$
+
+On introducing $p$ and $q$
+$$\delta\left\{\frac{k}{Q}[x_N-c(x_q-x_p)]\right\} = \cos\tau_N\delta\left\{\frac{k}{Q}(s''_N-s''_H)\right\} + \cos\tau_0\delta\left\{\frac{k}{Q}(s''_H+s''_0)\right\} - c\cos\tau_q\delta\left\{\frac{k}{Q}(s''_q-s''_H)\right\} + c\cos\tau_p\delta\left\{\frac{k}{Q}(s''_H-s''_p)\right\}$$
+with a similar equation in sines for $y$.
+
+$$\delta\frac{ks''_H}{Q} = \frac{[(\cos\tau_N+\cos\tau_0)s''_H - c s''_q\cos\tau_q - s''_p\cos\tau_p]\delta\frac{k}{Q} - \delta\left\{\frac{k}{Q}[x_N-c(x_q-x_p)]\right\}}{\cos\tau_N-\cos\tau_0-c(\cos\tau_q-\cos\tau_p)}$$
+
+with a similar equation in $y$.

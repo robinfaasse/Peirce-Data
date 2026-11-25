@@ -1,0 +1,92 @@
+[del]$\alpha + \beta u_n = \alpha + \beta n$[/del]
+[del]$\alpha + \beta a = 1$[/del]
+[del]$\alpha + \beta b = 0$[/del]
+[del]$\beta(a-b) = 1$[/del]
+
+[del]$n = 1$[/del] $u = 1$
+[del]$n = 2$[/del] $u = 0$
+
+$u_n = \frac{1}{2} u_{n+1} + \frac{1}{4} u_{n-1}$
+
+$0 = u_{n+2} - 2 u_{n+1} + u_n$
+
+[del]$(b+cn) a^n$[/del]
+
+$\frac{1}{a-b}$
+$\frac{b^n}{b-a} - \frac{a^n}{b-a}$
+
+$\frac{n-b}{a-b}$
+
+$\frac{3}{4} u_0 = \frac{2}{4} + \frac{1}{4} u_2$
+$3 u_0 = 2 + u_2$
+
+$3(1+c) = 2 + 1 + 3c$
+
+[fig]Diagram with arrows pointing up and down[/fig]
+$\frac{1}{2} + \frac{1}{4} + \frac{1}{2^n}$
+
+[fig]Diagram with arrows pointing up and down[/fig]
+
+$u_n = \frac{1}{2} u_{n+1} + \frac{1}{4} u_{n-1}$
+
+[del]$(1+n) a^n = \frac{1}{2} (2+n)$[/del] [del]$2 u_0 = 2$[/del]
+
+$a(b+cn) a^n = \frac{1}{2} (b+c+cn) a^2 + \frac{1}{4} (b-c+cn)$
+
+[del]$ab + acn = \frac{1}{2} b + \frac{1}{2} c + \frac{1}{2} cn + \frac{1}{4} b - \frac{1}{4} c + \frac{1}{4} cn$[/del]
+[del]$\frac{3}{4} b + \frac{1}{4} c$[/del]
+
+$u_n = b+cn$
+
+$u_1 = 1$
+
+$1+c(n+1) = \frac{1}{2} + \frac{1}{2} c [del](n+2)[/del] + \frac{1}{2} + \frac{1}{4} c [del](n)[/del]$
+$= 1 + cn + c [del]1 + c(n+1)[/del]$
+
+$b-c = 1$
+
+$u_0 = \frac{1}{2} + \frac{1}{4} u_0$
+
+$2+n$
+
+$a^2 - 2a + 1 = 0$
+$a-1 = 0$
+$a=1$
+
+$b+c = 2$
+
+$b = \frac{1}{2} b + \frac{1}{2} c$
+
+$b + 1 + c$
+
+$u_0 = 1+c$
+$u_2 = 1+3c$
+
+$\frac{3}{4} u_0 = \frac{1}{2} + \frac{1}{4} u_2$
+
+$1+c = 2+2c = 1+3c$
+$c=1$
+
+$2 u_0 = u_2$
+$2+2c = 1+3c$
+$c=1$
+
+$\frac{365}{10000}$
+$\frac{1}{200,000}$
+
+$\frac{1}{2}$
+$\frac{1}{3}$
+$\frac{2}{4}$
+$\frac{3}{5}$
+$\frac{4}{6}$
+$\frac{5}{7}$
+
+$\frac{1}{2}$
+$\frac{2}{3}$
+$\frac{3}{4}$
+$\frac{4}{5}$
+$\frac{5}{6}$
+
+$u_0 = \frac{1}{2} + \frac{1}{4} u_2 + \frac{1}{8} u_4 + \frac{1}{16} u_6 + \dots$
+
+[fig]Diagram with arrows pointing up and down[/fig]

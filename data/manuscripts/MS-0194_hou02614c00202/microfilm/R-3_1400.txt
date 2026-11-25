@@ -1,0 +1,21 @@
+Refraction of light & refraction of [del]electro[/del][ins]electromagnetic[/ins]
+
+Let angle of incidence be $45^{\circ} + x$
+Let angle of refr. light be $45^{\circ} + y$
+Let angle of refr of EMF be $45^{\circ} + z$
+
+Then suppose index same in both cases
+$$= \frac{\sqrt{2}}{\cos \alpha + \sin \alpha}$$
+
+$$\cos y + \sin y = \sqrt{2} \cdot \frac{\cos x + \sin x}{\cos \alpha + \sin \alpha}$$
+
+If $x = \alpha$ [del]$\cos y + \sin y = \sqrt{2}$[/del] $y = 45^{\circ}$
+If $y = -\alpha$ $\sin(45^{\circ} + x) = \frac{1}{2} \cos 2\alpha$
+If $y = \alpha$ $\sin(45^{\circ} + x) = \frac{1 + \sin 2y}{2}$
+
+$$\frac{\cos z + \sin z}{\cos z - \sin z} = \frac{\sqrt{2}}{\cos \alpha + \sin \alpha} \frac{\cos x + \sin x}{\cos x - \sin x}$$
+
+$$= \frac{[del]\cos y + \sin y[/del] \cos y + \sin y}{\cos x - \sin x}$$
+
+i.e $\sin(45^{\circ} + z) : \sin(45^{\circ} + y) = \sin(45^{\circ} - z) : \sin(45^{\circ} - x)$
+Whence $z$ has a value intermediate between $x$ and $y$

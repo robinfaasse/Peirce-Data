@@ -1,0 +1,20 @@
+117
+
+[fig]diagonal line crossing the center of the first eight lines of text[/fig]
+Hm = y[u]i[/u] + x[u]j[/u] + z[u]k[/u] + r[u]l[/u] + q[u]m[/u] + s[u]n[/u]
+
+mH = y[u]i[/u] + z[u]j[/u] + x[u]k[/u] + s[u]l[/u] + q[u]m[/u] + r[u]n[/u]
+
+and we must have x = z. Hence,
+
+x = y = z      q = r = s
+
+and x = ± q. The only two idempotents, or self-squares, which
+
+answer these requirements are
+
+H = [ins]1[/ins]/6 ( [u]i[/u] + [u]j[/u] + [u]k[/u] + [u]l[/u] + [u]m[/u] + [u]n[/u] )
+
+M = [ins]1[/ins]/6 ( [u]i[/u] + [u]j[/u] + [u]k[/u] - [u]l[/u] - [u]m[/u] - [u]n[/u] )
+
+With these we get the multiplication-table here shown

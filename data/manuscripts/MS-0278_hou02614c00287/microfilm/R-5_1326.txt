@@ -1,0 +1,19 @@
+Thus we see that $(D_{\theta}r^{-1})^{2}$ can be put in the form
+
+$(D_{\theta}r^{-1})^{2} = C_{1}^{2} + 4 C_{2}(r^{-1}-C_{0}) + (6\frac{C_{3}}{C_{1}}-1) (r^{-1}-C_{0})^{2} + \text{etc}$
+
+So that
+$D_{r}(D_{\theta}r^{-1})^{2} = -\frac{1}{r^{2}} \left( 4C_{2} + 2(6\frac{C_{3}}{C_{1}}-1) (r^{-1}-C_{0}) + \text{etc} \right)$
+
+In other words the force is expressible as
+a series
+$F = E_{2}\frac{1}{r^{2}} + E_{3}\frac{1}{r^{3}} + E_{4}\frac{1}{r^{4}} + \text{etc}.$
+
+But unless $E_{4}$ etc are $= 0$ the body [del]may[/del] [ins]will[/ins]
+fall into the centre (of course, with infinite
+velocity), and indeed generally will do
+so and unless $E_{3} = 0$ it will approach
+nearer & nearer that centre forever
+in a spiral.
+
+The same holds for any orbital motion.

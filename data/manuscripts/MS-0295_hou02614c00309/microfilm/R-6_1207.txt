@@ -1,0 +1,16 @@
+[fig]Diagram of intersecting loops[/fig] [fig]Diagram of nested loops with letters b and f[/fig] [fig]Diagram of nested loops with letters b, f, and 0[/fig] = [fig]Diagram of nested loops with letters b and f[/fig] [fig]Diagram of nested loops with letters b and 0[/fig]
+
+[fig]Grid with numbers 1 to 4 on axes and dots[/fig]
+
+[marginalia]
+[del]13[/del] 14
+21 22 24
+31 33 34
+41 42 43 44
+[/marginalia]
+
+[del]$\sum_i \sum_j$[/del]
+$b_{ki} (\bar{f}_i + w_i)$
+
+$\prod_k \prod_i \prod_j$
+$\bar{b}_{ki} + f_i (\bar{b}_{ki} + \bar{w}_j)$

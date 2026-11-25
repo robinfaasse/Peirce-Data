@@ -1,0 +1,38 @@
+To find what property of relations, it is [del]p[/del]upon
+which depends, the fact that of two collections
+one is as great as the other.
+
+$$\Pi_a \Sigma_i \Pi_j \Sigma_k \ b_i \cdot (\bar{r}_{aji} + \bar{a}_j + r_{ajk} \cdot \bar{l}_{ik})$$
+$$\cdot \Pi_b \Sigma_u \Pi_v \Sigma_w \ a_u \cdot (\bar{r}_{\beta vu} + \bar{b}_v + r_{\beta vw} \cdot \bar{l}_{uw})$$
+
+Identify $v$ with $i$
+$$\Pi_a \Pi_b \ \Sigma_u \Sigma_i \ [del]\Pi_j \Sigma_k[/del] \ \Sigma_w \Pi_j \Sigma_k$$
+$$a_u \cdot b_i \cdot (\bar{r}_{aji} + \bar{a}_j + r_{ajk} \cdot \bar{l}_{ik}) \cdot (\bar{r}_{\beta iu} + \bar{b}_i + r_{\beta iw} \cdot \bar{l}_{uw})$$
+
+Identify $j$ with $u$
+$$a_u \cdot b_i \cdot (\bar{r}_{aui} + r_{auk} \cdot \bar{l}_{ik}) \cdot (\bar{r}_{\beta iu} + r_{\beta iw} \cdot \bar{l}_{uw})$$
+
+That is it is the property that
+[del]$$\Pi_a \Pi_b \ \Sigma_u \Sigma_\beta \ \Pi_u \Pi_i \ \Pi_w \Pi_k \ a_u + \bar{b}_i + r_{aui} \cdot (\bar{r}_{auk} + l_{ik}) + r_{\beta iu} \cdot (\bar{r}_{\beta iw} + l_{uw})$$[/del]
+
+or
+
+$$\Pi_a \Pi_b \ \Sigma_u \Pi_i \ \Pi_w \Pi_k \ [del]q_{au} + \bar{q}_{bi} + r_{uii} \cdot (\bar{r}_{auk} + l_{ik}) + r_{uii} \cdot (\bar{r}_{awi} + l_{uw})[/del]$$
+
+[marginalia]
+[del]unnecessary[/del]
+[/marginalia]
+
+[marginalia]
+[del]vague[/del]
+[/marginalia]
+
+[marginalia]
+[del]same[/del]
+[/marginalia]
+
+Now the question is, why am I so sure of this? It is undoubtedly
+because there is no limitation upon the possibility of relations
+except the non-existence of the correlates involved.
+
+$$\Pi_a \Pi_b \ \Sigma_\alpha \ \Pi_u \Pi_w \ \bar{q}_{au} + \bar{q}_{bi} + r_{\alpha i} \cdot (\bar{r}_{\alpha k} + \dots$$

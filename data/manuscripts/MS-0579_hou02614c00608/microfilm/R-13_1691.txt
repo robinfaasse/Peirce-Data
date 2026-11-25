@@ -1,0 +1,30 @@
+3 copulas
+
+[u]I[/u]. $a \prec [b \prec (c \prec d)] = \bar{a} + \bar{b} + \bar{c} + d$
+Rule of commutation
+
+[u]II[/u] $a \prec [(b \prec c) \prec d] = \bar{a} + \bar{b}\bar{c} + d = (b \prec c) \prec (a \prec d)$ by
+Rule of commutation
+
+Special cases
+1. $a \prec [(b \prec c) \prec a]$ Necessary by $2 \text{ II } 1$.
+2. $a \prec [(b \prec c) \prec b] = a \prec b$ by $2 \text{ II } 1$
+3. $a \prec [(b \prec c) \prec c] = a \prec [(c \prec b) \prec b]$ by $2 \text{ II } 2$
+4. $a \prec [(b \prec b) \prec a]$ Necessary by $2 \text{ II } 1$
+5 $a \prec [(b \prec a) \prec b] = a \prec b$ by $3 \text{ II } 2$
+6 $a \prec [(a \prec b) \prec b]$ Necessary by rule of commutation.
+
+[u]III[/u] $(a \prec b) \prec (c \prec d)$ $a\bar{b} + \bar{c} + d$
+[del]See II[/del]
+
+[u]IV[/u] $[a \prec (b \prec c)] \prec d = a\bar{b}\bar{c} + d = [b \prec (a \prec c)] \prec d$
+by rule of commutation.
+
+Special cases
+1 $[a \prec (b \prec c)] \prec a = a$ by $2 \text{ II } 1$
+2. $[a \prec (b \prec c)] \prec b = b$ by R. of c and $2 \text{ II } 1$
+3. $[a \prec (b \prec c)] \prec c = a\bar{b} + c = [b \prec (a \prec c)] \prec c$ by R. of c.
+This is a generalization of $2 \text{ II } 2$
+4 $[a \prec (b \prec a)] \prec d = d$ by $2 \text{ I } 1$ and $2 \text{ II } 3$
+5 $[a \prec (b \prec b)] \prec d = d$ by $2 \text{ I } 2$ and $2 \text{ II } 3$
+6 $[a \prec (a \prec c)] \prec d = (a \prec c) \prec d$ by $2 \text{ I } 3$

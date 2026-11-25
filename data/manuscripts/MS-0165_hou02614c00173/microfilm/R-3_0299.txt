@@ -1,0 +1,11 @@
+[pn]53[/pn]
+
+[u]Art 23[/u]. [u]Theorem 5[/u]. [u]No unbounded collection arranged in[/u] [u]a sequence without [del]an end[/del] [ins]a last object[/ins] can be converted into a collection[/u] [u]arranged in a sequence with [del]an end[/del] [ins]a last object[/ins] by merely removing one[/u] [u]object from it without further rearrangement.[/u]
+
+[u]Demonstration[/u]. For [del]imagine such a sequence and let[/del] [ins]let R be the an object of an endless sequence; and let[/ins] [del]R be [del]removed from the sequence without deranging the other objects. Then[/del] [ins]away[/ins] R be the object removed. Then[/del] I say the sequence is still endless. [del]There[/del] R is not the last object, since, by hypothesis, the sequence has no last object. Consequently, by Definition 17, there are other objects after [del]the last[/del] [ins]R[/ins]. Of those objects all that are after others remain, by hypothesis after them. Hence, by Definition 16, those objects form a [ins]partial[/ins] sequence. That [ins]partial[/ins] sequence [del]has[/del] [ins]before the removal,[/ins] [del]has[/del] no last; since by if it had, that last would be the last of the whole sequence. But, by hypothesis, the removal does not make an object come after another that it did not [ins]before[/ins] come after. Therefore, after the removal, that partial sequence has no last. Therefore, after the removal, the whole sequence has no last; for if it had, [del]it[/del] [ins]their last[/ins] would [del]be[/del] [ins]belong[/ins] to that partial [ins]sequence[/ins], since it must come after others, which came after R before the removal. Q.E.D.
+
+[u]Corollary 2[/u]. No collection arranged in a sequence without a first object can be converted into a collection arranged in a sequence with a first object by merely removing one object without further rearrangement.
+
+[u]Exercise 5[/u]. Demonstrate Corollary 2.
+
+[u]Corollary 3[/u]. Hence the removal of no whole number of objects can make [del]an[/del] unbounded sequence bounded.

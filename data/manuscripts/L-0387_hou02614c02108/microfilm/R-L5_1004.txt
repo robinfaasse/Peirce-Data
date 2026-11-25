@@ -1,0 +1,38 @@
+[marginalia]
+In the other notation
+$(a \dagger 0)_{ik} = \Pi_j a_{ij} \quad [a \infty]_{ik} = \Sigma_j a_{ij}$
+Now obviously $\Pi_j a_{ij} \prec a_{ik} \prec \Sigma_j a_{ij}$.
+The other formulae on the same page
+strongly illustrate the imperfection of the $a, b, c$ 's
+he prefers. Thus (13) is a special case of
+$(a \dagger 1) \cdot b \prec (a \dagger b) \dagger 0$
+With the other notation this is instantly seen. For
+$\Pi_j (a_{ij} + 1_{jk}) \cdot b_{ik} \prec \Pi_j a_{ij} + b_{ij}$.
+But in the algebra he prefers new fundamental
+formulae are requisite; and these cannot be put
+in their most general shapes, because that algebra
+does not permit us to express them. So, for
+example $(a \cdot b \cdot c) d$ equals something which we
+might write $a \cdot c \cdot b \cdot \infty \cdot d$. That is,
+$[(a \cdot b \cdot c) d]_{il} = \Sigma_k \Sigma_j a_{ij} \cdot b_{jk} \cdot c_{ik} \cdot d_{kl}$
+$= \Sigma_j \Sigma_k a_{ij} \cdot c_{ik} \cdot b_{kj} \cdot d_{kl}$
+This is not expressed by $[(a \cdot c \cdot b) \infty] \cdot (c d)$ nor by
+$(a \infty) \cdot c (b \infty \cdot d)$
+[/marginalia]
+
+In short, the algebra does not allow us to express it with the letters $a, c, b, d$
+in that order. To deduce the formulae in the lower part of p. 210
+one ought, first, to use the symbol $l^9$ for lover of itself. Then we
+have $l^9 = (l \cdot 1) \infty$
+For $[l^9]_i = l_{ii}$ and $[(l \cdot 1) \infty]_{ik} = \Sigma_j l_{ij} \cdot 1_{ij} = [del](\ell_{ii}[/del] \Sigma_j 1_{ij}[del])[/del] = l_{ii}$
+We next have $(a \cdot b \cdot c) \infty = (a \cdot c \cdot b) \infty$, of which a corollary is,
+$a \infty = (a \cdot a) \infty = (1 a \cdot a) \infty = (1 \cdot a \cdot a) \infty \prec a \cdot a \breve{\ } \infty \cdot 1 \infty = a \cdot a \breve{\ } \infty \cdot \infty = a \cdot a \breve{\ } \infty$
+and $a \cdot a \breve{\ } \infty \prec a \infty \infty = a \infty$ whence $a \infty = a \cdot a \breve{\ } \infty$. In the other no-
+tation this is evident at a glance. $\Sigma_j a_{ij} = \Sigma_j \Sigma_k a_{ij} a_{kj}$ for $a_{ij} \prec \Sigma_k a_{kj}$.
+That $a \cdot 1 = \breve{a} \cdot 1$ is evident in the other notation; for $a_{ij} 1_{ij} = a_{ji} 1_{ij}$ But in the
+algebra used by Schröder, it is quite difficult to prove it.
+Another corollary of $(a \cdot c \cdot b) \infty = (a \cdot b \cdot c) \infty$ is $(a \cdot \infty \cdot b) \infty = a b \infty$
+Another is $\{(a \cdot \breve{b}) \infty\}^0 1 = \{(a b \cdot \infty) \infty\}^0 1 = (a b)^0 1 = (a b)^0 1$
+We have $(\bar{a} \cdot \bar{b}) \infty = (\bar{a} \cdot \bar{b}) (\top \dagger 1) = (\bar{a} \cdot \bar{b}) \top \dagger (\bar{a} \cdot \bar{b}) 1 \prec \bar{a} \top \dagger \bar{b} 1 \prec \bar{a} \top \dagger \bar{b}$
+The contraposition of this is $(a \dagger 1) \cdot b \prec (a \dagger b) \dagger 0$ [ins]Putting $b=a$
+$(a \dagger 1) \cdot a \prec a \dagger 0$[/ins]

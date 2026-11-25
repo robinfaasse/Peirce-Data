@@ -1,0 +1,29 @@
+[marginalia]Morison's Pond [date]1893 Jan 23[/date][/marginalia] [pn]4[/pn]
+
+<u>Problem A</u>
+
+Let there be a [ins]weightless[/ins] chain [del]of which[/del] all the links are of unit length except the [del]of the[/del] end one [del]numbered[/del] [ins]numbered[/ins] 0 and the end one numbered N which are of half length.
+
+The joints between the links are elastic and equally so, tending [ins]to straighten themselves[/ins].
+
+[del]The zero link is fixed. The N end link can slide and turn over a fixed point[/del]
+
+The two end links have fixed directions but can slide over fixed points. [fig]Two diagrams showing linked segments sliding over fixed points[/fig]
+
+There are then N-1 degrees of freedom.
+
+The energy is
+[del]$\Sigma$[/del] $(\theta_1-\theta_0)^2 + (\theta_2-\theta_1)^2 + \text{etc} \dots - (\theta_N-\theta_{N-1})^2$
+
+The variations equated to zero give
+[del]$-(\theta_1-\theta_0)$[/del]
+$-(\theta_1-\theta_0) + (\theta_2-\theta_1) = \theta_2 - 2\theta_1 + \theta_0 = 0$
+etc.
+
+$\Delta^2 \theta = 0$
+$\Delta \theta = $ [del]B[/del] C
+$\theta = $ [del]B[/del] $B + Cn$ [ins]All the joints lie on the arc of a circle[/ins]
+$\theta_0 = B$  $\theta_N = \theta_0 + CN$
+$\frac{\theta_N - \theta_0}{N} = C$
+$\theta = \theta_0 + \frac{\theta_N - \theta_0}{N} n$
+$\frac{\theta - \theta_0}{n} = \frac{\theta_N - \theta_0}{N}$

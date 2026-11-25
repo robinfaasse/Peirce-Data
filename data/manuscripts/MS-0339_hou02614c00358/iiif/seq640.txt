@@ -1,0 +1,50 @@
+Try the triadic [del]system[/del] [ins]system[/ins] of values again
+
+$\Phi(x,y) = \Phi(y,x)$ $\Phi(x,\Phi(y,z)) = \Phi(\Phi(x,y),z)$
+
+$\Phi(L,L) = L$ [del]$\Phi(L,F) = F$[/del] $\Phi(L,F) = F$ $\Phi = (L,V) = V$
+
+$\Phi(L,\Phi(L,F)) = \Phi(L,F) = \Phi(\Phi(L,L),F)$
+
+$\Phi(F, \Phi(L,F)) = \Phi(F, F) = \Phi(F, \Phi(F,L)) = ($
+$= \Phi(\Phi(F,L)F)) = \Phi(F,F) = [del]F[/del] F$
+
+[fig]$\Phi$
+      V L F
+V V V V
+L V L F
+F V F F[/fig] [fig]$\Phi$
+      V L F
+V V V V
+L V L L
+F V L F[/fig] [del]$\Phi(V,V) = \Phi(L,V) = V$[/del]
+$\Phi(\Phi(L,F), V) = \Phi(F,V) = \Phi(\Phi(F,L), \Phi(V, L))$
+We naturally make $\Phi(F,V) = V$
+[del]$\Phi(L, \Phi(L,F)) = \Phi(\Phi(F,F),L) = \Phi(F,F)$[/del]
+$\Phi(L, \Phi(L,F)) = \Phi(\Phi(L,L),F) = \Phi(L,F) = F$
+
+[fig]$\Psi$
+      V L F
+V V V F
+L V L F
+F F F F[/fig] [fig]$\Psi$
+      V L F
+V V L F
+L L L F
+F F F F[/fig]
+$= \Phi(\Phi(L,L),F) = \Phi(L,F)$
+
+$\Phi(F, \Phi(L,F)) = \Phi(F,F)$
+$= \Phi(\Phi(F,F),L) = ?$
+$\Phi(\Phi(F,F),\Phi(L,L)) = \Phi(\Phi(F,F),L) = \Phi(F,F)$
+$\Phi(\Phi(F,L),\Phi(F,L)) = \Phi(F,F)$
+
+[fig]$f$
+      V L F
+V V L F
+L L L L
+F F L F[/fig] [fig]$\gamma$
+      V L V
+V V L L
+L L L L
+F V L F[/fig]

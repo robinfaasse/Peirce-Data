@@ -1,0 +1,50 @@
+[fig]Diagram with three points labeled Q-1, Q, and Q-2[/fig]
+[fig]Diagram with three points labeled Q-1, Q, and Q-2 with arrows[/fig]
+
+$\Theta_{Q}$ $\Theta_{Q-1}$ $\Theta_{Q-2}$
+$\gamma$ $\Theta_{Q} + \delta\theta$ $\Theta_{Q-1} - \delta\theta$ $\Theta_{Q-2}$
+$2\delta\theta$ $-\delta\theta$
+
+$2(\Theta_{Q} - \Theta_{Q-1}) - (\Theta_{Q-1} - \Theta_{Q-2}) + \frac{vL}{B} = 0$
+
+$\Theta_{Q-2} = [del]+3[/del][ins]+3[/ins]\Theta_{Q-1} - 2\Theta_{Q} - \frac{vL}{B}$
+
+[fig]Diagram with four points labeled Q-4, Q-3, Q-2, Q-1[/fig]
+$\Theta_{Q-3}$ $\Theta_{Q-2}$ $\Theta_{Q-1}$ $\Theta_{Q}$
+$-\delta\theta$ $+\delta\theta$
+$-(\Theta_{Q} - \Theta_{Q-1}) + 2(\Theta_{Q-1} - \Theta_{Q-2}) - \delta\theta + 2\delta\theta - \delta\theta - (\Theta_{Q-2} - \Theta_{Q-3}) + \frac{vL}{B} = 0$
+
+$\Theta_{Q-3} = \Theta_{Q} - 3\Theta_{Q-1} + 3\Theta_{Q-2} - \frac{vL}{B}$
+
+$\begin{aligned} &= \begin{matrix} 9 & -6 & -3 \\ [del]-3[/del] & +1 & -1 \end{matrix} \\ &= 6\Theta_{Q-1} - 5\Theta_{Q} - 4\frac{vL}{B} \end{aligned}$
+
+$\Theta_{Q-4} = [del]+3[/del][ins]+3[/ins]\Theta_{Q-3} - 3\Theta_{Q-2} + \Theta_{Q-1} - \frac{vL}{B}$
+
+$\begin{aligned} &= \begin{matrix} 18 & -15 & -12 \\ -9 & +6 & +3 \end{matrix} \\ &= 10\Theta_{Q-1} - 9\Theta_{Q} - 10\frac{vL}{B} \end{aligned}$
+
+$\Theta_{Q-5} = 3\Theta_{Q-4} - 3\Theta_{Q-3} + \Theta_{Q-2} - \frac{vL}{B}$
+
+$\begin{aligned} &= \begin{matrix} 30 & -27 & -30 \\ -18 & +15 & +12 \\ +3 & -2 & -1 \end{matrix} \\ &= 15\Theta_{Q-1} - 14\Theta_{Q} - 20\frac{vL}{B} \end{aligned}$
+
+$\Theta_{Q-6} = \begin{matrix} 45 & -42 & -60 \\ -30 & +27 & +30 \\ +6 & -5 & -4 \\ [del]-1[/del] & [del]-1[/del] & [del]-1[/del] \end{matrix} = 21\Theta_{Q-1} - 20\Theta_{Q} - 35\frac{vL}{B}$
+
+$\begin{matrix} 0 & -1 \\ 1 & 0 \\ 2 & 2 \\ 3 & 1 \\ 6 & 3 \\ 10 & 1 \\ 15 & 6 \\ 21 & \end{matrix}$
+$\begin{matrix} 0 & \\ 1 & 0 \\ 4 & 1 \\ 10 & 3 \\ 20 & 6 \\ 35 & 10 \end{matrix}$
+$\begin{matrix} 0 & \\ 1 & 0 \\ 5 & 1 \\ 15 & 5 \\ 35 & \end{matrix}$
+
+$\frac{x(x+1)}{2}$
+
+$x^2 + x - 2$
+$x^2 + x + \frac{1}{4} = \frac{9}{4}$
+$x + \frac{1}{2} = \frac{\sqrt{5}}{2}$
+$x = \frac{-1 + \sqrt{5}}{2}$
+$x = \frac{1 - \sqrt{5}}{2}$
+
+$\begin{matrix} 33 \\ 18 \\ \hline 15 \end{matrix}$
+
+$\begin{aligned} x + y + z &= 0 \\ 2x + 4y + 12z &= 1 \\ 3x + 9y + 24z &= 4 \end{aligned}$
+
+$\begin{aligned} 2y + 10z &= 1 \\ 6y + 18z &= 3 \\ y = 0 \quad z &= \frac{1}{10} \\ x &= -\frac{1}{10} \end{aligned}$
+
+[fig]Diagram with points and lines[/fig]
+$\frac{(x-1)x(x+1)}{6}$

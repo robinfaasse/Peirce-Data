@@ -1,0 +1,21 @@
+[pn]226[/pn]
+
+[u]Illustration[/u] 40. The range of values from 0 to 1 is indefinitely divisible. For, no matter how small the partial ranges may be taken of which it is conceived as consisting, each of these consists of other intervals still smaller.
+
+41. If the atoms of which [ins]real[/ins] bodies are composed have any size at all, as they are commonly supposed to have (though the Boscoricheans think otherwise), they are, in the mathematical sense, "indefinitely divisible," although there be no forces in nature that can avail to separate them. A chemical atom [ins]probably[/ins] consists, indeed, of separate pieces; but even if it [del]were all one[/del], it would none the less be indefinitely divisible.
+
+[u]Definition [del]97[/del] [ins]97[/ins][/u]. A whole is said to be [u]infinitely[/u] divisible, if it is not only indefinitely divisible, but if [ins]further,[/ins] the multitude of its homogeneous parts is innumerable.
+
+[u]Illustration[/u] 42. The range of values of vulgar fractions from 0 to 1 is indefinitely divisible, since any partial ranges into which it may be conceived as divided can each be departed into smaller ranges. Nevertheless, it happens that these intervals are numerable, for the fractions that separate them are so. The following, for example, is one of the innumerable ways of enumerating these values
+
+$$\begin{array}{cc|cccc|ccc|ccc|ccc|ccc|}
+\frac{0}{1} & \frac{1}{2} & \frac{1}{6} & \frac{2}{6} & \frac{4}{6} & \frac{5}{6} & \frac{1}{24} & \frac{2}{24} & \frac{3}{24} & \frac{5}{24} & \frac{6}{24} & \frac{7}{24} & \frac{9}{24} & \frac{10}{24} & \frac{11}{24} & \frac{13}{24} & \frac{14}{24} & \frac{15}{24} \\
+1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & 11 & 12 & 13 & 14 & 15 & 16 & 17 & 18
+\end{array}$$
+
+$$\begin{array}{ccc|ccccc}
+\frac{17}{24} & \frac{18}{24} & \frac{19}{24} & \frac{21}{24} & \frac{22}{24} & \frac{23}{24} & \frac{1}{120} & \frac{2}{120} & \frac{3}{120} & \frac{4}{120} & \frac{6}{120} & \text{etc.} \\
+19 & 20 & 21 & 22 & 23 & 24 & 25 & 26 & 27 & 28 & 29 & \text{etc}
+\end{array}$$
+
+The precept is easily made out.

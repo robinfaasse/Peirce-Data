@@ -1,0 +1,28 @@
+[pn]357[/pn]
+[pn]475[/pn]
+
+[A-D]. The same ray cuts {AD} where? Answer: D = A+B+C; whence
+{AD} = uA + vD = (u+v)A + vB + vC. Put, then,
+(x+y)A + xB + yC = (u+v)A + vB + vC.
+
+This gives
+y = v  x = v
+x+y = u+v = 2v
+
+and the point is v(2A+B+C) or simply 2A+B+C
+
+[fig]Geometric diagram with lines intersecting at points labeled A, B, C, B-C, B-A, C-A[/fig]
+Figure 214
+
+We now remark that (C-A), (B-A) and (B-C) are in one ray.
+For (A-B) + (B-C) + (C-A) = 0
+
+[del]Also A, A+2B+C, B-A, are in a B[/del]
+
+[del]Also[/del] 2A + B + C, A + B + 2C, C-A are in one ray. For
+(2A + B + C) - (A + B + 2C) + (C-A) = 0.
+
+<u>Corollary 121</u>. By means of such a net-work we can
+accurately describe the positions of lines, and the
+perspective representation of such a net will be such
+a net.

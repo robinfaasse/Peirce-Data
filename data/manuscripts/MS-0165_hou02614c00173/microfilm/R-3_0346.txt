@@ -1,0 +1,36 @@
+"Demonstration. Let A and B be [del]two numbers[/del] [ins]prime to one another, so that, in[/ins] [pn]99[/pn]
+[ins]the algorithm for their[/ins]
+common factor, the last remainder [ins]before zero[/ins] is 1. Let K
+be [del]the[/del] [ins]any[/ins] third number. Then, [del]any[/del] [ins]I say that any[/ins] common factor of A and BK
+[del]is a factor of K. Then, every factor of A being a factor of AK, this number[/del]
+[del]of A and AK[/del] divides both AK and BK. Then, multiply
+all the dividends, divisors, and remainders [del]of the algorithm[/del]
+[ins]for obtaining the greatest common factor of A and B[/ins]
+[del]by K, and[/del] by the reasoning of the demonstration of Problem
+3, it follows that every divisor of AK and BK is a divisor
+of every remainder (after multiplication by K), and consequently
+is a divisor of the last [del]which[/del] [ins]before[/ins] zero, which is K x 1. Consequently,
+every divisor of [del]A and BK[/del] [ins]AK and BK[/ins] [del]of AK and B[/del] is a divisor of
+K; and is therefore [del]in the one case a common divisor[/del]
+[del]of A and BK, in the other a common divisor of B and K.[/del] [ins]Q.E.D.[/ins]
+
+Corollary 35. If two numbers are both prime relative
+to a third, so [del]also[/del] [ins]likewise[/ins] is their product. For let one of the first
+numbers be A, and the third B. [del]Then[/del] [ins]Then, these being prime to[/ins]
+one another and K being any [del]third[/del] [ins]second,[/ins] AK and B cannot
+have a common factor, unless K and B have that factor
+in common. Hence, if K and B have no common factor ex-
+cept 1, neither have AK and B.
+
+Corollary 36. If two numbers are relatively prime, and if
+[del]the product of[/del] one [ins]by a third[/ins] is divisible [del]by[/del] [ins]by the second,[/ins]
+[del]so also[/del] [ins]it[/ins] is that third.
+
+Corollary 37. If every one of a set of numbers A, B, C,
+etc. is prime to every one of another set K, L, M, N etc., then
+the product of the first set, ABC etc., is prime to the product
+of the second set, KLM etc. This is a generalization of the last corollary but one.
+
+Corollary 38. If A is prime to K, every power of A is prime
+to every power of K. This follows from the last by making A=B=C=etc
+and K=L=M=etc.

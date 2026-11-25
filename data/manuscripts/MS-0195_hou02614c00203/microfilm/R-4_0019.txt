@@ -1,0 +1,22 @@
+$$\therefore \frac{F'y}{F(-y)} = - \frac{\Phi'y}{\Phi(-y)} = (\text{say}) \ C^{-1}$$
+
+$$\frac{F(2y)}{F(-2y)} = \frac{(F'y)^2 - (\Phi'y)^2}{C^2(F'y)^2 - C^2(\Phi'y)^2} = C^{-2}$$
+
+Hence by suitably choosing $t$ we can make
+$$F(-ty) = Fty$$
+$$\Phi(-ty) = -\Phi ty$$
+
+Write $e^t = \sigma$
+
+$$Fty = \cos y$$
+$$\Phi ty = \sin y$$
+then $(\cos y)^2 + (\sin y)^2 = 1$
+
+Since $\sin(-y) = -\sin y$
+if [del]$y$ is[/del] $\sin y$ is developed according to powers
+of $y$ only [del]ever[/del] odd powers appear. Let the
+lowest be the $N^{\underline{\text{th}}}$. Then if $y$ is very small
+$$\sin y = y^N \ \cos y = \sqrt{1-y^{2N}} = 1 - \text{etc}$$
+Then $\sin 2y = 2^N y^N$
+But $\sin 2y = 2 \sin y \cos y = 2 \ y^N 1$.
+$\therefore 2 = 2^N$ or $N = 1$.

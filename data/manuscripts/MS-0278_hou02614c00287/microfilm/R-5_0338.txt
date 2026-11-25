@@ -1,0 +1,17 @@
+[del]lementary modes of modifying assertions[/del]
+
+Thus,
+
+$$A = B \times x$$
+
+will express that the assertion $A$ [del]with something[/del] [del]he[/del] includes the assertion $B$, and
+
+$$A = B + x$$
+
+will express that the assertion $A$ is included by the assertion $B$. So that
+
+$$\{ A = B \times x \} = \{ A \prec B \} = \{ B = A + y \}.$$
+
+My main reason for preferring this new view is that the algebra founded upon it is simpler than one founded on the adoption of an unbalanced copula.
+
+The algebra of the copula, as given in my first paper, is adequate to every problem of non-relative logic, and it [del]contains[/del] [ins]makes use of[/ins] but two operational signs, the copula $\prec$ and the sign of negation. Accordingly, an algebra of non-relative logic which contains three signs, say of addition, multiplication and negation, contains a surplusage

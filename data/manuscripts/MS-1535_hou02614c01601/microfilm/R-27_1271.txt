@@ -1,0 +1,20 @@
+[pn]2[/pn] [pn]3.94[/pn]
+
+[u]Transformations of Cards.[/u]
+
+Let $N$ be the number of cards in the pack. Suppose them numbered from $0$ up to $N-1$
+
+If dealt out into $P$ packs numbered from zero up to $P-1$, & if the cards in each pack are numbered from zero up,
+
+let $n_0$ be the original position of a card
+$p_0$ be the pack it comes in
+$q_0$ be its position in the pack
+
+$n_0 = P q_0 + p_0$     $p_0 \equiv n_0 \pmod P$
+
+or if $R \frac{x}{y}$ denotes the remainder after division of $x$ by $y$.
+
+$Q \frac{x}{y}$ the quotient after division of $x$ by $y$
+so that $x = y Q \frac{x}{y} + R \frac{x}{y}$
+
+$R \frac{n_0}{P} = p_0$     $Q \frac{n_0}{P} = q_0$

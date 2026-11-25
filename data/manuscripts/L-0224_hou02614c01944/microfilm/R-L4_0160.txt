@@ -1,0 +1,36 @@
+[pn]Page 28[/pn]
+
+through any fraction-point and the [del]0-point[/del] the "value-ray" of that fraction.
+Since all fractions represented by points of it have the same value,
+let us call the point at which [del]such ray[/del] cuts the infinity line the
+"infinity point" of that line. Then given any two fractions, the
+point of intersection of the rays from each to the infinity-point
+of the value-ray of the other will [del]be[/del] represent the fraction whose
+numerator and denominator are respectively the sums of the
+numerators and [ins]the[/ins] denominators of the two fractions. Each line
+of the table inserts a new fraction between every pair of adjacent
+[del]value-[/del] lines already obtained. Consequently, no two fractions of
+the same value can be inserted. But now look at the suc-
+cession of numerators. In successive lines they are
+
+[fig]A tree diagram showing the branching of numerators 1, 2, 3, 4, 5.[/fig]
+
+Each begins by repeating all the numerators previously obtained.
+Consequently, since we have seen that no two fractions can have
+the same value, and since in every line each numerator
+occurs a number of times equal to its totient (which is the
+number of numbers less than the number and prime to it) it
+follows that all fractional values occur. (There [del]are[/del] [ins]are 2[/ins] leaks in this
+proof, but I cannot stop to plug [del]them[/del]. It is pretty to see how they
+are picked up. Thus on any line with numerator 5 you will
+find denominators n5-1 and n5+2 and n5+3. Where
+is [del]n5-2[/del]? The next line picks that up. Thus in the last
+line of the enclosed table you find [del]$\frac{5}{9}$[/del] $\frac{5}{9}$ $\frac{5}{12}$ $\frac{5}{13}$ but you don't
+find $\frac{5}{11}$. No, but the next line will have it. In the enclosed
+table I have used the secundal system of arithmetical notation.
+($1 = \text{our } 1$, $10 = \text{our } 2$, $11 = \text{our } 3$, $100 = \text{our } 4$, $101 = \text{our } 5$ etc)
+to denote the order in which the fractions were written.
+If the first 1 in each symbol be transposed to the end
+and then the full number of figures be made out by
+affixing zeros the numbers so changed will show the
+order of values. Thus,

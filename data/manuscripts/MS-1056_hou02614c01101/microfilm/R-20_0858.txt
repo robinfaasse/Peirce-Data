@@ -1,0 +1,24 @@
+Suppose we have a large number of groups of stars
+numbered from $1$ up to $n$. Let $M_i$ be the mean
+magnitude of $i$. Suppose that we have directly
+observed
+
+$$M_i - M_{i+1} \text{ and } M_i - M_{i+2}$$
+
+from $i=1$ to $i=n-1$ or $n-2$.
+
+Denote the directly observed values by the quantities
+in parentheses. Thus, $(M_i - M_{i+1})$, $(M_i - M_{i+2})$.
+
+When the best value is obtained [del]by[/del] [ins]by[/ins] least squares
+from all observations of groups whose numbers
+are as great as or greater than the [del]that of the[/del] group
+of smallest number in the quantity whose value is
+thus deduced, denote this value by writing the quan-
+tity in braces. Thus $\{M_i - M_{i+1}\}$ means the best value
+of $M_i - M_{i+1}$ deducible from $(M_i - M_{i+1})$, $(M_i - M_{i+2})$, $(M_{i+1}$
+$- M_{i+2})$, $(M_{i+1} - M_{i+3})$, $(M_{i+2} - M_{i+4})$, etc. but not taking
+into account $(M_{i-1} - M_i)$ etc.
+
+Suppose $(M_i - M_{i+1})$ etc. have all equal weights and
+a mean error [del]square[/del] $= 1$. Then let us denote the error square

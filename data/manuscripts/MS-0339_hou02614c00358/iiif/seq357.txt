@@ -1,0 +1,55 @@
+1901 March 23 192r
+
+[fig]figure[/fig]
+$p + (1-p)q$
+$p = \frac{\pi}{1+\pi}$
+$q = \frac{\kappa}{1+\kappa}$
+$pq = \frac{\pi \kappa}{(1+\pi)(1+\kappa)}$ [fig]figure[/fig]
+$1-pq = \frac{1+\pi+\kappa}{(1+\pi)(1+\kappa)}$
+$\frac{pq}{1-pq} = \frac{\pi \kappa}{1+\pi+\kappa}$
+$\frac{p}{1-p} = \pi$
+$p = \pi - p\pi$
+$\pi = p + p\pi$
+$p = \frac{\pi}{1+\pi}$
+$p + q = \frac{\pi}{1+\pi} + \frac{\kappa}{1+\kappa}$
+$= \frac{\pi+\pi\kappa + \kappa + \pi\kappa}{(1+\pi)(1+\kappa)}$
+$1-(p+q) = \frac{1-\pi\kappa}{(1+\pi)(1+\kappa)}$
+$\frac{p+q}{1-(p+q)} = \frac{\pi + \kappa + 2\pi\kappa}{1 - \pi\kappa}$
+$a + a = \log 1 \frac{pq}{1-pq}$
+$a + a = \log$ [fig]figure[/fig]
+$\log \frac{p+q - pq}{1-(p+q-pq)} = \text{[del]}\frac{\pi+\kappa}{1+\pi+\kappa}\text{[/del]} \log \frac{\pi+\kappa}{\pi+\kappa+\pi\kappa}$
+Now what must be the value of $a$
+to make $\log \frac{6^a + 6^b}{2}$ independent of $b$?
+$6^a$ must be infinite
+[ins]$a$ must be infinite[/ins]
+What must be the value of $b$ to make
+$\log \frac{2 \cdot 6^a \cdot 6^b}{6^a + 6^b}$ independent of $a$?
+$6^b$ must be zero (Infinite won't do if $6^a$ is zero)
+$b$ must be [del]$\infty$[/del] $-\infty$
+$\log \frac{6^a + 6^b}{2} = \infty$
+$\log \frac{2 \cdot 6^a \cdot 6^b}{6^a + 6^b} = -\infty$
+[fig]figure[/fig]
+$\frac{\frac{6^a+6^b}{2}}{1 + \frac{6^a+6^b}{2}} = \pi$
+$\frac{6^a+6^b}{2+6^a+6^b} = \frac{p}{?}$
+$\log \frac{2}{6^a+6^b}$
+$\log \frac{6^a+6^b}{2 \cdot 6^a \cdot 6^b}$ [fig]figure[/fig]
+$6^a + 6^b + 6^{a+b}$
+
+Let the logical aggregate of $a$ and $b$ be $\log \frac{6^a+6^b}{2}$
+Let the logical composite of $a$ and $b$ be $\log \frac{2 \cdot 6^a \cdot 6^b}{6^a+6^b}$
+
+Then the sum of them will be
+$\log \frac{6^a+6^b}{2} + \log \frac{2 \cdot 6^a \cdot 6^b}{6^a+6^b} = \log 6^a 6^b = a+b$
+
+The aggregate of [del]$a$ and $b$[/del] [ins]the aggregate[/ins] of $a$ and $b$ and of $c$ will be
+$\log \frac{\frac{6^a+6^b}{2} + 6^c}{2}$
+
+In order that the weights should make no difference
+$6^a$ etc must be infinite or zero.
+Hence the logs infinite
+
+These quantities to which the logical operations apply
+are modular.
+The arguments are indeterminate except for intermediate
+probabilities. Hence the arguments express the independence
+of the [del]given[/del] events.

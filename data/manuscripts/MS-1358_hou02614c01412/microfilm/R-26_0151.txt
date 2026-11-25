@@ -1,0 +1,85 @@
+[marginalia]
+Masons Bridge [date]1894 Feb 12[/date]
+[/marginalia]
+
+[pn]2.[/pn]
+
+$(\Theta_{-2+2} - 3\Theta_{-2+1} + 2\Theta_{-2}) + (\Theta_{-2} - \Theta_{-2-1}) + \frac{1}{2} \frac{u}{B} (ds)^3 - \frac{1}{2} \frac{y_p}{B} (ds)^2$
+
+$- \frac{u}{B} P^2 ds + 2 \frac{u}{B} P (ds)^2 - \frac{4}{3} \frac{u}{B} (ds)^3$
+
+[marginalia]
+$\begin{array}{rccc}
+-1 & +3.2 & -3.4 & +4 \\
++\frac{1}{6} & -1 & +2 & -\frac{4}{3} \\
+\hline
+-1 & +3 & -3 & +1 \\
++3 & -9 & +9 & -3 \\
+-\frac{1}{2} & +\frac{3}{2} & -\frac{3}{2} & +\frac{1}{2} \\
+\hline
+-1 & -3 & -3 & -1 \\
++1 & +3 & +3 & +1 \\
+-\frac{1}{2} & +\frac{1}{2} & +\frac{1}{2} & +\frac{1}{2}
+\end{array}$
+[/marginalia]
+
+$\begin{array}{lll}
++\frac{3}{2} & + \frac{3}{2} & +\frac{1}{2} \\
+-\frac{1}{2} & -\frac{1}{2} & -\frac{1}{6} \\
+& & +\frac{1}{2} \\
+\hline
++0 & +0 & -\frac{1}{2}
+\end{array}$
+
+[del]$E_2 P^2$[/del] [ins]$+6$[/ins]
+[del]$-3 E_1$[/del] [ins]$+2$[/ins]
+
+[del]$E_2 P ds$[/del]
+[ins]$+6$[/ins]
+
+$+4 E_2 (ds)^2$
+$-3$
+
+[marginalia]
+$\begin{array}{rccc}
++ & +3 & +3 & +1 \\
+\hline
+n-3 & n+2 & n+1 & n \\
+\hline
+1 & +9 & +27 & +27 \\
+-3 & -18 & -36 & -24 \\
++3 & +9 & +9 & +3 \\
+-1 & & & \\
+\hline
+& & & +6 \\
+\hline
+1 & +6 & 12 & 8 \\
+-3 & -9 & -9 & -3 \\
++3 & & & \\
+-1 & +3 & -3 & +1
+\end{array}$
+[/marginalia]
+
+$\begin{array}{ll}
++2 E_2 P ds & + E_2 (ds)^2 \\
+- E_1 P & +2 E_1 ds \\
++3 E_1 & -3 \\
+-2 & \\
+\hline
+& - E_1 ds
+\end{array}$
+
+$\begin{array}{lll}
+C_2 P^2 & & \\
+- [del]C_2[/del] P^2 & - 2 C_2 P ds & - C_2 (ds)^2 \\
+& - C_1 P & \\
+& + C_1 P & + C_1 ds
+\end{array}$
+
+$(C_2 - E_2)(P - ds) - (C_1 - E_1) = \frac{1}{2} \frac{y_p}{B} (ds)^2 + \frac{1}{2} \frac{y_p}{B} ds$
+$-(C_2 - E_2)(P + ds) + (C_1 - E_1) = \frac{1}{2} \frac{y_p}{B} (ds)^2 + \frac{1}{2} \frac{y_p}{B} ds$
+$-2(C_2 - E_2) ds = \frac{u}{B} (ds)^2 + \frac{y_p}{B} ds$
+$E_2 = C_2 + \frac{1}{2} \frac{y_p}{B} + \frac{1}{2} \frac{u}{B} (ds) = C_2 + \frac{1}{2B} (y_p + u ds)$
+[del]$-2(C_2 - E_2) P + 2(C_1 - E_1) = 0$[/del]
+$E_1 = C_1 + \frac{P}{2B} (y_p - u ds)$
+$C_0 = E_0$

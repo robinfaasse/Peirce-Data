@@ -1,0 +1,81 @@
+[marginalia]
+slight [del]the[/del] perceived by [del]un[/del]
+rough comparison
+[/marginalia]
+
+$\log x = M \cdot l \log x$
+$D_x \log x = M x^{-1}$
+$D_x^2 \log x = -M x^{-2}$
+$D_x^3 \log x = 2 M x^{-3}$
+$D_x^4 \log x = -6 M x^{-4}$
+$D_x^5 \log x = 24 M x^{-5}$
+
+To prove Taylor's theorem, supposing
+$u_0$ to be [del]an[/del] [ins]some[/ins] unknown function of $h$
+$f(x+h) = fx + u_0 D_x fx + u_1 D_x^2 fx + \text{etc}$
+
+Then $u_0 = u'_0$ or $u''_0$ etc $= 0$
+
+$D_x f(x+h) = D_x fx + u_0 D_x^2 fx + u_1 D_x^3 fx + \text{etc}$
+$D_h f(x+h) = D_h u_0 \cdot D_x fx + D_h u_1 \cdot D_x^2 fx + \text{etc}$
+$D_x^2 f(x+h) = D_x^2 fx + u_0 D_x^3 fx + u_1 D_x^4 fx + \text{etc}$
+[del]$D_h^2 f(x+h) = D_h^2 u_0 \cdot D_x fx + D_h^2 u_1 \cdot D_x^2 fx + \text{etc}$[/del]
+
+Thus it is proved that if $f(x+y)$ can
+be expressed in the form
+$D_x f(x+h) = D_x fx + u_1 D_x^2 fx + \text{etc}$
+$f(x+h) = fx + u_1 D_x fx + u_2 D_x^2 fx + \text{etc}$
+Taylor's Theorem is the expression
+
+$\log(x+h) = \log x + M \frac{h}{x} - \frac{1}{2} M (\frac{h}{x})^2 + \text{etc}$
+
+$n-2 \quad \frac{(n-1)^2}{n(n-2)}$
+$n-1 \quad \frac{n^2}{n^2-1} \sim \frac{n^2}{n^2}$
+$n \quad \frac{n^2}{n^2-1} \sim \frac{n^2}{n^2}$
+$n+1 \quad \frac{(n+1)^2}{n(n+2)}$
+$n+2 \quad \frac{(n+2)^2}{(n+3)(n+1)}$
+
+$3 \quad \frac{4}{3} \quad \frac{16}{15}$
+$4 \quad \frac{5}{4} \quad \frac{16}{15}$
+$5 \quad \frac{6}{5} \quad \frac{25}{24}$
+$6 \quad \frac{7}{6} \quad \frac{36}{35}$
+$7$
+
+$250 \quad \frac{4}{5}$
+$\frac{125}{375} \quad \frac{3}{5}$
+$384 \quad \frac{7}{6}$
+$\frac{31}{415} \quad \frac{3}{10}$
+$\frac{4}{35} \quad \frac{3}{4}$
+$\frac{8}{275}$
+
+$1 \quad \sim$
+$2 \quad \frac{4}{3}$
+$3 \quad \frac{3}{2} \quad \frac{9}{8}$
+$4 \quad \frac{4}{3} \quad \frac{16}{15}$
+$5 \quad \frac{5}{4} \quad \frac{25}{24}$
+$6 \quad \frac{6}{5} \quad \frac{36}{35}$
+
+$\frac{384}{375}$
+$\frac{24}{96} \quad \frac{5}{37}$
+$\frac{3}{4}$
+
+$\frac{36}{24} \quad \frac{34}{1224}$
+$\frac{30}{96}$
+$\frac{385}{385} \frac{pq}{(p+1)(q-1)}$
+$\log p + \log q - 1$
+
+$\frac{32}{27}$
+$\frac{135}{128}$
+$\frac{384}{375}$
+$\frac{p(p-2)}{(p-1)^2}$
+
+$\frac{p^2}{(p-1)^2} \frac{p^2-1}{p^2}$
+
+$\frac{p^3(p-2)}{(p-1)^3(p+1)}$
+
+$\frac{p^2-2p}{363}$
+$\frac{1715}{2745}$
+
+$\frac{4}{3} \cdot \frac{9}{8}$
+$\frac{343}{216}$
+$\frac{68}{2745}$

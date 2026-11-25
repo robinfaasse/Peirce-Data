@@ -1,0 +1,25 @@
+[del]proposition[/del] If $x$ is false, we do not have $t \prec x$,
+proposition P. By rule 2, either $t \prec x$ or
+$x \prec y$. Hence, by P, if $x$ is false, $x \prec y$; which
+is proposition A. The deduction of B and
+C is left to the student.
+
+I will now show that taking $f=2$, $t=5$, we
+can by means of the ordinary operations of
+arithmetic conduct pretty complicated rea-
+sonings. Since every letter, as $x$, must
+be equal either to $2$ or $5$, it is subject
+to the quadratic equation
+$(x-2)(5-x)=0$.
+For since [del]the product equ[/del] either $x=2$ or
+$x=5$, either $x-2=0$ or $5-x=0$, [del]and[/del]
+[del]fative[/del] the product of these is [ins]in either case[/ins] zero. As
+any example of reasoning let us write
+$\begin{array}{lcl}
+\text{A for } x \prec y & \qquad & \text{a for } y \prec x \\
+\text{B for } y \prec z & \qquad & \text{b for } z \prec y \\
+\text{C for } z \prec x & \qquad & \text{c for } x \prec z,
+\end{array}$
+and let us then prove algebraically that
+either $x=y$ [del]or[/del] [ins]or[/ins] $y=z$ or $z=x$. [del]By rule[/del]
+[del]2, we have[/del]

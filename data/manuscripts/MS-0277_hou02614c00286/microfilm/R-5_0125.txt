@@ -1,0 +1,70 @@
+[fig]Diagram showing circles representing logical relations with variables m, l, w[/fig] $\Sigma\Pi \prec \Pi\Sigma$
+
+[fig]Diagram with nested circles and variables a, b, c[/fig]
+[fig]Diagram with nested circles and variables a, b, c, crossed out with an X[/fig]
+[fig]Diagram with nested circles and variables a, b, c[/fig]
+[fig]Diagram with nested circles and variables a, b, c, crossed out with an X[/fig]
+
+[fig]Diagram with nested circles and variables m, l, w[/fig] $m-l-w$
+[fig]Diagram with nested circles and variables m, l, w[/fig] $m-l-w$
+[fig]Diagram with nested circles and variables m, l, w[/fig]
+
+$m-l-\begin{array}{c} w \\ g \end{array}$ [fig]Diagram with nested circles and variables m, l, w, g[/fig]
+$m-\begin{array}{c} l \\ g \end{array}-w$ [fig]Diagram with nested circles and variables m, l, g, w[/fig] [fig]Diagram with nested circles and variables l, w, g[/fig]
+
+$ab + cd$
+[fig]Diagram with nested circles and variables a, b, c, d[/fig] [fig]Diagram with nested circles and variables a, c[/fig]
+
+[fig]Diagram with nested circles and variables a, b, c[/fig] [fig]Diagram with nested circles and variables a, b[/fig] [fig]Diagram with nested circles and variables a, b, c[/fig] [fig]Diagram with nested circles and variables a, b, c[/fig]
+
+$\bar{a} + \bar{b}\bar{c}$
+[fig]Diagram with nested circles and variables a, b, c, e[/fig] [fig]Diagram with nested circles and variables a, b, c, d, e[/fig]
+
+Schröder III iii
+
+(2) [fig]Diagram with nested circles and variables a, b, c[/fig] $=$ [fig]Diagram with nested circles and variables a, b, a, c[/fig]
+
+[fig]Diagram with nested circles and variables a, b, c, d[/fig] $=$ [fig]Diagram with nested circles and variables a, c, a, d, b, c, b, d[/fig]
+
+[fig]Diagram with nested circles and variables a, b, c, d[/fig] $=$ [fig]Diagram with nested circles and variables a, c, a, d, b, c, b, d[/fig]
+
+[fig]Diagram with nested circles and variables a, c, b, d[/fig] $\prec$ [fig]Diagram with nested circles and variables a, c, a, d, b, c, b, d[/fig] [fig]Diagram with nested circles and variables a, c, b, d[/fig]
+
+[fig]Diagram with nested circles and variables a, c, a, d, b, c, b, d[/fig]
+But not conversely. [fig]Diagram with nested circles and variables a, c, a, d, b, c, b, d[/fig]
+
+[fig]Diagram with nested circles and variables a, c, a, d[/fig] $\prec$ [fig]Diagram with nested circles and variables a, c, a, d[/fig]
+
+(3) [fig]Diagram with nested circles and variables a, b[/fig] $= a =$ [fig]Diagram with nested circles and variables a, a, b[/fig]
+[fig]Diagram with nested circles and variables a, b[/fig]
+
+Take out from [del]tens[/del] [ins]a cut[/ins] if in every [del]enclosed[/del] [ins]cut in[/ins] [del]enclosure[/del] [ins]the area of that cut[/ins] graph [del]is[/del] [ins]is[/ins] with the same quality
+
+[fig]Diagram with nested circles and variables a, b[/fig] $\prec$ [fig]Diagram with nested circles and variables a, b[/fig] [u]Rule of Insertion[/u]
+
+[fig]Diagram with nested circles and variables a, a, b[/fig] $=$ [fig]Diagram with nested circles and variables a, b[/fig]
+
+[fig]Diagram with nested circles and variables a, b, b[/fig]
+
+[fig]Diagram with nested circles and variables c, a, b[/fig] $=$ [fig]Diagram with nested circles and variables c, a, c, b[/fig]
+
+[fig]Diagram with nested circles and variables b, c, b, c[/fig] $=$ [fig]Diagram with nested circles and variables b, c, b, c[/fig]
+
+(4) [fig]Diagram with nested circles and variables a, b, c[/fig] $=$ [fig]Diagram with nested circles and variables a, b, a, c[/fig]
+
+[fig]Diagram with nested circles and variables b, c, b, c[/fig] $=$ [fig]Diagram with nested circles and variables a, c, b, c[/fig]
+
+[fig]Diagram with nested circles and variables b, c, a, c[/fig]
+
+(5) [del][fig]Diagram with nested circles and variables a, b, c[/fig][/del] $a - b \prec \begin{array}{c} a-b \\ a-c \end{array}$ [fig]Diagram with nested circles and variables a, b, a, c[/fig] $\prec$ [fig]Diagram with nested circles and variables a, b, a, c[/fig]
+
+(6) [fig]Diagram with nested circles and variables a, b, c[/fig] [fig]Diagram with nested circles and variables a, b, c[/fig]
+
+(7) [fig]Diagram with nested circles and variables a, b, c[/fig] $\prec$ [fig]Diagram with nested circles and variables a, b, c[/fig]
+[fig]Diagram with nested circles and variables a, b, c[/fig] $\prec$ [fig]Diagram with nested circles and variables a, b, c[/fig]
+
+Some woman is not [del]admired[/del] [ins]regarded with tenderness[/ins] by any man
+[del]Every[/del] [ins]No[/ins] man [del]admires[/del] [ins]regards[/ins] [del]any[/del] [ins]with tenderness[/ins] woman
+[del]Every man[/del] [ins]Some women are[/ins] in the relation of not [del]regarding[/del] [ins]regarded[/ins] [del]her with tenderness[/del] [ins]with tenderness[/ins]
+
+[fig]Diagram with nested circles and variables m, a, w[/fig] [fig]Diagram with nested circles and variables m, a, w[/fig]

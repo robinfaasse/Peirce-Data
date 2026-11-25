@@ -1,0 +1,30 @@
+[pn]34[/pn]
+
+Now the different steps of deduction by this calculus are
+as follows:
+
+[u]1[ins]st[/ins][/u], the different premises have to be multiplied together, each
+being raised to [del]its proper[/del] the power requisite, and the indices
+have to be diversified properly.
+
+[u]2[ins]nd[/ins][/u], it may be necessary to multiply into this product, some
+general propositions about the universes concerned. For example,
+if there are indices denoting characters, it may be necessary to take
+account of the fact that any collection of individuals of one
+universe possesses some character common to all its members
+and possessed by nothing outside of that collection. This is a
+proposition to express which in all its generality would require a
+kind of symbols that I have not here described. I have never pub-
+lished (as far as I remember) any account of the symbols I have used
+for this purpose in my private papers; and now Schröder comes
+forward with symbols which are superior to my own for this purpose.
+Namely, he writes a letter vertically under a $\Sigma$ or a $\Pi$ to mean
+that [del]all[/del] the aggregate or composite of all expressions analogous
+to the Boolian are to be taken, when the letter under the $\Sigma$ or $\Pi$
+is varied in every way that logic permits. Thus $\sum_{\mathfrak{u}} \mathfrak{u}_{ij} + \mathfrak{u}_{ji}$ means
+the aggregate of all expressions [del]resultin[/del] each of which results from
+the substitution of a dyadic relative for $\mathfrak{u}$ in the expression $\mathfrak{u}_{ij} + \mathfrak{u}_{ji}$.
+Then,
+$$\prod_{\mathfrak{u}} \Sigma_{\alpha} \Pi_{i} \Pi_{j} \quad (\bar{\mathfrak{u}}_{i} + q_{\alpha i}) \cdot (\mathfrak{u}_{j} + \bar{q}_{\alpha j})$$
+expresses that whatever logical term $\mathfrak{u}$ may be there is a quality which
+belongs to every individual of which $\mathfrak{u}$ can be predicated and to nothing

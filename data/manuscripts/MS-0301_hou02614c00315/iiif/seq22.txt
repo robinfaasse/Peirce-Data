@@ -1,0 +1,12 @@
+and by raising it, [del]it would be[/del] [ins]the[/ins] change would be to
+$$(p - ql + \frac{dp}{dn})(n - 1)$$
+that is to
+$$(p - ql)n - p + ql + \frac{dp}{dn}(n - 1)$$
+— and this being less than before
+$$p > ql + \frac{dp}{dn}(n - 1)$$
+So since $p$ is intermediate between
+$$ql + \frac{\partial p}{\partial n}n + \frac{\partial p}{\partial n}$$
+and $ql + \frac{\partial p}{\partial n}n - \frac{\partial p}{\partial n}$
+and $\frac{\partial p}{\partial n}$ is very small, it must be
+very close to the truth to write
+$$p = ql + \frac{\partial p}{\partial n}n$$

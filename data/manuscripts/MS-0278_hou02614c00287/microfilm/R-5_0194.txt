@@ -1,0 +1,84 @@
+[marginalia]
+? may take
+Then [del]$\frac{S\frac{\alpha}{\beta}}{S\frac{\alpha}{\gamma}} = Tx$[/del]
+[/marginalia]
+
+$$\beta S\frac{\alpha Tx}{\beta} = \beta Tx$$
+
+$$\frac{S\frac{\alpha Tx}{\beta}}{T\frac{\alpha Tx}{\beta}} = \frac{S\frac{\beta}{\alpha}}{T\frac{\beta}{\alpha}}$$
+
+and as the value of the first member is independent of $T\frac{\alpha Tx}{\beta}$ and as $\frac{\alpha Tx}{\beta} = Tx . T\frac{\alpha}{\beta} . U\frac{\alpha}{\beta}$ we may divide $T\frac{\alpha Tx}{\beta}$ by $Tx$ with the following result.
+
+$$\frac{S\frac{\alpha}{\beta}}{T\frac{\alpha}{\beta}} = \frac{S\frac{\beta}{\alpha}}{T\frac{\beta}{\alpha}}$$
+
+and has nothing [del]has[/del] here been fixed by hypothesis except the values of the $Tx$ and $T\beta$ of which the fractions are independent, the equation is generally valid.
+
+From this it follows since $U\frac{1}{\alpha} = \frac{S\frac{1}{\alpha}}{T\frac{1}{\alpha}} + \frac{V\frac{1}{\alpha}}{T\frac{1}{\alpha}}$ that
+
+$$Kq = Sq + (Tq)^2 V\frac{1}{q}$$
+
+[del]Now take three objects A, B, & C and denote[/del]
+
+[del]A = $\alpha$ B = $\beta$ C = $\gamma$[/del]
+
+[del]Now[/del] and suppose [del]1st[/del] that $\alpha = \beta + \gamma$
+
+[del]2nd[/del] [ins]$\times \gamma$[/ins] $\frac{\gamma}{\alpha} = K\frac{\beta}{\alpha}$
+
+Now since $\beta$ taken in every respect must make a sum $= \alpha$ in that respect, without which they could not equal it in all respects
+
+$$\alpha S\frac{\gamma}{\alpha} + \alpha S\frac{\beta}{\alpha} = \alpha$$
+
+hence as
+
+$$\gamma = \alpha S\frac{\gamma}{\alpha} + \alpha V\frac{\gamma}{\alpha}$$
+
+$$\beta = \alpha S\frac{\beta}{\alpha} + \alpha V\frac{\beta}{\alpha}$$
+
+[marginalia]
+See Erratum
+[/marginalia]
+
+$$V\frac{\gamma}{\alpha} = -V\frac{\beta}{\alpha}$$
+
+$$V.T\frac{\gamma}{\alpha} U\frac{\gamma}{\alpha} = -V.T\frac{\beta}{\alpha} U\frac{\beta}{\alpha}$$
+
+Now let $c = \alpha Tx$ and this becomes
+
+$$V.T\frac{\gamma}{c} U\frac{\gamma}{c} = -V.T\frac{\beta}{c} U\frac{\beta}{c}$$
+
+and as only our 2nd hypothesis above continues to apply we have in general
+
+$$Vq = -VKq$$
+
+If $q = v$ where $Sv = 0$ and hence $SKv = 0$ then this becomes
+
+$$v = -Kv$$
+
+$$v^2 = -vKv = -Tv^2$$
+
+The application of this calculus being now sufficiently demonstrated for our present purpose, and implicity to its full extent, I proceed to deduce the law of the conversion of quantity.
+
+Let $\alpha$ be a quantity convertible with $\beta + \gamma$. Then
+
+$$\alpha = \beta + \gamma$$
+
+$$\alpha = \alpha S\frac{\beta}{\alpha} + \alpha S\frac{\gamma}{\alpha}$$
+
+$$\beta = \beta S\frac{\alpha}{\beta} + \beta S\frac{\gamma}{\beta}$$
+
+$$\gamma = \gamma S\frac{\alpha}{\gamma} + \gamma S\frac{\beta}{\gamma}$$
+
+Dividing by $U$ of [del]1st[/del] [ins]1st[/ins] members
+
+$$T\alpha = T\beta \frac{S\frac{\alpha}{\beta}}{T\frac{\alpha}{\beta}} + T\gamma \frac{S\frac{\alpha}{\gamma}}{T\frac{\alpha}{\gamma}}$$
+
+$$T\beta = T\alpha \frac{S\frac{\beta}{\alpha}}{T\frac{\beta}{\alpha}} + T\gamma \frac{S\frac{\beta}{\gamma}}{T\frac{\beta}{\gamma}}$$
+
+$$T\gamma = T\alpha \frac{S\frac{\gamma}{\alpha}}{T\frac{\gamma}{\alpha}} + T\beta \frac{S\frac{\gamma}{\beta}}{T\frac{\gamma}{\beta}}$$
+
+Now multiplying each equation by its 1st member & subtracting 1st from sum of two last we have
+
+$$T\beta^2 + T\gamma^2 - 2 T\beta . T\gamma \frac{S\frac{\beta}{\gamma}}{T\frac{\beta}{\gamma}} = T\alpha^2$$
+
+which is therefore a general law of the conversion of quantity.

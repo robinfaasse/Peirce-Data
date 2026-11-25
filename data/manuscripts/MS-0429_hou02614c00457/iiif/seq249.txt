@@ -1,0 +1,23 @@
+116
+413 This is my father's form of biquaternions, which we have
+already noticed. Biquaternions are thus connected with the permu-
+tations of three things. It is true that two more letters are
+required in order to express the relations of those permutations
+fully. Let us add two units which shall leave I, J, K, L stand-
+ing quite apart. For this purpose, we must seek two quantities
+of the sextuple algebra, call them H and M, such that H[ins]v[/ins]=H, M[ins]v[/ins]=M,
+and such that Q being any quantity of the algebra whatsoever
+Q H = H Q = [u]ξ[/u]H,
+Q M = M Q = [u]η[/u]M,
+where [u]ξ[/u] and [u]η[/u] are numbers depending on Q. Put
+H = [u]q[/u]i + [u]r[/u]j + [u]s[/u]k + [u]x[/u]l + [u]y[/u]m + [u]z[/u]n
+Then Hl = [u]x[/u]i + [u]z[/u]j + [u]y[/u]k + [u]q[/u]l + [u]s[/u]m + [u]r[/u]n
+lH = [u]x[/u]i + [u]y[/u]j + [u]z[/u]k + [u]q[/u]l + [u]r[/u]m + [u]s[/u]n
+Hence, [u]x[/u] = [u]ξq[/u], [u]z[/u] = [u]y[/u] = [u]ξr[/u] = [u]ξs[/u], [u]q[/u] = [u]ξx[/u], [u]s[/u] = [u]r[/u] = [u]ξy[/u] = [u]ξz[/u].
+Consequently,
+[u]ξ[/u][ins]v[/ins][u]q[/u] = [u]q[/u], [u]ξ[/u][ins]v[/ins][u]r[/u] = [u]r[/u], etc
+Hence, either q = r = s = x = y = z = H = 0, which would not answer
+the purpose, or [u]ξ[/u][ins]v[/ins] = ±1. thus, either
+[u]x[/u] = [u]q[/u] [u]r[/u] = [u]s[/u] = [u]y[/u] = [u]z[/u]
+or [u]x[/u] = -[u]q[/u] [u]r[/u] = [u]s[/u] = -[u]y[/u] = -[u]z[/u].
+See also

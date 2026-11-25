@@ -1,0 +1,10 @@
+[u]Art. . Definitions[/u] . [u]Ordinary points[/u] are points measurably distant from us and from one another.
+. [u]Ordinary rays[/u] are rays measurably inclined to our ray of vision and to one another.
+
+. [u]Theorem[/u] . [del]A[/del] [ins]A[/ins] point [del]is[/del] infinitely distant from [del]a multitude of points on one ray[/del] [ins]ordinary points[/ins], [del]it is at an[/del] [ins]not infinitely[/ins] inclined to [u]ordinary rays[/u], [del]is at an[/del] [ins]is[/ins] infinitely [u]distant[/u] from all [u]ordinary points[/u].
+
+[u]Demonstration[/u]. Let [A] and [B] be points [del]at a[/del] measurably distant from one another, and let [C] be a limit of measurable translations along {AB}. Let [D] be any other ordinary point, [ins]Then, I say that no measurable translation will carry a particle from [D] to [C] along {CD}.[/ins] [del]and let on the ray {CD} at a distance from [D] toward [C] measurably equal to, for with superposition to {AB}, take a point [E].[/del] [ins]For[/ins], by a rotation round an axis through [C] let the straight filament in {AC} be carried into {CD}. Let the particles from [A] and [B] now occupy points which we may denote by [A'] and [B']. Then, by direct superposition |A'C| = |AC|, |B'C| = |BC|. That is, both are infinite. Now by a translation along the ray {CD}, let the particle at [A'] be carried to [D]. But |A'D| is measurable, since both are ordinary points. Then |CD| = |A'C| [math]\pm[/math] |A'D| = |AC| [math]\pm[/math] |A'D|. But |AC| = [math]\infty[/math]. Hence, |CD| = [math]\infty[/math]. Q.E.D.
+
+[fig]Geometric diagram with points A, B, C, D, A', B'[/fig]
+
+[u]Theorem[/u] . A [del]ray[/del] [ins]plane[/ins] infinitely inclined to ordinary [del]rays[/del] [ins]planes[/ins] through a ray

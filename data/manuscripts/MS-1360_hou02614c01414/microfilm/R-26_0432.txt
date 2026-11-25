@@ -1,0 +1,34 @@
+of work in bending the truss per change of horizontal pull
+is zero.
+
+To measure the modulus of elasticity E of a cable we hang
+a weight W [del]to[/del] [ins]and[/ins] pull on the end and note the increase of length
+$\delta$ l it produces. Then, B being the cross-section, the tension $\frac{\text{W}}{\text{B}}$
+is brought on each unit of cross section and the strain $\frac{\delta\text{l}}{\text{l}}$ is
+produced on each unit of length. Then the modulus is taken as the
+ratio of the stress to the strain, or $\frac{\text{W}\text{l}}{\text{B}\delta\text{l}} = \text{E}$. Thus, the cable being
+stretched to any [del]point[/del] degree, $\delta\text{l}/\text{l}$, the pull upon it being [del]$\frac{\text{W}\delta\text{l}}{\text{E}\text{B}}$[/del] [ins]$\text{E}\frac{\delta\text{l}}{\text{l}}\text{B}$[/ins],
+the work done by any infinitesimal additional elongation will be
+equal to this pull multiplied by the elongation. [del]At any point of
+the main cable, where its inclination to the horizon is $\tau$, the
+pull under the dead load is H sec $\tau$.[/del]
+
+[fig]Graph showing a parabola and tangent lines[/fig] [marginalia]$y = px^2$
+$\text{D}_x y = 2px$
+$\text{D}_x^2 y = 2p$[/marginalia]
+
+$\frac{d\text{l}}{dx} = \sec \tau$
+
+$\frac{d\text{l}}{\sec \tau} = dx$
+
+[del]$\frac{\text{l} \cdot d\sec \tau}{\sec^2 \tau} = dx$[/del]
+
+$\int g \text{D}_x^2 y \ dx = g \text{D}_x y - \int \text{D}_x g \cdot \text{D}_x y \ dx$
+
+$- \int \text{D}_x g \cdot \text{D}_x y = - \text{D}_x g \cdot y + \int \text{D}_x^2 g \cdot y \ dx$
+
+$\int \sec^2 \tau \ d\text{l} = \int \text{l} + \int \tan^2 \tau \ d\text{l}$
+
+[del]$\frac{(dy)^2}{\text{l}} \frac{\delta dy^2}{\text{l}} + \frac{dx^2}{\text{l}}$[/del]
+
+$\int \text{l} + \int \tan \tau \sec \tau \ dy$

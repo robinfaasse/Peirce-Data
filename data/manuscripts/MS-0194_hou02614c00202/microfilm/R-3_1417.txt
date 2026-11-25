@@ -1,0 +1,25 @@
+$$\sec b \sec c = \sec a - [del]\tan b \tan c[/del] \frac{\cos A}{\cos a}$$
+
+[del]\sec^{2} b \sec^{2} c = \sec^{2} a - 2 \tan b \tan c \sec[/del]
+
+$$\sec^{2} b \sec^{2} c = \sec^{2} a \left( 1 - 2 \tan b \tan c \cos A + \tan^{2} b \tan^{2} c \cos^{2} A \right)$$
+
+$$\left( \tan^{2} b \tan^{2} c + \tan^{2} b + \tan^{2} c + 1 \right) \sec^{2} A$$
+$$= \left( \tan^{2} b \tan^{2} c - 2 \tan b \tan c \sec A + \sec^{2} A \right) \sec^{2} a$$
+
+$$\tan^{2} b \tan^{2} c \left( \sec^{2} A - \sec^{2} a \right)$$
+
+$$\frac{\cos b \cos c - \cos a}{1 - \frac{\cos a}{\cos b \cos c}} = \tan b \tan c \cos A$$
+
+$$\tan^{2} b + \tan^{2} c - 2 \tan b \tan c \cos A$$
+$$= \sec^{2} b + \sec^{2} c - [del]4[/del] + \frac{2 \cos a}{\cos b \cos c}$$
+
+[fig]Two intersecting circles[/fig]
+
+$$a^{2} = b^{2} + c^{2} - 2 b c \cos A$$
+
+[fig]Spherical triangle[/fig]
+
+$$\cos^{2} a =$$
+
+[fig]Cardioid-like curve with inscribed triangle[/fig]

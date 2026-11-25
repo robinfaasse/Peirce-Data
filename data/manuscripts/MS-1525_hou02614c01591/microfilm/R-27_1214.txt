@@ -1,0 +1,60 @@
+[fig]Tic-tac-toe game boards[/fig]
+
+$$\begin{array}{c c c c}
+\frac{2}{1} & \frac{3}{2} & \frac{5}{3} & \text{O!!!} \\
+\frac{2}{1} & \frac{3}{2} & \frac{5}{4} & \text{O!!!} \\
+\frac{2}{1} & \frac{3}{2} & \frac{5}{5} &
+\end{array}$$
+
+$$\begin{array}{c c c c c}
+\frac{2}{1} & \frac{3}{2} & \frac{5}{2} & \underline{4} & - \\
+\frac{2}{1} & \frac{3}{2} & \frac{5}{3} & & - \\
+\frac{2}{1} & \frac{3}{2} & \frac{5}{4} & \frac{6}{5} & - \\
+\frac{2}{1} & \frac{3}{2} & \frac{5}{5} & \frac{7}{6} & - \\
+\frac{2}{1} & \frac{3}{2} & \frac{5}{6} & \frac{8}{7} & \text{O!!!}
+\end{array}$$
+
+$$\begin{array}{c c c c c}
+\frac{2}{1} & \frac{3}{2} & \frac{5}{3} & \underline{8} & \text{X!!!} \\
+\frac{2}{1} & \frac{3}{2} & \frac{5}{4} & \frac{7}{5} & \underline{3} & \text{X!!!} \\
+\frac{2}{1} & \frac{3}{2} & \frac{5}{5} & \underline{8} & \text{X!!!} \\
+\frac{2}{1} & \frac{3}{2} & \frac{5}{6} & \frac{4}{3} & \underline{6} & \text{X!!!} \\
+\frac{2}{1} & \frac{3}{2} & \frac{5}{7} & \frac{[del]4[/del]}{[del]3[/del]} & & - \\
+\frac{2}{1} & \frac{3}{2} & \frac{5}{7} & \frac{4}{4} & &
+\end{array}$$
+
+$$\begin{array}{l c}
+& 7 \\
+& 5 \\
+\text{x} \quad 9 & 3^{2+1+1} \qquad\qquad 81 \\
+& \underline{2^{3+1+2+2}} \\
+\hline
+\end{array}$$
+
+$$\begin{array}{r}
+2^8 \\
+\text{,,} \\
+\text{,,} \\
+\text{,,} \\
+\text{,,} \\
+\text{,,} \\
+\text{,,} \\
+\text{,,} \\
+\text{,,} \\
+\hline 256
+\end{array}$$
+
+$$\begin{array}{r c}
+35 & \begin{array}{r}
+81 \\
+\underline{7} \\
+5670 \\
+\underline{128} \\
+45360 \\
+11340 \\
+\underline{5670} \\
+725760
+\end{array}
+\end{array}$$
+
+[fig]Simple tree diagram with X and lines[/fig]

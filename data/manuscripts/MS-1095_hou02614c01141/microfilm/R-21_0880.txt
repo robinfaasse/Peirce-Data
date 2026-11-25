@@ -1,0 +1,31 @@
+$$\frac{1}{2} g m h \theta^2$$
+
+$$\theta^2 = \theta_0^2 + 2 \delta\theta \cdot \theta_0$$
+
+$$\frac{1}{2} g m h \theta_0^2 - g m h \omega \theta_0^2$$
+
+$$- 2 \omega \theta_0$$
+
+$$\theta = \theta_0 + \delta\theta = \theta_0 (1 - \omega)$$
+
+$$\delta\theta = - \omega \theta_0$$
+
+$$\frac{\omega}{1-\omega} \theta \cdot (\delta\theta)$$
+
+$$+ 2 (r+h) r \omega$$
+$$- 2 (r+h) (r+h) \omega$$
+$$- 2 (r+h) h \omega$$
+
+$$(1-2\omega)$$
+
+$$- 2 (r+h) h \omega - 2 r^2 \omega$$
+
+$$\frac{h^2 + r^2 + r h}{I H}$$
+
+$$\{ D_t (\theta_0 + \delta\theta) \}$$
+$$= D_t \theta_0 + D_t \delta\theta$$
+$$= D_t \theta_0 - D_t \theta_0$$
+
+$$(1-\omega)^2$$
+
+[fig]Diagram showing intersecting lines forming a narrow angle[/fig]

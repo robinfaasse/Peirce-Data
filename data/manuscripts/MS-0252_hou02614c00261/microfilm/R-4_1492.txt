@@ -1,0 +1,11 @@
+Case 2134. The second player occupies the corner square adjoining the vacant squares. The first player occupies the opposite corner and makes tit-tat-to.
+
+Case 2135. The second player occupies the side square adjoining the vacant squares. The first player is obliged to occupy the opposite side square. The second player is obliged to occupy the adjoining corner square. The first player is obliged to occupy the opposite corner square. The second player is obliged to occupy the adjoining side square. There is no tit-tat-to.
+
+Case 2136. The second player occupies the corner opposite that of the first player. There is no tit-tat-to. This exhausts case 213.
+
+Case 214. The first player occupies the corner opposite that already occupied. The second player has his choice between a side square and a corner square as numbered, making cases 2141, 2142. [fig]Tic-tac-toe grid with numbers and symbols[/fig]
+
+Case 2141. The second player occupies a side square. [fig]Tic-tac-toe grid with X and O symbols[/fig] The first player is obliged to occupy the opposite side square. The second player is obliged to occupy the adjoining corner. The first player is obliged to occupy the opposite corner. The second player is obliged to occupy the adjoining side square. The first player is obliged to occupy the opposite side square. There is no tit-tat-to.
+
+Case 2142. The second player occupies a corner square. [fig]Tic-tac-toe grid with X and O symbols[/fig]

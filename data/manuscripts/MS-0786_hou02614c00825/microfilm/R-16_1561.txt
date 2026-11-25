@@ -1,0 +1,36 @@
+[pn]9[/pn]
+
+<u>Syllogism</u>
+
+In fact, every elimination in any kind of algebra
+depends upon the fact that for some particular form of term
+a general value can be substituted; although in ordinary
+algebra this is masked by the peculiarity that division is
+there determinative. However, to stick to the matter in
+hand, in logic elimination can only take place
+because [del]the[/del] [ins]some[/ins] particular form of term [del]some second[/del]
+[del]intentional term[/del] is predicable.
+
+All men are mortal animals
+$\therefore$ All men are mortal
+because for animals we may substitute [del]eings[/del]
+
+$m \prec d \cdot a$
+$a \prec \infty$
+$m \prec d \cdot \infty$
+$m \prec d$
+
+Now, if it is not a simple term but a [del]form[/del] complex form
+of term [del]for which a second[/del] intentional term can be
+predicated, then in every case we may regard the
+elimination as arising from $x \cdot \bar{x} \prec 0$. For example
+
+Every mother loves every lover of her son
+Every mother loves her son
+$\therefore$ Every mother loves herself -
+
+$\Pi_i \Pi_j \Pi_k \bar{m}_{ij} \dagger \bar{l}_{kj} \dagger l_{ik}$
+$\Pi_u \Pi_v \bar{m}_{uv} \dagger l_{uv}$
+$\Pi_i \Pi_j \Pi_k \Pi_u \Pi_v (\bar{m}_{ij} \dagger \bar{l}_{kj} \dagger l_{ik}) \cdot (\bar{m}_{uv} \dagger l_{uv})$
+$\Pi_i \Pi_j [del]\Pi_k[/del] (\bar{m}_{ij} \dagger \bar{l}_{ij} \dagger l_{ii}) \cdot (\bar{m}_{ij} \dagger l_{ij})$
+$\Pi_i \Pi_j \bar{m}_{ij} \dagger \bar{l}_{ij} \cdot l_{ij} \dagger l_{ii} \qquad \therefore \Pi_i \Pi_j \bar{m}_{ij} \dagger l_{ii}$

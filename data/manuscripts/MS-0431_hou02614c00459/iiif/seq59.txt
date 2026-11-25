@@ -1,0 +1,23 @@
+Logic
+III
+39
+JAN - 6 1902
+
+JAN - 6 1902
+
+and y in this [del]six[/del] order will be possible in the six cases. I prefix to each case a symbol for the operation. I also add an entirely indeterminate operation.
+[fig]figure[/fig] [u]Φ[/u][ins]i[/ins] [u]v[/u][u]v[/u], [u]f[/u][u]v[/u], [u]f[/u][u]f[/u];
+[u]Φ[/u][ins]j[/ins] [u]v[/u][u]v[/u], [u]v[/u][u]f[/u], [u]f[/u][u]v[/u] ;
+[u]Φ[/u][ins]k[/ins] [u]v[/u][u]f[/u], [u]f[/u][u]v[/u], [u]f[/u][u]f[/u] ;
+[u]Φ[/u][ins]l[/ins] [u]v[/u][u]v[/u], [u]v[/u][u]f[/u], [u]f[/u][u]f[/u] ;
+[u]Φ[/u][ins]m[/ins] [u]v[/u][u]v[/u], [u]f[/u][u]f[/u] ;
+[u]Φ[/u][ins]n[/ins] [u]v[/u][u]f[/u], [u]f[/u][u]v[/u] ;
+[u]Φ[/u][ins]o[/ins] [u]v[/u][u]v[/u], [u]v[/u][u]f[/u], [u]f[/u][u]v[/u], [u]f[/u][u]f[/u] .
+
+Now we may, according to algebraical usage write
+y = [u]Φ[/u][ins]i[/ins] [u]x[/u], meaning that if [del]x[/del] [u]x[/u] is [u]v[/u], then y is [u]v[/u]; so that
+if y is [u]f[/u], then [u]x[/u] is [u]f[/u]; and so on. Thus, y = [u]Φ[/u][ins]m[/ins] [u]x[/u] will mean
+that if [u]x[/u] is [u]v[/u], so is y; and if [u]x[/u] is [u]f[/u], so is y.
+If y = [u]Φ[/u][ins]j[/ins] [u]x[/u] and [u]z[/u] = [u]Φ[/u][ins]k[/ins] y, then one may write [u]z[/u] = [u]Φ[/u][ins]k[/ins][u]Φ[/u][ins]j[/ins][u]x[/u].
+Now y = [u]Φ[/u][ins]j[/ins] [u]x[/u] means than if [u]x[/u] is [u]f[/u], then y is [u]v[/u]; while [del]x[/del]
+[u]z[/u] = [u]Φ[/u][ins]k[/ins] y means that if y is [u]v[/u], [del]z is[/del] [u]z[/u] is [del]f[/del] [u]f[/u]. Hence [u]z[/u] = [u]Φ[/u][ins]k[/ins][u]Φ[/u][ins]j[/ins][u]x[/u]

@@ -1,0 +1,25 @@
+[fig]Letter N[/fig]  · R cos φ + s cos (ψ + ω)
+R sin φ + s sin (ψ + ω)
+
+-R sin φ · φ' + s sin (ψ + ω) · ψ'
+R cos φ · φ' + s cos (ψ + ω) · ψ'
+
+R² φ'² + s² ψ'² + [del]2[/del]Rs cos (ψ + ω - φ) φ' ψ'
+
+([del]N[/del]R² + M I²) φ'² + N J² ψ'² + 2 [ins]W[/ins]R K cos (ψ - φ) φ' · ψ'
+
+2(N R² + M I²) φ' + 2 [ins]W[/ins]R K cos (φ - ψ) ψ'
+2 N J² ψ' + 2 [ins]W[/ins]R K cos (φ - ψ) φ'
+
+2(N R² + M I²) D_t² φ + 2 [ins]W[/ins]R K cos (φ - ψ) D_t² ψ [del]+ 2 R K sin (φ - ψ) D_t φ D_t ψ[/del]
++ 2 R K sin (φ - ψ) (D_t ψ)²
+
+2 N J² D_t² ψ' + 2 [ins]W[/ins]R K cos (φ - ψ) D_t² φ - 2 R K sin (φ - ψ) (D_t φ)²
+
+[del]+ 2 R K sin (φ - ψ) D_t φ D_t ψ[/del]
+
+[fig]Letter A[/fig] [del]M h (1 - cos φ)[/del]
+M h (1 - cos φ) + N R (1 - cos φ) + N K (1 - cos ψ) + I (φ - ψ)
+[del]1/2 M h φ² + 1/2 N R[/del]
+1/2 (M h + N R) φ² + 1/2 N K ψ² + I (φ - ψ)²
+(M h + N R) φ + 2 I (φ - ψ)

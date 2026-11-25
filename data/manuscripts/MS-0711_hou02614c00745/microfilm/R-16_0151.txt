@@ -1,0 +1,22 @@
+[pn]page 3[/pn]
+Hence, $a \circ (c \circ p)$ i.e $a \circ (p \circ c) = (a \circ p) \circ c$ .
+That is the operation represented by $\circ$ is
+associative as well as commutative.
+
+Law II is that if $p$ is either $a$ or $b$ or $a \circ b$
+and $d$ is either $c$ or $p$ or $c \circ p$ that is is
+[ins]either $c$ or $a$ or $b$ or $a \circ b$ or $c \circ a$ or $c \circ b$ or $a \circ b \circ c$[/ins]
+then there is something $q$ which is
+either $b$ or $c$ or $b \circ c$ and $d$ is either
+$a$ or $q$ or $a \circ q$, that is, is
+either $a$ or $b$ or $c$ or $b \circ c$ or $a \circ b$ or $a \circ c$ or $a \circ b \circ c$
+But this follows already from the other laws,
+even without taking account of Law V.
+
+Kempe probably thought the commutative
+principle was involved in Laws I and V
+But it is not so. All that follows (of that sort)
+is that there is something, $x$, such that
+$a \cdot b \cdot x$ and $b \cdot a \cdot x$.
+
+It appears therefore that $a \cdot b \cdot c$ means

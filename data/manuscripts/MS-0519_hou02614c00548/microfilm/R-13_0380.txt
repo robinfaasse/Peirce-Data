@@ -1,0 +1,19 @@
+[pn]9[/pn]
+
+[u]Method of Elimination[/u]
+
+Before the fifth step in my
+rule (Adm. Jour. Math. vii. 198)
+I should insert a step to use
+as many separate indices as
+possible to express the meaning.
+
+For example, suppose we have
+the premise
+$\Pi_i \Pi_j (m_i + l_{ij} + \bar{m}_j)$.
+The tokens [del]m[/del] cannot be directly
+eliminated but we have the
+above
+$= \Pi_i \Pi_j (m_i + \bar{l}_{ij}) (l_{ij} + \bar{m}_j)$
+$= \Pi_i \{ \Pi_j (m_i + \bar{l}_{ij}) \Pi_j (l_{ij} + \bar{m}_j) \}$
+$= \Pi_i \Pi_j \Pi_k (m_i + \bar{l}_{ij}) (l_{ik} + \bar{m}_k)$

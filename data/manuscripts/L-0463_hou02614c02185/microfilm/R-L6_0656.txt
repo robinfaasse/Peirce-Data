@@ -1,0 +1,30 @@
+[pn]35[/pn]
+$i_{1} = (I_{1} : A) + (I_{2} : I_{1}) \qquad + (I_{4} : I_{3})$
+
+$i_{2} = (I_{2} : A)$
+
+$i_{3} = (I_{3} : A) + (I_{2} : I_{1}) + r(I_{4} : I_{1}) \qquad + (I_{1} : I_{3}) + (I_{5} : I_{3}) + r(I_{2} : I_{4}) - (I_{2} : I_{5}) - r(I_{4} : I_{5})$
+
+$i_{4} = (I_{4} : A) \qquad + (I_{2} : I_{2})$
+
+$i_{5} = (I_{5} : A) + (r^{2}-1)(I_{2} : I_{1}) \qquad - (I_{4} : I_{2}) \qquad - r^{2}(I_{1} : I_{5})$
+
+In order to enable the reader to form the multiplication-table with the least trouble possible, I have arranged all the terms of $i_{1}, i_{2}, i_{3}, i_{4}, i_{5}$ in the following table [del]where[/del] [ins]in which[/ins] you enter with the first capital of any capital-pair at the side, and with the second capital of the same capital pair at the top. Then at the intersection of the rank of the first capital and the file of the second, you will find all the units set down into which the capital-pair enters, together with the numerical coefficient and the $+$ or $-$ sign that it bears in the [ins]above[/ins] expression of that unit. This table shows at a glance that $I_{2}$ is nowhere the second capital of a pair, and hence $i_{2}$ as multiplicand (containing no other first capital than $I_{2}$) always gives zero for the product. In like manner, because $A$ is the sole second capital in $i_{2}$ and nowhere appears as first capital it follows that $i_{2}$ as multiplier only makes the product zero. So $i_{4}$, having no other first capital than $I_{2}$ and $I_{4}$, when it is the multiplicand gives a zero product except when $i_{3}$ is multiplier, when $i_{3} = +r i_{2}$; and since it has no other second capital than $A$ and $I_{2}$, when it is the multiplier gives zero as product except when $i_{3}$ is the multiplier, when the product is $i_{2}$. Moreover, since
+
+[fig]Table of capital-pairs and units[/fig]
+$$\begin{array}{c|c|c|c|c|c|c}
+ & :I_{2} & :I_{4} & :I_{5} & :I_{1} & :I_{3} & :A \\ \hline
+I_{2}: & & i_{3} \quad +r & i_{3} \quad -1 & i_{1} \quad +1 & & \\
+& & & & i_{3} \quad +1 & & \\
+& & & i_{5} \quad -r^{2} & i_{5} \quad +(r^{2}-1) & i_{4} \quad +1 & \\
+& & & & & & i_{2} \quad +1 \\ \hline
+I_{4}: & & & i_{3} \quad -r & i_{3} \quad +r & & \\
+& & & & & i_{1} \quad +1 & \\
+& & & & & i_{5} \quad -1 & i_{4} \quad +1 \\ \hline
+I_{5}: & & & & & i_{3} \quad +1 & \\
+& & & & & & i_{5} \quad +1 \\ \hline
+I_{1}: & & & & & i_{3} \quad +1 & \\
+& & & & & & i_{1} \quad +1 \\ \hline
+I_{3}: & & & & & & i_{3} \quad +1 \\ \hline
+A: & & & & & & \\
+\end{array}$$

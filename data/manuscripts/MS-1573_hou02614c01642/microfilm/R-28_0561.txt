@@ -1,0 +1,28 @@
+Simple Pendulum hung by an elastic string.
+
+[del]m = mass[/del] [ins]m = mass[/ins] l = length t = time [del]\theta[/del] \theta = angle from vertical
+g = gravity E = elasticity R = Radius of path \omega = angle between R and l.
+
+Decompose the forces into forces along the string and forces
+along the path.
+
+[fig]Diagram showing pendulum string l, radius R, and path[/fig]
+Fig 1
+
+[fig]Force diagram for gravity with angles \theta and \omega[/fig]
+Fig 2
+
+[fig]Force diagram for centrifugal force[/fig]
+Fig 3
+
+Fig 2 shows parallelogram of forces for gravity.
+Gravity along string = \frac{\cos(\theta-\omega)}{\cos\omega} g ; along path \frac{\sin\theta}{\cos\omega} g.
+
+Fig 3 shows parallelogram of forces for centrifugal forces.
+Total centrifugal force = R (D_t(\theta-\omega))^2
+Centrifugal force along string = \frac{(D_t(\theta-\omega))^2}{\cos\omega} R ; along path (D_t(\theta-\omega))^2 \tan\omega . R
+Elastic force, which is wholly along string = -\frac{E}{m} l + \frac{C}{m}
+
+Let us first calculate the relation between l and \theta so as to find R.
+We have then
+D_t^2 l = \frac{\cos(\theta-\omega)}{\cos\omega} g + \frac{(D_t(\theta-\omega))^2}{\cos\omega} R - \frac{E}{m} l + \frac{C}{m}

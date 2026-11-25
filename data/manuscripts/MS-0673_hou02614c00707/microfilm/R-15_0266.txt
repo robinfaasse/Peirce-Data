@@ -1,0 +1,12 @@
+[pn]26[/pn] distance [u]$\frac{s}{a} t$[/u], he adds to his first approximation the time required for Achilles to run this distance, which is $\frac{s}{a^2} t$, and so gets his second approximation $\frac{s}{a} + \frac{s}{a^2} t$, Proceeding in this way, he obtains, as his final result, the [del]onfor[/del] endless series $\frac{s}{a} + \frac{s}{a^2} t + \frac{s}{a^3} t^2 + \frac{s}{a^4} t^3 + \text{etc.}$, the sum of which he very absurdly, yet naturally enough, considering that he [ins]lived at the town of[/ins] was living Velia (called Elea by suppression of the digamma, $w\varepsilon\lambda\iota\alpha$) in the earlier half of the fifth century B.C. Now let us calculate $\frac{s}{a-t}$ by long division. Here is the work:
+
+[fig]Long division of s by a-t[/fig]
+$$\begin{array}{rl}
+a-t) & s \quad (\frac{s}{a} + \frac{s}{a^2} t + \frac{s}{a^3} t^2 + \frac{s}{a^4} t^3 + \text{etc.} \\
+& \underline{s - \frac{s}{a} t} \\
+& \quad \frac{s}{a} t \\
+& \quad \underline{\frac{s}{a} t - \frac{s}{a^2} t^2} \\
+& \qquad \frac{s}{a^2} t^2 \\
+& \qquad \underline{\frac{s}{a^2} t^2 - \frac{s}{a^3} t^3} \\
+& \qquad \quad \frac{s}{a^3} t^3
+\end{array}$$

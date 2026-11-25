@@ -1,0 +1,75 @@
+[pn]310[/pn]
+
+[del]The above[/del]
+
+These relations may very prettily be represented on
+a paper ring having its larger diameter double
+its smaller.
+
+§153. The syllogistic of DeMorgan's [del]sys[/del]
+with Barbara, we can per[del]v[/del]
+the major [ins]premise[/ins] and conclusion
+minor premise and co
+
+[fig]Circular diagram with handwritten logical symbols and annotations[/fig]
+
++: Starting
+on
+the
+
+thus we get
+
+$$\begin{array}{c|c|c|c}
+\text{A} & \Upsilon & \text{E} & \mathcal{Y} \\
+\text{A} & \text{A} & \text{A} & \text{A} \\
+\hline
+\text{A} & \Upsilon & \text{E} & \mathcal{Y}
+\end{array} \quad \begin{array}{c}
+\text{A} \\
+\text{I} \\
+\hline
+\end{array} \qquad \begin{array}{c|c|c}
+\Upsilon & \text{E} & \mathcal{Y} \\
+\text{H} & \text{H} & \text{H} \\
+\hline
+\text{O} & \aleph & \text{I}
+\end{array} \quad \begin{array}{c|c}
+\text{E} & \text{E} \\
+\text{I} & \mathcal{Y} \\
+\hline
+\text{O} & \Upsilon
+\end{array}$$
+
+If [del]by this[/del] we perfor
+two particular premises
+conclusion will not be
+spurious. The following are
+
+is on both premise
+$\therefore$ be a conclusi[del]on[/del]
+[del]ible[/del]
+
+no
+
+$$\begin{array}{l|l}
+\text{Something besides } M \text{ is } P, & \text{Some [blank]} \\
+\text{Some } S \text{ is } M; & \text{Something [del]besides[/del] [ins]is[/ins] [blank] is } M; \\
+\hline
+\therefore \text{Some } S \text{ is not some } P. & \text{Something is neither } S \text{ nor some } P.
+\end{array}$$
+
+$$\begin{array}{l|l}
+\text{There is something besides } M \text{ and } P, & \text{[del]Something[/del] [ins]There is something[/ins] besides } M \text{ and } P, \\
+\text{Some } S \text{ is } M; & \text{Something besides } S \text{ is } M; \\
+\hline
+\therefore \text{Some } S \text{ is not some not-} P. & \therefore \text{Something is neither } S \text{ nor some not } P.
+\end{array}$$
+
+Besides [del]the above[/del] [ins]these[/ins] 16 moods there are 16 others derived from
+
+$$\begin{array}{rl}
+& \text{Only an } M \text{ is a } P, \\
+& \text{Only an } S \text{ is an } M; \\
+\hline
+\therefore & \text{Only an } S \text{ is a } P,
+\end{array}$$

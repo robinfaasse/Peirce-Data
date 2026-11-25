@@ -1,0 +1,27 @@
+[pn]No. 55[/pn] Computations for a Table of Secundal Antilogarithms, Sheet 2
+
+Explanation. R being the approx. toward $\sqrt{2}$ already reached [fig]black circle[/fig] Approximation
+$R + \frac{1}{2^n}$ being the next approximation, its square is $R^2 + (\frac{1}{2})^{n-1} R + \frac{1}{2^{2n}}$
+Therefore from the last remainder, which was $\sqrt{2} - R^2$,
+we must now subtract $(\frac{1}{2})^{n-1} R + (\frac{1}{2})^{2n}$.
+
+The $R$'s are written [del]The remainders are written in Blue[/del]
+The first part of each subtrahend in Green, i.e. $(\frac{1}{2})^{n-1} R$
+and the last part, $(\frac{1}{2})^{2n}$ in brown
+
+The rule for subtraction here used is as follows
+Units in the same secundal place being always written in the same vertical column
+write the subtrahend under the minuend and between them draw horizontal
+lines beginning at the extreme left of right-handmost column that contains a unit of the
+subtrahend but no unit of the minuend. Continue this first horizontal line toward the left
+until it has passed through a column containing a unit of the minuend but none of the
+subtrahend, and there let it stop. Then pass on to the right until you have past [del]another[/del] [ins]another[/ins]
+column containing a unit of the subtrahend but none of the minuend and
+proceed as before, until there remains no column to the right [del]containing a unit of the[/del]
+subtrahend and none of the minuend, Then write the remainder by putting [del]a unit of it[/del]
+below the subtrahend [del]by putting[/del] a unit in each column where the sum of the units in
+the minuend and subtrahend increased by 1 in case there is a part of the column is traversed
+by the horizontal line be odd, Where this sum is 0 or two, leave the place of the remainder
+vacant, The horizontal line [del]between minuend and subtrahend will be drawn in black[/del]
+
+[fig]table of numbers and vertical lines[/fig]

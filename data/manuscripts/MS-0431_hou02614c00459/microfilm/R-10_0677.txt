@@ -1,0 +1,26 @@
+[marginalia]
+[pn]Logic[/pn]
+[pn]III[/pn]
+[pn]119[/pn]
+[/marginalia]
+
+from this composite, [del]any[/del] [ins]with an[/ins] adjacent
+composite is true.
+
+First, then, suppose [u]a[/u]·[u]b[/u]·[u]c[/u] · · · · [u]k[/u]·[u]l[/u]·[u]m[/u] to be false. Then,
+[u]a[/u]·[u]b[/u]·[u]c[/u] · · · · [u]k[/u]·[u]l[/u]·[u]m[/u]·[u]n[/u] must be false. For otherwise, the latter would
+be true, and consequently have the value V. But in this case, by the
+first clause of the definition of composition [u]a[/u]·[u]b[/u]·[u]c[/u] · · · · [u]k[/u]·[u]l[/u]·[u]m[/u] would
+be equal to V, and therefore true and not false, contrary to the
+hypothesis.
+
+Secondly, consider the alternative, namely that [ins][u]a[/u]·[u]b[/u]·[u]c[/u] · · · · [u]k[/u]·[u]l[/u]·[u]m[/u], as well as[/ins] every composite
+resulting from the omission from [u]a[/u]·[u]b[/u]·[u]c[/u] · · · · [u]k[/u]·[u]l[/u]·[u]m[/u] of a com-
+ponent with its adjacent composite, is true, Then [del]this[/del] [ins]every such[/ins] com-
+posite will have the value V; and if [u]n[/u] also likewise has the
+value V, by the third clause of the definition of composition
+every composite resulting from [u]a[/u]·[u]b[/u]·[u]c[/u] · · · · [u]k[/u]·[u]l[/u]·[u]m[/u]·[u]n[/u] by the
+omission of one component will have the value V, and con-
+sequently will be true. But if [u]n[/u] has not the value V, then,
+by the second clause of the definition of composition, the
+composite [u]a[/u]·[u]b[/u]·[u]c[/u] · · · · [u]k[/u]·[u]l[/u]·[u]m[/u]·[u]n[/u] will not be V, and will therefore not

@@ -1,0 +1,16 @@
+[pn]7[/pn]
+
+$$k'(ij') = S_4 - v_4$$
+
+But
+$$k'j' = -j'k' \quad k'i = -ik$$
+
+because both products are vectors, Hence
+$$ij'k' = i.k'j' = -ik.j' = +k'i.j' = +k'.ij'$$
+
+Hence
+$$S_4 + v_4 = S_4 - v_4$$
+
+or $v_4 = 0$
+
+and the product of two vectors is a scalar. These vectors cannot then be independent or $k$ cannot be independent of $i$ and $j$. So that a fourth independent vector is impossible and the theorem is proved.

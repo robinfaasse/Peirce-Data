@@ -1,0 +1,50 @@
+[marginalia]
+[pn]88[/pn]
+[u]III[/u]
+[date]JAN 25 1902[/date]
+[/marginalia]
+
+[marginalia]
+Logic
+[/marginalia]
+
+[marginalia]
+Necessarily False.
+[/marginalia]
+
+[marginalia]
+Necessarily True.
+[/marginalia]
+
+$(\bar{x} \text{ db } \bar{x}) > \bar{x} \quad \bar{x} < (\bar{x} \text{ db } \bar{x})$
+$(\bar{x} \Delta \bar{x}) > \bar{x} \quad \bar{x} < (\bar{x} \Delta \bar{x})$
+$(\bar{x} \nabla \bar{x}) > \bar{x} \quad \bar{x} < (\bar{x} \nabla \bar{x})$
+$(\bar{x} \text{ g } \bar{x}) > \bar{x} \quad \bar{x} < (\bar{x} \text{ g } \bar{x})$
+$(\bar{x} > \bar{x}) > \bar{x} \quad \bar{x} < (\bar{x} < \bar{x})$
+$(\bar{x} < \bar{x}) > \bar{x} \quad \bar{x} < (\bar{x} > \bar{x})$
+$(\bar{x} \wedge \bar{x}) > \bar{x} \quad \bar{x} < (\bar{x} \wedge \bar{x})$
+$(\bar{x} \otimes \bar{x}) > \bar{x} \quad \bar{x} < (\bar{x} \otimes \bar{x})$
+$(\bar{x} \wedge \bar{x}) > \bar{x} \quad \bar{x} < (\bar{x} \wedge \bar{x})$
+$(\bar{x} \infty \bar{x}) < \bar{x} \quad \bar{x} > (\bar{x} \infty \bar{x})$
+$(\bar{x} \Delta \bar{x}) < \bar{x} \quad \bar{x} > (\bar{x} \Delta \bar{x})$
+$(\bar{x} \Delta \bar{x}) < \bar{x} \quad \bar{x} > (\bar{x} \Delta \bar{x})$
+$(\bar{x} \text{ db } \bar{x}) < \bar{x} \quad \bar{x} > (\bar{x} \text{ db } \bar{x})$
+$(\bar{x} > \bar{x}) < \bar{x} \quad \bar{x} > (\bar{x} \infty \bar{x})$
+$(\bar{x} \infty \bar{x}) < \bar{x} \quad \bar{x} > (\bar{x} \infty \bar{x})$
+$(\bar{x} \times \bar{x}) < \bar{x} \quad \bar{x} > (\bar{x} \times \bar{x})$
+
+$(\bar{x} \wedge \bar{x}) \infty \bar{x} \quad \bar{x} \infty (\bar{x} \wedge \bar{x})$
+$(\bar{x} \nabla \bar{x}) \infty \bar{x} \quad \bar{x} \infty (\bar{x} \nabla \bar{x})$
+$(\bar{x} \nabla \bar{x}) \infty \bar{x} \quad \bar{x} \infty (\bar{x} \nabla \bar{x})$
+$(\bar{x} \infty \bar{x}) \infty \bar{x} \quad \bar{x} \infty (\bar{x} \infty \bar{x})$
+$(\bar{x} \infty \bar{x}) \infty \bar{x} \quad \bar{x} \infty (\bar{x} \infty \bar{x})$
+$(\bar{x} \text{ db } \bar{x}) \infty \bar{x} \quad \bar{x} \infty (\bar{x} \text{ db } \bar{x})$
+$(\bar{x} \times \bar{x}) \infty \bar{x} \quad \bar{x} \infty (\bar{x} \times \bar{x})$
+$(\bar{x} \text{ db } \bar{x}) \infty \bar{x} \quad \bar{x} \infty (\bar{x} \text{ db } \bar{x})$
+$(\bar{x} \text{ g } \bar{x}) \infty \bar{x} \quad \bar{x} \infty (\bar{x} \text{ g } \bar{x})$
+$(\bar{x} \nabla \bar{x}) \infty \bar{x} \quad \bar{x} \infty (\bar{x} \nabla \bar{x})$
+$(\bar{x} \nabla \bar{x}) \infty \bar{x} \quad \bar{x} \infty (\bar{x} \nabla \bar{x})$
+$(\bar{x} \wedge \bar{x}) \infty \bar{x} \quad \bar{x} \infty (\bar{x} \wedge \bar{x})$
+$(\bar{x} > \bar{x}) \infty \bar{x} \quad \bar{x} \infty (\bar{x} < \bar{x})$
+$(\bar{x} < \bar{x}) \infty \bar{x} \quad \bar{x} \infty (\bar{x} > \bar{x})$
+$(\bar{x} \otimes \bar{x}) \infty \bar{x} \quad \bar{x} \infty (\bar{x} \otimes \bar{x})$

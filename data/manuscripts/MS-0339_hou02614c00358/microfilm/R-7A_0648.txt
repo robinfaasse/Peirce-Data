@@ -1,0 +1,34 @@
+[pn][Follows a7r] a9r[/pn]
+
+[u]First case[/u]
+$$\frac{0}{100}\quad \frac{0}{101}\quad \frac{0}{102}\quad \frac{1}{103}\quad \frac{1}{104}\quad \frac{1}{105}\quad \frac{1}{106}\quad \frac{2}{107}\quad \frac{3}{108}\quad \frac{4}{109}$$
+$$0\quad 0\quad 0\quad .0097\quad [ins]^{.0097}[/ins].0096\quad [ins]^{154}[/ins].0095\quad [ins]^{238}[/ins].0094\quad [ins]^{300}[/ins]0.0186\quad [ins]^{416}[/ins].0277\quad [ins]^{536}[/ins].0366\quad [ins]^{728}[/ins]972$$
+$$0\quad 0\quad 0\quad +.0097\quad -.000094\quad -.000091\quad -.000090\quad +.009258\quad +.009086\quad +.008929$$
+[u]Effects[/u] $\sigma$ o
+
+[u]Second Case[/u]
+$$\frac{100}{100}\quad \frac{100}{101}\quad \frac{100}{102}\quad \frac{101}{103}\quad \frac{101}{104}\quad \frac{101}{105}\quad \frac{101}{106}\quad \frac{102}{107}\quad \frac{103}{108}\quad \frac{104}{109}$$
+[del]1.000000[/del] [ins]1.000000[/ins] .9900990 .9803920 .9805825 .9711539 .9619048 [ins]9619048[/ins] .9528302 .9532710 .9537057 .9541284
+$$-.009901\quad -.0097078\quad [del]+.0001905[/del] [ins]+.0001905[/ins]\quad -.0094286\quad -.0092491\quad -.0090746\quad +.0004408\quad +.0004347\quad +.0004227$$
+[u]Effect[/u]
+
+[u]Third case[/u]
+$$\frac{40}{100}\quad \frac{40}{101}\quad \frac{40}{102}\quad \frac{41}{103}\quad \frac{41}{104}\quad \frac{41}{105}\quad \frac{41}{106}\quad \frac{42}{107}\quad \frac{43}{108}\quad \frac{44}{109}$$
+[del]0.400000[/del] [ins]0.400000[/ins] .3960396 .3921569 [del].3980583[/del] [ins]3980593[/ins] .3942308 .3904762 .3867924 .3925234 .3981481 .4036697
+$$-.0039604\quad -.0038827\quad +.0059024\quad -.0038285\quad -.0037546\quad -.0036838\quad +.0057309\quad +.0056247\quad +.0055216$$
+
+$$\frac{0}{1000}\quad \frac{0}{1001}\quad \frac{0}{1002}\quad \frac{1}{1003}\quad \frac{1}{1004}\quad \frac{1}{1005}\quad \frac{1}{1006}\quad \frac{2}{1007}\quad \frac{3}{1008}\quad \frac{4}{1009}$$
+$$0\quad 0\quad 0\quad .000997\quad .000996\quad .000995\quad .000994\quad .001986\quad .002976\quad .003964$$
+$$0\quad 0\quad +.000997\quad -.000001\quad -.000001\quad -.000001\quad +.000992\quad +.000990\quad +.000988$$
+
+$$\frac{1000}{1000}\quad \frac{1000}{1001}\quad \frac{1000}{1002}\quad \frac{1001}{1003}\quad \frac{1001}{1004}\quad \frac{1001}{1005}\quad \frac{1001}{1006}\quad \frac{1002}{1007}\quad \frac{1003}{1008}\quad \frac{1004}{1009}$$
+$$1.000000\quad .999001\quad .998004\quad .9970090\quad .9960159\quad .9950249\quad .9940358\quad .9930487\quad .9920635\quad .9910803$$
+$$[ins]\begin{array}{c} 9970 \\ 9980060 \end{array}[/ins]\quad [ins]\begin{array}{c} 1966 \\ 9970119 \end{array}[/ins]\quad [ins]\begin{array}{c} 2950 \\ 9960199 \end{array}[/ins]\quad [ins]\begin{array}{c} 3940 \\ [del]9950119[/del] \\ 9950299 \end{array}[/ins]\quad [ins]\begin{array}{c} 19861 \\ 9950348 \end{array}[/ins]\quad [ins]\begin{array}{c} 29762 \\ 9950397 \end{array}[/ins]\quad [ins]\begin{array}{c} 39643 \\ 9950446 \end{array}[/ins]$$
+$$-.000999\quad -.000997\quad +.0000054\quad [del]-.0009841[/del]\quad -.0009920\quad -.0009901\quad [del]+.0000050[/del]\quad +.0000049$$
+
+$$\frac{400}{1000}\quad \frac{400}{1001}\quad \frac{400}{1002}\quad \frac{401}{1003}\quad \frac{401}{1004}\quad \frac{401}{1005}\quad \frac{401}{1006}\quad \frac{402}{1007}\quad \frac{403}{1008}\quad \frac{404}{1009}$$
+$$.400000\quad .3996004\quad .3992016\quad .3988036\quad .39840636\quad .39800995\quad .39761432\quad .39721948\quad .3982231\quad .40039643$$
+$$[ins]\begin{array}{c} 9970 \\ .3998006 \end{array}[/ins]\quad [ins]\begin{array}{c} 19602 \\ .39940238 \end{array}[/ins]\quad [ins]\begin{array}{c} 399502 \\ 39900498 \end{array}[/ins]\quad [ins]\begin{array}{c} 39761432 \\ 39860836 \end{array}[/ins]\quad [ins]\begin{array}{c} 19960974 \\ 39721948 \end{array}[/ins]$$
+$$[ins]39920558[/ins]$$
+
+We may neglect for the moment the third cases. What I wish to bring your attention to is that any sequence of throws, since it is possible, will certainly recur endlessly, and [del]that[/del] every time it recurs it will have less and less effect, [del]and that consequently in causing the ratios to often secretariats[/del] [ins]and[/ins] results to oscillate less than it did before; and this will be true even of such short series of throws whose [del]re[/del] irregular recurrence will make up the whole [del]&[/del] endless sequence after a certain point

@@ -1,0 +1,36 @@
+§ 5. I collect the chief of the above equations, [del]writing[/del] [ins]some[/ins]
+them now in the forms referring to continuous distribution of
+the weight, and adding forms involving $\rho$ the radius of curvature.
+
+(22) from (1) $\tan \tau = dy/dx$ $ds = \sqrt{(dx)^2 + (dy)^2} = \sec \tau \cdot dx$
+$x = \int \cos \tau \cdot ds$ $y = \int \sin \tau \cdot ds$ $q = \sec \tau \frac{dy}{dx}$
+
+(23) from (3) $dw = d(q \sin \tau)$
+
+(5) $Q = q \cos \tau$
+
+(7) $w = Q (\tan \tau - \tan \tau_0)$
+
+(9) $W = Q (\tan \tau_N - \tan \tau_0)$
+
+(24) from (10) $\frac{w}{Q} + \tan \tau_0 = dy/dx$
+
+(12) and (13) $w_H = - Q \tan \tau_0 = W - Q \tan \tau_N$
+
+(14) $w - w_H = Q \tan \tau$
+
+(25) from (15) $\frac{w - w_H}{Q} = dy/dx$ $\cos^3 \tau \frac{dw}{dx} = \frac{Q}{\rho}$
+
+(17) $\bar{x}_n^m = \frac{x_m \tan \tau_m - y_m + y_n - x_n \tan \tau_n}{\tan \tau_m - \tan \tau_n}$
+
+(18) $\tan \tau = \frac{y - y_H}{x - \bar{x}_H}$
+where $\bar{x}_H$ is the value of $x$ for the centre of gravity of weights from
+H to the variable point.
+
+(19) and (20) $Q = (w - w_H) \frac{x - \bar{x}_H}{y - y_H} = - w_0 \frac{\bar{x}_0^H}{y_H} = (W - w_H) \frac{X - \bar{x}_H^N}{y_N - y_H}$
+
+(21) $\frac{x_m - \bar{x}_n^m}{x_n - \bar{x}_n^m} = \frac{\tan \tau_n}{\tan \tau_m}$
+
+We have also
+
+(26) $q = (w - w_H) \csc \tau = Q \sec \tau = \sqrt{Q^2 + (w - w_H)^2}$

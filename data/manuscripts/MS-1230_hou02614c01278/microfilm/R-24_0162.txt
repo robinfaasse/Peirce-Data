@@ -1,0 +1,39 @@
+A composite number
+can be resolved
+into [ins]prime[/ins] factors in
+one way only
+
+$m = a^{\alpha} b^{\beta} c^{\gamma}$
+
+number divisors
+$(\alpha + 1)(\beta + 1)(\gamma + 1) \dots$
+
+Sum of divisors
+$\begin{array}{ccccc} 1 & a & a^2 & \dots & a^{\alpha} \\ 1 & b & b^2 & \dots & b^{\beta} \\ 1 & c & c & \dots & c^{\gamma} \end{array}$
+
+$1 + a + a^2 + \dots = \frac{a^{\alpha+1} - 1}{a - 1}$
+$1 + b + b^2 + \dots = \frac{b^{\beta+1} - 1}{b - 1}$
+
+Sum div $\frac{a^{\alpha+1} - 1}{a - 1} \cdot \frac{b^{\beta+1} - 1}{b - 1}$ etc
+
+***
+
+Numbers [del]less than[/del] [ins]not greater[/ins] [del]m[/del]
+divisible by $m$
+$a \quad 2a \quad 3a \dots \quad \frac{m}{a} \cdot a$
+
+the number of these is $m/a$
+
+There remain $m - \frac{m}{a}$
+$= m(1 - \frac{1}{a})$
+numbers not so divs.
+
+$\phi m = m (1 - \frac{1}{a})(1 - \frac{1}{b})(1 - \frac{1}{c})$ etc
+$m = a^{\alpha} b^{\beta} c^{\gamma} d^{\delta}$ etc.
+
+10 2 5
+$10 (1 - \frac{1}{2})(1 - \frac{1}{5})$
+[del]5[/del] 4
+
+If $m$ and $n$ are relatively prime
+$\phi(mn) = \phi m \cdot \phi n$

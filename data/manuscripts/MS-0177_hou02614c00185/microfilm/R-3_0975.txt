@@ -1,0 +1,26 @@
+The remainder after division by 8 is the same
+as that of the sum of the last figure [u]plus[/u] twice the
+last but one, [u]plus[/u] four times the last but 2.
+
+The remainder after division by 9 is the same
+as that of the sum of the digits
+
+The remainder after division by 10 is the same
+as that of the last digit
+
+The remainder after division by 11 is the
+same as that of the sum of the digits in
+odd places [del]minus[/del] [ins]minus[/ins] the digits in even places.
+Thus 365 = 5 + 3 - 6 = 2
+
+The remainder after division by 13 is the same
+as that of the last digit minus 3 times the last but
+one plus twice the last but 2 minus the last but 3
+plus three times the last but 4 minus twice the
+last but 5 etc Thus 365 = 5 - 18 + 6 = -7 = 6
+
+The remainder after division by 17 is the same as that of
+the last figure minus 7 times the second (from the last) minus
+twice the third minus 3 times the fourth plus four
+times the fifth plus 6 times the sixth minus
+8 times the seventh plus 5 times the eighth etc

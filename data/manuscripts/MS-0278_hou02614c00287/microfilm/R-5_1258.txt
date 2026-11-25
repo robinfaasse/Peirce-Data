@@ -1,0 +1,65 @@
+[marginalia]
+r r
+r r
+r r
+[/marginalia]
+
+a 1
+l r 1 0
+l a 1 1
+p r 1 .
+p a 1 . 1
+p l r 1 1 .
+p l a 1 1 1
+
+s r 1 . .
+s a 1 . 1
+s l r 1 1 .
+s l a 1 1 1
+s p r 1 1 .
+s p a 1 1 . 1
+s p l r 1 1 1 .
+s p l a 1 1 1 1
+
+[del]la r 11[/del]
+l a z 1 1 . . 1 $3 \frac{1}{16}$
+l a d 1 1 . . 1 $3 \frac{3}{8}$
+l a d z 1 1 . 1 1 $3 \frac{3}{16}$
+l a n 1 1 . 1 $3 \frac{1}{4}$
+l a n z 1 1 . 1 1 $3 \frac{5}{16}$
+l a n d 1 1 . 1 1 $3 \frac{3}{16}$
+l a r 1 1 $3 \frac{1}{2}$
+l a r z 1 1 . . 1 $3 \frac{9}{16}$
+l a r d 1 1 . 1 $3 \frac{5}{8}$
+l a r n 1 1 1 1 $3 \frac{3}{4}$
+l a r n d 1 1 1 1 1 $3 \frac{7}{8}$
+l a r d z 1 1 1 1 1 $3 \frac{15}{16}$
+
+[marginalia]
+r 0000
+rsh 0001
+rsh d 0010
+rsh t 0011
+rsh l 0100
+rsh s 0101
+rsh t 0110
+rsh sh 0111
+[/marginalia]
+
+[marginalia]
+an
+an [del]sh[/del] [ins]r[/ins] [del]sh[/del] [ins]t[/ins]
+an [del]sh[/del] [ins]l[/ins]
+[/marginalia]
+
+U = $\Lambda$ = V = 11
+[del]U[/del] [ins]W[/ins] = W = N = 111
+M = W = 1111
+
+Higher numbers than 15 will require more than one syllable, and the letter m may be used to separate the vowels, 1,1,1
+
+In the syllable expressing the $4^{\text{th}}$ to $7^{\text{th}}$ powers of 2 the vowels o and e are to be used instead of a and r
+
+In the syllable expressing the $8^{\text{th}}$ to $11^{\text{th}}$ powers of two, the vowels u and i [del]are[/del] [ins]should[/ins] fulfill the same function and in the syllable expressing the $12^{\text{th}}$ to $15^{\text{th}}$ power of two the diphthongs au and ai [del]are to be used[/del]
+
+[fig]Mathematical diagram with handwritten terms like "splas", "splaspla", "splasplapla", and numbers 2048, 1024, 256, 128, 64, 32, 16, 8, 4, 2, 1, 1/2, 1/4, 1/8, 1/16, 1/32, 1/64[/fig]

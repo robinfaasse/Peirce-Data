@@ -1,0 +1,38 @@
+Now $r = e^y$ $\theta = x$ !
+
+Hence $r = \cosh y + \sinh y$
+$-r^{-1} = -\cosh y + \sinh y$
+$(S^{-1}-S) \cosh y + (S^{-1}+S) \sinh y$
+
+$\cosh^2 y - \sinh^2 y = 1$
+
+$\frac{e^{2y} - 2 + e^{-2y}}{4}$
+$\frac{e^{2y} + 2 + e^{-2y}}{4}$
+
+$\frac{e^y - e^{-y}}{2} = \frac{e^{2xi} - 1}{i(e^{2xi} + 1)}$
+
+$\sinh y = \tan x$
+$\cosh y = \sec x$
+
+$e^{2xi} = e^{2xi} (-i \frac{e^y - e^{-y}}{2} + 1) = 1 + i \frac{e^y - e^{-y}}{2}$
+$= \tan x + \sec x$
+
+$\cos 2x + \sin 2x \cdot \frac{e^y - e^{-y}}{2} = 1$
+
+[del]$\log \tan (45^\circ + \frac{x}{2}) = \frac{\sin 2x - \cos 2x}{\dots}$[/del]
+
+$\frac{\sin + 1}{\cos} = \tan (45^\circ + \frac{x}{2}) = e^y$
+
+$\sin 2x = \frac{2}{\frac{e^y - e^{-y}}{2} + \frac{2}{e^y - e^{-y}}}$
+
+$\cos 2x = \frac{2}{e^y - e^{-y}} - \frac{e^y - e^{-y}}{2}$
+
+$\sin = \frac{2}{P+Q}$
+$\cos = \frac{P-Q}{P+Q}$
+
+$\sin^2 = \frac{4}{(P+Q)^2}$
+$\cos^2 = \frac{P^2 - 2PQ + Q^2}{(P+Q)^2}$
+
+[del]$\sin 2x = \cos 2x$[/del]
+
+$\sin 2x = \frac{4(e^y - e^{-y})}{(e^y + e^{-y})^2}$

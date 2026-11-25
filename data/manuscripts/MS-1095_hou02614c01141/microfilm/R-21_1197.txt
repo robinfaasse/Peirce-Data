@@ -1,0 +1,36 @@
+```
+s - ci = bW
+q + ci = bW⁻¹
+
+s = bW + ci
+q = bW⁻¹ - ci
+
+sq = b² + c(W⁻¹ - W)i + c²
+
+s² = b²W² + 2bciWi
+q² = b²W⁻² - 2bciW⁻¹i
+
+D_s X = E + 2A log { b² + c(W⁻¹ - W)i }
++ 2Cb² + 2Cc(W⁻¹ - W)i
++ Bb⁻²W⁻² - 2B c/b³W³ i
++ Cb²W⁻² + 2[del]B[/del] [ins]C[/ins] cb³/W³ i
++ 2AW⁻² - 2A c/bW³ i
+
++ HbW + Hci
++ 3Gb³W + 6Gbci - 3Gbc²W⁻¹i
+
+s = bW(1 + c/bW i)
+s⁻² = [del]b[/del] [ins]b⁻²[/ins]W⁻²(1 - 2c/bW i)
+s⁻¹ = b⁻¹W⁻¹(1 - c/bW i)
+q = bW⁻¹(1 - c/bW i)
+
+s² = b²W² + 2bWci
+s²q = b³W + 2b²ci - b²cW⁻¹i
+
+s = bW(1 + c/bW i)
+s³ = b³W³(1 + 3c/bW i)
+q = [del]b[/del]W⁻¹(
+
+2A log { b² + c(1/W - W)i }
+= 2A log b² + 2A log { 1 + c/b²(1/W - W)i }
+```

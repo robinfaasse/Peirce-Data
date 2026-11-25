@@ -1,0 +1,29 @@
+[marginalia][date]1909 Jan 31[/date]
+3[/marginalia] to Josephine, "Know, Madam, that the rules of morality were not meant for such men as I" i.e. the private conduct of such a man must be allowed no weight against public interests; — a dangerous principle, enough, but yet not altogether false. But as for Napoleon his was too fatally good a family man and while utterly unreliable politically, — as European statesmen usually have been.
+
+I want to help you with existential graphs. Let us see under what circumstances a partial graph can be eliminated by iteration followed by deiteration. I first call your attention to the fact that iteration and deiteration under a single enclosure cannot amount to much. And iteration in an odd enclosure is simply iterating a particular graph where you have a right to scribe any graph you please; and so deiteration from an evenly enclosed area is only erasing where you are entitled to erase whatever you like. But suppose you have given [fig]graph a b[/fig] [fig]graph a c[/fig] and wish to obtain [fig]graph a b c[/fig]. You can, if you please, at once iterate either a in one additional enclosure; but you need not; and we will compare the two methods
+
+[marginalia]The comparison illustrates the usual futility of iterating within a single additional enclosure.[/marginalia]
+
+Iterating one of the [u]a[/u]'s, we get
+[fig]graph a with nested a b[/fig] [fig]graph a c[/fig]
+
+Now iterating the second scroll in the inner close of the first, we get,
+[fig]graph a with nested a b and nested a c[/fig] [fig]graph a c[/fig]
+
+and deiterating two a's
+[fig]graph a with nested b and nested c[/fig] [fig]graph a c[/fig]
+
+[marginalia]Suppressing the double cut with nothing in its outer close[/marginalia]
+[fig]graph a with nested b and c[/fig] [fig]graph a c[/fig]
+
+On the other hand, we may simply iterate the second scroll in the inner close of the first and get
+[fig]graph a with nested b and nested a c[/fig] [marginalia]There will be no need of continuing to scribe the other graph[/marginalia]
+
+We now deiterate the [del]second[/del] [ins]inner[/ins] a and get
+[fig]graph a with nested b and nested c[/fig]
+
+[marginalia]Suppressing the scroll with outer close vacant[/marginalia]
+[fig]graph a with nested b and c[/fig]
+
+This is plainly the simpler method of the two.

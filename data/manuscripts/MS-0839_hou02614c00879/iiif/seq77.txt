@@ -1,0 +1,29 @@
+[(l + \check{\bar{l}}) \cdot l \check{\bar{l}}] [(l + \check{\bar{l}}) \cdot l \check{\bar{l}}] \hfill 839
+
+[del](l + \check{\bar{l}}) \cdot l \check{\bar{l}}[/del]
+\hfill (a+b)c \prec ac + bc
+\hfill (a+c) + (b+c) \sim (a+b) + c
+
+u = (l + \check{\bar{l}}) \cdot l \check{\bar{l}}
+\bar{u} = \bar{l} \check{l} + (\bar{l} + \check{l})
+\check{u} = l \check{\bar{l}} + (l + \check{\bar{l}})
+
+u \check{u} = [(l + \check{\bar{l}}) \cdot l \check{\bar{l}}] [l \check{\bar{l}} + (l + \check{\bar{l}})]
+= [(l + \check{\bar{l}}) \cdot l \check{\bar{l}}] l \check{\bar{l}} + [(l + \check{\bar{l}}) \cdot l \check{\bar{l}}] (l + \check{\bar{l}})
+\prec l \check{\bar{l}} \cdot l \check{\bar{l}} + (l + \check{\bar{l}}) \cdot l \check{\bar{l}}
+\prec l \check{\bar{l}}
+
+u + \bar{u} = [(l + \check{\bar{l}}) \cdot l \check{\bar{l}}] + [\bar{l} \check{l} + (\bar{l} + \check{l})]
+= \{ l + \check{\bar{l}} + [\bar{l} \check{l} + (\bar{l} + \check{l})] \} \cdot \{ l \check{\bar{l}} + [\bar{l} \check{l} + (\bar{l} + \check{l})] \}
+\succ \{ (l + \check{\bar{l}} + \bar{l} \check{l} ) + ( \bar{l} + \check{l} ) \} \cdot \{ (l \check{\bar{l}} + \bar{l} \check{l} ) + ( \bar{l} + \check{l} + \check{l} ) \}
+
+\sum_x \prod_y (l_{iy} + \bar{l}_{jy}) \cdot (l_{ix} \cdot \bar{l}_{jx}) \qquad l_{ix} \cdot (\bar{l}_{iy} l_{jx} + \bar{l}_{ij} \bar{l}_{ix}
+[del]\sum_u \prod_v (l_{ju} + \bar{l}_{ku}) \cdot (l_{ju} \cdot \bar{l}_{ku})[/del] \hfill a + b
+\sum_u \prod_v l_{kv} \cdot \bar{l}_{ju} + (\bar{l}_{ku} + l_{ju}) \hfill \frac{a + c}{a + bc}
+
+\sum_i (\sum_x [del]\sum_v[/del] \prod_u \prod_y) (l_{iy} + \bar{l}_{jy}) l_{ix} \bar{l}_{jx} (l_{ju} + l_{jv} + \bar{l}_{ku}) \cdot (\bar{l}_{ju} + \bar{l}_{ku} + \bar{l}_{kv})
+
+[fig]Venn diagrams of three overlapping sets i, j, k with some regions shaded.[/fig]
+[fig]Venn diagram of sets i, j, k with conditions j=0, j<0, j>0, i=0, k, i=0.[/fig]
+[fig]Venn diagram of two overlapping sets labeled "not by anything" with one side shaded.[/fig]
+[fig]Diagram with set boundaries and regions shaded and labeled i=0, i<0.[/fig]

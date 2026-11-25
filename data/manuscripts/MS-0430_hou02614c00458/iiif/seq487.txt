@@ -1,0 +1,20 @@
+Logic
+III
+86
+
+(6)     x[del]x[/del] = 0
+(5) Either x or [u]x[/u]
+     Either x or not [u]x[/u]
+________________________________
+(4)     If x [del]not[/del] [u]x[/u]
+(7)     Either [u]x[/u] or [u]x[/u]
+     If x then [u]x[/u]
+
+     {  x·y  y·x
+        x·x  (x·y)·z - is x·(y·z)
+
+[fig]sketch of a person's head[/fig]     x·x     x·x·f
+     [del]If x is V[/del]
+     If x is V
+     and y is V Then x·y is V
+     and if x·y is V then x is V and y is V

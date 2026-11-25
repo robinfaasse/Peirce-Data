@@ -1,0 +1,34 @@
+3 53
+
+to the values of quantities can be expressed. Thus,
+
+[del]x[/del] [u]x[/u] is [u]x[/u] ʌ [u]x[/u] ʌ [u]x[/u] ʌ [u]x[/u]
+[del]x[/del] [u]x[/u] is [u]x[/u] ʌ [u]x[/u]
+[del]x v i - x[/del] [u]x[/u] [del]x[/del] [u]x[/u] is ([u]x[/u] ʌ [u]x[/u] ʌ [u]x[/u]) ʌ ([u]x[/u] ʌ [u]x[/u] ʌ [u]x[/u])
+[del]x x - x[/del] ([u]x[/u]) [del]x[/del] [u]x[/u] is [u]x[/u] ʌ [u]x[/u] ʌ [u]x[/u]
+[del]-(x ^ y ^ z)[/del] [u]x[/u] [del]x[/del] [u]y[/u] is [[u]x[/u] ʌ [u]y[/u] ʌ ([u]x[/u] ʌ [u]y[/u] ʌ [del]x[/del] [u]x[/u] ʌ [u]y[/u])] ʌ [[u]x[/u] ʌ [u]y[/u] ʌ ([u]x[/u] ʌ [u]y[/u] ʌ [u]x[/u] ʌ [u]y[/u])]
+[del]x x ^ y ^ z[/del] [u]x[/u] ([u]x[/u]) [u]y[/u] is [u]x[/u] ʌ [u]y[/u] ʌ ([u]x[/u] ʌ [u]y[/u] ʌ [u]x[/u] ʌ [u]y[/u])
+[del]x = y[/del] [u]x[/u] = [u]y[/u] is ([u]x[/u] ʌ [u]y[/u] ʌ [u]y[/u]) ʌ ([u]x[/u] ʌ [u]x[/u] ʌ [u]y[/u]) [ [fig]figure[/fig] [u]x[/u] ∞ [u]y[/u] ]
+[del]-(x = y)[/del] [u]x[/u] || [u]y[/u] is [u]x[/u] ʌ [u]y[/u] ʌ ([u]x[/u] ʌ [u]x[/u] ʌ [u]y[/u] ʌ [u]y[/u]) [ [fig]figure[/fig] [u]x[/u] 8 [u]y[/u] ]
+[del]x v y[/del] [u]x[/u] ∨ [u]y[/u] is [u]x[/u] ʌ [u]y[/u] ʌ [u]x[/u] ʌ [u]y[/u] [ins][u]xʌy[/u][/ins]
+[del]x v - y[/del] [u]x[/u] ∨ [del]x[/del] [u]y[/u] is ([u]x[/u] ʌ [u]x[/u] ʌ [u]y[/u] ʌ [u]y[/u]) ʌ ([u]x[/u] ʌ [u]x[/u] ʌ [u]y[/u] ʌ [u]y[/u]) or ([u]x[/u] ʌ [u]y[/u] ʌ [del]y[/del]) ʌ ([u]x[/u] ʌ [u]x[/u] ʌ [u]y[/u] ʌ [u]y[/u])*
+[del]x v y[/del] [u]x[/u] ∨ [u]y[/u] is ([u]x[/u] ʌ [u]y[/u] ʌ [del]y[/del]) ʌ ([u]y[/u] ʌ [u]x[/u] ʌ [u]y[/u])**[ [[fig]figure[/fig] ([u]y[/u] ʌ [u]x[/u] ʌ [u]x[/u]) ʌ ([u]y[/u] ʌ [u]x[/u] ʌ [u]x[/u])] ]
+[del]x ^ y[/del] [u]x[/u] ∨ [u]y[/u] is [u]x[/u] ʌ [u]x[/u] ʌ [u]y[/u] ʌ [u]y[/u]
+[del]x y[/del] [u]x[/u] < [u]y[/u] is [u]x[/u] ʌ [u]x[/u] ʌ [u]y[/u] ʌ [u]y[/u] or [u]x[/u] ʌ [u]y[/u] ʌ [u]y[/u]
+[del]x v - y[/del] [u]x[/u] > [u]y[/u] is ([u]x[/u] ʌ [u]y[/u] ʌ [u]y[/u]) ʌ ([u]x[/u] ʌ [u]x[/u] ʌ [u]y[/u]) [fig]figure[/fig]
+[del]-(x ^ y)[/del] [del]x ^ y[/del] is [del]x[/del] ʌ [del]y[/del] is [u]x[/u] ʌ [u]x[/u] ʌ [u]y[/u]
+[ins]368[/ins] It is equally [del]X[/del] possible to express all propositions con-
+cerning more than two quantities. Thus, the one between three
+noticed above is { [u]x[/u] ʌ [[u]y[/u] ʌ [u]z[/u] ʌ ([u]y[/u] ʌ [u]y[/u] ʌ [u]z[/u] ʌ [u]z[/u])]} ʌ { [u]x[/u] ʌ [u]x[/u] ʌ [[u]y[/u] ʌ [u]z[/u] ʌ [u]z[/u]) ʌ
+([u]y[/u] ʌ [u]y[/u] ʌ [u]z[/u])]} . That we can equally express every proposition by
+[ins][u]y[/u] is [u]y[/u] ʌ [u]y[/u] ʌ [u]y[/u] ʌ [u]y[/u][/ins] means of the [ins]†[/ins] vinculum [ins]one[/ins] ʌ is sufficiently shown by the fact
+[ins]-[u]y[/u] is [u]y[/u] ʌ [u]y[/u][/ins] that [u]x[/u] ʌ [u]y[/u] can be so expressed. It is,
+([u]x[/u] ʌ [u]x[/u] ʌ [u]y[/u] ʌ [u]y[/u]) ʌ ([u]x[/u] ʌ [u]x[/u] ʌ [u]y[/u] ʌ [u]y[/u]). [fig]figure[/fig] * [fig]figure[/fig]
+
+[ins]369[/ins] It would hardly be worth while, for the sake of this prop-
+osition itself, to show that no other single sign can do this.
+But for the sake of the insight it gives into the powers of the
+signs, it may be well to do so. Every proposition expressed by
+no other sign than vincula (and enclosures) with > asserts that
+the value of its first letter is [u]v[/u]. Thus, ([u]a[/u] > [u]b[/u]) > [u]c[/u] as-
+* [[ins]This is an error; it should be : ([u]x[/u] ʌ [u]x[/u] ʌ [u]y[/u]) ʌ ([u]x[/u] ʌ [u]x[/u] ʌ [u]y[/u]); [del]the[/del] [ins]errors should be [u]x[/u]ʌ[u]y[/u] ʌ ([u]x[/u]ʌ[u]y[/u]ʌ[u]x[/u]ʌ[u]y[/u])[/ins] [del]But[/del] the stated formula represents [u]x[/u] ∨ [u]y[/u]. [fig]figure[/fig]

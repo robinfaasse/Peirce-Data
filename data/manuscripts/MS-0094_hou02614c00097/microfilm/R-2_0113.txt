@@ -1,0 +1,35 @@
+[pn]105[/pn]
+
+Again we start with a sphere and draw three lines [del]from[/del] [ins]from[/ins] [del]the[/del] points on its surface, passing through the infinitely distant parts and coming back to the sphere on the other side. Let the points at which [del]these[/del] [ins]these[/ins] lines meets the sphere be $X$ and $X'$, $Y$ and $Y'$, $Z$ and $Z'$. Connect [del]X with Y, with[/del] [ins]by lines on the[/ins] sphere $X$ [ins]and $X'$[/ins] with $Y$, with $Y'$ with $Z$ and with $Z'$, and $Y$ and $Y'$ with $Z$ and $Z'$. Then we have 5 solids, one an octahedron, the other 4 pentahedrons.
+
+[fig]Sphere with lines radiating from it[/fig]
+
+We have
+
+$$\begin{array}{lrr}
+\text{Solids} & 5 & \\
+\text{Faces} & & 14 \\
+\text{Edges} & 15 & \\
+\text{Summits} & & 6 \\
+\cline{2-3}
+& \underline{20} & \underline{20}
+\end{array}$$
+
+Letting the sphere shrink to nothing, we have
+
+$$\begin{array}{lrr}
+\text{Solids} & 4 & \\
+\text{[del]Faces[/del]} & & 6 \\
+\text{Edges} & 3 & \\
+\text{Summits} & & 1 \\
+\cline{2-3}
+& \underline{7} & \underline{7}
+\end{array}$$
+
+<u>Theorem II.</u>
+
+{It is evident from this that the connective valency of unbounded space is zero. Hence we have the formulae
+
+$$\underline{\text{Solids} - \text{Faces} + \text{Edges} - \text{Summits} = 0.}$$
+
+Here the [del]currents eq[/del] valents must be taken, there must be no punctures or slits, and all [del]places[/del] [ins]surfaces[/ins] not bounded must be closed.

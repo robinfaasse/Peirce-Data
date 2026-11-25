@@ -1,0 +1,27 @@
+[pn]310[/pn]
+
+common point,
+$$[\underline{c}\underline{d}] \prec (\underline{b}\underline{c}).$$
+But by Corollary 99, from the last two propositions it follows
+that
+$$\{[\underline{b}\underline{e}][\underline{c}\underline{d}]\} \prec (\underline{b}\underline{c}).$$
+In a similar way it evidently follows that
+$$\{[\underline{b}\underline{e}][\underline{c}\underline{d}]\} \prec (\underline{e}\underline{d}).$$
+But from the last two propositions, by Corollary 97, it follows that
+$$\{[\underline{b}\underline{e}][\underline{c}\underline{d}]\} \prec \{(\underline{b}\underline{c})(\underline{e}\underline{d})\}.$$
+But if one ray is contained in another, it follows that two points
+at least of the latter are identical with points of the former,
+and are therefore contained in the former. Whence the whole
+of the latter ray is contained in the former, or
+$$\{(\underline{b}\underline{c})(\underline{e}\underline{d})\} \prec \{[\underline{b}\underline{e}][\underline{c}\underline{d}]\}.$$
+These two last propositions amount to the following:
+$$\{(\underline{b}\underline{c})(\underline{e}\underline{d})\} = \{[\underline{b}\underline{e}][\underline{c}\underline{d}]\}.$$
+We thus get a more formal proof of Corollary 104.
+
+<u>Scholium 57</u>. The complexity of the fully analyzed proof
+of the above simple proposition is instructive. It shows us
+that while all the properties of homoloids depend on the
+relations of containing and being contained, than which nothing could
+be simpler, and while the system of homoloids is a simple
+as one of three dimensions possibly could be, yet we very
+soon get asking questions whose really intricacy is very great,

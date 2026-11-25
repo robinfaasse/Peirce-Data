@@ -1,0 +1,13 @@
+Every odd summit
+$S_{2n+1}$
+can be resolved into
+[del]$S_{n}$[/del] $(2n-1) S_{3}$
+and [del]$(2n-2)$[/del] [ins]$(2n-2)$[/ins] edges
+
+Every even summit
+$S_{2n}$
+can be resolved into
+[del]$S_{n}$[/del] $(n-1) S_{4}$
+and $n-2$ edges
+
+[fig]Diagrams of resolved summits with numerical labels[/fig]

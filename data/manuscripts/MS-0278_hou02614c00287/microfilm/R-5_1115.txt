@@ -1,0 +1,45 @@
+$a\ b\ c = 1 = (ab)^2 = (ac)^2 = (ab)(ac)(ab)(ac)(ab)(ac) = (ac)(ab)(ac)(ab)(ac)(ab)$
+$b\ a\ c = (ab) = (ac)(ab)(ac)(ab)(ac)$
+$c\ b\ a = (ac) = (ab)(ac)(ab)(ac)(ab)$
+$c\ a\ b = (ab)(ac) = (acb) = (ac)(ab)(ac)(ab)$
+$b\ c\ a = (ac)(ab) = (abc) = (ab)(ac)(ab)(ac)$
+$a\ c\ b = (ab)(ac)(ab) = (ac)(ab)(ac) = (bc)$
+
+$a\ b\ c\ d = 1$
+$b\ a\ c\ d = (ab)$
+$c\ b\ a\ d = (ac)$
+$d\ b\ c\ a = (ad)$
+$b\ c\ d\ a = (ad)(ac)(ab)$
+$d\ a\ b\ c = (ab)(ac)(ad)$
+$d\ c\ a\ b = (dc)(ab)(ad)$
+$b\ d\ a\ c = (ac)(ad)(ab)$
+$c\ a\ d\ b = (ab)(ad)(ac)$
+$c\ d\ b\ a = (ad)(ab)(ac)$
+$a\ c\ d\ b = (ab)(ad)(ac)(ab) = (ad)(ac)(ab)(ad) = (ac)(ab)(ad)(ac)$
+$a\ d\ b\ c = (ab)(ac)(ad)(ab) = (ad)(ab)(ac)(ad) = (ac)(ad)(ab)(ac)$
+
+[u]$a\ b\ d\ c$[/u] [u]$a\ d\ c\ b$[/u] [u]$d\ a\ b\ c$[/u] $326$ $543$ $421$ $654$ $165$ $432$
+[u]$a\ c\ d\ b$[/u] [u]$a\ c\ b\ d$[/u] [u]$c\ d\ b\ a$[/u]
+[u]$a\ c\ b\ d$[/u] [u]$a\ d\ b\ c$[/u] [u]$b\ c\ d\ a$[/u] $234$ $456$ $613$ $561$ $612$ $345$
+[u]$d\ b\ c\ a$[/u] [u]$c\ b\ d\ a$[/u] [u]$b\ d\ a\ c$[/u] $163$ $254$
+[u]$c\ b\ a\ d$[/u] [u]$d\ a\ c\ b$[/u] [u]$c\ a\ d\ b$[/u] $164$ $253$
+[u]$b\ a\ c\ d$[/u] [u]$b\ d\ c\ a$[/u] [u]$c\ d\ b\ a$[/u] $346$ $251$
+[u]$c\ a\ b\ d$[/u] [u]$d\ c\ a\ b$[/u] $541$ $256$
+[u]$b\ c\ a\ d$[/u]
+[u]$b\ a\ d\ c$[/u]
+[u]$c\ d\ a\ b$[/u]
+[u]$d\ c\ b\ a$[/u]
+
+$\begin{matrix} 123 & 321 \\ 145 & 541 \\ 246 & 642 \end{matrix}$
+
+$\begin{pmatrix} a & b & c & d \\ (ac) & (bd) \\ (adcb) \end{pmatrix}$
+$\begin{pmatrix} a & c & d & b \\ (ad) & (bc) \\ (abdc) \end{pmatrix}$
+
+$\begin{matrix} a & b & c & d \\ \hline a & b & c & d \\ b & d & a & c \\ c & a & d & b \\ a & c & b & d \end{matrix}$
+
+$(ab)(bc)(cd)(da)$
+$a\ c\ d\ b$
+$d\ b\ a\ c$
+$a\ b\ c\ d\ e$
+$b\ c\ d\ e\ a$
+$b\ c\ e\ a\ d$

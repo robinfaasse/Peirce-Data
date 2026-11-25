@@ -1,0 +1,112 @@
+[fig]Table of logical terms and binary division diagrams[/fig]
+
+[marginalia]
+n units
+1
+0
+0
+.
+.
+.
+a₂
+a₃
+.
+.
+.
+a_{n-1}
+a_n
+A
+b₁
+b₂
+b₃
+.
+.
+.
+b_{n-1}
+b_n
+B
+[/marginalia]
+
+[marginalia]
+n
+zeros
+1
+0
+0
+.
+.
+.
+a₂
+a₃
+.
+.
+.
+a_{n-1}
+a_n
+A
+b₁
+b₂
+b₃
+.
+.
+.
+b_{n-1}
+b_n
+B
+[/marginalia]
+
+| 1 | |
+|---|---|
+| 0 | |
+| 0 | |
+| . | |
+| . | |
+| . | |
+| a₂ | 0 |
+| a₃ | 0 |
+| . | |
+| . | |
+| . | |
+| a_{n-1} | 0 |
+| a_n | 0 |
+| A | 1 |
+| b₁ | a₁ |
+| b₂ | [del]a₂[/del] [ins]a₂[/ins] |
+| b₃ | a₃ |
+| . | |
+| . | |
+| . | |
+| b_{n-1} | a_{n-1} |
+| b_n | a_n |
+| B | A |
+
+| a₁ | |
+|---|---|
+| a₂ | |
+| a₃ | |
+| . | |
+| . | |
+| . | |
+| a_{n-1} | |
+| a_n | |
+| [u]A[/u] | |
+| b₁ ∨ a₁ ∨ A | |
+| b₂ ∨ a₂ ∨ (a₁ ∨ a₂ ∨ A + b₁ A) | |
+| b₃ ∨ a₃ ∨ {[del]a₂ ∨ a₃ ∨ (a₁ ∨ a₂ ∨ A) + (b₁ + b₂) A[/del]} |
+| . | |
+| . | |
+| . | |
+| b_{n-1} ∨ a_{n-1} ∨ etc. | |
+| b_n ∨ a_n etc | |
+| B ∨ A etc | |
+
+[marginalia]
+n Zeros
+n+1 1's
+[/marginalia]
+
+[marginalia]
+n < m
+[/marginalia]
+
+[fig]Binary division tree diagrams with 0 and 1 values[/fig]

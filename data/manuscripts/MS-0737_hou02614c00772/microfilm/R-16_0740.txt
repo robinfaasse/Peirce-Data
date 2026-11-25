@@ -1,0 +1,63 @@
+[marginalia]Ms 737[/marginalia] Memoir §4. Algebraic Copula
+
+(1) $x \prec x$
+
+(2) If from $x$ and $y$ follows $z$ Then if $x$, $y \prec z$ and conversely
+
+(3) Hence $\overline{x \prec y} \prec z = \overline{y \prec x} \prec z$
+
+If $a$ then $b \prec a$
+
+[del]$\overline{a \prec b}$[/del]
+$a \prec v$
+$v \prec a$
+
+$\overline{a \prec 0} \prec c$
+$a \prec 0 \prec \overline{a \prec c}$
+$\overline{a \prec c} \prec c \prec \overline{a \prec 0} \prec c$
+$\overline{a \prec b} \prec d \quad c \prec d$
+$\overline{a \prec c} \prec d$
+
+$a(b \prec c) = ab \prec c$
+
+If $a$ then $v \prec a$, [del]$\&$[/del] $b \prec v$, $\therefore$ by sim $b \prec a$
+
+$a \prec b \prec c$
+$a \prec b \prec c \quad a \prec b \prec c$
+
+[del]$a$[/del]
+[del]$y$[/del]
+$a \prec a \prec b$ Then $a \prec b$
+[del]By modus ponens[/del]
+[del]$a \prec$[/del]
+
+[del]$a \prec a$[/del]
+[del]$a \prec a \prec a$[/del]
+[del]$a \prec b \quad a \prec c$[/del]
+[del]$\&$[/del] [del]$a \prec b$[/del]
+If $a \prec b \prec c$
+[del]$a \prec c$[/del]
+[del]$a \prec b \prec$[/del]
+
+$p \prec q \prec r$
+$p \prec r \prec r$
+
+$a \prec b \prec c$
+$a \prec b \prec c$
+
+$ab \prec c$
+$a \prec b \prec c$ Then $b \prec c$
+If $b$ then $a \prec b \quad a \prec b$
+
+If $a \prec a \prec b$ then
+$a \prec a \prec b$
+[del]$a \prec b$[/del] [del]$a \prec a \prec c$[/del]
+If $b \prec c$
+
+[del]$a \prec c \prec a$[/del]
+[del]$a \prec c \prec b$[/del]
+$a \prec b \prec c$
+
+If $b \prec c$ Then
+$a \prec b \prec c$
+If $a \prec c$ then $a \prec b \prec c$

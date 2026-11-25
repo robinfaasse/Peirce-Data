@@ -1,0 +1,39 @@
+Motion of air about cylinder with
+$\mu = 0$
+
+$R = \frac{1}{r} D_{\theta} \chi$
+$\Theta = - D_{r} \chi$
+
+$\chi = \chi_{1} + \chi_{2}$
+
+$\chi_{1} = e^{int} \sin \theta F_{1}r$  $\chi_{2} = e^{int} \sin \theta F_{2}r$
+
+$F_{1}r = \frac{A}{r} + Br$  $F_{2}r = F_{3}'r$
+
+$F_{3}r = [del]\frac{C}{r}[/del] 0$ (Apparently: that is when $\mu$ is excessively small, $F_{3}r$ is very much smaller, unless indeed $C'$ increases very much with the decrease of $\mu$.
+
+$B = 0$  $\frac{a^{2}c + A}{a^{2}c - A} = \frac{a F_{3}''(a)}{F_{3}'(a)}$
+
+[del]$F_{1}'a = ac$[/del]
+$\frac{A}{a} = ac$  $A = a^{2}c$
+$F_{1}'a = - \frac{A}{r^{2}} = - c$
+
+This is inconsistent
+Suppose
+$F_{3}r = [del]C r^{-\frac{1}{2}}[/del] C r^{-\frac{1}{2}}$
+
+$F_{2}a = ac - \frac{A}{a}$
+$F_{2}'a = c + \frac{A}{a^{2}}$
+
+[marginalia]
+$x e^{-ax}$
+$\log x - ax$
+$\frac{x}{e^{ax}}$
+$\frac{1}{a e^{ax}}$
+$e^{-ax}$
+$x e^{-ax}$
+$x^{-1}$
+$-x^{-2}$
+[/marginalia]
+
+[fig]scribble[/fig]

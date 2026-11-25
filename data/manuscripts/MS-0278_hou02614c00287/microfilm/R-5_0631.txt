@@ -1,0 +1,128 @@
+Calculation of $\log_{10} 3$. I first calculate $\log 3^{21} = 10.02060353203$
+
+$\begin{array}{r}
+.0000337,694,298,063,770,8531,367 \\
+\times \qquad \qquad \quad 434,294,481,903,251,827,651
+\end{array}$ (not $\log$ [del]$\log$[/del] $1.00003377$)
+
+$\begin{array}{r}
+\text{New } \log_{10} 1.00003377 \\
+= \frac{1}{M} \cdot .046 \times 10^{-10} \\
+= 3^{21}
+\end{array}$
+
+$434 \left\{ \begin{array}{r}
+146258129332 \\
+301196027
+\end{array} \right. \begin{array}{r}
+29272742 \\
+6458230
+\end{array} \begin{array}{r}
+59278 \\
+454
+\end{array}$
+
+$294 \left\{ \begin{array}{r}
+099070087612 \\
+204036018
+\end{array} \right. \begin{array}{r}
+208152108 \\
+7278156114
+\end{array}$
+
+$481 \left\{ \begin{array}{r}
+162097143338 \\
+33381403
+\end{array} \right. \begin{array}{r}
+340548 \\
+0639725581
+\end{array}$
+
+$903 \left\{ \begin{array}{r}
+304311269094 \\
+6266820
+\end{array} \right. \begin{array}{r}
+639 \\
+575211479
+\end{array}$
+
+$251 \left\{ \begin{array}{r}
+109687074798 \\
+1741940
+\end{array} \right. \begin{array}{r}
+160
+\end{array}$
+
+$827 \left\{ \begin{array}{r}
+2786992
+\end{array} \right. \begin{array}{r}
+464 \\
+5739380
+\end{array}$
+
+$651 \left\{ \begin{array}{r}
+2193872 \\
+4518
+\end{array} \right.$
+
+$\begin{array}{r}
+21 \\
+42 \\
+63 \\
+84 \\
+105 \\
+126 \\
+147 \\
+168 \\
+189
+\end{array}$
+
+$\begin{array}{r}
+.00001466587702193127594693527 \\
+\log 1.046 \quad .019531684531255 \\
+\hline
+\end{array}$
+
+$\begin{array}{r}
+10.01712145 \\
+10.019546350408277 \\
+\frac{8}{4} \frac{4}{2} \frac{2}{1} \frac{1}{\frac{1}{2}} \frac{\frac{1}{2}}{\frac{1}{4}} \frac{\frac{1}{4}}{\frac{1}{8}} \frac{\frac{1}{8}}{\frac{1}{16}} \\
+\hline
+\end{array}$
+
+$\begin{array}{r}
+1712125478 \\
+10.019546350408277 \\
+\frac{8}{4} \quad \frac{1}{\frac{1}{2}} \quad \frac{8}{2} \\
+\frac{16}{2} \quad \frac{1}{4} \\
+\frac{1}{4} \quad \frac{1}{8} \\
+\frac{1}{8} \quad \frac{1}{16} \\
+\frac{1}{16} \quad \frac{1}{32} \\
+\frac{1}{32} \quad \frac{1}{64} \\
+\frac{1}{64} \quad \frac{1}{128} \\
+\frac{1}{128} \quad \frac{1}{256} \\
+\hline
+\end{array}$
+
+$\begin{array}{r}
+251 \\
+\hline \text { [del]502[/del] } \\
+\hline 061 \\
+109687 \\
+084587 \\
+\hline 25100
+\end{array}$
+
+$\begin{array}{r}
+7) \cdot 2^{1} \cdot 1^{3} \cdot 9^{5} \cdot 5^{4} \cdot 4^{6} \cdot 6^{3} \cdot 3^{5} \cdot 5^{0} \cdot 0^{4} \cdot 4^{0} \cdot 0^{8} \cdot 8^{2} \cdot 2^{7} \cdot 7^{7} \cdot 7^{9} \\
+\hline 3 \lcm{145^{\prime} 6^{\prime} 4^{\prime} 9^{\prime} 4^{\prime} 7^{\prime} 8^{\prime} 629^{2} 7^{5} 4} \\
+\hline 48549826209918
+\end{array}$
+
+$\begin{array}{r}
+7) \cdot 0^{3} \cdot 0^{2} \cdot 1^{9} \cdot 9^{5} \cdot 5^{4} \cdot 4^{6} \cdot 6^{3} \cdot 3^{5} \cdot 5^{0} \cdot 0^{3} \cdot 3^{2} \cdot 2^{3} \cdot 3^{0} \cdot 0^{8} \cdot 8^{2} \cdot 2^{2} \cdot 2^{7} \cdot 7^{7} \cdot 7^{1} \\
+\hline 3 \lcm{14^{3} 2^{1} 13637^{\prime} 6^{\prime} 4^{3} 7^{7} 4^{\prime} 0^{\prime} 3^{\prime} 9^{1} 6^{1} 5} \\
+\hline 4771212547.913465
+\end{array}$
+
+$\begin{array}{r}477121254719662 \\ 954242509439325 \\ \hline 10.01954634911291 \\ \hline\end{array}$

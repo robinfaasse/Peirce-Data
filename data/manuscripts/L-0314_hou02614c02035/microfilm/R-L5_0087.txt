@@ -1,0 +1,28 @@
+$$
+\begin{aligned}
+A & = \phantom{x + {}} my + nz + w = 0 \\
+B & = x + my + nz + w = 0 \\
+C & = \phantom{x + {}} my \phantom{{} + nz} + w = 0 \\
+D & = \phantom{x + my + {}} nz + w = 0
+\end{aligned}
+$$
+
+If then the vertices of the first tetrahedron are
+$$
+\begin{aligned}
+px & = 1 & y & = 0 & z & = 0 \\
+x & = 0 & qy & = 0 & z & = 0 \\
+x & = 0 & y & = 0 & rz & = 0 \\
+sx & = 1 & x + my & = 0 & x + nz & = 0
+\end{aligned}
+$$
+we shall have
+
+$$
+E = px + m\left(p - s - \frac{r}{n}\right)y + n\left(p - s - \frac{q}{m}\right)z + \left(p - s - \frac{q}{m} - \frac{r}{n}\right)w - 1.
+$$
+
+[marginalia]
+Yours very truly
+CSPeirce
+[/marginalia]

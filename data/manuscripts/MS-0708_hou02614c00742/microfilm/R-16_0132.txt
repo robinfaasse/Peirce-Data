@@ -1,0 +1,16 @@
+[u]A[/u] [fig]graph with node A[/fig]
+
+[u]AB[/u] [u]AB[/u] [fig]graph with nodes A and B[/fig] [fig]graph with nodes A and B[/fig] [fig]graph with nodes A and B[/fig]
+AB AB
+
+[del]ABC[/del] [del]1[/del] [fig]graph with nodes A, B, C[/fig] [fig]graph with nodes A, B, C[/fig] [fig]graph with nodes A, B, C[/fig]
+[u]A[/u] [u]B[/u] [u]C[/u]
+BC AC AB
+
+[del]A[/del] [u]AB[/u] [u]AC[/u] [u]AD[/u] [fig]graph with nodes A, B, C, D[/fig] [fig]graph with nodes A, B, C, D[/fig] [fig]graph with nodes A, B, C, D[/fig]
+[del]BCD[/del] CD BD BC
+
+[u]AB[/u] [u]AC[/u] [u]AD[/u] [u]AE[/u] [u]BC[/u] [u]BD[/u] [u]BE[/u] [u]CD[/u] [u]CE[/u] [u]DE[/u]
+CDE BDE BCE BCD ADE ACE ACD ABE ABD ABC
+
+[fig]graph with nodes A, B, C, D, E[/fig] [fig]graph with nodes A, B, C, D, E[/fig] [fig]graph with nodes A, B, C, D, E[/fig]

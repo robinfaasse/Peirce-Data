@@ -1,0 +1,9 @@
+$$\dot{\pi}_i \Pi_j \Pi_k \Pi_x \overline{(i+j)}_k \Psi \overline{(k+j)}_x \Psi \overline{\sigma}_x \Psi \sigma_k$$
+
+Let us insert the aggregant $\overline{q}_{\alpha x}$
+
+$$\pi_i \Pi_j \Pi_k \Pi_{\alpha} \Pi_x \overline{(i+j)}_k \Psi \overline{q}_{\alpha x} \Psi \overline{(u+j)}_w \Psi \overline{\sigma}_{ui} \Psi \sigma_{wk}$$
+
+This aggregant allows us to insert its negative as a component of another aggregant
+
+$$\pi_i \Pi_j \Pi_k \Pi_{\alpha} \Pi_u \Pi_w \overline{(i+j)}_k \Psi \overline{q}_{\alpha u} \Psi \overline{(u+j)}_w \Psi q_{\alpha u} \overline{\sigma}_{ui} \Psi \sigma_{wk}$$

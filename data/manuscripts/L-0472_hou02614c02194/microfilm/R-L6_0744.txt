@@ -1,0 +1,23 @@
+[pn]2[/pn]
+
+cut the celestial sphere. Let $T$ be this point, let $S$ be
+the centre of the sun, and let $P$ be the [ins]north[/ins] [del]pole[/del]. Then in the
+[del]sub[/del] spherical triangle $PST$, the ray from $S$ will after
+reflection reach $T$ and a ray from any point
+of the sun on the [del]line[/del] [ins]arc of a great circle[/ins] from $S$ to $T$ will be reflected
+to a point of the great circle from $T$ & $S$; and
+[fig]spherical triangle PST with reflected point P'[/fig]
+a point north of $S$ or in the direction of $P$ will be reflected
+in a direction $P'$ such that $P'T$ [del]S[/del] will be south of $ST$ [del]and[/del] making
+the angles $P'TS$ and $PST$ equal. In other words the angle
+[del]from the lines[/del] on the photograph plate [del]at T[/del] from the [del]true[/del] [ins]actual[/ins]
+north point through the direction in which the sun is to the
+north point as photographed will be $PTS + PST$. Denote
+this angle by $N$, (supposing it counted from North to West)
+the hour angle of $T$ by $T$,
+the hour angle of $S$ by $t$,
+the declination of $T$ by $B$,
+the declination of $S$ by $\beta$.
+
+Then [del]by[/del] we have
+$$\tan \frac{1}{2} N = - \operatorname{cotan} \frac{1}{2} (t - T) \frac{\cos \frac{1}{2} (B - \beta)}{\cos \frac{1}{2} (B + \beta)}$$

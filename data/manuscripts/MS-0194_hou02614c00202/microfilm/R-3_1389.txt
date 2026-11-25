@@ -1,0 +1,47 @@
+[fig]Doodles of kites, comets, and geometric shapes[/fig]
+
+5 pages in 3 hours
+50 pages in 30 hours
+
+12 hours
+4
+
+[fig]Geometric diagram of a pendulum arc and circles[/fig]
+
+$s = A \cos at$
+$D_t s = [del]-a \sin at[/del]$
+$D_t^2 s = -a^2 A \cos at + b$
+$= -a^2 s$
+
+[fig]Diagram of a pendulum bob and angle[/fig]
+
+$s = A \cos \sqrt{\frac{g}{l}} \cdot t$
+
+$D_t^2 s = g \sin \phi = \frac{g}{r} s$
+
+$= \frac{1}{2} D_s [del](D_t s)^2[/del]$
+
+$[del](D_t s)^2 =[/del] \frac{g}{r} s + C$
+
+$D_t t = \int \frac{1}{\dots}$
+
+$s = r \phi$
+
+$D_s (D_t s)^2$
+$2 D_t s D_t^2 s$
+
+$D_t^2 s = g$
+$D_t s = g t$
+$s = \frac{1}{2} g t^2$
+$D_t s = g \frac{s}{2l} t$
+
+$D_t^2 s = g \frac{s}{2l}$
+
+$\frac{T^2}{s} = \frac{l}{s}$
+
+$\frac{2s}{g}$
+
+$\frac{g}{4l} t^2$
+
+$\Lambda ?$
+$4 \sqrt{\frac{l}{g}} = T$

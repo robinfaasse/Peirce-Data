@@ -1,0 +1,25 @@
+Namely each of the points $x, y, z, u, v$
+is in a line with each of the others, and
+in three other lines.
+
+[fig]Triangle with vertices x, y, z and internal lines[/fig] [fig]Line segments connecting x, y, z, u, v[/fig]
+$10$ of these planes
+
+We now have in all $15$ points in $35$
+sets of three collinear points, namely,
+
+$$\begin{matrix}
+x & x & x \\
+-(y+z) & -(y+u) & -(y+v) \\
+-(u+v) & -(x+v) & -(z+u) & \text{etc}
+\end{matrix}$$
+
+These points also lie by [del]7s[/del] [ins]and by 5s[/ins] on $10$ planes
+[ins]on $15$ other planes[/ins]
+
+$$\begin{matrix}
+-(x+y) & -(x+y) \\
+-(x+w) & -(z+w) \\
+-(x+z) & -(x+w) \\
+-(y+w) & -(y+z)
+\end{matrix}$$

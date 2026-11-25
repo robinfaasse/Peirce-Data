@@ -1,0 +1,29 @@
+[pn]250[/pn]
+
+sections, until space is as thick with them as may be desired.
+This will appear more distinctly in the chapter on Nets.
+
+The [ins]four[/ins] points $A, B, C,$ and $D$ may themselves be conceived
+to be expressed [del]in terms[/del] [ins]as syzygies[/ins] of four other points, as $P, Q, R, S$.
+Then, if in the expression of a point in terms of $A, B, C, D$,
+we replace these four letters by their equivalents in terms of
+$P, Q, R, S$, we have the point expressed directly by a syzygy
+of $P, Q, R, S$; and if the multipliers of $A, B, C, D$ add up to $1$,
+and the multipliers of $P, Q, R, S$ in [ins]each of[/ins] the expressions for
+$A, B, C, D$ add up to $1$, so also will the multipliers of
+$P, Q, R, S$ in every expression resulting from the substitution.
+Thus if in the expression
+$$a A + b B + c C + \overline{1-a-b-c} D$$
+we substitute for $A$
+$$A = p P + q Q + r R + \overline{1-p-q-r} S$$
+we get
+$$ap P + aq Q + ar R + \overline{a-ap-aq-ar} S + b B + c C + \overline{1-a-b-c} D$$
+and the multipliers all add up to $1$. For all are cancelled in
+such a sum except only $1$.
+
+As for those syzygies whose multipliers add up to $0$, it is
+very evident that if for $A, B, C, D$ be substituted syzygies
+whose multipliers add up to $1$, the result will be a syzygy
+whose multipliers add up to $0$.
+
+But [del]any relation[/del] of $A, B, C, D$ is equivalent to a syzygy

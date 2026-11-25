@@ -1,0 +1,26 @@
+$$2\pi \times \frac{\text{Area}}{\text{Total}} = \arctan \frac{y}{\sqrt{A^2 - \frac{y^2}{c^2}}} - \frac{y}{A} \cdot \frac{\sqrt{1-c^2}}{c}$$
+
+$$\begin{aligned}
+\begin{matrix}
+\sqrt{1-c^2} = i \\
+c^2 = 1 - i^2
+\end{matrix} \qquad &= \arctan \frac{\frac{y}{A}}{\sqrt{1 - \frac{y^2}{A^2} \frac{1}{1-i^2}}} - \frac{y}{A} \cdot \frac{i}{\sqrt{1-i^2}} \\
+[fig]circle divided into quadrants[/fig] \qquad &= \arctan \frac{\frac{y}{A} \sqrt{1-i^2}}{\sqrt{1 - \frac{y^2}{A^2} - i^2}} - \frac{y}{A} \cdot \frac{i}{\sqrt{1-i^2}} \\
+&= \operatorname{arc\ cotan} \frac{\sqrt{1 - \frac{y^2}{A^2} - i^2}}{\frac{y}{A} \sqrt{1-i^2}} - \frac{y}{A} \cdot \frac{i}{\sqrt{1-i^2}} \\
+[fig]letter V[/fig] \qquad &= \frac{1}{2}\pi - \arctan \frac{\sqrt{1 - \frac{y^2}{A^2} - i^2}}{\frac{y}{A} \sqrt{1-i^2}} - \frac{y}{A} \cdot \frac{i}{\sqrt{1-i^2}}
+\end{aligned}$$
+
+When $y = A c^2 = A (1-i^2)$
+$\frac{y}{A} = 1-i^2 \quad \frac{y^2}{A^2} = (1-i^2)^2$
+
+$$= \frac{1}{2}\pi - \arctan \frac{\sqrt{[del]1 -[/del] [ins]+[/ins] 2i^2 - i^4}}{(1-i^2)\sqrt{1-i^2}} - i \sqrt{1-i^2}$$
+
+$$= \frac{1}{2}\pi - \arctan \frac{i}{1-i^2} - i \sqrt{1-i^2}$$
+
+[del]$$= \frac{1}{2}\pi - \arctan$$[/del]
+
+[del]$$= \frac{1}{2}\pi -$$[/del]
+
+$$\frac{1}{2}\pi - \frac{i}{1-i^2} + \frac{1}{3} \frac{i^3}{(1-i^2)^3} - \frac{1}{5} \frac{i^5}{(1-i^2)^5} + \frac{1}{7} \frac{i^7}{(1-i^2)^7} \text{ etc}$$
+
+$$-i + \frac{1}{2} i^3 \qquad\qquad + \frac{1}{5} i^5 \qquad + \frac{1}{16} i^7$$

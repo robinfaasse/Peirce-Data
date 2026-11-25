@@ -1,0 +1,20 @@
+To make the expression homogeneous put
+$$w_x = \frac{u_x}{v_x}$$
+
+so that
+$$\frac{u_{x+1}}{v_{x+1}} = \frac{a u_x + b v_x}{c u_x + d v_x}$$
+
+Further assume
+$$u_{x+1} = a u_x + b v_x$$
+$$v_{x+1} = c u_x + d v_x$$
+
+or
+$$(E - a) u_x = b v_x$$
+$$(E - d) v_x = c u_x$$
+
+Then we have for either $u_x$ or $v_x$
+$$(E - a)(E - d) = bc$$
+
+Let $\varepsilon_1$ and $\varepsilon_2$ be the roots of this equation. Then we have
+$$u_x = C_1 \varepsilon_1^x + C_2 \varepsilon_2^x$$
+$$v_x = B_1 \varepsilon_1^x + B_2 \varepsilon_2^x$$

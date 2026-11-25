@@ -1,0 +1,45 @@
+[pn]R[/pn] [pn]11[/pn]
+divided by 2 and begin again. If the divisor ends in 3 or 7 multiply it
+and the dividend by 3 and begin again. If the divisor ends with 1 pro-
+ceed as follows:
+
+Dock the last figure of the divisor and call the remnant the current
+divisor. [del]Subtract from the first figure of the dividend the figure of the divisor[/del]
+[del]Subtract from the first unused figure of the dividend the produ-[/del]
+in the same place of decimals and divide the remainder by the current
+divisor, set down the quotient as the next figure of the principal quotient [del]while[/del]
+the remainder is prefixed to the [del]next unused[/del] figure of the dividend. Continue
+[del]to[/del] subtract from the first unused figure of the dividend (with whatever remainder
+may have been prefixed to it) the figure of the quotient in the same place of deci-
+mals and to divide the remainder by the current divisor, setting down the
+quotient as the next figure of the principal quotient and prefixing the remainder to
+the next figure of the dividend, until the circulating decimal is disclosed.
+
+If the divisor ends with 9 proceed as follows:
+
+Dock the last figure of the divisor and [ins]having increased the remnant by 1[/ins]
+call the result the current divisor. [del]Add to the first figure of the dividend the product[/del] [ins]In place of the last figure of the dividend write an endless series of 9s.[/ins] [del]corres-[/del]
+[del]ponding figure[/del]
+[del]of the current[/del] of the quotient and divide the sum by the current divisor to get the
+next figure of the quotient, prefixing the remainder to the first unused figure of the
+dividend. Apply the same process successively to each figure of the dividend
+until the circulating decimal appears.
+
+Examples:
+
+[u]1[/u]
+71 = [u]0.9 9 9 [ins]5[/ins] 9 [ins]3[/ins] 9 [ins]3[/ins] 9 [ins]9[/ins] 9 [ins]9[/ins] 9 [ins]2[/ins] 9[/u]
+0.0 1 4 0 8 4 5 0 7 0 4
+0 9 [ins]2[/ins] 8 5 [ins]9[/ins] 3 1 [ins]3[/ins] 5 4 [ins]4[/ins] 0 2 [ins]2[/ins] 9
+
+Evidently the next figures must be
+225352
+112676
+056338
+028169
+
+To get
+[u]1[/u]
+49
+
+[fig]Long division calculations for 1/49 and 1/71[/fig]

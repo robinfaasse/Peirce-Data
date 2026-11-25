@@ -1,0 +1,17 @@
+[u]Proof of Rule 1[/u]. In the statements of M
+and N, substitute [u]x[/u] for [u]y[/u], so that they read
+as follows:
+M. If [u]x[/u] is true, [u]x[/u] = [u]x[/u].
+N. If [u]x[/u] is false, [u]x[/u] = [u]x[/u].
+But [u]x[/u] is either true or false; hence, [u]x[/u] = [u]x[/u].
+[u]Rule 2[/u]. Assume
+[u]x[/u] = [u]y[/u].
+Then, we have only to prove [u]y[/u] = [u]x[/u]. From
+K and I, since no proposition can be
+both true and false, if [u]x[/u] = [u]y[/u], either [u]x[/u] and
+[u]y[/u] are both true or both false. But, in
+the statements of M and N, [del]transpose[/del] [ins]substitute[/ins] [del]x[/del]
+[del]and y[/del] [ins]y[/ins] and [u]x[/u] for [u]y[/u]. These propositions
+thus become
+M. If [u]x[/u] and [u]y[/u] are both true, [u]y[/u] = [u]x[/u].
+N. If [u]x[/u] and [u]y[/u] are both false, [u]y[/u] = [u]x[/u].

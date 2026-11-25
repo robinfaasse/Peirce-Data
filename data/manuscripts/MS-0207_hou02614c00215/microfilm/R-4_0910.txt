@@ -1,0 +1,19 @@
+[pn]12[/pn]
+
+The irregularity of the succession of values of the fractions of denominators not exceeding a given limit does not entirely preclude a general description of this succession. It is obvious from what has been said that of [u]$\frac{M}{N}$[/u] and [u]$\frac{R}{S}$[/u] are such that $RN - MS = 1$ then all the [del]values[/del] [ins]fractions[/ins] of intermediate values are those which would be found in the following table indefinitely extended.
+
+[fig]Table of fractions with lines radiating from the top-left corner to various cells.[/fig]
+
+$$\begin{array}{c|ccccccccc}
+& \frac{R}{S} & \frac{2R}{2S} & \frac{3R}{3S} & \frac{4R}{4S} & \frac{5R}{5S} & \frac{6R}{6S} & \frac{7R}{7S} & \frac{8R}{8S} & \frac{9R}{9S} \\
+\hline
+\frac{M}{N} & \frac{M+R}{N+S} & \frac{M+2R}{N+2S} & \frac{M+3R}{N+3S} & \frac{M+4R}{N+4S} & \frac{M+5R}{N+5S} & \frac{M+6R}{N+6S} & \frac{M+7R}{N+7S} & \frac{M+8R}{N+8S} & \frac{M+9R}{N+9S} \\
+\frac{2M}{2N} & \frac{2M+R}{2N+S} & \frac{2M+2R}{2N+2S} & \frac{2M+3R}{2N+3S} & \frac{2M+4R}{2N+4S} & \frac{2M+5R}{2N+5S} & \frac{2M+6R}{2N+6S} & \frac{2M+7R}{2N+7S} & \frac{2M+8R}{2N+8S} & \frac{2M+9R}{2N+9S} \\
+\frac{3M}{3N} & \frac{3M+R}{3N+S} & \frac{3M+2R}{3N+2S} & \frac{3M+3R}{3N+3S} & \frac{3M+4R}{3N+4S} & \frac{3M+5R}{3N+5S} & \frac{3M+6R}{3N+6S} & \frac{3M+7R}{3N+7S} & \frac{3M+8R}{3N+8S} & \frac{3M+9R}{3N+9S} \\
+\frac{4M}{4N} & \frac{4M+R}{4N+S} & \frac{4M+2R}{4N+2S} & \frac{4M+3R}{4N+3S} & \frac{4M+4R}{4N+4S} & \frac{4M+5R}{4N+5S} & \frac{4M+6R}{4N+6S} & \frac{4M+7R}{4N+7S} & \frac{4M+8R}{4N+8S} & \frac{4M+9R}{4N+9S} \\
+\frac{5M}{5N} & \frac{5M+R}{5N+S} & \frac{5M+2R}{5N+2S} & \frac{5M+3R}{5N+3S} & \frac{5M+4R}{5N+4S} & \frac{5M+5R}{5N+5S} & \frac{5M+6R}{5N+6S} & \frac{5M+7R}{5N+7S} & \frac{5M+8R}{5N+8S} & \frac{5M+9R}{5N+9S} \\
+\frac{6M}{6N} & \frac{6M+R}{6N+S} & \frac{6M+2R}{6N+2S} & \frac{6M+3R}{6N+3S} & \frac{6M+4R}{6N+4S} & \frac{6M+5R}{6N+5S} & \frac{6M+6R}{6N+6S} & \frac{6M+7R}{6N+7S} & \frac{6M+8R}{6N+8S} & \frac{6M+9R}{6N+9S} \\
+\frac{7M}{7N} & \frac{7M+R}{7N+S} & \frac{7M+2R}{7N+2S} & \frac{7M+3R}{7N+3S} & \frac{7M+4R}{7N+4S} & \frac{7M+5R}{7N+5S} & \frac{7M+6R}{7N+6S} & \frac{7M+7R}{7N+7S} & \frac{7M+8R}{7N+8S} & \frac{7M+9R}{7N+9S} \\
+\frac{8M}{8N} & \frac{8M+R}{8N+S} & \frac{8M+2R}{8N+2S} & \frac{8M+3R}{8N+3S} & \frac{8M+4R}{8N+4S} & \frac{8M+5R}{8N+5S} & \frac{8M+6R}{8N+6S} & \frac{8M+7R}{8N+7S} & \frac{8M+8R}{8N+8S} & \frac{8M+9R}{8N+9S} \\
+\frac{9M}{9N} & \frac{9M+R}{9N+S} & \frac{9M+2R}{9N+2S} & \frac{9M+3R}{9N+3S} & \frac{9M+4R}{9N+4S} & \frac{9M+5R}{9N+5S} & \frac{9M+6R}{9N+6S} & \frac{9M+7R}{9N+7S} & \frac{9M+8R}{9N+8S} & \frac{9M+9R}{9N+9S}
+\end{array}$$

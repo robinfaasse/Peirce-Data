@@ -1,0 +1,31 @@
+[marginalia]Multitude[/marginalia]
+
+I have had but little time to consider this problem; but I can produce an arrange-
+ment which will be of some service. Suppose that instead of proceeding as in the usual
+generation of the primipostnumeral multitude to go through a denumerable series
+of operations each consisting in interpolating a [del]so[/del] unit between every pair
+of successive units, we go through a denumerable multitude of operations
+each consisting in replacing every pair by an image of the whole collection.
+For example, using the binary system of arithmetical notation, suppose
+we begin with a collection of two objects, zero and one half.
+
+.0 .1
+[del]st[/del]
+
+Each [del]The first[/del] operation [ins]may[/ins] consist of replacing each number by [del]the same number[/del] [ins]a subcollection of numbers [del]written first each con-[/del][/ins]
+[del]followed by writing of the figures[/del] [ins]of two parts, the[/ins] first part being the figures of the number
+replaced the second severally in the different individuals of the sub-collection
+by the different series of figures which express the numbers composing the
+whole collection. Thus, the result of the first operation will be
+
+.00 .01 .10 .11
+
+The result of the second operation will be
+
+.0000 .0001 .0010 .0011 .0100 .0101 .0110 .0111 .1000 .1001 .1010 .1011, [ins].1100 .1101[/ins] .1110 .1111
+
+The next result would be 256 [del]3[/del] numbers, the next 65536 numbers, the next 4294,967296.
+
+The result of a denumerable succession of such operations will evidently be
+to give all the [del]real[/del] real quantities between zero and one, which is a [del]de[/del] primipost-
+numeral collection.

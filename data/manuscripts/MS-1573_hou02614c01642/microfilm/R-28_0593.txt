@@ -1,0 +1,29 @@
+[fig]Mathematical expressions and derivations involving trigonometric functions and variables like A, B, \theta, T, \tau.[/fig]
+
+[fig]Two lines grouping terms[/fig] # [del]G[/del] [ins]$\cos \frac{\tau}{\theta}$[/ins] [del]$-\frac{\tau}{\theta}$[/del] [ins]$\cos \frac{+\tau}{\theta}$[/ins] $\cos \frac{+\tau}{\theta} \dots$ $\frac{\theta}{\tau} G \sin \frac{+\tau}{\theta}$ $\dots$ $\sin$
+$-\frac{\tau}{\theta} \cos \frac{+\tau}{\theta}$ $\cos \frac{+\tau}{\theta} - \frac{\theta}{\tau} G \sin$
+$\frac{\theta}{\tau} G$ [del]$\cos$[/del]
+$\left( \frac{\theta^2}{\tau^2} - \frac{\theta^2}{\tau^2} \right) G$
+
+$\left( \frac{\theta^2}{\tau^2} \right) B = \frac{\theta}{\tau} A$
+
+$A \cos \frac{\pm \tau}{\theta} + B \sin \frac{\pm \tau}{\theta}$
+$-\frac{\theta}{\tau} A \sin$
+$-\frac{\theta}{\tau} B \sin$
+
+$\frac{\theta}{\tau} B$
+$-\frac{\theta^2}{\tau^2} A$
+
+$\left(-\frac{\theta^2}{\tau^2} + \frac{\tau \theta^2}{\tau^2} \right) B - 2 \frac{\theta^2}{\tau^2} A = P$ [del]$\frac{1}{2} \frac{\theta^2}{\tau^3} \sin \frac{\pm \tau}{\theta}$[/del]
+[del]$\frac{1}{2} \frac{\theta^2}{\tau^2} \cos \frac{\pm \tau}{\theta}$[/del]
+[del]$-\frac{1}{2} \frac{\theta^2}{\tau^3} \sin \frac{\pm \tau}{\theta}$[/del]
+
+$\frac{2(\tau^2 - \tau^2)}{\tau^2 - \tau} + 2 = 0$
+
+$\frac{\tau^2}{\tau^2 - \tau^2}$
+
+$\underline{\left(-\frac{\theta^2}{\tau^2} + \frac{\theta^2}{\tau^2} \right) A + 2 \frac{\theta^2}{\theta T} B = \frac{\theta^2}{\tau^2} \sqrt{\frac{4 \tau^2 \tau^2}{\theta^2 (\tau^2 - \tau^2)^2} + 1}}$
+
+$\underline{\left(-\tau^2 + T^2 \right) A + 2\frac{\tau^2 T}{\theta} B = \tau^2 \sqrt{1 + 4 \frac{\tau^2 T^2}{\theta^2 (\tau^2 - T^2)^2}}}$
+
+$\underline{4 \frac{\tau^2 \tau^2}{\theta^2 (\tau^2 - T^2)} + \frac{(\tau^2 - T^2)}{\tau^2}}$

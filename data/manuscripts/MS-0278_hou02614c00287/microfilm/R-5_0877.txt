@@ -1,0 +1,16 @@
+[fig]Graph with a single curve[/fig]
+
+$D_c^2 (c-a+i)^{-1} (c-b+i)^{-1} \Rightarrow D_c [-(c-a+i)^{-2} (c-b+i)^{-1} - (c-a+i)^{-1} (c-b+i)^{-2}]$
+$= D_c [-(c-a+i)^{-1} (c-b+i)^{-1}] [(c-a+i)^{-1} (c-b+i)^{-1}]$
+$= +2(c-a+i)^{-3} (c-b+i)^{-1} + (c-a+i)^{-2} (c-b+i)^{-2}$
+$+ (c-a+i)^{-2} (c-b+i)^{-2} + 2(c-a+i)^{-1} (c-b+i)^{-3}$
+$= \frac{2 \{(c-a+i)^2 (c-b+i)^2}{(c-a+i)^2 + (c-a+i)(c-b+i) + (c-b+i)^2}$
+$= \frac{[ins]d[/ins] (c-b+i)^2 + (c-a+i)(c-b+i) + (c-a+i)^2}{2(c-a+i)^3 (c-b+i)^3}$
+
+$\frac{4c^2 + 4c(a+b) + (a+b)^2}{c^2 + c(a+b) + ab}$
+$\frac{3c^2 - 3c(a+b) + a^2 + ab + b^2}{}$
+
+$c^2 - 2cb + b^2$
+$c^2 - 2ca + a^2$
+$c^2 - ca + ab$
+$\ \ \ \ \ - cb$

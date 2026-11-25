@@ -1,0 +1,30 @@
+[pn]Logic
+III
+83[/pn]
+
+But in (27) substituting [u]y[/u] for [u]y[/u], we find
+If [u]z[/u], then if [u]y[/u], [del]necessarily[/del] necessarily [u]x·y[/u]
+
+Syllogizing the last two,
+If [u]x·y·z[/u], then if [u]z[/u], necessarily if [u]y[/u] then [u]y[/u].
+
+But in (2) putting a false proposition for [u]z[/u] and [u]y[/u] for [u]x[/u].
+[del]necessarily, either[/del]
+[ins]Either[/ins] [u]y[/u] or [u]y[/u].
+
+Hence, by the last two,
+If [u]x·y·z[/u], then if [u]z[/u], necessarily [u]y[/u].
+
+But in (27) substituting [u]x·y[/u] for [u]x[/u], and [u]z[/u] for [u]y[/u], we find
+If [u]x·y·z[/u] then necessarily
+
+And in (27) substituting [u]y[/u] for [u]x[/u], and [u]z[/u] for [u]y[/u], we find
+If [u]y[/u], then if [u]z[/u], necessarily [u]y·z[/u]
+
+By these last three,
+[pn](46)[/pn] If [u]x·y·z[/u], then if [u]z[/u], necessarily [u]y·z[/u]
+
+But in (2) substituting a false proposition for [u]z[/u] and [u]x·y·z[/u] for [u]x[/u]
+we find
+
+[pn](47)[/pn] Necessarily either [u]x·y·z[/u] or [u]x·y·z[/u].

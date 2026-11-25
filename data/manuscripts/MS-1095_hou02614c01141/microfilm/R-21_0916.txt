@@ -1,0 +1,7 @@
+[pn]i=4[/pn] [pn]\frac{\kappa}{E}[/pn] [pn]1-[/pn]
+$$a_1 = \frac{g}{l_1} (1 - \frac{\mu_1}{\varepsilon_1 l_1}) = [del]R_1 (1 - \frac{\kappa_1}{E_1})[/del] \frac{\kappa_1}{\lambda_1} (1 - \frac{\kappa_1}{E_1 \lambda_1})$$
+$$a_2 = \frac{g}{l_2} (1 - \frac{\mu_2}{\varepsilon_2 l_2}) = [del]R_2 (1 - \frac{\kappa_2}{E_2})[/del] \frac{\kappa_2}{\lambda_2} (1 - \frac{\kappa_2}{E_2 \lambda_2})$$
+$$a_3 = \frac{\varepsilon_1}{\mu_1} \cdot \frac{1 + \frac{\mu_1 g h_1}{\varepsilon_1 l_1^2}}{1 - \frac{h_1}{l_1}} = [del]E_1 \frac{1 + \frac{\kappa_1 \lambda_1}{E_1}}{1 - \lambda_1}[/del] E_1 \frac{1 + \frac{\kappa_1}{\lambda_1}}{[del]1 - \lambda_1[/del]}$$
+$$a_4 = \frac{\varepsilon_2}{\mu_2} \cdot \frac{1 + \frac{\mu_2 g h_2}{\varepsilon_2 l_2^2}}{1 - \frac{h_2}{l_2}} = [del]E_2 \frac{1 + \frac{\kappa_2 \lambda_2}{E_2}}{1 - \lambda_2}[/del]$$
+
+[fig]Lines connecting terms in the equations to show substitutions or corrections[/fig]

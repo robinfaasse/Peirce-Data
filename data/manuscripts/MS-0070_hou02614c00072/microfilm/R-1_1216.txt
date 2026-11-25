@@ -1,0 +1,21 @@
+$$\sum_i \sum_j \sum_k \sum_{\alpha} \prod_x \sum_{\beta} \prod_w \sum_u \sum_z$$
+$$(i+j)_k \cdot (\bar{q}_{\alpha x} + \bar{\sigma}_{xz}) \cdot [\bar{q}_{\beta w} + q_{\alpha u} \cdot (u+j)_w] \cdot q_{\beta z} \cdot \bar{\sigma}_{zk}$$
+
+$$\sum_i \sum_j \sum_k \sum_{\alpha} \sum_u$$
+$$(i+j)_k \cdot (u+j)_x \cdot \bar{q}_{ui} \cdot \bar{\sigma}_{zk}$$
+First identify $w$ with $x$ and so get rid of $\bar{q}_{\beta w}$
+Then identify $x$ with $u$ and so get rid of $\bar{q}_{\alpha x}$
+Then drop $q_{\beta z}$
+
+[u]$$\Pi_i \Pi_j \Pi_k \Pi_x \Pi_z$$[/u]
+$$(i+j)_k \cdot (u+j)_x + \bar{\sigma}_{ui} + \bar{\sigma}_{zk}$$
+Insert open integrand $q_{uu}$
+
+$$(i+j)_k + \bar{q}_{u} + (u+j)_z + \bar{\sigma}_{ui} + \bar{\sigma}_{zk}$$
+[del]$$(i+j)_k + \bar{q}_{uu} + (u+j)_z + q_{\alpha u} \cdot \bar{\sigma}_{ui} + \bar{\sigma}_{zk}$$[/del]
+Diversify $u$
+$$\Pi_i \Pi_j \Pi_k \Pi_{\alpha} \sum_x \Pi_z$$
+
+$$(i+j)_k + \bar{q}_{\alpha u} + (u+j)_z + \bar{q}_{ui} \cdot \bar{\sigma}_{xi} + \bar{\sigma}_{zk}$$
+$$(i+j)_k \cdot [\bar{q}_{\alpha u} + (u+j)_z] \cdot \bar{q}_{ui} + \bar{q}_{\beta z} + \bar{\sigma}_{zk}$$ Diversify $z$
+[del]$$(i+j)_k + \bar{q}_{\alpha w} \cdot [T_{\alpha u} + (u+j)_w] + \bar{q}_{\beta u} + \bar{q}_{\beta z} + \bar{\sigma}_{zk}$$[/del]

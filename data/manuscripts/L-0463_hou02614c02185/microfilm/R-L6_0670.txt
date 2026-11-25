@@ -1,0 +1,34 @@
+[pn]35[/pn] $i_1 = (I_1:A) + (I_2:I_2) + (I_4:I_3)$
+$i_2 = (I_2:A)$
+$i_3 = (I_3:A) + (I_2:I_1) + r(I_4:I_1) + (I_1:I_3) + (I_5:I_3) + r(I_2:I_4) - (I_2:I_5) - r(I_4:I_5)$
+$i_4 = (I_4:A) + (I_2:I_3)$
+$i_5 = (I_5:A) + (r^2-1)(I_2:I_1) - (I_4:I_3) - r^2(I_2:I_5)$
+
+This will evidently give the multiplication table. For to begin with $i_1$ as a multiplier,
+we find it contains capital-pairs ending only in $A$, $I_2$, and $I_3$. [del]As[/del] We ask, then,
+where [ins]among these values of the $i$'s[/ins] are capital-pairs beginning with $A$, $I_2$, and $I_3$. $A$ begins no capital pair.
+But $I_2$ begins $(I_2:I_3)$ in the value of $i_4$ ; so that $(I_2:I_3)$ is a term of $i_1 i_4$ and
+$I_1$ begins no other capital-pair. [del]But $I_3$ begins the pair[/del] I forget, or overlook
+$(I_1:A)$ as a term of $i_1$ so that $i_1$ containing $(I_2:I_2)$ and $(I_1:A)$, $i_1^2$ evidently
+contains the term $(I_2:A)$ which equals $i_2$. I set these [ins]products[/ins] down in a blank
+multiplication table in their right places, and so gradually form the
+result which I will show presently. $I_3$ which ends the term $(I_4:I_3)$ of $i_1$
+begins no term except $(I_3:A)$ in the value of $i_3$. Hence $i_1 i_3$ contains the
+term $(I_4:A)$. I now pass to the [del]value[/del] [del]book[/del] of $i_2$, [ins]the value of which[/ins] contains no term but $(I_2:A)$
+hence $i_2$ as a multiplier always gives $0$ as the product. I pass to the
+value of $i_3$. It contains no less than 8 terms. The first is of course $(I_3:A)$ which
+as multiplier gives no product. The second term of $i_3$ is $(I_2:I_1)$ and $I_1$ is [ins]as already seen[/ins] the
+first capital of [del]the[/del] $(I_1:A)$ in the value of $i_1$ and of $(I_1:I_3)$ in the value of $i_3$.
+Hence a term of $i_3 i_1$ is $(I_2:A)$ which I duly set down in my blank multiplica-
+tion-table and a term of $i_3^2$ [ins]is[/ins] $(I_2:I_3)$ which I set down in its proper place. The
+$3^{\underline{d}}$ term of $i_3$ is $r(I_4:I_1)$ and $I_1$ as we have twice seen already begins $(I_1:A)$ in $i_1$
+and $(I_1:I_3)$ in $i_3$. Hence $r(I_4:A)$ is to be set down as a term of $i_3 i_1$ and $r(I_4:I_3)$ as
+a term of $i_3^2$. The $4^{\underline{th}}$ term of $i_3$ is $(I_1:I_3)$ and $I_3$ begins $(I_3:A)$ a term of $i_3$ so that
+$(I_1:A)$ is to be set down as a term of $i_3^2$, and $I_3$ begins nothing else. The $5^{\underline{th}}$ term of $i_3$ is
+$(I_5:I_3)$ and since $I_3$ begins only the term $(I_3:A)$ of $i_3$, the term $(I_5:A)$ is to be set down as a
+term of $i_3^2$. The sixth term is $r(I_2:I_4)$ and $I_4$ begins 5 terms: $1^{\underline{st}}$ $(I_4:I_3)$ of $i_1$ so that $r(I_2:I_3)$
+is a term of $i_3 i_1$; $2^{\underline{d}}$ $r(I_4:I_1)$ of $i_3$ so that $r^2(I_2:I_1)$ is a term of $i_3^2$; $3^{\underline{d}}$ $-r(I_4:I_5)$ of $i_3$
+so that $-r^2(I_2:I_5)$ is a term of $i_3^2$; $4^{\underline{th}}$ $(I_4:A)$ of $i_4$ so that $(I_2:A)$ is a term of $i_3 i_4$ and
+$5^{\underline{th}}$ and last $-(I_4:I_3)$ of $i_5$ so that $-(I_2:I_3)$ is a term of $i_3 i_5$. The seventh term is $-(I_2:I_5)$
+and $I_5$ begins no terms; $1^{\underline{st}}$ $(I_5:I_3)$ of $i_3$ so that $-(I_2:I_3)$ is a term of $i_3^2$, and $2^{\underline{nd}}$ $(I_5:A)$
+of $i_5$ so that $-(I_2:A)$ is a term of $i_3 i_5$. The eighth term is $-r(I_4:I_5)$ and as just seen this makes

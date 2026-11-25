@@ -1,0 +1,24 @@
+Book 9
+
+When [del]it[/del] [ins]x[/ins] = $x_0$ the equation becomes
+$(x_1 - x_0) f x_0 = (x_0 - x_0) f x_1 + (x_1 - x_0) f x_0$
+where the first term of the second member disappears and
+when [del]x = x_1[/del] it becomes
+$(x_1 - x_0) f x_1 = (x_1 - x_0) f x_1$.
+This equation then being true let us substitute for $x_1$
+& $x_0$ the values which they have in logic namely unity & zero
+& we have
+[del]$f x = x f_1 + (1 - x) f_0$[/del] $f x = x f_1 + (1 - x) f_0$.
+Now [del]let I will show how to[/del] use this formula by developing
+the expression [del]$\frac{(a - b)^2}{1 - (a - b)^2}$[/del] [ins]$\frac{1 - (a - b)^2}{a}$[/ins] this has to be developed in terms
+of a & b. We have to complicate the formula a little
+$f(a, b) = a (f(1, b) + (1 - a) f(0, b)$
+developing this again according to b we have
+$f(a, b) = ab(f(1, 1) + a(1 - b) f(1, 0) + (1 - a) b f(0, 1) + (1 - a) (1 - b) f(0, 0)$
+Now to apply it. When a = 1 & b = 1
+[del]$\frac{(a - b)^2}{1 - (a - b)^2}$[/del] $\frac{1 - (a - b)^2}{a} = 1$ The first term then is ab
+When a = 1 b = 0 [del]$\frac{1 - (a - b)^2}{a}$[/del] = 0 the second term disappears
+When a = 0 b = 1 $\frac{1 - (a - b)^2}{a} = \frac{0}{0}$ the third term then is $\frac{0}{0} (1 - a) b$
+When a = 0 b = 0 $\frac{1 - (a - b)^2}{a} = \frac{1}{0}$ the fourth term then is $\frac{(1 - a) (1 - b)}{0}$
+We have then
+$\frac{1 - (a - b)^2}{a} = ab + \frac{0}{0} (1 - a) b + \frac{(1 - a) (1 - b)}{0}$

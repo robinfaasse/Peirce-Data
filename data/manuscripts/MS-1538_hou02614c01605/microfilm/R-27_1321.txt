@@ -1,0 +1,34 @@
+[del]$\bar{a} \prec A$[/del]
+[ins]$\bar{a} \prec x$[/ins]
+[del]$A \prec \bar{a} + x$[/del]
+[ins]$x + \bar{a} \prec A$[/ins]
+
+$l^m \prec w$
+
+[del]$l^w \prec m$[/del]
+
+[del]$\Pi_i \Pi_j \bar{l_{ij}} + \bar{w_j} + m_i$[/del]
+
+$l^w \prec m$
+
+$\Pi_i \Sigma_j \bar{l_{ij}} \bar{w_j} + m_i$
+
+$l^w \prec m$
+
+$\Pi_i \Sigma_j \bar{l_{ij}} \bar{w_j} + m_i$
+
+$l^w \prec m$
+
+$l^w \prec m$
+
+$\Pi_i \Pi_j \bar{l_{ij}} + \bar{w_j} + m_i$
+
+$\left. \begin{array}{r}
+x + \bar{a} \prec \bar{a} \\
+\bar{a} \prec \bar{a}
+\end{array} \right\} \bar{a} (x + \bar{a})$
+
+$\left. \begin{array}{r}
+x + \bar{a} \prec \bar{a} \\
+[del]\bar{a} \prec[/del]
+\end{array} \right\}$

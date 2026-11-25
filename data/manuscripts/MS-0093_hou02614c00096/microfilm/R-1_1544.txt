@@ -1,0 +1,25 @@
+[pn]17[/pn]
+
+<u>Boole's Finite Differences</u>
+
+Write [del]the[/del] $u_{x+m}^{\overline{|p}} = u_{x+m} u_{x+m+2} \dots \dots u_{x+m+p-1} u_{x+m+p}$
+
+Then $\Delta u_{x+m+1}^{\overline{|p}} = u_{x+m+2} \text{ [del]}\dots\dots[/del] \dots\dots u_{x+m+p} u_{x+m+p+1}$
+$\text{ [del]}- u_{x+m+1} \text{ [ins]} + \text{[/ins]} u_{x+m+2} \text{ [del]}\dots\dots[/del] \dots\dots u_{x+m+p}[/del]$
+$= (u_{x+m+p+1} - u_{x+m+1}) u_{x+m+2}^{\overline{|p-1}}$
+
+Put [del]then[/del] $x+m+1 = y$
+
+$\Delta u_y^{\overline{|p}} = (u_{y+p} - u_y) u_{y+1}^{\overline{|p-1}}$
+
+Write $u_y^{\underline{|p}} = u_y u_{y-1} \dots\dots u_{y-p+2} u_{y-p+1}$
+$= u_{y-p+1}^{\overline{|p}}$
+
+Then $\Delta u_y^{\underline{|p}} = \Delta u_{y-p+1}^{\overline{|p}} = (u_{y+1} - u_{y-p+1}) u_{y-p+2}^{\overline{|p-1}} = (u_{y+1} - u_{y-p+1}) u_y^{\underline{|p-1}}$
+
+Write $v_y^{\overline{|p}} = 1 / u_y u_{y+1} \dots\dots u_{y+p-2} u_{y+p-1} = 1 / u_y^{\overline{|p}}$
+$v_x = 1 / u_x$
+
+Then $\Delta v_y^{\overline{|p}} = (v_{y+p} - v_y) v_{y+1}^{\overline{|p-1}}$
+$= (\frac{1}{u_{y+p}} - \frac{1}{u_y}) / u_{y+1}^{\overline{|p-1}}$
+$= (u_y - u_{y+p}) / u_y^{\overline{|p+1}}$

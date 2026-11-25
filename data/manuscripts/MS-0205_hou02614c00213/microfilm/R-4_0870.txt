@@ -1,0 +1,30 @@
+[pn]1212[/pn] [pn]32[/pn]
+$N$ is by definition [ins]1[/ins] greater than $N'$ and therefore greater than zero, and
+is not greater than $N$, by a former Corollary. Hence, by hypothesis $\frac{N'\cdot P}{N'\cdot Q}$ is
+both as great and as small as $\frac{P}{Q}$. Thence, by the third condition $\frac{N'\cdot P}{N'\cdot Q}$ is both as
+great and as small as $\frac{N'\cdot P}{N'\cdot Q}$. But $N = Q\cdot N'$! Hence $\frac{N'\cdot P}{N'\cdot Q} = \frac{GN'\cdot P}{GN'\cdot Q} = \frac{P + GN'\cdot P}{Q + GN'\cdot Q}$
+Thence by the fourth condition $\frac{N'\cdot P}{N'\cdot Q}$ is both as great and as small as $\frac{P + N'\cdot P}{Q + N'\cdot Q}$
+But this numerator and denominator are $\frac{GN\cdot P}{GN\cdot Q}$. Hence, $\frac{GN\cdot P}{GN\cdot Q}$ is both as
+great and as small as $\frac{P}{Q}$
+
+[fig]Line segment with points and brackets[/fig]
+
+[fig]Line segment with points and brackets[/fig]
+
+$A$ $B$ $C$
+
+Either $B$ is as great as $A$ or [ins]{not as great as $A$ but[/ins] $B$ is as great as $C$
+Either $B$ is as small as $C$ [del]but not as small as $A$[/del] or $B$ is as small as $A$
+
+Either $B$ is as great as and as small as $A$
+or $B$ is as great as and as small as $C$
+or $B$ is as great as $A$ and is not as small as $A$
+but is as small as $C$
+
+[fig]Three arrows pointing right[/fig]
+
+[fig]Circle with horizontal line and dots[/fig]
+
+[u]$X$ as great as $Y$[/u]
+$Y$ as great as $Z$
+$\therefore X$

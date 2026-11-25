@@ -1,0 +1,9 @@
+[u]Partial definition of the copula[/u].
+(IV.) If [u]x[/u] < [u]y[/u] and [u]y[/u] < [u]z[/u] then [u]x[/u] < [u]z[/u].
+(V.) [u]x[/u] < [u]x[/u].
+
+Note that no definite distinction is here drawn between < and < .
+
+Corollary. [del]From V, it follows that we can substitute [u]x[/u] for y in[/del]
+From V and I, it follows that
+[u]x[/u] < [u]x[/u] + [u]y[/u]          [u]x[/u] [u]y[/u] < [u]x[/u]

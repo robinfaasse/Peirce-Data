@@ -1,0 +1,29 @@
+§5. The entire theory of the general catenary, whether festoon
+or arch, is contained in the above two theorems, namely:
+
+I. The horizontal component of the stress is constant
+throughout the cord.
+
+II. The vertical component of the stress at any point equals
+the weight between that point and the horizontal stretch.
+
+Yet there are a few relations, which might be deduced from
+these, which are worth mention. It may also do no harm to
+point out that there are two other very good ways of reasoning
+about the catenary besides the method of the parallelogram
+of forces used above.
+
+One of these is the method of virtual velocities. To prove the above
+Theorem I, that taking any two points, say the $m^{\text{th}}$ and the $n^{\text{th}}$ the hori-
+zontal stress is the same at the two, sever the cord at those points, but
+hold it in place. Now increase the value of $x_m$ by an infinitesimal
+amount, and the change of $\eta(m,n)$ will measure the force. Next in-
+crease the value of $x_n$ by the same amount, when $\eta(m,n)$ will be restored,
+for the whole curve has only received a horizontal displacement. It
+follows the two horizontal forces measured are equal and opposite. Q.E.D.
+To prove theorem II, cut out the portion of the cord between the middle of the
+horizontal stretch and the middle of any other. Now move the whole verti-
+cally by an infinitesimal amount. Since the only force on the horizontal
+stretch is a horizontal pull (or thrust in the case of the arch), the change
+of the centre of gravity measures the upward force at the other point, and
+shows the whole intervening weight equals that force. Q.E.D.

@@ -1,0 +1,42 @@
+[fig]Triangle with sides a, b, c[/fig]
+
+[fig]Right-angled triangle[/fig]
+
+[fig]Triangle with altitude and segments[/fig]
+
+[fig]Right-angled triangle with side c[/fig]
+
+[fig]Triangle with altitude[/fig]
+
+[fig]Right-angled triangle with side c and angle[/fig]
+
+[fig]Right-angled triangle with side c[/fig]
+
+[fig]Angle and perpendicular[/fig]
+
+[fig]Right angle symbol[/fig]
+
+[fig]Right angle symbol[/fig]
+
+[fig]Right angle symbol[/fig]
+
+[del]c²[/del] = [del][a - (cos C + sin C. i) b] [a - (cos C - sin C. i) b][/del]
+
+= a² + b² - 2 cos C ab
+
+= (a - b cos C)² + [del]b² - b² cos² C[/del] [ins]b² sin² C[/ins]
+
+= (a - b cos C)² + (b sin C)²
+
+cos C + sin C i = e[ins]iC[/ins]
+
+θ φ [del]JC[/del]
+
+(a + J[ins]C[/ins] b) (a + J[ins]-C[/ins] b) =
+
+a² - (J[ins]C[/ins] + J[ins]-C[/ins]) ab
+
+(a + J[ins]C[/ins] b) (a + J[ins]-C[/ins] b) = c²
+= a² + b² + (J[ins]C[/ins] + J[ins]-C[/ins]) ab
+
+c² = a² + b²

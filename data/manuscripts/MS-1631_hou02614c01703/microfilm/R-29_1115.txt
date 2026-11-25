@@ -1,0 +1,25 @@
+my [del]address[/del] [ins]lecture[/ins] why this case was not exceptional & Arthur Cayley, the first Mathematician of England, has lately also published an explanation of the case. The merit of it will of course always be awarded to him because he has published it.
+See Note I.
+
+<u>Lecture LXXV.</u>
+§142 The Emanation View.
+Application to Laplace's Theorem.
+[fig]3D coordinate box diagram[/fig]
+Through face $dy dz$, how much passes?
+$dy dz D_x \Omega$ ie. magnitude of face multiplied by intensity of action
+Through the parallel face, how much?
+$(D_x \Omega + D_x^2 \Omega dx) dy dz$
+The whole amount therefore which is passing out $= D_x^2 \Omega dx dy dz$. But in all none can emanate from the little [del]cube[/del] [ins]box[/ins] hence
+$\Sigma_x D_x^2 \Omega dx dy dz = \Sigma_x D_x^2 \Omega = \nabla^2 \Omega = 0$
+But if there is matter in the little box
+$D_x^2 \Omega = -4 \pi k$ Poisson's correction!!
+Here we begin to have an idea of an integral of Laplace's equation with an arbitrary function. We see that Gauss's theorem is such an integral. This is an extremely transcendental view - more so than any thing in the existing mathematics; yet we cannot help seeing that we are upon the verge of an entirely new view of integrals. No more brilliant field could open to a young man than this. You may ask why don't old men take hold of such things? It isn't so easy. There is something nebulous yet in the idea. Something to be investigated. [Remarks on the blessings of obscurity in mathematics]
+
+Laplace's equation occurs in heat. The isothermal surfaces are level surfaces. Having found $D_n \Omega$ by Gauss's Theorem we haven't yet fixed $\Omega$ which is the amount of heat.
+
+§143 The Chaslesian Shell.
+[fig]Concentric shell diagram with pointer lines[/fig] the solid here = the solid here by the emanation view.
+
+<u>Lecture LXXVI.</u>
+§144 [del]$\frac{dm}{ds}$[/del] $= 4 \pi$
+$kh 4 \pi M_i = k \mu =$ the whole mass of the shell

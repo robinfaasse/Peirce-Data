@@ -1,0 +1,24 @@
+If the formula
+$$x \prec (x \prec y) \prec w \prec z$$
+is false we have $x = v$ $(x \prec y) = v$ and con-
+sequently $y = v$ and then the formula
+$$y \prec w \prec z$$
+is false. Now put $y \prec z$ for $w$, and if
+the formula
+$$y \prec (y \prec z) \prec z$$
+[del]were[/del] [ins]is[/ins] false,
+$$z \prec z$$
+would be false, which is absurd. Therefore
+$$x \prec (x \prec y) \prec (y \prec z) \prec z$$
+or
+$$(x \prec y) \prec (y \prec z) \prec (x \prec z)$$
+is true.
+
+The negative of $x$ is $x \prec f$. [del]We[/del] We have seen
+that the proposition $x \prec y$ is false only in
+one case; namely when $x = v$ $y = f$. In the
+same way
+$x \prec y$ is false only when $x = v$ $y = f$,
+$x \prec y \prec f$ is false only when $x = v$ $y = v$,
+$(x \prec f) \prec y$ is false only when $x = f$ $y = f$,
+$(x \prec f) \prec y \prec f$ is false only when $x = f$ $y = v$.

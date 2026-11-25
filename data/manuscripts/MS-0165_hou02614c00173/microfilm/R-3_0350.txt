@@ -1,0 +1,30 @@
+[pn]103[/pn]
+
+having any divisor of it for a divisor of one of them. [del]Q.E.D.[/del]
+
+[u]Corollary 41[/u]. If a product of several factors has a
+prime number as a divisor, then one of those factors has
+that prime number for a divisor.
+[u]Art. 45.[/u]
+
+[u]Theorem 28[/u]. ([u]The Fundamental Theorem of Nume-[/u]
+[u]rical Composition[/u].) [u]Every composite number is equal[/u]
+[u]to the product of an enumerable [ins]collection[/ins] [del]of[/del] [ins]factors[/ins] [del]prime numbers[/del],[/u]
+[del][u]each taken as a factor[/u][/del] [ins]either once or[/ins] [del][u]for an enumerable multitude of[/u][/del]
+[del][u]times[/u][/del][u], and is not a product of any other set of prime[/u]
+[del][u]numbers[/u][/del] [ins]factors[/ins][u], nor of the same set taken any other set of[/u]
+[del][u]times[/u][/del].
+
+[u]Demonstration[/u]. Let M be a composite number. Then,
+by Definition [ins]44[/ins], it has a part [ins]whole[/ins] which is a divisor; that is,
+it is the product of two [ins]whole[/ins] numbers both different from
+itself. M is, therefore, by Corollary 31, neither 0 nor 1.
+Let A and B be the two [ins]whole[/ins] numbers both unequal to M, but
+[del]such[/del] [ins]such[/ins] that AB = M. Then, neither A nor B is 0; for 0B = A0 = 0
+while M is not zero, and AB = M. Moreover, neither A nor B is 1
+for A1 = A and M is not equal to A, while AB = M, and 1B = B
+and M is not equal to B, while AB = M. But every [ins]cardinal[/ins] number
+not 0 nor 1 is greater than 1; and by Theorem 16, the product
+of two numbers, both greater than 1, is greater than either.
+Hence M > A and M > B. But every [ins]that is[/ins] number [del]neither 0 nor 1[/del]
+is either prime or composite. Hence, [del]every composite number[/del]

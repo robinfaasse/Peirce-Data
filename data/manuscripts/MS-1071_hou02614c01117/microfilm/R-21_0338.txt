@@ -1,0 +1,17 @@
+$$\left(\frac{r}{R}\right)^{2} + \left(\frac{z}{Z}\right)^{2} = 1 \qquad z = Z \sqrt{1 - (r/R)^{2}} \quad \left(\frac{dz}{dr}\right)^{2} = \frac{r^{2}}{Z^{2} \sqrt{1 - (r/R)^{2}}}$$
+
+$$\frac{r dr}{R^{2}} + \frac{z dz}{Z^{2}} = 0 \qquad \frac{dz}{dr} = - \left(\frac{Z}{R}\right)^{2} \frac{r}{z} = - \frac{Z}{R} \frac{r}{\sqrt{R^{2}-r^{2}}}$$
+
+$$\frac{ds}{s} = \frac{dr \sqrt{1 + (dz/dr)^{2}}}{r} \qquad \left(\frac{dz}{dr}\right)^{2} = \left(\frac{Z}{R}\right)^{2} \frac{r^{2}}{R^{2}-r^{2}}$$
+
+$$\text{Put } [del]\frac{ds}{dr}[/del] \text{ } dz/dr = \tan \theta \qquad 1 + \left(\frac{dz}{dr}\right)^{2} = \frac{R^{2}(R^{2}-r^{2}) + Z^{2}r^{2}}{R^{2}(R^{2}-r^{2})}$$
+
+$$\frac{ds}{s} \qquad \begin{aligned} \tan \theta &= (Z/R) (r/\sqrt{R^{2}-r^{2}}) \\ \text{Put } r/R &= \sin \theta \\ \text{then } z/Z &= \cos \theta \end{aligned} \qquad \begin{aligned} &= \frac{R^{4} - (R^{2}-Z^{2})r^{2}}{R^{4} - R^{2}r^{2}} \\ &= 1 - (r/R)^{2} \end{aligned}$$
+
+$$\cos \theta d\theta = d \sin \theta = dr/R \qquad - \sin \theta d\theta = d \cos \theta = dz/Z$$
+
+$$\begin{aligned} d\theta &= \frac{dr/R}{z/Z} \\ &= \frac{dr}{s} \frac{Z}{R} \end{aligned} \qquad \begin{aligned} &= - \frac{dz/Z}{r/R} \\ &= - \frac{dz}{r} \frac{R}{Z} \end{aligned} \qquad \begin{aligned} \left(\frac{dz}{dr}\right)^{2} &= \frac{Z^{2} \cos^{2} \theta}{R^{2} \sin^{2} \theta} \\ &= \left(\frac{Z}{R}\right)^{2} \cot^{2} \theta \end{aligned}$$
+
+$$\begin{aligned} &\cos \theta + \sin \theta = \\ &\log x^{2} = 2 \log x \\ &x \cdot 7 \end{aligned} \qquad \begin{aligned} &\frac{2}{\cot \theta} \\ &\frac{2}{\cos \theta} \\ &\frac{2}{\cot \theta} \end{aligned}$$
+
+$$\begin{aligned} &1 \quad A - B \\ &A - A = 0 \\ &1/b^{c} = b^{-c} \\ &b \cdot b = b^{2} \end{aligned} \qquad \begin{aligned} &A : (B : C) \\ &= AC : B \\ &\frac{A}{B} \frac{C}{D} \\ &\frac{A}{B} \frac{B}{C} \\ &\frac{A}{-B} \end{aligned} \qquad \begin{aligned} &x \sin \\ &1 / a / b \\ &= b/a \\ &1 / (b/a) \\ &= a/b \\ &a // b \\ &a // b = \\ &// b = b \end{aligned} \qquad \begin{aligned} &1 - x \\ &x \quad x/y \\ &(A : B) (B : C) = A : C \\ &x/y \quad x^{2} \\ &G \lfloor x \log \\ &G \lfloor a \ b \rfloor = (G \lfloor a) \ b \\ &G \lfloor a \ b \rfloor = (G \lfloor a) \lfloor b \\ &G \lfloor \log_{b} a \end{aligned}$$

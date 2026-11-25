@@ -1,0 +1,19 @@
+The following is always true
+
+$$[(x \prec y) \bar{\prec} z] \prec [x \prec (y \bar{\prec} z)]\text{.}$$
+
+this is true if
+either $(x \prec y) \bar{\prec} z$ is false
+or if $x \prec (y \bar{\prec} z)$ is true.
+
+But $(x \prec y) \bar{\prec} z$ is false if either $x \prec y$ is [del]true[/del] [ins]false[/ins] or [ins]$z$ is true;[/ins] that is, if either $x$ is true, $y$ being false, or [del]$z$ is true;[/del]
+While $x \prec (y \bar{\prec} z)$ is true if either $x$ is [del]true[/del] [ins]false[/ins] or $y \bar{\prec} z$ is [del]true[/del]; that is if either $x$ is false or $y$ is true, $z$ being false.
+[del]Not to be covered by the first case[/del]
+[del]$x$ false, $y$ false, $z$ false[/del]
+$x$ false is covered by the [del]first case[/del] [ins]second proposition[/ins],
+[del]$x$ false[/del]
+$x$ true, $y$ false is covered by the first,
+$x$ true, $y$ true, $z$ false is covered by the second,
+$x$ true, $y$ true, $z$ true, is covered by the first.
+
+[fig]ink blot[/fig]

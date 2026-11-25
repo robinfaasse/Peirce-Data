@@ -1,0 +1,30 @@
+[pn]12[/pn]
+
+[u]IV[/u] Ovals with 1 node and 1 bitangent
+No cusp nor inflexion.
+Three regions
+[fig]Two intersecting ovals forming three regions labeled A, B, C[/fig]
+From points in A 4 tangents
+" " " B 2 "
+" " " C 0 "
+Lines through C 4 intersections
+" " B not C 2 "
+" " A not B 0 "
+
+[u]V[/u] Ovals with 1 node and 1 inflexion
+No cusp nor bitangent
+[fig]Self-intersecting curve with regions labeled A, B, C and a dashed line[/fig]
+3 Regions
+From point in A 4 tangents
+" " " B 2 "
+" " " C 0 "
+Line cutting curve 3 intersections
+" " " 1 "
+
+[u]VI[/u] Ovals with 1 bitangent and 1 cusp.
+[fig]Oval with a cusp and a tangent line, regions labeled A, B, C[/fig]
+Line cutting tangent at cusp between AB 4 intersections
+" " " " " [del]BC[/del] [ins]BC[/ins] 2 "
+" " " " outside 0 "
+3 Tangents
+1 Tangent

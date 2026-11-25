@@ -1,0 +1,20 @@
+Thus if $x$ is false the proposition holds by case 21;
+[del]If $x$ is true[/del]
+
+If $x$ is true, and $w$ is true, the proposition holds by case 222;
+If $x$ is true, $w$ is false, and $y$ is false, the proposition holds by case 11;
+If $x$ is true, $w$ is false, $y$ is true, $z$ is true, the prop. holds by case 12;
+If $x$ is true, $w$ is false, $y$ is true, $z$ is false; the prop. holds by case 221.
+
+Let [del]the[/del] $T$ mean a true proposition, and $F$ a false proposition. Then
+$x \prec T$ is true
+and $F \prec x$ is true.
+$x$ is equivalent to $T \prec x$
+and $\bar{x}$ is equivalent to $x \prec F$.
+The student must prove these things.
+
+The proposition $x \prec [(x \prec y) \prec y]$ is true because
+[del]by[/del] by the first principle above it is equivalent to $(x \prec y) \prec (x \prec y)$.
+Consequently, $x \prec [(x \prec F) \prec F]$ is true.
+
+But we have also $[(x \prec F) \prec F] \prec x$ true. [del]For by the second principle[/del] Since [del]this is[/del] $x$ is [del]the same as[/del] equivalent to $T \prec x$, this is equivalent to $[(T \prec x) \prec F] \prec F \prec x$. But by the second principle if $[(T \prec x) \prec F] \prec F$ is true,

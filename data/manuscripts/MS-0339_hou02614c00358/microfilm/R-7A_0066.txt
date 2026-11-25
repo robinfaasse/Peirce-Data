@@ -1,0 +1,41 @@
+Let $\phi$ be such that
+$$\phi(x+y) \equiv \phi x + \phi y$$
+Then $\phi(x+\Delta x) \equiv \phi x + \phi \Delta x$
+But $\Delta \phi x \equiv \phi(x+\Delta x) - \phi x$
+$\therefore \Delta \phi x \equiv \phi \Delta x$
+$\therefore$ [del]$(\phi + \Delta) (\phi x + \Delta x) \equiv$[/del] $(\phi + \Delta)^n x$ [ins]?[/ins]
+Let us scrutinize that.
+$$(\phi + \Delta)^2 \qquad \begin{array}{l} \phi + \Delta \\ \underline{\phi + \Delta} \\ \phi^2 + 2\phi\Delta + \Delta^2 \end{array}$$
+Let $\phi$ be [del]$\equiv$[/del] $ax+b$
+$$(\phi+\Delta)x \equiv \phi x + \Delta x \equiv ax+b + \Delta x$$
+$$(\phi+\Delta)(\phi+\Delta)x =$$
+$$\begin{array}{rl} & a_2x+a_2b + a_1\Delta x + b + \Delta(\phi+\Delta)x \\ \equiv & a_2x+a_2b + a_1\Delta x + b + (\phi+\Delta)\Delta x \\ \equiv & a_2x+a_2b + a_1\Delta x + b + a_1\Delta x + b + \Delta.\Delta x \\ \equiv & a_2x+a_2b + 2a_1\Delta x + 2b + \Delta^2 x \end{array}$$
+$$\phi^2 x \equiv a_2x + a_1b + b$$
+$$\phi\Delta x \equiv a_1\Delta x + b$$
+
+[marginalia]
+[del]$(\phi+\Delta)^n x \equiv$[/del]
+$(x+\Delta x)^n \equiv (1+\Delta)^n x$
+[/marginalia]
+
+[marginalia]
+[pn]59r[/pn]
+[/marginalia]
+
+$$\begin{array}{c|c}
+\begin{array}{l} x \\ \underline{\Delta x} \\ x + \Delta x \\ \underline{\qquad \Delta x + \Delta^2 x} \\ x + 2\Delta x + \Delta^2 x \end{array} &
+\begin{array}{l} \Delta x \\ \underline{x - \Delta x} \\ \qquad \Delta x - \Delta^2 x \\ \underline{x - 2\Delta x + \Delta^2 x} \end{array}
+\end{array}$$
+
+If $\Delta^2 x \equiv 0 \quad \Delta^3 x \equiv 0$ etc.
+$$(1+\Delta)^n x \equiv (1+n\Delta)x \equiv x + n\Delta x$$
+$$(1-\Delta)^n x \equiv x - n\Delta x$$
+
+$$(1-\Delta)^n fx \equiv f(x-n\Delta x)$$
+$$(1-\Delta)^n \equiv 1 - n\Delta + \frac{n(n-1)}{2}\Delta^2 - \frac{n(n-1)(n-2)}{2.3}\Delta^3 + \text{etc}$$
+
+If $n$ is interpretable $\equiv 1-n\Delta$
+$$fx - n\Delta fx = f(x-n\Delta x)$$
+or putting $h$ for $n\Delta x$
+$$fx - n\frac{h}{n}\Delta fx = f(x-h)$$
+$$fx - h\frac{\Delta fx}{\Delta x} = f(x-h)$$

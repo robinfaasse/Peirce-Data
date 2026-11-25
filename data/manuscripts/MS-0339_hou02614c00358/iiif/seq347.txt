@@ -1,0 +1,59 @@
+[Follows 177] 182r
+George Boole
+
+$a_i \cdot b_i$ means some $a$ is $b$
+$a_i \prec b_i$ means every $a$ is $b$
+$a_i \cdot \infty_i$ means something is $a$ $\quad$ [fig]diagram[/fig] $a_i \cdot x_i$
+$\infty_i \prec b_i$ means everything is $a$ $\quad x_i \prec b_i$
+
+[del] $a \cdot x$ [/del]
+$a_i \prec x_i$ [del] Every [/del] Nothing is $a$
+
+$a_i \prec b_i \prec x_i$ No $a$ is $b$
+$= a_i \cdot b_i \prec x_i$
+$\quad a_i \cdot (b_i \prec x_i)$ Some $a$ is not $b$
+$= (a_i \prec b_i) \prec x_i$
+$\quad a \prec b \prec c$ Whatever is $a$ [del] if $a$ then if $b$ [/del] $c$
+$= a \cdot b \prec c$ If both $a$ and $b$ then $c$
+
+[ins] $def$ [/ins] $a_i \cdot (b_i \prec x_i) \atop a_i \cdot \bar{b}_i \prec x_i$
+[ins] [del] $a_i$ [/del] [/ins] $a_i \cdot (b_i \prec x_i) \atop = (a_i \cdot b_i) \prec x_i$
+
+$(p^q)^r = p^{qr}$
+
+$a \cdot (b \prec c) \quad a \cdot (\bar{b} \psi c)$
+$(a \prec b) \prec c \quad a \cdot \bar{b} \psi c \quad \cdot$
+
+$s \cdot \bar{t} + m$
+$(m \psi p) (s \bar{p} \psi q)$
+$s p (m \psi p \psi q \atop s (m \psi q) \quad \frac{m + s}{m + p \psi p \cdot s}{m \psi q}$
+$s \cdot m \psi q$
+$(s \prec m) \prec c q$
+$(m \psi p) s \cdot (p \psi q)$
+
+$s \prec p \prec q$ [del] celarent [/del]
+$m \prec p \atop \vert \atop s \prec m \atop \vert \atop s \prec p \atop \text{Barbara}$
+$m \prec p \prec q \atop \vert \atop s \cdot m \atop \vert \atop s \cdot (p \prec q) \atop \text{Ferio}$ [ins] [del] $s \cdot p$ [/del] [/ins]
+$s \cdot p \atop \text{Darii}$
+
+$s \cdot (p \prec q) \atop \vert$
+$m \prec p \atop \vert \atop [del] m \prec p [/del] \atop (s \cdot \bar{p}) \prec q \atop \text{Baroko}$
+$m \prec p \prec q \atop \frac{s \cdot p \atop \text{Festino}}{}$
+
+[fig]diagram[/fig]
+$m \prec p$
+$\vert$
+$(s \cdot \bar{m}) \prec q \atop (s \prec m) \prec q$
+$s \cdot (m \prec q)$
+
+[fig]diagram[/fig]
+
+(Festino
+Cesare
+Camenes
+[del] Baroko [/del]
+
+$a \psi b \psi c \quad a \prec b \prec c$
+$(a \psi b) \cdot c \quad (a \prec b) \cdot c$
+$a \psi b \cdot c \quad (a \prec b \prec c \quad a \prec b \cdot c$
+$a \cdot b \cdot c \quad a \cdot b \cdot c$

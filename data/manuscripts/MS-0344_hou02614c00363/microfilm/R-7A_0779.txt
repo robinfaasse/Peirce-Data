@@ -1,0 +1,91 @@
+[pn](Boole) 13[/pn]
+
+[marginalia]
+1[sup]st[/sup]
+when
+x = 1
+y = 1
+[/marginalia]
+
+[marginalia]
+2[sup]nd[/sup]
+when
+x = 1
+y = 0
+[/marginalia]
+
+[marginalia]
+3[sup]rd[/sup]
+when
+x = 0
+y = 1
+[/marginalia]
+
+[marginalia]
+4[sup]th[/sup]
+when
+x = 0
+y = 0
+[/marginalia]
+
+We shall have four expressions all equated to zero, one or
+other of which is [del]really[/del] [ins]locally[/ins] equal to zero; and therefore the
+product of them is certainly equal to zero.
+
+When x = 1 y = 1 everything except the coefficients of xy
+will disappear and we shall have
+(1-s) + t + w = 0
+
+When x = 1 y = 0 everything except the coefficients of x (1-y)
+will disappear and we shall have
+(1-s)(1-t) + (1-w) = 0
+
+When x = 0 y = 1 everything except the coefficients of (1-x) y
+will disappear and we shall have
+(1-s) + (1-t) + (1-w) = 0
+
+When x = 0 y = 0 everything except the coefficients of (1-x)(1-y)
+will disappear and we shall have
+s + (1-t) + w = 0
+
+We must now multiply these four equations together. I
+will not stop to perform their process but will merely give
+the result which is
+st(1-w) + s(1-t)w + (1-s)t(1-w) + (1-s)(1-t) [del]w[/del] [ins](1-s)(1-t)(1-w)[/ins] = 0
+And this by a very simple reduction gives
+w = [u]st + (1-s)t + (1-s)(1-t)[/u]
+st + (1-s)t - s(1-t)
+
+Let us now develope this fraction by the formula made
+on the same principle as the one I have just used; namely
+[del]f(s,t)[/del] = st f(1,1) + s(1-t) f(1,0) + (1-s)t f(0,1) + (1-s)(1-t) f(0,0)
+
+When s = 1 t = 1 w = 1
+When s = 1 t = 0 w = 0
+When s = 0 t = 1 w = 0
+When s = 0 t = 0 w = [fraction]1/0[/fraction]
+
+Hence in general w = st + 0 s(1-t) + 0 (1-s)t + [fraction]1/0[/fraction] (1-s)(1-t)
+
+We have now completed the logical solution of the problem. We
+must next apply the theory of probabilities. For this purpose in-
+stead of inserting any longer [del]whom[/del] [ins]allowing[/ins] s & t only the two values
+[del]zero & unity[/del], we must allow them values proportionate to their probabili-
+ties [del]the[/del] [ins]or[/ins] number of cases in which they will occur. Then the probability
+of s will be represented by a fraction whose numerator is
+s and whose denominator is the sum of all the possible cases.
+Now [del]all[/del] the cases which are impossible are [ins]there[/ins] represented by (1-s)(1-t)
+as is shown by the coefficient [fraction]1/0[/fraction]. Hence, the probability of s or
+p = [u]s[/u]
+st + s(1-t) + (1-s)t
+
+In the same way q = [u]t[/u]
+st + s(1-t) + (1-s)t
+
+[del]And[/del] in the same way the probability of w which is sought, is since
+by the equation st represents all the cases in its favor
+X = [u]st[/u]
+st + s(1-t) + (1-s)t
+
+From these three equations we must now eliminate s & t.
+For this purpose we have [fraction]p/s[/fraction] = [fraction]q/t[/fraction] = [fraction]X/st[/fraction] . s = [fraction]X/q[/fraction] t = [fraction]X/p[/fraction]. Substituting

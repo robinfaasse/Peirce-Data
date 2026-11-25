@@ -1,0 +1,33 @@
+[pn]2[/pn]
+
+Then [equation] \frac{d\gamma}{d\varphi} = \left( \frac{1 + \varepsilon \sin \varphi}{1 - \varepsilon \sin \varphi} \right)^{\frac{\varepsilon}{2}} \left[ \frac{1}{1 + \sin \varphi} + \frac{\varepsilon^2 (1 - \sin \varphi)}{(1 - \varepsilon \sin \varphi)(1 + \varepsilon \sin \varphi)} \right] [/equation]
+
+while on the [del]sme[/del] spheroid
+
+[equation] \frac{ds}{d\varphi} = a \frac{1 - \varepsilon^2}{(1 - \varepsilon^2 \sin^2 \varphi)^{\frac{3}{2}}} [/equation]
+
+So that the scale
+
+[equation] \frac{d\gamma}{ds} = \left( \frac{1 + \varepsilon \sin \varphi}{1 - \varepsilon \sin \varphi} \right)^{\frac{\varepsilon}{2}} \frac{\sqrt{(1 + \varepsilon \sin \varphi)(1 - \varepsilon \sin \varphi)}}{[ins]a[/ins]} \left[ \frac{(1 + \varepsilon \sin \varphi)(1 - \varepsilon \sin \varphi)}{1 + \sin \varphi} + \varepsilon^2 (1 - \sin \varphi) \right] [/equation]
+
+[equation] = \left( \frac{1 + \varepsilon \sin \varphi}{1 - \varepsilon \sin \varphi} \right)^{\frac{\varepsilon}{2}} \frac{\sqrt{(1 + \varepsilon \sin \varphi)(1 - \varepsilon \sin \varphi)}}{a (1 + \sin \varphi)} \left[ \frac{(1 + \varepsilon \sin \varphi)(1 - \varepsilon \sin \varphi) + \varepsilon^2 (1 - \sin \varphi)(1 + \sin \varphi)}{1 - \varepsilon^2} \right] [/equation]
+
+[equation] \frac{-1 + \varepsilon^2 \sin^2 \varphi}{\varepsilon^2 - \varepsilon^2 \sin^2 \varphi} [/equation]
+
+Correct. The two agree.
+
+If now for
+
+[equation] r' \Theta^{i'} = \frac{r \Theta^i - R}{r \Theta^i - \frac{1}{R}} = y + x i [/equation]
+
+[equation] r \cos \theta - R = y r \cos \theta - \frac{y}{R} - x r \sin \theta [/equation]
+
+[equation] r \sin \theta = r \sin \theta \cdot y + r \cos \theta \cdot x - \frac{x}{R} [/equation]
+
+[del] [equation] \frac{(1 - y)(r \cos \theta - R)}{x \sin \theta} = x [/equation] [/del]
+
+[equation] \frac{(1 - y) r \sin \theta}{r \cos \theta - \frac{1}{R}} = x [/equation]
+
+[del] [equation] \frac{1 + y^2 + r \cos \theta (R + \frac{1}{R})}{r \sin \theta} [/equation] [/del] [equation] \frac{(r \cos \theta - R) + y (r \cos \theta - \frac{1}{R})}{r \sin \theta} = x [/equation]
+
+[del] [equation] (1 - y) x^2 = y ( \frac{r^2}{\sin^2 \theta} - 2 \frac{r}{R} \cos \theta + \frac{1}{R^2} ) [/equation] [/del] [del] [equation] \frac{r^2}{\sin^2 \theta} [/equation] [/del] [equation] + r \cos \theta (R + \frac{1}{R}) - 1 [/equation]

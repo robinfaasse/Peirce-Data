@@ -1,0 +1,20 @@
+$$r_1 e^{\theta_1 i} = C \frac{r e^{\theta i} - r_2 e^{\theta_2 i}}{r e^{\theta i} - \frac{1}{r_2} e^{\theta_2 i}}$$
+
+In the case of Mercator's projection the
+North pole is at $+\infty$ and the South pole
+at $-\infty$. Obviously, therefore,
+$$x_1 + y_1 i = [del]\text{S}[/del] \log (r e^{\theta i})$$
+
+or
+[del]$\log r + \log$[/del]
+$$x_1 = \log r$$
+$$y_1 = \theta.$$
+
+A map may in the first place have
+a finite number of North and South poles,
+[del]which can[/del] [ins]be specified singly.[/ins] In this case,
+it is connected with an algebraic function.
+If the number of poles is infinite, they can-
+not be specified singly and only the law
+of their arrangement can be described.
+The [del]whole[/del] map may [del]be[/del] show the whole earth

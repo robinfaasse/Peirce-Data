@@ -1,0 +1,54 @@
+If the pencils $O; AA', BC$
+$O; BB', CA$
+$O; CC', AB$
+show that $AA', BB', CC'$ will be in involution
+
+[fig]Line segment with points B, A, C, A'[/fig]
+
+$\frac{BA}{BA'} \cdot \frac{CA'}{CA} = -1$
+
+$(a-b)(a'-c) + (a'-b)(a-c) = 0$
+
+$aa' - ac - a'b + bc$
+$+ aa' - [del]a'c[/del] [ins]- ab[/ins] - a'b + bc = 0$
+$2(aa' + bc) = (a+a')(b+c)$
+$2(bb' + ac) = (b+b')(a+c)$
+$2(cc' + ab) = (c+c')(a+b)$
+
+$\Longrightarrow (a-x)(a'-x) = (b-x)(b'-x) - (b+b')y$
+$aa' - (a+a')x = bb' - (b+b')y$
+$\frac{aa' - bb'}{a+a' - b-b'} = \frac{aa' - cc'}{a+a' - c-c'}$
+$a+a' - b-b' = a+a' - c-c'$
+
+$aa'(c+c') - aa'(c+c') - bb'(a+a') + bb'(c-c')$
+$= [del]aa'(c+c')[/del] - aa'(b+b') - cc'(a+a') + cc'(b+b')$
+
+$aa'(b+b' - c-c')$
+$+ bb'(c+c' - a-a')$
+$+ cc'(a+a' - b-b') = 0$
+
+$2aa'(b+b'-c-c') = [del]\Delta[/del] (\Sigma b - \Sigma a) (b+b' - 2bc)$
+$\Sigma c - $
+
+$2 \Pi a \Sigma b = \Sigma a(b+c) \Pi b - 2bc \Sigma b$
+$-2 \Pi b \Sigma a = - \Sigma a(a+b) \Sigma b + ac \Sigma a$
+$-2 \Pi a \Sigma c = \Sigma a \Sigma c (a+c) + 2bc \Sigma c$
+$+2 \Pi c \Sigma a = \Sigma a \Sigma c (a+c) - 2ab \Sigma a$
+$+2 \Pi b \Sigma c = \Sigma b \Sigma c (a+c) - 2ac \Sigma c$
+$-2 \Pi c \Sigma b = - \Sigma b \Sigma c (a+b + 2ab \Sigma b$
+
+$= \Sigma a \Sigma b (b-a)$
+
+$a' = \frac{2bc - a(b+c)}{-2a + (b+c)} = [del]a[/del] [ins]\frac{a}{a}[/ins]$
+
+$a+a' = \frac{-2a^2 + [del]ab+ac[/del] [ins]2bc[/ins] + a^2 - bc}{2a - (b+c)} = \frac{a^2 - bc}{2a - (b+c)}$
+
+$aa' = \frac{2abc - a^2(b+c)}{2a - (b+c)}$
+
+$\Pi a \Sigma b - \Pi b \Sigma a = (a^2-bc)(-2abc + a^2 \overline{b+c})$
+$- \Pi a \Sigma c + \Pi c \Sigma a = (b^2-ac)(-2abc + b^2 \overline{a+c})$
+$\Pi b \Sigma c$
+$-2a^3bc + a^4b + a^4c + 2ab^2c^2 - ab^2c^2 - abc^2$
+$+2ab^2c - ab^4 - a^2b^3 - 2a^2bc^2 + [del]a^2bc^2[/del] [ins]+ a^2b^2c[/ins]
+$+2abc^2 - ac^4 - a^2c^3 - 2a^2b^2c + [del]a^2b^2c[/del] [ins]+ ab^2c^2[/ins]
+$-2abc^3 + ac^4 + bc^4 + 2a^2bc$

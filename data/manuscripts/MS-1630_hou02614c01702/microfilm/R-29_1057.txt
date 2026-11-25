@@ -1,0 +1,41 @@
+[u]§32.7[/u]
+
+This applies when a = -
+- a real.
+
+If a was imag and we
+wanted it in another form
+
+[del]- 1 / √a Sin^-1 tan φ =[/del]
+
+( 6^z - 6^-z ) / 2 = Sin z = y
+
+Cos z = 1 + Sin z = ( 6^z + 6^-z ) / 2 = √[1+y²]
+
+[del]6^z =[/del] 6^z = y + √[1+y²]
+
+z = log (y + √[1+y²])
+
+= - 1 / √a log (tan φ + √[1+tan²φ])
+
+= - 1 / √a log (sin φ + 1) / cos φ
+
+[u]§33[/u] ∫_x f [ x, ^n√[(a+bx)/(c+hx)] ]
+||
+y
+
+As in
+
+(a+bx)/(c+hx) = [del]y^n[/del]
+x = (a - cy^n) / (hy^n - b)
+
+∫_y f [ (a - cy^n) / (hy^n - b) , y ] [del]D_y x[/del]
+
+[u]§35[/u] Common in physical inves-
+tigations.
+
+∫_x x^-1 f [ x^m, ^q√[a+bx^m] ]
+||
+y
+
+∫_y y^-1 [ (y^q - a) / b , y ] D_y x [del]x^m = (y^q - a) / b[/del]

@@ -1,0 +1,85 @@
+To calculate values of a function from a slowly
+convergent or even slowly divergent series.
+
+If the series is so slow, let the values of the last
+two terms used be $u_n$ and [del]not[/del] assume the
+others will be $u_n + u_n \frac{u_{n+1}}{u_n} + u_n \left(\frac{u_{n+1}}{u_n}\right)^2 + \text{etc}$
+so that the sum is $u_n \frac{1}{1 - \frac{u_{n+1}}{u_n}} = \frac{u_n^2}{u_n - u_{n+1}}$
+
+Suppose we [del]take[/del] [ins]yields take[/ins] [del]have taken[/del] into account 4 terms
+$u_0 + u_1 + u_2 + u_3$
+We shall thus get the approximation
+$\frac{u_0^2}{u_0 - u_1} - \frac{u_1^2}{u_0 - u_1} + \frac{u_2^2}{u_2 - u_3} = u_0 + u_1 + \frac{u_2^2}{u_2 - u_3}$
+
+We may treat these in the same way, getting
+$\frac{\frac{u_0^4}{(u_0 - u_1)^2} // \frac{u_0^2}{u_0 - u_1} - u_0 - \frac{u_1^2}{u_0 - u_1}}{\frac{u_0^4}{(u_0 - u_1)^2} - \frac{u_2^4}{(u_2 - u_3)^2}} = \frac{\frac{u_0^4}{(u_0 - u_1)^2} (u_1 - u_2)}{\frac{u_0^4}{(u_0 - u_1)^2} - \frac{u_2^4}{(u_2 - u_3)^2}}$
+$= \frac{u_0^4 (u_1 - u_2)}{u_0^4 - u_2^4 \frac{(u_0 - u_1)^2}{(u_2 - u_3)^2}} = \frac{u_0^4 (u_2 - u_3)^2 (u_1 - u_2)}{u_0^4 (u_2 - u_3)^2 - u_2^4 (u_0 - u_1)^2}$
+$= \frac{u_0^4 (u_2 - u_3)^2 (u_1 - u_2)}{[del]2 u_0^2 (u_2 - u_3) (u_1 - u_2) - u_0^2 (u_2 - u_3)^2 - u_2^2 (u_0 - u_1)^2[/del]}$
+$= \frac{u_0^4 (u_2 - u_3)^2 (u_1 - u_2)}{[del]u_0^2 u_2^2 (u_2 - u_3)^2 + 2 u_0^2 u_2^2 (u_2 - u_3)(u_0 - u_1) + u_0^2 u_2^2 (u_0 - u_1)^2[/del]}$
+$- u_0^4 u_2^2$
+
+***
+
+To find $\sqrt[3]{2}$
+$x^3 + 3x^2 + 3x = 1$
+$x^3 + \frac{15}{4} x^2 + \frac{75}{16} x \neq \frac{3}{64}$
+$\left(\frac{64}{3} x^3 + 80 x^2 + 100 x = 1\right)$
+
+$u_0$  0  ,  1 3 3 5 1
+$u_1$  0  ,  2 6 7 6 2
+$u_2$  1  ,  4 0 1 4 3
+$u_3$  3  ,  5 3 5 2 9
+$u_4$  12  ,  6 6 9 0 5
+$u_5$  46  ,  8 0 2 8 6
+$u_6$  177  ,  9 3 6 6 7
+$u_7$  681  ,  1 0 7 0 4 8
+$u_8$  [del]235[/del]  ,  1 2 0 4 2 9
+$u_9$  [del]904[/del]  ,  1 3 3 8 1 0
+$u_{10}$  [del]3478[/del]  ,  1.2599207
+$u_{11}$  [del]13381[/del]  ,  3478
+$u_{12}$  ,  26762
+$u_{13}$  ,  8018
+$u_{14}$  ,  66905
+$u_{15}$  ,  13275
+$u_{16}$  ,  120429
+$u_{17}$  ,  12321
+$u_{18}$  ,  120429
+$u_{19}$  ,  2781
+$u_{20}$  ,  26762
+$u_{21}$  ,  1048
+
+0
+0
+1
+-100
+10080
+101602.1$\frac{1}{3}$
+102410666$\frac{2}{3}$
+20482633
+30723200
+40964266
+51205333
+61446400
+71687466
+81928533
+92169600
+102410666
+
+Nothing is gained by starting with other numbers
+than all zeros but the last.
+
+1.25992105
+101602133$\frac{1}{3}$
+92169600
+9432533$\frac{1}{3}$
+92169600
+215573$\frac{1}{3}$
+204821$\frac{1}{3}$
+10752
+10241
+511
+
+1.259912
+177
+176329
+621

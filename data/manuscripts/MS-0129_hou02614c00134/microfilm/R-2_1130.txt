@@ -1,0 +1,20 @@
+[u]Theorem[/u]. An angle within a circle subtends arcs of it centrally subtended by angles whose sum is double the first angle.
+
+[fig]Circle with inscribed angle and central angles[/fig] [u]Demonstration[/u]. Let [A], [B], [C], [D] lie on a circle centred at [F]; and let [E] = [{AB}{CD}].
+Then, I say that 2 < AED = < AFD + < BFC.
+For < AED + < FDC = < AFD + < FAB, and
+< BE[del]D[/del][ins]C[/ins] + < FBA = < BFC + < FCD.
+
+Hence 2 < AED = < FDC + < FBA = < AFD + < BFC + < FAB + < FCD.
+But, on account of the isosceles triangles,
+< FDC = < FCD and < FBA = < FAB.
+Hence 2 < AED = < AFD + < BFC. Q.E.D.
+
+[u]Scholium[/u]. The preceding theorem is a corollary from this.
+[u]Theorem[/u]. An angle without a circle whose legs cut the circle subtends arcs centrally subtended by angles whose difference is double the first angle.
+
+[fig]Circle with secants meeting outside[/fig] [u]Demonstration[/u]. Let [A], [B], [C], [D] lie on a circle. Let [I] = [{AD}{BC}]
+[K] = [{AC}{BD}].
+Then, I say, that 2 < I equals the angle centrally subtended by arc AB less the angle centrally subtended by arc CD.
+For < I = < K - < CBD - < CAD = < K - angle centrally subtended by arc CD.
+Q.E.D.

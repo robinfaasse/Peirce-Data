@@ -1,0 +1,17 @@
+[u]Equations of Finite Differences[/u]
+
+An equation of finite differences is an equation containing E. It contains one or more [u]independent variables[/u] which may take all integer values, and one or more [u]dependent variables[/u], or functions of the independent variables, concerning whose mode of dependence the equation affords information. These functions are the unknowns. To solve the equation is to express these unknown functions as known functions of the independent variables.
+
+An equation involving Es relatively [del]to different[/del] [ins]to[/ins] independent variables is called a [u]partial equation of finite differences[/u].
+
+The [u]degree[/u] of an equation is the [del]number[/del] [ins]linear[/ins] of unknown factors in the term containing the greatest such number. Thus,
+$$x . u_x . E u_x = 0,$$
+is an equation of the second degree. An equation of the first degree is linear.
+
+The [u]order[/u] of an equation of finite differences is the [del]sum of the[/del] [ins]highest index[/ins] [del]indices[/del] of E (or sums of indices of Es operating one upon another).
+
+We shall consider only equations having one independent and one dependent variable, and of these only such as are linear, and of these only such as have constant coefficients.
+$$E^3 u_x + x E^2 u_x + x^2 E u_x + x^3 = 0$$
+is a linear equation. But its coefficients, that is, the multipliers of the Es are not constant. We consider only such an equation as
+$$a E^n u_x + b E^{n-1} u_x + c E^{n-3} u_x + \dots m E^0 u_x + F_x = 0$$
+where $F_x$ is a known function of $x$ or a constant.

@@ -1,0 +1,25 @@
+Let there be a collection of objects, called
+the [u]fund[/u], these objects being of various
+descriptions, the $A_0$s, the $A_1$s, the $A_2$s, etc.
+every so that any $A_i$ and any $A_j$ are of
+the same description if, and only if, $i = j$.
+
+Let $a_i$ be the number of the $A_i$s, the $A_{i-1}$s
+and so on down to [del]but not[/del] [ins]and[/ins] including the $A_0$s
+so that $a_0 = 0$, $a_{-1}$ is the negative of the number
+of $A_0$s. Thus $a_i = E^i a_0$ $\Delta a_i = (E-1)a_i$
+is the number of $A_i$s. Let us suppose that
+the numbering of the $A$s is such that $\Delta^2 a_i \geqq 0$
+That is, if $i \leqq j$ $\Delta a_i \leqq \Delta a_j$
+
+Let us [del]affix write[/del] [ins]hyphenate[/ins] an Arabic numeral with
+a [del]subscript[/del] symbol of a number [del]in the such[/del]
+[del]a sense that[/del] [ins]in[/ins] such that $n > a_{(3-n)} - a_{(3-n)-1}$
+$n > [del]a_{(3-n)} - a_{(3-n)-3}[/del]$ but $n \leqq a_{(3-n)+1} - a_{(3-n)-2}$
+
+Let $W_q^p$ be the number of [ins]different descriptions of[/ins] sets of $p$ objects each, [del]the[/del]
+which can be formed of the $A_i$s, etc up to
+[del]but not including[/del] the $A_q$s.
+
+Let $(n)$ be that value of $i$ for which $n > a_i$
+but $n \leqq a_{i+1}$ That is $n > a_{(n)}$ but $n \leqq E a_{(n)}$ [ins]$n \leqq a_{(n)+1}$[/ins]

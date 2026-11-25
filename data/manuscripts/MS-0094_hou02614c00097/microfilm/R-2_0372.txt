@@ -1,0 +1,26 @@
+[pn]508[/pn]
+
+[del]Sig[/del] Theorem 68
+[del]Corollary[/del]. A straight line is shorter than [ins]any broken[/ins] [del]the sum[/del] of line between the same extreme points.
+
+[Demonstration. Given any number of points [A], [B], [C], [D], [E], [F], [G], [H], not in one ray, I say that
+[fig]Geometric diagram with points A through H connected by lines[/fig]
+dist AB + dist BC + dist CD + dist DE + dist EF + dist FG + dist GH [del]>[/del] [ins]>[/ins] dist AH.
+
+[del]To suppose a perpendicular let fall from[/del]
+For unless [B] is on the ray {AC}, there is some shortest distance from [B] to {AC}. Let [P] be the point of {AC} at the least distance from [B]. Either then
+dist AP + dist PC = dist AC
+or dist AP - dist PC = dist AC
+or dist PC - dist AP = dist AC.
+
+[fig]Three geometric diagrams showing points A, B, C, P in different configurations[/fig]
+Now {PB} is perpendicular to [del]the[/del] {APC}
+
+Hence, [del]A[/del] dist AB > dist AP
+dist BC > dist PC
+
+Hence, dist AB + dist BC > dist AC.
+
+In like manner
+dist AC + dist CD > dist AD
+dist AB + dist BC + dist CD > dist AD

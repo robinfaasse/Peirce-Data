@@ -1,0 +1,11 @@
+[pn]MM[/pn] [u]provided you ultimately succeed in calculating a sufficient series of substitutes without[/u]
+error. For you are entitled to take the numbers arbitrarily on which to base you computations.
+
+I now proceed to give a few examples. Required $\sqrt{5}$. This having plus and minus values of
+equal absolute magnitude, it is necessary to modify the equation, therefore, making $x$ the frac-
+tional part of $\sqrt{5}$, we have $(x+2)^{2} = x^{2}+4x+4 = 5$, or $x^{2}+4x = 1$. Then, the computation will
+proceed as follows very easily:
+
+Arbitrarily assumed $\left\{\begin{aligned} 0 \\ 1 \end{aligned}\right.$
+
+$\begin{aligned} 0 + (4 \times 1) &= 4 \\ 1 + (4 \times 4) &= 17 \\ [del]1[/del]4 + (4 \times 17) &= [del]72[/del] [ins]72[/ins] \text{ 1}^{\text{st}}\text{ approximation } \cdot 236066 \\ [del]17[/del] + (4 \times 72) &= 305 \text{ 2}^{\text{d}} \text{ " } \cdot 2360681 \\ 72 + (4 \times 305) &= 1292 \text{ 3}^{\text{d}} \text{ " } \cdot 236067970 \\ \text{etc.} \qquad &= 5473 \text{ 4}^{\text{th}} \text{ " } \cdot 2360679779 \\ &= 23184 \text{ 5}^{\text{th}} \text{ " } \cdot 23606797747 \\ &= 98209 \text{ 6}^{\text{th}} \text{ " } \cdot 2360679775001 \\ &= 416020 \text{ 7}^{\text{th}} \text{ " } \cdot 23606797749972 \\ &= 1762289 \text{ 8}^{\text{th}} \text{ " } \cdot 236067977499793 \\ &= 7465176 \text{ 9}^{\text{th}} \text{ " } \cdot 23606797749978945 \\ 31622993 \end{aligned}$

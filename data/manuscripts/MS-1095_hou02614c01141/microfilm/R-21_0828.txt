@@ -1,0 +1,20 @@
+$$- M_1 g_1 h_1 \cos \varphi_1 - M_2 g_2 h_2 \cos \varphi_2 + \frac{p_2 s_1^2 - (q_1 + q_2) s_1 s_2 + p_1 s_2^2}{p_1 p_2 - q_1 q_2}$$
+
+The actual energy, as I have shown in my first paper on the flexure of a pendulum support, will be
+
+$$\frac{1}{2} M_1 l_1 h_1 (D_t \varphi_1)^2 + M_1 h_1 \cos \varphi_1 (D_t \varphi_1) (D_t s_1) + \frac{1}{2} M_1 (D_t s_1)^2$$
+$$+ \frac{1}{2} M_2 l_2 h_2 (D_t \varphi_2)^2 + M_2 h_2 \cos \varphi_2 (D_t \varphi_2) (D_t s_2) + \frac{1}{2} M_2 (D_t s_2)^2.$$
+
+The canonical equations of Lagrange are then as follows:
+
+$$l_1 D_t^2 \varphi_1 + \cos \varphi_1 D_t^2 s_1 + \sin \varphi_1 D_t \varphi_1 D_t s_1 = - g_1 \sin \varphi_1$$
+$$l_2 D_t^2 \varphi_2 + \cos \varphi_2 D_t^2 s_2 + \sin \varphi_2 D_t \varphi_2 D_t s_2 = - g_2 \sin \varphi_2$$
+$$M_1 h_1 \cos \varphi_1 D_t^2 \varphi_1 - M_1 h_1 \sin \varphi_1 (D_t \varphi_1)^2 + M_1 D_t^2 s_1 = - \frac{-2 p_2 s_1 + (q_1 + q_2) s_2}{p_1 p_2 - q_1 q_2}$$
+$$M_2 h_2 \cos \varphi_2 D_t^2 \varphi_2 - M_2 h_2 \sin \varphi_2 (D_t \varphi_2)^2 + M_2 D_t^2 s_2 = - \frac{-2 p_1 s_2 + (q_1 + q_2) s_1}{p_1 p_2 - q_1 q_2}$$
+
+or, omitting terms of the second degree
+
+[del]$$T_1^2 D$$[/del] $$l_1 D_t^2 \varphi_1 + D_t^2 s_1 = - g_1 \varphi_1$$
+$$l_2 D_t^2 \varphi_2 + D_t^2 s_2 = - g_2 \varphi_2$$
+$$M_1 h_1 D_t^2 \varphi_1 + M_1 D_t^2 s_1 = - \frac{-2 p_2 s_1 + (q_1 + q_2) s_2}{p_1 p_2 - q_1 q_2}$$
+$$M_2 h_2 D_t^2 \varphi_2 + M_2 D_t^2 s_2 = - \frac{-2 p_1 s_2 + (q_1 + q_2) s_1}{p_1 p_2 - q_1 q_2}$$

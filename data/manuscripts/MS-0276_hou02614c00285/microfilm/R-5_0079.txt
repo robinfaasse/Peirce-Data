@@ -1,0 +1,106 @@
+[fig]Diagram of circles and lines[/fig]
+
+[pn]VI[/pn]
+
+$\frac{x}{2} = \frac{x_1}{2\gamma}$
+
+$\frac{x}{\sqrt{x^2+y^2}} = \frac{x_1}{\sqrt{x_1^2+y_1^2}} = \frac{1}{\gamma}$
+
+$x_1 = \frac{\gamma x}{\sqrt{x^2+y^2}}$
+
+[del]$\frac{y_1}{\sqrt{x_1^2+y_1^2}}$[/del]
+
+[del]$\frac{y}{\sqrt{x^2+y^2}}$[/del]
+
+$\frac{G^1}{G} = \frac{\gamma}{G}$
+
+$\alpha = \frac{x'_1 + x'_2}{2} = \frac{\frac{1}{2} x_1 \gamma^2}{x_1^2+y_1^2} + \frac{\frac{1}{2} x_2 \gamma^2}{x_2^2+y_2^2} = \frac{\gamma^2}{2} \left(\frac{x_1}{x_1^2+y_1^2} + \frac{x_2}{x_2^2+y_2^2}\right)$
+
+$x_1^2 + y_1^2 = (\alpha^2+\beta^2-G)^2$
+
+$x_2^2 + y_2^2 = (\sqrt{\alpha^2+\beta^2}+G)^2$
+
+$= \alpha^2+\beta^2-2G\sqrt{\alpha^2+\beta^2}+G^2$
+
+$= \alpha^2+\beta^2+2G\sqrt{\alpha^2+\beta^2}+G^2$
+
+[u]Diam coordinates[/u]
+
+$m-m' \le \gamma^2 (\frac{1}{m'} - \frac{1}{m}) = \gamma^2 \frac{2R}{m m'}$
+
+$R$ is $R$ of circle/final
+
+$\frac{m-m'}{\sqrt{\alpha^2+\beta^2}-R} = \frac{R-m}{}$
+
+$\frac{G'}{G} = \frac{\gamma}{G}$ or $R' = \frac{\gamma^2 R}{}$
+
+***
+
+[fig]Concentric circles with intersecting lines[/fig]
+
+$a = \frac{R^2}{G^1}$
+
+$b = \frac{R^2}{G}$
+
+[fig]Small circle with chord[/fig]
+
+$(x-a)^2 + (y-b)^2 = g^2$
+
+$x^2-2ax + [del]a^2[/del] + y^2-2by + b^2 = g^2$
+
+$x^2+y^2-2ax-2by + \frac{2R^2}{G'} = 0$
+
+$x^2+y^2-2ax-2by + G^2 = 0$
+
+$x^2-2\alpha x + G = 0$
+
+$(x-\alpha)^2 = \alpha^2-G$
+
+$x = \alpha \pm \sqrt{\alpha^2-G}$
+
+$x'_1 x'_2 = \gamma^2$
+
+$\frac{\gamma^2}{2} (\alpha^2-G)$
+
+[fig]Circle with tangent line[/fig]
+
+$\alpha' = \frac{\gamma^2 \alpha}{\alpha^2-G}$
+
+$\beta' = \frac{\gamma^2 \beta}{\alpha^2-G}$
+
+$\frac{G'}{G} = \frac{\gamma^2}{G}$
+
+I have to show that
+for $y=0$
+
+$\frac{x_1 y_2 - y_1 x_2}{x'_1-x'_2} = \beta'$
+
+$x'^2+y'^2-2x'\alpha'-2y'\beta' + G'=0$
+
+Put $y=0$
+
+$x'^2-2\alpha'x' + G' = 0$
+
+$\frac{G'}{G} = \frac{\gamma^2}{G}$
+
+$x'_1 x'_2 = \gamma^2$
+
+$\alpha = \frac{\gamma^2 \alpha'}{\alpha'^2-\beta'^2}$
+
+$\frac{\alpha'_1}{\gamma^2} = \frac{1}{\alpha_2}$
+
+$\frac{\alpha'_2}{\gamma^2} = \frac{1}{\alpha_1}$
+
+$\frac{\alpha'_1+\alpha'_2}{2} = \alpha$
+
+$\alpha' = \frac{\gamma^2 \alpha'^2}{\alpha'^2-G'^2} = \gamma^2 \left( \frac{\alpha'}{\alpha'^2-G'^2} \right)$
+
+$(x'-\alpha')^2 = \gamma^4 \left(\frac{1}{G}\right)$
+
+$x' = \frac{\gamma^2 \alpha}{\alpha^2-G} \pm \gamma^2 \sqrt{\frac{1}{G}}$
+
+$= \frac{\gamma^2}{G} \left(\alpha \pm \sqrt{G}\right)$
+
+$\frac{\gamma^2}{\sqrt{\alpha^2-G}}$ dist from centre of projection to neutral points of [del]circle[/del]
+
+[u]Pull out[/u]

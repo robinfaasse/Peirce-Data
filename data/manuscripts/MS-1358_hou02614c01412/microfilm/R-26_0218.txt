@@ -1,0 +1,47 @@
+[marginalia]Monon Bridge [date]1893 March 1[/date][/marginalia] [pn]10[/pn]
+
+[fig]Three dots in a triangle[/fig]
+$D_x^2 z + (a+bx^2)z = 0$
+
+$z = A + Bx + Cx^2 + Dx^3 + \text{etc}$
+$az = aA + aBx + aCx^2 + aD[del]x^3[/del] [ins]x^3[/ins] + \text{etc}$
+$bx^2 z = \phantom{aA + aBx +} + bAx^2 + bBx^3 + \text{etc}$
+$D_x^2 z = 2C + 6Dx + 12Ex^2 + 20Fx^3 + \text{etc}$
+
+$C = \frac{1}{2} aA \quad D = \frac{1}{6} aB$
+
+$E = \frac{1}{12} bA + \frac{1}{24} a^2 A = [del]\frac{a}{12}[/del] \frac{1}{24} A (6b + a^2)$
+$G = \frac{1}{30} bC + \frac{1}{30} aE$
+$= [del]\frac{abA}{60}[/del] + \frac{7}{360} abA + \frac{1}{720} a^3 A = \frac{1}{720} A (14b + a^2)$
+
+[fig]Doodle of a face looking left[/fig]
+[del]$\sin ax^2$[/del]
+[del]$2ax \cos ax^2$[/del]
+[del]$2a \cos ax^2 - 4a^2 x^2 \sin ax^2$[/del]
+
+$\sin (a + bx + cx^2)$
+$(b+2cx) \cos (a+bx+cx^2)$
+$2c \cos - (b+2cx)^2 \sin$
+
+[fig]Scribble[/fig]
+
+$P = 0$
+$Q = a+bx^2$
+
+$(2i+2)(2i+1)$
+
+$z = A_0 + A_1 x^2 + A_2 x^4 + \text{etc} = \sum_i A_i x^{2i}$
+$az = \sum_i a A_i x^{2i}$
+$bx^2 z = \sum_i b A_{i-1} x^{2i}$
+$D_x^2 z = \sum_i 2(i+1)(2i+1) A_{i+1} x^{2i}$
+
+$A_{i+1} = - \frac{a A_i + b A_{i-1}}{2(i+1)(2i+1)}$
+
+$A_1 = 0 \quad A_0 = \frac{12}{a} \quad A_2 = 1$
+
+$A_2 = - \frac{a A_1 + b A_0}{12}$ [marginalia]$3.4$[/marginalia]
+$A_3 = - \frac{a A_2 + b A_1}{30}$ [marginalia]$5.6$[/marginalia]
+$A_4 = - \frac{a A_3 + b A_2}{56}$ [marginalia]$7.8$ [del]$9.10$[/del][/marginalia]
+
+[del]$A_3 = - \frac{a}{30}$[/del]
+[del]$A_4 = - \frac{a A_3 + b}{56}$[/del]

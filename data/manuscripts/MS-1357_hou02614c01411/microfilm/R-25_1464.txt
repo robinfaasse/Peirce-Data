@@ -1,0 +1,25 @@
+[pn]9[/pn]
+
+[u]§ 7.[/u] For the sake of completeness, I insert the discussion
+of the catenary, or curve of the cord loaded uniformly along
+the cord. That is, [u]k[/u] is constant and
+(38) [ins]ks =[/ins] w = Q (tan τ - tan τ₀).
+
+By (20)
+dx/ds = cos τ     dy/ds = sin τ
+whence, by (29) and (31),
+dx/dτ = (dx/ds)(ds/dτ) = [fraction]Q/k[/fraction] sec τ,
+dy/dτ = (dy/ds)(ds/dτ) = [fraction]Q/k[/fraction] sin τ sec² τ.
+Integrating these equations
+x = [fraction]Q/k[/fraction] [ log tan (45° + ½τ) - log tan (45° + ½τ₀) ]
+y = [fraction]Q/k[/fraction] (sec τ - sec τ₀),
+or x - x_H = [fraction]Q/k[/fraction] log tan (45° + ½τ)
+y - y_H = [fraction]Q/k[/fraction] (sec τ - 1).
+Using Gudermannians,
+(39) Sinh [fraction]k(x-x_H)/Q[/fraction] = tan τ = [fraction]k(s-s_H)/Q[/fraction] = √([1 + [fraction]k(y-y_H)/Q[/fraction]]² - 1),
+Cosh [fraction]k(x-x_H)/Q[/fraction] = sec τ = √(1 + [fraction]k²(s-s_H)²/Q²[/fraction]) = 1 + [fraction]k(y-y_H)/Q[/fraction],
+s = [fraction]Q/k[/fraction] sec² τ = Cosh² [fraction]k(x-x_H)/Q[/fraction] = 1 + [fraction]k²(s-s_H)²/Q²[/fraction] = [ 1 + [fraction]k(y-y_H)/Q[/fraction] ]².
+Q = k x_H log tan (45° + ½τ₀) = [fraction]k y_H/sec τ₀ - 1[/fraction] = [fraction]k s_H/-tan τ₀[/fraction] = k s_H = [del]k [fraction](s-s_H)²(y-y_H)/2(s-s_H)[/fraction][/del] [ins]k [fraction]s_H² - y_H²/ -2y_H[/fraction][/ins]
+
+The form of the lower part of the catenary can be obtained by
+modifying the parabola by means of the annexed table.

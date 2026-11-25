@@ -1,0 +1,20 @@
+[pn]4[/pn]
+
+To determine C, one puts n = 0 in (21), and so get
+(24) $x = \phi^0 x = \frac{b-c}{2e} + \frac{1}{C} \frac{b+c}{2e}$
+giving
+(25) $C = \frac{b+c}{2ex - b + c}$
+(26) $C + n = \frac{b+c + 2enx - (b-c)n}{2ex - b + c}$
+when (21) becomes
+
+(27) $\phi^n x = \frac{b-c}{2e} + \frac{2ex - b + c}{b+c + 2enx - (b-c)n} \frac{b+c}{2e}$
+$= \frac{(\frac{b+c}{2e} + n \frac{b-c}{2e})x - n(\frac{b-c}{2e})^2}{nx - n \frac{b-c}{2e} + \frac{b+c}{2e}}$
+
+If in (27) we put $x = \frac{b-c}{2e}$, we get
+
+(28) $\phi^n \frac{b-c}{2e} = \frac{(\frac{b+c}{2e} + n \frac{b-c}{2e})\frac{b-c}{2e} - n(\frac{b-c}{2e})^2}{n \frac{b-c}{2e} - n \frac{b-c}{2e} + \frac{b+c}{2e}} = \frac{b-c}{2e}$
+
+[del]The quantity[/del] The quantity $\phi^n x$ is a function of two variables,
+x and n; and by (27), it is evident that
+(29) $\phi^\infty [del]x[/del] = \frac{b-c}{2e}$ [del]$\phi^0 \infty = \frac{b}{e}$[/del]
+[del]when n = 1[/del]

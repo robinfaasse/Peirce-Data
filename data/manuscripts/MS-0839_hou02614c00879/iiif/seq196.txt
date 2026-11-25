@@ -1,0 +1,32 @@
+839
+
+$A \prec A$
+
+$A \sim [ (A \times B) \prec B ]$
+$(B \times A) \prec (B \times A)$
+$[ (B \times B) \times A ] \sim A$
+
+[fig]diagram showing $A + yB + z$ related to $yA + \bar{B} + z$ and $(\bar{B} + y) \bar{A} + z$[/fig]
+$A + yB + z$
+$yA + \bar{B} + z$
+$(\bar{B} + y) \bar{A} + z$
+
+$A \sim z$
+$x \quad A \sim (B \prec z)$
+$A \quad (y \prec A) \sim z$
+$\overline{z^2 \quad A \sim [ B \prec (C \prec z) ]}$
+$B z \quad A \sim [ (Cy \times B) \prec z ]$
+$A z \quad (y \prec A) \sim (B \prec z)$
+$A y \quad [ (B \prec y) \prec A ] \sim z$
+$[ y \prec (x \times A) ] \sim z$
+$z^3 \quad A \sim \{ B + [ C \sim (D \prec z) ] \}$
+$Cz^2 \quad A \sim \{ B \prec [ (Cy \sim C) \prec z ] \}$
+$B z^2 \quad A \sim [ (y \sim B) \prec (C \prec z) ]$
+$A z^2 \quad (y \prec A) \sim [ B \prec (C \prec z) ]$
+$Byz \quad A \sim \{ [ (C \sim y) \sim B ] \prec z \}$
+$B^2 z \quad A \sim \{ [ y \prec (x \sim B) ] \prec z \}$
+$ABz \quad (x \prec A) \prec [ (y \sim B) \prec z ]$
+$A y z \quad [ (C \sim y) \prec A ] \sim (B \prec z)$
+$ABz \quad (y \prec A) \sim [ (x \sim B) \prec z ]$
+$A^2 z \quad [ y \sim (x \prec A) ] \prec (B \sim z)$
+$A y^2 \quad \{ [ B \prec (C \sim y) ] \prec A \} \sim z$

@@ -1,0 +1,25 @@
+[pn]28[/pn]
+
+[u]Report on Live Loads[/u]
+
+[del]$(\varepsilon_0 + \kappa_0)\kappa_0 - (\beta_0 + \lambda_0)\mu_0 = \varepsilon_0\kappa_0 - \beta_0\mu_0 + \kappa_0^2 - \lambda_0\mu_0 = \varepsilon\kappa_0 - \beta_0\mu_0$[/del] [ins]$= \frac{1}{|P_0|} (1 - \frac{R_0}{R_0})$[/ins]
+$(\varepsilon_0 + \kappa_0)\lambda_0 - (\beta_0 + \lambda_0)\kappa_0 = \varepsilon_0\lambda_0 - \beta_0\kappa_0$
+
+If as additional abbreviations we write
+[u]$[\rho_0]$[/u] $= \frac{1}{|P_0|} (1 - \frac{R_0}{R_0})$     [u]$[\rho_i]$[/u] $= \frac{1}{|P_i|} (1 - \frac{R_1}{R_i})$
+
+then we have from equations (16) and (17)
+
+$\delta x_0 = \frac{(\beta_0 + \lambda_0)\heartsuit_1 - (\varepsilon_0 + \kappa_0)\heartsuit_2 + (\varepsilon_0\kappa_0 - \beta_0\mu_0 - [\rho_0])\delta x_1 + (\varepsilon_0\lambda_0 - \beta_0\kappa_0)\delta y_1}{}$
+
+$\delta y_0 = \frac{-(\varepsilon_0 + \kappa_0)\heartsuit_1 + (\alpha_0 + \mu_0)\heartsuit_2 + (\varepsilon_0\mu_0 - \alpha_0\kappa_0)\delta x_1 + (\varepsilon_0\kappa_0 - \alpha_0\lambda_0 - [\rho_0])\delta y_1}{}$
+
+while from equations (18) and (19) we have
+
+$\delta x_2 = \frac{(\beta_2 + \lambda_i)\heartsuit_5 - (\varepsilon_2 - \kappa_i)\heartsuit_6 - (\varepsilon_2\kappa_i + \beta_2\mu_i + [\rho_i])\delta x_1 + (\varepsilon_2\lambda_i + \beta_2\kappa_i)\delta y_1}{}$
+
+$\delta y_2 = \frac{-(\varepsilon_2 - \kappa_i)\heartsuit_5 + (\alpha_2 + \mu_i)\heartsuit_6 + (\varepsilon_2\mu_i + \alpha_2\kappa_i)\delta x_1 - (\varepsilon_2\kappa_i + \alpha_2\lambda_i + [\rho_i])\delta y_1}{}$
+
+These four values, substituted in (20) and (21), furnish, first
+
+$\mu_0\delta x_0 + \kappa_0\delta y_0 = \frac{-(\varepsilon_0\kappa_0 - \beta_0\mu_0 - [\rho_0])\heartsuit_1 + (\alpha_0\kappa_0 - \varepsilon_0\mu_0)\heartsuit_2}{}$

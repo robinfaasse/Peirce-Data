@@ -1,0 +1,46 @@
+Start again
+DEC. 26 1901
+A. Either m or [del]m < n[/del] [ins]m < n[/ins]
+B. If q, then p < q
+C. If s and s < t, then t
+[u]From A alone[/u].
+[del](1) {[[[(m < m) < m] < m] < m} etc. ad inf. is true.[/del]
+[ins]
+{[[(m < n) < n] < n} < n} etc ad inf
+That is, if [del]m_i[/del] [ins]n_{i+1}[/ins] [del]m_i < n[/del] [ins]n_i < n[/ins]
+then [del]m_\infty[/del] [ins]n_\infty[/ins] is true
+[/ins]
+(2) Either m or m < m
+[del] (3) Either m < n or both m and (m < n) < l[/del]
+(4) Either m or [del]both m < n and m < l[/del] [ins]m < n[/ins]. Either m or m < l, m < l_2 m < l_3 etc.
+(5) Either m < m or both m and (m < m) < l
+[del](6) [del]Either[/del] m < m < m < m[/del]
+
+[ins]
+m < n  [u]m < n[/u]
+(m < n) < n  m < n
+[(m < n) < n] < n  [u]m < n[/u]
+[/ins]
+
+[u]From B alone.[/u]
+(7) If q, then p_1 < p_1 < q
+and p_3 < p_2 < p_1 < q etc.
+(8) If q then q < q
+and q < p < q
+(9) If q < r then p < q < r
+and r < q < r
+
+[u]From C alone[/u]
+(10) If s and s < t and t < u then u
+(11) If s and s < t_1 and t_1 < t_2 etc ~ ~
+[ins]If s_0 and s_0 < s_1 and s_1 < s_2 etc
+then s_01[/ins]
+then t_0s
+[del](12) If s and s < (t < s) then t < s
+s < t < s[/del]
+[ins][del]s + t < s[/del]
+s + s < s + t + s[/ins]
+(12) If s and s < t < u then u
+[ins]and[/ins]
+If s_1 and s_2 and s_3 etc and s_1 < s_2 < s_3 < etc all then u
+(13) (s < u) and (s < u) < t then t.

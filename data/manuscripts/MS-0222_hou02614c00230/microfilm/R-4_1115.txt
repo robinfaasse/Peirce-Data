@@ -1,0 +1,19 @@
+[u]Dedekind's Dirichlet, §23[/u]
+
+I show here the full expressions for the bracketed
+functions:
+Denote $a$ by $\tau_0$, $b$ by [del]$\tau_0 \pi_0$[/del] $\pi_0$
+$\gamma$ by $\tau_1$, $\delta$ by $\pi_1$
+$\alpha$ by $\tau_2$, $\beta$ by $\pi_2$
+$\eta$ by $\tau_3$, $\theta$ by $\pi_3$, etc.
+
+Then denote by $\sigma_j^i$ a sum of products each
+of $i+1$ $\tau$s and $\pi$s; that is if $i$ is [del]odd[/del] [ins]even[/ins] [del]even[/del]
+each product consists of $\tau_0$ with [del]all[/del] $\frac{1}{2} i$ other
+$\tau$'s and as many $\pi$s, but if $i$ is [del]even[/del] [ins]odd[/ins], it
+consists of $\tau_0$ and $\frac{1}{2}(i-1)$ other $\tau$'s and $\frac{1}{2}(i+1)$
+$\pi$'s, and therefore [u]including[/u] $\tau_0$ of as many $\tau$'s
+as $\pi$'s. No factor of a product occurs to the
+second power, and no $\tau$ or $\pi$ in the product
+has a higher index than $j$. And the sum $\sigma_j^i$ consists
+of all the possible products that follow this rule.

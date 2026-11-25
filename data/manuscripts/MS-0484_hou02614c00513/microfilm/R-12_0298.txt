@@ -1,0 +1,36 @@
+[pn]F4[/pn] [pn]22[/pn]
+The iterate is [del]evenly[/del] [ins]oddly[/ins] [u]enclosed[/u]. Follows from the last and [u]XXII[/u].
+
+[u]8[sup]th[/sup][/u], the rule holds for concisions [u]when the iterate is [del]oddly[/del] [ins]even[/ins]ly enclosed[/u], by [del]XXIII[/del]
+
+[u]9[sup]th[/sup][/u], the rule holds for iterations [u]when the iterand is in one oval and the iterate[/u]
+[u]in two[/u]. Namely, from the 5[sup]th[/sup] case, by [u]XXII[/u], we have [fig]graph with two nested ovals containing a and b[/fig] [del]⤙[/del] [fig]graph with three nested ovals containing a and b[/fig].
+
+10[sup]th[/sup] the rule holds for iterations [u]when the iterand is in one oval and the iterate[/u]
+[u]in any even number[/u]. By the last case, [del]and XVII[/del], and [u]XXII[/u]
+
+11[sup]th[/sup], the rule holds for iterations [u]where the iterand is oddly enclosed and the iterate[/u]
+[u]evenly enclosed[/u]. By the last case, [u]XVII[/u] and [u]XXII[/u]
+
+12[sup]th[/sup], the rule holds for concisions [u]when iterand and iterate are oddly enclosed[/u]
+By the 3[sup]d[/sup] case and [u]XXII[/u].
+
+Hence, in all cases the rule holds.
+
+[u]Rule XXV[/u]. ([u]Rule of Protraction and Retraction[/u]). An evenly enclosed
+heavy line (i.e. so enclosed as to its outermost part) may be [del]retracted[/del]
+[del]into[/del] [del]within[/del] an even number of ovals while an oddly enclosed heavy
+line may be protracted out from any number of ovals.
+
+[u]1[sup]st[/sup][/u]. This holds of unenclosed heavy lines. For by [u]VII[/u] an individual
+index may be attached to any such line; and thereupon by [u]XVIII[/u] it can
+be retracted into any even number of enclosures, and finally by [u]XXIII[/u] the
+index can be erased.
+
+[u]2[sup]nd[/sup][/u]. If the rule, so far as it relates to retractions and protractions
+through even numbers of ovals, holds good so long as the retractend
+or protrahend is not enclosed in more than N ovals, then it
+holds good so long as it is not enclosed in more than N+1 ovals.
+
+For any graph of the latter kind consists of [ins]unenclosed[/ins] a partial graph,
+[u]p[/u], [del]ones[/del] joined by heavy lines to a partial graph [u]q[/u] inside one oval.

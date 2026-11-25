@@ -1,0 +1,31 @@
+[u]Line Loads[/u]
+
++N is supported at unit distances. Let W be the weight of the truss
+per unit of length, and [u]M[/u][sub]n[/sub] the bending moment at the distance
+n from the centre. Then the theorem gives the equations
+[p]2 (Q-N) M[sub]-P[/sub] + (P-N) M[sub]-N[/sub] = [frac]W[/frac][sub]4[/sub] [[del](Q-P)[sup]3[/sup]+(P-N)[sup]3[/sup][/del]]
+(P-N) M[sub]-P[/sub] + 2 (P-N+1) M[sub]-N[/sub] + M[sub]-N+1[/sub] = [frac]W[/frac][sub]4[/sub] [[del]([frac]P-N[/frac][sup]3[/sup])+1[/del]]
+[del](P-N) M[sub]-P[/sub] + 2 (P-N+1) M[sub]N[/sub] + M[sub]N-1[/sub] = [frac]W[/frac][sub]4[/sub] [([frac]P-N[/frac])[sup]3[/sup]+1][/del]
+2 (Q-N) M[sub]P[/sub] + (P-N) M[sub]N[/sub] = [frac]W[/frac][sub]4[/sub] [[del](Q-P)[sup]3[/sup]+(P-N)[sup]3[/sup][/del]]
+
+together with 2N-1 equations of the form
+M[sub]n+1[/sub] + 4 M[sub]n[/sub] + M[sub]n-1[/sub] = [frac]W[/frac][sub]2[/sub]
+where n may have any value from -N+1 to N-1 inclusive. This
+equation of finite differences gives obviously
+M[sub]n[/sub] = C[sub]0[/sub] (-2+[radic]3)[sup]n[/sup] + C[sub]1[/sub] (-2-[radic]3)[sup]n[/sup] + [frac]W[/frac][sub]12[/sub].
+
+Putting n=N and n=-N+1,
+M[sub]-N[/sub] = C[sub]0[/sub] (-2+[radic]3)[sup]-N[/sup] + C[sub]1[/sub] (-2-[radic]3)[sup]-N[/sup] + [frac]W[/frac][sub]12[/sub]
+M[sub]-N+1[/sub] = C[sub]0[/sub] (-2+[radic]3)[sup]-N+1[/sup] + C[sub]1[/sub] (-2-[radic]3)[sup]-N+1[/sup] + [frac]W[/frac][sub]12[/sub]
+
+whence
+C[sub]0[/sub] = - [frac](-2+[radic]3)[sup]N-1[/sup][/frac][sub]2[radic]3[/sub] M[sub]-N[/sub] + [frac](-2+[radic]3)[sup]N[/sup][/frac][sub]2[radic]3[/sub] M[sub]-N+1[/sub] + [frac](3+[radic]3)(-2+[radic]3)[sup]N[/sup][/frac][sub]24[radic]3[/sub] W
+C[sub]1[/sub] = [frac](-2-[radic]3)[sup]N-1[/sup][/frac][sub]2[radic]3[/sub] M[sub]-N[/sub] - [frac](-2-[radic]3)[sup]N[/sup][/frac][sub]2[radic]3[/sub] M[sub]-N+1[/sub] + [frac](3-[radic]3)(-2-[radic]3)[sup]N[/sup][/frac][sub]24[radic]3[/sub] W
+
+But the first two equations give
+M[sub]-N[/sub] = -2 [frac]Q-N[/frac][sub]P-N[/sub] M[sub]-P[/sub] + [frac](Q-P)[sup]3[/sup]+(P-N)[sup]3[/sup][/frac][sub]P-N[/sub] [frac]W[/frac][sub]4[/sub]
+M[sub]-N+1[/sub] = (4 [frac]Q-P-3N[/frac][sub]P-N[/sub] + 4 [frac]Q-N[/frac][sub]P-N[/sub]) M[sub]-P[/sub] - [[frac](Q-P)[sup]3[/sup]+(P-N)[sup]3[/sup][/frac][sub]P-N[/sub] + 2 (Q-P)[sup]3[/sup]+(P-N)[sup]3[/sup] - 1] [frac]W[/frac][sub]4[/sub]
+
+So that
+C[sub]0[/sub] = [frac](-2+[radic]3)[sup]N[/sup][/frac][sub]2[radic]3[/sub] (4Q-P-3N - 2[radic]3 [frac]Q-N[/frac][sub]P-N[/sub]) M[sub]-P[/sub] - [frac](-2+[radic]3)[sup]N[/sup][/frac][sub]2[radic]3[/sub] ([frac]-[radic]3(Q-P)[sup]3[/sup]-(1+[radic]3)(P-N)[sup]3[/sup][/frac][sub]P-N[/sub] + 2(Q-P)[sup]3[/sup]+(P-N)[sup]3[/sup]-2-[frac]1[/frac][sub][radic]3[/sub]) [frac]W[/frac][sub]4[/sub]
+C[sub]1[/sub] = [frac](-2-[radic]3)[sup]N[/sup][/frac][sub]2[radic]3[/sub] ([frac]-4Q+P[/frac][sub]P-N[/sub]+3N-2[radic]3 [frac]Q-N[/frac][sub]P-N[/sub]) M[sub]-P[/sub] + [frac](-2-[radic]3)[sup]N[/sup][/frac][sub]2[radic]3[/sub] ([frac][radic]3(Q-P)[sup]3[/sup]+(-1+[radic]3)(P-N)[sup]3[/sup][/frac][sub]P-N[/sub] + 2(Q-P)[sup]3[/sup]+(P-N)[sup]3[/sup]-2-[frac]1[/frac][sub][radic]3[/sub]) [frac]W[/frac][sub]4[/sub]

@@ -1,0 +1,39 @@
+[del]Better stated[/del] Taking any point $[O]$ in the plane,
+let $[a], [A_1], [A_2]$ be [del]colli[/del] corradial
+$[O], [B_1], [B_2]$ " "
+$[O], [C_1], [C_2]$ " "
+Then $[(A_1 B_1)(A_2 B_2)], [(B_1 C_1)(B_2 C_2)], [(C_1 A_1)(C_2 A_2)]$ will be corradial
+" $[(A_1 B_1)(A_2 B_2)], [(B_1 C_2)(B_2 C_1)], [(C_1 A_1)(C_2 A_2)]$ " "
+" $[(A_1 B_2)(A_2 B_1)], [(B_1 C_1)(B_2 C_2)], [(C_1 A_1)(C_2 A_2)]$ " "
+" $[(A_2 B_1)(A_1 B_2)], [(B_1 C_1)(B_2 C_2)], [(C_1 A_2)(C_2 A_1)]$ " "
+
+Taking any ray $(o)$ in the plane
+let $(o), (a_1) (a_2)$ be copunctual
+$(o), (b_1) (b_2)$ " "
+$(o), (c_1) (c_2)$ " "
+Then $[(a_1 b_1)[a_2 b_2]], [(b_1 c_1)[b_2 c_2]], [(c_1 a_1)[c_2 a_2]]$ [ins]will be[/ins] compunctual
+" $[(a_1 b_1)[a_2 b_2]], [(b_1 c_2)[b_2 c_1]], [(c_1 a_1)[c_2 a_2]]$ " "
+" $[(a_1 b_2)[a_2 b_1]], [(b_1 c_1)[b_2 c_2]], [(c_1 a_1)[c_2 a_2]]$ " "
+" $[(a_2 b_1)[a_1 b_2]], [(b_1 c_1)[b_2 c_2]], [(c_1 a_2)[c_2 a_1]]$ " "
+
+$x o + \bar{x} a$
+$y o + \bar{y} b$
+$z o + \bar{z} c$
+
+The ten point theorem
+
+If three rays $(a), (b), (c)$ in a plane, have a common point $[O]$ and if there be [del]three[/del] [ins]two[/ins] triangles $(i), (j), (k)$ and $(l), (m), (n),$ whose vertices lie upon the first three rays; namely
+$[jk]$ and $[mn]$ on $(a)$
+$[ki]$ and $[nl]$ on $(b)$
+$[ij]$ and $[lm]$ [del]also[/del] on $(c)$
+it follows that $[il], [jm],$ and $[kn]$ lie on one ray.
+
+<u>Proof</u>.
+For take any points $[Q]$ [del]not in the plane[/del] [ins]$\{OA, B_1\}$[/ins]
+There will be a plane $\{Q C_1 C_2\}$ and only one
+[del]But there is a ray $(O C_1 C_2)$ by hypoth. and since $[C_1]$ and $[C_2]$ are in $\{Q C_1 C_2\}$ so is $[O]$[/del]
+Take any point [del]$N$[/del] $[T_1]$ on $(Q C_1)$ [del]Then hence $[Q]$ and $[C_1]$ are in $\{Q C_1 C_2\}$ so is $[T_1]$[/del]
+since $[O]$ and $[T_1]$ are both in $\{Q C_1 C_2\}$ so is $(O T_1)$
+since $[Q]$ and $[C_2]$ are both in $\{Q C_1 C_2\}$ so is $(Q C_2)$
+since $(O T_1)$ and $(Q C_2)$ are in the same plane, they have a common point, call it $[T_2]$
+There is a plane $\{A_1 B_1 T_1\}$ and a plane $\{A_2 B_2 T_2\}$

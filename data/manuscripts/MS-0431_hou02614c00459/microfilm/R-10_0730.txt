@@ -1,0 +1,36 @@
+[pn]Logic
+III
+164[/pn]
+
+set of six, such that any one, being relatively multiplied
+by any other, the product is one of the six, and such that
+that product is different from what it would be if either
+multiplier or multiplicand were alone [del]changed[/del] [ins]different[/ins]. Let the
+six letters conforming to this condition be $i$, $j$, $k$, $l$, $m$, $n$.
+Since [del]each product of these letters is to be one of the letters, and[/del]
+[del]since, $ij$, $ik$, $il$, $im$, $in$ are all different, it follows[/del]
+[del]that some one of them must be the letter equal to $i$.[/del]
+This one may or may not be $i$. Suppose, first that it is not
+so; but that, say, $ji = i$. Then [del]$j^2 i = (j \cdot j) i = j (ji) = $[/del]
+$ji = i$. Thus $j^2$ is some letter which multiplied into $i$ gives
+$i$. But since this is true of $j$, it cannot, by our hypothesis,
+be true of any other letter, and it must be that $j^2 = j$. Thus,
+if $i^2$ is not $i$, there is some other letter whose square is
+the letter itself. We may assume, then, $i^2$ to be that letter,
+and we shall have $i^2 = i$. Then what will any other letter
+say $j$, give when multiplied by $i$? Since $i^2 = i$, we have $ij = i^2 j$
+$= i(ij)$. But according to our hypothesis if $i$ were not equal
+
+[marginalia]
+*Not that this is
+to be true of
+all quantities of
+the algebra, but
+only of the six
+single letters.
+For the larger
+condition would
+render the
+problem
+impossible.
+[/marginalia]

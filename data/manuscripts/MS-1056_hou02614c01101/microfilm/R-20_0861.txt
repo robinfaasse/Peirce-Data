@@ -1,0 +1,24 @@
+$$\phi^{0} = \frac{1}{2} (2 + 0\sqrt{5}) = 1.0000000 = \phi^{0}$$
+$$\phi^{1} = \frac{1}{2} (1 + 1\sqrt{5}) = 1.618034 = 1 + \phi^{1}$$
+$$\phi^{2} = \frac{1}{2} (3 + 1\sqrt{5}) = 2.618034 = 3 - \phi^{2}$$
+$$\phi^{3} = \frac{1}{2} (4 + 2\sqrt{5}) = 4.236068 = 4 + \phi^{3}$$
+$$\phi^{4} = \frac{1}{2} (7 + 3\sqrt{5}) = 6.854102 = 7 - \phi^{4}$$
+$$\phi^{5} = \frac{1}{2} (11 + 5\sqrt{5}) = 11.090170 = 11 + \phi^{5}$$
+$$\phi^{6} = \frac{1}{2} (18 + 8\sqrt{5}) = 17.944272 = 18 - \phi^{6}$$
+$$\phi^{7} = \frac{1}{2} (29 + 13\sqrt{5}) = 29.034442 = 29 + \phi^{7}$$
+$$\phi^{8} = \frac{1}{2} (47 + 21\sqrt{5}) = 46.978714 = 47 - \phi^{8}$$
+$$\phi^{9} = \frac{1}{2} (76 + 34\sqrt{5}) = 76.013156 = 76 + \phi^{9}$$
+$$\phi^{10} = \frac{1}{2} (123 + 55\sqrt{5}) = 122.991870 = 123 - \phi^{10}$$
+
+We have also
+$$\phi = \frac{1}{1 + \frac{1}{1 + \frac{1}{1 + \frac{1}{1 + \text{ etc}}}}}$$
+
+The successive approximations to which are $\frac{0}{1}, \frac{1}{1}, \frac{1}{2}, \frac{2}{3}, \frac{3}{5}, \frac{5}{8}, \frac{8}{13}$ etc.
+
+We may now reduce the above equation for $\{M_{i-1} - M_{i}\}$, thus:–
+$$\{M_{i-1} - M_{i}\} = \phi (M_{i-1} - M_{i}) + \phi^{2} (M_{i-1} - M_{i+1}) [del]\boldsymbol{-}[/del] [ins]\boldsymbol{+}[/ins] \phi^{2} \{M_{i} - M_{i+1}\}$$
+But by analogy
+$$\{M_{i} - M_{i+1}\} = \phi (M_{i} - M_{i+1}) + \phi^{2} (M_{i} - M_{i+2}) - \phi^{2} \{M_{i+1} - M_{i+2}\}$$
+Substituting this value in the preceding equation,
+$$\{M_{i-1} - M_{i}\} = \phi (M_{i-1} - M_{i}) + \phi^{2} (M_{i-1} - M_{i+1}) - \phi^{3} (M_{i} - M_{i+1}) - \phi^{4} (M_{i} - M_{i+2})$$
+$$+ \phi^{4} \{M_{i+1} - M_{i+2}\}$$

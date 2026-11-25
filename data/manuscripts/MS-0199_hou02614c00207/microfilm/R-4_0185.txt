@@ -1,0 +1,20 @@
+[pn]MM
+D, 60[/pn] [pn]101[/pn]
+
+[u]Example 2.[/u] Requires both roots of the equation $x^{10} - 101 x + 10 = 0$.
+
+I intend to treat this in such a manner as to illustrate a certain point
+about the method. Since the two roots, evidently both positive, are roughly
+in the ratio of [del]3 to 8[/del] [ins]11 to 1000 (tentatively)[/ins], the equation ought to be transformed so as to make the
+ratio of
+their moduli much more extreme. We may put [del]$x = \frac{y}{2}$ when $\frac{y^{10}}{1024} - \frac{101}{2} y + 10 = 0$[/del]
+
+$x = y + 11$, when $x^2 = y^2 + 22y + 121$, and the equation will be $\frac{y^{10} - 19y}{101} = 1$. The
+problem
+[del]equation[/del] is much better adapted to decimal computation than to duodecimal,
+since division by powers of five can give rise to no circulants in
+the decimal system, while in the duodecimal, since five is a prime, one fifth
+may be expected to be expressed by a circulant of four places, and every
+power of five by a circulant of five times as many places as the next lower
+power; and in fact five is no [del]exception to this general rule, though[/del]
+[del]exceptions are so frequent that it can hardly be called a rule without misgiv-[/del]

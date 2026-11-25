@@ -1,0 +1,37 @@
+[u]Formulae relating to Haversines[/u] [fig]small sketch of an angle[/fig]
+
+$\text{hav }\alpha = \frac{1}{2}(1-\cos\alpha)$
+$= \frac{1}{2}(1-\sqrt{1-\sin^2\alpha})$
+$= \sin^2\frac{\alpha}{2}$
+$= 1-\cos^2\frac{\alpha}{2}$
+$= (1-\cos\frac{\alpha}{2})(1+\cos\frac{\alpha}{2})$
+$= 1/(1+\cot^2\frac{\alpha}{2})$
+
+$\text{hav}-\alpha = \text{hav }\alpha$
+$\text{hav}(180^\circ-\alpha)=1-\text{hav }\alpha$
+$\frac{1}{2}\cos = \frac{1}{2}-\text{hav}$
+$1-2\text{hav }\alpha = \cos\alpha$
+
+$\text{hav }\alpha - \text{hav }\beta = \sin\frac{1}{2}(\alpha+\beta)\sin\frac{1}{2}(\alpha-\beta)$
+
+$\sin\alpha\sin\beta = \text{hav}(\alpha+\beta) - \text{hav}(\alpha-\beta)$
+
+$\cos b\cos c = \sin(90^\circ-b)\sin(90^\circ-c)$
+$= \text{hav}(180^\circ-b-c) - \text{hav}(c-b)$
+$= 1 - \text{hav}(b+c) - \text{hav}(b-c)$
+
+$\sin b\sin c = \text{hav}(b+c) + \text{hav}(b-c)$
+
+[del]$\text{hav}(b+c)\cos A$[/del]
+$\sin b\sin c\cos A = \frac{1}{2}\cos(b-c)\cos A - \frac{1}{2}\cos(b+c)\cos A$
+$= \frac{1}{4}\cos(b-c-A) + \frac{1}{4}\cos(b-c+A)$
+$- \frac{1}{4}\cos(b+c-A) - \frac{1}{4}\cos(b+c+A)$
+$= \frac{1}{2}\text{hav}(b-c-A) + \frac{1}{2}\text{hav}(b-c+A)$
+$- \frac{1}{2}\text{hav}(b+c-A) - \frac{1}{2}\text{hav}(b+c+A)$
+
+[del]$\cos a = 1 - \text{hav}(b+c) - \text{hav}(b-c)$[/del]
+[ins]$1-2\text{hav }a$[/ins]
+$+ \frac{1}{2}\text{hav}(b-c-A) + \frac{1}{2}\text{hav}(b-c+A)$
+$- \frac{1}{2}\text{hav}(b+c-A) - \frac{1}{2}\text{hav}(b+c+A)$
+
+$\text{hav }a = \frac{1}{2}\text{hav}(b+c) + \frac{1}{2}\text{hav}(b-c) - \frac{1}{4}\text{hav}(b-c-A)$

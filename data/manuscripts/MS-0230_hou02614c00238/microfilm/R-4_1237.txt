@@ -1,0 +1,22 @@
+[fig]Three sketches of cubic curves[/fig]
+
+$3H^2 - 2([x^2]+[y^2]+[z^2])H$
+$+([x^2][y^2]+[y^2][z^2]+[z^2][x^2]) - ([x^2]^2+[y^2]^2+[z^2]^2) = 0$
+$2\text{ real roots}$
+
+$6H - 2([x^2]+[y^2]+[z^2]) = 0$
+$\text{Put } H = \frac{1}{3}([x^2]+[y^2]+[z^2])$
+$\text{If that makes cubic positive}$
+$3\text{ real roots}$
+$H^2 - 2\frac{[x^2]+[y^2]+[z^2]}{3}H + (\quad)^2$
+$= \frac{[x^2]^2+[y^2]^2+[z^2]^2 - [x^2][y^2]-[y^2][z^2]-[z^2][x^2] - [x^2][y^2]}{9}$
+$+ [x^2]^2 + [ \quad ]$
+
+$x^3 + ax^2 + bx + c = 0$
+[del]$2ax + b$[/del]
+$x^2 + 2ax + b = 0$
+$2x + 2a = 0$
+$x = -a$
+$a^2 - 2a^2 + b$
+$b - a^2 < 0$
+$\text{If } a^2 > b \text{ Two real roots}$

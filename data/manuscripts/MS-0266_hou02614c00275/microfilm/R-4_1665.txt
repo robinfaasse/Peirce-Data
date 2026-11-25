@@ -1,0 +1,39 @@
+$$x \left[ p A + \frac{1-p}{3} (B+C+D) \right] + (1-x) B$$
+$$= y \left[ q B + \frac{1-q}{3} (A+C+D) \right] + (1-y) A$$
+
+$$\left( 1 - \frac{q}{4} \right) A + \frac{q}{4} (A+B+C+D)$$
+$$\left( 1 - \frac{3}{4} q \right) + \frac{q}{4} (B+C+D)$$
+
+$$x p A + \left( 1 - x + x \frac{1-p}{3} \right) B + x \frac{1-p}{3} (C+D)$$
+$$x p + \left( 1 - \frac{2+p}{3} x \right) B + x \frac{1-p}{3} (C+D)$$
+$$= \left( 1 - \frac{2+q}{3} y \right) A + y q B + y \frac{1-q}{3} (C+D)$$
+
+$$y = x \frac{1-p}{1-q}$$
+$$y q = x \frac{q}{1-q} (1-p) = 1 - \frac{2+p}{3} x$$
+$$x = \frac{1}{\frac{q}{1-q} (1-p) + \frac{2+p}{3}} = \frac{3(1-q)}{3(1-p)q + 2(1-q) + p(1-q)}$$
+
+$$p \begin{array}{l} 3q - 3pq \\ -2q - pq \\ \hline p + q - 4pq + 2 \end{array} + 2$$
+
+[del]
+$$\begin{array}{c}
+2p + 2q - 8pq + 4 \\
+\hline p + 2q + p
+\end{array}$$
+[/del]
+
+$$\begin{array}{l} 3p + 3q - 3pq \\ \phantom{3p + 3q} -3pq \\ +2 + 2p - 2q + 2pq \\ \hline 2 + p + q - 4pq \end{array}$$
+
+$$\frac{(2+p)(1-q)}{p - 2q - pq + 2}$$
+
+[del]
+$$\begin{array}{l}
+p + q - pq \\
+\hline p + q + pq
+\end{array}
+$$
+[/del]
+
+$$\frac{3p(1-q) A + 3(1-p)q B + (1-p)(1-q) (C+D)}{2+p+q-4pq}$$
+
+$$\frac{3q - 3pq}{1 - p - q + pq}$$
+$$\frac{}{3(1-pq) - (1-p)(1-q)}$$

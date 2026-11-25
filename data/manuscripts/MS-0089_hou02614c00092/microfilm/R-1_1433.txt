@@ -1,0 +1,22 @@
+[u]Theory of Quaternion Functions[/u]
+
+Let the variable be $t + xi + yj + zk$
+The function $p + ui + vj + wk$.
+Suppose there is a derivative
+$F(t + xi + yj + zk + \delta) - F(t + xi + yj + zk) = F'(t + xi + yj + zk) \cdot \delta$
+$[F(t + xi + yj + zk + \delta) - F(t + xi + yj + zk)] \frac{1}{\delta} = F'(t + xi + yj + zk)$
+
+$= D_t p + D_t u \cdot i + D_t v \cdot j + D_t w \cdot k$
+$= D_x u - D_x p \cdot i - D_x w \cdot j + D_x v \cdot k$
+$= D_y v + D_y w \cdot i - D_y p \cdot j - D_y u \cdot k$
+$= D_z w - D_z v \cdot i + D_z u \cdot j - D_z p \cdot k$
+
+$D_t p = D_x u = D_y v = D_z w$
+$D_t u = - D_x p = - D_y w = - D_z v$
+$D_t v = - D_x w = - D_y p = - D_z u$
+$D_t w = - D_x v = - D_y u = - D_z p$
+
+$F'' = D_t^2 p + D_t^2 u \cdot i + D_t^2 v \cdot j + D_t^2 w \cdot k$
+$= - D_x^2 p - D_x^2 u \cdot i - D_x^2 v \cdot j - D_x^2 w \cdot k$
+$= D_x D_y w - D_x D_y v \cdot i + D_x D_y u \cdot j - D_x D_y p \cdot k$
+$= - D_y D_x w - D_y D_x v \cdot i - D_y D_x u \cdot j + D_y D_x p \cdot k$

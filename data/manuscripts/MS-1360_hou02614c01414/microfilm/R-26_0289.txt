@@ -1,0 +1,33 @@
+[pn]9[/pn]
+Report on Monson's Bridge
+
+adopt the formula to a closer approximation. Having, then, as before,
+and
+[align=center]
+$K = \frac{\delta c y'_k}{q' a^2}$ $A' = \frac{E}{K}$,
+$A = \frac{E}{K} \frac{q}{q'} + \delta A$
+$dx' = \frac{E}{q'} \frac{1}{K} d\xi$,
+[/align]
+we have
+[align=center]
+$\delta \frac{1}{\sqrt{A^2 + q'^2 (x' - \frac{1}{2} a)^2}} = - \frac{K^2 \frac{q'^2}{q^2} \delta A}{E^2 q' (1 + \xi^2)^{\frac{3}{2}}}$
+[/align]
+and equation (41) becomes
+
+(43) $x = \frac{q K}{E} \int \frac{\sqrt{1+\xi^2} + K \frac{q'}{q}}{\sqrt{1+\xi^2} + K} d\xi + \delta A \cdot q' \frac{K^2}{E^2} \int \frac{\sqrt{1+\xi^2} + K \frac{q'}{q}}{\sqrt{1+\xi^2} + K} d\xi - \frac{\delta A}{q} \int \frac{d\xi}{(1+\xi^2)(\frac{1}{K}\sqrt{1+\xi^2}+1)}$
+
+[del]Of[/del] The two integrals, which we may denote by $S$ and $T$, have the following values:
+
+(44) $S = \int \frac{\sqrt{1+\xi^2} + K \frac{q'}{q}}{\sqrt{1+\xi^2} + K} d\xi = \xi + K \frac{q-q'}{q} \log [\sqrt{1+\xi^2} - \xi] + \frac{K^2}{\sqrt{K^2-1}} \frac{q-q'}{q} \log \frac{\sqrt{1+\xi^2} - \xi + K + \sqrt{K^2-1}}{\sqrt{1+\xi^2} - \xi + K - \sqrt{K^2-1}}$
+
+(45) $T = \int \frac{d\xi}{(1+\xi^2)(\frac{1}{K}\sqrt{1+\xi^2}+1)} = \log \frac{\sqrt{1+\xi^2}}{\sqrt{1+\xi^2}+K} + \frac{K}{\sqrt{K^2-1}} \log \frac{\sqrt{1+\xi^2} - \xi + K + \sqrt{K^2-1}}{\sqrt{1+\xi^2} - \xi + K - \sqrt{K^2-1}}$
+
+The integrals from $0$ to $\frac{1}{2} a$, which we may denote by $S_k$ and $T_k$, are:
+
+(46) $S_k = \int\limits_0^{\frac{1}{2} a} \frac{\sqrt{1+\xi^2} + K \frac{q'}{q}}{\sqrt{1+\xi^2} + K} d\xi = \frac{1}{2} a + K \frac{q-q'}{q} \log [\sqrt{1+\frac{1}{4}a^2} - \frac{1}{2}a] + \frac{K^2}{\sqrt{K^2-1}} \frac{q-q'}{q} \log \frac{(\sqrt{1+\frac{1}{4}a^2} - \frac{1}{2}a)(1+K-\sqrt{K^2-1}) + 1 + K + \sqrt{K^2-1}}{(\sqrt{1+\frac{1}{4}a^2} - \frac{1}{2}a)(1+K+\sqrt{K^2-1}) + 1 + K - \sqrt{K^2-1}}$
+
+(47) $T_k = \int\limits_0^{\frac{1}{2} a} \frac{d\xi}{(1+\xi^2)(\frac{1}{K}\sqrt{1+\xi^2}+1)} = \log \frac{(1+K)\sqrt{1+\frac{1}{4}a^2}}{K+\sqrt{1+\frac{1}{4}a^2}} + \frac{K}{\sqrt{K^2-1}} \log \frac{(\sqrt{1+\frac{1}{4}a^2} - \frac{1}{2}a)(1+K-\sqrt{K^2-1}) + 1 + K + \sqrt{K^2-1}}{(\sqrt{1+\frac{1}{4}a^2} - \frac{1}{2}a)(1+K+\sqrt{K^2-1}) + 1 + K - \sqrt{K^2-1}}$
+
+Equation (43) for the half-span gives an equation for determining $A$, namely,
+
+(48) $A = \frac{E}{K} \frac{q}{q'} - \frac{\frac{1}{2} a - \frac{q K}{E} S_k}{q' \frac{K^2}{E^2} S_k - \frac{1}{q} T_k}$

@@ -1,0 +1,33 @@
+[pn]617[/pn]
+
+How does TT do this sum?
+
+[fig]Geometric diagram with circle, triangles, and intersecting lines[/fig]
+
+- $B\Delta A = 3^{\circ} 24'$
+$\sin B\Delta A = [8.77310]$
+$BEA = \frac{1}{2}(AQB) = \frac{1}{2}(53^{\circ} 35') = 26\ 47\frac{1}{2}$
+$E\Delta Z = [del]30\ 11[/del] [ins]23\ 23\frac{1}{2}[/ins]$
+$\sin E\Delta Z = [9.59880]$
+$\frac{E\Lambda}{E\Delta} = \frac{\sin B\Delta A}{\sin E\Delta Z} = [9.17430]$
+
+$B\Delta\Gamma = 37'$
+$\sin B\Delta\Gamma = [8.03192]$
+$BE\Gamma = \frac{1}{2}(150^{\circ} 26') = 75^{\circ} 13'$
+$E\Gamma\Delta = 74^{\circ} 36'$
+$\sin E\Gamma\Delta = [9.98412]$
+$\frac{[del]E\Theta[/del]\ E\Gamma}{E\Delta} = \frac{\sin \Gamma\Delta B}{\sin E\Gamma\Delta} = [8.04780]$
+
+$AE\Gamma = \frac{1}{2}(96^{\circ} 51') = 48^{\circ} 25\frac{1}{2}'$
+$E\Gamma\Theta = 90^{\circ} - AE\Gamma = 41\ 34\frac{1}{2}$
+$\cos [del]\Theta[/del] E\Gamma = [9.82191]$
+$\sin [del]\Theta[/del] E\Gamma = [9.87396]$
+
+[fig]Geometric diagram with lines and points E, A, Gamma[/fig]
+
+[fig]Geometric diagram with points E, Gamma, Delta[/fig]
+
+$\frac{\Gamma\Theta}{E\Delta} = \frac{E\Gamma}{E\Delta} \frac{\Gamma\Theta}{E\Gamma} = \frac{E\Gamma}{E\Delta} \sin \Gamma E\Theta = [7.92176]$
+$\frac{E\Theta}{E\Delta} = \frac{E\Gamma}{E\Delta} \frac{E\Theta}{E\Gamma} = \frac{E\Gamma}{E\Delta} \cos \Gamma E\Theta = [7.86971]$
+
+[fig]Arithmetic calculations[/fig]

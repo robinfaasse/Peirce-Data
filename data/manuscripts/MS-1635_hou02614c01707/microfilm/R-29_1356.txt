@@ -1,0 +1,63 @@
+[fig]Right triangle with angle b[/fig]
+
+$\frac{r}{R} = \frac{\cosh b}{\tanh b} - \sqrt{\left(\frac{\cosh b}{\tanh b}\right)^2 - 1}$
+
+$\frac{\tanh b}{R} (r^2 + x^2) = x - \sqrt{x^2 - r^2 \frac{\tanh^2 b}{R^2}}$
+
+$R - [del]r[/del] = \frac{x}{\tanh b} + \sqrt{\left(\frac{x}{\tanh b}\right)^2 - r^2}$
+
+$R^2 - 2 \frac{R}{\tanh b} x + \frac{x^2}{\tanh^2 b} = \left(\frac{x}{\tanh b}\right)^2 - r^2$
+
+[del]$R^2 -[/del] $2 \frac{R}{\tanh b} x - R^2 = x^2 + y^2$
+
+$y^2 = 2 \frac{R}{\tanh b} x - x^2 - R^2$
+
+$y^2 = R^2 \left(\frac{1}{\tanh^2 b} - 1\right) - \left(x - \frac{R}{\tanh b}\right)^2$
+
+[fig]Circle with inscribed triangles and lines[/fig]
+
+$\frac{\cosh^2 b}{\sinh^2 b} - 1$
+$= \frac{1 + \sinh^2 b}{\sinh^2 b} - 1$
+$= \frac{1}{\sinh^2 b}$
+
+$\frac{x}{\tanh b} = \frac{R}{\tanh^2 b}$
+$x = R \frac{1}{\tanh b}$
+
+$\cos B = \cosh b \frac{1}{1 + \cos \psi}$
+
+[fig]Triangle with angle psi[/fig]
+
+$\tan \theta = \frac{\frac{R}{\tanh b}}{\frac{R}{\tanh b} - \cos \psi}$
+
+---
+
+[fig]Right triangle with angle b[/fig]
+
+$1 + \tanh^2 x = 2 \frac{\tanh x}{\tanh 2x}$
+
+$\tanh^2 x - 2 \frac{\tanh x}{\tanh 2x} + \frac{\tanh^2 2x}{\tanh^2 2x} = \frac{\tanh^2 2x}{\tanh^2 2x} - 1$
+
+$\tanh x - \frac{1}{\tanh 2x} = \sqrt{\frac{1}{\tanh^2 2x} - 1}$
+
+$\tanh x = \frac{1}{\tanh 2x} \pm \sqrt{1 - \tanh^2 2x}$
+
+$\frac{R}{\tanh b} : R = R : x$
+
+$\frac{x \cdot R}{\tanh b} = R^2$
+
+$x = R \tanh b$
+
+$\cos 2x = \cos^2 x - \sin^2 x$
+$= 1 - 2 \sin^2 x$
+
+$\frac{\sin 2x}{\cos x} = 2 \sin x = \frac{1 - \cos 2x}{\sin x}$
+
+$\tan x = \frac{1 - \cos 2x}{\sin 2x} = \frac{\sqrt{1 - \sin^2 2x} - 1}{\sin 2x}$
+
+[fig]Triangle with angle theta and sides R Tanh b, w[/fig]
+
+$R \left(\frac{1}{\tanh b} - \frac{1}{\sinh b}\right) = R \frac{\cosh b - 1}{\sinh b}$
+
+$= R \frac{2 \sinh^2 \frac{b}{2}}{\sinh b} = R \frac{\sinh \frac{b}{2}}{\cosh \frac{b}{2}} = R \tanh \frac{b}{2}$
+
+$\tan^2 = \frac{\sin^2}{\cos^2} = \frac{1 - \cos^2}{\cos^2} = \sec^2 - 1$

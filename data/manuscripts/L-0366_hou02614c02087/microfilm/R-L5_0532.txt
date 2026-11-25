@@ -1,0 +1,34 @@
+[marginalia]
+1909
+[date]June 30[/date]
+[pn]14[/pn]
+[/marginalia]
+
+We now want to find out what the law of [del]the[/del] the coefficients is.
+The quotient of our long division shows that
+
+$$\frac{D_x}{e^{D_x}-1} = 1 - \frac{D_x}{2} + R$$ where $R$ is the sum of all the remaining
+terms. Transposing $\frac{D_x}{2}$ to the other side [ins]$\frac{D_x}{e^{D_x}-1} + \frac{D_x}{2} = 1+R$[/ins]
+Reducing the terms of the first member to a common denominator
+$$1+R = \frac{1}{2} D_x (\frac{2+e^{D_x}-1}{e^{D_x}-1}) = \frac{1}{2} D_x \frac{e^{D_x}+1}{e^{D_x}-1} = \frac{D_x}{2} \frac{e^{\frac{D_x}{2}} + e^{-\frac{D_x}{2}}}{e^{\frac{D_x}{2}} - e^{-\frac{D_x}{2}}}$$
+
+Now when we change the sign $D_x$ in this expression it becomes $-\frac{D_x}{2} \frac{e^{-\frac{D_x}{2}} + e^{\frac{D_x}{2}}}{e^{-\frac{D_x}{2}} - e^{\frac{D_x}{2}}}$
+There is a change in the sign of the denominator & a change of the sign
+of the whole expression, without any other change at all. This proves
+that all the terms, each and every of them, involve only [ins]even[/ins] [del]even[/del] powers
+of $D_x$ Since this is [del]the[/del] thus seen to be true of $\frac{D_x}{e^{D_x}-1}$ it follows
+that $\frac{1}{e^{D_x}-1}$ involves no other even power of $D_x$ except the
+term $-\frac{1}{2}$.
+
+At this point Boole makes one of his
+flying leaps quite over the bars of mathematical reasoning
+which by some secret logic that he certainly did not himself
+understand invariably [del]brought[/del] landed him safely. He asks us to
+denote $e^{D_x}-1$ by $\theta$, — a most harmless request. With that
+substitution $\frac{D_x}{e^{D_x}-1}$ will take the form $\frac{nat \log (1+\theta)}{\theta}$. Now if $\theta$, instead
+of being standing for an operation, stood for a number less than 1,
+we know that we should have
+[del]nat log[/del] $nat \log (1+\theta) = \theta - \frac{1}{2}\theta^2 + \frac{1}{3}\theta^3 - \frac{1}{4}\theta^4 + \text{etc}$
+$\frac{nat \log (1+\theta)}{\theta} = 1 - \frac{1}{2}\theta + \frac{1}{3}\theta^2 - \frac{1}{4}\theta^3 + \text{etc}$
+Accordingly he writes
+$$\frac{D_x}{e^{D_x}-1} = 1 - \frac{e^{D_x}-1}{2} + \frac{(e^{D_x}-1)^2}{3} - \frac{(e^{D_x}-1)^3}{4} + \text{etc.}$$

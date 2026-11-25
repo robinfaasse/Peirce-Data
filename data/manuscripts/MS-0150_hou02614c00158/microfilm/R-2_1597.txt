@@ -1,0 +1,31 @@
+the upper sign gives [ins]a[/ins] positive value if $QT > PT$, but otherwise not. This
+the distance between $Q$ and $P$ is [del]in the ratio[/del] to the difference
+of signate distances as $PT$ is to $PP'$. [del]In like manner[/del] [ins]The same is true for $S$ and $R$.[/ins]
+Hence, the [del]theorem[/del] [ins]lemma[/ins] follows. [pn]P[/pn]
+
+Now, the point $[A]$ [del]lies[/del] is on $\{b\}$ at the distance $p$ from $\{a\}$;
+and the point $[C]$ is at the distance zero from $\{a\}$. Hence,
+proceeding from $[A]$ [del]toward[/del] [ins]in[/ins] the direction toward $[C]$ for any
+given proportion of the distance $AC$, will diminish the
+distance from $\{a\}$ in the same proportion. Thus, suppose
+a point to lie on $\{AC\}$ at a signate distance, $z$, from $[A]$
+measured positively toward $[C]$. Then, $x$, [del]the[/del] [ins]signate[/ins] [del]distance[/del] [ins]of the point[/ins] from
+$\{a\}$, will be [del]$x$[/del] $p \left(1 - \frac{z}{|AC|}\right) = x$.
+
+In like manner, since $[A]$ is at distance, $0$, from $\{b\}$, and
+$[C]$ is at distance $q$ from $\{b\}$, the point just considered
+will have
+$$y = q \frac{z}{|AC|}$$
+
+Hence
+$$\begin{aligned}
+x / p &= 1 - \frac{z}{|AC|} \\
+y / q &= \phantom{1 - {}} \frac{z}{|AC|}
+\end{aligned}$$
+
+$$\frac{x}{p} + \frac{y}{q} = 1$$
+
+Multiplying by $d$, this gives
+$$mx + ny = d.$$
+
+It is to be [del]But it[/del] remembered that $x$ and $y$ are here the signate dis-

@@ -1,0 +1,20 @@
+$a \prec b$                                     $a \prec b (c \prec$
+                                                $a \prec \overline{b} a$
+$(a \prec b) \prec c \prec d = \begin{cases} [del](f \prec a \prec d)[/del] \\ b \prec c \prec d \\ (a \prec b) \prec c \prec d \end{cases}$
+$(a \prec b \prec c) \prec (d \prec e) \prec f \begin{cases} c \prec e \prec f \\ c \prec (d \prec \overline{b} \prec f \\ (b \prec f) \prec e \prec f \\ (b \prec f) \prec (d \prec f) \prec f \\ (a \prec f) \prec e \prec f \\ (a \prec f) \prec (d \prec f) \prec f \end{cases}$
+
+$[(a \prec b \prec c) \prec d \prec e] \prec f \prec g$
+$(\overline{a} \prec \overline{b} + c) d \prec \overline{e} + \overline{f} + g$           $e \prec f \prec g$
+$\overline{a} + \overline{b} + c + \overline{f} + g$           $(d \prec g) \prec f \prec g$
+                                        [del]$\&$[/del]
+                                        $a \prec b \prec (c \prec g) \prec f \prec g$
+
+$(\overline{f} + \overline{e} + d) \overline{c} + \overline{b} + a$   $[(f \prec e \prec \delta) \prec c] \prec b \prec a$
+$[( [del](b \prec c)[/del] \prec [del](d \prec e \prec f)[/del] ) \prec ( [del][g \prec h][/del] \prec [del][i \prec j][/del] \prec k )] \prec l \prec m \prec [del]a[/del] \prec b \prec a$
+$(d \overline{c} + d \overline{e} + f) ( \overline{g} h + \overline{i} j \overline{k} ) \overline{l} + m \prec [del]f[/del] \prec e \prec (\delta \prec a) \prec b \prec a$
+[del]Form every consequence which can be formed by replacing every[/del]
+Begin with [del]the[/del] [ins]an[/ins] innermost evenly enclosed partial consequence, T, by [del]a consequence[/del] [ins]every[/ins] [del]Write under each of these, a consequence[/del]
+[del]having the same ultimate consequent and for its antecedental[/del]
+[del]all the first antecedental of T[/del]
+[del]or with any or all of those antecedental replaced[/del]
+[del]by a consequence having for its [del]consequent[/del] [ins]simple[/ins] antecedental an antecedental of that antecedental of T which it replaces and for its consequent the consequent of T[/del]

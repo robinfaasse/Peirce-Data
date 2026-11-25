@@ -1,0 +1,31 @@
+[pn]1[/pn]
+$$x^1 = [x-1]\circ 1$$
+$$= [x-1]\circ 2] + [(x-2)\circ 2]$$
+$$x^3 = [(x-1)\circ 3] + 4[(x-2)\circ 3] + [(x-3)\circ 3]$$
+$$x^4 = [(x-1)\circ 4] + 11[(x-2)\circ 4] + 11[(x-3)\circ 4] + [(x-4)\circ 4]$$
+$$x^5 = [(x-1)\circ 5] + 26[(x-2)\circ 5] + 66$$
+$$x^6 = [(x-1)\circ 6] + 57[(x-2)\circ 6] + 302$$
+$$x^n = [x-1]\circ n] + (2^n - [n\circ 1])[x-2]\circ n] + [del](3^n[/del]$$
+
+[del]$$3^n - [n\circ 1]2^n + [n\circ 2][x-3]\circ n] + [n\circ 1][n\circ 2][/del]$$
+
+$$\frac{x(x-1)}{1\cdot 2} = \frac{(x-2)\circ 2}{2}$$
+
+$$\frac{x}{1} = (x-1)\circ 1$$
+
+$$1 = [x\circ 0] = \frac{(x+0)!}{x! 0!}$$
+
+$$\frac{0}{x+1} = [(x+1)\circ -1] = \frac{0!}{(x+1)! (-1)!} = 0$$
+
+$$\frac{(-1)!}{(x+m-1)! (-m)!}$$
+
+$$\frac{(x-1)!}{(x-m-1)! (m!)} = [(x-m-1)\circ m]$$
+
+$$\Delta (-m)! [(x+m-1)\circ (-m)]$$
+$$= (-m)! [(x+m)\circ (-m-1)]$$
+$$= -m (-1-m)! [(x+m)\circ (-m-1)]$$
+
+$$(x-1)! = \frac{x!}{x}$$
+$$(x+1)! = (x+1)x!$$
+
+[fig]Calculations and scratch work[/fig]

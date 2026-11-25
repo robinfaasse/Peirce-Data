@@ -1,0 +1,28 @@
+[marginalia]
+[u]Logic[/u]
+[u]III[/u]
+43
+[/marginalia]
+
+The operations $\Phi_m$, $\Phi_i$, $\Phi_l$, $\Phi_o$, are idempotent; that
+is [del]repetition[/del] [ins]their repetition[/ins] has no effect. $\Phi_j$ and $\Phi_k$ are [del]o-potent[/del]
+$o$-potent, as we may say, that is $\Phi_j\Phi_j = \Phi_k\Phi_k = \Phi_o$. $\Phi_n$ is
+$m$-potent. $\Phi_n\Phi_n = \Phi_m$. $\Phi_m$ and $\Phi_o$ combine in this fashion,
+where for the sake of clearness, the $\Phi$s are omitted
+
+[fig]Diamond grid with letters m and o[/fig]
+
+So $\Phi_m$ and $\Phi_l$, $\Phi_m$ and $\Phi_i$, and $\Phi_o$, $\Phi_l$ and $\Phi_o$ all
+combine $m$-wise. $\Phi_j$ and $\Phi_o$ and $\Phi_k$ and $\Phi_o$ combine
+so as always to produce $\Phi_o$. $\Phi_m$ and $\Phi_n$ combine thus
+
+[fig]Diamond grid with letters m and n[/fig]
+
+The triplets $\Phi_m, \Phi_i, \Phi_o$ and $\Phi_m, \Phi_l, \Phi_o$ combine thus
+
+[fig]Diamond grid with letters m, i, o[/fig]
+[fig]Diamond grid with letters m, l, o[/fig]
+
+Each $\Phi_m, \Phi_n, \Phi_o$ combine thus
+
+[fig]Diamond grid with letters m, n, o[/fig]

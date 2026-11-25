@@ -1,0 +1,27 @@
+$$N = \left\{ m_{0}(h_{0}^{2} + \gamma_{0}^{2}) + mr^{2} \right\} \left\{ gmh + \varepsilon \right\} + \left\{ gmh_{0} + gml + \varepsilon \right\} m(h^{2} + \gamma^{2}) + 2mrh\varepsilon$$
+
+$$= \left\{ m_{0}(h_{0}^{2} + \gamma_{0}^{2}) + mr^{2} \right\} [del]g[/del] [ins]\omega[/ins] \frac{gmh}{\omega} + \left\{ gmh_{0} + gm(l-h) + \frac{gmh}{\omega} \right\} m(h^{2} + \gamma^{2}) + 2\frac{mrh}{\omega} - 2grm^{2}h^{2}$$
+
+$$\omega M = gmh \left\{ m_{0}(h_{0}^{2} + \gamma_{0}^{2}) + mr^{2} + m(h^{2} + \gamma^{2}) + 2mhr \right\}$$
+$$+ gm^{2} \left\{ [del]m_{0}[/del] (h^{2} + \gamma^{2}) [del]\left[ m_{0}h_{0} + m(l-h) \right][/del] - 2mrh^{2} [del]\right\}[/del] \right\}$$
+
+$$\begin{array}{l}
+m(r-h)h^{2} - 2mrh^{2} \\
+- m(r+h)h^{2}
+\end{array} \qquad r(\gamma^{2}-h^{2}) - h(\gamma^{2}+h^{2})$$
+
+$$\frac{\omega M}{\omega N} = \frac{1}{g} \frac{MHL + \frac{\omega}{h} \left\{ m_{0}h_{0}(h^{2}+\gamma^{2}) + m \left\{ (r-h)\gamma^{2} - h^{2}(r+h) \right\} \right\}}{MH - mh\omega}$$
+
+$$= \frac{1}{g} \left\{ 1 + \omega \frac{m_{0}}{M} \frac{h_{0}}{H} \frac{h + \frac{\gamma^{2}}{h}}{L} + \frac{m}{M} \frac{r - \frac{\gamma^{2}}{h}}{H} - \frac{\gamma^{2}}{hL} - \frac{m}{M} \frac{m}{H} \frac{h}{L} + \frac{m}{M} \frac{h}{H} \right\}$$
+
+$$\frac{1}{G} \left\{ 1 + \frac{m}{M} \left\{ \frac{h}{H} (1 - \frac{h}{L}) - \frac{\gamma^{2}}{hL} + \frac{r(\frac{\gamma^{2}}{h} - h)}{hL} \right\} \right\}$$
+
+$$[del]\theta =[/del] \theta = \theta_{0} + \delta\theta = (1-\omega)\theta_{0}$$
+
+$$\Delta E = -mrh\omega - m(h^{2}+\gamma^{2})\omega$$
+$$= m \left\{ -\gamma^{2} - (r+h)h \right\}$$
+
+$$\begin{array}{l}
+\frac{h}{H} \left[ \frac{m_{0}}{M} \frac{h_{0}}{L} + \frac{m}{M} (1 - \frac{r+h}{L}) \right] \\
+\qquad + \frac{\gamma^{2}}{hL} \frac{h_{0}}{h} \frac{m_{0}}{M} + \frac{m}{M} \frac{[del]r[/del]-h}{h}
+\end{array}$$

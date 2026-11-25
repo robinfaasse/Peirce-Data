@@ -1,0 +1,30 @@
+[u]Art[/u] . [u]Problem. To find the greatest common[/u]
+[del]divisor of two numbers[/del].
+
+[u]Solution[/u]. Divide the greater by the smaller, the
+smaller by the remainder, the first remainder by the
+[del]second[/del] and so on, until [del]there remainder is[/del] Then, the
+last remainder before the remainder zero, is the greatest
+common factor. If it is a divisor it is the greatest common
+divisor; if not, there is no common divisor and the
+numbers are prime to one another.
+
+[u]Demonstration[/u]. Let M and N be the numbers
+of which N > M. Then if $Q_1, Q_2, Q_3$, etc. are the
+successive quotients, and $R_1, R_2, R_3$, etc the [del]first[/del] [ins]successive[/ins]
+remainders,
+$$M = Q_1 N + R_1$$
+Let $X_0$ be the greatest common [del]divisor[/del] [ins]factor[/ins] of M and N, $X_1$
+that of N and $R_1$, $X_2$ that of $R_1$ and $R_2$, etc.
+
+Then $N/X_1$ and $R_1/X_1$ are whole numbers. Hence
+$$M = [del](M/X_1) X_1 =[/del] (Q_1 N/X_1) X_1 + (R_1/X_1) X_1$$
+$$= (Q_1 N/X_1 + R_1/X_1) X_1$$
+Then unless $X_1 = 0$, when $M/X_1 = Q_1 N/X_1 + R_1/X_1$, and since
+$N/X_1$ and $R_1/X_1$ are whole numbers, so is [del]M/X[/del] $Q_1 N/X_1$ and
+so is $M/X_1$. Thus $X_1$ is a common factor of M and N.
+
+Also, because $X_0$ is a factor of M and of N, $M/X_0$ and $N/X_0$ are
+whole numbers. Hence $Q_1 N/X_0$ is a whole number and since
+[del]M/X_0 - Q_1 N/X_0 = (M[/del]
+$(M/X_0) X_0 - (Q_1 N/X_0) X_0 = (M/X_0 - Q_1 N/X_0) X_0 = (R_1/X_0) X_0$,

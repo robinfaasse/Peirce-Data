@@ -1,0 +1,74 @@
+[pn]1[/pn]
+$$([del]D[/del]i' + [del]E[/del]m' + [del]F[/del]n') (Ai + Bm' + Cn') =$$
+
+$$\begin{array}{c|c|c|c|c|c}
+& i'' & j'' & k'' & l'' & m'' & n'' \\
+\hline
+AD & & & & -BD & -CD \\
+-BE & & -CE & & +AE & \\
+-CF & & & -BF & & AF \\
+\hline
+\end{array}$$
+
+$$(Ai' + Bm' + Cn') [ (AD - BE - CF)i'' - CEj'' - BFk'' + (AE - BD)m'' + (AF - CD)n'' ]$$
+
+$$\begin{array}{c|c|c|c|c|c}
+& i' & j' & k' & l' & m' & n' \\
+\hline
+A^2D - ABE - ACF & -ACE & -ABF & 0 & -A^2E + ABD & -A^2F + ACD \\
+[del]\begin{array}{c} / \\ -ABE + B^2D \\ -ACF + C^2D \end{array}[/del] & [del]\begin{array}{c} ABD - BE - BCF \\ ABF + BCD \end{array}[/del] & & -B^2F & [del]\begin{array}{c} ABD - B^2E - BCF \\ ABE - B \\ -BCF \end{array}[/del] & -BCE \\
+& & -ACE + BCD & -C^2E & & ACD - BCE - C^2F \\
+\hline
+A^2D - 2ABE - 2ACF & [del]-ACE[/del] & -ABF [del]-ACE[/del] & [del]-B^2F - C^2E[/del] & -A^2E + 2ABD & -A^2F + 2ACD \\
++ B^2D + ACE & [del]-ABF + BCD[/del] & + BCD & & - 2BCF & - 2BCE \\
++ C^2D [del]+ ABF[/del] & & & & - B^2E & - C^2F \\
+[del]- BCD[/del] & & & & + B^2F + C^2E & + B^2F + C^2E \\
+\end{array}$$
+
+$$\begin{array}{l}
+i.ii = [del]i.i[/del] i.i = i \\
+[del]i.m[/del] \\
+i.mi = im = -m \\
+i.ni = in = -n \\
+m.im = m(-m) = i
+\end{array}
+\quad
+\begin{array}{l}
+ii.i = i.i = i \\
+\\
+im.i = -mi = -m \\
+in.i = -ni = -n \\
+mi.m = m.m = 
+\end{array}
+\quad
+\left( \begin{array}{l}
+m'' = n' - l' \\
+= l - m - m + n \\
+n'' = l' - m' \\
+= m - n - n + l \\
+- m + 3n
+\end{array} \right)$$
+
+$$(n-l).(j-k)(n-l)$$
+$$[del]in + kl - jl - kn[/del]$$
+$$[del]m[/del] 2m - n - l$$
+
+$$\begin{array}{r}
+2k - i - j \\
++ k - i - 2j \\
+\hline
+3k - 3j
+\end{array}$$
+
+$$i'm' = \frac{(j-k)}{\sqrt{-3}} \frac{(n-l)}{\sqrt{-3}} = -\frac{1}{3} \left( \begin{array}{l} jn + kl - kn - jl \\ + m \\ - m'' \end{array} \right) \begin{array}{l} + m - l \\ - n \end{array}$$
+
+$$m'i' = \frac{(n-l)}{\sqrt{-3}} \frac{(j-k)}{\sqrt{-3}} = -\frac{1}{3} (nj + lk - nk - li) \quad [del]-l' = (m'' - n'')[/del]$$
+$$= -\frac{1}{3} (nk + lj - nj - lk) \quad [del]m' = \frac{n'-l'}{\sqrt{-3}} = \frac{l-2m+n}{\sqrt{-3}}[/del]$$
+
+$$[del](m'i') m'[/del]$$
+$$[del]m'i'.m' = m'(i'm') = -i'[/del]$$
+
+$$[del](im') =[/del] \quad [del]m'i'.m' = (m'm') =[/del]$$
+
+$$i''i = (2i - j - k)i \quad [del]i'i = i(m-n) =[/del]$$
+$$[del]l''i = (2l - m - n)i[/del] \quad [del]\begin{array}{l} i'l' = (i-k)l = n-m \\ l'i' = l(i-k) = m-n \end{array}[/del] \left| \begin{array}{l} il' = i(l-n) = m-n \\ l'i = (m-n)i = m-n \end{array} \right| \frac{m''-n''}{\sqrt{-3}} = \frac{m-n}{\sqrt{-3}} = l'$$

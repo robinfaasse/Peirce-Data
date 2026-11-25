@@ -1,0 +1,74 @@
+[u]Icosahedron[/u] Rotations about 3 faces continued
+
+[marginalia]
+AEI
+DHL
+
+[del]2 4 5[/del]
+=
+[/marginalia]
+$\begin{vmatrix}
+0 & 0 & 1 \\
+1 & 0 & 0 \\
+0 & 1 & 0
+\end{vmatrix}$
+$\begin{vmatrix}
+0 & 1 & 0 \\
+0 & 0 & 1 \\
+1 & 0 & 0
+\end{vmatrix}$
+
+[marginalia]
+BGI
+CFL
+
+[del]2 3 4[/del]
+[/marginalia]
+$\begin{vmatrix}
+0 & -1 & 0 \\
+0 & 0 & 1 \\
+-1 & 0 & 0
+\end{vmatrix}$
+$\begin{vmatrix}
+0 & 0 & -1 \\
+-1 & 0 & 0 \\
+0 & 1 & 0
+\end{vmatrix}$
+
+[marginalia]
+AFK
+DGJ
+
+[del]2 5 1[/del]
+[/marginalia]
+$\begin{vmatrix}
+0 & -1 & 0 \\
+0 & 0 & -1 \\
+1 & 0 & 0
+\end{vmatrix}$
+$\begin{vmatrix}
+0 & 0 & 1 \\
+-1 & 0 & 0 \\
+0 & -1 & 0
+\end{vmatrix}$
+
+[marginalia]
+BHK
+CEG
+
+5 4 3
+[/marginalia]
+$\begin{vmatrix}
+0 & 0 & -1 \\
+1 & 0 & 0 \\
+0 & -1 & 0
+\end{vmatrix}$
+$\begin{vmatrix}
+0 & 1 & 0 \\
+0 & 0 & -1 \\
+-1 & 0 & 0
+\end{vmatrix}$
+
+[marginalia]
+3 4 1
+[/marginalia]

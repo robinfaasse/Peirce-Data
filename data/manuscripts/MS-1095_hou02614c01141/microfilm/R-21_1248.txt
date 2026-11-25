@@ -1,0 +1,29 @@
+$$\chi = Ay + \frac{1}{2} B y \log (x^{2}+y^{2}) + C \frac{y}{x^{2}+y^{2}} + Ex$$
+
+$$v = -D_{x}\chi = [del]\text{A}[/del] - B \frac{xy}{x^{2}+y^{2}} + C \frac{2xy}{(x^{2}+y^{2})^{2}}$$
+
+$$u = D_{y}\chi = A + \frac{1}{2} B \log (x^{2}+y^{2}) + B \frac{y^{2}}{x^{2}+y^{2}} + C \frac{x^{2}-y^{2}}{(x^{2}+y^{2})^{2}}$$
+
+[ins][u]u[/u][/ins]
+[del]both[/del]
+It is required that this should vanish
+for $x^{2}+y^{2} = [del]\text{b}^{2}[/del]\ a^{2}$
+[del]and that for $x^{2}+y^{2}=a^{2}$ $u=U$ $v=0$.[/del]
+
+[del]Put $x^{2}+y^{2}=b^{2}$ $v=E$[/del]
+
+$$B = \frac{2C}{a^{2}} [del]\text{or}[/del] \quad v\text{ vanishes}$$
+$$C = \frac{1}{2} a^{2} B$$
+
+$$u = A + [del]\text{A}[/del] B \log a + [del]\text{A}[/del] [del]\frac{B}{2}[/del] \frac{1}{2} B$$
+
+$$\left[ \begin{array}{l} \\ U - \frac{1}{2} B - B \log a \end{array} \right.$$
+
+$$C \frac{x^{2}+y^{2}}{(x^{2}+y^{2})^{2}}$$
+
+[del]\frac{E(x^{2}+y^{2})^{2}}{4E(x^{2}+y^{2})}[/del]
+[del]4E(x^{2}+y^{2}) +[/del]
+
+[fig]Diagram showing a curve and a circle segment.[/fig] $- [del]\frac{B}{a^{2}}[/del] xy(x^{2}+y^{2})^{2} + xy$
+
+$$\frac{xy B}{x^{2}+y^{2}} \left( -xy(x^{2}+y^{2}) + a^{2} xy \right)$$

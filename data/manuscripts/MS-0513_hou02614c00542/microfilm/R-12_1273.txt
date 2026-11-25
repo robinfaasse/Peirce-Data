@@ -1,0 +1,36 @@
+[u]2[sup]nd[/sup] Step.[/u]
+
+Into the product thus obtained, it may be necessary to multiply
+propositions expressing general properties of the special universes
+referred to. This will be the second step.
+
+For example, if there are indices denoting characters, it may be
+necessary to take account of the fact that any [ins]collection[/ins] [del]set[/del] of objects what-
+ever have [del]all[/del] [ins]some common[/ins] character that is possessed by nothing else.
+
+The expression of such a proposition may require a kind of
+quantifiers not yet considered. These are of two varieties. In the
+row of quantifiers a quantifier or series of quantifiers may be en-
+closed in parentheses to mean that they can be repeated any number
+of times, or that there may be an inenumerable collection of such
+quantifiers, without producing falsity. Thus,
+
+[del]$\Sigma$[/del] $(\Pi_i) \Sigma_\alpha \Pi_i q_{\alpha i} \cdot (\Pi_j \Sigma_i [del]l_{ij} +[/del] \bar{q}_{\alpha j})$
+
+means to express the truth of any such proposition as
+
+$\Pi_i \Pi_j \Pi_k \Sigma_\alpha q_{\alpha i} \cdot q_{\alpha j} \cdot q_{\alpha k} \cdot (\Pi_x \bar{l}_{ix} + \bar{l}_{jx} + \bar{l}_{kx} + \bar{q}_{\alpha x})$
+
+where, of course, the $\Pi_x$ may be written directly after the $\Sigma_\alpha$.
+Or we may imitate Schröder in writing a letter vertically under a
+$\Pi$ or $\Sigma$ to mean, in the former case that any [del]logical[/del] predicate or
+in the latter that some predicate, may be substituted for that letter
+throughout. Thus
+
+$\Pi_{\underline{u}} \Sigma_\alpha \Pi_x \Pi_y (\bar{u}_x + q_{\alpha x}) \cdot (u_y + \bar{q}_{\alpha y})$
+
+will mean, for example, that substituting for $u$ $\Pi_i \Pi_j l_i + l_j$, it is true that
+
+$\Pi_i \Pi_j \Sigma_\alpha \Pi_x \Pi_y (\bar{l}_{ix} \cdot \bar{l}_{jx} + q_{\alpha x}) \cdot (l_{iy} + l_{jy} + \bar{q}_{\alpha y})$.
+
+It is easy to imagine other signs of the same general description.

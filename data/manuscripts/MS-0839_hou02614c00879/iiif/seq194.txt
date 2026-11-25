@@ -1,0 +1,23 @@
+839
+
+$A \prec \{ B \prec [ ( A \prec B \prec C ) \prec C ] \}$
+$A \prec \{ B \prec [ ( B \prec ( A \prec C ) ) \prec C ] \}$
+$A \prec \{ ( A \prec B ) \prec [ ( B \prec C ) \prec C ] \}$
+$A \prec \{ [del] ( B \prec B ) [/del] [ins] ( B \prec B ) [/ins] \prec [ ( A \prec C ) \prec B ] \}$
+$( B \prec A ) \prec \{ B \prec [ ( A \prec C ) \prec C ] \}$
+$( C \prec A ) \prec \{ B \prec [ ( B \prec C ) \prec A ] \}$
+$A \prec \{ [ A \prec ( C \prec B ) ] \prec ( C \prec B ) \}$
+$A \prec \{ [ C \prec ( A \prec B ) ] \prec ( C \prec B ) \}$
+$( C \prec A ) \prec [ ( A \prec B ) \prec ( C \prec B ) ]$
+$( B \prec A ) \prec [ ( C \prec B ) \prec ( C \prec A ) ]$
+$[ B \prec ( C \prec A ) ] \prec [ B \prec ( C \prec A ) ]$
+$[ A \prec ( B \prec A ) ] \prec [ B \prec ( C \prec A ) ]$
+
+$A \prec \{ L [ ( A \prec C ) \prec C ] \prec B \} \prec B$
+$A \prec \{ L [ ( A \prec C ) \prec B ] \prec B \} \prec C$
+$A \prec \{ L ( C \prec A ) \prec ( C \prec B ) ] \prec B \}$
+$( C \prec A ) \prec \{ [ ( C \prec A ) \prec B ] \prec B \}$
+$( B \prec A ) \prec \{ [ ( C \prec C ) \prec B ] \prec A \}$
+$\{ [ ( B \prec C ) \prec C ] \prec A \} \prec ( B \prec A )$
+$( C \prec A ) \prec \{ [ ( C \prec A ) \prec B ] \prec B$
+$\{ [ B \prec ( [del] B [/del] D \prec C ) \prec C ] \prec A \} \prec A$

@@ -1,0 +1,33 @@
+[date]1908 Sept 18[/date]
+[pn]4[/pn] Falsifying the equations. We know from the nature of a
+determinant that
+[del]ax by[/del] [fig]determinant[/fig] $\begin{vmatrix} ax, & by, & c \\ \alpha x, & \beta y, & \gamma \\ mx, & ny, & -(mx+ny) \end{vmatrix} = 0$
+whence, [fig]determinant[/fig] $\begin{vmatrix} a, & b, & c \\ \alpha, & \beta, & \gamma \\ m, & n, & -(mx+ny) \end{vmatrix} = 0$
+or $-(\alpha\beta - \alpha b)(mx+ny) + (\alpha c - a\gamma)n + (b\gamma - c\alpha)m = 0$
+or $mx+ny = \frac{(\alpha c - a\gamma)n + (b\gamma - c\alpha)m}{\alpha\beta - \alpha b}$
+when by putting $m=1$ $n=0$ $x = \frac{b\gamma - c\alpha}{\alpha\beta - \alpha b}$ and putting $\begin{smallmatrix} m=0 \\ n=1 \end{smallmatrix}$ $y = \frac{\alpha c - a\gamma}{\alpha\beta - \alpha b}$
+
+The point is that we have to observe the equations to see that they
+do permit the first equation on this page.
+
+Now as to the book you have in mind, its design as I under-
+stand it is, by specimens of mathematical reasoning, to improve
+the reasoning of non-mathematicians. For that purpose, it would not
+often be advisable to give the whole mathematical memoir, but only the
+logically instructive parts; and these need not be given in the words of
+the original writer, though his mathematical forms should be conserved.
+The annotations would require a very strong logician, not the kind of
+man that the average editor or publisher takes to. Small men like
+small men: they have an instinctive antipathy to great minds; and it
+would be a pity the thing should be so done that its weakness should
+be shown up at once. The poor annotator would not be in an enviable
+situation, nor anybody else concerned.
+
+If the ground were fully covered, the work could not be a very small
+one. It would have to be at least as large as Russell's Phil. of Math.,—a
+weak performance, by the way. [del]The[/del] Existential graphs should begin the work,
+because there is no organ of definition and logical analysis that is at all
+equal to that. I have not yet brought out this feature of the system, though
+I have much in MS. When I do bring it out those few who go through the
+exposition will be amazed. Then should be taken up integers. First the
+Cantorian ordinals though he himself gets multitudes first. But it is wrong

@@ -1,0 +1,30 @@
+Try the triadic [del]System[/del] [ins]System[/ins] of Values again
+
+$\Phi(x,y) = \Phi(y,x)$ $\Phi(x,\Phi(y,z)) = \Phi(\Phi(x,y),z)$
+
+$\Phi(\text{L},\text{L}) = \text{L}$ [del]$\Phi(\text{L},\text{F}) = \text{F}$[/del] $\Phi(\text{L},\text{F}) = \text{F}$ $\Phi = (\text{L},\text{V}) = \text{V}$
+
+$\Phi(\text{L},\Phi(\text{L},\text{F})) = \Phi(\text{L},\text{F}) = \Phi(\Phi(\text{L},\text{L}),\text{F}) =$
+
+$\Phi(\text{F},\Phi(\text{L},\text{F})) = \Phi(\text{F},\text{F}) = \Phi(\text{F},\Phi(\text{F},\text{L}) = ($
+$= \Phi(\Phi(\text{F},\text{L})\text{F}) = \Phi(\text{F},\text{F}) = $ [del]$\text{F}$[/del]
+
+[fig]Symbol phi[/fig] [fig]Symbol theta[/fig] $\Phi(\text{V},\text{V}) = \Phi(\text{L},\text{V}) = \text{V}$
+
+[fig]Truth table for phi[/fig] [fig]Truth table for theta[/fig] $\Phi(\Phi(\text{L},\text{F}),\text{V}) = \Phi(\text{F},\text{V}) = \Phi(\Phi(\text{F},\text{L}),\Phi(\text{V},\text{L}))$
+
+We naturally make $\Phi(\text{F},\text{V}) = \text{V}$
+
+[del]$\Phi(\text{L},\Phi(\text{L},\text{F})) = \Phi(\Phi(\text{F},\text{F})\text{L}) = \Phi(\text{F},\text{F})$[/del]
+
+[fig]Symbol psi[/fig] [fig]Symbol chi[/fig] $\Phi(\text{L},\Phi(\text{L},\text{F})) = \Phi(\Phi(\text{L},\text{L}),\text{F}) = \Phi(\text{L},\text{F}) = \text{F}$
+$= \Phi(\Phi(\text{L},\text{L}),\text{F}) = \Phi(\text{L},\text{F}) =$
+
+[fig]Truth table for psi[/fig] [fig]Truth table for chi[/fig]
+
+$\Phi(\text{F},\Phi(\text{L},\text{F})) = \Phi(\text{F},\text{F})$
+$= \Phi(\Phi(\text{F},\text{F}),\text{L}) = ?$
+
+[fig]Symbol omega[/fig] [fig]Symbol upsilon[/fig] $\Phi(\Phi(\text{F},\text{F}),\Phi(\text{L},\text{L})) = \Phi(\Phi(\text{F},\text{F}),\text{L}) = \Phi(\text{F},\text{F})$
+
+[fig]Truth table for omega[/fig] [fig]Truth table for upsilon[/fig] $\Phi(\Phi(\text{F},\text{L}),\Phi(\text{F},\text{L})) = \Phi(\text{F},\text{F})$

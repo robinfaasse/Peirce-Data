@@ -1,0 +1,52 @@
+[marginalia]
+[pn]2[/pn]
+[pn]5[/pn]
+[/marginalia] [fig]Tic-tac-toe grid[/fig] [del]X has choice between 4-6, 7-9, 8, 1-3. But if[/del] [ins]and[/ins] [del]points then, H situation[/del]
+[del]X has a simple H situation. To prevent the A situation, O must[/del]
+[del]occupy either 1 or 3-7. The former entirely prevents any H situ-[/del]
+[del]ation. The latter results in two forced moves preventing tit-tat-to[/del]
+
+[marginalia]
+[pn]2[/pn] [pn]4[/pn]
+[pn]2[/pn] [pn]3[/pn]
+[pn]2[/pn] [pn]1[/pn]
+[/marginalia] [fig]Tic-tac-toe grid[/fig] X has a simple H situation. To prevent the A situation O need only
+[del]occupy[/del] avoid 8 and 9. If he occupies 4, X forms a new double
+H situation which however O frustrates. If he occupies 3 he
+forms a double H situation which X frustrates. If he occupies
+8 forced moves prevent tit-tat-too. If he occupies 1, no H situ-
+ation occurs
+
+[marginalia]
+[pn]2[/pn] [pn]7[/pn]
+[pn]2[/pn] [pn]3[/pn]
+[pn]2[/pn] [pn]4[/pn]
+[pn]2[/pn] [pn]7[/pn]
+[pn]2[/pn] [pn]6[/pn]
+[pn]2[/pn] [pn]9[/pn]
+[pn]2[/pn] [pn]1[/pn]
+[pn]2[/pn] [pn]1[/pn]
+[/marginalia] X!!!
+X!!!
+[fig]Tic-tac-toe grid[/fig] ~
+[fig]Tic-tac-toe grid[/fig] X has choice between 3, 4, 5, 6, 7, 8, 9. If 3, O occupies 7
+threatening immediate tit-tat-too and forming an H situation, and thus
+winning. If 4, [del]O forms a double H situation by 3-7.[/del] he has a simple
+H situation forcing O to 5 or 6-8. [del]The former[/del] [ins]Either[/ins] prevents tit-tat-too. [del]The[/del]
+[del]latter may be examined.[/del] If 5, he gets an opportunity next play to form
+an H situation [del]threatening immediate tit-tat-too, and so wins,[/del] [ins]but tit-tat-too is prevented.[/ins]
+[del]which shows O's first play was fatal.[/del] If 6, he forms a simple H situation [del]which[/del]
+[del]which may be examined.[/del] [ins]but does not win.[/ins] If 7, he forms a [del]double[/del] H situation, [del]and wins, again[/del]
+[del]showing O's first play to be fatal.[/del] If 8, [del]tit-tat-too is prevented[/del] [ins]O forms a double H situation[/ins] while threatening
+immediate tit-tat-too, and wins. If 9, forming an H situation, O can form
+a double H situation, but there is no tit-tat-too.
+
+[marginalia]
+[pn]2[/pn] [pn]3[/pn]
+[pn]2[/pn] [pn]9[/pn]
+[pn]2[/pn] [pn]5[/pn] [pn]3[/pn]
+[pn]2[/pn] [pn]7[/pn]
+[/marginalia] O!!!
+O!!!
+~
+~

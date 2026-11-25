@@ -1,0 +1,51 @@
+[pn]76r[/pn]
+
+Then we have
+
+$\phi = \frac{x+y}{2} - \frac{U-V}{4} = \frac{x+y}{2} + \frac{V-U}{4}$
+
+$\psi = \frac{x-y}{2} + \frac{U+V}{4}$
+
+$\chi = \frac{y-x}{2} + \frac{U+V}{4}$
+
+$\omega = -\frac{x+y}{2} + \frac{3}{4}(U-V)$
+
+or we might write
+
+$U-W [del]=[/del] [ins]=[/ins] \frac{x+y}{2} - \phi$
+
+$\phi = \frac{x+y}{2} + W-U$
+
+$\psi = \frac{x-y}{2} - W+U$
+
+$\chi = \frac{-x+y}{2} - W+U$
+
+$\omega = \frac{-x-y}{2} + W [del]\text{---}[/del]$
+
+Put $W = Y + \frac{1}{2}U$
+
+$\phi = \frac{x+y}{2} + Y - \frac{1}{2}U$
+
+$\psi = \frac{x-y}{2} - Y + U$
+
+$\chi = \frac{-x+y}{2} - Y + U$
+
+$\omega = \frac{-x-y}{2} + Y + U$
+
+Here $W$ and $V$ would be quantities logical not mathematical functions of $x$ and $y$
+
+Logical sum $(x+y) = \frac{x+y-Y+U}{2}$
+
+$(x+\bar{y}) = \frac{x-y+Y+U}{2}$
+
+$\bar{x}+y = \frac{-x+y+Y+U}{2}$
+
+$\bar{x}+\bar{y} = \frac{-x-y-Y+3U}{2}$
+
+Log Prod $(xy) = \frac{x+y+Y-U}{2}$
+
+$x\bar{y} = \frac{x-y-Y+U}{2}$
+
+$\bar{x}y = \frac{-x+y-Y+U}{2}$
+
+$\bar{x}\bar{y} = \frac{-x-y+Y+U}{2}$

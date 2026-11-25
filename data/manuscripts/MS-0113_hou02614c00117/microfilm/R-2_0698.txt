@@ -1,0 +1,43 @@
+[u]Midedges[/u]
+
+1 { [del]EF[/del] [ins]EF[/ins] = x
+IJ = y
+AB = z
+
+GH = - x
+KL = - y
+CD = - z
+
+2 { EI = 1/2 (x + [greek]h[/greek]y + [greek]e[/greek]z)
+JD = 1/2 ([greek]e[/greek]x + y - [greek]h[/greek]z)
+CF = 1/2 ([greek]h[/greek]x - [greek]e[/greek]y - z)
+
+HL = 1/2 (-x - [greek]h[/greek]y - [greek]e[/greek]z)
+AK = 1/2 ([greek]e[/greek]x - y + [greek]h[/greek]z)
+BG = 1/2 (-[greek]h[/greek]x + [greek]e[/greek]y + z)
+
+4 { FL = 1/2 (x - [greek]h[/greek]y - [greek]e[/greek]z)
+KB = 1/2 (-[greek]e[/greek]x - y + [greek]h[/greek]z)
+AC = 1/2 ([greek]h[/greek]x + [greek]e[/greek]y + z)
+
+GI = 1/2 (- x + [greek]h[/greek]y + [greek]e[/greek]z)
+JC = 1/2 ([greek]e[/greek]x + y - [greek]h[/greek]z)
+DH = 1/2 (-[greek]h[/greek]x - [greek]e[/greek]y - z)
+
+5 { GJ = 1/2 (-x + [greek]h[/greek]y - [greek]e[/greek]z)
+AI = 1/2 ([greek]e[/greek]x + y + [greek]h[/greek]z)
+BH = 1/2 (-[greek]h[/greek]x - [greek]e[/greek]y + z)
+
+FK = 1/2 (x - [greek]h[/greek]y + [greek]e[/greek]z)
+DL = 1/2 (-[greek]e[/greek]x - y - [greek]h[/greek]z)
+CE = 1/2 ([greek]h[/greek]x + [greek]e[/greek]y - z)
+
+3 { HK = 1/2 (-x - [greek]h[/greek]y + [greek]e[/greek]z)
+CL = 1/2 ([greek]e[/greek]x - y - [greek]h[/greek]z)
+DG = 1/2 (-[greek]h[/greek]x + [greek]e[/greek]y - z)
+
+EJ = 1/2 (x + [greek]h[/greek]y - [greek]e[/greek]z)
+BI = 1/2 (-[greek]e[/greek]x + y + [greek]h[/greek]z)
+AF = 1/2 ([greek]h[/greek]x - [greek]e[/greek]y + z)
+
+The edges are opposite one another in pairs and form five sets each containing edges in three mutually perpendicular directions

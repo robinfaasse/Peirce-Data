@@ -1,0 +1,31 @@
+[pn]FL[/pn] [pn]7[/pn]
+
+[u]XII.[/u]
+
+The Algebra of Dyadic Relatives was well explained by me in
+outline in the book "Studies in Logic" and Schröder has developed
+it in his third volume at such enormous length that it is not worth
+while to devote much space to it here.
+
+The Boolean calculus turns upon the three operations of
+negation, aggregation, and composition. There are three somewhat
+imperfectly analogous operations of a relative kind. By a rela-
+tive operation I mean such an operation that the relate and cor-
+relate of the function are differently ordered from those of the variable.
+
+The non-relative operation of composition or non-relative logical
+multiplication is defined thus:
+$(l\cdot b)_{ij} \prec 0$ if $l_{ij} \prec 0$ or $b_{ij} \prec 0$ But
+$0 \prec (l\cdot b)_{ij}$ if both [del]$\dagger$[/del] $0 \prec l_{ij}$ and $0 \prec b_{ij}$
+The operation of [u]relative multiplication[/u] is defined thus:
+$(lb)_{ij} \prec 0$ if [del]all[/del] $\Pi_k\ l_{ik} + b_{kj} \prec 0$
+$0 \prec (lb)_{ij}$ if $0 \prec \Sigma_k\ l_{ik}\cdot b_{kj}$
+We read $lb$ "$l$ of $b$"
+
+The non-relative operation of aggregation is defined thus
+$(l+b)_{ij} \prec 0$ if both $l_{ij} \prec 0$ and $b_{ij} \prec 0$
+$0 \prec (l+b)_{ij}$ if either $0 \prec l_{ij}$ or $0 \prec b_{ij}$
+The operation [del]of[/del] [ins]of[/ins] [u]relative addition[/u] is defined thus:
+$(l\dagger b)_{ij} \prec 0$ if $\Sigma_k\ l_{ik}\cdot b_{kj} \prec 0$
+$0 \prec (l\dagger b)_{ij}$ if $0 \prec \Pi_k\ l_{ik} + b_{kj}$
+We read $l\dagger b$ "$l$ except of $b$s"

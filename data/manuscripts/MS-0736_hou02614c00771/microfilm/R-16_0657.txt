@@ -1,0 +1,22 @@
+If a proposition is [del]neces[/del] [ins]true[/ins] when the circle is substituted for one of its [del]letters[/del] [ins]terms[/ins], and also when a+a is substituted for the same term, it is true in its original form; for the term replaced must either be true or false.
+[del]If a proposition has its antecedent false or its consequent true, it is true.[/del]
+
+There are two convenient corollaries from this. The first is that
+
+[del]a + b + c + b + a + c[/del]
+
+[u]a + b + c + b + a + c[/u]
+
+is necessarily true, so that
+
+a + b + c = b + a + c.
+
+This is so by the last [ins]but one[/ins] rule, for
+
+o + o + c + o + o + c is true, since o + c is true;
+
+o + oo + c + oo + o + c is true, for the same reason;
+
+oo + o + c + o + oo + c is true, because o + o + c is true;
+
+oo + oo + c + oo + oo + c is true, because

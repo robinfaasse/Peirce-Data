@@ -1,0 +1,29 @@
+$s$ length in metres
+$t$ time in sidereal days
+$m$ mass in Kilograms
+$\theta$ temp
+
+<u>$1^{\text{st}}$ Law of Heat</u>
+$D_t (\theta_1 - \theta_2)^2 < 0$ Temp tends to equalize itself
+
+<u>$2^{\text{d}}$ Law of Heat</u>
+$D_{\theta} (m \frac{s^2}{t^2}) \propto 0$ Or when you produce mechanical energy by changing temperature you cool the body.
+
+$- D_{\theta} (m \frac{s^2}{t^2}) =$ Specific Heat $c$
+
+Heat = total mechanical work which can be produced by change of temp.
+
+***
+
+$A$ const depending on shape
+$B$ " " $[M S]$ "
+
+$A s_1^3 =$ volume of a mass of perfect gas
+
+$\frac{A s_1^3}{m_1} =$ relative volume per unit of mass
+
+$m_2 \frac{d^2 s_2}{(dt)^2} =$ force gas exerts
+
+$m_2 \frac{d^2 s_2}{(dt)^2} \frac{1}{B s_1^2}$ Pressure on unit of surface
+
+$\frac{A s_1^3}{B s_1^2} \frac{m_2}{m_1} \frac{d^2 s_2}{(dt)^2}$ $[S^3 T^{-2}]$

@@ -1,0 +1,27 @@
+§4. The two real functions in the expression
+for $e^{yi}$ are called the cosine and sine of $y$.
+That is
+$e^{yi} = \cos y + \sin y \cdot i$
+$\cos y = \sum_{0}^{\infty} \frac{(-1)^{r} y^{2r}}{(2r)!}$ $\sin y = \sum_{0}^{\infty} \frac{(-1)^{r} y^{2r+1}}{(2r+1)!}$
+
+We have to study these functions. [del]But[/del] [ins]Suppose[/ins] the
+equation
+$y - \frac{1}{3!} y^{3} + \frac{1}{5!} y^{5} - \frac{1}{7!} y^{7} + \text{etc} = B$
+where $B$ is less than 1 and $y$ is the unknown
+[del]Suppose[/del] is satisfied by a value of $y$ of the form
+$y = [del]\alpha_{1}[/del] B + \alpha_{3} B^{3} + \alpha_{5} B^{5} + \text{etc}$.
+Taking $B$ very small, only the first term is
+considerable and it is evident that $\alpha_{1} = 1$,
+for $y = B$ nearly. Hence
+$y = B + \alpha_{3} B^{3} + \alpha_{5} B^{5} + [del]\alpha_{7}[/del] B^{7} + \text{etc}$
+$y^{2} = B^{2} + 2\alpha_{3} B^{4} + (2\alpha_{5} + \alpha_{3}^{2}) B^{6} + (2\alpha_{7} + 2\alpha_{3}\alpha_{5}) B^{8} + \text{etc}$
+$y^{3} = B^{3} + 3\alpha_{3} B^{5} + (3\alpha_{5} + 3\alpha_{3}^{2}) B^{7} + (3\alpha_{7} + 6\alpha_{5}\alpha_{3} + \alpha_{3}^{3}) B^{9} + \text{etc}$
+$y^{4} = B^{4} + 4\alpha_{3} B^{6} + (4\alpha_{5} + 6\alpha_{3}^{2}) B^{8} + (4\alpha_{7} + 12\alpha_{5}\alpha_{3} + 4\alpha_{3}^{3}) B^{10} + \text{etc}$
+$y^{5} = B^{5} + 5\alpha_{3} B^{7} + (5\alpha_{5} + 10\alpha_{3}^{2}) B^{9} + (5\alpha_{7} + 20\alpha_{5}\alpha_{3} + 10\alpha_{3}^{3}) B^{11} + \text{etc}$
+$y^{6} = B^{6} + 6\alpha_{3} B^{8} + (6\alpha_{5} + 15\alpha_{3}^{2}) B^{10} + (6\alpha_{7} + 30\alpha_{5}\alpha_{3} + 20\alpha_{3}^{3}) B^{12} + \text{etc}$
+Substituting these values in the equation
+$B = B + \alpha_{3} B^{3} + \alpha_{5} B^{5} + \alpha_{7} B^{7} + \alpha_{9} B^{9} + \text{etc}$
+$- \frac{1}{3!} [del]y^{3}[/del] B^{3} - \frac{1}{2} \alpha_{3} B^{5} - (\frac{1}{2}\alpha_{5} + \frac{1}{2}\alpha_{3}^{2}) B^{7} - (\frac{1}{2}\alpha_{7} + \alpha_{5}\alpha_{3} + \frac{1}{3!}\alpha_{3}^{3}) B^{9}$
+$+ \frac{1}{5!} B^{5} + \frac{1}{4!} \alpha_{3} B^{7} + (\frac{1}{4!}\alpha_{5} + \frac{1}{2!4!}\alpha_{3}^{2}) B^{9}$
+$- \frac{1}{7!} B^{7} - \frac{1}{6!} \alpha_{3} B^{9}$
+$+ \frac{1}{9!} B^{9} + \text{etc}$

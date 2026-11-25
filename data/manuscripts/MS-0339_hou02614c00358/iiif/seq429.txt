@@ -1,0 +1,20 @@
+To say that a collection the a's is greater than 226r
+another collection the b's. is to see, that there
+is [del]no[/del] collection of mutually exclusive such that
+in them ever a is paired with a b.
+That is, taking any collection of pairs whatever
+either there are [ins]different[/ins] two pairs [del]not[/del] of that collection
+not mutually exclusive or [del]there is no[/del]
+there is some a [ins]such[/ins] that, taking any pair of which
+it is a member, either that pair does not belong
+to this collection or [del]else the other member of it
+is not a b.[/del] no b belongs to it
+$\prod_\mu \sum_\alpha \sum_\beta (\sum_i \bar{r_{\gamma i}}) \prod_j \bar{r_{\gamma j}} q_{\mu\alpha} \cdot q_{\mu\beta} \cdot \bar{e}_{\alpha\beta} + \frac{[del]\bar{r_{\gamma i}} + a_i \cdot (\bar{P}_{\gamma i i} + \bar{b}_i)[/del]}{\frac{a_i \cdot (\bar{q}_{\mu\gamma} + \bar{P}_{\gamma i i} + \bar{b}_i)}{\bar{q}_{\mu\gamma} + a_i \cdot (\bar{P}_{\gamma i i} + \bar{b}_i)}}$
+[fig]figure[/fig]
+Translating this
+[del]$\sum_\zeta \prod_u \sum_s \sum_w \bar{b}_u + \bar{r}_{\zeta uv} \cdot a_v \cdot (\bar{r}_{\zeta u t} + \bar{a}_t)$[/del]
+[del]$\sum_\zeta \prod_u \sum_\alpha \prod_t \sum_w \bar{b}_u + \bar{r}_{\zeta uv} \cdot a_a \cdot (\bar{r}_{\zeta t v} + \bar{b}_{t z} + t_{wt})$[/del]
+$\prod_\zeta \sum \sum_\zeta \prod_u \prod_v \bar{r}_{\zeta uv} +$
+$\sum_\zeta \prod_u \prod_v \prod_x \prod_y \bar{r}_{\zeta uv} + \bar{r}_{\zeta xy} + l_{ux} \cdot l_{uy} + \bar{l}_{ux} \cdot \bar{l}_{uy}$
+$\prod_\zeta \sum_t \bar{b}_s + \bar{r}_{\zeta st} \cdot a_t$
+$\sum_\rho \prod_q a_p \cdot (\bar{r}_{\zeta q p} + \bar{b}_q)$

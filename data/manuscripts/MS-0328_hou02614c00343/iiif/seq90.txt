@@ -1,0 +1,18 @@
+A B -A-B -A +A+B -B
+C D -C-D +A+C [del]-A-B[/del] [del]-C-D[/del] +B+D
+-A-C -B-D A+B +C+D -C C+D -D
+
+A$^2$D + ABD + ACD + AD$^2$ + ABC [del]+[/del][ins]+[/ins]B$^2$C +BCD +BC$^2$
++ ABD + ACD + ABC [del]+[/del][ins]+[/ins]B$^2$C +BCD
++ ACD + ABC +BCD
+
+[u][del]([/del]-A$^2$D - ABD - ACD - AD$^2$[del])[/del] - ABC - B$^2$C - BCD - BC$^2$[/u]
+- ABD - ACD - ABC - BCD
+
+[ured]A$^2$D + ABD + ACD + AD$^2$[/ured]
+[ured]+ ACD +ABC + B$^2$C + BCD[/ured]
+[ured]+ ABD +ABC + BCD + BC$^2$[/ured]
+[ured]- BCD[/ured]
+[ured]-A$^2$D - ABD - ACD[/ured]
+[ured]- ABD - ACD - AD$^2$ - ABC[/ured]
+[ured]- ABC - B$^2$C - BCD - BC$^2$[/ured]

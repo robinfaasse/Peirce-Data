@@ -1,0 +1,54 @@
+[del]Whatever[/del]
+[del]Either[/del]
+
+$\Pi_p \Pi_q \Sigma_s \quad s = p+q \quad p < s \quad q < s$
+
+$\Pi_p \Pi_q \Pi_{q'}$
+
+$\Pi_p \Pi_q \Pi_s \Sigma_{p'} \Sigma_{q'} \text{ Either } s \neq p+q \text{ or } [del]p' > p[/del]$
+
+[del]$\Pi_p \Pi_q \Pi_{p'} \Pi_{q'} \Sigma_s$[/del]
+
+$\Pi_p \Pi_q \Pi_{p'} \Pi_{q'} \Pi_s \text{ Either } s \neq p+q \text{ or } p > p' \text{ or } q' > q$
+
+" " " $p > p' \text{ or } q' > q$
+
+$\Pi_p \Pi_q \Sigma_s \quad s = p+q$
+
+$\Pi_p \Pi_q \Pi_{q'} \Sigma_s \Sigma_{p'} \text{ Either } q' > q \text{ and } q' > p \text{ or } s = p+q \text{ and } s \neq p' + q'$
+
+$\Pi_p \Pi_q \Pi_s \Sigma_{p'} \Sigma_{q'} \text{ Either } s \neq p+q \text{ or } p < q$
+
+$\text{If } s = p+q \text{ or } p > q$
+
+$\Pi_p \Pi_q \Sigma_s \quad s = p+q$
+
+$\Pi_p \Pi_s \Sigma_q \text{ Either } p > s \text{ or } s = p+q$
+
+$\Pi_p \Pi_{p'} \Pi_s \Sigma_q \Sigma_{q'} \text{ Either } p > s \text{ or } s = p+q$
+$\text{Either } p' > s \text{ or } s = p' + q'$
+$\text{Either } p < p' \text{ or } q > q'$
+$\text{Either } p > p' \text{ or } q' > q$
+
+$(A+B)(C+D)(E+F)(G+H)$
+
+$\text{Either } p > s \text{ or } p' > s \text{ or } s = p+q$
+$s \neq p+q \quad s \neq p'+q' \quad s = p'+q'$
+$p' > p \quad q' > q$
+
+$(A+B+CD+EF)$
+
+[del]$AB + AB + AB$[/del]
+[del]$p+q+r+s$[/del]
+
+$\Pi_p \Pi_q \Pi_{p'} \Pi_{q'} \text{ Either}$
+
+$\Pi_s \Pi_p \Pi_q \Pi_{p'} \Pi_{q'} \Sigma_r \Sigma_{p'}$
+
+$\text{Either } p > s \text{ or } p' > s \text{ or } s = p+q$
+$q' > s \quad s = p'+q' \quad s = p+q$
+
+[del]$\text{to a character}$[/del]
+of
+$\kappa \beta \gamma \delta$
+$\lambda \theta \mu \xi$

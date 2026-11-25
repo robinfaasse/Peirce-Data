@@ -1,0 +1,30 @@
+$$u_v v + u \cdot v = u v$$
+
+$$(u_v v) \times (v \cdot u) = (u \cdot v) \times (v_u u)$$
+
+$$\{u_v (u+v)\} \times \{(u+v) \cdot u\} = \{u \cdot (u+v)\} \times \{(u+v)_u u\}$$
+$$\{u_v u + u_v v\} \times \{u \cdot u + v \cdot u\} = \{u \cdot u + u \cdot v\} \times \{u_u u + v_u u\}$$
+$$\begin{aligned}
+& [del](u_v u) (u \cdot u)[/del] + (u_v u) \times (v \cdot u) + (u_v v) (u \cdot u) + (u_v v) (v \cdot u) \\
+= & [del](u \cdot u) (u_u u)[/del] + (u_u u) \times (u \cdot v) + (v_u u) (u \cdot u) + (v_u u) (u \cdot v)
+\end{aligned}$$
+
+Suppose $v$ infinitesimal
+$$(u_v u) (u \cdot v - v \cdot u) = (u \cdot u) (u_v v - v_u u)$$
+
+$$\begin{aligned}
+u^2 &= p u v + q v u \\
+u^2 &= p (u v - v u)
+\end{aligned}$$
+
+But if $u^2$ vanishes eq. is
+$$(u_v v) (v \cdot u) = (v_u u) (u \cdot v)$$
+
+$$\begin{array}{cc}
+P & Q \\
+\cdot & \cdot
+\end{array}$$
+
+[fig]Two overlapping ellipses[/fig]
+
+[fig]Complex geometric diagram with lines intersecting at points P and Q[/fig]

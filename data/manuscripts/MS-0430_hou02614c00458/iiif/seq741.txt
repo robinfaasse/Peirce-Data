@@ -1,0 +1,21 @@
+Logic [ured]III[/ured]
+59
+[fig]figure[/fig]
+
+(81) If (x [u]v[/u] y) [u]v[/u] z is true, then (x [u]v[/u] z) [u]v[/u] z is true
+For if (x [u]v[/u] y) [u]v[/u] z is true, by (65), unless z is true, (x [u]v[/u] y) is
+false. But, by (64), if x [u]v[/u] y is false, x is true. Hence, unless
+z is true, x is true. But if x is true, [del]by[/del] [ins]& by[/ins] (64), x [u]v[/u] z is
+false, unless z is true; and if z is true, by (64), (x [u]v[/u] z) [u]v[/u] z
+is true. This may be expressed: The consequent of the antecedent
+may be identified with the antecedent.
+(82) [(x [u]v[/u] y) [u]v[/u] z] [u]v[/u] (x [u]v[/u] z) [u]v[/u] z.
+This follows from (81) by (64).
+(83) If (x [u]v[/u] y) [u]v[/u] y then (y [u]v[/u] x) [u]v[/u] x.
+For, by (65), if (x [u]v[/u] y) [u]v[/u] y is true, then unless y is true, x [u]v[/u] y
+is false, and if x [u]v[/u] y is false, by (64), x is true. Thus either
+x or y is true. But if x is true, (y [u]v[/u] x) [u]v[/u] x is true, [ins]by (64);[/ins] and if,
+x not being true, y is true, (y [u]v[/u] x) is false by (65) and
+(y [u]v[/u] x) [u]v[/u] x is true by (64).
+(84) [(x [u]v[/u] y) [u]v[/u] y] [u]v[/u] (y [u]v[/u] x) [u]v[/u] x
+This follows from (83) by (64).

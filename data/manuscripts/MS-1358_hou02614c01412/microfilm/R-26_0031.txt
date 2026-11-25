@@ -1,0 +1,40 @@
+[pn]3[/pn]
+
+[del]Monomoy Bridge 1898 Sept 3[/del]
+
+$$\begin{array}{ll}
+x_{0} = 0.5 & x_{1} = 12.0 \\
+y_{0} = 0.0 & y_{1} = 6.5
+\end{array}$$
+
+$$\begin{array}{ll}
+x_{1} - x_{0} = 11.5 & (x_{1} - x_{0})^{2} = 132.25 \\
+y_{1} - y_{0} = 6.5 & \underline{(y_{1} - y_{0})^{2} = 42.25} \\
+R_{0} = 13.21 & \underline{[R_{0}]} \ \ \ \ \ \ \ \ \ \ \ 174.50 \\
+R_{0} = 13 &
+\end{array}$$
+
+$$1 - \frac{R_{0}}{R_{0}} = .01567 \ \ \ \ \left(1 - \frac{R_{0}}{R_{0}}\right)(x_{1} - x_{0}) = 0.1802$$
+
+$$\frac{y_{0}}{R_{0}} = 0.15 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ [fig]heart symbol[/fig] = -0.0302$$
+
+To satisfy (3) we must have $\frac{1}{R_{1}}\left(1 - \frac{R_{i}}{R_{1}}\right)(x_{2} - x_{1}) = 0.1802$
+and then to satisfy (4) $\frac{1}{5}(x_{2} - x_{2}) = 0.1802$
+$x_{2} - x_{2} = 0.9$ about
+$x_{2} - x_{1} = 2$
+
+$$\begin{array}{l}
+\text{But} \\
+\ \ \ \ (x_{2} - x_{1})^{2} = 4 \\
+\underline{\text{To} \ (y_{1} - y_{2})^{2} = 23.41} \\
+\ \ \ \ (y_{1} - y_{2}) = 4.839 \\
+\text{and if } y_{2} = 1 \\
+\ \ \ \ y_{1} = 5.839
+\end{array} \ \ \ \ \ \ \ \ \begin{array}{l}
+\frac{1}{R_{1}}\left(1 - \frac{R_{i}}{R_{1}}\right) = 0.0901 \\
+\left(1 - \frac{R_{i}}{R_{1}}\right) = 0.0450 \\
+\frac{R_{i}}{R_{1}} = 0.955 \\
+\frac{R_{1}}{R_{i}} = 1.047 \\
+R_{i} = 5.235 \\
+R_{i}^{2} = 27.41
+\end{array}$$

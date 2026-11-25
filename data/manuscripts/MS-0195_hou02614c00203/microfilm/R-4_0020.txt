@@ -1,0 +1,25 @@
+Now $(F y)^{2} + (\Phi y)^{2}$, being the sum of the
+squares of two real quantities, is positive. Hence,
+when $y$ is infinitesimal. Hence, for [del]infinitesimally[/del] [ins]infinitesimal $y$[/ins]
+$\Phi y = - \Phi (-y)$
+$F y = F (-y)$
+
+When $y$ is infinitesimal or very small $F y$ and $\Phi y$
+are developable according to powers of $y$. Assume
+$F y = 1 + A y^{M} + \text{etc}$
+$\Phi y = a y^{m} + \text{etc}$
+Then $F 2y = 1 + 2^{M} A y^{M} + \text{etc}$
+$\Phi 2y = 2^{m} a y^{m} + \text{etc}$
+But
+$F 2y = (F y)^{2} - (\Phi y)^{2}$
+$= 1 + 2 [del]x[/del] A y^{M} - a^{2} y^{2m}$
+$\Phi 2y = 2 F y \cdot \Phi y$
+$= 2 a y^{m} + \text{etc}$
+
+Hence $m = 1 \quad M = 2 \quad [del]4[/del] [ins]2^{M}[/ins] A = 2 A - a^{2}$
+
+Hence $\Phi y = a y + \text{etc.}$
+But if $e = \varepsilon^{t} \quad e^{yi} = \varepsilon^{tyi}$
+Hence if $\Phi_{e} y = a y + \text{etc} \quad \Phi_{\varepsilon} y = \frac{a}{t} y + \text{etc}$
+Hence by taking a suitable value, $t$, of $e$ we
+can make $\Phi_{e} y = y + \text{etc.}$

@@ -1,0 +1,46 @@
+[pn]2[/pn]
+
+[del]Put this = H. Then[/del]
+
+[del]$\ell$[/del] [ins]$\ell$[/ins] $(H - [yz]) u + [zx] v + [xy] w = 0$
+$\ell [yz] u + (H - [zx]) v + [xy] w = 0$
+$\ell [yz] u + [zx] v + (H - [xy]) w = 0$
+
+$Q = (H - [yz]) u + [zx] v + [xy] w$
+
+$\left| \begin{matrix} H - [yz] & [zx] & [xy] \\ [yz] & H - [zx] & [xy] \\ [yz] & [zx] & H - [xy] \end{matrix} \right| = 0$
+
+[del]$\ell \left( \frac{H - [yz]}{\ell} \right) u + [zx] v + [xy] w$[/del]
+
+[del]$\left( \frac{H - [yz]}{\ell} \right) u + [zx] v + [xy] w = \frac{Q}{\ell}$[/del]
+
+$\ell^2 [yz] (1 - \ell^2 - m^2) = $
+$\ell^2 [yz] (1 - \ell^2 - m^2) + \ell^2 [zx] (1 - \ell^2 - m^2) = $
+$\ell^2 [yz] (1 - \ell^2 - m^2) + \ell^2 [zx] (1 - \ell^2 - m^2) + \ell^2 [xy] (1 - \ell^2 - m^2)$
+
+$- \ell^2 [yz] [zx] [xy] - \ell^2 [yz] [zx] [xy] - \ell^2 [yz] [zx] [xy] +$
+$+ \ell^2 [yz] [zx] (H - [xy]) + \ell^2 [yz] [xy] (H - [zx]) + \ell^2 [zx] [xy] (H - [yz])$
+
+$H \left( \ell^2 [yz] [zx] + \ell^2 [yz] [xy] + \ell^2 [zx] [xy] \right) - 3 \ell^2 [yz] [zx] [xy]$
+
+$- \ell^2 [yz] [zx] [xy] - \ell^2 [yz] [zx] [xy] - \ell^2 [yz] [zx] [xy] +$
+$+ \ell^2 [yz] [zx] H - \ell^2 [yz] [zx] [xy] + \ell^2 [yz] [xy] H - \ell^2 [yz] [zx] [xy] + \ell^2 [zx] [xy] H - \ell^2 [yz] [zx] [xy]$
+
+$- 6 \ell^2 [yz] [zx] [xy] + \ell^2 H \left( [yz] [zx] + [yz] [xy] + [zx] [xy] \right)$
+
+$- \ell^2 [yz] [zx] [xy] - \ell^2 [yz] [zx] [xy] - \ell^2 [yz] [zx] [xy] -$
+$- \ell^2 [yz] [zx] [xy] - \ell^2 [yz] [zx] [xy] - \ell^2 [yz] [zx] [xy] +$
+$+ \ell^2 H \left( [yz] [zx] + [yz] [xy] + [zx] [xy] \right)$
+
+$- 6 \ell^2 [yz] [zx] [xy] + \ell^2 H \left( [yz] [zx] + [yz] [xy] + [zx] [xy] \right) - H^3$
+
+$- 6 [yz] [zx] [xy] + H \left( [yz] [zx] + [yz] [xy] + [zx] [xy] \right) - H^3 = 0$
+
+$- [yz]^2 [zx] - [yz]^2 [xy] - [zx]^2 [yz] - [zx]^2 [xy] - [xy]^2 [yz] - [xy]^2 [zx] +$
+$+ H \left( [yz]^2 + [zx]^2 + [xy]^2 \right) + H \left( [yz] [zx] + [yz] [xy] + [zx] [xy] \right) - H^3$
+
+$- [yz]^2 [zx] - [yz]^2 [xy] - [zx]^2 [yz] - [zx]^2 [xy] - [xy]^2 [yz] - [xy]^2 [zx] +$
+$+ H \left( [yz]^2 + [zx]^2 + [xy]^2 + [yz] [zx] + [yz] [xy] + [zx] [xy] \right) - H^3 = 0$
+
+$u = f y^2 + 2 g x y + a x^2$
+$v = c y^2 + 2 b x y + d x^2$

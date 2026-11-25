@@ -1,0 +1,33 @@
+$$p^2 + 2\frac{y}{x}p = 1$$
+$$p^2 + 2\frac{y}{x}p + \frac{y^2}{x^2} = 1 + \frac{y^2}{x^2}$$
+$$p = -\frac{y}{x} \pm \sqrt{1 + \frac{y^2}{x^2}}$$
+$$\frac{dy}{dx}$$
+$$v = \frac{y}{x}$$
+$$\frac{dy}{dx} = v + x\frac{dv}{dx}$$
+$$v + x\frac{dv}{dx} = -v \pm \sqrt{1 + v^2}$$
+$$\frac{dv}{-2v \pm \sqrt{1 + v^2}} = \frac{dx}{x}$$
+
+$$\sqrt{1+v^2} + \log[\sqrt{1+v^2} - 2v]$$
+$$\frac{v}{\sqrt{1+v^2}} + \frac{1}{\sqrt{1+v^2} - 2v}$$
+
+$$\left(\frac{dx}{dy}\right)^2 - 2\frac{y}{x}\frac{dx}{dy} = 1$$
+$$\frac{dx}{dy} = \frac{y}{x} \pm \sqrt{1 + \frac{y^2}{x^2}}$$
+$$v + y\frac{dv}{dy} = \frac{1}{v} \pm \sqrt{1 + \frac{1}{v^2}}$$
+$$\frac{x}{y} = v$$
+[del]v + y[/del]
+$$m = -1$$
+$$z = \sqrt{v^2+1} - v$$
+$$\frac{1}{\sqrt{v^2+1} - v} + \frac{1}{2}\sqrt{v^2+1} - \frac{1}{2}v \pm$$
+$$\frac{1}{2z} - \frac{1}{2}z + \frac{1}{2}z + \frac{1}{2z}\left(-\frac{1}{2z^2} - \frac{1}{2}\right)$$
+$$\frac{1}{2}\left(\frac{1}{2z^2} - \frac{1}{2}\right)$$
+$$\frac{1}{2}\ \frac{1}{z}\left(\frac{1}{z^2} - 1\right)$$
+$$-\frac{1}{4}\ \frac{1}{2v^2+1-2v\sqrt{v^2+1}} - \frac{1}{2}\log(\sqrt{v^2+1}-v)$$
+$$\frac{1-z^2}{z^2}$$
+$$\frac{1}{2}z^{-1} - \frac{1}{2}$$
+$$z^{-3}$$
+$$-\frac{1}{4}z^{-2} - \frac{1}{2}\log$$
+
+$$ax^2 = ay^2 - \frac{6}{4}y$$
+$$+ \frac{6^2}{4a}$$
+$$bx = by - 1$$
+$$+ c$$

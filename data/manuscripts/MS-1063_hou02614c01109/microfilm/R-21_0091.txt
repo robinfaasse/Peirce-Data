@@ -1,0 +1,32 @@
+$$\frac{q}{a} = \cos\theta + \sin\theta \cdot V$$
+$$\frac{1}{q} = \frac{1}{a} (\cos\theta - \sin\theta \cdot V)$$
+$$dq = da \frac{q}{a} + d\theta [del]d[/del] [ins]a[/ins] \{-\sin\theta + \cos\theta V\} + d\varphi a \sin\theta (D_{\varphi}F_{1}i + D_{\varphi}F_{2}j + D_{\varphi}F_{3}k)$$
+$$dq = da \frac{q}{a} + d\theta V + d\varphi \sin\theta (D_{\varphi}V) + d\varphi a \sin\theta D_{\varphi}V$$
+$$\frac{1}{q} dq = da \frac{1}{a} + d\theta V + d\varphi \sin\theta (\cos\theta D_{\varphi}V - \sin\theta D_{\varphi}V \cdot V$$
+$$+ d\varphi \sin\theta D_{\varphi}V (\cos\theta - \sin\theta V) D_{\varphi}V$$
+$$+ d\psi \sin\theta D_{\psi}V (\cos\theta - \sin\theta V) D_{\psi}V$$
+$$\frac{1}{q} dq = da \frac{1}{a} + d\theta V + d\varphi \sin\theta (\cos\theta [del]D_{\varphi}V[/del] [ins]i[/ins] + \cos\theta F_{2}'j + \cos\theta F_{3}'k)$$
+$$- d\varphi \sin^{2}\theta (F_{2}'F_{3}' - F_{3}'F_{2}' [del]i[/del] + [del]D_{\varphi}V[/del] [ins]D_{\varphi}\psi[/ins] + [del]D_{\varphi}\psi[/del] [ins]D_{\varphi}(\varphi+\psi)[/ins]$$
+
+$$\cos\theta \frac{F_{2}'F_{3}'}{\sqrt{1}} \quad F_{2}'^{2} + F_{3}'^{2} = F_{2}'^{2} \quad F_{1}' = \sqrt{1 - F_{2}'^{2} + F_{3}'^{2}}$$
+$$d\log F_{3} = d\log F_{2} D_{\varphi}V = D_{\varphi}(\varphi+\psi) D_{\varphi}V \quad F_{1}'^{2} = 1 - F_{2}'^{2} + F_{3}'^{2}$$
+$$\log F_{3} = F_{2} \text{ const} \quad F_{1}'F_{1}' = F_{2}'F_{2}' + F_{3}'F_{3}'$$
+
+***
+
+$$q = a \{\cos\theta + \sin\theta [del]E[/del] [ins]F_{1}[/ins](\varphi,\psi)i + F_{2}(\varphi,\psi)j + F_{3}(\varphi,\psi)k\}$$
+$$\frac{1}{q} = \frac{1}{a} \{\cos\theta - \sin\theta [del]E[/del] [ins]F_{1}[/ins](\varphi,\psi)i + F_{2}(\varphi,\psi)j + F_{3}(\varphi,\psi)k\}$$
+$$dq = da \frac{q}{a} + d\theta a \{-\sin\theta + \cos\theta V\}$$
+$$+ d\varphi a \sin\theta ([del]D_{\varphi}F_{1}[/del] [ins]D_{\varphi}F_{1}[/ins]i + D_{\varphi}F_{2}j + D_{\varphi}F_{3}k)$$
+$$+ d\psi a \sin\theta (D_{\psi}F_{1}i + D_{\psi}F_{2}j + D_{\psi}F_{3}k)$$
+$$\frac{1}{q} dq = \frac{1}{a} da + d\theta V + d\varphi \sin\theta (\sin\theta (E_{1}D_{\varphi}F_{1} + F_{2}D_{\varphi}F_{2} + F_{3}D_{\varphi}F_{3}) [del]V D_{\varphi}V[/del]$$
+
+$$\sin^{2}\varphi \sin^{2}\psi + \cos^{2}\varphi \cos^{2}\psi$$
+$$\sin^{2}\varphi \sin^{2}\psi = (1 - \cos^{2}\varphi)(1 - \cos^{2}\psi)$$
+$$= 1 - \cos^{2}\varphi - \cos^{2}\psi + \cos^{2}\varphi \cos^{2}\psi$$
+$$\cos^{2}\varphi + \sin^{2}\varphi$$
+
+$$\cos\varphi \cos\psi + \sin\varphi \sin\psi \cos\gamma$$
+$$\sin\varphi \sin\psi$$
+$$\frac{1 - a^{2} - b^{2}}{a^{2} + b^{2}}$$
+$$\frac{a^{2}}{b^{2}}$$

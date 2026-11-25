@@ -1,0 +1,7 @@
+[pn]D25[/pn] [u]1 0 0 1 1 1 0 1 0 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0[/u].
+
+Subtraction can be variously performed. I will give two rules.
+
+[u]First Rule for Subtraction[/u]. Write the subtrahend, place by place, vertically under the minuend. [[ins]That is, whatever real integer [del]n[/del] may be, 2[sup]n[/sup] would appear in the same vertical[/ins] column in both.] Cancel together the extreme uncancelled left hand 1 of the subtrahend and the [del]other[/del] right handmost of those uncancelled 1s of the minuend that are not further to the right than that 1 of the subtrahend, [del]and[/del] [ins]change into 0 every 0 of the minuend that is further to the right[/ins] than the cancelled 1 of the minuend but not than the cancelled 1 of the subtrahend. Repeat this until no 1 remains uncancelled in the subtrahend, when the uncancelled 1s of the minuend form the expression of the remainder.
+
+[del]Second Rule for Subtraction.[/del] The second rule for subtraction may be prefaced with [del]two[/del] [ins]a leash of small[/ins] remarks. The first is that, just as 70107 (decimally, '10.5) is just the same as 000101010000, so any [ins]any[/ins] expression remains unchanged

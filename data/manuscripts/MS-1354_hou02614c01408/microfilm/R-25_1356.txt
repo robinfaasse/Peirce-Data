@@ -1,0 +1,17 @@
+$$\left(\frac{r}{R}\right)^2 + \left(\frac{z}{Z}\right)^2 = 1$$
+
+$$r = R \sqrt{1 - \left(\frac{z}{Z}\right)^2} \quad z = Z \sqrt{1 - \left(\frac{r}{R}\right)^2}$$
+
+$$\frac{r dr}{R^2} + \frac{z dz}{Z^2} = 0 \quad dr = - \left(\frac{R}{Z}\right)^2 \frac{z}{r} dz \quad dz = - \left(\frac{Z}{R}\right)^2 \frac{r}{z} dr$$
+
+$$= - \frac{[del]\left(\frac{R}{Z}\right)^2 z[/del]}{[del]R \sqrt{1 - \left(\frac{z}{Z}\right)^2}[/del]}$$
+
+$$= - \frac{R}{Z^2} \frac{z}{\sqrt{1 - \left(\frac{z}{Z}\right)^2}} dz$$
+
+Put $\mathfrak{z} = \frac{z}{Z} \quad \mathfrak{r} = \frac{r}{R}$
+
+$$\mathfrak{z}^2 + \mathfrak{r}^2 = 1 \quad \mathfrak{z} = \sqrt{1 - \mathfrak{r}^2} \quad \mathfrak{r} = \sqrt{1 - \mathfrak{z}^2}$$
+
+$$2(\mathfrak{z} d\mathfrak{z} + \mathfrak{r} d\mathfrak{r}) = 0 \quad d\mathfrak{z} = \frac{-\mathfrak{r} d\mathfrak{r}}{\sqrt{1 - \mathfrak{r}^2}} \quad d\mathfrak{r} = \frac{-\mathfrak{z} d\mathfrak{z}}{\sqrt{1 - \mathfrak{z}^2}}$$
+
+[del]$$\equiv \frac{-\mathfrak{r} d\mathfrak{r}}{\mathfrak{z}}$$[/del]

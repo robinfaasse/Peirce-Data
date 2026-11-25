@@ -1,0 +1,33 @@
+[pn]245[/pn]
+
+[u]Chapter V. Notations for Graphics.[/u]
+
+§132. We shall use square brackets, [ ], to denote the [u]point[/u] anyway
+determined by the places denoted by the letters written within
+the brackets. Thus
+\[ [\alpha\beta\gamma] \]
+[del]will denote[/del]
+is the point contained at once in the planes $\alpha$, $\beta$, $\gamma$.
+\[ [\beta\underline{c}] \]
+will denote the point where the ray, $\underline{c}$, cuts the plane $\beta$.
+
+We shall use parentheses, ( ), to denote a [u]plane[/u]. Thus
+\[ (B\underline{c}) \]
+will denote the plane containing the point $B$ and the ray
+$\underline{c}$.
+
+We shall use braces, { }, to denote rays. Thus,
+\[ \{\alpha\beta\} \]
+will be the ray contained in the two planes $\alpha$ and $\beta$. So
+\[ \{AB\} \]
+will be the ray through the two points $A$ and $B$.
+
+[u]Theorem 2.1[/u]. If two rays $\underline{a}$ and $\underline{b}$ are concurrent with
+two others, $\underline{c}$ and $\underline{d}$, then
+\[ \{[\underline{a}\underline{c}][\underline{b}\underline{d}]\} = \{[\underline{a}\underline{d}][\underline{b}\underline{c}]\}. \]
+
+[u]Demonstration[/u]. For $[\underline{a}\underline{c}]$ write $P$ for $[\underline{b}\underline{d}]$ write $Q$;
+for $[\underline{a}\underline{d}]$ write $R$ for $[\underline{b}\underline{c}]$ write $S$.
+Then $\{[\underline{a}\underline{c}][\underline{b}\underline{d}]\} = \{PQ\}$. Since $\underline{a}$ contains $P$ and also $R$,
+$\underline{a} = \{PR\}$;
+and in like manner

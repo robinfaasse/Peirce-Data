@@ -1,0 +1,38 @@
+[marginalia]
+Logic
+[u]LII[/u]
+57
+x
+[/marginalia]
+
+by (64)
+true then if [u]x[/u] is true [u]z[/u] is true; that is, if [u]y[/u] is true, [u]x[/u] [del]⤙[/del] [ins]⤚[/ins] [u]z[/u] is
+true; that is, by (64) [u]y[/u] ⤚ [u]x[/u] ⤚ [u]z[/u] is true. We may call this the rule of
+transposition and express it by saying that antecedents of one consequent can be transposed.
+
+(70) [[u]x[/u] ⤚ [u]y[/u] ⤚ [u]z[/u]] ⤚ [u]y[/u] ⤚ [u]x[/u] ⤚ [u]z[/u]
+
+For, by (69) if [u]x[/u] ⤚ [u]y[/u] ⤚ [u]z[/u] is true, [u]y[/u] ⤚ [u]x[/u] ⤚ [u]z[/u] is true; whence,
+by (64), (70) is true.
+
+(71) If ([u]x[/u] ⤚ [u]y[/u]) ⤚ [u]z[/u] is true, then ([u]x[/u] ⤚ [u]z[/u]) ⤚ [u]z[/u] is true.
+
+For by (65), if ([u]x[/u] ⤚ [u]y[/u]) ⤚ [u]z[/u] is true, then [u]z[/u] is true or [u]x[/u] ⤚ [u]y[/u] is false.
+But if [u]x[/u] ⤚ [u]y[/u] is false, by (64) [u]x[/u] is true. Therefore, if ([u]x[/u] ⤚ [u]y[/u]) ⤚ [u]z[/u] is
+true, either [del][u]z[/u] is true[/del] [ins]or, [u]z[/u] being false, [u]x[/u][/ins] is true. But if [u]z[/u] is true, by (64) ([u]x[/u] ⤚ [u]z[/u]) ⤚ [u]z[/u]
+is true. If, however, [u]z[/u] is false and [u]x[/u] is true, by (65) [u]x[/u] ⤚ [u]z[/u] is
+false, and in this case by (67) ([u]x[/u] ⤚ [u]z[/u]) ⤚ [u]z[/u] is again true. That is,
+the consequent or the antecedent may be identified with the consequent.
+
+[marginalia]
+By contrp
+[/marginalia]
+
+(72) [del]If[/del] [ins]⤚[/ins] ([u]x[/u] ⤚ [u]y[/u]) ⤚ [u]z[/u] is true, then [u]y[/u] ⤚ [u]z[/u] is true.
+
+For by (65) if ([u]x[/u] ⤚ [u]y[/u]) ⤚ [u]z[/u] is true, either [u]z[/u] is true or [u]x[/u] ⤚ [u]y[/u] is
+false. But by (64) if [u]x[/u] ⤚ [u]y[/u] is false, [u]y[/u] is false. Hence either
+[u]z[/u] is [ins]true[/ins] [del]true[/del] or [u]y[/u] is false, and therefore, by (64) [u]y[/u] ⤚ [u]z[/u] is true.
+That is, the antecedent of the antecedent may be suppressed.
+
+(73) ([u]x[/u] ⤚ [u]y[/u]) ⤚ ([u]y[/u] ⤚ [u]z[/u]) ⤚ [del]([u]x[/u] ⤚ [u]z[/u])[/del] [ins][([u]x[/u] ⤚ [u]y[/u]) ⤚ [u]z[/u]] ⤚ ([u]x[/u] ⤚ [u]z[/u]) ⤚ [u]z[/u][/ins]

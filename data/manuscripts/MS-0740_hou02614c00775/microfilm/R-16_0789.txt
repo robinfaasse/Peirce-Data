@@ -1,0 +1,34 @@
+Then $\sigma_1 = (\frac{p_1}{q_1} + \frac{p'_1}{q'_1}) + \frac{p''_1}{q''_1}$
+
+$\sigma_2 = \frac{p_2}{q_2} + (\frac{p'_2}{q'_2} + \frac{p''_2}{q''_2})$
+
+and $\sigma_2 q_2 = p_2 + (\frac{p'_2}{q'_2} q_2 + \frac{p''_2}{q''_2} q_2)$
+
+for as $\frac{p'_2}{q'_2} q_2$ and $\frac{p''_2}{q''_2} q_2$ have small Roman letters for their
+values by the rule of division $(\frac{p'_2}{q'_2} q_2 + \frac{p''_2}{q''_2} q_2) \div q_2 = \frac{p'_2}{q'_2} + \frac{p''_2}{q''_2}$.
+
+But $p_2 + (\frac{p'_2}{q'_2} q_2 + \frac{p''_2}{q''_2} q_2) = (p_2 + \frac{p'_2}{q'_2} q_2) + \frac{p''_2}{q''_2} q_2$
+
+Dividing by $q_2$
+
+$\sigma_2 = (\frac{p_2}{q_2} + \frac{p'_2}{q'_2}) + \frac{p''_2}{q''_2} = (\frac{p_1}{q_1} + \frac{p'_1}{q'_1}) + \frac{p''_1}{q''_1} = \sigma_1$
+
+It must now be proved that
+
+$(\alpha + \beta) \gamma = \alpha \gamma + \beta \gamma$
+
+Let [del]$\alpha = a \div b$ $\beta = b \div c$[/del]
+
+$\alpha = a \div n = a' \div c$ $\beta = b \div n = b' \div c'$ $\gamma = n' \div o = c \div d = c' \div d'$
+
+and let $a' \div d = a'' \div d''$ $b' \div d' = b'' \div d''$
+
+Then $(\alpha + \beta) \gamma = (\frac{a}{n} + \frac{b}{n}) \frac{n'}{o} = \frac{m}{o}$
+
+$\alpha \gamma + \beta \gamma = \frac{a'}{c} \cdot \frac{c}{d} + \frac{b'}{c'} \cdot \frac{c'}{d'}$
+
+$(\alpha + \beta) \gamma \cdot o = (\frac{a}{n} + \frac{b}{n}) n' = \frac{a}{n} n' + \frac{b}{n} n'$
+
+$(\alpha + \beta) \gamma = (\frac{a}{n} n' + \frac{b}{n} n') \div o = (\frac{a}{n} n') \div o + (\frac{b}{n} n') \div o = \frac{a}{n} \cdot \frac{n'}{o} + \frac{b}{n} \cdot \frac{n'}{o}$
+
+$= \frac{a'}{c} \cdot \frac{c}{d} + \frac{b'}{c'} \cdot \frac{c'}{d'} = \alpha \gamma + \beta \gamma$.

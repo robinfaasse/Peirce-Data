@@ -1,0 +1,17 @@
+[pn]N12[/pn] Intimately connected with these abbreviations are others, some
+of which I have mentioned elsewhere. The rules of their application
+would form an elaborate logical doctrine, which I have not time
+to develope, because I am working at more fundamental parts of
+logic. Whenever undertakes it in the light of what I have said
+here and elsewhere will have other symbols forced upon his
+attention.
+
+I pass to another and very simple abbreviation, which
+consists in using the symbol $\sigma$ so that $\sigma_{ij}$ shall mean that
+$j$ is [ins]at least[/ins] [del]as low[/del] an integer as $i$. That is,
+
+(20) $\sigma_{ij} = \Pi_{\alpha} \bar{s}_{\alpha} \mathbin{\psi} \bar{q}_{\alpha i} \mathbin{\psi} q_{\alpha j}$
+
+It immediately follows that
+
+$\begin{array}{l} \text{(21)} \\ \text{(22)} \end{array}$ $\Pi_{i} \sigma_{ii}$ and $\Pi_{i} \Pi_{j} \Pi_{k} \bar{\sigma}_{ij} \mathbin{\psi} \bar{\sigma}_{jk} \mathbin{\psi} \sigma_{ik}$

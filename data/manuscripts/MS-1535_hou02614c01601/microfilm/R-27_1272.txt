@@ -1,0 +1,22 @@
+Let the packs so laid down be taken
+up in the order
+0 1 2 3 etc, (mod P)
+Let the position of a card in the new order be $n_1$
+Then first suppose $N$ divisible by $P$. Then
+are $\frac{N}{P}$ cards in a pile. For the first $\frac{N}{P}$
+cards $n_0 = P n_1$
+so that for $n_1 = \frac{N}{P} - 1$ $n_0 = N - P$
+For the next card $n_1 = \frac{N}{P}$ $n_0 = 1$ instead of $N$
+That is the modulus is such that
+$N \equiv 1$
+or the modulus is $N - 1$ and we have in
+general
+$n_0 \equiv P n_1 \pmod{N-1}$
+$n_0 = R \frac{P n_1}{N-1}$
+
+If $N$ is not divisible by $P$ let the
+maximum number of cards in a
+pack by $Q = \text{Q} \frac{N}{P} + 1$
+Take $N' = QP$
+$n'_1$ so that $n_0 = R \frac{P n'_1}{N'-1}$
+and imaginary cards may be conceived

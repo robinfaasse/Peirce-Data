@@ -1,0 +1,33 @@
+[pn]4[/pn]
+
+$(y+z)(z+y) = y+z$
+
+$(x+y)(y+z)(z+x) = xy + yz + zx$
+
+$(w+x)(x+y)(y+z)(z+w) = wy + xz$
+
+$(v+w)(w+x)(x+y)(y+z)(z+v) = vwy + wxz + xyv + yzw + zvx$
+
+$(u+v)(v+w)(w+x)(x+y)(y+z)(z+u) = uwy + vxz$
+
+$(t+u)(u+v)(v+w)(w+x)(x+y)(y+z)(z+t) = tuwy + uvxz + vwyt + wxz$
+[ins]$+ xytv + yzuw + [del]ztvx[/del]$[/ins]
+
+$(s+t)(t+u)(u+v)(v+w)(w+x)(x+y)(y+z)(z+s) = suwy + tvxz$
+
+$(w+x)([del]y+v[/del])(w+y)(x+z)(w+z)(x+y) = wxy + wxz + wyz + xyz$
+
+$(u+v)(u+w)(u+x)(u+y)(v+z)(w+z)(x+z)(y+z) = uz + vx + wy$
+
+$(u+v+w)([del]z+[/del]y+x)(u+w+x)(z+y+v)(u+x+y)(z+v+w)(u+y+v)(z+w+x)$
+$= uz + vx + yw$
+
+[del]$(s+u)(s+t)(s+x)(v+u)(v+y)$[/del]
+$(s+v)(w+z)(s+t)(y+z)(s+x)(u+z)(u+v)(w+x)(v+y)(t+w)(t+u)(x+y)$
+$= suwy + tvxz$
+$= [del]sztvx + szuwy[/del]$
+$= [del]stvxz + tuswy + uvtzx + vysuw + wxtzv + xyswu + yzwxt[/del]$
+
+[del]$(s+t+u+v)$[/del]
+$(s+t+u+v)([del]w+x[/del]w+x+y+z)(x+t+w+x)(u+v+y+z)(s+v+x+u)(t+u+w+z)$
+$= sz + ty + ux + vw$

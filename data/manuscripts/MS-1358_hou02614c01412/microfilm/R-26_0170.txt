@@ -1,0 +1,35 @@
+[marginalia]Morison's Bridge [date]1899 Feb 18[/date].[/marginalia] [pn]3[/pn]
+
+[del]VII[/del] [ins]VIII[/ins] [del]These are two more where only the last suspended section
+has its \(\theta\) changed the lower heads moving.[/del]
+
+Let the limits of the live-load be at \(x = I\) and \(x = J\), Both
+may be considered as within the suspended part, since if part is
+outside it may be replaced by a force & couple at \(N\).
+(However, I had better also show the equations for the entire
+bridge.)
+
+[fig]Diagram of bridge sections with points I, J, N, and N+2[/fig] For the equations I, the geometrical conditions
+are as follows:
+
+[del]\(x_n = -\frac{S}{2} \cos \theta\)[/del] [del]\(y_n = -\frac{S}{2} \sin\)[/del] [marginalia]so as to make these \(\theta\)[/marginalia] [pn]6[/pn]
+
+Morison's Bridge [date]1899 Feb 19[/date] Quadrigesima Sunday
+
+\(x_n = \text{Const} + \frac{S}{2} \cos (\theta + \vartheta)_n\) \(y_n = \text{const} + \frac{S}{2} \sin (\theta + \vartheta)_n\)
+
+\(x_{n+ds} = \text{Const} + S [ \cos (\theta + \vartheta)_n + \frac{1}{2} \cos (\theta + \vartheta)_{n+ds} ]\) \(y_{n+ds} = \text{Const} + S [ \sin (\theta + \vartheta)_n + \frac{1}{2} \sin (\theta + \vartheta)_{n+ds} ]\)
+
+\(\delta x_n = - \frac{S}{2} \sin (\theta + \vartheta)_n \delta \theta_n\) \(\delta y_n = + \frac{S}{2} \cos (\theta + \vartheta)_n \delta \theta_n\)
+
+\(\delta x_{n+ds} = - S [ \sin (\theta + \vartheta)_n \delta \theta_n + \frac{1}{2} \sin (\theta + \vartheta)_{n+ds} \delta \theta_{n+ds} ]\) \(\delta y_{n+ds} = S [ \cos (\theta + \vartheta)_n \delta \theta_n + \frac{1}{2} \cos (\theta + \vartheta)_{n+ds} \delta \theta_{n+ds} ]\)
+
+\(\delta x_{n+\frac{3}{2}ds} = - S [ \sin (\theta + \vartheta)_n \delta \theta_n + \sin (\theta + \vartheta)_{n+ds} \delta \theta_{n+ds} ]\)
+
+\(\begin{aligned} 0 &= \cos (\theta + \vartheta)_n \delta \theta_n + \cos (\theta + \vartheta)_{n+ds} \delta \theta_{n+ds} \\ \delta \theta_{n+ds} &= - \delta \theta_n \frac{\cos (\theta + \vartheta)_n}{\cos (\theta + \vartheta)_{n+ds}} \end{aligned}\)
+
+\(\begin{aligned} &= S [ \frac{\sin (\theta + \vartheta)_{n+ds} - (\theta + \vartheta)_n}{\cos (\theta + \vartheta)_{n+ds}} ] \delta \theta_n \end{aligned}\)
+
+\(\delta x_{n+ds} = S [ \frac{1}{2} \tan (\theta + \vartheta)_{n+ds} \cos (\theta + \vartheta)_n - \sin (\theta + \vartheta)_n ] \delta \theta_n\)
+
+\(\delta y_{n+ds} = [del]S [ \cos (\theta + \vartheta)_n - \frac{1}{2} =[/del] \frac{1}{2} S \cos (\theta + \vartheta)_n \delta \theta_n = S \delta y_n\)

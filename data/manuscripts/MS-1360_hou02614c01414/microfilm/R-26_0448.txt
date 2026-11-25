@@ -1,0 +1,19 @@
+[pn]3[/pn]
+
+$$\frac{r}{s} (\cos 51^{\circ} + \sin \text{lat}) = e^{y - \gamma} = \cosh (y - \gamma) + \sinh (y - \gamma)$$
+$$\frac{s}{r} \frac{1}{\cos 51^{\circ} + \sin \text{lat}} = e^{\gamma - y} = \cosh (y - \gamma) - \sinh (y - \gamma)$$
+
+$$\cosh (y - \gamma) = \sin 51^{\circ} \cos x$$
+
+[u]For the Meridians[/u] then assuming values of $y$
+Taking $\tan \Theta = \cos 51^{\circ} \tan \text{long}$
+$H = \sin \Theta \cdot \tan 51^{\circ}$
+$\sin (x - \Theta) = H \sinh (y \frac{\pi}{180^{\circ}}) = [del]H \tan \eta[/del]$ [ins]$\log \tan (45^{\circ} + \frac{\eta}{2}) \cdot \frac{M \pi}{180^{\circ}}$[/ins]
+
+[u]For the Parallels[/u] assuming values of $x$
+taking $\gamma = - \frac{1}{M} \log (\cos 51^{\circ} + \sin \text{lat})$
+[del]$\cosh (y - \gamma)$[/del]
+$\cosh (y \frac{\pi}{180^{\circ}} - \gamma) = \sin 51^{\circ} \cos x$
+$\sin 51^{\circ} \cos x = \sec \eta$
+$\log \tan (45^{\circ} + \frac{\eta}{2}) = M \frac{\pi}{180^{\circ}} y - \log (\cos 51^{\circ} + \sin \text{lat})$
+$y = \frac{180^{\circ}}{M \cdot \pi} \left\{ \log (\cos 51^{\circ} + \sin \text{lat}) + \log \tan (45^{\circ} + \frac{\eta}{2}) \right\}$

@@ -1,0 +1,15 @@
+[pn]18.[/pn]
+
+Et puisque $h_1 : h_2 = 101 : 44$, nous nommerons
+
+$$\frac{\vartheta^2 l}{g} = \frac{T_1^2 h_1 - T_2^2 h_2}{h_1 - h_2} = 1,013 - \frac{101 \times .0001456 + 44 \times .0000902}{57}$$
+
+$$= 1,012672$$
+
+Cette valeur doit recevoir des corrections à cause de la marche du chronomètre et à cause de la température, le chronomètre retardait par jour de $0^s,86$, ce qui donne une correction à $T^2$ de $+0,000020$. La température pendant le temps où le bout pesant était en haut était $12^\circ,7$ en moyen, et tandis que ce bout était en bas, était $12^\circ,0$. Ainsi pour réduire à $13^\circ\text{C}$, il faut appliquer une correction de
+
+$$\frac{0.1 \times 101 - 0.3 \times 44}{57} = .0000186 = .000001$$
+
+D'où nous concluons
+
+$$\frac{\vartheta^2 l}{g} \text{ à } 13^\circ\text{C} = 1,012691$$

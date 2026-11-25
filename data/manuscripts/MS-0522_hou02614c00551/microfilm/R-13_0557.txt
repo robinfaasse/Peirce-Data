@@ -1,0 +1,29 @@
+[pn]77[/pn]
+
+[u]§22. Three letter problems[/u]
+[u]involving transitive relations[/u]
+
+First Regiment. The elementary inversion
+problems.
+
+1st Squad
+[del]1[/del] [ins]i[/ins] ≺ a ≀ b ≀ [del]c[/del] [ins]x[/ins]
+[del]1[/del] [ins]i[/ins] ≺ [del]c[/del] [ins]x[/ins] ≀ b ≀ a
+
+[del]1[/del] [ins]i[/ins] ≺ x ≀ b ≀ a
+[del]1[/del] [ins]i[/ins] ≺ [del]a[/del] [ins]x[/ins] ≀ b ≀ [del]x[/del] [ins]a[/ins]
+
+[del]1[/del] [ins]i[/ins] ≺ [del]x[/del] [ins]a[/ins] ≀ b ≀ x
+
+$\Pi_i \Pi_j \Pi_k$ [del]a[/del] [ins]b[/ins]$_{ij}$ + b$_{kj}$ + x$_{ik}$
+$\infty \prec a + \bar{x} \bar{j} b$
+$x \prec a \dagger \bar{b}$
+$x = x \cdot (a \dagger \bar{b})$
+
+If $x = u \cdot (a \dagger \bar{b})$
+$x b = [u \cdot (a \dagger \bar{b})] b \prec u b \cdot a \prec a$
+Hence solution is $x = \sum_u u \cdot (a \dagger \bar{b})$
+
+To solve i ≺ [del]x[/del] [ins]a[/ins] ≀ b ≀ [del]a[/del] [ins]x[/ins]
+x ≺ b ≀ a
+$x = \sum_u u \cdot (b \dagger a)$

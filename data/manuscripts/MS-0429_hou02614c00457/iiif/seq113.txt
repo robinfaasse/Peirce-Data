@@ -1,0 +1,29 @@
+50.
+
+[u]f[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]v[/u]) and [u]v[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]v[/u]) have the same value, and
+that
+[u]f[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]f[/u]) and [u]v[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]f[/u]) have the same value.
+1st, Suppose [u]v[/u] [u]O[/u] [u]v[/u] = [u]f[/u] [u]O[/u] [u]v[/u] = [u]v[/u]. Then
+[u]f[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]v[/u]) = [u]f[/u] [u]O[/u] [u]v[/u] = [u]v[/u]
+[u]v[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]v[/u]) = [u]v[/u] [u]O[/u] [u]v[/u] = [u]v[/u].
+Thus the first prescription holds. Now let us see whether
+[u]f[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]f[/u]) is equal to [u]v[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]f[/u]). If not, one or other
+must be, [u]f[/u]. Suppose [u]f[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]f[/u]) is [u]f[/u]. Then, since [u]f[/u] [u]O[/u] [u]v[/u] is
+[u]v[/u], [u]v[/u] [u]O[/u] [u]f[/u] cannot be [u]v[/u],since then we should have [u]f[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]f[/u]) =
+[u]f[/u] [u]O[/u] [u]v[/u] = [u]v[/u]. It must be then that [u]f[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]f[/u]) = [u]f[/u] [u]O[/u] [u]f[/u], and
+[u]f[/u] [u]O[/u] [u]f[/u] must be [u]f[/u]. But then [u]v[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]f[/u]) = [u]v[/u] [u]O[/u] [u]f[/u] = [u]f[/u]. So that the
+two [u]f[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]f[/u]) and [u]v[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]f[/u]) are equal. Likewise if
+[u]v[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]f[/u]) is [u]f[/u], it must be that [u]f[/u] [u]O[/u] [u]f[/u] is [u]f[/u], since were it [u]v[/u]
+we should have [u]v[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]f[/u]) = [u]v[/u] [u]O[/u] [u]v[/u] = [u]v[/u]. Thus, it must be that
+[u]v[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]f[/u]) = [u]v[/u] [u]O[/u] [u]f[/u]; and this must be [u]f[/u]. But then [u]f[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]f[/u])
+= [u]f[/u] [u]O[/u] [u]f[/u] = [u]f[/u], and again the two are equal. So, in any case,
+the second prescription holds.
+2nd, suppose [u]f[/u] [u]O[/u] [u]f[/u] = [u]v[/u] [u]O[/u] [u]f[/u] = [u]f[/u]. That the second pres-
+cription holds is manifest for
+[u]v[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]f[/u]) = [u]v[/u] [u]O[/u] [u]f[/u] = [u]f[/u],
+[u]f[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]f[/u]) = [u]f[/u] [u]O[/u] [u]f[/u] = [u]f[/u].
+Let us inquire into the first prescription. Since we have al-
+ready seen that this holds when [u]v[/u] [u]O[/u] [u]v[/u] = [u]f[/u] [u]O[/u] [u]v[/u] = [u]v[/u] we may limit
+our present inquiry to the case in which either [u]v[/u] [u]O[/u] [u]v[/u] = [u]f[/u] or
+[u]f[/u] [u]O[/u] [u]v[/u] = [u]f[/u]. If [u]v[/u] [u]O[/u] [u]v[/u] = [u]f[/u], then, since [u]v[/u] [u]O[/u] [u]f[/u] is [u]f[/u], [u]v[/u] [u]O[/u] [u]x[/u] is [u]f[/u],
+whatever [u]x[/u] may be; and thus [u]v[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]v[/u]) is [u]f[/u]. But [u]f[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]v[/u]) =

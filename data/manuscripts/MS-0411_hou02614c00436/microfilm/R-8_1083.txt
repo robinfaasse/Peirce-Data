@@ -1,0 +1,22 @@
+[pn]240[/pn]
+
+Hence, by the [u]modus ponens[/u], the inference holds
+[u]X|Y|Z[/u] true,
+[u]∴[/u] X|Z true.
+
+That is, any second antecedental may be dropped. Hence [del]it[/del] follows the validity of this
+[u]X|Z|W[/u] true,
+[u]∴[/u] [u]Y|X|Z|W[/u] true.
+
+That is, any third antecedental may be inserted. And generally [ins]ck[/ins] any antecedental of odd order may be inserted, and any antecedental of even order [del]too[/del] may be dropped.
+
+Let us apply contraposition to the dropping rule. Since the inference holds
+[u]X|Y|Z[/u] true,
+[u]∴[/u] [u]X|Y|Z[/u] true,
+
+it follows by contraposition that the inference holds
+[u]X|Y|Z|U[/u]|V true,
+[u]∴[/u] [u]X|Y|Z|U[/u]|V true.
+
+That is, two vincula beginning at one point under an odd number of vincula can be elongated. From the last we can further infer, of course,
+[u]∴[/u] [u]X|Y[/u]|[u]Z|U[/u]|V true.

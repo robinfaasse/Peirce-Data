@@ -1,0 +1,46 @@
+[marginalia][date]Nov. 12[/date][/marginalia]
+
+[del]$x, p, e$ is a non relative term[/del]
+
+$e^x$ is to be regarded as signifying
+the $e$'s among all the $x$'s
+
+$e^x = x, e^x + (1-x), e^0$
+perhaps rather if the $x$'s exist.
+
+I will now note all the exceptions in reference
+to these exponents.
+
+In arithmetic $e^{xy} = (e^x)^y$
+
+Now in logic no sense [del]has been attached[/del]
+to $(e^x)^y$ which is of course different from $e^{xy}$.
+Therefore this signification may [del]be given to it[/del]
+
+If $a = e^b$ $b = \log_e a$ but $\log_e a$ is indeterminate
+[ins]it maybe that[/ins]
+$a = e^c$
+
+Hence we might write $b = \log_e a$
+
+In arithmetic [del]it is[/del]
+$z \log_e m^y = [del]y \log_e m^z[/del] y \log_e m^z$
+
+Now suppose $e^x = m^{1/z}$
+
+Then it does not follow that $e^{xy} = m^{y/z}$
+and therefore not that
+$z \log_e m^{y/z} = \log_e m^y$
+
+This seems to be a down-right exception.
+
+So this very valuable formula, without which it seems
+hopeless to get any developments, must be dispensed with.
+
+In arith if $e^x = m^y$
+$e^{x/z} = m^{y/z}$
+
+But this is not so here
+
+[del]This because in arithmetic $e^{x/z} = e^{x \cdot 1/z}$[/del]
+[del]But this does not hold in logic[/del]

@@ -1,0 +1,27 @@
+[pn]R[/pn]
+becomes when [u]d[/u]+1 is substituted for [u]d[/u]. For example, we have
+[u]E[/u][sub][u]d[/u][/sub] [u]u[/u][sub][u]d[/u][/sub] = [u]u[/u][sub][u]d[/u]+1[/sub]
+[u]E[/u][sub][u]d[/u][/sub] [u]u[/u][sub][u]d[/u]-[u]m[/u][/sub] = [u]u[/u][sub][u]d[/u]+1-[u]m[/u][/sub]
+[u]E[/u][sub][u]d[/u][/sub] [u]d[/u] = [u]d[/u]+1
+[u]E[/u][sub][u]d[/u][/sub] [u]d[/u]-1 = [u]d[/u]+1-1 = [u]d[/u]
+[u]E[/u][sub][u]d[/u][/sub] [fraction]1/2[/fraction][u]d[/u]([u]d[/u]-1) = [fraction]1/2[/fraction]([u]d[/u]+1)[u]d[/u]
+[u]E[/u][sub][u]d[/u][/sub] [u]C[/u] = [u]C[/u].
+
+Evidently, if a quantity, Q, is such that [u]E[/u][sub][u]d[/u][/sub] Q = Q for all values of [u]d[/u], then [del]the[/del] the value of Q does not depend upon that of [u]d[/u]. We can write [u]E[/u][sub][u]d[/u][/sub] Q = Q in the form
+[u]E[/u][sub][u]d[/u][/sub] Q - Q = 0,
+or still better
+([u]E[/u][sub][u]d[/u][/sub]-1) Q = 0
+If this be true, we can, [del]always then[/del] [ins]according to what[/ins] has just been said, always write Q = [u]C[/u], where [u]C[/u] is some quantity which does not depend upon [u]d[/u]. And if Q be any such quantity [u]E[/u][sub][u]d[/u][/sub] Q = Q, or ([u]E[/u][sub][u]d[/u][/sub]-1) Q = 0
+
+Now let us perform the operation ([u]E[/u][sub][u]d[/u][/sub]-1) upon the expression
+[u]u[/u][sub][u]d[/u]-1[/sub] + [u]u[/u][sub][u]d[/u]-2[/sub] + [u]u[/u][sub][u]d[/u]-3[/sub] + . . . + [u]u[/u][sub]0[/sub] - [fraction]1/2[/fraction][u]d[/u]([u]d[/u]-1).
+
+It is,
+[del][fig]scribble[/fig][/del] [u]u[/u][sub][u]d[/u][/sub] + [u]u[/u][sub][u]d[/u]-1[/sub] + [u]u[/u][sub][u]d[/u]-2[/sub] + . . . + [u]u[/u][sub]0[/sub] - [fraction]1/2[/fraction]([u]d[/u]+1) [u]d[/u]
+- [u]u[/u][sub][u]d[/u]-1[/sub] - [u]u[/u][sub][u]d[/u]-2[/sub] - . . . - [u]u[/u][sub]0[/sub] + [fraction]1/2[/fraction][u]d[/u]([u]d[/u]-1)
+
+But [fraction]1/2[/fraction][u]d[/u]([u]d[/u]-1) - [fraction]1/2[/fraction]([u]d[/u]+1)[u]d[/u] = [fraction]1/2[/fraction][u]d[/u]² - [fraction]1/2[/fraction][u]d[/u] - [fraction]1/2[/fraction][u]d[/u]² - [fraction]1/2[/fraction][u]d[/u] = -[u]d[/u] ; so that
+([u]E[/u][sub][u]d[/u][/sub]-1) [[u]u[/u][sub][u]d[/u]-1[/sub] + [u]u[/u][sub][u]d[/u]-2[/sub] + . . . + [u]u[/u][sub]0[/sub] - [fraction]1/2[/fraction][u]d[/u]([u]d[/u]-1)] = [u]u[/u][sub][u]d[/u][/sub] - [u]d[/u] .
+
+But we have seen that [u]u[/u][sub][u]d[/u][/sub] = [u]d[/u] so that [u]u[/u][sub][u]d[/u][/sub] - [u]d[/u] vanishes and
+[u]u[/u][sub][u]d[/u]-1[/sub] + [u]u[/u][sub][u]d[/u]-2[/sub] + . . . + [u]u[/u][sub]0[/sub] - [fraction]1/2[/fraction][u]d[/u]([u]d[/u]-1) = [u]C[/u]

@@ -1,0 +1,54 @@
+[fig]Two intersecting circles with lines and smaller circles[/fig]
+
+Try again
+
+* $(x-\alpha)^2 + (y-\beta)^2 = \rho^2$
+
+[del]$\frac{x'}{y'} = \frac{x}{y}$[/del]
+
+$(x^2+y^2)(x'^2+y'^2) = r^4$
+
+If this is the simplest thing in the world
+By [del]similar[/del] $\Delta$s $\frac{y'}{\beta} = \frac{x'}{\alpha} = \frac{\rho'}{\beta}$
+
+$\rho^2 = $ the potence of the origin relatively to the transforman
+$= \alpha^2 + \beta^2 - \rho^2$
+
+$\rho'^2 = $ ditto relative to the transformate
+$= \alpha'^2 + \beta'^2 - \rho'^2$
+
+$\frac{\rho'^2}{\rho^2} = \frac{\alpha'^2 + \beta'^2 - \rho'^2}{\alpha^2 + \beta^2 - \rho^2} = \frac{\rho'^2 (\alpha^2 + \beta^2 - \rho^2)}{\alpha^2 + \beta^2 - \rho^2} = \rho'^2$
+
+so $\frac{\alpha'^2 + \beta'^2 - \rho'^2}{\alpha^2 + \beta^2 - \rho^2} = \frac{\rho'^2}{\rho^2}$
+
+$\frac{\sqrt{\rho'^2}}{\rho^2} = \frac{1}{\sqrt{\rho^2}}$
+
+$\therefore \rho' = \frac{\rho^2}{\rho}$ and $\frac{\alpha'}{\alpha} = \frac{\beta'}{\beta} = \frac{\rho^2}{\alpha^2+\beta^2-\rho^2}$
+
+$\frac{\alpha'}{\alpha} = \frac{\beta'}{\beta} = \frac{\rho^2}{\rho^2}$
+
+***
+
+[marginalia]Multiplication of circulants[/marginalia]
+
+[fig]Matrix multiplication diagram with binary numbers[/fig]
+
+$\Sigma_3 (\frac{1}{10})^3$
+
+$\Sigma_3 (\frac{1}{10})^4 = \Sigma_3 \frac{1}{10} (\frac{1}{10})^3$
+
+[fig]Binary tree diagram with fractions[/fig]
+
+$\frac{1}{7} \times \frac{1}{9} = \frac{9}{63} \times \frac{21}{63}$
+
+$\frac{1}{21} = \frac{3}{63}$
+
+$\frac{27}{3.37} \times \frac{3.3}{3.3.7} = \frac{0}{3.3.7}$
+
+[fig]Grid diagram with binary numbers[/fig]
+
+$\frac{1}{3} = \Sigma \frac{1}{10^{2i}} = A_2$ 4 6 8 10 12
+
+$\frac{1}{7} = \Sigma \frac{1}{10^{3j}}$ 3 6 9 12
+
+[fig]Tree diagram with numbers[/fig]

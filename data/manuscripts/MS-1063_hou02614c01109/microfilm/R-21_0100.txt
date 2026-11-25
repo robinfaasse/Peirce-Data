@@ -1,0 +1,32 @@
+[del][fig]crossed out fraction[/fig][/del]
+
+[del]$q^2 = (Sq)^2 + Vq^2$[/del]
+
+$q = Tq(\cos\theta + \sin\theta . v)$
+
+$q^2 = (Tq)^2 (\cos^2\theta - \sin^2\theta + 2\sin\cos\theta . v)$
+
+$q^2 = (Tq)^2 (\cos 2\theta + \sin 2\theta . v)$
+
+$dq^2 = [del]\frac{2q^2}{Tq}[/del] \frac{2q^2}{Tq} dTq$
+$+ 2(Tq)^2 (-\sin 2\theta + \cos 2\theta . v) d\theta$
+$+ (Tq)^2 \sin 2\theta . dv$
+
+$dq = \frac{q}{Tq} dTq +$
+
+***
+
+[del]$Tdq = c$[/del]
+
+$\left. \begin{array}{l} q = \cos\theta + \sin\theta . v \\ \frac{1}{q} = \cos\theta - \sin\theta . v \end{array} \right\}$
+
+$\left. \begin{array}{l} q = \cos\theta + \sin\theta (\cos\phi . i + \sin\phi . j) \\ \frac{1}{q} = \cos\theta - \sin\theta (\cos\phi . i + \sin\phi . j) \end{array} \right\}$
+
+$dq = -\sin\theta (-\sin\phi . i + \cos\phi . j) d\phi$
+
+$\frac{1}{q} dq = [del]\frac{1}{q}[/del]$
+$\cos\theta \sin\theta (-\sin\phi . i + \cos\phi . j) d\phi$
+$- \sin^2\theta (\cos^2\phi + \sin^2\phi) k d\phi$
+
+$\int \frac{1}{q} dq = \ln \theta \cos\theta (\cos\phi . i + \sin\phi . j)$
+$- \sin^2\theta . \phi . k$

@@ -1,0 +1,22 @@
+$$N = g^2 m h (m_o h_o + m r + m h \psi^{-1})(1 + \psi^{-1}) - g^2 m^2 h^2 \psi^{-2}$$
+$$\psi N = g^2 m h \{m_o h_o + m(h+r)\} + g^2 m h (m_o h_o + m r) \psi$$
+
+Writing
+$$MHL = m_o (h_o^2 + \gamma_o^2) + m \{(h+r)^2 + \gamma^2\}$$
+$$MH = m_o h_o + m(h+r)$$
+
+we have
+$$\psi N = g^2 m h \{MH + (MH - m h) \psi\}$$
+[del]$$\psi N = g m h \{MHL + [ (m_o \frac{h_o}{h} - m)(h^2 + \gamma^2) + m r (\frac{\gamma^2}{h} - h) ] \psi \}$$[/del]
+
+$$\psi N = g^2 m h \{MHL + [MHL + (m_o \frac{h_o}{h} - m)(h^2 + \gamma^2) + m r (\frac{\gamma^2}{h} - h)] \psi\}.$$
+
+Writing $T + \Delta T$ for the approximate period, where $T = [del]\pi[/del] [ins]2\pi[/ins] \sqrt{\frac{L}{g}}$, or the period when $\psi$ vanishes, we have
+
+$$2 \frac{\Delta T}{T} = \left\{ \frac{(m_o \frac{h_o}{h} - m)(h^2 + \gamma^2) + m r (\frac{\gamma^2}{h} - h)}{MHL} + \frac{m h}{MH} \right\} \psi.$$
+
+$$\frac{M}{N}$$
+
+$$\begin{aligned} h_o' &= r' - h \\ &= H + H' - r - h \end{aligned}$$
+
+[fig]Diagram showing vertical axis with points h_o, h, and r[/fig]

@@ -1,0 +1,36 @@
+[pn]342[/pn]
+
+for the [del]total[/del] [ins]total[/ins] number of triangles is $N^{2}$ it will [del]next be[/del] [ins]next be[/ins] $N^{2} + 2N + 1$.
+But this is $(N+1)^{2}$.
+$$\begin{array}{c}
+N+1 \\
+N+1 \\
+\hline
+N^{2} + N \\
+\phantom{N^{2} + } N + 1 \\
+\hline
+N^{2} + 2N + 1.
+\end{array}$$
+
+If therefore the rule holds for any number of lengths on a side,
+that the number of little triangles in the composite triangle
+is the square of that number, it will also hold for one number
+greater, and thus for all numbers. But it does hold for $N=1$.
+Hence it holds in all cases. Now all these triangles are in all
+respects equal. They are therefore of equal area; and consequently
+the area of the composite triangle is proportionate to the number
+of lengths of the small one. Now these small ones may be made
+indefinitely small and thus measure the length of large triangles with
+indefinite closeness of approximation. Consequently the areas of
+similar triangles are always proportionate to the squares of the lengths
+of corresponding sides.
+
+$\S$ Definition 191. A square is a plane rectilineum tetragon
+with all its sides equal and all its angles equal.
+
+[fig]Square with diagonal[/fig] Corollary 51. Evidently a square is cut by a diagonal
+into two similar triangles, similar to those forming
+any other square.
+
+Corollary 52. The areas of squares are in the duplicate ratio
+of their sides.

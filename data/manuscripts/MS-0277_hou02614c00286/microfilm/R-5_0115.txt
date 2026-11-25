@@ -1,0 +1,76 @@
+[marginalia]
+[fig]Diagram showing logical implication relations[/fig]
+is implied by
+is implied by A
+is implied by
+[/marginalia]
+
+[date]1907 June 23[/date]
+
+[fig]Diagram with letters Z, A, B, C, D[/fig]
+[pn]Z[/pn]
+A B C D
+
+[fig]Diagram showing a node transformation[/fig]
+
+is to convert [fig]Three-line intersection[/fig] [fig]Four-line intersection[/fig] into [fig]Multi-line intersection[/fig]
+[ins]3+2[/ins] [ins]4+2[/ins] [ins]3+4+2+2[/ins]
+
+is of course to convert [del]2L + 6σ - (s+2)s[/del]
+[ins]2L + (s+t) σ - (s+t+4) σ[/ins]
+into L + (s+t+2) σ - (s+t+4) σ
+
+That is to subtract L - 2σ or L + P
+
+[fig]Diagram showing two nodes on a line[/fig]
+Convert L + sσ - (s+2)σ
++ L + tσ - (t+2)σ
+into L + s + t s - (s+t) σ - (t+1) σ = L - 2σ
+
+That is, it subtracts L and adds 2 to the sum of [del]of[/del] the orders of singularity of the nodes.
+
+Suppose two points of singularity s and t of the same line are joined
+
+[fig]Diagrams showing loops and nodes[/fig]
+The Cyclosy has 2 added to it
+and [del]aL + Σ u_i σ_i +[/del]
+[del]aL[/del] + a_1 L + Σ_2^∞ u_i σ_i + b_k K
+
+and the two points joined are of singularities s and t
+
+If s = -2 t = -2 it becomes [del]out[/del] aL + Σ_2^∞ u_i σ_i - σ_2 + bK
+If s = -2 t = t aL + Σ_2^∞ u_i σ_i - σ_2 + bK
+If s = -1 t > -2 and the points joined belong to same piece it become
+aL + Σ_2^∞ u_i σ_i - 2σ_1 + (b+1)K
+
+[fig]Vertical line segment[/fig]
+
+If s = -1 t = 0 [del]it becomes[/del] aL + Σ_2^∞ u_i σ_i - σ_1 + σ_1 + (b+1)K
+
+If s = -1 t > 0 aL + Σ_2^∞ u_i σ_i - σ_1 - σ_t + σ_{t+1} + (b+1)K
+
+If s = 0 t = 0 aL + Σ_2^∞ u_i σ_i + σ_2 + (b+1)K
+
+s = 0 t > 0 aL + Σ [del]*-σ_t + σ_{t+2} + (b+1)K[/del]
+aL + Σ -σ_0 - σ_t + σ_{t+2} + (b+1)K
+
+If S = Total singularity = Σ_[-2]^∞ v_i σ_i
+[fig]Triangle[/fig]S becomes
+
+∴
+[del]v_2[/del]
+[del]Be[/del] v_{-2} = 2 + V [del]-2v_{-2} = -4 - 2V[/del]
+[del]Ha[/del] v'_{-2} = 1 + V [del]= -2 - 2V[/del] ΔS = 2σ_{-2}
+v_{-2} = 1 + U [del]v'_{-2} = 1 + V[/del] [del]3 - U - V[/del]
+-2 + 2U + t v_t
+(-2 + 2U) σ_{-2} + t v_t σ_t
+becomes 2U σ_{-2} + t v_t σ_t ΔS = 2σ_{-2} + t v_t σ_t
+
+(-2 - v_{-1}) σ_{-1}
+become -v_{-1} σ_{-1} ΔS = 2σ_{-1}
+
+(-1 - v_{-1}) σ_{-1} + u_1 σ_1
+becomes -v_{-1} σ_{-1} + (u_1) σ_1 ΔS = σ_{-1} + σ_1
+
+(-1 - v_{-1}) σ_{-1} + u_t σ_t + u_{t+1} (t+1) σ_{t+1} ΔS = σ_{-1} - t σ_t
+become -v_{-1} σ_{-1} + (u_t - 1) t σ_t + (u_{t+1}) (t+1) σ_{t+1} + (t+1) σ_{t+1}

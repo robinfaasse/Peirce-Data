@@ -1,0 +1,21 @@
+[pn]QE[/pn] [pn]3[/pn]
+
+$$x = -\frac{B}{2A} \left( 1 + \sqrt{1 - \frac{4AC}{B^2}} \right)$$
+$$x = -\frac{B}{2A} \left( 1 - \sqrt{1 - \frac{4AC}{B^2}} \right)$$
+
+The discriminant must be negative, or else there are not two real roots.
+
+If the discriminant is zero, the two roots are equal. Namely $1 - \frac{4AC}{B^2} = 0$, and $x = -\frac{B}{2A}$.
+
+If the discriminant is positive, there are two "imaginary" roots, as I shall presently explain.
+
+Since the coefficients, A, B, C are supposed to be all real, it follows that
+$$(A-C)^2 \ge 0$$
+[del]for[/del] for the square of a real number is positive, whether the number be positive or negative. Now
+$$(A-C)^2 = A^2 - 2AC + C^2$$
+Hence $(A-C)^2 + 4AC = A^2 + 2AC + C^2 = (A+C)^2$
+or $4AC = (A+C)^2 - (A-C)^2$
+$$4AC - B^2 = (A+C)^2 - (A-C)^2 - B^2$$
+But $(A+C+B)(A+C-B) = (A+C)^2 - B^2$
+So that $4AC - B^2 = (A+C+B)(A+C-B) - (A-C)^2$
+So that the roots are real, equal, or imaginary according as [del]AC[/del] is in its absolute value greater [ins]than[/ins], equal to, or less than $\sqrt{(A+C+B)(A+C-B)}$

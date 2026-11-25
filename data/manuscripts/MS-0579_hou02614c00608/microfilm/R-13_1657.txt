@@ -1,0 +1,17 @@
+XXVI. $[(U \prec V) \prec (W \prec X)] \prec (Y \prec Z)$
+XXVII. $\{[U \prec (V \prec W)] \prec X\} \prec (Y \prec Z)$
+XXVIII. $\{[(U \prec V) \prec W] \prec X\} \prec (Y \prec Z)$
+XXIX. $\{U \prec [V \prec (W \prec (X \prec Y)) ]\} \prec Z$
+XXX. $\{U \prec [V \prec ((W \prec X) \prec Y) ]\} \prec Z$
+XXXI. $\{U \prec [(V \prec W) \prec (X \prec Y) ]\} \prec Z$
+XXXII. $\{U \prec [(V \prec (W \prec X)) \prec Y ]\} \prec Z$
+XXXIII. $\{U \prec [((V \prec W) \prec X) \prec Y ]\} \prec Z$
+XXXIV. $\{(U \prec V) \prec [W \prec (X \prec Y) ]\} \prec Z$
+XXXV. $\{(U \prec V) \prec [(W \prec X) \prec Y ]\} \prec Z$
+XXXVI. $\{[U \prec (V \prec W)] \prec (X \prec Y)\} \prec Z$
+XXXVII. $\{[(U \prec V) \prec W] \prec (X \prec Y)\} \prec Z$
+XXXVIII. $\{[U \prec (V \prec (W \prec X))] \prec Y\} \prec Z$
+XXXIX. $\{[U \prec ((V \prec W) \prec X)] \prec Y\} \prec Z$
+XL. $\{[(U \prec V) \prec (W \prec X)] \prec Y\} \prec Z$
+XLI. $\{[(U \prec (V \prec W)) \prec X] \prec Y\} \prec Z$
+XLII. $\{[((U \prec V) \prec W) \prec X] \prec Y\} \prec Z$

@@ -1,0 +1,43 @@
+Monson's Bridge 1899 Jan 23 [pn]5[/pn]
+
+If the links are infinitesimal
+$$D_s^2 \theta = 0$$
+$$D_s \theta = C$$
+But this is the curvature
+So that the curve is the arc of a circle
+
+There is some mistake for a circle cannot
+generally be so drawn -
+[del]But it is[/del] This is right.
+
+[fig]Slightly curved line crossed by a vertical line[/fig]
+[fig]Circle[/fig]
+[fig]V-shape with lines extending upwards[/fig]
+
+Problem B
+[del]All the[/del] [ins]Each[/ins] joints has a unit weight hanging to it
+$\theta_n$ is the angle of rise [del]from the[/del] [ins]of the link numbered n[/ins]
+[fig]Diagram of a hanging link structure with angles[/fig]
+
+Now the angles $\theta_0$ and $\theta_N$ may vary -
+First suppose $\theta_0$ and $\theta_N$ to be fixed as before -
+
+We must first find the geometrical conditions determining
+$l_0$ and $l_N$ the first & last link lengths
+
+$$l_0 \cos \theta_0 + \sum_1^{N-1} l_n \cos \theta_n + l_N \cos \theta_N = a$$
+$$l_0 \sin \theta_0 + \sum_1^{N-1} l_n \sin \theta_n + l_N \sin \theta_N = b$$
+
+$$\begin{array}{r}
+\sin(a+b) + \sin(a-b) = 2 \sin a \cos b \\
+\sin(a+b) - \sin(a-b) = 2 \cos a \sin b
+\end{array}$$
+
+$$l_0 \sin (\theta_N - \theta_0) = a \sin \theta_N - b \cos \theta_N - \sum_1^{N-1} l_n \sin (\theta_N - \theta_n)$$
+$$= \sqrt{a^2+b^2} [del]\sin \Theta[/del] \sin (\theta_N - \Theta) - \sum_1^{N-1} l_n \sin (\theta_N - \theta_n)$$
+
+$$l_0 = \sqrt{a^2+b^2} \frac{\sin (\theta_N - \Theta)}{\sin (\theta_N - \theta_0)} - \sum_1^{N-1} l_n \frac{\sin (\theta_N - \theta_n)}{\sin (\theta_N - \theta_0)}$$
+
+[del]$$l_N = \frac{\sqrt{a^2+b^2} \sin (\Theta - \theta_0)}{\sin (\theta_N - \theta_0)}$$[/del]  $$l_N = \sqrt{a^2+b^2} \frac{\sin (\Theta - \theta_0)}{\sin (\theta_N - \theta_0)} - \sum_1^{N-1} l_n \frac{\sin (\theta_n - \theta_0)}{\sin (\theta_N - \theta_0)}$$
+
+$$l_N \sin (\theta_N - \theta_0) = b \cos \theta_0 - a \sin \theta_0 + \sum_1^{N-1} l_n \sin (\theta_n - \theta_0)$$

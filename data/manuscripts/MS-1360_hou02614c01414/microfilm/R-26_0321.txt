@@ -1,0 +1,13 @@
+[del]root wanted for the catenary is easily seen by (4) to be the largest[/del]
+[del]positive root.[/del] Its modulus is a little less than that of the greatest
+negative root. But under ordinary conditions (at least, perhaps always)
+there are but two real roots; so that the root of smallest modulus
+is to be sought. For an algorithm for finding the root of smallest
+modulus of an algebraical equation, see Note A.
+
+The value of C having been determined, equations (6) give all the
+values of [u]x[/u][sub]i[/sub] successively. For [u]x[/u][sub]0[/sub]=0, etc. Then, equations (5), being added,
+give
+(8) [u]b[/u] = - [fraction]1[/fraction]/[u]C[/u] [sum]0[/sum][sup]n[/sup][sub]i[/sub] { [gradient][u]x[/u][sub]i[/sub] [sum]1[/sum][sup]i[/sup][sub]j[/sub] [u]P[/u][sub]j[/sub] }
+
+[fig]A simple sketch of a catenary curve with two vertical tick marks.[/fig]

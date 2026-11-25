@@ -1,0 +1,8 @@
+Basic Rules
+37
+My [del]"tedious"[/del] proof, [del]that[/del] from the definitions of [del]addition[/del] [ins]aggregation[/ins] and [del]m[/del] composition that [u]([u]a[/u] + [u]b[/u]) . [u]c[/u][/u] is transformable into [u][u]a[/u] + [u]b[/u] . [u]c[/u][/u] is as follows:
+If [u]([u]a[/u] + [u]b[/u]) . [u]c[/u][/u] is not transformable into [u][u]a[/u] + [u]b[/u] . [u]c[/u][/u], let [u]m[/u] be a graph transformable into [u]([u]a[/u] + [u]b[/u]) . [u]c[/u][/u] but not into [u][u]a[/u] + [u]b[/u] . [u]c[/u][/u]
+Since [u]m[/u] is transformable into [u]([u]a[/u] + [u]b[/u]) . [u]c[/u][/u], it follows from the definition of composition that
+(1) [u]m[/u] is transformable into [u][u]a[/u] + [u]b[/u][/u]
+(2) [u]m[/u] is transformable into [u]c[/u]
+But because

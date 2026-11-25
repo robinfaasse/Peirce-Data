@@ -1,0 +1,30 @@
+$\sqrt{6}$  $(5-x)^2 = 24$
+$25 - 10x + x^2 = 24$
+$1 = 10x - x^2$
+
+Subtract [del]last from[/del] [ins]last but one from[/ins] ten times the last to get next. Half the last but one divided by last gives amount by which $\sqrt{6}$ is less than 2.5
+
+$\begin{matrix} 0 \\ 1 \\ 10 \\ 99 \\ 980 \\ 9701 \\ 96030 \\ 950599 \end{matrix}$
+
+$\begin{matrix} & 9800 \\ & \underline{\begin{matrix} 97010 \\ 980 \\ \hline 960300 \\ 9701 \\ \hline 950599 \end{matrix}} \end{matrix}$
+
+$\begin{matrix} 0950599 & , \\ 1901198 & 2 \\ 2851797 & 3 \\ 3802396 & 4 \\ 4752995 & 5 \\ 5703594 & 6 \\ 6654193 & 7 \\ 7604792 & 8 \\ 8555391 & 9 \\ 9505990 & \end{matrix}$
+
+$\begin{matrix} 4801505108 \\ \underline{4752995} \\ 048505 \\ \underline{4752995} \\ 1048104 \\ \underline{9505} \\ 102505 \\ \underline{0950599} \\ 074481 \end{matrix}$
+
+$24494892$
+
+$(2\frac{1}{2})^2 = 6\frac{1}{4}$ $(2\frac{4}{9})^2 = 4\frac{63}{81} + \frac{16}{81}$
+$= 5\frac{79}{81}$
+
+$\begin{matrix} 2.45 \\ \underline{\ \ \ \ \ \ \ \ \ } \\ 490 \\ 98 \\ \underline{\ \ 1225} \\ 6.0025 \end{matrix}$
+
+$\begin{matrix} a+1 \\ a^2+2a+1 \end{matrix}$  $\begin{matrix} (a+x) \\ [del]x^2[/del] [ins]a^2[/ins] + 2ax + x^2 = \\ a^2+b \end{matrix}$
+
+In general to get the square root of $a^2+b$ where $b < 2a+1$
+
+$\begin{matrix} P \\ Q \\ 2aQ + \frac{P}{b} \\ 4a^2Q + \frac{2aP}{b^2} \\ 8a^3Q + \dots \end{matrix}$
+
+[fig]Pascal-like triangle of numbers[/fig]
+
+$\begin{matrix} 0 \\ 1 \\ 2\frac{a}{b} \\ 4\frac{a^2}{b^2} + \frac{1}{b} \\ 8\frac{a^3}{b^3} + \frac{4a}{b^2} \\ 16\frac{a^4}{b^4} + \frac{12a^2}{b^3} + \frac{1}{b^2} \\ 32\frac{a^5}{b^5} + \frac{32a^3}{b^4} + \frac{6a}{b^3} \end{matrix}$

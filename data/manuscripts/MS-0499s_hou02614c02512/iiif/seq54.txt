@@ -1,0 +1,17 @@
+$$\frac{hk}{a} + \frac{k^2}{b} + \frac{kl}{c} = k$$ | $$\frac{hk - l^2}{a} + \frac{k^2 - hl}{b} = k - l$$
+$$\frac{l^2}{a} + \frac{hl}{b} + \frac{kl}{c} = l$$ | $$\frac{hl - k^2}{a} + \frac{h^2 - kl}{b} = h - k$$
+$$\frac{hl}{a} + \frac{h^2}{b} + \frac{hk}{c} = h$$
+$$\frac{k^2}{a} + \frac{kl}{b} + \frac{hk}{c} = k$$
+
+$$\frac{(hk - l^2) (h^2 - kl)}{a} + \frac{(k^2 - hl) (h^2 - kl)}{b} = (k - l) (h^2 - kl)$$
+$$\frac{(hl - k^2) (k^2 - hl)}{a} + \frac{(h^2 - kl) (k^2 - hl)}{b} = (h - k) (k^2 - hl)$$
+
+[ured]$$\frac{(hk - [del]l^2[/del]) [ins]l^2[/ins] (h^2 - kl) + (hl - k^2)^2}{a} = (k - l) (h^2 - kl) + (h - k) (k^2 - hl)$$[/ured]
+$$-2hk^2l + h^2l^2 \qquad\qquad\qquad + h^2l^2$$
+$$\frac{h^3k + kl^3 - hk^2l - h^2l^2 + k^4 [del]= h^2k^2 + kl^2 - h^2l^2 - h^2l^2 + k^3 - hkl - hk^2[/del]}{a}$$
+$$\frac{1}{a} = \frac{h^2k - hk^2 - hkl + k^3 - k^2l + kl^2}{h^3k - 3hk^2l + k^4 + [del]k[/del] [ins]? [/ins] l^3} = \frac{hk (h - k - l) + k (k^2 - kl + l^2)}{hk (h^2 - 3kl) + k (k^3 + l^3)}$$
+$$\qquad\qquad\qquad\qquad\qquad\qquad\qquad = \frac{h (h - k - l) + k^2 - kl + l^2}{h (h^2 - 3kl) + k^3 + l^3}$$
+$$\begin{cases} (h + k - l)^2 = 2hk + 2hl + 2kl \\ (h - k + l)^2 = -2hk - 2hl + 2kl \\ (-h + k - l)^2 = -2hk + 2hl - 2kl [ins]? [/ins] \\ (-h - k + l)^2 = +2hk - 2hl - 2kl \end{cases}$$ $$= \frac{h^2 - hk - hl + k^2 - kl + l^2}{h^3 + k^3 + l^3 - 3hkl}$$
+$$\qquad\qquad\qquad\qquad\qquad\qquad\qquad = \frac{h^2 + k^2 + l^2 - hk - hl - kl}{h^3 + k^3 + l^3 - 3hkl [ins]? [/ins]}$$
+$$\left. \begin{smallmatrix} 3h^2 - 2hk \\ h^2 + 2hk \end{smallmatrix} \right\} \begin{smallmatrix} \times 1 \\ \times 4 \end{smallmatrix} = \begin{smallmatrix} 3h^2 - 2xhk \\ 4h^2 + 2yhk \end{smallmatrix}$$
+$$3x + y = 1 \quad -2x + 2y = -1 \quad \begin{smallmatrix} x + 3y = 0 \\ -8y = 1 \end{smallmatrix} \quad \begin{smallmatrix} x = -3y \\ y = -\frac{1}{8} \end{smallmatrix} \quad x = \frac{3}{8}$$

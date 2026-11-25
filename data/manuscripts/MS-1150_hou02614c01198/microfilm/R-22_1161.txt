@@ -1,0 +1,12 @@
+After a close approximation has been reached, this is the same as
+
+$$a_n = x_1 \left( 1 - [del]\text{—}[/del] \frac{x_1 - a_0}{a_0 - x_2} \left(\frac{x_2}{x_1}\right)^n \frac{x_1 - x_2}{x_1} \right)$$
+
+The approximations [del]is[/del] therefore finally skip from larger to smaller if the two roots are of opposite signs, otherwise not. Unless $\text{Mod } x_2 < \text{Mod } x_1$ there is no approximation.
+
+If the roots are [del]of[/del] [ins]both[/ins] positive and $a_0 < x_2$ but $a_0 > 0$ the approximation will get worse and worse being a smaller and smaller positive quantity. It will [del]at last[/del] [ins]at length[/ins] [del]for[/del] become negative and then, [ins]instantly[/ins] again positive when it will rapidly approximate toward the truth.
+
+Example: Required the square root of 2. The roots being equal, the equation must be transformed. Put $x = y + \frac{1}{2}$ $x^2 = y^2 + y + \frac{1}{4} = 2$
+$y^2 = \frac{7}{4} + y$
+
+[u]Over[/u]

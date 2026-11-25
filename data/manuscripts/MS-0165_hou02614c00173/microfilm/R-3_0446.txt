@@ -1,0 +1,30 @@
+[pn]199[/pn]
+
+<u>Corollary 59</u>. The two roots of a quadratic
+$-\frac{1}{2}A + \sqrt{\frac{1}{4}A^2 - B}$
+$-\frac{1}{2}A - \sqrt{\frac{1}{4}A^2 - B}$
+being multiplied together give
+$\frac{1}{4}A^2 - (\frac{1}{4}A^2 - B) = B$
+while their sum is $-A$.
+
+60. Hence a quadratic is the equation which expresses the
+problem required two numbers whose sum and product
+are given. Namely the two numbers (putting $\Sigma$ for sum
+and $\Pi$ for product are
+$\frac{1}{2}\Sigma (1 + \sqrt{1 - 4\frac{\Pi}{\Sigma^2}})$
+$\frac{1}{2}\Sigma (1 - \sqrt{1 - 4\frac{\Pi}{\Sigma^2}})$.
+
+61. We also see that the square of the sum of [ins]any[/ins] two whole numbers
+[del]always exceeds[/del]
+[del]diminished by[/del] 4 times their product and the excess is always
+a square number, namely, it is the square of their difference.
+Thus $(10+13)^2 = 529$ and $4 \times 10 \times 13 = 520$. The difference is
+$(13-10)^2$. In fact the square of the sum of $p$ and $q$ is
+$(p+q)^2 = p^2 + 2pq + q^2$
+and the square of their difference is
+$(p-q)^2 = p^2 - 2pq + q^2$
+These differ by $4pq$. Hence if the difference and product
+of two numbers are given, the numbers are
+$\frac{1}{2}\sqrt{\Delta^2 + 4\Pi} + \frac{1}{2}\Delta$
+$\frac{1}{2}\sqrt{\Delta^2 - 4\Pi} - \frac{1}{2}\Delta$
+where there are [del]two sets of answers, one for[/del] [ins]the[/ins] positive root, [del]the other for the negative[/del].

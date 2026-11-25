@@ -1,0 +1,60 @@
+In the other notation
+$(a\dagger 0)_{ik} = \Pi_j\ a_{ij}$     $(a\infty)_{ik} = \Sigma_j\ a_{ij}$
+Consequently $\Pi_j\ a_{ij} \prec a_{ik} \prec \Sigma_j\ a_{ij}$ .
+Formula (13) on p. 210 is a special case of
+$(a\dagger 1)\cdot b \prec (a\dagger b)\dagger 0$.
+This is instantly obtained in the other notation
+$\Pi_j\ (a_{ij} + 1_{jk})\ b_{ik} \prec \Pi_j\ (a_{ij} + b_{ij})$
+But in the algebra proposed by Schröder, some
+such formulas must be assumed as fundamen-
+tal. Say, for instance,
+$(ab\cdot 1)\cdot 1 = \{(a\cdot b)\infty\}^\circ\cdot 1$
+[del]Plainly[/del]
+$[(ab)\cdot 1]_{ik} = \Sigma_j\ a_{ij} b_{ji} 1_{lk} = \Sigma_j\ a_{ij} b_{ji} 1_{ik}$
+$= [(\breve{a}\cdot b)\infty\}^\circ\cdot 1]_{ik}$
+On the same principle
+$ab\infty = (a\cdot\infty\breve{b})\infty$     That is,
+$[ab\infty]_{il} = \Sigma_k\ a_{ij} b_{jk} = \Sigma_k\ \Sigma_j\ a_{ij} b_{kj} = [(a\cdot\infty\breve{b})\infty]_{il}$
+
+We have still simpler formulae
+of this description, such as
+[del]$\breve{a}\infty \prec \breve{a}\ \breve{a}\ \infty$[/del] and [del]$\breve{a}\infty = \breve{a}\ \breve{a}\ \infty$[/del]
+[del]But this may be false[/del]
+[del]But this may be obtained as follows[/del]
+[del]$a\infty\infty \prec a(\breve{a}\ \breve{a}\ \infty)\infty \prec a\breve{a}\ \breve{a}\ \infty\infty$[/del]
+[del]$ab\infty\infty \prec a(\breve{a}\ \breve{a}\ \infty)\infty \prec a\breve{a}\ \breve{a}\ \infty\infty$[/del]
+
+[del]$\breve{a}\breve{a}\breve{a}\breve{a}\infty$[/del] [ins]by general formulae, thus:[/ins]
+[del]$\infty\infty \prec 1\infty \prec (\breve{a}\dagger a)\infty \prec \breve{a}\dagger a\infty$[/del]
+Hence [del]$a\infty \prec a(\breve{a}\dagger a\infty) \prec a\breve{a}\dagger a\infty \prec \top\dagger a$[/del]
+[del]$\infty\infty\infty \prec (\breve{a}\dagger\breve{a})\infty \prec \breve{a}\infty\dagger\breve{a}\infty$[/del]
+[del]$a\infty \prec a(\breve{a}\infty\dagger\breve{a}\infty) \prec a\breve{a}\infty\dagger a\breve{a}\infty$[/del]
+[del]$\prec \top\infty\dagger a\breve{a}\infty$[/del]
+
+$\infty a\infty = \infty\breve{a}\infty$
+
+[del]$ab\infty$[/del]
+$a1 = \breve{a}\cdot 1$
+
+$a\breve{a} \prec \top$
+
+[del]$a\infty \prec (a\dagger 1)\infty$[/del]
+$a\dagger 0 \prec a\infty$
+
+$(a\cdot\top)_{ik}$
+$\top\breve{a}$
+
+$\Sigma_i\Sigma_k\Sigma_l a_{ij} b_{jk} c_{kl} d_{li}$
+[del]$\Sigma_i\Sigma_k\Sigma_l a_{ij} b_{jk} c_{kl} d_{li}$[/del]
+$(abcd)_0$
+
+$a_{ii}$
+$a\cdot 1$
+$\Sigma_i a_{ii} 1_{ij}$
+$\Sigma_j a_{ij} b_{ji} = ab\infty$
+$\Sigma_j a_{ij} b_{jk} 1_{lk}$
+[del]$ab\dagger 0$[/del]
+$(a\cdot b)\infty$
+
+$a_{ik} \top_{ki}$
+$\Sigma_k \top_{ik} \breve{a}_{ki}\cdot 1$

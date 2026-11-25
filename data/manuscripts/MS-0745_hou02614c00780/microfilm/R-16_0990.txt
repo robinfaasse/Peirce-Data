@@ -1,0 +1,18 @@
+relatives to numerical algebra.
+
+In dual relatives there are four species of propositions; viz:
+
+$$\Pi_{i}\Pi_{j}\ l_{ij}\ \ \ \Sigma_{i}\Pi_{j}l_{ij}\ \ \ \Pi_{j}\Sigma_{i}l_{ij}\ \ \ \Sigma_{i}\Sigma_{j}l_{ij}\ .$$
+
+We have, in general,
+
+$$\Pi_{i}\Pi_{j} = \Pi_{j}\Pi_{i}$$
+$$\Sigma_{i}\Sigma_{j} = \Sigma_{j}\Sigma_{i}$$
+$$\Sigma_{i}\Pi_{j} \prec \Pi_{j}\Sigma_{i}\ .$$
+
+[marginalia][u]The last is the most important formula of Logic.[/u][/marginalia]
+
+But we have
+
+$$\Sigma_{i}\Pi_{j}\ u_{i}v_{j} = \Pi_{j}\Sigma_{i}\ u_{i}v_{j}\ .$$
+$$\Sigma_{i}\Pi_{j}\ (u_{i}+v_{j}) = \Pi_{j}\Sigma_{i}\ (u_{i}+v_{j})$$

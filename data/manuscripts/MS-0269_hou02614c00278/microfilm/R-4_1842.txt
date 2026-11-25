@@ -1,0 +1,46 @@
+$$(1-x^2) \frac{dz}{dx} - xz = axz^2$$
+
+$$\frac{x}{1-x^2} = \frac{1}{2} \left( \frac{1}{1-x} - \frac{1}{1+x} \right)$$
+
+$$\frac{x}{1-x^2} dx = d \log \sqrt{\frac{1-x}{1+x}} = dt$$
+
+$$+ \frac{d \frac{1}{z}}{dt} + \frac{1}{z} = -a$$
+
+$$\frac{1}{z} = C \theta^{-t} + \theta^{-t} \int -a \theta^t$$
+
+$$= C \theta^{-t} - a$$
+
+$$z = \frac{1}{C \theta^{-t} - a} = \frac{1}{C \sqrt{\frac{1-x}{1+x}} - a}$$
+
+$$\frac{dz}{dx} = + \frac{C \sqrt{\frac{1+x}{1-x}} \frac{+1}{(1-x)^2}}{\left( C \sqrt{\frac{1-x}{1+x}} - a \right)^2}$$
+
+$$-(1+x) - (1-x)$$
+
+$$(1-x^2) \frac{dz}{dx} = \frac{C \sqrt{\frac{1-x}{1+x}}}{\left( C \sqrt{\frac{1-x}{1+x}} - a \right)^2}$$
+
+$$xz = \frac{x}{C \sqrt{\frac{1-x}{1+x}} - a}$$
+
+$$axz^2 = \frac{ax}{\left( C \sqrt{\frac{1-x}{1+x}} - a \right)^2}$$
+
+$$\begin{aligned}
+(1-x^2) \frac{dz}{dx} - xz &= axz^2 \\
+- \frac{(1-x^2)}{x} \frac{dz}{z^2 dx} + \frac{1}{z} &= -a \\
+\frac{1}{z} = C \theta^{-t} + \theta^{-t} &\int -a \theta^t \\
+= C \theta^{-t} &- a \\
+z = \frac{1}{C \theta^{-t} - a} &= \frac{1}{C \sqrt{\frac{1+x}{1-x}} - a} \\
+\frac{d \frac{1}{z}}{dt} + \frac{1}{z} = -a \\
+\frac{d \frac{1}{z}}{dt} = -C \theta^{-t} \\
+\frac{1}{z} = C \theta^{-t} - a \\
+\end{aligned}$$
+
+$$\frac{dz}{dx} = \frac{[del]\mp C \frac{1}{2} \sqrt{\frac{1-x}{1+x}} \frac{-(1+x)-(1-x)}{(1-x)^2}[/del]}{\left( C \sqrt{\frac{1+x}{1-x}} - a \right)^2}$$
+
+$$(1-x^2) \frac{dz}{dx} = \frac{+ C \sqrt{\frac{1+x}{1-x}}}{\left( C \sqrt{\frac{1+x}{1-x}} - a \right)^2}$$
+
+$$\frac{1+x}{(1-x)^2}$$
+
+$$\frac{1+x}{1-x} = \frac{1-x+1+x}{(1-x)^2}$$
+
+$$xz = \frac{x C \sqrt{\frac{1+x}{1-x}} - ax}{\left( C \sqrt{\frac{1+x}{1-x}} - a \right)^2}$$
+
+$$axz^2$$

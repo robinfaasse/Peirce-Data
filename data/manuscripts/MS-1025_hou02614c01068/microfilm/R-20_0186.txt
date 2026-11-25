@@ -1,0 +1,11 @@
+$$\frac{d\varepsilon}{dt} = P_{\varepsilon}\lambda_{p}\left(x_{0} - \frac{\lambda_{x}}{\lambda_{0}-\lambda_{x}}P_{x}R_{0}\right)e^{-\lambda_{x}t}$$
+$$+ \frac{P_{\varepsilon}P_{x}\lambda_{x}\lambda_{p}}{\lambda_{0}-\lambda_{x}}R_{0}e^{-\lambda_{0}t} - \lambda_{\varepsilon}\varepsilon$$
+$$\beta = -\lambda_{\varepsilon}$$
+$$l_{1} = -\lambda_{x} \quad l_{2} = -\lambda_{0}$$
+$$\alpha_{1} = P_{\varepsilon}\lambda_{p}\left(x_{0} - \frac{\lambda_{x}}{\lambda_{0}-\lambda_{x}}P_{x}R_{0}\right)$$
+$$\alpha_{2} = \frac{P_{\varepsilon}P_{x}\lambda_{x}\lambda_{p}}{\lambda_{0}-\lambda_{x}}$$
+$$= \frac{P_{\varepsilon}\lambda_{p}\left(x_{0} - \frac{\lambda_{x}}{\lambda_{0}-\lambda_{x}}P_{x}R_{0}\right)}{-\lambda_{x} + \lambda_{\varepsilon}} e^{-\lambda_{x}t}$$
+$$+ \frac{\frac{P_{\varepsilon}P_{x}\lambda_{x}\lambda_{p}}{\lambda_{0}-\lambda_{x}}}{\lambda_{\varepsilon} - \lambda_{0}} e^{-\lambda_{0}t} - \frac{e^{-\lambda_{\varepsilon}t}}{\dots}$$
+$$+ \left(\varepsilon_{0} - \frac{P_{\varepsilon}\lambda_{p}(x_{0} - \frac{\lambda_{x}}{\lambda_{0}-\lambda_{x}}P_{x}R_{0})}{\lambda_{\varepsilon}-\lambda_{x}} - \frac{P_{\varepsilon}P_{x}\lambda_{x}\lambda_{p}}{(\lambda_{0}-\lambda_{x})(\lambda_{\varepsilon}-\lambda_{0})}\right)$$
+$$= \frac{P_{\varepsilon}\lambda_{p}(x_{0}\lambda_{\varepsilon} - x_{0}\lambda_{0} - \lambda_{x}P_{x}R_{0})}{(\lambda_{\varepsilon}-\lambda_{x})(\lambda_{0}-\lambda_{x})} e^{-\lambda_{x}t}$$
+$$\frac{P_{\varepsilon}\lambda_{x}\lambda_{p}}{(\lambda_{\varepsilon}-\lambda_{0})(\lambda_{0}-\lambda_{x})}$$

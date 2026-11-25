@@ -1,0 +1,61 @@
+[pn]1[/pn]
+
+$$\frac{P}{Q} \text{ r } \frac{S}{T}$$ compared with $$\frac{P+R}{QS}$$
+
+$$\frac{P}{Q} + \frac{R}{S} = \frac{PS}{QS} + \frac{RQ}{QS}$$
+
+There is one fact A from which
+[marginalia]it may be argued that M is true
+[ins]at the same time[/ins] and independently that N is true
+with probability p[/marginalia]
+There is another fact [del]from[/del] [ins]B[/ins] from which it may be argued
+that M is true
+[marginalia]and [del]of the same[/del] [ins]independently[/ins] that N is false
+with probability q[/marginalia]
+
+[del]$$\frac{p \cdot q + \bar{p} \cdot \bar{q}}{p \cdot \bar{q} + \bar{p} \cdot q}$$[/del]
+
+$$\frac{\bar{p} \bar{q}}{p \bar{q} + \bar{p} \cdot q + p \cdot q}$$
+
+$$\frac{\bar{p} \cdot \bar{q}}{p + q}$$
+
+$$\frac{\bar{p} \cdot \bar{q}}{\bar{p} + \bar{q}}$$
+
+$$\frac{p}{1-p} + \frac{q}{1-q} = p \bar{q} +$$
+
+[del]$$\frac{MN}{\bar{M} + \bar{N}} + \frac{M\bar{N}}{M+N} = \frac{M}{\bar{M}}$$[/del]
+
+$$\frac{MN}{\bar{M}\bar{N}}$$
+
+$$\frac{M}{\bar{M}}$$
+
+***
+
+$$1^{\text{st}}$$ witness A tells 3 stories, M agrees with B
+[marginalia]N contradicts B
+O [del]is indifferent[/del] [ins]says nothing[/ins] to any thing
+B says[/marginalia]
+
+$$2^{\text{d}}$$ witness B tells 3 stories M agrees with A
+N contradicts A
+P aside from anything A says
+
+$$\frac{U}{\bar{U}} + \frac{V}{\bar{V}} = \frac{U.\bar{V} + V.\bar{U}}{\bar{U}\bar{V}}$$
+
+Let $$M_a$$ prob of M given to it by A [del]say[/del] [ins]B[/ins] [del]etc[/del]
+
+$$\frac{M_a}{1-M_a} + \frac{M_b}{1-M_b}$$
+
+$$\frac{M_a}{1-M_a} = \frac{M_a(1-M_b)}{(1-M_a)(1-M_b)}$$
+
+$$\frac{M_b}{1-M_b} = \frac{M_b(1-M_a)}{(1-M_a)(1-M_b)}$$
+
+$$\frac{M_a}{1-M_a} + \frac{M_b}{1-M_b} = \frac{M_a(1-M_b) + M_b(1-M_a)}{(1-M_a)(1-M_b)}$$
+
+$$\frac{N_a}{1-N_a} + \frac{\bar{N}_b}{1-\bar{N}_b}$$
+
+[del]$$\frac{N_a \bar{N}_b}{1-N_a}$$[/del]
+
+$$\frac{M_a + N_a}{\bar{M}_a \bar{N}_a}$$
+
+$$\frac{M_b + \bar{N}_b}{\bar{M}_b N_b}$$

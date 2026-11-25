@@ -1,0 +1,72 @@
+```
+[del]x+y[/del]
+[del]x-y[/del]
+[del]x²-y²[/del]
+
+[del]x y[/del]
+[del]y x[/del]
+
+[del]x+y+z[/del]
+[del]x+y-z[/del]
+[del]x-y+z[/del]
+[del]x-y-z[/del]
+
+[del]((x+y)²-z²[/del]
+[del](x-y)²-z²[/del]
+[del]((x+y)²-z²)((x-y)²-z²)[/del]
+
+x⁴+y⁴+z⁴
+-2x²y²-2x²z²-2y²z²
+
+x²
+x²
+x²
+
+x y 0 z
+y x [del]z[/del] 0
+0 z x y
+z 0 y x
+
+(x+y)+z
+(x-y)+z
+
+x²-y²+2xz+z²
+x²-y²-2xz+z²
+
+(x²-y²+z²)²-4x²z²
+
+B²=2A²
+B=√2 A
+
+•AB•CA•BC
+
+[fig]Geometric diagram with intersecting lines and curves[/fig]
+
+√(x+A)²+y² + √(x-A)²+y² = B
+
+√P+√Q = B
+P+Q+2√PQ = B²
+4PQ = B⁴-2B²(P+Q)+P²+2PQ+Q²
+B⁴+2B²(P+Q)+(P-Q)²=0
+
+P+Q = 2(x²+y²+A²)
+P-Q = 4Ax
+
+√x²+y² + √(x+A)²+y² + √(x-A)²+y² = B
+(x+A)²+y²
++(x-A)²+y² + 2√[(x+A)²+y²][(x-A)²+y²] = B²-2B√x²+y²
++x²+y²
+
+√2 √x²+y² + √(x+A)²+y² + √(x-A)²+y² = √2 A
+
+(x+A)²+y²
+-(x-A)²+y² + 2√[(x+A)²+y²][(x-A)²+y²] = 2A²-4A√x²+y²
++x²+y²
+
+2A² + 2√[gap] = 2A² - 4A√x²+y²
+
+√(x+A)²+y² √(x-A)²+y² = 2A √x²+y²
+
+[del]x⁴-2x²A²+A⁴[/del]+2(x²+A²)y²+y⁴ = 4A²x²+4A²y²
+x⁴-2x²A²+A⁴
+```

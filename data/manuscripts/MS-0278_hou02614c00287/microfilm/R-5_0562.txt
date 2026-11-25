@@ -1,0 +1,20 @@
+[u]Art[/u] . [u]Problem[/u] . To solve a system of linear equations.
+
+[u]Solution[/u]. To fix our ideas, let us, at first take a special system, namely, the following (almost any other would answer)
+[del]There are three numbers, [u]x[/u], [u]y[/u], [u]z[/u], such that the following equations hold.[/del] [ins]is a certain sum of money, [del]of[/del] the amount of which we want to know. We only know that its double added to another sum, [u]y[/u], which we care nothing about and to triple a third sum [u]z[/u], about which we are equally indifferent makes 6 millions. That our sum added to twice [u]z[/u] and diminished by 4 times [u]x[/u] leaves only 7 millions, and that three times our sum added to twice [u]x[/u] is short of [del]4[/del] [ins]our[/ins] [del]z[/del] [ins]equation[/ins] by only 7 millions. How much is [u]y[/u]?[/ins]
+[u]3x[/u] - 2[u]y[/u] + [u]z[/u] = 6,
+4[u]x[/u] - [u]y[/u] - 2[u]z[/u] = -7,
+2[u]x[/u] + 3[u]y[/u] - 4[u]z[/u] = -7.
+
+We will begin by adding to each the negative of the second member. We thus get
+3[u]x[/u] - 2[u]y[/u] + [u]z[/u] - 6 = 0
+4[u]x[/u] - [u]y[/u] - 2[u]z[/u] + 7 = 0
+2[u]x[/u] + 3[u]y[/u] - 4[u]z[/u] + 7 = 0
+
+Suppose that I only want to know [u]y[/u]. I will (for a reason that will presently appear) join to these equations [u]y[/u] = [u]y[/u] or [u]y[/u] - [u]y[/u] = 0. Thus,
+3[u]x[/u] - 2[u]y[/u] + 1[u]z[/u] - 6 = 0,
+4[u]x[/u] - 1[u]y[/u] - 2[u]z[/u] + 7 = 0,
+2[u]x[/u] + 3[u]y[/u] - 4[u]z[/u] + 7 = 0,
+0[u]x[/u] + 1[u]y[/u] + 0[u]z[/u] - [u]y[/u] = 0.
+
+What [u]x[/u] and [u]z[/u] are, we do not care. It is sufficient that some numbers can be found to satisfy the equations. The coefficients of [u]x[/u] lie in one column. We can multiply them all by any number we like; for to do so, is merely to substitute in

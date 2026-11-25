@@ -1,0 +1,34 @@
+$$(xi + yj + zk + ul + vm)(Xi + Yj + Zk + Ul + Vm)$$
+$$(xX + zZ)i$$
+$$\{xY + y(X+Y+Z) + zY\}j$$
+$$\{xZ + zX\}k$$
+$$\{xU - zU + uX + uU - vZ + vU\}l$$
+$$\{xV - zV - uZ + uX + vX + vV\}m$$
+
+$$\begin{matrix}
+X & 0 & Z & 0 & 0 \\
+Y & X+Y+Z & Y & 0 & 0 \\
+Z & 0 & X & 0 & 0 \\
+U & 0 & -U & X+U & -Z+U \\
+V & 0 & -V & -Z+V & X+V
+\end{matrix}$$
+[del]for[/del]
+$$\begin{matrix}
+u(U+X) + v(U-Z) = 0 \\
+u(V-Z) + v(X+V) = 0 \\
+u = 0 \quad v = 0
+\end{matrix}$$
+
+$$(X+Y+Z)(X+Z)(X-Z)($$
+
+$$\begin{matrix}
+X+Y+Z & Y & Y & 0 & 0 \\
+\hline
+0 & X & Z & 0 & 0 \\
+0 & Z & X & 0 & 0 \\
+0 & U & -U & X+U & -Z+U \\
+0 & X & -V & -Z+V & X+V
+\end{matrix}$$
+
+$$(X^2 - Z^2)(X^2 + XU + XV + UV)$$
+[del]$$+ Z^2 + ZU + ZV + UV$$[/del]

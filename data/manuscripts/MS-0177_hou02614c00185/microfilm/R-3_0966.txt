@@ -1,0 +1,33 @@
+Since the warning dots are where the number is
+[u]less[/u] than the one above it, and since 4 is at
+the head of the next column to the left we
+count from that 4 by [u]fours[/u] and set down only
+the last figure of each number of the count.
+Only where there is a warning dot, we [del]put down[/del] [ins]take[/ins]
+the number next greater than we otherwise
+should and proceed to count by fours from
+that, thus:
+
+$$\begin{array}{c c c c c}
+4 & 3 & 8 & 7 & 2 \\
+8 & 7 & 7 & 4 & 4 \\
+3 & 1 & 6 & 1 & 6 \\
+7 & 5 & 4 & 8 & 8 \\
+1 & 9 & 3 & 9 & 0 \\
+6 & 3 & 2 & 3 & 2 \\
+0 & 7 & 1 & 0 & 4 \\
+5 & 0 & 9 & 7 & 6 \\
+9 & 4 & 8 & 4 & 8 \\
+3 & 8 & 7 & 2 & 0
+\end{array}$$
+
+If the operation has been
+rightly performed the
+tenth figure of this
+column will be the
+same as the first figure
+of the column next to the
+right of it.
+
+We now insert [u]warning dots[/u] in the next
+column to the left, and since in most cases

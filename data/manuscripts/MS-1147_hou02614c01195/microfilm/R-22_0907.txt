@@ -1,0 +1,76 @@
+[marginalia]Sub[/marginalia] [marginalia]m.o.p.[/marginalia] [marginalia]S.n.r[/marginalia]
+
+[del]S[/del] [ins]M[/ins] < P
+[u]S < (S < n) . P[/u]
+(S < n) . P
+
+m.o.p S.(m.o.n)
+Some S is not some P
+
+m.(P < n) S < m < n
+(S < n) . (P < n)
+
+m.(P < n) S < (m < n)
+S n (P < n)
+Some S is not some not P
+
+[del]Something besides[/del] [ins]Some[/ins] S is not P
+Some M is not P
+Any S is not M
+Some S is not P
+
+[marginalia]Something besides[/marginalia] Some S is [del]not[/del] P
+Any S is not M
+Some S is not P
+
+Some M is not P
+[del]Any[/del] [ins]Some[/ins] S is not M
+[del]Some[/del] [ins]Any[/ins] S is not P
+
+[marginalia]Something besides any[/marginalia] M is not P
+
+S < P
+S.(m < n)
+Some besides any M is P
+S < P < n
+S.(m < n)
+Some besides any M is not P
+
+---
+
+m.o.p.
+S < P < n (S < n).m
+Some besides S is m
+
+m.o.p
+S.(P < n) S.n.m
+Some besides Some S is m
+
+m.(P < n)
+S < P Any S < n.m
+Some besides S is m
+m.(P < n)
+
+Some M is not P
+Any S is not P
+Some S is M
+[marginalia]Something besides any S is M[/marginalia]
+
+S.P
+S < m < n
+Something besides any M is P
+S < P < n
+S.(m < n)
+Some besides any M is not P
+
+---
+
+[del]$\Sigma_{i} m_{i} p_{i}$[/del] $\Sigma_{i} s_{i} \bar{m}_{i}$
+Some m is p
+Some s is not m
+No m is some s
+Some p is m
+$\therefore$ Some p is not some s
+
+$\Sigma_{i} m_{i} p_{i}$ $\Pi_{j} (\bar{s}_{j} + \bar{p}_{j})$
+$\Sigma_{i} m_{i} \bar{s}_{i}$

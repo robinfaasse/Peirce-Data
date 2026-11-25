@@ -1,0 +1,33 @@
+[date]DEC 10 1901[/date]
+
+[u]Algebra of the Copula[/u]
+
+$a \prec a$
+
+[del]$a \prec (b \prec a)$[/del] [ins]$a \prec b \prec a$[/ins] or $b \prec a \prec a$ [del]Def. of $\prec$[/del] [ins]By contra[/ins] [del]$(a \prec b) \prec a$[/del]
+
+[del]$\overline{a} \prec a \prec b$[/del] [ins][Principle of contrad][/ins] $\overline{a} = a \prec \text{F}$ [del]By contra[/del] [ins]$\overline{a}$[/ins]
+
+$[(a \prec b) \prec c] \prec [b \prec a \prec c]$
+
+$(a \prec b) \prec (b \prec c) \prec (a \prec c)$
+
+[del]$(a \prec b) \prec (c \prec a) \prec (c \prec b)$[/del]
+
+[date]DEC 16 1901[/date]
+
+The algebra of the copula is deducible from the definition of the copula. This definition positively asserts that some things can be written.
+
+First says if $q$ then $p \prec q$
+Either $p$ or $p \prec q$
+
+For $q$ put $p$, then this becomes if $p$ then $p \prec p$
+[del]Either $p$ or $p \prec p$[/del]
+
+Therefore $p \prec p$ is positively asserted to be permissible scriptible.
+But the definition of the copula does not [del]positively state that anything can be written[/del] [ins]there is anything that cannot be written[/ins]. It only distinguishes between what we know to be scriptible and what we do not know to be scriptible.
+
+The definition seems to be
+(1) If $q$, then $p \prec q$
+(2) Either $p$ or $p \prec q$
+(3) If $p$ and $p \prec q$, then $q$

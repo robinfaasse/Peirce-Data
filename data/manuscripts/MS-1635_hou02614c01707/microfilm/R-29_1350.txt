@@ -1,0 +1,48 @@
+```
+[pn]1[/pn]
+$x+y = u+v$
+$x^2 + 2xy + y^2 = u^2 + 2uv + v^2$
+[del]$2xy - 2uv = x^2 + y^2 - u^2 - v^2$[/del]
+$-2xy + 2uv = x^2 + y^2 - u^2 - v^2$
+$4x^2y^2 + 8xyuv + 4u^2v^2 = x^4 + 2x^2y^2 - 2x^2u^2 - 2x^2v^2$
+[fig]arrow pointing to terms below[/fig] $+ y^4 - 2y^2u^2 - 2y^2v^2$
+$+ u^4 + 2u^2v^2$
+$+ v^4$
+
+$8xyuv = x^4 - 2x^2y^2 - 2x^2u^2 - 2x^2v^2$
+$+ y^4 - 2y^2u^2 - 2y^2v^2$
+$+ u^4 - 2u^2v^2$
+$+ v^4$
+
+$\left. \begin{aligned} x &= 0 \\ x+y &= 0 \end{aligned} \right\} x^2 - y^2 = 0$
+
+$64x^2y^2u^2v^2 =$
+
+$\left. \begin{aligned} x+y+z \\ x+y-z \\ x-y+z \\ x-y-z \end{aligned} \right\}$
+
+$\left. \begin{aligned} 2 \\ -2 \\ 4 \\ 8 \\ 16 \\ 32 \end{aligned} \right\} -4$
+
+$(x^2-A^2)^2 + 8(x^2+A^2)y^2 + 4y^4$ [fig]checkmark[/fig]
+$= B^4 - 2(x^2+A^2+y^2)B^2 \sqrt{x^2+y^2} = R$
+$x^2+y^2 = R^2$
+$\sqrt{(x+A)^2+y^2} + \sqrt{(x-A)^2+y^2} = B$
+
+***
+
+$\frac{\begin{aligned} x+y+u+v+w \\ x-y-u-v-w \end{aligned}}{x^2 + (y+u+v+w)^2}$
+
+$\frac{\begin{aligned} x+y+z \\ x-y-z \end{aligned}}{x^2 - (y+z)^2}$
+$\frac{\begin{aligned} x^2 - y^2 - z^2 - 2yz \\ x^2 - y^2 - z^2 + 2yz \end{aligned}}{(x^2-y^2-z^2)^2 - 4y^2z^2}$
+
+$\left. \begin{aligned} x+y+z \\ x-y-z \\ x+y-z \\ x-y+z \end{aligned} \right\}$ [fig]bracket with arrow[/fig]
+
+[del]$x$[/del]
+$\frac{\begin{aligned} x+y+z+u \\ x+y+z-u \end{aligned}}{x+y+z+u}$
+
+$\begin{aligned} x+y+z+u \\ x+y-z-u \\ x-y+z-u \\ x-y-z+u \end{aligned}$
+$\overline{x^4 - 2x^2y^2 + 8xyzu}$
+
+[fig]plus and minus sign combinations[/fig]
+
+[fig]plus and minus sign matrix with sums[/fig]
+```

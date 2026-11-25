@@ -1,0 +1,23 @@
+Why should $n_{ij}$ not be the same as $\overline{n}_i + n_j$?
+If so $n_{ij} \cdot n_{ik} = (\overline{n}_i + n_j) \cdot (\overline{n}_i + n_k)$
+But since $\overline{n}_i \prec n_j$ one should have $\overline{n}_i + n_j = n_j$
+Will that do or not?
+$\overline{n}_i + n_j \cdot l_{ij}$ Something loves everything
+$n_i \cdot (\overline{n}_i + l_{ij})$ Everything is loved by something
+This results thus $(\overline{n}_i + n_j) \cdot (\overline{n}_i + l_{ij}) = n_j \cdot (\overline{n}_i + l_{ij})$
+$n_i \cdot n_j \cdot l_{ij}$ Everything loves everything
+[del]# [/del] $\overline{n}_i + \overline{n}_j + l_{ij}$ Something loves something
+Since $(\overline{n}_i + n_j \cdot l_{ij}) = (\overline{n}_i + n_j) \cdot (\overline{n}_i + l_{ij})$
+It follows that $(\overline{n}_i + n_j)$ is not equal to $n_j$
+but that $\overline{n}_i + n_j \sim n_j$
+which is absurd.
+Hence $n_{ij}$ is not the same as $\overline{n}_i + n_j$
+We have, then,
+$\overline{n}_i + n_{ij} \cdot l_{ij}$ as the expression of Something loves everything
+$\overline{n}_i + n_{ij} \cdot l_{ij} = (\overline{n}_i + n_{ij}) \cdot (\overline{n}_i + l_{ij})$
+[del]Shall we say[/del] $\overline{n}_i + n_{ij} \prec n_j \overline{n}_i \prec \overline{n}_{ji}$
+$\therefore n_{ij} \sim n_j$
+$\therefore \overline{n}_i \prec n_j$
+$n_{ij}$ means the choice of $i$ [ins]any particular[/ins] does not necessarily falsify the proposition
+even when $i$ has been chosen
+$n_i \cdot n_{ij} \prec n_j \cdot n_{ji}$ that is $n_i \cdot n_{ij} \prec n_{ji}$

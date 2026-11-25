@@ -1,0 +1,23 @@
+[pn]Logic
+III
+52[/pn]
+
+Thus, the list of informations, leaving [del]two[/del] [ins]admissible[/ins] [del]possible[/del] excluding
+all possible sets of values except two will be as follows:
+
+[del]V_x . V_y[/del]  V_x . V_y etc  12
+V_x . (y = z), etc  12
+(x ≠ y) . (x ≠ z), etc  3
+x = y = z  1
+Total  28
+
+Of those informations concerning three objects which leave three
+sets of values open, we must reckon, in the first place, those which
+determine the value of one of the objects thus reducing the
+possibilities to four and then establish one of the four
+general relations P, [del]D[/del], [ins]C[/ins], A, between the other two. Since
+the quantity determined may have any one of [del]three[/del] [ins]two[/ins] values,
+and there are four possible informations of that kind among
+the other two, and the quantity determined may be any one of
+the three, there will be 2 x 4 x 3, or 24 informations of this
+kind. In the second place, instead of a value being determined

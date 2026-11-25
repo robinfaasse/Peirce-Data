@@ -1,0 +1,27 @@
+Let $L$ be the limit of denominators.
+
+We will consider the excess of a fraction [del]$\frac{A}{B}$[/del] [ins]$y$[/ins] over the next less fraction of denom. [del]$\le$[/del] [ins]$\le L$[/ins].
+
+$$y = \frac{A}{B} - \frac{x}{L} = \text{[del]}\frac{AL - B}{}\text{[/del]}$$
+
+where $\frac{A}{B} > \frac{x}{L}$ [ins]$\frac{A}{B} < \frac{x+1}{L}$[/ins]
+
+$$AL - [del]R[/del] [ins]x[/ins]B > 0 \quad AL - Bx < B$$
+
+$$[del]x < \frac{A}{B} L[/del] \quad x > \frac{A}{B} L [ins]- 1[/ins]$$
+
+$x$ is the integer next [del]larger[/del] [ins]less[/ins] than $\frac{A}{B} L$
+
+$$y = \frac{AL - Bx}{B[del]L[/del]} \cdot \frac{1}{L}$$
+
+where $AL - Bx$ is the remainder after the division of $AL$ by $B$
+
+$$(AL - Bx) [del]\frac{AL}{B}[/del] \equiv AL \pmod B$$
+
+$$AL - Bx < B$$
+
+$$AL - Bx = (AL)_B \qquad y = \frac{(AL)_B}{B} \frac{1}{L}$$
+
+[del]Suppose I ask for[/del] [ins]what[/ins] values of $x$ and $y$ with all the different fractions.
+
+$$x = Q \frac{AL}{B} \quad \text{that is } x \text{ is the highest integer of the quotient}$$

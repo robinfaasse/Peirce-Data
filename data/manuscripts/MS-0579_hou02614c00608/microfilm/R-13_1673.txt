@@ -1,0 +1,26 @@
+cally true. Thus, $(a \prec b) \prec c \prec a$ is identical with
+$c \prec a$. And so is $[(a \prec b) \prec c] \prec a$.
+
+<u>Rule 5</u>. Any proposition having a clause written
+a clause may be changed as follows: —
+
+$1^{\text{st}}$ the inner clause to be broken [del]at any point[/del] [ins]after any copula[/ins]
+[del]to and it and the outer clause[/del] made to begin
+there
+
+$2^{\text{nd}}$ [del]as many times as[/del] [ins]for each antecedent of[/ins] the inner clause
+[del]had antecedents to[/del] the left of the break
+the whole outer clause to be repeated as
+antecedent of the proposition only having
+[del]its consequent replaced by[/del]
+[ins]that[/ins] antecedent of the inner clause [del]and the[/del]
+[ins]inner clause replaced by a clause whose ante-[/ins]
+[del]cedent[/del] [ins]consequent[/ins] [del]is[/del] the consequent of the proposition and
+its [del]antecedent[/del] [ins]consequent[/ins] the original consequent of the
+outer clause. Thus,
+
+$[a \prec (b \prec c \prec d \prec e) \prec f] \prec g$
+
+is identical with
+
+$[a \prec (\overset{f \prec g}{g \prec f}) \prec b] \prec [a \prec (\overset{f \prec g}{g \prec f}) \prec c] \prec [a \prec (d \prec e) \prec f] \prec g$

@@ -1,0 +1,25 @@
+[marginalia]
+Notation
+26
+[/marginalia]
+
+There is no simpler way of representing the relation of
+two propositions than by a Eulerian Diagram; thus:
+
+[fig]Eulerian diagram of two intersecting circles labeled A and B[/fig]
+
+I have thickened the lines at the lower intersection, and
+all the rest of the diagram may be dispensed with. If
+now we close by a transverse bar any [del]possible[/del] [ins]every[/ins] combination
+which a given conjunction bars and leave open the com-
+partment corresponding to a possibility which the con-
+junction leaves open, we shall have the following sixteen
+representations of conjunct propositions.
+
+A [fig]crossed-out square[/fig] B. Everything impossible (absurd).
+A [fig]square with top-left to bottom-right diagonal line[/fig] B. A and B are both true.
+A [fig]square with bottom-left to top-right diagonal line[/fig] B. A is not true, but B is true.
+A [fig]square with horizontal line[/fig] B. Neither A nor B is true.
+A [fig]square with vertical line[/fig] B. A is true, but B is not so.
+A [fig]square with both diagonal lines[/fig] B. A and B are equivalent as to truth.
+A [fig]square with horizontal and vertical lines[/fig] B. A and B are contradictory, in effect, one only being true.

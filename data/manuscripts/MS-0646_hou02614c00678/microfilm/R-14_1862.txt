@@ -1,0 +1,99 @@
+[marginalia]
+[pn]1910 Jan 23[/pn]
+AM 0:15
+DEFINITION
+4th draught
+[pn]32[/pn]
+[/marginalia]
+
+[marginalia]
+[fig]black circle[/fig]
+[/marginalia]
+
+[del]($\overline{\text{III}'}$)[/del]
+
+By (A)
+and
+$\underline{b} \prec \underline{b} \cdot \underline{1} \cdot \underline{c}$
+$\underline{b} \cdot \underline{1} \cdot \underline{c} \prec \underline{b} \cdot (\underline{b} \cdot \underline{1} \cdot \underline{c})$
+
+whence, by the [u]Nota notae[/u],
+$\underline{b} \prec \underline{b} \cdot (\underline{b} \cdot \underline{1} \cdot \underline{c})$
+
+But again by (A)
+$\underline{a} \prec \underline{a} \cdot (\underline{b} \cdot \underline{1} \cdot \underline{c})$
+
+So that by ($2'$)
+$\underline{a} \cdot \underline{b} \prec \underline{a} \cdot (\underline{b} \cdot \underline{1} \cdot \underline{c})$
+
+But by (A)
+and
+$\underline{c} \prec \underline{b} \cdot \underline{1} \cdot \underline{c}$
+$\underline{b} \cdot \underline{1} \cdot \underline{c} \prec \underline{a} \cdot (\underline{b} \cdot \underline{1} \cdot \underline{c})$
+
+whence by the [u]Nota notae[/u]
+$\underline{c} \prec \underline{a} \cdot (\underline{b} \cdot \underline{1} \cdot \underline{c})$
+
+from which with ($\underline{a} \cdot \underline{b} \prec \underline{a} \cdot (\underline{b} \cdot \underline{1} \cdot \underline{c})$) by ($2'$)
+$(\underline{a} \cdot \underline{b}) \cdot \underline{c} \prec \underline{a} \cdot (\underline{b} \cdot \underline{1} \cdot \underline{c})$
+
+which is one half of the Associative Principle
+of Aggregation.
+
+By (A)
+and
+$\underline{a} \cdot (\underline{b} \cdot \underline{c}) \prec \underline{b} \cdot \underline{c}$
+
+whence, by the [u]Nota notae[/u],
+$\underline{a} \cdot (\underline{b} \cdot \underline{c}) \prec \underline{b}$
+$\underline{a} \cdot (\underline{b} \cdot \underline{c}) \prec \underline{c}$
+$\underline{a} \cdot (\underline{b} \cdot \underline{c}) \prec \underline{a}$
+
+But again by (A)
+$\underline{a} \cdot (\underline{b} \cdot \underline{c}) \prec \underline{a}$
+$\underline{a} \cdot (\underline{b} \cdot \underline{c}) \prec \underline{b}$
+
+So that by ($2'$) [del]($\overline{\text{III}'}$)[/del]
+$\underline{a} \cdot (\underline{b} \cdot \underline{c}) \prec \underline{a} \cdot \underline{b}$
+
+But by (A)
+and
+$\underline{a} \cdot (\underline{b} \cdot \underline{c}) \prec \underline{c}$
+
+whence, by the [u]Nota notae[/u],
+$\underline{a} \cdot (\underline{b} \cdot \underline{c}) \prec \underline{c}$
+
+from which, with [del]($\overline{\text{III}'}$)[/del] by ($2'$)
+$\underline{a} \cdot (\underline{b} \cdot \underline{c}) \prec (\underline{a} \cdot \underline{b}) \cdot \underline{c}$
+
+which is one half the Associative Principle
+of Composition.
+
+By a precisely similar process, we get successively
+$\underline{b} \prec \underline{a} \cdot \underline{1} \cdot \underline{b}$
+$\underline{a} \cdot \underline{1} \cdot \underline{b} \prec (\underline{a} \cdot \underline{1} \cdot \underline{b}) \cdot \underline{1} \cdot \underline{c}$
+$\underline{b} \prec (\underline{a} \cdot \underline{1} \cdot \underline{b}) \cdot \underline{1} \cdot \underline{c}$
+$\underline{a} \prec (\underline{a} \cdot \underline{1} \cdot \underline{b}) \cdot \underline{1} \cdot \underline{c}$
+$\underline{a} \cdot \underline{1} \cdot \underline{b} \prec (\underline{a} \cdot \underline{1} \cdot \underline{b}) \cdot \underline{1} \cdot \underline{c}$
+
+$\underline{c} \prec (\underline{a} \cdot \underline{1} \cdot \underline{b}) \cdot \underline{1} \cdot \underline{c}$
+$\underline{b} \cdot \underline{1} \cdot \underline{c} \prec (\underline{a} \cdot \underline{1} \cdot \underline{b}) \cdot \underline{1} \cdot \underline{c}$
+$\underline{a} \cdot \underline{1} \cdot (\underline{b} \cdot \underline{1} \cdot \underline{c}) \prec (\underline{a} \cdot \underline{1} \cdot \underline{b}) \cdot \underline{1} \cdot \underline{c}$
+
+The rest of the Associative Principle of Aggregation,
+
+[marginalia]
+[pn]37[/pn]
+[/marginalia]
+
+$\underline{a} \cdot \underline{1} \cdot \underline{b} \prec \underline{a}$
+$\underline{a} \cdot \underline{1} \cdot \underline{b} \prec \underline{b}$
+$(\underline{a} \cdot \underline{1} \cdot \underline{b}) \cdot \underline{1} \cdot \underline{c} \prec \underline{a} \cdot \underline{1} \cdot \underline{b}$
+$(\underline{a} \cdot \underline{1} \cdot \underline{b}) \cdot \underline{1} \cdot \underline{c} \prec \underline{c}$
+
+$(\underline{a} \cdot \underline{1} \cdot \underline{b}) \cdot \underline{1} \cdot \underline{c} \prec \underline{a}$
+$(\underline{a} \cdot \underline{1} \cdot \underline{b}) \cdot \underline{1} \cdot \underline{c} \prec \underline{b}$
+$(\underline{a} \cdot \underline{1} \cdot \underline{b}) \cdot \underline{1} \cdot \underline{c} \prec \underline{b} \cdot \underline{1} \cdot \underline{c}$
+$(\underline{a} \cdot \underline{1} \cdot \underline{b}) \cdot \underline{1} \cdot \underline{c} \prec \underline{a} \cdot \underline{1} \cdot (\underline{b} \cdot \underline{1} \cdot \underline{c})$
+
+The rest of the Associative Principle of Composition.

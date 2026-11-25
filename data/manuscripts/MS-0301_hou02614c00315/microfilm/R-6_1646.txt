@@ -1,0 +1,30 @@
+[pn]11[/pn]
+
+The solution of this equation is
+$$p = ql + [del]\frac{\partial p}{\partial n} (n[/del] [ins]\frac{\partial p}{\partial n} n[/ins]$$
+[del]where $dn$ is the small loss is the number of[/del]
+[del]put[/del] $\frac{\partial p}{\partial n}$ is the amount by which the price
+would have to be lowered in order to sell
+[ins]one policy[/ins] [del]more[/del]. [ins]Of course if the price were raised instead of lowered just one policy fewer would be sold.[/ins]
+For then by [del]so[/del] lowering the [del]price[/del] profit from being
+$$(p - ql)n$$
+would be changed to
+$$(p - ql - \frac{\partial p}{\partial n})(n + 1)$$
+that is, to
+$$(p - ql)n + p - ql - \frac{\partial p}{\partial n}(n + 1)$$ [ins]and this being less than before $ql + \frac{\partial p}{\partial n}(n+1) > p$[/ins]
+But since the [del]p - ql[/del] [ins]$(p-ql)n$[/ins] is [del]a maximum[/del] the
+value [del]cannot be changed and consequently[/del]
+$$p = ql + \frac{\partial p}{\partial n}(n+1)$$
+
+and by raising it, [del]it would be[/del] [ins]the[/ins] change would be to
+$$(p - ql + \frac{\partial p}{\partial n})(n - 1)$$
+that is to
+$$(p - ql)n - p + ql + \frac{\partial p}{\partial n}(n - 1)$$
+and this being less than before
+$$p > ql + \frac{\partial p}{\partial n}(n - 1)$$
+So since $p$ is intermediate between
+$$ql + \frac{\partial p}{\partial n}n + \frac{\partial p}{\partial n}$$
+and $ql + \frac{\partial p}{\partial n}n - \frac{\partial p}{\partial n}$
+and $\frac{\partial p}{\partial n}$ is very small, it must be
+very close to the truth to write
+$$p = ql + \frac{\partial p}{\partial n}n$$

@@ -1,0 +1,24 @@
+$$u = iF_1' + F_2' + F_3' + (-x+iy)F_3' + iF_4'$$
+
+$$D_y u + D_x v = 4i(F_3' + F_4')$$
+
+[del]R[/del]
+$\mathcal{R}$ Real parts
+$\mathcal{I}$ Imag parts
+
+$\mathcal{Q}F_3' = -\mathcal{R}F_4'$
+
+[del]$x + yi = x$[/del]
+
+[del]$F_3'(x+iy) = -F_4'(y+ix)$[/del]
+$$F_3'(x+iy) = -F_4'(\eta+ix)$$
+$$F_3'x = -F_4'i.x$$
+$$F_3'iy = -F_4'y$$
+
+$$F_3'x+dx = -F_4'i([del]x[/del][ins]y[/ins]+dx)$$ [fig]Diagram with axes and a curve labeled 1[/fig]
+
+[del]B[/del]
+$$dF_3' = -$$
+
+[del]D[/del] $F_3''x.[del]dx[/del] = -iF_4''ix.$
+$$F_3''x.[del]dy[/del] = +iF_4''ix.$$ [del]D[/del]

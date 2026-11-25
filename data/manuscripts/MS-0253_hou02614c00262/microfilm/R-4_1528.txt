@@ -1,0 +1,23 @@
+[pn]D20[/pn] [pn]D15[/pn]
+
+[u]First Figure[/u]
+
+[u]Barbara[/u]
+$\Pi_{a} M_{a} \prec \Sigma_{b} k_{ab} \cdot P_{b}$
+$\Pi_{c} l_{cd} S_{c} \prec \Sigma_{d} M_{d}$
+$\therefore \Pi_{c} l_{cd} S_{c} \prec \Sigma_{b} k_{db} \cdot P_{b}$
+
+[u]Celarent[/u]
+$\Pi_{a} M_{a} \prec \Pi_{b} k_{ab} \overline{P_{b}}$
+$\Pi_{c} l_{cd} S_{c} \prec \Sigma_{d} M_{d}$
+$\Pi_{c} l_{cd} S_{c} \prec \Pi_{b} k_{db} \overline{P_{b}}$
+
+[u]Darii[/u]
+$\Pi_{a} M_{a} \prec \Sigma_{b} k_{ab} \cdot P_{b}$
+$\Sigma_{c} l_{cd} S_{c} \prec \Sigma_{d} M_{d}$
+$\therefore \Sigma_{c} l_{cd} S_{c} \prec \Sigma_{b} k_{db} \cdot P_{b}$
+
+[u]Ferio[/u]
+$\Pi_{a} M_{a} \prec \Pi_{b} k_{ab} \overline{P_{b}}$
+$\Sigma_{c} l_{cd} [del]S_{d}[/del] [ins]S_{c}[/ins] \prec \Sigma_{d} M_{d}$
+$\therefore \Sigma_{c} l_{cd} S_{c} \prec \Pi_{b} k_{db} \overline{P_{b}}$

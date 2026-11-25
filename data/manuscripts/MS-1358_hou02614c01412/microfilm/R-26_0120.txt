@@ -1,0 +1,46 @@
+[pn]12[/pn]
+
+Morison's Bridge [date]1899 Feb 14[/date]
+
+The equation $b_{-R+q} = \frac{R-Q-q}{R-Q} b_{-R}$
+
+or $b_n = \frac{-n-Q}{R-Q} b_{-R}$ [marginalia] $-R+q = n$
+$q = n+R$ [/marginalia]
+
+Only holds when $n < -Q+2$
+
+$b_{-Q+2}$ remains indeterminate for the present
+
+$b_{-Q+3} = 4b_{-Q+2} - 6b_{-Q+1} + [del]4b_{-Q}[/del] - b_{-Q-1} = 4b_{-Q+2} + \frac{5}{R-Q} b_{-R}$
+
+[del] $= \frac{-2}{R-Q} b_{-R} - 6 \frac{-1}{R-Q} b_{-R}$ [/del]
+
+[del] $= \frac{2}{R-Q} b_{-R}$ [/del]
+
+[del] $= \frac{8}{R-Q} b_{-R} - 6b_{-Q+1}$ [/del]
+
+[del] $b_{-Q+4} = 4b_{-Q+3} - 6b_{-Q+2} + 4b_{-Q+1}$ [/del]
+
+[del] $= \frac{32}{R-Q} b_{-R} - 24b_{-Q+1}$ [/del]
+
+$b_{-Q+4} = 4b_{-Q+3} - 6b_{-Q+2} + 4b_{-Q+1}$
+
+$= 16b_{-Q+2} + \frac{20}{R-Q} b_{-R}$
+$- 6$
+$- \frac{4}{R-Q} b_{-R}$
+
+$= 10b_{-Q+2} + \frac{16}{R-Q} b_{-R}$
+
+$b_{-Q+5} = 4b_{-Q+4} - 6b_{-Q+3} + 4b_{-Q+2} - b_{-Q+1}$
+
+$= 40b_{-Q+2} + \frac{64}{R-Q} b_{-R}$
+[del] $- 24$ [/del]
+[del] $+ 4$ [/del]
+$+ 4$
+[del] $- \frac{30}{R-Q} b_{-R}$ [/del]
+[del] $- \frac{1}{R-Q} b_{-R}$ [/del]
+
+[del] $= 44b_{-Q+2} + \frac{65}{R-Q} b_{-R}$ [/del]
+[del] $= 20b_{-Q+2} +$ [/del]
+
+[marginalia] [fig]scratch calculations[/fig] [/marginalia]

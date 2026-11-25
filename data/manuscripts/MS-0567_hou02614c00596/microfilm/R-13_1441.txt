@@ -1,0 +1,26 @@
+[pn]208[/pn]
+
+$$\Sigma_{a}\Pi_{b}\Sigma_{c}\Pi_{d}\Pi_{e}\Sigma_{f}\Pi_{g}$$
+
+$$\{\bar{x}_{a} + r_{ab} y_{b} (\bar{r}_{cb} + I_{ac})\} \{\bar{x}_{d} + r_{de} y_{e} (\bar{r}_{fe} + I_{df})\}$$
+
+The application to the Boolean of the common
+formula
+$$(a+x)(b+y) \prec a + b + xy$$
+gives
+$$\bar{x}_{a} + \bar{x}_{d} + r_{ab} r_{de} y_{b} y_{e} (\bar{r}_{cb} + I_{ac}) (\bar{r}_{fe} + I_{df}).$$
+
+We now identify $f$ with $a$; when the first
+and last factors of the last term become
+$$r_{ab} (\bar{r}_{ae} + I_{ad}).$$
+
+But we have
+$$r_{ab} \bar{r}_{ae} \prec I_{be}.$$
+
+Thus, we reach the conclusion
+$$\Pi_{a} \Sigma_{b} \Pi_{d} \Sigma_{e} (\bar{x}_{a} + \bar{x}_{d} + I_{ad} + y_{b} y_{e} I_{be});$$
+that is, there are either not two $x$'s different
+from one another or there are two $y$'s dif-
+ferent from one another. A little examina-
+tion will show that no other conclusion could
+be reached by elimination from the square.

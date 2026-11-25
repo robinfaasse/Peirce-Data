@@ -1,0 +1,180 @@
+[pn]11[/pn]
+
+[fig]calculation[/fig] $2047$
+$13 \cdot 98 \cdot 81$
+$12282$
+$16990$
+$182182$
+
+[fig]calculation[/fig] $890$
+$172$
+$683$
+
+[fig]calculation[/fig] $3 \overline{) 4194303}$
+$23 \overline{) 1398101}$
+$\overline{60787} (693 \dots$
+$5373$
+
+[fig]calculation[/fig] $3 \overline{) 693}$
+$3 \overline{) 230}$
+$77$
+
+[fig]calculation[/fig] $9 \overline{) 4194303}$
+$466036$
+
+$85$
+
+If $p$ is a prime [del]it[/del]
+([del]free[/del]) [ins]must[/ins] divide $F_n$
+
+and [del]if[/del] $n = p$
+then, [del]m[/del] [ins]$n$[/ins] being an integer,
+
+[fig]calculation[/fig] $11 \overline{) 1023}$
+$993$
+$31 \overline{) 33}$
+
+[fig]calculation[/fig] $4095 \overline{) 315}$
+$39 \overline{) 105}$
+$13 \overline{) 35}$
+$7 \cdot 5 \cdot 3$
+
+If a prime $p$
+divides $F_n$
+it divides
+also
+$F(mn)$
+whatever
+integer
+$m$ may
+be.
+
+[fig]calculation[/fig] $4095$
+$1365$
+$273 \overline{) 4095 (315}$
+$273$
+$1365$
+$1365$
+
+[fig]calculation[/fig] $13 \overline{) 4095 (315}$
+$39$
+$19$
+$13$
+$65$
+
+[fig]calculation[/fig] $4095 \overline{) 315}$
+$273 \overline{) 27}$
+$39$
+
+[fig]calculation[/fig] $13 \overline{) 1365 (105}$
+$13$
+$65$
+
+[fig]calculation[/fig] $17 \overline{) 65535 (3855}$
+$51$
+$145$
+$136$
+$93$
+$85$
+$85$
+
+[fig]calculation[/fig] $3 \overline{) 771}$
+$257$
+
+[fig]calculation[/fig] $3855$
+$771$
+
+[fig]calculation[/fig] $3 \overline{) 16383}$
+$127 \overline{) 5461 (41}$
+$508$
+$381$
+$381$
+
+[fig]calculation[/fig] $31 \overline{) 32767 (1057}$
+$31$
+$176$
+$155$
+$217$
+$217$
+
+[fig]calculation[/fig] $3 \overline{) 32767}$
+$31 \overline{) 4681 (151}$
+$31$
+$158$
+$155$
+$3$
+
+[fig]calculation[/fig] $31 \overline{) 32767}$
+$31 \overline{) 16383}$
+
+If $F_n$ is a
+prime, then
+$n$ is a prime
+
+If $F_n$ is a prime
+$F(2n)$ is divi-
+sible by $F_n + 2$
+
+$F_n = 2^n - 1$
+
+$2^n - 1$
+
+$\frac{2^m - 1}{2^n - 1}$
+$2^{m-n} + 2^{m-2n} + 2^{m-3n} + \dots$
+
+$n$ | $F_n$
+--- | ---
+$1$ | $1$
+$2$ | $3$ Prime
+$3$ | $7$ Prime
+$4$ | $15$ $3 \cdot 5$
+$5$ | $31$ Prime
+$6$ | $63$ $3^2 \cdot 7$
+$7$ | $127$ Prime
+$8$ | $255$ $3 \cdot 5 \cdot 17$
+$9$ | $511$ $7 \cdot 73$
+$10$ | $1023$ $3 \cdot 11 \cdot 31$
+$11$ | $2047$ $23 \cdot 89$
+$12$ | $4095$ $3^2 \cdot 5 \cdot 7 \cdot 13$
+$13$ | $8191$ Prime
+$14$ | $16383$ $3 \cdot 127$
+$15$ | $32767$ $7 \cdot 31 \cdot 151$
+$16$ | $65535$ $3 \cdot 5 \cdot 17 \cdot 257$
+$17$ | $131071$
+$18$ | $262143$ $3^3 \cdot 7 \cdot 19 \cdot 73$
+
+[fig]calculation[/fig] $2^2 + 1$
+$2^4 + 1$
+$2^8 + 1$
+$2^{16} + 1$
+
+$F_3 \cdot F_5$
+$1 + 2 + 2^2$
+$1 + 2 + 2^2 + 2^3 + 2^4$
+$1 + 2 + 2^2 + 2^3 + 2^4 + 2^5 + 2^6$
+
+$F_1 = 2^1 + 1$
+$F_2 = 2^2 + 1$
+$F_3 = 2^4 + 1$
+$F_4 = 2^8 + 1$
+$F_5 = 2^{16} + 1$
+
+$F_1 \cdot F_2 = 2^3 + 2^2 + 2^1 + 1$
+$F_1 \cdot F_2 \cdot F_3 = 2^7 + 2^6 + 2^5 + 2^4 + 2^3 + 2^2 + 2^1 + 1$
+
+[fig]calculation[/fig] $F(mn) = B_{mn} F_n$
+
+$F_1 \cdot F_2 \cdot F_3 \cdot F_4 = F_5 - 2$
+
+$F(2 \cdot 3 \cdot 5) = F_2 (F_3 \cdot F_5)$
+
+$F_5 = 31$
+$F_3 = 7$
+$217$
+
+$F_{15} = F_3 \cdot F_5 \cdot 151$
+$F_{15} = 7 \cdot 31 \cdot 151$
+
+$2^{m+n} + 2^m + 2^n + 1$
+
+$2^{m-n}$

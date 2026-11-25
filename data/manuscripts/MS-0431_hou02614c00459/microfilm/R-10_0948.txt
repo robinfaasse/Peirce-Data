@@ -1,0 +1,28 @@
+[pn]Logic
+III.
+87[/pn]
+
+The relation of inclusion signified by [u]⤙[/u] may be defined
+in three clauses, as follows:
+
+[pn](49)[/pn] Necessarily, either [u]x[/u] or [u]x[/u] ⤙ [u]y[/u] ;
+[pn](50)[/pn] If [u]y[/u], then necessarily [u]x[/u] ⤙ [u]y[/u] ;
+[pn](51)[/pn] If [u]x[/u] ⤙ [u]y[/u], then if [u]x[/u], necessarily [u]y[/u].
+
+If we substitute [u]x[/u] for [u]y[/u] in (49) and (50), they become
+Necessarily, either [u]x[/u] or [u]x[/u] ⤙ [u]x[/u]
+If [u]x[/u], then necessarily [u]x[/u] ⤙ [u]x[/u]
+
+Syllogizing these, we find
+[pn](52)[/pn] Necessarily [u]x[/u] ⤙ [u]x[/u],
+which is the [u]Formula of Identity[/u].
+
+I will now prove that
+[pn](53)[/pn] If [u]x[/u] ⤙ ([u]y[/u] ⤙ [u]z[/u]), then necessarily [u]y[/u] ⤙ ([u]x[/u] ⤙ [u]z[/u]).
+
+[del]Assume that [u]x[/u] ⤙ ([u]y[/u] ⤙ [u]z[/u]).[/del]
+
+Now in (51), substitute [u]y[/u] ⤙ [u]z[/u] for [u]y[/u]. Then we have,
+If [u]x[/u] ⤙ ([u]y[/u] ⤙ [u]z[/u]), then [ins]if [u]x[/u],[/ins] necessarily [u]y[/u] ⤙ [u]z[/u].
+
+In (51), substitute [u]y[/u] or [u]x[/u] and [u]z[/u] for [u]y[/u]. Then, we find,

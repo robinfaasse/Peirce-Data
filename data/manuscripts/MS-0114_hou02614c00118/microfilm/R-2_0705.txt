@@ -1,0 +1,33 @@
+[marginalia]
+[pn]HypGeom[/pn]
+[pn]114[/pn]
+[/marginalia]
+
+[u]On Hyperbolic Geometry.[/u]
+
+I assume the particular form of this geometry in which the formulae of plane trigonometry become those of spherical trigonometry after substituting in the latter
+for every line $a$
+For $\sin a$ [ins]$-i \sinh a$[/ins]
+For $\cos a$ [ins]$\cosh a$[/ins]
+
+That is for right-angled triangles
+$\cosh h = \cosh a . \cosh b = \cot A . \cot B$
+[del]$\sin B = \frac{\cos A}{\cosh a}$[/del] $\cos A = \cosh a . \sin B$
+$\sinh h = \frac{\sinh a}{\sin A}$ [del]$\cos B = \frac{\tanh a}{\tanh h}$[/del] $\sinh b = \frac{\tanh a}{\tan A}$
+$\tanh h = \frac{\tanh a}{\cos B}$
+
+For oblique triangles
+$\frac{\sinh a}{\sin A} = \frac{\sinh b}{\sin B} = \frac{\sinh c}{\sin C}$
+$\cosh c = \cosh a \cosh b - \sinh a \sinh b \cos C$
+$\cos C = -\cos A \cos B + \sin A \sin B \cosh c$
+$\sinh a . \coth b = \cot B . \sin C + \cosh a . \cos C$
+
+We have Formulae of the functions
+$\cosh^2 x = 1 + \sinh^2 x$
+[marginalia]
+Also neg
+$\text{Sech}^2 - 1 = -\tanh^2$
+$\coth^2 - 1 = \text{Cosech}^2$
+[/marginalia]
+$\tanh^2 x + \text{Sech}^2 x = 1$
+$\coth^2 x = 1 + \text{Cosech}^2 x$ also in this form

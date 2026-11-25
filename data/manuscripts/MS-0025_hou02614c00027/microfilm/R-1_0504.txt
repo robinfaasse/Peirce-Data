@@ -1,0 +1,27 @@
+[u]Multitude[/u] [pn]38[/pn]
+
+I now have to show that of any two $M$s one is $f.$ of every $M$ $f$'d by the
+other and of some other $M$s too; while the latter is $f$'d by every $M$ that is $f.$
+of the other and by some other $M$s too. By the third clause of the definition
+of $f.$, of any two $M$s one is $f.$ of the other. It has only to be shown, then, that
+every $M$ is $f.$ of another and is $f$'d by another and that if one $M$ is $f.$ of a
+second $M$, which is itself $f.$ of a third $M$, then the first is $f.$ of the third.
+
+First to show that every $M$ is $f.$ of an $M$. It is to be remarked that the $M$s
+which are $g$'d by any given $M$ constitute an enumerable collection. For no
+$M$ is $g$'d by $M_0$, since $M_0$ is not $r$ of any $M$, so that the first two clauses of the
+definition of $g$ do not necessitate [del]its[/del] [ins]$M_0$[/ins] being $g$ of any $M$, and therefore the
+third clause forbids its being $g$ to any $M$. Thus, the $M$s $g$'d by $M_0$ are none,
+which is an enumerable collection. But if the $M$s $g$'d by any $M$, say $M_x$, [del]are[/del] [ins]form[/ins]
+an enumerable collection, then [del]so do[/del] likewise [del]are[/del] [ins]do[/ins] the $M$s $g$'d by the $M$ that is $r$
+of $M_x$; for by the definition of $g$, they consist of the $M$s $g$'d by $M_x$ together with
+one other $M$, namely, $M_x$, and [del]do[/del] thus [del]form[/del] the aggregate of two enumerable
+collections, for a single unit constitutes [del]also[/del] an enumerable collection. Thus, the
+character of "having an enumerable collection of $M$s of which it is $g$" is a charac-
+ter that is true of $M_0$ and that if true of any $M$ is likewise true of the $M$ that is
+$r$ of that $M$. Hence, it is true of every $M$. Now suppose there were an $M$, say
+$M_a$ which was not $f.$ of any $M$. Then it would not be $f.$ of any $M$ of which it
+was $g$. But it is an immediate consequence of the first two clauses of the defini-
+tion of $g$ that the $g$s of the $r$ of $M_a$ form a denumerable collection; and from
+the second clause of the definition of $f.$ it follows that every $g$ of the $r$ of $M_a$
+[del]that is not $g$ of any $M$ of which $M_a$ is $f.$[/del] is $f$'d [del]by[/del] [ins]by[/ins] some $M$ $g$'d by $M_a$ of which the $M$ of which it is $r$ is not $f$'d. This,

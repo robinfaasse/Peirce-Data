@@ -1,0 +1,12 @@
+[pn]222[/pn]
+
+For $N=971$, the answers are
+$8.46791$     $9.65270$     $11.87939$
+
+For $N=972$, there are but two answers, the two small having coalesced. They are
+$9.00000$ and $12.00000$
+
+For $N=973$, there is again but one
+$12.10380$
+
+For all higher values of $N$, there is but one answer; so that a person examining only [del]every $50^{\text{th}}$ value of $N$[/del] [ins]values of $N$ that are multiples of 50[/ins] might easily overlook the circumstance that there ever are more than one answer.

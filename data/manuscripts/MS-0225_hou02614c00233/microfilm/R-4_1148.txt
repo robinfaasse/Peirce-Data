@@ -1,0 +1,49 @@
+[fig]Table of differences[/fig]
+
+$$\begin{array}{c c c c}
+& \Delta & \Delta + \Delta^2 & \\
+A_1 & A_2 - A_1 & A_3 - A_1 & A_2 - \frac{1}{4}(A_3 - A_1) = \\
+A_2 & A_3 - A_2 & A_4 - A_2 & A_3 - \frac{1}{4}(A_4 - A_2) = A_2 + \frac{1}{12}(A_3 - A_1) \\
+A_3 & A_4 - A_3 & A_5 - A_3 & A_4 - \frac{1}{4}(A_5 - A_3) = A_3 + \frac{1}{4}(A_4 - A_2) \\
+A_4 & A_5 - A_4 & & A_4 + \frac{1}{12}(A_5 - A_3) \\
+A_5 & & &
+\end{array}$$
+
+$$\begin{array}{c}
+A_1 \\
+A_2 - \frac{1}{4}(A_3 - A_1) \\
+A_2 \\
+A_3 - \frac{1}{4}(A_4 - A_2) \\
+A_3 \\
+A_4 - \frac{1}{4}(A_5 - A_3) \\
+A_4 \\
+A_4 + \frac{1}{12}(A_5 - A_3) \\
+A_5
+\end{array}$$
+
+Repeat this & you have $\Omega$ for every tenth day.
+
+This will come near enough, in practice
+
+Take $\Omega$ out of some part of MS table used above in the same way as before.
+Add $\Omega$ and $\Theta$ paying attention to the signs from the subsidiary table of the MS table (Sheet 2)
+
+---
+
+Suppose $\frac{\Delta^2}{16}$ will be the new second diff. and
+$\frac{\Delta^1}{4} - 3 \frac{\Delta^2}{16}$ will be the $1^{\text{st}}$ $1^{\text{st}}$ diff.
+
+First take MS table [del]$\Omega$[/del] at the bottom of sheet one
+[marginalia]will be found side arguments for former years.[/marginalia]
+Get side argument for the year by subtracting .2591078 from that for the year before. If the year for which you wish it is a leap year add one to it.
+
+With this side argument, enter the side of the MS table.
+Enter at top with day every $10^{\text{th}}$ day of year. Take out $\Psi_{\Omega}$ from the upper portion of the table
+
+$\Psi_{\Omega} + \Psi_{\odot}$ is the Equation of the Equinoxes in Longitude.
+Test it by differences.
+
+The Eq. of Equinoxes in Rt. A. is obtained from this by multiplying by the cos. of the obliquity and dividing by 15.
+See Table further on in this book.
+
+2. To find the Obliquity. Having got $\Omega$ as above explained. Add successive pairs of first diffs. Divide by 4. Add & subtract this with middle no. & it gives the intermediate values: - thus,

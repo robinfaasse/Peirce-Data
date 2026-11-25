@@ -1,0 +1,12 @@
+of $x$ and $y$ for $s = S$, by which to eliminate the two unknowns
+$Q$ and $\omega_{_H}$. That is we have to determine the constants
+of the equation
+$$F's = Q \tan \tau + \omega_{_H}$$
+by means of the equations
+$$\int_0^S \cos \tau \cdot ds = x_{_{N+1}} \qquad \int_0^S \sin \tau \cdot ds = y_{_{N+1}} \cdot$$
+
+Of course, the only way is to obtain approximate values of
+$Q$ and $\omega_{_H}$ which are to be corrected by linear approximate
+equations. Thus we substitute our approximate values in the last two
+equations and find they do not satisfy them. These last may be written
+$$\int_0^S \frac{ds}{\sqrt{1 + \frac{(F's - \omega_{_H})^2}{Q^2}}} = x_{_{N+1}} \qquad \frac{1}{Q} \int_0^S \frac{(F's - \omega_{_H}) ds}{\sqrt{1 + \frac{(F's - \omega_{_H})^2}{Q^2}}} = y_{_{N+1}}$$

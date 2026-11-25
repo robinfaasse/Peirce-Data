@@ -1,0 +1,20 @@
+Let $\Phi$ be such that [del]$x + \Delta x = \Phi \Delta x$[/del]
+$\Phi(x+y) \equiv \Phi x + \Phi y$
+Then $\Phi(x+\Delta x) \equiv \Phi x + \Phi \Delta x$
+But $\Delta \Phi x \equiv \Phi(x+\Delta x) - \Phi x$
+$\therefore \Delta \Phi x \equiv \Phi \Delta x$
+$\therefore$ [del]$(\Phi + \Delta) (\Phi x + \Delta x) \equiv$[/del] $(\Phi + \Delta) x \equiv$ [del]$(\Phi + \Delta)$[/del]
+Let us scrutinize that.
+$(\Phi + \Delta x)^2$ [del]$(\Phi + \Delta) (x + \Delta x) - \Phi x$[/del]
+$\frac{\Phi + \Delta}{\Phi^2 + 2\Phi\Delta + \Delta^2}$
+
+Let $\Phi$ be [del]$a x + b$[/del] $a_1 x + b$
+$(\Phi + \Delta) x \equiv \Phi x + \Delta x \equiv a_1 x + b + \Delta x$
+$(\Phi + \Delta) (\Phi + \Delta) x \equiv$
+$a_1 x + a_1 b + a_1 \Delta x + b + \Delta (\Phi + \Delta) x$
+$\equiv a_1 b + a_1 b + a_1 \Delta x + b + (\Phi + \Delta) \Delta x$
+$\equiv a_1 x + a_1 b + a_1 \Delta x + b + a_1 \Delta x + b + \Delta.\Delta x$
+$\equiv a_1 x + a_1 b + 2 a_1 \Delta x + 2 b + \Delta^2 x$
+$(\Phi + \Delta)^2 x \equiv$
+$\Phi^2 x \equiv a_1 x + a_1 b + b$
+$\Phi \Delta x \equiv a_1 \Delta x + b$

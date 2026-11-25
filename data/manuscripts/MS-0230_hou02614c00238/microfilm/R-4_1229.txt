@@ -1,0 +1,34 @@
+$$l^2 ([y^2]+[z^2]) + m^2 ([x^2]+[z^2]) + n^2 ([x^2]+[y^2])$$
+$$- 2lm [xy] - 2ln [xz] - 2mn [yz] = \frac{1}{\delta^2}$$
+
+$$\left\{ l([y^2]+[z^2]) - m[xy] - n[xz] \right\} dl$$
+$$+ \left\{ m([x^2]+[z^2]) - l[xy] - n[yz] \right\} dm$$
+$$+ \left\{ n([x^2]+[y^2]) - l[xz] - m[yz] \right\} dn = - \frac{d\delta}{\delta^3}$$
+
+$$l^2 + m^2 + n^2 = 1$$
+$$l dl + m dm + n dn = 0$$
+
+$$- u \left\{ l([y^2]+[z^2]) - m[xy] - n[xz] \right\}$$
+$$+ v \left\{ [del]l[/del] [ins]m[/ins] ([x^2]+[z^2]) - l[xy] - n[yz] \right\} = 0$$
+
+$$lm ([x^2]-[y^2]) - l^2 [xy] + m^2 [xy] + [del]n^2 [xy][/del] [ins]- n^2 [xy][/ins] + [del]l[/del] [ins]m[/ins]n [xz] - [del]m[/del] [ins]l[/ins]n [yz] = 0$$
+$$mn ([y^2]-[z^2]) - m^2 [yz] + n^2 [yz] - [del]l^2 [yz][/del] [ins]- l^2 [yz][/ins] + [del]m[/del] [ins]n[/ins]l [yx] - [del]n[/del] [ins]m[/ins]l [zx] = 0$$
+
+---
+
+[fig]triangle with angles 90 and i[/fig] $\cos \psi = \cos i \cos \phi$
+
+Put $n=0 \quad dn=0$.
+$$l^2 + m^2 = 1$$
+$$l dl + m dm = 0$$
+
+$$- m \left\{ l([y^2]+[z^2]) - m[xy] [del]- n[xz][/del] \right\}$$
+$$+ l \left\{ m([x^2]+[z^2]) - l[xy] [del]- n[yz][/del] \right\} = 0$$
+
+$$lm ([x^2]-[y^2]) - l^2 [xy] + m^2 [xy] = 0$$
+
+[del]$$\frac{l}{m} = \theta$$[/del] [ins]$$\theta = \frac{l}{m}$$[/ins]
+
+$$[xy] \theta^2 + ([x^2]-[y^2]) \theta - [xy] = 0$$
+
+$$\theta^2 + \frac{[x^2]-[y^2]}{[xy]} \theta - 1 = 0$$

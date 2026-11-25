@@ -1,0 +1,29 @@
+[pn]D5[/pn]
+
+$$S = \frac{31}{60 + 2 \frac{31^F \cdot 29^F}{31^F - 29^F}}$$
+
+$$= \frac{1}{2} \frac{31(31^F - 29^F)}{31^F - 29 \cdot 29^F}$$
+
+[fig]Mathematical scratch work[/fig]
+
+$$S = \frac{31 \cdot 31^F - 29^F}{31^{F+1} - 29^{F+1}}$$
+
+$$1 = C_1 + C_2 \frac{29}{31}$$
+
+$$0 = C_1 + C_2 (\frac{31}{29})^F$$
+
+$$C_2 = S + D$$
+
+$$C_1 = S - D$$
+
+$$1 = \frac{60}{31} S + \frac{2}{31} D$$
+
+$$0 = \frac{31^F + 29^F}{29^F} S - \frac{31^F - 29^F}{29^F} D$$
+
+$$S = \frac{31^F - 29^F}{31^F + 29^F} D$$
+
+$$31 = (60 \frac{31^F - 29^F}{31^F + 29^F} + 2) D$$
+
+[del]$$C_2 = \frac{2 \cdot 29^F}{31^F + 29^F} S$$[/del]
+
+$$31 = (60 + 2 \frac{31^F + 29^F}{31^F - 29^F}) S$$

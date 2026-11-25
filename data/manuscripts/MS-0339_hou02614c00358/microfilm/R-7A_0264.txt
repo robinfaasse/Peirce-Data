@@ -1,0 +1,29 @@
+[pn]77r[/pn]
+
+In short we need but one logical function to
+express everything.
+
+We may write this function $(x,y)$ and
+let it mean
+$$\begin{array}{rccccccc}
+(x,y) & = & i \varphi & + & j \psi & + & k \chi & + & l \omega \\
+U & = & \varphi & + & \psi & + & \chi & + & \omega \\
+x & = & \varphi & + & \psi & & & & \\
+y & = & \varphi & & & + & \chi & &
+\end{array}$$
+
+Solving
+$$\varphi = \frac{l U - (x,y) + (i-l)x + (k-l)y}{-i + j + k - l}$$
+
+$$x + y - \varphi = \frac{-l U + (x,y) + (k-i)x + (j-i)y}{-i + j + k - l}$$
+
+[marginalia][date]Nov 7[/date][/marginalia]
+
+The same object may be accomplished without
+any logical function $(x,y)$. Namely let us take
+arbitrarily any two [del]X[/del] numbers $v$ & $f$ and let
+$$x = f$$
+[del]signify[/del] [ins]denote[/ins] that whatever object can be chosen
+is not $x$
+$$x = v$$
+that whatever object can be chosen is $x$.

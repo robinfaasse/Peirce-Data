@@ -1,0 +1,21 @@
+[fig]Right triangle with angle marked[/fig]
+
+$\tan h = \tan a \sec B$
+
+$D_a h = D_a \tan a D_{\tan a} h$
+
+$= \frac{D_a \tan h}{\sec^2 a \cdot \sec B}$
+
+$= \frac{\sec^2 a \cdot \sec B}{\sec^2 h}$
+
+$= (1 + \tan^2 h \cos^2 B) \sec B \cos^2 [del]h[/del] [ins]a[/ins]$
+
+$\cos^2 h \sec B + \sin^2 h \cos B$
+
+$\cos a = \sin b \cos A$
+
+$\tan a = \tan h \cos B$
+
+$\tan^2 a = \tan^2 h \cos^2 B$
+
+$\sec^2 a = 1 + \tan^2 h \cos^2 B$

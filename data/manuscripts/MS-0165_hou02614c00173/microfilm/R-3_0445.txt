@@ -1,0 +1,26 @@
+[pn]198[/pn]
+number has more than two square roots. For take any number
+$n$, and increase that by a small positive number [del]$d$[/del] [ins]$d$[/ins], Then
+[del]$(n+d)^2 = n^2 + 2nd + d^2$[/del]
+$(n+d)^2 = (n+d)(n+d) = n(n+d) + d(n+d) = nn + nd + dn + dd = n^2 + 2nd + d^2$
+$= n^2 + (2n+d)d$. Now if $d$ is [del]too[/del] has a modulus less than that
+of $2n$, the factor $2n+d$ is positive or negative according as $n$
+is positive or negative. Consequently, when a quantity is increased
+by a small amount, its square diminishes [del]and[/del] if the quantity
+is negative and increases if the quantity is positive. [del]And[/del] Thus, as
+a quantity gradually changes from $\infty$ through [ins]all[/ins] negative [del]numbers[/del] [ins]values[/ins]
+to $0$ and through positive values to $\infty$ again, its square only reaches
+a given value twice, once while diminishing and again while
+increasing. Now $(x+\frac{1}{2}A)^2 = x^2 + Ax + \frac{1}{4}A^2 = \frac{1}{4}A^2 - B$. Thus
+$x+\frac{1}{2}A$ is some square root of $\frac{1}{4}A^2 - B$. Since there are at
+most but two of these there are but two values for $x+\frac{1}{2}A$, and
+the only values of $x$ are those of $x+\frac{1}{2}A$ diminished by $\frac{1}{2}A$.
+
+<u>Corollary 58</u>. If $\frac{1}{4}A^2 - B < 0$, there is no [del]solutions[/del] [ins]solution[/ins] of
+the equation, or as we say, no real root. That is there
+is not root in the ring of quantity; but there is another
+system of so-called imaginary quantities in which
+such an equation has two roots. If $\frac{1}{4}A^2 - B = 0$, $x = -\frac{1}{2}A$
+and we say it has equal roots. That is if $\frac{1}{4}A^2 - B$ is a very small
+positive [del]quantity[/del] [ins]number[/ins], the two [del]roots[/del] $-\frac{1}{2}A + \sqrt{\frac{1}{4}A^2 - B}$ and $-\frac{1}{2}A - \sqrt{\frac{1}{4}A^2 - B}$
+[del]are nearly[/del] [ins]quite equal.[/ins] ; and if the radical vanishes, we say the roots are

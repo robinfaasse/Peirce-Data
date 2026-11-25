@@ -1,0 +1,25 @@
+[pn]124r[/pn]
+
+[ins]XV.[/ins] [del]Many[/del] [ins]If any[/ins] unenclosed [del]and detached[/del] graph [del]is transformable[/del] [ins]be illatively transformable[/ins] into another [del]then an enclosure containing nothing but the latter is illatively transformable into an enclosure containing nothing but the former.[/del]
+
+[u]Proof[/u]. Let [del]a and b[/del] [ins]g and h[/ins] be any two graphs and let
+
+[del][fig]crossed out graph derivation[/fig][/del]
+
+[del]Then by IV[/del] [del]a[/del] [ins]g[/ins] [del]~[/del] [ins]~[/ins] [del]b[/del] [ins]h[/ins]
+Then by VIII [del][fig]graph derivation[/fig][/del]
+Then by XIII [del][fig]graph derivation[/fig][/del] Q.E.D.
+
+[del]Then by IV[/del] [del]a ~ b[/del]
+[del]Then by VIII and V[/del] [del]c[/del] [del][fig]graph[/fig][/del] [del]~ c[/del] [del][fig]graph[/fig][/del]
+Then by XIII [del]c[/del] [del][fig]graph[/fig][/del] [del]~ c[/del] [del][fig]graph[/fig][/del] Q.E.D.
+
+[del]with[/del] [ins]ac ~ hc[/ins]
+[del]Then by IV[/del] [del]ac ~ hc[/del] [ins]ac ~ hcaeb[/ins]
+Then by VIII and V c [fig]circle with g[/fig] ~ c [fig]circle with h[/fig] [fig]circle with g[/fig]
+Then by XIII c [fig]circle with g[/fig] ~ c [fig]circle with h[/fig] Q.E.D.
+
+[u]Scholium[/u]. This does not apply to attached parts because, if [del]a ~ c[/del] [ins]a-c ~ b-c[/ins] [del]b-c[/del] it is not necessarily true that a-c ~ [del]b-c[/del] [ins]b-c[/ins]. If, however, [del]this is the case[/del] [ins]it is so[/ins], then by VIII and V [del][fig]graph[/fig][/del] [fig]graph with circles[/fig] ~ [fig]graph with circles[/fig]
+and by XIII [fig]circle with b and c[/fig] ~ [fig]circle with a and c[/fig]
+
+[u]XVI[/u]. If any unenclosed [del]and detached[/del] graph [del]is[/del] [ins]would be[/ins] illatively transformable into an enclosure containing nothing but a second graph, then [del]this[/del] [ins]the[/ins] second is illatively transformable into an enclosure containing only the first.

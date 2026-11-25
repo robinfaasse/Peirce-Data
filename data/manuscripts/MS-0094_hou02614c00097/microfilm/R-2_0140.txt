@@ -1,0 +1,13 @@
+[pn]12[/pn] [pn]130[/pn]
+and find
+[del]5[/del] [ins]5[/ins] [u]x[/u] = 50.
+We divide bothe equal quantities by 5, and find
+[u]x[/u] = 10.
+If makes no difference what the multiplier is. Call it [u]a[/u], which may be any number. Call the number added [u]m[/u], which may be any number, and call the result [u]n[/u]. Then the equation is
+[u]a[/u] [u]x[/u] + [u]m[/u] = [u]n[/u].
+Subtract [u]m[/u] from the two equal numbers, and we get
+[u]a[/u] [u]x[/u] = [u]n[/u] - [u]m[/u].
+Divide the two equal numbers by [u]a[/u], and we get
+[u]x[/u] = ([u]n[/u] - [u]m[/u]) / [u]a[/u].
+
+Except that [u]a[/u] must not be 0 or [math]\infty[/math] (since [del]these[/del] [ins]either of[/ins] [del]gives[/del] [ins]these gives[/ins] the same product when multiplied by different numbers), and that [u]m[/u] and [u]n[/u] must not both be infinite (since then their difference would be doubtful), [u]a[/u], [u]m[/u], and [u]n[/u] may be any numbers [del]whatsoever[/del] and the rule will be that the remainder after subtracting [u]m[/u] from [u]n[/u] and dividing by [u]a[/u] is [u]x[/u]. It is clear that this will be true, no matter what numbers [u]a[/u], [u]m[/u], and [u]n[/u] may be [del]with the exception[/del] [ins]except those[/ins] mentioned.

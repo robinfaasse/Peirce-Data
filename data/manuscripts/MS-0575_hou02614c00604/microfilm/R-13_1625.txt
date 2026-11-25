@@ -1,0 +1,19 @@
+I define the logical sum as follows: —
+$1^{\text{d}}$, $A \prec A +_{b} B$
+$2^{\text{d}}$, $B \prec A +_{b} B$
+$3^{\text{d}}$, If $A \prec C$ and $B \prec C$, then $A +_{b} B \prec C$.
+
+From this one easily proves that logical addition is
+associative. For by the first condition
+[del]$x \prec x +_{b} (y +_{b} z)$[/del]
+and $y \prec y +_{b} z$. (1)
+By the second condition
+$(y +_{b} z) \prec x +_{b} (y +_{b} z)$. (2)
+Hence, by the second condition in the definition
+of the copula,
+$y \prec x +_{b} (y +_{b} z)$. (3)
+But by the first condition of the definition of the sum
+$x \prec x +_{b} (y +_{b} z)$ (4)
+Hence, by the third condition
+$(x +_{b} y) \prec x +_{b} (y +_{b} z)$ (5)
+In a similar way it can be shown that

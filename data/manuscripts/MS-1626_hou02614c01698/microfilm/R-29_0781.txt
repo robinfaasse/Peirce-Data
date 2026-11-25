@@ -1,0 +1,24 @@
+[del]$\overline{\Upsilon_{ia}} \cdot \overline{\Upsilon_{jb}} \cdot \Psi_{ab}$[/del]
+$\sum_{i} \Pi_{j} \overline{\Upsilon_{ia}} \cdot \overline{\Upsilon_{jb}} \cdot (\Psi_{ja} + \Psi_{jb})$
+
+[fig]Two Venn-like diagrams connected by "or"[/fig]
+
+$\Upsilon \cdot \overline{\Upsilon} \cdot (\Upsilon + \overline{\Upsilon}) [del]\cdot \overline{\Upsilon}[/del]$
+$[\Upsilon + \overline{\Upsilon} \cdot (\Upsilon + \overline{\Upsilon})] [\Upsilon + \overline{\Upsilon}]$
+
+$(l + b) (l + b) = l \cdot l + l \cdot b + b \cdot l + b \cdot b$
+$\frac{\overline{(l + b)}}{\overline{(l + b)} \cdot \overline{(l + b)}} = (\overline{l} \cdot \overline{l}) [del](\overline{l} \cdot \overline{b}) (\overline{b} \cdot \overline{l}) (\overline{b} \cdot \overline{b})[/del]$
+[ins]$+ \overline{l} \cdot \overline{b}$[/ins]
+
+$[\Upsilon + \overline{\Upsilon} \cdot (\Upsilon + \overline{\Upsilon})] [del][\Upsilon + \overline{\Upsilon}][/del] = $
+[del]$\Upsilon$[/del]
+$\Upsilon \cdot \overline{\Upsilon} + \Upsilon + \Psi$
+$(\Upsilon + \overline{\Upsilon}) \cdot \overline{\Upsilon} \cdot \Psi$
+[u]                                                                                [/u]
+[del]$\sum_{k} \Pi_{j} \sum_{u} \Pi_{v}$[/del]
+$\sum_{k} \sum_{j} \Pi_{j} \sum_{u} \Pi_{v}$
+$\Upsilon_{ia} \cdot \overline{\Upsilon_{jk}} \cdot (\Upsilon_{ja} + \overline{\Psi_{jk}}) \Upsilon_{uk} \cdot \overline{\Upsilon_{ub}} \cdot (\Upsilon_{uk} + \overline{\Psi_{ub}})$
+
+[del]$\Pi_{k} \Pi_{j} \sum_{j} \Pi_{u} \sum_{v}$[/del]
+$\Pi_{k} \Pi_{j} \sum_{j} \Pi_{u} \sum_{v}$
+$\overline{\Upsilon_{ia}} + \Upsilon_{jk} + \overline{\Upsilon_{ja}} \cdot \Psi_{jk} + \overline{\Upsilon_{uk}} + \Upsilon_{ub} + \overline{\Upsilon_{uk}} \cdot \Psi_{ub}$

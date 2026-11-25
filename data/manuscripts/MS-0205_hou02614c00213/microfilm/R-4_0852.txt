@@ -1,0 +1,19 @@
+[pn]34[/pn]
+
+[u]The Arithmetic of Two.[/u]
+
+[del]Definitions[/del] [ins]Definitions[/ins] 7. An [del]even[/del] number is a [ins]cardinal[/ins] number whose remainder relative to [u]GGO[/u] as modulus is [u]zero[/u].
+
+An [del]odd[/del] number is a cardinal number whose remainder relative to [u]GGO[/u] as modulus is [u]GO[/u].
+
+The [del]double[/del] of a number is the product of that number by [u]GGO[/u].
+
+The [del]half[/del] of a [del]number[/del] [ins]cardinal number[/ins] is a [ins]cardinal[/ins] number which multiplied by [u]GGO[/u] gives [del]N[/del] [ins]the product[/ins].
+
+The [del]arithmetical mean[/del] of two cardinal numbers [ins]M and N[/ins] is the number whose double is the sum of [del]those[/del] M+N.
+
+[u]Corollary 1[/u]. Every cardinal number [ins]N[/ins] is even or odd; and if [del]N[/del] [ins]N[/ins] be even [del]GN[/del] [ins]GN[/ins] is odd and vice versa. For it is true of 0; since [del]0 = 0 + (GGO) · 0[/del] [ins]and GGO > 0 since GGO > GO > 0,[/ins] so that 0 is even; while [del]GO = GO + (GGO) · 0[/del] [ins]and GGO > GO[/ins], so that GO is odd. But if it be true of any [del]number[/del] [ins]cardinal[/ins] number, N, that it is even or odd, it is true of GN that it is even or odd. For if N is even, by the definition, N = 0 + ([del]Q_GGO[/del] [ins]Q_GGO[/ins] N) · GGO and then GN = G[0 + (Q_GGO N) · GGO] = GO + (Q_GGO N) · GGO, so that GN is odd, but if N is odd, N = GO + ([del]Q_GGO[/del] [ins]Q_GGO[/ins] N) · GGO and then GN = G[GO + (Q_GGO N) · GGO] = GGO + (Q_GGO N) · GGO = ([del]Q_GGO[/del] [ins]Q_GGO[/ins] N) · GGO = 0 + ([del]Q_GGO[/del] [ins]Q_GGO[/ins] N) [del]· GGO[/del] so that GN is even. Thus, if N is even or odd, GN is even or odd, and by the Fermatean Principle, every cardinal number is even or odd. At the same time, it appears that if N is even GN is odd, and vice versa.
+
+[u]Corollary 2[/u]. The double of a cardinal number, N, is [del]equal[/del] to N+N, the sum of N added to itself. For GGO [del]x[/del] [ins]·[/ins] N = N + GO · N = N + N. In other words, the double of a number minus the number itself is the number itself.
+
+[u]Corollary 3[/u]. If a number is even, it has a cardinal number that is half of it, but if it is odd, it has not. For if N = 0 + (Q_GGO N) · GGO, N = GGO x (Q_GGO N). But the double of any number N is 0 + N · GGO which is even. Now the double of the half of a number is the number itself.

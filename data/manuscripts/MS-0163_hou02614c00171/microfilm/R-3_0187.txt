@@ -1,0 +1,49 @@
+[del]Let $A' = pA + qB + rC$[/del] $p+q+r=1$
+$A' = pA + qB + rC$
+$B-A' = B - pA - qB - rC$
+$B-A' = -pA + (1-q)B - rC$
+$B' = (1+rp)A + (r-1)B + rC$
+$B-A' = A + xB - xA'$
+$= xA' + yB - yA$
+$= A - B + A'$
+
+$B'$
+$A' = pA + qB + rC$ $p+q+r=1$
+$B' = (1+rp)A + (r-1)B + rC$
+$C' = A - C + A' = (1-p)A + qB + (r-1)C$
+$B-A' = pA + (q-1)B + rC$
+[del]$[B-A']\{AB\} = -pA + \frac{1}{p+q-1}B = \frac{p}{p+q-1}A + \frac{q-1}{p+q-1}B$[/del]
+$E = pA + (r-1)C$
+$C-B' = (1+r)A + (q-1)B + (r-1)C$
+$D = (q-1)B + (r-1)C$
+$E-D = -\frac{p}{q}A + \frac{q-1}{q}B + \frac{r-1}{q}C$
+$F-E = (\frac{p}{p+q-1} + \frac{p}{q})A + \frac{q-1}{p+q-1}B + \frac{r-1}{p+q-1}C$
+[del]$D-E = \frac{p}{p+q-1}A + (\frac{q-1}{p+q-1} + \frac{q-1}{p+1})B + \frac{r+1}{p+1}C$[/del]
+$D+E = -\frac{p}{q}A + \frac{q-1}{p}B + (\frac{r-1}{q} + \frac{r-1}{p})C$
+$E+F = (\frac{p}{p+q-1} - \frac{p}{q})A + \frac{q-1}{p+q-1}B + \frac{r-1}{q}C$
+
+[fig]Geometric diagram with intersecting lines and points[/fig]
+
+Let $D,E,F$ be feet of perpendiculars
+from $A,B,C$ to $BC,CA,AB$.
+Let $L,M,N$ be mid points of $EF,FD,DE$.
+Show $AL,BM,CN$ are concurrent.
+
+Let a circle be circumscribed about
+$A,B,C$, and let $A'B'C'$ be the
+points opposite $ABC$ on this circle
+$[B-A'] = [B'-A]$ $[C-B'] = [C'-B]$ $[A-C'] = [A'-C]$
+Also $\{AA'\}\cdot\{BB'\}\cdot\{CC'\}$ are concurrent
+$\{AB\} \perp \{AB\}$ $[B-A'] = [B'-A]$
+$\{[B-A']C\} \perp \{AB\}$
+$\{\Sigma AC\} \perp \{A'C\}$
+$\{[C-A']B\} \perp \{AC\}$
+$\{BC\} \perp \{B'C\}$
+$\{[C-B']A\} \perp BC$
+
+[fig]Geometric diagram with a circle and inscribed triangles[/fig]
+
+$F+D = \frac{p}{p+q-1}A + (1-\frac{q}{1+p} + \frac{1-q}{1+p-q})B + \frac{r-1}{1+p}C$
+[del]Concurrently[/del] $\frac{p}{q(p+q)} + \frac{q-1}{(1+p)(p+q-1)} + \frac{r-1}{(1+p)q}$
+
+[fig]Geometric diagram with intersecting lines forming a star-like shape[/fig]

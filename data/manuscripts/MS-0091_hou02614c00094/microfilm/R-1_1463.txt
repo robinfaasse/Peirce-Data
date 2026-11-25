@@ -1,0 +1,18 @@
+[marginalia]
+Calc Diff
+12
+[/marginalia]
+
+[u]Part I. Equations of Differences.[/u]
+[u]Chapter I. The Symbols of the Calculus.[/u]
+
+The letters [u]n[/u] and [u]m[/u] are usually employed as ordinal numerals; but for a set of three [u]i[/u], [u]j[/u], [u]k[/u], are convenient. The use of [u]x[/u] and [u]y[/u] for this purpose tends to confuse ideas.
+
+To distinguish the different successions, [del]we may[/del] the employment of [u]u[/u], [u]v[/u], [u]w[/u] is usual and unobjectionable when they are unknown. When they are known, a, b, A, B, M, N, P, Q, R, are appropriate.
+
+E, the "enlargement", signifies that the next higher value of the ordinal number is to replace that which is subscript to the successional [del]number[/del] quantity. Thus
+[u]E[/u] [u]u[/u]ₙ = [u]u[/u]ₙ₊₁       [u]E[/u] [u]A[/u]ₙ[u]u[/u]ₙ = [u]A[/u]ₙ₊₁ [u]u[/u]ₙ₊₁
+[u]E[/u]ₘ [u]E[/u]ₙ [u]A[/u]ₘ₊ₙ [u]P[/u]ₘ [u]Q[/u]ₙ₊ᵢ [u]u[/u]ₘ₋ₙ = [u]A[/u]ₘ₊ₙ₊₂ [u]P[/u]ₘ₊₁ [u]Q[/u]ₙ₊₁₊ᵢ [u]u[/u]ₘ₋ₙ
+[del][u]E[/u]ₘ[/del] [u]E[/u]ₘ [u]a[/u]ᵐ [u]u[/u]ₐ₋ₘ = [u]a[/u]ᵐ⁺¹ [u]u[/u]ₐ₋ₘ₋₁
+[u]E[/u]ₙ² [u]u[/u]ₙ₊₁ [u]v[/u]ₙ [u]w[/u]ₘ₋ᵢ = [u]E[/u]ₙ [u]E[/u]ₙ [u]u[/u]ₙ₊₁ [u]v[/u]ₙ [u]w[/u]ₘ₋ᵢ = [u]u[/u]ₙ₊₃ [u]v[/u]ₙ₊₂ [u]w[/u]ₘ₊₁₋ᵢ
+[u]E[/u]ⁱ [u]u[/u]ₙ = [u]u[/u]ₙ₊ᵢ.

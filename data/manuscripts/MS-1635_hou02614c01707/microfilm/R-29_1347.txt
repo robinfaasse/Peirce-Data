@@ -1,0 +1,35 @@
+[fig]Triangle with vertical line[/fig]
+
+$ar + b\rho = 1$
+$r = \sqrt{(x-E)^2 + y^2}$
+$\rho = \sqrt{(x+E)^2 + y^2}$
+
+$a^2(x-E)^2 + a^2y^2$
+$+ b^2(x+E)^2 + b^2y^2$
+$+ 2ab\sqrt{[(x-E)^2+y^2][(x+E)^2+y^2]} = 1$
+
+$1 - \frac{a}{b}(x-E)^2 - \frac{b}{a}(x+E)^2 - \frac{a^2+b^2}{ab}y^2 = 2\sqrt{}$
+
+$1 - \frac{a^2+b^2}{ab}(x^2+E^2) + 2\frac{a^2-b^2}{ab}xE$
+$+ y^2$
+
+[del]$\frac{a^2+b^2}{ab}(x^2+y^2+E^2) + 4\frac{a^2-b^2}{ab}xE = 4$[/del]
+
+$1 + 4\frac{a^2-b^2}{ab}xE - 2\frac{a^2+b^2}{ab}(x^2+y^2+E^2) + 4\frac{(a^2-b^2)^2}{a^2b^2}x^2E^2$
+$- 4\frac{(a^4-b^4)}{a^2b^2}xE(x^2+y^2+E^2) + \frac{(a^2+b^2)^2}{a^2b^2}(x^2+y^2+E^2)^2$
+$= 4(x^2-E^2)^2 + 8(x^2+E^2)y^2 + 4y^4$
+
+[fig]Arrow pointing up[/fig]
+
+$\sqrt{a} + \sqrt{b} + \sqrt{c} = 1$ [marginalia]$4^{\text{th}}$ power in
+a b c[/marginalia]
+$\sqrt{a} + \sqrt{b} = 1 - \sqrt{c}$
+$a + b + 2\sqrt{ab} = 1 - 2\sqrt{c} + c$
+$2\sqrt{ab} + 2\sqrt{c} = 1 - a - b + c$
+$4ab + 8\sqrt{abc} + [del]4c[/del] = 1 - 2a - 2b + 2c$
+$+ a^2 + b^2 + c^2$
+$+ 2ab - 2ac - 2bc$
+
+$\sqrt{a} + \sqrt{b} + \sqrt{c} + \sqrt{d} = 1$
+$\sqrt{a} + \sqrt{b} = 1 - \sqrt{c} - \sqrt{d}$
+$a + b + 2\sqrt{ab} = 1 - 2\sqrt{c} - 2\sqrt{d} + 2\sqrt{cd} + c + d$

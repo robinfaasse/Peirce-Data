@@ -1,0 +1,33 @@
+[pn]59r[/pn]
+
+[del]$\frac{(x+\Delta)^n}{x^n} = (1+\Delta)^n$[/del]
+
+$(x+\Delta)^n \cdot x = (1+\Delta)^n x^2$
+
+$\frac{x+\Delta x}{x} = 1 + \Delta$
+
+$\frac{x}{x+\Delta x} = \frac{1}{1+\Delta} = 1 - \Delta + \Delta^2 - \Delta^3$
+
+$\frac{\Delta x}{x+\Delta x} = \frac{\Delta}{1+\Delta} = \Delta - \Delta^2 + \Delta^3$
+
+$\frac{\Delta x + \Delta^2 x}{x + 2\Delta x + \Delta^2 x} = \frac{\Delta + \Delta^2}{1+2\Delta+\Delta^2} = \Delta - \Delta^2 + \Delta^3$
+
+If $\Delta^2 x = 0$ [ins]$\Delta^3 x = 0$ etc[/ins]
+
+$(1+\Delta)^n x = (1 + \frac{n}{1} \Delta + \frac{n(n-1)}{2} \Delta^2 + \text{etc}) x = x + n \Delta x$
+
+$(1-\Delta)^n x = x - n \Delta x + \dots$
+
+$(1-\Delta)^n f x = f(x-n\Delta x)$
+
+$(1-\Delta^n) f x = [del]f x -[/del] n \Delta + \frac{n(n-1)}{2} \Delta^2 - \frac{n(n-1)(n-2)}{2 \cdot 3} \Delta^3 + \text{etc}$
+
+If $n$ is interpretable
+
+$f x - n \Delta f x = f(x-n\Delta x) + \text{etc} = (1-n\Delta) f x$
+
+or putting $n = \frac{1}{\Delta x}$
+
+$f x - \frac{1}{\Delta x} \Delta f x = f(x-1)$
+
+$f x - \frac{\Delta f x}{\Delta x} = f(x-1)$

@@ -1,0 +1,36 @@
+[marginalia]Mansion House Bridge [date]1899 Feb 12[/date][/marginalia] [pn]7[/pn]
+
+[fig]Matrix diagram[/fig]
+
+$-2 \Theta_Q + 3 \Theta_{Q-1} - \Theta_{Q-2} + \frac{1}{2} \frac{u}{B} (ds)^3 - \frac{1}{2} \frac{u_Q}{B} ds^2 = 0$
+
+$\begin{aligned}
+& + \frac{1}{3} \frac{u}{B} Q^3 \\
+& - \frac{1}{2} \frac{u}{B} Q^3 + \frac{3}{2} \frac{u}{B} Q^2 ds - \frac{3}{2} \frac{u}{B} Q (ds)^2 + \frac{1}{2} \frac{u}{B} (ds)^3 \\
+& + \frac{1}{6} \frac{u}{B} Q^3 - \frac{u}{B} Q^2 ds + 2 \frac{u}{B} Q (ds)^2 - \frac{4}{3} \frac{u}{B} (ds)^3 \\
+& \qquad\qquad\qquad\qquad\qquad\qquad + \frac{1}{2} \frac{u}{B} (ds)^3 - \frac{1}{2} \frac{u_Q}{B} (ds)^2 \\
+& \qquad - 2 C_2 Q^2 \\
+& \qquad + 3 C_2 Q^2 - 6 C_2 Q ds + 3 C_2 (ds)^2 \\
+& \qquad - \ \ C_2 Q^2 + 4 C_2 Q ds - 4 C_2 (ds)^2 \\
+& \qquad\qquad\qquad + 2 C_1 Q \\
+& \qquad\qquad\qquad + 3 C_1 Q - 3 C_1 ds \\
+& \qquad\qquad\qquad - \ \ C_1 Q + 2 C_1 ds
+\end{aligned}$
+
+$\begin{aligned}
+= & + \frac{1}{2} \frac{u}{B} Q^2 + \frac{1}{2} \frac{u}{B} Q ds - \frac{1}{3} \frac{u}{B} (ds)^2 - \frac{1}{2} \frac{u_Q}{B} (ds) \\
+& \qquad - 2 C_2 Q - C_2 ds \\
+& \qquad\qquad\quad - C_1 \qquad\qquad\qquad = 0
+\end{aligned}$
+
+$\Theta_Q - \Theta_{Q-1} - \frac{1}{2} \frac{u_Q}{B} (ds)^2 = 0$
+
+$\begin{aligned}
+& - \frac{1}{2} \frac{u}{B} Q^3 \\
+& + \frac{1}{6} \frac{u}{B} Q^3 - \frac{1}{2} \frac{u}{B} Q^2 ds + \frac{1}{2} \frac{u}{B} Q (ds)^2 - \frac{1}{6} \frac{u}{B} (ds)^3 - \frac{1}{2} \frac{u_Q}{B} (ds)^2 \\
+& \qquad\quad + C_2 Q^2 \\
+& \qquad\quad - C_2 Q^2 + 2 C_2 Q ds - C_2 (ds)^2 \\
+& \qquad\qquad\qquad + C_1 Q \\
+& \qquad\qquad\qquad - C_1 Q + C_1 ds
+\end{aligned}$
+$= \frac{1}{2} \frac{u}{B} Q^2 + \frac{1}{2} \frac{u}{B} Q ds - \frac{1}{6} \frac{u}{B} ds^2 - \frac{1}{2} \frac{u_Q}{B} ds + C_2 (2Q - ds) + C_1 = 0$

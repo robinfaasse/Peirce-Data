@@ -1,0 +1,18 @@
+§ 4. The [del]two[/del] [ins]real[/ins] functions entering into $G^{yi}$ are
+called the [u]cosine[/u] and [u]sine[/u] of $y$.
+[del]So[/del] $G^{yi} = \cos y + \sin y \cdot i$
+$\cos y = 1 - \frac{1}{2!} y^2 + \frac{1}{4!} y^4 - \frac{1}{6!} y^6 + \text{etc} = \sum_0^\infty \frac{(-)^n y^{2n}}{(2n)!}$
+$\sin y = y - \frac{1}{3!} y^3 + \frac{1}{5!} y^5 - \frac{1}{7!} y^7 + \text{etc} = \sum_0^\infty \frac{(-)^n y^{2n+1}}{(2n+1)!}$
+
+We have to study these two functions.
+It is a fact that the equation
+$y - \frac{1}{3!} y^3 + \frac{1}{5!} y^5 - \frac{1}{7!} y^7 + \text{etc} = B$
+where $y$ is the unknown is, provided $B$ does not
+differ from $0$ by more than $1$, satisfied by
+$y = \frac{3}{3} B + \frac{3 \cdot 1}{3 \cdot 2 \cdot 3} B^3 + \frac{3 \cdot 3^2}{3 \cdot 2 \cdot 3 \cdot 4 \cdot 5} B^5 + \frac{3 \cdot 3^2 \cdot 5^2}{3 \cdot 2 \cdot 3 \cdot 4 \cdot 5 \cdot 6 \cdot 7} B^7 + \text{etc}$
+Of course these coefficients might be more simply written
+$y = B + \frac{1}{2} \frac{B^3}{3} + \frac{1}{2} \frac{3}{4} \frac{B^5}{5} + \frac{1}{2} \frac{3}{4} \frac{5}{6} \frac{B^7}{7} + \text{etc}$.
+But the [del]first[/del] [ins]former[/ins] way is the more convenient for calculation
+The powers of $y$ according to this equation are
+$y = \frac{3}{3} B + \frac{3 \cdot 1}{3 \cdot 2 \cdot 3} B^3 + \frac{3 \cdot 3^2}{3 \cdot 2 \cdot 3 \cdot 4 \cdot 5} B^5 + \frac{3 \cdot 3^2 \cdot 5^2}{3 \cdot 2 \cdot 3 \cdot 4 \cdot 5 \cdot 6 \cdot 7} B^7 + \text{etc}$
+$y^2 = \frac{3}{3} B^2 + \frac{3 \cdot 2}{3 \cdot 2 \cdot 3} B^4 + \frac{2 \cdot (2 \cdot 5 + 22)}{3 \cdot 5!} B^6 +$

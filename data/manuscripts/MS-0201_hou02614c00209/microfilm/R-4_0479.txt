@@ -1,0 +1,25 @@
+[pn]MM[/pn] [del][fig]crossed out square[/fig][/del]
+
+[u]0th State[/u]: [u]0[/u]/[u]1[/u]
+
+[u]1st State[/u]: [u]0[/u]/[u]1[/u] [ins]1/1[/ins]
+
+[u]2nd State[/u]: [u]0[/u]/[u]1[/u] [ins]1/2[/ins] [ins]1/1[/ins]
+
+[u]3rd State[/u]: [u]0[/u]/[u]1[/u] [ins]1/3[/ins] [ins]1/2[/ins] [ins]2/3[/ins] [ins]1/1[/ins]
+
+[u]4th State[/u]: [u]0[/u]/[u]1[/u] [ins]1/4[/ins] [ins]1/3[/ins] [ins]2/5[/ins] [ins]1/2[/ins] [ins]3/5[/ins] [ins]2/3[/ins] [ins]3/4[/ins] [ins]1/1[/ins]
+
+[u]5th State[/u]: [u]0[/u]/[u]1[/u] [ins]1/5[/ins] [ins]1/4[/ins] [ins]2/7[/ins] [ins]1/3[/ins] [ins]3/8[/ins] [ins]2/5[/ins] [ins]3/7[/ins] [ins]1/2[/ins] [ins]4/7[/ins] [ins]3/5[/ins] [ins]5/8[/ins] [ins]2/3[/ins] [ins]5/7[/ins] [ins]3/4[/ins] [ins]4/5[/ins] [ins]1/1[/ins]
+
+For the next three states, it will suffice to write the first quarter of the series.
+
+[u]5th State[/u]: [u]0[/u]/[u]1[/u] [ins]1/5[/ins] [ins]1/4[/ins] [ins]2/7[/ins] [ins]1/3[/ins] [ins]3/8[/ins] [ins]2/5[/ins] [ins]3/7[/ins] [ins]1/2[/ins]
+
+[u]6th State[/u]: [u]0[/u]/[u]1[/u] [ins]1/6[/ins] [ins]1/5[/ins] [ins]2/9[/ins] [ins]1/4[/ins] [ins]3/11[/ins] [ins]2/7[/ins] [ins]3/10[/ins] [ins]1/3[/ins] [ins]4/11[/ins] [ins]3/8[/ins] [ins]5/13[/ins] [ins]2/5[/ins] [ins]5/12[/ins] [ins]3/7[/ins] [ins]4/9[/ins] [ins]1/2[/ins]
+
+[u]7th State[/u]: [u]0[/u]/[u]1[/u] [ins]1/7[/ins] [ins]1/6[/ins] [ins]2/11[/ins] [ins]1/5[/ins] [ins]3/14[/ins] [ins]2/9[/ins] [ins]3/13[/ins] [ins]1/4[/ins] [ins]4/15[/ins] [ins]3/11[/ins] [ins]5/18[/ins] [ins]2/7[/ins] [ins]5/17[/ins] [ins]3/10[/ins] [ins]4/13[/ins] [ins]1/3[/ins] [ins]5/14[/ins] [ins]4/11[/ins] [ins]7/19[/ins] [ins]3/8[/ins] [ins]8/21[/ins] [ins]5/13[/ins] [ins]7/18[/ins] [ins]2/5[/ins] [ins]7/17[/ins] [ins]5/12[/ins] [ins]8/19[/ins] [ins]3/7[/ins] [ins]7/16[/ins] [ins]4/9[/ins] [ins]5/11[/ins] [ins]1/2[/ins]
+
+[u]8th State[/u]: { [u]0[/u]/[u]1[/u] [ins]1/8[/ins] [ins]1/7[/ins] [ins]2/13[/ins] [ins]1/6[/ins] [ins]3/17[/ins] [ins]2/11[/ins] [ins]3/16[/ins] [ins]1/5[/ins] [ins]4/19[/ins] [ins]3/14[/ins] [ins]5/23[/ins] [ins]2/9[/ins] [ins]5/22[/ins] [ins]3/13[/ins] [ins]4/17[/ins] [ins]1/4[/ins] [ins]5/19[/ins] [ins]4/15[/ins] [ins]7/26[/ins] [ins]3/11[/ins] [ins]8/29[/ins] [ins]5/18[/ins] [ins]7/25[/ins] [ins]2/7[/ins] [ins]7/24[/ins] [ins]5/17[/ins] [ins]8/27[/ins] [ins]3/10[/ins] [ins]7/23[/ins] [ins]4/13[/ins] [ins]5/16[/ins] [ins]1/3[/ins] [ins]6/17[/ins] [ins]5/14[/ins] [ins]9/25[/ins] [ins]4/11[/ins] [ins]11/30[/ins] [ins]7/19[/ins] [ins]10/27[/ins] [ins]3/8[/ins] [ins]11/29[/ins] [ins]8/21[/ins] [ins]13/34[/ins] [ins]5/13[/ins] [ins]12/31[/ins] [ins]7/18[/ins] [ins]9/23[/ins] [ins]2/5[/ins] [ins]9/22[/ins] [ins]7/17[/ins] [ins]12/29[/ins] [ins]5/12[/ins] [ins]13/31[/ins] [ins]8/19[/ins] [ins]11/26[/ins] [ins]3/7[/ins] [ins]10/23[/ins] [ins]7/16[/ins] [ins]11/25[/ins] [ins]4/9[/ins] [ins]9/20[/ins] [ins]5/11[/ins] [ins]6/13[/ins] [ins]1/2[/ins]
+
+I have now got to render the following four propositions evident, and if possible, obvious, to the reader:

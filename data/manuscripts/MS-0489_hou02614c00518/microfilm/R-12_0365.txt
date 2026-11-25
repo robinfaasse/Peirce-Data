@@ -1,0 +1,24 @@
+[pn]13[/pn]
+
+At this point, I introduce a lemma. Namely, I assert that [fig]T X in nested ovals[/fig] means, "Either T is true or X is true." Or, to take a concrete example, I assert that [marginalia]is this equivalent to saying with [unclear]P[/unclear] of [unclear]S[/unclear] for [unclear]W[/unclear] & [unclear]M[/unclear]?
+No. This is = to[/marginalia]
+
+[del][fig]it snows it blows in nested ovals[/fig][/del]
+
+[fig]Fig. 9[/fig] [fig]it snows, it blows, it blows in nested ovals[/fig]
+
+is equivalent to
+
+[fig]Fig. 10[/fig] Either it sometimes snows or it sometimes blows.
+
+[del]Hyp. X [unclear]it[/unclear] [ins]ever[/ins] [unclear]sometimes[/unclear] snows it sometimes blows[/del]
+
+[u]In order to prove this equivalence, I begin by defining logical equivalence.[/u] I say that any two propositions, P and Q, are logically equivalent, if, and only if, [del]one[/del] [ins]1[sup]st[/sup],[/ins] assuming the truth of P, the truth of Q follows by logical necessity, and 2[sup]nd[/sup], assuming the truth of Q, the truth of P follows by logical necessity. This definition may be expressed by a graph thus:
+
+[fig]Fig. 11[/fig] [fig]Two complex nested oval diagrams representing logical equivalence[/fig]
+
+Two things have therefore to be proved to establish the lemma:
+
+1[sup]st[/sup], that if Fig. 9 is true, Fig 10 is true;
+
+2[sup]nd[/sup], that if Fig. 10 is true, Fig. 9 is true.

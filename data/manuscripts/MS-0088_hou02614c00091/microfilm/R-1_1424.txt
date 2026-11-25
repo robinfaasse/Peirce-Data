@@ -1,0 +1,37 @@
+Suppose we have $\frac{A-B}{C-D} = T^{\frac{A-B}{C-D}} U^{\frac{A-B}{C-D}}$
+
+required the expression for $\frac{A-B}{D-C}$. For this purpose we must admit
+also $T^{\frac{A-B}{C-D}} = - T^{\frac{A-B}{D-C}}$ [ins]and[/ins] $U^{\frac{A-B}{C-D}} = - U^{\frac{A-B}{D-C}}$. This is a mere matter
+of notation. The alternative will be avoided.
+
+Since $\frac{x}{\beta} = T^{\frac{x}{\beta}} U^{\frac{x}{\beta}}$ and $\frac{x}{\beta} = T^{\frac{x}{\beta}} U^{\frac{x}{\beta}}$
+
+and since $T^{\frac{x}{\beta}} T^{\frac{x}{\beta}} = 1$ as these are merely numerical co-
+efficients required to express the relation to units of measure,
+
+[pn]3)[/pn] $U^{\frac{x}{\beta}} U^{\frac{x}{\beta}} = 1$
+
+Moreover since
+
+$(B-A) = -(A-B) = -(C-D) S^{\frac{A-B}{C-D}} [del]- (C-D) V^{\frac{A-B}{C-D}}[/del]$
+
+[pn](5)[/pn] $V^{\frac{B-A}{C-D}} = - V^{\frac{A-B}{C-D}}$
+
+for $-(C-D) S^{\frac{A-B}{C-D}}$ is the expression for so much less of that
+kind of difference which there is between C & D as A-B contains;
+but the expression does not express how much of the kind of difference
+which there is not between C & D, B-A contains; and so with $-(C-D) V^{\frac{A-B}{C-D}}$
+
+The first term therefore of the second member of (4) is $(C-D) S^{\frac{B-A}{C-D}}$ & the
+second term $= (C-D) V^{\frac{B-A}{C-D}}$.
+
+Now, if $S^{\frac{x}{\beta}} = 0$, $\frac{x}{\beta} = V^{\frac{x}{\beta}} = T^{\frac{x}{\beta}} U V^{\frac{x}{\beta}}$; and
+
+$-\frac{x}{\beta} = - V^{\frac{x}{\beta}} = T^{(-\frac{x}{\beta})} U(-V^{\frac{x}{\beta}})$
+
+Squaring [del]and multiplying[/del]
+whence [del]by the equations at the top of the page[/del]
+
+[del]$(\frac{x}{\beta})^2 = T'^{\frac{x^2}{\beta^2}} (U V^{\frac{x}{\beta}})^2 = T'^{\frac{x^2}{\beta^2}} (U - V^{\frac{x}{\beta}})^2$[/del]
+
+$U V^{\frac{x}{\beta}} = [del]U - V^{\frac{x}{\beta}} = - U V^{\frac{x}{\beta}}[/del]$

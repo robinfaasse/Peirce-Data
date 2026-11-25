@@ -1,0 +1,32 @@
+Thus, we have
+
+[pn]44[/pn]
+
+range [bracket] star [bracket] range / book
+range [bracket] book
+
+and the range is either converted into a star and then back to a range or directly or indirectly into a book. Once converted into a book we have
+
+book [bracket] star [bracket] book / range
+book [bracket] range
+
+Thus the book is converted back into the range directly or by the intermediation of any number of stars.
+
+But I shall show, first, that no direct conversion of range into book or of book into range can produce any result which could not be produced by the mediation of a star. Thus, we need only consider the following
+
+range [bracket] star [bracket] range / book [bracket] star etc.
+range [bracket] book [bracket] star [bracket] book [bracket] star etc.
+
+But I shall further show that no conversion of star into star by means of a book can give any star which could not be given by
+
+star — range — star — range — star.
+
+Hence the result can be obtained without any mediation of a book.
+
+[fig]Geometric diagram with lines intersecting at points P and Q[/fig] If the range $A, E, F, B$ on base $\{AEFB\}$ is produced into a book of axis $\{PQ\}$ the planes are $(APQ), (BPQ), [del](EPQ)[/del] [ins](EPQ), (FPQ)[/ins]$. But this would result by producing the range into the star of focus, $P$, and [del]plane[/del] [ins]sweep[/ins] $(P\{AEFB\})$ and then producing this star into the book of axis $\{PQ\}$. And the same of the reverse operations.
+
+We will next consider the transformation
+
+star — book — star
+
+[fig]Geometric diagram with intersecting lines and points P, P', a, e, f, b[/fig] Let $P$ be the [del]centre[/del] [ins]focus[/ins] of the sweep of the star $a, e, f, b$. By means of a centre $P'$ this is produced into the book whose axis is $\{PP'\}$ and whose planes are $(P'a), (P'e), (P'f), (P'b)$. This being cut by [del]a plane $\alpha'$ (which[/del] [ins]a plane $\alpha'$ ([/ins] we may as well suppose [del]$P'$ is[/del] taken at the point of $\{PP'\}$ which lies in $\alpha'$) gives the star of focus $P'$ sweep $\alpha'$ and rays $a' = \{\alpha'$

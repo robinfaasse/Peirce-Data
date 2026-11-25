@@ -1,0 +1,48 @@
+$$\log \frac{r'}{Z} [del]\dots[/del]$$
+$$\left(\frac{r'}{Z} - i\right)\left(\frac{r'}{Z} + i\right) = 1$$
+
+$$\log \left(\frac{r'}{Z} - i\right) + \log \left(r' + i\right) = 0$$
+$$\log \left(1 - \frac{r'i}{Z}\right)$$
+
+$$\log (r' + z'i) = \log (r' - z'i)$$
+$$\left(r' + z'i\right) = \frac{1}{r' - z'i}$$
+[fig]Circle with axes and infinity symbol[/fig]
+
+$$\log \sqrt{r'^2 + z'^2} + \arctan \frac{z'}{r'} i = - \log \sqrt{r'^2 + z'^2} - \arctan \frac{z'}{r'} i$$
+
+$$\log \left(r'^2 + z'^2\right) = - 2 \arctan \frac{z'}{r'} i$$
+
+[fig]Graph of a curve[/fig]
+$$r' = \sqrt{1 - z'^2}$$
+
+$$z' = \frac{z}{Z} \quad r' = \frac{r}{R}$$
+$$r'^2 + z'^2 = 1$$
+$$\frac{r^2}{R^2} + \frac{z^2}{Z^2} = 1$$
+
+$$\frac{z'}{r'} = \frac{z}{r} \frac{R}{Z}$$
+$$z'^2 + r'^2 = 1$$
+$$\left(z' + r'i\right)\left(z' - r'i\right) = 1$$
+$$\log \left(z' + r'i\right) + \log \left(z' - r'i\right) = 0$$
+$$\log \left(z'^2 + r'^2\right)$$
+
+$$\text{Put } z = Z - z$$
+$$z^2 = Z^2 \quad \frac{z}{Z} = \frac{z}{Z} - 1$$
+$$\frac{dz}{dz} \quad \text{For } z' = z' - 1 \quad z' = \frac{z}{Z}$$
+$$r'^2 + z'^2 = r'^2 + z'^2 - 2z' [del]+ 1[/del]$$
+$$r' = \sqrt{\left(2 - z'\right) z'}$$
+
+$$r = R \sqrt{2z' - z'^2}$$
+$$dr = R \frac{2 - 2z}{2\sqrt{2z' - z'^2}} dz$$
+$$dr = R \frac{1 - \frac{z}{Z}}{\sqrt{2\frac{z}{Z} - \left(\frac{z}{Z}\right)^2}} \frac{dz}{Z}$$
+
+$$r' = \frac{r}{R}$$
+$$dr = R dr' \quad dr' = \frac{dr}{R}$$
+$$dz = Z dz' \quad dz' = \frac{dz}{Z}$$
+
+$$dr = R \frac{Z - z}{Z \sqrt{2\frac{z}{Z} - \frac{z^2}{Z^2}}} dz$$
+$$r = R \sqrt{2z' - z'^2} = R$$
+$$= \frac{R}{2} \sqrt{2z' - z'^2}$$
+$$\frac{dr}{R} = \frac{1}{2} \frac{1 - z'}{\sqrt{\left(2 - z'\right) z'}} \frac{dz}{Z}$$
+
+$$\left(dr\right)^2 + dz^2 = \left(\frac{R}{2}\right)^2 \left(\frac{Z^2}{\left(\frac{R}{2}\right)^2} \frac{\left(1 - z'\right)^2}{\left(2 - z'\right) z'} + 1\right) \left(dz'\right)^2$$
+$$\left(dr'\right)^2 = \frac{1}{\left(2 - z'\right) z'} \left(dz'\right)^2$$

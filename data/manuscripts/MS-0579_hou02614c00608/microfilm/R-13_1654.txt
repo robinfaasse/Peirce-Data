@@ -1,0 +1,39 @@
+(5) $[(X \prec Y) \prec X] \prec X$
+
+<u>Proof</u>. For assume $(X \prec Y) \prec X$. Then if we are forced
+to admit $X$ is true, the formula holds by A. But
+by B if we assume $X \prec Y$ we are bound to admit
+$X$ is true. And if we assume $X$ is not true by
+A' we are to take $X \prec Y$.
+
+Form IV gives two necessary formulae, of which
+one,
+$X \prec [(Y \prec Z) \prec X]$
+is a case of (3) and the other is
+(6) $X \prec [(X \prec Y) \prec Y]$
+
+[del]For, assume $X$ is true[/del]
+For by A we have only to prove that if we assume
+$X$ is true we must admit $(X \prec Y) \prec X$. But [ins]to show[/ins] this
+by A is true we have only to show that assuming
+further $X \prec Y$ we must admit $Y$ is true. Now by
+B, if we assume $X$ is true, as we do, we must
+assume $Y$ is true. Or this follows at once from (3')
+
+Form V yields no necessary formula.
+
+<u>General forms with four copulas</u>
+I $U \prec \{ V \prec [ X \prec (Y \prec Z) ] \}$
+II $(U \prec V) \prec [ X \prec (Y \prec Z) ]$
+III $[(U \prec V) \prec X] \prec (Y \prec Z)$
+IV $U \prec [ (V \prec X) \prec (Y \prec Z) ]$
+V $[U \prec (V \prec X)] \prec (Y \prec Z)$
+VI $U \prec \{ V \prec [ (X \prec Y) \prec Z ] \}$
+VII $(U \prec V) \prec [ (X \prec Y) \prec Z ]$
+VIII $[(U \prec V) \prec (X \prec Y)] \prec Z$
+IX $U \prec \{ [ V \prec (X \prec Y) ] \prec Z \}$
+X $\{ [del]U[/del] [ins]V[/ins] \prec [ V \prec (X \prec Y) ] \} \prec Z$
+XI $\{ [ U \prec (V \prec X) ] \prec Y \} \prec Z$
+XII $U \prec \{ [ (V \prec X) \prec Y ] \prec Z \}$
+XIII $\{ U \prec [ (V \prec X) \prec Y ] \} \prec Z$
+XIV $\{ [ (U \prec V) \prec X ] \prec Y \} \prec Z$

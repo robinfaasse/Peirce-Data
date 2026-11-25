@@ -1,0 +1,94 @@
+[marginalia]
+[date]1910 Feb 24[/date]
+number of [del]Blackbirds[/del] [ins]other birds[/ins] [del]B[/del] [ins]B[/ins]
+[del]number of Blackbirds[/del] [del]B[/del]
+Number Black birds having first shaped bill [del]TT[/del] [ins]TT[/ins]
+" Number other birds with first shaped bill [del]TT[/del] [ins]TT[/ins]
+" Black birds having second shaped bill [del]TT[/del] [ins]TT[/ins]
+" [del]other birds[/del] [ins]Black birds[/ins] having neither shaped bill T
+" other birds " " " " T
+[del]B + B = TT + TT[/del]
+[/marginalia]
+
+B = TT + TT + T
+B = TT + TT + T
+
+[del]TT[/del] + [del]TT[/del]
+[del]TT[/del] + [del]TT[/del]
+
+[del]TT[/del] + [del]TT[/del]
+[del]TT[/del] + [del]TT[/del]
+
+B -
+
+[del]TT + TT[/del]
+[del]TT + TT[/del]
+
+[del]TT[/del] + [del]TT[/del]
+[del]TT[/del] + [del]TT[/del]
+
+Black birds having 1[sup]st[/sup] or 2[sup]nd[/sup] shaped bill
+other birds having 1[sup]st[/sup] or 2[sup]nd[/sup] shaped bill
+
+[del]TT + TT[/del]
+[del]TT + TT[/del] = [del]TT[/del]
+[del]TT + TT[/del] + [del]TT[/del]
+[del]TT + TT[/del]
+
+[del]A[/del] = [del]C[/del] <tex>\therefore</tex> [del]A + C[/del]
+[del]B[/del] [del]D[/del] [del]B + D[/del]
+
+[del]A[/del] + [del]C[/del] = [del]A + C[/del]
+[del]B[/del] [del]D[/del] [del]B + D[/del]
+
+AD(B+D) + BC(B+D) = ABD + CBD
+[del]ABD + AD[sup]2[/sup] + B[sup]2[/sup]C + BCD[/del]
+
+[divider]
+
+[del]A[/del] + [del]C[/del]
+[del]B[/del] [del]D[/del]
+
+[del]A[/del] [del]B[/del] [del]C[/del] [del]D[/del] [del]A + C[/del]
+[del]B[/del] [del]B + D[/del] + [del]D[/del] [del]B + D[/del] = [del]B + D[/del]
+
+[del]B[/del] < 1 [del]D[/del] < 1 <tex>\therefore</tex> [del]A[/del] + [del]C[/del] [del]X[/del] [del]A + C[/del]
+[del]B + D[/del] [del]B + D[/del] [del]B[/del] [del]D[/del] [del]B + D[/del]
+
+But [del]B[/del] = x then [del]D[/del] = 1 - x
+[del]B + D[/del] [del]B + D[/del]
+
+[del]A + C[/del] is intermediate in value
+[del]B + D[/del]
+between [del]A[/del] and [del]C[/del]
+[del]B[/del] [del]D[/del]
+
+[del]p[/del] [del]q[/del]
+[del]1 - p[/del] [del]1 - q[/del]
+
+[del]p + q[/del]
+[del](1 - p)(1 - q)[/del]
+[del]pq[/del]
+
+First witness true A times
+First witness false B times
+Second witness true C times
+" " false D times
+
+[del]A[/del] + [del]C[/del] = [del]A.D[/del] + [del]C.B[/del]
+[del]B[/del] [del]D[/del] [del]B.D[/del] [del]B.D[/del]
+
+Two witnesses testify
+[del]A[/del] Number of times 1[sup]st[/sup] witness would tell such a story
+and it is true in particular e
+[del]X[/del] Number of times 1[sup]st[/sup] witness [del]either[/del] would not
+tell the story
+or it would be false
+
+A - Number of times that if witness[sub]1[/sub] tell a certain story
+a certain particular of it would be true
+B Number of times that if witness tells a certain story
+that particular would be false
+
+[del]A[/del] + [del]C[/del] = [del]A.D[/del] + [del]B.C[/del] [del]=[/del] [del]AD + BC[/del]
+[del]B[/del] [del]D[/del] [del]B.D[/del] [del]B.D[/del] [del]BD[/del]

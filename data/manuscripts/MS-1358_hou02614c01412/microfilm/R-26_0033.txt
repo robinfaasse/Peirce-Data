@@ -1,0 +1,80 @@
+[marginalia]
+Morningside [date]1898 Sep 3[/date]
+[/marginalia]
+
+[del]10[/del] [ins]10[/ins] [u]y₁ - y₀[/u] / R₀ + [del]100[/del] [ins]10[/ins] [u]y₂ - y₁[/u] / R₁ = 1
+
+x₀ = .4
+y₀ = .1
+
+x₁ = [del]11.8[/del] [ins]12[/ins]
+y₁ = [del]5.9[/del] [ins].6[/ins]
+
+x₂ = 14.4
+y₂ = 1.0
+
+[del]Assume 1/R₀ (1 - R₀/R₀) (x₁ - x₀) =[/del]
+
+[del]Assume x₁[/del]
+
+[del]x₁ - x₀ = 11.3 (y₁ - y₀)² = 125.44 127.69[/del]
+[del]y₁ - y₀ = .56 (y₁ - y₀)² = 30.20 31.47[/del]
+[del]R₀ = 12.48 [R₀] = 155.64 159.16[/del]
+
+[del]12[/del] [ins]12[/ins]
+[u]  0.4[/u]
+11.6
+
+[del]5.9[/del] [ins]5.9[/ins]
+
+13.01
+
+134.56
+[u]  34.81[/u]
+[del]165.92[/del]
+169.37
+
+[del]1/R₀ (1 - R₀/R₀) (y₁ - y₀) = .09[/del] [ins].25[/ins]
+1/R₁ (1 - R₁/R₁) (y₁ - y₂) = [del].01[/del] [ins].75[/ins]
+
+[fig]Triangle with vertical line[/fig]
+
+[u]y₁ - y₀[/u] / [u]x₂ - x₁[/u] = 3
+y₁ - y₂ / x₁ - x₀
+
+(1 - R₀/R₀) (y₁ - y₀) = .25
+
+(1 - R₁/R₁) (y₁ - y₂) = .375
+
+(1 - R₀/R₀) (x₁ - x₀) = 2 (1 - R₁/R₁) (x₂ - x₁)
+
+[u]y₁ - y₀[/u] / x₁ - x₀ = [u].25[/u] / 2 (1 - R₁/R₁) (x₂ - x₁)
+
+[u]x₂ - x₁[/u] / y₁ - y₂ = [u](1 - R₁/R₁)[/u] / .375 (x₂ - x₁)
+
+3 = [u].25[/u] / 2 x .375
+
+[marginalia]
+[fig]Scribble[/fig]
+[/marginalia]
+
+[marginalia]
+[u]14.1[/u]
+11.5
+y(a - v)
+
+5.7
+
+5.7 x 2.6 = 18.82
+4.7 x 11.5 = 54.05
+
+[del]47[/del]
+[del]235[/del]
+[del]54.05[/del]
+
+[del]57[/del] [ins]57[/ins]
+[del]26[/del] [ins]26[/ins]
+[del]18.82[/del] [ins]18.82[/ins]
+
+2.9 [fig]V-shape[/fig]
+[/marginalia]

@@ -1,0 +1,11 @@
+[pn]38[/pn] [ins]or the card in any given place[/ins] by the number of piles. Only, you [del]may have to[/del] [del]must[/del] subtract from the product some multiple of the total number of cards in order to bring it within limits. Thus, if you deal 13 cards into 5 piles, thus;
+
+$$\begin{matrix} 1 & 2 & 3 & 4 & 5 \\ 6 & 7 & 8 & 9 & \text{X} \\ \text{J} & \text{Q} & \text{K} & & \end{matrix}$$
+
+when you gather them up, their order will be,
+
+$$\begin{matrix} 5 & \text{X} & 2 & 7 & \text{Q} & 4 & 9 & 1 & 6 & \text{J} & 3 & 8 & \text{K}. \end{matrix}$$
+
+Then the $4^{\text{th}}$ card will be $4 \times 5 - 13 = [del]7[/del] \text{7}$. The $10^{\text{th}}$ will be $10 \times 5 - 39 = \text{J}$, or 11. If, after having dealt into 5 piles, you proceed to deal into 3 piles, you will have multiplied the original face value by $5 \times 3 = 15$. Only, since you are counting round and round a circle of 13 numbers, 15 is the same as $15 - 13 = 2$ and the order of the cards will now be
+
+$$\begin{matrix} 3 & 6 & 9 & \text{Q} & 2 & 5 & 8 & \text{J} & 1 & 4 & 7 & \text{X} & \text{K}. \end{matrix}$$

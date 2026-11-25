@@ -1,0 +1,41 @@
+[pn]#2[/pn]
+[del]x² + ax + b = 0[/del]
+[del]x² + 2 [frac]a/2[/frac] x + [frac]a²/4[/frac] = [frac]a²/4[/frac] - b[/del]
+[del]x + [frac]a/2[/frac] = [frac]± \sqrt{a² - 4b}/2[/frac][/del]
+[del]x = [frac]-a ± \sqrt{a² - 4b}/2[/frac][/del]
+
+[del]ax² + by² + cz² + exy + fyz + gzx + hx + iy + jz + k = 0[/del]
+
+[del]by² + cz² + fyz + iy + jz + k = 0[/del]
+
+[del]y² + [frac]f z + i/b[/frac] y + [frac]c z² + j z + k/b[/frac] = 0[/del]
+
+[del]y² + [frac]f z + i/b[/frac] y + [frac]c z² + j z + k/b[/frac] = 0[/del]
+[del]y² + 2 [frac]f z + i/2b[/frac] y + [frac]c z² + j z + k/b[/frac] = 0[/del]
+[del][frac]f² z² + 2 f i z + i²/4 b²[/frac] = [frac]c z² + j z + k/b[/frac][/del]
+[del]f² z² + 2 f i z + i² = 4 b c z² + 4 b j z + 4 b k[/del]
+[del](f² - 4 b c) z² + 2 (f i - 2 b j) z + i² - 4 b k = 0[/del]
+[del]z² + 2 [frac]f i - 2 b j/f² - 4 b c[/frac] z + [frac]i² - 4 b k/f² - 4 b c[/frac] = 0[/del]
+
+[del]x² + ax + b = 0[/del]
+[del](x + [frac]a/2[/frac])² = [frac]a²/4[/frac] - b[/del]
+[del]x + [frac]a/2[/frac] = [frac]\sqrt{a² - 4b}/2[/frac][/del]
+[del]x = [frac]-a ± \sqrt{a² - 4b}/2[/frac][/del]
+
+[del]ax² + by² + cz² + exy + fyz + gzx + hx + iy + jz + k = 0[/del]
+[del]y² + 2 [frac]e x + f z + i/2a[/frac] y + [frac]a x² + c z² + g z x + h x + j z + k/a[/frac] = 0[/del]
+[del]([frac]e x + f z + i/2a[/frac])² = [frac]a y² + c z² + f y z + i y + j z + k/a[/frac][/del]
+[del]e² x² + 2 e g y z + f² z² + 2 e f y + 2 g h z + h²[/del]
+[del]= 4 a b y² + 4 a c z² + 4 a f y z + 4 a j z + 4 a k[/del]
+[del](e² - 4 a b) y² + 2 [(e g - 2 a f) z + [del]h[/del] [ins]e i[/ins] - 2 a j] y + (g² - 4 a c) z² + 2 (g h - 2 a k) z + h² - 4 a l = 0[/del]
+
+[del]b y² + (f z + i) y + c z² + j z + k = 0[/del]
+[del]y² + [frac]f z + i/b[/frac] y + [frac]c z² + j z + k/b[/frac] = 0[/del]
+[del][frac]f² z² + 2 f i z + i²/4 b²[/frac] = [frac]c z² + j z + k/b[/frac][/del]
+[del](f² - 4 b c) z² + 2 (f i - 2 b j) z + (i² - 4 b k) = 0[/del]
+[del]z² + [frac]2 (f i - 2 b j)/f² - 4 b c[/frac] z + [frac]i² - 4 b k/f² - 4 b c[/frac] = 0[/del]
+[del]([frac]f i - 2 b j/f² - 4 b c[/frac])² = [frac]i² - 4 b k/f² - 4 b c[/frac][/del]
+[del](f i - 2 b j)² = (f² - 4 b c) (i² - 4 b k)[/del]
+[del]f² i² - 4 b f i j + 4 b² j² = f² i² - 4 b f² k - 4 b c i² + 16 b² c k[/del]
+[del]- 4 b f i j + 4 b² j² = - 4 b f² k - 4 b c i² + 16 b² c k[/del]
+[del]f i j - b j² = f² k + c i² - 4 b c k[/del]

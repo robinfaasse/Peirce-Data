@@ -1,0 +1,15 @@
+by the use of the last formula, which is that of the reversible pendulum.
+
+Colonel Herschel has objected to our pendulums that they are not truly invariable, because the knives are only secured by thumb-screws. But [del]experience[/del] [ins]direct[/ins] [del]the[/del] measures show that the length does not sensibly change, the thumb-screws are not found to loosen and even if they did [del]open[/del] and were tightened up again, the length would not be disturbed more than 3 microns. Now using the formulae
+
+[del]$$T^2$$[/del] $$T'^2 = \frac{\pi^2}{g} (\frac{\gamma^2}{h} + h)$$
+
+Where $\gamma^2 = [del]h_d h_u[/del] + \varepsilon$. It follows that [del]$$\frac{dT^2}{dh}$$[/del]
+
+$$\frac{d(T'^2)}{dh} = \frac{\pi^2}{g} (1 - \frac{\gamma^2}{h^2})$$
+
+$$\frac{dT'^2}{T'^2} = \frac{h - \frac{\gamma^2}{h}}{h + \frac{\gamma^2}{h}} \cdot \frac{dh}{h}$$
+
+Putting $\gamma^2 = h_d h_u$
+
+$$\frac{dT'^2}{T'^2} = \frac{h_d - h_u}{h_d + h_u} \cdot \frac{dh_d}{h_d} = - \frac{h_d - h_u}{h_d + h_u} \frac{dh_u}{h_u}$$

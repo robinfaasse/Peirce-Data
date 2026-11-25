@@ -1,0 +1,13 @@
+[u]Definition[/u] . Two figures are said to be similar if the distances [ins]between[/ins] [del]of[/del] any three points of the one are in the same ratio to the distances between the corresponding points of the other.
+
+[u]Theorem[/u] . [u]Equiangular Triangles[/u] are similar.
+
+[u]Demonstration[/u]. Let ABC and A'B'C' be two triangles [fig]Two triangles, ABC and A'B'C'[/fig] such that [del]A=A'[/del] $\angle\text{ABC} = \angle\text{A'B'C'}$, $\angle\text{BCA} = \angle\text{B'C'A'}$, $\angle\text{CAB} = \angle\text{C'A'B'}$. Then, I say, that $\text{AB}:\text{A'B'} = \text{BC}:\text{B'C'} = \text{CA}:\text{C'A'}$.
+
+For let the metron be moved so that the particle at A' is carried to A and the filament A'B' [del]is[/del] is brought to lie in {AB}. Then, because $\angle\text{B'A'C'} = \angle\text{BAC}$, by turning over the metron, if necessary, the filament A'C' can be brought into {AC}.
+
+Then, by Theorem , the filament B'C' will lie in a ray parallel to {BC}.
+
+Let [B''] and [C''] be the new positions of the particles brought from [B'] and [C']. Then, by the last Theorem, $\text{AB}:\text{AB''} = \text{AC}:\text{AC''}$. But $\text{AB''} = \text{A'B'}$ and $\text{AC''} = \text{A'C'}$, so that $\text{AB}:\text{A'B'} = \text{AC}:\text{A'C'}$; and by similar reasoning $\text{AB}:\text{A'B'} = \text{BC}:\text{B'C'}$. Q.E.D.
+
+[del]Theorem[/del] [ins]Corollary[/ins] . [del]Similar[/del] [ins]finite[/ins] [del]triangles are equiangular.[/del]

@@ -1,0 +1,25 @@
+[u]Report on the Effect of a Live Load on Mr. Morison's[/u]
+
+[u]North River Bridge[/u].
+
+[u]I. The Special Funicular Polygon[/u].
+
+[fig]Sketch of a cord suspended between two towers with weights[/fig] A cord is attached to two towers and stretched by weights.
+
+[u]Geometrical Conditions[/u]. Number the weighted points in order along the cord from 1 to N, their total number.
+
+Number the stretches of cord in order from 0 to N.
+
+Take the beginning of stretch 0 as the origin of fixed coordinates, measuring y vertically up and x toward the other tower.
+
+Let [u]s[/u]₀, [u]s[/u]₁, ... [u]s[/u]ₙ ... [u]s[/u]_N be the lengths of the stretches
+[u]i[/u]₀, [u]i[/u]₁, ... [u]i[/u]ₙ ... [u]i[/u]_N the inclinations of the stretches to the horizon, counted as positive when y increases with x.
+
+Then (1) [u]x[/u]ₘ = [summation]₀ᵐ⁻¹ [u]s[/u]ₙ cos [u]i[/u]ₙ [u]y[/u]ₘ = [summation]₀ᵐ⁻¹ [u]s[/u]ₙ sin [u]i[/u]ₙ.
+
+Let X and Y be the coordinates of the end of the cord
+(2) X = [summation]₀ᴺ [u]s[/u]ₙ cos [u]i[/u]ₙ Y = [summation]₀ᴺ [u]s[/u]ₙ sin [u]i[/u]ₙ.
+
+[u]Statical Conditions[/u]. Let W₁, ... Wₙ ... W_N be the weights, and [del]q₀, q₁ ... qₙ ... q_N[/del] [ins]q₀, q₁ ... qₙ ... q_N, the pulls on the stretches of cord.[/ins]
+
+[fig]Sketch of forces acting on a weighted point[/fig] At each [del]weight[/del] weighted point, say the nᵗʰ, there are three forces, Wₙ, whose horizontal component is zero, and qₙ₋₁ and qₙ. These three forces are in equilibrium, and hence

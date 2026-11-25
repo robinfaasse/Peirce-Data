@@ -1,0 +1,16 @@
+$$(1-x^2) \frac{dz}{dx} - xz = axz^2$$
+$$-(1-x^2) \frac{dz}{dx} + xz = -axz^2$$
+$$-\frac{1-x^2}{x} \frac{dz}{dx} + z = -az^2$$
+$$-\frac{1-x^2}{xz^2} \frac{dz}{dx} + \frac{1}{z} = -a$$
+$$\frac{x}{1-x^2} = \frac{1}{2} \left( \frac{1}{1-x} - \frac{1}{1+x} \right) \quad \frac{1+x}{1+x}$$
+$$\frac{x\, dx}{1-x^2} = [del]\frac{1}{2} d \log[/del]$$
+$$= \frac{1}{2} [del]\left[ \log (1-x) - \log (1+x) \right][/del] = [del]\sqrt{\frac{1-x}{1+x}}[/del]$$
+$$[del]\frac{1}{2} \log \frac{1+x}{1-x}[/del] \quad [del]\sqrt{\frac{1+x}{1-x}}[/del] \quad [del]\frac{1+x}{1-x}[/del]$$
+$$= \log \sqrt{1-x^2}$$
+$$t \sqrt{1-x^2} \quad [del]\frac{x}{(1-x^2)^{\frac{3}{2}}}[/del] = \frac{x}{1-x^2}$$
+$$[del]C \sqrt{1-x^2} + \sqrt{1-x^2} \int a \frac{1}{\sqrt{1-x^2}} dx[/del]$$
+$$\frac{d \frac{1}{z}}{dt} + \frac{1}{z} = -a$$
+$$\frac{1}{z} = C e^{-t} - a$$
+$$\frac{1}{z} = C \sqrt{1-x^2} - a$$
+$$t = \log \frac{1}{\sqrt{1-x^2}} \quad \frac{d \frac{1}{z}}{dt} = [del]\frac{1}{z}[/del] C \frac{x}{\sqrt{1-x^2}}$$
+$$e^{-t} = \sqrt{1-x^2}$$

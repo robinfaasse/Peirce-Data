@@ -1,0 +1,18 @@
+[del]A A[/del]
+
+[fig]Table of combinations[/fig]
+$$\begin{array}{c|c|c|c|c|c|c|c|c|c}
+ & AA' & AB' & AC' & BA' & BB' & BC' & CA' & CB' & CC' \\ \hline
+AA' & [fig]shaded square[/fig] & & & & & & & & \\ \hline
+AB' & & & & C'' & & & & & \\ \hline
+AC' & & & & & & & B'' & & \\ \hline
+BA' & & & & & & & & & \\ \hline
+BB' & & & & & & & & & \\ \hline
+BC' & & & & & & & & A'' & \\ \hline
+CA' & & & & & & & & & \\ \hline
+[del]CB'[/del] & & & & & & & & & 
+\end{array}$$
+
+36 $\quad$ $\frac{9 \times 8}{2} = 36$
+
+[fig]Geometric line drawing with intersecting lines[/fig]

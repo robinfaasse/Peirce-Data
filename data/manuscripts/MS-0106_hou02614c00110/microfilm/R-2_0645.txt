@@ -1,0 +1,29 @@
+$$s+x_1 = \frac{x_1 i}{\sin(\alpha+\beta)} \left( -e^{+(\alpha+\beta)i} + e^{-(\alpha-\beta)i} \right)$$
+
+$$s-x_1 = \frac{x_1 i}{\sin(\alpha+\beta)} \left( -e^{-(\alpha+\beta)i} + e^{-(\alpha-\beta)i} \right)$$
+
+$$q+x_1 = \frac{xi}{\sin(\alpha+\beta)} \left( e^{-(\alpha+\beta)i} - e^{(\alpha-\beta)i} \right)$$
+
+$$q-x_1 = \frac{xi}{\sin(\alpha+\beta)} \left( e^{(\alpha+\beta)i} - e^{(\alpha-\beta)i} \right)$$
+
+$$s+x_1 = \frac{2x_1 \sin\alpha}{\sin(\alpha+\beta)} e^{\beta i} \qquad q+x_1 = \frac{2x_1 \sin\alpha}{\sin(\alpha+\beta)} e^{-\beta i}$$
+
+$$s-x_1 = -\frac{2x_1 \sin\beta}{\sin(\alpha+\beta)} e^{-\alpha i} \qquad q-x_1 = -\frac{2x_1 \sin\beta}{\sin(\alpha+\beta)} e^{\beta i}$$
+
+$$\frac{1}{s+x_1} = \frac{\sin(\alpha+\beta)}{2x_1 \sin\alpha} e^{-\beta i} \qquad \frac{1}{q+x_1} = \frac{\sin(\alpha+\beta)}{2x_1 \sin\alpha} e^{\beta i}$$
+
+$$\frac{1}{s-x_1} = -\frac{\sin(\alpha+\beta)}{2x_1 \sin\beta} e^{\alpha i} \qquad \frac{1}{q-x_1} = -\frac{\sin(\alpha+\beta)}{2x_1 \sin\beta} e^{-\beta i}$$
+
+$$\frac{1}{s+x_1} + \frac{1}{q+x_1} = \frac{\sin(\alpha+\beta)}{x_1 \sin\alpha \sin\beta} \sin\beta \cos\beta$$
+
+$$\frac{1}{s-x_1} + \frac{1}{q-x_1} = -\frac{\sin(\alpha+\beta)}{x_1 \sin\alpha \sin\beta} \sin\alpha \cos\alpha$$
+
+[del]$$\frac{1}{s+x_1} + \frac{1}{q+x_1} + \frac{1}{s-x_1} + \frac{1}{q-x_1} = \frac{\sin(\alpha+\beta)}{x_1}$$[/del]
+
+$$\frac{1}{s+x_1} + \frac{1}{q+x_1} + \frac{1}{s-x_1} + \frac{1}{q-x_1} = \frac{2\sin(\alpha+\beta)}{x_1 (\cos(\alpha-\beta) - \cos(\alpha+\beta))} - \cos(\alpha+\beta)\sin(\alpha-\beta)$$
+
+$$\frac{1}{q+x_1} - \frac{1}{s+x_1} = \frac{\sin(\alpha+\beta)}{x_1} \frac{\sin\beta}{\sin\alpha} i$$
+
+$$\frac{1}{s-x_1} - \frac{1}{q-x_1} = \frac{\sin(\alpha+\beta)}{x_1} \frac{\sin\alpha}{\sin\beta} i$$
+
+$$\frac{1}{s-x_1} - \frac{1}{q-x_1} + \frac{1}{q+x_1} - \frac{1}{s+x_1} = \frac{\sin(\alpha+\beta)}{x_1} \cdot 2 \frac{\sin(\alpha+\beta)\sin(\alpha-\beta)}{\cos(\alpha-\beta) - \cos(\alpha+\beta)}$$

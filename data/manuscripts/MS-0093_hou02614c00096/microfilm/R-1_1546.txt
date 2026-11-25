@@ -1,0 +1,56 @@
+[pn]20[/pn] [pn]21[/pn]
+
+Now then Boole considers the homogeneous
+equation
+[del]$\left\{f_0(\vartheta) + f_1(\vartheta)\rho + f_2(\vartheta\right.$[/del]
+$\left\{(f_0\vartheta_x) + (f_1\vartheta_x)\rho + (f_2\vartheta_x)\rho^2 + \dots (f_n\vartheta_x)\rho^n\right\} u_x = 0$
+and he puts the equation into the form
+$u_x = \sum a_m \rho^m 1$.
+We have operating on the general term
+$\rho^p a_m \rho^m 1 = a_m \rho^{p+m} 1$
+$(f_p\vartheta_x) a_m \rho^{p+m} 1 = a_m (f_p(p+m)) \rho^{p+m} 1$
+$(f_p\vartheta_x) \rho^p u_x = \sum_m^\infty a_m (f_p(p+m)) \rho^{p+m} 1$
+$\sum_m^\infty \left\{ a_m (f_0 m)\rho^m + a_m (f_1(m+1))\rho^{m+1} + \dots a_m (f_n(m+n))\rho^{m+n}\right\} 1 = 0$
+
+In order that this may hold generally, it well be
+necessary that the coefficient of each $\rho^m$ should
+vanish, because $\rho^m$ is variable with $x$ even when $m$ is fixed.
+Hence
+$a_0 (f_0 0) 1 = 0$
+$a_1 (f_0 1) [del]\rho[/del] + a_0 (f_1 1) [del]\rho[/del] = 0$
+$a_2 (f_0 2) [del]\rho^2[/del] + a_1 (f_1 2) [del]\rho^2[/del] + a_2 (f_2 2) [del]\rho^2[/del] = 0$
+and generally for $m > n$
+$a_m (f_0 m) + a_{m-1} (f_1 m) + \dots a_{m-n} (f_n m) = 0$
+
+I will try this. Let the equation be
+$(E^2 - xE + x^2) u_x = 0$
+Multiply by $x(x+1)$
+$x(x+1)(E^2 - xE + x^2) u_x = 0$
+
+This gives
+[del]the[/del]
+$u_x - x(x+1)\rho_x u_x + x^2 \cdot x(x+1)\rho_x^2 u_x = 0$
+
+$x = \rho_x - \vartheta_x$     $x^2 = \rho_x^2 - 2\vartheta_x\rho_x + \vartheta_x^2$
+[del]$x^3 = \rho_x^3 - 3$[/del]
+$x^3 = \rho_x^3 - 3\rho_x^2\vartheta_x + 3\rho_x\vartheta_x^2 - \vartheta_x^3$
+$x^4 = \rho_x^4 - 4\rho_x^3\vartheta_x + 6\rho_x^2\vartheta_x^2 - 4\rho_x\vartheta_x^3 + \vartheta_x^4$
+
+$x(x+1) = x^2 + x = \rho_x^2 + (1-2\vartheta_x)\rho_x + \vartheta_x^2 - \vartheta_x$
+$x^2 \cdot x(x+1) = x^4 + x^3 = \rho_x^4 + (1-4\vartheta_x)\rho_x^3 + (6\vartheta_x^2 - 3\vartheta_x)\rho_x^2 + (3\vartheta_x^2 - 4\vartheta_x^3)\rho_x + \vartheta_x^4 - \vartheta_x^3$
+The equation is therefore
+$\left\{ 1 + (\vartheta_x - \vartheta_x^2)\rho_x + (2\vartheta_x - 1)\rho_x^2 - \rho_x^3 \right.$
+$\left. \hfill + (\vartheta_x^4 - \vartheta_x^3)\rho_x^2 + (3\vartheta_x^2 - 4\vartheta_x^3)\rho_x^3 + (6\vartheta_x^2 - 3\vartheta_x)\rho_x^4 + (1-4\vartheta_x)\rho_x^5 + \rho_x^6 \right\} u_x = 0$
+
+$f_0 m = 1$  $f_1 m = m-m^2$  $f_2 m = m^4 - m^3 + 2m - 1$  $f_3 m = 3m^2 - 4m^3 - 1$  $f_4 m = 6m^2 - 3m$  $f_5 m = 1-4m$
+$f_6 m = 1$
+
+[del]$a_0 = 0$[/del]  [del]$a_1 = 0$[/del]  [del]arbitrary[/del]  [u]Stuck[/u]
+
+[marginalia]
+$(E-X_1)(E-X_2)$
+$= E^2 - X_1 E - E X_2 + X_1 X_2$
+$X_1 X_2 = x^2$  $X_2 = \frac{x^2}{X_1}$
+$E X_2 = \frac{(x+1)^2}{E X_1}$
+$X_1 + \frac{(x+1)^2}{E X_1} = x$
+[/marginalia]

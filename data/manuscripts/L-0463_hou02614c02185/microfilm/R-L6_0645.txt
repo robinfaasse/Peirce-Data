@@ -1,0 +1,21 @@
+[pn]24[/pn] But the ligatures. The following are examples
+
+| In Aryan Syntax | In the Algebra of Dyadic Relatives | In Existential Graphs |
+| --- | --- | --- |
+| A loves, but does not benefit, B. | $\breve{A} (l \cdot \bar{b}) B$ | [fig]Existential graph: A-loves-B, A-benefits-B with cut[/fig] [ins]The location of the spots is immaterial[/ins] |
+| A loves a non-benefactor of B. | $\breve{A} l \bar{b} B$ | [fig]Existential graph: A-loves-x, x-benefits-B with cut[/fig] |
+| A loves something unbenefitted by B. | $\breve{A} l \breve{\bar{b}} B$ | [fig]Existential graph: A-loves-x, B-benefits-x with cut[/fig] |
+| A loves whomsoever benefits B | $\breve{A} (l \bar{\breve{s}} \bar{b}) B$ | [fig]Existential graph: A-loves-x, x-benefits-B with nested cuts[/fig] |
+| A loves nobody but benefactors of B | $\breve{A} (\bar{l} \bar{\breve{s}} b) B$ | [fig]Existential graph: A-loves-x, x-benefits-B with nested cuts[/fig] |
+
+Existential Graphs, besides, express [del]ing[/del] [ins]y[/ins] much that I should be puzzled to express in the Algebra of Dyadic Relatives; such as the following
+"A maligns nobody but lovers of those to whom B does not prefer the person to whom A's malignment [del]of them[/del] is addressed."
+[fig]Complex existential graph with nested cuts and ligatures[/fig]
+
+Yet the System of Existential Graphs escapes the opposite fault into which my "General Algebra of Logic" falls; namely that of representing as equally simple assertions that, in fact, are far from being so. The comparison of the [del]two[/del] [ins]three[/ins] following will illustrate this, which ramifies in various directions, on account of that Algebra being determined by mere external or formal relations, and forcing everything into a Procrustean bed:
+
+| In the General Algebra of Logic | In Aryan Syntax | In Existential Graphs |
+| --- | --- | --- |
+| $\Pi_j \Sigma_i (g_i \cdot l_{ji} \ \psi \ \bar{c}_j)$ | Whatever chimera there may be is loved by some griffin or other. | [fig]Existential graph with nested cuts[/fig] |
+| $\Sigma_i \Pi_j g_i \cdot (l_{ji} \ \psi \ \bar{c}_j)$ | One griffin loves whatever chimera there may be. | [fig]Existential graph with nested cuts[/fig] |
+| $\Sigma_i \Pi_j \ g_i \cdot l_{ji} \ \psi \ \bar{c}$` | [del]All the chimeras there may be are loved by some one griffin[/del] | [fig]Existential graph with nested cuts[/fig] |

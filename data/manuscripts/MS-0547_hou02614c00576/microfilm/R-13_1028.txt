@@ -1,0 +1,22 @@
+Let us take this example. Given the pre-
+mises
+$$\Sigma_h \Pi_i \Sigma_j \Pi_k (\alpha_{hik} + s_{jk} \ell_{ji})$$
+$$\Sigma_u \Sigma_v \Pi_x \Pi_y (\varepsilon_{uyx} + \bar{s}_{yv} b_{vx})$$
+Required to eliminate $s$. The combined operator
+is
+$$\Sigma_u \Sigma_v \Sigma_h \Pi_i \Sigma_j \Pi_k \Pi_x \Pi_y$$
+
+The remaining expression gives
+
+$$(\alpha_{hik} + s_{jk} \ell_{ji}) (\varepsilon_{uyx} + \bar{s}_{yv} b_{vx})$$
+$$\propto \{ \alpha_{hik} \varepsilon_{uyx} + \alpha_{hik} b_{vx} + \varepsilon_{uyx} \ell_{ji} + (\eta_{jy} + \eta_{kv}) \ell_{ji} b_{vx} \}$$
+
+Introducing $\Pi_y$ and for abbreviation writing
+$$A = \alpha_{hik} \varepsilon_{uyx} + \alpha_{hik} b_{vx} + \varepsilon_{uyx} \ell_{ji}$$
+we have
+$$(\alpha_{hik} \varepsilon_{ujx} + \alpha_{hik} b_{vx} + \varepsilon_{ujx} \ell_{ji}) \Pi_y (A + [ins][u]\eta_{kv}[/u][/ins] \ell_{ji} b_{vx})$$
+
+[del]But $A + \ell_{ji} b_{vx} = (\alpha_{hik} + s_{jk} \ell_{ji}) (\varepsilon_{uyx} + \bar{s}_{yv} b_{vx})$
+the first factor of which does not contain $y$,
+This gives and this is a factor of the first party so that we have
+$(\alpha_{hik} \varepsilon_{ujx} + \alpha_{hik} b_{vx} + \varepsilon_{ujx} \ell_{ji}) \Pi_y (\varepsilon_{uyx} + b_{vx})$[/del]

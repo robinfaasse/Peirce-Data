@@ -1,0 +1,17 @@
+[marginalia]
+Cole. Diff.
+[pn]23[/pn]
+[/marginalia]
+
+From the associative principle it obviously follows that, [u]l[/u], [u]m[/u], [u]n[/u] being positive integers,
+(7) [math]\phi^{[u]l[/u] + ([u]m[/u] + [u]n[/u])} = \phi^{[u]l[/u]} \cdot \phi^{[u]m[/u] + [u]n[/u]} = \phi^{([u]l[/u] + [u]m[/u])} \cdot \phi^{[u]n[/u]} = \phi^{([u]l[/u] + [u]m[/u]) + [u]n[/u]}[/math]
+
+It further follows that, for positive integral values of [u]m[/u] and [u]n[/u],
+(8) [math]\phi^{[u]m[/u] + [u]n[/u]} = \phi^{[u]n[/u] + [u]m[/u]}[/math]
+
+For this is identically true when [u]m[/u] = [u]n[/u] = 1; and if it be true when [u]m[/u] = 1 and [u]m[/u] is not greater than M, it is easily seen to be true when [u]n[/u] = 1 and [u]m[/u] is not greater than [del]M + 1[/del] [ins]1+M[/ins]. For, in that case,
+[math]\phi^{(1 + M) + 1} = \phi^{1 + (M + 1)} = \phi^{1} \cdot \phi^{M + 1} = \phi^{1} \cdot \phi^{1+M} = \phi^{1 + (1+M)} = \phi^{1+M} \cdot \phi^1[/math].
+
+This proves that [math]\phi^{\overline{m} + 1} = \phi^{1 + \overline{m}}[/math]. But further, if (8) holds so long as [u]n[/u] is not greater than N, it also holds so long as N is not greater than 1 + N. For, in that case,
+[math]\phi^{\overline{m} + (1 + N)} = \phi^{(\overline{m} + 1) + N} = \phi^{N + (\overline{m} + 1)} = \phi^{N + 1} \cdot \phi^{\overline{m}} = \phi^{1 + N} \cdot \phi^{\overline{m}} =[/math]
+[math]= \phi^{N + (1 + \overline{m})} = \phi^{(N + 1) + \overline{m}} = \phi^{N + 1} \cdot \phi^{\overline{m}} = \phi^{1 + N} \cdot \phi^{\overline{m}} = \phi^{\overline{m}} \cdot \phi^{1+N}[/math]

@@ -1,0 +1,19 @@
+Logic [ins] (74) [/ins] If [u]x[/u] is true ([u]x[/u]<[u]y[/u])<[u]y[/u]
+This follows from (73) by (65).
+58 (75) If [u]x[/u] and ([u]x[/u]<[u]y[/u]) are true, y is true.
+This follows from (74) by (65). This is the [u]modus ponens[/u].
+(76) If [u]x[/u] and ([u]x[/u]<[u]y[/u]) and ([u]y[/u]<[u]z[/u]) are true, [u]z[/u] is true.
+For, by (75), if [u]x[/u] and ([u]x[/u]<[u]y[/u]) are true [u]y[/u] is true; but if [u]y[/u]
+and ([u]y[/u]<[u]z[/u]) are true, then, by (75), [u]z[/u] is true.
+(77) If ([u]x[/u]<[u]y[/u]) and ([u]y[/u]<[u]z[/u]) are true, ([u]x[/u]<[u]z[/u]) is true.
+For by (76) if ([u]x[/u]<[u]y[/u]) and ([u]y[/u]<[u]z[/u]) are true, then if [u]x[/u] is true,
+[u]z[/u] is true; whence, by (64), follows (77) This is the principle
+of Barbara.
+(78) If [u]x[/u]<[u]y[/u] is true, then ([u]y[/u]<[u]z[/u])<([u]x[/u]<[u]z[/u]) is true.
+For by (77) if ([u]x[/u]<[u]y[/u]) is true, then if ([u]y[/u]<[u]z[/u]) is true, ([u]x[/u]<[u]z[/u]) is
+true; whence, by (64) follows (78). This is the rule of [del]contraposition[/del]
+(79) [del]If ([u]y[/u]<[u]z[/u])<([u]x[/u]<[u]y[/u])<[u]z[/u][/del] [[u]x[/u]<[u]y[/u])<[u]z[/u]]<[u]y[/u]<[u]z[/u]
+This follows by contraposition from (72).
+(80) If ([u]x[/u]<[u]y[/u])<[u]z[/u] is true, then [u]y[/u]<[u]z[/u] is true
+This follows from (79) by (65). It may be expressed: An
+antecedent of an antecedent may be suppressed.

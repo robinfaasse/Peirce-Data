@@ -1,0 +1,31 @@
+[u]Formal Divisions of Dyadic Relations[/u]
+
+[del]Every relation except 0 may have a relate & a correlate[/del]
+[del]Having some correlate to which every indiv is relate[/del]
+Having [del]every individual for relation[/del] [ins]some[/ins] correlate
+
+[del]Compossibility[/del]
+[del]Incontrarelation[/del]
+
+[del]Irrelation[/del]
+[del]0[/del]
+
+$$\Pi_i \Pi_j r_{ij}$$
+$$\Pi_i \Pi_j \bar{r}_{ij}$$
+
+$$\begin{matrix}
+\text{perrelation} \\
+\sum_i \Pi_j r_{ij} \rightarrow \Pi_j \sum_i r_{ij} \\
+\text{percorrelation} \\
+\sum_j \Pi_i r_{ij} \rightarrow \Pi_i \sum_j r_{ij}
+\end{matrix} > \begin{matrix} \text{[del]Exprel[/del]} \\ \sum_i \sum_j r_{ij} \\ \text{Relation} \end{matrix}$$
+
+$$\begin{matrix}
+\text{[del]contraperrelation[/del]} \text{ Contraimperrelation} \\
+\sum_i \Pi_j \bar{r}_{ij} \rightarrow \Pi_j \sum_i \bar{r}_{ij} \\
+\text{contrapercorrelation} \\
+\sum_j \Pi_i \bar{r}_{ij} \rightarrow \Pi_i \sum_j \bar{r}_{ij} \\
+\text{Imperrelation}
+\end{matrix} \begin{matrix} \\ \\ \sum_i \sum_j \bar{r}_{ij} \\ \text{Contrarelation} \end{matrix}$$
+
+[del]$\$$[/del] $\bar{r}_{ab} \dagger \Pi_i \sum_j \bar{r}_{ij}$

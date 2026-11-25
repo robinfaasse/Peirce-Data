@@ -1,0 +1,66 @@
+$$q\,d\omega = \frac{C}{q}\,ds$$
+
+[fig]Geometric diagram with arcs and angles[/fig]
+
+[fig]Geometric diagram with arcs and angles[/fig]
+
+[fig]Small geometric diagram with angle alpha[/fig]
+
+$$\begin{aligned}
+0 &= dq \sin\alpha + q \cos\alpha\,d\alpha \\
+d\alpha &= -\frac{dq}{q} \tan\alpha
+\end{aligned}$$
+
+$$\begin{aligned}
+q \\
+-ds \cos\alpha &= dq \\
+q\,ds \cos\alpha
+\end{aligned}$$
+
+$$\begin{aligned}
+\alpha \\
+\frac{d\alpha - \frac{ds \sin\alpha}{q}}{1}\,ds \sin\alpha &= q\,d\omega \\
+\alpha + \frac{ds \sin\alpha}{q}
+\end{aligned}$$
+
+$$\frac{ds \sin\alpha}{q}$$
+
+$$\frac{q}{\sin\alpha}$$
+
+[fig]Triangle diagram with sides ds and dq[/fig]
+
+$$\begin{aligned}
+\rho\,dq &= ds \\
+\rho &= \frac{ds}{dq}
+\end{aligned}$$
+
+[fig]Circle with a tangent line[/fig]
+
+$$\begin{aligned}
+(r \cos\theta - A)^2 + r^2 \sin^2\theta &= B^2 \\
+r^2 + A^2 - B^2 &= 2Ar \cos\theta \\
+r + \frac{A^2 - B^2}{r} &= 2A \cos\theta \\
+\left(1 - \frac{A^2 - B^2}{r^2}\right) dr &= -2A \sin\theta\,d\theta
+\end{aligned}$$
+
+$$\begin{aligned}
+\frac{r^2 + 2(A^2 - B^2) + \frac{(A^2 - B^2)^2}{r^2}}{4A^2} \\
+= 4A^2 \cos^2\theta
+\end{aligned}$$
+
+[del]$\sin^2$[/del]
+
+$$\frac{\sqrt{2(A^2 + B^2) - r^2 - \frac{(A^2 - B^2)^2}{r^2}}}{2A} = \sin\theta$$
+
+[fig]Geometric diagram with intersecting lines[/fig]
+
+[fig]Triangle diagram[/fig]
+
+[fig]Circle with inscribed lines[/fig]
+
+$$\begin{aligned}
+\frac{x_1 + x_2}{2} \quad \frac{y_1 + y_2}{2} \\
+y - \left(\frac{y_1 + y_2}{2}\right) = \frac{x_2 - x_1}{y_2 - y_1} \left[x - \left(\frac{x_1 + x_2}{2}\right)\right] \\
+y(y_2 - y_1) + x(x_2 - x_1) = \frac{1}{2}(y_2^2 - y_1^2) + \frac{1}{2}(x_2^2 - x_1^2) \\
+y(y_3 - y_2) + x(x_3 - x_2) = \frac{1}{2}(y_3^2 - y_2^2) + \frac{1}{2}(x_3^2 - x_2^2)
+\end{aligned}$$

@@ -1,0 +1,144 @@
+[del](1+X)[/del]
+[del](1+X)[/del]
+[del](1+X)[/del]
+
+$$\begin{aligned}
+b^{y} - b^{x} &= b^{x} (b - 1) \\
+2^{x+1} - 2^{x} &= 2^{x}
+\end{aligned}$$
+
+$$\begin{aligned}
+(x+1)^{10} &= x^{10} + 10 x = 1 \\
+(x+1)^{100} &= x^{100} + 100 x^{11} + [del]100[/del] [ins]10[/ins] x^{\frac{2}{10} + \frac{1}{10}} + [del]100[/del] x^{\frac{x}{100}} = 2^{x} \left(2^{\frac{1}{10}} - 1\right) \\
+&= 10^{x \cdot \frac{x}{100}} - 2^{x} = 2^{x} \left(2^{\frac{1}{100}} - 1\right)
+\end{aligned}$$
+
+$$\begin{aligned}
+0& \\
+1& \\
+10& \\
+101& \\
+1100& \\
+11101& \\
+1000110&
+\end{aligned}$$
+
+[fig]sketch of lines[/fig]
+[del]10[/del]
+[del]10[/del]
+$$10 = 1 + X$$
+
+$$\begin{aligned}
+32 \\
+1
+\end{aligned}$$
+
+$$\begin{array}{r}
+1 \\
+1 \ 7 \ 28 \ 0 \ 0 \ 0 \ 0 \\
+21 \\
+15 \ 35 \ 56 \\
+6 \ 20 \ 35 \ 70 \\
+4 \ 10 \ 20 \ 35 \\
+1 \ 5 \ 15 \ 21 \\
+1 \ 6 \ 7 \\
+1 \ 1
+\end{array}$$
+
+$$\begin{array}{ccc}
+32 & 31 & 30 \\
+\hline 1 & 2 & 3
+\end{array}$$
+
+$$(1+x)^{n} =$$
+[del]$(1+x)^{n} =$[/del]
+
+$$\begin{aligned}
+1& \\
+2& \\
+5& \\
+12& \\
+29& \\
+70& \\
+169& \\
+398& \\
+965& \\
+2328& \\
+5621&
+\end{aligned}$$
+
+[fig]small network graph[/fig]
+
+$$\begin{array}{c}
+(1+x) \\
+\\
+32
+\end{array}$$
+
+$$\begin{array}{rlr}
+1 & \\
+1 & 8 \\
+1 & 4 \ - 28 \\
+2 & 6 \ 56 \\
+1 & 4 \ \ 70 \\
+& 1 \\
+& 1
+\end{array}$$
+
+[fig]tree graph[/fig]
+
+$$\begin{aligned}
+&.000000 \\
+&1 + 1 + 1 \ \ \ 1 + 1 + 1 \ \ \ [del]1 + 1 + 1 + 1[/del] \\
+&1 + 2 \ \ \ 2 + 1 + 1 \ \ \ 2 + 1 + 1 + 1 \\
+&3 \ \ \ 2 + 2 \ \ \ \ \ \ \ \ \ 2 + 2 + 1 \\
+&3 + 1 \ \ \ \ \ \ \ \ \ [del]3 + 1 + 1 + 1[/del] \\
+&4 \ \ \ \ \ \ \ \ \ \ \ \ \ \ 3 + 2 \\
+&\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 4 + 1
+\end{aligned}$$
+
+[fig]small labeled trees[/fig]
+
+$$(1+x)^{1024} = 1 + 1024 x$$
+
+$$\begin{aligned}
+&1+x \\
+&2
+\end{aligned} \ \ \ \ \ \begin{aligned}
+&1-x \\
+&2
+\end{aligned}$$
+
+$$(1+x)^{10000000000} = 1 + 10000000000 x$$
+
+[fig]annotated line and tree diagrams[/fig]
+
+$$\begin{array}{r}
+9900 \\
+\underline{99} \\
+9801 \\
+\underline{4900} \\
+2 \cdot 99 \\
+\hline 70
+\end{array}$$
+
+$$\begin{array}{r}
+1 \\
+2 \cdot 2 \ 1 \\
+2 \cdot 3 \ 1 \\
+7 + 3 \cdot 3 \ 2 \\
+3 \cdot 8 + 2 \cdot 2 \ 3 \\
+\gamma + 4 \cdot 8 + 3 \cdot 4 \ 4 \ 2 \\
+\delta + \gamma + 9 \cdot 2 \ 9 \ 4 \ 3 \\
+4 \cdot 8 + 2 \cdot 8 \ 18 \ 9 \ 5 \\
+\gamma + 2 \beta \ 3 \beta \ 35 \ 17 \ 9 \\
+\gamma + \beta + \beta + 3 \gamma \ 75 \ 40 \ 20
+\end{array}$$
+
+$$\begin{array}{rl}
+7 & | \underline{9801} \\
+7 & | \underline{1400142857} \\
+20007 & 8
+\end{array}$$
+
+[fig]various small tree diagrams[/fig]

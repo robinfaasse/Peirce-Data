@@ -1,0 +1,14 @@
+$$\Delta = R(\sin\rho\cos\alpha + \cos\beta\cos\beta) + R(\sin\rho\sin\alpha + \cos\rho\sin\beta)\cdot i$$
+
+[del]L = l R (cos\lambda + sin\lambda\cdot i)[/del]
+
+[del]M = m R (cos\mu + sin[/del]
+
+$$\begin{array}{l} L = l R (\cos\lambda + \sin\lambda\cdot i) \\ M = m R (\cos\mu + \sin\mu\cdot i) \\ N = n R (\cos\nu + \sin\nu\cdot i) \end{array}$$
+$$\begin{array}{r} A = \frac{x}{x+y+z} l R (\cos\lambda + \sin\lambda\cdot i) \\ [del]M[/del] + \frac{y}{x+y+z} m R (\cos\mu + \sin\mu\cdot i) \\ + \frac{z}{x+y+z} n R (\cos\nu + \sin\nu\cdot i) \end{array}$$
+
+$$\frac{[del]x^2 l^2[/del] (x l \cos\lambda + y m \cos\mu + z n \cos\nu)^2 + (x l \sin\lambda + y m \sin\mu + z n \sin\nu)^2}{[del](x+y+z)^2[/del] (x+y+z)^2}$$
+
+$$= \frac{\begin{array}{r} x^2 l^2 + y^2 m^2 + z^2 n^2 + 2 x y l m \cos(\lambda-\mu) + 2 x z l n \cos(\lambda-\nu) \\ + 2 y z m n \cos(\mu-\nu) \end{array}}{x^2 + y^2 + z^2 + 2 x y + 2 x z + 2 y z}$$
+
+$$\begin{array}{ccccc} L & \rho & \xi & x \\ J & \sigma & \eta & y \\ K & \tau & \zeta & z \end{array}$$

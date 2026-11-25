@@ -1,0 +1,13 @@
+[u]1st Case[/u] Suppose $\lambda_1 = \lambda_2$ $m_1 = m_2$.
+Then $G_1 = G_2 = \frac{g}{\lambda} + a$
+$N = G \pm a = \begin{cases} \frac{g}{\lambda} + 2a \\ \frac{g}{\lambda} \end{cases}$
+
+$\mathcal{M} = \mp 1$
+$s_1 = C_1 \sin (\sqrt{\frac{g}{\lambda} + 2a} t + e_1) + C_2 \sin (\sqrt{\frac{g}{\lambda}} t + e_2)$
+$s_2 = + C_1 \sin (\sqrt{\frac{g}{\lambda} + 2a} t + e_1) - C_2 \sin (\sqrt{\frac{g}{\lambda}} t + e_2)$
+
+The intervals between their successive meetings would be equal to their undisturbed time of oscillation.
+
+If $C_2 > C_1$ the whole no of times the pendulum will be vertical in the period $\frac{2\pi}{\sqrt{\frac{g}{\lambda}}}$ will be twice the whole number contained in $\frac{\sqrt{\frac{g}{\lambda} + 2a}}{\sqrt{\frac{g}{\lambda}}} \frac{4 \text{arc} \sin \frac{C_1}{C_2}}{360^\circ}$ increased by two. Generally, in other cases the mean period of oscillation is [fig]crossed out fraction[/fig] $\frac{\pi}{\sqrt{\frac{g}{\lambda} + 2a}}$
+
+In this case it will [del]generally[/del] [ins]often[/ins] happen that each pendulum comes alternately to rest. This can only occur at the moments when $\frac{\tan (\sqrt{\frac{g}{\lambda} + 2a} t + e_1)}{\tan (\sqrt{\frac{g}{\lambda}} t + e_2)} = \frac{\sqrt{\frac{g}{\lambda} + 2a}}{\sqrt{\frac{g}{\lambda}}}$ and can only happen then if the pendulum is at that moment at rest.

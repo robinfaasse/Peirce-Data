@@ -1,0 +1,56 @@
+1900 Dec 11 [Follows 181] 177r
+181A
+
+A New System of Graphs
+
+Writing propositions together means that [del]both are true[/del] [ins]each is scriptible alone[/ins]
+
+[del][fig]figure[/fig] means that if X is true Y is true[/del]
+
+[fig]figure[/fig] means that X is transferable into Y
+
+[u]I. Any unenclosed part of a graph may be erased[/u]
+or [fig]figure[/fig]
+
+[fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig]
+
+[fig]figure[/fig]
+
+IV
+
+(b≺c)≺a c≺d
+[fig]figure[/fig]
+
+[del]a≺b≺c d≺a Celarent[/del]
+a≺b≺c d≺a
+(a≺b)(b≺c) Barbara
+(a≺b≺c)(c≺d) Celarent
+a·(b≺c) (c≺d)
+[u]a≺b≺c c≺d[/u]
+
+[fig]figure[/fig] (a≺b≺c)(c≺d) ≺ (a≺b≺d)
+[del](a≺b≺c)[/del]
+[fig]figure[/fig] {c·d·(c≺a≺b) ≺ d·(a≺b)
+[fig]figure[/fig] {c·d·(a≺c≺b)
+(a≺b)·c ≺ d ≺ (a≺b)·d
+[u]a≺b[/u]
+a·(b≺c) (c≺d) ≺ a·(b≺d)
+a·(b≺c) b·d ≺ a·c·d
+a·b≺c c≺d ≺ a·b·d
+[fig]figure[/fig] a·b·c d≺d ≺ d·a·b·c
+[fig]figure[/fig] a·x·b·c a·d ≺ d·b·c
+[fig]figure[/fig] a·b·c c≺d ≺ a·b·d
+[del](a≺b≺c)(c≺d≺e) ≺ (a≺b≺d≺e)[/del]
+(a≺b≺c)(c≺d)·e ≺ (a≺b≺d)·e
+
+[del]a≺b[/del]
+a≺b≺c =(a≺b)·(a≺c) (a≺b≺c)(c≺d) a≺b≺d [fig]figure[/fig] a·b·c (c≺d) a·b·d
+(a≺b≺c)c≺d (a≺b)·d
+(a≺b)·c (c≺d) (a≺b)·d
+(a≺b)·c·c≺d [del](a≺b)·d[/del] a·d
+a·(b≺c)(c≺d) a·(b≺d)
+a·(b≺c)c≺d a·b·d
+(a≺b≺c)(c≺d) [ins]a·b·d[/ins]
+(a≺b≺c)c≺d a·d
+(a≺b·c)(c≺d) a·b·d
+(a·b·c)c≺d a·b·d

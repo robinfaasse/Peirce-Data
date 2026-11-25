@@ -1,0 +1,31 @@
+[Follows a 7r] a 9r
+3595
+[u]First case[/u]
+$\frac{0}{100} \text{ } \frac{0}{101} \text{ } \frac{0}{102} \text{ } \frac{1}{103} \text{ } \frac{1}{104} \text{ } \frac{1}{105} \text{ } \frac{1}{106} \text{ } \frac{2}{107} \text{ } \frac{3}{108} \text{ } \frac{4}{109}$
+$0 \text{ } 0 \text{ } 0 \text{ } .0097 \text{ } \begin{matrix} 87 \\ .0096 \end{matrix} \text{ } \begin{matrix} 154 \\ .0095 \end{matrix} \text{ } \begin{matrix} 238 \\ .0094 \end{matrix} \text{ } \begin{matrix} 340 \\ 0.0186 \end{matrix} \text{ } \begin{matrix} 916 & 38 \\ .02778 \end{matrix} \text{ } \begin{matrix} 778 \\ .0367 \end{matrix}$ 972
+$0 \text{ } 0 \text{ } 0 \text{ } +.0097 \text{ } -.0000[ins]8[/ins]4 \text{ } -.000091 \text{ } -.000090 \text{ } +009258 \text{ } +009086 \text{ } +008919$
+Effects $\sigma \cdot D$
+[u]Second Case[/u]
+$\frac{100}{100} \text{ } \frac{100}{101} \text{ } \frac{100}{102} \text{ } \frac{101}{103} \text{ } \frac{101}{104} \text{ } \begin{matrix} 9619048 \\ \frac{101}{105} \end{matrix} \text{ } \frac{101}{106} \text{ } \frac{102}{107} \text{ } \frac{103}{108} \text{ } \frac{104}{109}$
+[del] .990099 [/del] 1.0000000 .9900990 .9803920 .9805825 [ins] \begin{matrix} 9619048 \\ .9711539 \end{matrix} [/ins] .9528302 .9532710 .9537057 .9541284
+Effect -.009901 -.0097070 [del] \begin{matrix} 9675 \\ +.0001905 \end{matrix} [/del] [ins] \begin{matrix} -.0092491 \\ -.0094286 \end{matrix} [/ins] -.0090746 +0004408 +0004347 +0004227
+
+[u]Third case[/u]
+$\frac{40}{100} \text{ } \frac{[del] 40 [/del]}{[del] 100 [/del]} \text{ } \begin{matrix} 40 \\ \hline 101 \end{matrix} \text{ } \begin{matrix} 40 \\ \hline 102 \end{matrix} \text{ } \begin{matrix} 41 \\ \hline 103 \end{matrix} \text{ } \begin{matrix} 41 \\ \hline 104 \end{matrix} \text{ } \begin{matrix} 41 \\ \hline 105 \end{matrix} \text{ } \begin{matrix} 41 \\ \hline 106 \end{matrix} \text{ } \begin{matrix} 42 \\ \hline 107 \end{matrix} \text{ } \begin{matrix} 43 \\ \hline 108 \end{matrix} \text{ } \begin{matrix} 44 \\ \hline 109 \end{matrix}$
+0.4000000 .39603960 .3921569 [del] .3983268 [/del] .3980583 .3942308 .3904762 .3867924 .3925234 .3981481 .4036697
+-.0039604 -.0038827 +.0059014 -.0038275 -.0037546 -.0036838 + .0057309 +.0056247 +.0055216
+
+$\frac{0}{1000} \text{ } \frac{0}{1001} \text{ } \frac{0}{1002} \text{ } \frac{1}{1003} \text{ } \frac{1}{1004} \text{ } \frac{1}{1005} \text{ } \frac{1}{1006} \text{ } \frac{2}{1007} \text{ } \frac{3}{1008} \text{ } \frac{4}{1009}$
+0 0 0 000997 000996 000995 000994 001986 002976 003964
+0 0 0 +.000997 -.000001 -.000001 -.000001 +.000992 +.000990 +.000988
+
+$\frac{1000}{1000} \text{ } \frac{1000}{1001} \text{ } \frac{1000}{1002} \text{ } \frac{1001}{1003} \text{ } \frac{1001}{1004} \text{ } \frac{1001}{1005} \text{ } \frac{1001}{1006} \text{ } \frac{1002}{1007} \text{ } \frac{1003}{1008} \text{ } \frac{1004}{1009}$
+1.000000 .999001 998004 9980060 9970119 9960199 9950298 9950348 9950397 9950446
+[ins] \begin{matrix} 9970 \\ 9980060 \end{matrix} [/ins] [ins] \begin{matrix} 9960159 \\ 9960 \end{matrix} [/ins] [ins] \begin{matrix} 9950249 \\ 9950 \end{matrix} [/ins] [ins] \begin{matrix} 9940358 \\ 9940 \end{matrix} [/ins] [ins] \begin{matrix} 9930437 \\ 29861 \end{matrix} [/ins] [ins] \begin{matrix} 9920635 \\ 29762 \end{matrix} [/ins] [ins] \begin{matrix} 9910803 \\ 39643 \end{matrix} [/ins]
+-.000999 -.000997 +.0000054 -.0009841 -.0009920 -.0009901 [ins] 9950 [/ins] +.0000050 +.0000049
+
+$\frac{400}{1000} \text{ } \frac{400}{1001} \text{ } \frac{400}{1002} \text{ } \frac{401}{1003} \text{ } \frac{401}{1004} \text{ } \frac{401}{1005} \text{ } \frac{401}{1006} \text{ } \frac{402}{1007} \text{ } \frac{403}{1008} \text{ } \frac{404}{1009}$
+.400000 .3996004 .3992016 .3998006 .39940238 39900498 39860836 39920558 [del] .3982881 [/del] 40039643
+[ins] \begin{matrix} 3988036 \\ 9970 \end{matrix} [/ins] [ins] \begin{matrix} 39840636 \\ 99602 \end{matrix} [/ins] [ins] \begin{matrix} 39800995 \\ 399502 \end{matrix} [/ins] [ins] \begin{matrix} 9940358 \\ 39761432 \end{matrix} [/ins] [ins] \begin{matrix} 9930437 \\ 19860974 \end{matrix} [/ins] [ins] \begin{matrix} 19860974 \\ 39721948 \end{matrix} [/ins]
+
+We may neglect for the moment the third cases. What I wish to bring your attention to is that any sequence of throws, since it is possible, will certainly recur endlessly, and that every time it recurs it will have less and less affect, and that consequently in causing the ratios to [ins] of results of [/ins] after secretions results to oscillate less than it did before; and this will be true even of such short series of throws whose irregular recurrence will make up the whole [del] of [/del] endless sequence after a certain point.

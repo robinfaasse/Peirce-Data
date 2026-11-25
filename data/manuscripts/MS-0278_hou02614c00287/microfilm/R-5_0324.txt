@@ -1,0 +1,52 @@
+[fig]Line x=0, y=0, z=0[/fig]
+Line [u]x=0[/u]
+Line [u]y=0[/u]
+Line [u]z=0[/u]
+
+[fig]Vertical line separating columns[/fig]
+Line A B C
+" A' B' C'
+" A" B" C"
+
+[fig]Vertical line separating columns[/fig]
+Line A" B' C"
+Line C" A' B
+B C' A"
+[fig]Scribble[/fig]
+
+A B' C"
+A' B C"
+A' B" C
+A" B' C
+A" B C'
+A B" C'
+
+[del]Ax=0 By=0 Cz=0[/del]
+[del]xyz[/del]
+
+[fig]Diagram connecting equations with lines[/fig]
+A=0 B=0
+B=0 C=0
+A=0 C=0
+
+A=0 B=0
+A=0 D=0
+B=0 D=0
+
+A=0 B=0
+A=0 E=0
+A=0 E=0
+
+C=0 D=0
+
+A=0 B=0
+B=0 C=0
+A=0 C=0
+
+A+xB=0 A-xB=0
+-A+xB=0 D=0
+A-xB=0 D=0
+
+A+yB=0 A-yB=0
+A+yB=0 E=0
+A-yB=0 E=0

@@ -1,0 +1,32 @@
+[pn]7.[/pn]
+
+Pour résoudre ces équations, on multiplie la seconde par [u]x[/u],
+et on l'ajoute à la première. On obtiendra
+
+[u]D[/u][sub]t[/sub]² { ( l + k [u]x[/u] ) φ + ( 1 + [u]x[/u] ) s } = - [frac]g, l + k [u]x[/u][/frac] { ( l + k [u]x[/u] ) φ + [frac]c [u]x[/u] ( l + k [u]x[/u] ), M g[/frac] s }
+
+et, en posant
+
+[frac]c [u]x[/u] ( l + k [u]x[/u] ), M g[/frac] = 1 + [u]x[/u]
+
+l'équation se réduit à la forme
+
+[u]D[/u][sub]t[/sub]² [u]X[/u] = - [frac]g, l + k [u]x[/u][/frac] [u]X[/u] ;
+
+dont l'intégrale est
+
+( l + k [u]x[/u] ) φ + ( 1 + [u]x[/u] ) s = [u]X[/u] = A cos ( [radic][frac]g, l + k [u]x[/u][/frac][/radic] t + η ).
+
+L'équation pour déterminer [u]X[/u] donne
+
+[u]x[/u] = - [frac]1, 2[/frac] [frac]c l - M g, c k[/frac] ± [frac]1, 2[/frac] [frac]l, k[/frac] [radic] 4 [frac]M g k, c l²[/frac] + ( 1 - [frac]M g, c l[/frac] )² [/radic]
+
+ou à peu près
+
+[u]x[/u] = - [frac]1, 2[/frac] [frac]l, k[/frac] + [frac]1, 2[/frac] [frac]M g, c k[/frac] ± ( [frac]l, k[/frac] - [frac]1, 2[/frac] [frac]M g, c k[/frac] + [frac]M g, c l[/frac] ) ;
+
+ainsi les deux valeurs de [u]x[/u] seront
+
+[u]x[/u]₁ = [frac]M g, c l[/frac]
+
+[u]x[/u]₂ = - [frac]l, k[/frac] + [frac]M g, c k[/frac] - [frac]M g, c l[/frac] .

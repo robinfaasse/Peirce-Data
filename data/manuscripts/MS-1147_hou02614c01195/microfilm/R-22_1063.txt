@@ -1,0 +1,18 @@
+[pn]Solution
+2[/pn] [del]X[/del] the unknown quantity. It is necessary to substitute for
+[del]x[/del] a value [u]x = a + y[/u] where [u]a[/u] is a quantity so near to
+[del]x[/del] [ins]that[/ins] the root of the equation which is desired, that
+the corresponding root of the equation in [u]y[/u] shall have a
+smaller modulus than any other root. The nearest integer
+value is generally nearer than need be; but the nearer the
+better. Then taking the equation in [u]y[/u] so obtained, divide
+throughout by the constant term. (If there be none, [u]a[/u] is the
+exact solution.) Transpose all the other terms to the other
+side so as to get the equation in the form
+[u]1 = b₀yⁿ + b₁yⁿ⁻¹ + b₂yⁿ⁻² + etc ... + bₙ₋₂y² + bₙ₋₁y[/u]
+where for any integer [u]m[/u], [u]bₘ[/u] is the coefficient of [u]yⁿ⁻ᵐ[/u].
+Then take the corresponding equation
+[u]Yₙ = b₀Y₀ + b₁Y₁ + b₂Y₂ + - - - - - - + bₙ₋₂Yₙ₋₂ + bₙ₋₁Yₙ₋₁[/u]
+Give almost any values you please to Y₀, Y₁ up to Yₙ₋₁,
+except that they must not all be zero. As good a
+way as any is to make all zero except Yₙ₋₁ = 1. Calculate

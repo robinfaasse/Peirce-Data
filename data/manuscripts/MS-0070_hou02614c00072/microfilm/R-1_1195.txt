@@ -1,0 +1,27 @@
+[pn]No 7[/pn] [del]f[/del] in (14), we get
+[marginalia]very future work[/marginalia]
+$\Pi_{j} \Pi_{k} \Pi_{i} \Pi_{w} \Pi_{u} \cdot (\overline{i+j})_{k} \Psi \sigma_{wk} \Psi \overline{\sigma}_{ui} \Psi (\overline{u+j})_{w}$
+
+Let us insert $\overline{q}_{au}$ as an aggregant:
+
+$\Pi_{j} \Pi_{k} \Pi_{i} \Pi_{\alpha} \Pi_{w} \Pi_{u} (\overline{i+j})_{k} \Psi \sigma_{wk} \Psi \overline{\sigma}_{ui} \Psi \overline{q}_{au} \Psi (\overline{u+j})_{w}$
+
+The insertion of the aggregant authorizes the insertion of its negative as a component of another aggregant:
+
+$\Pi_{j} \Pi_{k} \Pi_{i} \Pi_{\alpha} \Pi_{w} \Pi_{u} (\overline{i+j})_{k} \Psi \sigma_{wk} \Psi \overline{\sigma}_{ui} \Psi \overline{q}_{au} \Psi (\overline{u+j})_{w}$
+
+Let the index $u$ now be deduced, becoming $z$ in the third aggregant; and the $\Sigma_{z}$ may be placed to the
+left of any $\Pi$s except $\Pi_{\alpha}$ and $\Pi_{i}$ which occur in the same aggregant:
+$\Pi_{j} \Pi_{k} \Pi_{i} \Pi_{\alpha} \Sigma_{z} \Pi_{w} \Pi_{u} (\overline{i+j})_{k} \Psi \sigma_{wk} \Psi q_{azi} \overline{\sigma}_{zi} \Psi \overline{q}_{au} \Psi (\overline{u+j})_{w}$
+
+Let $\overline{q}_{\gamma w}$ be inserted as an aggregant:
+
+$\Pi_{j} \Pi_{k} \Pi_{i} \Pi_{\gamma} \Pi_{\alpha} \Sigma_{z} \Pi_{w} \Pi_{u} (\overline{i+j})_{k} \Psi \overline{q}_{\gamma w} \Psi \sigma_{wk} \Psi q_{azi} \overline{\sigma}_{zi} \Psi [ins]\Psi \overline{q}_{au}[/ins] \Psi (\overline{u+j})_{w}$
+
+The insertion of the aggregate justifies the insertion of its negative as a component of another aggregant, thus:
+
+$\Pi_{j} \Pi_{k} \Pi_{i} \Pi_{\gamma} \Pi_{\alpha} \Sigma_{z} \Pi_{w} \Pi_{u} (\overline{i+j})_{k} \Psi \overline{q}_{\gamma w} \Psi \sigma_{wk} \Psi q_{azi} \overline{\sigma}_{zi} \Psi q_{\gamma w} \cdot [\overline{q}_{au} \Psi (\overline{u+j})_{w}]$
+
+The index $w$ can now be deduced and transmuted to $z$ [ins]throughout[/ins] by the last aggregant, permitting $\Sigma_{z}$ to stand to the left of $\Pi_{w}$
+
+(27) $\Pi_{j} \Pi_{k} \Pi_{i} \Pi_{\gamma} \Pi_{\alpha} \Sigma_{z} \Sigma_{x} \Pi_{w} \Pi_{u} (\overline{i+j})_{k} \Psi [del](\overline{q}_{\gamma w} \Psi \sigma_{wk})\Psi q_{azi} \overline{\sigma}_{zi} \Psi q_{\gamma z} \cdot [\overline{q}_{au} \Psi (\overline{u+j})_{w}][/del]$

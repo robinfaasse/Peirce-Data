@@ -1,0 +1,7 @@
+$$(D_t x - w)^2 = \frac{x^2}{T'^2} + \frac{\Xi^2 \vartheta^2}{T'^2} + \frac{v^2}{2} - 2 v \Xi \frac{\vartheta}{T'} \sin \frac{2\vartheta}{T'} t_0$$
+
+$$[del]+ 2 \frac{x \Xi}{T'^2} \vartheta[/del]$$
+
+$$+ 4 \frac{x \Xi}{T'^2} \vartheta \cos \left[ \frac{2\vartheta}{T'} (t - t_0) \right]$$
+
+$$[del]+ 2 \frac{\Xi^2}{T'^2} \vartheta^2 \cos \frac{4\vartheta}{T'} t_0 \cos \frac{4\vartheta}{T'} t - \frac{v^2}{2} \cos \frac{4\vartheta}{T'} t + 4 \frac{\Xi}{T'} \vartheta \sin \frac{2\vartheta}{T'} t_1[/del] [ins]cos'[/ins]$$

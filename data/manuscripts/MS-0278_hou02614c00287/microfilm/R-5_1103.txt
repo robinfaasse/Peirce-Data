@@ -1,0 +1,19 @@
+[del]D[/del] [ins]D[/ins]<sub>t</sub> R = - λ<sub>R</sub> R
+[del]D<sub>t</sub> X = P<sub>x</sub> λ<sub>R</sub> X[/del]
+D<sub>t</sub> X = P<sub>x</sub> λ<sub>R</sub> R - λ<sub>x</sub> X
+D<sub>t</sub> Ɛ = P<sub>Ɛ</sub> λ<sub>x</sub> X - λ<sub>Ɛ</sub> Ɛ
+
+D<sub>t</sub> (μ R + ν X + Ɛ) = [del]λ<sub>R</sub>[/del] - μ λ<sub>R</sub> R
++ ν P<sub>x</sub> λ<sub>R</sub> R - ν λ<sub>x</sub> X
++ P<sub>Ɛ</sub> λ<sub>x</sub> X - λ<sub>Ɛ</sub> Ɛ
+
+[del]ν[/del] (ν - P<sub>Ɛ</sub>) [del]λ<sub>x</sub>[/del] [ins]λ<sub>x</sub>[/ins] / λ<sub>Ɛ</sub> = ν
+ν = P<sub>Ɛ</sub> λ<sub>x</sub> / [ins]λ<sub>x</sub> - λ<sub>Ɛ</sub>[/ins]
+ν (λ<sub>x</sub> - λ<sub>Ɛ</sub>) = P<sub>Ɛ</sub> λ<sub>x</sub>
+
+[del]μ[/del]
+(μ - ν P<sub>x</sub>) λ<sub>R</sub> / λ<sub>Ɛ</sub> = μ
+
+(μ - P<sub>x</sub> P<sub>Ɛ</sub> λ<sub>x</sub> / λ<sub>x</sub> - λ<sub>Ɛ</sub>) λ<sub>R</sub> / λ<sub>Ɛ</sub> = μ
+
+μ = P<sub>x</sub> P<sub>Ɛ</sub> λ<sub>x</sub> / λ<sub>x</sub> - λ<sub>Ɛ</sub> / 1 - λ<sub>Ɛ</sub> / λ<sub>R</sub> = P<sub>x</sub> P<sub>Ɛ</sub> λ<sub>x</sub> λ<sub>R</sub> / (λ<sub>x</sub> - λ<sub>Ɛ</sub>) (λ<sub>R</sub> - λ<sub>Ɛ</sub>)

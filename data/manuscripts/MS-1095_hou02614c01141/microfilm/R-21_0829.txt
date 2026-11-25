@@ -1,0 +1,17 @@
+Omitting, in the third and fourth equations,
+the small terms in $D_t^2 s_1$ and $D_t^2 s_2$ and
+also [del]writing[/del] [ins]substituting[/ins]
+$$D_t^2 \varphi_1 = - \frac{1}{T_1^2} \varphi_1$$
+$$D_t^2 \varphi_2 = - \frac{1}{T_2^2} \varphi_2$$
+we have
+$$- \frac{M_1 h_1}{T_1^2} \varphi_1 = \frac{- 2 p_1 s_1 + (q_1 + q_2) s_2}{p_1 p_2 - q_1 q_2}$$
+$$- \frac{M_2 h_2}{T_2^2} \varphi_2 = \frac{- 2 p_2 s_2 + (q_1 + q_2) s_1}{p_1 p_2 - q_1 q_2}$$
+
+These give
+$$s_1 = \frac{p_1 p_2 - q_1 q_2}{4 p_1 p_2 - (q_1 + q_2)^2} \left\{ 2 p_2 \frac{M_1 h_1}{T_1^2} \varphi_1 + (q_1 + q_2) \frac{M_2 h_2}{T_2^2} \varphi_2 \right\}$$
+$$s_2 = \frac{p_1 p_2 - q_1 q_2}{4 p_1 p_2 - (q_1 + q_2)^2} \left\{ 2 p_1 \frac{M_2 h_2}{T_2^2} \varphi_2 + (q_1 + q_2) \frac{M_1 h_1}{T_1^2} \varphi_1 \right\}.$$
+
+Substituting these values in the first two
+canonical equations, we have
+$$T_1^2 D_t^2 \varphi_1 + \frac{[ins]\frac{p_1 p_2 - q_1 q_2}{4 p_1 p_2 - (q_1 + q_2)^2}[/ins]}{(q_1 + q_2)} \frac{M_2 h_2}{l_2} \frac{g_2}{g_1} D_t^2 \varphi_2 = - \varphi_1$$
+$$T_2^2 D_t^2 \varphi_2 + \frac{[ins]\frac{p_1 p_2 - q_1 q_2}{4 p_1 p_2 - (q_1 + q_2)^2}[/ins]}{(q_1 + q_2)} \frac{M_1 h_1}{l_1} \frac{g_1}{g_2} D_t^2 \varphi_1 = - \varphi_2$$

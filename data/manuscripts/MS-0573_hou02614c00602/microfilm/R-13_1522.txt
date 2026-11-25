@@ -1,0 +1,27 @@
+Addition and multiplication, and
+their cognate words and algebraical signs
+are used in such senses that [u]x[/u] + [u]y[/u] means
+that either [u]x[/u] or [u]y[/u] is true (without excluding
+the possibility of both being true) and [u]xy[/u]
+means that [u]x[/u] and [u]y[/u] are both true.
+More explicitly, the meanings of the sum
+and product are summed up in the following
+propositions, which, for convenience of reference
+are lettered, A, B, C, U, V, W.
+
+[del]A. Either x is false or x+y is true.
+B. Either y is false or x+y is true.
+C. Either x+y is false or y is[/del]
+
+A. Either [u]x[/u] is false or [u]x[/u]+[u]y[/u] is true.
+B. Either [u]y[/u] is false or [u]x[/u]+[u]y[/u] is true.
+C. Either [u]x[/u]+[u]y[/u] is false or [u]x[/u] or [u]y[/u] is true.
+
+U Either [u]xy[/u] is false or [u]x[/u] is true.
+V Either [u]xy[/u] is false or [u]y[/u] is true.
+W Either [u]x[/u] is false or [u]y[/u] is false or [u]xy[/u] is [ins]true[/ins].
+
+From these definitions it follows that
+logical addition and multiplication
+follow all the rules of [del]ordinary algebra[/del] [ins]arithmetical[/ins] addition and [del]multiplication[/del] [ins]multiplication[/ins].
+These rules are as follows.

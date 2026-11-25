@@ -1,0 +1,9 @@
+[u]Theorem[/u]. [u]Similar finite [del]triangles[/del] are equiangular[/u].
+[u]Demonstration[/u]. Let the two triangles $\Delta\text{ABC}$ and $\Delta\text{A'B'C'}$ be such that
+[fig]Two triangles, ABC and A'B'C'[/fig] $\text{AB}:\text{A'B'} = \text{BC}:\text{B'C'} = \text{CA}:\text{C'A'}$.
+Then, I say, that (supposing the sides finite) [del]$\angle$[/del] $\angle\text{ABC} = \angle\text{A'B'C'}$,
+$\angle\text{BCA} = \angle\text{B'C'A'}$,
+$\angle\text{CAB} = \angle\text{C'A'B'}$.
+
+For upon $\text{A'C'}$ lay off a length $\text{A'C''} = \text{AC}$. Draw a [del]line[/del] [ins]ray[/ins] through $[\text{C''}]$ parallel to $\{\text{C'B'}\}$. Then if $[\text{B''}]$ be the point where this cuts $\{\text{A'B'}\}$, we have $\text{A'B''} = \text{AB}$, and $\text{B''C''} = \text{BC}$. But, by Theorem , if the three sides of one triangle are equal to those of another and are finite, the corresponding angles are equal. Hence $\angle\text{B'A'C'} = \angle\text{B''A'C''}$ $= \angle\text{BAC}$, and by similar reasoning $\angle\text{ABC} = \angle\text{A'B'C'}$ and $\angle\text{BCA} = \angle\text{B'C'A'}$.
+Q.E.D.

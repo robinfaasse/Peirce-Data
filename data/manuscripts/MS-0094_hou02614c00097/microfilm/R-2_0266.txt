@@ -1,0 +1,30 @@
+For let $s$ be the value of $\frac{a-e}{i-e}$; so that
+
+$$a-e = s(i-e),\quad b-f = s(k-f),\quad c-g = s(l-g);$$
+
+Then
+
+$$\frac{(a-e) + (b-f) + (c-g)}{(i-e) + (k-f) + (l-g)} = \frac{s(i-e) + s(k-f) + s(l-g)}{i-e + k-f + l-g} = s.$$
+
+We thus find that, if the notation has the property in question, the
+condition that
+
+$$[ax + by + cz + \overline{1-a-b-c}w],$$
+$$[ex + fy + gz + \overline{1-e-f-g}w],$$
+$$[ix + ky + lz + \overline{1-i-k-l}w],$$
+
+should be in one ray is
+
+$$\frac{a-e}{i-e} = \frac{b-f}{k-f} = \frac{c-g}{l-g}.$$
+
+Let us next examine the condition that [del]four[/del] [ins]three[/ins] points [del]are[/del] [ins]is[/ins] in a [ins]given[/ins] plane,
+[del]supposing the notation has the property in question.[/del] Write
+[del]$[A] = [ax + by + cz + \overline{1-a-b-c}w]$
+$[B] = [ex + fy + gz + \overline{1-e-f-g}w]$
+$[C] = [ix + ky + lz + \overline{1-i-k-l}w]$
+$[D] = [nx + py + qz + \overline{1-n-p-q}w]$.
+Then the points ought to be in a plane if
+$[D] = x[A] + y[B] + (1-x-y)[C]$
+or
+$D-C = x[A-C] + y[B-C]$.
+For this it is requisite that[/del]

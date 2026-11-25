@@ -1,0 +1,18 @@
+[u]Notes on the Calculation of the
+Orbits of double stars.[/u]
+
+1. If during a long time the distance changes very
+little, it may be assumed to vary proportionally
+to the time. Then,
+$$r = a + bt$$
+And by the law of areas
+$$D_t \varphi = \frac{c}{r^2}$$
+
+$$\varphi = c \int \frac{1}{(a+bt)^2} = - \frac{c}{ab+b^2t}$$
+or as only two independent constants are here in-
+volved we may write
+$$\varphi = \frac{1}{a+bt} \text{ or } = \frac{1}{a} + \frac{b}{a^2}t + \frac{b^2}{a^3}t^2 + \text{etc}$$
+$$\text{hence if } b \text{ is very small } \varphi = A + Bt$$
+
+If there are 3 obs.
+$$b = \frac{\varphi_1^{-1} - \varphi_2^{-1}}{t_2 - t_1} \quad a = \frac{t_2\varphi_1^{-1} - t_1\varphi_2^{-1}}{t_2 - t_1}$$

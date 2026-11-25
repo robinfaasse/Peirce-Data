@@ -1,0 +1,79 @@
+[pn]60[/pn] [pn]61[/pn]
+
+[marginalia]Sep 76[/marginalia]
+
+Given $u_{x,y} - p u_{x+1, y-1} - (1-p) u_{x-1, y+1} = 0$
+
+Assume [del]$x = \xi + k + y$[/del]
+[del]$y = \eta + k + \xi$[/del]
+
+[fig]Coordinate grid with points plotted[/fig]
+
+[del]$u_{x,y} = v_{x-y, k}$[/del]
+
+$u_{\xi,\eta} = v_{\alpha,\beta}$
+
+$\alpha = \frac{1}{2}(\xi-\eta) + \frac{1}{2}(y-x) + z$
+$\beta = \frac{1}{2}(\xi+\eta) - \frac{1}{2}(x+y) + k$
+$\xi = (\alpha+\beta) + x - z - k$
+$\eta = (\beta-\alpha) + y + z - k$
+
+$u_{x,y} = v_{\frac{1}{2}(x-y) + \frac{1}{2}(y-x) + z, \frac{1}{2}(x+y) - \frac{1}{2}(x+y) + k} = v_{z,k}$
+$u_{x+1,y-1} = v_{\frac{1}{2}(x-y)+1 - \frac{1}{2}(y-x)-1 + z, \frac{1}{2}(x+y) - \frac{1}{2}(x+y) + k} = v_{z+1,k}$
+$u_{x-1,y+1} = v_{\frac{1}{2}(x-y)-1 - \frac{1}{2}(y-x)+1 + z, \frac{1}{2}(x+y) - \frac{1}{2}(x+y) + k} = v_{z-1,k}$
+
+[del]$u_{x,y} - p u_{x+1,y-1} - (1-p) u_{x-1,y+1} = 0$[/del]
+$v_{z,k} - p v_{z+1,k} - (1-p) v_{z-1,k} = 0$
+
+[marginalia]
+$\frac{c+c'(\frac{1-p}{p})^x}{-p c + c'(\frac{1-p}{p})^{x-1}}$
+[/marginalia]
+
+$E_z - 1) \cdot E_z^2 - \frac{1}{p} E_z + \frac{1-p}{p} = 0$
+$E_z^2 - E_z$
+$E_z + (1-\frac{1}{p}) \cdot (1-\frac{1}{p})E_z + (\frac{1}{p}-1)$
+
+[marginalia]
+$\frac{-1+p}{p}$
+$1-px+(p-1)\frac{1}{x}$
+[/marginalia]
+
+$v_{z,k} = \phi k + \psi k \left(\frac{1}{p}-1\right)^z$
+
+[marginalia]
+$\frac{x+y}{2}$
+$\frac{y-p}{p}$
+$\frac{1-p}{p}$
+[/marginalia]
+
+$u_{x,y} = \phi(x+y) + \psi(x+y)\left(\frac{1}{p}-1\right)^{\frac{1}{2}(x-y)}$
+$-p u_{x+1,y-1} = -p \phi(x+y) + \psi(x+y)\left(\frac{1}{p}-1\right)^{\frac{1}{2}(x-y)-1}$
+$-(1-p) u_{x-1,y+1} = -(1-p) \phi(x+y) + \psi(x+y)\left(\frac{1}{p}-1\right)^{\frac{1}{2}(x-y)+1}$
+
+Given the form of $\psi^n x$ required $\psi^n x$
+
+Let $\psi^n x = y_n$
+$\psi^{n+1} x = y_{n+1}$
+
+$\therefore y_{n+1} = \psi y_n$
+
+Substitute its form for this and solve the equation of differences
+
+Given $y_{t} = \frac{a+bt}{c+et}$ Required $y^x t$
+
+$y_{n+1} = \frac{a+b y_n}{c+e y_n}$ and $y_0 = t$
+
+$c y_{n+1} + e y_n y_{n+1} = a + b y_n$
+
+Put $y_n = \frac{u_{n+1}}{u_n} - \frac{c}{e}$     $\frac{u_1}{u_0} - \frac{c}{e} = t$
+
+$y_{n+1} = \frac{u_{n+2}}{u_{n+1}} - \frac{c}{e}$
+
+$c \frac{u_{n+2}}{u_{n+1}} - \frac{c^2}{e} + e \frac{u_{n+2}}{u_n} - [del]e[/del] \frac{u_{n+1}}{u_n} - [del]c \frac{u_{n+2}}{u_{n+1}} + \frac{c^2}{e}[/del]$
+$= a + b \frac{u_{n+1}}{u_n} - \frac{bc}{e}$
+
+$u_{n+2} - \frac{(b+c)}{e} u_{n+1} + \left(\frac{bc}{e^2} - \frac{a}{e}\right) u_n = 0$
+
+$E^2 - \frac{(b+c)}{e} E + \frac{bc}{e^2} = \frac{a}{e}$
+$E^2 - \frac{b+c}{e} E + \frac{(b+c)^2}{4e^2} = \frac{4ae}{4e^2} + \left(\frac{b-c}{2e}\right)^2$
+$E = \frac{b+c}{2e} \pm \frac{b-c}{2e} \sqrt{1 + \frac{4ae}{(b-c)^2}}$

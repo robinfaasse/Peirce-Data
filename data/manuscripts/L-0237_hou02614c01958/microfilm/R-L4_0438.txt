@@ -1,0 +1,27 @@
+[pn]3[/pn]
+
+CSP to Mrs Franklin [date]1900[/date] Nov 9
+
+[fig]Diagram of letter a with a line attached[/fig] $\Sigma_i a_i$
+
+[fig]Diagram of letter a with a line attached, enclosed in a circle[/fig] $\overline{\Sigma_i a_i} = \Pi_i \bar{a}_i$
+
+[fig]Diagram of letters a and b connected by a line, each enclosed in a circle[/fig] $\overline{\Sigma_i a_i \cdot \Sigma_j b_j} = \Pi_i \bar{a}_i \mathbin{\Psi} \Sigma_j b_j$ ; If any [del]a exists[/del] [ins]a exists[/ins] some b exists
+
+[fig]Diagram of letters a and b connected by a line, with b enclosed in a circle and a line extending from a[/fig] $\Sigma_i \overline{a_i \cdot \overline{\Sigma_j b_j}} = \Sigma_i \bar{a}_i \mathbin{\Psi} \Sigma_j b_j$ ; If everything is [del]a[/del] [ins]something is[/ins] b
+
+[fig]Diagram of letters a and b connected by a line, with b enclosed in a circle and a line extending from a, all enclosed in a circle[/fig] $\overline{\Sigma_i a_i \cdot \overline{\Sigma_j \bar{b}_j}} = \Pi_i \bar{a}_i \mathbin{\Psi} \Pi_j b_j$ ; If any a exists, everything is b.
+
+[fig]Diagram of letters a and b connected by a line, with b enclosed in a circle and a line extending from a, with b's circle having a tail[/fig] $\Sigma_i \overline{a_i \cdot \overline{\Sigma_j \bar{b}_j}} = \Sigma_i \bar{a}_i \mathbin{\Psi} \Pi_j b_j$ ; If everything is a, everything is b
+
+[fig]Diagram of letters a and b connected by a line, with a enclosed in a circle and a line extending from b[/fig] $\Sigma_j \overline{\bar{b}_j \cdot \Sigma_i a_i} = \Pi_i \bar{a}_i \mathbin{\Psi} \Sigma_j b_j$ same as first
+
+[fig]Diagram of letters a and b connected by a line, with a enclosed in a circle and a line extending from b, all enclosed in a circle[/fig] $\Sigma_i \Sigma_j \overline{a_i \cdot \bar{b}_j} = \Sigma_i \bar{a}_i \mathbin{\Psi} \Sigma_j b_j$ same as second
+
+[fig]Diagram of letters a and b connected by a line, with b enclosed in a circle and a line extending from a, with b's circle having a tail, all enclosed in a circle[/fig] $\overline{\Sigma_i a_i \cdot \bar{b}_i} = \Pi_i \bar{a}_i \mathbin{\Psi} b_i$ Every a is b
+
+[fig]Diagram of letters a and b connected by a line, with b enclosed in a circle and a line extending from a, with b's circle having a tail, all enclosed in a circle, with a line extending from the outer circle[/fig] $\Sigma_i \overline{a_i \cdot \bar{b}_i} = \Sigma_i \bar{a}_i \mathbin{\Psi} \Sigma_j b_j$ same as above -
+
+Now a relative proposition
+
+[fig]Diagram of letters a and b connected by lines in a complex circular arrangement[/fig] $\Sigma_j \overline{\Sigma_i a_{ij} \cdot \bar{b}_{ij}} = \Sigma_j \Pi_i \bar{a}_{ij} \mathbin{\Psi} b_{ij}$ [ins]There is something that is a to whatever it is b to.[/ins]

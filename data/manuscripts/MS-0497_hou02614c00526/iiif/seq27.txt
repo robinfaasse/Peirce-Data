@@ -1,0 +1,18 @@
+(E - a) [del](x^n - 1) / (x - 1)[/del] a^x
+
+x^n / x - (x - 1)^n / (x - 1)
+
+x^n-1 (x - 1)
+
+(x - 1)^n-1 (x - 1) / x - 1
+
+(x - 1)^n / x - 1 = 1 + x + x^n-1
+
+[del](x - 1)^n / x - 1[/del] x^n-1
+
+x^n - 1 / x - 1 - x^n-1
+
+x^n-1 (x + 1)^n - 1
+
+(x + 1)^n-1 x / (x^2 - 1) - x + 1
+- x^n+1 + x [fig]figure[/fig]

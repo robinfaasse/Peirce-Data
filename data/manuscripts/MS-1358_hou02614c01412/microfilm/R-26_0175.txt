@@ -1,0 +1,48 @@
+[pn]4[/pn]
+[u]Monson's Bridge 1899 Feb 19[/u]
+
+[del]sec[/del] [ins]cos[/ins] $\vartheta_{n+s} \sin (\vartheta_{n+s} + \theta_{n+s}) + \sin \varphi_{n} = \tan \vartheta_{n+s}$
+
+$\sin (\vartheta_{n+s} + \theta_{n+s}) = \sin \vartheta_{n+s} - \sin \varphi_{n} \cos \vartheta_{n+s}$
+
+[del]$\vartheta$[/del] [ins]$\theta$[/ins] $= - \sin \vartheta_{n+s} + \theta_{n+s} \cos \vartheta_{n+s} - \frac{1}{2} \sin \vartheta_{n+s} \cdot \theta_{n+s}^2 - \frac{1}{6} \cos \vartheta_{n+s} \cdot \theta_{n+s}^3$ + etc
+
+[del]$\theta$[/del] $= \sin \vartheta_{n+s} - \varphi_{n} \cos \vartheta_{n+s} \qquad\qquad\qquad + \frac{1}{6} \cos \vartheta_{n+s} \varphi_{n}^3$
+
+[marginalia]
+$\sin$
+$\cos$
+$-\sin \frac{1}{2}$
+$-\cos \frac{1}{6}$
+$\sin$
+[/marginalia]
+
+$\underline{(\sin \theta_{n+s} + \sin \varphi_{n}) \cos \vartheta_{n+s} = (1 - \cos \theta_{n+s}) \sin \vartheta_{n+s}}$
+
+[del]$\sin \theta_{n+s} = - \sin \varphi_{n} - (1 - \cos$[/del]
+
+[del]$\sin \varphi_{n} = (1 - \cos \theta_{n+s}) \tan \vartheta_{n+s} = \sin \theta_{n+s}$[/del] $= - \sin \theta_{n+s}$
+
+[del]$\theta_{n+s} < \varphi_{n}$[/del]
+
+[fig]Diagram with letters K, E, S, R, L, S[/fig]
+
+[del]$\sin \theta$[/del] $\sin \theta_{n+s} + \cos \theta_{n+s} \cdot \tan \vartheta_{n+s}$
+$= - \sin \varphi_{n} + \tan \vartheta_{n+s}$
+
+$- \sin \theta_{n+s} = \sin \varphi_{n} - (1 - \cos \theta_{n+s}) \tan \vartheta_{n+s}$
+
+$\sin \theta_{n} + \cos \theta_{n} \tan \vartheta_{n} = \sin \varphi_{n} + \tan \vartheta_{n}$
+
+$\sin \theta_{n} = \sin \varphi_{n} + (1 - \cos \theta_{n}) \tan \vartheta_{n}$
+
+[fig]Right triangle with sides S and S(1-cos phi)[/fig] S. [fig]Angle diagram with S[/fig] [del]$\vartheta$[/del] [del]$\theta$[/del] $S - S \sec \vartheta_{n} \cos (\vartheta_{n} + \theta_{n})$
+$- S (1 - \sin \theta_{n} + \sin \theta_{n} \tan \vartheta_{n})$
+
+$\theta_{n} > \varphi_{n} \quad 1 - \cos \theta_{n} > 1 - \cos \varphi_{n}$
+
+[fig]Checkmark[/fig] $S \sec \vartheta_{n+s} \cos (\vartheta_{n+s} + \theta_{n+s}) - S$
+$S (\cos \theta_{n+s} - \sin \theta_{n+s} \cdot \tan \vartheta_{n+s} - 1)$
+
+[del]The[/del] The sign of this depends on value of $\vartheta_{n+s}$
+but it is generally $+$ when $\vartheta_{n+s} > 0$

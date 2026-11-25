@@ -1,0 +1,51 @@
+[fig]Four geometric diagrams showing triangles and a curve[/fig]
+
+$\tan A = \frac{\tan a}{\sin a} = \sec a$
+
+$A = 45^{\circ} + \alpha$
+
+$\tan A = \frac{1 + \tan \alpha}{1 - \tan \alpha}$
+
+[fig]Diagram of a right triangle with angle 45° + alpha[/fig]
+
+$1 + \tan \alpha = \sec a - \sec a \tan \alpha$
+
+$\tan \alpha (1 + \sec a) = \sec a - 1$
+
+$\tan \alpha = \frac{\sec a - 1}{\sec a + 1} = \frac{1 - \cos a}{1 + \cos a}$
+
+[fig]Diagram of a square with diagonal and labels[/fig]
+
+$\frac{\frac{1}{2} a^{2}}{1 - \frac{1}{2} a^{2}}$
+
+$\frac{\frac{1}{2} a^{2}}{2 - a^{2}}$
+
+$\cos c = \cos^{2} a$
+$= 1 - \sin^{2} a$
+
+$\cos^{2} a \cos^{2} a = 1 - 2 \sin^{2} a + \sin^{4} a$
+$\sin^{2} c = 1 - \cos^{4} a = 2 \sin^{2} a - \sin^{4} a$
+$\sin c = \sqrt{1 - \cos^{4} a} = \sin a \sqrt{2 - \sin^{2} a}$
+
+$\cos b = \cos^{3} a + \sin^{2} a \sqrt{2 - \sin^{2} a} \cos (45^{\circ} - \alpha)$
+
+$\sin c = \sin a \sqrt{2 - \sin^{2} a}$
+
+$= \cos^{3} a + (1 - \cos^{2} a) \sqrt{1 + \cos^{2} a} \frac{\cos \alpha + \sin \alpha}{\sqrt{2}}$
+$= \cos^{3} a + 1 - \cos^{2} a$
+
+$\tan^{2} \alpha = \frac{1 - 2 \cos a + \cos^{2} a}{1 + 2 \cos a + \cos^{2} a} = \frac{2 - \sin^{2} a - 2 \cos a}{2 - \sin^{2} a + 2 \cos a}$
+
+$\sec^{2} \alpha = 1 + \tan^{2} \alpha = \frac{2 [del]4[/del] - \sin^{2} a}{1 + \cos a - \frac{1}{2} \sin^{2} a}$
+$= \frac{1 - \cos a - \frac{1}{2} \sin^{2} a}{1 + \cos a - \frac{1}{2} \sin^{2} a}$
+
+$\frac{2 \cos^{2} a}{1 + \cos a - 2 \cos a}$
+$= \frac{1 + \cos^{2} a}{\frac{1}{2} + \frac{1}{2} \cos^{2} a + \cos a} = 2 \frac{1 + \cos^{2} a}{(1 + \cos a)^{2}}$
+
+$\cos \alpha = \frac{1}{\sqrt{2}} \frac{1 + \cos a}{\sqrt{1 + \cos^{2} a}}$
+
+$\sin \alpha = \sqrt{1 - \frac{1}{2} \frac{(1 + \cos a)^{2}}{1 + \cos^{2} a}} = \sqrt{\frac{1 + \cos^{2} a - \frac{1}{2} (1 + \cos a)^{2}}{1 + \cos^{2} a}}$
+
+$\sin \alpha = \sqrt{\frac{1}{2} \frac{1 - \cos a}{1 + \cos^{2} a}}$
+$= \sqrt{\frac{(1 - \cos a)^{2}}{2 (1 + \cos^{2} a)}}$
+$= \sqrt{\frac{1 + \cos^{2} a - 2 \cos a}{2 (1 + \cos^{2} a)}}$

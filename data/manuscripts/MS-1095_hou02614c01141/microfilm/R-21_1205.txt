@@ -1,0 +1,6 @@
+$$\sin(\alpha+\beta)\sin(\alpha-\beta) = \frac{1}{32} \chi_1 \frac{(s+q) [del]\{(s-q)^2\}[/del] \{(s+\chi_1)-(q+\chi_1)\}\{(s-\chi_1)-(q-\chi_1)\}}{(s+\chi_1)(s-\chi_1)(q+\chi_1)(q-\chi_1)}$$
+
+$$= \frac{1}{32} \chi_1 (s+q) \left\{ \frac{1}{q^2-\chi_1^2} + \frac{1}{s^2-\chi_1^2} - \frac{1}{(s-\chi_1)(q+\chi_1)} - \frac{1}{(s+\chi_1)(q-\chi_1)} \right\}$$
+
+$$= \frac{1}{32} \chi_1 \left\{ \frac{s}{q^2-\chi_1^2} + \frac{q}{s^2-\chi_1^2} + \frac{q}{q^2-\chi_1^2} + \frac{s}{s^2-\chi_1^2} \right.$$
+$$\left. - \frac{1}{q+\chi_1} - \frac{1}{s-\chi_1} - \frac{1}{s+\chi_1} - \frac{1}{q-\chi_1} \right\}$$

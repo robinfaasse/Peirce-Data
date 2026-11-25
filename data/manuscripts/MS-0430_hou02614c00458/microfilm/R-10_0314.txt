@@ -1,0 +1,27 @@
+[pn]Logic
+11
+95[/pn]
+
+(91) then, by C (69), either [u]x[/u] or [del]y[/del] [ins][u]y[/u][/ins] is scriptible, which by
+B (68), if [u]y[/u] is scriptible, so is [u]x[/u][u]y[/u].
+
+[u]Theorem V[/u]. Any term, [u]x[/u], is equivalent to [del][u]x[/u][/del] [ins][u]v[/u][u]x[/u][/ins].
+
+[u]Demonstration[/u]. For, by B (68), if [u]x[/u] is scriptible, so is [u]v[/u][u]x[/u]
+and by E (71), if [u]v[/u][u]x[/u] is scriptible, so is [u]x[/u]. To complete the
+demonstration of this as well as of several previous propositions
+I ought to show that if [u]u[/u] [del]is[/del] [ins]and[/ins] [u]v[/u] [del]and [u]v[/u][u]x[/u][/del], then either [del]a[/del] [ins]letter[/ins] [del]or [u]y[/u][/del]
+may replace the other in any situation. But it will be con-
+venient to defer this.
+
+(92) [u]Theorem VI[/u]. The [u]formula of identity[/u], [u]x[/u][u]x[/u] is scriptible.
+
+[u]Demonstration[/u]. For, putting [u]x[/u] for [u]y[/u], by A (67), either [u]x[/u]
+is scriptible or [u]x[/u][u]x[/u] is scriptible, and by B (70), if [u]x[/u] is
+scriptible [u]x[/u][u]x[/u] is scriptible.
+
+(93) [u]Theorem VII[/u]. If [u]x[/u] is scriptible, and [u]x[/u][u]x[/u] and [u]x[/u][u]x[/u]...
+[u]x[/u]...[u]x[/u] are all scriptible so is [u]x[/u].
+
+[u]Demonstration[/u]. For if [u]x[/u] is scriptible [ins]applicable to [u]x[/u][/ins] so is either [u]x[/u] or [u]x[/u],
+and by D (70), so is [u]x[/u]. The same thing also follows from E (71).

@@ -1,0 +1,23 @@
+[pn]17[/pn]
+
+$\cos(A+B) + \sin(A+B)\mathbf{j}$
+
+$= (\cos A + \sin A\mathbf{j})(\cos B + \sin B\mathbf{j})$
+
+$= \cos A\cos B - \sin A\sin B$
+$+ (\cos A\sin B + \sin A\cos B)\mathbf{j}$
+
+$(\cos A + \sin A\mathbf{i})(\cos B + \sin B\mathbf{j})$
+
+$= \cos A\cos B + \sin A\cos B\mathbf{i}$
+$+ \cos A\sin B\mathbf{j} + \sin A\sin B\mathbf{k}$
+
+$\cos C = \cos A\cos B$
+
+[del]$\sin C = \sin A\cos B +$[/del]
+
+***
+
+[fig]Coordinate axes with unit vectors i, j, k and a spherical triangle diagram[/fig]
+
+$\mathbf{x}(\mathbf{i} + \mathbf{j}) + \mathbf{z} = \mathbf{y}(\cos\beta\mathbf{i} + \sin\beta\mathbf{j}) + \mathbf{k}\mathbf{j} + \mathbf{j}$

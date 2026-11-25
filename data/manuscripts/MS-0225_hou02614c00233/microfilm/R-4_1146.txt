@@ -1,0 +1,33 @@
+[pn]IV[/pn]
+
+To draw the [ins]of a given order[/ins] best algebraic curve [del]through[/del] [ins]any[/ins]
+number of points
+
+Let $e_i$ = error $n$ = number of points given.
+
+Then $y_i + e_i = A + B x_i + C x_i^2$
+
+$e_i = - y_i + A + B x_i + C x_i^2$
+
+The condition is that sum of squares of $e_i$ must
+be minimum or $D_A \Sigma e_i^2 = 0$ $D_B \Sigma e_i^2 = 0$ $D_C \Sigma e_i^2 = 0$
+
+$D \Sigma e_i^2 = \Sigma D e_i^2 = \Sigma 2 e_i D e_i = 2 \Sigma e_i D e_i = 0$
+
+$D_A e_i = D_B e_i = x_i$ $D_C e_i = x_i^2$
+
+Hence our equations are
+
+$\Sigma e_i = - \Sigma y + A n + B \Sigma x + C \Sigma x^2 = 0$
+
+$- \Sigma x y + A \Sigma x + B \Sigma x^2 + C \Sigma x^3 = 0$
+
+$- \Sigma x^2 y + A \Sigma x^2 + B \Sigma x^3 + C \Sigma x^4 = 0$
+
+These give
+
+$A = \frac{((\Sigma x^3)^2 - \Sigma x^2 \Sigma x^4) \Sigma y + (\Sigma x \Sigma x^4 - \Sigma x^2 \Sigma x^3) \Sigma x y + ((\Sigma x^2)^2 - \Sigma x \Sigma x^3) \Sigma x^2 y}{((\Sigma x^2)^2 - \Sigma x \Sigma x^3) \Sigma x^2 + (n \Sigma x^4 - \Sigma x \Sigma x^3) \Sigma x^2 + ((\Sigma x^2)^2 - n \Sigma x^4) \Sigma x^4}$
+
+$B = \frac{(\Sigma x \Sigma x^4 - \Sigma x^2 \Sigma x^3) \Sigma y + ((\Sigma x^2)^2 - n \Sigma x^4) \Sigma x y + (n \Sigma x^3 - \Sigma x \Sigma x^2) \Sigma x^2 y}{\text{Same denominator}}$
+
+$C = \frac{\Sigma y - (A n + B \Sigma x)}{\Sigma x^2}$

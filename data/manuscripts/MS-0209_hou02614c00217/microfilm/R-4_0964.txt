@@ -1,0 +1,27 @@
+[pn]15[/pn]
+
+velopment of the powers of a binomial. If we imagine any coefficient
+of this triangle to have its value changed, — say, for instance, by an
+error of calculation, — this will effect all the coefficients in sub-
+sequent columns that are not more distant from it in horizontal lines
+than in columns; and the effect will follow the simple law [ins]of spreading[/ins] [del]that[/del] [ins]that[/ins] every
+change extends to the line above and the line below in the next fol-
+lowing column. Now when the winners leave the table, this is equi-
+valent to changing all the coefficients of the line "Having won 1"
+to zero. We need not inquire how coefficients in higher lines
+will be affected because they can [del]can[/del] only affect the lower ones (which
+are the only coefficients which have any meaning in our problem)
+through their effect on the coefficients of the line "Having won 1."
+We have then to subtract from the coefficients of that line the series
+of values, 1, 3, 10, 35, etc. and from all other coefficients the amounts
+which result from the law of spreading. But cannot we replace this
+complicated statement by another which shall [del]rep[/del] explain all the
+changes by spreading from the change of a single coefficient? We
+can do so provided we can find a coefficient fulfilling the following
+two conditions, first, some possible change in it must produce the series
+of changes -1, -3, -10, -35, etc in line "Having won 1", and second it must
+affect no coefficients below that line except by affecting those of that
+line. These conditions are obviously fulfilled by the coefficient of the
+column "After the 0th bet" and the line "Having won 2". This coeffi-
+cient, whose value is now 0, being changed to -1 has the required
+effect precisely. Hence, it follows that, when the winners go out,

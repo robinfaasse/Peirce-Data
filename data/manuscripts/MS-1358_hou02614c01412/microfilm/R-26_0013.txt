@@ -1,0 +1,61 @@
+[fig]Diagram of a hanging chain or catenary[/fig] [fig]Diagram of a hanging chain with weights[/fig]
+
+<u>Catenary</u>
+
+Let $p_0$ $p_1$ $p_2$..
+be the pulls along string
+$\phi$ $\chi$ $\psi$ inclinations to horizon
+$m$ $n$ the weights
+
+$-p_0 \sin \phi + p_1 \sin \chi = m$
+$-p_1 \sin \chi + p_2 \sin \psi = n$
+
+$p_0 \cos \phi = p_1 \cos \chi = p_2 \cos \psi$
+
+$-\tan \phi \cos \chi + \sin \chi = \frac{m}{p_1}$
+$-\sin \chi + \tan \psi \cos \chi = \frac{n}{p_1}$
+
+[del]$\tan \chi$[/del]
+$\tan \phi = \tan \chi - \frac{m}{p_1 \cos \chi}$
+$\tan \psi = \tan \chi + \frac{n}{p_1 \cos \chi}$
+
+$\tan \phi - 2 \tan \chi + \tan \psi = 0$
+
+$\frac{d^2}{ds} \tan \chi = 0$
+
+[fig]Diagram of a hanging chain[/fig] $C_0 + C_1$
+
+[fig]Diagram of a hanging chain[/fig]
+
+[fig]Diagram of a hanging chain[/fig]
+
+[fig]Diagram of a hanging chain[/fig]
+
+$\begin{matrix}
+x_0 & x_1 & x_2 & x_3 \\
+y_0 & y_1 & y_2 & y_3
+\end{matrix}$
+
+$m y_1 + n y_2 + k (\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} - [del]L[/del] [ins]M[/ins]$
+
+$m + \frac{k (\sqrt{\quad} - L)}{\sqrt{\quad}} y_1 = 0$
+
+$n + 2 \frac{k (\sqrt{\quad} - L)}{\sqrt{\quad}} y_2 = 0$
+
+$(m - 2 k y_1) \sqrt{\quad} = - 2 k L y_1$
+$(n + 2 k y_2) \sqrt{\quad} = 2 k L y_2$
+
+$(x_1-x_0)^2 + (y_1-y_0)^2 = L^2$
+$(x_3-x_2)^2 + (y_3-y_2)^2 = N^2$
+
+[del]$\frac{2(x_1-x_0)}{2(x_1-x_0)}$[/del]
+
+[fig]Diagram of a hanging chain[/fig]
+
+[del]$\cos \phi_{n+1}$[/del] $\frac{dx}{dy} = \frac{\cos \phi_{n+1}}{\sin \phi_{n+1}}$
+
+[del]$\sin \phi_n \cdot d\phi_n \cdot \cos \phi_n$[/del] $+ d\phi_n \sin \phi_n + \frac{\sin \phi_{n+1}}{\cos \phi_{n+1}}$
+
+$\frac{\sin \phi_n}{\sin \phi'_n} = \frac{\cos \phi_n + \cos \phi_{n+1}}{\cos \phi'_n + \cos \phi'_{n+1}} = \frac{\sin \phi_n + \sin \phi_{n+1}}{\sin \phi'_n + \sin \phi'_{n+1}}$
+
+[del]$d\phi_n \cos \phi_n = - d\phi'_n \sin \phi'_n + d\phi_{n+1} \tan \phi_{n+1} \cos \phi_n + d\phi_n \sin \phi_n$[/del]

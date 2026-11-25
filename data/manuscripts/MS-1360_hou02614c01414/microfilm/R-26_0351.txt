@@ -1,0 +1,22 @@
+§ . Suppose a cord to be in equilibrium and that
+an additional load is put upon it. Required the effect upon
+the maximum tension and the deformation.
+
+Let $W$ be the weight of the additional load and
+[del]$\Xi$[/del] [ins]$\Xi$[/ins] the value of $x$ for its centre of gravity.
+
+Then the value of $x$ for the centre of gravity of the whole com-
+bination is
+$$\frac{\omega_N \xi_N + W \Xi}{\omega_N + W}$$
+and no reactions can alter this. Before this load was
+put on $\omega_H$ had been
+$$\omega_H = \omega_N \frac{x_N - \xi_N}{x_N}$$
+
+After the additional loading, it [del]was[/del] becomes
+$$\omega_H + \delta \omega_H = (\omega_N + W) \frac{x_N - \frac{\omega_N \xi_N + W \Xi}{\omega_N + W}}{x_N}$$
+$$= \omega_N + W - \omega_N \frac{\xi_N}{x_N} - W \frac{\Xi}{x_N}$$
+$$= \omega_N \left(1 - \frac{\xi_N}{x_N}\right) + W \left(1 - \frac{\Xi}{x_N}\right)$$
+
+That is
+$$\delta \omega_H = W \left(1 - \frac{\Xi}{x_N}\right)$$
+$$\delta \omega'_H = W \frac{\Xi}{x_N} .$$

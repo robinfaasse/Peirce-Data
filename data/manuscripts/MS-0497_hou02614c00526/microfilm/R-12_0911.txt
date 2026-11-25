@@ -1,0 +1,58 @@
+[pn]P. 22[/pn]
+
+[pn]$\phi n$[/pn]
+$a \equiv 1 \pmod{n}$
+
+[del]36[/del]
+$3, 9, 27, 81$
+
+$\frac{n^4 = }{(n+1)^4 = n^4 + 4n^3 + 6n^2 + 4n + 1}$
+
+[fig]Table of numbers in columns[/fig]
+$\begin{array}{c}
+1 \\
+16 \\
+81 \\
+36 \\
+25 \\
+36 \\
+81 \\
+6 \\
+\end{array}$
+
+$\begin{array}{cccccccc}
+ & & & & & 8 & 81 & 1 \\
+ & & & & 8 & 7 & 9 & 6 \\
+ & & & 6 & 9 & 9 & 3 & 1 \\
+ & & 7 & 4 & 6 & 3 & 2 & 6 \\
+ & 7 & 7 & 7 & 7 & 7 & 7 & 8 \\
+ & 6 & 6 & 6 & 6 & 6 & 6 & 6 \\
+ & 4 & 4 & 4 & 4 & 4 & 4 & 4 \\
+1 & 3 & 9 & 7 & 1 & 3 & 9 & 1 \\
+7 & 2 & 4 & 8 & 6 & 2 & 4 & 8 \\
+\end{array}$
+
+***
+
+[pn]P. 21[/pn]
+
+select any [del]set[/del] [ins]pair[/ins] of
+pairs
+So long as [del]a[/del]
+Every lawyer is [del]a thief[/del] [ins]honest[/ins]
+and Every second is
+a doctor
+
+[fig]Table of numbers with lines connecting them[/fig]
+$\begin{array}{c}
+1 - 3 \\
+2 - 6 \\
+3 - 9 \\
+4 - 2 \\
+5 - 5 \\
+6 - 8 \\
+7 - 1 \\
+8 - 4 \\
+9 - 7 \\
+0 - 0 \\
+\end{array}$

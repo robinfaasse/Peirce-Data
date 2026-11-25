@@ -1,0 +1,33 @@
+[u]Logic of Quantity[/u]
+
+But by the definition of relative multiplication
+
+(5) $(\gamma_{i} \gamma_{j})_{rs'} = \Sigma_{r'} \gamma_{irr'} \gamma_{jr's'}$
+
+Now multiplying in the square of (3), and identifying $f$ and $g$ with $e'$, we get, again using (5)
+
+$\Pi_{e} \Pi_{f'} \Pi_{g'} \Pi_{s'} \Sigma_{r} [(\gamma_{i} \gamma_{j})_{ef'} + (\gamma_{i} \gamma_{j})_{eg'} + l_{f'g'}] \cdot [\bar{q}_{rs'} + q_{lr'} (\gamma_{i} \gamma_{j})_{rs'}]$.
+
+Writing
+
+(6) $\gamma_{(ij)} = (\gamma_{i} \gamma_{j})$
+
+and multiplying by (2) and (4) with obvious identifications, we get
+
+$s_{(ij)mn}$. Q.E.D.
+
+[u]Art. 2[/u]. [u]Definition 2[/u]. If of [del]any[/del] two collections, the one, $m$ is included in the other, $n$, that is, if
+
+$\Pi_{u} \bar{q}_{mu} + q_{nu}$,
+
+but if [del]the latter[/del] $n$ is not included in $m$, or
+
+$\Sigma_{u} q_{nu} \cdot \bar{q}_{mu}$,
+
+Then, and only then, $m$ is said to form a part of $n$, as a whole, and we may write $w_{nm}$.
+
+[u]Theorem 2[/u]. Every [del]whole[/del] collection proceeds from every collection it includes.
+
+[u]Demonstration[/u]. Suppose $\Pi_{u} (\bar{q}_{mu} + q_{nu})$. Then, I say that $s_{inm}$
+
+For multiply the hypothesis by (2) and (4), and identify $i$ with $l$

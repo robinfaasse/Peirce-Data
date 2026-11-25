@@ -1,0 +1,53 @@
+Fractions having Denominators less than 80, from [del]39[/del]/79 to 41/79
+
+[del]39[/del]/79 = .49367 633
+[del]39/79 + 1/1000 = .50000 633[/del]
+40/79 = .50633
+20/39 = .50649  16
+21/41 = .50667  18
+22/43 = .50685  18
+23/45 = .50704  19
+24/47 = .50725  21
+25/49 = .50746  21
+26/51 = .50769  23
+27/53 = .50794  25
+28/55 = .50820  26
+29/57 = .50847  27
+30/59 = .50877  30
+31/61 = .50909  32
+32/63 = .50943  35
+33/65 = .50980  37
+34/67 = .51020  40
+35/69 = .51064  44
+36/71 = .51111  47
+37/73 = .51163  52
+38/75 = .51219  56
+39/77 = .51282  63
+20/39 = 40/78 = .51282  34
+39/76 = .51316  35
+19/37 = 38/74 = .51351  38
+37/72 = .51389  40
+18/35 = 36/70 = .51429  42
+35/68 = .51471  44
+17/33 = 34/66 = .51515  47
+33/64 = .51562  51
+16/31 = 32/62 = .51613  54
+31/60 = .51667  57
+15/29 = 30/58 = .51724  62
+29/56 = .51786  66
+14/27 = 28/54 = .51852  47
+41/79 = .51899
+
+The thirty-nine fractions which lie between any two successive seventy-ninths are here all equal; so that their differences must sum up to .01266 = 1/79.
+
+The first fractions all belong to the form x / 2x-1
+
+The formula [u]Δy[/u] = K / 79(N-K)
+gives when N = 79  [u]Δy[/u] = 1/2 / 79(79-[del]79[/del]) = .000164
+and when N = 41  [u]Δy[/u] = 1.2 / 79(41-2) = .000649
+
+The remaining fractions belong to the form x+1 / 2x and when N = 78
+[u]Δy[/u] = 1.2 / 79(78-2) = .000333
+when N = 54  [u]Δy[/u] = 3/2 · 2 / 79(54-2) = .000730
+
+The formula is only approximate; but the agreement is good.

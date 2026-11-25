@@ -1,0 +1,23 @@
+But since $X_1$ cannot be infinite at infinity
+this is
+$$X_1 = e^{-\sqrt{\frac{n}{2\mu'}} \cdot r} (C_1 \sin \sqrt{\frac{n}{2\mu'}} \cdot r + C_2 \cos \sqrt{\frac{n}{2\mu'}} \cdot r)$$
+
+[del]Further for $r=R$ $X_1 = -c$, we have[/del]
+
+[del]$e^{-\sqrt{\frac{n}{2\mu'}} r}$[/del]
+
+and $D_r X_1 = -\sqrt{\frac{n}{2\mu'}} e^{-\sqrt{\frac{n}{2\mu'}} r} (C_1 \sin + C_2 \cos)$
+$$+ \sqrt{\frac{n}{2\mu'}} e^{-\sqrt{\frac{n}{2\mu'}} r} (C_1 \cos - C_2 \sin)$$
+
+$D_r^2 X_1 = [del]\frac{n}{2\mu} e^{-\sqrt{\frac{n}{2\mu'}} r} (C_1 \sin + C_2 \cos)[/del]$
+$$- \frac{n}{\mu'} e^{-\sqrt{\frac{n}{2\mu'}} r} (C_1 \cos - C_2 \sin)$$
+
+$$X_2 = e^{-\sqrt{\frac{n}{2\mu'}} \cdot r} (C_1 \cos \sqrt{\frac{n}{2\mu'}} \cdot r - C_2 \sin \sqrt{\frac{n}{2\mu'}} \cdot r)$$
+
+When $r=R$ $X_2 = 0$
+$$C_1 = C_2 \tan \sqrt{\frac{n}{2\mu'}} R$$
+
+$$X_1 = C_2 e^{-\sqrt{\frac{n}{2\mu'}} \cdot r} \frac{\cos \sqrt{\frac{n}{2\mu'}} (r-R)}{\cos \sqrt{\frac{n}{2\mu'}} R}$$
+
+but when $r=R$ $X_1 = -c$
+$$C_2 = -c \cos \sqrt{\frac{n}{2\mu'}} R \ e^{+\sqrt{\frac{n}{2\mu'}} R}$$

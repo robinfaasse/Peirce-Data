@@ -1,0 +1,42 @@
+$$ [ (l + \breve{l}) \cdot l \bar{\breve{l}} ] [ (l + \bar{\breve{l}}) \cdot l \breve{l} ] $$
+
+[del] $$(l + \breve{l}) \cdot l \bar{\breve{l}}$$ [/del]
+
+$$ u = (l + \breve{l}) \cdot l \bar{\breve{l}} $$
+$$ \bar{u} = \bar{l} \bar{\breve{l}} + (\bar{l} + \breve{l}) $$
+$$ \breve{u} = l \breve{l} + (l + \bar{\breve{l}}) $$
+
+$$ u \breve{u} = [ (l + \breve{l}) \cdot l \bar{\breve{l}} ] [ l \breve{l} + (l + \bar{\breve{l}}) ] $$
+$$ = [ (l + \breve{l}) \cdot l \bar{\breve{l}} ] l \breve{l} + [ (l + \breve{l}) \cdot l \bar{\breve{l}} ] (l + \bar{\breve{l}}) $$
+$$ \propto l \bar{\breve{l}} \cdot l \breve{l} + (l + \breve{l}) \cdot l \bar{\breve{l}} $$
+$$ \propto l \bar{\breve{l}} $$
+
+$$ u + \breve{u} = [ (l + \breve{l}) \cdot l \bar{\breve{l}} ] + [ l \breve{l} + (l + \bar{\breve{l}}) ] $$
+$$ = \{ l + \breve{l} + [ l \breve{l} + (l + \bar{\breve{l}}) ] \} \cdot \{ l \bar{\breve{l}} + [ l \breve{l} + (l + \bar{\breve{l}}) ] \} $$
+$$ \succ \{ (l + \breve{l} + l \breve{l}) + (l + \bar{\breve{l}} + l + \bar{\breve{l}}) \} \cdot \{ (l \bar{\breve{l}} + l \breve{l}) + (l \bar{\breve{l}} + l + \bar{\breve{l}}) \} $$
+
+[marginalia]
+$$ (a + b) c \propto a c + b c $$
+$$ (a + c) + (b + c) \propto (a + b) + c $$
+[/marginalia]
+
+$$ \sum_k \Pi_y (l_{iy} + \bar{l}_{jy}) \cdot (l_{ix} \cdot \bar{l}_{jx}) $$
+[del] $$ \sum_u \Pi_v (l_{jv} + \bar{l}_{kv}) \cdot (l_{ju} \cdot \bar{l}_{ku}) $$ [/del]
+$$ \sum_u \Pi_u \{ \bar{l}_{kv} \cdot l_{jv} + (\bar{l}_{ku} + l_{ju}) \} $$
+
+$$ l_{ix} \cdot ( \bar{l}_{iy} l_{ix} + \bar{l}_{iy} \bar{l}_{ix} $$
+
+[marginalia]
+$$ a + b $$
+$$ a + c $$
+$$ a + b c $$
+[/marginalia]
+
+$$ \sum_i ( \sum_x [del] \sum_v [/del] \Pi_u \Pi_y ) (l_{iy} + \bar{l}_{jy}) \bar{l}_{ix} \bar{l}_{jx} \cdot (l_{ju} + l_{jv} + \bar{l}_{ku}) \cdot (l_{ju} + \bar{l}_{ku} + \bar{l}_{kv}) $$
+
+[marginalia]
+not by anything
+[/marginalia]
+
+[fig] Venn diagram with three overlapping circles and shaded regions [/fig]
+[fig] Venn diagram with two overlapping circles and shaded regions [/fig]

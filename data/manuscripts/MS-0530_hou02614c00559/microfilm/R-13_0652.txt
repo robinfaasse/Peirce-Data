@@ -1,0 +1,16 @@
+[marginalia]
+Notation
+16
+[/marginalia]
+
+or what is the same thing (because of the quadratic $x^2 = x$, $y^2 = y$ etc)
+$\frac{1}{4} (x+y)^2 + \frac{3}{4} (x-y)^2$.
+
+It ought to have been obvious that the new operation was not addition, if the quadratic equation was retained. For that reason, I proposed the transformation of $x, y,$ etc. Boole's quantities into $\xi, \eta,$ etc., new quantities having the same logical signification, by means of the equations
+$x = 1 - e^{-\xi}$, $y = 1 - e^{-\eta}$, etc.
+
+But that [del]proceeding[/del] [ins]only[/ins] made it still clearer that the connection of multiplication and addition with the logical modes of conjunction was an accidental one. It would always remain that there was an infinite variety of other functions equally corresponding to the logical conjunctions, and their calling $Fxy$ any such function representing composition, and calling $\Phi xy$ any such function representing aggregation, it would always be true that
+$Fxx = x$     $\Phi xx = x$
+$Fxy = Fyx$     $\Phi xy = \Phi yx$
+$Fx, \Phi yz = \Phi (Fxy), (Fxz)$
+$\Phi x, Fyz = F(\Phi xy), (\Phi xz)$ etc. etc.

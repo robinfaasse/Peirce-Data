@@ -1,0 +1,18 @@
+Let $\rho$ stand for $\cos r$ etc
+$\overline{\rho}$ " $\sin r$ etc
+
+[fig]figure[/fig] $h = r_2 + r_4$
+$k = r_1 + r_3$
+
+$\gamma_1 = \rho_1 \rho_2 - \overline{\rho}_1 \overline{\rho}_2 \Gamma$ $\gamma_2 = \rho_2 \rho_3 + \overline{\rho}_2 \overline{\rho}_3 \Gamma$
+$\gamma_3 = \rho_3 \rho_4 - \overline{\rho}_3 \overline{\rho}_4 \Gamma$ $\gamma_4 = \rho_4 \rho_1 + \overline{\rho}_4 \overline{\rho}_1 \Gamma$
+[del]$\bar{\kappa} = \overline{\rho}_1 \rho_2 + \rho_1 \overline{\rho}_2$[/del] [del]$\bar{\eta} = \overline{\rho}_2 \rho_4 + \rho_2 \overline{\rho}_4$[/del]
+$\kappa = \rho_1 \rho_3 - \rho_2 \rho_3$ $\eta = \rho_2 \rho_4 - \rho_2 \rho_4$
+
+[u]$\overline{\gamma}_1 = \sqrt{1 - \rho_1^2 \rho_2^2 + \overline{\rho}_1^2 \overline{\rho}_2^2 \Gamma^2 + 2 \rho_1 \overline{\rho}_1 \rho_2 \overline{\rho}_2 \Gamma}$[/u]
+
+[u]$\overline{\gamma}_3 = \sqrt{1 - \rho_3 \rho_4 - \overline{\rho}_3 \overline{\rho}_4 \Gamma^2 + 2 \rho_3 \overline{\rho}_3 \rho_4 \overline{\rho}_4 \Gamma}$[/u]
+
+[del]$\overline{\gamma}_1 \overline{\gamma}_3 = \sqrt{1 - \rho_1^2 \rho_2^2} -$[/del] But $\overline{\rho}^2 = 1 - \rho^2$ $\therefore \overline{\rho}_1^2 \overline{\rho}_2^2$
+$\overline{\gamma}_1^2 = 1 - \rho_1^2 \rho_2^2 - \Gamma^2 + \rho_1^2 \Gamma^2 + \rho_2^2 \Gamma^2$ $= (1 - \rho_1^2)(1 - \rho_2^2)$
+$= 1 - \rho_1^2 - \rho_2^2 + \rho_1^2 \rho_2^2$

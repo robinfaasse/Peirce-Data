@@ -1,0 +1,96 @@
+[marginalia]
+[del]27[/del]
+[del].0012[/del]
+324 .000324
+
+.27
+8) 3.7037
+.463
+2315
+.6945 [del]$\Delta T_d$[/del]
+77
+.0755 [del]$T_d$[/del]
+
+.0000245
+82
+1 + 2
+.0000327
+[/marginalia]
+
+$$M \Delta h = m (h_u + x) \qquad x = \frac{M}{m} \Delta h - h_u$$
+
+$$\frac{g}{\partial^2} T_d^2 = \frac{M \gamma^2 + M h_d^2 + m (h_d + h_u + x)^2}{M h_d + m (h_d + h_u + x)}$$
+
+[marginalia]
+$x^2 = \frac{3}{16}$
+$x = \frac{\sqrt{3}}{4}$
+[/marginalia]
+
+$$\frac{\Delta T_d}{T_d} = \frac{1 + \frac{m}{M} \frac{(l+x)^2}{l h_d}}{1 + \frac{m}{M} \frac{l+x}{h_d}}$$
+
+[marginalia]
+$x - \frac{3}{16} \frac{1}{x}$
+$1 + \frac{3}{16} \frac{1}{x^2} = 0$
+$\frac{9}{16} - \frac{3}{16} = \frac{2}{16}$
+$\frac{7}{16} - \frac{3}{7} = $
+[del]$\frac{49}{16}$[/del] $\frac{3}{16}$
+[/marginalia]
+
+[fig]Graph with curves[/fig]
+
+$$\frac{\Delta T_d}{T_d} = [del]\frac{1}{2}[/del] \frac{m}{M} \left( \frac{(l+x)^2}{l h_d} \right)$$
+
+$$= [del]\frac{1}{2}[/del] \frac{m}{M} \frac{\left(h_d + \frac{M}{m} \Delta h\right) \left(\frac{M}{m} \Delta h - h_u\right)}{(h_d + h_u) h_d}$$
+
+[marginalia]
+.0212
+[/marginalia]
+
+$$= \frac{1}{2} \frac{m}{M} \frac{\frac{M^2}{m^2} (\Delta h)^2 + (h_d - h_u) \frac{M}{m} \Delta h - h_d h_u}{h_d (h_d + h_u)}$$
+
+[marginalia]
+$\frac{M}{m} \Delta h = .2712$
+$\frac{M}{m} = \frac{.2712}{.00032}$
+$\frac{m}{M} = .00118$
+5
+12
+.00005 =
+104
+[/marginalia]
+
+$$= [del]\frac{1}{2}[/del] \frac{\frac{M}{m} (\Delta h)^2 + (h_d - h_u) \Delta h - h_d h_u \frac{m}{M}}{2 h_d (h_d + h_u)}$$
+
+$$= \frac{\frac{M}{m} (\Delta h)^2 + \frac{1}{2} \Delta h - \frac{3}{16} \frac{m}{M}}{\frac{3}{4}}$$
+
+[marginalia]
+383
+1915
+.0366
+1775
+.2141
+
+.0000375
+.000032
+.4627
+[del].463[/del] $x = \pm .1915$
+[/marginalia]
+
+$$= \frac{4}{3} \frac{m}{M} \left( \left(\frac{\Delta h M}{m}\right)^2 + \frac{1}{2} \frac{\Delta h M}{m} - \frac{3}{16} \right)$$
+
+$$= \frac{4}{3} \Delta h \left( \frac{M}{m} \Delta h + \frac{1}{2} - \frac{3}{16} \frac{m}{M \Delta h} \right)$$
+
+[marginalia]
+$\Delta h$
+3
+125
+625
+1775
+[/marginalia]
+
+$$x + \frac{1}{2} - \frac{3}{16} \frac{1}{x}$$
+
+$$x + \frac{3}{16} \frac{1}{x} = -.383$$
+
+$$.117 =$$
+$$x = \left\{ \begin{array}{l} .2712 \\ .6542 \end{array} \right.$$
+$$x^2 + .383 x = + .1775$$

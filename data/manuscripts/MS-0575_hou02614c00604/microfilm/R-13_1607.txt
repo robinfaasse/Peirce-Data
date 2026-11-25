@@ -1,0 +1,14 @@
+[u]Theorem 3.[/u] (Boole.) If $x \prec y$ then $x + z \prec y + z$; also,
+$x z \prec y z$.
+
+[u]Proof.[/u] By III and I,
+$x \prec y \prec y + z$.
+
+By II and III,
+$z \prec x + z \prec y + z$.
+
+Hence, by IV,
+$x + z \prec y + z$.
+
+Whence, by corollary 1,
+If $y \prec x$ $y z \prec x z$.

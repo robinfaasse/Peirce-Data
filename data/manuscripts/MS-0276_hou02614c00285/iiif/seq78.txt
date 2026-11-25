@@ -1,0 +1,25 @@
+[fig]drawing of geometric lines and intersections[/fig]
+
+[fig]sketch of a line segment marked 0 and 10[/fig]
+
+[fig]sketch of a small shape[/fig]	[fig]drawing of geometric shapes[/fig]	a	l
+					d
+	[fig]sketch of a small shape[/fig]	[fig]drawing of geometric shapes[/fig]	x = a + yb
+					y = c + yd
+					a - c = y(d - b)
+					y = [u]a - c[/u]
+					      d - b
+		[fig]drawing of geometric shapes[/fig]	z = [u]a - b[/u]
+						d - c
+				[u]c[/u] + [u]d[/u] = [u]c^2[/u]  - [u]d^2[/u]
+				e    f    fg    he
+				[u]c[/u] + [u]d[/u] = [u]c^2[/u]  - [u]e^2[/u]
+				f    e    ef    gh
+	[fig]drawing of geometric shapes[/fig]	[u]a[/u] + [u]c[/u] - [u]e[/u] + [u]g[/u] = [u]b^2[/u] + [u]d^2[/u] - [u]f^2[/u] + [u]h^2[/u]
+		b   d   f   h   ac    eg    hi    jk
+		[u]a[/u] + [u]c[/u] + [u]e[/u] + [u]g[/u] + [u]h[/u] + [u]f[/u] + [u]d[/u] + [u]b[/u]
+		b   d   f   h   g   e   c   a
+				[u]a[/u] + [u]c[/u] - [u]e^2[/u] = [u]b[/u] + [u]d[/u] - [u]f^2[/u]
+				b   d   fg    a   c   he
+	[fig]drawing of geometric shapes[/fig]	[u]a[/u] + [u]c[/u] - [u]e^2[/u] = [u]b^2[/u] - [u]c^2[/u]
+				b   d   fg    gh   gh

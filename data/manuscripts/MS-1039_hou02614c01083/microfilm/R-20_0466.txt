@@ -1,0 +1,27 @@
+$$A \sin \left(\frac{t+p}{S}\right) = A \frac{p}{S} - \frac{1}{6} A \frac{p^{3}}{S^{3}} - \frac{1}{2} A \frac{p^{2}}{S^{3}} t + A$$
+
+$$\begin{aligned}
+& [del]\frac{A}{S} \frac{t^{2}}{S^{2}} - \frac{1}{6} \frac{A}{S} \frac{t^{3}}{S^{3}} - \frac{1}{2} \frac{A}{S} \frac{p^{2}}{S^{2}} t + A \frac{p}{S} \frac{t}{S} + A \frac{t}{S}[/del] \\
+= & A \frac{p}{S} - \frac{1}{6} A \frac{p^{3}}{S^{3}} - \frac{1}{2} A \frac{p^{2}}{S^{3}} t + A \frac{t}{S} \\
+& - \frac{1}{2} A \frac{p}{S} \frac{t^{2}}{S^{2}} - \frac{1}{6} A \frac{t^{3}}{S^{3}}
+\end{aligned}$$
+
+$$\frac{1}{6} \left(\frac{B}{T^{3}} - \frac{A}{S^{3}}\right) t^{3} + \frac{1}{2} \left(\frac{Bq}{T^{3}} - \frac{Ap}{S^{3}}\right) t^{2}$$
+$$+ \left(\frac{1}{2} \frac{Bq^{2}}{T^{3}} - \frac{1}{2} \frac{Ap^{2}}{S^{3}} - \frac{B}{T} + \frac{A}{S}\right) t$$
+$$+ \frac{1}{6} \frac{Bq^{3}}{T^{3}} - \frac{1}{6} \frac{Ap^{3}}{S^{3}} - \frac{Bq}{T} + \frac{Ap}{S} = 0$$
+
+$$3 \frac{\frac{Bq}{T^{3}} - \frac{Ap}{S^{3}}}{\frac{B}{T^{3}} - \frac{A}{S^{3}}} \qquad \text{"} \quad \frac{3 \frac{Bq^{2}}{T^{3}} - 3 \frac{Ap^{2}}{S^{3}} - 6 \frac{B}{T^{3}} T^{2} + 6 \frac{A}{S^{3}} S^{2}}{\frac{B}{T^{3}} - \frac{A}{S^{3}}}$$
+
+$$\qquad \qquad \qquad 3 \frac{\frac{B}{T^{3}} \left(q^{2} - 2T^{2}\right) - \frac{A}{S^{3}} \left(p^{2} - 2S^{2}\right)}{\frac{B}{T^{3}} - \frac{A}{S^{3}}}$$
+
+$$\frac{\frac{Bq}{T^{3}} \left(q^{2} - 6T^{2}\right) - \frac{Ap}{S^{3}} \left(p^{2} - 6S^{2}\right)}{\frac{B}{T^{3}} - \frac{A}{S^{3}}}$$
+
+$$\begin{array}{cc}
+0.0 & -2\frac{1}{2} \\
+-2\frac{1}{2} &
+\end{array}$$
+
+[fig]Two intersecting lines with points plotted on them[/fig]
+
+$$\frac{p^{2} - 2S^{2}}{q^{2} - 2T^{2}} = \frac{p}{q} \cdot \frac{p^{2} - 6S^{2}}{q^{2} - 6T^{2}}$$
+$$\left(1 - \frac{2}{3} \frac{S^{2}}{p^{2}}\right)^{2} = \mu \left(1 - \frac{1}{6} \frac{S^{2}}{p^{2}}\right)$$

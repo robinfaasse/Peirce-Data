@@ -1,0 +1,30 @@
+In the formula
+$\sin \underline{x} \cdot \sin (\underline{y}-\underline{z}) + \sin \underline{y} \cdot \sin (\underline{z}-\underline{x}) + \sin \underline{z} \cdot \sin (\underline{x}-\underline{y}) = 0$,
+put $\underline{x} = 90^{\circ}$, $\underline{y} = 90^{\circ} - \underline{t}$. We thus get
+$\cos (\underline{t}+\underline{z}) [del]-[/del] [ins]+[/ins] \cos \underline{t} \cdot \cos \underline{z} + \sin \underline{z} \cdot \sin \underline{t} = 0$,
+or $\cos (\underline{t}+\underline{z}) = \cos \underline{t} \cdot \cos \underline{z} - \sin \underline{t} \cdot \sin \underline{z}$.
+[del]We[/del] In the last formula, put $\underline{z} = -\underline{s}$ and we have
+$\cos (\underline{t}-\underline{s}) = \cos \underline{t} \cdot \cos \underline{s} + \sin \underline{t} \cdot \sin \underline{s}$.
+
+In the formula of the theorem, put $\underline{y} = 90^{\circ}$. We thus get
+$\sin (90^{\circ}+\underline{x}) = \cos \underline{x}$.
+
+In the formula for $\cos (\underline{t}+\underline{z})$, put $\underline{t} = 90^{\circ}$ and we get
+$\cos (90^{\circ}+\underline{z}) = -\sin \underline{z}$.
+
+In the formula for [del]$\cos$[/del] $\sin (90^{\circ}+\underline{x})$, put $\underline{x} = 90^{\circ}+\underline{t}$ and
+we get, $\sin (180^{\circ}+\underline{t}) = \cos (90^{\circ}+\underline{t}) = -\sin \underline{t}$.
+
+In the formula for $\cos (90^{\circ}+\underline{z})$, put $\underline{z} = 90^{\circ}+\underline{t}$, and
+we get, $\cos (180^{\circ}+\underline{t}) = -\sin (90^{\circ}+\underline{t}) = -\cos \underline{t}$.
+
+$\tan (90^{\circ}+\underline{t}) = \frac{\sin (90^{\circ}+\underline{t})}{\cos (90^{\circ}+\underline{t})} = \frac{\cos \underline{t}}{-\sin \underline{t}} = -\cot \underline{t}$.
+
+$\tan (180^{\circ}+\underline{t}) = -\cot (90^{\circ}+\underline{t}) = -\frac{1}{\tan (90^{\circ}+\underline{t})} = \frac{1}{\cot \underline{t}} = \tan \underline{t}$.
+
+In the formula for $\sin (\underline{x}+\underline{y})$, put $\underline{y} = \underline{x}$, and
+we get,
+$\sin 2\underline{x} = 2 \sin \underline{x} \cdot \cos \underline{x}$.
+
+In the formula for $\cos (\underline{t}+\underline{z})$, put $\underline{z} = \underline{t}$, and we get,
+$\cos 2\underline{t} = \cos^{2} \underline{t} - \sin^{2} \underline{t}$.

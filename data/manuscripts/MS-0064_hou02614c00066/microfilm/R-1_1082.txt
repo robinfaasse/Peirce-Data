@@ -1,0 +1,29 @@
+If $\left(\begin{smallmatrix} x & y \\ u & z \end{smallmatrix}\right)$ and $\left(\begin{smallmatrix} x & u \\ v & v \end{smallmatrix}\right)$ then $\left(\begin{smallmatrix} u & v \\ y & x \end{smallmatrix}\right)$ and $\left(\begin{smallmatrix} y & z \\ v & u \end{smallmatrix}\right)$
+
+[fig]Diagram with arrows and letters[/fig] [del]or $\left(\begin{smallmatrix} \end{smallmatrix}\right)$[/del]
+If $\left(\begin{smallmatrix} x & y \\ u & z \end{smallmatrix}\right)$ and either $\left(\begin{smallmatrix} x & u \\ v & x \end{smallmatrix}\right)$ or [del]$\left(\begin{smallmatrix} x & y \\ u & z \end{smallmatrix}\right) \left(\begin{smallmatrix} y & z \\ v & u \end{smallmatrix}\right)$[/del]
+
+then
+
+[fig]Circular diagram with letters and arrows[/fig] If $\left(\begin{smallmatrix} x & y \\ u & z \end{smallmatrix}\right)$ and [del]$\left(\begin{smallmatrix} x & u \\ v & x \end{smallmatrix}\right)$[/del] [del]$\left(\begin{smallmatrix} y & z \\ v & u \end{smallmatrix}\right)$[/del] $\left(\begin{smallmatrix} y & z \\ v & x \end{smallmatrix}\right)$
+then $\left(\begin{smallmatrix} y & u \\ v & x \end{smallmatrix}\right)$ and $\left(\begin{smallmatrix} z & u \\ v & x \end{smallmatrix}\right)$ and $\left(\begin{smallmatrix} z & u \\ y & v \end{smallmatrix}\right)$
+
+[fig]Circular diagram with numbers and arrows[/fig] If $\left(\begin{smallmatrix} 2 & 4 \\ 1 & 5 \end{smallmatrix}\right)$ and $\left(\begin{smallmatrix} 4 & 5 \\ 3 & 2 \end{smallmatrix}\right)$ $\left(\begin{smallmatrix} 4 & 5 \\ 1 & 2 \end{smallmatrix}\right)$ $\left(\begin{smallmatrix} 4 & 5 \\ 2 & 3 \end{smallmatrix}\right)$
+[del]i.e. $\left(\begin{smallmatrix} 5 & 2 \\ 1 & 4 \end{smallmatrix}\right)$ and $\left(\begin{smallmatrix} 5 & 2 \\ 4 & 3 \end{smallmatrix}\right)$[/del]
+i.e $\left(\begin{smallmatrix} 4 & 5 \\ 2 & 1 \end{smallmatrix}\right)$ and $\left(\begin{smallmatrix} 4 & 5 \\ 3 & 2 \end{smallmatrix}\right)$ $\left(\begin{smallmatrix} 2 & 3 \\ 5 & 4 \end{smallmatrix}\right)$
+then $\left(\begin{smallmatrix} 1 & 2 \\ 4 & 3 \end{smallmatrix}\right)$
+and since the hypothe can be written
+$\left(\begin{smallmatrix} 5 & 4 \\ 1 & 2 \end{smallmatrix}\right)$ $\left(\begin{smallmatrix} 5 & 4 \\ 2 & 3 \end{smallmatrix}\right)$
+by the same prin $\left(\begin{smallmatrix} 3 & 2 \\ 5 & 1 \end{smallmatrix}\right)$ or $\left(\begin{smallmatrix} z & u \\ v & x \end{smallmatrix}\right)$
+[del]Then[/del] since we have $\left(\begin{smallmatrix} 1 & 2 \\ 4 & 3 \end{smallmatrix}\right)$ and $\left(\begin{smallmatrix} 1 & 2 \\ 5 & 4 \end{smallmatrix}\right)$
+by the same principle $\left(\begin{smallmatrix} 3 & 4 \\ 5 & 1 \end{smallmatrix}\right)$ or $\left(\begin{smallmatrix} z & u \\ y & v \end{smallmatrix}\right)$
+
+Thus the sole def. of the relation is
+[del]If $\left(\begin{smallmatrix} \end{smallmatrix}\right)$ and[/del]
+If $\left(\begin{smallmatrix} y & z \\ v & x \end{smallmatrix}\right)$ and $\left(\begin{smallmatrix} y & z \\ u & x \end{smallmatrix}\right)$ If $\left(\begin{smallmatrix} y & z \\ v & x \end{smallmatrix}\right)$ $\left(\begin{smallmatrix} z & u \\ y & x \end{smallmatrix}\right)$
+then $\left(\begin{smallmatrix} v & y \\ x & u \end{smallmatrix}\right)$ [fig]Diagram with arrows and letters[/fig] $\left(\begin{smallmatrix} y & u \\ v & x \end{smallmatrix}\right)$
+
+[fig]Diagram with axes and letters[/fig] or if $\left(\begin{smallmatrix} z & y \\ x & u \end{smallmatrix}\right)$ $\left(\begin{smallmatrix} z & y \\ u & x \end{smallmatrix}\right)$
+[del]$\frac{z y}{u x}$[/del] If $\left(\begin{smallmatrix} z & x \\ y & u \end{smallmatrix}\right)$ If $\left(\begin{smallmatrix} \alpha & \omega \\ 2 & 1 \end{smallmatrix}\right)$ $\left(\begin{smallmatrix} \alpha & \omega \\ 3 & 2 \end{smallmatrix}\right)$ then $\left(\begin{smallmatrix} \alpha & \omega \\ 3 & 1 \end{smallmatrix}\right)$
+If $\left(\begin{smallmatrix} \alpha & \omega \\ 2 & 1 \end{smallmatrix}\right)$ $\left(\begin{smallmatrix} \alpha & \omega \\ 3 & 2 \end{smallmatrix}\right)$ $\left(\begin{smallmatrix} \alpha & \omega \\ 4 & 3 \end{smallmatrix}\right)$ then $\left(\begin{smallmatrix} 3 & 4 \\ 2 & 1 \end{smallmatrix}\right)$
+[fig]Circular diagram with numbers[/fig] [del]$\left(\begin{smallmatrix} 2 & 3 \\ 1 & 2 \end{smallmatrix}\right)$[/del] [del]$\left(\begin{smallmatrix} \alpha & \omega \\ \end{smallmatrix}\right)$[/del]

@@ -1,0 +1,45 @@
+Call the six points
+$a A + b B + c C$
+$a_{1} A + b_{1} B + c_{1} C$
+$a_{2} A + b_{2} B + c_{2} C$
+$a_{3} A + b_{3} B + c_{3} C$
+$a_{4} A + b_{4} B + c_{4} C$
+$a_{5} A + b_{5} B + c_{5} C$
+
+Then the three independent equations are
+$\begin{aligned} & p (a A + b B + c C) \\ + & p_{1} (a_{1} A + b_{1} B + c_{1} C) \\ + & [del]p_{2}[/del] [ins]p_{3}[/ins] (a_{3} A + b_{3} B + c_{3} C) \\ + & p_{4} (a_{4} A + b_{4} B + c_{4} C) \end{aligned} = 0$
+
+$\begin{aligned} & q_{1} (a_{1} A + b_{1} B + c_{1} C) \\ + & q_{2} (a_{2} A + b_{2} B + c_{2} C) \\ + & q_{4} (a_{4} A + b_{4} B + c_{4} C) \\ + & q_{5} (a_{5} A + b_{5} B + c_{5} C) \end{aligned} = 0$
+
+$\begin{aligned} & r_{2} (a_{2} A + b_{2} B + c_{2} C) \\ + & r_{3} (a_{3} A + b_{3} B + c_{3} C) \\ + & r_{5} (a_{5} A + b_{5} B + c_{5} C) \\ + & r (a A + b B + c C) \end{aligned} = 0$
+
+These are equal to the nine
+equations
+
+$\begin{aligned} p a + p_{1} a_{1} + p_{3} a_{3} + p_{4} a_{4} & = 0 \\ q_{1} a_{1} + q_{2} a_{2} + q_{4} a_{4} + q_{5} a_{5} & = 0 \\ r_{2} a_{2} + r_{3} a_{3} + r_{5} a_{5} + r a & = 0 \end{aligned}$
+etc.
+
+If we further assume $\begin{aligned} p + p_{1} + p_{3} + p_{4} & = 0 \\ q_{1} + q_{2} + q_{4} + q_{5} & = 0 \\ r_{2} + r_{3} + r_{5} + r & = 0 \end{aligned}$
+
+we have
+$\left| \begin{matrix} 1 & 1 & 1 & 1 \\ a & a_{1} & a_{3} & a_{4} \\ b & b_{1} & b_{3} & b_{4} \\ c & c_{1} & c_{3} & c_{4} \end{matrix} \right| = 0$
+
+$\left| \begin{matrix} 1 & 1 & 1 & 1 \\ a_{1} & a_{2} & a_{4} & a_{5} \\ b_{1} & b_{2} & b_{4} & b_{5} \\ c_{1} & c_{2} & c_{4} & c_{5} \end{matrix} \right| = 0$
+
+$\left| \begin{matrix} 1 & 1 & 1 & 1 \\ a_{2} & a_{3} & a_{5} & a \\ b_{2} & b_{3} & b_{5} & b \\ c_{2} & c_{3} & c_{5} & c \end{matrix} \right| = 0$
+
+The equations suffice to
+determine [del]the[/del] [ins]the ratios of[/ins] $p$ 's $q$'s and $r$'s
+
+Which are namely, identical
+with the conditions of the 6 points
+being complanar. The condition of their being
+syconic is
+
+$\begin{aligned} & x [ (p a + p_{1} a_{1}) A + (p b + p_{1} b_{1}) B + (p c + p_{1} c_{1}) C ] \\ + & y [ (q_{1} a_{1} + q_{2} a_{2}) A + (q_{1} b_{1} + q_{2} b_{2}) B + (q_{1} c_{1} + q_{2} c_{2}) C ] \\ + & z [ (r_{2} a_{2} + r_{3} a_{3}) A + (r_{2} b_{2} + r_{3} b_{3}) B + (r_{2} c_{2} + r_{3} c_{3}) C ] \end{aligned} = 0$
+
+or
+
+$\left| \begin{matrix} (p a + p_{1} a_{1}) & (q_{1} a_{1} + q_{2} a_{2}) & (r_{5} a_{5} + r a) \\ (p b + p_{1} b_{1}) & (q_{1} b_{1} + q_{2} b_{2}) & (r_{5} b_{5} + r b) \\ (p c + p_{1} c_{1}) & (q_{1} c_{1} + q_{2} c_{2}) & (r_{5} c_{5} + r c) \end{matrix} \right| = 0$
+
+This is the equation of the conic.

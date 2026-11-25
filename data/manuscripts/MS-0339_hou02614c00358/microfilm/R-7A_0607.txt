@@ -1,0 +1,37 @@
+[pn]334r[/pn]
+
+$$\frac{p}{p+q} g_1 + \frac{q}{p+q} g_2 = \frac{p}{p-q} g_1 - \frac{q}{p-q} g_2 + 2a$$
+$$(p^2-pq) g_1 + (pq-q^2) g_2 = (p^2+pq) g_1 - (pq+q^2) g_2 + 2(p^2-q^2)a$$
+$$2pq g_2 = 2pq g_1 + 2(p^2-q^2)a$$
+$$p^2 + \frac{g_1-g_2}{a} pq = q^2$$
+$$[del]\left[ p + \left( \frac{g_1-g_2}{2a} \right) q \right]^2 = \left[ \left( \frac{g_1-g_2}{2a} \right)^2 + 1 \right] q^2[/del] \left[ q + \frac{g_2-g_1}{2a} p \right]^2 = [del]\left[ 1 + \left( \frac{g_2-g_1}{2a} \right)^2 \right] p^2[/del]$$
+$$\frac{q}{p} = [del]\left[[/del] \frac{g_2-g_1}{2a} [del]q[/del] \pm [del]q[/del] \sqrt{1 + \left( \frac{g_1-g_2}{2a} \right)^2} [del]\right][/del]$$
+$$= \frac{g_2-g_1}{2a} + 1 + \frac{(g_1-g_2)^2}{8a^2} - \frac{(g_1-g_2)^4}{128 a^4}$$
+
+$$\frac{q}{p} = \frac{g_1-g_2}{2a} \pm \sqrt{1 + \left( \frac{g_1-g_2}{2a} \right)^2}$$
+
+$$\begin{aligned}
+(1+x)^{\frac{1}{2}} \\
+\frac{1}{2} (1+x)^{-\frac{1}{2}} \\
+-\frac{1}{8} (1+x)^{-\frac{3}{2}} \\
+(1+x)^{\frac{1}{2}} = 1 + \frac{1}{2} x - \frac{1}{8} x^2 \\
+(1.001)^{\frac{1}{2}} = 1.0005 \\
+- .0000001 \\
+1.0001 - 0.000000001
+\end{aligned}$$
+
+$$ps_1 + qs_2 = \textcircled{G} \sqrt{-y} [del](ps_1 + qs_2) t[/del]$$
+$$D_t (ps_1 + qs_2) = [del]\textcircled{G} \sqrt{-y}[/del]$$
+$$ps_1 + qs_2 = A \textcircled{G} e^{\sqrt{y}.t} + B \textcircled{G} e^{-\sqrt{y}.t}$$
+
+$$\begin{aligned}
+(x + \sqrt{1+x^2}) \times \\
+(-x + \sqrt{1+x^2}) \\
+= 1 + x^2 - x^2 = 1
+\end{aligned}$$
+
+$$\frac{p}{p+q} = \frac{1}{1+\frac{q}{p}}$$
+$$\text{Put } \frac{g_2-g_1}{2a} = G$$
+$$\frac{p}{p+q} = \frac{1}{1-G \pm \sqrt{1+G^2}}$$
+
+[fig]Calculation with binary numbers[/fig]

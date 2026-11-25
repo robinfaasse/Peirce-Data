@@ -1,0 +1,17 @@
+$$x = \frac{1}{2} \int \{ \sqrt{\frac{\alpha^2-y^2}{y^2-\beta^2}} + \sqrt{\frac{y^2-\beta^2}{\alpha^2-y^2}} \} dy$$
+
+[del]$$= \frac{1}{2} \int \frac{1}{\alpha}$$[/del]
+
+$$= \frac{1}{2} \alpha \int \sqrt{\frac{1-\frac{y^2}{\alpha^2}}{y^2-\beta^2}} \cdot dy + \int \sqrt{\frac{y^2-\beta^2}{1-\frac{y^2}{\alpha^2}}} \cdot \frac{dy}{\alpha}$$
+
+[del]$$\frac{y}{\alpha} = \sin \varphi$$[/del]  $$\frac{dy}{\alpha} = \cos \varphi \cdot d\varphi$$
+
+$$\sqrt{y^2-\beta^2} = z$$
+$$y = \sqrt{z^2+\beta^2}$$
+$$dy = [del]\frac{1}{2}[/del] \frac{z}{\sqrt{z^2+\beta^2}} dz$$
+
+$$\int \sqrt{\alpha^2 \sin^2 \varphi - \beta^2} \cdot d\varphi$$
+
+$$\int \sqrt{\frac{y^2-\beta^2}{\alpha^2-y^2}} dy = \frac{z^2}{\sqrt{(\alpha^2-\beta^2-z^2)(\beta^2+z^2)}} dz$$
+
+$$\int \sqrt{\frac{\alpha^2-y^2}{y^2-\beta^2}} dy = \int \sqrt{\frac{\alpha^2-\beta^2-z^2}{\beta^2+z^2}} dz$$

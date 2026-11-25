@@ -1,0 +1,30 @@
+[pn]18[/pn] $Q$, there is an ordinal, $P$, such that $S$ is $\underline{s}$ to $P$ for $Q$.
+
+$2^{\text{nd}}$, if $Q$ possesses every character of the system possessed by $S$,
+and $P$ possesses no character of the system, $S$ is $\underline{s}$ to $P$ for $Q$.
+
+$3^{\text{rd}}$, if $Q$ possessed [del]every[/del] [ins]no[/ins] character of the system, $S$ is $\underline{s}$ to $S$
+for $Q$. $S_{ijk}$ means "$k$ is the [ins]$a$[/ins] sum of $j$ as addend and $i$ as augend."
+
+The definition in its thoroughly analytical form is bewildering.
+Namely, it is as follows
+
+$\Pi_{s} \Pi_{a} \Pi_{b} \Sigma_{\tau} \Pi_{\lambda} \Sigma_{\alpha} \Pi_{\xi} \Pi_{i} \Pi_{\psi} \Sigma_{j} \Pi_{\phi} \Sigma_{\ell} \Pi_{\omega} \Sigma_{h} \Pi_{\beta} \Sigma_{\mu} [del]\Pi_{\delta}[/del] \Pi_{\sigma} \Sigma_{\rho} \Pi_{\theta} \Sigma_{q} \Pi_{\upsilon} \Pi_{m} \Pi_{\chi} \Sigma_{\eta}$
+$\Pi_{\varepsilon'} \Sigma_{\lambda'} \Pi_{\alpha'} \Sigma_{\xi'} \Sigma_{i'} \Sigma_{\psi'} \Pi_{j'} \Sigma_{\phi'} \Pi_{\ell'} \Sigma_{\omega'} \Pi_{h'} \Sigma_{\beta'} \Pi_{\mu'} \Sigma_{\sigma'} \Pi_{\rho'} \Sigma_{\theta'} \Pi_{q'} \Sigma_{\upsilon'} \Sigma_{m'} \Sigma_{\chi'} \Pi_{\eta'}$
+$\{\bar{s}_{bas} + [\bar{q}_{\lambda s} + q_{\lambda b} + \bar{\gamma}_{\tau \alpha \lambda} \cdot q_{\chi \alpha} \cdot (\bar{q}_{\xi i} + q_{\xi j} + \bar{q}_{\xi a} + \bar{\gamma}_{\tau \xi \psi} + \bar{q}_{\psi \ell} + q_{\psi i}) \cdot$
+$(\bar{\gamma}_{\tau \phi \lambda} \cdot \bar{\gamma}_{\tau \phi \omega} + q_{\lambda h} \cdot \bar{q}_{\phi h} + \bar{q}_{\omega a} + q_{\omega \ell} \cdot \bar{q}_{a \ell})]^{\cdot}$
+$[\bar{q}_{\beta a} + \bar{\gamma}_{\tau \beta \mu} \cdot q_{\mu s} \cdot \bar{q}_{\mu b} \cdot (\bar{q}_{\sigma s} + q_{\sigma b} + q_{\sigma \rho} \cdot \bar{q}_{\mu \rho} + \bar{\gamma}_{\tau \sigma \theta} \cdot (\bar{\gamma}_{\tau \xi \theta} + q_{\xi q} \cdot \bar{q}_{\theta q})) \cdot$
+$(\bar{q}_{\mu m} + q_{\upsilon m} + \bar{q}_{\upsilon s} + q_{\upsilon b} + \bar{\gamma}_{\tau \chi \upsilon} + \bar{q}_{\chi a} + q_{\beta \eta} \cdot \bar{q}_{\chi \eta})]\}^{\cdot}$
+$\{\bar{s}_{bas} + [del]\bar{q}_{\lambda' s}[/del] \cdot \bar{q}_{\lambda' b} \cdot [\bar{\gamma}_{\tau' \alpha' \lambda'} + \bar{q}_{\chi' \alpha'} + q_{\chi' i'} \cdot \bar{q}_{\xi' i'} \cdot q_{\xi' a'} \cdot \bar{\gamma}_{\tau' \xi' \psi'} \cdot q_{\psi' s} \cdot (\bar{q}_{\lambda' j'} + q_{\psi' j'}) +$
+$(\bar{\gamma}_{\tau' \phi' \lambda'} + \bar{\gamma}_{\tau' \phi' \omega'}) \cdot (\bar{q}_{\lambda' h'} + q_{\phi' h'}) \cdot q_{\omega' a'} \cdot (\bar{q}_{\phi' \ell'} + q_{\omega' \ell'})] +$
+$q_{\beta' a'} [\bar{\gamma}_{\tau' \beta' \mu'} + \bar{q}_{\mu' s} + q_{\mu' b} + q_{\sigma' s} \cdot \bar{q}_{\sigma' b} \cdot (\bar{q}_{\sigma' \rho'} + q_{\mu' \rho'}) \cdot (\bar{\gamma}_{\tau' \beta' \theta'} + \bar{\gamma}_{\tau' \sigma' \theta'} \cdot (\bar{q}_{\beta'_2 \theta'} + q_{\beta'_2 q'}) +$
+$q_{\mu' m'} \cdot \bar{q}_{\upsilon' m'} \cdot q_{\upsilon' s} \cdot \bar{q}_{\upsilon' b} \cdot \bar{\gamma}_{\tau' \chi' \upsilon'} \cdot q_{\chi' a'} \cdot (\bar{q}_{\beta' \eta'} + q_{\chi' \eta'})]\}$
+
+But it would be easy to simplify this by denoting compound rela-
+tions by single letters which, of course, would be defined; and this
+would have to be done were the paper ever printed. At present, I have
+no time for such work; but as an example of it we might put
+$d_{\eta \theta} = \Pi_{h} \bar{q}_{\eta h} + q_{\theta h}$ when $\bar{d}_{\eta \theta} = \Sigma_{h} q_{\eta h} \cdot \bar{q}_{\theta h}$
+
+Multiplication may be defined in the spirit of the first definition
+of ordinals as follows:

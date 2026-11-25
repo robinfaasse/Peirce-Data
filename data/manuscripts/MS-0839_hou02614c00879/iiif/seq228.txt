@@ -1,0 +1,7 @@
+Suppose $i^{m} \neq 0$ $i^{m+1} = 0$ $j^{n} \neq 0$ $j^{n+1} = 0$ $m > n$
+and suppose further
+$ij = \sum_{t} (a_{t} i^{t} + b_{t} j^{t})$
+$= a_{1} i + a_{2} i^{2} + a_{3} i^{3} \text{ --- } a_{m} i^{m}$
+$+ b_{1} j + b_{2} j^{2} + \text{ --- } b_{n} j^{n}$
+$i^{u} j = \sum_{t} (a_{t} i^{u+t-1} + b_{t} i^{u-1} j^{t})$
+$i^{u} j^{v} = \sum_{t} (a_{t} i^{u+t-1} j^{v-1} + b_{t} i^{u-1} j^{v+t-1})$

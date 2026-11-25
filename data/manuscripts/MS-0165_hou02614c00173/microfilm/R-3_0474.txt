@@ -1,0 +1,32 @@
+[pn]27[/pn]
+
+43. On the other hand, the range of values of all the surds between
+0 and 1 is infinitely divisible, since they are innumerable.
+
+[u]Definition 90[/u]. A whole is said to be [del]continuous[/del] [ins]a continuum[/ins], or a [del]continuum[/del] [ins]continuous[/ins],
+if it is infinitely divisible, and if, further, it contains the limit of
+every inenumerable but numerable series which it contains.
+
+[u]Illustrations. 44[/u]. The range of values of all the surds between
+0 and 1, though infinitely divisible, does not contain the limit
+of every endless series it contains. Such for instance is the following
+series of surds:
+$$\frac{1}{\sqrt{3}} \text{ , } \frac{7}{8\sqrt{3}} \text{ , } \frac{13}{15\sqrt{3}} \text{ , } \frac{97}{112\sqrt{3}} \text{ , } \frac{181}{209\sqrt{3}} \text{ , } \frac{1351}{1560\sqrt{3}} \text{ , etc.,}$$
+where the precept is alternately to multiply the last numera-
+tor and denominator by 2 and 8 and subtract the last but
+one. Thus,
+$$\begin{array}{rcccl}
+2 \times 7 - 1 & = & 13 & \qquad & 2 \times 8\sqrt{3} - \sqrt{3} = 15\sqrt{3} \text{ ,} \\
+8 \times 13 - 7 & = & 97 & \qquad & 8 \times 15\sqrt{3} - 8\sqrt{3} = 112\sqrt{3} \text{ ,} \\
+2 \times 97 - 13 & = & 181 & \qquad & 2 \times 112\sqrt{3} - 15\sqrt{3} = 209\sqrt{3} \text{ ,} \\
+8 \times 181 - 97 & = & 1351 & \qquad & 8 \times 209\sqrt{3} - 112\sqrt{3} = 1560\sqrt{3} \text{ .}
+\end{array}$$
+But the limit of this series is $\frac{1}{2}$, which not being a surd is
+not contained in whole considered.
+
+45. On the other hand the range of [u]all[/u] the [ins]real[/ins] values from 0 to 1
+is continuous.
+
+46. The range of values from 0 to 1 together with the single value
+2 is not continuous, since it is not divisible into homogeneous
+parts.

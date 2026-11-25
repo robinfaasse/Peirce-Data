@@ -1,0 +1,22 @@
+[fig]sketch of a double pendulum[/fig]
+
+$\frac{1}{2}(D_t\theta_1)^2 + \frac{1}{2}(D_t\theta_2)^2$  $\begin{aligned} &(\theta_1-\theta_2)^2 \\ - &2(\theta_1-\theta_2) \end{aligned}$
+
+$D_t^2\theta_1 = [del]-g\theta_1[/del]$
+$\phantom{D_t^2\theta_1 =} -(g+e)\theta_1 + e\theta_2$
+
+$D_t^2\theta_2 = -(g+e)\theta_2 + e\theta_1$
+
+$D_t^2(\theta_1+\theta_2) = -g(\theta_1+\theta_2)$
+$\phantom{D_t^2(}\theta_1+\theta_2 = A \cos \sqrt{g} [del]t[/del] [ins]t[/ins]$
+
+$D_t^2(\theta_1-\theta_2) = -(g+2e)(\theta_1-\theta_2)$
+$\phantom{D_t^2(}\theta_1-\theta_2 = A \cos \sqrt{g+2e}(t-t_0)$
+
+[fig]two triangles[/fig]
+
+[fig]horizontal line with three tick marks[/fig]
+
+$\sin x = \sin(90^\circ+x)$
+$\sin x = \cos x$
+$\tan x = 1 \quad x=45^\circ$

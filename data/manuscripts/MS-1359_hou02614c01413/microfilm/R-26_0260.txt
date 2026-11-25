@@ -1,0 +1,29 @@
+[marginalia]
+checked and
+found right
+
+one error
+corrected
+[/marginalia]
+
+[pn]p. 48[/pn] The differential arc is [del]\sqrt{1+}[/del] [ins][b + (2c + \frac{1}{r^2})x]^2[/ins] dx = (\sqrt{1+\frac{x^2}{r^2}} + b\frac{x}{\sqrt{r^2}} + 2c\frac{x^2}{\sqrt{r^2}}) dx
+(neglecting the square and products of b and c) so that the elongation is
+\frac{1}{r} (bx + 2cx^2) dx = \sqrt{\frac{1}{r^2} (b^2x^2 + 4bcx^3 + 4c^2x^4) (dx)^2}
+and the energy is
+\frac{E}{2r^2} \int \frac{b^2x^2 + 4bcx^3 + 4c^2x^4}{\sqrt{1+\frac{x^2}{r^2}}} dx = E [ ( -\frac{1}{6}b^2r^2 + \frac{1}{4}b^2x - \frac{3}{4}c^2r^2x + \frac{2}{3}bcx^2 + \frac{1}{2}c^2x^3 ) \sqrt{1+\frac{x^2}{r^2}}
++ ( -\frac{1}{8}b^2r^2 + \frac{3}{8}c^2r^4 ) log ( \sqrt{1+\frac{x^2}{r^2}} + \frac{x}{r} ) ].
+
+For the part between -N and I, eliminating b, we have between the limits
+E \{ [ \frac{1}{4}b^2I + bcI^2 + bc(-\frac{2}{3}I^2-\frac{4}{3}r^2) + c^2I^3 + cc(-\frac{2}{3}I^3-\frac{4}{3}Ir^2) + c^2I( \frac{1}{12}I^2 + \frac{23}{12}r^2 ) ] \sqrt{1+\frac{I^2}{r^2}}
++ [ \frac{1}{4}b^2N + b^2N + bc(-IN-\frac{4}{3}r^2) + c^2N + cc(-2IN-\frac{4}{3}r^2) + c^2( N^3 + IN^2 - \frac{8}{3}r^2N + \frac{3}{4}N^3 + \frac{23}{12}r^2N ) ] \sqrt{1+\frac{N^2}{r^2}}
++ [ -\frac{1}{8}b^2r^2 + bc'Ir^2 - bc'Ir^2 + c'^2Ir^2 - 2c'c'Ir^2 + c'^2Ir^2 + \frac{3}{8}c^2r^4 ] log \frac{\sqrt{1+\frac{I^2}{r^2}} + \frac{I}{r}}{\sqrt{1+\frac{N^2}{r^2}} - \frac{N}{r}} \}
+
+For the part between J and N, eliminating b'', we have between the limits,
+E \{ [ \frac{1}{4}b''^2N + bc''JN + bc''(-JN+\frac{4}{3}r^2) + c''^2JN + c'c''J(-2JN+\frac{4}{3}r^2) + c''^2( \frac{3}{4}N^3 - \frac{4}{3}JN + \frac{8}{3}r^2 + \frac{1}{2}N^3 - \frac{23}{12}r^2 ) ] \sqrt{1+\frac{N^2}{r^2}}
+- [ \frac{1}{4}b''^2J - b''^2J + bc''(\frac{1}{3}J^2+\frac{4}{3}r^2) - c''^2J + c'c''J(\frac{2}{3}J^2+\frac{8}{3}r^2) + c''^2J( \frac{1}{12}J^2 - \frac{23}{12}r^2 ) ] \sqrt{1+\frac{J^2}{r^2}}
++ [ -\frac{1}{8}b''^2r^2 + bc'Jr^2 - bc''Jr^2 + c'^2Jr^2 - 2c'c''Jr^2 + c''^2Jr^2 + \frac{3}{8}c^2r^4 ] log \frac{\sqrt{1+\frac{N^2}{r^2}} + \frac{N}{r}}{\sqrt{1+\frac{J^2}{r^2}} + \frac{J}{r}} \}
+
+It may contribute to the understanding of these formulae to remember that
+\frac{1}{\sqrt{1+x^2}+x} = \sqrt{1+x^2}-x. For the part between I and J, we have between the limits,
+E \{ [ \frac{1}{4}b^2J + bc'(\frac{1}{3}J^2-\frac{4}{3}r^2) + c'^2J(\frac{1}{12}J^2-\frac{23}{12}r^2) ] \sqrt{1+\frac{J^2}{r^2}} + [ \frac{1}{4}b^2I + bc'(-\frac{2}{3}I^2+\frac{4}{3}r^2) + c'^2I(\frac{1}{12}I^2-\frac{23}{12}r^2) ] \sqrt{1+\frac{I^2}{r^2}}
++ [ -\frac{1}{8}b^2r^2 + \frac{3}{8}c'^2r^4 ] log \frac{\sqrt{1+\frac{J^2}{r^2}} + \frac{J}{r}}{\sqrt{1+\frac{I^2}{r^2}} + \frac{I}{r}} \}.

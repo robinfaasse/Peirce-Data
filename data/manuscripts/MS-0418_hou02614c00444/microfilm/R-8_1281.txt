@@ -1,0 +1,31 @@
+[pn]363[/pn]
+
+"Let us suppose that there [ins]are[/ins] four girls
+at school, Anna, Bertha, Cora, and Dora;
+and that some one had observed
+(1) that whenever either Anna or Bertha (or
+[del]both[/del]) remained at home, Cora was at home; and
+(2) when Bertha was out, Anna was out; and
+(3) whenever Cora was at home, Anna was at
+home. What information is here conveyed con-
+cerning Dora?"
+
+Let us solve this for ourselves, in order to see
+what the problem amounts to. Let
+[u]a[/u] mean Anna is in,
+[u]b[/u]  "  Bertha  "  "
+[u]c[/u]  "  Cora  "  "
+[u]d[/u]  "  Dora  "  "
+
+Then the premises are
+[u]a[/u] · [u]b[/u] ⤙ [u]c[/u]
+b ⤙ [u]a[/u]
+[u]c[/u] ⤙ a
+
+The [del]combination[/del] [ins]pound[/ins] of them is
+([u]c[/u] ⤙ a) · (b ⤙ [u]a[/u]) · ([u]a[/u] · [u]b[/u] ⤙ c)
+= [u]a[/u] · [u]b[/u] · [u]c[/u] ⤙ a · b · c
+
+And by the principle of excluded middle (d ⤙ [u]d[/u])
+d · ([u]a[/u] · [u]b[/u] · [u]c[/u] ⤙ a · b · c)
+⤙ [u]d[/u] · ([u]a[/u] · [u]b[/u] · [u]c[/u] ⤙ a · b · c)

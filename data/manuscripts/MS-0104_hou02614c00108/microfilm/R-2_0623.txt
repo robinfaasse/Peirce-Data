@@ -1,0 +1,15 @@
+[pn]⑤[/pn]
+
+[del]We[/del] Write
+
+$$F_2 q = \frac{A_0 + A_{+1} \mathcal{G}^{+q.2i} + A_{-1} \mathcal{G}^{-q.2i} + \text{etc}}{B_0 + B_{+1}} = \frac{\sum_{-\infty}^{+\infty}{}_n A_n \mathcal{G}^{nq.2i}}{\sum_{-\infty}^{+\infty}{}_n B_n \mathcal{G}^{nq.2i}}$$
+
+$$F'_2 q = 2i \frac{\sum_{-\infty}^{+\infty}{}_n A_n \mathcal{G}^{nq.2i}}{\sum_{-\infty}^{+\infty}{}_n B_n \mathcal{G}^{nq.2i}} \left( \frac{\sum_{-\infty}^{+\infty}{}_n n A_n \mathcal{G}^{nq.2i}}{\sum_{-\infty}^{+\infty}{}_n A_n \mathcal{G}^{nq.2i}} - \frac{\sum_{-\infty}^{+\infty}{}_n n B_n \mathcal{G}^{nq.2i}}{\sum_{-\infty}^{+\infty}{}_n B_n \mathcal{G}^{nq.2i}} \right)$$
+
+$$F'_1 q = \tan Nq . F'_2 q = \frac{1}{i} \frac{\mathcal{G}^{\frac{1}{2}Nq.2i} - \mathcal{G}^{-\frac{1}{2}Nq.2i}}{\mathcal{G}^{\frac{1}{2}Nq.2i} + \mathcal{G}^{-\frac{1}{2}Nq.2i}}$$
+
+$$= 2 \frac{\sum_{-\infty}^{+\infty}{}_n A_n \mathcal{G}^{(n+N)q.2i} - \sum_{-\infty}^{+\infty}{}_n A_n \mathcal{G}^{(n-N)q.2i}}{\sum_{-\infty}^{+\infty}{}_n B_n \mathcal{G}^{(n+N)q.2i} + \sum_{-\infty}^{+\infty}{}_n B_n \mathcal{G}^{(n-N)q.2i}} \left( \right)$$
+
+$$= 2 \frac{\sum_{-\infty}^{+\infty}{}_n (A_{n-N} - A_{n+N}) \mathcal{G}^{nq.2i}}{\sum_{-\infty}^{+\infty}{}_n (B_{n-N} + B_{n+N}) \mathcal{G}^{nq.2i}} \left( \right)$$
+
+The integral of this gives $F_1 q$.

@@ -1,0 +1,26 @@
+[pn]C[/pn] [pn]4.[/pn]
+
+is expressed by the so-called [u]Principle of[/u]
+[u]Excluded Middle[/u], which is that every pro-
+position is either true or false, (or A is either
+B or not-B); while the fact that there are
+at least two different varieties is expressed
+by the so-called [u]Principle of Contradiction[/u],
+which is that nothing is both true and false,
+(or A is not not-A).
+
+I now proceed to deduce [del]some[/del] [ins]a few[/ins] useful
+formulae from Rules I, II, III. In Rule II,
+substitute [u]x[/u] for [u]z[/u], and we have
+(1). Either [u]x[/u] < [u]y[/u] or [u]y[/u] < [u]x[/u].
+In (1), substitute [u]x[/u] for [u]y[/u], and we have
+(2). [u]x[/u] < [u]x[/u].
+By Rules II and III,
+(3). [u]x[/u] < [u]v[/u].
+(4). [u]u[/u] < [u]x[/u].
+By Rule I,
+(5). If [u]x[/u] < [u]y[/u], while it is false that [u]x[/u] < [u]z[/u], then
+it is false that [u]y[/u] < [u]z[/u].
+(6). If [u]y[/u] < [u]z[/u], while it is false that [u]x[/u] < [u]z[/u], then
+it is false that [u]x[/u] < [u]y[/u].
+(7). If it is false that [u]x[/u] < [u]z[/u], it is either

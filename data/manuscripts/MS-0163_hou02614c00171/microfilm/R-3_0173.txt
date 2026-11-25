@@ -1,0 +1,42 @@
+[pn]3[/pn] [del][fig]formula[/fig][/del] [del][fig]formula[/fig][/del]
+[del]3[/del] [ins]3[/ins] [del]{foc}[/del] [ins]{foc}[/ins] [del]{Q}[/del] [ins]{Q}[/ins] [del][A][/del] [ins][A][/ins] [del]=[/del] [ins]=[/ins] [del](1[/del] [ins](1[/ins] [del]-[/del] [ins]-[/ins] [del]s)A[/del] [ins]s)A[/ins] [del]+[/del] [ins]+[/ins] [del](1+2s)B[/del] [ins](1+2s)B[/ins] [del]+[/del] [ins]+[/ins] [del](1-s)C[/del] [ins](1-s)C[/ins]
+[u]t[sup]2[/sup]=t+1[/u]
+
+[del]{[/del] [ins]{[/ins] [del]t[sup]2[/sup]-t+1[/del] [ins]t[sup]2[/sup]-t+1[/ins] [del]+[/del] [ins]+[/ins] [del](-t[sup]2[/sup]+t-1)s[/del] [ins](-t[sup]2[/sup]+t-1)s[/ins] [del]}[/del] [ins]}[/ins] [del]A[/del] [ins]A[/ins] [del]+[/del] [ins]+[/ins] [del]{[/del] [ins]{[/ins] [del]t[sup]2[/sup]-t+1[/del] [ins]t[sup]2[/sup]-t+1[/ins] [del]+[/del] [ins]+[/ins] [del](2t[sup]2[/sup]-2t+2)s[/del] [ins](2t[sup]2[/sup]-2t+2)s[/ins] [del]}[/del] [ins]}[/ins] [del]B[/del] [ins]B[/ins]
+[del]{[/del] [ins]{[/ins] [del]3t[sup]2[/sup]+t+1[/del] [ins]3t[sup]2[/sup]+t+1[/ins] [del]+[/del] [ins]+[/ins] [del](6t[sup]2[/sup]+2t+2)s[/del] [ins](6t[sup]2[/sup]+2t+2)s[/ins] [del]}[/del] [ins]}[/ins] [del]A[/del] [ins]A[/ins] [del]+[/del] [ins]+[/ins] [del]{[/del] [ins]{[/ins] [del]3t[sup]2[/sup]-2t+2[/del] [ins]3t[sup]2[/sup]-2t+2[/ins] [del]+[/del] [ins]+[/ins] [del]+(2t[sup]2[/sup]+2t+1)s[/del] [ins]+(2t[sup]2[/sup]+2t+1)s[/ins] [del]}[/del] [ins]}[/ins] [del]B[/del] [ins]B[/ins]
+[del]{3t[sup]2[/sup]-3s}A[/del] [del]+ 3t+3 + 3s B[/del]
+[del]+ {t[sup]2[/sup]-t+1 + (-t[sup]2[/sup]+t-1)s}C[/del]
+[del]+ {t[sup]2[/sup]+t+1 + (t[sup]2[/sup]+t+1)s}C[/del]
+
+[marginalia]Sign of [del]C[/del] [ins]B[/ins] corrected[/marginalia]
+
+[u][N][/u] = [u](3t[sup]2[/sup]-3s)A + (-3t+3+3s)B[/u]
+3(t[sup]2[/sup]-t+1)
+
+= [u]3t[sup]2[/sup]-3t+3 - s[/u]
+(t[sup]2[/sup]-s)A + (-t+1+s)B
+(t+s)(t-1-s)
+
+[del]-1)[/del] s[sup]2[/sup]-1 (s[sup]2[/sup]+s+1
+[u]s[sup]2[/sup]-s[/u] (s+1)[sup]2[/sup] = [del]-3[/del] [ins]-3[/ins]/4
+s[sup]2[/sup]-1 s = [del]-1±√-3[/del] [ins]-1±√-3[/ins]/2
+
+[del]t-s[/del] A - [del]1[/del] B
+t-1-s t-1-s
+
+= [del](t+1+s)A - (t-1-s)B[/del]
+
+= [u](t+1+s)A - B[/u]
+t+s
+
+[del]t+s[/del] . [del]t+s[/del]
+[del]t[sup]2[/sup]-s[sup]2[/sup][/del] [del]t[sup]2[/sup]-s-s[sup]2[/sup][/del]
+[del]t[sup]2[/sup]+1[/del]
+
+This value of [u][N][/u] must
+be wrong, I think.
+No. This is correct.
+
+[u]1-t[/u] + s
+1+t
+[del]1-t[sup]2[/sup][/del] [ins]1-t[sup]2[/sup][/ins] + (1+t)s

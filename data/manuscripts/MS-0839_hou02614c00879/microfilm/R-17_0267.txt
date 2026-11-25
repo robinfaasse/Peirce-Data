@@ -1,0 +1,58 @@
+$$\Pi_{1}\Pi_{2}\Sigma_{3}\Sigma_{4}$$
+$$b_{12} + \bar{s}_{43}\cdot b_{32}$$
+
+[fig]Euler-like diagram with nested circles containing w, b, l, v[/fig]
+
+$$\Pi_{1}\Sigma_{2}\Pi_{3}$$
+$$w_{1} + \bar{b}_{12}\cdot(\bar{l}_{23} + v_{3})$$
+
+[u]a + b[/u]
+
+[u][u]a + b[/u] + c[/u]
+$$a\bar{b} + c$$
+
+[fig]Euler-like diagram with nested circles containing w, l, b, v[/fig]
+
+[u][u][u]a + b[/u] + c[/u] + d[/u]
+$$(a + b)\bar{c} + d$$
+
+[u][u]a + b[/u] + [u]c + d[/u][/u]
+$$(a + b)\bar{c} + d$$
+$$+ \bar{a}\bar{c}$$
+
+$$\Pi_{3}\Sigma_{2}\Pi_{1}$$
+$$(w_{1} + l_{12})\cdot\bar{b}_{23} + v_{3}$$
+
+[fig]Euler-like diagram with nested circles containing w, l, b, v[/fig]
+
+[u]c + [del]a +[/del] [u]a + b[/u] + c + d[/u]
+
+$$(a + b)c$$
+$$a + bc$$
+
+[fig]Euler-like diagram with nested circles containing w, l, b, v[/fig]
+
+$$(a_{1} + b_{11})\cdot(a_{2} + b_{21})c_{1} + (a_{1} + b_{12})\cdot(a_{2} + b_{22})c_{2}$$
+$$(a_{1} + b_{11}c_{1} + b_{12}c_{2})(a_{2} + b_{21}c_{1} + b_{22}c_{2})$$
+
+[fig]Euler-like diagram with nested circles containing w, l, b, v[/fig]
+
+[fig]Euler-like diagram with nested circles containing a, b, c, d[/fig]
+
+[fig]Euler-like diagram with nested circles containing a, b, c, d[/fig]
+
+Everything lover of 2 is wise
+Something not lover of 2 is wise
+
+Everything notwise is not $l_{2}$
+Something wise is not $l_{2}$
+
+$$(w_{1} + \bar{l}_{1})(w_{2} + \bar{l}_{2})\cdot$$
+$$w_{1}\bar{l}_{1} + w_{2}\bar{l}_{2} + \text{etc}$$
+
+$$\Pi_{3}\Sigma_{2}\Sigma_{1}$$
+$$w_{1}\bar{l}_{12}\cdot\bar{b}_{23} + v_{3}$$
+
+[fig]Euler-like diagram with nested circles containing w, l, b, v[/fig]
+
+[fig]Euler-like diagram with nested circles containing w, l, b, v[/fig]

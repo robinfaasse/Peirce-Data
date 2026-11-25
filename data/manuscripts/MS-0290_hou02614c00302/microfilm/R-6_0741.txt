@@ -1,0 +1,151 @@
+[marginalia]
+[del]-2.42[/del]
+[del]-0.82[/del]
+[/marginalia]
+
+[u]Vapor Pressure of Water[/u]
+
+| [u]T[/u] | [u]Log T[/u] | [u]1+log p[/u] | [u]Log t[/u] | [u]1+log p[/u] |
+|---|---|---|---|---|
+| 263 | 2.4200 | 0.3284 | 000 | 001 |
+| 273 | 2.4362 | 0.6609 | 16 | 34 |
+| 293 | 2.4669 | 1.2435 | 47 | 92 |
+| 313 | 2.4955 | 1.7416 | 75 | 142 |
+| 333 | 2.5224 | 2.1742 | 102 | 185 |
+| 353 | 2.5478 | 2.5507 | 128 | 223 |
+| 373 | 2.5717 | 2.8808 | 152 | 256 |
+| 393 | 2.5944 | 3.1714 | 174 | 285 |
+| 403 | 2.6053 | 3.3052 | 185 | 299 |
+| 423 | 2.6263 | 3.5525 | 206 | 323 |
+| 473 | 2.6749 | 4.0654 | 255 | 375 |
+| 523 | 2.7185 | 4.4732 | 298½ | 415 |
+| 543 | 2.7348 | 4.6738 | 315 | 429 |
+| 637.6 | 2.8045 | 5.1700 | 384½ | 485 |
+
+[marginalia]
+162
+307
+286
+269
+254
+239
+227
+109
+210
+486
+436
+163
+697
+[/marginalia]
+
+[marginalia]
+3325
+5826
+4981
+4326
+3765
+3301
+2906
+1338
+2473
+5129
+4078
+1406
+5562
+[/marginalia]
+
+[marginalia]
+3845
+[/marginalia]
+
+[marginalia]
+48416
+10
+[/marginalia]
+
+[fig]Line graph with data points and a straight line drawn through them[/fig]
+
+[marginalia]
+[del]364.3[/del]
+[del]273.3[/del]
+637.6
+[/marginalia]
+
+[marginalia]
+32
+14
+28
+42
+4.8
+[/marginalia]
+
+[marginalia]
+[del]9[/del]/10
+[del]7[/del]/10
+50
+500
+[/marginalia]
+
+[marginalia]
+1.26 2.4
+1000/0.4105
+63
+[/marginalia]
+
+[marginalia]
+2.42
+2.8045
+.3845
+[/marginalia]
+
+[marginalia]
+1.64625
+.60520
+[/marginalia]
+
+[marginalia]
+.1524
+.1702
+.64625
+[/marginalia]
+
+[marginalia]
+3845 | 48416 | 12
+2988 | 3845
+[/marginalia]
+
+[marginalia]
+[u]d log t[/u] / d log p = [u]1[/u] / a + b log p
+[/marginalia]
+
+[marginalia]
+d(a+b log p) / d log p d [u]T[/u] / T = [u]1[/u] / a+b log p
+[/marginalia]
+
+[marginalia]
+b d log p / d log p d log T = d log (a+b log p)
+[/marginalia]
+
+[marginalia]
+b d log T = d log (a+b log p)
+[/marginalia]
+
+[marginalia]
+b log T = log (a+b log p)
+[/marginalia]
+
+[marginalia]
+2.420 b + C = log (a+b log p)
+[/marginalia]
+
+[marginalia]
+8.2095
+[/marginalia]
+
+[marginalia]
+.0627
+[/marginalia]
+
+[marginalia]
+8.8432
+[/marginalia]

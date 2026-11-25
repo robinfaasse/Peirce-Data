@@ -1,0 +1,33 @@
+Logic
+of History
+92
+
+[ins]This series being extended[/ins]
+On [del]extending[/del] this indefinitely [del]no[/del] [ins]nor any odd number repeated[/ins] no even number will be
+omitted. For every [del]even[/del] number [del]that is, 4M + N where N is 0, 1, 2, or 3, say 2N[/ins] [ins]say 2N[/ins], will appear in
+the [del]3Nth[/del] [ins]An[/ins] place. [del]Indeed, every num[/del]
+
+$p \times N + M$
+$p$
+[fig]figure[/fig]
+$p$ the prob. of event.
+$x_{n, \pi}$ probability that ratio will [ins]as small as $k$[/ins]
+ever be [del]greater than[/del] [ins]as great as[/ins] [del]h or less than[/del] [del]m when the[/del]
+[del]number is $n$ and $m$[/del]
+favorable is $\pi$ unfavorable $n - \pi$
+[del]$x_n = p x_{n+1} + \bar{p} x_{n-1}$[/del]
+
+[del]Number[/del]
+[del]$x_{n, \pi} = p x_{n+1, \pi+1} + \bar{p} x_{n+1, \pi}$[/del]
+$x_{\nu, \pi} = p x_{\nu, \pi+1} + \bar{p} x_{\nu+1, \pi}$
+$x_{\nu, \pi+1} = p x_{\nu, \pi+2} + \bar{p} x_{\nu+1, \pi+1}$
+$x_{\nu+1, \pi} = p x_{\nu+1, \pi+1} + \bar{p} x_{\nu+2, \pi}$
+$x_{\nu, \pi} = p^2 x_{\nu, \pi+2} + 2 p \bar{p} x_{\nu+1, \pi+1} + \bar{p}^2 x_{\nu+2, \pi}$
+
+[fig]figure[/fig]
+$\frac{9}{u} = [del]9 e / 8[/del]$
+$\frac{9}{u} = \frac{5}{6} \times$
+$\frac{6 . 9}{5.11} =$
+$\frac{54}{55}$
+$75 \quad \frac{6}{83}$
+[fig]figure[/fig]

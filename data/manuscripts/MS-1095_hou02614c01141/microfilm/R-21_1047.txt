@@ -1,0 +1,24 @@
+Suppose that instead of a moving plane
+we have a parabolic cylinder defined by
+the equation
+$$z = C x^2$$
+which oscillates in the direction of $y$. We will
+assume $u=0$, $w=0$, [del]and[/del] but $v$ is a function
+of $x$ and $z$. At the [del]plane[/del] cylinder $v=V$
+and $V = c \sin nt$
+The differential equation is
+$$D_t v = \mu' (D_x^2 v + D_z^2 v)$$
+Write
+$$v = P \sin nt + Q \cos nt$$
+where $P$ and $Q$ are supposed to be indepen-
+dent of the time. Then
+$$D_t v = n P \cos nt - n Q \sin nt$$
+$$= \mu' (D_x^2 P + D_z^2 P) \sin nt + \mu' (D_x^2 Q + D_z^2 Q) \cos nt$$
+so that
+$$P = \frac{\mu'}{n} (D_x^2 Q + D_z^2 Q)$$
+$$Q = - \frac{\mu'}{n} (D_x^2 P + D_z^2 P) = - \frac{\mu'^2}{n^2} (D_x^4 Q + 2 D_x^2 D_z^2 Q + D_z^4 Q)$$
+We only want to know what $P$ and $Q$ become
+in the immediate neighborhood of the cylinder.
+[del]For[/del] [ins]Let[/ins] a certain point $x_1, z_1$ lie on the cylinder
+so that
+$$z_1 = C x_1^2.$$

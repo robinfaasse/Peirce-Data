@@ -1,0 +1,67 @@
+[fig]Triangle with internal lines[/fig]
+
+[u]Bisection of A[/u]
+[u]Intersection of Bisections of A and B[/u]
+
+[del]Q =[/del] [ins]0 =[/ins] UA + VB + WC
+U + V + W = 0
+Q = XA + YB + ZC
+X + Y + Z = 0
+
+x [u]ZY - [square root of ZYWV][/u] O - [u]WV - [square root of ZYWV][/u] Q
+ZY - WV ZY - WV
+
+[u]U.YZ - XVW - (U + X) [square root of ZYWV][/u] A
+ZY - WV
++ [u]V.YZ - YVW - (V + Y) [square root of ZYWV][/u] B
+ZY - WV
++ [u]W.YZ - ZVW - (W + Z) [square root of ZYWV][/u] C
+ZY - WV
+
+[u]Bisection of B[/u]
+
+[u]ZX - [square root of ZXWU][/u] O - [u]WU - [square root of ZXWU][/u] Q
+ZX - WU ZX - WU
+
+= [u][U.ZX - WUX - (U + X) [square root of ZXWU]] A[/u]
++ [u][V.ZX - WUY - (V + Y) [square root of ZXWU]] B[/u]
++ [u][W.ZX - WUZ - (W + Z) [square root of ZXWU]] C[/u]
+ZX - WU
+
+{[1 + p [u]YZU - XVW - (X + U) [square root of VZWW][/u]] A
++ p [u]YZV - YVW - (Y + V) [square root of VZWW][/u] B
++ p [u]YZW - ZVW - (Z + W) [square root of VZWW][/u] C
+
+= q [u]ZXU - XWU - (X + U) [square root of ZXWU][/u] A
++ {1 + q [u]ZXV - YWU - (Y + V) [square root of ZXWU][/u]} B
++ q [u]ZXW - ZWU - (Z + W) [square root of ZXWU][/u] C
+
+P = XYZ U = UVW
+
+1 + pA = qB
+pB = 1 + q [del]A[/del] [ins]C[/ins]
+pC = q [del]B[/del] [ins]A[/ins]
+
+1 = ([u]BC[/u] - A) p
+F
+
+p = [u]F[/u]
+BC - [del]A[/del] [ins]A[/ins]
+
+q = [u]E[/u]
+BC - [del]A[/del] [ins]A[/ins]
+
+[del]F[/del] [ins]BC[/ins] A + [del]E[/del] [ins]CB[/ins] B + [del]E[/del] [ins]C[/ins] C
+BC - [del]A[/del] [ins]A[/ins] BC - [del]A[/del] [ins]A[/ins] BC - [del]A[/del] [ins]A[/ins]
+
+CB = PZWU - Z²XU - PW²U + ZXWW
+(-Z²XU + 2XWU - Z²
+- ZXWU + XW²U) [square root of VZVW]
+
++ (-PW - YZWU + ZXVW + Z[del]U[/del] [ins]W[/ins]) [square root of ZXWU]
++ (Z + W) (X + U) [square root of PZTW]
+
+= (Z - W) (PWU - ZXU)
++ (Z - W) (Z + W) XU [square root of VZVW]
++ ((XW - YW) ZW + Z[del]U[/del] [ins]T[/ins] - PW) [square root of ZXWU]
++ (Z + W) (X + U) [square root of PZTW]

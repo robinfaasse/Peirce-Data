@@ -1,0 +1,35 @@
+[pn]220[/pn]
+
+[marginalia]
+[del]
++11
++10
++9
++8
++7
++6
++5
++4
++3
++2
++1
+[/del]
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+[/marginalia]
+
+[fig]Grid diagram with binary sequences and mathematical formulas[/fig]
+
+$S_{n} = \frac{1}{100} (S_{n+10} + 112 S_{n+1}) - 10 S_{n-1} + \frac{1}{100} S_{n-10}$
+
+[marginalia]
+Fig. 321 First Section.
+287
+[/marginalia]

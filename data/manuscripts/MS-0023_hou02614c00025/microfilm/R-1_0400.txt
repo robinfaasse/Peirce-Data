@@ -1,0 +1,25 @@
+[u]3rd. To prove the distributive principle, first clause.[/u]
+The distributive principle consists of two propositions:
+[u]1st.[/u] [u](x+y)z=xz+yz[/u]
+[u]2nd.[/u] [u]x(y+z)=xy+xz.[/u]
+We now undertake to prove the first of these. First, it
+is true for x=1. For
+(1+y)z
+=z+yz by the definition of multiplication;
+=1.z+yz by the definition of multiplication.
+Second, if true for x=n it is true for x=1+n; that is, if
+(n+y)z=nz+yz, then ((1+n)+y)z=(1+n)z+yz. For
+((1+n)+y)z
+=(1+(n+y))z by the definition of addition;
+=z+(n+y)z by the definition of multiplication;
+=z+(nz+yz) by hypothesis;
+=(z+nz)+yz by the associative principle of addition;
+=(1+n)z+yz by the definition of multiplication.
+
+[u]4. To prove the second proposition of the distribu-[/u]
+[u]tive principle, that[/u]
+[u]x(y+z)=xy+xz.[/u]
+First, it is true for x=1; for
+1(y+z)
+=y+z by the definition of multiplication;
+=1y+1z by the definition of multiplication.

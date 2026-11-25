@@ -1,0 +1,33 @@
+[pn]287[/pn]
+
+$$\frac{E-Z}{EZ} = \frac{1}{6},$$
+or
+$$36 = (6-Z)(6+E)$$
+
+[marginalia]All the figures of this article to be replaced by good ones[/marginalia]
+
+Suppose $6-Z = 1$, or $Z=5$. Then $E=30$
+The number of faces = $\frac{60}{5} = 12$.
+The number of Summits = $\frac{60}{3} = 20$. It is an icosacral dodecahedron. [fig]pentagonal dodecahedron[/fig] [pn]Fig 18[u]c[/u][/pn]
+
+Suppose $6-Z = 2$, or $Z=4$. Then $6+E = 18$, $E=12$.
+The number of faces is $\frac{24}{4} = 6$
+The number of summits is $\frac{24}{3} = 8$ [fig]cube[/fig] [pn]Fig 18[u]b[/u][/pn]
+It is an octacral hexahedron.
+
+Suppose $6-Z = 3$, or $Z=3$. Then $6+E = 12$, $E=6$
+The number of faces is $\frac{12}{3} = 4$,
+The number of summits is $\frac{12}{3} = 4$. [fig]tetrahedron[/fig] [pn]Fig 18[u]a[/u][/pn]
+It is a tetracral tetrahedron.
+
+Suppose $6-Z = 4$, or $Z=2$. Then $6+E = 9$, $E=3$
+The number of faces is $\frac{6}{2} = 3$,
+The number of summits is $\frac{6}{3} = 2$.
+It is a diacral trihedron, which we have had already.
+
+Suppose $6-Z = 6$, or $Z=0$ Then $6+E = 6$, $E=0$
+In is an anacral monohedron, or simple globular surface.
+
+Suppose $Y$ is any other odd number than 3. [del]Then there is no possible solution in whole numbers except[/del] [ins]But this leads to the[/ins] [del]first solutions above.[/del] [ins]only[/ins] [del]we have already ha[/del] It is then necessary to solve [ins]for $Y$ greater than 2,[/ins]
+find two whole numbers $E$ and $Z$, such that
+$$\frac{E-Z}{EZ} = \frac{Y-2}{2Y}.$$

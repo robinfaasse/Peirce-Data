@@ -1,0 +1,19 @@
+FL [fig]figure[/fig] 45
+I call $1_{ij}$ meaning $i$ is identical with $j$, and $T_{ij}$ semi-logical
+predicates. In order to define $1_{ij}$ we [del]must[/del] [ins]had better[/ins] employ the notation
+$(p)_1$ to mean $p$ is true in the state of things $1$. Then, the defi-
+nition in question is
+$\Pi_i\ 1_{ii}$
+$\Pi_i \Pi_j \ \ \Pi_1\ (T_{ij})_1 + \Pi_2 \prod_u \ (\overline{u}_{ii} + u_{ij})_2$
+Without indices expressing states of things, this can be sufficiently
+expressed by writing
+$\Pi_i \Pi_j \prod_u \ T_{ij} + \overline{u}_{ii} + u_{ij}$
+or
+$\Pi_i \Pi_j \Pi_\alpha \ T_{ij} + \overline{r}_{\alpha ii} + r_{\alpha ij}$
+
+$1_{ij} \sim \Pi_\alpha \ \overline{r}_{\alpha ii} + r_{\alpha ij}$
+$\Pi_\beta \ \overline{r}_{\beta ii} + r_{\beta ji} \sim 1_{ji}$
+In whatever relation $i$ is to itself it is to $j$
+$\Pi_\beta \ \overline{r}_{\beta ij} + [del]B=\alpha[/del] \ [ins]B=\bar{\alpha}[/ins] \ r_{\beta ii}$
+[del]$H \ V = \check{\beta}$[/del]
+$\Pi_\gamma \ \overline{r}_{\gamma ji} + r_{\gamma ii}$

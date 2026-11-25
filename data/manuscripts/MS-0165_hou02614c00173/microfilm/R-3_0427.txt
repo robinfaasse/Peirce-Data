@@ -1,0 +1,31 @@
+[pn]180[/pn]
+
+[u]Corollary 55[/u]. The [ins]rational[/ins] [del]mean[/del] proportional between two rational quantities is [del]the[/del] [ins]a[/ins] square root of their product. For if
+A : M = M : B,
+then by Corollary 52
+M² = AB
+and M is one of the square roots of AB.
+
+[u]Theorem 39[/u]. If four [ins]rational[/ins] quantities A, B, C, D are in proportion
+A : B :: C : D
+and m and n are any two rational numbers, then
+[u]mA + nB[/u]
+mC + nD
+
+[u]has the same value whatever the values of m and n may be, unless both are zero or one is infinite.[/u]
+
+[u]Demonstration[/u]. For multiply the equation
+A/B = C/D
+by m/n, and add 1 to it. This gives
+1 + mA/nB = 1 + mC/nD,
+or
+[u]mA + nB[/u] = [u]mC + nD[/u].
+nB              nD
+
+Now, multiplying by [u]nB[/u]/mC + nD, we get
+[u]mA + nB[/u] = [u]n[/u]/n · [u]B[/u]/D = B/D.
+mC + nD
+
+If only one is zero, it is evident that
+[u]mA + 0[/u] = [u]m[/u]/m · A/C.
+mC + 0D

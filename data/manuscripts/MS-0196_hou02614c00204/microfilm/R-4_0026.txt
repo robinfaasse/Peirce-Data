@@ -1,0 +1,26 @@
+Square of the coefficient of $x$, its solution is plain
+$$(x+a)^2 = b^2$$
+$$x+a = \pm b$$
+$$x = -a \pm b.$$
+
+But if its form is
+$$x^2 + 2ax + a^2 + b^2 = 0$$
+its solution is
+$$x = -a \pm b\sqrt{-1}$$
+
+The square root of [del]$\sqrt{}$[/del] $-1$ here has no direct interpretation in uni-dimensional quantity. If the equation is given in the form
+$$x^2 + 2ax + b^2 = 0$$
+its solution is $x = -a \pm \sqrt{a^2 - b^2}$.
+
+Here we have the important form $\sqrt{a^2 - b^2}$, with which is [del]naturally[/del] [ins]connected[/ins] the form
+$$\sqrt{p^2 + q^2}.$$
+
+This occurs in probabilities, in geometry, in dynamics, and must be recognized in the imaginary calculus.
+
+Let us suppose we have the equation
+$$z^2 - 8z + 25 = 0.$$
+
+Its solution is
+$$z = 4 \pm 3i.$$
+
+Let us rebuild the equation upon the diagram

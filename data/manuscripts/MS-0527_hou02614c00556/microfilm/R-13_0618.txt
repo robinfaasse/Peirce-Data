@@ -1,0 +1,50 @@
+[pn]177[/pn]
+
+where $a$ and $a$ alike mean animal, it will be found convenient to replace the last
+index by $i$, standing for any object, and to write the proposition
+[ins]1[/ins] $\Pi_{i}(\bar{a}_{i} + v_{i})$.
+[u]5th.[/u] The next step consists in multiplying the whole Boolian part, by the
+modification of itself produced by substituting for the index of any $\Pi$ any other
+index standing to the left of it in the Quantifier. Thus, for
+$\Sigma_{i}\Pi_{j}l_{ij}$,
+we can write
+$\Sigma_{i}\Pi_{j}l_{ij}l_{ii}$.
+[u]6th.[/u] The next step consists in the re-manipulation of the Boolian part, con-
+sisting, 1st, in adding to any part any term we like; 2d, in dropping from any
+part any factor we like, and 3d, in observing that
+$x\bar{x} = \text{f}$, $x + \bar{x} = \text{v}$,
+so that
+$x\bar{x}y + z = z$, $(x + \bar{x} + y)z = z$.
+[u]7th.[/u] $\Pi$'s and $\Sigma$'s in the Quantifier whose indices no longer appear in the
+Boolian are dropped.
+The fifth step will, in practice, be combined with part of the sixth and seventh.
+Thus, from $\Sigma_{i}\Pi_{j}l_{ij}$ we shall at once proceed to $\Sigma_{i}l_{ii}$ if we like.
+
+[marginalia][del]Oct 5[/del][/marginalia]
+
+[ins]397[/ins] The following examples will be sufficient.
+From the premises $\Sigma_{i}a_{i}b_{i}$ and $\Pi_{j}(\bar{b}_{j} + c_{j})$, eliminate $b$. We first write
+$\Sigma_{i}\Pi_{j}a_{i}b_{i}(\bar{b}_{j} + c_{j})$.
+The distributive process gives
+$\Sigma_{i}\Pi_{j}a_{i}(b_{i}\bar{b}_{j} + b_{i}c_{j})$.
+But [del]we[/del] [ins]always[/ins] [del]have a right to[/del] [ins]drop a factor or insert an additive term. We thus[/ins]
+get
+$\Sigma_{i}\Pi_{j}a_{i}(b_{i}\bar{b}_{j} + c_{j})$.
+By the third process, we can, if we like, insert $n_{ij}$ for $b_{i}\bar{b}_{j}$. In either case, we
+identify $j$ with $i$ and get the conclusion
+$\Sigma_{i}a_{i}c_{i}$.
+Given the premises
+$\Sigma_{h}\Pi_{i}\Sigma_{j}\Pi_{k}(a_{hik} + s_{jk}l_{ji})$
+$\Sigma_{u}\Sigma_{v}\Pi_{x}\Pi_{y}(\epsilon_{uyx} + \bar{s}_{yv}b_{vx})$.
+Required to eliminate $s$. The combined premise is
+$\Sigma_{u}\Sigma_{v}\Sigma_{h}\Pi_{i}\Sigma_{j}\Pi_{k}\Pi_{x}\Pi_{y}(a_{hik} + s_{jk}l_{ji})(\epsilon_{uyx} + \bar{s}_{yv}b_{vx})$.
+Identify $k$ with $v$ and $y$ with $j$, and we get
+$\Sigma_{u}\Sigma_{v}\Sigma_{h}\Pi_{i}\Sigma_{j}\Pi_{x}(a_{hiv} + s_{jv}l_{ji})(\epsilon_{ujx} + \bar{s}_{jv}b_{vx})$.
+The Boolian part then reduces, so that the conclusion is
+$\Sigma_{u}\Sigma_{v}\Sigma_{h}\Pi_{i}\Sigma_{j}\Pi_{x}(a_{hiv}\epsilon_{ujx} + a_{hiv}b_{vx} + \epsilon_{ujx}l_{ji})$.
+
+[marginalia]
+[del]And[/del] [ins]x[/ins] [ [ins]See[/ins] 403 C and M.7 ]
+[/marginalia]
+
+[fig]checkmark and a large V-shaped mark[/fig]

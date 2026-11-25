@@ -1,0 +1,33 @@
+[pn]146[/pn]
+
+58. Two travellers [del]set out at the same time,[/del] [ins]journeyed[/ins] one from [del]Gath[/del] [ins]Dan[/ins] to Beersheba,
+the other from Beersheba to [del]Gath[/del] [ins]Dan[/ins]. When they met, the former
+had gone 30 miles the further, and both travelling at uniform
+rates, the former completes his journey in 4 days more, the
+latter in 9 days more. What is the distance from [del]Gath[/del] [ins]Dan[/ins] to
+Beersheba?
+
+Let $x$ be the distance [ins]in miles[/ins]. When they met, the first had
+traveller $\frac{1}{2}x + 15$ [ins]miles[/ins], the latter $\frac{1}{2}x - 15$ [ins]miles[/ins]; for in all they had
+traveller $x$ miles and the former 30 miles more than
+the latter. The former, travelling $\frac{1}{2}x - 15$ in 4 days, goes
+$\frac{1}{8}x - \frac{15}{4}$ miles a day. The latter goes $\frac{1}{18}x + \frac{15}{9}$ a day.
+At these rates the times the first took in going $\frac{1}{2}x + 15$ miles
+was $4 \frac{\frac{1}{2}x + 15}{\frac{1}{2}x - 15}$, while the time the second took in going
+$\frac{1}{2}x - 15$ miles was $9 \frac{\frac{1}{2}x - 15}{\frac{1}{2}x + 15}$. These times are equal; so
+that
+$4 \frac{\frac{1}{2}x + 15}{\frac{1}{2}x - 15} = 9 \frac{\frac{1}{2}x - 15}{\frac{1}{2}x + 15}$,
+
+or $\frac{\frac{1}{2}x + 15}{\frac{1}{2}x - 15} \cdot \frac{\frac{1}{2}x + 15}{\frac{1}{2}x - 15} = \frac{9}{4}$.
+
+Then, either $\frac{\frac{1}{2}x + 15}{\frac{1}{2}x - 15} = \frac{3}{2}$
+In the former case,
+[del]for the former[/del] $x + 30 = \frac{3}{2}x - 45$;
+$\frac{1}{2}x = 75$;
+$x = 150$.
+
+or $\frac{\frac{1}{2}x + 15}{\frac{1}{2}x - 15} = - \frac{3}{2}$.
+In the latter case,
+$x + 30 = 45 - \frac{3}{2}x$;
+$\frac{5}{2}x = 15$;
+$x = 6$.

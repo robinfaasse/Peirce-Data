@@ -1,0 +1,17 @@
+[marginalia]
+[pn]Logic[/pn] [pn]111[/pn]
+[pn]179[/pn] [pn]part[/pn]
+[/marginalia]
+
+$$I = JK \quad L = KJ$$
+
+Then $I^2 = JK.JK = JKJ.K = JK = I$
+$L^2 = KJ.KJ = KJK.J = KJ = L$
+$IL = JK.KJ = J.K^2J = 0$.
+$LI = KJ.JK = K.J^2K = 0$.
+$IK = JK.K = JK^2 = 0$
+$KI = K.JK = K$ etc.
+
+and we shall have this multiplication-table
+
+[fig]Multiplication table diagram with variables I, J, K, L[/fig]

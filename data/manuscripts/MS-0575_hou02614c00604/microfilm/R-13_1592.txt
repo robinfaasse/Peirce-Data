@@ -1,0 +1,20 @@
+[u]Definition of the Copula of Inclusion.[/u]
+
+(1) [u]x[/u] < [u]x[/u]
+(2) If [u]x[/u] < [u]y[/u] and [u]y[/u] < [u]z[/u], then [u]x[/u] < [u]z[/u].
+
+This definition does not distinguish between the relation expressed by the copula and its converse. But no further determination is relevant to formal logic.
+Corollary 1. Corresponding to every [ins]general[/ins] logical proposition of logic, is another [del]in which < replaces[/del] [del]Definition of Copula of Identity.[/del] [ins]If [u]x[/u] < [u]y[/u] and [u]y[/u] < [u]x[/u] then [u]x[/u] = [u]y[/u] and [del]vice versa[/del] [ins]conversely[/ins][/ins]
+
+[u]Definition of the Logical Sum[/u]
+
+(3) [u]x[/u] + [u]y[/u] < [u]y[/u] + [u]x[/u].
+(4) [u]x[/u] < [u]x[/u] + [u]y[/u].
+(5) If [u]x[/u] < [u]z[/u] and [u]y[/u] < [u]z[/u], then [u]x[/u] + [u]y[/u] < [u]z[/u].
+
+[u]Definition of the [ins]Internal[/ins] Logical Product.[/u]
+
+(6) [u]x[/u] , [u]y[/u] < [u]y[/u] , [u]x[/u].
+(7) [u]x[/u] , [u]y[/u] < [u]x[/u]
+(8) If [u]z[/u] < [u]x[/u] and [u]z[/u] < [u]y[/u], then [u]z[/u] < [u]x[/u] , [u]y[/u].
+Corollary 2 From [del](7), (6)[/del] (2) it follows that [u]x[/u] , [u]y[/u] < [u]x[/u] , [del][u]y[/u][/del] [pn](8½)[/pn]

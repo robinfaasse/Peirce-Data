@@ -1,0 +1,27 @@
+[del]D[/del] $r^2 = sq \quad U^2 = \frac{s}{q}$
+
+$D_s = q D_{r^2} + \frac{1}{q} D_{U^2}$
+
+$\log r^2 = \log s + \log q$
+$\log U^2 = \log s - \log q$
+
+[del]$D_{\log s}$[/del]
+$D_s = \frac{1}{s} D_{\log s}$
+
+$D_q = s D_{r^2} - \frac{s}{q^2} D_{U^2}$
+
+$D_s \chi = F'_1 s + F'_4 q + q F'_3 s$
+
+[del]$F_4 s = \Psi_1 (\log r^2 + \log U^2) +$[/del] [del]$\Psi$[/del]
+$F_3 s = \Psi_1 r^2 U^2 + r U \Psi_2 r^2 U^2$
+
+[del]$F'_3 s = \frac{r}{s} D_{r^2} \Psi_1 r^2 U^2 + \frac{U}{s} D_{U^2} \Psi_2 r^2 U^2$[/del]
+[del]$D_s = q D_{r^2} + \frac{1}{q} D_{U^2}$[/del]
+
+$D_s \chi = \Phi_1 r^2 U^2 + r U \Phi_2 r^2 U^2 + \Psi_1 \frac{r^2}{U^2} - \frac{r}{U} \Psi_2 \frac{r^2}{U^2}$
+$+ 2 r^2 \Psi'_1 r^2 U^2 + \frac{r}{U} \Psi_2 r^2 U^2 + 2 r^3 U \Psi'_2 r^2 U^2$
+
+[del]$(r^2 U^2 - c i) ($[/del]
+$(r U - c i) (\frac{r}{U} + c i) = b'^2$
+
+$r^2 + c r (U - \frac{1}{U}) i + c^2 = b^2$

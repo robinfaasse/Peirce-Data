@@ -1,0 +1,21 @@
+[pn]N17[/pn]
+
+[ins]†, in (114)[/ins] we get
+$\Pi_i \Pi_j \Pi_k \Pi_w \Pi_u (\overline{i+j})_k + \sigma_{wk} \Psi(u+j)_w + \bar{\sigma}_{ui}$
+
+Let us insert the aggregant $\bar{q}_{\beta u}$ :
+$\Pi_i \Pi_j \Pi_k \Pi_w \Pi_\beta \Pi_u (\overline{i+j})_k + \sigma_{wk} + \bar{q}_{\beta u} \Psi(u+j)_w + \bar{\sigma}_{ui}$
+
+The insertion of this aggregant authorizes the insertion of its negative as a component of another aggregant:
+$\Pi_i \Pi_j \Pi_k \Pi_w \Pi_\beta \Pi_u (\overline{i+j})_k + \sigma_{wk} + \bar{q}_{\beta u} \Psi(u+j)_w + q_{\beta u} \cdot \bar{\sigma}_{ui}$
+
+Let the index $u$ now be diduced, becoming $x$ in the last aggregant:
+$\Pi_i \Pi_j \Pi_k \Pi_w \Pi_\beta \Pi_u \Sigma_x (\overline{i+j})_k \Psi \sigma_{wk} \Psi \bar{q}_{\beta u} \Psi(u+j)_w + q_{\beta x} \cdot \bar{\sigma}_{xi}$
+
+Let $\bar{q}_{\alpha w}$ be inserted as an aggregant:
+$\Pi_i \Pi_j \Pi_k \Pi_\alpha \Pi_w \Pi_\beta \Pi_u \Sigma_x (\overline{i+j})_k \Psi \bar{q}_{\alpha w} \Psi \sigma_{wk} + \bar{q}_{\beta u} \Psi(u+j)_w \Psi q_{\beta x} \cdot \bar{\sigma}_{xi}$
+
+The insertion of this aggregant authorizes the insertion of its negative as a component of another aggregant:
+$\Pi_i \Pi_j \Pi_k \Pi_\alpha \Pi_w \Pi_\beta \Pi_u \Sigma_x (\overline{i+j})_k \Psi \bar{q}_{\alpha w} \Psi \sigma_{wk} \Psi q_{\alpha w} [\bar{q}_{\beta u} \Psi(u+j)_w] \Psi q_{\beta x} \cdot \bar{\sigma}_{xi}$
+
+We now diduce $w$, transmuting it in one term into $z$, and thus obtain finally, [fig]checkmark[/fig]

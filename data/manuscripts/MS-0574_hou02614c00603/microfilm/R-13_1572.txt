@@ -1,0 +1,13 @@
+From (2), (3), (5)
+
+[del]\bar{I} g \textcircled{1} \prec g \textcircled{1}[/del]
+[del]g \bar{I} \textcircled{1} \prec g \textcircled{1}[/del] [ins]g \bar{I} \textcircled{1} \prec g \textcircled{1}[/ins] [u]Distinct[/u]
+[del]\breve{g} \bar{I} \textcircled{1} \prec \breve{g} g \textcircled{1}[/del]
+
+\{ \bar{I} \breve{g} \times (\bar{g} \dagger \breve{g}) \} \textcircled{1} \prec 0 From 5 alone
+( \breve{g} \bar{I} \times (\breve{g} \dagger g) \textcircled{1} \prec 0
+
+(\bar{I} \times \bar{g}) \breve{g} \textcircled{1} \prec 0 Follows from 5
+\breve{g} (\bar{I} \times \bar{g}) \textcircled{1} \prec 0 Follows from 3 & 5
+(\bar{I} \times \breve{g} \bar{g}) \textcircled{1} \prec 0
+\infty \prec \{ \bar{I} + (\breve{g} \dagger g) \} \dagger \bar{\textcircled{1}}

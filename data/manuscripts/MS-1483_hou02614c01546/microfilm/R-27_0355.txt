@@ -1,0 +1,48 @@
+[fig]star-like diagram[/fig] [del]3X₁ + 5I₁⁻¹ + (I₁⁻¹ II I₁[/del]
+X₁ + 5I₁⁻¹ + I₁³
+[fig]star-like diagram[/fig] = [del]+1[/del] = 2X₁ + 5I₁⁻¹ + (I₁⁰ II I₁⁰)
+I₁⁰ II I₁⁰
+
+[fig]star-like diagram[/fig] = X₁ + (m+n) I₁⁻¹ + [del](m+n-2)[/del] I₁[ins]m+n-2[/ins]
+= +1
+
+= [del]3[/del] X₁ + 4I₁⁻¹ + I₁²
+= 2X₁ + 4 I₁⁻¹ + (I₁⁰ II I₁⁰)
+I₁⁰ II I₁⁰ = 2 - 1
+
+[fig]star-like diagram[/fig] = 3X₁ + 5I₁⁻¹ + (I₁⁰ II I₁⁰ II I₁⁰)
+I₁⁰ II I₁⁰ II I₁⁰ = -2
+
+[fig]infinity symbol[/fig] = X₁ + 2K₁ + I₁² = -1
+= 2X₁ + 2K₁ + (I₁⁰ II I₁⁰)
+
+[fig]loop symbol[/fig] 0 = 0 0 = 1
+
+[fig]Y-like diagram[/fig] = X₁ + 3I₁⁻¹ + I₁¹ = 1
+= 2X₁ + 3I₁⁻¹ +
+
+[fig]loop with line[/fig] = X₁ + I₁⁻¹ + K₁ + I₁¹ = 0
+= 2X₁ + K₁ + 2I₁⁻¹ + (I₁⁰ II I₁⁰)
+
+3X₁ + 2X₀ = -1
+[fig]circle with horizontal line[/fig] X₁ + 2K₁ + 2I₁¹ = 2X₁ + K₁
+
+Now lines and points
+
+[fig]circle with horizontal line[/fig] = -1 [fig]circle with horizontal line and dot[/fig] 2X₁ + K₁ [del]II 2[/del] (X₀ II I₁⁰)
+X₀ II I₁⁰ = 0
+
+[fig]star-like diagram[/fig] = [del]X₁ + 2n I₁⁻¹ + 2(n-1) I₁²(n-1)[/del] = -1
+= X₁ + 2(m+n) I₁⁻¹ + I₁²(m+n)-2
+= 2X₁ + 2(m+n) I₁⁻¹ + (I₁²m-2 II I₁²n-2)
+I₁²m-2 II I₁²n-2 = -2(m+n) + 2 = -2(m-1) - (2n-1)
+= -(2m-2) - (2n-2) + 2
+I₁ˣ II I₁ʸ = -(x+y) + 2
+3X₁ + 2(l+m+n) I₁⁻¹ + [del]2(l+m+n)-2[/del]
++ (I₁²l-2 II I₁²m-2 II I₁²n-2)
+
+[fig]star-like diagram[/fig] [del]X₁ + m I₁⁻¹ + (m-2)[/del]
+
++n - 2 [summation over n] lᵢ = [del]I₁²l-2[/del] I₁⁻¹ II I₁ʸ II I₁ᶻ = -(x+y+z) + 3
+-n - 2 [summation over n] [del]kᵢ[/del] n X₁ + 2([summation over n] lᵢ) I₁⁻¹ + [del]II[/del] I₁[ins]2[summation over n] lᵢ - 2[/ins]
+-n - 2 [summation over n] kᵢ [del]II[/del] I₁⁻¹ = -2 [summation over n] kᵢ + [del]n[/del]

@@ -1,0 +1,34 @@
+[pn]41[/pn]
+
+are tautologous. Next, the two [u]v[/u]s in [u]Fig. 99[/u] have precisely the same effect, and one of them [del]may[/del] [ins]might[/ins] be cut off.
+
+[fig]Two intersecting lines with a curve[/fig]
+
+$$\frac{\mathcal{M} y}{\mathrm{D}^2 y} = 1 + 2 B x + A x^2$$
+
+$$\frac{A \mathcal{M} y}{\mathrm{D}^2 y} - A + B^2 = (B + A x)^2$$
+
+$$y = Q_0 + Q_1 \mathrm{D}^2 y + Q_2 \left(\mathrm{D}^2 y\right)^2 + Q_3 \left(\mathrm{D}^2 y\right)^3 + \text{etc}$$
+
+[fig]Curve with sharp peak[/fig] [fig]Bell curve with vertical axis[/fig]
+
+$$\mathrm{D}_x^2 y = \frac{\mathcal{M} y}{x^2}$$
+$$\mathrm{D}_x^3 y = \frac{\mathcal{M} \mathrm{D} y}{x^2} - \frac{2 y}{x^3}$$
+
+$$y = \frac{1}{\mathcal{M}} \mathrm{D}_x^2 y \left(1 + 2 B x + A x^2\right)$$
+
+$$\mathrm{D}_x y = \frac{1}{\mathcal{M}} \mathrm{D}_x^3 y \left(1 + 2 B x + A x^2\right) + \frac{2}{\mathcal{M}} \mathrm{D}_x^2 y \left(B + A x\right)$$
+
+$$\mathrm{D}_x^2 y = \frac{1}{\mathcal{M}} \mathrm{D}_x^4 y \left(1 + 2 B x + A x^2\right) + \frac{4}{\mathcal{M}} \mathrm{D}_x^3 y \left(B + A x\right) + \frac{2}{\mathcal{M}} \mathrm{D}_x^2 y \cdot A$$
+
+[fig]Two small curved lines[/fig]
+
+[fig]Graph with axes and a curve[/fig]
+
+[fig]Curve with horizontal asymptote[/fig]
+
+[fig]Small curve[/fig]
+
+[fig]Coordinate axes[/fig]
+
+[fig]Curve with tangent line[/fig]

@@ -1,0 +1,29 @@
+Don't you think a very small trigonometry for
+advanced students, treating of errors due to neglected
+decimals, & such matters of practical computing
+would go, & pay for the time of preparation.
+
+I should begin something like this:
+
+If $i^2 = -1$, and $e$ is any positive number, then
+writing $z = x + yi$
+$$e^z = e^{x+yi} = e^x \cdot e^{yi}$$
+
+Now $e^x$ is [del]calculable[/del] [ins]known[/ins] if $x$ is a rational fraction; and
+if not, it can be approximated to. The question is
+what is $e^{yi}$? Suppose
+$$e^{yi} = Fy + \Phi y \cdot i$$
+
+Then, $e^{(y_1+y_2)i} = F(y_1+y_2) + \Phi(y_1+y_2) \cdot i$
+$$= e^{y_1 i} \cdot e^{y_2 i} = Fy_1 \cdot Fy_2 - \Phi y_1 \cdot \Phi y_2$$
+$$+ (Fy_1 \cdot \Phi y_2 + Fy_2 \cdot \Phi y_1) i$$
+
+So that
+$$F(y_1+y_2) = Fy_1 \cdot Fy_2 - \Phi y_1 \cdot \Phi y_2$$
+$$\Phi(y_1+y_2) = Fy_1 \cdot \Phi y_2 + Fy_2 \cdot \Phi y_1$$
+
+Since $e^{0i} = 1$, $F0 = 1$ & $\Phi 0 = 0$.
+$$1 = F0 = F(y-y) = Fy \cdot F(-y) - \Phi y \cdot \Phi(-y)$$
+$$0 = \Phi 0 = \Phi(y-y) = Fy \cdot \Phi(-y) + F(-y) \cdot \Phi y$$
+
+$\therefore \frac{Fy}{F(-y)} = (Fy)^2 + (\Phi y)^2 = - \frac{\Phi y}{\Phi(-y)}$

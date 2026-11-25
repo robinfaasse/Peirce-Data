@@ -1,0 +1,23 @@
+[pn]77[/pn]
+
+Go back then to the premises
+$$\Pi_{\alpha} \Sigma_{1} \Pi_{2} \Sigma_{3} \{ \bar{\varphi}_{2} x_{1} + \chi_{1} (\bar{\gamma}_{\alpha 12} + \gamma_{\alpha 32} \bar{I}_{13}) \}$$
+
+We have at once
+$$\Sigma_{1} x_{1} \qquad \text{and a fortiori} \quad \Pi_{2} \Sigma_{1} (\bar{\varphi}_{2} + x_{1})$$
+
+We have
+$$\Sigma_{1} \Pi_{4} \Pi_{2} (\bar{\varphi}_{4} \bar{\gamma}_{\alpha 12} + \chi_{1} \bar{\gamma}_{\alpha 12})$$
+This is obviously true, because any power with
+[del]contains a term exclusively in[/del]
+Multiplying these by this we have
+$$\Sigma_{\beta} \Pi_{\alpha} \Sigma_{1} \Pi_{2} \Sigma_{3} \Pi_{4} \Pi_{5}$$
+$$\{ \bar{\varphi}_{2} x_{1} + \chi_{1} (\bar{\gamma}_{\alpha 12} + \gamma_{\alpha 32} \bar{I}_{13}) \} \{ \bar{\varphi}_{4} \bar{\gamma}_{\beta 15} + \chi_{4} \bar{\gamma}_{\beta 45} \}$$
+Multiply again by the last factor identifying 5 with 2
+in both factors and 4 in one factor with 1 and
+in the other with 3. Identify $\alpha$ with $\beta$. We get
+by omission of factors
+$$\Pi_{2} \Sigma_{1} \Sigma_{3} (\bar{\varphi}_{2} + \chi_{1} \chi_{3} \bar{I}_{13})$$
+
+$$\{ \bar{\varphi}_{2} x_{1} + \chi_{1} (\bar{\gamma}_{\alpha 12} + \gamma_{\alpha 32} \bar{I}_{13} \} \{ \bar{\varphi}_{1} \bar{\gamma}_{\alpha 12} + \chi_{1} \bar{\gamma}_{\alpha 12} \} \{ \bar{\varphi}_{3} \bar{\gamma}_{\alpha 32} + \chi_{3} \bar{\gamma}_{\alpha 32} \}$$
+$$\bar{\varphi}_{2} + \chi_{1} \gamma_{\alpha 32} \bar{I}_{13} \chi_{3}$$

@@ -1,0 +1,13 @@
+We will suppose an ellipsoidal solid whose equation is
+$$ \left(\frac{x}{100}\right)^2 + \left(10y\right)^2 + \left(\frac{z}{1000}\right)^2 = 1 $$ [fig]sketch of a truncated cone[/fig]
+
+At $t=0$ put [del]$\rho = \frac{\rho_0}{x^2 + (100y)^2 + y}$[/del] [fig]caricature of a man's head[/fig]
+
+$$ \rho = \rho_0 + \frac{\rho_0}{\frac{1}{4} \cdot 100^2 \left\{1 - (10y)^2 - \left(\frac{z}{1000}\right)^2\right\} + x} $$
+
+$$ w = 0 $$
+$$ [del]x = y =[/del] [ins]u = v =[/ins] 1 - \frac{1}{\left(\frac{x}{100}\right)^2 + \left(10y\right)^2 + \left(\frac{z}{1000}\right)^2 - 1} $$
+
+Then the equation of continuity makes for $t=0$ $-\frac{1}{\rho} \frac{d\rho}{dt} = \frac{du}{dx} + \frac{dv}{dy} + \frac{dw}{dz}$
+
+$$ \frac{du}{dx} + \frac{dv}{dy} = 2 \frac{\frac{1}{100^2} x + 10^2 y}{\left\{\left(\frac{x}{100}\right)^2 + \left(10y\right)^2 + \left(\frac{z}{1000}\right)^2 - 1\right\}^2} $$

@@ -1,0 +1,20 @@
+$$(x^2+y^2)(y+cz) + 2\bar{c}xyz = 0$$
+To form the line equation
+
+$$u = 2x(y+cz) + 2\bar{c}yz$$
+$$v = 2y(y+cz) + x^2+y^2 + 2\bar{c}xz$$
+$$w = cx^2+cy^2 + 2\bar{c}xy$$
+
+$$ux+vy = \begin{aligned} & 2(x^2+y^2)(y+cz) + 4\bar{c}xyz + (x^2+y^2)y \\ & [del]2x(y+[/del] \end{aligned}$$
+$$= (x^2+y^2)y$$
+
+$$u\frac{x}{y} + v = x^2+y^2$$
+$$x^2 - u\frac{x}{y} = v-y^2$$
+$$w = c\frac{x}{y}u + cv + 2\bar{c}[del]x[/del]y$$
+$$(\frac{cu}{y} + 2\bar{c}y)[del]x[/del] = w-cv$$
+$$x = \frac{w-cv}{\frac{cu}{y} + 2\bar{c}y}$$
+
+$$\begin{aligned} cv-w &= [del]2y(y+c[/del] \\ cv-w &= 2cy(y+cz) + 2c\bar{c}xz - 2\bar{c}xy \\ &= 2\frac{c}{y}x^2(y+cz) + 2c\bar{c}xz - 2\bar{c}xy \end{aligned}$$
+
+$$u = 2\frac{w-cv}{\frac{cu}{y} + 2\bar{c}y}(y+cz) + 2\bar{c}yz$$
+$$= 2y\frac{w-cv}{cu+2\bar{c}y^2}(y+cz) + 2\bar{c}yz$$

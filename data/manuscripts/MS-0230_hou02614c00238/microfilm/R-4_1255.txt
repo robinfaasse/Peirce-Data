@@ -1,0 +1,39 @@
+[marginalia]
+$x$ $y$ $z$
+$y_1$ $z_1$ $x_1$
+$z_2$ $x_2$ $y_2$
+[/marginalia]
+
+[del] $y_1 x_1 \cos \phi - z_1 x_1 \sin \phi$ [/del]
+[del] $y_1 x_1 \sin \phi + z_1$ [/del]
+$x_2^2 = x_1^2$
+$x_2 y_2 = y_1 x_1 \cos \phi - z_1 x_1 \sin \phi$
+$z_2 x_2 = y_1 x_1 \sin \phi + z_1 x_1 \cos \phi$
+$y_2^2 = y_1^2 \cos^2 \phi - 2 y_1 z_1 \sin \phi \cos \phi + z_1^2 \sin^2 \phi$
+$z_2^2 = y_1^2 \sin^2 \phi + 2 y_1 z_1 \sin \phi \cos \phi + z_1^2 \cos^2 \phi$
+$y_2 z_2 = (y_1^2 - z_1^2) \sin \phi \cos \phi + y_1 z_1 (\cos^2 \phi - \sin^2 \phi)$
+$y_3^2 = y_2^2$
+$y_3 z_3 = y_2 z_2 \cos \psi - x_2 y_2 \sin \psi$
+$x_3 y_3 = y_2 z_2 \sin \psi + x_2 y_2 \cos \psi$
+$z_3^2 = z_2^2 \cos^2 \psi - 2 x_2 z_2 \sin \psi \cos \psi + x_2^2 \sin^2 \psi$
+$x_3^2 = z_2^2 \sin^2 \psi + 2 x_2 z_2 \sin \psi \cos \psi + x_2^2 \cos^2 \psi$
+$x_3 z_3 = (z_2^2 - x_2^2) \sin \psi \cos \psi + x_2 z_2 (\cos^2 \psi - \sin^2 \psi)$
+
+---
+
+[fig]crossed out lines[/fig] [del] $x_1 y_1 = 0$ [/del]
+[fig]crossed out lines[/fig] [del] $x_2 y_2 = - x_2 z_2$ [/del]
+
+$\frac{x_1 y_1}{z_1 x_1} = \tan \phi$ such that $x_2 y_2 = 0$
+
+[fig]crossed out lines[/fig] [del] if $y_2 z_2 = 0$ [/del]
+
+$\phi$ such that $y_2 z_2 = 0$
+
+[fig]crossed out lines[/fig] [del] $y_3 z_3 = - x_3 y_3 = - x_2 y_2 \sin \psi$ [/del]
+
+Put $y_3 z_3 = x_3 y_3 = 0$
+Because $y_2 z_2 = 0$ [del] if $x_2 y_2 = 0$ [/del]
+$x_2 y_2 = 0$
+
+Determine $\psi$ so that $x_3 z_3 = 0$

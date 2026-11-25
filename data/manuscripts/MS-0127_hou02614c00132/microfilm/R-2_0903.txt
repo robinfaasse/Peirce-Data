@@ -1,0 +1,43 @@
+[fig]Geometric diagram with lines and points labeled A, B, A', B', O, A+B[/fig]
+
+[del]-aA+(1+a)O[/del]
+
+[del]-a(1+b)A + bB + a(1+b)O[/del]/b = [ins]1+b[/ins]/b A' + 1/b B'
+
+[del]-abA - abB + (a+b+2ab)O[/del]/a+b = bA' + aB'/a+b
+
+[del]aA - (1+a)bB + (1+a)bO[/del]/a = -A' + (1+a)B'/a
+
+-bB + (1+b)O
+
+bA' + aB'
+
+B' = -bB + (1+b)O
+
+-B' + (1+b)O/b = B
+
+-A' + (1+a)O/a = A
+
+[del]-(1+b)A' + (1+a)B'[/del]/a-b = a(1+b)A - (1+a)bB/a-b
+
+[del]-(1+b)[/del]
+[del]-(1+a)(1+b) + (1+b)[/del]
+
+-A + 1+a/a O
+-B + 1+b/b O
+-A - B + a+b+2ab/ab O
+
+[del]b + ab + a[/del]
+
+x(1+a) + y(1+b) = y
+y = (1+a)x
+
+[del]-aA + (1+a)O[/del]
+-abA + (1+a)bO
+[del]-(1+a)bB + (1+a)(1+b)O[/del]
+[del]aA - (1+a)bO[/del]
+[del](1+a)b + (1+a)(1+b)[/del]
+
+[del]ab + (1+a)b[/del]
+(1+a)x + (1+b)y
+y = -(1+a)x = [del]1+b[/del]

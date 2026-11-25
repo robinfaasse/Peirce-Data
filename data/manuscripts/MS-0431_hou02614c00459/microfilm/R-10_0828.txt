@@ -1,0 +1,45 @@
+[marginalia]
+[u]Logic[/u]
+III
+169
+
+[fig]Symbol resembling XI[/fig]
+[fig]Symbol resembling an asterisk[/fig]
+
+[date]FEB -8 1902[/date]
+[/marginalia]
+
+[pn]i[/pn] = III : III + [fig]Symbol resembling an asterisk[/fig] : [fig]Symbol resembling an asterisk[/fig] + [fig]Symbol resembling XI[/fig] : [fig]Symbol resembling XI[/fig] + IX : IX + [fig]Symbol resembling an asterisk[/fig] : [fig]Symbol resembling an asterisk[/fig] + XI : XI
+[pn]j[/pn] = [fig]Symbol resembling an asterisk[/fig] : III + III : [fig]Symbol resembling an asterisk[/fig] + III : [fig]Symbol resembling an asterisk[/fig] + XI : XI + IX : IX + [fig]Symbol resembling an asterisk[/fig] : [fig]Symbol resembling an asterisk[/fig] + [fig]Symbol resembling XI[/fig] : [fig]Symbol resembling XI[/fig]
+[pn]k[/pn] = [fig]Symbol resembling an asterisk[/fig] : III + III : [fig]Symbol resembling an asterisk[/fig] + [fig]Symbol resembling an asterisk[/fig] : [fig]Symbol resembling an asterisk[/fig] + [fig]Symbol resembling XI[/fig] : [fig]Symbol resembling XI[/fig] + XI : XI + IX : IX + [fig]Symbol resembling an asterisk[/fig] : [fig]Symbol resembling an asterisk[/fig]
+[pn]l[/pn] = IX : III + III : IX + IX : IX + [del]III[/del] [ins]III[/ins] : [fig]Symbol resembling an asterisk[/fig] + [del]IX[/del] [ins]IX[/ins] : [fig]Symbol resembling an asterisk[/fig] + [del]IX[/del] [ins][fig]Symbol resembling an asterisk[/fig][/ins] : [fig]Symbol resembling an asterisk[/fig] + [fig]Symbol resembling an asterisk[/fig] : [fig]Symbol resembling an asterisk[/fig]
+[pn]m[/pn] = [fig]Symbol resembling an asterisk[/fig] : III + XI : XI + IX : IX + [fig]Symbol resembling an asterisk[/fig] : [fig]Symbol resembling an asterisk[/fig] + III : III + [fig]Symbol resembling an asterisk[/fig] : [fig]Symbol resembling an asterisk[/fig] + XI : XI
+[pn]n[/pn] = XI : III + IX : IX + [fig]Symbol resembling an asterisk[/fig] : [fig]Symbol resembling an asterisk[/fig] + XI : XI + IX : IX + [fig]Symbol resembling an asterisk[/fig] : [fig]Symbol resembling an asterisk[/fig] + III : III
+
+By examining the multiplication table, it will be perceived that
+-(j-k)² = (l-m)² = (m-n)² = (n-l)² = (i-j) + (i-k)
+[del]while [unclear]1/2[/unclear] (i±l)² =[/del]
+
+(j-k)(l-m) = (n-l) - (m-n)
+(i-k)(m-n) = (l-m) - (n-l)
+(j-k)(n-l) = [del](m-n) - (l-m)[/del] [ins](m-n) - (l-m)[/ins]
+
+(l-m)(j-k) = (m-n) - (n-l)
+(m-n)(j-k) = (n-l) - (l-m)
+(n-l)(j-k) = (l-m) - (m-n)
+
+[ [unclear]1/2[/unclear] (i±l) ]² = [unclear]1/2[/unclear] (i±l)
+[ [unclear]1/2[/unclear] (i±m) ]² = [unclear]1/2[/unclear] (i±m)
+[ [unclear]1/2[/unclear] (i±n) ]² = [unclear]1/2[/unclear] (i±n)
+
+[unclear]1/2[/unclear] (i±l)(j-k) = [unclear]1/2[/unclear] (j-k) ± (m-n)
+[unclear]1/2[/unclear] (j-k)(i±l) = - [unclear]1/2[/unclear] (j-k) ∓ (m-n)
+
+[unclear]1/2[/unclear] (i±m)(j-k) = [unclear]1/2[/unclear] (j-k) ± (n-l)
+[unclear]1/2[/unclear] (j-k)(i±m) = [unclear]1/2[/unclear] (j-k) ∓ (n-l)
+
+[unclear]1/2[/unclear] (i±n)(j-k) = [unclear]1/2[/unclear] (j-k) ± (l-m)
+[unclear]1/2[/unclear] (j-k)(i±n) = [unclear]1/2[/unclear] (j-k) ∓ (l-m)
+
+[ [unclear]1/3[/unclear] (i+i+k) ]² = [ [unclear]1/3[/unclear] (l+m+n) ]² = [unclear]1/3[/unclear] (i+i+k)
+[unclear]1/3[/unclear] (i+i+k) [unclear]1/3[/unclear] (l+m+n) = [unclear]1/3[/unclear] (l+m+n) [unclear]1/3[/unclear] (i+i+k) = [unclear]1/3[/unclear] (l+m+n)

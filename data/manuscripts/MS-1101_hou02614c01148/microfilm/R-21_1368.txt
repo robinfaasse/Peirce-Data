@@ -1,0 +1,59 @@
+[marginalia]
+None next greater than self
+2 No number next greater than every No greatest
+3 At least 2
+2 No branching
+4 No uniting
+[/marginalia]
+
+[fig]Diagram of branching and uniting lines with points[/fig]
+
+1 Taking any statement about a number not specified
+Either, this is false of [del]some number, next-next greater than any[/del] [ins]N, while not false of every number[/ins]
+[del]number[/del] of which N is next greater.
+
+or there is a number, M, of which it is true, while [ins]not true of every[/ins] [del]false of a[/del]
+number next greater than M.
+
+or it is true of [del]any[/del] [ins]no[/ins] number
+or it is false of every number
+
+2. There is a number not next greater than any number
+
+3. No number is [del]not[/del] next greater than itself
+
+4. Every number has some number next greater than itself.
+
+Consider the proposition — [del]is[/del] greater than itself.
+
+Either some number N is not next greater than itself while N is next greater than itself
+(so that G > N and N > G both next greater than N)
+or some number N is not next greater than any number
+
+or some number M is not next greater than itself while there is [del]either no number N[/del]
+[del]while there is a number G, N next greater than M but not next greater than itself[/del]
+
+or every member is next greater than itself
+
+or no member is [del]next greater than itself[/del]
+
+But if we assume that, for number is next greater than [ins]another[/ins] [del]itself[/del] number
+next greater than itself.
+
+And if we assume that some number is next greater than another
+
+it follows that either there is a number not next greater than any number or some number is
+next greater than itself
+
+[del]is next greater than another[/del]
+[del]no other[/del]
+has [del]no[/del] number next greater than it if
+[del]Either there is a number that has no number next greater and is next greater than itself[/del]
+[del]or there is a number that has no other number next greater while it is next greater[/del]
+[ins]another[/ins]
+Either there is a number that has [del]no[/del] [ins]no other[/ins] number next greater than it but is next greater than [del]itself[/del] [ins]some other[/ins]
+[del]or there is a number that has[/del] [ins]another[/ins] [del]number next greater than it while it is next greater than a number[/del]
+[ins]that has no other next greater[/ins]
+[del]or there is a number that has no other next greater than it is not next greater than itself[/del] [ins]than itself which is absurd.[/ins]
+or no member has another next greater than it
+or every number has some number next greater than it

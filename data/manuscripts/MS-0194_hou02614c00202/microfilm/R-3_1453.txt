@@ -1,0 +1,32 @@
+```
+B	A	D	B₁
+B	C	A	B₂
+B	D	C	B₃
+C	D	A	C₁
+C	B	D	C₂
+C	A	B	C₃
+D	C	B	D₁
+D	A	C	D₂
+D	B	A	D₃
+
+Lengths
+AB = c	AC = b	BC = a
+DA = u	DB = v	DC = w
+
+Then we have
+A₁	A₂	A₃	=	0
+B₁	B₂	B₃	=	0
+C₁	C₂	C₃	=	0
+D₁	D₂	D₃	=	0
+A₁	B₂	C₃	=	180°
+D₁	C₂	B₃	=	180°
+D₂	A₃	C₁	=	180°
+D₃	B₁	A₂	=	180°
+
+The following are known
+a, b, c, A₁, B₂, C₃, D₁, D₂, D₃.
+
+Circumscribe a circle about DBA and another about DBC.
+Then DB = v is the common chord of these two circles,
+and is double the perpendicular let fall from [del]upon[/del] [ins]upon[/ins] the
+```

@@ -1,0 +1,27 @@
+[u]Relation[/u]
+
+A proposition is disjunctive when it depends on a condition out
+of the representation implied but not stated
+
+Hypothetical when its condition is stated but not included in
+the subject
+
+Categorical when it [del]can be[/del] includes its own condition.
+
+***
+
+$$\begin{array}{ccc}
+\text{B} & \text{B} & \text{B} \\
+\text{Not A} & \text{A} & \text{A} \\
+\therefore \text{If A, [del]not[/del] B} & \therefore \text{If A, B} & \therefore \text{If A, sometimes B}
+\end{array}$$
+
+Those conclusions are hypothetical because the statement of the
+condition is essential to them as dependent on these premises
+it is logically relevant.
+
+$$\begin{array}{ccc}
+\text{If A then B} & \text{If A then B} & \text{If A sometimes B} \\
+\text{But not B} & \text{But B} & \text{But B} \\
+\therefore \text{Not A} & \therefore \text{A} & \therefore \text{A may be.}
+\end{array}$$

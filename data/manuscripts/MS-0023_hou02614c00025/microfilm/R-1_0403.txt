@@ -1,0 +1,31 @@
+[del]And for the same reason, if the proposition is true for[/del]
+Third, the proposition, if true for $x = 1 + n$ is true for $x = n$.
+For, changing the order of the transformations,
+$1 \cdot 0 + 0 = 1 \cdot 0 = 0 = [del]1[/del][ins]1[/ins] + n) \cdot 0 = 1 \cdot 0 + n \cdot 0$
+Then by the above lemma, $n \cdot 0 = 0$, so that the proposition is [del]now[/del]
+proved.
+
+A number which added to another gives naught is called
+the negative of the latter. To prove that every number
+greater than naught has a negative. First, the number next
+smaller than naught is the negative of one; for by the defi-
+nition of addition, [del]the[/del] one plus this number is naught.
+Second, if any number $n$ has a negative, then the number
+next greater than $n$ has for its negative the number next
+smaller than the negative of $n$. For let $m$ be the number
+next smaller than the negative of $n$. Then $n + (1 + m) = 0$.
+But $n + (1 + m)$
+$= (n + 1) + m$ by the associative principle of addition;
+$= (1 + n) + m$ by the commutative principle of addition.
+So that $(1 + n) + m = 0$. Q. E. D. Hence, every number greater than
+$0$ has a negative, and naught is its own negative.
+
+To prove that $(-x)y = -(xy)$. We have
+$0 = x + (-x)$ by the definition of the negative;
+$0 = 0y = (x + (-x))y$ by the last proposition but one;
+$0 = xy + (-x)y$ by the distributive principle;
+$-(xy) = (-x)y$ by the definition of the negative.
+
+The negative of the negative of a number is that number.
+For $x + (-x) = 0$. whence by the definition of the negative
+$x = -(-x)$.

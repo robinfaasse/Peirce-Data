@@ -1,0 +1,21 @@
+[pn]La logique de la quantité[/pn] [pn]9[/pn]
+
+Alors, le premier facteur de (6) signifie que [del]toute[/del] [ins]chaque[/ins] relation donne un sujet de toute qualité à chaque sujet de nullité.
+
+Nous pouvons appeler relation [del]corrélativement[/del] [ins]objectivement[/ins] universelle une relation telle qu'à chaque chose quelque chose est dans cette relation. Alors le deuxième facteur de (6) [del]signifie[/del] [ins]signifie[/ins] que chaque relation [del]corrélativement[/del] [ins]objectivement[/ins] universelle donne un sujet de toute [del]ré[/del] qualité possible à chaque sujet de toute qualité.
+
+Il est évident que si la relation, [u]i[/u], donne un sujet de [u]m[/u] à chaque sujet de [u]n[/u], alors [u]i[/u] donne aussi un sujet de [del]chaque[/del] [ins]toute[/ins] collection [del]incluse sous m[/del] qui contient [u]m[/u] à chaque sujet de toute collection que [u]n[/u] contient.
+
+Il est également évident que si la relation, [u]i[/u], donne un sujet de [del]l[/del] [ins][u]l[/u][/ins] à [del]chaque[/del] [ins]chaque[/ins] sujet de [u]m[/u], et si la relation, [u]j[/u], donne un sujet de [u]m[/u] à chaque sujet de [u]n[/u], alors la relation [u]ij[/u], le produit relative de [u]i[/u] suivi [del]par[/del] [ins]de[/ins] [u]j[/u], donne un sujet de [u]l[/u] à chaque sujet de [u]n[/u].
+
+[u]Article 3[/u]. Une collection, [u]l[/u], contient une autre [u]m[/u] si
+$$\Pi_u \bar{q}_{mu} \dagger q_{lu} .$$
+
+Une collection, [u]m[/u], est une partie d'une autre, [u]n[/u], [ins]et nous écrirons $w_{mn}$,[/ins] si [u]n[/u] contient [u]m[/u], mais [u]m[/u] ne contient pas [u]n[/u]. Cela s'écrit,
+(7) $$\Pi_m \Pi_n \Pi_u \Sigma_v \bar{w}_{mn} \dagger (\bar{q}_{mv} \dagger q_{nv}) \cdot q_{nv} \cdot \bar{q}_{mv}$$
+(8) $$\Pi_m \Pi_n \Sigma_u \Pi_v q_{mu} \bar{q}_{nu} \dagger (\bar{q}_{no} \dagger q_{mo}) \dagger w_{mn} .$$
+
+Nous pouvons écrire (7) dans la forme
+(9) $$\Pi_m \Pi_n \Pi_u \Sigma_v (\bar{w}_{mn} \dagger \bar{q}_{mn} \dagger q_{nu}) \cdot (\bar{w} \dagger q_{no}) \cdot (\bar{w} \dagger \bar{q}_{mo})$$
+
+Cela signifie: 1°. Aucune collection n'est partie d'une collection qui ne la contient pas. 2°. Aucune collection n'est une partie du néant. 3°. L'univers n'est partie d'aucune collection. Nous pouvons écrire (8) sous la forme

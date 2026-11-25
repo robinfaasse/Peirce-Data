@@ -1,0 +1,36 @@
+[pn]365[/pn]
+
+Here again the element of arbitrary choice comes
+in to determine what shall be inferred from given
+premises. We see that it will not do to speak of
+"the" conclusion from given premises, because there
+are [del]endless[/del] [ins]innumerable[/ins] different conclusions.
+
+§184. [del]Step[/del] [ins]Third Step[/ins]. This will not, by any means,
+always be required. It consists in generalizing indices,
+when this is useful, in order to make the selections
+out of the same collections. If the lectical part, or
+"logisterium" (if the student wishes he has my
+permission to call it a [u]Peircian[/u])
+
+[ins]contains $\Sigma$,[/ins] and we wish to replace the $x$
+by a new index $i$, not already in the [del]Quantifier[/del] [ins]logisterium[/ins], and such that every $x$ is an $i$,
+we can do so at once by simply [del]multiplying[/del] [ins]compounding[/ins] every letter of the Boolian having
+$x$ as an index [del]by $x_i$[/del]. Thus, if we have "some woman is an angel" written in
+the form $\Sigma_w a_w$ we may replace this by $\Sigma_i (a_i w_i)$. It will be more often useful to
+replace the index of a $\Pi$ by a wider one; and this will be done by [del]adding $\bar{x}_i$[/del] [ins]aggregating[/ins] to
+every letter having $x$ as an index. Thus, if we have "all dogs are animals, and
+all animals are vertebrates" written thus
+$$\Pi_d a_d \Pi_a v_a,$$
+
+where $a$ and $\alpha$ alike mean [u]animal[/u], it is of
+course easy enough to remember that the
+indices are virtually antecedents, and to
+conclude at once
+$$v_d \alpha_d$$
+$$\therefore v_d.$$
+
+But
+it will be found convenient to replace the last
+index by $i$, standing for any object, and to write the proposition
+$$\Pi_i (\bar{a}_i v_i).$$

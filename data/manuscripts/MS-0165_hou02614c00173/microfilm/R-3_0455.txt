@@ -1,0 +1,20 @@
+[pn]208[/pn]
+
+<u>Corollary 63</u>. Hence, after having determined the value of
+$r_1$, the root of smallest modulus, if the equation, brought
+to the form in which one member is zero, be divided by $x-r_1$,
+[del]the[/del] [ins]root of[/ins] next smallest [del]root[/del] modulus of the original equation
+is the root of smallest modulus of the equation resulting
+from that division.
+
+<u>Art 82</u>. <u>Exercises</u>. 92. Determine all the roots of
+the equation
+$x^6 + 3x^5 - 7x^4 + 6x^3 - 7x^2 + 3x + 1 = 0$.
+It is evident that $x=1$ is one solution. Hence [del]dividing[/del] [ins]we divide[/ins] by
+$x-1$. [del]we get[/del]
+
+[fig]Long division of x^6+3x^5-7x^4+6x^3-7x^2+3x+1 by x-1 yielding x^5+4x^4-3x^3+3x^2-4x-1[/fig]
+$x-1 \big) \begin{array}{l} x^6+3x^5-7x^4+6x^3-7x^2+3x+1 \\ \underline{x^6 - x^5} \\ \phantom{x^6} +4x^5 \\ \phantom{x^6} \underline{+4x^5-4x^4} \\ \phantom{x^6+4x^5} -3x^4 \\ \phantom{x^6+4x^5} \underline{-3x^4+3x^3} \\ \phantom{x^6+4x^5-3x^4} +3x^3 \\ \phantom{x^6+4x^5-3x^4} \underline{+3x^3-3x^2} \\ \phantom{x^6+4x^5-3x^4+3x^3} -4x^2 \\ \phantom{x^6+4x^5-3x^4+3x^3} \underline{-4x^2+4x} \\ \phantom{x^6+4x^5-3x^4+3x^3-4x^2} -x \\ \phantom{x^6+4x^5-3x^4+3x^3-4x^2} \underline{-x+1} \\ \phantom{x^6+4x^5-3x^4+3x^3-4x^2-x} 0 \end{array} \Big( x^5+4x^4-3x^3+3x^2-4x-1$
+
+The quotient is still made zero by $x=1$. We therefore again
+divide by $x-1$.

@@ -1,0 +1,43 @@
+[marginalia]
+Logic
+[pn]III[/pn]
+[pn]39[/pn]
+[date]JAN - 6 1902[/date]
+[/marginalia]
+
+[marginalia]
+[date]JAN - 6 1902[/date]
+[/marginalia]
+
+and [u]y[/u] in this order will be possible in the six cases. I pro-
+pose to each case a symbol for the operation. I also add an
+[del]initial[/del] [ins]indetermi-[/ins] [del]indeterminate[/del] [ins]nate[/ins] operation.
+
+[marginalia]
+[fig]symbol Phi[/fig]
+[/marginalia]
+[fig]symbol Phi[/fig] [u]vv[/u], [u]fv[/u], [u]ff[/u];
+
+[fig]symbol Phi sub h[/fig] [u]vv[/u], [u]vf[/u], [u]fv[/u];
+
+[fig]symbol Phi sub k[/fig] [u]vf[/u], [u]fv[/u], [u]ff[/u];
+
+[marginalia]
+[fig]symbol Phi sub l[/fig]
+[/marginalia]
+[fig]symbol Phi sub l[/fig] [u]vv[/u], [u]vf[/u], [u]ff[/u];
+
+[fig]symbol Phi sub m[/fig] [u]vv[/u], [u]ff[/u];
+
+[fig]symbol Phi sub n[/fig] [u]vf[/u], [u]fv[/u]
+
+[fig]symbol Phi sub o[/fig] [u]vv[/u], [u]vf[/u], [u]fv[/u], [u]ff[/u].
+
+Now we may, according to algebraical usage write
+[u]y[/u] = [fig]symbol Phi sub h[/fig] [u]x[/u], meaning that if [u]x[/u] is [u]v[/u], then [u]y[/u] is [u]v[/u]; so that
+if [u]y[/u] is [u]f[/u], then [u]x[/u] is [u]f[/u]; and so on. Thus, [u]y[/u] = [fig]symbol Phi sub m[/fig] [u]x[/u] will mean
+that if [u]x[/u] is [u]v[/u], so is [u]y[/u]; and if [u]x[/u] is [u]f[/u], so is [u]y[/u].
+
+If [u]y[/u] = [fig]symbol Phi sub h[/fig] [u]x[/u] and [u]z[/u] = [fig]symbol Phi sub k[/fig] [u]y[/u], then we may write [u]z[/u] = [fig]symbol Phi sub k[/fig] [fig]symbol Phi sub h[/fig] [u]x[/u].
+Now [u]y[/u] = [fig]symbol Phi sub h[/fig] [u]x[/u] means than if [u]x[/u] is [u]f[/u], then [u]y[/u] is [u]v[/u]; while
+[u]z[/u] = [fig]symbol Phi sub k[/fig] [u]y[/u] means that if [u]y[/u] is [u]v[/u], [del]then [u]z[/u][/del] is [u]f[/u]. Hence [u]z[/u] = [fig]symbol Phi sub k[/fig] [fig]symbol Phi sub h[/fig] [u]x[/u]

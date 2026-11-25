@@ -1,0 +1,20 @@
+defeats the fallacy of the ordinary rule
+when there is one.
+
+[fig]Two hand-drawn coordinate graphs showing curves and lines[/fig]
+
+We assume two values of x
+one too large, the other too small
+and calculate from each what some
+known quantity would be
+For instance I want the $\sqrt{10}$. I assume it
+to be 3 then the square would be 9
+I assume it to be 4. Then the square would be 16
+The error in one case is $-1$ in the other $+6$
+Then a difference of 1 in x makes a difference of
+7 in the square. But I only want to change
+the square by 1 from 9 Therefore I will change
+that value of x by $\frac{1}{7}$ and assume as a first
+approximation $\sqrt{10} = 3\frac{1}{7} = \frac{22}{7}$ But the square of this
+is $\frac{484}{49}$. That is, its error is about [del]0[/del] [ins]$\frac{6}{49}$[/ins]. Then [del]a differe[/del]
+[del]of x of $\frac{6}{7}$[/del] between $3\frac{1}{7}$ and 4 has made a difference in the

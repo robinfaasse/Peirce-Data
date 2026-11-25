@@ -1,0 +1,35 @@
+[pn]3[/pn]
+
+(1) $\alpha + \beta + \gamma + \delta + \varepsilon = 0$
+($2'$) $a\alpha + b\beta + c\gamma + d\delta + e\varepsilon = 0$
+($3''$) $a^2\alpha + b^2\beta + c^2\gamma + d^2\delta + e^2\varepsilon = 0$
+($4'''$) $a^3\alpha + b^3\beta + c^3\gamma + d^3\delta + e^3\varepsilon = 0$
+($5^{IV}$) $a^4\alpha + b^4\beta + c^4\gamma + d^4\delta + e^4\varepsilon = 1$
+
+Multiplying each equation [ins](except the last)[/ins] by $e$ and subtracting it from the next, we get
+
+$(a-e)\alpha + (b-e)\beta + (c-e)\gamma + (d-e)\delta = 0$
+$a(a-e)\alpha + b(b-e)\beta + c(c-e)\gamma + d(d-e)\delta = 0$
+$a^2(a-e)\alpha + b^2(b-e)\beta + c^2(c-e)\gamma + d^2(d-e)\delta = 0$
+$a^3(a-e)\alpha + b^3(b-e)\beta + c^3(c-e)\gamma + d^3(d-e)\delta = 1$
+
+Multiplying each of these equations (except the last) by $d$ and subtracting it from the next we have
+
+$(a-d)(a-e)\alpha + (b-d)(b-e)\beta + (c-d)(c-e)\gamma = 0$
+$a(a-d)(a-e)\alpha + b(b-d)(b-e)\beta + c(c-d)(c-e)\gamma = 0$
+$a^2(a-d)(a-e)\alpha + b^2(b-d)(b-e)\beta + c^2(c-d)(c-e)\gamma = 1$
+
+Multiplying each equation (except the last) by $c$ and subtracting it from the next we get
+
+$(a-c)(a-d)(a-e)\alpha + (b-c)(b-d)(b-e)\beta = 0$
+$a(a-c)(a-d)(a-e)\alpha + b(b-c)(b-d)(b-e)\beta = 1$
+
+Multiplying the first of these by $b$ and subtracting from the last, we get
+
+$(a-b)(a-c)(a-d)(a-e)\alpha = 1$
+
+or $\alpha = \frac{1}{(a-b)(a-c)(a-d)(a-e)}$
+
+Now in the five equations (1), ($2'$), ($3''$), ($4'''$), ($5^{IV}$), as $\alpha$ is related to $a,b,c,d,e$, so is $\beta$ related to $b,c,d,e,a$, so is $\gamma$ to $c,d,e,a,b$, etc. Hence, we get the values of $\beta, \gamma, \delta, \varepsilon$ by interchanging the letters in the value of $\alpha$ etc.
+
+$\beta = \frac{1}{(b-c)(b-d)(b-e)(b-a)}$, $\gamma = \frac{1}{(c-d)(c-e)(c-a)(c-b)}$ etc.

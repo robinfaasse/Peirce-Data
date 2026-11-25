@@ -1,0 +1,23 @@
+[ins]interpretable as a pure logic[/ins]
+ordinary algebra, supposing every quantity, as [u]x[/u], to be
+subject to a quadratic equation with fixed roots. This
+may be written
+([u]v[/u] - [u]x[/u])([u]x[/u] - [u]f[/u]) = 0;
+and it is not necessary to assign special numerical
+values to the roots. But Boole assumed [u]x[/u]² = [u]x[/u],
+making the values 1 [del]0[/del] and 0. His object in making
+this choice was to bring the algebra into harmony
+with the [del]theory[/del] ordinary calculus of probabilities;
+for he made [u]x[/u] = 1 mean that the proposition signi-
+fied by [u]x[/u] was true, and [u]x[/u] = 0 mean that it was
+false. (My [u]v[/u] stands for [u]verum[/u], and my [u]f[/u] for [u]falsum[/u].)
+But [del]he might[/del] instead of measuring probability upon
+a scale running from p = 0 to p = 1, one might equally
+well measure it [del]upon a scale running from[/del] by Fp, where
+F is any [del]uni[/del]vocal function, [del]and in that case F'y[/del]
+[del]would make[/del] modifying the rules of the calculus
+accordingly; and in that case we should naturally
+take [u]v[/u] = F1, and [u]f[/u] = F0. Indeed, where we are
+considering the antecedent probabilities of arguments,
+it is convenient to consider instead of the "probability,"
+the odds, or ratio of favorable to unfavorable cases,

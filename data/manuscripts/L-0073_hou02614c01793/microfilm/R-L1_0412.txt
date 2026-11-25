@@ -1,0 +1,27 @@
+2 To prove this, I divide the $n^{\underline{\text{th}}}\lambda$s into four classes, as follows:
+
+$1^{\underline{\text{st}}}$, those $n^{\underline{\text{th}}}\lambda$s (if such there be) to which no $(n+1)^{\underline{\text{th}}}\lambda$ is in the relation $g$;
+
+$2^{\underline{\text{nd}}}$, those $n^{\underline{\text{th}}}\lambda$s (if such there be) to [ins]each of[/ins] which more than one $(n+1)^{\underline{\text{th}}}\lambda$ are in the relation $g$;
+
+$3^{\underline{\text{rd}}}$, those $n^{\underline{\text{th}}}\lambda$'s (if such there be) to [ins]each of[/ins] which just one $(n+1)^{\underline{\text{th}}}\lambda$ is in the relation $g$, and this one is also $l$ to that same $n^{\underline{\text{th}}}\lambda$;
+
+$4^{\underline{\text{th}}}$, those $n^{\underline{\text{th}}}\lambda$'s (if such there be) to each of which just one $(n+1)^{\underline{\text{th}}}\lambda$ is in the relation $g$, and this one is $\overline{l}$ to that same $n^{\underline{\text{th}}}\lambda$.
+
+Now consider any $(n+1)^{\underline{\text{th}}}\lambda$, called $\Lambda$, which is $\overline{l}$ to every $n^{\underline{\text{th}}}\lambda$ of the $3^{\underline{\text{rd}}}$ class and is [del]l[/del] [ins]$l$[/ins] to every $n^{\underline{\text{th}}}\lambda$ of the $4^{\underline{\text{th}}}$ class. How it may be related to $n^{\underline{\text{th}}}\lambda$s of the first two classes is a matter of indifference.
+
+I say that $\Lambda$ is not the sole $(n+1)^{\underline{\text{th}}}\lambda$ which is in the relation $g$ to any $n^{\underline{\text{th}}}\lambda$. For it is not so
+
+to any $n^{\underline{\text{th}}}\lambda$ of the first class since [u]no[/u] $(n+1)\text{th }\lambda$ is in the relation $g$ to any $n^{\underline{\text{th}}}\lambda$ of this class;
+
+nor to any $n^{\underline{\text{th}}}\lambda$ of the second class since [u]no[/u] $(n+1)\text{th }\lambda$ is the sole $(n+1)\text{th }\lambda$ in the relation $g$ to any $n^{\underline{\text{th}}}\lambda$ of this class;
+
+nor to any $n^{\underline{\text{th}}}\lambda$ of the third class, since the only $(n+1)\text{th }\lambda$ which is in the relation $g$ to any given [del]member[/del] $n^{\underline{\text{th}}}\lambda$ of this class [del]is one is[/del] is $l$ to that $n^{\underline{\text{th}}}\lambda$, while $\Lambda$ is not $l$ to any $n^{\underline{\text{th}}}\lambda$ of this class;
+
+nor to any $n^{\underline{\text{th}}}\lambda$ of the fourth class, since the only $(n+1)^{\underline{\text{th}}}\lambda$ which is in the relation $g$ to any given $n^{\underline{\text{th}}}\lambda$ of this class is $\overline{l}$ to that $n^{\underline{\text{th}}}\lambda$, while $\Lambda$ is not $\overline{l}$, but $l$, to every $n^{\underline{\text{th}}}\lambda$ of this class.
+
+Thus $\Lambda$ is a $(n+1)^{\underline{\text{th}}}\lambda$ which is not [del]in the[/del] the sole $(n+1)^{\underline{\text{th}}}\lambda$ in the relation $g$ to any $n^{\underline{\text{th}}}\lambda$; and therefore the whole set of $(n+1)^{\underline{\text{th}}}\lambda$s is greater than the set of $n^{\underline{\text{th}}}\lambda$s.
+
+This is true no matter how small or how large the original set of $A, B, C$, etc. may be.
+
+Let us take, then, for our $A, B, C$, etc. all of the $\lambda$s of all finite orders, and call them the zero $\lambda$'s.

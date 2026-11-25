@@ -1,0 +1,11 @@
+[fig]Curve asymptotically approaching a horizontal line[/fig]
+$\int_x e^{-t^2}$
+
+[fig]Parabolic curve[/fig]
+$1 - \int_x e^{-t^2}$
+
+$\frac{e^{-t^2}}{1 - \int_x e^{-t^2}}$
+
+[fig]Small diagram with intersecting lines[/fig] $-t^2 - \log (1 - \int_x e^{-t^2})$
+
+[fig]Two connected curves, one parabolic and one asymptotic[/fig]

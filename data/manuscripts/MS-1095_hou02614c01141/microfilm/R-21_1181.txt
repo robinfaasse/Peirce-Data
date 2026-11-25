@@ -1,0 +1,34 @@
+[marginalia]
+[del][fig]scribble[/fig][/del] [del]-y^{2}r^{-2}[/del]
+[del]2y^{2}r^{-3}[/del]
+[/marginalia]
+
+D_{r} \frac{\sqrt{r^{2}-y^{2}}}{r} = D_{r} \sqrt{1-\frac{y^{2}}{r^{2}}} = [del]\frac{y^{2}}{r^{3}\sqrt{1-\frac{y^{2}}{r^{2}}}}[/del] = \frac{y^{2}}{r^{2}\sqrt{r^{2}-y^{2}}}
+
+D_{x}^{2} = \frac{y^{2}}{r^{3}} D_{r} + \frac{r^{2}-y^{2}}{r^{2}} D_{r}^{2}
+
+D_{y}^{2} = (\frac{y}{r} D_{r} + D_{y}) (\frac{y}{r} D_{r} + D_{y})
+= \frac{r^{2}-y^{2}}{r^{3}} D_{r} + \frac{y^{2}}{r^{2}} D_{r}^{2} + 2 \frac{y}{r} D_{r} D_{y} + D_{y}^{2}
+
+[del][fig]scribble[/fig][/del]
+
+D_{x}^{2} + D_{y}^{2} = \frac{1}{r} D_{r} + D_{r}^{2} + 2 \frac{y}{r} D_{r} D_{y} + D_{y}^{2}
+
+(D_{x}^{2} + D_{y}^{2})^{2} = [del]\frac{1}{r^{3}} D_{r} + \frac{1}{r^{2}} D_{r}^{2} + 2 \frac{1}{r} D_{r}^{3} +[/del] [del]\frac{4y}{r^{3}} D_{r} D_{y}[/del]
+[del]+ 4 \frac{y}{r^{2}} D_{r}^{2} D_{y}[/del] [del]- 4 \frac{y}{r^{3}} D_{r} D_{y}[/del]
+- \frac{1}{r^{2}} [del]D_{r}^{2}[/del] [del]+ \frac{2}{r} D_{r}^{3}[/del] + \frac{6}{r} D_{r} D_{y}^{2} + D_{y}^{4}
++ 2 \frac{y}{r} D_{r}^{3} D_{y} + 2 D_{r}^{2} D_{y}^{2} - \frac{y^{2}}{r^{3}} D_{r} D_{y}^{2}
++ 4 \frac{y^{2}}{r^{2}} D_{r}^{2} D_{y}^{2} + 4 \frac{y}{r} D_{r} D_{y}^{3} + [del]D_{y}^{4}[/del]
+
+D_{r}^{2} (\frac{1}{r} D_{r})
+D_{r} (- \frac{1}{r^{2}} D_{r} + \frac{1}{r} D_{r}^{2})
+2 \frac{1}{r^{3}} D_{r} - 2 \frac{1}{r^{2}} D_{r}^{2} + \frac{1}{r} D_{r}^{3}
+
+2 D_{y}^{2} (\frac{y}{r} D_{r} D_{y}) = 2 D_{y} (\frac{1}{r} D_{r} D_{y} + \frac{y}{r} D_{r} D_{y}^{2})
+= 2 \frac{1}{r} D_{r} D_{y}^{2} + 2 \frac{y}{r} D_{r} D_{y}^{3}
+
+4 (\frac{y}{r} D_{r} D_{y}) (\frac{y}{r} D_{r} D_{y})
+
+D_{r}^{2} (2 \frac{y}{r} D_{r} D_{y}) = 4 (\frac{y}{r} D_{r} (\frac{1}{r} D_{r} D_{y} + \frac{y}{r} D_{r} D_{y}^{2})
+D_{r} (- 2 \frac{y}{r^{2}} D_{r} D_{y} + 2 \frac{y}{r} D_{r}^{2} D_{y}) = 4 \frac{y}{r} (- \frac{1}{r^{2}} D_{r} D_{y} + \frac{1}{r} D_{r}^{2} D_{y} - \frac{y}{r^{2}} D_{r} D_{y}^{2}
+4 \frac{y}{r^{3}} D_{r} D_{y} - 4 \frac{y}{r^{2}} D_{r}^{2} D_{y} + 2 \frac{y}{r} D_{r}^{3} D_{y} + \frac{y}{r} D_{r}^{2} D_{y}^{2})

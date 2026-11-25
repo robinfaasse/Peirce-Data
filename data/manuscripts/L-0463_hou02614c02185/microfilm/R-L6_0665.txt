@@ -1,0 +1,37 @@
+[pn]30[/pn] Now before Sylvester made his discovery, I had already
+[del]published[/del] [ins]proved[/ins] a proposition which evidently showed that to say that
+his theorem about the determinant was true "in general" only
+meant that it was true in three cases, as follows:
+
+1[u]st[/u] [del]also[/del] for concepts all of which are [ins]expressible in[/ins] [del]of[/del] the form $a(A:A)$
+there being but one non-relative object, $A$, in the universe of discourse;
+
+2[u]nd[/u] for universes containing only two non-relative [del]individuals[/del] [ins]objects[/ins], $A$
+and $B$; and for concepts about these universes which are expressible
+in the form, $a[(A:A)+(B:B)] + b[(A:B)-(B:A)]$ where only $a$ and
+$b$ are capable of variation, [del]and they[/del] [ins]just[/ins] can take any values including zero.
+
+3[u]d[/u] for universes containing [del]only[/del] four non relative objects $A, B,$
+$C, D$; and for concepts about them in which only $a, b, c, d$ can vary [ins]and they without limit[/ins]
+in the expression of these concepts in the form
+$$\begin{array}{r}
+a[(A:A)+(B:B)+(C:C)+(D:D)] \\
++\ b[(A:B)-(B:A)+(C:D)-(D:C)] \\
++\ c[(A:C)-(B:D)-(C:A)+(D:B)] \\
++\ d[-(A:D)-(B:C)+(C:B)+(D:A)]
+\end{array}$$
+
+In all other cases his theorem fails. So that the suggestion is that there
+is but a very limited class of concepts that are subject to barycentric
+composition. My [del]own[/del] Theorems are now mere matters of course
+among mathematicians. I will here set down the one from which the
+limitation of Sylvester's follow. You will skip it; but some student of logic may
+at some time like to see it. The question to be investigated is this. Supposing that
+we deal only with expressions of the form $\begin{array}{l} a(A:A) + [del]b[/del] [ins]a_{12}[/ins](A:B) + \text{etc.} \\ + a_{21}(B:A) + a_{22}(B:B) + \text{etc.} \\ + \text{etc.} \end{array}$ [ins]which I will call the universal form[/ins]
+[del]limitation must we make supposing always[/del]
+[del]that $(X:Y)(Y:Z) = (X:Z)$ whatever Capital[/del]
+[del]letters $X, Y,$ and $Z$ may stand for, but $(X:Y)(Z:W)$ where $Y$ and $Z$ are different[/del]
+[del]letters is always equal to zero,[/del] then what further limitation upon the expressions
+[del]we use must be imposed in order that from $\alpha\beta = \alpha\gamma$ where $\alpha, \beta,$ and $\gamma$[/del]
+[del]are any of the expressions we use, we can infer that either $\alpha = 0$ or else $\beta = \gamma$[/del]
+[del]just as we can in ordinary algebra. From the[/del] [ins]universal[/ins] form and the two rules

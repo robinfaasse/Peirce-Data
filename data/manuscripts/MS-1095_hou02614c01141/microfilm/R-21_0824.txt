@@ -1,0 +1,11 @@
+Knife-edge. Let $dm$ be the mass of any one piece; but this [del]expression[/del] [ins]notation[/ins] supposes that the masses when added are always taken in order from the knife-edge to the extremity or inversely. [ins](Let $M_1$ and $M_2$ be the total masses above and below the knife-edge)[/ins] Let $\theta$ be the angular displacement of any one piece about its centre from the position of repose of the whole pendulum. Then we have
+
+$$x = \int_0^l dl. \sin \theta \qquad y = \int_0^l dl. \cos \theta.$$
+
+$$D_t x = \int_0^l (dl. \cos \theta . D_t \theta) \quad D_t y = - \int_0^l (dl. \sin \theta . D_t \theta).$$
+
+$$(D_t x)^2 = \int_0^l d\lambda \left\{ \int_0^l d\lambda' [\cos \theta_\lambda . \cos \theta_{\lambda'} . D_t \theta_\lambda . D_t \theta_{\lambda'}] \right\}$$
+
+where $\lambda$ and $\lambda'$ refer to the lengths at the distances $\lambda$ and $\lambda'$ from the knife-edge. This may also be written
+
+$$(D_t x)^2 = 2 \int_0^l dl \left\{ \int_0^l d\lambda [\cos \theta_\lambda . \cos \theta_l . D_t \theta_\lambda . D_t \theta_l] \right\}.$$

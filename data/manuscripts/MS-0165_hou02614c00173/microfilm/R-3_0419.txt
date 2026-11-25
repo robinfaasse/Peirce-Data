@@ -1,0 +1,43 @@
+[pn]172[/pn]
+
+We increase the [ins]3[sup]rd[/sup][/ins] row by 20 x 2[sup]nd[/sup] and the 4[sup]th[/sup] by -2[sup]nd[/sup], thus:
+
+$$\left| \begin{matrix}
+5 & 0 & 1 & 0 & 0 & 0 & -17 & \text{T} \\
+0 & 1 & -4 & 1 & 0 & 0 & 0 & \text{U} \\
+0 & 0 & -46 & 0 & 5 & 0 & 17 & 5\text{V}+20\text{U}-\text{T} \\
+0 & 0 & 0 & 6 & -4 & 1 & 0 & \text{W}-\text{U} \\
+0 & 0 & 1 & -4 & 7 & -4 & 1 & \text{X} \\
+0 & 0 & 0 & 1 & -4 & 1 & 0 & \text{Y} \\
+0 & 0 & 13 & 0 & 5 & 0 & -166 & 5\text{Z}+13\text{T} \\
+0 & 0 & 42 & 70 & 105 & 140 & 56 & 5\text{M}+7\text{T}
+\end{matrix} \right| = 0.$$
+
+We diminish the third column by the last but one, and then multiply the 7th row by [ins]189[/ins]/179
+
+$$\left| \begin{matrix}
+5 & 0 & 18 & 0 & 0 & 0 & -17 & \text{T} \\
+0 & 1 & -4 & 1 & 0 & 0 & 0 & \text{U} \\
+0 & 0 & -63 & 0 & 5 & 0 & 17 & 5\text{V}+20\text{U}-\text{T} \\
+0 & 0 & 0 & 6 & -4 & 1 & 0 & \text{W}-\text{U} \\
+0 & 0 & 0 & -4 & 7 & -4 & 1 & \text{X} \\
+0 & 0 & 0 & 1 & -4 & 1 & 0 & \text{Y} \\
+0 & 0 & 189 & 0 & \frac{189}{179} 5 & 0 & -\frac{189}{179} 166 & \frac{189}{179} (5\text{Z}+13\text{T}) \\
+0 & 0 & -14 & 70 & 105 & 140 & 56 & 5\text{M}+7\text{T}
+\end{matrix} \right| = 0.$$
+
+We increase the 7[sup]th[/sup] row by 3 times the 3[sup]rd[/sup], and multiplying the 8[sup]th[/sup] by 9 diminish it by twice the 3[sup]rd[/sup]
+These rows thus become
+$$\begin{matrix}
+0 & 0 & 0 & 0 & 20\frac{50}{179} & 0 & -124\frac{149}{179} & \frac{189}{179}(45\text{Z}+475\text{T})-10\text{V}-40\text{U} \\
+0 & 0 & 0 & 630 & 935 & 1260 & 470 & 45\text{M}-10\text{V}-40\text{U}+65\text{T}
+\end{matrix}$$
+
+We increase the 5[sup]th[/sup] row by the 4[sup]th[/sup]-2x6[sup]th[/sup]. We multiply the 6[sup]th[/sup] by 6 and subtract the 4[sup]th[/sup]
+We [del]subtract from the 8[sup]th[/sup][/del] [ins]diminish the 8[sup]th[/sup] by[/ins] 105 x 4[sup]th[/sup]. The last four rows thus becomes as follows:
+$$\begin{matrix}
+0 & 0 & 0 & 0 & 11 & -5 & 1 & \text{X}+\text{W}-\text{U}-2\text{Y} \\
+0 & 0 & 0 & 0 & -20 & 5 & 0 & 6\text{Y}-\text{W}+\text{U} \\
+0 & 0 & 0 & 0 & 20\frac{50}{179} & 0 & -124\frac{149}{179} & \frac{189}{179}(45\text{Z}+475\text{T})-10\text{V}-40\text{U} \\
+0 & 0 & 0 & 0 & 1355 & 1155 & 470 & 45\text{M}-105\text{W}-10\text{V}+65\text{U}+65\text{T}
+\end{matrix}$$

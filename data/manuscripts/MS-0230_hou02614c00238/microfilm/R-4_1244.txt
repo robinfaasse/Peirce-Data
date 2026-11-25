@@ -1,0 +1,11 @@
+[fig]Two concentric circles and an ellipse intersecting a circle[/fig]
+
+$$\frac{\frac{1}{x^2} + \frac{1}{y^2} + \frac{1}{z^2} [del]\rightarrow[/del] [ins]\rightarrow[/ins] \frac{1}{x^2}}{2}$$
+
+[del]$\rightarrow$[/del] $xy + xz + yz$
+
+$$\begin{array}{|ccc|}
+[z^2] & [zy] & [zx] \\
+[zy] & [y^2] & [yx] \\
+[zx] & [yx] & [x^2] \\
+\end{array}$$

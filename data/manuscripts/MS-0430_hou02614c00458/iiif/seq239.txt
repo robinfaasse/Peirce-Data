@@ -1,0 +1,18 @@
+Logic
+III [del]85[/del] (86) If [u]([x [u]v[/u] y] [u]v[/u] t) [u]v[/u] z[/u] is scriptible, so is [u]x [u]v[/u] (y [u]v[/u] t) [u]v[/u] z[/u].
+For by (83), to assert that [del]is[/del] [u]([x [u]v[/u] y] [u]v[/u] t) [u]v[/u] z[/u] is scriptible
+is equivalent to asserting that both [u]t [u]v[/u] z[/u] and [u]([x [u]v[/u] y] [u]v[/u] z) [u]v[/u] z[/u]
+are scriptible, the latter being, by (85), equivalent to [del]asserting[/del]
+that [u]x [u]v[/u] (y [u]v[/u] z) [u]v[/u] z[/u] is scriptible. This last is, by (82), equi-
+valent to asserting that either [u]x [u]v[/u] z[/u] or [u](y [u]v[/u] z) [u]v[/u] z[/u] is scriptible.
+Thus to assert that [u]([x [u]v[/u] y] [u]v[/u] t) [u]v[/u] z[/u] is scriptible, is to assert
+that either both [u]t [u]v[/u] z[/u] and [u]x [u]v[/u] z[/u] or else both [u]t [u]v[/u] z[/u] and
+[u](y [u]v[/u] z) [u]v[/u] z[/u] are scriptible.
+To assert that [u]x [u]v[/u] (y [u]v[/u] t) [u]v[/u] z[/u] is scriptible is, by (82),
+equivalent to asserting that either [u]x [u]v[/u] z[/u] [ins]is scriptible[/ins] or [u](y [u]v[/u] t) [u]v[/u] z[/u]
+is scriptible. And the [del]last assertion[/del] [ins]latter alternative[/ins] is equivalent, by (85),
+to asserting that [ins]both[/ins] [u]t [u]v[/u] z[/u] and [u](y [u]v[/u] z) [u]v[/u] z[/u] are scriptible. Thus,
+to assert that [u]x [u]v[/u] (y [u]v[/u] t) [u]v[/u] z[/u] is scriptible is to assert that
+either [u]x [u]v[/u] z[/u] is scriptible or that both [u]t [u]v[/u] z[/u] and [u](y [u]v[/u] z) [u]v[/u] z[/u]
+are scriptible. But this and more is [del]asserted[/del] implied
+in saying that [u]([x [u]v[/u] y] [u]v[/u] t) [u]v[/u] z[/u] is scriptible. Hence, (86).

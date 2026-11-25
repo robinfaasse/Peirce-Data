@@ -1,0 +1,63 @@
+[fig]Vertical line dividing calculations[/fig]
+[del]444[/del]
+136
+4
+
+- 8
+268
+
++ 80
+136
+
+- v
+144
+38
+4
+
+[del]284[/del]
+[del]288[/del]
+216
+244
+
++ 2 v - = N
+
+[del]x₀ - x₀' = 2 v -[/del]
+[del](x₀ - x₀')² = - 4[/del]
+x + 1 = √v-
+(x + 1)³ = - v -
+(x - 1) = - 2 + v -
+
+[del]r = [ins]1 + 2 v -[/ins] / - 4 + 8 v -[/del] = - 1/4
+
+[fig]Vertical line dividing calculations[/fig]
+log r = log N - 2 log (x₀ - x₀')² = 2 log (x + 1) - log (x - 1)
+[del]dr/r = dN/N - 2 d(x₀ - x₀') / x₀ - x₀' = 2 dx / x + 1 - dx / x - 1[/del]
+[del]4 dr = dN / 1 + 2 v - - 2 / v - - 2 / v - - 1 / - 2 + v -[/del]
+
+DN
+[fig]Vertical line dividing calculations[/fig]
+v -
+
+240
+240
+720
+536
+
+58
+536
+
+58
+4
+58
+
+- 240
+508
+
+DN = - 6 + 2 v -
+[del]4 dr = - 6 + 2 v - / 1 + 2 v - - 3 v - / 1 + 2 v - = - 7[/del]
+- 7/4
+
+- 2 + v -
+- v -
+2 v - + 1 / - 4
+- 8 v - - 4

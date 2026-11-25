@@ -1,0 +1,29 @@
+[pn]16[/pn]
+
+REPORT of [u]                                                                                                    [/u] Inspector on [u]                                                               Steam Boiler used by[/u]
+[u]                                                                                                    at                                                               inspected                                                               189[/u]
+
+In each of these substitute for $x$ each of the roots of
+$f(x) = 0$, and add. If $S_1, S_2, S_3,$ etc., denote the
+sums of the powers of the roots of the required equation,
+$S_1 = n a_0 + a_1 s_1 + a_2 s_2 + \dots + a_{n-1} s_{n-1}$
+$S_2 = n b_0 + b_1 s_1 + b_2 s_2 + \dots + b_{n-1} s_{n-1}$
+$\dots$
+$S_n = n l_0 + l_1 s_1 + l_2 s_2 + \dots + l_{n-1} s_{n-1}$
+Now, expressing $s_1, s_2, s_3, \dots s_{n-1}$ in terms of the coefficients
+of $f(x)$, $S_1, S_2, S_3, \dots S_n$ are determined in terms of
+the coefficients of $\varphi(x)$ and of $f(x)$. It is also possible
+to express the coefficients of the equation whose roots are
+$\varphi(\alpha_1), \varphi(\alpha_2), \dots \varphi(\alpha_n)$ in terms of $S_1, S_2, \dots S_n$, and
+therefore, finally, in terms of the coefficients of $\varphi(x)$
+and $f(x)$. Hence the transformation is theoretically
+complete.
+
+[u]Uniform transformation of elliptic curves into themselves.[/u]
+
+[u]Unimodular transformation[/u]. A linear transformation whose
+modulus is unity. See [u]modulus of a linear transformation[/u].
+
+[u]Polar transformation (3)[/u]. A transformation in which to
+each element of [del]one[/del] [ins]a[/ins] locus there corresponds its
+polar reciprocal in the other locus.

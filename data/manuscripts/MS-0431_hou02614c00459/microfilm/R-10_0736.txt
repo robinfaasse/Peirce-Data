@@ -1,0 +1,29 @@
+[marginalia]
+[u]Logic[/u]
+[u]I[/u]
+[u]III[/u]
+169
+
+FEB - 9 1902
+[/marginalia]
+
+[u]i[/u] = III : III + Ж : Ж + Ж : IX + IX : Ж + Ж : XI + XI : XI
+[u]j[/u] = Ж : III + Ж : III : Ж + XI : IX + IX : Ж + Ж : XI
+[u]k[/u] = Ж : III + III : Ж + Ж : Ж + Ж : IX + XI : Ж + IX : XI
+[u]l[/u] = IX : III + Ж : XI + XI : Ж + III : IX + Ж : Ж + Ж : XI
+[u]m[/u] = Ж : III + XI : Ж + IX : Ж + Ж : IX + III : Ж + Ж : XI
+[u]n[/u] = XI : III + IX : Ж + Ж : Ж + Ж : IX + Ж : Ж + III : XI
+
+If these signs were to be used in any general application, some of them would require modification to prevent their being mistaken for other or other characters. It will be remarked that [u]i[/u], [u]j[/u], [u]k[/u] leave each permutation in its own class, indicated by the even or odd number of crossings in its character; while [u]l[/u], [u]m[/u], [u]n[/u] reverse the class of [ins]each[/ins] other permutation.
+
+In regard to the multiplication table, it is, in the first place, noticeable that if we take six new quantities, as follows:
+
+[u]i''[/u] = [fraction](i-j)-(k-i)[/fraction]/3
+[u]j''[/u] = [fraction](j-k)-(l-j)[/fraction]/3
+[u]k''[/u] = [fraction](k-i)-(i-k)[/fraction]/3
+
+[u]l''[/u] = [fraction](l-m)-(n-l)[/fraction]/3
+[u]m''[/u] = [fraction](m-n)-(l-m)[/fraction]/3
+[u]n''[/u] = [fraction](n-l)-(m-n)[/fraction]/3
+
+we have

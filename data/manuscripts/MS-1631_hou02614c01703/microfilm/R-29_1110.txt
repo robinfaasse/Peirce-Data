@@ -1,0 +1,50 @@
+When you pass from one side of an infinitely thin
+lamina to the other, the sign changes without
+a change in value. Of course, however, this
+would not occur in practice.
+§112 Value of $D_{n}\Omega$ within the lamina
+
+[u]Poisson's Modification of Laplace's Equation for Interior Points.[/u]
+§113. $\nabla\Omega = -4\pi\kappa$
+
+[fig]Two diagrams comparing Stein's Hypothesis and Fact[/fig]
+Stein's Hypothesis      Fact
+
+[u]Attraction of an Infinite Cylinder.[/u]
+§114 $\Omega = \mathcal{F}(x+y\sqrt{-}) + \mathcal{F}_{1}(x-y\sqrt{-})$
+We have here a case of the integration of equations,
+which is a part of the calculus we have not yet
+taken up. We study specials cases before we study
+the theory, just as it is usual to speak before
+studying grammar.
+Let
+$x_{1} = x+y\sqrt{-}$
+$y_{1} = x-y\sqrt{-}$
+$D_{x}\Omega = D_{x_{1}}\Omega D_{x}x_{1} + D_{y_{1}}\Omega D_{x}y_{1}$
+Which is the usual mode of taking derivatives
+of functions which implicitly contain the quan-
+
+tity, according to which we wish to take the de-
+rivate, but is explicitly composed of other
+functions.
+$D_{x}y_{1} = 1$
+$D_{x}x_{1} = 1$
+$D_{x}\Omega = (D_{x_{1}} + D_{y_{1}})\Omega$
+$D^{2}_{x}\Omega = (D_{x_{1}} + D_{y_{1}})^{2}\Omega = (D^{2}_{x_{1}} + 2D_{x_{1}}D_{y_{1}} + D^{2}_{y_{1}})\Omega$
+
+$D_{y}\Omega = D_{x_{1}}\Omega D_{y}x_{1} + D_{y_{1}}\Omega D_{y}y_{1} = (D_{x_{1}} - D_{y_{1}})\Omega\sqrt{-}$
+$D^{2}_{y}\Omega = (D_{x_{1}} - D_{y_{1}})^{2}(-\Omega) = (-D^{2}_{x_{1}} + 2D_{x_{1}}D_{y_{1}} - D^{2}_{y_{1}})\Omega$
+
+Add together $D^{2}_{x}\Omega$ & $D^{2}_{y}\Omega$
+$4D_{x_{1}}D_{y_{1}}\Omega = (D^{2}_{x} + D^{2}_{y})\Omega = 0$
+$D_{x_{1}}D_{y_{1}}\Omega = 0$
+
+Integrate $D_{y_{1}}\Omega = \text{constant} = \mathcal{F}_{y_{1}}$
+$\Omega = \mathcal{F}_{y_{1}} + \mathcal{F}_{1}x_{1}$
+
+There is usually much trouble in finding $\mathcal{F}$ & $\mathcal{F}_{1}$.
+So much so, indeed, as to render the process
+more difficult than that of solving the whole
+question without the aid of Laplace's equation.
+§115 [u]The Level Surfaces.[/u]
+§116 [u]Form of the attraction.[/u]

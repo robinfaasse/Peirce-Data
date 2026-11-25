@@ -1,0 +1,23 @@
+(26) [pn]$\tan \varphi = \frac{dy}{dx} = \tan \varphi_0 - \frac{q}{A} x$.[/pn]
+
+Hence, even though $\varepsilon$ be not constant along the cord, the curve is a parabola with its vertex at the lowest point. This gives
+
+(27) [pn]$0 = \tan \varphi_0 - \frac{q}{A} x_k$[/pn]
+
+(28) [pn]$\tan \varphi = \frac{dy}{dx} = \tan \varphi_0 (1 - \frac{x}{x_k})$,[/pn]
+
+and by [del]differentiation,[/del] [ins]differentiation,[/ins]
+
+(29) [pn]$dx = -x_k \frac{\sec^2 \varphi}{\tan \varphi_0} d\varphi$[/pn]
+
+and by integration
+
+(30) [pn]$\frac{x_k}{\tan \varphi_0} (-\tan^2 \varphi + \tan^2 \varphi_0) = y = \tan \varphi_0 \cdot x (1 - \frac{x}{2x_k})$[/pn]
+
+[pn]$y_k = x_k \tan \varphi_0$[/pn]
+
+[pn]$\frac{y}{y_k} = 1 - (\frac{\tan \varphi}{\tan \varphi_0})^2 = \frac{x}{x_k} (1 - \frac{x}{2x_k})$[/pn]
+
+Equation (6) gives
+
+(31) [pn]$l = \int [del]\frac{dx}{}[/del] \frac{dx}{\frac{A}{\varepsilon} + \frac{1}{\sqrt{1 + (dy/dx)^2}}} = - \frac{x_k}{\tan \varphi_0} \int \frac{\sec^2 \varphi}{\frac{A}{\varepsilon} + \cos \varphi} d\varphi$[/pn]

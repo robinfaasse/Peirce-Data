@@ -1,0 +1,32 @@
+113
+
+
+For supposing
+[u]u[/u]² - [u]uv[/u] + [u]v[/u]² = o,
+we may multiply by [u]u[/u] + [u]v[/u] ( having first noted that this is not al-
+ready a factor of the operation, so that it will create a false
+solution,) when we shall have
+[u]u[/u]³ + [u]v[/u]³ = o;
+so that [u]u[/u] = - [u]ρv[/u] = ( 1 + [u]ρ[/u] ) [u]v[/u]
+and
+[u]um'[/u] + [u]vn'[/u] = [u]v[/u] / [u]√-3[/u] [[u]n[/u] - [u]l[/u] + ( 1 + [u]ρ[/u] ) [u]l[/u] - [u]m[/u]] = [u]vρ[/u] / [u]√-3[/u] ( 1 + [u]ρm[/u] + [u]ρ[/u]²[u]n[/u] ).
+Other convenient general expressions for a moriturum are
+C ( [u]√u²-u+1[/u] [u]l'[/u] + [u]m'[/u] + [u]un'[/u] )
+C ( [u]√1+3R²[/u] [u]l'[/u] + ( 1 + R ) [u]m'[/u] + ( 1 - R ) [u]n'[/u] )
+C ( [u]√[/u] ( [u]w[/u] + [u]ρ[/u] ) ( [u]w[/u] + [u]ρ[/u]² ) [u]l'[/u] + [u]m'[/u] + [u]wn'[/u] ).
+Let us ask under what conditions two moritura, J and K,
+will satisfy the equation JKJ = J. By the use of the multiplica-
+tion table (together with the equations [u]i'[/u] + [u]j'[/u] + [u]k'[/u] = o and [u]l'[/u] + [u]m'[/u] + [u]n'[/u] = o)
+it will be found that
+( A[u]l'[/u] + B[u]m'[/u] + C[u]n'[/u] )( D[u]i'[/u] + E[u]m'[/u] + F[u]n'[/u] )( A[u]l'[/u] + B[u]m'[/u] + C[u]l'[/u] ) =
+[[ (A² + B² + C² - BC) D + A (C - 2B) E + A (B - 2C) F] [u]l'[/u]
++ [ 2ABD + B (B - 2C) F + ( C² - B² - A² ) E] [u]m'[/u]
++ [ 2ACD + C (C - 2B) E + ( B² - C² - A² ) F] [u]n'[/u].
+If then we take for our two moritura,
+M = B ( [u]√u²-u+1[/u] [u]l'[/u] + [u]m'[/u] + [u]un'[/u] )
+N = E ( [u]√v²-v+1[/u] [u]i'[/u] + [u]m'[/u] + [u]vn'[/u] )
+we shall have
+A = B[u]√u²-u+1[/u] C = Bu
+D = E [u]√v²-v+1[/u] F = Ev;
+and in order to make MNM = M, we must have [[B² ( [u]u[/u]² - [u]u[/u] + 1 ) + B²
++ B² [u]u[/u]² - B [u]u[/u]²] E [u]√v²-v+1[/u] + B² [u]√u²-u+1[/u] [ ( [u]u[/u] - 2 )( 1 - 2u )[u]v[/u] ] E = B[u]√u²-u+1[/u]

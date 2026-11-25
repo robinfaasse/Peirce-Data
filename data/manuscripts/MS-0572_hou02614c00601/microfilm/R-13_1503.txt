@@ -1,0 +1,35 @@
+[del]n[/del] $e^x = 1 - e^x = [del]1 - (1 - e)[/del]$
+$= 1 - (1 - (1-e)x) = (1-e)x$
+
+$d e^{1-x} = e^{1-(x+dx)} - e^{1-x}$
+$= e^{1-x} (e^{-dx} - 1)$
+$= e^{1-x} [del]G[/del]$
+$= - e^{1-x} (1-e)dx$
+
+$e^{1-x} = e^1 - e^1 (1-e)x$
+
+$e^{1-dx} = e^{\log e(1-dx)} = \log e(1-dx) + 1$
+$= (e-1)(1-dx + 1$
+$= 1 - (1-e)(1-dx)$
+$1 - (1-e) = (1-e)dx$
+
+[fig]Mathematical scratchwork and diagrams[/fig]
+
+Develope $e^{1-x}$
+
+$d e^{1-x} = e^{1-x-dx} - e^{1-x}$ [del]When $x=0$[/del] $= e^{1-dx} - e^1 = e^{1-dx} = \log e^{1-dx} + 1$
+
+$= \log e(1-dx) + 1 = [del]\log e - \log e dx + 1[/del]$ [del]$(1-e)dx$[/del]
+
+By Taylor theorem
+$e^{1-x} = e^1 + [del]D[/del]_x f0 x = e^1 + (1-e)x = (1-e)x$
+
+Develope $(1-x)^a$
+
+$d(1-x)^a = (1-x-dx)^a - (1-x)^a$
+when $x=0$
+$= (1-dx)^a - 1 = -dx.a$
+
+$(1-x)^a = f0 + D_x f0 x = 1 - xa$
+
+The $x$ always is to be put where $dx$ was.

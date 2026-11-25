@@ -1,0 +1,47 @@
+[u]Naval Calc.[/u] [del]$\sqrt{1-x^2}$[/del] [u]Log[/u] $\frac{\sqrt{1+x^2}}{x+1+\sqrt{1-x^2}}$
+
+To calc $\frac{1}{1+x+\sqrt{1-x^2}}$     $\sqrt{1-x^2} = 1 - \frac{1}{2}x^2 - \frac{1}{8}x^4 - \frac{1}{16}x^6 - \frac{5}{128}x^8$
+
+[del]$\frac{2+x-\frac{1}{2}x^2}{}$[/del]
+$(1+x+\sqrt{1-x^2}) = 2 + x - \frac{1}{2}x^2 - \frac{1}{8}x^4 - \frac{1}{16}x^6 - \text{etc}$
+$= 2 (1 + \frac{1}{2}x - \frac{1}{4}x^2 - \frac{1}{16}x^4 - \frac{1}{32}x^6 - \text{etc})$
+
+[fig]curved lines connecting terms of polynomial division[/fig]
+
+$\begin{array}{r}
+1 + \frac{1}{2}x - \frac{1}{4}x^2 \qquad\quad - \frac{1}{16}x^4 \qquad\quad - \frac{1}{32}x^6 \\
+- \frac{1}{2}x - \frac{1}{4}x^2 + \frac{1}{8}x^3 \qquad\quad + \frac{1}{32}x^5 - \frac{1}{64}x^6 \qquad\quad + \frac{1}{64}x^7 \\
++ \frac{1}{2}x^2 + \frac{1}{4}x^3 - \frac{1}{8}x^4 \qquad\quad - \frac{1}{32}x^6 \\
+- \frac{3}{8}x^3 - \frac{3}{16}x^4 + \frac{3}{32}x^5 \qquad\quad + \frac{3}{64}x^7 \\
++ \frac{3}{8}x^4 + \frac{3}{16}x^5 - \frac{3}{32}x^6 \\
+- \frac{5}{16}x^5 - \frac{5}{32}x^6 + \frac{5}{64}x^7 \\
++ \frac{5}{16}x^6 + \frac{5}{32}x^7
+\end{array}$
+
+$\frac{1}{\kappa+1+\sqrt{\kappa^2-1}} = \frac{1}{\kappa} \frac{1}{(1+\frac{1}{\kappa}+\sqrt{1-\frac{1}{\kappa^2}})}$
+$= \frac{1}{2\kappa} (1 - \frac{1}{2}\frac{1}{\kappa} + \frac{1}{2}\frac{1}{\kappa^2} - \frac{3}{8}\frac{1}{\kappa^3} + \frac{3}{8}\frac{1}{\kappa^4})$
+$= \frac{1}{2\kappa} - \frac{1}{4}\frac{1}{\kappa^2} + \frac{1}{4}\frac{1}{\kappa^3} - \frac{3}{16}\frac{1}{\kappa^4}$
+
+$\kappa + \sqrt{\kappa^2-1} = \kappa (2 - \frac{1}{2\kappa^2} - \frac{1}{8\kappa^4} - \frac{1}{16\kappa^6})$
+$= 2\kappa (1 - \frac{1}{4\kappa^2} - \frac{1}{16\kappa^4} - \frac{1}{32\kappa^6})$
+
+$\frac{\kappa+\sqrt{\kappa^2-1}}{\kappa+1+\sqrt{\kappa^2-1}} = \frac{2\kappa}{2\kappa} (1 - \frac{1}{4\kappa^2} - \frac{1}{16\kappa^4} - \frac{1}{32\kappa^6}) (1 - \frac{1}{2}\frac{1}{\kappa} + \frac{1}{2}\frac{1}{\kappa^2} - \frac{3}{8}\frac{1}{\kappa^3} + \frac{3}{8}\frac{1}{\kappa^4})$
+
+$\begin{array}{c|c|c|c|c|c|c}
+1 & \kappa^0 & \kappa^{-1} & \kappa^{-2} & \kappa^{-3} & \kappa^{-4} & \kappa^{-5} & \kappa^{-6} \\
+\hline
+ & 1 & -\frac{1}{2} & +\frac{1}{2} & -\frac{3}{8} & +\frac{3}{8} & -\frac{5}{16} & +\frac{5}{16} \\
+ & & & -\frac{1}{4} & +\frac{1}{8} & -\frac{1}{8} & +\frac{3}{32} & -\frac{3}{32} \\
+ & & & & & -\frac{1}{16} & +\frac{1}{32} & -\frac{1}{32} \\
+ & & & & & & & -\frac{1}{32} \\
+\hline
+ & 1 & -\frac{1}{2} & +\frac{1}{4} & -\frac{1}{4} & +\frac{3}{16} & -\frac{3}{16} & +\frac{5}{32} \\
+ & & +\frac{1}{2} & -\frac{1}{4} & +\frac{1}{4} & -\frac{3}{16} & &
+\end{array}$
+
+$\sqrt{1+\xi^2} - \xi = 1 - \xi + \frac{1}{2}\xi^2 - \frac{1}{8}\xi^4 + \frac{1}{16}\xi^6$
+
+$\frac{\sqrt{1+\xi^2}-\xi+\kappa\sqrt{\kappa^2-1}}{\kappa+1+\sqrt{\kappa^2-1}} = (\frac{1}{2\kappa} - \frac{1}{4}\frac{1}{\kappa^2} + \frac{1}{4}\frac{1}{\kappa^3} - \frac{3}{16}\frac{1}{\kappa^4} + \frac{3}{16}\frac{1}{\kappa^5} - \frac{5}{32}\frac{1}{\kappa^6})$
+$\times (-\xi + \frac{1}{2}\xi^2 - \frac{1}{8}\xi^4 + \frac{1}{16}\xi^6 - \frac{5}{128}\xi^8 + \frac{7}{256}\xi^{10})$
+$= \frac{2}{2\kappa} p - \frac{1}{4\kappa^2} p + \frac{1}{4\kappa^3} p - \frac{3}{16\kappa^4} p + \frac{3}{4\kappa^5} p$
+where $p = -\frac{1}{2}\xi + \frac{1}{8}\xi^2 - \frac{1}{32}\xi^4 + \frac{1}{64}\xi^6 - \frac{5}{512}\xi^8 + \frac{7}{1024}\xi^{10}$

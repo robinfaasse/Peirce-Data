@@ -1,0 +1,6 @@
+[fig]Diagram showing angles of refraction or reflection at interfaces[/fig]
+
+$a \tan \theta_1 = \tan \theta_2$
+$\tan \theta_3 = [del]\frac{1}{a}[/del] \tan \theta_2 = \frac{1}{a^2} \tan \theta_1$
+$\tan \theta_4 = \frac{1}{a} \tan \theta_3 = \frac{1}{a^3} \tan \theta_1$
+$\tan \theta_5 = \frac{1}{\tan \theta_4} = a^3 \tan \theta_1$

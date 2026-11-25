@@ -1,0 +1,32 @@
+[fig]Mathematical formula with curly bracket and doodles of faces[/fig]
+
+[del]Let i be owned by the one next[/del]
+[del]Let i precede[/del] [del]preceding it[/del]
+
+Let $j$ next precede $i$
+$$g_{ij} \cdot \Pi_k (\bar{g}_{ik} + \bar{g}_{kj})$$
+
+[del]Let i be owned[/del]
+Let $j$ next precede $i$ and not own it
+$$\bar{k}_{ji} \cdot g_{ij} \cdot \Pi_k (\bar{g}_{ik} + \bar{g}_{kj})$$
+
+Let $j$ next precede $i$ and not own it
+[del]and next precede j' that next precedes it and[/del]
+and precede no matter what $j'$ [del]no matter what i' may be[/del] does not precede it
+unless $j'$ [del]next precedes nothing[/del]
+or [del]unless j'[/del] precedes something preceding it
+or owns it.
+or unless $j'$ is identical with $i$
+
+$$\bar{k}_{ji} \cdot g_{ij} \cdot \Pi_k (\bar{g}_{ik} + \bar{g}_{kj}) \cdot \Pi_{j'} g_{ij'} + l_{jj'} + \Pi_{i'} \bar{g}_{i'j'} + \Sigma_{k'} g_{i'k'} \cdot g_{k'j'} + k_{j'i'}$$
+
+No matter what $l$ may be, it either does not precede that $j$.
+or no matter what $m$ may be $m$ does not precede it
+[del]or l is owne[/del]
+or there is something $n$ that precedes $j$
+and owns $l$.
+
+[fig]Doodles of faces[/fig]
+
+$$\Pi_l \Pi_m \Sigma_n$$
+$$\Pi_l \Sigma_j \Pi_k \Pi_{j'} \Pi_{i'} \Sigma_{k'} \Sigma_n \Pi_m \bar{g}_{il} + \bar{g}_{lm} + g_{jn} \cdot k_{nl}$$

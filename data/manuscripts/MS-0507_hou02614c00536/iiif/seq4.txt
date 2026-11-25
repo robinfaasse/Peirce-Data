@@ -1,0 +1,17 @@
+$\sum_{j} \Pi_{i} (r_{ji} + \overline{p}_{ij}) \cdot b_{ji}$
+
+[del]Somebody rejo[/del] [ins]There is a[/ins] benefactress of everybody who rejects everybody who [del]proposes to[/del] [ins]wooes[/ins] her
+
+[fig]diagram with boxes labeled "rejects", "is proposed", "is wooed", and "benefactress"[/fig]
+
+$\Pi_{i} \sum_{j} (r_{ji} + \overline{w}_{ij}) \cdot b_{ji}$
+Everybody has a [ins]some[/ins] benefactress [del]who[/del] [ins]who[/ins] would reject [del]him[/del] [ins]her[/ins] if [del]he[/del] [ins]she[/ins] [del]wooes[/del] [ins]teased[/ins] her
+
+[fig]diagram with boxes labeled "rejects", "is teased by", and "benefactress"[/fig]
+
+$\sum_{j} \Pi_{i} r_{ji} + \overline{t}_{ij} \cdot b_{ji}$
+Somebody rejects everybody who would tease her if she benefited him
+
+[fig]diagram with boxes labeled "rejects", "teased by", and "benefactors"[/fig]
+
+Somebody rejects everybody unless [del]she[/del] [ins]he[/ins] is his benefactress without being teased by him

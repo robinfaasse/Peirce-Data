@@ -1,0 +1,25 @@
+[79]
+
+[fig]sketch of a rectangle with crossed lines[/fig] [fig]diagram of a quadrilateral with sides a, b, c, d and diagonals p, q, r, s[/fig]
+
+[del]p² = a² + b² - L ab[/del]
+
+a² = p² + q² - L pq	- a²/pq + p/q + q/p = L
+c² = r² + s² - L rs	- c²/rs + r/s + s/r = L
+b² = q² + r² + L qr	+ b²/qr - q/r - r/q = L
+d² = s² + p² + L sp	+ d²/sp - s/p - p/s = L
+
+[del]sin φ[/del] cos φ / [del]cos φ[/del] sin φ = 2 / sin 2φ		(a² - p² - q²) r + (b² - q² - r²) p = 0
+p/q + q/p = 2 / sin 2 arctan p/q		a²r + b²p - p [del]r[/del] (p+r) (p r +
+					b²r + a²p - (p + r) (pr + q²)
+
+- a²/pq + p/q + q/p = - c²/rs + r/s + s/r
+
+p² + q² - a² / pq = r² + s² - c² / rs
+
+[del]q² + r²[/del]
+a/q r  b/q p [del]r[/del]
+p r/q  p r/q	a² - p² - q² / pq + b² - q² - r² / qr = 0
+		c² - r² - s² / rs + d² - s² - p² / sp = 0
+
+a² - q² / p + b² - q² / r = p + r [del](a²/p² r/q + (b²/r²) p/q) r p²[/del]

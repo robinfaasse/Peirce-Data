@@ -1,0 +1,5 @@
+Logic
+<u>III</u>
+70 (70) [ins]for subsequent propositions [ins]that can be written out.[/ins][/ins] Any algebraical consequence, whose ultimate consequence is scriptible is itself scriptible.
+Proof. Assume this true [del]for any number, N, of[/del] [ins]for any consequence [ins]less than[/ins] having[/ins] fewer than N proximate antecedentals. Then consider the consequence $\delta_1 \prec \delta_2 \prec \delta_3 \prec \dots \prec \delta_N \prec \text{V}$ of which the ultimate consequence V is scriptible. It follows, by the assumption that $\delta_2 \prec \delta_3 \prec \dots \delta_N \prec \text{V}$ is scriptible, whence, by (65), $\delta_1 \prec \delta_2 \prec \delta_3 \prec \dots \prec \delta_N \prec \text{V}$ is scriptible. It will thus be true of every consequence having N proximate antecedentals. But, by (65), it is true when N is 1. Hence, it is true for every algebraical consequence that can be written out.
+(71)

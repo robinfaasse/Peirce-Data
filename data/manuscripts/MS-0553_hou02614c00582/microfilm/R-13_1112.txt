@@ -1,0 +1,30 @@
+Let $U_{pqr}$ mean $p$ urges $q$ to shoot $r$
+$V_{pqr}$ $p$ abuses $q$ to $r$
+
+Then, the premises are
+$\Pi_i \Sigma_j \Pi_k (\bar{v}_{ijk} \text{ + } [ins]u_{ijk}[/ins]^{[del]a_{ij}[/del] [ins]c_{ij}[/ins]} [ins]b_{ki}[/ins])$
+$\Pi_x \Sigma_y \Pi_z (\bar{u}_{yzx} \text{ + } v_{zxy} [ins]\cdot b_{yz}[/ins]^{[del]b_{yz}[/del] [ins]c_{yz}[/ins]})$
+
+We can write the $\Pi$s and $\Sigma$s so as to give either
+$\Pi_i \Sigma_j \Pi_x \Sigma_y \Pi_z \Pi_k (\bar{u}_{yzx} \text{ + } v_{zxy}) \cdot (\bar{v}_{ijk} \text{ + } u_{ijk})$
+$\Pi_x \Sigma_y \Pi_i \Sigma_j \Pi_z \Pi_k (\bar{v}_{ijk} \text{ + } u_{ijk}) \cdot (\bar{u}_{yzx} \text{ + } v_{zxy})$
+
+In the former, we identify $x$ with $j$, $k$ with $y$, and $z$ with $i$.
+This gives
+$\Pi_i \Sigma_j \Sigma_y (\bar{u}_{yij} + v_{ijy})^{[ins]e_{ij} \cdot c_{iy}[/ins] [ins]e_{yi}[/ins]} \cdot (\bar{v}_{ijy} + u_{ijy})^{[ins]c_{yi}[/ins]}$
+
+whence
+$\Pi_i \Sigma_j \Sigma_y (\bar{u}_{yij} + [del]v_{ijy}[/del] [ins]b_{ijy}[/ins])^{[ins]e_{yi} \cdot b_{ij}[/ins]} \cdot e_{ij} \cdot c_{yi}$
+
+that is, [ins]to[/ins] everybody who is abused by everybody to everybody
+some person abuses another.
+
+In the second arrangement of the indices, we identifying $i$
+with $y$, $z$ with $j$ and $k$ with [del]$x$[/del], we get
+$\Pi_x \Sigma_y \Sigma_j (\bar{v}_{yjx} + u_{yjx})^{[ins]m_{yi}[/ins]} \cdot (\bar{u}_{yjx} + v_{jxy})^{[ins]m_{yi}[/ins]}$
+
+whence
+$\Pi_x \Sigma_y \Sigma_j \bar{v}_{yjx} + v_{jxy}^{[ins]m_{jj}[/ins] [ins]m_{yi}[/ins]}$
+
+or everybody whom everybody urges everybody to shoot
+is urged by somebody to shoot somebody.

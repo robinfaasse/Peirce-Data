@@ -1,0 +1,11 @@
+$$\frac{ds}{r} = \frac{\sqrt{(dr)^2 + (dz)^2}}{r} = \frac{dr}{r} \sqrt{1 + (D_r z)^2}$$
+
+$$\left(\frac{r}{R}\right)^2 + \left(\frac{z}{Z}\right)^2 = 1 \qquad r^2 = R^2 \left(1 - \frac{z^2}{Z^2}\right)$$
+
+$$\frac{r^2 (dr)^2}{R^4} = \frac{z^2 (dz)^2}{Z^4} \qquad (dr)^2 = $$
+
+$$\frac{Z^4}{R^4} \frac{(dr)^2}{z^2} = \frac{(dz)^2}{r^2} \qquad \frac{\sqrt{dr^2 + dz^2}}{r}$$
+
+$$\left(\frac{Z^4}{R^4} \frac{1}{z^2} + \frac{1}{r^2}\right) dr^2 \qquad \sqrt{\left(\frac{dr}{r}\right)^2 + \frac{(dr)^2}{z^2} \frac{Z^4}{R^4}}$$
+
+$$\frac{Z^4}{R^4} \frac{1}{z^2} \qquad = \frac{dr}{r} \sqrt{1 + \frac{Z^4}{R^4} \frac{r^2}{z^2}}$$

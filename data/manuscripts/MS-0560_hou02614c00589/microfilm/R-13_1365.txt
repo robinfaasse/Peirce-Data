@@ -1,0 +1,24 @@
+[pn](15[/pn]
+
+We have therefore three
+distinct signs $\Sigma$ $\Pi$ and the
+line denoting negation, when
+only two are requisite. But
+we cannot get along without
+a sign of negation and we
+have no reason for choosing
+one rather than the other of
+the other two signs $\Sigma$ $\Pi$.
+
+Some crows are white is
+written $\Sigma c w = \overline{\Pi(\overline{c}+\overline{w})}$
+
+No crows are white is
+written $\overline{\Sigma c w} = \Pi(\overline{c}+\overline{w})$
+
+Every man is either a Knave or a fool
+is written $\Pi(k+f) = \overline{\Sigma \overline{k} \overline{f}}$
+
+Some man is neither a fool
+nor a Knave
+$\overline{\Pi(k+f)} = \Sigma \overline{k} \overline{f}$

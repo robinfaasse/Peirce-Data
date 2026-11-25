@@ -1,0 +1,41 @@
+[del]All A is B[/del]
+[del]No A is B[/del]
+[del]Some A is B[/del]
+[del]Some A is not B[/del]
+
+[del]All A is B[/del] & [del]all B is A[/del]
+[del]No A is B[/del]
+[del]Some A is B[/del] & [del]some A is not B[/del]
+[del]All A is B[/del] & [del]all B is A[/del]
+[del]All A is B[/del] & [del]some B is not A[/del]
+[del]Some A is not B[/del] & [del]some B is not A[/del]
+[del]Some A is B[/del] & [del]some B is not A[/del]
+
+[u]All A is B[/u] & [u]all B is A[/u] & converse
+[u]All A is B[/u] & [u]some B is not A[/u] and converse
+[u]Some A is B[/u] & [u]some A is not B[/u] and converse
+[u]Some A is not B[/u] & [u]some B is not A[/u]
+[u]Some A is B[/u] & [u]some A is not B[/u] & [u]some B is not A[/u]
+
+A = AB
+E = [del]D[/del]
+I = [del]A[/del] [ins]A[/ins][del]B[/del][ins]B[/ins]C
+O = [del]B[/del][ins]B[/ins]CD
+AA' = A
+Ao' = B     A'o = B
+Io = [del]B[/del][ins]B[/ins]C
+[del]Io' = C[/del]
+oo' = CD
+Ioo' = C
+
+[fig]Euler diagrams representing logical relations[/fig]
+
+AA'
+Ao' = A'o
+Io = Io'
+oo'
+Ioo'
+
+[fig]Venn-like diagrams with circles and points[/fig]
+
+[fig]Complex logical lattice diagram with variables A, B, C, D[/fig]

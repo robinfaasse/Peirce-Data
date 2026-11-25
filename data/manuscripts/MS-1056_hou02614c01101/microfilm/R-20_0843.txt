@@ -1,0 +1,58 @@
+$$\mathcal{U}_{m+n} = \mathcal{U}_{m+1}\mathcal{U}_{n+1} - \mathcal{U}_{m-1}\mathcal{U}_{n-1}$$
+
+$$\mathcal{U}_{m+n+1} = \mathcal{U}_{m+1}\mathcal{U}_{n+1} - \mathcal{U}_{m}\mathcal{U}_{n}$$
+
+$$\mathcal{U}_{m+n+p} = \mathcal{U}_{m+1}\mathcal{U}_{n+1}\mathcal{U}_{p+1} + \mathcal{U}_{m}\mathcal{U}_{n}\mathcal{U}_{p} - \mathcal{U}_{m-1}\mathcal{U}_{n-1}\mathcal{U}_{p-1}$$
+
+[del]$$\mathcal{U}_{m+n+p+1} =$$[/del]
+
+$$\mathcal{U}_{m} + \mathcal{U}_{m+2} = \mathcal{U}_{m+1}$$
+
+$$\mathcal{U}_{m} [del]+[/del] [ins]\times[/ins] \mathcal{U}_{m-2} = \mathcal{U}_{m-1}$$
+
+$$\mathcal{U}_{m} + \mathcal{U}_{m-3} = 2\mathcal{U}_{m-1}$$
+
+$$\mathcal{U}_{m} + 2\mathcal{U}_{m-5} = 5\mathcal{U}_{m-3}$$
+
+$$\mathcal{U}_{m} = \mathcal{U}_{m+1} - \mathcal{U}_{m-1}$$
+$$\overline{\mathcal{U}_{m} + \mathcal{U}_{m+2} = \mathcal{U}_{m+1}}$$
+$$\mathcal{U}_{m} - \mathcal{U}_{m-2} = \mathcal{U}_{m-1}$$
+$$\mathcal{U}_{m} + \mathcal{U}_{m-3} = 2\mathcal{U}_{m-1}$$
+$$\mathcal{U}_{m} + 2\mathcal{U}_{m-5} = 5\mathcal{U}_{m-3}$$
+$$\mathcal{U}_{m} + 5\mathcal{U}_{m-7} = 13\mathcal{U}_{m-5}$$
+
+$$\mathcal{U}_{m+n+p-3} = \mathcal{U}_{m}\mathcal{U}_{n}\mathcal{U}_{p} - \mathcal{U}_{m-1}\mathcal{U}_{n-1}\mathcal{U}_{p-1} - \mathcal{U}_{m-2}\mathcal{U}_{n-2}\mathcal{U}_{p-2}$$
+
+$$\mathcal{U}_{m+n+p-1} = \frac{1}{2}\mathcal{U}_{m+1}\mathcal{U}_{n+1}\mathcal{U}_{p+1} + \mathcal{U}_{m}\mathcal{U}_{n}\mathcal{U}_{p} - \frac{1}{2}\mathcal{U}_{m-2}\mathcal{U}_{n-2}\mathcal{U}_{p-2}$$
+
+$$\mathcal{U}_{m+n+p+1} = \frac{3}{2}\mathcal{U}_{m+1}\mathcal{U}_{n+1}\mathcal{U}_{p+1} + \mathcal{U}_{m}\mathcal{U}_{n}\mathcal{U}_{p} - \mathcal{U}_{m-1}\mathcal{U}_{n-1}\mathcal{U}_{p-1} - \frac{1}{2}(m-2)(n-2)(p-2)$$
+
+$$\mathcal{U}_{m+n+p+q} = \frac{1}{2}\mathcal{U}_{m+1}\mathcal{U}_{n+1}\mathcal{U}_{p+1}\mathcal{U}_{q+1} + \mathcal{U}_{m}\mathcal{U}_{n}\mathcal{U}_{p}\mathcal{U}_{q} - \mathcal{U}_{m-1}\mathcal{U}_{n-1}\mathcal{U}_{p-1}\mathcal{U}_{q-1} - \frac{1}{2}(m-2)(n-2)(p-2)q$$
+
+$$\mathcal{U}_{1}\mathcal{U}_{m} + \mathcal{U}_{2}\mathcal{U}_{m} = \mathcal{U}_{2}$$
+
+[del]$$\frac{1}{2}q + \frac{q+2}{2}$$
+$$\frac{1}{2}q + \frac{q+1}{2}$$
+$$\frac{1}{2}q + (q+1)$$[/del]
+
+$$\frac{1}{2} [del]m+1\ n+1\ p+1\ q+3[/del] [ins]mnpq[/ins] [del]+ (q+2)[/del] - m-1\ n-1\ p-1\ q+2 - \frac{1}{2}(m-2)(n-2)(p-2)q$$
+
+[del]$$q+1$$
+$$2q$$
+$$q-1$$[/del]
+
+$$\mathcal{U}_{m+1} + \mathcal{U}_{m-1}$$
+
+$$\begin{array}{r} 144 \\ 3 \\ \hline 432 \\ \mathcal{U}_{7} \\ \hline 8 \end{array} \quad \begin{array}{r} 55 \\ 8 \\ \hline 440 \end{array}$$
+
+$$\begin{array}{r} 89 \\ 5 \\ \hline 445 \\ 890 \end{array}$$
+
+$$\begin{array}{r|r} 89 & 5 \\ 13 & 233 \end{array}$$
+
+$$\begin{array}{r} 144 \\ 55 \\ \hline 199 \\ 5 \\ \hline 995 \end{array} \quad \begin{array}{r} 89 \\ 5 \\ \hline 445 \end{array}$$
+
+$$\begin{array}{r} 89 \\ 5 \\ \hline 445 \\ 89 \\ \hline 979 \end{array}$$
+
+$$\begin{array}{r} 89 \cdot 8 + 89 \cdot 3 \\ 89 \cdot 5 \\ 987 = 144 \times 2 - 55 \times 3 \\ 8 = 144 \cdot 3 + 55 \times 8 \\ 995 = 144 \cdot 5 + 55 \times 5 \\ 979 = \mathcal{U}_{11} \end{array}$$
+
+$$\begin{array}{r} m=5 \\ n=11 \\ 144 \\ 2 \\ \hline 1152 \\ 165 \\ \hline 987 \end{array} \quad \begin{array}{r} 55 \\ 3 \end{array}$$

@@ -1,0 +1,36 @@
+[pn]MS 93[/pn]
+[marginalia]Calculus of Finite Differences[/marginalia]
+
+CALCULUS OF FINITE DIFFERENCES.
+
+[u]Art 1.[/u] The calculus of finite differences is an algebraical method
+for the study of the relations of [del]num[/del] [ins]a series of[/ins] numbers denoted by
+the same letter with different whole numbers as subscript indices.
+
+No arithmetical law necessarily connects the value of the index
+with the value of the number. Thus, [ins]$u_1, u_2, u_3,$ etc. might denote[/ins]
+the number of persons living in No 1, No 2, No 3 etc of a certain
+street.
+
+At the same time, unless there were some general relation
+[del]between the, and[/del] [ins]two sets of numbers, the calculus of finite differences would
+be of no use. It suffices, however, that there should be a general relation
+sully related to[/ins] [del]any[/del] [ins]intelligent law[/ins], etc without either $u$ or $v$ being gene-
+rally related to [ins]1, 2, 3, etc.[/ins]
+
+[u]Art. 2.[/u] The [del]greatest[/del] [ins]ordinary[/ins] tool of this calculus is the symbol, E, of the
+operation of increasing the index by 1. If there can be any doubt
+as to which index is referred to, it is subjoined to the E. Thus
+$E u_x = u_{x+1}$
+$E_x u_x v_y = u_{x+1} v_y$
+
+The effect of the E is supposed to extend to the end of the term. Thus,
+$E u_x v_x = u_{x+1} v_{x+1}$
+
+If this is not intended, one or more lines should be drawn under some
+of the indices and the E should receive a similar index, [del]thus[/del]:
+$_x E_x u_x E_y v_y w_z = u_{x+1} v_{y+2} w_{z+1}$
+
+With this understanding the character E can be treated, if it denoted
+a quantity, according to the ordinary rules of algebra except so far
+as these are modified by the circumstance that $E u_x$ is not equal to $u_x E$.

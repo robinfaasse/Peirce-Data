@@ -1,0 +1,24 @@
+(7) $(\lambda_{1}\lambda_{2} - \beta_{1}\beta_{2}) D_{t}^{4} \varphi_{1} + (\lambda_{1} + \lambda_{2}) D_{t}^{2} \varphi_{1} + \varphi_{1} = 0$.
+
+Separating the operator into factors (by the solution
+of a symbolic quadratic equation) we have
+
+(8) $\{ (\frac{\lambda_{1}+\lambda_{2}}{2} + \sqrt{(\frac{\lambda_{1}-\lambda_{2}}{2})^{2} + \beta_{1}\beta_{2}} ) D_{t}^{2} + 1 \} \{ \frac{\lambda_{1}+\lambda_{2}}{2} - \sqrt{(\frac{\lambda_{1}-\lambda_{2}}{2})^{2} + \beta_{1}\beta_{2}} \} \varphi_{1} = 0$
+
+We may now use the following abbreviations
+
+$\lambda = \frac{\lambda_{1}+\lambda_{2}}{2}$  $\delta = \frac{\lambda_{1}-\lambda_{2}}{2}$  $\beta = \sqrt{\beta_{1}\beta_{2}}$  $\tan \omega = \frac{\beta}{\delta}$
+
+Then supposing the first factor of (8) [del]to[/del] [ins]to[/ins] vanish, (4)
+gives
+$\frac{\varphi_{2}}{\sqrt{\beta_{2}}} = \tan \frac{1}{2} \omega \cdot \frac{\varphi_{1}}{\sqrt{\beta_{1}}}$
+
+But supposing the second factor of (8) to vanish, (4)
+gives
+$\frac{\varphi_{1}}{\sqrt{\beta_{1}}} = \tan \frac{1}{2} \omega \cdot \frac{\varphi_{2}}{\sqrt{\beta_{2}}}$
+
+Hence the solution is
+
+[del]$\varphi_{1}$[/del] $\frac{\varphi_{1}}{\sqrt{\beta_{1}}} = A \cos \frac{t-t_{1}}{\sqrt{\lambda + \sqrt{\delta^{2}+\beta^{2}}}} - \tan \frac{1}{2} \omega \cdot B \cos \frac{t-t_{2}}{\sqrt{\lambda - \sqrt{\delta^{2}+\beta^{2}}}}$
+
+(9) $\frac{\varphi_{2}}{\sqrt{\beta_{2}}} = \tan \frac{1}{2} \omega \cdot A \cos \frac{t-t_{1}}{\sqrt{\lambda + \sqrt{\delta^{2}+\beta^{2}}}} + B \cos \frac{t-t_{2}}{\sqrt{\lambda - \sqrt{\delta^{2}+\beta^{2}}}}$

@@ -1,0 +1,50 @@
+[del]Any[/del] [ins]Some[/ins] M is P
+[del]Any[/del] [ins]Some[/ins] S is M [del]not[/del]
+[del]Any[/del] [ins]Some[/ins] S is P
+
+Any M P
+S P
+Some S M neg
+
+Partic S M neg
+S P
+Some M P
+
+Any M is not P
+[del]Any[/del] [ins]Some[/ins] S is M
+[del]Any[/del] [ins]Some[/ins] S is not P
+
+Any M is not P
+[del]Any[/del] [ins]Some[/ins] S is [del]not[/del] P
+[del]Any[/del] [ins]Some[/ins] S is not P
+
+Any M is not P
+Some S is M
+Some S is not P
+
+Any M is not P
+[del]Some[/del] [ins]Any[/ins] S is P
+[del]Some[/del] [ins]Any[/ins] S is not M
+
+[del]Any S is not M[/del]
+[del]Some S is not M[/del]
+[del]Some S is P[/del]
+[del]Some S is not P[/del]
+Some M is not P
+
+[del]Any S is not P[/del]
+[del]Some S is M[/del]
+
+Any S is not P
+Some S is M
+Some M is not P
+
+[del]Any S is not P[/del]
+Some M is P
+Some S is not P
+
+Any M is not P
+[del]Any[/del] [ins]Some[/ins] S is M
+[del]Any[/del] [ins]Some[/ins] S is not P
+
+[del]Some P is not[/del]

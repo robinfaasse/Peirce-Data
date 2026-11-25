@@ -1,0 +1,25 @@
+$$x \prec y \quad x \bar{y} = 0$$
+$$(x \prec y) \bar{\prec} z \quad x \bar{\prec} y \quad x \bar{y} > 0$$
+
+[del]There are classes of[/del] [ins]There is a class of[/ins] cases among which no $x$ is found without a $y$ and yet among which there is no $z$.
+i.e. There is a case where there is no $z$ and no $x$ or else there is a case where there is no $z$ and a $y$
+
+$$\bar{x} \bar{z} +$$
+$$\bar{z} (\bar{x} + y) = 0 \quad (x \prec y) \prec z$$
+$$S \prec P \quad (x \prec y) \bar{z} = 0$$
+$$(\underset{\wedge}{x \bar{y}} = 0) \bar{z} = 0$$
+$$x \prec \bar{y} \quad (\bar{x} + y) \bar{z} = 0$$
+
+$$S \prec \bar{P} \quad P \prec \bar{\bar{P}}$$
+$$[del]\bar{\bar{P}} \prec \bar{P}[/del] \quad P \prec \overline{(\bar{P})}$$
+$$\bar{P} \prec \overline{(\bar{\bar{P}})}$$
+
+$$\begin{array}{l}
+S \prec \bar{P} \\
+[del]\bar{P} \prec \bar{P}[/del] \\
+[del]\bar{P} \prec \bar{S}[/del]
+\end{array} \quad \begin{array}{l}
+S \prec \bar{P} \\
+P \prec \bar{P} \\
+P \prec \bar{S}
+\end{array}$$

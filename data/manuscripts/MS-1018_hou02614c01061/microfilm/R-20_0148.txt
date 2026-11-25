@@ -1,0 +1,38 @@
+[fig]Two circles connected by a line[/fig] $m_1 g s_1 + m_2 g s_2 + C$
+$= (m_1 + m_2) (D_t s)^2$
+
+[fig]Two circles connected by a line[/fig] $g$
+
+$D_t^2 s + [del]m_1 + m_2[/del] = \frac{m_1 g_1 + m_2 g_2}{m_1 + m_2}$
+
+[fig]Two circles connected by a line[/fig] $\frac{1}{2} k (s_1 - s_2)^2 + m_1 g s_1 + m_2 g s_2 + C$
+$= \frac{(m_1 + m_2) (D_t s)^2}{2}$
+$+ m_1 (D_t s_1)^2 + m_2 (D_t s_2)^2$
+
+[fig]Two circles connected by a line[/fig] $\frac{1}{2} (D_t s)^2 = \frac{m_1 + m_2}{2}$
+
+[del]$\frac{1}{2} (D_t s)^2 = \frac{m_1 + m_2}{2}$[/del]
+
+$\frac{1}{m_1} [del]t =[/del] D_t^2 g$ $m_1 g - k(s_1 - s_2) = D_t^2 s_1$
+$m_2 g + k(s_1 - s_2) = D_t^2 s_2$
+
+$(D_t s)^2 = m_1 g s_1 + k [del]\frac{s_1^2}{2} - [ins]s_1 s_2[/ins][/del]$
+$(D_t s)^2 = m_1 g s_1 + k (\frac{s_1^2}{2} - s_1 s_2)$
+
+***
+
+[fig]Two circles connected by a line[/fig]
+
+[fig]Large circle with dashed outline[/fig]
+
+[fig]Two circles connected by a line[/fig]
+
+$(D_t s)^2$
+
+$\frac{1}{2} (D_t s)^2 = \frac{m_1 + m_2}{2}$
+
+$m_1 g s_1 + m_2 g s_2 = \frac{1}{2} (D_t s)^2$
+
+$\frac{1}{2} D_t^2 s_1 + \frac{1}{2} D_t^2 s_2 = \frac{1}{2} (D_t s)^2$
+
+[fig]Two circles connected by a line[/fig]

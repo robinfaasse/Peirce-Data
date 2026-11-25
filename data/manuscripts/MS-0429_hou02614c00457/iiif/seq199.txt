@@ -1,0 +1,32 @@
+-91-
+[del]402[/del]
+
+The proof is simple enough. If F [u]x[/u] has the value [u]v[/u],
+either [u]x[/u] has the value [u]v[/u], when F [u]x[/u] becomes F [u]v[/u] or [u]x[/u] has the
+value [u]v[/u], so that, in any case, F [u]v[/u] + [u]x[/u] has the value [u]v[/u]; and
+further, either [u]x[/u] has the value [u]v[/u], when F [u]x[/u] becomes F [u]f[/u] or
+[u]x[/u] has the value [u]v[/u], so that, in any case, F [u]f[/u] + [u]x[/u] has the val-
+ue [u]v[/u]. Consequently, if F [u]x[/u] has the value [u]v[/u], the composite
+(F [u]v[/u] + [u]x[/u]) · (F [u]f[/u] + [u]x[/u]) has the same value. But if F [u]x[/u] has the
+value [u]f[/u], either [u]x[/u] has the value [u]v[/u], when F[u]x[/u] becomes F [u]v[/u], and [del]F[/del]
+F [u]v[/u] + [u]x[/u] has the value [u]f[/u], or [u]x[/u] has the value [u]f[/u], when F [u]x[/u] becomes
+F [u]f[/u], and F [u]f[/u] + [u]x[/u] has the value [u]f[/u]. Thus, if F [u]x[/u] has the
+value [u]f[/u], one or other of the components of (F[u]v[/u]+[u]x[/u]) · (F [u]f[/u] + [u]x[/u])
+has the value [u]f[/u], and again (F [u]v[/u] + [u]x[/u]) · (F [u]f[/u] + [u]x[/u]) has the same value
+as F [u]x[/u].
+
+Boole's reciprocal problem is to put am expression into a
+form in which a given letter or its negative appears only as a
+component of an aggregant. The solution is
+· F [u]x[/u] = ( F [u]v[/u] ) · [u]x[/u] + ( F [u]f[/u] ) · [u]x[/u].
+
+[fig]figure[/fig] [ins]3.1[/ins]
+[del]390[/del] We now have to take a step which I first took in my memoir
+dated, 1870 Jan. 26.* Let us start from the sixteen asser- [fig]figure[/fig]
+tions concerning the values of two dichotomic quantities, and
+- - - - - - - - - - - - - - - -
+[ured][del]390[/del]*[/ured] [u]Memoirs of the American Academy of Arts and Sciences IX. pp.[/u] [fig]figure[/fig]
+[fig]figure[/fig] [ins]361A[/ins] [u]317 - 378[/u];[ins][[[u]n[/u]^3]][/ins] [u]also with a separate title page and paging of its own,[/u] [fig]figure[/fig]
+[u]the title being Description of a Notation for the Logic of Rela-[/u]
+[u]tives, resulting from an Amplification of the Conceptions of[/u]
+[u]Boole's Calculus of Logic.[/u] My calling De Morgan's [u]logic of[/u]

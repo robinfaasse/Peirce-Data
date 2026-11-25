@@ -1,0 +1,24 @@
+[marginalia]
+[pn]Logic[/pn]
+[u]III[/u]
+27
+
+[u]*[/u] It is difficult to know what to call this class of thinkers. They object with reason to the inexactitude of "materialists," and "monists" is still less descriptive. Though [u]hyle[/u] means matter in the language I am accustomed to read, in classical Greek it means wood. Perhaps they would object to being called [u]hylactetes[/u]. It is true that this suggests less wood than bark.
+[/marginalia]
+
+Their suggestion, we never should have had the wit to think of. There is something here beyond the ken of those who think that the more wooden they can make their view of the universe, the more intellectual it will be. [ins]*[/ins]
+
+[fig]Mathematical algebraic derivation[/fig]
+$-v^3 + v^2(p+n+g) - v(pn+pg+ng) + png$
+$+v^3 - v^2 3f + v 3f^2 - f^3$
+[u]                                                                                                    [/u]
+$v^3 - v^2(p+n+g+3f) + v(pn+pg+ng+3f^2) + png - f^3$
+$v^2(p+n+g-3f) - v(pn+pg+ng-3f^2) + png - f^3$
+[u]                                            p + n + g - 3f                                            [/u]
+$\left. \begin{array}{r} p^2n + pg^2 + png - 3pf^2 \\ +pn^2 + n^2g + png - 3nf^2 \\ +ng^2 + pg^2 + png \end{array} \right| \begin{array}{l} p^2ng + pn^2g + png^2 \\ -pf^3 - nf^3 - gf^3 \\ -3f png \\ +3f^4 \end{array}$
+
+$\begin{array}{r} pn^2 + pg^2 + ng^2 + gf^4 \\ +2png + 2pn^2g + 2png^2 \end{array}$ [del]$-6f^2pn$ $-6f^2ng$ $-6f^2pg$[/del]
+
+$ax^2 + bx + c = 0$
+$a^2x^2 + abx + ac = 0$
+$(ax + \frac{b}{2})^2 = \frac{b^2}{4} - ac$

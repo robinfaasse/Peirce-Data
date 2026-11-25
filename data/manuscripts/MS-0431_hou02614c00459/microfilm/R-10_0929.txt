@@ -1,0 +1,28 @@
+[pn]Logic
+III
+72[/pn]
+
+For since anything may be substituted for $y$ in
+(1), substitute for it an absurd proposition, and that
+both $x$ and $\overline{x}$ should be true together is reduced to
+absurdity.
+
+From the second clause of the definition we deduce the
+[u]Principle of Excluded Middle[/u], namely, that
+Either $x$ or $\overline{x}$ [del]must[/del] [ins]is[/ins] [del]be[/del] [ins]to be[/ins] true.
+
+[pn](4)[/pn] For since in (2), anything can be substituted for $z$,
+let a true proposition be substituted for it, when it will
+follow that either $y$ or $\overline{y}$ is true.
+
+If in (1) and (2) we substitute, as we may, $\overline{x}$ for
+$x$, we get
+
+[pn](5)[/pn] If $\overline{\overline{x}}$ and $\overline{x}$, then necessarily $y$;
+[pn](6)[/pn] If $z$, then necessarily either $\overline{\overline{x}}$ or $\overline{x}$.
+
+From (1) and (6) it follows that
+[pn](7)[/pn] If $z$ and $x$, then necessarily either $y$ or $\overline{\overline{x}}$
+
+From (2) and (5) it follows that
+[pn](8)[/pn] If $\overline{\overline{x}}$ and $z$, then necessarily, either $y$ or $x$.

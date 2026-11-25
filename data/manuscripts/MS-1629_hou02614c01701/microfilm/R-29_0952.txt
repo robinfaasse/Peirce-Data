@@ -1,0 +1,21 @@
+§ 69. Ex 6
+
+$$\int \cot \kappa x$$
+
+$$\cot \kappa x = \frac{\cos \kappa x}{\sin \kappa x}$$
+
+$$\sin \kappa x = \sqrt{-} \sin \kappa y$$
+$$\cos \kappa x = \cos \kappa y$$
+
+$$\int \cot \kappa x = \int \sqrt{-} \frac{\cos \kappa y}{\sqrt{-} \sin \kappa y} = \int \frac{\cos \kappa y}{\sin \kappa y}$$
+
+$$\sin \kappa y = z$$
+$$\cos \kappa y = \sqrt{1 + z^2}$$
+
+$$\int \cot \kappa x = \int \frac{1}{\kappa} \frac{\sqrt{1+z^2}}{z} \frac{1}{\sqrt{1+z^2}} = \int \frac{1}{\kappa z} = \kappa^{-1} \log z$$
+
+$$\log z = \log \sin \kappa y - \frac{1}{2} \log -1 = \log \sin \kappa x$$
+
+$$\int \cot \kappa x = \frac{1}{\kappa} \log \sin \kappa x$$
+
+Peirce

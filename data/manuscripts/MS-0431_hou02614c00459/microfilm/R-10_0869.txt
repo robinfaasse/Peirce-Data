@@ -1,0 +1,74 @@
+[pn]Logic
+III
+44.[/pn]
+
+A proposition, and equally, a rhema may itself be the
+subject of an assertion.
+
+[fig]Venn diagram with three circles and shaded regions[/fig]
+
+[u]$(x \mathbin{\dot{+}} y)(z \mathbin{\dot{+}} \bar{x}) \mathbin{\dot{+}} y \bar{z}$[/u]
+$x \mathbin{\dot{+}} y \bar{z} \mathbin{\dot{+}} z \bar{x} \mathbin{\dot{+}} y \bar{z} \bar{x}$
+
+[u]$(x \mathbin{\dot{+}} y \mathbin{\dot{+}} z)(x \mathbin{\dot{+}} \bar{y})(z \mathbin{\dot{+}} \bar{x})$[/u]
+$z \bar{y} \mathbin{\dot{+}} z \bar{x} \mathbin{\dot{+}} z \bar{y} \bar{x} \mathbin{\dot{+}} z \bar{y} \bar{x}$
+
+[u]$(z \mathbin{\dot{+}} \bar{x})$[/u]
+$z \bar{y} \mathbin{\dot{+}} z \bar{y} \bar{x} \mathbin{\dot{+}} z \bar{y} x$
+
+[u]$(x \mathbin{\dot{+}} \bar{y}) \left( \frac{y \mathbin{\dot{+}} z}{\bar{z} \mathbin{\dot{+}} \bar{x}} \right) (x \mathbin{\dot{+}} \bar{y})$[/u]
+$z \bar{y} \mathbin{\dot{+}} z \bar{y} \bar{x} \mathbin{\dot{+}} z \bar{y} x$
+
+[u]$(y \mathbin{\dot{+}} \bar{z})$[/u]
+
+[u]$(z \mathbin{\dot{+}} x)(z \mathbin{\dot{+}} \bar{y})(y \mathbin{\dot{+}} \bar{x})$[/u]
+
+[fig]Venn diagram with three circles and shaded regions[/fig]
+
+[u]$(z \mathbin{\dot{+}} x)(z \mathbin{\dot{+}} \bar{y})$[/u]
+$z \bar{y}$
+$z \bar{y} \bar{x}$
+
+[u]$(z \mathbin{\dot{+}} y)(z \mathbin{\dot{+}} \bar{x})(y \mathbin{\dot{+}} \bar{x})$[/u]
+$z \bar{x}$
+$z \bar{x} \bar{y}$
+
+[fig]Venn diagram with three circles and shaded regions[/fig]
+
+$(z \mathbin{\dot{+}} y \bar{x})(z \mathbin{\dot{+}} \bar{y} x) \mathbin{\dot{+}} y \bar{z} \bar{x}$
+$\bar{z} \bar{y} \mathbin{\dot{+}} \bar{z} \bar{y} \bar{x} \mathbin{\dot{+}} z \bar{y} x$
+
+[fig]Venn diagram with three circles and shaded regions[/fig]
+
+$(z \mathbin{\dot{+}} y \bar{x})(z \mathbin{\dot{+}} \bar{y} x)$
+$z \bar{y} \bar{x}$
+$z y x$
+
+[fig]Venn diagram with three circles and shaded regions[/fig]
+
+$(z \mathbin{\dot{+}} y \bar{x})(z \mathbin{\dot{+}} \bar{y} x)(y \mathbin{\dot{+}} \bar{z} \bar{x})$
+$(z \mathbin{\dot{+}} y \bar{x})(z \mathbin{\dot{+}} \bar{y} x)(y \mathbin{\dot{+}} \bar{z})$
+$(z \mathbin{\dot{+}} y)(z \mathbin{\dot{+}} \bar{x})(y \mathbin{\dot{+}} \bar{z})$
+
+$z \bar{y} \bar{x}$
+$z y x$
+$\bar{z} \bar{y} \bar{x} \mathbin{\dot{+}} z \bar{y} \bar{x} \mathbin{\dot{+}} z y x$
+
+[u]$(z \mathbin{\dot{+}} x)(z \mathbin{\dot{+}} \bar{y})$[/u]
+$z \bar{y}$
+$z \bar{y} \bar{x} \mathbin{\dot{+}} z \bar{y} x$
+
+$z \bar{y} \bar{x} \mathbin{\dot{+}} z y x$
+
+$z \bar{y} \bar{x} \mathbin{\dot{+}} z y x$
+
+$z \bar{y} \bar{x} \mathbin{\dot{+}} z y x$
+
+$z \bar{y} \bar{x}$
+
+[fig]Venn diagram with three circles and shaded regions[/fig]
+
+$(z \mathbin{\dot{+}} y \bar{x})(z \mathbin{\dot{+}} \bar{y} x)(y \mathbin{\dot{+}} \bar{z})$
+$z \bar{y} \bar{x}$
+$z y x$
+$z \bar{y} \bar{x} \mathbin{\dot{+}} z y x \mathbin{\dot{+}} z y \bar{x}$

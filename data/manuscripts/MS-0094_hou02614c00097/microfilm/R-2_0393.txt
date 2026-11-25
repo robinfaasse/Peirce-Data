@@ -1,0 +1,34 @@
+[pn]329[/pn]
+
+Now these two are equal. Summing the two
+sides
+
+$$\left\{ \begin{aligned}
+&\text{Number of reversals} \times \text{O} \\
+&+ \text{Number reentrant angles} \times \text{O} \\
+&- \text{Sum reentrant angles}
+\end{aligned} \right. \quad \left\{ \begin{aligned}
+&\text{Number interior angles} \times \text{O} \\
+&- \text{Sum interior angles}
+\end{aligned} \right.$$
+
+That is the [del]sum of[/del] [ins]excess of[/ins] the sum of interior angles over
+the sum of reentrant angles is as many times
+a circuit as the number of interior angles exceeds
+the [del]numbers[/del] [ins]total of the[/ins] [ins]numbers[/ins] of reentrant angles and reversals.
+
+<u>Corollary</u> Since the number of sides equals the
+number of angles, this may be expressed as follows,
+(calling two reversals a revolution)
+The sum of the interior angles increased by two
+circuits for every revolution and for every reentrant
+angle equals the sum of the reentrant angles
+increased by a circuit for every side.
+
+<u>Exercises.</u> Give the sums of the angles of the polygons figured
+
+[fig]A sequence of regular polygons: triangle, quadrilateral, pentagon, hexagon, heptagon, octagon, with labels 2O, 3O, 4O, 5O, 6O, 7O[/fig]
+
+[fig]A series of self-intersecting and non-convex polygons with labels and equations[/fig]
+$$\begin{array}{cccccc}
+2\text{O} & & 2\text{O} & \Sigma \text{I} - \text{R} = 0 & \begin{aligned} \Sigma \text{I} &= 4\frac{1}{2} \text{O} \\ \Sigma \text{R} &= \frac{1}{2} \text{O} \end{aligned} & \begin{aligned} \Sigma \text{I} &= 3\text{O} \\ \Sigma \text{R} &= \text{O} \end{aligned} \end{array}$$

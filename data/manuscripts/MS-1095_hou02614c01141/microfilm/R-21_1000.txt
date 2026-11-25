@@ -1,0 +1,25 @@
+[fig]Grid diagram with dots and lines[/fig] [fig]Grid diagram with dots and lines[/fig]
+
+[fig]Grid diagram with dots and lines[/fig]
+
+$$A''_{j-2, j} = \varepsilon_j \frac{l_{j-2}}{l_{j-1}}$$
+
+$$A''_{j, j-2} = \varepsilon_j \frac{l_{j-2}}{l_{j-1}}$$
+
+[fig]Wavy lines[/fig]
+
+$$\overline{\underline{30}}\{^{90}$$
+
+$$m_j h_j l_{j-1} + m_{j+1} l_j l_{j+1} (1 - \frac{h_{j+1}}{l_{j+1}})$$
+
+$$- m_j l_{j-1} \frac{h_j^2 + \gamma_j^2}{l_j}$$
+
+$$A'_{k, j} = A_{k, j} - \frac{l_j}{l_{j+1}} A_{k, j+1}$$
+
+$$A'_{j-1, j} = A_{j-1, j} - \frac{l_j}{l_{j+1}} A_{j-1, j+1}$$
+
+$$= (m_j h_j + \sum_{j+1}^p m_n l_j) l_{j-1}$$
+
+$$- \frac{l_j}{l_{j+1}} (m_{j+1} h_{j+1} + \sum_{j+2}^p m_n [del]?[/del] [ins]l_{j+1}[/ins]) l_{j-1}$$
+
+$$m_j h_j + m_{j+1} [del]l_j[/del] [ins]l_j[/ins] (1 - \frac{h_{j+1}}{l_{j+1}}) [del]...[/del]$$

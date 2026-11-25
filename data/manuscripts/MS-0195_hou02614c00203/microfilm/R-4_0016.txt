@@ -1,0 +1,36 @@
+[pn]NLG 1680.402[/pn]
+
+[fig]Horizontal line with a cross mark[/fig]
+
+[del]$\frac{1}{2} m v^2 = - \frac{1}{2} N K \frac{1}{r}$[/del] $-\frac{k}{r} + \frac{1}{2} m v^2 = \mathcal{C}$
+
+[del]$T$[/del] [u]$N \frac{1}{2} m v^2$[/u] = $\frac{1}{2} \sum m v^2 = \frac{1}{2} \sum \sum K \frac{1}{r}$
+
+[del]$\frac{1}{2} \sum m v^2 = \frac{1}{2} \sum \sum K \frac{1}{r} = \mathcal{C}$[/del]
+
+[fig]Small ellipse[/fig]
+$R = D_r \frac{k}{r}$
+$= - [del]\frac{k}{r^2}[/del] \frac{k}{r^2}$
+
+$R = D_r N K \frac{1}{r^2}$
+$= - 2 N K \frac{1}{r^2}$
+
+$\frac{1}{2} \sum m v^2 = \sum \sum K \frac{1}{r} - \mathcal{C}$
+
+[del]$\frac{1}{2} m v^2 = $[/del]
+
+$R = D_r N K \log r$
+$= N K \frac{1}{r}$
+
+$\frac{1}{2} \sum m v^2 = \frac{1}{2} \sum \sum q \frac{k}{r^2}$
+$\frac{1}{2} \sum m v^2 = [del]\frac{1}{2}[/del] \sum \sum \frac{k}{r^2} - \mathcal{C}$
+
+$R = D_r N K r^{-q}$
+$= - q N K r^{-q-1}$
+
+$\frac{1}{2} q$
+$q = 2$
+
+$R r = - q N K r^{-q}$
+
+[fig]Ellipse with a tail[/fig]

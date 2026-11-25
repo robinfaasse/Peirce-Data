@@ -1,0 +1,19 @@
+Then 2n th number of the m th [147]
+progression, whatever whole number
+n and m maybe is equal to
+the sum of the [del]n [ins]n[/ins][/del] [ins]n th[/ins] and (m+1) [del]n [ins]n[/ins][/del] [ins]n th[/ins]
+number of the (m+1) [del]th[/del] [ins]st[/ins] progres-
+sion, except for m=0 where
+[del]every[/del] [del]all the[/del] number equals 1,
+[del]since[/del] and every progression
+has in all m+1 numbers
+It follows that if we denote the [del]n[/del] n th
+number of the mth [del]offensi[/del] progres-
+sion by [del]n[/del] [ins]n[/ins]m [del]1m=m 3m=m-1[/del]
+1m = 1, 2m = m, 3m = m-1
+and [del]1[/del] [ins]1[/ins]2 = 2, [ins]2[/ins]3 = 5, [ins]3[/ins]4 = 9, [ins]4[/ins]m = (2^m-1+1)m
+[fig]diagram showing sequences of numbers connected by lines, forming a zigzag pattern with mathematical expressions including 8_4=24, 16_5=25, (2^m-1+1), and (2^m-2+1)_m[/fig]
+1m = 1, 2m = m, 3m = m-1
+2 = 2_2 = 3_3 = 5_4 = 9_5 = 17_6 = (2^m-2+1)_m
+Better subtract one from
+all the n s.

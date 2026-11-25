@@ -1,0 +1,24 @@
+[pn]100[/pn]
+
+[u]Simple Pendulum[/u]
+on a yielding support
+
+$$\frac{x^2 + y^2}{2(x dx + y dy)}$$
+$$\frac{x^2 + \sin^2 \varphi [del]x[/del]}{2x(1 + \sin^2 \varphi) dx}$$
+
+$$-\frac{g}{l} \sin \varphi = D_t (D_t \varphi)$$
+
+$$\frac{H}{l} g (\cos \varphi - \cos A) dt = \delta \varphi$$
+
+$$x = l \sin \varphi \quad y = l \cos \varphi$$
+$$\delta x = \lambda \cos \varphi \delta \varphi \quad y = -\lambda \sin \varphi \delta \varphi$$
+
+[fig]Diagram of a pendulum arc with forces[/fig]
+
+$$g \cos \varphi (\cos \varphi - \cos A) = dx$$
+$$-g \sin \varphi (\cos \varphi - \cos A) = dy$$
+
+---
+
+$$D_t x = D_\varphi x D_t \varphi$$
+$$D_t^2 x = D_\varphi^2 x D_t \varphi + (D_t \varphi)^2 D_\varphi x$$

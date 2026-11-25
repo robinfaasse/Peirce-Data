@@ -1,0 +1,12 @@
+[u]Commutation of antecedents[/u]
+and of doubled consequents
+$(a \prec b) \prec b = (b \prec a) \prec a$
+
+$\{ [ (a \prec b) \prec b ] \prec c \} \prec c$
+$\qquad \{ c \prec [ (a \prec b) \prec b ] \} \prec (a \prec b) \prec b$
+
+$[ (a \prec b) \prec b ] \prec (a \prec b) \prec b$
+$\{ [ (a \prec b) \prec b ] \prec c \} \prec c = \{ [ (c \prec a) \prec a ] \prec b \} \prec b$
+
+Ineffectual repetitions $\qquad \bar{a} + b = \bar{a} \bar{b} + b$
+$[ (a \prec b) \prec b ] \prec b = a \prec b$

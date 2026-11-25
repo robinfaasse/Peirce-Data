@@ -1,0 +1,35 @@
+[pn]495[/pn]
+
+Of the 9 trines that are propinque to the given trine, any one, say [u]ade[/u], is
+
+is identical with 1 trine, [u]ade[/u],
+is fratern to 4 of the 9, [u]adf[/u], [u]aef[/u], [u]bde[/u], [u]cde[/u],
+is propinque to 4 of the 9, [u]bdf[/u], [u]bef[/u], [u]cdf[/u], [u]cef[/u].
+is disparate to 0 of the 9.
+
+Of the [del]four[/del] 4 trines that are fratern to the one of either 9, [del]some[/del] [ins]any[/ins] one, say [ins]$\begin{cases} \text{abe} \\ \text{adf} \end{cases}$[/ins]
+is identical to 1 trine [del]of the[/del] [ins]of the[/ins] 4, $\begin{cases} \text{abe} \\ \text{adf} \end{cases}$
+is fratern to 1 trine of the 4, $\begin{cases} \text{abf} \\ \text{aef} \end{cases}$
+is propinque to 2 trines of the 4, $\begin{cases} \text{acd}, \text{bcd} \\ \text{bde}, \text{cde} \end{cases}$
+is disparate to 0 of the 4.
+
+But these 4 are of two kinds, in both cases, in that 2 $\begin{cases} \text{acd}, \text{bcd} \\ \text{adf}, \text{aef} \end{cases}$ are propinque to 2 by the same monad, while the other 2 $\begin{cases} \text{abe}, \text{abf} \\ \text{bde}, \text{cde} \end{cases}$ are propinque to 2 by different monads.
+
+Of the 4 trines that are propinque to one of either 9, [ins]any[/ins] one, say $\begin{cases} \text{ace} \\ \text{bdf} \end{cases}$,
+is identical to 1 trine of the 4, $\begin{cases} \text{ace} \\ \text{bdf} \end{cases}$
+is fratern to 2 trines of the 4, $\begin{cases} \text{acf}, \text{bce} \\ \text{bef}, \text{cdf} \end{cases}$
+is propinque to 1 trine of the 4, $\begin{cases} \text{bcf} \\ \text{cef} \end{cases}$
+is disparate to 0 of the 4.
+
+It follows that there are [del]60[/del] [ins]30?[/ins] Quaterns of $\begin{Bmatrix} \text{fratern} \\ \text{propinque} \end{Bmatrix}$ trines, being $\begin{Bmatrix} \text{partial trissynthemes} \\ \text{total dissynthemes} \end{Bmatrix}$ of which I give examples:
+
+[u]abc[/u] $\cdot$ [u]abd[/u] $\cdot$ [u]acd[/u] $\cdot$ [u]bcd[/u]
+[u]abc[/u] $\cdot$ [u]abe[/u] $\cdot$ [u]ace[/u] $\cdot$ [u]bce[/u]
+[u]abc[/u] $\cdot$ [u]abf[/u] $\cdot$ [u]acf[/u] $\cdot$ [u]bcf[/u]
+[u]abc[/u] $\cdot$ [u]acd[/u] $\cdot$ [u]abd[/u] $\cdot$ [u]bcd[/u]
+
+abc $\cdot$ ade $\cdot$ bdf $\cdot$ cef
+abc $\cdot$ ade $\cdot$ bef $\cdot$ cdf
+abc $\cdot$ ade $\cdot$ cef $\cdot$ bdf
+
+46 [ins]$\checkmark$[/ins] I define a [u]syntheme[/u] as a strage of the second degree, that is, as a strage of strages of monads. It would not be a strage unless all the strages which are its ineunts were similarly related to one another and therefore alike. Consequently, the monads that are ineunts of the ineunt strages must all enter.

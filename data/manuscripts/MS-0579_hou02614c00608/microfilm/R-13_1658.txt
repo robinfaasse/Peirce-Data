@@ -1,0 +1,60 @@
+Necessary formulae of five copulas
+
+I. $\bar{U} + \bar{V} + \bar{W} + \bar{X} + \bar{Y} + Z$
+
+II. $\bar{U} + \bar{V} + \bar{W} + X\bar{Y} + Z$
+
+III. $\bar{U} + \bar{V} + W\bar{X} + \bar{Y} + Z$
+$U \prec \{ V \prec [ (W \prec (V \prec W)) \prec W ] \}$ Simple
+
+IV. $\bar{U} + \bar{V} + W\bar{X}\bar{Y} + Z$
+
+V. $\bar{U} + \bar{V} + (\bar{W} + X)\bar{Y} + Z$
+
+VI. $\bar{U} + V\bar{W} + \bar{X} + \bar{Y} + Z$
+
+VII. $\bar{U} + V\bar{W} + X\bar{Y} + Z$
+$U \prec \{ [ U \prec (V \prec W) ] \prec (V \prec W) \}$ Simple
+$U \prec \{ [ V \prec (U \prec W) ] \prec (V \prec W) \}$
+
+VIII. $\bar{U} + V\bar{W}\bar{X} + \bar{Y} + Z$
+
+IX. $\bar{U} + (\bar{V} + W)\bar{X} + \bar{Y} + Z$
+
+X. $\bar{U} + VW\bar{X}\bar{Y} + Z$
+$U \prec \{ [ U \prec ((V \prec V) \prec W) ] \prec W$
+
+XI. $\bar{U} + V(W + \bar{X})\bar{Y} + Z$
+$U \prec \{ [ (V \prec V) \prec (U \prec W) ] \prec W \}$ Simple
+
+XII. $\bar{U} + (V + \bar{W})X\bar{Y} + Z$
+
+XIII. $\bar{U} + (\bar{V} + \bar{W} + X)\bar{Y} + Z$
+$U \prec \{ [ ((U \prec V) \prec V) \prec W ] \prec W \}$ Simple
+
+XIV. $\bar{U} + (V\bar{W} + X)\bar{Y} + Z$
+
+XV. $U\bar{V} + \bar{W} + \bar{X} + \bar{Y} + Z$
+$(U \prec V) \prec \{ U \prec [ (V \prec W) \prec W ] \}$ Simple
+$(U \prec V) \prec \{ W \prec [ (W \prec U) \prec V ] \}$ Simple
+
+XVI. $U\bar{V} + \bar{W} + X\bar{Y} + Z$
+$(U \prec V) \prec [ (V \prec W) \prec (U \prec W) ]$
+$(U \prec V) \prec [ (W \prec U) \prec (W \prec V) ]$
+
+XVII. $U\bar{V} + W\bar{X} + \bar{Y} + Z$
+$(U \prec V) \prec \{ [ (U \prec W) \prec V ] \prec V \}$ Remarkable
+$(U \prec V) \prec \{ [ (W \prec W) \prec U ] \prec V \}$
+$(U \prec V) \prec \{ [ (U \prec V) \prec W ] \prec W \}$
+
+XVIII. $U\bar{V} + W\bar{X}\bar{Y} + Z$
+
+XIX. $U\bar{V} + (\bar{W} + X)\bar{Y} + Z$
+$[ U \prec (V \prec W) ] \prec [ U \prec (V \prec W) ]$
+$[ U \prec (V \prec W) ] \prec [ V \prec (U \prec W) ]$
+
+XX. $UV\bar{W} + \bar{X} + \bar{Y} + Z$
+
+XXI. $UV\bar{W} + X\bar{Y} + Z$
+
+XXII. $(\bar{U} + V)\bar{W} + \bar{X} + \bar{Y} + Z$

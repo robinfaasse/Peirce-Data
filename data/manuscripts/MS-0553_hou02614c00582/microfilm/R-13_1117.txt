@@ -1,0 +1,28 @@
+§12. The above method is suited to the most difficult cases. But for a large proportion of those which occur the following [del]may[/del] [ins]will[/ins] suffice, and will be simpler.
+
+Namely we write
+$$\begin{array}{rcl}
+a & \text{for} & \Pi_i\ a_{ii} \\
+ae & \text{for} & \Pi_i\ \Sigma_j\ a_{ij} \cdot e_{ji} \\
+\breve{a}e & \text{for} & \Pi_i\ \Sigma_j\ a_{ji} \cdot e_{ji} \\
+a \dagger e & \text{for} & \Pi_i\ \Pi_j\ a_{ij} \dagger e_{ji}
+\end{array}$$
+
+To express
+$$\Pi_i\ \Pi_j\ l_{ij}$$
+we put it in the form
+$$\Pi_i\ \Pi_j\ l_{ij} \dagger 0_{ji}$$
+and write
+$$l \dagger 0.$$
+
+To express [del]$\Pi_k\ \Sigma_i\ \Pi_j\ l_{ij}$[/del], we put it in the form
+$$\Pi_k\ \Sigma_i\ \Pi_j\ \infty_{kj} \cdot (l_{ij} \dagger 0_{jk})$$
+and write
+$$\infty (l \dagger 0).$$
+
+To express $\Pi_j\ \Sigma_i\ l_{ij}$, we put it in the form
+$$0_{kj} \dagger l_{ij} \cdot \infty_{ki}$$
+and write
+$$0 \dagger \breve{l} \infty.$$
+or
+$$\infty \breve{l} \dagger 0$$

@@ -1,0 +1,25 @@
+$$\delta \frac{k x_{N}}{Q} - c \delta \frac{k x_{P}}{Q} + c \delta \frac{k x_{Q}}{Q}$$
+
+$$\frac{k}{Q} \delta [x_{N} - c(x_{P} - x_{Q})] + [x_{N} - c(x_{P} - x_{Q})] \delta \frac{k}{Q}$$
+
+$$\delta \frac{k x_{Q}}{Q} = \cos \tau_{Q} \cdot \delta \frac{k s'_{Q}}{Q} - \cos \tau_{0} \delta \frac{k s'_{0}}{Q}$$
+
+$$\delta \frac{k x_{P}}{Q} = \cos \tau_{P} \delta \frac{k s'_{P}}{Q} - \cos \tau_{0} \delta \frac{k s'_{0}}{Q}$$
+
+$$\delta \frac{k(x_{P}-x_{Q})}{Q} = \cos \tau_{P} \delta \frac{k s'_{P}}{Q} - \cos \tau_{Q} \delta \frac{k s'_{Q}}{Q}$$
+
+$$\delta \frac{k(y_{P}-y_{Q})}{Q} = \sin \tau_{P} \delta \frac{k s'_{P}}{Q} - \sin \tau_{Q} \delta \frac{k s'_{Q}}{Q}$$
+
+$$\delta \frac{k}{Q} [x_{N} - c(x_{P}-y_{Q})] = \cos \tau_{N} \delta \{ \frac{k}{Q} [s'_{N} - s'_{0}] \} - \cos \tau_{0} \delta \{ \frac{k}{Q} [-s'_{N} - s'_{0}] \}$$
+$$- c \cos \tau_{P} \delta \{ \frac{k}{Q} [s'_{P} - s'_{0}] \} + c \cos \tau_{Q} \delta \{ \frac{k}{Q} [s'_{Q} - s'_{0}] \}$$
+
+$$= \frac{k}{Q} \delta [x_{N} - c(x_{P}-x_{Q})]$$
+$$= (\cos \tau_{N} \cdot s'_{N} + \cos \tau_{0} \cdot s'_{N} - c \cos \tau_{P} \cdot s'_{Q} + c \cos \tau_{P} \cdot s'_{P}) \delta \frac{k}{Q}$$
+$$+ \{ - \cos \tau_{N} + \cos \tau_{0} + c \cos \tau_{Q} - c \cos \tau_{P} \} \delta \frac{k}{Q} s'_{0}$$
+
+$$S \delta x - C \delta y = S c' \delta \frac{k}{Q} - C s' \delta \frac{k}{Q}$$
+
+$$[s'_{N} = s'_{Q} - s'_{N}$$
+$$s'_{P} = s'_{P} - s'_{N}$$
+
+$$- S \delta [y_{N} - c(y_{P}-y_{Q})] + C \delta [y_{N} - c(y_{P}-y_{Q})] = (S c' + C s' + S [y_{N} + c(y_{P}-y_{Q})] + C [y_{N} + c(y_{P}-y_{Q})]) \delta \omega_{Q} \frac{k}{Q}$$

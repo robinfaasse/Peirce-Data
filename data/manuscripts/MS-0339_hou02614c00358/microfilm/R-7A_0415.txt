@@ -1,0 +1,49 @@
+[date]DEC 16 1901[/date]
+
+<u>Start again</u>
+
+(A) Either [del]m[/del] [ins]p[/ins] < m or m < n
+(B) If p < q, then p < q
+(C) If s and s < t, then t
+
+***
+
+<u>From A alone nothing follows</u>
+
+<u>From B alone.</u>
+
+[del]If p then p < p < p[/del]
+(1) If p < q then r < p < q etc.
+[ins]or if p < q then p < p < q[/ins]
+
+<u>From C alone.</u>
+
+(2) If s and s < t and t < u then u etc.
+(3) If s [ins]and t[/ins] and s < t < u then u etc.
+[marginalia]Merely [del]and[/del] [ins]a[/ins] subpar (3).[/marginalia] (4) If (s < t) and (t < u) and (s < t) < (t < u) then u
+[del](4')[/del] [del]If (s < t) and (t <[/del]
+(5) If s and (s < t) and (s < [del]t[/del] [ins]u[/ins]) then u etc.
+If s₁ and s₁ < s₂ and s₁ < s₂ < s₃ [del]then s₃[/del] then s₃
+
+***
+
+[del]From A and B alone[/del]
+
+(6) [del]If[/del] Either p < m or m < n
+(7) [del]If[/del] m < m
+(8) Either m or p < m < n
+Either m or p₁ < p₂ < m < n₁ < n₂ etc.
+
+***
+
+<u>From A and C alone.</u>
+
+(9) If m < t either m < n or t
+(10) If s then either (s < t) < [del]t[/del] [ins]t[/ins]
+If (m < n) < t
+[del](11) If m < n then[/del]
+[del](12) If (m < n) < n then m[/del]
+
+[marginalia]
+[fig]Mathematical scratch work and logical formulas[/fig]
+[/marginalia]

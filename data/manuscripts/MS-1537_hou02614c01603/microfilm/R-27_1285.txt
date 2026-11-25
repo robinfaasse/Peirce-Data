@@ -1,0 +1,65 @@
+[marginalia]
+[del]q Bonaparte wishes to quarrel with this country[/del]
+e Bonaparte wishes Egypt
+w there will be a War
+c We cede Malta
+i Bon. invades Egypt
+p preferable to ceding Malta
+
+[del]q[/del] [u]x[/u] [del]e[/del] [u]x[/u] [del]c[/del] [u]x[/u] [del]w[/del]
+[u]e[/u] [u]x[/u] [del]w[/del]
+
+e [u]x[/u] c [u]x[/u] i
+w [u]x[/u] [del]c[/del] [u]x[/u] p
+[del]w [u]x[/u] p[/del]
+[del]([del]c[/del] [u]x[/u] w) [u]x[/u] [del]e[/del] [u]x[/u] p[/del]
+[del]c[/del] w [del]+[/del] [u]x[/u] [del]x[/del]
+
+[fig]Karnaugh map-like grid[/fig]
+
+[del]w[/del] + c + p
+w c + p
+[/marginalia]
+
+[u](a + b + c) (a + b[/u]
+
+[u](a + b) (b + c)[/u]
+[u](a + d) (d + c)[/u]
+
+a. Win the battle
+b. [del]Run away[/del] [ins]Lose your life[/ins]
+c. Be taken prisoner
+d. Lose your leg
+
+s Don't sacrifice to more than one
+[del]s Sacrifice to Jupiter[/del] [ins]or Neptune[/ins]
+[del]y[/del] [ins]s[/ins] " " [del]Juno[/del] [ins]or Neptune[/ins]
+w " " [del]Pluto[/del] [ins]or Neptune[/ins]
+
+[fig]3D cube diagram with labeled vertices[/fig] [fig]Circular diagram with intersecting lines[/fig]
+
+s Sacrifice to [del]Jupiter[/del] [ins]Juno[/ins] & [del]Juno[/del] [ins]Jupiter[/ins]
+v Sacrifice to Jupiter [del]as[/del] [ins]but[/ins] not to Juno
+w Sacrifice to Juno but not to Jupiter
+y Sacrifice neither to Jupiter nor to Juno.
+
+A general about to engage in battle consulted eight soothsayers
+
+The first said
+If you sacrifice to both Jupiter & Juno you will either win the battle or run away
+
+The 2nd said. If you sacrifice to Jupiter [ins]only[/ins] [del]but not to Juno[/del] [del]you will either win the battle[/del] [ins]and don't run away you will[/ins] [del]or run away[/del]
+
+The 3rd said If you sacrifice to Jupiter but not to Juno [del]then[/del] if you run away you will be taken prisoner
+
+The fourth said
+If you sacrifice to Juno only and are not taken prisoner, you won't run away.
+
+The fifth said
+If you sacrifice to Juno without sacrificing to Jupiter and lose your leg you will gain the battle
+
+The sixth said If you sacrifice neither to Jupiter nor to Juno and lose the battle you won't be wounded
+
+The seventh said If you sacrifice neither to [del]Juno nor[/del] Jupiter and are [del]taken prisoner[/del] [ins]not[/ins] [del]you will lose your leg[/del]
+
+The eighth said If you sacrifice to both & don't lose your leg nor [gap]

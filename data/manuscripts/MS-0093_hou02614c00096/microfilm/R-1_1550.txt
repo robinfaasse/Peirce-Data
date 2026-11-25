@@ -1,0 +1,74 @@
+[pn]28[/pn]
+
+We can summate if $u_{x} = ax+b$
+
+$\sum \frac{1}{u_{x} u_{x+1} \dots u_{x+m}} = - \frac{1}{am \cdot u_{x} u_{x+1} \dots u_{x+m-1}}$
+
+for $\Delta \frac{1}{am \cdot u_{x} u_{x+1} \dots u_{x+m-1}} = \frac{1}{am} \left( \frac{1}{u_{x+1} \dots u_{x+m}} - \frac{1}{u_{x} \dots u_{x+m-1}} \right)$
+$= \frac{1}{am} \frac{u_{x} - u_{x+m}}{u_{x} \dots u_{x+m}}$
+$= \frac{1}{am} \frac{(ax+b) - (ax+am+b)}{u_{x} \dots u_{x+m}}$
+$= - \frac{1}{u_{x} \dots u_{x+m}}$
+
+But there is no finite expression for
+$\sum \frac{1}{ax+b} = \frac{1}{ax+b-a} + \frac{1}{ax+b-2a} + \frac{1}{ax+b-3a} \dots + \frac{1}{b}$
+
+This must be interesting
+
+$\frac{1}{2}$
+$\frac{1}{3} + \frac{1}{2} = \frac{5}{6}$
+$\frac{1}{4} + \frac{1}{3} + \frac{1}{2} = \frac{1}{4} + \frac{5}{6} = \frac{13}{12} = \frac{26}{24}$
+$\frac{1}{5} \dots \dots \frac{1}{2} = \frac{1}{5} + \frac{13}{12} = \frac{77}{60} = \frac{154}{120}$
+$\frac{1}{6} \dots \dots \frac{1}{2} = \frac{1}{6} + \frac{77}{60} = \frac{87}{60} = \frac{924}{720}$
+$\frac{1}{7} \dots \dots \frac{1}{2} = \frac{1}{7} + \frac{87}{60} = \frac{669}{420} = \frac{223}{140} = \frac{8028}{5040}$
+
+[marginalia]
+72
+7
+5040
+
+36
+14
+108
+72
+8028
+
+57
+609
+[/marginalia]
+
+<u>Summation by parts</u>
+$\Delta u_{x} v_{x} = u_{x} \Delta v_{x} + v_{x+1} \Delta u_{x}$
+$u_{x} \Delta v_{x} = \Delta u_{x} v_{x} - v_{x+1} \Delta u_{x}$
+$\sum (u_{x} \Delta v_{x}) = u_{x} v_{x} - \sum (v_{x+1} \Delta u_{x})$
+$\Delta \frac{u_{x}}{v_{x}} = \frac{v_{x} \Delta u_{x} - u_{x} \Delta v_{x}}{v_{x} v_{x+1}}$
+$\frac{\Delta u_{x}}{v_{x+1}} = \Delta \frac{u_{x}}{v_{x}} + \frac{u_{x}}{v_{x} v_{x+1}} \Delta v_{x}$
+$\sum \frac{\Delta u_{x}}{v_{x}} = \frac{u_{x}}{v_{x-1}} + \sum (u_{x} \frac{\Delta v_{x-1}}{v_{x} v_{x-1}})$
+
+[pn]29[/pn]
+
+$\Delta x! = (x+1) x! - x! = x \cdot x!$
+[del]$\Delta$[/del] $\Delta u_{x}^{(m)} = (u_{x+1} - u_{x+1-m}) u_{x}^{(m-1)}$
+[del]$\Delta$[/del] $\Delta u_{x} = x \cdot u_{x}$ Has
+$\frac{\Delta u_{x}}{u_{x}} = x$ has for integral $u_{x} = x!$
+
+In general $\sum \frac{\Delta u_{x}}{u_{x}} = \frac{u_{x}}{u_{x-1}} + \sum u_{x} \frac{\Delta u_{x}}{u_{x} u_{x-1}}$
+$= \frac{u_{x}}{u_{x-1}} + \sum \frac{\Delta u_{x}}{u_{x-1}}$
+$\sum \frac{\Delta u_{x}}{u_{x-1}} = \frac{u_{x}}{u_{x-2}} + \sum u_{x} \frac{\Delta u_{x-1}}{u_{x-1} u_{x-2}}$
+
+$\frac{\Delta u_{x}}{u_{x}} = \frac{u_{x+1}}{u_{x}} - 1$
+$\sum \frac{u_{x+1}}{u_{x}} = \frac{u_{x}}{u_{x-1}} + \frac{u_{x-1}}{u_{x-2}} + \dots \frac{u_{2}}{u_{1}}$
+
+$\sum \frac{1}{x} = \frac{1}{x-1} + \frac{1}{x-2} + \frac{1}{x-3} + \dots \sim + \frac{1}{1}$
+$= \frac{(x-2)! + (x-1)(x-3)! + (x-1)^{(2)} (x-4)! \dots}{(x-1)!}$
+
+[marginalia]
+$\int \frac{dy}{y} = \log y$
+[/marginalia]
+
+[del][fig]crossed out scribble[/fig][/del]
+
+[del]$\Delta (\frac{1}{x-1} - \frac{1}{x}) = - \Delta \frac{1}{x-1} = \frac{1}{x}$[/del]
+[del]$\Delta$[/del] $\sum \frac{\Delta x(x-1)}{x(x-1)} = \sum \frac{2}{x-1} = 2 (\sum \frac{1}{x} - \frac{1}{x-1})$
+[del]$2 \times ($[/del]
+$\sum \frac{\Delta (u_{x} v_{x})}{u_{x} v_{x}} = \sum \left( \frac{\Delta v_{x}}{v_{x+1}} + [del]\frac{\Delta u_{x}}{u_{x}}[/del] \frac{\Delta u_{x}}{u_{x}} \right)$
+$\sum \frac{\Delta (u_{x} v_{x-1})}{u_{x} v_{x}} = \sum \left( \frac{\Delta v_{x-1}}{v_{x}} + \frac{\Delta u_{x}}{u_{x}} \right)$

@@ -1,0 +1,46 @@
+[marginalia]
+[del]$\cos\varphi = -\cos\varphi d\varphi$[/del]
+$d\varphi^2 = \varphi d\varphi$
+[/marginalia]
+
+[del]$\cos\theta\cos\varphi\sin\psi\hat{i} - \sin\theta\cos\varphi\cos\psi\hat{j} + \sin\theta\sin\varphi\cos\psi\hat{k}$[/del]
+
+$+ d\psi [del]\sin\theta\sin\varphi[/del] [ins]\frac{\cos\varphi}{\sin\theta}[/ins] \hat{i} + \sin\theta\sin\varphi\cos\psi\hat{j} + \sin\theta\cos\varphi\sin\psi\hat{k}$
+$+ \sin\theta\sin\varphi(\cos\theta\cos\psi - \sin\theta\cos\psi\sin\psi\hat{k})$
+
+$+ d\varphi\sin\theta\{ -\cos\theta\sin\varphi\hat{i} + (\cos\theta\cos\varphi\cos\psi + \sin\theta\sin\psi)\hat{j}$
+$+ (\cos\theta\cos\varphi\sin\psi - \sin\theta\cos\psi)\hat{k} \}$
+
+$= da\cdot\frac{1}{a} + d\theta(\cos\varphi\hat{i} + \sin\varphi\cos\psi\hat{j} + \sin\varphi\sin\psi\hat{k})$
+[del]$+ \cos^2\theta\sin\varphi\cos\psi\hat{j} + \sin^2\theta\sin\varphi\cos\psi\hat{j} - \sin\theta\cos\theta(\cos\varphi\sin\varphi(\sin\psi-\sin\psi)\hat{i}$
+$+ \cos^2\theta\sin\varphi\sin\psi\hat{k} + \sin^2\theta\sin\varphi\sin\psi\hat{k}$
+$+ d\varphi\sin\theta(\cos\theta\sin\varphi\hat{i} - \sin\theta\sin\varphi\hat{j} + \cos\theta\cos\varphi\cos\psi\hat{j} + \sin\theta\sin\varphi\sin\psi\hat{j} + \sin\theta\cos\varphi\sin\psi\hat{k}$[/del]
+
+$\frac{1}{q}dq = \frac{1}{a}da + d\theta\{ -\sin\theta\cos\theta - \sin\theta\cos\theta(-\cos^2\varphi + \sin^2\varphi(-\cos^2\psi-\sin^2\psi)) \}$
+
+[del]$-\sin^2\theta\sin\varphi$[/del]
+
+[del]$\cos\theta - \sin\theta\cos\theta$[/del]
+
+[del]$-\sin^2\theta\sin\varphi\cos\psi$[/del]
+
+$(S+U)(S-U) = S^2$
+
+[del]$-\sin^2\theta\sin\varphi\cos\psi$[/del] $-\sin^2\theta(\sin\varphi\cos\varphi + \sin\varphi\cos\varphi(-\cos^2\psi-\sin^2\psi)$
+
+$+ d\psi [del]\frac{\sin\varphi}{\sin\theta}[/del] [ins]\frac{1}{a\sin\theta}[/ins] (-\sin\psi\hat{j} + \cos\psi\hat{k})$
+
+$d\varphi\cdot a\sin\theta(-\sin\varphi\hat{i} + \cos\varphi(\cos\psi\hat{j} + \sin\psi\hat{k}))$
+
+[del]$+ a(\cos\theta + \sin\theta)$[/del]
+
+$dq = da\cdot\frac{q}{a} + [del]d\theta[/del] [ins]\frac{d\theta}{a}[/ins] a(-\sin\theta + \cos\theta(\cos\varphi\hat{i} + \sin\varphi(\cos\psi\hat{j} + \sin\psi\hat{k})))$
+
+$\frac{1}{q} = \frac{1}{a}(\cos\theta - \sin\theta(\cos\varphi\hat{i} + \sin\varphi(\cos\psi\hat{j} + \sin\psi\hat{k})))$
+
+$q = a(\cos\theta + \sin\theta(\cos\varphi\hat{i} + \sin\varphi(\cos\psi\hat{j} + \sin\psi\hat{k})))$
+
+[marginalia]
+$q = a(\cos\theta + \sin\theta\cdot U)$
+$\frac{1}{q} = \frac{1}{a}(\cos\theta - \sin\theta\cdot U)$
+[/marginalia]

@@ -1,0 +1,109 @@
+To find $\eta$ the value of $y$ at the point of tangency
+we can use several formulae
+
+$\eta = - \frac{1}{2} \frac{2 a X + (1-a^2) Y + (1+a^2) c + 2 a \bar{c}}{1+a^2}$
+
+$= \frac{\sqrt{X^2 + Y^2 + (1-a^2) c Y + 2 a c X + 2 \bar{c} X}}{1+a^2}$
+
+$= - 2 \frac{X^2 + Y^2 + (1-a^2) c Y + 2 a c X + 2 \bar{c} X}{2 a X + (1-a^2) Y + (1+a^2) c + 2 a \bar{c}}$
+
+Probably the last is most accurate.
+
+Taking
+$a = [del]2.21603021[/del] \quad 0.345575[del]7[/del] \approx$
+$a^2 = 4.91079073 \quad 0.6911514 \approx$
+$1+a^2 = 5.91079073 \quad 0.7716456 \approx$
+$1-a^2 = -3.91079073$
+
+$\begin{array}{r} 2 a X \\ (1-a^2) Y \\ (1+a^2) c \end{array} \begin{array}{r} + 4.43206042 \\ + 3.91079073 \\ .59107907 \\ \hline 8.93393022 \end{array}$
+
+$2 a \bar{c} \quad \begin{array}{r} - 3.98825438 \\ \hline [del]4.94567584[/del] \\ [del]2.47283792[/del] \end{array}$
+
+$\eta \text{ (1st formula)} \quad - 0.41835012$
+
+$\begin{array}{r} X^2 \\ Y^2 \\ (1-a^2) c Y \\ 2 a c X \end{array} \begin{array}{r} 1 \\ 1 \\ 0.39107907 \\ 0.44320604 \\ \hline 2.83428511 \end{array}$
+
+$2 \bar{c} X \quad \begin{array}{r} - 1.8 \\ \hline 1.03428511 \end{array}$
+
+$\eta \text{ 2nd formula} \quad - 0.41830088$
+
+$- 0.41826$
+
+[marginalia]
+$196$
+$88 \quad 3.25$
+$37$
+$825$
+$0927$
+$9073$
+$73 \frac{1}{2}$
+$3021$
+$6042$
+$12084$
+$61628 \frac{1}{2}$
+$592116$
+$5698$
+$1395 \frac{1}{2}$
+$88$
+$11$
+$091$
+$909$
+$8$
+$68 \frac{1}{4}$
+[/marginalia]
+
+[marginalia]
+$443206042$
+$44320604$
+$3.98825438$
+[/marginalia]
+
+[marginalia]
+$58$
+$58$
+$638$
+$1276$
+$176$
+$379$
+$67$
+$764699!$
+$3455757 \approx$
+$.1102748$
+[/marginalia]
+
+[marginalia]
+$0.3931956$
+$9.6215509$
+$179$
+$27.96$
+$81.11$
+$276$
+$57$
+$106$
+$53$
+$18$
+$9$
+$.5817$
+$\xi = 2.2890$
+[/marginalia]
+
+[marginalia]
+$0.0146403$
+$9.2429947$
+$9.6214973$
+$420$
+$675$
+$3$
+$143$
+$858$
+$6006$
+$1489$
+$8934$
+$7$
+$62538$
+$22$
+$103 \frac{1}{2}$
+$9.2429947$
+$9.6215500 \frac{1}{2}$
+$.6214446$
+[/marginalia]

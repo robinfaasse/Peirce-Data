@@ -1,0 +1,25 @@
+[pn]4[/pn]
+
+principle of [ins]ex[/ins]cluded middle if not-$S$ is false,
+then $S$ is true.
+
+Returning to the dilemma, we have seen
+how the first and third premises give us,
+
+If $S$ is true, then from the falsity of $M$ would follow
+the truth of $P$.
+
+But, by the mode of inference just established,
+this is the same as,
+
+If $S$ is true, then from the falsity of $P$ would
+follow the truth of $M$.
+
+From this and the second premise we have by
+direct syllogism
+
+If $S$ is true, then from the falsity of $P$ would
+follow the truth of $P$.
+
+But by the principle of contradiction $P$ cannot
+be at once false and true. Since, therefore, if $S$

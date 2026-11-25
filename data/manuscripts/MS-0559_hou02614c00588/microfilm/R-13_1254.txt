@@ -1,0 +1,31 @@
+ordinary algebra, supposing every quantity to be
+subject to a [del]certain[/del] quadratic equation of fixed roots.
+And as I remarked in the paper just referred to, [del]these[/del]
+roots can have any values, so long as they are unequal;
+[ins]but the equation used by Boole was $x^2 = x$.[/ins]
+Another point of view would be to conceive every
+Boolean equation as a congruence having 2 for its
+modulus.
+
+Jevons, first, and, after him, almost every writer on
+the subject (several of them in ignorance that the same thing
+had been proposed) discarded the operation of addition
+and adopted another operation, usually called logical
+addition, but perhaps otherwise termed aggregation. Re-
+presenting this by an inverted dagger, it may be conceived
+as defined by the identity
+[u]x[/u] † [u]y[/u] = [u]x[/u] + [u]y[/u] - [u]x[/u][u]y[/u].
+Or, if we use [del]the congruence[/del] sign of congruence, we may
+write
+[u]x[/u] † [u]y[/u] $\equiv$ [u]x[/u] + [u]y[/u] + [u]x[/u][u]y[/u] (mod. 2.)
+
+[marginalia]
+$\cdot$ $x$ $x$ $y$ $x$ $z$
+[u]a[/u] [u]b[/u] [u]c[/u] [u]d[/u] [u]b[/u] [u]d[/u]
+[u]a[/u] [u]b[/u] [u]c[/u] [u]d[/u] [u]b[/u]
+[/marginalia]
+
+$\frac{p}{1-p}$
+
+$\frac{pq}{pq + (1-p)(1-q)}$
+$\frac{pq}{1-p-q+2pq}$

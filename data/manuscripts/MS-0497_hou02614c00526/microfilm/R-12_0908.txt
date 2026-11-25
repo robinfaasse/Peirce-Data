@@ -1,0 +1,50 @@
+[marginalia]
+[del]true[/del]
+is valid
+has a true premise
+[/marginalia]
+
+[fig]Two nested ovals connected by a bracket[/fig]
+is valid
+has a true premise
+
+[fig]Two nested rounded rectangles[/fig]
+is valid
+has a true premise
+
+[fig]Two nested ovals[/fig]
+is valid
+has a true premise
+
+[u]a[/u]
+[u]b[/u]
+
+---
+
+Suppose if A is
+true B is true
+
+[fig]Two nested ovals connected by a bracket[/fig]
+is wise
+is honest
+
+[fig]Two nested rounded rectangles[/fig]
+is wise
+is honest
+
+[fig]Two nested ovals[/fig]
+is wise
+is honest
+
+proves to
+A [fig]Oval containing B inside[/fig] [del]A[/del] [fig]Oval containing B inside[/fig]
+
+[del][fig]Oval containing B inside, with an A outside[/fig][/del]
+
+[del]A[/del] [fig]Oval containing B inside[/fig]
+
+[fig]Oval containing A, with a smaller B inside[/fig]
+
+[fig]Oval containing A, with a smaller B inside[/fig]
+
+[fig]Oval containing A, with a smaller B inside[/fig]

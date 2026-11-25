@@ -1,0 +1,10 @@
+[pn]A
+13[/pn] The following is the description of the counting series of numerals.
+
+[u]1st[/u], Of two different numerals of the series there is some possible count in which one is used while the other is unused.
+
+[u]2nd[/u], Any numeral which is used in any count in which [ins]a given[/ins] other is unused is used in every possible count in which that other is used.
+
+[u]3rd[/u], Given any numeral, there is another which is used in every count in which any numeral is used besides [del]this[/del] [ins]that[/ins] which are always used when the first is used.
+
+[u]4th[/u], There is a numeral which is used in every count, namely the one which corresponds to "none". Or if this be excluded there is a numeral which is used whenever any numeral of the series is used.

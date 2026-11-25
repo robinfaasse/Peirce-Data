@@ -1,0 +1,9 @@
+[pn]22[/pn]
+
+[u]Corollary[/u]. $(L+M)\times N = (L\times N) + (M\times N)$ whatever cardinal numbers $L$, $M$, and $N$ may be. For $(L+M)\times 0 = 0$, $L\times [del]0[/del][ins]0[/ins] = 0$, $M\times 0 = 0$, and $0 = 0+0$. And $(L+M)\times GN = (L+M) + [(L+M)\times N]$. But $(L+M) + [(L\times N) + (M\times N)] = [L + (L\times N)] + [M + (M\times N)] = (L\times GN) + (M\times GN)$. Hence if $(L+M)\times N = (L\times N) + (M\times N)$ then $(L+M)\times GN = (L\times GN) + (M\times GN)$. Hence, by the Formation Principle, the formula holds for all [ins]cardinal[/ins] numbers.
+
+[u]Corollary[/u]. $L\times (M\times N) = (L\times M)\times N$. For $L\times (M\times 0) = L\times 0 = 0 = 0\times N = (L\times 0)\times N$. But $L\times (M\times GN) = L\times [N + (M\times N)] = (L\times N) + [L\times (M\times N)]$ Now $(L\times N) + [(L\times M)\times N] = [L + (L\times M)]\times N = (L\times GM)\times N$. Hence, if $L\times (M\times N) = (L\times M)\times N$ then $L\times (GM\times N) = (L\times GM)\times N$. Hence, by the Formation Principle, the formula holds for all cardinal numbers.
+
+[u]Theorem[/u]. [u]Of the products of different cardinal numbers multiplied into the same number that which has the greatest multiplier is greatest, unless the constant number be zero.[/u]
+
+[u]Proof[/u]. For suppose $M$ to be a cardinal number having this character, that the product [del]of[/del] [ins]$M\times N$[/ins] [del]it[/del] multiplied [del]by[/del] into any cardinal number, $N$, whatever, is less than the product, $I\times N$, of [del]any[/del] cardinal number, $I$, greater than $M$, multiplied into $N$. Then the same character belongs to $GM$, the [ins]cardinal[/ins] number that is $G$ to $M$. For, by the first corollary [del]of[/del] [ins]from[/ins] Theorem III, the [ins]cardinal[/ins] numbers greater than $GM$ [ins]the number $G$ to $M$,[/ins] are the numbers greater than $M$ except $GM$ itself.

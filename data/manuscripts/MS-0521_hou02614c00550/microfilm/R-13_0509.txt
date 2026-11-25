@@ -1,0 +1,15 @@
+[pn]19[/pn]
+
+[del]although[/del] he cuts a new type for it, and calls it a new sign.
+
+Identity has throughout algebra, [del]or[/del] functional algebra, always been represented by $1$. Mr. Peirce [del]abandon[/del] [ins]followed[/ins] that practice, though of late modifying the form by using a plain, heavy, vertical line. For [del]negation[/del] [ins]not, or otherness[/ins], he now uses a $\top$, being [del]the[/del] [ins]a[/ins] compound of the sign for identity with the sign for negation. Schröder uses $1_1$ for identity, and $0_1$ for [del]negation[/del] [ins]otherness[/ins]. This is inconsistent; for identity is not related to coexistence (which is his $1$), in the same way in which otherness is related to incompatibility (which is his $0$).
+
+In all these cases, there should be a return to the historically justifiable signs.
+
+In consequence of various developments in his completely written, but unpublished, logic, Mr. Peirce is now understood to make the following recommendations [del]for[/del] in regard to notation. In general, for the sign of inclusion $\prec$, [del]as not used by[/del] [ins]as above.[/ins] But concurrently with that sign, [del]for certain purpos[/del] in certain cases, he would use for the same purpose a modified [del]F[/del] [ins]or follows.[/ins] Namely, he would also write, for $A \prec B$,
+$$\overline{A \ \ \ B}.$$
+[del]And so for $(A \prec B) \prec C$, he would write[/del] $\overline{\overline{A \ \ \ B} \ \ \ C}$.
+For the negative of this relation, [del]or[/del] that of partial exclusion, he would in the same connection use a modified $\mathcal{C}$, for leaves contingent, that is, not necessary. Namely for $A \overline{\prec} B$, he would write
+$$A \ \ \ B$$
+and for $A \overline{\prec} (B \overline{\prec} C)$ he would write $A \ \ \ \overline{B \ \ \ C}$. This makes it necessary to distinguish between
+$(\overline{A \ \ \ B}) \ \ \ C$ and $A \ \ \ (\overline{B \ \ \ C})$.

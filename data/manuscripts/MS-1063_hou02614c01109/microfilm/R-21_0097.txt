@@ -1,0 +1,38 @@
+[fig]Diagram with points A, B, mA, nB[/fig]
+
+[del]x[/del] B + (1-x) A = y A + (1-y) B
+
+ym + x = 1
+yn + x = n
+[del]y(n-m) = 0[/del]
+y(n-m) = n-1
+y = [frac]n-1[/frac][over]n-m[/over]
+
+x = 1 - m [frac]n-1[/frac][over]n-m[/over]
+= [frac]n-m - mn + m[/frac][over]n-m[/over]
+x = [frac]n - mn[/frac][over]n-m[/over]
+
+[frac]n-1[/frac][over]n-m[/over] A + [frac]1-m[/frac][over]n-m[/over] B
+
+[frac]0-1[/frac][over]0-m[/over] A + [frac]1-m[/frac][over]0-m[/over] C
+
+C
+C
+
+xB + (1-x) C = yB + (1-y) C
+
+x = yn
+
+1-x = 0-y0
+1-yn = 0-y0
+y(0-n) = 0-1
+y = [frac]0-1[/frac][over]0-n[/over]
+
+x = [frac]0-1[/frac][over]0-n[/over] B + [frac]1-n[/frac][over]0-n[/over] C
+
+1 - [frac]0-1[/frac][over]0-n[/over] [frac]n-m[/frac][over]1-m[/over]
+[frac](0-n)(1-m) - (0-1)(n-m)[/frac][over](0-n)(1-m)[/over]
+[frac]0 - [del]n[/del] + nm - 0n - m[/frac][over](0-n)(1-m)[/over]
+
+m [frac]0-1[/frac][over]0-n[/over] [frac]n-m[/frac][over]1-m[/over]
+m [frac]0-1[/frac][over]0-n[/over] [frac]1-n[/frac][over]1-m[/over]

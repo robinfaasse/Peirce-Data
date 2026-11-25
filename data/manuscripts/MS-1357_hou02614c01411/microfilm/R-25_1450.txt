@@ -1,0 +1,25 @@
+[pn]35[/pn]
+[u]Live Loads[/u]
+
+[del][u]Q-P[/u]
+[u]ds[/u][/del] [ins][u]Q-P[/u]
+[u]ds[/u] - 2[/ins] such equations, namely, all from [u]n[/u] = -Q + ds to [u]n[/u] = -P - 2ds
+inclusive. But these will contain [u]Q-P[/u]
+[u]ds[/u] + 1 unknowns, namely,
+all the [Math Processing Error]\(\Theta\)s from [Math Processing Error]\(\Theta_{-Q}\) to [Math Processing Error]\(\Theta_{-P}\) inclusive. Hence, any values of the
+[Math Processing Error]\(\Theta\)s deduced from these equations alone must contain three
+independent unknown quantities. The equations, being
+linear, have but one solution. Now they are satisfied by
+the [del]equator[/del] values
+[Math Processing Error]\(\Theta_{\underline{n}} = -\frac{1}{6} \frac{\mathcal{U}}{\mathcal{B}} \underline{n}^3 + \mathcal{C}_2 \underline{n}^2 + \mathcal{C}_1 \underline{n} + \mathcal{C}_0\)
+where [Math Processing Error]\(\mathcal{C}_2, \mathcal{C}_1, \mathcal{C}_0\) are the three unknowns. For, forming the
+first member of the variational equation
+[Math Processing Error]\(\Theta_{\underline{n}+2\underline{ds}} - 3 \Theta_{\underline{n}+\underline{ds}} + 3 \Theta_{\underline{n}} - \Theta_{\underline{n}-\underline{ds}} + \frac{\mathcal{U}}{\mathcal{B}} (\underline{ds})^3 =\)
+
+[Math Processing Error]\(-\frac{1}{6} \frac{\mathcal{U}}{\mathcal{B}} \underline{n}^3 - \frac{\mathcal{U}}{\mathcal{B}} \underline{n}^2 \underline{ds} - 2 \frac{\mathcal{U}}{\mathcal{B}} \underline{n} (\underline{ds})^2 - \frac{4}{3} \frac{\mathcal{U}}{\mathcal{B}} (\underline{ds})^3\)
+[Math Processing Error]\(+ \frac{1}{2} \frac{\mathcal{U}}{\mathcal{B}} \underline{n}^3 + \frac{3}{2} \frac{\mathcal{U}}{\mathcal{B}} \underline{n}^2 \underline{ds} + \frac{3}{2} \frac{\mathcal{U}}{\mathcal{B}} \underline{n} (\underline{ds})^2 + \frac{1}{2} \frac{\mathcal{U}}{\mathcal{B}} (\underline{ds})^3\)
+[Math Processing Error]\(- \frac{1}{2} \frac{\mathcal{U}}{\mathcal{B}} \underline{n}^3\)
+[Math Processing Error]\(+ \frac{1}{6} \frac{\mathcal{U}}{\mathcal{B}} \underline{n}^3 - \frac{1}{2} \frac{\mathcal{U}}{\mathcal{B}} \underline{n}^2 \underline{ds} + \frac{1}{2} \frac{\mathcal{U}}{\mathcal{B}} \underline{n} (\underline{ds})^2 - \frac{1}{6} \frac{\mathcal{U}}{\mathcal{B}} (\underline{ds})^3\)
+[Math Processing Error]\(+ \frac{\mathcal{U}}{\mathcal{B}} (\underline{ds})^3\)
+
+[Math Processing Error]\(\begin{array}{rcc} \mathcal{C}_2 \underline{n}^2 & + 4 \mathcal{C}_2 \underline{n} \underline{ds} & + 4 \mathcal{C}_2 (\underline{ds})^2 \\ -3 \mathcal{C}_2 \underline{n}^2 & - 6 \mathcal{C}_2 \underline{n} \underline{ds} & - 3 \mathcal{C}_2 (\underline{ds})^2 \\ +3 \mathcal{C}_2 \underline{n}^2 & & \\ - \mathcal{C}_2 \underline{n}^2 & + 2 \mathcal{C}_2 \underline{n} \underline{ds} & - \mathcal{C}_2 (\underline{ds})^2 \\ & + \mathcal{C}_1 \underline{n} & + 2 \mathcal{C}_1 (\underline{ds}) \\ & - 3 \mathcal{C}_1 \underline{n} & - 3 \mathcal{C}_1 (\underline{ds}) \\ & + 3 \mathcal{C}_1 \underline{n} & \\ & - \mathcal{C}_1 \underline{n} & + \mathcal{C}_1 (\underline{ds}) \\ & & + \mathcal{C}_0 \\ & & - 3 \mathcal{C}_0 \\ & & + 3 \mathcal{C}_0 \\ & & - \mathcal{C}_0 \end{array} = 0\)

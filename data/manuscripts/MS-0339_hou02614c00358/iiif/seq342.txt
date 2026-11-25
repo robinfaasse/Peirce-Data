@@ -1,0 +1,30 @@
+[fig]diagram containing letters x, y, and circles[/fig]
+
+[fig]diagram containing letter x[/fig]  [fig]diagram containing letter x[/fig]
+
+y ≺ x
+[del]y ≺ x[/del] ( ) y ≺ x · x ≺ z
+(z ≼ y) (z ̈ ≼ y)
+z ≼ x x ≼ y
+z ≼ y
+
+y ≺ x
+[del]x ≺ y[/del]
+l_i ≼ l_j
+l_j ≼ l_k
+l_i ≼ l_k
+l_i ≼ x_i ≼ x_j
+
+y
+---
+x
+
+(A ≺ B) c ≼ A ≺ [del]B[/del]
+(A ≺ B) c ≼ A
+
+[fig]circle[/fig]
+x · y ≼ x ≺ z (x ≼ z y ≼ z)
+(x ≼ y ≼ z) ≺ x · y ≼ z
+[del]if x ≼ y[/del] (x ≺ y) · x ≺ y
+if x and y, x · y
+x · y ≼ x

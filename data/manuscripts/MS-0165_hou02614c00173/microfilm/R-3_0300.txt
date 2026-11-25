@@ -1,0 +1,11 @@
+[pn]54[/pn]
+
+[fig]Diagram showing sequences of letters: A B C D E, A, AB, ABC, ABCD, ABCDE, etc.[/fig]
+
+[u]Exercise 6. Demonstrate Corollary 3.[/u]
+
+[u]Lemma 1[/u]. Let a sequence, [u]t[/u], be composed of [del]objects which are[/del] [ins]all the earlier of the pairs of[/ins] [del]all the[/del] [ins]resulting[/ins] [del]partial[/del] sequences [del]which result[/del] [del]from cutting onto two[/del] [ins]is only such parts of [u]s[/u] as contain the[/ins] [del]a[/del] simple sparse sequence, [u]s[/u], [del]and[/del] [ins]which[/ins] contain the first object of [del]that sequence, [u]s[/u]. And these sequences are arranged in[/del] [ins]which form objects of the sequence, [u]t[/u]. And these sequences [del]being arranged in[/del] [ins]are arranged in[/ins] [del]the same way[/del] [ins]the same order[/ins] as their [del]several[/del] last[/ins] [del]objects[/del] [ins]I say,[/ins] are arranged in [u]s[/u]. Then, the sequence, [u]t[/u], is a simple sparse sequence.
+
+[u]Demonstration[/u]. What we mean by saying that the sequences which are [del]the[/del] [ins]partial sequences[/ins] [del]objects[/del] of the sequence, [u]t[/u], are arranged as the objects of the sequence, [u]s[/u], is, that the objects of [u]t[/u] and the objects of [u]s[/u] are in such a one-to-one correspondence, that if one object of [u]s[/u] [del]comes after another[/del] [ins]has another after it[/ins], then the [del]object[/del] of [u]t[/u] which corresponds to the former has the one which corresponds to the latter after it. Consequently, in whatever way [u]t[/u] is separated into two parts, the second [del]will[/del] [ins]comes[/ins] entirely after the first, if [u]s[/u] is separated into two corresponding parts, the second part of [u]s[/u] will come entirely after the first; and [del]since[/del], by the hypothesis [del]and Definition 23[/del], the first part of [u]s[/u] has a last object, the first part of [u]t[/u] has also a last object; and thus, by the same definition, [u]t[/u] is a simple sparse sequence.
+
+[u]Theorem 6[/u]. [u]The objects of a bounded simple sparse[/u] [u]sequence cannot be in one-to-one correspondence with[/u] [u]those of any unbounded sequence.[/u]

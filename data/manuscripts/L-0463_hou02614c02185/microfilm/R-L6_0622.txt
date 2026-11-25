@@ -1,0 +1,35 @@
+Idea can determine only an idea
+Habit can be determined only by a habit
+
+[fig]horizontal line with vertical tick marks[/fig]
+$\begin{array}{ccc}
+\text{I} \cdot \partial' \text{I}' & \text{I} \cdot \partial' \text{O} & \text{I} \cdot \partial' \text{H} \\
+\text{O} \cdot \partial' \text{I}' & \text{O} \cdot \partial' \text{O} & \text{O} \cdot \partial' \text{H} \\
+\text{H} \cdot \partial' \text{I}' & \text{H} \cdot \partial' \text{O} & \text{H} \cdot \partial' \text{H}
+\end{array}$
+
+$\begin{array}{ccc}
+\text{I} \cdot \partial \text{I} & \text{I} \cdot \partial \text{O} & \text{I} \cdot \partial \text{H} \\
+\text{O} \cdot \partial \text{I} & \text{O} \cdot \partial \text{O} & \text{O} \cdot \partial \text{H} \\
+\text{H} \cdot \partial \text{I} & \text{H} \cdot \partial \text{O} & \text{H} \cdot \partial \text{H}
+\end{array}$
+
+[fig]horizontal line with vertical tick marks[/fig]
+$\begin{array}{cccc}
+\text{I} \cdot \partial \text{I} \cdot \partial' \text{I}' & \text{I} \cdot \partial \text{I} \cdot \partial' \text{O} & \text{I} \cdot \partial \text{I} \cdot \partial' \text{H} & \\
+\text{O} \cdot \partial \text{I} \cdot \partial' \text{O} & \text{O} \cdot \partial \text{I} \cdot \partial' \text{H} & \text{O} \cdot \partial \text{O} \cdot \partial' \text{O} & \text{O} \cdot \partial \text{O} \cdot \partial' \text{H} \\
+\text{H} \cdot \partial \text{I} \cdot \partial' \text{H} & \text{H} \cdot \partial \text{O} \cdot \partial' \text{H} & \text{H} \cdot \partial \text{H} \cdot \partial' \text{H} &
+\end{array}$
+
+[del]Tone[/del] [del]Objt[/del]
+[del]Objt[/del] [del]Int[/del]
+[del]I[/del] $\text{O}_1 \text{I}_1$
+
+$\begin{array}{ccccccc}
+& & 1\text{O}_1\text{I}_1 & & & & 3\text{O}_3\text{I}_3 \\
+& & & 1\text{O}_2\text{I}_1 & 3\text{O}_3\text{I}_1 & & \\
+& 1\text{O}_2\text{I}_2 & & 2\text{O}_2\text{I}_1 & & 3\text{O}_3\text{I}_2 & \\
+& & 2\text{O}_2\text{I}_2 & & 2\text{O}_3\text{I}_2 & & \\
+& & & 2\text{O}_3\text{I}_3 & & &
+\end{array}$
+[fig]diamond grid connecting the O-I terms[/fig]

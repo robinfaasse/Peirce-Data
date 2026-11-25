@@ -1,0 +1,26 @@
+[u]Theorem V[/u] If $x \prec n-y$ then $y \prec n-x$.
+
+[del]Proof[/del] From $x \prec n-y$, we have by theorem 3, and [ins]corollary 9[/ins]
+$x \bar{y} \prec \overline{n-y} y \prec 0$
+
+Hence by VII, corollary 7, and [u]III[/u]'
+$y \prec x y + \bar{x} y \prec 0 + \bar{x} y \prec \overline{n-x} y \prec n-x$
+
+Whence by corollary 1,
+[del]Corollary[/del] If $n-y \prec \bar{x}$ then $n-x \prec y$.
+
+[u]Scholium[/u] Theorem IV is the principle of the syllogism in [del]Cesare[/del] [u]Camestres[/u]
+
+[del]No God is a man
+All negroes are men
+$\therefore$ No negroes are Gods.[/del]
+
+All negroes are men,
+No monkey is a man;
+$\therefore$ No monkey is a negro.
+
+Theorem V is the principle of [u]Cesare[/u]
+
+No monkey is a man,
+All negroes are men;
+$\therefore$ No negro is a monkey.

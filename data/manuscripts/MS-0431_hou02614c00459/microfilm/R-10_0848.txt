@@ -1,0 +1,24 @@
+[marginalia]
+[pn]Logic
+III
+30[/pn]
+[/marginalia]
+
+[marginalia]
+{Footnote}
+[/marginalia]
+
+on account at all of those which follow. It is better, if the
+last two terms are [del]M[/del] [ins]M'[/ins] and [del]N[/del] [ins]N'[/ins], in place of [del]M + N[/del] [ins]M' + N'[/ins], to take
+[del]M - N[/del] [ins]M' - N'[/ins]. If this is done, [del]many[/del] the majority of divergent de-
+velopments become useful. Let us, for example, use the
+[ins]natural[/ins] formula [del]log (1 + x) = x - [frac]1/2[/frac] x^2 + [frac]1/3[/frac] x^3 - [frac]1/4[/frac] x^4 + etc.[/del] [ins]log (1 + x) = x - [frac]1/2[/frac] x^2 + [frac]1/3[/frac] x^3 - [frac]1/4[/frac] x^4 + etc.[/ins], to calculate
+the logarithm of two, of which the true value is 0.69314718.
+The first two terms give [del]0.67[/del] [ins]0.50[/ins], the first three [del]0.70[/del] [ins]0.83[/ins], the first
+four [del]0.69[/del] [ins]0.58[/ins], the first five [del]0.694[/del] [ins]0.78[/ins], etc. But [del]these approx-
+imations[/del] [ins]themselves[/ins] should be treated in the same way. That is to say, the
+successive differences being -[frac]1/2[/frac], +[frac]1/3[/frac], -[frac]1/4[/frac], +[frac]1/5[/frac], etc., we get as
+approximations 1 - [frac]1/2[/frac] / 1 + [frac]1/2[/frac] / [frac]1/3[/frac] = 0.697, [frac]2/3[/frac] + [frac]1/30[/frac] / 1 + [frac]1/30[/frac] / [frac]1/105[/frac] = 0.693
+[frac]7/10[/frac] - [frac]1/105[/frac] / 1 + [frac]1/105[/frac] / [frac]1/252[/frac] = 0.6933. I suppose few but professional
+computers would imagine that such use could be made
+of divergent developments.

@@ -1,0 +1,45 @@
+229. In a given ellipse, it is required to inscribe
+the greatest possible equilateral triangle.
+
+$\cdot$ Solution. Let the ellipse be $a^{2}y^{2} + b^{2}x^{2} = a^{2}b^{2}$.
+Let one of the vertices of the triangle be $x_{1}y_{1}$.
+[del]Refer the[/del] [ins]Refer the[/ins] [del]ellipse[/del] [ins]ellipse[/ins] equation to this point, and make the axis of
+$x'$ the perpendicular drawn from this point to the base of
+the triangle, the axis of $y'$ being perpendicular to it.
+$x = x_{1} + x'\cos\omega + y'\sin\omega$
+$y = y_{1} - x'\sin\omega + y'\cos\omega$.
+$a^{2}y_{1}^{2} + b^{2}x_{1}^{2} = a^{2}b^{2}$
+for the other vertices [del]let[/del] $x'_{1} = \pm \sqrt{3}\cdot y'_{1}$.
+[del]$\phi$[/del] $(a^{2}\cos^{2}\omega + b^{2}\sin^{2}\omega)y'^{2} + 2[del](b^{2}\sin\omega\cos\omega - a^{2})[/del] [ins]\sin\omega\cos\omega(b^{2}-a^{2})[/ins]x'y'$
+$+ (a^{2}\sin^{2}\omega + b^{2}\cos^{2}\omega)x'^{2} + (a^{2}\cos\omega\cdot y_{1} + b^{2}\sin\omega x_{1})y' + (b^{2}\cos\omega x_{1} - a^{2}\sin\omega y_{1})x'$.
+But as for the value of $x' = x'_{1}$ we have $y' = \pm y'_{1}$. this equation
+divides into, making $x'_{1} = y'_{1}\sqrt{3}$.
+[del]$(a^{2}\cos^{2}\omega + b^{2}\sin^{2}\omega)$[/del]
+$(a^{2}[\text{cos}^{2}\omega + 3\sin^{2}\omega] + b^{2}[\text{sin}^{2}\omega + 3\cos^{2}\omega])y'_{1} + (b^{2}\cos\omega x_{1} - a^{2}\sin\omega y_{1}) = 0$.
+$2(b^{2}-a^{2})\sqrt{3}\cdot\sin\omega\cos\omega\ y'_{1} + (a^{2}\cos\omega y_{1} + b^{2}\sin\omega x_{1}) = 0$
+Eliminating $y'_{1}$
+
+Let the ellipse be referred to the [del]conjugate diameters[/del] [ins]axes[/ins] $a$ and $b$.
+that make with each other an angle $=\omega$. The diameter
+$a$ is supposed to pass through one of the vertices of the
+triangle.
+
+We have $b^{2}y^{2} + b^{2}x^{2} = a^{2}b^{2}$.
+Transform this into a polar equation referred to the [del]line drawn[/del]
+[del]perpendicular to the base of the triangle, and which we sup-[/del]
+[del]pose to make an angle $=\varpi'$ with the diameter $a$.[/del]
+[del]$\frac{y}{x} = \frac{r\sin(\omega-\varpi')}{r\sin(\omega-\varpi')}$[/del]
+[del]$\frac{y}{x} = \frac{\sin\varpi'}{\sin(\omega-\varpi')}$[/del]
+$(a^{2}\sin^{2}(\varpi-\varpi') + b^{2}\cos^{2}(\varpi-\varpi'))r/ = ab^{2}\cos(\varpi-\varpi')$.
+$((a^{2}+b^{2} - (a^{2}-b^{2})\cos 2(\varpi-\varpi'))r = 2ab^{2}\cos(\varpi-\varpi')$
+We write the value of $r$ for the other two vertices of making
+$\varpi = \pm 30^{\circ}$. which gives.
+$a^{2}+b^{2}-(a^{2}-b^{2})\cos$
+$y = \frac{r\sin(\omega-\varpi')}{\sin(\omega + \varpi')}$
+$\Delta\ \ x = \frac{r\sin(\omega-\varpi+\varpi')}{\sin\omega}$
+$(a^{2}\sin^{2}(\omega-\varpi') + b^{2}\sin^{2}(\omega-\varpi+\varpi'))r^{2} = ab^{2}\frac{\sin(\omega-\varpi')}{\sin\omega}\sin\omega$.
+Hence we get.
+$(a^{2}+b^{2}-a^{2}\cos 2(\omega-\varpi') + b^{2}\cos 2(\omega-\varpi-\varpi'))r = 2ab^{2}\frac{\sin(\omega-\varpi')}{\sin\omega}\sin\omega$
+Hence.
+$r'(-\frac{1}{2}a^{2}\sin 2\varpi'\cdot\sqrt{3} + \frac{1}{2}b^{2}\sin 2(\omega-\varpi')\sqrt{3}) + ab^{2}\sin\frac{(\omega-\varpi')}{\sin\omega}\sin\omega$
+$(a^{2}+b^{2}-\frac{1}{2}a^{2}\cos 2\varpi' + \frac{1}{2}b^{2}\cos 2(\omega-\varpi'))r = ab^{2}\cos(\omega-\varpi')\sin\omega$

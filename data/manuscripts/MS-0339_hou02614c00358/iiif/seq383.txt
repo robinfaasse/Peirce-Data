@@ -1,0 +1,21 @@
+DEC 19 1901
+
+A consequence may be written
+1[u]st[/u] If the ultimate consequent is identical with a first 
+antecedental which has no antecedent that cannot 
+be written by itself; as 
+b ≺ a ≺ a
+or [del]c ≺ [ ( a ≺ a ) ≺ b ][/del] ≺ b
+
+2[u]nd[/u] If every first antecedental [del]of[/del] [ins]that antecedental [del]being itself[/del][/ins]
+[del]is itself a first antecedental without an antecedent[/del]
+[del]not capable of being written by itself[/del]; as
+g ≺ ( f ≺ e ≺ d ) ≺ [ ( c ≺ c ) [del]f[/del] ] ≺ e ≺ d
+
+[fig]formula consisting of many nested parentheses and terms with overhead bars and numeric subscripts[/fig]
+[u]Prime factors[/u]
+[fig]a series of complex logical formulas involving nested parentheses, terms with subscripts, and ≺ symbols, arranged in a descending stepped pattern and a list[/fig]
+
+( α ≺ β ) ≺ ( γ ≺ δ ) ≺ ι
+α + β + γ ( α ≺ β ≺ γ ) ≺ ( δ ≺ ε ≺ ζ ) ≺ η ≺ θ ≺ ι
+β + δ + η + θ + ι

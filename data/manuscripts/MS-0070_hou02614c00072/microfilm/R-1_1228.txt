@@ -1,0 +1,44 @@
+[u]\Pi_{i}\Pi_{j}\Pi_{k}[/u] [u]\overline{(i+j)_{k}}[/u] + [u]\overline{(u+j)_{w}}[/u] + \overline{S}_{ui} + S_{wk}
+
+\Pi_{i}\Pi_{k} [del]\Sigma_{x}\Pi_{u}[/del] [u]\overline{(i+1)_{k}}[/u] [del]\Sigma_{x}\Pi_{u}[/del] + p_{x}\cdot\overline{S}_{xi} + \overline{p}_{u} + \overline{(u+j)_{w}}
+
+\Pi_{u}\Sigma_{x}\Sigma_{w} \overline{p}_{u} + p_{x}\cdot\overline{S}_{xu} + \overline{p}_{i}\cdot\overline{(i+j)_{k}}
+
+If i is as small as any integer of a class p
+and [del]iff[/del] [u]\overline{(i+j)_{k}}[/u]
+[del]For every integer of the class q[/del]
+then either there are integers u and w such that p_{u}\cdot q_{w}\cdot\overline{(u+j)_{w}}
+or else S_{wk}
+
+\Pi_{i}\Sigma_{x}\Sigma_{w} p_{x}\cdot\overline{q}_{xi} + \overline{(i+1)_{k}} + p_{u}\cdot q_{w}\cdot\overline{(u+j)_{w}} + S_{wk}
+
+[fig]black circle[/fig]
+
+2 3 4 5
+
+[u]7 + 8[/u] = 15
+i   i
+k
+
+q multiple of 6
+[u]p perfect square[/u]
+[del]prime[/del]
+
+[u]5 + 3[/u] = 6
+[u]6 + 20 = 27[/u]
+
+q divisor of [del]6[/del]
+[del]q prime[/del]
+
+p perfect square
+
+\frac{29}{2} \frac{29}{5}
+\frac{203}{6} \frac{145}{6}
+
+\Sigma a\Pi_{b} t_{ab}
+\Sigma a t_{aa}
+\Pi_{a}\Pi_{b} t_{ab}
+203\Pi_{a}\Sigma_{b} t_{ab}
+\Sigma_{a}\Pi_{b} t_{ab}
+\Pi_{a} t_{aa}
+\Sigma_{a} t_{aa}

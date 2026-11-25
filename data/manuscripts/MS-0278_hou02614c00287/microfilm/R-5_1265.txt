@@ -1,0 +1,77 @@
+[pn]2)[/pn]
+
+[marginalia]
+Computations toward a Table of Secundal Antilogarithms
+[/marginalia]
+
+$(\frac{1}{2})^{15} (\text{dec log } 2) = $
+
+dec log $2^{\frac{1}{2^{15}}}$
+for 10 Dec Plg 23023
+
+From Napier's Table IV.
+
+$= \begin{array}{r}
+10.000091867064106 \\
+637838086503088 \\
+\hline 637847273209499 \\
+43435717512725 \\
+\hline 273209 \\
+109284 \\
+13660 \\
+1366 \\
+136 \\
+\hline 434357448734268
+\end{array}$
+
+[ins]$\Delta = 0.0019550$[/ins]
+
+Multiply by 23
+
+$\begin{array}{r}
+868714897468536 \\
+1303072346202804 \\
+\hline 9990221320888164
+\end{array}$
+
+Multiply by 1001
+$(\frac{23}{24})^{15} =$
+
+$\begin{array}{r}
+9990221320888 \\
+10000211542209052 \\
+\hline 152587890625 \\
+58954318427 \\
+38146972656 \\
+20807345771 \\
+19073486328 \\
+1733859443 \\
+1192092896 \\
+541766547 \\
+298023224 \\
+243793323 \\
+149011612 \\
+91552734 \\
+74505806 \\
+20225905 \\
+18626451 \\
+1164153 \\
+1599454 \\
+435301 \\
+291038
+\end{array}$
+
+[marginalia]
+Conversion to secundals
+[/marginalia]
+
+[fig]Plot of points showing conversion to secundals[/fig]
+
+$\begin{array}{r}
+145263 \\
+72760 \\
+71503 \\
+36380 \\
+35123 \\
+1257
+\end{array}$

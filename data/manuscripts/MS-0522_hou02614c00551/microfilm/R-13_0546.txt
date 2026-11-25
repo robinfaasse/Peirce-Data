@@ -1,0 +1,36 @@
+[pn]53[/pn]
+Elimination p239
+
+[del]$x = (\bar{u} + f_{1})\infty + u$[/del]
+$= \bar{u} \cdot (\bar{u} + 1)\infty + u$
+[del]$= \bar{u}\infty + \bar{u} + u$[/del]
+$= (\bar{u} + 1)\infty + (\bar{u} + 0) \cdot u$
+
+[u]$\Pi_{i}\Pi_{j}\Sigma_{k} \bar{u}_{ij} (u_{ij} + T_{jk}) + u_{il}$[/u]
+$\Pi_{i}\Pi_{j}\Sigma_{k}\Pi_{l} \bar{u}_{ij} \bar{x}_{il} + \bar{u}_{ij} T_{jk} + u_{il}$
+$\Pi_{p}\Pi_{q}\Pi_{r}\Sigma_{s} \bar{x}_{pq} + u_{pq} T_{qr} \cdot \bar{u}_{ps}$
+
+[u]$\Pi_{i}\Pi_{j}\Sigma_{k}\Pi_{l}\Pi_{p}\Pi_{q}\Sigma_{r} \bar{u}_{ij}$[/u]
+$\Pi_{i}\Pi_{j}\Sigma_{k}\Pi_{l}\Pi_{p}\Pi_{q}\Sigma_{r} \bar{u}_{ij} \bar{x}_{il}$
+$(\bar{x}_{il} + \bar{u}_{iq} + u_{qk} + u_{il}) \cdot (u_{ij} T_{jk} \bar{u}_{pq} + \bar{x}_{il})$
+$(\bar{x}_{il} + u_{qk}) T_{qr} + \bar{x}_{il}$
+[u]$\Pi_{i}\Pi_{j}\Pi_{l}\Pi_{p}\Sigma_{j} (x_{ij} T_{jk} + \bar{x}_{il})$[/u]
+$x \sim (\bar{x} + 0)\infty$
+
+$\alpha = (\bar{u} + 1)\infty + u$
+$x + \bar{u} + u$
+$x + (\bar{u} + 1)\infty + u$
+$x + \bar{u} + 1 \sim \infty$
+$x + \bar{u} \sim \infty$
+$x \sim (\bar{x} + 1)\infty$
+
+$\{\bar{x} + (\bar{x} + 1)\} + 0$
+$\infty$
+$\infty$
+$\bar{u} = (\bar{u} + 1)\infty$ if $u + 1$
+$\alpha = u + (\bar{u} + 1)\infty$
+$= u \cdot (\bar{u} + 0) + \bar{u} + 1 [u + (\bar{u} + 1)]\infty$
+
+[u]$\Pi_{i}\Pi_{j}\Pi_{p}\Pi_{q}\Sigma_{j} (u_{ij} T_{jk} + \bar{x}_{il}) (\bar{u}_{ij} + \bar{x}_{il})$[/u]
+$\Pi_{i}\Pi_{j}\Pi_{p}\Pi_{q}\Sigma_{j} (u_{ij} T_{jk} \bar{u}_{ij} + \bar{x}_{il}) (\bar{u}_{ij} + \bar{x}_{il})$
+[u]$\Pi_{i}\Pi_{j}\Pi_{p}\Pi_{q}\Sigma_{j} x_{\alpha\gamma} \cdot x_{\alpha\beta} T_{\beta\gamma}$[/u]

@@ -1,0 +1,30 @@
+place of $x$ a new unknown half as large. [del]Since[/del] [ins]As[/ins] we do not
+care for the value of $x$ it makes no difference whether
+it be half as large or not. Let us assume $x = 2x'$ and
+substitute this in all the equations. We thus get
+$$\begin{aligned}
+6x' - 2y + 1z - 6 &= 0 \\
+8x' - 1y - 2z + 7 &= 0 \\
+4x' + 3y - 4z + 7 &= 0 \\
+0x' + 1y + 0z - y &= 0
+\end{aligned}$$
+In like manner let us substitute $z = 6z'$, and so multiply the
+third column by $6$. We thus get;
+$$\begin{aligned}
+6x' - 2y + 6z' - 6 &= 0 \\
+8x' - 1y - 12z' + 7 &= 0 \\
+4x' + 3y - 24z' + 7 &= 0 \\
+0x' + 1y + 0z - y &= 0
+\end{aligned}$$
+We shall not hesitate to multiply even the $y$ column. It is evident
+we have the same right to do so, and it decidedly simplifies matters
+since it will leave us only one $y$ to attend to down in the corner.
+We will substitute then $y = -3y'$. We thus get
+$$\begin{aligned}
+6x' + 6y' + 6z' - 6 &= 0 \\
+8x' + 3y' - 12z' + 7 &= 0 \\
+4x' - 9y' - 24z' + 7 &= 0 \\
+0x' - 3y' + 0z' - y &= 0.
+\end{aligned}$$
+We have the same right precisely to multiply the last column. It may
+be a useless thing; but still, to establish our rights, we will do so.

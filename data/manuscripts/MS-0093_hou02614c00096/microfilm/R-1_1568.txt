@@ -1,0 +1,50 @@
+[pn]64[/pn] [marginalia][date]Sep 76[/date][/marginalia]
+
+Put this into another form
+[u]\psi t = \frac{(t-M)(L-N)}{(L-M)(t-N)}[/u]
+M = \gamma_0 \theta^0  N = \gamma_\infty \theta^\infty  L = \gamma_1 \theta^1
+
+\psi^{n+1}(\psi^n-N)(L-M) - (\psi^n-M)(L-N) = 0
+(\psi^{n+1}-N)(\psi^n-N)(L-M) + N(\psi^n-N)(L-M)
+- (\psi^n-N)(L-N) - (N-M)(L-N) = 0
+
+\therefore \phi^n = \psi^n-N
+\phi^{n+1} = \psi^{n+1}-N
+
+\phi^{n+1} \phi^n (L-M) + \phi^n N(L-M) - \phi^n(L-N) - (N-M)(L-N) = 0
+
+\phi^n = \frac{u_{n+1}}{u_n}  \phi^{n+1} = \frac{u_{n+2}}{u_{n+1}}  \frac{NL+N-MN-L}{u_{n+1}}
+
+(L-M) u_{n+2} + (LN+N-L-MN) u_{n+1} + (M-N)(L-N) u_n = 0
+M = [del]\psi^0[/del] \psi^{-1} 0  N = \psi^{-1} \infty  L = \psi^{-1} 1
+(L-M) \psi^n \psi^{n+1} - N(L-M) \psi^{n+1} = \psi^n(L-N) - M(L-N)
+(L-M) \psi^n \psi^{n+1} - \psi^n(L-N) = N(L-M) \psi^{n+1} - M(L-N)
+\psi^n = \frac{\psi^{n+1} N(L-M) - M(L-N)}{\psi^{n+1}(L-M) - (L-N)}
+
+\psi^{n-1} = \frac{N(L-M) \psi^n N(L-M) - MN(L-M)(L-N) - M(L-N) \psi^{n+1}(L-M) + M(L-N)^2}{(L-M) N(L-M) \psi^{n+1} - (L-M) M(L-N) - (L-N)(L-M) \psi^{n+1} + (L-N)^2}
+= \frac{[del](N^2 M[/del] [ins][N^2(L-M)-M(L-N)] \psi^{n+1} (L-M) - [N(L-M)-(L-N)] M(L-N)[/ins]}{[(L-M)N-(L-N)](L-M)\psi^{n+1} - [M(L-M)-(L-N)](L-N)}
+
+[pn]65[/pn] [marginalia][date]Sep 76[/date][/marginalia]
+
+\psi^{n+2} = \frac{[\frac{(\psi^n-M)(L-N)}{(L-M)(\psi^n-M)} - M](L-N)}{(L-M)}
+
+\frac{L-M}{L-N} \psi^{n+1} = \frac{\psi^n-M}{\psi^n-N} = \frac{\frac{L-M}{L-M} \psi^n - \frac{L-M}{L-N} M}{\frac{L-M}{L-N} \psi^n - \frac{L-M}{L-N} N}
+
+Put \frac{L-M}{L-N} \psi^n = \chi^n  \frac{L-M}{L-N} M = \mathcal{M}  \frac{L-M}{L-N} N = \mathcal{N}
+
+\chi^{n+1} = \frac{\chi^n - \mathcal{M}}{\chi^n - \mathcal{N}}
+
+\chi^{n+1}(\chi^n-\mathcal{N}) - \chi^n + \mathcal{M} = 0
+[del](\chi^{n+1})(\chi^n)[/del]
+\chi^n - \mathcal{N} = \omega^n
+\omega^{n+1} \omega^n + \mathcal{N} \omega^n - \omega^n - \mathcal{N} + \mathcal{M} = 0
+\omega^n = \frac{u_{n+1}}{u_n}
+
+u_{n+2} + (\mathcal{N}-1) u_{n+1} + (\mathcal{M}-\mathcal{N}) u_n = 0
+\alpha = \frac{1}{2} (1-\mathcal{N}) + \sqrt{(1+\mathcal{N})^2 - \mathcal{M}}
+\beta = \frac{1}{2} (1-\mathcal{N}) - \sqrt{(1+\mathcal{N})^2 - \mathcal{M}}
+u_n = \mathcal{C}_1 \alpha^n + \mathcal{C}_2 \beta^n
+\omega^n = \frac{\alpha^{n+1} + \mathcal{C} \beta^{n+1}}{\alpha^n + \mathcal{C} \beta^n} = \frac{1 + \mathcal{C} (\frac{\beta}{\alpha})^{n+1}}{1 + \mathcal{C} (\frac{\beta}{\alpha})^n}
+\chi^n = \frac{1 + \mathcal{C} (\frac{\beta}{\alpha})^{n+1}}{1 + \mathcal{C} (\frac{\beta}{\alpha})^n} + \frac{L-M}{L-N} N
+\psi^n = \frac{L-N}{L-M} \frac{1 + \mathcal{C} (\frac{\beta}{\alpha})^{n+1}}{1 + \mathcal{C} (\frac{\beta}{\alpha})^n} + N
+t = \psi^0 = \frac{L-N}{L-M} \frac{1}{2} (1+\mathcal{C}) + N

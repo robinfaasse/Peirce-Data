@@ -1,0 +1,52 @@
+[pn]92[/pn] PEIRCE: *On the Logic of Number.*
+
+Third, the proposition, if true for $x = 1 + n$ is true for $x = n$. For, changing the order of the transformations,
+$$1.0 + 0 = 1.0 = 0 = (1 + n) \ 0 = 1.0 + n.0.$$
+Then by the above lemma, $n.0 = 0$, so that the proposition is proved.
+
+A number which added to another gives naught is called the negative of the latter. To prove that every number greater than naught has a negative. First, the number next smaller than naught is the negative of one; for, by the definition of addition, one plus this number is naught. Second, if any number $n$ has a negative, then the number next greater than $n$ has for its negative the number next smaller than the negative of $n$. For let $m$ be the number next smaller than the negative of $n$. Then $n + (1 + m) = 0$.
+But
+$$\begin{aligned}
+n + (1 + m) & \\
+= (n + 1) + m & \quad \text{by the associative principle of addition.} \\
+= (1 + n) + m & \quad \text{by the commutative principle of addition.}
+\end{aligned}$$
+So that $(1 + n) + m = 0$. Q. E. D. Hence, every number greater than $0$ has a negative, and naught is its own negative.
+
+To prove that $(-x) \ y = -(xy)$. We have
+$$\begin{aligned}
+0 = x + (-x) & \quad \text{by the definition of the negative:} \\
+0 = 0y = (x + (-x))y & \quad \text{by the last proposition but one:} \\
+0 = xy + (-x) \ y & \quad \text{by the distributive principle:} \\
+-(xy) = (-x) \ y & \quad \text{by the definition of the negative.}
+\end{aligned}$$
+The negative of the negative of a number is that number. For $x + (-x) = 0$. Whence by the definition of the negative $x = -(-x)$.
+
+*Limited Discrete Simple Quantity.*
+
+Let such a relative term, $c$, that whatever is a $c$ of anything is the only $c$ of that thing, and is a $c$ of that thing only, be called a relative of simple correspondence. In the notation of the logic of relatives,
+$$c\breve{c} \prec 1, \ \breve{c}c \prec 1.$$
+
+If every object, $s$, of a class is in any such relation, [del]or with[/del] [ins]being $c$'d by[/ins] a number of a semi-infinite discrete simple system, and if, further, every number smaller than a number $c$'d [del]by an[/del] [ins]of a[/ins] $s$ is itself $c$'d [del]by an[/del] [ins]of a[/ins] $s$, then the numbers $c$'d [del]by[/del] [ins]of[/ins] the $s$'s are
+
+[pn]PEIRCE: *On the Logic of Number.*[/pn] [pn]93[/pn]
+
+said to count them, and the system of correspondence is called a count. In logical notation, putting $g$ for as great as, and $n$ for a positive integral number,
+$$s \prec \breve{c}n \quad gcs \prec cs.$$
+
+If in any count there is a maximum counting number, the count is said to be finite, and that number is called the number of the count. Let $[s]$ denote the number of a count of the $s$'s, then
+$$[s] \prec cs \quad gcs \prec [s].$$
+
+The relative "identical with" satisfies the definition of a relative of simple correspondence, and the definition of a count is satisfied by putting "identical with" for $c$, and "positive integral number as small as $x$" for $s$ In this mode of counting, the number of numbers as small as $x$ is $x$.
+
+Suppose that in any count the number of numbers as small as the minimum number, one, is found to be $n$. Then, by the definition of a count, every number as small as $n$ counts a number as small as one. But, by the definition of one there is only one number as small as one. Hence, by the definition of single correspondence, no other number than one counts one. Hence, by the definition of one, no other number than one counts any number as small as one. Hence, by the definition of the count, one is, in every count, the number of numbers as small as one.
+
+If the number of numbers as small as $x$ is in some count $y$, then the number of numbers as small as $y$ is in some count $x$. For if the definition of a simple correspondence is satisfied by the relative $c$, it is equally satisfied by the relative $c$'d by.
+
+Since the number of numbers as small as $x$ is in some count $y$, we have, $c$ being some relative of simple correspondence,
+1st. Every number as small as $x$ is $c$'d by a number.
+2d. Every number as small as a number that is $c$ of a number as small as $x$ is itself $c$ of a number as small as $x$.
+3d. The number $y$ is $c$ of a number as small as $x$.
+4th. Whatever is not as great as a number that is $c$ of a number as small as $x$ is not $y$.
+
+Now let $c_1$ be the converse of $c$. Then the converse of $c_1$ is $c$; whence, since $c$ satisfies the definition of a relative of simple correspondence, so also does $c_1$. By the 3d proposition above, every number as small as $y$ is as small as a number that is $c$ of a number as small as $x$. Whence, by the 2d proposition,

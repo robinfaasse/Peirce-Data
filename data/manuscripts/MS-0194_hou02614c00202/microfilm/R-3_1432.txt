@@ -1,0 +1,67 @@
+[fig]Right triangle[/fig]
+
+[fig]Spherical triangle with vertices labeled B, c, b, a[/fig]
+
+[fig]Spherical triangle with vertices labeled Pole G.C., Pole Earth, and a third vertex, with sides c, b, and a 90 degree angle[/fig]
+
+Pole G.C.
+[ins]c[/ins] = 57°.177
+Pole Earth
+
+[u]sin C = sin A . sin c[/u]
+
+0 = cos b cos c + sin b sin c cos A
+[del]wh[/del] cot b = - tan c . cos A
+sin B = sin b sin A
+
+[del]cosec[/del] cos a = sin b cosec [del]sin B[/del]
+
+[del]cot[/del]
+
+[fig]Sector of a circle with radius R, arc a, and height dh[/fig]
+
+[fig]Isosceles triangle with base a, sides b, and height h[/fig]
+
+[del]y[/del] [ins]y[/ins] + 2 R dh = [del]y[/del] [ins]y[/ins] + a²
+R = ½ a²/dh = [del]tan b sec b[/del] [del]cot lat[/del] cosec lat
+
+cos a cos b = cos h
+tan h = tan b sec A
+[u]tan ½ h = cosec h - cot h[/u]
+
+lat | β | cot | sin
+long | A | cos |
+| φ | tan | cosec
+[del]Grecian[/del] | c |
+| c-φ | tan | cos
+| a | | cos
+| B | cos | cot
+
+a
+186.43
+173.57
+1
+
+186.43
+181.43
+178.57
+173.57
+
+tan h = tan b sec A
+[del]tan h - tan b = ½ tan b A²[/del]
+
+cos h = cos b (
+[del]cos h[/del]/cos b = 1 - ½ a²
+tan b . dh = ½ a²
+
+h = b + dh
+cos h = cos b - sin b dh
+
+1 + cot² b - ½ cot b . A² = √[u]1 + cot² b cos² A[/u] - cot b cos A
+
+½ cot b (1 - ½ cot b) A² = cosec b √[u]1 - ½ cos² b A²[/u] - [del]cot b cos A[/del]
+= cosec b (1 - ¼ cos² b . A²)
+= [del]cot b + ½ cot b A²[/del]
+
+= √[u]cosec² b - cot² b sin² A[/u]
+= cosec b √[u]1 - cos² b sin² A[/u]

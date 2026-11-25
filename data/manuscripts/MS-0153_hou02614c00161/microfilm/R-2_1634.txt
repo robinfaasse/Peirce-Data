@@ -1,0 +1,29 @@
+[marginalia]4 colors[/marginalia]
+region can receive alternately the two values $+1$ and $-1$.
+
+I begin by proving that if this is true for all such maps
+of less than $N$ regions, then, whatever number $N$ may be,
+it is also true of any map of $N$ regions. Namely, suppose
+we have a map of $N$ regions, one of which is designated
+as having alternate corner-values except at two designated
+adjacent corners. We erase the boundary between these
+corners and so obtain a map of less than $N$ regions.
+We select the new region as the one whose corner-values
+except two are to alternate and we select those two
+so as not to be [del]another[/del] [ins]among those[/ins] of the region originally designated.
+We now by hypothesis can assign the values of the corners
+in the manner indicated. Having done so, we restore
+the erased boundary. We [del]or[/del] reverse the values of all
+the corner-values assigned to corners belonging to the
+region originally designated, and to the two new cor-
+ners we assign such values as to make the sum
+of its corner-values zero. [del]Thus if $M$ of the other corners
+have the value $+1$ and $M+1$ have the value $-1$, then
+the two new corners [del]have[/del] [ins]take[/ins] the value $-1$, and vice versa
+but if equal numbers of corners have the value[/del]
+[ins]each of[/ins] the two new corners [del]are to receive[/del] [ins]we assign each[/ins] the same value[del]s[/del] as
+the adjacent corner of the region originally designated.
+In order to prove that the sum of the corner-values of [del]every[/del] [ins]each[/ins]
+region is now zero, we remark that it was so before,
+the erased boundary was redrawn, and the only
+regions [ins]any of[/ins] whose corner-values have been changed are the

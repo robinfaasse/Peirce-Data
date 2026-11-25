@@ -1,0 +1,44 @@
+[fig]Mathematical formulas and diagrams[/fig]
+
+$$\frac{1}{a + \frac{1}{b + \frac{1}{c}}} = \frac{1}{a + \frac{c}{bc + 1}} = \frac{bc + 1}{abc + a + c}$$
+
+$$\frac{bc + 1}{\alpha\beta\gamma ba + \alpha\beta\gamma} \quad \frac{\beta\gamma + 1}{\nu\beta\gamma + \alpha + \gamma}$$
+
+$$\frac{1}{a + \frac{1}{b + \frac{1}{c + \frac{1}{d}}}} = \frac{1}{a + \frac{cd + 1}{bcd + b + d}} = \frac{bcd + b + d}{abcd + ab + ad + cd + 1}$$
+
+$$\frac{bcd + b + d}{[del]abcd + ab + ad[/del]} \quad \frac{cd + 1}{}$$
+
+[u]a b c[/u]
+1 1 2 [del]$\frac{2 + 1}{2 + 1 + 2}$[/del] [ins]$\frac{bc + 1}{abc + a + c}$[/ins] = $\frac{2}{3}$
+1 2 1 $\frac{2 + 1}{2 + 1 + 1}$ = $\frac{3}{4}$
+1 2 2 $\frac{4 + 1}{4 + 1 + 2}$ = $\frac{5}{7}$
+2 1 1 $\frac{1 + 1}{2 + 2 + 1}$ = $\frac{2}{5}$
+2 1 2 $\frac{2 + 1}{4 + 2 + 2}$ = $\frac{3}{8}$
+2 2 1 $\frac{2 + 1}{4 + 2 + 1}$ = $\frac{3}{7}$
+2 2 2 $\frac{4 + 1}{8 + 2 + 2}$ = $\frac{5}{12}$
+
+2 2 2 $\frac{5}{12}$
+2 2 3 $\frac{7}{17}$
+2 3 2 $\frac{7}{16}$
+2 3 3 $\frac{10}{23}$
+3 2 2 $\frac{5}{17}$
+3 2 3 $\frac{7}{24}$
+3 3 2 $\frac{7}{23}$
+3 3 3 $\frac{10}{33}$
+
+000 $\infty$
+001 1
+010 $\infty$
+011 2
+100 1
+101 $\frac{1}{2}$
+110 1
+111 $\frac{2}{3}$
+
+A B A - B
+A - B A - B
+
+[fig]Venn diagrams and logical relations[/fig]
+
+Something is not an admirer of himself
+Nothing is an

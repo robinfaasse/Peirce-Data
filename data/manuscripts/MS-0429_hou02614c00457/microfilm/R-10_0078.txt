@@ -1,0 +1,23 @@
+[pn]66[/pn]
+[pn]374[/pn]
+
+two signs which do this are [ins]$\bar{\curlywedge}$[/ins] and [ins]$\bar{\curlyvee}$[/ins].
+
+[del]276[/del] [ins]381[/ins] Suppose, then, we proceed to build the algebra upon these, together with the obelus. We shall then have no need of $\curlywedge$ and $\curlyvee$, since.
+
+$x \curlywedge y$ is $\bar{x} \bar{\curlyvee} \bar{y}$ and $x \curlyvee y$ is $\bar{x} \bar{\curlywedge} \bar{y}$.
+
+But the very frequently occurring relations $x \bar{\curlywedge} y$ and $x \bar{\curlyvee} y$ are still only capable of being expressed in a too complicated way
+
+$x \bar{\curlywedge} y$ is $x \bar{\curlyvee} y \bar{\curlyvee} \bar{x} \bar{\curlyvee} \bar{y}$ or $\bar{x} \bar{\curlyvee} \bar{y} \bar{\curlyvee} \bar{x} \bar{\curlyvee} \bar{y}$
+
+and $x \bar{\curlyvee} y$ is $\bar{x} \bar{\curlyvee} y \bar{\curlyvee} x \bar{\curlyvee} \bar{y}$ or $x \bar{\curlyvee} y \bar{\curlyvee} \bar{x} \bar{\curlyvee} \bar{y}$
+
+It will be best to retain one or both of them. Moreover, for logical reasons, the sign [del]$\bar{\curlywedge}$[/del] [ins]$\bar{\curlyvee}$[/ins] is of the greatest importance. From a logical point of view, we may say, as we shall see, that it is the most important of any; and even from an algebraical point of view, if we retain $\bar{\curlywedge}$ and $\bar{\curlyvee}$ as our usual signs, the most important formula of the algebra, apart from those of the commutative and associative principles, requires this sign for its convenient and clear expression. Namely, this formula is
+
+$(x \bar{\curlywedge} y \bar{\curlywedge} z) \bar{\curlyvee} (x \bar{\curlyvee} y \bar{\curlyvee} z)$
+$(x \bar{\curlyvee} y \bar{\curlyvee} z) \bar{\curlywedge} (x \bar{\curlywedge} y \bar{\curlywedge} z)$
+
+expressing a sort of associativeness involving the two signs $\bar{\curlywedge}$ and $\bar{\curlyvee}$.
+
+387 When we restrict ourselves to these signs, our system of representing the signs ceases to have much importance. It is more important that the signs used should be very easily made, and if possible, familiar. The right of the introducer of an operation to be commemorated in the shape of the sign will be conceded. To the sign $\bar{\curlywedge}$ many writers give the form $+$. But this is very inconvenient; since the latter usually signifies addition, which is

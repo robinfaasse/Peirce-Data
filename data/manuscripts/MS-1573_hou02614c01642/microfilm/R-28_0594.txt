@@ -1,0 +1,20 @@
+[pn]15[/pn]
+
+and we get
+$j_1 k_1 = -s'' v + v'$, $k_1 j_1 = s'' v - v'$,
+$k_1 i = -s' v + v''$, $i k_1 = s' v - v''$.
+
+Let us further suppose
+$(i j_1) k_1 = s''' + v'''$.
+Then, because $i j_1$ is a vector,
+$k_1 (i j_1) = s''' - v'''$.
+
+But
+$k_1 j_1 = -j_1 k_1$, $k_1 i = -i k_1$,
+because both products are vectors.
+Hence,
+$i . j_1 k_1 = -i . k_1 j_1 = -i k_1 . j_1 = k_1 i . j_1 = k_1 . i j_1$
+
+Hence
+$s''' + v''' = s''' - v'''$
+or $v''' = 0$, and [del]the[/del] [ins]the[/ins] product of [del]two[/del] [ins]two[/ins] unit vectors is a scalar. These vectors cannot, then, be independent or $k$ cannot be independent of $i j = v$. [del]Hence[/del] Thus it is proved that a fourth independent vector is impossible and that ordinary real algebra, [ins]ordinary[/ins] algebra with imaginaries and real quaternions are the only associative algebras in which [del]the[/del] division by finites always yields an unambiguous quotient. [[u]C.S.P.[/u]]

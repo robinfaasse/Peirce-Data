@@ -1,0 +1,51 @@
+[marginalia]
+Repeat last
+[/marginalia]
+
+[fig]2x2 grid with letters A, B, C, D[/fig] $\frac{B+C}{D} = \frac{A+B}{C+D} + \frac{A+C}{B+D}$
+
+$(B+C)(B+D)(C+D) = (A+B)(B+D)D$
+$+ (A+C)(C+D)D$
+
+$B^2C + [del]B^2[/del] [ins]$B$[/ins]D + BC^2 + 2BCD + BD^2 + [del]C^2D + CD^2[/del]$
+$= ABD + [del]AD^2[/del] [ins]$A$[/ins]D^2 + B^2D + BD^2 + ACD + [del]ACD[/del] [ins]$AD^2$[/ins] + CD^2$
+
+$BC(B+C+2D) = AD([del]B^2[/del] [ins]$B$[/ins] + C)$
+
+$BC(B+C) + 2BCD = AD(B+C) + 2A^2D$
+
+$(BC-AD)(B+C) = 2D(A^2-BC)$
+
+[del]So[/del] $(AD-BC)(B+C+2D) = 0$
+
+$B^2C + B^2D + BC^2 + 2BCD + BD^2 + C^2D + CD^2$
+$= [del]ABD + AD^2 + B^2D + BD^2 + ACD + CD^2[/del]$
+$ABD + 2AD^2 + B^2D + BD^2 + ACD + C^2D + CD^2$
+
+$BC(B+C+2D) = AD(B+C+2D)$
+
+***
+
+$(BC-AD)[(B+D)+(C+D)] = (C+D)CD$
+
+$(BC-AD)[B+C] + (BC-AD)2D = (C+D)CD$
+
+$\frac{B+C}{[del]A[/del] [ins]$D$[/ins]} = \frac{A+B}{C+D} + \frac{A+C}{B+D}$
+
+$(B+C)(B+D)(C+D) = (A+B)(B+D)D + (A+C)(C+D)D$
+
+$B^2C + B^2D + BC^2 + 2BCD + BD^2 + C^2D + CD^2 =$
+
+$ABD + [del]A^2D[/del] [ins]$AD^2$[/ins] + B^2D + BD^2 + ACD + [del]A^2D[/del] [ins]$C^2D$[/ins] + CD^2$
+
+$B^2C + BC^2 + 2BCD = ABD + ACD + 2AD^2$
+
+$BC(B+C+2D) = AD(B+C+2D)$
+
+$(AD-BC)(B+C+2D) = 0$
+
+[fig]2x2 grid with letters A, B, C, D[/fig] $\frac{A+B}{C+D} \cdot \frac{A+C}{B+D} = \frac{A}{B}$
+
+[del]$A^2BD + ACD$[/del]
+$A^2D + [del]ABD[/del] [ins]$AB$[/ins]D + [del]ACD[/del] [ins]$AC$[/ins]D + BCD$
+$= ABC + [del]ABD[/del] [ins]$AB$[/ins]D + [del]ACD[/del] [ins]$AC$[/ins]D + AD^2$

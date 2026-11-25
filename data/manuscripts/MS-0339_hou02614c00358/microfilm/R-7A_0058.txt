@@ -1,0 +1,65 @@
+[pn]95r[/pn]
+
+It would seem to follow
+
+since [ins]v[/ins] $C_{v,x} \equiv \sum^v C_x$
+
+that $C_{x+x+x+...} \equiv C_{n,x} \equiv n, C_x$
+
+But it plainly does not follow. Or rather that $n$ must be $\equiv 1$.
+
+It is true, however, that
+$C_{n,x} \equiv v, C_n, C_x$
+
+for [del]$C_{n,x+u} \equiv C$[/del] putting $u \equiv (1-n), y$
+$C_{n,x+u} \equiv C_x \equiv C_{n,x} + C_u$
+And so $C_n \equiv C_{n,x} + C_u$
+$\therefore C_n, C_x \equiv C_{n,x} + C_u, C_x$
+Hence putting $v \equiv [del](1-C_{u,x})[/del] (1-C_{u,n})$
+$v, C_n, C_x \equiv C_{n,x}$
+
+[marginalia]
+De Morgan
+$X..IY$
+$X.IY$
+$X..IMY$
+$X.IMY$
+$LM'$
+$L,M$
+$L''X$
+if $X..LY$ then $Y..L'X$
+$LY$
+$LCX$ (limited like)
+$l''$ is not $(l')'$
+[del]$L''$[/del]
+$LM))N$
+$l'n))m$
+$nM'))l$
+[/marginalia]
+
+Myself
+$X, (1-1-Y) \equiv 0$
+$X, LY \equiv 0$
+$X, (1-L-M-Y) \equiv 0$
+$X, LMY \equiv 0$
+$v(1-(1-L)-M)$
+$v(1-L-(1-M))$
+$L'X$
+$[l-(1-l'')] \equiv 0$
+$\left\{ \begin{array}{c} 1-l-Y \\ (1-l)-Y \end{array} \right\}$ De Morgan does not distinguish these, because he treats only singulars
+$(1-L-(1-X))$
+$L.(1-l)-X$
+[del]$(1-l')'-X \equiv 1-l'-X$[/del] [ins]$(1-l')'-X \equiv 1-l'-X$[/ins] not true in general.
+$(1-l')'-X \equiv (1-l)'-X$ This is true
+
+[fig]horizontal line[/fig]
+
+$1-M-L$
+Converse
+$M'-L'-x$
+Contrary
+$1-L-M-x$
+
+$1-M-1, [(1-N)-M'-L'] \equiv 0$ or $[L-M-N] \equiv 0$
+$l'-(1-N)-1, [M-(1-N')-L] \equiv 0$ $[M-N-L] \equiv 0$
+$(1-N)-M'-1, [L-M-(1-N')] \equiv 0$ $[L-M-N] \equiv 0$

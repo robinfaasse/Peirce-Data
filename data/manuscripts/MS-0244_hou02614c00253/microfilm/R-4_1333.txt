@@ -1,0 +1,36 @@
+The solution of the general problem seems
+wrong. This is not so. But it can be better stated as follows:
+
+$$\Phi x = \frac{\frac{a}{e} + \frac{b}{e} x}{\frac{c}{e} + x}$$
+
+1) $$\Phi^{n+1} = \frac{\frac{a}{e} + \frac{b}{e} \Phi^n}{\frac{c}{e} + \Phi^n}$$
+
+2) (3) $$\Phi^{n+1} + \frac{c}{e} = \frac{\frac{a}{e} + (\frac{c}{e})^2 + \frac{b+c}{e} \Phi^n}{\frac{c}{e} + \Phi^n} = \frac{\frac{b+c}{e} (\Phi^n + \frac{c}{e}) - \frac{bc}{e} + \frac{a}{e}}{\Phi^n + \frac{c}{e}}$$
+
+$$x + \frac{c}{e} = \frac{b+c}{e} + \frac{\frac{a}{e} - \frac{bc}{e}}{x + \frac{c}{e}}$$
+
+$$(x + \frac{c}{e})^2 - (b+c/e) [del]\frac{c+c}{e}[/del] [ins]x + \frac{c}{e}[/ins] = \frac{a}{e} - \frac{bc}{e}$$
+
+$$x = \alpha \quad x = \beta$$
+
+$$\Phi^n + \frac{c}{e} = \frac{u_{n+1}}{u_n}$$
+
+$$u_{n+2} - \frac{b+c}{e} u_{n+1} + (\frac{bc}{e} - \frac{a}{e}) u_n = 0$$
+
+(7) $$\begin{cases} \alpha = \frac{b+c}{2e} + \sqrt{(\frac{b-c}{2e})^2 + \frac{a}{e}} \\ \quad = \frac{b+c}{2e} + \frac{b-c}{2e} \sqrt{1 + \frac{4ae}{(b-c)^2}} \\ \beta = \frac{b+c}{2e} - \frac{b-c}{2e} \sqrt{1 + \frac{4ae}{(b-c)^2}} \end{cases}$$ [marginalia] ($\alpha$ and $\beta$ have now their designations interchanged) [/marginalia]
+
+$$u_n = C_1 \alpha^n + C_2 \beta^n$$
+
+(4) $$\Phi^n + \frac{c}{e} = \frac{C_1 \alpha^{n+1} + C_2 \beta^{n+1}}{C_1 \alpha^n + C_2 \beta^n} = \frac{\alpha^{n+1} + [del]C[/del] [ins]C_2/C_1[/ins] \beta^{n+1}}{\alpha^n + [del]C[/del] [ins]C_2/C_1[/ins] \beta^n}$$
+
+(14) $$x + \frac{c}{e} = \frac{\alpha + C \beta}{1 + C} \quad \frac{x + \frac{c}{e} - \alpha}{x + \frac{c}{e} - \beta} = C$$
+
+(16) $$\Phi^n + \frac{c}{e} = \frac{(x + \frac{c}{e}) \alpha^{n+1} - \alpha \beta \cdot \alpha^n - (x + \frac{c}{e}) \beta^{n+1} + \alpha \beta \cdot \beta^n}{(x + \frac{c}{e}) \alpha^n - \alpha \beta \cdot \alpha^{n-1} - (x + \frac{c}{e}) \beta^n + \alpha \beta \cdot \beta^{n-1}}$$
+
+$$= \frac{(x + \frac{c}{e}) (\alpha^{n+1} - \beta^{n+1}) - \alpha \beta (\alpha^n - \beta^n)}{(x + \frac{c}{e}) (\alpha^n - \beta^n) - \alpha \beta (\alpha^{n-1} - \beta^{n-1})}$$
+
+$$n = 1$$
+
+$$\Phi x + \frac{c}{e} = \frac{(x + \frac{c}{e}) (\alpha^2 - \beta^2) - \alpha \beta (\alpha - \beta)}{(x + \frac{c}{e}) (\alpha - \beta)} = (\alpha + \beta) - \frac{\alpha \beta}{x + \frac{c}{e}}$$
+
+$$= \frac{b+c}{e} + \frac{\frac{a}{e} - \frac{bc}{e}}{x + \frac{c}{e}}$$

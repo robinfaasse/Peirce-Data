@@ -1,0 +1,19 @@
+11
+
+The solution of this equation is
+$$p = ql + [del]dn[/del] \frac{\partial p}{\partial n} (n [del]+ 1[/del])$$
+[del]where dn is the small less is the number of[/del]
+where [del]put[/del] $\frac{\partial p}{\partial n}$ is the amount by which the price
+would have to be lowered in order to sell
+one policy more. Of course if the price were raised instead
+of lowered just one policy fewer would be sold.
+For then by so lowering the [del]price[/del] profit from [del]berry[/del]
+$(p - ql)n$
+would be changed to
+$(p - ql - \frac{\partial p}{\partial n})(n + 1)$
+that is, to
+$(p - ql)n + p - ql - \frac{\partial p}{\partial n}(n + 1)$ and [ins]This being less than before [del]ql + $\frac{\partial p}{\partial n}(n+1) > p$[/del][/ins]
+But since the [del]p $(p - ql)n$[/del] is a maximum the
+value cannot be changed and consequently
+$$p = ql + \frac{\partial p}{\partial n}(n + 1)$$
+[fig]figure[/fig]

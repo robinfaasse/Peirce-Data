@@ -1,0 +1,45 @@
+[pn]148[/pn]
+
+We subtract from the [del]eight[/del] Column VI [del]I[/del] [ins]$f$[/ins] times column V. This
+makes all the numbers in Row VI zero except that in Col [del]VI[/del] [ins]V[/ins].
+We therefore erase Row VI and Col V and get
+
+$$\begin{matrix}
+5 & 0 & 1 & 0 & -17 & a \\
+0 & 1 & 0 & 0 & 0 & b \\
+1 & -4 & -9 & 1 & 0 & c \\
+-5 & 2 & 5 & 95 & 25 & 5\frac{11}{7} + 2d - 22f \\
+0 & 0 & 1 & -9 & 1 & e + 4f \\
+-13 & 0 & 0 & 1 & 11 & g
+\end{matrix}$$
+
+Now for Column VI we substitute VI - [del]6[/del] [ins]b[/ins] II. This makes all the
+numbers of Row II [del]zero[/del] except in Column II. We erase Row II and Col II.
+
+$$\begin{matrix}
+5 & [del]0[/del] & 0 & -17 & a \\
+1 & -9 & 1 & 0 & 4b+c \\
+-5 & 5 & 95 & 25 & 5\frac{11}{7} - 2b + 2d - 22f \\
+0 & 1 & -9 & 1 & e + 4f \\
+-13 & 0 & 1 & 11 & g
+\end{matrix}$$
+
+For Row III we substitute III + I, making it
+$$\begin{matrix}
+0 & 6 & 95 & 8 & 5\frac{11}{7} + a - 2b + 2d - 22f
+\end{matrix}$$
+
+For Row V we substitute V + 3 I, making it
+$$\begin{matrix}
+2 & 3 & 1 & -40 & 3a + g
+\end{matrix}$$
+
+For Row I we substitute I - 5 II, making it
+$$\begin{matrix}
+0 & 46 & -5 & -17 & a - 20b - 5c
+\end{matrix}$$
+
+For Row V we substitute V - 2 II, making it
+$$\begin{matrix}
+0 & 21 & -1 & -40 & 3a - 8b - 2c + g
+\end{matrix}$$

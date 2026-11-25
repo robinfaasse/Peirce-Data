@@ -1,0 +1,36 @@
+[pn]§ 164 & 11. Fig 20.[/pn]
+
+$$(x^2-x)^2 \log (x^2-x) = y$$
+
+$$D_x y = \tan \tau = [del]x^2-x[/del] + (4x^3 - 6x^2 + 2x) \log (x^2-x) + [del]\frac{1}{x^2-x}[/del] + \log (2x-1)$$
+$$D_x^2 y = [del]4[/del]x - 3 + (6x^2 - 6x + 1) \log (x^2-x) [del]- \frac{1}{x^2-x}[/del] - \frac{2x-1}{(x^2-x)^2} + \frac{1}{2x-1} + \log 2$$
+
+When $x = \pm \infty$ $y = \infty$ $\tan \tau = \infty$ $\tau = \frac{\pi}{2}$
+When $x = 0$ or $= 1$ By § 109 Ex 3 $y = 0$ $\tan \tau = 0$ $\tau = 0$
+
+When $x$ is a little less than $0$ or a little more than $1$, $(x^2-x)$ is a very small fraction $\log (x^2-x)$ is negative $y = -$
+When $x$ is a very large $\pm$ quantity $y = +$
+When $x > 0$ & $x < 1$ $y$ is imaginary.
+
+Every value of $(x^2-x)$ gives one value of $y$ & two of $x$, hence the curve is symmetrical, $x = .5$ being the middle point.
+
+[u]Points of Contrary Flexure[/u].
+
+$$D_x^2 y = 0$$
+$$\log (x^2-x) = \frac{3-6x}{6x^2-6x+1} - \frac{1}{(x^2-x)^2(2x-1)}$$
+
+$$\log 2(x^2-x) = \frac{4x-2 + \frac{(x^2-x)^2 - (2x-1)}{(x^2-x)^2(2x-1)}}{6x^2-6x+1}$$
+$$= \frac{4x-2}{6x^2-6x+1} + \frac{(x^2-x)^2 - (2x-1)^2}{6x^6-18x^5+45x^4-56x^3+35x^2-10x+1}$$
+$$= \frac{4x-2}{6x^2-6x+1} + \frac{1}{(2x-1)^2} - \frac{1}{(x^2-x)^2}$$
+
+[u]Points of Minimum[/u]
+
+$$D_x y = 0$$
+[del]\log (x^2-x) = \frac{1}{4x^2-6x+2}[/del]
+
+[u]Points where curve crosses the axis of $x$[/u].
+
+$$y = 0$$
+$$\log (x^2-x) = 0$$
+$$x^2-x = 1$$
+$$x = 1.618 \text{ & } x = -.618$$

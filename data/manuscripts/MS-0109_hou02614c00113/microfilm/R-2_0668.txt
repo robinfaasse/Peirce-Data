@@ -1,0 +1,19 @@
+[pn]Ms. 109[/pn] [u]Pythagorean Triangles.[/u] [pn]Math 1A - Box 2[/pn]
+
+§1. A Pythagorean triangle is a right triangle [del]of which[/del] whose legs and hypotheneuse have all one common measure.
+
+§2. Let A, B, H, be the lengths of the legs and hypotheneuse of any Pythagorean triangle, expressed as [ins]integer[/ins] multiples of their common measure as unity.
+
+§3. The Pythagorean proposition gives
+$$A^2 + B^2 = H^2.$$
+
+§4. Any two of the three numbers A, B, H are prime to one another. For every divisor of two would, by §3, be a divisor of the third, contrary to §2.
+
+§5. It follows from §4 that A and B cannot both be even. Nor can they both be odd. For in that case they would be of the forms
+$$\begin{matrix} A = 2M + 1 \\ B = 2N + 1 \end{matrix}$$
+where M and N would be integers. Then the sum of their squares would be of the form
+$$A^2 + B^2 = 4[M(M+1) + N(N+1)] + 2.$$
+This is even and therefore is not the square of an odd number; but it is not divisible by $2^2$ and hence is not [del]the square of[/del] an even number. Hence, it is not the square of any integer, contrary to §3. Thence, since A and B are neither both odd nor both even, one is even (assume this to be A and the other is odd; and H is always odd. Since A is even, if we denote $\frac{1}{2}A$ by U, U is an integer.
+
+§6. By §5, H+B and H-B are even numbers, so that denoting their halves by [del]S[/del] [ins]S[/ins] [del]D[/del] [ins]D[/ins]
+$$\begin{matrix} S = \frac{1}{2}(H+B) \\ D = \frac{1}{2}(H-B) \end{matrix}$$

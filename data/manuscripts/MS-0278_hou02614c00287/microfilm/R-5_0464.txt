@@ -1,0 +1,53 @@
+[pn]4[/pn]
+
+We thus find that
+[del][u]1[/u]
+(x-a)(x-b)(x-c)(x-d)(x-e)[/del] = [u]1[/u]
+(x-a)(a-b)(a-c)(a-d)(a-e)
++ [u]1[/u]
+(b-a)(x-b)(b-c)(b-d)(b-e)
++ [u]1[/u]
+(c-a)(c-b)(x-c)(c-d)(c-e)
++ [u]1[/u]
+(d-a)(d-b)(d-c)(x-c)(d-e)
++ [u]1[/u]
+(e-a)(e-b)(e-c)(e-d)(x-e)
+
+Where the rule is successively to substitute for x, the constants
+a, b, c, d, e, wherever each can be substituted without
+making the fraction infinite, and adding the results.
+But what if two or more of these constants are equal?
+Since [u]1[/u]
+(x-a)(x-b)(x-c) = [u]1[/u]
+(x-a)(a-b)(a-c) + [u]1[/u]
+(b-a)(x-b)(b-c) + [u]1[/u]
+(c-a)(c-b)(x-c)
+we have, for example,
+[u]1[/u]
+(x-a)³(x-b)(x-c) = [u]1[/u]
+(x-a)³(a-b)(a-c) + [u]1[/u]
+[del](x-a)³[/del](x-b)(b-a)(b-c) + [u]1[/u]
+(c-a)³(c-b)(x-c)
+But since [u]1[/u]
+(x-a)(x-b) = [u]1[/u]
+(x-a)(a-b) + [u]1[/u]
+(b-a)(x-b) it follows that
+[u]1[/u]
+(x-a)²(x-b) = [u]1[/u]
+(x-a)²(a-b) + [u]1[/u]
+[del](x-a)[/del](b-a)(x-b)
+= [u]1[/u]
+(x-a)²(a-b) + [u]1[/u]
+(x-a)(b-a)(a-b) + [u]1[/u]
+(b-a)(b-a)(x-b)
+And so
+[u]1[/u]
+(x-a)²(c-a)(c-b)(x-c) = [u]1[/u]
+x-a {[u]1[/u]
+(x-a)(c-a)(c-b)(a-c) + [u]1[/u]
+(c-a)(c-a)(c-b)[del](x-c)[/del]}
+= [u]1[/u]
+[del](x-a)²(c-a)(c-b)[/del](a-c) + [u]1[/u]
+(x-a)(c-a)(c-b)(a-c)
++ [u]1[/u]
+(c-a)(c-a)(c-a)(c-b)[del](x-c)[/del]

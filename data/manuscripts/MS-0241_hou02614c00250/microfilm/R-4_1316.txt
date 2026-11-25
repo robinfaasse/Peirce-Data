@@ -1,0 +1,38 @@
+Here we see that the value of the ratio [ins]$\frac{(A^B - B^A)^{XY}}{A^B - B^A}$[/ins] is independent of the value of $A^B - B^A$; [del]not[/del] [ins]not[/ins] merely [del]allowing[/del] [ins]valuing[/ins] the latter to vary numerically but also in respect so long as $(X^Y - Y^X)$ is also changed to such a value that $\frac{A^B - B^A}{A'^B - B'^A} = \frac{X^Y - Y^X}{X'^Y - Y'^X}$. In the above demonstration [del]E & F[/del] [ins]$E$ & $F$[/ins] are changed to $G \times H$; $I \times J$ to $K \times L$.
+
+[pn]I.[/pn]
+
+[fig]Triangle with vertices A, C, O and internal lines to B, D[/fig]
+
+[fig]Intersecting lines forming triangles with vertices A, B, C, D, O[/fig]
+
+$n \cdot (O^A - A^O) : (O^D - D^O) = (O^C - C^O) : (O^B - B^O)$
+
+$\begin{aligned}
+(O^A - A^O)^{O_B} &= (O^B - B^O) \\
+(O^C - C^O)^{O_B} &= [del](O^B - B^O)[/del] [ins]$(O^B - B^O)$[/ins] \\
+(O^B - B^O)^{O_D} &= (O^D - D^O)
+\end{aligned}$
+
+$\begin{aligned}
+X(O^A - A^O) : (O^D - D^O) &= (O^A - A^O)^{XY} : (O^D - D^O)^{XY} \\
+(O^C - C^O) : (O^B - B^O) &= (O^C - C^O)^{XY} : (O^B - B^O)^{XY}
+\end{aligned}$
+
+$\begin{aligned}
+(O^A - A^O)^{O_C} &= (O^B - B^O) \\
+(O^C - C^O)^{O_A} &= (O^D - D^O)
+\end{aligned}$
+
+$\frac{(O^A - A^O)^{O_C}}{O^A - A^O} = \frac{(O^C - C^O)^{O_A}}{O^C - C^O}$
+
+$\frac{O^B - B^O}{O^A - A^O} = \frac{O^D - D^O}{O^C - C^O}$
+
+$(O^A - A^O) : (O^A - A^O)^{O_C} = (O^D - D^O) : (O^D - D^O)^{O_C}$
+
+$\frac{(O^C - C^O)^{O_A}}{((O^C - C^O)^{[del]O_A}[/del])^{O_C}} = \frac{(O^A - A^O)^{O_C}}{(O^A - A^O)^{O_C O_A}}$
+
+$\begin{aligned}
+&= (O^C - C^O)^{O_A} : (O^C - C^O)^{[del]O_A[/del] O_C} \\
+(O^C - C^O)^{O_A} : (O^A - A^O)^{O_C O_A} &= (O^C - C^O) : (O^A - A^O)^{O_C}
+\end{aligned}$

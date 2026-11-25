@@ -1,0 +1,34 @@
+Assume $x$ to be measured horizontally increasing with the numbers of the particles
+$y$ to be measured vertically upward.
+
+Then,
+(1) $\begin{cases} x' = x - x_H, & x_0 = 0, & x'_0 = -x_H, & x'_H = 0 & \text{; } x_{N+1} = \text{the span ;} \\ y' = y - y_H \text{ ,} & y_0 = 0 \text{ ,} & y'_0 = -y_H & y'_H = 0. \end{cases}$
+
+Use $\Sigma$ or $\Delta$, with or without indications of limits, as follows:
+$\Delta u_n = \sum_i^{n-1} u_i = u_{n+1} - u_n$
+$\Sigma u_n = \sum_i^{n-1} u_i$ [del]+ Arbitrary constant[/del] $= u_{n-1} + u_{n-2} + \dots + u_1 + u_0 + \text{Const.}$
+
+Use,
+$s$ for the length of the cord from the origin to the variable point
+increasing with the numbers of the stretches,
+
+$\tau$ for the inclination of the variable stretch to the horizon turning from the
+positive direction of increase of $x$ round the short way toward the positive
+direction of increase of $y$,
+
+$\rho$ for the radius of curvature
+
+$\omega$ for the weight passed in moving along $s$ in the direction of its increase
+from the origin to the variable point; and $\omega$ is to take the sign of $s$.
+$\begin{array}{lllll} s' = s - s_H & s_0 = 0 & s'_0 = -s_H & s'_H = 0 & s_{N+1} = \text{total length of cord.} \\ \omega' = \omega - \omega_H & \omega_0 = 0 & \omega'_0 = - \omega_H & \omega'_H = 0 & \omega_N = \omega_{N+1} = \text{Total weight.} \end{array}$
+
+[marginalia][del]Contrary to astronomical sign[/del][/marginalia] $\bar{\xi}(p,q) = \bar{\xi}(q,p)$ for the value of $x$ for the centre of gravity of the weights between the
+$p^{\text{th}}$ and $q^{\text{th}}$ stretches; and we may, for short, write $\bar{\xi}_p$ for $\bar{\xi}(0,p)$
+
+$\bar{\eta}(p,q) = \bar{\eta}(q,p)$ to be similarly used for the value of $y$ for the centre of gravity,
+
+$\Xi$ [del]to be the values of $x$ for the[/del] [ins]resultant[/ins] of the vertical pressures on the towers.
+
+$q$ the tension on the cord at any point,
+$Q$ its horizontal component,
+$P$ its vertical component.

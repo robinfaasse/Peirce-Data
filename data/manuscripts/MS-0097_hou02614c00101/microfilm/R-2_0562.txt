@@ -1,0 +1,25 @@
+[pn]15[/pn] The "Census-theorem" is that the Census Value of any place is unaffected by cutting it up by boundaries of lower dimensionality.
+
+I will give a few examples of the utility of this.
+
+Into how many compartments can the surface of an anchor ring be divided by simple lines meeting in summits three to a summit [fig]three lines meeting at a point[/fig] and so that every compartment abuts upon every other along a single boundary?
+
+We calculate the census-value of the plain ring-surface.
+
+$$\begin{array}{ll}
+\text{Chorisy} & +1 \\
+\text{Cyclosy} & \\
+\text{Periphery} & +1 \\
+\text{Apeiry} & 0
+\end{array} \quad +2$$
+
+$$\text{Census Value} \quad (+2) - (+2) = 0$$
+
+Let this be cut up into $x$ compartments. Each compartment will have $x-1$ bounding lines, and since each of these belongs to two compartments, the total number of these lines will be $\frac{x(x-1)}{2}$. Each compartment has $x-1$ summits; and since each belongs to three compartments their number will be $\frac{x(x-1)}{3}$. Hence the Census-Value after the division will be
+
+$$\begin{array}{ll}
+\text{Points} & \frac{x(x-1)}{3} \\
+\text{Lines} & \quad - \frac{x(x-1)}{2} \\
+\text{Surfaces} & x \\
+\hline \text{Total} & \frac{7x}{6} - \frac{x^2}{6}
+\end{array}$$

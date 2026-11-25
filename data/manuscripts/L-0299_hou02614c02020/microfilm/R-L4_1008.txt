@@ -1,0 +1,31 @@
+[pn]12[/pn]
+
+$$\frac{0}{1} < \frac{1}{1}$$
+
+$$\frac{0}{1} = \frac{0}{2} < \frac{1}{2} < \frac{1}{1}$$
+
+$$\frac{0}{1} = \frac{0}{3} = \frac{0}{2} < \frac{1}{3} < \frac{1}{2} < \frac{2}{3} < \frac{1}{1}$$
+
+$$\frac{0}{1} = \frac{0}{3} = \frac{0}{4} = \frac{0}{2} < \frac{1}{4} < \frac{1}{3} < \frac{1}{2} = \frac{2}{4} < \frac{2}{3} < \frac{3}{4} < \frac{1}{1}$$
+
+$$\frac{0}{1} = \frac{0}{5} = \frac{0}{3} = \frac{0}{4} = \frac{0}{2} < \frac{1}{5} < \frac{1}{4} < \frac{1}{3} < \frac{2}{5} < \frac{1}{2} = \frac{2}{4} < \frac{3}{5} < \frac{2}{3} < \frac{3}{4} < \frac{4}{5} < \frac{1}{1}$$
+
+$$\frac{0}{1} = \frac{0}{5} = \frac{0}{3} = \frac{0}{6} = \frac{0}{4} = \frac{0}{2} < \frac{1}{6} < \frac{1}{5} < \frac{1}{4} < \frac{1}{3} = \frac{2}{6} < \frac{2}{5} < \frac{1}{2} = \frac{3}{6} = \frac{2}{4} < \frac{3}{5} < \frac{2}{3} = \frac{4}{6} < \frac{3}{4} < \frac{4}{5} < \frac{5}{6} < \frac{1}{1}$$
+
+§ 2.3.2 By the use of addition only we can set down all rational positive quantities in their order of magnitude and expressed in their lowest terms, [del]thus[/del] by beginning with $\frac{0}{1}$ [ins]$\frac{1}{0}$[/ins] and then going through the row over and over setting down in each interval a fraction whose numerator and denominator are respectively the sums of those to the immediate right & left hand of the interval.
+
+Thus
+
+$$\frac{0}{1} \qquad\qquad\qquad\qquad\qquad\qquad \frac{1}{1} \qquad\qquad\qquad\qquad\qquad\qquad \frac{1}{0}$$
+
+$$\frac{1}{2} \qquad\qquad\qquad\qquad\qquad\qquad \frac{2}{1}$$
+
+$$\frac{1}{3} \qquad\qquad\qquad\qquad \frac{2}{3} \qquad\qquad\qquad\qquad \frac{3}{2} \qquad\qquad\qquad\qquad \frac{3}{1}$$
+
+$$\frac{1}{4} \qquad\qquad \frac{2}{5} \qquad\qquad \frac{3}{5} \qquad\qquad \frac{3}{4} \qquad\qquad \frac{4}{3} \qquad\qquad \frac{5}{3} \qquad\qquad \frac{5}{2} \qquad\qquad \frac{4}{1}$$
+
+$$\frac{1}{5} \quad \frac{2}{7} \quad \frac{3}{8} \quad \frac{3}{7} \quad \frac{4}{7} \quad \frac{5}{8} \quad \frac{5}{7} \quad \frac{4}{5} \quad \frac{5}{4} \quad \frac{7}{5} \quad \frac{8}{5} \quad \frac{7}{4} \quad \frac{7}{3} \quad \frac{8}{3} \quad \frac{7}{2} \quad \frac{5}{1}$$
+
+$$\frac{1}{6} \ \frac{2}{9} \ \frac{3}{11} \ \frac{3}{10} \ \frac{4}{11} \ \frac{5}{13} \ \frac{5}{12} \ \frac{5}{9} \ \frac{5}{8} \ \frac{7}{11} \ \frac{8}{13} \ \frac{7}{10} \ \frac{7}{9} \ \frac{8}{11} \ \frac{7}{8} \ \frac{9}{11} \ \frac{9}{10} \ \frac{11}{12} \ \frac{11}{13} \ \frac{10}{11} \ \frac{9}{8} \ \frac{9}{7} \ \frac{12}{11} \ \frac{13}{11} \ \frac{11}{9} \ \frac{11}{8} \ \frac{10}{7} \ \frac{11}{7} \ \frac{9}{5} \ \frac{9}{4} \ \frac{8}{3} \ \frac{6}{1}$$
+
+Of course, I prove the properties of this series, which is easy enough.

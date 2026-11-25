@@ -1,0 +1,19 @@
+[marginalia]
+[pn]7[/pn]
+[/marginalia]
+
+[date]March 3[/date]
+
+$D_u \operatorname{sn} u = \operatorname{cn} u \cdot \operatorname{dn} u$
+$D_u^2 \operatorname{sn} u = -\operatorname{sn} u (\operatorname{dn} u)^2 - k^2 \operatorname{sn} u (\operatorname{cn} u)^2$
+
+$D_u \operatorname{cn} u = -\operatorname{sn} u \cdot \operatorname{dn} u$
+$D_u^2 \operatorname{cn} u = -\operatorname{cn} u \cdot (\operatorname{dn} u)^2 + k^2 (\operatorname{sn} u)^2 \operatorname{cn} u$
+
+$\Delta \varphi = \sqrt{1 + k^2}$
+$z = \int \frac{d\varphi}{\Delta \varphi}$
+$D_\varphi z = \frac{1}{\Delta \varphi}$
+
+[del]$x + \sin 2x$[/del]
+$z = A_0 x + A_1 \sin x + A_2 \sin 2x + A_3 \sin 3x + \text{etc}$
+$D_x^2 z = -A_1 \sin x - 4 A_2 \sin 2x - 9 A_3 \sin 3x + \text{etc}$

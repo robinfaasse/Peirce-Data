@@ -1,0 +1,59 @@
+[pn]Page 12[/pn] Even p.
+
+[del]A_x = [ins](-1)^x[/ins] u_x[/del]
+
+[del]\frac{(-1)^x}{u_{x+1}}[/del]
+
+[del]Q_{x+1}[/del]
+
+A_x = P_x - \frac{Q_{x+1}}{A_{x+1}}
+
+A_{x+1} = P_{x+1} - \frac{Q_{x+2}}{A_{x+2}}
+
+A_x = P_x - \frac{Q_{x+1}}{P_{x+1} - \frac{Q_{x+2}}{A_{x+2}}}
+
+A_{x+1} = \frac{Q_{x+1}}{P_x - A_x} = \frac{Q_{x+1}}{P_x - \frac{Q_x}{P_{x-1} - \dots}}
+
+A_x = \frac{Q_x}{P_{x-1} - A_{x-1}}
+
+A_{x+1} = \frac{\frac{Q_{x+1}}{P_x}}{1 - \frac{A_x}{P_x}}
+
+A_x = \frac{\frac{Q_x}{P_{x-1}}}{1 - \frac{A_{x-1}}{P_{x-1}}}
+
+A_{x+1} = \frac{Q_{x+1}}{P_x - A_x} = \frac{Q_{x+1}}{P_x - \frac{Q_x}{P_{x-1} - A_{x-1}}}
+
+A_{x+1} = \frac{Q_{x+1}}{P_x - \frac{Q_x}{P_{x-1} - \frac{Q_{x-1}}{P_{x-2} - \frac{Q_{x-2}}{etc}}}}$$
+
+[pn]Page 11[/pn]
+
+The equation \frac{Q_{x+1}}{A_{x+1}} = P_x - A_x
+
+is very easily solved
+we have only to take
+
+[del]A_x = u_x^{(-1)^x}[/del]
+
+[del]A_{x+1} = u_{x+1}^{(-1)^{x+1}}[/del]  \frac{1}{A_{x+1}} = u_x^{(-1)^x}
+
+[del]Q_{x+1} u_{x+1} = P_x - u_{x+1}[/del]
+
+[del]u_x = (E + Q_{x+1})^{-1} P_x = \frac{1}{\prod(1+Q_x)} \sum \frac{P_x}{\prod Q_{x+1}}[/del]
+
+- \frac{1}{A_{x+1}} = u_x
+
+A_x = u_{x+1}
+
+u_{x+1} - Q_{x+1} u_x = P_x
+
+\frac{1}{A_{x+1}} = u_x = \prod Q_x \sum \frac{P_x}{\prod Q_{x+1}}
+
+A_{x+1} = - \frac{1}{u_x}
+
+A_x = u_{x+1}
+
+A_{x-1} = - \frac{1}{u_{x+2}}
+
+[del]A_{x-2} = u_{x-3}[/del]
+
+[del]A_x = A_{x+1} = \prod Q_{x+1} \sum \frac{P_{x+1}}{\prod Q_x}[/del]
+etc

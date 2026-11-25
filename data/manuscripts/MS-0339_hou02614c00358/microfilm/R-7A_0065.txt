@@ -1,0 +1,45 @@
+[pn]58R[/pn]
+
+If $e^x = y$
+we must write $x = \log_e y$
+
+But we may have also
+$e^x = y$ though $x \cdot 0 = 0$
+$\therefore x = \log_e y$
+$\therefore \log_e y$ must be an indeterminate expression.
+$\log_e e = 1$
+$\log_e 1 = 0$ generally
+& always $\log_e 1 = 0$
+
+Now in order to get at formula for development,
+without which Boole's Calculus is nothing, let us
+see if we can get at something like Taylor's Theorem.
+
+Let $\phi x + \Delta_1 \phi x = \phi(x + \Delta_1 x)$
+where $\Delta_1 x$ is whatever we please.
+Let us rather take
+$\Delta_1 \phi x = \phi(x + \Delta x) - \phi x$
+where $\Delta x$ is anything not $0$
+
+Let $\phi x = x + a$
+$\Delta(x+a) = (x + \Delta x) + a - (x + a)$
+$= \Delta x$
+
+Let $\phi x = a_1 x$
+$\Delta(a_1 x) = a_1(x + \Delta x) - a_1 x$
+$= a_1 \Delta x$
+
+Let $\phi x = 1 - x$
+$\Delta(1-x) = 1 - (x + \Delta x) - (1 - x)$
+$= - \Delta x$
+
+Let $\phi x = e^x$
+$\Delta e^x = e^{x + \Delta x} - e^x$
+$= e^x \cdot e^{\Delta x} - e^x$
+$= e^x (1 - e^{\Delta x})$
+
+Let $\phi x = x^a$
+$\Delta x^a = (x + \Delta x)^a - x^a$
+
+$\Delta(\phi x + \psi x) = \phi(x + \Delta x) + \psi(x + \Delta x) - (\phi x + \psi x)$
+$= \Delta \phi x + \Delta \psi x$

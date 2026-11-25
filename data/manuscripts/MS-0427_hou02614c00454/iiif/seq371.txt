@@ -1,0 +1,15 @@
+Logic [ured]II[/ured]
+84
+one system. It may be called
+[u]Rescue From Parallelism.[/u]
+[u]A Possible Rescue from Parallelism.[/u]
+
+$r_1$ $\theta_1$ [fig]figure[/fig]
+$r_2$ $\theta_3$
+$r_3$ $\theta_3$
+[fig]figure[/fig]
+$r_1 \sin \theta_1 + r_2 \sin \theta_2$
+$a^2 + b^2 - 2ab \cos C$
+[del]$R^2 + r_1^2 - 2 r_1 R \cos (\theta_1 - \Theta)$[/del] $(r_1 + r_2) = 2R \frac{r_1 \cos (\theta_1 - \Theta) - r_2 \cos (\theta_2 - \Theta)}{r_1 - r_2}$
+$= [del]R^2[/del] + r_2^2 - 2 r_2 R \cos (\theta_2 - \Theta)$
+$= [del]R^2[/del] + r_3^2 - 2 r_3 R \cos (\theta_3 - \Theta)$

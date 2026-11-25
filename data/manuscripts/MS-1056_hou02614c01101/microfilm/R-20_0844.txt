@@ -1,0 +1,23 @@
+$${}^1\sigma_m = 1\ {}^1\sigma_{m+1} + 0\ {}^2\sigma_{m+1} + 1\ {}^1\sigma_{m-1}$$
+$${}^1\gamma_{m+1} = 0\ {}^1\sigma_{m+1} + 1\ {}^1\sigma_{m+1}$$
+
+$$\begin{matrix}
+1 & 0 & 1 \\
+0 & 1 & 1
+\end{matrix}$$
+
+$${}^1\sigma_m = {}^1\sigma_{m+1} + {}^1\gamma_m$$
+$${}^1\gamma_{m+1} = {}^1\gamma_m + {}^1\sigma_{m-1}$$
+$$= 2\ {}^1\sigma_{m-1} + {}^1\sigma_{m-2}$$
+$$= {}^1\sigma_{m-1} + 2\ {}^1\sigma_{m-2} + {}^1\sigma_{m-3}$$
+$$= [del]{}^1\sigma_{m-1} + {}^1\sigma_{m-2} + {}^1\sigma_{m-3} + {}^1\sigma_{m-4}[/del]$$
+$${}^1\sigma_m = 1\ {}^1\sigma_{m-2} + 2\ {}^1\sigma_{m-3} + {}^1\sigma_{m-4}$$
+$${}^1\gamma_{m+1} =$$
+$${}^1\sigma_m = [del]{}^1\gamma_{m-1}[/del] + [del]{}^1\sigma_{m-2}[/del]$$
+$${}^1\gamma_{m+1} = [del]{}^1\gamma_{m-1}[/del] + 2\ {}^1\sigma_{m-2} + {}^1\sigma_{m-3}$$
+
+$${}^1\sigma_{m+n+3} = {}^1\gamma_{m+2}\ {}^1\sigma_{n+1} + {}^1\gamma_{m+1}\ {}^1\sigma_{n+2} + {}^1\gamma_m\ [del]{}^1\gamma_n[/del]\ {}^1\gamma_n$$
+$${}^1\sigma_{m+n+1} = {}^1\gamma_{m+1}\ {}^1\sigma_n + {}^1\sigma_m\ {}^1\gamma_{n+1} + {}^1\gamma_{m-1}\ {}^1\gamma_{n-1}$$
+$${}^1\gamma_{m+n+2} = {}^1\sigma_{m+1}\ {}^1\gamma_{n+1} + {}^1\gamma_{m+1}\ {}^1\sigma_n + {}^1\sigma_m\ {}^1\sigma_{n+1}$$
+$${}^1\gamma_{m+n+p+1} = {}^1\sigma_{m+1}\ {}^1\sigma_{n+1}\ {}^1\sigma_p + {}^1\sigma_{m+1}\ {}^1\gamma_n\ {}^1\gamma_{p+1} + {}^1\gamma_{m+1}\ {}^1\sigma_{n+1}\ {}^1\sigma_{p+1} + {}^1\gamma_{m+1}\ {}^1\gamma_n\ [del]{}^1\gamma_{p+1}[/del]\ {}^1\sigma_{p+2}$$
+$${}^1\gamma_{m+n+1} = {}^1\sigma_{m+2}\ {}^1\gamma_{n+2} - {}^1\sigma_{m+1}\ {}^1\gamma_{n+1} - {}^1\sigma_m\ {}^1\gamma_n + {}^1\gamma_{m-1}\ {}^1\gamma_{n-1}$$

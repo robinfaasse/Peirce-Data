@@ -1,0 +1,27 @@
+[pn]16[/pn] Equating this to 0, we get x = 7.
+
+Into how many such compartments can a projective plane be cut up? Here we have
+
+$$\begin{array}{lc}
+\text{Chorisy} & +1 \\
+\text{Cyclosy} & \\
+\text{Periphery} & +1 \\
+\text{Apeiry} & 0
+\end{array} \quad +1$$
+
+$$\text{Census Value} \quad \underline{(+2) - (+1) = +1}$$
+
+[fig]Circular diagram divided into numbered sectors[/fig]
+
+Hence, $\frac{7x}{6} - \frac{x^2}{6} = 1 \qquad x = 6$
+
+Into how many can the surface of a sphere be cut up?
+
+$$\begin{array}{lc}
+\text{Chorisy} & 1 \\
+\text{Cyclosy} & \\
+\text{Periphery} & 1 \\
+\text{Apeiry} &
+\end{array} \quad \begin{array}{c} \\ 0 \\ \\ 0 \end{array}$$
+
+$$\text{Census value} \quad \underline{2} \qquad \frac{7x}{6} - \frac{x^2}{6} = 2 \qquad x = 4$$

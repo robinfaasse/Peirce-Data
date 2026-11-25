@@ -1,0 +1,29 @@
+[marginalia]
+[pn]Logic[/pn]
+[pn]III[/pn]
+[pn]137[/pn]
+
+[date]JAN 31 1902[/date]
+[/marginalia]
+
+But if [u]a[/u] has the value [u]f[/u], being a component, the composite
+is [u]f[/u], no matter how the other components be transformed.
+
+[del]XIX[/del] [ins]Corollary.[/ins] It follows that if the negative of an
+aggregant occurs in any part of the aggregate as a
+component, it may be omitted.
+
+XIX. [u]A quantity which is a component of every aggre-[/u]
+[u]gant of an aggregate may be introduced as a component[/u]
+[u]of the whole[/u] [del]without altering the value[/del] [ins]and omitted as such[/ins]; [u]and it may then be[/u]
+[u]omitted from the[/u] [del]aggregants[/del] [ins]aggregants[/ins] [u]without altering the value[/u].
+
+[u]Demonstration[/u]. I have to prove that [u]ax + bx + cx + etc.[/u]
+has the same value as [u](a x + b x + c x + etc.) · x[/u] [ins]and also[/ins] [del]and further[/del]
+the same value as [u](a + b + c + etc.) · x[/u].
+
+First, suppose that the value of [u]ax + bx + cx + etc.[/u] is [u]v[/u].
+Then, by the third clause of the definition of composition, the value of
+[u](a x + b x + c x + etc.) · (a x + b x + c x + etc.)[/u] will also be [u]v[/u].
+But then, omitting components, [u](a x + b x + c x + etc.) · (x · x · x · etc)[/u]
+will also be [u]v[/u]. But then, [u](a x + b x + c x + etc.) · x[/u] will be [u]v[/u].

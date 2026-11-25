@@ -1,0 +1,19 @@
+[u]Transformation of the 4 Systems of Coordinates[/u]
+
+[u]III and IV.[/u]
+
+$x_1 + \frac{1}{2}(s+q) = -\frac{1}{2}(s-q)i \operatorname{cotan} \beta$
+$x_1 - \frac{1}{2}(s+q) = -\frac{1}{2}(s-q)i \operatorname{cotan} \alpha$
+$\operatorname{cotan} \alpha = \frac{2x_1 - (s+q)}{s-q} i$
+$\operatorname{cotan} \beta = \frac{2x_1 + (s+q)}{s-q} i$
+
+$\operatorname{cotan}^2 \alpha = -\frac{4x_1^2 - 4x_1(s+q) + (s+q)^2}{(s-q)^2}$
+$\operatorname{cosec}^2 \alpha = -4 \frac{x_1^2 - x_1(s+q) + sq}{(s-q)^2}$
+$\sin \alpha = -\frac{1}{2} \frac{s-q}{\sqrt{x_1^2 - x_1(s+q) + sq}} i$ $\sin \beta = -\frac{1}{2} \frac{s-q}{\sqrt{x_1^2 + x_1(s+q) + sq}} i$
+$\cos \alpha = -\frac{1}{2} \frac{2x_1 - (s+q)}{\sqrt{x_1^2 - x_1(s+q) + sq}} i$ $\cos \beta = -\frac{1}{2} \frac{2x_1 + (s+q)}{\sqrt{x_1^2 + x_1(s+q) + sq}} i$
+
+$\frac{1}{2}(s-q) = [del]\frac{1}{2} ( \operatorname{cotan}[/del] \frac{2x_1 i}{\operatorname{cotan} \alpha + \operatorname{cotan} \beta} = \frac{2x_1 \sin \alpha \sin \beta}{\sin(\alpha + \beta)} i$
+$\frac{1}{2}(s+q) = x_1 \frac{\tan \alpha - \tan \beta}{\tan \alpha + \tan \beta} = x_1 \frac{\sin(\alpha - \beta)}{\sin(\alpha + \beta)}$
+
+$\frac{1}{2}(s-q) = x_1 \frac{\cos(\alpha - \beta) - \cos(\alpha + \beta)}{\sin(\alpha + \beta)} i$
+$\frac{1}{2}(s+q) + x_1 = x_1 \frac{2 \sin \alpha \cos \beta}{\sin(\alpha + \beta)}$ $\frac{1}{2}(s+q) - x_1 = [del]x_1[/del] \frac{-2 \cos \alpha \sin \beta}{\sin(\alpha + \beta)}$

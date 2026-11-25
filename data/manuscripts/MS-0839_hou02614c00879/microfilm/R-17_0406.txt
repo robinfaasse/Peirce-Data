@@ -1,0 +1,29 @@
+[u]Examples[/u].
+
+[u](1)[/u]. Prove that from [u]X|Y[/u]
+follows [u]Y|X[/u].
+
+By definition, if [u]X|Y[/u] then [u]X|Y|0[/u].
+Then, easily, [u]Y|X|0[/u] and by def. [u]Y|X[/u].
+
+[u](2)[/u] Prove that from [u][u]X[/u]|Y[/u] follows
+[u]Y|X[/u].
+
+By def. from [u][u]X[/u]|Y[/u], follows [u][u]X[/u]|0|Y[/u]. Now from
+[u]P|Q[/u] follows [u]Q|R|P|R[/u] (proved thus: by lib 1 [u]R|R[/u]
+and by lib 2 [u]Q|R|P|R|R[/u] but by lib 3 if [u]P|Q[/u] from
+[del]P[/del] and [u]Q|R[/u] follows [u]R[/u]. Hence by lib 3 if [u]P|Q[/u] then
+[u]Q|R|P|R[/u]) Hence putting P=[u]X|0[/u] Q=Y R=0
+[u]Y|0|[u]X|0[/u]|0[/u]. But [u]0|X[/u]. Hence from [u][u]X[/u]|0|0[/u]
+follows [u][u]X[/u]|0|X[/u] and by liberty IV follows X. Hence,
+easily, [u]Y|0|X[/u].
+
+X Y
+
+[u][u]X[/u]|Y[/u] [u]X|Y[/u]
+
+[u][u]X[/u]|X|Y[/u] Y
+
+[u][u]X[/u]|Y[/u] [u]X|Y[/u]
+
+[u]X|Y[/u]

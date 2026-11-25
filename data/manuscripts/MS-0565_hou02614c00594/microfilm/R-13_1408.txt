@@ -1,0 +1,29 @@
+or, dropping the useless congruence sign,
+[u]x[/u] [u]y[/u]
+is equivalent to
+[u]x[/u]
+and [u]y[/u].
+
+[del]And so[/del]
+[del]But[/del] [del][u]x[/u] + [u]y[/u][/del]
+
+[u]x[/u] [u]y[/u] [u]z[/u] [u]u[/u] [u]v[/u] [u]w[/u]
+is equivalent to
+[u]x[/u],
+[u]y[/u],
+[u]z[/u],
+[u]u[/u],
+[u]v[/u],
+and [u]w[/u].
+
+But
+[u]x[/u] + [u]y[/u] + [u]z[/u] + [u]u[/u] + [u]v[/u] + [u]w[/u] = 1
+means that some odd number of the letters are congruent
+with 1. Taking two letters,
+[u]x[/u] + [u]y[/u] = 1
+means that either [u]x[/u] ([u]y[/u] + 1) = 1
+or ([u]x[/u] + 1) [u]y[/u] = 1.
+This may also be written
+[u]x[/u] ([u]y[/u] + 1) + [u]y[/u] ([u]x[/u] + 1) = 1.
+In fact, on multiplying out, [u]x[/u] [u]y[/u] occurs twice, and is:
+[u]x[/u] [u]y[/u] + [u]x[/u] [u]y[/u] = 0;

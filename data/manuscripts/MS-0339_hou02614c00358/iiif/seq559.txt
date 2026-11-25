@@ -1,0 +1,35 @@
+300r
+[fig]figure[/fig] [fig]figure[/fig] 1908 Aug 31
+$i^2 = N:S + E:W + S:N + W:E + C:Z + Z:C + X:Y + Y:X$
+$i =$ [del]$M$[/del] $N:E + E:S + S:W + W:N + C:X + Z:Y + X:Z + Y:C$
+$j = N:C + E:Y + S:Z + W:X + C:S + Z:N + X:E + Y:W$
+$ij=k$ $N:Y$ + $E:Z$ + $S:X$ + $W:C$ + $C:E$ + $Z:W$ + $X:N$ + $Y:S$
+$ji =$ [del]$E:C$[/del] + $W:Z$ + $C:W$ + $Z:E$
+$iji = j =$ [del]$N:C$[/del] [ins]+[/ins] $S:Z$ [ins]+ $C:S$ + $Z:N$[/ins]
+[del]$N:Z$[/del]
+[del]$j$[/del]
+
+$A:B - B:A$ $A:B - B:A = i$
+$A:C - C:A$ [del]$A:A - B:B = -1$[/del]
+$A:D - D:A$ $A:A + B:B = 1$
+$A:E - E:A$ [del]$A:B + B:A = -i$[/del]
+
+$+ A:B - B:A + C:C = k$ [ins]$jk=$[/ins] $i = A:B - B:A + C:D - D:C + E:F - F:E + G:H - H:G$
+$A:A + B:B - C:B = i$ [ins]$ki=$[/ins] $j = A:C - B:D - C:A + D:B + E:H + F:G - G:F - H:E$
+$- A:C + B:B + C:A = j$ [ins]$ij=$[/ins] $k = - A:D - B:C + C:B + D:A + E:G - F:H - G:E + H:F$
+$ii = - A:C + B:A - C:B$ [ins]$kj=$[/ins] $l = A:E - B:F - C:H - D:G [del]- E:A + F:B + G:D + H:C[/del]$
+$jk = - A:C - B:A + C:B$ [ins]$il=$[/ins] $m = - A:F - B:E - C:G + D:H [ins]+ E:B[/ins] + F:A + G:C - H:D$
+$ki = + A:C - B:A - C:B$ [ins]$jl=$[/ins] $n = - A:H + B:G - C:E - D:F + E:C + F:D - G:B + H:A$
+[ins]$il=$[/ins] $o = + A:G + B:H - C:F + D:E + E:D - F:C - G:A - H:B$
+$\left\{ \begin{aligned} kj &= + A:B + B:C + C:A \\ ji &= + A:B + B:C + C:A \\ ik &= + A:B + B:C + C:A \end{aligned} \right.$
+$i^2 = A:A - B:B - C:C$
+$j^2 = - A:A + B:B - C:C$
+$k^2 = - A:A - B:B + C:C$
+$ijk = - A:C + B:B + C:A = j$
+$kji = A:C - B:B + C:A = j$
+$jki = A:B - B:A + C:C = k$
+$ikj = A:B + B:A - C:C$
+$kij = A:A + B:C - C:B = i$
+$jik = - A:A + B:C + C:B$
+$i^3 = A:A - B:C + C:B$
+$i^4 = A:A + B:B + C:C$.

@@ -1,0 +1,13 @@
+$$\frac{\angle \beta\gamma}{\partial} = \frac{A+O}{A+E+I+O}$$
+
+$$\frac{\angle \gamma\alpha}{\partial} = \frac{A+E}{A+E+I+O}$$
+
+Adding these three equations
+
+$$\frac{\angle \alpha\beta + \angle \beta\gamma + \angle \gamma\alpha}{\partial} = \frac{2A}{A+E+I+O} + 1$$
+
+or
+
+$$\angle \alpha\beta + \angle \beta\gamma + \angle \gamma\alpha - \partial = A \frac{2\partial}{\text{All space}} . \qquad \text{Q.E.D.}$$
+
+[u]Scholium[/u] . A plane triangle measures a spherical triangle whose centre is in the firmament, just as an angle whose centre is in the firmament is measured [del]by[/del] [ins]in[/ins] the linear distance between its planes. But the enclosure of such spherical triangle is infinitely small compared with all space; so that we must put the last member of the above equation equal to zero. Thus, the last theorem but one is seen to be a special case of the last [del]of a[/del] [ins]theorem[/ins].

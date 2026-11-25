@@ -1,0 +1,11 @@
+so that
+$$F^n \frac{x}{y} = \frac{C_1 \alpha^{n+1} + C_2 \beta^{n+1}}{a_{xx} (C_1 \alpha^n + C_2 \beta^n)} - \frac{a_{yx}}{a_{xx}}.$$
+
+To determine the ratio of arbitrary constants, we [del]write[/del] [ins]have[/ins]
+$$F^0 = \frac{C_1 \alpha + C_2 \beta}{a_{xx} (C_1 + C_2)} - \frac{a_{yx}}{a_{xx}} = \frac{x}{y}$$
+
+which gives
+$$\frac{C_1 - C_2}{C_1 + C_2} = \frac{\frac{2 a_{xx} x}{(a_{xy} + a_{yx}) y} + 1}{\sqrt{1 - \frac{4 a_{xx} a_{yy}}{(a_{xy} + a_{yx})^2}}}.$$
+
+Calling this $R$, we have
+$$F^n \frac{x}{y} = \frac{(1+R) \alpha^{n+1} + (1-R) \beta^{n+1}}{[del]a_{xx}[/del] [ins]a_{xx}[/ins] [(1+R) \alpha^n + (1-R) \beta^n]} - \frac{a_{yx}}{a_{xx}}.$$

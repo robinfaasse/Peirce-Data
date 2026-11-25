@@ -1,0 +1,36 @@
+[pn]1909 March 4th[/pn]
+[pn]Page 1[/pn]
+
+[fig]Crossed out page with two intersecting lines[/fig]
+
+[del]$(r/R)^2 + (z/Z)^2 = 1$[/del]
+[del]$\tan \phi_c = \frac{z}{r}$[/del] [del]$(\frac{R z}{Z r})^2 = \frac{R^2}{r^2} - 1$[/del] [del]$(\frac{R z}{Z r})^2 = \frac{z^2}{Z^2} \cdot \frac{R^2}{r^2}$[/del]
+[del]$= Z \sqrt{\frac{1}{r^2} - \frac{1}{R^2}} = \frac{Z}{r} \sqrt{1 - \frac{r^2}{R^2}} = \frac{Z}{R} \frac{R \sqrt{R^2 - r^2}}{r}$[/del]
+
+[del]Call $\frac{z}{Z} = \sin \psi$[/del] [del]$\frac{r}{R} = \cos \psi$[/del]
+[del]Then[/del]
+[del]$\tan \phi_c = \frac{Z}{R} \tan \psi$[/del]
+[del]$\tan \phi_g = \frac{dr}{dz} = - \frac{R \sin \psi}{Z \cos \psi} = - \frac{R}{Z} \tan \psi$[/del]
+[del]$\frac{d\rho}{d\psi} = \frac{r}{\rho}$[/del] [del]$\frac{d\rho}{\rho} = \frac{dr}{r}$[/del] [del]$\log \rho = \log C + \log r$[/del]
+[del]$dr = - R \sin \psi d\psi$[/del]
+[del]$r = R \cos \psi$[/del] [del]$\rho = C r$[/del]
+
+[del]$\frac{dr}{r} = - \tan \psi d\psi$[/del] [del]$(\log r = - (C - \log \cos \psi))$[/del]
+[del]$= \tan (\pi - \psi) d\psi$[/del]
+[del]$\log r = \log \cos \psi$[/del] [del]$r = \frac{\log \cos \psi}{C}$[/del]
+[del]$r = \cos \psi$[/del] [del]$r = \frac{\log \cos \psi}{C}$[/del]
+
+[del]$r = R \cos \psi$[/del]
+[del]$dr = - R \sin \psi d\psi$[/del]
+[del]$\frac{dr}{r} = - \tan \psi d\psi = \tan (\pi - \psi) d\psi$[/del]
+[del]$\log r = C + \log \cos \psi$[/del]
+[del]$\log r = C + \log \cos \psi$[/del]
+
+[del]$\rho = \sec \psi$[/del]
+[del]$\rho = 6^{\cos \psi}$[/del]
+
+[fig]Small circle with a dot in the center[/fig]
+
+$7 \overline{) \begin{array}{r} 3\ 2\ 6\ 4\ 5 \\ \hline .1\ 4\ 2\ 8\ 5\ 7 \end{array}}$
+
+$1 \overline{) \begin{array}{r} 1\ 7\ 3\ 1\ 5 \\ \hline 1\ 7\ 0\ 7\ 1 \\ 1\ 5\ 3\ 1\ 4\ 5 \end{array}}$

@@ -1,0 +1,50 @@
+[u]Negative & Co-converse[/u]
+
+[del]$\bar{\bar{x}} = x$[/del] $\bar{\bar{x}} = x$
+
+$\bar{x} \prec y \begin{cases} \overline{x+y} = \bar{x} \times \bar{y} \\ \overline{x \times y} = \bar{x} + \bar{y} \end{cases}$ $\begin{aligned} \bar{x} \bar{\times} y &= \bar{y} \times \bar{x} \\ \bar{x} \bar{+} y &= \bar{y} + \bar{x} \end{aligned}$
+
+$\overline{x \bar{\prec} y} = \bar{x} \bar{\succ} \bar{y}$
+
+$a \prec b \prec c$
+$\bar{a} \bar{+} \bar{b} (\cdot) c$
+[del]$\bar{a} (\cdot) b$[/del]
+
+$x \prec y \quad y \prec z \quad \therefore x \prec z$
+$\bar{x} (\cdot) y \quad \bar{y} (\cdot) z \quad \therefore x$
+
+$a (\cdot) b$
+[del]$a \bar{+} b$[/del]
+$\bar{a} + \bar{b} + c$
+
+$x \prec y$ [del]$y \prec z$[/del]
+$x \prec y + x$
+$x (\cdot) \bar{y} + x$
+$x (\cdot) v$
+
+$\bar{x} + \bar{y} (\cdot) z$
+$x + y (\cdot) z$
+$\bar{x} [del]\bar{+} y[/del] y + z$
+$x y (\cdot) \bar{z}$
+
+$\bar{y} + \bar{z} [del](\cdot)[/del] \bar{\cdot} \bar{x}$
+$y + \bar{z} (\cdot) \bar{x}$
+$\bar{y} (\cdot) z + \bar{x}$
+$y \bar{z} (\cdot) \bar{x}$
+
+$\bar{x} (\cdot) y + z$
+$\bar{y} (\cdot) z + \bar{x}$
+
+[del]$x (\cdot) y$[/del]
+$\bar{x} \prec y + z$
+[del]$\bar{x} \prec \bar{y} + x$[/del]
+$\bar{x} [del](\cdot)[/del] \bar{+} y + x$
+
+$x (\cdot) y$
+$x (\cdot) \bar{y} \bar{\times}$
+
+$x (\cdot) y$
+$\bar{x} \prec y$
+$\bar{x} \prec y + z$
+[del]$\bar{x} \prec \bar{y} + x$[/del]
+$\bar{x} (\cdot) y + z$

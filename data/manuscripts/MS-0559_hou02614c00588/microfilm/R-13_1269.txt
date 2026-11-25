@@ -1,0 +1,31 @@
+In order to prove this, I begin by establishing the fol-
+lowing lemma[ins]*[/ins]:
+
+If a certain proposition X can be substituted for
+Y anywhere under a given number of vincula then
+Y may be substituted for X [ins]anywhere[/ins] under one more vinculum.
+
+Suppose first that the inference holds
+[del]Y[/del] [ins]Y[/ins] true,
+[del]X[/del] [ins]X[/ins] true,
+that is, that X can be substituted for Y in the assertion
+of the truth of the latter. Suppose, besides, that we have
+given the premise
+[del]Z[/del] [ins]Z[/ins] Y true,
+or from the truth of Z follows the truth of Y. Then, by the
+regula de quocunque, from the truth of Z follows the truth
+of X, or
+[del]Z[/del] [ins]Z[/ins] [del]X[/del] [ins]X[/ins] true.
+That is to say X can be substituted for Y as a consequent,
+and hence as a consequent of a consequent, and generally
+anywhere under no vinculum. And conversely, if X can
+be substituted for Y wherever we like under no vinculum
+the inference holds
+Y true,
+[del]X[/del] [ins]X[/ins] true.
+
+[marginalia]proposition[/marginalia]
+
+* The different meanings of this word are given in the Century
+Dictionary. I here use it in the ordinary mathematical sense, of a
+proposition [del]necessary[/del] [ins]necessary[/ins] to prove another, but not deemed worthy of a place among the principal

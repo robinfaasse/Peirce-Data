@@ -1,0 +1,33 @@
+epiblast
+- epicalix
+- epicerebral
+epicondyle
+epicoracoid
+- epicorolline
+epiderm
+epimeron
+epiphyte
+epipterous
+epispore
+- episternum
+epithelium
+- epitoge
+- epsomite
+
+[fig]Geometric sketches of points, lines, and polyhedra[/fig]
+
+From each point [del]x[/del] [ins]n[/ins] lines
+From each line n-1 faces
+From each face n-2 solids
+
+when n=4
+From each point 4 lines
+From each line 3 surfaces
+From each surface 2 solids
+From each solid 1 super-solid
+
+Let x be number of points
+2x = number of lines
+[del]Lines joining in triangles[/del]
+[del]2x = faces[/del]
+[del]From ep x faces[/del]

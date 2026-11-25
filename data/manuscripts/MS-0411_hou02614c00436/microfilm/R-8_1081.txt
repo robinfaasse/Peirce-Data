@@ -1,0 +1,26 @@
+[pn]208[/pn]
+
+Enoch was a man;
+If Enoch died, the Bible errs;
+[u]∴[/u] If from Enoch being a man it would follow he would die, the Bible errs.
+
+Suppose we have given
+[u][u]X[/u] Y | Z[/u] | W true.
+
+Then, by Rule 2
+[u]X[/u] | [u][u]Y[/u] | Z[/u] | [u][u]X[/u] Y | Z[/u] | W true.
+
+[del]By But[/del] Thence, by the inference just found valid and Rule 3, we get
+[u]X[/u] | [u][u]Y[/u] | Z[/u] | W true.
+
+We thus see that two uppermost vincula [del]ending[/del] [ins]beginning[/ins] at the same point can be snipped off together, [del]at[/del] as far as we like. We may call this the [u]Snipping rule[/u]. It is of considerable importance, which is measured by the complexity of the proof of it. For the unavoidable complexity of proof of a proposition, measures just what the recognition of that proposition saves.
+
+§ 90. Suppose we have given
+[u]S[/u] | P true.
+
+Then, by Rule 2,
+[u][del][u]X[/u] | [u]X[/u] |[/del] [u]S[/u] | P[/u] true
+[u]X[/u] | [u][u]X[/u] S[/u] | [u]S[/u] | P true.
+
+But by rule 1 [u][u]X[/u] | S[/u] | [u]X[/u] | S true.
+Hence by rule 3 [u][u]X[/u] | S[/u] | [u]X[/u] | P true.

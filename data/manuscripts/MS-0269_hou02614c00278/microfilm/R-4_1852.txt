@@ -1,0 +1,85 @@
+$$\left(\frac{dy}{dx}\right)^2 = \frac{a^2}{x^2+2ax} = \frac{a^2}{x(x+2a)}$$
+
+$$\left(\frac{dx}{dy}\right)^2 = \frac{x^2+2ax}{a^2}$$
+
+$$\frac{1}{2}\left(\frac{dx}{dy}\right)^2 = \frac{x^2}{2a^2} + \frac{x}{a}$$
+
+$$\frac{d^2x}{dy^2} = \frac{x}{a^2} + \frac{1}{a}$$
+
+$$x = \frac{a}{2} A \mathfrak{G}^{\frac{y}{a}} + \frac{a}{2} B \mathfrak{G}^{-\frac{y}{a}} - a$$
+
+$$\frac{x}{a} = \frac{A}{2} \mathfrak{G}^{\frac{y}{a}} + \frac{B}{2} \mathfrak{G}^{-\frac{y}{a}} - \frac{1}{2}$$
+
+$$D_y x = A \frac{1}{2} \mathfrak{G}^{\frac{y}{a}} - B \frac{1}{2} \mathfrak{G}^{-\frac{y}{a}}$$
+
+$$\frac{1}{a} (D_y x)^2 = \frac{1}{4} A^2 \mathfrak{G}^{\frac{2y}{a}} - \frac{1}{2} AB + \frac{1}{4} B^2 \mathfrak{G}^{-\frac{2y}{a}}$$
+
+$$\frac{x(x+2a)}{a^2} = \frac{1}{4} A^2 \mathfrak{G}^{\frac{2y}{a}} + \frac{1}{2} AB + \frac{1}{4} B^2 \mathfrak{G}^{-\frac{2y}{a}} - 1$$
+
+$$\frac{a}{c}$$
+
+$$\frac{2AB}{4AB} - 1 = -2AB$$
+
+[fig]Diagram of a semicircle with radius R and segment A, B[/fig]
+
+$$A^2 + B^2 = R^2$$
+
+$$\frac{R+A}{R-A}$$
+
+$$y^2 = 4ax$$
+
+$$x = \frac{y^2}{4a}$$
+
+$$\frac{dx}{dy} = \frac{y}{2a}$$
+
+$$\left(\frac{dy}{dx}\right)^2 = \frac{4a^2}{y^2} = \frac{4a^2}{4ax} = \frac{a}{x}$$
+
+$$\frac{y}{x} = v$$
+
+$$y = xv$$
+
+$$\frac{dy}{dx} = v + x \frac{dv}{dx}$$
+
+$$\frac{1}{2}\left(\frac{dx}{dy}\right)^2 = \frac{1}{2} \frac{x}{a}$$
+
+$$\frac{d^2x}{dy^2} = \frac{1}{2a}$$
+
+$$\frac{x^2-1}{2x} = \frac{1}{2}(x-\frac{1}{x}) = v$$
+
+$$p^2 + 2\frac{y}{x}p + \frac{y^2}{x^2} = 1 + \frac{y^2}{x^2}$$
+
+$$p + \frac{y}{x} = \sqrt{1+\frac{y^2}{x^2}}$$
+
+$$p = -\frac{y}{x} \pm \sqrt{1+\frac{y^2}{x^2}}$$
+
+$$x \frac{dv}{dx} = \pm \sqrt{1+v^2}$$
+
+$$\frac{dv}{\sqrt{1+v^2}} = \frac{dx}{x}$$
+
+$$\frac{v+\sqrt{1+v^2}}{1+v^2} = X$$
+
+$$1+v^2 = x^2+2vX+X^2$$
+
+$$x = a \left[ \text{Cosh}(\frac{y}{a}+C) - 1 \right] = A + By + \frac{y^2}{4a}$$
+
+$$x = B^2 a + By + \frac{y^2}{4a}$$
+
+$$4ax = 4B^2 a^2 + 4By + \frac{y^2}{a}$$
+
+$$(2Ba+y)$$
+
+$$\frac{dx}{dy} = B + \frac{y}{2a}$$
+
+$$\left(\frac{dx}{dy}\right)^2 = B^2 + B\frac{y}{a} + \frac{y^2}{4a^2}$$
+
+$$\frac{x}{a} = B^2 + B\frac{y}{a} + \frac{y^2}{4a^2}$$
+
+$$\frac{x}{a} = \frac{A}{a} + B\frac{y}{a} + \frac{y^2}{4a^2}$$
+
+$$A = B^2 a$$
+
+$$\frac{1}{2}(\frac{1}{2}x^2 - \log x) = y$$
+
+$$\frac{1}{2}(x - \frac{1}{x}) = \frac{dy}{dx}$$
+
+$$\left(\frac{dy}{dx}\right)^2 = \frac{1}{4}(x^2 - 2 + \frac{1}{x^2})$$

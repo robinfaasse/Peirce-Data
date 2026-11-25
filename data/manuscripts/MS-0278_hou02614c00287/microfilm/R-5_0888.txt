@@ -1,0 +1,30 @@
+To ascertain whether the equation (1) $\frac{dy}{dx} = \frac{\sqrt{(dr)^{2} + (dx)^{2}}}{r}$ is satis[ins]fied[/ins]
+by putting (2) $\rho = r - \frac{dr}{dx}x + \frac{\sqrt{(dr)^{2} + (dx)^{2}}}{dx}x$
+when (3) $(\frac{r}{Z(1+E)})^{2} + (\frac{x}{Z} - 1)^{2} = 1$ as it stands, or neglecting E
+or putting E = 0
+
+Since
+(4) $(\frac{x}{Z} - 1)^{2} = (\frac{x}{Z})^{2} - 2(\frac{x}{Z}) + 1$
+so that (3) becomes
+(5) $(\frac{r}{Z(1+E)})^{2} = 2(\frac{x}{Z}) - (\frac{x}{Z})^{2}$ or putting $\frac{r}{Z(1+E)} = \sqrt{2\frac{x}{Z} - \frac{x^{2}}{Z^{2}}} = \sqrt{2\frac{x}{Z} - \frac{x^{2}}{Z^{2}}}$
+and multiplying by $Z^{2}$
+(6) $(\frac{r}{1+E})^{2} = 2Zx - x^{2}$
+whence
+(7) $r = (1+E)\sqrt{2Zx - x^{2}} = Z(1+E)\sqrt{2(\frac{x}{Z}) - (\frac{x}{Z})^{2}}$
+Differentiating
+(8) $dr = \frac{(1+E)(2Z - 2x)}{2\sqrt{2Zx - x^{2}}}dx$ (9) $\frac{dr}{dx}x = (1+E)(Z - x)\sqrt{\frac{x}{2Z - x}}$
+$= Z(1+E)(1 - \frac{x}{Z})\sqrt{\frac{\frac{x}{Z}}{2 - \frac{x}{Z}}}$
+Squaring
+(10) $(dr)^{2} = (1+E)^{2}\frac{Z^{2} - 2Zx + x^{2}}{2Zx - x^{2}}(dx)^{2} = (1+E)^{2}\frac{(\frac{1}{\frac{x}{Z}} - 1)^{2}}{2\frac{Z}{x} - (\frac{Z}{x})^{2}}(dx)^{2}$
+$= \{\frac{1}{2\frac{x}{Z} - (\frac{x}{Z})^{2}} - 1\}(dx)^{2} + E(2+E)\{\frac{1}{2\frac{x}{Z} - (\frac{x}{Z})^{2}} - 1\}(dx)^{2}$
+(11) $(dr)^{2} + (dx)^{2} = \{\frac{1}{2\frac{x}{Z} - (\frac{x}{Z})^{2}}\}(dx)^{2} + E(2+E)\{\frac{1}{2\frac{x}{Z} - (\frac{x}{Z})^{2}} - 1\}(dx)^{2}$
+and
+(12) $\frac{\sqrt{(dr)^{2} + (dx)^{2}}}{dx}x = \sqrt{\frac{1}{2\frac{x}{Z} - (\frac{x}{Z})^{2}} + E(2+E)\{\frac{1}{2\frac{x}{Z} - (\frac{x}{Z})^{2}} - 1\}}x$
+Substituting in (2) the values given by (7), (9), and (12), we get
+(13) $\rho = (1+E)\sqrt{2Zx - x^{2}} - (1+E)(Z-x)\sqrt{\frac{x}{2Z-x}} + \sqrt{\frac{1}{2\frac{x}{Z} - (\frac{x}{Z})^{2}} + E(2+E)\{\frac{1}{2\frac{x}{Z} - (\frac{x}{Z})^{2}} - 1\}}x$
+$= (1+E)\sqrt{2Zx - x^{2}} - (1+E)(Z-x)\sqrt{\frac{x}{2Z-x}} + Z\sqrt{\frac{\frac{x^{2}}{Z^{2}}}{2\frac{x}{Z} - (\frac{x}{Z})^{2}} + E(2+E)\{\frac{\frac{x^{2}}{Z^{2}}}{2\frac{x}{Z} - (\frac{x}{Z})^{2}} - \frac{x^{2}}{Z^{2}}\}}$
+Separating the multipliers of the different powers of E
+14) $\rho = \sqrt{2Zx - x^{2}} - (Z-x)\sqrt{\frac{x}{2Z-x}} + \sqrt{\frac{x^{2}}{2\frac{x}{Z} - \frac{x^{2}}{Z^{2}}}}$
+$\sqrt{\frac{x^{2}}{2\frac{x}{Z} - \frac{x^{2}}{Z^{2}}}} = \sqrt{\frac{x^{2}}{\frac{2Zx - x^{2}}{Z^{2}}}} = \sqrt{\frac{Z^{2}x^{2}}{2Zx - x^{2}}}$
+$= \frac{Zx}{\sqrt{2Zx - x^{2}}}$
+$\frac{Z}{\frac{x}{Z}}\sqrt{2\frac{x}{Z} - \frac{x^{2}}{Z^{2}}}$

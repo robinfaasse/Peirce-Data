@@ -1,0 +1,104 @@
+[pn]44[/pn]
+
+$$\sum a^x \phi x = \frac{a^x}{a-1} \left\{ \phi x + \frac{a}{1-a} \Delta \phi x + \left(\frac{a}{1-a}\right)^2 \Delta^2 \phi x + \left(\frac{a}{1-a}\right)^3 \Delta^3 \phi x \right\} + \text{etc}$$
+
+$$\sum \sin(ax+b) = \frac{\sin(ax+b-\frac{a+\pi}{2})}{2 \sin \frac{a}{2}} + C$$
+
+[marginalia]
+$\sin(x+\frac{1}{2}\pi) = \cos x$
+$\sin(x-\frac{1}{2}\pi) = -\cos x$
+
+$\sin(x+\frac{1}{2}\pi) = \cos x$
+$\sin(x-\frac{1}{2}\pi) = -\cos x$
+$\cos(x-\frac{1}{2}\pi) = +\sin x$
+$\cos(x+\frac{1}{2}\pi) = -\sin x$
+[/marginalia]
+
+$$= \frac{-\cos(ax+b-\frac{a}{2})}{2 \sin \frac{a}{2}}$$
+
+$$\sum \cos(ax+b) = \frac{\cos(ax+b-\frac{a+\pi}{2})}{2 \sin \frac{a}{2}} + C$$
+
+$$= \frac{\sin(ax+b-\frac{a}{2})}{2 \sin \frac{a}{2}}$$
+
+$$= \frac{1}{2} \cot \frac{a}{2} \cdot \sin(ax+b) - \frac{1}{2} \cos(ax+b)$$
+
+$$\sum \frac{1}{\cos ax \cos a(x+1)} = \frac{\tan ax}{\sin a} + C$$
+
+[marginalia]
+1
+4
+9
+16
+25
+36
+49
+64
+81
+100
+---
+385
+[/marginalia]
+
+$$1^2 + 2^2 + 3^2 + \dots + x^2 = \sum x^2 + x^2 + C$$
+
+$$x^2 = x(x-1) + x$$
+$$\sum x^2 = \frac{1}{3} x(x-1)(x-2) + \frac{1}{2} x(x-1)$$
+
+$$1^2 + 2^2 + 3^2 = \frac{1}{3} 3(3-1)(3-2) + \frac{1}{2} 3(3-1) + [del]x^2[/del] [ins]9[/ins] + C$$
+$$14 = 2 + 3 + 9 + C$$
+
+$$\therefore 1^2 + 2^2 + 3^2 \dots x^2 = \frac{1}{3} x(x-1)(x-2) + \frac{1}{2} x(x-1) + x^2$$
+$$= \frac{1}{3} x^3 - x^2 + \frac{2}{3} x + \frac{1}{2} x^2 - \frac{1}{2} x + x^2$$
+$$= \frac{1}{3} x^3 + \frac{1}{2} x^2 + \frac{1}{6} x = \frac{2x^3 + 3x^2 + x}{6}$$
+$$= \frac{x(x+1)(2x+1)}{6}$$
+
+[marginalia]
+[del]280[/del]
+[del]285[/del]
+[del]2310[/del]
+385
+
+$\frac{9 \cdot 10 \cdot 19}{6}$
+$\frac{3 \cdot 5 \cdot 19}{1}$
+$\frac{15}{285}$
+
+$y^2 + 3y = -2$
+$4y^2 + 12y = -8$
+$2y+3 = \pm 1$
+
+$\frac{x+1}{2x+2}$
+$2x+1$
+$2x+4$
+[/marginalia]
+
+[pn]45[/pn]
+
+$$1^2 - 2^2 + 3^2 - 4^2 \dots \pm x^2 = (-1)^{x+1} \frac{x(x+1)}{2}$$
+
+$$\frac{1}{1 \cdot 3} + \frac{1}{2 \cdot 4} + \frac{1}{3 \cdot 5} + \dots \frac{1}{x(x+2)} = \frac{(3x+5)x}{4(x+1)(x+2)}$$
+
+Law of Reciprocity $\phi \frac{d}{dt} \psi t = \psi \frac{d}{dt} \phi t$
+if $\phi$ and $\psi$ are developable by Maclaurin
+and t is made zero after the operation implied
+
+Figurate number $x^n$ of $n^{\underline{\text{th}}}$ order
+$$\frac{x(x+1)(x+2) \dots (x+n-2)}{1 \cdot 2 \cdot \dots (n-1)}$$
+
+Approximate Summation [ins]$\frac{du_x}{dx}$ does not change sign[/ins]
+This formula always sufficient so long as [del]$\frac{du_x}{dx}$ does not change sign[/del]
+$$\sum u_x = C + \int u_x dx - \frac{1}{2} u_x + \frac{B_1}{2!} \frac{du_x}{dx} - \frac{B_3}{4!} \frac{d^3 u_x}{dx^3} + \text{etc}$$
+
+[marginalia]
+This is not
+always a
+divergent
+series.
+[/marginalia]
+
+$$= C + \int u_x dx - \frac{1}{2} u_x + \frac{1}{12} \frac{du_x}{dx} - \frac{1}{720} \frac{d^3 u_x}{dx^3} + \frac{1}{30240} \frac{d^5 u_x}{dx^5}$$
+
+$$\sum \frac{1}{x^2} = \frac{\pi^2}{6} - \frac{1}{x} - \frac{1}{2x^2} - \frac{1}{6x^3} + \frac{1}{30x^5} \text{etc}$$
+
+$$1 + \frac{1}{2} + \frac{1}{3} \dots - \frac{1}{x} = .577215 + \log_e x + \frac{1}{2x} - \frac{1}{12x^2} + \frac{1}{120x^4} \text{etc}$$
+
+$$x! = \sqrt{2\pi x} \cdot x^x e^{-x} \left( 1 + \frac{1}{12x} + \frac{1}{288x^2} - \frac{139}{51840x^3} + \text{etc} \right)$$

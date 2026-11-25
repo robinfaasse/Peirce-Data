@@ -1,0 +1,21 @@
+[pn]Logic
+III
+52[/pn]
+
+From these forms we can pass back to the originals, thus showing that these are equivalent to the originals. Namely,
+
+By iteration we get
+
+[fig]Two nested oval diagrams with text labels[/fig]
+
+By iteration of the line
+
+[fig]Two nested oval diagrams with lines connecting labels[/fig]
+
+By [del]Rules I and II[/del] [ins]Rules I and II[/ins] [del]By joining the lines under odd[/del] [ins]the lines are joined under odd[/ins] enclosures. Then by de-iteration, we get
+
+[fig]Two nested oval diagrams with simplified line connections[/fig]
+
+Omitting the double ovals, we finally get
+
+[fig]Two simplified nested oval diagrams[/fig]

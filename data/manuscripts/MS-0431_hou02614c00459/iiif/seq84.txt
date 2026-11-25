@@ -1,0 +1,25 @@
+[fig]diagram of overlapping circles[/fig]
+[fig]diagram of a circle with a curved line[/fig]
+[fig]diagram of a circle with three internal arcs[/fig]
+[fig]diagram of a triangle[/fig]
+[fig]diagram of a circle with two triangles inside[/fig]
+[fig]diagram of a shaded circle with radiating lines[/fig]
+
+[fig]diagram of an arc[/fig]
+$\bar{x}y + \bar{x}z + x\bar{y}z + x y \bar{z}$
+$\bar{x}(y+z) + (x\bar{y}z + x y \bar{z})$ [del]$\bar{x}(y+z) + (x\bar{y}\bar{z}) + (x y z)$[/del]
+$(x+\bar{y}+z) (x+y+\bar{z}) (\bar{x}+y+z)$
+$(x+\bar{y}+z) (x+y+\bar{z})$
+$(x+y)(\bar{y}+z)$
+$x\bar{y} + yz + \bar{x}z + \bar{x}\bar{y}\bar{z}$
+$\bar{y}\bar{z} + z\bar{x} + \bar{x}y$
+[del]$(x+\bar{y}+z) (\bar{x}+y+\bar{z})$[/del]
+$(x+y+z) (\bar{x}+\bar{y}+\bar{z})$
+$\bar{x}y\bar{z} + \bar{x}\bar{y}z + x\bar{y}\bar{z} + xyz$
+$\bar{x}\bar{y} + \bar{y}\bar{z}$
+$(x+\bar{y}+z) (x+y+\bar{z}) (\bar{x}+\bar{y}+z) (\bar{x}+y+\bar{z})$
+$\bar{x}\bar{y}\bar{z} + \bar{x}yz + x\bar{y}z + xy\bar{z}$
+$x\ne y$ or $y\ne z$
+$x\bar{y} + y\bar{x} + y\bar{z} + z\bar{y}$
+$y(x\ne z) + \bar{y}(x+z)$ [del]$(x\ne z) (\bar{y})$[/del]
+$(x+y+z) (\bar{x}+\bar{y}+z)$ [u]$\bar{y} + z$[/u]

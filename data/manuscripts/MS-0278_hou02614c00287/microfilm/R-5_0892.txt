@@ -1,0 +1,43 @@
+$$\left(\frac{r}{R}\right)^{2} + \left(\frac{z}{Z}\right)^{2} = 1$$
+
+[del]But[/del] [del]$\frac{r}{R} = \frac{z}{Z} + 3 + Z = z$[/del]
+[del]$3 = z - Z$[/del]
+
+$$\left(\frac{r}{R}\right)^{2} + \left(\frac{Z-z}{Z}\right)^{2} = 1$$
+
+$$\left(\frac{r}{R}\right)^{2} + \left(\frac{z}{Z}\right)^{2} - \frac{2z}{Z} = 0$$
+
+$$\left(\frac{r}{R}\right)^{2} = \frac{2Zz - z^{2}}{Z^{2}}$$
+
+$$\frac{r}{R} \frac{dr}{dz} = \frac{dz}{Z^{2}} - \frac{z dz}{Z^{2}} = \frac{dz}{Z^{2}} \left(1 - \frac{z}{Z}\right)$$
+
+$$\frac{r}{R} = \frac{\sqrt{(2Z-z)z}}{Z} = \sqrt{\left(2-\frac{z}{Z}\right)\left(\frac{z}{Z}\right)}$$
+
+$$\frac{dr}{R} = \frac{\frac{dz}{Z^{2}}\left(1-\frac{z}{Z}\right)}{\sqrt{\left(2-\frac{z}{Z}\right)\left(\frac{z}{Z}\right)}}$$
+
+$$\frac{dr}{dz} = \frac{\frac{R}{Z^{2}} \left(1-\frac{z}{Z}\right)}{\sqrt{\left(2-\frac{z}{Z}\right)\frac{z}{Z}}} = \frac{R}{Z^{2}} \frac{\frac{Z}{z} - 1}{\sqrt{\frac{2Z}{z} - 1}} = \frac{R}{Z} \frac{Z-z}{\sqrt{(2Z-z)z}}$$
+
+$$\left(\frac{dr}{dz}\right)^{2} = \left(\frac{R}{Z}\right)^{2} \frac{(Z-z)^{2}}{(2Z-z)z} = \left(\frac{R}{Z}\right)^{2} \frac{Z^{2} - (2Z-z)z}{(2Z-z)z} = \left(\frac{R}{Z}\right)^{2} \left[ \frac{Z^{2}}{(2Z-z)z} - 1 \right]$$
+
+$$1 + \left(\frac{dr}{dz}\right)^{2} = \frac{\left(\frac{R}{Z} + 1\right)\left(\frac{R}{Z} - 1\right)}{\left(2-\frac{z}{Z}\right)\frac{z}{Z}}$$
+
+$$= \left(\frac{R}{Z}\right)^{2} \left[ \frac{1}{\left(2-\frac{z}{Z}\right)\frac{z}{Z}} \right] - \left(\frac{R}{Z}\right)^{2} + 1$$
+
+$$\left[ \left(\frac{R}{Z} - 1\right)\left(\frac{R}{Z} + 1\right) + 1 \right]$$
+
+[marginalia]
+The object here is to ascertain whether
+
+$$\frac{ds}{s} = \frac{\sqrt{(dr)^{2} + (dz)^{2}}}{r}$$
+
+satisfies is satisfied by
+
+[fig]Right triangle with hypotenuse ds, base dz, height dr[/fig]
+
+$$\rho = r - \frac{dr}{dz} z + \frac{r \sqrt{(dr)^{2} + (dz)^{2}}}{dz}$$
+
+in the case of the ellipse
+[del]or in the case of the circle[/del]
+
+$$\left(\frac{R}{Z}\right)^{2} \frac{(R-Z)(R+Z)}{Z^{2}} + 1$$
+[/marginalia]

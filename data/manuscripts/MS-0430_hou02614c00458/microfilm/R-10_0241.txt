@@ -1,0 +1,25 @@
+[pn]Logic and [del]By[/del] [ins]By[/ins] (a)[/pn]
+[pn]III[/pn] (19)
+[pn]22[/pn]
+
+$r - r = 0$ or $r = r$;
+That is, it does not rain.
+
+Let us write the two premises
+If it rains, it snows;
+If it snows, it hails.
+
+The expressions will be
+(4) $(r - s)(v - s) = 0$
+(10) $(s - h)(v - g) = 0$.
+
+Multiply (4) by $(v - g)$ and (10) by $(r - s)$. We get,
+(11) $(r - s)(v - s)(v - g) = 0$
+(12) $(r - s)(s - h)(v - g) = 0$
+
+The sum of (11) and (12) is
+$(r - s)(v - s)(v - g) = 0$
+which by (a) gives
+(13) $(r - h)(v - g) = 0$
+
+It will be noticed that this depends upon Postulate I, but is in-

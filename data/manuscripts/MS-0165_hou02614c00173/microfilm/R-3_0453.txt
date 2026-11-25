@@ -1,0 +1,32 @@
+[pn]206[/pn]
+
+Now taking $u_1 = 1$ $u_2 = 0$ we get
+$u_1 = 1$
+$u_2 = 0$
+$u_3 = 2u_2 + u_1 = 1$
+$u_4 = 2u_3 + u_2 = 2$
+$u_5 = 2u_4 + u_3 = 5$
+$u_6 = 2u_5 + u_4 = 12$
+$u_7 = 29$
+$u_8 = 70$                     $\frac{29}{70} = .414286$
+$u_9 = 169$                    $\frac{70}{169} = .414195$
+$u_{10} = 408$                  $\frac{169}{408} = .414216$
+$u_{11} = 985$                  $\frac{408}{985} = .414213$
+
+Now [del]the[/del] [del]$\sqrt{2}$[/del] $\sqrt{2} = 1.4142136\dots$
+
+But if we take the equation
+$-\frac{1}{1000} x^3 + \frac{91}{1000} x^2 + \frac{91}{100} x = 1$
+
+and begin with $u_1 = +495000$,
+$u_2 = +5500$,
+$u_3 = 0$,
+
+we shall get $u_4 = -\frac{1}{1000} u_1 + \frac{91}{1000} u_2 + \frac{91}{100} u_3 = [del]+495.5[/del]$
+$u_5 = -\frac{1}{1000} u_2 + \frac{91}{1000} u_3 + \frac{91}{100} u_4 = [del]+905.905[/del] [ins]-0.495[/ins]$
+$u_6 = -\frac{1}{1000} u_3 + \frac{91}{1000} u_4 + \frac{91}{100} u_5 = +0.05005$
+$u_7 = $                                                                $= -0.004995$
+$u_8 = $                                                                $= +0.00050005$
+$u_9 = $                                                                $= -0.000049925$
+
+and it is plain that the limit will be $-10$ which is not the smallest

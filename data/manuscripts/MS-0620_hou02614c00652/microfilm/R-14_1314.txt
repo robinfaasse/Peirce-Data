@@ -1,0 +1,19 @@
+[marginalia]
+1909 May 18 Noon
+MEANING
+[fig]Geometric diagram with intersecting lines[/fig]
+[/marginalia]
+
+$11 \cdot \left| \begin{matrix} 22, 23 \\ 32, 33 \end{matrix} \right| x - \begin{matrix} (12 \cdot 23 \cdot 32 \\ - 12 \cdot 22 \cdot 33) y \end{matrix} + \begin{matrix} (13 \cdot 22 \cdot 33 \\ - 13 \cdot 23 \cdot 32) z \end{matrix}$
+$+ 21 \cdot \left| \begin{matrix} 32, 33 \\ 12, 13 \end{matrix} \right| x - \begin{matrix} (22 \cdot 12 \cdot 33 \\ - 22 \cdot 32 \cdot 13) y \end{matrix} + \begin{matrix} (23 \cdot 32 \cdot 13 \\ - 23 \cdot 12 \cdot 33) z \end{matrix}$
+$+ 31 \cdot \left| \begin{matrix} 12, 13 \\ 22, 23 \end{matrix} \right| x - \begin{matrix} (32 \cdot 22 \cdot 13 \\ - 32 \cdot 12 \cdot 23) y \end{matrix} + \begin{matrix} (33 \cdot 12 \cdot 23 \\ - 33 \cdot 22 \cdot 13) z \end{matrix} = 0$
+
+The coefficients of $y$ and of $z$ cancell, the second and third, the fourth and fifth, and the sixth and first; and consequently
+
+$11 \cdot \left| \begin{matrix} 22, 23 \\ 32, 33 \end{matrix} \right| + 21 \cdot \left| \begin{matrix} 32, 33 \\ 12, 13 \end{matrix} \right| + 31 \cdot \left| \begin{matrix} 12, 13 \\ 22, 23 \end{matrix} \right| = 0$
+
+which may better be written
+
+$\left| \begin{matrix} 11, 12, 13 \\ 21, 22, 23 \\ 31, 32, 33 \end{matrix} \right| = 0$
+
+If (after Sylvester) we call the two numbers which compose [del]each[/del] [ins]four[/ins] symbol[ins]s[/ins] of a coefficient its "umbrae", then the [del]signification of[/del] [ins]array[/ins] of such symbols, the first umbra being the same in each row and the second the same in each file [del]and the which being[/del]

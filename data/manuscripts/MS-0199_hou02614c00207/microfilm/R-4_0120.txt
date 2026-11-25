@@ -1,0 +1,14 @@
+[pn]M.M[/pn] but the last be made 0's, and the last 1. Imagine these numbers
+[pn]D. 35[/pn]
+[pn]60[/pn] to be in their order [u]substitutes[/u], for the purpose of calculating a
+"substitute" for 1, of $y^n$, $y^{n-1}$, ... $y^2$, $y$. Now calculate the substitute
+for 1 by the equation $\sum_1^n \beta_i y^i = 1$, where the substitutes for the
+different powers of $y$ are to be substituted for those powers and the result,
+instead of being 1, is [del]written or $y^0$, is[/del] [ins]write this down under the others, as[/ins] the "substitute" for [del]$y^0$[/del] [ins]$y^n$[/ins]. As soon
+as that is done, change the substitution by making the last $n$ numbers
+of the column, as it now stands, the substitutes in their order, for the
+$n$ powers of $y$, every number that has been substitute, say for $y^i$,
+now becoming the substitute for $y^{i+1}$. [del]With[/del] [ins]calculated[/ins] [del]The[/del] [ins]With the[/ins] substitute for $y^0$ becomes
+the substitute for $y^1$. With these new [del]values for the[/del] substitutes calculate,
+by the same equation, a new substitute for 1. Repeat this process
+as often as you see fit. Generally speaking, the oftener the better. Then,

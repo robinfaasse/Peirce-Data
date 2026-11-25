@@ -1,0 +1,93 @@
+Of $(A)$ $(B)$ $(C)$ no two are complanar
+
+They cut a series of rays $(E)$, $(G)$, and also $(F)$, $(F')$ etc
+
+What rays do $(E)$ $(F)$ $(G)$ cut and are they the same that $(E)(F')(G)$ cut?
+
+Call $[AE] = \Upsilon$ $[AG] = \Phi$
+$[CE] = \Psi$ $[CG] = \Omega$
+
+Then $(A) = x \Upsilon + \bar{x} \Phi$
+$(C) = z \Psi + \bar{z} \Omega$
+
+$(E) = u \Upsilon + \bar{u} \Psi$
+$(G) = w \Phi + \bar{w} \Omega$
+
+($x, z, u, w$ are variable in the several rays).
+
+We may write $(B) = y \bar{U} \Upsilon + \bar{y} \bar{W} \Phi + y U \Psi + \bar{y} W \Omega$ ($y$ variable)
+
+Take an arbitrary point on $(C)$. Call it $[C_z] = \frac{u z}{u z + \bar{w} \bar{z}} \Psi + \frac{w \bar{z}}{u z + \bar{w} \bar{z}} \Omega$
+
+Then the plane $\{A C_z\} = p x \Upsilon + p \bar{x} \Phi + \bar{p} \frac{u z}{u z + \bar{w} \bar{z}} \Psi + \bar{p} \frac{w \bar{z}}{u z + \bar{w} \bar{z}} \Omega$ ($p$ and $z$ variable in the plane)
+
+To find $[B \{A C_z\}]$ put $y \bar{U} = p x$
+$y U = \bar{p} \frac{u z}{u z + \bar{w} \bar{z}}$
+$y = p x + \bar{p} \frac{u z}{u z + \bar{w} \bar{z}}$
+[del]$y = p U$[/del]
+
+$\bar{y} \bar{W} = p \bar{x}$
+$\bar{y} W = \bar{p} \frac{w \bar{z}}{u z + \bar{w} \bar{z}}$
+$\bar{y} = p \bar{x} + \bar{p} \frac{w \bar{z}}{u z + \bar{w} \bar{z}}$
+
+[del]$p x$[/del] $p = y \bar{U} + \bar{y} \bar{W} = y (\bar{U} - \bar{W}) + \bar{W}$
+$\bar{p} = y U + \bar{y} W = y (U - W) + W$
+
+$y U = (y \bar{U} + \bar{y} \bar{W}) \frac{u z}{u z + \bar{w} \bar{z}}$
+$y \bar{U} = (y \bar{U} + \bar{y} \bar{W}) \frac{\bar{u} z}{u z + \bar{w} \bar{z}}$
+
+$\bar{y} W = (y U + \bar{y} W) \frac{w \bar{z}}{u z + \bar{w} \bar{z}}$
+$\bar{y} \bar{W} = (y U + \bar{y} W) \frac{\bar{w} \bar{z}}{u z + \bar{w} \bar{z}}$
+
+[del]$[B \{A C_z\}] \Rightarrow$[/del] $y = \frac{[del]y (U - W) + W[/del]}{[del]u z + \bar{w} \bar{z}[/del]} \frac{z}{[del]u z + \bar{w} \bar{z}[/del]}$
+
+$\bar{p} = u z + \bar{w} \bar{z}$
+
+$y (u z + \bar{w} \bar{z}) = y (u z - w z) + w z$
+$2 y w z = w z$
+$y = \frac{1}{2}$
+
+$\bar{y} = p$
+
+$u$
+
+$y \bar{U} = p x$
+$\bar{y} \bar{W} = p \bar{x}$
+$y [del]V[/del] = \bar{p} \frac{z}{u z + \bar{w} \bar{z}}$
+$\bar{y} [del]W[/del] = \bar{p} \frac{\bar{z}}{u z + \bar{w} \bar{z}}$
+
+$1 = \frac{\bar{p}}{u z + \bar{w} \bar{z}}$
+$\bar{p} = u z + \bar{w} \bar{z}$
+$p = y (\bar{U} - \bar{W}) + \bar{W}$
+
+$p \bar{x} = \bar{y} \bar{W}$
+$\bar{w} - y \bar{w} = p \bar{x}$
+[del]$\bar{w} - p \bar{x} = y$[/del]
+$p = \bar{w} + y (\bar{w} - \bar{u})$
+
+[del]$p y \bar{U} = \bar{w}$[/del]
+$p = y \bar{U} + \bar{y} \bar{W}$
+
+$y U = p x$
+$\bar{y} W = p \bar{x}$
+$y \bar{U} = \bar{p} \frac{u z}{u z + \bar{w} \bar{z}}$
+$\bar{y} \bar{W} = \bar{p} \frac{w \bar{z}}{u z + \bar{w} \bar{z}}$
+
+$y = \bar{p} \frac{u z}{u z + \bar{w} \bar{z}}$
+$\bar{y} = \bar{p} \frac{w \bar{z}}{u z + \bar{w} \bar{z}}$
+
+$z \bar{U} = p x$
+$\bar{z} \bar{W} = p \bar{x}$
+$p = z \bar{U} + \bar{z} \bar{W}$
+
+$\bar{p} = u z + \bar{w} \bar{z}$
+$1 = z + \bar{z} = 1$
+
+$p = y \bar{U} + \bar{y} \bar{W} = y (\bar{U} - \bar{W}) + \bar{W}$
+$1 - p = \bar{W} + y (\bar{U} - \bar{W})$
+
+$y = y \frac{(\bar{U} - \bar{W}) z}{u z + \bar{w} \bar{z}}$
+
+$y = [del]\frac{w z}{u z + \bar{w} \bar{z}}[/del] + y \frac{(\bar{U} - \bar{W}) z}{u z + \bar{w} \bar{z}}$
+
+$y \left( \frac{[del]u z + \bar{w} \bar{z}[/del]}{[del]u z + \bar{w} \bar{z}[/del]} \right) = \frac{w z}{u z + \bar{w} \bar{z}}$

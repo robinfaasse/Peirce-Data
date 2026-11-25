@@ -1,0 +1,11 @@
+In like manner a consequent can [del]be dropped[/del] [ins]be dropped[/ins]
+precisely as an antecedent except that the
+next following one must be put in its place.
+
+Thus
+$$[(a \prec b) \prec c] \prec b = [(a \prec c) \prec c] \prec b$$
+$$\{[(a \prec b) \prec c] \prec d\} \prec b = \{[(a \prec c) \prec c] \prec d\} \prec b$$
+
+So
+$$(a \prec b) \prec b \prec c = b \prec c$$
+$$[(a \prec b) \prec c] \prec b \prec d = c \prec b \prec d$$

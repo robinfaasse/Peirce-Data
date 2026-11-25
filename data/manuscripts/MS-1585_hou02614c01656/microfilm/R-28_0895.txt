@@ -1,0 +1,22 @@
+[fig]triangle with altitude[/fig]
+
+$$\frac{1}{2} p a = \Delta$$
+$$p = \frac{2 \Delta}{a}$$
+
+[del]$$\frac{b^2 - c^2}{2a}$$[/del] [ins]$$+ \frac{b^2 - c^2}{2a}$$[/ins] $$\frac{2 \Delta}{a}$$
+
+[del]$$\frac{2 \Delta}{a}$$[/del] [ins]$$\frac{a^2}{a^2 + b^2 - c^2}$$[/ins]
+
+$$-\frac{2x}{a} + \frac{y(a^2 + b^2 - c^2)}{2a\Delta} = 1$$
+
+$$\frac{a^2 - b^2 + c^2}{2a} \quad \frac{2\Delta}{a}$$
+
+$$\frac{2x}{a} + y \frac{a^2 - b^2 + c^2}{2a\Delta} = 1$$
+
+$$\frac{2a\Delta}{a^2 - b^2 + c^2}$$
+
+$$x^2 + y^2 = \frac{1}{4} a^2$$
+
+$$y \frac{(a^2 - b^2 + c^2)}{4\Delta} - \frac{a}{2} = x$$
+
+$$y^2 \frac{(a^2 - b^2 + c^2)^2}{16\Delta^2} - y \frac{a(a^2 - b^2 + c^2)}{4\Delta} + \frac{a^2}{4} = x^2$$

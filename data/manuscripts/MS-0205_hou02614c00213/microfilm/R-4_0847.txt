@@ -1,0 +1,22 @@
+[pn]29[/pn]
+
+[u]Theorem XI[/u]. Every cardinal number [ins]N[/ins] has with reference to every cardinal number [ins]M[/ins] [del]except zero[/del], a remainder, [u]R[/u][sub]M[/sub]N, and a quotient, [u]Q[/u][sub]M[/sub]N; and only one number is remainder or quotient.
+
+[u]Proof[/u]: Suppose N to be a cardinal number having this character, that whatever cardinal number except zero M may be, there is a cardinal number [u]R[/u][sub]M[/sub]N less than M and a cardinal number [u]Q[/u][sub]M[/sub]N such that N = [u]R[/u][sub]M[/sub]N + ([u]Q[/u][sub]M[/sub]N)·M. Then,
+GN = G[[u]R[/u][sub]M[/sub]N + ([u]Q[/u][sub]M[/sub]N)·M] = by the 3[sup]d[/sup] condition of Definition 2
+= G[u]R[/u][sub]M[/sub]N + ([u]Q[/u][sub]M[/sub]N)·M.
+
+Since [del]R[sub]M[/sub]N[/del] M > [u]R[/u][sub]M[/sub]N, by Theorem III, Corollary 1, either M = G[u]R[/u][sub]M[/sub]N or M > G[u]R[/u][sub]M[/sub]N. In the latter case, G[u]R[/u][sub]M[/sub]N is by definition [u]R[/u][sub]M[/sub](GN) and [u]Q[/u][sub]M[/sub]N = [u]Q[/u][sub]M[/sub](GN). So that GN has a remainder and quotient.
+
+But if M = G[u]R[/u][sub]M[/sub]N
+GN = M + ([u]Q[/u][sub]M[/sub]N)·M = ([del]by a former Corollary[/del] [ins]the 3[sup]d[/sup] condition Definition[/ins]) (G[u]Q[/u][sub]M[/sub]N)·M
+= 0 + (G[u]Q[/u][sub]M[/sub]N)·M (by a Corollary from Definition)
+
+[del]But by hypothesis M > 0. And since by Definition 1, GN > N by the last Corollary of Theorem III, zero[/del]
+[del]Hence, by definition 0 = R[sub]M[/sub][/del]
+
+But by hypothesis M > 0. Hence, by definition 0 = [u]R[/u][sub]M[/sub](GN) and G[u]Q[/u][sub]M[/sub]N = [u]Q[/u][sub]M[/sub](GN). Hence, in every case, if N has the character, so has GN.
+
+But if N = 0, we know that N = 0 = 0 + 0 = 0 + 0·M and since by hypothesis M > 0, by definition 0 = [u]R[/u][sub]M[/sub]0 and 0 = [u]Q[/u][sub]M[/sub]0. Hence, zero has the character; and by the Fermatian Principle every cardinal number has a remainder and quotient in reference to every [ins]cardinal[/ins] number, M, not zero.
+
+It remains to show that no cardinal number has [del]m[/del]ore than one remainder and quotient for a given modulus. For suppose any cardi-

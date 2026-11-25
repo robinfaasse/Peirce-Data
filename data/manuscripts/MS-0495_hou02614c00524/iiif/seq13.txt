@@ -1,0 +1,9 @@
+[fig]—loves—[/fig] Examples
+[fig](—loves—)[/fig] Something loves something
+[fig](—loves—)—[/fig] Nothing loves anything
+[fig]—(—loves—)[/fig] Something does not love anything
+[fig](—loves—)[/fig] Something does not love something
+[fig]((—loves—))[/fig] Everything loves everything
+[fig]((—loves—))[/fig] Something loves everything
+[fig]((—loves—))[/fig] Everything loves something
+[fig](((—loves—)))[/fig] Everything has something it does not love.

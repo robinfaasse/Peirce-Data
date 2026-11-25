@@ -1,0 +1,38 @@
+[u]Dedekind's Dirichlet §23[/u]
+
+The object of this note is describe a notation which
+renders the elementary constitution and properties of the
+functions connected with the GCD algorithm plainly
+discernible.
+
+Let there be a series of integers termed elements each having
+a definite and fixed ordinal place and number in that series.
+Let those of these elements whose ordinals are odd be denoted each
+by $\tau$ with a subscript index equal to half of one less than its ordinal
+number, while each of those whose ordinals are even are to be
+denoted by $\pi$ with a subscript index equal to one less than half
+its ordinal number. Thus the series with the ordinals will be as
+follows:
+(1) $\begin{cases} \text{Ordinals} & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \text{ etc.} \\ \text{Elements} & \tau_0 & \pi_0 & \tau_1 & \pi_1 & \tau_2 & \pi_2 & \tau_3 & \pi_3 \text{ etc.} \end{cases}$
+
+It is now needful to define four series of functions of
+these elements, as independent variables. These functions
+will be denoted thus:
+(2) $\begin{cases} \text{The T's} & : & \text{T}'_0, & \text{T}'_1, & \text{T}'_2, & \text{T}'_3, & \text{T}'_4, & \text{etc.} \\ \text{The T''s} & : & \text{T}''_0, & \text{T}''_1, & \text{T}''_2, & \text{T}''_3, & \text{T}''_4, & \text{etc.} \\ \text{The }\Pi\text{'s} & : & \Pi'_0, & \Pi'_1, & \Pi'_2, & \Pi'_3, & \Pi'_4, & \text{etc.} \\ \text{The }\Pi\text{''s} & : & \Pi''_0, & \Pi''_1, & \Pi''_2, & \Pi''_3, & \Pi''_4, & \text{etc.} \end{cases}$
+
+Each of these functions is a sum of terms called constituents, each
+constituent being the product of [del]of[/del] elements, shown in (1). Every
+function indicated in this fourfold scheme is the sum of
+all the elementary products that are possible under the
+following requirements:
+$1^{\text{st}}$, Each product is a product of elements, each entering
+in the first degree, if at all; and the different elements,
+taken [ins]as factors[/ins] in their ordinal succession, as shown in (1), are
+alternately $\tau$'s and $\pi$'s; the first factor being invariably $\tau_0$,
+and the last being a $\tau$ in a constituent of a T, but a $\pi$
+in a constituent of a $\Pi$. The last factor never has a sub-
+script index higher than that of the T or $\Pi$ which is the
+symbol of the function. But
+$2^{\text{d}}$, The only exception to this [fig]black circle[/fig] above is that $\pi_0$
+is altogether excluded in forming the T's and the $\Pi$'s, while in
+forming the T''s and $\Pi$''s all constituents not containing $\pi_0$ are omitted.

@@ -1,0 +1,29 @@
+[marginalia]
+[pn]Logic[/pn]
+[pn]III[/pn]
+142
+[/marginalia]
+
+The proof is simple enough. [del]If[/del] [ins]Either[/ins] [del]F[/del] [ins]F[sub]x[/sub][/ins]
+and [del]x[/del] [ins]y[/ins] both have the value v, when
+
+[del](x + y) (F[sub]x[/sub] + f) . (F[/del]
+
+[u]F[sub]v[/sub] + x F[sub]f[/sub][/u]
+(x + F[sub]v[/sub]) . (x + F[sub]f[/sub])
+
+[del](x + y) . (F[sub]x[/sub] +[/del]
+[del](F[sub]x[/sub] + y) . (F[sub]y[/sub] + x)[/del] \\\
+
+[del]If F[sub]v[/sub] = v[/del] x = v F[sub]v[/sub] = v F[sub]v[/sub] + x = v
+[del]y[/del] x = f F[sub]f[/sub] = v F[sub]f[/sub] + x = v
+[del]If F[sub]v[/sub] = f[/del] x = v F[sub]v[/sub] = f F[sub]v[/sub] + x = v
+x = f F[sub]f[/sub] = f F[sub]f[/sub] + x = f
+
+[del]F[sub]v[/sub] + x = f[/del]
+[del]F[sub]f[/sub] + x = v[/del]
+
+x
+x
+
+x =

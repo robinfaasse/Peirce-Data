@@ -1,0 +1,11 @@
+[pn]4[/pn]
+
+[u]Theorem 12[/u]. If a pair of planes are perpendicular to another pair of planes, the rays of intersection of the two pairs are metrical conjugates.
+
+[u]Demonstration[/u]. Let $(\alpha)$, $(\beta)$, $(\mu)$, $(\nu)$ be four planes such that $\angle \alpha \mu = \angle \alpha \nu = \angle \beta \mu = \angle \beta \nu = \frac{1}{2} \partial$. Then, I say, that every plane through $\{\alpha \beta\}$ is perpendicular to every plane through $\{\mu \nu\}$, and every point of $\{\alpha \beta\}$ is at a quadrant's distance from every point of $\{\mu \nu\}$.
+
+Since $\angle \alpha \mu = \angle \alpha \nu = \frac{1}{2} \partial$, by Theorem , $(\alpha)$ is perpendicular to every plane through $\{\mu \nu\}$. And in like manner, $(\beta)$ is perpendicular to every plane through $\{\mu \nu\}$. Whence, by the same theorem, every plane through $\{\alpha \beta\}$ is perpendicular to every plane through $\{\mu \nu\}$.
+
+Then, $(\alpha')$ and $(\beta')$ being any two planes through $\{\alpha \beta\}$, and $\{\mu'\}$ being any plane through $\{\mu \nu\}$, the $\curlywedge \alpha' \beta' \mu'$ is birectangular at $(\alpha' \mu'($ and $)\beta' \mu'($ . Whence, by Theorem , $\curlywedge \alpha' \beta' \mu'$ is biquadrantal in $)\alpha' \mu'($ and $)\beta' \mu'($ ; and thus, since a spherical length is the same thing as a plane angle, $\{\alpha' \mu'\}$ and $\{\beta' \mu'\}$ are perpendicular to $\{\alpha' \beta'\}$. Consequently, [del]the $\triangle$ if[/del] [ins]if[/ins] $[A]$ and $[B]$ are any [ins]two[/ins] points on $\{\alpha \beta\}$ and $[M]$ is any point on $\{\mu \nu\}$, [del]a[/del] $\triangle ABM$ is birectangular at $[A]$ and $[B]$, and by Corollary , $|AM| = \frac{1}{2} \partial$. Thus, any point in $\{\alpha \beta\}$ is distant a quadrant from any point in $\{\mu \nu\}$. Q.E.D.
+
+[u]Corollary 15[/u]. By the same reasoning, mutatis mutandis, if a pair of points are at quadrants' distances from another pair of points, the rays through the two pairs are metrical conjugates.

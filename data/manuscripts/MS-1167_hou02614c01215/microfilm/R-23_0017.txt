@@ -1,0 +1,49 @@
+[pn]11[/pn]
+
+ELLIPSOID. Add: _Strain ellipsoid_, or _ellipsoid of expansion_,
+the ellipsoid into which any strain transforms any infinites-
+imal sphere in a body. _Reciprocal ellipsoid of expansion_,
+the surface of which each radius vector is inversely propor-
+tional to the square root of the linear expansion in the
+same direction. _Poinsot's momental ellipsoid_ or the _inverse
+ellipsoid of inertia_, a surface of which every radius vector
+is equal to the radius of gyration of the body about that
+radius vector as an axis. _Central ellipsoid_, that momental
+ellipsoid whose centre is at the centre of mass of the body.
+
+ELLIPTIC. Strike out the words "oblong with rounded ends."
+Add: _Elliptic coordinates_, a system of coordinates for
+defining curves upon an ellipsoid by means of the intersec-
+tions of two systems of confocal hyperboloids. _Elliptic
+space_, a kind of space having properties different from
+those assumed in the usual axioms of geometry, inasmuch
+as two straight lines in a plane which do not intersect
+can either of them be rotated through a finite angle in
+the plane without making them intersect, that is to say,
+at any finite distance. All propositions about intersections
+in elliptic geometry (or the geometry of elliptic space)
+will be the same as for the ordinary, or Euclidean geometry,
+but measures of distances, angles, areas, etc., will gene-
+rally be different. At present, we measure by means of
+rigid bars, which we assume do not change their length
+when they are carried about,--an assumption justified by
+the fact that one bar thus used tells the same story as
+another in regard to the relative distances of points.
+We might however make the arbitrary and unreasonable, but
+still perfectly consistent assumption that all bodies ex-
+pand as they are carried away from a certain fixed point
+in space, so that certain distances which as measured by
+rods appear finite are really infinite. If we thus assume
+that all the points on a certain ellipse are at an infinite
+distance, we have an elliptic geometry. _Elliptic function_,
+A doubly-periodic function analogous to a trigonometrical
+function, and the inverse of an elliptic integral. _Elliptic
+integral_, an integral expressing the length of the arc
+of an ellipse. _Elliptic integrals_ are of three kinds, which are
+of the following forms:
+
+[ins]Elliptic Integral of[/ins] the first kind [ins]\int \frac{d\varphi}{\sqrt{1 - k^2 (\sin \varphi)^2}}[/ins]
+
+[ins]Elliptic Integral of[/ins] the second kind [ins]\int \sqrt{1 - k^2 (\sin \varphi)^2}[/ins]
+
+[ins]Elliptic Integral of[/ins] the third kind [ins]\int \frac{d\varphi}{(1 + n^2 (\sin \varphi)^2) \sqrt{1 - k^2 (\sin \varphi)^2}}[/ins]

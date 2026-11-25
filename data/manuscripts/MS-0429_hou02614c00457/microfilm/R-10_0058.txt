@@ -1,0 +1,35 @@
+[marginalia]
+[del]Note[/del]
+[u]p 48[/u]
+!
+359
+[/marginalia]
+
+[marginalia]
+Got it
+[/marginalia]
+
+¶ Here give another proof of the proposition of p. 48.
+
+1[ins]st[/ins], Suppose P and Q both false; so that
+[u]v[/u] o [u]v[/u] = [u]f[/u]   [u]f[/u] o [u]f[/u] = [u]v[/u]   [u]f[/u] o [u]v[/u] = [u]f[/u]   [u]v[/u] o [u]f[/u] = [u]v[/u]
+Then [u]f[/u] o ([u]v[/u] o [u]v[/u]) = [u]f[/u] o [u]f[/u] = [u]v[/u], [u]v[/u] o ([u]f[/u] o [u]v[/u]) = [u]v[/u] o [u]f[/u] = [u]v[/u]
+[u]f[/u] o ([u]v[/u] o [u]f[/u]) = [u]f[/u] o [u]v[/u] = [u]f[/u]   [u]v[/u] o ([u]f[/u] o [u]f[/u]) = [u]v[/u] o [u]v[/u] = [u]f[/u]
+and the [del]formulas[/del] [ins]two[/ins] [ins]formulae[/ins] hold[del]s[/del].
+
+2[ins]nd[/ins], Suppose the first formula fails. That is,
+[u]f[/u] o ([u]v[/u] o [u]v[/u]) [del]≎[/del] [ins]≮[/ins] [u]v[/u] o ([u]f[/u] o [u]v[/u]).
+
+Now if [u]v[/u] o [u]v[/u] = [u]f[/u] o [u]v[/u] = [u]v[/u], evidently every expression ending
+in [u]v[/u] would be equal to [u]v[/u], contrary to the hypothesis of the
+inequality just written. Hence, either [u]v[/u] o [u]v[/u] = [u]f[/u] or [u]f[/u] o [u]v[/u] = [u]f[/u].
+
+If [u]v[/u] o [u]v[/u] = [u]f[/u], but [u]f[/u] o [u]v[/u] = [u]v[/u], the second side of the inequality is [u]v[/u] o [u]v[/u] = [u]f[/u];
+so that the first side must be [u]f[/u] o [u]f[/u] = [u]v[/u], and P is false.
+
+If [u]f[/u] o [u]v[/u] = [u]f[/u], but [u]v[/u] o [u]v[/u] = [u]v[/u], the first side of the inequality is [u]f[/u] o [u]v[/u] = [u]f[/u]; so
+that the second side must be [u]v[/u] o [u]f[/u] = [u]v[/u], and Q is false.
+
+If [u]v[/u] o [u]v[/u] = [u]f[/u] and [u]f[/u] o [u]v[/u] = [u]f[/u], the inequality becomes [u]f[/u] o [u]f[/u] [ins]≮[/ins] [u]v[/u] o [u]f[/u].
+Hence either [u]f[/u] o [u]f[/u] = [u]v[/u], when P is false or [u]v[/u] o [u]f[/u] = [u]v[/u], when Q is false;
+and in any case either P or Q is false.

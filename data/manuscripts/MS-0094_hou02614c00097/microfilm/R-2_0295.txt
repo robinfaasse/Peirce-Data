@@ -1,0 +1,21 @@
+[pn]47[/pn] [pn]286[/pn]
+
+[u]Corollary 30[/u]. One conic, and one only, passes through any one set of five points in a plane, no four of them co-radial.
+
+§145. Imagine the three directrices, or fixed rays defining a phimus, to move, so that the phimus changes shape, in the following way. Let a point, V, be selected not in either of the three directrices. Let the three directrices be [u]a[/u], [u]b[/u], [u]c[/u].
+
+Consider the plane (aV). Denote by B_A and C_A the points
+[fig]Geometric diagram with points A, V, B_A, C_A, A_B, A_C[/fig]
+B_A = [[u]b[/u](aV)]
+C_A = [[u]c[/u](aV)]
+
+Denote by A_B and A_C the points
+A_B = [[u]a[/u]([u]b[/u]V)]
+A_C = [[u]a[/u]([u]c[/u]V)]
+
+Denote by A the point
+A = [[u]a[/u]{B_A C_A}].
+
+Now [u]a[/u] is [del]to in[/del] moving to continue in the plane (aV), [u]b[/u] in the plane ([u]b[/u]V), [u]c[/u] in the plane [ins]&[/ins] ([u]c[/u]V). The directrix [u]a[/u] is [del]to[/del] continue to pass through A as a fixed point; and [u]b[/u] and [u]c[/u] are to continue to pass through their corresponding points and the relative [del]speeds of[/del] [ins]amount of[/ins] motion is to be such that B_A and C_A in their motion continue to be in one ray through A. And so with A_B and C_B, and with A_C and B_C.
+
+Let us see what sort of change this will make in the shape

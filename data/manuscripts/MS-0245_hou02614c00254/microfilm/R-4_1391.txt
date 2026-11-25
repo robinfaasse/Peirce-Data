@@ -1,0 +1,37 @@
+A favorable event has probability $p$
+A man receives $q$ dollars for every favorable event
+and pays $r$ dollars for every [del]un[/del]favorable one
+What is the probability that he will be ruined
+His fortune being $a$
+
+Let $u_x$ be the prob. of his being ruined when his fortune is $x$
+[del]before the game[/del] [ins]before his fortune becomes $b$[/ins]
+
+$u_x = p u_{x+q} + (1-p) u_{x-r}$
+
+Suppose $q=r=1$
+
+$u_x = p u_{x+1} + (1-p) u_{x-1}$
+
+[del]$t-1$[/del] $p t^2 - t + (1-p) = 0$  ($p t + p - 1 = 0$
+$\frac{p t - p t}{(p-1) t + (1-p}$  $t = \frac{1-p}{p}$
+or $1$
+
+$u_x = A + B \left(\frac{1-p}{p}\right)^x$
+
+But when $x=0$ [del]$u_x = 1$[/del]  $A + B = 1$
+When his fortune is $1$
+$u_1 = p u_2 + (1-p)$
+[del]$u_0 = p u_1 + (1-p) u_{-1}$[/del]
+$u_2 = p u_3 + (1-p) p$
+
+$u_x = \frac{\left(\frac{1-p}{p}\right)^x - \left(\frac{1-p}{p}\right)^b}{1 - \left(\frac{1-p}{p}\right)^b}$
+$= \frac{(1-p)^x p^b - (1-p)^b p^x}{p^{x+b} - (1-p)^b p^x}$
+
+$u_{b-1} = \frac{(1-p) u_{b-2}}{}$
+$u_b = A + B \left(\frac{1-p}{p}\right)^b = 0$
+$A + B = 1$
+$B \left(1 - \left(\frac{1-p}{p}\right)^b\right) = 1$
+$B = \frac{1}{1 - \left(\frac{1-p}{p}\right)^b} = \frac{1}{\frac{p^b - (1-p)^b}{p^b}} = \frac{p^b}{p^b - (1-p)^b}$
+$A = 1 - \frac{1}{1 - \left(\frac{1-p}{p}\right)^b} = \frac{-\left(\frac{1-p}{p}\right)^b}{1 - \left(\frac{1-p}{p}\right)^b}$
+$u_x = \frac{1 - \left(\frac{1-p}{p}\right)^{b-x}}{1 - \left(\frac{1-p}{p}\right)^b}$

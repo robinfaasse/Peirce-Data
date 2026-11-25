@@ -1,0 +1,51 @@
+[fig]grid[/fig]
+[fig]punch hole[/fig]
+
+[fig]grid[/fig]
+1  A B C D E
+2  F G H I J
+3  K L M N O
+4  P Q R S T
+5  U V W X Y
+      1 2 3 4 5
+
+[fig]grid[/fig]
+IX
+C A [ins]C[/ins] B B E C
+H F H G G J H
+M K M L L O M
+R P R Q Q T R
+W U W V V Y W
+
+[fig]grid[/fig]
+D O A B A D P
+I H F C F O I
+N M K D K N M
+S R P Q P S S
+X W U W U X X
+
+[fig]grid[/fig]
+C E A C E D
+D J F H J I
+M O K M O N
+R T P R T S
+W Y U W Y X
+
+[fig]grid[/fig]
+A E C C E A D
+F J H H J F I
+K O M M O K N
+P T R R T P S
+U Y W W Y U X
+
+[fig]grid[/fig]
+A C E E E B C A A C
+F H J J J G H F F H
+K M O O O L M K K M
+P R T T T Q R P P R
+U W Y Y Y V W U U W
+
+ROAD
+GROUP
+ONS
+PEM

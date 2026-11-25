@@ -1,0 +1,46 @@
+$$[l], v, (1-lv) \equiv 0$$
+
+$$[l] \equiv [l^{-1}]$$
+
+$$[l] \equiv \circ \circ (v, (1-lv)) \equiv \frac{\circ}{\circ} (v + lv)$$
+[del]$$[l^{-1}] \equiv \frac{\circ}{\circ} (1-v + lv)$$[/del]
+$$v \equiv lu$$
+$$[l] \equiv \frac{\circ}{\circ} (1-lu + l^2u)$$
+
+---
+
+$$\phi x \equiv lx + mx + n$$
+$$\therefore x \equiv lx$$
+$$1-x \equiv 1-lx \equiv 1(1-x)$$
+$$1x + ?x \equiv 1$$
+$$?x, 1x \equiv 0$$
+[del]$$?x \equiv 1-1x$$[/del]
+
+---
+
+[del]$$[n-m-1]$$[/del]
+[del]$$[1-n-m] \circ [1(n-1)-M, 1(n-1)-1$$[/del]
+[del]$$M-1, 1-M(n-1)$$[/del]
+
+---
+
+$$l(a,b) \equiv \left(la, lb - l(a,\bar{b}), l(\bar{a},b)\right) ; \left(1-l(a,\bar{b}), l(\bar{a},b)\right)$$
+$$(4) \qquad \equiv la, lb, (1-l(a,\bar{b}) + 1-l(\bar{a},b)) + \frac{\circ}{\circ} l(a,\bar{b}), l(\bar{a},b)$$
+where we have also
+$$(5) \qquad l(a,b) \equiv \frac{\circ}{\circ} la, lb$$
+
+[del]$$B \qquad [l], v, (1-lv) \equiv 0 \qquad \text{for } v \text{ when we are}$$[/del]
+
+[del]$$\text{If } [lm] \equiv 0$$[/del]
+[del]$$\text{then } [lm], v, (1-lmv) \equiv 0$$[/del]
+[del]$$\rightleftarrows [lm] \circ \circ (v, v-lmv)$$[/del]
+
+$$B \text{ does not quite express that } \text{which } \equiv l \text{ to } [l]$$
+$$I \text{ guess it will do however}$$
+
+[del]$$B \qquad [l], v, (1-lv) \equiv 0 \qquad v \equiv v, 1-v \equiv 0$$[/del]
+[del]$$[l], v - [l], v, lv \equiv 0$$[/del]
+[del]$$[l], v \equiv [l], v, lv$$[/del]
+$$I \text{ can do better}$$
+$$B \qquad [l] \equiv \Sigma' x \quad \text{where} \quad x, v, (1-lv) \equiv 0 \text{ whatever be}$$
+$$\text{the value of } v, \text{ except zero.}$$

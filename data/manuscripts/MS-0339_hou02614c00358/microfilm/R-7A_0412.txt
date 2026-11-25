@@ -1,0 +1,48 @@
+[marginalia]
+[date]DEC 10 1901[/date] [pn]200r[/pn]
+[/marginalia]
+
+Now to prove [del]$(a \prec b) \prec c \prec a \prec (b \prec c)$[/del]
+
+$[(\bar{a} \prec b) \bar{\prec} \bar{c}] \prec \bar{a} \prec (b \bar{\prec} \bar{c})$
+
+or say $[(a \prec b) \bar{\prec} c] \prec a \prec (b \bar{\prec} c)$
+
+i.e $[a \bar{\prec} (b \bar{\prec} c)] \prec (a \prec b) \prec c$
+
+$a \cdot (\bar{b} + c) \prec a \bar{\cdot} \bar{b} + c$
+
+$[a \bar{\prec} (b \bar{\prec} c)] \prec (a \prec b) \prec c$
+
+Th are
+
+[del]$\frac{c \prec (b \prec t) \prec a \prec t}{[(b \prec c) \bar{\prec} a] \prec \bar{b} + c \bar{\prec} a}$[/del]
+
+$[(b \prec c) \bar{\prec} a] \prec b \prec (c \bar{\prec} a)$
+
+$[(a \prec b) \bar{\prec} c] \prec a \prec (b \bar{\prec} c)$
+
+$\prod_t \{ [(a \prec b) \prec c] \prec t \} \prec a \prec [(b \prec c) \prec t]$
+
+[del]$[a \prec (b \prec c)]$[/del]
+$(\bar{a} + b) \bar{\cdot} \bar{c} + t$
+$\bar{a} + b \bar{\cdot} \bar{c} + t$
+
+$a \bar{\prec} b$
+$a \bar{\cdot} \bar{b}$
+
+This depends on
+$[(a \prec b) \bar{\prec} c] \prec [a \prec (b \bar{\prec} c)]$
+$[(a \prec b) \bar{\prec} c] \prec a \prec (b \bar{\prec} c)$
+
+or $\frac{(a \prec b) \bar{\prec} c}{\therefore \frac{a}{b \bar{\prec} c}}$
+
+| $a \bar{\prec} b$ | $a \bar{\prec} b$
+| $\therefore a$ | $b \prec 0$
+| $(a \prec b) \prec 0$ | That is $b \prec a \prec b$
+| | for $a \prec b \prec b$
+| That is | $[(a \prec b) \prec 0] \prec [b \prec 0]$
+| $\prod_t a \prec t$ |
+| $a \prec b$ |
+| $\therefore y \prec a \bar{\prec} b$ |
+| $a$ |

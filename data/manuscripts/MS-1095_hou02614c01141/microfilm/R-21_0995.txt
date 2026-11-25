@@ -1,0 +1,20 @@
+$$D_{\theta_{1}'} E = [del]\sum_{2}^{p} n[/del] [ins]\sum_{2}^{p} n[/ins] \left\{ m_{n} l_{1}^{2} D_{t} \theta_{1} \right\} + \sum_{2}^{p-1} i \sum_{i+2}^{p} n \left\{ m_{n} l_{i} l_{1} \cos (\theta_{i} - \theta_{1}) D_{t} \theta_{i} \right\}$$
+$$+ \sum_{2}^{p} n \left\{ m_{n} h_{n} l_{1} \cos (\theta_{1} - \theta_{n}) D_{t} \theta_{n} \right\} + m_{1} (h_{1}^{2} + \gamma_{1}^{2}) D_{t} \theta_{1}$$
+$$= [del]\sum[/del] [ins]\left[ \right.[/ins] m_{1} (h_{1}^{2} + \gamma_{1}^{2}) + [del]\sum_{2}^{p} n[/del] [ins]\sum_{2}^{p} n[/ins] m_{n} l_{1}^{2} [ins]\left. \right][/ins] D_{t} \theta_{1}$$
+$$+ \sum_{2}^{p-1} i \left\{ (m_{i} h_{i} + \sum_{i+1}^{p} n m_{n} l_{i}) l_{1} \cos (\theta_{i} - \theta_{1}) D_{t} \theta_{i} \right\}$$
+$$+ m_{p} h_{p} l_{1} \cos (\theta_{p} - \theta_{1}) D_{t} \theta_{p}$$
+
+$$D_{\theta_{p}'} E = [del]\sum_{1}^{p-1} i \sum_{i+2}^{p} n[/del] \sum_{1}^{p-1} i \left\{ m_{p} h_{p} l_{i} \cos (\theta_{i} - \theta_{p}) D_{t} \theta_{i} \right\}$$
+$$+ m_{p} (h_{p}^{2} + \gamma_{p}^{2}) (D_{t} \theta_{p})$$
+
+[u]The fluxions of these partial differential coeffi-[/u]
+[u]cients are[/u]
+$$D_{t} D_{\theta_{k}'} E = \sum_{1}^{k-1} i \left\{ (m_{k} h_{k} + \sum_{k+1}^{p} n m_{n} l_{k}) l_{i} \cos (\theta_{k} - \theta_{i}) D_{t}^{2} \theta_{i} \right\}$$
+$$+ \left[ m_{k} (h_{k}^{2} + \gamma_{k}^{2}) + \sum_{k+1}^{p} n m_{n} l_{k}^{2} \right] D_{t}^{2} \theta_{k}$$
+$$+ \sum_{k+1}^{p-1} i \left\{ (m_{i} h_{i} + \sum_{i+1}^{p} n m_{n} l_{i}) l_{k} \cos (\theta_{k} - \theta_{i}) D_{t}^{2} \theta_{i} \right\}$$
+$$+ m_{p} h_{p} l_{k} \cos (\theta_{k} - \theta_{p}) D_{t}^{2} \theta_{p}$$
+$$+ \sum_{1}^{k-1} i \left\{ (m_{k} h_{k} + \sum_{k+1}^{p} n m_{n} l_{k}) l_{i} \sin (\theta_{k} - \theta_{i}) (D_{t} \theta_{i})^{2} \right\}$$
+$$+ \sum_{k+1}^{p-1} i \left\{ (m_{i} h_{i} + \sum_{i+1}^{p} n m_{n} l_{i}) l_{k} \sin (\theta_{k} - \theta_{i}) (D_{t} \theta_{i})^{2} \right\}$$
+$$+ m_{p} h_{p} l_{k} \sin (\theta_{k} - \theta_{p}) (D_{t} \theta_{p})^{2}$$
+$$- \sum_{1}^{k-1} i \left\{ (m_{k} h_{k} + \sum_{k+1}^{p} n m_{n} l_{k}) l_{i} \sin (\theta_{k} - \theta_{i}) D_{t} \theta_{i} D_{t} \theta_{k} \right\}$$
+$$- \sum_{k+1}^{p-1} i \left\{ (m_{i} h_{i} + \sum_{i+1}^{p} n m_{n} l_{i}) l_{k} \sin (\theta_{k} - \theta_{i}) D_{t} \theta_{i} D_{t} \theta_{k} \right\}$$

@@ -1,0 +1,27 @@
+[pn]Logic
+III
+21[/pn]
+
+[pn](3)[/pn] Either [u]v[/u] - [u]r[/u] = 0, [u]r[/u] = [u]v[/u],
+or [u]r[/u] - [u]f[/u] = 0, [u]r[/u] = [u]f[/u].
+
+I will give a logical illustration of this, but without any attempt [ins]to make probable[/ins] [del]at[/del] good sense. Let [u]p[/u] mean 'it rains', (pluit); [u]n[/u], 'it snows' (ningit); [u]g[/u], 'it hails' (grandinat). Suppose I wish to say 'if it rains, it snows.' I write
+
+(4) ([u]p[/u] - [u]f[/u])([u]v[/u] - [u]n[/u]) = 0.
+
+This expresses it because if it rains, that is, if [u]p[/u] = [u]v[/u], the equation becomes
+
+(5) ([u]v[/u] - [u]f[/u])([u]v[/u] - [u]n[/u]) = 0
+
+But by (1)
+
+(6) [u]v[/u] - [u]f[/u] [unclear]≠[/unclear] 0
+
+Hence, [u]v[/u] - [u]n[/u] = 0 [u]n[/u] = [u]v[/u].
+That is it snows. On the other hand, if it does not snow, that is if
+
+(7) [u]n[/u] = [u]f[/u],
+
+equation (4) will become
+
+(8) ([u]p[/u] - [u]f[/u])([u]v[/u] - [u]f[/u]) = 0

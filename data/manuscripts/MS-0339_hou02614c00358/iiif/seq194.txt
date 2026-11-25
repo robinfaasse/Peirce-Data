@@ -1,0 +1,19 @@
+90r
+
+$\breve{\underline{x}} (\breve{\bar{y}} + \breve{\bar{x}}) \breve{\bar{z}} (\breve{\bar{y}} + \breve{\bar{x}})$
+
+$\breve{\underline{x}} \breve{\bar{z}} \breve{\bar{y}} \prec T$
+
+$zxy \prec T$
+
+Suppose $zx \prec \breve{\bar{y}}$
+$\breve{\bar{x}} \breve{\bar{z}} \prec \bar{y}$ [ins] $zx \prec \breve{\bar{y}}$ [/ins]
+Can we also have $\breve{\bar{x}} \breve{\bar{z}} \prec y$ [ins] $\bar{z} \bar{x} \prec \bar{y}$ [/ins]
+
+If there is an M such that
+$A:M \prec z$ [ins] If $zxy \prec \breve{\bar{y}}$ [/ins]
+$M:B \prec x$ [ins] then $\breve{y} \prec \bar{z} + \bar{x}$ [/ins]
+Then $A:B \prec y$ [ins] therefore $\bar{z} \bar{x} \prec \bar{z} + \bar{x}$ [/ins]
+There is [del]always[/del] [ins] never [/ins] an N such that
+$A:N \prec \bar{z}$
+$N:B \prec \bar{x}$

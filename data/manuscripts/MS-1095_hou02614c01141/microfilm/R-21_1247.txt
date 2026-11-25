@@ -1,0 +1,15 @@
+$$F = y(x^2+y^2)^{-n}$$
+$$\log F = \log y - n \log (x^2+y^2)$$
+$$D_x \log [ins]F[/ins] = -2nx \frac{1}{x^2+y^2}$$
+$$D_x F = - \frac{2nx F}{x^2+y^2}$$
+$$\log D_x F = [del]\log (-2nx)[/del] [ins]\log -2n + \log x[/ins] + \log F - \log (x^2+y^2)$$
+$$D \log D_x F = \frac{1}{x} + \frac{[del]1[/del]}{F} - \frac{2x}{x^2+y^2}$$
+$$D_x^2 F = - \frac{2n F}{x^2+y^2} - \frac{2nx}{x^2+y^2} + \frac{4nx^2 F}{(x^2+y^2)^2}$$
+
+$$D_y \log F = \frac{1}{y} - 2ny \frac{1}{x^2+y^2}$$
+$$D_y F = \frac{F}{y} - \frac{2ny F}{x^2+y^2}$$
+$$[del]\log D_y F = \log F - \log y - \dots[/del]$$
+$$D_y^2 F = \frac{D_y F \cdot y - F}{y^2} - \frac{[del]4[/del] [ins]2[/ins]n F}{x^2+y^2} - \frac{2ny}{x^2+y^2} + \frac{4ny^2 F}{(x^2+y^2)^2}$$
+$$[del]\frac{F}{y^2} - \frac{2n F}{x^2+y^2} -[/del]$$
+
+$$(D_x^2 + D_y^2) F = - \frac{[del]2[/del] [ins]4[/ins]n F}{x^2+y^2} - 2n \frac{x+y}{x^2+y^2} + [del]\frac{4n F}{x^2+y^2}[/del]$$

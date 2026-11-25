@@ -1,0 +1,24 @@
+[u]Logic of Quantity[/u]
+
+[u]Definition 7[/u]. Two collections, $m$ and $n$, are said to be equal, and we write $I_{mn}$, if, and only if, each proceeds from, or has an object for every object of the other. That is,
+(36) $\Pi_m \Pi_n \bar{I}_{mn} \text{ \ } S_{mn} \cdot S_{nm}$
+(37) $\Pi_m \Pi_n \bar{S}_{mn} \text{ \ } \bar{S}_{nm} \text{ \ } I_{mn}$
+
+[u]Corollary 16[/u]. If one collection is greater than a second or this second is greater than a third, while the first is either greater than or equal to the second, and the second is either greater than or equal to the third, then the first is greater than the [del]third[/del] [ins]second[/ins]. But if the first is equal to the second and the second is equal to the third, then the first is equal to the third.
+
+[u]Corollary 17[/u]. Every collection is equal to itself.
+
+[u]Scholium 3[/u]. Two collections may be such that neither proceeds from the other. That is to say
+$\Pi_i \Sigma_e \Sigma_f \Sigma_g \Sigma_s \Pi_r \Pi_i \Sigma_{e'} \Sigma_{f'} \Sigma_{g'} \Sigma_{s'} \bar{H}_{ri} [(\bar{v}_{ief} \cdot \bar{v}_{ieg} \cdot \bar{r}_{fg} \text{ \ } q_{ns} \cdot (\bar{q}_{ms} \text{ \ } \bar{r}_{irs}))] [(\bar{v}_{ie'f'} \cdot \bar{v}_{ie'g'} \cdot \bar{r}_{f'g'} \text{ \ } q_{ms'} \cdot (\bar{q}_{ns'} \text{ \ } \bar{r}_{ir's'}))]$
+
+It is difficult absolutely to prove that this [del]statement[/del] [ins]supposition[/ins] involves no contradiction. There is however no difficulty in deciding whether any supposition [del]is[/del] in itself involves contradiction. The only difficulty is in determining precisely what the [ins]general[/ins] logical hypothesis of possibility is. That is, to describe what is logically possible. Logic, in the first place, supposes that
+[del]$\Pi_m$[/del] $\Sigma_m \Sigma_a q_{ma}$
+
+and further that
+$\Sigma_m \Sigma_a \Sigma_b q_{ma} \cdot \bar{q}_{mb}$
+
+and further
+$\Pi_a \Pi_b [del]\bar{I}_{ab}[/del] q_{ma} \cdot \bar{q}_{mb}$
+
+that
+$\Pi_m \Sigma_n \Pi_a \Pi_b \Pi_c \Pi_d (\bar{q}_{ma} \text{ \ } \bar{q}_{na})$

@@ -1,0 +1,59 @@
+[pn]366[/pn]
+
+[marginalia]
+[u]Demonstration[/u]
+
+[fig]Triangle with line drawn from vertex to base[/fig]
+
+[u]§207[/u]
+
+[u]79[/u]
+(Euclid I. 24)
+
+[u]former[/u]
+
+[u]Demonstration[/u]
+
+[fig]Triangle ABC with point D inside[/fig]
+
+[fig]Triangle ABC with point D on side AC[/fig]
+
+[fig]Triangle ABC with point D outside[/fig]
+[/marginalia]
+
+[u]CH. VII. § 63.][/u] POLYGONS. [u]19[/u]
+
+The greatest Side of a Triangle opposite the greater Angle.
+
+[del]Proof. 1.[/del] Suppose the angle C > B (fig. 34). Draw CD so as to make the angle BCD = B.
+Then will BD = CD
+and AB = AD + DB = AD + DC.
+But AD + DC > AC
+Hence AB > AC.
+
+[del]2. Conversely. Suppose AB > AC, the angle C must be greater than B; for if C were equal to or less than B, AB would by § 61 and the preceding demonstration, be equal to or less than AC.[/del]
+
+[ins][marginalia]
+[bracket]
+[u]Corollaries[/u] Since two angles of a triangle cannot be equal unless the sides opposite them are equal, it follows that if two sides of a triangle are unequal the angle opposite the greater is greater than the angle opposite the less.
+[/bracket]
+[/marginalia][/ins]
+
+63. Theorem. [bracket] If two triangles have two sides of the one respectively equal to two sides of the other, and if the included angle of [del]the first[/del] [ins]one[/ins] triangle is greater than the [del]included[/del] [ins]other[/ins] angle of the [del]second[/del] triangle, the third side of the [del]first[/del] triangle [ins]is also greater than the third side of the[/ins] [del]is also greater than the third side of the second triangle.[/del] [ins]latter[/ins] [bracket]
+
+Proof. [bracket] Let the first triangle be ABC (figs. 19 and 33), and the second ABD, which have the side[del]s[/del] AB [del]and AD,[/del] in common [del]and side, AC = side AD[/del] [del]respectively equal to[/del] [ins]and AC, and the included[/ins] [del]and AC, and the included[/del] angles [del]CAB < DAB[/del] [ins]BAD < BAC[/ins] [bracket]
+
+1. If the point D falls within the first triangle as in fig. 19, we have by § [del]40[/del] [ins]196[/ins]
+AC + BC > AD + DB;
+whence, substracting the equals AC and AD,
+BC > BD.
+
+2. If the point D falls upon the third side [del]as at E[/del], we have at once
+BC > B[del]E[/del][ins]D[/ins]
+
+3. If the point D falls without the first triangle, as in fig. 33, we have in the isosceles triangle ACD,
+ACD = ADC.
+
+[ins]But ∠BDC > ∠ADC, while ∠ACD > ∠BCD;[/ins]
+[del]whence[/del] [ins]∠BDC > ∠BCD,[/ins]
+[ins]so that in the triangle BCD, [del]we have[/del] [del]that BC > BD[/del] [ins]dist BD.[/ins][/ins]

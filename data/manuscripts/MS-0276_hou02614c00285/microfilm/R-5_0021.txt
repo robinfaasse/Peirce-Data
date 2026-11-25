@@ -1,0 +1,52 @@
+[date]1910 Feb 20[/date]
+[del]Notes[/del] NOTES
+on Laplace's Essai philosophique
+sur les probabilités, as printed
+in the Introduction to the 3[ins]rd[/ins]
+Edition of his Théorie Analytique
+
+The only things that it concerns
+us to know are how to conduct
+ourselves on future occasions
+
+Now our knowledge multiplies
+so that if [del]at[/del] at a given time
+$t = 0$ its value is $v$, then at
+the end of time $t$ it is $v a^t$ where
+$a$ is a constant; and if by an
+unusual effort at the end of
+$t_1$ we can make its value to be
+$v b^{t_1}$ where $b > a$ then at the
+end of time $t$ its value will be
+$v b^{t_1} a^{t - t_1} = v (\frac{b}{a})^{t_1} a^t$ But if we can anyhow at the end of
+a still shorter time $t_2$ we
+can make our knowledge
+equal in value to $v (\frac{b}{a})^{t_1}$
+Then we have $(\frac{b}{a})^{t_1} = (\frac{c}{a})^{t_2}$
+and $(\frac{b}{a})^{t_2} a^t = (\frac{b}{a})^{t_1} a^{t - t_2}$
+
+$c = (\frac{b}{a})^{\frac{t_1 - t_2}{[del]t_2[/del]}}$
+
+$c = a (\frac{b}{a})^{t_1 - t_2}$
+$= a^{1 + t_2 - t_1} b^{t_1}$
+$b^{t_1} = a^{t'}$
+
+[del]Then we have $t' < t_1$[/del]
+
+[fig]Diagram of a cylinder with vectors and labels a and b[/fig]
+
+$12 + 12 = 24$
+$b = a \frac{9 + 9}{339}$
+$3^5 = 2^8$
+
+$\begin{array}{r} 4271213 \\ 3010300 \\ \hline 1760913 \\ 1249387 \\ \hline 511526 \\ 452670 \\ \hline 58856 \\ 43645 \\ \hline 15211 \\ 12493 \end{array}$
+
+$\begin{array}{r|l} 1 & 3010300 \\ 1 & 1760913 \\ 1 & 1249387 \\ 2 & 1023852 \\ 2 & 226335 \\ 3 & 176568 \\ 1 & 49767 \\ 4 & \end{array}$
+
+$3 = 2^{\frac{8}{5}} = 2^{\frac{8}{5}}$
+
+$\begin{array}{r} 3 \\ 9 \\ 27 \\ 81 \\ 243 \\ \hline \frac{3}{2} \end{array}$
+$\begin{array}{r} 2 \\ 4 \\ 8 \\ 16 \\ 32 \\ 64 \\ 128 \\ 256 \\ \hline \frac{256}{243} \end{array}$
+
+$\begin{array}{r} 426 \\ 273 \\ 153 \\ 120 \\ 33 \\ 21 \end{array}$
+$\begin{array}{r} 699 \\ 426 \\ 273 \\ 153 \\ 120 \\ 33 \\ 21 \end{array}$

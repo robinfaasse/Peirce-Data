@@ -1,0 +1,24 @@
+[pn]112[/pn]
+
+Separating the first and last into their factors, we have
+
+[u][r[/u] + (2 + [del]√[/del] [ins]√[/ins]3)[u]s[/u]] [[u]r[/u] + (2 - √3)[u]s[/u]] = 0
+
+[[u]r[/u] + (-1 + √3)[u]s[/u]] [[u]r[/u] + (-1 - √3)[u]s[/u]] = 0
+
+Since √3 [del]≠[/del] [ins]≠[/ins] [del]3[/del] [ins]2[/ins], it is evident that [u]r[/u] = 0, [u]s[/u] = 0; so that this is merely the case of the quantity whose square was to vanish being itself zero. We have, then, as the only case of [u]q[/u] = 0, when the coefficient of [u]i[/u], being equated to zero, gives
+[u]x[/u]² + [u]y[/u]² + [u]z[/u]² = 2 [u]r[/u]²,
+and since [u]x[/u] + [u]y[/u] + [u]z[/u] = 0,
+[u]x[/u], [u]y[/u], [u]z[/u] are the rectangular coordinates of any point on the equator of a sphere whose centre is at the origin, whose polar axis is equally inclined to the positive parts of the three axes of coordinates, and whose radius is √2 [u]r[/u]. Taking [u]x[/u] and [u]y[/u] as independent variables
+[u]z[/u] = - [u]x[/u] - [u]y[/u] [u]q[/u] = 0 [u]r[/u] = - [u]s[/u] = √[u]x[/u]² + [u]xy[/u] + [u]y[/u]²
+so that the general form of the quantity is (changing the sign of [u]x[/u])
+
+√[u]x[/u]² - [u]xy[/u] + [u]y[/u]² [u]i[/u]' + [u]yl[/u]' + [u]xm[/u]'
+
+or putting [u]x[/u] = [u]u[/u] - [u]v[/u], [u]y[/u] = - [u]v[/u], this may be put in the form
+
+√[u]u[/u]² - [u]uv[/u] + [u]v[/u]² [u]i[/u]' + [u]um[/u]' + [u]vn[/u]',
+
+and a third form in l' and n' is equally possible. In all cases the form of the quantity under the square root is invariant. When this vanishes the quantity becomes
+C (l + [del]m[/del] [ins]ζ[/ins] [del]+[/del] [ins]+[/ins] ζ²[u]n[/u])
+where ζ is an imaginary cube root of unity. - - - - -

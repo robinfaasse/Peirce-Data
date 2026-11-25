@@ -1,0 +1,36 @@
+[del]p no of angles to a face[/del] [ins]edges[/ins]
+[del]s no [gap][/del]
+s no of edges to a summit
+
+f no of faces
+a no of summits
+
+[del]f[/del] [ins]c[/ins] + [del]a[/del] [ins]s[/ins] = e + 2
+
+[fig]Two line segments representing edges[/fig]
+
+[fig]Three lines meeting at a vertex[/fig]
+
+[del]pf[/del] = no of edges
+  2
+
+[del]sa[/del] = no of edges
+  2
+
+[del]as[/del]
+ p
+
+pf = sa = [del]spf[/del]
+               2
+
+a = pf - f + 2
+       2
+
+= spf - sf + 2s
+     2
+
+f(p + s - sp) = 2s
+               2
+
+f = 4s
+     2p + 2s - ps

@@ -1,0 +1,29 @@
+[pn]48[/pn]
+
+student will seldom have any [del]difficulty[/del] [ins]trouble[/ins] in finding some trivial solution,
+which shall evade all the difficulties of the problem. But as soon as that
+is done, Schröder finds the "general root" which he seeks can be expressed
+as follows, where [u]a[/u] is the particular solution, that is, where [u]Fa[/u] = 0,
+
+[u]x[/u] = [u]fu[/u] = [u]a[/u] · [u]D[/u]([u]Fu[/u])[u]D[/u] + [u]u[/u] · ([u]C[/u] [u]f[/u] [u]Fu[/u] [u]f[/u] 0).
+
+That is, this is a function of [u]u[/u] which is [del]as such[/del] defined as equal to
+[u]a[/u] when [del][u]Fu[/u] is not[/del] [u]u[/u] does not satisfy the given proposition, and as [del]being[/del] [ins]equal to[/ins] [u]u[/u]
+when [u]u[/u] does satisfy that equation. How would this sort of thing sound
+in numerical algebra? Required the solution of the equation
+[u]x[/u]⁵ + [u]ax[/u]⁴ + [u]bx[/u]³ + [u]cx[/u]² + [u]dx[/u] + [u]e[/u] = 0.
+We [del]say that[/del] [ins]multiply[/ins] this by [u]x[/u] so as to give
+[u]x[/u]⁶ + [u]ax[/u]⁵ + [u]bx[/u]⁴ + [u]cx[/u]³ + [u]dx[/u]² + [u]ex[/u] = 0.
+Now let [u]fu[/u] be defined as such a function of [u]u[/u] that whenever
+[u]u[/u]⁶ + [u]au[/u]⁵ + [u]bu[/u]⁴ + [u]cu[/u]³ + [u]du[/u]² + [u]eu[/u] = 0
+[u]fu[/u] shall be equal to [u]u[/u], while in all other cases, [u]fu[/u] shall vanish. Then,
+there is the [ins]perfectly general and[/ins] [del]perfectly gen[/del] [ins]not only[/ins] triumphant solution of the general quintic, but of the above
+[u]x[/u] = [u]fu[/u].
+Anybody who in numerical algebra were to talk like this would be set
+down as a crank; and Prof. Schröder [ins]mildly[/ins] admits that such a solution is
+"unsatisfactory." §13 treats of the solution of the problems [u]x[/u] ≺ [u]Φx[/u] and
+[u]Ψx[/u] ≺ [u]x[/u]. Prof. Schröder shows that for the solution of the former we
+have only to take the function [u]fu[/u] = [u]u[/u] · [u]Φu[/u], when [u]x[/u] = [u]f[/u]∞[u]u[/u] [del]is the[/del] [ins]embraces[/ins]
+every possible solution; and the same solution holds for [u]Ψx[/u] ≺ [u]x[/u]
+if we take [u]fu[/u] = [u]u[/u] + [u]Ψu[/u]. This is one of the most valuable sections
+in the volume. §14 contains some interesting simple examples. §15

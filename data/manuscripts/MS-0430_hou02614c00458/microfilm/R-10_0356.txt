@@ -1,0 +1,14 @@
+[pn]Logic
+III
+54[/pn]
+
+[marginalia]Forms of assertion[/marginalia]
+
+[del]the two expressions[/del] [ins]The[/ins] [u]x < y[/u] and [u]y < x[/u] follow each from the other, and so are equivalent, although we have assumed that the relation expressed by [u]<[/u] is simpler and more primitive than that expressed by [u]=[/u]. Consequently, this equivalence is no argument to prove that that [del]assumption[/del] is false. On the contrary, by means of [u]=[/u] only, it is impossible to express the meaning of [del]the[/del] [u]x < y[/u] and [ins]à fortiori[/ins] impossible to express [u]<[/u].
+
+It is equally easy to define the operation of aggregation by means of the copula of inclusion. Namely,
+
+1st, If [u]x < z[/u], then [u]x < z[/u] and [u]y < z[/u];
+2nd, If [u]x < z[/u] and [u]y < z[/u], then [u]x + y < z[/u];
+3rd, If [u]z < x + y[/u] then, whatever term [u]t[/u] may be, [del]either if [u]z < t[/u][/del] [ins]if [u]x < t[/u][/ins] and if [u]y < t[/u] then [u]z < t[/u];
+4th,

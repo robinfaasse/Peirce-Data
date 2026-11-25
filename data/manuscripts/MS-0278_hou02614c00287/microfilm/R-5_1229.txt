@@ -1,0 +1,25 @@
+$$(xi + yi + zk + ul + vm)(j - bm)$$
+
+$$\begin{aligned}
+& [ins]x[/ins]l \\
+& + [del]y[/del] [ins]u[/ins]i + [del]y[/del] [ins]v[/ins]j + [del]y[/del] [ins]u[/ins]k - yl - ym \\
+& [ins]+ui[/ins] [ins]+vk[/ins] [ins]+zm[/ins] \\
+& -b(y+u)i - b(z+u)j - b(u+v)k + [del]b(u+v)[/del] [ins]b(u+v)[/ins]l + bum
+\end{aligned}$$
+
+$$\begin{aligned}
+& (1-b)(y+u) = 0 \\
+& y - b(z+u) = 0 \\
+& y+v - b(x+u) = 0 \\
+& x-y + b(u-v) = 0 \\
+& -y+z + bu = 0 \longrightarrow z - bz = 0 \\
+& \qquad\qquad\qquad\quad (1-b)z = b
+\end{aligned}$$
+
+$$\begin{array}{c|c}
+\underline{\text{Case 1}} & \underline{\text{Case 2}} \\
+b = -1 & b = 1 \\
+y+u = 0 \quad x(i-m) + y(j-l) & y-z+u \\
+z = 0 & \\
+v+x = 0 &
+\end{array}$$

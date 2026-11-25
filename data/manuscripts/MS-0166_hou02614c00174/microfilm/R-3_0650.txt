@@ -1,0 +1,36 @@
+[pn]132[/pn]
+
+[u]Demonstration[/u]. For starting with the equation we subtract
+from it (that is from both members) $B_{1} + B_{2} + \text{etc}$. This gives
+
+$A_{1}x + A_{2}x + \text{etc} = C_{1}x + C_{2}x + \text{etc} + D_{1} + D_{2} + \text{etc} - (B_{1} + B_{2} + \text{etc.})$
+
+Applying the distributive principle the takes the form
+
+$(A_{1} + A_{2} + \text{etc.})x = (C_{1} + C_{2} + \text{etc.})x + D_{1} + D_{2} + \text{etc} - (B_{1} + B_{2} + \text{etc})$
+
+Now add to both sides $-(C_{1} + C_{2} + \text{etc.})x$; and the equation becomes
+
+$(A_{1} + A_{2} + \text{etc.})x - (C_{1} + C_{2} + \text{etc.})x = D_{1} + D_{2} + \text{etc} - (B_{1} + B_{2} + \text{etc.})$,
+
+or by the distributive principle
+
+$[(A_{1} + A_{2} + \text{etc} - (C_{1} + C_{2} + \text{etc.})]x = D_{1} + D_{2} + \text{etc.} - (B_{1} + B_{2} + \text{etc.})$.
+
+Now divide by the coefficient of $x$ and we have [del](unless[/del]
+[del]that coefficient is zero, and the second member is also zero.[/del]
+
+$x = \frac{D_{1} + D_{2} + \text{etc.} - (B_{1} + B_{2} + \text{etc.})}{A_{1} + A_{2} + \text{etc} - (C_{1} + C_{2} + \text{etc.})}$
+
+[u]Corollary[/u]. To solve a problem of the form
+
+$\frac{ax + b}{cx + d} = e$,
+
+we multiply both sides by $cx + d$, to "clear from fractions,"
+which is a [ins]almost[/ins] good thing [del]always[/del], and so get
+
+$ax + b = e(cx + d) = ecx + ed$.
+
+Whence
+
+$x = \frac{ed - b}{a - ec}$.

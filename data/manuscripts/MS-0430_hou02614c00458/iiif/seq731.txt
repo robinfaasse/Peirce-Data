@@ -1,0 +1,33 @@
+Logic
+[ured]III[/ured]
+[u]58[/u]
+X
+
+Consequence
+of
+
+(74) For by this follows from (71) by (64),
+[([u]x[/u] ⤙ [u]y[/u]) ⤙ [u]z[/u]] ⤙ [u]y[/u] ⤙ [u]z[/u].
+For this follows from (72) by (64).
+
+(75) If ([u]x[/u] ⤙ [u]y[/u]) ⤙ [u]z[/u] is true then [u]x[/u] ⤙ [u]y[/u] ⤙ [u]z[/u] is true.
+For by (72) if ([u]x[/u] ⤙ [u]y[/u]) ⤙ [u]z[/u] is true, [u]y[/u] ⤙ [u]z[/u] is true, and by
+(64), if [u]y[/u] ⤙ [u]z[/u] is true [u]x[/u] ⤙ [u]y[/u] ⤙ [u]z[/u] is true. That is, [del]unbracketed[/del]
+brackets can be removed.
+
+(76) [([u]x[/u] ⤙ [u]y[/u]) ⤙ [u]z[/u]] ⤙ [u]x[/u] ⤙ [u]y[/u] ⤙ [u]z[/u]
+This follows from (75) by (64).
+
+(77) [u]x[/u] ⤙ ([u]x[/u] ⤙ [u]y[/u]) ⤙ [u]y[/u]
+For by (68), ([u]x[/u] ⤙ [u]y[/u]) ⤙ [u]x[/u] ⤙ [u]y[/u]. Hence [del]by (77) follows by transposition.[/del]
+
+(78) If [u]x[/u] is true ([u]x[/u] ⤙ [u]y[/u]) ⤙ [u]y[/u] is true
+For this follows from (77) by (65). It is also proved as follows:
+By (65) if [u]x[/u] is true, [del]([u]x[/u] ⤙ [u]y[/u]) is false unless ([u]y[/u]) is true. But by (64) if ([u]x[/u] ⤙ [u]y[/u])[/del]
+[del](79) If [u]x[/u] and ([u]x[/u] ⤙ [u]y[/u]) are true [u]y[/u] is true.[/del]
+[del]For by this follows[/del]
+is false or [u]y[/u] is true ([u]x[/u] ⤙ [u]y[/u]) ⤙ [u]y[/u] is true.
+
+(79) If [u]x[/u] ⤙ [u]y[/u], then ([u]y[/u] ⤙ [u]z[/u]) ⤙ ([u]x[/u] ⤙ [u]z[/u])
+For if [u]x[/u] is true and ([u]x[/u] ⤙ [u]y[/u]) is true it follows from (65) that [u]y[/u] is
+true. But if [u]y[/u] is true and ([u]y[/u] ⤙ [u]z[/u]) is true, it follows in the

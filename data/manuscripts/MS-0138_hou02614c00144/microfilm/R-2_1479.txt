@@ -1,0 +1,33 @@
+[u]Such were the words[/u]
+[u]Such were the words[/u]
+
+[fig]Grid diagram with symbols 0, +, -, and arrows showing transitions between stages[/fig]
+
+Any [del]0[/del] [ins]0+[/ins] gives in the 3[ins]rd[/ins] stage later [del]0 + + - + 0 - 0 +[/del] [ins]and any 0 - gives[/ins] [ins]0 + - + - 0 - 0 +[/ins] of which the [del]1st[/del] is inherited
+and in the 6 stage later we should expect besides these 3 inherited also 6 produced
+[del]But[/del] 0+ produces ++ in the very next stage and ++ produces +0-0+ in
+two stages later
+Every num. [ins]in the n[ins]th[/ins] place[/ins] persists in the next stage in the (2n)th place, and is [ins]besides[/ins] once [del]only[/del] [ins]repro-[/ins]
+into n[ins]th[/ins] place
+[ins]immediately after its production or creation in the n[ins]th[/ins] place.[/ins]
+In addition whenever [del]equal[/del] positive and negative [del]residues of the same[/del] [ins]residues of the same[/ins] [del]modulus[/del] are ad-
+jacent, say in the n[ins]th[/ins] and (n+1)th places, there is created in the
+next stage a 0 [del]modulus[/del] [ins]residues[/ins] in the (2n+1)th place.
+[del]In the case of cycle 3 the only equal positive equal modulus 1[/del] [ins]positive and negative residues having the same absolute value[/ins]
+
++- [del]may[/del] can be created ([del]mod[/del] [ins]cycle[/ins] 3) from ++ or --
+in the preceding stage, and in no other way.
+++ (and similarly --) can only be created from
++0 or 0+ in the preceding stage.
+00 cannot be created at all, no matter what the cycle.
+In other words in no stage can any number except 1
+be [del]immediately[/del] [ins]adjacent to[/ins] the same number. Therefore no member
+except 1 can be adjacent to 0, [ins]01 being given at the outset.[/ins] for 0n would give 0nn
+in the next stage. 01 however will give 011 and next 01121
+01 cannot be created (except from 1-1, [del]which[/del] [ins]that[/ins] is [del]only as a residue[/del])
+But it is given in the zero stage, creating 011 and next 01121 and
+then 011213231 and the whole development.
+0+ and 0- or +0 -0 cannot be created but can only
+arise from persistence and reproduction. Since [del]they first[/del] [ins]the sequence 01[/ins]
+forms the [del]zero stage[/del] [ins]the 0 continues in the zero place, persistence, and[/ins] [del]where being the 0 place and 1 in the 1st place[/del] [ins]reproduction gives 0+; while the 1 continues in the 1st place[/ins] [del]it cannot be reproduced but 01 production gives 0+, the thing[/del] [ins]by successive reproduction and at the same time persists[/ins] [del]in the first place and is perpetually reproduced[/del] (the only pair that is
+so).

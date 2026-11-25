@@ -1,0 +1,18 @@
+The graph [fig]— loves —
+— hates —[/fig]
+asserts something loves something and something hates
+something.
+The graph [fig]┏━━━━━━━┓
+┃ — loves — ┃
+┃ — hates — ┃
+┗━━━━━━━┛[/fig]
+asserts that the previous graph is false, that is, it affirms
+that either nothing loves anything or nothing hates any
+thing.
+The graph [fig]┏━━━━━━━┓
+┃ loves —  ┃
+┃ hates —  ┃
+┗━━━━━━━┛[/fig]
+asserts that taking any [del]three[/del] individuals [del]whether[/del] A, B, C,
+(different or identical) either A does not love B or does not hate
+C.

@@ -1,0 +1,44 @@
+$$\prod_i (\bar{\beta}_i + \chi_i) \cdot \sum_j \alpha_j \cdot \bar{\chi}_j + \prod_k (\bar{\beta}_k + \bar{\chi}_k) \cdot \sum_l \alpha_l \cdot \chi_l$$
+$$+ \sum_m \alpha_m \cdot \chi_m \cdot \sum_n \alpha_n \cdot \bar{\chi}_n$$
+$$\left\{ \prod_i (\bar{\beta}_i + \chi_i) + \sum_m \alpha_m \cdot \chi_m \right\} \cdot \left\{ \prod_j (\bar{\beta}_j + \bar{\chi}_j) + \sum_n \alpha_n \cdot \bar{\chi}_n \right\}$$
+
+[del]If Take anything B if B is $\beta$[/del]
+[ins]Then in every respect[/ins]
+Taking any respect you please
+and anything that [del]is[/del] [ins]if[/ins] B is $\beta$
+
+either something is [del]$\alpha$[/del] [ins]and is $x$[/ins] or B is $x$ or [del]something[/del] [ins]is $\beta$[/ins]
+
+[fig]Euler-like diagram with nested loops and curves[/fig]
+
+[fig]Three nested loop diagrams with labels B, x, and beta[/fig]
+
+$\sum \prod_i \sum_j \chi_{ij}$
+[del]$\sum_k \chi_k$[/del] $\prod_k \sum_i \sum_j$
+$\alpha_i \chi_{ih} + \alpha_j \bar{\chi}_{jh}$
+$\times \prod_k \sum_i \sum_j$
+$(\alpha + \gamma)_i \chi_{ih}$
+$+ (\alpha + \gamma)_j \bar{\chi}_{jh}$
+
+If is $\alpha$ is $x$
+or If is $\alpha$ is not $x$
+
+Either everything is not $\alpha$ or is $x$
+or everything is not $\alpha$ or is not $x$
+Not
+some is $\alpha$ and is not $x$
+some is $\alpha$ and is $x$
+
+If is $\alpha$ or is $\beta$ then is $x$
+or If is $\alpha$ or is $\beta$ then is not $x$
+
+[del]Not[/del] Everything [del]is[/del] is (not $\alpha$ [ins]and[/ins] is not $\beta$) or is $x$
+or Everything [del]is[/del] is (not $\alpha$ or not $\beta$) or is not $x$
+Not something is (either $\alpha$ or $\beta$) and is not $x$
+Something is (either $\alpha$ or $\beta$) and is $x$
+
+[fig]Small loop diagram with labels is alpha and is x[/fig]
+
+[fig]Loop diagram with labels is alpha and is x[/fig]
+
+[fig]Loop diagram with labels is alpha, is beta, and is x[/fig]

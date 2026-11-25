@@ -1,0 +1,16 @@
+Logic
+[u]III[/u]
+95
+
+(91) then, by C (69), either [u]x[/u] or [del][u]x[/u][fig]figure[/fig][u]y[/u][/del] [u]x[/u][fig]figure[/fig][u]y[/u] is scriptible, while by B (68), if [u]x[/u] is scriptible, so is [u]x[/u][fig]figure[/fig][u]v[/u].
+
+Theorem V. Any term, [u]x[/u], is equivalent to [del][u]v[/u][fig]figure[/fig][u]x[/u][/del] [ins][u]v[/u][fig]figure[/fig][u]x[/u][/ins].
+
+Demonstration. For, by B (68), if [u]x[/u] is scriptible, so is [u]v[/u][fig]figure[/fig][u]x[/u] and by E (71), if [u]v[/u][fig]figure[/fig][u]x[/u] is scriptible, so is [u]x[/u]. To complete the demonstration of this as well as of several previous propositions I ought to show that if [u]u[/u][fig]figure[/fig][u]v[/u] and [u]v[/u][fig]figure[/fig][u]u[/u], then either [ins]letter[/ins] [del][u]a[/u] or[/del] [u]u[/u] or [u]v[/u] may replace the other in any situation. But it will be convenient to defer this.
+
+(92) Theorem VI. The formula of identity, [u]x[/u][fig]figure[/fig][u]x[/u] is scriptible.
+Demonstration. For, putting [u]x[/u] for [u]y[/u], by A (69), either [u]x[/u] is scriptible or [u]x[/u][fig]figure[/fig][u]x[/u] is scriptible, and by B (70), if [u]x[/u] is scriptible [u]x[/u][fig]figure[/fig][u]x[/u] is scriptible.
+
+(93) Theorem VII. If [u]x[/u]₁ is scriptible, and [u]x[/u]₁[fig]figure[/fig][u]x[/u]₂ and [u]x[/u]₂[fig]figure[/fig][u]x[/u]₃... [u]x[/u]ₙ₋₁[fig]figure[/fig][u]x[/u]ₙ are all scriptible so is [u]x[/u]ₙ.
+
+Demonstration. For if [u]x[/u]₁ is scriptible [ins]applicable to [u]x[/u]₂[/ins] so is either [u]x[/u]₁ or [u]x[/u]₂, and by D (70), so is [u]x[/u]₂. The same thing also follows from E (71).

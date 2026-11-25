@@ -1,0 +1,38 @@
+The energy of bending of the truss is
+$$\frac{1}{2} B \int (D_x \theta)^2 dx = 2 B \left[ \underline{c}^2 (I+N) + \underline{c'}^2 (J-I) + \underline{c''}^2 (N-J) \right]$$
+The energy of lifting the live load is
+$$w \int y dx = w \left[ \underline{a}' (J-I) + \frac{1}{2} \underline{b}' (J^2-I^2) + \frac{1}{3} \underline{c}' (J^3-I^3) \right].$$
+
+[marginalia][pn]149[/pn][/marginalia]
+The sum of the energies of the horizontal displacements of the
+two tower-heads is
+$$K \xi_R^2$$
+The energy due to the elastic force of restoration at $\pm N$ of the un-
+suspended truss is
+$$\Omega \left\{ \underline{a}^2 + \underline{a} \underline{c} (I^2 + 2IN + N^2) + \underline{a} \underline{c}' (-J^2 - I^2 + 2JN - 2IN) + \underline{a} \underline{c}'' (J^2 - 2JN + N^2) \right.$$
+$$\left. + \underline{b}'^2 N^2 + \underline{b}' \underline{c} (-I^2 N - 2IN^2 - N^3) + \underline{b}' \underline{c}' (-JN^2 + I^2 N + 2JN^2 + 2IN^2) + \underline{b}' \underline{c}'' (+J^2 N - 2JN^2 + N^3) \right.$$
+$$\left. + \underline{c}^2 (\frac{1}{4} I^4 + 2 I^3 N + 3 I^2 N^2 + 2 I N^3 + \frac{1}{4} N^4) + \underline{c} \underline{c}' (-I^4 + 4 I^3 N - 5 I^2 N^2 + 2 I N^3) \right.$$
+$$\left. + \underline{c}'' (\frac{1}{2} J^4 - 2 J^3 N + 3 J^2 N^2 - 2 J N^3 + \frac{1}{4} N^4) + \underline{c} \underline{c}' (-J^4 + 4 J^3 N - 5 J^2 N^2 + 2 J N^3) \right.$$
+$$\left. + \underline{c}'^2 (\frac{1}{2} J^4 + \frac{1}{2} I^4 - 2 J^3 N + 2 I^3 N + 2 J^2 N^2 + 2 I^2 N^2) \right\}$$
+
+[marginalia]Not revised[/marginalia]
+
+The energy due to the couples which the unsuspended truss brings to bear on
+$-N$ and $+N$ is
+$$2 \left[ \underline{b}'^2 + \underline{b}' \underline{c} 2(I+J) - \underline{b}' \underline{c} 2(N+I) + \underline{b}' \underline{c}'' (N-J) + \underline{c}^2 2(I^2 + J^2 - \underline{c} \underline{c}' 4 I(N+I) + \underline{c}' \underline{c}'' 4 I(N-J) \right.$$
+$$\left. + \underline{c}^2 2(N+I)^2 + \underline{c}''^2 (N-J)^2 \right].$$
+
+[marginalia]Unrevised[/marginalia]
+
+Differentiating the sum of the above nine parts of the energy relatively to $\xi_R$,
+we have
+$$0 = \frac{2E}{(R-N)(1+\frac{N^2}{R^2})^{3/2}} \left[ 2 \xi_R - \underline{a} 2 \frac{N}{R} + \underline{c} \frac{N}{R} (2NI - 2NJ + I^2 + J^2) - \underline{c} (N+I)^2 - \underline{c}'' (N-J)^2 \right] + 2 K \xi_R$$
+or $\xi_R = \frac{\underline{a}' + \underline{c}' (NJ - NI - \frac{1}{2} I^2 - \frac{1}{2} J^2) + \underline{c} \frac{1}{2} (N+I)^2 + \underline{c}'' \frac{1}{2} (N-J)^2}{2 \frac{1}{\Omega} K (R-N) (1 + \frac{N^2}{R^2})^{3/2} + 1}$.
+
+[marginalia]Unrevised[/marginalia]
+
+Differentiating relatively to $\underline{a}'$, we have
+$$0 = \frac{2 \frac{N}{R} E}{(R-N)(1+\frac{N^2}{R^2})^{3/2}} \left[ -2 \xi_R + 2 \frac{N}{R} \underline{a}' + \underline{c}' \frac{N}{R} (-2NI - I^2 - J^2) + \underline{c} (N+I)^2 + \underline{c}'' (N-J)^2 \right]$$
+$$+ w(J-I) + 2 \underline{a}' \Omega + \underline{c} (N+I)^2 + \underline{c}' (2NI - 2IN - I^2) + \underline{c}'' (N-J)^2$$
+
+[marginalia]Unrevised[/marginalia]

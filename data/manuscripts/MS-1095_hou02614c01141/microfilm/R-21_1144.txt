@@ -1,0 +1,11 @@
+[u]$h''_u = \frac{1}{2}(h_d + h_u) + h''_0$[/u] = [del]Distance centre[/del] [ins]contained air[/ins] [del]from[/del] [ins]Knife-edge[/ins] bearing with heavy end up.
+
+[u]$(\gamma''_u)^2 = \gamma''^2 + (h''_u)^2$[/u] = Squared radius of gyration of contained air above Knife-edge bearing with heavy end up.
+
+[u]$(\gamma''')^2 = J'''_0 \div V'''$[/u] = Squared radius of gyration of displaced and contained air about axis through centre of pendulum parallel to edge
+
+[u]$(\gamma''_d)^2 = (\gamma''_u)^2 = (\gamma''')^2 + \frac{1}{4}(h_d + h_u)^2$[/u] = Squared radius of gyration of displaced & contained air about either Knife edge.
+
+[u]$J''_d = V''(\gamma''_d)^2$[/u] = Moment of inertia of fluid of unit density displaced by whole pendulum about Knife-edge bearing with heavy end down
+
+[u]$J''_u = V''(\gamma''_u)^2$[/u] = Same heavy end up.

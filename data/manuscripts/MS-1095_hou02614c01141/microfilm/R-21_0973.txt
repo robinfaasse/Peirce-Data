@@ -1,0 +1,25 @@
+The velocity of rotation about this axis is, by [del]definition[/del],
+$$\sqrt{\mathrm{D}_t\varphi^2 + (\mathrm{D}_t\psi)^2 + 2\,\mathrm{D}_t\varphi\cdot\mathrm{D}_t\psi\cdot\sin\theta}$$
+
+and consequently, the living force is
+$$\frac{1}{2}(\mathrm{I}-\mathrm{J}+m\,h^2)\Bigl(\sin\theta\cdot\mathrm{D}_t\psi\Bigr)^2\cos^2\Bigl(\varphi - \arcsin\frac{\sin\psi\sin\theta}{\sqrt{1-\sin^2\theta\cos^2\theta(1-\cos\psi)^2}}\Bigr)$$
+$$+\,\frac{1}{2}\mathrm{J}\bigl(\mathrm{D}_t\varphi^2 + (\mathrm{D}_t\psi)^2 + 2\,\mathrm{D}_t\varphi\cdot\mathrm{D}_t\psi\cdot\sin\theta\bigr) + \frac{1}{2}m\,(k\sec\theta - h\tan\theta)^2\Bigl(\sin\theta\cdot\mathrm{D}_t\psi\Bigr)^2$$
+$$+\,\frac{1}{2}\mathrm{M}(\mathrm{D}_t\psi)^2$$
+
+Differentiating, we get
+$$\mathrm{D}_{\mathrm{D}_t\varphi}\mathrm{T} = [del]\frac{1}{2}(\mathrm{I}-\mathrm{J}+m\,h^2)\Bigl(\sin\theta\cdot\mathrm{D}_t\psi - \sin 2\theta\cdot\mathrm{D}_t\varphi\Bigr)\sin 2\theta\cdot\cos^2\Bigl(\varphi - \arcsin\frac{\sin\psi\sin\theta}{\sqrt{1-\sin^2\theta\cos^2\theta(1-\cos\psi)^2}}\Bigr)[/del]$$
+$$+\,\mathrm{J}\bigl((\mathrm{D}_t\varphi) + \mathrm{D}_t\psi\cdot\sin\theta\bigr) [del]- m\,(k\sec\theta - h\tan\theta)^2\Bigl(\sin\theta\cdot\mathrm{D}_t\psi - \sin^2\theta\cdot\mathrm{D}_t\varphi\Bigr)\sin 2\theta[/del]$$
+
+$$\mathrm{D}_{\mathrm{D}_t\psi}\mathrm{T} = (\mathrm{I}-\mathrm{J}+m\,h^2)\Bigl(\sin\theta\cdot\mathrm{D}_t\psi - [del]\sin 2\theta\cdot\mathrm{D}_t\varphi[/del]\Bigr)\sin\theta\cdot\cos^2\Bigl(\varphi - \arcsin\frac{\sin\psi\sin\theta}{\sqrt{1-\sin^2\theta\cos^2\theta(1-\cos\psi)^2}}\Bigr)$$
+$$+\,\mathrm{J}\bigl(\mathrm{D}_t\psi + \mathrm{D}_t\varphi\cdot\sin\theta\bigr) + m\,(k\sec\theta - h\tan\theta)^2\Bigl(\sin\theta\cdot\mathrm{D}_t\psi - [del]\sin 2\theta\cdot\mathrm{D}_t\varphi[/del]\Bigr)\sin\theta$$
+$$+\,\mathrm{M}\,\mathrm{D}_t\psi.$$
+
+$$\mathrm{D}_{\varphi}\mathrm{D}_t\mathrm{T} = -\,(\mathrm{I}-\mathrm{J}+m\,h^2)\Bigl(\sin\theta\cdot\mathrm{D}_t\psi - [del]\sin 2\theta\cdot\mathrm{D}_t\varphi[/del]\Bigr)\sin 2\theta\cdot\cos^2\Bigl(\varphi - \arcsin\frac{\sin\psi\sin\theta}{\sqrt{1-\sin^2\theta\cos^2\theta(1-\cos\psi)^2}}\Bigr)$$
+$$-[del]\frac{1}{2}(\mathrm{I}-\mathrm{J}+m\,h^2)\Bigl(\sin\theta\cdot\mathrm{D}_t\psi - \sin 2\theta\cdot\mathrm{D}_t\varphi\Bigr)\sin 2\theta\cdot\sin 2\Bigl(\varphi - \arcsin\frac{\sin\psi\sin\theta}{\sqrt{1-\sin^2\theta\cos^2\theta(1-\cos\psi)^2}}\Bigr)\cdot\Bigr\}[/del]\mathrm{D}_t\varphi$$
+$$-\,\frac{\cos\psi\sin\theta + (1-\cos\psi)^2\sin^3\theta\cos^2\theta}{\sqrt{\sin^2\theta + \sin^2\theta\cos^2\psi - \sin^2\theta\cos^2\theta(1-\cos\psi)^2}}\,\Bigr\} + \mathrm{J}\bigl(\mathrm{D}_t^2\varphi + \mathrm{D}_t^2\psi\cdot\sin\theta\bigr)$$
+$$- m\,(k\sec\theta - h\tan\theta)^2\Bigl(\sin\theta\cdot\mathrm{D}_t^2\psi - \sin 2\theta\cdot\mathrm{D}_t^2\varphi\Bigr)\sin 2\theta$$
+
+$$\mathrm{D}_t\mathrm{D}_{\mathrm{D}_t\varphi}\mathrm{T} = (\mathrm{I}-\mathrm{J}+m\,h^2)\Bigl(\sin\theta\cdot\mathrm{D}_t^2\psi - \sin 2\theta\cdot\mathrm{D}_t^2\varphi\Bigr)\sin\theta\cdot\cos^2\Bigl(\varphi - \arcsin\frac{\sin\psi\sin\theta}{\sqrt{1-\sin^2\theta\cos^2\theta(1-\cos\psi)^2}}\Bigr)$$
+$$- (\mathrm{I}-\mathrm{J}+m\,h^2)\Bigl(\sin\theta\cdot\mathrm{D}_t\psi - \sin 2\theta\cdot\mathrm{D}_t\varphi\Bigr)\sin\theta\cdot\sin 2\Bigl(\varphi - \arcsin\frac{\sin\psi\sin\theta}{\sqrt{1-\sin^2\theta\cos^2\theta(1-\cos\psi)^2}}\Bigr)\cdot\Bigl\{\,\mathrm{D}_t\varphi$$
+$$-\,\frac{\cos\psi\sin\theta + (1-\cos\psi)^2\sin^3\theta\cos^2\theta}{\sqrt{\sin^2\theta + \sin^2\theta\cos^2\psi - \sin^2\theta\cos^2\theta(1-\cos\psi)^2}}\,\Bigr\} + \mathrm{J}\bigl(\mathrm{D}_t^2\psi + \mathrm{D}_t^2\varphi\cdot\sin\theta\bigr)$$
+$$+\,m\,(k\sec\theta - h\tan\theta)^2\Bigl(\sin\theta\cdot\mathrm{D}_t^2\psi - \sin 2\theta\cdot\mathrm{D}_t^2\varphi\Bigr)\sin\theta + \mathrm{M}\,\mathrm{D}_t^2\psi$$

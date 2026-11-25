@@ -1,0 +1,64 @@
+$$s = a \frac{e \sin \gamma}{k} \int \sqrt{1 - k^2 \sin^2 \varphi} \, d\varphi$$
+
+$$k = \frac{\frac{ae}{b} \sin \gamma}{\sqrt{1 + \left(\frac{ae}{b}\right)^2 \sin^2 \gamma}}$$
+
+$$1 - k^2 \sin^2 \varphi = 1 - \frac{\left(\frac{ae}{b}\right)^2 [del]\sin^2 \gamma[/del]}{1 + \left(\frac{ae}{b}\right)^2 \sin^2 \gamma} (\sin^2 \gamma - \sin^2 \omega)$$
+
+[del]$$d\varphi = - \sin \varphi$$[/del]
+
+$$d \cos \varphi = - \sin \varphi \, d\varphi$$
+
+[del]$$= \frac{\sin \omega}{\sin \gamma} \cos \gamma \, d\gamma$$[/del]
+
+$$= \frac{\cos \omega}{\sin \gamma} \, d\omega$$
+
+$$s = [del]b[/del] [del]\int \sqrt{\dots}[/del] \int \sqrt{[del]\frac{1 + \frac{ae^2}{b^2} \sin^2 \gamma}{\dots}[/del] - \frac{\left(\frac{ae}{b}\right)^2 \sin^2 \omega}{[del]1 + \left(\frac{ae}{b}\right)^2 \sin^2 \gamma[/del]}} [ins]d\omega[/ins]$$
+
+$$d\varphi = - \frac{1}{\sin \varphi} \frac{\cos \omega}{\sin \gamma} \, d\omega = - \frac{\cos \omega}{\sqrt{\sin^2 \gamma - \sin^2 \omega}} \, d\omega$$
+
+$$e^{\int \frac{dx}{\sqrt{1-x^2}} i} = \sqrt{1-x^2} + x i$$
+
+[del]$$\int \frac{dx + x^2 dx}{\sqrt{1-x^2}}$$[/del]
+
+[fig]Triangle diagram[/fig]
+
+$$\begin{array}{r}
+36.52 \\
+[del]140[/del] 36 \\
+\hline
+110.51
+\end{array}$$
+
+$$160 \cdot 110^\circ 37'$$
+
+$$\begin{array}{r}
+44 \\
+88 \\
+\hline
+352
+\end{array}$$
+
+$$\sqrt{x^2+y^2}$$
+
+$$\frac{x \, dx + y \, dy}{\sqrt{x^2+y^2}}$$
+
+$$(1+y)^{\frac{1}{2}}$$
+
+$$\begin{array}{r}
+[del]281[/del] \\
+5.96 \\
+4.9
+\end{array}$$
+
+$$\begin{array}{l}
+\frac{1}{2} (1+y)^{-\frac{1}{2}} \\
+- \frac{1}{8} (1+y)^{-\frac{3}{2}}
+\end{array}$$
+
+$$1 + \frac{1}{2} y - \frac{1}{8} y^2$$
+
+$$\int \frac{d \, 2x \sqrt{1-x^2}}{\sqrt{1 - 4x^2 + 4x^4}}$$
+
+$$\sqrt{1-2x^2}$$
+
+$$2 \sqrt{1-x^2} - \frac{2x^2}{\sqrt{1-x^2}}$$

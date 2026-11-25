@@ -1,0 +1,19 @@
+Write then
+$\cos y = 1 + A y^2 + B y^4 + \text{etc}$
+$\sin y = y + a y^3 + b y^5 + \text{etc}$
+$\cos 2y = 1 + 4 A y^2 + 16 B y^4$
+$= \cos^2 y - \sin^2 y$
+$= 1 + 2 A y^2 + (2B + A^2) y^4 + \text{etc}$
+$- y^2 - 2 a y^4 - \text{etc}$
+$\therefore 4A = 2A - 1$ or $A = -\frac{1}{2}$
+$\sin 2y = 2y + 8 a y^3 + 32 b y^5 + \text{etc}$
+$= 2 \sin y \cos y$
+$= 2y (1 + 4 A y^2 + 16 B y^4 + \text{etc})$
+$+ 2 a y^3 (1 + 4 A y^2 + 16 B y^4 + \text{etc})$
+$+ 2 b y^5 (1 + 4 A y^2 + 16 B y^4 + \text{etc})$
+$+ \text{etc}$
+$= 2y + (8A + 2a) y^3 + (32B + 8aA + 2b) y^5$
+$+ \text{etc}$
+
+$\therefore 8a = 8A + 2a$ or $a = -\frac{1}{6}$
+etc etc

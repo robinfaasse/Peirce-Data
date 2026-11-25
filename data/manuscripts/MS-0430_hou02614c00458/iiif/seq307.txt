@@ -1,0 +1,25 @@
+Logic
+[u]III[/u]
+80
+
+Propositions deducible from A, B, C.
+
+(86) [u]v[/u] is ([u]m[/u] [del]x[/u][/del] [ins]x[/ins] [u]s[/u]) x ([u]s[/u] x [u]m[/u] x [u]n[/u]) x [u]m[/u] x [u]n[/u].
+For if, in (82), we put [del][u]s[/u][/del] [ins][u]m[/u] x [u]n[/u][/ins] in place of [u]t[/u], which may signify
+any character, [del]it[/del] [del]be[/del] that proposition becomes: If [u]v[/u] is both
+[u]m[/u] x [u]s[/u] and [del][u]s[/u][/del] [ins][u]m[/u] x [u]n[/u][/ins] [u]s[/u] x [u]m[/u] x [u]n[/u], then it is [u]m[/u] x [u]n[/u]. This, by (80), gives (86).
+
+(87) [u]v[/u] is ([u]m[/u] x [u]s[/u] x [u]m[/u] x [u]n[/u]) x [u]s[/u] x [u]m[/u] x [u]n[/u]
+For if, in (83), we put [u]m[/u] x [u]n[/u] in place of [u]t[/u], which may be
+anything, that proposition becomes if [u]v[/u] is [u]s[/u] and [del][u]m[/u] x [u]s[/u] x [u]m[/u] x [u]n[/u][/del],
+then it is [del][u]s[/u][/del] [u]m[/u] x [u]n[/u], This, by (80), gives (87).
+
+(88) [u]v[/u] is [([u]m[/u] x [u]n[/u]) x [u]s[/u]] x ([u]s[/u] x [u]m[/u]) x [u]m[/u].
+For if, in (84), we put [u]m[/u] in place of [u]t[/u], that proposition
+becomes, If [u]v[/u] is ([u]m[/u] x [u]n[/u]) x [u]s[/u] and is [u]s[/u] x [u]m[/u], then it is [u]m[/u], which
+by (80) gives (88).
+
+(89) [u]v[/u] is [([u]t[/u] x [u]n[/u]) x [u]s[/u] x [u]t[/u]] x [u]s[/u] x [u]t[/u].
+For if in (85) [del]we[/del] put [u]t[/u] for [u]m[/u], that proposition becomes,
+If [u]v[/u] is [u]s[/u] and is ([u]t[/u] x [u]n[/u]) x [u]s[/u] x [u]t[/u], then it is [u]t[/u], which by (80)
+gives (89).

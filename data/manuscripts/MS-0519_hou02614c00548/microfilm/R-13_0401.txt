@@ -1,0 +1,36 @@
+[pn]51[/pn]
+
+To prove a proposition true in this
+way, show that its negative is false.
+Thus the negative of the proposition of p 45 is
+
+[del]$\Pi_{y}$[/del] $\Sigma_{\alpha} \Pi_{1} \Sigma_{2} \Pi_{3} \Sigma_{\beta} \Pi_{4} \Sigma_{5} \Pi_{6} \Sigma_{\gamma} \Pi_{8} \Sigma_{9}$
+$\{x_{1} + \tau_{\alpha 12} y_{2} (\bar{\tau}_{\alpha 32} + I_{12})\} \{y_{4} + \tau_{\beta 45} z_{5} (\bar{\tau}_{\beta 65} + I_{45})\} \{z_{7} + \tau_{\gamma 89} x_{9} (\bar{\tau}_{\gamma 99} + I_{89})\}$
+
+This gives $\Pi_{1} \Sigma_{2} \Pi_{4} \Sigma_{5} \Xi_{7}$
+$(x_{1} + y_{2}) (y_{4} + z_{5}) x_{7} \bar{z}_{7}$
+
+It ought to give some absurdity. Write this
+quantifier
+$\sqrt{\Pi_{y} \Sigma_{y}} \Sigma_{\alpha} \Pi_{1} \Sigma_{2} \Pi_{3} \Sigma_{\beta} \Pi_{4} \Sigma_{5} \Pi_{6} \Pi_{8} \Sigma_{9}$.
+
+Identify 8 with 5, 1 with 7, 4 with 2, 6 and 3 with [fig]arrow[/fig]
+and [del]$\gamma$ with $\Sigma_{1}$[/del] $\gamma_{\alpha 12} \gamma_{\beta 45}$
+
+$\tau_{\alpha 12} y_{2} (\bar{\tau}_{\alpha 32} + I_{12}) \tau_{\beta 25} z_{5} (\bar{\tau}_{\beta 65} + I_{25}) x_{1} (\bar{\tau}_{\gamma 15} + [del]\tau_{\gamma 51}[/del] I_{15})$
+
+$y_{2} (\bar{\tau}_{\alpha 32} + I_{12}) [del]x_{1}[/del] z_{5} I_{25} x_{1} \bar{\tau}_{\gamma 15} I_{15}$
+
+$y_{2} z_{5} x_{1} I_{25} \bar{\tau}_{\gamma 15} \bar{\tau}_{\alpha 32}$
+
+Can't see how it yields absurdity.
+
+But it don't follow because
+a proposition is contingent
+that its contradictory is necessary,
+does it?
+
+[fig]Diagram showing relations between quantifiers[/fig]
+$\Sigma_{\alpha} \Pi_{1} \Sigma_{2} \Pi_{3}$
+$\Sigma_{\beta} \Pi_{4} \Sigma_{5} \Pi_{6}$
+$\Pi_{y} \Sigma_{y} \Pi_{r} \Sigma_{y}$

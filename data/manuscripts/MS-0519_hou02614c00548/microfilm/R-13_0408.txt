@@ -1,0 +1,28 @@
+Notes on the General Rule of Procedure
+
+[u]3[sup]d[/sup] Step[/u] - This depends on the formula
+$a_{ijk\dots} \prec \bar{I}_{ix} + \bar{I}_{jy} + \bar{I}_{kz} + \text{etc}$
+whence
+$I_{ix} I_{jy} I_{kz} \text{etc} \prec a_{ijk\dots} \bar{a}_{xyz\dots}$
+
+A special case of this is the principle of
+contradiction
+[del]$a_i \bar{a}_i \prec$[/del]
+$a_i \bar{a}_i \prec 0_i$ That is, $0_i = \bar{I}_{ii}$
+and excluded middle
+$I_i \prec a_i + \bar{a}_i$.
+
+- [del]4[sup]th[/sup] Step (bis)[/del] Introduction of separate indices as above.
+
+[u]5[sup]th[/sup] Step[/u]. This consists of two distinct parts.
+First, multiplying Boolean (or any factor of
+$4$) by itself with introduction anywhere on
+everywhere of new indices
+Second, identification by the rule that
+$\pi_i \pi_j I_{ij} \prec \pi_i \pi_i \Sigma_i I_{ii} \prec \Sigma_i I_{ii}$
+
+[u]Corollary[/u]
+$a_{ijk} \bar{a}_{iyz} \prec \bar{I}_{jy} + \bar{I}_{kz}$
+
+[u]Development[/u]
+Combine these

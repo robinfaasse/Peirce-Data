@@ -1,0 +1,28 @@
+[del]Art.[/del] Theorem. If [del]two numbers are respectively[/del] [ins]one [ins]whole[/ins] number is at least as great[/ins]
+as a second, and a third is greater than a fourth,
+the [u]sum of the first and third is greater than the[/u]
+[u]sum of the second and fourth[/u].
+
+Demonstration. If $A$ and $B$ are any whole numbers
+and $X$ is such a [ins]whole[/ins] number that
+[del]$A$[/del] $X+B > A+B$
+then [del]it is true if[/del] $X'$ is the number next greater than $X$
+it is true that $X'+B > A+B$.
+For [del]by[/del], $X'=1+X$. Now $(1+X)+B = [del]1+(X+B)[/del]$, [del]by[/del]
+[del]Theorem 1 and by theorem 1[/del], [del]$1+(X+B)$ is[/del] is by [ins]axiom 6[/ins] [del]axiom 6[/del]
+greater than $X+B$, But $X+B$ is, by hypothesis greater
+than $A+B$. Hence $X'+B > A+B$.
+
+Thus the character of, [del]being[/del] either [del]being[/del] [ins]no[/ins] greater than
+[ins]any whole number,[/ins] $A$, or else giving when added to $B$ [ins](no matter what whole number $B$ may be)[/ins] a sum greater than $A+B$
+is one which advances in the sequence of whole numbers.
+
+But this character is manifestly true of $0$. Hence, it is
+true of all numbers, and [del]of two sums[/del] [ins]binomial of two terms[/ins] having one term in
+common that is the greater of which the other term is the
+greater.
+
+Suppose then there are four whole numbers, $P, Q, R, S$, such that
+$P \ge Q$ and $R > S$, then $P+R \ge Q+R$, for if $P=Q$, [del]&[/del] $P+R=Q+R$
+and thus $P+R \ge Q+R$. But if $P>Q$, $P+R > Q+R$, and therefore $P+R \ge Q+R$
+But [del]if[/del] [del]But[/del] $Q+R > Q+S$. Hence $P+R > Q+S$. Q.E.D.

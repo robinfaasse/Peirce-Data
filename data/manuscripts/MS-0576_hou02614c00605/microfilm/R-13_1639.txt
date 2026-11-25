@@ -1,0 +1,29 @@
+Let $a = b$ denote that [del]if[/del] in any proposition of the
+forms
+$$\begin{matrix} a \prec x & x \prec a & b \prec x & x \prec b \\ a + x & x + a & b + x & x + b \end{matrix}$$
+$a$ may be substituted for $b$ or $b$ for $a$.
+
+In the [del]single copula[/del] algebra whose single copula is $\prec$
+$a = b$ if and only if $a \prec b$ and $b \prec a$
+
+In the algebra whose single copula is $+$
+$a = b$ if and only if $a \mathbin{\cancel{+}} b$ [ins]$b \mathbin{\cancel{+}} a$[/ins]
+
+In the algebra whose single copula is $\triangleleft$
+$a = b$ if and only if
+$a \mathbin{\cancel{\triangleleft}} b$ and $b \mathbin{\cancel{\triangleleft}} a$ & if further $a \triangleleft c$ or $c \triangleleft a$ while
+$b \triangleleft c$ [del]or[/del] [ins]and[/ins] $c \triangleleft b$.
+
+[u]Of the fundamental operations of the 3 single copula's algebras.[/u]
+
+[del]If a to[/del]
+If $\phi$ is [del]denotes[/del] [ins]such[/ins] an operation that if $a = b$ $\phi a = \phi b$ it
+is said to be an [u]operation on values[/u] otherwise an [u]operation on forms[/u]
+
+Let us consider first [u]operations on values or material operations.[/u]
+
+[u]1 Algebra whose [del]value[/del] [ins]copula[/ins] is $\prec$.[/u]
+
+Two quantities not equal are related to one another in only
+of two ways either
+$$\begin{matrix} a \prec b & b \mathbin{\cancel{\prec}} a \\ \text{or} & a \mathbin{\cancel{\prec}} b & b \prec a \end{matrix}$$

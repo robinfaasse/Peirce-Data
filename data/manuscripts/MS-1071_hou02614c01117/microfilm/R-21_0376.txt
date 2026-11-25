@@ -1,0 +1,15 @@
+$$\frac{36}{50} = \frac{72}{100} \quad \frac{16}{25} = \frac{64}{100} \quad \frac{64}{72} = \frac{8}{9}$$
+
+[fig]Dotted circle[/fig]
+
+$$\left(\frac{x}{X}\right)^2 + \left(\frac{y-Y}{Y}\right)^2 = 1$$
+
+[del]$\ast$[/del] $\frac{x dx}{X^2} + \frac{(y-Y) dy}{Y^2} = 0$
+
+[del]$\frac{y}{Y^2}$[/del] $\frac{dy}{dx} = [del]\frac{x}{X^2}[/del]$ [del]$\frac{x dx}{X^2} = \frac{(Y-y) dy}{Y^2}$[/del]
+
+[del]$\frac{Y^2}{X^2} x dx = y dy$[/del]
+
+$\frac{dy}{dx} = - \frac{Y^2}{X^2} \frac{x}{Y-y}$
+
+$\cot \mathcal{G}g = \frac{Y^2}{X^2}$

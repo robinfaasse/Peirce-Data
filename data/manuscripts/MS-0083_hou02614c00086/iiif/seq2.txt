@@ -1,0 +1,61 @@
+Substitutions in the above group of the 5[ins]th[/ins] degree
+Of 1[ins]st[/ins] order 1
+" 2[ins]nd[/ins] " 5 of type (a) (b) (c) (de) 3 [del]of type[/del] (a) (bc) (de) 2
+" 3[ins]rd[/ins] " 4 [del]All[/del] of type (a) (b) (cde)
+" 4[ins]th[/ins] " 6 [del]All[/del] of type (a) (bcde)
+" 5 " 8
+" 6 " 6
+Of those of the 2[ins]nd[/ins] order first type 1 transposes adjacent letters.
+second none transposes adjacent letters
+
+In all those of the 3[ins]rd[/ins] order the unstirred letters are adjacent
+Of the 6 of the 4[ins]th[/ins] order, 2 move a letter one place at a 
+[fig]figure[/fig] [fig]figure[/fig] time [del]th[/del] in one direction 3 [ins]successively[/ins] [del]and the other[/del] 4 move a 
+letter 2 places at a time 
+thrice successively
+of the 8 of the 5[ins]th[/ins] order two move the letters
+one step at a time 
+along the sides of a 
+simple pentagon 
+2 along the sides of 
+a star pentagon
+Of the [del]three of[/del] [ins]six of the 4th[/ins] order 4 are all on the 
+pattern of Fig 2; none on 
+that of Fig 1. [ins]But this may be regarded as the somewhat arbitrary rule of drawing[/ins]
+[fig]figure[/fig] [fig]figure[/fig]
+Of the 6 of order 6, 4
+are on the pattern of Fig 4
+and 2 on that of Fig 5 
+[fig]figure[/fig] [fig]figure[/fig]
+If the group were complete it would be of the 60[ins]th[/ins] order.
+
+MS 83
+P 5 JORDAN'S SUBSTITUTIONS
+I must say that the impression made upon 
+my mind by this book is that neither the enun-
+ciations nor the demonstrations always 
+touch the summit of lucidity.
+Take one of the theorems least open to this
+criticism, that of Lagrange. "Si le groupe 
+H est contenu dans le groupe G, son ordre 
+est un diviseur de N, ordre de G." This is 
+clear enough; yet I should prefer Euclid's way, 
+viz: The order of any group is divisible by 
+that of each group that it contains. Thus, [del]let[/del] 
+[ins]let[/ins] Γ_γ be a group of order γ, [ins]and let it[/ins] contain[del]ing[/del] the group 
+B_β of order β. Then γ will be divisible by β.
+The general method of proof is well enough. 
+If b_1, b_2, b_3, etc are all the substitutions of B_(β), 
+some power of each of them equals 1 and all 
+the powers and powers of [del]products of[/del] [ins]all the substitutions b_i, b_j, etc ?[/ins] them 
+are among the b's. Consequently b_1, b_2 etc are 
+all among them. Now take any substitution 
+S_n of G_(γ) that is not one of the b's then its products 
+by all the b's will belong to G_(γ) and no two of them 
+will be equal. For if [ins]there be any substitution s[/ins] [del]we had S_m b_m = S_n b_n[/del] we 
+should have [del]S_m^-1 S_n = b_m b_n^-1 = b_x[/del] S b_m = S b_n, we 
+should have [del]S b_m = b_n we should have s = b_n b_m^-1[/del] b_m = b_n [ins]and such that s b_m = b_n, we shall have s = b_n b_m^-1[/ins]
+and every such product is a b_i. And in the 
+same way if b_p s = b_q, s is one of the b_i. And because 
+of the finitude of all the groups, some integer power of s is 1. 
+Whence S b_m cannot equal S b_n since if it did b_m^-1 n = s s^-1 = 1

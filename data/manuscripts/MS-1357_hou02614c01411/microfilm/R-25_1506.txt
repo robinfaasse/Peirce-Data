@@ -1,0 +1,33 @@
+[fig]Diagram showing a hanging cord with weights at points 1 and 2, suspended from points 0 and 3.[/fig]
+
+$$\frac{x_1(x_2-x_1)}{x_2y_1-y_2x_1} = \frac{(x_2-x_1)(x_3-x_2)}{(x_3-x_2)(y_2-y_1)-(y_3-y_2)(x_2-x_1)}$$
+
+[fig]Two diagrams showing intersecting hanging cords suspended from points 0 and 3.[/fig]
+
+$$m:n =$$
+
+$$x_v$$
+
+From two points of support at 0 and 3
+Let [del]a[/del] [ins]an inextensible[/ins] cord be hung to which are attached at 1 and 2
+equal weights.
+
+How must these be placed so that they lie in one
+vertical parabola through 0 and 3?
+
+Let inextensible cords connect 02 and 13. Then let the
+cord 12 be cut.
+
+Then the weights at 1 and 2 produce equal [ins]horizontal[/ins] pulls upon
+0 and 3
+
+$$x_v \text{ being the value of } x \text{ at the vertex of the parabola}$$
+$$x_v = \frac{1}{2}(a+bA)$$
+
+$$A = \frac{2x_v-x_0}{y_0}$$
+
+Together they give [del]2A = \frac{4x_v-2x_3}{y_3}[/del]
+
+But before the cutting of 12, the [ins]horizontal[/ins] pull of $P_1$ was $\frac{2x_v-x_2}{y_2}$
+
+The horizontal pull of $P_2$ was $\frac{2(x_v-x_2)-x_3+x_1}{y_3-y_1}$

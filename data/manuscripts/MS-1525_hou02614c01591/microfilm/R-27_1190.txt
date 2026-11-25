@@ -1,0 +1,36 @@
+$\frac{2}{8}$ $\frac{5}{}$ [fig]tic-tac-toe grid[/fig] O has choice of $1, 3, 7, 9, 4, 6$.
+$\frac{2}{8}$ $\frac{5}{1}$ [fig]tic-tac-toe grid[/fig] X has choice of $3, 4, 6, 7, 9$.
+$\frac{2}{8}$ $\frac{5}{1}$ $\frac{9}{}$ O!!!
+$\frac{2}{8}$ $\frac{5}{1}$ $\frac{7}{9}$ $\frac{4}{}$
+$\frac{2}{8}$ $\frac{5}{1}$ $\frac{6}{4}$ $\frac{7}{3}$ — The forcing of moves prevents tic-tac-toe.
+$\frac{2}{8}$ $\frac{5}{1}$ $\frac{3}{6}$ $\frac{7}{4}$
+$\frac{2}{8}$ $\frac{5}{1}$ $\frac{7}{}$
+$\frac{2}{8}$ $\frac{5}{1}$ $\frac{3}{}$ [fig]tic-tac-toe grid[/fig] O has choice between $3, 4, 6, 7$. $3$ and $6$ [del]destroy[/del] [ins]simplify[/ins] the situation
+in which alone tit-tat-toe can be made $4$ and $7$ force moves
+which destroy it. Hence, no tit-tat-toe can be made.
+$\frac{2}{8}$ $\frac{5}{1}$ $\frac{3}{7}$ $\frac{9}{4}$ $\frac{4}{}$ — Forcing prevents tit-tat-toe.
+$\frac{2}{8}$ $\frac{5}{1}$ $\frac{3}{7}$ $\frac{4}{3}$ X!!!
+$\frac{2}{8}$ $\frac{7}{}$ [fig]tic-tac-toe grid[/fig] O has choice between $1, 3, 4, 5, 6, 9$.
+$\frac{2}{8}$ $\frac{7}{1}$ [fig]tic-tac-toe grid[/fig] X has choice between $3, 4, 5, 6, 9$. Evidently, after none
+of these will it be possible for O to make tit-tat-toe; nor
+will it for X, unless perhaps if he now occupies $4$ or $9$.
+$\frac{2}{8}$ $\frac{7}{1}$ $\frac{6}{}$ [fig]tic-tac-toe grid[/fig] O has choice between $3, 4, 5, 9$; but evidently all of
+these prevent the possibility of tit-tat-toe except $4$ and $9$.
+$\frac{2}{8}$ $\frac{7}{1}$ $\frac{6}{9}$ $\frac{3}{}$ X!!!
+$\frac{2}{8}$ $\frac{7}{1}$ $\frac{6}{9}$ $\frac{5}{1}$ X!!!
+$\frac{2}{8}$ $\frac{7}{1}$ $\frac{9}{}$ [fig]tic-tac-toe grid[/fig] O has choice between $3, 4, 5, 6$, of which $4$ alone may allow tit-tat-toe.
+$\frac{2}{8}$ $\frac{7}{1}$ $\frac{9}{4}$ $\frac{2}{}$ X!!!
+$\frac{2}{8}$ $\frac{7}{3}$ [fig]tic-tac-toe grid[/fig] X has choice between $1, 4, 5, 6, 9$; but it is evidently impossible for
+O to make tit-tat-toe, and it will be so for X unless he now occupies $5$
+or $9$.
+$\frac{2}{8}$ $\frac{7}{3}$ $\frac{6}{}$ [fig]tic-tac-toe grid[/fig] O has choice between $1, 4, 5, 9$, of which the last alone allows tit-tat-toe.
+$\frac{2}{8}$ $\frac{7}{3}$ $\frac{6}{9}$ $\frac{4}{}$ X!!!
+$\frac{2}{8}$ $\frac{7}{3}$ $\frac{9}{}$ [fig]tic-tac-toe grid[/fig] O has choice between $1, 4, 5, 6$, of which the last alone allows tit-tat-toe.
+$\frac{2}{8}$ $\frac{7}{3}$ $\frac{9}{6}$ $\frac{1}{}$ X!!!
+$\frac{2}{8}$ $\frac{7}{3}$ $\frac{5}{}$ [fig]tic-tac-toe grid[/fig] O has choice between $1, 4, 6, 9$; of which the first two evidently
+prevent tit-tat-toe.
+$\frac{2}{8}$ $\frac{7}{3}$ $\frac{5}{6}$ $\frac{9}{4}$ — Forcing prevents tit-tat-toe.
+$\frac{2}{8}$ $\frac{7}{3}$ $\frac{5}{6}$ $\frac{6}{}$ — " " " "
+$\frac{2}{8}$ $\frac{7}{4}$ [fig]tic-tac-toe grid[/fig] X has choice between $3$ (best), $1, 5, 6, 9$.
+$\frac{2}{8}$ $\frac{7}{4}$ $\frac{3}{}$ X!!!
+$\frac{2}{8}$ $\frac{7}{4}$ $\frac{1}{}$

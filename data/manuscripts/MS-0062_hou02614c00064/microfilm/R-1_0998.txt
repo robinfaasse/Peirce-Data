@@ -1,0 +1,28 @@
+[marginalia]Ms. 62[/marginalia] I will celebrate the reception of this paper by the following
+Notes on Secundal Numeration. [marginalia]c. 1905?[/marginalia]
+
+[u]Part I. Notation[/u]
+
+A number is denoted in this system by a horizontal row of figures
+each of which is either a 0 or a 1.
+
+The places of figures in the row are called [u]secundal places[/u].
+
+Each secundal place has an ordinal number which is greater
+by one than the place to the right of it, if there be any such.
+
+The place whose ordinal is Zero is marked by [del]a[/del] [ins]a horizontal line
+through the figure in it, [del]0[/del] or +.[/ins]
+
+If $n_i$ is the figure in the $i$ th secundal place, the number denoted
+by the row of figures is $\sum_{-\infty}^{+\infty} n_i 2^i$.
+
+[del]Part II Addition.[/del] If the row is endless toward the right and
+consists of [del]a left hand part with[/del] a right hand part composed of
+endless immediate repetitions of a series of figures, this series
+need only be written once if a dot is put over its two extreme
+figures. Let $k$ and $l$ be the [ins]ordinals of the[/ins] left hand and right hand extreme
+places, and let $x$ be any positive integer. Then the row will denote
+$$\sum_{k+1-x}^{\infty} n_i 2^i + \frac{2^{k+1-l}}{2^{k+1-l}-1} \sum_{l-x}^{k-x} n_i 2^i$$
+
+[fig]Mathematical calculations and diagrams with secundal places[/fig]

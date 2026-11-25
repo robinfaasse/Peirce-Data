@@ -1,0 +1,12 @@
+[del]First part of[/del]
+[ins]1st proof of[/ins] Theorem 2. $x_{y} + x_{z} \prec x_{,(y+z)}$ (Boole)
+$x + yz \prec (x+y),(x+z)$ (Peirce)
+
+<u>Proof</u>. By IV', III', III, II, I, IV,
+$x_{y} \prec y \prec y+z \prec x_{,(y+z)}$
+$x_{z} \prec z \prec y+z \prec x_{,(y+z)}$
+$\therefore x_{y} + x_{z} \prec x_{,(y+z)}$
+
+By corollary 1, $x+yz \prec (x+y),(x+z)$.
+
+The converse of this theorem cannot be proved [del]without[/del] [ins]without[/ins] the aid of the third part of the definition of the copula.

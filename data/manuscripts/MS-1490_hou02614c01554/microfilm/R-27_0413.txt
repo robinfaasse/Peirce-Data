@@ -1,0 +1,37 @@
+$$(ax + by + cz)(\alpha x + \beta y + \gamma z)$$
+
+$$Px^2 + Qy^2 + Rz^2 + Lxy + Myz + Nzx$$
+
+$$\begin{array}{ll}
+P = a\alpha & L = a\beta + \alpha b \\
+Q = b\beta & M = b\gamma + \beta c \\
+R = c\gamma & N = a\gamma + \alpha c
+\end{array}$$
+
+$$\begin{array}{lll}
+\frac{P}{a} = \alpha \quad \beta = \frac{Q}{b} \quad \gamma = \frac{R}{c} & \frac{L}{ab} = \frac{P}{a^2} + \frac{Q}{b^2} & L = bP + aQ & LR = bPR + aQR \\
+& M = cQ + bR & NQ = cPQ + aQR \\
+L = Q\frac{a}{b} + P\frac{b}{a} & \frac{M}{bc} = \frac{Q}{b^2} + \frac{R}{c^2} & N = cP + aR & LR - NQ = bPR - cPQ \\
+M = R\frac{b}{c} + Q\frac{c}{b} & \frac{N}{ac} = \frac{P}{a^2} + \frac{R}{c^2} & \frac{L - bP}{Q} = \frac{N - cP}{R} & MP = bPR + cPQ \\
+N = R\frac{a}{c} + P\frac{c}{a} & & & LR + MP - NQ = 2bPR
+\end{array}$$
+
+$$\begin{array}{ll}
+[del]L^2[/del] & LR - bPR = NQ - cPQ \\
+\quad Q a^2 - Lab + Pb^2 & cQ - bR = \frac{NQ - LR}{P} \\
+u^2 \frac{P}{a^2} + \frac{L}{ab} + \frac{Q}{b^2} = 0 & cQ + bR = M \\
+u^2 \frac{R}{c^2} - \frac{M}{bc} + \frac{Q}{b^2} = 0 & \frac{2}{c} = \left(\frac{M}{R} \pm \sqrt{\frac{M^2}{R^2} - \frac{4Q}{R}}\right) \frac{1}{b} \\
+u^2 \frac{P}{a^2} - \frac{N}{ac} + \frac{R}{c^2} = 0 &
+\end{array}$$
+
+$$\begin{array}{ll}
+[del]\left(\frac{L}{a}\right)[/del] \frac{L}{a} - \frac{P}{a} & \frac{LR}{[del]a[/del]} \pm \sqrt{\frac{L^2 R^2}{[del]a^2[/del]} - \frac{4QPR^2}{[del]a[/del]}} \\
+& \frac{N}{[del]a[/del]} \pm \sqrt{\frac{N^2}{[del]a^2[/del]} - \frac{4RP}{[del]a[/del]}}
+\end{array} = \frac{1}{2} \frac{M}{[del]a[/del]} \pm \frac{1}{2} \sqrt{\frac{M^2}{[del]a^2[/del]} - \frac{4QR}{[del]a[/del]}}$$
+
+$$\begin{array}{ll}
+\frac{4}{a^2} - 4 \frac{1}{a} \frac{L}{Pb} = [del]\frac{\left(\frac{L}{Pb} - \frac{4Q}{P}\right)}{a^2}[/del] \frac{1}{b^2} & \frac{1}{2} MN \pm \frac{1}{2} \sqrt{M^2 N^2 - 4QRN^2} \\
+\qquad + \frac{L^2}{P^2} & = \frac{1}{2} \sqrt{MN^2 - 4M^2 RP} \\
+\frac{2}{a} = \left(\frac{L}{Pb} \pm \sqrt{\frac{L^2}{P^2 b^2} - \frac{4Q}{P}}\right) \frac{1}{b} & \pm \frac{1}{2} \sqrt{M^2 N^2 - 4M^2 RP - 4N^2 QR + 16PQR^2} \\
+\frac{2}{a} = \left(\frac{N}{Pc} \pm \sqrt{\frac{N^2}{P^2} - \frac{4R}{P}}\right) \frac{1}{c} & \begin{array}{r} c \left(\frac{L}{P} \pm \sqrt{\frac{L^2}{P^2} - \frac{4Q}{P}}\right) \\ - b \left(\frac{N}{P} \pm \sqrt{\frac{N^2}{P^2} - \frac{4R}{P}}\right) \end{array}
+\end{array}$$

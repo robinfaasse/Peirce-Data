@@ -1,0 +1,54 @@
+[u]Lecture XXVIII[/u]
+CHAPTER III.
+
+[del]§ 29[/del] [u]§ 29[/u] $\int_x f(x, \sqrt{ax+b})$
+
+$\frac{\sqrt{ax+b}}{x} = y$
+
+[u]§ 30[/u] & 3
+
+$\sqrt[6]{x} = y$
+$\sqrt{x} = y^3$
+$\sqrt[3]{x} = y^2$
+
+[u]§ 31[/u] $\int_x f(x, \sqrt{ax^2+bx+c})$
+
+Cases can all be treated from one pt. of view by means of the imaginary analysis.
+
+$z = \sqrt{m} (6)^{-\phi}$
+
+$\frac{m}{z} = \sqrt{m} 6^{\phi}$
+
+$\frac{m}{z} + z = \sqrt{m} (6^{\phi} + 6^{-\phi}) = 2 \sqrt{m} \cos \phi$
+
+$\frac{m}{z} - z = \sqrt{m} (6^{\phi} - 6^{-\phi}) = 2 \sqrt{m} \sin \phi$
+
+$\int (\sqrt{m} \cos \phi + \frac{b}{2a}) d\phi (\sqrt{m} \sin \phi)$
+
+$\int_{\phi} [ f(\sqrt{m}\cos\phi, \frac{b}{2a}, -\sqrt{m}\sin\phi) \sin \phi ]$
+
+[u]§ 32[/u] $\frac{1}{\sqrt{ax^2+bx+c}}$
+
+(325)
+
+[u]1st[/u] $\int_{\phi} \frac{\sin \phi}{-\sqrt{m} a \sin \phi} = \int_{\phi} = -\frac{1}{\sqrt{m} a} = -\frac{\phi}{\sqrt{m} a}$
+
+[u]2nd[/u]
+$a < 0$
+$b = 0$
+$c = 1$
+$m = 1$
+
+$\int = -\frac{\phi \times a}{\sqrt{a}}$
+
+[u]3rd[/u]
+$a > 1$
+$b = 0$
+$c = 1$
+$m = -1$
+
+4
+
+10
+
+[fig]Sketch of a face in profile[/fig]

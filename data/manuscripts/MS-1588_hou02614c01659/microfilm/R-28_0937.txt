@@ -1,0 +1,28 @@
+[pn]3[/pn] If $fx = \frac{(x+3)^3}{(x+2)^2} = \frac{u}{v}$
+[ins]$\mathcal{D}_x fx = \frac{v \cdot \mathcal{D}_x u - u \mathcal{D}_x v}{v^2}$[/ins]
+but $\mathcal{D}_x fx = 0$, for maxima & minima, hence
+$\frac{v \cdot \mathcal{D}_x u - u \mathcal{D}_x v}{v^2} = 0$, i.e. $\frac{(x+2)^2 \cdot 3(x+3)^2 - (x+3)^3 \cdot 2(x+2)}{(x+2)^4} = 0$
+reducing,
+$\frac{(x+3)^2 (3x+6-2x-6)}{(x+2)^3} = 0 = \frac{(x+3)^2 x}{(x+2)^3} = 0$., here we must
+have either the numerator $= 0$ or the denominator
+$= \infty$; but if $(x+2)^3 = \infty$, $x = \infty$ & $(x+3)^2 = \infty$, so the form would
+be $\frac{\infty}{\infty}$, which is indeterminate; so we must have
+either $(x+3)^2 = 0$, i.e. $x = -3$, or $x = 0$. the values of
+$fx$ are therefore, $fx = 0$, or $fx = -\frac{27}{4} = -6\frac{3}{4}$.
+
+[pn]4[/pn]
+[fig]Graph showing curve with tangent line, secant line, and differential triangle[/fig]
+Curvature is expressed by ratio of angle
+made by tangent with axis compared
+with distance passed, i.e. by the ratio of $\Delta \tau$ to
+$\Delta s$, or going to the limits by $\mathcal{D}_s \tau$. To find
+$\mathcal{D}_s \tau$ we have, in rectangular co-efficients,
+$(ds)^2 = (dx)^2 + (dy)^2$, or $(\mathcal{D}_x s)^2 = 1 + (\mathcal{D}_x y)^2$,
+$(\mathcal{D}_y s)^2 = 1 + (\mathcal{D}_y x)^2$, and we know $\tan \tau = \mathcal{D}_x y$.
+Applying these values to each other
+we obtain as a result $\mathcal{D}_s \tau = \frac{\mathcal{D}_x^2 y}{[1 + (\mathcal{D}_x y)^2]^{\frac{3}{2}}}$
+which measures the curvature
+at any point.
+If we apply this reasoning to the circle
+whose equation, centre at origin, is $x^2 + y^2 = r^2$
+we obtain by differentiating successively

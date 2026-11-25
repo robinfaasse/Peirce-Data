@@ -1,0 +1,81 @@
+[fig]Mathematical calculations and binary tables[/fig]
+
+[marginalia]
+1
+2
+4
+8
+16
+32
+64
+128
+256
+512
+1024
+2048
+4096
+8192
+[/marginalia]
+
+[fig]Binary division tree[/fig]
+
+[marginalia]
+512
+2048
+8192
+[/marginalia]
+
+[marginalia]
+42
+210
+1050
+31
+31
+1271
+[/marginalia]
+
+[marginalia]
+[del]9[/del]) 41943
+11) 13107
+127
+[/marginalia]
+
+[u]5[/u] - [u]1[/u] = [u]4[/u]
+25   25   25
+
+[u]5[/u]
+25
+
+[u]50[/u] - [u]25[/u] = [u]25[/u]
+125   125   125
+
+[u]15[/u] - [u]4[/u] = [u]11[/u]
+125   125   125
+
+[u]40[/u] - [u]11[/u] = [u]29[/u]
+625   625   625
+
+[u]10[/u] + [u]1[/u] = [u]11[/u]
+125   125   125
+
+[u]11[/u]
+125
+
+[u]5[/u]
+125
+
+[u]29[/u]
+625
+
+[u]21[/u]
+625
+
+25) 1048575
+[u]41943[/u]
+32
+
+(2 - x)² = 3
+4 - 4x + x² = 3
+1 = 4x - x²
+
+[fig]Binary tables and calculations[/fig]

@@ -1,0 +1,35 @@
+[fig]Vertical line dividing the page into two columns[/fig]
+
+[pn]1[/pn]
+
+$(x-a)(x-b)(x-c)$
+$x^3 - (a+b+c)x^2$
+$+ (ab+ac+bc)x$
+$- abc = 0$
+
+$1 = \frac{P^2}{R^2} (1 + \frac{P^2}{Q^2} + \frac{P^2}{R^2}) l^2$
+
+$l = \frac{1}{P^2} \frac{P^2 Q^2 R^2}{PQ^2 + P^2 R^2 + Q^2 R^2}$
+
+$l = \frac{1}{P} \sqrt{\frac{1}{\frac{1}{P^2} + \frac{1}{Q^2} + \frac{1}{R^2}}}$
+
+$[yz] - \frac{[xy][yz]}{[xz]} = T$
+[del]$[xz]$[/del] [del]$[yz]$[/del]
+
+---
+
+$(R+r_1)^2$
+$R^2 + 2Rr_1 + r_1^2$
+
+$l ([xy]-T)[yz] + m [yx][yz]$
+$- l [xy][xz] - m ([yx]-T)[xz] = 0$
+
+$m = l \frac{([xy]-T)[yz] - [xy][xz]}{([yx]-T)[xz] - [yx][yz]}$
+
+$n = l \frac{([xy]-T)[yz] - [xy][xz]}{([zx]-T)[xy] - [xz][yz]}$
+
+$\begin{vmatrix} [x^2]-T & [xy] & [xz] \\ [yx] & [y^2]-T & [yz] \\ [xz] & [yz] & [z^2]-T \end{vmatrix} =$
+
+$T^2 - T \left( \frac{[xy][yz]}{[xz]} + [xz] \right) \left( [z^2] - [yz]^2 - [xy]^2 \right)$
+
+$+ \begin{vmatrix} [xy] & [yz] \\ [xz] & [yz] \end{vmatrix} - \begin{vmatrix} [xz] \\ [yz] \end{vmatrix} = 0$

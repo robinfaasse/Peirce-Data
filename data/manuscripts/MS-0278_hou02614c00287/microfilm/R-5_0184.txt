@@ -1,0 +1,21 @@
+[u]Theorem 12[/u]. [u]The addition of zero to a number does not[/u] [u]alter the number[/u].
+
+[u]Demonstration[/u]. Suppose this true for [del]a[/del] [ins]any[/ins] number, $N$, so that $0 + N = N$. Then, let $N'$ be the number next greater than $N$; and, by axiom 6, $0 + N' = N'$. Thus, the proposition, if true for any whole number, is true for the next higher.
+
+But, by axiom 7, it is true for $N = 0$. Hence, it is true for all numbers.
+
+[u]Corollary 10[/u]. $N + 0 = N$.
+
+[u]Theorem 13[/u]. [u]The addition of one to a number gives the[/u] [u]next higher number[/u].
+
+[u]Demonstration[/u]. For suppose this true of a number $N$, whose next higher is $N'$. That is, suppose $1 + N = N'$. Then by axiom 6, if $N''$ is the number next higher than $N'$, $1 + N' = N''$. That is, if the proposition is true of any number it is also true of the number next higher.
+
+But it is true of $0$. For by the last corollary $1 + 0 = 1$ and $1$ is the number next higher than $0$. Hence it is true of all numbers.
+
+[marginalia](The associative Principle.)[/marginalia] [del][u]Corollary 11[/u]. Any number added to 1 gives the next higher number.[/del]
+
+[u]Theorem 14[/u]. [u]Addition is an associative mode of combination[/u].
+
+[u]Demonstration[/u]. Let $I, M, N$ be any three whole numbers, Then I [ins]mean to[/ins] say that $(I + M) + N = I + (M + N)$, [ins]that is, $(I + 1) + N = I + (1 + N)$.[/ins]
+
+First, this is true when $M = 1$. For $I + N$ by Theorem _ is a whole number, and $I + 1$ by the last corollary equals $1 + I$, and, by theorem _, is the number next higher than $I$.

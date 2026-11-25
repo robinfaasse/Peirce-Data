@@ -1,0 +1,8 @@
+[pn]Ms 232[/pn]
+
+[u]Note on the Mouse-Trap Problem[/u]
+[u]By C. S. Peirce[/u]
+
+In [del]the[/del] first number of the [u]Quarterly Journal[/u] ([date]April 1855[/date]), Professor Cayley proposes a problem which intersects with the following. Take a pack of [u]n[/u] cards numbered in order from ace at the top to [u]n[/u] at the bottom. Count the cards, taking them singly from the top and putting them at the bottom as you count them. Put the [u]a[/u]th on the table. Begin counting again and put the [ins]([/ins]a+b[ins])[/ins]th on the table; then the (a+2b)th and so on in arithmetical progression. In what order will the cards emerge?
+
+The answer is this. Let a+b[del]x[/del][ins]y[/ins]= [u]r[/u]. Then they will come out in the [u]r[/u]th arrangement of the first [u]n[/u] numbers. The [u]r[/u]th arrangement of the first [u]n[/u] numbers is this. The first number is the residue of [u]r[/u] to the modulus [u]n[/u] ([u]n[/u] is considered as a [del]residue[/del] [ins]residue[/ins] and [u]zero[/u] not) the other numbers are the residues to the same modulus of the first [u]n[/u]-1 numbers in their [u]r[/u]th arrangement each increased by [u]r[/u]. For example, [del]the 3rd[/del] we wish to know in what order [del]the[/del] cards will come out if a=2, b=3. In this case, r=20. Then we make the following calculation

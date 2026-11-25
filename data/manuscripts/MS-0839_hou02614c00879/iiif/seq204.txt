@@ -1,0 +1,22 @@
+If $a \therefore b$ then $a \prec b$
+If [del]one[/del] [ins]other[/ins] $a \prec b$ then $a \therefore b$
+$(A + B) C \prec A + BC$
+$a \times b$ $\overline{a + b}$
+$A \prec [(A \prec B) \times B]$ $A(\overline{B} + C) \prec A \overline{B} + C$
+[del]$A \overline{B} + A \overline{B} + (A \prec B) \prec [(B \prec C) \prec (D \prec D)]$[/del] $(A \prec B) \prec C$
+$A$
+$\overline{A} + C$ $\overline{A} + \overline{A}B + B$
+$A \overline{C} + B$
+$(\overline{A} + C) \overline{B} + B$
+$\overline{A} + [del](A \overline{C} + B) \overline{B}[/del] + C$ $(A \prec B) \prec B$
+$A \overline{B} + B$
+$[(A \prec B) \times B] \prec [(B \prec A) \prec A]$ $A + B$
+$6 \underline{) 60}$
+$3 \underline{) 10}$
+$3 \frac{1}{3}$
+$B \prec A$ $\{[(A \prec B) \times B] \prec C\} \prec C$
+$(A \prec B) \prec B$ $\prec \{A \prec [(B \prec C) \prec C] \} \prec \{(B \prec C) \prec C\}$
+$A$
+$\{[(A \prec B) \prec B] \prec C\} \prec C$
+$\times [A \prec (B \prec C) \prec C] \prec (B \prec C) \prec C$
+[fig]figure[/fig]

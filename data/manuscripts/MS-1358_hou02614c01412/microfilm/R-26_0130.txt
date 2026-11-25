@@ -1,0 +1,32 @@
+[marginalia]Morrison's Bridge 1899 Feb 6[/marginalia] [pn]3[/pn]
+
+$$\mathcal{M}_n = \mathcal{C}_0 (-2+\sqrt{3})^n + \mathcal{C}_1 (-2-\sqrt{3})^n + \frac{1}{6} \frac{\mathcal{W}}{2}$$
+
+$$\mathcal{M}_{-N} = \mathcal{C}_0 (-2+\sqrt{3})^{-N} + \mathcal{C}_1 (-2-\sqrt{3})^{-N} + \frac{1}{6} \frac{\mathcal{W}}{2}$$
+
+$$\mathcal{M}_{-N+1} = \mathcal{C}_0 (-2+\sqrt{3})^{-N+1} + \mathcal{C}_1 (-2-\sqrt{3})^{-N+1} + \frac{1}{6} \frac{\mathcal{W}}{2}$$
+
+$$-[del](2+\sqrt{3})[/del] \mathcal{M}_{-N} = \mathcal{C}_0 (-2+\sqrt{3})^{-N} [ins]\begin{array}{c} -2+\sqrt{3} \\ (2+\sqrt{3}) \end{array}[/ins] + \mathcal{C}_1 [del](-2-\sqrt{3})^{-N+1}[/del] [ins](-2-\sqrt{3})^{-N+1}[/ins] - [del]\frac{1}{6} (2+\sqrt{3}) \frac{\mathcal{W}}{2}[/del]$$
+
+$$(2+\sqrt{3}) \mathcal{M}_{-N} + \mathcal{M}_{-N+1} = \mathcal{C}_0 2\sqrt{3} \cdot (-2+\sqrt{3})^{-N} + \frac{1}{6} (3+\sqrt{3}) \frac{\mathcal{W}}{2}$$
+
+$$\mathcal{C}_0 = - \frac{2+\sqrt{3}}{2\sqrt{3}} (-2+\sqrt{3})^{N-1} \mathcal{M}_{-N} + \frac{(2+\sqrt{3})^N}{2\sqrt{3}} \mathcal{M}_{-N+1} - \frac{(3+\sqrt{3})(2+\sqrt{3})^N}{12\sqrt{3}} \frac{\mathcal{W}}{2}$$
+
+$$(-2+\sqrt{3}) \mathcal{M}_{-N} = \mathcal{C}_0 (-2+\sqrt{3})^{-N+1} + \mathcal{C}_1 (-2-\sqrt{3})^{-N} (-2+\sqrt{3}) [del]= \frac{+2-\sqrt{3}}{6} \frac{\mathcal{W}}{2}[/del]$$
+[ins]\begin{array}{c} -2-\sqrt{3} \\ -2-\sqrt{3} \end{array}[/ins] [ins]\begin{array}{c} 2-\sqrt{3} \\ +2-\sqrt{3} \end{array}[/ins]
+
+[del]\mathcal{M}_{-N+1}[/del] + (2-\sqrt{3}) \mathcal{M}_{-N} = [del]\mathcal{C}_1[/del] \mathcal{C}_1 (-2-\sqrt{3})^{-N} 2\sqrt{3} + \frac{3-\sqrt{3}}{6} \frac{\mathcal{W}}{2}
+
+$$\mathcal{C}_1 = + \frac{(-2-\sqrt{3})^{N-1}}{2\sqrt{3}} [del](-2-\sqrt{3})[/del] \mathcal{M}_{-N} - \frac{(-2-\sqrt{3})^N}{2\sqrt{3}} \mathcal{M}_{-N+1} + \frac{3-\sqrt{3}}{[del]12\sqrt{3}[/del]} \frac{\mathcal{W}}{2} (-2-\sqrt{3})^N$$
+[ins]\begin{array}{c} 2-\sqrt{3} \\ 2+\sqrt{3} \end{array}[/ins] [ins](1-\frac{1}{\sqrt{3}}) \frac{\mathcal{W}}{4}[/ins]
+
+$$\mathcal{M}_n = - \frac{(-2+\sqrt{3})^{2N-1}}{2\sqrt{3}} \mathcal{M}_{-N} + \frac{(-2+\sqrt{3})^{2N}}{2\sqrt{3}} \mathcal{M}_{-N+1} - \frac{(3+\sqrt{3})}{12\sqrt{3}} (-2+\sqrt{3})^{2N} \frac{\mathcal{W}}{2}$$
+
+$$+ \frac{(-2-\sqrt{3})^{2N-1}}{2\sqrt{3}} \mathcal{M}_{-N} - \frac{(-2-\sqrt{3})^{2N}}{2\sqrt{3}} \mathcal{M}_{-N+1} + \frac{3-\sqrt{3}}{12\sqrt{3}} (-2-\sqrt{3})^{2N} \frac{\mathcal{W}}{2}$$
+
+$$+ \frac{1}{6} \frac{\mathcal{W}}{2}$$
+
+$$4(Q-N) \mathcal{M}_{-P} + 2(P-N) \mathcal{M}_{-N} = \frac{\mathcal{W}}{4} [2(Q-P)^3 + 2(P-N)^3]$$
+$$+ 4 [del]\frac{Q-N}{P-N}[/del] \mathcal{M}_{-1} + 2 [del]\mathcal{M}_{-N}[/del] \mathcal{M}_{-N} = \frac{\mathcal{W}}{4} [2 \frac{(Q-P)^3}{P-N} + (P-N)^2]$$
+$$- P+N \mathcal{M}_{-1} - 2P+2N-2 \mathcal{M}_{-N} - \mathcal{M}_{-N+1} = + \frac{\mathcal{W}}{4} (\frac{(Q-P)^3}{P-N} - 1)$$
+$$(4Q-P-3N) \mathcal{M}_{-1} - \mathcal{M}_{-N+1} = \frac{\mathcal{W}}{4} [2(Q-P)^3 + (P-N)^3 + (P-N)^2 - 1 + 2 \frac{(Q-P)^3}{P-N}]$$

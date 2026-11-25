@@ -1,0 +1,25 @@
+[marginalia]
+Same footnote
+as before
+[/marginalia]
+
+[pn]C.[/pn]
+
+[marginalia]
+[pn]Ms 569[/pn]
+[/marginalia]
+
+The sign [u]\(\prec\)[/u] is subject to three algebraical rules, as follows:—
+
+[u]Rule I[/u]. If [u]\(x\prec y\)[/u] and [u]\(y\prec z\)[/u], then [u]\(x\prec z\)[/u]. This is called the [u]principle of the transitiveness of the copula[/u].
+
+[u]Rule II[/u]. Either [u]\(x\prec y\)[/u] or [u]\(y\prec z\)[/u].
+
+[u]Rule III[/u]. There are two propositions, [u]\(u\)[/u] and [u]\(v\)[/u], such that [u]\(v\prec u\)[/u] is false.
+
+[marginalia]
+To this is to be added the following
+[u]Rule of Interpretation[/u]. If [u]\(y\)[/u] is true, [u]\(v\prec y\)[/u] and if [u]\(y\)[/u] is false [u]\(y\prec u\)[/u]
+[/marginalia]
+
+Rule I. [ins]can be[/ins] proved from propositions, A, B, C. For by C, if [u]\(x\prec y\)[/u], either [u]\(x\)[/u] is false or [u]\(y\)[/u] is true. In the statement of A, substitute [u]\(z\)[/u] for [u]\(y\)[/u]. It then reads that if [u]\(x\)[/u] is false, [u]\(x\prec z\)[/u]. Hence, if [u]\(x\prec y\)[/u], either [u]\(x\prec z\)[/u] or [u]\(y\)[/u] is true. Call this proposition P. In the statement of C, substitute [u]\(y\)[/u] for [u]\(x\)[/u], and [u]\(z\)[/u] for [u]\(y\)[/u]. It then reads that if [u]\(y\prec z\)[/u], either [u]\(y\)[/u] is false or [u]\(z\)[/u] is true. Combining this with P, we see that if [u]\(x\prec y\)[/u] [ins]and [u]\(y\prec z\)[/u][/ins], either [u]\(x\prec z\)[/u] or [u]\(z\)[/u] is true. Call this proposition Q. In the statement of B, substitute [u]\(z\)[/u] for [u]\(y\)[/u]. It then reads that if [del]\(y\)[/del] [ins][u]\(z\)[/u][/ins] is true [u]\(x\prec z\)[/u]. Combining this with Q, we conclude that if [u]\(x\prec y\)[/u] and [u]\(y\prec z\)[/u], [u]\(x\prec z\)[/u]. Q.E.D.

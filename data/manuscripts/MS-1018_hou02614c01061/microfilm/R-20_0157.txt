@@ -1,0 +1,19 @@
+[pn]4[/pn] [pn]B. 1[/pn] [pn]A. B[/pn]
+
+[fig]Table of values[/fig]
+
+[del]D[/del] [ins]D[/ins] [del]log[/del] [ins]log[/ins] [del]tan[/del] [ins]tan[/ins] [del]x[/del] [ins]x[/ins] = [del]1[/del] [ins]1[/ins] / [del]tan[/del] [ins]tan[/ins] [del]x[/del] [ins]x[/ins] [del]D[/del] [ins]D[/ins] [del]tan[/del] [ins]tan[/ins] [del]x[/del] [ins]x[/ins]
+
+D tan x = [del]D sin x[/del] [ins]D sin x[/ins] / [del]cos x[/del] [ins]cos x[/ins] = [del]cos² + sin²[/del] [ins]cos² + sin²[/ins] / [del]cos²[/del] [ins]cos²[/ins] = 1 / cos² x
+
+D log tan x = 1 / sin x cos x = 2 / sin 2x
+
+D² log tan x = - [del]24[/del] [ins]4[/ins] / (sin 2x)² cos 2x =
+
+[del]D³ log tan x = + 8[/del] [ins]D³ log tan x = + 8[/ins] [del]+ (sin 2x)³ + (cos 2x)²[/del] [ins]+ (sin 2x)³ + (cos 2x)²[/ins] / [del](sin 2x)⁴[/del] [ins](sin 2x)⁴[/ins]
+
+D³ = - 8 [del]-(sin 2x)³[/del] [ins]-(sin 2x)³[/ins] - 2(sin 2x)(cos 2x)² / (sin 2x)⁴
+
+= 8 [del]sin 2x (sin 2x)² + 2(cos 2x)²[/del] [ins]sin 2x (sin 2x)² + 2(cos 2x)²[/ins] / (sin 2x)³
+
+2x + 4x³

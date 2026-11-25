@@ -1,0 +1,22 @@
+[pn]N1[/pn] [u]Analysis of Demonstrations concerning Positive Integers.[/u]
+
+The Universe of [del]l.c. italic letters[/del] [ins]letters[/ins] is the aggregate of [u]Positive Integers[/u] [ins]including 0[/ins]
+The Universe of Greek [del]miniscules[/del] [ins]minuscules[/ins] is the aggregate of all properties of Positive Integers
+The Universe of Arabic figures is the aggregate of Properties each belonging to [del]every number[/del] [ins]but finite numbers[/ins] while it belongs
+[ins]to 0[/ins]
+
+[u]$q_{\alpha u}$[/u] means [u]$u$[/u] has the property $\alpha$.
+
+$$\Pi_{\alpha} \Sigma_{\beta} \Pi_{u} (q_{\alpha u} + \bar{q}_{\beta u}) \cdot (\bar{q}_{\alpha u} + \bar{q}_{\beta u})$$
+
+[u]$q_{x u}$[/u] means that [u]$u$[/u] has the property $x$, and so does every integer less than $u$.
+
+$$\Pi_{x} \Pi_{u} \sigma_{x u} \prec q_{x u}$$
+
+[fig]Venn-like diagram with circles containing '3', 'q', and 'u'[/fig]
+
+[fig]Complex nested Euler diagrams with labels 'is a char', 'is a char', 'q', 'u', '$\alpha$'[/fig]
+
+$$\Sigma_{\alpha} \Pi_{\beta} \Sigma_{u} \bar{q}_{\alpha u} \cdot \bar{q}_{\beta u}$$
+
+[fig]Nested Euler diagrams with labels 'q', 'u'[/fig]

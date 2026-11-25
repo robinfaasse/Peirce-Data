@@ -1,0 +1,49 @@
+839
+
+a equatorial semi axis
+b polar semi axis
+[fig]figure[/fig] [fig]figure[/fig]
+e = $\frac{\sqrt{a^2-b^2}}{a}$
+
+$\lambda$ Latitude
+$b = \frac{a-b}{b}$ $\tan \lambda = \frac{a}{b} \tan \omega$
+
+$\psi$ azimuth of geodesic
+[fig]figure[/fig]
+$\gamma$ constant angle for each geodesic
+$\cos \omega \sin \psi = \cos \gamma$
+(It is the reduced latitude $\omega$ of northernmost point)
+
+$\varphi$ an auxiliary angle
+$\cos \varphi \sin \gamma = \sin \omega$ $\varphi = 0$ for northernmost
+$= 90^\circ$ for equator
+
+$\theta$ auxiliary $\tan \theta = \frac{ae}{b} \sin \gamma$
+$k$ auxiliary $k = \sin \theta$
+$\chi$ " $\tan \chi = \frac{\tan \varphi}{k}$
+$\alpha$ " $\frac{2K}{\pi} \alpha = F(\chi, k')$ $4 \alpha = 1$ $\alpha = \frac{F(\chi, k')}{F \varphi}$
+$x$ " $x = \frac{\pi}{2K} F \varphi$
+
+Diff Long = $[\frac{\pi}{2K} D_\alpha \log \vartheta_1 (\alpha i) - ke \cot \gamma] \cdot F \varphi + \frac{1}{2i} \log \frac{\vartheta(x+\alpha i)}{\vartheta(x-\alpha i)}$
+
+Suppose $\gamma$ very small.
+$\theta = \frac{ae}{b} \gamma = k$ $\frac{ae}{b} = 0.08254$ 83) 36 (^n
+33 2
+280
+
+$\tan \chi = \frac{b}{ae} = [1.0833] = 12.115$
+$\chi = 0.9476$
+$\log F(\chi, k') =$
+$0.5902 - .0219 \text{x} .0825 \gamma$
+$- .00181 \gamma$ 99175
+204 175 147 122
+51 44 37 30 [ins]$\frac{1}{2}$[/ins]
+2 2 1 [ins]$\frac{1}{2}$[/ins]
+49 42 36 29
+5951 5725 5497 5272
+5902 5683 5461 5243
+219 222 218
+165
+165
+18 [del]0[/del] 8
+7

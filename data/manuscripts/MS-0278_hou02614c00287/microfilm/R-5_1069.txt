@@ -1,0 +1,67 @@
+[del]abc[/del] [del]y[/del] [del]x[/del]
+[del]$(ab + bx + ax) + y(ab + bx + ax) + cy$[/del]
+[del]x[/del] [del]y[/del]
+[del]0[/del] [del]0[/del]
+
+[fig]Four columns of binary numbers[/fig]
+
+$\overline{x}\overline{y}abc + \overline{x}y(ab\sim c) + x\overline{y}(a+b)c + xy(a+b+c)$
+
+[del]abc[/del]
+[del]x[/del] [del]y[/del]
+[del]abc[/del] [del]abc + c[/del]
+[del]x[/del] [del]y[/del]
+[del]1[/del] [del]0[/del]
+$ac + bc$
+[del]x[/del] [del]y[/del]
+[del]1[/del] [del]1[/del]
+[del]ac + bc + ab + c[/del]
+
+$a\overline{b} + a(x+b)$
+[del]$ax + ab + ax$[/del]
+[del]$a(b+x)(a+y)$[/del]
+
+$\overline{x}ab + x(a+b)$
+$\overline{x}ab + xa + xb$
+$(xa + xb + ab)$
+
+$(b\sim c)$
+[del]$b\sim c$[/del]
+$(b\sim c)$
+
+$[ab + (a+b) + c] + abc$
+
+$[abc + ] +$
+$[ab + c + x(a+b)]y + abc$
+$(ab+c)y + (a+b)cx + abc$
+[del]$(x+y)(x+y)(a+b+c)$[/del]
+$xy(ab+c) + x\overline{y}(a+b)c + \overline{x}y(ab\sim c)$
+$\overline{x}\overline{y} abc$
+
+[fig]Column of binary digits[/fig]
+
+$a+b = a\sim b + 2ab$
+$a+b = a\sim b + ab = a\sim b \sim ab$
+$a\sim b \sim ab$
+
+[fig]Two columns of binary digits[/fig]
+
+$\overline{x}\overline{y} (c\sim y)$
+$(ab) (a+b\sim c)(y+c)$
+$(x+ab)(y+c)(a+b+c)$
+$(x+ab)(y+c)(a+b+c)$
+
+$a+b+c = a\sim b \sim ab \sim c \sim (a\sim b\sim ab)c$
+$(a+b)c = ac + bc$
+
+[fig]Three columns of binary digits[/fig]
+
+[fig]Column of binary digits[/fig]
+
+[fig]Column of binary digits[/fig]
+
+$a\sim b\sim c\sim ac$
+
+[fig]Seven columns of binary digits with lines and arrows[/fig]
+
+[fig]Five columns of binary digits with lines[/fig]

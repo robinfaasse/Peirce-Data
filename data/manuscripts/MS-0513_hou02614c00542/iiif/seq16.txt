@@ -1,0 +1,27 @@
+FL
+
+For example, suppose
+(1) $\Pi_{a} \quad \overline{q}_{Pa} + l_{ab} + l_{ac} + l_{ad}$
+(2) $\Pi_{A} (q_{QA} + r_{AB} \cdot r_{AC} \cdot r_{AD} \cdot r_{AE}) \cdot \overline{r}_{BC} \cdot \overline{r}_{BD} \cdot \overline{r}_{BE} \cdot \overline{r}_{CD} \cdot \overline{r}_{CE} \cdot \overline{r}_{DE}$
+We can then prove that $\Sigma_{4} \Sigma_{5} \Sigma_{6} q_{P4} \cdot r_{\Sigma 45} \cdot r_{\Sigma 46} \cdot q_{Q5} \cdot q_{Q6} \cdot \overline{r}_{56}$. But
+it is impossible to do so without both the premises just written. That
+is quite evident, since it is only through relations of identity that different
+indices quantified by $\Sigma$ can be identified. The mode of proof is (I give it not
+as a part of the argument but merely to fix ideas) as follows: We raise
+$\Pi_{\beta} \Sigma_{\gamma} q_{P\gamma} \cdot r_{\delta\gamma\beta} + \overline{q}_{Q\beta}$
+to the fourth power, distinguishing the indices of the different factors by accents.
+We identify $\beta$ with B, $\beta'$ with C, $\beta''$ with D, $\beta'''$ with E. Then because $r_{xx} \prec 0$
+$\Sigma_{\gamma} \Sigma_{\gamma'} \Sigma_{\gamma''} \Sigma_{\gamma'''} q_{P\gamma} \cdot r_{\delta\gamma B} \cdot q_{QB} \cdot q_{P\gamma'} \cdot r_{\delta\gamma' C} \cdot q_{QC} \cdot q_{P\gamma''} \cdot r_{\delta\gamma'' D} \cdot q_{QD} \cdot q_{P\gamma'''} \cdot r_{\delta\gamma''' E} \cdot q_{QE}$
+We now multiply in the fourth power of (1) identifying $a$ in the different factors with $\gamma, \gamma', \gamma'', \gamma'''$.
+This will have the effect of multiplying the Boolean of the last formula by
+$(l_{\gamma b} + l_{\gamma c} + l_{\gamma d}) \cdot (l_{\gamma' b} + l_{\gamma' c} + l_{\gamma' d}) \cdot (l_{\gamma'' b} + l_{\gamma'' c} + l_{\gamma'' d}) \cdot (l_{\gamma''' b} + l_{\gamma''' c} + l_{\gamma''' d})$
+By the definition of identity $l_{\gamma b} \prec \Pi_{\beta} \overline{q}_{P\gamma} + q_{P\beta} \cdot $ Identifying $\beta$ with
+$(q_{P\beta} \cdot r_{\delta\gamma\beta})$ we get $\overline{q}_{P\gamma} + \overline{r}_{\delta\gamma B} + q_{Pb} \cdot r_{\delta b B}$. Multiplying in such terms we get
+$(q_{Pb} \cdot r_{\delta b B} + q_{Pc} \cdot r_{\delta c B} + q_{Pd} \cdot r_{\delta d B}) \cdot q_{QB} \cdot$
+$\cdot (q_{Pb} \cdot r_{\delta b C} + q_{Pc} \cdot r_{\delta c C} + q_{Pd} \cdot r_{\delta d C}) \cdot q_{QC} \cdot$
+$\cdot (q_{Pb} \cdot r_{\delta b D} + q_{Pc} \cdot r_{\delta c D} + q_{Pd} \cdot r_{\delta d D}) \cdot q_{QD} \cdot$
+$\cdot (q_{Pb} \cdot r_{\delta b E} + q_{Pc} \cdot r_{\delta c E} + q_{Pd} \cdot r_{\delta d E}) \cdot q_{QE}$
+This developed gives 81 aggregants from each of which the proposition to be
+proved $\Sigma_{4} \Sigma_{5} \Sigma_{6} q_{P4} \cdot r_{\Sigma 45} \cdot r_{\Sigma 46} \cdot q_{Q5} \cdot q_{Q6} \cdot \overline{r}_{56}$ on multiplying in $\overline{r}_{BC}$ etc from (2)
+But [del]the[/del] [ins]these[/ins] same premises which are required to prove this also prove
+$\Sigma_{i} \Pi_{j} \Sigma_{k} \overline{q}_{Pi} + \overline{r}_{\delta ij} \cdot q_{Qj}$, and that at the very same time.

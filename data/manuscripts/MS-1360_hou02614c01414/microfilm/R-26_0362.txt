@@ -1,0 +1,23 @@
+But
+$$\delta \left\{ \frac{k}{Q} X \right\} = \frac{k}{Q} \delta X + X \delta \frac{k}{Q},$$
+$$\delta \left\{ \frac{k}{Q} Y \right\} = \frac{k}{Q} \delta Y + Y \delta \frac{k}{Q}.$$
+
+Hence, the equations to be solved are
+$$\delta X = [ [del]\frac{s'_N \cos \tau_N - s'_0 \cos \tau_0}{\dots}[/del] - c (s'_q \cos \tau_q - s'_p \cos \tau_p) - X ] \delta \log \frac{k}{Q}$$
+$$- [ \cos \tau_N - \cos \tau_0 - c (\cos \tau_q - \cos \tau_p) ] \delta s''_H$$
+
+$$\delta Y = [ [del]\frac{s'_N \sin \tau_N - s'_0 \sin \tau_0}{\dots}[/del] - c (s'_q \sin \tau_q - s'_p \sin \tau_p) - Y ] \delta \log \frac{k}{Q}$$
+$$- [ \sin \tau_N - \sin \tau_0 - c (\sin \tau_q - \sin \tau_p) ] \delta s''_H$$
+
+We may write these for brief
+$$\delta X = (\Delta s \cos) \delta \log \frac{k}{Q} - (\Delta \cos) \delta s''_H$$
+$$\delta Y = (\Delta s \sin) \delta \log \frac{k}{Q} - (\Delta \sin) \delta s''_H$$
+
+Then $\delta \log \frac{k}{Q} = \frac{\frac{\delta X}{(\Delta \cos)} - \frac{\delta Y}{(\Delta \sin)}}{\frac{(\Delta s \cos)}{(\Delta \cos)} - \frac{(\Delta s \sin)}{(\Delta \sin)}}$
+
+$$\delta s''_H = - \frac{\frac{\delta X}{(\Delta s \cos)} - \frac{\delta Y}{(\Delta s \sin)}}{\frac{(\Delta \cos)}{(\Delta s \cos)} - \frac{(\Delta \sin)}{(\Delta s \sin)}}$$
+
+We may remark that $s'_N \cos \tau_N - s'_0 \cos \tau_0 = s'_M (\cos \tau_N + \cos \tau_0) - s''_H (\cos \tau_N - \cos \tau_0)$
+and [del]similarly[/del] [ins]the same[/ins] for the sines.
+$c (s'_q \cos \tau_q - s'_p \cos \tau_p) = \frac{c}{2} (s'_p + s'_q) (\cos \tau_q - \cos \tau_p) + \frac{c}{2} (s'_q - s'_p) (\cos \tau_q + \cos \tau_p)$
+and similarly for the sines.

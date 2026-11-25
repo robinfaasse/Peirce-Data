@@ -1,0 +1,164 @@
+[u]Geodesic line[/u]
+
+Calc. by Houël (Recueil p lxiii)
+
+$$\begin{array}{rcccr}
+a & 294.98 & 2.469793 & a-b = 1 & \\
+b & 293.98 & 2.468318 & a+b = 588.96 & 2.770086 \\
+a/b & & 0.001475 & \sqrt{a^2-b^2} & 1.385043 \\
+& & & e & 0.0822726 & 8.915250 \\
+& & & ea/b & 0.0825515 & 8.916725
+\end{array}$$
+
+[pn]153[/pn]
+
+$$\begin{array}{l}
+\text{Lat } 54^\circ \quad \tan 0.091631 \\
+\begin{array}{l}
+a/b \\
+50^\circ 54' 28''.2 \\
+50^\circ 54'.303 \\
+50^\circ.90505 = \gamma
+\end{array} \quad \tan \frac{1475}{0.090156} \quad \sin \frac{9.889919}{8.916725} \\
+\theta = 3^\circ 39' 57''.0 \quad \sin \theta \ 8.805755 \quad \tan \overline{8.806644} \quad \cos 9.999110 = k' \\
+\begin{array}{r}
+3^\circ 39'.95 \\
+3^\circ.6658 \\
+0.064073 \\
+9523
+\end{array} \quad k^2 \\
+\varphi = 90^\circ \\
+\begin{array}{r}
+X = 87^\circ 01' 33''.83 \\
+87^\circ 1'.5638 \\
+87^\circ.026063 \\
+0.96695626
+\end{array} \quad \begin{array}{r}
+\tan X \ 1.284401 \\
+8.715599
+\end{array} \quad \begin{array}{r}
+\tan \gamma \\
+e \\
+k \\
+\frac{e \sin \gamma}{k}
+\end{array} \begin{array}{r}
+9.089919 \\
+8.915250 \\
+\hline 8.805169 \\
+8.805755 \\
+\hline 9.999414
+\end{array} \quad \begin{array}{r}
+k \ 8.805755 \\
+e \ 8.915250 \\
+\hline 7.721005 \\
+\tan \gamma \ 0.090156 \\
+k e \tan \gamma \ 7.630849
+\end{array} \quad \frac{\pi}{41} \begin{array}{r}
+41 \overline{) 71} ( \\
+\frac{41}{290} \\
+\frac{287}{3}
+\end{array} \\
+\pi \frac{4971504}{196120}
+\end{array}$$
+
+$$\begin{array}{l}
+\log E = 0.1957 \quad \log F(X, k') \\
+\begin{array}{r}
+9.9994 \\
+\hline 0.1951 \\
+0.1961
+\end{array} \\
+0.9977 \quad 9.9990 \\
+\begin{array}{r}
+958 \\
+89.79
+\end{array} \text{ equator} \\
+89^\circ 47' \frac{1}{2}
+\end{array} \quad \begin{array}{r}
+217 \\
+\frac{157}{4845} \\
+\frac{5005}{50.5080}
+\end{array} \begin{array}{r}
+249 \\
+\frac{169}{4586} \\
+\frac{5095}{50}
+\end{array} \begin{array}{r}
+274 \\
+\frac{191}{4555} \\
+\frac{5186}{}
+\end{array} \quad \begin{array}{r}
+K \ 1965 \\
+1961
+\end{array} \\
+\begin{array}{l}
+M \quad 9.6378 \\
+\frac{1}{2 K} \quad \frac{9.9996}{0.1462}
+\end{array} \quad \log D_{q_1} d_1 = 0.0013 \quad (1) \\
+\begin{array}{l}
+M \alpha \\
+\frac{1}{2 M q} \\
+M \alpha \\
+M(2\beta-\alpha) \\
+M(2\beta-2\alpha)
+\end{array} \quad \begin{array}{r}
+96.4085 \\
+3.5915 \\
+1.4002 \\
+2.1913 \\
+0.7911
+\end{array} \quad \begin{array}{l}
+x = \frac{\pi}{2} \\
+\frac{3.1416}{+5208} \\
+2x = 3.1416
+\end{array} \quad \begin{array}{l}
+k e \cot \gamma \ 7.6308 \\
+K/2\pi \quad \frac{0004}{7.6312} \sin (2)
+\end{array} \\
+\begin{array}{l}
+\text{Sh}(2\beta-2\alpha) \\
+\text{Csch } \alpha \\
+\text{Cosech}(2\beta-\alpha) \\
+D_1 \log D_1 - 1
+\end{array} \quad \begin{array}{r}
+0.14786 \\
+8.9015 \\
+8.1097 \\
+7.4898
+\end{array} \quad \begin{array}{l}
+-2\text{Sh} 2\alpha \\
+(1-2\text{Sh}^2 \alpha)
+\end{array} \quad \begin{array}{r}
+2.5029 \\
+\frac{35}{2.4994} \\
+96.7095 \\
+9.2089 \\
+0.0766
+\end{array} \quad \begin{array}{r}
+10304 \\
+\frac{0043}{1.0030} \\
+\frac{0043}{87}
+\end{array} \quad \begin{array}{l}
+q \ 0.0013 \\
+0.12
+\end{array} \\
+\text{Long. } 90^\circ - 7'
+\end{array} \quad \begin{array}{r}
+967 \\
+\frac{7978}{8058} \\
+\frac{80}{160} \\
+\frac{3925}{96.4088} \\
+9.0497 \\
+.11212 \\
+\frac{88788}{9.9483} \\
+0.0517
+\end{array} \begin{array}{r}
+1940 \\
+3.1048 \\
+\frac{3.0218}{771} \\
+2.8039 \\
+\frac{2.7268}{4.4972} \\
+\overline{1}.2240 \\
+\frac{3}{1.5250} \\
+.16177 \\
+\frac{83823}{9234}
+\end{array}$$

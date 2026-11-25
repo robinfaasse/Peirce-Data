@@ -1,0 +1,6 @@
+[del]x + yi[/del]
+[del][ins]x + dx[/ins][/del]
+[del][ x + dx + (y + dy)i ][/del] [ins](y + dy)i[/ins]
+[ x + dx + (y + dy)i ]
+
+[u]\sqrt{(x+dx)^2 + (y+dy)^2}[/u] [ins]\frac{y+dy}{x+dx}[/ins] [ [ins]\frac{x+dx}{}[/ins] cos \theta + [ins]\frac{y+dy}{}[/ins] sin \theta i ] x

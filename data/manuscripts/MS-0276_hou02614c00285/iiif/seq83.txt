@@ -1,0 +1,28 @@
+[81]
+[fig]figure[/fig] [ins]pr + q(p + q + r)
+= (p + q)(q + r)[/ins] [del]px + r (p + q + r)[/del] q
+= p(r + q) + (q + r)q
+(p + q + r)q + pr
+[del](p + q + r)q + pr[/del] = p(q + r) + (q + r)q
+= p (q + r) + (q + r)q (p + q)(q + r)
+= p (q + r) + q(q + r) = (p + q)q + (p + q)r
+pq + qr + pr + q^2
+= pr
+
+[del]B - A[/del] [del](D - C)(B - A) = DB + CA - CB - DA[/del]
+[del](B - A)(C - D)(A - B) =[/del] [del]DC + AB[/del]
+[del](A - D)(B - C)[/del] = [ins]+ AC[/ins]
+[del](B - C)(A - D)[/del]
+(D - C)(B - A) = DB + CA - CB - DA
+(A - D)(B - C) = - DB - AC + AB + DC
+[del](D - B)(A - C)[/del] + CB + AD [del]- AB - CD[/del]
+(C - A)(B - D)
+[del]D - C[/del] [del]B - A[/del] (A - B)(C - D) = AC + BD - BC - AD
+[del]D - C[/del] [del]B - A[/del] (A - D)(B - C) = AC - DB + AB
+[ins]A D B C[/ins] [ins]p q r[/ins] [del](D - C)(B - A)[/del] (A - C)(D - B) = + CB + AD + DC
+- AB - CD
+(D - C)(B - A) = rp rp
+(D - A)(C - B) = (p + q + r)q pq + q^2 + rq
+(D - B)(A - C) = (q + r)(q + p) rp qp + q^2 + rq
+
+[del](B - A)(D - C)[/del]

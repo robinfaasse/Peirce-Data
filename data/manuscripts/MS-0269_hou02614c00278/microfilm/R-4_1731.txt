@@ -1,0 +1,146 @@
+[fig]Two-page notebook spread with mathematical tables, diagrams, and symbols[/fig]
+
+[pn]80[/pn]
+
+$$\begin{array}{c|c|c}
+o & o \\
+\hline 2 & 3 & 2 & 3
+\end{array}$$
+
+$$\begin{array}{c|c|c}
+x & x \\
+\hline 2 & 3 & 4 & 2
+\end{array}$$
+
+$$\begin{array}{c|c|c}
+o & x \\
+\hline 2 & 3 & 2 & 4
+\end{array}$$
+
+$$\begin{array}{c|c|c}
+x & o \\
+\hline 2 & 3 & 4 & 3
+\end{array}$$
+
+$$\begin{array}{l}
+23 = 1 \\
+24 = oX \quad k \\
+32 = o \quad i \\
+34 = X \quad j \\
+42 = XX \quad m \\
+43 = Xo \quad l
+\end{array}$$
+
+$$\begin{array}{c|c|c|c|c|c|c}
+2 & 3 & 2 & 3 & 2 & 3 \\
+\hline & o & o & o & o
+\end{array}$$
+
+$$\begin{array}{c|c|c|c|c|c|c}
+2 & 3 & 2 & 3 & 4 & 2 \\
+\hline & o & o & X & X
+\end{array}$$
+
+$$\begin{array}{c|c|c|c|c|c|c}
+2 & 3 & 2 & 3 & 2 & 4 \\
+\hline & o & o & o & X
+\end{array}$$
+
+$$\begin{array}{c|c|c|c|c|c|c}
+2 & 3 & 2 & 3 & 4 & 3 \\
+\hline & o & o & X & o
+\end{array}$$
+
+$$\begin{array}{c|c|c|c|c|c|c}
+2 & 3 & 4 & 2 & 3 & 4 \\
+\hline & X & X & X & X
+\end{array} = X$$
+
+$$\begin{array}{c|c|c|c}
+2 & 3 & 4 & 2 \\
+\hline & X & & 3
+\end{array} \mid 2$$
+
+$$\begin{array}{c|c|c|c|c|c|c}
+2 & 3 & 4 & 2 & 4 & 3 \\
+\hline & X & X & o & X
+\end{array} = Xo$$
+
+$$\begin{array}{c|c|c|c|c|c|c}
+2 & 3 & 4 & 2 & 3 & 2 \\
+\hline & X & X & X & o
+\end{array} = o$$
+
+$$\begin{c|c|c|c|c|c|c}
+2 & 3 & 2 & 4 & 2 & 3 \\
+\hline & o & X & o & X
+\end{array} = 1$$
+
+$$\begin{array}{c|c|c|c|c|c|c}
+2 & 3 & 2 & 4 & 3 & 4 \\
+\hline & o & X & X & o
+\end{array} = X$$
+
+$$\begin{array}{c|c|c|c|c|c|c}
+2 & [del]3[/del] & 2 & 4 & 3 & 2 \\
+\hline & [del]o[/del] & X & X & o
+\end{array} = o$$
+
+$$\begin{array}{c|c|c|c|c|c|c}
+2 & 3 & 4 & 3 & 2 & 3 \\
+\hline & X & o & X & o
+\end{array}$$
+
+$$\begin{array}{c|c|c}
+o & o & o \\
+\hline 2 & 3 & 2 & 3 & 2
+\end{array}$$
+
+$$\begin{c|c|c|c|c|c|c}
+2 & 3 & 2 & 4 & 2 \\
+\hline & o & X & o
+\end{array} = XX$$
+
+$$\begin{c|c|c|c|c|c|c}
+2 & 3 & 2 & 4 & 3 \\
+\hline & o & X & X
+\end{array} = Xo$$
+
+$$\begin{c|c|c|c|c|c|c}
+2 & 3 & 4 & 3 & 2 \\
+\hline & X & o & X
+\end{array} = o$$
+
+$$\begin{c|c|c|c|c|c|c}
+2 & 3 & 4 & 2 & 4 \\
+\hline & X & X & o
+\end{array} = oX$$
+
+$$\begin{array}{c|c|c|c|c|c|c}
+2 & 3 & 2 & 4 & 2 & 3 \\
+\hline & o & X & o & X
+\end{array}$$
+
+$$\begin{array}{c|c|c}
+1 & oo & a\ b\ c \\
+\hline i & o & c\ b\ a \\
+\hline j & X & b\ c\ a \\
+\hline m & XX & c\ a\ b \\
+\hline k & oX & a\ c\ b \\
+\hline l & Xo & b\ a\ c
+\end{array}$$
+
+$$\begin{array}{c|c|c|c|c|c}
+\multicolumn{1}{c}{} & 1 & i & j & k & l & m \\
+\cline { 2 - 7 } 1 & 1 & i & & & & \\
+\cline { 2 - 7 } i & & 1 & k & j & m & l \\
+\cline { 2 - 7 } j & & l & m & i & k & 1 \\
+\cline { 2 - 7 } k & & m & l & j & i & i \\
+\cline { 2 - 7 } & & & & & 1 & \\
+\cline { 2 - 7 } & & & 1 & & & \\
+\cline { 2 - 7 } & & & & & &
+\end{array}$$
+
+[fig]Geometric diagram with numbered vertices and signs[/fig]
+
+[fig]Circular diagram with nested rings and letter labels[/fig]

@@ -1,0 +1,109 @@
+If $u_{x+1} = a u_x$ And $u_0 = 1$ what is $u_x$?
+
+If at each bet a man with a fortune = $c$ francs has 31 chances of losing a bet against [del]23[/del] [ins]29[/ins] chances of gaining a franc, what is his chance of [del]gaining[/del] [ins]ever[/ins] making a net gain of $g$ francs.
+Let $u_x$ be his chance when his fortune is $x$ francs.
+
+A game consists in this. You take [del]5 counters[/del] [ins]a pair of dice[/ins]. You throw [del]a die[/del].
+If you throw [del]aces or deuce ace[/del] [ins]aces[/ins] you gain a counter. [del]If you throw[/del] [ins]If you throw[/ins] [del]6[/del] [ins]sixes[/ins] [del]you lose a counter[/del] you lose the game. If you throw [del]anything else[/del] [ins]sixes[/ins] you [del]throw again[/del] [ins]lose the game[/ins]. [del]you try again. If you ever throw 3, 4, or 5 you lose the game.[/del]
+If you [del]win all[/del] [ins]either[/ins] [del]my[/del] [ins]or lose all the[/ins] counters you win the game. What is your chance of winning after you have won all the counters but one?
+
+$pE + q + rE^{-1} = 1$
+$E^2 - \frac{1-q}{p}E + \frac{r}{p} = 0$
+$E - \frac{1-q}{2p} = \sqrt{\frac{(1-q)^2}{4p^2} - \frac{r}{p}}$
+
+$\frac{2}{36}E + \frac{29}{36} + \frac{5}{36}E^{-1} = 1$
+$2E^2 - 7E + 5 = 0$
+$2E^2 - 7E + 5 = 0$
+$2E - 7 = \pm 5$
+$E = \frac{7 \pm 5}{4} = 3$ or $1$
+
+$E = \frac{(N-Q) \pm \sqrt{(N-Q)^2 - 4PR}}{2P}$
+is a square
+
+Suppose $(N-Q) = 3$
+$PR = 2$
+$N = Q+3$
+$P+R = 4$
+$P=3$ $R=1$
+$P=1$ $R=3$
+
+$C_2^x + C_3^x \frac{1}{3^x}$
+$16$
+$32$
+$1024$
+
+$\frac{2}{36}E + \frac{1}{36}q + \frac{2}{36} = 1$
+$6 \cdot 6 = 36$
+$6+6 = 12$
+$4+9 = 13$
+
+$x + \frac{p}{x} = \dots$
+$x + \frac{1-p}{x} = 0$
+$x = \sqrt{p}$
+
+$(x-z)(x+z)$
+$(x-2z)(x+2z)$
+$z^2 = PR$
+
+$1+q^2 > 2q + 4pr$
+$1 > p+q+r$
+$1-2q+q^2 > p^2 + 2pr + r^2$
+$1-2q+q^2 > 4pr$
+
+$p = s+d$
+$r = s-d$
+$pr = s^2 - d^2$
+$2pr = 2s^2 - 2d^2$
+
+$25 - 16 = 9$
+$N-Q = 5$ $PR = 4$
+$N-Q = 5$ $P=2$ $R=2$
+$N=6$ $Q=1$
+$P=1$ $R=1$
+
+$4PR = 12$
+$PR = 3$
+$P=3$ $R=1$
+$P=1$ $R=3$
+
+$N > P+Q+R$
+$N-Q > P+R$
+
+$N-Q = 5$
+$36 - N = 36$
+$Q = 31$
+
+$(\alpha+\delta)^2 - \alpha^2$
+$2\alpha\delta + \delta^2$
+$(\alpha+\delta)2\delta$
+$4\alpha\delta + 4\delta^2$
+$4(\alpha+\delta)\delta$
+
+$P = \alpha+\delta$ $R = s$
+$N-Q = \alpha+2\delta$
+$24$
+
+$x+2z = 25$
+$x-2z = 1$
+$x = 13$ $4z = 24$ $z=6$
+$x^2 = 169$
+
+$P=3$ $R=5$
+$4PR = 60$
+$P+R = 8$
+$N-Q = 9$
+$N-Q = 9$
+$N = 36$
+$Q = 27$
+$P = 3$
+$R = 2$
+
+$\alpha = 7$ $\delta = 1$
+$N-Q = \alpha+2\delta = 9$
+$P=3$ $R=2$
+$N=36$
+$Q=29$
+$P=3$
+$R=2$
+
+$\frac{32}{243}$

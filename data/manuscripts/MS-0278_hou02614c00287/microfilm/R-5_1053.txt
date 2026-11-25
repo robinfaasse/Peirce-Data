@@ -1,0 +1,73 @@
+[fig]Diagram with points x_A, x_B, and a curve[/fig]
+$x_A = R + a$
+$x_B = R - b$
+
+$(x-A)^2 + y^2 = (x-A)^2 + R^2 - x^2$
+$= A^2 - R^2 - 2Ax$
+$+ B^2 - R^2 - 2Bx$
+
+$A^2 = y^2 + (R+a)^2$
+$B^2 = y^2 + [del](R-b)^2[/del]$
+
+$\frac{R^2 + A^2 - 2AX}{R^2 + B^2 - 2BY} = \frac{R^2 + A^2}{R^2 + B^2}$
+
+$A^2 = y^2 + (R+a-x)^2$
+$B^2 = y^2 + (x-R+b)^2$
+
+$\frac{(R^2+A^2)(R^2+B^2) - 2(AR^2+AB^2)x}{(R^2+A^2)(R^2+B^2) - 2(BR^2+A^2B)x}$
+
+$An^2 = Bm^2$
+$\frac{A}{B} = \frac{m}{n}$
+$\frac{x^2+y^2 = R^2}{y^2 = R^2 - x^2}$
+$\frac{x^2+y^2 = L^2}{y^2 = R^2 - L^2}$
+
+$AR^2 + AB^2 = BR^2 + A^2B$
+$(A-B)R^2 = (A-B)AB$
+$R^2 = AB$
+
+$PA^2 = (A-x)^2 + y^2$
+$= (A-x)^2 + R^2 - x^2$
+$= A^2 - 2Ax + R^2$
+
+$A^2 = R^2 - x^2 + R^2 + x^2 + a^2 + 2Ra - 2Rx + 2ax$
+$= 2R^2 + a^2 + 2Ra - 2(R-a)x$
+
+$PB^2 = (B-x)^2 + y^2$
+$= (\frac{m}{n})^2 B^2 - 2(\frac{m}{n})By + R^2$
+$PB^2 = B^2 - 2Bx + R^2$
+
+$B^2 = R^2 - x^2 + y^2 + R^2 + b^2 - 2Rb - 2(R-b)x$
+
+[fig]Line segment with points a, b, m, n[/fig]
+
+$\frac{a}{b} = \frac{m}{n}$
+$\frac{a+b}{b} = \frac{m+n}{n}$
+$b = n \frac{a+b}{m+n} = n L$
+$\frac{a}{a+b} = \frac{m}{m+n}$
+$a = m \frac{a+b}{m+n} = mL$
+
+$\frac{PA^2}{PB^2} = (\frac{m}{n})^2$
+
+$2R^2 - 2(A+B)x + A^2 + B^2$
+
+[fig]Triangle with vertices and lines to base[/fig]
+
+$\frac{A^2}{B^2} = \frac{2R^2 + m^2L^2 + 2RmL - 2(R-mL)x}{2R^2 + n^2L^2 + 2RnL - 2(R-nL)x}$
+$= \frac{2R^2 - 2Rx + 2(R+x)mL + m^2L^2}{2R^2 - 2Rx - 2(R-x)nL + n^2L^2}$
+
+$(PA)^2 =$
+
+$\frac{A-\xi_1}{\xi_1-B} = \frac{m}{n}$
+$\frac{A-\xi_2}{B-\xi_2} = \frac{m}{n}$
+$A-\xi_2 = B\frac{m}{n} - \xi_2\frac{m}{n}$
+$A-B\frac{m}{n} = \xi_2(1-\frac{m}{n})$
+
+$A-\xi_1 = \xi_1\frac{m}{n} - B\frac{m}{n}$
+$\xi_1 \frac{m+n}{n} = A + B\frac{m}{n} = \frac{An+Bm}{n}$
+$\xi_1 = \frac{An+Bm}{m+n}$
+
+$\frac{An-Bm}{n-m} = \xi_2$
+
+$\frac{\xi_1+\xi_2}{2} = \frac{1}{2} (\frac{An+Bm}{m+n} + \frac{An-Bm}{n-m})$
+$= \frac{A(n^2-m^2) + B(n^2-m^2)}{n^2-m^2}$
+$\frac{An-Bm}{n^2-m^2} = 0$

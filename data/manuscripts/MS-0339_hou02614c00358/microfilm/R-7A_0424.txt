@@ -1,0 +1,44 @@
+[pn]OCT 27 1901[/pn] [pn]DEC 19 1901[/pn]
+
+[del]A consequent[/del] [ins]An antecedent[/ins] may be written
+[del]1st[/del] [ins]1st[/ins] If the ultimate consequent is identical with a first
+antecedental which has no antecedent that cannot
+be written by itself; as
+[del]b ≺ a ≺ a[/del]
+or [del]c ≺ [ (a ≺ a) ≺ b ] ≺ b[/del]
+
+2nd If every [del]first antecedental of[/del] [ins]antecedental of[/ins] that antecedental [del]having any[/del]
+[del]antecedental[/del] is itself a first antecedental without any antecedent
+not capable of being written by itself; as [del](r ≺ s)[/del]
+g ≺ (f ≺ e ≺ d) ≺ [ (c ≺ [del]b[/del] [ins]b[/ins] ≺ [del]a[/del] [ins]a[/ins]) ≺ e ≺ d
+
+[u]Prime Factors[/u]
+[del](([/del] [ins]({[/ins] [ [ ( [del]a[/del] [ins]\bar{a}[/ins] + [del]b[/del] [ins]\bar{b}[/ins] + [del]c[/del] [ins]c[/ins] ) ( [del]d[/del] [ins]\bar{d}[/ins] + [del]e[/del] [ins]\bar{e}[/ins] + [del]f[/del] [ins]f[/ins] ) ] [del]g[/del] [ins]\bar{g}[/ins] [del]h[/del] [ins]\bar{h}[/ins] + [del]i[/del] [ins]\bar{i}[/ins] + [del]j[/del] [ins]j[/ins] } [del]k[/del] [ins]\bar{k}[/ins] [del]l[/del] [ins]\bar{l}[/ins] + [del]m[/del] [ins]\bar{m}[/ins] + [del]n[/del] [ins]n[/ins] ) [del]o[/del] [ins]\bar{o}[/ins] [del]p[/del] [ins]\bar{p}[/ins] + [del]q[/del] [ins]\bar{q}[/ins] + [del]r[/del] [ins]r[/ins] ) ( [del]s[/del] [ins]\bar{s}[/ins] + [del]t[/del] [ins]\bar{t}[/ins] ) [del]u[/del] [ins]\bar{u}[/ins] [del]v[/del] [ins]\bar{v}[/ins] + [del]w[/del] [ins]\bar{w}[/ins] + [del]x[/del] [ins]x[/ins]
+[del][ ( ( ( a ≺ b ≺ c ) ≺ ( d ≺ e ≺ f ) ≺ g ≺ h ) ≺ i ≺ j ) ≺ k ≺ l ] ≺ m ≺ n ) ≺ o ≺ p ] ≺ q ≺ r )[/del]
+
+[marginalia]
+[fig]Vertical bracket with text "Factors"[/fig]
+[/marginalia]
+
+[del]x[/del] [ins]\bar{x}[/ins] + [del]w[/del] [ins]\bar{w}[/ins] + [del]v[/del] [ins]\bar{v}[/ins]
+[del]x[/del] [ins]\bar{x}[/ins] + [del]w[/del] [ins]\bar{w}[/ins] + [del]u[/del] [ins]\bar{u}[/ins]
+[del]x[/del] [ins]\bar{x}[/ins] + [del]w[/del] [ins]\bar{w}[/ins] + [del]t[/del] [ins]\bar{t}[/ins] + [del]s[/del] [ins]\bar{s}[/ins]
+[del]x[/del] [ins]\bar{x}[/ins] + [del]w[/del] [ins]\bar{w}[/ins] + [del]r[/del] [ins]\bar{r}[/ins] + [del]q[/del] [ins]\bar{q}[/ins] + [del]p[/del] [ins]\bar{p}[/ins]
+[del]x[/del] [ins]\bar{x}[/ins] + [del]w[/del] [ins]\bar{w}[/ins] + [del]r[/del] [ins]\bar{r}[/ins] + [del]q[/del] [ins]\bar{q}[/ins] + [del]o[/del] [ins]\bar{o}[/ins]
+[del]x[/del] [ins]\bar{x}[/ins] + [del]w[/del] [ins]\bar{w}[/ins] + [del]r[/del] [ins]\bar{r}[/ins] + [del]q[/del] [ins]\bar{q}[/ins] + [del]n[/del] [ins]\bar{n}[/ins] + [del]m[/del] [ins]\bar{m}[/ins] + [del]l[/del] [ins]\bar{l}[/ins]
+[del]x[/del] [ins]\bar{x}[/ins] + [del]w[/del] [ins]\bar{w}[/ins] + [del]r[/del] [ins]\bar{r}[/ins] + [del]q[/del] [ins]\bar{q}[/ins] + [del]n[/del] [ins]\bar{n}[/ins] + [del]m[/del] [ins]\bar{m}[/ins] + [del]k[/del] [ins]\bar{k}[/ins]
+[del]x[/del] [ins]\bar{x}[/ins] + [del]w[/del] [ins]\bar{w}[/ins] + [del]r[/del] [ins]\bar{r}[/ins] + [del]q[/del] [ins]\bar{q}[/ins] + [del]n[/del] [ins]\bar{n}[/ins] + [del]m[/del] [ins]\bar{m}[/ins] + [del]j[/del] [ins]\bar{j}[/ins] + [del]i[/del] [ins]\bar{i}[/ins] + [del]h[/del] [ins]\bar{h}[/ins]
++ [del]g[/del] [ins]\bar{g}[/ins]
++ [del]f[/del] [ins]\bar{f}[/ins] + [del]e[/del] [ins]\bar{e}[/ins] + [del]d[/del] [ins]\bar{d}[/ins]
++ [del]c[/del] [ins]\bar{c}[/ins] + [del]b[/del] [ins]\bar{b}[/ins] + [del]a[/del] [ins]\bar{a}[/ins]
+
+v ≺ w ≺ x
+(u ≺ x) ≺ w ≺ x
+s ≺ (t ≺ x) ≺ w ≺ x
+p ≺ q ≺ (r ≺ x) ≺ w ≺ x
+(o ≺ x) ≺ q ≺ (r ≺ x) ≺ w ≺ x
+l ≺ (m ≺ x) ≺ q ≺ (r ≺ x) ≺ w ≺ x
+
+(α ≺ β) ≺ (γ ≺ δ) ≺ ι
+[del]α ≺ β ≺ γ[/del] (α ≺ β ≺ γ) ≺ (δ ≺ ε ≺ ζ) ≺ η ≺ θ ≺ ι
+β ≺ δ ≺ η ≺ ι

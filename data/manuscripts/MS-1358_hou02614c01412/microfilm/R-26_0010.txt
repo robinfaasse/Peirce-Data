@@ -1,0 +1,47 @@
+[fig]Diagram showing three intersecting lines with angles labeled \phi, \chi, \psi.[/fig]
+
+<u>Catenary</u> Let \phi, \chi, \psi be the inclinations to the vertical
+of three links. Then if k is the weight on [del]both[/del] each joint
+
+\sin(\chi-\phi) : k = \cos\phi : p_1 = \cos\chi : p_0
+
+[del]p_1[/del] \sin(\psi-\chi) : k = \cos\chi : p_2 = \cos\psi : p_1
+
+p_1 \sin\chi - p_0 \sin\phi = k
+p_2 \sin\psi - p_1 \sin\chi = k
+
+p_0 \cos\phi = p_1 \cos\chi = p_2 \cos\psi
+
+[del]p_1^2 \sin^2\chi + p_1^2 \cos^2\chi + p_0^2 - p_0^2 \cos^2\phi - 2 p_1 p_0[/del]
+
+p_1^2 - p_1^2 \cos^2\chi = k^2 + 2 k p_0 \sin\phi + p_0^2 - p_0^2 \cos^2\phi
+
+p_1^2 = k^2 + 2 k p_0 \sin\phi + p_0^2
+
+p_0^2 = k^2 - 2 k p_1 \sin\chi + p_1^2
+
+p_2^2 = k^2 + 2 k p_1 \sin\chi + p_1^2
+
+p_0^2 - 2 p_1^2 + p_2^2 = 2 k^2
+
+\Delta^2 p^2 = 2 k^2
+
+[del]\cos^2\psi - \frac{p_0}{2k^2 + 2 p_1^2 - p_0^2} = \cos^2\phi[/del]
+
+[del]p_1 \sin\psi - p_0 \sin\phi = 2k[/del]
+
+[del]\frac{\sin\psi}{\cos\phi} \sin(\psi-\chi) = \frac{\sin\psi}{\cos\chi} \sin(\psi-\phi) = 2[/del]
+
+[del]p_1 = k \frac{\cos\phi}{\sin}[/del]
+
+p_0 = k \frac{\sin(\chi-\phi)}{\cos\chi}
+
+p_2 = k \frac{\sin(\psi-\chi)}{\cos\chi}
+
+\cos\chi = \cos\phi \cdot \frac{p_0}{p_1} = \cos\psi \cdot \frac{p_2}{p_1}
+
+\sin\chi \cos\phi - \cos\chi \tan\phi = \frac{k}{p_1} \cos\phi
+
+p_1 \sin\chi - p_1 \cos\chi \tan\phi = k
+
+p_1 \sin\chi - p_0 \sin\phi = k

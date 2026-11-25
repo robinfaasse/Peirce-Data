@@ -1,0 +1,12 @@
+Construct a circle, knowing two points and a tangent of it.
+Construct a circle, knowing two tangents and a point of it.
+
+[u]Problem[/u]. From a given point draw a tangent to a given circle.
+
+[u]Solution[/u]. From the point draw two lines cutting the circle, one preferably nearly a tangent, the other far from tangency. Join the four points of intersection by rays in four more ways, getting two new intersections. The points where the ray through these [del]new[/del] [ins]new[/ins] points cuts the circle are the points [del]of tangency[/del].
+
+This applies, not only to a circle, but also to any ellipse, hyperbola, or parabola.
+
+The proper proof of this belongs to higher geometry
+
+[fig]Geometric construction of tangents to a circle from an external point[/fig]

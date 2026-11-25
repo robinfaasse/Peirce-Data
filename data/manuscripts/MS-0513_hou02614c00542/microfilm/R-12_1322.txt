@@ -1,0 +1,34 @@
+[pn]8[/pn]
+
+The parallelism of formulae is considerable
+
+[tabular]
+$(u \dagger v) \dagger w = u \dagger (v \dagger w)$ & $(u \text{ } \mathcal{J} \text{ } v) \text{ } \mathcal{J} \text{ } w = u \text{ } \mathcal{J} \text{ } (v \text{ } \mathcal{J} \text{ } w)$ \\
+$(u v) \cdot w = u \cdot (v w)$ & $(u v) w = u (v w)$ \\
+$(u \dagger v) \cdot w \prec u \cdot w \dagger v \cdot w$ & $(u \text{ } \mathcal{J} \text{ } v) w \prec u \text{ } \mathcal{J} \text{ } v w$ \\
+& $u (v \text{ } \mathcal{J} \text{ } w) \prec u v \text{ } \mathcal{J} \text{ } w$ \\
+\\
+$u \dagger 0 = u$ & $r \text{ } \mathcal{J} \text{ } u = u \text{ } \mathcal{J} \text{ } r = u$ \\
+$u \cdot \infty = u$ & $1 u = u 1 = u$ \\
+\\
+$\overline{u} \prec u \dagger \overline{u}$ & $1 \prec u \text{ } \mathcal{J} \text{ } \overline{u}$ \\
+$u \overline{u} \prec 0$ & $u \overline{u} \prec 0$ \\
+$\overline{u \dagger v} = \overline{u} \cdot \overline{v}$ & $\overline{u \text{ } \mathcal{J} \text{ } v} = \overline{v} \text{ } \overline{u}$ \\
+\\
+If $u \prec v$, $u \dagger w \prec v \dagger w$ & If $u \prec v$, $u \text{ } \mathcal{J} \text{ } w \prec v \text{ } \mathcal{J} \text{ } w$ $w \text{ } \mathcal{J} \text{ } u \prec w \text{ } \mathcal{J} \text{ } v$ \\
+If $u \prec v$, $u \cdot w \prec v \cdot w$ & If $u \prec v$, $u w \prec v w$ $w u \prec w v$
+[/tabular]
+
+Of course, there are many formulae in non-relative logic having no simple parallels in relative logic. The following formulae combine the two kinds of operations
+
+[tabular]
+$\overline{u \dagger v} = \overline{u} \cdot \overline{v}$ & $\overline{u \text{ } \mathcal{J} \text{ } v} = \overline{u} \text{ } \overline{v}$ \\
+$(u \dagger v) w = u w \dagger v w$ & $w (u \dagger v) = w u \dagger w v$ \\
+$u v \text{ } \mathcal{J} \text{ } w = (u \text{ } \mathcal{J} \text{ } w) \cdot (v \text{ } \mathcal{J} \text{ } w)$ & $w \text{ } \mathcal{J} \text{ } u v = (w \text{ } \mathcal{J} \text{ } u) \cdot (w \text{ } \mathcal{J} \text{ } v)$ \\
+$(u \dagger v) \text{ } \mathcal{J} \text{ } w = \sum_{x} [u \text{ } \mathcal{J} \text{ } (w \cdot x)] \cdot [v \text{ } \mathcal{J} \text{ } (w \cdot \overline{x})]$ & \\
+$(u v) w = \prod_{x} [u (w \cdot x)] \dagger [v (w \cdot \overline{x})]$ & \\
+$u 0 = 0 u = 0$ & \\
+$u \text{ } \mathcal{J} \text{ } 0 = 0 \text{ } \mathcal{J} \text{ } u = 0$ &
+[/tabular]
+
+There are vast multitudes of other formulae; but the above are all that are necessary.

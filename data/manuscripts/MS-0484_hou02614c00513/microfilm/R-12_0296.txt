@@ -1,0 +1,11 @@
+[pn]50[/pn]
+
+[u](Rule of Contraposition)[/u] If a graph standing alone [ins]or a detached[/ins] [del]can be[/del] [ins]and[/ins] closed part of a graph can be transformed into another, the same transformation can be made wherever [ins](the unchanged part of the graph remaining unenclosed)[/ins] the former is detached and evenly enclosed (i.e. is [del]under[/del] [ins]within[/ins] an even number of ovals) while the reverse transformation can be made wherever [ins](the unchanged part of the graph remaining unenclosed)[/ins] the latter is detached and oddly enclosed.
+
+That is, assuming [u]a[/u] [fig]transformation sign[/fig] [u]b[/u]. Then [del]whenever[/del] [ins]in every graph where[/ins] [u]c[/u] is unenclosed while [u]a[/u] is under 2N enclosures, [u]a[/u] can be transformed into [u]b[/u], while in every graph where [u]c[/u] is unenclosed and [u]b[/u] is under 2N+1 enclosures, [u]b[/u] can be transformed into [u]a[/u], whatever finite whole number N may be.
+
+For suppose this were proved so long as N [del]is[/del] does not exceed a given whole number I. Then, by [del]XX[/del], the same thing would be true so long as N does not exceed I+1. But by [u]IV[/u] and [del]XX[/del] it is true for N=0 Hence it is true whatever whole number N may be.
+
+[u]Rule XXIII[/u]. ([u]Rule of Erasure and Insertion[/u].) Any part of a graph under even enclosures can be erased; while under odd enclosures any insertion can be made.
+
+Suppose this were proved true for [del]any[/del] [ins]every[/ins] number of ovals not exceeding a certain number m. Then I say it would be true for m+1 ovals. For in any graph containing m+1 ovals one in another, let [u]a[/u] be the part unenclosed and [u]b[/u] the part in one oval only, [ins]and let b' be any graph from which b would be derivable by this rule.[/ins] [del],[/del] These may be joined by any number of heavy lines. These may all be cut, the ends of section attached to vague indices, and the protruding parts retracted into the oval. Then since b' [fig]transformation sign[/fig] b by the present rule, it follows that [fig]graph with b' and indices[/fig] [fig]transformation sign[/fig] [fig]graph with b and indices[/fig] by this rule. Hence by [del]XX[/del] [fig]graph with a and b'[/fig] [fig]transformation sign[/fig] [fig]graph with a and b[/fig]. But this is according to the

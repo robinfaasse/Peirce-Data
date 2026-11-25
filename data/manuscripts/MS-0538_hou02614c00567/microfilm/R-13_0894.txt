@@ -1,0 +1,83 @@
+[marginalia]
+[del]Dy Rel[/del]
+15
+[/marginalia]
+
+On the other hand, if a relation [del]contains[/del] [ins]has[/ins] a spike, it can only be transitive if it subsists between the members of [del]every[/del] [ins]possible[/ins] dyad of that spike. Thus in order to make the relation whose matrix is that of the [del]figure[/del] [ins]Fig.[/ins] transitive, it is necessary to fill up that matrix as in Fig.
+
+[del]A:A[/del] [del]B:B[/del] [del]A:C[/del] [del]A:D[/del] [del]A:E[/del]
+
+A:A
+
+— — B:C
+
+— — — C:D
+
+— — — — D:E
+
+— — — — — E:B
+
+[fig]Matrix diagram with letters and dots[/fig]
+
+[fig]Matrix diagram with diagonal lines and letters[/fig]
+
+[fig]Small square diagram with letters[/fig]
+
+[fig]Small square diagram with letters[/fig]
+
+[fig]Square diagram with wavy lines[/fig]
+
+[fig]Diagram with numbered pairs and connecting lines[/fig]
+
+[marginalia]
+[u]A:B[/u] + B:C + A:C
+[/marginalia]
+
+$(u \cdot u)_{ij} = \sum_{k} (u_{ik}) \cdot (u)_{kj}$
+
+$\Pi_{i} \Pi_{j} \Pi_{k} \bar{u}_{ik} + \bar{u}_{kj} + u_{ii}$
+
+$\Pi_{i} \Pi_{j} \sum_{k} \bar{u}_{ij} + u_{ik} \cdot u_{ki}$
+
+$\Pi_{k} (\bar{u}_{ik} + \bar{u}_{ki}) + \bar{u}_{ij}$
+
+[marginalia]
+as were
+[/marginalia]
+
+[marginalia]
+cf
+ca cf
+[/marginalia]
+
+[marginalia]
+$u \bar{u} \cdot v \bar{u}$
+$u \cdot v \bar{u} \bar{u}$
+[/marginalia]
+
+a:b b:c a:c
+
+a:1 1:b
+b:2 2:c
+a:3 3:1
+a:4 4:b
+a:5 5:2
+2:6 6:c
+a:7 7:3
+3:8 8:1
+1:9 9:4
+4:X X:b
+
+1:2
+1:c
+3:b
+4:c
+5:c
+5:6
+7:1
+7:b
+8:4
+8:b
+9:8
+9:X
+3:4

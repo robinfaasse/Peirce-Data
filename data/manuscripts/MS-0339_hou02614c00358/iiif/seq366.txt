@@ -1,0 +1,19 @@
+1901 Dec 10 198r
+To prove that [del]if (a + b) ⤙ c then (ā ✕ b) ⤙ c[/del] [ins](ā ✕ b) ⤙ c (a + b) ⤙ c[/ins]
+For if [ins]t[/ins]Π (a ✕ t) then (a ✕ b)
+But b ⤙ b
+And therefore, by definition of Mult. (Alg. of Logic p. 33),
+If [ins]t[/ins]Π (a ✕ t) (a + b) ⤙ b
+i.e. ā ✕ (a + b) ⤙ b
+∴ (a + b) ✕ ā ⤙ b [fig]figure[/fig]
+∴ [del]If then[/del] [(ā ✕ b) ⤙ c] ⤙ (a + b) ⤙ c
+Another proof: (differently arranged merely)
+ā ⤙ Π (a ✕ t) ⤙ a ✕ b
+∴ a ✕ ā ⤙ b
+∴ [(ā ✕ b) ⤙ c] ⤙ a ✕ c
+b ⤙ b is true [u]The first is the better.[/u]
+∴ [ins]t[/ins]Π t ⤙ (b ✕ b)
+∴ ā ✕ b ⤙ b
+b ✕ ā ⤙ b
+∴ [(ā ✕ b) ⤙ c] ⤙ b ✕ c
+∴ By definition [(ā ✕ b) ⤙ c] ⤙ (a + b) ⤙ c

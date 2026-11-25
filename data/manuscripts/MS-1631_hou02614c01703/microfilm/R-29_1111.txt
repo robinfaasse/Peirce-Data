@@ -1,0 +1,55 @@
+§117. Case of the point's being at so great a distance from
+the cylinder, that the square of the linear dimen-
+sions of the base may be neglected, in comparison
+with the square of the least distance of the point
+from the cylinder.
+
+When the axis of gravity is assumed for the
+axis of $x$ $a=0$, $b=0$.
+
+§118 $\int_{\xi}\int_{\eta} \kappa \xi = \int_{\xi}\int_{\eta} \kappa \eta = 0$
+
+<u>Lecture LXXII.</u>
+
+§119 The potential is the same as if all the particles
+of the cylinder were united in their projec-
+tions upon the axis of gravity, when the point
+is at a sufficiently great distance from the
+cylinder.
+
+[fig]Diagram showing a cylinder base, axis of gravity, and projection lines to a point.[/fig]
+
+By theory of projections
+$f^2 - (x-\xi)^2 + \eta^2 + \zeta^2 =$ Since $f_0^2 = \xi^2 + x^2$ &
+$\rho^2 = \eta^2 + \zeta^2$ $-2x\xi + f_0^2 + \rho^2 =$ neglecting the square
+of the linear dimensions of the base $f_0^2 (1 - \frac{2x\xi}{f_0^2})$
+And so $\frac{1}{f} = (f^2)^{-\frac{1}{2}} = \frac{1}{f_0} \frac{1}{\sqrt{1-\frac{2x\xi}{f_0^2}}} =$ since by bino-
+mial theorem $(1+k)^{-\frac{1}{2}} = 1 - \frac{1}{2}k + \&c$, and the higher
+powers of the linear dimensions of the base are
+to be neglected, $\frac{1}{f_0} (1 + \frac{x\xi}{f_0^2}) = \frac{1}{f_0} + \frac{x\xi}{f_0^3}$
+
+§120 Value of the whole action
+
+[fig]Diagram showing angles of attraction from a cylinder segment.[/fig] If the part of the cylinder included
+between $\frac{x}{y} = 45^\circ$ & $\frac{x}{y} = 45^\circ$ be condensed
+upon O. Since $AB = 2x$ $D_x \Omega_1 = \frac{2\kappa\kappa}{x^2} = \frac{2\kappa}{x}$
+= attraction of the infinite cylinder. So
+that a not very long cylinder could be con-
+sidered as infinite. If $30^\circ$ be substituted
+for $45^\circ$ the attraction would be $\frac{\kappa}{x}$ or [del]as[/del] [ins]less[/ins]
+much as all the rest of the infinite
+cylinder.
+
+§121 When the base of the cylinder is the space con-
+tained between two concentric circles
+$\Omega_1 = 2 A \log r + B_1$
+$D_r \Omega_1 = \frac{2A}{r}$
+
+[fig]Concentric circles representing a hollow cylinder base.[/fig] The difficulty in the former solution
+can now be seen.
+
+To get $\Omega_2$. $x = r \cos \vartheta$ $y = r \sin \vartheta$
+
+$x + y \sqrt{-} = r (\cos \vartheta + \sin \vartheta \sqrt{-}) = C e^{\vartheta \sqrt{-}}$
+
+§122. For any point within the inner boun-

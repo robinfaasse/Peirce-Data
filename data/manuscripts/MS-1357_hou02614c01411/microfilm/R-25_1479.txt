@@ -1,0 +1,26 @@
+[pn]7[/pn]
+
+[u]§ 4. Corollaries[/u]. By (5) and (3)
+
+(12) [del]ds/dx[/del] [ins]ds/dx[/ins] = $\sqrt{1 + \frac{w^2}{Q^2}} = \frac{q}{Q}$
+
+(13) $\rho = \frac{\sec^2 \tau}{dw/dx} = \left(\frac{dw}{d\tau} \frac{1}{Q}\right)^2 / \frac{dy}{dw} = \frac{ds}{d\tau}$
+
+(14) $\rho \cos^2 \tau = \frac{Q}{dw/ds} = \frac{q}{dw/dx}$.
+
+[u]§ 5 The Catenary[/u]. This is the curve of the cord when $w/s$ is constant. Write
+(15) $w = ks = Q (\tan \tau - \tan \tau_0)$
+Then (14) gives (independently of the constancy of $k$)
+(16) $Q = k \rho \cos^2 \tau$ $q = k \rho \cos \tau$.
+Hence
+$dx/d\tau = (dx/ds)(ds/d\tau) = \rho \cos \tau = \frac{Q}{k} \sec \tau$,
+$dy/d\tau = (dy/ds)(ds/d\tau) = \rho \sin \tau = \frac{Q}{k} \sin \tau \cdot \sec \tau$.
+Integrating these with the assumption that $k$ is constant,
+$x' = \frac{Q}{k} \log \tan (45^\circ + \frac{1}{2}\tau)$,
+$y' = \frac{Q}{k} (\sec \tau - 1)$.
+The formulae of Gudermannians give
+(17) $\text{Sinh } \frac{kx'}{Q} = \tan \tau = \frac{ks'}{Q} = \sqrt{(\frac{ky'}{Q} + 1)^2 - 1}$ ;
+(17) $\text{Cosh } \frac{kx'}{Q} = \sec \tau = \sqrt{1 + (\frac{ks'}{Q})^2} = \frac{ky'}{Q} + 1$ ;
+[del]Cosh[/del] [ins]Cosh[/ins]$^2 \frac{kx'}{Q} = \sec^2 \tau = 1 + (\frac{ks'}{Q})^2 = (\frac{ky'}{Q} + 1)^2 = \frac{k\rho}{Q}$.
+
+The ascertainment of the value of $Q$ when $x'_0$ and $s'_0$ are known will be facilitated by a table of $\frac{\text{Sinh } u}{u}$, which I here give.

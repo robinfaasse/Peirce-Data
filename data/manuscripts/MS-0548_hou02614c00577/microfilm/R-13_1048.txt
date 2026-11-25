@@ -1,0 +1,17 @@
+$$\Sigma\text{ and }\Pi$$
+
+$$\Pi_x a_x \Pi_y b_y = (a_1 a_2 a_3\text{ etc}) (b_1 b_2 b_3\text{ etc})$$
+$$= \Pi_x (a_x b_x)$$
+
+$$\Sigma_x \Pi_y \phi(x,y) = \Sigma_x [\phi(x,1) \phi(x,2)\text{ etc}]$$
+$$= \phi(1,1) \phi(1,2)\text{ etc}$$
+$$+ \phi(2,1) \phi(2,2)\text{ etc}$$
+$$\text{etc}$$
+
+$$\Pi_y \Sigma_x \phi(x,y) = \Pi_y [\phi(1,y) + \phi(2,y) + \phi(3,y) + \text{etc}]$$
+$$= (\phi(1,1) + \phi(2,1) + \phi(3,1) + \text{etc})$$
+$$(\phi(1,2) + \phi(2,2) + \phi(3,2) + \text{etc})$$
+$$\text{etc}$$
+
+The last has more terms the first more factors
+$$\therefore \Sigma\Pi \prec \Pi\Sigma$$

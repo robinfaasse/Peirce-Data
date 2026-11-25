@@ -1,0 +1,17 @@
+To prove the transitiveness of as small as-
+
+$$\Pi_{\alpha} \Sigma_{1} \Pi_{2} \Sigma_{3} \ x_{1} (\bar{\gamma}_{\alpha 12} + \bar{y}_{2} + \bar{\gamma}_{132} \ \bar{1}_{13})$$
+
+states that $x$ is not as small as $y$.
+
+$$\Sigma_{\delta} \Pi_{\alpha} \Sigma_{1} \Pi_{2} \Sigma_{3} \Pi_{\beta} \Sigma_{4} \Pi_{5} \Sigma_{6} \ [del]\Sigma_{7}[/del] \ [ins]\Pi_{7}[/ins] \Sigma_{8} \Pi_{9}$$
+
+$$x_{1} (\bar{\gamma}_{\alpha 12} + \bar{y}_{2} + \bar{\gamma}_{132} \ \bar{1}_{13}) y_{4} (\bar{\gamma}_{\beta 45} + \bar{z}_{5} + \bar{\gamma}_{465} \ \bar{1}_{46}) \{ \bar{x}_{7} + \bar{\gamma}_{78} \bar{z}_{8} (\bar{\gamma}_{98} + \bar{1}_{9}) \}$$
+
+Now we could eliminate by first identifying $\alpha$ and $\beta$ with $\gamma$ and then dropping factors and we should have
+
+$$\Sigma_{1} [del]\Sigma_{4} \Sigma_{7}[/del] \ [ins]\Pi_{7}[/ins] \Sigma_{8} \Pi_{9}$$
+
+$$x_{1} + y_{4} + \bar{x}_{7} + z_{8}$$
+
+which is identical. But how to recognize that there is no other elimination which would not yield an identical proposition?

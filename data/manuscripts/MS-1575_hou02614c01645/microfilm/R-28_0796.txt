@@ -1,0 +1,27 @@
+called the "sheet of assertion," and a purpose is vaguely supposed
+such that the writing of a given sign upon it may or may
+not [del]conduce, to agree with[/del] [ins]be agreeable to[/ins] that purpose.
+
+[fig]Geometrical diagram of intersecting lines and angles[/fig]
+
+[fig]Smaller diagram of intersecting lines with angle alpha[/fig]
+
+$\sin^2 \beta = \frac{\sin^2 \alpha}{n^2}$
+
+$1 - \sin^2 \beta = 1 - \frac{\sin^2 \alpha}{n^2}$
+
+$\cos \beta = \frac{\cos \alpha}{n} \sqrt{1 + \frac{n^2 - 1}{\cos^2 \alpha}}$
+
+$= \cos \alpha \sqrt{\frac{1}{\cos^2 \alpha} + [del]\left(\frac{1}{\cos^2 \alpha}\right)[/del] \frac{n^2 - 1}{\cos^2 \alpha n^2}}$
+
+$\sqrt{1 - \frac{\sin^2 \alpha}{n^2}} = \frac{1}{n} \sqrt{n^2 - \sin^2 \alpha}$
+
+$= \frac{1}{n} \sqrt{n^2 - 1 + \cos^2 \alpha}$
+
+$\sin^2 \beta$  $\frac{\sin^2 \alpha}{n^2}$
+
+$\alpha - \beta$
+
+$\frac{x}{y} = \tan (\alpha - \beta)$
+
+$= \frac{\sin \alpha \cos \beta - \cos \alpha \sin \beta}{\cos \alpha \cos \beta - \sin \alpha \sin \beta}$

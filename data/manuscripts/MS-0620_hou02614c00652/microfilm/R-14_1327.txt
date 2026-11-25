@@ -1,0 +1,28 @@
+[marginalia]
+1909 May 19 [pn]40[/pn]
+MEANING
+[/marginalia]
+
+We now multiply (III) into 11 and (I) by 31, and get
+[del](III)·11[/del] [ins]31·11[/ins] [del]31·(I)[/del] [ins]31·11[/ins] [del]x[/del] [ins]x[/ins] + [del]32·11[/del] [ins]31·12[/ins] y + [del]33·11[/del] [ins]31·13[/ins] z = 0
+and by subtraction, (III)·11 - 31·(I) = (32·11 - 31·12) y + (33·11 - 31·13) z = 0, which equation we will designate as B.
+
+Now, in order to eliminate y we will multiply C by 32, A by 12, and B by 22 and add [del]them, obtaining[/del]
+
+C·32 = (12·21·32 - 11·22·32) y + (13·21·32 - 11·23·32) z = 0
+A·12 = (12·22·31 - 12·21·32) y + (12·23·31 - 12·21·33) z = 0
+B·22 = (11·22·32 - 12·22·31) y + (11·22·33 - 13·22·31) z = 0
+
+A·12 + B·22 + C·32 = (12·23·31 - 12·21·33 + 11·22·33 - 13·22·31 + 13·21·32 - 11·23·32) z = 0.
+
+or rearranging the terms and dividing by z,
+
+[del](11·22·33 - 12·21·33 + 13·21·32 - 11·23·32 + 12·23·31 - 13·22·31) = 0.[/del]
+
+[del](11·22 - 12·21) 33 + (13·21 - 11·23) 32 + (12·23 - 13·22) 31 = 0[/del]
+
+12·(23·31 - 21·33) + 22·(11·33 - 13·31) + (13·21 - 11·23)·32 = 0.
+
+or 11·(22·33 - 23·32) + 21·(13·32 - 12·33) + (12·23 - 13·22)·31 = 0
+
+or (11·22 - [del]12·21[/del] [ins]12·21[/ins])·33 + ([del]13·21[/del] [ins]13·21[/ins] - [del]11·23[/del] [ins]11·23[/ins])·32 + ([del]12·23[/del] [ins]12·23[/ins] - 13·22)·31 = 0

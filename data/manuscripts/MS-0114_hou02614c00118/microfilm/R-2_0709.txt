@@ -1,0 +1,26 @@
+[pn]4[/pn]
+Hyp. Geom.
+or [space] $\frac{C}{r} = \frac{\cos\theta}{\tanh a} + \sqrt{\frac{\cos^2\theta}{\tanh^2 a} - 1}$
+
+The two values resulting from the ambiguous sign of the square
+root are reciprocals. Multiplying by $r$ and putting
+$r\cos\theta = x$ [space] $r^2 = x^2 + y^2$
+we get
+[del]$(x - \frac{C}{\tanh a})^2 + y^2 = (C \operatorname{cosech} a)^2$[/del]
+
+So that the equation is that of a circle. In order to determine
+the value of $C$ we put $\theta = 0$, $r = l$, whence $C = [del]l[/del] [ins]l[/ins] (\tanh \frac{a}{2})^{\pm 1}$. This
+gives for the circle either
+$[x - \frac{1}{2}l(1 + \coth^2 \frac{a}{2})]^2 + y^2 = (\frac{l}{2\sinh^2 \frac{a}{2}})^2$
+$[x - \frac{1}{2}l(1 + \tanh^2 \frac{a}{2})]^2 + y^2 = (\frac{l}{2\cosh^2 \frac{a}{2}})^2$
+
+[del]Since[/del] The representation of a straight line by a circle,
+which is not only [del]of[/del] [ins]a[/ins] different order and class of curves
+projectively, but, what is still worse, is even topically a
+line untransformable into a straight line, involves
+difficulties which will be considered below. For the
+present, we pass them by.
+
+Since the [del]side[/del] $b$ of the triangle is represented by
+a circle, the angle $A$ and its equal representation on
+the map must ultimately become zero. When this happens

@@ -1,0 +1,22 @@
+Because there are not two values of [del]x[/del]
+$\frac{1}{2}u\pi + v\pi i$
+which give $\sin(\frac{1}{2}u\pi + v\pi i) = a$
+it follows that since
+$\sin 0 = 0$
+$\sin \frac{\pi}{2} = 1$
+there is a [del]mode[/del] [ins]line[/ins] of increase from $0$ to $\frac{\pi}{2}$ where $\sin x$ increases
+from $0$ to $1$
+
+$\sin(\frac{\pi}{2} + x) = \sin(\frac{\pi}{2} - x)$
+For put $z = \frac{\pi}{2} + x$ Then $\pi - z = \frac{\pi}{2} - x$
+
+Because $\sin x$ and $\sin(\frac{\pi}{2} + x)$
+determine $x + 2N\pi$
+it follows that
+$\sin(x+y) = $ [del]$a \sin x + b \sin(\frac{\pi}{2} + x)$[/del]
+$= a \sin x \sin y + b \sin x \sin(\frac{\pi}{2} + y)$
+$+ c \sin(\frac{\pi}{2} + x) \sin y + d \sin(\frac{\pi}{2} + x) \sin(\frac{\pi}{2} + y)$
+
+Because $\sin(0+0) = \sin 0 = 0$ $\therefore d = 0$
+$\sin(x+0) = \sin x$ $b = 1$ $\therefore$ by symmetry $c = 1$
+$\sin(\frac{\pi}{2} + \frac{\pi}{2}) = \sin \pi = 0$ $a = 0$

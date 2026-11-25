@@ -1,0 +1,89 @@
+$$\left(\frac{r}{R}\right)^2$$
+
+$$\left(\frac{r}{R}\right)^2 = 1 - \left(\frac{Z-z}{Z}\right)^2$$
+
+$$= \frac{z}{Z}\left(2-\frac{z}{Z}\right)$$
+
+$$r = R\sqrt{\frac{z}{Z}\left(2-\frac{z}{Z}\right)} = \frac{R}{Z}\left(2Zz-z^2\right)^{\frac{1}{2}}$$
+
+$$dr = \frac{R}{2\sqrt{\frac{z}{Z}\left(2-\frac{z}{Z}\right)}} \cdot \frac{2-\frac{2z}{Z}}{Z} dz = \frac{R}{Z}\frac{Z-z}{\sqrt{\left(2Z-z\right)z}} dz$$
+
+$$\frac{dr}{R} = \frac{1-\frac{z}{Z}}{\sqrt{\left(2-\frac{z}{Z}\right)\frac{z}{Z}}} \frac{dz}{Z}$$
+
+[fig]Circle with inscribed polygon[/fig]
+
+$$\frac{\rho}{r} = \frac{d\rho}{dr}$$
+
+$$\frac{\rho}{r} = \frac{dx}{dr}$$
+
+$$\log \rho_g = \log r$$
+
+$$\rho = r - x \frac{dr}{dx} + z \frac{(dr)^2 + (dz)^2}{dz}$$
+
+$$\rho = r - \frac{dr}{d\log z} + \sqrt{\left(\frac{dr}{d\log z}\right)^2 + z^2}$$
+
+[del]$$1+x^2$$[/del]
+
+$$1 - \sqrt{1+\left(\frac{dr}{dz}\right)^2}$$
+
+$$\left(1+x^2\right)^{\frac{1}{2}}$$
+
+$$\sqrt{1+x} = (1+x)^{\frac{1}{2}}$$
+
+$$\frac{d}{dx} (1+x)^{\frac{1}{2}}$$
+
+$$\frac{1}{2} (1+x^2)^{-\frac{1}{2}} x + (1+x^2)^{\frac{1}{2}}$$
+
+$$\frac{1}{2} \cdot -\frac{1}{4} (1+x)^{-\frac{3}{2}}$$
+
+$$\frac{1}{8} \cdot -\frac{3}{8} (1+x)^{-\frac{5}{2}}$$
+
+$$\sqrt{1+[del]x[/del]} = [del]1 + a_1 x + a_2 x^2 + a_3 x^3 + \text{etc}[/del]$$
+
+$$\frac{1}{16} + m \rho = \frac{1}{16} + \left(\frac{1}{2} + m\right)m$$
+
+$$\frac{1}{128} + \frac{35}{32} \left(\frac{1}{2} + m\right) = \frac{9}{32}$$
+
+$$\frac{1}{128} + \frac{35}{32} \left(\frac{1}{2} + m\right) = \frac{9}{32} + 2m + m^2$$
+
+$$1+x^2 = (1+a_1 x)^2 =$$
+
+$$a_1^2 x^2 + 2a_1 a_2 x^3 + a_2^2 x^4$$
+
+$$\frac{1}{128} \frac{9}{32}$$
+
+$$\frac{1}{256} \frac{3}{32}$$
+
+$$a_1 x +$$
+
+$$1+x^2 = 1 + 2a_1 x + a_1^2 x^2$$
+
+$$\frac{3}{128}$$
+
+$$1 + a_1 x + a_2 x^2 + a_3 x^3 + a_4 x^4 + a_5$$
+
+$$a_1 = 0 \quad a_2 = \frac{1}{2} \quad a_3 = 0$$
+
+$$\frac{3}{8}$$
+
+$$\frac{1}{256}$$
+
+$$1 + a_1 x + a_2 x^2 + a_3 x^3$$
+
+$$1 + 2a_1 x + \left(a_1^2 + 2a_2\right) x^2$$
+
+$$a_4 = -\frac{1}{8}$$
+
+$$\left(1+x^2\right)^{\frac{1}{2}}$$
+
+$$+ 2\left(a_3 + a_1 a_2\right) x^3$$
+
+$$\frac{1}{2} (1+x^2)^{-\frac{1}{2}} x$$
+
+$$+ 2\left(a_4 + a_1 a_3 + \frac{1}{2} a_2^2\right) x^4$$
+
+$$\sqrt{1+x} = 1 + \frac{1}{2}x - \frac{1}{8}x^2 + \frac{1}{16}x^3 - \frac{5}{128}x^4 + \frac{7}{256}x^5$$
+
+$$\frac{3}{256} x^6$$
+
+$$\sqrt{1.01}$$

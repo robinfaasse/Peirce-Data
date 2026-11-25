@@ -1,0 +1,17 @@
+§3 The exponential function [del]of 1[/del] is called the Naperian base and is generally denoted by e, but by Benjamin Peirce's [ins]scholars[/ins] [del]students[/del] by infin;. That is
+
+infin; = Exp 1 = [del]1 +[/del] 1 + 1 + [fraction]1/2[/fraction] + [fraction]1/3![/fraction] + [fraction]1/4![/fraction] = [summation] [fraction]1/r![/fraction]
+
+Hence for t any integer
+infin;<sup>t</sup> = Exp t.
+
+If x is a rational fraction, say [fraction]t/s[/fraction] = x, then
+Exp [fraction]1/s[/fraction] = 1 + s<sup>-1</sup> + [fraction]1/2[/fraction] s<sup>-2</sup> + [fraction]1/3![/fraction] s<sup>-3</sup> + etc.
+
+(Exp [fraction]1/s[/fraction])<sup>s</sup> = infin;
+
+Hence Exp [fraction]1/s[/fraction] = infin;<sup>[fraction]1/s[/fraction]</sup> and Exp [fraction]t/s[/fraction] = infin;<sup>[fraction]t/s[/fraction]</sup>
+
+Thus for any rational number this holds. It holds for any other [ins]real[/ins] number by the doctrine of limits. It is assumed to hold for imaginary values because the assumption gives rise to no inconsistency.
+
+[fig]Upside down handwritten mathematical calculations and equations[/fig]

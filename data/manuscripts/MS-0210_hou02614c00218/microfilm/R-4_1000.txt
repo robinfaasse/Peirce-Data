@@ -1,0 +1,24 @@
+[u]Explanation[/u].
+
+Let the probability that Rothschild will ever make a net winning of 1 franc at 1 franc bets, after he has lost [u]n[/u] francs be F[u]n[/u]. Let his chance of winning any single bet be [del]x[/del] [ins]30[/ins]/[ins]61[/ins]. Then, [del]having lo[/del] having lost [u]n[/u] francs his chance F[u]n[/u] of [del]now[/del] making a net winning of 1 franc will be equal to [u]30[/u]/[u]61[/u] of his chance of making the franc [ins]after[/ins] if he wins his next bet, that is, [u]30[/u]/[u]61[/u] F([u]n[/u]-1), added to [u]31[/u]/[u]61[/u] of his chance of making the franc after he loses his next bet, that is, [u]31[/u]/[u]61[/u] F([u]n[/u]+1)
+
+That is,
+F[u]n[/u] = [u]30[/u]/[u]61[/u] F([u]n[/u]-1) + [u]31[/u]/[u]61[/u] F([u]n[/u]+1).
+
+Whence
+F([u]n[/u]-1) = [u]61[/u]/[u]30[/u] F[u]n[/u] - [u]31[/u]/[u]30[/u] F([u]n[/u]+1)
+or putting [del]m=n[/del] [ins]m=n-1[/ins]
+F[u]m[/u] = [u]61[/u]/[u]30[/u] F([u]m[/u]+1) - [u]31[/u]/[u]30[/u] F([u]m[/u]+2)
+
+This equation on well known principles has two independent solutions. Namely, first, it is satisfied if
+F[u]m[/u] = F([u]m[/u]+1) = F([u]m[/u]+2);
+and, second, it is satisfied if
+F[u]m[/u] = [u]31[/u]/[u]30[/u] F([u]m[/u]+1) and F([u]m[/u]+1) = [u]31[/u]/[u]30[/u] F([u]m[/u]+2)
+
+For in that case it becomes
+[u]31²[/u]/[u]30²[/u] F([u]m[/u]+2) = ([u]31.61[/u]/[u]30²[/u] - [u]30.31[/u]/[u]30²[/u]) F([u]m[/u]+2)
+
+Now multiplying by 30² and dividing by 31, [del]and by F(m+2)[/del] this gives
+31 = 61 - 30,
+which is true. Hence, if B and C are unknown constants
+F[u]m[/u] = B + C([u]30[/u]/[u]31[/u])[sup]m[/sup]

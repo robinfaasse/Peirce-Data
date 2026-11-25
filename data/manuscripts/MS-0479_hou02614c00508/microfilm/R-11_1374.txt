@@ -1,0 +1,37 @@
+[marginalia]
+[pn]Graphs[/pn]
+[pn]5[/pn]
+[/marginalia]
+
+[fig]Euler diagram with circles S, M, P nested[/fig]
+
+[ins]the case
+in that of Fig 2,[/ins]
+
+$S$ is within $M$
+$M$ is within $P$
+$\therefore$ $S$ is within $P$
+
+[fig]Euler diagram with circle S inside M, and P outside[/fig]
+Fig 2.
+
+and in the case of Fig. 3
+
+[fig]Euler diagram with circle S outside M, and P inside M[/fig]
+Fig 3.
+
+$S$ is within $M$
+$M$ is entirely outside $P$,
+$\therefore$ $S$ is entirely outside $P$, —
+
+$S$ is entirely outside $M$
+$M$ encloses $P$
+$\therefore$ $S$ is entirely outside $P$.
+
+The last two cases become the same, as soon as it is
+recognized that to say that $S$ is entirely outside $P$ is
+the same as to say that $P$ is entirely outside $S$.
+
+So little are logicians given to the easy but most
+serviceable habit of generalizing that there are books
+of leaders in the science which mention the fact that

@@ -1,0 +1,28 @@
+[pn]22[/pn]
+
+<u>Quantity</u>
+
+other number those figures being taken in reverse order. For example
+
+[del]864.13579[/del] [del]844297531[/del]
+[del]246810[/del] 864.97531..
+
+will be represented by
+
+.9476583010...
+
+Then, suppose we have an endless series of numbers each between zero and unity, and each carried out endlessly into the decimal places, the question is whether the [del]whole of those[/del] [ins]such[/ins] all possible such [del]sets of each[/del] series can be represented by the possible [del]variations of[/del] a single key-number between zero and unity, this being carried out into the decimal-places without end. The answer is that it can; for we have only to write, [del]in each case,[/del] the M[ins]<u>th</u>[/ins] figure of the N[ins]<u>th</u>[/ins] number as the P[ins]<u>th</u>[/ins] figure of the key, where P = [del]1/2[/del] [ins]$\frac{1}{2}$[/ins] [(M+N)$^2$ - M - 3N + 2]. That this will never put two figures in the same place of the key is evident from this that if [del]Q[/del] T is the largest triangular number less than P and [del]t[/del] t is the smallest [del]triang[/del] number greater than P, then M = P - T and N = t - P + 1. Then, by reasoning perfectly analogous to that which proves there is no [del]real[/del] multitude intermediate between the denumerable and the first abnumeral, it follows [del]that there is no reason[/del] multitude intermediate between the first abnumeral and the second.
+
+For proof that there are no multitudes intermediate between higher abnumerals, I shall endeavor to show that the following reasoning is correct. Let D be the denumerable multitude. Then, the first abnumeral, being the multitude of ways in which D things can be distributed into 2 places is 2$^D$. The second [del]being the[/del] abnumeral, being the multitude of ways in which 2$^D$ things can be distributed into two places, is
+
+2$^{2^D}$.
+
+Hence the second abnumeral to the first abnumeral power is
+
+(2$^{2^D}$)$^{2^D}$ = 2$^{(2^D \cdot 2^D)}$ = 2$^{2^{D+D}}$ = [del]2$^{2^{2D}}$[/del] = 2$^{2^D}$.
+
+To prove [del]that[/del] this reasoning is correct, it will be [ins]necessary but[/ins] sufficient to show that for all [ins]denumerable, or abnumeral[/ins] multitudes, m and n, however great, we have
+
+(2$^m$)$^n$ = 2$^{(m \cdot n)}$.
+
+Now 2$^m$ represents the [ins]multitude[/ins] [del]number[/del] of ways in which m places can all be filled

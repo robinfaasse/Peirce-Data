@@ -1,0 +1,33 @@
+or $1.1.1.1$ which in decimal form is $8^2 + 8 + 1 = 73$.
+Consequently $1/1.1.1$ is $.....111$. There is another
+way of reasoning which is occasionally useful.
+Namely, although it follows from what has
+been said that if $F_n$ is a prime, then $n$
+itself must be so, yet the converse is not
+necessarily true. Let us see, then, whether
+$11111111111$, that is $F_{1.1.1}$, can be separated into
+two factors, or not. Since this is not a perfect
+square, one of the factors (if it be not prime)
+must be at [del]the[/del] [ins]least[/ins] no greater than $F_{1.1}$, or
+$11111$. Let us represent this problematical factor
+by the algebraic expression
+$$x_{11} (1:)^2 + x_{1.1} (1:)^1 + x_{1.11} (1:)^0 + x_1 (1:) + x_i$$
+where the five unknown coefficients must have,
+each of them, either the value [del]of[/del] unity or the value
+zero. We may represent the larger factor (if
+there be any) by a similar expression, having
+$y$s instead of $x$s for coefficients; and [del]they[/del]
+
+just as every one of the five $x$s must satisfy the equation $x(1-x) = 0$
+whose roots are zero and unity, the two possible values of each $x$, so
+every one of the $y$s (whose number [del]may be as[/del] [ins]must be more than[/ins]
+$5$ [del](probably)[/del]) must satisfy the equation $y(1-y) = 0$. We thus have a
+problem in Boole's Calculus of Logic, for which see his "Laws of Thought." I
+will just illustrate here my way of treating it, by setting forth a few of
+my first steps. Multiplying (or rather conceiving to be multiplied)
+together the two polynomials representing the two factors, we see that
+the only term of their product that will not involve $1:$ as a factor
+will be $x_i y_i$, and even this would vanish if either $x_i$ or $y_i$ vanished.
+[del]So, if[/del] [ins]If[/ins] there be two factors, it must be that $x_i = 1$ and $y_i = 1$. Next, the
+only term of the product of the two polynomials that involve no higher
+power of $1:$ than the first is $(x_i y_1 + x_1 y_i) (1:)$. Substituting in this, the

@@ -1,0 +1,43 @@
+[u]Notes to Klein[/u]
+
+[u]Notation[/u]
+
+$$S = \begin{matrix} 1 & -\frac{1}{e} & e \\ \frac{1}{e} & e & -1 \\ e & 1 & \frac{1}{e} \end{matrix} \qquad S^2 = \begin{matrix} -e & -1 & \frac{1}{e} \\ 1 & -\frac{1}{e} & -e \\ \frac{1}{e} & e & 1 \end{matrix}$$
+
+[fig]Arrow pointing from S^2 to a simplified matrix representation[/fig] $S^2 = \begin{matrix} & \frac{1}{e} & e \\ -\frac{1}{e} & e & \end{matrix}$
+
+$$\frac{1}{e} = 1 + e \qquad S^4 = \begin{matrix} 1 & -\frac{1}{e} & e \\ -\frac{1}{e} & e & 1 \\ e & -1 & \frac{1}{e} \end{matrix}$$
+
+$$\frac{1}{e^2} = \frac{1}{e} + 1 = 2 + e$$
+
+$$\frac{1}{e^3} = [del]2 + e^2[/del] \quad \begin{matrix} \frac{1}{e^3} = 3 + 2e \\ \frac{1}{e^2} = 2 + e \\ \frac{1}{e} = 1 + e \end{matrix}$$
+
+$$\frac{2}{e} + 1 = 3 + 2e$$
+
+$$\begin{matrix} 0.18030 \\ 31 \\ 32 \\ 33 \\ 34 \end{matrix} \quad \begin{matrix} 1.618044 \\ 41 \\ 39 \\ 36 \\ 34 \end{matrix}$$
+
+$$\begin{matrix} 1 = 1 \\ e = e \\ e^2 = 1 - e \\ e^3 = 2e - 1 \\ e^4 = 2 - 3e \end{matrix} \qquad \begin{matrix} -e & -1 & \frac{1}{e} \\ -\frac{1}{e} & \frac{1}{e^2} & 1 \\ 1 & e^2 & e \end{matrix}$$
+
+$$\frac{1}{0.618034} = 1.618034$$
+
+$$e^2 = .381966$$
+
+$$\begin{matrix} .618034 \\ .236068 \end{matrix}$$
+
+$$e^2 + e = 1$$
+
+$$e^2 + e + \frac{1}{4} = \frac{5}{4}$$
+
+$$e + \frac{1}{2} = \frac{\sqrt{5}}{2}$$
+
+$$e = \frac{-1 \pm \sqrt{5}}{2} \quad \frac{1}{e} = \frac{1 \pm \sqrt{5}}{2}$$
+
+$$-1.618034$$
+
+$$\begin{matrix} 2e^2 - e \\ 2 - 3e \end{matrix}$$
+
+$$\frac{1}{e^4} = \frac{\frac{3}{e} + 2}{5 + 3e}$$
+
+$$\begin{matrix} [del]-e[/del] & [del]-e[/del] \end{matrix} \quad \begin{matrix} -e & +1 & 1+e \\ \hline -1 & -\frac{1}{e} & \frac{1}{e^2} \\ e & -1 & -e^2 \\ \frac{1}{e} & -e & -1 \\ \hline -1 & -1-e & e \end{matrix} \qquad S^3 = \begin{matrix} -e & 1 & 1+e \\ -1 & -(1+e) & e \\ 1+e & -e & 1 \end{matrix}$$
+
+$$\begin{matrix} -e^2 & -e & 1 \\ 1 & -\frac{1}{e} & -e \\ \frac{1}{e^2} & 1 & \frac{1}{e} \\ \hline 1+e & [del]-1-e[/del] & 1 \end{matrix} \qquad \begin{matrix} -e & 1 & -\frac{1}{e} \\ -1 & -\frac{1}{e} & e \\ -\frac{1}{e} & -e & 1 \end{matrix}$$

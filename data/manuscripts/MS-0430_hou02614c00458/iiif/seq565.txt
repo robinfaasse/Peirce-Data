@@ -1,0 +1,22 @@
+Logic
+III
+21
+
+sures than the smallest number for which the rule [ins]can[/ins] breaks
+down, and suppose that by virtue of the rule and the
+fact that G is transformable into [u]T'[/u], G' is transformable
+into another graph [u]T''[/u]. Then any graph of the smallest
+number for which the rule can break down may be
+put into the form [fig]T'H[/fig]K, by putting H for all the
+rest of the graph within the outermost enclosure [ins]containing [del]G'[/del] G'[/ins] and
+K for all outside that enclosure. But as just shown, if
+G' is transformable in [u]T''[/u], as it is by virtue of the rule, then
+[fig]T''H[/fig]K is transformable into [fig]G'H[/fig]K, which accords
+with the rule. Hence, there can be no smallest number
+of enclosures for which the rule breaks down; and therefore,
+it does not break down at all.
+
+[u]Rule IV[/u]. [u]Any part of a graph may be iterated, within[/u]
+[u]the same or additional enclosures[/u]; [ins]provided there already exist[/ins] [u]and if any part of a graph[/u]
+[u]is iterated so that one occurrence of it is within whatever en-[/u]
+[u]closure the other is within, the former may be erased[/u].

@@ -1,0 +1,18 @@
+Logic [u]consequences having several proximate antecedentalts.[/u]
+III (69) Any consequence whatever [ins]that can be written out,[/ins] is scriptible unless all its
+  68   proximate antecedentals are scriptible.
+          Proof. Assume, for the moment, that this proposition
+       is true for every consequence having fewer than a certain
+       number, N, of proximate antecedentals. Let us, then, con-
+       sider a consequence having N antecedentals, which
+       we may designate as $\Omega_1, \Omega_2, \Omega_3,$ etc up to $\Omega_N,$
+       and let $\mathcal{V}$ be its ultimate consequent. We assume, then,
+       that either $\Omega_2, \Omega_3,$ etc up to $\Omega_N,$ are all scriptible or
+       else $\Omega_2 \curlyprec \Omega_3 \curlyprec \dots \curlyprec \Omega_N \curlyprec \mathcal{V}$ is scriptible. But, by
+       (65), under the last alternative $\Omega_1 \curlyprec \Omega_2 \curlyprec \Omega_3 \dots \curlyprec \Omega_N \curlyprec \mathcal{V}$
+       is also scriptible. So that either $\Omega_2, \Omega_3,$ etc up to $\Omega_N$ are
+       all scriptible or $\Omega_1 \curlyprec \Omega_2 \curlyprec \Omega_3 \curlyprec \dots \curlyprec \Omega_N \curlyprec \mathcal{V}$ is
+       scriptible. But, by (64), either $\Omega_1$ is scriptible or 
+       $\Omega_1 \curlyprec \Omega_2 \curlyprec \Omega_3 \curlyprec \dots \curlyprec \Omega_N \curlyprec \mathcal{V}$ is scriptible. Hence,
+       either $\Omega_1, \Omega_2, \Omega_3,$ etc up to $\Omega_N$ are all scriptible
+       or else $\Omega_1 \curlyprec \Omega_2 \curlyprec \Omega_3 \curlyprec \dots \curlyprec \Omega_N \curlyprec \mathcal{V}$ is scriptible.

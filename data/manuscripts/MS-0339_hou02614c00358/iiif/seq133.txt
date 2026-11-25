@@ -1,0 +1,19 @@
+59r
+
+[del]((1+\Delta)^n x \equiv[/del]
+$(x + \Delta x)^n \equiv (1 + \Delta)^n x$
+
+[fig]figure[/fig]
+
+If $\Delta^2 x = 0$ [ins]$\Delta^3 x = 0$ etc[/ins]
+$(1 + \Delta)^n x \equiv (1 + n \Delta) x \equiv x + n \Delta x$
+$(1 - \Delta)^n x \equiv x - n \Delta x$
+
+$(1 - \Delta)^n fx \equiv f(x - n \Delta x)$
+$(1 - \Delta)^n \equiv$ [del]1 -[/del] [ins]1 -[/ins] $n \Delta + \frac{n(n-1)}{2} \Delta^2 - \frac{n(n-1)(n-2)}{2.3} \Delta^3 + \text{&c}$
+
+If $n$ is interpretable $\equiv 1 - n \Delta$
+$fx - n \Delta fx = f(x - n \Delta x)$
+or putting $h$ for $n \Delta x$
+$fx - n \Delta fx = f(x - h)$
+$fx - \frac{h \Delta fx}{\Delta x} = f(x - h)$

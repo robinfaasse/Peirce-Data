@@ -1,0 +1,17 @@
+Suppose the groups of stars instead of being in a circle were on an infinite line thus
+
+[fig]Triangular network of lines connecting numbered points from 0 to XV[/fig]
+
+The mean magnitude of group number [u]n[/u] being compared with those of groups numbers [u]n-2[/u], [u]n-1[/u], [u]n+1[/u], [u]n+2[/u]. All the comparisons of equal weight say = 1.
+
+Then let the deduced diff. of I and II have a weight [u]w[/u]. Compare [del]another[/del] [ins]a new[/ins] group 0 with [del]the[/del] II. Then the error square of the sum of differences of 0 and II and of II and I will be $1 + \frac{1}{w}$. Then compare 0 and I directly and the weight of this determination will be $\frac{1}{1 + \frac{1}{1+\frac{1}{w}}}$. But this must be the same as the weight of the difference between I and II before or
+
+$$w = 1 + \frac{1}{1+\frac{1}{w}} = \frac{1}{2} (\sqrt{5} + 1)$$
+
+$$\frac{1}{w} = \frac{1}{2} (\sqrt{5} - 1)$$
+
+Then deduced I-II = $\frac{1}{w} (\text{I-II}) + \frac{1}{w^2} (\text{I-III}) + \frac{1}{w^3} (\text{II-III}) + \frac{1}{w^4} (\text{II-IV}) + \frac{1}{w^5} (\text{i.t.IV})$
+
+The powers of $\frac{1}{w}$ are easily calculated by the formula
+
+$$\frac{1}{w^n} = \frac{1}{w^{n-2}} - \frac{1}{w^{n-1}}$$

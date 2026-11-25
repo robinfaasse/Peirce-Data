@@ -1,0 +1,24 @@
+$$g_{\beta\alpha} = \prod_{\gamma} \sum_{i} \sum_{j} \sum_{k} \sum_{\delta} \prod_{l}$$
+$$q_{li} (q_{\alpha j} \cdot q_{\beta k} \cdot q_{\delta i} \cdot q_{\gamma j} \cdot g_{\gamma k} \cdot g_{\delta l} + \overline{q}_{\beta l} + \overline{q}_{\gamma l})$$
+
+We certainly come back to the doctrine of substantive possibility.
+
+$$\sum_{\alpha} \sum_{i} q_{\alpha i}$$
+is certainly true and consequently, since
+$$\prod_{\alpha} \sum_{\beta} \prod_{i} (q_{\alpha i} + q_{\beta i}) \cdot (q_{\alpha i} + \overline{q}_{\beta i})$$
+is true. (Why?) It follows that $\prod_{\alpha} \prod_{i} q_{\alpha i}$ is false.
+
+$$\sum_{\alpha} \prod_{i} q_{\alpha i}$$
+is true; because any [del]kind[/del] description of an abstraction which
+involves no definite proposition about the necessities [del]of the[/del]
+can be formed, and that is all that is asserted.
+
+It follows that $\prod_{i} \sum_{\alpha} q_{\alpha i}$ is true.
+
+[del]Now that[/del] Whence $\sum_{i} \prod_{\alpha} q_{\alpha i}$ is false,
+
+$$\sum_{\alpha} \prod_{i} \prod_{j} q_{\alpha i j} \text{ is true}$$
+
+[del]\sum \sum[/del] $\sum_{\alpha} \prod_{\beta} \prod_{i} q_{\alpha i} + \overline{q}_{\beta i}$
+is false. But $\prod_{\alpha} \sum_{\beta} \prod_{i} X_{\alpha\beta i}$ is true unless $X_{\alpha\beta i}$
+reduces to 0.

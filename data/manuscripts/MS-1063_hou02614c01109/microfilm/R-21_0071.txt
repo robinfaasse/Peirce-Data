@@ -1,0 +1,761 @@
+[fig]Geometric diagram with lines and points labeled A, B, C, D[/fig]
+
+[del]$i = A \cdot A + B \cdot B + C \cdot C + D \cdot D$[/del]
+[del]$l = A \cdot A + B \cdot B + C \cdot C + D \cdot D$[/del]
+
+$j = A \cdot B + B \cdot A + C \cdot D + D \cdot C$
+$k = A \cdot C - C \cdot A - B \cdot D + D \cdot B$
+$l = [del]A \cdot D + D \cdot A[/del] - B \cdot C - C \cdot B$
+$i = A \cdot A + B \cdot B + C \cdot C + D \cdot D$
+
+$\begin{array}{c|c|c|c}
+a b = 1 & c d = 1 & [del]e g = 1[/del] & a f = l \\
+\hline
+e f = -1 & g h = -1 & [del]b e = -l[/del] & d g = k \\
+\hline
+[del]g j = 1[/del] & k l = 1 & c h = -l & [del]g j = 1[/del] \\
+\hline
+& & d f = -j & b h = j
+\end{array}$
+
+$- A \cdot D - D \cdot A$
+$- B \cdot C - C \cdot B$
+$- A \cdot C - C \cdot A$
+$+ B \cdot D + D \cdot B$
+
+***
+
+$i, j, k, l$
+$k, = -j k$
+$j, = j [del]k[/del] [ins]$l$[/ins]$
+$l, = l$
+
+Some
+multiplication
+Table
+
+$\begin{array}{c|c|c|c|c}
+& \iota & j & k & l \\
+\hline
+\iota & \iota & j & 0 & 0 \\
+\hline
+j & 0 & 0 & \iota & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$i = A \cdot A + B \cdot B$
+$k = B \cdot A + A \cdot B$
+
+$i, = i - l$
+$k, = g - \frac{1}{2} k$
+
+$j, = i + l$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+i & i & j & 0 & 0 \\
+\hline
+j & 0 & 0 & i & j \\
+\hline
+k & k & l & 0 & 0 \\
+\hline
+l & 0 & 0 & k & l
+\end{array}$
+
+$\begin{array}{c|c|c|c|c}
+& i & j & k & l \\
+\hline
+\end{array}
+\end{array}$
+
+$j = [del]\{A \cdot B\} + \{C \cdot D - B \cdot C\}[/del]$
+$j = [del]\{A \cdot C\} + \{B \cdot A\} - \{B \cdot D + D \cdot B\}[/del]$
+$j = [del]\{A \cdot D\} + \{D \cdot A\} + \{B \cdot C + C \cdot B\}[/del]$

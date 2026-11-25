@@ -1,0 +1,40 @@
+[fig]sketch of a hand and a banana[/fig] [fig]flourished signature[/fig]
+
+Cher Monsieur le professeur.
+
+[del]Sinus[/del] [ins]aurez[/ins] [del]sin[/del]
+
+[fig]circle with inscribed quadrilateral PQSR and diagonals intersecting at T[/fig]
+$a+b = 180^\circ - x$
+[del]$b+c = 180^\circ$[/del]
+[del]$a+b+c+d = 180^\circ$[/del]
+$x = c+d$
+[del]$75 - 8$[/del]
+$RS = \sin a$
+$PQ = \sin b$
+$QR = \sin c$
+$PS = \sin d$
+
+$IT = \frac{\sin b \cdot \sin(a+b)}{\sin(a+b)}$
+$TR = \frac{\sin a \cdot \sin c}{\sin(a+b)}$
+
+[fig]circle with inscribed quadrilateral PQRS and diagonals intersecting at T[/fig]
+
+$e = h = 90^\circ - a$
+$f = c = 90^\circ - b$
+$d = a$
+$g = b$
+
+$ST = \cos b \sin a$
+$PT = \cos b \cos a$
+$TQ = \sin b \cos a$
+$RT = \sin b \sin a$
+
+$ST : PT = RT : QT$
+
+$ST \cdot TQ = PT \cdot RT$
+
+[fig]circle with intersecting chords[/fig]
+
+$(1 + \cos a)(1 - \cos a)$
+$= \sin^2 a$

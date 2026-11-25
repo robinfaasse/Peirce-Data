@@ -1,0 +1,21 @@
+Logic
+III
+22
+
+[u]Proof.[/u] [ins]It being evident that the unenclosed iteration of an unenclosed part has no effect,[/ins] I will begin by proving that if a graph contains
+two ovals one inside the other, any unenclosed part of it can
+be iterated within the two ovals. For let the unenclosed parts
+[del]to be[/del] iterated [del]by[/del] [ins]be[/ins] A, and the rest that is unenclosed be B.
+Let the singly enclosed part be C, and the doubly enclosed
+part be D. Then the graph before iteration will be
+AB [fig]figure[/fig]
+while after the iteration it will [ins]have[/ins] [del]become[/del]
+A B [del]C[/del] [fig]figure[/fig]
+I have to prove that if what the former asserts is true, so is
+what the latter asserts.
+[fig]figure[/fig] asserts that D is not V; C [fig]figure[/fig], that C is V and D is
+not V. [fig]figure[/fig] asserts that [del]either C is V[/del] if C is V, then D is V.
+AB [fig]figure[/fig] asserts that A is V, that B is V, and that if C is V, then
+D is V. AB [fig]figure[/fig] asserts [del]that[/del] same thing, except that
+if C is V then both D is V and A is V. But since A is asserted
+to be V in any case, the [del]last[/del] addition is without effect. Hence,

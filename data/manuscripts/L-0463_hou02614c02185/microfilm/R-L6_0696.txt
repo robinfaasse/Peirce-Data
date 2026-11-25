@@ -1,0 +1,16 @@
+[marginalia][date]1909 Jan 31[/date]
+3[/marginalia] opment & connexions of parts of the brain so different from that of right-handed people that the sinister man is almost sure to be misunderstood and to live a stranger to his kind, if not a misanthrope. This has, I doubt not, had a good deal to do with my devotion to logic; [ins]and[/ins] I have no doubt my intellectual left-handedness has been of the utmost service to my studies in logic; causing me to study its literature much more deeply and fundamentally than I otherwise should have been; and it has given me so much caution in forming my opinions and so much diffidence of my own opinions, that I have been able to produce little; and half, or more than half, of what I have written seems to me rather immature.
+
+I have place a very high estimate upon the value of Existential Graphs, and hope you will persevere in the study of the system. I desire greatly to be of aid to you in your study of it, if you will continue the study. Its use lies in its furnishing an icon of thought of relatively great exactitude. Its merits in that respect. It is not contrived with a view to its aiding inference. [del]norce[/del] But there is no other way of gaining the requisite familiarity with it than to practice at examples of drawing conclusions by its simple rules. The most useful transformations are, 1[u]st[/u], putting a double-cut about a partial graph and removing such double cut. Of course there must be no graph-instance between the two cuts. 2[u]d[/u], Iterating [del]within[/del] an evenly enclosed graph-instance between the two cuts; and deiterating under the same relative positions, but now with both graphs oddly-enclosed. Very commonly a deiteration follows upon an iteration. I will call your attention to a few cases.
+
+[del]There are two ways of transforming[/del] [fig]graph a b[/fig] [fig]graph a b[/fig], so as to get [fig]graph a b c[/fig] I will show them.
+
+[del]First[/del] Or we can proceed by the [lang]reductio ad absurdum[/lang]; and here I will introduce a ligature. Given then [fig]graph a b[/fig]
+
+[del]Iterate the second scroll in the inner close of the other, thus:[/del] [fig]graph a b c[/fig]
+
+[del]Delete the scroll already iterated by the Rule of Insertion and Omission, and deiterate the a, thus:[/del] [fig]graph a b c[/fig]
+
+[del]Remove the double cut, and we have[/del] [fig]graph a b c[/fig]
+
+[del]Here we have[/del] In that case it is impossible to deduce [fig]graph a b c[/fig]; for the latter does not necessarily follow. That is, it does not follow that because some a is not both b and c, therefore [fig]graph a b c[/fig] [ins]either[/ins] some a is not b or else some a is not c [fig]graph a b c[/fig]

@@ -1,0 +1,29 @@
+[marginalia]
+[pn]Logic[/pn]
+[pn]III.[/pn]
+[pn]73[/pn]
+[/marginalia]
+
+In (13) substituting $\overline{\text{S}}$ for $\text{S}$, we have
+If from $\overline{\text{S}}$ would [ins]necessarily[/ins] follow $\text{P}$, then from $\overline{\text{P}}$ would [ins]necessarily[/ins] follow $\overline{\overline{\text{S}}}$
+whence, by (10),
+
+(15) If from $\overline{\text{S}}$ would follow $\text{P}$, then necessarily from $\overline{\text{P}}$ would follow $\text{S}$.
+
+In (14) substituting [del]$\overline{\text{P}}$[/del] [ins]$\overline{\text{S}}$[/ins] for [del]$\text{S}$[/del] [ins]$\overline{\text{S}}$[/ins], we have as above
+
+(16) If from $\overline{\text{S}}$ would follow $\overline{\text{P}}$ then from [del]$\overline{\text{P}}$[/del] [ins]$\text{P}$[/ins] would follow $\text{S}$.
+[del]and from—follows—are[/del]
+
+Remembering that "if—, then—" [del]is[/del] [ins]is to be[/ins] taken in the sense that the
+consequent is at least as true as the antecedent, we may define [del]it[/del]
+in two clauses, thus:
+
+[del](17)[/del] If $\underline{x}$, then [del]necessarily[/del] $\underline{y}$
+
+(17) If $\underline{x}$, then necessarily $\underline{y}$
+
+[del](18)[/del] [del]If, whatever $\underline{z}$ may be, from $\underline{z}$ [del]would[/del] [ins]necessarily[/ins] follow $\underline{y}$, then $\underline{y}$ is $\underline{x}$[/del]
+[del]If, whatever $\underline{z}$ may be, from $\underline{z}$ will follow[/del]
+
+(18) If $\underline{y}$ be such that, whatever $\underline{z}$ may be, from $\underline{z}$ would follow $\underline{y}$,

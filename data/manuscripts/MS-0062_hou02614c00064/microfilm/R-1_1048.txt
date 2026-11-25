@@ -1,0 +1,107 @@
+[fig]horizontal line with marked intervals and binary digits[/fig]
+
+Long Div [del]53[/del] [ins]53[/ins]/[del]512[/del] [ins]512[/ins]
+[del]11[/del] 56.125
+53/128) [del]56[/del] [ins]56[/ins].125
+[del]424[/del] 512/512
+4.925
+
+449
+
+[fig]long division layout with binary digits[/fig]
+0 0 0 1 1 1 1 0 0 0 1 1 0 1 1 1 1 1 0 0 0 0 0 0 0 1
+1 1 0 1 0 1 0 0 0 [u]0[/u]
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+1 1 0 0 0 1 1 1 1
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+1 0 1 0 1 1 1 0 1
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+1 1 1 1 1 1 0 0 1
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+1 1 0 0 0 1
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+1 0 1 0 0 1 1 1 1
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+1 1 0 1 1 0 1
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+1 1 0 1 1 0 0 1 1
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+1 1 0 1 0 0 1 0 1
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+1 1 0 0 0 1 0 0 1
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+1 0 1 0 1 0 0 0 1
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+1 1 1 1 0 0 0 0 1
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+
+[u]right[/u]
+
+44
+
+Rule when Ar. Co. is
+not used.
+If left-hand most place
+in which remainder &
+divisor differ has 1
+in remainder, first [del]figure[/del] [ins]place[/ins]
+of divisor goes under [del]same[/del] [ins]place as first of [del]remainder[/del] [ins]divisor[/ins][/ins]
+Otherwise, divisor goes to right.
+
+Rule when Ar. Sup. & coirclatrigls are
+used: When highest place (ie. place of highest
+number) in which remainder & modified
+divisor agree has 1 in it, [del]it goes to left of
+divisor. But when it has 0 in it, again
+left hand most place of divisor goes under[/del] [ins]the number of figures of remainder[/ins]
+
+[del]only 1 figure of the[/del] [ins]each[/ins]
+Comparing the
+[del]remainder[/del] [ins]dividend[/ins]
+with the introverted
+[del]divisor[/del] [ins]divisor, figure by figure[/ins]
+
+[fig]binary calculation columns[/fig]
+1 1 1 1 0 0 1
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+1 1 0 0 0 1
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+1 0 1 0 0 1 1 1 1
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+1 1 0 1 1 0 1
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+1 1 0 1 1 0 0 1 1
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+1 1 0 1 0 0 1 0 1
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+1 1 0 0 0 1 0 0 1
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+1 0 1 0 1 0 0 0 1
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+1 1 1 1 0 0 0 0 1
+- 0 0 0 1 1 1 1 1 0 0 0 [u]0[/u]
+
+1 0 0 0 1 1 0 1 1 1 1 1 0 0 0 0 0 0 0 1
+1 1 1 1 1 1
+1 1 0 0 0 0 0 0 0 1
+
+[del]of the remain-[/del]
+[del]der & dividend[/del]
+[del]before adopt-[/del]
+[del]ing[/del]
+
+Setting the
+If by corresponding figures
+of the remainder-dividend
+and of the introverted divisor
+we mean figures an equal number
+of places to the right of [del]the[/del] [ins]on the one hand[/ins] the
+sinistreme significant figure
+of the [del]dividend[/del] remainder-dividend
+[del]on the one hand and[/del] of
+and on the other hand of the figure
+next to the right of the engine 1 of
+[del]introverted[/del] divisor, then the sinistreme
+of the corresponding figures that agree [del]being both[/del] 1 or both 0 denotes the number of places by which
+[del]consequently the[/del] introverted divisor must be placed to left of [del]the[/del] [ins]the[/ins]

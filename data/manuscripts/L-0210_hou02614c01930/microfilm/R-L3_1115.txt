@@ -1,0 +1,39 @@
+[marginalia]
+✓ Milford Pa [date]1903 Dec 24[/date] [ins]10 5[/ins] ✓ V_2
+[/marginalia]
+
+My dear Mr. Huntington:
+
+Here is the "tedious" proof of the distributive principle to which I referred Am: J. Math. III 33.
+
+By (3) $a \prec c$
+" " $b \prec c$
+
+[1] $\therefore$ by (2) $a \cdot c \prec b \cdot c \prec c$
+
+By (3) $a \prec a$ and by (4) $a \prec a+b$ $\therefore$ $a \cdot c \prec a+b$
+" " $b \prec b$ and " " $b \prec a+b$ $\therefore$ $b \cdot c \prec a+b$
+
+[2] $\therefore$ by (2) $a \cdot c + b \cdot c \prec a+b$
+
+from [1] and [2] by (2) $a \cdot c + b \cdot c \prec (a+b) \cdot c$
+
+Now if [del]$(a+b) \cdot c \prec a+b \cdot c$[/del] [ins]$(a+b) \cdot c \prec a \cdot c + b \cdot c$[/ins] (That is if $a+b \cdot c \bar{\prec} a \cdot c + b \cdot c$)
+
+there must be something, $m$, such that
+$m \prec (a+b) \cdot c$
+while $m \bar{\prec} a \cdot c + b \cdot c$
+
+[3] from [3] by (3) $m \prec a+b$
+[4] " " " $m \prec c$
+[5] from [4] by p 28 (19) $a+b \cdot c \prec \bar{m}$
+[6] whence by p 33 (3) $a \prec \bar{m}$
+and by p 28 (11) $m \prec \bar{a}$
+
+[7]
+
+[marginalia]
+This follows from the Dictum de omni
+That is, it is part of the definition of the copula $\prec$ that if $y \prec z$ either $y \bar{\prec} 0$ or there is something $x$ such that $x \prec y$ and $x \bar{\prec} z$ [marginalia]this is so even if $y \bar{\prec} 0$[/marginalia]
+Remember so if $y \bar{\prec} y$
+[/marginalia]

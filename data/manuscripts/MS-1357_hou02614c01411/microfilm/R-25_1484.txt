@@ -1,0 +1,39 @@
+[pn]1[/pn]
+
+[del]S6 Uniform[/del]
+
+[fig]Sketch of a suspension bridge structure with cables and vertical load[/fig]
+
+Imagine a bridge to receive an additional load [ins]$\delta w$[/ins] at a point.
+This increase all the values of $w$ above that point and
+leaves the rest as functions of $s$ undisturbed.
+
+It directly increases the vertical pressure on one
+tower by [del]the amount[/del] $\delta w$ and it shifts pressure
+from this tower to the other by increasing $H$ to $H + \delta H$
+
+[fig]Curve showing a single upward-sloping line[/fig] [fig]Small diagram with intersecting lines and a circle[/fig] [fig]U-shaped curve[/fig]
+
+$\omega = Q (\tan \tau - \tan \tau_0)$
+$\omega_N - \omega = Q (\tan \tau_N - \tan \tau)$
+
+[fig]U-shaped curve with a tangent line[/fig]
+
+[fig]U-shaped curve with a horizontal line at the bottom[/fig]
+
+$w = [del]Q[/del] [ins]$+ \Delta Q$[/ins] (\tan \tau_n - \tan \tau_{n-1})$
+
+[fig]Two overlapping U-shaped curves[/fig]
+
+$\omega_H = - Q \tan \tau_0$
+$\omega_N - \omega_H = + Q \tan \tau_N$
+
+[fig]Two intersecting curved lines[/fig]
+
+[fig]Geometric diagram of a suspension cable with vertical lines[/fig]
+
+[del]$x_N \omega_H = (x_N - \xi_N) \omega_N$[/del]
+$\omega_H = \left( \frac{x_N - \xi_N}{x_N} \right) \omega_N$
+
+$- \frac{\xi_N}{x_N} \tan \tau_0 = \left( x_N - \xi_N \right) \tan \tau_N$
+$\frac{\xi_N}{x_N} \frac{\omega_H}{Q} = \left( x_N - \xi_N \right) \frac{\omega_N - \omega_H}{[del]Q[/del]}$

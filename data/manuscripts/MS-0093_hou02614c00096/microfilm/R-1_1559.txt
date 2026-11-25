@@ -1,0 +1,323 @@
+[pn]46[/pn] [pn]47[/pn]
+
+$$\frac{2 \cdot 4 \cdot \cdot \cdot 2x}{3 \cdot 5 \cdot \cdot \cdot (2x-1)} = \pi^{\frac{1}{2}} x^{\frac{1}{2}} \left(1 + \frac{1}{8x} \cdot\cdot\cdot\right)$$
+
+$$x! = \sqrt{2\pi} \ x^{x+\frac{1}{2}} e^{-x} \left(1 + \frac{1}{12x} + \frac{1}{288x^2} - \text{etc}\right)$$
+
+$$\frac{2 \cdot 4 \cdot 6 \cdot \cdot \cdot 2x}{(2x)!} = \frac{2^{x+\frac{1}{2}} \sqrt{\pi} \ x^{x+\frac{1}{2}} e^{-x} \left(1 + \frac{1}{12x} + \frac{1}{288x^2} - \text{etc}\right)}{\sqrt{2\pi} \ (2x)^{2x+\frac{1}{2}} e^{-2x} \left(1 + \frac{1}{24x} + \frac{1}{1152x^2} - \text{etc}\right)}$$
+
+$$\frac{3 \cdot 5 \cdot \cdot \cdot (2x-1) = 2^{x+\frac{1}{2}} x^x e^{-x} \left( \frac{1 + \frac{1}{24x} + \frac{1}{1152x^2} - \text{etc}}{1 + \frac{1}{12x} + \frac{1}{288x^2} - \text{etc}} \right)}{= 2^{x+\frac{1}{2}} x^x e^{-x} \left( \frac{1}{1 + \frac{1}{24x} + \frac{1}{1152x^2}} \right)}$$
+
+$$\left( 1 + \frac{a}{x} + \frac{b}{x^2} \right) \left( 1 + \frac{1}{2} \frac{a}{x} + \frac{1}{2} \frac{b}{x^2} \left( 1 - \frac{1}{2} \frac{a}{x} \right) \right)$$
+
+[marginalia]
+$$\begin{array}{r}
+3) \frac{288}{96} \\
+\frac{192}{} \\
+\frac{1}{144} - \frac{1}{192} \\
+\frac{3}{576} - \frac{4}{576}
+\end{array}$$
+[/marginalia]
+
+$$\left( 1 + \frac{a}{x} + \frac{b}{x^2} \right) \left( 1 + \frac{\frac{1}{24x} + \frac{1}{1152x^2}}{1 + \frac{1}{12x} + \frac{1}{288x^2}} \right)$$
+
+$$\begin{array}{r}
+- \frac{1}{2} \frac{a}{x} - \frac{3}{4} \frac{b}{x^2} \\
+- \frac{1}{2} \frac{a}{x} - \frac{1}{2} \frac{a^2}{x^2} \\
+\hline
+\frac{1}{2} \left( a^2 - \frac{3}{2} b \right) \frac{1}{x^2}
+\end{array}$$
+
+$$\frac{1 + \frac{1}{12x} + \frac{1}{288x^2} \left( 1 + \frac{1}{24x} \right)}{1 - \frac{1}{24x} + \frac{1}{1152x^2}}$$
+
+$$\frac{+ \frac{1}{24x} + \frac{3}{4} \frac{1}{288x^2}}{+ \frac{1}{24x} + \frac{1}{2} \frac{1}{288x^2}}$$
+
+$$\frac{1}{2} \frac{1}{288x^2} = \frac{1}{10 \cdot \frac{1}{24} \cdot \frac{1}{288x^2}}$$
+
+[marginalia]
+$$\begin{array}{r}
+\frac{3}{576} = \frac{1}{192} \\
+\frac{8}{144} = \frac{1}{18} \\
+\frac{8}{192} = \frac{1}{24} \\
+\frac{3}{192} = \frac{1}{64}
+\end{array}$$
+$$\begin{array}{r}
+12 \cdot 3 \cdot 16 \\
+\frac{48}{96} \\
+\frac{576}{1152}
+\end{array}$$
+$$\begin{array}{r}
+(3x)! \\
+\frac{3^x \cdot x! \cdot 2^x \cdot x!}{3}
+\end{array}$$
+$$\begin{array}{r}
+1 \cdot 2 \cdot 3 \\
+\hline 3
+\end{array}$$
+$$\begin{array}{r}
+4 \cdot 5 \cdot 6 \\
+\hline 6
+\end{array}$$
+$$\begin{array}{r}
+7 \cdot 8 \cdot 9 \\
+\hline 9
+\end{array}$$
+$$\begin{array}{r}
+288 \\
+\frac{1152}{}
+\end{array}$$
+[/marginalia]
+
+$$\frac{2 \cdot 4 \cdot 6 \cdot \cdot \cdot 2x}{3 \cdot 5 \cdot \cdot \cdot (2x-1)} = \pi^{\frac{1}{2}} x^{\frac{1}{2}} \frac{1}{2} \left( \frac{1 - \frac{1}{8x} - \frac{5}{1152x^2}}{1 + \frac{1}{8x} + \frac{1}{128x^2}} \right)$$
+
+$$\left( 1 + \frac{1}{12} x + \frac{1}{2(12)^2} x^2 \right) \left( 1 + \frac{1}{2 \cdot 12x} + \frac{1}{8(12)^2 x^2} \left( 1 - \frac{1}{8 \cdot 12x} \right) \right)$$
+
+$$\frac{1 + \frac{1}{12x} + \frac{1}{2(12)^2 x^2}}{1 + \frac{1}{12x} + \frac{3}{8(12)^2 x^2}}$$
+
+$$\frac{- \frac{1}{2 \cdot 12x} - \frac{3}{8 \cdot 12^2 x^2}}{- \frac{1}{2 \cdot 12x} - \frac{1}{2 \cdot 12^2 x^2}}$$
+
+[marginalia]
+$$\begin{array}{r}
+24) \frac{288}{24} \\
+\frac{48}{2}
+\end{array}$$
+$$\begin{array}{r}
+\frac{3}{2 \cdot 128} \\
+\frac{96}{192}
+\end{array}$$
+$$\frac{1}{144}$$
+[/marginalia]
+
+$$\begin{array}{r}
+288 \\
+\frac{42.9}{34.3} \\
+\frac{3.0}{80}
+\end{array}$$
+
+$$1875$$
+
+$$\left( 1 - \frac{1}{4} y + \frac{1}{8} y^2 \right) \left( 1 + 4 + \frac{1}{2} y^2 \left( 1 + \frac{3}{4} y + \frac{9}{4} y^2 \right) \right)$$
+
+$$\frac{1 - \frac{1}{4} y + \frac{1}{8} y^2}{\frac{3}{4} + \frac{3}{8} y^2}$$
+
+$$\frac{\frac{3}{4} - \frac{3}{4} y^2}{\frac{9}{8} y^2}$$
+
+$$1 + \frac{1}{8x} + \frac{1}{128x^2}$$
+
+[marginalia]
+$$\begin{array}{r}
+\frac{5}{8} \\
+12) \frac{144}{16} \\
+\frac{8}{128}
+\end{array}$$
+$$\begin{array}{r}
+.125 = \frac{1}{8} \\
+.0625 = \frac{1}{16} \\
+.03125 = \frac{1}{32} \\
+.015625 = \frac{1}{64} \\
+.0078125 = \frac{1}{128}
+\end{array}$$
+$$\begin{array}{r}
+2^{18} \\
+\hline 11 \cdot 13 \cdot 17 \cdot 19 \\
+3010300
+\end{array}$$
+[/marginalia]
+
+$$3.14159$$
+
+$$(x+1)^2 =$$
+
+$$\begin{array}{r}
+0.4971408 \\
+\underline{0.2485704}
+\end{array}$$
+
+$$\begin{array}{r}
+24 \\
+\frac{13}{8}
+\end{array}$$
+
+$$\begin{array}{r}
+125 \\
+\hline 1.1328125 \\
+.001953125 \\
+\underline{.0625} \\
+1.064453125
+\end{array}$$
+
+$$\begin{array}{r}
+19 \\
+\underline{19} \\
+209 \\
+\underline{627} \\
+2717 \\
+\underline{8151} \\
+5434 \\
+\underline{46189}
+\end{array}$$
+
+[marginalia]
+$$\begin{array}{r}
+2 \\
+3 \\
+\hline 5 \\
+6 \\
+\hline 9
+\end{array} \begin{array}{r}
+15 \\
+105 \\
+945
+\end{array}$$
+$$\begin{array}{r}
+3200 \\
+\frac{2}{4} \frac{2}{8} \frac{2}{16} \\
+\frac{3}{5} \frac{3}{7} \frac{3}{9}
+\end{array}$$
+$$\begin{array}{r}
+3010300 \\
+\underline{6989700} \\
+3494850 \\
+\underline{2485704} \\
+5980554 \\
+\underline{0108562} \\
+0.6089116 \\
+\underline{79} \\
+4.072974
+\end{array}$$
+$$\begin{array}{r}
+1.025 \\
+\underline{0003125} \\
+1.0253125
+\end{array}$$
+$$1 + \frac{1}{80} + \frac{1}{12800}$$
+$$\begin{array}{r}
+1.0125 \\
+\underline{.000078125} \\
+1.012578125
+\end{array}$$
+[/marginalia]
+
+$$\begin{array}{r}
+\frac{1050}{105} \\
+\frac{945}{}
+\end{array}$$
+
+$$\begin{array}{r}
+63 \\
+126 \\
+189 \\
+252 \\
+315 \\
+378 \\
+441 \\
+504 \\
+567 \\
+630
+\end{array}$$
+
+$$\begin{array}{r}
+0.7485704 \\
+\underline{0.0054288} \\
+0.7539992 \\
+5.675436 \\
+5.675464
+\end{array}$$
+
+$$\begin{array}{r}
+238 \\
+\underline{42}
+\end{array}$$
+
+$$\begin{array}{r}
+1 \\
+2 \\
+3 \\
+4 \\
+5 \\
+11 \\
+13 \\
+15 \\
+17 \\
+19
+\end{array} \begin{array}{r}
+\cdot 2 \\
+2 \cdot 2 \\
+\cdot 2 \\
+4 \cdot 2 \\
+\cdot 2 \\
+\cdot 2 \\
+28 \cdot 2 \\
+\cdot 2 \\
+8 \cdot 2 \\
+9 \cdot 2 \\
+\hline 210 \cdot 2
+\end{array}$$
+
+$$\begin{array}{r}
+1 \\
+2 \\
+3 \\
+4 \\
+5 \\
+6 \\
+7 \\
+8
+\end{array} \begin{array}{r}
+\cdot 2 \\
+\cdot 4 \\
+\cdot 8 \\
+\cdot 16 \\
+\cdot 32 \\
+\cdot 64 \\
+\cdot 128 \\
+\cdot 256
+\end{array}$$
+
+$$\begin{array}{r}
+256 \\
+\underline{256} \\
+65536 \\
+\underline{256} \\
+131072 \\
+\underline{262144} \\
+5.675464
+\end{array}$$
+
+$$\begin{array}{r}
+512 \\
+1024 \\
+\underline{8} \\
+8192 \\
+\underline{8} \\
+65536
+\end{array}$$
+
+$$\begin{array}{r}
+262144 \\
+\underline{230945} \\
+31199 \\
+\underline{297134} \\
+34856 \\
+\underline{323323} \\
+25237 \\
+\underline{230945} \\
+21425 \\
+\underline{184756} \\
+29494 \\
+\underline{277134} \\
+17806
+\end{array}$$
+
+$$\begin{array}{r}
+46189 \\
+92378 \\
+138567 \\
+184756 \\
+230945 \\
+277134 \\
+323323 \\
+369512 \\
+415701 \\
+461890
+\end{array}$$

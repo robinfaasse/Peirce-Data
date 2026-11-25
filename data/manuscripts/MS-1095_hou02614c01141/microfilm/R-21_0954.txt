@@ -1,0 +1,27 @@
+Condition that short pend shall have long period
+is nearly
+
+$$\frac{\sigma - \delta}{\sqrt{\sigma + \sigma}} A > \frac{\sigma + \delta}{\sqrt{\sigma + \sigma}} B$$
+
+Min amp $\varphi_1 = \beta (A - B)$
+
+Max ampl $\varphi_2 = (\sigma - \delta) A + (\sigma + \delta) B = \sigma (A + B) - \delta (A - B)$
+
+[del]Ratio =[/del]
+[del]Min amp $\varphi_1 > \beta \left( \frac{\sigma + \delta}{\sqrt{\sigma + \sigma}} \sqrt{\frac{\sigma + \sigma}{\sigma - \delta}} - 1 \right) B$[/del]
+
+[del]Max amp $\varphi_2$[/del]
+
+Min veloc $\varphi_1 = \beta_1 \left( \frac{A}{\sqrt{\sigma + \sigma}} - \frac{B}{\sqrt{\sigma - \sigma}} \right)$
+
+Max veloc $\varphi_2 = (\sigma - \delta) \frac{A}{\sqrt{ }}$
+
+$$A' = \frac{A}{\sqrt{\sigma + \sigma}} \quad B' = \frac{B}{\sqrt{\sigma + \sigma}}$$
+
+$$(\sigma - \delta) A' > (\sigma + \delta) B' \qquad A'' > B''$$
+
+$$\beta_1 (A' - B') \qquad \beta_1 \left( \frac{A''}{\sigma - \delta} + \frac{B''}{\sigma + \delta} \right)$$
+
+$$(\sigma - \delta) A' + (\sigma + \delta) B' = \sigma (A' + B') - \delta (A' - B')$$
+
+[del]$(\sigma - \delta) A'$[/del]

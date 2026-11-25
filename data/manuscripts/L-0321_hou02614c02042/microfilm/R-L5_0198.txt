@@ -1,0 +1,17 @@
+To every [ins]integer[/ins] [del]number[/del], being the only [ins]integer[/ins] [del]number[/del] that
+is prime to itself. If the prime factors of
+[u]n[/u] are p, q, and r, its totient is [u]n[/u] ([u]p-1[/u]/p)([u]q-1[/u]/q)([u]r-1[/u]/r)
+etc. Remember that 1 is not a factor of
+any number, though it is a divisor of
+every one. The totient of six is one. The
+totient of [u]n[/u] is preferably expressed by T[sub]n[/sub];
+but, in the older books and still frequently, it
+is written [del]$\Phi$[/del] $\phi$[u]n[/u]. But [del]any[/del] [ins]function[/ins] might be
+meant by $\phi$[u]n[/u]. You will readily see for
+yourself [del]that[/del] (if you think it out), that if m
+is prime to n, then m[sup]T[sub]n[/sub][/sup]-1 will be divisible
+by n. At any rate, you will [del]not[/del] fail to
+see that whatever integers m, n, and t may
+represent m[sup]t[/sup]-n[sup]t[/sup] will always be divisible
+by m-n; [del]of[/del] making n=1, m[sup]t[/sup]-1 will
+be divisible by m-1

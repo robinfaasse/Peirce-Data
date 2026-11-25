@@ -1,0 +1,19 @@
+[pn]82[/pn]
+
+[u]Art. 40[/u]
+
+[u]Theorem 22. The product of any whole number by 1 is that number.[/u]
+
+[u]Demonstration[/u]. For suppose this true of any number [u]M[/u]. That is 1 x M = M. Then it is also true of the next higher number M'. That is 1 x M' = M'. For by theorem [blank space] M' = 1 + M now by axiom 8, if 1 x M = M then 1 x (1 + M) = 1 + M. or 1 x M' = M' So that if the proposition is true of any whole number, it is true of the number next greater.
+
+Now, by theorem [blank space], it is true of M = 0. That is 1 x 0 = 0. Hence, it is true of every whole number.
+
+[u]Corollary 13[/u]. In like manner M x 1 = M.
+
+[del]Art. 41[/del]
+
+[u]Theorem 23[/u]. [ins][The Distributive Principle.][/ins] [del]The multiplication of whole numbers is a commu- tative mode of combination[/del] [ins]distributive with respect to addition[/ins]:
+
+[u]Demonstration[/u]. Let L, M, N be any three whole numbers. Then I [del]say[/del] [ins]mean[/ins], first, that L(M+N) = LM + LN, and second, that (L+M)N = LN+MN.
+
+Suppose that the first formula holds when M = P. Then, [del]I say[/del] [del]that[/del] it holds when M = P', where P' is the number next larger than P. For by Theorem 13, P' = 1 + P. Now, by [del]Axiom 8'[/del] [ins]Theorem 14[/ins], (1+P) + N = 1 + (P+N); [del]and by[/del] so that L x (P' + N) = L x [(1+P) + N] = L x [1 + (P+N)]. But by axiom 9, the last expression equals L + L(P+N); and by hypothesis, L(P+N) = LP + LN. Hence, L(P'+N) = L + (LP + LN) or by Theorem 14, L(P'+N) = L + (LP + LN) = (L + LP) + LN. But by Axiom 9, L + LP = L(1+P); [del]Hence[/del] [ins]and by Theorem 13[/ins], 1 + P = P'. Hence, L(P'+N) = LP' + LN. Thus, if the formula holds when M is any whole number, it holds when M is the next greater whole number.

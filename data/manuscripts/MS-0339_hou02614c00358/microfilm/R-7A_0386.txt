@@ -1,0 +1,29 @@
+[fig]Venn diagram with nested circles[/fig]
+$(h \prec x) \prec (x \prec z)$
+$h \prec z + x \prec z$
+[del]$(h \prec x)$[/del]
+$(h \prec x) \prec (h \prec z) \prec (x \prec z)$
+$(h \prec x) (h \prec z) \prec (x \prec z)$
+
+$(h \prec z) (x \prec z) \prec [del]h \prec x[/del]$
+$x \prec y \cdot y \prec z \prec x \prec z$
+$x \prec y \cdot y \prec z \prec x \prec z$
+
+[del]$x \prec y \cdot y \prec z \prec x \prec z$[/del]
+[del]$x \prec y \cdot (y \prec z) \prec x \prec z$[/del]
+[del]$(x \prec y) (y \prec z) \prec (x \prec z)$[/del]
+[del]$(x \prec y) (y \prec z) \prec (x \prec z)$[/del]
+[del]$(x \prec y) (y \prec z) \prec (x \prec z)$[/del]
+$x \prec y \cdot y \prec z = h \prec x$
+$h \prec y$
+
+$x \prec (y \prec z) \prec x \prec z$
+$x \prec y$
+$x \prec y \cdot y \prec z$
+$x \prec y$
+[del]$x \prec y$[/del]
+[fig]Venn diagram with circles labeled x, y, z[/fig]
+[u]Unless you introduce[/u]
+$\begin{array}{|c|} \hline h \prec x \\ x \prec y \\ \hline h \prec y \\ \hline \end{array}$
+$(h \prec z) (x \prec z)$
+$h \prec x + x \prec z$

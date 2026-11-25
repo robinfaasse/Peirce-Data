@@ -1,0 +1,28 @@
+[pn]Ms. 1354[/pn]
+
+[u]Question 1.[/u] In how many ways, with $c$ colors, can a simple chain of $l$ links, be so colored that no two adjacent links are colored alike? [fig]chain of 5 links[/fig]
+
+Let $p_l$ be the number of ways in which [del]the[/del] [ins]first and last[/ins] links are colored [del]alike[/del] [ins]differently[/ins]
+$q_l$ " " " " " " " " " " [ins]alike[/ins]
+
+& write $Ep$ for $p_{l+1}$ $E^2p$ for $p_{l+2}$ etc
+
+$$Ep = q \quad Eq = (c-1)p + (c-2)q$$
+$\therefore \quad E^2p = (c-1)p + (c-2)Ep$
+
+The solution of this is
+$$p = C_1 c (c-1)^{l-1} + C_2 c (-1)^{l-1}$$
+$$p_1 = C_1 c \quad \quad \quad + C_2 c \quad \quad = c \text{ (evidently)}$$
+$$p_2 = C_1 c (c-1) \quad - C_2 c \quad \quad = 0 \text{ (evidently)}$$
+
+$\therefore \quad C_1 c^2 = c \quad C_1 = \frac{1}{c} \quad C_2 = 1 - \frac{1}{c} = \frac{c-1}{c}$
+
+$$p_l = (c-1)^{l-1} + (c-1)(-1)^{l-1} = (c-1) \left[ (c-1)^{l-2} - (-1)^{l-2} \right]$$
+$$q_l = (c-1)(c-1)^{l-1} - (c-1)(-1)^{l-1} = (c-1) \left[ (c-1)^{l-1} - (-1)^{l-1} \right]$$
+
+[del]Question 2.[/del] The whole number of ways is
+$$p_l + q_l = (c-1) \left[ (c-1)^{[del]l-2[/del]} + (c-1)^{l-1} \right] = c(c-1)(c-1)^{l-2} = c(c-1)^{l-1}$$
+
+If $c=0$, $p+q=0$
+if $c=1$ and $l>1$, $p+q=0$ But if $l=1$ $p+q=c$
+if $l=2$ $p+q=c(c-1)$ & $l=3$ $p+q=c(c-1)^2$

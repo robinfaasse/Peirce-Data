@@ -1,0 +1,38 @@
+[pn]13[/pn]
+
+[del]St. Uniform[/del]
+
+[fig]Sketch of a suspension bridge cable with vertical hangers[/fig]
+
+Imagine a bridge to receive an additional load [del]S[/del] [ins]$\delta w$[/ins] at a point.
+This increases all the values of $w$ above that point and
+leaves the rest as functions of $s$ undisturbed.
+
+It directly increases the vertical pressure on one
+tower by [del]the amount[/del] $\delta w$ and it shifts pressure
+from this tower to the other by increasing $H$ to $H + \delta H$
+
+[fig]Sketch of a curved line with a tangent vector[/fig]
+[fig]Small diagram with a vertical line and horizontal ticks[/fig]
+[fig]Sketch of a U-shaped curve[/fig]
+[fig]Sketch of two intersecting curved lines[/fig]
+
+[fig]Sketch of a shallow curve[/fig]
+
+$$\omega = Q (\tan \tau - \tan \tau_0)$$
+$$\omega_N - \omega = Q (\tan \tau_N - \tan \tau)$$
+
+$$w = [del]Q[/del] [ins]$\Delta Q$[/ins] (\tan \tau_n - \tan \tau_{n-1})$$
+
+[fig]Sketch of two intersecting curves[/fig]
+
+$$\omega_H = - Q \tan \tau_0$$
+$$\omega_N - \omega_H = + Q \tan \tau_N$$
+
+[del]$x_N \omega_H = (x_N - \xi_N) \omega_N$[/del]
+$$\omega_H = \left( [del]x_N[/del] [ins]$y_N$[/ins] - \frac{\xi_N}{y_N} \right) \omega_N$$
+
+$$- \xi \tan \tau_0 = (y_N - \xi) \tan \tau_N$$
+$$\frac{\omega_H}{\xi_N} = (y_N - \xi_N) \frac{\omega_N - \omega_H}{[del]x_N[/del]}$$
+
+[fig]Diagram of a suspension bridge cable with coordinates[/fig]

@@ -1,0 +1,26 @@
+(3) $W_n = q_n \sin i_n - q_{n-1} \sin i_{n-1}$
+(4) $q_n \cos i_n = q_{n-1} \cos i_{n-1}$
+
+From the last equation it follows that $q_n \cos i_n$, the horizontal component of the tension, is constant throughout the cord. Call it $Q$, so that
+(5) $Q = q_n \cos i_n$.
+
+Summing successive values of $W_n$ by (3), and supposing $m > n$
+(6) $\begin{aligned} \sum_n^m W &= q_m \sin i_m - q_{n-1} \sin i_{n-1} \\ &= Q (\tan i_m - \tan i_{n-1}). \end{aligned}$
+
+If the weights are all positive, it follows that, if [del]m[/del] [ins]$m > n$[/ins] then $i_m > i_n$.
+
+(7) If $h$ be the number of a stretch that is horizontal
+(8) $\sum_{h+1}^m W = Q \tan i_m$.
+whence, $q_m = \sum_{h+1}^m W \cdot \csc i_m$
+
+(9) There may not really be any such stretch, but if $i_n > 0$, $i_{n-1} < 0$, we may interpose an infinitesimally short [ins]horizontal[/ins] stretch by imagining $W_n$ separated into two parts so that
+$W_n = W'_n + W''_n$
+where
+$W'_n = Q \tan i_n$
+$W''_n = - Q \tan i_{n-1}$.
+
+If, however, all the $i$'s have the same sign, one may make an infinitesimally short horizontal stretch at the lower extremity, by separating the pull of the [del]lower[/del] [ins]first[/ins] into two components.
+The formula will be [del]given[/del] [ins]if $W_0$ be the weight deducted from the first[/ins]
+$W_0 = Q \tan i_0$
+[ins]But if $W_{N+1}$ be deducted from the last lower[/ins]
+$W_{N+1} = - Q \tan i_N$.

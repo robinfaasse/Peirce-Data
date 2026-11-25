@@ -1,0 +1,13 @@
+[fig]3x3 grid with numbers 1, 2, 3, 4 and X, O[/fig] Case 35. The second player occupies the centre. The first player can play in 4 essentially different ways, as numbered in the figure making cases [del]351[/del] [ins]351[/ins], 352, 353, 354[del],[/del]
+
+Case 351. The first player occupies a corner adjoining his square. The second player is obliged to occupy the other corner adjoining the same square. The first player is obliged to occupy the opposite corner. The second player is obliged to occupy the side square between the two corners of the first player. There is no tit-tat-too.
+
+[fig]3x3 grid with X and O marks[/fig]
+
+Case 352. The first player occupies a side square not opposite that he already occupies. If the second player now occupies either corner adjoining an occupied side square there is no tit-tat-too. Otherwise, the first player makes tit-tat-too.
+
+[fig]3x3 grid with X, O and numbers[/fig]
+
+[fig]3x3 grid with X, O and numbers 1 to 6[/fig] Case 353. The first player occupies a corner square adjoining two vacant side squares. The second player has his choice between six plays as numbered in the figure, making cases [del]3531, 3532, 3533, 3534, 3535[/del] [ins]3531, 3532, 3533, 3534, 3535[/ins], 3536
+
+[fig]3x3 grid with X and O marks[/fig] Case 3531. The second player occupies a corner opposite a vacant corner and adjacent to the occupied side square. The first player is obliged to occupy the opposite corner. The second player is obliged to occupy the square between his corners. There is no tit-tat-too.

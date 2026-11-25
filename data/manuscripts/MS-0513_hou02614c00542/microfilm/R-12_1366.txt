@@ -1,0 +1,19 @@
+[pn]93[/pn]
+
+[fig]Algebraic logic formulas[/fig]
+
+In the existential graphs
+[fig]Two existential graphs with loops and letters m and r[/fig]
+
+Let us now see what premises are necessary in order to prove that, taking [del]and[/del] [ins]any[/ins] two characters whatever, whatever object [del]belongs to[/del] [ins]possesses[/ins] one of them is in a one-to-[del]x[/del] [ins]y[/ins] relation to some object possessing the other. That is,
+$$\Pi_{\beta} \Pi_{\gamma} \Sigma_{\alpha} \Pi_{1} \Sigma_{2} \Pi_{3} \Sigma_{4}$$
+$$\bar{q}_{\beta 1} + \bar{r}_{\alpha 1 2}^{\text{M}\dot{a}} \cdot q_{\gamma 2} + \bar{q}_{\gamma 3} + m_{\alpha} \cdot r_{\alpha 3 4} \cdot q_{\beta 4}.$$
+
+[fig]Existential graph with nested loops and letters m, r, q[/fig]
+
+I first assume that whatever characters $\beta$ and $\gamma$ maybe there is some relation $\delta$ such that every object possessing $\beta$ is $\delta$ to every object possessing $\gamma$.
+$$\Pi_{\beta} \Pi_{\gamma} \Sigma_{\delta} \Pi_{1} \Pi_{2} \ \ \bar{q}_{\beta 1} + \bar{q}_{\gamma 2} + r_{\delta 1 2}$$
+
+[fig]Existential graph with nested loops and letters r, q[/fig]
+
+I next use the principle that if one relation exists, then [del]any[/del] [ins]every[/ins] relation which differs from it only in excluding certain pairs, exists.

@@ -1,0 +1,29 @@
+[marginalia]
+[date]1909 May 18[/date] 9 AM
+MEANING
+36
+[/marginalia]
+
+Product from the other. We thus get
+
+[fig]curly bracket grouping the two equations below[/fig]
+1[sup]st[/sup] equation $\times$ 21 $\quad$ $11\cdot 21\ x + 12\cdot 21\ y = 0$
+2[sup]nd[/sup] equation $\times$ 11 $\quad$ $11\cdot 21\ x + 11\cdot 22\ y = 0$
+
+and, by subtraction and division by $y$
+
+$11\cdot 22 - 12\cdot 21 = 0$
+
+He ought to have written this $\left| \begin{matrix} 11, 12 \\ 21, 22 \end{matrix} \right| = 0$. But this [del]pen[/del] [ins]was a later perception[/ins] was reserved for Cauchy. [del]Employing this suggestion of[/del] [del]Employing[/del] [del]this result, he next proceeds to eliminate[/del] [del]these unknowns[/del] [ins]these[/ins] [del]unknowns[/del] from the three equations
+
+$11\ x + 12\ y + 13\ z = 0$
+$21\ x + 22\ y + 23\ z = 0$
+$31\ x + 32\ y + 33\ z = 0$
+
+Firstly,
+
+$\begin{array}{r} 11\cdot (22\ y + 23\ z) \\ - \ 21\cdot (12\ y + 13\ z) \end{array} = \left| \begin{matrix} 11, 12 \\ 21, 22 \end{matrix} \right| y + \left| \begin{matrix} 11, 13 \\ 21, 23 \end{matrix} \right| z = 0$
+
+$\begin{array}{r} 21\cdot (32\ y + 33\ z) \\ - \ 31\cdot (22\ y + 23\ z) \end{array} = \left| \begin{matrix} 21, 22 \\ 31, 32 \end{matrix} \right| y + \left| \begin{matrix} 21, 23 \\ 31, 33 \end{matrix} \right| z = 0$
+
+$\begin{array}{r} 31\cdot (12\ y + 13\ z) \\ - \ 11\cdot (32\ y + 33\ z) \end{array} = \left| \begin{matrix} 31, 32 \\ 11, 12 \end{matrix} \right| y + [fig]vertical line[/fig]

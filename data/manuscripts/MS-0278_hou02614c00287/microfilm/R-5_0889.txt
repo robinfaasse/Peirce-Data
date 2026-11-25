@@ -1,0 +1,42 @@
+$$\frac{d\varphi}{dr} = \frac{1}{\sqrt{(dr)^2 + (dz)^2}}$$
+
+$$\frac{d\theta}{s} = \frac{dr}{\sqrt{(dr)^2 + (dz)^2}}$$
+
+$$\left(\frac{r}{R}\right)^2 + \left(\frac{z - Z}{Z}\right)^2 = 1$$
+
+$$\left(\frac{r}{R}\right)^2 = \frac{z(2Z - z)}{Z^2}$$
+
+$$r = \left(\frac{R}{Z}\right) \sqrt{z(2Z - z)}$$
+
+$$dr = \left(\frac{R}{Z}\right) \frac{Z - z}{\sqrt{z(2Z - z)}} dz$$
+
+$$(dr)^2 = \frac{R^2}{Z^2} \frac{Z^2 - 2Zz + z^2}{2Zz - z^2} (dz)^2 = \left(\frac{R}{Z}\right)^2 \cdot \frac{Z^2 - 2Zz + z^2}{2Zz - z^2} (dz)^2$$
+
+$$\frac{dr^2}{dz^2} = \left(\frac{R}{Z}\right)^2 \left(\frac{Z^2}{2Zz - z^2} - 1\right) (dz)^2$$
+
+$$= \left(\frac{R^2}{z(2Z - z)} - \frac{R^2}{Z^2}\right) (dz)^2$$
+
+$$(dr)^2 = \left(\frac{R^2}{2Zz - z^2} - 1\right) (1 + 2E) (dz)^2$$
+
+Put $\frac{R}{Z} = 1 + E$ and neglect $E^2$
+
+Then $\frac{Z}{R} = 1 - E$
+
+$$\left[\frac{(z - z)^2}{2Zz - z^2} - 2E\right] (dr)^2 = (dr)^2 = (1 + 2E) \frac{Z^2}{2Zz - z^2} - 1 - 2E (dz)^2$$
+
+$$(dr)^2 + (dz)^2 = \left[\frac{Z^2}{2Zz - z^2} + 2E \frac{Z^2 - 2Zz + z^2}{2Zz - z^2}\right] (dz)^2$$
+
+$$= \left[\frac{Z^2}{2Zz - z^2} \left(1 + 2E \left[1 - \frac{2z}{Z} + \frac{z^2}{Z^2}\right]\right)\right] (dz)^2$$
+
+$$(a + bE)^2$$
+$$= a^2 + 2abE$$
+
+$$\sqrt{a^2 + cE} = a + \frac{c}{2a} E$$
+
+$$a \sqrt{1 + \frac{c}{a^2} E} = a \left(1 + \frac{1}{2} \frac{c}{a^2} E\right) = a + \frac{c}{2a} E$$
+
+$$\frac{\sqrt{9 + \frac{2}{1000}}}{9.002} =$$
+
+$$= \frac{Z^2}{2Zz - z^2} \left[1 + 2E \left(1 - \frac{z}{Z}\right)^2\right] (dz)^2$$
+
+$$(dz)^2 = (dr)^2 (1 - 2E) \frac{2Zz - z^2}{Z^2}$$

@@ -1,0 +1,15 @@
+[pn]No. 212[/pn]
+
+[u]A Trade Secret.[/u]
+
+Among the many little dodges that are generally known among professional computers, the following is curious because there is no general mathematical necessity for its working as well as it [del]generally[/del] [ins]usually[/ins] does. I trust my brethren may not inflict the death-penalty upon me for making it public.
+
+Suppose one has to compute values of a function from an infinite series. Then, if the last six terms of the series of which one proposes to take account are [del]$u_{m}, u_{m+1}, u_{m+2}, u_{m+3}, u_{m+4}, u_{m+5}$[/del] [ins]$u_{m}, u_{m+1}, u_{m+2}, u_{m+3}, u_{m+4}, u_{m+5}$[/ins], one begins by calculating the five quantities $v_{m}, v_{m+1}, v_{m+2}, v_{m+3}, v_{m+4}$ by the formula
+$$v_{m+n} = \sum u_{m+n} - \frac{u_{m+n}^2}{\Delta u_{m+n}},$$
+that is,
+$$v_{m} = \sum u_{m} - \frac{u_{m}^2}{u_{m} - u_{m+1}}, \quad v_{m+1} = u_{m} + \frac{u_{m+1}^2}{u_{m+1} - u_{m+2}}, \quad v_{m+2} = u_{m} + u_{m+1} + \frac{u_{m+2}^2}{u_{m+2} - u_{m+3}}, \text{etc.}$$
+
+One next calculates three quantities $w_{m}, w_{m+1}, w_{m+2}$ by the formula
+$$w_{m+n} = v_{m+n} - \frac{(\Delta v_{m+n})^2}{\Delta^2 v_{m+n}}$$
+that is,
+$$w_{m} = v_{m} - \frac{(v_{m} - v_{m+1})^2}{v_{m} - 2v_{m+1} + v_{m+2}}, \quad w_{m+1} = v_{m+1} - \frac{(v_{m+1} - v_{m+2})^2}{v_{m+1} - 2v_{m+2} + v_{m+3}}, \text{etc.}$$

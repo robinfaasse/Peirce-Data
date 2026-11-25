@@ -1,0 +1,13 @@
+Logic
+III
+59
+x
+
+same way that [u]z[/u] is true. Thus if [u]x[/u] is true, then if ([u]x[/u][fig]figure[/fig][u]y[/u]) is true, then if ([u]y[/u][fig]figure[/fig][u]z[/u]) is true, [u]z[/u] is true [del]so[/del]. Hence by (64) if [u]x[/u] is true, then if ([u]x[/u][fig]figure[/fig][u]y[/u]) is true ([u]y[/u][fig]figure[/fig][u]z[/u])[fig]figure[/fig][u]z[/u] is true; and in the same way if [u]x[/u] is true, ([u]x[/u][fig]figure[/fig][u]y[/u])[fig]figure[/fig]([u]y[/u][fig]figure[/fig][u]z[/u])[fig]figure[/fig][u]z[/u] is true; and in the same way [u]x[/u][fig]figure[/fig]([u]x[/u][fig]figure[/fig][u]y[/u])[fig]figure[/fig]([u]y[/u][fig]figure[/fig][u]z[/u])[fig]figure[/fig][u]z[/u] is true. Hence by transposition ([u]x[/u][fig]figure[/fig][u]y[/u])[fig]figure[/fig]([u]y[/u][fig]figure[/fig][u]z[/u])[fig]figure[/fig][u]x[/u][fig]figure[/fig][u]z[/u] is true. Hence by (65) if [u]x[/u][fig]figure[/fig][u]y[/u] is true ([u]y[/u][fig]figure[/fig][u]z[/u])[fig]figure[/fig][u]x[/u][fig]figure[/fig][u]z[/u] is true, which is (79). [del]We have here incidentally proved[/del] This is called the Rule of Contraposition. We have here incidentally proved the following:
+
+(80) ([u]x[/u][fig]figure[/fig][u]y[/u])[fig]figure[/fig]([u]y[/u][fig]figure[/fig][u]z[/u])[fig]figure[/fig]([u]x[/u][fig]figure[/fig][u]z[/u]).
+(81) If ([u]x[/u][fig]figure[/fig][u]y[/u][fig]figure[/fig][u]z[/u])[fig]figure[/fig][u]w[/u] is true, then [([u]x[/u][fig]figure[/fig][u]y[/u])[fig]figure[/fig][u]z[/u]][fig]figure[/fig][u]w[/u] is true
+For by (75), if ([u]x[/u][fig]figure[/fig][u]y[/u])[fig]figure[/fig][u]z[/u] is true [u]x[/u][fig]figure[/fig][u]y[/u][fig]figure[/fig][u]z[/u] is true. Hence by contraposition follows (81).
+(82) [[u]x[/u][fig]figure[/fig][u]y[/u][fig]figure[/fig][u]z[/u])[fig]figure[/fig][u]w[/u]] [fig]figure[/fig] [([u]x[/u][fig]figure[/fig][u]y[/u])[fig]figure[/fig][u]z[/u]][fig]figure[/fig][u]w[/u]
+(83) If [([u]x[/u][fig]figure[/fig][u]y[/u])[fig]figure[/fig][u]z[/u]][fig]figure[/fig][u]w[/u] is true then [u]x[/u][fig]figure[/fig]([u]y[/u][fig]figure[/fig][u]z[/u])[fig]figure[/fig][u]w[/u] is true.
+For if [([u]x[/u][fig]figure[/fig][u]y[/u])[fig]figure[/fig][u]z[/u]][fig]figure[/fig][u]w[/u] is true, then [ins]by (65)[/ins] either ([u]x[/u][fig]figure[/fig][u]y[/u])[fig]figure[/fig][u]z[/u] is false, or [u]w[/u] is true. But if ([u]x[/u][fig]figure[/fig][u]y[/u])[fig]figure[/fig][u]z[/u] is false, then, by (64),

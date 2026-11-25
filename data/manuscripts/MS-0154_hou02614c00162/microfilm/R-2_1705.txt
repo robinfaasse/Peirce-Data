@@ -1,0 +1,21 @@
+$$\text{\textcircled{A}} = (Abc)^2 - \frac{1}{4} A^2 [del]x^2[/del]$$
+$$\text{\textcircled{A}} + \text{\textcircled{B}} + \text{\textcircled{C}} = (Abc)^2 + (aBc)^2 + (abC)^2 - \frac{1}{4} (A^2 + B^2 + C^2) x^2$$
+$$\text{\textcircled{A}}^2 = (Abc)^4 - \frac{1}{2} (Abc)^2 A^2 x^2 + \frac{1}{16} A^4 x^4$$
+$$\text{\textcircled{A}}^2 + \text{\textcircled{B}}^2 + \text{\textcircled{C}}^2 = (Abc)^4 + (aBc)^4 + (abC)^4 - \frac{1}{2} \left[ (Abc)^2 A^2 + (aBc)^2 B^2 + (abC)^2 C^2 \right] x^2 + \frac{1}{16} (A^4 + B^4 + C^4) x^4$$
+$$\text{\textcircled{A}} \text{\textcircled{B}} = (Abc)^2 (aBc)^2 - \frac{1}{4} \left[ A^2 (aBc)^2 + B^2 (Abc)^2 \right] x^2 + \frac{1}{16} A^2 B^2 x^4$$
+$$\text{\textcircled{A}} \text{\textcircled{B}} + \text{\textcircled{A}} \text{\textcircled{C}} + \text{\textcircled{B}} \text{\textcircled{C}} = (Abc)^2 (aBc)^2 + (Abc)^2 (abC)^2 + (aBc)^2 (abC)^2$$
+$$\qquad\qquad\qquad - \frac{1}{4} \left[ A^2 (aBc)^2 + A^2 (abC)^2 + B^2 (Abc)^2 + B^2 (abC)^2 + C^2 (Abc)^2 + C^2 (aBc)^2 \right] x^2$$
+$$\qquad\qquad\qquad + \frac{1}{16} \left[ A^2 B^2 + A^2 C^2 + B^2 C^2 \right] x^4$$
+
+$$\text{\textcircled{A}}^3 = (Abc)^6 - \frac{3}{4} (Abc)^4 A^2 x^2 + \frac{3}{16} (Abc)^2 A^4 x^4 - \frac{1}{64} A^6 x^6$$
+$$\text{\textcircled{A}}^3 + \text{\textcircled{B}}^3 + \text{\textcircled{C}}^3 = (Abc)^6 + (aBc)^6 + (abC)^6 - \frac{3}{4} \left[ (Abc)^4 A^2 + (aBc)^4 B^2 + (abC)^4 C^2 \right] x^2$$
+$$\qquad\qquad\qquad + \frac{3}{16} \left[ (Abc)^2 A^4 + (aBc)^2 B^4 + (abC)^2 C^4 \right] x^4 - \frac{1}{64} \left[ A^6 + B^6 + C^6 \right] x^6$$
+$$\text{\textcircled{A}}^2 \text{\textcircled{B}} = (Abc)^4 (aBc)^2 - \frac{1}{4} \left[ (Abc)^4 B^2 + 2 (Abc)^2 (aBc)^2 A^2 \right] x^2 + \frac{1}{16} (aBc)^2 A^4 x^4 - \frac{1}{64} A^4 B^2 x^6$$
+$$\sum \text{\textcircled{A}}^2 \text{\textcircled{B}} = (Abc)^4 (aBc)^2 + (Abc)^4 (abC)^2 + \text{etc}$$
+$$\qquad\qquad - \frac{1}{4} \left[ (Abc)^4 (B^2 + C^2) + \text{etc} + 2 (Abc)^2 (aBc)^2 + (abC)^2 A^2 + \text{etc} \right] x^2$$
+$$\qquad\qquad + \frac{1}{16} \left[ \left( (aBc)^2 + (abC)^2 \right) A^4 + \text{etc} \right] x^4 - \frac{1}{64} \left[ A^4 (B^2 + C^2) + \text{etc} \right] x^6$$
+$$\text{\textcircled{A}} \text{\textcircled{B}} \text{\textcircled{C}} = (Abc)^2 (aBc)^2 (abC)^2 - \frac{1}{4} \left[ A^2 (aBc)^2 (abC)^2 + B^2 (Abc)^2 (abC)^2 + C^2 (Abc)^2 (aBc)^2 \right] x^2 [del]- \frac{1}{64} A^2 B^2 C^2 x^6[/del]$$
+$$\qquad\qquad + \frac{1}{16} \left[ A^2 B^2 (abC)^2 + A^2 C^2 (aBc)^2 + B^2 C^2 (Abc)^2 \right] x^4 - \frac{1}{64} A^2 B^2 C^2 x^6$$
+$$\text{\textcircled{A}}^4 = (Abc)^8 - (Abc)^6 A^2 x^2 + \frac{3}{8} (Abc)^4 A^4 x^4 - \frac{[del]1[/del][ins]1[/ins]}{16} A^6 x^6 + \frac{1}{256} A^8 x^8$$
+$$\text{\textcircled{A}}^2 \text{\textcircled{B}}^2 = (Abc)^4 (aBc)^4 - \frac{1}{2} \left[ (aBc)^4 (Abc)^2 A^2 + (Abc)^4 (aBc)^2 B^2 \right] x^2 + \left[ \frac{1}{16} (aBc)^4 A^4 + \frac{1}{16} (Abc)^4 B^4 + \frac{1}{8} \frac{(Abc)^4}{A^2 B^2} \right] x^4$$
+$$\qquad\qquad - \frac{1}{32} \left[ (aBc)^2 A^4 B^2 + (Abc)^2 A^2 B^4 \right] x^6 + \frac{1}{256} A^4 B^4 x^8$$

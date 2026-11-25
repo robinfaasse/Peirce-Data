@@ -1,0 +1,159 @@
+[pn]Square = Quantity[/pn]
+
+$$\begin{array}{c}
+uG + vAG + wG^{2} \\
++ x + yA + zA^{-1}
+\end{array}$$
+
+$$\begin{array}{rl}
+2ux + (u+w)(y+z) & G \\
++ 2vy + (u+w)(y+z) & AG \\
++ 2wx + (u+z)(y+z) & G^{2}A
+\end{array}$$
+
+$$\begin{array}{rl}
++ u^{2}+v^{2}+w^{2} + x^{2} + 2yz & \\
++ uv+vw+wu + 2xy + z^{2} & A \\
++ uv+vw+wu + 2zx + y^{2} & A^{2}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{Square} = 0 \\
+\qquad 2x(y-z) = (y+z)(y-z) \\
+\qquad 2x = y+z \quad \text{or else } y=z
+\end{array}$$
+
+$$\begin{array}{l}
+\text{Then } (u+v+w)x = 0 \\
+\qquad (u+v+w)y = 0 \\
+\qquad (u+v+w)z = 0 \\
+\text{Either } u+v+w = 0 \quad \text{or } x=y=z=0 \\
+\qquad \qquad \qquad \qquad \text{which is a case of } y=z
+\end{array}$$
+
+$$\begin{array}{l}
+\text{But in this case} \\
+(u+v+w)^{2} + (x+y+z)^{2} = 0 \\
+x+y+z = 0 \\
+\quad x=0 \\
+\quad y=0 \\
+\quad z=0
+\end{array}$$
+
+$$\begin{array}{l}
+(u+v+w)^{2} + (x+y+z)^{2} = x+y+z \\
+2(u+v+w)(x+y+z) = u+v+w
+\end{array}$$
+
+$$\begin{array}{ccc}
+\text{Either} & \text{or} & x+y+z = \frac{1}{2} \\
+u+v+w = 0 & & u+v+w = \pm \frac{1}{2}
+\end{array}$$
+
+$$\begin{array}{l}
+[del]x+y+z=0[/del] \quad x+y+z = 1 \\
+\text{If } u+v+w = 0 \\
+\text{Either } u=0 \ v=0 \ w=0 \\
+\text{or } 2x-y-z = 1 \\
+\qquad 4x^{2} = 1 + y^{2} + z^{2} + 2y + 2z + 2yz
+\end{array}$$
+
+$$\begin{array}{cc}
+\text{If } x+y+z = 0 & \text{If } x+y+z = 1 \\
+x = \frac{1}{3} & x = \frac{2}{3} \\
+y+z = -\frac{1}{3} & \\
+2x(y-z) = (y+z)(y-z) = y^{2}-z^{2}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{Either } y=z \\
+\text{or } 2x-y-z = 1 \\
+\qquad 2u^{2}+2uv+2v^{2} + \frac{1}{9} + 2yz = \frac{1}{3} \\
+\qquad -u^{2}-uv-v^{2} + z^{2} = \frac{1}{3}y \\
+\qquad -u^{2}-uv-v^{2} + y^{2} = \frac{1}{3}z
+\end{array}$$
+
+$$\begin{array}{l}
+\frac{(x-y)(x+y)}{x^{2}+xy-yx-y^{2}}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{Indeed we may} \\
+u+v+w = 0 \\
+x+y+z = 0 \\
+\quad 2x = y+z \\
+\quad -x = y+z \\
+\quad x=0 \ y=-z
+\end{array}$$
+
+$$\begin{array}{l}
+u^{2}+v^{2}+w^{2}-2y^{2} = 0 \\
+uv+vw+wu+y^{2} = 0
+\end{array}$$
+
+$$\begin{array}{l}
+2u^{2}+2uv+2w^{2} \\
+2u^{2}+2uv+2v^{2}-2y^{2} = 0 \\
+u^{2}+uv+v^{2} = y^{2}
+\end{array}$$
+
+$$\begin{array}{l}
+\text{unless } u=v=w=0 \\
+2x = y+z \quad \text{or } y=z \\
+y^{2}+4yz+z^{2} = 0 \quad x^{2}+2y^{2} = 0 \\
+(y+z)^{2} + 8yz = 0 \quad y^{2}+2xy = 0 \\
+y^{2}+10yz+z^{2} = 0 \quad \begin{array}{l}
+y=0 \\
+x=0
+\end{array} \quad \begin{array}{l}
+y=-2x \\
+x=0 \\
+y=0
+\end{array} \\
+yz = 0 \\
+y=0 \text { or } z=0 \\
+z=0 \\
+x=0
+\end{array}$$
+
+$$\begin{array}{l}
+\begin{array}{c|c|c}
+A-A^{2} & AG-G^{2}A & \frac{1}{2}(1-G) \\
+\hline G^{2}A-AG & A^{2}-A & \frac{1}{2}(1-AG) \\
+\hline AG-G^{2}A & A-A^{2} & \frac{1}{2}(1-G^{2}A)
+\end{array} \\
+\begin{array}{l}
+A-A^{2}+AG-G^{2}A \\
+A-A^{2}-AG+G^{2}A \\
+\hline A^{2}-2A \\
+A^{2}-2A
+\end{array} \quad \begin{array}{l}
+-G^{2}A+G \\
++G \\
++G
+\end{array} -AG
+\end{array}$$
+
+$$\begin{array}{l}
+\frac{(1-G)(1-AG)}{A-G} \quad \frac{G-A^{2}}{G+A^{2}} \\
+\frac{1+A-A^{2}-AG}{2A+2A^{2}-2AG}
+\end{array}$$
+
+$$\begin{array}{l}
+\frac{1}{2}(1-G) \quad \frac{1}{2}(1+G) \\
+\begin{array}{c|c|c}
+u & v & w \\
+\hline x & y & z \\
+\hline -u & -w & -v
+\end{array}
+\end{array}$$
+
+$$\begin{array}{l}
++A^{2} \mp AG \\
+(A-G)^{2} \\
+u=x \\
+v=z \\
+y=w
+\end{array}$$
+
+[fig]Square diagram with points[/fig]

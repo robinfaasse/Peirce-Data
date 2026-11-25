@@ -1,0 +1,36 @@
+$$E = \frac{1}{2} m_{\circ} (h_{\circ}^{2} + \gamma_{\circ}^{2}) (D_{t} \theta_{\circ})^{2} + \frac{1}{2} m r^{2} (D_{t} \theta_{\circ})^{2} + m r h \overset{\cos \delta \theta}{\cancel{\cos \theta}} D_{t} \theta_{\circ} (D_{t} \theta) + \frac{1}{2} m (h^{2} + \gamma^{2}) (D_{t} \theta)^{2}$$
+
+$$U = \frac{1}{2} g m_{\circ} h_{\circ} \theta_{\circ}^{2} + \frac{1}{2} g m l \theta_{\circ}^{2} + \frac{1}{2} g [del]m[/del] h \theta^{2} + \frac{1}{2} \varepsilon \theta_{\circ}^{2} + \frac{1}{2} \varepsilon \theta^{2} - \varepsilon \theta_{\circ} \theta$$
+
+$$D_{D_{t} \theta_{\circ}} E = \{ m_{\circ} (h_{\circ}^{2} + \gamma_{\circ}^{2}) + m r^{2} \} D_{t} \theta_{\circ} + m r h D_{t} \theta$$
+
+$$D_{D_{t} \theta} E = m r h D_{t} \theta_{\circ} + m (h^{2} + \gamma^{2}) D_{t} \theta$$
+
+$$[del]D_{D_{t} \theta_{\circ}} D_{D_{t} \theta} E[/del]$$
+
+$$D_{\theta_{\circ}} U = (g m_{\circ} h_{\circ} + g m l + \varepsilon) \theta_{\circ} - \varepsilon \theta$$
+
+$$D_{\theta} U = [del]g m h \theta - \varepsilon[/del] \overset{g m h \frac{1-\omega}{\omega}}{[ins](g m h + \varepsilon)[/ins]} \theta - \varepsilon \theta_{\circ}$$
+
+$$(A G - C^{2}) D^{4} + ([del]A H +[/del] B G - 2 C E) D^{2} + (B H - E^{2}) = 0$$
+$$\text{I} \qquad\qquad\qquad\qquad\qquad\qquad \mathcal{N} \qquad\qquad\qquad\qquad\qquad \mathcal{A}$$
+
+$$4 L^{2} D^{4} + 4 L M D^{2} + 4 L N = 0$$
+
+$$[del](2 L D^{2} + M)^{2} =[/del] \sqrt{M^{2} - 4 L N}$$
+
+$$D^{2} = \frac{1}{2 L} \left\{ - M \pm M \sqrt{1 - \frac{4 L N}{M^{2}}} \right\}$$
+
+$$= \frac{M}{2 L} \left( - \frac{2 L N}{M^{2}} \right) = - \frac{N}{M}$$
+
+$$D^{2} = - \frac{M}{L}$$
+
+$$[del]N = \{ m_{\circ} (h_{\circ}^{2} + \gamma_{\circ}^{2}[/del] \quad M = \overset{A}{\{ m_{\circ} (h_{\circ}^{2} + \gamma_{\circ}^{2}) + m r^{2} \}} \overset{H}{[del]g m h[/del] (g m h + \varepsilon)} + \overset{G}{m (h^{2} + \gamma^{2})} \overset{B}{g (m_{\circ} h_{\circ} + m (l-h) + r \frac{m h}{\omega})}$$
+$$\qquad\qquad\qquad\qquad + 2 m r h \overset{-E}{[del]g m h[/del]} [del]- 2 g m^{2} h^{2}[/del]$$
+
+$$M \omega = g m h \{ m_{\circ} (h_{\circ}^{2} + \gamma_{\circ}^{2}) + m r^{2} \} + m (h^{2} + \gamma^{2}) + 2 m r h$$
+$$\qquad\qquad\qquad\qquad + \frac{\omega}{h} (h^{2} + \gamma^{2}) \{ m_{\circ} h_{\circ} + m (l-h) \} \quad \text{wrong}$$
+
+$$\mathcal{N} = \overset{B}{g (m_{\circ} h_{\circ} + m (l-h) + \frac{m h}{\omega})} g m h \frac{1}{\omega} - \frac{g^{2} m^{2} h^{2}}{\omega^{2}} \quad \text{wrong}$$
+
+$$\mathcal{N} \omega = g (g m h) \{ m_{\circ} h_{\circ} + m (l-h) \}$$

@@ -1,0 +1,41 @@
+$$a+b \qquad (0 \neq 1 + 0)_{u} = \Pi_{i}\Pi_{j}\ b_{ij} \qquad b+c \begin{cases} \text{all in } b \\ \text{all in } c \end{cases}$$
+[fig]Semicircle divided by a horizontal line[/fig]
+$$b+c \begin{cases} \text{all in } b \\ \text{all in } c \end{cases} \begin{cases} \text{all in } b \\ \text{all in } c \end{cases} \left[ \frac{b}{c} \right] \left[ \frac{c}{b} \right]$$
+
+If $x \prec a+b$
+[del]then[/del] [del]keeping $a$ and $b$[/del]
+$$a(b+c) \prec ab + ac$$
+$$a \cdot \overline{b \cdot c} \qquad \overline{ab} \cdot \overline{ac}$$
+
+[fig]Three overlapping circles labeled a, b, c[/fig]
+[fig]Circle divided into four quadrants with labels[/fig]
+
+[fig]Vertical bar intersecting a horizontal ellipse with labels a, b[/fig]
+$$\frac{ab}{\text{all in } c}$$
+$$(a+b)(a+c) \prec a + b \cdot c$$
+
+If $b+c$ incl $2$ and $4$
+$a$ [del]inc[/del] [ins]in[/ins] $2$
+$ab$ [del]in[/del] [ins]inc[/ins] $2$
+$ac$ incl $2$
+
+[fig]Three overlapping loops with labels a, b, c[/fig]
+[fig]Three overlapping loops with labels a, b, c[/fig]
+
+[del]If $x \prec a+b$[/del]
+then there are two
+[del]$\overline{ax} \quad \overline{bx}$[/del]
+[del]$ax \quad bx$[/del]
+$$a(b+c) = m$$
+$$m \prec b+c$$
+$$b+c \prec b \cdot m + c \cdot m$$
+
+$\equiv a+b \prec ax + bx$
+
+If $x \prec a+b$
+$$x \prec ax + bx$$
+$$a(b+c) \prec b+c$$
+$$a(b+c) \prec a(b+c)b + a(b+c)c$$
+$$\prec ab + ac$$
+$$(\overline{\overline{a} + \overline{b}}) (\overline{\overline{a} + \overline{c}})$$
+$$\overline{\overline{a} + \overline{b} \cdot \overline{c}}$$

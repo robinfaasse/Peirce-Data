@@ -1,0 +1,30 @@
+[pn]13[/pn]
+
+[u]Use of General Formulae in $q_{\alpha}$ and $r_{\alpha}$[/u]
+
+Suppose we have the premise
+$\Pi_{k} (q_{ki} + \overline{q}_{kj})$
+
+Now take the identical formula
+$\Pi_{l} (q_{li} + \overline{q}_{li}) (q_{lj} + \overline{q}_{lj})$.
+
+Introduce into this $q_{mi}$ and $q_{mj}$ in any way thus
+$\Pi_{l} \Sigma_{m} (q_{li} \overline{q}_{mi} + \overline{q}_{li} q_{mi}) (q_{lj} \overline{q}_{mj} + \overline{q}_{lj} q_{mj})$
+
+Multiply by the original premise
+$\Pi_{l} \Sigma_{m} \Pi_{k} (q_{li} \overline{q}_{mi} + \overline{q}_{li} q_{mi}) (q_{lj} \overline{q}_{mj} + \overline{q}_{lj} q_{mj}) (q_{ki} + \overline{q}_{kj})$
+
+By the fifth step
+$\Pi_{l} \Sigma_{m} \Pi_{k} (q_{li} \overline{q}_{mi} + \overline{q}_{li} q_{mi}) (q_{lj} \overline{q}_{mj} + \overline{q}_{lj} q_{mj}) (q_{ki} + \overline{q}_{kj}) [ins](q_{li} + \overline{q}_{lj})[/ins]$
+$= \Pi_{l} \Sigma_{m} \Pi_{k} (q_{li} \overline{q}_{mi} \overline{q}_{mj} q_{mj} \overline{q}_{lj} q_{mi} q_{mj}) (q_{ki} + \overline{q}_{kj})$
+
+Eliminating $m$ [del]again[/del] and $k$
+$\Pi_{l} \Pi_{k} (q_{li} + \overline{q}_{lj}) (q_{ki} + \overline{q}_{kj})$
+$\Pi_{l} (q_{li} q_{lj} + \overline{q}_{li} \overline{q}_{lj})$
+
+Try to do this with the identical formula
+$\Pi_{k} \overline{q}_{kj} + q_{ki}$
+$\Pi_{l} (q_{li} q_{lj} + \overline{q}_{li} \overline{q}_{lj})$
+This does not do.
+
+$q_{li} \overline{q}_{mi} \overline{q}_{mj} q_{lj} + \overline{q}_{li} q_{mi} \overline{q}_{lj} q_{mj} + \overline{q}_{li} q_{mi} \overline{q}_{lj} q_{mj}$

@@ -1,0 +1,32 @@
+[fig]Euler-like nested loop diagram with letters a, b, c[/fig] $(\bar{a} + b \cdot d) [\bar{b} + c ( \bar{d} + a )]$
+$\bar{a} \bar{b} + \bar{a} c \bar{d} + b a$
+
+[fig]Euler-like nested loop diagram with letters a, b, d[/fig] [fig]Euler-like nested loop diagram with letters b, c, d[/fig]
+
+[fig]Euler-like nested loop diagram with letters a, b, c, d[/fig] [fig]Euler-like nested loop diagram with letters a, b, c, d[/fig]
+
+[fig]Euler-like nested loop diagram with letters a, b, c, d[/fig] $b ( c ( d ( a ( \bar{a} [fig]nested loops[/fig]$
+$\bar{b} + c ( \bar{d} + a ( \bar{a} + [del]b d[/del]$
+
+[fig]Euler-like nested loop diagram with letters a, b, c, d[/fig]
+[fig]Euler-like nested loop diagram with letters a, b, c[/fig]
+
+[del]$b + c + d$[/del]
+$a + b c \bar{d}$
+$\bar{b} + c ( \bar{d} + a ( \bar{a} + b d ) )$
+$\bar{b} + c ( \bar{d} + a b d )$
+$\bar{b} + c ( \bar{d} + a b )$
+$\bar{b} + c ( \bar{d} + a )$
+
+[fig]Euler-like nested loop diagram with letters a, b, c[/fig]
+$(\bar{a} + b d) [ \bar{b} + c ( a + \bar{d} ) ]$
+$a \bar{b} + c ( a + \bar{d} ) ( a + b d )$
+[del]$c a + ( \bar{d} + b )$[/del]
+$a \bar{b} + c a$
+$a \cdot ( \bar{b} + c )$
+$\bar{b} + c [ \bar{d} + a ( a + b d ) ]$
+$\bar{b} + c [ \bar{d} + a ]$
+
+[fig]Euler-like nested loop diagram with letters a, b, c, d[/fig]
+
+[fig]Euler-like nested loop diagram with letters a, b, c, d[/fig]

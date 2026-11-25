@@ -1,0 +1,39 @@
+To form
+[del]oo[/del] [ins]o[/ins] [del]x[/del] [ins]x[/ins] [u]x[/u] [u]x[/u]
+
+In every row of the matrix at least
+two are occupied
+
+In every column at least two are
+unoccupied
+
+Of the letters occupying one row at least
+one leaves in its column [del]vacant[/del] [ins]one column vacant[/ins]
+
+Of the letters leaving [del]blanks in[/del] [ins]vacant one column[/ins]
+at least one occupies in its column
+each row.
+
+To form ax[u]x[/u][u]x[/u]
+
+In every row of what otherwise
+is where a occupies any cell
+
+x occupies some column
+and of the rows belonging to these
+columns, every [del]column[/del] [ins]column[/ins] is somewhere vacant
+
+[fig]Directed graph with nodes A, B, C, D and arrows[/fig]
+
+A:B  A:C
+B:C
+C:D
+
+[fig]4x4 grid with some cells containing x or o[/fig]
+
+[fig]Directed graph with nodes and crossed arrows[/fig]
+
+[fig]4x4 grid with cells containing x, o, or blank[/fig]
+
+a = A:B + A:C + B:A + B:D
++ C:B + C:C + D:A + D:D

@@ -1,0 +1,13 @@
+[u]Month[/u]
+
+The sidereal motion of the moon in $365\frac{1}{4}$ days is
+according to Airy $17325593''.9858 + 0''.2164 \left(\frac{t-1800}{100}\right)$
+according to Hansen $17325593''.9731 + 0''.24360 \left(\frac{t-1800}{100}\right)$
+$+ 0''.00036840 \left(\frac{t-1800}{100}\right)^2$
+according to Newcomb $17325593''.6814 + 0''.16640 \left(\frac{t-1800}{100}\right)$
+$+ 0.00036840 \left(\frac{[del]t-1800[/del] [ins]t-1800[/ins]}{100}\right)^2$
+
+Find length of sidereal month in seconds in 1850
+Airy $2360591.468$
+Hansen $2360591.467$
+Newcomb $2360591.513$

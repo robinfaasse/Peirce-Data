@@ -1,0 +1,37 @@
+354
+
+tution of the latter for the former in any part of an expression
+must be without effect upon the value of it, since the value of
+an expression of a given form depends exclusively on the values
+of its parts.
+
+Consequently, if [u]a[/u] has the value [u][ins]v[/ins][/u], its introduction any-
+where as a component cannot change the value of the expression
+into which it is introduced; but if [u]a[/u] has the value [u][ins]f[/ins][/u], and is a
+component, the composite has in any case the value [u][ins]f[/ins][/u], whatever be
+done to the other components. Thus, its introduction as a com-
+ponent of a part of the composite [ins]of[/ins] which it is a component can nev-
+er alter the value.
+
+Corollary. It follows, by XVI, that a quantity having the
+value [u][ins]f[/ins][/u] may be introduced as an aggregant into any part of an as-
+sertion; and further, that any quantity, repeated as an aggre-
+gate of any part of any part of an assertion of which it is an ag-
+gregant, may be omitted in that inner repetition.
+
+Corollary. We may place here the propositions that com-
+position and aggregation are commutative and associative.
+
+Given [u]a[/u] [u]b[/u], we can, by insertion, write [u]b[/u] [u]a[/u] [u]b[/u], for if [u]a[/u] [u]b[/u] is
+[u]v[/u], so is [u]b[/u], and if [u]b[/u] and [u]a[/u] [u]b[/u] are [u]v[/u], so is [u]b[/u] [u]a[/u] [u]b[/u]. [del][ured]But then by[/ured][/del]
+? [del][ured]omission, we get b a. For if b a b is v, so is a b and if a b[/ured][/del]
+Also, if [u]b[/u]·[u]a[/u]·[u]b[/u] is [u]v[/u], so is [u]b[/u];
+[del][ured]is v, so is a. [ins]and if both b and a are v, so is b a.[/ins][/ured][/del]
+
+[del][ured]Again given (a b) c, we get by insertion (b b c) c. For[/ured][/del]
+[del][ured]if (a b) c is v, so is c; and if c is v, b c is v, if b is v;[/ured][/del]
+[del][ured]and if a b c is v if a b is v, and if (a b) c is v, so is (a b c) c[/ured][/del]
+[del][ured]But then by omission we get a b c.[/ured][/del]
+
+[del][ured]Since composition has these properties, so, by XVI has aggre-[/ured][/del]
+[del][ured]gation.[/ured][/del]

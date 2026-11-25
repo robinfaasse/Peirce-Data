@@ -1,0 +1,35 @@
+[u]To find the place of Jupiter[/u]
+
+The mean anomaly for [date]1900 Jan 1[/date] Paris mean noon
+is 224°.64 The mean anomalistic motion
+is 0°.0831 per diem.
+To convert mean into true anomaly, enter
+A with mean and take out equation of the
+centre with [del]B[/del] C
+
+$$\begin{array}{ccccccccc}
+A & B & C & D & \frac{1.31}{\sin A} & \frac{.385}{\sin A} & & & \frac{r}{\Delta} \\
+0^{\circ} & 0 & 0.0 & 0 & 0.0 & 0.0 & 1.192 & 1 & 8 - 11 & .916 \\
+10 & 2.4 & 1.0 & 3 & 0.2 & 0.067 & \begin{array}{c} 1.125 \\ 1.259 \end{array} & 2 & 12 - 19 & \begin{array}{c} .943 \\ .971 \end{array} & .891 \\
+20 & 4.6 & 2.0 & 6 & 0.4 & 0.132 & \begin{array}{c} 1.060 \\ 1.324 \end{array} & 3 & 20 - 32 & \begin{array}{c} 1.000 \end{array} & 869 \\
+30 & 6.6 & 2.9 & 8 & 0.7 & 0.192 & \begin{array}{c} 1.000 \\ 1.384 \end{array} & 4 & 33 - 57 & \begin{array}{c} 1.029 \end{array} & 850 \\
+40 & 8.3 & 3.7 & 10 & 0.8 & 0.248 & \begin{array}{c} 0.944 \\ 1.440 \end{array} & 5 & 58 - 90 & \begin{array}{c} 1.056 \end{array} & 833 \\
+50 & 9.6 & 4.4 & 11 & 1.0 & 0.295 & \begin{array}{c} 0.897 \\ 1.487 \end{array} & & & \begin{array}{c} 1.079 \end{array} & 820 \\
+60 & 10.4 & 4.9 & 11 & 1.1 & 0.333 & \begin{array}{c} 0.859 \\ 1.525 \end{array} & & & \begin{array}{c} 1.098 \end{array} & 810 \\
+70 & 11.0 & 5.3 & 12 & 1.2 & 0.362 & \begin{array}{c} 0.830 \\ 1.554 \end{array} & & & \begin{array}{c} 1.109 \end{array} & 802 \\
+80 & 11.1 & 5.5 & 11 & 1.3 & 0.379 & \begin{array}{c} 0.813 \\ 1.571 \end{array} & & & \begin{array}{c} 1.113 \end{array} & .798 \\
+90 & 10.9 & 5.5 & 11 & 1.3 & 0.385 & \begin{array}{c} 0.807 \\ 1.577 \end{array} & & & & 796 \\
+100 & 10.4 & 5.5 & 10 & 1.3 & & & & & & \\
+110 & 9.6 & 5.3 & 9 & 1.2 & & & & & & \\
+120 & 8.6 & 4.9 & 8 & 1.1 & & & & & & \\
+130 & 7.5 & 4.4 & 7 & 1.0 & & & & & & \\
+140 & 6.2 & 3.7 & 5 & 0.8 & & & & & & \\
+150 & 4.7 & 2.9 & 4 & 0.7 & & & & & & \\
+160 & 3.2 & 2.0 & 3 & 0.4 & & & & & & \\
+170 & 1.6 & 1.0 & 1 & 0.2 & & & & & & \\
+180 & 0.0 & 0.0 & 0 & 0.0 & & & & & &
+\end{array}$$
+
+The longitude of the perihelion is 13°.525
+To find geocentric place enter A with diff of
+Jupiter's and earth's longitude and take out r.

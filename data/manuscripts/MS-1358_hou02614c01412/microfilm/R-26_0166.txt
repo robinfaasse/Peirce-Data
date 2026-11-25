@@ -1,0 +1,34 @@
+Monson's Bridge 1898 Feb 17 [pn]4[/pn]
+
+$\delta y_{3} = \delta s_{2} \cos \vartheta + (S - s_{2}) \sin \vartheta \delta \vartheta$
+$= \delta x_{1} \{ \cos (2\theta - \vartheta) \cos \vartheta + \frac{S - s_{2}}{s_{2}} \sin (2\theta - \vartheta) \sin \vartheta \}$
+$= \delta x_{1} \cos (2\theta - \vartheta)$
+
+$\delta y_{3} = \delta s_{2} \sin \vartheta - (S - s_{2}) \cos \vartheta \delta \vartheta$ [fig]V-shaped checkmark[/fig]
+$= \delta x_{1} \{ \sin \vartheta \cos (2\theta - \vartheta) - \frac{S - s_{2}}{s_{2}} \cos \vartheta \sin (2\theta - \vartheta) \}$ [fig]V-shaped checkmark[/fig]
+$= \delta x_{1} \sin (2\theta - \vartheta)$
+
+Can now form the equations for the unsuspended truss [fig]V-shaped checkmark[/fig]
+
+[fig]Diagram of truss joints[/fig]
+
+[del]$\delta x_{n} = \delta s \cos \theta_{n}$[/del]
+[del]$x_{n} = x_{n-1}$[/del]
+
+$x_{n+\frac{1}{2}} - x_{n} = \frac{1}{2} ds \cos \theta_{n}$  $y_{n+\frac{1}{2}} - y_{n} = \frac{1}{2} ds \sin \theta_{n}$
+
+$x_{n+\frac{1}{2}} - x_{n-1} = ds \cos \theta_{n} + \frac{1}{2} ds \cos \theta_{n-1}$  $y_{n+\frac{1}{2}} - y_{n-1} = ds \sin \theta_{n} + \frac{1}{2} ds \sin \theta_{n-1}$
+
+$x_{n+\frac{1}{2}} - x_{n-\frac{3}{2}} = ds \cos \theta_{n} + ds \cos \theta_{n-1}$ [del]$+ \frac{1}{2} \delta y_{n-1} = ds \cos$[/del]
+
+$-\delta x_{n-\frac{3}{2}} = -ds (\sin \theta_{n} \delta \theta_{n} + \sin \theta_{n-1} \delta \theta_{n-1})$
+$= -ds (\sin \theta_{n} - \cos \theta_{n} \tan \theta_{n-1}) \delta \theta_{n}$
+$= -ds \frac{\sin (\theta_{n} - \theta_{n-1})}{\cos \theta_{n-1}} \delta \theta_{n}$
+
+$y_{n+\frac{1}{2}} - y_{n-\frac{3}{2}} = ds \sin \theta_{n} + ds \sin \theta_{n-1}$
+
+$0 = -\delta y_{n-\frac{3}{2}} = ds (\cos \theta_{n} \delta \theta_{n} + \cos \theta_{n-1} \delta \theta_{n-1})$
+
+$\delta \theta_{n-1} = - \frac{\cos \theta_{n}}{\cos \theta_{n-1}} \delta \theta_{n}$
+
+$\delta \theta_{n} - \delta \theta_{n-1} = (1 + \frac{\cos \theta_{n}}{\cos \theta_{n-1}}) \delta \theta_{n}$

@@ -1,0 +1,28 @@
+Notation co-vertical
+$a, b, c$ three edges of tetrahedron
+$A, B, C$ the opposite edges
+$(ABC)$ area of triangle $ABC$ etc
+$x$ altitude to $ABC$ as base.
+
+$\text{\textcircled{A}} = (Abc)^2 - \frac{1}{4} x^2 A^2$ etc
+
+$\sqrt{(Abc)^2 - \frac{1}{4} x^2 A^2} + \sqrt{(aBc)^2 - \frac{1}{4} x^2 B^2} + \sqrt{(abC)^2 - \frac{1}{4} x^2 C^2} = (ABC)$
+
+$\sqrt{\text{\textcircled{A}}} + \sqrt{\text{\textcircled{B}}} = (ABC) - \sqrt{\text{\textcircled{C}}}$
+
+$\text{\textcircled{A}} + \text{\textcircled{B}} + 2 \sqrt{\text{\textcircled{A}}\text{\textcircled{B}}} = (ABC)^2 + \text{\textcircled{C}} - 2 \sqrt{\text{\textcircled{C}}} (ABC)$
+
+$2 \sqrt{\text{\textcircled{A}}\text{\textcircled{B}}} + 2 \sqrt{\text{\textcircled{C}}} (ABC) = (ABC)^2 - \text{\textcircled{A}} - \text{\textcircled{B}} + \text{\textcircled{C}}$
+
+$4 \text{\textcircled{A}}\text{\textcircled{B}} + 4 \text{\textcircled{C}} (ABC)^2 + 8 \sqrt{\text{\textcircled{A}}\text{\textcircled{B}}\text{\textcircled{C}}} (ABC) = (ABC)^4 - 2 [\text{\textcircled{A}} + \text{\textcircled{B}} + \text{\textcircled{C}}] (ABC)^2$
+$+ \text{\textcircled{A}}^2 + \text{\textcircled{B}}^2 + \text{\textcircled{C}}^2 - 2 \text{\textcircled{A}}\text{\textcircled{B}} - 2 \text{\textcircled{A}}\text{\textcircled{C}} - 2 \text{\textcircled{B}}\text{\textcircled{C}}$
+
+$64 \text{\textcircled{A}}\text{\textcircled{B}}\text{\textcircled{C}} (ABC)^2 = (ABC)^8 - 4 [\text{\textcircled{A}} + \text{\textcircled{B}} + \text{\textcircled{C}}] (ABC)^6$
+$+ [6 \text{\textcircled{A}}^2 + 6 \text{\textcircled{B}}^2 + 6 \text{\textcircled{C}}^2 + 4 \text{\textcircled{A}}\text{\textcircled{B}} + 4 \text{\textcircled{A}}\text{\textcircled{C}} + 4 \text{\textcircled{B}}\text{\textcircled{C}}] (ABC)^4$
+$+ [-4 \text{\textcircled{A}}^3 - 4 \text{\textcircled{B}}^3 - 4 \text{\textcircled{C}}^3 + 4 \text{\textcircled{A}}^2 \text{\textcircled{B}} + 4 \text{\textcircled{A}}^2 \text{\textcircled{C}} + 4 \text{\textcircled{A}}\text{\textcircled{B}}^2 + 4 \text{\textcircled{B}}^2 \text{\textcircled{C}} + 4 \text{\textcircled{A}}\text{\textcircled{C}}^2 + 4 \text{\textcircled{B}}\text{\textcircled{C}}^2$
+$- [del]40[/del] \text{\textcircled{A}}\text{\textcircled{B}}\text{\textcircled{C}}] (ABC)^2$
+$+ [\text{\textcircled{A}}^2 + \text{\textcircled{B}}^2 + \text{\textcircled{C}}^2 - 2 \text{\textcircled{A}}\text{\textcircled{B}} - 2 \text{\textcircled{A}}\text{\textcircled{C}} - 2 \text{\textcircled{B}}\text{\textcircled{C}}]^2$
+
+$\text{\textcircled{A}}^4 + \text{\textcircled{B}}^4 + \text{\textcircled{C}}^4 + 6 \text{\textcircled{A}}^2 \text{\textcircled{B}}^2 + 6 \text{\textcircled{A}}^2 \text{\textcircled{C}}^2 + 6 \text{\textcircled{B}}^2 \text{\textcircled{C}}^2$
+$- 4 \text{\textcircled{A}}^3 \text{\textcircled{B}} - 4 \text{\textcircled{A}}^3 \text{\textcircled{C}} - 4 \text{\textcircled{A}}\text{\textcircled{B}}^3 - 4 \text{\textcircled{B}}^3 \text{\textcircled{C}} - 4 \text{\textcircled{A}}\text{\textcircled{C}}^3 - 4 \text{\textcircled{B}}\text{\textcircled{C}}^3$
+$+ 8 \text{\textcircled{A}}^2 \text{\textcircled{B}}\text{\textcircled{C}} + 8 \text{\textcircled{A}}\text{\textcircled{B}}^2 \text{\textcircled{C}} + 8 \text{\textcircled{A}}\text{\textcircled{B}}\text{\textcircled{C}}^2$

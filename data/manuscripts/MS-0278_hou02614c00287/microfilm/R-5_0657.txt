@@ -1,0 +1,19 @@
+[fig]Graph showing two intersecting curves, one dashed and one solid[/fig]
+
+The rate at which the mill receives energy is
+$$\pm k (u - D_t x)^3$$
+with whichever sign makes this quantity positive; that is it is $+$ if $u - D_t x > 0$ [ins]$\frac{1 - 0^{(u - D_t x)}}{1 + 0^{(u - D_t x)}}$[/ins]
+
+The pressure on the ship from the air
+$$\pm (K + k) (u - D_t x)^2$$
+which has also the same sign as $u - D_t x$
+
+[marginalia]That is if $u$ is large positive & $D_t x$ small positive it accelerates ship[/marginalia]
+
+The difference [ins]?[/ins] between this and $M D_t^2 x$ or
+$$M D_t^2 x \mp (K + k) (u - D_t x)^2$$
+is the force which [del]has[/del] [ins]is[/ins] to be exerted by the mill to keep the ship moving as does move, and this multiplied by the $D_t x$ is the rate at which mill does work on [del]ship's[/del] [ins]ship &[/ins] leaves available
+
+So there remains in the mill
+$$\left[ M D_t^2 x \mp (K + k) (u - D_t x)^2 \right] (D_t x)$$
+$$\pm k (u - D_t x)^3 - \left[ M D_t^2 x \mp (K - k) (u - D_t x)^2 \right] (D_t x)$$

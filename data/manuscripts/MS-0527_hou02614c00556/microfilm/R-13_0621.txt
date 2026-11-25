@@ -1,0 +1,34 @@
+ways. Thus, we may write that for every $a$ there is a $b$, in the first place, thus:
+$$\Sigma_i \Pi_j \Sigma_h \Pi_i \{ \bar{a}_i + b_j r_{jai} (\bar{r}_{jah} + \bar{a}_h + 1_{ih}) \}.$$
+But, by an icon analogous to the eleventh, we have
+[ins]3.3[/ins] $$\Pi_u \Pi_\beta \Sigma_\gamma \Pi_u \Pi_v (r_{uav} \bar{r}_{uyv} + r_{u\beta v} \bar{r}_{uyv} + \bar{r}_{uav} \bar{r}_{u\beta v} r_{uyv}).$$
+From this, by means of an icon analogous to the tenth, we get the general formula
+$$\Pi_u \Pi_\beta \Sigma_\gamma \Pi_u \Pi_v \{ r_{uav} r_{u\beta v} \bar{r}_{uyv} + \bar{r}_{uyv} (\bar{r}_{uav} + \bar{r}_{u\beta v}) \}.$$
+For $r_{u\beta v}$ substitute $a_u$ and multiply by the formula the last but two. Then, identifying $u$ with $h$ and $v$ with $j$, we have
+$$\Sigma_i \Pi_j \Sigma_h \Pi_i \{ \bar{a}_i + b_j r_{jai} (\bar{r}_{jah} + 1_{ih}) \}$$
+a somewhat simpler expression. However, the best way to express such a proposition is to make use of the letter $c$ as a token of a one-to-one correspondence. That is to say, $c$ will be defined by the three formulæ, [ins]x[/ins]
+$$\Pi_a \Pi_u \Pi_v \Pi_w (\bar{c}_a + \bar{r}_{uav} + \bar{r}_{uaw} + 1_{vw})$$
+$$\Pi_a \Pi_u \Pi_v \Pi_w (\bar{c}_a + \bar{r}_{uaw} + \bar{r}_{vaw} + 1_{uv})$$
+$$\Pi_a \Sigma_u \Sigma_v \Sigma_w (c_a + r_{uav} r_{uaw} 1_{vw} + r_{uaw} r_{vaw} 1_{uv}).$$ [ins]x[/ins]
+Making use of this token, we may write the proposition we have been considering in the form
+$$\Sigma_a \Pi_i \Sigma_j c_a (\bar{a}_i + b_j r_{jai}).$$ [ins]x[/ins]
+
+[pn]402[/pn] In an appendix to his memoir on the logic of relatives, [ins]x[/ins] DeMorgan enriched the science of logic with a new kind of inference, the syllogism of transposed quantity. DeMorgan was one of the best logicians that ever lived and unquestionably the father of the logic of relatives. Owing, however, to the imperfection of his theory of relatives, the new form, as he enunciated it, was a down-right paralogism, one of the premises being omitted. But this being supplied, the form furnishes a good test of the efficacy of a logical notation. The following is one of DeMorgan's examples:
+
+Some $X$ is $Y$,
+For every $X$ there is something neither $Y$ nor $Z$;
+Hence, something is neither $X$ nor $Z$.
+
+The first premise is simply
+$$\Sigma_a x_a y_a.$$
+The second may be written
+$$\Sigma_a \Pi_i \Sigma_j c_a (\bar{x}_i + r_{jai} \bar{y}_j \bar{z}_j).$$
+From these two premises, little can be inferred. To get the above conclusion it is necessary to add that the class of $X$'s is a finite collection; [ins]x[/ins] were this not
+
+[marginalia]
+[u][Trans. Cambridge Philosophical Society, vol x, ([date]1864[/date]) pp. 355-358][/u]
+[u]Lib. p. 356[/u]
+[ins]531,[/ins]
+x Cf. Principia Mathematica
+x See 4.
+[/marginalia]

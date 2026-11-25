@@ -1,0 +1,19 @@
+[pn]Logic III 58[/pn]
+
+[pn](73)[/pn] Either [u]x[/u]~[u]y[/u] is true, or [u]x[/u]~[u]y[/u] is true.
+For if [u]x[/u] is true, by (66), [u]x[/u]~[u]y[/u] is true, and if [u]x[/u] is false, by (67), [u]x[/u]~[u]y[/u] is true.
+
+[pn](74)[/pn] If [u]x[/u]~[u]x[/u]~[u]y[/u] is true, [u]x[/u]~[u]y[/u] is true.
+For by (65) is [u]x[/u]~[u]x[/u]~[u]y[/u] is true, either [u]x[/u] is false or [u]x[/u]~[u]y[/u] is true, and if [u]x[/u] is true, [del]either is false or y is true[/del]
+But by (67) if [u]x[/u] is false [u]x[/u]~[u]y[/u] is true. Hence, (74). That is, a [del]repeated[/del] repetition of an antecedent is of no effect; for by (66) if [u]x[/u]~[u]y[/u] is true, [u]x[/u]~[u]x[/u]~[u]y[/u] is true; so that [u]x[/u]~[u]y[/u] and [u]x[/u]~[u]x[/u]~[u]y[/u] are equivalent.
+
+[del][pn](75)[/pn] If (x~y)~x is true, y~x is true.[/del]
+
+[pn](75)[/pn] [u]x[/u] ~ ([u]x[/u]~[u]y[/u])~[u]y[/u]
+For, by (69), ([u]x[/u]~[u]y[/u])~[u]x[/u]~[u]y[/u], whence, by transposition (73)
+
+[pn](76)[/pn] If [u]x[/u] is true, ([u]x[/u]~[u]y[/u])~[u]y[/u] is true.
+This follows from (75) by (65)
+
+[pn](77)[/pn] If [u]x[/u] and ([u]x[/u]~[u]y[/u]) are true, [u]y[/u] is true.
+This follows from (76) by (65). This is the modus ponens.

@@ -1,0 +1,40 @@
+[fig]Coordinate axes with rotated axes x1, y1[/fig]
+
+[fig]Rotated coordinate axes with projection lines[/fig]
+
+[del]x[/del] [ins]x₁[/ins] = x [del]cos[/del] [ins]cos θ[/ins] - y [del]sin[/del] [ins]sin θ[/ins]
+y₁ = x sin θ + y cos θ
+
+[del]Ex[/del] [ins]x₁y₁[/ins] = (x cos θ - y sin θ)(x sin θ + y cos θ)
+= (x² - y²) sin θ cos θ
++ xy (cos² θ - sin² θ)
+
+[x₁y₁] = ([x²] - [y²]) sin θ cos θ
++ [xy] (cos² θ - sin² θ)
+
+(4A² + 1) sin⁴ θ - (4A² + 1) sin² θ + A² = 0
+sin⁴ θ - sin² θ = - [u]A²[/u] / [u]4A² + 1[/u]
+
+---
+
+z₁ remains coinc with z.
+z₁² = z²
+x₁z₁ = xz cos θ - yz sin θ
+y₁z₁ = xz sin θ + yz cos θ
+x₁² = x² cos² θ - 2xy sin θ cos θ + y² sin² θ
+y₁² = x² sin² θ + 2xy sin θ cos θ + y² cos² θ
+
+[u]1[/u] / [u]2[/u] (x² - y²) sin 2θ + xy cos 2θ = 0
+
+tan 2θ = [u]2[xy][/u] / [u][y²] - [x²][/u]
+
+[marginalia]
+(sin² θ - [u]1[/u] / [u]2[/u])² = [u]1[/u] / [u]4[/u] - [u]A²[/u] / [u]4A² + 1[/u]
+sin² θ = [u]1[/u] / [u]2[/u] ± [u]1[/u] / [u]2[/u] √[u]1[/u] / [u]4A² + 1[/u]
+[/marginalia]
+
+[u]1[/u] / [u]2[/u] tan 2θ = [u]sin θ cos θ[/u] / [u]cos² θ - sin² θ[/u] = [u]1[/u] / [u]cot θ - tan θ[/u]
+
+A cos² θ - A sin² θ = sin θ cos θ
+A - 2A sin² θ = sin θ cos θ
+A² - 4A² sin² θ + 4A² sin⁴ θ = sin² θ - sin⁴ θ

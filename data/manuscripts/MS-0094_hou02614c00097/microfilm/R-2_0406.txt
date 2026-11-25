@@ -1,0 +1,66 @@
+[pn]392[/pn]
+
+[pn]80[/pn] PLANE GEOMETRY. [CH. VIII. § 109.
+
+[u]Inscribed Angle.[/u]
+
+And, in general, an inscribed figure is one, all whose [del]angles have their vertices in the circumference of the circle.[/del] [ins]lie on some curve; and if the curve is not mentioned it is generally understood to be a circle.[/ins] In this case the circle is said to be circumscribed about the figure.
+
+[fig]pointing hand[/fig]
+
+[marginalia]
+Definition. A circumscribed figure is one all whose straight lines [del]do[/del] touch some curve, usually understood to be a circle.
+
+Definition. An inscribable polygon is one whose vertices are so placed that a circle may be drawn through them all.
+
+A circumscriptible polygon is one whose sides are such that one circle may touch them all.
+[/marginalia]
+
+107. [del]The[/del] [ins]An[/ins] inscribed angle. [u]BAC[/u] (figs. 47, 48, 49) [del]is has for its measure the half of the arc BC comprehended between its sides[/del] [ins]is measured by half the arc BC[/ins] of the first.
+
+[marginalia]
+Demonstration
+[/marginalia]
+
+[u]Proof[/u]. 1. If one of the sides is a diameter, as AC (fig. 47), [del]O[/del] being the centre of the circle,
+
+Join BO. Then the triangle AOB is isosceles, for the radii AO, BO are equal. Therefore the [del]angles[/del] [ins]angles[/ins] OAB and OBA are equal, and the exterior angle BOC being equal to their sum, by § 71, is equal to the double of either of them, as BAC. BAC is, therefore, half of [del]BOC and has half its measure, or half of BC.[/del] [ins]as large as the angle at the centre subtended by[/ins]
+
+2. If the centre O falls within the angle, as in (fig. 48,)
+
+Draw the diameter AOD; and, by the above, [del]BAD has for its measure half of BD, and DAC half of DC so that BAD + DAC or BAC has for its measure half of BD + DC, or half of BC.[/del] [ins]
+[fig]pointing hand[/fig]
+[u]BAD = [frac]1[/frac] [angle] BOD[/u] and
+[u]CAD = [frac]1[/frac] [angle] COD[/u]
+[angle] BAC = [angle] BAD + [angle] CAD
+= [frac]1[/frac] [angle] BOD + [frac]1[/frac] [angle] COD
+= [frac]1[/frac] [angle] BOC.
+[/ins]
+
+3. If the centre O falls without the angle, as in (fig. 49,)
+
+Draw the diameter AOD; [del]and BAD - DAC, or BAC has for its measure half of BD - DC, or half of BC.[/del]
+
+[marginalia]
+[fig]diagram of angle with diameter inside[/fig]
+[fig]diagram of angle with diameter outside[/fig]
+
+Then,
+[angle] BAD = [frac]1[/frac] [angle] BOD
+[angle] CAD = [frac]1[/frac] [angle] COD
+[angle] BAC = [angle] BAD - [angle] CAD
+= [frac]1[/frac] [angle] BOD - [frac]1[/frac] [angle] COD
+= [frac]1[/frac] [angle] BOC.
+
+[fig]pointing hand[/fig] It is assumed that the diagram is so lettered that [angle] BAD > [angle] CAD
+[/marginalia]
+
+108. Corollary. All the angles BAC, BDC (fig. 50), &c., inscribed in the same segment are equal.
+
+Proof. For they [del]have[/del] [ins]have[/ins] each for their measure the half of the same arc BEC.
+
+109. Corollary. Every angle BAD (fig. 51) inscribed in a semicircle is a right angle.
+
+[marginalia]
+Corollary. Hence, an angle [del]being[/del] [ins]as[/ins] associated with [del]an[/del] [ins]a subtended[/ins] arc [del]about[/del] of a circle having its centre at the vertex as measure of that angle, the [del]arc of a circle through the vertex may be called the double of the measure[/del] [ins]arc of a circle subtended by the angle[/ins] [del]of the angle.[/del]
+[/marginalia]

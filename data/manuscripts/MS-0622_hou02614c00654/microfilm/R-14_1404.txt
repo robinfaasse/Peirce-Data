@@ -1,0 +1,22 @@
+[marginalia]
+[date]1909 May 31[/date] [ins]11:15 AM[/ins]
+MEANING
+[del]Pragmatism[/del]
+[pn]54[/pn]
+[/marginalia]
+
+if $x_{1} = x_{2} = \text{or} = x_{n}$; we have, in such cases,
+are symmetric functions, [del]the[/del] $x_{1} + x_{2} + \dots + x_{n} = n x_{1}$, and not $x_{1}$,
+and [del]$x_{1} \cdot x_{2} \cdot \dots \cdot x_{n}$[/del] $x_{1} x_{2} \dots x_{n} = x_{1}^{n}$ and not $x_{1}$. But the copulate, and the aggregate
+of assertions are meant. For if $A_{1}$, $A_{2}$, etc are assertions, the copulate
+assertion, “$A_{1}$ and $A_{2}$ and $A_{3}$ and etc.,” if $A_{1}$, $A_{2}$, $A_{3}$ etc are all false, is false,
+and if they are all true, is true; and the same is true of [del]the aggregate [ins]or disjunct[/ins] [del]assertions[/del][/del] [ins]“$A_{1}$ or $A_{2}$ or $A_{3}$ etc.[/ins]
+[marginalia]
+[del]Insert here a paragraph which I write in blue on brown on p 56 of this copy[/del]
+[/marginalia]
+The simplest way of expressing these [ins]algebraically[/ins] as means is
+[del]for the copulate[/del] $\bigwedge_{i}^{n} x_{i} = \frac{(x_{1} - \underline{t})(x_{2} - \underline{t}) \dots (x_{n} - \underline{t})}{(\underline{t}' - \underline{t})^{n-1}} + \underline{t}$,
+and [del]$\bigwedge_{i}^{n} x_{i} =$[/del]
+and [del]for the aggregate[/del] $\bigvee_{i}^{n} = \underline{t}' - \frac{(\underline{t}' - x_{1})(\underline{t}' - x_{2})(\underline{t}' - x_{3}) \dots (\underline{t}' - x_{n})}{(\underline{t}' - \underline{t})^{n-1}}$,
+
+The copulate is false if any of its variables is false, while the aggregate is

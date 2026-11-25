@@ -1,0 +1,41 @@
+[del]-xv[/del] | [del]xv² + yuv + uv² + xuz - yzv - y²z + x²y - x²u - x³ + xyu[/del] [ins]+xyu[/ins]
+
+$$\begin{matrix}
+x & y+v & z+u & y+v & z+u \\
+u & -v & v-u & z-y & x-z \\
+v & u-v & -u & x-y & y-z \\
+y & z+v & x+u & y & z+v \\
+z & x+v & y+u & u+y & z
+\end{matrix}$$
+
+$$\begin{matrix}
+x & y+v & z+u & y+v & u+z \\
+u & -v & v-u & z-y & x-z \\
+v & u-v & -u & x-y & y-z \\
+y & z+v & x+u & y & v+z \\
+\begin{matrix} x+u+z \\ +u+v \end{matrix} & \begin{matrix} x+u+z \\ +u+v \end{matrix} & & & 
+\end{matrix}$$
+
+$$(x+y+z+u+v) \left| \begin{matrix}
+1 & 1 & 1 & 1 & 1 \\
+x & y+v & z+u & v+y & u+z \\
+u & -v & v-u & z-y & x-z \\
+v & u-v & -u & x-y & y-z \\
+y & z+v & x+u & y & v+z \\
+1 & 1 & 1 & 1 & 1
+\end{matrix} \right|$$
+
+$$(x+y+z+u+v) \left| \begin{matrix}
+1 & 0 & 0 & 0 & 0 \\
+x & y+v-x & z+u-x & v+y-x & u+z-x \\
+u & -v-u & v-2u & z-y-u & x-z-u \\
+v & u-2v & -u-v & x-y-v & y-z-v \\
+y & z+v-y & x+u-y & 0 & v+z-y
+\end{matrix} \right|$$
+
+$$\begin{matrix}
+y-z-u+v & z-v-x & 0 & u-v+y-x \\
+-x+z-v & & & -u-v \\
+x-y+u & u-2v & x-z+u-v & [del]y-z[/del] [ins]u-v[/ins] \\
+0 & & & v+z-y
+\end{matrix}$$

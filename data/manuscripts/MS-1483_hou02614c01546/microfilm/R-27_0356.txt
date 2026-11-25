@@ -1,0 +1,58 @@
+[fig]T-shaped diagram[/fig] $X_1 + 3 I_1^{-1} + I_1^{-1}$
+$= 2 X_1 + 3 I_1^{-1} + (I_1^0 \text{ II } I_1^{-1})$
+$X \text{ I}_1^0 \text{ II } I_1^{-1} = I_1^{-1} - X_1 = 0$
+
+[fig]Three-legged diagram[/fig] $X_1 + (2m+n) I_1^{-1} + I_1^{2m+n-2}$
+$= (m+n) X_1 + (2m+n) I_1^{-1} + \text{II } (m I_1^0$
+
+[fig]Star diagram[/fig] $X_1 + n I_1^{-1} + I_1^{n-2}$
+$= n X_1 + n I_1^{-1} + \text{II } n I_1^{-1}$
+[del]n-1[/del] $(n-1) - n + 2 = 1 = \text{II } n I_1^{-1}$
+
+[fig]Star diagram with 5 legs[/fig] $X_1 + 3n I_1^{-1} + I_1^{3n-2}$
+$= n X_1 + 3n I_1^{-1} + \text{II } n I_1^{-1}$
+$n-1 - 3n + 2 = \text{II } n I_1^{-1}$
+$= -2n + 1$
+
+[del]$n-1-2n+2$[/del]
+[del]$1-(r-1)n$[/del]
+[del]$= 1-(r-2)n$[/del]
+[del]$= (1-r)n$[/del] $X_1 + rn I_1^{-1} + I_1^{rn-2}$
+$= n X_1 + rn I_1^{-1} + \text{II } n I_1^{-1}$
+
+$\overline{x_1 + 2 I_1^{-1} = 1}$
+$2x_1 + 4 I_1^{-1} - X_0$
+
+| $2-r$ | $1-r$ |
+|---|---|
+| $3-2r$ | $4-2r$ |
+| [del]$4-3r$[/del] | $6-3r$ |
+
+Rule is subtract
+one for every
+contact point at
+$r \ge 2$ contact after
+the first
+
+[del]$X_1 + 2$[/del] [fig]Star diagram[/fig]
+$X_1 + 2(l_1+l_2) I_1^{-1} + [del]I_1[/del] [ins]$I_1^{2(l_1+l_2)-2}$[/ins] $= 1$
+[del]$= 2X_1 + 2(l_1+l_2) I_1^{-1}$[/del]
+$= X_1 + 2(l_1+l_2) I_1^{-1} - 2(l_1+l_2) + 2$
+$= 2X_1 + 2(l_1+l_2) I_1^{-1} + (I_1^{2l_1-2} \text{ II } I_1^{2l_2-2})$
+$X_1 + (I_1^{2l_1-2} \text{ II } I_1^{2l_2-2}) = -2(l_1+l_2) + 2$
+$I_1^{2l_1-2} \text{ II } I_1^{2l_2-2} = -2(l_1+l_2) + 3$
+$= -(2l_1-2) - (2l_2-2) - 1$
+
+$X_1 + 2(l_1+l_2+l_3) I_1^{-1} - 2(l_1+l_2+l_3) + 2$
+$= 3X_1 + 2(l_1+l_2+l_3) I_1^{-1} + (I_1^{2l_1-2} \text{ II } I_1^{2l_2-2} \text{ II } I_1^{2l_3-2})$
+$2X_1 + \text{[del]II[/del] II} = -2(l_1+l_2+l_3) + 2$
+In general $(n-1)X_1 + \text{II} = -2(\Sigma l) + 2$
+$\text{II} = -2(l_1+l_2+l_3) + 4$
+$= -2(\Sigma l) + l$
+$= -(2l_1-2) + (2l_2-2) + (2l_3-2) - 2$
+
+[fig]Arc diagram -1[/fig]
+[fig]Arc diagram -2[/fig]
+$\text{II} = -2 \Sigma l + n + 1$
+$= -\Sigma(2l-2) - n + 1$
+When $l=1$ $\text{II} = \frac{-n+1}{3n+1}$

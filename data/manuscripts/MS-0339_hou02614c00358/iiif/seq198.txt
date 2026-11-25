@@ -1,0 +1,36 @@
+92r
+
+If I had [u]any[/u] relo form of relation
+such that
+[del]x x̌ ≺ x + x̌[/del]
+
+I might have a clue -
+The x it would seem must be a relative aggregate
+Say x = p + q
+[del](p + q) q̌ p̌ ≺ p p̌[/del]. This looks unpromising
+
+It is true that
+p p̌ ≺ p + T p̌
+
+Suppose then we let
+x = ξ + 1
+x̌ = T ξ̌
+x x̌ = (ξ + 1) T ξ̌
+x + x̌ = ξ + 1 + T ξ̌
+
+p + p̌ = (π · T π) + [ (π̌ + 1) + π̆ ]
+{ [del]π (π̌ + 1) + π̆[/del] }
+{ π + [ (π̌ + 1) + π̆ ] }
+
+p p̌ ≺ p | p̌
+≺ p (1 + T) p̌
+≺ p + T p̌
+
+p = π · T π
+p p̌ = (π · T π) [ (π̌ · (π̌ + 1) ]
+≺ π π̌ · π (π̌ + 1) · T π π̌ · π (π̌ + 1)
+p + p̌ = π · T π + π̌ · (π̌ + 1)
+= (π + π̌ ) · π T π + 1
+p̌ = (π̌ + 1) + π̆
+p p̌ = (π · T π) [ (π̌ + 1) + π̆ ]
+= (π · T π) (π̌ + 1) + (π · T π) π̆

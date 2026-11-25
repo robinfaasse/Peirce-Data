@@ -1,0 +1,46 @@
+[marginalia][date]1909
+July
+15[/date]
+10[/marginalia] The formula is (log. meaning the Briggsian logarithm of)
+[u]log n![/u] = [u]1[/u]/2 [(2n+1) log n + log 2 + log [pi]] + log e (-n + [u]B[sub]1[/sub][/u]/1·2·n - [u]B[sub]3[/sub][/u]/3·4·n[sup]3[/sup] + [u]B[sub]5[/sub][/u]/5·6·n[sup]5[/sup] - [u]B[sub]7[/sub][/u]/7·8·n[sup]7[/sup] + etc)
+B[sub]1[/sub] = [u]1[/u]/6, B[sub]3[/sub] = [u]1[/u]/30, B[sub]5[/sub] = [u]1[/u]/42, B[sub]7[/sub] = [u]1[/u]/30, B[sub]9[/sub] = [u]5[/u]/66, B[sub]11[/sub] = [u]691[/u]/2730, B[sub]13[/sub] = [u]7[/u]/6, B[sub]15[/sub] = [u]3617[/u]/510,
+B[sub]17[/sub] = [u]43867[/u]/798, B[sub]19[/sub] = [u]1222277[/u]/2310, etc. The formula must not be used further
+than its successive terms become each smaller than the preceding one.
+
+(
+log n 1·3010299956639812 [ [ins]This is [del]log 1024[/del]/10 = log [sup]10[/sup][root]2[/root][/ins] ]
+log n[sup]3[/sup] 3·9030899869919436
+40 log n 52·041199826559248
+41 log n 53·342229822223229 [del]2[/del] [ [ins]Getting talkative, as usual![/ins] ]
+log 2 0·3010299956639812
+log [pi] 0·4971498726241338[sup]1[/sup]/2
+(41 log 20 + log 2 + log [pi]) 54·1404096905813442[sup]1[/sup]/2
+
+log e 0·43429448190325182765
+
+[u]1[/u]/2 (41 log 20 + log 2 + log [pi]) 27·0702048452906721
+-20 log e -8·68588896380650366
+First Approx[del]imation[/del] 18·3843152072256355
++ [u]1[/u]/240 log e +·0018095603412635
+Second Approx 18·3861247675668990
+- [u]1[/u]/9 · [u]1[/u]/4 · [u]1[/u]/8 · [u]1[/u]/10000 log e - 0·0000001507966951
+Third Approx. 18·3861246167702039
++ [u]1[/u]/150 · [u]1[/u]/7 · [u]1[/u]/9 · [u]1[/u]/2[sup]5[/sup] log e + 0·0000000010771118
+[del]Fourth Approx[/del] 18·3861246168779157
+- [u]1[/u]/350 · [u]1[/u]/7 · [u]1[/u]/3 · [u]1[/u]/2[sup]10[/sup] - 0·0000000000002024
+Fifth Approx 18·3861246168777133
++ [u]1[/u]/105 · [u]1[/u]/11 · [u]1[/u]/33 · [u]1[/u]/2[sup]11[/sup] + 0·0000000000000007
+Sixth Approx 18·3861246168777144
+18·386124616877714
+
+You perceive that anything beyond the first approximation is practically useless, considering
+the essentially rough nature of probability. As a matter of curiosity, I will show how the formula
+works for small numbers.
+
+The solution of a problem in probabilities usually takes the form of a
+development of the binomial theorem, p being the probability of an
+( event, that is, the number of cases of a species, S, divided by the
+number of cases of a genus, G, including that species, and q = 1 - p = [u]G - S[/u]/G
+thus the probability that among [u]n independent[/u] cases of G, - that
+is cases in which one being S has no influence at all upon ano-
+ther being S, the probability that among those [u]n[/u] G's there

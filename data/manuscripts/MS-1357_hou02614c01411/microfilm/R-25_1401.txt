@@ -1,0 +1,29 @@
+[pn]23[/pn]
+
+[u]Report on Line Loads[/u]
+
+Instead of directly differentiating this value of $y_1$, the horizontal and downward pulls can best be obtained by differentiating (8') and (9) thus:
+
+$$2x_1 \frac{\partial x_1}{\partial x_2} + 2y_1 \frac{\partial y_1}{\partial x_2} = 0$$
+$$(x_2-x_1)(1-\frac{\partial x_1}{\partial x_2}) + (y_1-y_2)\frac{\partial y_1}{\partial x_2} = 0$$
+
+Eliminating $\frac{\partial x_1}{\partial x_2}$, we get for the [ins]moment of the[/ins] horizontal pull
+
+(14) $-\frac{\partial y_1}{\partial x_2} = \frac{x_1(x_2-x_1)}{x_2y_1-y_2x_1}$
+
+Similarly, differentiating (8') and (9) relatively to $y_2$, we get the downward pull on 2, thus:
+
+$$2x_1 \frac{\partial x_1}{\partial y_2} + 2y_1 \frac{\partial y_1}{\partial y_2} = 0$$
+$$(x_2-x_1)\frac{\partial x_1}{\partial y_2} + (y_1-y_2)(\frac{\partial y_1}{\partial y_2}-1) = 0$$
+
+[del]Eliminating[/del] [ins]Eliminating[/ins] $\frac{\partial x_1}{\partial y_2}$, we get for the [ins]moment of the[/ins] downward pull on 2
+
+(15) $\frac{\partial y_1}{\partial y_2} = \frac{x_1(y_1-y_2)}{x_2y_1-y_2x_1}$
+
+Putting $x_2-x_1$ in place of $x_1$ and $y_2-y_1$ in place of $y_1$, we get for the [ins]moment of the[/ins] downward pull on 0
+
+$$\frac{(x_2-x_1)y_1}{x_2y_1-y_2x_1}$$
+
+These last two moments sum up to 1, as they should.
+
+A false value of the moment of the horizontal pull, having been assumed, may be used in an endless variety of different ways. For this assumption will be a seventh equation additional to, and inconsistent with, the six equations between

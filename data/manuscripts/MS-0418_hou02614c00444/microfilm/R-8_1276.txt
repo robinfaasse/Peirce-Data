@@ -1,0 +1,32 @@
+[pn]358[/pn]
+
+clear than any other, that we are frequently at a loss
+to translate a relation stated in the present system
+into any other mode of thought without loss of precision
+or perspicuity. But anything which can be rendered
+intelligible without this system is readily enough stated
+with it. For example, to express the following:
+There is a country where each breed of domestic animals
+are brought up upon the milk of the same or another
+breed, although in every country where animals of the
+former breed are not [del]carried[/del] [ins]shipped[/ins] to the country I mean,
+or where animals of the latter breed are not [del]put[/del] [ins]used[/ins] for
+[ins]harder work than[/ins] [del]same purposes as[/del] in that country, the males of
+the former breed are coupled with females of
+the latter.
+
+Let $M_{\alpha u v}$ mean in country $\alpha$, the young of $u$ are nourished on the
+milk of $v$,
+
+$C_{\beta u v}$ in country $\beta$, the males of $u$ are coupled
+with the females of $v$,
+
+$S_{u \alpha \beta}$ animals of breed $u$ are shipped from $\alpha$ to $\beta$,
+
+$P_{v \alpha \beta}$ animals of breed $v$ are used for [ins]harder work[/ins] [del]the same purpose
+in countries $\alpha$ and $\beta$.[/del] in country $\alpha$ than in country $\beta$.
+
+Then, it is obvious that what we took so many
+lines to express pretty confusedly is simply this:
+
+$$\Sigma_{\alpha} \Pi_{u} \Sigma_{v} \Pi_{\beta} \ \ M_{\alpha u v} \cdot (S_{u \alpha \beta} \cdot P_{v \alpha \beta} \ \Psi \ C_{\beta u v}).$$

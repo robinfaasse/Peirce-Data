@@ -1,0 +1,31 @@
+[pn]91[/pn]
+[pn]207[/pn]
+
+The proof is simple enough. If [u]F x[/u] has the value [u]v[/u],
+either [u]x[/u] has the value [u]v[/u], when [u]F x[/u] becomes [u]F v[/u] or [u]x[/u] has the
+value [u]v[/u], so that, in any case, [u]F v[/u] + [u]x[/u] has the value [u]v[/u]; and
+further, either [u]x[/u] has the value [u]v[/u], when [u]F x[/u] becomes [u]F f[/u] or
+[u]x[/u] has the value [u]v[/u], so that, in any case, [u]F f[/u] + [u]x[/u] has the val-
+ue [u]v[/u]. Consequently, if [u]F x[/u] has the value [u]v[/u], the composite
+([u]F v[/u] + [u]x[/u]) , ([u]F f[/u] + [u]x[/u]) has the same value. But if [u]F x[/u] has the
+value [u]f[/u], either [u]x[/u] has the value [u]v[/u], when [u]F x[/u] becomes [u]F v[/u], and
+[u]F v[/u] + [u]x[/u] has the value [u]f[/u], or [u]x[/u] has the value [u]f[/u], when [u]F x[/u] becomes
+[u]F f[/u], and [u]F f[/u] + [u]x[/u] has the value [u]f[/u]. Thus, if [u]F x[/u] has the
+value [u]f[/u], one or other of the components of ([u]F v[/u] + [u]x[/u]) , ([u]F f[/u] + [u]x[/u])
+has the value [u]f[/u], and again ([u]F v[/u] + [u]x[/u]) ([u]F f[/u] + [u]x[/u]) has the same value
+as [u]F x[/u].
+
+Boole's reciprocal problem is to put an expression into a
+form in which a given letter or its negative appears only as a
+component of an aggregant. The solution is
+[u]F x[/u] = ([u]F v[/u]) , [u]x[/u] + ([u]F f[/u]) , [u]x[/u].
+
+[del]340[/del] [ins]301[/ins] We now have to take a step which I first took in my memoir
+dated, [date]1870 Jan. 26[/date].[ins]x[/ins] Let us start from the sixteen asser-
+tions concerning the values of two dichotomic quantities, and
+
+[del]x[/del] [ins]301 A[/ins] [u]Memoirs of the American Academy of Arts and Sciences[/u] IX. pp.
+317 - 378; [ins][u]or[/u][/ins] also with a separate title page and paging of its own,
+the title being [u]Description of a Notation for the Logic of Rela-[/u]
+[u]tives, resulting from an Amplification of the Conceptions of[/u]
+[u]Boole's Calculus of Logic.[/u] My calling De Morgan's logic of

@@ -1,0 +1,126 @@
+[fig]Diagram of six-pointed star with letters a, b, c, d, e, f[/fig] [fig]Diagram of six-pointed star with letters a, b, c, d, e, f[/fig] [fig]Diagram of six-pointed star with letters a, b, c, d, e, f[/fig] [fig]Diagram of six-pointed star with letters a, b, c, d, e, f[/fig] [fig]Diagram of six-pointed star with letters a, b, c, d, e, f[/fig]
+[ins]ab.ce.df[/ins]
+[u]ac.bf.de[/u]
+ab.cf.de
+[u]ac.bd.ef[/u]
+ab.cd.ef
+[u]ac.bf.de[/u]
+ab ce df
+[u]ac bf de[/u]
+ab cf de
+[u]ac bd df[/u]
+
+[fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig]
+ab.cd.ef
+[u]ac.be.df[/u]
+ab.ce.df
+[u]ac.bd.ef[/u]
+ab ce df
+[u]ac bd ef[/u]
+ab cd ef
+[u]ac be df[/u]
+ab cd ef
+[u]ac bf de[/u]
+
+[fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig]
+ab.cd.ef
+[u]ac.bf.de[/u]
+ab.ce.df
+[u]ac.bf.de[/u]
+ab cd ef
+[u]ac be df[/u]
+ab ce df
+[u]ac bd ef[/u]
+ab ef de
+[u]ac bd ef[/u]
+
+[fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig]
+ab.ce.df
+[u]ac.bd.ef[/u]
+ab cf de
+[u]ac be df[/u]
+ab cf de
+[u]ac bd ef[/u]
+ab cf de
+[u]ac be df[/u]
+ab ce df
+[u]ac bf de[/u]
+
+[fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig]
+ab.cf.de
+[u]ac.bd.ef[/u]
+ab cd ef
+[u]ac be df[/u]
+ab ce df
+[u]ac bf de[/u]
+ab cd ef
+[u]ac bf de[/u]
+ab cd ef
+[u]ac be df[/u]
+
+[fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig]
+ab.cd.ef
+[u]ac.be.df[/u]
+ab.ce.df
+[u]ac.bf.de[/u]
+ab cf de
+[u]ac be df[/u]
+ab cf de
+[u]ac bd ef[/u]
+ab ce df
+[u]ac bd ef[/u]
+
+[fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig]
+ab.cf.de
+[u]ac.be.df[/u]
+ab.cd.ef
+[u]ac.bf.de[/u]
+ab cf de
+[u]ac bd ef[/u]
+ab ce df
+[u]ac bd ef[/u]
+ab cd ef
+[u]ac be df[/u]
+
+[fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig] [fig]Diagram of six-pointed star[/fig]
+ab.cd.ef
+[u]ac.bf.de[/u]
+ab ce.df
+[u]ac.bf.ed[/u]
+ab cf de
+[u]ac bd df[/u]
+ab cd ef
+[u]ac bf de[/u]
+
+we got assuming [del]two[/del] [ins]five[/ins] F's: F = ab, [del]F[/del] [ins]E[/ins] = cd, [del]F[/del] [ins]S[/ins] = ef, [del]F[/del] [ins]W[/ins] = [del]ea[/del] [ins]ac[/ins], [del]F[/del] [ins]N[/ins] = bd, [del]F[/del] [ins]L[/ins] = [del]fc[/del] [ins]df[/ins]
+[del]L_2 E = fa.bc[/del] [ins]F_2 N = bc[/ins], F_2 N' = [del]ad[/del] [ins]de[/ins], F'_2 N = [del]bc[/del] [ins]ad[/ins], F'_2 N' = [del]de[/del] [ins]bc[/ins], [del]S'_2 N =[/del] [ins]S'_2 N' =[/ins] [del]df[/del] [ins]ae[/ins], [del]W'_2 N =[/del] [ins]W'_2 N' =[/ins] [del]be[/del] [ins]cf[/ins]
+[del]L_2 N' =[/del] [ins]L'_2 N' =[/ins] [del]ae[/del] [ins]df[/ins], [del]S'_2 N' =[/del] [ins]S'_2 N =[/ins] [del]cf[/del] [ins]be[/ins], [del]W'_2 N' =[/del] [ins]W'_2 N =[/ins] [del]be[/del] [ins]af[/ins], [del]L'_2 N =[/del] [ins]L'_2 N' =[/ins] [del]df[/del] [ins]ce[/ins]
+[del]this[/del] [ins]gives[/ins]
+[del]α = cd.ef, Nα = ca.bf, Eα = fa.bd, Sα = da.be, Wα = ea.bc[/del]
+or, transposing pair 2 of α
+α = cd.fe, N'[sub]α[/sub] = [ins]ab[/ins] ca.be, E'[sub]α[/sub] = [ins]df[/ins] ea.bd, S'[sub]α[/sub] = [ins]fc[/ins] da.bf, W'[sub]α[/sub] = [ins]ce[/ins] [del]fa.bc[/del] [ins]ed[/ins] [ins]fa.be[/ins],
+Now start with any one of these and treat it as a new α,
+N'[sub]α[/sub] = [ins]df[/ins] ca.be, NN'[sub]α[/sub] = [ins]ab[/ins] cd.fe, EN'[sub]α[/sub] = [ins]be[/ins] ed.fa, SN'[sub]α[/sub] = [ins]ce[/ins] ad.fb, WN'[sub]α[/sub] = [ins]ea[/ins] bd.fc
+NN'[sub]α[/sub] = [ins]ae[/ins] cd.fb, EN'[sub]α[/sub] = [ins]df[/ins] bd.fa, SN'[sub]α[/sub] = [ins]cb[/ins] ad.fe, WN'[sub]α[/sub] = [ins]ba[/ins] ed.fc
+Start again with N'[sub]α[/sub] = N'N'[sub]α[/sub] for α.
+N"[sub]α[/sub] = [ins]ae[/ins] cd.fb, NN"[sub]α[/sub] = [ins]df[/ins] ca.eb, EN"[sub]α[/sub] = [ins]fe[/ins] ba.ed, SN"[sub]α[/sub] = [ins]cb[/ins] da.ef, WN"[sub]α[/sub] = [ins]bd[/ins] fa.ec
+N'N"[sub]α[/sub] = [ins]db[/ins] ca.ef, EN"[sub]α[/sub] = [ins]bc[/ins] fa.ed, S'N"[sub]α[/sub] = [ins]cf[/ins] da.eb, W'N"[sub]α[/sub] = [ins]fd[/ins] ba.ec
+
+It will be observed that
+N'[sub]α[/sub], NN'[sub]α[/sub], EN'[sub]α[/sub], SN'[sub]α[/sub], WN'[sub]α[/sub] are collectively equal to
+N'[sub]α[/sub], [del]N'[/del] [ins]N[/ins]'[sub]α[/sub], S'[sub]α[/sub], E'[sub]α[/sub] as likewise are
+N"[sub]α[/sub], NN"[sub]α[/sub], EN"[sub]α[/sub], SN"[sub]α[/sub], WN"[sub]α[/sub] to
+N'[sub]α[/sub], N'[sub]α[/sub], W'N'[sub]α[/sub], S'N'[sub]α[/sub], E'N'[sub]α[/sub].
+We therefore need two more sets, which we get as follows:
+W[sub]α[/sub] = [ins]fd[/ins] ea.cb, N'W[sub]α[/sub] = [ins]ac[/ins] ef.db, E'W[sub]α[/sub] = [ins]ce[/ins] bf.da, S'W[sub]α[/sub] = [ins]eb[/ins] af.dc, W'W[sub]α[/sub] = [ins]ba[/ins] cf.de
+
+W'N"[sub]α[/sub] = [ins]fd[/ins] ba.ce, NW'N"[sub]α[/sub] = [ins]ac[/ins] bf.de, EW'N"[sub]α[/sub] = [ins]cb[/ins] ef.da, SW'N"[sub]α[/sub] = [ins]be[/ins] af.dc, W'W'N"[sub]α[/sub] = [ins]ea[/ins] cf.db
+
+It is now to be noticed that
+WN'[sub]α[/sub] = W'N"[sub]α[/sub], NW'N"[sub]α[/sub] = N[sub]α[/sub], EW'N"[sub]α[/sub] = S'N'[sub]α[/sub], SW'N"[sub]α[/sub] = S'W'[sub]α[/sub], W'W'N"[sub]α[/sub] = E'[sub]α[/sub]
+W[sub]α[/sub] = W[sub]α[/sub], NW[sub]α[/sub] = N'N"[sub]α[/sub], E'W[sub]α[/sub] = S[sub]α[/sub], W'W[sub]α[/sub] = W'N'[sub]α[/sub]
+E'N"[sub]α[/sub] = W'[sub]α[/sub], S'N"[sub]α[/sub] = S[sub]α[/sub], N"[sub]α[/sub] = N'N'[sub]α[/sub]
+N[sub]α[/sub] = N'[sub]α[/sub], E'N'[sub]α[/sub] = E[sub]α[/sub]
+
+Consequently every pair of pentatid synthemes has [del]α = α[/del]
+one [del]monadic[/del] syntheme and only one in common.

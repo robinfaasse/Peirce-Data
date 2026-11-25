@@ -1,0 +1,17 @@
+Hyperbolic geometry
+Synthetic treatment
+
+Suppose sum angles triangle less than $180^{\circ}$
+
+[fig]Right triangle ABC with extended lines to D and E[/fig] Let AB be perpendicular to BC and let A be taken as large as possible to make a triangle ABC. Take CD perpendicular to AC and DE perpendicular to DC. Join AE then
+$\text{DCE} = 90^{\circ} - \text{ACB}$
+$\text{CDE} = 90^{\circ}$
+$\text{CDE} + \text{DCE} + \text{CED} < 180^{\circ}$
+$\therefore \text{CED} < \text{ACB}$ and $\text{ACE} = 180^{\circ} - \text{ACB}$
+$\text{ACE} + \text{AEC} < 180^{\circ}$
+$\text{CAE} > 0^{\circ}$
+Then $\text{EAB} > \text{CAB}$ until $\text{ACB} = 0$
+
+[fig]Triangle with multiple interior lines radiating from one vertex[/fig] [fig]Symmetric double triangle with radiating lines[/fig] Then it is easy to see that the angle between any two lines meeting at $C = 0$
+
+[fig]Triangle with radiating lines from left vertex[/fig] For we build up a series of zero angles to enclose them

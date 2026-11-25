@@ -1,0 +1,33 @@
+[marginalia]
+[pn]6th [del]page[/del] [ins]page 5[/ins][/pn]
+[/marginalia]
+
+[fig]Star diagram with spokes labeled 0 to 5[/fig] Fig. 6.
+
+$0,1,2,3,4,5$, and to attach these to the star, as in Fig 6. Then the couples of these characters will represent each that syntheme that is common to the two hypersynthemes represented by the two characters. The trine of couples of these characters which are at the spoke extremities marked in any one circle of Fig. [del]9[/del] [ins]13/9[/ins] will represent that couple of monads which is common to these three synthemes; for the synthemes that are common to three alien couples of hypersynthemes always have one couple in common. The [del]5[/del] [ins]15/9[/ins] such couples of monads represented by the five circles of Fig. [del]2[/del] [ins]13/9[/ins] (after the spoke extremities are attached to different hypersynthemes) are those 5 couples [del]which[/del] [ins]permutation[/ins] have one monad in common; and therefore the star [del]will[/del] now represents a monad.
+
+To make this clear, let the characters $0,1,2,3,4,5$ be severally attached to the following hypersynthemes
+
+| 0 | 1 | 2 | 3 | 4 | 5 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| ab.cd.ef | ab.cd.ef | ab.cf.de | ab.cf.de | ab.ce.df | ab.ce.df |
+| ac.be.df | ac.bf.de | ac.be.df | ac.bd.ef | ac.bf.de | ac.bd.ef |
+| ad.bf.ce | ad.be.cf | ad.be.cf | ad.bf.ce | ad.bc.ef | ad.be.cf |
+| ae.bd.ef | ae.bc.df | ae.bf.cd | ae.bc.df | ae.bd.cf | ae.bf.cd |
+| af.bc.de | af.bd.ce | af.bd.ce | af.be.cd | af.be.cd | af.bc.de |
+
+[ins]✓[/ins]
+
+Then the star [fig]Star diagram with spokes labeled 0 to 5[/fig] will represent that monad that is common to the common couples of the three synthemes [ins]respectively[/ins] common to $01.23.45$ i.e. $\begin{matrix} \text{ab.cd.ef} \\ \text{ab.cf.de} \\ \text{ab.ce.df} \end{matrix}$ that is the couple $ab$, and to the common couple of the three synthemes respectively common to $05.12.34$ i.e. $\begin{matrix} \text{af.bc.de} \\ \text{af.bd.ce} \\ \text{af.be.cd} \end{matrix}$ that is $af$, and to the common couple of the three synthemes of $02.14.35$ or $\begin{matrix} \text{ac.be.df} \\ \text{ac.bf.de} \\ \text{ac.bd.ef} \end{matrix}$ that is $ac$, and to the common couple of $03.15.24$ or $\begin{matrix} \text{ad.bf.ce} \\ \text{ad.be.cf} \\ \text{ad.bc.ef} \end{matrix}$ that is $ad$, and to the common couple of $04.13.25$ or $\begin{matrix} \text{ae.bd.ef} \\ \text{ae.bc.df} \\ \text{ae.bf.cd} \end{matrix}$ that is $ae$, Now the monad common to $ab, af, ac, ad, ae$ is $a$ which is what this star denotes. Take another
+
+[fig]Star diagram with spokes labeled 0 to 5[/fig] we have $01.25.34 = \begin{matrix} \text{ab.cd.ef} \\ \text{ae.bf.cd} \\ \text{af.be.cd} \end{matrix} = cd$
+
+$02.14.35 = \begin{matrix} \text{ac.be.df} \\ \text{ac.bf.de} \\ \text{ac.bd.ef} \end{matrix} = ac$
+
+$03.12.45 = \begin{matrix} \text{ad.bf.ce} \\ \text{af.bd.ce} \\ \text{ab.ce.df} \end{matrix} = ce$
+
+$04.15.23 = \begin{matrix} \text{ae.bd.ef} \\ \text{ad.be.cf} \\ \text{ab.cf.de} \end{matrix} = cf$
+
+$05.13.24 = \begin{matrix} \text{[del]af.bc.de[/del]} \\ \text{ae.bc.df} \\ \text{ad.bc.ef} \end{matrix} = bc$
+
+Now $cd.ac.ce.cf.bc$ are the 5 exeunts of $c$, which is, therefore, the monad of the star.

@@ -1,0 +1,49 @@
+$$\left(\frac{r}{R}\right)^2 + \left(\frac{z}{Z}\right)^2 = 1$$
+
+$$\frac{r^2}{R^2} = \left(1 - \frac{z}{Z}\right)\left(1 + \frac{z}{Z}\right)$$
+
+Transform making [del]$$x = \frac{Z+3}{Z}$$[/del] $r = \frac{r}{R}$
+
+[del]$$x^2 + (z-1)^2 = 1$$[/del] $Z(z-1) = R$ $r = z$
+
+$x^2 + z^2 - 2z = 0$ [del]$x = 1$ $x +$$[/del]
+
+[del]$x^2 + 2z + 1 = 1 - x^2$[/del] $(2-z)z = x^2$ $(1-z)^2 = $ [del]$1 - x^2$[/del]
+
+[del]$z-1 = \pm\sqrt{1-x^2}$[/del] $x = \sqrt{z(2-z)}$ $x = \sqrt{z(2-z)}$
+
+$$\left(\frac{r}{R}\right)^2 + \left(\frac{z}{Z}\right)^2 = 1$$
+
+$$1 - \left(\frac{z}{Z}\right)^2 = z^2$$
+
+$$1 - z^2 = \left(\frac{z}{Z}\right)^2$$
+
+$z = Z\sqrt{1-z^2}$
+
+Transform making [del]$$\left(-\frac{z}{R}\right)^2 = r \ge 0$$[/del] [del]$$\left(1 - \frac{z}{Z}\right)^2 = z^2$$[/del] $1 - \left(\frac{z}{Z}\right)^2 = z^2$ $z \ge 0$
+
+$r = Rr$ [del]$y = Z$[/del]
+
+$z = Z\sqrt{1-z^2}$ $z \ge 0$
+
+$z = \frac{z-z}{Z}$ $z \ge 1 - z - z$
+
+[del]$y = z'$[/del] [del]$z$[/del]
+
+$z' = 3 + z$
+
+$3 = z' - z$
+
+$$1 - \left(\frac{3}{Z}\right)^2 = 1 - \left(\frac{z'-z}{Z}\right)^2 = 1 - \frac{z'^2 - 2Zz' + z^2}{Z^2}$$
+
+$$\left(\frac{r}{R}\right)^2 = \frac{3(2Z-3)}{Z^2}$$
+
+$$= 2\frac{z'}{Z} - \frac{z'^2}{Z^2}$$
+
+$$= \frac{2Zz' - z'^2}{Z^2} = \frac{z'(2Z-z')}{Z^2}$$
+
+$$\left(\frac{r}{R}\right)^2$$
+
+$$\sqrt{(dr)^2 + (d}$$
+
+[fig]Ellipse with intersecting line[/fig] [fig]Circle with tangent line[/fig]

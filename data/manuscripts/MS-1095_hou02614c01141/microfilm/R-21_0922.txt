@@ -1,0 +1,11 @@
+The period of oscillation is therefore given by the
+equation
+
+$$\frac{T^2}{\pi^2} = \frac{m_0(h_0^2+\gamma_0^2) + m\{(r+h)^2+\gamma^2 - 2h(r+h)\omega\}}{g m_0 h_0 + g m r + g m h - 2 g m h \omega}$$
+
+If we write $gHM$ for the denominator when $\omega$ vanishes,
+and $IHM$ for the numerator, we have
+
+$$\frac{T^2}{\pi^2} = \frac{1}{g} \cdot \frac{IHM - 2[del]h[/del][ins]m[/ins]h(r+h)\omega}{MH - 2mh\omega} = \frac{I}{g} \cdot \frac{1 - 2\frac{m}{M}\frac{h}{H}\frac{r+h}{I}\omega}{1 - 2\frac{m}{M}\frac{h}{H}\omega}$$
+
+$$= \frac{I}{g} \left\{ 1 + 2\frac{m}{M}\frac{h}{H}\left(1 - \frac{r+h}{I}\right)\omega \right\}$$

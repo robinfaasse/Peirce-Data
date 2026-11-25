@@ -1,0 +1,89 @@
+[marginalia]s[/marginalia] [marginalia]u[/marginalia] [marginalia]v[/marginalia] [marginalia]w[/marginalia] [marginalia]t[/marginalia]
+
+[marginalia]T(c-3)[/marginalia]
+
+[marginalia]
+[fig]Three circles connected in a triangle[/fig]
+[/marginalia]
+
+| s | u | v | w | t |
+|---|---|---|---|---|
+| [del]T[/del] | T | T | T | [del]c(c-1)(c-2)(c-3)[/del] |
+| [del]T[/del] | T | T | T | [del]c(c-1)(c-2)[/del] |
+| T | T | T(c-3) | T(c-3) | T(c-3) |
+| T(c-3) | T(c-3) | T(c-3)(c-4) | T(c-3) | T(c-3) |
+| T(c-3)(c-4) | T(c-3) | T(c-3) | T(c-3) | T(c-3)(c-4) |
+| T(c-3) | T(c-3) | T(c-3)(c-4) | T |
+| T(c-3) | T(c-3) | | | T(c-3) |
+| | | | | T(c-3) |
+| | | | | T(c-3) |
+| | | | | T(c-3)(c-4) |
+| | | | | T(c-3)(c-4) |
+| | | | | T(c-3)(c-4) |
+| | | | | T(c-3)(c-4)(c-5) |
+| | | | | T(c-3) |
+| | | | | T(c-3) |
+| | | | | T(c-3) |
+| | | | | T(c-3) |
+| | | | | T(c-3)(c-4) |
+
+[u]
+| T | (c-3) | (c-4) | (c-5) |
+|---|---|---|---|
+| [del]c[/del] | [del]III[/del] | [del]I[/del] | |
+| [del]u[/del] | [del]III[/del] | [del]I[/del] | |
+| [del]v[/del] | [del]III[/del] | | |
+| [del]w[/del] | [del]IIII[/del] IIII | [del]IIII[/del] I | I |
+[/u]
+| 8 | 19 | 9 | 1 |
+
+[fig]Three circles connected in a triangle with labels[/fig]
+
+[u]
+c³ - 3c² + 3c - 1
+c³ - 12c² + 47c - 60
+[/u]
+[u]
+9c² - 44c + 59
+9c² - 63c + 108
+[/u]
+[u]
+19c - 49
+19c - 57
+[/u]
+8
+
+[ins]+ 2[/ins]
+[u]
+3c - 9
+c² - 7c + 12
+[/u]
+c² - 4c + 5
+
+c³ - [del]13[/del] [ins]12[/ins]c² + 47c - 60
+[u]
+6c² - 42c + 72
+[/u]
++ 9c - 27
+
+[ins]+ 2[/ins]
+20
+15
+[u]12[/u]
+47
+
+c³ - 6c² + 14c - 13
+[u]
+13
+[/u]
+57
+
+c-3
+[u]c-4[/u]
+c² - 7c + 12
+[u]c-5[/u]
+c³ - 7c² + 12c
+[u] - 5c² + 35c - 60[/u]
+c³ - 12c² + 47c - 60
+
+c² - 7c

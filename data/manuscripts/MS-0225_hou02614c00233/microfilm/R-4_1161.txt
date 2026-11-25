@@ -1,0 +1,26 @@
+[fig]bracket grouping the four lines below[/fig]
+Dec N. Setting $a+c$
+Dec N Rising $a-c$
+Dec S Setting $a+c'$
+Dec S Rising $a-c'$
+} $e$
+
+$8^{\text{th}}$ Next enter [ins]in[/ins] the table which gives horizontal hour angles for north dec. increased by $\frac{1}{30}$ of the whole. Call this $h'$
+
+$9^{\text{th}}$ Call Dec [del]S[/del] [ins]N[/ins] $= -1$ Rising $= -1$ and add to $e$
+[del]Decs[/del] [del]Setting[/del]
+[del](Decs)[/del] [del](Rising)[/del] $h'$
+
+This is the correct time, For
+$h' - \frac{2}{60} h = h$ Dec N
+$h' - \frac{2}{60} (12^{\text{h}} - h) = 12^{\text{h}} - h$ Dec S
+
+Put $b = $ hourly motion in hours of merid. passage
+$c = (b - \frac{1}{30}) h$
+$c' = 12^{\text{h}} \frac{m}{24} + c$
+
+Hence
+Dec N Setting $a + e + h' = a + bh - \frac{1}{30} h + h + \frac{1}{30} h = a + bh + h$
+" Rising $a - c - h' = a - bh + \frac{1}{30} h - h - \frac{1}{30} h = a - bh - h$
+Dec S Setting $a + c' - h' = a + 12^{\text{h}} \frac{m}{24} + bh - \frac{1}{30} h - 12^{\text{h}} \frac{m}{24} + h + \frac{1}{30} h = a + bh + h$
+" Rising $a - c' + h' = a - 12^{\text{h}} \frac{m}{24} - bh + \frac{1}{30} h + 12^{\text{h}} \frac{m}{24} - h - \frac{1}{30} h = a - bh - h$

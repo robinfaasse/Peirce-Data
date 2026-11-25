@@ -1,0 +1,18 @@
+[pn]9[/pn]
+
+The last three symbols show us that
+$$\overline{\beta}\alpha \prec \delta \quad \gamma\overline{\beta} \prec \delta \quad \beta\gamma\overline{\alpha} \prec \delta \text{ ,}$$
+which give by contraposition
+$$\alpha\overline{\delta} \prec \beta \quad \overline{\beta}\overline{\delta} \prec \overline{\alpha}$$
+$$\gamma\overline{\delta} \prec \beta \quad \overline{\beta}\overline{\delta} \prec \overline{\gamma}$$
+$$\gamma\overline{\delta} \prec \overline{\beta} \quad \overline{\alpha}\overline{\delta} \prec \overline{\gamma} \text{ .}$$
+
+These propositions reduce the symbols to
+
+$$\frac{\alpha\gamma\delta}{\beta} \text{ , } \frac{\gamma\overline{\delta}}{\alpha\beta} \text{ , } \frac{\overline{\gamma}\alpha\delta}{\beta} \text{ , } \overline{\gamma}\alpha\beta\overline{\delta} \text{ , } \overline{\gamma}\ \overline{\alpha}\beta\delta \text{ , } \frac{\overline{\alpha}\overline{\beta}\delta}{\overline{\gamma}} \text{ , } \frac{\overline{\beta}\overline{\gamma}\delta}{\overline{\alpha}}$$
+
+$$\frac{\overline{\alpha}\overline{\beta}\overline{\delta}}{\overline{\gamma}} \text{ , } \frac{\overline{\beta}\alpha}{\overline{\gamma}\overline{\delta}} \text{ , } \frac{\gamma\overline{\beta}}{\overline{\alpha}\overline{\delta}} \text{ , } \frac{\beta\gamma\overline{\alpha}}{\delta} \text{ .}$$
+
+We see that there are [del]two[/del] [ins]3[/ins] bilateral, 6 trilateral, and 2 quadrilateral regions.
+
+In the second case, the succession of regions penetrated is $\frac{\alpha\gamma}{\beta}$ , $\overline{\gamma}\alpha\beta$ , $\frac{\overline{\beta}\alpha}{\overline{\gamma}}$ , $\overline{\alpha}\overline{\beta}\overline{\gamma}$ . The unpenetrated regions are $\overline{\gamma}\overline{\alpha}\beta$ , $\frac{\gamma\overline{\beta}}{\overline{\alpha}}$ , and $\beta\gamma\overline{\alpha}$ . These regions lie together, for we can pass from $\beta\gamma\overline{\alpha}$ to either of the others by a single requalification. But if we interchange $\beta$ and $\delta$, $\alpha$ and $\overline{\alpha}$, we get the last case.

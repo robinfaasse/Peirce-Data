@@ -1,0 +1,34 @@
+1 Inference is [del]the[/del] [ins]substitution[/ins] of one inference for another. We
+write
+$$\begin{array}{c} A \\ \therefore B \end{array} \quad \begin{array}{l} \text{premise} \\ \text{conclusion} \end{array}$$
+
+A substitution in general may be written
+$$\begin{array}{c} m(A) \\ \therefore B \end{array}$$
+where $m$ indicates what sort of substitution is made. We may
+write $\therefore \frac{A}{B}$ as $1 \therefore \frac{A}{B}$ so as to reduce it to the general form.
+
+If we substitute $B$ for $A$ [del]on principle[/del] by substitution $m$, then
+[del]then we may[/del] and substitute $C$ for $B$ by substitution $n$, then
+we have substituted $C$ for $A$ by a combined substitution which
+we may write $nm$. So that,
+If $\begin{array}{c} A \\ m \therefore B \end{array}$ and $\begin{array}{c} B \\ n \therefore C \end{array}$ then $\begin{array}{c} A \\ nm \therefore C \end{array}$
+
+For $mm$ we may write $m^2$. Then we have $1^2 = 1$ In general $m^2$ is
+different from $m$. And $mn$ from $nm$.
+We have generally $\begin{array}{c} A \\ \therefore A \end{array}$ but not generally $m \therefore \begin{array}{c} A \\ A \end{array}$
+
+2. Any series of things joined as $\underbrace{A B C D}$ may be joined by suc-
+cessive junctions of pairs, thus: $\underbrace{\underbrace{A B} \underbrace{C D}}$ without disturbing
+the order of the members and the junction may begin at either
+end. $\underbrace{\underbrace{\underbrace{A B} C} D}$
+
+It follows that any substitution in place of a series of [del]things[/del] [ins]representations[/ins]
+is equivalent to a series of substitutions in place of pairs.
+We have not generally $m \therefore \begin{array}{c} A \\ B \end{array}$ same as $m \therefore \begin{array}{c} B \\ C \end{array}$ but we have $\begin{array}{c} A \\ \therefore B \end{array} = \begin{array}{c} B \\ \therefore C \end{array}$
+
+Every representation may be regarded as a [del]rule[/del] [ins]representation[/ins] that one represen-
+tation may be substituted for another two others (By putting a $1$ as something
+one may always write) [Discuss on this]
+
+If premise is taken problematically for $\therefore \begin{array}{c} A \\ B \end{array}$ we may write $A \prec B$. For
+$m \therefore A \prec B$. For $\begin{array}{c} A \\ \therefore B \end{array} \prec \begin{array}{c} B \\ \therefore C \end{array}$ For $\begin{array}{c} A \\ m \therefore B \end{array} \prec \begin{array}{c} A \\ m \therefore C \end{array}$

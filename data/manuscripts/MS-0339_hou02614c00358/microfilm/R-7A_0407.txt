@@ -1,0 +1,27 @@
+[marginalia]1901 Oct 13[/marginalia] [pn]197c[/pn]
+
+[del]The arithmetic of multitude[/del]
+
+[del]If the m's are as[/del]
+
+[del]If the m's are as few as the n's[/del] [ins]$\Sigma_s \Pi_i \Sigma_k \Pi_l (\bar{m}_i + m_k + \bar{\gamma}_{il} \gamma_{kl})$[/ins]
+
+[u]Addition[/u]
+
+If the x's are [del]equal[/del] [ins]as few as the (m+n)'s[/ins] $\Sigma_g \Sigma_h \Pi_i \Sigma_j \Pi_k [del]l_i[/del] [ins]h_i \bar{l}_i + \bar{g}_i \bar{\psi}_i \bar{\chi}_i[/ins] $+ m_j \gamma_{ij} \bar{\gamma}_{kj} + n_j \psi_{ij} \bar{\psi}_{kj}$
+
+If the (m+n)'s are as few as the x's $\Sigma_x \bar{\Xi}$
+
+$\Sigma_{\phi} \Sigma_{\psi} \Pi_u \Sigma_v \Pi_w \{ \bar{m}_u + \chi_u \gamma_{\phi u v} \cdot (\bar{l}_{uw} + \bar{m}_w + \bar{\gamma}_{\phi wv}) (\bar{m}_w + \bar{\gamma}_{\phi wv}) \}$
+$\cdot \{ \bar{n}_u + \chi'_u \gamma_{\psi u v} \cdot (\bar{l}_{uw} + \bar{n}_w + \bar{\gamma}_{\psi wv}) (\bar{n}_w + \bar{\gamma}_{\psi wv}) \}$
+
+[del]$\bar{m}_u \bar{n}_u + \chi_u \chi'_u (\bar{\gamma}_{\phi u v} \bar{\gamma}_{\psi u v} + \bar{\gamma}_{\phi u v} \bar{\gamma}_{\psi u v})$[/del]
+
+[del]$(\bar{\gamma}_{\phi u v} \bar{\gamma}_{\psi u v} \cdot \bar{\gamma}_{\phi u v} \bar{\gamma}_{\psi u v})$[/del]
+$\Sigma_{\phi} \Sigma_{\psi} \Pi_u \Sigma_v \Pi_w$
+$= \bar{m}_u \bar{n}_u + m_u n_u [del](\bar{\gamma}_{\phi u v} \bar{\gamma}_{\psi u v} \cdot \bar{\gamma}_{\phi u v} \bar{\gamma}_{\psi u v})[/del] [ins](\bar{\gamma}_{\phi u v} \bar{\gamma}_{\psi u v} \cdot \bar{\gamma}_{\phi u v} \bar{\gamma}_{\psi u v})[/ins] \cdot (\bar{l}_{uw} + \bar{m}_w + \bar{\gamma}_{\phi wv})$
+$(\bar{l}_{uw} + \bar{n}_w + \bar{\gamma}_{\psi wv})$
+$+ \bar{m}_u \chi'_u \bar{\gamma}_{\phi u v} \cdot (\bar{l}_{uw} + \bar{m}_w + \bar{\gamma}_{\phi wv})$
+
+$\Sigma_{\phi} \Sigma_{\psi} \Pi_u \Sigma_v \Pi_w \bar{m}_u \bar{n}_u + m_u \bar{\gamma}_{\phi u v} \chi'_u (\bar{l}_{uw} + \bar{m}_w + \bar{\gamma}_{\phi wv}) (\bar{m}_w + \bar{\gamma}_{\phi wv})$
+$+ m_u \gamma_{\psi u v} \chi'_u (\bar{l}_{uw} + \bar{n}_w + \bar{\gamma}_{\psi wv}) (\bar{n}_w + \bar{\gamma}_{\psi wv})$

@@ -1,0 +1,54 @@
+[fig]Diagram of a sphere with a grid pattern[/fig]
+
+[fig]Diagram of a curved cylinder-like shape with grid lines[/fig]
+
+[u]Limitless Space[/u]
+X = 1
+K = 0
+[del]$\Pi$[/del] [ins]$\pi$[/ins] = 0
+A = 0
+[u]      [/u]
+-1
+
+[u]Sphere[/u]
+X = 1
+K = 0
+$\pi$ = 0
+A = [del]0[/del] [ins]2[/ins]
+[u]      [/u]
+-1
+
+[u]Projective Space[/u]
+X = -1
+K = +1
+$\pi$ = -1
+A = -1
+[u]      [/u]
+0
+
+[u]Riemann[/u]
+X of pts 0
+X of lines 0
+K of lines 0
+X of surface 1
+K of surface -2
+$\pi$ of surf 1
+X of solid -2
+K of solid +2
+$\pi$ of solid
+
+X of points 0
+X of lines 0
+K of lines 0
+X of surface 1
+K of surface 0
+$\pi$ of surface [del]1[/del] [ins]$\frac{1}{2}$[/ins]
+
+X of solid -2
+K of solid 0
+$\pi$ of solid 1
+A of solid 0
+[u]      [/u]
+-3
+
+} = -1

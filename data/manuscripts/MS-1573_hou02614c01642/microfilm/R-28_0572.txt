@@ -1,0 +1,24 @@
+[u]I[/u] $\Pi_b \Pi_c (\beta_{cb} + \overline{\gamma_b} + \gamma_c)$
+[u]II[/u] $\Pi_a \Pi_c (\overline{\alpha_{ac}} + \gamma_a + \gamma_c)$
+[u]III[/u] $\Pi_a \Pi_b \Pi_d (\overline{\alpha_{ac}} + \beta_{cb} + \overline{\gamma_a} + \overline{\gamma_c} + \gamma_b)$
+
+I alone gives If Z then Y $\prec$ Z
+[u]IV[/u] If Z then X $\prec$ (Y $\prec$ Z) etc
+
+II alone gives nothing
+III seems to give. If [del]this[/del] [ins]what[/ins] prop. is true, B is true
+$\therefore$ B is true
+
+But this is fallacious
+
+I & II give nothing
+II & III $\Pi_b \Pi_a (\overline{\alpha_{ba}} + \gamma_b + \gamma_a)$
+$\Pi_a \Pi_b \Pi_c (\overline{\alpha_{ac}} + \beta_{cb} + \overline{\gamma_a} + \overline{\gamma_c} + \gamma_b)$
+[u]V[/u] If (B $\prec$ X) $\prec$ B then B
+
+I II [del]III[/del] $\beta_{db} + \overline{\gamma_b} + \gamma_d$
+$\overline{\alpha_{cd}} + \gamma_c + \gamma_d$
+$\overline{\alpha_{ac}} + \beta_{cb} + \overline{\gamma_a} + \overline{\gamma_c} + \gamma_b$ [fig]arrows pointing from the first two lines to the third[/fig]
+[u]VI[/u] If A then (A $\prec$ B) $\prec$ B
+[del]A $\prec$ B $\prec$[/del]
+[del]$\therefore$[/del]

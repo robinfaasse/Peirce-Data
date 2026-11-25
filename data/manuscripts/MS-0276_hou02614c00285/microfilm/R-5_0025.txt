@@ -1,0 +1,64 @@
+[pn]1[/pn]
+
+A fact has probability $p$
+
+[fig]Square divided vertically[/fig]
+
+$p, u$ the fact is so and the witness $U$ would say so
+
+$\bar{p}, u$ the fact is not so but the witness $U$ would say so
+
+$p, \bar{u}$ the fact is but the witness would not say so
+
+$\bar{p}, \bar{u}$ the fact is not so & the witness would not say so
+
+$p, u + \bar{p}, u = p$ the probability of the fact
+
+[del]$\bar{p}, u + \bar{p}, \bar{u} = 1 - p$[/del]
+
+$p, u + p, \bar{u} = u$
+
+$p, \bar{u} + \bar{p}, \bar{u} = 1 - u$
+
+$\frac{A}{B} = \frac{C}{D} \therefore \frac{A}{B} = \frac{C}{D}$
+
+$\frac{mA + nC}{mB + nD} = \frac{mA + nB}{mC + nD}$
+
+[fig]Square divided into four quadrants[/fig]
+
+$\frac{p, q, u}{p, \bar{q}, u} = \frac{\bar{p}, q, \bar{u}}{\bar{p}, \bar{q}, u} = \frac{\frac{1}{2}, \frac{1}{3}, \frac{4}{5}}{\frac{1}{2}, \frac{2}{3}, \frac{4}{5}} = \frac{\frac{4}{15}}{\frac{8}{15}} = \frac{1}{2}$
+
+$\frac{6 \times 15}{14 \times 35} = \frac{6 \times 15_3}{14 \times 35_7}$
+
+$\frac{p, q, u}{p, \bar{q}} = \frac{2, 4}{4, 4}$
+
+$\frac{3}{5} \times \frac{6}{15} = \frac{18}{35}$
+
+$x = 3$ $y = 1$
+
+$\frac{3}{7}$
+
+***
+
+$pq - (1 - p)(1 - q)$
+
+[del]$pq$[/del] $(1 - \bar{p})(1 - \bar{q}) - \bar{p}\bar{q}$
+
+$= 1 - \bar{p} - \bar{q}$ [del]$+ \bar{p}\bar{q}$[/del]
+
+$= p + q - 1 = pq - (1 - p)(1 - q)$
+
+[del]$pq - 1 + p + q - pq$[/del]
+
+$p - \bar{q} = \bar{p} - q$
+
+$p\bar{q} - \bar{p}q = p - q$
+
+$p - [del]p[/del]q - q$
+
+$\frac{p, q}{\bar{p}, q} = \frac{p, \bar{q}}{\bar{p}, \bar{q}}$
+
+[fig]Two squares divided into quadrants[/fig]
+
+$(p, q)(1 - p, 1 - q)$
+$= (p, 1 - q)(1 - p, q)$

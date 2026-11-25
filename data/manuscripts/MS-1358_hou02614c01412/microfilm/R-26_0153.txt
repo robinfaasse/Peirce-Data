@@ -1,0 +1,46 @@
+[marginalia]
+Morrison's Bridge [date]1893 Feb 12[/date]
+[/marginalia]
+
+[pn]4[/pn]
+
+The equations are
+[del]$\frac{1}{6} \frac{v}{B} N^3 + A_1 N = B_2 N^2 + B_1 N + B_0$[/del]
+
+$\frac{1}{6} \frac{v}{B} N^3 + A_1 N = B_2 N^2 + B_1 N + B_0$
+
+$\frac{1}{6} \frac{v}{B} N^3 + \frac{1}{2} \frac{v}{B} N^2 ds + \frac{1}{2} \frac{v}{B} N ds^2 + \frac{1}{6} \frac{v}{B} (ds)^3 + A_1 N + A_1 ds$
+$= B_2 (N^2 + 2 N ds + ds^2) + B_1 (N + ds) + B_0$
+
+which combined give
+
+$\frac{1}{2} \frac{v}{B} N^2 + \frac{1}{2} \frac{v}{B} N ds + \frac{1}{6} \frac{v}{B} (ds)^2 + A_1 = B_2 (2 N + ds) + B_1$
+
+$\frac{1}{2} \frac{v}{B} N^2 - \frac{1}{2} \frac{v}{B} N ds - \frac{1}{6} \frac{v}{B} (ds)^2 + A_1 = B_2 (2 N - ds) + B_1$
+
+which combined give
+
+$+ \frac{v}{B} N + \frac{1}{3} \frac{v}{B} ds = 2 B_2$
+
+$B_2 = \frac{1}{2} \frac{v}{B} N + \frac{1}{6} \frac{v}{B} ds$
+
+$\frac{v}{B} N^2 - \frac{1}{6} \frac{v}{B} (ds)^2 + 2 A_1 = 4 B_2 N + 2 B_1$
+$= 2 \frac{v}{B} N^2 + \frac{2}{3} \frac{v}{B} N ds + 2 B_1$
+
+$- \frac{v}{B} N^2 - \frac{2}{3} \frac{v}{B} N ds - \frac{1}{6} \frac{v}{B} (ds)^2 + 2 A_1 = 2 B_1$
+
+$B_1 = A_1 - \frac{1}{2} \frac{v}{B} N^2 - \frac{1}{3} \frac{v}{B} N ds - \frac{1}{12} \frac{v}{B} (ds)^2$
+
+$+ \frac{1}{6} \frac{v}{B} N^3$
+$+ \frac{1}{2} \frac{v}{B} N^3 + \frac{1}{2} \frac{v}{B} N^2 ds + \frac{1}{12} \frac{v}{B} N (ds)^2$
+$- \frac{1}{2} \frac{v}{B} N^3 - \frac{1}{3} \frac{v}{B} N^2 ds$
+$= B_0$
+
+$B_0 = \frac{1}{6} \frac{v}{B} N^3 + \frac{1}{6} \frac{v}{B} N^2 ds + \frac{1}{12} \frac{v}{B} N (ds)^2$
+
+[fig]Diagram of curves and lines[/fig]
+
+$\frac{x^2 + x + \frac{1}{6}}{x^2 + x + \frac{1}{4} = \frac{1}{12}}$
+$x + \frac{1}{2} = \frac{1}{\sqrt{12}}$
+
+$x + 1 \overline{) \begin{array}{l} x^2 + 3x + 2 \\ \underline{x^2 + x} \end{array} } ( x + 2$

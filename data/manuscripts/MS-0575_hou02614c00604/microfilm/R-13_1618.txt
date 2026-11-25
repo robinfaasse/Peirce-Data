@@ -1,0 +1,27 @@
+[u]Definition of the Logical Sum[/u].
+
+($\text{II}$.) $\underline{x} + \underline{y} \prec \underline{y} + \underline{x}$.
+
+($\text{III}$.) $\underline{x} \prec \underline{x} + \underline{y}$.
+
+($\text{IV}$.) If $\underline{x} \prec \underline{z}$ and $\underline{y} \prec \underline{z}$, then $\underline{x} + \underline{y} \prec \underline{z}$.
+
+To apply corollary I, we must have, corresponding to logical addition, another operation which may be called internal multiplication. In analyzing corollary I, these operations [del]are to be interchanged[/del] [ins]are to be interchanged[/ins].
+
+[u]Definition of the Logical Internal Product[/u].
+
+($\text{II}'$.) $\underline{y} , \underline{x} \prec \underline{x} , \underline{y}$.
+
+($\text{III}'$.) $\underline{x} , \underline{y} \prec \underline{x}$.
+
+($\text{IV}'$.) If $\underline{z} \prec \underline{x}$ and $\underline{z} \prec \underline{y}$, then $\underline{z} \prec \underline{x} , \underline{y}$.
+
+[u]Corollary 2[/u]. From $\text{III}$, $\text{III}'$, $\text{I}$, it follows that
+$\underline{x} , \underline{y} \prec \underline{x} + \underline{y}$ (1)
+
+[del]Corollary 3[/del]
+
+[u]Corollary 3[/u]. From $\text{II}$ and $\text{III}$, it follows that
+$\underline{x} \prec \underline{y} + \underline{x}$ (2)
+So,
+$\underline{y} , \underline{x} \prec \underline{x}$ ($2'$)

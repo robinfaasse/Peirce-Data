@@ -1,0 +1,33 @@
+that is, that from the truth of $X$ the truth of $Z$ would follow,
+since we have just seen that from the truth of $Z$
+the truth of $Y|Z$ follows, we conclude that from the
+truth of $X$ the truth of $Y|Z$ follows, or
+$$X|Y|Z.$$
+Thus we have justified the inference
+$$\begin{array}{c}
+X|Z\text{, true,} \\
+\therefore\quad X|Y|Z\text{, true.}
+\end{array}$$
+
+Suppose, now, that the following inference had been justified:
+$$\begin{array}{c}
+X_1|X_2|\dots X_n|Z\text{, true,} \\
+\therefore\quad X_1|X_2|\dots X_{n-1}|X_n|Z\text{, true.}
+\end{array}$$
+In point of fact, it has been justified for $\underline{n=2}$. This form
+of inference holds, then, no matter what propositions $X_1$,
+$X_2$, etc may be. Hence, substituting $X_2$ for $X_1$, [del]X_3[/del] [ins]$X_3$[/ins] for $X_2$,
+etc., we have
+$$\begin{array}{c}
+X_2|X_3|\dots X_n|Z\text{, true,} \\
+\therefore\quad X_2|X_3|\dots X_n|X_{n+1}|Z\text{ true.}
+\end{array}$$
+Suppose, then, we have given the premise,
+$$X_1|X_2|X_3|\dots X_{n-1}|X_n|Z\text{ true,}$$
+that is to say, from the truth of $X_1$ follows the truth of
+$$X_2|X_3|\dots X_n|Z.$$
+Then, [del]from[/del] [ins]by[/ins] the regula de quocunque, from the truth of $X_1$
+follows the truth of
+$$- X_2|X_3|\dots X_n|X_{n+1}|Z,$$
+[ins]to say[/ins] which is the same as to write
+$$X_1|X_2|X_3|\dots X_n|X_{n+1}|Z\text{ is true.}$$

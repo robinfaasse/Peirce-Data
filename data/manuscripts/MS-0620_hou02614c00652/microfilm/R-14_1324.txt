@@ -1,0 +1,26 @@
+[marginalia]
+[pn]1909 May 19[/pn] 11:15m
+MEANING
+[u]Pragmaticism[/u]
+[pn]37[/pn]
+[/marginalia]
+
+Dividing by $x$
+$11\cdot 22 - 12\cdot 21 = 0$
+The coefficients must satisfy this equation if the [del]original[/del] [ins]simultaneous[/ins] equations were consistent, [del]or small[/del]
+He would have done well to write this result in the form
+$\left| \begin{matrix} 11, 12 \\ 21, 22 \end{matrix} \right| = 0$
+
+We shall see why presently.
+
+Leibniz now goes on to three equations
+$11\ x + 12\ y + 13\ z = 0$
+$21\ x + 22\ y + 23\ z = 0$
+$31\ x + 32\ y + 33\ z = 0$
+
+First, multiply the first equation by $22\cdot 33$, the second by $13\cdot 32$, and the third by $12\cdot 23$ and take the sum of the products. Next multiply the first equation by $23\cdot 32$, the second by $12\cdot 33$, and the third by $13\cdot 22$, and take the sum of the products. Subtract this sum from the other sum of products, and we shall only have to divide by $x$ to obtain the [del]new[/del] equation which the coefficients must satisfy to render the three equations consistent.
+
+The first product is $11\cdot 22\cdot 33\ x + 12\cdot 22\cdot 33\ y + 13\cdot 22\cdot 33\ z = 0$.
+The second is $13\cdot 21\cdot 32\ x + 13\cdot 22\cdot 32\ y + 13\cdot 23\cdot 32\ z = 0$
+The third is $12\cdot 23\cdot 31\ x + 12\cdot 23\cdot 32\ y + 12\cdot 23\cdot 33\ z = 0$
+Their sum is $(11\cdot 22\cdot 33 + 12\cdot 23\cdot 31 + 13\cdot 21\cdot 32)x + (12\cdot 22\cdot 33 + 12\cdot 23\cdot 32 + 13\cdot 22\cdot 32)y + (12\cdot 23\cdot 33 + 13\cdot 22\cdot 33 + 13\cdot 23\cdot 32)z = 0$

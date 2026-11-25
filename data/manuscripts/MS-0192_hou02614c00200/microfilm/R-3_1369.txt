@@ -1,0 +1,24 @@
+[pn]5[/pn]
+
+[u]Art 5[/u]. In the theory of equations, the student has had
+some dealings with imaginary quantities. Each of these "quantities"
+is out of the [del]sphere[/del] [ins]scheme[/ins] of ordinary quantity. The aggregate of them form
+a system of objects having relations of which the system of which the
+relations of real numbers form but a fragment. These quantities
+follow the formal definitions of algebra, and all theorems strictly
+deducible from these definitions hold good of them. Other properties
+of quantity are generally modified. Every imaginary is assumed to be
+expressible in the form
+$$x+yi$$
+where $x$ and $y$ are real and $i^2 = -1$. By the principles of
+algebra
+$$6^{x+yi} = 6^x 6^{yi}$$
+The sole definition of $6^{yi}$ is
+$$6^{yi} = \text{Exp } yi$$
+Now the series gives
+$$\text{Exp } yi = 1 - \frac{1}{2!} x^2 + \frac{1}{4!} x^4 - \frac{1}{6!} x^6 + \text{etc}$$
+$$+ [x - \frac{1}{3!} x^3 + \frac{1}{5!} x^5 - \frac{1}{7!} x^7 + \text{etc}] \cdot i$$
+
+This definition can give rise to no contradiction because it
+merely generalizes a universal proposition of algebra. Because
+it does this, it is not only permissible but is forced upon us.

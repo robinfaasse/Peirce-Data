@@ -1,0 +1,31 @@
+ridians so as to cut it at right angles. This great circle
+will appear on the map as a straight line perpendi-
+cular to line representing first meridian
+
+Let $\phi'$ be latitude at which this cuts the first meridian
+
+$S \tan (\phi' - \Phi) =$ dist on [del]any[/del] [ins]that[/ins] line from tangent point
+
+By Right Spherical Triangles we have
+
+$\operatorname{cotan} \phi' = \cos \theta \operatorname{cotan} \Phi$
+
+[ins]line at tangent to $1^{\text{st}}$ merid[/ins]
+
+Carrying meridian $\theta$ to [del]equator[/del] it will cut off on
+that line a distance determined by Sph. Rt. Tri.
+
+$S \cos \Phi \tan \theta$
+
+Hence the parallel distance on line passing through
+the point $\Phi, \theta$ is
+
+$S \left( \operatorname{cotan} \Phi - \frac{\tan (\phi' - \Phi)}{\sin \Phi \tan \theta} \right) = S \left( \operatorname{cotan} \Phi - \frac{\tan \Phi \sec \theta \tan \Phi}{1 + \tan \Phi \sec \theta \tan \Phi} \right)$
+
+The angle of any meridian to first meridian is
+
+$\operatorname{arc} \tan (\sin \Phi \tan \theta)$
+
+If $\frac{1}{2} \sin^4 \theta$ may be neglected
+
+$\sin (\phi' - \phi) = \frac{\frac{1}{4} \sin 2\Phi \sin^2 \theta}{[del]1 + \sin[/del]}$

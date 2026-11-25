@@ -1,0 +1,25 @@
+[pn]4[/pn]
+
+$u_{a,b}$ is the probability that after $a$ favorable and $b$ unfavorable
+independent events, [del]the patient will die[/del] $m$ before $n$
+[del]there will be $x$ favorable and $y$ unfavorable events[/del]
+making [del]$a+x : b+y \geqq m$[/del] before
+$a+x : b+y \leqq n$
+
+where $p$ is the probability of a favorable event
+
+$u_{a,b} = p \cdot u_{a+1,b} + \bar{p} \cdot u_{a,b+1}$
+$= p^2 \cdot u_{a+2,b} + 2p\bar{p} \cdot u_{a+1,b+1} + \bar{p}^2 \cdot u_{a,b+2}$
+
+If $a=0$ $b=0$ $u_{a,b} = p$
+
+[del]$a \prec b$[/del] $b \prec a$ [del]($a \prec b$)[/del]
+$a \prec (b \prec a)$
+$(b \prec a) \prec a$
+$(a \prec b) \prec (b \prec a)$
+$(a \prec (b \prec a)) \prec (a \prec b)$
+
+[del]$a \prec b \prec a$[/del]
+$a \prec b \prec a$
+
+[fig]Venn diagrams and geometric sketches[/fig]

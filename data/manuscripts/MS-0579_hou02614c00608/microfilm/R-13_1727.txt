@@ -1,0 +1,25 @@
+[pn]I II III[/pn]
+
+$$\overline{\beta}_{bd} \quad \overline{\gamma}_d + \gamma_b$$
+$$\overline{\alpha}_{da} + \gamma_d + \gamma_a$$
+$$\overline{\alpha}_{ac} + \overline{\beta}_{cb} + \overline{\gamma}_a + \overline{\gamma}_c + \gamma_b$$
+[fig]arrows connecting terms between lines[/fig]
+
+If $(D \prec X) \prec (Y \prec D)$ then $Y \prec D$
+
+But this follows from V and IV.
+
+$$\overline{\beta}_{db} + \overline{\gamma}_b + \gamma_d$$
+$$\overline{\alpha}_{da} + \gamma_d + \gamma_a$$
+$$\overline{\alpha}_{ac} + \overline{\beta}_{cb} + \overline{\gamma}_a + \overline{\gamma}_c + \gamma_b$$
+[fig]lines connecting terms between lines[/fig]
+
+[pn]VII[/pn] If $[(X \prec B) \prec Y] \prec B$ then $X \prec B$
+
+$$\overline{\alpha}_{ac} + \overline{\beta}_{cb} + \overline{\gamma}_a + \overline{\gamma}_c + \gamma_b$$
+$$\overline{\alpha}_a + \gamma_a + \gamma_b$$
+[fig]line connecting terms between lines[/fig]
+
+If $A \prec (A \prec B)$
+
+$$A \prec (A \prec B)$$

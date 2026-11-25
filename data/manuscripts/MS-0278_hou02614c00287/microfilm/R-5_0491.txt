@@ -1,0 +1,20 @@
+The appearance of this calculation convinces us that the sum of the infinite series is finite. It can be proved that it is so. For the sum of the geometric progression
+$$1 + \frac{1}{2} + \frac{1}{2^2} + \frac{1}{2^3} + \frac{1}{2^4}$$
+is not infinite, being 2. Now each term of this is [del]at least as[/del] [ins]no[/ins] [del]smaller than[/del] [ins]less than[/ins] the corresponding term of our series.
+That is,
+$$1 = 1$$
+$$\frac{1}{2} = \frac{1}{2!}$$
+$$\frac{1}{2^2} > \frac{1}{3!}$$
+$$\frac{1}{2^3} > \frac{1}{4!}\text{ etc.}$$
+
+Hence, the sum of our series cannot be infinite. Neither can it be indefinite since each succeeding term adds less and less to the sum, with zero for the limit. Hence the sum of the series is finite and definite.
+
+It remains to show that this series is the limit of $(1+\frac{1}{N})^N$.
+Develope this by the binomial theorem
+$$(1+\frac{1}{N})^N = 1 + N\frac{1}{N} + \frac{N(N-1)}{2}\frac{1}{N^2} + \frac{N(N-1)(N-2)}{2\cdot 3}\frac{1}{N^3} + \frac{N(N-1)(N-2)(N-3)}{2\cdot 3\cdot 4}\frac{1}{N^4}$$
+
+$$= 1 + 1 + \frac{1}{2!} - \frac{1}{2}\frac{1}{N} + \frac{1}{3!} - \frac{1}{2}\frac{1}{N} + \frac{1}{3}\frac{1}{N^2} + \frac{1}{4!} - \frac{1}{4}\frac{1}{N} + \frac{11}{24}\frac{1}{N^2} - \frac{1}{4}\frac{1}{N^3} + \text{etc}$$
+
+It thus appears that $(1+\frac{1}{N})^N$ is equal to our series plus certain terms which disappear when $N$ is infinite.
+
+The value of the series called the Naperian base, and is denoted by $e$.

@@ -1,0 +1,28 @@
+F4 [right] 21 [/right]
+
+rule, and covers every case of the rule for [u]m[/u]+1 ovals. It is thus shown
+that if the rule is true up to any number of ovals, it is true for a greater
+number. But by [u]XIV[/u] it is true for zero ovals. Hence it is true for any
+number without limit.
+(Rule of iteration and concision)
+Rule [u]XXIV[/u]. [del]Any partial graph outside any [ins]succession[/ins] number of ovals
+may be iterated within those ovals, provided that the corresponding
+hands in the iteration are attached to the very same heavy lines as
+before the iteration; and if any partial graph is so iterated, the
+inner occurrence may be "concised," or struck out.[/del]
+[u]1[sup]st[/sup][/u], the rule holds for iterations, when iterand and iterate are both un-
+enclosed. That is [fig]figure[/fig] [u]v[/u] [fig]figure[/fig] For assuming [fig]figure[/fig], by [u]XVII[/u] this is 
+equivalent to [fig]figure[/fig] whence, by [u]XIV[/u] [fig]figure[/fig] can be written, and by [u]III[/u],
+[fig]figure[/fig] can be written. But this, by [u]XVII[/u] is equivalent to [fig]figure[/fig] which can
+therefore be written. Q.E.D.
+[u]2[sup]nd[/sup][/u], the rule holds for iterations, when the iterand is unenclosed, and the
+iterate is evenly enclosed. This follows by [u]XVII[/u] and [u]XXII[/u].
+[u]3[sup]d[/sup][/u], the rule holds for iterations when iterand and iterate are evenly enclosed.
+This follows from the last and [u]XXII[/u].
+[u]4[sup]th[/sup][/u], the rule holds for iterations when the iterate is oddly enclosed, by [u]XXIII[/u].
+[u]5[sup]th[/sup][/u], the rule holds for concisions when the [del]iterand[/del] [ins]iterand[/ins] is in [del]one[/del] [ins]no[/ins] oval and the
+iterate is in [del]the[/del] [ins]one[/ins] That is, [fig]figure[/fig] [u]v[/u] [fig]figure[/fig]. This follows from the first case,
+[u]XVII[/u] and [u]XX[/u]. i.e because [fig]figure[/fig] [u]v[/u] [fig]figure[/fig] it follows that [fig]figure[/fig] [u]v[/u] [fig]figure[/fig]
+[u]6[sup]th[/sup][/u], the rule holds for concisions when the iterand is in [del]the[/del] [ins]no[/ins] oval and the
+iterate is in any [del]even[/del] [ins]odd[/ins] number (greater than one). By [u]XVII[/u] and [u]XXII[/u].
+[u]7[sup]th[/sup][/u], the rule holds for concisions when the iterand is in [del]any[/del] [ins]evenly[/ins] enclosed and

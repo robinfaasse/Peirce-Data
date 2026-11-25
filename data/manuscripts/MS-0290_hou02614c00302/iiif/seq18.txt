@@ -1,0 +1,30 @@
+42 [fig]figure[/fig] 43
+x[sub]4[/sub] [fig]figure[/fig] 44
+x[sub]5[/sub] [fig]figure[/fig] 43
+x[sub]6[/sub] [fig]figure[/fig] 44
+x[sub]7[/sub] [fig]figure[/fig]
+x[sub]8[/sub] [fig]figure[/fig]
+y[sub]4[/sub] [fig]figure[/fig]
+y[sub]3[/sub] [fig]figure[/fig] 43
+
+[fig]figure[/fig]
+1 2 3 4 5 6 7 8 9 10 11
+
+[u]a|j|a[/u]
+M=1 [ins]Subtract 1[/ins]
+m+n-1
+
+[ured]Turn Over![/ured]
+Adds
+1 to x &
+y
+m is number of x's
+n is number of y's
+Adds (m-2) + (n-[del]2[/del][ins]1[/ins]) = m+n-4
+Subtract
+[u]m+n-1[/u]
+[u]Subtract 3[/u]
+
+Cuts down by 1 chord's b x[sub]1[/sub] y[sub]1[/sub] x[sub]2[/sub] y[sub]2[/sub] etc
+x[sub]1[/sub] y[sub]1[/sub] x[sub]2[/sub] y[sub]2[/sub] x[sub]3[/sub] y[sub]3[/sub] x[sub]4[/sub] y[sub]4[/sub] x[sub]5[/sub] y[sub]5[/sub] x[sub]6[/sub] y[sub]6[/sub] x[sub]7[/sub] y[sub]7[/sub] x[sub]8[/sub] y[sub]8[/sub]
+[del]a x[sub]2[/sub] a y[sub]2[/sub] a x[sub]3[/sub][/del] a x[sub]4[/sub] a x[sub]5[/sub] a y[sub]3[/sub] a x[sub]6[/sub] a y[sub]4[/sub] [del]y[sub]x[/sub][/del]

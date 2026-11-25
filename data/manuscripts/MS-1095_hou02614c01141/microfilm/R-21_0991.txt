@@ -1,0 +1,23 @@
+$$[m_1(h_1^2+\gamma_1^2) + [del]\sum_{2}^P[/del] [ins]\sum_{2}^P[/ins]_n m_n l_1^2] D_t^2 \theta_1$$
+$$+ \sum_2^{P-1}_i \{(m_i h_i + \sum_{i+1}^P_n m_n l_i) l_1 \cos(\theta_2-\theta_1) D_t^2 \theta_i\}$$
+$$+ m_P h_P l_1 \cos(\theta_P-\theta_1) D_t^2 \theta_P$$
+$$- \sum_2^{P-1}_i \{(m_i h_i + \sum_{i+1}^P_n m_n l_i) l_1 \sin(\theta_i-\theta_1) (D_t \theta_i)^2\}$$
+$$- m_P h_P l_1 \sin(\theta_P-\theta_1) (D_t \theta_P)^2$$
+$$- \mathcal{E}_1 \theta_0 + (\mathcal{E}_1+\mathcal{E}_2) \theta_1 - \mathcal{E}_2 \theta_2$$
+$$+ g \sum_2^P_n \{m_n l_1 \sin\theta_1\} + g m_1 h_1 \sin\theta_1 = 0$$
+
+$$\sum_1^{k-1}_i \{(m_k h_k + \sum_{k+1}^P_n m_n l_k) l_i \cos(\theta_k-\theta_i) D_t^2 \theta_i\}$$
+$$+ [m_k(h_k^2+\gamma_k^2) + [del]\sum_{k+1}^P[/del] [ins]\sum_{k+1}^P[/ins]_n m_n l_k^2] D_t^2 \theta_k$$
+$$+ \sum_{k+1}^{P-1}_i \{(m_i h_i + \sum_{i+1}^P_n m_n l_i) l_k \cos(\theta_k-\theta_i) D_t^2 \theta_i\}$$
+$$+ m_P h_P l_k \cos(\theta_k-\theta_P) D_t^2 \theta_P$$
+$$+ \sum_1^{k-1}_i \{(m_k h_k + \sum_{k+1}^P_n m_n l_k) l_i \sin(\theta_k-\theta_i) (D_t \theta_i)^2\}$$
+$$+ \sum_{k+1}^{P-1}_i \{(m_i h_i + \sum_{i+1}^P_n m_n l_i) l_k \sin(\theta_k-\theta_i) (D_t \theta_i)^2\}$$
+$$+ m_P h_P l_k \sin(\theta_k-\theta_P) (D_t \theta_P)^2$$
+$$- \mathcal{E}_k \theta_{k-1} + (\mathcal{E}_k+\mathcal{E}_{k+1}) \theta_k - \mathcal{E}_{k+1} \theta_{k+1}$$
+$$+ g \sum_{k+1}^P_n \{m_n l_k \sin\theta_k\} + g m_k h_k \sin\theta_k = 0$$
+
+$$\sum_1^{P-1}_i \{m_P h_P l_i \cos(\theta_i-\theta_P) D_t^2 \theta_i\}$$
+$$+ m_P(h_P^2+\gamma_P^2) D_t^2 \theta_P$$
+$$- \sum_1^{P-1}_i \{m_P h_P l_i \sin(\theta_i-\theta_P) (D_t \theta_i)^2\}$$
+$$- \mathcal{E}_P \theta_{P-1} + \mathcal{E}_P \theta_P$$
+$$+ g m_P h_P \sin\theta_P = 0.$$

@@ -1,0 +1,51 @@
+$$r = \frac{c^2 - A^2}{A + c \cos \varphi}$$
+
+$$D_{\theta} r = \frac{c^2 - A^2}{(A + c \cos \varphi)^2} c \sin \varphi$$
+
+$$= r^2 \frac{c}{c^2 - A^2} \sin \varphi$$
+
+$$(D_{\theta} r)^2 = r^4 \frac{c^2}{(c^2 - A^2)^2} \sin^2 \varphi$$
+
+$$\cos \varphi = \frac{c^2 - A^2}{cr} - \frac{A}{c}$$
+
+$$\cos^2 \varphi = \frac{(c^2 - A^2)^2}{c^2 r^2} - 2 \frac{A}{c^2} \frac{(c^2 - A^2)}{r} + \frac{A^2}{c^2}$$
+
+$$\sin^2 \varphi = \left( \frac{c^2 - A^2}{c^2} \right) + 2 \frac{A}{c^2} \frac{(c^2 - A^2)}{r} - \frac{(c^2 - A^2)^2}{c^2 r^2}$$
+
+$$(D_{\theta} r)^2 = r^4 + 2 \frac{A}{c} r^3 - \frac{c^2 - A^2}{c} r^2$$
+
+$$(D_{\theta} r)^2 = \frac{1}{c^2 - A^2} r^4 + 2 \frac{A}{c^2 - A^2} r^3 - r^2$$
+
+$$b = \frac{a}{2A} \quad A = \frac{1}{2} \frac{a}{b}$$
+
+$$b(c^2 - \frac{1}{4} \frac{a^2}{b^2}) = a(c - \frac{1}{2} \frac{a}{b}) + b(c - \frac{1}{2} \frac{a}{b})^2$$
+
+---
+
+$$c(a - 2bA) = A(a - 2bA)$$
+
+$$ac - aA - 2bcA [ins]+ 2bA^2[/ins]$$
+
+$$r^2 D_t \theta = E$$
+
+$$r^2 (D_t \theta)^2 + (D_t r)^2 = \frac{a}{r} + b$$
+
+When $D_t r = 0$ $r$ minimum
+
+$$r = c \quad A \quad \theta = 0$$
+
+$$r^2 (D_t \theta)^2 = \frac{a}{c - A} + b$$
+
+$$r^4 (D_t \theta)^2 = a(c - A) + b(c - A)^2 = E^2$$
+
+$$r^4 (D_t \theta)^2 + r^2 (D_t r)^2 = ar + br^2$$
+
+$$r^4 (D_t r)^2 = br^4 + ar^3 - E^2 r^2$$
+
+$$r^4 (D_t \theta)^2 = E^2$$
+
+$$(D_{\theta} r)^2 = \frac{b}{E^2} r^4 + \frac{a}{E^2} r^3 - r^2$$
+
+$$b(c^2 - A^2) = a(c - A) + b(c - A)^2$$
+
+$$\frac{a(c^2 - A^2)}{2A} = a(c - A) + b(c - A)^2$$

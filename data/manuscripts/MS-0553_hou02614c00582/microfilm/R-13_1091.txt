@@ -1,0 +1,25 @@
+Instead of speaking of men and women, distinct collections
+of things, let us write, some man is loved by every man
+
+$$\sum_{\underline{m}} \prod_{\underline{m'}} \sum_{\underline{l}} (\underline{m} \underline{l} \underline{m'})$$
+
+[fig]crossed out diagram of three variables[/fig] [fig]diagram of three variables m, m', l[/fig]
+
+In this case, we can identify the $\underline{m'}$ with the $\underline{m}$, since it
+makes no difference what selection be made for $\underline{m'}$, and
+we thus conclude that some man [del]is[/del] loved by himself.
+
+$$\sum_{\underline{m}} \sum_{\underline{l}} (\underline{m} \underline{l} \underline{m})$$
+
+[fig]crossed out diagram of two variables[/fig] [fig]diagram of two variables m, l[/fig]
+
+Let us write every man loves some man
+
+$$\sum_{\underline{l}} \prod_{\underline{m'}} \sum_{\underline{m}} (\underline{m} \underline{l} \underline{m'})$$
+
+[fig]diagram of three variables l, m', m[/fig]
+
+We have no [del]longer[/del] any right to make the identification.
+We thus have the rule that if two letters refer to individu-
+als selected from the same class and if [ins]the[/ins] one of these [del]s[/del]
+that is selected last [ins]is distributed[/ins] [del]may be taken no matter how[/del], then

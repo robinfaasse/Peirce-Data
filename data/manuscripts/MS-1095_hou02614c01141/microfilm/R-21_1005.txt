@@ -1,0 +1,21 @@
+Let $h_1$, $h_2$, $h_3$, etc. be the distances of the centres
+of mass from the upper joints. Let $k_1$, $k_2$, $k_3$, etc.
+be the radii of gyration about axes through the
+centres of mass and parallel to the axis of $z$.
+Let $m_1$, $m_2$, $m_3$, etc. be the masses. Let $\theta_1$, $\theta_2$,
+$\theta_3$, etc. be the angular displacements of the pieces
+about their centres. Let $p$ be the number of
+pieces; and let $t$ be the time. Then, for any
+piece, say the $n^{\text{th}}$, we have
+
+$$x_n = \sum_1^{n-1}{}_i\ l_i \sin \theta_i + h_n \sin \theta_n$$
+$$y_n = \sum_1^{n-1}{}_i\ l_i \cos \theta_i + h_n \cos \theta_n.$$
+
+$$D_t x_n = \sum_1^{n-1}{}_i\ (l_i \cos \theta_i . D_t \theta_i) + h_n \cos \theta_n . D_t \theta_n$$
+$$D_t y_n = - \sum_1^{n-1}{}_i\ (l_i \sin \theta_i . D_t \theta_i) - h_n \sin \theta_n . D_t \theta_n$$
+
+$$(D_t x_n)^2 = \sum_1^{n-1}{}_i \sum_1^{n-1}{}_j\ (l_i l_j \cos \theta_i . \cos \theta_j . D_t \theta_i . D_t \theta_j)$$
+$$+ 2 \sum_1^{n-1}{}_i\ (l_i h_n \cos \theta_i . \cos \theta_n . D_t \theta_i . D_t \theta_n) + h_n^2 (\cos \theta_n)^2 (D_t \theta_n)^2$$
+
+$$(D_t y_n)^2 = \sum_1^{n-1}{}_i \sum_1^{n-1}{}_j\ (l_i l_j \sin \theta_i . \sin \theta_j . D_t \theta_i . D_t \theta_j)$$
+$$+ 2 \sum_1^{n-1}{}_i\ (l_i h_n \sin \theta_i . \sin \theta_n . D_t \theta_i . D_t \theta_n) + h_n^2 (\sin \theta_n)^2 (D_t \theta_n)^2$$

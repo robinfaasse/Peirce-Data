@@ -1,0 +1,33 @@
+$$\left(\frac{r}{R}\right)^2 + \left(\frac{z}{Z}\right)^2 = 1 \qquad z = Z \sqrt{1 - (r/R)^2} \qquad \text{since } d\frac{r}{R} = \frac{dr}{R} \quad dr = R d\frac{r}{R}$$
+
+$$\frac{r dr}{R^2} + \frac{z dz}{Z^2} = 0 \qquad dz = - \left(\frac{Z}{R}\right)^2 \frac{r}{z} dr = - \left(\frac{Z}{R}\right)^2 \frac{r}{Z \sqrt{1 - (r/R)^2}} dr = - \frac{Z}{R} \frac{\frac{r}{R}}{\sqrt{1 - (r/R)^2}} dr$$
+
+$$\frac{r}{R} \frac{dr}{R} + \frac{z}{Z} \frac{dz}{Z} = 0 \qquad \text{or } [del]\frac{dr}{R}[/del] \qquad dz = \frac{- Z \frac{r}{R}}{\sqrt{1 - (r/R)^2}} dr \qquad = - Z \frac{\frac{r}{R}}{\sqrt{1 - (r/R)^2}} d\frac{r}{R}$$
+
+$$\frac{z}{Z} = \sqrt{1 - (r/R)^2}$$
+
+$$d \frac{z}{Z} = \frac{- \frac{r}{R}}{\sqrt{1 - (r/R)^2}} d\left(\frac{r}{R}\right) \qquad \frac{dz}{Z} = - \frac{R}{Z} \frac{\frac{r}{R}}{\sqrt{1 - (r/R)^2}} d\frac{r}{R}$$
+
+$$\frac{r}{R} d\left(\frac{r}{R}\right) = - \frac{z}{Z} d\left(\frac{z}{Z}\right)$$
+
+$$d\left(\frac{z}{Z}\right) = - \frac{r}{R} \frac{Z}{z} d\left(\frac{r}{R}\right) = \frac{- \frac{r}{R}}{\sqrt{1 - (r/R)^2}} d\left(\frac{r}{R}\right)$$
+
+$$= - \frac{1}{\sqrt{1 - (r/R)^2}}$$
+
+***
+
+$$\underline{(r/R)^2 + (z/Z)^2 = 1} \qquad \underline{z/Z = \sqrt{1 - (r/R)^2}}$$
+
+$$(r/R) d(r/R) + (z/Z) d(z/Z) = 0 \qquad d(z/Z) = \frac{- \frac{r}{R}}{\sqrt{1 - (r/R)^2}} d\left(\frac{r}{R}\right)$$
+
+$$\frac{\rho}{r} = \frac{ds}{\sqrt{(dz)^2 + (dr)^2}}$$
+
+$$\text{But } d(z/Z) = [del](dz)[/del] dz/Z \quad dz = Z d(z/Z) \quad (dz)^2 = Z^2 [d(z/Z)]^2$$
+
+$$\text{and } d(r/R) = (dr)/R \quad dr = R d(r/R) \quad (dr)^2 = R^2 [d(r/R)]^2$$
+
+$$\frac{\rho}{r} = \frac{ds}{\sqrt{Z^2 [d(z/Z)]^2 + R^2 [d(r/R)]^2}}$$
+
+$$[d(z/Z)]^2 = \frac{- r/R}{\sqrt{1 - (r/R)^2}} d(r/R)$$
+
+$$\frac{\rho}{r} = \frac{ds}{\qquad\qquad\qquad\qquad\qquad\qquad}$$

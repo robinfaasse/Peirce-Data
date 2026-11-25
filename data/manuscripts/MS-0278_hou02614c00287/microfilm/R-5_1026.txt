@@ -1,0 +1,33 @@
+$$i^3 = 0 \quad k^2 = 0$$
+
+$$ki = i^2 + r ik$$
+
+[del]$$ik = 0$$[/del]
+[del]$$ik^2 = i^2$$[/del]
+
+[del]$$iB + kC = D$$[/del]
+[del]$$iB + kC$$[/del]
+
+$$\begin{aligned}
+iA &= B \\
+iB &= i^2 A = C \\
+iC &= 0
+\end{aligned}$$
+
+$$kA = D \quad kD = k^2 A = E \quad kE = k^3 D = k^3 A = 0$$
+
+$$\begin{aligned}
+ik^2 A &= iE = i^2 A = C \\
+kiA &= kB = i^2 A + r ik A \\
+&= C + r iD = C + r F \\
+&iD = F
+\end{aligned}$$
+
+$$i = B \colon A + C \colon B + C \colon E + F \colon D$$
+$$k = D \colon A + E \colon D + C \colon B + r F \colon B$$
+
+$$\begin{aligned}
+i^2 &= C \colon A = j \\
+[del]ik &= C \colon A + F \colon A[/del] [ins]+ [del]C \colon D[/del][/ins] \quad ik = C \colon D + F \colon A = l \\
+ki &= C \colon A + r F \colon A = j + r l
+\end{aligned}$$

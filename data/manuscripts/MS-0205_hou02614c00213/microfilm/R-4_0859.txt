@@ -1,0 +1,21 @@
+[pn]RR[/pn]
+
+[u]Definition 3[/u]. The [del]product of a[/del] cardinal number, M, multiplied into (or multiplying) a cardinal number, N, which we write, MxN, and say that N is multiplied by M, giving the product MxN, is a cardinal number subject to the following conditions:
+
+1[sup]st[/sup], the product of 0 multiplied by 0 is 0;
+
+2[sup]nd[/sup], the product [del]of[/del] [ins]G M x N[/ins] any cardinal number, N, multiplied by the cardinal number that is G to any cardinal number, M, is N + MN, the sum of N added to the product of N multiplied by M.
+
+3[sup]rd[/sup], the product, M x GN, of any cardinal number, M, multiplied into the cardinal number that is G to any cardinal number, N, is [del]MN + M[/del] [ins]M + MN[/ins], the sum of [del]the[/del] M added to the product of M multiplied into N.
+
+4[sup]th[/sup], no cardinal number is a product of two cardinal numbers unless necessitated to be so by the foregoing conditions.
+
+[u]Corollary[/u]. Whatever cardinal number, N may be, 0 x N = 0. For by the first condition this is true when N = 0 and if [ins]it be[/ins] true for any cardinal number, N, then 0 x GN = 0 + (0 x N) by the 3[sup]rd[/sup] condition. But by hypothesis 0 x 0 = 0 and hence by the 1[sup]st[/sup] condition of Definition 2, 0 x GN = 0. Hence, by the Fermatian Principle, it is true for all cardinal numbers that 0 x N = 0.
+
+[u]Corollary[/u]. By similar reasoning N x 0 = 0 whatever cardinal number N may be.
+
+[u]Corollary[/u]. From the fourth corollary of Definition 2, it follows that is M x N = 0 either M = 0 or N = 0.
+
+[u]Corollary[/u]. G0 x N = N. For G0 x N = N + (0 x N) = N + 0 = N. So likewise N x G0 = N.
+
+[u]Corollary[/u]. M x N = N x M. [del]For[/del] M x 0 = 0 x M since [del]both are[/del] [ins]each is[/ins] 0. But M x GN = M + MN and M + NM = GN x M. Hence, if M x N = N x M then M x (GN) = (GN) x M. Hence, by the Fermatian Principle, M x N = N x M whatever cardinal numbers M and N may be.

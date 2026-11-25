@@ -1,0 +1,29 @@
+§2. Geometrical conditions. We have obviously, when the
+weights are distributed at finite intervals
+
+$$\tan \tau_n = \frac{\Delta y_n}{\Delta x_n} \qquad (\Delta s_n)^2 = (\Delta x_n)^2 + (\Delta y_n)^2$$
+
+$$x_n = \Sigma (\cos \tau_n \cdot \Delta s_n) \qquad y_n = \Sigma (\sin \tau_n \cdot \Delta s_n)$$
+
+or when the distribution is continuous
+
+$$\tan \tau = \frac{dy}{dx} \qquad (ds)^2 = (dx)^2 + (dy)^2$$
+
+$$x = \int \cos \tau \cdot ds \qquad y = \int \sin \tau \cdot ds.$$
+
+§2 Statical conditions. At each weighted point, [ins]say the $n^{\text{th}}$[/ins] there are three forces,
+[fig]Three forces meeting at a point[/fig] the weight, $w_n - w_{n-1}$, acting vertically,
+the tension $q_n$, acting at an inclination $\tau_n$,
+the tension $q_{n-1}$, acting at an inclination [del]$\pi +$[/del] $\tau_{n-1}$.
+These three being in equilibrium one have
+
+[del]vertically[/del] $w_n - w_{n-1} = q_n \sin \tau_n - q_{n-1} \sin \tau_{n-1}$;
+[del]horizontally[/del] $0 \qquad = q_n \cos \tau_n - q_{n-1} \cos \tau_{n-1}$.
+
+The last equation shows that $q \cos \tau$ is constant along the cord.
+Hence
+
+putting $Q = q \cos \tau$, $q = Q \sec \tau$.
+
+[del]The[/del] equation of vertical [del]forces[/del] components gives, since $w_0 = 0$, $\tau_0 = 0$,
+$w' = w - w_0 = q \sin \tau = Q \tan \tau$, $w = Q (\tan \tau - \tan \tau_0)$.

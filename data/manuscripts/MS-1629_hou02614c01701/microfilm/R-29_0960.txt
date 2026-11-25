@@ -1,0 +1,39 @@
+[pn]BIV § 5 Ex. 11.[/pn]
+
+To residuate [del]$\frac{\text{cosec } z}{x-z}$[/del] [ins]$\frac{\text{cosec } z}{x-z}$[/ins] for any value [ins]$x_0$[/ins] of $z$ which
+satisfies the equation $\text{cosec } z = \infty$
+
+$x_0 = n \partial$
+
+by (189) [del]$f x_0 = \frac{1}{D \text{ sin } n \partial}$[/del] [ins]$f x_0 = \frac{1}{D \text{ sin } n \partial}$[/ins] $= \frac{1}{\text{cos } n \partial} = \pm 1$
+
+by (188) $C = \frac{\pm 1}{x - n \partial}$
+
+Peirce.
+R
+
+***
+
+[pn]§ 151 Ex.[/pn]
+$x = t + a x^p$
+to find $x^m$
+
+$\begin{aligned}
+x &= x \\
+f &= t \\
+e &= a x^p \\
+u &= x^m \\
+u' &= m x^{m-1} \\
+u_0 &= t^n \\
+u'_0 &= m t^{m-1}
+\end{aligned}$
+$\begin{array}{|l}
+(F t)^n = a^n t^{pn} \\
+u'_0 (F t)^n = m a^n t^{pn+m-1}
+\end{array}$
+
+$D_t^{n-1} [u'_0 (F t)^n] = m a^n (pn+m-1)(pn+m-2) \dots t^{pn+m-n}$
+
+$u = x^m = t^m + a m [del]x[/del] [ins]$t$[/ins]^{m-1+p} + \frac{m(pn+m-1)}{1 \cdot 2} a^2 t^{2p+m-2} + \dots$
+
+C. S. Peirce

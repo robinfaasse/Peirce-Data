@@ -1,0 +1,14 @@
+[pn]Ms 575[/pn]
+
+[u]First Fundamental Definition[/u]. [u]Copula of Inclusion[/u].
+[u]First Clause[/u].
+(I.) If $x \prec y$ and $y \prec z$ then $x \prec z$.
+
+[u]Secondary Definition[/u].
+If $x \prec y$ and $y \prec x$ then $x = y$
+If $x = y$ then $x \prec y$ and $y \prec x$.
+
+[u]Corollary 1[/u]. If $x \prec x$ then $x = x$.
+
+[u]Theorem I[/u]. Corresponding to every general proposition of logic deducible from I without taking into account any other character of the copula, there is a proposition obtainable from the first by everywhere interchanging $\prec$ with $\succ$.
+[u]Proof[/u]. This follows from the fact that this substitution in (I), leaves the sense unaltered.

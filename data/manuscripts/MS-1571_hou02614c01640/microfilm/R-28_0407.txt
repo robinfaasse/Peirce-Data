@@ -1,0 +1,120 @@
+[fig]Geometric diagrams of connected points and lines[/fig]
+
+[fig]Diagram of points labelled CC, CC_1, D, P, D_1, D'_1[/fig] [fig]Diagram of points labelled D_1, D, D', P, C', C, C_1[/fig]
+
+[fig]Diagram of points labelled D, D_1, D'_1, P, C, C_1[/fig]
+
+[fig]Double diamond diagram with points D, D', D_1, D'_1, C, C', C_1, C'_1[/fig]
+
+$$\begin{array}{lcll}
+\text{D} & \text{—} & \text{—} & 2 \\
+\text{D D}_1 & \text{—} & \text{⊃} & 2\ .\ C \\
+\text{C C}_1 & \text{—} & \text{—} & 9\ .\ 10 \\
+\text{D D}' & \text{⊃} & \text{—} & 2\ .\ 4 \\
+\text{D D}'\text{D}_1\text{C}'\text{C} & \text{⊃} & \text{—} & 2\ \ \ 4\ \ \ 6\ \ \ 7\ \ \ 8 \\
+\text{C C}'\text{C}_1\text{D}'\text{D} & \text{⊃} & \text{—} & 4\ \ \ 7\ \ \ 8\ \ \ 9\ \ \ 10 \\
+\hline
+\text{C C}'
+\end{array}$$
+
+[fig]Small geometric diagrams[/fig]
+
+$$\begin{array}{lcl}
+\text{—} & \text{—} & 9 \\
+\text{—} & \text{⊃} & 7\ .\ 9 \\
+\text{—} & \text{—} &
+\end{array}$$
+
+$$\begin{array}{l}
+4\ \text{—}\ 2 \\
+4\ \text{—}\ 4
+\end{array} \quad \begin{array}{l}
+4 \\
+\underline{8} \\
+12
+\end{array}$$
+
+[fig]Diagram of points with lines, labelled 2, 4, 7, 8[/fig]
+
+$$\begin{array}{l}
+4 \\
+4 \\
+\underline{4} \\
+12
+\end{array} \quad \begin{array}{l}
+1 \\
+1 \\
+\underline{1} \\
+10
+\end{array}$$
+
+$$\begin{array}{lr}
+\text{Single} & 7 \\
+\text{Double} & 8 \\
+\text{Triple} & 12 \\
+\text{Quadruple} & 10 \\
+\text{Quintuple} & 4 \\
+\text{Sextuple} & \underline{6} \\
+& 47
+\end{array} \quad \begin{array}{l}
+15 \\
+12 \\
+27 \\
+54
+\end{array} \quad \begin{array}{lr}
+\text{Single} & \text{—}\ 7 \\
+\text{Double} & 21 \\
+\text{Triple} & 35 \\
+\text{Quadruple} & 35 \\
+\text{Quintuple} & 21 \\
+\text{Sextuple} & \underline{\ \ 7} \\
+& 126
+\end{array} \quad \begin{array}{l}
+1 \\
+3 \\
+5 \\
+\underline{10} \\
+126
+\end{array}$$
+
+[fig]Diagram of points labelled D, P, C[/fig]
+
+$$\begin{array}{l}
+7 \\
+4
+\end{array} \begin{array}{l}
+\text{C} \\
+\text{C}_1 \\
+\text{C}'
+\end{array} \quad \begin{array}{l}
+\text{D} \\
+\text{D}'\text{D}_1\ \text{D}'\text{D}_1\ \text{D}_1\text{D} \\
+\text{P} \\
+\text{C}
+\end{array}$$
+
+[fig]Diagram of points labelled D, D_1, D'_1, P, C[/fig]
+
+$$\begin{array}{l}
+3 \\
+2 \\
+1
+\end{array}$$
+
+$$\begin{array}{l}
+5 \\
+4\ \ 4 \\
+3\ \ 3\ \ 3 \\
+\underline{2\ \ 2\ \ 2\ \ 2}
+\end{array} \quad \begin{array}{l}
+5 \\
+8 \\
+9 \\
+8 \\
+\underline{5}
+\end{array} \quad \begin{array}{l}
+1 \\
+16 \\
+\underline{10} \\
+35
+\end{array}$$

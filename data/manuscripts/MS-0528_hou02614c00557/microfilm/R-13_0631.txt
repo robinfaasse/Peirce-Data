@@ -1,0 +1,34 @@
+$$(a+c)\times(b+c)-:(a\times b)+c.$$
+
+The true definition of logical multiplication, which my
+own system, logically developed, would have led me to is
+contained in the equation just given or in the following,
+which amounts to the same
+
+$$(a\times b)-:c = a-:\overline{b}-:c.$$
+
+A parallel definition of addition cannot be given; but
+I hardly think that this is a defect of the present point
+of view, for addition is a superfluous operation,-- its
+true definition is that $a+b$ is the negative of the product
+of the negatives of $a$ and $b$; and the whole apparent paral-
+lelism of the two operations is due to there being one
+superfluous operation in the algebra. I may remark, how-
+ever, that we may use the definition
+
+$$(a+b) = (a-:\overline{b})-:\overline{b}.$$
+
+This amounts to regarding $a+b$ as $a\overline{b}+b$.
+
+My former treatment of the algebra of the copula and
+of non-relative logic was much confused by my attempt to
+exclude the conception of individuals, whereas in truth
+the whole Boolean calculus is the logic of a single indivi-
+dual,-- a remark the meaning of which will presently appear.
+In consequence of my imperfect mode of considering the
+subject, I had a difficulty in proving every proposition
+involving the principle of excluded middle, propositions
+which will no longer give any difficulty. Thus, defining
+the negative of $a$ as $(a-:f)$, the proof of
+
+$$((x-:f)-:f)-:x$$

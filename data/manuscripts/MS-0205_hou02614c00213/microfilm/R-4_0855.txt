@@ -1,0 +1,68 @@
+[marginalia]RR[/marginalia]
+
+greater than $N$. But by the last corollary no number is both
+greater and less than zero; so that, by the Fermatean principle, no
+number can be both greater and less than any number.
+
+$(LM)N = L(MN)$
+$[L(M)]N = [L+M]N$
+
+$(L+M)N = LN + MN$
+$(GL+M)N = N + LM + MN$
+$= GL\cdot N + MN$
+$(L+M)GN = L+M + LN + MN$
+$= LGN + MGN$
+
+Totient shows $1$ is not a prime factor but is
+Number prime to number has no [del]common[/del] [ins]common[/ins] factor with that number
+
+[fig]division calculations[/fig]
+
+A divisor of a number $N$ is
+a number which
+multiplied by a number
+will give $N$ as product.
+
+A factor of a number $N$
+is a number which multi-
+plied by [del]a divisor of that[/del] [ins]a number other than $N$[/ins]
+number will give that
+number $N$ as a product.
+
+Totient of
+$0$ [del]$1$[/del]
+$\frac{0}{1}$ $\frac{1}{2}$ $\frac{1}{1}$ $\frac{5}{3}$ $\frac{5}{2}$ $\frac{5}{1}$ $\frac{5}{0}$
+
+$6$ is said to be sum of its
+divisors
+$1+2+3 = 6$     $P(P-1)$
+
+[fig]calculations[/fig]
+
+$(-1)!$ $\infty$ $\infty$
+$0!$ $1$ $2$
+$1!$ $1$ $2 = 2\cdot 1$
+$2!$ $2$ $3 = 3\cdot 1$
+$3!$ $6$ $7$
+$4!$ $24$ $25 = 5\times 5$
+$5!$ $120$ $121$
+$6!$ $720$ $721 = 7\times 103$
+$7!$ $5040$ $5041$
+$8!$ $40320$ $40321$
+$9!$ $362880$ $362881$
+$10!$ $3628800$ $3628801 = 11\times 329891$
+
+$n$ $\Phi n$
+$a^{\Phi n} - 1 = n$
+$a^0 - 1 = 0$
+Every number
+prime to $0$
+
+[fig]division calculations[/fig]
+
+$11 \overline{) 3628891}$     $n!$
+$\overline{32981}$
+
+$\{(n-1)! + 1\}$
+
+$N$ is prime if $(n-1)! + 1$ is divisible by $n$.

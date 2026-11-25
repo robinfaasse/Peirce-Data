@@ -1,0 +1,54 @@
+[pn]CH. XVI. § 335.][/pn] SOLIDS. [pn]123[/pn]
+
+<u>Solids of a Frustum of a Pyramid or Cone.</u>
+
+$\frac{1}{3} V \times H - \frac{1}{3} V' \times H'$,
+
+and, for the sum of three pyramids, which have $H''$ for
+their altitude and for their bases $V$, $V'$ and the mean pro-
+portional $\sqrt{VV'}$ between $V$ and $V'$,
+
+$\frac{1}{3} H'' \times (V + V' + \sqrt{VV'})$
+$= \frac{1}{3} H'' \times V + \frac{1}{3} H'' \times V' + \frac{1}{3} H'' \times \sqrt{VV'}$,
+
+and we are to prove that these solidities are equal, or that
+
+$V \times H - V' \times H' = V \times H'' + V' \times H'' + \sqrt{VV'} \times H''$.
+
+Now $H'' = H - H'$,
+
+and, by § 379,
+
+$V : V' = H^2 : H'^2$,
+
+whence $\sqrt{V} : \sqrt{V'} = H : H'$,
+
+and, multiplying extremes and means
+
+$\sqrt{V} \times H' = \sqrt{V'} \times H$.
+
+If we multiply this equation successively by $\sqrt{V}$ and $\sqrt{V'}$
+we obtain, by transposing the members of the first pro-
+duct,
+
+$\sqrt{VV'} \times H = V \times H'$,
+$\sqrt{VV'} \times H' = V' \times H$;
+
+the difference between which is
+
+$\sqrt{VV'} \times (H - H') = V \times H' - V' \times H$, or
+$\sqrt{VV'} \times H'' = V \times H' - V' \times H$.
+
+And if we add to this last equation the equations
+
+$V \times H'' = V \times H - V \times H'$
+$V' \times H'' = V' \times H - V' \times H'$,
+
+we get, by cancelling the terms which destroy each other,
+
+$\sqrt{VV'} \times H'' + V \times H'' + V' \times H'' = V \times H - V' \times H'$,
+
+which is the equation to be proved, and the solidity of the
+frustum is therefore equal to
+
+$\frac{1}{3} H'' \times (V + V' + \sqrt{VV'})$.

@@ -1,0 +1,62 @@
+$$a \prec a$$
+
+$$(a \prec b) \prec [(b \prec c) \prec (a \prec c)]$$
+
+$$a \prec [(a \prec b) \prec b]$$
+
+$$[a \prec (b \prec c)] \prec [b \prec (a \prec c)]$$
+
+$$[(a \prec b) \prec b] \prec [(b \prec a) \prec a]$$
+
+[del]$$(a \prec b) \prec [(b \prec c) \prec c]$$[/del]
+
+[del]$$(a \prec b) \prec [(b \prec c) \prec c]$$[/del]
+
+$$(a \prec b) \prec \{(b \prec c) \prec [(c \prec d) \prec d]\}$$
+$$= \{ \{ [(a \prec b) \prec b] \prec c \} \prec c \} \prec d \} \prec d$$
+
+$$\begin{aligned}
+& (a \prec b) \prec [(b \prec c) \prec c] \\
+= & \{ [(a \prec b) \prec b] \prec c \} \prec c
+\end{aligned}$$
+
+$$\begin{array}{c}
+a \prec [b \prec (c \prec d)] \\
+\bar{a} + \bar{b} + \bar{c} + d
+\end{array}$$
+
+[del]$$a \prec (b \prec c)$$[/del]
+[del]$$\bar{a} + \bar{b} + c$$[/del]
+
+$$(a \prec b) \prec c$$
+$$\bar{a}\bar{b} + c$$
+
+[del]$$a \prec (b \prec c)$$[/del]
+[del]$$a \prec (a \prec b)$$[/del]
+[del]$$a \prec (b \prec c)$$[/del]
+
+[del]$$a \prec \{ b \prec [c \prec (d \prec e)] \}$$[/del]
+[del]$$\bar{a} + \bar{b} + \bar{c} + \bar{d} + e$$[/del]
+[del]$$a \prec \{ a \prec [b \prec (b \prec c)] \}$$[/del]
+
+$$\begin{array}{c}
+(a \prec b) \prec (c \prec d) \\
+a\bar{b} + \bar{c} + d
+\end{array}$$
+
+[del]$$\bar{a} + b$$[/del]
+$$\bar{a} + \bar{b} + c$$
+$$[a \prec (b \prec c)] \prec d$$
+$$ab\bar{c} + d$$
+
+$$\begin{array}{c}
+a \prec b \prec (c \prec d) \\
+a \prec [b \prec (c \prec d)] \\
+\bar{a} + \bar{b}\bar{c} + d
+\end{array}$$
+
+$$\begin{array}{c}
+((a \prec b) \prec c) \prec d \\
+(\bar{a} + b)\bar{c} + d
+\end{array}$$
+[del]$$\bar{a} + \bar{b}$$[/del]

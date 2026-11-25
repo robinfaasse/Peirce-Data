@@ -1,0 +1,32 @@
+[pn]Multitude[/pn]
+
+thing obliges it to contain a $\Pi$ which is other than any $\Pi$ which it contains; and,
+therefore [del]condition[/del] [ins]the twelfth[/ins] forbids it to contain but one $\Pi$. It [del]is, therefore,[/del] [ins]consists of[/ins] [ins]a[/ins] single $\Pi$.
+If we arrange the $\Pi$s in a horizontal row so that [del]the[/del] $r$ shall be equivalent to being
+"further to the right than", then [del]the[/del] that $\Box$ which is $\underline{s}$ to $\Box_{0}$ but is not $\underline{s}$ to any
+other [del]$\Box$[/del] pack, which pack we may call $\Box_{1}$ must contain one $\Pi$ to the right of the
+$\Pi$ of $\Box_{0}$. It need contain no other, and therefore cannot contain any other. $\Box_{2}$ con-
+
+[fig]Diagram of vertical lines of varying heights with dots at the top and bottom[/fig]
+$\Box_{0}$
+$\Box_{1}$
+$\Box_{2}$
+$\Box_{3}$
+$\Box_{4}$
+
+tains a $\Pi$ immediately to the right of that of $\Box_{0}$ and another to the right of that of
+$\Box_{1}$, and after this each pack contains double the units of the preceding. Thus,
+[del]the[/del] $\Box_{N+1}$ contains $2^{N}$ units. As long as $N$ is enumerable this is enumerable.
+But as soon as $N$ becomes denumerable, it skips the denumerable multitude
+and becomes primipostnumeral.
+
+<u>Art. 40</u>. In order to prove that any proposition is generally true of every member
+of a denumerable collection, it is always necessary, — unless it be some proposition
+not peculiar to such a collection, — to consider the collection either in its primal
+arrangement, or in reference to some relation by which the collection is
+generable, and then reason as follows; where [ins]$\breve{r}$[/ins] [del]$\Pi$[/del] is the generating relation, and $M_{0}$
+is that $M$ which is not $\underline{r}$ to any $M$:
+$M_{0}$ is $X$;
+If any $M$ is $X$ then the $\breve{r}$ of $M$ is $X$
+$\therefore$ Every $M$ is $X$.
+Without this Fermatian syllogism no progress would ever have been made in the

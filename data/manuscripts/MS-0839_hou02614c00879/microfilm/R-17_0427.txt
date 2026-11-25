@@ -1,0 +1,35 @@
+[fig]vector diagram[/fig] $\frac{dr'}{d\varphi} e^{\theta'_i} + r' i e^{\theta'_i} \frac{d\theta'_i}{d\varphi}$
+
+$\nabla$
+$ds = \sqrt{(\frac{dr}{d\varphi})^2 + r^2 (\frac{d\theta}{d\varphi})^2}$
+
+$r' e^{\theta'_i} = \frac{r e^{\theta_i} - 1}{r e^{\theta_i} + 1}$
+
+[del]$r e^{\theta_i}$[/del]
+[del]$\frac{r e^{\theta_i} - 1}{r e^{\theta_i} + 1}$[/del] $= \frac{2}{\tan(45^\circ - \frac{\varphi}{2}) e^{\theta_i} + 1}$
+
+$D_x y = a \frac{\tan(45^\circ - \frac{\varphi}{2}) e^{\theta_i} - \tan(45^\circ - \frac{\varphi}{2}) e^{\theta_i}}{\tan(45^\circ - \frac{\varphi}{2}) e^{\theta_i} + \tan(45^\circ + \frac{\varphi}{2}) e^{\theta_i}} = 1 - \frac{2}{\tan^2(45^\circ - \frac{\varphi}{2}) \cos\lambda + 1 + \tan(45^\circ - \frac{\varphi}{2})}$
+
+$\tan(45^\circ - \frac{\varphi}{2}) e^{\theta_i}$
+$-\frac{1}{2} \sec^2(45^\circ - \frac{\varphi}{2}) e^{\theta_i}$
+$-\frac{1}{2} \sec^2(45^\circ - \frac{\varphi}{2}) e^{\theta_i}$
+
+$\frac{A \cos\theta - B \cos\theta_1 + (A \sin\theta - B \sin\theta_1) i}{A \cos\theta + \frac{1}{B} \cos\theta_1 + (A \sin\theta + \frac{1}{B} \sin\theta_1) i} a$
+
+$\frac{A^2 + B^2 - 2AB \cos(\theta - \theta_1)}{A^2 + \frac{1}{B^2} + 2\frac{A}{B} \cos(\theta - \theta_1)}$
+
+$R e^{\theta_i}$
+$a R e^{\theta_i}$
+$a R e^{\theta_i}$
+
+$y = b x^2$
+$D_x y = 2bx$
+$D^2_x y = 2b$
+
+[fig]diagram of lines[/fig]
+
+$r' = \frac{1}{2b}$
+
+$\frac{1}{r} - \frac{1}{r'}$
+$\frac{1}{r} - \frac{1}{r'} + dx$
+$\frac{1}{r} - \frac{1}{r'} - dx + 2b(dx)^2$

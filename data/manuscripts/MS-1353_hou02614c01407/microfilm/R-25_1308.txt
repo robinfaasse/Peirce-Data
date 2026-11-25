@@ -1,0 +1,36 @@
+To find varying scale of Skew Mercator
+
+[del]sin x[/del] [ins]cos U[/ins] = [del]cos u[/del]
+
+[del]sin d[/del] = [del]$\sqrt{1 - \frac{\cos^2 U}{\cos^2 u}}$[/del]
+
+$\cos V = \sqrt{\cos^2 u - \cos^2 U}$
+
+$\sin d_2 = \frac{\sqrt{\cos^2 u - \cos^2 U}}{\cos u_2}$
+
+$\sin d_2 = \frac{\sqrt{\cos^2 u_2 - \cos^2 u + \cos^2 U}}{\cos u_2}$
+
+$\cos U_2 = \sqrt{\cos^2 u_2 - \cos^2 u + \cos^2 U}$
+$\sin^2 U_2 = \sin^2 U + \sin^2 u_2 - \sin^2 u$
+
+[del]$\sin_2$[/del] $- 2 \cos u_2 \sin u_2 du_2 + 2 \cos u \sin u du = 0$
+
+$\frac{\sin 2u du = \sin 2u_2 du_2}{\sin^2 u - \sin^2 u_2}$
+
+[del]$2 \sin$[/del] $\sin u \cdot d \sin u = \sin u_2 d \sin u_2$
+
+$ds = \frac{\sqrt{1 - \varepsilon^2 + \varepsilon^2 \sin^2 u}}{\sqrt{\sin^2 U - \sin^2 u}} d \sin u$
+
+$ds_2 = \frac{\sqrt{1 - \varepsilon^2 + \varepsilon^2 \sin^2 u_2}}{\sqrt{\sin^2 U - \sin^2 u}} \frac{\sin u \cdot d \sin u}{\sin u_2}$
+
+$\frac{ds_2}{ds} = \frac{\sqrt{1 - \varepsilon^2 + \varepsilon^2 \sin^2 u_2}}{\sin u_2} \frac{\sin u}{\sqrt{1 - \varepsilon^2 + \varepsilon^2 \sin^2 u}}$
+
+$= \frac{\sin [del]\text{Lat}_2[/del]}{\sin \text{Lat}}$
+
+[fig]Coordinate axes with intersecting curves and lines[/fig]
+
+$\log \tan$
+$\log \tan (45^\circ - \frac{\varphi}{2})$
+
+$\frac{sq}{\tan (45^\circ - \frac{\varphi}{2})}$
+$\propto \sec \varphi$

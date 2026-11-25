@@ -1,0 +1,66 @@
+[pn]8[/pn]
+
+it; every lot of pairs has some relation
+subsisting between the first and second
+members of each one of those pairs and
+between no others. In other regards; the uni-
+verses are not unlimited; of characters peculiar
+to us there is quite a limited number; of colours
+definable by Newtons diagram not all can exist.
+In like manner, the universes of quantity, position
+etc. of the mathematician are unlimited universes.
+Of the objects of such a universe everything is true
+which can be true; every proposition is true from
+which the unlimited universe cannot be eliminated
+without yielding a true proposition. [As a general
+rule, every proposition in $\Sigma_{\alpha} q_{\alpha}$ and $\Sigma_{\alpha} \bar{q}_{\alpha}$ is true; but
+there are many exceptions.]
+
+To illustrate the application of this principle,
+consider the ninth icon, page 200. this is written
+$$\Pi_a \Sigma_k \Pi_b\ q_{ka} (\bar{q}_{kb} + 1_{ab})$$
+Now $k$ can only be eliminated from this without involution
+in two ways; $1^{\text{st}}$, eliminating $q_{ka}$ and $q_{kb}$ independently,
+we have
+$$\Pi_a \Pi_b (\bar{1}_{ab} + 1_{ab}),$$
+an identical proposition; $2^{\text{nd}}$, identifying $b$ with
+$a$, we get
+$$\Pi_a 1_{aa},$$
+another identical proposition. We next proceed
+[del]sq[/del] [ins]to square[/ins] the proposition, and we have
+$$\Pi_a \Sigma_k \Pi_b \Pi_c\ q_{ka} (\bar{q}_{kb} + 1_{ab}) (\bar{q}_{kc} + 1_{ac})$$
+We must identify $k$ in the factors or we should
+[del]get[/del] no result; and this forces us to identify
+
+it is plain that we cannot [del]from th[/del] square,
+[del]ate[/del] in any new ways, and therefore we could
+not from any higher power, and consequently
+the original proposition is proved true.
+
+Suppose, however, we had written that proposition
+$$\Sigma_k \Pi_a \Pi_b\ q_{ka} (\bar{q}_{kb} + 1_{ab})$$
+Squaring this we have
+$$\Sigma_k \Pi_a \Pi_b \Pi_c \Pi_d\ q_{ka} q_{kc} (\bar{q}_{kb} + 1_{ab}) (\bar{q}_{kd} + 1_{cd})$$
+Now identify $d$ with $a$, $c$ with $b$, and we have
+$$\Pi_a \Pi_b 1_{ab},$$
+which is absurd.
+
+By the same principle we can if we please solve
+the example of p. 200 as follows. Given the premise
+$$\Pi_k (q_{ki} + \bar{q}_{kj})$$
+We multiply the square of this by an identical pro-
+position, thus,
+$$\Pi_{\lambda} \Pi_{\mu} \Pi_{\mu} (q_{\lambda i} + \bar{q}_{\lambda j}) (q_{\lambda j} + \bar{q}_{\lambda j}) (q_{\mu i} + \bar{q}_{\mu j})$$
+Identifying $\mu$ with $\lambda$, we get
+$$\Pi_{\lambda} \Pi_k (q_{\lambda i} + \bar{q}_{\lambda i}) (q_{\lambda j} + \bar{q}_{\lambda j}) (q_{ki} + \bar{q}_{kj}) (q_{ki} + \bar{q}_{kj}).$$
+We now introduce $\bar{q}_{ki}$ and $q_{kj}$ into the identical pro-
+position wherever we please so long as they cannot be
+eliminated without making the proposition otherwise
+than identical; and this condition will be fulfilled
+long as we do not introduce $q_{ki}$ or $\bar{q}_{kj}$. Only $\Pi$
+must be changed to $\Sigma_k$. We get then
+$$\Pi_{\lambda} \Sigma_k (q_{\lambda i} \bar{q}_{ki} + \bar{q}_{\lambda i}) (q_{\lambda j} + \bar{q}_{kj} \bar{q}_{\lambda j}) (q_{ki} + \bar{q}_{kj})$$
+This gives successively
+$$\Pi_{\lambda} \Sigma_k (q_{\lambda i} \bar{q}_{ki} \bar{q}_{ki} \bar{q}_{kj} + \bar{q}_{\lambda i} q_{kj} \bar{q}_{\lambda j} q_{ki})$$
+and
+$$\Pi_{\lambda} (q_{\lambda i} q_{\lambda j} + \bar{q}_{\lambda i} q_{\lambda j}).$$

@@ -1,0 +1,18 @@
+Second part of the definition of the copula of inclusion.
+
+<u>VI.</u>          $x \prec x$.
+
+<u>Corollary 5</u> From III without VI or even I, it follows
+that          $x \prec x + x$          $x x \prec x$.
+
+By VI, and IV,
+          $x + x \prec x$          $x \prec x x$.
+
+[del]<u>Theor. IV. (Schröder)</u> $x + x y \prec x$          $x \prec x (x + y)$.[/del]
+[del]<u>Proof.</u> By III'          $x y \prec x$[/del]
+          By III', VI and IV. Then corollary I.
+<u>Corollary 6.</u> (Schröder) From III', VI, and IV,
+          $x + x y \prec x$.
+
+Then, by corollary 2,
+          $x \prec x (x + y)$.

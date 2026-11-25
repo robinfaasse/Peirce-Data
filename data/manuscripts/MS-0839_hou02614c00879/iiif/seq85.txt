@@ -1,0 +1,37 @@
+$x^2 + y^2 - R^2 = 0$
+$\frac{x}{a_1} + \frac{y}{b_1} = 1$
+$\frac{x}{a_1} + \frac{\sqrt{R^2 - x^2}}{b_1} = 1$
+$\frac{R^2 - x^2}{b_1^2} = 1 - 2\frac{x}{a_1} + \frac{x^2}{a_1^2}$
+$\frac{R^2}{b_1^2} - 1 = -2\frac{x}{a_1} + x^2 (\frac{1}{a_1^2} + \frac{1}{b_1^2})$
+$\frac{\frac{R^2}{b_1^2} - 1}{\frac{1}{a_1^2} + \frac{1}{b_1^2}} = -2x \frac{1}{a_1 (\frac{1}{a_1^2} + \frac{1}{b_1^2})} + x^2$
+$x^2 + y^2 = R^2$
+$r = R$
+$A_1 \sec(\theta - \theta_1) = r$
+$\pm \arccos \frac{A_1}{R} + \theta_1 = \theta$
+For A  $\theta = \theta_1 - \arccos \frac{A_1}{R}$
+B  $\theta = \theta_1 + \arccos \frac{A_1}{R}$
+C  $\theta = \theta_2 - \arccos \frac{A_2}{R}$
+D  $\theta = \theta_2 + \arccos \frac{A_2}{R}$
+
+[fig]diagram[/fig]
+
+[fig]diagram[/fig]
+$\frac{b}{x} = \frac{\sqrt{a^2 + b^2}}{a}$
+$x = \frac{ab}{\sqrt{a^2 + b^2}}$
+
+[fig]diagram[/fig]
+$\frac{r \cos \theta}{a} + \frac{r \sin \theta}{b} = 1$
+
+For AD $x = R \cos (\frac{\theta_1 + \theta_2 + \frac{1}{2} \arccos \frac{A_2}{R} - \frac{1}{2} \arccos \frac{A_1}{R}}{2})$
+$r = \frac{R \sec \theta}{\cos \theta + \sin \theta \tan \frac{\vartheta_1 + \vartheta_2}{2}}$
+For BC
+[del]the[/del] $\frac{\cos \frac{\vartheta_1 + \vartheta_2}{R}}{\cos \vartheta + \sin \vartheta \tan \frac{\vartheta_1 + \vartheta_2}{2}}$
+$A \sec (\theta - \theta_1) = r$
+
+[fig]diagram[/fig]
+
+[fig]diagram[/fig]
+$\frac{R \cos \frac{\vartheta_1 + \vartheta_2}{2}}{\sec (\vartheta - \frac{\vartheta_1 + \vartheta_2}{2})} = r$
+
+[fig]diagram[/fig]
+839

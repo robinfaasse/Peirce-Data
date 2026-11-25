@@ -1,0 +1,38 @@
+[marginalia]
+[fig]triangle[/fig]
+[del]1[/del] + [del]g[/del] [ins]$\gamma$[/ins] + [del]g[/del] [ins]$\gamma^2$[/ins] = 0
+[del]1 + g = g^2[/del]
+[/marginalia]
+
+$\left. \begin{array}{r}
+a + g b + g^2 c \\
+a + b + c \\
+a + g^2 b + g c \\
+a + g^2 b + g c
+\end{array} \right\}$
+
+[u]3 a[/u]
+
+[del]a^2 + ab + ac[/del]
+$a^2 + g^2 b^2 + g c^2 + [del]g^2[/del] [ins]2[/ins] ab - g ac - bc$
+$a^2 + g b^2 + g^2 c^2 - g ab - g^2 ac - bc$
+$a^2 + b^2 + c^2 - ab - ac - bc$
+[u]$3 a^2 - bc$[/u]
+$a^3 + b^3 + c^3 - 3 abc$ [del]+ 2 abc + 2 abc + 2 abc[/del]
+
+---
+
+$\xi = x + y$
+$\eta = x - y$
+$\xi \eta = x^2 - y^2$
+
+$\begin{array}{r}
+[del]x + y + z[/del] \\
+= x + y - z \\
+x - y + z \\
+-x + y + z
+\end{array}$
+
+$x^2 - [del]y^2[/del] [ins]$y^2$[/ins] + 2 yz - z^2$
+$\frac{1}{3} (x + y + z) = a$
+$\frac{1}{9} \left( \begin{array}{l} x^2 + y^2 + z^2 \\ - 2xy - 2xz - 2yz \end{array} \right) = a^2$

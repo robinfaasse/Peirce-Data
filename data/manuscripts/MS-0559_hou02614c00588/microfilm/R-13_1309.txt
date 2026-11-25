@@ -1,0 +1,15 @@
+Since $\log \infty = \infty^0$, [ins]it follows that[/ins] $\log \infty \times \log \infty = \infty^0 \infty^0 = \infty^{0+0} = \infty^0$ is of the same order as $\log \infty$. [del]Thus,[/del] But $0 \log \infty = $ [del]$\infty^{-1} \log \infty$[/del] $\infty^{-1} \infty^0 = \infty^{-1+0} = \infty^{-1} = 0$. Thus, we have
+
+$$\log \infty \times \log \infty = \log \infty \qquad 0 \log \infty = 0$$
+
+$$0 \times 0 = 0.$$
+
+The algebra system of [del]quantity[/del] measurement of probabilities whose extremes [del]are[/del] values are $0$ and $\log \infty$ is that which follows, according to Fechner's law, the intensity of the sensations produced by the contemplation of the probabilities.
+
+For aggregation combined with multiplication, I was the first to remark that the distributive principle holds in two ways. Namely, not only is
+
+$$(a \cdot|\cdot b) \times c = (a + b - ab)c = ac + bc - abc = (a \times c) \cdot|\cdot (b \times c)$$
+
+but also
+
+$$a \cdot|\cdot (b \times c) = a + bc - abc = (a + b - ab)(a + c - ac) = (a \cdot|\cdot b) \times [del](a \cdot|\cdot c)[/del] [ins](a \cdot|\cdot c)[/ins]$$

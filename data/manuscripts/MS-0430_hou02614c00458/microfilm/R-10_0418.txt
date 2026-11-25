@@ -1,0 +1,7 @@
+[pn]Logic
+III
+84[/pn]
+
+Hence, by (68) [del]if[/del] [ins]if[/ins] $y \prec x \prec y$ is scriptible, and by contraposition $[(x \prec y) \prec z] \prec y \prec z$, and again by contraposition $[(y \prec z) \prec z] \prec [(x \prec y) \prec z] \prec z$ so that, by (60), if $(y \prec z) \prec z$ is scriptible $[(x \prec y) \prec z] \prec z$ is scriptible. Thus, under either alternative, if $x \prec (y \prec z) \prec z$ is scriptible, $[(x \prec y) \prec z] \prec z$ is scriptible.
+
+I will now prove that if the latter is scriptible, so also is the former. [del]Now[/del] By (79) is $[(x \prec y) \prec z] \prec z$ is scriptible, either $z$ or $x \prec y$ is scriptible. Consider the former alternative. By (65), if $z$ is scriptible, $(y \prec z) \prec z$ is scriptible, whence $x \prec (y \prec z) \prec z$ is scriptible. Consider the other alternative. If $x \prec y$ is scriptible, by contraposition, $(y \prec z) \prec x \prec z$ is scriptible, and, by transposition, $x \prec (y \prec z) \prec z$ is scriptible. Thus, under either alternative, if $[(x \prec y) \prec z] \prec z$ there is scriptible $x \prec (y \prec z) \prec z$ is scriptible. Hence, by (68) and (77), the two expressions are equivalent.

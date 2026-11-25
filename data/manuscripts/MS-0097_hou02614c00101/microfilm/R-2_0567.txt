@@ -1,0 +1,70 @@
+[pn]9[/pn] I begin with some rudimentary reflexions from Geometry. Three branches of Geometry there are, sharply separated and widely remote in every particular. The most rudimentary is best called Topics. It treats of the modes of connexion of the different parts of places.
+
+Some attention was called to it by the great though perhaps somewhat narrow genius Euler, in enunciating this proposition: In any polyhedron, the sum of the number of faces and the number of summits exceeds by 2 the number of edges. But this is [del]only[/del] true only if the polyhedron has no polyhedral hollow within it [ins]or canal breaking through edges[/ins] Thus we have,
+
+[fig]Table of polyhedron properties[/fig]
+$$\begin{array}{lccccc}
+& \text{Solid cube} & \begin{array}{c} \text{Cube with triangular} \\ \text{hole through opposite} \\ \text{faces} \end{array} & \begin{array}{c} \text{Cube with a four sided} \\ \text{hole from} \\ \text{edge to edge} \end{array} & \begin{array}{c} \text{Cube with} \\ \text{two polyhedral} \\ \text{hollows} \\ \text{in it} \end{array} \\
+\text{Faces} & 6 & 9 & 10 & 14 \\
+\text{Summits} & 8 & 14 & 16 & 16 \\
+\text{Sum} & 14 & 23 & 26 & 30 \\
+\text{Edges} & 12 & 21 & 26 & 24 \\
+\text{Excess} & 2 & 2 & 0 & 6
+\end{array}$$
+
+[fig]Geometric sketches and calculations[/fig]
+
+$$\begin{array}{l}
+\text{Cube with} \\
+\text{canals from} \\
+\text{each summit} \\
+\text{to opposite} \\
+\text{summit, these} \\
+\text{four canals} \\
+\text{all meeting} \\
+\text{in an octahedral} \\
+\text{chamber} \\
+\text{Faces } 6 + 8 \cdot 3 \quad 30 \\
+\text{Summits } 3 \cdot 8 + 6 \quad 30 \\
+\quad \text{Sum} \qquad\qquad 60 \\
+\text{Edges } 12 + 3 \cdot 8 + 3 \cdot 8 + 12 = 72 \\
+\text{Excess} \qquad\qquad -12
+\end{array}$$
+
+$$\begin{array}{l}
+\text{\underline{Chorisis}} \\
+\text{Points } X \quad 14 \\
+\text{Lines } X \qquad\quad 21 \\
+\text{Surfaces } X \quad 9 \quad \frac{2}{2} \quad 1 \\
+\text{Solids } X \qquad\quad \underline{2} \\
+\qquad\qquad\quad 2 \quad 25
+\end{array}$$
+
+[fig]Cylinder sketch[/fig]
+$$\begin{array}{l}
+\text{faces } 4 \\
+\text{Summits } 4 \\
+\hline \qquad 8 \\
+\text{edges } \underline{6} \\
+\qquad 2
+\end{array}$$
+
+[fig]Prism and other geometric sketches[/fig]
+
+$$\begin{array}{l}
+\text{Points } Ch \\
+\qquad 4 \\
+\text{Edges } Ch \\
+\qquad 4 \quad 6 \\
+\text{Faces } \\
+\qquad 4 \\
+\text{Solids } \ \underline{2} \\
+\qquad 8 \ \ 8
+\end{array}$$
+
+$$\begin{array}{l}
+\text{faces } 12 \quad \text{edges } 6 \\
+\text{Summits } 12 \qquad\quad 10 \\
+\hline \qquad 24 \qquad\quad \underline{10} \\
+\qquad\qquad\qquad\quad 2
+\end{array}$$

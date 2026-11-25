@@ -1,0 +1,21 @@
+[del]One copula[/del]
+I. $a \prec b = \bar{a} + b$ No other equally simple way
+
+Special
+1. $a \prec a$ Necessary
+
+[u]2 copulas[/u]
+I. $a \prec (b \prec c) = \bar{a} + \bar{b} + c = b \prec (a \prec c)$
+Rule of commutation.
+
+Special
+1. $a \prec (b \prec a)$ Necessary
+2. $a \prec (b \prec b)$ Necessary consequence of I.1.
+3. $a \prec (a \prec b) = a \prec b$
+
+II. $(a \prec b) \prec c = a \bar{b} + c$ No other equally simple way
+
+Special
+1. $(a \prec b) \prec a = a$ Follows from II 3
+2. $(a \prec b) \prec b = a + b = (b \prec a) \prec a$
+3. $(a \prec a) \prec b = b$ This extends to any case where [del]the antecedent is necessary[/del]

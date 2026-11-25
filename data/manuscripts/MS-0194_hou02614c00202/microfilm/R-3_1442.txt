@@ -1,0 +1,23 @@
+The variable point in $\{w\} = [del]\frac{O'\{x\}}{O'\{y\}}[/del] \{O' [x\{02\}]\} = \{O' [xy]\}$ is
+$$\begin{aligned}
+\{w\} = & \Big\{ [r(1-r)q(1-r) + irq(1-r) - i(1-q)r] [ (r-i)q-r ] [ins]w[/ins] + [ins](1-w)[/ins] [r(r-i-1)(1-q)r] [r(1-r)q + i(rq-r)] \Big\} S \\
+& + (1-w)(r-i)(q-r) [r(1-r)q + i(rq-r)] A \\
+& [del]+ w [r(1-r)qr - i(1-r)qr] + (1-w)(r-i-1)qr[/del] \\
+& + \Big\{ [del]w [ (r-1)[/del] (r-i)(1-r)(qr) [ (r-i)q-r ] + (1-w)(r-i-1)qr [r(1-r)q + i(rq-r)] \Big\} R
+\end{aligned}$$
+
+[u]$$\begin{aligned}
+& rq - r^2q - rqr + r^2qr + irq - irqr - ir + iqr \\
+& rq - r - iq \\
+\hline & r^2q^2 - r^3q^2 - r^2q^2r + r^3q^2r + [ins]\begin{aligned} & ir^2q^2 \\ & + ir^2q^2 \end{aligned}[/ins] - [del]ir^2q^2r[/del] [ins]- ir^2q^2r[/ins] - ir^2qr + ir^2q^2r \\
+& - rqr + r^2qr + rqr^2 - r^2qr^2 - irq^2 [del]+ ir[/del] [ins]- ir^2q^2 + i^2r^2qr + i^2qr - i^2q^2r[/ins] - irqr^2 + ir^2 - iqr^2
+\end{aligned}$$[/u]
+
+[u]$$\begin{aligned}
+& rq - r^2q + irq - ir \\
+& r - i - 1 \\
+\hline & r^2q - r^3q + [ins]\begin{aligned} & ir^2q \\ & + ir^2q \end{aligned}[/ins] - ir^2 \\
+& - rq [del]\begin{aligned} & - irq \\ & - irq \end{aligned}[/del] [ins]\begin{aligned} & - irq \\ & - irq \end{aligned}[/ins] - i^2rq + i^2r \\
+& + ir \\
+\hline & + r^3q^2r - 2r^2q^2r + rq^2r - 2ir^2q^2r + 2irq^2r + irq[del]r[/del]^2 - iqr^2 + i^2r^2qr - i^2qr^2
+\end{aligned}$$[/u]

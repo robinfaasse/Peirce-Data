@@ -1,0 +1,8 @@
+(1) $(r/R)^{2} + (z/Z)^{2} = 1$
+(2) $(r/R) \cdot d(r/R) + (z/Z) \cdot d(z/Z) = 0$
+$d(r/R) = dr/R$ and $d(z/Z) = d[del]x[/del][ins]z[/ins]/Z$
+$\therefore dr = R \cdot d(r/R)$ and $dz = Z \cdot d(z/Z)$
+$(dr)^{2} = R^{2} [d(r/R)]^{2}$ and $(dz)^{2} = Z^{2} [d(z/Z)]^{2}$
+$(dr)^{2} + (dz)^{2} = R^{2} [d(r/R)]^{2} + Z^{2} [d(z/Z)]^{2}$
+But by (2):
+$d(z/Z) = - (Z/z) (r/R) \cdot d(r/R)$

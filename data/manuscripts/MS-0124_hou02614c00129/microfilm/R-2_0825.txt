@@ -1,0 +1,32 @@
+[u]Notes on Laurent's Calcul des Probabilités.[/u]
+
+$A_m^n$ is the number of arrangements on $m$ objects taken in $n$'s
+
+The arrangements of four objects taken in 2's
+are AB AC AD BC BD CD
+BA CA DA CB DB DC
+
+To get the arrangements $A_m^{n+1}$, it suffice to put at the
+end of each arrangement $A_m^n$, each of the objects
+that does not occur. Thus [del]with[/del] to get arrangements of
+4 objects in 3's
+ABC ACB ADB BCA BDA CDA
+ABD ACD ADC BCD BDC CDB
+BAC CAB DAB CBA BBA DCA
+BAD CAD DAC CBD DBC DCB
+
+Thus $A_m^{n+1} = (m-n) A_m^n$
+
+[del]so that $A_m^n = $[/del] Hence $A_m^n = m^{\underline{n}}$ that is $\frac{m!}{(m-n)!}$
+But $A_m^1 = m$
+Hence if $P_m$ is the number of permutations of $m$ things
+$P_m = A_m^m = \frac{m!}{(m-m)!} = m!$
+
+If $C_m^n$ is the number of combinations of $m$ things taken in $n$'s, that
+is the arrangements regardless of the order
+$C_m^n = \frac{A_m^n}{P_n} = \frac{m!}{(m-n)! n!}$
+
+Or if $\alpha$ is the number of things taken and $\beta$ the number left
+[del]The[/del] and $M_\beta^\alpha$ is the multitude of collections [del]of[/del] taking $\alpha$ things and
+leaving $\beta$ things
+$M_\beta^\alpha = \frac{(\alpha+\beta)!}{\alpha! \beta!}$

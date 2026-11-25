@@ -1,0 +1,33 @@
+[pn]Ms. 834[/pn]
+
+[u]One parenthe[/u]
+[u]$1^{\text{st}}$ Degree Knowledge[/u]
+
+a $(A)$
+b $(AB)$ $b^2 (AY)$
+c $(ABY)$
+d $(ABYZ)$
+
+$5$ types
+
+[u]$2^{\text{nd}}$ Degree Knowledge[/u]
+
+$(aa)'$ $(A)(B)$ $aa^2$ $(A)(Y)$
+$(AB)(A)$ $(AB)(Y)$ $(AB)(YZ)$
+$(AY)(A)$ $(AY)(B)$ $(AY)(AB)$ $(AY)(YZ)$ $(AY)(BZ)$
+$(ABY)(A)$ $(ABY)(B)$ $(ABY)(Z)$
+$(ABY)(AB)$ $(ABY)(YZ)$ $(ABY)(AY)$ $(ABY)(AZ)$
+$(ABY)(ABZ)$ $(ABY)(MYZ)$
+$23$ types $(ABYZ)(A)$ $(ABYZ)(AB)$ $(ABYZ)(AY)$ $(ABYZ)(ABY)$
+
+[u]$3^{\text{rd}}$ Degree Knowledge[/u]
+
+$(A)(B)(Y)$
+$(AB)(A)(B)$ [del]$(AB)$[/del] $(AB)(A)(Y)$ $(AB)(Y)(Z)$ $(AB)(YZ)(A)$
+$(AY)(A)(Y)$ $(AY)(A)(B)$ $(AY)(B)(Y)$ $(AY)(B)(Z)$
+$(AY)(AB)(A)$ $(AY)(AB)(B)$ $(AY)(AB)(Y)$ $(AY)(AB)(Z)$
+$(AY)(AB)(BY)$
+
+[marginalia]
+[fig]Circular diagram with letters A, B, C, D, E, P, Q, O[/fig]
+[/marginalia]

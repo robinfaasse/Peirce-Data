@@ -1,0 +1,10 @@
+If, for the sake of abbreviation, we use the notation
+[u]\xi[/u] = [del][ins]\frac{8 \Psi_k}{a^2}[/ins][/del] [ins]\frac{8 \Psi_k}{a^2}[/ins] (x - \frac{1}{2} a)
+K = \frac{8 \varepsilon \Psi_k}{q a^2}
+the integral (to a constant près) is
+[u]l[/u] = \frac{\varepsilon}{q} \{ [u]\xi[/u] + K log [\sqrt{1+\xi^2} - \xi] + \frac{K^2}{\sqrt{K^2-1}} log \frac{\sqrt{1+\xi^2} - \xi + K + \sqrt{K^2-1}}{\sqrt{1+\xi^2} - \xi + K - \sqrt{K^2-1}} \}
+
+But owing to this being composed of terms far larger than the quantity
+itself, it is far from perspicuous. The following approximate expres-
+sion is far preferable
+[u]l[/u] = \frac{1}{2 K'} \xi \sqrt{1+\xi^2} + \frac{1}{2 K'} log [\sqrt{1+\xi^2} + \xi] - [del][fig]scribble[/fig][/del] \frac{q}{\varepsilon K'^2} (\xi + \frac{1}{3} \xi^3)

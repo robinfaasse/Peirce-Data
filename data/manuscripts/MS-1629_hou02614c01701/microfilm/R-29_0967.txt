@@ -1,0 +1,17 @@
+[pn]§2.10 Ex 2.[/pn]
+
+$$ab D_x^2 X + (a+b) D_{xt}^2 X + D_t^2 X = 0$$
+
+$$s^2 + (a+b) \sqrt{s} + \frac{1}{4} (a+b)^2 \lambda^2 = \lambda^2 \left( -\frac{1}{4} a^2 + \frac{1}{2} ab - \frac{1}{4} b^2 \right)$$
+
+$$s + \frac{1}{2} (a+b) \sqrt{\lambda} = \pm \sqrt{\frac{1}{2} \lambda} (a-b)$$
+
+$$s = \sqrt{\lambda} a \text{ or } = \sqrt{\lambda} b$$
+
+$$\underset{s = \sqrt{\lambda} a}{X_0} = \mathcal{G}^{a \lambda \sqrt{t}} f_\alpha = \frac{1}{2 \partial} \int_{\alpha \lambda}^{x} \mathcal{G}^{\lambda \sqrt{t} (x-\alpha)} \mathbb{X} = \frac{1}{2 \partial} \int_{\alpha \lambda}^{x} \mathcal{G}^{\sqrt{\lambda} (x-\alpha-at)} f_\alpha =$$
+
+$$f(x-at)$$
+
+$$X = X_0 + X_1 = f(x-at) + F(x-bt)$$
+
+[fig]signature of C. S. Peirce[/fig]

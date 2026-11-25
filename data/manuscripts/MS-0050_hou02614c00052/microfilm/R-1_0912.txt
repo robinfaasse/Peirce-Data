@@ -1,0 +1,25 @@
+[marginalia]
+Attraction
+10
+[pn]8[/pn]
+[/marginalia]
+
+gorean proposition, we shall have
+[del]v²(dt)²[/del] [ins]v²[/ins] = (dr)² + r²(dθ)²
+or v² = ([del]dr[/del] [ins]dr[/ins]/dt)² + r²([del]dθ[/del] [ins]dθ[/ins]/dt)².
+
+But, by the equation at the end of the last article, this
+gives
+v² = (dr/dt)² + A²/r² ,
+or k([del]1/r²[/del] [ins]dt=[/ins] - 1/r₀²) = (dr/dt)² + A²/r²
+
+This equation expresses the law of [del]relation between[/del] [ins]or regu-[/ins]
+larity, about the times at which the radius vector attains
+different magnitudes.
+
+(16) Applying the equation of (14) to the last of (15) we
+get
+dθ = A/√k · dr / r√1 - A²/k - r²/r₀²
+
+This is the differential equation of the curve described by the
+particle.

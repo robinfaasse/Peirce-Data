@@ -1,0 +1,60 @@
+[marginalia]
+[pn]1914 Feb 26[/pn]
+[u]page 1[/u]
+[/marginalia]
+
+The general equation of the ellipsoid [del]referred to its axes as[/del] [ins]expressed in[/ins] coordinates parallel to its axes with the origin at the centre is
+
+(1) [space] [u]$(x/X)^2 + (y/Y)^2 + (z/Z)^2 = 1$[/u]
+
+But when $X=Y$ putting $R$ for each, and $r^2$ for $x^2+y^2$, the equation becomes
+
+(2) [space] [u]$(r/R)^2 + (z/Z)^2 = 1$[/u]
+
+Now removing the origin to one extremity of the $Z$-axis and [del]writing $Z-z$ for $z$[/del] [ins]consequently[/ins] writing [del]$Z-z$[/del] [ins]$Z-\mathfrak{z}$[/ins] for $z$, we get by transposition
+
+(3) [space] $(r/R)^2 = 1 - (\frac{Z-\mathfrak{z}}{Z})^2 = [del]2 \frac{\mathfrak{z}}{Z} - 1[/del] = \frac{(2Z-\mathfrak{z})\mathfrak{z}}{Z^2}$
+
+or
+
+(4) [space] $r = [del]\pm[/del] \frac{R}{Z} \sqrt{(2Z-\mathfrak{z})\mathfrak{z}}$
+
+[marginalia]
+in (2) [del]is[/del] [ins]was[/ins] assumed to have the same value for all directions in the plane of $xy$
+[/marginalia]
+
+the sign of which, it will soon [del]be found[/del] [ins]appear[/ins], may [del]be taken as $+$ throughout, as long as $r$[/del] [ins]proportional[/ins] where the square root denotes the mean [del]between[/del] [ins]proportional[/ins] the distances [del]betw[/del] from the two poles of the ellipsoid of the foot of the perpendicular [del]f[/del] let fall from any point of the surface upon the axis of $\mathfrak{z}$. In the case of the terrestrial spheroid $R > Z$. [del]It will[/del] [ins]It will be found that a convenient expression for $\frac{\sqrt{dr^2+d\mathfrak{z}^2}}{r}$ is[/ins] The differential [del]$\sqrt{dr^2+(d\mathfrak{z})^2}$[/del] will be needed. [del]Now[/del] Differentiating (4), we get
+
+(5) [space] $dr = \frac{R}{Z} \frac{Z-\mathfrak{z}}{\sqrt{(2Z-\mathfrak{z})\mathfrak{z}}} d\mathfrak{z}$
+
+[marginalia]
+and its [ins]therefor[/ins] maximum value is, of course, [del]$R$[/del] [ins]directly[/ins] [del]which is equally[/del] [ins]as[/ins] evident from (4), since $R$ is the maximum value of $r$ for the ellipsoidal surface.
+[/marginalia]
+
+Squaring (5), we get
+
+(6) [space] $(dr)^2 = [del](\frac{R}{Z})^2 (\frac{Z^2}{(2Z-\mathfrak{z})\mathfrak{z}} - 1) (d\mathfrak{z})^2[/del] = (\frac{R^2}{Z^2} \frac{(Z-\mathfrak{z})^2}{(2Z-\mathfrak{z})\mathfrak{z}}) (d\mathfrak{z})^2 = \frac{R^2}{Z^2} (\frac{Z^2}{(2Z-\mathfrak{z})\mathfrak{z}} - 1) (d\mathfrak{z})^2$
+
+whence
+
+(7) [space] $(dr)^2 + (d\mathfrak{z})^2 = (\frac{R^2}{(2Z-\mathfrak{z})\mathfrak{z}} [del]+[/del] [ins]$-$[/ins] \frac{R^2-Z^2}{Z^2}) (d\mathfrak{z})^2$
+
+and dividing [ins]$(7)$[/ins] by the square of (4), we get
+
+(8) [space] $\frac{(dr)^2 + (d\mathfrak{z})^2}{r^2} = (\frac{Z^2}{(2Z-\mathfrak{z})^2 \mathfrak{z}^2} [del]+[/del] [ins]$-$[/ins] \frac{R^2-Z^2}{R^2} \frac{Z^2}{(2Z-\mathfrak{z})\mathfrak{z}}) (d\mathfrak{z})^2$
+
+[marginalia]
+$= \frac{Z^2}{(2Z-\mathfrak{z})\mathfrak{z}} (\frac{1}{(2Z-\mathfrak{z})\mathfrak{z}} - \frac{R^2-Z^2}{R^2})$
+[/marginalia]
+
+and extracting the square root of (8) will be
+
+(9) [space] $\frac{\sqrt{(dr)^2 + (d\mathfrak{z})^2}}{r} = \frac{Z d\mathfrak{z}}{(2Z-\mathfrak{z})\mathfrak{z}} \sqrt{1 - \frac{R^2-Z^2}{R^2} [del](\frac{1}{Z^2} - \frac{1}{R^2})[/del] (2Z-\mathfrak{z})\mathfrak{z}}$
+
+[marginalia]
+$\frac{1}{(2Z-\mathfrak{z})\mathfrak{z}}$
+[/marginalia]
+
+But the maximum value of $(2Z-\mathfrak{z})\mathfrak{z}$ is $Z^2$ [ins]while its minimum is zero[/ins] the product of which by $[del]1/Z^2 - (1/R)^2[/del]$ is $1 - (\frac{Z}{R})^2$, while $\frac{1}{Z^2} - \frac{1}{R^2} = \frac{1}{R^2} (\frac{R^2}{Z^2} - 1) = \frac{1}{Z^2} (1 - \frac{Z^2}{R^2})$
+
+The quantity under the square root is therefore between [del]unity and[/del] $\frac{Z}{R}$ or $\frac{294}{295}$ according to Hayford's tremendous and triumphant calculation.

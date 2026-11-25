@@ -1,0 +1,41 @@
+I. $\Pi_b \Pi_c (\beta_{cb} + \gamma_b + \gamma_c)$
+
+II. $\Pi_a \Pi_c (\alpha_{ca} + \gamma_a + \gamma_c)$
+
+III. $\Pi_a \Pi_b \Pi_c (\overline{\alpha}_{ca} + \overline{\beta}_{cb} + \overline{\gamma}_a + \overline{\gamma}_c + \gamma_b)$
+
+I alone once If Z then Y $\prec$ Z
+I alone twice
+$\overline{\beta}_{cb} + \overline{\gamma}_b + \gamma_c$
+$\overline{\beta}_{dc} + \overline{\gamma}_c + \gamma_d$
+If Z then X $\prec$ (Y $\prec$ Z)
+etc
+
+[u]II alone nothing[/u]
+
+III alone once. Gives fallacy.
+III alone twice
+$\overline{\alpha}_{ca} + \overline{\beta}_{cb} + \overline{\gamma}_a + \overline{\gamma}_c + \gamma_b$
+[fig]crossed lines[/fig]
+$\overline{\gamma}_c + \overline{\gamma}_a + \gamma_c$
+
+[del]If one man says that[/del] [ins]what the other says is true it is true[/ins] [del]if B is true what the other says is true[/del]
+[del]If what the other says is[/del] That if [del]what the first says is true[/del] [ins]B is true[/ins]
+
+III alone Three times
+$\overline{\gamma}_a + \overline{\gamma}_c + \gamma_b$
+[del]A man says that[/del]
+[del]A says that if what[/del]
+[del]D says is true then what C says is true[/del]
+[del]D says that if what C says is true what B[/del] [ins]says is true[/ins]
+[del]C says that if what A says is true B is true[/del]
+$\overline{\gamma}_d + \overline{\gamma}_a + \gamma_c$
+$\overline{\gamma}_c + \overline{\gamma}_d + \gamma_a$
+
+$C = A \prec B$
+$A = (D \prec C)$
+$D = (C \prec A)$
+[ins]Tom[/ins] [ins]Dick[/ins] [ins]Harry[/ins]
+
+$A \prec B = \overline{c} + [del]\overline{a}[/del] [ins]\overline{(A \prec B)}[/ins] + \overline{c} + (A \prec B) = A$
+[fig]arrow pointing to formula[/fig]

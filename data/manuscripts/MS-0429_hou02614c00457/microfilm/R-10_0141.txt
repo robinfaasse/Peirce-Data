@@ -1,0 +1,20 @@
+[pn]427[/pn] [del]227[/del] [del]307[/del]
+
+[pn]322[/pn] Some time after my first publication, either my father or I myself (under the instigation of my father's ideas) transformed[ins]*[/ins] this algebra by means of the following equations, where, as above, [ins]$\varsigma$[/ins] is an imaginary cube-root of unity:
+
+$$\begin{aligned}
+I &= (u_1 : u_1) + (u_2 : u_2) + (u_3 : u_3) \\
+J &= (u_1 : u_1) + \varsigma (u_2 : u_2) + \varsigma^2 (u_3 : u_3) \\
+K &= (u_1 : u_1) + \varsigma^2 (u_2 : u_2) + \varsigma (u_3 : u_3) \\
+L &= (u_1 : u_2) + (u_2 : u_3) + (u_3 : u_1) \\
+M &= (u_1 : u_2) + \varsigma (u_2 : u_3) + \varsigma^2 (u_3 : u_1) \\
+N &= (u_1 : u_2) + \varsigma^2 (u_2 : u_3) + \varsigma (u_3 : u_1) \\
+O &= (u_1 : u_3) + (u_3 : u_2) + (u_2 : u_1) \\
+P &= (u_1 : u_3) + \varsigma (u_3 : u_2) + \varsigma^2 (u_2 : u_1) \\
+Q &= (u_1 : u_3) + \varsigma^2 (u_3 : u_2) + \varsigma (u_2 : u_1)
+\end{aligned}$$
+
+This gives the multiplication table here shown.
+
+[pn]322A[/pn]
+[ins]*[/ins] This transformation somehow escaped publication at the time; I think probably because I was abroad, so that my father and I could not consult, and he thought it had been discovered by me, and I by him. It certainly was an obvious transformation of my algebra in view of certain ideas of his. It thus happened that Sylvester first published it long after, saying in his first mention of it, "To my certain knowledge this result was obtained by Mr. C. S. Peirce many years ago." [fig]bracket and checkmark[/fig]

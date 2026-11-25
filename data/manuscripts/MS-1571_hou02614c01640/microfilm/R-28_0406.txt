@@ -1,0 +1,22 @@
+[fig]Emblem[/fig] $x$ the subject red $y$ the predicate blue $1$ black
+
+A [fig]Square[/fig] $x(1-y) + y(1-x) + (1-x)(1-y) = 0$
+
+[fig]Square with circle inside[/fig] $x(1-y) + (1-x)y = 0$ [ins]does not exclude the above[/ins]
+
+C [fig]Square with circle and dot inside[/fig] $2y(1-x) + (1-x)(1-y) = 0$ Does not exclude A
+
+D [fig]Square with circle, dot, and outer ring[/fig] $y(1-x) = 0$ Does not exclude C
+
+E [fig]Square with circle and dot inside[/fig] $(1-x)y + (1-x)(1-y) = 0$ Does not exclude A
+
+F [fig]Square with circle, dot, and outer ring[/fig] $(1-x)y = 0$ Does not exclude E
+
+[fig]Square with vertical lines[/fig]
+
+[fig]Sketch of a cube[/fig]
+
+D . C . F
+D'D
+
+[fig]Double diamond diagram with labels D, D', D1, C, C', C1[/fig]

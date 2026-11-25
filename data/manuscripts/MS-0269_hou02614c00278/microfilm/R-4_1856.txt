@@ -1,0 +1,23 @@
+$$(\alpha x + \beta y + 1)^n = ax + by + 1$$
+
+$$n (\alpha x + \beta y + 1)^{n-1} \left(\alpha + \beta \frac{dy}{dx}\right) = a + b \frac{dy}{dx}$$
+
+$$n (ax + by + 1) \left(\alpha + \beta \frac{dy}{dx}\right) = (\alpha x + \beta y + 1) \left(a + b \frac{dy}{dx}\right)$$
+
+$$(na\alpha - a\alpha)x + (nb\alpha - a\beta)y + (n\alpha - a)$$
+
+$$= [(\alpha b - na\beta)x + \beta b(1-n)y + b - n\beta] \frac{dy}{dx}$$
+
+$$(Px + Qy + R) = (px + qy + r) \frac{dy}{dx}$$
+
+$$(n-1)a\alpha = P \qquad nab - a\beta = Q$$
+
+$$(1-n)b\beta = q \qquad \alpha b - na\beta = p$$
+
+$$\alpha = \frac{P}{(n-1)a} \qquad \frac{nP}{(n-1)a} b + \frac{a}{b} \frac{q}{n-1} = Q$$
+
+$$\beta = \frac{q}{(1-n)b} \qquad \frac{P}{[del]x[/del]} \frac{b^2}{[del]x[/del]} + \frac{q}{[del]x[/del]} \frac{na^2}{[del]x[/del]} = p(n-1)ba$$
+
+$$\beta = \frac{q P (n+1)}{(1-n)(nQ-p)a} \qquad (n+1) P \frac{b}{a} = nQ - p$$
+
+$$b = \frac{nQ-p}{(n+1)P} a$$

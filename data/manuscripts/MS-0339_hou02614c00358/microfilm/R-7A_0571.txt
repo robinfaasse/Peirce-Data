@@ -1,0 +1,46 @@
+```
+                                        442
+                                        [u]120[/u]
+                                 50 lines  27200
+                                 10 1/2 [ins]and[/ins]  13600
+                                 [ins]fraction[/ins]  13600
+                                            [u] 6800[/u]
+                                           156400
+
+                         If $2^n > x$
+                         then $x \le n$
+                             i.e
+                         If $x > n$
+                         then $2^n \le x$
+                             i.e
+                         Either $x \le n$
+                         or else $2^n \le n$
+                             i.e.
+                         This is impossible
+                         that
+                             $x > n$
+                         while $2^n > x$
+
+          To express
+[del]A[/del] collection of $x$'s
+$K_{ji}$ $i$ contains $j$
+$\bar{K}_{ji} + \bar{x}_j$ means $i$ is a collection of $j$'s
+
+$l_{ij} = \Pi_{\xi} \bar{q}_{\xi i} + q_{\xi j}$
+
+[fig]Venn diagram with overlapping circles[/fig] $\Pi_{\lambda} \Sigma_{\tau} \Pi_i (q_{\lambda i} + q_{\tau i}) \cdot (\bar{q}_{\lambda i} + \bar{q}_{\tau i})$
+
+[fig]Small circle with fraction -1/1[/fig]
+
+$= \Pi_{\lambda} \Sigma_{\tau} \Pi_i$
+
+[fig]Venn diagram with nested circles[/fig]
+
+[fig]Venn diagram with nested circles[/fig]
+
+$\Pi_k \Sigma_j \Sigma_k \Pi_l$
+$\bar{x}_i + \bar{r}_{jki} \cdot \eta_k \cdot (\bar{x}_l + l_{il} + \bar{r}_{jkl})$
+
+$\Pi_h \Pi_i \Pi_j \Sigma_{\alpha} \Sigma_k \Pi_{\theta} \Pi_{\lambda}$
+$q_{ji} + r_{\alpha k i} \cdot q_{\nu k} \cdot (\bar{q}_{\theta l} + \bar{q}_{\lambda i} + q_{\theta l} + \bar{r}_{\alpha k l})$
+```

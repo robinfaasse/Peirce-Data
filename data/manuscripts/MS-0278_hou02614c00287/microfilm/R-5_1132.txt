@@ -1,0 +1,12 @@
+Art. 4. The operation $\Delta$ is defined thus:
+$$\Delta = E - 1$$
+Thus $\Delta u_x = u_{x+1} - u_x$. The operation $\Sigma$ is defined thus:
+$$\Sigma = \Delta^{-1} = 1 / (E - 1).$$
+
+It may be assumed that $(E-1)^{-1}$ since it is a function of $E$ is expressible as a summatory series of terms each of the form $a_z E^z$ where $z$ may have any value whatever. If, however, $(E-1)^{-1} u_x$ is a sum of terms of this form, $a_z E^z u_x$, if we perform the operation $E-1$ upon this series we shall recover $u_x$. Now the result will be the sum of the results of performing $E-1$ upon the several terms. Hence, in general, since $(E-1) a_z E^z u_x = a_z E^{z+1} u_x - a_z E^z u_x$, if there is a term $a_z E^z u_x$ there must also be terms $a_z E^{z+1} u_x$ and $a_z E^{z-1} u_x$ and hence also terms $a_z E^{z+2} u_x$ and $a_z E^{z-2} u_x$ and so on in definitely. But the value of $a_z$ will be quite indeterminate. Hence, the aggregate of all such terms is arbitrary, and we may write $C$ in place of the whole. This $C$ need not be constant; but it must be such that $EC = C$. There is however an exception to this. Namely, if $z = -1$, we have the term $a_{-1} E^{-1} u_x$. Performing $E-1$ upon this, we get $a_{-1} u_x - a_{-1} E^{-1} u_x$. Now the result of the operation $E-1$ upon the aggregate of terms is $u_x$ and this term $a_{-1} u_x$ is the only term which will give a result here in $u_x$. Hence $a_{-1} = 1$ and consequently $a_{-2} = 1$, $a_{-3} = 1$, etc. Hence,
+$$\Sigma = (E-1)^{-1} = C + E^{-1} + E^{-2} + E^{-3} + \text{etc.}$$
+or
+$$\Sigma u_x = C + u_{x-1} + u_{x-2} + u_{x-3} + \text{etc.}$$
+If $x$ is a whole number, we may conceive that this series of terms stops [del]at $x=0$[/del] when $x$ is reduced to some particular value, as $x=0$ and that the remainder of the terms are included in $C$.
+
+This series expressing $\Sigma$ has a certain analogy with the series expressing

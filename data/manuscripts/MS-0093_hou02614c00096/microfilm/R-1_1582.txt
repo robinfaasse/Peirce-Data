@@ -1,0 +1,57 @@
+[pn]90[/pn]
+
+$(\cos \theta + \sin \theta \cdot i)^{5} = (\cos \theta)^{5} + 5 (\cos \theta)^{4} \sin \theta \cdot i - 10 (\cos \theta)^{3} \sin \theta \cdot i$
+
+[u]Functional Equations[/u]
+
+The equation
+$F(x, \phi \psi x, \phi \chi x) = 0$
+where $\phi$ is the only unknown function is reducible to
+$F(x, \phi x, \phi \omega x) = 0$
+For it is only necessary to make $\phi \psi$ the unknown, say $v$. Then it become
+$F(x, v x, v \psi^{-1} \chi x) = 0$
+But this does not help much.
+Put $\psi x = u_{t}$ $\chi x = u_{t+1}$
+$\phi \psi = v_{t}$ $\phi \chi = v_{t+1}$
+
+Then we shall have $\phi u_{t} = v_{t}$
+and the equation $F(x, \phi \psi x, \phi \chi x) = 0$
+will be
+$F(x, \phi u_{t}, \phi u_{t+1}) = 0$
+and eliminating $x$, we get an equation of differences
+
+[u]Example[/u] $\phi m x = a \phi x$
+Put $x = u_{t}$ $m x = u_{t+1}$
+$\phi x = v_{t}$ $\phi m x = v_{t+1}$
+Then $v_{t+1} = a v_{t}$
+$v_{t} = C a^{t}$ $t \log \frac{v_{t}}{C_{1}} = \log a$
+$x = C m^{t}$ $t = \frac{\log x - \log C}{\log m}$ $u_{t} = C_{2} m^{t}$ $t \log \frac{u_{t}}{C_{2}} = \log m$
+$\log \frac{\phi x}{C_{1}} = \frac{\log a}{\log m} \log \frac{x}{C_{2}}$ $\phi x =$
+
+[pn]91[/pn]
+
+The constant is such a function of $x$ as not to be changed by the operations.
+
+Another example. $\phi \frac{1+x}{1-x} = a \phi x$
+$x = u_{t}$ $\frac{1+x}{1-x} = u_{t+1}$
+$\phi x = v_{t}$ $\phi \frac{1+x}{1-x} = v_{t+1}$
+$v_{t+1} = a v_{t}$
+$u_{t+1} = \frac{1+u_{t}}{1-u_{t}}$
+The solution of this last is $u_{t} = \tan (C_{1} + \frac{\pi}{4} t)$
+The " " the other is $v_{t} = C_{2} a^{t}$
+That is
+$\phi x = C_{2} a^{\frac{4}{\pi} (\arctan x - C_{1})} = C a^{\frac{4}{\pi} \arctan x}$
+
+Linear functional equations like
+$\phi \psi^{n} x + a \phi \psi^{n-1} x + b \phi \psi^{n-2} x + \text{etc} = X$
+maybe so solved.
+For let $\pi$ be such that $\pi \phi x = \phi \psi x$
+Then
+$(\pi^{n} + a \pi^{n-1} + b \pi^{n-2} + \text{etc} ) \phi x = X$
+Then $m$ being a root of the corresponding algebraic equation
+$(\pi - m) \phi x = X$
+
+For example. Given $\phi (m^{2} x) + a \phi (m x) + b \phi x = x^{n}$
+The solution is
+$\phi x = \frac{x^{n}}{m^{2n} + a m^{n} + b} + C_{1} x^{\frac{\log \alpha}{\log m}} + C_{2} x^{\frac{\log \beta}{\log m}}$
+where $\alpha$ and $\beta$ are the roots of $\xi^{2} + a \xi + b = 0$

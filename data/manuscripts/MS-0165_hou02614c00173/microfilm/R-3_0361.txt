@@ -1,0 +1,17 @@
+[pn]114[/pn]
+
+whence by Theorems 14 and 29,
+[u]1 + [N' + (-N')] = 1 + [(+N) + (-N)][/u].
+Whence by Theorem 13
+[ins]by Postulate 4,[/ins] N' + (-N') = (+N) + (-N).
+But -0 = +0. Hence by axiom 7, for N = 0, the equation
+(+N) + (-N) = 0
+Hence, this equation holds for all values of N. [del]Q.E.D.[/del]
+
+[u]Theorem 32[/u]. The negative of the sum of [del]two integers[/del] [ins]two numbers[/ins] is the sum of their negatives.
+[u]Demonstration[/u]. For by theorems 14 & [del]17[/del] [ins]29[/ins], the sum of the negatives added to the sum of the numbers gives 0, whence by theorem 31 the former sum is the negative of the latter.
+
+[ins][The Rule of Algebraical Addition.][/ins]
+[u]Art. 56[/u]. [u]Theorem 33[/u]. [u]The sign of the sum of two numbers is the sign of the greater, if one is greater than the other, and if not, is the sign of either. The modulus of the sum is the sum or difference of the moduli according as their signs are like or unlike.[/u]
+
+[u]Demonstration[/u]. If the signs of the two numbers are both +, by theorem 10, the sign of the sum is [del]+[/del] [ins]+, and the rule of moduli is evident[/ins]; and Theorem 29 extends this to the case where the signs are both - [ins]and the rule of moduli; it follows from theorem 32.[/ins] If the signs of the two numbers are different and the moduli are equal, by Theorem 31 [ins]and Postulate 4,[/ins] it is indifferent which sign is taken [ins]for the sum[/ins], and the modulus of the sum is the difference of the moduli. If the positive number has the larger modulus N and the negative number the smaller modulus M, the sum is [del]N + M[/del] [ins]N + (-M)[/ins]. [del]If we[/del] This sum increased by M is, by Theorems 14 and 31 equal to N; and [del]by the[/del] [ins]hence, meaning[/ins] [del]idea[/del] [ins]by the definition[/ins] of subtraction, [del]N - M = M + (-N)[/del] N + (-M) = N - M. Hence, by Theorem 32, if the smaller modulus M belongs to the positive number, (-N) + M = -(N - M). [del]Q.E.D.[/del]

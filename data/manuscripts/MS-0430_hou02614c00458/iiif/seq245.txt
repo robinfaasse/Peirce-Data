@@ -1,0 +1,26 @@
+Logic
+III
+57
+
+(69) [u]x[/u] [u]x[/u] [u]x[/u]
+The following rules hold, whatever propositions [u]x[/u],[u]y[/u],[u]z[/u],[u]t[/u] maybe:
+For if [u]x[/u] is true, it holds by (66); if [u]x[/u] is false, by (67). This is the
+Principle of Identity.
+
+(70) If [u]x[/u] [u]y[/u] [u]z[/u] is true, then [u]y[/u] [u]x[/u] [u]z[/u] is true.
+For if [u]x[/u] [u]y[/u] [u]z[/u] is true, by (65), if [u]x[/u] is true, [u]y[/u] [u]z[/u] is true;
+and [del]by the[/del] again by (65), if [u]x[/u] is true, then if [u]y[/u] is true, [u]z[/u] is true.
+That is, if [u]x[/u] and [u]y[/u] are true, [u]z[/u] is true. But by (64), [u]z[/u] being
+true if [u]x[/u] is true, [u]x[/u] [u]z[/u] is true; and again by (64), [u]x[/u] [u]z[/u] being
+true if [u]y[/u] is true, [u]y[/u] [u]x[/u] [u]z[/u] is true. [ins]Thus (70) is proved.[/ins]) This may be called the Rule
+of Transposition. Namely, antecedents of one consequent can be
+transposed.
+
+(71) ([u]x[/u] [u]y[/u] [u]z[/u]) [u]y[/u] [u]x[/u] [u]z[/u].
+This follows from (70), by (64)
+
+(72) [u]y[/u] [u]x[/u] [u]y[/u]
+This follows from (66) by (64). It also follows from (69) by(66) and (70).
+
+(73) [del]If [u]x[/u] [u]y[/u] is true, then [u]x[/u] [u]x[/u] [u]y[/u] is true.[/del]
+[del]This follows from (66).[/del]

@@ -1,0 +1,25 @@
+[marginalia]Monson's Bridge 1899 March 1[/marginalia] [pn]13[/pn]
+
+$$2Y(\eta_N - \eta_{-N}) - (\eta_N^2 - \eta_{-N}^2) + 2X(\xi_{-N} + \xi_N) + 2\xi_R''(\xi_{-N} + \xi_N)$$
+$$- (\xi_N^2 - \xi_{-N}^2) = 0$$
+
+and another equation
+
+In addition we have the equation
+
+[fig]Two right triangles with angles and sides labeled[/fig]
+
+$$d\eta_n = S \sec \varphi_n \sin(\varphi_n + \psi_n) - S \tan \varphi_n$$
+$$= S \tan \varphi_n (\cos \psi_n - 1) + S \sin \psi_n$$
+$$= S(\psi_n - \frac{1}{2} \psi_n^2 \tan \varphi_n)$$
+
+$$d\xi_n = S \sec \varphi_n \cos(\varphi_n + \psi_n) - S$$
+$$= S(\cos \psi_n - 1) - S \tan \varphi_n \sin \psi_n$$
+$$= - S(\frac{1}{2} \psi_n^2 + \psi_n \tan \varphi_n)$$
+
+$$- \frac{d\eta_n}{S} 2 \cot \varphi_n = \psi_n^2 - 2 \psi_n \cot \varphi_n$$
+
+[del]$$\psi_n = \int$$[/del]
+
+$$\psi_n = \cot \varphi_n \pm \sqrt{\cot^2 \varphi_n - 2 \frac{d\eta_n}{S} \cot \varphi_n}$$
+$$= \cot \varphi_n [1 \pm \sqrt{1 - 2 \frac{d\eta_n}{S} \tan \varphi_n}] = \cot \varphi_n [\frac{d\eta_n}{S} \tan \varphi_n + \frac{1}{2} (\frac{d\eta_n}{S})^2 \tan^2 \varphi_n]$$

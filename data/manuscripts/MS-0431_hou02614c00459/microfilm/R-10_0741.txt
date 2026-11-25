@@ -1,0 +1,27 @@
+[pn]Logic
+II
+174[/pn]
+
+$\underline{r} + \underline{s} = - \underline{t}$, $\underline{y} + \underline{z} = - \underline{x}$, $\underline{x} + \underline{z} = - \underline{y}$, $\underline{x} + \underline{y} = - \underline{z}$,
+... yet
+
+$3q\underline{x} = 0$
+$3q\underline{y} = 0$
+$3q\underline{z} = 0$,
+
+so that either $q = 0$ or else $\underline{x} = \underline{y} = \underline{z} = 0$. In the latter
+case, the coefficients of $i, j, k$ give the following equa-
+tions
+
+$\underline{r}^{2} + 4\underline{r}\underline{s} + \underline{s}^{2} = 0$
+$-2\underline{r}^{2} - 2\underline{r}\underline{s} + \underline{s}^{2} = 0$
+$\underline{r}^{2} - 2\underline{r}\underline{s} - 2\underline{s}^{2} = 0$
+
+Separating the first and last into their factors, we have
+
+$[\underline{r} + (2 + \sqrt{3})\underline{s}] [\underline{r} + (2 - \sqrt{3})\underline{s}] = 0$
+$[\underline{r} + (-1 + \sqrt{3})\underline{s}] [\underline{r} + (-1 - \sqrt{3})\underline{s}] = 0$
+
+Since $\sqrt{3} \neq \frac{3}{2}$, it is evident that $\underline{r} = 0$, $\underline{s} = 0$; so that
+this is merely the case of the quantity, whose square was
+to vanish [ins]itself[/ins] being zero. We have then, as the only case $q = 0$.

@@ -1,0 +1,16 @@
+[del][fig]crossed out symbol[/fig][/del]
+[u]$(E + p + \sqrt{q}) (E + p - \sqrt{q}) u_x = B_x$[/u]
+
+$\frac{1}{(E - a) (E - b)} = \frac{1}{a-b} (\frac{1}{E - a} - \frac{1}{E - b})$
+
+$\frac{1}{E - a} = E^{-1} + a E^{-2} + a^2 E^{-3} + \text{etc}$
+$= a^{x-1} (\sum \frac{1}{a^x} B_x + C)$
+
+$-p + \sqrt{q} = a$
+$-p - \sqrt{q} = b$
+
+$\frac{1}{2\sqrt{q}} \{ (-p + \sqrt{q})^{x-1} (\sum \frac{B_x}{(-p+\sqrt{q})^x} + C) - (-p - \sqrt{q})^{x-1} \sum \frac{B_x}{-p-\sqrt{q}} \}$
+
+$-p + \sqrt{q}$
+$-p - \sqrt{q}$
+[u]$p^2 - q$[/u]

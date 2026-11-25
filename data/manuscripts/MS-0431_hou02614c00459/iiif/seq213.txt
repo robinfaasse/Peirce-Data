@@ -1,0 +1,21 @@
+[ured]Logic[/ured]
+[ured]III[/ured]
+90
+
+[del]Either[/del] Necessarily either [u]x[/u] or [u]x[/u] $\prec$ [u]z[/u].
+Hence by (51)
+If [u]x[/u] $\prec$ [u]y[/u], then necessarily either [u]x[/u] $\prec$ [u]z[/u] or [u]y[/u].
+By this with (55) we have (54).
+[del]I[/del] will now prove that
+(56) If [u]x[/u] $\prec$ [u]y[/u], then necessarily ([u]y[/u] $\prec$ [u]z[/u]) $\prec$ ([u]x[/u] $\prec$ [u]z[/u]), which
+is the Rule of Contraposition.
+By (54), if [u]x[/u] $\prec$ [u]y[/u], then necessarily from [u]y[/u] $\prec$ [u]z[/u] would
+follow [u]x[/u] $\prec$ [u]z[/u]. But in (50) substitute [u]y[/u] $\prec$ [u]z[/u] for [u]x[/u] and
+[u]x[/u] $\prec$ [u]z[/u] for [u]y[/u]. Then we have
+If [u]x[/u] $\prec$ [u]z[/u], then necessarily ([u]y[/u] $\prec$ [u]z[/u]) $\prec$ ([u]x[/u] $\prec$ [u]z[/u]).
+From this and the last,
+If [u]x[/u] $\prec$ [u]y[/u], then necessarily if [u]y[/u] $\prec$ [u]z[/u] we have ([u]y[/u] $\prec$ [u]z[/u]) $\prec$ ([u]x[/u] $\prec$ [u]z[/u])
+In (49), substitute [u]y[/u] $\prec$ [u]z[/u] for [u]x[/u] and [u]x[/u] $\prec$ [u]z[/u] for [u]y[/u]. Then we have
+Necessarily either [u]y[/u] $\prec$ [u]z[/u] or ([u]y[/u] $\prec$ [u]z[/u]) $\prec$ ([u]x[/u] $\prec$ [u]z[/u]).
+Syllogizing the two last, we have (56).
+(57) [del]Necess[/del]

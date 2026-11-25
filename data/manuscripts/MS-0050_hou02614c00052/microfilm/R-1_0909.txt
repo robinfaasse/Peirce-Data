@@ -1,0 +1,21 @@
+[marginalia]
+Attraction
+10
+[/marginalia]
+
+governing proposition, we shall have
+[del]$v^2 (dt)^2 = (dr)^2 + r^2 (d\theta)^2$[/del]
+or $v^2 = (\frac{dr}{dt})^2 + r^2 (\frac{d\theta}{dt})^2$
+But by the equation of (14) this gives
+$v^2 = (\frac{dr}{dt})^2 + \frac{A^2}{r^2}$
+whence
+$dt = \frac{1}{\sqrt{k}} \frac{r dr}{\sqrt{1 - \frac{A^2}{k} - \frac{r^2}{r_0^2}}} = \frac{1}{2\sqrt{k}} \frac{d(r^2)}{\sqrt{1 - \frac{A^2}{k} - \frac{r^2}{r_0^2}}}$
+
+Again applying the equation of (14) we get from this last
+$d\theta = \frac{A}{\sqrt{k}} \frac{dr}{r \sqrt{1 - \frac{A^2}{k} - \frac{r^2}{r_0^2}}}$ .
+
+These two equations have forms specially considered in
+all treatises on the calculus. The former, which is quite simple,
+gives the law, or regularity, of the times at which the particle
+attains different distances from the centre; the latter, slightly
+more complicated, gives the form of the trajectory.

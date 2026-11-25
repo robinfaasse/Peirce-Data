@@ -1,0 +1,19 @@
+and this gives us
+(2) $\delta\varphi = - \frac{1}{\lambda\cos\varphi}\sin\varphi\cdot\delta z$
+
+Accordingly, we have
+(3) $D_t^2\varphi = - \frac{1}{\lambda\cos\varphi}\sin\varphi\cdot [del]D_t^2 z[/del] [ins]g[/ins]$
+
+This is the differential equation
+of the motion of a simple pendulum.
+In order to integrate it, it is to
+be observed that, in general,
+$D_y.(D_x y)^2 = D_y x \cdot D_x(D_x y)^2$
+$= [del]D_y x \cdot[/del] D_y x \cdot D_x(D_x y) D_{D_x y}(D_x y)^2$
+$= D_y x \cdot D_x^2 y \cdot (2 D_x y)$
+$= 2 D_x^2 y$
+
+Hence
+$D_q(D_t q)^2 = - \frac{2}{\lambda\cos\varphi}\sin\varphi\cdot g$
+
+[fig]Mathematical scratch work and derivations[/fig]

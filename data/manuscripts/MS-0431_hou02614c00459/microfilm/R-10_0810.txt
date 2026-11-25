@@ -1,0 +1,26 @@
+[pn]Logic
+III
+168[/pn]
+
+We thus find
+Either $x + y + z = 1$ or $x + y + z = 0$
+and Either $2x - y - z = 1$ or $y = z$
+
+We thus have four cases which we may call Cases (1,1), (1,2), (2,1), (2,2),
+the first number showing whether the first or second alternative [del]of[/del]
+[del]the first line is adopted[/del], the second number which alternative of
+the second line is adopted.
+
+<u>Case (1,1)</u>. The two alternatives chosen give
+$x = \frac{2}{3}$ , $y + z = \frac{1}{3}$.
+
+Then, the first of the original equations gives becomes
+$\frac{4}{9} + 2y(\frac{1}{3} - y) = \frac{2}{3}$
+or $9y^2 - 3y + 1 = 0$
+
+Multiplying this by $3y + 1$, we get
+$27y^3 = 1$
+Hence, $y = -\frac{1}{3} \sqrt[3]{1}$
+
+But the factor by which we multiplied causes this to hold when 1
+is taken for $\sqrt[3]{1}$. It is only the imaginary roots which satisfy the

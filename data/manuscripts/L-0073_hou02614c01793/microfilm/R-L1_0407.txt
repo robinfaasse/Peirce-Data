@@ -1,0 +1,45 @@
+I use your definition of greater, less, and equal, as applied
+to collections, merely stating it in slightly different form.
+
+Namely it is assumed that, given any two collections, the As, or
+{A}, and the Bs, or {B}, whatsoever, there is either some relation
+r such that every A stands [del]to some[/del] in the relation r to some [ins]every[/ins] B
+to which no other A stands in the relation r, or [del]some[/del] B
+stands [del]to some A[/del] in the relation r to some A to which no other
+B stands in the relation r. This I write thus:
+$$\Sigma_r \Pi_i \Sigma_k \Pi_j \Pi_p \Sigma_s \Pi_q (\bar{A}_i + \bar{r}_{ik} + B_k) \cdot (\bar{A}_j + [del]l_{ij}[/del] [ins]r_{ij}[/ins] + \bar{r}_{jk}) + (\bar{B}_p + \bar{r}_{ps} + A_s) \cdot (\bar{B}_q + r_{qs} + \bar{r}_{qs})$$
+Then the collection {A} is [u]greater[/u] than the collection {B}
+and the collection {B} is [u]less[/u] than the collection {A}
+if, and only if, no relation, g, can be found such that every A is in the
+relation, g, to a B to which no other A is in the relation g.
+
+If neither of two collections is greater than the other, they are equal.
+
+By the [u]multitude[/u] of a collection, I mean that character of it
+by virtue of which it is greater than some collections and less than
+others. ([u]Mächtigkeit[/u]). By the [u]arithm[/u] of a collection, I mean that one
+of a series of vocables [del]which[/del] [ins]or signs[/ins] which is applied as an adjective to a col-
+lection to express its [ins]ordinal[/ins] place in the scale of multitudes. ([u]Cardinalzahl[/u].)
+
+Now the first step toward the result to which I beg leave to [del]dem[/del]
+submit to your kind consideration is to show that, no matter how
+small or how great a collection [ins]As[/ins] may be, the multitude of the collection
+of different possible collections of [del]the[/del] ineunts of {A} is greater than the
+multitude of {A}. That is to say, calling the B's the different collec-
+tions whose ineunts are ineunts of A, no relation g can be found such
+that every [del]A[/del] B is in the relation g to an A to which no other B is
+in the relation g. For, given any relation, g, whatever, I will describe
+a B which does not stand in the relation g to any A to which no other
+B stands in the same relation. Namely, I first divide the As
+into four classes, as follows:
+
+1[sup]st[/sup], those (if such there be) to which no B is in the relation g;
+
+2[sup]nd[/sup], those (if such there be) to [del]which[/del] [ins]each of[/ins] which more than one B is in the
+relation g;
+
+3[sup]rd[/sup], those (if such there be) each of which is an ineunt of that B which is g
+to it, and to no other A;
+
+4[sup]th[/sup], those (if such there be) each of which is an exeunt of the B which alone of the Bs
+stands in the relation g to it.

@@ -1,0 +1,57 @@
+[pn]111[/pn]
+
+[del]In the sextal notation[/del]
+
+[marginalia]
+[del]In the sextal notation[/del]
+[/marginalia]
+
+sextal expressions are particularly simple, would, but for the familiarity
+of the decimal system, occur far oftener than these that are particularly
+simple in this decimal expressions. The following table which is expresses deci-
+mally, gives the number of places in the circulating decimal and in the circu-
+lating sextal that express the reciprocals of prime numbers less than 50,
+the only reciprocals which individually occur otherwise than with extreme
+infrequency:
+
+[fig]Table of decimal and sextal places for reciprocals of primes[/fig]
+
+$$\begin{array}{c|c|c}
+\text{Primes} & \multicolumn{2}{c}{\text{Number of Places}} \\
+& \multicolumn{2}{c}{\text{in the Reciprocals}} \\
+& \text{Decimal} & \text{Sextal} \\
+\hline
+3 & 1 & 2 \\
+5 & 1 & 4 \\
+7 & 6 & 3 \\
+11 & 2 & 10 \\
+13 & 6 & 12 \\
+17 & 16 & 8 \\
+19 & 18 & 18 \\
+23 & 22 & 11 \\
+29 & 28 & 28 \\
+\hline
+\text{Sum} & 100 & 96
+\end{array}$$
+
+$$\begin{array}{c|c|c}
+\text{Primes} & \multicolumn{2}{c}{\text{Number of Places}} \\
+& \multicolumn{2}{c}{\text{in the Reciprocals}} \\
+& \text{Decimal} & \text{Sextal} \\
+\hline
+31 & 15 & 6 \\
+37 & 3 & 4 \\
+41 & 5 & 40 \\
+43 & 21 & 3 \\
+47 & 46 & 23 \\
+53 & 13 & 52 \\
+59 & 58 & 58 \\
+61 & 60 & 60 \\
+67 & 33 & 66 \\
+71 & 35 & 35 \\
+73 & 8 & 3 \\
+\hline
+\text{Sum} & 299 & 328
+\end{array}$$
+
+[pn]424[/pn]

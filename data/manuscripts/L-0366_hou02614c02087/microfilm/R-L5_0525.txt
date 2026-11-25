@@ -1,0 +1,33 @@
+[marginalia]
+1909
+[date]June 29[/date]
+7
+[/marginalia]
+
+convergent series which gives the value with accuracy
+amply sufficient for the calculation of probabilities. A
+semi-convergent series is one which begins by converging toward
+the truth, that is, the addition of each new term gives a value
+nearer and nearer the truth, but after a while (depending on
+the particular value you take,) the values begin to diverge from
+the truth, and faster and faster. Best in practice such formulas
+are of the all that could practically be desired.
+
+I will first write $\frac{(mn-a)}{mn} \frac{(mn-a-1)}{(mn-1)} \frac{(mn-a-2)}{(mn-2)}$ so as to introduce
+two usual and useful notations, the first is $\frac{(mn-a)^{\underline{3}}}{mn^{\underline{3}}}$, as the English
+write it, or $\frac{(mn-a)^{(3)}}{mn^{(3)}}$ as Continentals often write it, the 3 being [del]on a[/del]
+[del]exponent[/del] [ins]sort of exponent[/ins], an exponens facultatum, as the phrase
+is in those works that are written in Latin, or [del]an expon[/del] a factorial index
+in English. This notation is important because just as we write
+$D_x$ for $\frac{d}{dx}$ and $D_x x^m = m x^{m-1}$, so $\Delta x^{\underline{m}} = [del]m x^{\underline{m+1}}$[/del] [ins]$m x^{\underline{m-1}}$[/ins] i.e.
+$(x+1)^{\underline{m}} - x^{\underline{m}} = m x^{\underline{m-1}}$. Moreover by $x^{\underline{-m}}$ is meant $\frac{1}{x(x+1)\dots(x+m-1)}$
+where there are $m$ factors, each decreasing owing to a change of 1 in
+the value of $x$; and $\Delta x^{\underline{-m}} = -m x^{\underline{-m-1}}$. Another notation, still more
+frequently used, where $N$ is any positive whole number is $N!$ meaning
+the continued product of all whole numbers from 1 up to and including
+$N$. Hence, if $x$ is a whole number, $x^{\underline{m}} = \frac{x!}{(x-m)!}$ and this is important
+as showing that in order to calculate a "factorial" (or facultas) it
+is only necessary to be provided with a convenient formula for
+calculating $N!$ Now there is such a formula, called "Sterling's for-
+mula, which involves the semi-convergent series I alluded to above.
+I will show how it is derived. For that purpose, I must first explain

@@ -1,0 +1,31 @@
+[pn]168[/pn]
+
+The number ends in $50+x$, of which the triple is $150+3x$
+But the triple ends in $10w+w$. Hence
+$$150+3x = 100+10w+w,$$
+[del]or that is,[/del] $50 = 7x+w$.
+Now $w$ is less than 10. There are two multiples of 7 within 10
+of but less than 50. They are 42 and 49. But this one
+is odd. Hence it is 49. So that $x=7$, $w=1$, $\frac{1}{2}(w-1)=0$, and
+$$z+10u+100v = 428$$
+So that the number is 142857.
+Its triple 428571.
+Its quintuple 714285.
+
+78. Solve by [del]on[/del] arrays:
+$$\begin{matrix} 3x-4y+2z=1, \\ 2x+3y-3z=1, \\ 5x-5y+4z=7 \end{matrix}$$
+$$\begin{matrix} 4p-7q+r=16, \\ 3p+q-2r=10, \\ 5p-6q-3r=10. \end{matrix}$$
+
+79. What are the four [ins]numbers[/ins] of which the first with half the others
+the second with a third of the others, the third with a fourth of the
+others and the [del]fifth[/del] [ins]fourth[/ins] with a fifth of the others, each make up 37?
+Ans. 1, 19, 25, 28
+
+80. To find the error of a chronometer, I have observed 3 stars.
+The first made my chronometer 0.05 slow; but this was affected by $+0.170$ [ins]times[/ins] the error of
+azimuth of the instrument, and by $-1.200$ times the collimation.
+The second star made my chronometer 0.10 fast. But this was affected by $-0.357$ [del]the[/del]
+[del]times the error of azimuth, and by[/del] $+1.714$ times the collimation.
+The third star made my chronometer 0.37 slow. But this was affected by
+$-2.875$ times the error of azimuth, and by $+4.898$ times the collimation.
+What was the real error of the chronometer?

@@ -1,0 +1,22 @@
+[fig]square within a square diagram with letters A, B, C, D, a, b, c, d, e[/fig]
+
+A  a'  a'' | a'' A b'' c''  a'' A d' E
+B  b'  b'' | b'' B c'' d''  b'' B a' F
+C  c'  c'' | c'' C a' b'   [del]c'' C b'' a''[/del] c' C d'' F
+D  d'  d'' | d'' D b' c'   [del]d'' D b'[/del] d' D a'' E
+E  a'' d'
+F  b'' c'
+
+[fig]square diagram with internal diagonals and letters A, B, C, D[/fig]  [fig]diagram of two joined hexagons[/fig]
+
+A B
+A C
+B D
+C D
+
+[fig]circular diagram with three inner loops and arrows[/fig]   [fig]circular diagram with eight points and arrows[/fig]
+
+[del]A B[/del]  A B  B C  C D  D E
+      A C  B D  C E
+      A D  B E
+      [del]A E[/del]

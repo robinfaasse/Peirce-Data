@@ -1,0 +1,57 @@
+[pn]Page 12[/pn]
+
+[u]P[/u]<sub>x</sub> = A<sub>x</sub> + A<sub>x+1</sub> [del]+ B<sub>x</sub> B<sub>x+1</sub>[/del]
+
+[del]Q[/del]<sub>x</sub> =
+
+[u] 1 [/u] u<sub>y</sub> + [u] 1 [/u] u<sub>x</sub> = v<sub>0</sub>
+E - A<sub>x</sub>       E - B<sub>x</sub>
+
+u<sub>x</sub> + (E - A<sub>x</sub>) (E - B<sub>x</sub>)<sup>-1</sup> u<sub>x</sub> = (E<sub>x</sub> - A<sub>x</sub>) u<sub>x</sub>
+
+[u]u[/u]<sub>x+2</sub> = P<sub>x</sub> u<sub>x+1</sub> + Q<sub>x</sub> u<sub>x</sub>
+
+u<sub>2</sub> = P<sub>0</sub> u<sub>1</sub> + Q<sub>0</sub> u<sub>0</sub>
+
+u<sub>3</sub> = P<sub>1</sub> u<sub>2</sub> + Q<sub>1</sub> u<sub>1</sub>
+= (P<sub>1</sub> P<sub>0</sub> + Q<sub>1</sub>) u<sub>1</sub> + P<sub>1</sub> Q<sub>0</sub> u<sub>0</sub>
+
+u<sub>4</sub> = P<sub>2</sub> u<sub>3</sub> + Q<sub>2</sub> u<sub>2</sub>
+= (P<sub>2</sub> P<sub>1</sub> P<sub>0</sub> + P<sub>2</sub> Q<sub>1</sub> + Q<sub>2</sub> P<sub>0</sub>) u<sub>1</sub> + (P<sub>2</sub> P<sub>1</sub> Q<sub>0</sub> + Q<sub>2</sub> Q<sub>0</sub>) u<sub>0</sub>
+
+u<sub>5</sub> = P<sub>3</sub> u<sub>4</sub> + Q<sub>3</sub> u<sub>3</sub>
+= (P<sub>3</sub> P<sub>2</sub> P<sub>1</sub> P<sub>0</sub> + P<sub>3</sub> P<sub>2</sub> Q<sub>1</sub> + P<sub>3</sub> Q<sub>2</sub> P<sub>0</sub> + Q<sub>3</sub> P<sub>1</sub> P<sub>0</sub> + Q<sub>3</sub> Q<sub>1</sub>) u<sub>1</sub>
++ (P<sub>3</sub> P<sub>2</sub> P<sub>1</sub> Q<sub>0</sub> + P<sub>3</sub> Q<sub>2</sub> Q<sub>0</sub> + Q<sub>3</sub> P<sub>1</sub> Q<sub>0</sub>) u<sub>0</sub>
+
+u<sub>6</sub> = P<sub>4</sub> u<sub>5</sub> + Q<sub>4</sub> u<sub>4</sub>
+= (P<sub>4</sub> P<sub>3</sub> P<sub>2</sub> P<sub>1</sub> P<sub>0</sub> + P<sub>4</sub> P<sub>3</sub> P<sub>2</sub> Q<sub>1</sub> + P<sub>4</sub> P<sub>3</sub> Q<sub>2</sub> P<sub>0</sub> + P<sub>4</sub> Q<sub>3</sub> P<sub>1</sub> P<sub>0</sub> + P<sub>4</sub> Q<sub>3</sub> Q<sub>1</sub> + Q<sub>4</sub> P<sub>2</sub> P<sub>1</sub> P<sub>0</sub> + Q<sub>4</sub> P<sub>2</sub> Q<sub>1</sub> + Q<sub>4</sub> Q<sub>2</sub> P<sub>0</sub>) u<sub>1</sub>
++ (P<sub>4</sub> P<sub>3</sub> P<sub>2</sub> P<sub>1</sub> Q<sub>0</sub> + P<sub>4</sub> P<sub>3</sub> Q<sub>2</sub> Q<sub>0</sub> + P<sub>4</sub> Q<sub>3</sub> P<sub>1</sub> Q<sub>0</sub> + Q<sub>4</sub> P<sub>2</sub> P<sub>1</sub> Q<sub>0</sub> + Q<sub>4</sub> Q<sub>2</sub> Q<sub>0</sub>) u<sub>0</sub>
+
+Q<sub>x+1</sub> = [del]P<sub>x</sub> A<sub>x</sub> A<sub>x+1</sub>[/del]
+= P<sub>x</sub> A<sub>x+1</sub> - A<sub>x</sub> A<sub>x+1</sub>
+
+[del]A<sub>x</sub> = a + b u<sub>x</sub> + c v<sub>x</sub>[/del]
+[del]A<sub>x+1</sub> = a + b u<sub>x+1</sub> + c v<sub>x+1</sub>[/del]
+[del]A<sub>x+1</sub> = a + b u<sub>x+1</sub> + c v<sub>x+1</sub>[/del]
+[del]A<sub>x+1</sub> = e + f u<sub>x+1</sub> + g v<sub>x+1</sub>[/del]
+
+[del]A<sub>x</sub> A<sub>x+1</sub> = a<sup>2</sup> + ab[/del]
+
+Q<sub>x+1</sub> = P<sub>x</sub> A<sub>x</sub> + P A A<sub>x</sub> - A<sub>x</sub><sup>2</sup> - A ΔA<sub>x</sub>
+
+A<sub>x+1</sub> = [u] Q<sub>x+1</sub> [/u]
+P<sub>x</sub> - A<sub>x</sub>
+
+A<sub>1</sub> = [u] Q<sub>1</sub> [/u]
+P<sub>0</sub> - A<sub>0</sub>
+
+A<sub>2</sub> = [u] Q<sub>2</sub> [/u] = [u] Q<sub>2</sub> (P<sub>0</sub> - A<sub>0</sub>) [/u] = [u] Q<sub>2</sub> P<sub>0</sub> - Q<sub>2</sub> A<sub>0</sub> [/u]
+P<sub>1</sub> - [u] Q<sub>1</sub> [/u]       P<sub>1</sub> P<sub>0</sub> - Q<sub>1</sub>       P<sub>1</sub> P<sub>0</sub> - Q<sub>1</sub> - P<sub>1</sub> A<sub>0</sub>
+P<sub>0</sub> - A<sub>0</sub>
+
+A<sub>3</sub> = [u] Q<sub>3</sub> [/u] = [u] Q<sub>3</sub> Q<sub>2</sub> P<sub>0</sub> [/u]
+P<sub>2</sub> + [u] Q<sub>2</sub> [/u]       Q<sub>2</sub> P<sub>0</sub> + Q<sub>2</sub> A<sub>0</sub>
+P<sub>1</sub> P<sub>0</sub> - Q<sub>1</sub> - P<sub>1</sub> A<sub>0</sub>
+
+= [u] Q<sub>3</sub> P<sub>1</sub> P<sub>0</sub> - Q<sub>3</sub> Q<sub>1</sub> - Q<sub>3</sub> P<sub>1</sub> A<sub>0</sub> [/u]
+P<sub>2</sub> P<sub>1</sub> P<sub>0</sub> - P<sub>2</sub> Q<sub>1</sub> - Q<sub>2</sub> P<sub>0</sub> + (Q<sub>2</sub> - P<sub>2</sub> P<sub>1</sub>) A<sub>0</sub>

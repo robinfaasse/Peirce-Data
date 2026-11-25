@@ -1,0 +1,35 @@
+[pn]Nov 10 1903[/pn]
+
+[del][fig]Logical diagram[/fig][/del]
+
+[del]$x + \bar{x} \prec \frac{a \prec b}{c \prec d}$[/del]
+
+$(a \prec b) \prec c \prec d = \left\{ \begin{array}{l} \bar{c} \prec c \prec d \\ a \prec b \prec c \prec d \end{array} \right.$
+
+[del]If $(a \prec b \prec c) \prec (d \prec e) \prec f$[/del] $\left\{ \begin{array}{l} c \prec e \prec f \\ (b \prec c) \prec e \prec f \\ (a \prec b \prec c) \prec e \prec f \\ (a \prec f) \prec (d \prec f) \prec f \end{array} \right.$
+
+$[(a \prec b \prec c) \prec d \prec e] \prec f \prec g$
+$(\bar{a} \prec \bar{b} \prec c) \prec \bar{d} \prec \bar{e} \prec \bar{f} \prec g$
+$\bar{a} \prec \bar{b} \prec c \prec \bar{f} \prec g$
+
+$e \prec f \prec g$
+$(d \prec g) \prec f \prec g$
+[del]$\&$[/del]
+$a \prec b \prec (c \prec g) \prec f \prec g$
+
+$(\bar{c} \prec \bar{e} \prec d) \bar{c} \prec [b \prec a]$
+
+$[(\bar{c} \prec \bar{e} \prec d) \prec c] \prec b \prec a$
+
+$[(\bar{c} \prec \bar{e} \prec d) \prec (d \prec c) \prec (c \prec b) \prec (b \prec a)] \prec [(\bar{c} \prec \bar{e} \prec d) \prec c] \prec b \prec a$
+
+[del]Any consequence which can be formed by replacing every[/del]
+[del]consequent of $T_1$ by a consequence of $T_2$[/del]
+
+[del]We have then the same ultimate consequent and for antecedents[/del]
+[del]all the first antecedents of $T_1$[/del]
+[del]or with any or all of these antecedents replaced[/del]
+[del]by a consequence having for its consequent[/del]
+[del]antecedent an antecedent of that antecedent[/del]
+[del]of $T_1$ which it replaces and for its consequent[/del]
+[del]the consequence of $T_2$[/del]

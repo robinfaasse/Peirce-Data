@@ -1,0 +1,25 @@
+§ 5. If the weights are continuously distributed, we may
+use $w$ with the signification
+(14) $w = \sum_0^n w_n$.
+Then the above equations become
+(15) $\text{Tan } i = dy/dx$
+(16) $ds = \sqrt{(dx)^2 + (dy)^2} = \sec i \cdot dx$
+(17) $dw = d(q \sin i) = \frac{q dq}{\sqrt{q^2 - Q^2}} = Q \sec^2 i \cdot di$
+(18) $d(q \cos i) = 0$
+(19) $w - w_2 = Q \tan i$
+(20) $q = (w - w_2) \csc i = Q \sec i = \sqrt{Q^2 + (w - w_2)^2}$
+[ins]and writing $\xi$ for $\bar{x}$[/ins] (21) $Q = (w - w_2) \frac{x - \xi}{y - y_2}$, etc.
+
+If we use $k$ with the signification
+(22) $k = dw/ds$,
+and $\rho$ for the radius of curvature; so that
+(23) $\rho = ds/di$,
+we have
+$k \rho = dw/di$,
+which, by (19) is
+(24) $k(ds/di) = k \rho = Q \sec^2 i$.
+
+§ 6. If the distribution of the load is uniform along the
+cord, $k$ is constant and (24) gives
+$s [del]\rho[/del] = \frac{Q}{k} \tan i + \frac{w_2}{k}$.
+This is the catenary, which is discussed in all the books.

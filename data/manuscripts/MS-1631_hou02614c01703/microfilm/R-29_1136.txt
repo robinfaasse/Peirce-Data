@@ -1,0 +1,25 @@
+[pn]1[/pn]
+
+[u]Synopsis of the Calculus[/u]
+
+[u]Infinitesimals[/u]
+
+$(1+i)^{\infty} = 1 + \infty i + \frac{\infty(\infty-1)}{1\cdot 2} i^{2} \text{ \&c} = 1 + a + \frac{a^{2}}{2} + \sum_{n} \frac{a^{n}}{n!}$
+
+$(1+i)^{\frac{1}{i}} = \sum_{n} \frac{1}{n!} = \mathfrak{G} = 2.718281828$
+$\mathfrak{G}^{a} = \sum_{n} \frac{a^{n}}{n!}$
+$\frac{1}{i} \log (1+i) = \log \mathfrak{G} = 1$
+$\log (1+i) = i$
+$\mathfrak{G}^{mi} = 1 + mi$
+$b = \mathfrak{G}^{m}$
+$b^{i} = i \log b + 1$
+
+[u]Differentials[/u]
+$\Delta(f \pm f') = [f + \Delta f \pm f' + \Delta f'] - f \pm f' = \Delta f \pm \Delta f'$
+
+$f(x + \Delta x) = fx + f\Delta x$
+$\Delta fx = f(x + \Delta x) - fx$
+$\therefore f\Delta x = \Delta fx$
+
+If $\Delta^{>1} x = 0$
+$(1+\Delta)^{n} x = (1 + n\Delta)x = x + n\Delta x$

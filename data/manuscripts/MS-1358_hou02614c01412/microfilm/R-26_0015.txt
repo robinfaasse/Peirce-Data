@@ -1,0 +1,39 @@
+[pn]2[/pn]
+
+[u]Comp back to the equations (5) to (7) on p 20[/u]
+[u]of Report on Live Loads[/u]
+
+I change origin to 2 by adding $x_2$ to $x_0, x_1, x_2$
+and $y_2$ to $y_0, y_1, y_2$
+
+and I change direction of $x$ by reversing
+sign
+
+I thus get
+
+(6) Unchanged
+
+(7) $-\frac{1-\frac{R_1}{R_1}}{P_1} (y_1-y_2) + \frac{\sin \Phi_2}{\Lambda_2} (-\cos \Phi_2 \cdot x_2 + \sin \Phi_2 y_2) + \frac{\cos \Phi_2}{\Lambda_2} \left[ \begin{array}{c} +\sin \Phi_2 x_2 \\ +\cos \Phi_2 y_2 \end{array} \right]$
+
+This ought to agree in form with unchanged (5) after changing
+[del]But it does not.[/del] [ins]Which it does[/ins] [ins]sign of $\Phi$ and $y$[/ins]
+
+This opens at once that (1) is wrong.
+
+Changing coordinates of (1) the same way
+it gives
+
+[del]
+(1) $= -(x_0-x_2) / + (y_0+y_2) \sin \Phi_0$
+[/del]
+
+(5) $-\frac{1-\frac{R_0}{R_0}}{P_0} (y_1-y_0) + \frac{\sin \Phi_0}{\Lambda_0} [-\cos \Phi_0 (x_0-x_2) + \sin \Phi_0 (y_0+y_2)]$
+$-\frac{\cos \Phi_0}{\Lambda_0} [-\sin \Phi_0 (x_0-x_2) - \cos \Phi_0 (y_0+y_2)] = 0$
+
+Right
+
+(2) $\frac{\cos \Phi_0}{\Lambda_0} [-\cos \Phi_0 (x_0-x_2) + \sin \Phi_0 (y_0+y_2)] + \frac{\sin \Phi_0}{\Lambda_0} (-\sin \Phi_0 (x_0-x_2) - \cos \Phi_0 (y_0+y_2))$
+Right
+
+(4) $\cdot \frac{1-\frac{R_1}{R_1}}{P_1} (x_1-x_2) + \frac{\cos \Phi_2}{\Lambda_0} [\cos \Phi_2 x_2 + \sin \Phi_2 y_2] + \frac{\sin \Phi_2}{\Lambda_2} [-\sin \Phi_2 x_2 - \cos \Phi_2 y_2]$
+Right.

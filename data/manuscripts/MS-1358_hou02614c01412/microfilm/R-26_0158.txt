@@ -1,0 +1,22 @@
+[marginalia]Monomoy Bridge [date]1899 Feb 3[/date][/marginalia]
+
+[fig]Diagram of a bridge truss with supports[/fig]
+
+[del]10[/del] $(Q-P) y_p + (Q+P) y_q + 2 Q u_q + Q V = [del]Q[/del] W
+
+[del]$2 Q u_q$[/del]
+$2 y_p + 2 u_q + V = W$
+
+[fig]Diagram of a bridge truss with supports[/fig]
+
+$-(Q-P) y_q + (Q+P) u_q + 2 P y_p + P V = P W$
+
+[fig]Diagram of a bridge truss with supports[/fig]
+
+The [del]unstrained[/del] form of the [ins]parts of the[/ins] [del]moderate[/del] truss outside the suspended [del](which I call the [del]two[/del] unsuspended [del]truss-parts[/del] ends)[/del] having thus been ascertained the next step is to form expressions for [del]its[/del] [ins]the[/ins] positional energy of either such part when it is in equilibrium with given values of $\theta_N$ and $y_N$. There will be [del]two[/del] [ins]three[/ins] distinct cases, [del]one[/del] requiring separate solution according as the truss rests on the supports at $P$ and $Q$, [ins](Case $\alpha$)[/ins] or is lifted from $Q$, [ins](Case $\beta$)[/ins] or is lifted from $P$. [ins](Case $\gamma$)[/ins] I do not propose to include [ins]in my solutions of these problems[/ins] [del]the pressures, moments, shearings, stresses and deflections on the unsuspended truss ends.[/del]
+
+[del]Case $\alpha$. We consider the[/del]
+
+Case $\alpha$. We will imagine [del]that[/del] besides the weight, there are [ins]four upward[/ins] [del]vertical[/del] [del]pressures perpendicular to the links.[/del] [del]force[/del] [del]forces[/del] [del]pressures[/del] $y_{N+ds}$, $y_{N+2ds}$, $y_p$, $y_q$ at the horizontal distances [del]from the[/del] [del]the midpoint[/del] $N+ds$, $N+2ds$, [del]$S_p$,[/del] $P$, and $Q$. These may be denoted by $V_{N+ds}$, $V_{N+2ds}$, [del]$V_p$[/del], $V_p$, $V_q$.
+
+The truss is supposed to be [u]horizontally immovable[/u], [del]so that the hori-[/del] [del]zontal com[/del] The energy [del]is[/del] [ins]supposed to be[/ins] dependent only on the [del]$\theta$s for the[/del] [ins]flexural rigidities[/ins] [del]elasticities[/del] and the $y$'s (or upward vertical coordinates) for the weights and pressures. The energy then is $\sum_{N+ds} \frac{1}{2} [del]\frac{a}{ds}[/del] [ins]\frac{a}{ds}[/ins] (\theta_{N+ds} - \theta_{N+2ds}) (\theta_n - \theta_N)^2 + u.ds.y_n - y_n \cos \theta_n - y_n$ [del]$-\frac{1}{2} y_n ds \theta_n$[/del]

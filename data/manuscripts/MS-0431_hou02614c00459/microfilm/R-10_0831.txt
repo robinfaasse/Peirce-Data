@@ -1,0 +1,21 @@
+[pn]Logic
+III
+176[/pn]
+
+[u]Putting[/u] [u]u[/u]² - [u]u[/u] [u]v[/u] + [u]v[/u]² = 0
+
+Multiply by [u]u[/u] + [u]v[/u] ( [del]for[/del] [ins]this[/ins] does nothing that [u]u[/u] + [u]v[/u] = 0 does not satisfy the equation, so that the root [u]u[/u] = - [u]v[/u] is introduced) and we get [u]u[/u]³ + [u]v[/u]³ = 0; so that [u]u[/u] = (g + 1) [u]v[/u]. Then, since [del]l' m' + n' = 0[/del]
+
+[u]u[/u] [u]m'[/u] + [u]v[/u] [u]n'[/u] = [u]v[/u] [ [u]r[/u] - [u]l[/u] + (g + 1) ([u]l[/u] - [u]m[/u]) ] = [u]v[/u] g [ [u]l[/u] + g [u]m[/u] + g² [u]n[/u] ]
+
+[del]Another[/del] convenient expressions for a nilpotent are
+
+C [ [u]r'[/u] ( [u]r[/u] + g ) ( [u]r[/u] + g² ) [u]l'[/u] + [u]m'[/u] + [u]n'[/u] ]
+and
+C [ [u]√1+3R²[/u] [u]l'[/u] + (2 + R) [u]m'[/u] + (1 - R) [u]n'[/u] ]
+
+Let U and V be two nilpotents, or quantities whose squares vanish. Then the general condition under which
+
+UVU = U   VUV = V
+
+is complicated; but it is easy to pick out particular values by looking at the multiplication-table. For example,

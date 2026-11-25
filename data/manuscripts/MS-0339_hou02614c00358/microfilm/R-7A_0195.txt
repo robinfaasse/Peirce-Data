@@ -1,0 +1,26 @@
+[del]M is P[/del]
+[ins]Any S or S' or S" etc is M[/ins]
+Any S or S' or S" etc is P
+
+[del]All M is P, P', P"[/del]
+S is M
+S is P
+
+Some S, some S', some S" is P
+[del]Any S or S' or S" etc is M[/del]
+Some M is P
+
+[del]M M' M" M"' is P P' P"[/del]
+[del]S is not P or not P' or not P"[/del]
+[del]S is not M or not M' or not M" etc[/del]
+
+[del]Either S or S' or S" is P[/del]
+Any which is S or S' or S" is M
+Some M is P
+
+Either S or S' or S" or S"' is P
+[del]Any S, S', S" or S"' is M[/del]
+Some M is P
+
+[del]A negative proposition has a disjunctive predicate[/del]
+[del]A particular proposition has a disjunctive subject[/del]

@@ -1,0 +1,30 @@
+1898 June 15
+
+The fact that if A $\prec$ B then [fig]circle with B inside[/fig] $\prec$ [fig]circle with A inside[/fig] can be proved [del]two[/del] ways
+is a defect of the statement of basic rules.
+
+[u]Theorems[/u] 113r
+
+[u]Notation[/u] X $\prec$ Y means X [ins]might (were it written)[/ins] [del]may[/del] be illatively transformed into Y
+
+X. [del]Any unenclosed[/del] part of a graph may have two ovals drawn round
+it; and two ovals one enclosing only the other and its contents
+may be erased, [u]however enclosed[/u].
+
+[u]Proof.[/u] 1[sup]st[/sup], let A be any graph.
+Then, by I, [fig]circle with A inside[/fig] $\prec$ [fig]circle with A inside[/fig]
+$\therefore$ by V A $\prec$ [fig]circle with A inside, itself inside another circle[/fig]
+$\therefore$ by IV Any unenclosed part of a graph may be doubly enclosed,
+and AB $\prec$ A[fig]circle with B inside, itself inside another circle[/fig].
+
+2[sup]nd[/sup], let A [del]by[/del] any graph.
+Then, by I, [fig]circle with A inside[/fig] $\prec$ [fig]circle with A inside[/fig]
+$\therefore$ by VI [fig]circle with A inside, itself inside another circle[/fig] $\prec$ A
+$\therefore$ by IV Any two ovals one enclosing only the other and its contents may,
+if unenclosed be erased, and [fig]circle with A inside, itself inside another circle[/fig]B $\prec$ AB.
+
+3[sup]d[/sup], let A and B be any two graphs, [del]then,[/del]
+by [del]M[/del] above, if A $\prec$ B since B $\prec$ [fig]circle with B inside, itself inside another circle[/fig], A $\prec$ [fig]circle with B inside, itself inside another circle[/fig] [ins]might be proved otherwise[/ins]
+and by V, if A $\prec$ B, [fig]circle with B inside[/fig] $\prec$ [fig]circle with A inside[/fig]
+and by IV whatever graph C maybe
+if AC $\prec$ BC then [fig]circle with B inside[/fig]C $\prec$ [fig]circle with A inside[/fig]C

@@ -1,0 +1,43 @@
+$$\left( \begin{aligned}
+a \cdot A:A + b \cdot A:B + c \cdot A:C \\
++ d \cdot B:A + e \cdot B:B + f \cdot B:C \\
++ g \cdot C:A + h \cdot C:B + i \cdot C:C
+\end{aligned} \right)^3$$
+
+$$a^2 + 2a [bd + cg - 1] + ebd + icg + bfg + hdc = 0$$
+$$e^2 + 2e [bd + fh - 1] + abd + ifh + bfg + hdc = 0$$
+$$i^2 + 2i [cg + fh - 1] + acg + efh + bfg + hdc = 0$$
+
+[marginalia]
+$$\frac{ch}{b}$$
+$$\frac{bf}{c}$$
+$$\frac{fg}{d}$$
+[/marginalia]
+
+$$b (a^2 + ae + e^2 + bd + cg + fh - 1) + (a + e + i) ch = 0$$
+$$c (a^2 + ai + i^2 + bd + cg + fh - 1) + (a + e + i) bf = 0$$
+$$d (e^2 + ae + a^2 + bd + cg + fh - 1) + (a + e + i) fg = 0$$
+[del]$$(a^2 + ai + i^2 + bd + cg + fh - 1) + (a + e + i) hd = 0$$[/del]
+[del]$$(a^2 + ai + i^2 + bd + cg + fh - 1) + (a + e + i) gb = 0$$[/del]
+[del]$$(e - i) (a + e + i) (e - i) + (a + e + i) \left( \frac{ch}{b} - \frac{bf}{c} \right) = 0$$[/del]
+[del]$$(a + e + i) (a - i) + (a + e + i) \left( \frac{ch}{b} - \frac{gb}{h} \right) = 0$$[/del]
+
+Either $$a + e + i = 0$$
+or $$\left\{ \begin{aligned} e - i + \frac{ch}{b} - \frac{bf}{c} = 0 \\ a - i + \frac{ch}{b} - \frac{gb}{h} = 0 \end{aligned} \right.$$
+
+$$\frac{ch}{b} = \frac{fg}{d}$$
+
+$$\frac{ch}{b} - i = \frac{bf}{c} - e = \frac{gb}{h} - a = M$$
+
+[marginalia]
+$$\frac{a^2 + ae + e^2 + bd + cg + fh - 1}{+ (a + e + i) (M + 1)}$$
+$$\frac{a^2 + e^2 + i^2 + ae + ai + ei}{+ M (a + e + i)}$$
+$$a + bd + cg + fh - 1 =$$
+[/marginalia]
+
+Put $$chd = fgb = N$$
+$$\frac{N}{bd} - M = i \quad \frac{N}{cg} - M = e \quad \frac{N}{fh} - M = a$$
+
+$$\frac{N}{M+i} + \frac{N}{M+e} + \frac{N}{M+a} - 1 +$$
+
+$$[(a+e+i) + M] (a+e+i) - ae - ai - ei$$

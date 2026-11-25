@@ -1,0 +1,31 @@
+$$(l \cdot s + b \cdot s)_{ij} = \sum_x \sum_y l_{ix} s_{xj} + b_{iy} s_{yi}$$
+
+$$(\Pi \cdot l + s)_{ij} = \Pi_x l_{ix} \cdot b_{ix} + s_{ij}$$
+
+$$(l \cdot b) \cdot s_{ij} = \sum_x l_{ix} \cdot b_{ix} \cdot s_{xi}$$
+$$= (\sum_x \Pi_p) l_{ix} \cdot s_{xj} \cdot p_{xi} + b_{ix} \cdot s_{xj} \bar{p}_{xj}$$
+
+$$\Pi_p (a \cdot p + b \cdot \bar{p})$$
+$$[u](a \cdot 1 + b \cdot \bar{1})[/u]$$
+$$[u](a \cdot 2 + b \cdot \bar{2})[/u]$$
+$$[u](a \cdot 3 + b \cdot \bar{3})[/u]$$
+$$[del]a \cdot 1\ a \cdot 2\ a \cdot 3[/del]$$
+
+[fig]sketch of a man's profile with hair combed back[/fig]
+
+$$a \cdot b = \Pi_p (a \cdot p + b \cdot \bar{p})$$
+
+$$(\bar{c}_{ij} + l_{ij}) \cdot g_{ij}$$
+
+$$\Pi_i \Sigma_j c_{ji} (g_{ji} + \bar{c}_{ji}) \cdot \infty \cdot l(\bar{c} + \bar{g})$$
+$$g \cdot l + \bar{c} \cdot \infty [l \cdot (g + \bar{c})]$$
+$$g + \infty$$
+$$\infty [ (g + \bar{c}) \cdot l + c ]$$
+$$\infty \cdot (g \cdot c \cdot l)$$
+
+$$\Pi_j \Sigma_i (\bar{c}_{ij} + l_{ij}) \cdot g_i$$
+
+$$(l + \bar{c}) \cdot [del]g[/del] l_{ij} \bar{c}_j + g_i \bar{l}_j$$
+$$(l + \bar{c}) \cdot g \cdot l \cdot \bar{c} + \bar{g} \cdot l$$
+$$l \cdot g \cdot \infty \cdot l \cdot \infty$$
+$$\infty \cdot l [ (g + \bar{c}) ] + c$$

@@ -1,0 +1,19 @@
+$$D_s X = F'_1 s + F'_4 q + q F'_3 s$$
+When $w^2 = b^2$ [del]$w^2$[/del] $D_s X = 0$
+In that case
+[del]$s = $[/del]
+$$s = \frac{1}{2} \frac{r^2 + c^2 - b^2}{c} i \pm \frac{1}{2c} \sqrt{2r^2 c^2 + 2r^2 b^2 + 2b^2 c^2 - r^4 - c^4 - b^4}$$
+
+[marginalia]
+$$\frac{x + (y-c)i}{x - (y-c)i} =$$
+$$w^2 = x^2 + (y-c)^2$$
+$$x^2 + y^2 = r^2$$
+[del]$y^2 = c^2$[/del]
+$$y^2 - (y-c)^2 = r^2 - w^2$$
+$$= 2yc - c^2 =$$
+$$2yc = c^2 + r^2 - w^2$$
+$$y = \frac{1}{2} \frac{c^2 + r^2 - w^2}{c}$$
+$$x^2 = r^2 - \frac{1}{4} \frac{(c^2 + r^2 - w^2)^2}{c^2}$$
+$$= \frac{1}{4c^2} \left( \begin{matrix} 2c^2 r^2 + 2c^2 w^2 + 2r^2 w^2 \\ - c^4 - r^4 - w^4 \end{matrix} \right)$$
+$$x = \pm \frac{1}{2c} \sqrt{\hspace{4cm}}$$
+[/marginalia]

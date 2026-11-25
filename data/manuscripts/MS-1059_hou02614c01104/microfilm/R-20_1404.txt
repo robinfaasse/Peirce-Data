@@ -1,0 +1,42 @@
+[fig]Spherical triangle diagram with sides b, c=51°, and angle A=170°[/fig]
+
+$$\tan \varphi = \tan b \cos A$$
+$$\cos a = \frac{\cos(c-\varphi) \cos b}{\cos \varphi}$$
+$$\cot B = \frac{\sin(c-\varphi) \cot A}{\sin \varphi}$$
+$$\tan a \cos B = \tan(c-\varphi)$$
+
+$$\begin{array}{rllrlrlrl}
+b & 30^{\circ} & \tan 9.76144 & \cos & 9.93753 & & & & \\
+A & 170 & \cos 9.99335_{n} & & & \tan & 9.24632_{n} & & \\
+\varphi & -29.622 & \tan 9.75479_{n} & \sec & 0.06083 & \frac{\sin}{\csc} & 9.69396_{n} & & \\
+c-\varphi & 80.622 & & \cos & 9.21205 & \csc & 585 & \cot & 9.21789 \\
+a & 80.658 & & \cos & 9.21041 & & & \tan & 0.78379 \\
+B & 5.048 & & & & \tan & 8.94613 & \cos & 9.99831 \\
+a & +9.382 & & & & & & & 9.99999
+\end{array}$$
+
+$$\begin{array}{rllrlrlrl}
+b & 40 & \tan 9.92381 & \cos & 9.88425 & & & & \\
+A & 170 & \cos 9.99335_{n} & & & \tan & 9.24632_{n} & & \\
+\varphi & -39.568 & \tan 9.91716_{n} & \sec & 11302 & \sin & 9.80413_{n} & & \\
+c-\varphi & 90.568 & & \cos & 7.99621_{n} & \csc & 2 & \cot & 7.99623_{n} \\
+a & 90.564 & & \cos & 7.99348_{n} & & & \tan & 2.00650_{n} \\
+B & 6.409 & & & & \tan & 9.05047 & \cos & 9.99728 \\
+& -0.563 & & & & & & & 0.00001
+\end{array}$$
+
+$$\begin{array}{rllrlrlrl}
+b & 50^{\circ} & \tan 0.07619 & \cos & 9.80807 & & & & \\
+A & 170 & \cos 9.99335_{n} & & & \tan & 9.24632_{n} & & \\
+\varphi & -49.567\frac{1}{2} & \tan 0.06954_{n} & \sec & 18806 & \sin & 9.88148_{n} & & \\
+c-\varphi & 100.567\frac{1}{2} & & \cos & 9.26339_{n} & \csc & 743 & \cot & 9.27082 \\
+a & 100.473 & & \cos & 9.25952_{n} & & & \tan & 0.73318 \\
+B & 7.775 & & & & \tan & 9.13523 & \cos & 9.99599 \\
+& -10.531 & & & & & & & 9.99999
+\end{array}$$
+
+$$\begin{array}{rlll}
+81 & 40.5 & -6.850 & +9.037 \\
+91 & 45.5 & +758 & -1.000 \\
+101 & 50.5 & +8390 & -11.686
+\end{array}$$

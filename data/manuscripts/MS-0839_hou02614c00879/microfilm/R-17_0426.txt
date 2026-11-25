@@ -1,0 +1,21 @@
+$$D_{\phi}r = \frac{\epsilon}{2} \left( \frac{1 - \epsilon \sin \phi}{1 + \epsilon \sin \phi} \right)^{\frac{\epsilon}{2}-1} \frac{-2\epsilon \cos \phi (1 + \epsilon \sin \phi) - \epsilon \cos \phi [del](1 - \epsilon \sin \phi)[/del]}{(1 + \epsilon \sin \phi)^2} \tan (45^{\circ} - \frac{\phi}{2})$$
+
+$$- \frac{1}{2} \left( \frac{1 - \epsilon \sin \phi}{1 + \epsilon \sin \phi} \right)^{\frac{\epsilon}{2}} \sec^2 (45^{\circ} - \frac{\phi}{2})$$
+
+$$= \left( \frac{1 - \epsilon \sin \phi}{1 + \epsilon \sin \phi} \right)^{\frac{\epsilon}{2}} \left[ \frac{\epsilon^2 \cos \phi}{1 - \epsilon^2 \sin^2 \phi} \tan (45^{\circ} - \frac{\phi}{2}) + \frac{\frac{1}{2} \sec^2 (45^{\circ} - \frac{\phi}{2})}{1 + \sin \phi} \right]$$
+
+$$\underline{\left( \frac{1 + \epsilon \sin \phi}{1 - \epsilon \sin \phi} \right)^{\frac{\epsilon}{2}} \tan (45^{\circ} - \frac{\phi}{2})} \quad \begin{aligned} [del]\cos^2 x[/del] \cos 2x &= 2 \cos^2 x - 1 \\ \frac{2}{1 + \cos 2x} &= \sec^2 x \end{aligned}$$
+
+$$\frac{\epsilon}{2} \left( \frac{1 + \epsilon \sin \phi}{1 - \epsilon \sin \phi} \right)^{\frac{\epsilon}{2}-1} \frac{2\epsilon \cos \phi (1 - \epsilon \sin \phi) + [del]\epsilon \cos \phi (1 + \epsilon \sin \phi)[/del]}{(1 - \epsilon \sin \phi)^2} \tan (45^{\circ} - \frac{\phi}{2}) - \frac{1}{2} \left( \frac{1 + \epsilon \sin \phi}{1 - \epsilon \sin \phi} \right)^{\frac{\epsilon}{2}} \sec^2 (45^{\circ} - \frac{\phi}{2})$$
+
+$$- \left( \frac{1 + \epsilon \sin \phi}{1 - \epsilon \sin \phi} \right)^{\frac{\epsilon}{2}} \left( \frac{\frac{1}{2} \sec^2 (45^{\circ} - \frac{\phi}{2})}{1 + \sin \phi} + \frac{\begin{aligned} (1 - \sin \phi) \\ [del]\epsilon^2 \cos \phi[/del] \epsilon^2 \cos \phi \tan (45^{\circ} - \frac{\phi}{2}) \end{aligned}}{(1 + \epsilon \sin \phi)(1 - \epsilon \sin \phi)} \right)$$
+
+$$D_{\phi}\phi = a \frac{(1 - \epsilon^2 \sin^2 \phi)^{\frac{3}{2}}}{1 - \epsilon^2} \qquad D_{\psi}r = \frac{1}{1 + \sin \phi}$$
+
+$$[del]D_{\phi} \Psi[/del] \quad D_{\phi} \Psi = + \left( \frac{1 + \epsilon \sin \phi}{1 - \epsilon \sin \phi} \right)^{\frac{\epsilon}{2}} \left( 1 + \frac{\epsilon^2 \cos \phi (1 - \sin^2 \phi)}{1 - \epsilon^2 \sin^2 \phi} \right)$$
+
+$$D_{\phi}s = a (1 - \epsilon^2) (1 + \frac{3}{2} \epsilon^2 \sin^2 \phi)$$
+
+$$1 + 2 \epsilon \sin \phi + \epsilon^2 - \epsilon^2 \sin^2 \phi$$
+
+$$\frac{\cos \frac{\phi}{2} + \sin \frac{\phi}{2}}{1 - \sin \phi}$$

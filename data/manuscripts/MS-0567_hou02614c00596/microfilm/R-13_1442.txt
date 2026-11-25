@@ -1,0 +1,21 @@
+Cubing the original proposition, we reach [del]gr[/del] [ins]in a similar way[/ins]
+$\Sigma_{\kappa}\Pi_{a}\Sigma_{b}\Pi_{c}\Pi_{d}\Sigma_{e}\Pi_{f}\Pi_{g}\Sigma_{h}\Pi_{i}$
+$\bar{x}_{a}+\bar{x}_{d}+\bar{x}_{g}+y_{b}y_{e}y_{h}\ r_{\kappa ab}\ r_{\kappa de}\ r_{\kappa gh}(\bar{I}_{fb}+I_{ab})(\bar{I}_{ie}+I_{de})(\bar{I}_{\kappa i}+I_{gi})$
+
+Identifying $f$ with $a$, $i$ with $d$, $g$ with $c$, the
+last term of the Boolian becomes
+$y_{b}y_{e}y_{h}\ r_{\kappa b}\ r_{\kappa de}\ r_{\kappa ch}(\bar{I}_{\kappa b}+I_{ac})(\bar{I}_{\kappa e}+I_{ad})(\bar{I}_{\kappa h}+I_{cd})$
+whence
+$y_{b}y_{e}y_{h}(\bar{I}_{\beta b}+I_{ac})(\bar{I}_{be}+I_{ad})(\bar{I}_{eh}+I_{cd})$,
+whence again
+$y_{b}y_{e}y_{h}\ \bar{I}_{\beta b}\ \bar{I}_{be}\ \bar{I}_{eh} + I_{ac} + I_{ad} + I_{cd}$,
+so that we have the conclusion
+$\Pi_{a}\Sigma_{b}\Pi_{c}\Pi_{d}\Sigma_{e}\Sigma_{h}$
+$\bar{x}_{a}+\bar{x}_{d}+\bar{x}_{e}+\bar{I}_{ac}+I_{ad}+I_{cd}+y_{b}y_{e}y_{h}\ \bar{I}_{be}\ \bar{I}_{bh}\ \bar{I}_{ee}$,
+that is, there either are not three $x$s all
+different from one another or there are
+three $y$s all different from one another.
+
+It is plain that by raising to the $n!$ power
+we should get any proposition of this form, and
+that no others could be obtained.

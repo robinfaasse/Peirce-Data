@@ -1,0 +1,46 @@
+To find the Day of the Week on which any Date
+of the Christian Era falls.
+
+I. Reckon each year as beginning on the 1st day of March, referring all
+previous dates to the preceding year.
+
+II. Four numbers, or indices, are necessary for our purpose; namely:-
+the Century Index, the Year Index, the Month Index, and the Day Index.
+
+III. The Century index is 0 (zero) for any date of the Old Style.
+For dates of New Style, the Century Index is as follows:-
+A.D. 1582 - 1699 inclusive, 4,
+A.D. 1700 - 1799 " 3,
+A.D. 1800 - 1899 " 2,
+A.D. 1900 - 2099 " 1; and so on.
+
+IV. [u]To find the Year Index, add to the number of the year its fourth part[/u],
+omitting fractions. [u]This result may be reduced by dividing it by 7 and keeping
+only the remainder.[/u]
+[u]Example.[/u] To find the Year Index of 1894; we have
+1894 + 473 = 2367 = Year Index; for which (dividing by 7) we
+may substitute the remainder, 1. Thus 1 = the Year Index of 1894.
+
+[u]Note.[/u] Before dividing the number of the year by 4, we may shorten the work
+by subtracting from it any convenient multiple of 28; such as 1400, 1540, 1680,
+1820, 1960. Thus, 1894 - 1820 = 74; 74 + 18 = 92 = 7 X 13 + 1.
+Hence, 1 = the Year Index of 1894.
+The sum of the Century Index and the Year Index may be called the Corrected Year
+Index. This is, therefore, equal to 3 for 1894; 4 for 1895; 6 for 1896; 0 for
+1897; 1 for 1898; 2 for 1899; 3 for 1900; etc.
+
+V. [u]The Month Indices are as follows:-[/u]
+March 0 September 2
+April 3 October 4
+May 5 November 0
+June 1 December 2
+July 3 January 5
+August 6 February 1
+These numbers should be carefully committed to memory.
+
+VI. [u]The Day Index is the same as the number of the day of the month;[/u] but
+from this any multiple of 7 may be deducted.
+
+VII. [u]Add together the four indices.[/u] [u]The sum thus obtained, reduced by
+deducting from it the greatest multiple of 7 which it contains, may be called the
+key to the day of the week.[/u] [u]The key indicates the day as follows:-[/u]

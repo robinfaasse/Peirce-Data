@@ -1,0 +1,24 @@
+Theorems
+
+[u]Notation[/u]  A [fig]figure[/fig] B means A is illatively transformable into B.
+
+[u]XII.[/u]  If a graph is transformable into [del]an oval[/del] [ins]an enclosure consisting of an oval enclosing a second[/ins] [del]enclosure consisting of an oval enclosing a second[/del] graph, [del]if A [fig]figure[/fig] [fig]figure[/fig] then B [fig]figure[/fig] [fig]figure[/fig][/del] the second graph is transformable into [del]an[/del] [ins]an[/ins] [del]oval[/del] enclosure consisting of [ins]an[/ins] oval containing the first graph.
+
+[u]Proof.[/u]  Let A be the first graph, B the second graph.
+And let A [fig]figure[/fig] [fig]figure[/fig]
+Then by V [fig]figure[/fig] [fig]figure[/fig] A
+But by VI B [fig]figure[/fig] [fig]figure[/fig] so that B [fig]figure[/fig] [fig]figure[/fig]. Q.E.D.
+
+[u]XIII.[/u] If an enclosure consisting of an oval enclosing a graph is transformable into a second graph, then [del]an[/del] [ins]an[/ins] [del]oval[/del] enclosure consisting of an oval containing the second graph is transformable into the first graph.
+[u]Proof[/u] Let A be the first graph, B the second graph.
+And let [fig]figure[/fig] [fig]figure[/fig] B
+Then by VII there is a graph x such that A = [fig]figure[/fig].
+Hence, [fig]figure[/fig] [fig]figure[/fig] B
+Whence by VI x [fig]figure[/fig] B
+[fig]figure[/fig] by V [fig]figure[/fig] [fig]figure[/fig] x
+[fig]figure[/fig] by hypothesis [fig]figure[/fig] [fig]figure[/fig] A. Q.E.D.
+
+[u]XIV.[/u]  An unenclosed enclosure consisting of an oval containing only another enclosure consisting of an oval containing any graph is transformable into that graph.
+[u]Proof.[/u]  Let a be the doubly enclosed graph
+Then [del]by[/del] [ins]by[/ins] I [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig]
+[fig]figure[/fig] by [del]XII[/del] [ins]XIII[/ins] [fig]figure[/fig] [fig]figure[/fig] a. Q.E.D.

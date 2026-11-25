@@ -1,0 +1,40 @@
+[marginalia]
+[del]$\frac{D}{z_R} = - \frac{\lambda_R}{z_x}$[/del]
+[/marginalia]
+
+$D \cdot (z_R + z_x + z_A + z_B + z_C + z_D + z_E + z_F)$
+
+$= \left( \frac{-\lambda_R z_R}{+ P_x \lambda_R z_R} \right) R + \left( \frac{-\lambda_x z_x}{+ P_A \lambda_x z_x} \right) x + \left( \frac{-\lambda_A z_A}{+ P_B \lambda_A z_A} \right) A + \left( \frac{-\lambda_B z_B}{+ P_C \lambda_B z_B} \right) B$
+
+$+ \left( \frac{-\lambda_C z_C}{+ P_D \lambda_C z_C} \right) C + \left( \frac{-\lambda_D z_D}{+ P_E \lambda_D z_D} \right) D + \left( \frac{-\lambda_E z_E}{+ P_F \lambda_E z_E} \right) E + \left( \frac{-\lambda_F z_F}{+ P_R \lambda_F z_F} \right) F$
+
+$\frac{\lambda_R P_x z_x - \lambda_R z_R}{z_R} = \frac{\lambda_x P_A z_A - \lambda_x z_x}{z_x}$
+
+[del]$\frac{P_x z_x}{z_R}$[/del]
+[del]$\frac{P_x z_x - z_R}{z_R}$[/del]
+[del]$\frac{P_x z_x}{z_R}$[/del]
+[del]$\frac{P_x z_x}{z_R}$[/del]
+[del]$\frac{P_x z_x}{z_R}$[/del]
+
+$\frac{(P_x z_x - z_R) \lambda_R}{z_R}$
+
+$\left( P_x \frac{z_x}{z_R} - 1 \right) \lambda_R = \left( P_A \frac{z_A}{z_x} - 1 \right) \lambda_x = \left( P_B \frac{z_B}{z_A} - 1 \right) \lambda_A$
+$= \left( P_C \frac{z_C}{z_B} - 1 \right) \lambda_B = \left( P_D \frac{z_D}{z_C} - 1 \right) \lambda_C = \left( P_E \frac{z_E}{z_D} - 1 \right) \lambda_D$
+$= \left( P_F \frac{z_F}{z_E} - 1 \right) \lambda_E = M$
+
+[del]$\frac{(P_x z_x - z_R) \lambda_R}{z_R}$[/del]
+[del]$\left( \frac{M}{\lambda_R} + 1 \right) \frac{z_R}{P_x} = z_x$[/del]
+[del]$\left( \frac{M}{\lambda_x} - 1 \right) = \frac{z_E}{P_E} / z_x$[/del]
+
+[del]$P_x = 1$[/del]
+
+$\frac{1}{P_x} \left( \frac{M}{\lambda_R} + 1 \right) = \frac{z_x}{z_R}$
+$\frac{1}{P_A} \left( \frac{M}{\lambda_x} + 1 \right) = \frac{z_A}{z_x}$
+$\frac{1}{P_B} \left( \frac{M}{\lambda_A} + 1 \right) = \frac{z_B}{z_A}$
+$\frac{1}{P_C} \left( \frac{M}{\lambda_B} + 1 \right) = \frac{z_C}{z_B}$
+$\frac{1}{P_D} \left( \frac{M}{\lambda_C} + 1 \right) = \frac{z_D}{z_C}$
+$\frac{1}{P_E}$
+
+$\frac{1}{P_x}$
+$\frac{1}{P_A}$
+$\frac{1}{P_B}$

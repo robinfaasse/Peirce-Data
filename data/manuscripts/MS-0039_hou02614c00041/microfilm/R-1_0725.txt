@@ -1,0 +1,20 @@
+V.
+
+We now come to a genuine theorem concerning number, as distinguished from quantity in general. It is that if $j$ is as great as [u]$i$[/u], if either is [u]$i$[/u] or is as great as whatever is next greater than [u]$i$[/u]; that is
+
+$$\Pi_i \Pi_j \Pi_k (\bar{g}_{ij} + \bar{E}_{ik} + g_{kj} + I_{ij})$$
+
+Let us write
+$$f_{ij} = \Pi_k (\bar{E}_{ik} + g_{kj} + I_{ij}).$$
+
+Then $f_i$ is a hereditary character; that is,
+
+$$\Pi_p \Pi_q (\bar{f}_{ip} + \bar{E}_{pq} + f_{iq}).$$
+
+For the denial of this is
+$$\Sigma_p \Sigma_q f_{ip} \bar{E}_{pq} \bar{f}_{iq},$$
+or, substituting for the first $f$ its definition
+$$\Sigma_p \Sigma_q \Pi_k (\bar{E}_{ik} + g_{kp} + I_{ip}) \bar{E}_{pq} \bar{f}_{iq}$$
+$$= \Sigma_p \Sigma_q \Pi_k \{ (\bar{E}_{ik} + g_{kp}) \bar{E}_{pq} + I_{ip} \bar{E}_{pq} \} \bar{f}_{iq}$$
+
+Theorem III permits us to substitute $g_{pq}$ for $\bar{E}_{pq}$ in the first term [del]under[/del] the braces. This result, for instance, would be got by multiplying by theorem III

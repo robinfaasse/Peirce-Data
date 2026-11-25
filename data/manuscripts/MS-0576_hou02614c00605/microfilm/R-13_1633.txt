@@ -1,0 +1,41 @@
+Of the Copulas of Algebra.
+By C. S. Peirce
+
+An algebra according [del]it[/del] [ins]as it[/ins] employs only one copula or more
+than one [del]I call[/del] [ins]is[/ins] single-copula'd or multi-copula'd.
+
+I first consider single-copula'd algebra. This employs only
+one copula (which may be denoted by [fig]copula symbol[/fig]) and [del]its[/del] [ins]no[/ins] negative
+which may be denoted by [fig]negated copula symbol[/fig]. Some sort of syllogism is valid
+with this copula or there is no algebra. This syllogism may be
+in either of the four figures and each of the three propo-
+sitions may be affirmative or negative. This gives 32 pos-
+sible different forms of syllogism; but the theory of the
+reduction of syllogism by contraposition of propositions
+(developed in my paper on the Classification of Arguments,
+Proceedings of the Academy Vol 7) shows that all these forms
+are reducible to the following four.
+
+[u]1[sup]st[/sup][/u]
+a [fig]copula 1[/fig] b
+b [fig]copula 1[/fig] c
+[fig]therefore[/fig] a [fig]copula 1[/fig] c
+
+[u]2[sup]nd[/sup][/u]
+a [fig]copula 1[/fig] b
+a [fig]negated copula 2[/fig] c
+[fig]therefore[/fig] b [fig]negated copula 2[/fig] c
+
+[u]3[sup]d[/sup][/u]
+a [fig]negated copula 1[/fig] b
+b [fig]copula 3[/fig] c
+[fig]therefore[/fig] a [fig]negated copula 3[/fig] c
+
+[u]4[sup]th[/sup][/u]
+a [fig]negated copula 1[/fig] b
+b [fig]negated copula 4[/fig] c
+[fig]therefore[/fig] c [fig]negated copula 2[/fig] a
+
+But a further reduction may be made. For let us con-
+sider first the second copula. From a [fig]negated copula 2[/fig] x and a [fig]negated copula 2[/fig] x it follows
+that x [fig]negated copula 2[/fig] x. This therefore will hold of any term [ins]x[/ins] which can

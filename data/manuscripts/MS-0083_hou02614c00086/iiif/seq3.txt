@@ -1,0 +1,64 @@
+Substitutions dérivées p 22 de merely means
+that they result as products of powers of certain
+initial substitutions [ins]so call it the theorem of transformation[/ins] The theorem about BAB[sup]–1[/sup]
+(which ought to have a name) is proved (p 23) as
+follows so let A = a (bc) (def) etc. and B be ([small]a b c d e f[/small]/[small]a' b' c' d' e' f'[/small])
+then B' replaces a' by a, b' by b, c' by c, etc and
+A B[sup]–1[/sup] replaces a' by a, b' by c, c' by b, d' by f, e' by d,
+f' by e etc. and BAB[sup]–1[/sup] = [del]a[/del] a' (b'c') (d'e'f') etc
+QED. Conversely if two substitutions are [del]semblables[/del]
+either is a transformée of the other, supposes the substi-
+tution to be transformed to have been reduced to indepen-
+dent cycles. If for example
+A = (ac) (ade) (cef) (fd) it transforms
+a + b + c + d + e + f
+first by (fd) to a + b + c + f + e + d
+then by (cef) to a + b + f + e + c + d
+then by (ade) to e + b + f + d + c + a
+then by (ac) to [del]e[/del] c + b + f + d + a + e
+so that [del]A = [/del] A = (ae) (b) (cf) (d)
+Transforming this by (abc) (def) makes
+(abc)[sup]–1[/sup] (def)[sup]–1[/sup] a + b + c + d + e + f
+(ab) (cd) b + c + a + e + f + d
+Then [del]A[/del] makes b + f + e + a + c + d
+Then (abc a + e + d + c + b + f
+[fig]figure[/fig] (cd) (a) (be) (f) according to the theorem
+But if we had operated on the original forms we should
+have got ([del]eb[/del] eb) ([del]cfd[/del] cfd) (bde) (ef)
+which would convert a + b + c + d + e + f
+successively into f + e
+e b + [ins]?[/ins] d
+d c f
+a + e + d + c + b + f
+Yes, after all, there is no need of the restriction
+
+The theorems of transformation may be ex-
+pressed thus: The transformation of a sub-
+stitution leaves its form unchanged, and
+only transmutes its matter. For this
+reason, it should not be called a
+"transformation" but only a Transmutation
+Similar substitutions are reciprocally trans-
+mutable, or say intertransmutable.
+Exchangeable substitutions are such that
+either transmuting the other leaves it unchanged
+i.e. BAB[sup]–1[/sup] = A whence B[sup]–1[/sup]A = AB[sup]–1[/sup] and AB = BA
+and ABA[sup]–1[/sup] = B and AB[sup]–1[/sup]A[sup]–1[/sup] = B[sup]–1[/sup] etc, p 24
+All substitutions that have no matter in common
+are [u]échangeables[/u] And if both B and C are
+échangeable with A, they are so with each other ??
+On p 24 he seems to use "permutable" as synonym
+of échangeable. Contenu defined p 25
+The order of a group whose degree is k will be a
+divisor of k! and the order of every group
+will be divisible by the order of any of its sub-
+stitutions. p 26 Lagrange's theorem is that if one
+group contains another its order is a multiple of
+that other. p 25. Cauchy's theorem is a master-
+piece, viz That Any group whose order is [ins]divisible by any[/ins] a prime [ins]number[/ins]
+contains a substitution of that same order. Every
+group contains a substitution of the order of each
+prime factor of the [del]groups[/del] order of the group. It is
+preceded by 2 so-called "lemmata", which are properly
+speaking auxiliary theorems but not lemmata at all.
+Lemma If a group contains two other groups then the number

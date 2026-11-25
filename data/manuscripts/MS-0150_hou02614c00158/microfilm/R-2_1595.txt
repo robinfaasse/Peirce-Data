@@ -1,0 +1,29 @@
+were altered, we should simply have another rectangle; and
+since we should still have $OA = OB = OC = OD$, its sides would
+[del]to[/del] be parallel to those of the rectangle found. Then from any point,
+[ins]say $[Q]$,[/ins] not on the rectangle, draw rays parallel to the [del]two[/del] sides of
+the rectangle, and [del]new rectangles[/del] [ins]two[/ins] [del]of the same sort can[/del]
+[del]be found. It will thus appear that[/del] One of these will show that
+the [del]sum[/del], the other that the difference of the distances from
+the two given rays is a distance other than the given distance.
+
+<u>Problem</u>. [del]Find[/del] Given two rays $\{a\}$ and $\{b\}$ in
+a plane. Required all the points such that if $\underline{x}$ and $\underline{y}$
+are then [ins]respectively[/ins] distances from these rays, [del]and[/del] $m$ and $n$
+are given ratios, and $d$ a given distance, either
+$$\begin{aligned}
+& m\underline{x} + n\underline{y} = \underline{d}, \\
+\text{or } & [del]m\underline{x} - n\underline{y} = \underline{d}[/del] \quad m\underline{x} = \underline{d} + n\underline{y}, \\
+\text{or } & n\underline{y} = \underline{d} + m\underline{x}.
+\end{aligned}$$
+
+<u>Solution</u>. Let $p$ and $q$ be the quotients of the
+distance $d$ [ins]divided[/ins] by the numbers $m$ and $n$ respectively. Then [del]the[/del]
+[del]find the two points upon $\{b\}$ whose dista[/del] [ins]at the distance $p$ from $\{a\}$, and the two points upon[/ins]
+[del]both rays from $[ab]$,[/del] lay off the distance $q$ upon $\{a\}$ [del]and[/del]
+[del]$\{a\}$ at the distance $q$ from $[ab]$.[/del] [ins]and[/ins] [del]upon $\{b\}$.[/del] Call the points so found upon $\{b\}$ $[A]$ and $[B]$,
+and the points upon $\{a\}$, $[C]$ and $[D]$. Then, all the points
+that satisfy the conditions of the problem are all the points
+of the rays $\{AC\}$, $\{CB\}$, $\{BD\}$, $\{DA\}$. Upon the [ins]sides of the[/ins] parallelo-
+gram itself, the first equation holds, upon the sides produced from acute
+angles one of the other equations holds, and upon the sides produced from obtuse

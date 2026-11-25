@@ -1,0 +1,76 @@
+The following formulae, which find continual
+application, are deducible from the above:
+$$a + b = a + \bar{a} b$$
+$$xy + \bar{x}\bar{y} = (x + \bar{y})(\bar{x} + y)$$
+$$(a+b)c \prec a + bc$$
+$$(a+x)(b+y) \prec a + b + xy.$$
+
+The fifth step is composed of two kinds of
+operations, the involution of the whole expression,
+and the identification and discrimination of indices.
+
+It is plain that any algebraical expression
+of a proposition may [del]be[/del] multiplied into itself any
+number of times without ceasing to be true;
+and it will be found that such involution is
+essentially necessary in all difficult modes of
+inference. Consider, for example, the last formula
+but one of those last given,
+$$(a+b)c \prec a + bc,$$
+This is not itself a distribution formula, but
+only an association-formula, and therefore the
+deduction of a distribution formula from it is
+not a matter of the very utmost simplicity. If
+however, we square the antecedent we have
+$$(a+b)c = (a+b)c(a+b)c = c(a+b)c,$$
+and then by the application of the association
+formula twice over we get
+$$c(a+b)c \prec (ca+b)c \prec ca + bc;$$
+so that we have proved
+$$(a+b)c \prec ac + bc,$$
+which is the main distribution formula, with the
+aid of which all the others are readily obtained.
+
+Other more striking examples of the utility
+
+[page break]
+
+of [del]involution[/del] will present themselves in the course
+of this paper.
+
+In multiplying a proposition by itself, we
+have the right to choose any point from the
+beginning to the end of the quantifier and to
+identify in two factors all the indices to the
+left of this point while diversifying all to the
+right of it. When there is but one index, this is
+plainly true (see the formulae at the bottom of
+p. 196); for
+$$\Pi_i a_i = (\Pi_i a_i)(\Pi_i a_i) = (\Pi_i a_i)(\Pi_j a_j)$$
+$$\Sigma_i a_i = (\Sigma_i a_i)(\Sigma_i a_i) = (\Sigma_i a_i)(\Sigma_j a_j).$$
+
+Now
+$$(\Pi_i a_i)(\Pi_j a_j) = (a_1 a_2 a_3 \text{ etc.})(a_1 a_2 a_3 \text{ etc.})$$
+
+while
+$$\Pi_i \Pi_j a_i a_j = a_1 a_1 . a_1 a_2 . a_1 a_3 \text{ etc.}$$
+$$\times a_2 a_1 . a_2 a_2 . a_2 a_3 \text{ etc.}$$
+$$\times a_3 a_1 . a_3 a_2 . a_3 a_3 \text{ etc.}$$
+$$\times \text{ etc.}$$
+
+and
+$$\Pi_i a_i a_i = a_1 a_1 . a_2 a_2 . a_3 a_3 \text{ etc.},$$
+
+But since $a_i a_i = a_i$ all these are equivalent.
+
+Also
+$$(\Sigma_i a_i)(\Sigma_j a_j) = (a_1 + a_2 + a_3 + \text{etc.})(a_1 + a_2 + a_3 + \text{etc.})$$
+
+while
+$$\Sigma_i \Sigma_j a_i a_j = a_1 a_1 + a_1 a_2 + a_1 a_3 + \text{etc.}$$
+$$+ a_2 a_1 + a_2 a_2 + a_2 a_3 + \text{etc.}$$
+$$+ a_3 a_1 + a_3 a_2 + a_3 a_3 + \text{etc.}$$
+$$+ \text{etc.}$$
+
+and
+$$\Sigma_i a_i a_i = a_1 a_1 + a_2 a_2 + a_3 a_3 + \text{etc.}$$

@@ -1,0 +1,46 @@
+$$a \times \prec z$$
+$$b \times \prec z$$
+To prove $(a+b) \times \prec z$
+
+$$ax + bx \prec z$$
+$$a \times \prec z \bar{x}$$
+$$a \prec z + \bar{x}$$
+
+$$ac \prec z$$
+$$bc \prec z$$
+[del]$(a+b)$[/del]
+
+If $x \prec a$ $u \prec c$
+If $x \prec b$ $u \prec c$
+
+$$u \prec z$$
+$$v \prec z$$
+
+$\therefore$ If $w \prec c$ and [del]$w \prec a$[/del] [ins]$w \prec b$[/ins] then $w \prec z$
+
+$$x \prec a + b$$
+$$xa \prec z$$
+$$xb \prec z$$
+
+$$x \prec \frac{a+b}{s}$$
+$$x \prec sa + sb$$
+$$x \prec s(a+b)$$
+
+[del]$xa + xb \prec z$[/del]
+$$x \prec z$$
+
+[del]$x \prec c$[/del]
+$$x \prec a+b$$
+[del]$a \prec y$[/del]
+[del]$b \prec y$[/del] $x \prec y$
+
+$(a+b)c \prec (ac + bc)c \prec (ac + bc)$
+$$ac + bc$$
+$$ac \prec z$$
+$$bc \prec z$$
+$$y \prec z$$
+$$yc \prec z$$
+$$ac \prec (a+b)c$$
+$$bc \prec (a+b)c$$
+
+[fig]scribble[/fig]

@@ -1,0 +1,24 @@
+[u]Reciprocal transformation[/u]. A transformation in which the coordinates
+$x, y, z$, of the points of one plane are connected with
+the corresponding points of the other plane by the
+equation $x' : y' : z' = \frac{1}{x} : \frac{1}{y} : \frac{1}{z}$.
+
+[u]Polar transformation[/u] (2.) A transformation in spherical geometry
+or trigonometry, between a given triangle and its
+polar triangle. By means of this transformation any
+given relation in a spherical triangle can be transformed
+into another relation which is so related to the first one
+that sides correspond to angles and angles to sides.
+
+[u]Infinitesimal transformation[/u]. If in the differential equation
+$dy - X dx = 0$, $x$ and $y$ are replaced by $x + \varepsilon \xi$ and
+$y + \varepsilon \eta$, $\varepsilon$ being an infinitely small constant and $\xi$,
+$\eta$ functions of $x$ and of $y$, the transformed equation,
+neglecting the square of $\varepsilon$, is $[1 + \varepsilon (\frac{\partial \eta}{\partial y} - X \frac{\partial \xi}{\partial y})] dy$
+$- [X + \varepsilon (X \frac{\partial \xi}{\partial x} + \xi \frac{\partial X}{\partial x} + \eta \frac{\partial X}{\partial y} - \frac{\partial \eta}{\partial x})] dx = 0$ If this
+equation reproduces the original one, or if it can be
+reduced to the original one by multiplying it or dividing
+it by a factor, the original equation is said to admit
+the infinitesimal transformation $\xi, \eta$. The condition
+that must be fulfilled is
+$X \frac{\partial \xi}{\partial x} + \xi \frac{\partial X}{\partial x} + \eta \frac{\partial X}{\partial y} - \frac{\partial \eta}{\partial x} - X (\frac{\partial \eta}{\partial y} - X \frac{\partial \xi}{\partial y}) = 0$.

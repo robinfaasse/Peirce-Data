@@ -1,0 +1,29 @@
+§ 97. Certain consequences of these rules [del]are[/del] [ins]maybe[/ins] conveniently
+used as rules. Suppose, for example, we have given
+[u]P[/u] | [u]Q[/u] | R true.
+Then, by Rule 2, we have
+[u]Q[/u] | [u]P[/u] | [u]Q[/u] | R true.
+But, by Rule 1,
+[u]Q[/u] | Q true.
+Hence, by Rule 3,
+[u]Q[/u] | [u]P[/u] | R true.
+This shows that the order of succession of anteceden-
+tals is indifferent. This may be called the rule of [u]Transposition[/u].
+
+Rule 3 makes the following form of inference valid:
+[u]P[/u] | Q true,
+[u]Q[/u] | R true,
+∴ [u]P[/u] | R true.
+This is the canonical form of the syllogism in [u]Barbara[/u].*
+
+The old stock example of Barbara was
+Omne animal est substantia,
+Omnis homo est animal;
+∴ Omnis homo est substantia.
+This is a gross [u]petitio principii[/u], it is true; but that has nothing to do
+with its merits as a syllogism. However, to take an example which one
+may conceive [del]the[/del] [ins]a[/ins] [ins]sane man[/ins] [del]actual reasoning of a sane man to[/del] [ins]to[/ins] follow, the following will
+answer:-
+[del]All[/del] [ins]All[/ins] men die;
+[del]All[/del] [ins]The[/ins] patriarchs (including Enoch and Elijah) are men;
+∴ [del]All[/del] [ins]All[/ins] the patriarchs die.

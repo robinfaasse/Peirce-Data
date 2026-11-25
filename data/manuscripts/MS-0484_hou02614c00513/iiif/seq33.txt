@@ -1,0 +1,12 @@
+F4 15
+ovals, and if $C_n$ is the whole of that part of the graph which is contained in $2N-n$
+of these ovals, and $c_n$ is the result of substituting $b$ for $a$ in $C_n$, then $\boxed{C_{2N}} \prec \boxed{c_{2N}}$
+and $\boxed{c_{2N+1}} \prec \boxed{C_{2N+1}}$.
+For suppose this to be true so long as $N$ does not exceed a certain
+whole number, $L$. Then, I say it is true when $N = L + 1$. For by hypothe-
+sis $\boxed{c_{2L+1}} \prec \boxed{C_{2L+1}}$. Let $x$ be that which in addition to $\boxed{C_{2L+1}}$ is contained
+in the same oval. Then [del]by[/del] $C_{2(L+1)} = \boxed{C_{2L+1}} x$ and $c_{2(L+1)} \prec \boxed{c_{2L+1}} x$.
+Then by [u]XVIII[/u] $\boxed{C_{2(L+1)}} \prec \boxed{c_{2(L+1)}}$. In the same way it follows that
+$\boxed{c_{2(L+1)+1}} \prec \boxed{C_{2(L+1)+1}}$. Thus the proposition if true of $N = L$ is true
+of $N = L + 1$. But by [u]XVIII[/u], it is true for $N = 0$. Hence, it is true, whatever
+whole number $N$ may be.

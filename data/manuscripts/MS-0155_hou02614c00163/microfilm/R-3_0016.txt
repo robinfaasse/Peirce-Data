@@ -1,0 +1,28 @@
+Studies in Map Coloring
+as starting-point for advance
+into Geometrical Topics
+
+It is needless to suppose any summit to have [del]more[/del] [ins]other[/ins]
+than 3 edges with 3 faces.
+
+It is needless to suppose any face to have fewer than
+5 edges and 5 summits.
+
+Let $f_x$ denote the number of $x$-gonal faces.
+
+Then the number of edges will be
+$\frac{1}{2} (5 f_5 + 6 f_6 + 7 f_7 + \text{etc})$
+and the number of summits $\frac{1}{3} (5 f_5 + 6 f_6 + 7 f_7 + \text{etc}$
+and the number of faces $f_5 + f_6 + f_7$ etc
+Therefore the [del]census[/del] number will be
+$\frac{1}{6} (f_5 - f_7 - 2 f_8 - 3 f_9 - \text{etc}) = X - K + \Pi$
+
+But what $X$ has to do with it is not clear. It is certain
+that the singularities must be taken into account
+Nor is it clear what $X$ has to do with the matter. If for example
+$X=2$ $K=2$ $\Pi=2$, there may either be one [del]plane[/del] [ins]globe[/ins] and one ring
+and 7 colors will be needed, or two planes [del]and[/del] [ins]when[/ins] only 6 will be needed.
+
+The whole thing seems to depend on $K$ exclusively
+
+$\frac{1}{6} f_5 = [del]1[/del]$ [del]$2-1=1$[/del] $f_5 = 6$

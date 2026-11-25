@@ -1,0 +1,47 @@
+series. But by the fourth method we do not integrate, for we do not pass out from under the general term of the given series, but only pass to a different unit interval under that given general term.
+
+By the fourth method we express the sum of a series having one unit interval between terms, in terms of another series under the same general term but having another unit interval between terms which is easier to sum.
+
+There is thus a very marked distinction between this method and the method of integration, with which it is, however, often apparently confused, but with which it has in fact little or nothing in common.
+
+If we consider the general case of this method, it will lead to the simplification of some familiar and very important formulæ.
+
+Let $E_n$ represent the operation of increasing the independent variable in any function by $n$.
+
+Let $E_n^a$ represent the repetition of this operation $a$ times.
+
+We will have the following obvious relations:—
+
+$E_n^{1/n} = E = E_h^{1/h}$. Therefore $E_n = E_h^{n/h}$
+
+Where $E$ refers to an increase of the independent variable by unity.
+
+Thus, $1 + \Delta_n = (1 + \Delta_h)^{n/h}$, and
+
+$\Delta_n = n \left(\frac{\Delta_h}{h}\right) + \frac{n(n-h)}{1.2.} \left(\frac{\Delta_h}{h}\right)^2$
+$+ \frac{n(n-h)(n-2h)}{1.2.3.} \left(\frac{\Delta_h}{h}\right)^3 + \text{\&c.}$
+
+This is the general equation expressing the difference according to any unit interval, in terms of the difference according to any other unit interval, under the same general term.
+
+If $h$ is infinitely small so will $\Delta_h$ be, and we will have a difference at unit interval $n$ expressed in terms of differential coefficients. If $n$ is infinitely small so will $\Delta_n$ be, and on dividing
+
+[pn]4[/pn]
+
+through by $n$ we will have a differential coefficient expressed in terms of differences at unit interval of $h$. By making $n$ or $h$ equal to unity we have the usual forms of these equivalences. We may thus also easily find the relations of the second and third order, etc.
+
+Suppose that $h$ is a unit interval according to which we have already arithmetically summed the series, and we desire to find the sum of the series according to the unit interval $n$ between terms under the same general term. The object is to express the sum at unit intervals of $n$ in terms of the sum at unit intervals of $h$.
+
+Let $\Sigma_n \left| \begin{smallmatrix} b-n \\ a \end{smallmatrix} \right| u_x$ represent taking the sum of the series whose general term is $u_x$ between the limits $a$ and $b-n$ both inclusive, at unit interval $n$ between terms.
+
+We will then have as the general expressions of a sum
+
+$\Sigma_n \left| \begin{smallmatrix} b-n \\ a \end{smallmatrix} \right| u_x =$
+$\left[ 1 + E_n + E_n^2 + E_n^3 + \text{etc.} + E_n^{\frac{b-a}{n}-1} \right] u_a$
+$= \frac{E_n^{\frac{b-a}{n}} - 1}{E_n - 1} u_a$
+$= \frac{1}{E_n - 1} (u_b - u_a)$
+$= \frac{1}{(1 + \Delta_n) - 1} (u_b - u_a)$
+$= \frac{1}{(1 + \Delta_h)^{n/h} - 1} (u_b - u_a)$
+
+This is the general expression for a definite sum under the general term $u_x$ at unit intervals of $n$, expressed in terms of a
+
+[pn]5[/pn]

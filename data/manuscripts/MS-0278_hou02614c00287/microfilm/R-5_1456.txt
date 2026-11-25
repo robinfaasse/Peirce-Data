@@ -1,0 +1,49 @@
+```
+[marginalia]
+Number of
+significant figures
+required
+Secundal as
+in decimal
+expression
+supposing both
+carried to
+power of
+[del]2[/del] [ins]x[/ins]
+[/marginalia]
+
+[marginalia]
+[u]x[/u]
+[/marginalia]
+
+| A | B | Number of Integers [del]A[/del] [ins]but[/ins] [del]B[/del] | [del]No of deci[/del] [ins]places[/ins] | [del]candis[/del] [ins]places[/ins] | E/D | of F |
+|---|---|---|---|---|---|---|
+| — | — | — | — | — | — | — |
+| 1 | 2 | 1 | 1 | 1 | 1 | |
+| 2 | 4 | 2 | 1 | 2 | 2 | |
+| 4 | 8 | 4 | 1 | 3 | 3 | |
+| 8 | 16 | 2 | 1 | 4 | 4 | 2 [fraction]1/2[/fraction] | 2.52 | 1 |
+| 10 | 10 | 16 | 2 | 4 | 2 [fraction]1/2[/fraction] | | |
+| 16 | 32 | 32 | 2 | 5 | 2 [fraction]3/4[/fraction] | | |
+| 32 | 64 | 36 | 2 | 6 | 3 | |
+| 64 | 100 | 128 | 3 | 7 | 3 [fraction]1/4[/fraction] | 2.625 | 2 |
+| 100 | 128 | 228 | 3 | 8 | 2 [fraction]2/3[/fraction] | | |
+| 128 | 256 | 256 | 3 | 9 | 3 | |
+| 256 | 512 | 488 | 3 | 10 | 3 [fraction]1/3[/fraction] | | |
+| 512 | 1000 | 1024 | 4 | 10 | 2 [fraction]1/2[/fraction] | 2.69444 | 3 |
+| 1000 | 1024 | 2048 | 4 | 11 | 2 [fraction]3/4[/fraction] | | |
+| 1024 | 2048 | 4096 | 4 | 12 | 3 | |
+| 2048 | 4096 | 1808 | 4 | 13 | 3 [fraction]1/4[/fraction] | |
+| 4096 | 8192 | 16384 | 5 | 14 | 3 [fraction]1/2[/fraction] | |
+| 8192 | 10000 | 16384 | 5 | 14 | 2 [fraction]4/5[/fraction] | 2.77083 | 4 |
+| 10000 | 16384 | 32768 | 5 | 15 | 3 | |
+| 16384 | 32768 | 34664 | 5 | 16 | 3 [fraction]1/5[/fraction] | |
+| 32768 | 65536 | 31072 | 5 | 17 | 3 [fraction]2/5[/fraction] | |
+| 65536 | 100000 | 131072 | 6 | 17 | 2 [fraction]5/6[/fraction] | 2.78367 | 5 |
+| 100000 | 131072 | 262144 | 6 | 18 | 3 | |
+| 131072 | 262144 | 475712 | 6 | 19 | 3 [fraction]1/6[/fraction] | |
+| 262144 | 524288 | 48576 | 6 | 20 | 3 [fraction]1/3[/fraction] | |
+| 524288 | 1000000 | 1048576 | 7 | 20 | 2 [fraction]6/7[/fraction] | 2.87177 | 6 |
+| 1000000 | 1048576 | 2097152 | 7 | 21 | 3 | |
+| 1048576 | 2097152 | | 7 | 22 | 3 [fraction]1/7[/fraction] | |
+```

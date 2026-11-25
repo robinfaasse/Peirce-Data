@@ -1,0 +1,15 @@
+[pn]Cu
+21[/pn] For since $\frac{2}{7} = 0.\dot{2}8571\dot{4}$
+$\frac{3}{7} = 0.\dot{4}2857\dot{1}$ etc.
+
+it follows that the whole number $285714$ is $\frac{2}{7} \times 999999$
+$428571$ is $\frac{3}{7} \times 999999$, etc.
+
+We now naturally ask this question: Will that whole number which is expressed
+by the first $p-1$ figures of the [ins]decimal[/ins] value of $\frac{1}{p}$ have the same properties
+whatever prime number $p$ may be? This must be answered in the negative,
+for although $B^{p-1}$ will in every case [del]be a great deal more than a[/del] [ins]exceed by one some[/ins] multiple
+of $p$, yet the same may be true of some lower power of B, whose
+exponent is some aliquot part of $p-1$. Thus, taking B=10, and $p=13$,
+we find that, not only is [del]10[/del] $10^{12}-1$ divisible by 13, but so is $10^6-1$,
+as I have shown;

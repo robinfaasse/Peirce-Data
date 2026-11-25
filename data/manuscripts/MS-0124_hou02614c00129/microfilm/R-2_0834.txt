@@ -1,0 +1,59 @@
+If there are two collections
+One of $a$ A's, $b$ B's, $c$ C's, etc
+the other having $m = a + b + c + \text{etc}$ classes with
+$a' = b' = c' = \text{etc} = 1$
+The number $\Phi = \frac{m!}{a! b! c! \text{etc}}$
+
+$\frac{(a+b)!}{a! b!}$
+
+$\begin{array}{cccccccccccc}
+17 & 16 & 15 & 14 & 13 & & & & & & & \\
+\frac{1}{2} & \frac{1}{4} & 35 & 2 & 3 & & & & & & & \\
+100 & 99 & 98 & 97 & 96 & 95 & 94 & 93 & 92 & 91 & 90 \\
+10 & 11 & 7 & & 86 & & & & 3 & & \\
+5 & 9 & & & 2 & & & & & & \\
+102 & 101 & & & & & & & & & \\
+3 & 2 & & & & & & & & & \\
+48 & \frac{3}{2} & & & & & & & & & \\
+\frac{2}{1} & 98 & & & & & & & & & \\
+& 14 & & & & & & & & &
+\end{array}$
+
+If there are two collections
+of one $= a\text{A} + b\text{B} + c\text{C} + \text{etc} = m$
+the
+$a + b + c + \text{etc} = m$.
+The other of only two kinds
+$n\text{N} + (m-n)\text{O}$
+He only makes a sum of terms.
+If they are all different the number is $\text{C}_m^n$. [del]These[/del]
+[del]all single[/del] [ins]From the actual case[/ins] If $a$ are alike and the rest
+all single. Then the number of groups of $n$
+letters not containing A's are $\text{C}_{m-a}^n$. The num-
+ber containing one A are $\text{C}_{m-a}^{n-1}$. The number con-
+taining $i$ A's [ins]is[/ins] $\text{C}_{m-a}^{n-i}$. Therefore the total
+is $\sum_0^a \text{C}_{m-a}^{n-i}$
+
+[fig]Grid of points with plus and minus signs[/fig]
+
+$\begin{aligned}
+b_1 = & \text{B}_1\text{A}_2\text{A}_3 + \text{B}_2\text{A}_1\text{B}_3 + \text{B}_3\text{A}_1\text{C}_3 \\
+& + \text{B}_1\text{B}_2\text{A}_3 + \text{B}_1\text{B}_2\text{B}_3 + \text{B}_1\text{B}_2\text{C}_3 \\
+& + \text{B}_1\text{C}_2\text{A}_3 + \text{B}_1\text{C}_2\text{B}_3 + \text{B}_1\text{C}_2\text{C}_3 \\
+b_2 = & \text{A}_1\text{B}_2\text{A}_3 + \text{A}_1\text{B}_2\text{B}_3 + \text{A}_1\text{B}_2\text{C}_3 \\
+& + \text{B}_1\text{B}_2\text{A}_3 + \text{B}_1\text{B}_2\text{B}_3 + \text{B}_1\text{B}_2\text{C}_3 \\
+& + \text{C}_1\text{B}_2\text{A}_3 + \text{C}_1\text{B}_2\text{B}_3 + \text{C}_1\text{B}_2\text{C}_3 \\
+b_3 = & \text{A}_1\text{B}_2\text{B}_3 + \text{A}_1\text{B}_2\text{B}_3 + \text{A}_1\text{C}_2\text{B}_3 \\
+& + \text{B}_1\text{A}_2\text{B}_3 + \text{B}_1\text{B}_2\text{B}_3 + \text{B}_1\text{C}_2\text{B}_3 \\
+& + \text{C}_1\text{A}_2\text{B}_3 + \text{C}_1\text{B}_2\text{B}_3 + \text{C}_1\text{C}_2\text{B}_3
+\end{aligned}$
+
+$\begin{aligned}
+b_1 + b_2 - b_3 = & \text{B}_1\text{B}_2\text{B}_3 + 2\text{B}_1\text{B}_2\text{A}_3 + 2\text{B}_1\text{B}_2\text{C}_3 \\
+& + \text{B}_1\text{A}_2\text{A}_3 + \text{B}_1\text{A}_2\text{C}_3 \\
+& + \text{B}_1\text{C}_2\text{A}_3 + \text{B}_1\text{C}_2\text{C}_3 \\
+& + \text{A}_1\text{B}_2\text{A}_3 + \text{A}_1\text{B}_2\text{C}_3 \\
+& + \text{C}_1\text{B}_2\text{A}_3 + \text{C}_1\text{B}_2\text{C}_3 \\
+& + \text{A}_1\text{A}_2\text{B}_3 + \text{A}_1\text{C}_2\text{B}_3 \\
+& + \text{C}_1\text{A}_2\text{B}_3 + \text{C}_1\text{C}_2\text{B}_3
+\end{aligned}$

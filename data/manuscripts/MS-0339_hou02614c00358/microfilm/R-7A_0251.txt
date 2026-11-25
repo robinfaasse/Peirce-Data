@@ -1,0 +1,21 @@
+Then if [del]m[/del] [ins]M[/ins] & [del]w[/del] [ins]W[/ins] are individually [del]const[/del] [ins]equal[/ins]
+
+[del]If[/del] [ins]q[/ins] [del]M[/del] [ins]M_3[/ins] [del]=[/del] [ins]≓[/ins] [del]e[/del] [ins]e^W[/ins] [del]m[/del] [ins]m_3[/ins] [del]≓[/del] [ins]≓[/ins] [del]3[/del] [ins]3[/ins] [del]log[/del] [ins]log_e[/ins] [del]M[/del] [ins]M[/ins]
+
+Or if
+[del]m[/del] [ins]m[/ins] = [del]M_1[/del] [ins]M_1[/ins] + [del]M_2[/del] [ins]M_2[/ins] + [del]M_3[/del] [ins]M_3[/ins] [del]+ etc[/del]
+[del]w[/del] [ins]w[/ins] = [del]W_1[/del] [ins]W_1[/ins] + [del]W_2[/del] [ins]W_2[/ins] + [del]W_3[/del] [ins]W_3[/ins] [del]+ etc[/del]
+[del]l[/del] [ins]l[/ins] = [del]I_{1,1}[/del] [ins]I_{1,1}[/ins] + [del]I_{1,2}[/del] [ins]I_{1,2}[/ins] + [del]I_{1,3}[/del] [ins]I_{1,3}[/ins] [del]+ etc[/del] + [del]I_{2,1}[/del] [ins]I_{2,1}[/ins] + [del]I_{2,2}[/del] [ins]I_{2,2}[/ins]
+[del]M_1 + M_2 + M_3 ≓[/del]
+
+[del]And[/del] M_1 ≓ I_{1,1}^{W_1}  M_2 ≓ I_{2,1}^{W_1}  M_3 ≓ I_{3,1}^{W_1}
+M_1 ≓ I_{1,2}^{W_2}  M_2 ≓ I_{2,2}^{W_2}
+M_1 ≓ I_{1,3}^{W_3}
+
+M_1 ≓ (I_{1,1} + I_{1,2} + I_{1,3} + etc)  m_3 ≓ (I_{3,1} + I_{3,2}
+
+m = e^w
+
+W_1 ≓ log_{I_{1,1}} M_1  W_1 ≓ log_{I_{2,1}} M_2  W_1 ≓ log_{I_{3,1}} M_3
+W_2 ≓ log_{I_{1,2}} M_1  W_2 ≓ log_{I_{2,2}} M_2
+W_3 ≓ log_{I_{1,3}} M_1  W_3 ≓ log_{I_{2,3}} M_2

@@ -1,0 +1,25 @@
+[pn]18[/pn]
+
+[u]Report of Live Loads[/u]
+
+Let us now consider [del]certain[/del] problems connected with suspension bridges, in order to [del]divide[/del] [ins]elastic of known length[/ins] the difficulties.
+
+[u]Problem 1[/u]. An [del]cord[/del] is supported at its two extremities from elastic supports, one of which is at a higher level than the other. [del]At[/del] [ins]From[/ins] a known point of this cord is suspended a known weight
+
+$$\frac{1}{\Lambda} \left( 1 - \frac{R_0}{\sqrt{x^2+y^2}} \right) x - \frac{1}{M} \left( 1 - \frac{R_1}{\sqrt{(a-x)^2+(y-b)^2}} \right) (a-x) = 0$$
+
+$$\frac{1}{\Lambda} \left( 1 - \frac{R_0}{\sqrt{x^2+y^2}} \right) y - P + \frac{1}{M} \left[ 1 - \frac{R_1}{\sqrt{(a-x)^2+(y-b)^2}} \right] (y-b) = 0$$
+
+$$\frac{1}{\Lambda} \left( 1 - \frac{R_0}{\sqrt{x'^2+y'^2}} \right) x' - \frac{1}{M} \left( 1 - \frac{R_1}{\sqrt{(a-x')^2+(y'-b)^2}} \right) (a-x') = 0$$
+
+$$\frac{1}{\Lambda} \left( 1 - \frac{R_0}{\sqrt{x'^2+y'^2}} \right) y' - [del]P[/del] [ins]+[/ins] \frac{1}{M} \left[ 1 - \frac{R_1}{\sqrt{(a-x')^2+(y'-b)^2}} \right] (y'-b) = 0$$
+
+$$\frac{1}{\Lambda} \left( 1 - \frac{\sqrt{x^2+y^2}}{\sqrt{x'^2+y'^2}} \right) (x' - \frac{1}{M} \left[ 1 - \frac{\sqrt{(a-x)^2+(y-b)^2}}{\sqrt{(a-x')^2+(y'-b)^2}} \right] (a-x') = 0$$
+
+$$\frac{1}{\Lambda} \left( 1 - \frac{\sqrt{x^2+y^2}}{\sqrt{x'^2+y'^2}} \right) y' - [del]P[/del] - \frac{1}{M} \left[ 1 - \frac{\sqrt{(a-x)^2+(y-b)^2}}{\sqrt{(a-x')^2+(y'-b)^2}} \right] (y'-b) = 0$$
+
+[del]$$\frac{1}{\Lambda} y' =$$[/del] [del]$$\frac{1}{\Lambda} \left( 1 - \frac{R_0}{\sqrt{x^2+y^2}} \right) x (a-x') = \frac{1}{\Lambda} \left( 1 - \frac{R_0}{\sqrt{x'^2+y'^2}} \right) x' (a-x)$$[/del]
+
+$$ax [del]+ y y'[/del] - x(a-x') \frac{R_0}{\sqrt{x^2+y^2}} = ax' [del]+ y y'[/del] - \frac{R_0}{\sqrt{x'^2+y'^2}} x'(a-x)$$
+
+$$(\frac{1}{\Lambda} + \frac{1}{M}) x - \frac{1}{M} a - R_0 \left( \frac{1}{\Lambda \sqrt{x^2+y^2}} + \frac{R_1}{M \sqrt{x'^2+y'^2}} \right) x + \frac{1}{M} \frac{R_1}{\sqrt{(a-x)^2+(y-b)^2}} a = 0$$

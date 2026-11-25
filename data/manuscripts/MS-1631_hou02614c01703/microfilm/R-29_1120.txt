@@ -1,0 +1,55 @@
+[del]$\varepsilon$[/del] [ins]$\lambda$[/ins] is to be determined from [del]the[/del] [ins]this[/ins]
+Let $x, y, z =$ coordinates of the point.
+Then we have
+$$\frac{x^2}{A_1^2 + \lambda} + \frac{y^2}{A_2^2 + \lambda} + \frac{z^2}{A_3^2 + \lambda} - 1 = I$$
+
+Cubic equations always have one real
+root. To prove algebraically that this equa-
+tion has three real roots.
+Let $x$ be the greatest axis,
+[del]y[/del] [ins]$y$[/ins] the middle-sized,
+& $z$ the smallest.
+When $\lambda = \infty$ $I = -1$. As $\lambda$ diminishes
+before reaching $0$ [del]it[/del] [ins]$I$[/ins] becomes positive
+[del]without passing through $\infty$[/del]; for when
+$\lambda = -A_3^2$, $I = \infty$ but just before it was very
+large so we have
+$$\begin{array}{cc}
+\lambda & I \\
+\infty & -1 \\
+> -A_3^2 & \text{very large}
+\end{array} \Big\} \text{It evidently has passed}$$
+$$\begin{array}{cc}
+-A_3^2 & \infty
+\end{array} \qquad\quad \text{through the case of a real root.}$$
+
+Just after $\lambda = -A_3^2$ $I = -\infty$, then $I$ becomes
+negative & very small, & when $\lambda = -A_2^2$
+$I = \infty$, just before which $I$ was a very large
+
+positive. Here is a case of another real root.
+With $\lambda = -A_1^2$ the same thing happens & there
+are therefore three real roots.
+
+Geometrical Interpretation.
+Table of Cases or Stages.
+No 1. $\lambda = \infty$ $I = -1$ Infinite Ellipsoid
+No 2. very large very small Very large ellipsoid
+No 3. $> -A_3^2$ very large Very thin ellipsoid
+No 4. $-A_3^2$ $\infty$ [del]Infinite Ellipse[/del]
+No 5. $< -A_3^2$ $-\infty$
+No 6. very small Unipartite hyperboloid on $x$
+No 7. $> -A_2^2$ very large Ditto.
+No 8. $-A_2^2$ $\infty$
+No 9. $< -A_2^2$ $-\infty$
+No 10. very small Bipartite hyperboloid on $x$
+No 11. $> -A_1^2$ very large
+No 12. $-A_1^2$ $\infty$
+No 13. $< -A_1^2$ $-\infty$
+
+[He showed, that in these changes the surface
+must pass through any fixed point three times.
+For figures see notes to Lecture [u]XXVIII[/u].]
+&the the points in which all the ellipsoids which
+have the same foci, are cut by the common in-
+tersection of two hyperboloids which have the same foci

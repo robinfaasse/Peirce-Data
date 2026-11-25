@@ -1,0 +1,53 @@
+$A$ $B$ $C$ $D$ are any points in
+one plane
+
+so that $D = xA + yB + zC$
+where $x + y + z = 1$
+
+Then
+$[(AB)(CD)] = \frac{pA + rB}{[del]p+r[/del]}$
+$= \frac{qxA + qyB + qzC}{[del]q[/del]} + \frac{r}{1}C$
+$= pA + rB$
+
+$\frac{x}{x+z}A + \frac{z}{x+z}C = E$
+$D = yB + (1-y)E$
+$\frac{x(1-y)}{x+z}A + \frac{(1-y)z}{x+z}C + yB = D$
+
+$1-y = x+z$
+
+[fig]Geometric diagram with intersecting lines and points A, B, C, D[/fig]
+
+$\frac{y}{1-x}B + \frac{z}{1-x}C$
+
+$\frac{x}{1-y}A + \frac{z}{1-y}C$
+
+$(\frac{1-y}{1})A + \frac{y}{1-x}B + \frac{z}{1-x}C$
+
+$\frac{x(1-x)}{1-y}A + yB + \frac{z(1-x)}{1-y}C$
+
+$= uA + vB + wC$
+
+$\frac{x+y}{1} + \frac{z}{1}C$
+
+$\frac{x}{x+y}A + \frac{y}{x+y}B$
+
+$uA + vB + wC$
+
+$uA + (v-v_1+v_2)B + (1-u-v+v_1-v_2)C$
+
+$uA + vB$
+
+$\frac{x}{1-y}A + \frac{y}{1-y}B$ [del]$1-y-x = z$[/del]
+$1 = v(1-y)$
+$v = \frac{1}{1-y}$
+
+$x+y+z=1$
+$y = 1-x-z$
+
+$\frac{x}{1-z}A + \frac{y}{1-z}B$
+
+$t(1-y-x) = s(1-s)$
+$ty(1-z) = s(1-x)y$
+
+$\frac{s}{s+t}A + \frac{t}{s+t}C$
+$D = \frac{sA+tC}{s+t}$

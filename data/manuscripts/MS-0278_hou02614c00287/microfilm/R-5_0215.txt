@@ -1,0 +1,30 @@
+$$A'c - C'c - D'c + E'c = 0$$
+$$A'(c-1)c + B'c - D'(c-1)c - F'c = c(c-1)(c-2)$$
+$$A'(c-1)^{2}c + B'(c-1)c + C'(c-1)c + G'c = c(c-1)(c-2)^{2}$$
+
+$$A'' = A'c \quad C'' = C'c \quad D'' = D'c \quad E'' = E'c \quad F'' = F'c \quad G'' = G'c$$
+
+$$A'' - 2B'' + E'' = 0$$
+$$A''(c-1) - B''(c-2) - E'' = c(c-1)(c-2)$$
+$$A''(c-1)^{2} + 2B''(c-1) + E'' = c(c-1)(c-2)^{2}$$
+
+$$A''c - B''c = c(c-1)(c-2)$$
+$$A''c(c-1) + B''c = c(c-1)^{2}(c-2)$$
+$$A''c^{2} = c^{2}(c-1)(c-2)$$
+$$A'' = (c-1)(c-2) \quad B'' = 0$$
+$$E'' = -(c-1)(c-2)$$
+
+$$Hc = [del]\text{A''}[/del] - 2(c-1)(c-2)$$
+$$A' = \frac{(c-1)(c-2)}{c} \quad B' = C' = D' = 0 \quad E' = F' = G' = -\frac{(c-1)(c-2)}{c}$$
+
+[fig]Scratch work with fractions and signs[/fig] [fig]Scratch work with fractions[/fig]
+
+$$H = \frac{-2(c-1)(c-2)}{c}$$
+
+[fig]Fraction diagram[/fig]
+
+$$S_{lmn} = \frac{(c-1)(c-2)}{c} \left\{ (c-1)^{l+m+n-3} - (c-1)^{l-1}(-1)^{m+n} - (c-1)^{m-1}(-1)^{l+n} - (c-1)^{n-1}(-1)^{l+m} + 2(-1)^{l+m+n} \right\}$$
+
+$$U_{lmn} = \frac{(c-1)(c-2)}{c} \left\{ (c-1)(c-1)^{l+m+n-3} [del]-(c-1)[/del] (c-1)^{l-1}(-1)^{m+n} + (c-1)(c-1)^{m-1}(-1)^{l+n} + (c-1)(c-1)^{n-1}(-1)^{l+m} - 2(-1)^{l+m+n} \right\}$$
+$$v = \frac{(c-1)(c-2)}{c} \left\{ (c-1)(c-1)^{l+m+n-3} + (c-1)^{l-1}(-1)^{m+n} - (c-1)(c-1)^{m-1}(-1)^{l+n} + (c-1)^{n-1}(-1)^{l+m} - 2(-1)^{l+m+n} \right\}$$
+$$w = \frac{(c-1)(c-2)}{c} \left\{ (c-1)(c-1)^{l+m+n-3} + (c-1)^{l-1}(-1)^{m+n} + (c-1)^{m-1}(-1)^{l+n} - (c-1)(c-1)^{n-1}(-1)^{l+m} - 2(-1)^{l+m+n} \right\}$$

@@ -1,0 +1,13 @@
+[pn]V 75[/pn] [pn]82[/pn]
+
+[del]§ 205.[/del] [ins]§ 205.[/ins] The geometrical interpretation affords great aid in reasoning, because man has, so to speak, a natural genius for geometry. Thus we see easily enough, algebraically, that
+
+$$x + y i = \sqrt{x^2 + y^2} \left( \sqrt{\frac{\frac{x}{y}}{\frac{x}{y} + \frac{y}{x}}} + \sqrt{\frac{\frac{y}{x}}{\frac{x}{y} + \frac{y}{x}}} \cdot i \right)$$
+
+and further that
+
+$$(x + y i)(u + v i) = \sqrt{(x^2 + y^2)(u^2 + v^2)} \left\{ \sqrt{\frac{\frac{x}{y} \frac{u}{v} - \frac{y}{x} \frac{v}{u}}{\left(\frac{x}{y} + \frac{y}{x}\right)\left(\frac{u}{v} + \frac{v}{u}\right)}} + \sqrt{\frac{\frac{x}{y} \frac{v}{u} + \frac{y}{x} \frac{u}{v}}{\left(\frac{x}{y} + \frac{y}{x}\right)\left(\frac{u}{v} + \frac{v}{u}\right)}} i \right\}$$
+
+But that which is by no means obvious algebraically but becomes obvious geometrically is that when we plot $x$ and $y$ as abscissa and ordinate of rectangular coördinates and $u$, $v$ as other values of the same coördinates, and the product in the same way, the angle from the axis of abscissas of the product is equal to the sum of those of the two factors. This once found out, in the geometrical way, is easily put into algebraical form. Geometry here renders a precisely similar service to that which the theory of probabilities often lends. There are several instances in which mechanical instincts have been valuable in the same way. [del]It would be interesting to make[/del] [ins]A choice[/ins] collection of [del]the best of[/del] such lemmas would be interesting.
+
+[pn]190[/pn]

@@ -1,0 +1,41 @@
+[marginalia]
+Logic
+of History
+92
+[/marginalia]
+
+This series being extended
+[del]On extending this indefinitely, no even number will be[/del]
+[del]more and odd number repeated[/del] [del]often than[/del] [del]any odd[/del] [del]number[/del] [del]of[/del] [del]times[/del] [del]and[/del]
+omitted. For every [del]even[/del] number [del]3N[/del] [ins]3N[/ins], will appear in
+the [del]3Nth[/del] [ins]3Nth[/ins] place. [del]Indeed, every num[/del]
+
+[fig]Diagram with lines and fractions[/fig]
+
+[fig]Two curved shapes[/fig]
+
+[fig]Geometric diagram with axes[/fig]
+
+$\frac{p\chi_{N+M}}{p}$
+
+$p$ the prob. of event.
+
+$\chi_{\nu,\pi}$ probability that ratio [del]will be[/del] [ins]is as great as[/ins] $k$
+ever be greater than [del]or when[/del] [ins]or as great as[/ins]
+[del]number is[/del]
+[del]is even[/del] [ins]and[/ins]
+favorable is $\pi$ unfavorable $n-\pi$
+
+[del]$\chi_{\nu,\pi} = p \chi_{\nu+1,\pi} + \bar{p} \chi_{\nu,\pi+1}$[/del]
+
+[del]Also[/del]
+
+$\chi_{\nu,\pi} = p \chi_{\nu+1,\pi+1} + \bar{p} \chi_{\nu,\pi}$
+
+$\chi_{\nu,\pi} = p \chi_{\nu,\pi+1} + \bar{p} \chi_{\nu+1,\pi}$
+
+$\chi_{\nu,\pi+1} = p \chi_{\nu,\pi+2} + \bar{p} \chi_{\nu+1,\pi+1}$
+
+$\chi_{\nu+1,\pi} = p \chi_{\nu+1,\pi+1} + \bar{p} \chi_{\nu+2,\pi}$
+
+$\chi_{\nu,\pi} = p^{2} \chi_{\nu,\pi+2} + 2 p \bar{p} \chi_{\nu+1,\pi+1} + \bar{p}^{2} \chi_{\nu+2,\pi}$

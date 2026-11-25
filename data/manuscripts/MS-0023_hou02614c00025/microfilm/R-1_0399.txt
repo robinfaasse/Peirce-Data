@@ -1,0 +1,24 @@
+$$=(1+n)+(y+z)\ \ \ \ \ \text{by the definition of addition.}$$
+
+$$\text{3. To prove the commutative principle of addition,}$$
+$$\text{that}$$
+$$x+y=y+x$$
+$$\text{whatever numbers } x \text{ and } y \text{ may be. First, it is true for } x=1$$
+$$\text{and } y=1, \text{ being in that case an explicit identity. Second,}$$
+$$\text{if true for } x=1 \text{ and } y=1, \text{ it is true for } x=1+n \text{ and } y=1. \text{ That}$$
+$$\text{is, if } n+1=1+n, \text{ then } (1+n)+1=1+(1+n). \text{ For}$$
+$$(1+n)+1$$
+$$\text{[del]***********************************[/del];}$$
+$$=1+(n+1)\ \ \ \ \ \text{by the associative principle;}$$
+$$=1+(1+n)\ \ \ \ \ \text{by hypothesis.}$$
+$$\text{We have thus proved that, whatever number } x \text{ may be,}$$
+$$x+1=1+x, \text{ or that } x+y=y+x \text{ for } y=1. \text{ It is now to be shown that}$$
+$$\text{if this be true for } y=n, \text{ it is true for } y=1+n; \text{ that is,}$$
+$$\text{that if } x+n=n+x \text{ then } x+(1+n)=(1+n)+x. \text{ Now,}$$
+$$x+(1+n)$$
+$$=(x+1)+n\ \ \ \ \ \text{by the definition of addition;}$$
+$$=(1+x)+n\ \ \ \ \ \text{as just seen;}$$
+$$=1+(x+n)\ \ \ \ \ \text{by the definition of addition;}$$
+$$=1+(n+x)\ \ \ \ \ \text{by hypothesis;}$$
+$$=(1+n)+x\ \ \ \ \ \text{by the definition of addition.}$$
+$$\text{Thus the proof is complete.}$$

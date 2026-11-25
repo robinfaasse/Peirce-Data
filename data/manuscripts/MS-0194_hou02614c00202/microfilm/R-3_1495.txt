@@ -1,0 +1,54 @@
+```
+9.8089   0.99162
+         9.97437
+        10.36599
+         6.49404
+         6.86003
+         2.83195
+         4.02808
+
+[del]The[/del]
+
+E for Bessels string = 7245,000          [fraction]67599/314[/fraction]
+                                         679.13
+
+m for heavy pend = 11151.64 grains = 679.13 grammes
+
+[fraction]E/m[/fraction] = 10668, and as 4 [fraction]g/R[/fraction] [del]was[/del] [ins]was (for the total length 20[/ins] [del]less than[/del] [del]unity[/del]
+
+it is plainly an excessively small quantity in comparison -
+
+So that we may write (omitting the small oscillation.)
+
+l = L [del]-[/del] [ins]+[/ins] [fraction]3gm/E[/fraction] [del]+[/del] [ins]-[/ins] [fraction]3gm/E[/fraction] cos([theta]-[omega])
+
+[del]l = L - [fraction]3gm/E[/fraction] ([theta]-[omega])^2[/del]
+[del]cos([theta]-[omega]) = 1 - 1/2 ([theta]-[omega])^2[/del]
+
+[fraction]sin([theta]-[omega])/l[/fraction] = [fraction]sin [theta]/R[/fraction]
+
+[theta]-[omega] = [theta] [fraction]l/R[/fraction]
+
+[del]([theta]-[omega])^2 = [theta]^2 [fraction]l^2/R^2[/fraction][/del]
+
+[del]l = L - [fraction]3gm/E[/fraction] [theta]^2 [fraction]l^2/R^2[/fraction][/del]
+
+In a circle
+
+[fraction](R-l)/[omega][/fraction] = [fraction]l/([theta]-[omega])[/fraction] = [fraction]R/[theta][/fraction]
+
+[del]l = L - 1/2 [fraction]3gm/E[/fraction] [theta]^2 [fraction]l^2/R^2[/fraction][/del]
+
+[u]Elevation of Bob above lowest po[/u] [del]int[/del]
+
+Put [del]P[/del] [ins]p[/ins] = [fraction]3gm/E[/fraction]
+
+[del]l = L - [fraction]p x^2/R^2[/fraction][/del]
+
+When [theta]-[omega] = 0
+l = L [del]- [fraction]3gm/E[/fraction][/del]
+
+When [theta]-[omega] = A     l = L - 1/2 [fraction]3gm/E[/fraction] A^2   and since [fraction][theta]-[omega]/1-[fraction]l/R[/fraction][/fraction]
+l[theta] = A [fraction]RE/l[/fraction]                                [theta]-[omega] = [fraction]l/R[/fraction] [theta]
+                                                 [del][theta]-[omega] = [fraction]l/R[/fraction] [theta][/del]
+```

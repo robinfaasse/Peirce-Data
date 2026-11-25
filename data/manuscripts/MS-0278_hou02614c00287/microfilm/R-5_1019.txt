@@ -1,0 +1,20 @@
+[del]i = I·A + a₁ I·I + b₁ J·I + c₁ K·I + etc.
++ a₁₂ I·J + b₁₂ J·J + c₁₂ K·J + etc.
++ a₁₃ I·K + b₁₃ J·K + c₁₃ K·K + etc.
++ etc[/del]
+
+j = J·A + a₂₁ I·I + b₂₁ J·I + c₂₁ K·I + etc
++ a₂₂ I·J + b₂₂ J·J + c₂₂ K·J + etc
++ a₂₃ I·K + b₂₃ J·K + c₂₃ K·K + etc
++ etc.
+
+[marginalia]
+"
+W.H.A.
+[/marginalia]
+
+i A = I
+j i A = j I = a₂₁ I + b₂₁ J + c₂₁ K + etc
+
+[del]i I = a₁ I + b₁[/del]
+i J = i j A

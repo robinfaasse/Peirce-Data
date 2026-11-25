@@ -1,0 +1,17 @@
+[pn]3[/pn] [pn]249[/pn]
+
+§134. Not only may $A, B, C, D$ [del]be[/del] [ins]denote[/ins] any four points not coplanar, but $[A+B+C+D]$, or any other one syzygy [ins]of all four[/ins], may be taken to denote any point not complanar with any three of the four. But one such arbitrary choice made, there will be no room for another. For, [del]putting[/del] [ins]writing[/ins] for short
+$[A+B+C+D] = E$,
+we have $[A+B+C] = [\{DE\}(ABC)]$. This is plain; for being a syzygy of $A, B, C$ it is in the plane $(ABC)$ and being a syzygy of $[A+B+C+D]$ and $D$ it is in the ray through these. Thus, the point which $[A+B+C]$ is to denote is determinate. So likewise,
+$[A+B+D] = [\{CE\}(ABD)]$,
+$[A+C+D] = [\{BE\}(ACD)]$,
+$[B+C+D] = [\{AE\}(BCD)]$.
+Again $[A+B] = [\{AB\}(CDE)]$,
+$[A+C] = [\{AC\}(BDE)]$,
+$[A+D] = [\{AD\}(BCE)]$,
+$[B+C] = [\{BC\}(ADE)]$,
+$[B+D] = [\{BD\}(ACE)]$,
+$[C+D] = [\{CD\}(ABE)]$.
+These things are evident. Thus $[A+B]$ is a syzygy of $A+B+C+D$, $C$, and $D$; and is therefore in the plane of those three points.
+Again $[A+2B+C] = [(\frac{BDE}{BE})\{[AB](CDE)\}\{[BC](ADE)\}]$ etc.
+and in short [del]way[/del] it is always possible to go on taking account of more rays and planes between given points and setting new inter-

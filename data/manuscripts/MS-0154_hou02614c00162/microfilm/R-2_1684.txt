@@ -1,0 +1,22 @@
+[u]Le problème de l'enluminure des cartes.[/u]
+
+Sur une surface quelconque des régions
+continues, délimitées (mais pas nécessairement
+finies en mesure), et sans cyclose, doivent se
+distinguer par ses couleurs, chacune des régions
+auxquelles elle confine. On demande le moindre
+nombre des couleurs qui suffiront pour
+enluminer la carte.
+
+Pour une surface terrestre on fait depuis
+longtemps par expérience que le nombre
+[del]cherché[/del] [ins]demandé[/ins] est 4. Une démonstration en a était
+cherchée en vain par De Morgan et par Cayley.
+Celle que M. Kempe a proposé en 1879 a été
+reconnue comme insuffisante par
+
+Supposons que [del]pour[/del] sur une surface donnée
+[del]C ou[/del] un nombre, C, de couleurs suffit [ins]pour toute carte de N régions.[/ins] [del]pour toute carte de N régions.[/del] [ins]Imaginons une carte enluminée de N régions.[/ins] Enlevons une des
+régions. Il en résulte une carte de N-1 régions
+avec un bord, qui était la limite de la région
+enlevées. Autour de ce bord il n'y a que C-1

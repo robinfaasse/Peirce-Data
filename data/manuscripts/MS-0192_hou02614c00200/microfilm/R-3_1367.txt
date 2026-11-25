@@ -1,0 +1,27 @@
+[pn]13[/pn]
+
+[u]Art. 3[/u]. We write [u]Exp z[/u] to denote
+[u]Exp z[/u] = $1 + z + \frac{1}{2} z^2 + \frac{1}{3!} z^3 + \frac{1}{4!} z^4 = \sum_r^\infty \frac{z^r}{r!}$
+
+Let us [del]for[/del] develope into a series [u]Exp tz . Exp z[/u], by simply multiplying the two series by the rules of algebra.
+[u]Exp z[/u] = $1 + z + \frac{1}{2} z^2 + \frac{1}{3!} z^3 + \frac{1}{4!} z^4 + \text{etc} = \sum_r^\infty \frac{z^r}{r!}$
+[u]Exp tz[/u] = $1 + tz + \frac{1}{2} t^2 z^2 + \frac{1}{3!} t^3 z^3 + \frac{1}{4!} t^4 z^4 + \text{etc} = \sum_r^\infty \frac{t^r z^r}{r!}$
+
+[u]Exp tz . Exp z[/u] = $1$
+$+ (t + 1) z$
+$+ (\frac{1}{2} t^2 + t + \frac{1}{2}) z^2$
+$+ (\frac{1}{3!} t^3 + \frac{1}{2} t^2 + \frac{1}{2} t + \frac{1}{3!}) z^3$
+$+ (\frac{1}{4!} t^4 + \frac{1}{3!} t^3 + \frac{1}{2} \cdot \frac{1}{2} t^2 + \frac{1}{3!} t + \frac{1}{4!}) z^4$
+$+ (\frac{1}{5!} t^5 + \frac{1}{4!} t^4 + \frac{1}{3! \cdot 2} t^3 + \frac{1}{2 \cdot 3!} t^2 + \frac{1}{4!} t + \frac{1}{5!}) z^5$
+$+ (\frac{1}{6!} t^6 + \frac{1}{5!} t^5 + \frac{1}{4! \cdot 2} t^4 + \frac{1}{3! \cdot 3!} t^3 + \frac{1}{2 \cdot 4!} t^2 + \frac{1}{5!} t + \frac{1}{6!}) z^6$
+$+ \text{etc.}$
+$= \sum_r^\infty \sum_q^r \frac{1}{q! (r-q)!} t^q z^r$
+
+But the binomial theorem is
+$\frac{(s+t)^r}{r!} = \sum_q^r \frac{1}{q! (p-q)!} t^q s^{p-q}$
+
+[del]Hence[/del]
+[u]Exp tz . Exp z[/u] = $\sum_r^\infty \frac{(t+1)^r z^r}{r!} = \text{Exp} \{(t+1) z\}$
+
+Consequently, [ins]if[/ins] t is an integer and positive
+$(\text{Exp } z)^t = \prod^t \text{Exp } z = \text{Exp } tz$

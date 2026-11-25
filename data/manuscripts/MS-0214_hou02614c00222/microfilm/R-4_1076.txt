@@ -1,0 +1,12 @@
+[pn]1.[/pn] [del]log 0 is of the zero order: but what is the order of this zero?[/del] Put
+$$\log 1 = j$$
+then $\log \log 1 = j \log 1$. Hence, since $\log 1$ is of the zero order, the order of the order of $\log 1$, i.e. the order of $j$ is the same as the order of $\log \log 1$. Now, $\log 1$ being of the $0$ order, $\log \log 1$ is of the $0 \times 0$ order. Hence, the order of the order of $\log 1$ is zero, and the order of that zero is zero and so on ad infinitum. Thus,
+$$\log 0 = 0^{0^{0^{\cdot^{\cdot^{\cdot}}}}}$$
+and this is why $\log 1$ although of the zero order is not unity: for
+$0^0 = 1$ $0^{0^0} = 0$ $0^{0^{0^0}} = 1$ etc. But when the series is infinite the value is inde[del]te[/del][ins]ter[/ins]minate.
+
+We are thus led to imagine a strange function
+$$x' = x^{x^{x^{\cdot^{\cdot^{\cdot}}}}} \text{ad inf.}$$
+Here, $x^{x'} = x'$, so that the function considered is the inverse of the function $x'^{-x'} = x$. Now, if $r$ and $t$ denote respectively the modulus and argument of $x'$, ordinary formulae show that $x$ has for its modulus $r^{-r \cos t} e^{r \sin t}$ and for its argument $-rt \cos t - r \log r \sin t$.
+$$[del]t[/del] = -r't'\cos t' - r'\log r'\sin t'$$
+$E$ denotes the Neperian base. We may by the way write $\Theta$ for $3.14159$ and $i$ for the square root of negative unity. When $r=0$ then so long as $t$, $\sin t$, and $\cos t$, are all either zero or finite, the modulus of $x$ is unity and the argument of $x$ is zero (not $2\Pi\Theta$). Hence, for $x=1$ one value of $x'$ is $0$, a singular result.

@@ -1,0 +1,12 @@
+[del]A[/del] [ins]A[/ins] $\prec$ z
+
+z' A $\prec$ (B $\prec$ z)
+A (y $\prec$ A) $\prec$ z
+z² A $\prec$ [B $\prec$ (C $\prec$ z)]
+A² [x $\prec$ (y $\prec$ A)] $\prec$ z
+
+[del]B[/del] [ins]B[/ins] z A $\prec$ [(y $\prec$ B) $\prec$ z]
+A z (y $\prec$ A) $\prec$ (B $\prec$ z)
+y A [(B $\prec$ y) $\prec$ A] $\prec$ z
+z³ A $\prec$ {B $\prec$ [C $\prec$ (D $\prec$ z)]}
+A³ {x $\prec$ [y $\prec$ (g $\prec$ A)]} $\prec$ z

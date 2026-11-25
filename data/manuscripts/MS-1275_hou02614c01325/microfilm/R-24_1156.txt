@@ -1,0 +1,21 @@
+[marginalia]Knowns[/marginalia] [pn]61[/pn]
+
+Suppose he has $AB$, the length of the
+side of an inscribed regular polygon of
+$N$ sides. Call $AB = b$. The radius we assume
+is unity. Then in the right triangle $OZB$ $OB = 1$
+$BZ = \frac{b}{2}$ $OZ = \sqrt{1 - \frac{b^2}{4}}$. Then in the right triangle
+$BZC$, $BZ = \frac{b}{2}$ $ZC = 1 - \sqrt{1 - \frac{b^2}{4}}$
+$(BC)^2 = \frac{b^2}{4} + \left(1 - \sqrt{1 - \frac{b^2}{4}}\right)^2$
+$= \frac{b^2}{4} + 1 - 2\sqrt{1 - \frac{b^2}{4}} + 1 - \frac{b^2}{4}$
+$= 2 - 2\sqrt{1 - \frac{b^2}{4}}$
+
+But $BC$ is the side of the regular inscribed
+polygon of $2N$ sides. Call it $c$. Then
+$\frac{c^2}{4} = \frac{1}{2} - \frac{1}{2}\sqrt{1 - \frac{b^2}{4}}$
+$1 - \frac{c^2}{4} = \frac{1}{2} + \frac{1}{2}\sqrt{1 - \frac{b^2}{4}} = \frac{1}{2}\left(1 + \sqrt{1 - \frac{b^2}{4}}\right)$
+
+Suppose then he starts with $N = 4$ [fig]Circle with inscribed square and axes[/fig]
+$b = \sqrt{2}$. We suppose he knows how to
+extract square roots with his abacus.
+$b^2 = 2$ $\frac{b^2}{4} = \frac{1}{2}$ $1 - \frac{b^2}{4} = \frac{1}{2}$

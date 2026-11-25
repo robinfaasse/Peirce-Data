@@ -1,0 +1,21 @@
+[pn]Ma 1071[/pn] [del]The general equation of an ellipsoid referred to its center is
+and referred to its axes is[/del]
+If X = Y = R then putting $r = \sqrt{x^2+y^2}$ the equation becomes
+[del]To move[/del] $(r/R)^2 + (z/Z)^2 = 1$
+[del]If[/del] Moving to one extremity of the axis of $z$ we put $z = Z - z$ and get
+$(r/R)^2 = (2Z - z)z/Z^2$
+or
+(1) $r = (R/Z) \sqrt{(2Z-z)z}$
+where the radical denotes the mean proportional of the distances from the two extremities of the axis [del]of[/del] of $z$ of the foot of the perpendicular let fall on that axis from any point of the surface.
+Differentiating (1), we get
+$dr = (R/Z) \frac{Z-z}{\sqrt{(2Z-z)z}} dz$
+$(dr)^2 = (R/Z)^2 (\frac{Z^2}{(2Z-z)z} - 1) dz^2 =$
+$(dr)^2 + (dz)^2 = \left[ \frac{(R/Z)^2 Z^2}{2Zz - [del]z^2[/del] [ins]z^2[/ins]} [del]- (R/Z)^2[/del] [ins]+ 1[/ins] \right] (dz)^2$
+[del]$\frac{(dr)^2 + (dz)^2}{r^2} = (R/Z)^2 [\frac{Z^2}{2(Z-z)z} - 1 + \frac{Z^2}{R^2}] (dz)^2$[/del]
+$\frac{(dr)^2 + (dz)^2}{r^2} = \left\{ \frac{Z^2}{[del](2Z-z)z[/del] [ins](2Z-z)z[/ins]} - \frac{1 - Z^2/R^2}{(2Z-z)z} \right\} (dz)^2$
+$= \frac{Z^2}{(2Z-z)^2 z^2} \left[ 1 - \frac{(1-Z^2/R^2)(2Z-z)z}{Z^2} \right] (dz)^2$
+Consequently neglecting a quantity $< \frac{1}{20000}$
+$\frac{\sqrt{(dr)^2 + (dz)^2}}{r} = \frac{Z}{(2Z-z)z} \left[ 1 - \frac{(1-Z^2/R^2)(2-z/Z)z}{2 Z} \right] dz$
+$\int \frac{dz}{(2-\frac{z}{Z})z} \approx \frac{1}{2} \log \frac{z}{2Z-z} - \frac{1}{2} (1-\frac{z^2}{R^2}) \frac{z}{2Z}$
+
+[fig]Mathematical calculations and scratch work[/fig]

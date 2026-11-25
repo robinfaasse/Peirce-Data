@@ -1,0 +1,18 @@
+[pn]329[/pn]
+
+In order to [del]give to[/del] [ins]make[/ins] these two modes of combination simple algebraical representations, it will be well to select certain special values of $v$ and $f$.
+
+Mrs. Christine Ladd Franklin, in one of the most instructive of her logical researches[ins]*[/ins], says:
+
+"When we reach evolution, we are in the habit of supposing that the principle of commutation no longer applies" [That is, that there is nothing analogous to the formulae $x + y = y + x$ for addition, and $x \cdot y = y \cdot x$ for multiplication]; "but that is simply the fault of the unsymmetrical character of our notation. It is true that $a^b$ is not equal to $b^a$, but $a^b$ ought not to be regarded as explicitly a function of [u]$a$[/u] and [u]$b$[/u], but of [u]$a$[/u] and $\log^{-1} [u]b$[/u], and it is a function of these quantities such that [u]$a$[/u] and $\log^{-1} [u]b$[/u] are interchangeable." [That is $a^{\log b} = b^{\log a}$]
+
+Mrs. Franklin sets out with a symbol $\dot{+}$ such that
+
+$([u]x[/u] \dot{+} [u]y[/u]) \dot{+} [u]z[/u] = [u]x[/u] \dot{+} ([u]y[/u] \dot{+} [u]z[/u])$.
+$[u]x[/u] \dot{+} [u]y[/u] = [u]y[/u] \dot{+} [u]x$[/u]
+
+She next assumes a symbol $\dot{+}$ [del]such that[/del] [ins]defined by the equation[/ins]
+
+$[u]a[/u] \dot{+} [u]b[/u] = [u]a[/u] \dot{+} [u]a[/u] \dot{+} \dots \text{ to } [u]b[/u] \text{ terms}$
+
+[u]*Am. Journ. Math. III, 217[/u]

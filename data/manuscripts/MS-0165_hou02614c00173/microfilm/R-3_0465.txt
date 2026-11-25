@@ -1,0 +1,27 @@
+[pn]219[/pn]
+
+But if the first multiplier which does not vanish
+is a multiplier of a power of $dx$ whose exponent is divi-
+sible by [del]4[/del] [ins]but not by $4$[/ins], substitute for $dx$, $\frac{1+i}{\sqrt{2}} dx$, and since
+$(\frac{1+i}{\sqrt{2}})^2 = \frac{1+2i-1}{2} = i$, it follows that $(\frac{1+i}{\sqrt{2}})^4 = -1$
+$(\frac{1+i}{\sqrt{2}})^{12} = [del]-1[/del] [ins]-i[/ins]$, etc. and since it is an easy exercize in
+algebra to show that every quantity of the form $P+Qi$
+has a square root, it [del]is[/del] is easily seen that in every
+case there is some imaginary value of $dx$ which makes
+the increment of $y$ negative. Thus the value of $y$ can be
+continually [del]reduced[/del] diminished until it becomes zero. Q.E.D.
+[u]Art. 85.[/u]
+
+[u]Corollary 64.[/u] Every equation has as many roots
+as [del]the[/del] [ins]its[/ins] degree, though some may be equal to one
+another.
+
+[u]Corollary 65.[/u] If $x_1$, $x_2$, $x_3$, etc are the roots of
+the equation
+$y = x^n + a_1 x^{n-1} + a_2 x^{n-2} + a_3 x^{n-3} + \text{etc} \dots + a_{n-1} x + a_n = 0$,
+it follows that
+$y = (x-x_1)(x-x_2)(x-x_3)(x-x_4), \dots (x-x_n)$
+and consequently
+$a_1 = -x_1 - x_2 - x_3 - x_4 - \dots - x_n$
+$a_2 = +x_1 x_2 + x_1 x_3 + \dots x_2 x_3 + x_2 x_4 + \text{etc}$
+$a_n = [del]\dots[/del] (-)^n x_1 x_2 x_3 \dots x_n$.

@@ -1,0 +1,15 @@
+[marginalia]
+Calc. Diff.
+22
+[/marginalia]
+
+From the [ins]principle of[/ins] [del]associativeness of[/del] addition it also follows that
+(7) $\phi^l \cdot \phi^{m+n} = \phi^{l+m} \cdot \phi^n$
+
+It further follows that [del]f[/del] always for positive integral values of $m$ and $n$
+(8) $\phi^{m+n} = \phi^{\underline{n+m}}$
+
+For this is identically true when $m=n=1$, and if it is
+true that $\phi^{M+N} = \phi^{N+M}$, then it is true that $\phi^{M+(1+N)} =$
+$\phi^{(1+N)+M}$. For
+$\phi^{M+(1+N)} = \phi^M \cdot (\phi \cdot \phi^N) = (\phi^M \cdot \phi) \cdot \phi^N = (\phi$

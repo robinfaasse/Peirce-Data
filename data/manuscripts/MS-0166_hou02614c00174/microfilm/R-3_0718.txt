@@ -1,0 +1,62 @@
+[pn]289[/pn]
+
+The number of faces = $\frac{60}{3} = $ [del]12[/del] [ins]20[/ins]
+The number of summits = $\frac{60}{5} = $ [del]20[/del] [ins]12[/ins]
+The polyhedron is an [del]dodecahedral[/del] [ins]icosahedron[/ins].
+
+[fig]Small sketch of a star-like polyhedron[/fig]
+
+[fig]Large sketch of an icosahedron with scribbles[/fig]
+
+[fig]Sketch of an icosahedron inside a triangle[/fig]
+
+[fig]Small sketch of a star-like polyhedron[/fig]
+
+[fig]Small sketch of a star-like polyhedron[/fig]
+
+[del]4(y-1)[/del]
+[del]y-1=9[/del]
+
+$\begin{aligned}
+E - z &= \frac{(y-2)x}{2y \cdot x} \\
+Ez &= \\
+(E+z)^2 &= (y-2)^2 x^2 + 4(2y)x
+\end{aligned}$
+
+$\begin{aligned}
+&[(y-2)x + 2\xi]^2 \\
+&= (y-2)^2 x^2 + 4(y-2)x\xi + 4\xi^2 \\
+&[2y - (y-2)\xi]^2 = \xi^2
+\end{aligned}$
+
+[del]4y^2 - 4y(y-2)\xi + (y-2)^2 \xi^2 = \xi^2[/del]
+[del]4y^2 - 4y(y-2)\xi + (y-2)^2 \xi^2 = \xi^2[/del]
+[del]4y^2 - 4y(y-2)\xi + (y-2)^2 \xi^2 = \xi^2[/del]
+
+$(2+q)^2 = (2+q)^2$
+[del]= 4 + 4q + q^2[/del]
+
+$\begin{aligned}
+E - z &= 5x \\
+Ez &= 14x \\
+(E+z)^2 &= 25x^2 + 56x
+\end{aligned}$
+
+$\begin{aligned}
+&5x + 2\xi \\
+&25x^2 + 20x\xi + 4\xi^2 \\
+&14x = 5x\xi + \xi^2 \\
+&\xi^2 = (14 - 5\xi)x \\
+&\xi \text{ is } 1 \text{ or } 2 \\
+&\frac{\xi^2}{14-5\xi} = \frac{1}{9} \text{ or } \frac{4}{4} = 10
+\end{aligned}$
+
+$\begin{aligned}
+E - z &= \frac{7x}{18x} \\
+(E+z)^2 &= 49x^2 + [del]4 \cdot 18[/del] [ins]72[/ins] x \\
+&7x + 2\xi \\
+&49x^2 + 4 \cdot 7x\xi + 4\xi^2 \\
+&(18 - 7\xi) = \xi^2
+\end{aligned}$
+
+$\frac{5}{14}$

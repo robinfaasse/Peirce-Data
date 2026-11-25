@@ -1,0 +1,45 @@
+[fig]Right triangle with altitude and hypotenuse split[/fig]
+
+[del]Tanh ?[/del]
+$\text{Tanh }\frac{a+b}{2} = \frac{\text{Tanh }\frac{a}{2} + \text{Tanh }\frac{b}{2}}{1 + \text{Tanh }\frac{a}{2}\text{Tanh }\frac{b}{2}}$
+
+[del]$\text{Cosh } c = \dots$[/del]
+[del]$\text{Tanh } \psi = \frac{\text{Sinh } I}{\dots}$[/del]
+$\text{Tan } A = \frac{\text{Tanh } x}{\text{Sinh }(b-y)}$
+$\text{Cosh } R = \text{Cosh } x \text{ Cosh } y$
+
+Given $\theta$ $I$ $R$
+$\sin \psi = \text{Sinh } I \frac{\sin \theta}{\text{Sinh } R}$
+
+[fig]Right triangle with angle A, sides I, b, R[/fig]
+
+$\text{Tanh } \varphi = \text{Tanh } I \cos \theta$
+$\text{Cosh } \varphi' = \frac{\text{Cosh } R \text{ Cosh } \varphi}{\text{Cosh } I}$
+
+$r = \varphi' - \varphi$
+
+$\text{Tanh } \frac{r}{2} = \frac{\sqrt{\text{Cosh}^2 \varphi' - 1} - \text{Tanh } \varphi}{\sqrt{\text{Cosh}^2 \varphi' + 1} - \text{Tanh } \varphi \sqrt{\text{Cosh}^2 \varphi' - 1}}$
+$= \frac{\sqrt{\dots} - \sqrt{1 + \text{Sinh}^2 b \sin^2 A} - \text{Tanh } \varphi \sqrt{1 + \dots}}{\sqrt{\dots} - \text{Tanh } \varphi \text{ Sinh } \dots}$
+
+$\text{Cosh } a \text{ Cosh } b + \text{Sinh } a \text{ Sinh } b \cos A = \text{Cosh } c$
+
+$k \text{ Sinh } \varphi = \text{Sinh } b \cos A$
+$k \text{ Cosh } \varphi = \text{Cosh } b$
+
+$k \text{ Cosh }(\varphi + c) = \text{Cosh } a$
+$\varphi + c = \varphi'$
+$k \text{ Cosh } \varphi' = \text{Cosh } a$
+$c = \varphi' - \varphi$
+
+$\text{Tanh } \varphi = \text{Tanh } b \cos A$
+$\text{Cosh } \varphi' = \frac{\text{Cosh } a}{k} = \frac{\text{Cosh } a \text{ Cosh } \varphi}{\text{Cosh } b}$
+
+[del]$\text{Tanh}$[/del] $\text{Cosh}^2 = 1 + \text{Sinh}^2$
+$\text{Coth}^2 = \text{Cosech}^2 + 1$
+$\text{Sinh}^2 = \text{Cosh}^2 - 1$
+$\text{Tanh}^2 = 1 - \text{Sech}^2$
+$\text{Sech} = \sqrt{1 - \text{Tanh}^2}$
+
+$\text{Cosh } \varphi' = \frac{\text{Cosh } a}{\text{Cosh } b \sqrt{1 - \text{Tanh}^2 b \cos^2 A}}$
+$= \frac{\text{Cosh } a}{\sqrt{\text{Cosh}^2 b - \text{Sinh}^2 b \cos^2 A}}$
+$= \frac{\text{Cosh } a}{\sqrt{1 + \text{Sinh}^2 b \sin^2 A}}$

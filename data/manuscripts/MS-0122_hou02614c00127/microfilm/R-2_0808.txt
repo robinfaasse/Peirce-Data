@@ -1,0 +1,44 @@
+[marginalia]Non-Euclid Geom[/marginalia] [pn]2[/pn]
+
+There are three exceptional situations
+
+<u>1st</u> Two elements coincide
+[bracket]
+A Two points coincide
+B Two points on one tangent to absolute "parallel"
+C One of the points is on the absolute "infinite distance"
+[/bracket]
+
+<u>2nd</u> Harmonically situated
+
+[fig]Ellipse with points A and B on a line[/fig]
+
+[fig]Ellipse with tangent lines meeting at a point[/fig]
+
+[fig]Ellipse with points A and B inside[/fig] Anharmonic ratio 2 or [frac]1/2[/frac]
+
+<u>3rd</u> Equianharmonically situated.
+
+Harmonic
+[frac]x A/x B[/frac] = - [frac]y A/y B[/frac]
+
+[fig]Circle with inscribed triangle and tangent lines[/fig]
+
+[fig]Circle with inscribed geometric construction[/fig]
+
+[frac](x-A)/(x-B)[/frac] = - [frac](y-A)/(y-B)[/frac]
+
+x (1 + [frac]y-A/y-B[/frac]) = B [frac]y-A/y-B[/frac] + A
+
+x = [del]2y(A+B)-2AB/2y-A-B[/del]
+
+[del][frac]1/x-B + 1/y-B[/frac][/del]
+
+[frac]x/x-B[/frac] + [frac]y/y-B[/frac] = A ([frac]1/x-B[/frac] + [frac]1/y-B[/frac])
+
+[frac][frac]x/x-B[/frac] + [frac]y/y-B[/frac]/[frac]1/x-B[/frac] + [frac]1/y-B[/frac][/frac] = [frac]2xy - B(x+y)/x+y-2B[/frac]
+x=i y=-i
+
+[frac]2/-2B[/frac] = - [frac]1/B[/frac] = A
+
+[frac](x-A)(y-B)/(x-B)(y-A)[/frac] = - 1

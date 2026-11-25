@@ -1,0 +1,41 @@
+Required the general equation of a "[del]phimoid[/del] [ins]hyperboloid[/ins] of one nappe"
+
+I first find a special equation
+Let it include the [del]ellipse[/del] [ins]hyperbola[/ins] [del]$\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$[/del]
+[del]And[/del] Also the hyperbola $\frac{y^2}{b^2} - \frac{z^2}{c^2} = 1$
+[fig]hyperbola sketch[/fig] So that when $y$ and $z$ are infinite
+$\frac{y^2}{b^2} = \frac{z^2}{c^2}$ or $\frac{y}{b} = \pm \frac{z}{c}$
+Also the hyperbola $\frac{x^2}{a^2} - \frac{z^2}{c^2} = 1$ or $\frac{x}{a} = \pm \frac{z}{c}$
+The surfaces then is
+$\frac{x^2}{a^2} - [del]\frac{y^2}{b^2}[/del] [ins](\frac{y}{b} + \frac{z}{c})(\frac{y}{b} - \frac{z}{c}) = 1$[/ins]
+
+$\frac{x^2}{a^2} + \frac{y^2}{b^2} - \frac{z^2}{c^2} = 1$
+$\frac{x}{p} + \frac{y}{q} + \frac{z}{r} = 1$
+$z = r (1 - \frac{x}{p} - \frac{y}{q})$
+
+[fig]ellipse sketch[/fig] If $z = 0$
+$y = b \sqrt{1 - \frac{x^2}{a^2}}$
+$y = b \sqrt{(1 - \frac{x}{a})(1 + \frac{x}{a})}$
+$y = 0$ if $x = \pm a$
+
+$\frac{1 + \frac{x}{\sqrt{1+x^2}}}{x + \sqrt{1+x^2}} = \frac{D_x f}{x + \sqrt{1+x^2}}$
+$= \frac{1}{\sqrt{1+x^2}}$
+
+[del]$x = D_x \frac{b}{a} x$[/del]
+$\frac{b}{a^2 \sqrt{1 - \frac{x^2}{a^2}}}$
+
+$\frac{x^2}{a^2} + \frac{y^2}{b^2} - \frac{z^2}{c^2} = 1$
+
+$\frac{2x}{a^2} + \frac{2y D_x y}{b^2} = 0$
+
+$\frac{x}{p} + \frac{y}{q} + \frac{z}{r} = 1$
+
+$\frac{1}{p} + \frac{D_x y}{q} = 0$
+
+[fig]circle with inscribed triangle[/fig]
+
+$\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$
+$y = b \sqrt{1 - \frac{x^2}{a^2}}$
+$= \frac{b}{a} \sqrt{a^2 - x^2}$
+
+[fig]triangle with inscribed curve[/fig]

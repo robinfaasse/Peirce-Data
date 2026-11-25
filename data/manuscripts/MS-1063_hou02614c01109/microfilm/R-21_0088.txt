@@ -1,0 +1,34 @@
+```
+[fig]Vertical line dividing the page into two columns[/fig]
+
+[del]$v = \cos \theta \cdot i + \sin \theta \cdot j$[/del]
+[del]$\frac{1}{v} = \cos \theta \cdot i - \sin \theta \cdot j$[/del]
+[del]$dv = -\sin \theta \cdot d\theta \cdot i + \cos \theta \cdot d\theta \cdot j$[/del]
+[del]$dv = [ \text{unclear} ]$[/del]
+$\int d\theta$
+
+$q = \cos \theta + \sin \theta \cdot v$
+$\frac{1}{q} = \cos \theta - \sin \theta \cdot v$
+$dq = -\sin \theta \cdot d\theta [del]+ \cos \theta[/del] + \cos \theta \cdot d\theta \cdot v$
+$\frac{1}{q} dq = d\theta \cdot v$
+$\int \frac{1}{q} dq = \theta v$
+
+---
+
+$q = \cos \theta + \sin \theta \cdot \varphi \cdot i$
+$\frac{1}{q} = \cos \theta - \sin \theta \cdot \varphi \cdot i$
+$dq = \sin \theta \cdot \varphi' \cdot i \cdot d\varphi$
+$\frac{1}{q} dq = \sin \theta \cos \theta \cdot \varphi' \cdot d\varphi \cdot i + \sin^2 \theta \cdot \varphi \varphi' d\varphi$
+$\int \frac{1}{q} dq = \sin \theta \cos \theta \cdot \varphi \cdot i +$
+
+$v = \cos \varphi \cdot i + \sin \varphi \cdot j$
+$q = \cos \theta + \sin \theta (\cos \varphi \cdot i + \sin \varphi \cdot j)$
+$\frac{1}{q} = \cos \theta - \sin \theta (\cos \varphi \cdot i + \sin \varphi \cdot j)$
+$dq = + \sin \theta [ - \sin \varphi \cdot d\varphi \cdot i + \cos \varphi \cdot d\varphi \cdot j ]$
+[del]$dq = \sin \theta \cos \theta \sin \varphi \cdot d\varphi$[/del]
+[del]$-\sin^2 \theta \sin \varphi \cos \varphi + \sin^2 \theta \cos \varphi \sin \varphi$[/del]
+$\sin \theta \cos \theta (-\sin \varphi \cdot d\varphi \cdot i + \cos \varphi \cdot d\varphi \cdot j)$
+$-\sin^2 \theta \cdot d\varphi \cdot k$
+$\frac{1}{q} dq = \sin \theta \cos \theta [\cos \varphi \cdot i + \sin \varphi \cdot j]$
+$-\sin^2 \theta \cdot d\varphi \cdot k$
+```

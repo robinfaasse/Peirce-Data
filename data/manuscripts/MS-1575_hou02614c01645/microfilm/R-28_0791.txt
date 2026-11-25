@@ -1,0 +1,39 @@
+$$P =$$
+
+$$\sqrt{pp'} + \sqrt{p(p'-1)} + \sqrt{p'(p-1)} + \sqrt{pp'-p-p'+1} = \sqrt{p'} + \sqrt{p'-1}$$
+
+$$\sqrt{pp'} + \sqrt{pp'-p-p'+1} = \sqrt{p'}$$
+
+$$pp' + pp'-p-p'+1 + 2\sqrt{p^2p'^2-p^2p'-pp'^2+pp'} = p'$$
+
+$$2pp' - p - 2p' + 1 + 2\sqrt{p^2p'^2-p^2p'-pp'^2+pp'} = 0$$
+
+$$2\sqrt{p^2p'^2-p^2p'-pp'^2+pp'} = -2pp' + p + 2p' - 1$$
+
+$$4(p^2p'^2-p^2p'-pp'^2+pp') = 4p^2p'^2 + p^2 + 4p'^2 + 1 - 4p^2p' - 8pp'^2 + 4pp' + 4p' - 2p - 4pp'$$
+
+$$-4p^2p' - 4pp'^2 + 4pp' = p^2 + 4p'^2 + 1 - 4p^2p' - 8pp'^2 + 4pp' + 4p' - 2p - 4pp'$$
+
+$$0 = p^2 + 4p'^2 + 1 - 4pp'^2 + 4p' - 2p - 4pp'$$
+
+$$0 = p^2 - 2p(1+2p') + (2p'+1)^2$$
+
+$$0 = (p - (2p'+1))^2$$
+
+$$p = 2p'+1$$
+
+$$\sqrt{(2p'+1)p'} + \sqrt{(2p'+1)(p'-1)} + \sqrt{p'2p'} + \sqrt{(2p'+1)p'-2p'-p'+1} = \sqrt{p'} + \sqrt{p'-1}$$
+
+$$\sqrt{2p'^2+p'} + \sqrt{2p'^2-p'-1} + \sqrt{2}p' + \sqrt{2p'^2-2p'+1} = \sqrt{p'} + \sqrt{p'-1}$$
+
+$$\cos(a+b) = \cos a \cos b - \sin a \sin b$$
+
+$$\cos a \cos b + \sin a \sin b$$
+
+$$P = [del]\cos[/del](a+b)$$
+
+$$\cos^2 P = \cos^2 a \cos^2 b - 2 \cos a \sin a \cos b \sin b + \sin^2 a \sin^2 b$$
+
+$$\cos^2 a \cos^2 b + \sin^2 a \sin^2 b (\sin a \sin b - 2 \cos a \cos b)$$
+
+$$\frac{1-\cos 2A}{2}$$ [fig]fraction line with 2[/fig]

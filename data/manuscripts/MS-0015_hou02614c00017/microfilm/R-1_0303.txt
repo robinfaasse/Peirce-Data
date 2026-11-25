@@ -1,0 +1,28 @@
+[marginalia]Quantity[/marginalia] [pn]28[/pn]
+
+[del]been[/del] [ins]has[/ins] found necessary to introduce the zero proposition as a
+consequent, thus giving the producing denial, it is necessary
+to take account of combinations of the relation of contra-
+diction.
+
+This gives the seventh mode of necessary deduction, which is
+inference by commutation. The rule is that if any constituent of
+a consequence [u]de inesse[/u] has zero for the consequent of its ante-
+cedent, its consequent and the antecedent of its antecedent may
+be illatively made to change places. [del]Thus,[/del] [ins]For example,[/ins] if [del]it be admitted[/del] [ins]for example,[/ins]
+if it be admitted that $(A \prec 0) \prec B$, then the inference is valid
+that $(B \prec 0) \prec A$. I will now give an example which illustrates
+almost all the above modes of inference. Suppose we admit
+the two propositions $A \prec B$ and $B \prec C$. Colligating these we
+get [del]$[(A \prec B) \prec (B \prec C)] \prec$[/del] $[(A \prec B) \prec (B \prec C) \prec (0)] \prec [0]$. Thence, we
+can infer by insertion $[A] \prec [(A \prec B) \prec (B \prec C) \prec (0)] \prec [0]$; for this
+is a consequence having the premise (which is a zero antece-
+dental of itself) as consequent. Thence, we can, secondly, infer
+by deiteration $[A] \prec [(B) \prec (B \prec C) \prec (0)] \prec [0]$; for the first $A$ [del]in[/del]
+[del]the premise[/del] is a first constituent of the zero constituent of that
+premise and is a first antecedental, while the second $A$ is
+also a constituent of the zero constituent and is a third
+antecedental (being the antecedent of the antecedent of the
+antecedent of the consequent of the consequence,) and the con-
+clusion results from omitting this second $A$. Thence, we can,
+idly, infer by iteration $\{A\} \prec \{[B] \prec [(B \prec B) \prec (C)] \prec [0]\} \prec \{0\}$; for

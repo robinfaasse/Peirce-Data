@@ -1,0 +1,60 @@
+[pn]82[/pn]
+
+by 1, we have 2; the sum of the squares of 1, 1, 2, is 6;
+and dividing by 2, we get 3; the sum of the squares 1, 1, 2, 3, is 15;
+and dividing by 3 we get 5, etc. Algebra also furnishes a
+[del]method[/del] [ins]more[/ins] rule for calculating [del]any value[/del] [ins]the function[/ins] directly from the variable. Thus
+to get the [del]value[/del] [ins]value[/ins] of the function when the variable is 11, we first set down
+11. We multiply this by [del]10/2 . 9/3 . 5[/del] [ins]or 75, making 825[/ins] and set that down under the 11.
+
+[marginalia]
+11
+825
+11550
+41250
+34375
+3125
+[u]91136[/u]
+[/marginalia]
+
+We multiply the 825 by [del]8/4 . 7/5 . 5[/del] [ins]8/4 . 7/5 . 5[/ins], or 14, making 11550, and
+set that down under the 825. We multiply the 11550 by 6/6 . 5/7 . 5,
+or 25/7, making 41250, and set that down under the 11550. We
+multiply [del]that[/del] [ins]the[/ins] 41250 by 4/8 . 3/9 . 5, or 5/6, making 34375 and set
+that down under the 41250. We multiply the 34375 by 2/10 . 1/11 . 5,
+or 1/11, making 3125, and set that down under the 34375.
+The sum of the six numbers set down is 91136. This is to be divided by 2
+multiplied into itself up to 10 factors, or 1024, and the quotient is 89, the
+value of the function sought. [del]* If the variable is even, the rule is slightly
+different.[/del]
+
+[del]This[/del] [ins]The above[/ins] is given as a specimen of the [del]things[/del] [ins]computations for[/ins] which algebra teaches
+us how to [del]make with facility[/del] [ins]perform[/ins]. To a person moderately skilled in algebra,
+a moment's reflection, without writing anything down, will show
+that these three modes of calculation will give the same results.
+
+* Calculation for Variable = 10.
+10 x 9/2 . 8/3 . 5 = [del]60[/del] 60 x 10 = [del]600[/del] [ins]1200[/ins]
+600 x 7/4 . 6/5 . 5 = [del]21[/del] 21/2 x 600 = 6300
+6300 x 5/6 . 4/7 . 5 = [del]50[/del] 50/21 x 6300 = 15000
+15000 x 3/8 . 2/9 . 5 = [del]5[/del] 5/12 x 15000 = 6250
+6250 x 1/10 . 0/11 . 5 = [del]0[/del] 0 x 6250 = 0
+
+512 ) 28160 ( 55
+[u]2560[/u]
+2560
+[u]2560[/u]
+0
+
+Calculation for Variable = 9
+9 x 8/2 . 7/3 . 5 = 420
+420 x 6/4 . 5/5 . 5 = 3150
+3150 x 4/6 . 3/7 . 5 = 4500
+4500 x 2/8 . 1/9 . 5 = 625
+625 x 0/10 . -1/11 . 5 = 0
+
+256 ) 8704 ( 34
+[u]768[/u]
+1024
+[u]1024[/u]
+0

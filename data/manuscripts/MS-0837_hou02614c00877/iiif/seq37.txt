@@ -1,0 +1,15 @@
+Let us substitute any two relations, say [u]loves[/u] for
+[u]is[/u], and [u]injures[/u] for [u]is not[/u]. Then, the inference
+becomes
+[tab] M injures P;
+[tab] S loves M:
+[tab] ∴ S injures P. [tab] [del]A is not not A[/del]
+
+[del]For the truth of this[/del]
+
+[tab] [fig]r^r^A[/fig] [fig] -< A[/fig] [tab] r + r[ins][overline]A[/overline][/ins] [tab] [overline]r + r + [overline]A[/overline][/overline]
+[tab] [del][fig]A -< r[/fig][/del] [tab] r + [overline]r[/overline] A [fig]-<[/fig] A
+[tab] [tab] [overline]A[/overline] [fig]-<[/fig] [overline]r[/overline] (r + [overline]A[/overline])
+
+[tab] r[overline]A[/overline] [fig]-<[/fig] A
+[tab] r + A [fig]-<[/fig] A

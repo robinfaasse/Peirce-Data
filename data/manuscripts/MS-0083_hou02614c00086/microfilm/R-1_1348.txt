@@ -1,0 +1,64 @@
+[pn]22[/pn] [u]Substitutions derived[/u] [del]p 22[/del] [ins]re[/ins]merely means
+that they result as products of powers of certain
+initial substitutions. [ins]This is the common name though I recall it the theorem of transformation[/ins] [del]The theorem about [u]BAB[/u][sup]-1[/sup]
+(which ought to have a name) is proved (p 23) as
+follows[/del] so let A = a (bc) (def) etc and B be [del](a'b'c'd'e'f')[/del] [ins](a'b'c'd'e'f')[/ins]
+then B[sup]-1[/sup] replaces a' by a, b' by b, c' by c, etc and
+AB[sup]-1[/sup] replaces a' by a, b' by c, c' by b, d' by f, e' by d,
+f' by e, etc, and BAB[sup]-1[/sup] = a' (b'c') (d'e'f') etc
+QED. Conversely of two substitutions are similar,
+either is a transformer of the other, suppose the substi-
+tution to be transformed to have its cycles reduced to indepen-
+dent cycles. If for example
+A = (ac) (ade) (cef) (d) 4 transforms
+first by (fd) to a + b + c + d + e + f
+then by (efg) to a + b + c + f + e + d
+then by (ade) to e + b + f + d + c + a
+then by (ac) to b + b + f + d + a + c
+so that [del]A[/del] [ins]A[/ins] = (ae) (b) (cf) (d)
+Transforming this by (abc) (def) [del]4[/del] makes
+(abc)[sup]-1[/sup] (def)[sup]-1[/sup] a + b + c + d + e + f
+(ab) (cf) b + c + a + e + f + d
+Then A makes b + f + e + a + c + d
+Therefore a + e + d + c + b + f
+(cd) (a) (be) (f) according to the theorem.
+But if we had operated in the original form we should
+have got
+([del]ab[/del]) (cf d) (b de) (ef)
+which would commute a + b + c + d + e + f
+successively into
+e + d
+d + c
+a + e + d + c + b + f
+Yes, after all, there is no need of the reduction
+
+The theorems of transformation may be ex-
+pressed thus: The transformation of a sub-
+stitution leaves its [del]form unchanged[/del] [ins]cycles[/ins]
+only transmutes its matter. For this
+reason, it should not by called a
+transformation but only a [u]transmutation[/u]
+Similar substitutions are reciprocally trans-
+mutable, or say intertransmutable.
+Exchangeable substitutions are such that
+either transmutes the other, leaves it unchanged
+i.e. BAB[sup]-1[/sup] = A whence BA = AB [ins]and AB = BA[/ins]
+or ABA[sup]-1[/sup] = B or AB[sup]-1[/sup]A[sup]-1[/sup]B[sup]-1[/sup] etc. p 24
+All substitutions that have no matter in common
+are exchangeable. And if both B and C are
+exchangeable with A, they are so with each other??
+On p 24 he seems to use "permutable" as synonym
+of exchangeable. Contrary defined p 25
+The order of a group whose degree is n will be a
+divisor of n! and the order of every group
+will be divisible by the order of any of its sub-
+stitutions. p 26 Lagrange's theorem is that if one
+group contains another, its order is a multiple of
+that of the p 25. Cauchy's theorem is a master-
+piece, viz that Any group whose order is a prime [del]contains[/del]
+contains a substitution of that same order. Every
+group contains a substitution of the order of each
+[del]of its[/del] factor of the order of the group. It is
+orderly, [del]not[/del] [ins]so-called[/ins] "lemmata" which are properly
+speaking auxiliary theorems but not lemmata, that,
+[del]if[/del] [ins]since[/ins] a group contains two other groups then the number

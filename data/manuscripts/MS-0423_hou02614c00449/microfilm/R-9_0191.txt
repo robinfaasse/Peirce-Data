@@ -1,0 +1,15 @@
+[pn]12[/pn]
+
+$$0 > e(a-2x-e).$$
+
+Then the sign of $a-2x-e$ is opposite to that of $e$ no matter what the value of $e$. It follows that $2x$ differs from $a$ by less than any assignable quantity.
+
+The great body of modern mathematicians repudiate infinitesimals in the above literal sense, [del]holding[/del] [ins]because[/ins] [del]that[/del] it is not clear that such quantities are possible, or because [del]it is difficult to attain entire conviction in that way[/del] they cannot entirely satisfy themselves with that mode of reasoning. They therefore adopt the method of limits, which is a method of establishing the fundamental principles of the differential calculus. I have nothing against it, except its timidity or inability to see the logic of the simpler way. Let $x$ be a variable quantity which takes an unlimited series of values $x_1, x_2, \dots x_n$, so that [u]$n$[/u] will be a variable upon which $x_n$ depends. If, then, there be a quantity $c$ [ins]such that[/ins] [del]for which[/del]
+
+$$x_{\infty} = c,$$
+
+that is, as the mathematicians prefer to say, in order to avoid speaking of infinity, if [del]there be a[/del] [ins]for every[/ins] positive quantity $\varepsilon$ [del]sufficiently small, then be a positive quantity[/del] [ins]such that[/ins] for all values of [u]$n$[/u] greater than $\nu$
+
+$$\text{Modulus } (x_n - c) < \varepsilon$$
+
+then $c$ is said to be the limit of $x$. [pn]219[/pn]

@@ -1,0 +1,12 @@
+$$(u_x)^2 = 36(u_{x-2})^2 + 48 u_{x-2} u_{x-3} + 16(u_{x-3})^2$$
+$$\begin{array}{l} \left( \begin{array}{l} + 12 u_{x-2} \\ + 8 u_{x-3} \end{array} \right) \sum_i^{x-4} u_i (u_{x-i} + 2 u_{x-i-1}) \end{array}$$
+$$+ \sum_i^{x-4} \sum_j^{x-4} u_i u_j (u_{x-i} u_{x-j} + 4 u_{x-i} u_{x-j-1} + 4 u_{x-i-1} u_{x-j-1})$$
+$$+ 12 u_{x-2} u_{x-3} u_3 + 8(u_{x-3})^2 u_3 + u_{x-3} u_3 \sum_i^{x-4} u_i (u_{x-i} + 2 u_{x-i-1})$$
+$$+ (u_{x-3})^2 u_3^2$$
+
+$$(4 u_x - u_{x+1})(4 u_{x+1} - u_x) =$$
+$$16(u_{x-2})^2 + 16 u_{x-2} u_{x-3} + 4(u_{x-3})^2$$
+$$+ u_{x-2} \sum_i^{x-4} u_i (-2 u_{x-i+1} - 4 u_{x-i} + 20 u_{x-i-1})$$
+$$+ u_{x-3} \sum_i^{x-4} u_i (- u_{x-i+1} + [del]2[/del][ins]12[/ins] u_{x-i} + 10 u_{x-i-1})$$
+$$\begin{array}{l} + \sum_i^{x-4} \sum_j^{x-4} u_i u_j \left[ u_{x-i+1} u_{x-j} - 2 u_{x-i+1} u_{x-j-1} - 2(u_{x-i})^2 \right. \\ \left. \qquad \qquad \qquad + 2 u_{x-i} u_{x-j-1} + 4 u_{x-i-1} u_{x-j-1} \right] \end{array}$$
+$$+ (u_{x-3})^2 (-u_4 - 2 u_3) + u_{x-3} u_{x-2} ([del]-2 u_4 + 2[/del][ins]-4[/ins] u_3) + (u_{x-2})^2$$

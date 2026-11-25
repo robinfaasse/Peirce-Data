@@ -1,0 +1,7 @@
+$$Q = c e^{\sqrt{\frac{n}{2\mu'}} (\xi - \xi_1)} \sin \left\{ \sqrt{\frac{n}{2\mu'}} (\xi - \xi_1) \right\}$$
+$$P = c e^{\sqrt{\frac{n}{2\mu'}} (\xi - \xi_1)} \cos \left\{ \sqrt{\frac{n}{2\mu'}} (\xi - \xi_1) \right\}$$
+
+where $\xi_1 = \frac{x_1 - 2c^2 x_1^2}{\sqrt{1 + 4c^2 x_1^2}}$.
+
+Consequently,
+$$v = c e^{\sqrt{\frac{n}{2\mu'}} (\xi - \xi_1)} \sin \left\{ nt + \sqrt{\frac{n}{2\mu'}} (\xi - \xi_1) \right\}.$$

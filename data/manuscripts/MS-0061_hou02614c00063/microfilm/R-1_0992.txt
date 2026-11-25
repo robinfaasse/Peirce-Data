@@ -1,0 +1,31 @@
+[pn]42[/pn] To extract the $r^{\text{th}}$ root of a number $A$, let $x^{r} = A$
+Let $a$ be an approximate value of $x$ and put $x = a + y$
+Then $(y+a)^{r} = y^{r} + r a y^{r-1} + \frac{r(r-1)}{2} a^{2} y^{r-2} + \text{etc} + a^{r} = A$
+and whatever be the value of $m$
+$\frac{y^{-m} + r a y^{-(m+1)} + \frac{r(r-1)}{2} a^{2} y^{-(m+2)} + \text{etc} + [del]r[/del] a^{r-1} y^{-(m+r-1)}}{A - a^{r}} = y^{-(m+r)}$
+
+Instead of this use the equations
+$\frac{u_{m} + r a u_{m+1} + \frac{r(r-1)}{2} a^{2} u_{m+2} + \text{etc} + r a^{r-1} u_{m+r-1}}{A - a^{r}} = u_{m+r}$
+
+Assume any values arbitrarily for $u_{0}, u_{1}, u_{2}, \dots u_{r-1}$
+and by this equation [del]for[/del] calculate $u_{r}, u_{r+1}, u_{r+2}$ & etc
+Then if $n$ is large $y = \frac{u_{n}}{u_{n+1}}$ nearly,
+
+Examples
+Find $\sqrt{3}$ assume $a = 2$
+Then $(2-y)^{2} = 3$
+or $1 = 4y - y^{2}$
+Assume $1 = 4 u_{m+1} - u_{m}$
+
+$u_{0} = 0$
+$u_{1} = A$
+$u_{2} = [del]A[/del] 0$
+$u_{3} = \alpha \alpha \alpha A$
+$u_{4} = \alpha \alpha \alpha 0 0$
+$u_{5} = \alpha \alpha \alpha \alpha 0 0 0 A$
+$u_{6} = \alpha \alpha 0 0 0 0 \alpha \alpha 0$
+$u_{7} = \alpha 0 \alpha \alpha 0 \alpha 0 \alpha \alpha \alpha A$
+
+$\therefore \sqrt{\alpha A} = \alpha 0 - \frac{\alpha \alpha 0 0 0 0 \alpha \alpha 0}{\alpha \alpha \alpha 0 \alpha 0 \alpha \alpha \alpha A} = A + \frac{\alpha 0 0 0 0 \alpha 0 \alpha 0 0 \alpha A}{2 0 \alpha \alpha 0 \alpha 0 \alpha \alpha \alpha A}$ nearly
+
+The square of this is $\alpha A + \frac{A}{\alpha 0 0 0 0 0 \alpha 0 \alpha \alpha \alpha \alpha \alpha 0 0 0 0 0 A}$

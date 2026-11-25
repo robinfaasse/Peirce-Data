@@ -1,0 +1,28 @@
+[u]Note[/u] [del]p 48[/del] [ins]$\frac{A}{1}$[/ins] [u]Gal 86[/u]
+I here give another proof [del]of[/del] of the proposition of p. 48.
+
+1[ins]st[/ins], Suppose P and Q both false; so that
+[u]v[/u] [u]O[/u] [u]v[/u] = [u]f[/u] [u]f[/u] [u]O[/u] [u]f[/u] = [u]v[/u] [u]f[/u] [u]O[/u] [u]v[/u] = [u]f[/u] [u]v[/u] [u]O[/u] [u]f[/u] = [u]v[/u]
+
+3 5 9
+
+Then [u]f[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]v[/u]) = [u]f[/u] [u]O[/u] [u]f[/u] = [u]v[/u] , [u]v[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]v[/u]) = [u]v[/u] [u]O[/u] [u]f[/u] = [u]v[/u]
+[u]f[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]f[/u]) = [u]f[/u] [u]O[/u] [u]v[/u] = [u]f[/u] [u]v[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]f[/u]) = [u]v[/u] [u]O[/u] [u]v[/u] = [u]f[/u]
+and [del]the[/del] [ins]two[/ins] formulae hold.
+
+2[ins]nd[/ins], Suppose the first formula fails. That is,
+[u]f[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]v[/u]) $\ne$ [u]v[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]v[/u]).
+
+Now if [u]v[/u] [u]O[/u] [u]v[/u] = [u]f[/u] [u]O[/u] [u]v[/u] = [u]v[/u], evidently every expression ending
+in [u]v[/u] would be equal to [u]v[/u], contrary to the hypothesis of the
+inequality just written. Hence, either [u]v[/u] [u]O[/u] [u]v[/u] = [u]f[/u] or [u]f[/u] [u]O[/u] [u]v[/u] = [u]f[/u].
+
+If [u]v[/u] [u]O[/u] [u]v[/u] = [u]f[/u], but [u]f[/u] [u]O[/u] [u]v[/u] = [u]v[/u], the second side of the inequality is [u]v[/u] [u]O[/u] [u]v[/u] = [u]f[/u];
+so that the first side must be [u]f[/u] [u]O[/u] [u]f[/u] = [u]v[/u], and P is false.
+
+If [u]f[/u] [u]O[/u] [u]v[/u] = [u]f[/u], but [u]v[/u] [u]O[/u] [u]v[/u] = [u]v[/u], the first side of the inequality is [u]f[/u] [u]O[/u] [u]v[/u] = [u]f[/u]; so
+that the second side must be [u]v[/u] [u]O[/u] [u]f[/u] = [u]v[/u], and Q is false.
+
+If [u]v[/u] [u]O[/u] [u]v[/u] = [u]f[/u] and [u]f[/u] [u]O[/u] [u]v[/u] = [u]f[/u], the inequality becomes [u]f[/u] [u]O[/u] [u]f[/u] $\ne$ [u]v[/u] [u]O[/u] [u]f[/u].
+Hence either [u]f[/u] [u]O[/u] [u]f[/u] = [u]v[/u], when P is false or [u]v[/u] [u]O[/u] [u]f[/u] = [u]v[/u]; when Q is false;
+and in any case either P or Q is false. [fig]check[/fig]

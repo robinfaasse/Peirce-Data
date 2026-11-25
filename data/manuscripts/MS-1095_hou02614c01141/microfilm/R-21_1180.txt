@@ -1,0 +1,35 @@
+[fig]Diagram of a circle with radius a, and lines c and \beta forming a triangle[/fig] When [u]\alpha = a[/u]
+
+$X = C \sin B$
+
+When $\alpha = a + \varepsilon$
+
+$X \neq \frac{a + \varepsilon}{a} C \sin B$
+
+[del]$\sin B = \frac{1}{2 \beta c} \sqrt{2 \alpha^2 \beta^2 + 2 \alpha^2 c^2 + 2 \beta^2 c^2 - \alpha^4 - \beta^4 - c^4}$[/del]
+
+When $\beta = b + \varepsilon$  $X = 0$
+
+When $\alpha = a + \varepsilon$
+
+$X = C x$
+
+$x = \alpha \sin B = \beta \sin A$ [fig]Triangle with sides c, \alpha, \beta and angles A, B[/fig]
+
+$X = \frac{a + \varepsilon}{a} C \sin B$
+
+[del]$\sin B = $[/del] So that we might imagine
+
+$X = \beta \sin A + (\alpha - a)^2$
+
+$x = \frac{1}{2 c} \sqrt{2 \alpha^2 c^2 + 2 \alpha^2 \beta^2 + 2 \beta^2 c^2 - \beta^4 - c^4 - \alpha^4}$
+
+When $\beta = b$
+
+For $\alpha = a + \varepsilon$  $X = x$
+
+For $\beta = b + \varepsilon$  $X = 0$
+
+$X = (\beta - b)^2 \{ \frac{x}{(\beta - b)^2} + (\alpha - a)^2$
+
+$X = \frac{(\beta - b)^2}{\frac{(\beta - b)^2}{x} + (\alpha - a)^2 f}$

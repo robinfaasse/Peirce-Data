@@ -1,0 +1,13 @@
+[fig]geometric diagram with labels a, b, c, d, e, f, g, h, p, q, r, u, v, w, x, y, z[/fig]
+
+a² = u² + y² + L uy
+e² = u² + x² - L ux
+d² = v² + x² + L vx
+h² = v² + y² - L vy
+
+[del]a²/uy[/del] - u/y - y/u = L
+- [del]e²/ux[/del] + u/x + x/u = L
+[del]d²/vx[/del] - v/x - x/v = L
+- [del]h²/vy[/del] + v/y + y/v = L
+
+a²/uy - d²/vx + v/x - y/u - x/u + [del]x/v[/del] [ins]y/v[/ins] = 0

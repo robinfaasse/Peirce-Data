@@ -1,0 +1,21 @@
+This will give us
+$$\{M_{i} - M_{i+1}\} = \delta_{2i} (M_{i} - M_{i+1}) + \delta_{2i}^{2} (M_{i-1} - M_{i+1}) - \delta_{2i}^{2} \{M_{i-1} - M_{i}\}$$
+
+and this it is easy to see gives
+$$\{M_{i} - M_{i+1}\} = \delta_{2i} (M_{i} - M_{i+1}) + \delta_{2i}^{2} (M_{i-1} - M_{i+1})$$
+$$\qquad\qquad\quad - \delta_{2i}^{3} (M_{i-1} - M_{i}) - \delta_{2i}^{4} (M_{i-2} - M_{i})$$
+$$\qquad\qquad\quad + \delta_{2i}^{5} (M_{i-2} - M_{i-1}) + \delta_{2i}^{6} (M_{i-3} - M_{i-1})$$
+$$\qquad\qquad\quad - \text{etc}$$
+$$\qquad\qquad\quad \pm \delta_{2i}^{2i-1} (M_{1} - M_{2})$$
+
+[u]Problem 2[/u] Required in the same case $\{M_{i} - M_{i+2}\}$.
+Number the groups backwards from $n$ to $i+1$; calling
+$n = 1'$ $n-1 = 2'$ etc [del]$i+1 = (n-i)'$[/del] [ins]$(i+1) = (n-i)'$[/ins] then
+$$\{M_{(n-i-1)'} - M_{(n-i)'}\} = \delta_{2(n-i-1)} (M_{(n-i-1)'} - M_{(n-i)'}) + \delta_{2(n-i-1)}^{2} (M_{(n-i-2)'} - M_{(n-i)'})$$
+$$\qquad\qquad\qquad\qquad - \text{etc} -$$
+
+The error square of $\{M_{i} - M_{i+1}\}$ is $\delta_{2i}$
+" " " " $\{M_{(n-i-1)'} - M_{(n-i)'}\}$ is $\delta_{2(n-i-1)}$
+The error square of their sum is $\delta_{2i} + \delta_{2(n-i-1)}$
+
+$$\{M_{i} - M_{i+2}\} = \frac{\delta_{2i} \cdot \delta_{2(n-i-1)}}{1 + \delta_{2i} + \delta_{2(n-i-1)}} (M_{i} - M_{i+2}) + \frac{1}{1 + \delta_{2i} + \delta_{2(n-i-1)}} \left\{ \begin{aligned} & \delta_{2(n-i-1)} \{M_{i} - M_{i+1}\} \\ & + \delta_{2i} \{M_{(n-i-1)'} - M_{(n-i)'}\} \end{aligned} \right\}$$

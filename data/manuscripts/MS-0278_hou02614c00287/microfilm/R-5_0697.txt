@@ -1,0 +1,57 @@
+$$\overline{a}_{x} + r_{x\cdot} b_{\cdot} (\overline{r}_{y\cdot} + \overline{a}_{y} + l_{zy}) \cdot (\overline{r}_{za} + \overline{a}_{z} + l_{zi}) (\overline{r}_{zz} + \overline{a}_{z} + l_{zz})$$
+$$+ r_{zz} \cdot b_{z} (\overline{r}_{yj} + \overline{a}_{y} + l_{zy}) \cdot (\overline{r}_{zz} + \overline{a}_{z} + l_{zz})$$
+
+$$(\overline{a}_{x} + l_{xy} \cdot \overline{l}_{xy} \cdot \overline{l}_{xz} \cdot l_{oz})$$
+$$(\overline{a}_{y} + l_{yx} \cdot \overline{l}_{yx} \cdot l_{yz})$$
+$$(\overline{a}_{y} + l_{ya} \cdot l_{yz} \cdot l_{yi})$$
+$$(\overline{a}_{w} + l_{ay} \cdot l_{ay} \cdot l_{az})$$
+$$(\overline{a}_{z} + l_{zi} \cdot l_{zy} \cdot l_{za})$$
+
+[fig]Venn diagram with nested ovals[/fig]
+[fig]Venn diagram with nested ovals[/fig]
+
+[fig]Venn diagram with overlapping circles[/fig]
+[fig]Venn diagram with concentric circles and radial lines[/fig]
+
+$$\frac{a \cdot b}{\Sigma_{i} \Pi_{j} a_{i}}$$
+$$\frac{\overline{a}_{i} + \overline{a}_{i} \cdot b_{i}}{\Sigma_{i} \Pi_{j} a_{i} \cdot b_{i}}$$
+$$\Pi_{j} \Sigma_{i} a_{i} \cdot b_{i}$$
+
+[fig]Venn diagram with nested circles[/fig]
+$$(a_{1} \cdot b_{1} + a_{1} \cdot b_{2} + a_{1} \cdot b_{3}) A = Z$$
+$$(a_{1} \cdot b_{1} + a_{2} \cdot b_{2} + a_{2} \cdot b_{3}) A = Z \text{ or } B$$
+$$(a_{3} \cdot b_{1} + a_{3} \cdot b_{2} + a_{3} \cdot b_{3}) A = Z = Y$$
+$$= b_{1} (a_{1} + a_{2} + a_{3})$$
+
+$$\frac{a_{1} a_{2} a_{3} b_{1}}{+ a_{1} a_{2} a_{3} b_{2}}$$
+$$\frac{+ a_{1} a_{2} a_{3} b_{3}}{\Sigma_{i} a_{i} b_{j}}$$
+
+[fig]Venn diagram with nested circles[/fig]
+[fig]Venn diagram with nested loops[/fig]
+
+$$\begin{pmatrix} 11 + 12 + 13 \\ (21 + 22 + 23) \\ (31 + 32 + 33) \end{pmatrix}$$
+
+[marginalia]
+[date]11.21.31[/date]
+[date]11.21.32[/date]
+[date]11.21.33[/date]
+[/marginalia]
+
+$$\frac{A_{w}}{\left[ \frac{Z_{catt}}{(z \text{ l } A)} \right]} \quad \frac{B_{w}}{B_{catt}}$$
+
+$$\frac{C_{catt}^{w}}{\frac{Y_{w}}{[del]X[/del] \text{ l } - w} \text{ l } c_{att}}$$
+
+$$\frac{A_{w}}{\frac{Z_{catt}}{z \text{ l } A}}$$
+
+$$\frac{B_{w}}{B_{catt}}$$
+$$\frac{Y_{w}}{\frac{Y \text{ l } X}{X_{catt}}}$$
+
+$$\frac{B_{catt}}{B \text{ l } A}$$
+
+$$\frac{A_{w}}{\frac{A \text{ l } X}{X_{catt}}}$$
+
+$$\frac{A_{w} \quad B_{w} \quad B_{catt}}{Z_{catt}}$$
+
+$$\frac{A \quad B}{Z \quad Y \quad X}$$
+
+[fig]Empty oval[/fig]

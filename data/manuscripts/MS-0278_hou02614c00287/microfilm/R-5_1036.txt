@@ -1,0 +1,21 @@
+[del]i sin u = Sh iu = tan amh iu[/del]
+[del]cos u = Ch iu = sec amh iu[/del]
+[del]tan amh iφ . sec amh iχ[/del]
+[del]ω' = φ' + χ'[/del]
+[del]amh iω' = amh iφ' + amh iχ'[/del]
+ω = φ + χ
+
+[fig]Right angle diagram with exclamation mark[/fig]
+
+[u]∫₀[sup]ω[/sup] dφ / cos φ[/u]
+[del]log tan (ω/2 + 45°)[/del] = log tan (φ/2 + 45°)
++ log tan (χ/2 + 45°)
+tan (ω/2 + 45°) = tan (φ/2 + 45°) tan (χ/2 + 45°)
+
+cos (φ + 90) - cos (χ + 90°)
+-----------------------------
+cos (φ + 90) + cos (χ + 90)
+
+1 + sin ω     sin φ - sin χ
+---------  =  -------------
+  cos ω       sin φ + sin χ

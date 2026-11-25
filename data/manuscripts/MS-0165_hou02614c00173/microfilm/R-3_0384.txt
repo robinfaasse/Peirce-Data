@@ -1,0 +1,29 @@
+[pn]137[/pn]
+
+is the remainder after subtracting all the known terms
+of the first member from [del]these[/del] [ins]the sum of[/ins] of the second, while
+the denominator is the remainder after subtracting all
+
+the coefficients of the unknown on the second side of the
+equation from the sum of those on the first side.
+
+<u>Demonstration</u>. After cleaning from fractions, and
+applying the distributive principle to develope products
+of polynomials, the equation will be in the form
+$$A_1x + A_2x + \text{etc} + B_1 + [del]B_2[/del] + \text{etc} = C_1x + C_2x + \text{etc} + D_1 + D_2 + \text{etc}$$
+where the $A\text{s}$, $B\text{s}$, $C\text{s}$, $D\text{s}$ are known quantities positive or
+negative. Now add $-(B_1 + B_2 + \text{etc})$, and we get
+$$A_1x + A_2x + \text{etc} = C_1x + C_2x + \text{etc} + D_1 + D_2 + \text{etc} - (B_1 + B_2 + \text{etc}),$$
+Next, add $-(C_1x + C_2x + \text{etc})$, and we get
+$$A_1x + A_2x + \text{etc} - (C_1x + C_2x + \text{etc}) = D_1 + D_2 + \text{etc} - (B_1 + B_2 + \text{etc}).$$
+This, by the distributive principle, equals
+$$[A_1 + A_2 + \text{etc} - (C_1 + C_2 + \text{etc})]x = D_1 + D_2 + \text{etc} - (B_1 + B_2 + \text{etc}).$$
+We now multiply by $\frac{1}{A_1 + A_2 + \text{etc} - (C_1 + C_2 + \text{etc})}$, and so
+$$[u]x[/u] = \frac{D_1 + D_2 + \text{etc} - (B_1 + B_2 + \text{etc})}{A_1 + A_2 + \text{etc} - (C_1 + C_2 + \text{etc})}.$$
+
+[fig]flourish[/fig]
+N.B.d. Many problems cannot be entirely expressed
+by equations, at least, not conveniently; although their
+most essential conditions can be so expressed. In such case, we
+solve for these conditions, and then introduce the others by ordi-
+nary reasoning.

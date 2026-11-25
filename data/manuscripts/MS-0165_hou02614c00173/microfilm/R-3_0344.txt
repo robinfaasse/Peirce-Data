@@ -1,0 +1,12 @@
+[pn]97[/pn]
+[ins]different[/ins]
+
+[u]Art. 43. Problem 3. To find the greatest common divisor of [del]two[/del] [ins]cardinal[/ins] numbers.[/u]
+
+[u]Solution[/u]. If one of the numbers is zero, the other is the greatest common factor. If not, divide the greater by the smaller, the smaller by the remainder, that remainder by the last remainder, and so on until [del]a remainder that is[/del] [ins]ultimately 0 is found for the[/ins] remainder. [del]0 is reached. Then[/del] [ins]The penultimate[/ins] remainder is the greatest common factor.
+
+If the greatest common factor [del]is[/del] multiplied by one of the numbers gives that number, there is no common divisor. Otherwise, the greatest common factor is also the greatest common divisor.
+
+[u]Demonstration[/u]. First, let one of the numbers be 0, the other, [del]say[/del] [ins]different[/ins] from 0. Then, by Theorem 21, [del]and[/del] [ins]and Definition 39,[/ins] no factor of N can be greater than N. [del]Hence,[/del] But, by Theorem [del]22[/del], N is a factor of itself; and, by Theorem 18, it is a factor of 0. Hence, it is the greatest common factor of 0 and N. This proves the first [del]part[/del] of the solution. In this case, the greatest common factor, N, multiplied by one of the numbers, namely, 0, gives, by Theorem 10, that number as the product. But to get that number as the product of the greatest common factor [del]by another[/del] [ins]multiplied by a[/ins] number, since, by hypothesis, N is not zero, the multiplier must, by Theorem 19, be 0. Hence, by Definition 39, that greatest common factor is not a divisor of 0, one of the two numbers. In fact, 0, by Corollary 15, has no divisor but 0; and by Theorem 18, 0 is not a divisor of any number, N, different from 0. Hence 0 and N have no common divisor: this proves the third part of the rule in this case.
+
+[del]Second,[/del] Let the two numbers be A and B, both different from zero, and A > B. Let [ins]Q₁[/ins] be the Quotient of the division of A by B; and let

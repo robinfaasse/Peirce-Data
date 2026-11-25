@@ -1,0 +1,15 @@
+systematically. [pn]27[/pn]
+Page 196. Fifth Syllogism
+
+$\Sigma_i \Pi_j \{ a_i (p_{ij} + \beta_j) \} \Sigma_{j'} \Pi_{i'} \{ (c_{i'} + p_{i'j'}) \bar{\beta}_{j'} \}$
+
+$\Sigma_i \Pi_j \Sigma_{j'} \Pi_{i'} \{ a_i (p_{ij} + \beta_j) (c_{i'} + p_{i'j'}) \bar{\beta}_{j'} \}$
+
+The $\Pi_j \Sigma_{j'}$ by the formulae just obtained
+reduces thus
+
+$\Sigma_i \Pi_j \{ \Pi_{i'} a_i (p_{ij} + \beta_j) (c_{i'} + p_{i'j}) \bar{\beta}_j$
+$+ [ \Pi \Pi_{i'} a_i (p_{ij} + \beta_j) (c_{i'} + p_{i'j'}) \bar{\beta}_{j'} ] \}$
+
+$= \Sigma_i \Pi_j \{ \Pi_{i'} a_i p_{ij} (c_{i'} + p_{i'j}) \bar{\beta}_j$
+$+ [ \Pi \Pi_{i'} a_i p_{ij} (c_{i'} + p_{i'j'}) \bar{\beta}_{j'} ] \}$

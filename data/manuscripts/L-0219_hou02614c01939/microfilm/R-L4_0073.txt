@@ -1,0 +1,36 @@
+[pn]6[/pn]
+
+[del]d[/del] [ins]d[/ins] = (i = a) + (i = [u]a[/u]) + (i = a + [u]a[/u]) + (i = 0)
+
+d_2 = (i = a) + (i = [u]a[/u]) + (i = a + [u]a[/u])
+
+d_1 = (i = a) + (i = [u]a[/u]) + (i = 0)
+
+d_2 = (i = a) + (i = a + [u]a[/u]) + (i = 0)
+
+d_4 = (i = [u]a[/u]) + (i = a + [u]a[/u]) + (i = 0)
+
+d_5 = (i = a) + (i = [u]a[/u])
+
+d_6 = (i = a) + (i = a + [u]a[/u])
+
+d_7 = (i = a) + (i = 0)
+
+d_8 = (i = [u]a[/u]) + (i = a + [u]a[/u])
+
+d_9 = (i = [u]a[/u]) + (i = 0)
+
+d_10 = (i = a + [u]a[/u]) + (i = 0)
+
+d_11 = (i = a)
+
+d_12 = (i = [u]a[/u])
+
+d_13 = (i = a + [u]a[/u])
+
+d_14 = (i = 0)
+
+d_15 = (0)
+
+In the universe d = d_1 + ... d_16,
+{ d = (0) } = 1 . In any incum-

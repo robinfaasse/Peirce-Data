@@ -1,0 +1,55 @@
+[marginalia][date]V.6 23rd Nov 1905[/date] [date]1902[/date][/marginalia]
+
+[pn]2[/pn]
+
+[del]p = \sqrt{M + 2^x n} = \sqrt{\sqrt{2}(S+t) + \frac{1}{2}(S+t)}[/del]
+[del]= \sqrt{S} \sqrt{\sqrt{1 + (\frac{t}{S})^2} + \frac{1 + \frac{t}{S}}{2}}[/del]
+
+Hence [u]p < \sqrt{2S}[/u] and [del]a fortiori[/del] [ins]a fortiori[/ins] [u]p < S[/u].
+Hence it is impossible that two squares
+should have their sum and difference
+both squares.
+
+But if the right triangle whose legs and
+hypothenuse are a, b, h, had its area,
+\frac{1}{2}ab a square, [del]if[/del] [ins]then[/ins] h^2 and 4(\frac{1}{2}ab)
+would be two squares whose sum and
+difference were both squares.
+h^2 + 4(\frac{1}{2}ab) = (a+b)^2
+h^2 - 4(\frac{1}{2}ab) = (a-b)^2
+Hence there is no such triangle. It
+seems to be quite clear that that is
+what Fermat had in mind.
+
+If N = 0, the proof breaks down. -
+
+P.S. The following may amuse you. Fermat
+says that the area of a [ins]right[/ins] triangle whose
+legs and hypothenuse are whole numbers
+cannot be a square; and gives [del]this[/del] as the
+reason that if two squares have their
+sum and difference both squares, it
+would follow that there was another
+pair of squares of which the same was
+true, the sum of the second pair being
+less than that of the first. On this M.
+Cantor remarks "Er hat den Beweis jener
+Unmöglichkeit in räthselhafter Kürze
+angedeutet, dessen Schluss allein ganz
+klar und verständlich ist." This seems
+to me rather obtuse. Let M^2 and N^2 be
+such a pair of squares and assume that
+their sum is as small as that of any such
+pair. Then if they had any common
+divisor, division would give another pair
+of squares having the same property and
+a smaller sum, contrary to hypothesis.
+We may therefore assume they are relatively
+prime. As such both are not even. Nor can
+both be odd, since the sum of an odd square is
+1 + multiple of 8 and that of an even square
+a multiple of 4. Hence the larger is odd, the
+smaller even. Let M^2 > N^2 and write
+N^2 = 2^x n^2
+where n is an odd number. Then the
+hypothesis is that

@@ -1,0 +1,12 @@
+[fig]Circle with vertical wavy lines and a small central circle[/fig] We may suppose
+$$\vartheta = \frac{x}{\frac{b}{\sqrt[4]{x^2+y^2-R^2}} + \sqrt{y}}$$
+
+The curve $\vartheta = \sqrt{a}$ is [del]$\frac{x}{\sqrt{a}} - \sqrt{y} = \frac{b}{\sqrt[4]{x^2+y^2-R^2}}$[/del]
+
+[del]$$\frac{x^4}{a^2} - 4 \frac{x^3}{a^{\frac{3}{2}}} \sqrt{y} + 6 \frac{x^2}{a} y - 4 \frac{x}{\sqrt{a}} y \sqrt{y} + y^2 = \frac{b^2}{\sqrt{x^2+y^2-R^2}}$$[/del]
+
+[del]$$\left(\frac{x^4}{a^2} + 6 \frac{x^2}{a} y + y^2 - \frac{b^2}{\sqrt{x^2+y^2-R^2}}\right) = 4 \left(\frac{x^3}{a^{\frac{3}{2}}} + \frac{x}{\sqrt{a}} y\right) \sqrt{y}$$[/del]
+
+$$\frac{x}{\vartheta} = \frac{b}{\sqrt[4]{x^2+y^2-R^2}} + \sqrt{y}$$
+
+$$\left(\frac{x}{\vartheta} - \sqrt{y}\right) \left(x^2+y^2-R^2\right)^{\frac{1}{4}} = b$$

@@ -1,0 +1,22 @@
+[marginalia]
+Attraction
+3
+[/marginalia]
+
+$$\frac{dv}{du} \times \frac{d}{dv} (\frac{du}{dv}) \times 2 \frac{du}{dv} = 2 \cdot \frac{d}{dv} (\frac{du}{dv}) = 2 \frac{d^2u}{dv^2}.$$
+
+Applying this to the case in hand, we have
+$$\frac{d^2r}{dt^2} = \frac{1}{2} \frac{d}{dr} (\frac{dr}{dt})^2$$
+
+(7) Substituting, in this last equation, the value of $\frac{d^2r}{dt^2}$ of (5), we get
+$$\frac{d}{dr} (\frac{dr}{dt})^2 = - \frac{2k}{r^3}$$
+
+Whence by integration
+$$(\frac{dr}{dt})^2 = \frac{k}{r^2} - C$$
+
+where $C$ is an arbitrary constant. The quantity $(\frac{dr}{dt})^2$ is the square of the upward velocity (i.e. outward from the centre). Since in this case it is the [del]resultant[/del] [ins]practical[/ins] velocity, it is the old vis viva.
+
+Let us [del]call[/del] [ins]denote[/ins] the [del]variable[/del] [ins]resultant[/ins] velocity by $v$, and the initial velocity by $v_0$. Then we have
+$$v = \sqrt{\frac{k}{r^2} - C}$$
+
+We chose the [del]upper[/del] [ins]positive[/ins] sign, because we are considering only that portion of the motion which takes place before the fall begins. The constant $C$ must be taken as positive, for otherwise the

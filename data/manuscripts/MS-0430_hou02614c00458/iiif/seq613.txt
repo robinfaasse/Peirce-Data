@@ -1,0 +1,21 @@
+Logic
+III
+45
+
+Consider this graph
+[fig]man — (wounded disgraced[/fig]
+This asserts that something is at once, a man, wounded, and
+disgraced. Then the following
+[fig]man — (wounded [del]disgraced[/del])[/fig]
+will mean that something is identical with a man wounded
+but not disgraced. The following
+[fig]man — (([del]wounded[/del] disgraced))[/fig]
+will mean that something is identical with a man who
+is [del]at once wounded and disgraced;[/del] [ins]identical with a thing that is [del]some man is either not wounded or not disgraced;[/del][/ins] [ins]thing that is, some man is either not wounded or not disgraced; while[/ins]
+[fig]man — ([del]wounded[/del] [del]disgraced[/del])[/fig]
+will signify that something is a man who is not wounded
+[u]and[/u] not disgraced. The continuity of the identity is unaffected
+by the oval. Then,
+[fig]— (wounded)[/fig]
+will mean ‘something is not wounded’; while
+[fig](— wounded)[/fig]

@@ -1,0 +1,48 @@
+[u]The doctrine of substantive possibility[/u]
+
+If I say.
+# $\Sigma_{\alpha} \Pi_{i} \Sigma_{j} \bar{a}_{i} + r_{\alpha ji} \cdot b_{j}$
+
+I assert the existence of $b_{j}$ which is matter of
+fact, and not necessary. But if this is
+not so, then
+$\Pi_{\alpha} \Sigma_{i} \Pi_{j} a_{i} \cdot (\bar{r}_{\alpha ji} + \bar{b}_{j})$
+
+whence it will follow that
+$\Sigma_{\beta} \Pi_{j} \Sigma_{i} \bar{b}_{j} + r_{\beta ji} \cdot a_{i}$
+
+Let $c_{\alpha ji}$ mean $j$ is in the one to one correspondence $\alpha$ to $i$
+
+If
+$\Sigma_{\alpha} \Pi_{i} \Sigma_{j} \bar{a}_{i} + c_{\alpha ji} \cdot b_{j}$
+is not true, then what is true is that
+$\Pi_{\alpha} \Sigma_{i} \Pi_{j} a_{i} \cdot (\bar{c}_{\alpha ji} + \bar{b}_{j})$
+From this, how am I to infer
+$\Sigma_{\beta} \Pi_{j} \Sigma_{i} \bar{b}_{j} + c_{\beta ji} \cdot a_{i}$ ?
+[del]To say[/del] [del]$\Pi_{\alpha} \Pi_{j} \Sigma_{i} \bar{b}_{j} + a_{i} \cdot \bar{c}_{\alpha ji}$[/del]
+[del]would not be so much as to say[/del] that there are [del]two[/del] $b$s.
+would be merely to say that if there is a $b$ there are more than one $a$s.
+
+Therefore if there is no $b$ or if there are more than one $a$s
+it is always false that
+$\Sigma_{\alpha} \Sigma_{j} \Pi_{i} b_{j} \cdot (c_{\alpha ji} + \bar{a}_{i})$
+
+!!!
+
+To say that every collection of exclusive pairs
+consisting of an $a$ and $b$ omits an $a$ and a $b$
+is absurd; yet [del]to[/del] how it is so is not clear.
+Let Pair$_{ij}$ means that $i$ and $j$ form [del]a[/del] a pair of
+the collection of mutually exclusive pairs $\alpha$
+Then the absurdity is
+$\Pi_{\alpha} \Sigma_{i} \Sigma_{j} a_{i} \cdot b_{j} \cdot \bar{\text{Pair}}_{ij}$
+Because, I having selected a [del]pair of[/del] collection of pairs $\alpha$
+you say I have omitted the pair $a_{i} \cdot b_{j}$. But I might
+have included this. You cannot name any that
+I might not have included.
+No the point is
+$\Sigma_{\alpha} \Pi_{i} \Pi_{j} \Sigma_{k} \text{[del]Pair[/del]}_{ik} \cdot \bar{a}_{i} + \bar{b}_{j} + \text{Pair}_{ik} \cdot b_{k} + \text{Pair}_{kj} \cdot a_{k}$
+the absurdity is
+$\Pi_{\alpha} \Sigma_{i} \Sigma_{j} \Pi_{k} a_{i} \cdot b_{j} \cdot (\bar{\text{Pair}}_{ik} + \bar{b}_{k}) \cdot (\bar{\text{Pair}}_{kj} + \bar{a}_{k})$
+and the absurdity consists in there being here a description
+of a collection of pairs of which it is not true.

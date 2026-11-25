@@ -1,0 +1,33 @@
+[u]CHAPTER THE SIXTH[/u]. [u]Evolution[/u].
+To extract the Square Root of a given number,
+[u]1[sup]st[/sup][/u], Move the bar through an even number of places to the right or
+left, so as to make the modified number > 1 and < 100.
+Then the 1[sup]st[/sup] approximation will be 1, and its square will be 1.
+[u]2[sup]d[/sup][/u], Go through the following Staple Operation repeatedly until the
+square of the last approximation is as near the modified number as you
+care to have it:
+i Under the square of the approximation last obtained write that
+approximation itself, beginning at such a place that when added to its
+square it shall give a sum less than the modified number but as little less
+as possible,
+ii Let n-1 be the number of place by which the last number extends
+to the right of the last 1 of the number above it. Affix to the last number n 0s and
+a 1.
+iii. Add the last two numbers, and the sum will be the square of the
+next approximation, which approximation will be found by adding to the
+last a 1 in the n[sup]th[/sup] place after its last 1.
+[u]3[sup]d[/sup][/u], When the Staple Operation has given a close enough result, move the bar
+back in the opposite direction [del]and by[/del] [ins]through[/ins] half as many places as in the 1[sup]st[/sup] operation.
+[u]Example[/u] Find the square root of 7 or 111 Modified number 111
+[del](1)[sup]10[/sup] = 1[/del]
+[del](101)[sup]10[/sup] =[/del] [fig]arrow pointing right[/fig] 1,001
+(101)[sup]10[/sup] = [fig]arrow pointing right[/fig] 1,001
+[fig]arrow pointing right[/fig] 101,001
+(10101)[sup]10[/sup] = 10111001
+[fig]arrow pointing right[/fig] 10101,001
+(10101001)[sup]10[/sup] = 10111[del]1[/del] [ins]0[/ins]10010001
+[fig]arrow pointing right[/fig] 10101001,001
+(1010100101)[sup]10[/sup] = 101111111001011001
+(101010010101)[sup]10[/sup] = 10111111111001011001001
+101010010101,001
+10111111111110010110010001

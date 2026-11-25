@@ -1,0 +1,25 @@
+[pn]98[/pn]
+
+[u]Euler's Formula.[/u]
+
+§ 44. There is a relation between the numbers of summits, edges, faces, and spaces of a polyhedron, which was first partially made out in [date]1752[/date]* by Leonhard Euler, born in Basle, [date]1707[/date], died in St. Petersburg, [date]1783[/date], who during his 50 years of activity made more mathematical discoveries than any other man who ever lived, his contributions, numbering near 800 separate pieces, being many of them most important. Yet his genius was not quite of the highest mathematical type. His statement was,
+
+[u]Faces[/u] + [u]Summits[/u] = [u]Edges[/u] + 2.
+
+This is called Euler's topological formula. It [del]is[/del] [ins]was found to be[/ins] subject to exceptions; and the Göttingen professor of physics, Johann Benedict Listing (b. [date]1808[/date] - d. [date]1882[/date]) who may [ins](in [date]1847[/date])[/ins] be called the creator of Topology as a distinct branch of study, produced in [date]1861[/date] an important extension of Euler's formula, which is called Listing's Census. It is expressed thus:
+
+Summits - Edges + Faces - Spaces = 0.
+
+But instead of the actual numbers are to be used the following:
+
+[del]Summits[/del] = Actual summits
+Edges = Actual edges - Cyclosis (1 for closed edges, 0 for [del]interrupted[/del] [ins]bounded edges[/ins])
+Faces = Actual faces - [del]Gelosis[/del] [ins]Cyclosis[/ins] + Periphraxis (1 for closed faces, 0 for bounded faces)
+Spaces = Actual spaces - [del]Cyclosis[/del] [ins]Gelosis[/ins] + Periphraxis - Unboundedness (1 for unbounded space, 0 for all bounded spaces).
+
+[del]These corrections are[/del] This formula is open to some criticism; although the general formula is, no doubt, of the right form.
+
+Let us see how far we can reason out the question for ourselves.
+
+* Elementa doctrina solidorum. In Novi Commentarii Acad. Sci. Petropol IV. 109, Also [del]Demonstratio[/del] nonnullarum insignium proprietatum quibus solida hedriss planis sunt praedita. p 140 [del]Ibid[/del]
+† Der Census räumlicher Complexe. Abhandlungen der k. Gesellschaft der Wissensch. In Göttingen X. 97.

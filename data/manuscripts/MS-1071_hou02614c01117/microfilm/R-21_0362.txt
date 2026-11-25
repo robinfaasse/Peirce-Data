@@ -1,0 +1,39 @@
+(1) $(x/X)^2 + (y/Y)^2 + (z/Z)^2 = 1$
+
+If $X=Y$
+(2) $\frac{(x^2+y^2)}{X^2} + \frac{z^2}{Z^2} = 1$
+
+If we [del]put[/del] [ins]denote[/ins] $x^2+y^2$ [del]by[/del] [ins]by $r^2$[/ins] and adopt Hayford's value of the compression of the earth
+(2) becomes
+(3) $(0.99323 \pm V) r^2 + z^2 = Z^2$
+where $V = 10^{-5}$
+
+Changing the origin to the N pole, by putting $z = Z - z$
+
+(4) $(0.99323 \pm V) r^2 = 2Zz - z^2$
+or
+(5) $(0.99661 \pm \frac{1}{2}V) r = \sqrt{2Zz - z^2}$
+or
+(6) $r = (1.003401 \pm .5V) \sqrt{2Zz - z^2}$
+
+Differentiating, we get
+(7) $dr = (1.003401 \pm .5V) \frac{Z(Z-z)}{\sqrt{2Zz - z^2}} dz$
+
+Squaring
+(8) $(dr)^2 = (1.006814 \pm 1.1V) \left(\frac{Z^2}{2Zz - z^2} - 1\right) (dz)^2$
+
+(9) $(dz)^2 + (dr)^2 = (1.006814 \pm 1.1V) \frac{Z^2}{2Zz - z^2} (dz)^2 - (0.006814 \pm 1.1V) [del]dz^2[/del]$
+
+[del](10) $\sqrt{dz^2 + dr^2}$[/del] $= \left[ \frac{Z^2}{2Zz - z^2} + (0.006814 \pm 1.1V) \frac{(Z-z)^2}{2Zz - z^2} \right] (dz)^2$
+$= \frac{Z^2}{2Zz - z^2} \left[ 1 + 0.006814 \pm 1.1V) \left(1 - \frac{z}{Z}\right)^2 \right] (dz)^2$
+
+Which will give nearly
+(10) $\sqrt{(dz)^2 + (dr)^2} = \frac{Z}{\sqrt{2Zz - z^2}} \left[ 1 + .003407 \left(1 - \frac{z}{Z}\right)^2 \right] dz$
+
+[marginalia]
+$v = (1+u)^{\frac{1}{2}}$
+$D_u v = \frac{1}{2} \frac{1}{(1+u)^{\frac{1}{2}}}$
+$D_u^2 v = -\frac{1}{4} \frac{1}{(1+u)^{\frac{3}{2}}}$
+$D_u^3 v = +\frac{3}{8} \frac{1}{(1+u)^{\frac{5}{2}}}$
+$D_u^4 v = -\frac{15}{16} \frac{1}{(1+u)^{\frac{7}{2}}}$
+[/marginalia]

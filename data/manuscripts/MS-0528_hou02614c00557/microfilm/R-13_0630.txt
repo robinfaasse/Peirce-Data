@@ -1,0 +1,17 @@
+Of formulae of four terms without a parenthesis in $v$ and
+$f$ the only one that is false is $v -: v -: v -: f$. This follows
+so obviously from the falsity of $v -: v -: f$ that it leads
+to nothing worth mention, except that in every formula
+without parenthesis having any number of terms all the
+terms except the last can be transposed at will. Of for-
+mulae of the form $a -: (b -: c) -: d$ there are three that are
+false, viz:-
+$$v -: (f -: f) -: f \quad v -: (f -: v) -: f \quad v -: (v -: v) -: f.$$
+We at once see that the formula
+$$a -: (a -: b) -: b$$
+is necessarily true. Of formulae of the form $((a -: b) -: c) -: d$,
+in $v$ and $f$, the following are false:
+$$((v -: f) -: f) -: f \quad ((v -: f -: [del]v[/del][ins]f[/ins]) -: f \quad (f -: f -: [del]v[/del][ins]f[/ins]) -: f \quad ((f -: v) -: v) -: f$$
+$$((v -: v) -: v) -: f.$$
+These yield the necessary formula
+$$((a -: b) -: a) -: a.$$

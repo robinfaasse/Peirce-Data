@@ -1,0 +1,9 @@
+[fig]Compass rose with directions N, E, S, W, Z, C[/fig]
+
+$$i^2 = N:S + E:W + S:N + W:E [del]+ C:Z + Z:C + X:Y + Y:X[/del]$$
+
+$$i = N:E + E:S + S:W + W:N + C:X + Z:Y + X:Z + Y:C$$
+$$j = N:C + E:Y + S:Z + W:X + C:S + Z:N + X:E + Y:W$$
+$$ij = k = N:Y + E:Z + S:X + W:C + C:E + Z:W + X:N + Y:S$$
+$$ji = [del]k =[/del] [del]N:C[/del] + E:C + W:Z + C:W + Z:E$$
+$$[del]ji =[/del] + S:Z + C:S + Z:N$$

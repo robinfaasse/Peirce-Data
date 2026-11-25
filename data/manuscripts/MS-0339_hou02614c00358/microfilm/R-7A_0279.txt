@@ -1,0 +1,31 @@
+The relation is to have as aggregants
+
+$r$ and $\frac{s}{x}$
+
+$(r + \frac{s}{x} + x) (r + \frac{s}{x} + x)$
+
+$= r r + r \frac{s}{x} + r x + \frac{s}{x} r + \frac{s}{x} \frac{s}{x}$
+
+$+ r x + \frac{s}{x} x + x r + x \frac{s}{x} + x x$
+
+The negative converse of it will be
+
+$r \cdot \frac{s}{x} \cdot \breve{x}$
+
+Now $(r \cdot \frac{s}{x} \cdot \breve{x}) (r \cdot \frac{s}{x} \cdot \breve{x})$
+
+$\prec r r \cdot r \frac{s}{x} \cdot r \breve{x} \cdot \frac{s}{x} r \cdot \frac{s}{x} \frac{s}{x} \cdot \frac{s}{x} \breve{x} \cdot \breve{x} r \cdot \breve{x} \frac{s}{x} \cdot \breve{x} \breve{x}$
+
+Does it somehow depend on $x(y \dagger z) \prec x y \dagger z$
+
+$x(y \dagger z) \prec x \dagger y$
+
+Say the relation is $(x \dagger y \dagger z) (x \dagger y \dagger z)$
+
+$\prec x x \dagger x y \dagger x z \dagger y x \dagger y y \dagger y z \dagger z x \dagger z y \dagger z z$
+
+Hence we $\breve{x} (\breve{y} \dagger \breve{x}) \prec \breve{x} \breve{y} \dagger \breve{x}$
+
+$(\breve{x} \breve{y} \dagger \breve{x}) (\breve{x} \breve{y} \dagger \breve{x})$
+
+$\prec \breve{x} \breve{y} \breve{x} \breve{y} \dagger \breve{x} \breve{y} \breve{x} \dagger \breve{x} \breve{x} \breve{y} \dagger \breve{x} \breve{x}$

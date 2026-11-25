@@ -1,0 +1,48 @@
+To calculate $[M]$
+
+$$\frac{-1+\rho}{3(1+t)} \equiv \text{multiplier}$$
+
+$$\begin{array}{c|c|c}
+\frac{1-t}{1+t} & \frac{-t+(1-t)\rho}{1+t} & \frac{-1+(-1+t)\rho}{1+t} \\
+\frac{-1+t}{1+t} + \rho & \frac{+t-1+t}{1+t} & \frac{+1}{1+t} + \frac{+1-t}{1+t} \rho \\
+\hline
+\{-1-t+(1+t)\rho\} A & \{-1+t-(2+t)\rho\} B & \{2-t+(1-2t)\rho\} C
+\end{array}$$
+
+$$\begin{aligned}
+[M] &= \frac{\begin{array}{c} 1-t \\ \frac{-1+t}{1+t} + \rho \end{array} A + \begin{array}{c} -t+(1-t)\rho \\ \frac{+t-1+t}{1+t} \end{array} B + \begin{array}{c} -1+(-1+t)\rho \\ \frac{+1}{1+t} + \frac{+1-t}{1+t} \rho \end{array} C}{\{-1-t+(1+t)\rho\} A + \{-1+t-(2+t)\rho\} B + \{2-t+(1-2t)\rho\} C} \\
+&= \frac{\{3t+3t\rho\} B + \{3-3t\rho\} C}{3(1+t)} \\
+&= \frac{t(1+\rho) B + (1-t\rho) C}{1+t}
+\end{aligned}$$
+
+$$[P] = [M] + \mu [Q] = [N] + \nu [O]$$
+
+$$\text{Coeff of } A$$
+$$\mu = \frac{t-\rho}{t^2-t+1} + \nu$$
+$$\frac{t-\rho}{t-1-\rho}$$
+$$\frac{t^2-3}{t+1}$$
+$$\overline{t^2+t^2-t+3}$$
+
+$$\text{Coeff of } C$$
+$$\frac{1-t\rho}{1+t} + \mu \rho = -\nu - \nu \rho$$
+$$\frac{1-t\rho}{1+t} + \frac{t\rho + (1+t)\rho}{t^2-t+1} + \nu \rho = -\nu - \nu \rho$$
+$$\frac{t-1-\rho}{t-1-\rho}$$
+$$\frac{t^3-t^2+t}{+t^2-t+1}$$
+$$\frac{t^2-t+1 + (t^3+t^2-t)\rho}{t^2+1 + (t^3+t^2+t+1)\rho}$$
+$$t^2+2 + (2t^2+1)\rho = (1-2\rho) [ins](t^3+1)[/ins] \nu$$
+
+$$\nu = \frac{u'' + v'' \rho}{t-2\rho}$$
+$$\frac{u'' - 2u'' \rho}{+ v'' \rho}$$
+$$\frac{+ 2v'' + 2v'' \rho}{u''+2v'' + (-2u''+3v'')\rho}$$
+
+$$u''+2v'' = \frac{t^2+2}{t^3+1}$$
+$$-2u''+3v'' = \frac{2t^2+1}{t^3+1}$$
+$$2u''+4v'' = \frac{2t^2+4}{t^3+1}$$
+$$7v'' = \frac{4t^2+5}{t^3+1}$$
+
+$$3u''+6v'' = \frac{3t^2+6}{t^3+1}$$
+$$-4u''+6v'' = \frac{6t^2+3}{t^3+1}$$
+$$7u'' = \frac{-3t^2+3}{t^3+1}$$
+
+$$\nu = \frac{-3t^2+3 + (4t^2+5)\rho}{7(t^3-1)}$$
+$$\mu = \frac{7t^2+4t^2+3 + (4t^2-7t-2)\rho}{7(t^3+1)}$$

@@ -1,0 +1,30 @@
+[pn]186[/pn]
+
+that the numerator of each shall be any constant number of
+times the numerator of the one just before it increased by
+a second constant number of times the denominator of that
+preceding fraction, while the denominator of each shall be
+the first constant number of times the denominator preceding
+diminished by the second constant number of times the
+numerator preceding. To express this algebraically, let
+the fractions be $\frac{P_{0}}{Q_{0}}$, $\frac{P_{1}}{Q_{1}}$, $\frac{P_{2}}{Q_{2}}$, $\frac{P_{3}}{Q_{3}}$ etc. Let any one be $\frac{P_{n}}{Q_{n}}$,
+and the next following $\frac{P_{n+1}}{Q_{n+1}}$. Then, [del]that[/del] taking $q$ and $p$ for
+the two constants.
+
+$$\frac{P_{n+1}}{Q_{n+1}} = \frac{q P_{n} + p Q_{n}}{q Q_{n} - p P_{n}} .$$
+
+If we take $q = 19$ and $p = 10$, and take $\frac{P_{0}}{Q_{0}}$ as $\frac{0}{1}$, the
+other fractions will be found on calculation to be
+
+$$\begin{array}{lcr}
+\frac{P_{1}}{Q_{1}} = & \frac{10}{19} & = + 0.526 \\
+\frac{P_{2}}{Q_{2}} = & \frac{380}{261} & = + 1.456 \\
+\frac{P_{3}}{Q_{3}} = & \frac{9830}{1159} & = + 8.481 \\
+\frac{P_{4}}{Q_{4}} = & \frac{198300}{-76279} & = - 2.598 \\
+\frac{P_{5}}{Q_{5}} = & \frac{3006050}{-3432901} & = - 0.875 \\
+\frac{P_{6}}{Q_{6}} = & \frac{22785940}{-95285619} & = - 0.239 \\
+\frac{P_{7}}{Q_{7}} = & \frac{-519923330}{-2038286161} & = + 0.255 \\
+\frac{P_{8}}{Q_{8}} = & \frac{-30261404880}{-33528203759} & = + 0.903 \\
+\frac{P_{9}}{Q_{9}} = & \frac{-910248730310}{-334421022621} & = + 2.722 \\
+\frac{P_{10}}{Q_{10}} = & \frac{-20638944096790}{+2748472673301} & = - 7.509
+\end{array}$$

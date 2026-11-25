@@ -1,0 +1,15 @@
+[fig]Two intersecting curves[/fig]
+
+$$D_t^2 \phi = -\frac{g}{l} \phi$$
+
+$$\phi = A \cos (\sqrt{\frac{g}{l}} \cdot (t - t_0))$$
+
+$$\lambda_1 \lambda_2 - \beta_1 \beta_2 - \lambda_2^2$$
+
+$$\left( \frac{\lambda_1 - \lambda_2}{2} \lambda_2 - \beta_1 \beta_2 \mp \lambda_2 \right) \phi_1 =$$
+
+$$A \left( - \frac{\lambda_1 \lambda_2 - \beta_1 \beta_2}{\lambda_1 + \frac{\beta_1 \beta_2}{\lambda_1 - \lambda_2}} + \lambda_2 \right) \phi_1 = \beta_1 \phi_2$$
+
+$$= \lambda_1 \lambda_2 + \beta_1 \beta_2 + \lambda_1 \lambda_2 + \frac{\beta_1 \beta_2 \lambda_2}{\lambda_1 - \lambda_2}$$
+
+$$\frac{\beta_1 \beta_2 \frac{\lambda_1}{\lambda_1 - \lambda_2}}{\lambda_1 + \frac{\beta_1 \beta_2}{\lambda_1 - \lambda_2}} = \frac{\beta_1 \beta_2 \lambda_1}{\lambda_1 (\lambda_1 - \lambda_2) + \beta_1 \beta_2} = \frac{\phi_2}{\phi_1} = \frac{1}{\frac{\lambda_1 - \lambda_2}{\beta_2} + \frac{\beta_1}{\lambda_1}} \cdot \left( 1 + \frac{\lambda_2}{\lambda_1 - \lambda_2} \right)$$

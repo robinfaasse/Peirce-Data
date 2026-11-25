@@ -1,0 +1,25 @@
+If there are 3 individuals in the
+universe, I fancy even [del]a[/del] [ins]$\alpha$[/ins] cannot
+be eliminated
+
+$\alpha A:A + \beta A:B + \gamma A:C = x$
+$+ \delta B:A + \epsilon B:B + \zeta B:C$
+$+ \eta C:A + \theta C:B + \iota C:C$
+_________________________________
+
+$x:x = (\alpha^2 + \beta\delta + \gamma\eta) A:A$
+$+ (\alpha\beta + \beta\epsilon + \gamma\theta) A:B$
+$+ (\alpha\gamma + \beta\zeta + \gamma\iota) A:C$
+$+ (\delta\alpha + \epsilon\delta + \zeta\eta) B:A$
+$+ (\delta\beta + \epsilon^2 + \zeta\theta) B:B$
+$+ (\delta\gamma + \epsilon\zeta + \zeta\iota) B:C$
+$+ (\eta\alpha + \theta\delta + \iota\eta) C:A$
+$+ (\eta\beta + \theta\epsilon + \iota\theta) C:B$
+$+ (\eta\gamma + \theta\zeta + \iota^2) C:C$
+
+Yes $x$ can be eliminated
+And it can always be eliminated
+for any finite universe.
+But when the universe is infinite,
+which is the general case, $x$
+cannot be eliminated.

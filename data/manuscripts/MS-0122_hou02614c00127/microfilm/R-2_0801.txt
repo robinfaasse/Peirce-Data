@@ -1,0 +1,18 @@
+$$F^0 x = x = \frac{C_1 (\alpha - \beta + \gamma) + C_2 \gamma}{C_1 + C_2} + \beta - \gamma$$
+
+which gives $\frac{C_1 - C_2}{C_1 + C_2} = \frac{2x - \alpha - \beta}{\alpha - \beta}$
+
+and
+
+$$F^n x = \frac{\alpha (x - \beta) (\alpha - \beta + \gamma)^n + \beta (\alpha - x) \gamma^n}{(x - \beta) (\alpha - \beta + \gamma)^n + (\alpha - x) \gamma^n}$$
+
+when $(\frac{\alpha - \beta + \gamma}{\gamma})^n = R^n$, a positive quantity,
+
+[del]$$F^n x = \frac{(\alpha - \beta + \gamma)^n \alpha (x - \beta) + \beta (\alpha - x) \gamma^n}{(\alpha - \beta + \gamma)^n (x - \beta) + (\alpha - x) \gamma^n}$$
+$$= \frac{\alpha (R^n - 1) x - \alpha \beta R^n}{(R^n - 1) x + \alpha - \beta R^n}$$[/del]
+
+$$F^n = \frac{(\alpha R^n - \beta) x - \alpha \beta (R^n - 1)}{(R^n - 1) x + \alpha - \beta R^n}$$
+
+If [del]$R > 1$[/del] $R > 1$ we have $F^\infty = \alpha$, $F^{-\infty} = \beta$; but
+
+if $R = 1$ $F^n x = x$.

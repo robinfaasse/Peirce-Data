@@ -1,0 +1,50 @@
+$$
+\begin{array}{ll}
+x'_1 = a_1 x_1 + a_2 x_2 & x'_1 = a_1 x_2 \\
+x''_1 = b_1 x'_1 + b_2 x'_2 & x''_1 = b_1 x'_2 \\
+\\
+x''_1 = a_1 b_1 x_1 + a_2 b_1 x_2 & x''_1 = a_1 b_1 x_2 \\
+\qquad + a_1 b_2 x_2 & \\
+\\
+y'_1 = y_1 + a_1 y_2 + \log a_1 & y'_1 = y_2 \\
+y''_1 = y'_1 + b_1 y'_2 + \log b_1 & y''_2 = y'_2 \\
+\\
+y''_1 = y_1 + a_1 y_2 + \log a_1 & y''_2 = y_2 \\
+\qquad + b_1 y_2 + \log b_1 & \\
+\quad y_1 + c_2 y_2 + \log c_1 & 
+\end{array}
+\qquad
+\begin{array}{l}
+\begin{array}{llllllll}
+a & b & & & [del]d'[/del] & [del]e'[/del] & & h \\
+a & [del]b[/del] & c & & [del]d'[/del] & & b' & g & \\
+a & [del]b[/del] & & \delta & & e' & b' & f & \\
+[del]a[/del] & & & [del]d[/del] & & & f & g & h
+\end{array} \\
+\hline \\
+\begin{array}{llllllll}
+a & b & & & & & & \\
+a & & [del]c[/del] & & & & & 2^{2^0} \quad 2 \\
+a & & & \delta & & & & 2^{2^1} \quad 4 \\
+& & 2^{N+1} = 2^W & , & 2 & [del]\begin{array}{c} 16 \\ 16 \\ 256 \end{array}[/del] & & 2^{2^2} \quad 16 \\
+\bar{a} & b & & d & & & f & g & 2^{2^3} \quad 256 \\
+\bar{a} & [del]b[/del] & e & d & & f & & g & \\
+& & & & e & f & f & g & [fig]profile sketch[/fig] \\
+& & & & & & & h & 
+\end{array} \\
+\hline \\
+\begin{array}{c|c|c|c|c}
+\phi & 0 & 0 & 0 & 0 \\
+\hline
+\phi & & 1 & 1 & 1 \\
+\hline
+ & & & [del]10[/del] & 10 \\
+ & & & [del]11[/del] & 11 \\
+\hline
+ & & & & 100 \\
+ & & & & 101 \\
+ & & & & 110 \\
+ & & & & 111
+\end{array}
+\end{array}
+$$

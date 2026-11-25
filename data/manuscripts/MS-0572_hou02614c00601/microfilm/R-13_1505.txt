@@ -1,0 +1,40 @@
+$$
+\begin{aligned}
+c &= \tfrac{1}{2}(1 - i\sqrt{-}) \\
+s &= \tfrac{1}{2}(1 + i\sqrt{-}) \\
+t &= \tfrac{1}{2}(j - k\sqrt{-}) \\
+p &= \tfrac{1}{2}(-j - k\sqrt{-})
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+& u c + v t + w p + x s \\
+= & \tfrac{1}{2}u - \tfrac{1}{2}u\sqrt{-}i + \tfrac{1}{2}vj - \tfrac{1}{2}v\sqrt{-}k \\
+& + \tfrac{1}{2}x + \tfrac{1}{2}x\sqrt{-}i - \tfrac{1}{2}wj - \tfrac{1}{2}w\sqrt{-}k \\
+& \tfrac{1}{2}(x+u) + \tfrac{1}{2}(x-u)\sqrt{-}i + \tfrac{1}{2}(v-w)j + \tfrac{1}{2}(-v-w)\sqrt{-}k
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+t - p \\
+(t + p)\sqrt{-}
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+c + [del]p[/del] [ins]s[/ins] &= 1 \\
+c\sqrt{-} - [del]p\sqrt{-}[/del] [ins]s\sqrt{-}[/ins] &= i \\
+t - [del]s[/del] [ins]p[/ins] &= j \\
+t\sqrt{-} + [del]s[/del] [ins]p[/ins]\sqrt{-} &= k
+\end{aligned}
+$$
+
+[fig]Multiplication table for 1, i, j, k[/fig]
+
+General form $(a:b)(b:c) = a:c$
+$(a:c)(b:d) = 0$
+
+This the general form of, linear algebra.

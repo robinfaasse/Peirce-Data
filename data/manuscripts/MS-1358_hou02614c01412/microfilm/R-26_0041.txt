@@ -1,0 +1,65 @@
+[marginalia]
+Morrison's Bridge [date]1898 Sep 3[/date]
+[/marginalia]
+
+[pn]3[/pn]
+
+To back to assumption
+
+$$\begin{array}{ll}
+x_0 = 0.4 & x_2 = 14.4 \\
+y_0 = 0.1 & y_2 = 1.0
+\end{array}$$
+
+$$\begin{array}{ll}
+\text{But } 1 - \frac{R_0}{R_0} = 0.1 & 1 - \frac{R_i}{R_i} = 0.05 \\
+\frac{R_0}{R_0} = 0.9 & \frac{R_i}{R_i} = 0.95 \\
+\frac{R_0}{R_0} = 1.11111 & \frac{R_i}{R_i} = 1.05263158 \\
+\text{But } R_0 = 13 \quad R_0 = 14.4444 & R_i = 5.2631579 = 5 \frac{5}{19}
+\end{array}$$
+
+$$\begin{array}{l}
+13 \frac{13}{13} \\
+14^2 + \frac{8}{9} 14 + \frac{16}{81}
+\end{array}$$
+
+$$\begin{array}{l}
+25 + \frac{5}{19} 10 + \frac{25}{361} \\
+25.63158 \\
+\phantom{25.}\underline{692} \\
+27.7008
+\end{array}$$
+
+$$\begin{array}{l}
+\underline{(x_1 - x_0)^2 + (y_1 - y_0)^2} = \\
+(x_1 - x_0)^2 + (y_1 - y_0)^2 = 208.642 \\
+(x_2 - x_1)^2 + (y_1 - y_2)^2 = 27.701
+\end{array}$$
+
+$$\begin{array}{l}
+x_1^2 - 0.8 x_1 + 0.16 + y_1^2 - 0.2 y_1 + 0.01 = 208.642 \\
+x_1^2 - 28.8 x_1 + 207.36 + y_1^2 - 2 y_1 + 1 = 27.701 \\
+\hline
+28 x_1 - 207.20 + 1.8 y_1 - 0.99 = 180.941 \\
+\phantom{28 x_1 - 207.20 + 1.8 y_1 - 0.99 = } \begin{array}{r} 207.20 \\ .99 \end{array} \\
+28 x_1 + 1.8 y_1 = 389.131 \\
+14 x_1 + 0.9 y_1 = 194.5655 \\
+1.555 x_1 + 0.1 y_1 = 21.6184 \\
+y_1 = 216.1839 - 15.556 x_1
+\end{array}$$
+
+$$\begin{array}{l}
+y_1^2 = 46737.7 - 6725.72 x_1 + 241.975 x_2^2 \\
+2 y_1 = 432.368 - 31.1111 x_1
+\end{array}$$
+
+$$\begin{array}{l}
+242.975 x_1^2 - 6723.41 x_1 = 208.472 \\
+243 x_1^2 - 6724.08 x_1 = 208.493 \\
+242.975 x_1^2 - 6692.30 x_1 = 236.061
+\end{array}$$
+
+$$\begin{array}{l}
+\begin{array}{r} 208.36 \\ 27.701 \\ \hline 236.061 \end{array} \\
+\begin{array}{l} -6725.72 x_1 \\ \phantom{-}\underline{\phantom{67}28.8} \\ -6754.52 \\ \phantom{-}\underline{\phantom{67}62.22} \\ \phantom{-}6692.30 \end{array}
+\end{array}$$

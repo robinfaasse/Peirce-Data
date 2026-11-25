@@ -1,0 +1,73 @@
+[fig]Row of dots and dashes[/fig]
+
+[fig]Row of dots and dashes[/fig]
+
+[fig]Row of vertical dashes[/fig]
+
+[fig]Knot diagram[/fig]
+[fig]Knot diagram[/fig]
+[fig]Knot diagram[/fig]
+[fig]Knot diagram[/fig]
+
+[fig]Two concentric circles with a radial line segment[/fig] [fig]Two concentric circles with a small bump on the outer circle[/fig]
+
+[del]01[/del]
+[del]12[/del]
+
+01 02
+01
+02 12
+03 [del]13[/del] 23
+04 14
+
+[del]1[/del]
+[del]-1[/del]
+[u]1 - 1 = 0[/u]
+
+1
+[u]-1[/u]
+0
+
+[fig]Two concentric circles[/fig] [fig]Two concentric circles with a radial line segment[/fig]
+
+1
+-2
+[u]+1[/u]
+0
+
+1
+-1
+[u]+1[/u]
+[del]0[/del] 0
+
+[del]n(n-1)-n[/del]
+[del]n(n-1)(n-2)[/del]
+[u]6[/u]
+
+8
+n(n-2)
+
+0
+1 0
+2 1 0
+3 3 2 1
+4 6 4 3
+5 [del]10[/del] 6 10
+6 [del]15[/del] [del]10[/del]
+
+012
+013 023 123
+014 024 034 124 134 234
+
+[del]1/2 n^2 - 1/2 n[/del]
+[del]1/2 n^2 - 1/2 n - 1[/del]
+[del]n^2 - 2n[/del]
+
+2n - 3/2 = ±2 n -
+n = 3/4 ± 1
+2n^2 - 3n - 1
+4n^2 - 6n = 2
++ 9/4 = 17/4
+
+3/2 9/4 2n - 3/2
+4n^2 - 6n + 9/4

@@ -1,0 +1,22 @@
+[u]Second part of theorem 2.[/u] $x_1(y+z) \prec x_1y + x_2z$. (Boole.)
+(Peirce.) $x_1y + x_2\bar{x} \succ (\bar{z}+\bar{x})_1(y+z)$
+
+[u]Proof[/u]. By VII,
+$x_1(y+z) \prec y_1x_2(y+z) + \bar{y}_1x_1(y+z)$
+[del]$+ (\bar{z}+\bar{x})_1x_2(y+z)$[/del]
+[del]$(\bar{z}+\bar{x})_1x_2\bar{x}_1(y+z) + \bar{y}_1x_1(y+z) \prec x_1y + x_2z$[/del]
+$\cdot (\bar{z}+\bar{x})_1\bar{x}_2\bar{x}_1(y+z) \prec \bar{y}_1x_1(y+z) \prec (\bar{z}+\bar{x})_1\bar{x}_2\bar{x}_1(y+z)$
+
+Whence by theorem 3, and I
+[del]$(\bar{z}+\bar{x})_1\bar{x}_2\bar{x}_1(y+z) + (\bar{z}+\bar{x})_1\bar{x}_2\bar{x}_1(y+z) \prec y_1x_2(y+z)$[/del]
+$\cdot (\bar{z}+\bar{x})_1\bar{x}_2\bar{x}_1(y+z) + (\bar{z}+\bar{x})_1\bar{x}_2\bar{x}_1(y+z) +$
+
+By III and II,
+$x_1y + x_2\bar{x} \succ$ [del]$x_1y$[/del] $x_1y \succ (\bar{z}+\bar{x})_1\bar{x}_2\bar{x}_1(y+z)$
+$x_1y + x_2\bar{x} \succ$ [del]$x_2\bar{x}$[/del] $x_2\bar{x} \succ (\bar{z}+\bar{x})_1\bar{x}_2\bar{x}_1(y+z)$
+
+Hence by IV
+$\cdot x_1y + x_2\bar{x} \succ (\bar{z}+\bar{x})_1\bar{x}_2\bar{x}_1(y+z) + (\bar{z}+\bar{x})_1\bar{x}_2\bar{x}_1(y+z)$
+
+Hence, by I,
+$(\bar{z}+\bar{x})_1\bar{x}_2\bar{x}_1(y+z) \prec x_1y + x_2\bar{x}$

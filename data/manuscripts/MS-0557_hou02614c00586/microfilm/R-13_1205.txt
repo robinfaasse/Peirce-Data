@@ -1,0 +1,15 @@
+If, then, $(SW)_{xj}$ vanishes, for every value of $x$, either
+$(S)_{xy}$ or $(W)_{yj}$ vanishes. Hence, if [del]$(SW)$[/del] [ins]$(lSW)$[/ins] vanishes,
+then for every four letters, $i, x, y, j$ either
+$(l)_{ix} = 0$ or $(S)_{xy} = 0$ or $(W)_{yj} = 0$.
+But if this is the case $\{(lS)W\}_{ij}$ vanishes. For
+$\{(lS)W\}_{ij} = \sum_{p} (lS)_{ip} (W)_{pj}$
+and vanishes if every term vanishes. It therefore
+vanishes, if for every [del]value[/del] $p$, either $(lS)_{ip} = 0$ or
+$(W)_{pj} = 0$. But
+$(lS)_{ip} = \sum_{q} [del](l)_{iq}[/del] (l)_{iq} (S)_{qp}$.
+It therefore vanishes if for every $q$, either $(l)_{iq}$
+or $(S)_{qp}$ vanishes. Thus $\{(lS)W$ vanishes if for
+every four letters $i, p, q, j$, we have either
+$(l)_{iq} = 0$ or $(S)_{qp} = 0$ or $(W)_{pj} = 0$,
+which we have seen follows from

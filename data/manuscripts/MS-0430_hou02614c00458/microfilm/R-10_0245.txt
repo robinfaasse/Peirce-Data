@@ -1,0 +1,25 @@
+[marginalia]
+[pn]LOGIC[/pn]
+[pn]S[/pn]
+[pn]III[/pn]
+26.
+[/marginalia]
+
+"If either rains, snows, or hails," we require a function of
+[u]p[/u], [u]n[/u], and [u]g[/u] which shall be equal to [u]v[/u] when either [u]p[/u], [u]n[/u],
+or [u]g[/u] equals [u]v[/u], that is when
+(16) ([u]v[/u] - [u]p[/u]) ([u]v[/u] - [u]n[/u]) ([u]v[/u] - [u]g[/u]) = 0
+and which shall be equal to [u]f[/u] when [u]p[/u] = [u]n[/u] = [u]g[/u] = [u]f[/u]. The
+first condition is satisfied by
+[u]v[/u] + ([u]v[/u] - [u]p[/u]) ([u]v[/u] - [u]n[/u]) ([u]v[/u] - [u]g[/u]) D
+where D is a finite constant; [del]while[/del] [ins]and[/ins] the last condition re-
+quires that D shall be determined by the equation
+(17) [u]v[/u] + ([u]v[/u] - [u]f[/u]) ([u]v[/u] - [u]f[/u]) ([u]v[/u] - [u]f[/u]) D = [u]f[/u]
+so that D = - ([u]v[/u] - [u]f[/u])[sup]-2[/sup].
+
+At this point a signal improvement is forced upon our
+notice by the symbols themselves. It is truly wonderful how,
+throughout mathematics, if we only steadily pursue the clear path
+of mathematics, though those very schemata which we ourselves
+have generated at certain points turn and clearly address us,
+asking us why we do not adopt some conception which, without

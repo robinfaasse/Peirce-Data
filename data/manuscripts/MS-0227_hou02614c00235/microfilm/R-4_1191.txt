@@ -1,0 +1,29 @@
+[pn]27[/pn]
+
+[u]Theorems of Numbers[/u]
+
+[u]No 1.[/u]
+
+Required to prove that if [u]j[/u] is as great as [u]i[/u], it either is [u]i[/u] or is as great as whatever is next greater than [u]i[/u]. That is
+
+[u]II[/u]<sub>i</sub> [u]II[/u]<sub>j</sub> [u]II[/u]<sub>k</sub> ( [del]g[/del][ins]ḡ[/ins]<sub>ij</sub> + [u]F[/u]<sub>ik</sub> + g<sub>kj</sub> + I<sub>ij</sub> ).
+
+It will be convenient to abbreviate by writing
+
+G<sub>ij</sub> = [u]II[/u]<sub>k</sub> ( E<sub>ik</sub> + g<sub>kj</sub> + I<sub>ij</sub> ).
+
+This equation separates into the two propositions
+
+[u]II[/u]<sub>i</sub> [u]II[/u]<sub>j</sub> [u]II[/u]<sub>k</sub> ( [u]G[/u]<sub>ij</sub> + E<sub>ik</sub> + g<sub>kj</sub> + I<sub>ij</sub> )
+and
+[u]II[/u]<sub>i</sub> [u]II[/u]<sub>j</sub> [u]S[/u]<sub>k</sub> ( E<sub>ik</sub> [u]g[/u]<sub>kj</sub> [u]I[/u]<sub>ij</sub> + G<sub>ij</sub> ).
+
+[fig]Handwritten circle containing the letters Pi, G, and i[/fig]
+
+The proof being relatively difficult, it will be best first to prove the lemma that [del]G<sub>ij</sub>[/del] [ins][fig]Handwritten circle containing the letters Pi, G, and i[/fig][/ins] is a transitive character.
+
+When we have given a proposition said to be [del]true[/del] and are required to find a demonstration, [del]it[/del] is easiest to use the [del]reductio[/del] [ins]reduction[/ins] ad absurdum, [del]which[/del] once found can be converted into a [del]direct[/del] argument by taking the denials of [del]the successive[/del] conclusions in inverse order.
+
+[del]In the pres[/del]ent case - putting
+[del]the[/del] [del]G<sub>ij</sub>[/del] = [del]β[/del] [ins][fig]Handwritten circle containing the letters Pi, G, and i[/fig] = β[/ins]
+to be proved

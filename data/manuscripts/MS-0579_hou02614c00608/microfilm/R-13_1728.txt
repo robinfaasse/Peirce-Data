@@ -1,0 +1,35 @@
+The puzzle is to frame rules for the algebra of the
+copula.
+
+Suppose one first ask what identities exist.
+
+$a \prec b$ or $\bar{a} + b$ can certainly not be written in
+any other way as simple. $a \prec a$ is necessary.
+
+[del]The[/del] forms with 2 copulas
+
+$a \prec (b \prec c)$ [del]$\bar{a} + \bar{b} + c$[/del] is identical with $b \prec (a \prec c)$
+
+Special cases $a \prec (a \prec c) = (a \prec c)$
+
+$a \prec (b \prec b)$ Necessary because $a \prec (b \prec a)$
+
+[del]$a \prec (b \prec a)$ Necessary[/del]
+
+[del]If $(a \prec c)$ then $a \prec (a \prec c)$ Because $a \prec (b \prec a)$[/del] so that if $a$ then $b \prec a$.
+
+[del]Forms with 3 copulas[/del]
+
+$(a \prec b) \prec c$ [del]$\bar{a}\bar{b} + c$[/del] cannot be written otherwise as simply
+
+Cases $(a \prec a) \prec c = c$
+
+That if $(a \prec a) \prec c$ then $c$ follows from above
+
+That if $c$ then $(a \prec a) \prec c$ also follows because case of $c \prec (b \prec c)$
+
+[del]$(a \prec b) \prec a$[/del] $(a \prec b) \prec a = a$
+
+If [del]$(a \prec b) \prec a$[/del] $a$ then $(a \prec b) \prec a$ follows from above
+
+$(a \prec b) \prec b = (b \prec a) \prec a$

@@ -1,0 +1,30 @@
+[marginalia]Series
+9[/marginalia]
+
+[pn]5[/pn]
+
+[u]N[/u][sub]P[/sub] is the sum of [u]MR[/u][sub]P[/sub] and [u]M[/u](1-[u]R[/u][sub]P[/sub]). For example, required [del]the[/del]
+the value of [u]N[/u] 65594. This is given on the last line of our table, where
+its value appears as 203. The calculation proceeds as follows:
+
+P = 65594 = 10000000000000010 [del]2[/del]
+[u]R[/u][sub]P[/sub] = .000000000001110101
+
+[u]M[/u] [u].000000000001110101[/u] = [u]M[/u] [u]1110101[/u] [del]x[/del]
+
+[u]M[/u] [u]101[/u] } = 3
++3[u]M[/u] [u]1101[/u] } = [u]15[/u]
+= 18
+
+[u]M[/u] [u]11111111110001011[/u] = [u]M[/u] [u]11111111110001011[/u]
+
+[del]= M 1100[/del]
+= [del]2[/del] [ins]1[/ins][u]M[/u] [u]1011[/u] } = 105
++ 10[u]M[/u] [u]11011[/u] } = [u]80[/u]
+= 185
+
+[u]N[/u][sub]P[/sub] = [u]MR[/u][sub]P[/sub] + [u]M[/u](1-[u]R[/u][sub]P[/sub]) = 18 + 185 = 203.
+
+My attention was first called to these series in an endeavor
+to make it clear that the conception of quantity, so far as it concerns
+mathematics, is merely that of serial order. This my pupils seemed to understand.

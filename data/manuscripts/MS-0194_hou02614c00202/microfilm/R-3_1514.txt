@@ -1,0 +1,24 @@
+[fig]Circle with radius R and chord h[/fig] $2 \left( \frac{4}{\sqrt{\frac{1}{2}}} \right) -$
+
+$\frac{4}{\sqrt{\frac{1}{2}}} b$
+
+$h = 2 R \cos \theta$
+
+$\frac{b}{h} = \frac{h}{2R}$
+
+$h = \sqrt{\frac{b}{2R}}$
+
+$\frac{1}{h} db = \sqrt{\frac{1}{2R}} db$
+
+$\int \frac{1}{h} db = \frac{2}{3} \left( \frac{b}{2R} \right)^{\frac{3}{2}} \frac{2}{2R}$
+
+$\int \frac{1}{h} db = \int \frac{db}{\sqrt{2h} \sqrt{R}}$
+
+$\frac{1}{h} = \frac{1}{\sqrt{b} \sqrt{2R}}$
+
+$\frac{2}{2R}$
+
+$\int \frac{1}{h} db = 2 \sqrt{\frac{b}{2R}} = \sqrt{\frac{2b}{R}}$
+
+$\int_{R\sqrt{2}}^{R2} \frac{1}{h} db = 2 \sqrt{\frac{2R}{2R}} - 2 \sqrt{\frac{\sqrt{2} \cdot R}{2 \cdot R}}$
+$= 2 - [del]2[/del]$

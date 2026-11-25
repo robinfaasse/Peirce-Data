@@ -1,0 +1,23 @@
+(Boole MS 13
+
+When s=1 t=1 w=1
+When s=1 t=0 w=0
+When s=0 t=1 w=0
+When s=0 t=0 w= 1/0
+Hence in general w = st + 0 s(1-t) + 0 (1-s)t + 1/0 (1-s)(1-t)
+We have now completed the logical solution of the problem. We
+must next apply the theory of probabilities. For this purpose in-
+stead of insisting any longer upon [del]giving[/del] [ins]allowing[/ins] s and t only the two values
+zero and unity, we must allow them values proportionate to [del]their probabili-[/del]
+[del]ties[/del] the number of cases in which they will occur. Then the probability
+of s will be represented by a fraction whose numerator is
+s and whose denominator is the sum of all the possible cases.
+Now [del]all[/del] the cases which are impossible are [ins]those[/ins] represented by (1-s)(1-t)
+as is shown by the coefficient 1/0. Hence, the probability of s or
+p = s / (st + s(1-t) + (1-s)t)
+In the same way q = t / (st + s(1-t) + (1-s)t)
+[del]And[/del] in the same way the probability of w which is sought, is since
+by the equation st represents all the cases in its favor
+X = st / (st + s(1-t) + (1-s)t)
+From these three equations we must now eliminate s and t.
+For this purpose we have p/s = q/t = X/st . s = X/q t = X/p Substituting

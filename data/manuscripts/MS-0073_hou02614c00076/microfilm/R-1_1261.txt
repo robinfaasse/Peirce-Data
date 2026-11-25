@@ -1,0 +1,17 @@
+ordinate punctuation mark, and so on until all
+the letters are separated. The following are exam-
+ples.
+$$A; B: C, D; E$$
+$$A. B: C, D; E$$
+
+If [u]n[/u] be the number of points, as I shall say for
+short instead of punctuation marks, then the number
+of letters will be [u]n[/u] + 1. Let [u]Fn[/u] be the number
+of trees with [u]n[/u] points, or say of [u]n[/u]-point trees.
+Then, if [u]i[/u] be the number of letters to the right of
+the highest punctuation mark, so that [u]n[/u]+1-[u]i[/u]
+will be the number to the left, the number of
+trees which can be formed from these [u]i[/u] letters
+to the left is [u]F[/u]([u]i[/u]-1), and the number to be formed
+from the [u]n[/u]+1-[u]i[/u] letters to the right is [u]F[/u]([u]n[/u]-[u]i[/u]).
+Consequently, the number of separations of the

@@ -1,0 +1,67 @@
+$$(a \cdot|\cdot b) + c \prec a + (b + c)$$
+[fig]Lines connecting terms to show logical grouping[/fig]
+By A $b + c \prec a + (b + c)$
+By the Note below
+$c \prec a + b + c$
+$\prec a + (b + c)$
+
+Then by (2') since $a \prec a + b + c$
+$b \prec a + b + c$
+$a + b \prec a + b + c$
+
+By A $a \prec a + (b + c)$
+By A $b \prec \begin{array}{c} b + c \\ a + b + c \end{array}$
+and By A $c \prec a + (b + c)$
+whence [fig]Lines connecting terms[/fig]
+
+[del]Further[/del]
+[del]But[/del] by A $a \prec a + (b + c)$
+By [del]B[/del] [ins]$c$[/ins] $\prec a + (b + c)$
+
+$$(a + b) \cdot c = (a \cdot c) \cdot|\cdot (b \cdot c)$$
+$$(a \cdot b) \cdot|\cdot c = (a \cdot|\cdot c) \cdot (b \cdot|\cdot c)$$
+
+$$(a \cdot|\cdot c) \cdot (b \cdot|\cdot c) \prec (a \cdot b) \cdot|\cdot c$$
+$$(a \cdot b) \cdot|\cdot c \prec (a \cdot|\cdot c) \cdot (b \cdot|\cdot c)$$
+
+[del]$$a + b$$[/del]
+[del]$$a + b + c \prec a + (b + c)$$[/del]
+$$a \cdot c + b \cdot c \prec (a \cdot|\cdot b) \cdot c$$
+
+$$\begin{array}{rcc}
+a \cdot c & \prec & a \\
+& & x \cdot a \prec a \cdot|\cdot b \\
+\therefore \quad a \cdot c & \prec & a \cdot|\cdot b \\
+a \cdot c & \prec & c \\
+& & c \prec \\
+\therefore \quad a \cdot c & \prec & \\
+b \cdot c & \prec & b \\
+& & b \prec a \cdot|\cdot b \\
+\therefore \quad b \cdot c & \prec & a \cdot|\cdot b \\
+b \cdot c & \prec & c \\
+& & c \prec \\
+b \cdot c & \prec & \\
+(a \cdot c) \cdot|\cdot (b \cdot c) & \prec &
+\end{array} \begin{array}{c}
+\prec (a \cdot|\cdot b) \cdot c \\
+(a \cdot|\cdot b) \cdot c \\
+\\
+(a \cdot|\cdot b) \cdot c \\
+(a \cdot|\cdot b) \cdot c \\
+(a \cdot|\cdot b) \cdot c
+\end{array}$$
+
+$$\begin{array}{rcc}
+\multicolumn{3}{c}{\prec (a \cdot b) \cdot|\cdot c} \\
+a \cdot b & \prec & a \\
+& & a \prec a \cdot|\cdot c \\
+a \cdot b & \prec & a \cdot|\cdot c \\
+a \cdot b & \prec & b \\
+& & b \prec b \cdot|\cdot c \\
+a \cdot b & \prec & b \cdot|\cdot c \\
+a \cdot b & \prec & (a \cdot|\cdot c) \cdot (b \cdot|\cdot c) \\
+c & \prec & (a \cdot|\cdot c) \\
+c & \prec & (b \cdot|\cdot c) \\
+\therefore \quad c & \prec & (a \cdot|\cdot c) \cdot (b \cdot|\cdot c) \\
+(a \cdot b) \cdot|\cdot c & \prec & (a \cdot|\cdot c) \cdot (b \cdot|\cdot c)
+\end{array}$$

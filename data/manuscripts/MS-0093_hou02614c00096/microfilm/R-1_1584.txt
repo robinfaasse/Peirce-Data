@@ -1,0 +1,60 @@
+[pn]94[/pn] [pn]95[/pn]
+
+Solve the equation
+$\phi x + \phi y = \Phi(x+y)$
+
+Hence
+[del]$\phi'x + \phi'y = \Phi'(x+y)$[/del]
+[del]$\phi x - \phi'x = \Phi(x+y) - \Phi'(x+y)$[/del]
+
+[del]Call $x = u_x$ $x+y = u_{x+1}$[/del]
+[del]$\phi x = v_x$ $\Phi(x+y) = v_{x+1}$[/del]
+[del]$-\phi'x$ $-\Phi'(x+y)$[/del]
+
+Then [del]$\phi x - \phi'x = \text{Const.}$[/del]
+
+[del]$\phi'_x - \phi''_x = 0$[/del]
+[del]$D_x \log \phi'_x = 1$[/del]
+[del]$\log \phi'_x = C + x$[/del]
+[del]$\phi'_x = e^{C+x} = C e^x$[/del]
+[del]$\phi x = C_1 e^x + C_2$[/del]
+
+Hence $\phi'x = \Phi'(x+y)$
+$\therefore$ $\phi'x = \text{Const.}$
+$\phi x = C_1 x + C_2$
+$\phi y = C_1 y + C_2$
+$\phi x + \phi y = C_1(x+y) + 2C_2$
+$\Phi(x+y) = C_1(x+y) + C_2$
+$\therefore C_2 = 0$
+$\phi x = C x$
+
+$f x + f \frac{1}{x} = a$
+Put $f x = \phi \log x$ Put $y = \log x$
+
+$\phi y + \phi(-y) = a$
+Put $\phi y - \frac{1}{2}a = \psi y$
+$\psi y = \psi(-y)$
+
+$y = u_t$ $-y = u_{t+1}$
+$\psi y = v_t$ $\psi(-y) = v_{t+1}$
+
+$u_{t+1} + u_t = 0$
+$u_t = C_1 (-1)^t$
+$\psi_{t+1} - \psi_t = 0$
+$v_t = C_2$
+[del]Can't eliminate $t$[/del]
+
+But the solution of $\psi y = \psi(-y)$ is manifestly
+$\psi y = \chi y^2$
+$\phi y = \chi y^2 + \frac{1}{2}a$
+
+Required $y = \Phi(x,a,b)$ where $\Phi(x,a_1,b_1) = \Phi(x,a_2,b_2)$
+has but one [del]solution[/del] real solution.
+For $y+xi = \text{Put } r e^{\theta i}$
+Then [del]$x = \phi(t,s)$ $\theta = \psi(t,s)$ where $t$ is the parameter of the curves and $s$ is the parameter of the orthogonal trajectories.[/del]
+$r = \phi(t, a, b)$ $\theta = \psi(t, a, b)$
+or $r = \phi t_{a,b}$ $\theta = \psi t_{a,b}$
+Since $\phi t_{a_1,b_1} = \phi(t_{a_2,b_2} + C)$
+$\psi t_{a_1,b_1} = \psi(t_{a_2,b_2} + C)$
+
+Turn over

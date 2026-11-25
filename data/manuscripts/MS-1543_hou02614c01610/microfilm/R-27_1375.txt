@@ -1,0 +1,37 @@
+[fig]Geometric diagram of a tetrahedron with labeled vertices and edges[/fig] [fig]Geometric diagram of a tetrahedron[/fig] [fig]Geometric diagram of a tetrahedron with labeled vertices and edges[/fig] [u]Scarbread[/u]
+
+[del]$\sqrt{a^2+b^2-2ab\cos M} = e$[/del]
+
+$\frac{1}{2}ab\sin M$
+
+$a^2 = x^2 + y^2 + 2xy\ C$
+$b^2 = y^2 + z^2 - 2yz\ C$
+$c^2 = z^2 + w^2 + 2zw\ C$
+$d^2 = w^2 + x^2 - 2wx\ C$
+
+$a^2 - b^2 + c^2 - d^2 = 2(xy + yz + zw + wx)C$
+$\text{Area} = \frac{1}{2}(xy + yz + zw + wx)\sqrt{1-C^2}$
+$= \frac{a^2 - b^2 + c^2 - d^2}{4} \frac{\sqrt{1-C^2}}{C}$
+
+$\frac{a^2 - b^2 + c^2 - d^2}{4}$
+
+$\text{Area} = \frac{1}{8} \left[ \begin{array}{c} (x+y)^2 + (y+z)^2 + (z+w)^2 + (w+x)^2 \\ - (x-y)^2 - (y-z)^2 - (z-w)^2 - (w-x)^2 \end{array} \right]$
+$a^2 = \frac{1}{2}(x+y)^2 + \frac{1}{2}(x-y)^2$
+
+$\frac{1}{2}(xy + yz + zw + wx)$
+$a^2 = x^2 + y^2$
+$b^2 = y^2 + z^2$
+$c^2 = z^2 + w^2$
+$d^2 = w^2 + x^2$
+
+[del]$\frac{a^2-b^2+c^2-d^2}{4}$[/del]
+$\frac{1}{2}(x+y)^2 - (x-y)^2$
+
+$e^2 = c^2 + d^2 - 2cd\cos N$
+$\cos N = \frac{c^2 + d^2 - a^2 - b^2 + 2ab\cos M}{2cd}$
+$\cos^2 N = \frac{(c^2 + d^2 - a^2 - b^2)^2 + 4ab(c^2 + d^2 - a^2 - b^2)\cos M + 4a^2b^2\cos^2 M}{4c^2d^2}$
+$\sin^2 N = \frac{4c^2d^2 - (c^2 + d^2 - a^2 - b^2)^2 [del]- 4a^2b^2[/del] + 4a^2b^2\sin^2 M - 4ab(c^2 + d^2 - a^2 - b^2)\cos M}{4c^2d^2}$
+
+[u]$\frac{1}{2}cd\sin N = \frac{\sqrt{\quad}}{4}$[/u]
+
+[u]$\frac{1}{2}ab\sin M + \frac{1}{4}\sqrt{2c^2d^2 - c^4 - d^4 - a^4 - b^4 - 2a^2b^2}$[/u]

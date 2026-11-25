@@ -1,0 +1,9 @@
+[u]Non Euclidean Geometry[/u].
+
+Suppose the parts of a line are displaced along that line in any way so long as the continuity of points (including those that are imaginary) is not broken and so that the new position of each point shall coincide with the old position of [del]some[/del] [ins]just one[/ins] point, and vice versa. Then, let $x$ and $y$ be the homogeneous coordinates of a point on the line, these quantities being connected by a linear equation, but otherwise distributed over the line in any continuous and usual manner. If then $(x', y')$ is a point which in its new position coincides with the old position of the point $(x, y)$, we have [del]the[/del] [ins]a[/ins] lineolinear equation between the two pairs of coordinates which may be written
+$$a x x' + e x y' + i y x' + o y y' = 0.$$
+Putting $x = x'$ and $y = y'$ we get the quadratic
+$$a x^2 + (e + i) x y + o y^2 = 0,$$
+which defines a pair of points on the line which remains unmoved by the displacement.
+
+To give an idea of the nature of the displacement,

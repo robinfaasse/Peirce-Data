@@ -1,0 +1,33 @@
+89
+398
+
+($\underline{\text{a}} \cdot \underline{\text{x}} + \underline{\text{b}} \cdot \underline{\text{x}} + \underline{\text{c}} \cdot \underline{\text{x}} + \text{etc}$) $\cdot$ ($\underline{\text{a}} \cdot \underline{\text{x}} + \underline{\text{b}} \cdot \underline{\text{x}} + \underline{\text{c}} \cdot \underline{\text{x}} + \text{etc}$) is [ins]v[/ins], $\underline{\text{a}} \cdot \underline{\text{x}} + \underline{\text{b}} \cdot \underline{\text{x}} + \underline{\text{c}} \cdot \underline{\text{x}} + \text{etc}$
+is [ins]v[/ins], it follows from the third clause of the same definition that
+($\underline{\text{a}} \cdot \underline{\text{x}} + \underline{\text{b}} \cdot \underline{\text{x}} + \underline{\text{c}} \cdot \underline{\text{x}} + \text{etc}$) $\cdot$ $\underline{\text{x}}$ is [ins]v[/ins]. And further, if ($\underline{\text{a}} \cdot \underline{\text{x}} + \underline{\text{b}} \cdot \underline{\text{x}} + \underline{\text{c}} \cdot \underline{\text{x}} + \text{etc}$) $\cdot$ $\underline{\text{x}}$
+is [ins]v[/ins], it follows, by omission of components that ($\underline{\text{a}}' + \underline{\text{b}}' [del]+\underline{\text{c}}' \text{etc}[/del] [ins]+ \underline{\text{c}} + \text{etc}[/ins]$)$\cdot \underline{\text{x}}$
+is [ins]v[/ins].
+
+Secondly, suppose that ($\underline{\text{a}} \cdot \underline{\text{x}} + \underline{\text{b}} \cdot \underline{\text{x}} + \underline{\text{c}} \cdot \underline{\text{x}} + \text{etc}$) is [ins]f[/ins]. Then,
+by the first clause of the definition of composition,
+($\underline{\text{a}} \cdot \underline{\text{x}} + \underline{\text{b}} \cdot \underline{\text{x}} + \underline{\text{c}} \cdot \underline{\text{x}} + \text{etc}$) $\cdot$ $\underline{\text{x}}$ is f. And further, $\underline{\text{a}} \cdot \underline{\text{x}}$ and $\underline{\text{b}} \cdot \underline{\text{x}}$ and $\underline{\text{c}} \cdot \underline{\text{x}}$
+etc. have by the first and second clauses of the definition of ag-
+gregation, all severally the value [ins]f[/ins]. Then, if $\underline{\text{x}}$ is [ins]v[/ins], by the
+third clause of the definition of composition, $\underline{\text{a}}$, $\underline{\text{b}}$, $\underline{\text{c}}$, etc. have
+all severally the value [ins]f[/ins], and by the third clause of the defini-
+tion of aggregation, $\underline{\text{a}} + \underline{\text{b}} + \underline{\text{c}} + \text{etc}$ has the value [ins]f[/ins]; and by the
+first clause of the definition of composition ($\underline{\text{a}} + \underline{\text{b}} + \underline{\text{c}} + \text{etc}$) $\cdot$ $\underline{\text{x}}$ has
+the value [ins]f[/ins]. Suppose, on the other hand, that $\underline{\text{x}}$ has the value [ins]f[/ins].
+Then, by the second clause of the definition of composition
+($\underline{\text{a}} + \underline{\text{b}} + \underline{\text{c}} + \text{etc}$) $\cdot$ $\underline{\text{x}}$ has the value [ins]f[/ins].
+Thus, in every case, $\underline{\text{a}} \cdot \underline{\text{x}} + \underline{\text{b}} \cdot \underline{\text{x}} + \underline{\text{c}} \cdot \underline{\text{x}} + \text{etc}$ and ($\underline{\text{a}} \cdot \underline{\text{x}} + \underline{\text{b}} \cdot \underline{\text{x}} + \underline{\text{c}} \cdot \underline{\text{x}} + \text{etc}$) $\cdot$ $\underline{\text{x}}$
+and ($\underline{\text{a}} + \underline{\text{b}} + \underline{\text{c}} + \text{etc}$) $\cdot$ $\underline{\text{x}}$ have the same value.
+
+[u]Corollary.[/u] It follows that
+($\underline{\text{a}} + \underline{\text{x}}$) $\cdot$ ($\underline{\text{b}} + \underline{\text{x}}$) $\cdot$ ($\underline{\text{c}} + \underline{\text{x}}$) $\cdot$ etc.
+= ($\underline{\text{a}} + \underline{\text{x}}$) $\cdot$ ($\underline{\text{b}} + \underline{\text{x}}$) $\cdot$ ($\underline{\text{c}} + \underline{\text{x}}$) $\cdot$ etc. + $\underline{\text{x}}$
+= ($\underline{\text{a}} + \underline{\text{b}} + \underline{\text{c}} + \text{etc}$) $\cdot$ $\underline{\text{x}}$.
+
+When we come to the algebra of logic, there will be a highly
+important remark to make concerning this theorem.
+
+[fig]figure[/fig]

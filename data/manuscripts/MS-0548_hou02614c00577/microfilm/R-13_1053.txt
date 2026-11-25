@@ -1,0 +1,11 @@
+Definitions
+
+$a = \sum_{i} \sum_{j} a_{ij} (I:J)$ coeff. either $0$ or greater than $0$.
+
+$(ab)_{ij} = \sum_{x} a_{ix} b_{xj}$
+
+$(a+b)_{ij} = \sum_{x} a_{ix} + b_{xj}$
+
+$(a+b)_{i} = a_{i} + b_{i}$
+
+$(a \times b)_{i} = a_{i} \times b_{i}$

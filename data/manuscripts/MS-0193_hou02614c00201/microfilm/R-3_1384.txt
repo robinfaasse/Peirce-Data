@@ -1,0 +1,27 @@
+[u]Syllabus of Trigonometry[/u]
+
+[u]Art 1[/u] [u]Definition of $\sin x$.[/u]
+$\sin x$ is a function of $x$ having the following
+properties:
+$1^{\text{st}}$, For each value of $x$ (real or imaginary) $\sin x$ has a single [ins]determinate[/ins] value.
+$2^{\text{nd}}$, The same general formula for $\sin(c+x)$ applies
+whether $c$ be real or imaginary.
+$3^{\text{d}}$, There is a constant quantity, $\pi$, such that
+$\sin(x+\pi) = -\sin x$
+$4^{\text{th}}$, The equation
+$\sin\left(\frac{1}{2}u\pi + v\pi i\right) = a + bi$
+is satisfied by a single set of [del]real[/del] values of $u$ and $v$, in which
+$u$ lies in the limits $-1$ and $+1$, whatever the values of $a$ and $b$.
+$5^{\text{th}}$, $\sin 0 = 0$
+$6^{\text{th}}$, $\sin \infty = \infty$
+$7^{\text{th}}$, $\sin \frac{1}{2}\pi = 1$.
+
+[u]Art 2[/u] From the $3^{\text{d}}$ property, it follows that
+$\sin(x+2N\pi) = \sin x$
+whatever whole number, positive or negative, $N$ may be.
+
+[u]Art 3[/u] [del]Assuming[/del] [del]$\sin\left(\frac{1}{2}u\pi + v\pi i\right) = a + bi$,[/del]
+[del]it follows from the third property that[/del]
+[del]$\sin\left(\frac{2n+1}{2}u\pi + v\pi i\right) = \sin\left(\frac{1}{2}u\pi + v\pi i\right)$[/del]
+[del]Now of the two quantities $\frac{2n+1}{2}u$ and $\frac{1}{2}u$ one lies within the[/del]
+[del]limits $-1$ and $+1$ and so such that[/del]

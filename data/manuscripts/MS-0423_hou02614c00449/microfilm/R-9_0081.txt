@@ -1,0 +1,24 @@
+[del]This is[/del] [ins]not only[/ins] a transitive relation, [del]which[/del] [ins]but it is one which[/ins] includes identity under it. That is,
+$$1 \prec l \dagger \breve{l}.$$
+
+[del]But it is further demonstrable[/del]
+Now, I further declare that [u]every[/u] transitive relation which includes identity under it is of the form
+$$l \dagger \breve{l}.$$
+
+For let $t$ be such a relation that
+$$1 \prec t.$$
+Multiplying by $\breve{t}$, we get,
+$$\breve{t} \prec 1 \dagger \breve{t} \prec t \dagger \breve{t} \prec \top.$$
+Hence, $t \dagger \breve{t} \prec t \dagger \top \prec t$.
+
+On the other hand,
+$$t \prec t \dagger 1$$
+[del]and[/del] $\therefore t \prec t \dagger (t \dagger \breve{t})$
+$\therefore t \prec t \dagger t \dagger \breve{t}$.
+But because $t$ is transitive,
+$$t \dagger t \prec t$$
+$\therefore t \prec t \dagger \breve{t}$.
+Having just found $t \dagger \breve{t} \prec t$,
+we can write
+$$t = t \dagger \breve{t},$$
+so that $t$ [del]is of[/del] [ins]maybe expressed in[/ins] the form $l \dagger \breve{l}$, Q.E.D.

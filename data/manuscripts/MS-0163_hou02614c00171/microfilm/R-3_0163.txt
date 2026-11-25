@@ -1,0 +1,46 @@
+[fig]Triangle with angle bisector[/fig]
+
+[del]2A-B-C[/del]
+
+The internal bisectors of the angles of
+a triangle are copunctual
+
+[fig]Triangle with three angle bisectors[/fig]
+
+The bisectors are [bracket] {A, 2A-B-C}
+{B, -A+2B-C}
+{C, -A-B+2C} [/bracket]
+A+B+C
+
+---
+
+A = a₁ [del]O[/del] [ins]P[/ins] + a₂ Q + (1-a₁-a₂) P
+B = b₁ O + b₂ Q + (1-b₁-b₂) P
+C = c₁ O + c₂ Q + (1-c₁-c₂) P
+
+A+B = [del]1/2[/del] (a₁+b₁) O + [del]1/2[/del] (a₂+b₂) Q + (1-[del]1/2[/del] [ins]a₁+a₂+b₁+b₂/2[/ins]) P
+C-A = (a₁c₂-a₂c₁) (O-Q) + (c₁-a₁) O + (c₂-a₂) Q
+c₁+c₂-a₁-a₂
+
+{B, C-A} = [del]b₁[/del] [ins]b₂[/ins] [del]a₁c₂-a₂c₁ + c₁-a₁[/del] [ins]a₁c₂-a₂c₁ + c₁-a₁[/ins] O
+c₁+c₂-a₁-a₂
+[del]b₂[/del] [ins]b₁[/ins] [del]a₁c₂-a₂c₁ + c₂-a₂[/del] [ins]a₁c₂-a₂c₁ + c₂-a₂[/ins] Q
+c₁+c₂-a₁-a₂
++ (b₁-b₂-b₁-b₂) P
+B-A [del](a₁b₂-a₂b₁) (O-Q) + (b₁-a₁) O + (b₂-a₂) Q[/del]
+b₁+b₂-a₁-a₂
+
+[del](c-a)(B-A)/2 = (a₁c₂-a₂c₁)(a₁b₂-a₂b₁) + b₁-a₁ + c₁-a₁ - 2a₁[/del]
+(a₁c₂-a₂c₁ + c₁-a₁) (b₁+b₂-a₁-a₂)
++ (a₁b₂-a₂b₁ + b₁-a₁) (c₁+c₂-a₁-a₂)
+
+[del]= 11[/del]
+[del]= 22[/del]
+[del]= 22[/del]
+2a₁b₂c₂-2a₂b₁c₁ + [del]b₁c₂ + b₂c₁[/del] [ins]b₁c₂ + b₂c₁[/ins]
+- a₁b₂ - 2a₁c₂ - a₂b₁
+- a₂c₂ - 2a₁c₁ - a₁c₁
++ 2a₁ (a₁ + a₂)
+= 0
+
+(b₁+b₂-a₁-a₂) (c₁+c₂-a₁-a₂)

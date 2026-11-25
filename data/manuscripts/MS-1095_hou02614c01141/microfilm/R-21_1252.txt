@@ -1,0 +1,31 @@
+[u]$\frac{1}{(D-1)(D+1)^2}$[/u] = $\frac{A}{(D+1)^2}$ + $\frac{B}{(D+1)}$ + $\frac{C}{(D-1)}$
+
+[del]$A(D^2-1) + B($[/del][ins]$\frac{D^2-1}{D-1}$[/ins][del]$) +$[/del] [del]$(D-1)(D+1)^2$[/del]
+[del]$A(D^2-1) + B(D^3+D^2-D-1) +$[/del]
+
+$A(D-1) + B(D^2-1) + C(D^2+2D+1)$
+
+[del]$\rightleftarrows$[/del] $B+C = 0$
+$2C+A = [del]8[/del]$
+$C-A-B = 1$
+
+$2C-A = 1$
+$2C+A = 0$
+
+$4C = 1$
+$C = 1/4$
+$A = -1/2$
+$B = -1/4$
+
+$A\mathcal{G}^x + B\mathcal{G}^{-x} + C\mathcal{G}^{[del]2x[/del]}[ins]ex[/ins]\cos\frac{t}{T}$
+$D$ $A\mathcal{G}^x - B\mathcal{G}^{-x} - C e\mathcal{G}^{-e}\cos - C\mathcal{G}^{ex}\sin$
+$D^2$ $A\mathcal{G}^x + B\mathcal{G}^{-x} + C e^2\mathcal{G}^{-e}\cos + 2C\mathcal{G}^{ex}\sin$
+$D^3$ $A\mathcal{G}^x - B\mathcal{G}^{-x} - C e^3\mathcal{G}^{-e}\cos - 3C\mathcal{G}^{ex}\sin$
+
+$(D-1)F_x = 0$
+$F_x = \mathcal{G}^x$
+
+$(D-1)^2 F = 0$
+$A\mathcal{G}^x + B\mathcal{G}^{-x} +$
+
+$(D-1)^2 F = \mathcal{G}^x$

@@ -1,0 +1,67 @@
+[fig]Tic-tac-toe grid[/fig] At the outset X has choice between 2=4=6=8, 5, 1=3=7=9.
+[fig]Tic-tac-toe grid[/fig] O has choice between 8, 5, 1=3, 4=6, 7=9.
+[fig]Tic-tac-toe grid[/fig] X has choice between 1=3, 7=9, 4=6, 5.
+[marginalia]
+[frac]2[/frac] [frac]1[/frac]
+[frac]8[/frac] [frac]33[/frac]
+[/marginalia] [fig]Tic-tac-toe grid[/fig] O has a half-double H which X can only frustrate by 7 or 9, neither of which makes an H, so that there will be no tit-tat-toe.
+[marginalia]
+[frac]2[/frac] 7
+[frac]8[/frac] —
+[/marginalia] [fig]Tic-tac-toe grid[/fig] X has a half-double H, which O can only frustrate by 1 and 3. O cannot make an H.
+[marginalia]
+[frac]2[/frac] [frac]7[/frac]
+[frac]8[/frac] [frac]3[/frac]
+[frac]2[/frac] 4
+[frac]8[/frac] —
+[/marginalia] [fig]Tic-tac-toe grid[/fig] X can at best only make a half-double H and therefore there is no tit-tat-toe.
+[fig]Tic-tac-toe grid[/fig] X can only make a single H, and therefore there is no tit-tat-toe.
+[fig]Tic-tac-toe grid[/fig] X has a single H which O can only frustrate by 1, 3, 7, 9. [del]It gives him[/del]
+[fig]Tic-tac-toe grid[/fig] [del]O[/del] [ins]X[/ins] has a single H which X can only frustrate by 7 and 9 which give him H and 5 and 6 which do not. But the H is at once frustrated, so that there is no tit-tat-toe.
+[marginalia]
+[frac]2[/frac] [frac]4[/frac]
+[frac]8[/frac] [frac]3[/frac]
+[/marginalia] [fig]Tic-tac-toe grid[/fig] O has a half-double H which any play of X frustrates except 1. X gets a reinforced H by 5, and in no other way does as well.
+[marginalia]
+[frac]2[/frac] [frac]4[/frac] [frac]5[/frac] 9;
+[frac]8[/frac] [frac]3[/frac] [frac]6[/frac]
+[frac]2[/frac] [frac]4[/frac] [frac]7[/frac]
+[frac]8[/frac] [frac]9[/frac] [frac]15[/frac]
+[/marginalia] No tit-tat-toe.
+[fig]Tic-tac-toe grid[/fig] X has a quadruple H and wins.
+[fig]Tic-tac-toe grid[/fig] X has an A and wins.
+[marginalia]
+[frac]2[/frac] [frac]5[/frac]
+[frac]8[/frac] [frac]7[/frac]
+[/marginalia] [fig]Tic-tac-toe grid[/fig] X has choice between 7=9, 4=6, 1=3, 8.
+[fig]Tic-tac-toe grid[/fig] X has a single H, which O can frustrate by 6 so as to have a reinforced H; but [del]the[/del] A cannot be completed, and there is no tit-tat-toe.
+[marginalia]
+[frac]2[/frac] 4
+[frac]5[/frac] —
+[/marginalia] [fig]Tic-tac-toe grid[/fig] X has a single H which O can frustrate by 1=7 so as to get a reinforced H; but the A cannot be completed and there is no tit-tat-toe.
+[marginalia]
+[frac]2[/frac] [frac]1[/frac] 7;
+[frac]5[/frac] [frac]33[/frac]
+[/marginalia] [fig]Tic-tac-toe grid[/fig] There is no H, and so no tit-tat-toe.
+[marginalia]
+[frac]2[/frac] 8
+[frac]1[/frac] —
+[frac]2[/frac] 3
+[frac]1[/frac] —
+[frac]2[/frac] 4
+[frac]1[/frac] —
+[/marginalia] [fig]Tic-tac-toe grid[/fig] O can get a reinforced H by 1=3=7=9 and by 4=6. Either wins.
+[fig]Tic-tac-toe grid[/fig] X has choice between 3, 4, 5, 6, 7, 8, 9.
+[fig]Tic-tac-toe grid[/fig] O can get a reinforced H by 4 and wins.
+[fig]Tic-tac-toe grid[/fig] X has an H which O can frustrate at 4=8 so as to have an H which X can frustrate at 3 so as to have an H which can be frustrated by O. No tit-tat-toe.
+[marginalia]
+[frac]2[/frac] [frac]5[/frac]
+[frac]1[/frac] [frac]8[/frac];
+[frac]2[/frac] 6
+[frac]1[/frac] —
+[/marginalia] [fig]Tic-tac-toe grid[/fig] O has an H which can be frustrated. No tit tat toe.
+[fig]Tic-tac-toe grid[/fig] X [del]has[/del] [ins]has[/ins] an H which O can frustrate [del]at 9,[/del] at 5, and at 7 so as to get reinforced H. That formed in the former way would be frustrated. But the latter wins.
+[marginalia]
+[frac]2[/frac] 7
+[frac]1[/frac] —
+[/marginalia] [fig]Tic-tac-toe grid[/fig] X has a half double H which O can frustrate, but without getting an H, at 5 or 8, for neither case can tit-tat-toe be made.

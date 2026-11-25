@@ -1,0 +1,10 @@
+In general, it is plain that
+$$F_{x} = \sum_{1}^{x-1} F_{i} F_{x-i}$$
+and to complete the data we add that $F_{1} = 1$.
+To make the sum always include the same number of terms, namely $x-3$ of them, we [del]shall[/del] [ins]may[/ins] write
+$$\begin{aligned}
+F_{x-1} &= \sum F_{i} F_{x-i} + F_{1} F_{x-2} \\
+F_{x} &= 2 F_{1} F_{x-1} + \sum F_{i} F_{x-i+1} \\
+&= \sum F_{i} \left(F_{x-i+1} + 2 F_{1} F_{x-i}\right) + 2 F_{1}^{2} F_{x-2} \\
+F_{x+1} &=
+\end{aligned}$$

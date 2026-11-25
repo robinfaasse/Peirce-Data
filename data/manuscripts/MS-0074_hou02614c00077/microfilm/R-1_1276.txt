@@ -1,0 +1,19 @@
+[pn]4[/pn]
+
+nally led to express the intermediate one as
+a fraction with 6 for its denominator.
+Then the three numerators are 14, 18, 22, which
+are in arithmetical progression. If this rule
+holds we should have $\frac{F'3}{F'2} = \frac{10}{4}$, $\frac{F'2}{F'1} = \frac{6}{3}$, $\frac{F'1}{F'0} = \frac{2}{2}$
+all of which are verified. We [del]the[/del] now predict
+that $\frac{F'7}{F'6} = \frac{26}{8}$, and find it to be so, which makes
+us morally certain that this is the general rule.
+For the formula must have a degree complexity
+far beyond what the nature of the problem
+would lead us to expect to agree with this
+formula so far and to disagree for higher
+values of [u]n[/u]. We have, then,
+
+$F'[u]n[/u] = \frac{(4[u]n[/u]-2)(4[u]n[/u]-6)(4[u]n[/u]-10)\dots 2}{([u]n[/u]+1)\ [u]n[/u]\ ([u]n[/u]-1)\dots 2}$
+
+$= \frac{2^{[u]n[/u]} (2[u]n[/u]-1)(2[u]n[/u]-3)(2[u]n[/u]-5)\dots 1}{([u]n[/u]+1)\ [u]n[/u]\ ([u]n[/u]-1)\dots 2}$

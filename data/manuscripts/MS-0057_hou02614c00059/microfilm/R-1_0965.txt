@@ -1,0 +1,19 @@
+[marginalia]I will handsel this new paper by the following[/marginalia]
+
+[u]ESSAY ON SECUNDAL AUGRIM.[/u]
+[u]Dedicated to J.M.P.[/u]
+[u]PREFACE.[/u]
+
+● Secundal augrim is a tool of minor utility in mathematical reasoning, but still of very decided utility. It has a charm of simplicity.
+
+[u]CHAPTER FIRST[/u]
+[u]The Notation.[/u]
+
+In this system, a number is in general denoted by a horizontal row of figures, each of which is either a 0 or a 1. One of the figures has a bar through it, thus: [del]0[/del] or [del]1[/del]. The last [ins](or right hand most)[/ins] figure and one of the others may have dots over them. If so, this part of the row is called the [u]circulate[/u] [del]and[/del] [ins]while[/ins] the part to the left of it is called the [u]serious[/u].
+
+The places of figures in the row are called the [u]secundal places[/u]. Each has an ordinal number one greater than that of the place next to the right, the place of the barred figure being the zeroth.
+
+Let [del]l[/del] [ins]k[/ins] be the ordinal of the [del]last[/del] place of the last dotted figure [ins]in any row denoting a number[/ins], and let h be the ordinal of the place of the other dotted figure. Let [math]n_i[/math] be the value of the figure in the [math]i^{\text{th}}[/math] place (the value of 1 being unity, and [del]that of[/del] 0 not having any value). Then [math]x[/math] being any arbitrarily chosen positive integer, the number denoted [del]by[/del] the row is
+(0) [math]\sum_{k+1-x}^{\infty} n_i 2^i + \frac{1}{1-2^{h-k}} \sum_{l-x}^{h-x} n_i 2^i[/math].
+
+● Whatever positive integer [math]x[/math] may be we may remove the first dot from the [math]h\text{th}[/math] place to the [math](h-x)\text{th}[/math] place, provided we affix additional figures to the right of the [math]l\text{th}[/math] place making [math]n_{l-j} = n_{h+1-j}[/math] for each positive value of [math]j[/math], and provided we remove the last dot from the [math]l\text{th}[/math] place to the [math](k-x+yl-yk)\text{th}[/math] place, [math]y[/math] being any positive integer we choose, and the number denoted will remain the same, by the formula (0).

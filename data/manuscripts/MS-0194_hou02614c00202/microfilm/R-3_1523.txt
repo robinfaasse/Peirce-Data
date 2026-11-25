@@ -1,0 +1,27 @@
+$$\tan(p+q) + \tan(p-q)$$
+$$= \frac{\sin p \cos q}{\cos p \cos q} + \frac{\sin \cos' + \cos \sin'}{\cos \cos' - \sin \sin'} + \frac{\sin \cos' - \cos \sin'}{\cos \cos' + \sin \sin'}$$
+
+$$\frac{2 \sin \cos}{\cos^2 \cos'^2 - \sin \cos \sin' \cos' - \sin^2 \sin'^2 + \sin \cos \sin' \cos'} = \frac{\sin \cos \cos'^2 + \cos^2 \sin \cos' + \sin^2 \sin'}{\sin \cos \cos'^2 - \cos^2 \sin \cos'}$$
+
+$$\frac{\sin 2p}{\cos(p+q)}$$
+
+$$\frac{p\bar{q} + \bar{p}q}{\bar{p}\bar{q} - pq} + \frac{p\bar{q} - \bar{p}q}{\bar{p}\bar{q} + pq}$$
+
+$$\frac{p\bar{p}\bar{q}^2 + [del]p^2[/del]\bar{p}^2\bar{q}q + p\bar{p}q^2 - [del]p^2[/del]\bar{p}^2\bar{q}q}{\bar{p}^2\bar{q}^2 - p^2q^2}$$
+
+$$\frac{\sin 2p}{2 \cos 2p + \cos 2q}$$
+
+$$\frac{p^2\bar{q}^2 - p^2q^2}{1 - p^2 - q^2}$$
+$$\cos 2p = \bar{p}^2 - p^2$$
+$$1 - 2p^2$$
+$$p^2 = \frac{1}{2}(1 - \cos 2p)$$
+$$q^2 = \frac{1}{2}(1 - \cos 2q)$$
+$$p^2 + q^2 = 1 - \frac{1}{2}\cos 2p - \frac{1}{2}\cos 2q$$
+
+$$\frac{\alpha}{\beta} + \frac{\beta}{\alpha} = (\alpha + \beta)$$
+
+$$x^2 - x S(\alpha + \beta) + S^2 \alpha\beta = 0$$
+
+$$\frac{x - S\alpha}{x - S\beta} = S\tan\left(\frac{51^\circ + 90 - \text{lat}}{2}\right)$$
+
+[fig]Sphere with intersecting planes and angles[/fig]

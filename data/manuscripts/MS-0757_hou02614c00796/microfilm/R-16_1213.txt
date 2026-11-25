@@ -1,0 +1,30 @@
+I propose to call two propositions equivalent if they
+are equally true, that is to say, if they are either
+both true or both false. Observe that, in general, two
+propositions [del]are equ[/del] may be said to be equivalent
+in meaning if in every conceivable state of things
+in which one is true, the other is also true. But at
+present we are only considering [ins]having[/ins] a single state of
+things, and [del]in[/del] reference to this, [del]the[/del] [ins]locally,[/ins] [del]propositions are[/del]
+equivalent equivalence [del]reduces to[/del] has no other meaning
+than the simultaneous truth or falsehood of the propositions.
+For them the propositions have no [ins]general[/ins] meaning. To say that X
+and Y are equivalent is the same as to say X < Y and Y < X.
+[del][ [ins]Suppose[/ins] [del]The student must prove this[/del] ][/del]
+
+The propositions
+X < (Y < Z) and Y < (X < Z)
+are equivalent. For suppose X false, then the [del]first is[/del]
+[del]X false, Y false, Z fal[/del]
+[del]X false, then the first is true.[/del]
+[del]true.[/del] But then also X < Z is true and consequently the
+second is true. Suppose, Y false, then the second is
+true. But then also Y < Z is is true, and consequently the
+first is true. Suppose Z true, then Y < Z is true and [ins]consequently[/ins] the
+first is true. But then also, X < Z is true, and consequently
+the second is true. It only remains to consider the case
+when X is true, Y is true, and Z is false. [del]For[/del] Because
+Y is true and Z false, Y < Z is false; and because
+X is true and Y < Z false the first is false. But because
+X is true and Z false, X < Z is false; and because Y is
+true and X < Z false, the second is false.

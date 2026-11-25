@@ -1,0 +1,19 @@
+[pn]15[/pn]
+[u]Report on Morrison's Bridge[/u]
+
+Thence, the work on the left hand virtual backstay is
+$$\frac{1}{2} \frac{\text{T}}{\text{I}'} \left( \text{B} + \frac{\text{I}'_{k}}{\text{I}'} \sqrt{1 + (x'_{k}/2y'_{k})^{2}} \right) \left( \sqrt{x_{0}^{2}+y_{0}^{2}} + \mu_{k} \frac{\text{I}'_{k} \sqrt{1 + (x'_{k}/2y'_{k})^{2}}}{\text{e} + \mu_{k} \sqrt{1 + (x'_{k}/2y'_{k})^{2}}} \right)^{2}$$
+and the work upon the right hand virtual backstay is
+$$\frac{1}{2} \frac{\text{T}}{\text{I}'} \left( \text{e} + \mu_{k} \sqrt{1 + (x'_{k}/2y'_{k})^{2}} \right) \left( \sqrt{(x'_{2k}-x_{2k})^{2}+y_{2k}^{2}} + \mu_{k} \frac{\text{I}'_{k} \sqrt{1 + (x'_{k}/2y'_{k})^{2}}}{\text{e} + \mu_{k} \sqrt{1 + (x'_{k}/2y'_{k})^{2}}} \right)^{2}$$
+
+As for the work upon the extensions of the truss it [del]comes[/del] is included in the general expression for the work upon the truss.
+
+The condition of equilibrium is that every possible variation of the work shall vanish. That is, taking first the variation of any $x$ not at the limits,
+[del]$0 = \delta \left( \sqrt{(dx/d\eta)^{2} + (dy/d\eta)^{2}} - \frac{dl}{dp} \right)$[/del]
+
+$$0 = \frac{\text{T}}{\text{I}'} \text{e} \left( \frac{df}{dl} - \frac{1}{\sqrt{(dx/d\eta)^{2} + (dy/d\eta)^{2}}} \right) \frac{d^{2}x}{dp^{2}} - \delta \text{T} \left( \frac{1}{\eta} - \frac{1}{\sqrt{(\xi-x+x')^{2} + (\eta-y+y'_{k})^{2}}} \right) (\xi-x+x')$$
+
+At the left hand limit
+
+$$0 = - \text{e} \left[ \frac{\text{T}}{\text{I}'} \left( \frac{dx/dp}{dl/dp} \right)_{0} - \frac{1}{\sqrt{1 + (dy/dx)_{0}^{2}}} \right] - \delta \text{T} \left( \frac{1}{\eta} - \frac{1}{\sqrt{(\xi_{0}-x_{0})^{2} + (\eta_{0}-y_{0}+y'_{k})^{2}}} \right) (\xi_{0}-x_{0})$$
+$$+ \left[ \frac{1}{\text{I}'} \left( \text{e} + \mu_{k} \sqrt{1 + (x'_{k}/2y'_{k})^{2}} \right) + \mu_{k} \frac{\sqrt{1 + (x'_{k}/2y'_{k})^{2}}}{\sqrt{x_{0}^{2}+y_{0}^{2}}} \right] x_{0}$$

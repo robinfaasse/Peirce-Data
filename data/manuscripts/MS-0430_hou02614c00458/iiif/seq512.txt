@@ -1,0 +1,31 @@
+[fig]figure[/fig]
+                                   [u]x[/u] [u]y[/u] [u]z[/u]  h x y
+                                                                                               [u]h[/u] [u]x[/u] [u]z[/u]  (h [u]y[/u] [u]x[/u])   (z x h) & [del](z[/del] [ins]x[/ins] [u]h[/u] [u]y[/u]).(h y x)
+                   x y [u]h[/u] [u]z[/u] [del][(x[/del] [ins]~[/ins] [u]y[/u] [u]h[/u] [u]x[/u] [del]h x x)[/del] [ins][h x x][/ins]]
+                                                                                               [u]h[/u] [u]x[/u] [u]y[/u] [u]h[/u] [u]x[/u]           [u]z[/u] [u]h[/u] [u]y[/u] [del]x[/del] [ins]h[/ins] [u]x[/u] [u]y[/u] (h y h x)
+ [u]h[/u] [u]y[/u] + [u]h[/u] [u]x[/u]  [u]x[/u] [u]y[/u] + [u]h[/u] [u]y[/u]
+                                   [u]x[/u] [u]y[/u] [u]h[/u] [u]y[/u] [u]h[/u] [u]x[/u]                                             [u]z[/u] [u]h[/u] [u]y[/u] [u]x[/u]                               ~ [u]x[/u] ([del]h[/del] [ins]y[/ins] [u]x[/u])  [u]h[/u] [u]z[/u] + [u]h[/u] [u]x[/u]
+                                                                                                  [del]([u]h[/u] [u]y[/u] [u]x[/u])[/del]
+                                   [u]x[/u] + [u]h[/u] [u]y[/u] [u]h[/u] [u]x[/u]                                               [u]h[/u] [u]z[/u] [u]x[/u]                              ~ (h y x)
+                                                                                                                                                 x h + h x
+                                   [u]x[/u] x h ~ (h ~ x)                                            [u]h[/u] [u]x[/u] + [u]h[/u] [u]x[/u]                  [del]z x h x h[/del]
+                                                                                            (x ~ h) x (h ~ x)                    [u]z[/u] [u]x[/u] [u]h[/u] + [u]x[/u]
+ h . x ~ [[u]h[/u] [u]x[/u] ~ (h ~ x)]   h + [u]x[/u] . h [del]x[/del] [ins]h[/ins] [u]x[/u]                                                                [u]z[/u] [u]y[/u] [u]h[/u] . [u]x[/u]
+                                                                                                  [fig]figure[/fig]                         [del](z x h)[/del] (z [u]h[/u] x)
+                            x ~ [u]h[/u] ~ (h ~ x)                                                                                  [u]h[/u] + [u]x[/u]
+                                                                                                  (h ~ x) (h ~ x)
+                        h . x ~ h [u]x[/u] x  h ~ (h ~ x)                                          [u]h[/u] + [u]x[/u]                                [del]x[/del] [ins]z[/ins] [del]h[/del] [ins]x[/ins] [del]x[/del] [ins]h[/ins]
+                                                                                            [del]h[/del] + [u]h[/u] [u]x[/u]
+                                [u]h[/u] [u]x[/u] [u]h[/u] [u]x[/u]                                                                                                x
+                                                                                                                            z [u]y[/u] (h [u]h[/u] x)
+                                      [u]z[/u] [u]h[/u] . [u]x[/u]                                               (z x [u]h[/u]) . (h [u]x[/u] x)        [u]z[/u] [u]y[/u] [del]h[/del] [ins]z[/ins] [u]x[/u]
+                                                                                                                                       (x + y - f)
+                                       [u]h[/u] + [u]x[/u]                                                [u]z[/u] [u]y[/u] (h y x) = (z y h) + x
+                               z [u]y[/u] (h y x)
+(x + y) h (+ x)  [h + y + x] [[x + y + h]]
+                      [u]h[/u] [u]y[/u]  [u]h[/u] [u]z[/u] [u]x[/u]     (x ~ h) (h ~ x)
+                                       f > h [del]h h + x[/del]                                                            [u]x[/u] + x . x
+                                       f ~ (f ~ [[del]x x h[/del]] ~ [[del]h ~ x[/del]])                                    x   [u]x[/u] [u]z[/u] [u]x[/u]      [u]h[/u] [u]z[/u] + h x
+                                    f ~ (y ~ x ~ h)                  h x y                               x y x y x
+                                          [u]h[/u] + [u]h[/u]                                                                                    (h + y + x)
+                                          = h                                                                                      [h + y + x]

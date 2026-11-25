@@ -1,0 +1,46 @@
+[marginalia]
+[del]log [frac]\sqrt{1+x^{2}} - \frac{x}{2} + 1 + \sqrt{x^{2}-1}[/frac][/del]
+[/marginalia]
+
+[del]\frac{1}{K} ( - \frac{1}{2} + \frac{1}{K} \sqrt{1 + \frac{5}{K^{2}}} )[/del]
+
+[del]\frac{3}{(x+1)^{4}} - \frac{2}{(x+1)^{3}} + \frac{1}{(x+1)^{2}}[/del]
+[del]+ \frac{3}{(x+1)^{4}} - \frac{2}{(x+1)^{3}}[/del]
+[del]- \frac{3}{(x+1)^{4}}[/del]
+
+[frac]3}{K^{3}} \sqrt{1 + \frac{5}{K^{2}}} - \frac{2}{K^{2}} + 1[/frac]
+
+[frac]2}{K^{2}} \sqrt{1 + \frac{5}{K^{2}}} + \frac{4}{K^{2}}[/frac]
+[frac]2}{K^{2}} \sqrt{1 + \frac{5}{K^{2}}} + \frac{4}{K^{2}} - \frac{4}{K^{2}} - \frac{8}{K^{3}}[/frac]
+[frac]2}{K^{2}} \sqrt{1 + \frac{5}{K^{2}}} ( \frac{2}{K^{2}} + \frac{4}{K^{3}} ) + \frac{2}{K^{2}} - \frac{4}{K^{3}} - \frac{8}{K^{4}} - \frac{1}{K^{4}}[/frac]
+
+[del]+ \frac{1}{K} ( - \frac{1}{2} + \frac{1}{K} \sqrt{1 + \frac{5}{K^{2}}} )^{2} = \frac{1}{K} ( \frac{1}{4} - \frac{1}{K} \sqrt{1 + \frac{5}{K^{2}}} + \frac{1}{K^{2}} + \frac{5}{K^{4}} )[/del]
+[del]+ \frac{2}{K^{2}} ( - \frac{1}{2} + \frac{1}{K} \sqrt{1 + \frac{5}{K^{2}}} )^{2}[/del]
+
+[frac]2}{K^{2}} \sqrt{1 + \frac{5}{K^{2}}} + \frac{8}{K^{3}} \sqrt{1 + \frac{5}{K^{2}}} + \frac{24}{K^{4}} \sqrt{1 + \frac{5}{K^{2}}} + \frac{2}{K^{2}} + \frac{8}{K^{3}} + \frac{24}{K^{4}}[/frac]
+
+[frac]2}{K^{2}} - \frac{4}{K^{3}} - \frac{8}{K^{4}} - \frac{1}{K^{4}}[/frac]
+[frac]2}{K^{2}} - \frac{4}{K^{3}} - \frac{9}{K^{4}}[/frac]
+[frac]2}{K^{2}} - \frac{4}{K^{3}} - \frac{9}{K^{4}}[/frac]
+[frac]2}{K^{2}} - \frac{4}{K^{3}} - \frac{9}{K^{4}}[/frac]
+[frac]2}{K^{2}} - \frac{4}{K^{3}} - \frac{9}{K^{4}}[/frac]
+[frac]2}{K^{2}} - \frac{4}{K^{3}} - \frac{9}{K^{4}}[/frac]
+
+[del]+ \frac{1}{K} ( - \frac{1}{2} + \frac{1}{K} \sqrt{1 + \frac{5}{K^{2}}} )^{3} = \frac{1}{K} ( - \frac{1}{8} + \frac{3}{4K} \sqrt{1 + \frac{5}{K^{2}}} - \frac{3}{K^{2}} - \frac{15}{K^{4}} + \frac{1}{K^{3}} \sqrt{1 + \frac{5}{K^{2}}} )[/del]
+[del]+ \frac{2}{K^{2}} ( - \frac{1}{2} + [del]\frac{1}{K}[/del] \sqrt{1 + \frac{5}{K^{2}}} )^{3}[/del]
+
+[u](a + b + c)^{3}[/u]
+= a^{3} + 3 a^{2}b + 3 a b^{2} + b^{3}
++ 3 a^{2}c + 6 a b c + 3 b^{2}c
++ 3 a c^{2} + 3 b c^{2}
++ c^{3}
+
+\frac{2}{K^{2}} \sqrt{1 + \frac{5}{K^{2}}} ( \frac{2}{K^{2}} + \frac{4}{K^{3}} + \frac{8}{K^{4}} ) + \frac{2}{K^{2}} - \frac{4}{K^{3}} - \frac{9}{K^{4}} - \frac{1}{K^{4}}
+
+\frac{K^{2}}{\sqrt{K^{2}-1}} = K ( 1 + \frac{1}{2 K^{2}} + \frac{3}{8 K^{4}} + \frac{5}{16 K^{6}} ) = K + \frac{1}{2 K} + \frac{3}{8 K^{3}} + \frac{5}{16 K^{5}}
+
+= - \frac{1}{2} - \frac{1}{2 K} + \frac{1}{K} \sqrt{1 + \frac{5}{K^{2}}}
+
+\frac{2}{K^{2}} \sqrt{1 + \frac{5}{K^{2}}} ( \frac{2}{K^{2}} + \frac{4}{K^{3}} + \frac{8}{K^{4}} ) + \frac{2}{K^{2}} - \frac{4}{K^{3}} - \frac{9}{K^{4}} - \frac{1}{K^{4}}
+\frac{2}{K^{2}} \sqrt{1 + \frac{5}{K^{2}}} ( \frac{2}{K^{2}} + \frac{4}{K^{3}} + \frac{8}{K^{4}} ) + \frac{2}{K^{2}} - \frac{4}{K^{3}} - \frac{9}{K^{4}} - \frac{1}{K^{4}}
+\frac{2}{K^{2}} \sqrt{1 + \frac{5}{K^{2}}} ( \frac{2}{K^{2}} + \frac{4}{K^{3}} + \frac{8}{K^{4}} ) + \frac{2}{K^{2}} - \frac{4}{K^{3}} - \frac{9}{K^{4}} - \frac{1}{K^{4}}

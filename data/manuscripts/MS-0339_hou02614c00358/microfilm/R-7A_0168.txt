@@ -1,0 +1,33 @@
+[pn]12[/pn]
+
+[fig]Three-line syllogistic schema with M, P, S[/fig]
+M — P
+S — M
+S — P
+
+[fig]Bracket grouping two syllogistic schemas[/fig]
+S — P
+S — M
+M — P
+
+M — P
+S — P
+S — M
+
+[u]with other premises[/u]
+
+[del]Some[/del] [ins]All[/ins] S is [del]not[/del] P
+[del]All[/del] [ins]Some[/ins] S is M
+Some M is [del]not[/del] P
+
+All M is [del]not[/del] P
+[del]Some[/del] [ins]All[/ins] S is [del]not[/del] P
+[del]All[/del] [ins]Some[/ins] S is M
+
+[del]All[/del] S is [del]not[/del] P
+S is [del]not[/del] M
+All M is P
+
+S is [del]not[/del] P
+S is [del]not[/del] M
+S is M

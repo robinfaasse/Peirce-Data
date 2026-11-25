@@ -1,0 +1,98 @@
+[fig]Two intersecting lines[/fig]
+[fig]Two crossed lines with ink blot[/fig]
+1 line [del]forces[/del] [ins]forms[/ins] 1 side 0 angles
+2 lines [del]2[/del] [ins]2[/ins] " [del]4[/del] [ins]3[/ins] sides 1 "
+3 lines [del]4[/del] [ins]3[/ins] " [del]12[/del] [ins]6[/ins] " 3 "
+4 lines [del]7[/del] [ins]4[/ins] " [del]24[/del] [ins]12[/ins] " 6 "
+5 lines [ins]5[/ins] " [ins]20[/ins] " 10 "
+
+[fig]Two horizontal lines crossed by two vertical lines[/fig]
+[fig]Two crossed lines[/fig]
+[fig]Two horizontal lines crossed by two vertical lines and one diagonal line[/fig]
+[fig]Two horizontal lines crossed by two vertical lines[/fig]
+
+01234
+01452
+50213
+51324
+52430
+53041
+
+[fig]Five lines intersecting with numbered regions[/fig]
+
+[del]4 1 3 0 2[/del]
+[del]0 1 3 4 2[/del]
+
+⑤ 0 1 5 2 3
+④ 0 5 1 2 4
+③ 5 0 1 3 4
+② 3 2 0 4 5
+① 3 4 1 2 5
+
+[fig]Grid of squares with numbers[/fig]
+
+[fig]Geometric diagram with rectangles and numbers[/fig]
+
+[fig]Geometric diagram with rectangles[/fig]
+
+[fig]Five lines intersecting with ink blot[/fig]
+
+[fig]Five lines intersecting with numbers 4, 4, 4[/fig]
+[fig]Five lines intersecting with numbers 4, 3, 5, 3, 4[/fig]
+[fig]Five lines intersecting with numbers 4, 3, 5, 3, 4[/fig]
+
+5 lines
+1 quinquilateral
+5 quad
+5 tri
+
+[fig]Square[/fig]
+
+6 lines
+[u]1[sup]st[/sup] case[/u]
+cuts 5 quadrilaterals
+[del]22 making[/del]
+6 quinquilaterals
+10 trilaterals
+
+[fig]Six lines intersecting[/fig]
+
+[u]2[sup]nd[/sup] case[/u]
+cuts 1 triangle 4 quadr.
+making
+3 quinquilaterals
+[del]6[/del] [ins]5[/ins] quadrilaterals
+7 triangles
+
+[u]3[sup]d[/sup] case[/u]
+cuts 2 tri. 3 quadri
+making
+2 quinquil.
+8 quadri
+6 tri
+
+[del]6[/del] [ins]5[/ins] [del]tri[/del] [ins]quad[/ins]
+[del]making[/del]
+[del]2 quinqu[/del]
+[del]8 quad[/del]
+[del]6 tri[/del]
+
+[u]4[sup]th[/sup] Case[/u]
+Cuts 2 adjacent sides of quinquilat.
+2 tri.
+2 quadrilat
+[del]1 tri[/del]
+1 sexilateral
+9 quadril.
+6 trilat
+
+[u]5[sup]th[/sup] Case[/u]
+Cuts 2 [del]non[/del] adj. other sides
+2 quadri (Cuts [del]1[/del] [ins]2[/ins] tri [del]1[/del] [ins]2[/ins] q...
+2 tri.
+makes
+2 quinquilat
+8 quadr
+6 tri
+
+[fig]Six lines intersecting[/fig]

@@ -1,0 +1,17 @@
+(5) $$Q = q_n \cos \tau_n .$$
+From equation (3), it appears that
+$$w_n = q_n \sin \tau_n + \text{a Constant}.$$
+The constant is determined by the fact that
+(a) $$w_0 = 0,$$
+so that
+$$w_1 = q_1 \sin \tau_1 - q_0 \sin \tau_0 .$$
+Hence
+(7) $$w_n = q_n \sin \tau_n - q_0 \sin \tau_0$$
+$$= Q (\tan \tau_n - \tan \tau_0) .$$
+Supposing all the weights positive (i.e. no buoyancy or levitation), it follows that
+(8) If $m > n$ then $\tau_m > \tau_n$.
+Since $w_N$ is the total weight, which we may denote by $W$, we have
+(9) $$W = Q (\tan \tau_N - \tan \tau_0) .$$
+The two terms are the downward pressures on the towers or the lift by them on the cord. If the cord descends from A, $\tau_0$ is negative.
+Substituting (1) in (7) we have,
+(10) $$\frac{w_n}{Q} + \tan \tau_0 = \frac{\Delta y_n}{\Delta x_n} .$$

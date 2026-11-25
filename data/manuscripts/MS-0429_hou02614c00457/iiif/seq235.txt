@@ -1,0 +1,24 @@
+109
+418
+
+[fig]figure[/fig] For example,
+$$\underline{\text{i}}" + \underline{\text{j}}" + \underline{\text{k}}" = 0 \quad \quad \underline{\text{l}}" + \underline{\text{m}}" + \underline{\text{n}}" = 0;$$
+while, without the accents, these equations would not hold good.
+But this very fact will lead us, in due time, to an analogy, not
+only very pretty, but of the highest importance for logic.
+[del]409[/del] [ins]408[/ins] It is to be added that the multiplication-table of
+$\underline{\text{i}}", \underline{\text{j}}", \underline{\text{k}}", \underline{\text{l}}", \underline{\text{m}}", \underline{\text{n}}"$ is precisely the same as that of
+$\underline{\text{i}}, \underline{\text{j}}, \underline{\text{k}}, \underline{\text{l}}, \underline{\text{m}}, \underline{\text{n}},$ except that accents are everywhere added.
+But it is seriously important, both for the sake of the purely
+ideal beauty of this algebra, and still more in view of its great
+application to logic, that we should not allow its triadic purity
+to be violated. Now the reciprocal relation between the unac-
+cented and the accented letters, were it allowed to stand alone,
+would be a purely dichotomic one. In order to avoid this, we
+ought to introduce the following singly accented letters:
+
+$$\begin{array}{c|c}
+\underline{\text{i}}' = \frac{\underline{\text{j}}-\underline{\text{k}}}{\sqrt{-3}} \quad \underline{\text{i}}" = \frac{\underline{\text{j}}'-\underline{\text{k}}'}{\sqrt{-3}} & \underline{\text{l}}' = \frac{\underline{\text{m}}-\underline{\text{n}}}{\sqrt{-3}} \quad \underline{\text{l}}" = \frac{\underline{\text{m}}'-\underline{\text{n}}'}{\sqrt{-3}} \\
+\underline{\text{j}}' = \frac{\underline{\text{k}}-\underline{\text{i}}}{\sqrt{-3}} \quad \underline{\text{j}}" = \frac{\underline{\text{k}}'-\underline{\text{i}}'}{\sqrt{-3}} & \underline{\text{m}}' = \frac{\underline{\text{n}}-\underline{\text{l}}}{\sqrt{-3}} \quad \underline{\text{m}}" = \frac{\underline{\text{n}}'-\underline{\text{l}}'}{\sqrt{-3}} \\
+\underline{\text{k}}' = \frac{\underline{\text{i}}-\underline{\text{j}}}{\sqrt{-3}} \quad \underline{\text{k}}" = \frac{\underline{\text{i}}'-\underline{\text{j}}'}{\sqrt{-3}} & \underline{\text{n}}' = \frac{\underline{\text{l}}-\underline{\text{m}}}{\sqrt{-3}} \quad \underline{\text{n}}" = \frac{\underline{\text{l}}'-\underline{\text{m}}'}{\sqrt{-3}}
+\end{array}$$

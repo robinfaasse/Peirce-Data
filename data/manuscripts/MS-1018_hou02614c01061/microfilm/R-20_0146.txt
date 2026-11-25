@@ -1,0 +1,43 @@
+[fig]Geometric diagram with lines and angles[/fig]
+
+[fig]Geometric diagram with a triangle and arc[/fig]
+
+[fig]Geometric diagram with a horizontal line and vertical tick[/fig]
+
+[fig]Geometric diagram with a triangle[/fig]
+
+[fig]Geometric diagram with a triangle and arc[/fig]
+
+[fig]Geometric diagram with a triangle[/fig]
+
+[fig]Geometric diagram with a triangle[/fig]
+
+$\frac{v_0}{v_a} = \sin \theta$
+
+$v_0^2 \cos^2 \theta = (D_t s)^2$
+
+$\pm v_0 \cos \theta = (D_t s)$
+
+$\pm v_0 \cos \theta = D_t \frac{v_0}{v_a} \sin \theta$
+
+$\pm \cos \theta = \frac{1}{v_a} D_t \sin \theta$
+
+$\pm \cos \theta = \frac{1}{v_a} D_t \theta \cos \theta$
+
+$\pm v_a = D_t \theta$
+
+$t = t_0 \pm \frac{1}{v_a} \theta$
+
+$T = \frac{\theta}{v_a}$
+
+[fig]Two small loop diagrams[/fig]
+
+[fig]Two small crossed line diagrams[/fig]
+
+$D_t s = v_0$
+
+$(D_t s)^2 = v_0^2 \sin^2 \theta$
+
+$\frac{1}{a^2} (D_t s)^2 = \frac{D_0^2}{a s^2} \times \frac{D_s (D_t s)^2}{2 \frac{D_0^2}{a s^2} D_t s}$
+
+$D_t s = \sqrt{v_0^2 - a^2 s^2} = v_0 \sqrt{1 - \frac{a^2}{v_0^2} s^2}$

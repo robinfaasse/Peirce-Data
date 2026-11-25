@@ -1,0 +1,61 @@
+[u]M[/u]² + 2[sup]x[/sup][u]n[/u]² = [u]s[/u]²
+[u]M[/u]² - 2[sup]x[/sup][u]n[/u]² = [u]t[/u]²
+
+Then [u]s[/u] and [u]t[/u] are both odd; their sum and
+difference are even; and the halves of sum
+and difference are integers. Since the sum
+of [del]½(s+t)[/del] and ½([u]s[/u]-[u]t[/u]) is [u]s[/u] which is odd, it
+follows that one of the two, ½([u]s[/u]+[u]t[/u]) and ½([u]s[/u]-[u]t[/u]),
+is odd and the other even. Let [u]u[/u] be the
+odd one and 2[sup]y[/sup][u]v[/u], where [u]v[/u] is an odd num-
+ber, be the even one. Or
+½([u]s[/u] ± [u]t[/u]) = [u]u[/u]
+½([u]s[/u] ∓ [u]t[/u]) = 2[sup]y[/sup][u]v[/u].
+
+Now had [u]u[/u] and [u]v[/u] a common divisor, it would
+divide both [u]s[/u] and [u]t[/u]. But if [u]s[/u] and [u]t[/u], being odd,
+had a common divisor, it would divide
+both 2[u]M[/u]² and 2[sup]x+1[/sup][u]n[/u]², and therefore [u]M[/u]² and [u]n[/u]²
+which are relatively prime.
+
+The equations give
+[u]M[/u]² = [u]u[/u]² + 4[sup]y[/sup][u]v[/u]²
+Hence if [u]M[/u] and either [u]u[/u] or [u]v[/u] had a com-
+mon divisor it would divide both [u]u[/u] and
+[u]v[/u]. Hence [u]M[/u], [u]u[/u], [u]v[/u] are relatively prime.
+
+The equations also give
+[u]n[/u]² = 2[sup]-x+y+1[/sup][u]uv[/u]
+and since [u]n[/u], [u]u[/u], [u]v[/u] are all odd -x+y+1 = 0
+and
+[u]n[/u]² = [u]uv[/u]
+[del]Of course u and v are squared.[/del]
+[del]Hence[/del] The other equation gives
+[u]u[/u]² = ([u]M[/u] + 2[sup]y[/sup][u]v[/u])([u]M[/u] - 2[sup]y[/sup][u]v[/u])
+and since [u]M[/u] [del]+ 2[sup]y[/sup]v[/del] and [u]v[/u] are odd numbers rela-
+
+tively prime, it follows that [u]M[/u] + 2[sup]y[/sup][u]v[/u] and
+[u]M[/u] - 2[sup]y[/sup][u]v[/u] are relatively prime, and are,
+therefore squares, their product being a
+square. We may therefore, write
+[u]M[/u] + 2[sup]y[/sup][u]v[/u] = [u]p[/u]²
+[u]M[/u] - 2[sup]y[/sup][u]v[/u] = [u]q[/u]²
+Hence,
+[u]u[/u] = [u]pq[/u]
+and [u]p[/u] and [u]q[/u] being relatively prime are both squares
+2[sup]y-1[/sup][u]v[/u] = [frac][u]p[/u]² + [u]q[/u]²[/frac] · [frac][u]p[/u]² - [u]q[/u]²[/frac]
+whence,
+[u]N[/u]² = 2[sup]y-1[/sup][u]uv[/u] = [frac][u]p[/u]+[u]q[/u][/frac] · [frac][u]p[/u]-[u]q[/u][/frac] · [u]p[/u] · [u]q[/u]
+If [frac][u]p[/u]+[u]q[/u][/frac] and [frac][u]p[/u]-[u]q[/u][/frac] had a common divisor, it
+would divide both [u]p[/u] and [u]q[/u] which are
+relatively prime. If either [frac][u]p[/u]+[u]q[/u][/frac] and [frac][u]p[/u]-[u]q[/u][/frac]
+and either [u]p[/u] or [u]q[/u] had a common divisor,
+it would divide both [u]p[/u] and [u]q[/u]. Hence
+[frac][u]p[/u]+[u]q[/u][/frac], [frac][u]p[/u]-[u]q[/u][/frac], [u]p[/u], [u]q[/u] are relatively prime
+and since their product is a square
+all are squares. (Of course the even
+one is [frac][u]p[/u]-[u]q[/u][/frac])
+
+Hence [frac][u]p[/u]+[u]q[/u][/frac] and [frac][u]p[/u]-[u]q[/u][/frac] are two squares
+whose sum and difference are both
+squares, their sum is [u]p[/u]. Now

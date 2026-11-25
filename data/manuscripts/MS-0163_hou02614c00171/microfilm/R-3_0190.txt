@@ -1,0 +1,38 @@
+Given 5 points on a Conic
+
+Between these five points there are
+necessarily two equations. Say
+$aA + bB + cC + dD + eE = 0$
+$a'A + b'B + c'C + d'D + e'E = 0$
+where $a = a' + b' + c' + d' + e' = 0$
+
+To find $\{AE\} \{BD\}$
+$\frac{(ae' - ae')A + (be' - be')B + (ce' - ce')C}{d'e - de'} = D$
+
+$\frac{(ad' - ad')A + (bd' - bd')B + (cd' - cd')C}{de' - d'e} = E$
+
+$\{AE\} = [ (ae' - ae') + \frac{x}{d}(b' + c')d ] A + x(bd' - bd')B + x(cd' - cd')C$
+$\{BD\} = \frac{y(ae' - ae')A + [ (be' - be') + y(a' + c')d ] B + y(ce' - ce')C}{d'e - de'}$
+
+At the intersection
+$\frac{y}{d'e - de'} (ce' - ce') = \frac{x}{de' - d'e} (cd' - cd')$
+$y = x \frac{cd' - cd'}{ce' - ce'}$
+
+$x = \frac{1 + y ( \frac{ad' - ad'}{de' - de'} )}{ \frac{ae' - ae'}{d'e - de'} - \dots }$
+
+$x = \frac{1 - \frac{ad' - ad'}{de' - d'e} + \frac{cd' - cd'}{ce' - ce'} \frac{ae' - ae'}{d'e - de'}}{ \frac{(ce' - ce')(ae' - ae')}{ (de' - de') } }$
+
+$= \frac{ (ce' - ce')(de' - de') + (ad' - ad')(de' - de') + (ae' - ae')(cd' - cd') }{ (ce' - ce')(ae' - ae') }$
+
+$\{AE\} \{BD\} = \frac{ [ (ae' - ae') + \frac{x}{d}(b' + c')d ] A + x(bd' - bd')B + x(cd' - cd')C }{ (ce' - ce')(de' - de') + (ad' - ad')(de' - de') + (ae' - ae')(cd' - cd') }$
+
+---
+
+$\{AE\} = \frac{ [ (ae' - ae') + \frac{x}{d}(b' + c')d ] A + x(bd' - bd')B + x(cd' - cd')C }{ de' - de' }$
+$\{BD\} = \frac{ y(ae' - ae')A + [ (be' - be') + y(a' + c')d ] B + y(ce' - ce')C }{ d'e - de' }$
+
+$y(ae' - ae') = (de' - d'e) + x [ (b' + c')d - (b+c)d' ]$
+$x = \frac{d'e - de'}{ (b' + c')d - (b+c)d' + \frac{(ae' - ae')(cd' - cd')}{c'e - ce'} }$
+$= \frac{ (d'e - de')(c'e - ce') }{ (b'd - bd')(c'e - ce') + (cd' - cd')(c'b - ce') + (de' - ae')(cd' - cd') }$
+
+$\{AE\} \{BD\} = \frac{ (ae' - ae')(cd' - cd') + (bd' - bd')(ce' - ce') + (cd' - cd')(ce' - ce') B }{ (ae' - ae')(cd' - cd') + (bd' - bd')(ce' - ce') + (cd' - cd')(ce' - ce') C }$

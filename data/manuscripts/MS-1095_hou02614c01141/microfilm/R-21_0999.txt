@@ -1,0 +1,21 @@
+[del]Bringing[/del] Reducing these to symbolical form by the omission of terms of higher orders, we obtain the approximate period by the solution of the symbolical equation
+
+[del]$\text{A}_1\text{D}^2+\text{B}_1$ $\text{A}_{12}\text{D}^2$ $\text{A}_{13}\text{D}^2$[/del]
+
+$$\left| \begin{matrix}
+\text{A}_1\text{D}^2+\text{B}_1, & \text{A}_{12}\text{D}^2+\text{B}_{12}, & \text{A}_{13}\text{D}^2, & \text{A}_{14}\text{D}^2, & \dots & \text{A}_{1p}\text{D}^2 \\
+\text{A}_{12}\text{D}^2+\text{B}_{21}, & \text{A}_2\text{D}^2+\text{B}_2, & \text{A}_{23}\text{D}^2+\text{B}_{23}, & \text{A}_{24}\text{D}^2, & \dots & \text{A}_{2p}\text{D}^2 \\
+\text{A}_{13}\text{D}^2, & \text{A}_{23}\text{D}^2+\text{B}_{32}, & \text{A}_3\text{D}^2+\text{B}_3, & \text{A}_{34}\text{D}^2+\text{B}_{34}, & \dots & \text{A}_{3p}\text{D}^2 \\
+- - - & - - - & - - - & - - - & - - - & - - - \\
+- - - & - - - & - - - & - - - & - - - & - - - \\
+\text{A}_{1p}\text{D}^2, & \text{A}_{2p}\text{D}^2, & \text{A}_{3p}\text{D}^2 & - - - & & \text{A}_p [del]\text{D}^2+\text{B}_p[/del]
+\end{matrix} \right| = 0$$
+
+where the [del]coeffe[/del] coefficients have the following values, where $i > j$.
+[del]$\text{A}_1 = \text{m}_1(h_1^2+\gamma_1^2) + 2 \sum_{2}^p \text{m}_n l_n^2$[/del]
+[del]$\text{A}_{12} = (\text{m}_2 h_2 + \sum_{i+2}^p \text{m}_n l_n) l_1$[/del]
+[del]$\text{A}_{1p} = \text{m}_p h_p l_1$[/del]
+[del]For $k > i$ $\text{A}_{ki} = (\text{m}_k h_k + \sum_{k+2}^p \text{m}_n l_n) l_i$[/del]
+[del]$\text{A}_k = \text{m}_k (h_k^2 + \gamma_k^2) + 2 \sum_{k+1}^p \text{m}_n l_k^2$[/del]
+[del]$\text{A}_{kp} = \text{m}_p h_p l_k$[/del]
+[del]$\text{A}_p = \text{m}_p (h_p^2 + \gamma_p^2)$[/del]

@@ -1,0 +1,22 @@
+$(\bar{a}+b)(\bar{c}+d)\bar{e}+f$
+
+$[(a\prec b)\prec(c\prec d)\prec e]\prec f$
+
+$(\bar{a}+b\bar{c}+d)\bar{e}+f$
+
+$\{[a\prec(b\prec c)\prec d]\prec e\}\prec f$
+
+$\begin{array}{ll}
+(a\prec b)\prec(c\prec d)\prec e & a\bar{b}+c\bar{d}+e \\
+[a\prec(b\prec c)\prec d]\prec e & a(\bar{b}+c)\bar{d}+e \\
+& a(\bar{b}+c\bar{d}) \\
+[a\prec(b\prec c)\prec d]\prec e & \\
+\{[(a\prec b)\prec c]\prec d\}\prec e & [del](a\prec b)(c\prec d)[/del] \\
+(a\prec b\prec c\prec d)\prec e & (\bar{a}+b)(\bar{c}+d)
+\end{array}$
+
+$\begin{array}{ll}
+a\prec(b\prec c)\prec d & \bar{a}+b\bar{c}+d \\
+(a\prec b)\prec[del]c\prec[/del]d) & [del]a\bar{b}+\bar{c}+d[/del] \\
+[(a\prec b)\prec c]\prec d & (\bar{a}+b)\bar{c}+d
+\end{array}$

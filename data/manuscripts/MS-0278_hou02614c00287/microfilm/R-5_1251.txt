@@ -1,0 +1,70 @@
+[marginalia]
+-10
+[/marginalia]
+
+[fig]Vertical grid with binary sequences and wavy lines[/fig]
+
+[marginalia]
+1 0 0 0 1 0 1 1 0 0 1 0 1 0 1 1 0 1 1 0 0 0 1 1 0 1 1 0 0 1 1 1 0 0 1 1 1 1 0 1 0 0 1 1
+[/marginalia]
+
+[marginalia]
+1 0 0 0 0 1 0 0 0 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0 1 0
+[/marginalia]
+
+[marginalia]
+1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0
+[/marginalia]
+
+[fig]Vertical grid with binary sequences and wavy lines[/fig]
+
+***
+
+Squares
+
+[fig]Calculation of squares[/fig]
+
+10
+[u]100[/u]
+
+11
+[u]11[/u]
+1001
+
+100
+10000
+
+101
+[fig]Binary multiplication diagram[/fig]
+[u]101[/u]
+11001
+
+110
+[fig]Binary multiplication diagram[/fig]
+[u]110[/u]
+100100
+
+111
+[fig]Binary multiplication diagram[/fig]
+[u]111[/u]
+110001
+
+1001
+[fig]Binary multiplication diagram[/fig]
+[u]1001[/u]
+1010001
+
+1011
+[fig]Binary multiplication diagram[/fig]
+[u]1011[/u]
+1111001
+
+1101
+[fig]Binary multiplication diagram[/fig]
+[u]1101[/u]
+10101001
+
+1111
+[fig]Binary multiplication diagram[/fig]
+[u]1111[/u]
+11100001

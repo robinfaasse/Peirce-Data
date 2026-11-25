@@ -1,0 +1,44 @@
+[u]i[/u]A = I &emsp; [u]j[/u]A = J &emsp; [u]k[/u]A = K &emsp; [u]l[/u]A = I &emsp; [u]m[/u]A = M
+
+[u]i[/u]I = [u]i[/u]²A = [u]j[/u]A = J &emsp; [u]j[/u]I = [u]ji[/u]A = 0 &emsp; [u]k[/u]I = [u]ki[/u]A = [u]j[/u]A + r[u]l[/u]A &emsp; [u]l[/u]I = [u]li[/u]A = 0 &emsp; [u]m[/u]I = [u]mi[/u]A = (r²-1)[u]j[/u]A = (r²-1)J
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; = J + rI
+
+[u]i[/u]J = [u]ij[/u]A = 0 &emsp; [u]j[/u]J = [u]j[/u]²A = 0 &emsp; [u]k[/u]J = [u]kj[/u]A = 0 &emsp; [u]l[/u]J = [u]lj[/u]A = 0 &emsp; [u]m[/u]J = [u]mj[/u]A = 0
+
+[u]i[/u]K = [u]ik[/u]A = [del][u]l[/u]A = I[/del] &emsp; [u]j[/u]K = [u]jk[/u]A = 0 &emsp; [u]k[/u]K = [u]k[/u]²A = (1+m)A &emsp; [u]l[/u]K = [u]lk[/u]A = [u]j[/u]A = J &emsp; [u]m[/u]K = [u]mk[/u]A = -[u]l[/u]A = -I
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; = I + M
+
+[u]i[/u]I = [u]il[/u]A = 0 &emsp; [u]j[/u]I = [u]jl[/u]A = 0 &emsp; [u]k[/u]I = [u]kl[/u]A = r[u]j[/u]A = rJ &emsp; [u]l[/u]I = [u]l[/u]²A = 0 &emsp; [u]m[/u]I = [u]ml[/u]A = 0
+
+[u]i[/u]M = [u]im[/u]A = 0 &emsp; [u]j[/u]M = [u]jm[/u]A = 0 &emsp; [u]k[/u]M = [u]km[/u]A = [u]j[/u]A - r[u]l[/u]A &emsp; [u]l[/u]M = [u]lm[/u]A = 0 &emsp; [u]m[/u]M = [u]m[/u]²A = -r[u]j[/u]A
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; = -J - rI &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; = -r²J
+
+[u]i[/u] = I:A + J:[del]I[/del][ins]K[/ins] + I:K &emsp; [u]j[/u] = J:A
+
+[u]k[/u] = K:A + J:I + rI:I + I:K + M:K + rJ:I - J:M - rI:M
+
+[u]l[/u] = I:A + J:K
+
+[u]m[/u] = M:A + (r²-1)J:I - I:K - r²J:M
+
+***
+
+[u]i[/u]A = I &emsp; [u]j[/u]A = J &emsp; [u]k[/u]A = K &emsp; [u]l[/u]A = I &emsp; [u]m[/u]A = M
+
+[u]i[/u]I = [u]i[/u]²A = [u]i[/u]A = I &emsp; [u]j[/u]I = [u]ji[/u]A = [u]j[/u]A = J &emsp; [u]k[/u]I = [u]ki[/u]A = 0 &emsp; [u]l[/u]I = [u]li[/u]A = [u]l[/u]A = I &emsp; [u]m[/u]I = [u]mi[/u]A = 0
+
+[u]i[/u]J = [u]ij[/u]A = [u]j[/u]A = J &emsp; [u]j[/u]J = [u]j[/u]²A = 0 &emsp; [u]k[/u]J = [u]kj[/u]A = 0 &emsp; [u]l[/u]J = [u]lj[/u]A = 0 &emsp; [u]m[/u]J = [u]mj[/u]J = 0
+
+[u]i[/u]K = [u]ik[/u]A = [u]k[/u]A = K &emsp; [u]j[/u]K = [u]jk[/u]A = 0 &emsp; [u]k[/u]K = [u]k[/u]²A = 0 &emsp; [u]l[/u]K = [u]lk[/u]A = [u]m[/u]A = M &emsp; [u]m[/u]K = [u]mk[/u]A = 0
+
+[u]i[/u]I = [u]il[/u]A = 0 &emsp; [u]j[/u]I = [u]jl[/u]A = 0 &emsp; [u]k[/u]I = [u]kl[/u]A = [u]j[/u]A = J &emsp; [u]l[/u]I = [u]l[/u]²A = 0 &emsp; [u]m[/u]I = [u]ml[/u]A = 0
+
+[u]i[/u]M = [u]im[/u]A = 0 &emsp; [u]j[/u]M = [u]jm[/u]A = 0 &emsp; [u]k[/u]M = [u]km[/u]A = 0 &emsp; [u]l[/u]M = [u]lm[/u]A = 0 &emsp; [u]m[/u]M = [u]m[/u]²A = 0
+
+[u]i[/u] = I:A + I:I + J:J + K:K
+
+[u]j[/u] = J:A + J:I &emsp; [u]k[/u] = K:A + J:I
+
+[u]l[/u] = I:A + I:J + M:K
+
+[u]m[/u] = M:A

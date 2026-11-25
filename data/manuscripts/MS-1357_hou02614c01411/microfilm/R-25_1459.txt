@@ -1,0 +1,27 @@
+[pn]4[/pn]
+
+[u]§3.[/u] Assuming that the stretch, say that one whose ordinal
+number, [del]n[/del], has the particular value, H, is horizontal, we
+(11) [u]$\tau_H = 0$[/u] [u]$y_{H+1} = y_H$[/u].
+Substituting H for n in (7),
+(12) [u]$\omega_H = - Q \tan \tau_0$[/u],
+where $\tau_0$ is negative. Then, by (9),
+(13) [u]$\omega_H = W - Q \tan \tau_N$[/u].
+Equation (7) now becomes
+(14) [u]$\omega_n - \omega_H = Q \tan \tau_n$[/u]
+and by (10)
+(15) [u]$\frac{\omega_n - \omega_H}{Q} = \frac{\Delta y_n}{\Delta x_n}$[/u].
+
+It may be there is no finite horizontal stretch; but we
+can always conceive that there is an infinitesimal one, by se-
+parating the force at the lowest point of the cord into two parts,
+and still the fundamental equation (14) will hold good.
+If the lowest point of the cord is weighted, suppose that for
+it n = I, where I is a number. Then $\tau_{I-1} < 0$ while $\tau_I > 0$;
+and if we separate the weight at that point, which is $\omega_I - \omega_{I-1}$,
+into two parts, $\omega_I - \omega_H$ and $\omega_H - \omega_{I-1}$, of such magnitudes
+that [u]$\omega_I - \omega_H = Q \tan \tau_I$[/u] [u]$\omega_H - \omega_{I-1} = - Q \tan \tau_{I-1}$[/u],
+which is possible since by (3) and (5)
+[u]$\omega_I - \omega_{I-1} = (\omega_I - \omega_H) + (\omega_H - \omega_{I-1}) = Q \tan \tau_I - Q \tan \tau_{I-1}$[/u]
+then the equation (14) is satisfied. If the lowest point is at the
+end of the cord, we [del]detach[/del] [ins]detach[/ins] from the reaction of the tower a

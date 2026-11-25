@@ -1,0 +1,23 @@
+All philosophers must in future study
+the mathematico-logical doctrine of multitude. We
+now have no difficulty in reasoning with mathe-
+matical accuracy about infinity. I regret that I
+cannot include it in these lectures, but I should be
+happy [del]if you had[/del] [ins]any of you could[/ins] find time for them, to give two or three
+lectures on that subject. However, what I have now to say,
+will require no more understanding of the subject than is re-
+quisite to solve the [ins]little[/ins] quibble of Achilles & the Tortoise. That I may
+presume you see through clearly.
+
+Let us consider for example the spiral whose equation
+is
+$$\theta = \frac{1}{\log(P-r) - \log(r-Q)}$$
+
+[del]So[/del] It is obvious that the real values of $\theta$ will be those for
+which the value of $r$ is less than $P$ and greater than $Q$.
+Suppose we write $r = pP + (1-p)Q$ where ($p$ varies from $0$ to $1$)
+$$\begin{array}{cc}
+P-r = (1-p)(P-Q) & \log(P-r) = \log(1-p) + \log(P-Q) \\
+r-Q = p(P-Q) & \log(r-Q) = \log p + \log(P-Q) \\
+\end{array}$$
+$$\log(P-r) - \log(r-Q) = \log(1-p) - \log p = \log(\frac{1}{p} - 1)$$

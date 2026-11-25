@@ -1,0 +1,24 @@
+[marginalia]
+condition de plus ajoutera un au nombre de tables à
+double entrée qu'il faut pour déterminer le prix donné
+à chaque combinaison de numéros.
+Pour [del]3[/del] [ins]4[/ins] [del]cond[/del] un dépendance de [del]3[/del] [ins]4[/ins] conditions [del]équivaut à[/del] [ins]c'est-à-dire[/ins] [del]2[/del] [ins]3[/ins] [del]dépendances[/del] [ins]dépendance[/ins] de [del]2[/del] [ins]3[/ins] [del]conditions[/del] [ins]dépendances de deux conditions[/ins]
+[/marginalia]
+
+à deux dépendances chacune de deux
+conditions. C'est là une démonstration
+que toute dépendance de trois [del]est une[/del] [ins]n'est qu'une[/ins]
+[ins]complication de[/ins] dépendances de deux. C'est pourquoi
+l'on [del]n'a[/del] [ins]n'aura[/ins] jamais besoin d'une table à triple
+entrée, puisque deux tables [ins]convenables[/ins] à double entrée
+[del]donnent[/del] donneront le même résultat.
+
+Si le prix d'une lotterie dépend de
+n'importe combien de numéros et nous
+avons les tables pour déterminer les prix
+(tous différents) d'une lotterie qui dépendrait
+d'un numéro de moins, nous pourrions
+dresser une table des prix de celle là en
+prenant comme un argument le prix dans
+celle-ci, et [del]en[/del] prenant un numéro [del]comme[/del] [ins]pour[/ins]
+l'autre argument. Cela montre que chaque

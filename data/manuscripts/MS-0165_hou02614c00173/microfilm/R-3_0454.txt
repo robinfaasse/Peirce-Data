@@ -1,0 +1,34 @@
+[pn]207[/pn]
+
+of smallest modulus. But this is because of our very peculiar
+values for $u_1, u_2, u_3$. Had we taken
+$u_1 = 1, \quad u_2 = 1, \quad u_3 = 0$,
+[del]the[/del] [ins]the[/ins] following values would have been
+
+$$\begin{align*}
+u_4 &= .009 \\
+u_5 &= .00719 \\
+u_6 &= .0073619 \\
+u_7 &= .007344619 \\
+u_8 &= .00734684619
+\end{align*}$$
+
+which evidently fast approximates to [del]the[/del] [ins][u]root of smallest modulus[/u].[/ins]
+
+[u]Corollary 62[/u]. If we have given a recurrent series of numbers,
+such as $1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89$, etc it is
+easy by the above rule to say [del]to ward[/del] what quantity the
+[del]ratio of successive[/del] numbers is progressing. For instance, the above approxi-
+mates to the [del]solution[/del] [ins]smallest root[/ins] of $x^2 + x = 1$ which is $x = -\frac{1}{2} \pm \sqrt{\frac{1}{4} + 1} = -\frac{1}{2} \pm \frac{\sqrt{5}}{2} = \frac{\sqrt{5}-1}{2}$.
+
+[u]Art 81[/u]
+[u]Theorem 42[/u]. [u]If an algebraic equation is brought to a form[/u]
+[u]in which one member is zero, if $x$ is the unknown and[/u]
+[u]$x_1$ the value of any root, the equation is divisible by[/u]
+[u]$x - x_1$[/u].
+
+[u]Demonstration[/u]. For were there any [ins]numerical[/ins] remainder left over
+after division, it is plain that putting $x - x_1 = 0$ would leave
+[del]the[/del] make the rest of the quantity vanish and would reduce
+[del]the value[/del] of the first member of the equation to this
+remainder, and not to zero.

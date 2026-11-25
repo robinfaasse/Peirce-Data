@@ -1,0 +1,30 @@
+[pn]387[/pn]
+
+Incommensurable ratios. 1. If we [del]study[/del] [ins]study[/ins] the series of
+numbers
+1  1  2  3  5  8  13  21  34  55  89  144  233  377  610
+where each one is the sum of the two preceding, and express
+the ratio of successive ones in decimals we find
+
+$$\frac{1}{1} = 1.0000000$$
+$$\frac{2}{3} = 0.6666667$$
+$$\frac{5}{8} = 0.6250000$$
+$$\frac{13}{21} = 0.6190476$$
+$$\frac{34}{55} = 0.6181818$$
+$$\frac{89}{144} = 0.6180556$$
+$$\frac{233}{377} = 0.6180371$$
+
+$$\frac{1}{2} = .5000000$$
+$$\frac{3}{5} = .6000000$$
+$$\frac{8}{13} = .6153846$$
+$$\frac{21}{34} = .6176471$$
+$$\frac{55}{89} = .6179775$$
+$$\frac{144}{233} = .6180258$$
+$$\frac{377}{610} = .6180328$$
+
+The one series decreases with every new term, the other
+increases. Now it can be proved that all of one
+series are smaller than, all the others greater than
+[u]$\frac{\sqrt{5}-1}{2}$[/u], which is about 0.6180340, and further
+that a member of either series can be found
+which [del]gives the[/del] differs from [u]$\frac{\sqrt{5}-1}{2}$[/u] by less

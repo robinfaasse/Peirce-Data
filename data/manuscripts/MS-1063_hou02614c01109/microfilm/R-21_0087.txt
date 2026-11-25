@@ -1,0 +1,46 @@
+[fig]Vertical line dividing the page into two columns[/fig]
+[fig]Horizontal line dividing the page into top and bottom halves[/fig]
+
+[del][u]$\frac{1}{q} dq$[/u][/del]
+[del]$= \frac{1}{2} \sin 2\theta (f'_1 \varphi + f'_2 \varphi + f'_3 \varphi) + f'_1 \varphi + f'_2 \varphi + f'_3 \varphi) dq$[/del]
+
+$\sin^2 \theta (f_1 \varphi \cdot f'_1 \varphi + f_2 \varphi \cdot f'_2 \varphi + f_3 \varphi \cdot f'_3 \varphi) dq$
+$+ [del]2[/del] \sin \theta (\cos \theta f'_1 \varphi - \sin \theta f_2 \varphi \cdot f'_3 \varphi + \sin \theta f_3 \varphi \cdot f'_2 \varphi) [ins]dq[/ins]$
+$+ j \sin \theta (\cos \theta f'_2 \varphi - \sin \theta f_3 \varphi \cdot f'_1 \varphi + \sin \theta f_1 \varphi \cdot f'_3 \varphi)$
+$+ k \sin \theta (\cos \theta f'_3 \varphi - \sin \theta f_1 \varphi \cdot f'_2 \varphi + \sin \theta f_2 \varphi \cdot f'_1 \varphi)$
+
+$\int \frac{1}{q} dq = \frac{1}{2} \sin^2 \theta ((f_1 \varphi)^2 + (f_2 \varphi)^2 + (f_3 \varphi)^2)$
+$+ i \sin \theta (\cos \theta \cdot f_1 \varphi$
+
+[del]$+ f_2 df_1 + f_3 df_1 + f_1 df_2 + f_3 df_2 + f_1 df_3 + f_2 df_3$[/del]
+[del]$- f_3 df_2 - f_2 df_3 - f_1 df_3 - f_3 df_1 - f_2 df_1 - f_1 df_2$[/del]
+[del]$- df_1 + f_1 df_1 + f_2 df_1 + f_3 df_1$[/del]
+
+---
+
+$duv = dx du + v du$
+$uv = \int u dv + \int v du$
+$uv^{-1}$
+
+[fig]Right triangle diagram[/fig]
+
+$(S_q - V_q) (S_q + V_q)$
+$= S_q^2 - V_q^2 = Tq$
+
+$\cos \theta + \sin \theta [del](ai + bj + ck)[/del]$
+$\cos^2 \theta + \sin^2 \theta [del](a^2 + b^2 + c^2)[/del]^2 = 1$
+$a^2 + b^2 + c^2 = \pm 1$
+
+$q = \cos \theta + \sin \theta (ai + bj + ck)$
+$\frac{1}{q} = \cos \theta - \sin \theta (ai + bj + ck)$
+$a = f_1 \varphi$ $b = f_2 \varphi$ [del]$c = f_3 \varphi$[/del] $c = f_3 \varphi$
+
+[del]$dq = \sin \theta (f'_1 \varphi i + f'_2 \varphi j + f'_3 \varphi k) dq$[/del]
+
+$u dq + u dv$
+$u du$
+$\frac{1}{2} u^2$
+
+$df_1 + df_2 + df_3$
+$df_1 + df_2 + df_3$
+$f_1 \varphi$

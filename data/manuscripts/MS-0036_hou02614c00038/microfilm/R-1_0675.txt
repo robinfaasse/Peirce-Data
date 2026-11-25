@@ -1,0 +1,11 @@
+[pn]36[/pn]
+
+[u]Definition 5[/u]. A collection, [u]m[/u], may be said to be [u]finite[/u], or [u]enumerable[/u], and we may write [u]e[/u]<sub>m</sub>, if, and only if, [del]every preference[/del] [ins]it is transferred[/ins] to itself by the converse of every preference which transfers it to itself. That is
+(31) <span style="padding-left: 100px;">$\Pi_m \Pi_i \bar{e}_m \mathbin{\psi} \bar{r}_i \mathbin{\psi} \bar{t}_{imm} \mathbin{\psi} t_{imm}$</span>
+(32) <span style="padding-left: 100px;">$\Pi_m \Sigma_i r_i \cdot t_{imm} \cdot \bar{t}_{imm} \mathbin{\psi} e_m$</span>
+
+N. B. The word [u]inenumerable[/u] must be applied to an [u]infinite[/u] collection; not [u]innumerable[/u] which is reserved for another use.
+
+[u]Art. 6[/u]. [ins]Definition 6.[/ins] One collection, [u]n[/u], is said to be [u]greater[/u], or [u]more numerous[/u], [ins]and we write M<sub>mn</sub>[/ins] than another, [u]m[/u], and [u]m[/u] is said to be [u]less[/u], or [u]fewer[/u], than [u]n[/u], if, and only if, [u]n[/u] proceeds from [u]m[/u] but [u]m[/u] does not proceed from [u]n[/u], or, in other words, if there is an object of [u]n[/u] for every object of [u]m[/u], but not conversely.
+(34) <span style="padding-left: 100px;">$\Pi_m \Pi_n \bar{M}_{mn} \mathbin{\psi} s_{nm} \cdot \bar{s}_{mn}$</span>
+(35) <span style="padding-left: 100px;">$\Pi_m \Pi_n \bar{s}_{nm} \mathbin{\psi} s_{mn} \mathbin{\psi} M_{mn}$</span>

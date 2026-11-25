@@ -1,0 +1,51 @@
+Hence. $d^2 = \frac{A^2 B^2 - A^2 y^2 - B^2 x^2}{A^2 \sin^2 \varphi + B^2 \cos^2 \varphi} + \frac{[del]\pm[/del] (A^2 y' + B^2 x') \pm (A^2 y' - B^2 x') \cos 2 \varphi}{(A^2 + B^2) - (A^2 - B^2) \cos 2 \varphi}$
+
+$\frac{A^2 B^2 - A^2 y^2 - B^2 x^2}{\frac{1}{2} (A^2 + B^2) - \frac{1}{2} (A^2 - B^2) \cos 2 \varphi} + \frac{\pm (A^2 y' + B^2 x') \pm (A^2 y' - B^2 x') \cos 2 \varphi}{\left( (A^2 + B^2) - (A^2 - B^2) \cos 2 \varphi \right)^2} =$
+
+Reducing we get
+$\frac{1}{4} (A^2 - B^2)^2 d^2 \cos^2 2 \varphi - \frac{1}{2} (A^4 - B^4) \cos 2 \varphi + \frac{1}{4} (A^2 + B^2)^2 d^2 = A^2 B^2 \sin^2 \varphi$
+$+ \frac{1}{2} (A^2 - B^2) A^2 B^2 \cdot \cdot - \frac{1}{2} (A^2 + B^2) A^2 B^2$
+$- \frac{1}{2} (A^2 - B^2) y^2 \cdot \cdot + \frac{1}{2} (A^2 + B^2) y^2$
+$- \frac{1}{2} (A^2 - B^2) B^2 x^2 \cdot \cdot + \frac{1}{2} (A^2 + B^2) B^2 x^2$
+$+ \frac{1}{2} (A^2 y' - B^2 x') \cdot \cdot - \frac{1}{2} (A^2 y' + B^2 x')$
+
+or
+$\frac{1}{4} (A^2 - B^2)^2 d^2 \cos^2 2 \varphi - \frac{1}{2} (A^4 - B^4) d^2 \cos 2 \varphi + \frac{1}{4} (A^2 + B^2)^2 d^2 = A^2 B^2 \sin^2 \varphi$
+$+ \frac{1}{2} (A^2 - B^2) A^2 B^2 \cdot \cdot - \frac{1}{2} (A^2 + B^2) A^2 B^2$
+$+ \frac{1}{2} (y^2 - x^2) A^2 B^2 \cdot \cdot + \frac{1}{2} (y^2 + x^2) A^2 B^2$
+
+Squaring and transposing
+$\frac{1}{16} (A^2 - B^2)^4 d^4 \cos^4 2 \varphi - \frac{1}{4} (A^2 - B^2)^2 (A^2 + B^2) d^4 \cos^3 2 \varphi + \frac{3}{8} (A^2 - B^2)^2 (A^2 + B^2)^2 d^4 \cos^2 2 \varphi$
+$+ \frac{1}{4} (A^2 - B^2)^3 A^2 B^2 \cdot \cdot - \frac{3}{4} (A^2 - B^2)^2 (A^2 + B^2) A^2 B^2 \cdot \cdot$
+$+ \frac{1}{4} (A^2 - B^2)^3 (y^2 - x^2) A^2 B^2 \cdot \cdot + \frac{1}{4} (A^2 - B^2)^2 A^4 B^4 \cdot \cdot$
+$+ \frac{1}{2} (A^2 - B^2)^2 (y^2 + x^2) A^4 B^4 \cdot \cdot$
+$- \frac{1}{4} (A^2 - B^2) (A^2 + B^2)^3 d^4 \cos 2 \varphi$
+$- \frac{1}{2} (A^2 - B^2) (y^2 - x^2) d^2 A^2 B^2 \cdot \cdot$
+$+ \frac{1}{4} (A^2 - B^2) (A^2 + B^2)^2 A^2 B^2$
+$+ \frac{1}{2} (A^2 - B^2) (y^2 - x^2) A^4 B^4 \cdot \cdot$
+$+ \frac{1}{4} (y^2 + x^2)^2 A^4 B^4 \cdot \cdot$
+
+[page break]
+
+These equations defined for the relation of the changed coordinates we will change the coordinates of the ellipse to those of referred to conjugate [ins]diameters[/ins] [del]axes[/del] to polar coordinates.
+
+Let $A^2 y^2 + B^2 x^2 = A^2 B^2$ be the equation of the ellipse referred to [del]three[/del] diameters that is, produced if necessary contains the given points.
+
+Let $a$ be the ordinate of the point.
+$\rho$ the radius vector of the curve referred to the given point.
+$\varphi$ the angle made by $\rho$ and the line [del]joining[/del]
+$\alpha$ the angle of the [del]coordinates[/del] $A$ and $B$.
+
+We have by the common property of triangles.
+$\sin \alpha : \sin \varphi :: \rho : \frac{\rho \sin \varphi}{\sin \alpha}$
+$y = \rho \sin \varphi$
+$y = x \mp x' + \rho \sin \varphi \cot \alpha$.
+
+These substituted in the ellipse gives.
+$(A^2 + B^2 \cot^2 \alpha) \sin^2 \varphi \rho^2 + 2 B^2 x' \sin \varphi \cdot \rho + x'^2 - A^2 B^2 = 0$
+$y = \frac{\rho \sin \varphi}{\sin \alpha}$
+$x = x' + \frac{\rho \sin (\alpha - \varphi)}{\sin \alpha}$
+
+$\left( A^2 \sin^2 \varphi + B^2 \sin^2 (\alpha - \varphi) \right) \rho^2 + 2 B^2 x' \sin \alpha \sin (\alpha - \varphi) \rho + (x'^2 - A^2) \sin^2 \alpha = 0$
+
+Question 19. Through a given point to draw a straight line cutting two given ellipses having the same centre, so that the distances of this point from the points of intersection shall be in arithmetical proportion.

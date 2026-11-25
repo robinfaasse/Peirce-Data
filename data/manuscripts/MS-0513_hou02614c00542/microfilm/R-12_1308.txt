@@ -1,0 +1,30 @@
+[pn]79[/pn]
+
+I also write a "short" mark "$\breve{}$" over a relative to show that
+the [u]converse[/u] relation is intended. That is,
+$(\breve{l})_{ij} = l_{ji}$.
+& other words $\breve{l}$ means "— is loved by —."
+
+Of course, this is confined to dyadic relatives. For triadic
+relatives two signs would be necessary. For instance, if we
+were to write $\acute{g}$ in the sense, that
+$(\acute{g})_{ijk} = g_{jki}$
+and $\grave{g}$ in the sense that
+$(\grave{g})_{ijk} = g_{kji}$
+we should have
+$(\breve{\acute{g}})_{ijk} = g_{kij}$
+$(\breve{\grave{g}})_{ijk} = g_{ikj}$
+$(\breve{g})_{ijk} = g_{jik}$
+and three accents would be unnecessary since
+$\breve{\breve{\acute{g}}} = g$
+$\breve{\breve{\grave{g}}} = g$
+$\acute{\acute{\acute{g}}} = g$
+$\grave{\grave{g}} = g$
+$\breve{\acute{g}} = \grave{g}\breve{}$
+$\breve{\grave{g}} = \acute{g}\breve{}$
+
+Write $G$ for grave, $A$ for acute. Then $A^{3} = 1$, $G^{2} = 1$, $A^{-1}G = GA$. The
+last evidently must be so since there are only six arrangements
+of the letters and [ins]$\begin{matrix} 1 & A & A^{2} \\ G & AG & A^{2}G \end{matrix}$[/ins] must be all different and [ins]$\begin{matrix} 1 & A & A^{2} \\ G & GA & GA^{2} \end{matrix}$[/ins]
+[del]must be all different.[/del] Hence either $AG = GA$ or $AG = GA^{2}$. In the former case $(AG)^{2} = A^{2}$ [del]$(AG)^{3} = $[/del]
+[del]$(AG)^{3} = A$ $(AG)^{4} = A^{2}G$ $(AG)^{5} = 1$ and there would be one transposition which repeated would[/del]

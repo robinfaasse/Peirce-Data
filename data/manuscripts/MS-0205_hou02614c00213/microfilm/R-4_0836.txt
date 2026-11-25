@@ -1,0 +1,31 @@
+[pn]RR[/pn] [pn]10[/pn]
+
+[u]Corollary 6[/u]. Whatever cardinal numbers [u]M[/u] and [u]N[/u] may be, [u]M[/u] + [u]N[/u] = [u]N[/u] + [u]M[/u].
+For suppose [u]M[/u] to be a cardinal number having this character, that, if
+whatever cardinal number [u]N[/u] may be, [u]M[/u] + [u]N[/u] = [u]N[/u] + [u]M[/u]. Then
+
+G[u]M[/u] + [u]N[/u] = G([u]M[/u] + [u]N[/u]) by the third condition
+= G([u]N[/u] + [u]M[/u]) by hypothesis
+= [u]N[/u] + G[u]M[/u] by the above corollary
+
+That is if [u]M[/u] + [u]N[/u] = [u]N[/u] + [u]M[/u] then G[u]M[/u] + [u]N[/u] = [u]N[/u] + G[u]M[/u]. But by the above corollaries
+0 + [u]N[/u] = 0 = [u]N[/u] + 0. Hence, by the Fermatian Principle, the formula holds
+for all cardinal numbers.
+
+[u]Corollary 7[/u]. Whatever cardinal numbers [u]I[/u], [u]M[/u], and [u]N[/u] may be,
+[u]L[/u] + ([u]M[/u] + [u]N[/u]) = ([u]L[/u] + [u]M[/u]) + [u]N[/u]. For suppose [u]M[/u] to have such a character. Then
+[u]L[/u] + (G[u]M[/u] + [u]N[/u]) = [u]L[/u] + G([u]M[/u] + [u]N[/u]) by the third condition,
+= G[[u]L[/u] + ([u]M[/u] + [u]N[/u])] by a corollary above,
+= G[([u]L[/u] + [u]M[/u]) + [u]N[/u]] by hypothesis,
+= G([u]L[/u] + [u]M[/u]) + [u]N[/u] [del]by[/del] by the third condition and present theorem,
+= ([u]L[/u] + G[u]M[/u]) + [u]N[/u] by a corollary above and the present theorem.
+That is [u]L[/u] + (G[u]M[/u] + [u]N[/u]) = ([u]L[/u] + G[u]M[/u]) + [u]N[/u] if [u]L[/u] + ([u]M[/u] + [u]N[/u]) = ([u]L[/u] + [u]M[/u]) + [u]N[/u]. But
+[u]L[/u] + (0 + [u]N[/u]) = [u]L[/u] + [u]N[/u] = ([u]L[/u] + 0) + [u]N[/u] by corollaries above. Hence, by the Fer-
+matian Principle, the formula holds for all cardinal numbers.
+
+[del]238[/del] [u]Theorem VII[/u]. [u]The sum of a greater cardinal number, [ins]I,[/ins] added to any
+cardinal number, N, is greater than the sum of a lesser cardinal number,
+M added to the same cardinal number, N.[/u]
+
+[u]Proof[/u]. For suppose [u]N[/u] to have the character, etc. Then
+[u]L[/u] + G[u]N[/u] = G([u]L[/u] + [u]N[/u]) by a corollary above and the last theorem

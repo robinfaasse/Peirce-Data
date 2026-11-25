@@ -1,0 +1,83 @@
+[pn]P 5[/pn]
+
+[u]JORDAN'S SUBSTITUTIONS[/u]
+
+I must say that the impression made upon
+my mind by this book is that neither the enunci-
+ations nor the demonstrations always
+touch the summit of lucidity.
+
+Take one of the theorems least open to this
+criticism, that of Lagrange, "Si le groupe
+H est contenu dans le groupe G, son ordre
+est un diviseur de l'ordre de G." This is
+[del]even more[/del] [ins]not so[/ins] [del]yet[/del] [ins]well[/ins] [del]to be[/del] [ins]put[/ins] [del]in[/del] [ins]as in[/ins] [del]Euclid's[/del] [ins]our[/ins] way,
+viz: the order of any group is divisible by
+that of each group that it contains. Thus, let
+G be a group of order [del]g[/del] [ins]$\gamma$[/ins] containing the group
+H of order $\beta$. Then $\gamma$ will be divisible by $\beta$.
+
+The general method of proof is well enough.
+Let $b_1, b_2, b_3$ etc are all the substitutions of B,
+some power of each of them equals 1 and all
+the powers and products of [del]any of[/del] them
+[ins]with each other in pairs[/ins]
+are among the $b$'s. Consequently $b_1^{-1}, b_2^{-1}$ etc are
+all among them. Now take any substitution
+$s$ [del]of G[/del] that is not one of the $b$'s, then its product
+by all the $b$'s will belong to G, [del]and[/del] [ins]and[/ins] no two of these
+will be equal. For if [del]we had[/del] [ins]there being any such let us[/ins] [del]we have[/del] [ins]suppose[/ins] $s b_m = s b_n$
+[del]then we have $s^{-1} s b_m = s^{-1} s b_n$ or $b_m = b_n$ we should have $s^{-1} s b_m = s^{-1} s b_n$[/del]
+[del]and if we have[/del] [ins]or if[/ins] $b_m s = b_n s$ [del]we shall have $s = b_m^{-1} b_n$[/del]
+[del]and[/del] [ins]then[/ins] such that $s b_m = b_n$, we shall have $s = b_n b_m^{-1}$
+but every such product is a $b$. And in the
+same way if $b_m s = b_n$ $s$ is one of the $b$'s, which is not
+the case. [del]And all the groups, some integer power of $s$ is 1[/del]
+Hence $s b_m$ cannot equal $s b_n$, except if $b_m = b_n$.
+
+Substitutions in the above group of the [del]5th[/del] [ins]5th[/ins] degree
+Of 1st order 1
+" 2nd " 5 of type (ab)(cd)(ef) 3 of type (ab)(cd) 2
+" 3rd " 4 of type (a)(b)(cde)
+" 4th " [del]6[/del] [ins]6[/ins] of type (a)(bcde)
+" 5 " 8
+" 6 " [del]6[/del] [ins]6[/ins]
+
+Of those of the 2nd order 1 is of type [fig]pentagon with diagonals[/fig] adjacent sides,
+[del]and[/del] [ins]and[/ins] 4 are adjacent
+
+In all those of the 5th the letters are adjacent
+
+Of those of the 4th order, 2 [del]move 2 letters, one places at a[/del]
+[del]time then one direction 3 co-[/del]
+[del]incidently[/del] [ins]and[/ins] the other 4 move a
+letter 2 places at a time
+twice successively,
+
+of the 2 of the 5th order, one moves the letters
+one step at a time
+along the sides of a
+simple pentagon
+2 along the sides of
+a star pentagon
+
+[fig]pentagon with diagonals[/fig]
+
+[fig]pentagon with diagonals[/fig]
+
+[fig]pentagon with diagonals[/fig]
+
+[fig]pentagon with diagonals[/fig]
+
+[fig]pentagon with diagonals[/fig]
+
+Of those of order 6,
+[del]the 4 of[/del] [ins]4[/ins] are on the
+pattern of Fig 2, [del]these are[/del]
+that of Fig 4. But this may
+be regarded as the reverse of the other.
+Of the 6 of order, [del]6[/del] [ins]4[/ins]
+are on the pattern of Fig 4
+and 2 on that of Fig 5
+
+If the group were completed it would be of the 60th order.

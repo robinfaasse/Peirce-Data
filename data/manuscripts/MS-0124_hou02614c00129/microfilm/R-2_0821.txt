@@ -1,0 +1,21 @@
+[u]A Few Formulae of Anal. Geom.[/u]
+
+Assume that
+$$ux + vy = 0$$
+represents that a point in space
+determined by the two imaginary
+numbers $x$ and $y$ lies on a
+plane determined by the two
+imaginary numbers $u$ and $v$.
+This would not do, because then
+there could be two points not in
+one plane.
+
+Let [del]ux + vy[/del]
+$$ux + vy + wz + st = 0$$
+mean that point $x, y, z, t$ lies
+in plane $u, v, w, s$. Then
+[del]the[/del]
+$(x_0 e + y_0 e' + z_0 e'' + t_0 [del]e'''[/del] [ins]$e'''$[/ins]) $(x_1 e + y_1 e' + z_1 e'' + t_1 [del]e'''[/del] [ins]$e'''$[/ins])$
+$(x_2 e + y_2 e' + z_2 e'' + t_2 e''')$ $(x_3 e + y_3 e' + z_3 e'' + t_3 e''')$
+$= 0$ will mean that the four points

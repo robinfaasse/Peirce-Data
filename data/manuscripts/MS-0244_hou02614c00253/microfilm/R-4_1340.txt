@@ -1,0 +1,44 @@
+[u]A Problem in Probabilities[/u]
+
+$p$ prob. that a ball will be white
+$\overline{p}$ " " " " " " black
+
+$w$ white balls drawn already
+$b$ black " " "
+
+$P_{(w,b,r)}$ probability that the ratio of all the
+white balls to all the balls will ever
+be as great as $p+r$ or as small
+as $p-r$
+
+$P_{w,b} = p P_{w+1,b} + \overline{p} P_{w,b+1}$
+
+[u]Probability[/u] $Q(x,n)$ the probability that out
+of $n$ balls to be drawn as many as $x$ will
+be white
+
+$Q(x,n) = p Q(x-1,n-1) + \overline{p} Q(x,n-1)$
+$= p^2 Q(x-2,n-2) + 2p\overline{p} Q(x-1,n-2)$
+$+ \overline{p}^2 Q(x,n-2)$
+
+$Q(1,1) = p$ $Q(0,1) = 1$ [del]$\overline{p}$[/del]
+$Q(2,2) = p^2$ $Q(1,2) = 2p\overline{p}$ $Q(0,2) = \overline{p}^2$ [ins]$p^2 +$[/ins] $1$
+
+[del]$Q(x,n) = p^n +$[/del]
+
+$\frac{Q(x,n)}{n!} = \frac{p^n}{n!} + \frac{p^{n-1}\overline{p}}{(n-1)! 1!} + \dots\dots - \frac{p^x \overline{p}^{n-x}}{x! (n-x)!}$
+
+[del]$\frac{w+y}{w+b+y} = \frac{w+y+y'}{w+b+y'+1}$[/del]
+
+$r = \frac{w+\omega}{w+b+\omega+\beta}$
+
+$r(w+b+\beta) + r\omega = w+\omega$
+
+[del]$r\omega$[/del] $r(b+\beta) - w(1-r) = \omega(1-r)$
+
+$\omega = \frac{r}{1-r}(b+\beta) - w$ Put $\frac{r}{1-r} = \rho$
+
+$P(w,b,r) = p^{\rho b - w} + [del]p^{\rho b - w}[/del] \overline{p}$
+
+$P(w,b,r) = p^{\rho b - w} + \frac{\rho b - w}{(\rho b - w + \rho + 1)} p^{\rho b - w + \rho} \overline{p}$
+$+ \frac{\rho b - w + \rho + 1 \dots 2}{}$

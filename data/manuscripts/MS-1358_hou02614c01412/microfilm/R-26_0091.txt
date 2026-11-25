@@ -1,0 +1,36 @@
+[u]Morison's Bridge 1899 Jan 21[/u] [pn]2[/pn]
+
+[fig]Diagram of bridge member with forces[/fig]
+
+[del][fig]Diagram of forces[/fig][/del]
+
+$\delta l_{n+1} = - \delta l_{n} \frac{\sin \theta_{n}}{\sin \theta_{n+1}}$
+
+$E \left(l_{n} - I_{n}\right) - E \frac{\sin \theta_{n}}{\sin \theta_{n+1}} \left(l_{n+1} - I_{n+1}\right) + kg \sin \theta_{n} = 0$
+
+or [fig]Diagram of bridge member[/fig]
+
+$E \left\{ \frac{l_{n+1} - I_{n+1}}{\sin \theta_{n+1}} - \frac{l_{n} - I_{n}}{\sin \theta_{n}} \right\} = kg$
+
+$\therefore \frac{l_{n} - I_{n}}{\sin \theta_{n}} = \frac{kg}{E} n + \frac{l_{0} - I_{0}}{\sin \theta_{0}}$
+
+[del]$\Delta \theta$[/del]
+$\frac{\theta_{n+2} - 2\theta_{n+1} + \theta_{n}}{l_{n+1} \cos \theta_{n+1}} - \frac{\theta_{n+1} - 2\theta_{n} + \theta_{n-1}}{l_{n} \cos \theta_{n}} = - \frac{K_{n+1} l_{n+1}}{l_{n}}$
+
+[del]$\delta u \cdot \delta v$[/del]
+[del]$(u+\delta u)(v+\delta v) - uv$[/del]
+$u \delta v + \delta u \cdot v + \delta u \cdot \delta v$
+
+$\left(\theta_{n+2} - 2\theta_{n+1} + \theta_{n}\right) l_{n} \cos \theta_{n} - \left(\theta_{n+1} - 2\theta_{n} + \theta_{n-1}\right) \left(l_{n} \cos \theta_{n} + \Delta l_{n} \cos \theta_{n}\right)$
+$= - \frac{K_{n+1} l_{n+1}^{2} \cos \theta_{n+1}}{l_{n}}$
+
+$= \left(\theta_{n+2} - 3\theta_{n+1} + 3\theta_{n} - \theta_{n-1}\right) l_{n} \cos \theta_{n} - \left(\theta_{n+1} - 2\theta_{n} + \theta_{n-1}\right) \Delta l_{n} \cos \theta_{n}$
+
+$D_{s} \frac{D_{s}^{2} \theta}{l \cos \theta} = - k$
+
+$\frac{D_{s}^{3} \theta}{l \cos \theta} = - ks + \frac{D_{s}^{2} \theta_{0}}{l \cos \theta_{0}}$
+
+$D_{s}^{2} \theta = - k l s \cos \theta + D_{s}^{2} \theta_{0} \frac{\cos \theta}{\cos \theta_{0}}$
+
+$D_{s}^{2} \theta = - k l \cos \theta + k l s \sin \theta D_{s} \theta - D_{s}^{2} \theta_{0} \frac{\sin \theta \cdot D_{s} \theta}{\cos \theta_{0}}$
+[del]$D_{s}^{3} \theta = - k l \sin \theta D_{s} \theta + k l \cos \theta + k l s \cos \theta D_{s}^{2} \theta$[/del]

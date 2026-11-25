@@ -1,0 +1,29 @@
+[pn]RR[/pn] [pn]24[/pn]
+
+[u]Corollary 4[/u]. The product of any cardinal number, $N$, multiplied into
+$G0$, or $1$, is $N$. For suppose $N$ to be a cardinal number possessing
+this character, that $N \times G0 = N$. Then by the second condition
+$GN \times G0 = G0 + N \cdot G0$ which by the third condition of Definition
+$= G(0 + N \cdot G0)$ which by a former corollary
+$= G(N \cdot G0)$ which by hypothesis
+$= G(N)$
+
+Thus, if $N$ possesses the character, so does $GN$. But by the first condition
+$0 \times G0 = 0$, so that zero possesses the character. Hence, by the Fermatian
+Principle, every cardinal number, $N$, multiplied into $G0$ gives $N$ as the
+product. $N \times 1 = N \times G0 = N$.
+
+[del]Corollary. Whatever cardinal numbers $M$ and $N$ may be, $M \times N > M$
+unless $N = 0$ or $N = G0$ and $M \times N > N$ unless $M = 0$ or $M = G0$. For[/del]
+
+[u]Corollary 5[/u]. Whatever cardinal numbers $M$ and $N$ may be, $M \times GN$
+$= M + M \cdot N$. For suppose $M$ to be of cardinal number having the character.
+Then $GM \times GN = GN + M \cdot GN$ by the second condition
+$= GN + (M + M \cdot N)$ by hypothesis
+$= (GN + M) + M \cdot N = G(N + M) + M \cdot N = (N + GM) + M \cdot N$
+$= (GM + N) + M \cdot N = GM + (N + M \cdot N)$ by former results
+$= GM + GM \cdot N$ by the second condition.
+
+Thus, if $M$ possesses the character, so does $GM$. But zero possesses the charac-
+ter since $0 \times GN = 0 = 0 + 0 = 0 + 0 \cdot N$. Hence, by the Fermatian Principle,
+every cardinal number possesses the character.

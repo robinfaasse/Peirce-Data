@@ -1,0 +1,7 @@
+$$\Sigma_x \Sigma_y \Sigma_z \Sigma_\beta \Pi_\gamma (\bar{q}_{\gamma x} + \bar{h}_\gamma + q_{\gamma y}) (\bar{q}_{\gamma y} + \bar{h}_\gamma + q_{\gamma z}) q_{\beta x} \bar{q}_{\beta z} \bar{h}_\beta$$
+
+By dropping the parenthesis, and observing that $q_{\gamma y} \bar{q}_{\gamma y} = 0$, [del]we get[/del] [ins]and that[/ins] $\bar{h}_\gamma + \bar{h}_\gamma = \bar{h}_\gamma$, we get
+
+$$\Sigma_x \Sigma_y \Sigma_z \Sigma_\beta \Pi_\gamma (\bar{q}_{\gamma x} + \bar{h}_\gamma + q_{\gamma z}) q_{\beta x} \bar{q}_{\beta z} \bar{h}_\beta .$$
+
+We now identify $\gamma$ with $\beta$, and apply the distributive principle. The first term disappears because it contains the factor $\bar{q}_{\beta x} q_{\beta x}$, the second because of $\bar{h}_\beta \bar{h}_\beta$, and the third because of $q_{\beta z} \bar{q}_{\beta z}$; and thus the whole reduces to zero, or the denial of the theorem is reduced to absurdity.

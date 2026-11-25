@@ -1,0 +1,44 @@
+[del]ab[/del] [ins]$\overline{a}b + c$[/ins]
+$\overline{a}b$.
+
+$\overline{a} + b$
+$\overline{a}\ \overline{b} + \overline{a}b + ab$
+
+$(\overline{a}+b)\overline{c} + d$
+$\overline{a}\ \overline{c} + b\overline{c} + d$
+$(a+c) \prec (b \prec c) \prec d$
+$[(a \prec c) \prec c] \prec (b \prec c) \prec d$
+
+[del]$\overline{a}$[/del] $[(a \prec b) \prec c] \prec d$
+
+$a \prec b =$
+$[(a \prec b) \prec b] \prec b$
+
+$\overline{a} + b\overline{c} + d$
+$(\overline{a}+b)(\overline{a}+\overline{c}) + d$
+$(\overline{a}+b)(\overline{a}+\overline{c}+d) + d$
+
+[del]$ab + c$[/del]
+
+[del]$(a \prec b)$[/del]
+$\overline{a} + ab\overline{c} + d$
+$[(a \prec b) \prec a] \prec [(a \prec b) \prec c] \prec d$
+
+[del]$(\overline{a}+b)\overline{a}$[/del]
+$(\overline{a}+b)\overline{c}\ \overline{d} + e$
+$[(a \prec b) \prec c \prec d] \prec e$
+$\{[(c \prec a) \prec b] \prec d\} \prec e$
+
+$(a \prec b) \prec c \prec d$
+$[(c \prec a) \prec b] \prec d$
+
+$[\overline{a}c + b]\overline{d}$
+
+$a\overline{b} + \overline{c} + d$
+[del]$ac + b + d$[/del]
+$(\overline{c}+a)\overline{b} + d$
+
+$(a \prec b) \prec c$
+$(c \prec (a) \prec ($
+[del]$a \overline{b} + c$[/del]
+$\overline{c}$

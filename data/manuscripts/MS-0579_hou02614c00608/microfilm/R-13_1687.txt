@@ -1,0 +1,4 @@
+[u]Rule 1[/u]: principle of permutation. The order of the antecedents is immaterial. Thus
+[u]a[/u];[u]b[/u];[u]c[/u] = [u]b[/u];[u]a[/u];[u]c[/u].
+
+Proof. [del]By [unclear]β[/unclear], either [u]b[/u] is true or ([u]a[/u];[u]b[/u];[u]c[/u]) is true.[/del] [ins]([u]b[/u];[u]a[/u];[u]c[/u])[/ins] Suppose [u]a[/u];[u]b[/u];[u]c[/u] to be true. Then, if [u]a[/u] is true [u]b[/u];[u]c[/u] is true, (by γ), and then if [u]b[/u] is true [u]c[/u] is true. But if [u]c[/u] is true, [u]a[/u];[u]c[/u] is true (by α), and then [u]b[/u];[u]a[/u];[u]c[/u] is true. But (by β) either [u]b[/u] is true or [u]b[/u];[u]a[/u];[u]c[/u] is true; and either [u]a[/u] is true or [u]a[/u];[u]c[/u] is true, when (by α) [u]b[/u];[u]a[/u];[u]c[/u] is true

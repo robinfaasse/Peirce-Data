@@ -1,0 +1,12 @@
+[u]Chapter . Propositions True for all Kinds of Measurement.[/u]
+
+[u]Art.[/u] . [u]Theorem[/u] . [u]If two sides and the included[/u] [u]angle of one triangle are equal to those of another tri-[/u] [u]angle, then all the other corresponding parts of the[/u] [u]triangles are equal[/u][del], or supplementary[/del].
+
+[u]Demonstration[/u]. The reasoning is the same whether the triangles be plane or spherical. It will therefore be sufficient to prove [ins]the theorem[/ins] for plane triangles.
+
+[fig]Two triangles, ABC and PQR[/fig] Let $\Delta\text{ABC}$ and $\Delta\text{PQR}$ be such that $\angle\text{A} = \angle\text{P}$, $|\text{AB}| = |\text{PQ}|$, and $|\text{AC}| = |\text{PR}|$. Then, I say either
+$|\text{BC}| = |\text{QR}|$, $\angle\text{B} = \angle\text{Q}$, $\angle\text{C} = \angle\text{R}$,
+or
+$|\text{BC}| + |\text{QR}| = \partial$, $\angle\text{B} + \angle\text{Q} = \partial$, $\angle\text{C} + \angle\text{R} = \partial$.
+
+For let the motion be moved so that the particle initially at $[\text{A}]$ is brought to $[\text{P}]$ and the [del]straight[/del] [ins]straight[/ins] filament initially in $\{\text{AB}\}$ is brought [del]to[/del] [ins]into[/ins] $\{\text{PQ}\}$ and so that [del]the[/del] the stretch from $|\text{AB}|$ lies in $|\text{PQ}|$. [del]So[/del] Then, because $\angle\text{A} = \angle\text{P}$, the stretch from $|\text{AC}|$ may be brought into $\{\text{PR}\}$ [ins]as to extend from $[\text{P}]$[/ins] in the same way as the stretch $|\text{PR}|$; [ins]or if this is impossible, it is only from right and left coming wrong, which does not affect the reasoning;[/ins] then, because $|\text{AB}| = |\text{PQ}|$, the particle [del]from[/del] $[\text{B}]$ will be brought to $[\text{Q}]$; and because $|\text{AC}| = |\text{PR}|$, the particle from $[\text{C}]$ will be brought to $[\text{R}]$. Thus, the [del]two[/del] straight [del]filament[/del] initially in $\{\text{BC}\}$ will be brought into $\{\text{QR}\}$, and [del]will[/del] either $|\text{BC}| = |\text{QR}|$ or $|\text{BC}| = |\text{RQ}|$. But [del]only[/del] one of the stretches $|\text{QR}|$ and $|\text{RQ}|$ is a bounding side of one of the four regions of the plane; for only one is reached without crossing the other by a particle which proceeds from P through the enclosure of one of the four regions. Hence the corresponding sides are equal and also $\angle\text{B} = \angle\text{Q}$ and $\angle\text{C} = \angle\text{R}$. Q.E.D.

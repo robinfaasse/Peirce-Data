@@ -1,0 +1,25 @@
+We may write, for the sake of abbreviation,
+(32) [pn]$\xi = \frac{8 y_k}{a^2} (x - \frac{1}{2} a)$[/pn]
+
+(33) [pn]$\kappa = \frac{8 \varepsilon y_k}{q a^2}$[/pn]
+
+Then the integral, omitting its constant, is
+(34) [pn]$l = \frac{\varepsilon}{q} \left\{ \xi + \kappa \log [\sqrt{1+\xi^2} - \xi] + \frac{\kappa^2}{\sqrt{\kappa^2-1}} \log \frac{\sqrt{1+\xi^2} - \xi + \kappa + \sqrt{\kappa^2-1}}{\sqrt{1+\xi^2} - \xi + \kappa - \sqrt{\kappa^2-1}} \right\}$[/pn]
+$= \frac{\varepsilon}{q \kappa} \left\{ \kappa \xi + \kappa^2 \log [\sqrt{1+\xi^2} - \xi] + \frac{2}{\kappa^2 \sqrt{\kappa^2-1}} \arctan \frac{\sqrt{\kappa^2-1}}{\kappa \sqrt{1+\xi^2} - \kappa \xi + 2} \right\}$
+
+Neither of these formulas is perspicuous. It will, therefore, be well to give a development. The following [del]expressions[/del] [ins]tables show the[/ins] [del]have[/del] coefficients of the products of the powers of $\xi$ at the head of the columns by the powers of $\kappa$ at the [del]beginning[/del] [ins]left[/ins] of the rows. Since $\kappa$ is very large, but two powers [del]of it for[/del] [ins]need be shown in the final result.[/ins] Indeed, Hooke's law is not supposed to be sufficiently accurate to justify more.
+
+$(\kappa - \frac{\kappa^2}{\sqrt{\kappa^2-1}}) \log [\sqrt{1+\xi^2} - \xi] = [del](\frac{1}{2} \kappa^{-1} - \frac{3}{8} \kappa^{-3} - \frac{5}{16} \kappa^{-5} - \text{etc})[/del] \log [\sqrt{1+\xi^2} - \xi]$
+$= (-\frac{1}{2} \kappa^{-1} - \frac{3}{8} \kappa^{-3} - \frac{5}{16} \kappa^{-5} - \text{etc}) (-\xi + \frac{1}{6} \xi^3 - \frac{3}{40} \xi^5 + \frac{5}{112} \xi^7 - \frac{245}{8064} \xi^9 + \text{etc})$
+
+$= \frac{\kappa^2}{\sqrt{\kappa^2-1}} \log [1 + (\kappa - \sqrt{\kappa^2-1})(\sqrt{1+\xi^2} + \xi)] =$
+[fig]Table of coefficients for powers of kappa and xi[/fig]
+
+$\frac{\kappa^2}{\sqrt{\kappa^2-1}} \log \frac{\sqrt{1+\xi^2} - \xi + \kappa + \sqrt{\kappa^2-1}}{\kappa + 1 + \sqrt{\kappa^2-1}}$
+[fig]Table of coefficients for powers of kappa and xi[/fig]
+
+Summing:
+(35) $l = \frac{\varepsilon}{q \kappa} \left\{ \xi + \frac{1}{6} \xi^3 - \frac{1}{40} \xi^5 + \frac{1}{112} \xi^7 - \text{etc} - (\xi + \frac{1}{3} \xi^3 + \frac{1}{96} \xi^5) \frac{1}{\kappa} \right\}$.
+
+The stretched length is
+(36) $s = \frac{\varepsilon}{q \kappa} \left\{ \frac{1}{2} \xi \sqrt{1+\xi^2} - \frac{1}{2} \log [\sqrt{1+\xi^2} - \xi] \right\} = \frac{\varepsilon}{q \kappa} \left\{ \xi + \frac{1}{6} \xi^3 - \frac{1}{40} \xi^5 + \frac{1}{112} \xi^7 - \text{etc} \right\}$.

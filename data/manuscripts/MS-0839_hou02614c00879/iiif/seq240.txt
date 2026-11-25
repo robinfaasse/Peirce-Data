@@ -1,0 +1,34 @@
+$$(x+k)(y+k) + (y+k)(x+k) + (z+k)(x+k) = 0$$
+$$\begin{aligned}
+z+k &= - \frac{1}{\frac{1}{x+k} + \frac{1}{y+k}} \\
+\frac{1}{x+k} &+ \frac{1}{y+k} + \frac{1}{z+k} = 0
+\end{aligned}$$
+
+$$\begin{aligned}
+[del]A = \frac{x}{1+sk} y + \frac{k}{1+3k} z[/del] \\
+A = \frac{k}{1+3k} x + \frac{k}{1+3k} y + \frac{k}{1+3k} z
+\end{aligned}$$
+
+$$B = \alpha_1 X + \beta_1 Y [del]\text{—}[/del] (k + \frac{1}{\frac{1}{\alpha_1+k} + \frac{1}{\beta_1+k}}) Z = 0$$
+
+$$C = \alpha_2 X + \beta_2 Y - (k + \frac{1}{\frac{1}{\alpha_2+k} + \frac{1}{\beta_2+k}}) Z = 0$$
+
+$$\begin{aligned}
+y &= z \\
+x+2y &= 1 \\
+2x+y+3k &= -3k \\
+2x+4y &= 2 \\
+3y &= 2 + 3k \\
+y &= \frac{2}{3} - k \\
+[ins]k - \frac{1}{3}[/ins] \\
+x &= \\
+x+2y &= 1 \\
+2x + y &= -3k \\
+x + y &= \frac{1}{3} - k \\
+x &= -\frac{1}{3} - 2k \\
+y &= \frac{2}{3} + k \\
+x+k &= -\frac{1}{3} - k \\
+y+k &= [del]2[/del] \frac{2}{3} + 2k
+\end{aligned}$$
+
+$$D =$$

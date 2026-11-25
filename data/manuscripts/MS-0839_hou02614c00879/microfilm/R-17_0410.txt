@@ -1,0 +1,37 @@
+$$A \prec z$$
+
+$$\begin{array}{ll}
+x & x \prec (B \prec z) \\
+A & (y \prec A) \prec z \\
+z^2 & A \prec [B \prec (C \prec z)] \\
+Bz & A \prec [(y \prec B) \prec z] \\
+Az & (y \prec A) \prec (B \prec z) \\
+Ay & [(B \prec y) \prec A] \prec z \\
+A^2 & [y \prec (x \prec A)] \prec z \\
+x^3 & A \prec \{B \prec [C \prec (D \prec z)]\} \\
+C z^2 & A \prec \{B \prec [(y \prec C) \prec z]\} \\
+B z^2 & A \prec [(y \prec B) \prec (C \prec z)] \\
+A z^2 & (y \prec A) \prec [B \prec (C \prec z)] \\
+Byz & A \prec \{[(C \prec y) \prec B] \prec z\} \\
+B^2 z & A \prec \{[y \prec (x \prec B)] \prec z\} \\
+ABz & (y \prec A) \prec [(y \prec B) \prec z] \\
+Ayz & [(C \prec y) \prec A] \prec (B \prec z) \\
+ABz & (y \prec A) \prec [(x \prec B) \prec z] \\
+A^2 z & [y \prec (x \prec A)] \prec (B \prec z) \\
+Ay^2 & \{[B \prec (C \prec y)] \prec A\} \prec z
+\end{array}$$
+
+$$\begin{array}{c}
+\bar{A} + y\bar{B} + z \\
+y\bar{A} + \bar{B} + z \\
+(\bar{B} + y)\bar{A} + z
+\end{array}$$
+[fig]curved lines connecting terms in the formulas above[/fig]
+
+$$A \prec A$$
+
+$$\begin{array}{c}
+A \prec [ (A \prec B) \prec B ] \\
+(B \prec A) \prec (B \prec A) \\
+[ (B \prec B) \prec A ] \prec A
+\end{array}$$

@@ -1,0 +1,31 @@
+In the fourth way we get
+$\overline{\text{x}}\ \overline{\overline{\text{x}}\text{y}}\text{y}$ logically necessary
+
+or the inference
+$$\begin{array}{rcc}
+\text{x} & & \text{true} \\
+\therefore & \overline{\overline{\text{x}}\text{y}}\text{y} & \text{true}
+\end{array}$$
+as well as the inference from two premises
+$$\begin{array}{rcc}
+& \overline{\text{x}}\text{y} & \text{true} \\
+& \text{x} & \text{true} \\
+\therefore & \text{y} & \text{true}
+\end{array}$$
+are valid. The last is called the [u]modus ponens[/u]. It comes under the third rule that a true antecedent may be dropped.
+
+We also have
+$\overline{\overline{\text{x}}\overline{\text{y}}\text{z}}\ \overline{\text{y}}\ \overline{\text{x}}\ \text{z}$ logically necessary
+
+or the inference
+$$\begin{array}{rcc}
+& \overline{\overline{\text{x}}\overline{\text{y}}\text{z}} & \text{true} \\
+\therefore & \overline{\text{y}}\ \overline{\text{x}}\ \text{z} & \text{true},
+\end{array}$$
+is valid. That is
+(5) the [del]order of[/del] [ins]order of succession[/ins] arrangement of antecedentals is immaterial.
+
+We also have
+$\overline{\text{P}}\ \text{T}\ \overline{\text{Q}}\ \text{R}\ \overline{\overline{\text{P}}\ \text{T}\ \text{Q}}\ \text{R}$ logically necessary,
+
+[u]\* It is on account[/u]

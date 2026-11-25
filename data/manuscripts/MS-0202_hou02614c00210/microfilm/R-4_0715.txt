@@ -1,0 +1,15 @@
+[pn]Cu
+17[/pn] The polynomial theorem will be most intelligibly state by first
+expressing it in symbols and then explaining these symbols. It is
+that
+[pn]$$(\sum_b b)^n = \sum_b b^n + n! \sum_{(\sum \beta = n)} \prod_b \frac{b^\beta}{\beta!}$$[/pn]
+
+Any number followed by a note of admiration, as [u]m![/u], [del]means[/del] denotes the
+continued product of all the integer numbers from 1 up to and including the
+number written before the note of admiration[ins], and $0! = 1$[/ins]. In the formula $\sum_b b$ denotes
+the [del]sum of any number of numbers each of which is considered as a spe-[/del]
+[del]cial value of b. But the b means nothing in particular[/del]
+the sum of all the [u]b[/u]s, the [u]b[/u]s being any collection of numbers, equal, or
+unequal, or some equal and others of different values. $(\sum_b b)^n$ denotes the
+$n^{\text{th}}$ power of this sum. $\sum_b b^n$ denotes the sum of the $n^{\text{th}}$ powers of all
+these numbers. $\sum_{(\sum \beta = n)}$ means that a sum is to be formed in each term

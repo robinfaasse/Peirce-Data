@@ -1,0 +1,27 @@
+We neglect the square and higher powers of d. This is
+shown in the differential calculus, that this is
+strictly [del]perfect[/del] exact. But we cannot go into the
+niceties here. Suffice it to remark that we can take
+d as small as we please, say one vigintillionth of
+a unit. Then d² is only one vigintillionth of [del]that[/del] [ins]the product[/ins];
+so that when we come to multiply d by a vigintillion
+or so to make a considerable quantity, the part [del]dependent[/del]
+on d² remains excessively small, and as small as
+we please. (This is not quite logical, but see Klein's
+recommendation, in his Evanston Lectures.)
+
+then [del]P[/del]
+$$PR = y' - y = -\frac{x}{\sqrt{1-x^2}} d$$
+
+The little arc PP' is 'straight'. Hence,
+
+$$PP' = \sqrt{d^2 + (-\frac{x}{\sqrt{1-x^2}} d)^2}$$
+
+$$= [del]d[/del] d \sqrt{1 + \frac{x^2}{1-x^2}}$$
+
+$$= \frac{d}{\sqrt{1-x^2}}$$
+
+[del]Suppose the [del]space[/del] [ins]arc[/ins] [del]from Y to P[/del][/del]
+Suppose QP to be divided into a vigintillion parts
+[del]each[/del] equal to d and this quantity $\frac{d}{\sqrt{1-x^2}}$ calculated
+for each. The result will be the measure of the circular

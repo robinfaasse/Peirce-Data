@@ -1,0 +1,54 @@
+[marginalia]Morrison's Bridge [date]1899 Feb 6[/date][/marginalia]
+
+[del]M[sub]N-1[/sub] = C[sub]0[/sub][/del]
+
+[del]M[sub]N-1[/sub] =[/del]
+M[sub]N-1[/sub] = [frac](-2+\u221a3)[sup]2N[/sup](-2-\u221a3)[/frac][2\u221a3] {[del](4Q-P-3N-2\u221a3[frac]Q-N[/frac][P-N])[/del] (4Q-P-3N-2\u221a3[frac]Q-N[/frac][P-N])M[sub]P[/sub] + ([frac]\u221a3(Q-P)[sup]3[/sup]+(1+\u221a3)(P-N)[sup]3[/sup][/frac][P-N] - 2(Q-P)[sup]3[/sup] - (P-N)[sup]3[/sup] + 2[frac]1[/frac][\u221a3])[frac]W[/frac][4]}
++ [frac](-2-\u221a3)[sup]2N[/sup](-2+\u221a3)[/frac][2\u221a3] {-4Q+P+3N-2\u221a3[frac]Q-N[/frac][P-N])M[sub]P[/sub] + ([frac]\u221a3(Q-P)[sup]3[/sup]+(-1+\u221a3)(P-N)[sup]3[/sup][/frac][P-N] + 2(Q-P)[sup]3[/sup] + (P-N)[sup]3[/sup] - [frac]1[/frac][\u221a3])[frac]W[/frac][4]}
++ [frac]1[/frac][3] [frac]W[/frac][4]
+
+M[sub]N[/sub] =
+
+[[del]4(P-N)(Q-N) + 4(Q-N) - (P-N)[sup]2[/sup][/del]] M[sub]N[/sub] + 2(Q-N)M[sub]N-1[/sub] = [2[sup](Q-N)(P-N)[sup]3[/sup] + 2(Q-N) - (Q-P)[sup]3[/sup](P-N)[/sup] - (P-N)[sup]4[/sup]] [frac]W[/frac][4]
+
+C[sub]0[/sub] (-2+\u221a3)[sup]n[/sup] + C[sub]1[/sub](-2+\u221a3)[sup]-n[/sup] = C[sub]0[/sub](-2+\u221a3)[sup]-n[/sup] + C[sub]1[/sub](-2+\u221a3)[sup]n[/sup]
+
+[del]C[sub]0[/sub] (-2+\u221a3)[/del]
+C[sub]0[/sub] = C[sub]1[/sub] [frac](-2+\u221a3)[sup]n[/sup] - (-2+\u221a3)[sup]-n[/sup][/frac][(-2+\u221a3)[sup]n[/sup] - (-2+\u221a3)[sup]-n[/sup]]
+
+[del]M[sub]n[/sub] = C ([/del]
+M[sub]n[/sub] = C [frac]e[sup]n[/sup] + e[sup]-n[/sup][/frac][2] + [frac]W[/frac][12]
+
+1.73205081
+0.26794919
+= e[sup]x[/sup]
+[del]x = log[/del]
+x = Nat log 0.26794919
+
+{[del]4(P-N)(Q-N) + 4(Q-N) - (P-N)[sup]2[/sup][/del]} [frac]e[sup]n[/sup] + e[sup]-n[/sup][/frac][2] + 2(Q-N) [frac]e[sup]n-1[/sup] + e[sup]n+1[/sup][/frac][2] } C
+
+= [del]Y[sub]n[/sub] - W + C ([/del]
+
+[del]-2+\u221a3[/del]
+[del]-2+\u221a3[/del]
+[del]4 - 4\u221a3[/del]
+
+7 - 4\u221a3
+1
+[u]8 - 4\u221a3[/u]
++ 4 + 2\u221a3
+[del]12 - 6\u221a3[/del]
+[del]6(2-\u221a3)[/del]
+
+-2 - \u221a3
+[u]-2 - \u221a3[/u]
+7 + 4\u221a3
+
+8 + 4\u221a3
+[u]+ 4 + 2\u221a3[/u]
+12 + 6\u221a3 = 6(2+\u221a3)
+
+e[sup]n+1[/sup] = (-2+\u221a3)e[sup]n[/sup]
+-2e[sup]n[/sup] = -2 e[sup]n[/sup]
+e[sup]n-1[/sup] = (-2-\u221a3)e[sup]n[/sup]
+-6 e[sup]n[/sup]

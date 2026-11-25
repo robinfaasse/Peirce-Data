@@ -1,0 +1,40 @@
+[pn]Solution to Question 1 (244)[/pn]
+
+Let the remainder after dividing $n$ by $D$ be $n'$.
+Then if the proposition holds true for $\frac{n'}{D}$ we will prove that it is [del]so[/del]
+that is if $\frac{n'}{D} = \frac{1}{p} - \frac{1}{pq} + \&c$
+we shall have $\frac{n}{D} = \frac{1}{p} - \frac{1}{pq} + \frac{1}{pqr} - \&c$.
+now $\frac{1}{p} - \frac{1}{pq} + \&c = \frac{1}{p} - \frac{1}{p} (\frac{1}{q} - \frac{1}{qr} + \&c)$
+$= \frac{1}{p} - \frac{1}{p} \cdot \frac{n'}{D}$
+$= \frac{D - n'}{pD}$
+
+But, by definition, $D = np + n'$
+$\therefore n = \frac{D - n'}{p}$
+Hence $\frac{D - n'}{pD} = \frac{n}{D}$ as we wished to prove.
+But the remainders $n, n', \&c$ continually diminish till one of them [del]is[/del]
+common measure of $n$ and $D$ and here the proposition is self-evident, theref[del]ore[/del]
+in every case.
+
+[pn]Solution to Question 2 (245)[/pn]
+
+From the square of the first equation subtract the second multipl[del]ied[/del]
+the remainder is $2x^2y^2 = 6084 - 77x^2y^2$
+Hence by quadratics $xy = 6$
+and $x^2 + y^2 = \frac{117}{9} = 13$
+$x = 2$ and $y = 3$.
+
+[pn]Solution to Question [del]2[/del] [ins]4[/ins] (24[del]6[/del] [ins]7[/ins])[/pn]
+
+From $y$ times the first, subtract $x$ times the second equation
+the remainder is $0 = ay^2 - bx^2$
+$y = \sqrt{\frac{b}{a}} x$.
+then $x^2 + xy = ay = (1 + \sqrt{\frac{b}{a}}) x^2 = a \sqrt{\frac{b}{a}} x$
+$x = \frac{a \sqrt{\frac{b}{a}}}{1 + \sqrt{\frac{b}{a}}}$
+$y = \frac{b}{1 + \sqrt{\frac{b}{a}}}$
+
+[pn]Solution to Question 3 (246)[/pn]
+
+Twice the first equation added to the second gives
+$(x+y)^2 + (x+y) = 100 + 10$
+$x+y = 10$ ; $xy = 34 - (x+y) = 24$
+$x = 6$ ; $y = 4$

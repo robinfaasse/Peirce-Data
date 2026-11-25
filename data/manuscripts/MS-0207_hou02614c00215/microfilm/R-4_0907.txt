@@ -1,0 +1,19 @@
+[pn]R[/pn] [pn]91[/pn]
+
+Given three fractions $\frac{M}{N} < \frac{P}{Q} < \frac{R}{S}$, let us form the identical equation
+$Q(RN-MS) = N(RQ-PS) + S(PN-MQ)$.
+
+Were we to reduce the fractions to a common denominator, $NQS$, and then form the analogous equation, every term above would be multiplied by $N^2Q^2S^2$. But if we form such an equation from three fractions with a common denominator, say $\frac{A}{D} < \frac{B}{D} < \frac{C}{D}$, it is
+$D^2(C-A) = D^2(C-B) + D^2(B-A)$.
+
+Hence, in the first equation the terms must be proportional to the three differences
+$(\frac{R}{S} - \frac{M}{N}) = (\frac{R}{S} - \frac{P}{Q}) + (\frac{P}{Q} - \frac{M}{N})$.
+
+Consequently, in following the above rule, when [ins]for three successive fractions[/ins] $RN-MS = RQ-PS = PN-MQ$, we must have
+$(\frac{R}{S} - \frac{M}{N}) : (\frac{R}{S} - \frac{P}{Q}) : (\frac{P}{Q} - \frac{M}{N}) = Q : N : S$.
+
+Of course, this could easily be proved in a routine way; but looking at the matter from this point of view gives a clearer apprehension of the bearings of the rule.
+
+It easily follows that in following that rule the difference between any two successive fractions $\frac{A}{B}$ and $\frac{C}{D}$ is $\frac{1}{BD}$, which is otherwise evident. For the difference between [del]the[/del] [del]which are successive fracti[/del] successive fractions when only those of denominator 1 are yet written, as $\frac{0}{1}, \frac{1}{1}, \frac{2}{1}, \frac{3}{1}$ etc. follows this formula $\frac{A}{B} - \frac{C}{D} = \frac{1}{BD}$; and owing to the [del]equation[/del] [ins]proportion[/ins] just obtained, no insertion can originate the first violation of this formula.
+
+The succession of differences of the values is extremely irregular. I will here say two words about calculating these values. First, [del]in all[/del] multiplication and division without the aid of tables is greatly facilitated by the use of a little table of successive multiples. For example, suppose we wish to

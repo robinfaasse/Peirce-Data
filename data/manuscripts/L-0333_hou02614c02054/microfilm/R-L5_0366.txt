@@ -1,0 +1,45 @@
+[u]The external product of two vec-[/u]
+tors, is the parallelogram they
+form, account being taken of
+its plane and the direction of
+moving round it, or as Hamilton
+says, its aspect. We therefore
+have
+$[v_1 v_2] = v_1 v_2 \sin \angle^{v_1}_{v_2} \cdot I$
+where $I$ is [del]a unit[/del] [ins]unit[/ins].
+This reminds one strongly of
+what is written in quaternions
+as $-V(v_1 v_2)$ but it is not
+the same thing in fact, because
+$v_1 v_2 v_3$ is a solid and therefore
+a new kind of quantity. In
+fact, Grassmann has got hold
+(though he doesn't say so) of an
+
+Eight-fold algebra, which may
+be written in my system as follows.
+
+[u]Three rectangular vectors[/u]
+$i = M:A - B:Z + C:Y + X:N$
+$j = M:B - C:X + A:Z + Y:N$
+$k = M:C - A:Y + B:X + Z:N$
+
+[u]Three rectangular planes[/u]
+$I = M:X + A:N$
+$J = M:Y + B:N$
+$K = M:Z + C:N$
+
+[u]One solid[/u]
+$V = M:N$
+
+[u]Unity[/u]
+$1 = M:M + A:A + B:B + C:C$
+$+ X:X + Y:Y + Z:Z + N:N$
+(The unity might be omitted)
+
+[del]For[/del] [ins]In[/ins] this multiplication we have
+$[v_1 v_2] = - [v_2 v_1] \qquad v^2 = 0$
+The relation of these two multipli-
+cations is exceedingly interesting.
+
+[pn]109[/pn]

@@ -1,0 +1,25 @@
+[marginalia]
+Attraction
+14
+[/marginalia]
+
+formula would represent the particle as going off to an infinite
+distance, which we suppose not to be the case; but we here
+first embody that assumption in the algebra.
+
+(8) Let $r_a$ be the distance from the centre at which
+the upward motion ceases; so that for larger values of $r$
+there is no velocity. This will be expressed by
+$$v_a = 0 = \sqrt{\frac{k}{r_a^2} - C}$$
+whence
+$$C = \frac{k}{r_a^2}$$
+and we have generally
+$$v = \sqrt{k \left( \frac{1}{r^2} - \frac{1}{r_a^2} \right)}.$$
+The initial velocity is
+$$v_c = \sqrt{k \left( \frac{1}{r_c^2} - \frac{1}{r_a^2} \right)}.$$
+
+(9) Since $v = \frac{dr}{dt}$ we have from the above value of $v$
+$$dt = \frac{dr}{\sqrt{k} \sqrt{\frac{1}{r^2} - \frac{1}{r_a^2}}}$$
+The integral of this gives
+$$r = \sqrt{r_a^2 + 2 \sqrt{k} \sqrt{1 - \frac{r_c^2}{r_a^2}} (t - t_c) - \frac{k}{r_a^2} (t - t_c)^2}$$
+Let $\tau$ denote a small interval of time (possibly zero) and

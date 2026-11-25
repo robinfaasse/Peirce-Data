@@ -1,0 +1,29 @@
+[marginalia]
+[del]sin 3M[/del]
+[del]= sin 2M cos M + cos 2M sin M[/del]
+[del]= 3 sin M cos² M + cos² M sin M[/del]
+[del]- sin³ M[/del]
+[del]= 3 sin M - 4 sin³ M[/del]
+[del]13 sin 3M = 39 sin M - 52 sin³ M[/del]
+[del]36[/del]
+[del]13/3[/del]
+[/marginalia]
+
+v = M + (v - M)
+
+sin v = sin M cos (v - M) + cos M sin (v - M)
+
+v - M = 2 e sin M + [del]5/2[/del] [ins]5/2[/ins] e² sin M cos M + e³ (3 sin M - 13/3 sin³ M)
+
+(v - M)² = 4 e² sin² M + e³ (10 sin² M cos M)
+
+(v - M)³ = e³ (8 sin³ M)
+
+sin (v - M) = 2 e sin M + 5/2 e² sin M cos M + e³ (3 sin M - 17/3 sin³ M)
+
+cos (v - M) = 1 - 2 e² sin² M - 5 e³ sin² M cos M
+
+sin v = sin M - 2 e² sin³ M - 5 e³ sin³ M cos M
++ 2 e sin M cos M + 5/2 e² (sin M - sin³ M) + e³ (3 sin M cos M - 17/3 sin³ M cos M)
+
+= sin M (1 + 2 e cos M + e² ([del]5/2[/del] [ins]5/2[/ins] - 4 1/2 sin² M) + e³ (3 [del]- 17/3[/del] [ins]- 32/3[/ins] sin² M) cos M)

@@ -1,0 +1,28 @@
+[marginalia]
+$\frac{a^3 - a^2}{a}$
+$\frac{a^3 - a^2}{a^3 + a^2}$
+
+$\frac{a^3 - a^2}{+a^3 + a^2}$
+[/marginalia]
+
+$\mathcal{B} \frac{\mu}{2} (g + \lambda) s + \mathcal{C} \frac{\mu}{2} (g + \lambda) s$
+
+$+ \lambda i) \mathcal{B} \frac{\mu}{2} (g + \lambda i) s + \frac{\mu}{2} (g + \lambda i) \mathcal{C} \frac{\mu}{2} (g + \lambda i) s$
+
+$(g + \lambda i)^2 \mathcal{B} - + \frac{\mu^2}{2} (g + \lambda i)^2 \mathcal{C}$
+
+$\mathcal{A} + \mathcal{B} + \mathcal{C} = \mathcal{X}_0$
+
+$\mathcal{A} + \frac{\mu}{2} (g + \lambda i) \mathcal{B} - \frac{\mu}{2} (g + \lambda i) \mathcal{C} = \mathcal{X}_0'$
+
+$\frac{\mu^2}{2^2} (g + \lambda i)^2 (\mathcal{B} + \mathcal{C}) = \mathcal{X}_0''$
+
+$\mathcal{X}_0 + \frac{2}{\frac{\mu^2}{2^2} (g + \lambda i)^2} \mathcal{X}_0'' = \mathcal{A}$
+
+$\mathcal{X}_0' - \mathcal{X}_0'' = \left\{ \frac{\mu}{2} (g + \lambda i) - 1 \right\} \mathcal{B} - \left\{ \frac{\mu}{2} (g + \lambda i) + 1 \right\} \mathcal{C}$
+
+$\mathcal{X}_0'' = \frac{\mu^2}{2^2} (g + \lambda i)^2 \mathcal{B} + \frac{\mu^2}{2^2} (g + \lambda i)^2 \mathcal{C}$
+
+$\frac{\mu}{2} (g + \lambda i)^2 (\mathcal{X}_0' - \mathcal{X}_0'') + \left\{ \frac{\mu}{2} (g + \lambda i) + 1 \right\} \mathcal{X}_0'' = 2 \frac{\mu^3}{2^3} (g + \lambda i)^3 \mathcal{B}$
+
+$\frac{\mu}{2} (g + \lambda i)^2 (\mathcal{X}_0' - \mathcal{X}_0'') [del]+[/del] [ins]-[/ins] \left\{ \frac{\mu}{2} (g + \lambda i) - 1 \right\} \mathcal{X}_0'' = 2 \frac{\mu^3}{2^3} (g + \lambda i)^3 \mathcal{C}$

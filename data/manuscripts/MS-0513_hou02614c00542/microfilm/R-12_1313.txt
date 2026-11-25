@@ -1,0 +1,22 @@
+[pn]PL[/pn] [pn]80[/pn]
+
+The following are the most important formulae:
+$$\Pi_u, \Pi_v, \Pi_w$$
+
+If $u \prec v$ $u \cdot w \prec v \cdot w$ $w \cdot u \prec w \cdot v$
+" " " $u + w \prec v + w$ $w + u \prec w + v$
+" " " $\bar{v} \prec \bar{u}$
+
+$(u \cdot v) \cdot w = u \cdot (v \cdot w)$
+$(u + v) + w = u + (v + w)$
+
+[del]Then[/del] $(u + v) \cdot w \prec u \cdot w + v \cdot w$ $w \cdot (u + v) \prec w \cdot u + w \cdot v$
+$(u \cdot v) + w \succ u + w \cdot v + w$ $w + (u \cdot v) \succ w + u \cdot w + v$
+
+If $u \prec v$ $u w \prec v w$ $w u \prec w v$
+" " " $u \int w \prec v \int w$ $w \int u \prec w \int v$
+" " " $\tilde{v} \prec \tilde{u}$,
+
+$(u v) w = u (v w)$
+$(u \int v) \int w = u \int (v \int w)$
+$(u \int v) w \prec u \int v w$ $w (u \int v) \prec w u \int [del]w v[/del] [ins]w u \int v[/ins]$

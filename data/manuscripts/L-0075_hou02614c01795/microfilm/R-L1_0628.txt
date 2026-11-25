@@ -1,0 +1,47 @@
+[pn]A
+23[/pn] of declaration of intention, is manifest only to the one person
+whose experience it concerns. It is only when we judge
+concerning objects which exist [del]only[/del] [ins]alone[/ins] in the imagination
+that all minds of sufficient intelligence are on a
+par, however devoid of experience some of them may
+be. Some of the most vital propositions of logic are
+of this class.
+
+[fig]Logical formulas and truth value tables[/fig]
+
+[del]A[/del] [ins]A[/ins] [u]B[/u] + [u]C[/u]
+B [u]C[/u] + [u]A[/u]
+C [u]A[/u] + [u]B[/u]
+x
+
+A true
+B true
+C false
+
+A = A true B false C true
+B = [del]A[/del] [ins]A[/ins] true B true C false
+C = A false B true C true
+[u]If anyone is true 1 - Imposs.[/u]
+
+[u]All false[/u]
+
+A = A true B false
+B = B true C false
+C = C true D false
+D A false
+[u]Suppose A true (C is false D false)[/u]
+
+A A true B false C false
+B A false B true C false
+C A false B false C true
+[u]Any one may be true[/u]
+[u]All three may be false[/u]
+
+A = A true B false
+B = B true C false
+C = A false C true
+
+[u]suppose A true[/u]
+C is false, B false
+
+A true B false C false

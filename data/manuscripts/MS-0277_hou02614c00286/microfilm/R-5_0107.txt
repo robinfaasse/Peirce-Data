@@ -1,0 +1,192 @@
+[del]A pt. interruption of a point produces[/del] [ins]$\Delta L_0 P^0 = -1$[/ins]
+[del](which must in all cases reduce $L_0 P^1$ by 1)[/del] [ins]$\Delta C P^0 = +1$[/ins]
+A pt. interruption of a line [del]may be necessary to reduce $L_0 P^1$ by 1[/del] [ins]simply disrupts it[/ins]
+in which case, such an interruption, [del]made at $S_n P^1$ will[/del]
+made at $S_n P^1$ will destroy this singularity $\Delta C P^1 = -1$ $\Delta S_n P^1 = -1$
+made at ordinary point [del]may effect its purpose[/del] $\Delta L_0 P^1 = -1$
+or may not (i.e. when there is $S_1$) $\Delta B P^1 = +1$
+made at $S_{+n} P^1$ $\Delta S_{+n} P^1 = -1$ $\Delta L_0 P^1 = -1$ [del]or may not in which case[/del] $\Delta [del]B[/del] [ins]C[/ins] P^1 = +1$
+$\Delta L_0 P^1$ never positive
+$\Delta (L_0 - L_1) = - [del]1[/del] [ins]0[/ins]$
+
+[fig]Star-like node with radiating lines[/fig] $r_1 = \text{number of radii disconnected}$
+$2 r_2 = \text{" " " connected in pairs}$
+$3 r_3 = \text{" " " " " by threes}$
+etc
+$r_1 + 2 r_2 + 3 r_3 + \text{etc} - 2 = g$
+
+<u>Before Interruption</u>
+$L_0 P^1 = 1$
+$L_1 P^1 = r_2 + 2 r_3 + \text{etc}$
+$g = r_1 + 2 r_2 + 3 r_3 - 2 + \text{etc}$
+
+<u>After</u>
+$L_0 P^1 = r_1 + r_2 + r_3 + \text{etc}$
+$L_1 P^1 = 0$
+$g_1 = [del]r_1 + 2 r_2 + 3 r_3 - 2 + \text{etc}[/del] [ins]0[/ins]$
+[del]$4 g = 2 g + 2$[/del]
+$\Delta g = -g$
+
+$\Delta L_0 P^1 = r_1 + r_2 + r_3 + \text{etc} - 1$
+$\Delta L_1 P^1 = -r_2 - 2 r_3 + \text{etc}$
+$\Delta (L_0 - L_1) P^1 = r_1 + 2 r_2 + 3 r_3 + \text{etc} - 1$
+$= g + 1$
+$\Delta (L_0 - L_1) P^1 = \Sigma g + 1$
+$\Delta (L_0 - L_1) P^1 + \Delta \Sigma g = +1$
+
+[fig]Line segment with two endpoints[/fig]
+<u>Before</u>
+$L_0 P^1 = 1$
+$L_1 P^1 = 0$
+$g = -1$
+
+<u>After</u>
+$L_0 P^1 = 1$
+$L_1 P^1 = 0$
+$g = 0$
+
+[fig]Three points[/fig]
+$+1$
+
+[fig]Three-legged node[/fig]
+<u>Before</u>
+$L_0 P^1 = 1$
+$L_1 P^1 = 0$
+$L_2 P^1 = 3$
+$S^1_3 = 0$
+$+4$
+
+<u>After</u>
+$L_0 P^0 = +1$
+$L_0 P^1 = +3$
+$L_1 P^1 = 0$
+$L_2 P^1 = 0$
+$+4$
+
+<u>Examination of Point Singularities</u>
+
+$C L_0 P^0 = 1$
+
+[fig]Circle[/fig]
+$C L_0 P^0 = 2$
+$C L_0 P^1 = -1$
+$\text{Total } C = 0$
+
+[fig]Circle with dot inside[/fig]
+$C L_0 P^0 = +1$
+$C L_1 P^1 = +1$
+$\text{Total } C = 0$
+
+[fig]Line segment with two endpoints[/fig]
+$C L_0 P^0 = +2$
+$C L_0 P^1 = -1$
+$\text{Total } C = +1$
+
+[fig]Line segment with dot on it[/fig]
+$C L_0 P^0 = +1$
+$C L_0 P^1 = -1$
+$C L_1 P^1 = 0$
+$C L_1 S_1 P^1 = +1$
+$\text{Total } C = +0$
+
+[fig]Line segment with dot on it[/fig]
+$C L_1 P^1 = -1$
+$C L_1 S_1 P^1 = +2$
+$\text{Total } C = +1$
+
+[fig]Two connected line segments[/fig]
+$C L_0 P^0 = +2$
+$C L_0 P^1 = -3$
+$C L_1 P^1 = 0$
+$\text{Total } C = -1$
+
+[fig]Two connected line segments with dot[/fig]
+$C L_1 P^1 = +1$
+$C L_1 S_1 P^1 = -2$
+$C L_1 P^1 = +1$
+$\text{Total } C = 0$
+
+[fig]Two crossed line segments[/fig]
+$C L_0 P^0 = +2$
+$C L_0 P^1 = -4$
+$C L_1 P^1 = 0$
+$C L_2 P^1 = +1$
+$\text{Total } C = -1$
+
+[fig]Two connected line segments with dot[/fig]
+$C L_1 P^1 = -1$
+$C L_1 S_1 P^1 = +2$
+$C S_2 S_1 P^1 = -2$
+$\text{Total } C = -1$
+
+[fig]Two connected line segments[/fig]
+$C L_1 P^1 = -1$
+$C L_1 P^1 = +2$
+$C S_2 S_1 P^1 = -2$
+$\text{Total } C = -1$
+
+[fig]Star-like node with 6 rays[/fig]
+$C L_0 P^0 = +n+1$
+$C L_0 P^1 = -n$
+$\text{Total } C = +1$
+
+[fig]Star-like node with 6 rays[/fig]
+$C L_0 P^0 = +n$
+$C L_1 P^1 = -1$
+$C L_1 S_{n-2} P^1 = -(n+2)$
+$\text{Total } C = +1$
+
+Of Surfaces. Primary
+[fig]Closed surface with hole[/fig]
+$C L_0 P^0 = +1$
+$C L_0 P^2 = +1$
+$C L_1 P^2 = -1$
+$C L_1 F^2 = 0$
+$\text{Total } C = +1$
+
+[fig]Torus-like surface[/fig]
+$C L_0 P^0 = 0$
+$C L_0 P^1 = +1$
+$C L_1 P^1 = -1$
+$C L_1 P^2 = +1$
+$C L_1 S^1_1 P^2 = 0$
+$\text{Total } C = +1$
+
+[fig]Double cone[/fig]
+$C L_0 P^0 = +1$
+$C L_0 P^1 = -2$
+$C L_0 P^2 = +2$
+$C L_1 P^1 = +3$
+$C L_1 P^2 = -3$
+$C L_2 P^2 = 0$
+$\text{Total } C = +1$
+
+[fig]Double cone with dot[/fig]
+$C L_0 P^0 = 0$
+$C L_0 P^1 = 0$
+$C L_0 P^2 = 0$
+$C L_1 P^1 = 0$
+$C L_1 P^2 = 0$
+$C L_2 P^2 = 0$
+$C L_0 S^1_1 P^2 = 0$
+$\text{Total } C = +1$
+
+General effect of exchanging
+Interruption Point for Tack pt
+$\Delta C L_0 P^0 = -1$
+$\Delta C L_0 L_1 P^1 = +1$
+
+For if the sheets are otherwise detached
+$\Delta C L_0 P^2 = -1$
+$\Delta C L_1 P^2 = 0 \text{ or } +2$
+$\Delta C L_2 P^2 = +2 \text{ or } 0$
+
+If sheets are multiply connected
+$\Delta C L_1 P^2 = $
+
+Of Solids Primary
+In 6 dimensions
+For solids both bounded
+and unbounded
+$x = R^4 + v = 0$
+$x = -2$

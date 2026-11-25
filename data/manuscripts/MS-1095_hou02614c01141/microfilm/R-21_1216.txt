@@ -1,0 +1,19 @@
+The integral of this is
+$$\xi = C \mathfrak{G}^{-ht} \cos \frac{t}{T} \Theta$$
+
+$$D_t \xi = -Ch \mathfrak{G}^{-ht} \cos \frac{t}{T} \Theta$$
+$$- \frac{\Theta}{T} C \mathfrak{G}^{-ht} \sin \frac{t}{T} \Theta$$
+
+$$D_t^2 \xi = \left( Ch^2 - \frac{\Theta^2}{T^2} \right) \mathfrak{G}^{-ht} \cos \frac{t}{T} \Theta$$
+$$2 Ch \frac{\Theta}{T} \sin \frac{t}{T} \Theta$$
+
+$$2 Ch \frac{\Theta}{T} [del]\xi[/del] = \frac{M' n k'}{1 + M' K} \frac{\Theta}{T} C \mathfrak{G}$$
+
+$$2h = \frac{M' n k'}{1 + M' K} \qquad n = \frac{\Theta}{T} \qquad \begin{array}{l} M' = \text{mass} \\ \text{of air dis-} \\ \text{placed} \end{array}$$
+
+$$h = \frac{1}{2} \qquad \Phi = C \mathfrak{G}^{-ht} \qquad b' = .000175$$
+
+$$[del]D_t \Phi[/del] \qquad D_t \Phi = -h C \mathfrak{G}^{-ht} \qquad b = .000402$$
+
+$$[del]\text{the}[/del] \ [del]\text{they}[/del] \qquad D_n \Phi = -b \Phi$$
+$$D_n \log \Phi = \mu D_n \Phi \qquad b' = \mu \Phi$$

@@ -1,0 +1,20 @@
+[marginalia]Mondovi's Bridge [date]1899 March 3[/date][/marginalia] [pn]6[/pn]
+
+[u]z = A₁n + A₃n³ + A₅n⁵ + A₇n⁷ + etc[/u]
+Dz = [del]A₁[/del] [ins]3!/1![/ins] A₃n + [ins]5!/3![/ins] A₅n³ + [ins]7!/5![/ins] A₇n⁵ + etc
+az = [del]aA₁n + aA₃[/del]
+aA₁n + aA₃n³ + aA₅n⁵
++ cA₁n³ + cA₃n⁵ + etc
+[del]c²z[/del]
+
+A₃ = - 1!/3! a A₁
+A₅ = [del]a[/del] [ins]3!/5![/ins] (- a A₃ - c A₁)
+= [del]a[/del] 1!/5! (+ a² - 3! c) A₁
+A₇ = 1!/7! (- 5! a A₅ - 5! c A₃)
+= 1!/7! (- a³ + 3! ac [ins]+ 5!/3! ac[/ins])
+= 1!/7! (- a³ + ([del]3![/del] [ins]3!/1![/ins] + 5!/3!) ac)
+A₉ = 1!/9! (- 7! a A₇ - 7! c A₅)
+= (+ a⁴ - (3!/1! + 5!/3!) a²c
+- 7!/5! a²c + 7!/5! 3!/1! c²
+
+[fig]Mathematical calculations and scratch work[/fig]

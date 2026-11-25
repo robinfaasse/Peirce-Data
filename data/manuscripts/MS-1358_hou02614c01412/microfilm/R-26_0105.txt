@@ -1,0 +1,32 @@
+[marginalia]
+[u]Mirimichi Bridge[/u] [date]1899 Feb 8[/date] [u]St Bridget's day[/u]
+[/marginalia]
+
+To [del]def[/del] ascertain whether Melan's process of approxi-
+mating to H is correct or not,
+
+he puts $H = F'H$ p. 41 (113)
+
+Then it ought to be true that $(F'H)^2 < 1$.
+
+$$F'H = \frac{\int ( \mathfrak{M} - \frac{q}{c^2} ) dx}{-\int (C_1 e^{cx} + C_2 e^{-cx}) dx + \frac{2}{3} H - \frac{8f}{l^2 c^2} + c^2 \frac{J}{E_0} \frac{l^2 I}{8f}}$$
+
+Here $c^2 = \frac{H+H_g}{EJ}$ $D_H c^2 = \frac{1}{EJ}$ $D_H \frac{1}{c^2} = - \frac{EJ}{(H+H_g)^2} = - \frac{1}{c^4 EJ}$
+
+[del][fig]scribble[/fig][/del] $D_H c = \frac{1}{2} \frac{1}{\sqrt{(H+H_g)EJ}} \overset{= \frac{1}{2cEJ}}{}$ $D_H \frac{1}{c} = - \frac{\sqrt{EJ}}{2(H+H_g)^{\frac{3}{2}}} = - \frac{1}{2c^3 EJ}$
+
+$C_1$ and $C_2$ are determined by the equations
+
+$$0 = (C_1 + C_2 + \frac{8f}{c^2 l^2} + \frac{\mathfrak{M}}{H} - q$$
+
+$$C_1 = \frac{1}{e^{cl} - e^{-cl}} \{ \frac{P}{2cH} (e^{-c\xi'} - e^{c\xi'}) - \frac{8f}{c^2 l^2} (1 - e^{-cl}) \}$$
+
+$$C_2 = \frac{1}{e^{cl} - e^{-cl}} \{ \frac{P}{2cH} (e^{c\xi'} - e^{-c\xi'}) + \frac{8f}{c^2 l^2} (1 - e^{cl}) \}$$
+
+$$D_H C_1 = - \frac{l(e^{cl} + e^{-cl})}{(e^{cl} - e^{-cl})^2} \frac{1}{2\sqrt{(H+H_g)EJ}} \{ \frac{P}{2cH} (e^{-c\xi'} - e^{c\xi'}) - \frac{8f}{c^2 l^2} (1 - e^{-cl}) \}$$
+
+$$+ \frac{1}{e^{cl} - e^{-cl}} \{ \frac{P \sqrt{EJ}}{4H(H+H_g)^{\frac{3}{2}}} (e^{-c\xi'} - e^{c\xi'}) - \frac{P \xi'}{2cH} (+ \frac{1}{c} e^{-c\xi'} + e^{c\xi'}) + \frac{8f EJ}{l(H+H_g)^2} (1 - e^{-cl})$$
+
+$$- \frac{8f}{c^2 l^2} [del]e^{-cl}[/del] \}$$
+
+$D_H C_2 =$

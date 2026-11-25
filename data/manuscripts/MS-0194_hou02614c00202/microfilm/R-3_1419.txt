@@ -1,0 +1,25 @@
+$$\cos^2 \frac{A}{2} = 1 - \frac{\sin^2 \frac{a}{2} - \sin^2 \frac{b-c}{2}}{\sin b \sin c}$$
+
+$$\frac{1}{4} \sin^2 A = \frac{\sin^2 \frac{a}{2} - \sin^2 \frac{b-c}{2}}{\sin b \sin c} - \frac{\left(\sin^2 \frac{a}{2} - \sin^2 \frac{b-c}{2}\right)^2}{\sin^2 b \sin^2 c}$$
+
+$$\frac{\frac{1}{4} \sin^2 A}{\sin^2 a} = \frac{\frac{1}{2} \tan^2 \frac{a}{2} - \frac{\sin^2 \frac{(b-c)}{2}}{\sin a}}{\sin a \sin b \sin c} - \frac{\left(\sin^2 \frac{a}{2} - \sin^2 \frac{b-c}{2}\right)^2}{\sin^2 a \sin^2 b \sin^2 c}$$
+
+[fig]Sketch of intersecting lines[/fig] $\frac{\sin^2 \frac{a}{2} - \sin^2 \frac{(b-c)}{2}}{\sin b \sin c} = \sin^2 \frac{A}{2}$
+
+$$\sin^2 \frac{b-c}{2} = \sin^2 \frac{b}{2} \cos^2 \frac{c}{2} - 2 \sin \frac{b}{2} \cos \frac{b}{2} \sin \frac{c}{2} \cos \frac{c}{2} + \cos^2 \frac{b}{2} \sin^2 \frac{c}{2}$$
+$$= \beta (1-\gamma) - 2 \sqrt{\beta(1-\beta)\gamma(1-\gamma)} + (1-\beta)\gamma$$
+
+$$\sin b \sin c = 2 \sin \frac{b}{2} \cos \frac{b}{2} \sin \dots$$
+
+$$\sin^2 \frac{A}{2} = \frac{\sin(s-b)\sin(s-c)}{\sin b \sin c}$$
+
+$$\sin\left(\frac{1}{2}a - \frac{b-c}{2}\right) \sin\left(\frac{1}{2}a + \frac{b-c}{2}\right)$$
+$$\begin{aligned}
+& [del]\text{G}\dots[/del] \sin\alpha\cos\beta - \cos\alpha\sin\beta \\
+& \underline{\sin\alpha\cos\beta + \cos\alpha\sin\beta} \\
+& \sin^2\alpha\cos^2\beta - \cos^2\alpha\sin^2\beta \\
+& \sin^2\alpha [del]-\sin^2\alpha\sin^2\beta[/del] - \sin^2\beta \\
+& \phantom{\sin^2\alpha} +
+\end{aligned}$$
+
+[fig]Three intersecting circles with labeled angles[/fig] [fig]Scribbled lines[/fig]

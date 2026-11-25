@@ -1,0 +1,28 @@
+[pn]71[/pn]
+
+To prove lines joining vertices ABC
+of a $\Delta$ to the middle points of sides
+are concurrent.
+
+Assume $D = A - B + C$
+$B - C$ which is on $BC$
+$A - C$ " " " $AB$
+$A - B$ " " " $AB$
+
+$|(A+B-C), A| = |B, C|$
+$|A+B-C, A| = |2B-C, B|$
+
+$\left. \begin{aligned}
+|2B-C, B| &= 2|B, C| \\
+|2A-C, C| &= 2|A, C| \\
+|2A-C, 2B-C| &= 2|B, C|
+\end{aligned} \right\}$ The [ins]double[/ins] triangle
+
+Two of the three rays
+$\left. \begin{aligned}
+2A-C, B \\
+2B-C, A
+\end{aligned} \right\}$ intersect at $2A+2B-C$
+
+But $2B-C, A$ also contains $2A+2B-C$
+Therefore the [del]three[/del] [ins]rays[/ins] are copunctual

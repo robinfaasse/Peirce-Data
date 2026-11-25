@@ -1,0 +1,25 @@
+[pn]15[/pn]
+
+[u]By Clause 1 of the Definition of [char]C[/char][/u]
+(A) If e, then i[char]C[/char]e
+(B) If i[char]C[/char]e, then a[char]C[/char]i[char]C[/char]e
+
+[u]By Clause 2 of the same Definition[/u]
+(C) Either i or i[char]C[/char]e
+(D) Either a or a[char]C[/char]i[char]C[/char]e
+
+[u]By Clause 3 of the same Definition[/u]
+(E) If i and i[char]C[/char]a[char]C[/char]e, then a[char]C[/char]e
+(F) If a and a[char]C[/char]e, then e
+
+[u]By (E) and the Hypothesis[/u]
+If i, then a[char]C[/char]e
+
+Whence by (C)
+Either i[char]C[/char]e or a[char]C[/char]e
+
+Whence by (B)
+Either i[char]C[/char]e or if a then e
+
+Whence by (A)
+If a, then i[char]C[/char]e

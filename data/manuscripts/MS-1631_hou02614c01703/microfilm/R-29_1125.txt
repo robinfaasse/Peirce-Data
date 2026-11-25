@@ -1,0 +1,19 @@
+Second Term.
+[date]March 7th 1859[/date].
+
+§365 Determinant of partial functional determinants of inferior order.
+§366 Same
+§367 & §368 Determinants of mixed partial functional determinants
+
+[date]March 9th 1859[/date].
+
+§369 [del]R[/del] [ins]P[/ins]ₙ₋₁ [del]Σ[/del] [ins]Z[/ins] ± Dₓₘ f Dₓₘ₊₁ f₁ ... Dₓₘ₊ₙ fₙ = Σ₁ᵐ (μₖ [del]R[/del] [ins]P[/ins]ₖ)
+Neither of the quantities [del]C[/del] [ins]P[/ins]ₖ⁽ⁱ⁾ nor any function of them contain derivatives of fₙ because [del]C[/del] [ins]P[/ins]ₖ⁽ⁱ⁾ is the value which [del]R[/del] [ins]P[/ins]ₙ₋₁ assumes when Dₓᵢ is changed to Dₓₘ₊ₖ
+
+§370 Σₖ (μₖ Z ± Dₓₘ₊ₖ f Dₓ₁ f₁ Dₓ₂ f₂ ... Dₓₙ₋₁ fₙ₋₁) = 0
+§371 Lagrange's equation for determinants of partial derivatives.
+
+Observe that tᵢ' means that you have got rid of all variables from tᵢ denoted by x₋ⱼ by substituting t₋ⱼ
+
+§372 Z ± Dₓ₁ v₁ Dₓ₂ v₂ ... Dₓₙ vₙ = 1/f'ⁿ⁺¹ Σ ± f Dₓ₁ f₁ Dₓ₂ f₂ ... Dₓₙ fₙ
+§373 fₙ' = ∫ₓ [del]II[/del] [ins]R[/ins]ₙ₋₁ = ∫ₓ (Pₙ₋₁ II) fₙ' = ∫ₓ R'ₙ₋₁ = ∫ₓ Pₙ₋₁

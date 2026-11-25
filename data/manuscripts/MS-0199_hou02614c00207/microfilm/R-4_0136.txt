@@ -1,0 +1,13 @@
+[pn]D 76[/pn] Consequently, [del]also[/del] supposing the root of greatest modulus to be $\alpha$ and that of smallest modulus to be $\nu$, and employing $p$ and [ins]$-m$[/ins] [del]$-m$[/del] to denote integers both of considerable absolute values, but $p$ having the plus [del]and[/del] [ins]sign[/ins] [del]the minus signs[/del], we shall have
+
+$\frac{S_{p+1}}{S_{p}} = \frac{A\alpha^{p+1} + B\beta^{p+1} + \Gamma\gamma^{p+1} + \dots + M\mu^{p+1} + N\nu^{p+1}}{A\alpha^{p} + B\beta^{p} + \Gamma\gamma^{p} + \dots + M\mu^{p} + N\nu^{p}}$
+
+$= \alpha \frac{1 + (B/A)(\beta/\alpha)^{p+1} + (\Gamma/A)(\gamma/\alpha)^{p+1} + \dots + (M/A)(\mu/\alpha)^{p+1} + (N/A)(\nu/\alpha)^{p+1}}{1 + (B/A)(\beta/\alpha)^{p} + (\Gamma/A)(\gamma/\alpha)^{p} + \dots + (M/A)(\mu/\alpha)^{p} + (N/A)(\nu/\alpha)^{p}}$
+
+and by taking $p$ large enough all the terms of the denominator after the first and [del]a fortiori[/del] [ins]$\underline{\text{a fortiori}}$[/ins] those of the numerator will become insensible [del]and[/del] and the approximation to $\alpha$ will be indefinitely close, while
+
+$\frac{S_{-m}}{S_{-m-1}} = \frac{(A/N)(\nu/\alpha)^{m} + (B/N)(\nu/\beta)^{m} + \dots + (M/N)(\nu/\mu)^{m} + 1}{(A/N)(\nu/\alpha)^{m+1} + (B/N)(\nu/\beta)^{m+1} + \dots + (M/N)(\nu/\mu)^{m+1} + 1}$
+
+[fig]A loop enclosing the numerator and denominator of the following fraction[/fig] $\frac{A\alpha^{-m} + B\beta^{-m} + \Gamma\gamma^{-m} + \dots + M\mu^{-m} + N\nu^{-m}}{A\alpha^{-m-1} + B\beta^{-m-1} + \Gamma\gamma^{-m-1} + \dots + M\mu^{-m-1} + N\nu^{-m-1}}$
+
+which when $m$ is sufficiently great will differ inconsiderably from $\nu$.

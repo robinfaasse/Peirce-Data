@@ -1,0 +1,70 @@
+[marginalia]
+[del]c = -2a[/del]
+[del]b = -2a[/del]
+[del]c = -2b[/del]
+[del]a = -b[/del]
+[/marginalia]
+
+[marginalia]
+a = -5b
+c = -5a
+[/marginalia]
+
+[{OB}{CQ}] = -A + 2B + 2C
+[{QB}{OC}] = A + B + C
+Pt at [infinity] = 2A - B - C
+[{2A-B-C, A}{B, C}] = [B + C]
+
+[del][{A-5B, C}][/del]
+[{A-5B, B}] = [del]5A - B - 5C[/del] [A - 5B - 5C]
+This is also on {B+C, A}
+
+[fig]Geometric diagram with lines intersecting at points A, B, C, O, Q[/fig]
+
+[fig]Geometric diagram with lines intersecting at points A, B, C, O, Q[/fig]
+
+[fig]Geometric diagram with lines intersecting at points A, B, C, O, Q[/fig]
+
+---
+
+Assume
+O = A + B - 2C
+Q = A - 2B + C
+
+[marginalia]
+2C - A - B
+2B - A - C
+[/marginalia]
+
+[fig]Geometric diagram with lines intersecting at points A, B, C, O, Q[/fig]
+
+{OA} = {A + B - 2C, A}
+{BQ} = {A + 2B - C, B}
+
+[{OA}{BQ}] = [del]2A + B + 2C[/del]
+[{OA}{OB}] = A + 4B - 2C
+
+[marginalia]
+c = -2b
+a = -2c
+c = -2a
+b = -2a
+[/marginalia]
+
+Point at inf. [del]A - 5B + 4C[/del] intersect of [del]{A - 5B + 4C, C}[/del] {A, B}
+
+[del][A - 5B][/del]
+
+[marginalia]
+b = -2a
+c = -2b
+a = -b
+b = -2c
+[/marginalia]
+
+{CQ} = {A - 2B + C, C}
+[del][{OA}{CQ}][/del] = A - 2B + 4C
+[del]C[/del]
+[{QA}{CO}] = 2A + 2B - C
+Point at [infinity] = A + 4B - 5C
+[{A + 4B - 5C, B}{A, C}] = [A - 5C]

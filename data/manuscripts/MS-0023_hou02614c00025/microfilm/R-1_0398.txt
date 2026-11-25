@@ -1,0 +1,37 @@
+[pn]29[/pn]
+
+[u]Discrete Quantity.[/u]
+
+In a discrete system, a proposition is proved to be true, if of any quantity then of every greater (or less) quantity, as soon as it has been shown to be true, if of any quantity then of the next greater (or less.)
+
+A system of discrete quantity is either limited, semi-limited, or unlimited. A limited system is one which has an absolute maximum and an absolute minimum quantity; a semi-limited system has one (generally considered a minimum) without the other; an unlimited has neither. [del]The doubly-limited system has no special interest.[/del]
+
+[u]Semi-limited Quantity.[/u]
+
+A proposition is shown to be true of every quantity in a semi-limited system, as soon as it is proved of the minimum and of every quantity greater.
+
+We now proceed to study the fundamental propositions of semi-limited, discrete, [ins]which is[/ins] simple quantity, [del]or[/del] [ins]on[/ins] ordinary number.
+
+[u]Definitions.[/u]
+
+The minimum number is called one.
+
+By [u]x+y[/u] is meant, in case x=1, the number next greater than y; and in general, the number next greater than x'+y, where x' is the number next smaller than x.
+
+By [u]x×y[/u] is meant, in case x=1, the number y, and in general, y+x'y, where x' is the number next smaller than x.
+
+[u]Theorems.[/u]
+
+The proof in each case will consist in showing, 1st, that the proposition is true of the number One, and 2nd, that if true of the number n it is true of the number 1+n, next larger than n. The different transformations of each expression will be ranged under one another in one column, with [del]the principles of transformation in another column.[/del] [ins]the indications of the principles of transformation in another column.[/ins]
+
+I. To prove the associative principle of addition, that
+(x+y)+z = x+(y+z)
+whatever numbers x, y, and z, may be. First it is true for x=1; for
+(1+y)+z
+= 1+(y+z) by the definition of addition, 2nd clause.
+Second, if true for x=n, it is true for x=1+n; that is, if
+(n+y)+z = n+(y+z) then ((1+n)+y)+z = (1+n)+(y+z). For
+((1+n)+y)+z
+= (1+(n+y))+z by the definition of addition;
+= 1+((n+y)+z) by the definition of addition;
+= 1+(n+(y+z)) by hypothesis;

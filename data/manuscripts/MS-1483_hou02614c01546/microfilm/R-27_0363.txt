@@ -1,0 +1,24 @@
+```
+[fig]Mathematical calculations and scratch work[/fig]
+
+[u]$\Delta U$[/u]
+
+$\frac{1}{12} a^3 / (1 + \frac{1}{2} a) (1 + \frac{2}{3} a)$
+$- \frac{1}{36} a^4 / (1 + [del]\frac{2}{3}[/del] [ins]\frac{3}{4}[/ins] a) (1 + [del]\frac{3}{4}[/del] [ins]\frac{4}{5}[/ins] a)$
+$+ \frac{1}{80} a^5 / (1 + \frac{3}{4} a) (1 + \frac{4}{5} a)$
+$- \frac{1}{150} a^6 / (1 + \frac{4}{5} a) (1 + \frac{5}{6} a)$
+
+[u]$\Delta^2 v$[/u]
+
+$- \frac{1}{12} a^3 - \frac{13}{144} a^4 - \frac{1}{72} a^5 / (1 + \frac{1}{2} a) (1 + \frac{2}{3} a) (1 + \frac{3}{4} a)$
+$+ \frac{1}{36} a^4 + \frac{13}{144} a^5 + \frac{1}{120} a^6 / (1 + \frac{2}{3} a) (1 + \frac{3}{4} a) (1 + \frac{4}{5} a)$
+$- \frac{1}{80} a^5 - \frac{41}{2400} a^6 - \frac{1}{200} a^7 / (1 + \frac{3}{4} a) (1 + \frac{4}{5} a) (1 + \frac{5}{6} a)$
+
+$- \frac{1}{144} a^6 [del](1 + \frac{1}{2} a) (1 + \frac{2}{3} a) (1 + \frac{3}{4} a)[/del] / \frac{a^3 (\frac{1}{12} + \frac{13}{144} a + \frac{1}{72} a^2) (1 + \frac{1}{2} a) (1 + \frac{2}{3} a)}{\frac{1}{12} (1 + \frac{13}{12} a + \frac{1}{6} a^2)}$
+
+$W_0 = \frac{1}{12} a^3 (1 + \frac{1}{2} a) / (1 + \frac{2}{3} a) (1 + \frac{3}{4} a) \frac{(1 + 0.30103 a) (1 + 0.32396 a)}{(1 + \frac{21.544}{24} a) (1 + \frac{4.456}{24} a)}$
+$\frac{1}{36} a^6 (1 + \frac{2}{3} a) / (1 + \frac{5}{4} a + \frac{3}{10} a^2) (1 + \frac{2}{3} a) (1 + \frac{3}{4} a)$
+$W_1 = + \frac{1}{36} a^6 (1 + \frac{2}{3} a) / (1 + \frac{1}{2} a) (1 + \frac{3}{4} a) (1 + 0.92604 a) (1 + 0.32396 a)$
+$W_2 = - \frac{80}{150^2} a^{12} (1 + \frac{3}{4} a) / (1 + \frac{1}{2} a) (1 + \frac{5}{6} a) (1 + 0.94206958 a) (1 + 0.42459709 a)$
+$\frac{4}{1125}$
+```

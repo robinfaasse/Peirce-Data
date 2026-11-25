@@ -1,0 +1,25 @@
+[marginalia]
+Logic
+[u]III[/u]
+79
+[/marginalia]
+
+(81) The expressions [u](x ~ y) ~ y[/u] and [u](y ~ x) ~ x[/u] are equivalent.
+For, by (79) and (80), if (x ~ y) ~ y is scriptible, so is
+(y ~ x) ~ x. And, therefore, the converse is true. Whence,
+by (68), we have [u]((x ~ y) ~ y) ~ (y ~ x) ~ x[/u] and
+[u]((y ~ x) ~ x) ~ (x ~ y) ~ y[/u]; and, by (77), (81) holds.
+
+(82) If (x ~ y) ~ z is scriptible, so is (x ~ z) ~ y.
+For, (x ~ y) ~ z being scriptible, by (60), if x ~ y is
+scriptible, so is z. But, by (64), either x ~ y is scriptible
+or x is scriptible. Hence, if (x ~ y) ~ z is scrip-
+tible, either z or x is scriptible; when, by (80), (x ~ z) ~ y
+is scriptible.
+
+(83) If (x ~ y) ~ z is scriptible, y ~ z is scriptible.
+For, by (65), [del]if[/del] [ins]if[/ins] y is scriptible, x ~ y is scrip-
+tible; when, by (66), (x ~ y) ~ z being scriptible z is
+scriptible. Thence, if (x ~ y) ~ z is scriptible, then if y is
+scriptible z is scriptible; and, by (68), (83) follows.
+Whence, by contraposition, [del]Otherwise, by [u]y ~ z[/u]; and, by (66), if (x ~ y) ~ z, then[/del] [ins]if [u]y ~ z[/u]; and (65) and (69) y ~ x ~ y[/ins]

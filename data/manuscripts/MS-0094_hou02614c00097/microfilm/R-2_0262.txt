@@ -1,0 +1,42 @@
+[pn]204[/pn]
+
+Suppose of three numbers, $x, y, z$, we know that
+$$\begin{array}{r}
+3x - 2y + 5z = 22 \\
+10x + 7y + 2z = \phantom{0}2 \\
+5x + 3y + 7z = 20
+\end{array}$$
+
+Dividing [del]each syzygy[/del] [ins]each[/ins] by the multiplier of $x$
+$$\begin{array}{r}
+x - \frac{2}{3}y + \frac{5}{3}z = \frac{22}{3} \\
+x + \frac{7}{10}y + \frac{2}{10}z = \frac{2}{10} \\
+x + \frac{3}{5}y + \frac{7}{5}z = \frac{20}{5}
+\end{array}$$
+
+Subtract the middle one from the first and third, and we get:
+$$\begin{array}{r}
+-\frac{41}{30}y + \frac{44}{30}z = \frac{214}{30} \\
+-\frac{1}{10}y + \frac{12}{10}z = \frac{38}{10}
+\end{array}$$
+
+or
+$$\begin{array}{r}
+-41y + 44z = 214 \\
+-\phantom{0}y + 12z = \phantom{0}38
+\end{array}$$
+
+Dividing each by the multiplier of $y$, we get:
+$$\begin{array}{r}
+y - \frac{44}{41}z = -\frac{214}{41} \\
+y - 12z = -\phantom{0}38
+\end{array}$$
+
+Subtracting the second from the first we have
+$$\frac{448}{41}z = \frac{1344}{41}$$
+
+or
+$$448z = 1344$$
+
+Dividing by the multiplier of $z$
+$$z = 3$$

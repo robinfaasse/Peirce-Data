@@ -1,0 +1,55 @@
+[fig]Circular arrow diagrams[/fig]
+
+[del]Length[/del]
+[u]$\Pi_{\alpha} \sum_{i} \sum_{j} \sum_{k} \overline{m}_{i} \cdot \overline{T}_{dii}$[/u]
+$\Pi_{\alpha} \sum_{i} m_{i} \cdot \overline{T}_{dii} + \sum_{j} \sum_{\beta} q_{\beta i} \cdot \overline{q}_{\beta j} \cdot m_{j} \cdot \overline{q}_{\alpha}$
+$\Pi_{\alpha} \cdot \sum_{i} \cdot \Pi_{j}$
+$m_{i} \cdot \overline{T}_{dii} + \overline{m}_{j} \cdot [del]\overline{T}_{dij}[/del] + \overline{T}_{dij} + \overline{T}_{dji}$
+
+What is true of whatever is greater than 2, but not of two is
+$\sum_{\alpha} \Pi_{i} \sum_{j} m_{i} \cdot \overline{m}_{j} + [del]\sum_{\beta}[/del] \cdot \gamma_{dij} \cdot m_{j} \cdot \overline{T}_{dij} + \frac{\sum_{\alpha} \Pi_{i} \sum_{j}}{m_{j} \cdot (m_{i} + \overline{T}_{dij} + \overline{T}_{ji})}$
+Let $g$ be greater than, Then
+$\Pi_{\alpha} \{ g_{2\alpha} = \sum_{\beta} \Pi_{i} \sum_{j} q_{\beta j} \cdot ( \overline{q}_{ii} + [del]\overline{q}_{\beta ij} \cdot q_{\beta ii}[/del] ) \}$
+
+$\Pi_{\alpha} \{ g_{2\alpha} = \Pi_{\beta} \sum_{i} \Pi_{j} \overline{q}_{ij} + q_{ii} \cdot ( [del]\overline{q}_{\beta ij}[/del] + \overline{q}_{\beta ji} ) \}$
+$\Pi_{\alpha} \{ g_{3\alpha} = \Pi_{\beta} \sum_{i} \Pi_{j} \overline{q}_{i} + q_{ei} \cdot ( \overline{q}_{\beta ii} + \overline{q}_{\beta ij} ) \}$
+$\Pi_{\alpha} \{ g_{0\alpha} = [del]\Pi_{\beta} \sum_{i} \Pi_{j}[/del] [del]\overline{q}_{i}[/del] \Pi_{j} \overline{q}_{ij} \}$
+$\Pi_{\alpha} \{ g_{2\alpha} = \sum_{i} \Pi_{j} \Pi_{\beta} \cdot \overline{q}_{ij} + q_{ei} \cdot ( \overline{q}_{\beta ii} + \overline{q}_{\beta ij} ) \}$
+
+---
+
+[fig]Circular and crossed arrow diagrams[/fig]
+
+$g_{1\alpha} = \sum_{i} \sum_{j} [del]\Pi_{\beta}[/del] q_{\alpha i} \cdot q_{\alpha j} \cdot \Pi_{\beta} \overline{q}_{\beta i}$
+$g_{2\alpha} = \sum_{i} \sum_{j} \sum_{k} \sum_{\beta} \overline{T}_{\beta ii} \cdot \overline{T}_{\beta ji} \cdot \overline{T}_{\beta ij} \cdot \overline{T}_{\beta ji} \cdot \overline{T}_{\beta ik}$
+$g_{3\alpha} = \sum_{i} \sum_{j} \sum_{k} \sum_{\beta} [del]\overline{T}_{\beta ii} \cdot \overline{T}_{\beta ji} \cdot \overline{T}_{\beta ij}[/del]$
+$q_{\beta ij} \cdot q_{\beta ik}$
+$\sum_{\beta} \Pi_{i} \sum_{j} \sum_{k}$
+$\gamma_{\beta ii} \cdot \gamma_{\beta ji} \cdot \gamma_{\beta ik} \cdot \gamma_{\beta ki}$
+
+[fig]Circular arrow diagrams[/fig]
+
+$\begin{array}{ccc}
+1 & 2 & 3 \\
+1 & 2 & 3 \\
+1 & 2 & 3
+\end{array}$
+
+$\begin{array}{ccc}
+1 & 2 & 3 \\
+2 & 3 & 1 \\
+3 & 1 & 2
+\end{array}$
+
+$\begin{array}{ccc}
+1 & 2 & 3 \\
+2 & 3 & 1 \\
+3 & 1 & 2
+\end{array}$
+
+$\begin{array}{ccc}
+1 & 2 & 3 \\
+2 & 3 & 1 \\
+1 & 3 & 2 \\
+2 & 1 & 3
+\end{array}$

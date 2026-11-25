@@ -1,0 +1,27 @@
+Suppose it possible to find $i$ such that
+$$(\phi_{\infty})^{i} = \mathcal{O}_{1-i} + \mathcal{O}_{-i} \phi_{\infty}$$
+$$(\phi_{\infty})^{i+1} = \mathcal{O}_{-i} + \mathcal{O}_{-1-i} \phi_{\infty}$$
+
+[del]Subtract[/del] [ins]Add[/ins] [del]these equations[/del]
+
+$$(\phi_{\infty})^{i} - (\phi_{\infty})^{i+1} = \mathcal{O}_{1-i} - \mathcal{O}_{-i} + (\mathcal{O}_{-i} - \mathcal{O}_{-1-i}) \phi_{\infty}$$
+
+But by (11), (3k), and (3l) this reduces to
+$$(\phi_{\infty})^{i+2} = \mathcal{O}_{-(i+1)} + \mathcal{O}_{-(i+2)} \phi_{\infty}$$
+
+This is of the same form as the two hypothetical equations. Consequently if any such value of $i$ can be found a similar equation holds for every value of $i$. But putting $i = 0$, the hypothetical equations reduce to
+$$(\phi_{\infty})^{0} = 1 \quad (\phi_{\infty})^{1} = \phi_{\infty}$$
+
+Consequently
+$$(12) \quad (\phi_{\infty})^{p} = \mathcal{O}_{1-p} + \mathcal{O}_{-p} \phi_{\infty}$$
+
+Let us now extend our notation so that
+$$(13) \quad (\delta^{p})_{m} = [del]\mathcal{O}_{m-p} \dots[/del] \phi_{m} \phi_{m-1} \phi_{m-2} \text{ etc. } (p \text{ factors})$$
+
+Then
+$$(14) \quad (\delta^{p})_{\infty} = (\phi_{\infty})^{p}$$
+
+We may write $\delta^{p}_{m}$ for $(\delta^{p})_{m}$, distinguishing it from $(\phi_{m})^{p}$
+
+We have obviously from (7) and (13)
+$$(15) \quad \delta^{p}_{m} = \frac{\mathcal{O}_{m-p}}{\mathcal{O}_{m}}$$

@@ -1,0 +1,23 @@
+[pn]6[/pn]
+
+[del]Hence we have[/del]
+(7) [del]$\Xi(m,n) = \frac{[x_m \tan \iota_m - y_m] - [x_n \tan \iota_n - y_n]}{\tan \iota_m - \tan \iota_n}$[/del]
+
+The geometrical interpretation of this is that the lines of any two stretches, being continued straight, will meet in the vertical of the centre of gravity of the included weights.
+
+Putting $n = H$, we get
+
+(8) $\tan \iota = \frac{y'}{x - \xi_H}$
+
+(9) $Q = \omega_H \frac{\xi_H}{y'_0} = \omega'_N \frac{x_N - \xi(N,H)}{y'_N}$.
+
+When in (7)
+(10) $y_m = y_{n+1}$ $\frac{x_m - \xi(m,n)}{x_{n+1} - \xi(m,n)} = \frac{\tan \iota_n}{\tan \iota_m}$
+
+That is, the tangents of the inclinations of the stretches [ins]just[/ins] above two [del]weighted[/del] points on the same level are inversely as the distances of these points from the vertical of the centre of gravity of the weight between those stretches.
+
+Let $\Xi'$ be the [ins][del]downward[/del] horizontal value of $x'$ for[/ins] [del]distance from H toward N[/del] of the centre of gravity of the pressures on the two towers. Then the two expressions for $Q$ in (9) give
+
+(11) $Q = \frac{\omega'_N [\Xi' - \xi'(A,\Omega)]}{y_N}$
+
+This is obtained thus: first $y'_0 Q = \omega_H \xi_H$ and $y'_N Q = \omega'_N [x_N - \xi(N,H)]$. Now subtract the former from the latter and we have $y_N Q = \omega'_N [x_N - \xi(N,H)] - \omega_H \xi_H$ But [del]since[/del] [del]$\omega_H \xi_H = $ the vertical component of the tension is equal by (4) to $Q \tan \iota$ which[/del]

@@ -1,0 +1,32 @@
+[pn]13[/pn]
+
+Theorem V. Of any two different cardinal numbers, one is greater than the other.
+
+Proof. For suppose N to be a cardinal number having this character, that it is either
+greater or less than every other. Then the cardinal number that is G to N is, by the first two
+conditions of the definition, greater than N and than every number less than N. And
+by Cor. 1 from Theorem III, and the 2[ins]nd[/ins] general Corollary, the number G to N is less than every number
+except itself that is greater than N. Hence the character belongs to GN if to N. But by Theorem II
+it belongs to Zero. Hence by the Fermatian Principle, it belongs to every number.
+
+Corollary. If the cardinal number, GL, that is G to L be greater than the cardinal number, GM,
+that is G to M, by Th. IV. it cannot be less. Hence by Cor. 2 from Th. III, L cannot be less than M. But by the
+1[ins]st[/ins] Cor. from Th. IV, GL is not GM, and therefore L is not M. Hence L is greater than M if GL is greater than GM.
+
+[pn]23[/pn] Theorem VI. (Modified Fermatian Principle.) If a character, [char]alpha[/char], be such that,
+taking any two cardinal numbers, A and Z, either [char]alpha[/char] does not belong to both A and Z,
+or no cardinal number is greater than A and less than Z, or [del]there is[/del] [ins]some[/ins] cardinal number
+greater than A and less than Z has the character, [char]alpha[/char], then, [char]alpha[/char] is also such that,
+taking any two cardinal numbers, B and Y, either [char]alpha[/char] does not belong both to B and Y,
+or no cardinal number is greater than B and less than Y, or every cardinal number
+greater than B and less than Y has the character, [char]alpha[/char].
+
+Proof. For were there an exception, there would be, at least, one cardinal number of
+a class we may call the [u]n[/u]s fulfilling the conditions that every [u]n[/u] is greater than B and
+less than Y, and no number at once greater than an [u]n[/u] and less than an [u]n[/u] possesses [char]alpha[/char].
+Then, by Cor. 4 of Th. III, every [u]n[/u] [ins]and also every number greater than every [u]n[/u],[/ins] would be G to some cardinal number; and by Cor. 5 from
+the General Precepts there would be some [u]n[/u] G to a cardinal number not an [u]n[/u], which
+we may call M, and there would be some number greater than every [u]n[/u] which would be G to
+some [u]n[/u] which we may call N. But then GN and M would possess [char]alpha[/char], and if any [u]n[/u]s existed
+they would be greater than M and less than GN, and yet there would be no cardinal number
+greater than M and less than GN having [char]alpha[/char]. Hence, it is absurd to suppose any exception.

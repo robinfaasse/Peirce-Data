@@ -1,0 +1,14 @@
+$\varphi$ $\theta$ [fig]figure[/fig]
+$\ominus$ $45^\circ$ [fig]figure[/fig]
+[fig]figure[/fig]
+$dr = \tan \theta . r. d \phi$
+[del]or suppose[/del] Suppose $\theta = \frac{\pi}{4} - (\phi - \phi_0)^2$
+$\phi = \phi_0 + \sqrt{\frac{\pi}{4} - \theta}$
+$\sqrt{1 - (\frac{x}{a})^2}$ Real only when $-a < x < +a$
+$\frac{1}{\sqrt{1 - (\frac{x}{a})^2}} - \frac{x^2}{a^2 \sqrt{1 - (\frac{x}{a^2})}} = \sqrt{1 - (\frac{x}{a})^2}$
+[del]$\int \frac{dx}{\sqrt{1 - x^2}}$[/del] $\int \begin{array}{l} a = 1 \\ b = -1 \end{array}$
+$\int \sqrt{1 - x^2} dx = \int \frac{dx}{\sqrt{1 - x^2}} - \int \frac{x^2 dx}{\sqrt{1 - x^2}}$
+$= \frac{1}{2} \int \frac{dx}{\sqrt{1 - x^2}} + x \sqrt{1 - x^2}$ $(1 - x^2)^{\frac{1}{2}} + \frac{1}{2} x (1 - x^2)^{-\frac{1}{2}}$
+$\frac{1}{2 \sqrt{1 - x^2}} + \sqrt{1 - x^2} = [del]\frac{1}{2} x^2[/del]$ $x(1 - x^2)^{\frac{1}{2}}$
+$(1 - x^2)^{-\frac{1}{2}} [del]\frac{1}{2} + \frac{x^2}{\sqrt{1 - x^2}}[/del]$
+$(1 - x^2)^{\frac{1}{2}} [del]\frac{x^2}{\sqrt{1 - x^2}}[/del]$

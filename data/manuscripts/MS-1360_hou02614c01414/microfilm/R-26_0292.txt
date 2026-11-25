@@ -1,0 +1,24 @@
+Report on Morrison's Bridge
+
+[pn]12.[/pn]
+
+Let [u]$x'$[/u] and [u]$y'$[/u] define the position [ins]under the fixed load[/ins] of the head of that imaginary suspender whose foot is defined by [u]$p$[/u]. Let [u]$x$[/u] and [u]$y$[/u] define the position of the same particle under the moving load. Let $\xi$ and $\eta$ be the displacements under the moving load of the section of the truss defined by [u]$p$[/u], $\xi$ to the right and $\eta$ vertically down. Let a subjacent $0$ attached to a [del]variable[/del] [ins]variable[/ins] give it its value for [u]$p=0$[/u]. Let a subjacent $k$ give it its value for the [del]middle value of $p$[/del] [ins]for the part which under the fixed load is[/ins] at the midspan section.
+
+It is evident that under the fixed load the form of the cable is a parabola with its vertex at its lowest point, its equation being
+$$\frac{y'}{y'_k} = \frac{x'}{x'_k} (2 - \frac{x'}{x'_k}).$$
+
+Hence,
+$$\frac{dy'}{dx'} = 2 \frac{y'_k}{x'_k} (1 - \frac{x'}{x'_k}) = 2 (\frac{y'}{x'} - \frac{y'_k}{x'_k}).$$
+
+and
+$$\frac{dy'_0}{dx'_0} = 2 \frac{y'_k}{x'_k}$$
+
+[del]Let
+$\xi_0, \eta_0, \Psi$ be the values[/del]
+
+Let $X$ and $Y$ be the coordinates of one of the fixed pulleys of the cable. Then
+$$(\frac{X}{x'_k} - 1)^2 = (\frac{1}{2} \frac{Y}{y'_k} - 1)^2$$
+
+or
+[del]$X = x'_k \pm \frac{x'_k}{2} \sqrt{1 - \frac{Y}{y'_k}}$[/del]
+$$X = x'_k [1 \pm (1 - \frac{1}{2} \frac{Y}{y'_k})]$$

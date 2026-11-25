@@ -1,0 +1,53 @@
+[fig]Geometric diagram with lines and curves[/fig]
+
+$U(r+s)$
+
+$U_r + U_s$
+
+$q_s(r+s) = Tq.T(r+s) + \left\{ (Uq)^n (U(r+s))^n \right\} \int$
+
+[fig]Triangle[/fig]
+
+$\begin{array}{c|c}
+q_0 r + s & q_1 r + q_1 s \\
+\hline
+q_0 s + q_0 s & q_1 s + q_1 s
+\end{array}$
+
+$qs(q+r)$
+
+[fig]Geometric diagram of a tetrahedron[/fig]
+
+[fig]Geometric diagram of a tetrahedron[/fig]
+
+[fig]Geometric diagram of a tetrahedron[/fig]
+
+$\frac{2t_1}{t^2}$
+
+$\frac{[del]t^3[/del] - t^3 + 2t^2 t_1 - t t_1^2 + t}{t^3 [del]+ t t_1^2[/del]}$
+
+[fig]Geometric diagram of a polyhedron[/fig]
+
+$= [del]x[/del] - t \frac{(t-t_1)^2}{t^2+t_1^2}$
+
+---
+
+$\rho = t \alpha + \frac{1}{t} \beta$
+
+$\rho = (t-t_1)\alpha + (\frac{1}{t} - \frac{1}{t_1})\beta$
+
+$\rho = (t-t_1)\alpha - \frac{t-t_1}{t t_1} \beta$
+
+$\rho = t + x(t-t_1)\alpha + \frac{1}{t} - x \frac{t-t_1}{t t_1} \beta$
+
+$\rho - (t+x)\alpha + \frac{t-x}{t^2} \beta$
+
+$\rho - (t_1+y)\alpha + \frac{t_1-y}{t_1^2} \beta$
+
+$t+x = t_1+y$
+
+$\frac{t-x}{t^2} = \frac{t_1-y}{t_1^2}$
+
+$\frac{3}{t+t^2} x [del]+[/del] t_1^2 t + t_1^2 x = 2t_1^2 t$
+
+$\alpha = \frac{2t_1^2 t^2 - t_1^2 t^2 - t^3}{t^2+t_1^2} = -t + \frac{2t t_1}{t^2+t_1^2} t$

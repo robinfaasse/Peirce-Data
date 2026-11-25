@@ -1,0 +1,23 @@
+become
+[u](x-f)(t-y)(t-z) = 0[/u]
+[u](x-f)(y-f)(t-z) = 0[/u].
+Adding these we have
+[u](x-f)(t-f)(t-z) = 0[/u].
+Striking out the finite factor t-f, we
+have
+[u](x-f)(t-z) = 0[/u],
+which is the syllogistic conclusion, if [u]x[/u]
+is true, [u]z[/u] is true.
+In this system, the expression
+
+f + [frac](x-f)(y-f)(z-f)[/frac]/[frac](v-f)^2[/frac]
+
+will signify that proposition which is true
+if [u]x[/u], [u]y[/u], and [u]z[/u] are all true, but is false
+if any of them are false; while the
+expression
+
+[del]t +[/del] [ins]t +[/ins] [frac]([del]t-x[/del][ins]x-t[/ins])([del]t-y[/del][ins]y-t[/ins])([del]t-z[/del][ins]z-t[/ins])[/frac]/[frac]([del]t-f[/del][ins]t-f[/ins])^2[/frac]
+
+will signify [del]that[/del] [ins]that is true[/ins] proposition, if any of the propo-
+sitions [u]x[/u], [u]y[/u], [u]z[/u] is true, but is false if all are false.

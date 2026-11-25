@@ -1,0 +1,27 @@
+On Existential Graphs
+By C. S. Peirce.
+
+A graph is a diagram composed of spots of different colors, or qualities, of connecting lines, and of ovals, or enclosures. A [ins]system of[/ins] [del]valental[/del] graphs is a [del]graph[/del] [ins]one[/ins] in which [del]each[/del] [ins]every[/ins] spot [ins]of any given quality must[/ins], by its intrinsic nature, [del]must[/del] have a fixed number of connecting lines
+
+lot ~ new spoons + old silver + B
+B ~ new silver + non silver spoons + C
+
+Lot
+[del]L ~ n f + n s[/del]
+A ~ n f + [u]n[/u] s + B
+B · ([u]n[/u] + [u]f[/u]) · (n + [u]s[/u]) ~ n s + [u]s[/u] [u]f[/u] + C
+A · n [u]f[/u] ~ ([u]n[/u] + [u]s[/u]) · (s + [u]f[/u]) · C
+
+A ~ [u]n[/u] + f + 
+[u]B = A · n f · [u]n[/u] s[/u]
+C = B · [u]n[/u] s · [u]f[/u] [u]s[/u]
+[u]C = A · n [u]f[/u][/u]
+
+| B ~ A · ([u]n[/u] + [u]f[/u]) · (n + [u]s[/u])
+| B ~ C + n s + f s
+| [del]A[/del]
+| A · ([u]n[/u] + [u]f[/u]) · (n + [u]s[/u]) ~ B
+| C + n s
+
+A ~ n f s + [del]n f [u]s[/u][/del] + n [u]f[/u] s + n [u]f[/u] [u]s[/u] + [u]n[/u] f s + [del][u]n[/u] f [u]s[/u][/del] + [del][u]n[/u] [u]f[/u] s[/del] + [u]n[/u] [u]f[/u] [u]s[/u]
+[fig]oval[/fig] [ins]none[/ins] [fig]oval[/fig] [fig]oval[/fig] [ins]none of the first class[/ins] [fig]oval[/fig] [ins]none[/ins]

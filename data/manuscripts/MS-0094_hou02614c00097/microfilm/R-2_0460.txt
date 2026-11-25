@@ -1,0 +1,43 @@
+[pn]104[/pn] SOLID GEOMETRY. [CH. XV. § 338.
+
+Lines comprehended between three Parallel Planes.
+
+Now, since $AC$ is in the plane $PQ$ parallel to $MN$, all
+its points must, by § 328, be equally distant from $MN$,
+and it is therefore parallel to $MN$.
+
+336. Theorem. _Two straight lines, comprehended
+between three parallel planes, are divided into parts that
+are proportional to each other._
+
+_Proof._ Let the line $AC$ (fig. 157) meet the three paral-
+el planes $MN$, $PQ$, $RS$ at the points $A$, $B$, $C$; and let
+the line $DF$ meet the same planes at $D$, $E$, $F$.
+
+Join $AF$ cutting the plane $PQ$ at $H$; join $AD$, $BH$,
+$HE$, $CF$. The intersections $BH$ and $CF$ of the parallel
+planes $PQ$ and $RS$ with the plane $ACF$, are parallel, and
+give, by § 160, the proportion
+$$AB : BC = AH : HF.$$
+
+In like manner, the intersections $HE$ and $AD$ of the
+parallel planes $PQ$ and $MN$ with the plane $FAD$ are
+parallel, and give the proportion
+$$AH : HF = DE : EF.$$
+
+Hence, on account of the common ratio $AH : HF$,
+$$AB : BC = DE : EF.$$
+that is, the lines $AB$ and $DF$ are divided proportionally at
+$B$ and $E$.
+
+337. Definitions. When three or a greater number
+of planes meet at a point, a solid angle is formed; as
+$S$ fig. 158) formed by the planes $ASB$, $BSC$, $CSD$,
+$DSA$.
+
+The point of meeting, $S$, of the planes, is called the
+_vertex_ of the angle.
+
+338. Theorem. _If a solid angle is formed by three
+plane angles, the sum of either two of these angles is
+greater than the third._

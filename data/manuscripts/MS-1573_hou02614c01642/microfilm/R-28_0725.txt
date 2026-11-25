@@ -1,0 +1,106 @@
+```
+[marginalia]
+Ireland 0.6
+Sweden - 0.5
+[/marginalia]
+
+1.0 U.S.
+1.2 Eng & Wales
+1.1 Scotland
+1.5 Denmark
+1.1 Norway
+1.8 Belgium
+1.7 France
+[u]1.4[/u]
+
+Austria + 4.6
+Hungary + 5.4
+Germany + 5.9
+Netherlands + 3.4
+[del]Belg[/del]
+Italy + 4.3
+Switzerland + 3.2
+
+6) [u]23.2[/u]
+   3.9
+
+29226
+[u]25042[/u]
+04184
+[u]418[/u]
+03766
+[u]36234[/u]
+04184
+
+12) [u]29288[/u]
+    [u]244[/u]
+    29226
+    [u]244[/u]
+    28982
+
+[marginalia]
+19.5
+[/marginalia]
+
+U.S. 19.6 17.8 — 90.7 6
+Eng 19.5 18.3 — 93.8 5
+Scot 19.7 18.6 — 94.4 7
+Ire 18.2 17.6 — 96.7 3
+Den 19.0 17.5 — 92.1 4
+Nor 17.9 16.8 — 93.9 2
+Swed 17.1 17.6 — 102.9 1
+Aus 29.4 25.4 — 86.4 14
+Hung 32.4 27.0 — 83.3 15
+Ger 24.4 21.5 — 88.1 12
+Net 20.5 17.1 — 83.4 8
+Belg 20.6 18.8 — 91.3 9
+Fr 22.8 21.1 — 92.5 11
+It 26.4 22.1 — 83.7 13
+Switz 20.8 17.6 — 84.6 10
+[del]Imp[/del]
+
+[fig]Scatter plot with a line of best fit[/fig]
+
+[fig]Line graph showing fluctuations[/fig]
+
+[fig]Coordinate axes with a curve[/fig]
+
+[marginalia]
+9) [u]116212614567[/u]
+9) [u]1291251063[/u]
+9) [u]14347229[/u]
+9) [u]159413[/u]
+9) [u]17712[/u]
+9) [u]1968[/u]
+9) [u]218[/u]
+9) [u]24[/u]3
+9) [u]27[/u]
+   3
+[/marginalia]
+
+[fig]Small curve[/fig]
+[del]D_r = 2\sigma v[/del]
+
+[fig]Parabola y=x^2[/fig]
+
+[fig]Parabola opening upwards[/fig]
+
+(log [frac]r[/frac] - P)^2 = Q - R log r
+(x - y - P)^2 = Q - RX
+
+log r = log A - Bt - Ct^2
+log r' = log A - [ins]+18C[/ins] (B + 18C)t - Ct^2
+log r - log r' = 9B + 18Ct
+
+18Ct = -9B \pm \sqrt{81B^2 - C log r}
+
+log r - log r' = 9B + 81C
+(log r - log r' - 9B - 81C)^2 = C log A + B^2 - C log r
+
+[frac]log A[/frac] - [frac]log r[/frac] = t^2 + [frac]B[/frac] t
+t + [frac]B[/frac] = \sqrt{[frac]log A[/frac] - [frac]log r[/frac] + [frac]B^2[/frac]}
+
+(log r - log r' - P)^2 = Q + R log r
+(log r) (log [frac]r[/frac] - P)^2 = Q - R log r
+(y - P)^2 = Q - Rx
+```

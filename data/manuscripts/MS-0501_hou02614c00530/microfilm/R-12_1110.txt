@@ -1,0 +1,30 @@
+[pn]8[/pn]
+
+"Not (Not [del]b[/del] [ins]a[/ins] but c) but x", where x is a sign entirely vague,
+will mean the same as "If y, then (if [del]b[/del] [ins]a[/ins] then c)" where y is
+a sign entirely general.
+
+[u]If (Not a, but but b) then c[/u]
+[del]a[/del] [ins]a[/ins] · b
+a + b + c
+
+[u]If a then Not b, but c[/u]
+a + b · c
+
+[u]Not (if a then b) but c[/u]
+a b c
+
+[u]Not a but if b then c[/u]
+a (b + c)
+
+[u]If a then (if b then c)[/u]
+[del]a + b + c[/del]
+
+[u]If (if a then b) then c[/u]
+a b + c
+
+[u]Not (Not a but b) but c[/u]
+(a + b) · c
+
+[u]Not a but Not b but c[/u]
+a · b c

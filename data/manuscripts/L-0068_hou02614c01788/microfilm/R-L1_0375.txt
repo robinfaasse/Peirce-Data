@@ -1,0 +1,18 @@
+Mr. Pealvi
+
+1896. April 12.
+
+Dear Sir:
+
+The solution of the problem to make your guides [del]of the best shape[/del] [ins]point carried by the[/ins] is as follows: Let [u]x[/u] measure the position of the [del]engine[/del] along the track, [u]\theta[/u] the angle by which the piece carrying the guides is turned from its mean position.
+
+Then at the moment the piece is struck, as well as at the moment it reaches its final position, the velocity of turning, as well as the acceleration, ought to vanish, in order that the action may be as smooth and gentle as possible. This will be simplest attained by putting
+$$\frac{d\theta}{dx} = P (x-a)^2 (b-x)^2$$
+where [u]a[/u] is the distance of the rod extending down from the engine past the [del]turning[/del] axis of the turning piece at the moment of striking, while [u]b[/u] is the same distance when [ins]the turning piece[/ins] reaches its final position.
+
+Then
+$$\theta = \frac{P}{60} \left( 12 x^5 - 30(a+b)x^4 + 20(a^2+4ab+b^2)x^3 - 60ab(a+b)x^2 + [del]a^2b^2[/del] [ins]60a^2b^2[/ins]x - [del]5a^4b^5[/del] + 5ab(a^3+b^3) - 10a^2b^2(a+b) \right)$$
+
+If [u]c[/u] is the distance of the striking-point on the engine from the middle line between the tracks, and r is the distance of the point of the guide struck from the axis $r = \sqrt{c^2+x^2}$.
+
+Assuming several values of [u]x[/u], it is necessary to calculate the corresponding values of [u]r \sin \theta[/u] and [u]r \cos \theta[/u], to get the rectangular coordinates. If you will give me values you think suitable for [u]a[/u], [u]b[/u], [u]c[/u], and the whole angle of movement, I will calculate and draw the curves.

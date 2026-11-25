@@ -1,0 +1,16 @@
+So, an extremity bent round to touch an ordinary point makes a fork; for $-1 + 0 + 2 = +1$. A fork and an extremity coalescing by the shrinking of intermediate parts to nothing make an ordinary point; for $+1 + 1 = 0$.
+
+The chorisis of a place is the number of its detached parts. The cyclosis of a line is the number of times it can be cut without increase of the chorisis. The cyclosis of a line diminished by its chorisis is half its [ins]topical[/ins] singularity. Thus, in the figure, the cyclosis is 3, the chorisis 2, the number of forks 6, and the number of extremities 4. Now, $(3-2) \times 2 = 6-4$.
+
+[fig]A topological diagram of intersecting loops and lines with a fork labeled Y.[/fig]
+
+[u]Art. 3.[/u] [del]The symbol for the order of four points.[/del] We consider a topically nonsingular line of one piece. Its chorisis being 1 and its total singularity 0, its cyclosis must be 1. That is the line must return into itself.
+
+On such a line, the symbol $l_{ABCD}$ is to have the signification defined in Art. 1. The letters $A, B, C, D$, can be [del]taken[/del] [ins]written[/ins] indifferently in any one of 8 orders; for we can begin at any point and perform the circuit in either of two opposite senses. Since four letters have 24 arrangements, there are $\frac{24}{8} = 3$ different cases.
+
+$\Pi_A \Pi_B \Pi_C \Pi_D \quad l_{ABCD} + l_{ABDC} + l_{ADBC}$.
+
+We also have the quasi-syllogistic formula
+$\Pi_A \Pi_B \Pi_C \Pi_D \Pi_E \quad l_{ABCD} \prec (l_{BCDE} \prec l_{ABCE})$.
+
+That is, the syllogism holds

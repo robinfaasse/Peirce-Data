@@ -1,0 +1,35 @@
+[pn]Symbolical
+Logic
+13[/pn]
+
+by Rule II (amended), if we have written [u][A(B)] C[/u], we
+can write [u][A(BC)] C[/u]
+
+[u][A(B)] C[/u]
+[u][A(B)(BC)] C[/u]
+
+[fig]Tree diagram with nodes BC and B[/fig]
+
+[fig]Abstract line drawing[/fig]
+
+[u]y ~ = x - D_x y[/u]
+[u]y ~ = \sqrt[3]{x - D_x y}[/u]
+
+D_x y = x - y
+D_x^2 y = 1 - 3/2 y^{-1/2} D_x y
+
+D_x^2 y = 1 - 3 \sqrt{x - D_x y} D_x y
+D_x y = 1 - 3 \sqrt{x - y} y
+
+D_x (x - y) = 1 - D_x y - 3 \sqrt{x - y}
+z = x - y
+
+D_x (x - y) = 1 - D_x y
+[del]D_x[/del]
+D_z y = z^{-1/3} y - 1
+D_z (y - z) = z^{-1/3} y - z^{-1/3} z + z^{2/3}
+D_z w = z^{1/3} w - z^{2/3}
+
+D_x^2 y = - 1/3 z^{-4/3} D_x y + z^{-1/3}
+
+[fig]Diagram with variables x, y, z and arrows[/fig]

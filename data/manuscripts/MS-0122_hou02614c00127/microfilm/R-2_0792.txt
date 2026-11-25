@@ -1,0 +1,24 @@
+The manifoldness of displacements is evidently
+$\infty^3$ because there are 3 independent constants in the
+equation. There are $\infty^2$ positions of the unmoved [ins]But considering imaginaries, all the exponents
+must be doubled[/ins]
+points and $\infty$ displacements for each. [ins]All the dis-[/ins]
+placements [del]having[/del] [ins]iterations[/ins] [del]any[/del] one position of the unmoved
+points are [del]repetitions[/del] of one infinitesimal displacement,
+and may collectively be called [del]a path[/del] [ins]an area[/ins] of displacement.
+
+Let the equation of a displacement be written
+$$xx' - \frac{1}{2}(\alpha+\beta+\tau)x - \frac{1}{2}(\alpha+\beta-\tau)x' + \alpha\beta = 0$$
+or, writing $Fx$ for $x'$,
+$$Fx = \frac{\frac{1}{2}(\alpha+\beta+\tau)x - \alpha\beta}{x - \frac{1}{2}(\alpha+\beta-\tau)}.$$
+
+This gives the equation of finite differences
+$$F^{n-1}\cdot F^n - \frac{1}{2}(\alpha+\beta+\tau)F^{n-1} - \frac{1}{2}(\alpha+\beta-\tau)F^n + \alpha\beta = 0,$$
+the general solution of which (that in Boole's Finite Differences
+is wrong) is ($\alpha$ and $\beta$ being unequal)
+$$F^n = \frac{C_1 \alpha (\tau+\alpha-\beta)^n + C_2 \beta (\tau-\alpha+\beta)^n}{C_1 (\tau+\alpha-\beta)^n + C_2 (\tau-\alpha+\beta)^n}.$$
+
+To determine the ratio of the arbitrary constants, we have
+$$F^0 x = x = \frac{C_1 \alpha + C_2 \beta}{C_1 + C_2}$$
+and so finally
+$$F^n = \frac{\alpha(x-\beta)(\tau+\alpha-\beta)^n + \beta(\alpha-x)(\tau-\alpha+\beta)^n}{(x-\beta)(\tau+\alpha-\beta)^n + (\alpha-x)(\tau-\alpha+\beta)^n}.$$

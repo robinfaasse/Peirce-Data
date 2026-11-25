@@ -1,0 +1,53 @@
+ἑλκέσῐ | πέπλους | καὶ | βᾰθῠ | κόλπους | κἀκεῖ | νᾱς | ὥς | ἔοικε
+
+[del]Equation[/del]
+[del]of orbit[/del]
+
+[u]f[/u] = h u² (u + D²_θ u)     u = r⁻¹
+
+= h u³ (1 + [u]D²_θ u[/u]/u)     -r⁻²
+
+= h/r³ (1 + r D²_θ 1/r) = h/r³ (1 + r D_θ r D_θ r⁻¹) = h/r³ (1 - D²_θ r/r)
+
+= h/r³ [1 + r D_θ ([del]D_θ[/del] D_θ D_r D_θ log r)]
+
+D_r log r = 1/r     D_log r r = r
+D²_r log r = -1/r²
+
+[u]P_θ log r = log r[/u]
+r = e^ρ
+1/r = e^-ρ
+
+= [del]h/e^3ρ[/del] h/e^3ρ [1 + e^ρ D²_θ e^-ρ]
+
+D_r z = D_r ρ D_ρ z
+= D_ρ z/D_ρ r
+
+D_r ρ = 1/r = e^-ρ
+D_ρ r = e^ρ
+
+D_r z = D_ρ z/e^ρ = e^-ρ D_ρ z
+
+[del]D²_r z = e^-ρ D_ρ (e^-ρ D_ρ z)[/del]
+
+D²_r z = D_r (D_r z) = [del]D_r (e^-ρ D_ρ z)[/del]
+= e^-ρ D_ρ (D_r z)
+= e^-ρ D_ρ (e^-ρ D_ρ z)
+= e^-2ρ (D²_ρ z - D_ρ z)
+
+D_x e^x = e^x
+D_u e^x = e^x
+1/D_x e^x = 1/e^x
+1/D_e^x x = D_x e^x
+
+[del]D²_θ u =[/del]
+[del]D²_θ u = 1/2 D_u ([/del]
+D²_θ u = 1/2 D_u D_θ
+
+v = log u
+D²_θ u/u = D²_θ e^v/e^v
+= D_θ D_θ e^v/e^v = D_θ (D_θ v . e^v)/e^v
+= D_θ (D_θ v . e^v)/e^v = D²_θ v . e^v + D_θ v . e^v/e^v
+= (D²_θ v + D_θ v) e^v/e^v
+= [1/2 D_v (D_θ v)² + D_θ v] e^v/e^v
+= - 1/2 -

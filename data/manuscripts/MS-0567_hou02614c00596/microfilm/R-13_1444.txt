@@ -1,0 +1,26 @@
+in one factor, and $\kappa$ with $y$, $i$ with $c$, $j$ with [del]$b$[/del] [ins]$b$[/ins]
+in the other, we have
+
+$\Pi_{\alpha} \Sigma_{\gamma} \Sigma_{a} \Pi_{b} \Sigma_{c}$
+$u_{a} (\overline{W}_{b} + \overline{r}_{ab} + r_{cb} \overline{I}_{ac}) \{ \overline{r}_{ab} (\overline{r}_{ab} + \overline{u}_{a}) + r_{ab} \overline{r}_{ab} u_{a} \}$
+$\{ \overline{r}_{cb} (\overline{r}_{cb} + \overline{u}_{c}) + r_{cb} \overline{r}_{cb} u_{c} \}$
+
+This gives
+$\Pi_{\alpha} \Sigma_{a} \Pi_{b} \Sigma_{c} \ u_{a} (\overline{W}_{b} + \overline{r}_{ab} + r_{cb} u_{c} \overline{I}_{ac})$.
+
+[del]The simplest omits[/del]
+We have universally
+$\Sigma_{\delta} \Pi_{m} \Pi_{n} \ (\overline{r}_{mn} I_{mn} + \overline{r}_{mn} \overline{I}_{mn})$.
+
+Multiplying this twice into the last propo-
+sition, identifying $\alpha$ with $\delta$, and $n$ with $b$,
+in both factors, $m$ with $a$ in one and with
+$c$ in the other, we have
+[del]$\Pi_{\alpha}$[/del] $\Sigma_{a} \Pi_{b} \Sigma_{c} \ u_{a} (\overline{W}_{b} + \overline{I}_{ab} + \overline{I}_{cb} u_{c} \overline{I}_{ac})$
+
+or since
+$I_{cb} \overline{I}_{ac} \prec \overline{I}_{ab}$
+
+$\Sigma_{a} \Pi_{b} \ u_{a} (\overline{W}_{b} + \overline{I}_{ab})$
+and identifying $b$ with $a$
+$\Sigma_{a} u_{a} \overline{W}_{a}$

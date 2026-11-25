@@ -1,0 +1,21 @@
+[pn]Series
+11[/pn]
+
+[fig]drawing of a pointing hand[/fig]
+
+[pn]1st[/pn], [u]$\frac{\text{M}+\text{P}}{\text{N}+\text{Q}}$ is intermediate between $\frac{\text{M}}{\text{N}}$ and $\frac{\text{P}}{\text{Q}}$[/u];
+[pn]2nd[/pn], $\frac{1}{1} = 1$;
+[pn]3rd[/pn], $\frac{x}{z} + \frac{y}{z} = \frac{x+y}{z}$;
+[pn]4th[/pn], $\frac{u}{v} \cdot \frac{x}{y} = \frac{ux}{vy}$.
+
+Of course, it had to be proved that the last clause was consistent with the arithmetic of integers. From the first clause it followed that [del]$\frac{\text{M}+\text{M}}{\text{N}+\text{N}}$[/del] equals $\frac{\text{M}}{\text{N}}$ and hence $\frac{x\text{M}}{x\text{N}}$, so that $\frac{\text{M}}{\text{N}} + \frac{\text{P}}{\text{Q}} = \frac{\text{MQ}+\text{NP}}{\text{NQ}}$.
+
+Another way of defining the relations of fractions would be as follows: First write
+
+$\frac{0}{1} < \frac{1}{1} < \frac{2}{1} < \frac{3}{1} < \text{etc}$
+
+Now insert the fractions of denominator 2; then those of denominator 3; and generally those of any denominator [ins]only[/ins] after having inserted all those of lower denominator (in the same limits of value). In thus inserting the fractions of any denominator, N, follow this rule:
+
+1st. Do not insert any fraction until all fractions of the same denominator and [del]lower[/del] [ins]lower[/ins] numerators have been inserted.
+
+2nd. Begin at the extreme left of the row and make the insertions in every (N-1)th space between a sign and a fraction.

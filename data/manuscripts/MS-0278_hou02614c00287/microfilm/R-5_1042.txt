@@ -1,0 +1,16 @@
+[pn]12[/pn]
+
+Put
+[u]$M_1$ $M_2$ masses of two pendulums[/u]
+[u]$h_1$ $h_2$ distances of centres of mass from [ins]knife edges[/ins][/u]
+[u]$l_1$ $l_2$ equivalent simple pendulums[/u]
+
+[u]Living force[/u]
+$\frac{1}{2} (\frac{d\phi_1}{dt})^2 M_1 h_1 l_1 + \frac{ds}{dt} \cdot \frac{d\phi_1}{dt} M_1 h_1 \cos \phi_1 + \frac{1}{2} (\frac{ds}{dt})^2 M_1$
+$+ \frac{1}{2} (\frac{d\phi_2}{dt})^2 M_2 h_2 l_2 + \frac{ds}{dt} \cdot \frac{d\phi_2}{dt} M_2 h_2 \cos \phi_2 + \frac{1}{2} (\frac{ds}{dt})^2 M_2$
+
+[u]Potential energy[/u]
+$- g M_1 h_1 \cos \phi_1 - g M_2 h_2 \cos \phi_2 + [del]\mathcal{E}[/del] [ins]E[/ins] s^2$
+
+[u]Lagranges equations are[/u]
+$M_1 h_1 l_1 \frac{d^2\phi_1}{dt^2} + M_1 h_1 \cos \phi_1 \frac{d^2s}{dt^2} - M_1 h_1 \sin \phi_1 \frac{ds}{dt} \frac{d\phi_1}{dt} = - g M_1$

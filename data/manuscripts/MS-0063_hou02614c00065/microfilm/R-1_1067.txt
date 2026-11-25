@@ -1,0 +1,7 @@
+[marginalia]Ms. 63[/marginalia]
+
+To illustrate the use of the secundal notation in finding factors, I give a computation that I had to perform (although its result is probably recorded), to find the factors of $2^{35}-1 = 34\ 359\ 738\ 367$, or, secundally, $11111111111111111111111111111111111$. This is obviously divisible by $11111$ and $1111111$, and my first step was to find the greatest common divisor of the two quotients resulting from those two divisions, with that first work [del]cut[/del] [ins]short[/ins]
+
+[fig]Secundal division calculation column 1[/fig] [fig]Secundal division calculation column 2[/fig]
+
+Now the main work begins; that is, to find the factors of this common divisor, if it has any

@@ -1,0 +1,37 @@
+[pn]56[/pn] PLANE GEOMETRY. [CH. XI. § 194.
+
+[u]Similar Polygons composed of similar Triangles.[/u]
+
+But $AB = 2 \cdot BD = EF$,
+and $AE = AC$;
+hence $AF - AB = AF - EF = AE = AC$,
+and $AB - AE = AB - AC = BC$;
+and the preceding proportion becomes
+$AB : AC = AC : BC$.
+
+193. *Theorem.* If two polygons $ABCD$, &c.,
+$A'B'C'D'$, &c. (fig. 108) are composed of the same
+number of triangles $ABC$, $ACD$, &c., $A'B'C'$, $A'C'D'$,
+&c. which are similar each to each and similarly dis-
+posed, the polygons are similar.
+
+*Proof.* Since the triangles $ABC$, &c. are similar to
+$A'B'C'$, &c., their angles must be equal each to each.
+Hence the angle $A$ of the first polygon, which is the sum
+of the angles $BAC$, $CAD$, &c. is equal to the angle $A'$ of
+the second polygon, which is the sum of $B'A'C'$, $C'A'D'$,
+&c. Also $B = B'$,
+$C = BCA + ACD = B'C'A' + A'C'D' = C'$, &c.;
+the polygons are therefore equiangular with respect to
+each other.
+
+Their homologous sides are, moreover, proportional,
+for the similar triangles give
+$AB : A'B' = BC : B'C'$,
+and $BC : B'C' = AC : A'C'$
+$= CD : C'D'$, &c.
+Hence, by § 170, the polygons are similar.
+
+194. *Problem.* To construct a polygon similar to a
+given polygon $ABCD$, &c. (fig. 108) upon a given line
+$A'B'$, homologous to the side $AB$.

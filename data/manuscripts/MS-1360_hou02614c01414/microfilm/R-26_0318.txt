@@ -1,0 +1,24 @@
+The condition of equilibrium is
+
+[del]\(= \sum_{i=0}^{n} \left\{ \mathcal{E}_i \left( \frac{1}{l_i} - \frac{1}{\sqrt{(\Delta x_i)^2 + (\Delta y_i)^2}} \right) [\Delta x_i (dx_{i+1} - dx_i) + \Delta y_i (dy_{i+1} - dy_i)] - P_i dy_i \right\}\)[/del]
+
+That is, there are [u]n[/u] equations of the form
+\(-\mathcal{E}_i \left( \frac{1}{l_i} - \frac{1}{\sqrt{(\Delta x_i)^2 + (\Delta y_i)^2}} \right) \Delta x_i + \mathcal{E}_{i-1} \left( \frac{1}{l_{i-1}} - \frac{1}{\sqrt{(\Delta x_{i-1})^2 + \Delta (y_{i-1})^2}} \right) \Delta x_{i-1} = 0\)
+
+and [u]n[/u] others of the form
+
+\(-\mathcal{E}_i \left( \frac{1}{l_i} - \frac{1}{\sqrt{(\Delta x_i)^2 + (\Delta y_i)^2}} \right) \Delta y_i + \mathcal{E}_{i-1} \left( \frac{1}{l_{i-1}} - \frac{1}{\sqrt{(\Delta x_{i-1})^2 + (\Delta y_{i-1})^2}} \right) \Delta y_{i-1} = P_i\)
+
+The former [ins]set of[/ins] equations gives
+
+\(\mathcal{E}_i \left( \frac{1}{l_i} - \frac{1}{\sqrt{(\Delta x_i)^2 + (\Delta y_i)^2}} \right) = \frac{C}{\Delta x_i}\)
+
+where [u]C[/u] is independent of [u]i[/u]. Substituting in the latter set, this becomes
+
+\(C \frac{\Delta y_i}{\Delta x_i} = [del]B[/del] [ins]\overset{O}{B}[/ins] - \sum_{j=1}^{i} P_j\) ,
+
+where [del]B[/del] [ins]\overset{O}{B}[/ins] is another constant, which [del]by considering[/del] the multipliers of \(dy_1\) is [del]seen[/del] [ins]shown[/ins] to be zero. We have, then, to determine [del]C[/del] the equation
+
+\(C = \mathcal{E}_i \left( \frac{\Delta x_i}{l_i} - \frac{1}{\sqrt{1 + \left( \frac{\sum P_j}{C} \right)^2}} \right)\)
+
+This gives a biquadratic equation for determining C.

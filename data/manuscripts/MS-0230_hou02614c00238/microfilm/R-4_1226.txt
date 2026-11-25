@@ -1,0 +1,42 @@
+```
+[del]{[/del] $l [x^2] + m [xy] + n [xz] [del]}[/del] d l
++ [del]{[/del] $l [xy] + m [y^2] + n [yz] [del]}[/del] d m
++ [del]{[/del] $l [xz] + m [yz] + n [z^2] [del]}[/del] d n = 0
+
+This is to be combined with
+$l^2 + m^2 + n^2 = 1$
+or $l dl + m dm + n dn = 0$
+
+Eliminating $dn$
+$\left\{ l [x^2] + m [xy] + n [xz] - \frac{l}{n} (l [xz] + m [yz] + n [z^2]) \right\} dl$
+$+ \left\{ l [xy] + m [y^2] + n [yz] - \frac{m}{n} (l [xz] + m [yz] + n [z^2]) \right\} dm = 0$
+
+or,
+$\frac{l}{n} [xz] + \frac{m}{n} [yz] + [z^2] = \frac{l}{n} [xz] + \frac{m}{n} [yz] + [z^2]$
+
+$= \frac{l}{n} [xy] + [y^2] + \frac{n}{m} [yz]$
+$= \frac{l}{n} [xz] + \frac{m}{n} [yz] + [z^2]$
+
+$= \frac{l}{m} [x^2] + [xy] + \frac{n}{m} [xz]$
+$= \frac{l}{n} [xz] + \frac{m}{n} [yz] + [z^2]$
+
+[fig]Geometric diagram with intersecting lines[/fig]
+
+$p^2 q + q^2 h + q^2$
+$- p q d - q e + f = 0$
+
+$p^2 q d + p q e + p f$
+$- p q a - q b - c = 0$
+
+[fig]Crossed out symbols[/fig]
+
+$\frac{l}{m} = p \quad \frac{n}{m} = q$
+
+$a + \frac{b}{q} + \frac{c}{p q} \quad \Big| \quad \Theta + q b + a p q$
+
+$= p q d + q e + f + \frac{i}{q} + \frac{j}{p q} = \frac{p^2 q^2 d + p q^2 e + p q f + p i + j}{p q}$
+
+$= p d + e + \frac{f}{l} + \frac{g}{l m} + \frac{h}{l m n}$
+
+$= \frac{p^2 q d + p q e + p f + [del]g[/del] + [del]h[/del]}{[del]p q[/del]}$
+```

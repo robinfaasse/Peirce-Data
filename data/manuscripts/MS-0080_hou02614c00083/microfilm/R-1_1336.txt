@@ -1,0 +1,93 @@
+[pn]80[/pn]
+
+[u]Nilpotent Algebras[/u].
+
+[u]Gen. Principle. No I[/u]. When there is no expression whose square does not vanish the reversal of the order of multiplication merely reverses the sign of the product. For in that case $(xi+yj)^2 = xy(ij+ji) = 0$
+Con. Prin No 2. If every sign vanishes and a product contains only the factors it vanishes.
+
+[u]II Double Algebra[/u]
+[ins]If $ij = ai+bj$
+$0 = i^2j = bij$[/ins]
+
+II [del][2][/del] There is no idempotent
+[del][2] The square vanishes.[/del]
+
+[fig]Grid diagram with dots[/fig]
+
+$i \quad A:B + B:Z + [del]C:Z[/del]$
+$k \quad A:C + C:Z + [del]B:D[/del]$
+
+$k^2 = ai+bj+ck$
+$k^3 = aik+bjk+ck^2$
+
+$k^2 = ai+bj+ck$
+$k^3 = aik+bjk+ck^2$
+[del]etc[/del]
+
+$\begin{aligned}
+ik &= a_{13}i + b_{13}j + c_{13}k \\
+jk &= a_{23}i + b_{23}j + c_{23}k \\
+k^2 &= a_{33}i + b_{33}j + c_{33}k
+\end{aligned}$
+
+$\begin{aligned}
+jk &= a_{13}j + c_{13}ik \\
+&= a_{13}c_{13}i + (a_{13} + b_{13}c_{13})j + c_{13}^2k
+\end{aligned}$
+
+$0k = a_{13}c_{13}j + c_{13}^2ik = a_{13}c_{13}^2i + (b_{13}c_{13}^2 + a_{13}c_{13})i + c_{13}^3k$
+
+$ik^2 = a_{33}j + c_{33}ik = a_{13}c_{33}i + (a_{33} + b_{13}c_{33})j + c_{13}c_{33}k$
+
+[del]= $a_{13}ik$[/del]
+
+$c_{13} = 0$
+
+$\begin{aligned}
+ik &= \text{---} - c_{13}k \\
+i^2k &= \text{---} \quad c_{13}^2k \\
+i^3k &= \text{---} \quad c_{13}^3k
+\end{aligned}$
+
+[marginalia]
+[del]$ik = 0$[/del]
+$k^2 = 0$
+$x+y$
+$(x+y)k$
+$(x+y)k = (x+y)k$
+$i+k$
+$(i+k)^2 = [del]i^2[/del] + (a_{13}+k)i + (a_{13}-b_{13}k)$
+[/marginalia]
+
+$\begin{aligned}
+ik &= a_{13}i + c_{13}j \\
+jk &= i.ik = a_{13}j + [del]c_{13}k[/del]
+\end{aligned}$
+
+[del]$0 = ik^2$[/del]
+$jk^2 = a_{13}jk = a_{13}^2j$
+$0 = jk^3 = a_{13}^2jk = a_{13}^3j$
+
+$a_{13} = 0$
+$ik = b_{13}j$
+
+$(xi+yk)^2 = [del]k^2[/del] + xy(b_{13}+b_{31}) + y^2b_{33})i$
+
+$\begin{aligned}
+k^2 &= a_{33}i + b_{33}j + c_{33}k \\
+k^3 &= a_{33}ik + [del]b_{33}jk[/del] + c_{33}k^2 \\
+&= a_{33}c_{33}i + ([del]a_{33}b_{13}[/del] + a_{33}b_{13})i + c_{33}^2k
+\end{aligned}$
+
+$c_{33} = 0 \quad a_{33}b_{13} = 0$
+
+$\begin{aligned}
+[del]k^2[/del] &= a_{33}i + [del]c_{33}k[/del] \\
+&= [del]a_{33}[/del]
+\end{aligned}$
+
+$\begin{aligned}
+ik^2 &= ik.k = b_{13}jk = 0 \\
+a_{33} &= 0 \\
+k^2 &= b_{33}j
+\end{aligned}$

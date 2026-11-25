@@ -1,0 +1,11 @@
+[pn]C[/pn]
+
+$$r = \tan(45^{\circ} + \frac{1}{2}\text{latitude}) = \frac{1 + \tan\frac{\text{lat}}{2}}{1 - \tan\frac{\text{lat}}{2}} = \frac{1 + \frac{1 - \cos\text{lat}}{\sin\text{lat}}}{1 - \frac{1 - \cos\text{lat}}{\sin\text{lat}}}$$ [fig]Geometric diagram[/fig]
+
+$$= \frac{1 + \sin\text{lat} - \cos\text{lat}}{-1 + \sin\text{lat} + \cos\text{lat}}$$
+
+$$r(\cos\text{long} + i\sin\text{long})$$
+
+[fig]Geometric diagram[/fig]
+
+$$\tan\frac{1}{2}(90^{\circ} + \text{lat})$$

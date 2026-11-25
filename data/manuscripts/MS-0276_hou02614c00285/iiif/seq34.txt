@@ -1,0 +1,19 @@
+1st witness A tells 3 stories, M agrees with B
+[ins]N contradicts B[/ins]
+[ins]O additional to anything[/ins]
+[ins]B says[/ins]
+
+2nd witness B tells 3 stories M agrees with A
+[ins]N contradicts A[/ins]
+[ins]P aside from anything A says[/ins]
+
+$$\frac{U}{\bar{U}} + \frac{V}{\bar{V}} = \frac{U.\bar{V} + V.\bar{U}}{\bar{U}\bar{V}}$$
+
+Let $M_a$ prob of M given to it by A [ins]saying it[/ins]
+
+$$\frac{M_a}{1-M_a} + \frac{M_b}{1-M_b}$$
+$$\frac{M_a}{1-M_a} = \frac{M_a(1-M_b)}{(1-M_a)(1-M_b)}$$
+$$\frac{M_b}{1-M_b} = \frac{M_b(1-M_a)}{(1-M_a)(1-M_b)}$$
+$$\frac{M_a}{1-M_a} + \frac{M_b}{1-M_b} = \frac{M_a(1-M_b) + M_b(1-M_a)}{(1-M_a)(1-M_b)}$$
+$$\frac{N_a}{1-N_a} + \frac{\bar{N}_b}{1-\bar{N}_b}$$
+[del]$\frac{N_a}{1-N_a}$[/del] $N_a \bar{N}_b$ $\frac{M_a + N_a}{\bar{M}_a \bar{N}_a}$ $\frac{M_b + \bar{N}_b}{\bar{M}_b N_b}$

@@ -1,0 +1,24 @@
+more equivalent to
+[fig]Logical formula with multiple overbars and copulas[/fig]
+where
+for [fig]Logical term X[/fig] we substitute [fig]Logical term X with overbar and copula[/fig]
+[fig]Logical term Y[/fig] [fig]Logical term Y with overbar and copula[/fig]
+[fig]Logical formula with overbar over X and Y[/fig] [fig]Logical formula with multiple overbars over X and Y[/fig]
+[fig]Logical term Z[/fig] [fig]Logical term Z with overbar and copula[/fig]
+[fig]Logical formula with overbar over X, Y, and Z[/fig] [fig]Logical formula with multiple overbars over X, Y, and Z[/fig]
+then the Y and Z could be transposed. To [del]prove[/del] [ins]make[/ins]
+this clear let us use the sign [u]#[/u], so that
+A [u]#[/u] B
+shall mean
+[fig]Logical formula with overbar over A with overbar and copula, and B[/fig].
+Then, A [u]#[/u] B is true if A is true and is true if B
+is true. It is only false, if A and B are both false.
+For in the expression
+[fig]Logical formula with overbar over A with overbar and copula, and B[/fig]
+write [greek]α[/greek] for [fig]A with overbar and copula[/fig]. It then becomes
+[fig]Logical formula with overbar over alpha and B[/fig] [del]= A [u]#[/u] B[/del]
+Now this is true if B is true, and is true if [greek]α[/greek] is
+impossible, [del]that[/del] But [greek]α[/greek] is impossible if A is true.
+Hence, if either A is true [del]or[/del] or B is true
+[fig]Logical formula with overbar over alpha and B[/fig]
+or what is the same thing

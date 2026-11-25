@@ -1,0 +1,32 @@
+$$(x^2+y^2)(y+cz) + 2(1-c)xyz = 0$$
+Put $cz = z$  $\frac{1-c}{c} = a$
+$$(x^2+y^2)(y+z) + 2axyz = 0$$
+
+[del]$\frac{1}{2} u = a y z + x z + x y$[/del]
+$$u = 2ayz + 2xz + 2xy$$
+$$v = 2yz + 2xz \qquad + x^2 + 3y^2$$
+$$w = \qquad \qquad 2axy + x^2 + y^2$$
+
+[del]$u^2 = 4x^2y^2 + 8x^2yz + 4x^2z^2 + 8axyz$[/del]
+Terms of $6^{\text{th}}$ order
+$x^6$
+$x^5y$
+$x^5z$
+$x^4y^2$
+$x^4yz$
+$x^4z^2$
+$x^3y^3$
+$x^3y^2z$
+$x^3yz^2$
+$x^3z^3$
+$x^2y^4$
+$x^2y^3z$
+$x^2y^2z^2$
+$x^2yz^3$
+$x^2z^4$
+$xy^5$
+$xy^4z$
+$xy^3z^2$
+$xy^2z^3$
+$xyz^4$
+$xz^5$

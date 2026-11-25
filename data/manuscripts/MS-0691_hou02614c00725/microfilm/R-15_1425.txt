@@ -1,0 +1,47 @@
+$$n = 700 \qquad \text{q probability}$$
+
+[fig]Diagram showing a normal distribution curve with values 62, 70, 79 marked on the axis[/fig]
+
+$$\begin{array}{ccc}
+& 70 & \\
+62 & 70 & 79 \\
+m_1 & & m_2
+\end{array}$$
+
+$$r = \frac{1}{10}$$
+
+$$\begin{array}{r}
+70.1 \\
+-\quad 62 \\
+\hline 8.1
+\end{array} \qquad \begin{array}{r}
+79 \\
+-\quad 70.1 \\
+\hline + 8.9
+\end{array}$$
+
+$$\begin{array}{l}
+r(1-r) = \frac{9}{100} \\
+n.r.(1-r) = 63 \\
+2nr(1-r) = 31.5 \\
+\sqrt{2nr(1-r)} = 5.6125
+\end{array}$$
+
+$$t_1 = -1.44 \qquad t_2 = +1.59$$
+
+$$\begin{array}{r}
+-0.958 \\
++0.975 \\
+\hline 1.933 \\
+.966
+\end{array} \qquad \frac{.034}{30}$$
+
+$$\begin{array}{l}
+61 \overline{) \ 700 \ (} 11.1 \\
+\ \ \ \ \underline{61} \\
+\ \ \ \ \ \ 90 \\
+\ \ \ \ \ \ \underline{61} \\
+\ \ \ \ \ \ \ 90
+\end{array} \qquad \frac{9}{10}$$
+
+$$7$$

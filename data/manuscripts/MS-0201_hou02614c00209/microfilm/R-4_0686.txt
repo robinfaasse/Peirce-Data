@@ -1,0 +1,7 @@
+[pn]111[/pn] in each place, [del]until you come to a place, which contains no 1, where[/del] [ins]the line comes[/ins] you are to end the line with a large dot, [del]which[/del] [ins]This dot[/ins] is to be considered, for all purposes, as being a 1 in that place. Finally, copy the one's that remain, for the sum. There is an example:
+
+[fig]Diagram showing binary addition with wavy lines connecting dots[/fig]
+
+[u]1 0 0 1 1 1 0 0 0 1[/u]
+
+If more than one of the numbers to be added involve continued fractions, the rule is the same as in decimal arithmetic. Namely, the number of places in the continued fraction in the sum will be the least common multiple of those in the summands. By repetitions, you express all the summands [del]as[/del] containing continued fractions of this

@@ -1,0 +1,8 @@
+[pn]19[/pn]
+
+So we get a third set of additional points
+$[O+X]$, $[O+Y]$, $[O+Z]$,
+$[X+Y]$, $[X+Z]$,
+$[Y+Z]$.
+
+The first additional point is coradial with three pairs of these points. For we have seen that $[X+Y+Z]$, $[O+Y+Z]$, $[O]$, and $[X]$ are coplanar; and [del]that[/del] $[Y+Z]$ was by construction in that plane. The first additional point is in that plane, for by construction $[X+Y+Z]$ was taken as coradial with $[O]$ and $[O+X+Y+Z]$; so that $[O+X+Y+Z]$ is in $\{O, X+Y+Z\}$ but these two points are both in the plane in question, and therefore the whole ray through them with all its points, including $[O+X+Y+Z]$ is in that plane. Thus $[O+X+Y+Z]$ is in the plane $(O, X, Y+Z)$. By [ins]for[/ins] a similar reason it is also in $(Y, Z, O+X)$. It is therefore, in the ray common to these planes. Now the first plane [del]$(O,X,Y+Z)$[/del] since it contains both $[O]$ and $[X]$, contains the whole ray $\{O X\}$, [del]and[/del] [ins]including[/ins] the point $[O+X]$ which the other plane contains. So $(Y,Z,O+X)$ for a similar reason contains $[Y+Z]$ which the other plane contains. Thus both planes contain both $[O+X]$ and $[Y+Z]$. Hence these two points lie on that ray of intersection on which $[O+X+Y+Z]$

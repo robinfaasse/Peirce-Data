@@ -1,0 +1,47 @@
+[pn]117[/pn]
+
+To find the corrections to be written at the bottom
+of the pages of a table of logarithms to find, [del]$\frac{\sin \phi}{\phi}$[/del]
+$\frac{\tan \phi}{\phi}$, $\frac{\sin \phi}{\phi}$
+
+$A = \frac{\sin x}{x} = 1 - \frac{x^{2}}{3!} + \frac{x^{4}}{5!} - \text{\&c}$
+$B = \frac{2 + \cos x}{3} = 1 - \frac{x^{2}}{3!} + \frac{x^{4}}{4! 3}$
+
+The difference $\frac{x^{4}}{180}$ denote it by $d$
+$B + d = A$
+$\frac{A}{B} = \frac{B+d}{B} = 1 + \frac{d}{B}$
+$\log (1 + \frac{d}{B}) = \log ( \frac{d}{B} - \frac{1}{2} \frac{d^{2}}{B^{2}} + \text{\&c} ) = \frac{\log e}{B} d$
+
+This is the error if $\frac{2 + \cos x}{3}$ is taken instead of $\frac{\sin x}{x}$.
+This is about $\frac{1}{2}$ of $d$. If then $d$ equals a unit in
+the last place of logs, the error from using $B$ instead of
+$A$ is inappreciable in the logarithm.
+Thus suppose the logarithms be five places. Then we
+have $\frac{x^{4}}{180} < .00001$ $x^{4} < .0018$
+$\log .0018$ $3.2552725$
+$\log \sqrt[4]{.0018}$ $9.3138181 = \log .2059767 = \log \text{arc. } 11^{\circ} 48' 6''$
+
+$\log \cos 11^{\circ} 48' = 9.9907259$
+$\text{arc } 11^{\circ} 48' = [del]7.7559488[/del] 9.3137593$
+$\log \sin 11^{\circ} 48' = 9.3106809$
+$\log \frac{2 + \cos 11^{\circ} 48'}{3} = 9.9969300$
+$\log \frac{\sin 11^{\circ} 48'}{\text{arc } 11^{\circ} 48'} = 9.9969216$
+dif. .0000084
+
+[line]
+
+Mastricht's Rules are
+$\sin x = [del]\frac{3}{2 + \cos x}[/del] x \sqrt[3]{\cos x}$
+$\tan x = x \cos^{-\frac{2}{3}} x$
+
+$\frac{\sin x}{x (\cos x)^{\frac{1}{3}}} = (\text{by Taylor's Theorem}) 1 + \frac{1}{45} x^{4} + \dots$
+
+This is therefore much better than the one on
+the opposite page.
+$10^{\circ} = 36,000''$
+$\log 10^{\circ} = 5.5563025$
+$\sin 10^{\circ}$ $3.6855749$
+$\cos x$ $9.2418774$
+$(\sec x)^{\frac{1}{3}}$ $\frac{22162}{9.2396612}$
+$\sin 10^{\circ}$ $9.2396703$
+good for four places.

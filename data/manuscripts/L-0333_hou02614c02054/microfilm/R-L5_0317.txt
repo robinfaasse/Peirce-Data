@@ -1,0 +1,40 @@
+[pn]VF[/pn]
+
+[marginalia]
+[del]US Coast Survey Office[/del]
+Washington March 20 1873
+[/marginalia]
+
+Dear Father
+
+Suppose an algebra put into one of your forms. I can prove that every rid is capable of expression as a sum of fractions A:B such that (A:B)(B:C) = A:C (A:B)(C:D) = 0
+
+First if it has any nilpotent expression, that may be put in the form
+i = A:B + B:C + etc + [ins]M:N + N:O + etc + etc[/ins]
+and the number of terms will be equal to the number of powers that do not vanish. And so by adding to the rids we may clear the algebra from rids whose powers are independent of them.
+
+Then if there is an idempotent base and another rid in the first group
+[fig]2x2 multiplication table[/fig] Put i = i' + k and assume the multipli-
+
+As another example take [pn]be_6[/pn]
+[fig]6x6 multiplication table[/fig]
+
+First put j = A:B + B:C
+k = A:C
+Next take i = A:A + B:B + C:C
+Next consider l Call it A:D
+Next consider m Call it A:D
+Next consider n. If we put [del]this[/del] [ins]n[/ins] = a B:D everything is satisfied except ln = 6m
+To satisfy this [del]part l = 6/a A:B[/del]
+[del]But then lj = 6/a k. Therefore for[/del]
+[del]j = A:B + [unclear]a/6[/unclear] B[/del] the simplest way to satisfy this is to add to l (b-a) A:E to n E:D and to i E:E. Then we have
+i = A:A + B:B + C:C + E:E
+j = A:B + B:C
+k = A:C
+l = A:B + (b-a) A:E
+m = A:D
+n = a B:D + E:D
+
+Love to all.
+your loving
+C. S. Peirce

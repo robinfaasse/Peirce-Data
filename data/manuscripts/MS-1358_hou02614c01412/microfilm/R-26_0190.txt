@@ -1,0 +1,47 @@
+[pn]3[/pn]
+Morison's Bridge 1899 Feb 24
+
+We can use the two equations of today p. 1 to get
+values of e and e"
+
+[del]e =[/del] [ins]e = [del]([u]2R-N[/u] N - a + bN - cN[sup]2[/sup]) / (R+x-N)[/del][/ins]
+[del]L -a' - (c-c') I[sup]2[/sup] + [del]b'[/del] [ins]b'[/ins] - 2(c-c') I N[/del]
+e" = {[u]2R-N[/u] N [del]- a + (c-c') I[sup]2[/sup] + (c'-c") J[sup]2[/sup] - [b+2(c-c') I + 2(c'-c") J] N - c" N[sup]2[/sup][/del]} / (R+x-N)
+-a' b'
+
+Energy of Elongation = [del]1/2[/del] E [u](Sum of [ins]new[/ins] arc - Sum of old arc)[sup]2[/sup][/u]
+Sum of old arc
+
+[fig]Diagram showing a line with a weight W[/fig] E [u]x[/u]
+l
+
+[del]E [u]x[sup]2[/sup][/u] + W[/del]
+[del]l[/del]
+
+1/2 E [u]x-l[sup]2[/sup][/u] + Wx [del]Energy[/del]
+l
+
+E [u]x-l[/u] + W = 0
+l
+
+x = l (1 - [u]W[/u])
+E
+
+It remains to consider energy of
+horizontal displacement of
+towers and
+energy of displacement at [del]+[/del] [ins]±[/ins] N
+
+Energy of horizontal displacement
+at towers = [del]1/2[/del] KX[sup]2[/sup]
+Sum of the two.
+
+[del]at[/del] +N
+y = a" + b" [del]y[/del] [ins]x[/ins] + c" x[sup]2[/sup]
+a" + b" N + c" N[sup]2[/sup]
+y[sup]2[/sup] = a"[sup]2[/sup] + 2a"b"N + b"[sup]2[/sup]N[sup]2[/sup]
++2a"c"N[sup]2[/sup] + 2b"c"N[sup]3[/sup] + c"[sup]2[/sup]N[sup]4[/sup]
+
+Energy [del]at displace[/del] [ins]ment at[/ins] N W(a" + b"N + c"N[sup]2[/sup]) + 1/2 [del]Ω[/del] [ins]Ω[/ins] [del]y[sup]2[/sup][/del] [ins]{ a"[sup]2[/sup] + 2a"b"N + (2a"c" + b"[sup]2[/sup])N[sup]2[/sup] + 2b"c"N[sup]3[/sup] + c"[sup]2[/sup]N[sup]4[/sup] }[/ins]
+
+[del]at[/del] - N W(a - bN + cN[sup]2[/sup]) + 1/2 Ω [del]y[sup]2[/sup][/del] [ins]{ a[sup]2[/sup] - 2abN + (2ac + b[sup]2[/sup])N[sup]2[/sup] - 2bcN[sup]3[/sup] + c[sup]2[/sup]N[sup]4[/sup] }[/ins]

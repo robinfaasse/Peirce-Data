@@ -1,0 +1,26 @@
+[pn]32[/pn] mutative principle does not hold, so that $pq$ is not generally equal
+to $qp$, then the first written of the two factors of a product, as $p$ in $pq$,
+is called the [u]multiplier[/u], and the other is called the [u]multiplicand[/u]; and
+I say the multiplicand ($q$ in $pq$) is multiplied [u]by[/u] the multiplier,
+while the multiplier is multiplied [u]into[/u] the multiplicand. That is
+Hamilton's terminology. Now any of the last set of symbols, which
+I will call capital pairs, being multiplied into its [del]las[/del] second capital,
+so as to give for instance $(\Gamma_1:\Gamma_3)\Gamma_3$ gives for the product the
+first capital of the pair $(\Gamma_1:\Gamma_3)\Gamma_3 = \Gamma_1$ and in general $(\Gamma_m:\Gamma_n)\Gamma_n = \Gamma_m$
+but multiplied [ins]into[/ins] [del]by[/del] any other capital gives zero $(\Gamma_1:\Gamma_3)\Gamma_2 = 0$, $(\Gamma_1:\Gamma_3)\Gamma_4 = 0$.
+I will further assume that a sort of associative principle holds
+so that $((\Gamma_1:\Gamma_3)\Gamma_3):\Gamma_5) = ((\Gamma_1:\Gamma_3)(\Gamma_3:\Gamma_5)) = \Gamma_1:\Gamma_5$
+But $((\Gamma_1:\Gamma_3)\Gamma_4):\Gamma_5) = (0:\Gamma_5) = 0 = (\Gamma_1:\Gamma_3)(\Gamma_4:\Gamma_5)$
+So that that last set of symbols on p. 31 can be multiplied to-
+gether; and if the last capital of the multiplier is the same as the
+first capital of the multiplicand, the product is a capital-pair
+whose first capital is the first capital of the multiplier, and its second
+is the last capital of the multiplicand. But if the last capital
+of the multiplier is not the same as the first of the multiplicand,
+the product is zero.
+I will further create a set of symbols [del][fig]crossed out text[/fig][/del] $j_1, j_2, j_3$, etc equal in
+[del]multitude[/del] multitude to the original set of independent units $i_1, i_2, i_3$, etc.,
+to be defined [ins]for example[/ins] as follows:
+$j_1 = (\Gamma_1:A) + [1,1,1](\Gamma_1:\Gamma_1) + [1,1,2](\Gamma_2:\Gamma_1) + [1,1,3](\Gamma_3:\Gamma_1) + \text{etc}$
+$+ [1,2,1](\Gamma_1:\Gamma_2) + [1,2,2](\Gamma_2:\Gamma_2) + [1,2,3](\Gamma_3:\Gamma_2) + \text{etc}$
+or in general $j_u = (\Gamma_u:A) + \sum_v \sum_w [u,v,w](\Gamma_w:\Gamma_v)$

@@ -1,0 +1,31 @@
+$V'$ and $W'$ are integers prime to one another. Then, in every Pythagorean triangle the legs and hypothenuse are of the forms
+$$\begin{aligned}
+A &= \frac{1}{2}(W' + V')(W' - V') \\
+B &= W'V' \\
+H &= \frac{1}{2}(W'^2 + V'^2).
+\end{aligned}$$
+
+$\S 7$. Let $P$ and $Q$ be any two integers whatever, prime to one another, of which $Q$ is the larger. Then, if either $P$ or $Q$ is even, let
+$$\begin{aligned}
+A &= 2PQ \\
+B &= (Q+P)(Q-P) \\
+H &= Q^2 + P^2
+\end{aligned}$$
+and we have, identically,
+$$A^2 + B^2 = 4P^2Q^2 + Q^4 - 2P^2Q^2 + P^4 = (Q^2 + P^2)^2 = H^2.$$
+But if both $P$ and $Q$ are odd, let
+$$\begin{aligned}
+A &= \frac{1}{2}(Q+P)(Q-P) \\
+B &= QP \\
+H &= \frac{1}{2}(Q^2 + P^2)
+\end{aligned}$$
+and we have, identically,
+$$A^2 + B^2 = \frac{1}{4}(Q^4 - 2Q^2P^2 + P^4) + Q^2P^2 = \frac{1}{4}(Q^2 + P^2)^2 = H^2.$$
+It follows from $\S 6$ that there is no Pythagorean triangle which cannot be thus formed from any two integers prime to one another.
+
+$\S 8$. Let $r$ be any number between $0$ and $1$, assumed at pleasure. Let $s$ be determined by the equation
+$$s^2 - (r + \frac{1}{r})s + 1 = 0$$
+together with the equation
+$$\frac{(Q+P)(Q-P)}{2QP} = s$$
+where $Q$ and $P$ are [del]integers[/del] [ins]numbers[/ins] to be determined. The last equation may be put in the form
+$$(\frac{P}{Q})^2 + 2s\frac{P}{Q} = 1$$

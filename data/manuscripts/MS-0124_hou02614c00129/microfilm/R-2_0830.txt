@@ -1,0 +1,65 @@
+We afterward wrote this way. (Cantor Series)
+
+$$\frac{n^n e^{-n} \sqrt{2\pi n}}{n!} = \phi_n$$
+
+$$\frac{\phi_n}{\phi(n+1)} = \frac{n^n}{(n+1)^{n+1}} e \sqrt{\frac{n}{n+1}} = \frac{n^{n+\frac{1}{2}}}{(n+1)^{n+\frac{1}{2}}} e$$
+
+$$\log \phi_n - \log \phi(n+1) = [del]\left(n+\frac{1}{2}\right)[/del] - \left(n+\frac{1}{2}\right) \log \left(1+\frac{1}{n}\right) + 1$$
+
+$$\Delta \log \phi_n = \left(n+\frac{1}{2}\right) \log \left(1+\frac{1}{n}\right) [del]- 1[/del]$$
+
+$$= \left(n+\frac{1}{2}\right) \left(\frac{1}{n} - \frac{1}{2} \frac{1}{n^2} + \frac{1}{3} \frac{1}{n^3} - \frac{1}{4} \frac{1}{n^4} + \text{etc}\right) + 1$$
+
+$$= 1 - \frac{1}{2} \frac{1}{n} + \frac{1}{3} \frac{1}{n^2} - \frac{1}{4} \frac{1}{n^3} + \text{etc} [ins]\frac{1}{2} \frac{1}{n} - \frac{1}{4} \frac{1}{n^2} + \frac{1}{6} \frac{1}{n^3} - \frac{1}{8} \frac{1}{n^4}[/ins]$$
+
+$$- 1 + \frac{1}{2} \frac{1}{n} - \frac{1}{4} \frac{1}{n^2} + \frac{1}{6} \frac{1}{n^3} - \text{etc}$$
+
+$$= \frac{1}{3 \cdot 4} \frac{1}{n^2} - \frac{1}{2 \cdot 3} \frac{1}{n^3} + \frac{3}{5 \cdot 8} \frac{1}{n^4} - \frac{1}{15} \frac{1}{n^5} - \text{etc}$$
+
+$$\frac{4}{60} = \frac{7}{14}$$
+
+$$[del]\frac{1}{12}[/del] \frac{1}{n^2} - \frac{2n+1}{(n+1)^2} = \frac{3n^2-3n+1}{n^2(n+1)^2}$$
+
+$$u_{n+1} - u_n = \frac{1}{n^2}$$
+
+$$u_n = a_0 + a_1 \frac{1}{n} + [del]a_2 \frac{1}{n^2} + a_3 \frac{1}{n^3} + \text{etc}[/del]$$
+
+$$u_n = a_0 + a_1 \frac{1}{n} + [del]\frac{a_2}{n(n+1)}[/del] + a_2 \frac{1}{n(n+1)} + a_3 \frac{1}{n(n+1)(n+2)} + \text{etc}$$
+
+$$u_{n+1} = a_0 + a_1 \frac{1}{n+1} + a_2 \frac{1}{(n+1)(n+2)} + a_3 \frac{1}{(n+1)(n+2)(n+3)} + \text{etc}$$
+
+$$u_{n+1} - u_n = a_1 \frac{-1}{n(n+1)} + a_2 \frac{-2}{n(n+1)(n+2)} - 3 a_3 \frac{1}{n(n+1)(n+2)(n+3)}$$
+
+***
+
+$$a \frac{1}{n^2} + b \frac{1}{n^3} + c \frac{1}{n^4} + d \frac{1}{n^5} + \text{etc}$$
+
+$$x \frac{1}{n(n+1)(n+2)(n+3)} + y \frac{1}{n(n+1)} + z \frac{1}{n(n+1)(n+2)} + \text{etc}$$
+
+$$\frac{a}{n(n+1)(n+2)(n+3)} + b \frac{1}{(n+1)^2} (n+2) (n+3) + c \frac{1}{(n+1)(n+2)(n+3)} + d$$
+
+$$\frac{a}{n^2} + \frac{b}{n^3} + \frac{c}{n^4} + \frac{d}{n^5}$$
+
+$$\frac{a n^3 + b n^2 + c n + d}{n^5}$$
+
+$$\frac{n+4}{n+3} n+12$$
+
+$$\frac{n+2}{n^3+9n^2+26n+24}$$
+
+$$n^4+10n^3+35n^2+50n+24$$
+
+$$a_n$$
+
+$$x \frac{1}{(n+2)(n+3)(n+4)} + y \frac{1}{u(n+1)} + z \frac{1}{(n+1)(n+2)(n+3)} + u \frac{1}{(n+1)(n+2)(n+3)(n+4)}$$
+
+$$x (n+2)(n+3)(n+4) + y (n+1)(n+2)(n+3)(n+4) + z (n+4) + u$$
+
+$$n(n+1)(n+2)(n+3)(n+4)$$
+
+$$\frac{n^2+4n}{n+2}$$
+
+$$\frac{n^3+3n^2-2n}{n+2}$$
+
+$$\frac{n^4+6n^3+11n^2+6n}{n+4}$$
+
+$$n^4+10n^3+35n^2+50n+24$$

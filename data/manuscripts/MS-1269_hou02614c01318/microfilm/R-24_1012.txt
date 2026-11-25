@@ -1,0 +1,18 @@
+[pn]HS1[/pn] [pn](15) 54[/pn]
+
+Next follow some [del]cub[/del] examples about pyramids. These relate to three quantities which Prof. Eisenlohr has shown good reason to believe are the lengths of the arris edge and [ins]the[/ins] diagonal [ins]of the base[/ins] and [del]a fraction of a cubit equal to the fraction which multiplied by half the diagonal of the base gives the arris-edge. At the same time[/del] [ins]the ratio of half the diagonal to the arris-edge, multip[/ins] one [del]dos[/del] fails to see any reason for considering such a ratio, which in the great pyramid was certainly not a simpler one than 26:35.
+
+Of the miscellaneous examples which conclude the treatise, only one merits [ins]our[/ins] [del]attention[/del], and that one is remarkable. The numbers are as follows:
+
+$$\begin{array}{rrr}
+1 & 2801 & 7 \\
+2 & 5602 & 49 \\
+4 & 11204 & 343 \\
+\text{Sum} & 19607 & 2401 \\
+& & 16807 \\
+& \text{second sum} & 19607
+\end{array}$$
+
+Of the numbers in the [del]last[/del] [ins]second[/ins] column each is equal to seven times the number above it. [del]In the first[/del] We have here then a geometrical series with its sum. [del]In the[/del] [ins]The[/ins] first column contains the calculation of that sum. The first number 2801 is $\frac{1}{6}$ of 16807 [u]minus[/u] 1; and this is multiplied by 7. Thus the calculation follows the formula
+$$\underline{r + r^2 + r^3 + \dots + r^n = \frac{r^n - 1}{r - 1} \times r}.$$
+It is certainly remarkable that this rule should have been known; and we can pronounce with confidence that it exceeded the powers of Egyptian mathematicians to discover it. It must have been an imported article. There is besides a feature of the

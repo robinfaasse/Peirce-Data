@@ -1,0 +1,41 @@
+[pn]14[/pn] [pn]260[/pn]
+
+$[A] = [del]\text{—}[/del] \left[ \frac{1}{2} X + \frac{1}{2} W \right]$,
+$[B] = \left[ \frac{1}{3} Y + \frac{2}{3} W \right]$,
+$[C] = \left[ \frac{1}{5} Z + \frac{4}{5} W \right]$,
+
+and the second plane [del]contain[/del] contains the points
+
+$[A'] = \left[ \frac{8}{7} X - \frac{1}{7} W \right]$,
+$[B'] = \left[ \frac{12}{11} Y - \frac{1}{11} W \right]$,
+$[C'] = \left[ \frac{14}{13} Z - \frac{1}{13} W \right]$.
+
+Then in order that a point,
+
+$[D] = \left[ x X + y Y + z Z + \overline{1-x-y-z} W \right]$,
+
+should be on both planes we must have
+
+$2x + 3y + 5z = 1$
+$\frac{7}{8}x + \frac{11}{12}y + \frac{13}{14}z = 1$
+
+Dividing by the multipliers of $x$, we have
+
+$x + \frac{3}{2}y + \frac{5}{2}z = \frac{1}{2}$
+$x + \frac{8}{7} \cdot \frac{11}{12}y + \frac{8}{7} \cdot \frac{13}{14}z = \frac{8}{7}$
+
+Subtracting, we get
+
+$\left( \frac{3}{2} - \frac{8}{7} \cdot \frac{11}{12} \right) y + \left( \frac{5}{2} - \frac{8}{7} \cdot \frac{13}{14} \right) z = \frac{1}{2} - \frac{8}{7}$
+
+Dividing by the multiplier of $y$ we get
+
+$y + \frac{\frac{5}{2} - \frac{8}{7} \cdot \frac{13}{14}}{\frac{3}{2} - \frac{8}{7} \cdot \frac{11}{12}} z = \frac{\frac{1}{2} - \frac{8}{7}}{\frac{3}{2} - \frac{8}{7} \cdot \frac{11}{12}}$
+
+or
+
+$y = \frac{\frac{1}{2} - \frac{8}{7}}{\frac{3}{2} - \frac{8}{7} \cdot \frac{11}{12}} - \frac{\frac{5}{2} - \frac{8}{7} \cdot \frac{13}{14}}{\frac{3}{2} - \frac{8}{7} \cdot \frac{11}{12}} z$
+
+And so we can find also
+
+[del]$\frac{\frac{1}{3} - \frac{12}{11}}{\frac{2}{3} - \frac{7}{8} \cdot \frac{12}{11}} - \frac{\frac{5}{3} - \frac{13}{14} \cdot \frac{12}{11}}{\frac{2}{3} - \frac{7}{8} \cdot \frac{12}{11}} z$[/del]

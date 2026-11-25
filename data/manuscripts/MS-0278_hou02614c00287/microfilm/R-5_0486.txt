@@ -1,0 +1,21 @@
+The numerical value of [u]h[/u] can only be ascertained after we have studied the inverse functions. To this study let us at once apply ourselves.
+# The [del]formula[/del] [ins]relation[/ins] [u]e[/u] [sup]x[/sup] = [u]a[/u]
+is otherwise written
+[u]x[/u] = log [u]a[/u],
+where log stands for the so-called "natural" logarithm, better called the analytical logarithm.
+log (1 + [u]x[/u]) vanishes with [u]x[/u]. Hence, for small values of [u]x[/u] it is expressible as a series
+[del]ax + bx[sup]2[/sup] + cx[sup]3[/sup] + dx[sup]4[/sup] + etc.[/del] [ins]ax + bx[sup]2[/sup] + cx[sup]3[/sup] + dx[sup]4[/sup] + etc.[/ins]
+But [u]e[/u] [sup]x[/sup] = 1 + [frac]x[/frac][sub]1![/sub] + [frac]x[sup]2[/sup][/frac][sub]2![/sub] + etc
+becomes for infinitesimal values of [u]x[/u]
+[u]e[/u] [sup]x[/sup] = 1 + [u]x[/u]
+[del]Hence[/del] or log (1 + [u]x[/u]) = [u]x[/u]
+Hence a = 1. We have
+[del]log xy = log x + log y[/del] log [u]uv[/u] = log [u]u[/u] + log [u]v[/u]
+Put [u]u[/u] = 1 + [u]x[/u], [u]v[/u] = 1 - [u]x[/u]
+Then log (1 - [u]x[/u][sup]2[/sup]) = log (1 + [u]x[/u]) + log (1 - [u]x[/u])
+But log (1 - [u]x[/u][sup]2[/sup]) = -[u]x[/u][sup]2[/sup] + [u]b[/u][u]x[/u][sup]4[/sup] - [u]c[/u][u]x[/u][sup]6[/sup] + [u]d[/u][u]x[/u][sup]8[/sup] - [u]e[/u][u]x[/u][sup]10[/sup] + etc
+log (1 + [u]x[/u]) = [u]x[/u] + [u]b[/u][u]x[/u][sup]2[/sup] + [u]c[/u][u]x[/u][sup]3[/sup] + [u]d[/u][u]x[/u][sup]4[/sup] + [u]e[/u][u]x[/u][sup]5[/sup] + etc
+log (1 - [u]x[/u]) = -[u]x[/u] + [u]b[/u][u]x[/u][sup]2[/sup] - [u]c[/u][u]x[/u][sup]3[/sup] + [u]d[/u][u]x[/u][sup]4[/sup] - [u]e[/u][u]x[/u][sup]5[/sup] + etc
+log (1 + [u]x[/u])(1 - [u]x[/u]) = 2[u]b[/u][u]x[/u][sup]2[/sup] + 2[u]d[/u][u]x[/u][sup]4[/sup] + etc
+[special]therefore[/special] 2[u]b[/u] = -1 [u]b[/u] = -[frac]1[/frac][sub]2[/sub] 2[u]d[/u] = [u]b[/u] [u]d[/u] = -[frac]1[/frac][sub]4[/sub] [u]f[/u] = -[frac]1[/frac][sub]2[/sub][u]c[/u] [del]etc[/del] [u]h[/u] = -[frac]1[/frac][sub]8[/sub]
+[u]j[/u] = -[frac]1[/frac][sub]2[/sub][u]e[/u] etc

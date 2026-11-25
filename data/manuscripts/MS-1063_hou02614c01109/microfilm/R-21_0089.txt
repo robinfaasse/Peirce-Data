@@ -1,0 +1,19 @@
+[del]
+[fig]Mathematical equations written upside down[/fig]
+[/del]
+
+[u]Condition of homogeneity[/u]
+
+$v = \cos \phi \cdot i + \sin \phi \cos \psi \cdot j + \sin \phi \sin \psi \cdot k$
+
+[del]$v = $[/del]
+$q = \cos \theta + \sin \theta \cdot v$
+$\frac{1}{q} = \cos \theta - \sin \theta \cos \phi \cdot i - \sin \theta \sin \phi \cos \psi \cdot j - \sin \theta \sin \phi \sin \psi \cdot k$
+$dq = [del]- \sin \theta \sin \phi[/del] d\phi \cdot i + \sin \theta \cos \phi \cos \psi d\phi \cdot j$
+$+ \sin \theta \cos \phi \sin \psi d\phi \cdot k$
+
+$\frac{1}{q} dq = - \sin \theta \cos \theta \sin \phi [del]\frac{\sin^2 \theta \sin \phi \cos \phi \sin \phi \cos \psi}{d\phi \cdot i}[/del] d\phi \cdot i$
+$(+ \sin \theta \cos \theta \cos \phi \cos \psi + \sin^2 \theta [del]\sin \psi + \cos \phi \sin \phi[/del]) [del]j[/del]$
+$+ \sin \theta \cos \theta \cos \phi \sin \psi [del]- \sin^2 \theta \cos \psi[/del]) d\phi \cdot k$
+
+$\int \frac{1}{q} dq = \sin \theta \cos \theta \cos \phi \cdot i + (\sin \theta \cos \theta \sin \phi \cos \psi$

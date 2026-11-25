@@ -1,0 +1,21 @@
+$$A \# B$$
+is true. But if [del]$\alpha$ is false true or[/del] it is possible for
+$\alpha$ to be true while $B$ is false, then
+$$\overline{\alpha} \# B$$
+is false. Now if $A$ is [del]false[/del] [ins]false[/ins] $\overline{A}$ may be [del]false,[/del] [ins]true,[/ins]
+[del]namely[/del] and so, if $A$ and $B$ are both false, [del]while[/del]
+$$\overline{\alpha} \# B$$
+or
+$$A \# B$$
+is false.
+
+It follows that
+$$(A \# B) \# C = (A \# C) \# B$$
+for either is true if [del]all[/del] $A$, or $B$, or $C$ is true, and is
+only false if $A$, $B$, and $C$ are all false. But put $X$
+for [del]$A$[/del] $A$, put $\overline{Y}$ for $B$, and put $\overline{Z}$ for $C$, and
+the expression becomes
+
+$$[del]X[/del] [del]A[/del]$$
+$$(X \# \overline{Y}) \# \overline{Z} = (X \# \overline{Z}) \# \overline{Y},$$
+[del]which is[/del] Q.E.D.

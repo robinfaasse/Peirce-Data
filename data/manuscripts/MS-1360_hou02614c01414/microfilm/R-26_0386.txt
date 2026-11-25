@@ -1,0 +1,33 @@
+Now $C_{1}''' = 0$
+$C_{N+1}'' = 6 \Xi^{2}$
+
+$0 = -P(-2-\sqrt{3}) + Q(-2+\sqrt{3})$
+$x(x^{2}-6\Xi^{2}) = P(-2-\sqrt{3})(-2-\sqrt{3})^{N} + Q(-2+\sqrt{3})(-2+\sqrt{3})^{N}$
+
+$P = \frac{x(x^{2}-6\Xi^{2})}{(-2-\sqrt{3})[(-2-\sqrt{3})^{N} + (-2+\sqrt{3})^{N}]}$
+
+$Q = \frac{x(x^{2}-6\Xi^{2})}{(-2+\sqrt{3})[(-2-\sqrt{3})^{N} + (-2+\sqrt{3})^{N}]}$
+
+$\frac{x^{2}-C_{n}''}{x^{2}-6\Xi^{2}} = \frac{(-2-\sqrt{3})^{n-1} + (-2+\sqrt{3})^{n-1}}{(-2-\sqrt{3})^{N} + (-2+\sqrt{3})^{N}} = \frac{(-)^{n-1} \cosh (n-1) \log (2+\sqrt{3})}{(-)^{N} \cosh N \log (2+\sqrt{3})}$
+
+$\frac{\sqrt{3} \cdot C_{n}'''}{x(x^{2}-6\Xi^{2})} = \frac{-(-2-\sqrt{3})^{n-1} + (-2+\sqrt{3})^{n-1}}{(-2-\sqrt{3})^{N} + (-2+\sqrt{3})^{N}}$
+
+$\frac{1}{-2-\sqrt{3}} = \xi 2 + \eta \sqrt{3}$ [del]Q[/del]
+$1 = -4 \xi - 3 \eta$
+$-2\sqrt{3}\xi - 2\sqrt{3}\eta$
+$\xi = -\eta$
+$\eta = 1$
+
+$-2 + \sqrt{3}$
+$-2 - \sqrt{3}$
+$\overline{+4 - 2\sqrt{3}}$
+$-3 + 2\sqrt{3}$
+
+$\frac{\sec(\alpha+\beta)}{\sec\alpha} = \frac{\cos\alpha}{\cos(\alpha+\beta)} = \frac{\cos\alpha}{\cos\alpha\cos\beta - \sin\alpha\sin\beta} \cdot \frac{\sec\alpha}{\sec\alpha}$
+$= \frac{1 - \cos\beta + \tan\alpha\sin\beta}{\cos(\alpha+\beta)}$
+$= \frac{\cos\alpha - \cos\alpha\cos\beta}{\cos\alpha}$
+
+$= \frac{\tan(\alpha+\beta) - \tan\alpha}{1 - \tan\alpha\tan\beta} + \frac{\tan\alpha + \tan\beta}{1 - \tan\alpha\tan\beta}$
+$= \frac{\tan\beta \sec^{2}\alpha}{1 - \tan\alpha\tan\beta}$
+$= \frac{\sin\beta \sec\alpha}{\cos\alpha\cos\beta - \sin\alpha\sin\beta}$
+$= \frac{\sin\beta \sec\alpha}{\cos(\alpha+\beta)}$

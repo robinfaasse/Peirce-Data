@@ -1,0 +1,18 @@
+[pn]3[/pn]
+
+$r=1 \quad \varphi'x_0 = \frac{p}{2}$
+$\frac{1}{2}p \log (v+1)$
+
+$x_0 = +1$
+$r=2 \quad \varphi'x_0 = -\frac{p}{4}$
+$-\frac{p}{4(v-1)}$
+$r=1 \quad \varphi'x_0 = -\frac{p}{2}$
+$-\frac{1}{2}p \log (v-1)$
+
+$\int \frac{pv^2}{(v+1)^2(v-1)^2} = p [ -\frac{1}{4(v+1)} + \frac{1}{2}\log(v+1) - \frac{1}{4(v-1)} - \frac{1}{2}\log(v-1) ] =$
+$p [ \log \sqrt{\frac{v+1}{v-1}} - \frac{1}{4(v+1)} - \frac{1}{4(v-1)} ] =$
+$p [ \log \sqrt{\frac{\sqrt{\frac{p}{2x}}+1}{\sqrt{\frac{p}{2x}}-1}} - \frac{1}{4(\sqrt{\frac{p}{2x}}+1)} - \frac{1}{4(\sqrt{\frac{p}{2x}}-1)} ] =$
+$p [ \log \sqrt{\frac{\sqrt{\frac{p}{2x}}+1}{\sqrt{\frac{p}{2x}}-1}} - \frac{x\sqrt{\frac{p}{2x}}}{p} ] = \frac{1}{2}\sqrt{2px+4x^2} + \frac{1}{2}p \log \sqrt{\frac{\sqrt{\frac{p}{2x}}+1}{\sqrt{\frac{p}{2x}}-1}}$
+$= \frac{1}{2}\sqrt{2px+4x^2} + \frac{1}{2}p \log \frac{p+4x+\sqrt{8px+16x^2}}{p} =$
+$\frac{1}{2}\sqrt{2px+4x^2} + \frac{1}{2}p \log (1 + \frac{4x}{p} + \sqrt{\frac{8x}{p} + \frac{16x^2}{p^2}}) =$
+$\frac{1}{2}\sqrt{2px+4x^2} + \frac{1}{2}p \log (\sqrt{1+\frac{2x}{p}} + \sqrt{\frac{2x}{p}})$.

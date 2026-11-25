@@ -1,0 +1,26 @@
+[pn]42[/pn] Put [frac]\psi[/frac] = \omega \psi = \phi\omega
+
+[frac]D\omega[/frac] = D log \omega
+\therefore [frac]\phi[/frac] D [frac]\psi[/frac] = D log \psi - D log \phi = [frac]\psi'[/frac] - [frac]\phi'[/frac]
+\therefore D\omega = D [frac]\psi[/frac] = [frac]\psi'[/frac] - [frac]\psi\phi'[/frac] = [frac]\psi'[/frac] - [frac]\phi'[/frac]\omega
+\therefore D^2 log \omega = D [frac]D\omega[/frac] = [frac]D^2\omega[/frac] - ([frac]D\omega[/frac])^2 = [frac]D^2\omega[/frac] - (log \omega)^2
+\therefore [frac]D^2\omega[/frac] = D^2 log \omega + (log \omega)^2
+[frac]\phi[/frac] D^2 [frac]\psi[/frac] = D^2 log \psi - D^2 log \phi - (D log \psi - D log \phi)^2
+= D^2 log \psi - D^2 log \phi - (D log \psi)^2 + 2 D log \psi \cdot D log \phi - (D log \phi)^2
+= [frac]\psi''[/frac] - ([frac]\psi'[/frac])^2 - [frac]\phi''[/frac] + ([frac]\phi'[/frac])^2 - [frac]\psi'^2[/frac] + 2 [frac]\psi'\phi'[/frac] - [frac]\phi'^2[/frac]
+= [frac]\psi''[/frac] - [frac]\phi''[/frac] - 2 [frac]\psi'^2[/frac] + 2 [frac]\psi'\phi'[/frac]
+= [frac]\psi''[/frac] - [frac]\phi''[/frac]
+
+[pn]43[/pn] Put \omega(x) = [frac]\psi(x)[/frac] Put \psi = f' \phi = f
+
+(1) [del]x[/del] [frac]D\omega[/frac] = D log \omega [del]\therefore \omega = D log f[/del]
+= (2) [frac]\phi[/frac] D [frac]\psi[/frac] = D log \psi - D log \phi = [frac]\psi'[/frac] - [frac]\phi'[/frac]
+(1) x \omega = (3) D\omega = D [frac]\psi[/frac] = [frac]\psi'[/frac] - [frac]\phi'[/frac]\omega = [frac]\psi'[/frac] - [frac]\psi\phi'[/frac]
+[del]Substitute in D of 4[/del] D^2 log \omega = D [frac]D\omega[/frac] = [frac]D^2\omega[/frac] - ([frac]D\omega[/frac])^2
+[del]But[/del] (4) D^2 log f = D [frac]f'[/frac] = [frac]f''[/frac] - ([frac]f'[/frac])^2 = [frac]f''[/frac] - (D log f)^2
+[del]Transpose[/del] (5) [frac]f''[/frac] = D^2 log f - (D log f)^2
+[frac]\omega''[/frac] = D^2 log \omega - (D log \omega)^2
+[frac]\phi[/frac] D^2 [frac]\psi[/frac] = D^2 log \psi - D^2 log \phi - (D log \psi)^2 + 2 D log \psi \cdot D log \phi - (D log \phi)^2
+= [frac]\psi''[/frac] - ([frac]\psi'[/frac])^2 - [frac]\phi''[/frac] + ([frac]\phi'[/frac])^2 - ([frac]\psi'[/frac])^2 + 2 [frac]\psi'\phi'[/frac] - ([frac]\phi'[/frac])^2
+= [frac]\psi''[/frac] - [frac]\phi''[/frac] - 2 ([frac]\psi'[/frac])^2 + 2 [frac]\psi'\phi'[/frac]
+D^2\omega = D^2 [frac]\psi[/frac] = \omega ([frac]\psi''[/frac] - [frac]\phi''[/frac])

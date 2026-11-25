@@ -1,0 +1,11 @@
+[pn]6.[/pn]
+
+REPORT of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Inspector on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ [u]Steam Boiler[/u] used by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ inspected \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 189\_\_
+
+as is considered in Riemann's theory; and the two curves have the same deficiency.
+
+[u]Cubic transformation[/u]. A transformation in which use is made of a cubic or of a function of a cubic.
+
+[u]Degree of a transformation[/u]. See [u]order of a transformation[/u].
+
+[u]Factor of transformation[/u]. The general equation of a conic being $a_{00} X^{2} + a_{11} Y^{2} + 2a_{01} XY + 2a_{02} X + 2a_{12} Y + a_{22} = 0$, the coördinates [del]of which[/del] being rectangular, substitute $\alpha x + \alpha_{1} y + \alpha_{2} = X$, and $\beta x + \beta_{1} y + \beta_{2} = Y$, in which $\alpha^{2} + \beta^{2} = 1$; $\alpha_{1}^{2} + \beta_{1}^{2} = 1$; $\alpha \alpha_{1} + \beta \beta_{1} = 0$. Under these circumstances three of the quantities $\alpha, \alpha_{1}, \alpha_{2}, \beta, \beta_{1}, \beta_{2}$ remain arbitrary, and by properly choosing them the original equation can be brought into the form $\lambda_{0} x^{2} + \lambda_{1} y^{2} - \rho = 0$. The axes of reference must now coincide with those of the conic, and therefore there is a quantity $k$, called the factor of transformation, such that $\lambda_{0} x^{2} + \lambda_{1} y^{2} - \rho = k (b^{2} x^{2} \pm a^{2} y^{2} - a^{2} b^{2}) = 0$. In fact $k = \mp \left| \begin{matrix} a_{00} & a_{01} \\ a_{01} & a_{11} \end{matrix} \right|^{2} : \left| \begin{matrix} a_{00} & a_{01} & a_{02} \\ a_{10} & a_{11} & a_{12} \\ a_{20} & a_{21} & a_{22} \end{matrix} \right|$ where the upper sign is to be taken for the ellipse, and the lower one for the hyperbola.

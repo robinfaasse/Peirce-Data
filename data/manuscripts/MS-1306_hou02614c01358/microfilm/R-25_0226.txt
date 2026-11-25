@@ -1,0 +1,21 @@
+Essential errors of Ptolemaic system
+[fig]Circle diagram with intersecting lines and angle M[/fig] Case of no equant
+
+When $v$, true anomaly, $= 90^{\circ}$
+$\cos E_{1} = e$
+$M_{1} = \text{arc} \cos e - e \sqrt{1-e^{2}}$
+$\sqrt{1-e^{2}} = 1 - \frac{1}{2} e^{2} - \frac{1}{8} e^{4} - \text{etc}$
+$- e \sqrt{1-e^{2}} = - e + \frac{1}{2} e^{3} + \frac{1}{8} e^{5} + \text{etc}$
+$\text{arc} \cos e = \frac{1}{2} \pi - e - \frac{1}{6} e^{3} - \frac{3}{40} e^{5} - \text{etc}$
+$M_{1} = \frac{1}{2} \pi - 2e + \frac{1}{3} e^{3} + \frac{1}{20} e^{5} + \text{etc}$
+If $\varepsilon = \text{Ptolemaic eccentricity}$
+[del]the[/del] $\varepsilon = \cos M_{1} = 2e - \frac{1}{3} e^{3} - \frac{1}{20} e^{5}$ $\frac{3}{60}$ [del]32[/del] [ins]120[/ins] [del]8[/del] [ins]30[/ins] [del]4[/del] [ins]15[/ins]
+[del]$M_{1} = \text{arc} \cos \varepsilon$[/del] $- \frac{4}{3} e^{3} + \frac{2}{3} e^{5}$ $\frac{40}{60}$
+$+ \frac{4}{15} e^{5}$ $\frac{16}{}$
+$= 2e - \frac{5}{3} e^{3} + \frac{53}{60} e^{5}$
+
+$V$ Ptolemaic true anomaly at any time.
+$\sin V = \frac{[del]\cos[/del] 1}{\sqrt{1 + \varepsilon^{2} [del]+[/del] [ins]\pm[/ins] 2 \varepsilon \cos M}} \sin M \underset{[del]\text{etc}\dots[/del]}{[ins]\text{Kepler's}[/ins]} = [ins]\text{sin } M + \frac{\varepsilon}{2} \sin 2M + \frac{3}{8} \varepsilon^{2} \sin 3M[/ins]$
+$v = M + 2e \sin M + \frac{5}{4} e^{2} \sin 2M + \text{etc}$
+$D_{M} v = 1 + 2e \cos M + \frac{5}{2} e^{2} \cos 2M + \text{etc}$
+$D_{M} \sin V = (1 - \frac{1}{8} \varepsilon^{2}) \cos M + \varepsilon \cos 2M + \frac{9}{8} \varepsilon^{2} \cos 3M$

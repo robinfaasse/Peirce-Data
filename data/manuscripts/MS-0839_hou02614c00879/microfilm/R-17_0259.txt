@@ -1,0 +1,18 @@
+[pn]2[/pn] Consider the two matrices
+$$\begin{matrix} A & B & \Gamma \\ \Gamma & A & B \\ B & \Gamma & A \end{matrix} \quad \begin{matrix} Z & E & \Delta \\ E & \Delta & Z \\ \Delta & Z & E \end{matrix}$$
+
+Take $\alpha, \beta, \gamma, \delta, \varepsilon, \zeta$ as such matrices that the above two are
+$$\begin{matrix} \alpha A + \beta B + \gamma \Gamma \\ \delta \Delta + \varepsilon E + \zeta Z \end{matrix}$$
+Then we have the equation
+$$\alpha + \beta + \gamma = \delta + \varepsilon + \zeta$$
+
+It is plain that if we write
+$$h = \frac{1}{3} (\alpha + \beta + \gamma)$$
+$h^2 = h$, and $u$ being any [del]other[/del] [ins]linear[/ins] expression in $\alpha, \beta, \gamma, \delta, \varepsilon, \zeta$,
+$$hu = uh = N_u h$$
+where $N_u$ is the sum of the coefficients of $\alpha, \beta,$ $\gamma, \delta, \varepsilon, \zeta$. But it is obviously possible to find 4 mutually independent quantities for each of which $N = 0$.
+
+Let us inquire how many such quantities can be idempotents. We have, in the first place, $\gamma^2 = \beta$, $\delta^2 = \alpha$, $\gamma \delta = \zeta$, $\delta \gamma = \varepsilon$, so that
+$$[del](\delta - \gamma)^2 = (\alpha - \zeta - \varepsilon + \beta) = \delta - \gamma[/del]$$
+
+Let us, then, take $i = \delta - \gamma$, [del]Now[/del] [ins]Now $i$ is unity,[/ins] so that [del]$(\alpha - i)^2 = \alpha - i$[/del] and $i(\alpha - i) = (\alpha - i)i = 0$

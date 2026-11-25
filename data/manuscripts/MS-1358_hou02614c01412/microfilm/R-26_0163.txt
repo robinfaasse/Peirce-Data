@@ -1,0 +1,40 @@
+[marginalia]1899 Feb 17[/marginalia]
+
+[fig]right triangle with angle theta[/fig] $x \tan \theta = y$  $y$ const.
+[del]$\delta x \cdot \sec^2 \theta$[/del]
+$\delta x \tan \theta + x \sec^2 \theta \cdot \delta \theta = 0$
+$\delta \theta = - \frac{\delta x}{x} \sin \theta \cos \theta$
+$= - 2 \frac{\delta x}{ds} \sin \theta$
+
+$x = \frac{1}{2} ds \cos \theta$
+$\frac{\cos \theta}{x} = \frac{2}{ds}$
+
+$(\frac{1}{2} ds)^2 = x^2 + y^2$
+[del]$\frac{1}{2}$[/del] $ds \cdot \delta s = 2 x \delta x$
+$\delta s = \frac{2 x \delta x}{ds} = \cos \theta \cdot \delta x$
+$\delta s = \delta (\frac{1}{2} ds) = \frac{1}{2} \delta ds$
+
+[fig]triangle with side 1/2 ds and delta x[/fig]
+$(\frac{1}{2} ds + \delta s)^2 = (\frac{1}{2} ds)^2 + (\delta x)^2$
+$+ ds \cdot \delta x \cos \theta$
+$\frac{1}{2} ds + \delta s = \frac{1}{2} ds \sqrt{1 + 4 (\frac{\delta x}{ds})^2 + 4 \frac{\delta x}{ds} \cos \theta}$
+$= \frac{1}{2} ds + dx \cos \theta$
+
+[fig]triangle with delta s - ds[/fig] $y_2 = \frac{1}{2} ds \cdot \sin \theta$  $x_2 = - \frac{1}{2} ds \cos \theta$
+$d y_2 = + \delta s \sin \theta - \frac{1}{2} ds \cdot \cos \theta \cdot \delta \theta$
+$= + \delta x \sin \theta \cos \theta + \delta x \sin \theta \cos \theta$
+$= \delta x \sin 2 \theta$
+
+[fig]crossed lines[/fig] $\delta x_2 = + \delta s \cos \theta + \frac{1}{2} ds \sin \theta \delta \theta$
+$= \delta x \cos^2 \theta - \delta \sin^2 \theta$
+$= \delta x \cos 2 \theta$
+
+[fig]triangle with angle theta_2[/fig] $\tan \theta_2 = \frac{y_2}{x_2}$
+$\sec^2 \theta_2 \cdot \delta \theta_2 = \frac{\delta y_2 \cdot x_2 - \delta x_2 \cdot y_2}{x_2^2} = \delta x \frac{x_2 \sin 2 \theta - y_2 \cos 2 \theta}{x_2^2}$
+$= \delta x \frac{1}{2} ds \frac{\sin 2 \theta \cos \theta_2 - \cos 2 \theta \sin \theta_2}{(\frac{1}{2} ds)^2 \cos^2 \theta_2}$
+$\delta \theta_2 = 2 \frac{\delta x}{ds} \sin (2 \theta - \theta_2)$
+
+$(\frac{1}{2} ds_2)^2 = x_2^2 + y_2^2$
+$s \cdot ds_2 \delta s_2 = 2 x_2 \delta x_2 + 2 y_2 \delta y_2 = 2 x_2 \delta x \cos 2 \theta + 2 y_2 \delta x \sin 2 \theta$
+$= 2 \delta x (\cos 2 \theta \cos \theta_2 + \sin 2 \theta \sin \theta_2)$
+$= \frac{2 \delta x}{ds_2} \cos (2 \theta - \theta_2)$

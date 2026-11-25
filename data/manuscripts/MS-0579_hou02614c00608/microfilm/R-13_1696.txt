@@ -1,0 +1,59 @@
+```
+a ≺ b      ā + b
+
+a ≺ b ≺ c      ā + b + c
+
+(a ≺ b) ≺ c      ab + c
+
+a ≺ b ≺ c ≺ d      ā + b + c + d
+
+[marginalia]
+weak
+[/marginalia]
+a ≺ (b ≺ c) ≺ d      ā + bc + d = (ā + b)(ā + c) + d
+= [(a ≺ b) ≺ a] ≺ [(a ≺ b) ≺ c] ≺ d
+
+(a ≺ b ≺ c) ≺ d      abc + d
+
+[marginalia]
+str.
+[/marginalia]
+[(a ≺ b) ≺ c] ≺ d      (ā + b)c + d
+= [(a ≺ c) ≺ c] ≺ (b ≺ c) ≺ d
+
+
+a ≺ b ≺ c ≺ d ≺ e      ā + b + c + d + e
+
+a ≺ b ≺ (c ≺ d) ≺ e      ā + b + cd + e
+
+[marginalia]
+weak
+[/marginalia]
+(a ≺ b) ≺ (c ≺ d) ≺ e      ab + cd + e = (ab + c)(ab + d) + e
+= {[(a ≺ b) ≺ c] ≺ [a ≺ b]} ≺ {[(a ≺ b) ≺ d]} ≺ e
+
+(a ≺ b ≺ c) ≺ d ≺ e      abc + d + e
+
+[marginalia]
+weak
+[/marginalia]
+[(a ≺ b) ≺ c] ≺ d ≺ e      (ā + b)c + d + e
+= [(a ≺ d ≺ b) ≺ c] ≺ [(a ≺ d ≺ b) ≺ d] ≺ e = (ā + d + b)(c + d)
+
+(a ≺ b ≺ c ≺ d) ≺ e      abcd + e
+
+[(a ≺ b) ≺ c ≺ d] ≺ e      (ā + b)cd + e
+
+
+[marginalia]
+[del]str.[/del]
+[/marginalia]
+[del]str. (c ≺ d)[/del]
+= {[(c ≺ d) ≺ a] ≺ a} ≺ (b ≺ c ≺ d) ≺ e
+
+[marginalia]
+str.
+[/marginalia]
+[(a ≺ b ≺ c) ≺ [ins]d[/ins] ≺ [del]d[/del] [ins]d[/ins]] ≺ e      (ā + b + c)d + e
+= [(d ≺ a) ≺ a] ≺ [(d ≺ b) ≺ b] ≺ (c ≺ d) ≺ e
+```

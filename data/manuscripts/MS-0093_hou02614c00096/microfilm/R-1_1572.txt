@@ -1,0 +1,56 @@
+[pn]72[/pn] [pn]73[/pn]
+[marginalia]See p 76[/marginalia] [marginalia]See p 76[/marginalia]
+
+$$Y + \frac{1 + XY + X \frac{1 + Xt}{1 + Zt}}{1 + ZY + Z \frac{1 + Xt}{1 + Zt}}$$
+
+$$Y + \frac{(x-z)(1+Y)}{1+z+Yz}$$
+
+$$\frac{[del]Y[/del] [ins](Y)[/ins] + \frac{1 + x + xY + (x + x^2 + xYZ)t}{1 + z + Yz + (z + z^2Y + xz)t}}{[del]= (z + Y + 1) z(1 + zY + x)[/del]}$$
+
+$$\frac{[del]Y + z + Y^2z + x - z + xY[/del]}{(Y+1) - 1 + \frac{(x-z)(1+Y)}{1+z(1+Y)}}$$
+
+$$= \eta + \frac{1 + \xi t}{1 + \zeta t} \cdot \frac{1 + z(1+Y)}{1 + x + xY + (z + x^2 + xYZ)t + (1 + x + xY)\xi t + (z + x^2 + xYZ)\xi t^2}{1 + z + Yz + (1 + z + Yz)\eta t + (1 + z + Yz)\eta \zeta t + (z + z^2Y + xz)\zeta t^2}$$
+
+$$\frac{-1 - 2z(1+Y) + (1+Y) + z(1+Y)^2 + x(1+Y)}{1 + z(1+Y)}$$
+
+$$Y + \frac{(x-z)(1+Y)}{1+z(1+Y)} + \frac{1 + \frac{(2z + x^2 + xz + xYz + Yz^2}{1+z+Yz} [del]\frac{1+x+xY}{1+z+Yz}[/del] [ins]\frac{1+x^2}{2+x^2}[/ins]}{1 + z \frac{1+x+Yz}{1+z+Yz} t}$$
+
+$$\psi^{n+1} = Y + \frac{1+x\psi^n}{1+z\psi^n}$$
+
+$$(\psi^{n+1} - Y)(1+z\psi^n) = 1 + x\psi^n$$
+
+$$(z\psi^{n+1} + 1)(z\psi^n + 1) - (1+zY)(z\psi^{n+1} + 1) - x(z\psi^n + 1) - z + x \underline{= 0}$$
+
+$$\frac{p+qt}{r+st} = \eta + \frac{1+\xi t}{1+\zeta t} = \frac{p-r}{r} + \frac{1 + \frac{qr+rs-ps}{r^2} t}{1 + \frac{s}{r} t}$$
+
+$$z\psi^n + 1 = \frac{u_{n+1}}{u_n}$$
+
+$$[del]u_{n+2} - (z+1)[/del]$$
+
+$$u_{n+2} - (1+x+Yz)u_{n+1} + (x-z)u_n = 0$$
+
+$$\frac{p+qt + p\zeta t + q\zeta t^2}{r + st + r\eta t + s\eta \zeta t^2} = \frac{p-r + \frac{ps}{r} t - st}{r+st} + \frac{\frac{t}{r} + \frac{q}{r} t + \frac{s}{r} t - \frac{ps}{r^2} t}{r+st}$$
+
+$$[del]\alpha = \frac{1}{4} (1+x+Yz)^2[/del]$$
+
+$$\alpha = \frac{1}{2} (1+x+Yz) \left\{ 1 + \sqrt{1 + \frac{4(z-x)}{(1+x+Yz)^2}} \right\}$$
+
+$$= \frac{\frac{r\eta}{r} + \frac{s\eta t}{r} + r\eta t + s\eta \zeta t^2}{r + st + r\xi t + s\xi t^2} = \frac{p+qt}{r+st}$$
+
+$$Y = \frac{\alpha}{\beta} = \frac{2 + \frac{z-x}{4(1+x+Yz)^2}}{\frac{4(z-x)}{(1+x+Yz)^2}} + \frac{2}{\frac{4(z-x)}{(1+x+Yz)^2}} \sqrt{1 + \frac{4(z-x)}{(1+x+Yz)^2}}$$
+
+$$z\psi^{n+1} - 1 = \frac{1 + \alpha \psi^t}{1 + \beta \psi^t}$$
+
+$$= \frac{(1+x+Yz)^2 + 2z-2x}{2x-2z} + \frac{(1+x+Yz)^2}{2(z-x)} \sqrt{1 + \frac{4(z-x)}{(1+x+Yz)^2}}$$
+
+$$= -1 + \frac{(1+x+Yz)^2}{2(z-x)} \left( -1 + \sqrt{1 + \frac{4(z-x)}{(1+x+Yz)^2}} \right)$$
+
+$$\frac{p-r}{r} = \eta \quad \frac{(q + s - \frac{ps}{r})\zeta = s\xi}{(q/s + 1 - \frac{p}{r})\zeta = \xi}$$
+
+$$q + p\zeta = \frac{sp}{r} - s + p\zeta + r\zeta + s + (qr + r - p)\zeta$$
+
+$$q - \frac{sp}{r} + s = (-x + \frac{qr}{r} + r - p)\zeta$$
+
+$$\frac{s(qr-sp)}{r(qr-sp)} = \frac{s}{r} = \zeta \quad \frac{s}{qr+rs-rs} = \xi$$
+
+[fig]A hand-drawn loop or curve on the lower left page.[/fig]

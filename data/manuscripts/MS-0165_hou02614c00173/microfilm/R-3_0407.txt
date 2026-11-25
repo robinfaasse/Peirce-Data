@@ -1,0 +1,36 @@
+[pn]180[/pn]
+
+These give,
+$60 - \unicode{x2640} - \unicode{x2643} - \unicode{x2641} = 40 - \unicode{x2640}$, or $20 - \unicode{x2643} - \unicode{x2641} = 0$,
+$60 - \unicode{x2640} - \unicode{x2643} - \unicode{x2641} = 45 - \unicode{x2643}$, or $15 - \unicode{x2640} - \unicode{x2641} = 0$,
+$60 - \unicode{x2640} - \unicode{x2643} - \unicode{x2641} = 36 - \unicode{x2641}$, or $24 - \unicode{x2640} - \unicode{x2643} = 0$.
+
+[del]So to[/del] Solving for $\unicode{x2640}$,
+$\unicode{x2640} = 15 - \unicode{x2641}$,
+$\unicode{x2640} = 24 - \unicode{x2643}$.
+
+Equating, $15 - \unicode{x2641} = 24 - \unicode{x2643}$.
+Also, $20 - \unicode{x2643} - \unicode{x2641} = 0$.
+
+Solving for $\unicode{x2643}$,
+$\unicode{x2643} = \frac{9 + \unicode{x2641}}{[del]1 - 9[/del]}$,
+$\unicode{x2643} = 20 - \unicode{x2641}$.
+
+Whence,
+[del]$\unicode{x2640} + \unicode{x2641} = 20 - \unicode{x2641}$,[/del]
+or $\unicode{x2641} = \frac{[del]20 + (-1)[/del]}{[del]1 - (-1)[/del]} = [del]10\frac{1}{2}[/del] \frac{20 - 9}{1 - (-1)} = 5\frac{1}{2}$.
+
+[del]Substituting[/del] in the two values of $\unicode{x2643}$
+$\unicode{x2643} = \frac{9 + 5\frac{1}{2}}{[del]1 - 1[/del]} = [del]9\frac{1}{2}[/del] 14\frac{1}{2}$,
+$\unicode{x2643} = 20 - [del]5\frac{1}{2}[/del] = [del]9\frac{1}{2}[/del] 14\frac{1}{2}$.
+
+Substituting in the two values of $\unicode{x2640}$, and the other equation between $\unicode{x2643}$ and $\unicode{x2641}$
+[del]$20 - 10\frac{1}{2} - 9\frac{1}{2} = 0$[/del] [del]$20 - 5\frac{1}{2} - 14\frac{1}{2} - 5\frac{1}{2} = 0$,[/del]
+[del]$\unicode{x2640} = 15 - 10\frac{1}{2} = 4\frac{1}{2}$[/del] $\unicode{x2640} = 15 - 5\frac{1}{2} = 9\frac{1}{2}$,
+[del]$\unicode{x2640} = [del]24 - 14\frac{1}{2} = 9\frac{1}{2}[/del] = 4\frac{1}{2}$[/del] $\unicode{x2640} = 24 - 14\frac{1}{2} = 9\frac{1}{2}$.
+
+Substituting in the four values of $\unicode{x2609}$,
+[del]$\unicode{x2609} = 60 - 4\frac{1}{2} - 9\frac{1}{2} - 10\frac{1}{2} = 35\frac{1}{2}$[/del] $\unicode{x2609} = 60 - 9\frac{1}{2} - 14\frac{1}{2} - 5\frac{1}{2} = 30\frac{1}{2}$,
+[del]$= 40 - 4\frac{1}{2} = 35\frac{1}{2}$[/del] $\unicode{x2609} = 40 - 9\frac{1}{2} = 30\frac{1}{2}$,
+[del]$= 45 - 9\frac{1}{2} = 35\frac{1}{2}$[/del] $\unicode{x2609} = 45 - 14\frac{1}{2} = 30\frac{1}{2}$,
+[del]$= 36 - 10\frac{1}{2} = 35\frac{1}{2}$[/del] $\unicode{x2609} = 36 - 5\frac{1}{2} = 30\frac{1}{2}$.

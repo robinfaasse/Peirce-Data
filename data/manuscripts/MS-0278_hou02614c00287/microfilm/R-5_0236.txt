@@ -1,0 +1,62 @@
+[marginalia]
+Imag
+Real
+[/marginalia]
+
+$$\begin{array}{r}
++ a + i \\
+- a + i \\
++ b + j \\
+- b + j \\
+\hline
+2(i+j)
+\end{array} \quad \begin{array}{l}
+-a^2 + i^2 + 4ij \\
+-b^2 + j^2 \\
+\hline
+[del]\text{?}[/del]
+\end{array}$$
+
+$$\begin{array}{l}
+\quad -a^2 + i^2 \\
+\quad -b^2 + j^2 \\
+\hline
+-a^2 + i) \ a^2b^2 - a^2j^2 - b^2i^2 + i^2j^2 \ \left( \begin{array}{l} ab^2 + aj^2 [del]= b^2i[/del] + ij^2 \\ -a b^2 + a j^2 [del]+ b^2i[/del] + i j^2 \end{array} \right. \\
+\quad \underline{\cdot a^2b^2 - a b^2i} \\
+\quad -a^2j^2 [del]+ a b^2i[/del] - b^2i^2 + i^2j^2 \\
+\quad \underline{-a^2j^2 + a i j^2} \\
+\quad + a b^2i [del]- a i j^2[/del] - b^2i^2 + i^2j^2 \\
+\quad \underline{+ a b^2i \qquad \qquad [del]*[/del] b^2i^2}
+\end{array}$$
+
+$$\begin{array}{l}
+-2b^2i + 2ij^2 \\
+-2a^2j + 2i^2j
+\end{array}$$
+
+$$\begin{array}{l}
+A = 2(i+j) \\
+B = -(a^2+b^2) \\
+C = -2(a^2j+b^2i) \\
+D = a^2b^2
+\end{array}$$
+
+$$\begin{array}{l}
+[del]\text{?}[/del] \sqrt{-B + 2\sqrt{D}} = a+b \\
+\sqrt{-B - 2\sqrt{D}} = a-b
+\end{array} \quad \begin{array}{l}
+B^2 = a^4 + 2a^2b^2 + b^4 \\
+\sqrt{B^2-4D} = a^2 - b^2
+\end{array}$$
+
+$$\pm \sqrt{-B \pm \sqrt{B^2-4D}}$$
+
+$$\pm \sqrt{B \pm \sqrt{B^2-4D}} \cdot \sqrt{-1}$$
+
+$$\begin{array}{l}
+\frac{1}{2}A = i + j \\
+C = -2\alpha^2j - 2\beta^2i \\
+-2\alpha^2(\frac{1}{2}A) = -2\alpha^2i - 2\alpha^2j \\
+C + 2\alpha^2(\frac{1}{2}A) = [del]2[/del](\alpha^2-\beta^2)i \\
+i = \frac{C + 2\alpha^2(\frac{1}{2}A)}{2(\alpha^2-\beta^2)}
+\end{array}$$

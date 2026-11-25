@@ -1,0 +1,24 @@
+[u]proposition[/u]
+$(a \prec b) \prec a \prec c$
+
+By Rule III from this follows $b \prec a \prec c$. But further from the latter the former follows. For by prop. B, this is true provided
+$(b \prec a \prec c) \prec (a \prec b) \prec a \prec c$
+or
+$a \prec (a \prec b) \prec (a \prec b \prec c) \prec c$.
+
+But, by prop. A, this holds; for if $a$ and $a \prec b$ are true, $b$ is true; and if $a$ and $b$ and $a \prec b \prec c$ are true, $c$ is true.
+
+Next consider the proposition
+$[(a \prec b) \prec c] \prec a \prec d$.
+
+By Rule III this follows from $(b \prec c) \prec a \prec d$. But further the latter follows from the former. For this is true provided
+$\{[(a \prec b) \prec c] \prec a \prec d\} \prec (b \prec c) \prec a \prec d$
+[del]For[/del] This is true; for the principle of contraposition gives
+$(a \prec b) \prec (b \prec c) \prec a \prec c$
+or
+$(b \prec c) \prec a \prec (a \prec b) \prec c$
+Thus if $a$ and $(b \prec c)$ are true $(a \prec b) \prec c$ is true and if further $[a \prec b) \prec c] \prec a \prec d$ is true, $d$ is true.
+
+Now, every case of repeated antecedent [ins]of the kind defined by the rule[/ins] is evidently reducible to one of these cases.
+
+Now consider the cases of a letter repeated as antecedent and consequent. Take first the proposition

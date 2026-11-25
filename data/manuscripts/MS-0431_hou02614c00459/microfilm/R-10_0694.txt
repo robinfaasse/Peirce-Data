@@ -1,0 +1,15 @@
+[pn]Logic
+III
+136[/pn]
+
+position and aggregation are commutative and associative.
+
+Given [u]a·b[/u], we can, by insertion, write [u]b·a·b[/u], [del]being for[/del] if [u]a·b[/u] is [u]v[/u], so is [u]b[/u], and if [u]b[/u] and [u]a·b[/u] are [u]v[/u], so is [u]b·a·b[/u]. But then by omission, we get [u]b·a[/u]. For if [u]b·a·b[/u] is [u]v[/u], so is [u]a·b[/u] and if [u]a·b[/u] is [u]v[/u], so is [u]a[/u]. Therefore, if [u]b·a·b[/u] is [u]v[/u], so is [u]b[/u]; and if both [u]b[/u] and [u]a[/u] are [u]v[/u], so is [u]b·a[/u].
+
+Again given [u](a·b)·c[/u], we get, by insertion [u](b·b·c)·c[/u]. For if [u](a·b)·c[/u] is [u]v[/u], [del]so are both [u]a·b[/u] and [u]c[/u]; and[/del] [ins]is[/ins] if [u]c[/u] is [u]v[/u], [u]b·c[/u] is [u]v[/u], if [u]b[/u] is [u]v[/u]; and if [u]a·b[/u] is [u]v[/u] if [u]a·b[/u] is [u]v[/u], and if [u](a·b)·c[/u] is [u]v[/u], so is [u](a·b·c)·c[/u]. But then by omission we get [u]a·b·c[/u].
+
+Series composition has these properties, so, by [u]XVI[/u] has aggregation.
+
+[u]XVIII[/u]. The negative of a component may be introduced into any part of [del]the[/del] [ins]its[/ins] composite as an aggregant, without loss of truth.
+
+[u]Demonstration[/u]. For if [u]a[/u] has the value [u]v[/u], its negative is [u]f[/u], and as an aggregant can affect the value of nothing.

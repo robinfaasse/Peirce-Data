@@ -1,0 +1,235 @@
+[fig]crossed out diagram[/fig]
+[del]10101
+101[/del]
+10000
+10110
+10
+
+1000
+100
+10
+1
+
+1111
+10000
+
+[del]1010[/del]
+[fig]small diagram[/fig]
+
+10010
+10100
+10
+
+64
+32
+16
+8
+4
+2
+
+[del]$\frac{n(n-1)}{2}$[/del]
+$\frac{n(n-1)}{2} - 1$
+
+[fig]branching diagram[/fig]
+
+AB
+C
+D
+E  AF
+BC
+D
+E  BF
+CD
+E  CF
+DE
+DF
+EF
+
+11
+5+1
+
+$15
+
+AB
+C
+D
+BC
+D
+CD
+
+6
+10
+5
+15
+21
+28
+
+[del]62 + 1[/del]
+11 + 1
+5 + 2
+3 + 1
+2
+1
+[u]34[/u]
+
+88
+
+[u]hexadic[/u]
+15  15  1[sup]st[/sup] introd
+7   7   2[sup]nd[/sup] introd & 1 first left over
+4
+1
+[u]   [/u]
+28  [u]made[/u]
+
+[u]heptad[/u]
+21  21  1[sup]st[/sup] introd
+10  10  2[sup]nd[/sup] introd  1 left over
+5   5   3[sup]rd[/sup] introd  1 left over
+3   3   4 introd
+1
+[u]   [/u]
+40
+
+[u]octad[/u]
+28  28  1[sup]st[/sup] introd
+14  14  2[sup]nd[/sup] "
+7   7   3[sup]rd[/sup] "  1 left over
+3   3   4   "  1 left over
+1   1   5   "
+
+[fig]small diagram[/fig]
+
+A B [fig]curved arrows[/fig] D E
+
+$\frac{n(n-1)}{2}$
+
+$\frac{n(n-1)}{4}$  $\frac{n(n-1)}{2}$
+
+10
+45  22 + 1
+11 + 1
+5 + 2
+3 + 1
+2
+[u]1[/u]
+127
+128
+
+64
+32
+16
+8
+4
+2
+[u]1[/u]
+127
+128
+
+65
+32 + 1
+16 + 1
+8 + 1
+4 + 1
+2 + 1
+[u]1[/u]
+128
+130
+
+66
+33
+16 + 1
+8 + 1
+4 + 1
+2 + 1
+[u]1[/u]
+130
+132
+
+67
+33 + 1
+17
+8 + 1
+4 + 1
+2 + 1
+[u]1[/u]
+132
+134
+
+68
+34
+17
+9 + 1
+4 + 1
+2 + 1
+[u]1[/u]
+134
+136
+
+45
+22 $\frac{1}{2}$
+11 $\frac{1}{4}$
+5 $\frac{5}{8}$
+2 $\frac{13}{16}$
+1
+[u]   [/u]
+88
+
+45
+22 + 1
+11 + 1
+6
+3
+[u]1[/u]
+88
+
+$\frac{n(n-1)}{2}$  69
+$\frac{n(n-1)}{4}$  $\frac{n(n-1)}{4} - 1$
+
+2[sup]n[/sup]  2[sup]n[/sup] - 1
+2[sup]n-1[/sup] - $\frac{n-1}{2}$
+
+2  0
+3  4
+4  10
+5  18  8  2
+6  28  10  2
+7  40  12  2
+8  54  14
+
+$ax^2 + bx + c = y$
+$10 + (n-4)8 + \frac{(n-4)(n-5)}{2}$
+
+A B C D
+AB
+C
+D
+BC
+D
+CD
+
+A B C D E
+
+[fig]branching diagram[/fig]
+
+10
+5
+2
+[u]1[/u]
+18
+
+10
+18
+26 + 2 = 28
+34 + 6 = 40
+42 + 12 = 54
+
+10 + 8n
+- 9n + n[sup]2[/sup]
+-32
+20
+
+n[sup]2[/sup] - n - 2
+16  25  36  49  64
+6   7   8   9   10
+10  18  28  40  54

@@ -1,0 +1,25 @@
+$$Y = y \left(\Sigma x^{2}\right)^{-1}$$
+
+$$\frac{\partial Y}{\partial x} = [del]\frac{}{\left(\Sigma x^{2}\right)^{2}}[/del] -2xy \left(\Sigma x^{2}\right)^{-2}$$
+
+$$\frac{\partial^{2} Y}{\partial x^{2}} = -2y \left(\Sigma x^{2}\right)^{-2} + 8x^{2}y \left(\Sigma x^{2}\right)^{-3}$$
+$$= 2 \left([del]3[/del]x^{2} - [del]4[/del]y^{2} - [del]4[/del]z^{2}\right) y \left(\Sigma x^{2}\right)^{-3}$$
+
+$$2 \frac{\partial S}{\partial x} \frac{\partial Y}{\partial x} = [del]1[/del] -8 \mathcal{N} x^{2} y \left(\Sigma x^{2}\right)^{\mathcal{M}-3}$$
+
+$$S \frac{\partial^{2} Y}{\partial x^{2}} = 2 \left(3x^{2} - [del]2[/del]y^{2} - [del]2[/del]z^{2} - [del]etc[/del]\right) y \left(\Sigma x^{2}\right)^{\mathcal{M}-3}$$
+
+$$2 \frac{\partial S}{\partial x} \frac{\partial Y}{\partial x} + S \frac{\partial^{2} Y}{\partial x^{2}} = 2 \left[\left([del]\frac{3}{3-4\mathcal{N}}[/del]\right) x^{2} - y^{2} - z^{2} - etc\right] y \left(\Sigma x^{2}\right)^{\mathcal{M}-3}$$
+
+$$2 \left[ \left(-2\mathcal{N}+1\right) x^{2} + \left(2\mathcal{N}-3\right) y^{2} + \left(2\mathcal{N}-3\right) z^{2} \right] y \left(\Sigma x^{2}\right)^{\mathcal{M}-3}$$
+$$2 \left[ [del]-4[/del]x^{2} + \left(3-4\mathcal{N}\right) y^{2} - [del]4[/del]z^{2} \right] y \left(\Sigma x^{2}\right)^{\mathcal{M}-3}$$
+$$- [del]4[/del]y^{2}$$
+
+<hr/>
+
+$$[del]\frac{}{\left(-2\mathcal{N}+1-2\left(\mathcal{M}-1\right)x^{2} + \left(-2-2\left(\mathcal{M}-2\right)\right)y^{2}\right)}[/del]$$
+$$[del]-4[/del]$$
+$$\left[-2\mathcal{N}-1-2\left(\mathcal{M}-2\right)\right]y^{2}$$
+
+$$-2\mathcal{N}+2-\mathcal{M}$$
+$$-2\mathcal{N}-\mathcal{M}+2$$

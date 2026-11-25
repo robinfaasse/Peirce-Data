@@ -1,0 +1,13 @@
+$$x = A \sin \frac{t}{T} \partial + a \cos \theta, \quad y = a \sin \theta,$$
+we shall have
+$$u = A \frac{\partial}{T} \cos \frac{t}{T} \partial, \quad [del]\underline{v}[/del] [ins]\underline{y}[/ins] = 0.$$
+
+For all these points, therefore,
+$$u = \frac{\partial}{T} \sqrt{A^{2} - (x - \sqrt{a^{2} - y^{2}})^{2}} \quad v = 0$$
+
+or putting
+$$x + iy = \eta, \quad x - iy = \xi$$
+$$u = \frac{\partial}{T} \sqrt{A^{2} - \left\{ \frac{1}{2}(\eta + \xi) - \sqrt{a^{2} + \frac{1}{4}(\eta - \xi)^{2}} \right\}^{2}}$$
+
+when $\eta$ and $\xi$ have any [ins]such[/ins] values that
+$$\eta = A \sin \frac{t}{T} \partial + a \mathcal{O}^{i\theta} \quad \xi = A \sin \frac{t}{T} + a \mathcal{O}^{-i\theta}$$

@@ -1,0 +1,32 @@
+[fig]Line segment with points A, B, and xi[/fig]
+
+$x^2 + y^2 = R^2$
+$y^2 = R^2 - x^2$
+
+$\frac{(A-x)^2 + R^2 - x^2}{(B-x)^2 + R^2 - x^2} = \frac{[del]A^2 + R^2 - 2Ax[/del]}{[del]B^2 + R^2 - 2Bx[/del]} = \frac{R^2 + A^2 - 2Ax}{R^2 + B^2 - 2Bx}$
+
+$\frac{A}{B} = \frac{R^2 + A^2}{R^2 + B^2} = \frac{M^2}{N^2}$
+
+$AR^2 + AB^2 = BR^2 + A^2B$
+$(A-B)R^2 = (A-B)AB$
+$R^2 = AB$
+
+$\frac{A - \xi_1}{\xi_1 - B} = \frac{A - \xi_2}{B - \xi_2}$
+
+$AB - A\xi_2 - B\xi_1 + \xi_1\xi_2$
+$= -AB + A\xi_1 + B\xi_2 - \xi_1\xi_2$
+
+$2(\xi_1 + \xi_2)(A+B) = 2(AB + \xi_1\xi_2)$
+
+$A - \xi_1 : \xi_1 - B = A - \xi_2 : B - \xi_2$
+
+$AB - A\xi_2 - B\xi_1 + \xi_1\xi_2$
+$= -AB + A\xi_1 + B\xi_2 - \xi_1\xi_2$
+
+$(A+B)(\xi_1 + \xi_2) = 2(AB + \xi_1\xi_2)$
+$2(A+B)(\xi_1 + \xi_2) = 4AB + 4\xi_1\xi_2$
+$2(A+B) = \xi_1 + \xi_2$
+
+$\xi_1 - \xi_2 = 2R$
+$\xi_1^2 - 2\xi_1\xi_2 + \xi_2^2 = 4R^2 = 4AB$
+$4AB + 4\xi_1\xi_2 = (\xi_1 + \xi_2)^2$

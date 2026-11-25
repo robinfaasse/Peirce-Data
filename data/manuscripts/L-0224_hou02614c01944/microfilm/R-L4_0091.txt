@@ -1,0 +1,29 @@
+To W.J. [pn]3[/pn]
+
+[u]definition holds no matter what class of ordered pairs r refers to.[/u] If then
+we suppose that there is a particular class of ordered pairs of which
+something is true, we do not explicitly [del]contradict[/del] [ins]make it conform to[/ins] the definition. Yet it may
+be such a supposition that it becomes absurd to suppose the collection
+inenumerable. Let us see how that happens. Suppose, for instance, there
+is a class of ordered pairs, such that no [del]two[/del] As [del]are[/del] [ins]is[/ins] [u]s[/u] to two different A,
+and another class of ordered pairs such that no A is [u]t[/u] to two different As.
+Suppose however there is an A [del]such that every other A is either s to it or[/del] [ins]that is either [u]s[/u] or [u]t[/u] to every other A.[/ins] Then,
+there are (as we see without any logical rules) only 3 As at most, and therefore
+it must now be absurd to say that the As are inenumerable. But how
+does this impossibility arise? The new premises are
+$$\Pi_u \Pi_v \Pi_w \bar{s}_{uv} \text{ + } \bar{s}_{uw} \text{ + } l_{vw}$$
+$$\Pi_x \Pi_y \Pi_z \bar{t}_{xy} \text{ + } \bar{t}_{xz} \text{ + } l_{yz}$$
+$$\Sigma_s \Pi_g l_{sg} \text{ + } s_{sg} \text{ + } t_{sg}$$
+
+This last proposition must be raised to the third power, giving (the $\Sigma$ preceding
+the $\Pi$)
+$$\Sigma_s \Pi_g \Pi_{g'} \Pi_{g''} (l_{sg} \text{ + } s_{sg} \text{ + } t_{sg}) \cdot (l_{sg'} \text{ + } s_{sg'} \text{ + } t_{sg'}) \cdot (l_{sg''} \text{ + } s_{sg''} \text{ + } t_{sg''})$$
+$$= [del]l_{sg} l_{sg'} l_{sg''} \text{ + } s_{sg} s_{sg'} T[/del]$$
+$$\prec l_{sg} \text{ + } l_{sg'} \text{ + } l_{sg''} \text{ + } s_{sg} \cdot s_{sg'} \text{ + } s_{sg} \cdot s_{sg''} \text{ + } t_{sg'} \cdot t_{sg''} \text{ + } s_{sg'} \cdot s_{sg''} \text{ + } [del]t_{sg} \cdot t_{sg''} \text{ + } t_{sg} \cdot t_{sg'}[/del]$$
+
+We now multiply in the first two of the new premises three times each, and identifying
+$u$ with $s$, $v$ with $g$, $w$ with $g'$, $u'$ with $s$, $v'$ with $g$, $w'$ with $g''$, $x$ with $s$, $y$ with $g'$,
+$z$ with $g''$ etc we get
+$$\Sigma_s \Pi_g \Pi_{g'} \Pi_{g''} l_{sg} \text{ + } l_{sg'} \text{ + } l_{sg''} \text{ + } l_{gg'} \text{ + } l_{gg''} \text{ + } l_{g'g''}.$$
+
+Now multiplying in the proposition $\Pi_5 \Sigma_4 r_{45}$, and identifying $g''$ with $4$ and

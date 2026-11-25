@@ -1,0 +1,26 @@
+[u]To take Moon's Place from Ephemeris[/u]
+
+Here there are given the differences for $1^{m}$.
+
+Now suppose
+$$f = a + bt + ct^{2} + dt^{3}$$
+
+This is given for hours, & the differences for $1^{m}$ are therefore
+$$\frac{1}{60} D_{t} f = \frac{1}{60} b + \frac{2}{60} ct + \frac{3}{60} dt^{2}$$
+
+For $t = 0, 1, 2$ these give
+$$\begin{array}{lll}
+\frac{1}{60} b & & \\
+\frac{1}{60} b + \frac{2}{60} c + \frac{3}{60} d & \frac{2}{60} c + \frac{3}{60} d & \\
+\frac{1}{60} b + \frac{4}{60} c + \frac{9}{60} d & \frac{2}{60} c + \frac{6}{60} d & \frac{3}{60} d
+\end{array}$$
+
+Then [del]the diff[/del] the value for $t$, we may do as follows
+$$a + t \left( \frac{1}{60} b + \frac{1}{2} t \left( \frac{2}{60} c + \frac{3}{60} d \right) \right)$$
+$$= a + bt + 2ct^{2} + \frac{3}{2} dt^{2}$$
+
+Then the correction of this is
+$$dt^{2} (t - \frac{3}{2}) \quad \text{This can never be greater than } \frac{3}{2} d \text{ or than}$$
+$\frac{\frac{3}{2} d}{\frac{3}{60} d} = 30$ times the second difference of the differences for one minute.
+
+[fig]Table of values for t, t^2(t-3/2), and dt^2(t-3/2)/(3/60 d)[/fig]

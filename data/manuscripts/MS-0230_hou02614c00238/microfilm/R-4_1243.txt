@@ -1,0 +1,47 @@
+[del]$a^3$[/del] $a^3 = x^3 + 3x^2y + 3xy^2 + y^3$
+$+ 3x^2z + 6xyz + 3y^2z$
+$+ 3xz^2 + 3yz^2 + z^3$
+
+$b = xy + xz + yz - a^2 - b^2 - c^2$
+$-ab = x^2y + x^2z + xyz - a^2x - b^2x - c^2x$
+$+ xy^2 + xyz - a^2y - b^2y - c^2y$
+$+ xy^2 + [del]y^2z[/del] [ins]$xyz$[/ins] + yz^2 - a^2z - b^2z - c^2z$
+$+ xz^2 + yz^2$
+
+$a^2 = x^2 + y^2 + z^2 + 2xy + 2xz + 2yz$
+
+$+\frac{1}{9}a^2 = \frac{1}{9}x^2 + \frac{1}{9}y^2 + \frac{1}{9}z^2 + \frac{2}{9}xy + \frac{2}{9}xz + \frac{2}{9}yz$
+$- \frac{3}{9}xy - \frac{3}{9}xz - \frac{3}{9}yz$
+$+ \frac{1}{3}a^2 + \frac{1}{6}b^2 + \frac{1}{3}c^2$
+
+$\left( \frac{1}{9}x^2 + \frac{1}{9}y^2 + \frac{1}{9}z^2 - \frac{1}{9}xy - \frac{1}{9}xz - \frac{1}{9}yz \right)^2$
+$+ \frac{1}{3}a^2 + \frac{1}{6}b^2 + \frac{1}{3}c^2$
+
+---
+
+$\frac{2}{27}a^3 = \frac{2}{27}x^3 + \frac{2}{27}y^3 + \frac{2}{27}z^3$
+$+ \frac{2}{9}x^2y + \frac{2}{9}x^2z + \frac{2}{9}xy^2 + \frac{2}{9}xz^2$
+$+ \frac{2}{9}y^2z + \frac{2}{9}yz^2 + \frac{4}{9}xyz$
+
+$-\frac{1}{3}ab = + \frac{1}{3}x^2y + \text{etc} + \frac{2}{9}xyz$
+$- \frac{1}{3}a^2x - \frac{1}{6}b^2x - \frac{1}{3}c^2x$
+$- \frac{1}{3}a^2y$
+$- \frac{1}{3}a^2z$
+$\text{etc}$
+
+$c + a^2x + b^2y + c^2z$
+
+$-\frac{9}{9}xyz$
+$- 2abc$
+
+---
+
+$- \frac{2}{27}x^3 - \frac{2}{27}y^3 - \frac{2}{27}z^3$
+$+ \frac{1}{9}x^2y + \frac{1}{9}x^2z + \frac{1}{9} - \frac{4}{9}xyz$
+$+ \frac{1}{9}xy^2 + \frac{1}{9}xz^2$
+$+ \frac{1}{9}y^2z + \frac{1}{9}yz^2$
+
+$+ \frac{2}{3}a^2x + \frac{2}{3}b^2y + \frac{2}{3}c^2z$
+$- \frac{1}{3}b^2x - \frac{1}{3}a^2y - \frac{1}{3}a^2z$
+$- \frac{1}{3}c^2y - \frac{1}{3}c^2y - \frac{1}{3}b^2z$
+$- 2abc$

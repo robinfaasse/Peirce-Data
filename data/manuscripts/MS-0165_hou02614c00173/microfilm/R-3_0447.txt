@@ -1,0 +1,35 @@
+[pn]200[/pn]
+
+[u]Art 79[/u]. [u]Examples[/u]
+
+87. Two drapers, [del]each[/del] [ins]A and B[/ins] have the same cloth, but B has 3 yards more of it than has A. They sell at different prices and their aggregate receipts are $35. A says, "At my price, I should have received $24 for your piece." B replies, "At my price, what you had would only have fetched $12.50." Let $x$ be A's yards. Then B's were $x+3$.
+
+A's price [del]per yd[/del] [ins]per yd[/ins] was $\frac{\$24}{x+3}$
+B's " " " $\frac{\$12.50}{x}$
+
+Now the aggregate receipts were
+$x \frac{\$24}{x+3} + (x+3) \frac{\$12.50}{x} = \$35$
+
+We multiply by $x(x+3)$ to clear from fractions, and so find,
+
+$x^2 \$24 + (x+3)^2 \$12.50 = [del]\$35[/del] x(x+3) \$35$.
+
+or $x^2 \$24 + (x^2 + 6x + 9) \$12.50 = (x^2 + 3x) \$35$
+
+or
+
+[del]$x^2 \$1.50 - x \$30 + \$112.50 = 0$[/del]
+
+or [del]$x^2 - 20x + 75 = 0$[/del]
+
+[del]$x = 30 \pm \sqrt{1089 - 225} = 33 \pm \sqrt{864} = 33 \pm 12\sqrt{6}$[/del]
+
+$x^2 - 20x + 75 = 0$
+
+$x = 10 \pm \sqrt{100 - 75} = 10 \pm 5$
+
+That is $x = 5$ or $x = 15$. In the first case the receipts were
+$5 \frac{\$24}{8} + 8 \frac{\$12.50}{5} = [del]\$15 +[/del] 5 \times \$3 + 8 \times \$2.50 = \$15 + \$20 = \$35$
+
+In the other case
+$15 \frac{\$24}{18} + 18 \frac{\$12.50}{15} = 15 \$1.33\frac{1}{3} + 18 \$0.83\frac{1}{3} = \$20 + \$15 = \$35$

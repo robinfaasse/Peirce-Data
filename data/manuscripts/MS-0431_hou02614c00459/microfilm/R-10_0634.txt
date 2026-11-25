@@ -1,0 +1,24 @@
+[pn]Logic
+S/III
+76[/pn]
+
+[u]f[/u] o [u]f[/u] = [u]v[/u] but [u]f[/u] o [u]v[/u] = [u]v[/u] o [u]f[/u], the sign is still associative.
+[u]v[/u] o ([u]v[/u] o [u]v[/u]) = ([u]v[/u] o [u]v[/u]) o [u]v[/u],
+as above.
+[u]f[/u] o ([u]f[/u] o [u]f[/u]) = [u]f[/u] o [u]v[/u], ([u]f[/u] o [u]f[/u]) o [u]f[/u] = [u]v[/u] o [u]f[/u] = [u]f[/u] o [u]v[/u].
+[del][u]v[/u] o ([u]v[/u] o [u]f[/u])[/del]
+
+If [u]f[/u] o [u]v[/u] = [u]v[/u] o [u]f[/u] = [u]v[/u],
+[u]v[/u] o ([u]v[/u] o [u]f[/u]) = [u]v[/u] o [u]v[/u] = [u]v[/u], ([u]v[/u] o [u]v[/u]) o [u]f[/u] = [u]v[/u] o [u]f[/u] = [u]v[/u]
+[u]v[/u] o ([u]f[/u] o [u]f[/u]) = [u]v[/u] o [u]v[/u] = [u]v[/u] ([u]v[/u] o [u]f[/u]) o [u]f[/u] = [u]v[/u] o [u]f[/u] = [u]v[/u];
+[u]f[/u] o ([u]f[/u] o [u]v[/u]) = [u]f[/u] o [u]v[/u] = [u]v[/u] ([u]f[/u] o [u]f[/u]) o [u]v[/u] = [u]v[/u] o [u]v[/u] = [u]v[/u];
+[u]f[/u] o ([u]v[/u] o [u]v[/u]) = [u]f[/u] o [u]v[/u] = [u]v[/u] ([u]f[/u] o [u]v[/u]) o [u]v[/u] = [u]v[/u] o [u]v[/u] = [u]v[/u]
+
+If [u]f[/u] o [u]v[/u] = [u]v[/u] o [u]f[/u] = [u]f[/u],
+[u]v[/u] o ([u]v[/u] o [u]f[/u]) = [u]v[/u] o [u]f[/u] = [u]f[/u], ([u]v[/u] o [u]v[/u]) o [u]f[/u] = [u]v[/u] o [u]f[/u] = [u]f[/u];
+[u]v[/u] o ([u]f[/u] o [u]f[/u]) = [u]v[/u] o [u]v[/u] = [u]v[/u], ([u]v[/u] o [u]f[/u]) o [u]f[/u] = [u]f[/u] o [u]f[/u] = [u]v[/u];
+[u]f[/u] o ([u]f[/u] o [u]v[/u]) = [u]f[/u] o [u]f[/u] = [u]v[/u], ([u]f[/u] o [u]f[/u]) o [u]v[/u] = [u]v[/u] o [u]v[/u] = [u]v[/u];
+[u]f[/u] o ([u]v[/u] o [u]v[/u]) = [u]f[/u] o [u]v[/u] = [u]f[/u], ([u]f[/u] o [u]v[/u]) o [u]v[/u] = [u]f[/u] o [u]v[/u] = [u]f[/u].
+
+That [u]v[/u] o ([u]f[/u] o [u]v[/u]) = ([u]v[/u] o [u]f[/u]) o [u]v[/u], and ([u]f[/u] o [u]v[/u]) o [u]f[/u] = [u]f[/u] o ([u]v[/u] o [u]f[/u])
+is obvious, because the sign is commutative. It is now proved.

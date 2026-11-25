@@ -1,0 +1,37 @@
+(since [del]1[/del] [ins]1[/ins] = 1) "smaller" and Gauss
+himself does so at first, and then
+changes to "not greater" a few pages
+furtheron. You see, therefore, that
+it is not divisor but non-divisor
+that is the important idea; and
+this can be defined. Namely the
+non-divisors of N as small as N
+are all those integers not greater
+than N, that are not products
+of integers with factors of N. They
+the non-divisors of ninety are
+odd numbers, not divisible by
+any prime factor (2,3,5) of 90
+nor greater than 90; that is, they are
+1, 7, 11, 13, 17, 19, 23, 29, [del]31[/del]
+31, 37, 41, 43, 47, 49, 53, 59
+61, 67, 71, 73, 77, 79, 81, 89 and the count
+of 90 or [del]τ[/del] 90 = 24 = 90 · [del]1[/del]/2 · [del]2[/del]/3 · 4/5 so
+τ6 = 6 · 1/2 · 2/3 = 2 τ5 = 5 · 4/5 = 4 τ4 = 4 · 1/2 = 2
+τ3 = 3 · 2/3 = 2 τ2 = 2 · 1/2 = 1 τ1 = 1 · [del]0[/del]/1 = 0
+
+In general, if the prime [del]factors[/del] [ins]divisors[/ins] [del]divisors[/del] of N are p₁, p₂ p₃ etc
+then τN = N · [u]p₁-1[/u]/p₁ · [u]p₂-1[/u]/p₂ · [u]p₃-1[/u]/p₃ etc, only when N is prime
+it must be considered, for this purpose, [del]of[/del] its own factor
+For that reason I should have said that p₁ p₂ etc are the
+prime divisors of N, But I am getting fatigued.
+
+The only thing among my "four truths" that you
+will find any difficulty in proving is that if p is [ins]odd prime[/ins] [del]any prime[/del]
+F(p-1) is divisible by p. This is an immediate consequence
+of the celebrated proposition that generally goes by the name
+of "Fermat's theorem", being one of [del]those[/del] that he jotted down
+on the margin of the first printed edition of the Arithmetic of
+Διάφαντος. Which is that if n is any integer not a multiple
+of the prime, p, then n[sup]p-1[/sup] - 1 is divisible by p. Of course F(p) =
+2[sup]p[/sup] - 1; and 2 is not a multiple of any other prime

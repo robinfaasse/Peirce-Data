@@ -1,0 +1,6 @@
+I. If [u]a[/u]+c and [u]b[/u]+c, then [u][u]a[/u]++b[/u]+c.
+II. If [u][u]a[/u]++b[/u]+c, then [u]a[/u]+c and [u]b[/u]+c.
+III. If [u][u]a[/u]+[u]b[/u]+c++[/u], then [u]a[/u]+[u]b[/u]+c.
+IV. If [u]a++[/u], then a.
+
+But these rules are perplexing and not readily apprehended. To bring them into a familiar shape, we may first introduce two abbreviations. Namely, instead of [u]a+[/u], we may [del]first as well[/del] write [u]a[/u]; and in place of [u][u]a[/u]+[u]b[/u]++[/u] we will write simply [u]ab[/u]. We next proceed to deduce from the above four rules, certain others more convenient in practice.

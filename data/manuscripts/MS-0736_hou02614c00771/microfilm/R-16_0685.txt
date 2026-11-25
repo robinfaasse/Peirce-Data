@@ -1,0 +1,24 @@
+which gives as a [del]real[/del] valid inference
+
+$$\overline{S}\ \overline{\succ}\ M$$
+$$\overline{M}\ \overline{\succ}\ P$$
+$$\therefore\quad \overline{S}\ \overline{\succ}\ P,$$
+
+the [u]direct syllogism[/u]. In this formula if we
+substitute for $S$, [del]if $A$[/del] $\overline{A}\ \overline{\succ}\ B$, and for $M$,
+$\overline{A}\ \overline{\succ}\ C$, we have, as a valid inference
+
+$$\overline{\overline{A}\ \overline{\succ}\ B}\ \overline{\succ}\ \overline{A}\ \overline{\succ}\ C,$$
+$$\overline{\overline{A}\ \overline{\succ}\ C}\ \overline{\succ}\ P$$
+$$\therefore\quad \overline{\overline{A}\ \overline{\succ}\ B}\ \overline{\succ}\ P,$$
+
+[del]the[/del] or
+
+$$\overline{\overline{A}\ \overline{\succ}\ B}\ \overline{\succ}\ \overline{A}\ \overline{\succ}\ C$$
+$$\therefore\quad \overline{\overline{A}\ \overline{\succ}\ C}\ \overline{\succ}\ P\ \overline{\succ}\ \overline{\overline{A}\ \overline{\succ}\ B}\ \overline{\succ}\ P$$
+
+But by syllogism
+
+$$\overline{B}\ \overline{\succ}\ C\ \overline{\succ}\ \overline{\overline{A}\ \overline{\succ}\ B}\ \overline{\succ}\ \overline{A}\ \overline{\succ}\ C;$$
+
+consequently by the transitiveness of illation,

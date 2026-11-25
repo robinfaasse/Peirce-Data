@@ -1,0 +1,19 @@
+four, and so on. Second, we may obtain
+a general formula which we may be morally
+certain agrees with the former rule. Third,
+we may prove with mathematical certainty
+that the formula solves the problem.
+
+The first sort of solution is very easy.
+For if [u]n[/u] be the number of punctuations, [u]n[/u]+1
+is that of the letters. Then, let F[u]n[/u] be the num-
+ber of forms with [u]n[/u] punctuations, and let
+[u]i[/u] be the number of letters to the [del]right[/del] [ins]left[/ins] of the
+highest punctuation, so that [u]n[/u]+1-[u]i[/u] will be
+the number to the left. Then, the number of
+separations of the row to the left is F([u]i[/u]-1)
+and that of the row to the right is F([u]n[/u]-[u]i[/u]). Con-
+sequently, the number of these separations
+of the total row in which the highest punctuation
+has [u]i[/u] letters to the left of it is F([u]i[/u]-1).F([u]n[/u]-[u]i[/u]).
+And the total number of separations is

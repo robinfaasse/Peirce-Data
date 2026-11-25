@@ -1,0 +1,17 @@
+Multiplication is, in general, best performed by long multiplication rather than
+by cross-multiplication. There are, however, many cases in which the operation
+can be abridged. Thus, where one of the factors contains in its decimal expression
+three or more units in succession, one can by a subtraction somewhat abridge the
+work. But, of course, a table of antilogarithms to base 10 is desirable.
+
+Division, too, is, in general, best performed by long division or by logarithms,
+though the reciprocals of most low primes are very simply expressed.
+
+[u]The[/u] root of any Algebraic Equation is easily evaluated in the form of a rational
+fraction to a high degree of precision, as soon as a value has been obtained whose
+modulus differs less from that of the root required than from that of any other
+root. For it can then be put into the form $1 = \sum_{1}^{m} a_{i} x^{m-i}$ ; and then assuming any
+rough approximations to the first m-1 positive powers of $x$, by calculating, according
+to the formula, the successive negative powers of $x$, after a considerable number of such
+easy calculations, $x^{-n+1}/x^{-n}$ will be found to be very near to the true value. One
+should however avoid allowing any of the $a_{i}$'s to vanish.

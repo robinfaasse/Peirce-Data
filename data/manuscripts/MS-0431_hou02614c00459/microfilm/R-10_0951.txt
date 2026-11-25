@@ -1,0 +1,23 @@
+[marginalia]
+Logic
+[u]III[/u]
+90
+[/marginalia]
+
+[u]Either[/u] Necessarily either [u]x[/u] or [u]x[/u] < [u]z[/u].
+Hence by (50)
+If [u]x[/u] < [u]y[/u], then necessarily either [u]x[/u] < [u]z[/u] or [u]y[/u].
+By this with (55) we have (54).
+We will now prove that
+(56) If [u]x[/u] < [u]y[/u], then necessarily ([u]y[/u] < [u]z[/u]) < ([u]x[/u] < [u]z[/u]), which
+is the [u]Rule of Contraposition[/u].
+By (54), if [u]x[/u] < [u]y[/u], then necessarily from [u]y[/u] < [u]z[/u] would
+follow [u]x[/u] < [u]z[/u]. But in (50) substitute [u]y[/u] < [u]z[/u] for [u]x[/u] and
+[u]x[/u] < [u]z[/u] for [u]y[/u]. Then we have
+If [u]y[/u] < [u]z[/u], then necessarily ([u]y[/u] < [u]z[/u]) < ([u]x[/u] < [u]z[/u]).
+From this and the last,
+If [u]x[/u] < [u]y[/u], then necessarily if [u]y[/u] < [u]z[/u] we have ([u]y[/u] < [u]z[/u]) < ([u]x[/u] < [u]z[/u])
+In (49), substitute [u]y[/u] < [u]z[/u] for [u]x[/u] and [u]x[/u] < [u]z[/u] for [u]y[/u]. Then we have
+Necessarily either [u]y[/u] < [u]z[/u] or ([u]y[/u] < [u]z[/u]) < ([u]x[/u] < [u]z[/u]).
+Syllogizing the two last, we have (56).
+[del]Hence[/del]

@@ -1,0 +1,27 @@
+$$(2^m - 1)(2^n - 1) = 2^{m+n} - 2^m - 2^n + 1$$
+$$= [del]1\begin{matrix} m+n-1 \\ m+1 \end{matrix}[/del] [ins]\begin{matrix} m+n-1 \\ m+1 \end{matrix}\text{s}[/ins] + 0^m + [del]2^n[/del] [ins]1\begin{matrix} n-1 \\ m \end{matrix}[/ins] + 1^0$$
+$$= 1\begin{matrix} m+n-1 \\ m+1 \end{matrix} + 0^m + 1\begin{matrix} m-1 \\ n \end{matrix} + 1^0$$
+
+[fig]Binary multiplication diagram with carries[/fig]
+
+[fig]Binary multiplication diagram with carries[/fig]
+
+[fig]Binary multiplication diagram with carries[/fig]
+
+[fig]Binary multiplication diagram with carries[/fig]
+
+[fig]Binary multiplication diagram with carries[/fig]
+
+[fig]Binary multiplication diagram with carries[/fig]
+
+[fig]Binary multiplication diagram with carries[/fig]
+
+[fig]Binary multiplication diagram with carries[/fig]
+
+$$\sum_{m+1}^{2m-1} 2^i + 1$$
+
+$$m = 4$$
+$$n = 5$$
+
+$$\sum_{n+1}^{m+n-1} 2^i + \sum_2^n 2^i + 2^0$$
+$$m > n$$

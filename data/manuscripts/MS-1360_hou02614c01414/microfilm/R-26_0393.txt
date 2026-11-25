@@ -1,0 +1,21 @@
+Morison's Bridge
+
+An elastic [del]ribbon[/del] [ins]wire[/ins] is supported at horizontal intervals $= X$ at $y=0$. There are cantilever projections $= \Xi$
+
+[del]First[/del] Case Number of supports odd.
+
+Let $x_1$, $x_2$, $x_3$ be the abscissas of the different curves in the different intervals. The origin for each [ins]at which[/ins] beginning at the end nearest the middle of the ribbon, [del]which[/del] middle is the origin of $x_1$
+
+$-\frac{1}{A} y_n = x_n^4 + C'_n x^3 + C''_n x^2 + C'''_n x$  $\qquad \left( C^{IV}_n = 0 \right)$
+$-\frac{1}{A} D_x y_n = 4 x_n^3 + 3 C'_n x^2 + 2 C''_n x + C'''_n$  $\qquad \left( C^{IV}_1 = 0 \right)$
+$\frac{1}{A} D^2_x y_n = 12 x_n^2 + 6 C'_n x + 2 C''_n$
+$\frac{1}{A} D^3_x y_n = 24 x_n + 6 C'_n$
+
+$\begin{aligned} 8 X^3 + 4 C'_n X^2 + 2 C''_n X + C'''_n &= 0 \\ 32 X^3 + 12 C'_n X^2 + 4 C''_n X + C'''_n & \\ = 24 X^3 + 8 C'_n X^2 + 2 C''_n X \quad &= C'''_{n+1} \end{aligned}$  $\qquad \begin{aligned} u_{x+1} &= a u_x + b \\ u_{x+2} &= a^2 u_x + ab + b \\ u_{x+3} &= a^3 u_x + a^2 b + ab \\ & \quad + b \\ u_{x+p} &= a^p u_x + \frac{a^p-1}{a-1} b \end{aligned}$
+
+$24 X^2 + [del]16[/del] [ins]12[/ins] C'_n X + C''_n = C''_{n+1}$
+
+$\begin{aligned} 8 X^3 \qquad - 2 C''_n X - 2 C'''_n &= C'''_{n+1} \\ 12 X^3 \qquad - 2 C''_n X - \frac{3}{2} C'''_n &= C''_{n+1} X \end{aligned}$
+
+$\left. \begin{aligned} -2p \\ -2q \end{aligned} \right) \quad q$
+$\left. \begin{aligned} -2p \\ -1\frac{1}{2}q \end{aligned} \right\} \quad p$  $\qquad \begin{aligned} \frac{-2p = 2q}{2p = -2q} \end{aligned} \dots$  $\qquad \begin{aligned} +2 \frac{p}{q} &= -1 + \frac{3}{2} \\ \frac{p^2}{q^2} &= \frac{3}{4} \quad \frac{p}{q} = \frac{\sqrt{3}}{2} \end{aligned}$  $\qquad \begin{aligned} \left. \begin{aligned} 8 \sqrt{3} X^3 - 2 \sqrt{3} C''_n X - 2 \sqrt{3} C'''_n &= \sqrt{3} C'''_{n+1} \\ 24 X^3 - 2 \cdot 2 C''_n X - 3 C'''_n &= 2 C''_{n+1} X \end{aligned} \right\} \\ \frac{8(3+\sqrt{3})}{2+\sqrt{3}} X^3 - 2(2+\sqrt{3}) C''_n X - \sqrt{3}(2+\sqrt{3}) C'''_n \\ = 2 C''_{n+1} + \frac{\sqrt{3}}{2+\sqrt{3}} C'''_{n+1} \end{aligned}$

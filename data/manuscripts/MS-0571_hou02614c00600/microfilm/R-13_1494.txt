@@ -1,0 +1,27 @@
+[pn]4[/pn]
+
+[u](x-u)(v-z)[/u] = 0.
+The signification of this is,
+Either [u]x[/u] is false or [u]z[/u] is true;
+and this is the legitimate conclusion from
+the two propositions
+Either [u]x[/u] is false or y is true, and
+Either y is false or [u]z[/u] is true.
+
+Suppose, now that we seek to find the
+expression of the precise denial of [u]x[/u] [which
+in logical terminology is called the contradictory of
+[u]x[/u]]. Call this X. Then it is necessary and
+sufficient that X should be true when [u]x[/u]
+is false and false when [u]x[/u] is true. We
+may therefore put
+X = [u]u[/u] + [u]v[/u] - [u]x[/u]
+or X = [u]uv[/u] / [u]x[/u].
+These two expressions are equal, by the
+equation of excluded middle.
+
+The simplest expression of that proposition
+which is true if [u]x[/u], y, [u]z[/u] are all true and is
+false if any of them are false is
+[u]u[/u] + [u](x-u)(y-u)(z-u)[/u]
+[u](v-u)[/u]²

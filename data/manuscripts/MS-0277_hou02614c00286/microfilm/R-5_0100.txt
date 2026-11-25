@@ -1,0 +1,43 @@
+A point [del]out[/del] chopped out of [del]also[/del] [ins]or[/ins] an unlimited line
+always reduces its cyclosy [ins]not separated from the first by node or node-line[/ins]
+After the first, any other [del]that does not increase[/del]
+[del]the cyclosy[/del] reduces the cyclosy. Finally it is reduced to 0.
+
+A point pierced through [del]an surface[/del] [ins]unlimited surface[/ins] [ins]not in a node or node-line[/ins]
+always reduces its periphery [del]cyclosy[/del] [ins]not separated by a node-line or lines[/ins]
+[del]After the first, any other that does not increase the cyclosy[/del]
+[del]reduces the periphery[/del] [ins]In this way the periphery may[/ins]
+[del]be reduced to zero,[/del]
+
+A point pierced through an unlimited solid always
+reduces its apeiry
+After the first, any other that does not increase the
+periphery, reduces the apeiry which, may so be reduced to zero.
+
+[fig]Two overlapping circles[/fig]
+
+A [del]non-singular[/del] line cut out of an [del]surface[/del] [ins]unlimited surface so as[/ins]
+[del]to reduce its periphery[/del] [ins]not to increase its chorisy[/ins] always reduces its cyclosy
+
+[del]A non-singular line cut from boundary to boundary[/del] [ins]edge to edge[/ins] [del]of a[/del] [ins]from[/ins] [del]limited[/del]
+[del]surface, so as not to increase its chorisy, must reduce its[/del] ?
+[del]cyclosy, until the latter is zero.[/del]
+
+[del]A non-singular line cut out of an unlimited solid[/del]
+[del]A non-singular line [ins]not in a node or node-line[/ins] so cut out of a limited surface [ins]from boundary to boundary[/ins][/del]
+that it could not in the surface shrink to a point (and not to
+add to its chorisy?) always reduces its cyclosy
+
+A line without nodes so cut out of a limited solid [ins]from boundary to boundary[/ins]
+that it could not in the solid shrink to a point (nor add to the
+chorisy) always reduces the periphery
+
+***
+
+A non-singular line [del]has[/del] [ins]has cyclosy equal to its chorisy[/ins]
+A non-singular surface has periphery equal to its chorisy
+A non-singular solid has apeiry equal to its chorisy
+
+A line can have any [del]multitude[/del] [ins]number[/ins] of separate points
+A surface can have any multitude of separate non-singular lines
+A solid can have any multitude of separate non-singular surfaces

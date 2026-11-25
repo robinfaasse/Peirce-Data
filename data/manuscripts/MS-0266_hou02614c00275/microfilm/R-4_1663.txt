@@ -1,0 +1,32 @@
+Every great fortune in this world was founded originally
+
+[u]A B C D E F[/u]
+
+[del]{AB} {BC}[/del]
+
+[fig]Diagram of a circle with intersecting lines and points labeled A and B[/fig]
+
+$$\begin{matrix} a & b & c & d & e & f \\ a' & b' & c' & d' & e' & f' \end{matrix}$$
+
+[del][unclear]F[/unclear][/del]
+$[aa'] = A$ $[bb'] = B$ $[cc'] = C$ $[dd'] = D$ $[ee'] = E$ $[ff'] = G$
+$(aa') = \alpha$ $(bb') = \beta$ $(cc') = \gamma$ $(dd') = \delta$ $(ee') = \varepsilon$ $(ff') = F$
+
+$\{AB\}$ has two tangent planes $(ab')$ and $(a'b)$ tangent at $[ab']$ and $[a'b]$
+The ray $\{[ab'][a'b]\} = \{(aa')(bb')\}$ is conjugate to $\{AB\}$
+$\{BC\}$ has two tangent planes $(bc')$ and $(b'c)$ tangent at $[bc']$ and $[b'c]$
+The conjugate ray is $\{[bc'][b'c]\} = \{(bb')(cc')\}$
+$\{CD\}$ has two tangent planes $(cd')$ and $(c'd)$ tangent at $[cd']$ and $[c'd]$
+The conjugate ray is $\{[cd'][c'd]\} = \{(cc')(dd')\}$
+$\{DE\}$ has [del]two tangent planes[/del] [ins]the conjugate ray[/ins] $(de')$ and $(d'e)$ tangent at $[de']$ and $[d'e]$
+The conjugate ray is $\{[de'][d'e]\} = \{(dd')(ee')\}$
+
+[fig]Diagram of intersecting lines forming angles[/fig]
+
+[del]Since[/del] [ins]Then:[/ins]
+Since $\{AB\}$ $\{DE\}$ lie in one plane so the conjugate rays pass through one point W
+The four points $[ab'][a'b][de'][d'e]$ lie in one plane
+The four points $[bc'][b'c][ef'][e'f]$ lie in one plane
+The four points $[cd'][c'd][fa'][f'a]$ lie in one plane
+
+[fig]Diagram of a cone-like structure with lines radiating from a vertex to a base[/fig]

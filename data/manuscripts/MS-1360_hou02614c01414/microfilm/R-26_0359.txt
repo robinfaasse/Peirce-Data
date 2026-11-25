@@ -1,0 +1,35 @@
+The first approximation is far closer than it need be. We will
+adopt the following values
+
+$$\tau_0 = -24^\circ\ 17'\ 25''.5 \qquad \tau_N = 19^\circ\ 6'\ 10''$$
+$$kx'_0/Q = -.437259 \qquad kx'_N/Q = .339760$$
+$$ky'_0/Q = .097126 \qquad ky'_N/Q = .058176$$
+These give [del].451316[/del]
+$$ks'_0/Q = -.451316 \qquad ks'_N/Q = .346335 \qquad ks_N/Q\ .797651$$
+$$x'_0/s'_0 = .968832 \qquad x'_N/s'_N = .981017$$
+$$y'_0/s'_0 = .215218 \qquad y'_N/s'_N = .168235$$
+$$k\xi'_0/Q = -.222031 \qquad k\xi'_N/Q = .171526$$
+$$k\eta'_0/Q = .032979 \qquad k\eta'_N/Q = .019646$$
+[del]k[/del]$\chi_N/Q = .177010$
+
+[marginalia]By Oakes's
+Reciprocals.[/marginalia] $\frac{Q}{k} = 1286.985$ metres
+
+The cable weighs 20000 lbs per linear foot = $1666\frac{2}{3}$ lbs per linear inch.
+Assuming (after Genl Comstock) that the metre is 39.36985 inches, the cable
+weighs [del]65616.42[/del] [ins]65616.42[/ins] pounds per metre, which is k. We calculate Q thus:
+
+$$\begin{array}{rcc}
+Q/k & 1286.985 & 3.1095736 \\
+k & [del]65616.42[/del] [ins]65616.42[/ins] & 4.8170125\frac{1}{2} \\
+\hline
+Q & [del]84447[/del] [ins]84447[/ins] 175\text{ pounds} & 7.9265851\frac{1}{2} \\
+& \sec \tau_0 & 0.0402566 \\
+\hline
+\text{Max. } q & [del]92649[/del] [ins]92649[/ins] 050\text{ pounds} & 7.9668417 \\
+& ks_N/Q & 9.9018029 \\
+\hline
+\text{Length cable } s_N & 1026.565\text{ metres} & 3.0113864\frac{1}{2}
+\end{array}$$
+
+[fig]column of numbers: 3.3, 195.5, 24.4, 116.8, 133.2[/fig]

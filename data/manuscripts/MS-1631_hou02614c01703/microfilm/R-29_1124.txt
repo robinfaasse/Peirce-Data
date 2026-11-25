@@ -1,0 +1,44 @@
+The proof of the first equation is that it is
+symetrical with
+$$R_n = \Sigma_k (A_k^i a_k^i)$$
+
+§338. Mutual relations of the partial determin-
+ants of the second order, & corresponding
+reduction of the expression of the complete
+determinant.
+
+§339 The solution of linear equations by the aid
+of determinants.
+
+§340. Ratios of the unknown quantities when
+the second members vanish.
+
+§341 Determinants found from partial deter-
+minants taken as elements.
+$$r_n = \Sigma_i (A^i D_{n-1} r^n) = R_n^{n-1} \Sigma_i (a^i A^i) = R_n^{(n)}$$
+
+§342 $$r_{m,n} = R_n^{n-m-1} R_m$$
+Solution by §339 of the equations
+$$at + a,t, = u$$
+$$a't + a,'t, = u'$$
+$$t = \frac{u a,' - a, u'}{a a,' - a, a'}$$
+$$t, = \frac{u a' - a u'}{a a,' - a, a'}$$
+
+Example of §342.
+
+Let $a_k^i = \begin{matrix} 1 & 2 & 2 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end{matrix}$ $R_0 = 1$ $R_1 = -3$ $R_2 = -3$
+
+$$A_k^{(i)} = \begin{matrix} -3 & 6 & -3 \\ -2 & -5 & 6 \\ 2 & 2 & -3 \end{matrix}$$
+$$r_{2,2} = -3 = R_n R_1$$
+$$r_{1,2} = -3 = R_n R_0$$
+$$r_2 = 9 = R_n^2$$
+
+§343. Variation of the function of the elements and
+of the determinant.
+
+§344 $a_k^i = a_i^k$ $(i,k) = -(k,i)$
+
+§345 Inverse solution of equations
+
+§346 Determinant of compound functions of two
+systems of elements.

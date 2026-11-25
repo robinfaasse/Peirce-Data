@@ -1,0 +1,31 @@
+[pn]16[/pn]
+
+Let us next ask what the average number of
+bets will be in case of the players success and what
+in case of his failure.
+
+[del]$\frac{31}{60} u_{x,y+1}$ is the probability of his winning the[/del] [ins]making his net gain[/ins]
+[del]but losing the next bet[/del]
+
+$\frac{31}{60} \frac{u_{x,y+1}}{u_{x,y}}$ is the probability of his [del]losing[/del] [ins]gaining[/ins] the next bet
+in case he is to net his 1 franc
+
+$\frac{29}{60} \frac{u_{x,y-1}}{u_{x,y}}$ is the probability of his gaining the next bet
+in case he is to net his 1 franc
+
+Let $U_{x,y}$ be the average number of bets after he has
+lost $y$ francs.
+
+Then
+$U_{x,y} = \frac{31}{60} \frac{u_{x,y+1}}{u_{x,y}} U_{x,y+1} + \frac{29}{60} \frac{u_{x,y-1}}{u_{x,y}} U_{x,y-1} + 1$
+
+or
+$u_{x,y} U_{x,y} = \frac{31}{60} u_{x,y+1} U_{x,y+1} + \frac{29}{60} u_{x,y-1} U_{x,y-1} + u_{x,y}$
+
+Since $u_{x,y} = \frac{(\frac{29}{31})^{y+1} - (\frac{29}{31})^{x+1}}{1 - (\frac{29}{31})^{x+1}}$
+
+$\frac{u_{x,y}}{(\frac{29}{31})^{y+1}} = \frac{1}{1 - (\frac{29}{31})^{x+1}} - \frac{(\frac{29}{31})^{x}}{1 - (\frac{29}{31})^{x+1}} (\frac{31}{29})^{y}$
+
+$\sum \frac{u_{x,y}}{(\frac{29}{31})^{y+1}} = \frac{y}{1 - (\frac{29}{31})^{x+1}} - \frac{(\frac{29}{31})^{x-y}}{(\frac{31}{29} - 1) [1 - (\frac{29}{31})^{x+1}]}$
+
+$(\frac{29}{31})^{y} \sum \frac{u_{x,y}}{(\frac{29}{31})^{y+1}} = \frac{y (\frac{29}{31})^{y} (\frac{31}{29} - 1) - (\frac{29}{31})^{x}}{(\frac{31}{29} - 1) [1 - (\frac{29}{31})^{x+1}]} = \frac{y (\frac{29}{31})^{y} - \frac{29}{2} (\frac{29}{31})^{x}}{1 - (\frac{29}{31})^{x+1}}$

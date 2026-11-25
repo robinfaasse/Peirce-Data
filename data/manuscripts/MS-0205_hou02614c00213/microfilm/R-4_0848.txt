@@ -1,0 +1,29 @@
+[pn]30[/pn]
+nal number $N$ to have two remainders and quotients so that
+$$\begin{aligned}
+N &= \mathcal{R}_m N + (\mathcal{Q}_m N) \cdot M \\
+&= \mathcal{R}'_m N + (\mathcal{Q}'_m N) \cdot M
+\end{aligned}$$
+where [del]$M >$[/del] [ins]$M > 0,$[/ins] $M > \mathcal{R}_m N$, and $M > \mathcal{R}'_m N$, and either $\mathcal{R}_m N$ is not $\mathcal{R}'_m N$ or
+$\mathcal{Q}_m N$ is not $\mathcal{Q}'_m N$. If $\mathcal{R}_m N = \mathcal{R}'_m N$ then $\mathcal{Q}_m N$ is not $\mathcal{Q}'_m N$ and
+by Theorem V, one which one may call $\mathcal{Q}'_m N$ is greater than the other.
+Since then $\mathcal{Q}'_m N > \mathcal{Q}_m N$ and by hypothesis $M > 0$, by Theorem
+$(\mathcal{Q}'_m N) \cdot M > (\mathcal{Q}_m N) \cdot M$ and by Theorem , $\mathcal{R}'_m N + (\mathcal{Q}'_m N) \cdot M > \mathcal{R}_m N + \mathcal{Q}_m N \cdot M$.
+But by the first Corollary from Theorem IV, $N$ is not greater than itself. [del]Hence[/del] [ins]So that[/ins]
+the supposition that $\mathcal{R}_m N = \mathcal{R}'_m N$ is absurd. Then, by Theorem V, one of
+these remainders, which we may call $\mathcal{R}'_m N$ [ins]must be[/ins] is greater than the other, if
+there are [del]two quotients[/del]. Then, by the third corollary from Theorem VII,
+$(\mathcal{Q}'_m N) \cdot M$ is not $(\mathcal{Q}_m N) \cdot M$ and hence $\mathcal{Q}'_m N$ is not $\mathcal{Q}_m N$. Consequently, by Theorem V,
+of the two quotients one is the greater. But by Corollary 2 of Theorem VII, $\mathcal{Q}_m N$ is not greater
+than $\mathcal{Q}'_m N$. Hence, it can only be that $\mathcal{Q}'_m N > \mathcal{Q}_m N$. Hence, by the 1st Corollary from Theorem
+III, either $\mathcal{Q}'_m N = \mathcal{G} \mathcal{Q}_m N$ or $\mathcal{Q}'_m N > \mathcal{G} \mathcal{Q}_m N$. In either case, $(\mathcal{Q}'_m N) \cdot M > N$. For
+first, if $\mathcal{Q}'_m N = \mathcal{G} \mathcal{Q}_m N$, by the 2nd condition of Definition 4, $(\mathcal{Q}'_m N) \cdot M = M + (\mathcal{Q}_m N) \cdot M$
+But, by hypothesis, $N = \mathcal{R}_m N + (\mathcal{Q}_m N) \cdot M$ and $M > \mathcal{R}_m N$ Hence, by Theorem VII,
+$(\mathcal{Q}'_m N) \cdot M > N$. On the other hand, if $\mathcal{Q}'_m N > \mathcal{G} \mathcal{Q}_m N$, $(\mathcal{Q}'_m N) \cdot M > M + (\mathcal{Q}_m N) \cdot M$,
+and by the same reasoning $(\mathcal{Q}'_m N) \cdot M > N$. Now $\mathcal{R}'_m N = 0$ or by Theorem II $\mathcal{R}'_m N > 0$.
+In the former case $\mathcal{R}'_m N + (\mathcal{Q}'_m N) \cdot M = (\mathcal{Q}'_m N) \cdot M$ by Corollary 4 from Theorem VI
+and thus $\mathcal{R}'_m N + (\mathcal{Q}'_m N) \cdot M > N$. In the latter case, by Corollary II of Theorem VI,
+$\mathcal{R}'_m N + (\mathcal{Q}'_m N) \cdot M > (\mathcal{Q}'_m N) \cdot M$ and, by the 2nd condition of Definition 1, again
+$\mathcal{R}'_m N + (\mathcal{Q}'_m N) \cdot M > N$. But by Corollary 1 of Theorem IV, this is contrary to the
+hypothesis, which is thus reduced to absurdity; and no cardinal number can have but one
+remainder and quotient relative to a given modulus.

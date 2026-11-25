@@ -1,0 +1,39 @@
+[del]No of[/del]
+The number of ligatures being N
+[u]N[/u] | [del]No of[/del] [ins]No of[/ins] [del]lines[/del] [ins]qualities[/ins] | [del]No of[/del] [ins]No of[/ins] [del]this[/del] [ins]dyads[/ins] | [del]No of[/del] [ins]triadic[/ins]
+0 | 1 | 0 | 0 | 0
+1 | 1 | 1 | 0 | 0
+2 | 1 | 2 | 2 | 0
+3 | 1 | 3 | 6 | 6
+4 | 1 | 4 | 12 | [del]24[/del] [ins]24[/ins]
+5 | 1 | 5 | 20 | [del]60[/del] [ins]60[/ins]
+
+[fig]Diagram with loops and text "is greater than"[/fig]
+
+[del]5[/del] 2 8 2
+5 9 5
+
+AB
+AC
+AD
+BA
+BC
+BD
+CA
+CB
+CD
+DA
+
+ABC
+ABD
+ACB
+ACD
+ADB
+ADC
+
+[line]
+
+THIS CARD FOUND
+INSERTED AMONG
+UNNUMBERED PAGES
+IN MS # 461

@@ -1,0 +1,29 @@
+[pn]218[/pn]
+
+to it, [u]y[/u] will be decreased. [marginalia](where d is not a quantity but d[u]x[/u] denotes
+an excessively small addition to [u]x[/u][/marginalia]
+
+Substitute for [u]x[/u], [u]x[/u]+d[u]x[/u], and develope all the powers of
+[u]x[/u] and the equation will become
+
+[u]x[/u]ⁿ + a[u]x[/u]ⁿ⁻¹ + b[u]x[/u]ⁿ⁻² + etc
++ d[u]x[/u] [ [u]n[/u][u]x[/u]ⁿ⁻¹ + ([u]n[/u]-1)a[u]x[/u]ⁿ⁻² + ([u]n[/u]-2)b[u]x[/u]ⁿ⁻³ + etc ]
++ (d[u]x[/u])² [ [frac][u]n[/u]([u]n[/u]-1)[/frac]/2 [u]x[/u]ⁿ⁻² + [frac]([u]n[/u]-1)([u]n[/u]-2)[/frac]/2 a[u]x[/u]ⁿ⁻³ + [frac]([u]n[/u]-2)([u]n[/u]-3)[/frac]/2 b[u]x[/u]ⁿ⁻⁴ + etc ]
++ (d[u]x[/u])³ [ [frac][u]n[/u]([u]n[/u]-1)([u]n[/u]-2)[/frac]/6 [u]x[/u]ⁿ⁻³ + etc ]
++ etc. = 0
+
+Now if d[u]x[/u] is very near 0, it will be many times larger than
+(d[u]x[/u])², this than (d[u]x[/u])³, and so on. If, then any very
+small [del]all[/del] real alteration of [u]x[/u] increases the value of
+[u]y[/u], the first of multipliers of powers of d[u]x[/u] that is not
+identically null must be a multiplier of an even power.
+For the product of a number by an odd power of d[u]x[/u] changes
+its sign when d[u]x[/u] changes its sign, and thus cannot be positive
+in all cases. If then the first multiplier that does not vanish
+is the multiplier of (d[u]x[/u])², (d[u]x[/u])⁶, or any even power of d[u]x[/u]
+whose exponent is not divisible by 4, [del]then[/del] and if this mul-
+tiplier is positive so that [u]y[/u] is increased for any [del]every[/del] [ins]very[/ins]
+small real value of d[u]x[/u], substitute for d[u]x[/u], i d[u]x[/u]. Now
+(i d[u]x[/u])² = [del](i dx)⁶[/del] = - (d[u]x[/u])²,
+(i d[u]x[/u])⁶ = - (d[u]x[/u])⁶,
+etc.

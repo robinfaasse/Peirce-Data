@@ -1,0 +1,10 @@
+A relative such that if it contains A:B and B:C, it
+does not contain C:A
+
+A relative such that it either contains A:B or B:C or C:A
+
+A relative such that if it contains A:B and B:C it contains C:A
+
+A relative such that if it contains A:B it contains either B:C or C:A
+
+[fig]Diagram showing relations between pairs of letters A, B, C, D, E[/fig]

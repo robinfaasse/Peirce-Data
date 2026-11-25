@@ -1,0 +1,32 @@
+[pn]R[/pn] [pn]7[/pn]
+
+If [del]the[/del] value of a fraction, [frac]\frac{P}{Q}[/frac], is intermediate between that
+of two others, [frac]\frac{M}{N}[/frac] and [frac]\frac{R}{S}[/frac], its numerator and its denominator
+are equal to similar syzygies of the same terms of the extreme
+fractions. That is, the two equations
+[align]P = x M + y R
+Q = x N + y S[/align]
+can be satisfied by rational [ins]positive[/ins] values of x and y, [del]which will be
+pos[/del] In fact, in the equation
+[align]\begin{vmatrix}
+M, & R, & P \\
+N, & S, & Q \\
+X, & Y, & \begin{matrix} xX \\ +yY \end{matrix}
+\end{vmatrix} = 0,[/align]
+we can give X and Y any values we please. Putting X=1, Y=0,
+we have
+[align](MS - RN)x + RQ - PS = 0 \text{ or } x = \frac{QR - PS}{NR - MS}[/align]
+Putting X=0, Y=1, we have
+[align](MS - RN)y + PN - MQ = [del]0[/del] \text{ or } y = \frac{QM - PN}{SM - RN}[/align]
+[del]Now[/del] if [frac]\frac{M}{N}[/frac] < [frac]\frac{P}{Q}[/frac] < [frac]\frac{R}{S}[/frac], the numerators and denominators of x
+[del]and[/del] [ins]are[/ins] both positive and those of y are [del]both[/del] negative; so that
+x and y are both positive. If [frac]\frac{M}{N}[/frac] > [frac]\frac{P}{Q}[/frac] > [frac]\frac{R}{S}[/frac], the signs of each nu-
+merator and denominator is reversed and x and y [del]retain the
+same values[/del] [ins]are still[/ins] positive.
+
+Since the denominators of x and y are the same we see
+that the equations
+[align]WP = UM + VR
+WQ = UN + VS[/align]
+can always be satisfied by integer values of U, V, W, supposing always
+that P/Q is intermediate in value between M/N and R/S.

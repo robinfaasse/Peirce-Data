@@ -1,0 +1,52 @@
+[u]Varying Scale of Mercator[/u]
+
+$\alpha$ Azimuth of geodesic
+$u$ Reduced lat.
+$U$ ditto of northernmost points of geodesic
+$e$ Eccentricity of meridian
+
+$\sin \alpha = \frac{\cos U}{\cos u}$
+
+$\alpha' = 90^{\circ} - \alpha$
+$\sin \alpha' = \sqrt{1 - \frac{\cos^{2} U}{\cos^{2} u}}$
+
+$\cos U' = \sqrt{\cos^{2} u - \cos^{2} U}$
+
+$\sin \alpha'_{2} = \frac{\sqrt{\cos^{2} u - \cos^{2} U}}{\cos u_{2}}$
+
+$\alpha_{2} = 90^{\circ} - \alpha'_{2}$
+$\sin \alpha_{2} = \frac{\sqrt{\cos^{2} u_{2} - \cos^{2} u + \cos^{2} U}}{\cos u_{2}}$
+
+$\cos U'' = \sqrt{\cos^{2} u_{2} - \cos^{2} u + \cos^{2} U}$
+$\therefore \sin^{2} U'' = \sin^{2} U - \sin^{2} u + \sin^{2} u_{2}$
+
+Hence if [del]rectangular[/del] [ins]geodesics[/ins] [del]great circles[/del] are
+drawn between [del]great circles[/del] whose northern-
+most points are constant, the difference
+of the squares of the sines of the reduced latitudes
+of their extremities is constant, or
+$\sin u \cdot d \sin u = \sin u_{2} d \sin u_{2}$
+
+Let two such be drawn infinitely near, and
+compare their infinitesimal segments
+$ds = a \sqrt{1 - e^{2} \cos^{2} u} \cdot d\varphi = a \sqrt{1 - e^{2} \cos^{2} u} \frac{du}{\cos \alpha}$
+$= a \frac{\sqrt{1 - e^{2} \cos^{2} u}}{\sqrt{1 - \frac{\cos^{2} U}{\cos^{2} u}}} du = [del]\text{f}[/del] a \frac{\sqrt{1 - e^{2} \cos^{2} u}}{\sqrt{\sin^{2} U - \sin^{2} u}} d \sin u$
+
+[marginalia]
+$\frac{d \sin u}{= \cos u du}$
+[/marginalia]
+
+$= a \frac{\sqrt{1 - e^{2} + e^{2} \sin^{2} u}}{\sqrt{\sin^{2} U - \sin^{2} u}} d \sin u$
+
+$ds_{2} = a \frac{\sqrt{1 - e^{2} + e^{2} \sin^{2} u_{2}}}{\sqrt{\sin^{2} U_{2} - \sin^{2} u_{2}}} d \sin u_{2} = a \frac{\sqrt{1 - e^{2} + e^{2} \sin^{2} u_{2}}}{\sqrt{\sin^{2} U - \sin^{2} u}} d \sin u_{2}$
+
+[fig]Diagram showing intersecting curves and angles on a coordinate system[/fig]
+
+$= a \frac{\sqrt{1 - e^{2} + e^{2} \sin^{2} u_{2}}}{\sqrt{\sin^{2} U - \sin^{2} u}} \frac{\sin u \cdot d \sin u}{\sin u_{2}}$
+
+$\frac{ds_{2}}{ds} = \frac{\sqrt{1 - e^{2} + e^{2} \sin^{2} u_{2}}}{\sin u_{2}} \cdot \frac{\sin u}{\sqrt{1 - e^{2} + e^{2} \sin^{2} u}}$
+$= \frac{\sin lat}{\sin lat_{2}}$
+
+Though this is not what was
+wanted, it is a curious result.
+This also puzzling.

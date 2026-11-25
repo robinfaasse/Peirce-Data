@@ -1,0 +1,13 @@
+[pn]47[/pn]
+
+A [del]simple[/del] [ins]a sparse sequence[/ins] sparse sequence is [del]of[/del] [ins]one[/ins] which [del]any[/del] [ins]any[/ins] two parts, [del]every object of the second of which comes after every object of the first,[/del] [ins]coming entirely, the other,[/ins] have, the first part a last object, and the last part a first object.
+
+[u]Theorem 3[/u]. [u]Every[/u] [u]sparse[/u] [u]sequence[/u] [u]is[/u] [u]either[/u] [u]simple[/u] [u]or[/u] [u]complex[/u].
+
+[u]Demonstration[/u]. For let a sparse sequence consist of two parts such that every object of the second comes after every object of the first. Then, I say that if any object, M, is the last of the first part, there is an object N that is first of the last part; [del]and[/del] [ins]and[/ins] if any object N is first of the last part, there is an object M that is last of the first part.
+
+First, suppose M is the [del]first[/del] [ins]last[/ins] of the [del]last[/del] [ins]first[/ins] part. Then, [del]by[/del] [ins]by[/ins] [del]Definition 21, there is[/del] an object next after M. Call this N. Then, N does not belong to the first part, since it comes after M, which is the last of the first part. [del]It[/del] [ins]N[/ins], therefore, belongs to the second part. Every object of the second part comes after M, because [del]that[/del] [ins]M[/ins] is an object of the first part. N, therefore, comes after no object of the second part, because, [ins]if it did,[/ins] [del]then[/del] it would come after an object that came after M, [del]and so[/del] [ins]and so[/ins] would not be next after M. N, therefore, is the first object of the second part.
+
+Second, in the same manner it could evidently be shown that if N is the first [ins]object[/ins] of the last part [del]and M is the object of which it is next after[/del], M must be the last object of the first part.
+
+Hence, if the first part has a last object, the last part has a first

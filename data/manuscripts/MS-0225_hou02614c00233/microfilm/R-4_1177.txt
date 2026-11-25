@@ -1,0 +1,35 @@
+[u]R's Ring[/u].
+
+Given $\Omega$ longitude of node
+" $i$ inclination to ecliptic
+" $\omega$ inclination of ecliptic
+
+[fig]Spherical triangle with vertices Pole of Equator, Pole of Ecliptic, and Pole of Ring[/fig]
+
+$N$ = R.A. of Ring's node on Equator
+$\Phi$ Arc of Ring between nodes of Equator and Ecliptic on Ring
+$I$ Inclination of Ring to Equator.
+Find $N$, $\Phi$, $I$ by spherical trig.
+
+$N + 90^{\circ}$ is R.A. of Ring's Pole.
+[del]$90^{\circ} - I$[/del] [ins]$I$[/ins] is Polar distance of Ring's Pole.
+
+[fig]Spherical triangle with vertices North Pole, Saturn, and Ring Pole[/fig]
+
+$\alpha$ = R.A. of R., $\delta$ Dec of R.
+
+***
+
+Solution of $1^{\text{st}}$ Triangle.
+
+[del]$\text{cotan} \frac{1}{2} \Phi = \frac{\cos \frac{1}{2}(i-\omega)}{\cos \frac{1}{2}(i+\omega)} \text{cotan} \frac{1}{2} \Omega$[/del] [del]$\text{cotan} \frac{1}{2} \Psi = \frac{\sin \frac{1}{2}(i-\omega)}{\sin \frac{1}{2}(i+\omega)} \text{cotan} \frac{1}{2} \Omega$[/del]
+[del]$N = \Phi + \Psi$[/del] [del]$\Phi - \Psi$[/del] [del]$\tan \frac{1}{2} I = \frac{\sin \frac{1}{2} \Phi}{\sin \frac{1}{2} \Psi} \tan \frac{1}{2}(i-\omega) = \frac{\cos \frac{1}{2} \Phi}{\cos \frac{1}{2} \Psi} \tan \frac{1}{2}(i+\omega)$[/del]
+
+$\tan \Phi = \frac{\cos \frac{1}{2}(i-\omega)}{\cos \frac{1}{2}(i+\omega)} \tan \frac{1}{2} \Omega$     $\tan \Psi = \frac{\sin \frac{1}{2}(i-\omega)}{\sin \frac{1}{2}(i+\omega)} \tan \frac{1}{2} \Omega$
+
+$N = \Phi + \Psi$     $\phi = \Phi - \Psi$
+
+
+$\tan P = \frac{\sin \frac{1}{2}(I+\delta)}{\sin \frac{1}{2}(I-\delta)} \tan \frac{1}{2}(N-\alpha)$     $\tan Q = \frac{\cos \frac{1}{2}(I+\delta)}{\cos \frac{1}{2}(I-\delta)} \tan \frac{1}{2}(N-\alpha)$
+
+$90^{\circ} + p = P + Q$     $u? = P - Q$     $\tan \frac{1}{2} l = \frac{\sin Q}{\sin P} \text{cotan} \frac{1}{2}(I+\delta) = \frac{\cos Q}{\cos P} \text{cot} \frac{1}{2}(I-\delta)$

@@ -1,0 +1,24 @@
+It would seem to follow
+
+    since [ins]$C_{\Sigma x} \equiv \Sigma C_x$[/ins]
+
+    that $C_{x+x+x+x} \equiv C_{n,x} \equiv n, C_x$
+
+But it plainly does not follow. Or rather that
+$n$ must be $\equiv 1$.
+
+It is true, however, that
+
+    $C_{n,x} \equiv v, C_{n}, C_x$
+
+for [del]$C_{n,x+u} = C$[/del] putting $u \equiv (1-n),x$
+
+    $C_{n,x + u} \equiv C_x \equiv C_{n,x} + C_u$
+
+And so $C_n \equiv C_{n,x} + C_{u'}$
+
+    $\therefore C_n, C_x \equiv C_{n,x} + C_u, C_{u'}$
+
+Hence putting $v \equiv \text{[del]}C_{n,x}\text{[/del]} (1-C_{u,n,x}), (1-C_{(1-x),n})$
+
+    $v, C_n, C_x \equiv C_{n,x}$

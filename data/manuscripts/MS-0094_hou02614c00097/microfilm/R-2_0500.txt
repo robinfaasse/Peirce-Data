@@ -1,0 +1,32 @@
+[pn]149[/pn]
+
+CH. XIX. § 491.] REGULAR POLYEDRONS.
+
+Number of Faces of the Regular Polyedrons.
+
+[del]A[/del] [ins]A[/ins] $= 360^{\circ} \div m$.
+
+Again, the sum of the angles of each spherical polygon is $n \times A$; and therefore the surface of the polygon, which we shall denote by $S$, is, by $\S$ 470,
+$$S = n \times A - (n - 2) \times 180^{\circ},$$
+or
+$$S = n \times 360^{\circ} \div m - (n - 2) \times 180^{\circ}.$$
+
+Hence the number of faces is easily found, and is equal to the number of times which $S$ is contained in the surface of the sphere, or, by $\S$ 464 in $720^{\circ}$.
+
+490. Corollary. *When the polyedron is composed of equilateral triangles, we have $n = 3$, whence*
+$$S = 1080^{\circ} \div m - 180^{\circ}.$$
+
+*a. If, then, the number of plane angles at each vertex is $3$, we have $m = 3$, whence*
+$$S = 360^{\circ} - 180^{\circ} = 180^{\circ},$$
+*which is contained $4$ times in $720^{\circ}$, and therefore this polyedron is a tetraedron.*
+
+*b. If the number of plane angles at each vertex is $4$, we have $m = 4$, whence*
+$$S = 270^{\circ} - 180^{\circ} = 90^{\circ},$$
+*which is contained $8$ times in $720^{\circ}$, and, therefore, this polyedron is an octaedron.*
+
+*c. If the number of plane angles at each vertex is $5$, we have $m = 5$, whence*
+$$S = 216^{\circ} - 180^{\circ} = 36^{\circ},$$
+*which is contained $20$ times in $720^{\circ}$, and therefore this polyedron is an icosaedron.*
+
+491. Corollary. *When the polyedron is composed of squares, we have $n = 4$, and, by $\S$ 486, $m = 3$, whence*
+$$S = 480^{\circ} - 360^{\circ} = 120^{\circ},$$

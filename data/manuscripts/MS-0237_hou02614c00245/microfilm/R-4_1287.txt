@@ -1,0 +1,25 @@
+[u]Some useful formulae of repeated differentiation[/u]
+
+To save space etc. I write [circled]x[/circled] for log x, and express differentiation by accents. Then we have in general
+
+(1) [u]w'[/u] / w = [circled]w[/circled]'
+
+(2) [u]v[/u] / u ([u]u[/u] / v)' = [circled]u[/circled]' - [circled]v[/circled]' [ins]Put [u]u[/u] / v in place of w[/ins]
+
+[del](3)[/del] ([u]u[/u] / v)' = [u]u'[/u] / v - [u]u v'[/u] / v²
+
+(4) ([circled]w[/circled]')' = [u]w''[/u] / w - ([u]w'[/u] / w)² = [u]w''[/u] / w - ([circled]w[/circled]')² [ins]Multiplying by w/w' [del]Applying (2) to the case where u=v'[/del][/ins]
+
+(5) [u]w''[/u] / w = [circled]w[/circled]'' + ([circled]w[/circled]')² [ins]Applying (3) to the case where u=v' [del]Put u' in place of u[/del] Transposing[/ins]
+
+(6) [u]v[/u] / u ([u]u[/u] / v)'' = [circled]u[/circled]'' + ([circled]u[/circled]')² - ([circled]v[/circled]')² - [circled]v[/circled]'' [ins]Put [u]u[/u] / v in place of w[/ins]
+= [u]u''[/u] / u - ([u]u'[/u] / u)² + ([u]u'[/u] / u)² - 2 [u]u' v'[/u] / u v + ([u]v'[/u] / v)² + ([u]v'[/u] / v)² - [u]v''[/u] / v
+= [u]u''[/u] / u - 2 [u]u' v'[/u] / u v + 2 ([u]v'[/u] / v)² - [u]v''[/u] / v
+
+(7) ([u]u[/u] / v)'' = [u]u''[/u] / v - 2 [u]u' v'[/u] / v² + 2 [u]u v'²[/u] / v³ - [u]u v''[/u] / v² = [u]u''[/u] / v - [u]u v''[/u] / v² - 2 [u]v'[/u] / v ([u]u[/u] / v)' [ins]Multiplying by u/v[/ins]
+
+[del](8)[/del] ([circled]w[/circled]')'' = ([circled]w[/circled]'')' = [u]w'''[/u] / w - 3 [u]w' w''[/u] / w² + 2 [u]w'³[/u] / w³ [ins]Applying this to the case where u = v'[/ins]
+
+(9) [u]w'''[/u] / w = [circled]w[/circled]''' - 3 [circled]w[/circled]' ([circled]w[/circled]'' + ([circled]w[/circled]')²) + 2 ([circled]w[/circled]')³
+
+[marginalia]Applying (1), (5) etc[/marginalia]

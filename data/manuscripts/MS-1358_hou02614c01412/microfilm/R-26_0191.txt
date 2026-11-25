@@ -1,0 +1,35 @@
+[marginalia]Morrison's Bridge [date]1898 Feb 24[/date][/marginalia]
+
+It will be preferable to express everything in terms of
+$a'$ $b'$ $c'$ $c''$ $X$ $X'$ instead of using $a$ and $b$
+
+$\text{Total energy} = 2 B \left[ c'' (I+N) + c'^2 (J-I) + c''^2 (N-J) \right]$
+$+ W \left[ a' (J-I) + \frac{b'}{2} (J^2-I^2) + \frac{c'}{3} (J^3-I^3) \right]$
+
+$+ \frac{E}{2} \left\{ \frac{1}{4c'} \left\{ [b'-2(c-c'')J+2c''N] \sqrt{1+[b'-2(c-c'')J+2c''N]^2} + \log \left( [b'-2(c-c'')J+2c''N] + \sqrt{1+[b'-2(c-c'')J+2c''N]^2} \right) \right\} \right.$
+$+ \left( \frac{1}{4c} - \frac{1}{4c'} \right) \left\{ [b'+2c'J] \sqrt{1+[b'+2c'J]^2} + \log \left( b'+2c'J + \sqrt{1+[b'+2c'J]^2} \right) \right\}$
+$+ \left( \frac{1}{4c} - \frac{1}{4c'} \right) \left\{ [b'+2c'I] \sqrt{1+[b'+2c'I]^2} + \log \left( b'+2c'I + \sqrt{1+[b'+2c'I]^2} \right) \right\}$
+$- \frac{1}{4} \frac{1}{c'} \left\{ [b'-2(c-c')I-2cN] \sqrt{1+[b'-2(c-c')I-2cN]^2} + \log \left( [b'-2(c-c')I-2cN] + \sqrt{1+[b'-2(c-c')I-2cN]^2} \right) \right\}$
+
+$+ (R-N) \sqrt{1+e''^2} \sqrt{1 + \frac{2X}{R-N} \frac{1+2e''^2}{1+e''^2} + \frac{X^2}{(R-N)^2}}$ where $e'' = \frac{\frac{2R-N}{2n} N - a' + (c'-c'')J^2 - [b'+2(c'-c'')J]N - c''N^2}{R+X-N}$
+$+ (R-N) \sqrt{1+e^2} \sqrt{1 + \frac{2X}{R-N} \frac{1+2e^2}{1+e^2} + \frac{X^2}{(R-N)^2}}$ where $e = \frac{[del]\frac{R-N}{2n}[/del] -a' - (c-c')I^2 + [ \frac{b'}{R} + b'-2(c-c')I ] N - (c+\frac{1}{2n}) N^2}{R+X-N}$
+
+$- N \sqrt{1+\frac{N^2}{r^2}} [del]- \frac{N^2}{r} \log \left( \frac{N}{r} + \sqrt{1+\frac{N^2}{r^2}} \right)[/del] \left. \right\} [del]\left\{ N \sqrt{1+\frac{N^2}{r^2}} + \frac{r^2}{N} \log \left( \frac{N}{r} + \sqrt{1+\frac{N^2}{r^2}} \right) \right\}[/del]$
+
+$+ K X^2$
+
+$+ W \left\{ 2a' + (c-c')I^2 - (c'-c'')J^2 + 2 [ (c-c')I + (c'-c'')J ] N + (c+c'') N^2 \right\}$
+
+$+ \frac{1}{2} \Omega \left\{ \begin{aligned} & 2a'^2 - 2a'(c'-c'')J^2 + (c'-c'')^2 J^4 \\ & + 2a'(c-c')I^2 + (c-c')^2 I^4 \end{aligned} \right.$
+$+ \left[ \begin{aligned} & [del]2a'b' + 4a'(c'-c'')J - 2b'(c'-c'')J^2 - 4(c'-c'')^2 J^3[/del] \\ & + 4a'(c-c')I - 2b'(c-c')I^2 + 4(c-c')^2 [del]I^3[/del] \end{aligned} \right] N$
+$+ \left[ \begin{aligned} & 2a'c'' - [del]2(c'-c'')c''J^2[/del] + 4b'(c'-c'')J \\ & + 2b'^2 + [del]4(c'-c'')^2[/del] J^2 \\ & + 2a'c + [del]2(c-c')c I^2[/del] \\ & + [del]b'^2[/del] + [del]4(c-c')^2 I^2[/del] - 4b'(c-c')I \end{aligned} \right] N^2$
+$+ \left[ \begin{aligned} & 2b'c'' + 4(c'c''-c''^2)J \\ & - 2b'c + 4(c^2-cc')I \end{aligned} \right] N^3$
+$+ (c''^2 + c^2) N^4 \left. \vphantom{\begin{aligned} & 2a'^2 \\ & + 2a' \end{aligned}} \right\}$
+
+[marginalia]
+$\frac{\sqrt{1+x^2}+x}{\sqrt{1+x^2}-x} = \frac{1+\frac{1}{2}x^2+x}{1-x+\frac{1}{2}x^2}$
+$(1+x+\frac{1}{2}x^2)(1+x+\frac{1}{2}x^2)$
+$1+x$
+$\frac{\sqrt{1+x^2}-x}{\sqrt{1+x^2}+x}$
+$\frac{1-x}{1+x-x^2}$
+[/marginalia]

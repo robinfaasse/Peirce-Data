@@ -1,0 +1,35 @@
+proposition
+
+$$(a \prec b) \prec a \prec c.$$
+
+By [u]Rule III[/u], from this follows $b \prec a \prec c$. But further from the latter the former follows. For, by prop. B, this is true provided
+
+$$(b \prec a \prec c) \prec (a \prec b) \prec a \prec c$$
+
+or
+
+[del]$$a \prec (a \prec b \prec c) \prec$$[/del]
+
+$$a \prec (a \prec b) \prec (a \prec b \prec c) \prec c$$
+
+But, by prop. A, this holds; for if $a$ and $a \prec b$ are true, $b$ is true and if $a$ and $b$ [del]and $(a \prec b \prec c)$[/del] are true $c$ is true.
+
+Next consider the proposition
+
+$$[(a \prec b) \prec c] \prec a \prec d$$
+
+By [u]Rule III[/u], this follows from $(b \prec c) \prec a \prec d$. But further the latter follows from the former. [del]For by [u]Rule III[/u] from $(a \prec b) \prec c$ follows $b \prec c$. Hence by the principle of contraposition from $[(a \prec b) \prec c]$[/del] For the principle of contraposition with prop A gives us
+
+[del]$$a \prec (a \prec b) \prec (b \prec c) \prec a \prec c$$[/del]
+
+$$(b \prec c) \prec a \prec (a \prec b) \prec c$$
+
+or
+
+Hence by the principle of contraposition
+
+$$\{[(a \prec b) \prec c] \prec a \prec d\} \prec [(b \prec c) \prec a] \prec a \prec d$$
+
+or by the principle of insertions and omissions
+
+$$\{[(a \prec b) \prec c] \prec a \prec d\} \prec (b \prec c) \prec a \prec d$$

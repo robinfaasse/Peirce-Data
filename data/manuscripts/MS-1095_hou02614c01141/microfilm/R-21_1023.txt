@@ -1,0 +1,25 @@
+$$\begin{matrix}
+A_{1}D^{2}+\alpha_{1} & B_{12}D^{2}-\beta_{12} & \gamma_{13} & 0 & 0 & 0 \\
+B_{12}D^{2}-\beta_{12} & A_{2}D^{2}+\alpha_{2} & B_{23}D^{2}-\beta_{23} & \gamma_{24} & 0 & 0 \\
+\gamma_{13} & B_{23}D^{2}-\beta_{23} & A_{3}D^{2}+\alpha_{3} & B_{34}D^{2}-\beta_{34} & \gamma_{35} & \\
+0 & \gamma_{24} & B_{34}D^{2}-\beta_{34} & A_{4}D^{2}+\alpha_{4} & B_{45}D^{2}-\beta_{45} & \\
+0 & 0 & \gamma_{35} & B_{45}D^{2}-\beta_{45} & A_{5}D^{2}+\alpha_{5} & 
+\end{matrix}$$
+
+[del]A_{1}A_{2}A_{3}A_{4}\dots\text{etc}[/del] $-B_{12}^{2}A_{3}A_{4}A_{5}-A_{1}B_{23}^{2}A_{4}A_{5}$
+
+[del]A_{1}A_{2}A_{3}A_{4}A_{5}[/del]
+
+$(A_{1}A_{2}A_{3}-B_{12}^{2}A_{3}-[del]B_{23}[/del]A_{1}B_{23}^{2})D^{6} + (A_{1}A_{2}\alpha_{3}+A_{1}\alpha_{2}A_{3}+\alpha_{1}A_{2}A_{3}$
+$\begin{aligned}
+& +2B_{12}B_{23}\gamma_{13}+2A_{1}B_{23}\beta_{23} \\
+& +2B_{12}\beta_{12}A_{3}-\alpha_{1}B_{23}^{2}-B_{12}^{2}\alpha_{3})D^{4}
+\end{aligned}$
+
+$+(A_{1}\alpha_{2}\alpha_{3}+\alpha_{1}A_{2}\alpha_{3}+\alpha_{1}\alpha_{2}A_{3}-2B_{12}\beta_{23}\gamma_{13}-2\beta_{12}B_{23}\gamma_{13}$
+$-A_{1}\beta_{23}^{2}-B_{12}^{2}A_{3}+2\alpha_{1}B_{23}\beta_{23}+2B_{12}\beta_{12}\alpha_{3}-A_{2}\gamma_{13}^{2})D^{2}$
+
+$A_{1}D^{2}x+\alpha_{1}x+B_{12}D^{2}y-\beta_{12}y+\gamma_{13}z=0$
+$y=Yx\quad z=Zx$
+$(A_{1}+YB_{12})D^{2}x+(\alpha_{1}-\beta_{12}Y+\gamma_{13}Z)x=0$
+$D^{2}=-\frac{\alpha_{1}-\beta_{12}Y+\gamma_{13}Z}{A_{1}+YB_{12}}$

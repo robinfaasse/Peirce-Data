@@ -1,0 +1,29 @@
+1910 Feb 24
+number of [del]Black birds[/del] [ins]birds[/ins] B [del]B[/del] [ins]$\overline{B}$[/ins]
+number of [del]Blackbirds[/del] [ins]other birds[/ins] [del]$\overline{B}$[/ins] [ins]B[/ins]
+number Black birds having first shaped bill [del]$\pi$[/del] [ins]$\pi$[/ins]
+" Number other birds with first shaped bill [del]$\pi$[/del] [ins]$\bar{\pi}$[/ins]
+" Black birds having second shaped bill [del]$\pi \pi$[/del] [ins]$\pi \pi$[/ins]
+" other birds " " " [del]$\pi \pi$[/del] [ins]$\bar{\pi \pi}$[/ins]
+" [del]Black birds[/del] [ins]other birds[/ins] having neither shaped bill [del]$\pi$[/ins] [ins]$\bar{\tau}$[/ins]
+[del]B[/del] [ins]$\bar{B}$[/ins] + [del]$\bar{B}$[/ins] [ins]B[/ins] = [del]$\pi$[/del] [ins]$\bar{\pi}$[/ins] + [del]$\pi \pi$[/ins] [ins]$\bar{\pi \pi}$[/ins]
+
+[del]B[/del] [ins]B[/ins] = [del]$\pi$[/del] [ins]$\pi$[/ins] + [del]$\pi \pi$[/ins] [ins]$\pi \pi$[/ins] + [del]$\pi$[/del] [ins]$\tau$[/ins] [ins]B - [/ins]
+[del]$\bar{B}$[/ins] [ins]$\bar{B}$[/ins] = [del]$\pi$[/del] [ins]$\bar{\pi}$[/ins] + [del]$\pi \pi$[/ins] [ins]$\bar{\pi \pi}$[/ins] + [del]$\pi$[/del] [ins]$\bar{\tau}$[/ins]
+
+$\frac{\pi}{\bar{\pi}}$ + $\frac{\pi \pi}{\bar{\pi \pi}}$ [fig]figure[/fig] [ins]$\pi + \pi \pi$[/ins]
+
+[fig]figure[/fig]
+
+[u]Black birds having $1^{\text{st}}$ or $2^{\text{nd}}$ shaped bill[/u]
+[u]other birds having $1^{\text{st}}$ or $2^{\text{nd}}$ shaped bill[/u]
+
+$\frac{\pi + \pi \pi}{\bar{\pi} + \bar{\pi \pi}}$ = $\frac{\pi}{\bar{\pi}} \frac{\bar{\pi}}{\bar{\pi} + \bar{\pi \pi}} + \frac{\pi \pi}{\bar{\pi \pi}} \frac{\bar{\pi \pi}}{\bar{\pi} + \bar{\pi \pi}}$
+
+$\frac{A}{B} = \frac{C}{D} \therefore \frac{A+C}{B+D}$
+
+$\frac{A}{B} + \frac{C}{D} = \frac{A+C}{B+D}$
+
+$AD(B+D) + BC(B+D) = ABD + CBD$
+
+$ABD + AD^2 + B^2C + BCD$ [fig]figure[/fig]

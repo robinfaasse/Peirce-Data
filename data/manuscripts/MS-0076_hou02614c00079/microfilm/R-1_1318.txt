@@ -1,0 +1,12 @@
+[pn]7[/pn]
+
+[fig]Multiplication table for elements i, j, k, l, m[/fig]
+
+Ordinary algebra with imaginaries, considered as a double algebra, is in relative form
+[del]1 = A:A + B:B, J = X:B - B:A. Quaternions in relative[/del] 1 = (X:X) + (Y:Y), J = (X:Y) - (Y:X).
+This shows how the operation J turns through a right angle in the plane of X, Y. Quaternions in relative form is
+1 = (W:W) + (X:X) + (Y:Y) + (Z:Z),
+i = (X:W) - (W:X) + (Z:Y) - (Y:Z),
+j = (Y:W) - (Z:X) - (W:Y) + (X:Z),
+k = (Z:W) + (Y:X) - (X:Y) - (W:Z).
+We see that we have here a reference to a space of four dimensions X, Y, Z, W. [[ins]C.S.P.[/ins]]

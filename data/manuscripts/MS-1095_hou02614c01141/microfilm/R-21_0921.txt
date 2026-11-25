@@ -1,0 +1,18 @@
+Substituting these values in the expression for
+[del]U[/del], we have
+$$U = \frac{1}{2} g m_0 h_0 \theta_0^2 + \frac{1}{2} g m_0 r \theta_0^2 + \frac{1}{2} g m h \theta_0^2 - \frac{1}{2} g m h \theta_0^2 \omega.$$
+
+In order [del]to[/del] [ins]to[/ins] express the Kinetic energy, we
+must first find the distance of the axis of the
+joint from the centre of rotation of the second
+piece, which distance we may denote by $r + \delta r$.
+This is given by the equation
+$$(r + \delta r) (\theta_0 + \delta \theta) = r \theta_0$$
+or
+$$\delta r . \theta_0 + r . \delta \theta = 0$$
+or
+$$\delta r = - r \frac{\delta \theta}{\theta_0} = r \omega.$$
+
+The Kinetic energy is thus seen to be
+$$T = \frac{1}{2} m_0 (h_0^2 + \gamma_0^2) (D_t \theta_0)^2 + \frac{1}{2} m \left\{ (r + r \omega + h)^2 + \gamma^2 \right\} (D_t \theta)^2$$
+$$= \frac{1}{2} m_0 (h_0^2 + \gamma_0^2) (D_t \theta_0)^2 + \frac{1}{2} m \left\{ (r + h)^2 + \gamma^2 - 2 (h r + h^2 + \gamma^2) \omega \right\} (D_t \theta_0)^2$$

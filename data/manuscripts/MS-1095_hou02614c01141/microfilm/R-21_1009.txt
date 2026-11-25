@@ -1,0 +1,22 @@
+$$\frac{\mathcal{M}}{\mathcal{W}} = \frac{1}{g} \frac{[del]m L[/del] + \frac{\omega}{h} (h^{2}+\gamma^{2}) \frac{\{ m_{\circ}h_{\circ} + m(l-h) \}}{MH}}{\frac{\{ m_{\circ}h_{\circ} + m(l-h) \}}{MH}}$$
+
+$$= \frac{I}{g} \left\{ \frac{MH}{m_{\circ}h_{\circ}+m(l-h)} + \omega \frac{\frac{h^{2}+\gamma^{2}}{h}}{I} \right\}$$
+
+$$\begin{aligned} \varepsilon &= \frac{1-\omega}{\omega} mgh \\ &= mgh \frac{1}{\omega} - mgh \end{aligned}$$
+
+[u]from former calc.[/u]
+$$\begin{aligned} \omega \mathcal{M} &= \frac{1-\omega}{\omega} mgh \left\{ m_{\circ}(h_{\circ}^{2}+\gamma_{\circ}^{2}) + m [del][r+r_{2} + \gamma_{2}^{2}][/del] [ins]\begin{array}{c} (r+h)^{2} \\ + \gamma^{2} \end{array}[/ins] \right\} \\ &+ gm [del]\omega[/del] [ins]\varepsilon[/ins] \left\{ m_{\circ} [ h_{\circ} \frac{h_{\circ}^{2}+\gamma^{2}}{h} + h_{\circ}^{2}+\gamma_{\circ}^{2} ] + m [del]h[/del] [ins]r[/ins] (r + \frac{h^{2}+\gamma^{2}}{h}) \right\} \end{aligned}$$
+
+$$\begin{aligned} \omega \mathcal{M} &= \left\{ m_{\circ}(h_{\circ}^{2}+\gamma_{\circ}^{2}) + mr^{2} \right\} \{ gmh + \varepsilon \} + \{ gm_{\circ}h_{\circ} + gml + \varepsilon \} \{ m(h^{2}+\gamma^{2}) \} \\ &+ 2mrh\varepsilon \end{aligned}$$
+
+$$= \frac{1-\omega}{\omega} \frac{gm}{h} \left\{ m_{\circ}(h_{\circ}^{2}+\gamma_{\circ}^{2}) + mr^{2} + m(h^{2}+\gamma^{2}) + 2mrh \right\} [ins]\begin{array}{c} m [ (h+r)^{2} + \gamma^{2} ] \end{array}[/ins]$$
+$$+ gm^{2} \left\{ m_{\circ}h(h_{\circ}^{2}+\gamma_{\circ}^{2}) + mhr^{2} + m_{\circ}h_{\circ}(h^{2}+\gamma^{2}) + ml(h^{2}+\gamma^{2}) \right\}$$
+
+$$\begin{aligned} \omega \mathcal{M} &= gmh \{ \quad \} \\ &+ \frac{gm}{\omega} \left\{ m_{\circ}h_{\circ}(h^{2}+\gamma^{2}) + m \left\{ (r-h)\gamma^{2} - h^{2}(h+r) \right\} \right\} \end{aligned} \quad \begin{aligned} (r-h)\gamma^{2} \quad &hr^{2} + h^{2}r \\ &- h^{3} - hr^{2} - 2h^{2}r \\ &- h^{2}(h+r) \end{aligned}$$
+[u]right.[/u]
+
+$$\left. \begin{aligned} \omega \mathcal{N} &= [del]mg[/del] g^{2}mh \{ m_{\circ}h_{\circ} + m(r+h) \} \\ &+ \omega g^{2}m^{2}h^{2} \{ [del]m_{\circ}h_{\circ} + mr[/del] \end{aligned} \right\} \text{right}$$
+
+$$\mathcal{N} = BH - E^{2} = (gm_{\circ}h_{\circ} + gml - gmh + [del]mgh \frac{1}{\omega}[/del]) (mgh \frac{1}{\omega} - [del]mgh[/del] [ins]\frac{m^{2}g^{2}h^{2}}{\omega^{2}}[/ins] + 2 \frac{m^{2}g^{2}h^{2}}{\omega} - [del]m^{2}g^{2}h^{2}[/del])$$
+
+$$\mathcal{N}\omega = g^{2}mh \{ m_{\circ}h_{\circ} + gm [del](l-h)[/del] \} - \frac{m^{2}g^{2}h}{g^{2}m^{2}h^{2}\omega}$$

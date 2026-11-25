@@ -1,0 +1,24 @@
+[marginalia]
+[pn]Logic[/pn]
+[pn]I[/pn]
+[pn]III[/pn]
+[pn]108[/pn]
+[/marginalia]
+
+[u]Definitions of Composition and Aggregation[/u]
+
+If [u]x[/u] and [u]y[/u] are any quantities of this algebra (whether the same or different)
+
+If [u]x[/u] [u]y[/u] = [u]v[/u], then [u]x[/u] = [u]v[/u];
+If [u]x[/u] [u]y[/u] = [u]v[/u], then [u]y[/u] = [u]v[/u];
+If [u]x[/u] = [u]v[/u], then if [u]y[/u] = [u]v[/u], [del]so likewise [u]x[/u] [u]y[/u] = [u]v[/u][/del]
+So likewise [u]x[/u] [u]y[/u] = [u]v[/u].
+
+If [u]x[/u] [ins]+[/ins] [u]y[/u] = [u]f[/u], then [u]x[/u] = [u]f[/u];
+If [u]x[/u] [ins]+[/ins] [u]y[/u] = [u]f[/u], then [u]y[/u] = [u]f[/u];
+If [u]x[/u] = [u]f[/u], then if [u]y[/u] = [u]f[/u],
+so likewise [u]x[/u] [ins]+[/ins] [u]y[/u] = [u]f[/u].
+
+Substantially these definitions of composition and aggregation were given by me in [date]1880[/date] ([u]Am. Jour. Math.[/u] [u]III[/u]. 33) They have the effect of reducing all legitimate transformations to successive legitimate insertions and omissions. The demonstration of this is very easy; but I think it will be more accurately appreciated if I postpone giving it until I have first shown what transformations are, by the above definitions, legitimated though insertions and omissions.
+
+I. Any proposition in this algebra, being written on a sheet of assertions, can [ins]without loss of truth,[/ins] receive the insertion of a vinculum below it.

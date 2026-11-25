@@ -1,0 +1,58 @@
+[fig]crescent shape[/fig] Some S is all P
+Some S is some P
+None of S is any P
+None of S is some P
+
+Some S is none of P
+None of S is none of P
+
+[fig]two overlapping circles[/fig] [fig]small circle[/fig]
+
+[fig]two overlapping circles[/fig]
+[fig]two circles, one inside the other[/fig] [fig]two circles side by side[/fig]
+[fig]two circles, one inside the other[/fig] [fig]circle[/fig]
+[fig]shaded rectangle[/fig] [fig]circle[/fig] [fig]square[/fig] [fig]square[/fig]
+[fig]square[/fig] [fig]circle with dot[/fig] [fig]square with circle inside[/fig] [fig]square with circle inside[/fig] [fig]square with circle inside[/fig]
+All S is [del]not[/del] all P
+All S is not [del]all[/del] [ins]some[/ins] P [del]all[/del]
+
+All S = all P [fig]parenthesis[/fig] [fig]shaded polygon[/fig]
+All S = [del]some[/del] [ins]all[/ins] P [fig]parenthesis[/fig] 1, 2
+All S = no P 3
+
+[del]Some[/del] [ins]All[/ins] } S = all P 1, 4
+[del]Some[/del] [ins]All[/ins] } S = [del]Some[/del] [ins]All[/ins] } P 1, 2, 4, 5
+[del]Some[/del] [ins]All[/ins] } S = No P 3, 6
+
+[fig]leaf shape[/fig] [fig]circle with dot[/fig]
+[fig]circle[/fig] [fig]circle with dot[/fig]
+[fig]circle with dot[/fig] [fig]oval[/fig] [fig]circle with dot[/fig]
+[fig]two dots[/fig] [fig]circle[/fig] [fig]circle with dot[/fig]
+[fig]circle with dot[/fig] [fig]circle with dot[/fig]
+
+Some S is all P
+No S is all P
+
+3 All S = No P
+1 All S = All P
+2 All S = Some P
+5 Some S = Some P
+4 Some S = All P
+6 Some S = No P
+
+[fig]circle with dot[/fig] [fig]four dots[/fig] [fig]two circles, one inside the other[/fig]
+
+Some S is [del]some[/del] P
+Some S is not all P
+All S is not some P
+
+[fig]circle[/fig] [fig]circle with dot[/fig] [fig]circle with dot[/fig] [fig]circle with dot[/fig] [fig]circle[/fig] [fig]circle[/fig]
+[fig]two circles, one inside the other[/fig] [fig]two dots[/fig] [fig]circle[/fig]
+[fig]two circles, one inside the other[/fig] [fig]two dots[/fig] [fig]circle with dot[/fig] [fig]circle with dot[/fig]
+[fig]square with circle inside[/fig] [fig]square with circle inside[/fig]
+[fig]circle[/fig] [fig]circle with lines[/fig]
+
+[del]Some men are not negroes[/del]
+[del]All negroes are black[/del]
+
+[del]All men are not wise[/del]

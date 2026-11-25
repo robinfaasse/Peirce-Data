@@ -1,0 +1,21 @@
+$$\sqrt{\frac{b_{1}b_{2}}{g_{1}g_{2}}} \sqrt{1 + \ell + a_{1}}$$
+
+$$\begin{array}{c c}
+g_{1} = g + \gamma & b_{1} = b + \beta \\
+g_{2} = g - \gamma & b_{2} = b - \beta
+\end{array}$$
+
+$$\frac{b^{2} - \beta^{2}}{g^{2} - \gamma^{2}} \qquad \frac{b^{2} \left(1 - \frac{\beta^{2}}{b^{2}} + \frac{\gamma^{2}}{g^{2}}\right)}{g^{2}}$$
+
+$$\frac{b}{g} \left(1 - \frac{1}{2} \frac{\beta^{2}}{b^{2}} + \frac{1}{2} \frac{\gamma^{2}}{g^{2}}\right)$$
+
+$$\frac{\ell + \lambda + a + \alpha}{2(g + \gamma)} + \frac{\ell - \lambda + a - \alpha}{2(g - \gamma)}$$
+
+$$\frac{\ell + a + \lambda + \alpha}{2g} \left(1 - \frac{\gamma}{g}\right) + \frac{\ell + a - \lambda - \alpha}{2g} \left(1 + \frac{\gamma}{g}\right) =$$
+$$\begin{array}{r}
++ \frac{\gamma^{2}}{g^{2}} \qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad \times \frac{\gamma^{2}}{g^{2}}
+\end{array}$$
+
+$$\frac{\ell + a}{g} - \frac{(\lambda + \alpha)\gamma}{g^{2}} + \frac{(\ell + a)\gamma^{2}}{g^{3}} \qquad\qquad \Phi = \frac{1}{100} \quad \frac{1}{10,000}$$
+
+$$\frac{\ell}{g} + \frac{a - b}{g} - \frac{(\lambda + \alpha)\gamma}{g^{2}} + \frac{1}{2} \frac{\beta^{2}}{gb} + \frac{\ell\gamma^{2}}{g^{3}} - \frac{\left(a - \frac{1}{2}b\right)\gamma^{2}}{g^{3}}$$

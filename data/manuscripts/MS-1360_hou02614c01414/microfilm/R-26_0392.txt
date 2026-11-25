@@ -1,0 +1,28 @@
+$$X^3 + C'_n X^2 + C''_n X + C'''_n = 0$$
+$$4 X^3 + 3 C'_n X^2 + 2 C''_n X + C'''_n = C'''_{n+1}$$
+$$6 X^3 + 3 C'_n X^2 + C''_n X \hspace{1.3cm} = C''_{n+1} X$$
+
+$$\begin{array}{rcc}
+X^3 & - C''_n X - 2 C'''_n & = C'''_{n+1} [del]\text{X}[/del] \\
+3 X^3 & - 2 C''_n X - 3 C'''_n & = C''_{n+1} X
+\end{array}$$
+
+[del]$$\sqrt{3} (\sqrt{3} \cdot 2 + 1) X^3$$[/del]
+[del]$$(p+3) (p+3) X^3 - (p+2q) C''_n X - (2p+3q) C'''_n =$$[/del]
+$$(3p + q) X^3 - (2p + q) C''_n X - (3p + 2q) C'''_n = p C'''_{n+1} + q C''_{n+1}$$
+
+$$\frac{p}{2p+q} = \frac{q}{3p+2q}$$
+$$3p^2 + [del]2pq[/del] = [del]2pq[/del] + q^2$$
+$$q = \sqrt{3} p$$
+
+$$\sqrt{3} (\sqrt{3} + 1) X^3 - (2 + \sqrt{3}) C''_n X - (\sqrt{3} (\sqrt{3} + 2) C'''_n = C''_{n+1} X + \sqrt{3} C'''_{n+1}$$
+
+$$C''_{n+1} X + \sqrt{3} C'''_{n+1} = - (2 + \sqrt{3}) [ C''_n X + C'''_n ] + \sqrt{3} (\sqrt{3} + 1) X^3$$
+$$C''_{n+2} X + \sqrt{3} C'''_{n+2} = - (2 + \sqrt{3})^2 [ \hspace{1cm} ] + \frac{1 - [del]3[/del]^2 (2 + \sqrt{3})^p - 1}{[del]2 (2 + \sqrt{3}) - 1[/del]} X^3$$
+
+[del]$$\frac{C'_{N+1}}{} = - 4 (\hspace{0.5cm}) *$$[/del]
+$$C'_{N+1} = - 4 \Xi$$
+$$C''_{N+1} = 6 \Xi^2 - 12 \Xi^2$$
+
+$$\sqrt{3} C'''_{N+1} = - 6 \Xi^2 - Q (2 + \sqrt{3})^{N+1} - (-)^{N+1} (2 + \sqrt{3})^3 X^3$$
+$$C''_1 = - Q (2 + \sqrt{3}) + (2 + \sqrt{3}) X^3 + X^3 + X^3$$

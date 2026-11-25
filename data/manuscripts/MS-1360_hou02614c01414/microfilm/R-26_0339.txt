@@ -1,0 +1,26 @@
+If there is no horizontal stretch we imagine an infinitely short
+one interposed at the lowest point. If this is not at either end, but
+at $n = I$, we make the stretch horizontal by separating the
+weight $w_I - w_{I-1}$ into two parts $w_I - w_H$ and $w_H - w_{I-1}$ such that
+$$w_H = w_I - Q \tan \tau_I = w_{I-1} - Q \tan \tau_{I-1}$$
+which (4) shows to be possible. If the lowest point of the cord is
+at one tower, there is an upward pull on that tower. We balance it
+by an equal weight at an infinitesimal distance on the cord, making
+either $w_H = Q \tan \tau_0$
+or $w_H = - Q \tan \tau_N$;
+for $\tau_N$ will be negative if $N$ is the lowest point.
+
+We may apply the principle of virtual velocities. This at once
+shows the horizontal component of the stress is [del]the[/del] same at all points[del], for[/del][ins]. For[/ins]
+consider the portion of the cord between any two points. Move one hori-
+zontally by an infinitesimal distance. The centre of gravity will be
+raised or lowered. Carry the other extremity horizontally in the same direc-
+tion by the same amount. The two motions will merely shift the [del]whole[/del]
+horizontally. Hence there are equal and opposite [ins]horizontal[/ins] forces on the two points
+due to the intervening weight. We also show that the vertical stress equals
+the weight between the point and the horizontal stretch. For consider the
+portion of the cord between any point and the horizontal part. Raise
+both ends vertically. The form of the intervening portion is unchanged, and its
+centre of gravity is raised by the same amount. But there is evidently
+no vertical stress on the horizontal part. Hence, this measures the vertical
+stress at the other end.

@@ -1,0 +1,21 @@
+V.
+
+We now come to a Theorem which involves a property of number. It is that if $j$ is as great as $i$, it either is $i$ or is as great as whatever is next greater than $i$; that is,
+
+$\Pi_i \Pi_j \Pi_k (\bar{g}_{ij} + I_{ij} + \bar{E}_{ik} + g_{kj})$.
+
+Let us put
+$f_{ij} = \Pi_k (\bar{E}_{ik} + g_{kj} + I_{ij})$
+
+Then I say in the first place that $f_i$ is a hereditary character; that is that
+
+$\Pi_p \Pi_q (\bar{f}_{ip} + \bar{E}_{pq} + f_{iq})$.
+
+For the denial of this is
+$\Sigma_p \Sigma_q f_{ip} \bar{E}_{pq} \bar{f}_{iq}$,
+or substituting for the first $f$ its definition
+$\Sigma_p \Sigma_q \Pi_k (\bar{E}_{ik} + g_{kp} + I_{ip}) \bar{E}_{pq} \bar{f}_{iq}$.
+We multiply this by theorem III, which is
+$\Pi_a \Pi_b \bar{E}_{ab} + g_{ab}$,
+and thus get
+$\Sigma_p \Sigma_q \Pi_k \Pi_a \Pi_b (\bar{E}_{ik} + g_{kp} + I_{ip}) \bar{E}_{pq} \bar{f}_{iq} (\bar{E}_{ab} + g_{ab})$

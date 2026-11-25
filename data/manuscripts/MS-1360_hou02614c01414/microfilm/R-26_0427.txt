@@ -1,0 +1,13 @@
+of work in bending the truss per change of horizontal pull is zero.
+
+In measuring the modulus of elasticity, E, of a cable of length, L, cross section B, we attach a weight W, which descends, by [del]pull[/del] stretching the cable, for a distance [math]\delta[/math]L, doing the work by gravity W[math]\delta[/math]L, [del]at the expense of the cab[/del] [ins]and increasing by that amount[/ins] the positional energy of the molecules of the cable. The stress is [math]\frac{W}{B}[/math] on each unit of cross section; the strain is [math]\frac{\delta L}{L}[/math]; the modulus of elasticity is the ratio of the former to the latter, or [math]E = \frac{W L}{B \delta L}[/math]. The pull on the cable is [math]E B \frac{\delta L}{L} = W[/math] and the work which this has done is [math]\frac{W^2}{E B} L[/math].
+
+In the main-chains, the inclination of the chain to the horizon at any point being denoted by [math]\tau[/math], the pull is H sec [math]\tau[/math]. The length through an element, dx, of horizontal distance is sec [math]\tau \cdot dx[/math]. Consequently the total work on the main chains [del]is found by substituting in [math]\frac{W^2}{EB} L[/math], for L = sec [math]\tau \cdot dx[/math] and W = H sec [math]\tau[/math], and integrating from tower to tower.[/del]
+[math]\frac{H^2}{EB} \int_{-x}^{+x} (\sec \tau)^3 dx[/math]
+
+[del]But [math]\int \frac{dl}{\sec \tau} = \int dx = \frac{l}{\sec \tau} - \int l d(\frac{1}{\sec \tau})[/math][/del]
+[del]Hence[/del]
+[del][math]\int \sec \tau dx = \frac{l \sec \tau}{2} - \frac{\int l d(\sec \tau)}{2 (\sec \tau)^2}[/math][/del]
+
+[ins]One notes that[/ins]
+[del]But[/del] [math](\sec \tau)^3 = g \frac{d^2y}{dx^2}[/math]. The integral [math]\int_{-x}^{+x} \sec^3 \tau dx[/math] which is greater the more the stress is concentrated on the middle suspenders, may change with H or may remain constant. It does not necessarily change

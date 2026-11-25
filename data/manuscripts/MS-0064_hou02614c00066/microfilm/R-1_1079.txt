@@ -1,0 +1,31 @@
+Elementary Principles
+
+Any two numbers are equal or else one is greater than the other or else one is [del]$\infty$[/del] [ins]$\infty$[/ins].
+[del]But by $\infty$ is[/del] Using $\infty$ to mean positive logarithmic infinity.
+
+[del]Addition[/del]
+
+[del]$\oplus$[/del] The numbers form a cycle [fig]circle[/fig] Let $a, b, c,$ be three different numbers.
+Let $B\left(\begin{smallmatrix} a & b \\ & c \end{smallmatrix}\right)$ mean [del]from[/del] [ins]between[/ins] $a$ [del]to[/del] [ins]and[/ins] $b$ (inclusive of both) in that way in which
+$c$ is not between $a$ and $b$. Then every number is either $B\left(\begin{smallmatrix} a & b \\ & c \end{smallmatrix}\right)$ or $B\left(\begin{smallmatrix} b & c \\ & a \end{smallmatrix}\right)$ or $B\left(\begin{smallmatrix} c & a \\ & b \end{smallmatrix}\right)$
+and $a$ alone is both [del]$B\left(\begin{smallmatrix} c & a \\ & b \end{smallmatrix}\right)$[/del] and $B\left(\begin{smallmatrix} a & b \\ & c \end{smallmatrix}\right)$ etc. If $a=b$ only $a$ is $B\left(\begin{smallmatrix} a & b \\ & c \end{smallmatrix}\right)$ and
+[del]it is some number[/del] only $c$ is both $B\left(\begin{smallmatrix} b & c \\ & a \end{smallmatrix}\right)$ and $B\left(\begin{smallmatrix} c & a \\ & b \end{smallmatrix}\right)$ But what numbers
+are one and what the other is indeterminate.
+
+[fig]circle with points a, b, c, d, x, y[/fig] If $d$ is $B\left(\begin{smallmatrix} a & b \\ & c \end{smallmatrix}\right)$ then $c$ is $B\left(\begin{smallmatrix} a & b \\ & d \end{smallmatrix}\right)$ while $a$ is $B\left(\begin{smallmatrix} c & d \\ & b \end{smallmatrix}\right)$
+[del]and $b$ is $B\left(\begin{smallmatrix} c & d \\ & a \end{smallmatrix}\right)$[/del] and whatever is [del]$B\left(\begin{smallmatrix} c & a \\ & d \end{smallmatrix}\right)$[/del] [ins]since[/ins] or $B\left(\begin{smallmatrix} b & c \\ & a \end{smallmatrix}\right)$ is $B\left(\begin{smallmatrix} a & b \\ & d \end{smallmatrix}\right)$
+and whatever is $B\left(\begin{smallmatrix} a & d \\ & c \end{smallmatrix}\right)$ or $B\left(\begin{smallmatrix} d & b \\ & c \end{smallmatrix}\right)$ is $B\left(\begin{smallmatrix} a & b \\ & c \end{smallmatrix}\right)$
+Therefore is $\alpha$ is $B\left(\begin{smallmatrix} a & c \\ & d \end{smallmatrix}\right)$ and $\beta$ is $B\left(\begin{smallmatrix} c & a \\ & b \end{smallmatrix}\right)$ and $\gamma$ is $B\left(\begin{smallmatrix} a & b \\ & c \end{smallmatrix}\right)$
+[del]$\alpha, \beta, \gamma$ are[/del]
+[del]$a, b, c$ is $B\left(\begin{smallmatrix} b & c \\ & \alpha \end{smallmatrix}\right)$[/del] Hence $b$ is $B\left(\begin{smallmatrix} a & c \\ & \beta \end{smallmatrix}\right)$ and $c$ is $B\left(\begin{smallmatrix} \alpha & \beta \\ & b \end{smallmatrix}\right)$
+while $a$ is $B\left(\begin{smallmatrix} \alpha & \beta \\ & c \end{smallmatrix}\right)$
+
+[fig]circle with points a, b, c, d, x, y, alpha, beta, gamma[/fig] If $d$ is $B\left(\begin{smallmatrix} a & b \\ & c \end{smallmatrix}\right)$ then $b$ is $B\left(\begin{smallmatrix} a & d \\ & c \end{smallmatrix}\right)$
+[fig]circle with points a, b, c, d[/fig] Hence if $d$ is $B\left(\begin{smallmatrix} a & c \\ & b \end{smallmatrix}\right)$ $a$ is $B\left(\begin{smallmatrix} b & d \\ & c \end{smallmatrix}\right)$
+[del]For any[/del] [ins]there is[/ins] [del]for[/del] either [del]and[/del] $B\left(\begin{smallmatrix} b & d \\ & c \end{smallmatrix}\right)$ or $B\left(\begin{smallmatrix} b & c \\ & d \end{smallmatrix}\right)$ or $B\left(\begin{smallmatrix} c & d \\ & b \end{smallmatrix}\right)$
+[del]But if $a$ were $B\left(\begin{smallmatrix} b & c \\ & d \end{smallmatrix}\right)$ and $B\left(\begin{smallmatrix} a & d \\ & c \end{smallmatrix}\right)$[/del]
+But if $a$ were [del]$B\left(\begin{smallmatrix} b & c \\ & d \end{smallmatrix}\right)$[/del] $d$ would be $B\left(\begin{smallmatrix} a & c \\ & b \end{smallmatrix}\right)$ and not $B\left(\begin{smallmatrix} a & c \\ & b \end{smallmatrix}\right)$ as supposed unless [del]$d=c$[/del]
+and if $a$ were $B\left(\begin{smallmatrix} c & d \\ & b \end{smallmatrix}\right)$ $b$ would be $B\left(\begin{smallmatrix} c & d \\ & a \end{smallmatrix}\right)$ and not $B\left(\begin{smallmatrix} a & c \\ & b \end{smallmatrix}\right)$ as we find unless $b=c$
+Hence the best way to write $d$ is $B\left(\begin{smallmatrix} a & c \\ & b \end{smallmatrix}\right)$ is [del]$b, d$[/del] $b, d \oplus a, c$
+
+Restate, next leaf.

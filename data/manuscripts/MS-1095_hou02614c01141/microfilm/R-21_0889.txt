@@ -1,0 +1,28 @@
+The differential coefficient of $U$ relatively
+to $\theta_k$ is
+
+$$D_{\theta_k} U = dl \cdot \varepsilon_k D_l^2 \theta_k + g \cdot dl \int_{m_k}^M dm \cdot \sin \theta_k$$
+
+The Lagrangian equation is therefore
+
+$$\left\{ \int_0^k d\lambda \int_{m_k}^M dm + \int_k^I d\lambda \int_{m_\lambda}^M [del]dm[/del] \left[ \cos(\theta_k - \theta_\lambda) \cdot D_t^2 \theta_\lambda \right] + \left[ \sin(\theta_k - \theta_\lambda) (D_t \theta_\lambda)^2 \right] \right\}$$
+
+$$+ D_l m_k \cdot \gamma^2 \cdot D_t^2 \theta_k + \varepsilon_k D_l^2 \theta_k + g \left( \int_{m_k}^M dm \right) (\sin \theta_k) = 0$$
+
+[del][fig]crossed out integral expression[/fig][/del]
+
+Supposing that the pendulum is pretty stiff
+and that the oscillations are small, this reduces
+to
+
+$$\left\{ \int_0^k d\lambda \int_{m_k}^M dm + \int_k^I d\lambda \int_{m_\lambda}^M dm \right\} D_t^2 \theta_\lambda + D_l m_k \cdot \gamma^2 \cdot D_t^2 \theta_k + \varepsilon_k D_l^2 \theta_k$$
+
+$$+ g \left( \int_{m_k}^M dm \right) \theta_k = 0.$$
+
+To get rid, at once, of the arbitrary functions,
+we will assume
+
+$$\theta_k = A_k \cos \left\{ \sqrt{ \frac{g \int dm \cdot l}{\int dm \cdot l^2} } + i \cdot t \right\}$$
+
+where $A_k$ is a [del]vessel[/del] [ins]constant[/ins] varying with $k$ and
+$i$ is a very small constant.

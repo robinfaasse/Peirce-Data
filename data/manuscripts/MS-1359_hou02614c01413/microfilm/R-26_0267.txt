@@ -1,0 +1,24 @@
+[pn]p 54[/pn] As usual, 2! = 2, 4! = 24, 6! = 720, 8! = 40320, 10! = 3628800, etc
+
+The same general method would give another series satisfying the equation for z, as follows:
+
+[fig]Arithmetic calculations in columns[/fig]
+2.3 = 6
+6 x 42 = 252
+4.5 = 20
+252 x 110 = 27720
+26 x 72 = 1872
+27720
+6.7 = 42
+68 x 110 = 7480
+8.9 = 72
+9504
+140
+10.11 = 110
+250
+
+[u]z[/u] = [u]n[/u] + [del][u]a[/u][/del] [ins][u]-a[/u][/ins]/3! [u]n[/u]³ + [u]a² - 6c[/u]/5! [u]n[/u]⁵ + [u]-a³ - 26ac[/u]/7! [u]n[/u]⁷ + [u]a⁴ - 68a²c - 1252c²[/u]/9! [u]n[/u]⁹ etc
+
+I do not know that there is anything to choose between these two expressions. We shall have to form 1/z². In order to get the reciprocal of the series 1 + A₁x + A₂x² + A₃x³ + etc we may represent it by 1 + B₁x + B₂x² + etc. Then in order to form any B, say B[sub]m[/sub], we multiply all the products of powers of -A₁, -A₂, -A₃ etc such that the index of each A being multiplied by its exponent, the sum of those products in each term is m; and we prefix a coefficient equal to the number of different orders in which the factors can be written. For example, we have B₆ = A₁⁶ - 5A₁⁴A₂ + 4A₁³A₃ + 6A₁²A₂² - 3A₁²A₄ - 6A₁A₂A₃ + 2A₁A₅ - A₂³ + 2A₂A₄ - A₆ [Explanation of coefficients.]
+
+[ [u]p. 55 Statement of polynomial theorem[/u] ]

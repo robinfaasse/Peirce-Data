@@ -1,0 +1,25 @@
+We have furthermore
+$$\xi_{N} - \xi_{-N} = \sum_{-N+S}^{N-S} \left\{ \left[ \sqrt{1 - 2 \frac{\eta_{n} - \eta_{n-s}}{S} \tan \varphi_{n} - \left( \frac{\eta_{n} - \eta_{n-s}}{S} \right)^{2}} - 1 \right] S \right\}$$
+Neglecting $(\eta_{n} - \eta_{n-s})^{2}$ in comparison with unity, we have, since
+$\tan \varphi_{n} = \frac{n}{R}$,
+$$\xi_{N} - \xi_{-N} = \sum_{-N+S}^{N-S} \left\{ - \frac{n}{R} (\eta_{n} - \eta_{n-s}) - \frac{1}{2} \frac{(\eta_{n} - \eta_{n-s})^{2}}{S} (1 + \frac{n^{2}}{R^{2}}) \right\} S.$$
+If we neglect the second term, we shall only be in error by a small
+percentage of the small quantity $\xi_{N} - \xi_{-N}$, so that we may adopt
+this as a first approximation. This gives,
+$$\xi_{N} - \xi_{-N} = \frac{2N}{R} (\eta_{N} - \eta_{-N}) + \frac{1}{R} \sum_{-N}^{+N} \eta_{n} [ins]d[/ins]S.$$
+
+The two previous equations give
+$$\xi_{R}^{u} = \frac{1}{2} (\xi_{N} - \xi_{-N}) - (R-N) + \frac{1}{2} (R-N) \sqrt{1 + 2 \frac{R+N}{R} \frac{\eta_{N}}{R-N} + \left( \frac{\eta_{N}}{R-N} \right)^{2}} + \frac{1}{2} (R-N) \sqrt{1 + 2 \frac{R+N}{R} \frac{\eta_{-N}}{R-N} + \left( \frac{\eta_{-N}}{R-N} \right)^{2}}.$$
+
+We are now in a condition to differentiate the energy, relatively to $\eta_{n}$
+Since the bending energy is $\frac{1}{2} \frac{B}{S^{3}} \sum_{-N+S}^{N-S} (\eta_{n+S} - 2\eta_{n} + \eta_{n-S})^{2}$, the diff. coe.
+relatively to $\eta_{n}$ is
+$$\frac{B}{S^{3}} [ [del]\eta_{n+2S} - 2\eta_{n+S} + \eta_{n}[/del] - 2 [ \eta_{n+S} - 2\eta_{n} + \eta_{n-S} ] + [del]\eta_{n} - 2\eta_{n-S} + \eta_{n-2S}[/del] ] =$$
+$$\frac{B}{S^{3}} [ \eta_{n+2S} - 4\eta_{n+S} + 6\eta_{n} - 4\eta_{n-S} + \eta_{n-2S} ], \text{ or, making } S \text{ the}$$
+differential $dn$, $B \cdot d^{4}\eta / dn^{4} \cdot dn$. This, however, evidently
+does not hold at the extremities. ([pn]p. 52[/pn]) The differential
+coefficient of the bending energy relatively to $\eta_{-N}$ is
+$\frac{B}{S^{3}} (\eta_{-N+2S} - 2\eta_{-N+S} + \eta_{-N})$ [del]or[/del] [ins]to[/ins] $\frac{B}{dn} \frac{d^{2}\eta}{dn^{2}}$, and similarly for
+$\eta_{N}$. The differential coefficient relatively to $\eta_{-N+S}$ is
+$\frac{B}{S^{3}} (\eta_{-N+3S} - 4\eta_{-N+2S} + 5\eta_{-N+S} - 2\eta_{-N})$, or $B \frac{d^{3}\eta}{dn^{3}} - \frac{B}{dn} \frac{d^{2}\eta}{dn^{2}}$;
+and so for $\eta_{N-S}$

@@ -1,0 +1,23 @@
+$$\Sigma_{i} \Sigma_{j} \Sigma_{k} \Pi_{w} \Sigma_{t} \Pi_{x} \Sigma_{u}$$
+$$\underline{(i+j)_{k}} \cdot (\bar{q}_{w} + p_{u} \cdot (u+j)_{w} \cdot \bar{\sigma}_{ui}) q_{t} \cdot \bar{\sigma}_{tk}$$
+
+Identify $w$ with $t$
+$$\bar{q} \cdot p_{u} \cdot q_{t} (u+j)_{t} \cdot \bar{\sigma}_{ui}$$
+Drop $p_{u} q_{t}$
+
+$$\Sigma_{i} \Sigma_{j} \Sigma_{k} \Sigma_{t} \Sigma_{u}$$
+$$\Pi_{i} \Pi_{j} \Pi_{k} \Pi_{w} \Pi_{u}$$
+$$\overline{(i+j)_{k}} + (u+j)_{w} + \bar{\sigma}_{ui} + \sigma_{wk}$$
+
+$$\overline{(i+j)_{k}} + \bar{p}_{u} + \bar{q}_{w} + \overline{(u+j)_{w}} + \bar{\sigma}_{ui} + \sigma_{wk}$$
+
+$$\overline{(i+j)_{k}} + [\bar{p}_{u} + \overline{(u+j)_{w}} + \bar{\sigma}_{ui}] \cdot q_{w} + \bar{q}_{w} + \sigma_{wk}$$
+
+Diversify $w$
+$$\Pi_{i} \Pi_{j} \Pi_{k} \Pi_{w} \Sigma_{t} \Pi_{u}$$
+$$\overline{(i+j)_{k}} + (\bar{p}_{u} + \overline{(u+j)_{t}} + \bar{\sigma}_{ui}) \cdot q_{t} + \bar{q}_{w} + \sigma_{wk}$$
+$$\overline{(i+j)_{k}} + [\bar{p}_{u} + \overline{(u+j)_{t}}] \cdot q_{t} + \bar{\sigma}_{ui} \cdot p_{u} + \bar{q}_{w} + \sigma_{wk}$$
+
+Diversify $u$
+$$\Pi_{i} \Pi_{j} \Pi_{k} \Pi_{w} \Sigma_{t} \Pi_{u} \Sigma_{x}$$
+$$\overline{(i+j)_{k}} + [\bar{p}_{u} + \overline{(u+j)_{t}}] \cdot q_{t} + \bar{\sigma}_{xi} \cdot p_{x} + \bar{q}_{w} + \sigma_{wk}$$

@@ -1,0 +1,35 @@
+[35]
+
+1910 Feb 25
+
+Product of odds is the Odds that
+
+two witnesses are right when [del]eit[/del]
+both must be right or both must
+be wrong provided [u]Either[/u]
+
+1st that the witnesses are independent
+
+(i.e. either is [del]as[/del] [ins]pre[/ins] [del]often right[/del] in the same
+proportion of cases [del]when[/del] [ins]whether[/ins] the other
+be right or wrong)
+
+[del]I dont see
+that
+this wrong[/del]
+
+& 2nd when the probability of
+both being right is the same as
+that of both being wrong.
+
+[fig]A 2x2 contingency table with cells labeled A, B in the top row and C, D in the bottom row.[/fig]
+
+$\frac{B+C}{D} = \frac{A+B}{C+D} + \frac{A+C}{B+D}$
+
+Cant be if A:B = C:D [del]*[/del] = $\frac{(A+B)(B+D) + (A+C)(C+D)}{(C+D)(B+D)}$
+
+$(B+C)(B+D)(C+D) = D(A+B)(B+D) + D(A+C)(C+D)$
+
+$B^2C + [del]B^2D[/del] + BC^2 + 2BCD + [del]BD^2[/del]$
+$= ABD + AD^2 + [del]B^2D[/del] + [del]BD^2[/del] + ACD + [del]BAD[/del] [ins]AD^2[/ins] + [del]C^2D[/del] + [del]CD^2[/del]$
+$BC(B+C+2D) = AD(B+C+2D) + (C+D)CD$

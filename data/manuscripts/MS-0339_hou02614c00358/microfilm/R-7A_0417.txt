@@ -1,0 +1,51 @@
+[date]DEC 17 1901[/date]
+
+[u]Start again[/u]
+
+A. Either m or m<m
+B. If q, then p<q
+C. If s and s<t, then t
+
+[u]From A alone.[/u]
+
+[del](1) (((m<m)<m)<m)<m etc. ad inf.[/del]
+[del](2) Either m or m<m[/del]
+[del](3) Either m<n or both m and (m<n)<l[/del]
+(4) Either m or [del]both m<n and m<l. Either m or m<l etc.[/del] [ins]m<n[/ins]
+(5) Either m<m or [del]both m and (m<m)<l[/del]
+(6) [del]Either m<m<m[/del]
+
+[ins][fig]Diagram with lines and arrows connecting formulas[/fig]
+{((m<n)<n)<n} < n etc. ad inf.
+That is, if m<n, then n is m<n,
+then n is [del]m<n[/del] [ins]n[/ins] etc.
+m<n
+(m<n)<n m<n
+[((m<n)<n)<n] < n m<n[/ins]
+
+[u]From B alone.[/u]
+
+(7) If q, then p₂<p₁<q
+and p₃<p₂<p₁<q etc.
+(8) If q, then q<q
+and q<p<q
+(9) If p<r, then p<q<r
+and r<q<r
+
+[u]From C alone[/u]
+
+(10) If s and s<t and t<u, then u
+(11) If s and s<t, and t₁<t₂ etc ~ ~ then t_∞
+
+[del]If s and s<t (t<s) then t<s
+s<t<s[/del]
+
+(12) If s [ins]and t[/ins] and s<t<u, then u
+[del]If s₁ and s₂ and s₃ etc and s₁<s₂<s₃<etc <u, then u[/del]
+(13) (s<u) and (s<u)<t, then t
+
+[ins]If s₀ and s₀<s₁ and s₁<s₂ etc
+then s_∞[/ins]
+
+[del]s<t<s[/del]
+s̄ + s t s̄ + t̄ + s

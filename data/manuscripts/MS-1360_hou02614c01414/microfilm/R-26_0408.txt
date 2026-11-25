@@ -1,0 +1,29 @@
+[pn]page 1[/pn]
+
+[u]Warren Girder[/u]
+
+[fig]Diagram of a Warren girder with coordinate axes Y and X[/fig]
+
+Y measured upward
+X toward right
+Origin in middle of [del]upper[/del] [ins]line of the girder[/ins]
+
+X = Half span  Y = distance of the cords
+
+We consider a left-handed rotation as positive so that if [math]\theta[/math] is the direction of a point from the origin
+[math]\text{Tan } \theta = \frac{Y}{X}[/math]
+
+Let [math]x_w[/math] be the [del]position[/del] [ins]coordinate[/ins] of a load [math]w[/math]
+Let [math]\xi[/math] be the coordinate of a vertical section.
+
+The direct [del]force[/del] [ins]force[/ins] [math]F_x = 0[/math]  the upward shearing force to the right of [math]\xi[/math] [del]is[/del]
+
+[math]F_y = \frac{-\sum_{-X}^{X} (X+x)w}{2X} - \sum_{\xi}^{X} w [del]= \frac{1}{2} \sum_{-X}^{\xi} w - \frac{1}{2} \sum_{\xi}^{X} w + \frac{1}{2} \sum_{-X}^{X} \frac{xw}{X}[/del] = \frac{1}{2} \sum_{-X}^{\xi} w - \frac{1}{2} \sum_{\xi}^{X} w + \frac{1}{2} \sum_{-X}^{X} \frac{xw}{X}[/math]
+
+[del]where all the w's are negative.[/del]
+
+The bending couple M tending to rotate the part to the right of [math]\xi[/math] in a positive, i.e. left-handed direction
+
+[math]M = \frac{1}{2} \sum_{-X}^{\xi} wx - \frac{1}{2} \sum_{\xi}^{X} wx + \frac{1}{2} \sum_{-X}^{X} \frac{x^2 w}{X} - \xi \left( \frac{1}{2} \sum_{-X}^{\xi} w - \frac{1}{2} \sum_{\xi}^{X} w + \frac{1}{2} \sum_{-X}^{X} \frac{xw}{X} \right)[/math]
+
+Now supposing section to be infinitesimally to the right of a bar in the fourth quadrant, 3 bars are concerned the upper chord, [fig]Diagram of a truss section with diagonal bar[/fig] [del]where[/del] the pull on which shall be [math]R_1[/math], the lower chord the pull on which shall be [math]R_2[/math] and the diagonal the pull on which shall be [math]T[/math]. Let its inclination to the horizon be [math]i[/math]

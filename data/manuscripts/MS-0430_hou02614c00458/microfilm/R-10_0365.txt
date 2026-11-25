@@ -1,0 +1,22 @@
+[pn]Logic III 59[/pn]
+
+[pn](81)[/pn] If [u](x < y) < z[/u] is true, then [u](x < z) < z[/u] is true.
+For if [u](x < y) < z[/u] is true, by (65), unless [u]z[/u] is true, [u](x < y)[/u] is
+false. But, by (64), if [u]x < y[/u] is false, [u]x[/u] is true. Hence, unless
+[u]z[/u] is true, [u]x[/u] is true. But if [u]x[/u] is true, by (64), [u]x < z[/u] is
+false, unless [u]z[/u] is true; and if [u]z[/u] is true, by [del](64)[/del] [ins](64)[/ins], [u](x < z) < z[/u]
+is true. This may be expressed: The consequent of the antecedent
+may be identified with the antecedent.
+
+[pn](82)[/pn] [u][(x < y) < z] < (x < z) < z[/u].
+This follows from (81) by (64).
+
+[pn](83)[/pn] If [u](x < y) < y[/u] then [u](y < x) < x[/u].
+For, by (65), if [u](x < y) < y[/u] is true, then unless [u]y[/u] is true, [u]x < y[/u]
+is false, and if [u]x < y[/u] is false, by (64), [u]x[/u] is true. Thus either
+[u]y[/u] or [u]x[/u] is true. But if [u]x[/u] is true, [u](y < x) < x[/u] is true [ins]by (64);[/ins] and if,
+[u]x[/u] not being true, [u]y[/u] is true, [u](y < x)[/u] is false by (65) and
+[u](y < x) < x[/u] is true by (64).
+
+[pn](84)[/pn] [u][(x < y) < y] < (y < x) < x[/u]
+This follows from (83) by (64).

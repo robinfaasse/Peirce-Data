@@ -1,0 +1,27 @@
+$$x^2 + \left(y - \frac{c}{2}\right)^2 = \alpha^2$$
+$$x^2 + \left(y + \frac{c}{2}\right)^2 = \beta^2$$
+
+$$y = \frac{1}{2} \frac{\beta^2 - \alpha^2}{c}$$
+
+$$x = \frac{1}{2c} \sqrt{2\alpha^2\beta^2 + 2\alpha^2c^2 + 2\beta^2c^2 - \alpha^4 - \beta^4 - c^4}$$
+
+[fig]Two intersecting circles with radii labeled alpha and beta, and distance between centers labeled c.[/fig]
+
+For real values
+of $x$ and $y$
+$$\beta \leqq \alpha + c$$
+$$\alpha \leqq \beta + c$$
+$$c \leqq \alpha + \beta$$
+
+When $\alpha = a$
+$$D_x b = \frac{1}{2} \frac{c}{\beta} \frac{\sqrt{2a^2\beta^2 + 2a^2c^2 + 2\beta^2c^2 - a^4 - \beta^4 - c^4}}{a^2 - \beta^2 + c^2}$$
+
+$$D_x f\beta = 1 \quad D_x\beta D_{\beta}f\beta = 1$$
+$$D_{\beta}f\beta = 2 \frac{\beta}{c} \frac{a^2 - \beta^2 + c^2}{\sqrt{2a^2\beta^2 + 2\beta^2c^2 + 2a^2c^2 - a^4 - \beta^4 - c^4}}$$
+
+$$D_{\beta}f\beta = D_{\beta}\beta^2 \cdot D_{\beta^2}f\beta = 2\beta D_{\beta^2}f\beta$$
+$$D_{\beta^2}f\beta = \frac{1}{c} \frac{a^2 - \beta^2 + c^2}{\sqrt{2a^2\beta^2 + 2\beta^2c^2 + 2a^2c^2 - a^4 - \beta^4 - c^4}}$$
+
+$$f\beta = + \frac{1}{c} \sqrt{\phantom{x}} + \frac{1}{c} [del]\left(a^2 - c^2 + \frac{a^2 + c^2}{}\right)[/del]$$
+$$- \frac{2a^2}{c} \arcsin \frac{-2\beta^2 + 2a^2 + 2c^2}{\sqrt{4(a^2+c^2)^2 - 4(a^4+c^4)}}$$
+$$- \frac{[del]2[/del]a^2}{c} \arcsin \frac{a^2 - \beta^2 + c^2}{ac\sqrt{2}}$$

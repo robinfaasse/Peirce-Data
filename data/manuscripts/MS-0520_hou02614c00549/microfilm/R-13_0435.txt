@@ -1,0 +1,28 @@
+[pn]9[/pn]
+
+[del]column and are unoccupied in more than one column,[/del] [ins]rows[/ins] [del]it is,[/del] those which
+[u]1[sup]st[/sup][/u], [del]those[/del] [ins]rows[/ins] for which the relative in question occupies in every column;
+[u]2[sup]nd[/sup][/u], those rows which the relative occupies, each in a single column;
+[u]3[sup]rd[/sup][/u], those rows which the relative occupies, each in more than one column
+and leaves unoccupied in more than one column;
+[u]4[sup]th[/sup][/u], those rows which the relative leaves unoccupied in a single column; and
+[u]5[sup]th[/sup][/u], those rows which the relative leaves altogether unoccupied.
+
+Let A be the [ins]unoccupied[/ins] column of any row of the second class, [u]T[/u] the occupied column
+of any row of the third class, [u]B[/u] the [ins]aggregate of[/ins] occupied columns of any row of the
+third class. Then ([del]taking[/del] [ins]I take[/ins] the liberty of making unessential changes)
+he writes [del]as[/del] [ins]for[/ins] the five classes in order [u]O[/u] [u]A[/u] [u]B[/u] [u]T[/u] [u]O[/u]. Let this relative be [u]l[/u].
+Then what is [u]l[/u][u]o[/u]? Appealing to the general algebra, ([u]l[/u][u]o[/u])[sub]ik[/sub] = [Sigma][sub]j[/sub] l[sub]ij[/sub] [u]o[/u][sub]jk[/sub] =
+[Sigma][sub]j[/sub] l[sub]ij[/sub]. That is [del][Pi][sub]i[/sub] [Pi][sub]k[/sub] [Sigma][sub]j[/sub] l[sub]ij[/sub] + (lo)[sub]ik[/sub][/del] [Pi][sub]i[/sub] [Pi][sub]k[/sub] [Sigma][sub]j[/sub] l[sub]ij[/sub] + ([u]l[/u][u]o[/u])[sub]ik[/sub] and
+[Pi][sub]i[/sub] [Pi][sub]k[/sub] [Sigma][sub]j[/sub] ([u]l[/u][u]o[/u])[sub]ik[/sub] + [u]l[/u][sub]ij[/sub]. In words, in any row, [u]i[/u], either some column is
+filled (as in the first four classes) by [u]l[/u], and then every column is filled
+in [u]l[/u][u]o[/u], or no column is filled (in the fifth class) in [u]l[/u], and then no column
+is [ins]filled[/ins] in [u]l[/u][u]o[/u]. In other words, the second, third, and fourth classes of [u]l[/u]
+[del]are converted[/del] [ins]become[/ins] in [u]l[/u][u]o[/u] into the first class; and we write [u]l[/u][u]o[/u] = [u]O[/u] [u]O[/u] [u]O[/u] [u]O[/u] [u]O[/u].
+
+Take another example. What is [del][u]l[/u] + [u]1[/u][/del] [ins][u]l[/u] [u]f[/u] [u]1[/u][/ins]? By the general algebra [del](l+1)[sub]ik[/sub][/del]
+([u]l[/u] [u]f[/u] [u]1[/u])[sub]ik[/sub] = [Pi][sub]j[/sub] l[sub]ij[/sub] + 1[sub]jk[/sub]. That is [Pi][sub]i[/sub] [Pi][sub]k[/sub] [Pi][sub]j[/sub] ([u]l[/u] [u]f[/u] [u]1[/u])[sub]ik[/sub] + l[sub]ij[/sub] + 1[sub]jk[/sub] and
+[Pi][sub]i[/sub] [Pi][sub]k[/sub] [Sigma][sub]j[/sub] ([u]l[/u] [u]f[/u] [u]1[/u])[sub]ik[/sub] + l[sub]ij[/sub] [u]1[/u][sub]jk[/sub]. That is, taking any row, [u]i[/u], and any
+column, [u]k[/u], then in that row, either [u]l[/u] occupies every column [ins]other than[/ins] [del]but[/del] [u]k[/u] (in
+the [ins]first and[/ins] second class[del]es[/del]), and [del]it is[/del] [ins]then[/ins] that column [ins][sub]^[/sub] [ins]k[/ins][/ins] of that row [ins]is[/ins] occupied by ([u]l[/u] [u]f[/u] [u]1[/u])
+or else [del]this[/del] [ins]there[/ins] is a column [u]j[/u] other than [u]k[/u] uno[ins]ccupied[/ins] in [u]l[/u] (in the third

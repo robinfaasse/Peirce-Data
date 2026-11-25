@@ -1,0 +1,29 @@
+[pn]Logic
+III
+81[/pn]
+
+[marginalia]
+[u](x ~ z) ~ x[/u]
+[/marginalia]
+
+Consequently if [del]x ~ y[/del] [ins]x ~ z[/ins] and y ~ z are both scriptible, if
+x ~ y is scriptible z is, in any case, scriptible, whence
+by (68), (x ~ y) ~ z is scriptible. Thus, the proof of the equi-
+valence is complete by (77).
+
+(84) To assert that [del]([u]x ~ y[/u]) ~ z[/del] [ins][(x ~ y) ~ y] ~ z[/ins] is scriptible is equiva-
+lent to asserting that (x ~ z) ~ (y ~ z) ~ z, as well as to
+(x ~ y) ~ (y ~ z) ~ z
+
+For, by a double application of (79) and (80), by (77),
+[del]to assert[/del] [ins]to be scriptible,[/ins] [del][(x ~ y) ~ y] ~ z[/del] is equivalent to asserting that either
+x or y or z is scriptible.
+
+Now, by (82), to assert (x ~ z) ~ (y ~ z) ~ z to be scriptible
+is equivalent to asserting that either (x ~ z) ~ z or (y ~ z) ~ z
+is scriptible, that is, by (78), (80), and (77), that either x or
+z or y or z is scriptible.
+
+Further, by (82), to assert that (x ~ y) ~ (y ~ z) ~ z is
+scriptible is equivalent to asserting that either (x ~ y) ~ z
+or (y ~ z) ~ z is scriptible. But to assert (y ~ z) ~ z

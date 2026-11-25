@@ -1,0 +1,22 @@
+Now change this equation
+[u]1[/u] = a[u]y[/u][sup]n[/sup] + b[u]y[/u][sup]n-1[/sup] + etc
+to the following
+[del]y[sub]m+[/sub] [gap] b y[sub]1[/sub][/del]
+y[sub]m+n[/sub] = a y[sub]m[/sub] + b y[sub]m+1[/sub] + etc
+for instance
+[u]1[/u] = [u]y[/u][sup]2[/sup] + b[u]y[/u]
+will be changed to
+y[sub]m+2[/sub] = y[sub]m[/sub] + b y[sub]m+1[/sub]
+The m, m+1, m+2 are to be regarded as ordinal
+members, or numbers of places in a row, and
+y[sub]m[/sub], y[sub]m+1[/sub], etc as quantities in these places
+of which the first [u]n[/u] are [del]to be[/del] given almost
+any values we like. I prefer to make them
+all zero except the last which I make 1
+Then use the equation
+y[sub]m+n[/sub] = a y[sub]m[/sub] + b y[sub]m+1[/sub] etc
+to calculate successively new values
+For example, take the equation
+y[sub]m+2[/sub] = y[sub]m[/sub] + b y[sub]m+1[/sub]
+First make m=0  y[sub]0[/sub]=0 y[sub]1[/sub]=1
+Then by the equation y[sub]2[/sub] = 0 + b.1 = b

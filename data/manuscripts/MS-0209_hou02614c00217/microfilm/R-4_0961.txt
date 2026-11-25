@@ -1,0 +1,29 @@
+[pn]12[/pn]
+
+then gains his next bet, he has certainly netted his gain; and therefore the
+equation in his case, is
+[u]x[/u]₀' = [u]p[/u] + (1 - [u]p[/u]) · [u]x[/u]₂
+
+[del]If[/del] [ins]On[/ins] the other hand, he has lost [u]a[/u] francs, his entire fortune, he cannot bet
+any more, and cannot possibly net a gain; so that
+[u]x[/u]ₐ = 0
+
+Here, then, is a system of [u]a[/u] + 1 linear equations between as many unknown
+quantities. Such a system, we know, has just one solution; that is there
+is a set of values of the unknowns which satisfies all the equations and this
+is the [u]only[/u] set that does so. Now I say that all those equations are satisfied
+by the [u]a[/u] + 1 values represented by the formula
+[u]x[/u]ₙ = [u]p[/u]ⁿ⁺¹ [frac](1 - [u]p[/u])ᵃ⁻ⁿ - [u]p[/u]ᵃ⁻ⁿ, (1 - [u]p[/u])ᵃ⁺¹ - [u]p[/u]ᵃ⁺¹[/frac] .
+
+For, in the first place, this gives
+[u]x[/u]ₙ₋₁ = [u]p[/u]ⁿ [frac](1 - [u]p[/u])ᵃ⁻ⁿ⁺¹ - [u]p[/u]ᵃ⁻ⁿ⁺¹, (1 - [u]p[/u])ᵃ⁺¹ - [u]p[/u]ᵃ⁺¹[/frac]
+
+[u]x[/u]ₙ₊₁ = [u]p[/u]ⁿ⁺² [frac](1 - [u]p[/u])ᵃ⁻ⁿ⁻¹ - [u]p[/u]ᵃ⁻ⁿ⁻¹, (1 - [u]p[/u])ᵃ⁺¹ - [u]p[/u]ᵃ⁺¹[/frac]
+
+Hence,
+
+= [u]p[/u]ⁿ⁺¹ [frac][u]p[/u] · [u]x[/u]ₙ₋₁ + (1 - [u]p[/u]) · [u]x[/u]ₙ₊₁, (1 - [u]p[/u])ᵃ⁻ⁿ⁺¹ - [u]p[/u]ᵃ⁻ⁿ⁺¹ + [u]p[/u](1 - [u]p[/u])ᵃ⁻ⁿ - [u]p[/u]ᵃ⁻ⁿ(1 - [u]p[/u]), (1 - [u]p[/u])ᵃ⁺¹ - [u]p[/u]ᵃ⁺¹[/frac]
+
+= [u]p[/u]ⁿ⁺¹ [frac](1 - [u]p[/u])ᵃ⁻ⁿ - [u]p[/u](1 - [u]p[/u])ᵃ⁻ⁿ - [u]p[/u]ᵃ⁻ⁿ⁺¹ + [u]p[/u](1 - [u]p[/u])ᵃ⁻ⁿ - [u]p[/u]ᵃ⁻ⁿ + [u]p[/u]ᵃ⁻ⁿ⁺¹, (1 - [u]p[/u])ᵃ⁺¹ - [u]p[/u]ᵃ⁺¹[/frac]
+
+= [u]p[/u]ⁿ⁺¹ [frac](1 - [u]p[/u])ᵃ⁻ⁿ - [u]p[/u]ᵃ⁻ⁿ, (1 - [u]p[/u])ᵃ⁺¹ - [u]p[/u]ᵃ⁺¹[/frac] = [u]x[/u]ₙ .

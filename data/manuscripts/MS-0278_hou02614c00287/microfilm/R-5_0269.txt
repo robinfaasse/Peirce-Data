@@ -1,0 +1,22 @@
+This is equivalent to
+$$\Pi_j (\bar{c}_j \text{ \rotatebox[origin=c]{180}{Y} } \Sigma_i l_{ij} \cdot g_i)$$
+which is
+$$\breve{c} \dagger \breve{l} g.$$
+
+2. $\Pi_j \Sigma_i (\bar{c}_j \text{ \rotatebox[origin=c]{180}{Y} } g_i) \cdot l_{ij}$
+This is equivalent to
+$$\Pi_j \Sigma_i l_{ij} \cdot \bar{c}_j \text{ \rotatebox[origin=c]{180}{Y} } g_i \cdot l_{ij}$$
+$$= \Pi_j [ (\Sigma_i l_{ij}) \cdot \bar{c}_j \text{ \rotatebox[origin=c]{180}{Y} } \Sigma_i \breve{l}_{ji} \cdot g_i ]$$
+this is plainly
+[del]$\breve{l} \cdot \bar{c}$[/del]
+$$(\infty l \cdot \breve{c}) \dagger \breve{l} g.$$
+
+3. $\Sigma_i \Pi_j \bar{c}_j \text{ \rotatebox[origin=c]{180}{Y} } g_i \cdot l_{ij}$
+This is equivalent to
+$$\Sigma_i \Pi_j (g_i \text{ \rotatebox[origin=c]{180}{Y} } \bar{c}_j) \cdot (l_{ij} \text{ \rotatebox[origin=c]{180}{Y} } \bar{c}_j)$$
+$$= \Sigma_i (g_i \text{ \rotatebox[origin=c]{180}{Y} } \Pi_j \bar{c}_j) \cdot \Pi_j (l_{ij} \text{ \rotatebox[origin=c]{180}{Y} } \bar{c}_j)$$
+$$= [del]\Sigma_i \Sigma_j c_j \text{ \rotatebox[origin=c]{180}{Y} }[/del] \Sigma_i \{ [ g_i \cdot \Pi_j (l_{ij} \text{ \rotatebox[origin=c]{180}{Y} } \bar{c}_j) ] \text{ \rotatebox[origin=c]{180}{Y} } \overline{\Sigma_j c_j} \cdot \Pi_j (l_{ij} \text{ \rotatebox[origin=c]{180}{Y} } \bar{c}_j) \}$$
+This is evidently
+$$\breve{g} (l \dagger \bar{c}) \text{ \rotatebox[origin=c]{180}{Y} } \bar{c} (l \dagger \bar{c})$$
+or
+$$= (\breve{g} \text{ \rotatebox[origin=c]{180}{Y} } \bar{c}) (l \dagger \bar{c}).$$

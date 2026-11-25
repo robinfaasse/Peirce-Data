@@ -1,0 +1,38 @@
+F4 [pos: right] 14
+
+[u]Rule XVII[/u] Two ovals one immediate[ins]ly[/ins] enclosing nothing but the other
+and its contents, [del]and[/del] [ins]the outer[/ins] being unenclosed and separate, can be removed.
+
+That is [fig]a((b))[/fig] [fig]~[/fig] ab.
+
+For, [u]by I[/u], [fig](b)[/fig] [fig]~[/fig] [fig]((b))[/fig] [fig].:.[/fig] [u]by XV[/u] [fig]((b))[/fig] [fig]~[/fig] b [fig].:.[/fig] [u]by IV[/u] a[fig]((b))[/fig] [fig]~[/fig] ab.
+
+[u]Rule XVIII[/u]. If a separate and unenclosed part of the graph can be
+transformed into another graph, if [del]the[/del] [ins]for[/ins] former part of the graph were
+substituted an oval containing the latter, this could be transformed
+into an oval containing that former part
+
+That is, if ac [fig]~[/fig] bc, then [fig](b)[/fig]c [fig]~[/fig] [fig](a)[/fig]c.
+
+For, [u]by XVI[/u], bc [fig]~[/fig] [fig]((b))[/fig]c. Whence if ac [fig]~[/fig] bc, ac [fig]~[/fig] [fig]((b))[/fig]c. But in that
+case, [u]by XIV[/u], [fig](b)[/fig]c [fig]~[/fig] [fig](a)[/fig]c. Q.E.D.
+
+[u]Rule XIX[/u]. If the entire graph contained in a separate and unenclosed
+oval can be there transformed into a second graph, then were this
+second graph substituted for the oval, it could be transformed into
+the original contents of the oval.
+
+That is, if [fig](a)[/fig]c [fig]~[/fig] [fig](b)[/fig]c, then bc [fig]~[/fig] ac.
+
+For suppose [fig](a)[/fig]c [fig]~[/fig] [fig](b)[/fig]c. Then it is to be shown that bc [fig]~[/fig] ac. By XIV,
+bc [fig]~[/fig] [fig]((a))[/fig]c. But [u]by XVII[/u] [fig]((a))[/fig]c [fig]~[/fig] ac. Whence bc [fig]~[/fig] ac. Q.E.D.
+
+Otherwise: [u]By XV[/u] [fig]((b))[/fig]c [fig]~[/fig] ac. But [u]by XVI[/u] bc [fig]~[/fig] [fig]((b))[/fig]c. Whence bc [fig]~[/fig] ac Q.E.D.
+
+[u]Rule XX[/u]. If a graph when written alone and unenclosed is transforma-
+ble into another, it is always transformable into that other when it
+forms a separate and evenly enclosed part of a graph, while
+that other, when separate and oddly enclosed is always transfor-
+mable into it.
+[del]That is[/del]
+That [del]is[/del] [ins]is[/ins] if a[fig]~[/fig]b and if there is a graph in which a is enclosed in 2N+1

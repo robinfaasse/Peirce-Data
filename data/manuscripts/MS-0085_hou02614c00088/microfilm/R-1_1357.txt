@@ -1,0 +1,37 @@
+[pn]42[/pn]
+
+$(3'')\quad \alpha a^2 + \beta b^2 + \gamma c^2 + \delta d^2 + \varepsilon e^2 = 0$
+
+If we multiply $(1)$ by $abc + abd + abe + acd + ace + ade + bcd + bce$
+$+ cde + cde$ and subtract $(4)$ from it we get
+$(4')\quad \alpha a(bc+bd+be+cd+ce+de) + \beta b(ac+ad+ae+cd+ce+de)$
+$+ \gamma c(ab+ad+ae+bd+be+de) + \delta d(ab+ac+ae+bc+be+ce)$
+$+ \varepsilon e(ab+ac+ad+bc+bd+cd) = 0$
+
+If we multiply $(2')$ by $ab+ac+ad+ae+bc+bd+be+cd+ce+de$ and
+subtract $(4')$ from it, we get
+$(4'')\quad \alpha a^2(b+c+d+e) + \beta b^2(a+c+d+e) + \gamma c^2(a+b+d+e) + \delta d^2(a+b+c+e)$
+$+ \varepsilon e^2(a+b+c+d) = 0$
+
+If we multiply $(3'')$ by $a+b+c+d$ and subtract $(4'')$ from it, we get
+$(4''')\quad \alpha a^3 + \beta b^3 + \gamma c^3 + \delta d^3 + \varepsilon e^3 = 0$
+
+If we multiply $(1)$ by $abcd + abce + abde + acde + bcde$ and
+subtract $(5)$ from it we get
+$(5')\quad \alpha a(bcd+bce+bde+cde) + \beta b(acd+ace+ade+cde) + \gamma c(abd+abe+ade+cde)$
+$+ \delta d(abc+abe+ace+bce) + \varepsilon e(abc+abd+acd+bcd) = -1$
+
+If we multiply $(2')$ by $abc+abd+abe+acd+ace+ade+bcd+bce+bde+cde$
+[del]and[/del] subtract $(5')$ from it we get
+$(5'')\quad \alpha a^2(bc+bd+be+cd+ce+de) + \beta b^2(ac+ad+ae+cd+ce+de) + \gamma c^2(ab+ad+ae$
+$+bd+be+de) + \delta d^2(ab+ac+ae+bc+be+ce) + \varepsilon e^2(ab+ac+ad+bc+bd+cd) = 1$
+
+If we multiply $(3'')$ by $ab+ac+ad+ae+bc+bd+be+cd+ce+de$ and
+subtract $(5'')$ from it, we get
+$(5''')\quad \alpha a^3(b+c+d+e) + \beta b^3(a+c+d+e) + \gamma c^3(a+b+d+e) + \delta d^3(a+b+c+e) + \varepsilon e^3(a+b+c+d) = -1$
+
+If we multiply $(4''')$ by $a+b+c+d+e$ and subtract $(5''')$ from it,
+we get
+$(5^{IV})\quad \alpha a^4 + \beta b^4 + \gamma c^4 + \delta d^4 + \varepsilon e^4 = 1$
+
+We have now to solve the five equations

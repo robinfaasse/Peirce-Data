@@ -1,0 +1,13 @@
+[pn]4[/pn]
+
+Required to multiply 23 by .0434. This is
+$(223 + 7) (449 - 15) = 223 \times 449 \times (1 + \frac{7}{223}) (1 - \frac{15}{449})$
+$= 1000 \times (1 + 7 \times .0434 - 15 \times 23)$
+$= 1000 \times (1 + 0.314 - .335) = 1000 (1 - 0.021) = 0.979$
+
+The true answer is 0.9982.
+
+Had we inscribed the scale with an additional figure, we
+should have had for 223     222.8
+for 449     448.9
+and the answer would have been .9981

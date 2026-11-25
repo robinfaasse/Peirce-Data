@@ -1,0 +1,36 @@
+[pn]52[/pn]
+[pn]53[/pn]
+
+$$\Gamma(\frac{1}{2}) = \int_{0}^{1} (-\log x)^{-\frac{1}{2}}$$
+
+$$x = a^{y^2} \quad -\log x = y^2 (-\log a)$$
+
+$$\int_{0}^{1} (-\log x)^{-\frac{1}{2}} = \int_{0}^{\infty} y^{-1} (-\log a)^{-\frac{1}{2}}$$
+
+$$\frac{-D_y x}{x} = 2y (-\log a)$$
+
+$$\underline{D_y x}$$
+
+$$K (-\log a)^{-\frac{1}{2}} = 2 \int_{0}^{\infty} a^{y^2}$$
+
+$$\Gamma(\frac{1}{2}) = \sqrt{\pi}$$
+
+***
+
+[u]Lecture III[/u]
+[u]Chapter VI[/u]
+
+[u]II[/u]
+[u]III[/u]
+[u]IV[/u]
+
+[fig]A closed curve with intersecting lines labeled N, N', V, and M[/fig]
+
+[del]Let[/del] $V = F(l, m)$
+
+$LM$ line for wh. $l$ is constant
+$L'M'$ " " $l$ is constant & larger
+How before.
+
+$LM \quad l = l_0 \quad MP \quad m = m_0$
+$L'M' \quad l = l_0 + dl \quad M'P' \quad m = m_0 + dm$

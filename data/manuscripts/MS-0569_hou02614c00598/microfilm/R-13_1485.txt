@@ -1,0 +1,17 @@
+$a \prec y$ $x \prec g$ $C$ $x \prec y$ [pn]14[/pn]
+$a \prec u$
+
+remark that by rule 3, [u]$v$[/u] is not false, for
+we cannot write [u]$v$[/u] $\prec y$, permitting $y$ to be
+[del]anything whatever[/del] [ins]what we like[/ins], since it cannot be [u]$u$[/u]. In the
+same way, [u]$u$[/u] is not true; [ins]for[/ins] [del]since[/del] we cannot
+write $x \prec$ [u]$u$[/u], permitting $x$ to be [del]anything whatever[/del] [ins]what we like[/ins],
+since it cannot be [u]$v$[/u].
+
+[del]$x \prec (x$[/del]
+
+$\frac{y \prec (x \prec y)}{(x \prec y) \prec \xi \quad \eta \prec y}$
+
+$\frac{(x \prec u) \prec x \prec y}{y \prec x \prec y}$
+
+$x \prec y$ and $x$ then $y$ $(x \prec y) \prec x \prec y$

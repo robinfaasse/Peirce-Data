@@ -1,0 +1,56 @@
+[fig]scratchpad calculation on binary numbers[/fig]
+
+[fig]symbolic diagram[/fig] [fig]scratchpad calculation[/fig] [fig]table of binary values[/fig]
+
+[del]1 1[/del] [ins]1 0[/ins]
+[del]1[/del] 1
+[del]0 1[/del] [ins]1 0[/ins]
+
+[fig]binary calculation columns[/fig]
+
+- 1 0 1 1 0 0 1 0 1 0 0 1 1 1
++ 1 0 1 0 [del]0[/del] [ins]1[/ins] 0 0 1 0 1 0 1
+- 1 0 0 1 1 1 1 1 1 1 1
++ 1 0 0 1 1 1 1 1
+- 1 0 0 0 [del]1 1[/del] [ins]0 1 1[/ins] 1
+[fig]bracket arrow[/fig]
+
+- 1 0 1 0 [del]1[/del] [ins]0[/ins] 1 1 0 1 1 1
++ 1 0 0 1 1 1 1
+- 1 1 1 1 1 1 1 1
++ 1 1 1 1 1
+- 1 1 1 1
+- 1 1
+
+- 1 0 0 0 [del]0 1 1 1[/del] [ins]1 0 1 1 1[/ins]
++ 1 0 0 0
+- 1 0 0 0 0 0 0 1
++ 1 0 0 1 0 0 1 1 1
+- 1 0 0 1 0 [del]1[/del] [ins]1[/ins] 1 1
+1 0 0 1 0 [del]0 0 1[/del] [ins]1 0 1[/ins] 1 1
+- 1 0 1 0 [del]1 0 1 0 1 0 1[/del] [ins]1 1 0 1 1 1[/ins]
+- 1 0 1 1 0 0 1 0 1 0 0 1 1 1
+
+- 1 0
++ 1 0
++ 1 0
+
+- 1 0
++ 1 0
++ 1 0
++ 1 1
+
+[fig]mathematical equations[/fig]
+$S_{n+2} = -2 S_{n+1} + S_n$
+$= \frac{2}{4} (G_0 + 1)$
+
+$\frac{127}{16}$
+$\frac{15}{4} = \frac{7}{4}$
+- 1
++ $\frac{1}{2}$
+- $\frac{1}{4}$
+
+$\frac{31}{16}$
+$\frac{127}{2} \cdot \frac{15}{2}$
+$\frac{254}{4} \cdot \frac{127}{4}$
+$\frac{267}{4}$

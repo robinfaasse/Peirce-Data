@@ -1,0 +1,29 @@
+[pn]Logic
+III
+85[/pn]
+
+explicitness of the statement of it. [del]But[/del] [ins]But[/ins] although it is a little
+intricate, it is mere corollarial reasoning. It may require some
+[ins]specifically[/ins] mathematical thought to get a clear idea of what the Thesis means,
+but when that clear idea is once attained, the truth of it is mani-
+fest. It is thus one of those reasonings which are covered by Kants
+definition of deduction. In order to show this I will give a second
+demonstration, which though very inferior considered as a study
+of the logic of the matter, not showing precisely how the different
+premises apply, [del]is far clearer[/del] makes the truth more apparent.
+In fact, it merely consists in giving a clear idea of what [del]the[/del] [ins]it[/ins] is
+that is asserted. Let us arrange the eight possible sets of values
+so as to exhibit their relations
+
+$$\begin{array}{ccc}
+x.y.z & x.\bar{y}.z & \bar{x}.y.z & \bar{x}.\bar{y}.z \\
+x.y.\bar{z} & x.\bar{y}.\bar{z} & \bar{x}.y.\bar{z} & \bar{x}.\bar{y}.\bar{z}
+\end{array}$$
+
+Now let us see what $x.\bar{y}.\bar{z}$ means. It means, in the first place,
+that $x.\bar{y}$ is everywhere cut out, leaving
+
+$$\begin{array}{ccc}
+x.y.z & \bar{x}.y.z & \bar{x}.\bar{y}.z \\
+x.y.\bar{z} & \bar{x}.y.\bar{z} & \bar{x}.\bar{y}.\bar{z}
+\end{array}$$

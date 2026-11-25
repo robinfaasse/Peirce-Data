@@ -1,0 +1,19 @@
+[pn]288[/pn]
+
+If $Y=5$, $\frac{Y-2}{2Y} = \frac{3}{10}$
+
+$\begin{aligned} E-Z &= 3x \\ EZ &= 10x \end{aligned}$
+
+Then $(E-Z)^2 = E^2 - 2EZ + Z^2 = 9[u]x^2[/u]$
+$(E+Z)^2 = E^2 + 2EZ + Z^2 = 9x^2 + 40x$
+
+There must be some number greater than $3x$ whose square equals $9x^2 + 40x$. Its square exceeds that of $x$ by $40x$. This being an even number. It is plain that this number exceeds $3x$ by an even number. Say then
+$\begin{aligned} (3x + 2\xi)^2 &= 9x^2 + 40x \\ &= 9x^2 + 12\xi x + 4\xi^2 \end{aligned}$
+
+That is
+$40x = 12\xi x + 4\xi^2$
+or $10x = 3\xi x + \xi^2$
+or $\xi^2 = (10 - 3\xi)x$
+
+We [del]to the[/del] have then to find a [ins]whole[/ins] number $\xi$ the triple of which is less than $10$ and subtracted from $10$ gives a divisor of $\xi^2$. To have its triple less than $10$, $\xi$ must be $1$, $2$, or $3$.
+$10 - 3 = 7$ which does not divide $1^2$. But $10 - 3 \cdot 2 = 4$ which divides $2^2$; and $10 - 3 \cdot 3 = 1$ which divides $3^2$. $\xi = 2$ would make $x=1$ leading to $E=5, Z=2$, a solution we have already got. But $\xi = 3$ makes $x=9$. $E-Z = 27$, $EZ = 90$, $(E-Z)^2 = 729$, $(E+Z)^2 = 1089$, $E+Z = 33$, $E=30$, $Z=3$. This makes

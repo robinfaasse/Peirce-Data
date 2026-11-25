@@ -1,0 +1,97 @@
+[pn]1[/pn] [fig]Circle[/fig]
+[del]All but[/del] [ins]at[/ins] [del]at[/del] most $m$ $M$'s are $P$'s
+[del]All but at most[/del] [ins]At most[/ins] $n$ $S$'s are $M$s
+$\therefore$ [del]All but at most $(m+n)$[/del] [ins]At most $m+n$[/ins] $S$s are $P$
+
+[del]All but at most $m$ $M$s are $P$'s[/del]
+[del]Not $m$ $M$s are[/del]
+[del]All but at most[/del] [ins]At most[/ins] $m$ $M$s are $P$s
+More than [del]$(m+n)$[/del] [ins]$s$[/ins] $S$s are not $P$
+More than $s-m$ $S$'s are [ins]not[/ins] $M$s
+
+Not more than $m$ $M$s are $P$s
+More than [del]$s$[/del] [ins]$s$[/ins] $S$s [del]is[/del] [ins]are[/ins] $P$s
+$\therefore$ More than $s-m$ $S$s are $M$s
+
+$b+x > \sigma$
+$a+b \leqq \nu$
+$\sigma - \nu < x$
+
+$\sigma + a < \nu + x$
+$\sigma - \nu < x$
+
+$uv = m$
+$\bar{v}w = n$
+
+$uvw + u\bar{v}\bar{w} = m$
+$uv\bar{w} + \bar{u}\bar{v}w = n$
+
+$mp \leqq \mu$
+$sp \geqq \sigma$
+$smp + s\bar{m}p > \sigma$
+$smp + \bar{s}mp \leqq \mu$
+
+[fig]Venn diagram with three circles S, M, P[/fig]
+[fig]Venn diagram with three circles S, M, P[/fig]
+
+$x+y \leqq \mu$
+$x+z > \sigma$
+
+$\sigma \leqq b < x \leqq \mu - y$
+$\sigma - \mu < b - y < b$
+
+$x+y \leqq \mu$
+$a+b \leqq \nu$
+$b+x \leqq \mu + \nu$
+
+$x+y \leqq \mu$
+$b+x > \sigma$
+
+[fig]Venn diagram with three circles S, M, P[/fig]
+$x+y \leqq \mu$
+$x+z \geqq \sigma$
+$z \geqq \sigma - \mu$
+
+$\mu + z \geqq \sigma + y$
+
+At most $\mu$ $M$'s are $P$s
+At least $\sigma$ $S$s are [ins]not[/ins] $P$s
+At least $\sigma - \mu$ $S$s are [ins]not[/ins] $M$s
+[del]At most [del]$\sigma$[/del] [del]$S$'s[/del] are not $P$[/del]
+
+$m \overline{\text{X}}^{\mu} p$ At most
+$s \text{X}^{\sigma} p$ At most $[s]-\sigma$ are [del]not[/del] $P$
+$s \overline{\text{X}}^{\sigma-\mu} m$ At most $[s]-\sigma+\mu$ $S$s are $M$
+
+At least $\sigma$ $S$s are $P$s [del]$M \text{X} s \text{X} P$[/del]
+At most $\nu$ $S$s are $M$s
+At least $\sigma - \nu$ $M$s are [ins]not[/ins] $P$s
+
+$s \text{X}^{\sigma} p$
+$m \overline{\text{X}}^{\nu} p$ [fig]Venn diagram with two circles M, P[/fig]
+
+[fig]Venn diagram with three circles A, B, C[/fig]
+$p+q \geqq \gamma$
+$q+r \leqq \alpha$
+$r \leqq \alpha - \gamma$
+
+$y+r \geqq p+q+r \geqq \alpha+p$
+
+$m \overline{\text{X}}^{\nu} s$
+$\bar{m} \text{X}^{\sigma} \bar{s}$
+
+[del]At most [del]$P$[/del] [ins]but[/ins] $\sigma$ $P$s are non $S$s[/del]
+All the $P$'s except $\sigma$ at most are non $S$'s
+
+[fig]Venn diagram with three circles A, B, C[/fig]
+$x+y \leqq \nu$
+$x+z \geqq \sigma$
+
+[fig]Venn diagram with three circles A, B, C[/fig]
+
+At most $\nu$ $A$s are $B$s
+At least $\sigma$ $B$ are $C$s
+At least $\sigma - \nu$ [del]$C$s[/del] are not [del]$A$s[/del]
+At least $\sigma$ $A$ are $B$s
+At most $\mu$ $B$ are $C$'s
+At least $\sigma - \mu$ $A$s are not $C$s

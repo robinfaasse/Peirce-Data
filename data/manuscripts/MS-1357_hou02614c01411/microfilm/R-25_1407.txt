@@ -1,0 +1,43 @@
+[pn]29[/pn]
+[u]Report on Line Loads[/u]
+
+It is now time to proceed to the numerical work, in per-
+forming which I will experiment with the [del]method[/del] [ins]use of[/ins] Tables
+of Quarter Squares and Reciprocals. For if ever there was
+an occasion in which this method presented advantages, it
+would be such as this. But some of the first numbers can be taken directly
+[ins]from Gauss's table circulating decimals.[/ins]
+
+With the values of the known quantities on p. 24 and the
+following first assumptions
+
+$$\begin{array}{lll}
+x_0 = 0 & x_1 = 12 & x_2 = 15 \\
+y_0 = 0 & y_1 = 5 & y_2 = 1
+\end{array}$$
+
+I proceed to calculate the auxiliaries of pp. 26, 27.
+
+$$\begin{array}{ll}
+\alpha_0 = 0.3 & \alpha_2 = 0.2 \\
+\beta_0 = 10 & \beta_2 = 100 \\
+\varepsilon_0 = 0 & \varepsilon_2 = 0 \\
+\kappa_0 = \frac{1}{\frac{5}{12} + \frac{12}{5}} = \frac{1}{2.81667} = .3550296 & \kappa_1 = \frac{2}{\frac{3}{4} + \frac{4}{3}} = 0.96 \\
+\text{[ins]from Gauss's .3550295850[/ins]} & \\
+\lambda_0 = 1 \cdot (1 - \frac{144}{169}) = .14792899 & \lambda_1 = 2 (1 - \frac{9}{25}) = 1.28 \\
+\mu_0 = 1 \times (1 - \frac{25}{169}) = .852071006 & \mu_1 = 2 (1 - \frac{16}{25}) = .72 \\
+\frac{1}{\Lambda_0 \mu_0} = 3 & \frac{1}{\Lambda_2 \mu_2} = 20 \\
+[s_0] = 0 & [s_1] = 0
+\end{array}$$
+
+$$\heartsuit_1 = 0 \quad \heartsuit_2 = 0 \quad \heartsuit_3 = 0 \quad \heartsuit_4 = 0 \quad \heartsuit_5 = -1 \quad \heartsuit_6 = 0$$
+
+I now proceed to form the coefficients of the [ins]two[/ins] equations in
+$\delta x_1$ and $\delta y_1$
+
+We write these equations
+(30) $\left\{ \begin{array}{l}
+a \delta x_1 + b \delta y_1 + m = 0 \\
+[del]\delta x_1 + b' \delta y_1 + n = 0[/del] \\
+b \delta x_1 + c \delta y_1 + n = 0
+\end{array} \right.$

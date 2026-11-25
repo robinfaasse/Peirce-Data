@@ -1,0 +1,28 @@
+1900 Dec 11 [Follows 176] 178r.
+A New Logical Algebra
+
+1. [del]If[/del] A [fig]figure[/fig] B means A may be transformed into B
+2. A · B means both A and B are true
+
+Subjacent indices are individual subjects known to be in the universe
+The universe itself is such a subject.
+
+3. [del]a[/del] [ins]A[/ins][sub]i[/sub] means A is true of i
+4. [del][fig]figure[/fig] is a blank assertion[/del]
+[del]No more signs are needed to begin with except parentheses etc.[/del]
+5. I[sub]ij[/sub] means [del]ident[/del] i is identical with j.
+[del]Rules of transformation.[/del]
+
+[del]A[/del] But A [fig]figure[/fig] B · C means A [fig]figure[/fig] (B · C)
+A [fig]figure[/fig] B [fig]figure[/fig] C means A [fig]figure[/fig] (B [fig]figure[/fig] C)
+A · B · C means A · (B · C)
+
+<u>Rules of transformation</u>
+
+I. A · B [fig]figure[/fig] B · A
+II. (A · B) · C [fig]figure[/fig] A · (B · C) III A · (B · C) [fig]figure[/fig] (A · B) · C
+[del]IV.[/del] A · B [fig]figure[/fig] A IV Also [del]A A[/del] A [fig]figure[/fig] A · A
+VI If A and B then (A · B) [del]A B[/del]
+VII I[sub]ij[/sub] [fig]figure[/fig] I[sub]ji[/sub] · I[sub]ij[/sub] If A [fig]figure[/fig] B [del]B [fig]figure[/fig] A · B[/del]
+VIII I[sub]ij[/sub] · I[sub]ik[/sub] [fig]figure[/fig] I[sub]ij[/sub] · I[sub]ik[/sub] · I[sub]jk[/sub] A · C [fig]figure[/fig] B · C
+IX [del]X[/del] I[sub]ij[/sub] · A[sub]i[/sub] [fig]figure[/fig] I[sub]ij[/sub]

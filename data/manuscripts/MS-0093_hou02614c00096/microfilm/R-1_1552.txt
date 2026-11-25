@@ -1,0 +1,64 @@
+[pn]32[/pn]
+
+These are the Bernoulli numbers
+
+$(e^t - 1)^{-1} = \frac{1}{t} - \frac{1}{2} + \frac{B_1}{2!} t - \frac{B_3}{4!} t^3 + \frac{B_5}{6!} t^5 - \text{etc}$
+
+$B_1 = \frac{1}{6} \quad B_3 = \frac{1}{30} \quad B_5 = \frac{1}{42} \quad B_7 = \frac{1}{30} \quad B_9 = \frac{5}{66}$
+
+$B_{11} = \frac{691}{2730} \quad B_{13} = \frac{7}{6} \quad B_{15} = \frac{3617}{510} \text{ etc.}$
+
+[marginalia]
+$\frac{1}{1 + \frac{1}{2}t + \frac{1}{6}t^2}$
+$1 + t + \frac{1}{2}t^2$
+$\underline{t + \frac{1}{2}t^2 + \frac{1}{6}t^3}$
+$t + \frac{3}{2}t^2 + \frac{2}{3}t^3$
+[/marginalia]
+
+Applications
+
+$1 + \frac{1}{2} + \frac{1}{3} + \dots \frac{1}{x} = .577215 + \log x + \frac{1}{2x} - \frac{1}{12x^2} + \frac{1}{120x^4} - \text{etc}$
+
+[marginalia]
+Stirlings
+formula
+[/marginalia]
+$x! = \sqrt{2\pi x} \left(\frac{x}{e}\right)^x \left(1 + \frac{1}{12x} + \frac{1}{288x^2} - \frac{139}{51840x^3} + \text{etc}\right)$
+
+$B_{2n-1} = \frac{2.(2n)!}{(2\pi)^{2n}} \left(1 + \frac{1}{2^{2n}} + \frac{1}{3^{2n}} + \frac{1}{4^{2n}} + \text{etc}\right)$
+
+He determines the limits of the remainder of this
+expression [del]as follows[/del]: I don't copy it, as
+[del]He[/del] [ins]it[/ins] seems to me illogical.
+
+His conclusion that as long as the sign of $\frac{du}{dx}$ does
+not change the convergent part of the expression
+approximates, suggests that one ought to take
+a lot of successive differentials. Thus
+$D (e^t - 1)^{-1} = - (e^t - 1)^{-2} e^t$
+$D^2 (e^t - 1)^{-1} = + 2 (e^t - 1)^{-3} e^{2t} - (e^t - 1)^{-2} e^t$
+$D^3 (e^t - 1)^{-1} = - 3! (e^t - 1)^{-4} e^{3t} + 6 (e^t - 1)^{-3} e^{2t} - (e^t - 1)^{-2} e^t$
+$D^4 (e^t - 1)^{-1} = + 4! (e^t - 1)^{-5} e^{4t} + 36 (e^t - 1)^{-4} e^{3t} + 14 (e^t - 1)^{-3} e^{2t}$
+$- (e^t - 1)^{-2} e^t$
+
+[pn]33[/pn]
+
+Or better $\frac{t}{(e^t - 1)} = \frac{t}{t} = 1$
+
+$D \ t(e^t - 1)^{-1} = (e^t - 1)^{-1} - t(e^t - 1)^{-2} e^t = \frac{(e^t - 1) - t e^t}{(e^t - 1)^2}$
+
+For $t = 0$ this $\frac{t + \frac{1}{2}t^2 - t - t^2}{t^2} = - \frac{1}{2}$
+
+$D^2 = - (e^t - 1)^{-2} e^t - (e^t - 1)^{-2} e^t + 2t(e^t - 1)^{-3} e^{2t} - t(e^t - 1)^{-2} e^t$
+$= \frac{- 2(e^t - 1) e^t + 2t e^{2t} - t(e^t - 1) e^t}{(e^t - 1)^3} = [del]\text{something illegible}[/del] = + \frac{1}{6}$
+
+$= \frac{\begin{array}{l} -2t - 3t^2 - \frac{5}{3}t^3 \\ +2t + 4t^2 + 4t^3 \\ \quad -t^2 - \frac{3}{2}t^3 \end{array}}{\quad + \frac{1}{6}t^3}$
+
+[marginalia]
+$\begin{array}{r} -2 \\ -3 \\ -1 \\ \hline -6 \end{array} \begin{array}{r} -\frac{5}{3} \\ +4 \\ -\frac{3}{2} \\ \hline +\frac{5}{6} \end{array}$
+$\frac{1 + 2t + 2t^2}{2t + 4t^2 + 4}$
+[/marginalia]
+
+$D^3 = \frac{+ 2(e^t - 1)^2 e^t - 2(e^t - 1)^2 e^t - 6t(e^t - 1)^2 e^{2t}}{[del]\text{illegible}[/del]}$
+$+ 2(e^t - 1)^3 e^{2t} + 4t(e^t - 1)^3 e^{2t} + 2t(e^t - 1)^3 e^t$
+$[del]\text{illegible}[/del] \quad + 2t(e^t - 1)^3 \quad - t(e^t - 1)^2 e^t$

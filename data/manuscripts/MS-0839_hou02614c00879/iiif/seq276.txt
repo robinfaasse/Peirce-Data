@@ -1,0 +1,27 @@
+[fig]horizontal and vertical lines forming a plus sign[/fig]
+$(j-k)i' = j'-k' \quad i'^2=i'' \quad (j-k)j'=k'-i' \quad [del]i'j'=j''[/del]$
+$(k-i)i' = k'-i' \quad j'i'=j'' \quad (k-i)j'=i'-j' \quad [del]j'^2[/del] [ins]i'k'[/ins]=k''$
+$(i-j)i = [del]j'-i'[/del] [ins]i'-j'[/ins] \quad k'i'=k'' \quad (i-j)j' = j'-k' \quad k'j'=i''$
+$(m-n)i = m'-n' \quad l'i'=l'' \quad (m-n)j' = n'-l' \quad [del]l'j'[/del] [ins]i'l'[/ins]=m''$
+$\qquad \qquad \qquad \qquad \quad (n-l)j' = l'-m' \quad m'j'=n''$
+$[del]l'k'=n'[/del] (m-n)k' = l'-m' \quad l'k'=n'$
+$k'l' / (l-m)k' = l'-n' - l'n'$
+
+[ured]$(j-k)i=j-k \quad i \cdot i = i \quad (i-k)j=k-i \quad i \cdot j = j' \quad (j-k)k=i-j \quad i'k=k'$[/ured]
+[ured]$(k-i)i=k-i \quad j \cdot i = j' \quad (k-i)j=i-j \quad j \cdot i = k' \quad (k-i)k=j-k \quad j'k=i'$[/ured]
+[ured]$(i-j)i=i-j \quad k \cdot i = k' \quad (i-j)j=j-k \quad k \cdot j = i \quad (j-j)k=k-i \quad k'k=j'$[/ured]
+[ured]$([del]m-n[/del] [ins]m-n[/ins])l=m-n \quad l \cdot i = l' \quad (m-n)j=n-l \quad l \cdot j = m' \quad (m-n)k=l-m \quad l \cdot k = n'$[/ured]
+[ured]$(n-l)l=n-l \quad m \cdot i = m' \quad (n-l)j=l-m \quad m \cdot j = n' \quad (n-l)k=m-n \quad m \cdot k = l'$[/ured]
+[ured]$(l-m)l=l-m \quad n \cdot i = n' \quad (l-m)j=m-n \quad n \cdot j = l' \quad (l-m)k=n-l \quad n \cdot k = m'$[/ured]
+[ured]$(j-k)l=n-m \quad i \cdot l = -l' \quad (i-k)l=l-n \quad i \cdot m = m' \quad (j-k)n=m-l \quad i \cdot n = -n'$[/ured]
+[ured]$(k-i)l=m-l \quad j \cdot l = -n' \quad (k-i)m=n-m \quad j \cdot m = -l' \quad (k-i)n=l-n \quad j \cdot n = -m'$[/ured]
+[ured]$(i-j)l=l-n \quad k \cdot l = -m' \quad (i-j)m=m-l \quad k \cdot m = -n' \quad (i-j)n=n-m \quad k \cdot n = -l'$[/ured]
+[ured]$(m-n)l=k-j \quad [del]l \cdot l[/del] [ins]l \cdot l[/ins] = -i' \quad (m-n)m=i-k \quad l \cdot m = -j' \quad (m-n)n=j-i \quad l \cdot n = -k'$[/ured]
+[ured]$(n-l)l=j-i \quad m \cdot l = -k' \quad (n-l)m=k-j \quad m \cdot m = -i' \quad (n-l)n=i-k \quad m \cdot n = -l'$[/ured]
+[ured]$(l-m)l=i-k \quad n \cdot l = -j' \quad (l-m)m=j-i \quad n \cdot m = -k' \quad (l-m)n=k-j \quad n \cdot n = -i'$[/ured]
+[u]$ni'=n(j-k)=l-m=n'$[/u]
+[u]$mj'=m(k-i)=l-m=n'$[/u]
+[u]$lk'=l(i-j)=l-m=n'$[/u]
+[u]$kl'=k(m-n)=n-l=m'$[/u]
+[u]$jm'=j(n-l)=m-n=l'$[/u]
+[u]$in'=i(l-m)=l-m=n'$[/u]

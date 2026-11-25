@@ -1,0 +1,32 @@
+remain parabolas. The total elongation of the cable [ins][u]p. 46[/u][/ins] having
+been so ascertained, we might give it that greater length, and add to
+that the other effect. But upon the principle of the superposition of
+effects whose products can be neglected, we may equally well calculate
+the effect when the cable remains of constant length, and add the two
+together.
+
+In the third place, the towers being perfectly free to move in a horizontal
+direction, it is not worth while to any account of [del]x[/del] [ins]$\xi$[/ins].
+
+[u]First Part of the Effect due to Stretching of Cable while it remains Parabolic[/u].
+
+We begin by forming the expression for the energy, first considering
+the energy of elongation of the cable. We take up its five parts, begin-
+ning with that from $x = -R$ to $x = -N$, which we assume to be straight.
+[ins]taking $\Xi$ and $\Upsilon$ as coordinates,[/ins]
+The cable under the dead-load has the equation
+$$\Upsilon = \frac{\Xi^2}{2p}$$
+from [del]$x = -N$ to $x = +N$[/del] [ins]$\Xi = -N$ to $\Xi = +N$[/ins]. The tangent of the inclination at $N$ is therefore
+$\frac{N}{p}$ and the equations of the straight parts are
+$$\Upsilon = -\frac{N}{p} (\Xi + \frac{1}{2} N) \quad \Upsilon = \frac{N}{p} (\Xi - \frac{1}{2} N)$$
+The elevation of the tower heads is therefore $\frac{N}{p} (R - \frac{1}{2} N)$; and
+the length of each straight piece under the dead load is $(R-N) \sqrt{1 + \frac{N^2}{p^2}}$.
+Under the live load, the vertical coordinate of the tower-head is
+unchanged, but the horizontal coordinate changes from $-R$ to $-R - \xi_R$, if
+$\xi_R = \xi'_R + \xi''_R$ where $\xi'_R$ is the part due to this effect and $\xi''_R$ the
+part due to the other. The vertical coordinate of the part at $x = -N$
+changes from $\frac{N^2}{2p}$ to $\frac{N^2}{2p} + \underline{a} - \underline{b} N + \underline{c} N^2$, while the horizontal coordinate
+remains $-N$. But $\underline{a}$ and $\underline{b}$ are to be [ins][u]p. 47[/u][/ins] eliminated [ins]by means[/ins]
+of the equations
+$$\underline{a} + \underline{b} I + \underline{c} I^2 = \underline{a}' + \underline{b}' I + \underline{c}' I^2 \quad \underline{b} + 2 \underline{c} I = \underline{b}' + 2 \underline{c}' I,$$
+giving $\underline{b} = \underline{b}' + 2 (\underline{c}' - \underline{c}) I \quad \underline{a} = \underline{a}' - (\underline{c}' - \underline{c}) I^2$.

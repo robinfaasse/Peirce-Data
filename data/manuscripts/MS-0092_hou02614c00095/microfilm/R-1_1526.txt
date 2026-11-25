@@ -1,0 +1,30 @@
+[pn]NFD
+4[/pn]
+
+write
+
+$$\langle \underline{m} \circ \underline{n} \rangle = \langle \underline{n} \circ \underline{m} \rangle = \frac{(\underline{m}+\underline{n})!}{\underline{m}!\,\underline{n}!}$$
+
+Then, although $\langle \underline{m} \circ -\underline{n} \rangle = 0$, yet $(-\underline{n})! \langle \underline{m} \circ -\underline{n} \rangle = \frac{(\underline{m}-\underline{n})!}{\underline{m}!}$
+
+Now $\Delta_{\underline{m}} \langle \underline{m} \circ \underline{n} \rangle = \langle \underline{m} [del]\circ[/del] [ins]+\underline{1}[/ins] \circ \underline{n} \rangle [del]\rightarrow[/del] = \sum_{\underline{n}} \langle \underline{m} \circ \underline{n} \rangle$. Accordingly, Boole's
+$\underline{m}^{(\underline{n})} = \underline{n}! \langle \underline{m} - \underline{n} \circ \underline{n} \rangle$ and $\Delta_{\underline{m}} \underline{m}^{(\underline{n})} = \underline{n}! \langle \underline{m} - \underline{n} + 1 \circ \underline{n} - 1 \rangle = \underline{n} \cdot \underline{m}^{(\underline{n}-1)}$;
+while his $\underline{m}^{(-\underline{n})} = (-\underline{n})! \langle \underline{m} + \underline{n} - 1 \circ -\underline{n} \rangle$ and $\Delta_{\underline{m}} \underline{m}^{(-\underline{n})} = (-\underline{n})! \langle \underline{m} + \underline{n} \circ -\underline{n} + 1 \rangle = $
+$-\underline{n} \cdot \underline{m}^{(-\underline{n}-1)}$. This, it appears to me, exhibits the true relation between
+the two cases. That is, not only has $\underline{n}$ changed its sign, but the value of
+$\underline{m}$ is altered. With the proposed notation the binomial theorem is
+
+$$(p+q)^{\underline{l}} = \sum_{\underline{m}+\underline{n}=\underline{l}} \langle \underline{m} \circ \underline{n} \rangle p^{\underline{m}} q^{\underline{n}}.$$
+
+and a common formula of interpolation is
+
+$$f(x+\underline{m}) = \sum_{\underline{n}=0}^{\infty} \langle \underline{n} \circ \infty \rangle \underline{m}^{\underline{n}} \Delta_x^{\underline{n}} f x$$
+
+The following relatively direct solution of the general linear
+equation of differences will illustrate the use of the symbol $\Gamma$.
+
+Let the equation be
+
+$$\sum_{\underline{n}} A_{\underline{m},\underline{n}} u_{\underline{m}+\underline{n}} + B_{\underline{m}} = 0.$$
+
+The first step will be to put it into the form

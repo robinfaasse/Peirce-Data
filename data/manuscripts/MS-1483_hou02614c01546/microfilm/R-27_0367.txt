@@ -1,0 +1,30 @@
+[pn]ax⁴+bx³+cx²-dx=1[/pn]
+
+[fig]Table with columns a, b, c and values 0, 0, 1[/fig]
+
+c
+b+c²
+a+2bc+c³
+2ac+b²+3bc²+c⁴
+2ab+3ac²+3b²c+4bc³+c⁵
+a²+6abc+4ac³+b³+6b²c²+5bc⁴+c⁶
+[del]a=c³[/del] [del]b=c²[/del]
+
+[fig]Table with columns a³, b², c and values 0, 0, 1[/fig]
+
+c
+b²+c²
+a³+2b²c+c³
+2a³c+b⁴+3b²c²+c⁴
+2a³b²+a³c²+2b⁴c+b²c³
+a⁶+[del]6a³b²c[/del]+2a³c³+b⁶+3b⁴c²+3b²c⁴
+3a⁶c+3a³b⁴+[del]10[/del]a³b²c-3a³c⁴+3b⁶c+6b⁴c³+4b²c⁵
+3a⁶b²+4a⁶c²+[del]12[/del]a³b⁴c+12a³b²c³+8b⁶c²+10b⁴c⁴-3a³c⁵+4b²c⁶
+
+[fig]Table with columns a, b, c and values 0, 0, 1[/fig]
+
+c
+b+c²
+a+2bc+c³
+2ac+b²+3bc²+[del]c⁴[/del]
+2ab+3ac²+3b²c+bc³

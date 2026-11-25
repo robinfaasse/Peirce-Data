@@ -1,0 +1,19 @@
+REPORT
+ON THE EFFECT OF A LIVE LOAD ON MR. MORISON'S NORTH RIVER BRIDGE.
+By C. S. Peirce
+
+I. The Special Funicular Polygon.
+
+[fig]Diagram of a funicular polygon suspended between two towers, labeled A and Ω.[/fig] § 1. A cord whose ends, A and $\Omega$, are attached to two towers, is stretched by N weights. Required its tensions and figure.
+
+<u>Geometrical Conditions</u>. Let us number the weighted points in their order along the cord from A to $\Omega$, the numbers running from 1 to N. Let us number the stretches of cord between successive weighted points in the same order, but beginning with 0. Thus, stretch n runs from point n to point n+1; and point n is between stretch n-1 and stretch n.
+
+Take A for the origin of rectangular coordinates. Measure y vertically up (so that in the case of the suspension bridge, the ys will be negative), and measure x [ins]horizontally[/ins] toward the tower carrying $\Omega$.
+
+Let $x_1, x_2, \dots x_n \dots x_N$ be the values of x for the weighted points
+" $y_1, y_2, \dots y_n \dots y_N$ " " " y " " "
+Let $s_0, s_1, s_2 \dots s_n, s_n \dots s_N$ be the lengths of the stretches between successive weighted points,
+$\tau_0, \tau_1, \tau_2 \dots \tau_{n-1}, \tau_n \dots \tau_N$ their inclinations to the horizon counted as positive when y increases with x.
+
+Then $Tan \tau_n = \frac{y_{n+1}-y_n}{x_{n+1}-x_n}$ $s_n = \sqrt{(x_{n+1}-x_n)^2 + (y_{n+1}-y_n)^2}$
+(1) $x_n = \sum_0^{n-1} s_m \cos \tau_m$ $y_n = \sum_0^{n-1} s_m \sin \tau_m$

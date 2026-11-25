@@ -1,0 +1,20 @@
+[fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig]
+[fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig]
+$\text{cn}$ [fig]figure[/fig] $\frac{1}{3b}(a+bx^2)^\frac{3}{2}$
+$y=\frac{y_0}{x_c^2}x^2$ $\frac{W}{\delta L} = E \frac{B}{I}$ [fig]figure[/fig] $\frac{1}{2b}(a+bx^2)^\frac{1}{2}$
+$B \frac{y_0}{3x_c^2}x^3$ [fig]figure[/fig] $\frac{x}{2}\sqrt{y^2+y^2\frac{x}{2p}}$
+$E \frac{d\delta L}{(y_0-y_c)x_c}$ [fig]figure[/fig] $W+dW = E \frac{B}{L}$ $\frac{1}{4}y\sqrt{1+\frac{4x}{2p}}$
+$\frac{1}{3}(y_0-y_c)x_c$ $\delta L + d\delta L$ [fig]figure[/fig] [fig]figure[/fig] $y_0$ [del]$\frac{y_0}{2x_c}\sqrt{1+\frac{4(y_0-y_c)}{x_c}} + \frac{x}{4}$[/del] $y_0 \frac{x_c^2}{4y_0-y_c}$
+[fig]figure[/fig] [fig]figure[/fig] $\frac{dy}{dx} y=\frac{y_c}{x_c^2}x^2$ [fig]figure[/fig] [fig]figure[/fig]
+$dW=W \frac{d\delta L}{\delta L}$ $D_x y = 2 \frac{y_c}{x_c^2}x$ [fig]figure[/fig] [fig]figure[/fig]
+$x_c$ $2\frac{y_c}{x_c}$ $x$ [fig]figure[/fig]
+[fig]figure[/fig] $y_c$ $\text{density} \times \text{cross section} \times dx$ [fig]figure[/fig]
+[fig]figure[/fig] [fig]figure[/fig]
+$S=at^2$ [fig]figure[/fig] $\text{acceleration}$
+$\text{But the amount of stretching}$ $x^2 = \frac{x_c^2}{y_c}y$ $D_t S = 2at$ $\int\limits_{-c}^{+c} \text{density} \times \text{cross section} \times dx$
+$2p = \frac{x_c^2}{y_0-y_c}$ $D_t^2 S = 2a$ $ax \times bx$ [fig]figure[/fig] $\frac{H}{H_1} = \frac{v}{v_1}$
+$\frac{4y}{2p}$ [fig]figure[/fig] $S = [del]C T^2[/del] \frac{1}{2} C t^2$ $\frac{H-H_1}{H_1} = \frac{v-v_1}{v_1}$
+$\frac{4(y_0-y_c)}{x_c^2}$ $D_t S = \frac{e \times t}{CT^2}$ $a \frac{H}{H_1} - aH_1$ $v=aH$
+$x_c \sqrt{1 + \frac{4y}{2p}}$ $\frac{1}{2}(D_t S)^2 = \frac{1}{2} \frac{e^2 x^2}{C^2 T^2} t^2$ [fig]figure[/fig] $a(H-H_1)$ $\frac{1}{3} e^2 c$ [fig]figure[/fig]
+$\frac{1}{2}x_c\sqrt{1+\frac{4(y_0-y_c)^2}{x_c^2}}$ $\int \text{density cross section} \frac{1}{6} \frac{e^2 x^3}{c^2}$ $\int\limits_{-c}^{+c} \text{density cross section}$
+$+ \frac{1}{4} \frac{x_c^2}{y_0-y_c} \ln [\sqrt{1+\frac{4(y_0-y_c)^2}{x_c^2}} + \frac{2(y_0-y_c)}{x_c}]$

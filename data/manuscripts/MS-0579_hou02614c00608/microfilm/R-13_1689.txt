@@ -1,0 +1,34 @@
+[u]2 copulas continued[/u]
+[u]II.[/u] $(a \prec b) \prec c \qquad \overline{a}b + c$
+$\alpha.$ If $c$ then $(a \prec b) \prec c$
+$\beta.$ Either $a \prec b$ or $c$
+$\gamma.$ If $(a \prec b) \prec c$ then either $a$ or [del]then[/del] [ins]and[/ins] if $b$ then $c$
+$\delta.$ If $(a \prec b) \prec c$
+
+[marginalia]
+[u]Rule[/u] If $(a \prec b) \prec c$
+then $a \prec b \prec c$
+or generally parentheses may
+be dropped under an even number
+of parentheses and with the middle
+parentheses also and with an
+[del]odd[/del] [ins]under and[/ins] odd number
+[/marginalia]
+
+[u]Special[/u]
+[u]A.[/u] $(a \prec b) \prec a = a$
+$\alpha.$ If $a$ then $(a \prec b) \prec a$ by I I $\alpha$
+$\beta.$ If $(a \prec b) \prec a$ then $a$ by I I $\beta$ and I I $\gamma$.
+The general principle is that an antecedent whose antecedent is the final consequent has no effect.
+
+[u]B.[/u] $(a \prec b) \prec b = a + b$
+$\alpha.$ If $b$ then $(a \prec b) \prec b$ by I I $\alpha$
+$\beta.$ If $a$ then $(a \prec b) \prec b$ for by I I $\beta$ either $(a \prec b) \prec b$ or $(a \prec b)$ and by I I $\gamma$ if $a \prec b$ and $a$ then $b$ when by I I $\alpha$ $(a \prec b) \prec b$.
+$\gamma.$ If $(a \prec b) \prec b$ then either $a$ or $b$. For by I I $\gamma$ [del]either[/del] [ins]if[/ins] $a \prec b$ then $b$ and by I I $\beta$ either $a$ or $a \prec b$.
+
+[u]Rule[/u] $(a \prec b) \prec b = (b \prec a) \prec a$ If a consequent is also the consequent of its antecedent, then this and the antecedent of that consequent are in equiparance.
+This is a case of the general rule that if [del]$(a \prec b) \prec c$ then $(c \prec d) \prec d$[/del] $p \prec q$ then $(q \prec r) \prec r = p \prec (q \prec r) \prec r$
+
+[u]C.[/u] $(a \prec a) \prec b = b$
+$\alpha.$ If $b$ then $(a \prec a) \prec b$ by I I $\alpha$
+$\beta.$ If $(a \prec a) \prec b$ then by I I $\gamma$. The general principle is that if $x$ is ordinary then $(x \prec b) = b$

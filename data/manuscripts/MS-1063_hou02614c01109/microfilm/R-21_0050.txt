@@ -1,0 +1,22 @@
+To determine [del]this[/del]
+This is a purely geometrical
+problem. Denote CX by $x$
+and XZ by $z$. Then we have
+by the figure
+XZ sec PXZ = PX = CX [del]tan[/del] [ins]cotan[/ins] PCX
+or
+$z \sec \psi = x \operatorname{cotan} \varphi$
+or
+$\operatorname{cotan} \varphi = \frac{[del]x[/del]}{[del]z \sec \psi[/del]} \frac{z \sec \psi}{x}$
+Differentiate, letting $x$ [ins]$\&$ $z$ vary while[/ins]
+$\psi$ remain
+constant, and we have
+$-\frac{1}{(\sin \varphi)^{2}} \delta \varphi = \frac{\sec \psi}{x} \delta z$
+We may now replace $x$ by the
+given quantity $\lambda$ by means of
+the equation
+$\lambda \sin \varphi = x$
+
+Now to find the effect upon
+$\varphi$ of a vertical [del]occultation[/del]
+we must

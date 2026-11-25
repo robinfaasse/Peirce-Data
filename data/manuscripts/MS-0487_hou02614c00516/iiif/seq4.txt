@@ -1,0 +1,13 @@
+Since A can be transformed into B, by Rule II, AC can be transformed into BC.
+Hence, by Rule XI, AC can be transformed into [del]BC[/del] [fig]BC[/fig].
+Hence, by Rule III, [fig]BC[/fig] can be transformed into [fig]AC[/fig].
+Hence, by Rule II, [fig]BC[/fig]D can be transformed into [fig]AC[/fig]D.
+Hence, by Rule XI, [fig]BC[/fig]D can be transformed into [fig]AC[/fig]D.
+Hence, by Rule III, [fig]AC[/fig]D can be transformed into [fig]BC[/fig]D.
+And so on. Q.E.D.
+
+Rule XIII. If any [del]trans[/del] [ins]illative[/ins] transformation is permissible irrespective of the [del]ad[/del] enclosures within which it is made, then the reverse transformation is [del]equally[/del] permissible within any [del]odd enclosures or any even enclosures greater than 0.[/del]
+[del]Proof. For if A[/del]
+[del]Rule[/del] Proof. Suppose A can be illatively transformed into B. Then I am to prove that B can be transformed into A within any enclosures greater than 0.
+By Rule XII, B can be transformed into A within any odd enclosures.
+And since [fig]A[/fig] can be illatively transformed into [fig]B[/fig], by Rule XII [fig]B[/fig] can be illatively transformed into [fig]A[/fig] in any odd enclosures, which is as much as to say that B can be transformed into A in any even enclosures greater than zero. Q.E.D.

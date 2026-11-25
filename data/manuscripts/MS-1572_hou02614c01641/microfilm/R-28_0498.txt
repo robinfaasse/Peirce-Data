@@ -1,0 +1,31 @@
+$$\varphi = \Phi_{0} + \Phi_{1} t + \text{etc} \dots \Phi_{n} t^{n}$$
+$$r = R_{0} + R_{1} t + \text{etc} \dots R_{n} t^{n}$$
+$$D_{t} \varphi = \Phi_{1} + 2 \Phi_{2} t + \text{etc} \dots (n+1) \Phi_{n+1} t^{n}$$
+$$D_{t}^{2} \varphi = 2 \Phi_{2} + 6 \Phi_{3} t + \text{etc} \dots (n+1)(n+2) \Phi_{n+2} t^{n}$$
+
+$$r D_{t}^{2} \varphi = -g \varphi$$
+$$D_{t}^{2} r = r (D_{t} \varphi)^{2} - \frac{1}{2} g \varphi^{2} - e r + E$$
+
+$$r D_{t}^{2} \varphi = 2 \Phi_{2} R_{0} + (6 \Phi_{3} R_{0} + 2 \Phi_{2} R_{1}) t + (12 \Phi_{4} R_{0} + 6 \Phi_{3} R_{1} + 2 \Phi_{2} R_{2}) t^{2} \quad t^{n} \sum_{i}^{n} (i+1)(i+2) \Phi_{i+2} R_{n+2-i}$$
+
+$$(D_{t} \varphi)^{2} = \Phi_{1}^{2} + (4 \Phi_{1} \Phi_{2}) t + (6 \Phi_{1} \Phi_{3} + 4 \Phi_{2}^{2}) t^{2} \quad t^{n} \sum_{i}^{n} (i+1)(n-i+1) \Phi_{i+1} \Phi_{n-i+1}$$
+
+$$r (D_{t} \varphi)^{2} = \Phi_{1}^{2} R_{0} + (\Phi_{1}^{2} R_{1} + 4 \Phi_{1} \Phi_{2} R_{0}) t + (\Phi_{1}^{2} R_{2} + 4 \Phi_{1} \Phi_{2} R_{1} + 6 \Phi_{1} \Phi_{3} R_{0} + 4 \Phi_{2}^{2} R_{0}) t^{2}$$
+$$\quad t^{n} \sum_{j}^{n} R_{j} \left\{ \sum_{i}^{n-j} (i+1)(n-j-i+1) \Phi_{i+1} \Phi_{n-j-i+1} \right\}$$
+
+$$\varphi^{2} = \Phi_{0}^{2} + 2 \Phi_{0} \Phi_{1} t + (2 \Phi_{0} \Phi_{2} + \Phi_{1}^{2}) t^{2} \quad t^{n} \sum_{i}^{n} \Phi_{i} \Phi_{n-i}$$
+
+$$\underline{2 \Phi_{2} R_{0} = -g \Phi_{0}}$$
+$$2 R_{2} = \Phi_{1}^{2} R_{0} - \frac{1}{2} g \Phi_{0}^{2} - e R_{0} + E$$
+$$\Phi_{2} = -\frac{g}{2} \frac{\Phi_{0}}{R_{0}}$$
+$$\underline{R_{2} = \frac{1}{2} \Phi_{1}^{2} R_{0} - \frac{g}{4} \Phi_{0}^{2} - \frac{e}{2} R_{0} + \frac{E}{2}}$$
+
+$$6 \Phi_{3} R_{0} + 2 \Phi_{2} R_{1} = -g \Phi_{1} \quad 6 \Phi_{3} R_{0} - g \Phi_{0} \frac{R_{1}}{R_{0}} = -g \Phi_{1}$$
+$$6 R_{3} = \Phi_{1}^{2} R_{1} + 4 \Phi_{1} \Phi_{2} R_{0} - g \Phi_{0} \Phi_{1} - e R_{1} \quad 6 R_{3} = \Phi_{1}^{2} R_{1} - 2 g \Phi_{0} \Phi_{1} + e R_{1}$$
+$$\Phi_{3} = \frac{g}{6} \frac{\Phi_{0}}{R_{0}} \frac{R_{1}}{R_{0}} - \frac{g}{6} \frac{\Phi_{1}}{R_{0}}$$
+$$\underline{R_{3} = \frac{\Phi_{1}^{2} R_{1}}{6} + \frac{e R_{1}}{6} - \frac{1}{3} g \Phi_{0} \Phi_{1}}$$
+
+$$12 \Phi_{4} R_{0} + 6 \Phi_{3} R_{1} + 2 \Phi_{2} R_{2} = -g \Phi_{2} \quad 12 \Phi_{4} R_{0} + g \Phi_{0} \frac{R_{1}^{2}}{R_{0}^{2}} - g \Phi_{1} \frac{R_{1}}{R_{0}} - \frac{g}{2} \Phi_{0} \frac{R_{2}}{R_{0}} + \frac{g^{2}}{4} \frac{\Phi_{0}^{2}}{R_{0}} + \frac{g^{2}}{2} \frac{\Phi_{0}^{2}}{R_{0}} = + \frac{g^{2}}{2} \frac{\Phi_{0}^{2}}{R_{0}}$$
+$$12 R_{4} = \Phi_{1}^{2} R_{2} + 4 \Phi_{1} \Phi_{2} R_{1} + 6 \Phi_{1} \Phi_{3} R_{0} + 4 \Phi_{2}^{2} R_{0} - g \Phi_{0} \Phi_{2} - \frac{1}{2} g \Phi_{1}^{2} - e R_{2}$$
+$$12 R_{4} = \frac{1}{2} \Phi_{1}^{4} R_{0} - \frac{g}{4} \Phi_{1}^{2} \Phi_{0}^{2} - \frac{e}{2} R_{0} \Phi_{1}^{2} + \frac{E}{2} \Phi_{1}^{2} - 2 g \Phi_{0} \Phi_{1} \frac{R_{1}}{R_{0}} + g \Phi_{0} \Phi_{1} \frac{R_{1}}{R_{0}} - g \frac{\Phi_{1}^{2}}{R_{0}} + \frac{g^{2}}{4} \frac{\Phi_{0}^{2}}{R_{0}}$$
+$$\quad + g^{2} \frac{\Phi_{0}^{2}}{R_{0}} - \frac{1}{2} g \Phi_{1}^{2} - \frac{e}{2} \Phi_{1}^{2} R_{0} + \frac{e g}{4} \Phi_{0}^{2} + \frac{e^{2}}{2} R_{0} - \frac{e E}{2}$$

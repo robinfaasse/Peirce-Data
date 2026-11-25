@@ -1,0 +1,48 @@
+[u]Minsin's Bridge 1873 Feb 12 Quinquagesima Sunday[/u]
+[u]St. Eulalie[/u]
+
+$\Theta_{-P} = + \frac{1}{6} \frac{u}{B} P^{3} + C_{2} P^{2} - C_{1} P + C_{0}$
+$= + \frac{1}{6} \frac{u}{B} P^{3} + E_{2} P^{2} - E_{1} P + E_{0}$
+
+$\Delta^{3} \Theta_{-P-2} [ins]+ \frac{1}{2} \frac{u}{B} (ds)^{3} - \frac{1}{2} \frac{Y_{P}}{B} (ds)^{2}[/ins] = 0$
+
+$(\Theta_{-P+1} - \Theta_{-P}) - 2 \Theta_{-P} + 3 \Theta_{-P-1} - \Theta_{-P-2}$
+$- \frac{1}{2} \frac{u}{B} P^{2} ds + \frac{1}{2} \frac{u}{B} P (ds)^{2} - \frac{1}{6} \frac{u}{B} (ds)^{3}$
+$- 2 E_{2} P (ds) + E_{2} (ds)^{2}$
+$+ E_{1} (ds)$
+
+[del][fig]scribble[/fig][/del]
+$+ \frac{3}{2} \frac{u}{B} P^{2} ds + \frac{3}{2} \frac{u}{B} P (ds)^{2} + \frac{1}{2} \frac{u}{B} (ds)^{3}$
+$- \frac{2}{3} \frac{u}{B} P^{2} ds - 2 \frac{u}{B} P (ds)^{2} - \frac{4}{3} \frac{u}{B} (ds)^{3}$
+[del]$+ 2 C_{2} P^{2}$[/del] $+ \frac{1}{2} \frac{u}{B} (ds)^{3} - \frac{1}{2} \frac{Y_{P}}{B} (ds)^{2}$
+$+ 6 C_{2} P ds + 3 C_{2} (ds)^{2}$
+$- 4 C_{2} P ds - 4 C_{2} (ds)^{2}$
+$- 3 C_{1} ds$
+$+ 2 C_{1} ds$
+
+$= [del][fig]scribble[/fig][/del]
+$- 2 E_{2} P$
+$+ 2 C_{2} P$
+$- \frac{1}{2} \frac{u}{B} (ds)^{2} - \frac{1}{2} \frac{Y_{P}}{B} (ds)$
+$+ E_{2} ds$
+$+ E_{1}$
+$- C_{2} ds$
+$- C_{1} = 0$
+
+[marginalia]
+[fig]horizontal line with points labeled -P-2, -P-1, -P, -P+1[/fig]
+[del]$+ P^{3}$[/del] $- 3 P^{2} ds + 3 P ds^{2} - ds^{3}$
+$\frac{1}{2}$ $\frac{1}{2}$ $\frac{1}{6}$
+[u]$P^{2} - 2 P ds + (ds)^{2}$[/u]
+$- P + ds$
+
+$\begin{array}{cccc}1 & +3 & +3 & +1 \\ 3 & 9 & 9 & 3 \\ \frac{1}{2} & \frac{3}{2} & \frac{3}{2} & \frac{1}{2}\end{array}$
+
+$\begin{array}{cccc}1 & 3 & 3 & 1 \\ 1 & 6 & 12 & 8 \\ \frac{1}{6} & -1 & -2 & -\frac{4}{3}\end{array}$
+
+$= 0$
+
+$\begin{array}{cc}+3 & -1 \\ +3 & -8\end{array}$
+
+$\begin{array}{cc}+9 & -1 \\ & -8 \\ & -3\end{array}$
+[/marginalia]

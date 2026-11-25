@@ -1,0 +1,26 @@
+[marginalia]
+[pn]1910 Jan 20[/pn]
+PM 6:30
+DEFINITION
+1st draught
+[pn]29[/pn]
+[/marginalia]
+
+Every formulation of either one necessarily formulates the other: they are one
+and the same. We may say that (4) is its formula; but more
+accurately it is
+[del](4)[/del] (5) [del]\begin{array}{c} (L \prec M) \\ \therefore L \prec N \end{array}[/del] [ins]\begin{array}{c} (L \prec M) \quad (M \prec N) \\ \therefore L \prec N \end{array}[/ins]
+
+[fig]solid black circle[/fig] Remembering [del]that[/del] the equivalence of [del]\therefore[/del] and [del]\prec[/del], we may write this
+thus:
+[del](5)[/del] (6) { [del]\begin{array}{c} M \prec N \\ \therefore (L \prec M) \prec (L \prec N) \end{array}[/del]
+or just as well, (7) [del]{[/del] [ins]:[/ins] [del]\begin{array}{c} L \prec M \\ \therefore (M \prec N) \prec (L \prec N) \end{array}[/del]
+
+I call this last the [u]Formula of Contraposition[/u], the appropriateness of which
+designation may be illustrated by a leash of examples, thus:
+
+Any man would be an animal;
+[del]\therefore[/del] If any animal would be mortal, then any man would be mortal.
+
+[del]Christ's feeding thousands with a few loaves and fishes would be a miracle;[/del]
+[del]\therefore If any miracle would be fabulous, then Christ's feeding a host with a dozen loaves and fishes would be fabulous.[/del]

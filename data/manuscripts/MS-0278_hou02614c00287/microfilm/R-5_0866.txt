@@ -1,0 +1,46 @@
+[fig]Geometric diagram with intersecting lines and curves[/fig]
+
+[del]x² + (y - R)² = R²[/del]
+[del]x² = 2Ry - y²[/del]      [del]x = \sqrt{(2R-y)y}[/del]
+[del]16 = 2R - 4[/del]
+[del]16 = \frac{80}{5} = \frac{2R}{64} \cdot y[/del]  [del]y : y = x : \rho[/del]
+[del]\rho = \frac{y \sqrt{2R-y} y}{2R-y} = y \sqrt{\frac{y}{2R-y}}[/del]
+[del]\rho^2 = \frac{y^3}{2R-y}[/del]
+[del]\rho^2 (2R-y) = y^3[/del]
+[del]\rho^2 (2R-y) = x^2 y[/del]
+[del]\rho^2 (2R-y)^2 = (2R-y) y^3[/del]
+[del]\rho^2 = \frac{y^3}{2R-y}[/del]
+
+[del]\frac{y}{3} = \rho[/del]
+
+| y | y³ | 2R-y | \frac{2R-y}{y} | x | 2R-y | \frac{2Rx}{2R-y} |
+|---|---|---|---|---|---|---|
+| 1 | 1 | 9 | 9 | 3 | 30 | 10/3 |
+| 2 | 8 | 8 | 4 | 4 | 40 | 5 |
+| 5 | 125 | 5 | 1 | 5 | 50 | 20 |
+| 8 | 512 | 2 | 1/4 | 4 | 40 | 20 |
+| 9 | 729 | 1 | 1/9 | 3 | 30 | 30 |
+
+\frac{2R-y}{y} = \frac{2R}{\rho}
+\rho = \frac{2Rx}{2R-y} = \frac{2R \sqrt{(2R-y)y}}{2R-y} = 2R \sqrt{\frac{y}{2R-y}} =
+
+\log \rho = \log (2R) + \frac{1}{2} \log y - \frac{1}{2} \log (2R-y)
+
+\frac{\rho}{r} = \frac{d\rho}{\sqrt{(dz)^2 + (dr)^2}}
+
+(\frac{r}{R})^2 + (\frac{z}{Z})^2 = 1
+(\frac{r}{R})^2 + (\frac{z+dz}{Z})^2 = 1
+(\frac{r}{R})^2 + (\frac{z}{Z})^2 = \frac{2z}{Z}
+
+\frac{r dr}{R^2} + \frac{z dz}{Z^2} =
+
+\frac{r}{R} = \sqrt{\frac{2z}{Z} - (\frac{z}{Z})^2} = \frac{z}{Z} \sqrt{\frac{2Z}{z} - 1}
+
+\frac{dr}{dz} = R (1 - \frac{z}{Z})
+dr = R (1 - \frac{z}{Z}) dz
+\frac{dr}{R} = \frac{dz}{Z}
+\frac{dr}{R} = \frac{dz}{Z}
+
+\frac{dr}{R} + \frac{dz}{Z} =
+
+\frac{dr}{R} = (1 - \frac{z}{Z}) \frac{dz}{Z}

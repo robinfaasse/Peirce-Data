@@ -1,0 +1,27 @@
+§ The Common Catenary. Let
+$$Fs = ks$$
+where $k$ is constant. Then
+$$\tan \tau = \frac{ks}{Q}$$
+is the "intrinsic" equation of the curve. To transform to rectangular co-
+ordinates,
+$$\sec^2 \tau \cdot d\tau = \frac{k}{Q} ds$$
+and remembering $k$ is constant the integrals expressing $x'$ and
+$y'$ can be resolved. Namely, attending to the [del]limits[/del] lower limit,
+$$\frac{kx'}{Q} = \frac{k}{Q} \int \cos \tau \cdot ds = \int \sec \tau \cdot d\tau = \log \tan (45^\circ + \frac{\tau}{2})$$
+$$\frac{ky'}{Q} = \frac{k}{Q} \int \sin \tau \cdot ds = \int \sin \tau \cdot \sec^2 \tau \cdot d\tau = \sec \tau - 1.$$
+
+Using the notation of Gudermannians,
+$$\tan \tau = \sinh \frac{kx'}{Q} = \sqrt{(\frac{ky'}{Q}+1)^2 - 1} = \frac{ks'}{Q}$$
+$$\sec \tau = \cosh \frac{kx'}{Q} = \frac{ky'}{Q} + 1 = \sqrt{1 + (\frac{ks'}{Q})^2} = \frac{k\rho}{Q}$$
+$$\sec^2 \tau = \cosh^2 \frac{kx'}{Q} = (\frac{ky'}{Q} + 1)^2 = 1 + (\frac{ks'}{Q})^2 = \frac{k\rho}{Q}$$
+$$\tan \frac{\tau}{2} = \tanh \frac{kx'}{2Q} = \frac{y'}{s'}$$
+
+Finally,
+$$\frac{k\xi'}{Q} = \frac{kx'}{Q} - \frac{y'}{s'}$$
+$$\frac{k\eta'}{Q} = \frac{1}{2} (\frac{y'}{s'} + \frac{ky'}{Q} - 1).$$
+
+If the computer has a good table of Gudermannians he is properly
+equipped. If he has Legendre's Fonctions Elliptiques, he will find [u]Vol II[/u] p. 256 a
+table of $\log \tan (45^\circ + \frac{\varphi}{2})$. Hülsee's Sammlung [ins]1st Ed.[/ins] p. 468, has the best table
+of $e^x$ with its Briggsian logarithm that I know. Hoüel's [u]Recueil de[/u]
+[u]formules et de tables numériques[/u] has a good 4-place table of Guder-

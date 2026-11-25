@@ -1,0 +1,32 @@
+FL [right] 80 [/right]
+
+The following are the most important general formulae. There is a
+sort of balance of non-relative and relative formulae; [del]provided[/del] [ins] But it will be [/ins] noted
+that the negative converse of a compound reverses the order of factors and
+that in place of [del]thin so[/del] [ins] a repeated u [/ins] non-relative formulae, $\tilde{\tilde{u}}$ is substituted in the rela-
+tive formulae. In short, the balance is imperfect. From the formulae here given all
+others can be deduced. $\Pi_u, \Pi_v, \Pi_w$
+
+if $u \prec v$, $u \cdot w \prec v \cdot w$ and $w \cdot u \prec w \cdot v$ [right] if $u \prec v$, $uw \prec vw$ and $wu \prec wv$ [/right]
+if $u \prec v$, $u + w \prec v + w$ and $w + u \prec w + v$ [right] if $u \prec v$, $u \dagger w \prec v \dagger w$ and $w \dagger u \prec w \dagger v$ [/right]
+if $u \prec v$ [right] $\overline{v} \prec \overline{u}$ [/right] [right] if $u \prec v$ [right] $\tilde{v} \prec \tilde{u}$ [/right] [/right]
+
+$u \cdot (v \cdot w) = (u \cdot v) \cdot w$ [right] $u (v w) = (u v) w$ [/right]
+$u + (v + w) = (u + v) + w$ [right] $u \dagger (v \dagger w) = (u \dagger v) \dagger w$ [/right]
+$(u + v) \cdot w \prec u + v \cdot w$ $w \cdot (u + v) \prec w \cdot u + v$ [right] $(u \dagger v) w \prec u \dagger vw$ $w (u \dagger v) \prec w u \dagger v$ [/right]
+$(u \cdot v) w \prec u w \cdot v w$ [right] $w (u \cdot v) \prec w u \cdot w v$ [/right]
+$(u \dagger w) + (v \dagger w) \prec (u + v) \dagger w$ [right] $(w \dagger u) + (w \dagger v) \prec w \dagger (u + v)$ [/right]
+
+$(u + v) \cdot w = u \cdot w + v \cdot w$ $w \cdot (u + v) = w \cdot u + v \cdot w$ [right] $(u + v) w = u w + v w$ $w (u + v) = w u + w v$ [/right]
+$u \cdot v + w = (u + w) \cdot (v + w)$ $w + u \cdot v = (w + u) \cdot (w + v)$ [right] $u v \dagger w = (u \dagger w) \cdot (v \dagger w)$ $w \dagger u v = (w \dagger u) \cdot (w \dagger v)$ [/right]
+
+$\overline{\overline{u}} = u$ [right] $\tilde{\tilde{u}} = \tilde{\tilde{u}}$ [/right] [right] $\tilde{\breve{u}} = u$ [/right]
+
+$\overline{u \cdot v} = \overline{u} + \overline{v}$ $\overline{u + v} = \overline{u} + \overline{v}$ [right] $\tilde{uv} = \tilde{v} \dagger \tilde{u}$ $\tilde{u \dagger v} = \tilde{v} \tilde{u}$ [/right]
+$\overline{u \cdot v} = \overline{v} + \overline{u}$ $\overline{u + v} = \overline{v} + \overline{u}$ [right] $\breve{uv} = \breve{u} \dagger \breve{v}$ $\breve{u \dagger v} = \breve{u} \breve{v}$ [/right]
+$u \cdot U = U \cdot u = u$ $u + 0 = 0 + u = u$ [right] $u 1 = 1 u = u$ $u \dagger T = T \dagger u = u$ [/right]
+$u \cdot \overline{u} \prec 0$ $U \prec u + \overline{u}$ [right] $u \tilde{\tilde{u}} \prec T$ $1 \prec u \dagger \tilde{u}$ [/right]
+$u \cdot v \prec 1$ $(v \cdot u) 1$ [right] $T \dagger (u + v) \prec v + u$ [/right] [ins] $\dagger T$ [/ins] [right] $u v \prec U \tilde{\tilde{v}} \tilde{\tilde{u}}$ $0 \dagger u \dagger u \dagger 0 \prec \tilde{\tilde{v}} \dagger \tilde{\tilde{u}}$ [/right]
+$u \cdot 1 \prec u \cdot \tilde{\tilde{u}} \cdot 1$ $u + \tilde{\tilde{u}} + T \prec u + T$ [right] $u U \prec u \tilde{\tilde{u}} U$ $u \dagger \tilde{\tilde{u}} \dagger 0 \prec u \dagger 0$ [/right]
+
+$U$ means "coexistent with", $0$ "incompatible with", $1$ "identical with T 'not'."

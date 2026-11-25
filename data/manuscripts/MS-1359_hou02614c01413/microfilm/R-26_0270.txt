@@ -1,0 +1,31 @@
+Equating to zero the differential coefficient of the whole energy
+relative to $\eta_N$, we have
+$$0 = \mathcal{B} D_n^2 \eta_N + \Omega \eta_N + 2 D_n \eta_N + K \bar{\xi}_R'' \left[ - \frac{R-N}{r} - \left(\frac{R+N}{r}\right)^2 \frac{\eta_N}{R-N} + \eta_N \right]$$
+Equating to zero the differential coefficient relative to $\eta_{N-s}$ we have
+$$0 = \mathcal{B} (-D_n^2 \eta_N - D_n^2 \eta_{N-s}) - 2 D_n \eta_N + K \bar{\xi}_R'' r^{-1}$$
+But the formulae for the part between $s$ and $N$ involve and apply
+to $\eta_N$ and $\eta_{N-s}$; and therefore by substituting in the two equations
+just obtained the values these formulae give for $\eta_N, D_n \eta_N, D_n^2 \eta_N, D_n^3 \eta_N$,
+we get two more [del]equal[/del] equations for determining the constants
+of integration. We shall have two others at $-N$, and in that way all
+the constants will be determined.
+
+The rougher approximation should be used in the first computation.
+In that case, the equations for determining the constants will be
+extremely simple. Their values having been obtained and substituted
+in $\int \eta dn$, the following expression for $\bar{\xi}_R''$
+$$\bar{\xi}_R'' = - \frac{N}{r} (\eta_N - \eta_{-N}) + \frac{1}{2r} \int_{-N}^{+N} \eta dn + \frac{R+N}{r} (\eta_N + \eta_{-N})$$
+will give a numerical algebraic equation for determining $\bar{\xi}_R''$, which
+is then to be used in the sufficient approximation. This latter likewise
+furnishes a numerical algebraic equation for determining [del]$\bar{\xi}_R''$[/del]
+but it is extremely complicated. In case $\frac{K}{\mathcal{B} p^2} \frac{N^5}{5!} < 1$, which I believe
+would be the case, the expressions for $\eta$ obtained with the
+approximate value of $\bar{\xi}_R''$ [del]would[/del], when substituted in the
+equation for $\bar{\xi}_R''$ (p. 51 of this MS.), give an improved value of
+this quantity. But in any case, the best method of procedure
+would be, $\bar{\xi}_R''$ having been approximately determined by the
+rougher method, to calculate [del]$\int \eta dn$[/del] [ins]$\eta_N$ and $\eta_{-N}$[/ins] with this value
+and with $\frac{9}{10}$ and $\frac{11}{10}$ of it. Then plotting the resulting values
+of $\bar{\xi}_R''$ as ordinates, the assumed values being taken [ins]as[/ins]
+abscissas, and graphically drawing a curve through the
+[del]three[/del] points, the point where this curve cuts the line for which

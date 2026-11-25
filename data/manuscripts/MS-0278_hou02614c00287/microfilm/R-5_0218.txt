@@ -1,0 +1,88 @@
+$$E_p = q + r \quad E_q = p + r \quad E_r = (c-1)(p+q) + (c-2)r$$
+$$2E_r = 2(c-1)(p+q) + (c-2)2r$$
+& $\quad E(p+q) = (p+q) + 2r$
+$$E^2(p+q) = E(p+q) + 2E_r$$
+$$2E_r = E^2(p+q) - E(p+q)$$
+$$(c-2)2r = (c-2)E(p+q) - (c-2)(p+q)$$
+$$E^2(p+q) - E(p+q) = [2(c-1) - (c-2)](p+q) + (c-2)E(p+q)$$
+$$E^2(p+q) - (c-1)E(p+q) = c(p+q)$$
+
+$$c^2 - c^2 + c = c$$
+$$+1 + c - 1 = c$$
+
+$$(p+q)_l = A c^l + B (-1)^l$$
+
+[marginalia]
+[fig]Figure 8[/fig]
+For even $l$
+$2p-1 = (p+q)$
+For odd $l$
+$2p+1 = p+q$
+[/marginalia]
+
+If $l=0 \quad p=1 \quad q=0 \quad (p+q)_0 = 1$
+If $l=1 \quad p=0 \quad q=1 \quad (p+q)_1 = 1$
+
+$$(p+q)_0 = A + B = 1$$
+$$(p+q)_1 = Ac - B = 1$$
+
+$$A(c+1) = 2 \quad A = \frac{2}{c+1}$$
+$$B(c+1) = c-1 \quad B = \frac{c-1}{c+1}$$
+
+[marginalia]
+For even $l$
+$(p+q)_p + 1 = Ac^l + B(-1)^l$
+$$p = \frac{A}{2}c^l + \frac{B+1}{2}(-1)^l$$
+For odd $l$
+$(p+q)_p - 1 = Ac^l - B(-1)^l$
+$$p = \frac{A}{2}c^l - \frac{B+1}{2} = \frac{A}{2}c^l + \frac{B+1}{2}(-1)^l$$
+[/marginalia]
+
+$$B+1 = \frac{2c}{c+1} \quad \frac{B+1}{2} = \frac{c}{c+1}$$
+$$B-1 = \frac{-2}{c+1}$$
+
+[marginalia]
+[fig]Three vertical lines with circles[/fig]
+$p_2 = c \quad q_2 = c-1$
+[/marginalia]
+
+$$(p+q)_l = \frac{(2c^l + (c-1)(-1)^l}{c+1}$$
+
+$$p = \frac{c^l + c(-1)^l}{c+1}$$
+$$q = \frac{c^l - (-1)^l}{c+1}$$
+
+[marginalia]
+$l \quad 2c^l \quad (c-1)(-1)^l \quad \text{Num}$
+$0 \quad 2 \quad +c-1 \quad = c+1$
+$1 \quad 2c \quad -c+1 \quad = c+1$
+$2 \quad 2c^2 \quad +c-1 \quad (2c-1)(c+1)$
+$3 \quad 2c^3 \quad -c+1 \quad (2c^2-2c+1)(c+1)$
+$4 \quad 2c^4 \quad +c-1$
+[/marginalia]
+
+$$r = \frac{c.c^l - c(-1)^l - c^l + (-1)^l}{c+1} = \frac{(c-1)c^l - (c-1)(-1)^l}{c+1}$$
+$$= \frac{c c^l + (-1)^l - c^l - c(-1)^l}{c+1}$$
+
+[marginalia]
+$c+1 \overline{) 2c^2+c-1 (} 2c-1$
+$\underline{2c^2+2c}$
+$\quad -c-1$
+
+$c+1 \overline{) 2c^3-c+1 (} 2c^2-2c+1$
+$\underline{2c^3+2c^2}$
+$\quad -2c^2-c+1$
+$\quad \underline{-2c^2-2c}$
+$\quad \quad c+1$
+
+$c+1 \overline{) 2c^4+c-1 (} 2c^3+2c^2-2c$
+$\underline{2c^4-2c^3}$
+$\quad 2c^3+2c-1$
+$\quad \underline{2c^3+2c^2}$
+$\quad \quad -2c^2+2c-1$
+$\quad \quad \underline{-2c^2-2c}$
+[/marginalia]
+
+$$c^2 - c = -\frac{1}{2}$$
+$$+\frac{1}{4} = -\frac{1}{4}$$
+$$(c - \frac{1}{2})^2 = (\frac{1}{2}i)^2$$
+$$c = \frac{1}{2} \pm \frac{1}{2}i$$

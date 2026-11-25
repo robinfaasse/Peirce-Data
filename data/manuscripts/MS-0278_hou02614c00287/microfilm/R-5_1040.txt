@@ -1,0 +1,23 @@
+How would a body move under a force acting inversely as the distance from a fixed centre?
+
+[fig]Line segment with a perpendicular tick mark[/fig]
+
+[del]p - q = 1/r[/del]
+[del]1/q - 1/p = (p-q)/pq = 1/r (1/p - 1/q)[/del]
+
+[fig]Geometric diagram with triangles and a curved arc[/fig]
+
+[fig]Geometric diagram showing points A, B, C, O with vectors R1, R2, R3[/fig]
+
+[del]C = 2B - A[/del] [ins]k [u]UB[/u]/TB[/ins]
+
+R₃ [u]e[/u]^(i θ₃) = 2 R₂ [u]e[/u]^(i θ₂) - R₁ [u]e[/u]^(i θ₁)
+
+R₃ (cos θ₃ + sin θ₃ . i) = 2 R₂ (cos θ₂ + sin θ₂ . i) - R₁ (cos θ₁ + sin θ₁ . i)
+- k/R₂ (cos θ₂ + sin θ₂ i)
+
+R₃ cos θ₃ = (2 R₂ - k/R₂) cos θ₂ - R₁ cos θ₁
+
+R₃ sin θ₃ = (2 R₂ - k/R₂) sin θ₂ - R₁ sin θ₁
+
+R₃² = (2 R₂ - k/R₂)² + R₁² - 2 R₁ (2 R₂ - k/R₂) cos (θ₂ - θ₁)

@@ -1,0 +1,75 @@
+[pn]2[/pn]
+
+[marginalia]
+Logical Graphs
+[/marginalia]
+
+Now it is easily proved by the logic of relatives, [ins]to say that a relation implies[/ins] that [del]every[/del] [ins]any[/ins] relation $r$ is subject to these two rules, [del]is[/del] neither more nor less than that there is some relation $l$ such that, whatever [del]objects[/del] [ins]indiv[/ins] the $X_i, Y_j, U_k$ and $V_h$ may be,
+
+[fig]Euler-like diagram with triangle and circles[/fig]
+Some $S$ is not $M$
+[del]Every[/del] [ins]Any[/ins] $P$ is $M$
+$\therefore$ Some $S$ is not $P$
+
+[fig]Euler-like diagram with triangle and circles[/fig]
+Something neither $S$ nor $M$
+All $P$ is $M$
+$\therefore$ Something neither $S$ nor $P$
+
+[fig]Euler-like diagram with triangle and circles[/fig]
+Some $S$ is $M$
+No $P$ is $M$
+$\therefore$ Some $S$ is not $P$
+
+[fig]Euler-like diagram with triangle and circles[/fig]
+Some $M$ is not $S$
+No $P$ is $M$
+$\therefore$ Something neither $S$ nor $P$
+
+[fig]Euler-like diagram with triangle and circles[/fig]
+Some $S$ is not $M$
+[del]Everything either $P$ or $M$[/del]
+$\therefore$ Some $S$ is $P$
+
+[fig]Euler-like diagram with triangle and circles[/fig]
+Some neither $S$ nor $M$
+[del]Everything either $P$ or $M$[/del]
+$\therefore$ Some $P$ is not $S$
+
+[fig]Euler-like diagram with triangle and circles[/fig]
+Some $S$ is $M$
+Every $M$ is $P$
+$\therefore$ Some $S$ is $P$
+
+[fig]Euler-like diagram with triangle and circles[/fig]
+Some [del]M is not[/del] [ins]neither $S$ nor $M$[/ins]
+[del]Every $M$ is $P$[/del] [ins]Everything either $P$ or $M$[/ins]
+$\therefore$ Some [del]P is not S[/del] [ins]$P$ is not $S$[/ins]
+
+[fig]Venn-like diagram with three circles[/fig]
+[del]Spenserian[/del]
+
+[fig]Venn-like diagram with three circles[/fig]
+Some $M$ is not $P$
+Some $S$ is not $M$
+Some $S$ is not some $P$
+
+[fig]Venn-like diagram with three circles[/fig]
+Some $M$ is not $P$
+Some $S$ is not $M$
+Some $S$ is not some $P$
+
+[fig]Venn-like diagram with three circles[/fig]
+[del]Something neither $P$ nor $M$[/del]
+[del]Something neither $S$ nor $M$[/del]
+$\therefore$ Some [del]not[/del]
+
+[fig]Venn-like diagram with three circles[/fig]
+Something [del]neither $P$ nor $M$[/del]
+Some $M$ is not $S$
+$\therefore$ Some not $S$ is not some [del]not[/del] $P$
+
+[fig]Venn-like diagram with three circles[/fig]
+Some [del]M is[/del] $P$
+Some [del]S is[/del] $M$
+Some [del]S[/del] [ins]$P$[/ins] is not some [del]P[/del] [ins]$S$[/ins]

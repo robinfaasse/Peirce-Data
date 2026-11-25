@@ -1,0 +1,21 @@
+[marginalia]
+[u]Logic[/u]
+III
+34
+[/marginalia]
+
+[u]Problem. To eliminate a letter from a graph in the[/u] canonical form above given.
+
+[u]Solution[/u]. We will consider seven cases as follows:
+
+[u]First Case[/u]. The letter only occurs doubly enclosed. It can [del]only[/del] [ins]easily[/ins] be erased by Rules I and III.
+
+[u]Second Case[/u]. The letter only occurs singly enclosed. The only way is to erase each oval containing it, by Rule I.
+
+[u]Third Case[/u]. The letter only occurs unenclosed. It can only be erased.
+
+[u]Fourth Case[/u]. The letter occurs [del]both[/del] [ins]only[/ins] singly and doubly enclosed. The best way is to iterate each entire double enclosure as many times as there are occurrences of the letter under one enclosure, and then to iterate each of the latter inside the double enclosure, erasing them elsewhere. The letter may then everywhere be erased. Thus
+
+[fig]Logical graph formula with circled letters[/fig] will give [fig]Logical graph formula with circled letters[/fig]
+
+and [fig]Logical graph formula with circled letters[/fig] will give.

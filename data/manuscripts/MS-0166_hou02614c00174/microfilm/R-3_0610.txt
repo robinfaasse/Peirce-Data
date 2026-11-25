@@ -1,0 +1,11 @@
+[pn]75[/pn]
+
+[u]Art[/u] . [u]Definition[/u] . The [u]negative[/u] of a number is the number having the same modulus but the opposite sign.
+
+[u]Theorem[/u] . The remainder after [del]subtraction[/del] [ins]any[/ins] is equal to the sum of the minuend and the negative of the subtrahend.
+
+[u]Demonstration[/u]. The idea of subtraction is that the remainder is that quantity which added to the subtrahend gives the minuend. And the negative of a number is, by definition, the remainder after subtracting that number from zero. Hence, the negative of a number added to the number gives zero. Then, [del]for in[/del] any subtraction let M be the minuend S the subtrahend. Then, the sum of the minuend and the negative of the subtrahend is M + (-S). [del]Now[/del] This sum added to the subtrahend gives [M + (-S)] + S. But, by the associative principle,
+[M + (-S)] + S = M + [(-S) + S].
+But (-S) + S, being the sum of a number and is negative is zero, and [del]that[/del], by Axiom 8,
+M + 0 = M.
+Hence [M + (-S)] + S = M. That is, M + (-S) is the number which, added to the subtrahend, S, gives the minuend, M; that is, it is the remainder after subtracting S from M. Q.E.D.

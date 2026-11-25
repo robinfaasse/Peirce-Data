@@ -1,0 +1,25 @@
+The number of displacements is evidently $\infty^3$. Namely, there are $\infty^2$ positions of the unmoved points, and $\infty$ displacements for each. These [ins]$\infty$[/ins] are all producible by infinite repetitions of one infinitesimal displacement, and we may say that they form one path of displacement. [del]Every[/del] [ins]Each[/ins] path of displacement [del]returns[/del] [ins]may return[/ins] into itself. Let us write the equation of a displacement, thus:
+
+$$xx' - (\alpha + \gamma)x - (\beta - \gamma)x' + \alpha\beta = 0$$
+
+or putting $Fx$ for $x'$
+
+$$Fx = \frac{(\alpha + \gamma)x - \alpha\beta}{x - \beta + \gamma}.$$
+
+We have then
+
+$$F^{n-1}F^n - (\alpha + \gamma)F^{n-1} - (\beta - \gamma)F^n + \alpha\beta = 0.$$
+
+Substitute $F^n = \frac{\phi^{n+1}}{\phi^n} + \beta - \gamma$ and the equation becomes
+
+$$\left\{ E^2 - (\alpha - \beta + 2\gamma)E + (\alpha - \beta + \gamma)\gamma \right\} \phi^n = 0,$$
+
+the solution of which is
+
+$$\phi^n = [del]\text{C}[/del] C_1 (\alpha - \beta + \gamma)^n + C_2 \gamma^n$$
+
+unless $\alpha = \beta$, which exception, as leading back to a Euclidean system, may be overlooked. This makes
+
+$$F^n = \frac{[del]\text{A}[/del] C_1 (\alpha - \beta + \gamma)^{n+1} + C_2 \gamma^{n+1}}{C_1 (\alpha - \beta + \gamma)^n + C_2 \gamma^n} + \beta - \gamma.$$
+
+To find the ratio of the arbitrary constants we take $n = 0$ and so get

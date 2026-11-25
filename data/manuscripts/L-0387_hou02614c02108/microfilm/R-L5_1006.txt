@@ -1,0 +1,52 @@
+We now go on
+
+$[\bar{a} T \psi a]_{il} = \Sigma_{r} (\bar{a}_{ir} \cdot T_{rl} \psi a_{il})$
+$= \Sigma_{r} (\bar{a}_{ir} \cdot \bar{a}_{il} T_{rl} \psi a_{il})$
+
+Multiply this by the result of the first step.
+
+$\Sigma_{r} \Pi_{u} \Pi_{w} (\bar{a}_{ir} \cdot \bar{a}_{il} T_{rl} \psi a_{il}) (a_{iu} \psi a_{iw} \dagger I_{uw})$
+
+Identify $u$ with $r$ and $w$ with $l$, and we get
+
+$\Sigma_{r} (\bar{a}_{ir} \cdot \bar{a}_{il} T_{rl} \dagger a_{il}) (a_{ir} \psi a_{il} \dagger I_{rl}) \prec a_{il}$
+
+In the other algebra,
+
+$[(\bar{a} T \psi a) \circ \{ (a \mathcal{J} 1) \dagger a \} \mathcal{J} 0] \prec a$. Second Step.
+
+Multiply $a_{il}$ by the identical proposition
+
+$\Pi_{w} (T_{wl} \dagger I_{wl})$. We have
+
+$\Pi_{w} (T_{wl} \dagger I_{wl}) a_{il} \prec \Pi_{w} (T_{wl} \dagger I_{wl} a_{il})$
+$\prec \Pi_{w} (T_{wl} \dagger I_{wl} a_{iw})$
+$\prec \Pi_{w} (T_{wl} \dagger a_{iw})$
+
+In the other algebra
+
+$a \prec a \mathcal{J} T$ which is a regular formula.
+
+We have thus found
+
+$(a \mathcal{J} 1) \infty \circ (\bar{a} T \dagger a) \prec (a \mathcal{J} 1) \infty \circ (a \mathcal{J} T)$
+
+That is
+
+$\Sigma_{q} \Pi_{p} (a_{ip} \psi I_{pq}) \circ (a_{iq} \dagger T_{ql})$
+$= \Sigma_{q} \Pi_{p} (a_{ip} \dagger I_{pq} \cdot \bar{a}_{iq}) \circ (a_{iq} \dagger T_{ql})$
+
+$\prec \Sigma_{q} \Pi_{p} (a_{ip} \dagger I_{pq} \cdot T_{ql})$. This is the conclusion; and as I said
+it cannot very well be expressed in the other algebra.
+
+We will multiply this by $\infty T$
+
+$[\infty T]_{il} = \Sigma_{j} T_{jl}$
+
+It will be seen that $\Sigma_{q} \Pi_{p} (a_{ip} \dagger I_{pq} \cdot T_{ql})$ expressed in ordinary language
+is: I can select $q$ so that, whatever $p$ you take, you will either take my
+$q$ and it will not be $l$, or (even [del]owing[/del] [ins]owing[/ins] to their being no individual but $l$ in the
+universe, [del]I have been forced to take $l$ for my $q$[/del]) you will find your $p$ is loved
+by $i$. But when we multiply in $\Sigma_{j} T_{jl}$ which means that there is some-
+thing beside $l$ in the universe, I can always take my $q$ [ins]so that it shall not be $l$[/ins] [del]so[/del]
+and we have $\Sigma_{q} \Pi_{p} (a_{ip} \psi I_{pq}) \cdot T_{ql}$, which is $(a \mathcal{J} 1) T$.

@@ -1,0 +1,31 @@
+$$\Pi_i \Pi_j \Pi_k \Pi_u \Pi_w (i+j)_k \psi (u+j)_w \psi \cdot \overline{\sigma}_{ui} \psi \sigma_{wk}$$
+
+Inserting two aggregants
+
+$$\Pi_i \Pi_j \Pi_k \Pi_u \Pi_w (i+j)_k \psi (u+j)_w \psi \cdot \overline{p}_u \psi \overline{q}_w \psi \overline{\sigma}_{ui} \psi \sigma_{wk}$$
+
+This is the same as
+
+$$\Pi_i \Pi_j \Pi_k \Pi_u \Pi_w (i+j)_k \psi [(u+j)_w \psi \overline{\sigma}_{ui}] q_w \psi \overline{p}_u \psi \sigma_{wk}$$
+
+Diversifying $w$, by changing it partly to $t$
+
+$$\Pi_w \sum_t \Pi_i \Pi_j \Pi_k \Pi_u (i+j)_k \psi [(u+j)_t \psi \overline{\sigma}_{ui}] q_t \psi \overline{p}_u \psi \sigma_{wk}$$
+
+Now by [del]the[/del] [ins]an[/ins] associative principle and another transformation of a familiar kind,
+
+$$\Pi_w \sum_t \Pi_i \Pi_j \Pi_k \Pi_u (i+j)_k \psi [(u+j)_t \psi \overline{p}_u] q_t \psi \overline{\sigma}_{ui} \psi \sigma_{wk}$$
+
+Now diversifying $u$ by changing it partly to $x$
+
+$$\Pi_w \sum_t \Pi_u \sum_x \Pi_i \Pi_j \Pi_k (i+j)_k \psi [(x+j)_t \psi \overline{p}_u] q_t \psi \overline{\sigma}_{xi} \psi \sigma_{wk}$$
+
+and
+
+Take any two classes of integers the $q$s and the $p$s. Then, [del]for[/del] [ins]take[/ins] any three integers $i,j,k$ such that $i+j=k$
+
+Then any integer [del]p[/del] [del]or[/del] $w$ of the $q$ class will be at least as great as $k$
+
+unless there is an integer $t$ of the class $q$ which does not give with any [del]position[/del] [ins]integer $u$[/ins] of
+
+the class $p$, $(u+j)=t$ unless there is a number of the $p$ class which is less than $i$.

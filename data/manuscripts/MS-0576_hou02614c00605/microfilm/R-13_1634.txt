@@ -1,0 +1,23 @@
+and from therefore we have the syllogism
+$$x \subset_4 y$$
+$$y \subset_4 z$$
+$$\therefore x \subset_4 z$$
+Therefore [del]this[/del] in this case the fourth copula [ins]is[/ins] reducible to the first. Suppose next that $x \dagger_4 x$. Now the doctrine of the reduction of syllogisms gives the forms
+$$\begin{array}{c c}
+x \subset_4 y & x \dagger_4 y \\
+y \dagger_4 z & y \subset_4 z \\
+\hline
+\therefore z \dagger_4 x & \therefore z \dagger_4 x
+\end{array}$$
+We have then in general if $x \subset_4 y$ then $y \dagger_4 z$. Then [del]in this case all the quantities fall into three classes[/del] we have therefore the syllogism
+$$x \subset_4 y$$
+$$y \subset_4 z$$
+$$\therefore x \dagger_4 z$$
+which reduces this case to the third [del]case[/del]. The first and third copulas therefore are the only fundamental ones of single copula'd algebras. In the case of the third we have the forms
+$$\begin{array}{c c}
+x \subset_3 y & x \subset_3 z \\
+x \subset_3 z & y \subset_3 z \\
+\hline
+\therefore y \dagger_3 z & \therefore x \dagger_3 y
+\end{array}$$
+whence $x \dagger_3 x$. We have therefore [del]but one[/del] [ins]have no[/ins] case of $x \cap x$ and therefore there are [del]but[/del] three fundamental single copula'd algebras.

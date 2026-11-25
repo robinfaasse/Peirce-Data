@@ -1,0 +1,34 @@
+[marginalia]
+Rules
+Existential
+Graphs
+[/marginalia]
+
+[pn]9.[/pn]
+
+[u]Rule XX[/u]. The reverse operation can be performed —
+i.e. any part of a graph may be omitted, which
+occurs elsewhere with the same connections
+& not within any enclosures other than those
+within which lies the part that is to be omitted.
+
+[fig]Nested ovals containing words: Sins, Sins, laughs, sighs, Sings[/fig]
+The inner [u]sings[/u] can
+be omitted, but
+the outer [u]sings[/u] cannot.
+
+[u]Rule XXI[/u] (corollary from [u]XX[/u])
+A part of a graph evenly enclosed may be [ins]part[/ins]
+carried in into two ovals existing in the other[ins]^[/ins]
+
+E.g.
+[fig]Graph: man - (loves) - woman[/fig] = { There is a man who
+loves all women
+
+"man" can be [del]carried[/del] [ins]carried[/ins] into the two ovals, giving: —
+[fig]Graph: (man - loves) - woman[/fig] = { Every woman is
+loved by some man or other
+
+Proved by Rules [u]XX[/u] & [u]XI[/u].
+
+[fig]Graph: man - (loves - man) - woman[/fig]

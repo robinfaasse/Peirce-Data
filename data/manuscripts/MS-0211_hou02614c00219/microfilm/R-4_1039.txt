@@ -1,0 +1,57 @@
+$$1 = p \frac{E}{3} + q \frac{\varepsilon}{E}$$
+
+$$\frac{E}{3} - p \frac{E^2}{3^2} = q$$
+
+$$\frac{E^2}{3^2} - \frac{1}{p} \frac{E}{3} = - \frac{q}{p}$$
+
+$$\frac{E^2}{3^2} - \frac{1}{p} \frac{E}{3} + \frac{1}{4 p^2} = \frac{1-4pq}{4p^2}$$
+
+$$\frac{E}{3} = \frac{1}{2p} \pm \frac{\sqrt{1-4pq}}{2p}$$
+
+$$= \frac{1}{2p} \pm \frac{2p-1}{2p}$$
+
+$$= \left\{ \begin{array}{c} 1 \\ \text{or} \\ \frac{1-p}{p} \end{array} \right.$$
+
+$$\begin{aligned} 1-4pq &= 1-4p(1-p) \\ &= 1-4p+4p^2 \\ &= 2p-1 \end{aligned}$$
+
+$$\frac{E}{3} = C_1 + C_2 \left( \frac{1-p}{p} \right)^n$$
+
+$$\frac{x+n}{y-n} = C_1 + C_2 \left( \frac{1-p}{p} \right)^n$$
+
+$$\begin{array}{l} 1-3p+3p^2-2p^3 \\ 1-4p+6p^2-4p^3 \end{array} \left| \begin{array}{l} 1-4p+6p^2-4p^3 \\ \underline{+2p^2} \\ -p+4p^2-4p^3 \\ \underline{1-4p+4p^2} \\ 1-3p+2p^2 \\ \underline{-p+2p^2} \end{array} \right| \begin{array}{l} 1 \\ \end{array}$$
+
+$$\begin{array}{l} p-3p^2+2p^3 \\ 1-3p+2p^2 \end{array}$$
+
+$$\begin{array}{l} 1-2p \\ 1-2p \end{array} \left| \begin{array}{l} 1-3p+3p^2-2p^3 \\ \underline{-p+2p^2} \\ p^2-2p^3 \end{array} \right| \begin{array}{l} (1-p+p^2 \end{array}$$
+
+$$\text{Put } n=y \quad \frac{x+y}{0} = C_1 + C_2 \left( \frac{1-p}{p} \right)^y = 1$$
+
+$$\text{Put } n=-x \quad \frac{0}{x+y} = C_1 + C_2 \left( \frac{1-p}{p} \right)^{-x} = 0$$
+
+$$C_2 = \frac{1}{\left( \frac{1-p}{p} \right)^y - \left( \frac{1-p}{p} \right)^{-x}} = \frac{p^y (1-p)^x}{(1-p)^{x+y} - p^{x+y}}$$
+
+$$C_1 = \frac{p^{x+y}}{p^{x+y} - (1-p)^{x+y}}$$
+
+$$\frac{x}{y} = \frac{p^{x+y} - p^y (1-p)^x}{p^{x+y} - (1-p)^{x+y}} = \frac{p^x - (1-p)^x}{p^x - (1-p)^x \left( \frac{1-p}{p} \right)^y}$$
+
+$$\frac{x}{y} = \frac{[del]p + 1-3p+3p^2[/del]}{[del]p + 1+3p-3p^2+p^3[/del]} \frac{1-p}{p} = p$$
+
+$$\frac{1-p}{p} \left| \begin{array}{l} 1-4p+6p^2-4p^3 \\ \underline{+2p} \\ 1-2p+6p^2-4p^3 \end{array} \right| \begin{array}{l} (1-2p \end{array}$$
+
+$$\frac{1}{p} = \frac{1-\left( \frac{1-p}{p} \right)^{x+y}}{1-\left( \frac{1-p}{p} \right)^x} - 1 = \frac{\left( \frac{1-p}{p} \right)^x - \left( \frac{1-p}{p} \right)^{x+y}}{1-\left( \frac{1-p}{p} \right)^x}$$
+
+$$P = \frac{1-\left( \frac{1-p}{p} \right)^x}{1-\left( \frac{1-p}{p} \right)^{x+y}}$$
+
+$$\frac{P}{1-P} = \frac{\left( \frac{1-p}{p} \right)^x \left[ 1 - \left( \frac{1-p}{p} \right)^y \right]}{1-\pi^{-x}}$$
+
+$$\frac{P}{1-P} = \frac{\pi^x (1-\pi^y) [del](1-\pi^{-x-y})[/del]}{(\pi^x-1) \pi^y \pi^{x+y}}$$
+
+$$\frac{1-3p+3p^2}{2p^4-p+3p^2-3p^3}$$
+
+$$\frac{P}{1-P} = \frac{\pi^x [p^x - (1-p)^x]}{(1-p)^x [p^{x+y} - (1-p)^{x+y}]}$$
+
+$$[del]p[/del] -1+4p-6p^2+4p^3$$
+
+$$\frac{1-3p+3p^2-2p^3}{1-4p+6p^2-4p^3} p$$
+
+$$\frac{1-p+p^2}{1-2p+p^2} p$$

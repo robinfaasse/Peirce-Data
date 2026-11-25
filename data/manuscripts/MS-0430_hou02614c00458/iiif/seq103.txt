@@ -1,0 +1,24 @@
+Logic
+III
+54
+
+[u]prove[/u] that if [u]x[/u] [u]<[/u] [u]y[/u] then [u]x[/u] [u]=[/u] [u]x[/u][u]e[/u][u]y[/u]. Now [u]u[/u] [u]<[/u] [u]v[/u] means
+that [del]when[/del] [ins]if[/ins] [u]u[/u] is [del]written[/del] accepted as true, then [u]v[/u] is accepted
+as true. Consequently, whatever [u]u[/u] may be, [u]u[/u] [u]<[/u] [u]u[/u] is true.
+We have then [u]x[/u] [u]<[/u] [u]x[/u].
+Hence by, the first clause of the definition of composition,
+if [del][u]u[/u] [u]<[/u] [u]v[/u][/del] [ins][u]x[/u] [u]<[/u] [u]y[/u][/ins], it follows that [del][u]u[/u] [u]<[/u] [u]u[/u][u]e[/u][u]v[/u][/del] [u]x[/u] [u]<[/u] [u]x[/u][u]e[/u][u]y[/u]. It now
+only remains to prove that [u]x[/u][u]e[/u][u]y[/u] [u]<[/u] [u]x[/u]. Now we have just
+seen that [u]u[/u][u]<[/u][u]u[/u] is true whatever [u]u[/u] may be. Let [u]u[/u] be
+[u]x[/u][u]e[/u][u]y[/u]. Then we have [u]x[/u][u]e[/u][u]y[/u] [u]<[/u] [u]x[/u][u]e[/u][u]y[/u] and by the second
+clause of the definition of composition [u]x[/u][u]e[/u][u]y[/u] [u]<[/u] [u]x[/u]. Thus,
+Jevons’s argument falls to the ground.
+
+Along with the definition of [del][u]a[/u][u]e[/u][u]b[/u][/del] in terms of [u]<[/u] I gave,
+as a pendant, a definition of [u]a[/u][u]+[/u][u]b[/u], as follows
+(59) If [u]a[/u] [u]<[/u] [u]t[/u], then if [u]b[/u] [u]<[/u] [u]t[/u], [u]a[/u][u]+[/u][u]b[/u] [u]<[/u] [u]t[/u].
+(60) If [u]a[/u][u]+[/u][u]b[/u] [u]<[/u] [u]t[/u], [u]a[/u] [u]<[/u] [u]t[/u].
+(61) If [u]a[/u][u]+[/u][u]b[/u] [u]<[/u] [u]t[/u], [u]b[/u] [u]<[/u] [u]t[/u].
+
+At the same time, I gave a definition of nega-
+tion. It is as follows:

@@ -1,0 +1,16 @@
+Repeat last [37]
+
+[fig]A B
+C D[/fig] $\frac{B+C}{D} = \frac{A+B}{C+D} + \frac{A+C}{B+D}$
+$(B+C)(B+D)(C+D) = (A+B)(B+D)D$
+$+ (A+C)(C+D)D$
+$B^{2}C + B^{2}D + BC^{2} + 2BCD + BD^{2} + C^{2}D + CD^{2}$
+$= ABD + 2AD^{2} + B^{2}D + BD^{2} + ACD + [del]AB^{2}[/del] [ins]C^{2}D[/ins] + CD^{2}$
+$BC(B + C + 2D) = AD([del]B2D +[/del] B + C)$
+$[del]BC(B+C) + 2BCD = AD(B+C) + 2A^{2}D[/del]$
+$[del](BC-AD)(B+C) = 2D(A^{2}-BC)[/del]$
+$[u](AD-BC)(B+C+2D)=0[/u]$
+$B^{2}C + B^{2}D + BC^{2} + 2BCD + BD^{2} + C^{2}D + CD^{2}$
+$= [del]ABD + 2AD^{2} + B^{2}D + BD^{2} + ACD + BC^{2} +[/del]$
+$ABD + 2AD^{2} + B^{2}D + BD^{2} + ACD + C^{2}D + CD^{2}$
+$[u]BC(B+C+2D) = AD(B+C+2D)[/u]$

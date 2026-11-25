@@ -1,0 +1,14 @@
+The most obvious [del]solution[/del] [ins]deduction from[/ins] of these equations is
+$$\mu(D_x^2+D_y^2)\chi + ip = f(x+iy).$$
+
+This shows that we can draw two sets of curves cutting one another orthogonally, [del]for[/del] [ins]on each of one set[/ins] [del]one constant[/del] [del]for[/del] $p$ being constant, and on each of the other $D_y u - D_x v$, or the "spin" of the fluid.
+
+But we can also differentiate the first equation by $D_x$ and the second by $D_y$ and add, and we thus get
+$$(D_x^2+D_y^2)p = 0,$$
+of which the solution is
+$$p = \phi_1(x+iy) + \phi_2(x-iy).$$
+But as this pressure is unknown, this is of no use.
+
+On the other hand, differentiating the first equation by $D_y$ and the second by $D_x$ and subtracting we get
+$$(D_x^2+D_y^2)^2\chi = 0.$$
+The solution of this is

@@ -1,0 +1,73 @@
+[u]REPORT[/u]
+[u]ON THE EFFECT OF A LIVE LOAD ON MR. MORISON'S HUDSON RIVER BRIDGE[/u]
+
+[fig]Three curved crescent-like shapes[/fig]
+
+[fig]Small diagram with x and y axes[/fig]
+
+[del]$\frac{dy}{dx}$[/del]
+
+$\rho = \frac{\text{D}_x^2 s}{\text{D}_x^2 y}$
+
+$\text{D}_x^2 y = \sec \tau \frac{d\tau}{dx}$
+
+$\rho = \sec \tau \frac{dx}{d\tau}$
+
+$\int dx \frac{1}{\rho} = \int d\tau$
+$= \sin \tau$
+
+$dx$
+
+$dx^2 + dy^2$
+
+$1 + \frac{dy^2}{dx^2} = \frac{ds^2}{dx^2}$
+
+$\text{Q} y = \int \omega dx$
+
+$\frac{dy}{dx} = \frac{\text{Q}}{\text{Q}_0}$
+
+[fig]Small sketch of a tree or branch[/fig]
+
+$\xi_{(H'H)} = \xi_{(H')} + \text{X}_N \frac{\omega_0'}{\text{Q}}$
+
+$\text{Q} =$
+
+$\omega_0' =$
+
+$\xi_{(H'N)} = \xi_{(H')} \frac{\text{X}_N}{\text{X}_N}$
+
+$\omega_0' \xi_{(H'N)} = \omega_0' \xi_{(H')} - \text{X}_N \text{X}_N' \omega_1' + \text{X}_N' \omega_0'$
+
+$\frac{\omega_0'}{\text{Q}}$
+
+$\frac{\omega_0'}{\text{Q}} \xi_{(H'N)} + \omega_1' (\text{X}_N' - \text{X}_N) \xi_{(H')} = - \omega_0' \left\{ \xi_{(H')} - \text{X}_N' \right\} \frac{\omega_0'}{\text{Q}} + \left\{ \right\} \frac{\omega_0'}{\text{Q}}$
+
+$dy$
+
+[fig]Diagram of a stepped bar or beam with dx and ds[/fig]
+
+$\frac{ds}{dx} = \sqrt{1 + \frac{\omega^2}{\text{Q}^2}}$
+
+$\frac{ds}{dx} = \frac{\sqrt{\text{Q}^2 + \omega^2}}{\text{Q}}$
+
+[fig]Sketch of a hand pointing left[/fig]
+
+$(\text{Q}^2 + \omega^2)$
+
+$\omega^2 = \text{Q}^2 \tan^2 \tau$
+
+$\text{Q}^2 + \omega^2 = \text{Q}^2 \sec^2 \tau$
+
+$\text{F}(\text{S}, \omega) = 0$
+
+$\text{X}_N$
+
+$f(x, y) = 0$
+
+$y_0$
+
+[fig]Semicircle or arch[/fig]
+
+$\left\{ \begin{array}{c} \text{S} \\ \omega \end{array} \right.$
+
+$\frac{\omega_m \text{S}_m + \omega_n \text{S}_n}{\text{S}_m + \text{S}_n}$

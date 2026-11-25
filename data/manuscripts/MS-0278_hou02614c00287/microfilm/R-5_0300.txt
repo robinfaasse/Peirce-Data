@@ -1,0 +1,28 @@
+It will be useful to introduce an abridgment for
+the important relation
+$$ab + \bar{a}\bar{b}$$
+and write
+$$a = b.$$
+
+We also have the important relation of identity
+$$I_{ij} = \Pi_{l} (l_{i} = l_{j});$$
+that is, $\Pi_{l} . l_{i}l_{j} + \bar{l}_{i}\bar{l}_{j}$. We can write this [u]$i = j$[/u].
+
+The denial of this is the assertion of the existence of a
+[del]character[/del]
+[del]relation[/del]
+$$\Sigma_{l} (l_{i} + l_{j})(\bar{l}_{i} + \bar{l}_{j}).$$
+
+Of a certain class $m$ we may assert
+$$\Pi_{i}\Pi_{j}\Pi_{l} \bar{m}_{i} + \bar{m}_{j} + l_{i}l_{j} + \bar{l}_{i}\bar{l}_{j}$$
+If this is true, we say that $m$ [del]does[/del] [ins]numbers[/ins] one, at most. This
+we can write $m \prec 1$. If it is not true or $m \not\prec 1$ or $m > 1$
+we assert the existence of a discriminating character
+$$(m \not\prec 1) = \Sigma_{i}\Sigma_{j}\Sigma_{l} m_{i}m_{j} (l_{i} + l_{j})(\bar{l}_{i} + \bar{l}_{j}).$$
+
+We can write $(l,m)_{i}$ for $l_{i}m_{i}$. Then,
+$$(m \not\prec 1) = \Sigma_{i}\Sigma_{j}\Sigma_{(l,m)} . (l,m)_{i} (l,m)_{j} m_{i} m_{j}$$
+
+Again, we may have
+$$\Pi_{i}\Pi_{j}\Pi_{l'} \overline{(l,m)}_{i} + \overline{(l,m)}_{j} + l'_{i}l'_{j} + \bar{l}'_{i}\bar{l}'_{j}$$
+and so on.

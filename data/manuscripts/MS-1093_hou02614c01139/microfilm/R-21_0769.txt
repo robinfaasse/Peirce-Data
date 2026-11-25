@@ -1,0 +1,21 @@
+[pn]6[/pn]
+
+Suppose we have two different methods of determining the same quantity. Each of these methods is supposed to have an accidental probable error and a constant probable error so that the probable errors as derived from [del]n[/del] observations [ins]in the two ways[/ins] are
+
+$$r_1 = \sqrt{R_1^2 + \frac{s_1}{n}}$$ and $$r_2 = \sqrt{R_2^2 + \frac{s_2}{n}}$$ .
+
+The probable error of their weighted mean is
+
+$$\frac{1}{\sqrt{\frac{1}{r_1^2} + \frac{1}{r_2^2}}}$$
+
+if their constant probable errors are known. The sole utility of any observation of either is to reduce the error of the weighted mean; hence,
+
+$$U_{r_1} = - D_{r_1} (r_1^{-2} + r_2^{-2})^{-\frac{1}{2}} = (r_1^{-2} + r_2^{-2})^{-\frac{3}{2}} r_1^{-3}$$ .
+
+And as the cost is proportional to the number of observations
+
+$$V_{s_1} = k_1 \frac{1}{D_{n_1} s_1} = \frac{k_1}{D_{n_1} (R_1^2 + s_1^2 n^{-1})^{-\frac{1}{2}}} = \frac{2 k_1 r_1^3 n_1^2}{s_1^2}$$ .
+
+Hence the urgency is (omitting a [del]term[/del] [ins]factor[/ins] common to the values for the two methods)
+
+$$r_1^2 \frac{U_{r_1}}{V_{s_1}} = \frac{1}{k_1 s_1^2 \left(1 + n_1 \frac{R_1^2}{s_1^2}\right)^2}$$

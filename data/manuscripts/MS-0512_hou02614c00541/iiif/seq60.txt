@@ -1,0 +1,31 @@
+FL [at right upper corner] 82
+
+The parallelism of formulae is considerable
+
+{"(u + v) + w = u + (v + w)"} {"(u ; v) ; w = u ; (v ; w)"}
+{"(u ⋅ v) ⋅ w = u ⋅ (v ⋅ w)"} {"(uv) w = u(vw)"}
+{"(u + v) ⋅ w < u + v ⋅ w"} {"(u ; v) w < u ; v w"}
+{"u(v ; w) < u v ; w"}
+
+{"u + 0 = u"} {"τ ; u = u ; τ = u"}
+{"u ⋅ [u]1[/u] = u"} {"1u = u1 = u"}
+
+
+{"[u]U[/u] < u + [u]u[/u]"} {"[u]I[/u] < u ; [u]u[/u]"}
+{"u ⋅ [u]u[/u] < 0"} {"u[u]u[/u] < 0"}
+{"[u]u + v[/u] = [u]u[/u] ⋅ [u]v[/u]"} {"[u]u ; v[/u] = [u]v[/u] ; [u]u[/u]"}
+
+If u < v, u + w < v + w If u < v, u ; w < v ; w w ; u < w ; v
+If u < v, u ⋅ w < v ⋅ w If u < v, uw < vw wu < wv
+
+Of course, there are many formulae in non-relative logic having no simple parallels in relative logic. The following formulae combine the two kinds of operations
+
+{"[u]u + v[/u] = [u]u[/u] ⋅ [u]v[/u]"} {"[u]u ; v[/u] = [u]u[/u] ; [u]v[/u]"}
+{"(u + v) w = uw + vw"} {"w(u + v) = wu + wv"}
+{"u ⋅ v ; w = (u ; w) ⋅ (v ; w)"} {"w ; u ⋅ v = (w ; u) ⋅ (w ; v)"}
+{"(u + v) ; w = ∑ [x] [u ; (w + x)] ⋅ [v ; (w + [u]x[/u])]"}
+{"(u ⋅ v) w = ∏ [x] [u(w ⋅ x)] + [v(w ⋅ [u]x[/u])]"}
+{"u0 = 0u = 0"}
+{"u ; 0 = [u]U[/u] ; u = [u]U[/u]"}
+
+There are vast multitudes of other formulae ; but the above are all that are necessary.

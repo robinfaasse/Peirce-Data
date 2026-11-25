@@ -1,0 +1,15 @@
+$$U = SF$$
+
+$$\frac{\partial U}{\partial x} = \frac{\partial S}{\partial x} F + S \frac{\partial X}{\partial x} \frac{\partial F}{\partial X} + S \frac{\partial Y}{\partial x} \frac{\partial F}{\partial Y} + [del]S \frac{\partial Z}{\partial x} \frac{\partial F}{\partial Z}[/del]$$
+
+$$\frac{\partial^{2} U}{\partial x^{2}} = \frac{\partial^{2} S}{\partial x^{2}} F + 2 \frac{\partial S}{\partial x} \frac{\partial X}{\partial x} \frac{\partial F}{\partial X} + 2 \frac{\partial S}{\partial x} \frac{\partial Y}{\partial x} \frac{\partial F}{\partial Y}$$
+
+$$+ S \frac{\partial^{2} X}{\partial x^{2}} \frac{\partial F}{\partial X} + [del]S \frac{\partial^{2} X}{\partial x \partial y} \frac{\partial F}{\partial X}[/del]$$
+
+$$[del]+ S \frac{\partial S}{\partial x} \frac{\partial X}{\partial x} \frac{\partial F}{\partial X}[/del] + S \frac{\partial^{2} Y}{\partial x^{2}} \frac{\partial F}{\partial Y}$$
+
+$$+ S \left(\frac{\partial X}{\partial x}\right)^{2} \frac{\partial^{2} F}{\partial X^{2}} + 2 S \frac{\partial X}{\partial x} \frac{\partial Y}{\partial x} \frac{\partial^{2} F}{\partial X \partial Y} + S \left(\frac{\partial Y}{\partial x}\right)^{2} \frac{\partial^{2} F}{\partial Y^{2}}$$
+
+$$[del]+ S \frac{\partial X}{\partial x} \frac{\partial Z}{\partial x} \frac{\partial^{2} F}{\partial X \partial Z}[/del] + 2 S \frac{\partial X}{\partial x} \frac{\partial Z}{\partial x} \frac{\partial^{2} F}{\partial X \partial Z}$$
+
+$$+ 2 S \frac{\partial Y}{\partial x} \frac{\partial Z}{\partial x} \frac{\partial^{2} F}{\partial Y \partial Z}$$

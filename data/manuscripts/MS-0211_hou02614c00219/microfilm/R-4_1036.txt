@@ -1,0 +1,157 @@
+[ins]betting one franc each time[/ins]
+If [del]P[/del] [ins]P[/ins] is the probability that a player will lose $y$ before he has gained $x$
+and $p$ is the probability he will lose a single [del]franc[/del] [ins]bet[/ins] [ins]at $2^{n-1}$[/ins]
+$$P = \frac{1 - (\frac{1-p}{p})^x}{1 - (\frac{1-p}{p})^{x+y}}$$
+
+$\begin{array}{rcc}
+N & & \\
+1 & 1 & \\
+2 & 3 & 1+2 \\
+3 & 7 & 1+2+4 \\
+4 & 15 & 1+2+4+8 \\
+5 & 31 & \\
+6 & & 
+\end{array}$
+
+If $\pi$ is the odds that he will gain a single bet
+and $\Pi$ is the odds that he will gain $x$ before he loses $y$
+
+$$\Pi = \pi^x \frac{1-\pi^y}{1-\pi^x}$$
+
+If $x=1$ $y=10$ $\Pi = \pi \frac{1-\pi^{10}}{1-\pi}$
+
+If his fortune [del]$y$[/del] is large [del]this is nearly[/del]
+(and the advantage of the bank considered)
+this is nearly $\frac{\pi}{1-\pi}$
+
+$\pi = \frac{30}{31}$
+
+$\log (1-\frac{1}{31}) = -\frac{1}{31}$
+
+[del]If he bets 10 fran[/del]
+If a [del]plunger[/del] [ins]player[/ins] has [del]two[/del] francs and bets 10 every time
+the [del]probability[/del] [ins]odds[/ins] he will gain 10 before he loses 100 is $\frac{30}{31} \frac{1 - (\frac{30}{31})^{10}}{1 - \frac{30}{31}} = \frac{[del]2.71[/del]}{[del]2.71[/del]} [ins]9:1[/ins]$
+
+If he bets 1 franc every time the [del]the odds[/del] odds are $(\frac{30}{31})^{10} \frac{1-(\frac{30}{31})^{100}}{1-(\frac{30}{31})^{10}} = 2:1$
+
+If a player has 100 francs and bets so every time
+the odds that he will gain 50 before he loses 100 are $(\frac{30}{31})^{50} \frac{1-(\frac{30}{31})^2}{1-\frac{30}{31}} = 30 \frac{5}{16} = 2:1$
+
+If his fortune $y = \infty$ [fig]sketch of a hand pointing[/fig] $\Pi = \pi \frac{1-\pi^\infty}{1-\pi} = \frac{\pi}{1-\pi}$
+[ins]If the bank has a percentage
+he may never gain one
+the odds he will are 30:1[/ins]
+
+$\begin{array}{l}
+(\frac{30}{31})^{100} = (1-\frac{1}{31})^{100} = 1 - \frac{100}{31} + \frac{4950}{961} - \\
+(\frac{30}{31})^{10} = (1-\frac{1}{31})^{10} = 1 - \frac{10}{31} + \frac{45}{961} - \frac{120}{29791} + \text{etc} \\
+(1-\frac{1}{31})^{10} = 1 - .32 + .45 \frac{2}{310} - \frac{696}{719} \text{ 0.72} \\
+\end{array}$
+
+$\begin{array}{l}
+.4771213 \\
+\underline{9.9542426} \\
+9.9030900 \\
+9.8573326
+\end{array}$
+
+$.04$
+
+$(1-i)^{10} = 1 - 10i + 45i^2 - 120i^3$
+$= 1 - \frac{10}{31} i$
+
+$\begin{array}{r}
+15 \\
+8 \\
+\hline
+120
+\end{array}$
+
+$\begin{array}{r}
+961 \\
+2883 \\
+\hline
+29791
+\end{array}$
+
+$\begin{array}{r}
+\frac{15}{961} \\
+\frac{5}{29791}
+\end{array}$
+
+$\begin{array}{r}
+\frac{9}{31} \\
+\frac{45}{961}
+\end{array}$
+
+$\begin{array}{r}
+30 \frac{1}{3} \\
+30 \frac{2}{3}
+\end{array}$
+
+$\begin{array}{r}
+\frac{2}{31} \\
+\frac{3}{31}
+\end{array}$
+
+$\begin{array}{r}
+3) \underline{310} \\
+103 \\
+207 \\
+\underline{31} \\
+9) \underline{961} \\
+9) \underline{107} \\
+21
+\end{array}$
+
+$\begin{array}{r}
+\frac{1}{30} \cdot \frac{24}{25} \\
+3
+\end{array}$
+
+$\begin{array}{r}
+6) \underline{961} (16 \\
+\frac{61}{351}
+\end{array}$
+
+$\begin{array}{r}
+\frac{61}{961}
+\end{array}$
+
+$\begin{array}{r}
+) \underline{900} \\
+961
+\end{array}$
+
+$\begin{array}{r}
+\frac{2}{3}
+\end{array}$
+
+$\begin{array}{r}
+.5069 \\
+\underline{.4931} \\
+-1.973
+\end{array}$
+
+$\begin{array}{r}
+5069 \\
+\hline
+\end{array}$
+
+$\begin{array}{r}
+49136 \\
+\underline{47712} \\
+01424 \\
+\underline{2848} \\
+29504 \\
+\underline{70496}
+\end{array}$
+
+$\begin{array}{r}
+0377 \\
+\underline{.9623} \\
+8.576 \\
+.70446 \\
+\underline{596} \\
+281
+\end{array}$

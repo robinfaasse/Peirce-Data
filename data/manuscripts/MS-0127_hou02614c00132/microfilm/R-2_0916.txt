@@ -1,0 +1,35 @@
+[pn]80[/pn]
+
+$$= \frac{y \cdot \overline{p-i} [A] + \overline{1-y} \cdot r [R] + y \cdot \overline{1-p+i} + \overline{1-y} \cdot \overline{1-r} [S]}{y \cdot \overline{p-i} [A] + \overline{1-y} \cdot r [R] + 1-r + y \cdot r - p+i [S]}.$$
+
+The point at which this intersects $\{x\}$ is obtained by putting the coefficients equal, that is
+
+$$1-x = y(p-i)$$
+
+$$[del]1-y[/del] = (1-y)r$$
+
+These give $y = \frac{[del]q-r[/del]}{(p-i)[del]q[/del]-r}$, $1-y = \frac{(p-i-1)[del]q[/del]}{(p-i)[del]q[/del]-r}$;
+
+and the intersection is
+
+$$[x\{02\}] = \frac{(p-i)(q-r)[A] + (p-i-1)[del]q[/del]r [R] + [(1-p+i)[del]q-1[/del]r][S]}{(p-i)q-r}.$$
+
+By simply [del]putting $i=0$[/del] [ins]omitting $i$ from[/ins] in this we get $[x\{01\}]$. Hence if we put $\{z\} = \{[x\{01\}]2\}$, we shall have
+
+[del]$\{z\} = \frac{[del]z(p-i)(q-r)[/del][A]}{}$[/del]
+
+$$\{z\} = \frac{z(p-i)(pq-r) + (1-z)p(q-r)[A] + (1-z)(p-1)qr[R] + z(1-p+i)(pq-r) + (1-z)(1-p)(q-1)r[S]}{pq-r}$$
+
+$$= \frac{p(q-r) + z[(p-1)[del]p[/del]q - i(pq-r)][A] + (p-1)qr - z(p-1)qr[R] + (p-1)(1-q)r + z[(p-1)q(r-p) + i(r-q)][S]}{pq-r}$$
+
+This ray cuts $\{RS\}$ in the point where
+
+$$p(q-r) + z \left[ (p-1)p[del]q[/del] - i(pq-r) \right] = 0$$
+
+or
+
+$$z = \frac{p(q-r)}{p(1-p)q + i(pq-r)}$$
+
+that is, in
+
+$$\frac{(1-p)(p-i)qr}{p(1-p)q + i(pq-r)} [R] + \frac{p(1-r)q(qp-r)(1-r) + i(pq-r)[pq-r + (1-p)qr]}{p(1-p)q + i(pq-r)} [S]$$

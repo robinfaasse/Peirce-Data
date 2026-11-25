@@ -1,0 +1,25 @@
+[pn]Logic
+III
+75[/pn]
+
+[pn](71)[/pn] [del]other[/del] [ins]and[/ins], generally, if $V$ is $S_{n}$ and is $S_{n} \prec S_{n+1}$, $V$ is $S_{n+1}$.
+So that if $V$ is $S_{0}$ and is $S_{0} \prec S_{1}$ and is $S_{1} \prec S_{2}$ [del]etc[/del], and so
+on indefinitely, then $V$ is $S_{1}$ and is $S_{2}$ and is $S_{3}$ and so on
+indefinitely.
+
+If $V$ is $S_{0}$ and is $S_{1}$ and is $S_{2}$ and so on up to $S_{\underline{n}}$ and is
+further $S_{0} \prec S_{1} \prec S_{2} \prec \dots \prec S_{\underline{n}}$, then $V$ is [del]$u_{n}$[/del] [ins]$u_{n}$[/ins].
+
+For, by (66), if $V$ is $S_{0}$ and $S_{0} \prec S_{1}$, then $V$ is $S_{1}$ [del]etc[/del],
+whence, by again by (66), if $V$ is also $S_{1}$ then $V$ is [del]$u_{2}$[/del] $j$ so that
+if $V$ is $S_{0}$ and $S_{1}$ and $S_{0} \prec S_{1} \prec S_{2}$ then $V \prec u_{2}$. [del]Thus[/del] Now
+$u_{i}$ may be any character. Let it, then, be $S_{2} \prec u_{2}$. Then, if $V$
+is $S_{0}$ and $S_{1}$ [del]it is[/del] [ins]and[/ins] $S_{0} \prec S_{1} \prec S_{2} \prec u_{2}$ it is $S_{2} \prec u_{2} \ j$ and if it is
+also $S_{2}$, again by (66), it is $u_{2}$. So that if $V$ is $S_{0}$ and $S_{1}$ and $S_{2}$
+and is $S_{0} \prec S_{1} \prec S_{2} \prec u_{2}$, then $V$ is $u_{2}$.
+
+And, generally, if it be true that if $V$ is $S_{0}, S_{1}, S_{2}$, etc up to $S_{\underline{m}}$
+inclusive and is $S_{0} \prec S_{1} \prec S_{2} \prec \dots \prec S_{\underline{m}} \prec u_{m}$ then it would be $u_{m}$,
+then it would also be true that if [ins]there[/ins] were $V$ at once $S_{0}, S_{1}, S_{2} \dots$
+$S_{\underline{m+1}}$ and were also $S_{0} \prec S_{1} \prec S_{2} \prec \dots \prec S_{\underline{m}} \prec S_{\underline{m+1}} \prec u_{m+1}$, then
+$V$ would be $u_{m+1}$. Since, therefore, any number [del]m[/del] can be

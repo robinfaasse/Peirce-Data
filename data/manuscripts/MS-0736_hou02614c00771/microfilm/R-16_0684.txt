@@ -1,0 +1,21 @@
+is that if we have $A \vdash B$ and $B \vdash C$, we are
+authorized to write $A \vdash C$.
+
+The principle of identity gives
+$$\overline{S} \vdash P \vdash \overline{S} \vdash P.$$
+
+From this, the principle of commutation of an-
+tecedents gives as a valid inference,
+$$\overline{S} \vdash P$$
+$$S$$
+$$\therefore P$$
+
+[del]the modus ponens, as a valid inference.[/del]
+By the modus ponens, we have
+[del]$S \vdash$[/del]
+$$\overline{S} \vdash \overline{S} \vdash M \vdash M$$
+and $\overline{M} \vdash \overline{M} \vdash P \vdash P$.
+
+Consequently, by the transitiveness of illation
+[del]or[/del] $\overline{S} \vdash \overline{S} \vdash M \vdash \overline{M} \vdash P \vdash P$
+or $\overline{S} \vdash M \vdash \overline{M} \vdash P \vdash S \vdash P$,

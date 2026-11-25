@@ -1,0 +1,30 @@
+[del]I[/del] taking together of the incunts of [del]all the[/del] [ins]the[/ins] [del]is not a collection,[/del]
+and although there is a conceivable quantity which is the limit
+of the above iterative functions, [u]it is not a multitude[/u].
+
+We reach the same result, if, instead of starting with the
+collection of integer numbers, we start with any collection
+whatever. Thus, if [del]$\frac{\text{AB}}{\text{CD}}$[/del] be used to denote the collection
+whose incunts are A and B and whose elcunts are C and D,
+we start with the null-collection of A, or $\overline{\text{A}}$. The collections
+are
+$$\frac{\overline{\text{A}}}{\text{A}\ \overline{\text{A}}}\qquad \frac{\overline{\text{A}}}{\text{A}}$$
+The collections of these [del]collections are[/del] together with $\overline{\text{A}}$ are
+$$\frac{\overline{\text{A}}}{\text{A}\ \overline{\text{A}}\ \frac{\overline{\text{A}}}{\text{A}\ \overline{\text{A}}}}\qquad \frac{\overline{\text{A}}}{\text{A}\ \frac{\overline{\text{A}}}{\text{A}\ \overline{\text{A}}}\ \frac{\overline{\text{A}}}{\text{A}}}\qquad \frac{\frac{\overline{\text{A}}}{\text{A}\ \overline{\text{A}}}}{\text{A}\ \overline{\text{A}}\ \frac{\overline{\text{A}}}{\text{A}}}\qquad \frac{\frac{\overline{\text{A}}}{\text{A}}}{\text{A}\ \overline{\text{A}}\ \frac{\overline{\text{A}}}{\text{A}\ \overline{\text{A}}}}$$
+$$\frac{\overline{\text{A}}\ \frac{\overline{\text{A}}}{\text{A}\ \overline{\text{A}}}}{\text{A}\ \frac{\overline{\text{A}}}{\text{A}}}\qquad \frac{\overline{\text{A}}\ \frac{\overline{\text{A}}}{\text{A}}}{\text{A}\ \frac{\overline{\text{A}}}{\text{A}\ \overline{\text{A}}}}\qquad \frac{\frac{\overline{\text{A}}}{\text{A}}}{\text{A}\ \text{A}\ \overline{\text{A}}}\qquad \frac{\overline{\text{A}}\ \frac{\overline{\text{A}}}{\text{A}\ \overline{\text{A}}}\ \frac{\overline{\text{A}}}{\text{A}}}{\text{A}}$$
+$$\text{A}\ \overline{\text{A}}$$
+
+The collections of all the collections so far number 2048. But, for
+some reason, which requires investigation, the limit of this proceeding,
+that is all the collections that could be so formed does not constitute a
+collection.
+
+Let us see how the above proof that every collection is [del]gre[/del] less than
+the collection of possible collections of its incunts would apply to
+all the collections that could be formed by the above process. If for
+$g$ we take the relation of identity, we see that none of the collections
+formed of all those collections would be identical with any of these
+collections, since its excunts would be different. If for $g$ we took
+"having the same incunts with", there is no collection so formed which
+has not the same incunts with other collections so former. But if for $g$
+we put "have the same incunts with that [del]collection[/del] [ins][del]of those of the same incunts[/del][/ins] [del]that[/del] [ins]which[/ins] has fewest excunts [del]of those so former and is"[/del]

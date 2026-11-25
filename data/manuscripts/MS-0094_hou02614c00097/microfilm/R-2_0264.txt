@@ -1,0 +1,33 @@
+[pn]256[/pn]
+
+$$\begin{aligned}
+3x + 4 &= 7 \\
+10x - 14 &= -4 \\
+5x - 6 &= -1
+\end{aligned}$$
+
+or
+
+$$\begin{aligned}
+3x &= 3 \\
+10x &= 10 \\
+5x &= 5
+\end{aligned}$$
+
+dividing by the multipliers of $x$, we get
+
+$$\begin{aligned}
+x &= 1, \\
+x &= 1, \\
+x &= 1.
+\end{aligned}$$
+
+The object of getting the values several times over is to make sure no mistakes have been committed. The student is recommended always to follow this systematic procedure. It will, in the end, be quicker than any short cuts, except occasionally.
+
+Now suppose we start with [ins]five[/ins] four points [del]$X, Y, Z, W$,[/del] [ins]the four[/ins] [del]not in one plane, no three in one ray, no two at one point. We also take a fifth point[/del] [ins]no three[/ins] We call four of them $X, Y, Z, W$, and the fifth $[X+Y+Z+W]$. We make a net-work, and so find an approximate designation for every point in space, as a syzygy of $X, Y, Z, W$. Take any four points so designated, [del]so[/del] [ins]for instance:[/ins]
+$$\begin{aligned}
+\text{"}[P] &= [X + 2Y + 3Z + 5W] \\
+-4 [Q] &= [17X - 19Y + 11Z - 13W] \\
+2 R &= [25X + 27Y - 29Z - 21W] \\
+S &= [33X - 35Y - 36Z + 39W]
+\end{aligned}$$

@@ -1,0 +1,38 @@
+[pn]4 Colors[/pn] [pn]8[/pn]
+
+In general, if [u]u[/u] and [u]v[/u] are any two regions confine to one
+another, the succession of regions confine to [u]u[/u] going round it
+[del]in a right-handed direct[/del] clockwise are
+
+1 [u]v[/u]
+2 [del]–[/del] [u]v[/u] [u]u[/u]
+3 [u]u[/u] [u]v[/u] [u]u[/u]
+4 [del]–[/del] [u]u[/u] [u]v[/u] [u]u[/u] [u]u[/u]
+5 [u]u[/u] [u]u[/u] [u]v[/u] [u]u[/u] [u]u[/u]
+6 [del]–[/del] [u]u[/u] [u]u[/u] [u]v[/u] [u]u[/u] [u]u[/u] [u]u[/u]
+7 [u]u[/u] [u]u[/u] [u]u[/u] [u]v[/u] [u]u[/u] [u]u[/u] [u]u[/u]
+8 [del]–[/del] [u]u[/u] [u]u[/u] [u]u[/u] [u]v[/u] [u]u[/u] [u]u[/u] [u]u[/u] [u]u[/u]
+9 [u]u[/u] [u]u[/u] [u]u[/u] [u]u[/u] [u]v[/u] [u]u[/u] [u]u[/u] [u]u[/u] [u]u[/u]
+etc.
+
+If [u]u[/u] [del]has[/del] is quinquilateral, we have
+[del]–[/del] [u]u[/u] [u]u[/u] [u]v[/u] [u]u[/u] [u]u[/u] = [u]v[/u] or [u]u[/u] [u]u[/u] [u]v[/u] [u]u[/u] [u]u[/u] [u]v[/u] = – 1,
+whilst the factors may be cyclically transposed, or where the reciprocal, [u]v[/u] [u]u[/u] [u]v[/u] [u]u[/u] [u]u[/u] = – 1, may be written.
+
+[del]If [u]u[/u] is septilateral, we have[/del]
+where in place of [u]v[/u] we may put any other region confine to [u]u[/u].
+Thus [del][u]u[/u] [u]u[/u] [u]v[/u] [u]u[/u] [u]u[/u][/del]
++ [u]u[/u] [u]u[/u] (– [u]v[/u] [u]u[/u]) [u]u[/u] [u]u[/u] [u]u[/u] (– [u]v[/u] [u]u[/u]) = + [u]u[/u] [u]u[/u] [u]v[/u] [u]u[/u] [u]u[/u] [u]v[/u] = – 1.
+[del]an obvious transformation of the first equation just found; for[/del]
+
+If [u]u[/u] is septilateral, we have
+[del][u]u[/u] [u]u[/u] [u]u[/u] [u]v[/u] [u]u[/u] [u]u[/u] [u]u[/u] = – 1[/del]
+[u]u[/u] [u]u[/u] [u]u[/u] [u]v[/u] [u]u[/u] [u]u[/u] [u]u[/u] [u]v[/u] = – 1,
+and so forth for any odd number of boundaries. [del]If is[/del]
+
+If [u]u[/u] is sexalateral, we have,
+[u]u[/u] [u]u[/u] [u]v[/u] [u]u[/u] [u]u[/u] = [u]v[/u] [del]or [u]u[/u] [u]u[/u] [u]u[/u][/del] [u]u[/u] [u]u[/u] [u]v[/u] = [u]v[/u] [u]u[/u] [u]u[/u], or [u]u[/u] [u]u[/u] [u]v[/u] [u]u[/u] [u]u[/u] [u]v[/u] = 1.
+Since this holds for [del]whatever[/del] [ins]any[/ins] region confine to [u]u[/u], [u]v[/u] maybe, we have also,
+[del][u]u[/u] [u]u[/u] (– [u]v[/u] [u]u[/u]) [u]u[/u] [u]u[/u] [u]u[/u] (– [u]v[/u] [u]u[/u]) =[/del]
+
+If [u]u[/u] is octilateral, we have, [u]u[/u] [u]u[/u] [u]u[/u] [u]v[/u] [u]u[/u] [u]u[/u] [u]u[/u] [u]v[/u] = 1, etc.

@@ -1,0 +1,25 @@
+$(x^2+y^2)(y+cz) + 2(1-c)xyz = 0$
+
+Put $cz=z \qquad \frac{1-c}{c} = a$
+
+$(x^2+y^2)(y+z) + 2axyz = 0$
+
+$u = 2xy [del]+ 2xz[/del] + 2ayz$
+$v = \qquad 2axz + 2yz + x^2 + 3y^2$
+$w = 2axy \qquad \qquad + x^2 + y^2$
+
+[del]u + v = 2(a+1)(x+y)z + (x+y)^2 + 2y^2[/del]
+
+$\pm \sqrt{w + (a^2-1)y^2} = x + ay \qquad x = -ay \pm \sqrt{w + (a^2-1)y^2}$
+
+$x^2 = [del]2a_1y^2[/del] \mp 2ay \sqrt{w + (a^2-1)y^2} + w$
+
+$x^2 + 3y^2 = 2(a^2+1)y^2 \mp 2ay \sqrt{w + (a^2-1)y^2} + w = v [del]+ 2axy - 2yz[/del]$
+
+$\qquad \qquad \qquad \qquad \qquad \qquad \qquad + 2[ins]a(a^2-1)[/ins]yz \mp 2az \sqrt{w + (a^2-1)y^2}$
+
+$\mp 2a(y-z)\sqrt{w+(a^2-1)y^2} = v - w - 2(a^2+1)y^2 + 2(a^2-1)yz$
+
+$4a^2(y-z)^2 w + 4a^2(y-z)^2(a^2-1)y^2 =$
+
+$(v-w)^2 - 4(a^2+1)(v-w)y^2 + 4(a^2-1)(v-w)yz$

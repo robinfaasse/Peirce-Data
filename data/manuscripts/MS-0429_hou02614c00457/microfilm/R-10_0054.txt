@@ -1,0 +1,17 @@
+[marginalia]
+Note
+p 46
+2
+[/marginalia] [pn]356[/pn] [u]2nd[/u], Suppose [u]v[/u] [u]O[/u] [u]v[/u] [del]=[/del] [ins][u]o[/u][/ins] [u]f[/u] and [u]f[/u] [u]O[/u] [u]f[/u] = [u]v[/u]. Then I will show that the operation is not associative. For on the one hand
+([u]v[/u] [u]O[/u] [u]v[/u]) [u]O[/u] [u]f[/u] [del]=[/del] [ins][u]o[/u][/ins] [u]f[/u] [u]O[/u] [u]f[/u] [del]=[/del] [ins][u]o[/u][/ins] [u]v[/u]
+while on the other hand, if whether [u]v[/u] [u]O[/u] [u]f[/u] = [u]v[/u], so that
+[u]v[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]f[/u]) [del]=[/del] [ins][u]o[/u][/ins] [u]v[/u] [u]O[/u] [u]v[/u] [del]=[/del] [ins][u]o[/u][/ins] [u]f[/u],
+or whether [u]v[/u] [u]O[/u] [u]f[/u] = [u]f[/u], so that
+[u]v[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]f[/u]) [del]=[/del] [ins][u]o[/u][/ins] [u]v[/u] [u]O[/u] [u]f[/u] [del]=[/del] [ins][u]o[/u][/ins] [u]f[/u],
+in either case, the associative [del]rule[/del] is broken.
+
+[u]3rd[/u], Suppose [u]v[/u] [u]O[/u] [u]v[/u] = [u]f[/u] [u]O[/u] [u]f[/u] and [u]v[/u] [u]O[/u] [u]f[/u] = [u]f[/u] [u]O[/u] [u]v[/u]. Then I will show that the operation is associative. For otherwise it would be possible to give such values to [u]p[/u], [u]q[/u], [u]r[/u], that
+[u]p[/u] [u]O[/u] ([u]q[/u] [u]O[/u] [u]r[/u]) [del]I[/del] ([u]p[/u] [u]O[/u] [u]q[/u]) [u]O[/u] [u]r[/u],
+that is, [del]either [u]p[/u] [u]O[/u] [u]q[/u] [u]O[/u] [u]r[/u] , or else while [u]p[/u] [u]O[/u] [u]q[/u] [u]O[/u] [u]r[/u] or else[/del] [u]p[/u] [del]I[/del] [ins][u]O[/u][/ins] [u]q[/u] [u]O[/u] [u]r[/u], [del]while [u]p[/u] [u]O[/u] [u]q[/u] [u]O[/u] [u]r[/u][/del]. But since [u]v[/u] [u]O[/u] [u]f[/u] = [u]f[/u] [u]O[/u] [u]v[/u], it follows that the second side of the inequality would be equal to
+[u]r[/u] [u]O[/u] ([u]q[/u] [u]O[/u] [u]p[/u])
+so that the inequality requires [u]p[/u] [del]D[/del] [ins][u]O[/u][/ins] [u]r[/u]. But then also [u]q[/u] [del]C[/del] [ins][u]O[/u][/ins] [u]p[/u] [del]D[/del] [ins][u]O[/u][/ins] [u]q[/u] [u]O[/u] [u]r[/u] and consequently, the two assumed equations are inconsistent.

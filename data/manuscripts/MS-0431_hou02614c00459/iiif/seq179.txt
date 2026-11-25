@@ -1,0 +1,27 @@
+Logic
+III
+75
+
+The operation of composition is [del]necessarily[/del] [u]commutative[/u], as the mathematicians say; that is
+[ins]necessarily[/ins]
+(28) If [u]x[/u]·[u]y[/u], then [u]y[/u]·[u]x[/u].
+
+For in (27), if we substitute [u]y[/u] for [u]x[/u] and [u]x[/u] for [u]y[/u], we get
+If [u]y[/u], then if [u]x[/u], necessarily [u]y[/u]·[u]x[/u];
+whence, by (26),
+If [u]x[/u]·[u]y[/u], then if [u]x[/u], necessarily [u]y[/u]·[u]x[/u];
+whence, by (25), we get (28).
+
+The operation of composition is [u]associative[/u], as the mathematicians phrase it; that is
+
+(29) If from [u]u[/u] would follow [u]x[/u]·[u]y[/u], if from [u]y[/u]·[u]z[/u] would follow [u]v[/u],
+[ins]then[/ins] [ins]necessarily[/ins]
+if from [u]u[/u]·[u]z[/u] would [del]necessarily[/del] follow [u]x[/u]·[u]v[/u];
+
+(30) If from [u]v[/u] would follow [u]y[/u]·[u]z[/u], if from [u]x[/u]·[u]y[/u] would follow [u]u[/u],
+then from [u]x[/u]·[u]v[/u] would necessarily follow [u]u[/u]·[u]z[/u].
+
+I first prove (29). In (25) substituting [u]u[/u] for [u]x[/u], and [u]z[/u] for [u]y[/u], we get,
+[ins]would[/ins]
+From [u]u[/u]·[u]z[/u] necessarily [del]follows[/del] [ins]follow[/ins] [u]u[/u].
+whence if [del]from [u]u[/u] would follow x·y, from [u]u[/u]·[u]z[/u][/del] we have,

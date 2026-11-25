@@ -1,0 +1,9 @@
+In general, it is plain that
+$$F_x = \sum_1^{x-1} F_i F_{x-i}.$$
+
+But we shall find it more convenient to take the sum in all cases from $i=1$ to $i=x-3$, and omit the indication of the limits. We shall then have
+$$F_{x-1} = 2 F_1 F_{x-2} + \sum F_i F_{x-i-1}$$
+$$F_x = 2 F_1 F_{x-1} + F_2 F_{x-2} + \sum F_i F_{x-i}$$
+$$[del]F_2 F_{x-2}[/del]$$
+$$= (4 F_1^2 + F_2) F_{x-2} + \sum F_i (F_{x-i} + 2 F_1 F_{x-i-1})$$
+$$F_{x+1} = 2 F_1 F_x + 2 F_2 F_{x-1} + \sum F_i F_{x-i+1}$$

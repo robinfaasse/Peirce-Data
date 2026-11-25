@@ -1,0 +1,27 @@
+Two corollaries from these rules require particular notice.
+If we have given a consequence with two antecedentals, as
+[u]P[/u] [u]Q[/u] R [del]true[/del],
+by Rule II, we can write
+Q [u]P[/u] [u]Q[/u] R [del]true[/del];
+And since by Rule I
+[u]Q[/u] Q true,
+we are get by Rule IV,
+[u]Q[/u] [u]P[/u] R true.
+That is, the order of sequence of [u]coördinate antecedentals[/u] is
+indifferent.
+
+Again, if we have
+[u]P[/u] Q [del]true[/del]
+and [u]Q[/u] R [del]true[/del],
+then by Rule 4 we have
+[del]Q[/del] [u]P[/u] R [del]true[/del].
+
+[del]By[/del] Rule IV makes the following form of inference
+valid
+[u]P[/u] Q true,
+[u]Q[/u] R true,
+[u]P[/u] R true.
+
+This is the canonical form of the syllogism Barbara.*
+
+[fig]Diagram showing logical formulas and derivations[/fig]

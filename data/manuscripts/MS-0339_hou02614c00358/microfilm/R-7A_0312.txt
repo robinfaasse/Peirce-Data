@@ -1,0 +1,25 @@
+[pn]1170[/pn]
+
+[u]XVII[/u]. Any evenly enclosed part of a graph may be erased, and anything may be inserted under odd enclosures.
+
+Proof. Let [del]a[/del] [ins]g[/ins] be any graph. Then by II [del]a[/del] [ins]g[/ins] is transformable into a blank. Thence, by [u]XVI[/u], it is so transformable anywhere within even enclosures while a blank place [del]within odd en[/del] oddly enclosed is transformable into [del]a[/del] [ins]g[/ins]. Q.E.D.
+
+[u]XVIII[/u]. Every [ins]possible[/ins] graph can be written either unenclosed or simply enclosed, in any connection.
+
+Proof. Let f be a graph which cannot be written unenclosed. Then I will show that it can be written enclosed.
+
+For upon that which cannot happen there is no falsity in [del]supposing[/del] [ins]assuming[/ins] that anything would ensue. Hence, it may be assumed that f [fig]circle with x inside[/fig] [fig]circle[/fig]
+
+Hence, by [u]XII[/u], a blank place is transformable into [fig]circle with f inside[/fig]
+
+But by II, we always have a right to a blank, so that [fig]circle with f inside[/fig] may be written alone QED
+
+[u]XIX[/u]. The same graph cannot be written at once enclosed and unenclosed with the same connections.
+
+Proof. By [u]XVIII[/u] there is a graph which can be written. Let t be such a graph. Then a blank place can be transformed into t. Hence, by [u]XVII[/u] t can be erased when oddly enclosed.
+
+Let a be any graph. Then by [u]XVIII[/u] either a or [fig]circle with a inside[/fig] can be written. [del]By II and[/del] either [fig]circle with a inside[/fig] or [fig]circle with circle with a inside inside[/fig] may be written. Hence by [u]XVII[/u] in either case [fig]circle with circle with a inside and a inside[/fig] may be written.
+
+Hence t [fig]circle with x inside[/fig] [fig]circle with circle with a inside and a inside[/fig]. Hence, by [u]XII[/u] [fig]circle with circle with a inside and a inside[/fig] [fig]circle with x inside[/fig] [fig]circle with t inside[/fig]
+
+But by XI some possible graph cannot be written. Let f be such a graph. Then by VII there is a graph g such that f [fig]circle with x inside[/fig] [fig]circle with g inside[/fig]. Then by XVIII [fig]circle with g inside[/fig] [del]and since as we have seen t may be written enclosed, and since[/del] [fig]circle with circle with g inside and g inside[/fig] or [fig]circle with g inside[/fig] [fig]circle with x inside[/fig] f. But f cannot be written. Hence [fig]circle with circle with g inside and g inside[/fig] cannot be written.

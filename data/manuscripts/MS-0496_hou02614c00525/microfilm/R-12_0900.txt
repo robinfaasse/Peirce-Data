@@ -1,0 +1,19 @@
+$$A(v-y)^2 = 0 \qquad \text{Either } A=0 \text{ or } y=v$$
+$$B(y-f)^2 = 0 \qquad \text{Either } B=0 \text{ or } y=f$$
+
+$$\sqrt{A}\cdot(v-y) = 0$$
+$$\sqrt{B}\cdot(y-f) = 0 \qquad \begin{aligned} v^2-2yv+y^2 &= 0 \\ \text{o or } (v-f)^2 \end{aligned}$$
+$$\sqrt{AB}(v-y) = 0$$
+$$\sqrt{AB}(y-f) = 0$$
+
+$$\sqrt{AB}(v-f) = 0$$
+$$AB(v-f)^2 = 0$$
+
+$$A[del]B[/del](v^2-2yv+y^2) = 0 \qquad AB(v^2-2yv+y^2) = 0$$
+$$B(y^2-2yf+f^2) = 0 \qquad AB(f^2-2yf+y^2) = 0$$
+
+$$Ay^2-2Avy = -Av^2 \qquad \begin{aligned} AB\{v^2-f^2-2(v-f)y\} &= 0 \\ AB\{v+f-2y\} &= 0 \end{aligned}$$
+$$Bf^2-2Bfy = -Bf^2$$
+[u]$$A^2y^2-2AvAy = -A^2v^2$$[/u]
+$$Ay-Av = 0$$
+$$y=[del]\pm[/del]$$

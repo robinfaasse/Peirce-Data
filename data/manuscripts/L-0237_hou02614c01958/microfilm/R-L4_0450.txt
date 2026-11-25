@@ -1,0 +1,15 @@
+[pn]- 9[/pn]
+
+$$\begin{array}{cccc}
+a < b & a \overline{<} b & a \overline{\vee} b & a \vee b \\
+\text{all } a \text{ is } b & \text{some but} & \text{no } a \text{ is } b & \text{all but} \\
+& a \text{ is } b & & a \text{ is } b \\
+a \overline{\nless} b & a < b & a \vee b & a \overline{\vee} b \\
+\text{not all} & \text{some besides} & \text{some } a \text{ is } b & \text{not all} \\
+a \text{ is } b & a \text{ is } b & & \text{but } a \text{ is } b
+\end{array}$$
+
+[u]$$\begin{array}{c}
+a < b = \bar{a} \overline{<} \bar{b} = a \overline{\vee} \bar{b} = \bar{a} \vee b \\
+a \overline{<} b = \bar{a} < \bar{b} = a \vee \bar{b} = \bar{a} \overline{\vee} b
+\end{array}$$[/u]

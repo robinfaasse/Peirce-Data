@@ -1,0 +1,52 @@
+[date]1899 March 1[/date] St. David [pn]1[/pn]
+
+$$u_{x+4} = \mathcal{L} u_{x+2} + \mathcal{M} x(x-1) u_x$$
+
+$$u_4 = \mathcal{L} u_2$$
+
+$$u_6 = \mathcal{L} u_4 + \mathcal{M} \overset{6.5}{(x(x-1))} u_2$$
+$$= (\mathcal{L}^2 + \mathcal{M} 6.5) u_2$$
+
+$$u_8 = \mathcal{L} u_6 + \mathcal{M} 8.7 \cdot u_4$$
+$$= [\mathcal{L}^3 + \mathcal{L} \mathcal{M} (6.5 + 8.7)] u_2$$
+
+$$u_{10} = \mathcal{L} u_8 + \mathcal{M} 10.9 \ u_6$$
+$$= [\mathcal{L}^4 + \mathcal{L}^2 \mathcal{M} (8.7 + 6.5 + 10.9) + 10.9 \cdot 6.5 \mathcal{M}^2] u_2$$
+
+$$u_{12} = \mathcal{L} u_{10} + \mathcal{M} 12.11 \ u_8$$
+$$= \left[ \mathcal{L}^5 + \mathcal{L}^3 \mathcal{M} (8.7 + 6.5 + 10.9 [ins]+ 12.11[/ins]) + \begin{array}{l} 10.9 \cdot 6.5 \mathcal{L} \mathcal{M}^2 \\ + 12.11 (6.5 + 8.7) \end{array} \right] u_2$$
+
+$$\tan(\varphi + \psi) = \frac{\tan \varphi + \tan \psi}{1 - \tan \varphi \tan \psi} = \tan \varphi + \tan \psi \sec^2 \varphi$$
+
+$$\tan \varphi = \frac{x}{p} \qquad \tan \psi = D_x \eta$$
+
+[marginalia]
+$$\begin{array}{l} (1+x)^{\frac{1}{2}} \\ \frac{1}{2} (1+x)^{-\frac{1}{2}} \\ -\frac{1}{4} (1+x)^{-\frac{3}{2}} \end{array}$$
+[/marginalia]
+
+[fig]Geometric diagram with triangles and angles[/fig]
+
+$$\psi - \frac{1}{2} \tan \varphi \psi^2 = \frac{d\eta}{s}$$
+
+[del]$$2 \psi \cot \varphi = 2 \frac{d\eta}{s}$$[/del]
+
+$$\psi^2 - 2 \cot \varphi \psi = -2 \frac{d\eta}{s} \cot \varphi$$
+$$+ \cot^2 \varphi \qquad + \cot^2 \varphi$$
+
+[del]$$\frac{d\eta}{dx} = S \sec \varphi_n \cos (\varphi_n + \psi)$$[/del]
+
+$$\psi = \cot \varphi \pm \sqrt{\cot^2 \varphi - 2 \frac{d\eta}{s} \cot \varphi}$$
+
+$$\psi = \cot \varphi [1 \pm \sqrt{1 - 2 \frac{d\eta}{s} \tan \varphi}$$
+
+$$\frac{d\eta + S \tan \varphi_{n+s} + S \sin \psi \tan \varphi}{= \tan \varphi_{n+s}}$$
+
+$$\frac{d\eta + S \sec \varphi_{n+s} \sin (\varphi_{n+s} + \psi_s) + S \frac{s}{s} = S \tan \varphi_{n+s}}{}$$
+
+$$d\eta = S \sec \varphi \sin(\varphi + \psi) - S \tan \varphi$$
+
+$$d\eta + S \tan \varphi = S \sec \varphi \sin(\varphi + \psi) = S \tan \varphi \cos \psi + S \sin \psi$$
+
+[del]$$\frac{d\eta}{dx} + \dots = \psi$$[/del]
+
+$$\psi = \frac{d\eta}{s} - \frac{1}{2} \left(\frac{d\eta}{s}\right)^2 \tan^2 \varphi$$

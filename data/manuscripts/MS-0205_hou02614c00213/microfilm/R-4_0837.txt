@@ -1,0 +1,31 @@
+[pn]RR[/pn] [pn]19[/pn]
+
+Hence, by the [u]2[ins]nd[/ins] corollary from Theorem III[/u], L+GN > G(M+N)
+But G(M+N) = M+GN by the same corollary.
+That is, if L+N > M+N then L+GN > M+GN.
+But if N = 0 L+N > M+N, since L+N = L and M+N = M and by
+hypothesis L > M. Hence, by the Fermatian Principle, it is true of all
+cardinal numbers.
+
+[u]Corollary 1.[/u] [del]If[/del] Whatever cardinal numbers L, M, and N may be
+if L > M, then N+L > N+M. [u]For by a corollary above N+L = L+N [ins]and[/ins] N+M = M+N[/u]
+
+[u]Corollary 2.[/u] Whatever cardinal numbers A, B, C, D may be, if
+A > C and B > D then A+B > C+D. [u]For A+B > C+B and C+B > C+D[/u]
+So that by the 2[ins]nd[/ins] condition of Definition 1 A+B > C+D.
+
+[u]Corollary 3.[/u] Whatever cardinal numbers L, M, and N may be, unless L = M
+L+N [del]is not[/del] [ins]or[/ins] N+L, is not M+N [del]or[/del] [ins]or[/ins] N+M.
+
+[u]Corollary 4. If L+N > M+N then L > M.[/u] [u]For if L+N > M+N, by the
+Corollary from Theorem IV, L+N is not M+N and therefore L is not M.[/u]
+Hence by Theorem V, either L > M or M > L. But if M were greater than L,
+by the [del]theorem[/del] [ins]present[/ins] theorem M+N would be greater than L+N. Hence, by Theorem IV,
+it would not be true that L+N > M+N, as the hypothesis requires. Hence it
+can only be that L > M.
+
+[u]Corollary 5. If A+B > C+D, either A or B is greater than C and than D
+or else either C or D is less than A and than B.[/u] [u]For if A = C and B = D
+or A = D and B = C, A+B would be C+D. [del]That is[/del] [ins]Hence[/ins] either A or B is neither C nor D
+[del]or[/del] [ins]and[/ins] either C or D is neither A nor B. If [ins]either A or B, say[/ins] A is neither C nor D, it is either less
+than both, or greater than one and less than the other, or greater than both.[/u]

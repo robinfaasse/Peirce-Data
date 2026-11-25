@@ -1,0 +1,26 @@
+[pn]12[/pn] Question 12. Given $x^{\frac{13}{3}} - x^{\frac{7}{3}} - 4y^3 + 2yx^{\frac{7}{3}} = 0$ to find the values of $x$ and $y$ when $x$ is a maximum.
+
+Solution. We get by differentiation.
+$\frac{13}{3} x^{\frac{10}{3}} dx - \frac{7}{3} x^{\frac{4}{3}} [del]dx[/del] - 12 y^2 dy + 2 x^{\frac{7}{3}} dy + \frac{14}{3} y x^{\frac{4}{3}} dx = 0$.
+$\frac{dx}{dy} = \frac{12 y^2 - 2 x^{\frac{7}{3}}}{\frac{13}{3} x^{\frac{10}{3}} - \frac{7}{3} x^{\frac{4}{3}} + \frac{14}{3} y x^{\frac{4}{3}}}$
+
+Equating $\frac{dx}{dy}$ to zero gives $12 y^2 - 2 x^{\frac{7}{3}} = 0$
+$y = \sqrt{1/6} \ x^{\frac{7}{6}}$
+
+Substituting this in the given equation we have.
+$x^{\frac{13}{3}} - x^{\frac{7}{3}} - \frac{4}{6} \sqrt{1/6} \ x^{\frac{21}{6}} + 2 \sqrt{1/6} \ x^{\frac{7}{6}} x^{\frac{7}{3}} = 0$
+or $x^{\frac{13}{3}} - x^{\frac{7}{3}} + \frac{4}{3} \sqrt{1/6} \ x^{\frac{7}{2}} = 0$
+
+Again, by differentiation and the preceding equations.
+$\frac{d^2 x}{dy^2} = \frac{(\frac{13}{3} x^{\frac{10}{3}} - \frac{7}{3} x^{\frac{4}{3}} + \frac{14}{3} y x^{\frac{4}{3}}) 24 y - (12 y^2 - 2 x^{\frac{7}{3}}) (\dots)}{(\frac{13}{3} x^{\frac{10}{3}} - \frac{7}{3} x^{\frac{4}{3}} + \frac{14}{3} y x^{\frac{4}{3}})^2}$
+$= \frac{24 y}{\frac{13}{3} x^{\frac{10}{3}} - \frac{7}{3} x^{\frac{4}{3}} + \frac{14}{3} y x^{\frac{4}{3}}}$
+$= \frac{24 y}{(\frac{13}{3} - \frac{14}{3}) x^{\frac{10}{3}} + (\frac{14}{3} - \frac{7}{3}) x^{\frac{4}{3}}} = \frac{144 y}{5 x^{\frac{10}{3}} + 19 x^{\frac{4}{3}}}$
+
+[pn]13[/pn] A cone of uniform density, having the point of suspension in the circumference of the base, had the plane of the base inclined to the plane of the horizon making with it an angle $q$. Required the solidity when the slant height is given.
+
+Solution. Let $2 \vartheta$ be the angle at the center of the cone. Then $a \sin \vartheta$ is the radius of its base and $a \sin \vartheta \cot q$ is [del]the[/del] [ins]the[/ins] altitude of the centre of gravity above the base or a fourth of the altitude. Since then $a \cos \vartheta$ is the altitude, we have
+$4 a \sin \vartheta \cot q = a \cos \vartheta$
+$\tan \vartheta = \frac{1}{4} \tan q$.
+
+$\vartheta$ being known, the solidity is determined by the formula
+solidity of cone $= .78539 \times [del]of[/del] \ a^3 \sin \vartheta \sin 2 \vartheta$.

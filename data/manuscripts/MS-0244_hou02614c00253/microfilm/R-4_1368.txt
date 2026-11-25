@@ -1,0 +1,100 @@
+```
+[marginalia]
+80
+40
+120
+
+140
+76
+216
+
+340
+660
+1000
+[/marginalia]
+
+[marginalia]
+[del]$\alpha > \beta$[/del] $\gamma > \delta$
+$\alpha - \beta = m$ $\gamma - \delta = n$
+[/marginalia]
+
+$\Delta_x (x \circ y) = (x+1) \circ (y-1)$
+$\Delta_y^n (x \circ y) = (x+n) \circ (y-n)$
+$(E_x - a)^{-1} (x \circ y) = \frac{x \circ y}{1-a} - \frac{(x+1) \circ (y-1)}{(1-a)^2} + \frac{(x+2) \circ (y-2)}{(1-a)^3}$
+
+$\frac{1}{1-a} = z$ $1 = x - ax$ $ax = x-1$ $a = \frac{x-1}{x}$
+$(E_x + \frac{1}{x-1})^{-1} (x \circ n) = (x-1)^n$
+
+$x = (x-1) \circ 1 = (x \circ 1) - (x \circ 0)$
+$x^2 = [del]\frac{x \circ 2}{2}[/del] + [del]\frac{(x-1) \circ 2}{2}[/del]$
+$[(x-1) \circ 2] + [(x-2) \circ 2]$
+
+$x^3 = [(x-1) \circ 3] + 4 [(x-2) \circ 3] + [(x-3) \circ 3]$
+$x^4 = [(x-1) \circ 4] + 11 [(x-2) \circ 4] + 11 [(x-3) \circ 4] + [(x-4) \circ 4]$
+$x^5 = [$
+
+[marginalia]
+$\frac{7}{49}$
+$343$
+$\frac{210}{133}$
+
+$\frac{7}{16}$
+$206 = 3^5 + 1$
+$405 = 5^3 + 1$
+$604 = 210$
+[/marginalia]
+
+[marginalia]
+$\frac{1}{16}$ $3 \cdot 5$ $\frac{15}{16}$
+$\frac{1}{256}$
+[/marginalia]
+
+[marginalia]
+$\frac{\alpha \circ \beta}{\gamma \circ \delta} = \frac{(x+\beta) (x+\beta-1) \dots \frac{\beta}{1}}{\frac{(m+2\beta) (m+2\beta-1) \dots \frac{(m+\beta+1)}{\beta}}{1}}$
+[/marginalia]
+
+$\frac{\delta}{n+\delta+1} \dots \frac{2}{(n+2\delta-1)} \frac{1}{(n+2\delta)}$
+
+$\beta = \delta + l$
+
+$\left\{ \frac{(m+2\delta+2l) (m+2\delta+2l-1) \dots \dots (m+\delta+l+1)}{(\delta+l) (\delta+l-1) \dots (\delta+1) (n+2\delta) (n+2\delta-1) \dots (n+\delta+1)} \right.$
+
+$n = m + l^2 + p$
+
+$\frac{2n-1}{1} \frac{2n-2}{2} \frac{2n-3}{3} \frac{2n-4}{4}$
+
+$\frac{2n-1}{1} \frac{n-1}{1} \frac{2n-3}{3} \frac{n-2}{2} \frac{2n-5}{5}$
+
+[del]$10x + 3y = 22$[/del]
+$13x + 4y = 29$
+$3x + y \neq 7$
+$9x + 3y = 21$
+
+$x = 1$
+$y = 4$
+
+$10x + 4y + z = 27$
+$20x + 10y + 4z = 64$
+$35x + 20y + 10z = 125$
+
+$40x + 16y + 4z = 108$
+$100x + 40y + 10z = 270$
+
+$z = 1$
+
+$20x + 6y = 44$
+$65x + 20y = 145$
+
+[marginalia]
+$x = \frac{1}{2}$
+[/marginalia]
+
+[marginalia]
+$35x + 15y + 5z + 1 = $
+$\frac{16}{11}$ $\frac{11}{27}$ $\frac{1}{8}$ $\frac{1}{11}$ $\frac{5}{16}$
+$\frac{5}{11}$ $\frac{5}{11}$ $\frac{15}{11}$ $\frac{35}{220}$
+$\frac{16}{81}$ $\frac{1}{255}$ $\frac{1}{256}$
+$\frac{75}{550}$
+$625$
+[/marginalia]
+```

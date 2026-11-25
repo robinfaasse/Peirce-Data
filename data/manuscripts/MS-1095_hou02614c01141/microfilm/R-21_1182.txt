@@ -1,0 +1,9 @@
+[marginalia]
+(x+iy)(x-iy) = x² + y²
+[/marginalia]
+
+0 = χ = F₁ (x+iy) + F₂ [frac]b²+c[/frac]/[sub]x+iy[/sub] + [frac]b²+c[/frac]/[sub]x+iy[/sub] F₃ (x+iy) + (x+iy) F₄ [frac]b²+c[/frac]/[sub]x+iy[/sub]
+
+[del]G[/del] F
+
+C_x = F₁ (x+iy) + F₂ [frac]a²+ε[/frac]/[sub]x+iy[/sub] + [frac]a²+ε[/frac]/[sub]x+iy[/sub] F₃ (x+iy)

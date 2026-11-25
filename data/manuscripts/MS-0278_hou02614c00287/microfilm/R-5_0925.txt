@@ -1,0 +1,83 @@
+Based on the provided image of the handwritten manuscript page, here is the diplomatic transcription following the specified rules:
+
+---
+
+$$\left(\frac{r}{R}\right)^2 + \frac{(z-R)^2}{R^2} = 1$$
+
+$$\left(\frac{r}{R}\right)^2 = \frac{(2R-z)z}{R^2}$$
+
+$$r'^2 = (2-2z')z'$$
+
+$$(z'-1)^2 = (1-r')^2$$
+
+$$z' = 1 + [del]\sqrt{1-r'^2}[/del]$$
+
+$$\left(\frac{r}{R}\right)^2 + \frac{(z-R)^2}{R^2} = 1$$
+
+$$\frac{r^2}{R^2} + \left(\frac{z}{R}-1\right)^2 = 1$$
+
+$$\left(\frac{z}{R}-1\right)^2 = 1 - \frac{r^2}{R^2}$$
+
+$$\frac{z}{R}-1 = \pm \sqrt{1-\frac{r^2}{R^2}}$$
+
+$$\frac{z}{R} = 1 \pm \sqrt{1-\frac{r^2}{R^2}}$$
+
+$$z = R \left(1 \pm \sqrt{1-\frac{r^2}{R^2}}\right)$$
+
+[fig]Diagram showing a curve with a horizontal axis[/fig]
+
+$$z = R \left(1 + \sqrt{1-\frac{r^2}{R^2}}\right)$$
+
+$$z = R \left(1 - \sqrt{1-\frac{r^2}{R^2}}\right)$$
+
+$$\frac{dz}{dr} = \frac{\pm \frac{r}{R}}{\sqrt{1-\frac{r^2}{R^2}}}$$
+
+$$\left(1 - \frac{r^2}{R^2}\right) \left(\frac{dz}{dr}\right)^2 = \frac{r^2}{R^2}$$
+
+$$\left(\frac{dz}{dr}\right)^2 = \frac{\frac{r^2}{R^2}}{1-\frac{r^2}{R^2}}$$
+
+$$(ds)^2 = (dr)^2 + (dz)^2 = \left(1 + \frac{\frac{r^2}{R^2}}{1-\frac{r^2}{R^2}}\right) (dr)^2$$
+
+$$(ds)^2 = \frac{1}{1-\frac{r^2}{R^2}} (dr)^2$$
+
+$$ds = \frac{dr}{\sqrt{1-\frac{r^2}{R^2}}}$$
+
+$$s = R \sin^{-1} \frac{r}{R}$$
+
+$$\frac{r}{R} = \sin \frac{s}{R}$$
+
+$$r = R \sin \frac{s}{R}$$
+
+$$z = R \left(1 - \cos \frac{s}{R}\right)$$
+
+$$(dx)^2 + (dy)^2 + (dz)^2 = R^2 \cos^2 \frac{s}{R} \left(\frac{ds}{R}\right)^2 + R^2 \sin^2 \frac{s}{R} \left(\frac{ds}{R}\right)^2$$
+
+$$= (ds)^2$$
+
+$$(dx)^2 + (dy)^2 + (dz)^2 = (ds)^2$$
+
+$$R^2 - (R-z)^2 = r^2$$
+
+$$R^2 - (R^2 - 2Rz + z^2) = r^2$$
+
+$$2Rz - z^2 = r^2$$
+
+$$r = \sqrt{2Rz - z^2}$$
+
+$$dr = \frac{R-z}{\sqrt{2Rz-z^2}} dz$$
+
+$$(dr)^2 + (dz)^2 = \left(\frac{(R-z)^2}{2Rz-z^2} + 1\right) (dz)^2$$
+
+$$= \frac{R^2 - 2Rz + z^2 + 2Rz - z^2}{2Rz-z^2} (dz)^2$$
+
+$$= \frac{R^2}{2Rz-z^2} (dz)^2$$
+
+$$ds = \frac{R}{\sqrt{2Rz-z^2}} dz$$
+
+$$s = R \int \frac{dz}{\sqrt{2Rz-z^2}}$$
+
+$$s = R \cos^{-1} \left(1-\frac{z}{R}\right)$$
+
+$$1-\frac{z}{R} = \cos \frac{s}{R}$$
+
+$$z = R \left(1 - \cos \frac{s}{R}\right)$$

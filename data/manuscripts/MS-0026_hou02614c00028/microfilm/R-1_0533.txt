@@ -1,0 +1,14 @@
+[u]On Multipliers[/u]
+
+(25) If two sets of indices occur in the Boolian only in different aggregants or in different compredicants, their quantifiers are commutable in the Peircian, so long as the [ins]order of the[/ins] [del]order of the qu[/del] succession of [ins]the[/ins] different indices of each of these sets is preserved. Thus,
+
+[del](24)[/del] $\Pi_i \Sigma_j \Sigma_k l_{ij} \cdot b_{kj} = \Sigma_k \Pi_i \Sigma_j l_{ij} \cdot b_{kj}$ , etc.
+$\Pi_i \Pi_j \Sigma_k l_{ij} + b_{ik} = \Pi_i \Sigma_k \Pi_j l_{ij} + b_{ik}$ , etc.
+
+(26) Any index [del]that is[/del] distributed, or universally quantified, i.e. is attached to a $\Pi$ can be identified with (that is [ins]omitted from the Peircian and[/ins] changed throughout [ins]the Boolian[/ins] so as to become identical with) any index which in the Peircian is to the left of it. Thus,
+
+[del](25)[/del] $\Sigma_i \Pi_j l_{ij} \prec \Sigma_i l_{ii}$ $\Pi_i \Sigma_j \Pi_k g_{ijk} \prec \Pi_i \Sigma_j g_{iji}$ , etc.
+
+(27) It follows, by contraposition, that any index can be diversified, that is, changed in any part of its occurrences in the Boolian to a new index, which must be undistributed, or particularly quantified, i.e. must be attached to a $\Sigma$, and its quantifier [del]must be placed somewhere and[/del] can be placed anywhere to the right of that of the old index in the Peircian, but must not be placed to the left of it.
+
+(28) When the Boolian consists of two compredicants, we may diversify all the indices whose quantifiers are in the Peircian to the right of any one point, [del]and this without[/del] giving to each new index the same mode of quantification (by $\Pi$ or by $\Sigma$) that the old one that gave rise to it had, and [del]of so[/del] arranging the new [ins]indices with[/ins] [del]quantifiers[/del] their quantifiers in the same order in the Peircian as those which gave rise to them, provided that the new indices replace [del]each[/del] the one that gives rise to it throughout one compredicant of the Boolian but nowhere in the other.

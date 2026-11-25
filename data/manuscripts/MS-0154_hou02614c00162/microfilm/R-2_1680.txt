@@ -1,0 +1,23 @@
+On the [del]Problem[/del] [ins]Theorem[/ins] of Coloring a Map.
+By C. S. Peirce.
+
+Some time in the early sixties Augustus De Morgan
+mentioned in the [u]Athenæum[/u] that experience had shewn
+that four colors would suffice to distinguish confine
+regions upon any map, and pronounced it a reproach
+upon logic and upon mathematics that no proof had
+been found of a proposition so simple. It is plain that
+he had attempted the demonstration in vain. In [date]1878[/date],
+Arthur Cayley took up the question, but only succeeded
+in showing why the proof would naturally be very
+difficult. In the following year Mr. A. B. Kempe proposed
+a simple demonstration, which is unfortunately fallacious.
+
+The difficulty of the theorem becomes apparent as soon as
+it is thrown into algebraical form. Let the regions be
+numbered, 1, 2, 3, etc. Let the four colors be A, B, C, D. Let
+any of these letters with a number subscribed, as $A_3$, be a
+quantity which is equal to one if the region bearing that
+number has the color signified by that letter, and which
+in the contrary case is equal to zero. Then whatever
+number of a region $i$ may be, we have the equations,

@@ -1,0 +1,17 @@
+[del][fig]crossed out scribble[/fig][/del]
+$(l_{1}-h_{1})(l_{2}-h_{2})\alpha_{1}^{8}+\{-g(l_{1}-h_{1}+l_{2}-h_{2})-\frac{\varepsilon_{1}l_{1}}{\mathcal{M}_{1}}(l_{2}-h_{2})-\frac{\varepsilon_{2}l_{2}}{\mathcal{M}_{2}}(l_{1}-h_{1})\}\alpha_{1}^{6}$
+$+\{g^{2}+g\frac{\varepsilon_{1}}{\mathcal{M}_{1}}[ins]l_{2}[/ins]+g\frac{\varepsilon_{2}}{\mathcal{M}_{2}}(l_{1}-h_{1})+g\frac{\varepsilon_{1}l_{1}}{\mathcal{M}_{1}}+g\frac{\varepsilon_{2}l_{2}}{\mathcal{M}_{2}}+\frac{\varepsilon_{1}\varepsilon_{2}-\varepsilon_{3}^{2}}{\mathcal{M}_{1}\mathcal{M}_{2}}l_{1}l_{2}\}\alpha_{1}^{4}$
+$+g\{-\frac{\varepsilon_{1}}{\mathcal{M}_{1}}-\frac{\varepsilon_{2}}{\mathcal{M}_{2}}-[del]\kappa[/del]\frac{\varepsilon_{1}\varepsilon_{2}-\varepsilon_{3}^{2}}{\mathcal{M}_{1}\mathcal{M}_{2}}(l_{1}+l_{2})\}\alpha_{1}^{2}+g^{2}\frac{\varepsilon_{1}\varepsilon_{2}-\varepsilon_{3}^{2}}{\mathcal{M}_{1}\mathcal{M}_{2}}=0$
+
+$l_{1}-h_{1}=\kappa_{1},\ l_{2}-h_{2}=\kappa_{2}\quad \frac{\varepsilon_{1}\varepsilon_{2}-\varepsilon_{3}^{2}}{\mathcal{M}_{1}\mathcal{M}_{2}}=\eta\quad \frac{\varepsilon_{1}}{\mathcal{M}_{1}}=E_{1}\quad \frac{\varepsilon_{2}}{\mathcal{M}_{2}}=E_{2}$
+
+$\kappa_{1}\kappa_{2}\alpha_{1}^{8}-[del]\{[/del][ins]\{[/ins]g(\kappa_{1}+\kappa_{2})+E_{1}l_{1}\kappa_{2}+E_{2}l_{2}\kappa_{1}\}\alpha_{1}^{6}$
+$+\{g^{2}+gE_{1}\kappa_{2}+gE_{2}\kappa_{1}+gE_{1}l_{1}+gE_{2}l_{2}+\eta l_{1}l_{2}\}\alpha_{1}^{4}$
+$-g\{gE_{1}+gE_{2}+\eta(l_{1}+l_{2})\}\alpha_{1}^{2}+g^{2}\eta=0$
+$\frac{g}{\kappa_{1}}=\kappa_{1}\quad \frac{g}{\kappa_{2}}=\kappa_{2}\quad \frac{l_{1}}{\kappa_{1}}=\lambda_{1}\quad \frac{l_{2}}{\kappa_{2}}=\lambda_{2}$
+
+$\alpha_{1}^{8}-\{\kappa_{1}+\kappa_{2}+E_{1}\lambda_{1}+E_{2}\lambda_{2}\}\alpha_{1}^{6}+\{\kappa_{1}\kappa_{2}+\kappa_{1}E_{1}+\kappa_{2}E_{2}+\kappa_{2}E_{1}\lambda_{1}+\kappa_{1}E_{2}\lambda_{2}+\eta\lambda_{1}\lambda_{2}\}\alpha_{1}^{4}$
+$-[del]\kappa_{1}\kappa_{2}[/del]\{\kappa_{1}\kappa_{2}(E_{1}+E_{2})+\eta(\lambda_{1}\kappa_{2}+\lambda_{2}\kappa_{1})\}\alpha_{1}^{2}+\kappa_{1}\kappa_{2}\eta=0$
+[u]Put $E\lambda+\kappa=F$[/u]
+$\alpha_{1}^{8}-(F_{1}+F_{2})\alpha_{1}^{6}+\{\kappa_{1}F_{1}+\kappa_{2}F_{2}+\kappa_{1}^{2}+\kappa_{2}^{2}+\kappa_{1}\kappa_{2}+\kappa_{1}E_{1}+\kappa_{2}E_{2}+\eta\lambda_{1}\lambda_{2}\}\alpha_{1}^{4}$
+$-\{\kappa_{1}\kappa_{2}(E_{1}+E_{2})+\eta(\lambda_{1}\kappa_{2}+\lambda_{2}\kappa_{1})\}\alpha_{1}^{2}+\kappa_{1}\kappa_{2}\eta=0$

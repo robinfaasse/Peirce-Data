@@ -1,0 +1,27 @@
+[marginalia]Ms. 1056[/marginalia]
+
+[u]Phyllotactic Numbers[/u].
+
+Write
+(1) $\vartheta_{0} = 0$ (Read, "Thyl zero = 0")
+(2) $\vartheta_{1} = 1$ "Thyl first"
+(3) $\vartheta_{m+1} = \vartheta_{m} + \vartheta_{m-1}$
+
+It will often be convenient to refer to (3) under the forms
+
+a $\vartheta_{m+2} = \vartheta_{m+1} + \vartheta_{m}$
+b $\vartheta_{m+1} = \vartheta_{m} + \vartheta_{m-1}$
+c $\vartheta_{m} = \vartheta_{m-1} + \vartheta_{m-2}$
+d $\vartheta_{2-m} = \vartheta_{1-m} + \vartheta_{-m}$
+e $\vartheta_{1-m} = \vartheta_{-m} + \vartheta_{-1-m}$
+f $\vartheta_{-m} = \vartheta_{-1-m} + \vartheta_{-2-m}$
+
+g $\vartheta_{m+2} - \vartheta_{m+1} = \vartheta_{m}$
+h $\vartheta_{m+1} - \vartheta_{m} = \vartheta_{m-1}$
+i $\vartheta_{m} - \vartheta_{m-1} = \vartheta_{m-2}$
+j $\vartheta_{2-m} - \vartheta_{1-m} = \vartheta_{-m}$
+k $\vartheta_{1-m} - \vartheta_{-m} = \vartheta_{-1-m}$
+l $\vartheta_{-m} - \vartheta_{-1-m} = \vartheta_{-2-m}$
+
+If $\vartheta_{i} = (-)^{i+1} \vartheta_{-i}$ then putting $m = i$ in (3[del]f[/del][ins]k[/ins]) and (3j)
+[del]$\vartheta_{1-i}$[/del] $\vartheta_{1-i} + \vartheta_{i-2} = (-)^{i+1} \vartheta_{2-i} + (-)^{i} \vartheta_{1-i}$

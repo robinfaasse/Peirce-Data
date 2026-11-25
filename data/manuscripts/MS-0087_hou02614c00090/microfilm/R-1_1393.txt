@@ -1,0 +1,18 @@
+[pn]20[/pn] Thus, reckoned [ins]by parts[/ins] [del]in one way[/del], its census-number is
+$$(x+1) X_1 + 2(x+1) U_1^{-1} - x X_0$$
+while, reckoned as one whole, it is
+$$X_1 + (x+2) U_1^{-1} + U_1^x$$
+Equating these, we get
+$$U_1^x = -x U_1^{-1}$$
+
+This formula holds for $x = -1$; so that it presumably holds for $x = -2$, that is for the outlying point. But since it is doubtful what the chorisy of a line with any outlying point is, let us assume it to be [del]such th[/del] [ins]$y$[/ins], and determine $x$ so as to make the above formula hold for $y = -2$. Let a simple line pass through an outlying point of a line-figure consisting of a simple line and an outlying point. Then the census value of the result, calculated by parts, is
+[del]$(y X_1 + 2 U_1^{-1}) + ($[/del]
+$$(y X_1 + 2 U_1^{-1} + U_1^{-2}) + (X_1 + 2 U_1^{-1}) - X_0$$
+while, for the result, it is
+$$2 X_1 + 4 U_1^{-1}$$
+Equating these and assuming $U_1^{-2} = 2 U_1^{-1}$ we get $y = 2$. Therefore the chorisy of a line figure is the number of separate pieces.
+
+A non-singular line is selfreturning and has cyclosy 1. It may be conceived as composed of any number, $l$, of simple terminated lines joined at $l$ points. The census value, calculated by parts, is
+$$l (X_1 + 2 U_1^{-1}) - l X_0 = 0$$
+while the census value of the whole is
+$$X_1 + K_1$$

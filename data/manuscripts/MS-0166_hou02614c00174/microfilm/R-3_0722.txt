@@ -1,0 +1,23 @@
+[pn]30b[/pn]
+
+[fig]Diamond-shaped diagram with vertices b, c, d, e and internal lines.[/fig]
+fig 199.
+
+It may also be made evident as follows.
+If there is a point $[b\ e]$, that point
+lies in $b$, which we may write
+$[b\ e] \prec \{b\}$
+And if there is a plane $(b\ c)$, that
+plane contains $b$, or
+$\{b\} \prec (b\ c)$
+Hence,
+$[b\ e] \prec (b\ c)$
+But $[b\ e]$ is also contained in $\{e\}$. Hence
+$[b\ e] = [(b\ c) e]$
+And in like manner
+$[c\ d] = [c (d\ e)]$.
+
+Hence
+$\{[b\ e][c\ d]\} = \{[(b\ c) e][c (d\ e)]\}$.
+But [del]the point[/del] [ins]the line[/ins]
+$[(b\ c) e] \prec \{e\}$

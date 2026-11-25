@@ -1,0 +1,23 @@
+[pn]write[/pn]
+
+$\Pi_i a$, for every $i$ [del]has the mark $a$.[/del] [ins]has the mark $a$.[/ins]
+$\Sigma_i a$ for some $i$ has the mark $a$
+
+[del]$\Pi_i \Pi_j l$[/del]
+
+$\Pi_i \Pi_j l$ Every $i$ is in the relation $l$ to every $j$.
+$\Sigma_i \Pi_j l$ Some $i$ is in the relation $l$ to all $j$s.
+$\Pi_j \Sigma_i l$ [ins]To[/ins] [del]Each[/del] [ins]some $i$[/ins] [del]j[/del] [ins]each $j$[/ins] is in the relation $l$ [del]to some[/del]
+$\Sigma_j \Pi_i l$ To some $j$ all $i$'s are in the relation $l$.
+$\Pi_i \Sigma_j l$ Each $i$ is in the relation $l$ to some $j$.
+$\Sigma_i \Sigma_j l$ Some $i$ is in the relation $l$ to some $j$.
+
+[del]The signs of addition and multiplication
+are taken in their usual logical significations[/del]
+
+The order of two $\Pi$'s or $\Sigma$'s is indifferent.
+That is
+$\Pi_i \Pi_j = \Pi_j \Pi_i$     $\Sigma_i \Sigma_j = \Sigma_j \Sigma_i$
+
+Using the sign $\prec$ to denote that the proposition placed after it follows from that placed before it, we have
+$\Sigma_i \Pi_j \prec \Pi_j \Sigma_i$

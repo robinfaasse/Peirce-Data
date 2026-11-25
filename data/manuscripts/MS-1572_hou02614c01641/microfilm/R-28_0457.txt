@@ -1,0 +1,31 @@
+$A \prec B = c$
+$(A \prec B) \prec B = d$
+
+$\bar{\alpha}_{ac} + \bar{\beta}_{cb} + \bar{\alpha}_{cd} + \bar{\beta}_{db} + \bar{\gamma}_{a} + \gamma_{d}$
+
+[del]$\bar{\alpha}_{ac}$[/del]
+$\bar{\beta}_{db} + \bar{\gamma}_{b} + \gamma_{d}$
+$\bar{\alpha}_{cd} + \gamma_{c} + \gamma_{d}$
+$\bar{\alpha}_{ac} + \bar{\beta}_{cb} + \bar{\gamma}_{a} + \bar{\gamma}_{c} + \gamma_{b}$
+
+---
+
+$A \prec B = c$
+$(A \prec B) \prec B = d$
+
+$B \prec A = e$
+$(B \prec A) \prec A = f$
+
+$\bar{\alpha}_{ac} + \bar{\gamma}_{a} + \gamma_{c}$
+$\bar{\beta}_{fa} + \bar{\gamma}_{a} + \gamma_{f}$
+$\bar{\alpha}_{cd} + \bar{\beta}_{db} + \bar{\gamma}_{c} + \bar{\gamma}_{d} + \gamma_{b}$
+$\bar{\alpha}_{be} + \bar{\beta}_{ea} + \bar{\gamma}_{b} + \bar{\gamma}_{e} + \gamma_{a}$
+$\bar{\alpha}_{ef} + \gamma_{e} + \gamma_{f}$
+
+$\{ [ (B \prec A) \prec A ] \prec B \} \prec B$
+[del]$(A \prec B) \prec B$[/del]
+$(B \prec A) \prec A$
+
+| $\bar{\alpha}_{ac} + \bar{\beta}_{cb} + \bar{\gamma}_{a} + \bar{\gamma}_{c} + \gamma_{b}$
+| $\bar{\alpha}_{cb} + \gamma_{c} + \gamma_{b}$
+| $a \prec b$

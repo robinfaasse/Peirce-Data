@@ -1,0 +1,24 @@
+[pn]3[/pn]
+
+and the second differences would be
+
+74288
+82094
+90782
+
+The intervals evidently could not be subdivided proportionally.
+
+But if not enough places were inscribed, the table would lose very much of its utility.
+
+§ 7. You will notice that the first differences are very nearly (though not exactly) tenths of the means between successive pairs of numbers. This can evidently be put to use in subdividing the intervals.
+
+Then what should be number of spaces on the scale-table?
+
+§ 8. Suppose you have the problem As 25 is to 55 so is 28 to the answer, how do you proceed? The roughest use of the Scale gives 61; but how to get the next figure. We have
+
+Answer = [del]55 x 28[/del] [ins]$\frac{55 \times 28}{25}$[/ins] = $\frac{1}{10} \times \frac{(548 + 2)(272 + 8)}{246 + 4}$ = $\frac{1}{10} \times \frac{548.272}{246} \times \frac{(1 + \frac{2}{548})(1 + \frac{8}{272})}{1 + \frac{4}{246}}$
+
+This is very nearly $\frac{1}{10} \times \frac{548.272}{246} \times (1 + \frac{2}{548} + \frac{8}{272} - \frac{4}{246})$
+= $(\frac{1}{10} \times 606) + \frac{1}{10} \times (2 \frac{606}{548} + 8 \frac{606}{272} - 4 \frac{606}{246})$
+= [del]$\frac{1}{10}$[/del] $\frac{1}{10} (606 + 2 + 18 - 10) = 61.6$
+This is precisely right.

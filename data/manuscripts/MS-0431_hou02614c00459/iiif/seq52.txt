@@ -1,0 +1,41 @@
+[fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig]
+([del]z+x[/del])
+([del]z+h+x[/del])(z+h)(h+x)
+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u] [fig]figure[/fig] (z+h)(z+h)(h+x)
+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]
+([del]z+h+x+x[/del])([del]z+h+x+x[/del])(h+x)(h+x)
+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u] [fig]figure[/fig]
+[fig]figure[/fig]
+z h x z x h x
+([del]z+h+h+x[/del])([del]z+h+x[/del])(h+x)
+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u] [fig]figure[/fig]
+z h x h x
+(z+h+x+x)(z+h)(z+h+x)(h+x)
+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u] (z+h)(z+h)(h+x)
+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]
+(z+x)(z+h)(h+x)
+[u]z h x[/u]+[u]z h x[/u] [u]z h x[/u]+[u]z h x[/u] (z+h+x)(z+h)(z+h+x)(h+x)
+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u] [fig]figure[/fig]
+[fig]figure[/fig] z h [fig]figure[/fig] h x
+(z+h)(z+x)(h+x)
+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u] [fig]figure[/fig]
+([del]z+h+h+x[/del])(z+h)(z+h+x)(h+x)
+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u] (z+h)(z+h)(z+h)(h+x)
+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]
+fff fff fff
+(z+h)(z+h)(z+h)(h+x)
+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]
+fff fff fff
+[fig]figure[/fig] ([del]z+x[/del])(z+h)(z+h)(h+x)
+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]
+fff fff fff
+(z+h)(h+x)(z+h)(h+x)
+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]
+fff fff fff
+(z+x)(z+h)(z+h)(h+x)
+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]
+fff fff fff
+[fig]figure[/fig] z h x
+(z+h)(z+x)(h+x)
+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u] z h + z x + h x
+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]+[u]z h x[/u]

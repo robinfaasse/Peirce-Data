@@ -1,0 +1,60 @@
+[pn]74[/pn] [pn]75[/pn]
+
+[pn]74[/pn]
+[ins]See p 76[/ins]
+The best form is [del]$\psi^{n+1} =$[/del] $Y Z + \frac{1 + X Z \psi^{n}}{1 + Z \psi^{n}}$
+$Z \left(\psi^{n+1} - Y Z\right) \left(Z \psi^{n} + 1\right) - [del]- X Z[/del] [ins]+ X Z[/ins] X Z \psi^{n} - Z = 0$
+$\left(Z \psi^{n+1} + 1\right) \left(Z \psi^{n} + 1\right) - \left(X Z + Y Z^{2} + 1\right) \left(Z \psi^{n} + 1\right) + \left(X - 1\right) Z$
+$Z \psi^{n} + 1 = \frac{u_{n+1}}{u_{n}}$
+$u_{n+2} - \left(X Z + Y Z^{2} + 1\right) u_{n+1} + \left(X - 1\right) Z u_{n} = 0$
+$\alpha = \frac{1}{2} \left(X Z + Y Z^{2} + 1\right) \left\{ 1 + \sqrt{1 - \frac{4 \left(X - 1\right) Z}{\left(X Z + Y Z^{2} + 1\right)^{2}}} \right\}$
+
+Best form of all
+[marginalia]
+$\frac{B^{X_{n+1} + 1}}{B^{X_{n}}}$
+$\frac{A}{B} \psi^{n+1}$
+$\frac{A}{B} C \psi^{n+1}$
+$B \psi^{n+1}$
+[/marginalia]
+$B \psi^{n+1} = -1 + \frac{1 + A C \psi^{n}}{1 + C \psi^{n}}$
+$\left(B \psi^{n+1} + 1\right) \left(C \psi^{n} + 1\right) = A C \psi^{n} + 1$
+[del]$\left(\frac{C}{B} \psi^{n+1} + \frac{C}{B}\right) \left(C \psi^{n} + 1\right) = \frac{A C^{2} \psi^{n}}{B} + \frac{C}{B}$[/del]
+$\left(C \psi^{n+1} + 1\right) \left(C \psi^{n} + 1\right) + \left(\frac{C}{B} - 1 - \frac{A C}{B}\right) \left(C \psi^{n} + 1\right) + \frac{A C}{B} - \frac{C}{B} = 0$
+$u_{n+2} + \frac{C - B - A C}{B} u_{n+1} + \frac{\left(A - 1\right) C}{B} u_{n}$
+[marginalia]
+$x^{2} - \left(a+1\right) x + a = 0$
+$x^{2} - \left(a+1\right) x + \frac{a^{2}+2a+1}{4}$
+$= \frac{\left(a-1\right)^{2}}{4}$
+$x = \frac{\left(a+1\right)}{2} \pm \frac{\left(a-1\right)}{2}$
+$x = a$
+$y = 1$
+[/marginalia]
+$u_{n+2} - \left[ \frac{\left(A-1\right) C}{B} + 1 \right] u_{n+1} + \frac{\left(A-1\right) C}{B} u_{n} = 0$
+[del]$u_{n} = C_{1} \left\{ \frac{\left(A-1\right) C}{B} \right\}^{n} + C_{2}$[/del]
+$C \psi^{n} + 1 = \frac{1 + C \left( \frac{\left(A-1\right) C}{B} \right)^{n}}{1 + C \left( \frac{\left(A-1\right) C}{B} \right)^{n}}$
+[marginalia]
+$\mathcal{C} t + 1 = \frac{1 + \mathcal{C} \frac{\left(A-1\right) C}{B}}{1 + \mathcal{C}}$
+$\left(1 + \mathcal{C} t\right) + \mathcal{C} \left(1 + \mathcal{C} t\right) = 1 + \mathcal{C} \frac{\left(A-1\right) C}{B}$
+$\mathcal{C} = \frac{\mathcal{C} t}{\frac{\left(A-1\right) C}{B} - 1 - \mathcal{C} t}$
+[/marginalia]
+
+[pn]75[/pn]
+[ins]See p 78[/ins]
+The Very best form of all
+[del]$B \psi^{n+1} = -1 + \frac{1 + \left(A+1\right) C \psi^{n}}{}$[/del]
+$\left(B \psi^{n+1} + 1\right) \left(C \psi^{n} + 1\right) = A C \psi^{n} + 1$
+[marginalia]
+Multiply by $\frac{P}{C}$
+[/marginalia]
+[del]$\left(B \psi^{n+1} + 1\right) \left(B \psi^{n} + \right)$[/del]
+$P \psi^{n+1} + Q = \frac{1 + A C \psi^{n}}{1 + C \psi^{n}}$
+$\frac{P}{C} \left(C \psi^{n+1} + \frac{C Q}{P}\right) \left(C \psi^{n} + 1\right) - A \left(C \psi^{n} + \frac{1}{A}\right) = 0$
+[del]$\frac{P}{C} \left(C \psi^{n+1} + 1\right) + \left(\frac{C Q}{P} - 1\right) \left(C \psi^{n}\right.$[/del]
+$\left(C \psi^{n+1} + \frac{C Q}{P}\right) \left(C \psi^{n} + 1\right) - \frac{C A}{P} \left(C \psi^{n} + \frac{1}{A}\right) = 0$
+[ins]$+ 1 - 1$[/ins] [ins]$+ \frac{C A}{P} - \frac{C A}{P}$[/ins]
+$\left(C \psi^{n+1} + 1\right) \left(C \psi^{n} + 1\right) + \left(\frac{C Q}{P} - 1 - \frac{C A}{P}\right) \left(C \psi^{n} + 1\right) + \frac{C A}{P} - \frac{1}{A} = 0$
+$u_{n+2} - \frac{C}{P} \left(Q - A - \frac{P}{C}\right) u_{n+1} + \frac{C A}{P} - \frac{1}{A} = 0$
+$\frac{C \psi^{n+1} + 1}{B \psi^{n+1} + 1} = \frac{1 + A C \psi^{n}}{1 + C \psi^{n}}$
+[del]$B = C$[/del] $\psi^{n} = \left(\frac{C}{B}\right)^{n} \phi^{n}$
+$C \left(\frac{C}{B}\right)^{n} \phi^{n+1} + 1 = \frac{1 + A C \left(\frac{C}{B}\right)^{n} \phi^{n}}{1 + C \left(\frac{C}{B}\right)^{n} \phi^{n}}$
+[fig]small sketch of a carriage or cart[/fig]

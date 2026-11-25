@@ -1,0 +1,35 @@
+Monson's Bridge [del]1898[/del] [ins][date]1898 Feb 14[/date][/ins] Shrove Valentine's Tuesday
+
+$\delta E = B \Delta^2 (\theta - \Theta) +$ [del]$\frac{A \Delta^3}{3}$[/del]
+
+[fig]Geometric construction with intersecting lines[/fig]
+
+[fig]Geometric construction with curved line and triangles[/fig]
+
+[fig]Geometric construction with a triangle and horizontal line[/fig]
+
+[fig]Geometric construction with a line and small perpendicular segments[/fig]
+
+[fig]Geometric construction with vectors and angles[/fig]
+
+[del]$y_{n+2ds} - y_{n+ds} = \frac{1}{2} ds \cdot \sin \theta_{n+ds} + \frac{1}{2} ds \sin \theta_{n+2ds}$[/del]
+
+After $\delta s$  $y_{n+2ds} - y_{n+ds} = \frac{\delta s \cdot \sin \theta_{n+ds} +}{\frac{1}{2} ds \sin (\theta_n + ds)}$
+
+$\delta \theta_{n+ds} = \sin (\theta_{n+2ds} - \theta_{n+ds})$
+
+$= \frac{\delta s}{\delta s \cos (\theta_{n+2ds} - \theta_{n+ds}) + \frac{(\delta s)^2}{ds} (\theta_{n+2ds} - \theta_{n+ds}) [del]1 + \frac{1}{2} x - \frac{1}{8} x^2 + \frac{1}{16} x^3[/del]}$
+
+$= \frac{1}{\frac{\cos (\theta_{n+2ds} - \theta_{n+ds})}{\sin (\theta_{n+2ds} - \theta_{n+ds})} + \frac{\delta s}{ds} \sin (\theta_{n+2ds} - \theta_{n+ds})}$
+
+[del]$\delta s + \delta s = \sqrt{(ds)^2 + (\delta s)^2 + 2 ds \cdot \delta s \cos (\theta_{n+2ds} - \theta_{n+ds})}$[/del]
+
+$= ds \sqrt{1 + 4 \frac{\delta s}{ds} \cos (\theta_{n+2ds} - \theta_{n+ds}) + 4 (\frac{\delta s}{ds})^2}$
+
+$\begin{aligned} \sqrt{1+x} &= \\ \frac{1}{2} (1+x)^{-\frac{1}{2}} &= \\ - \frac{1}{4} (1+x)^{-\frac{3}{2}} &= \\ + \frac{3}{8} (1+x)^{-\frac{5}{2}} &= \end{aligned}$
+
+$\begin{aligned} = \frac{1}{2} ds \Big( 1 &+ 2 \frac{\delta s}{ds} \cos (\theta_{n+2ds} - \theta_{n+ds}) \\ &+ 2 (\frac{\delta s}{ds})^2 \\ &- 2 (\frac{\delta s}{ds})^2 \cos^2 (+ - -) \\ &+ 2 (\frac{\delta s}{ds})^2 \sin^2 \Big) \end{aligned}$
+
+$= \frac{1}{2} ds + \delta s \cos (\theta_{n+2ds} - \theta_{n+ds}) + \frac{(\delta s)^2}{ds} (\theta_{n+2ds} - \theta_{n+ds})$
+
+$\delta' s = \delta s \cos (\theta_{n+2ds} - \theta_{n+ds}) + \frac{(\delta s)^2}{ds} (\theta_{n+2ds} - \theta_{n+ds})$

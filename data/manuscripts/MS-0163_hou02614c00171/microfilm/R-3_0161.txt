@@ -1,0 +1,58 @@
+```
+[fig]Geometric diagram with points A, B, C, P, Q1, Q2, and lines connecting them with algebraic labels.[/fig]
+
+[fig]Geometric line segment with points A, B, P.[/fig]
+
+[del](1 + \frac{u(x+y)}{vx-uy}) A + \frac{v(x+y)}{vx-uy} B - \frac{(u+v)(x+y)}{vx-uy} C[/del]
+[del]- \frac{u(x+y)}{vx-uy} A + (1 + \frac{v(x+y)}{vx-uy}) B + \frac{(u+v)(x+y)}{vx-uy} C[/del]
+
+[fig]Line segment showing points A and B.[/fig]
+
+tu A + (v+tu) B + tw C
+[del]u+sx A +[/del] sy B + sz C
+(1 + \frac{2(u+xy)}{vx-uy}) A + (\frac{2u(x+y)}{vx-uy} - 1) B - 2 \frac{(u+v)(x+y)}{vx-uy} C
+\frac{2ux+vx+uy}{vx-uy} A + (\frac{2uy+vx+uy}{vx-uy}) B - 2(u+v)(x+y) C
+[del](u+v)x + u(y+y)[/del]
+
+[u]-aA + (1-b)B - cC[/u]
+
+[fig]Horizontal line segment with points.[/fig]
+
+0 = aA + bB + cC
+a+b+c = 1
+Q1 = uA + uB + wC
+u+v+w = 0
+Q2 = xA + yB + zC
+x+y+z = 0
+
+[fig]Geometric diagram with points A, B, P, Q1, Q2, R2.[/fig]
+
+B - A
+
+(1 + tu) A + (v+u) B + tw C
+[del]+ (v+sy) B + sz C[/del]
+[del]= sx A[/del]
+tw = sz.
+
+[del]t + u + tu[/del] [ins]tu[/ins] + tv = sx + sy
+1 + tu = sx
+\frac{tu}{1+tu} + \frac{tv}{ts} = \frac{v}{s}
+\frac{u}{w}
+
+1 + tu = sx
+tu = 1 + sy
+u + tuv = sux
+tuv = u + suy
+v = [del]s(x-uy) - u[/del]
+s = \frac{u+v}{ux-uy}
+
+1 + tu = sx
+u + tuv = sux
+tuv = u + sy
+v = s(x-uy) - u
+s = \frac{u+v}{ux-uy}
+
+\frac{-vx-uy-ux-uy}{vx-uy}
+\frac{ux+vy}{vx-uy} A + \frac{ux+vy}{vx-uy} B
+1 + \frac{u(x+y)}{vx-uy} A + \frac{u(x+y)}{vx-uy} B - (1+ \frac{u(x+y)}{vx-uy})
+```

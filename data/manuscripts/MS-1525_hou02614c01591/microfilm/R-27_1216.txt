@@ -1,0 +1,45 @@
+[del]Case 31. The second player occupies a corner square
+adjoining the occupied square. The first player
+has a choice of 7 plays, as numbered in the figure, making
+cases, 311, 312, 313, 314, 315, 316, 317.[/del] [fig]3x3 grid with O, X, and numbers 2 to 7[/fig]
+
+Case 311. The first player occupies the other adjoining
+corner. The second player has the choice between 6
+plays as numbered in the figure, making cases 3111,
+3112, 3113, 3114, 3115, 3116.
+[fig]3x3 grid with O, X, X, and numbers 1 to 6[/fig]
+
+Case 3111. The second player occupies the side square
+[fig]3x3 grid with O, X, X, O, O, X[/fig]
+
+— [ins]2[u]nd[/u] Players error 2[u]nd[/u] Play[/ins]
+
+343 { [ins]1[u]st[/u][/ins] [del]None[/del]
+[fig]3x3 grid with O, X, X, O[/fig]
+
+3441 { [del]None[/del] [ins]2[u]nd[/u][/ins] — 1[u]st[/u] Players Error 3[u]rd[/u] Play
+
+3442 1[u]st[/u] — 2[u]nd[/u] Players error 2[u]nd[/u] Play
+
+3443 None
+
+351 None
+
+352 { [del]None[/del] [ins]1[u]st[/u][/ins] — 2[u]nd[/u] Players error [del]2[u]nd[/u][/del] [ins]1[u]st[/u][/ins] Play
+[fig]3x3 grid with X, O, O, X, X, X, O, O[/fig]
+
+3531 None
+
+3532 { [del]None[/del] [ins]2[u]nd[/u][/ins] — 1[u]st[/u] Players error 3[u]rd[/u] Play
+
+3533 { [del]None[/del] [ins]1[u]st[/u][/ins] — Second Players error 3[u]rd[/u] Play
+
+3534 None
+
+3535 1[u]st[/u] } Second Player's Errors 2[u]nd[/u] Play
+
+3536 1[u]st[/u]
+
+354 2[u]nd[/u] [del][1[u]st[/u] Player's error 2[u]nd[/u] Play][/del]
+
+[fig]3x3 grid with X, X, O, O, O, X, X, O, X[/fig]

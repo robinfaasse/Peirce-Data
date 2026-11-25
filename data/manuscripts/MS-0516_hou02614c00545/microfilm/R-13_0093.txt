@@ -1,0 +1,23 @@
+[marginalia]
+[pn]Basic Rules
+25[/pn]
+[/marginalia]
+
+Supposing that the rule holds for any number of
+enclosures less than N. Then, let [u]V[/u] be a graph
+containing N-1 enclosures; and let us suppose that
+a transformation authorized by the rule being made
+within these enclosures [u]V[/u] would be transformed into
+a graph [u]V[/u]. Suppose, then, that V is written within
+one additional enclosure; and call the remainder of
+the contents of this enclosure [ins](W)[/ins]; so that
+[fig]V W inside a circle[/fig]
+is written unenclosed. Then, as before, we have,
+[fig]U W inside a circle[/fig]
+and [u]V[/u] is transformable into [u]U[/u] under one enclosure.
+But this is the [del]performance[/del] [ins]authorization of the[/ins] performance within N enclosures of the
+inverse of the transformation which the rule authorizes
+within N-1 enclosures.
+
+These proofs, being evident, are perfectly satis-
+factory as proofs. But when we come to the analysis

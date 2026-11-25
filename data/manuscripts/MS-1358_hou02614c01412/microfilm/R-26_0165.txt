@@ -1,0 +1,26 @@
+[marginalia]Morison's Bridge. 1899 Feb 17[/marginalia] [pn]3[/pn]
+
+[fig]Line drawing of a bridge truss or structural frame[/fig]
+
+[del]$S_1 = \text{const}$[/del]
+$x_1 = s_1 \cos \theta$   $s_1 \sin \theta = \text{Const}$
+
+[u]Paid through[/u]
+
+$x_2 = - (S - s_1) \cos \theta$   $y_2 = - (S - s_1) \sin \theta$
+$x_2 = s_2 \cos \vartheta - X$   $y_2 = s_2 \sin \vartheta - Y$
+$x_3 = - (S - s_2) \cos \vartheta$   $y_3 = - (S - s_2) \sin \vartheta$
+
+$\delta x_1 = \delta s_1 \cos \theta - s_1 \sin \theta \cdot \delta \theta$   $\delta s_1 \sin \theta + s_1 \cos \theta \cdot \delta \theta = 0$
+$\delta x_1 \sin \theta = - s_1 (\sin^2 \theta + \cos^2 \theta) \delta \theta$
+$\delta \theta = - \frac{\delta x_1}{s_1} \sin \theta$
+$\delta x_1 \cos \theta = \delta s_1 (\cos^2 \theta + \sin^2 \theta)$
+$\delta s_1 = \delta x_1 \cos \theta$
+
+$\begin{aligned} \delta x_2 &= + \delta s_1 \cos \theta + (S - s_1) \sin \theta \cdot \delta \theta \\ &= \delta x_1 \cos^2 \theta - \delta x_1 \frac{S - s_1}{s_1} \sin^2 \theta \\ &= \delta x_1 \cos 2 \theta \end{aligned}$   $\begin{aligned} \delta y_2 &= + \delta s_1 \sin \theta - (S - s_1) \cos \theta \cdot \delta \theta \\ &= \delta x_1 \sin \theta \cos \theta + \delta x_1 \frac{S - s_1}{s_1} \sin \theta \cos \theta \\ &= \delta x_1 \sin 2 \theta \end{aligned}$
+
+$\delta x_2 = \delta s_2 \cos \vartheta - s_2 \sin \vartheta \delta \vartheta$   $\delta y_2 = \delta s_2 \sin \vartheta + s_2 \cos \vartheta \delta \vartheta$
+$\cos \vartheta \cdot \delta x_2 = \delta s_2 \cos^2 \vartheta - s_2 \sin \vartheta \cos \vartheta \delta \vartheta$   $\delta y_2 \sin \vartheta = \delta s_2 \sin^2 \vartheta + s_2 \sin \vartheta \cos \vartheta \delta \vartheta$
+$\begin{aligned} &\cos \vartheta \delta x_2 + \sin \vartheta \delta y_2 = \delta s_2 \\ &= \delta x_1 (\cos \vartheta \cos 2 \theta + \sin \vartheta \sin 2 \theta) \\ &= \delta x_1 \cos (2 \theta - \vartheta) \end{aligned}$
+$\sin \vartheta \delta x_2 = \delta s_2 \sin \vartheta \cos \vartheta - s_2 \sin^2 \vartheta \delta \vartheta$   $\cos \vartheta \delta y_2 = \delta s_2 \sin \vartheta \cos \vartheta + s_2 \cos^2 \vartheta \delta \vartheta$
+$\begin{aligned} &\cos \vartheta \delta y_2 - \sin \vartheta \delta x_2 = s_2 \delta \vartheta \\ &\delta \vartheta = \frac{\delta x_1}{s_2} \sin (2 \theta - \vartheta) \end{aligned}$

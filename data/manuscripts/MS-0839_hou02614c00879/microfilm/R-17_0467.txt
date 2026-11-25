@@ -1,0 +1,23 @@
+[fig]Diagram of a circular segment with a chord and radius lines[/fig] $A_1 \sec(\theta - B_1) = r$
+
+$A_1 = R \cos \frac{\theta_1 - \theta_2}{2}$
+
+$R \cos \frac{\theta_1 - \theta_2}{2} \sec (\theta - \frac{\theta_1 + \theta_2}{2}) = r$
+
+$= R \cos \frac{\theta_3 - \theta_4}{2} \sec (\theta - \frac{\theta_3 + \theta_4}{2})$
+
+$= \frac{\cos \frac{\theta_1 - \theta_2}{2} \cos \frac{\theta_3 + \theta_4}{2} \cos \theta + \cos \frac{\theta_1 - \theta_2}{2} \sin \frac{\theta_3 + \theta_4}{2} \sin \theta}{\cos \frac{\theta_3 - \theta_4}{2} \cos \frac{\theta_1 + \theta_2}{2} \cos \theta + \cos \frac{\theta_3 - \theta_4}{2} \sin \frac{\theta_1 + \theta_2}{2} \sin \theta}$
+
+$\tan \theta = \frac{\cos \frac{\theta_1 - \theta_2}{2} \cos \frac{\theta_3 + \theta_4}{2} - \cos \frac{\theta_1 + \theta_2}{2} \cos \frac{\theta_3 - \theta_4}{2}}{\sin \frac{\theta_1 + \theta_2}{2} \cos \frac{\theta_3 - \theta_4}{2} - \cos \frac{\theta_1 - \theta_2}{2} \sin \frac{\theta_3 + \theta_4}{2}}$
+
+$= \frac{\cos_1 \cos_2 \cos_3 \cos_4 - \cos_1 \cos_2 \sin_3 \sin_4}{[del]-\cos_1 \cos_2 \cos_3 \cos_4[/del] - \cos_1 \cos_2 \sin_3 \sin_4}$
+$[del]+ \sin_1 \sin_2[/del]$
+$+ \sin_1 \sin_2 \cos_3 \cos_4 - \sin_1 \sin_2 \sin_3 \sin_4$
+$+ \sin_1 \sin_2 \cos_3 \cos_4 + \sin_1 \sin_2 \sin_3 \sin_4$
+$\sin_1 \cos_2 \cos_3 \cos_4 + \sin_1 \cos_2 \sin_3 \sin_4$
+
+$+ \cos_1 \sin_2 \cos_3 \cos_4 + \cos_1 \sin_2 \sin_3 \sin_4$
+
+$- \cos_1 \cos_2 \sin_3 \cos_4 - \cos_1 \cos_2 \cos_3 \sin_4$
+
+$- \sin_1 \sin_2 \sin_3 \cos_4 - \sin_1 \sin_2 \cos_3 \sin_4$

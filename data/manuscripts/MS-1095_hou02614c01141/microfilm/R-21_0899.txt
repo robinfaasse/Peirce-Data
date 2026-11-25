@@ -1,0 +1,29 @@
+[del]D_x \vartheta = \frac{1}{\sqrt{x^2+y^2-R^2}} + \sqrt{y} + \frac{x}{2} \left( \frac{1}{\sqrt{x^2+y^2-R^2}} \frac{1}{\sqrt{x^2+y^2-R^2}} \right)[/del]
+
+[del]\frac{b^2}{x^2 (x^2+y^2-1)} + \frac{y^2}{x^4} = \vartheta[/del] [del]D_x \vartheta = -\frac{x}{\left(\frac{b}{\sqrt{}} + \sqrt{y}\right)^2} \left( -\frac{1}{2} \frac{b y}{(x^2+y^2-R^2)^{\frac{5}{4}}} + \frac{1}{2} \frac{1}{\sqrt{y}} \right)[/del]
+
+When [del]\sqrt{x^2+y^2} = 1+b[/del]
+[del]D_x \vartheta = const[/del] (y const)
+
+$(x^2+y^2-R^2) \left(\frac{x^4}{a^2}-y^2\right) = b^4$
+
+$\vartheta = \frac{x}{\frac{b}{\sqrt[4]{x^2+y^2-R^2}} + \sqrt{y}}$
+
+$\frac{b^4}{x^2+y^2-R^2} + y^2 = \frac{x^4}{a^2}$
+
+$\frac{x^4}{b^2+y^2} = a^2$
+
+$D_x F a = D_{x^a} D_a F a$
+
+$a^2 = \frac{x^4}{\frac{b^4}{x^2+y^2-R^2} + y^2}$
+
+$D_x a^2 = \frac{4x^3 \left(\frac{b^4}{x^2+y^2-R^2} + y^2\right) + [del]2x^5[/del] b^4}{(x^2+y^2-R^2)^2}$
+$= 4x^3 (b^2+y^2) + 2x^5$
+
+$D_x F a^2 = x$
+
+$D_{a^2} F a^2 = \frac{1}{4x^2(b^2+y^2) + 2x^4} = \frac{1}{4a\sqrt{b^2+y^2} + 2a^2(b^2+y^2)}$
+
+[del]\frac{1}{a^2 \sqrt{x} + x \sqrt{x}} = \frac{1}{x \sqrt{x}}[/del]
+
+$\frac{1}{p x + q y \sqrt{x}} = \xi x^{-1} + \eta \sqrt{x}$  $p \xi + q \eta$

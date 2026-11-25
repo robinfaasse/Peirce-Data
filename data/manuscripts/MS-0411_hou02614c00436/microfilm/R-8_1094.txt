@@ -1,0 +1,27 @@
+[pn]227[/pn]
+
+[u]Rule 2'[/u]. The [u]non sequitur[/u] is invalid
+$\Phi$ false,
+$\therefore \Phi \overline{\Psi}$ false.
+
+To say a non-sequitur is invalid from A false to B false,
+is the same as to say that a consequence hold from
+B true to A true. We may write $\Phi \overline{\Psi}$ true in the form
+$\overline{\Phi \overline{\Psi}} \vert 0$ true.
+
+Whence, since
+$0 \vert \Phi$ true,
+we have by Barbara
+$\overline{\Phi \overline{\Psi}} \vert \Phi$ true;
+and then, by Rule 4,
+$\Phi$ true.
+
+[u]Rule 3'[/u]. The [u]non sequitur[/u] is invalid:
+$\Phi \overline{\Psi_1} \overline{\Psi_2} \overline{\Psi_3}$ etc. false
+$\therefore \Phi \overline{\Psi_2} \overline{\Psi_3}$ etc. false.
+provided
+$\Psi_1 \overline{\Psi_2} \overline{\Psi_3}$ etc false.
+
+This is obviously true; but the consequential proof
+is rather intricate. It is left to the student. The Fermation
+inference should be used.

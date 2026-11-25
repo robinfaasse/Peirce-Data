@@ -1,0 +1,19 @@
+$$\sqrt{1-x^2} = \frac{\pi}{2} \left( \frac{1}{2} - 5 \left(\frac{1}{2}\right)^2 \frac{1}{4} P_2 - 9 \left(\frac{1\cdot 3}{2\cdot 4}\right)^2 \frac{3}{6} P_4 \right.$$
+$$- 13 \left(\frac{1\cdot 3}{2\cdot 4\cdot 6}\right)^2 \frac{5}{8} P_6 \rightarrow \text{etc}$$
+
+$$P_2 = \frac{3}{2} x^2 - \frac{1}{2}$$
+$$P_4 = \frac{5\cdot 7}{2\cdot 4} x^4 - \frac{3\cdot 5}{2\cdot 4} 2x^2 + \frac{1\cdot 3}{2\cdot 4}$$
+$$P_6 = \frac{7\cdot 9\cdot 11}{2\cdot 4\cdot 6} x^6 - \frac{5\cdot 7\cdot 9}{2\cdot 4\cdot 6} 3x^4 + \frac{3\cdot 5\cdot 7}{2\cdot 4\cdot 6} 3x^2 - \frac{1\cdot 3\cdot 5}{2\cdot 4\cdot 6}$$
+
+$$\frac{-\alpha^2 + \beta^2 + c^2}{2\beta c} = \cos A \qquad x = \beta \sin A$$
+
+$$\begin{array}{cc} \alpha = a & \beta \\ \beta = b & 0 \end{array}$$
+
+$$\text{---} \frac{(\beta - b)^2}{(\beta - b)^2 + (\alpha - a)^2}$$
+$$b$$
+
+$$x = \frac{(\beta - b)^2 \beta}{(\beta - b)^2 + (\alpha - a)^2} \cos \theta \qquad \alpha^2 = r^2 - 2cy + c^2$$
+$$\beta = r \qquad \alpha^2 = (c - y)^2 + x^2$$
+
+$$= \beta \frac{1}{1 + \left(\frac{\alpha - a}{\beta - b}\right)^2} \cos \theta$$
+$$= \beta \frac{1}{1 + \frac{a^2}{b^2} \frac{\left(1 - \frac{\alpha}{a}\right)^2}{\left(1 - \frac{\beta}{b}\right)^2}} \cos \theta$$

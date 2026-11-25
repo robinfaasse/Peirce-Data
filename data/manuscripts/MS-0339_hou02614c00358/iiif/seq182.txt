@@ -1,0 +1,32 @@
+84r
+
+[del]x + y = y + x[/del]
+
+[del]⨀[/del] $(a^b)^c = a^{bc}$
+$ab.c = a.bc$
+$a^b a^c = [del]a^{b+c}[/del]$ [ins]$a^{b+c}$[/ins] $x \prec y$ $y \prec z$
+$a^c b^c$ $x \prec y$ $x \prec z$ $x \prec yz$
+$(x \prec y) \prec (x \prec z) \sim x \prec yz$
+
+[del]a^b[/del] [del]x \prec y[/del] [del]a^b[/del]
+$a \prec a^b$ $y \prec (x \prec y)$
+[del]x \prec x[/del] [del]x \prec x[/del] $a^{ax}$ $a^{xa}$
+___________________________________________
+$ab.c = a.bc$ $ab = ba$
+$(a^b)^c = a^{(bc)}$ [del]ab[/del] "
+[del]a^b[/del] $a^b c \therefore a^{b^c} \therefore (a^b)^{(a^b)}$
+[del](ab)^c[/del] $ab^c \therefore (ab)^c \therefore (a^c)^{(ab)}$
+
+$(x \prec y) \prec z$
+$x \overline{y} + z$
+$x(\overline{y} + z) + \overline{x} z$
+$\overline{c} + ab$
+$a(b + \overline{c})$
+$b \overline{a} + \overline{c} + a$
+[del](a \prec b)[/del]
+$(b \prec a) \prec (c \prec a)$
+$a + b$
+[del]x \prec x[/del]
+$a \overline{b} + b$
+$(a \prec b) \prec b$
+$\frac{(\frac{a}{b})}{b}$

@@ -1,0 +1,94 @@
+[fig]Venn diagram with two overlapping circles labeled a and b[/fig] [fig]Venn diagram with two disjoint circles labeled a and b[/fig] [fig]Venn diagram with two circles labeled a and b, one inside the other[/fig] [fig]Venn diagram with three circles labeled a, b, and c[/fig]
+
+[u]ab[/u] [u]abc[/u]
+
+abc [fig]Venn diagram with circle b inside a, and c inside b[/fig] a[fig]Venn diagram with circle b inside a[/fig]c [fig]Venn diagram with circle b inside a[/fig][fig]Venn diagram with circle c inside b[/fig] [fig]Venn diagram with circle b inside a[/fig][fig]Venn diagram with circle c inside a[/fig] [fig]Venn diagram with circle b inside a, and circle c inside a[/fig]
+
+[del]abc + ab[u]c[/u][/del]
+[del]= ab[/del]
+
+abc + ab[u]c[/u]
+
+abc + [del]a[/del]bc
+
+abc + [del]ab[/del] [ins]a[fig]Venn diagram with circle b inside a[/fig] + [fig]Venn diagram with circle c inside a[/fig][/ins]
+
+[fig]Venn diagram with circle b inside a[/fig]
+[fig]Venn diagram with circle c inside a[/fig]
+
+[fig]Venn diagram with circle b inside a, and circle c inside a[/fig]
+
+[fig]Venn diagram with circle b inside a, and circle c inside a[/fig]
+
+abc + [fig]Venn diagram with circle b inside a[/fig][fig]Venn diagram with circle c inside a[/fig]
+= (a + b[u]c[/u])([u]a[/u] + b + c)
+= (a + b)(a + [u]c[/u])([u]a[/u] + b)([u]a[/u] + c)
+
+[fig]Venn diagram with circle b inside a, and circle c inside a, and circle c inside b[/fig]
+
+[fig]Venn diagram with circle b inside a[/fig]
+[fig]Venn diagram with circle c inside a[/fig]
+[fig]Venn diagram with circle b inside a, and circle c inside a[/fig]
+
+[fig]Venn diagram with circle b inside a, and circle c inside a[/fig]
+
+[fig]Venn diagram with circle b inside a[/fig]
+
+(b + [u]c[/u])([u]b[/u] + c) = [u][u]b[/u]c + b[u]c[/u][/u] = [u](b + [u]c[/u])([u]b[/u] + c)[/u]
+
+a[fig]Venn diagram with circle c inside b[/fig]
+a[fig]Venn diagram with circle b inside c[/fig]
+
+[fig]Venn diagram with circle c inside b[/fig]
+[fig]Venn diagram with circle b inside c[/fig]
+
+[fig]Venn diagram with circle c inside b, and circle b inside c[/fig]
+
+[fig]Venn diagram with circle c inside b[/fig]
+[fig]Venn diagram with circle b inside c[/fig]
+
+[fig]Venn diagram with circle c inside b, and circle b inside c[/fig]
+
+b + [u]c[/u] + [u]b[/u]c = [u](b + c)(b + [u]c[/u])[/u]
+= (b + c)([u]b[/u] + [u]c[/u])
+
+[fig]Venn diagram with circle c inside b[/fig] [fig]Venn diagram with circle b inside c[/fig] = [fig]Venn diagram with circle c inside b, and circle b inside c[/fig]
+
+(a + b)c
+
+[fig]Venn diagram with circle b inside a[/fig] c
+
+[del]x([u]y[/u] + [u]z[/u])[/del]
+
+[fig]Venn diagram with circle y inside x[/fig]
+[fig]Venn diagram with circle z inside x[/fig]
+=
+[fig]Venn diagram with circle y inside x, and circle z inside x[/fig]
+
+[fig]Venn diagram with circle a inside b[/fig]
+[fig]Venn diagram with circle c inside d[/fig]
+
+(a + [u]b[/u])([u]c[/u] + d)
+
+[fig]Venn diagram with circle a inside d[/fig]
+[fig]Venn diagram with circle c inside b[/fig]
+
+ad + bc
+
+[fig]Venn diagram with circle a inside b[/fig] c
+
+(a + b)c = (a + b + c)c
+[del](b + a + c)[/del]
+
+[fig]Venn diagram with circle a inside b[/fig]
+[fig]Venn diagram with circle c inside d[/fig]
+
+(a + b)(c + d)
+
+[fig]Venn diagram with circle a inside c[/fig]
+[fig]Venn diagram with circle b inside c[/fig]
+
+[fig]Venn diagram with circle a inside d[/fig]
+[fig]Venn diagram with circle b inside a[/fig]
+
+[fig]Venn diagram with circle a inside b, and circle c inside b[/fig]

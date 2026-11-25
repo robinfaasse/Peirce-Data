@@ -1,0 +1,30 @@
+The differential coefficient relative [del]to[/del] [ins]to[/ins] $\eta_n$ of the energy of
+lifting the live load, where $n$ is as small as $J$ and as large
+as $I$, is simply $W\delta$ or $Wdn$.
+
+The differential coefficient relative to $\eta_n$ of the energy of
+displacement of the tower-head supposing $n^2 < N^2$, is
+$\frac{K}{l} \frac{\xi^R}{S} S$ for the rougher approximation, which as a
+differential is $\frac{K}{l} \frac{\xi^R}{S} dn$. But for the sufficient
+approximation it is
+$$\frac{K}{l} \frac{\xi^R}{S} [ 1 + 4 \frac{n}{l} \frac{d\eta}{dn} + 2 ( n + \frac{n^2}{l} ) \frac{d^2\eta}{dn^2} - [del]\dots[/del] ] dn$$
+
+This makes the rough differential equation for the part under
+the live load
+$$B D_n^4 \eta + W + \frac{K}{l} \frac{\xi^R}{S} = 0$$
+giving
+$$\eta = \frac{1}{48} \frac{W + K \frac{\xi^R}{S}}{B} n^4 + C_3 n^3 + C_2 n^2 + C_1 n + C_0.$$
+
+But the more exact equation is
+$$B D_n^4 \eta + W + \Lambda \xi^R [ \frac{1}{l} + 4 \frac{n}{l^2} D_n \eta + 2 ( 1 + \frac{n^2}{l^2} D_n^2 \eta ) ] = 0$$
+
+The first integral of this is obtained at once thus:
+$$B D_n^3 \eta + Wn + K \frac{\xi^R}{l} [ \frac{n}{l} + 2 ( 1 + \frac{n^2}{l^2} D_n \eta ) ] + C = 0$$
+
+If we denote by $z$ any function of $n$ whatever that
+satisfies the equation $D_n^2 z + ( a + c n^2 ) z = 0$
+where $a = \frac{2 K \xi^R}{B}$ and $c = \frac{a}{l^2}$, then we have, by
+well-known method (see Forsyth's Treatise on Differential
+Equations Article 58)
+$$\eta = G + \int \{ B z + A z \int \frac{dn}{z^2} + \int [ \frac{dn}{z^2} \int [ W + \frac{K \xi^R}{l} ] n + C z dn ] \} dn$$
+[pn](153)[/pn] where $A, B, C, G$ are arbitrary constants to be deter-

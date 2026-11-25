@@ -1,0 +1,52 @@
+[pn]48[/pn]
+
+$$1 + \frac{1}{4^n} + \frac{1}{9^n} + \frac{1}{16^n} \dots \frac{1}{x^{2n}}$$
+$$= \frac{(2\pi)^{2n}}{2.n!} - \frac{1}{(2n-1)x^{2n-1}} + \frac{1}{2x^{2n}} - \frac{n}{6x^{2n+1}}$$
+$$+ \frac{2n(2n+1)(2n+2)}{720x^{2n+3}} + \text{etc}$$
+
+$$B_{2n-1} = \frac{(2n)!}{2^{2n-1}\pi^{2n}} \left(1 + \frac{1}{4^n} + \frac{1}{9^n} + \frac{1}{16^n} + \text{etc}\right)$$
+
+Limit divided Bs i.e $\frac{B_{2n+1}/(2n+2)!}{B_{2n-1}/2n!} = \frac{1}{4\pi^2}$
+
+$$\phi 0 - \phi 1 + \phi 2 - \phi 3 + \text{etc} \dots - \phi x$$
+$$= C + (-1)^x \left\{ -\frac{1}{2}\phi x + \frac{1}{4}\phi' x - \frac{1}{48}\phi''' x + \frac{1}{480}\phi^v x \right.$$
+$$\left. - \frac{17}{80640}\phi^{v\text{II}} x \right\}$$
+
+[del]$$v_{x+1} - v_x = a B'_x$$[/del]
+$$v_x = a \sum B'_x$$
+
+***
+
+[pn]49[/pn]
+
+[u]Equations of Differences[/u]
+
+$$u_{x+1} - A_x u_x = 0$$
+$$u_x = C A_{x-1} A_{x-2} \dots A_1$$
+$$u_x = C \text{G}^{\sum \log A_x}$$
+
+[u]$$u_{x+1} - A_x u_x = B_x$$[/u]
+$$u_x = \text{G}^{\sum \log A_x} \left\{ \sum \frac{B_x}{A_x \text{G}^{\sum \log A_x}} + C \right\}$$
+
+$$u_{x+1} - a u_x = b \quad \text{where } a \text{ and } b \text{ are constant}$$
+$$u_x = \frac{b}{1-a} + C a^x$$
+
+$$\begin{aligned} p u_{x+1} + q u_x &= 1 \\ u_{x+1} + \frac{q}{p} u_x &= \frac{1}{p} \end{aligned}$$
+$$\begin{aligned} u_x &= \frac{\frac{1}{p}}{1+\frac{q}{p}} + C \left(-\frac{q}{p}\right)^x \\ &= \frac{1}{p+q} + C \left(-\frac{q}{p}\right)^x \end{aligned}$$
+
+$$\begin{aligned} u_x &= m + C n^x \\ u_{x+1} &= m + C n.n^x \end{aligned}$$
+$$u_{x+1} - n u_x = m n$$
+
+$$\begin{aligned} u_x &= M_x + C_x n^x \\ u_{x+1} &= M_{x+1} + C_{x+1} n.n^x \end{aligned}$$
+[del]$$C_{x+1} n - C_x n = \frac{M_x}{C_x} + n^{x+1}$$[/del]
+$$\frac{u_{x+1}}{C_{x+1}} = \frac{M_{x+1}}{C_{x+1}} + n^{x+1}$$
+
+[del]$$B_0 + a B_1 + a^2 B_2$$[/del]
+
+$$\frac{u_{x+1}}{n} = m + u_x$$
+
+$$u_{x+1} - a u_x = B_x \quad \text{or} \quad \frac{u_{x+1}}{a^{x+1}} - \frac{u_x}{a^x} = \frac{B_x}{a^{x+1}}$$
+$$(E-a) u_x = B_x$$
+$$u_x = \frac{1}{E-a} B_x = \frac{1}{E} \frac{1}{1-\frac{a}{E}} B_x$$
+$$= B_{x-1} + a B_{x-2} + a^2 B_{x-3} + \text{etc}$$
+$$= \sum a^x B_x \quad a^{x-1} \sum \frac{B_x}{a^x}$$

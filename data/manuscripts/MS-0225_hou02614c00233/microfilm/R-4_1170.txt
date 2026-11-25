@@ -1,0 +1,32 @@
+[pn]2[/pn]
+
+Given the hypothenuse and an angle to find a leg.
+
+[u]1[sup]st[/sup] Method[/u] [del]log b[/del] [ins]log b[/ins] = log h + log cos A
+[del]2[sup]nd[/sup] Method log (h-b) = log 2h + 2 log sin 1/2 A[/del]
+[u]2[sup]nd[/sup] Method[/u] log (h-b) = log 2h + 2 log sin 1/2 A
+[del]3[sup]rd[/sup] Method log (h+b) = log 2h + 2 log sin 1/2 B[/del]
+1[sup]st[/sup] Method Prob error. = 0.90 b
+
+2[sup]nd[/sup] Method Taking A as the smaller angle
+
+| A | Prob. err. last place |
+|---|---|
+| 0° | 0.00 b |
+| 10° | 0.02 b |
+| 20° | 0.09 b |
+| 30° | 0.21 b |
+| 40 | 0.41 b |
+| 45 | 0.56 b |
+| 50 | 0.76 b |
+| 53 | 0.89 b |
+| 60 | 1.35 b |
+| [del]62[/del] | 1.53 b |
+
+The second method is the best up to 53° for included angle
+then the first.
+
+3[sup]rd[/sup] Method [del]log b = log (h+a) + log (h-a)[/del]
+log (h+a) = log 2h + 2 log sin 1/2 A
+log (h-a) = log 2h + 2 log sin 1/2 B
+[del]log b = log 2h + log sin 1/2 A + log sin 1/2 B[/del]

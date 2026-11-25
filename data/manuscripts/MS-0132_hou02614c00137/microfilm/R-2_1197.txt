@@ -1,0 +1,28 @@
+[pn]11 3/4[/pn] If we reckon angles [ins]around[/ins] from 2 coplanar rays
+starting with their common plane
+
+(If we reckon around 1 ray starting with any plane,
+numbered zero. [del]It has[/del] [ins]There are[/ins] two at any [del]distan[/del] angular
+distance $\varphi$ less than $\frac{1}{2} \partial$, namely $\varphi$ and $\partial - \varphi$.
+But the distance $\frac{1}{2} \partial$ is the limit there is only one
+plane there)
+
+If we turn by any angle less than $\frac{1}{2} \partial$ [fig]3D geometric diagram of intersecting planes[/fig]
+there are two planes around each ray distant
+that amount giving four rays of intersection
+But at $\frac{1}{2} \partial$ the four become one —
+
+Now find that calling the first two
+rays $\{x\}$ and $\{y\}$ and this one $\{z\}$
+if [del]Distance[/del] [del]Diff[/del] $(\{x\}\{y\}) - (\{x\}\{z\}) = \frac{1}{2} \partial$
+$(\{x\}\{y\}) - (\{y\}\{z\}) = \frac{1}{2} \partial$
+Then also $(\{y\}\{z\}) - (\{x\}\{z\}) = \frac{1}{2} \partial$ [fig]Three rays meeting at a point[/fig]
+
+12. This is after all natural. There must be some angle
+of which this is true. [fig]triangle[/fig] [fig]triangle[/fig] That is we take [del]upon[/del]
+three [ins]planes[/ins] [del]rays[/del] such that [del]the[/del] angles of all three are equal
+Two of them being [ins]tried[/ins] at any given angle, the third
+has two different positions [del]making 8 spherical triangles[/del]
+spherical triangle
+$\begin{matrix} A & A & A \\ A & A & \partial - A \\ A & \partial - A & A \end{matrix}$
+$\begin{matrix} \partial - A & A & A \\ \partial - A & A & \partial - A \\ \partial - A & \partial - A & A \end{matrix}$

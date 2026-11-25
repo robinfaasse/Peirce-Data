@@ -1,0 +1,18 @@
+If $s$ be a root of this biquadratic the solution
+of the [del]equation[/del] problem is
+$$\Phi = \Sigma_i A_i \Theta^{s_i t}.$$
+
+If we omit the terms in $I$ and $IV$, the equation becomes
+a cubic with its real root odd. The solution will therefore
+be of the form
+$$\Phi = A \sin (bt + c) + B \Theta^{-s^2 t}$$
+and the last term will approximate toward zero as
+the time increases.
+
+In that case putting
+$$E = \frac{C}{\sin^2 B} \text{ , } M = \frac{mgh}{\sin^2 2\theta} \text{ , } G = \frac{\gamma}{\sin^2 A}$$
+the equation is
+$$D_t^3 + \frac{E+M}{G} D_t^2 + \frac{M}{P} D_t + \frac{EM}{GP} = 0$$
+
+whence
+$$D_t = -\frac{E+M}{3G} + \frac{2}{3} \sqrt{3\frac{M}{P} - \frac{E^2+2EM+M^2}{G^2}} \sin \frac{1}{3} \left( 2\pi d + \arcsin \frac{6\frac{E+M}{G}\frac{M}{P} - 3\frac{EM}{GP} + 2\left(\frac{E+M}{G}\right)^3}{2\left(\frac{G^2 M}{P} - \frac{1}{3}(E+M)^2\right)^{\frac{3}{2}}} \right)$$

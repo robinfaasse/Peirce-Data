@@ -1,0 +1,15 @@
+[u]Theorem 2[/u]. [u]Logical addition and internal multiplication[/u]
+[u]are commutative operations[/u].
+[u]Proof[/u]. In the definitions of [u]x[/u]+[u]y[/u] and [u]x[/u],[u]y[/u] there is
+no distinction between [u]x[/u] and [u]y[/u].
+
+[u]Theorem 3[/u]. If [u]x[/u] < [u]y[/u] and [u]u[/u] < [u]v[/u]
+then [u]x[/u]+[u]u[/u] < [u]y[/u]+[u]v[/u]
+[u]x[/u],[u]u[/u] < [u]y[/u],[u]v[/u].
+
+[u]Proof[/u]. [del]Since[/del] If [u]x[/u] < [u]y[/u] then by (II) [u]x[/u] < [u]y[/u]+[u]v[/u]
+If [u]u[/u] < [u]v[/u] then by (II) [u]u[/u] < [u]y[/u]+[u]v[/u].
+Hence by III, if both [u]x[/u] < [u]y[/u] and [u]u[/u] < [u]v[/u] then
+[u]x[/u]+[u]u[/u] < [u]y[/u]+[u]v[/u]
+whence by theorem 1, if [u]y[/u] < [u]x[/u] and [u]v[/u] < [u]u[/u] then
+[u]y[/u],[u]v[/u] < [u]x[/u],[u]u[/u].

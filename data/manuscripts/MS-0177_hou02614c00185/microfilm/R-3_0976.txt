@@ -1,0 +1,73 @@
+[marginalia]
+78
+42
+[/marginalia]
+
+[del]The[/del] [ins]The[/ins] exception is quite
+what one would expect
+Take [u]1[/u]/49 There are not
+48 irreducible 49ths
+since 6 of them are
+exact 7ths
+namely [u]7[/u]/49, [u]14[/u]/49, [u]21[/u]/49, [u]28[/u]/49, [u]35[/u]/49, [u]42[/u]/49
+Accordingly [u]1[/u]/49 has 6 places
+fewer than 48; namely 42.
+
+Take [u]1[/u]/351. There are not 350
+different irreducible 351sts
+since 351 = 13 x 27
+so that 12 of them are exact 13s
+namely [u]27[/u]/351, [u]54[/u]/351, [u]81[/u]/351, [u]108[/u]/351, [u]135[/u]/351, [u]162[/u]/351,
+[u]189[/u]/351, [u]216[/u]/351, [u]243[/u]/351, [u]270[/u]/351, [u]297[/u]/351, [u]324[/u]/351
+
+Besides that 26 are exact 27ths
+This leaves 312
+The number of places is 6 = [u]312[/u]/52
+In fact [u]35[/u]/351 = [u]9[/u]/13 - [u]16[/u]/27
+Now 27 is itself composite and 8 of the 27ths are each 9ths So that the
+places are an aliquot part of 26 - 8 = 18
+
+If the divisor is
+not prime, there
+are occasional
+exceptions to this
+rule, as when the
+divisor is 27, 49,
+121, 169
+It is then the least
+common multiple
+of the places of
+the factors when
+these are different
+But when a
+square comes
+in the product
+of the number
+squared by
+one less than
+that generally
+gives the
+number of
+places.
+
+If a divisor is not divisible by 2 nor by 5
+The circulating decimal of the quotient
+has either one figure less than the [del]number[/del] [ins]a prime[/ins]
+of the divisor or some aliquot part
+thereof. Thus
+[u]1[/u]/13 = .076923 six places or [u]1[/u]/2 (13 - 1)
+If the last figure of the divisor is 1 that
+of the circulating decimal representing
+the reciprocal is 9
+If the last figure of the divisor is 9 that of the
+circulating decimal aforesaid is 1
+If the last figure of the is 3 [del]then[/del] or 7 that of
+the aforesaid circulating decimal is the same as the
+
+To find all the other figures of the circulating
+decimal, proceed as follows:
+1st when the last figure of the divisor is 9
+To find [u]1[/u]/9. Start with 1 [del]Strike[/del] off the
+last figure and add to the part so truncated as many times
+that last figure as one more than the figure in the
+tens place of the divisor. Thus to find [u]1[/u]/19

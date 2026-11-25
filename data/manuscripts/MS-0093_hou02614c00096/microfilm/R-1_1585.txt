@@ -1,0 +1,68 @@
+[pn]96[/pn]
+
+[del]x + y[/del]
+y + xi
+
+If [del]and x[/del] [ins]y and x[/ins] are two functions of [del]two constants[/del] [ins]a variable[/ins]
+[del]y = Ψ(a, b, t)[/del] x = Φ(a, b, t)
+and y + xi is a function Φ(a, b, t)
+then the equation
+Φ(a₁, b₁, t) = Φ(a₂, b₂, t)
+has always one and only one root.
+That is it is linear in t.
+Hence if [del]the[/del] cot is any function of t inde-
+pendent of a and b
+Φ(a, b, t) = cot + Ψ(a, b) t + χ(a, b)
+That is, t being a parameter varying along the curve
+x = ω₁t + At + B
+y = ω₂t + Pt + Q
+If then X and Y are arbitrary functions of x and y
+the same for all the curves of the family.
+[del][u]x + X + B[/u] = [u]y + Y + Q[/u][/del]
+[del]A[/del] [del]P[/del]
+[del][u]x + X[/u] + [u]y + Y[/u] = 1[/del]
+[del]A[/del] [del]P[/del]
+
+Thus the solution of the problem is
+[u]x + X[/u] + [u]y + Y[/u] = 1
+A B
+where X, and Y are arbitrary functions of x and
+y the same for all curves, while A and B are
+constants [del]having[/del] [ins]having[/ins] simple values for each curve.
+or we may write [u]X[/u] + [u]Y[/u] = 1
+A B
+
+***
+
+[pn]97[/pn]
+
+The difficulty with this solution is that I haven't taken
+[del]a and b[/del] account of the fact that a and b
+are real only. And also that cot can have
+but one value.
+
+θ[sub]t+1[/sub] = a₁ sin θ[sub]t[/sub] + b₁ sin 2θ[sub]t[/sub] + c₁ sin 3θ[sub]t[/sub] + etc
+
+[fig]Graph with curves[/fig]
+
+[del]a sin nd[/del]
+a sin ((n + [del]1[/del])(θ + π))
+
+[del]a sin ([/del]
+a cos (n + ½) θ
+[del]a sin (nθ + π)[/del]
+[del]- a sin nθ[/del]
+a sin 2n(θ + π) = a sin 2nθ
+
+[fig]Two square diagrams and one circle diagram[/fig]
+
+θ[sub]t+1[/sub] = a₀ + a₂ sin 2θ[sub]t[/sub] + a₄ sin 4θ[sub]t[/sub] + a₆ sin 6θ[sub]t[/sub] + etc
+D[sub]θ[sub]t[/sub][/sub] θ[sub]t+1[/sub] = 2a₂ cos 2θ[sub]t[/sub] + 4a₄ cos 4θ[sub]t[/sub] + 6a₆ cos 6θ[sub]t[/sub].
+
+θ[sub]t[/sub] = 0 θ[sub]t+1[/sub] = a₀
+[del]θ[sub]t[/sub] = 90° or ½π θ[sub]t+1[/sub] = a₀ + a₂ + a₆[/del]
+θ[sub]t[/sub] = ¼π θ[sub]t+1[/sub] = a₀ + a₂ - a₆ + a₁₀ - a₁₂
+
+6/4 3/2
+10/4 5/2
+[fig]Circle with cross[/fig]

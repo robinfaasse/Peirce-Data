@@ -1,0 +1,230 @@
+[marginalia]
+[del]1·3-2[/del] [ins]is prime[/ins]
+1·3+2 [del]is prime[/del]
+
+2·5-3 [del]is pr.[/del]
+2·5+3 [del]is prime[/del]
+
+3·7-2 [del]is pr.[/del]
+3·7+2 [del]is pr.[/del]
+[/marginalia]
+
+[fig]Zigzag line connecting numbers[/fig] 1 > 1·2 is a prime
+2 > 2·3 - 1 and 2·3 + 1 are primes
+3 > 3·5 - 2 and 3·5 + 2 are primes
+5 > 5·7 - 2·3 and 5·7 + 2·3 [del]prime[/del]
+7 > 7·11 - 2·3 and 7·11 + 2·3 "
+11 > 11·13
+13
+17
+19
+23
+29
+31
+37
+41
+43
+47
+53
+59
+61
+67
+71
+73
+79
+83
+89
+
+[marginalia]
+13
+6
+78
+[/marginalia]
+
+[marginalia]
+7
+13
+91
+[/marginalia]
+
+55
+53 57
+51 59
+49 61
+47 63
+45 65
+12 - 43 67
+41 69
+39 71
+18 - 37 73
+
+1 - 9 [del]11[/del]
+3 - 7 13
+5 15
+7 - 3 17
+
+[marginalia]
+55
+53
+13
+97
+[/marginalia]
+
+21
+[del]20[/del] [del]22[/del]
+2 - 19 23
+[del]18[/del] [del]24[/del]
+17 25
+15 27
+[del]33[/del] [del]32[/del]
+[del]8[/del] - 13 29
+[del]5[/del] 11 31
+9 33
+7 35
+[del]31[/del] 6 - 5 37
+3 39
+[del]29[/del] - 1 41
+
+[u]Effects of Singularities[/u]
+Singularities of [del]lines in[/del] Surfaces
+A line [del]in[/del] without positive singularities must either have two terminals or else a cyclosis
+If without cyclosis its census must be the same as a point i.e. = 1 for it will have the same effect on boundless space i.e. will be = unit of Aperity.
+
+[fig]Asterisk symbol[/fig] Point + Space without Aperity = Space with Aperity
+Point = Aperity of Solid = Cyclosis of Solid
+
+Point = Periphery of Surface = Chord
+Point = Cyclosis of Line
+
+A Marked place interrupts.
+An interruption of an interruption does not undo the interruption
+
+[fig]Circle with horizontal line[/fig]
+On Glob. Surface
+Line without point on it
+X = -1 K = 2 [del]1[/del] [del]K=0[/del]
+Y = -1 Surfaces X = +3
+K = +2 K = 0
+[u] [del]π = 0[/del] [/u]
++1 [del]+3[/del] [ins]+4[/ins]
+
+[fig]Circle with horizontal line and point[/fig]
+Line with one point
+Point
+X = +1
+Line
+X = -1
+K = 0
+Surface
+X = +3
+K = 0
+[u]π = 0[/u]
++2
+
+[fig]Circle with horizontal line and two points[/fig]
+Terminal of line +1
+On glob Surface
+Line without point
+X = -1
+2 Term = +2
+[u]+1[/u]
+Surface
+X = +1
+K = 0
+[u]π = 0[/u]
+Total +2
+
+[fig]Circle with horizontal line and three points[/fig]
+Line without point
+X = -1
+3 Term = +3
+[del]Σ" = -1[/del]
+Surface
+X = +1
+K = 0
+[u]π = 0[/u]
++2
+
+[fig]Circle with three lines meeting at center[/fig]
+The two nodes count each -1
+On Globular surface
+Line with one point
+Line
+X = -1
+K = +3
+Surface
+X = +1
+K = 0
+[u]π = 0[/u]
++2
+
+[fig]Circle with vertical line[/fig]
+Line
+X = -1
+K = +1
+Surface
+X = +2
+K = 0
+[u]π = 0[/u]
++2
+
+[fig]Circle with vertical line and point[/fig]
+Globular Surface
+Point
+X = +1
+Line
+X = -1
+K = 0
+Surface
+X = +2
+K = 0
+[u]π = 0[/u]
++2
+
+[fig]Circle with vertical line and two points[/fig]
+Point
+X = +1
+Line
+X = -1
+K = 0
+Surface
+X = +2
+K = 0
+[u]π = 0[/u]
++2
+
+Regard as line with Acnode
+Line
+X = -2
+K = 0
+2 Term = +2
+[del]1[/del] [ins]1[/ins] Term = +2
+Surface
+X = +1
+K = -1
+[u]π = 0[/u]
+
+Line
+X
+
+[fig]Circle with vertical line and three points[/fig]
+The four nodes count each -1
+
+[fig]Circle with vertical line and four points[/fig]
+On glob surface
+Line with four points
+Point
+X = +4
+Line
+X = -1
+K = 0
+Surface
+X = +2
+K = 0
+[u]π = 0[/u]
++5
+
+The two lines may meet in two ways
+[fig]Two intersecting lines[/fig]
+[fig]Two parallel lines[/fig]
+each -1

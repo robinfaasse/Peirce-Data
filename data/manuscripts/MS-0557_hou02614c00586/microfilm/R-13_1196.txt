@@ -1,0 +1,22 @@
+Denote the vanishing of $(b)_{ik}$, $(l)_{ij}$ and $(s)_{jk}$
+by $\underline{a}$, $\underline{b}$, $\underline{c}$, respectively. Then the proposition
+$ls \prec b$ is equivalent to
+$$a \prec b + c$$
+a formula of non-relative logic, which we
+know takes the transformations
+$$\overline{b} \prec \overline{a} + c$$
+$$\overline{c} \prec \overline{a} + b.$$
+The first of these equations signifies that if
+$(l)_{ij}$ does not vanish, either $(b)_{ik}$ does not vanish
+or $(s)_{jk}$ does vanish. This is the same as to say
+that if $(\overline{l})_{ij} \neq 0$, then either $(\overline{b})_{ik} = 0$ or $(\breve{\overline{s}})_{ki} = 0$
+[del]so that $(\breve{\overline{b}}\breve{\overline{s}})_{ij}$[/del]. But if this is so for [del]all values of[/del]
+every three individuals $I, J, K$, we have
+that if $(\overline{l})_{ij} = 0$ then $(\breve{\overline{b}}\breve{\overline{s}})_{ij} = 0$. Consequently
+[del]$$\overline{l} \prec \breve{\overline{b}}\breve{\overline{s}}$$[/del]
+$$\breve{\overline{b}}\breve{\overline{s}} \prec \overline{l}$$
+or by conversion, [del]$\breve{\overline{s}}\breve{\overline{b}} \prec \breve{\overline{l}}$[/del] $s\breve{\overline{b}} \prec \breve{\overline{l}}$.
+And similarly, $\breve{\overline{b}}l \prec \breve{\overline{s}}$. Hence the rule is
+that having a formula of the form $ls \prec b$,
+the three letters may be cyclically advanced
+one place in [del]order[/del] [ins]their order[/ins] of writing, those which

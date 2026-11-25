@@ -1,0 +1,24 @@
+[marginalia]
+Calc. Diff.
+23
+[/marginalia]
+
+From the associative principle it obviously follows that,
+[u]l[/u], [u]m[/u], [u]n[/u] being positive integers
+
+(\(\gamma\)) \(\phi^{[u]l[/u]+([u]m[/u]+[u]n[/u])} = \phi^{[u]l[/u]} \cdot \phi^{[u]m[/u]+[u]n[/u]} = \phi^{([u]l[/u]+[u]m[/u])} \phi^{[u]n[/u]} = \phi^{([u]l[/u]+[u]m[/u])+[u]n[/u]}\)
+
+It further follows that, for positive integral values of [u]m[/u] and [u]n[/u]
+
+(\(\delta\)) \(\phi^{[u]m[/u]+[u]n[/u]} = \phi^{[u]n[/u]+[u]m[/u]}\)
+
+For this is identically true when [u]m[/u]=[u]n[/u]=1; and if it be
+true when [u]m[/u]=1 and [u]n[/u] is not greater than N, it is easily
+seen to be true when [u]n[/u]=1 and [u]m[/u] is not greater than [del]1+N[/del] [ins]2+N[/ins].
+For [del]\phi^{(1+M)+1}[/del] [ins]\phi^{1+\underline{M}+1}[/ins] = \(\phi^1 \cdot \frac{1}{\phi^{\underline{M}+1}}\) = [del]\(\phi^{1+(\underline{M}+1)}\)[/del] [ins]\phi^{1+(\underline{M}+1)}\)[/ins] For in that case,
+\(\phi^{(\underline{M}+1)+1} = \phi^1 \cdot \phi^{\underline{M}+1} = \phi^1 \cdot \phi^{1+\underline{M}} = \phi^{1+(1+\underline{M})} = \phi^{2+\underline{M}}\)
+This proves that \(\phi^{\underline{m}+1} = \phi^{1+\underline{m}}\). But further, if (\(\delta\)) holds
+so long as [u]m[/u] is not greater than N, it also holds so long as
+[u]n[/u] is not greater than 1+N. For, in that case,
+\(\phi^{\underline{m}+(1+\underline{N})} = \phi^{(\underline{m}+1)+\underline{N}} = \phi^{\underline{N}+(\underline{m}+1)} = \phi^{\underline{N}} \cdot \phi^{\underline{m}+1} = \phi^{\underline{N}} \cdot \phi^{1+\underline{m}}\)
+\(= \phi^{\underline{N}+(1+\underline{m})} = \phi^{(\underline{N}+1)+\underline{m}} = \phi^{\underline{N}+1} \cdot \phi^{\underline{m}} = \phi^{1+\underline{N}} \cdot \phi^{\underline{m}} = \phi^{(1+\underline{N})+\underline{m}}\)

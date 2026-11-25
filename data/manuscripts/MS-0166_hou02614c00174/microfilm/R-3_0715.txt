@@ -1,0 +1,31 @@
+[pn]289[/pn]
+
+The number of faces is $\frac{60}{3} = 20$;
+The number of summits is $\frac{60}{5} = 12$;
+making the dodecaedral icosahedron.
+
+In general if $Y$ is odd and larger than 5
+$E - Z = [del]E[/del] (Y - 2) x$
+$EZ = 2Yx$
+$(E + Z)^2 = (Y - 2)^2 x^2 + 8Yx$
+
+We have for one solution
+$E + Z = (Y - 2)x + 4$
+for this makes $(E + Z)^2 = (Y - 2)^2 x^2 + 8Yx - 16x + 16$
+[del]and putting[/del] or $x = 1$
+whence $E = Y$, $Z = 2$. But this solution gives nothing new.
+To find whether there is or is not another according as
+there is a positive [ins]whole[/ins] number $Q$ such that
+$E + Z = (Y - 2)x + 4 + 2Q$
+$(E + Z)^2 = (Y - 2)^2 x^2 + 8Yx - 16x + 16 + 4(Y - 2)Qx + 16Q + 4Q^2$
+or $0 = -16x + 16 + 4(Y - 2)Qx + 16Q + 4Q^2$
+or $\{ [del]4[/del] - (Y - 2)Q \} x = (Q + 2)^2$
+
+Now it is evident that if $Y$ is odd and exceeds 5, $Y - 2 > 4$
+and the first member of this equation is negative, there is,
+[del]therefore, no possible solution[/del], except those already obtained.
+
+Next [del]part[/del] [ins]suppose[/ins] $Y$ [ins]to be an[/ins] even number. If $Y = 4$, we have
+$(4 - Z)(4 + E) = 16$.
+
+The only solution we have not already had is $4 - Z = 1$ $4 + E = 16$

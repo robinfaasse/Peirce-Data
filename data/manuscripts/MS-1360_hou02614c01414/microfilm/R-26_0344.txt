@@ -1,0 +1,34 @@
+§5. I now adapt the above equations to a continuous
+distribution of the weight. We put
+[del]s[/del] [ins]s[/ins], the radius of curvature
+[del]the point[/del] [ins]$\xi$[/ins], the value of $x$ for the centre of gravity of the weights [del]from the origin to the variable point[/del] [ins]$\underline{\text{from the origin to the variable point}} = \bar{x}$[/ins]
+$r$, the distance of the [del]variable[/del] [ins]point[/ins] from the origin $= \sqrt{x^2+y^2}$
+$\theta$, the angular [del]depression[/del] [ins]elevation[/ins] of the point above the horizon as seen
+from the origin $= \text{arc tan } \frac{y}{x}$.
+
+Accents are added to $x, y, [del]s[/del], r, \theta, \xi,$ and $\omega$ when the origin
+is taken at $H$, the lowest point. Thus [del]$\frac{\xi_0'}{\xi_0'} = \frac{\xi_H}{\xi_H}$[/del] [ins]$\frac{1}{y_0'} = \frac{1}{y_H}$ etc[/ins] [del]$x' = x - x_H$[/del] [ins]$y_0' = y_H$ etc[/ins]
+[ins]$\xi_0' = -\xi_H$[/ins] [ins]$x' = x - x_H$[/ins] [ins]$y' = y - y_H$[/ins]
+
+Then besides the general formulae
+($1'$) [del]$ds$[/del] $\sec \tau = \frac{ds}{dx}$ $\text{cosec } \tau = \frac{ds}{dy}$ $\tan \tau = \frac{dy}{dx}$ $s = \frac{ds}{d\tau}$
+
+we have
+[del]$\omega = \omega_0 + Q \tan \tau = Q (\tan \tau - \tan \tau_0)$[/del] or $\omega' = Q \tan \tau$
+[del]$q = Q \sec \tau$[/del]
+$\xi' = \frac{r' \sin (\tau - \theta')}{\sin \tau}$ or $\tan \tau = \frac{y'}{x' - \xi'}$
+
+$\bar{x} = \frac{x_m + x_n}{2} + \frac{x_m - x_n}{2} \frac{\sin (\tau_m + \tau_n)}{\sin (\tau_m - \tau_n)} - \frac{y_m - y_n}{\tan \tau_m - \tan \tau_n}$
+
+$\omega' = Q \tan \tau$
+$q = Q \sec \tau$
+$Q = [del]\omega_0[/del] \omega_H \frac{\xi_H}{y_0'} = \omega_N' \frac{x_N' - \xi_N'}{y_N'} = \frac{\omega_0'}{-\tan \tau_0}$
+
+[fig]Right triangle with hypotenuse sloping up to the right[/fig]
+[fig]Coordinate axes with a curve and shaded area under it[/fig]
+[fig]Two intersecting lines forming a V-shape[/fig]
+
+$\frac{1}{2} \frac{y_0' + y_N'}{y_0' y_N'} \omega_N' \xi_N' + \frac{1}{2} \frac{y_N' - y_0'}{y_0' y_N'} (\omega_N' [del]\xi_N'[/del] - \xi_N') = \frac{\omega_N' x_N}{y_N'}$
+
+$\bar{x} = \frac{1}{2} (\omega_2 - \omega_1) \frac{\bar{x}_2^2}{\omega_2 - \omega_1} + (\omega_1 - \omega_2) \frac{\bar{x}_1^2}{\omega_2 - \omega_1}$
+$\omega_1 (\bar{x}_1^2 - \bar{x}_2^2) + \omega_2 (\bar{x}_2^2 - \bar{x}_1^2)$

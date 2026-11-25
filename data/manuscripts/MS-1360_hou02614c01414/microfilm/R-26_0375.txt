@@ -1,0 +1,21 @@
+infinitesimal portion considered. The condition that the three middle sketches must extend between two points fixed as far as the variation under consideration is concerned makes
+[fig]curve with tangent angles labeled tau_n-2 to tau_n+2 and fixed points[/fig]
+$$\sin \tau_{n-1} + \sin \tau_n + \sin \tau_{n+1} = \text{Constant},$$
+$$\cos \tau_{n-1} + \cos \tau_n + \cos \tau_{n+1} = \text{Constant};$$
+or, differentiating,
+$$\cos \tau_{n-1} \cdot \delta \tau_{n-1} + \cos \tau_n \cdot \delta \tau_n + \cos \tau_{n+1} \cdot \delta \tau_{n+1} = 0,$$
+$$\sin \tau_{n-1} \cdot \delta \tau_{n-1} + \sin \tau_n \cdot \delta \tau_n + \sin \tau_{n+1} \cdot \delta \tau_{n+1} = 0.$$
+These equations give
+$$\delta \tau_{n+1} = - \frac{\sin (\tau_n - \tau_{n-1})}{\sin (\tau_{n+1} - \tau_{n-1})} \delta \tau_n,$$
+$$\delta \tau_{n-1} = - \frac{\sin (\tau_{n+1} - \tau_n)}{\sin (\tau_{n+1} - \tau_{n-1})} \delta \tau_n.$$
+or, when the curvature is not infinite $\delta \tau_{n+1} = \delta \tau_{n-1} = - \frac{1}{2} \delta \tau_n$
+Under these conditions
+$$(\tau_{n+2} - \tau_{n+1})^2 + (\tau_{n+1} - \tau_n)^2 + (\tau_n - \tau_{n-1})^2 + (\tau_{n-1} - \tau_{n-2})^2$$
+is to be made a minimum; so that
+$$-2(\tau_{n+2} - \tau_{n+1})\delta \tau_{n+1} + 2(\tau_{n+1} - \tau_n)(\delta \tau_{n+1} - \delta \tau_n) + 2(\tau_n - \tau_{n-1})(\delta \tau_n - \delta \tau_{n-1}) + 2(\tau_{n-1} - \tau_{n-2})\delta \tau_{n-1}$$
+$= 0$. That is
+$$(-\tau_{n+2} + 2\tau_{n+1} - \tau_n)\delta \tau_{n+1} + (-\tau_{n+1} + 2\tau_n - \tau_{n-1})\delta \tau_n + (-\tau_n + 2\tau_{n-1} - \tau_{n-2})\delta \tau_{n-1} = 0$$
+or
+[del]$\frac{\tau_{n+2} - 2\tau_{n+1} + \tau_n}{\tau_{n+1}}$[/del] $\tau_{n+2} - 4\tau_{n+1} + 6\tau_n - 4\tau_{n-1} + \tau_{n-2} = 0$.
+that is
+[del]$\frac{d^4 \theta}{ds^4}$[/del] $\frac{d^4 \theta}{ds^4} = 0$

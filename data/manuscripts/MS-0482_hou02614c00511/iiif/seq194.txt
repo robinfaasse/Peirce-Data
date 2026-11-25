@@ -1,0 +1,27 @@
+$a = a \tilde{j} 0 + a \cdot [ ( a \tilde{j} 1 ) \cdot \overline{a} ] T + a \cdot ( \bar{a} T \cdot \bar{a} ) T$. Finally, $a = a \cdot a T + a \cdot ( \bar{a} \tilde{j} 1 )$. 52
+But $a \cdot ( \bar{a} \tilde{j} 1 ) = a \cdot ( \bar{a} \tilde{j} 1 ) \cdot ( \bar{a} T \cdot \bar{a} ) T + a \cdot ( \bar{a} \tilde{j} 1 ) \cdot \{ [ ( a \tilde{j} 1 ) + a ] \tilde{j} 1 \}$
+And [del]$a \cdot ( \bar{a} \tilde{j} 1 ) \cdot \{ [ ( a \tilde{j} 1 ) + a ] \tilde{j} 1 \}$[/del]
+[del]$= a \cdot ( \bar{a} \tilde{j} 1 ) \cdot ( \bar{a} T \cdot \bar{a} ) T +$[/del] $a \cdot \{ \bar{a} \cdot [ ( a \tilde{j} 1 ) + a ] \tilde{j} 1 \}$
+$= a \cdot [del]( \bar{a} \tilde{j} 1 ) \cdot ( \bar{a} T \cdot \bar{a} ) T +[/del] a \cdot \{ \bar{a} ( a \tilde{j} 1 ) \tilde{j} 1 \}$
+$= a \cdot [del]( \bar{a} \tilde{j} 1 ) \cdot ( \bar{a} T \cdot \bar{a} ) T +[/del] a \cdot ( \bar{a} \tilde{j} 1 ) \cdot ( a \tilde{j} 1 \tilde{j} 1 )$
+Now $( 1 \tilde{j} 1 )_{ik} = \Pi_j ( 1_{ij} + 1_{jk} )$ and if there are more than two objects in the
+universe, $j$ may be so taken that $1_{ij} = 0$ and $1_{jk} = 0$, so that $1 \tilde{j} 1 = 0$. Hence
+the last line of the formula
+$= a \cdot [del]( \bar{a} \tilde{j} 1 ) \cdot ( \bar{a} T \cdot \bar{a} ) T +[/del] a \cdot ( \bar{a} \tilde{j} 1 ) \cdot ( a \tilde{j} 0 )$
+[del]$= a \cdot ( \bar{a} \tilde{j} 1 ) \cdot ( \bar{a} T \cdot \bar{a} ) T +$[/del] $a \cdot ( \bar{a} \tilde{j} 1 ) \cdot ( a \tilde{j} 1 \cdot T )$
+$= a \cdot [del]( \bar{a} \tilde{j} 1 ) \cdot ( \bar{a} T \cdot \bar{a} ) T +[/del] a \cdot ( \bar{a} \tilde{j} 1 ) \cdot ( a \tilde{j} 1 ) \cdot ( a \tilde{j} T )$
+$= a \cdot [del]( \bar{a} \tilde{j} 1 ) \cdot ( \bar{a} T \cdot \bar{a} ) T +[/del] a \cdot ( \bar{a} \tilde{j} 1 ) \cdot ( a \tilde{j} 1 )$
+$= a \cdot [del]( \bar{a} \tilde{j} 1 ) \cdot ( \bar{a} T \cdot \bar{a} ) T +[/del] a \cdot ( \bar{a} \cdot a \tilde{j} 1 )$
+$= a \cdot [del]( \bar{a} \tilde{j} 1 ) \cdot ( \bar{a} T \cdot \bar{a} ) T +[/del] a \cdot ( 0 \tilde{j} 1 )$
+But if there is more than one object in the universe $0 \tilde{j} 1 = 0$ so that
+$a \cdot ( \bar{a} \tilde{j} 1 ) = a \cdot ( \bar{a} \tilde{j} 1 ) \cdot ( \bar{a} T \cdot \bar{a} ) T$ and thus
+$a = a \tilde{j} 0 + a \cdot [ ( a \tilde{j} 1 ) \cdot \bar{a} ] T + a \cdot ( \bar{a} T \cdot \bar{a} ) T \cdot a T + a \cdot ( \bar{a} \tilde{j} 1 )$.
+Now we have the general formula $( b + b ) \tilde{j} s = \sum_{p q} ( b \tilde{j} p ) \cdot ( b \tilde{j} q ) \cdot ( p \cdot q = s )$
+We apply this to find $\overline{a \tilde{j} 1}$. This is the meaning of the symbol $D \tilde{A} \tilde{B} T \tilde{O}$.
+Since, $\bar{a}$ includes precisely what $a$ excludes, and vice versa,
+[del]$\bar{a} = D \tilde{A} \tilde{B} T \tilde{O} =$[/del] $\bar{a} = \bar{a} \tilde{j} 0 + \bar{a} \cdot [ ( \bar{a} \tilde{j} 1 ) \cdot a ] T + \bar{a} \cdot ( a T \cdot a ) T \cdot \bar{a} T + \bar{a} \cdot ( a \tilde{j} 1 )$
+[ins]Here the fifth character corresponds to the first term, the fourth character to the [del]third[/del][ins]second[/ins], etc.[/ins]
+[del]Hence, $\overline{a T} = ( \bar{a} \tilde{j} 0 ) T + \{ \bar{a} \cdot [ ( \bar{a} \tilde{j} 1 ) \cdot a ] T \} T + [ \overline{ \bar{a} \cdot a T \cdot ( a \cdot a T ) T } ] T + [ \bar{a} \cdot ( a \tilde{j} 1 ) ] T$[/del]
+Now the first term $( \bar{a} \tilde{j} 0 ) T = \bar{a} \tilde{j} 0$. For [del]$( a \tilde{j} 0 ) T$[/del] For by [del]every[/del] a continually useful
+associative formula $( a \tilde{j} 0 ) T \prec a \tilde{j} 0 T$; and $0 T = 0$; so that $( \bar{a} \tilde{j} 0 ) T \prec \bar{a} \tilde{j} 0$.
+On the other hand, $b \tilde{j} b \prec b$ unless $b = 0$. Consequently, $T \tilde{j} 1 \prec T T$. But $1 \prec b \tilde{j} 1$.

@@ -1,0 +1,13 @@
+[marginalia]
+Series
+8
+[/marginalia]
+
+The first nine lines of this table give the first 34 members of the series; and many others are given in the lower lines. They be useful in general computation. I have nothing more in particular to say of the series, of a strictly mathematical nature. I may, though, just note that among the numberless formulae that doubtless hold [del]of it[/del] [ins]good[/ins], there is this, where $l < 2^{m-1}$:
+$$N2^n \cdot N(2^m + l) = N(2^n + 2^{n-m+1} + l) + N(2^{n-m+1} + 2^{m+1} - l - 1).$$
+Thus, take $l = 2$, $m = 3$, $n = 4$. Then, $N2^4 = 6$; $2^m + l = 10$, $N10 = 8$; $6 \times 8 = 48$
+$2^4 + 2^2 + 2 = 22$, $N22 = 13$; $2^2 + 2^4 - 3 = 14$, $N14 = 35$; $13 + 35 = 48$.
+Take $l = 3$, $m = 3$, $n = 5$. Then, $N2^5 = 7$; $2^m + l = 11$; $N11 = 7$; $7 \times 7 = 49$.
+$2^5 + 2^3 + 3 = 43$; $N43 = 18$; $2^3 + 2^4 - 4 = 20$; $N20 = 31$; $18 + 31 = 49$.
+
+I will mention how this series happened to occur to me. I was endeavoring to make a pupil understand that while we may have an unanalyzable feeling of someness, yet as far as mathematical reasoning is concerned, there is absolutely [del]no[/del] [ins]no[/ins] idea of quantity, except one which resolves itself into serial order. This my pupil seemed to understand

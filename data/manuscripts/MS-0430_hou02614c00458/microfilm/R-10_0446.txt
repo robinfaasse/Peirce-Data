@@ -1,0 +1,18 @@
+[pn]Logic
+III
+73[/pn]
+
+[del]clauses of the definition taken singly.[/del]
+
+[u]Propositions deduced from A.[/u]
+
+(67) If there be [del]an[/del] [ins]endless[/ins] series of characters, [u]m[/u][sub]i[/sub], where the [u]i[/u] is simply [del]the[/del] [ins]a[/ins] whole number, which may be any [del]whole[/del] number, the numbers being attached to the different [u]m[/u]'s to distinguish them one from another, and if
+[del]((((((m[sub]0[/sub] <_ m[sub]1[/sub] ) & m[sub]1[/sub] <_ m[sub]2[/sub]) & m[sub]2[/sub] <_ m[sub]3[/sub]) & ... & etc etc[/del]
+[u]m[/u] <_ [u]m[/u][sub]0[/sub] be called [del]g[/del] [u]m[/u][sub]1[/sub]
+[u]m[/u][sub]1[/sub] <_ [u]n[/u][sub]1[/sub] be called [u]m[/u][sub]2[/sub] etc
+and, in general, [u]m[/u][sub]i[/sub] <_ [u]n[/u][sub]i[/sub] be called [u]m[/u][sub]i+1[/sub]
+then [u]m[/u][sub]0[/sub] is [del]true[/del] [ins]of[/ins] [del][fig]scribble[/fig][/del] [u]v[/u].
+For, by [del]A[/del] [ins]([u]64[/u])[/ins], whatever [u]i[/u] may be, either [u]m[/u][sub]i[/sub] or [u]m[/u][sub]i+1[/sub] is true of [u]v[/u]. Now [u]m[/u][sub]00[/sub] and [u]m[/u][sub]00+1[/sub] are the same. Hence, [u]m[/u][sub]00[/sub] is true of [u]v[/u].
+
+(68) Either [u]v[/u] is [del]m[/del] [ins][u]m[/u] <_ [u]n[/u][/ins] or it is both [u]m[/u] and ([u]m[/u] <_ [u]n[/u]) <_ [u]l[/u].
+For, by [del]A[/del] [ins]([u]64[/u])[/ins], [del]either [u]v[/u] is either [del]m[/del] [ins]not[/ins] [u]m[/u] or [u]m[/u] &[/del] [ins]and also[/ins] is either [u]m[/u] or ([u]m[/u] <_ [u]n[/u]) <_ [u]l[/u], whatever [ins]characters[/ins] [u]m[/u], [u]n[/u], and [u]l[/u], may be.

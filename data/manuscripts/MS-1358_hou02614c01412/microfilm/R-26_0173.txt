@@ -1,0 +1,47 @@
+[marginalia]Morrison's Bridge 1893 Feb 19[/marginalia] [pn]3[/pn]
+
+[fig]Diagram showing a curve with vertical lines at intervals n-s, n, n+s, n+2s[/fig]
+
+[del]y_n = \frac{1}{2} \frac{S}{[unclear]} [ \sin (\vartheta_n + \theta_n) - \sin \vartheta_n ][/del]
+
+y_n = \frac{1}{2} S \sec \vartheta_n [ \sin (\vartheta_n + \theta_n) - \sin \vartheta_n ]
+
+y_{n+s} = [del]\frac{1}{2}[/del] S \sec \vartheta_n [ \sin (\vartheta_n + \theta_n) - \sin \vartheta_n ] + \frac{1}{2} S \sec \vartheta_{n+s} [ \sin (\vartheta_{n+s} + \theta_{n+s}) - \sin \vartheta_{n+s} ]
+
+y_n = \frac{1}{2} S [ \sin \theta_n - \tan \vartheta_n (1 - \cos \theta_n) ]
+
+y_{n+s} = \frac{1}{2} S
+
+0 = \sin \theta_n - \tan \vartheta_n (1 - \cos \theta_n) + \sin \theta_{n+s} - \tan \vartheta_{n+s} (1 - \cos \theta_{n+s})
+
+[u]It will be better to assume the joint between n and n+s is vertically lifted.[/u]
+
+S \sec \vartheta_n [ \sin (\vartheta_n + \theta_n) ] = S \sin \varphi_n + S \tan \vartheta_n
+
+\sin \theta_n + \cos \theta_n \tan \vartheta_n = [del]S[/del] \sin \varphi_n + [del]S[/del] \tan \vartheta_n
+
+\sin (\vartheta_n + \theta_n) = \sin \varphi_n \cos \vartheta_n + \sin \vartheta_n
+
+\sin \varphi = \tan \psi
+
+\sin (\vartheta_n + \theta_n) = \frac{\sin (\psi_n + \vartheta_n)}{\cos \psi_n}
+
+\theta_n = \arcsin (\sin \varphi_n \cos \vartheta_n + \sin \vartheta_n) - \vartheta_n
+
+\theta_n - \frac{1}{2} \tan \vartheta_n \cdot \theta_n^2 = \varphi_n - \frac{1}{6} \varphi_n^3
+
+\theta_n^2 - 2 \cot \vartheta_n \cdot \theta_n = 2 \cot \vartheta_n \cdot \sin \varphi_n + \cot^2 \vartheta_n
+
+\theta_n = \cot \vartheta_n \pm \frac{\cos \vartheta_n}{\sin \vartheta_n} \sqrt{1 + 2 \tan \vartheta_n \sin \varphi_n}
+
+\varphi < \theta
+
+\theta_n = \varphi_n + \frac{1}{2} \tan \vartheta_n \cdot \varphi_n^2
+
+(1+x)^{\frac{1}{2}} = 1 + \frac{1}{2} x - \frac{1}{8} x^2
+
+\frac{1}{2} (1+x)^{-\frac{1}{2}} = 1 + \sin \varphi \tan \vartheta - \frac{1}{2} \tan^2 \vartheta \cdot \sin^2 \varphi
+
+-\frac{1}{4} (1+x)^{-\frac{3}{2}}
+
+\frac{\tan \vartheta \sin \varphi}{1 + \tan \vartheta \cdot \varphi + \frac{1}{2} \tan^2 \vartheta \cdot \varphi^2} - \frac{1}{2} \tan^2 \vartheta \cdot \varphi^2

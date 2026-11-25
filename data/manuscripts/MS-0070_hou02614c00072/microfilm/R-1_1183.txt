@@ -1,0 +1,21 @@
+[pn]N11[/pn]
+
+$(342)_{ijklmno}$ means that every [ins]individual[/ins] [del]member[/del] [ins]denoted by an index[/ins]
+is either a member of a triplet or of a doublet.
+
+I would use a special form of parenthesis (I will not recommend any
+particular form as more appropriate than another) which I would use
+in the following way:
+
+$\Pi_i [\bar{\odot} \Psi 1]_i$ means any object which is sun is, as such, member of a
+singlet, i.e. $\Pi_i \Pi_j \bar{\odot}_i + \bar{\odot}_j + \Psi_{ij}$
+
+If $\Psi$ means is a satellite of Jupiter, then
+$\Pi_i \{\Psi \Psi 5\}_i$ means that whatever is a satellite of Jupiter is,
+as such, a member of a quintuplet, i.e.
+
+$\Sigma_i \Sigma_j \Sigma_k \Sigma_l \Sigma_m \Pi_n \bar{\Psi}_i + \bar{\Psi}_j + \bar{\Psi}_k + \bar{\Psi}_l + \bar{\Psi}_m + \Upsilon_{ij} \cdot \Upsilon_{ik} \cdot \Upsilon_{il} \cdot \Upsilon_{im}$
+$\cdot \Upsilon_{jk} \cdot \Upsilon_{jl} \cdot \Upsilon_{jm} \cdot \Upsilon_{kl} \cdot \Upsilon_{km} \cdot \Upsilon_{lm} \cdot (\bar{\Upsilon}_{in} + \bar{\Upsilon}_{jn}$
+$+ \bar{\Upsilon}_{kn} + \bar{\Upsilon}_{ln} + \bar{\Upsilon}_{mn})$
+
+The saving here is enormous.

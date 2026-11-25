@@ -1,0 +1,39 @@
+[marginalia]
+Calc Diff
+19
+[/marginalia]
+
+[pn]17[/pn]. It will by no means follow that because there is an
+operation, [u]\Phi[/u], such that [u]v[/u]_{m} = [u]\Phi[/u] [u]u[/u]_{m}, therefore there will be
+an operation [u]\Psi[/u] such that [u]u[/u]_{m} = [u]\Psi[/u] [u]v[/u]_{m}. This is illustrated in
+the following example:
+
+[u]u[/u]_{1} = 0
+[u]u[/u]_{2} = 0 [u]r[/u]_{1}
+[u]u[/u]_{3} = 0 [u]r[/u]_{1} [u]r[/u]_{2}
+[u]u[/u]_{4} = 1 [u]r[/u]_{2}
+[u]u[/u]_{5} = 1 [u]r[/u]_{2} [u]r[/u]_{3}
+[u]u[/u]_{6} = 2 [u]r[/u]_{3}
+[u]u[/u]_{7} = 2 [u]r[/u]_{3} [u]r[/u]_{4}
+[u]u[/u]_{8} = 3 [u]r[/u]_{4}
+[u]u[/u]_{9} = 3 [u]r[/u]_{4} [u]r[/u]_{5}
+[u]u[/u]_{10} = 4 [u]r[/u]_{5}
+[u]u[/u]_{11} = 4 [u]r[/u]_{5} [u]r[/u]_{6}
+[u]u[/u]_{12} = 5 [u]r[/u]_{6}
+[u]u[/u]_{13} = 5 [u]r[/u]_{6} [u]r[/u]_{7}
+[u]u[/u]_{14} = 6 [u]r[/u]_{7}
+
+[u]v[/u]_{1} = 0 [u]r[/u]_{1}
+[u]v[/u]_{2} = 0 [u]r[/u]_{1} [u]r[/u]_{2}
+[u]v[/u]_{3} = 0 [u]r[/u]_{1} [u]r[/u]_{2} [u]r[/u]_{3}
+[u]v[/u]_{4} = [del]1[/del] [ins]1[/ins] [u]r[/u]_{2} [u]r[/u]_{3}
+[u]v[/u]_{5} = 1 [u]r[/u]_{2} [u]r[/u]_{3} [u]r[/u]_{4}
+[u]v[/u]_{6} = 3 [u]r[/u]_{4}
+[u]v[/u]_{7} = 2 [u]r[/u]_{3} [u]r[/u]_{4} [u]r[/u]_{5}
+[u]v[/u]_{8} = 2 [u]r[/u]_{4} [u]r[/u]_{5}
+[u]v[/u]_{9} = 0 [u]r[/u] 2 [u]r[/u] 4 [u]r[/u] 5 [u]r[/u] 6
+[u]v[/u]_{10} = 0 [u]r[/u] [u]r[/u] 5 [u]r[/u] 6
+[u]v[/u]_{11} = 0 [u]r[/u] 1 [u]r[/u] 2 [u]r[/u] 5 [u]r[/u] 6 [u]r[/u] 7
+[u]v[/u]_{12} = 0 [u]r[/u] 1 [u]r[/u] [u]r[/u] 6 [u]r[/u] 7
+[u]v[/u]_{13} = 0 [u]r[/u] 1 [u]r[/u] 3 [u]r[/u] 6 [u]r[/u] 7
+[u]v[/u]_{14} = 1 [u]r[/u] 3 [u]r[/u] 7

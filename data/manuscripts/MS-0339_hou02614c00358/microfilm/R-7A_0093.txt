@@ -1,0 +1,25 @@
+[marginalia]
+1891 [date]Feb 24[/date]
+[/marginalia]
+
+[pn]83R[/pn]
+
+$x \prec y \qquad \bar{x} + y$
+
+$x \prec (y \prec z) \qquad \bar{x} + (\bar{y} + z) = \bar{y} + (\bar{x} + z)$
+$= y \prec (\bar{x} \prec z)$
+
+[u]                                                                                                    [/u]
+
+[del]$x$[/del] $y \prec ([del]\bar{x}[/del] [ins]x[/ins] \prec y) \qquad y \therefore \bar{x} + y$
+
+$x \prec x \qquad \infty \therefore \bar{x} + x$
+
+$y \prec ([del]\bar{x}[/del] [ins]x[/ins] \prec y) \qquad \bar{y} + \bar{x} + y$
+
+$(x \prec y) \prec z \qquad x\bar{y} + z$
+
+$x \prec (y \prec z) \prec (x \prec y) \prec z$
+
+[del]$(x \prec y) \prec (x \prec z) \prec (y \prec z)$[/del]
+$(x \prec y) \prec x \prec y$

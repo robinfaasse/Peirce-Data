@@ -1,0 +1,11 @@
+[u]Theorem 3.[/u] If [u]x[/u] < [u]y[/u] and [u]u[/u] < [u]v[/u], then
+[u]x[/u] + [u]u[/u] < [u]y[/u] + [u]v[/u]      [u]x[/u] , [u]u[/u] < [u]y[/u] , [u]v[/u].
+
+[u]Proof[/u]. By III and I
+[u]x[/u] < [u]y[/u] < [u]y[/u] + [u]v[/u].
+By II, III, and I
+[u]u[/u] < [u]v[/u] < [u]y[/u] + [u]v[/u].
+Hence, by IV,
+[u]x[/u] + [u]u[/u] < [u]y[/u] + [u]v[/u].
+Whence, by corollary 1,
+If [u]y[/u] < [u]x[/u] and [u]v[/u] < [u]u[/u] then [u]y[/u] , [u]v[/u] < [u]x[/u] , [u]u[/u].

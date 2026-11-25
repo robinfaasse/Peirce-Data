@@ -1,0 +1,23 @@
+[pn]Logic
+III
+75[/pn]
+
+(19) If [u]t[/u], then necessarily [u]x[/u];
+(20) [del](20)[/del] If [u]a[/u] be such that, whatever [u]x[/u] may be, from [u]a[/u] would follow [u]x[/u],
+then [del]a is f[/del] [ins]from [u]a[/u] would follow [u]f[/u][/ins].
+Substituting in (1), [u]v[/u] for [u]x[/u] [ins]and [u]f[/u] for [u]y[/u][/ins] since [u]v[/u] is true, (by
+the definition of "true"), we get
+(21) If [u]v[/u], then [del]necessarily[/del] [u]f[/u].
+In (19), substituting [u]v[/u] for [u]x[/u], we get
+(22) If [u]t[/u], then [u]v[/u].
+In (12), substituting [u]v[/u] for [u]y[/u] and [u]f[/u] for [u]z[/u], we get, since [u]f[/u]
+is false,
+(23) If [u]v[/u], then [u]f[/u].
+In (17) substituting [u]f[/u] for [u]x[/u], we get
+(24) If [u]f[/u], then [u]v[/u].
+
+The operation of composition, which is signified by
+the dot, may be defined in three clauses, as follows:
+(25) If [u]x[/u].[u]y[/u], then necessarily [u]x[/u];
+(26) If [u]x[/u].[u]y[/u], then necessarily [u]y[/u];
+(27) If [u]z[/u], [del]then[/del] if [u]y[/u], [del]then[/del] [ins]necessarily[/ins] [u]x[/u].[u]y[/u].

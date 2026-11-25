@@ -1,0 +1,22 @@
+[u]Logic of Quantity[/u]
+
+[u]Demonstration[/u]. Suppose $S_{lm}$ and $S_{mn}$. Then, I say that $S_{ln}$. For multiply the hypotheses by the square of (7), changing in the unaccented factor $m$ to $l$ and $n$ to $m$ and identify $s$ with $r'$ and write $j$ in place of $i'$. Then we get
+$$\Pi_{s'} \Sigma_{r'} \Sigma_r \ p_{i'} \ p_j \cdot (\bar{q}_{ns'} + q_{mr'} \cdot r_{jr's'}) \cdot (\bar{q}_{mr'} + q_{lr} \cdot r_{irr'})$$
+This gives
+$$\Pi_{s'} \Sigma_{r'} \Sigma_r \ p_{iij'} \cdot (\bar{q}_{ns'} + q_{lr} \cdot r_{irr'} \cdot r_{jr's'})$$
+or
+$$\Pi_{s'} \Sigma_r \ p_{\{\underline{ij}\}} \cdot \{ \bar{q}_{ns'} + q_{lr} \cdot r_{\{\underline{ij}\}rs'} \}$$
+Multiplying by (7) and [del]substituting[/del] [ins]identifying[/ins] in (7) $i$ with $\{ij\}$ [ins]and write $l$[/ins] and in the proposition just written $s'$ with $s$, we get $S_{ln}$.
+Q.E.D.
+
+Art. 3. Scholium 1. Suppose $m$ and $n$ [del]to be[/del] [ins]to be[/ins] two collections such that
+$$q_{nC} \cdot q_{nD} \cdot q_{nE}$$
+$$\Pi_l \Pi_t \ \bar{q}_{ml} + \bar{q}_{tl} + q_{tA} + q_{tB} \ .$$
+Multiply the former of these propositions into the cube of the latter and the cube of (6), [del]identify[/del] and the cube of (1), identifying $l$ with $r$, $l'$ with $r'$, $l''$ with $r''$, $i'$ and $i''$ with $i$, $q_{tx}$ with $r_{ixC}$, etc., $q_{t'x}$ with $r_{ixD}$ etc., $q_{t''x}$ with $r_{ixE}$, etc., $s$ with $C$, $s'$ with $D$, $s''$ with $E$, $e$ with $A$, $e'$ and $e''$ with $B$, $f$ and $f'$ with $C$, $f''$ and $g$ with $D$, $g'$ and $g''$ with $E$, and multiplying by $T_{CD} \cdot T_{CE} \cdot T_{DE}$, we get after reduction
+[del]N[/del] $\bar{S}_{mn}$ .
+
+So also, if we make substantially the same assumption in regard to $m$, namely that
+$$q_{mA} \cdot q_{mB} \cdot \Pi_l \ \bar{q}_{ml} + l_{lA} + l_{lB} \ ,$$
+but in regard to $n$ merely assume that $m$ is a part of it, namely,
+$$\Pi_u \ \bar{q}_{mu} + q_{nu} \qquad \Sigma_v \ q_{nv} \cdot \bar{q}_{mv} \ ,$$
+we first multiply the last proposition by the last factor of the assumption about $m$ developed into the form $\Pi_l \ \bar{q}_{ml} \cdot T_A \cdot T_B + \bar{q}_{ml} (l_{lA} + l_{lB})$ and

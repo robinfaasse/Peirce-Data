@@ -1,0 +1,49 @@
+[fig]Diagram showing a curve with several points and tangent lines[/fig]
+
+$$\frac{\Xi_0}{\Xi_n} \frac{H_0}{H_n}$$
+
+$$\Xi_0^2 = - M H_0$$
+$$\Xi_n^2 = - M H_n$$
+
+[fig]Diagram showing a sequence of points labeled 2, 24, 46, 6 and 13, 35[/fig]
+
+$$\frac{\xi_2 - \Xi_0}{r_1} = \frac{\xi_3 - \xi_1}{r_2} = \frac{\Xi_4 - \xi_2}{r_3}$$
+
+$$\xi_2 (\frac{1}{r_1} + \frac{1}{r_3}) = \frac{\Xi_4}{r_3} + \frac{\Xi_0}{r_1}$$
+
+$$\xi_2 = \frac{(\frac{\Xi_4}{r_3} + \frac{\Xi_0}{r_1})}{\frac{1}{r_1} + \frac{1}{r_3}}$$
+
+[fig]Diagram showing a curve with tangent lines and points[/fig]
+
+$$\xi_2 = \frac{\Xi_4 r_1 + \Xi_0 r_3}{r_1 + r_3}$$
+
+$$\xi_1^2 = - M \eta_1$$
+$$\xi_1^2 = - A (\xi_2 - \Xi_0) \eta_1$$
+$$A_1 r_1 = \frac{M}{\xi_2 - \Xi_0} r_1$$
+$$= A_2 r_2 = \frac{M r_2}{\xi_3 - \xi_1} [del]r_2[/del]$$
+
+[fig]Diagram showing a curve with tangent lines[/fig]
+
+[del]\frac{M r_0}{r_0}[/del] $$\frac{M r_1}{\xi_2 - \Xi_0} = \frac{M r_2}{\xi_3 - \xi_1} = \frac{M r_3}{\Xi_4 - \xi_2} = \frac{M r_4}{\Xi_5 - \xi_3}$$
+
+[fig]Diagram showing a curve with tangent lines[/fig]
+
+$$\frac{M r_1}{\xi_2 - \Xi_0} = \frac{M r_2}{\Xi_3 - \xi_1}$$
+
+[fig]Diagram showing intersecting lines forming a triangle-like shape[/fig]
+
+$$\frac{M r_1}{\xi_2 - \Xi_0} + \frac{M r_2}{\Xi_3 - \Xi_0}$$
+
+$$\xi_1 - \Xi_0 = \frac{r_1}{r_1 + r_2} (\Xi_3 - \Xi_0) = \frac{M (r_1 + r_2)}{\Xi_3 - \Xi_0} = \frac{M r_1}{\xi_2 - \Xi_0} = \frac{M r_2}{\Xi_3 - \xi_1}$$
+
+$$\xi_2 - \xi_1 =$$
+
+$$\frac{\xi_2 - \Xi_0}{\Xi_3 - \Xi_0} = \frac{r_1}{r_1 + r_2}$$
+$$\frac{\xi_2 - \Xi_0}{M r_1} = \frac{\Xi_3 - \Xi_0}{M (r_1 + r_2)} = \frac{\Xi_3 - \xi_1}{M r_2}$$
+
+[del]\xi_3 - \xi_0 = (\Xi_3 - \Xi_0) \frac{r_2}{r_1 + r_2}[/del]
+[del]\xi_2 - \xi_1 + \Xi_3 - \Xi_0 =[/del]
+
+$$\xi_2 = [del]\xi_1[/del] [ins]\Xi_3[/ins] \frac{r_1}{r_1 + r_2} + \frac{\Xi_3 r_1}{r_1 + r_2} + \frac{\Xi_0 r_2}{r_1 + r_2}$$
+
+$$\xi_1 = \Xi_3 [del]\frac{r_1}{r_1 + r_2}[/del] [ins]\frac{r_2}{r_1 + r_2}[/ins] (\Xi_0 - \Xi_3) = \frac{r_1 \Xi_3 + r_2 \Xi_0}{r_1 + r_2}$$

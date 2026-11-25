@@ -1,0 +1,40 @@
+[pn]Logic of Quantity[/pn]
+
+$$\Pi_{e} \Pi_{f} \Pi_{g} \Pi_{e'} \Pi_{f'} \Pi_{g'} (\bar{r}_{ief} + \bar{r}_{ieg} + l_{fg}) \cdot (\bar{r}_{je'f'} + \bar{r}_{je'g'} + l_{f'g'}).$$
+
+Substituting in (2) $\{ij\}$ for $i$, that is, $\Sigma_{y} r_{ixy} \cdot r_{jyz}$ for $r_{ixz}$, (2) becomes
+
+$$\Sigma_{e''} \Sigma_{f''} \Sigma_{g''} \Sigma_{y} \Sigma_{y'} r_{ie''y} \cdot r_{ie''y'} \cdot [del][blackout][/del] r_{jy'g''} \cdot r_{f''g''} + p_{\{ij\}}$$
+
+Identifying, first, $e$ with $e''$, $f$ with $y$, $g$ with $y'$, the product of the two [ins]last[/ins] [del]fore[/del]po-
+sitions gives
+
+$$\Sigma_{f''} \Sigma_{g''} \Sigma_{y} \Sigma_{y'} \Pi_{e} \Pi_{f} \Pi_{g} l_{yy'} \cdot r_{jyf''} \cdot r_{jy'g''} \cdot r_{f''g''} \cdot (\bar{r}_{je'f'} + \bar{r}_{je'g'} + l_{f'g'}) + p_{\{ij\}}.$$
+
+Now the factor $l_{yy'}$ of the first term authorizes our identifying $y'$ with $y$
+throughout that first term; so that we get
+
+$$\Sigma_{f''} \Sigma_{g''} \Sigma_{y} \Pi_{e'} \Pi_{f'} \Pi_{g'} r_{jyf''} \cdot r_{jyg''} \cdot r_{f''g''} (\bar{r}_{je'f'} + \bar{r}_{je'g'} + l_{f'g'}) + p_{\{ij\}}.$$
+
+Now further identifying $e'$ with $y$, $f'$ with $f''$, and $g'$ with $g''$, we get
+
+$$p_{\{ij\}}$$ Q.E.D.
+
+[u]Art. 2. Definition 2.[/u] Let us say that a relation, $i$, [u]universally[/u]
+[u]transfers[/u] one collection, $n$, to another, $m$, and write $t_{imn}$, if, and only
+if, to every object of $n$ some object of $m$ is in the relation $i$. That is,
+
+[del](6)[/del] $\Pi_{m} \Pi_{n} \Pi_{i} \bar{t}_{imn} + q_{i}$
+
+(6) [del]$\leftarrow$[/del] $\Pi_{m} \Pi_{n} \Pi_{i} \Pi_{s} \Sigma_{r} \bar{t}_{imn} + \bar{q}_{ns} + q_{mr} \cdot r_{irs}$
+
+(7) $\Pi_{m} \Pi_{n} \Pi_{i} \Sigma_{s} \Pi_{r} q_{ns} \cdot (\bar{q}_{mr} + \bar{r}_{irs}) + t_{imn}$.
+
+[u]Corollary 3.[/u] Every relation universally transfers nothing, $0$, con-
+sidered as a collection, to every collection. For $\Pi_{s} \bar{0}_{s}$, or $\Pi_{s} \bar{q}_{0s}$; and
+multiplying this into (7), we get $\Pi_{m} \Pi_{i} t_{im[0]}$.
+
+[u]Corollary 4.[/u] Every converse of a universal relation [ins]universally[/ins] transfers every
+collection to the collection of the universe. For the converse of a universal
+relation is defined by $\Pi_{s} \Sigma_{r} r_{irs}$ and the collection of the universe is
+defined by $\Pi_{x} \infty_{x}$ or $\Pi_{x} q_{[\infty]x}$.

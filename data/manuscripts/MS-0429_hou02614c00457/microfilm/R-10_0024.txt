@@ -1,0 +1,47 @@
+[marginalia]
+[pn]19[/pn] [del]334[/del]
+[/marginalia]
+
+[marginalia]
+Foot-note continued
+[/marginalia]
+
+series is divergent from the very start, some use might commonly
+be made of it, if the same information could not otherwise be ob-
+tained more easily. The reason is, - or rather, one reason is, -
+that most series, even when divergent, approximate at last some-
+what to geometrical series, at least, for a considerable success-
+sion of terms. The series log ( 1 - x ) = x - 1/2 x[ins]²[/ins] - 1/3 x³ - 1/4
+x⁴ + etc is one that would not be judiciously employed in order
+to find the natural logarithm of 3, which is 1.0986, its successive
+terms being 2 - 2 - 8/3 - 4 - 32/5 - 32/3 + etc. Still, employing the
+common device of substituting for the last two terms that are to
+be used, say M and N, the expression M / ( 1 - N/M ), the succession
+of the first six values is 0.667, 1.143, 1.067, 1.128, 1.067, which
+do show some approximation to the value. The mean of the last
+two, which any professional computer would use ( supposing him to
+use this series, at all) would be 1.098, which is not very wrong.
+Of course, the computer would practically use the series log 3 = 1
++ 1/12 + 1/80 + 1/448 + etc., of which the terms written give the
+correct value to four places, if they are properly used.
+
+Struck by this circumstance, and making a[ins]n[/ins] inference of which it
+is sufficient to say that it was not mathematical, many of the old
+[del]mathematicians[/del] [ins]Mathematicians[/ins] pushed the use of divergent series beyond all rea-
+son. This was a case of mathematicians disputing about the va-
+lidity of a kind of inference that is not mathematical. No doubt,
+a sound logic ( such as has not hitherto been developed) would
+have shown clearly that that non-mathematical inference was not a
+sound one. But this is, I believe, the only instance in which
+any large party in the mathematical world ever proposed to rely,
+in mathematics, upon unmathematical reasoning. My proposition is
+that the mathematical reasoning is so much more evident than it is
+possible to render any doctrine of logic proper, - without just
+such reasoning, - that an appeal in mathematics to logic could only
+embroil a situation. On the contrary, such difficulties as may
+arise concerning necessary reasoning have to be solved by the lo-
+gician by reducing them to questions of mathematics. Upon these
+mathematical dicta, as we come clearly to see, the logician has
+ultimately to repose.
+
+[pn]244[/pn] So a double motive induces me to devote some preliminary

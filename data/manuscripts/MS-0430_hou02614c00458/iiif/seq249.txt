@@ -1,0 +1,17 @@
+Logic [u](73)[/u] Either x ~ y is true or y ~ x is true.
+III For if x is true, by (66), y ~ x is true, and if x is false,
+58 by (67), x ~ y is true.
+(7 [ins](74)[/ins]) If x ~ x ~ y is true, x ~ y is true.
+For by (65) if x ~ x ~ y is true, either x is false or x ~ y
+is true, and if x ~ y is true, [del]either x is false or y is true[/del]
+But by (67) if x is false x ~ y is true. Hence, (74). That is, a
+[del]repeated[/del] repetition of an antecedent is of no effect; for by (66)
+if x ~ y is true, x ~ x ~ y is true; so that x ~ y and x ~ x ~ y are
+equivalent.
+[del](75) If (x ~ y) ~ z is true, y ~ z is true.[/del]
+(75) x ~ (x ~ y) ~ y
+For, by (69), (x ~ y) ~ x ~ y; whence, by transposition (73)
+(76) If x is true, (x ~ y) ~ y is true.
+This follows from (75) by (65)
+(77) If x and (x ~ y) are true, y is true.
+This follows from (76) by (65). This is the [u]modus ponens[/u].

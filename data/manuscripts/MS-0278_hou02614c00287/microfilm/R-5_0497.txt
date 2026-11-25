@@ -1,0 +1,14 @@
+[del]+[/del] [ins]+[/ins] $a_{10}\sin x + a_{20}\sin^2 x + a_{30}\sin^3 x + a_{40}\sin^4 x + \text{etc}$
+$+ a_{01}\sin y + a_{11}\sin x\sin y + a_{21}\sin^2 x\sin y + a_{31}\sin^3 x\sin y +$
+$+ \text{etc}$
+
+$= \sin(x+y)$
+
+By symmetry $\begin{aligned} a_{10} &= a_{01} \\ a_{12} &= a_{21} \end{aligned}$ etc
+
+$\sin(0+0) = \sin 0 = 0 \quad \therefore a_{00} = 0$
+$\sin(x+0) = \sin x \quad \therefore a_{10} = 1 \quad a_{20} = a_{30} = a_{40} = 0$
+
+[del]$\cos x + \sin x$[/del]
+
+[fig]Sine wave graph with vertical axes[/fig]

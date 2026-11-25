@@ -1,0 +1,21 @@
+[u]The Skew Mercator.[/u]
+
+There is a [del]Central Great Circle[/del], represented on the map chart by the axis of abscissas.
+
+The origin of coordinates is the point of this axis nearest the North Pole.
+
+The axis of ordinates is the meridian through this point, and we reckon Longitudes from this [ins]same[/ins] meridian.
+
+Let $\lambda$ be the Longitude so reckoned
+$\varphi$ the Latitude.
+$e$ the eccentricity of a meridian
+
+Calling the compression $e = \frac{1}{294.98} = .0033900$ [ins]$(2 - \frac{1}{294.98}) \cdot .0033900$[/ins]
+$= .0067686$
+$\epsilon = \sqrt{[del].0067686[/del]} = .08227$
+
+Denote by $r$ the radius vector on the polar stereographic projection.
+
+$$r = \left(\frac{1 - \epsilon \sin \varphi}{1 + \epsilon \sin \varphi}\right)^{\frac{\epsilon}{2}} \tan (45^\circ + \frac{\varphi}{2})$$
+
+For (Clarke's Geodesy, p. 104) The radius of curvature of a meridian is $\frac{a(1-\epsilon^2)}{(1-\epsilon^2\sin^2\varphi)^{\frac{3}{2}}}$ and that of a normal section perpendicular to the meridian is $\frac{a}{(1-\epsilon^2\sin^2\varphi)^{\frac{1}{2}}}$

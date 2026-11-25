@@ -1,0 +1,40 @@
+From the above [del]few[/del] essential characters of logarithms,
+follow the following rules for the use of them.
+
+[u]To multiply several numbers together[/u]. Add the logarithms of
+the numbers, [ins]when[/ins] [del]and[/del] the antilogarithm of the sum is the
+product required. Thus, to find the number of inches in the circum-
+ference of the earth supposing its radius is 3958 miles, we take
+from a table the logarithms of the [del]following[/del] [ins]different[/ins] numbers [ins]which[/ins] have
+to be multiplied together, as follows:
+
+[u]Logarithms[/u]
+Radius of earth in miles 3958 3.5974858
+[del]Ratio diameter to circumference[/del] [ins]radius[/ins] 2 0.3010300
+Ratio circumference to diameter 3.1415927 0.4971499
+One mile in feet 5280 3.7226339
+One foot in inches 12 1.0791812
+
+The sum of these logarithms is 9.1974708, which we find by
+the table is the logarithm of a number between
+15756[del]6[/del][ins]9[/ins]0000 and 157569[del]8[/del][ins]1[/ins]000. A closer computation
+could be made by carrying the logarithms to more
+decimal places; but there would be [del]little[/del] [ins]little[/ins] use in
+doing so, since the radius of the earth is only given to the
+nearest mile.
+
+[u]To divide one number by another[/u]. Subtract the logarithm
+of the divisor from that of the dividend, and find the
+antilogarithm of the remainder, which is the quotient
+sought.
+
+[u]To raise a number to any power[/u]. Multiply the [del]rule[/del] [ins]logarithm[/ins]
+of the number by the exponent of the power and find
+the antilogarithm of the product. For example, the
+following is a problem which any person familiar with
+logarithms will [del]execute[/del] [ins]perform solve[/ins] instantly in his head: what is
+the amount of $1 at [del]compound[/del] interest compounding
+annually for a thousand years, a rough approximation
+only being required. The computer knows (see [del]modulus of[/del] [ins]below[/ins]
+[del]logarithms[/del]) that the logarithm of 1.06 must be about
+[del]nearly[/del] 6 times .0043[del]4[/del] or say .026. Multiplying

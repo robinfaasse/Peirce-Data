@@ -1,0 +1,23 @@
+[pn]700[/pn]
+
+[date]Oct 6.[/date]
+
+[u]Example of an application of the forms [ins]$e^x$[/ins][/u]
+
+How many colours are required to paint a map?
+
+Let $a, b, c, d$ &c be the countries
+
+Let $e$ be like in colour
+
+Then since there is but one $a$ &c
+$(1-e)^a = 1 - e^a$
+$(1-e)^b = 1 - e^b$ &c
+
+Also $e e^x = e^x$ $e^x e^x = e^x$ $\left( \begin{aligned} e^{a-e^x} (1 - (1-e)^x) = 0 \\ \text{or } e^{a-e^x} e^x = 0 \\ \text{for } (1-e)^x + e^x = 1 \end{aligned} \right)$
+
+Also since the earth has no hole in it
+if $e^a e^b = 0$ $e^a e^c = 0$ $e^b e^c = 0$ then $e^b e^d = 0$
+$e^a e^d = 0$ $e^c e^d = 0$ are equations given
+[del]$e^a e^b$[/del] and no others of the form
+$e^a e^b + e^b e^c = 0$ are given

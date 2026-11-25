@@ -1,0 +1,15 @@
+I proceed to prove the nine-ray theorem. There are a number of steps.
+
+I first show that if $a, b, c$ be any three rays in space (not generally cutting one another, nor any two of them intersecting) and if $\alpha$ be a plane containing $a$, then there is in $\alpha$ a ray $x$ which cuts each of the rays $a, b, c$.
+
+For if neither $b$ nor $c$ lies in $\alpha$, then there are points $[\alpha b]$ and $[\alpha c]$ and there is a ray $\{[\alpha b][\alpha c]\}$ which cuts every ray lying in $\alpha$ and so cuts $a$, and thus cuts all three rays $a, b, c$, while it lies in $\alpha$.
+
+I now show that all the rays which cut $a, b, c$, [del]any three rays of[/del] [del]which no two intersect,[/del] [ins]cover[/ins] [del]fill[/del] a surface.
+
+For let the ray $\alpha$ turn round $a$ through a minute angle. Then the ray $\{[\alpha b][\alpha c]\}$ evidently moves along $b$ and $c$. Now $b$ and $c$ are really not otherwise related to $\{[\alpha b][\alpha c]\}$ than is $a$. Consequently, it slides along all three lines, and never turns back. Thus, this moving ray generates a surface.
+
+Any instantaneous position of a moving ray which [ins]by its motion[/ins] [del]generates[/del] generates a surface (called a [del]ruled surface[/del]) is called a generator of the surface.
+
+I now show that if a ray, $x$, moves so as always to cut three fixed rays (of which no two intersect) then the ruled surface so generated has two sets of generators, such that each generator of either set cuts all the generators of [del]the[/del] [ins]the other[/ins] set. And the three fixed rays are three generators of the set to which the positions of $x$ do not belong. And no two generators of one set lie in the same plane.
+
+We have seen that the ray $x$ which by its motion generates the ruled surface continually slides along each of the three fixed rays and never turns back. Now two rays that have a point in common lie in one plane. Hence were two positions of $x$ to lie in one plane, these

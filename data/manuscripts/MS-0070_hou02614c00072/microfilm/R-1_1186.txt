@@ -1,0 +1,19 @@
+[pn]14[/pn]
+
+Formulas (14) - (16) may be put in the form
+
+(14) [u]$\Pi_{i}\Pi_{j}\Pi_{k}\Pi_{u}\Pi_{v}$[/u] $\overline{\sigma}_{ui} + \overline{\sigma}_{vj} + (i+j)_{k} + \overline{(u+v)}_{w} + \sigma_{wk}$
+(15) [u]$\Pi_{i}\Pi_{j}\Pi_{k}\Pi_{u}\Pi_{v}$[/u] $\overline{\sigma}_{wk} + \overline{\sigma}_{ij} + (i+j)_{k} + \overline{(u+v)}_{w} + \sigma_{ui}$
+(16) [u]$\Pi_{i}\Pi_{j}\Pi_{k}\Pi_{u}\Pi_{v}$[/u] $\overline{\sigma}_{ui} + \overline{\sigma}_{wk} + (i+j)_{k} + \overline{(u+v)}_{w} + \sigma_{vj}$
+
+Putting, in (14), 0 for $i, j,$ and $w$, it becomes
+$\Pi_{k}\Pi_{u}\Pi_{v}$ $(0+0)_{k} + (u+v)_{0} + \overline{\sigma}_{u0} + \overline{\sigma}_{v0} + \sigma_{0k}$
+
+Multiplying this by the third power of (24), i.e. $(24)\cdot(24)\cdot(24)$, we get
+(27) [fig]black circle[/fig] $(0+0)_{0}$
+
+(9) may be put in the form
+(9) $\Pi_{u}\Pi_{v}\Sigma_{w}$ $\overline{q}_{uv} + q_{vw} \cdot (\overline{q}_{uw} + \sigma_{wv})$
+
+Putting for $q_{vw}$ the expression $\overline{\sigma}_{vw}$, this becomes
+(8) $\Pi_{u}\Sigma_{v}\Pi_{w}$ $\overline{\sigma}_{uv} \cdot (\sigma_{uw} + \sigma_{wv})$ [fig]checkmark[/fig]

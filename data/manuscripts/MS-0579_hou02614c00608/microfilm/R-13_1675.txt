@@ -1,0 +1,24 @@
+[u]Rule 7. Principle of doubled consequent.[/u] Concern-
+ing a proposition of the form $(a \prec b) \prec b$, there is
+much to note. Its fundamental properties are
+$\alpha$. If $a$ is true $(a \prec b) \prec b$ is true.
+$\beta$. If $b$ is true $(a \prec b) \prec b$ is true.
+$\gamma$ If $(a \prec b) \prec b$ is true, either $a$ or $b$ is true.
+This gives rise to the following rules.
+$$\begin{array}{lcl}
+(a \prec b) \prec b & = & (b \prec a) \prec a \\
+\{[(a \prec b) \prec b] \prec c\} \prec c & = & (a \prec b) \prec (b \prec c) \prec c \\
+& = & (a \prec c) \prec (b \prec c) \prec (c \prec c) \prec c \\
+& = & (a \prec b) \prec (b \prec b) \prec (b \prec b) \prec b \\
+a \prec b & = & a \prec (b \prec b) \prec b
+\end{array}$$
+This makes it possible to subject the consequent
+to all the rules given above for the antecedents
+
+Thus, by the principle of insertions and
+omissions, we can insert consequents. Thus,
+from $a$ we infer $(a \prec b) \prec b$; for this is no
+more than inserting an antecedent by
+writing the equivalent $(b \prec a) \prec a$. So, we
+can omit [del]ante[/del] consequents. Thus from
+$(a \prec b) \prec c$ we can infer $(a \prec c) \prec c$.

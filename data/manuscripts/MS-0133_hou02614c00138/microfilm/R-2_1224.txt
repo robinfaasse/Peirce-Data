@@ -1,0 +1,28 @@
+[pn]17[/pn]
+
+[u]Demonstration[/u]. For note the way in which the
+network is constructed by which designations are
+attached to points. It may be started in several
+ways, but the result is always substantially the
+same.
+
+We may start with five points [del]none[/del] [ins]no[/ins] three coplanar.
+Four of these receive asyzygetic designations, say
+[O], [X], [Y], [Z]. The designations of any five
+points are syzygetic. [del]note[/del] This is at least evident of
+these four and any fifth. The fifth point receives
+arbitrarily any [del]the[/del] syzygetic designation, say [O+X+Y+Z]
+(If it is called, say, [O+X+2Y+3Z], the only effect is
+that every multiplier of Y [del]for[/del] in every point is to be mul-
+tiplied by 2 and every [del]p[/del] multiplier of Z is to be multiplied by
+3.) Calling the fifth point [O+X+Y+Z], [ins]through this[/ins] [del]from[/del] [ins]and[/ins] [del]each[/del]
+and each of the other points there is a ray which cuts the
+plane of the remaining three, and the point of intersection
+is named by [del]dropping[/del] so that the three coradial points
+shall have syzygetic designations and the four coplanar
+points shall have syzygetic designations [del]s[/del] thus:
+
+Thus, [{O, O+X+Y+Z}(XYZ)] = [X+Y+Z]
+[{X, O+X+Y+Z}(OYZ)] = [O+Y+Z]
+[{Y, O+X+Y+Z}(XOZ)] = [O+X+Z]
+[{Z, O+X+Y+Z}(XYO)] = [O+X+Y]

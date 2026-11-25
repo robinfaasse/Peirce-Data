@@ -1,0 +1,30 @@
+occupies the corner which prevents tit-tat-too and himself makes
+tit-tat-too.
+
+[fig]Tic-tac-toe grid with O in top-left, X in top-middle, X in middle-right[/fig] Case 317. The first player occupies the corner opposite
+that of the second player. There is no tit-tat-too.
+This exhausts case 31.
+
+[fig]Tic-tac-toe grid with X in top-middle, O in middle-left[/fig] Case 32. The second player occupies a side square
+not opposite to that occupied. The first player makes
+tit-tat-too by occupying the centre and then a corner adjoining
+his side square, or by occupying first the corner adjoining the two
+occupied side squares, and then the centre.
+
+[fig]Tic-tac-toe grid with X in top-middle, O in bottom-left[/fig] Case 33. The second player occupies a corner not
+adjoining the square occupied. The first player makes
+tit-tat-too by occupying the corner adjacent to his side square and
+not opposite the second player's corner.
+
+[fig]Tic-tac-toe grid with numbers 1, X, 1 in top row; 2, 4, 2 in middle row; 3, O, 3 in bottom row[/fig] Case 34. The second player occupies the opposite square.
+The first player can play in 4 essentially different ways.
+[del]There is no tit-tat-too.[/del]
+
+[fig]Tic-tac-toe grid with X in top-middle, O in middle-middle[/fig] [del]Case 35. The second player occupies the centre[/del]
+as numbered in the figure making cases 341, 342,
+343, 344.
+
+[fig]Tic-tac-toe grid with X, X, O in top row; 1, 2, 3 in middle row; 4, O, 5 in bottom row[/fig] Case 341. The first player occupies a corner
+adjoining his side-square. The second player is
+obliged to occupy the other corner of the same row.
+The first player can now play in [del]five[/del] [ins]5[/ins] ways as numbered in

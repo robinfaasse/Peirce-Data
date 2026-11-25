@@ -1,0 +1,23 @@
+Logic
+III
+56
+[fig]figure[/fig]
+This sign -< with no other except symbols representing
+propositions forms a valuable algebra, which I call the
+Algebra of the Copula of Inclusion. The two main principles
+of this algebra are as follows:
+(64) If under [del]any[/del] [ins]given[/ins] hypothesis, [del]any[/del] [ins]any given[/ins] proposition, [u]p[/u], is never true, while
+a given proposition [u]q[/u] is false, we may [ins]under that hypothesis[/ins] assert [u]p[/u]-<[u]q[/u].
+(65) If under any given hypothesis [u]p[/u]-<[u]q[/u] is true, then if under the same
+hypothesis [u]p[/u] is true, [u]q[/u] is true under the same hypothesis.
+The following may be asserted [ins]by (64),[/ins] for whatever [u]x[/u], [u]y[/u], [u]z[/u] may be
+(66) [u]x[/u]-<[u]V[/u]
+for [u]V[/u] is never false.
+(67) [u]f[/u]-<[u]x[/u]
+for [u]f[/u] is never true.
+(68) [u]x[/u]-<[u]x[/u]
+for if [u]x[/u] is true, it holds by (66), if [u]x[/u] is false by (65).
+[del](69) If x -< It should be noted that I write x -< y -< z meaning x -< (y -< z)[/del]
+(69) If [u]x[/u]-<[u]y[/u]-<[u]z[/u] is true, then [u]y[/u]-<[u]x[/u]-<[u]z[/u] is true
+For by (65) if [u]x[/u]-<[u]y[/u]-<[u]z[/u] is true, then if [u]x[/u] is true, it follows that if [u]y[/u] is
+true [u]z[/u] is true; that is, if but [u]x[/u] and [u]y[/u] are true [u]z[/u] is true; that is if [u]y[/u] is

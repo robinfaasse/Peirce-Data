@@ -1,0 +1,30 @@
+[fig]Tree diagram of horizontal lines and binary sequences[/fig]
+
+[marginalia]
+[del]g[/del] [ins]f[/ins] — [del]k[/del] [ins]g[/ins]
+h — [del]l[/del] [ins]h[/ins]
+e —
+[del]g[/del] [ins]f[/ins] — [del]k[/del] [ins]g[/ins]
+a —
+c² —
+d —
+b —
+c —
+[/marginalia]
+
+0 0 0 0
+0 0 0 1
+0 0 1 0
+0 0 1 1
+0 1 0 0
+0 1 0 1
+0 1 1 0
+0 1 1 1
+1 0 0 0
+1 0 0 1
+1 0 1 0
+1 0 1 1
+1 1 0 0
+1 1 0 1
+1 1 1 0
+1 1 1 1

@@ -1,0 +1,18 @@
+[fig]Diagram of a hanging cord with weights[/fig] [u]Problem[/u]. Two fixed points at the same level, distant by $2a$ hold the ends of a cord of elasticity, $E$, and length $Nl$ with [del]$n+1$[/del] [ins]$n$[/ins] weights each equal to $P$ at equal distances on it.
+
+Adopt rectangular coordinates with origin [del]to[/del] midway between the fixed points, $y$ directed vertically downwards.
+
+$\text{Work} = \frac{1}{2}E \frac{\sqrt{(x_1+a)^2+y_1^2} - l}{l} + \frac{1}{2}E \frac{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} - l}{l} + \text{etc} + \frac{1}{2}E \frac{\sqrt{(x_n-a)^2+y_n^2} - l}{l}$
+$- Py_1 - Py_2 - Py_3 - \text{etc}$
+
+The condition of equilibrium is
+$E \frac{\sqrt{(x_1+a)^2+y_1^2} - l}{l \sqrt{(x_1+a)^2+y_1^2}} \left[ \begin{array}{c} (x_1+a) dx_1 + y_1 dy_1 \\ \text{etc} \end{array} \right] + E \frac{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2} - l}{l \sqrt{(x_2-x_1)^2+(y_2-y_1)^2}} \left[ \begin{array}{c} (x_2-x_1)(dx_2-dx_1) \\ +(y_2-y_1)(dy_2-dy_1) \end{array} \right]$
+$+ \text{etc} - P(dy_1 + dy_2 + dy_3 + \text{etc}) = 0$
+
+That is
+$E \left[ \left( \frac{1}{l} - \frac{1}{\sqrt{(x_1+a)^2+y_1^2}} \right) (x_1+a) + \left( \frac{1}{l} - \frac{1}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}} \right) (x_1-x_2) \right] = 0$
+$E \left[ \left( \frac{1}{l} - \frac{1}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}} \right) (x_2-x_1) + \left( \frac{1}{l} - \frac{1}{\sqrt{(x_3-x_2)^2+(y_3-y_2)^2}} \right) (x_2-x_3) \right] = 0$
+etc
+$E \left[ \left( \frac{1}{l} - \frac{1}{\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}} \right) (y_2-y_1) + \left( \frac{1}{l} - \frac{1}{\sqrt{(x_3-x_2)^2+(y_3-y_2)^2}} \right) (y_2-y_3) \right] - P = 0$
+etc
+$- \left( \frac{1}{l} + \frac{1}{l_{12}} \right) x_1 + \left( \frac{2}{l} - \frac{1}{l_{12}} - \frac{1}{l_{23}} \right) x_2 + \left( -\frac{1}{l} + \frac{1}{l_{23}} \right) x_3 = 0$

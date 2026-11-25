@@ -1,0 +1,29 @@
+[fig]Geometric diagrams of intersecting lines and triangles[/fig]
+
+[marginalia]
+AM, BN, AN, BM
+
+[del]$\frac{\alpha x + \beta y}{\alpha + \beta} = \frac{\alpha + \beta}{x}$[/del]
+[/marginalia]
+
+When $\angle AVC = \frac{1}{2}\pi$
+$p^2$ can be eliminated by the equatn.
+[del]$p^2 = (p^2 + x^2)(p^2 + y^2)$[/del]
+$p^2 = \gamma \alpha$
+
+giving
+$(\alpha y + \gamma^2)(\alpha + q) + (\alpha \gamma + \alpha^2)(y - q)$
+$= (\alpha \gamma + q^2)(\alpha + \alpha) + (y - q)(\alpha + q)(y - \alpha)$
+
+and we now have
+$(\alpha y + \gamma^2)(\alpha + q)^2 + (\alpha \gamma + \alpha^2)(y - q)^2$
+$= (\alpha \gamma + q^2)(y + \alpha)^2$
+
+or developing,
+$\alpha^2 y^2 + \alpha \gamma^2 + 2 \alpha^2 y q + 2 \alpha \gamma^2 q + \alpha^2 y q^2 + \gamma^2 q^2$
+[del]$+ \alpha \gamma^3$[/del] $+ \alpha \gamma y^2 - 2 \alpha \gamma y q + 2 \alpha \gamma^2 q + \alpha \gamma q^2 + \alpha^2 y^2$
+[del]$- \alpha \gamma^3$[/del] $- 2 \alpha^2 y y$ [del]$- 2 \alpha \gamma^2 q - 2 \alpha^2 y q$[/del] $- 2 \alpha \gamma^2 q - 2 \alpha^2 y q$
+
+But I declare I don't see how anybody ever
+derived this from the consideration of the [del]Stewart[/del]
+Simson Proposition.

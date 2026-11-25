@@ -1,0 +1,42 @@
+[date]March 11th 1869.[/date]
+
+<u>MULTIPLE DERIVATIVES AND INTEGRALS.</u>
+§374. [del]R[/del] [ins]S[/ins]<sub>n</sub> D<sub>x...</sub><sup>-n</sup> W = D<sub>x...</sub><sup>-n</sup> W
+
+[fig]Sector of a circle divided into polar and rectangular elements[/fig]
+
+Suppose we wished to integrate the sector of a circle. Nothing would be more easy than to determine the limits by polar coordinates yet it would be a difficult thing by rectangular.
+§375 Multiple integrals transposed into a sum of linear integrals.
+<u>Example.</u>
+S<sub>x</sub> S<sub>y</sub> Ω = V     D<sub>x,y</sub><sup>2</sup> V = Ω.
+V = Hy + K
+D<sub>y</sub> V = H + y D<sub>y</sub> H + D<sub>y</sub> K
+A condition. y D<sub>y</sub> H + D<sub>y</sub> K = 0
+D<sub>x</sub> D<sub>y</sub> V = D<sub>x</sub> H
+D<sub>x</sub> H = Ω
+H = S<sub>x</sub> Ω = Ω<sub>1</sub> - Ω<sub>0</sub>
+y D<sub>y</sub> H + D<sub>y</sub> K = 0
+
+[del]y D<sub>y</sub> H + D<sub>y</sub> K = 0[/del]
+[del]y D<sub>y</sub> H[/del]
+[del]y K = - S<sub>y</sub> y D<sub>y</sub> H[/del]
+[del]D<sub>y</sub> H = D<sub>y</sub> Ω<sub>1</sub> - D<sub>y</sub> Ω<sub>0</sub> = D<sub>y</sub> Ω<sub>1</sub> - D<sub>y</sub> Ω<sub>0</sub> = S<sub>x</sub> (D<sub>y</sub> Ω<sub>1</sub> - D<sub>y</sub> Ω<sub>0</sub>)[/del]
+
+<u>H. Simultaneous Differential Equations 1st Order.</u>
+§376 Integral of Simultaneous Differential Equations
+§377 Solution of Linear Partial Differential Equations
+§378 Σ<sub>i</sub> (D<sub>x<sub>i</sub></sub>) D<sub>x<sub>i</sub></sub> = ∇<sub>x</sub> t = 0
+§379 X - ∇<sub>x</sub> w = 0
+§380 f = Σ<sub>0</sub><sup>∞</sup> [del]D[/del] [ins]𝜫[/ins]<sup>i</sup> φ
+§381 Number of Independent Solutions of Linear P.D.E.
+§382 Any function of the solutions is a solution.
+§383 General & particular systems of integral equations.
+§384 Each equation of a general system of integral eqs is an int.
+§385 Relations of a particular system to the integrals.
+§386 ψ<sub>i</sub> = 0 is a system of particular integrals.
+§387 ψ<sub>i</sub> = 0
+§388 Process of deriving system
+§389 Test
+x x<sub>1</sub> x<sub>2</sub> x<sub>3</sub>
+D<sub>t</sub> x = x<sub>1</sub>     D<sub>t</sub> x<sub>2</sub> = x<sub>3</sub>
+D<sub>t</sub> x<sub>1</sub> = x<sub>2</sub>     D<sub>t</sub> x<sub>3</sub> = x

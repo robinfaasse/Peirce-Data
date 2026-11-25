@@ -1,0 +1,21 @@
+A SET OF INDEPENDENT POSTULATES FOR THE ALGEBRA OF LOGIC.
+
+First paper. By E. V. Huntington.
+
+A class of objects a, b, c, [del]•[/del] [ins]•[/ins] [del]•[/del] [ins]•[/ins] [del]•[/del] [ins]•[/ins], among which two rules of combination (operations, Verknüpfungen), + and [del]x[/del] [ins]×[/ins], are defined, will obey all the formal laws of the algebra of logic, when and only when the following nine postulates are satisfied; and no one of these nine propositions can be deduced as a theorem from the other eight. (Note: we shall use the term "element" to denote any object which belongs to the class considered.)
+
+1a. a+b belongs to the class whenever a and b belong to the class.
+1b. a[del]x[/del][ins]×[/ins]b belongs to the class whenever a and b belong to the class.
+
+2a. There exists an element 0 such that a+0=a for every element a.
+2b. There exists an element 1 such that a[del]x[/del][ins]×[/ins]1=1 for every element a.
+
+3a. a+b=b+a whenever a, b, a+b, and b+a belong to the class.
+3b. a[del]x[/del][ins]×[/ins]b=b[del]x[/del][ins]×[/ins]a whenever a, b, a[del]x[/del][ins]×[/ins]b, and b[del]x[/del][ins]×[/ins]a belong to the class.
+
+4a. a+(b[del]x[/del][ins]×[/ins]c) = (a+b)[del]x[/del][ins]×[/ins](a+c) whenever a+b, b[del]x[/del][ins]×[/ins]c, etc., belong to the class.
+4b. a[del]x[/del][ins]×[/ins](b+c) = (a[del]x[/del][ins]×[/ins]b)+(a[del]x[/del][ins]×[/ins]c) whenever a[del]x[/del][ins]×[/ins]b, b+c, etc., belong to the class.
+
+5. If the elements 0 and 1 in 2a and 2b are unique, then for every element a there is an element a' such that a+a'=1 and a[del]x[/del][ins]×[/ins]a'=0.
+
+These postulates, or primitive propositions, from which the whole algebra may be deduced, are essentially the same as those used by Whitehead (Universal Algebra, vol.1, p.35), except that the associative laws, which he admits as primitive, are here shown to be deducible. And Whitehead makes no attempt to prove the independence of his postulates.

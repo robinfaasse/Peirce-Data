@@ -1,0 +1,50 @@
+[fig]Graph with nested loops and labeled nodes[/fig]
+
+[fig]Graph with two parallel paths labeled l and b[/fig]
+
+[u]$\Pi_1 \Pi_2 \Sigma_3 \Pi_3 \Pi_{3''}$[/u]
+[fig]Graph with nested loops and nodes w, l, b, s, v[/fig]
+
+$\Pi_1 \Sigma_1 \Pi_2 \Sigma_3 \Sigma_{3'} \Sigma_{3''} \Sigma_{4'}$
+$\overline{w}_1 \cdot (l_{12} + \overline{b}_{23} \cdot s_{34}) + v_4$
+$\overline{w}_1 \cdot (l_{12} + \overline{b}_{23} \cdot l_{33'3''} \cdot l_{3''44'} \cdot s_{3'4'}) + v_4$
+$\Pi_1 \Sigma_1 \Pi_2 \ \ \overline{w}_1 \cdot (l_{12} + \overline{b}_{24} \cdot s_{44}) + v_4$
+
+[fig]Graph with nested loops and nodes w, l, b, s, v[/fig]
+
+$\Pi_4 \Sigma_1 \Pi_2 \Pi_{3''} \Pi_{41} \Sigma_3 \Sigma_{3'}$
+[del]$\overline{w}_1 \cdot$[/del] $\overline{w}_1 \cdot (l_{12} + T_{44'} + T_{43''} + l_{33'3''} \cdot \overline{b}_{23} \cdot s_{3'4'}) + v_4$
+$\Pi_4 \Sigma_1 \Pi_2 \ \ \overline{w}_1 \cdot (l_{12} + \overline{b}_{24} \cdot s_{44}) + v_4$
+
+[fig]Graph with nodes w, l, b, v[/fig]
+
+$\Pi_3 \Sigma_2 \Pi_1 \ (\omega_1 + \overline{l}_{12}) \cdot \overline{b}_{23} + v_3$
+
+[fig]Graph with nodes w, s, b, v[/fig]
+
+$\Pi_3 \Sigma_2 \Pi_1 \ (\omega_1 + \overline{l}_{12} + \overline{s}_{13}) \cdot \overline{b}_{23} + v_3$
+$\Pi_1 \Sigma_1 \ \ \overline{w}_1 \cdot l_{12} \cdot s_{13} + b_{23}$
+
+$\Pi_1 \Pi_2 \Sigma_1 \Sigma_{1'} \Sigma_{1''} \Sigma_2 \Sigma_{2''}$
+$\overline{w}_1 + l_{11'1''} \cdot l_{1'2'} \cdot b_{1''2''} \cdot r_{2'2''2} + v_2$
+$\overline{w}_1 + \Pi_1 \Pi_2 \ \ \overline{w}_1 + l_{12} \cdot b_{12} + v_2$
+
+[fig]Graph with nodes w, l, b, v[/fig]
+
+No graph is bonded to itself
+and no triad of diversity
+unites a graph to itself.
+
+[fig]Graph with nodes u, v[/fig]
+[fig]Graph with nodes w, v[/fig]
+
+[fig]Graph with nodes u, v[/fig]
+[fig]Graph with nodes w, v[/fig]
+[fig]Graph with nodes u, v and loop[/fig]
+
+[fig]Graph with nodes w, s, l, v[/fig]
+
+$\Pi_3 \Sigma_{3'} \Sigma_2 \Pi_{3''} \Pi_1$
+$(\omega_1 + \overline{l}_{12} + \overline{s}_{13} + T_{33''} + T_{33'}) \cdot b_{23} + v_3$
+$\Pi_3 \Sigma_2 \Pi_1$
+$(\omega_1 + \overline{l}_{12} + \overline{s}_{13}) \cdot b_{23} + v_3$

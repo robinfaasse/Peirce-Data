@@ -1,0 +1,28 @@
+[u]Liberties of the Cross and Stigma[/u].
+
+[u]Liberty 1[/u]. The cross and stigma are each associative;
+that is
+[indent]
+$(x + y) + z = x + (y + z)$;
+$(x \cdot y) \cdot z = x \cdot (y \cdot z)$.
+[/indent]
+
+[u]Liberty 2[/u]. Any aggregant may be inserted [ins]in any complicant or in the whole proposition[/ins] or [del]from any aggregant or from the whole proposition[/del] any complicant dropped without loss of truth. Any aggregant may be dropped or any complicant inserted without gain of truth.
+
+[u]Liberty 3[/u]. An aggregant of which the whole or a complicant [ins]or an aggregant[/ins] is identical with a coordinate aggregant, or a complicant of which the whole or an aggregant is identical with a coordinate complicant, is without effect.
+
+[u]Liberty 4[/u]. The negative of an aggregation is equivalent to the complication of the negatives of the aggregants and the negative of a complicate is the aggregate of the negatives of the complicants. That is
+[indent]
+$\overline{x + y} = \overline{x} \cdot \overline{y}$,
+$\overline{x \cdot y} = \overline{x} + \overline{y}$.
+[/indent]
+
+[u]Liberty 5[/u].
+[indent]
+$\infty + x = \infty$,
+$\infty \cdot x = x$,
+$x + \overline{x} = \infty$,
+$0 \cdot x = 0$,
+$0 + x = x$,
+$x \cdot \overline{x} = 0$.
+[/indent]

@@ -1,0 +1,11 @@
+$$x = \left(x_0 - \frac{\lambda_x P_0 R_0}{\lambda_x - \lambda_R}\right) e^{-\lambda_x t} + \frac{\lambda_x P_0 R_0}{\lambda_x - \lambda_R} e^{-\lambda_R t}$$
+
+$$\frac{dx}{dt} = -\lambda_x \left(x_0 - \frac{\lambda_x P_0 R_0}{\lambda_x - \lambda_R}\right) e^{-\lambda_x t} - \frac{\lambda_x^2 P_0 R_0}{\lambda_x - \lambda_R} e^{-\lambda_R t}$$
+
+$$P_t \lambda_R R_t = P_x \lambda_R R_0 e^{-\lambda_R t}$$
+
+$$-\lambda_x x = -\frac{\lambda_x \lambda_R P_0 R_0}{\lambda_x - \lambda_R} e^{-\lambda_R t}$$
+
+$$\left(-x_0 \lambda_x + \frac{\lambda_x \lambda_R P_0 R_0}{\lambda_x - \lambda_R}\right) e^{-\lambda_x t}$$
+
+$$\frac{\lambda_x (\lambda_0 - \lambda_R)}{\lambda_x - \lambda_R}$$

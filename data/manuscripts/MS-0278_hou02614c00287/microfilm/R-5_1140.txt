@@ -1,0 +1,35 @@
+Examples of the $n$ school-girls' problem, [del]which[/del] solves
+cyclically by B. P.
+
+A number ($m$) of school girls take $n$ successive
+walks in ranks of which the number in each rank is $p$, and
+[del]no[/del] [ins]no[/ins] two girls are to be in same rank upon different walks.
+
+In general
+$$m = pq$$
+$$q = (p-1)n + 1$$
+$$n = \frac{m-1}{p-1}$$
+
+The following examples have been solved by an exhaustive analytic research.
+
+<u>Example 1.</u>
+$$m = 4, \quad p = 2, \quad n = 3$$
+The first [del]day[/del] [ins]walk[/ins] is
+$$\begin{matrix} a & b_0 \\ b_1 & b_2 \end{matrix}$$
+The successive [del]days are[/del] [ins]walks are[/ins] obtained by cyclic permutation
+of the [del]subscript[/del] indices in all the examples. This
+solution is geometrically [del]represented[/del] [ins]expressed[/ins] as [del]$\sqrt[3]{1}$ with[/del] [ins]$\sqrt[3]{1}$ with[/ins] [del]reference to[/del]
+negation in the indices.
+
+<u>Example 2.</u>
+$$m = 6, \quad p = 2, \quad n = 5$$
+the first walk is
+$$\begin{matrix} a & b_0 \\ b_1 & b_4 \\ b_2 & b_3 \end{matrix}$$
+this solution is expressed by $\sqrt[5]{1}$, [del]with[/del] [ins]with[/ins] its own [del]negat-[/del] [ins]negat-[/ins]
+
+<u>Example 3</u>
+$$m = 8, \quad p = 2, \quad n = 7$$
+the first walk is
+$$\begin{matrix} a & b_0 \\ b_1 & b_7 \\ b_2 & b_3 \\ b_4 & b_5 \end{matrix}$$
+or its index-negation
+$$\begin{matrix} a & b_0 \\ b_6 & b_2 \\ b_5 & b_4 \\ b_3 & b_1 \end{matrix}$$

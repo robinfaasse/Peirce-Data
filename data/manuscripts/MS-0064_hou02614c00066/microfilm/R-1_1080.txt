@@ -1,0 +1,59 @@
+The general idea of separation is highly important.
+
+Let [del]L[/del] [ins]$\text{L}_{\text{xyz}}$[/ins] mean [del]z is[/del] on the same side as y of x where x is a barrier.
+So that in all cases [del]$\Pi_{\text{y}}\text{L}_{\text{xyz}}$[/del] $\Pi_{\text{x}}\Pi_{\text{y}}\text{L}_{\text{xyz}}$ and $\text{L}_{\text{xyz}} = \text{L}_{\text{yxz}}$
+
+[del]Angles[/del] To say that objects form a cycle is to say that any two of them form a barrier. Let $\beta_{\text{xyz}}$ mean x is the barrier formed by x and y
+So that $\beta_{\text{xyz}} = \beta_{\text{xzy}}$
+
+Let $\sigma_{\text{xyzt}}$ mean "t is on the same side of as z of the barrier formed by x and y
+
+Then $\sigma_{\text{xyzt}} = \sigma_{\text{xytz}} = \sigma_{\text{yxzt}}$ and $\Pi_{\text{z}}\sigma_{\text{xyzz}}$
+
+[fig]Three circular diagrams representing cyclic relationships and barriers[/fig]
+
+$$\begin{matrix} \sigma_{\text{xyzt}} & \sigma_{\text{xyzt}} \\ \sigma_{\text{ytxz}} & \sigma_{\text{xtyz}} \\ \sigma_{\text{xyzt}} & = \sigma_{\text{ztxy}} \end{matrix}$$
+
+But since we have
+
+$$\begin{matrix} \begin{pmatrix} \text{xyzt} & \text{xytz} \\ [del]\text{xzyt}[/del] & [del]\text{xzty}[/del] \\ \text{xtyz} & \text{xzty} \end{pmatrix} & \begin{matrix} \text{xyzt} & \text{xytz} \\ \text{xtzy} & \text{xtyz} \\ \text{xzty} & \text{xzyt} \end{matrix} & \begin{pmatrix} \text{xyzt} & \text{xytz} & \text{xyzt} & \text{xytz} \\ \text{xzyt} & \text{xzty} & \text{xtzy} & \text{xtzy} \\ \text{xtyz} & \text{xtzy} & \text{xyzt} & \text{xytz} \end{pmatrix} \\ \begin{matrix} \text{xyzt} \\ \text{yz} \end{matrix} \begin{matrix} \text{tx} \\ \text{xyzt} & \text{xyzt} \\ \text{ytzx} & \text{zxyt} \\ \text{tx} & \text{y} \ \ \ \text{x} \end{matrix} & \begin{pmatrix} \text{zxty} & \text{zxyt} \\ [del]\text{ztxy}[/del] & [del]\text{ztyx}[/del] \\ \text{zyxt} & \text{zytx} \end{pmatrix} & [del]\begin{pmatrix} \text{yztx} & \text{yxtz} \\ \text{xzty} & \text{xzgt} \end{pmatrix}[/del] & \begin{pmatrix} \text{ytzx} & \text{ytxz} \\ \text{yatz} & \text{yazt} \\ \text{ytza} & \text{ytaz} \end{pmatrix} \\ \begin{matrix} \text{abcd} \\ \text{bacd} \\ \text{bcad} \\ \text{bcda} \end{matrix} \ \ \begin{matrix} \text{abc} & \text{acb} \\ \text{cab} & \text{cab} \\ \\ \text{abc} \\ \text{bac} \\ \text{bca} \end{matrix} & \begin{pmatrix} \text{yzxt} & \text{yztx} \\ \text{ytxz} & \text{ytzx} \\ \text{yxtz} & \text{yxzt} \end{pmatrix} & & \begin{pmatrix} \text{tazy} & \text{tayz} \\ \text{tyaz} & \text{tyza} \end{pmatrix} \end{matrix}$$
+
+$$\text{xyzt} \leftrightarrows \text{xytz}$$
+
+$$\begin{matrix} \text{xyzt} & \text{xyzt} \\ \text{xzty} & \text{xbyz} \end{matrix}$$
+
+$$\begin{matrix} 1234 & 1243 \\ 1423 & 1432 \\ 1342 & 1324 \end{matrix}$$
+
+$$\begin{matrix} 1234 & 1324 \\ 2143 & 2413 \\ 4321 & 4231 \\ 3412 & 3142 \end{matrix}$$
+
+$$\begin{matrix} 123 & 132 \\ 231 & 213 \\ 312 & 321 \end{matrix} \ \ \begin{matrix} 1234 & 1243 \\ 2143 & 2134 \end{matrix}$$
+
+$$\begin{matrix} 4321 & 4312 & 3124 & 3142 \\ 4132 & 4123 & 3412 & 3421 \\ 4213 & 4231 & 3241 & 3214 \end{matrix}$$
+
+$$\begin{matrix} 1234 & 1243 \\ 1423 & 1432 \\ 1342 & 1324 \end{matrix}$$
+
+$$\begin{matrix} 2314 & 2341 \\ 2431 & 2413 \\ 2143 & 2134 \end{matrix}$$
+
+$$\begin{matrix} 1234 & 1234 & 1234 \\ 4123 & 2413 & 2341 \end{matrix}$$
+
+$$\begin{matrix} 1234 & 1243 \\ 1423 & 4123 \\ 3124 & 3142 \\ 3412 & 4312 \\ 2314 & 2341 \\ 2431 & 4231 \end{matrix}$$
+
+$$\begin{matrix} 1234 & 1243 \\ 1423 & 4123 \\ \\ 3241 & 3214 \\ 3421 & 4321 \end{matrix}$$
+
+$$\begin{matrix} 1234 & 1234 & 1234 \\ 3142 & 4312 & 3421 \\ 4321 \\ [del]2413[/del] \\ [del]2134[/del] \end{matrix}$$
+
+$$\begin{matrix} 1234 & 1234 & 1234 \\ 4231 & 3214 & \\ 4132 & 3124 & 1234 \\ 4123 & 3142 & 3241 \end{matrix}$$
+
+$$\begin{matrix} 1234 & 1243 \\ 1423 & 1432 \\ 1342 & 1324 \end{matrix}$$
+
+$$\begin{matrix} 1234 & 1324 \\ 3421 & 3241 \\ [del]4312[/del] \\ [del]4213[/del] \\ 2134 \end{matrix}$$
+
+$$\begin{matrix} 3124 & 3142 & 3124 \\ 3412 & 3421 & 3241 & 3214 \\ 3241 & 3214 & 3412 & 3421 \end{matrix}$$
+
+$$\begin{matrix} 2143 & 2413 \\ 4321 & 4231 \\ 3412 & 3142 \end{matrix}$$
+
+$$\begin{matrix} 2314 & 2341 \\ 2431 & 2413 \\ 2143 & 2134 \end{matrix}$$
+
+$$\begin{pmatrix} 4321 & 4312 \\ 4132 & 4123 \\ 4213 & 4231 \end{pmatrix}$$
+
+$$\begin{pmatrix} 2431 & 2413 \end{pmatrix}$$

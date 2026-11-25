@@ -1,0 +1,9 @@
+$(a_1) = x \quad (b_1) = \begin{matrix} 0, & x \\ 0, & 0 \end{matrix}$
+
+$(a_2) = \begin{matrix} x, & y \\ 0, & x \end{matrix} \quad (b_2) = \begin{matrix} x, & y \\ 0, & 0 \end{matrix} \quad (c_2) = \begin{matrix} 0, & x, & y \\ 0, & 0, & x \\ 0, & 0, & 0 \end{matrix}$
+
+$(a_3) = \begin{matrix} x, & y, & z \\ 0, & x, & y \\ 0, & 0, & x \end{matrix} \quad (b_3) = \begin{matrix} 0, & x, & y, & z \\ 0, & 0, & x, & y \\ 0, & 0, & 0, & x \\ 0, & 0, & 0, & 0 \end{matrix} \quad (c'_3) = \begin{matrix} 0, & x, & y, & z \\ 0, & 0, & [del]x[/del][ins]y[/ins], & 0 \\ 0, & 0, & 0, & 0 \\ 0, & 0, & 0, & 0 \end{matrix}$
+
+$(c''_3) = \begin{matrix} 0, & [del]y[/del][ins]x[/ins], & [del]x[/del][ins]y[/ins], & z \\ 0, & 0, & 0, & x \\ 0, & 0, & 0, & y \\ 0, & 0, & 0, & 0 \end{matrix} \quad (d_3) = \begin{matrix} 0, & x, & y \\ 0, & 0, & x \\ 0, & 0, & 0 \end{matrix}$
+
+[fig]Table of logical symbols and Hebrew letters[/fig]

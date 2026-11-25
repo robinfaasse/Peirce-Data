@@ -1,0 +1,23 @@
+§ 4. Regular distribution of weight. Since, by (5) and (3),
+
+$$\frac{ds}{dx} = \sqrt{1 + \frac{w^2}{Q^2}},$$
+
+and also $s_N$ and $y_N$, if one knows $w$ as a function of either $s$ or $x$, we can find all the other quantities.
+
+It is also plain that if the maxima stresses are given, that is, $q_0$ and $q_N$, we have only to know $w_0'$ or $w_N'$ to have $\tau_0$, $\tau_N$, $Q$, etc.
+
+The differential calculus affords the formulae
+
+$$\rho = \frac{\sec^3 \tau}{d^2y/dx^2} = \frac{ds}{d\tau}.$$
+
+By (5) and (3)
+
+$$\frac{d^2y}{dx^2} = Q^{-1} \frac{dw}{dx}.$$
+
+Consequently
+
+$$\frac{1}{\rho_H} = Q^{-1} \left(\frac{dw}{dx}\right)_H.$$
+
+We have by (4)
+
+$$s = \int \sec \tau . dx = \frac{1}{Q} \int q \, dx.$$

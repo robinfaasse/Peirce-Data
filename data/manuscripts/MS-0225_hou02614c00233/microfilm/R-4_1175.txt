@@ -1,0 +1,30 @@
+To calculate the quantities for [del]R's[/del] [ins]R's[/ins] orig.
+
+Bessel's Elements are (Sch. Ast. Nach. No. 274)
+
+$$\Omega = 166^\circ 53' 8.9'' + 46.462'' (T - 1800)$$
+$$i = 28\ \ 10\ \ 44.7\ \ - 0.350 (T - 1800)$$
+
+Here I suppose T is the year since 1800
+Jan 0 at Paris, the year being $365\frac{1}{4}$ days.
+
+A Washington date is [ins]year[/ins] 0.000603 later
+and $\frac{1}{10}$ of a day is [ins]year[/ins] 0.000685
+
+Proctor's "R and his System" contains the formulae and the quantities N and I calculated for Paris for every T.
+$\omega = $ obliquity of ecliptic
+
+[del]$\tan \phi = \tan i \cos \Omega$[/del]  $\tan N = \frac{\sin \phi}{\sin (\phi + \omega)} \tan \Omega$
+
+$\tan I = \frac{\tan (\phi + \omega)}{\cos N}$
+
+***
+
+[fig]Three spherical trigonometry diagrams with intersecting arcs[/fig]
+
+wrong
+Work out by Spherical Trig.
+
+$$D_t \phi = D_i \phi D_t i + D_\Omega \phi D_t \Omega$$
+$$= D_i i D_t \tan \phi + D_\Omega \Omega D_t \tan \Omega = (-0.350 \cos^2 i + 46.462 \sin \Omega) \cos^2 \phi$$
+$$D_\phi \tan \phi$$

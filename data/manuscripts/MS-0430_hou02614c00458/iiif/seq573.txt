@@ -1,0 +1,20 @@
+Logic
+III
+25
+
+any evenly enclosed part of a graph is iterated under
+any odd number of additional enclosures the inner
+occurrence can be erased.
+But by Rules I and III anything can be erased within
+even enclosures or inserted within odd enclosures.
+Hence it will be seen that the entire rule holds good.
+But it is [del]necessary[/del] [ins]proper[/ins] to remark that [del]AB (A[/del]
+AB [fig] (C (A) ) [/fig] or AB [fig] (C (D (A) ) ) [/fig] will thus give
+AB [fig] (C () ) [/fig] and AB [fig] (C (D () ) ) [/fig]
+
+The interpretation of these graphs is not obvious. Considering
+the first, [del]it is obvious[/del] by Rule I it can be transformed into AB;
+and on the other hand, starting from AB we get by Rule II
+AB [fig] () [/fig] and then, by Rules I and III, AB [fig] (C () ) [/fig]. Thus this
+graph and AB are mutually transformable, and denote the same
+state of things. The graph AB [fig] (C (D () ) ) [/fig] gives, by Rules I and [del]III[/del],

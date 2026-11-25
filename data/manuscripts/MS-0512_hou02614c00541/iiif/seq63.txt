@@ -1,0 +1,24 @@
+FL 83
+So that the multiplication table is
+[fig]figure[/fig]
+If the object is to produce the simplest algebraic system, we [del]must[/del] [ins]may[/ins] use
+instead of 1, A, B, C, D, E, the operations g, h, i, j, k, l, defined
+as follows:
+[del]so that g p_{123}[/del]
+g = 1/6 (1+A+B+C+D+E) [del]= h =[/del] 1/6 [del]([/del] = 1/6 (p_{123}+p_{231}+p_{312}+p_{132}+p_{321}+p_{213})
+h = 1/6 (1+C+D-A-B-E) so that h p_{123} = 1/6 (p_{123}+p_{231}+p_{312}-p_{132}-p_{321}-p_{213})
+i = 1/6 (2\cdot1-C-D+2A-B-E) so that i p_{123} = 1/6 (2p_{123}-p_{231}-p_{312}+2p_{132}-p_{321}-p_{213})
+l = 1/6 (2\cdot1-C-D-2A+B+E) so that l p_{123} = 1/6 (2p_{123}-p_{231}-p_{312}-2p_{132}+p_{321}+p_{213})
+j = 1/2\sqrt{3} (C-D+B-E) so that j p_{123} = 1/2\sqrt{3} (p_{231}-p_{312}+p_{213}-p_{321})
+k = 1/2\sqrt{3} (-C+D+B-E) so that k p_{123} = 1/2\sqrt{3} (-p_{231}+p_{312}+p_{213}-p_{321})
+Then the multiplication table becomes, as follows, where all the blanks are 0s.
+[fig]figure[/fig]
+Then, instead of writing p, we should
+have to write (g+h+i+l)p; for
+g+h+i+l = 1.
+However, the operations 1, A, B, C, D, E
+are best and can be represented by accents
+over the letters as follows
+\acute{g} = [del]C[/del]g = [del]where C g_{123}=g_{231}[/del] where C g_{123}=g_{231}
+\grave{g} = Dg where D g_{123} = g_{312}
+\bar{g}=Ag \check{g}=Eg \hat{g}=Bg

@@ -1,0 +1,20 @@
+$$(a \prec b) \prec a.$$
+This follows from $a$ by Rule III. But further the
+latter follows from the former. This most conveniently
+follows from the first definition of the copula. For
+[del]either $a$ holds true or $(a \prec b) \prec a$, by $\beta$.[/del] Now if
+if $(a \prec b) \prec a$ holds true, then by $\gamma$, if $a \prec b$ holds
+true $a$ holds true; but, by $\beta$, either $a \prec b$ holds
+true or $a$ holds. Thus, in any case $a$ holds if
+$(a \prec b) \prec a$ holds.
+
+Next consider the proposition
+$$[(a \prec b) \prec c] \prec a$$
+From this follows $c \prec a$ by rule III. But further the former
+follows from the latter or
+$$(c \prec a) \prec [(a \prec b) \prec c] \prec a$$
+For if $[(a \prec b) \prec c] \prec a$ is true and $(a \prec b) \prec c$ is true $a$ is
+true, by $\gamma$, and consequently $c \prec a$, by $\alpha$. But [del]either $(a \prec b) \prec c$[/del]
+[del]or $(a \prec b)$ is true by $\beta$, and[/del] But if $c$ is true, $(a \prec b) \prec c$
+is true by $\alpha$, and either $c$ or $c \prec a$ is true by $\beta$. Thus, $c \prec a$
+is true in any case provided $[(a \prec b) \prec c] \prec a$ is true.

@@ -1,0 +1,25 @@
+[pn]11[/pn]
+
+[u]Theorem VIII[/u]. Whatever i and a may be, if i then (i Ĉ a) Ĉ a.
+
+[u]Proof[/u]. For, by theorem VII, whatever i, a, e may be, if both i
+and a Ĉ e then (i Ĉ a) Ĉ e. Let e be a. Then, if both i and
+a Ĉ a, then (i Ĉ a) Ĉ a; whence, by Corollary 1, if i [del]then[/del] [ins]and[/ins] (i Ĉ a) Ĉ a.
+
+[Foot-Note] * The mathematician will say, with some disdain, that most
+of my "theorems" are corollaries; while some of my "corollaries," by a liberal
+construction of the term, might be dignified [del]by[/del] [ins]with[/ins] the title of theorems. I need
+to say, therefore, that I have to propose, in future, to make a scientific
+distinction between two classes of mathematical show-inferences, to one
+of which the name 'corollarial' may be properly applicable, and to the other
+that of 'theorematic.' But this distinction is not yet thoroughly worked out,
+so that, while I attempt to apply it here, I may very likely have given the
+wrong titles to some of the propositions.] [marginalia][del]End of foot-note
+if it is one[/del][/marginalia]
+
+[u]Corollary 4[/u]. [del]For, let it be true that if[/del] By Clause 2, either i or i Ĉ e.
+But by [u]Clause 1[/u], if e then i Ĉ e. Hence, if from i follows e then i Ĉ e.
+
+[u]Corollary 5[/u]. If a Ĉ e, then (i Ĉ a) Ĉ (i Ĉ e). For, by Theorem VIII, if
+a Ĉ e, then from i follows (i Ĉ a) Ĉ e; whence, by Corollary 4, if a Ĉ e, then [del]if a Ĉ e[/del]
+i Ĉ ((i Ĉ a) Ĉ e); whence, by Theorem IV, if a Ĉ e, then (i Ĉ a) Ĉ i Ĉ e.

@@ -1,0 +1,34 @@
+[fig]Geometric diagram with triangles and arcs[/fig]
+
+[fig]Circle with tangent line[/fig]
+
+[fig]Curved line and intersecting line[/fig]
+
+[fig]Two curved arcs with an arrow[/fig]
+
+$(ds)_0 r_0 \sin C = (ds)_1 r_1 \sin C$
+$(ds)_0 : (ds)_1 = \frac{1}{r_0} : \frac{1}{r_1}$
+
+$\Omega - \Omega_0 = 2r^2$
+
+[fig]Triangle with a curved side[/fig]
+
+$(ds)_0 r_0 \sin C = (ds)_0 r_1 \sin B$
+$\sin B = \frac{r_0}{r_1} \sin C$
+$ds_0 \sin B = (ds)_0 \frac{r_0}{r_1} \sin C$
+$= (ds)_1 \sin C$
+
+[fig]Geometric diagram with triangles and dashed lines[/fig]
+
+$= \frac{4 P_1^4}{r^2 (Dr \Phi)^2}$
+
+$\Omega - \Omega_0 = \frac{4 P_1^4}{2r^2} (1 + \frac{1}{r^2 (D \Phi)^2})$
+
+[fig]Geometric diagram with triangles and parallel lines[/fig]
+
+[fig]Angle diagram with arrow[/fig]
+
+$\frac{4 P_1^4}{2r^2}$
+
+$\frac{(ds)_0 \sin C}{\sqrt{(ds)_1^2 - (ds)_0^2 \sin^2 C} - \sqrt{(ds)_0^2 - (ds)_0^2 \sin^2 C}} = F'$
+$\frac{(ds)_0 \sin C}{(ds)_0 \cos C - (ds)_0 \sqrt{\frac{r_0^2}{r_1^2} - \sin^2 C}}$

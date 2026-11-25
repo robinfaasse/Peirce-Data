@@ -1,0 +1,20 @@
+[u]Rule 1[/u]. In order to apply to the consequent the
+rules for antecedents, we can affix [u]f[/u] to the conse-
+quent, and again to the whole proposition. Thus,
+[u]a[/u];[u]b[/u] = [del][[u]a[/u];([u]b[/u];[u]f[/u])];[u]f[/u][/del] [ins][u]a[/u];([u]b[/u];[u]f[/u]);[u]f[/u][/ins]
+
+[u]Rule 2[/u]: [u]principle of permutation[/u]. We can interchange
+the order of the antecedents at will. Thus,
+[u]a[/u];[u]b[/u];[u]c[/u];[u]d[/u] = [u]b[/u];([u]d[/u];[u]f[/u]);[u]c[/u];[u]a[/u];[u]f[/u].
+
+[u]Rule 3[/u]: [u]principle of transitivity[/u]. If we have given a
+proposition, and also another consisting of the first
+letters of the former followed by two [u]f[/u]'s, the last after
+enclosing all that precedes in parenthesis, then we
+have further a proposition consisting of all the remainder
+of the first proposition. Thus, if
+[u]a[/u];[u]b[/u];[u]c[/u];[u]d[/u];[u]e[/u]
+
+and ([u]a[/u];[u]b[/u];[u]c[/u];[u]f[/u]);[u]f[/u]
+
+then also [u]d[/u];[u]e[/u].

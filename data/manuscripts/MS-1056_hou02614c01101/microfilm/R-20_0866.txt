@@ -1,0 +1,8 @@
+[u]Problem 1[/u]. Let there be [u]n[/u] groups of stars numbered from 1 to [u]n[/u]. Let [u]M[/u]<sub>i</sub> denote the magnitude of the i<sup>th</sup> group. Let every group as the i<sup>th</sup> be compared with the (i+1)st and (i+2)nd, unless i is so large that there is no (i+1)st or (i+2)nd. Denote observed values by writing the quantity observed in parentheses; as (M<sub>i</sub>-M<sub>i+1</sub>) (M<sub>i</sub>-M<sub>i+2</sub>). Denote the best value of M<sub>i</sub>-M<sub>j</sub> concluded by least squares from all the observations of groups from i=1 to j=n by {M<sub>i</sub>-M<sub>j</sub>}. Then it is required to find {M<sub>n-1</sub>-M<sub>n</sub>}.
+
+Let the [del]weight of[/del] error square of {M<sub>i</sub>-M<sub>i+1</sub>} be E. Then to get {M<sub>i+1</sub>-M<sub>i+2</sub>} we must observe that this is determinable in two independent ways; 1<sup>st</sup> from (M<sub>i+1</sub>-M<sub>i+2</sub>) and second from (M<sub>i</sub>-M<sub>i+2</sub>) - {M<sub>i</sub>-M<sub>i+1</sub>}. The weight of the last expression is [ins]$\frac{1}{1+E}$[/ins] and therefore
+{M<sub>i+1</sub>-M<sub>i+2</sub>} = $\frac{1}{1 + \frac{1}{1+E}}$ [ [del](M<sub>i+1</sub>-M<sub>i+2</sub>)[/del] [ins](M<sub>i+1</sub>-M<sub>i+2</sub>)[/ins] + $\frac{1}{1+E}$ (M<sub>i</sub>-M<sub>i+2</sub> - [del]$\frac{1}{1+E}$[/del] [ins]1[/ins] {M<sub>i</sub>-M<sub>i+1</sub>} ]
+
+But $\frac{1}{1 + \frac{1}{1+E}}$ is the same function of E that $\delta_{m+2}$ is of $\delta_m$
+
+But when i=1 E = 1 = $\delta_2^2$ = $\delta_{2\cdot 1}^2$ and consequently [del]for i=[/del] in general E = $\delta_{2i}^2$

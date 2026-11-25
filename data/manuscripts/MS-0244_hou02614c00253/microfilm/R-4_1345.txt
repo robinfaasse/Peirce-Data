@@ -1,0 +1,47 @@
+$$\cos [\cos (x+y)]$$
+$$\cos [\cos x \cos y - \sin x \sin y]$$
+$$\cos [\cos x \cos y] \cos [\sin x \sin y] + \sin [\cos x \cos y] \sin [\sin x \sin y]$$
+[del]$$\cos [\cos (x+y)] + \cos (x-y)$$[/del]
+
+[del]$\sim \sim \sim \sim \sim \sim \sim$[/del]
+[del]$\cos \cos x \cos y \dots$[/del]
+
+$$ax + by = \frac{1}{2}(a+b)(x+y) + \frac{1}{2}(a-b)(x-y)$$
+
+$$a \cos (t+\tau) + b \cos (t-\tau) =$$
+$$\frac{1}{2}(a+b)[\cos (t+\tau) + \cos (t-\tau)] + \frac{1}{2}(a-b)[\cos (t+\tau) - \cos (t-\tau)]$$
+
+$$= (a+b) \cos t \cdot \cos \tau - (a-b) \sin t \sin \tau$$
+
+$$\tan^2 \theta = \frac{b^2 \sin^2 \psi}{(a - b \cos \psi)^2}$$
+$$\sec^2 \theta = 1 + \frac{b^2 \sin^2 \psi}{(a - b \cos \psi)^2} = \frac{\begin{matrix}a^2 - 2ab \cos \psi \\ + b^2 \cos^2 \psi\end{matrix}}{(a - b \cos \psi)^2}$$
+$$\cos \theta = \frac{a - b \cos \psi}{\sqrt{a^2 + b^2 - 2ab \cos \psi}}$$
+$$= \frac{a - b \cos \psi}{\sqrt{a^2 + b^2 - 2ab - 4ab \sin^2 \frac{1}{2}\psi}}$$
+$$= \frac{a - b \cos \psi}{\sqrt{(a-b)^2 - 4ab \sin^2 \frac{1}{2}\psi}}$$
+
+$$m = \frac{1}{10}$$
+$$(1-m)^2 = 0.81 \quad 4m = 0.4$$
+$$m' = \frac{1}{2}$$
+$$(1-m')^2 = \frac{1}{4} \quad 4m = 2$$
+
+[fig]Geometric diagram with circle, triangle, and angles $\psi$ and $\theta$[/fig]
+
+$$\frac{\sin (180^\circ - \psi - \theta)}{\sin (\psi + \theta)} = \sin \theta$$
+$$\tan \theta = \frac{b \sin \psi}{a - b \cos \psi}$$
+
+$$\frac{b - a \cos \psi}{a \sin \psi} = \frac{b - a \cos^2 \frac{\psi}{2} + a \sin^2 \frac{\psi}{2}}{2a \sin \frac{\psi}{2} \cos \frac{\psi}{2}}$$
+
+[fig]Small geometric diagrams showing angles and circles[/fig]
+
+$$(a-b)^2 \quad 4ab$$
+$$b = ma$$
+$$a^2 (1-m)^2 \quad 4a^2 m$$
+$$1 - 6m + m^2 = 0$$
+$$m^2 - 6m + 9 = 8 \quad m-3 = \pm 2\sqrt{2} \quad m = 3 \pm 2\sqrt{2}$$
+
+$$\begin{matrix} 1.414 \\ 2.828 \\ 3 \\ \hline 5.828 \end{matrix}$$
+$$0.172$$
+
+$$\frac{\sec \theta}{1 + \cos \theta}$$
+$$\cos 2\alpha = 2\cos^2 \alpha - 1 \quad \sqrt{\tan^2 + 1}$$
+$$= 2$$

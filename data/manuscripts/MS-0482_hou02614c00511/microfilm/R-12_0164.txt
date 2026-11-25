@@ -1,0 +1,61 @@
+[pn]38[/pn]
+
+[del]a conjugation.[/del] The rule of Involution and Evolution is as follows:
+
+Any oddly enclosed graph may be iterated provided the new iteration is oddly enclosed and is not [del]outside[/del] [ins]without[/ins] any circle that the preexisting iteration was [del]in[/del] [ins]within[/ins]; and if two iterations of a graph are evenly enclosed and one is [del]without[/del] [ins]out[/ins] every circle that the other is without, it may be suppressed
+
+[fig]Existential graphs showing nested circles with letters a and b[/fig]
+[fig]Existential graphs showing nested circles with letters a and b[/fig]
+[fig]Existential graphs showing nested circles with letters a and b[/fig]
+
+[u]a[/u] . b
+a ( b +
+[u]a[/u] ( b + a )
+
+a a
+
+[fig]Existential graphs with letters a and b[/fig]
+a + b
+
+[fig]Existential graphs with letters a and b[/fig]
+[u]a[/u] . b =
+
+[fig]Existential graphs with letters a and b[/fig]
+[u]a[/u] . ( a + b )
+
+[fig]Existential graphs with letters a and b[/fig]
+a + [u]b[/u] =
+
+[fig]Existential graphs with letters a and b[/fig]
+a + [u]a[/u] [u]b[/u]
+
+[fig]Existential graphs with letters a and b[/fig]
+[u]a[/u] [u]b[/u]
+
+[fig]Existential graphs with letters b, a, c[/fig]
+b + [u]a[/u] [u]c[/u]
+
+[fig]Existential graphs with letters a, b, c[/fig]
+[u]a[/u] . ( b + [u]c[/u] ) = [del][u]a[/u] [u]b[/u] ( [u]a[/u] + [u]c[/u] )[/del] [ins][u]a[/u] ( b + [u]a[/u] [u]c[/u] )[/ins]
+
+[fig]Existential graphs with letters a, b, c[/fig]
+a + [u]b[/u] [u]c[/u] =
+
+[fig]Existential graphs with letters a, b, c[/fig]
+a + [u]b[/u] . ( a + [u]c[/u] )
+
+[fig]Existential graphs with letters b, a, c[/fig]
+[u]b[/u] . ( a + [u]c[/u] )
+
+Any oddly enclosed graph may be iterated anywhere under the same enclosures and others [del]or in any under them[/del]
+
+[del]Any oddly enclosed graph may be iterated if new is within all enclosures of old if new[/del]
+
+[fig]Existential graphs with letters d, c, a, b[/fig]
+[u]d[/u] . ( c + [u]a[/u] . [u]b[/u] )
+
+[marginalia]
+Odd encl. dropped
+[del]If dropped is oddly and outside other[/del]
+If one [del]reg.[/del] is outside and evenly enclosed
+[/marginalia]

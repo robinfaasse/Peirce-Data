@@ -1,0 +1,25 @@
+The most important immediate inferences remain
+to be noticed. In the first place
+
+[del]from (a+b)c[/del]
+(7) From [u](X|Y)|Z[/u] we can infer [u]X|Y|Z[/u].
+
+Here Y is brought out from being consequent of
+the inantecedent to being inantecedent of the consequent.
+This is [del]the as[/del] [ins]to[/ins] a necessary consequence because if
+[u](X|Y)|Z[/u] is true, Z must be false, and either X false or
+Y true; while [u]X|Y|Z[/u] is true if X is false even if
+Z is not false, and it is also true if Z is false and
+Y true.
+
+In the second place, for
+
+(8) From [u]X|Y|Z[/u] we can infer [u]X|Y|Z[/u]
+
+This follows because if [u]X|Y|Z[/u] is true, X is true [del]while[/del] [ins]and[/ins] either
+Y is false or Z true; but [del]if Z is true[/del] [u]X|Y|Z[/u] is
+true if Z is true, whether X is true or not, and is
+also true if X is true and Y false.
+
+That this looks so complicated is a great blemish
+upon the notation.

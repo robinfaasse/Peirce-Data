@@ -1,0 +1,44 @@
+Error of $4x$ at $2\text{nd}$ app = $\frac{1}{6} (\Delta x)^{2} = 0.000\ 000\ 3$
+
+[marginalia]
+1
+[/marginalia]
+
+$$\begin{array}{r}
+-3 \\
+-2 \\
+-1 \\
+0 \\
++0.2 \\
++0.4 \\
++0.6
+\end{array}$$
+
+$$\begin{array}{r}
+-2 \\
+-4 \\
+-5 \\
+-4.96 \\
+-4.88
+\end{array}$$
+
+$$\begin{array}{r|l}
++5 & 1.20163934 \\
++1 & \\
+-0.992 & \\
++0.008 & \\
+488 & \\
+312 & \\
+2928 & \\
+1920 & \\
+1464 & \\
+4560 & \\
+4392 & \\
+168 & \\
+146 & \\
+22 &
+\end{array}$$
+
+By the Newton-Horner method.
+
+$2\text{nd}$ approx -

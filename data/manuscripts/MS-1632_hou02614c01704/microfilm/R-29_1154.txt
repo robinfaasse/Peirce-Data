@@ -1,0 +1,52 @@
+[pn]1[/pn]
+
+Question 17. Suppose a semicubical and a common
+parabola to have the same abscissa and semi-
+ordinate; it is required to find the difference of
+their areas; the length of the arc of the semi-
+cubical being given, and that of the common
+a maximum.
+
+Solution. Let $y^3 = a x^2$ be the
+semicubical. By differentiation $3 y^2 dy = 2 a x dx$
+Squaring $9 y^4 dy^2 = 4 a^2 x^2 dx^2 = 4 a y^3 dx^2$
+$dx^2 = \frac{9 y}{4 a} dy^2$
+$ds = \sqrt{(dx^2 + dy^2)} = \sqrt{(1 + \frac{9 y}{4 a})} dy$
+$s = \frac{8 a}{27} (1 + \frac{9 y}{4 a})^{\frac{3}{2}} + const.$
+As $s$ and $y$ vanish together, $const = - \frac{8 a}{27}$
+so that $s = \frac{8 a}{27} (1 + \frac{9 y}{4 a})^{\frac{3}{2}} - \frac{8 a}{27}$.
+$= \frac{8 a}{27} (\frac{27 y}{4 a} + \frac{243 y^2}{16 a^2} + \frac{729 y^3}{64 a^3}) - \frac{8 a}{27}$
+$(\frac{27 s}{8 a} + 1)^2 = \frac{729 s^2}{64 a^2} + \frac{27 s}{4 a} + 1 = 1 + \frac{27 y}{4 a} + \frac{243 y^2}{16 a^2} + \frac{729 y^3}{64 a^3}$
+Dividing by $\frac{27}{4 a}$ $\frac{27 s^2}{16 a} + s = y + \frac{9 y^2}{4 a} + \frac{27 y^3}{16 a^2}$
+Substituting for $a$ its value $\frac{y^3}{x^2}$ and we have
+$\frac{27 x^2 s^2}{16 y^3} + s = y + \frac{9 x^2}{4 y} + \frac{27 x^4}{16 y^3}$
+Transposing and multiplying by $\frac{16 y^3}{27}$
+$x^4 + (\frac{4 y^2}{3} - s^2) x^2 = \frac{16 s}{27} y^3 - \frac{16 y^4}{27}$
+
+[pn]2[/pn]
+
+the length of the arc of the common parabola is
+$s' = \sqrt{(y^2 + 4 x^2)} + \frac{2 y^2}{x} log. log. (\frac{y}{2} + \sqrt{(1 + (\frac{y}{2})^2)})$
+$ds' = \frac{y dy + 8 x dx}{\sqrt{(y^2 + 4 x^2)}} + \frac{4 y dy \cdot x - 2 y^2 dx}{x^2} log. + \frac{2 y^2}{x} \frac{\frac{dy}{2} + \frac{y dy}{4 \sqrt{1 + \frac{y^2}{4}}}}{\frac{y}{2} + \sqrt{1 + \frac{y^2}{4}}} = 0$
+$\sqrt{(y^2 + 4 x^2)} + \frac{2 y^2}{x} log. (\frac{y}{2} + \sqrt{1 + \frac{y^2}{4}}) - \frac{8 y^2 dy}{27} = 0$
+
+222.
+Given $\left\{ \begin{aligned} x - y + \sqrt{(\frac{x - y}{x + y})} &= \frac{20}{x + y} \\ x^2 + y^2 &= 34 \end{aligned} \right\}$ to determine
+the values of $x$
+and $y$ by a quadratic.
+
+Solution. The first equation, multiplied by $x + y$
+becomes. $(x^2 - y^2) + \sqrt{(x^2 - y^2)} = 20$.
+Hence, $\sqrt{(x^2 - y^2)} = 4$, $x^2 - y^2 = 16$.
+To and from $x^2 + y^2$ add and subtract $x^2 - y^2$.
+$2 x^2 = 50$. $x = 5$
+$2 y^2 = 18$. $y = 3$.
+
+223. A father dying, bequeaths an estate of ten
+thousand dollars in the following manner; in case
+that his wife (who was pregnant at the time of his death)
+should have a daughter, the wife was to have $\frac{2}{3}$ and the
+daughter $\frac{1}{3}$; but in case of a son, the wife was to
+have $\frac{1}{3}$ and the son $\frac{2}{3}$. Now it so happened that
+the wife brought forth two sons and one daughter.
+Required the respective shares of the wife, sons,

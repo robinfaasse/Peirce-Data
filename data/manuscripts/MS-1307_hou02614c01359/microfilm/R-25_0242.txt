@@ -1,0 +1,23 @@
+$$\sin V = \frac{1}{r} \sin M$$
+
+$$= \sin M \left( 1 + 2 \varepsilon \cos M + \varepsilon^2 \left( \begin{aligned} -\tfrac{1}{2} \sin^2 M \\ [del]1 - 2 \sin^2 M[/del] \\ [ins]1 + \sin^2 M[/ins] \end{aligned} \right) + \varepsilon^3 \left( \begin{aligned} -2\tfrac{1}{2} \sin^2 M \cos M \\ + \cos M - 2 \sin^2 M \cos M \\ -\tfrac{1}{2} \sin^2 M \cos M \end{aligned} \right) \right)$$
+
+$$= \sin M \left( 1 + 2 \varepsilon \cos M + \varepsilon^2 \left( 2 - 3\tfrac{1}{2} \sin^2 M \right) + \varepsilon^3 \left( \cos M \right) \right)$$
+
+[u]Partial repetition[/u]
+$$\begin{aligned} r^2 &= 1 + \varepsilon^2 - 2 \varepsilon \cos M \\ &= 1 - 2 \varepsilon \cos M + \varepsilon^2 (1 + 2 \sin^2 M) + \varepsilon^3 \sin^2 M \cos M \end{aligned}$$
+$$\begin{aligned} (1+x)^{-\frac{1}{2}} \\ -\tfrac{1}{2} (1+x)^{-\frac{3}{2}} \\ +\tfrac{3}{8} (1+x)^{-\frac{5}{2}} \\ -\tfrac{15}{16} (1+x)^{-\frac{7}{2}} \end{aligned}$$
+
+$$\frac{1}{\sqrt{1+x}} = 1 - \tfrac{1}{2} x + \tfrac{3}{8} x^2 - \frac{5}{16} x^3$$
+
+$$\frac{1}{r} = \frac{1}{r}$$
+
+$$\begin{aligned} x \quad & [del]- 2 \varepsilon \cos M + \varepsilon^2[/del] \\ & - 2 \varepsilon \cos M + \varepsilon^2 (1 + 2 \sin^2 M) + \varepsilon^3 \sin^2 M \cos M \end{aligned}$$
+
+$$x^2 \quad 4 \varepsilon^2 \cos^2 M \quad - 4 \varepsilon^3 (\cos M + 2 \sin^2 M \cos M)$$
+
+$$x^3 \quad - 8 \varepsilon^3 \cos^3 M$$
+
+$$\begin{aligned} -\tfrac{1}{2} x \quad & \varepsilon \cos M + \tfrac{1}{2} \varepsilon^2 (-\tfrac{1}{2} - \sin^2 M) - \tfrac{1}{2} \varepsilon^3 \sin^2 M \cos M \\ +\tfrac{3}{8} x^2 \quad & \varepsilon^2 (\tfrac{3}{2} - \tfrac{3}{2} \sin^2 M) - 3 \varepsilon^3 \sin^2 M \cos M - \tfrac{3}{2} \varepsilon^3 \cos M \\ -\tfrac{5}{16} x^3 \quad & -\tfrac{5}{16} \varepsilon^3 \sin^2 M \cos M + \tfrac{5}{2} \varepsilon^3 \cos^3 M \end{aligned}$$
+
+$$\frac{1}{r} = 1 + \varepsilon \cos M + \varepsilon^2 (1 - 2 \sin^2 M) + \varepsilon^3 \left( -[del]4[/del] \sin^2 M \cos M + \tfrac{5}{2} \cos M \right)$$

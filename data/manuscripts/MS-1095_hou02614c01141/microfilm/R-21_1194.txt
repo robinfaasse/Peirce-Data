@@ -1,0 +1,10 @@
+$$D_x = (D_x r)(D_r \cdot) + D_x U D_U$$
+$$D_y = D_y r D_r \quad + D_y U D_U$$
+
+$$\begin{array}{c c c}
+r = \sqrt{x^2+y^2} & U^2 = \frac{x+iy}{x-iy} & \begin{array}{l} x+iy = rU \\ x-iy = rU^{-1} \end{array}
+\end{array}$$
+
+$$D_x r = [del]\frac{1}{2}[/del] \frac{x}{\sqrt{x^2+y^2}} \quad \begin{aligned} D_x U &= \frac{1}{2} \sqrt{\frac{x-iy}{x+iy}} \cdot \frac{x-iy - x - iy}{(x-iy)^2} \\ &= [del]\frac{1}{2}[/del] \frac{-yi}{\sqrt{x^2+y^2}(x-iy)} \end{aligned}$$
+
+$$D_y r = \frac{y}{\sqrt{x^2+y^2}} \quad \begin{aligned} D_y U &= \frac{1}{2} \sqrt{\frac{x-iy}{x+iy}} \cdot \frac{ix+y + ix - y}{(x-iy)^2} \\ &= \frac{xi}{\sqrt{x^2+y^2}(x-iy)} \end{aligned}$$

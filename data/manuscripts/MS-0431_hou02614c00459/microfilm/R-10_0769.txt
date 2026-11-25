@@ -1,0 +1,68 @@
+[marginalia]
+Logic
+[u]III[/u]
+61.
+
+[u]*See Stevens[/u]
+[/marginalia]
+
+[ins]$\bar{x}$ is greater than and smaller than $y$,[/ins]
+The signs $\bar{x} > y$ and $x \prec y$ [del]were[/del] [ins]were[/ins] introduced by Harriott, whose real date is far earlier than that assigned to him in the Histories. [ins]* His influence upon algebraists was exerted before the time of [unclear]Harriot[/unclear] himself.[/ins] They were really the earliest signs [del]used[/del] [ins]used[/ins] in algebra for the purpose. If we conceive of $\bar{v}$ as being greater than $f$, and we shall see that there is [del]no strong[/del] [ins]an[/ins] irresistible motive for giving one of the values a preeminence over the other, then I use them [del]in[/del] [ins]in[/ins] the same sense.
+
+[u]Without step[/u]
+
+$$\begin{array}{rcc|l}
+x & x & x & (y \propto y) \propto x \\
+& & & (x \propto y) \propto \alpha \\
+\hline
+\end{array}$$
+
+$$\begin{array}{c|c}
+(y \propto y) \propto y & (x \propto y) \propto x \\
+[del](x \propto y) \propto x[/del] & (y \propto x) \propto x \\
+[del](x \propto y) \propto y[/del] &
+\end{array}$$
+
+$$\begin{array}{rcl}
+[del](x \propto y) \propto \alpha[/del] & [del]xy \propto x[/del] & x \\
+\hline
+(y \propto y) \propto y & \bar{x} & (y \propto \alpha) \\
+xy & \bar{x} & (y \propto y) \\
+\hline
+\end{array}$$
+
+$$\begin{array}{c|c|c|c}
+(x \propto y) \propto y & \bar{x} + y & (y \propto y) \propto y & \bar{x} + y \\
+(y \propto y) \propto y & \bar{x} + y & (y \propto y) \propto y & \bar{x} + y \\
+\hline
+(x \propto y) \propto y & \bar{x} + y & (y \propto y) \propto y & \bar{x} + y \\
+(y \propto x) \propto x & \bar{y} + x & (y \propto y) \propto y & \bar{y} + x \\
+\hline
+\end{array}$$
+
+$$\begin{array}{c}
+(y \propto y) \propto x \\
+(y \propto y) \propto y \\
+(y \propto y) \propto y
+\end{array} \quad \begin{array}{c}
+\bar{x} \\
+\bar{y} \\
+\bar{y}
+\end{array} \quad \begin{array}{c}
+y \\
+y
+\end{array} \quad \bar{y} + \bar{x} + y$$
+
+$$\begin{array}{l}
+x \propto (y \propto z) \\
+= y \propto (x \propto z) \\
+x \propto (y \propto x) \\
+y \propto (x \propto z)
+\end{array} \quad \begin{array}{c}
+\bar{x} + \bar{y} + z \\
+\bar{y} + \bar{x} + z \\
+\bar{x} + \bar{y} + \bar{x} \\
+\bar{y} + \bar{x} + z
+\end{array}$$
+
+[u][del]xy + yx[/del] [ins]xy + yx[/ins][/u]

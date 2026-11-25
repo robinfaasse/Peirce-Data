@@ -1,0 +1,21 @@
+$$\Pi_i^j \Sigma_i u_{ij} = (u_{11} + u_{12}) \times (u_{11} + u_{22}) \times (u_{11} + u_{32})$$
+$$\times (u_{21} + u_{12}) \times (u_{21} + u_{22}) \times (u_{21} + u_{32})$$
+$$\times (u_{31} + u_{12}) \times (u_{31} + u_{22}) \times (u_{31} + u_{32})$$
+
+is read that in every collection
+of cities, not larger [ins]in number[/ins] than that of
+the years, there is a celebration
+in one year or another.
+
+Thus we see that
+$\Sigma_i$ directs us to successively
+substitute the different particular $i$'s
+[del]throughout the operand[/del] [ins]and[/ins] [del]and[/del] [ins]add[/ins] the results.
+
+$\Sigma_i^j$ directs us to successively
+substitute for $i$ in $j$ different places
+the particular $i$'s in every possible
+combination and add the results.
+
+While these are the general
+formulae we also have -

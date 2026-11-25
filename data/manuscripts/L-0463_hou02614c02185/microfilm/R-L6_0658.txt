@@ -1,0 +1,11 @@
+[pn]37[/pn]
+
+[fig]Grid table with columns labeled i₁, i₂, i₃, i₄, i₅ and rows labeled i₁, i₂, i₃, i₄, i₅[/fig]
+
+| | $i_1$ | $i_2$ | $i_3$ | $i_4$ | $i_5$ |
+|---|---|---|---|---|---|
+| **$i_1$** | $[I_2 \colon A] = i_2$ | | $([I_1 \colon I_3] + [I_4 \colon A] = i_4$ | | |
+| **$i_2$** | | | | | |
+| **$i_3$** | $[I_2 \colon A] = i_2$<br>$r([I_4 \colon A]) + r([I_2 \colon I_3])$<br>$+ r i_4$ | | $+([I_2 \colon I_3]) + ([I_1 \colon A])$<br>$r([I_4 \colon I_3]) + ([I_5 \colon A])$<br>$+ r^2([I_2 \colon I_1]) - r^2([I_2 \colon I_5])$<br>$= [I_1 \colon I_3] = i_1 + i_5$ | $r([I_2 \colon A]) [del]= r^2 i_2[/del]$ | $-r([I_2 \colon I_3])$<br>$-([I_2 \colon A])$<br>$-r([I_4 \colon A]) =$<br>$= i_2 - r i_4$ |
+| **$i_4$** | | | $[del]r[/del] [I_2 \colon A] + [del](r^2)[/del] i_2$ | | |
+| **$i_5$** | $(r^2-1)([I_2 \colon A]) =$<br>$+ (r^2-1) i_2$ | | [del]$(r^2-1)([I_2 \colon I_3])$[/del]<br>[del]$- ([I_4 \colon A])$[/del]<br>$= - i_4$ | | $-r^2([I_2 \colon A])$<br>$= -r^2 i_2$ |

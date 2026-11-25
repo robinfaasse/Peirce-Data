@@ -1,0 +1,28 @@
+§ [u]The Common Catenary[/u]. Let
+[del]T's = k's[/del]
+where k is a constant. Then
+[u]tan τ = [fraction]ks'[/fraction][/u],
+is the equation of the catenary. To transform this to rectangular
+coordinates, we have
+sec² τ dτ = [fraction]k[/fraction] ds',
+
+[fraction]kx'[/fraction] = [fraction]k[/fraction] ∫ cos τ . ds' = log tan (45° + [fraction]τ[/fraction]),
+[fraction]ky'[/fraction] = [fraction]k[/fraction] ∫ sin τ . ds' = ∫ sin τ sec² τ . dτ = sec τ - 1.
+
+Using the notation of Gudermannians
+Sinh [fraction]kx'[/fraction] = tan τ = [fraction]ks'[/fraction] = √([fraction]ky'[/fraction] + 1)² - 1
+Cosh [fraction]kx'[/fraction] = sec τ = √1 + ([fraction]ks'[/fraction])² = [fraction]ky'[/fraction] + 1 = [fraction]q[/fraction]
+Cosh² [fraction]kx'[/fraction] = sec² τ = 1 + ([fraction]ks'[/fraction])² = ([fraction]ky'[/fraction] + 1)² = [fraction]kq[/fraction]
+[del]Coth [fraction]kx'[/fraction] = cosec τ = [fraction]y'[/fraction][/del]
+tan [fraction]τ[/fraction] = [fraction]y'[/fraction]
+
+For a suspension bridge, except up near the towers, if the cord is a
+catenary, the following equation is a good approximation
+3 [fraction]x'[/fraction] = 2 + [fraction]1[/fraction]
+Thus for τ = 20° 3 [fraction]kx'[/fraction] = 1.0691347 2 [fraction]ks'[/fraction] + [fraction]s'[/fraction] = 1.0699605
+
+Since good tables of Gudermannians are not always at
+hand (and I haven't one), I have been at the trouble of cal-
+culating log tan (45° + [fraction]1[/fraction] τ) to six places of decimals for every
+degree up to τ = 30°. The formula (τ being expressed in degrees) is
+log tan (45° + [fraction]τ[/fraction]) = [fraction]π[/fraction] τ + [9.2.90748085-20] τ³ + [8.9.8291756] τ⁵ + [8.5.7760409] τ⁷ + [8.1.758553] τ⁹ + [7.7.76292] τ¹¹ + [7.3.715] τ¹³

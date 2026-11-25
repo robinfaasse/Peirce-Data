@@ -1,0 +1,21 @@
+[u](u + v - x) (v - 2u)[/u]
+
+[del]V[/del] [del]V[/del] | [del]- 1[/del] [ins]1[/ins] | z + u - x | +x + v + y | u - x + z
+| - 1 | v - 2u | -u + z - y | x - u - z
+| - 2 | -u - v | x - v - y | y - v - z
+| + 1 | x + u - y | 0 | -y + [del]v[/del] [ins]u[/ins] + z
+
+v | 1 | z + u - x | x + v + y | u - x + z
+| 0 | z - u - x | u + v + x + z | 0
+| -1 | x - v - y | x - v - y | 0
+| +1 | x + u - y | 0 | -y + v + z
+
+v | 1 | z + u - x | x + v + y | u - x + z
+| 0 | z - u - x | u + v + x + z | 0
+| 0 | -[del]y[/del] [ins]x[/ins] + z + u - v | 2x | u - x + z
+| 0 | 2x - y - z | -x - v - y | x - y - u + v
+
++ | y - x
+| -u
+| u - 2v
+| z + v - y

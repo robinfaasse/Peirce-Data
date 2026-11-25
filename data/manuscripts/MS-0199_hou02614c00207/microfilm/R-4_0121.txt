@@ -1,0 +1,27 @@
+[marginalia]
+M. 11
+D, 52
+[pn]6[/pn]
+[/marginalia]
+
+the second quotient of the [del]subdivided[/del] division of the substitute for $y^2$
+by the substitute for $y^0$ will be an approximate value of the
+smallest root of the equation in $y$.
+
+[u]Example 1.[/u] Required the square root of 10. The equation $z^{10}=10$
+has, of course, no root of having a modulus less than that of the
+other. Put $z = y+1$. Then $z^{10} = y^{10} + [del]y[/del] [ins]10[/ins]y + 1 = 10$ or $y^{10} + 10y = 1$
+We may now proceed as follows:
+
+0
+1
+10
+101
+1100
+11101
+100110
+
+Then, the successive approximations to $\sqrt{10}$ will be $1, 1\frac{1}{1}, 1\frac{10}{101}$
+$= 1.0110; 10001/1100 = 1.01[del]1[/del] [ins]0[/ins]1; 101001/11101 =$
+$1.0110100; 1110111/100110 = 1.011010000100; \text{etc.}$
+[del]11100011/1001110 = 1.0110100001110...[/del]

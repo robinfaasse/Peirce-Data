@@ -1,0 +1,23 @@
+[pn]Art. 37.[/pn]
+
+[del]Axiom 9[/del] [ins]Axiom 9[/ins]. If, of the two factors of a product, [del]one[/del] [ins]either[/ins] is increased by unity, the [del]other[/del] product is increased by the other.
+
+Axiom 10. $0 \times 0 = 0$.
+
+Theorem 17. [del]The product of two whole numbers is a whole number[/del]
+
+Demonstration. For suppose [del]this[/del] [ins]it[/ins] true of [del]two[/del] [ins]whole[/ins] numbers, $M$ and $N$, that $M \times N$ is a whole number. Then, by [del]Axiom 9[/del] [ins]Axiom 9[/ins], it is true of [del]either[/del] [ins]the number next higher than the other[/ins]. For the number next higher than $M$ is [del]M+1[/del], by Corollary 11, $M+1$; and $(M+1) N$ is, by [del]Axiom 9[/del] [ins]Axiom 9[/ins], a whole number, namely, it is $M \times N + N$. Now, $M \times N$ is [ins]a whole number[/ins] by hypothesis. Hence, by [del]Theorem 10[/del] [ins]Theorem 4 and Definition 38[/ins], $M \times N + N$ is a whole number.
+
+Now the proposition is true for $M=0$, $N=0$. Hence, it is true for all whole numbers.
+
+[del]Theorem. The Multiplication of whole numbers is[/del]
+
+Theorem 18. [del]The product of any whole number by 0 is 0.[/del]
+
+Demonstration. For suppose this true of any number $M$. Then, it is true of the next higher number, $M'$. For by [del]Theorem[/del] [ins]Corollary[/ins] 11, $M' = 1 + M$. Now, if [del]$M \times 0$[/del] [ins]$0 \times M$[/ins] $= 0$ then, by [del]Axiom 9[/del] [ins]Axiom 9[/ins], [del]$(1+M) \times 0$[/del] [ins]$0 \times (1+M)$[/ins] $= 0 + 0$. But $0+0$, by axiom 7, equals 0. Hence, the proposition, if true of $M$, is true of $M'$.
+
+But, by axiom 9, it is true of 0. Hence, [ins]by Theorem 4 and Definition 38,[/ins] it is true of all whole numbers.
+
+Corollary 12. It follows in the same way, that $M \times 0 = 0$.
+
+Corollary 13. It follows, from Axiom 9, that $1 \times M = M$ and $M \times 1 = M$.

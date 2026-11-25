@@ -1,0 +1,33 @@
+[u]On Logical Graphs[/u].
+
+A [u]graph[/u] is a diagram composed of [u]spots[/u] and [u]bonds[/u]; [ins]and[/ins] [del]dif-[/del]
+ferent spots may be of unlike quality, while each bond is a
+line with two ends, of which one at least is attached to a spot,
+while the other may be [u]loose[/u], or unattached. The [u]chorisis[/u] of a
+graph is the number of points which may move along bonds
+and through spots without possibility of reaching another such
+moving point. [ins]We may speak of a graph of chorisis 1 as a whole.[/ins] The [u]cyclosis[/u] of a graph is the number of bonds
+which must be cut to prevent the possibility of such a [del]moving[/del]
+point moving round to its starting-point. [ins]We may speak of a graph of cyclosis zero as a non-cyclic graph.[/ins]
+
+A [u]valental[/u] graph is a graph every spot of which has a
+[u]valency[/u] depending exclusively upon its quality, this valency
+being the number of bonds attached to it; and these bonds are
+distinguished from one another by being attached to determinate
+parts of the spot. [ [ins]It is true that in chemistry such distinctions
+between the bonds are not yet recognized; but they presumably
+exist.[/ins] ]
+
+Valental graphs and parts of graphs receive designations ac-
+cording to the numbers of their loose ends, as follows:
+
+$$\begin{array}{cc}
+\text{Number of loose ends.} & \text{Name of graph.} \\
+0 & \text{medad} \\
+1 & \text{monad} \\
+2 & \text{dyad} \\
+3 & \text{triad} \\
+>2 & \text{polyad} \\
+2N & \text{artiad} \\
+2N+1 & \text{perissid}
+\end{array}$$

@@ -1,0 +1,15 @@
+[fig]diagram of a circle with a triangle and various line segments labeled with variables[/fig]
+
+$\sqrt{A^2 - p^2} - q = c$
+$\sqrt{C^2 - p^2} + q = a$
+$A^2 a + C^2 c = r^2 (a + c) + ac (a + c)$
+$q = \sqrt{r^2 - p^2}$
+
+[fig]sketch of two intersecting circles or an ellipse[/fig]
+
+$A^2 (\sqrt{C^2 - p^2} + \sqrt{r^2 - p^2}) + C^2 (\sqrt{A^2 - p^2} - \sqrt{r^2 - p^2})$
+$= [del]r^2[/del] (\sqrt{A^2 - p^2} + \sqrt{C^2 - p^2}) ([del]r^2[/del] + \sqrt{A^2 - p^2} \sqrt{C^2 - p^2}$
+[ins]$[del]r^2[/del]$[/ins] [del]$+ \sqrt{A^2 - p^2} \sqrt{C^2 - p^2}$[/del]
+$+ \sqrt{A^2 - p^2} \sqrt{r^2 - p^2}$
+$- \sqrt{C^2 - p^2} \sqrt{r^2 - p^2}$
+$- [del]r^2[/del] + p^2 )$

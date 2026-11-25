@@ -1,0 +1,19 @@
+[marginalia]
+[u]Logic[/u]
+III
+[date]1874[/date]
+[/marginalia]
+
+example, even allowed them to be imaginary; though I cannot approve of that. But for the purposes of [del]dual[/del] trichotomic mathematics, it should be recognized that each quantity has one of three values. Call them, for the moment, $0^{\circ}$, $120^{\circ}$, $240^{\circ}$; [del]$360^{\circ}$[/del] regarding $360^{\circ}$ as the same as $0^{\circ}$. Or one might call them night, morning, and afternoon. Let us denote the three values by $o$ (for [foreign]ὄρθρος[/foreign]), $\delta$ (for [foreign]δείλη[/foreign]), $\nu$ (for [foreign]νύξ[/foreign]). Then, we must [ins]upon[/ins] have the addition table:
+
+$$\begin{array}{ccc}
+o + o = o & o + \delta = \delta & o + \nu = \nu \\
+\delta + o = \delta & \delta + \delta = \nu & \delta + \nu = o \\
+\nu + o = \nu & \nu + \delta = o & \nu + \nu = \delta
+\end{array}$$
+
+For multiplication table of these numbers [ins]will be[/ins] [del]we shall have[/del]
+
+[fig]crossed out multiplication tables[/fig]
+
+obtained by assuming $\delta\delta = \delta$. Then $\delta\nu = \delta(\delta+\delta) = \delta\delta + \delta\delta = \delta + \delta = \nu$. $\delta o = \delta(\nu+\delta) = \delta\nu + \delta\delta = \nu + \delta = o$.

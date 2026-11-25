@@ -1,0 +1,27 @@
+$\Pi_i \Pi_j \Pi_k \ a_{ij}(b_{ik} + [del]c_{jk}[/del] [ins]c_{jk}[/ins]) = \Pi_i \Pi_j \{ a_{ij} \cdot \Pi_k (b_{ik} + c_{jk} ) \} = \Pi_i \Pi_j a_{ij} \cdot \Pi_u \Pi_v \Pi_k (b_{uk} + c_{vk})$
+
+$\Pi_k \Pi_u \Pi_v (b_{uk} + c_{vk}) = \Pi_k (b_{1k} + c_{1k}) \cdot (b_{2k} + c_{2k}) \cdot (b_{3k} + c_{3k}) \cdot etc$
+[del]$(b_{2k} + c_{1k}) \cdot (b_{2k} + c_{2k}) \cdot (b_{2k} + c_{3k}) \cdot etc$[/del]
+[del]$(b_{3k} + c_{1k}) \cdot (b_{3k} + c_{2k}) \cdot (b_{3k} + c_{3k}) \cdot etc$[/del]
+
+$= \Pi_k (b_{1k} + \Pi_j c_{jk}) \cdot (b_{2k} + \Pi_j c_{jk}) \cdot etc$
+$= \Pi_k (\Pi_i b_{ik} + \Pi_j c_{jk})$
+
+$\Pi_i \Pi_j \ a_i b_j = \Pi_i a_i \cdot \Pi_j b_j$
+$\Pi_i \Pi_j \ (a_i + b_j) = \Pi_i a_i + \Pi_j b_j$
+
+$\Pi_i \Pi_j \Pi_k \ a_{ij} \cdot (b_{ik} + c_{jk})$
+$= \Pi_i \Pi_j \ a_{ij} \cdot [\Pi_k (\Pi_u b_{uk} + \Pi_v c_{vk})]$
+
+$\Pi_i \Pi_j \Sigma_k \ a_{ij} \cdot (b_{ik} + c_{jk}) = (\Pi_i \Pi_j \ a_{ij}) \cdot \Pi_u \Pi_v \ (\Sigma_k b_{uk} + \Sigma_k c_{vk})$
+$= (\Pi_i \Pi_j a_{ij}) \cdot [(\Pi_u \Sigma_k b_{uk}) + (\Pi_v \Sigma_w c_{vw})]$
+
+$\Pi_i \Sigma_k \Pi_j \ a_{ij} \cdot (b_{ik} + c_{jk}) = (\Pi_i \Pi_j a_{ij}) \cdot \Pi_u (\Sigma_k b_{uk} + \Sigma_w \Pi_v c_{vw})$
+$= (\Pi_i \Pi_j ; a_{ij}) \cdot [(\Pi_u \Sigma_k b_{uk}) + (\Sigma_w \Pi_v c_{vw})]$
+
+$\Sigma_i \Pi_j (g_i \cdot l_{ij} + \overline{c}_i) = \Sigma_i (g_i \cdot l_{i1} + \overline{c}_i) \cdot (g_i \cdot l_{i2} + \overline{c}_2) \cdot (g_i l_{i3} + \overline{c}_3)$
+$= (g_1 l_{11} + \overline{c}_1) (g_1 l_{12} + \overline{c}_2) \cdot (g_1 l_{13} + \overline{c}_3)$
+$+ (g_2 l_{21} + \overline{c}_1) (g_2 l_{22} + \overline{c}_2) (g_2 l_{23} + \overline{c}_3 + etc$
+$= g_1 \cdot (l_{11} + l_{12} + l_{13} + etc) + \overline{c}_1 \cdot \overline{c}_2 \cdot \overline{c}_3 \cdot etc$
+$+ g_2 \cdot (l_{21} + l_{22} + l_{23} + etc) + \overline{c}_1 \cdot \overline{c}_2 \cdot \overline{c}_3 \cdot etc$
+$= \Sigma_i \ g_i (\Sigma_j l_{ij}) + \Pi_k \overline{c}_k$

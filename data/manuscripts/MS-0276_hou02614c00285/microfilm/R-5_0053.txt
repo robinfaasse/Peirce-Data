@@ -1,0 +1,60 @@
+A very good illustration of the
+fact that an infinitely long line
+may be terminated at both ends,
+and that although it [del]fully[/del] [ins]the real part of[/ins] repre-
+sents [del]for[/del] [ins]a[/ins] general equation is
+
+$$r = (6^2 - \phi^2)^{\frac{1}{2} \sqrt{-1}} \phi$$
+
+[del]where 6 is the Neperian base[/del]
+
+For though this stops at the origin, it stops
+with a definite value of $\phi$ namely $\phi =$
+
+$$r = 6^{[1 - (\frac{\phi}{6})^2]^{\frac{1}{2}}} \phi$$
+
+where $\partial = \pi$ and $6 = e = \text{Neperian Base}$
+$$= 2 \arcsin 1 \quad = 1 + 1 + \frac{1}{2!} + \frac{1}{3!} + \text{etc}$$
+$$= \sum_0^\infty \frac{1}{i!}$$
+
+---
+
+$$r = 6^{a \phi}$$
+
+$$r = 6^{a \phi}$$
+$$6^{a (\phi + d\phi)} = 6^{a \phi} 6^{a d\phi}$$
+$$= 6^{a \phi} (1 + a \phi)$$
+
+$$r = 6^{a \sin \phi}$$
+
+$$\frac{dr}{d\phi} = [del]\text{r}[/del] * (6^2 - \phi^2)^{\frac{1}{2}} d\phi$$
+$$= a (1 - \frac{\phi^2}{a^2})^{\frac{1}{2}} d\phi$$
+
+$$\frac{d \tan \phi}{d\phi} = \frac{\cos^2 \phi + \sin^2 \phi}{\cos^2 \phi} = \frac{1}{\cos^2 \phi}$$
+$$\frac{d \text{cf}}{d \tan \phi} = \cos^2 \phi = \frac{1}{\tan^2 \phi + 1}$$
+
+[fig]small diagram[/fig]
+
+$$\sqrt{x^2+1} \cdot dx = \frac{1}{2} dx \frac{d \arctan \theta}{d\phi} = \frac{d \tan \phi}{\tan^2 \phi + 1}$$
+
+$$\sqrt{x^2+1} = 2 \frac{1}{\sqrt{x^2+1}}$$
+
+$$\sqrt{x^2+1} = \frac{x^2+1}{\sqrt{x^2+1}} \frac{d \tan \phi}{d\phi} = \tan^2 \phi + 1$$
+
+$$= \frac{x^2}{\sqrt{x^2+1}} + \frac{1}{\sqrt{x^2+1}} \frac{d \tan \phi}{d\phi} =$$
+
+$$d\phi = (\tan^2 \phi + 1)$$
+
+$$d \arctan [del]x[/del] = \frac{dx}{x^2+1}$$
+
+$$\frac{d\phi}{d \tan \phi} = \cos^2 \phi \frac{d \tan \phi}{d\phi} = \frac{1}{\frac{\cos^2 \phi}{d\phi}}$$
+
+$$\frac{d \arctan \phi}{dx} = \frac{1}{x^2+1} \frac{d \tan \phi}{d\phi} =$$
+
+$$\frac{d \sin x}{\cos x} =$$
+
+$$\frac{\cos^2 x + \sin^2 x}{\cos^2 x}$$
+
+$$\frac{d \tan x}{dx} = \sec^2 x$$
+
+$$d \tan \phi$$

@@ -1,0 +1,24 @@
+[pn]263[/pn]
+
+a common point. Let $[A]$, $[B]$, $[C]$ be three points in
+the plane, not [del]collinear[/del] coradial. Let $[D]$ be a point of
+the ray not in the plane. Then, [del]always supposing[/del]
+[del]the property in question[/del] supposing points expressed in
+terms of $X, Y, Z, W$, we have seen that it is always
+possible to express $X, Y, Z, W$, in terms of $A, B, C, D$;
+and therefore every point may be so expressed. Then
+let one of the other points of the ray be
+$$[ \frac{aA + bB + cC + dD}{a + b + c + d} ]$$
+and, if the notation has the property in question, every
+other point of the ray may be expressed in the form
+$$[ x \frac{aA + bB + cC + dD}{a + b + c + d} + \overline{1-x} \cdot D ]$$
+and every such point will be a point of the ray, whatever
+$x$ may be. [del]But[/del] Take for the value of $x$
+$$x = \frac{a + b + c + d}{a + b + c}$$
+Then the point is
+$$[ \frac{aA + bB + cC + dD}{a + b + c} - \frac{d}{a + b + c} D ] .$$
+But this equals
+$$[ \frac{aA + bB + cC}{a + b + c} ] .$$
+But this is in the plane $(ABC)$, if the notation has the pro-
+perty in question. This proves the third and fourth pro-
+positions.

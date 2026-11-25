@@ -1,0 +1,31 @@
+[marginalia]
+[pn]Ms. 20[/pn]
+[/marginalia]
+
+# CONTENTS.
+
+| Art. | page. | Definitions | Corollaries | Theorems (and Problems) | Scholia etc. |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 1 | 1. $p_i$ | 1. $p_{i \cdot j}$ | 1. $\Pi_i \Pi_j \Sigma_x \Sigma_y \tau_{jxy} \cdot \bar{\tau}_{ixy} \Psi \bar{p}_i \Psi p_j$ | |
+| | | | 2. $p_{i \cup j}$ | 2. $\Pi_i \Pi_j \bar{p}_i \Psi \bar{p}_j \Psi p_{i \cup j}$ | |
+| 2 | 2 | 2. $t_{imn}$ | | 3. $\Pi_i \Pi_m t_{im0}$ | |
+| | | | | 4. $\Pi_i \Pi_m \Sigma_s \Pi_s \bar{r}_{irs} \Psi t_{i \infty m}$ | |
+| | 3 | | | 5. $\Pi_m \Pi_n l_{n0} \Psi \bar{t}_{\{0\}mn}$ | |
+| | | | | 6. $\Pi_m \Pi_n l_{0m} \Psi t_{\{\infty\}mn}$ | |
+| | | | | 7. $\Pi_m \Pi_n \Sigma_v q_{mv} \bar{q}_{nv} \Psi t_{\{\cup\}mn}$ | |
+| | | | | 8. $\Pi_m \Pi_n \Pi_r \Pi_s \bar{q}_{mr} \Psi \bar{q}_{nr} (\bar{q}_{ms} \Psi \bar{q}_{sr}) \Psi t_{\{\tau\}mn}$ | |
+| | | | | 3. $\Pi_i \Pi_j \Pi_l \Pi_m \Pi_n \Sigma_s \Pi_s \Sigma_x \Sigma_y q_{sx} \bar{q}_{sy} (\bar{q}_{ix} \Psi \bar{q}_{iy}) \Psi q_{ol} \bar{q}_{nl}$ | |
+| | | | | [del]$\Psi q_{om} \bar{q}_{nm}$[/del] $\Psi t_{ilm} \Psi t_{ilo}$ | |
+| | 4 | | | 4. $\Pi_i \Pi_j \Pi_l \Pi_m \Pi_n \bar{t}_{ilm} \Psi \bar{t}_{jmn} \Psi t_{\{ij\}ln}$ | |
+| 3 | | | | | [marginalia] 1. Inclusion here [del]de[/del] defined. But [unclear]part[/unclear] [/marginalia] |
+| | 5 | 3. $w_{mn}$ | | 9. $\Pi_n l_{0n} \Psi w_{0n}$ | |
+| | | | | 10. $\Pi_m \bar{w}_{m0}$ | |
+| | | | | 11. $\Pi_n \bar{w}_{\infty n}$ | |
+| | | | | 12. $\Pi_m l_{\infty m} \Psi w_{m\infty}$ | |
+| | | | | 5. $\Pi_i \Pi_j \Pi_l \Pi_m \Pi_n \Pi_o \Sigma_u \Pi_v \Sigma_x \Sigma_y \bar{w}_{mn} \Psi q_{iu} \bar{q}_{nu} \Psi (\bar{q}_{io} \Psi \bar{q}_{no}) \Psi$ | |
+| | | | | $\Psi q_{mx} \bar{q}_{lx} \Psi q_{my} \bar{q}_{ly}$ | |
+| | 6. | | | 13. $\Pi_l \Pi_m \Pi_n \bar{w}_{lm} \Psi \bar{w}_{mn} \Psi w_{ln}$ | |
+| 4 | | 4. $s_{mn}$ | | 14. $\Pi_m \Pi_n \Sigma_v q_{mv} \bar{q}_{nv} \Psi s_{mn}$ | |
+| | | | | 15. $\Pi_l \Pi_m \Pi_n \bar{s}_{lm} \Psi \bar{s}_{mn} \Psi s_{ln}$ | |
+| | | | | | [marginalia] 2. It is [unclear]character[/unclear] [unclear]class[/unclear] [unclear]inclusion[/unclear] [unclear]not[/unclear] [unclear]only[/unclear] [unclear]from[/unclear] [unclear]one[/unclear] of [unclear]which[/unclear] [unclear]is[/unclear] a point [/marginalia] |
+| 5 | | | | | |

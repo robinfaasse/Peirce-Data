@@ -1,0 +1,150 @@
+[fig]Calculations on grid paper[/fig]
+
+[marginalia]
+[del]2[/del]
+y
+-
+G
+8
+.
+1
+6
+3
+8
+6
+5
+5
+4
+6
+0
+1
+[/marginalia]
+[marginalia]
+1
+-
+4
+8
+1
+6
+4
+7
+8
+8
+9
+6
+[/marginalia]
+[marginalia]
+0
+-
+3
+0
+1
+0
+3
+0
+0
+0
+0
+0
+[/marginalia]
+
+ds = [fig]square root formula[/fig]
+
+[fig]sketch of circle[/fig]
+
+$(\text{R}^2 - r^2) + z^2 = \text{R}^2$
+
+$1 - y$
+
+$2\text{R} - z$
+
+$dx\ g^2 = x\ dy^2$
+
+$2\text{R}\sqrt{\text{R}^2 - r^2}$
+
+$dy = dx \frac{2 \text{R} dr}{\text{R} + z}$
+
+$dy = dx \frac{2 \text{R} z}{(\text{R}+z)^2}$
+
+$(\text{R}+z) [del]dr[/del]$
+
+$(z - \text{R})^2 + r^2 = \text{R}^2$
+
+$z^2 - 2\text{R}z + r^2 = 0$
+
+$z^2 + z^2 + (2\text{R}-z)^2 = 2\text{R}$
+
+$2z^2 + 2r^2 + 4\text{R}^2 - 4\text{R}z + z^2 = 4\text{R}^2$
+
+$2z^2 - 2 r z + r^2 = 0$
+
+$z^2 - r$
+
+$(z^2 + r^2) + r^2 + (2\text{R}-z)^2 = 4\text{R}^2$
+
+$z^2 + 2r^2 + 4\text{R}^2 - 2\text{R}z + z^2 = 4\text{R}^2$
+
+$2z^2 + 3$
+
+$2z^2 + r^2 = \text{R} z$
+
+$(\text{R} - z) z = r^2$
+
+$\frac{\text{R}-z}{r} = \frac{r}{z}$
+
+$r = \sqrt{\text{R} z - z^2}$
+
+$2r\ dr = (\text{R} - 2z) dz$
+
+$(z - \frac{\text{R}}{2})^2 = \frac{\text{R}^2}{4} - r^2$
+
+$z = \frac{\text{R}}{2}$
+
+$z^2 - \text{R}z + \frac{\text{R}^2}{4}$
+
+$dz = [del]\frac{r}{[fig]square root formula[/fig]}[/del] dr$
+
+$\text{R} dz - 2z dz = 2r\ dr$
+
+$dr = \frac{\text{R}-2z}{2r} dz$
+
+$(dr)^2 = \frac{\text{R}^2 - 4\text{R}z + 4z^2}{4r^2} (dz)^2$
+
+$(dr)^2 + (dz)^2 = \frac{(\text{R}-2z)^2 + 4r^2}{2r^2} = \frac{(\text{R}-2z)^2 + 4(\text{R}-z)z}{4r^2}$
+
+$= \frac{(\text{R}-2z)^2}{4(\text{R}-z)z^2}$
+
+$(\frac{r}{\text{R}})^2 + (\frac{z}{\text{C}})^2 = 1$
+
+$\frac{r dr}{\text{R}^2} + \frac{z dz}{\text{C}^2} = 0$
+
+$z = \text{R} - c$
+
+$z = \text{R}^2 - 2c\text{R}$
+
+$z + c = \text{R} - c$
+
+$z^2 + 2cz = \text{R}^2 - 2c\text{R}$
+
+$z[\text{R}-2c] = 2c(z+\text{R})$
+
+$c = \frac{\text{R}^2 - z^2}{2z}$
+
+$\frac{1}{520}$
+
+$\frac{1}{36000}$
+
+$\frac{r}{\text{R}}$
+
+$z = \text{C} - c$
+$\text{R} = \text{C} + c$
+
+$\frac{z}{c-z}$
+
+$\frac{z^2}{\text{C}^2(1-\frac{z}{\text{C}})} + \frac{r^2}{\text{C}^2 \frac{2c}{\text{C}} [del]1 - [u]\frac{c}{C}[/u][/del] - 2ab}$
+
+$\frac{(a+b)^2}{4ab} = \frac{1}{4} (\frac{a}{b} + \frac{b}{a} - 2)$
+
+$\frac{(a-b)^2}{a(a+b}$
+
+$1-2i\ \frac{1+2i(1+4i}{1-2i}$

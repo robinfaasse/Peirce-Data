@@ -1,0 +1,20 @@
+CHAPTER THE SIXTH. [del]Inor[/del] Evolution.
+
+To extract the square root of a number
+
+1[u]st[/u], [del]Change the place[/del] Move the bar an even number of places to the right or left so as to make the resulting number > 1 and < 100.
+Then the first approximation to the root is 1, and the square of this is 1.
+
+2[u]d[/u], Go through the following operation as many times as may be necessary to obtain the required approximation to the root.
+
+i. Under the square of the approximation already obtained, copy the approximation itself beginning at such a place that when this is added to the square above it the sum shall be as little less than the number whose root is to be extracted as possible, [del]and[/del]
+
+ii. If this number ends [ins]n-1[/ins] [del]n[/del] places to the right of the end of the number above it, write after it n zeros and then a 1
+
+iii. Add the last two numbers and the sum will be the square of the next approximation, which approximation will be the last with a 1 in the n[u]th[/u] place following the last 1 of the previous [del]has[/del] approximation
+
+3[u]d[/u] Move the bar in the opposite way and by half as much as it was previously moved.
+
+Example. Find the square root of 7, or 1 1 1 Moving bar + 1 1
+
+[fig]calculation of square root of 7 in binary[/fig]

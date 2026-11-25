@@ -1,0 +1,28 @@
+§ 6. The distribution of weight may be conceived to be
+expressed as a function either of $s$ or of $x$. I shall
+give the formulae for both methods. In the one case, we
+shall deal with
+(27) $k = dw/ds$,
+in the other with
+(28) $\kappa = dw/dx$.
+
+[u]Formulae for $k$[/u]. The radius of curvature is
+(29) $\rho = ds/d\tau$
+so that
+(30) $k\rho = dw/d\tau$
+and by differentiating (14)
+(31) $k(ds/d\tau) = k\rho = Q \sec^2 \tau$
+$Q = k\rho \cos^2 \tau = k_H \rho_H$
+Hence, by (5)
+(32) $q = k\rho \cos \tau$
+
+[u]Formulae for $\kappa$[/u]. The radius of curvature is
+(33) $\rho = \sec^3 \tau / D_x^2 y$.
+By differentiating (24) we get by (28)
+(34) $Q^{-1} \frac{dw}{dx} = \frac{\kappa}{Q} = \frac{d^2 y}{dx^2}$,
+and by (33)
+(35) $\frac{\kappa\rho}{Q} = \sec^3 \tau$
+whence
+(36) $Q = \kappa_H \rho_H$
+and
+(37) $q = \kappa\rho \cos^2 \tau$.

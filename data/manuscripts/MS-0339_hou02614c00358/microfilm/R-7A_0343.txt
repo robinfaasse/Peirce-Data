@@ -1,0 +1,27 @@
+[marginalia]1890 Aug 6[/marginalia] [pn]139r[/pn]
+
+The [ins]whole[/ins] numbers form a sequence which has this property
+where -g- means -exceeds-
+
+[marginalia]The universe is that of the numbers.[/marginalia] [fig]Three nested loops containing nodes and arrows[/fig]
+
+Hence follows the important Fermatian theorem:
+
+[fig]Diagram with loops and nodes labeled g[/fig]
+
+Addition of whole numbers defined by
+[del]Let Ex be no. next greater than x[/del]
+[del]0 + Ex = E[/del]
+0 + 0 = 0
+x + Ey = E(x + y)
+Ex + y = E(x + y)
+
+Multiplication is defined by
+0 x 0 = 0
+x x Ey = (x x y) + x
+Ex x y = y + (x x y)
+
+Involution
+[del]x^0 = x[/del]
+x^Ey = x . x^y
+[del](x^y)^z = x^y.z[/del]

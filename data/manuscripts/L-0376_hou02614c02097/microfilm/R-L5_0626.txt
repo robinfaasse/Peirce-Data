@@ -1,0 +1,27 @@
+REPORT of [u]                                                                                                    [/u] Inspector on [u]                                                              Steam Boiler used by[/u]
+[u]                                                                                                    at                                                               inspected                                           189[/u]
+
+[u]Tschirnhausen's transformation[/u]. A transformation of algebraic
+equations, the object of which is to form an equation whose
+roots are any rational integral function of the roots of
+a given equation. It is based on the following theorem:
+The most general rational algebraic transformation
+of a root of an equation of the $n$th. degree can be
+reduced to an integral transformation of the degree
+$n-1$ at most. In the cases of the quadratic and
+cubic it follows that the most general rational function
+of a root can be reduced to a linear function and
+[del]an algebraic[/del] [ins]a[/ins] quadratic function of that root,
+respectively. Let $f(x)$ be the given equation, whose
+roots are $\alpha_1, \alpha_2, \alpha_3, \dots \alpha_n$. The general mode of
+procedure in effecting the transformation is to form
+the equation whose roots are $\varphi(\alpha_1), \varphi(\alpha_2), \dots \varphi(\alpha_n)$
+where $\varphi(x)$ is a rational and integral function of $x$ of
+the degree $n-1$, so that $\varphi(x) \equiv a_0 + a_1 x + a_2 x^2 + \dots + a_{n-1} x^{n-1}$
+Raise $\varphi(x)$ to the different powers $2, 3, 4, \dots n$ in
+succession. By means of $f(x) = 0$ these may all be reduced
+to the forms
+$\varphi^2(x) = b_0 + b_1 x + b_2 x^2 + \dots + b_{n-1} x^{n-1}$
+$\varphi^3(x) = c_0 + c_1 x + c_2 x^2 + \dots + c_{n-1} x^{n-1}$
+$\dots$
+$\varphi^n(x) = l_0 + l_1 x + l_2 x^2 + \dots + l_{n-1} x^{n-1}$

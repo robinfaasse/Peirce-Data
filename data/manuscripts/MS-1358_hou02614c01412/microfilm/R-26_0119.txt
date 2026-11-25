@@ -1,0 +1,30 @@
+[marginalia]Union Bridge [date]1899 Feb 4[/date][/marginalia] [pn]11[/pn]
+
+$b_{-R+2} - 2b_{-R+1} + b_{-R} = 0$
+
+$b_{-R+2} = 2b_{-R+1} - b_{-R}$
+
+[del]$b_{-R+3} - 2b_{-R+2} + b_{-R}$[/del]
+$b_{-R+3} - 2b_{-R+2} + b_{-R+1}$
+$\phantom{b_{-R+3}} - 2b_{-R+2} + 4b_{-R+1} - 2b_{-R}$
+
+$b_{-R+3} = 4b_{-R+2} - 5b_{-R+1} + 2b_{-R}$
+$\phantom{b_{-R+3} = 4b_{-R+2}} \begin{array}{c} + 8 \\ \end{array} \phantom{-5b_{-R+1}} \begin{array}{c} - 4 \\ \end{array}$
+$\phantom{b_{-R+3}} = 3b_{-R+1} - 2b_{-R}$
+
+$b_{-R+4} = 4b_{-R+3} - 6b_{-R+2} + 4b_{-R+1} - b_{-R}$
+$\phantom{b_{-R+4} = 4b_{-R+3}} \begin{array}{c} -12 \\ +12 \end{array} \phantom{-6b_{-R+2}} \begin{array}{c} +6 \\ -8 \end{array}$
+$\phantom{b_{-R+4}} = 4b_{-R+1} - 3b_{-R}$
+
+$b_{-R+5} = 4b_{-R+4} - 6b_{-R+3} + 4b_{-R+2} - b_{-R+1}$
+$\phantom{b_{-R+5} = 4b_{-R+4} - 6b_{-R+3}} \begin{array}{c} +8 \\ -18 \\ +16 \end{array} \phantom{+4b_{-R+2}} \begin{array}{c} -4 \\ +12 \\ -12 \end{array}$
+$\phantom{b_{-R+5}} = 5b_{-R+1} - 4b_{-R}$
+
+[del]So[/del] $b_{-R+q} = qb_{-R+1} - (q-1)b_{-R}$
+
+when $-R+q = Q \quad q = R-Q$
+
+$b_{-Q} = (R-Q)b_{-R+1} - (R-Q-1)b_{-R} = 0$
+$b_{-R+1} = \frac{R-Q-1}{R-Q} b_{-R}$
+
+$b_{-R+q} = q \frac{(R-Q-1) + (1-q)(R-Q)}{R-Q} b_{-R} = \frac{R-Q-q}{R-Q} b_{-R}$

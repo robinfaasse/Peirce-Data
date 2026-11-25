@@ -1,0 +1,25 @@
+[pn](5[/pn]
+
+But
+[del]\((x + ai + bj)(x + ai + bj) =\)[/del] [ins]\((x + ai + bj)(x + ai + bj) =\)[/ins] \(x^2 + 2axi + 2bxj + abv\)
+\(-a^2\) [ins]\(-abrv\)[/ins]
+\(-b^2\)
+\(+abs\)
+\(+abrs\)
+
+Let \(c\) be the scalar which this equals. Then
+\(ab(r-1)v = 2axi + 2bxj + x^2 - a^2 - b^2 + ab(r+1)s - c\)
+But this is impossible unless the equation
+vanishes, because \(v\) is the vector of \(ij\). Hence
+either \(r-1 = 0\) or \(v = 0\)
+But if \(v = 0\) \(ij = s\) and multiplying into \(j\)
+we should get
+\(-i = sj\)
+which is absurd. Hence \(r=1\). and [u]\(ji = s - v\)[/u] [u]Q.E.D.[/u]
+[ins]Next prove sum of two vectors is a vector, because it cannot be a scalar and \((ai+bj)^2 = -a^2-b^2+2abs\).[/ins]
+
+[del]We have now[/del] [ins]I now propose[/ins] to prove that the number of independent vectors in any algebra fulfilling the required condition is either 0, 1, or 3. I have therefore to prove \(1^{st}\) that the number cannot be 2 and
+\(2^{d}\) that it cannot be as great as 4.
+
+That it cannot be 2 is obvious for the vector
+of \(ij\) is independent of \(i\) and \(j\). The whole [del]difficulty[/del] [ins]remaining difficulty[/ins] is to show that it cannot be as great

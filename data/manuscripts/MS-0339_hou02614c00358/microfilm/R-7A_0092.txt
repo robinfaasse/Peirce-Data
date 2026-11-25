@@ -1,0 +1,32 @@
+[pn]82R[/pn]
+
+[u]Right 15[/u]
+$X \prec Y$ means that [del]right[/del] we have a right to $Y$
+in case we have a right to $X$.
+Hence if we have a right to $Y$ anyway
+[del]what[/del] we have a right to $X \prec Y$.
+Hence we have a right to
+$$y \prec (x \prec y)$$
+
+[u]New principle[/u]. We have a right to
+$$x \prec x$$
+
+[del][u]New principle[/u][/del] Suppose we have a right to $x \prec (y \prec z)$
+Then if we have a right to $x$ we have a right to $y \prec z$
+$\therefore$ If we have a right to $x$ and right to $y$ we have right to $z$
+$\therefore$ If we have right to $y$ we have right to $(x \prec z)$
+$$y \prec (x \prec z)$$
+$\therefore [x \prec (y \prec z)] \prec [y \prec (x \prec z)]$
+
+[del][u]New principle[/u][/del]
+Suppose we have a right to $(x \prec y) \prec z$
+$\therefore$ If we have right to $(x \prec y)$ we have right to $z$
+But if we have right to $y$ we have right to $x \prec y$
+[del]We have right to[/del]
+$\therefore$ If we have right to $y$ we have right to $z$
+$$y \prec z$$
+$\therefore [(x \prec y) \prec z] \prec [y \prec z]$
+
+[del][u]New principle[/u][/del]
+If we have right to $x$ and to $y \prec z$
+then to $(x \prec y) \prec z$

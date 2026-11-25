@@ -1,0 +1,28 @@
+Examination
+of formulae of the Copula of Inclusion
+
+The general principle is that we are justified
+in writing $A \prec B$, provided that assuming $A$ to
+be true, we find $B$ necessarily is so.
+
+General form with one copula
+$A \prec B$
+
+The special form
+(1) $A \prec A$
+holds. It is the principle of identity. For assuming
+$A$ to be true, $A$ is true [del]according to[/del] and the
+condition of the general principle is satisfied.
+
+General forms with two copulas
+(I) $A \prec (B \prec C)$
+(II) $(A \prec B) \prec C$
+
+For (I) is true in two special cases. The first is
+(2) $A \prec (B \prec B)$
+Assuming $A$ to be true, $(B \prec B)$ is true by (1),
+and so the condition of the general principle is sa-
+tisfied. The other special form is
+(3) $A \prec (B \prec A)$.
+Assuming $A$ to be true, $B \prec A$ is true. For assuming
+$B$ to be true $A$ is true, according to the first assumption

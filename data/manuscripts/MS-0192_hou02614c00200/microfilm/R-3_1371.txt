@@ -1,0 +1,24 @@
+[u]Art 7.[/u] It is plain that $\sin 0 = 0$ and that $\sin y$ increases as $y$ increases from $0$ up until $\sin y$ is nearly (if not quite) $1$. For this is [del]true[/del] [ins]true[/ins] of successive pairs of terms of the development.
+$y - \frac{1}{3!} y^3$ increases till $y = \sqrt{2}$
+$\frac{1}{5!} y^5 - \frac{1}{7!} y^7$ increases till $y = \sqrt{30}$
+$\frac{1}{9!} y^9 - \frac{1}{11!} y^{11}$ increases till $y = \sqrt{90}$ etc
+Now even for $y = \sqrt{2}$
+$\sin y = (1 - \frac{2}{3!} + \frac{4}{5!} - \frac{8}{7!} + \text{etc}) \sqrt{2}$
+[fig]fraction with square root[/fig]
+
+We shall therefore get a good idea of the course of the function if, by means of the addition-principle, we calculate the sine of [ins]successive[/ins] multiples of $H$, where $\sin H = \frac{1}{2}$
+
+$\sin H = \frac{1}{2}$
+$\cos H = \sqrt{1 - (\frac{1}{2})^2} = \frac{\sqrt{3}}{2}$
+$\sin 2H = \frac{1}{2} \frac{\sqrt{3}}{2} + \frac{1}{2} \frac{\sqrt{3}}{2} = \frac{\sqrt{3}}{2}$
+$\cos 2H = \frac{\sqrt{3}}{2} \frac{\sqrt{3}}{2} - \frac{1}{2} \cdot \frac{1}{2} = \frac{1}{2}$
+$\sin 3H = \frac{\sqrt{3}}{2} \frac{\sqrt{3}}{2} + \frac{1}{2} \frac{1}{2} = 1$
+$\cos 3H = \frac{1}{2} \frac{\sqrt{3}}{2} - \frac{\sqrt{3}}{2} \frac{1}{2} = 0$
+$\sin 4H = 1 \frac{\sqrt{3}}{2} + 0 \frac{1}{2} = \frac{\sqrt{3}}{2}$
+$\cos 4H = 0 \frac{\sqrt{3}}{2} - 1 \frac{1}{2} = - \frac{1}{2}$
+
+The student should continue the calculation up to $18H$.
+
+[del]In any imaginary quantity $x + yi$, $x$ is called the real part and $y$ the imaginary part. It would be quite proper to in imitation of the language of quaternions to call $x$ the scalar of the imaginary, and $yi$ the vector of the imaginary, and $y$ the tensor of the vector.[/del]
+
+As $z$ leaves the value $z = 0$, where $O^2 = -1$, and [del]becomes[/del] [ins]gets[/ins] a [del]longer and longer[/del] [ins]vector part which increases while[/ins] [del]$y i$, the scalar[/del] exponential $O^{yi}$ gets a vector part which [del]increases while the scalar of $O^{yi}$ diminishes. When $y = 3H$, the scalar of $O^{yi}$ disappears and the tensor of the vector equals $1$. Then, $y$ still increasing, the tensor of the vector begins to diminish while the scalar becomes negative.[/del] [ins]disappears and[/ins] The sine of $y$, of $6H - y$, and of $12H + y$ are all equal. Hence the sine of $y$ and $18H - y$ are equal. The cosine of $y$ of $-y$ and of $12H + y$ are all equal. [ins]Hence, $\cos (24H - y) = \cos y$ etc[/ins]

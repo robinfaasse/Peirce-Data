@@ -1,0 +1,28 @@
+[pn]1st[/pn]
+Rule asserted
+Case asserted
+Result asserted
+
+[pn]2nd[/pn]
+Rule asserted
+Result denied
+Case denied
+
+[pn]3rd[/pn]
+Result denied
+Case asserted
+Rule denied
+
+and if we further remember that it is the assertion of the rule which is the inductive conclusion, we perceive, at once, that to say that inductions are valid whose explaining syllogism is in the 3rd figure is merely to say that if any inference would be justly drawn from certain premises then if that inference is false we may justly infer that the premises are not both true. Now let us see how this principle holds. If we say, [del]these[/del] [ins]certain[/ins] beans have been taken out of a bag and these beans are black; accordingly all the beans in the bag were probably black; we make an induction whose explaining syllogism is
+All in the bag were black
+These were in the bag
+$\therefore$ These were black
+
+Now the corresponding syllogism of the third figure would be
+These are not all black
+These are taken from the bag
+$\therefore$ Not all [del]in the bag[/del] [ins]were[/ins] black.
+
+Can we make the induction corresponding to this? Plainly we can. If we were to pull out some beans out of a bag which we know contains some white beans, we may infer by induction that some of those we pull out will also be white. This [del]plainly[/del] [ins]obviously[/ins] depends upon the same principle that guides induction namely that as is the sample so is the whole. This figure of induction results from the first by transposing the conclusion [ins]of the explaining syllogism[/ins], with one of the premises of the [del]induction[/del] [ins]explaining syllogism[/ins] and denying both. But it also results from transposing the [del]conclusion[/del] [ins]explanation[/ins] of the inductive argument with one of the premises and denying both. The question suggests itself, therefore, whether the conclusion of the induction may not be transposed with the other premise and both denied.
+
+Suppose for example we know that

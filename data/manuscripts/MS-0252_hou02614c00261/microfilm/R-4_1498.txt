@@ -1,0 +1,11 @@
+[fig]Tic-tac-toe grid with numbers and X[/fig] Case 342. The first player occupies a side square. The second player has a choice between 6 ways of playing, as numbered in the figure, making cases 3421, 3422, 3423, 3424, 3425, 3426.
+
+[fig]Tic-tac-toe grid with numbers, X, and O[/fig] Case 3421. The second player occupies [del]a[/del] [ins]the[/ins] corner adjoining the two side-squares of the first player. The first player has his choice of 5 ways of playing as numbered in the figure, making cases 34211, 34212, 34213, 34214, 34215.
+
+[fig]Tic-tac-toe grid with X and O[/fig] Case 34211. The first player occupies [ins]one of[/ins] a corner adjoining his own and a vacant side square. The second player can make tik-tat-too by occupying the corner opposite the one he already occupies.
+
+[fig]Tic-tac-toe grid with X and O[/fig] Case 34212. The first player occupies the centre. The second player is obliged to occupy the side square between two vacant corners. There is no tik-tat-too.
+
+[fig]Tic-tac-toe grid with X and O[/fig] Case 34213. The first player occupies the side square between two vacant corners. The second player is obliged to occupy the centre. The first player is obliged to occupy the corner opposite that of the [del]first[/del] [ins]second[/ins] player. There is no tik-tat-too.
+
+[fig]Tic-tac-toe grid with X and O[/fig] Case 34214. The first player occupies [ins]one of[/ins] the corner adjoining [del]his own[/del] and the second player's side squares. There is no tik-tat-too unless the

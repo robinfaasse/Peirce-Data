@@ -1,0 +1,34 @@
+[pn]R[/pn] [pn]51[/pn]
+denominator less than N, counting fractions on the limits for each.
+
+But if N is even, of the two numerators, M and M+1, one is
+even, so that either [fraction] [ins]M[/ins] [over] N [/fraction] or [fraction] [ins]M+1[/ins] [over] N [/fraction] has both numerator and denomi-
+nator equal to the doubles of those of another fraction. Counting this
+as ½ a fraction between [fraction] [ins]M[/ins] [over] N [/fraction] on [fraction] [ins]M+1[/ins] [over] N [/fraction], there will be as before ½N-½
+fractions of lower denominator than N between these limits.
+
+We thus obtain the following simple
+[u]Rule for arranging fractions in the order of their values[/u]:
+
+Within the limits of values adopted, insert all fractions of lower deno-
+minators before those of higher denominators, and of fractions of
+any one denominator those of lower numerators before those of
+higher numerators.
+
+In writing each fraction, draw a line above it and another
+below it.
+
+For each value of N, enter the fraction [fraction] [ins]1[/ins] [over] N+1 [/fraction] [ins]with its lines[/ins] (next below the [del]lower[/del] [ins]line[/ins]
+drawn under [fraction] [ins]1[/ins] [over] N [/fraction].
+
+For each value of M, enter [fraction] [ins]M+1[/ins] [over] N+1 [/fraction] with its [del]lines[/del] N lines above
+[fraction] [ins]M[/ins] [over] N+1 [/fraction] and its lines.
+
+The diagram shows in the first column the result of applying this
+rule to all fractions of denominators not greater than 12 and of
+values not exceeding ½. The other [del]two[/del] columns show all fractions
+of denominators less than 20 and values less than ½.
+
+A simpler rule could not be expected. However, if we
+permit ourselves the operation of addition, a simpler rule there
+is, which depends on the following [del]six[/del] theorems.

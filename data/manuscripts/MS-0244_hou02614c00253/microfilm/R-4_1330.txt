@@ -1,0 +1,18 @@
+[pn]3[/pn]
+
+This solution fails in case
+(17) [u][del]$$(\frac{c-b}{2e})^2 + \frac{a}{e} = 0$$[/del][/u]
+For then
+(18) $$\Phi^{n+1} [del]=[/del] [ins]=[/ins] \frac{-(\frac{c-b}{2e})^2 + \frac{b}{e} \Phi^n}{\frac{c}{e} + \Phi^n}$$
+(19) $$\Phi^{n+1} + \frac{c}{e} = \frac{\frac{b+c}{e} \Phi^n + (\frac{c}{e})^2 - (\frac{c-b}{2e})^2}{\Phi^n + \frac{c}{e}}$$
+(20) $$(\Phi^{n+1} + \frac{c}{e})(\Phi^n + \frac{c}{e}) - \frac{b+c}{e}(\Phi^n + \frac{c}{e}) + (\frac{b+c}{2e})^2$$
+The solution of this is simply
+(21) $$\Phi^n = \frac{b-c}{2e} + \frac{1}{C+n} \frac{b+c}{2e}$$
+For substituting this in the left hand side of (18) we get
+(22) $$\Phi^{n+1} = \frac{b-c}{2e} + \frac{1}{C+n+1} \frac{b+c}{2e}$$
+Substituting (21) in the right handside of (18) we get
+(23) $$\Phi^{n+1} = \frac{-(\frac{b-c}{2e})^2 + \frac{b}{e} \cdot \frac{b-c}{2e} + \frac{1}{C+n} \frac{b}{e} \frac{b+c}{2e}}{\frac{c}{e} + \frac{b-c}{2e} + \frac{1}{C+n} \frac{b+c}{2e}}$$
+$$= \frac{\frac{b^2}{4e^2} - \frac{c^2}{4e^2} + \frac{1}{C+n} \frac{b}{e} \frac{b+c}{2e}}{\frac{c}{e} + \frac{b-c}{2e} + \frac{1}{C+n} \frac{b+c}{2e}}$$
+$$= \frac{\frac{b+c}{2e} \cdot \frac{b-c}{2e}(C+n) + \frac{b}{e} \cdot \frac{b+c}{2e}}{\frac{b+c}{2e}(C+n) + \frac{b+c}{2e}}$$
+$$= \frac{\frac{b-c}{2e}(C+n) + \frac{b}{e}}{C+n+1} = \frac{\frac{b-c}{2e}(C+n+1) + \frac{c-b}{2e} + \frac{b}{e}}{C+n+1}$$
+$$= \frac{b-c}{2e} + \frac{\frac{b+c}{2e}}{C+n+1}$$

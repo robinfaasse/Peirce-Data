@@ -1,0 +1,51 @@
+To prove that $(a \bar{\smile} \bar{b}) \smile (a \cdot b)$
+This depends on the formula
+$(x \bar{\smile} \bar{y}) \smile z = x \smile y \smile z$
+or $\left\{ \begin{aligned} & [ \{(x \smile y \smile 0) \smile 0 \} \smile z ] = x \smile y \smile z \\ & (x \smile y \smile z) \smile [ (x \smile y \smile 0) \smile 0 ] \smile z \end{aligned} \right.$
+
+$[ (x \smile y \smile u) \smile v ] \smile z$
+$x \smile \bar{y} \smile \bar{u} \smile \bar{v} \smile z$
+$( \bar{x} + \bar{y} + u ) \bar{\smile} v \smile z$
+$[ ( \bar{x} \smile \bar{y} ) \smile u ] \smile v$
+$( \bar{x} + \bar{y} ) \bar{\smile} \bar{u} \smile v$
+$\bar{x} + \bar{y} + u$
+$x \smile \bar{y} + u$
+
+[del]This first is proved if we prove[/del]
+$(x \smile y) \smile (x \smile y \smile u) \smile u$
+[del]which is simply $(x \smile y \smile u) \smile (x \smile y) \smile u$[/del]
+[del]the second is proved by[/del]
+[del]$[ (x \smile y \smile 0) \smile 0 ] \smile z$[/del]
+
+Strictly speaking $(a \bar{\smile} \bar{b}) \smile (a \cdot b)$
+only depends on $(a \bar{\smile} \bar{b}) \smile a$ [ins]or $\bar{a} \smile (a \smile b)$ because $\bar{a} \smile [del]N a[/del] \smile \Pi_s$[/ins]
+and $(a \bar{\smile} \bar{b}) \smile b$
+[del]that is[/del] $(a \bar{\smile} b) \smile b$ [del]$\Pi_s$[/del]
+or $b \smile (a \smile b)$
+or $a \smile (b \smile b)$
+
+---
+
+[del]We[/del] [ins]To[/ins] prove $(a \cdot b) \smile (a \bar{\smile} \bar{b})$
+
+if we prove $\Pi_s (s \smile a) \smile (s \smile b) \smile [ s \smile (a \bar{\smile} \bar{b}) ]$
+or $\Pi_s s \smile (s \smile a) \smile (s \smile b) \smile (a \bar{\smile} \bar{b})$
+or $\Pi_s s \smile s \smile (s \smile a) \smile (s \smile b) \smile (a \bar{\smile} \bar{b})$
+or $\Pi_s s \smile (s \smile a) \smile s \smile (s \smile b) \smile (a \bar{\smile} \bar{b})$
+or [del]$N$[/del] $a \smile b \smile (a \bar{\smile} \bar{b})$
+or [del]$N$[/del] $a \smile b \smile (a \bar{\smile} \bar{b}) \smile 0$
+or $a \smile b \smile (a \smile b \smile 0) \smile 0$
+or $(a \smile b \smile 0) \smile [del]a \smile b \smile[/del] 0$
+
+Proof.
+$(a \smile b \smile 0) \smile (a \smile b \smile 0)$
+$\therefore a \smile b \smile (a \smile b \smile 0) \smile 0$
+$a \smile b \smile (a \bar{\smile} \bar{b})$
+[fig]Suppose we have $x \smile y$
+then $s \smile (s \smile x) \smile y$
+$(s \smile x) \smile (s \smile y)$
+or $s \smile (s \smile x) \smile y$[/fig]
+$s \smile (s \smile a) \smile b \smile (a \bar{\smile} \bar{b})$
+$\therefore s \smile (s \smile a) \smile (s \smile b) \smile (a \bar{\smile} \bar{b})$
+$\therefore \Pi_s (s \smile a) \smile (s \smile b) \smile [ s \smile (a \bar{\smile} \bar{b}) ]$
+By def. $a \cdot b \smile (a \bar{\smile} \bar{b})$

@@ -1,0 +1,56 @@
+If four points $P_1, P_2, P_3, P_4$ lie in a plane we can
+find a fifth point $P_5$ in a line with $P_1$ and $P_2$ and
+also with $P_3$ and $P_4$. For assuming
+
+$$(a-b-c)P_1 + (-a+b-c)P_2 + (a+b-c)P_3 + (a+b+c)P_4 = 0$$
+
+we have simply to take $P_1$ and $P_2$ [del]affected[/del] [ins]equated[/ins] with these
+same coefficients and equate their sum to $P_5$ mul-
+tiplied by the sum of these coefficients. Thus, the
+equation
+
+$$-2cP_5 = (a-b-c)P_1 + (-a+b-c)P_2$$
+
+shows that $P_1, P_2, P_5$ are in a line, and subtracting
+this equation from the first
+
+$$2cP_5 = (a+b-c)P_3 + (a+b+c)P_4$$
+
+which shows that $P_3, P_4, P_5$ are in a line.
+
+In like manner we find a point $P_6$ in the line
+through $P_1$ and $P_3$ and also in the line through $P_2$ and $P_4$.
+Namely
+
+$$-2bP_6 = (a-b-c)P_1 + (-a-b+c)P_3$$
+
+$$2bP_6 = (-a+b-c)P_2 + (a+b+c)P_4$$
+
+So we find a point $P_7$ in the line $P_1 P_4$ and in the
+line $P_2 P_3$. Namely,
+
+$$2aP_7 = (a-b-c)P_1 + (a+b+c)P_4$$
+
+$$-2aP_7 = (-a+b-c)P_2 + (-a-b+c)P_3.$$
+
+In the last 6 equations, subtract the terms in $P_5, P_6, P_7$ to
+the second members. Then subtract this [del]first[/del] [ins]second[/ins] equation
+in $P_6$ from the first in $P_7$ and we get
+
+$$(a-b-c)P_1 + (a-b+c)P_2 + 2bP_6 - 2aP_7 = 0$$
+
+Subtract the first in $P_7$ from the last in $P_5$ and we get
+
+$$-(a+b+c)P_1 + (a-b+c)P_3 - 2cP_5 + 2aP_7 = 0$$
+
+Subtract the first in $P_5$ from the last in $P_6$ and we have
+
+$$(-a+b-c)P_2 + (a+b-c)P_3 + 2cP_5 - 2bP_6 = 0.$$
+
+These three equations, treated just as the original one in
+$P_1, P_2, P_3$ and $P_4$ was treated, enable us to get three points
+$P_8, P_9$ and $P_{10}$ — $P_8$ in a line with $P_1$ and $P_2$ and also
+with $P_6$ and $P_7$, $P_9$ in a line with $P_1$ and $P_3$ and
+also with $P_5$ and $P_7$, $P_{10}$ in a line with $P_2$ and
+$P_3$ and also with $P_5$ and $P_6$. Namely, by the
+same rule previously used we get

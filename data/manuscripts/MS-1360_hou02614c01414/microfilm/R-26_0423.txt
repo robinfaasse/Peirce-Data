@@ -1,0 +1,9 @@
+This is stated as follows:
+
+Lorsqu'un système élastique se met en équilibre sous l'action de forces extérieures, le travail développé par l'effet des tensions ou des compressions des liens qui unissent les divers points du système est un minimum.
+
+But this is [del]not[/del] true in its whole extent, and therefore it is necessary to proceed with caution. If one conceive the suspenders to be so strong that [del]there is[/del] [ins]no sensible[/ins] amount of work is done in stretching them (which I must assume since their dimensions are not known to me), then the whole elastic work consists in bending the truss and stretching the main cable and backstays. Then, after the centre of gravity has sunk to whatever point it is to sink, so that no more work is done by gravity, the question is how much is to be the horizontal pull, which may vary by changes in shape although the height of the centre of gravity is not altered. Suppose such a virtual velocity ([ins]infinitesimal[/ins] change of shape) then at each point work will be done by the bending of the truss and by the stretching of the cable. Suppose this virtual velocity to be accompanied by a variation [del]$\delta H$[/del] of the horizontal stress. Then the work done will be, for the stretching
+[del]$\delta H \int E B \frac{ds}{dy} \frac{dx}{dx} dx$[/del], [del]$\delta H \int E B \frac{d^2 s}{dy dx} dx$[/del],
+
+and for the bending
+[del]$\delta H \int E I \frac{\partial (1/\rho)}{\partial H} \frac{dx}{dx} dx$[/del],

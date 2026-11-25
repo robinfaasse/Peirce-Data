@@ -1,0 +1,19 @@
+[marginalia]
+Mathematical
+Logic
+[/marginalia]
+
+$A$ differs in value from $B$,
+$B$ differs in value from $C$;
+$\therefore C$ has the same value as $A$.
+
+For a system of three values this inference does not hold but the following is valid, though not for any system of values greater than three:
+
+$A$ differs in value from $B$;
+$A$ differs in value from $C$;
+$A$ differs in value from $D$;
+$B$ differs in value from $C$;
+$B$ differs in value from $D$;
+$\therefore C$ has the same value as $D$.
+
+Of these [del]finite[/del] logics of finite systems, only that of the system of three values seems likely to repay study. As long as the system of values is finite, the following inference will hold good:

@@ -1,0 +1,55 @@
+[fig]Geometric diagram with points A, B, C, M, and vectors[/fig]
+
+$\beta = \gamma A + (1-\gamma) C$
+
+$\beta - M = x (\alpha - M) + (1-x) (\gamma - M)$
+
+$- x M + x M$
+
+$\alpha = \alpha a$
+$\beta = \beta b$
+$\gamma = \gamma c$
+
+$A + \gamma B - \alpha$
+
+$\alpha a + \gamma \beta b = 0$
+
+$X \alpha a + (1-X) \beta b = x \alpha a + (1-x) \gamma b$
+
+$(X \alpha - x \alpha) a = [ (1-\gamma) (\beta) + (X \beta - 1) ] b$
+
+$X \alpha = x$
+
+$X = \frac{x}{\alpha}$
+
+$(\frac{x}{\alpha} - x) \alpha + [ (1-\beta) + X (\beta - 1) ] = 0$
+
+$x = \frac{\beta - 1}{\alpha \beta - 1}$
+
+$X = \frac{\beta - 1}{\alpha \beta - 1}$
+
+$(1-\beta) + X (\beta - \alpha) = 0$
+
+$x = \alpha \frac{1-\beta}{\alpha - \beta}$
+
+$X = \frac{1-\beta}{\alpha - \beta}$
+
+$\alpha \frac{1-\beta}{\alpha - \beta} a + \beta \frac{\alpha - 1}{\alpha - \beta} b$
+
+---
+
+$\alpha \frac{1-\beta}{\alpha - \beta} a + \beta \frac{\alpha - 1}{\alpha - \beta} b$
+
+$\beta \frac{1-\gamma}{\beta - \gamma} b + \gamma \frac{\beta - 1}{\beta - \gamma} c$
+
+$\alpha \frac{1-\gamma}{\alpha - \gamma} a + \gamma \frac{\alpha - 1}{\alpha - \gamma} c$
+
+$\frac{1-\gamma}{\alpha - \gamma} / \frac{\alpha - \beta}{1-\beta} =$
+
+$\frac{(\alpha - \gamma) (1-\beta) - (1-\gamma) (\alpha - \beta)}{(\alpha - \gamma) (1-\beta)}$
+
+$\frac{[del]\alpha - \gamma - \alpha \beta + \beta \gamma[/del] + \beta + \gamma \alpha}{(\beta - \gamma) (1-\alpha)}$
+
+$\frac{(\alpha - \gamma) (1-\beta)}{[del]\frac{(1-\gamma) (\alpha - 1) - (1-\beta) (\alpha - \gamma)}{(\alpha - \gamma) (1-\beta)}[/del]}$
+
+$\frac{(1-\alpha) (\beta - \gamma)}{(\beta - \gamma) (1-\alpha)}$

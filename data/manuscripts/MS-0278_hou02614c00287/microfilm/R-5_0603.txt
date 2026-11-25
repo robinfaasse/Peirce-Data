@@ -1,0 +1,27 @@
+$$D_x \frac{\sqrt{r^2-y^2}}{r} = D_r \sqrt{1-\frac{y^2}{r^2}} = \frac{y^2}{r^3 \sqrt{1-\frac{y^2}{r^2}}} = \frac{y^2}{r^2 \sqrt{r^2-y^2}} \left( 2 y^2 r^{-3} \right)$$
+
+$$D_x^2 = \frac{y^2}{r^3} D_r + \frac{r^2-y^2}{r^2} D_r^2$$
+
+$$D_y^2 = \left( \frac{y}{r} D_r + D_y \right) \left( \frac{y}{r} D_r + D_y \right)$$
+$$= \frac{r^2-y^2}{r^3} D_r + \frac{y^2}{r^2} D_r^2 + 2 \frac{y}{r} D_r D_y + D_y^2$$
+
+[del][fig]crossed out scribble[/fig][/del]
+
+$$D_x^2 + D_y^2 = \frac{1}{r} [del]D_r[/del] + D_r^2 + 2 \frac{y}{r} D_r D_y + D_y^2$$
+
+$$\left( D_x^2 + D_y^2 \right)^2 = \frac{1}{r^3} D_r + \frac{1}{r^2} D_r^2 + 2 \frac{1}{r} D_r^3 + [del]\frac{4 y^2}{r^3} D_r D_y[/del]$$
+$$-\frac{1}{r^2} \quad [del]\frac{4 y^2}{r^2} D_r^2 D_y[/del] + 4 \frac{y}{r^2} D_r^2 D_y + [del]\frac{4 y^2}{r^2} D_r^2 D_y^2[/del] + \frac{6}{r^2} D_r^2 D_y^2 + D_r^4$$
+$$+ 2 \frac{y}{r} D_r^3 D_y + 2 D_r^2 D_y^2 - \frac{y^2}{r^2} D_r D_y^2$$
+$$+ 4 \frac{y^2}{r^2} D_r^2 D_y^2 + 4 \frac{y}{r} D_r D_y^3 + D_y^4$$
+
+$$D_r^2 \left( \frac{1}{r} D_r \right)$$
+$$D_r \left( -\frac{1}{r^2} D_r + \frac{1}{r} D_r^2 \right)$$
+$$2 \frac{1}{r^3} D_r - 2 \frac{1}{r^2} D_r^2 + \frac{1}{r} D_r^3$$
+
+$$2 D_y^2 \left( \frac{y}{r} D_r D_y \right) = 2 D_y \left( \frac{1}{r} D_r D_y + \frac{y}{r} D_r D_y^2 \right)$$
+$$= 2 \frac{1}{r} D_r D_y^2 + 2 \frac{y}{r} D_r D_y^3$$
+
+$$4 \left( \frac{y}{r} D_r D_y \right) \left( \frac{y}{r} D_r D_y \right)$$
+$$D_r^2 \left( 2 \frac{y}{r} D_r D_y \right) = 4 \left( \frac{y}{r} D_r \left( \frac{1}{r} D_r D_y + \frac{y}{r} D_r D_y^2 \right) \right)$$
+$$D_r \left( -2 \frac{y}{r^2} D_r D_y + 2 \frac{y}{r} D_r^2 D_y \right) = 4 \frac{y}{r} \left( -\frac{1}{r^2} D_r D_y + \frac{1}{r} D_r^2 D_y - \frac{y}{r^2} D_r D_y^2 \right.$$
+$$\left. 4 \frac{y}{r^3} D_r D_y - 4 \frac{y}{r^2} D_r^2 D_y + 2 \frac{y}{r} D_r^3 D_y + \frac{y}{r} D_r^2 D_y^2 \right)$$

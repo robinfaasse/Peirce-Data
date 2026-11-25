@@ -1,0 +1,18 @@
+[ins] $\overline{a \urcorner b} \urcorner \overline{a \urcorner b}$ [/ins]
+
+<u>Fundamental</u>
+
+[ins] If $a \urcorner b$ then if $a$ then $b$ [/ins]
+(1) [del] toto [/del] Principle of Modus Ponens (First Form) [del] If $a$ and $a \urcorner b$ then $b$ [/del]
+
+(2) [del] $a \urcorner b \urcorner c \urcorner b \urcorner a \urcorner c$ [/del] $\overline{a \urcorner b} \urcorner \overline{c \urcorner b} \urcorner a \urcorner c$
+
+(3) Identity $b \urcorner a \urcorner a$ [del] $x$ [/del]
+
+(4) $\overline{a \urcorner a} \urcorner b$
+
+(5) Modus Ponens (Second Form) [del] $\overline{a \urcorner a \urcorner b} \urcorner b$ [/del] $\overline{a \urcorner \overline{a \urcorner b}} \urcorner b$
+
+(6) Syllogism $\overline{a \urcorner b} \urcorner \overline{b \urcorner c} \urcorner a \urcorner c$ [del] $x$ [/del]
+
+(7) Dilemma $\overline{a \urcorner b} \urcorner c \urcorner \overline{a \urcorner c} \urcorner c$

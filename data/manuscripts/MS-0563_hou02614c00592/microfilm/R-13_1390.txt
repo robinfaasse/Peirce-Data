@@ -1,0 +1,23 @@
+[pn]14[/pn]
+
+This is a linear transformation and
+as such is equivalent to a matrix.
+The original function is therefore of
+the form of a functional imaginary
+quaternion, or since the absolute
+values of a, b, c, d, are immaterial,
+it is a functional imaginary versor.
+
+In point of fact if we put
+[align=center]
+a = [greek]a[/greek] + [greek]b[/greek]i [tab] b = [greek]g[/greek]i + [del][greek]d[/greek][/del] [ins][greek]d[/greek][/ins]
+d = [greek]a[/greek] - [greek]b[/greek]i [tab] c = [greek]g[/greek]i - [greek]d[/greek]
+[/align]
+where i is [u][rad] -1 [/rad][/u]. We have
+[align=center]
+[greek]F[/greek]x = [frac] ([greek]a[/greek] + [greek]b[/greek]i)x + ([greek]g[/greek]i + [greek]d[/greek]) / ([greek]g[/greek]i - [greek]d[/greek])x + ([greek]a[/greek] - [greek]b[/greek]i) [/frac]
+[/align]
+If we take a second similar function
+[align=center]
+[greek]F[/greek][sub]1[/sub]x = [frac] ([greek]a[/greek][sub]1[/sub] + [greek]b[/greek][sub]1[/sub]i)x + ([greek]g[/greek][sub]1[/sub]i + [greek]d[/greek][sub]1[/sub]) / ([greek]g[/greek][sub]1[/sub]i - [greek]d[/greek][sub]1[/sub])x + ([greek]a[/greek][sub]1[/sub] - [greek]b[/greek][sub]1[/sub]i) [/frac]
+[/align]

@@ -1,0 +1,45 @@
+[pn]( Boole 14 [/pn]
+
+these values in that of $X$ we have
+
+$$X = \frac{\frac{X^2}{pq}}{\frac{X}{p} + \frac{X}{q} - \frac{X^2}{pq}} = \frac{X}{q + p - X}$$
+
+$$1 = \frac{1}{q + p - X}$$
+
+$$X = q + p - 1$$
+
+Which is the probability required.
+
+I will now take a case where an attempt is made to work inductively.
+
+Let the probability that it thunders on a given day be $p$
+the probability that it thunders & hails be $q$
+Required the probability that it hails or $X$
+
+Let $x$ be It hails
+$y$ It thunders
+Let $u$ It thunders & hails
+
+Then $u = xy$
+
+$x = \frac{u}{y}$. Developing this we have $x = uy + \frac{1}{0} u(1-y) + 0(1-u)y + \frac{0}{0}(1-u)(1-y)$
+
+Proceeding now to solve the logical equations precedent with probabilities we have $p = \frac{uy}{y + (1-u)(1-y)}$ $q = \frac{uy}{y + (1-u)(1-y)}$ $X = \frac{uy + \frac{0}{0}(1-u)(1-y)}{y + (1-u)(1-y)}$
+
+Elimination of $u$ & $y$ results in the following value of $X$
+
+$$X = q + \frac{0}{0}(1-p)$$
+
+which is a You perceive an indeterminate result; showing merely that the data were insufficient.
+
+Let $z$ be some complicated system of phenomena; let $y$ be the [del]conditions of[/del] concomitant circumstances under which these phenomena are observed. Let $x$ be a physical hypothesis which perfectly accounts for them. Required the large or the unknown probability of this hypothesis.
+
+In this case we have the equation $xy = xyz$ which expresses that if the hypothesis holds, then under these circumstances the [ins]actual[/ins] phenomena are sure to appear [ins]or are accounted for[/ins]. Observe that there cannot be a stronger case for the hypothesis than that. The value of $x$ from this
+
+$$x = \frac{0}{0} yz + 0 y(1-z) + \frac{0}{0}(1-y)z + \frac{0}{0}(1-y)(1-z)$$
+
+There [del]three[/del] indeterminate [del]conditions[/del] [ins]coefficients[/ins] will necessarily appear in the solution; which is in fact completely indeterminate.
+
+I shall conclude by reading some remarks of Boole's upon this subject [$\mathparagraph 365$]
+
+[u]Next lecture[/u] _

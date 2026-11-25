@@ -1,0 +1,9 @@
+[fig]Geometric diagram with intersecting lines and labeled points[/fig]
+
+Figure 2 shows all these points and lines.
+
+If $L_{1}$ and $L_{2}$ are any two lines in a plane, they have a point of intersection, and we may write
+$$L_{3} = \lambda L_{1} + (1-\lambda) L_{2}$$
+for any third line passing through that point. Or if $L_{1}, L_{2}, L_{3}$ have not a common intersection
+$$\mu (\lambda L_{1} + (1-\lambda) L_{2}) + (1-\mu) L_{3}$$
+may represent any line in the plane. Thus, the whole theory of lines is exactly like that of points.

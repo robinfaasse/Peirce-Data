@@ -1,0 +1,24 @@
+That the converse of a transitive relation is itself
+[del]a transitive relation[/del] is evident, by taking the converse of
+$$t t \prec t$$
+when we get
+$$\breve{t} \breve{t} \prec \breve{t}.$$
+
+But this is not true of the negative. For example, let
+$\Omega$ (the zodiacal sign of Leo) signify "at least twice as
+great as". Then the inference holds
+$$A \Omega B \quad B \Omega C$$
+$$\therefore A \Omega C;$$
+But
+$$5 \bar{\Omega} 3 \quad 3 \bar{\Omega} 2$$
+yet it is not true that $5 \bar{\Omega} 2$. What is true of the negative
+is that
+$$\bar{t} \prec \bar{t} \dagger \bar{t}.$$
+and also
+$$\breve{\bar{t}} \bar{t} \prec \bar{t}$$
+$$\bar{t} \breve{\bar{t}} \prec \bar{t}$$
+$$\bar{t} \prec \bar{t} \dagger \breve{\bar{t}}$$
+$$\bar{t} \prec \breve{\bar{t}} \dagger \bar{t}$$
+
+Every negative of a transitive has the form
+$$\bar{t} \breve{\bar{t}}$$

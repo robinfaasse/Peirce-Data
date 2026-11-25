@@ -1,0 +1,54 @@
+[pn]12[/pn]
+
+surface, these quantities will satisfy the equation
+(1) [del](x/X)² + (y/Y)² + (z/Z)² = 1[/del] [ins](x/X)² + (y/Y)² + (z/Z)² = 1[/ins]
+which equation may be regarded as a definition of what is
+meant by an ellipsoid. If two of the [del]axes[/del] [ins]semiaxes[/ins], say X and Y are
+equal, we may replace them by the single letter, R, when
+the equation will become
+
+(2) [del]x² + y²[/del] [ins]x² + y²[/ins] / R² + z² / Z² = 1
+
+If we are to regard this as [del]the[/del] representing the mean surface
+of the sea, the [del]very[/del] [ins]arduous and triumphant[/ins] [del]capital[/del] investigation of Mr. J. F. Hayford,
+which [del]renders[/del] has rendered all other attempts to define the [del]form[/del] [ins]level[/ins]
+[del]of mean sea-surface[/del] obsolete, (as far, at least, as the part of it
+[ins]covered by[/ins] [del]under[/del] the United States is concerned,) [del]and[/del] [ins]which[/ins] defines not the [ins]mean[/ins] sea-surface
+itself but a surface [del]Z, the polar semiaxis =[/del]
+
+[marginalia]
+[del]Z/R = 1 - 1/295 = 294/295[/del]
+[del]R/Z = 1 - 1/295 = 294/295[/del]
+[del]R - Z / R = 1 / 296[/del]
+R - Z / R = 1 / 295
+[/marginalia]
+
+(3) R, the [del]radius[/del] [ins]semidiameter[/ins] of the equator =
+and (4) [del](Z, the polar semiaxis)[/del] [del]Z =[/del] R = (1 + 1/294) Z
+
+But instead of [del]the[/del] z, [del]the distance of any poin[/del]
+But instead of z, the distance of any point of the surface from the [del]polar[/del]
+equator, it will be more convenient to use a differently shaped [del]rad[/del]
+z, which is measured not from the plane of the equator, but from
+a parallel plain touching the ellipsoid at the North Pole, so that
+(5) z = Z - z
+
+while instead of x² + y² I will write r, the distance of
+any point of the surface from the polar axis, With these substi-
+tutions, equation (2) becomes
+
+[marginalia]
+3.382831
+86436
+[/marginalia]
+
+[del](r/R)² = (2Zz - z²) / Z²[/del]
+(6) r² = (1 + [del]1/294[/del] [ins]1/146 3/3[/ins]) (2Zz - z²)
+(7) r = (1 + 1/294) [u]√2Zz - z²[/u]
+
+[marginalia]
+1/147 006806721
+(1/297)² 000011569 24
+006818290
+393181710
+[/marginalia]

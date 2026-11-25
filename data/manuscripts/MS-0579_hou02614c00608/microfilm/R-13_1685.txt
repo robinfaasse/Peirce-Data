@@ -1,0 +1,31 @@
+[u]Rule 7. Principle of doubled consequent.[/u] Concerning [del]the[/del] [ins]ex-[/ins]
+pressions of the form $(a \prec b) \prec b$, we have the following
+
+[u]$a\overline{b} + \overline{c} + b$[/u]
+
+$(\overline{a} + b)\overline{c} + \overline{d} + b$
+$(\overline{a} + c)\overline{c} + \overline{d} + b$
+[u]                                                                                [/u]
+
+$b$  $b \prec c$
+$a$  $a \prec c$
+[u]                                [/u]
+$a; b; c$
+[fig]tree diagram showing relationships between a, b, and c[/fig]
+$\overline{b}$  $b \prec c$
+$a \prec b$
+$\overline{a}\overline{b}$
+$ab$
+$\overline{a} + \overline{b}$
+
+$(a\overline{b} + c)\overline{d} + b$
+$(ac + c)\overline{d} + b$
+
+$(a \prec 0) \prec (b \prec 0) \prec 0$
+$[(a \prec 0) \prec (b \prec 0) \prec 0] \prec 0$
+$[a \prec b \prec 0] \prec 0$
+$a \prec b \prec 0$
+
+$a\overline{b} + c$
+$\{[(a \prec 0) \prec (c \prec 0) \prec 0] \prec [b \prec (c \prec 0) \prec 0] \prec 0\} \prec 0$
+$(a.bf)f$

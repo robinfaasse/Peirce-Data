@@ -1,0 +1,39 @@
+[marginalia]
+[del]M[/del] [ins]M[/ins] AB = [del]a[/del] [ins]a[/ins]/c
+[/marginalia]
+
+M [(1-A)(1-B) - AB] = - b/c
+
+- M = c/e
+M = - c/e
+
+AB = - ae/c²
+
+[del]1 - A - B[/del]
+1 - A - B = b/c
+A + B = - b/c
+
+(1 - b/c)² = (A + B)²
+(1 - b/c)² + 4ae/c² = (A - B)²
+
+[del]A[/del] [ins]A[/ins] \ [del]B[/del] [ins]B[/ins] = [del]1/2[/del] [ins]1/2[/ins] c-b/c (1 ± √[1 + 4ae/(c-b)²])
+
+[del]1 - √H[/del]/[del]1 + √H[/del] =
+
+[del]1 + H - 2√H[/del]/[del]1 - H[/del]
+
+A + B [del]1 + H - 2√H[/del]/[del]1 - H[/del] ( [del]1 + H + 2√H[/del]/[del]1 - H[/del] )ⁿ
+
+1 + C
+
+[del]M +[/del] [del]C P² Pⁿ[/del]/[del]1 + C P Pⁿ[/del] [del]1 + C P Pⁿ[/del]/[del]1 + C Pⁿ[/del] - M² AB + M(1-A-B) ( M + C A-1/B-1 (A-1/B-1)ⁿ / 1 + C (A-1/B-1)ⁿ )
+
+ψⁿ⁺¹ (M - ψⁿ) = M² AB + M(1-A-B) ψⁿ
+
+(ψⁿ⁺¹ - M) (ψⁿ - M) + M(2-A-B) ψⁿ + M² AB = 0
+
+ψⁿ⁺¹ - M = M(2-A-B) + M²(2-A-B) + M²(1-A)(1-B) / ψⁿ - M
+
+ψⁿ = M 1 + C A-1/B-1 (A-1/B-1)ⁿ / 1 + C (A-1/B-1)ⁿ
+
+ψⁿ = M 1 + C A-1/B-1 (A-1/B-1)ⁿ / 1 + C (A-1/B-1)ⁿ

@@ -1,0 +1,36 @@
+[marginalia]
+[fig]asterisk[/fig]
+[/marginalia]
+
+$X_q$ $K_q$ $\Pi_q$ $X[del]Z_i[/del]$ $KZ_{-1}$ $XZ_1$ $KZ_{+1}$ [ins]$S_{+1}Z_{-1}^{Z_{+1}}$[/ins] [del]$S Z_{-1}^{Z_{+1}}$[/del] $XZ_2$ $KZ_2$ $S_{-2}$
+
+A non-singular surface has $\Pi = X$ while $K$ can have any value
+Call $Z_n$ singular line of singularity $n$ $S_n$ Point singularity
+If $Z_{-2} = 0$ $Z_n = 0$ if $n > 0$ $X = 1$ $\Pi = 0$ $XZ_2 = 1$ $K = 0$
+$XZ_2 = 2$ $K = 1$
+$XZ_{-1} = n$ $K = n-1$
+
+$X = 1$ $\Pi = 1$
+[marginalia]
+[fig]small circle[/fig]
+[fig]small circle with horizontal line[/fig]
+[fig]dome shape with horizontal line[/fig]
+[fig]dome shape with horizontal line and base[/fig]
+[/marginalia]
+$X_r = 1$ $K = 0$ $\Pi [del]= 0[/del]$ [del]May have[/del] [del]Can't have[/del] Must have $XS_{-2} = 0$ [ins]$XZ_{-2} = 0$[/ins]
+[fig]small sketch[/fig] May have $KZ_{-1} = 0$ $XZ_1 = 1$ $KZ_1 = 1$
+May have $XZ_{+1} = 0$ $KZ_1 = 1$ $XZ_2 = 2$ $KZ_2 = 2$
+and in general may have $\sum_1^\infty i X Z_i = -1$ $\sum_1^\infty i K Z_i = -1$
+Moreover it may have in addition
+$\Delta X Z_2 = 1$ provided $\Delta K Z_2 = 0$ $\Delta X S Z_2 = 2$
+[del]And in general $\Delta \sum_1^\infty i X Z_i = - X S_{-1}$[/del]
+[marginalia]
+[fig]dome shape with horizontal line and base[/fig]
+[/marginalia]
+And in general it may have any [fig]dome shape with horizontal line and base[/fig]
+additions of $X Z_{2i}$ together with $2 = X S_{-1} Z_{2i}$ and $i X Z_{2i}$
+[del]But[/del] It can also have instead of the extremities a cyclosis like
+any line. While oddly singular lines cannot have extremities
+but may run points of passage from one [del]address[/del] [ins]sheet[/ins] to another.
+as even singularities have points of passage from one evenness
+to another. A marked line on a surface is a zero singularity.

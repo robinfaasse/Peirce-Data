@@ -1,0 +1,27 @@
+[u]I[/u]  $\frac{1}{2} E \left( \frac{\sqrt{x^2+y^2+z^2} - L}{L} \right)^2 - Py = \text{Work}$
+
+[u]Condition of equilibrium[/u]
+$E \left( \frac{\sqrt{x^2+y^2+z^2} - L}{L \sqrt{x^2+y^2+z^2}} \right) (x dx + y dy + z dz) - P dy = 0$
+
+If the elasticity is infinite
+$E \left( \frac{1}{L} - \frac{1}{\sqrt{x^2+y^2+z^2}} \right) x = 0$
+
+$E \left( \frac{1}{L} - \frac{1}{\sqrt{x^2+y^2+z^2}} \right) z = 0$
+
+$E \left( \frac{1}{L} - \frac{1}{\sqrt{x^2+y^2+z^2}} \right) y - P = 0$
+
+[u]If the elasticity is infinite[/u]
+$\frac{x}{\sqrt{x^2+y^2+z^2}} = \frac{x}{L}$
+$\frac{z}{\sqrt{x^2+y^2+z^2}} = \frac{z}{L}$
+$\frac{y}{\sqrt{x^2+y^2+z^2}} = \frac{y}{L} - \frac{P}{E}$
+
+$\begin{cases} \frac{y}{L} \pm 1 = \frac{P}{E} \\ y = L \left( \mp 1 - \frac{P}{E} \right) \end{cases}$
+
+[del]$\frac{x^2+y^2+z^2}{x^2+y^2+z^2} =$[/del]
+$1 = \frac{x^2}{L^2} + \frac{z^2}{L^2} + \frac{y^2}{L^2} - 2 \frac{yP}{LE} + \frac{P^2}{E^2}$
+$x^2+y^2+z^2 = L^2 + 2 \frac{yP}{E} - \frac{L^2 P^2}{E^2}$
+
+$E = \mu L^2$
+
+$E = \frac{P}{y \left( \frac{1}{L} - \frac{1}{L'} \right)}$
+$E = \frac{P}{\frac{L'}{L} - 1} = \frac{PL}{L'-L}$

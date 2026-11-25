@@ -1,0 +1,27 @@
+[marginalia]
+Logic
+III
+163
+[/marginalia]
+
+$g = A:D + B:E + C:F + I:L + J:M + K:N + R:U + S:V + T:W$
+$+ D:G + E:H + F:\Theta + L:O + M:P + N:Q + U:X + V:Y + W:Z$
+$+ G:A + H:B + \Theta:C + O:I + P:J + Q:K + X:R + Y:S + Z:T$
+
+$j = A:B + B:C + C:A + I:J + J:K + K:I + R:S + S:T + T:R$
+$+ D:E + E:F + F:D + L:M + M:N + N:L + U:V + V:W + W:U$
+$+ G:H + H:\Theta + \Theta:G + O:P + P:Q + Q:O + X:Y + Y:Z + Z:X$
+
+$l = A:I + B:P + C:N + I:R + J:Y + K:W + R:A + S:H + T:F$
+$+ D:L + E:J + F:Q + L:U + M:S + N:Z + U:D + V:B + W:\Xi$
+$+ G:O + H:M + \Theta:K + O:X + P:V + Q:T + X:G + Y:E + Z:C$
+
+We now perform the necessary multiplications, remembering
+[ins]but[/ins] that the multiplier precedes the multiplicand (so that in $j l$, $j$
+is multiplier and $l$ multiplicand) and secondly, that the letter which
+in the product follows a given letter after a colon is that letter which
+in the multiplicand follows the letter that in the multiplier follows
+the given letter. For example, to find the first term of $j l$, we
+note that $A:B$ occurs in $j$ and $B:P$ in $l$; so that $A:P$ will occur in
+$j l$. To find the [del]first[/del] [ins]second[/ins] term of $l j$ we note that in $l$ occurs $B:P$ and
+in $j$ occurs $P:Q$, so that $B:Q$ will occur in $l j$. In this way we get the fol-

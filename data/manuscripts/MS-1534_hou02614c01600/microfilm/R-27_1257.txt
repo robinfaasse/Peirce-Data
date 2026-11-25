@@ -1,0 +1,28 @@
+[u]Process no. one[/u]
+
+Hold the pack back upwards pass the cards
+one by one into the other hand [del]making[/del] [ins]putting[/ins] the even
+cards at the bottom and the odd ones at the top.
+
+The cycle will be completed by a repetition
+of the process such a number of times to that
+[del]2[ins]t[/ins] ± 1 = (2[ins]t[/ins] + [gap])(2n - 1)[/del]
+2[sup]t[/sup] ± 1 = l(2n + 1)
+where n = number of cards in pack & l any integer
+This formula applies only to even numbers of cards.
+When n is odd it is 2[sup]t[/sup] ± 1 = l(2n - 1).
+
+[u]Example[/u] In how many repetitions will the order of 52
+cards come round again?
+
+105
+210
+[del]4[/del]20
+[del]8[/del]40
+1050
+2100
+4200
+105
+4095
+
+2[sup]12[/sup] = 4096     [u]Answer = 12[/u]

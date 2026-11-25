@@ -1,0 +1,23 @@
+[pn]38[/pn] As to this theorem, there is one important remark to be made
+concerning it that I did not publish, presumably because the
+importance of the theorem itself prevented my noticing it. Namely,
+there is no difference between the [del]colu[/del] ranks and the files of
+a multiplication-table, except that the [del]one[/del] [ins]former[/ins] are connected with
+the multiplier as the latter are with the multiplier and therefore, in-
+stead of making each unit of a system of units equal [ins]each[/ins] to the dif-
+ferent sum of [del]the[/del] corresponding capital pairs obtained by
+running along each [del]a[/del] rank, with the addition of one capital
+pair ending in A. That is instead of making, (on account of $i_m i_n$ containing
+a term $[m,n,l] i_l$)
+$$i_m = (I_m : A) + \Sigma_l \Sigma_n [m,n,l] (I_n : I_l) - (I_n : I_l)$$
+a second equivalent barycentral form might be got by putting
+$$i_n = \Sigma_l \Sigma_m [m,n,l] (J_l : J_m) + [del](\frac{J_n}{A})[/del] (\Omega : J_n)$$
+Or to restate the matter more accurately, because, whatever $m$ and $n$ may be,
+$i_m i_n = [m,n,1] i_1 + [m,n,2] i_2 + \text{etc.} = \Sigma_l [m,n,l] i_l$
+we may not only take, as I proved at length, whatever $m$ may be
+$$i_m = (I_m : A) + [m,1,1] (I_1 : I_1) + [m,1,2] (I_1 : I_2) + \text{etc}$$
+$$+ [m,2,1] (I_2 : I_1) + [m,2,2] (I_2 : I_2) + \text{etc}$$
+$$+ \text{etc}$$
+$$= (I_m : A) + \Sigma_n \Sigma_l [m,n,l] (I_n : I_l)$$
+but we may also put, whatever $n$ maybe
+$$i_n = [1,n,1]$$

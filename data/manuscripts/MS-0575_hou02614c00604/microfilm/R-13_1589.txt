@@ -1,0 +1,16 @@
+The multiplication of relative terms is de-
+fined as follows: —
+$1^{\text{st}}$, If $p \prec q$, then $p \bar{r} \prec q \bar{r}$;
+$2^{\text{d}}$, If $p \prec q$, then $\bar{r} p \prec \bar{r} q$;
+[del]$3^{\text{d}}$ If $a \prec p, q$ whatever $p_1$ and $q_1$ [ins]maybe[/ins] [del]are[/del] so
+long as $p_1 \prec p$ [ins]and[/ins] $q_1 \prec q$, then $a \prec p q$.[/del]
+[del]$3^{\text{d}}$ If no matter how $p_1$ and $q_1$[/del]
+[del]$3^{\text{d}}$ If $p_1 \prec p$ and $q_1 \prec q$ and if no matter
+[del]what[/del] [ins]how[/ins] $p_1$ and $q_1$ may[/del]
+$3^{\text{d}}$ $\underline{a} \prec p q$ whatever $p_1$ and $q_1$ may be so
+long as $p_1 \prec p$ and $q_1 \prec q$, then $\underline{a} \prec p q$.
+
+To prove that [del]$p$[/del] $(\underline{x} + \underline{y}) \underline{z} \prec \underline{x} \underline{z} + \underline{y} \underline{z}$
+Let $\underline{u}$ be any term such that
+$\underline{u} \prec \underline{x} + \underline{y}$
+Then $\underline{u} \underline{z} \prec (\underline{x} + \underline{y}) \underline{z}$

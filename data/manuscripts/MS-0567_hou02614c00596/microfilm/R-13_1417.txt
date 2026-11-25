@@ -1,0 +1,73 @@
+[pn]4[/pn]
+
+The first two expressions are equivalent by the dis-
+tribution-principle. The third is equivalent to
+$\Sigma_{i} a_{i}$ because $a a = a$, and thus all three are
+equivalent to one another.
+
+The theorem [del]enunciated[/del] having thus been proved
+true of every proposition having a single index, it
+only remains to show that if it be true of every pro-
+position having $n$ indices.
+
+Now let $\Phi$ and $*$ stand either for $\Sigma$ and $+$ or
+$\Pi$ and $\times$ respectively, so that
+$\Phi_{i} U_{i} = U_{1} * U_{2} * U_{3} * \text{etc}$
+
+This may represent any proposition in $n+1$ indices
+of which $i$ is the first. When $i$ is fixed in a certain
+individual as in $U_{1}$, $U_{2}$, etc. It becomes a pro-
+position in $n$ indices. Let $U^{2}$ represent any
+legitimate square of $U$. Then the square of the whole
+expression with identification of $i$ in the two factors
+is
+$\Phi_{i} U_{i}^{2} = U_{1}^{2} * U_{2}^{2} * U_{3}^{2}$ etc.
+and since by hypothesis
+$U_{1} \prec U_{1}^{2}$, $U_{2} \prec U_{2}^{2}$, $U_{3} \prec U_{3}^{2}$ etc.
+it follows that
+$\Phi_{i} U_{i} \prec \Phi_{i} U_{i}^{2}$.
+
+Thus it is shown that the rule holds for every
+proposition in $n+1$ indices, if the first of them
+is identified in the two factors. But according to
+the rule, the first cannot be diversified unless
+all are diversified; and all may be diversified,
+by an obvious extension of the formulae relating
+to propositions in a single index. The theorem
+is therefore proved.
+
+[pn]5[/pn]
+
+If the proposition is raised to a higher power,
+the diversifications toward the right may be
+represented as branchings from a stem,
+thus.
+
+[fig]A horizontal line branching into four lines on the right[/fig]
+
+After the involution has once been performed,
+further identification and diversification of indices
+may be effected by applying the following formulae
+
+[u]For identifications.[/u] [u]For diversifications.[/u]
+
+$\Pi_{i} \Pi_{j} l_{ij} \prec \Pi_{i} l_{ii}$ $\Pi_{i} l_{ii} \prec \Pi_{i} \Sigma_{j} l_{ij}$
+$\Sigma_{i} \Pi_{j} l_{ij} \prec \Sigma_{i} l_{ii}$ $\Sigma_{i} l_{ii} \prec \Sigma_{i} \Sigma_{j} l_{ij}$
+
+Besides these formulae, the following are occasionally
+useful
+$\Pi_{i} m_{i} = \Pi_{i} \Pi_{j} m_{i} m_{j}$ $\Sigma_{i} m_{i} = \Sigma_{i} \Sigma_{j} (m_{i} + m_{j})$.
+
+The following example shows the utility of changing
+the indices, even without involution. From the premise
+$\Pi_{i} \Pi_{j} (m_{i} l_{ij} + \bar{m}_{i} \bar{l}_{ij})$
+let it be required to eliminate $m$. The immediate dropping
+of this token would only yield an identical proposition.
+But by separating the Boolean into factors and then changing
+the indices, we have
+$\Pi_{i} \Pi_{j} (m_{i} l_{ij} + \bar{m}_{i} \bar{l}_{ij})$
+$= \Pi_{i} \Pi_{j} (m_{i} + \bar{l}_{ij}) (l_{ij} + \bar{m}_{i})$
+$= \Pi_{i} \Pi_{j} (m_{i} + \bar{l}_{ij}) \Pi_{j} (l_{ij} + \bar{m}_{i})$
+$= \Pi_{i} \Pi_{j} (m_{i} + \bar{l}_{ij}) \Pi_{k} (l_{ik} + \bar{m}_{i})$
+$= \Pi_{i} \Pi_{j} \Pi_{k} (m_{i} + \bar{l}_{ij}) (l_{ik} + \bar{m}_{i})$
+$= \Pi_{i} \Pi_{j} \Pi_{k} (m_{i} l_{ik} + \bar{m}_{i} \bar{l}_{ij})$

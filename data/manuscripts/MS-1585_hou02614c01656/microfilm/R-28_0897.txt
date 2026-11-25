@@ -1,0 +1,9 @@
+[fig]Loop around a < T[/fig] $T^a = a \prec T$
+
+$T^{T^a} = (a \prec T) \prec T$
+
+$[(a \prec T) \prec T] \prec a$
+
+[del]$[a \prec (a \prec T)] \prec a$[/del]
+
+[del]$a \prec (a \prec T)$[/del]

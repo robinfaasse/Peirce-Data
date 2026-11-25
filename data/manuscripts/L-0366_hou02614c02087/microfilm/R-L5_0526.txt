@@ -1,0 +1,18 @@
+[marginalia]
+1909
+June 30
+8
+[/marginalia]
+
+Several notations that are used in the Calculus of Finite Differences
+
+In the first place, the idea of a function is different in this calculus from the idea in the infinitesimal calculus. In the latter by $f x$ we mean some quantity produced by mathematical operations upon $x$, but the function of finite differences, which is preferably written $u_x$ or $v_x$ or any letter with an $x$ subscript, means any quantity which may change when $x$ is changed. Thus $x$ may be the ordinal number of a man's name in the City Directory and $u_x$ may mean the number of that man's house in the street he lives in. Then for every value of $x$ [del]of[/del] [ins]not[/ins] exceeding the number of names in the Directory there is a value of $u_x$, though in the Differential Calculus we should not ordinarily say that the [del]num[/del] street-number of a man's house was a function of the ordinal number of his name in the directory; because in that calculus we conceive variables to vary continuously. We may define $\Delta_x u_x$ as $u_{x+1} - u_x$; so that, as a notation merely, we might write $\Delta_x = \frac{u_{x+1} - u_x}{u_x}$.
+
+We have $u_{x+1} = u_x + \Delta_x u_x$
+$u_{x+2} = u_x + 2 \Delta_x u_x + \Delta_x^2 u_x$
+where $\Delta_x^2 = \Delta_x \Delta_x$. $\Delta u_x = u_{x+1} - u_x$ and $\Delta_x^2 u_x = \Delta_x (u_{x+1} - u_x) = u_{x+2} - u_{x+1} - u_{x+1} + u_x$
+$= u_{x+2} - 2 u_{x+1} + u_x$ And transposing, and substituting $2 \Delta_x u_x$ for $2(u_{x+1} - u_x)$ we get $u_{x+2} = u_x + 2 \Delta u_x + \Delta_x^2 u_x$; and so we find $u_{x+3} = u_x + 3 \Delta_x u_x + 3 \Delta_x^2 u_x + \Delta_x^3 u_x$
+
+Now we write also $E_x u_x$ for $u_{x+1}$ and call this the "enlargement" according to $x$ of $u_x$. Therefore $E_x^2 u_x = u_{x+2}$ and $E_x^n u_x = u_{x+n}$.
+Then it is easy to make out that $u_{x+n} = u_x + n \Delta_x u_x + \frac{n!}{2!(n-2)!} \Delta_x^2 u_x + \text{etc.}$
+or $E_x^n = \Delta_x^0 + n \Delta_x + \frac{n(n-1)}{2} \Delta_x^2 + \text{etc} = [del]\text{E}[/del] (1 + \Delta_x)^n$ where $(1 + \Delta_x)^n$ means the expansion by the binomial theorem in [u]form[/u].

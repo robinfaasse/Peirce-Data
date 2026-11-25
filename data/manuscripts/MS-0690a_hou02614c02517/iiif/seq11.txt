@@ -1,0 +1,24 @@
+Logic
+of History
+11
+
+[u]Auriferous[/u] [u]Plumbiferous[/u]
+Heavy Light Heavy Light
+Yellow $_a A_a$ 15 $_p A_a$ 35 $_a P_a$ 14 $_p P_a$ 6
+Grey $_a A_p$ 21 $_p A_p$ 1 $_a P_p$ 10 $_p P_p$ 66
+
+The total number of auriferous balls is [ins]A=[/ins] 72 of plumbiferous is P = 96
+The total number of heavy auriferous and light plumbiferous $_a A + _p P$ = 108 [del]$_p A + _a B$[/del] [ins]$_p A + _a P$[/ins] = 60
+The total number of yellow auriferous and grey plumbiferous $A_a + P_p$ = 126 $A_p + P_a$ = 42
+
+Now both witnesses report [del]that[/del] a ball to be auriferous; and according
+to the rule, I infer that the odds are $\frac{9}{5} \cdot \frac{3}{1} = \frac{27}{5}$ that it is gold; [ins]and[/ins] how
+that is correct since $(_a A_a + _p P_p) / (_p A_p + _a P_a) = 81/15 = 27/5$. But
+suppose that the witnesses instead of testifying to the ball being
+auriferous, or otherwise, testify [ins]heavy[/ins] [del]that the one that it is yellow[/del]
+and the other that it is yellow, and leave the inference to me.
+Then the argument from its being heavy will be true 3 times to
+every 2 times that it is false, whether the color test succeed
+or fail; for $_a A_a : _a P_p = 15 : 10 = 3 : 2$ and $_a A_p : _a P_a = 21 : 14 = 3 : 2$
+and in like manner the argument from its being yellow will hold
+5 times for every 2 failures; for $_a A_a : _p P_a = 15 : 6 = 5 : 2$ [ins]and[/ins] $_p A_a : _a P_a = 35 : 14 = 5 : 2$

@@ -1,0 +1,34 @@
+[marginalia]Report on Morrison's Bridge[/marginalia] [marginalia]of the truss so-called (inaccurately)[/marginalia] [pn]16[/pn]
+
+Let $\varepsilon$ be the product of the elasticity into the "moment of inertia" of the cross-section about a horizontal central axis in it. Then the work of bending the truss is
+
+$$-\int \eta d p + \frac{1}{2} \varepsilon \int \left(\frac{d^2 \eta}{d p^2}\right)^2 d p' = \frac{1}{2} \varepsilon \frac{x'_k}{A_k} \int \left(\frac{d^2 \eta}{d p'_k}\right)^2 d p'_k - \int \eta d p$$
+
+Let $v$ be the product of the elasticity of the truss into its material cross-section. Then the work of compressing or extending the truss is
+
+$$\frac{1}{2} v \int \frac{(d \xi - d x')^2}{d x'} = \frac{1}{2} v \int \left(\frac{d \xi}{d x'} - 1\right)^2 d x' = \frac{1}{2} \left(\frac{p_k}{x'_k} \frac{d \xi}{d p} - 1\right)^2 \frac{x'_k}{A_k} d p.$$
+
+The work upon the virtual back-stays is calculated from $I$, the natural length of each virtual backstay. Under the fixed load, the pull upon the backstays is $\sqrt{A'^2 + p_k^2}$; and by equation (29)
+
+$$A' = \frac{1}{2} p_k \frac{x'_k}{y'_k}$$
+
+Hence, the pull is
+
+$$p_k \sqrt{1 + \frac{x'^2_k}{4 y'^2_k}}.$$
+
+The consequent elongation of each backstay is, if we denote it by
+
+$$[del]\frac{p_k}{e}[/del] \frac{p_k}{e} I \sqrt{1 + (x'_k / 2 y'_k)^2}$$
+
+and, if we denote by $I'$ the length of [ins]each[/ins] virtual backstay under the fixed load
+
+$$I = \frac{I'}{1 + \frac{p_k}{e} \sqrt{1 + (x'_k / 2 y'_k)^2}}$$
+
+Then, under the moving load the elongation is for the left hand stay
+
+$$\frac{\sqrt{x_0^2 + y_0^2} + [del]\frac{p_k}{e} I \sqrt{1 + (x'_k / 2 y'_k)^2}[/del]}{\sqrt{x_0^2 + y_0^2} + \frac{p_k}{e} \frac{I' \sqrt{1 + (x'_k / 2 y'_k)^2}}{e + p_k \sqrt{1 + (x'_k / 2 y'_k)^2}}}$$
+
+[del]and the work for both to be[/del]
+and for the right hand virtual back stay
+
+$$\frac{\sqrt{(x'_{2k} - x_{2k})^2 + y'^2_{2k}} + p_k \frac{I' \sqrt{1 + (x'_k / 2 y'_k)^2}}{e + p_k \sqrt{1 + (x'_k / 2 y'_k)^2}}}.$$

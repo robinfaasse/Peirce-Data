@@ -1,0 +1,28 @@
+[pn]327[/pn]
+
+plane $(OY_{1}Z_{1})$. Now we have seen that $[Y_{1}]$ and $[Z_{1}]$ are each in $(OY_{1}Z_{1})$
+so that, by Cor. 97, $\{Y_{1}Z_{1}\}$ is in $(OY_{1}Z_{1})$. We find then that $\{Y_{1}Z_{1}\}$ and
+$\{Y_{2}Z_{2}\}$ are in one plane. Hence by Theorem 52, [del]they[/del] these rays have
+a point of intersection. Call it $[A]$. By Corollary 101, the three
+points $[X_{1}]$, $[Y_{1}]$, $[Z_{1}]$ have a common plane $(X_{1}Y_{1}Z_{1})$; and so likewise
+the points $[X_{2}]$, $[Y_{2}]$, $[Z_{2}]$ have a common plane. Since $[Y_{1}]$ and
+$[Z_{1}]$ each lies in the plane $(X_{1}Y_{1}Z_{1})$, it follows by Corollary 97 that
+the ray $\{Y_{1}Z_{1}\}$ lies in the plane $(X_{1}Y_{1}Z_{1})$; and in like manner,
+the ray $\{Y_{2}Z_{2}\}$ lies in the plane $(X_{2}Y_{2}Z_{2})$. But $[A]$ lies in the
+[del]plane[/del] [ins]ray[/ins] $\{Y_{1}Z_{1}\}$ and therefore in the plane $(X_{1}Y_{1}Z_{1})$ and $[A]$ also lies
+in the ray $\{Y_{2}Z_{2}\}$ and therefore in the plane $(X_{2}Y_{2}Z_{2})$. Now, by
+Corollary 96, the planes $(X_{1}Y_{1}Z_{1})$ and $(X_{2}Y_{2}Z_{2})$ have a ray in com-
+mon $\{(X_{1}Y_{1}Z_{1})(X_{2}Y_{2}Z_{2})\}$ and, by Corollary 97, $[A]$ which lies
+in each plane lies in that ray $\{(X_{1}Y_{1}Z_{1})(X_{2}Y_{2}Z_{2})\}$.
+
+It is evident that the same reasoning precisely shows that $\{Z_{1}X_{1}\}$
+and $\{Z_{2}X_{2}\}$ have a common point, which we may call $[B]$, and that
+this point lies in the ray $\{(X_{1}Y_{1}Z_{1})(X_{2}Y_{2}Z_{2})\}$; [ins]and[/ins] likewise that $\{X_{1}Y_{1}\}$
+and $\{X_{2}Y_{2}\}$ have a common point, which we may call $[C]$, and that
+this point lies in the ray $\{(X_{1}Y_{1}Z_{1})(X_{2}Y_{2}Z_{2})\}$. Thus $[A]$, $[B]$, $[C]$ lie
+in one ray. This proves the first part of the theorem in case
+the rays $\{X_{1}X_{2}\}$, $\{Y_{1}Y_{2}\}$, $\{Z_{1}Z_{2}\}$ are not in one plane.
+
+This being so when those rays are not in one plane, it follows,
+by the principle of the limit, that it must equally be so when
+they are in one plane. For when the whole [ins]con[/ins]figure lies in one

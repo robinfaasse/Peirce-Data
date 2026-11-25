@@ -1,0 +1,16 @@
+[fig]diagram showing a trapezoid with sides labeled a, b, c, z, and an altitude q[/fig]
+
+$\sqrt{a^2 - q^2} + \sqrt{c^2 - q^2} = b$
+
+$a^2 + c^2 - 2 q^2 + 2 \sqrt{(a^2 - q^2)(c^2 - q^2)} = b^2$
+
+$4(a^2 - q^2)(c^2 - q^2) = $
+      $(b^2 - a^2 - c^2 + 2q^2)^2$
+
+$4 a^2 c^2 - 4(a^2 + c^2) q^2 + 4 q^4$
+
+$(b^2 - a^2 - c^2)^2 + 4(b^2 - a^2 - c^2) q^2 + 4 q^4$
+
+$4 b^2 q^2 = 4 a^2 c^2 - (b^2 - a^2 - c^2)^2$
+
+$(\sqrt{a^2 - q^2} + b)^2 + q^2 = 4 z^2$

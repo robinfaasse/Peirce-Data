@@ -1,0 +1,39 @@
+[date]1901 Dec 10[/date]
+
+To prove that if [del]$(a \prec b) \prec c$[/del] [ins]$(a + b) \prec c$[/ins] then $(\bar{a} \prec b) \prec c$
+
+For if $\prod_t (a \prec t)$ then $(a \prec b)$
+
+But $b \prec b$
+
+And therefore, by definition of Mult. (old $4$ of Class p 33),
+
+If $\prod_t (a \prec t)$ $(a + b) \prec b$
+
+i.e. $\bar{a} \prec (a + b) \prec b$ [fig]arrow pointing right[/fig]
+
+$\therefore (a + b) \prec \bar{a} \prec b$
+
+$\therefore$ By theorem $[(\bar{a} \prec b) \prec c] \prec [(a + b) \prec c]$
+
+Another proof: (differently arranged merely)
+
+$\bar{a} \prec \prod_t (a \prec t) \prec a \prec b$
+
+$\therefore a \prec \bar{a} \prec b$
+
+$\therefore [(\bar{a} \prec b) \prec c] \prec a \prec c$
+
+$b \prec b$ is true
+
+$\therefore \prod_t t \prec (b \prec b)$
+
+$\therefore \bar{a} \prec b \prec b$
+
+$\therefore b \prec \bar{a} \prec b$
+
+$\therefore [(\bar{a} \prec b) \prec c] \prec b \prec c$
+
+$\therefore$ By definition $[(\bar{a} \prec b) \prec c] \prec (a + b) \prec c$
+
+[marginalia]The first is the better.[/marginalia]

@@ -1,0 +1,16 @@
+$$\sum_{0}^{\infty} A_{n} x^{n} \sum_{0}^{\infty} A'_{m} x^{m} = \sum_{0}^{\infty} \sum_{0}^{n} A_{m} A'_{n-m} x^{n}$$
+
+$$\frac{\sum_{0}^{\infty} A_{n} x^{n}}{\sum_{0}^{\infty} A'_{n} x^{n}} =$$
+
+$$D_{x} \sum_{0}^{\infty} A_{n} x^{n} = \sum_{0}^{\infty} n A_{n} x^{n-1} = \sum_{0}^{\infty} [del](n+1) A_{n+1} x^{n}[/del]$$
+$$= \sum_{1}^{\infty} n A_{n} x^{n-1}$$
+
+$$D_{x}^{2} \sum_{0}^{\infty} A_{n} x^{n} = \sum_{2}^{\infty} n(n-1) A_{n} x^{n-2}$$
+
+$$D_{x}^{3} \sum_{0}^{\infty} A_{n} x^{n} = \sum_{3}^{\infty} n(n-1)(n-2) A_{n} x^{n-3}$$
+
+$$D_{x}^{m} \sum_{0}^{\infty} A_{n} x^{n} = \sum_{m}^{\infty} \frac{n!}{(n-m)!} A_{n} x^{n-m}$$
+
+$$D_{x} \frac{1}{\sum_{0}^{\infty} A_{n} x^{n}} = - \frac{\sum_{1}^{\infty} n A_{n} x^{n-1}}{\sum_{0}^{\infty} \sum_{0}^{n} A_{m} A_{n-m} x^{n}}$$
+
+$$D_{x}^{2} \frac{1}{\sum_{0}^{\infty} A_{n} x^{n}} = - \frac{\sum_{2}^{\infty} n(n-1) A_{n} x^{n-2}}{\sum_{0}^{\infty} \sum_{0}^{n} A_{m} A_{n-m} x^{n}}$$

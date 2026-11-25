@@ -1,0 +1,45 @@
+[fig]Triangle with vertices A, B, C and lines intersecting at P[/fig]
+
+[marginalia]
+[del]D[/del] B-A
+C-A
+P
+[/marginalia]
+
+[del]$\frac{(u-v)(z-x)}{(w-u)(x-y)}$[/del]
+[del]$-uz - u^2 + ux$[/del]
+$-wx + wy - uy$
+$u(z-y)$
+
+$0 = (u-v)A + (v-w)B + (w-u)C$
+$Q = (x-y)A + (y-z)B + (z-x)C$
+
+[del]$(x-y)O + (w-u)Q = B-A$[/del]
+$\frac{u(y-z) + v(z-x) + w(x-y)}{(y-z)O - (w-u)Q = C-A}$
+$y-x + w-v$
+
+$\frac{(v-w)(z-x)}{(w-u)(y-z)}$
+$\frac{vz - vx - wz + wx}{uy - uz - wy}$
+$u(y-z) + v(z-x) + w(x-y)$
+
+Bisection = $\frac{[del](x-z)[/del](y-z) \pm [del]\sqrt{(w-u)(y-z)}[/del]}{(x-x)(y-z) + (w-u)(u-w)}$
+
+$(1 \pm \sqrt{\frac{u-w}{z-x} \cdot \frac{w-v}{y-z}}) O$
+$+ \frac{(w-v)(u-w)}{[del](x-x)[/del](y-z) + (w-u)(u-w)}$
+$(1 \mp \sqrt{\frac{z-x}{u-w} \cdot \frac{y-z}{w-u}}) Q$
+
+[u]Corrected further on[/u]
+
+---
+
+Bisection of A = $\frac{-(y-z)(x-x)(u-v) + (x-y)(u-w)(w-u)}{(x-x)(y-x) + (v-w)(w-u)}$
+$\mp \frac{(x-y + w-y)\sqrt{(u-w)(y-z)(w-u)(z-x)}}{(y-z)(z-x)(u-w) + (y-z)[del](u-w)[/del](w-u) \mp \frac{(u-w)}{(y-z)}}$ A
+$+ \frac{(y-z)(z-x)(u-w) + (y-z)(z-x)(u-w) \mp \frac{(u-w)}{(z-x)}}$ B
+$+ \frac{(y-z)(z-x)(u-w) + (z-x)(u-w)(w-u) \mp \frac{(w-u)}{(z-x)}}$ C
+
+Bisection of B = $\frac{-(x-y)(z-x) \pm \sqrt{(u-v)(x-y)(w-u)(z-x)}}{(x-y)(z-x) + (w-u)(u-v)}$ O
+$+ (u-v)(w-u) \pm S$ Q
+
+$= \frac{-(u-v)(y-z)(z-x) + (x-y)(u-w)(w-u) \mp \frac{(u-v)}{(z-x)}}$ A
+$- \frac{(u-w)(y-z)(z-x) + (x-y)(u-w)(w-u) \mp \frac{(u-w)}{(y-z)}}$ B
+$- \frac{(w-u)(y-z)(z-x) + (z-x)(u-w)(w-u) \mp \frac{(w-u)}{(z-x)}}$ C

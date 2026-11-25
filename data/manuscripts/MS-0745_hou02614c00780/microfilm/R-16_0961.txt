@@ -1,0 +1,23 @@
+[u]Relative[/u] addition and multiplication defined
+by the formulae
+$(lb)_{ij} = \Sigma_x\ l_{ix}\ b_{xj}$
+$(l \dagger b)_{ij} = \Pi_x\ (l_{ix} + b_{xj})$
+Multiplication a particular, addition a universal
+mode of combination. The parts undistributed in
+both. Associative principle:
+$l \dagger (b \dagger s) = (l \dagger b) \dagger s$
+$l(bs) = (lb)s$.
+Two important formulae:
+$l(b \dagger s) \prec lb \dagger s$
+$(l \dagger b)s \prec l \dagger bs$.
+Formulae of transposition:
+$(l \prec b \dagger s) = (\breve{b} \prec s \dagger \breve{l}) = (\breve{s} \prec \breve{l} \dagger b)$
+$(lb \prec s) = (b\breve{s} \prec \breve{l}) = (\breve{s}l \prec \breve{b})$.
+Distributive principle:
+$(l + b)s = ls + bs$
+$s(l + b) = sl + sb$
+$l, b \dagger s = (l \dagger s), (b \dagger s)$
+$s \dagger l, b = (s \dagger l), (s \dagger b)$.
+Negatives of combinations:
+$\overline{l + b} = \overline{l}, \overline{b}$     $\overline{l, b} = \overline{l} + \overline{b}$
+$\overline{l \dagger b} = \overline{l}\ \overline{b}$     $\overline{lb} = \overline{l} \dagger \overline{b}$.

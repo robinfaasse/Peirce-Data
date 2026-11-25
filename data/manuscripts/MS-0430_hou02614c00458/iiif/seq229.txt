@@ -1,0 +1,24 @@
+Logic
+III
+80
+
+is scriptible, y ⌵ z is scriptible. Thus, if x ⌵ y ⌵ z is scrip-
+tible, either x ⌵ z or y ⌵ z is scriptible; which completes the 
+proof of (82).
+
+(83) To assert (x ⌵ y) ⌵ z to be scriptible is equivalent to asserting
+that both y ⌵ z and (x ⌵ z) ⌵ z are scriptible.
+
+For, by (65), if y is scriptible, so is x ⌵ y; whence, by (68)
+y ⌵ x ⌵ y is always scriptible. Whence by contraposition
+[del]((x ⌵ y) ⌵ z) ⌵ y ⌵ z[/del]
+(x ⌵ y) ⌵ z ⌵ y ⌵ z is scriptible, and by (66), if (x ⌵ y) ⌵ z
+is scriptible, so is y ⌵ z. Moreover, by (64), either x ⌵ y is
+scriptible or x is scriptible. But, by (66), (x ⌵ y) ⌵ z being
+scriptible, if x ⌵ y is scriptible, z is scriptible. Hence if
+(x ⌵ y) ⌵ z is scriptible, either x or z is so, when, by (80),
+(x ⌵ z) ⌵ z is scriptible. Thus, if (x ⌵ y) ⌵ z is scriptible, both
+y ⌵ z and (x ⌵ z) ⌵ z are so. On the other hand, if (x ⌵ z) ⌵ z
+is scriptible, by (79), either x or z is scriptible. But if x
+is scriptible, then by (66) if x ⌵ y is scriptible, y is scriptible;
+whence, again by (66), y ⌵ z being scriptible, z is scriptible.

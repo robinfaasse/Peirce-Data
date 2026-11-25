@@ -1,0 +1,29 @@
+or $$\frac{\tau_{n+2}-\tau_{n-1}}{\tau_{n+1}-\tau_{n}} = \frac{\tau_{n+1}-\tau_{n-2}}{\tau_{n}-\tau_{n-1}}$$
+
+But one side differs from the other only by having all its subscripts greater by one; so that the equation means that the fraction does not vary with $n$. If it exceeds $3$, we may take $A$ as such a constant that
+
+$$\frac{\tau_{n+3}-\tau_{n}}{\tau_{n+2}-\tau_{n+1}} = 2\sec A + 1$$
+
+[marginalia]
+$\sec A > 1$ or $< -1$
+$2\sec A > 2$ or $< -2$
+$2\sec A + 1 > 3$ or $< -1$
+$\cos A < 1$ or $> -1$
+$< \frac{1}{2}$
+$< 3$
+[/marginalia]
+
+Supposing then $\tau_{n}$ had the form $C^{n}$, we should have
+$$C^{3} - (2\sec A + 1)C^{2} + (2\sec A + 1)C - 1 = 0.$$
+
+One [del]solution[/del] root of this equation is evidently $C = 1$. Dividing, then, by $C-1$ we have
+$$C^{2} - 2\sec A \cdot C + 1 = 0$$
+or
+$$C = \sec A \pm \sqrt{\sec^{2} A - 1} = \tan(45^{\circ} \pm \frac{A}{2}).$$
+
+Hence, in general,
+$$\tau_{n} = C_{0} + C_{1}\sinh nu + C_{2}\cosh nu$$
+where
+$$u = \log\tan(45^{\circ} \pm \frac{A}{2}).$$
+
+But if the fraction put equal to $2\sec A + 1$ is less than $3$

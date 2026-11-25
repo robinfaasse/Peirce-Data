@@ -1,0 +1,16 @@
+[del][fig]diagram of a pendulum[/fig][/del]
+
+$$U = \frac{1}{2} \left\{ \int_{0}^{L_{1}} dl + \int_{0}^{L_{2}} dl \right\} \left[ \mathcal{E} (D_{l} \theta)^{2} \right]$$
+$$- g \left\{ \int_{0}^{L_{1}} dl \int_{m}^{M_{1}} dm + \int_{0}^{L_{2}} dl \int_{m}^{M_{2}} dm \right\} [\cos \theta]$$
+
+We may now form Lagrangian equations.
+The partial differential coefficient of $E$
+relatively to $D_{t} \theta_{k}$ where $k$ is any distance
+from the knife-edge is -
+
+[del]$$D_{D_{t} \theta_{k}} E = \left\{ \int_{m_{k}}^{M_{k}} dm \right\} k^{2} D_{t} \theta_{k} + \int_{0}^{k} dl \int_{m_{k}}^{M} dm$$[/del]
+
+[del]$$D_{D_{t} \theta_{k}} E = \int_{k}^{L} dl \int_{0}^{l} d\lambda \int_{m}^{M} dm [\cos (\theta_{k} - \theta_{\lambda}) D_{t} \theta_{\lambda}]$$[/del]
+
+$$D_{\theta'_{k}} E = dl \int_{0}^{k} d\lambda \int_{m_{k}}^{M} dm \left[ \cos (\theta_{k} - \theta_{\lambda}) \cdot D_{t} \theta_{\lambda} \right]$$
+$$+ dl \int_{k}^{L} dl \int_{m}^{M} dm \left[ \cos (\theta_{l} - \theta_{k}) \cdot D_{t} \theta_{l} \right] [del]+ dl D_{t} m_{k} \cdot \gamma^{2} D_{t} \theta_{k}[/del]$$

@@ -1,0 +1,19 @@
+$$X = \frac{x^2+y^2-b^2}{2yc-n}x$$
+
+$$D_x X = \frac{3x^2+y^2-b^2}{2yc-n} [del]+ \text{???}[/del]$$
+
+$$D_x^2 X = \frac{6x}{2yc-n}$$
+
+$$D_y X = x \frac{2y(2yc-n)-2c(x^2+y^2-b^2)}{(2yc-n)^2}$$
+
+$$= 2x \frac{[del]2cy^2-ny-cx^2-cb^2[/del]}{(2yc-n)^2}$$
+
+[del]$$D_y^2 X = x \frac{\text{???}}{} = 2(24$$[/del]
+
+$$D_y^2 X = 2x \frac{(2cy-n)^3 - 2(2yc-n)2y(cy^2-ny-cx^2-cb^2)}{(2yc-n)^4}$$
+
+$$= 2x \frac{(2cy-n)^2 - 4y(cy^2-ny-cx^2-b^2c)}{(2yc-n)^3}$$
+
+$$= 2x \frac{4c^2y^2-4cny+n^2-4cy^3+4ny^2+4cx^2y+4b^2cy}{(2yc-n)^3}$$
+
+$$(D_x^2+D_y^2)X = \frac{8x}{2cy-n} - 8xy \frac{cy^2-ny-cx^2-b^2c}{(2cy-n)^3}$$

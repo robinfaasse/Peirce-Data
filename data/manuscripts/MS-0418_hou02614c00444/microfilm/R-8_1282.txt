@@ -1,0 +1,38 @@
+[pn]364[/pn]
+
+and whether Dora is in or out, all the rest are in
+or [del]she[/del] [ins]they are all out.[/ins] [del]all the rest a[/del]
+
+A single [del]con[/del] inference of a definite kind can
+be drawn. But in the logic of relatives, [del]there is no[/del] [ins]hardly any[/ins]
+premise so simple that an infinite series of
+[del]of[/del] conclusions cannot be drawn from it. Thus,
+from
+
+[u]Every Hottentot kills a Hottentot,[/u]
+
+we infer
+
+Every Hottentot kills [del]the[/del] [ins]a[/ins] murderer of a [del]Hottentot[/del],
+Every Hottentot kills [del]the[/del] [ins]an[/ins] avenger [del]of[/del] of a Hottentots murder,
+Every Hottentot kills [del]the[/del] [ins]a[/ins] murderer of an avenger
+of a Hottentots murder, and so on, [u]ad infinitum[/u].
+
+[u]§83. Second Step.[/u] Without deranging the order of the indices of any one premise, the $\Pi$'s
+and $\Sigma$'s belonging to different premises may be moved relatively to one another,
+and as far as possible the $\Sigma$'s should be carried to the left of the $\Pi$'s. We have
+$$\Pi_i\Pi_j x_{ij} = \Pi_j\Pi_i x_{ij}$$
+$$\Sigma_i\Sigma_j x_{ij} = \Sigma_j\Sigma_i x_{ij}$$
+and also
+$$\Sigma_i\Pi_j x_{ij} y_j = \Pi_j\Sigma_i x_{ij} y_j.$$
+But this formula does not hold when the $i$ and $j$ are not separated. We do have,
+however,
+$$\Sigma_i\Pi_j x_{ij} \prec \Pi_j\Sigma_i x_{ij}.$$
+It will, therefore, be well to begin by putting the $\Sigma$'s to the left, as far as possible,
+because at a later stage of the work they can be carried to the right but not to
+the left. For example, if the operators of the two premises are $\Pi_i\Sigma_j\Pi_k$ and
+$\Sigma_x\Pi_y\Sigma_z$, we can unite them in either of the two orders
+$$\Sigma_x\Pi_i\Sigma_j\Pi_k\Sigma_z\Pi_y$$
+$$\Sigma_x\Pi_i\Sigma_j\Pi_y\Sigma_z\Pi_k,$$
+and shall usually obtain different conclusions accordingly. There will often be
+room for skill in choosing the most suitable arrangement.

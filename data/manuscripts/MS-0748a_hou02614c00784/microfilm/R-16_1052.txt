@@ -1,0 +1,57 @@
+(for whatever else it may be) its value. We may choose any
+two numbers at pleasure, to represent the values of truth
+and falsity, and denote these by the letters v and f re-
+spectively, so that the value of every true proposition
+is said to be v, and that of every false proposition is
+said to be f, while propositions neither true nor false,
+if there be any, take other values. Thus two propositions
+will have the same value if they are either both true or
+both false, notwithstanding the difference in their meaning,
+just as two triangles may have the same area and yet be
+very differently shaped. Accordingly, using the letters
+of the alphabet to designate different propositions, if
+we write x=y it will not at all signify that the propositions
+x and y are equivalent in meaning, but only that both are
+either true or false at once. The equation x=v or x-v=0
+will mean that the proposition x is true,-- precisely what
+x written alone would mean. The equation x=f or x-f=0 will
+signify that the proposition x is false; and the same
+thing would be signified by writing any algebraical expres-
+sion which becomes equal to v when x=f and equal to f when
+x=v. The simplest such expression is v+f-x. This then repre-
+sents the negative of the proposition x.
+
+The simplest of all possible inferences is what is
+commonly called the modus ponens of hypothetical syllogism,
+though some logicians very properly object to its being
+called a syllogism at all. It is this:
+
+If x is true, y is true,
+But x is true;
+Hence, y is true.
+
+Suppose, for example, that being at the theatre, I were
+to here a rumour of a house being on fire near where I
+lived. I should say "If this be true, I had better be going."
+Suppose then, that on making inquiries, I were to find that
+the rumour was true: I should hurry home, in accordance
+with the inference.
+
+Let us represent this in algebraical notation. The hy-
+pothetical proposition "If x is true, y is true," is such
+that if it be true and if x be true, then y is true, but
+if x be not true or if both x and y be true, then the truth
+of the hypothetical proposition depends on other circum-
+stances. All this is [del]perfectly[/del] [ins]fully[/ins] represented by the equation,
+(x-v)A = (y-v)B
+where A and B are quantities whose values are not deter-
+mined by those of x and y alone, and which may vanish but
+cannot become infinite. For if x=v the equation cannot hold
+unless y=v. It may not hold even then, if B=0. If x does
+not equal v, the equation may or may not be true, according
+to the values of y, A, and B. From this equation together
+with x=v we at once deduce y=v, thus performing the inference
+of the modus ponens by an arithmetical process. This may
+be surprising at first sight, but it ceases to be so when
+we reflect that all that we have done is to find among the
+innumerable relations of which numbers are suce

@@ -1,0 +1,36 @@
+[pn]1[/pn]
+
+$$\begin{array}{rcc}
+\text{K} & \text{H} & \xi \\
+\frac{42}{79} & = & .53165 \\
+\frac{25}{47} & = & .53191 \\
+\frac{33}{62} & = & .53226 \\
+\frac{41}{77} & = & .53247 \\
+\frac{8}{15} = \frac{16}{30} = \frac{24}{45} = \frac{32}{60} = \frac{40}{75} & = & .53333 \\
+\frac{39}{73} & = & .53425 \\
+\frac{31}{58} & = & .53448 \\
+\frac{23}{43} & = & .53488 \\
+\frac{38}{71} & = & .53521 \\
+\frac{15}{28} = \frac{30}{56} & = & .53571 \\
+\frac{37}{69} & = & .53623 \\
+\frac{22}{41} & = & .53658 \\
+\frac{29}{54} & = & .53704 \\
+\frac{36}{67} & = & .53731 \\
+\frac{7}{13} = \frac{14}{26} = \frac{21}{39} = \frac{28}{52} = \frac{35}{65} = \frac{42}{78} & = & .53846 \\
+\frac{41}{76} & = & .53947 \\
+\frac{34}{63} & = & .53968 \\
+\frac{27}{50} & = & .54000 \\
+\frac{20}{37} = \frac{40}{74} & = & .54054 \\
+\frac{33}{61} & = & .54098 \\
+\frac{13}{24} = \frac{26}{48} = \frac{39}{72} & = & .54167 \\
+\frac{32}{59} & = & .54237 \\
+\frac{19}{35} = \frac{38}{70} & = & .54286 \\
+\frac{25}{46} & = & .54348 \\
+\frac{31}{57} & = & .54386 \\
+\frac{37}{68} & = & .54412 \\
+\frac{43}{79} & = & .54430
+\end{array}$$
+
+[fig]Diagram with brackets and lines connecting fractions to differences[/fig]
+
+These fractions follow one another in a pretty simple manner. $\frac{8}{15}$ belongs to the second cluster of the fractions with K=15 (the first being $\frac{25}{47}, \frac{33}{62}, \frac{41}{77}$) and its value is therefore $\frac{42}{79} + \frac{2}{15 \cdot 79}$, precisely. $\frac{41}{77}$ belongs to the first cluster and should therefore be $\frac{42}{79} + \frac{1}{15 \cdot 79} = .532405$ but this must be corrected by adding $\xi (\frac{1}{77} - \frac{1}{79})$ which equals .0000220

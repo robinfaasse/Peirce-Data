@@ -1,0 +1,62 @@
+[fig]Geometric diagram of a hexagon inscribed in a circle with intersecting lines and arrows[/fig]
+
+[marginalia]
+mirror A
+Incident $0^{\circ} + i$
+Reflected $0^{\circ} - i$
+[/marginalia]
+
+[marginalia]
+mirror B
+Incident $120^{\circ} + j$
+Reflected $120^{\circ} - j$
+[/marginalia]
+
+[marginalia]
+mirror C
+Incident $240^{\circ} + k$
+Reflected $240^{\circ} - k$
+[/marginalia]
+
+$$\begin{array}{cc}
+& x \\
+C & C + 180^{\circ} \\
+C + x & C + 180^{\circ} - x \\
+C + 90^{\circ} & C + 90^{\circ} \\
+C - 90^{\circ} & C + 270^{\circ} \\
+= C - 270^{\circ} &
+\end{array}$$
+
+$$\begin{array}{l}
+C + x = g \\
+C = g - x \\
+x = g - C \\
+C - x = 2C - g
+\end{array}$$
+
+$i$ A $-i$ C $240^{\circ} + i$ B $360^{\circ} - i$
+
+That is looking into the three reversals (i.e. perverts).
+
+[del]Looker[/del] Suppose [ins]the perpendicular from centre to first mirror is[/ins] [del]mirror is[/del] in direction A
+
+That into [del]2nd[/del] [ins]2nd[/ins] in direction B
+
+That into [del]3rd[/del] [ins]3rd[/ins] in direction C
+
+Then suppose gaze before reflection is in direction $g$
+
+$$\begin{array}{ll}
+\text{After reflection from C} & 180^{\circ} + 2C - g \\
+\text{After reflection from B} & g - 2C + 2B \\
+\text{After reflection from A} & 180^{\circ} + 2A - 2B + 2C - g
+\end{array}$$
+
+$$180^{\circ} + 2A - 2B + 2C - g = g$$
+$$g = 90^{\circ} - A + B - C$$
+
+[fig]Geometric diagram of overlapping circles forming a flower-like pattern[/fig]
+
+[fig]Small diagram of intersecting lines with angles marked[/fig]
+
+An object at the centre of a spherical mirror may be said to be its own [del]and[/del] optical image. [ins]It will extinguish the light or double it according to whether there are an even or odd number of half[/ins] If a speaker has a portion of a spherical sounding board behind him and distant a whole number of wavelengths it should greatly affect the sound. But while in the case of light it would probably double the light, it might make the sound four times as great or might cause silence.

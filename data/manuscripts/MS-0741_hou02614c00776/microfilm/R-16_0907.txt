@@ -1,0 +1,45 @@
+[fig]Geometric network diagram with numbered nodes[/fig]
+[fig]Geometric network diagram with 6 nodes[/fig]
+[fig]Small network diagram with numbers 1, 2, 3[/fig]
+[fig]Small network diagram with labels 2-1, 1-1, 3-3, 2-2[/fig]
+
+[fig]Small network diagram[/fig]
+[fig]Small network diagram[/fig]
+
+[u]A[/u]  1-1   2-2   3-3
+[u]B[/u]  1-2   2-1   3-3
+[u]C[/u]  1-3   2-2   3-1
+
+1.1  [del]1[/del] 2   3.3
+2.2  2.1   3.2
+3.3  3.3   3.1
+
+[fig]Three connected circle diagrams with labels 1, 2, 3[/fig]
+
+[u]A[/u]  [del]1-1[/del] [ins]2-2[/ins]   3-3
+[u]B[/u]  1-2   [del]2-1[/del]   3-2
+[u]C[/u]  1-3   [del]2-[/del]     3-1
+
+[fig]Hatch-mark grid diagram[/fig]
+[fig]Cross-like grid diagram[/fig]
+
+[fig]Six-node network diagram[/fig]
+
+[fig]Square sketch[/fig]
+
+1.3  2.2  3.3
+1.1  2.2  3.1
+1.2  2.3  2.1
+
+[fig]Circle containing grid with letters E, A, I, O[/fig]
+
+[fig]Small geometric network diagram[/fig]
+
+[fig]Star-like point diagram[/fig]
+[fig]Dotted constellation-like diagram[/fig]
+
+[fig]Symmetrical star diagram[/fig]
+[fig]Triangular diagram with dotted lines[/fig]
+[fig]Y-shaped line diagram[/fig]
+
+[fig]Small geometric network diagram[/fig]

@@ -1,0 +1,44 @@
+[del](A + B + C + D)[/del]
+
+[del]p[/del] [ins]p[/ins] [u]1[/u]/4 (A + B + C + D) + [del]A[/del] (1 - p) A
+- p [u]1[/u]/4 (A + B + C + D) + (1 + p) A
+
+(1 - [del]3p[/del]) A + B + pC + pD
+(1 + 3p) A - pB - pC - pD
+
+- qA + (1 + 3q) B = qC - qD
+qA + (1 - 3q) B + qC + qD
+
+[del]x ([del]1 - p[/del]) + ([del]1 - q[/del]) q = y ([del]1 + 3p[/del])[/del]
+- yq + (1 - q) (1 + 3p)
+
+[del]x =[/del] [del]= ([del]1 - p[/del]) x + ([del]1 - q[/del])[/del]
+[del]x = [u]- 7pq - 2q - q²[/u]/2(p - q)[/del]
+
+[fig]Triangle with intersecting lines[/fig]
+
+[del]7pq = q² - p - 2q[/del]
+[u]p - q[/u]
+
+xp + (1 - x) q = - y [del]q[/del] - (1 - y) [u]p[/u]/q
+
+x [del](p - q)[/del] + q
+[del](x + y) (p - q) = - q[/del]
+
+(x - y) (p - q) = - p - q
+x - y = [u]q + p[/u]/q - p
+x + [u]p + q[/u]/p - q = y
+
+[fig]Small triangle[/fig]
+
+[fig]Triangle with complex internal lines[/fig]
+
+[fig]Triangle with complex internal lines[/fig]
+
+[fig]Small triangle with internal lines[/fig]
+
+[fig]Triangle with complex internal lines[/fig]
+
+[fig]Tetrahedron with vertices A, B, C, D[/fig]
+
+[fig]Tetrahedron with vertices A, B, C, D and internal lines[/fig]

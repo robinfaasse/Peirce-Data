@@ -1,0 +1,21 @@
+By def 3 All $(A_{x'}, B_{x'})$ is $B_{x'}$
+$\therefore$ All $(A_{x'}, B_{x'})$ is both $A_x$ and $B_{x'}$ if $A_x = A_{x'}$
+By def 1 If $A_x \equiv A_{x'}$
+All $A_x$ is $A_{x'}$
+$\therefore$ What is both $A_x$ and $B_{x'}$ is $A_{x'}$
+But what is both $A_x$ and $B_{x'}$ is $B_{x'}$
+$\therefore$ What is both $A_x$ and $B_{x'}$ is both $A_{x'}$ and $B_{x'}$
+But by def 3
+What is both $A_{x'}$ and $B_{x'}$ is $(A_{x'}, B_{x'})$
+$\therefore$ What is both $A_x$ and $B_{x'}$ is $(A_{x'}, B_{x'})$
+$\therefore$ By def 3.
+$(A_x, B_{x'}) \equiv (A_{x'}, B_{x'})$
+In the same way it could further be shown that
+$(A_x, B_x) \equiv (A_{x'}, B_{x'})$ if $A_x \equiv A_{x'}$ and $B_x \equiv B_{x'}$
+$\therefore$ [del]$(A_x, B_x) \equiv (A_{x'}, B_{x'}) \equiv (A_x, B_{x'}) \equiv (A_{x'}, B_x)$[/del]
+Hence by def 2 the sum contains only the first term
+$\therefore$ There is not another term.
+$\therefore$ [del]Any[/del] individual is the product of two terms one of the
+series $A_1\ A_2\ A_3$ etc and the other of the series $B_1\ B_2\ B_3$ etc
+
+I call this condition 3'.

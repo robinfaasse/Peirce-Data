@@ -1,0 +1,28 @@
+[del]Another way of expressing the principle of excluded middle
+would be: [u]x[/u] - [u]u[/u] + [u]v[/u] - [u]v[/u] = [del]0[/del] [ins]∞[/ins].[/del] [pn]3[/pn]
+
+It will be found, however, that occasion seldom
+arises for taking explicit account of the prin-
+ciples of [del]contradiction and[/del] excluded middle.
+
+The propositions
+Either [u]x[/u] is false or [u]y[/u] is true, and
+Either [u]y[/u] is false or [u]z[/u] is true,
+are expressed by the equations
+([u]x[/u]-[u]u[/u])([u]v[/u]-[u]y[/u]) = 0
+([u]y[/u]-[u]u[/u])([u]v[/u]-[u]z[/u]) = 0.
+For, as before, [del]since[/del] [ins]to say that[/ins] the product forming the
+first member of [del]each[/del] [ins]each[/ins] equation vanishes, is
+equivalent to saying that one or other factor
+vanishes.
+
+Let us now eliminate [u]y[/u] from the above
+two equations. For this purpose, we multiply
+the first by ([u]v[/u]-[u]z[/u]) and the second by ([u]x[/u]-[u]u[/u]). We,
+thus, get
+([u]x[/u]-[u]u[/u])([u]v[/u]-[u]y[/u])([u]v[/u]-[u]z[/u]) = 0
+([u]x[/u]-[u]u[/u])([u]y[/u]-[u]u[/u])([u]v[/u]-[u]z[/u]) = 0.
+We now add these two equations and get
+([u]x[/u]-[u]u[/u])([u]v[/u]-[u]u[/u])([u]v[/u]-[u]z[/u]) = 0.
+But the factor [u]v[/u]-[u]u[/u] does not vanish.
+We, therefore, divide by it, and so find

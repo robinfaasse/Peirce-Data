@@ -1,0 +1,34 @@
+[pn]4[/pn]
+
+<u>Logic of Quantity</u>
+
+expression from which we have to eliminate [u]n[/u] :
+(6) $\Sigma_{i} \Sigma_{v} \Pi_{s} \Sigma_{r} \Pi_{e} \Pi_{f} \Pi_{g} \Pi_{u} \bar{q}_{iv} \cdot \bar{q}_{mv} \cdot (\bar{q}_{mu} \mathbin{\psi} q_{nu}) \cdot (\bar{q}_{ns} \mathbin{\psi} q_{mr} \cdot \bar{r}_{rs}) \cdot (\bar{r}_{ef} \mathbin{\psi} \bar{r}_{eg} \mathbin{\psi} r_{fg})$
+
+In eliminating [u]n[/u], we must be careful to preserve the effect of the
+first factor. For this purpose, we square (6) and then, identifying [u]i'[/u] with [u]i[/u]
+(as we are entitled to do after squaring), [u]s'[/u] and [u]f'[/u] with [u]v'[/u] (which, to avoid
+the accent, we may change to [u]w[/u]), [u]e'[/u] [ins]with[/ins] [del]to[/del] [u]r'[/u] (which we may change to [u]g[/u]) and
+[u]u[/u] with [u]s[/u], and changing [u]g'[/u] to [del]y[/del] [ins]y[/ins], and observing that $l_{wj} \cdot \bar{q}_{mw} \prec q_{my}$, we
+have
+(7) $\Sigma_{i} \Sigma_{v} \Sigma_{g} \Pi_{s} \Sigma_{r} \Pi_{e} \Pi_{f} \Pi_{g} \Pi_{y} \bar{q}_{mv} \cdot \bar{q}_{mg} \cdot (\bar{r}_{gy} \mathbin{\psi} \bar{q}_{my}) \cdot (\bar{q}_{ms} \mathbin{\psi} q_{mr} \cdot \bar{r}_{rs}) \cdot (\bar{r}_{ef} \mathbin{\psi} \bar{r}_{eg} \mathbin{\psi} r_{fg})$
+
+The statement that [u]m[/u] is such that it cannot be in semieorrespond-
+ence to any collection of which it is a part is then
+(8) $\Pi_{i} \Pi_{g} \Sigma_{s} \Pi_{r} \Sigma_{e} \Sigma_{f} \Sigma_{g} \Sigma_{y} q_{mg} \mathbin{\psi} r_{gy} \cdot \bar{q}_{my} \mathbin{\psi} q_{ms} \cdot (\bar{q}_{mr} \mathbin{\psi} r_{rs}) \mathbin{\psi} r_{ef} \cdot r_{eg} \cdot \bar{r}_{fg}$
+
+The denial of this is the same as (7) without the first factor.
+
+<u>Definition 2</u>. An enumerable collection is a collection [ins]of[/ins] which every
+object is in every relation to some object of that collection which relation
+is that of a semicorrespondence in which the collection stands to itself.
+That is, it is such a collection that (8) is true of it.
+
+A collection not enumerable is inenumerable.
+
+<u>Art. 3. Scholium 2</u>. An inenumerable [del]relation[/del] [ins]collection[/ins] can be in
+semicorrespondence to a collection of which it forms a part;
+but it is not necessarily in semicorrespondence to every col-
+lection of which it forms a part. The question therefore arises whether
+there be any sort of [fig]ink blot[/fig] collection which is in semicorrespond-
+ence with every collection, without embracing the whole universe.

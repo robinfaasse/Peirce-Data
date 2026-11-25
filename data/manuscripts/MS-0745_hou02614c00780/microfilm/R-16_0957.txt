@@ -1,0 +1,16 @@
+[u]Lecture VIII.[/u]
+
+[u]Solution of problems[/u] in non-relative deductive logic. Various methods. Rules of lecturer's method.
+[u]First process[/u]. Analysis of the premises.
+$\{(a+b) \prec c\} \prec (a \prec c) \times (b \prec c)$
+$\{a \prec (b \times c)\} \prec (a \prec b) \times (a \prec c)$
+$\{(a+b) \overline{\prec} c\} \prec (a \overline{\prec} c) + (b \overline{\prec} c)$
+$\{a \overline{\prec} (b \times c)\} \prec (a \overline{\prec} b) + (a \overline{\prec} c)$.
+[u]Second process[/u]. Elimination of middle terms by means of the principles of [del]the transitiveness[/del] [ins]syllogistic[/ins], combined with the following formulae of transposition:
+$(x \times y \prec z) = (x \times \bar{z} \prec \bar{y})$
+$(x \times y \prec \bar{z}) = (x \prec \bar{y} + \bar{z})$.
+[u]Third process[/u]. Recomposition of results to find antecedents or consequents of any term.
+Examples.
+
+[u]Lecture IX.[/u]
+Application of the Boolian algebra to the inversion of the order of integration and summation.

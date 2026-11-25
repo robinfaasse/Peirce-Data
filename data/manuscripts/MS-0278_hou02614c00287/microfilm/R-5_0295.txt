@@ -1,0 +1,22 @@
+Developing $(1+\frac{x}{N})^{N}$ by the binomial theorem and
+putting $N=\infty$ we get the value of $e^{x}$. The sum of the
+infinite series is definite [ins]however great $x$ may be,[/ins] because after a time every term
+is smaller, and ultimately infinitely smaller than the term
+which precedes it; and the value is finite [ins]as long as $x$ is finite,[/ins] because it is
+the value of $e^{x}$ and $e$ is finite.
+$e^{x} = 1 + \frac{x}{1!} + \frac{x^{2}}{2!} + \frac{x^{3}}{3!} + \text{etc}$
+
+If we put $x = iy$ where $i^{2} = -1$ we have
+
+$e^{iy} = 1 - \frac{1}{2!} y^{2} + \frac{1}{4!} y^{4} - \frac{1}{6!} y^{6} + \text{etc}$
+$\phantom{e^{iy} =} + \frac{y}{1!}i - \frac{1}{3!} y^{3}i + \frac{1}{5!} y^{5}i - \frac{1}{7!} y^{7}i$
+
+Here we have two functions of $y$, namely,
+$1 - \frac{y^{2}}{2!} + \frac{y^{4}}{4!} - \frac{y^{6}}{6!} + \frac{y^{8}}{8!} - \frac{y^{10}}{10!} + \text{etc}$
+which is called the cosine of $y$, and
+[del]$\frac{y}{1!}$[/del] $\frac{y}{1!} - \frac{y^{3}}{3!} + \frac{y^{5}}{5!} - \frac{y^{7}}{7!} + \frac{y^{9}}{9!} - \frac{y^{11}}{11!} + \text{etc}$
+which is called the sine of $y$.
+
+For the same reasons as above, both these [ins]series[/ins] give definite finite
+[del]values[/del] of the cosine and sine however large $y$ may be and
+whatever the sign of $y^{2}$.

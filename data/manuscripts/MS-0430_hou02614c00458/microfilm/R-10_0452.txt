@@ -1,0 +1,11 @@
+[pn]Logic [u]8[/u][/pn]
+[pn][u]III[/u][/pn]
+[pn]79[/pn]
+
+[pn](84)[/pn] If [u]v[/u] is [del]necessary[/del] [ins][u]s[/u] and is [u]m[/u]~<[u]s[/u]<[u]t[/u][/ins], then, [del]at least[/del] it is either [u]m[/u] or [u]t[/u].
+For, by (64), [u]v[/u] is either [u]m[/u] or [u]m[/u]~. But if [del]this[/del] [ins][u]v[/u][/ins] is [u]m[/u]~ then, by (66), if it is [u]m[/u]~<[u]s[/u]<[u]t[/u], it is [u]s[/u]<[u]t[/u], when, again by (66), if it is [u]s[/u], it is [u]t[/u].
+If, [del]this[/del] [ins]it is[/ins] ([u]m[/u]~[u]n[/u])~<[u]s[/u] and is [u]s[/u]<[u]t[/u], then [del]it[/del] [ins]either[/ins] [u]m[/u] or [u]t[/u].
+For, by (64), [u]v[/u] is either [u]m[/u] or is [u]m[/u]~. But if it is [u]m[/u]~ and is also ([u]m[/u]~[u]n[/u])~<[u]s[/u], then, by (66), it is [u]s[/u], when, again by (66), if it is [u]s[/u]<[u]t[/u], it is [u]t[/u].
+
+[pn](85)[/pn] If [u]v[/u] is [u]s[/u] and if ([u]m[/u]~[u]n[/u])~<[u]s[/u]<[u]t[/u], it is either [u]m[/u] or [u]t[/u].
+For, by (64), [u]v[/u] is either [u]m[/u] or is [u]m[/u]~. But if it is [u]m[/u]~ and is also ([u]m[/u]~[u]n[/u])~<[u]s[/u]<[u]t[/u], then, by (66), it is [u]s[/u]<[u]t[/u], when, again by (66), if it is [u]s[/u], it is [u]t[/u].

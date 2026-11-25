@@ -1,0 +1,9 @@
+[pn]VB[/pn]
+
+My dear Cousin Jo:
+
+It is usual to write a symbol for a [del]whole[/del] [ins]particular[/ins] number with a mark of admiration after it, to denote the continued product of all the whole numbers up to and including the number written. Thus $2! = 2 \cdot 1$ $3! = 3 \cdot 2 \cdot 1 = 6$ $4! = 4 \cdot 3 \cdot 2 \cdot 1 = 24$ $5! = 5 \cdot 4 \cdot 3 \cdot 2 \cdot 1 = 120$ $6! = 6 \cdot 5 \cdot 4 \cdot 3 \cdot 2 \cdot 1 = 720$ etc. $2! = \frac{3!}{3}$, $1! = \frac{2!}{2} = 1$, [del]or[/del] [ins]$0! = \frac{1!}{1} = 1$[/ins]
+
+Now if there are $m$ objects to be distributed among $w$ places, where $m$ [del]$<$[/del] [ins]$\le$[/ins] $w$ (that [del]is[/del] [ins]is $m$ is[/ins] at least as small as $w$) there [del]are[/del] [ins]are[/ins] $w$ places in which the first can be put, $w-1$, [del]in which[/del] the second can be put, [del]$w-2$ in which the third can be placed and so on until the last is[/del] and [del]$w(w-1)$ pairs of places in which[/del] [ins]arrangements of the first 2 each in a place[/ins] [del]and $w(w-1)$[/del] the number of [del]pairs of places in which[/del] [ins]will be[/ins] $w(w-1) = \frac{w!}{(w-2)!}$. There will be $w-2$ [del]places in which the third can be put[/del] [ins]places in which the third can be put and[/ins] [del]and[/del] $w(w-1)(w-2) = \frac{w!}{(w-3)!}$ [del]sets of three places in which[/del] [ins]arrangements of the first 3 in 3 places[/ins] the first three objects can be put, and [del]sets of $m$ places in which the[/del] $\frac{w!}{(w-m)!}$ [ins]arrangements of[/ins] ways of placing $m$ objects each in one of $w$ places.
+
+[del]If $m$ of them objects, where $n < m$, have a common[/del] [ins]ways of placing the[/ins] [del]from the rest, But[/del] if $m > w$ there will be $w$ [del]places in[/del] [ins]ways of[/ins] placing the first object, $w-1$ ways of placing the second and so on and there will be only

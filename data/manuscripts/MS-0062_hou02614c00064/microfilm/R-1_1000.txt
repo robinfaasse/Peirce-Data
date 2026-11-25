@@ -1,0 +1,53 @@
+Secundal Notation
+
+Reciprocals
+
+Let the [del]number whose[/del] [ins]secundal expression of the[/ins] reciprocal is to be found end with $n+1$ units preceded by a zero, preceded by $n$ [del]number[/del] [ins]dyadics[/ins] which in their order from right to left shall be denoted by $\binom{1}{1}$, $\binom{10}{1}$, $\binom{11}{1}$, $\binom{100}{1}$, ... $\binom{n}{1}$
+preceded by a dyadic to be denoted by $\binom{1}{10}$
+preceded by $n$ dyadics to be denoted by $\binom{1}{11}$, $\binom{10}{11}$, $\binom{11}{11}$, [ins]$\binom{100}{11}$,[/ins] ... $\binom{n}{11}$
+and so on indefinitely.
+
+Then the regular addend ends with $n$ zero preceded by a unit
+preceded by [del]the[/del] dyadics $\binom{1}{1}$, $\binom{10}{1}$, $\binom{11}{1}$, etc
+$\binom{1}{10}$,
+$\binom{1}{11}$, $\binom{10}{11}$ etc
+etc
+
+The last [del]figures[/del] [ins]dyadics[/ins] of the secundal period of the [del]dyadic[/del] [ins]reciprocal[/ins] will beg 1 preceded by $n$ zeros preceded by a 1 preceded by the $n$ dyadics $\binom{1}{1}$ to $\binom{n}{1}$ preceded by $\binom{1}{10}$
+
+$\dots \binom{10}{101} \binom{1}{101} \binom{100}{11} \binom{11}{11} \dots \binom{11}{11} \binom{10}{11} \binom{1}{11} \binom{1}{10} \binom{n}{1} \dots \binom{100}{1} \binom{11}{1} \binom{10}{1} \binom{1}{1} 0 \Big| \text{n zeros} \Big| 1$
+
+$\dots \binom{1}{11} \binom{1}{11} \binom{1}{10} \binom{1}{1} \dots \binom{11}{1} \binom{10}{1} \binom{1}{1} \quad 1 \quad 0 \quad \quad \quad 0 \quad 0 \quad 0 \quad 0$
+
+[fig]curly bracket grouping terms[/fig]
+
+$\overline{\binom{1}{10}} \binom{n}{1} \dots \binom{100}{1} \binom{11}{1} \binom{10}{1} \binom{1}{1}$
+
+$\quad 0 \quad \quad \quad 0 \quad 0 \quad 0 \quad 0$
+
+$\overline{\binom{1}{10}} \binom{n}{1} \dots \binom{100}{1} \binom{11}{1} \binom{10}{1}$
+
+$\left( \binom{1}{11} \binom{1}{10} \binom{n}{1} \dots \binom{100}{1} \binom{11}{1} \dots \binom{10}{1} \binom{1}{1} \quad 1 \right.$
+
+$\left( \binom{1}{11} \sim \binom{1}{10} \right)$
+
+$\left( \binom{10}{11} \sim \binom{10}{1} \sim \left[ \sum_2 \binom{1}{11}, \binom{1}{1}, \binom{1}{10} \right] \right.$
+
+$\left( \binom{11}{11} \sim \binom{11}{1} \sim \left[ \sum_2 \binom{10}{11}, \binom{10}{1}, \sum_2 \binom{1}{11}, \binom{1}{1}, \binom{1}{10} \right] \right.$
+
+$\left( \binom{1}{11} \sim \binom{1}{1} \sim \binom{1}{10} \right)$
+
+$\left( \text{preceded by } \binom{1}{11} \sim \binom{1}{1} \sim \binom{1}{10} \right)$
+
+[fig]curly bracket[/fig]
+
+$\frac{(\bar{a} \bar{b}) (\bar{a} + \bar{c}) (\bar{b} + \bar{c})}{\bar{a} \bar{b} + \bar{a} \bar{c} + \bar{b} \bar{c}}$
+
+$\sum a \sim b \sim c$
+
+$(a b + a c + b c) \bar{a}$
+$+ (\bar{a} \bar{b} + \bar{a} \bar{c} + \bar{b} \bar{c}) a$
+
+$\bar{a} b c + a \bar{b} \bar{c}$
+
+$a \sim b c$

@@ -1,0 +1,21 @@
+Logic
+III
+48
+
+[u]Amendment to Rule IV.[/u] The [del]whole[/del] [ins]rule[/ins] of iteration applies to attached
+parts of graphs with the understanding that a part of a 
+graph is not iterated unless it has [u]identically[/u] [u]the[/u] [u]same[/u] 
+lines of attachment in all occurrences.
+    Thus given the graph
+        [fig]man—
+        (man — wounded)[/fig]
+or, "there is a man but there is no man [del]not[/del] wounded." We 
+iterate the [del]la[/del] outer line of identity thus:
+        [fig]man —|
+        (man —|— wounded)[/fig]
+We join the two lines by Rules I (amended) and III, thus:
+        [fig]man—¬
+        (man—|— wounded)[/fig]
+We erase the inner occurrence of "man" by Rule IV amended, thus:
+        [fig]man—(— wounded)[/fig]
+or "some man is not wounded."

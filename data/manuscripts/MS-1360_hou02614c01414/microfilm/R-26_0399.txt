@@ -1,0 +1,17 @@
+$$\delta H \cdot \int H \sec \tau \cdot \frac{d \delta s}{d H dx} dx ,$$
+while for the bending it is
+$$\delta H \cdot \int M \frac{d (1/\rho)}{d H} dx .$$
+
+But by Hooke's law
+$$H \sec \tau = E \frac{ds}{dx}$$
+so that
+$$\frac{1}{E} \sec \tau + \frac{H}{E} \frac{\delta \sec \tau}{\delta H} = \frac{\delta ds}{\delta H dx} ,$$
+
+and the first part of the work becomes
+$$\delta H \int H \sec \tau \left( \frac{1}{E} \sec \tau + \frac{H}{E} \frac{\delta \sec \tau}{\delta H} \right) dx$$
+In like manner,
+$$\frac{1}{\rho} = \frac{M}{EI}$$
+and
+$$\delta \frac{1}{\rho} = \frac{\delta M}{EI} ;$$
+and the second part of the work becomes
+$$\delta H \int \frac{M}{EI} \frac{d M}{d H} dx$$

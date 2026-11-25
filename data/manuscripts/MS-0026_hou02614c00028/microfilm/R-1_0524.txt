@@ -1,0 +1,30 @@
+On Multitude [pn]5[/pn]
+
+[u]Theorem 1[/u]. Every possible object is excluded from some collection to
+which all other possible objects belong. That is,
+(4) $\Pi_x \Sigma_\alpha \Pi_y \bar{q}_{\alpha x} \cdot (l_{xy} + q_{\alpha y})$.
+
+This is a consequence of the first order in axiom (1) and [del]the of the second[/del]
+order in axiom (2); so that we may write $(1) \cdot (2)^2 \prec (4)$.
+
+For the first factor of (4), or $\Pi_x \Sigma_\alpha \bar{q}_{\alpha x}$, will evidently follow from
+the first factor of (1); [del]and[/del] [ins]while[/ins] the last factor of (2) will follow from the last
+factor of (1) and the first factor of (2). But there is only one index in (2) referring
+to a possible object, while there are two in (4). Hence (2) must be multiplied into
+itself. This paragraph explains the reasoning required to invent the demon-
+stration. Being irrelevant to the demonstration itself, the usual style of
+writing mathematics omits such explanations. In other words, the whole
+current of thought [del]is left[/del] except the mechanical portions is left unexpres-
+sed [del]and[/del] [ins]and[/ins] concealed.
+
+In multiplying any proposition by itself we may begin at any point of the
+quantifying part to diversify the indices, provided we carry the diversification
+to the end. Thus, in squaring (2) we may change $x$ to $y$ in [del]the first[/del] [ins]one factor[/ins] and so
+get
+$\Pi_\alpha \Sigma_\beta \Pi_x \Pi_y (q_{\alpha x} + \bar{q}_{\beta x}) \cdot (\bar{q}_{\alpha x} + \bar{q}_{\beta x}) \cdot (q_{\alpha y} + \bar{q}_{\beta y}) \cdot (\bar{q}_{\alpha y} + \bar{q}_{\beta y})$
+Dropping useless factors and multiplying by (1), [del]we get[/del] [ins]and distinguishing the indices of $(2)^2$ by accents[/ins]
+$\Pi_x \Sigma_\alpha \Pi_{x'} \Pi_{y'} \Sigma_\beta \Pi_y \Pi_{x'} \Pi_{y'} q_{\alpha x} \cdot (l_{xy} + \bar{q}_{\alpha y}) \cdot (\bar{q}_{\alpha' x'} + \bar{q}_{\beta x'}) \cdot (q_{\alpha' y'} + \bar{q}_{\beta y'})$
+Identifying $\alpha'$ with $\alpha$, $x'$ with $x$ and $y'$ with $y'$, the [del]formula[/del] general formulae
+$p \cdot (q + r) \prec p \cdot q + r$
+$s \cdot \bar{s} \prec 0$     $0 + t \prec t$
+give

@@ -1,0 +1,51 @@
+[pn]5[/pn]
+
+[u]Hyp. Geom.[/u]
+
+(aa) [ins]$\text{Tan } A = \frac{r \cdot \sin d\theta}{r + dr - r \cdot \cos d\theta} = r \frac{d\theta}{dr}$[/ins]
+
+whence
+
+(ab) $\frac{d \log r}{d\theta} = \cot A = $ [del]$\cos$[/del]
+
+[fig]Diagram showing a circle with radius R, angle theta, and radius r.[/fig]
+
+$S^2 = \frac{4 L^4}{[del]L^4 - 2(Q^2+R^2)L^2 + (Q^2-R^2)^2[/del]}$
+
+$\frac{S}{2} = \frac{2 L^2}{\sqrt{[del]L^2 + Q^2 + R^2[/del]}}$
+[del]$\int \frac{}{(L+Q+R)(L+Q-R)(L-R+Q)(R+Q-L)}$[/del]
+$\int \frac{}{\sqrt{(L+Q+R)(L-Q-R)(Q-R-L)(R-Q-L)}}$
+
+[del]$d = $[/del] [del]$Q^2 = R^2$[/del]
+
+$L^4 - 2(Q^2+R^2)L^2 + (Q^2-R^2)^2 > 0$
+
+$L^4 - 2(Q^2+R^2)L^2 + [del](Q^2+R^2)^2[/del] > [del]Q^4 + 4Q^2R^2 + R^4[/del]$
+
+$L^2 - (Q^2+R^2) > 2QR$
+
+$L^2 > (Q+R)^2$
+
+$L > Q+R$
+
+$r^2 = Q^2 + R^2 - 2QR \cos \theta$
+
+$\cos C = \frac{[del]\cosh \alpha[/del] \cdot \beta - \gamma}{[del]2 \sinh \alpha[/del]}$
+
+$\beta = \frac{L^2 - Q^2 + R^2}{\sqrt{}}$
+
+$\gamma = \frac{L^2 + Q^2 - R^2}{\sqrt{}}$
+
+$\sqrt{\beta^2 - 1} = \frac{[del]4 L R[/del] 2LR}{\sqrt{4 L^2 R^2 \int Q^2+R^2-2QR\cos\theta \cos\theta}}$
+
+$2L \times \sqrt{\beta^2 - 1} = \frac{}{\sqrt{}}$
+
+$\frac{r^2}{L^2} [del]\frac{2 L^2}{\sqrt{}}[/del] - 2Q^2 + 2R^2 = 2 \frac{r}{L} \frac{2LR}{\sqrt{}} \cot$
+
+$r^2(\beta+\gamma) + L^2(\beta-\gamma)$
+
+$\frac{2L^2(Q^2+R^2-2QR\cos\theta) - 2L^2Q^2 + 2L^2R^2}{\sqrt{}}$
+
+$r^2 - 2rR + R^2 = Q^2$
+[del]$r = $[/del]
+$r^2 - Q^2 + R^2$

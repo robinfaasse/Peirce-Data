@@ -1,0 +1,49 @@
+[u](\bar{a} + b)(\bar{c} + d)[/u]
+
+(\bar{a} + b)\bar{c} + d
+
+[(a \prec b) \prec c] \prec d
+
+\{[(a \prec b) \prec c] \prec (d \prec e \prec f) \prec g\} \prec [del]\{[/del](h \prec i) \prec (j \prec k) \prec [del]l\}[/del] \prec m
+
+m + \bar{l}(j + k)(\bar{h} + i)[g + de\bar{f} + ab\bar{c}]
+
+(ab\bar{c} + de\bar{f} + g)(\bar{h} + i)(j + k)\bar{l} + m
+
+[del](\bar{h} + i)[/del]
+
+[del](\bar{h} + i)[/del]
+
+[u]\bar{a} + b\bar{c} + d[/u]
+(\bar{a} + b)\bar{c} + d
+
+[del][a \prec (c \prec x)] \prec y[/del]
+[u]ac\bar{x} + y[/u]
+
+[a \prec (b \prec c) \prec d] \prec e
+\{[(a \prec b) \prec c] \prec d\} \prec e
+a(\bar{b} + c)\bar{d} + e
+[del]ab\bar{d} + ac\bar{d} + e[/del]
+
+(a\bar{b} + ac)\bar{d} + e
+
+a \prec (b \prec c) \prec d
+[(a \prec b) \prec c] \prec d
+
+[del](\{[(a \prec b) \prec [del](a \prec c) \prec c[/del]\} \prec d) \prec e[/del] [del](\bar{a} + b)[/del](\bar{a}\bar{c} + c)\bar{d} + e
+
+a \prec (b \prec c) \prec d
+
+[del]\{(a \prec b) \prec [(a \prec c) \prec c]\}[/del] \prec d
+
+[del]\{[(a \prec b) \prec (a \prec c) \prec c] \prec d\} \prec e[/del]
+
+(a\bar{b} + a\bar{c} + c)\bar{d} + e
+
+\bar{a} + b\bar{c} + d
+
+(\bar{a} + b)(\bar{a} + c)\bar{c} + d
+
+[del]d \prec e[/del] \{[(a \prec b) \prec (a \prec c) \prec c] \prec d\} \prec e
+
+a

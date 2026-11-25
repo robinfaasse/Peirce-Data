@@ -1,0 +1,37 @@
+[pn]1[/pn] [u]Formulae of Copula Examined[/u]
+
+[del]1[/del] [ins][u]1[/u][/ins] [u]copula[/u].
+
+I. $a \prec b$     $\bar{a} + b$
+
+$\alpha$. If $b$ then $a \prec b$. So if $x$ is necessary $a \prec x$ is so.
+$\beta$. Either $a$ or $a \prec b$
+$\gamma$. If $a \prec b$ and $a$ then $b$ [del]So if $x$ is necessary[/del]
+[del]and $x \prec b$ is[/del]
+[del]true, so is $b$.[/del]
+
+Special.
+A. $a \prec a$ [del]Necessary[/del]
+$\alpha$. Necessary by 1.I.$\alpha$. and 1.I.$\beta$.
+
+[u]2 Copulas[/u]
+
+I $a \prec (b \prec c)$     $\bar{a} + \bar{b} + c$
+
+$\alpha$. If $c$ then $a \prec (b \prec c)$
+$\beta$. Either $a$ and $b$ or $a \prec (b \prec c)$
+$\gamma$. If $a \prec (b \prec c)$ and $a$ and $b$ then $c$.
+
+[u]Rule of commutation[/u] $a \prec (b \prec c) = b \prec (a \prec c)$
+Unenclosed antecedents can be transposed.
+
+Special
+A $a \prec (b \prec b)$ [del]Necessary[/del]
+$\alpha$. Necessary by 2 I $\alpha$ and 2 I $\beta$. And the general principle is that if [del]x[/del] is necessary then $a \prec x$. By 1 I $\alpha$.
+B $a \prec (b \prec a)$
+$\alpha$. Necessary by [del]2 I A[/del] Rule of commutation
+C $a \prec (a \prec b)$ [del]=[/del] $a \prec b$
+$\alpha$. [del]Some[/del] If $a \prec b$ then $a \prec (a \prec b)$ by 1 I $\alpha$.
+$\beta$. If $a \prec (a \prec b)$ then $a \prec b$, by 1 I $\beta$ and 1 I $\gamma$.
+
+The general principle is that repetitions of unenclosed antecedents have no effect.

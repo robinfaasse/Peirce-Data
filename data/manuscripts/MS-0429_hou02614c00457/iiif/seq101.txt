@@ -1,0 +1,30 @@
+47.
+
+[u]v[/u] $\bigcirc$ [u]v[/u] = [u]v[/u] and [u]f[/u] $\bigcirc$ [u]f[/u] = [u]f[/u], the sign is associative. I will
+now show that even if [u]v[/u] $\bigcirc$ [u]v[/u] = [u]f[/u] $\bigcirc$ [u]f[/u] = [u]v[/u] but [u]f[/u] $\bigcirc$ [u]v[/u] = [u]v[/u] $\bigcirc$ [u]f[/u],
+the sign is still associative.
+[u]v[/u] $\bigcirc$ ([u]v[/u] $\bigcirc$ [u]v[/u]) = ([u]v[/u] $\bigcirc$ [u]v[/u]) $\bigcirc$ [u]v[/u],
+as above.
+[u]f[/u] $\bigcirc$ ([u]f[/u] $\bigcirc$ [u]f[/u]) = [u]f[/u] $\bigcirc$ [u]v[/u], ([u]f[/u] $\bigcirc$ [u]f[/u]) $\bigcirc$ [u]f[/u] = [u]v[/u] $\bigcirc$ [u]f[/u] = [u]f[/u] $\bigcirc$ [u]v[/u].
+If [u]f[/u] $\bigcirc$ [u]v[/u] = [u]v[/u] $\bigcirc$ [u]f[/u] = [u]v[/u],
+[u]v[/u] $\bigcirc$ ([u]v[/u] $\bigcirc$ [u]f[/u]) = [u]v[/u] $\bigcirc$ [u]v[/u] = [u]v[/u], ([u]v[/u] $\bigcirc$ [u]v[/u]) $\bigcirc$ [u]f[/u] = [u]v[/u] $\bigcirc$ [u]f[/u] = [u]v[/u];
+[u]v[/u] $\bigcirc$ ([u]f[/u] $\bigcirc$ [u]f[/u]) = [u]v[/u] $\bigcirc$ [u]v[/u] = [u]v[/u], ([u]v[/u] $\bigcirc$ [u]f[/u]) $\bigcirc$ [u]f[/u] = [u]v[/u] $\bigcirc$ [u]f[/u] = [u]v[/u];
+[u]f[/u] $\bigcirc$ ([u]f[/u] $\bigcirc$ [u]v[/u]) = [u]f[/u] $\bigcirc$ [u]v[/u] = [u]v[/u], ([u]f[/u] $\bigcirc$ [u]f[/u]) $\bigcirc$ [u]v[/u] = [u]v[/u] $\bigcirc$ [u]v[/u] = [u]v[/u];
+[u]f[/u] $\bigcirc$ ([u]v[/u] $\bigcirc$ [u]v[/u]) = [u]f[/u] $\bigcirc$ [u]v[/u] = [u]v[/u], ([u]f[/u] $\bigcirc$ [u]v[/u]) $\bigcirc$ [u]v[/u] = [u]v[/u] $\bigcirc$ [u]v[/u] = [u]v[/u];
+If [u]f[/u] $\bigcirc$ [u]v[/u] = [u]v[/u] $\bigcirc$ [u]f[/u] = [u]f[/u],
+[u]v[/u] $\bigcirc$ ([u]v[/u] $\bigcirc$ [u]f[/u]) = [u]v[/u] $\bigcirc$ [u]f[/u] = [u]f[/u], ([u]v[/u] $\bigcirc$ [u]v[/u]) $\bigcirc$ [u]f[/u] = [u]v[/u] $\bigcirc$ [u]f[/u] = [u]f[/u];
+[u]v[/u] $\bigcirc$ ([u]f[/u] $\bigcirc$ [u]f[/u]) = [u]v[/u] $\bigcirc$ [u]v[/u] = [u]v[/u], ([u]v[/u] $\bigcirc$ [u]f[/u]) $\bigcirc$ [u]f[/u] = [u]f[/u] $\bigcirc$ [u]f[/u] = [u]v[/u];
+[u]f[/u] $\bigcirc$ ([u]f[/u] $\bigcirc$ [u]v[/u]) = [u]f[/u] $\bigcirc$ [u]f[/u] = [u]v[/u], ([u]f[/u] $\bigcirc$ [u]f[/u]) $\bigcirc$ [u]v[/u] = [u]v[/u] $\bigcirc$ [u]v[/u] = [u]v[/u];
+[u]f[/u] $\bigcirc$ ([u]v[/u] $\bigcirc$ [u]v[/u]) = [u]f[/u] $\bigcirc$ [u]v[/u] = [u]f[/u], ([u]f[/u] $\bigcirc$ [u]v[/u]) $\bigcirc$ [u]v[/u] = [u]f[/u] $\bigcirc$ [u]v[/u] = [u]f[/u];
+That [u]v[/u] $\bigcirc$ ([u]f[/u] $\bigcirc$ [u]v[/u]) = ([u]v[/u] $\bigcirc$ [u]f[/u]) $\bigcirc$ [u]v[/u], and ([u]f[/u] $\bigcirc$ [u]v[/u]) $\bigcirc$ [u]f[/u] = [u]f[/u] $\bigcirc$ ([u]v[/u] $\bigcirc$ [u]f[/u])
+is obvious, because the sign is [ured]commutative[/ured]. It is now proved
+that this sign is associative if the conditions are fulfilled.
+I will now prove that it is not associative, first if [u]v[/u] $\bigcirc$ [u]v[/u] = [u]f[/u]
+and [u]f[/u] $\bigcirc$ [u]f[/u] = [u]v[/u], secondly, if for example, [u]f[/u] $\bigcirc$ [u]f[/u] = [u]v[/u] and
+[u]v[/u] $\bigcirc$ [u]f[/u] is not equal to [u]f[/u] $\bigcirc$ [u]v[/u]. Namely in the first case,
+[u]v[/u] $\bigcirc$ ([u]f[/u] $\bigcirc$ [u]f[/u]) = [u]v[/u] $\bigcirc$ [u]v[/u] = [u]f[/u] while either [u]v[/u] $\bigcirc$ [u]f[/u] = [u]v[/u] and
+([u]v[/u] $\bigcirc$ [u]f[/u]) $\bigcirc$ [u]f[/u] = [u]v[/u] $\bigcirc$ [u]f[/u] = [u]v[/u] or [u]v[/u] $\bigcirc$ [u]f[/u] = [u]f[/u], and
+([u]v[/u] $\bigcirc$ [u]f[/u]) $\bigcirc$ [u]f[/u] = [u]f[/u] $\bigcirc$ [u]f[/u] = [u]v[/u].
+In the second case
+[u]f[/u] $\bigcirc$ ([u]f[/u] $\bigcirc$ [u]f[/u]) = [u]f[/u] $\bigcirc$ [u]v[/u],
+([u]f[/u] $\bigcirc$ [u]f[/u]) $\bigcirc$ [u]f[/u] = [u]v[/u] $\bigcirc$ [u]f[/u].

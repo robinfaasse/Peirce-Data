@@ -1,0 +1,24 @@
+[fig]Geometric diagram with arcs, chords, and angles $\phi$ and $\psi$[/fig]
+
+$$\mathcal{D}_t^2 s = g$$
+$$\mathcal{D}_t s = gt$$
+$$s = \frac{1}{2}gt^2$$
+$$\sqrt{\frac{2s}{g}} =$$
+
+$$\phi + \frac{1}{2}\psi$$
+$$2R \sin \psi \csc \left(\phi + \frac{1}{2}\psi\right) = t_1$$
+
+$$[del]2R \sin \psi \sin \left(\phi + \frac{1}{2}\psi\right) \csc \frac{1}{2}\phi + 2R \sin \frac{1}{2}\phi \csc \frac{1}{2}\phi[/del]$$
+
+$$\frac{R \sin \psi \sin \left(\phi + \frac{1}{2}\psi\right) [del]\csc[/del] + R + 2R \sin \psi}{\sin^2 \frac{1}{2}\phi [del]\sin \left(\phi + \frac{1}{2}\psi\right)[/del]}$$
+
+[u]$$\phi + \frac{1}{2}\psi$$[/u]
+$$2R \sin \frac{1}{2}\psi \csc \left(\phi + \frac{1}{2}\psi\right) = [del]t_2[/del] [ins]t_2[/ins]$$
+$$\left([del]2[/del]R \sin \frac{1}{2}\psi \sin \left(\phi + \frac{1}{2}\psi\right) \csc \frac{1}{2}\phi + [del]2[/del]R \sin \frac{1}{2}\phi\right) \csc \frac{1}{2}\phi$$
+
+$$t_3 =$$
+$$2\sqrt{\frac{R}{g} \sin \frac{1}{2}\psi \csc \left(\phi + \frac{1}{2}\psi\right)} + 2\sqrt{\frac{R}{g} \sin \frac{1}{2}\psi \sin \left(\phi + \frac{1}{2}\psi\right) \csc^2 \frac{1}{2}\phi + \frac{R}{g}}$$
+$$- 2\sqrt{\frac{R}{g} \sin \frac{1}{2}\psi \cdot \sin \left(\phi + \frac{1}{2}\psi\right)} \cdot \csc \frac{1}{2}\phi$$
+
+$$\frac{\sin \left(\phi + \frac{1}{2}\psi\right)}{\sin \frac{1}{2}\phi} =$$
+$$\sin 3\phi =$$

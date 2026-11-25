@@ -1,0 +1,19 @@
+[pn]FL[/pn] [pn]9[/pn]
+
+Let us now consider the doctrine of collections. Let us write $S_{\alpha}$ to mean that $\alpha$ is a [del]so[/del] [ins]one-to-many[/ins] relation, that is, such a relation that no two things are so related to the same thing, or
+$$\Pi_{\alpha}\Pi_{1}\Pi_{2}\Pi_{3}\ \ \bar{S}_{\alpha} \ \text{ч} \ \bar{r}_{\alpha 12} \ \text{ч} \ \bar{r}_{\alpha 13} \ \text{ч} \ r_{23}$$
+$$\Pi_{\alpha}\Sigma_{1}\Sigma_{2}\Sigma_{3}\ \ S_{\alpha} \ \text{ч} \ \bar{r}_{\alpha 12} \cdot \bar{r}_{\alpha 13} \cdot \bar{r}_{23} \ .$$
+
+Now considering any two qualities whatever, $P$ and $Q$, there is a relation $\beta$ such that taking any two objects $1$ and $2$, if $1$ is a subject of $P$ and $2$ of $Q$ then $1$ is in the relation $\beta$ to $Q$. Or, as we may say, every $P$ is $\beta$ of every $Q$.
+[del]$$\Pi_{P}\Pi_{Q}\Sigma_{\beta}\Pi_{1}\Pi_{2}\ \ \bar{q}_{P1} \ \text{ч} \ \bar{q}_{Q2}$$[/del]
+$$\Pi_{P}\Pi_{Q}\Sigma_{\beta}\Pi_{1}\Pi_{2}\ \ \bar{q}_{P1} \ \text{ч} \bar{q}_{Q2} \ \text{ч} \ r_{\beta 12}$$
+For this satisfies the rule of possibility.
+
+I next say that
+$$\Pi_{P}\Pi_{Q}\Sigma_{\beta}\Pi_{1}\Sigma_{2}\ \ \bar{q}_{P1} \ \text{ч} \ S_{\beta} \cdot r_{\alpha 12} \cdot q_{Q2}$$
+For eliminating $s$ by the [del]first[/del] definition this only means
+[del]$$\Pi_{P}\Pi_{Q}\Sigma_{\beta}$$[/del]
+$$\Pi_{P}\Pi_{Q}\Sigma_{\beta}\Pi_{1}\Sigma_{2}\Pi_{3}\Pi_{4}\ \ \bar{q}_{P1} \ \text{ч} \ (\bar{r}_{\beta 13} \ \text{ч} \ \bar{r}_{\beta 14} \ \text{ч} \ [del]r_{34}[/del] [ins]$r_{34}$[/ins]) \cdot r_{\beta 12} \cdot q_{Q2} \ .$$
+This satisfies the rule of possibility because if [del]$r_{34}$ then the whole reduces to $\Pi_{P}\Pi_{Q}\Sigma_{\beta}\Pi_{1}\Sigma_{2}\ \ \bar{q}_{P1} \ \text{ч} \ r_{\beta 12} q_{Q2}$ and if $\bar{r}_{34}$[/del] [ins]none of its factors are impossible, nor are they self-contradictory, nor contrary to the principles of possibility.[/ins] But, since all hecceities are alike,
+
+Now of [del]relations[/del] [ins]the[/ins] relations, $\beta$, fulfilling this condition, there is either one which makes every $Q$,

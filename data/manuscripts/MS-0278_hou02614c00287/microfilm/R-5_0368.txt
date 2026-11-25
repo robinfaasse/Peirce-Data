@@ -1,0 +1,30 @@
+No two of the rays $(A)$, $(B)$, $(C)$ are complanar
+It is easily shown that they contain in common with a second
+series of rays $(E)$, $(F)$, $(F')$, $(F'')$, $(G)$ one point for each pair
+The question is whether all the rays each cut by all the
+rays of the second series form the same identical set.
+Call $[AE] = \Upsilon$ $[AG] = \Phi$
+$[CE] = \Psi$ $[CG] = \Omega$
+Then $(A) = x \Upsilon + \bar{x} \Phi$ ($x$ variable) $(E) = \bar{u} \Upsilon + u \Psi$ ($u$ variable)
+$(C) = z \Psi + \bar{z} \Omega$ ($z$ variable) $(G) = \bar{w} \Phi + w \Omega$ ($w$ variable)
+Assume $(B) = y \bar{U} \Upsilon + \bar{y} \bar{W} \Phi + y U \Psi + \bar{y} W \Omega$ ($y$ variable)
+Any arbitrary point on $(C)$ being $[C_Y] = \frac{u Y}{u Y + w \bar{Y}} \Psi + \frac{w \bar{Y}}{u Y + w \bar{Y}} \Omega$
+Then $\{A C_Y\} = p x \Upsilon + p \bar{x} \Phi + \bar{p} \frac{u Y}{u Y + w \bar{Y}} \Psi + \bar{p} \frac{w \bar{Y}}{u Y + w \bar{Y}} \Omega$
+To find $[B \{A C_Y\}]$, put $y \bar{U} = p x$
+$\bar{y} \bar{W} = p \bar{x}$
+$y U = \bar{p} \frac{u Y}{u Y + w \bar{Y}}$
+$\bar{y} W = \bar{p} \frac{w \bar{Y}}{u Y + w \bar{Y}}$
+
+It follows that
+$y = \bar{p} \frac{Y}{u Y + w \bar{Y}}$
+$\bar{y} = \bar{p} \frac{\bar{Y}}{u Y + w \bar{Y}}$
+$1 = \bar{p} \frac{1}{u Y + w \bar{Y}}$
+$\bar{p} = u Y + w \bar{Y}$
+$y = Y$.
+
+$[B \{A C_Y\}] = Y \bar{U} \Upsilon + \bar{Y} \bar{W} \Phi + Y U \Psi + \bar{Y} W \Omega$
+What [del]line[/del] ray in the plane $\{A C_Y\}$ is cut by $(A)$, $(B)$, and $(C)$?
+$(B)$ is cut as above. $(C)$ is cut in $[C_Y]$. Therefore any ray cutting $(B)$ and $(C)$
+in this plane must be
+$(F') = Y \bar{U} \bar{v} \Upsilon + \bar{Y} \bar{W} \bar{v} \Phi + (Y U v + \frac{u \bar{v} Y}{u Y + w \bar{Y}}) \Psi + (\bar{Y} W v + \frac{w \bar{v} \bar{Y}}{u Y + w \bar{Y}}) \Omega$ ($v$ variable)
+which cuts $(A)$ in $\frac{Y \bar{U} \Upsilon + \bar{Y} \bar{W} \Phi}{Y \bar{U} + \bar{Y} \bar{W}}$.

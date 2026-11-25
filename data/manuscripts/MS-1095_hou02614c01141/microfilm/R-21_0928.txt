@@ -1,0 +1,18 @@
+The Kinetic energy of the piece at the distance
+$l$ from the knife edge is then
+
+$$dE = dm \cdot \int_{0}^{l} dl \int_{0}^{l} d\lambda \cos (\theta_{l} - \theta_{\lambda}) D_{t}\theta_{l} \cdot D_{t}\theta_{\lambda} + \frac{1}{2} dm \cdot \eta^{2} (D_{t}\theta)^{2}$$
+
+The integral of this gives the total Kinetic energy
+of the pendulum. We have already [del]seen[/del] [ins]seen[/ins] how
+$m$ is a function of $l$, and conversely $l$
+of $m$. Therefore,
+
+$$\int_{0}^{[del]M_{1}[/del]} dm \int_{0}^{l} dl \int_{0}^{l} d\lambda = \int_{0}^{L_{1}} dl \int_{0}^{l} d\lambda \int_{[del]m[/del]}^{M_{1}} dm \quad ,$$
+
+and we have
+
+$$E = \Bigl\{ \int_{0}^{L_{1}} dl \int_{0}^{l} d\lambda \int_{m}^{M_{1}} dm + \int_{0}^{L_{2}} dl \int_{0}^{l} d\lambda \int_{m}^{M_{2}} dm \Bigr\} \Bigl[ \cos (\theta_{l} - \theta_{\lambda}) \cdot D_{t}\theta_{l} \cdot D_{t}\theta_{\lambda} \Bigr]$$
+$$+ \frac{1}{2} \Bigl( \int_{0}^{M_{1}} dm + \int_{0}^{M_{2}} dm \Bigr) [del]\eta^{2}[/del] \eta^{2} \cdot (D_{t}\theta)^{2} \Bigr]$$
+
+[del]The[/del] Kinetic potency is

@@ -1,0 +1,31 @@
+Morison's Bridge [date]1899 Feb 22[/date] Washington's Birthday
+
+$$\frac{(\tan x + \tan y)(1 + \tan x \tan y)}{\tan x + \tan x \tan y + \tan y}$$
+
+$$\tan(x+y) = \frac{\tan x + \tan y}{1 - \tan x \tan y}$$
+
+$$\frac{\tan x + \tan y + \tan^2 x \tan y + \tan^2 y \tan x}{= \sec^2 x \tan y + \sec^2 y \tan x}$$
+
+[fig]Geometric diagram with intersecting lines and angles[/fig]
+
+[del]$\theta$[/del] [del]$S \sec \theta \cos (\theta + \delta \theta)$[/del]
+
+$$\frac{x}{\delta} = \cos \psi_n - \tan \varphi_n \sin \psi_n$$
+
+$$x = S \sec \varphi_n \cos (\varphi_n + \psi_n) + S \sec \varphi_{n+s} \cos (\varphi_{n+s} + \psi_{n+s})$$
+
+$$[del]y[/del] [ins]y[/ins] = S \sec \varphi_n \sin (\varphi_n + \psi_n) + S \sec \varphi_{n+s} \sin (\varphi_{n+s} + \psi_{n+s})$$
+
+[del]$\tan \varphi_n \cos \psi_n + \sin \psi_n + \tan \varphi_{n+s} \cos \psi_{n+s} + \sin \psi_{n+s}$[/del]
+
+$$0 = -\tan \varphi_n \sin \psi_n \delta \psi_n + \cos \psi_n \delta \psi_n - \tan \varphi_{n+s} \sin \psi_{n+s} \delta \psi_{n+s} + \cos \psi_{n+s} \delta \psi_{n+s}$$
+
+$$\delta \psi_{n+s} = - \frac{\cos \psi_n - \tan \varphi_n \sin \psi_n}{\cos \psi_{n+s} - \tan \varphi_{n+s} \sin \psi_{n+s}} \delta \psi_n$$
+
+$$\delta \psi_{n+s} - \delta \psi_s = - \frac{x}{S} / (\cos \psi_{n+s} - \tan \varphi_{n+s} \sin \psi_{n+s}) \cdot \delta \psi_n$$
+
+$$\frac{x}{S} = S (\cos \psi_n - \tan \varphi_n \sin \psi_n + \cos \psi_{n+s} - \tan \varphi_{n+s} \sin \psi_{n+s})$$
+
+$$\delta x = \delta \psi_n S ( - \sin \psi_n - \tan \varphi_n \cos \psi_n + (\sin \psi_{n+s} + \tan \varphi_{n+s} [del]\cos \psi_{n+s}[/del]) \frac{\cos \psi_n - \tan \varphi_n \sin \psi_n}{\cos \psi_{n+s} - \tan \varphi_{n+s} \sin \psi_{n+s}} )$$
+
+$$= \delta \psi_n S [ - \tan (\varphi_n + \psi_n) + \tan (\varphi_{n+s} + \psi_{n+s}) ] (\cos \psi_n - \tan \varphi_n \sin \psi_n)$$

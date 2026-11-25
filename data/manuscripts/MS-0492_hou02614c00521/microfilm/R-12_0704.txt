@@ -1,0 +1,91 @@
+[marginalia]
+[del]1010[/del]
+[/marginalia]
+
+[del]
+[fig]Table with fractions[/fig]
+[/del]
+
+[u]
+[del]1[/del] [del]100[/del] [del]101[/del] [del]10[/del] [del]101[/del] [del]100[/del] [del]1[/del]
+[del]1[/del] [del]11[/del] [del]101[/del] [del]1[/del] [del]10[/del] [del]11[/del] [del]1[/del]
+[/u]
+
+[u]
+[del]1[/del] [del]1[/del] [del]1[/del] [del]1[/del] [del]1[/del] [del]1[/del] [del]1[/del] [del]1[/del] [del]1[/del]
+[del]1[/del] [del]11[/del] [del]101[/del] [del]11[/del] [del]10[/del] [del]11[/del] [del]101[/del] [del]11[/del] [del]1[/del]
+[/u]
+[marginalia]
+m
+[/marginalia]
+
+[u]
+[del]1[/del] [del]1[/del] [del]1[/del] [del]1[/del] [del]1[/del]
+[del]1[/del] [del]10[/del] [del]1[/del] [del]10[/del] [del]1[/del]
+[/u]
+
+[u]
+[del]1[/del] [del]1[/del] [del]1[/del]
+[del]1[/del] [del]1[/del] [del]1[/del]
+[/u]
+[marginalia]
+n
+[/marginalia]
+
+[u]
+[del]1[/del] [del]1[/del]
+[del]1[/del] [del]1[/del]
+[/u]
+
+[marginalia]
+011
+[/marginalia]
+
+[u]
+1 [ins]100[/ins]
+1
+[/u]
+
+[u]
+1 1 1 1 1 1 1 1 1
+1 11 101 11 10 11 101 11 10
+[/u]
+
+[marginalia]
+1
+1011
+101
+1010
+10
+1001
+100
+100
+1001
+10000
+[/marginalia]
+
+[fig]Inverted V pointing to 1/101[/fig]
+
+$n = \frac{1}{10}$
+
+$m = \frac{1}{11}$
+
+$2^2 = 4$
+$2^1 = 2$
+$2^0 = 1$
+
+[del]101[/del]
+
+[fig]Graph with nodes 01, 00, 00, 01[/fig]
+
+[del]$2^0 = 2$[/del]
+
+[u]
+1
+1
+[/u]
+
+[u]
+1
+1
+[/u]

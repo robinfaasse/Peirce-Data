@@ -1,0 +1,57 @@
+we should get any proposition of this form, and
+that no others could be obtained.
+
+Let us now seek all the propositions deducible
+by elimination of $K$, from
+$$\Pi_K \Sigma_a \Pi_b \Sigma_c U_a (\overline{W}_b + \bar{r}_{kab} + \bar{r}_{kcb} 1_{ac})$$
+We have at once
+$$\Sigma_a U_a.$$
+The following proposition is universally true
+$$\Pi_\alpha \Pi_\beta \Sigma_\gamma \Pi_i \Pi_j \{ \bar{r}_{\gamma ij} (\bar{x}_{ij} + \bar{r}_{\beta ij}) + r_{\gamma ij} \bar{x}_{ij} \bar{r}_{\beta ij} \}.$$
+[ins]To[/ins] prove this note first that if we eliminate $\gamma$ at once
+we have an identical proposition. If we raise the
+whole [ins]to a[/ins] power, there will be no additional mode
+of elimination, unless $i$, $j$, and $\gamma$ be identified in
+different factors; but then all the indices must
+be alike and nothing will be changed. As a special
+case of this formula we put $u_i$ for $r_{\beta ij}$. This
+we can do, because
+$$\Sigma_\beta \Pi_i \Pi_j \{ u_i r_{\beta ij} + \bar{u}_i \bar{r}_{\beta ij} \}$$
+which is true by the same reasoning as that just
+The product of these two formulae gives
+$$\Pi_\alpha \Sigma_\gamma \Pi_i \Pi_j \{ \bar{r}_{\gamma ij} (\bar{x}_{ij} + \bar{u}_i) + r_{\gamma ij} \bar{x}_{ij} u_i \}.$$
+Multiplying this twice into the first proposition,
+identifying $k$ with $\gamma$, $i$ with $a$, and $j$ with $b$, in one
+factor, and $k$ with $\gamma$, $i$ with $c$, $j$ with $b$ in the other,
+we have
+$$\Pi_\alpha \Sigma_\gamma \Sigma_a \Pi_b \Sigma_c$$
+$$U_a (\overline{W}_b + \bar{r}_{\gamma ab} + \bar{r}_{\gamma cb} 1_{ac}) \{ \bar{r}_{\gamma ab} (\bar{x}_{ab} + \bar{u}_a) + r_{\gamma ab} \bar{x}_{ab} u_a \}$$
+$$\{ \bar{r}_{\gamma cb} (\bar{x}_{cb} + \bar{u}_c) + r_{\gamma cb} \bar{x}_{cb} u_c \}$$
+this gives
+$$\Pi_\alpha \Sigma_\gamma \Pi_b \Sigma_c U_a (\overline{W}_b + \bar{r}_{\gamma ab} + \bar{r}_{\gamma cb} u_c 1_{ac}).$$
+We have universally
+
+[marginalia]
+[del]identifying the[/del]
+[del]$\delta$, and[/del] with $b$, in both fac
+[del]and with $c$ in the other, we have[/del]
+$$\Sigma_a \Pi_b \Sigma_c U_a (\overline{W}_b + 1_{ab} + 1_{cb} U_c 1_{ac})$$
+$$1_{cb} 1_{ac} \prec 1_{ab}$$
+$$\Sigma_a \Pi_b U_a (\overline{W}_b + 1_{ab})$$
+identifying $b$ with $a$
+$$\Sigma_a U_a \overline{W}_a$$
+[/marginalia]
+
+[marginalia]
+we have universally
+$$\Sigma_\delta \Pi_m \Pi_n r_{\delta mn}$$
+applying this twice into the proposition
+$$\Pi_\alpha \Sigma_\gamma \Pi_b \Sigma_c U_a (\overline{W}_b + \bar{r}_{\gamma ab} + \bar{r}_{\gamma cb} u_c 1_{ac})$$
+with the same identifications as before, we get
+$$\Sigma_a \Pi_b \Sigma_c U_a (\overline{W}_b + u_c 1_{ac}),$$
+so, there is a $u$, and if there be a $W$ there is a second
+This last proposition shows by the formula
+$$\Sigma_a \Sigma_c x_a x_c 1_{ac} \prec \Pi_a \Sigma_c (\bar{x}_a + x_c 1_{ac}).$$
+the original proposition may be written in the f
+$$\Pi_\alpha \Sigma_\gamma \Pi_b \Sigma_c U_a \{ \overline{W}_b + U_c 1_{ac} (\bar{r}_{\gamma ab} + \bar{r}_{\gamma cb}) \}$$
+[/marginalia]

@@ -1,0 +1,32 @@
+301
+[del]388[/del] 399
+[del]388[/del] [ins]20[/ins] The above are, I believe all the theorems of dichotomic al-
+gebra with which it is worth while to trouble the reader.  There
+are, however, a few problems to be considered.  Of these, I shall
+give those methods of solution which seem to me to be upon the
+whole the most useful, taking into consideration something besides
+their brevity in very complicated cases, -- making this, indeed,
+decidedly a secondary consideration, in view of the excessive rar-
+ity of cases in which the reader will ever have occasion to apply
+the algebra to complicated problems, and in view of the very mod-
+erate degree of mathematical ingenuity requisite to clearing away
+the complexity even from these few.  What seems to me desirable
+is that the procedure should have that kind of simplicity which
+makes it easy to remember or to reconstruct if its details are for-
+gotten.
+[del]389[/del] The first problem is to put an expression into such a form
+that a certain letter appears only as an aggregant of a component,
+or as the negative of an aggregant of a component.  I first gave
+a general solution of this problem (Proc. Am. Acad. of Arts and
+Sci. 1867 March 12) which I do not think can be improved upon.
+Let [u]x[/u] be the letter in question; and let the expression be F [u]x[/u].
+Then,
+F [u]x[/u] = ( F [u]f[/u] + [u]x[/u] ) . ( F [u]v[/u] + [u]x[/u] )
+I must say that there was little originality in this solution,
+since it was but the reciprocal of a proposition of Boole's.  If
+it is desired to separate [u]two[/u] letters in this way, we have
+F ([u]x[/u], [u]y[/u]) = ( F [u]f[/u], [u]f[/u] + [u]x[/u] + [u]y[/u] ) . ( F [u]f[/u], [u]v[/u] + [u]x[/u] + [u]y[/u] )
+( F [u]v[/u], [u]f[/u] + [u]x[/u] + [u]y[/u] ) . ( F [u]v[/u], [u]v[/u] + [u]x[/u] + [u]y[/u] )
+The procedure for a greater number of letters will be similar.  But it is
+never really necessary to separate more than one.
+[fig]figure[/fig]

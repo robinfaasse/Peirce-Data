@@ -1,0 +1,63 @@
+$$S_s + T_s = -3U_s$$
+$$[del]S_s + T_s[/del] - S_s c = [del]\mp 2U_s c = 3U_s[/del]$$
+$$S_s = -2U_s$$
+$$T_s = -U_s$$
+
+$$(c-3) = \left\{ -2(c-1)^3 - 3(c-1)^2 + 1 \right\} U_s$$
+
+[marginalia]
+$$\frac{c-3}{c}$$
+$$=$$
+$$\frac{2[del]c[/del](c^2-2c+2) + [del]c[/del](c-2)}{2c^2 + [del]c[/del] + [del]2[/del]}$$
+[/marginalia]
+
+[marginalia]
+$$\frac{c-3}{c} = \frac{S_s(c^3-2c^2+2c) + T_s c(c-2)}{c^3-2c^2+2c}$$
+[/marginalia]
+
+[marginalia]
+$$c-3 = S_s \left\{ (c-1)^3 + (c-1)^2 \right\} + T_s \left\{ (c-1)^2 - 1 \right\}$$
+[/marginalia]
+
+[marginalia]
+$$\frac{c^3-3c^2+3c-1}{+ c^2-2c+1}$$
+$$c^3-2c^2+c$$
+[/marginalia]
+
+[del]
+$$\begin{array}{r}
+c^3 - 3c^2 + 3c - 1 \\
+-2c^3 + 6c^2 - 6c + 2 \\
+\hline
+-3c^2 + \\
+\end{array}$$
+[/del]
+
+$$\begin{array}{r}
+[del]-3c^2 + 6c - 3[/del] \\
+[del]-3c^2 + 6c - 3[/del] \\
+-2c^3 + 6c^2 - 6c + 2 \\
+-3c^2 + 6c - 3 \\
++ 1 \\
+\hline
+-2c^3 + 3c^2
+\end{array}$$
+
+$$U_s = \frac{c-3}{c^2(2c-3)}$$
+
+$$t_{222} = (c-2)(u_{222} + [del]2[/del]v_{222}) + (c-3)t_{122}$$
+
+$$T_{(c-3)} \quad T_{(c-2)}$$
+$$\frac{(c-2)T(2c-5)}{c-2}$$
+$$2c^2 - 9c + 10$$
+
+$$(c-3)(c^2-5c+7)$$
+$$\begin{array}{r}
+\underline{c-3} \\
+c^3 - 8c^2 + 22c - 21 \\
+2c^2 - 9c + 10 \\
+\hline
+c^3 - 6c^2 + 13c - 11 \\
+\underline{c^3 - 6c^2 + 12c - 8} \\
+(c-2)^3 + (\underline{c-3})
+\end{array}$$

@@ -1,0 +1,21 @@
+$$D\tan x = 1 + \tan^2 x$$
+$$D^2\tan x = (2\tan x) D\tan x = (D^0 + D^0)\tan x$$
+$$D^3\tan x = 2(D\tan x)^2 + (2\tan x) D^2\tan x$$
+$$D^4\tan x = 4 D\tan x \cdot D^2\tan x + 2 D\tan x \cdot D^2\tan x + 2\tan x \cdot D^3\tan x$$
+$$= 6 D\tan x \cdot D^2\tan x + 2\tan x \cdot D^3\tan x$$
+$$D^5\tan x = 6 D^2\tan x \cdot D^2\tan x + 6 D\tan x \cdot D^3\tan x$$
+$$+ 2 D\tan x \cdot D^3\tan x + 2\tan x \cdot D^4\tan x$$
+$$= 6 D^2\tan x \cdot D^2\tan x + 8 D\tan x \cdot D^3\tan x + 2\tan x \cdot D^4\tan x$$
+$$= (D^0 + D^0)^4 \tan x$$
+
+[marginalia]
+$$(D^0 + D^0)^2$$
+$$D^0 + D^0$$
+$$= D^0 + 2D^0 D^0$$
+$$(x+y)^2$$
+$$x^2 + 2xy + y^2$$
+[/marginalia]
+
+$$D^2\tan x = (D^0 D^1 + D^1 D^0)\tan x$$
+$$D^3\tan x = D^0 D^2 + 2(D^1 D^1 + D^2 D^0)\tan x$$
+$$D^4\tan x = (D + D)^4 \tan x = D^0 D^3 + 4 D^1 D^2 + 6 D^2 D^1$$

@@ -1,0 +1,47 @@
+[pn]Logic
+III
+141[/pn]
+
+Now to say that $p = q$ is to say that $p \prec q$ and $q \prec p$.
+But whatever $x$ may be, $x \prec x$ is true, and $x \prec v$. Hence,
+
+[del]$y \prec \overline{a \cdot b}$[/del]
+If [del]$\overline{y \cdot \underline{a \cdot b}} = v$[/del]
+$x \prec a \cdot b$
+
+and, by the 1880 definition,
+$v \prec a$ and $v \prec b$;
+
+whence
+$v = a$ and $v = b$.
+
+But if $v = a$ and $v = b$,
+$v \prec a$ and $v \prec b$,
+
+and by the 1880 definition,
+$v \prec a \cdot b$
+
+whence $v = a \cdot b$
+
+If $a + b = f$
+Then $a + b \prec x$
+
+and, by the 1880 definition,
+$a \prec x$ and $b \prec x$;
+
+whence
+$a = f$ and $b = f$.
+
+But if $a = f$ and $b = f$,
+$a \prec x$ and $b \prec x$,
+
+and by the 1880 definition,
+$a + b \prec x$
+
+whence $a + b = f$.
+
+Thus, the new definitions are simple consequences of the old
+ones, and whatever follows from the new ones must follow
+from the old ones. Something of this sort I must have had
+in my mind when I wrote in my paper concerning the
+present theorems, [u]XIX[/u], that it is "easily proved," but the proof

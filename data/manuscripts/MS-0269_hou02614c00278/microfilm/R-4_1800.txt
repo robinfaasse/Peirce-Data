@@ -1,0 +1,87 @@
+[marginalia]
+[del]Every Node counts[/del]
+Extremity + 1/2
+Detached point + 1
+[/marginalia]
+
+[fig]Circle[/fig] 0
+[fig]Vertical line[/fig] 1
+[fig]Vertical line with crossbar[/fig] 2?
+
+[marginalia]
+[del]Point at boundary[/del]
+[del]counts 0[/del]
+Point at boundary
+counts 0
+Point at ordinary
+point counts -1
+Point at 3 way
+branch counts -2
+[/marginalia]
+
+[fig]Figure 8[/fig] -1
+
+[marginalia]
+[del]An ordinary line lines have minus[/del]
+their census-values
+Points have their census values.
+On edge count 0
+[/marginalia]
+
+[fig]Circle with line attached[/fig] + 1 = [del][fig]Crossed out sketch[/fig][/del] [fig]Three-way branch[/fig]
+
++ 1/2 - 1/2 = 0
+
+0 + 1/2 - 1 = [del]1[/del]
+0 + 1/2 - 1/2 = 1
+
+[fig]Figure 8[/fig] -1
+[fig]Loop with two tails[/fig]
+[fig]Three-way branch with tail[/fig] 2 - 1 = 1
+
+[fig]Two circles connected by line[/fig] -1
+[fig]Circle with three-way branch[/fig] 0
+[fig]Three-way branch with two tails[/fig] 1
+[fig]Four circles connected in X shape[/fig]
+
+[fig]X shape[/fig] = 1 = (4 x 1/2) - 1
+
+Disk 1
+Cut adds 1
+Puncture subtracts 1
+Spheroid 2
+Disk ring 0
+Anchor-ring 0
+Anchor ring with hole -1
+Plane 1
+Capped spheroid 3
+Spheroid with ring 2
+Double capped spheroid 4
+[del]Disk with ring[/del]
+
+[marginalia]
+surface = 2
+3 way split = +1
+edge = -1
+Detached line = 0
+[/marginalia]
+
+[fig]Spheroid with ring[/fig] 3
+
+[fig]Two circles[/fig]
+[fig]Circle with line[/fig]
+
+Edge -1
+Split +1
+Extremity of split -1/2
+
+[fig]Cross[/fig]
+6 cuts
+make 7 pieces
+
+[fig]Three intersecting disks[/fig]
+[del]3 disks intersecting
+in 3 spl split
+with 5 way node[/del]
+
+) -1

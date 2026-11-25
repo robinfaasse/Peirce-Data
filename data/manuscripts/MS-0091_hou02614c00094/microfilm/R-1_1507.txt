@@ -1,0 +1,24 @@
+[marginalia]
+Calc. Diff
+22
+[/marginalia]
+
+is merely in the nature of an abbreviation. In the first place,
+if [del]for[/del] [ins]and as[/ins] [del]for[/del] any positive integer, we shall have
+(6) $\phi^{m+n} = \phi^m \cdot \phi^n$
+
+This is easily proved by Fermatian reasoning. That is to
+say, we show that if it be true for every [del]value[/del] [ins]positive[/ins] integral
+value of $m$ less than $M$, then it is true of when $m = M$.
+But by (5) it is true for $m = 1$. Hence it is true for every
+positive integer value of $m$. That if
+$\phi^{M+n} = \phi^M \cdot \phi^n$
+it follows from (5) that
+$\phi^{1+M+n} = \phi^1 \cdot \phi^{M+n} = \phi^1 \cdot \phi^M \cdot \phi^n = \phi^{1+M} \cdot \phi^n$
+is obvious. This only assumes the associativeness of addition;
+that is, that $(1+M) + N = 1 + (M+N)$ and of [ins]operational[/ins] multiplication,
+that $\phi^1 \cdot (\phi^M \cdot \phi^N) = (\phi^1 \cdot \phi^M) \cdot \phi^N$. The latter is the stipu-
+lation of Rule 3. The associativeness of addition must
+also be made a part of the definition. For it is im-
+possible to prove that $(1+1)+1 = 1 + (1+1)$; nor if this were
+admitted could it be proved that $[(1+1)+1]+1 = (1+1)+(1+1)$; etc.

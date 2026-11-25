@@ -1,0 +1,17 @@
+$$\therefore \frac{X \vdash}{X \vdash Y \vdash}.$$
+
+To prove this, we first remark that a consequence is true if its consequent is true. That is, if $Z$ is true, $Y \vdash Z$ is true; or the [del]following[/del] [ins]inference[/ins] is valid:
+
+$$\begin{aligned} & \vdash Z, \\ \therefore & \vdash Y \vdash Z. \end{aligned}$$
+
+[del]Moreover,[/del] [ins]Moreover,[/ins]
+[del]Next,[/del]
+[del]Moreover,[/del] if of [del]three[/del] [ins]any[/ins] three propositions, $P, Q, R,$ from the truth of $P$ the truth [del]of[/del] of $Q$ follows, and from the truth of $Q$ the truth of $R$ follows, then from the truth of $P$ the truth of $R$ follows. [del]Hence,[/del] [ins]This shows that[/ins] the following inference is valid:
+
+$$\begin{aligned} & \vdash X \vdash Z, \\ \therefore & \vdash X \vdash Y \vdash Z. \end{aligned}$$
+
+For if from [del]the truth of[/del] $X$, the truth of $Z$ follows, since we have already seen that from the truth of $Z$, the truth of $Y \vdash Z$ follows, we [del]conclude[/del] [ins]rightly[/ins] that from $X$ the truth of $Y \vdash Z$ follows. This again shows that the following inference is valid:
+
+$$\begin{aligned} & \vdash W \vdash X \vdash Z, \\ \therefore & \vdash W \vdash X \vdash Y \vdash Z. \end{aligned}$$
+
+For if from [ins]the truth of[/ins] $W$ the truth of $X \vdash Z$ follows, since we have already seen that from the truth of $X \vdash Z$, the truth of $X \vdash Y \vdash Z$ follows, we rightly conclude that from the truth of $W$ the truth of $X \vdash Y \vdash Z$ follows.

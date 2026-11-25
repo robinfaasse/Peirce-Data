@@ -1,0 +1,64 @@
+[fig]Logical diagram with letters P, A, B and arrows[/fig]
+
+[fig]Venn-like diagram with nested loops and letters P, A, B[/fig]
+
+Given two [del]qualities[/del] [ins]classes[/ins] As and Bs
+and two relations p and q.
+Let [del]these be such that taking
+any two objects that are not[/del]
+[del]both p to the same A or calling
+either of them objects you please to find a third[/del]
+there will be a B
+to which [del]every[/del] [ins]either[/ins] A will be q
+to which [del]the first object is p[/del]
+or to which [del]the second[/del] [ins]either the second[/ins] is not p.
+
+The "two objects" may be taken as two qualities
+p is "belonging to"
+B will be a collection of As
+q will be "is excluded from"
+or with the oval crossed out in pencil
+"is included in"
+
+[fig]Venn-like diagram with nested loops and letters A, B, p, q[/fig]
+
+[fig]Venn-like diagram with nested loops and letters A, B, p, q[/fig]
+
+[fig]Venn-like diagram with nested loops and letters A, B, p, q[/fig]
+
+[fig]Venn-like diagram with nested loops and letters A, B, p, q[/fig]
+
+[marginalia]
+$\Pi_i \Pi_j \Sigma_k \Pi_l$
+$B_l (\bar{q}_{li} + \bar{p}_{il})$
+$B_l (\bar{q}_{li} + \bar{p}_{jl})$ $A' R''$
+Either this is some A [unclear]that is not R'[/unclear]
+$\Pi_i \Pi_j \Sigma_l \Pi_k \Pi_h \Sigma_t$
+$A_i P_{xi} P_{yj}$
+$\Psi \bar{q}_{li} \bar{q}_{lj}$
+$\Psi B_t (\bar{q}_{ti} + \bar{p}_{tk} + \bar{A}_h)$
+$\cdot (\bar{q}_{tj} + p_{yk} + \bar{A}_h)$
+[/marginalia]
+
+[del]That collection of of r's which cont[/del]
+Every [ins]possible[/ins] collection of A's [del]& r to an A which[/del] [ins]is r to[/ins] [del]cont no other collection of As is r?[/del]
+
+A possible collection of A's is that one which
+contains no A that is contained in the collection
+that is r to it but contains every A that is not
+contained in the collection that is r to it.
+
+Let [del]any[/del] [ins]every[/ins] B be distinguished from any other
+by the fact that one is q to [del]an A to which[/del] [ins]every A to which[/ins] [del]the other is not q[/del] [ins]Given any B there is some A to which it is q but to no other B is q[/ins] [del]And let there be a B which is q to A but to no other B[/del] [ins]And let there be a B which is q to A but to no other B[/ins]
+A, and let A, be any A to which B, is not q let [del]A be such a B which is q to A[/del] [ins]there be a B which is q to A but to no other B[/ins]
+Now look whether or not every B is q to an A
+to which no other B is r
+
+[del]Let the A's be those As (if there be any) to each of which[/del]
+[del]one B and but one is r[/del]
+Let any A be an A' if and only if one and only one B is r to it and
+if this B is also q to it [ins]No B is r to an A' without being q to it[/ins]
+Let any A be an A'' if and only if one and only one B is r to it and
+if this B is not q to it. [ins]No B is both r and q to any A''[/ins]
+There is a B that is q to whatever A' there may be and is not q to any A''
+$\therefore$ this B is not r either to any A' nor to any A''

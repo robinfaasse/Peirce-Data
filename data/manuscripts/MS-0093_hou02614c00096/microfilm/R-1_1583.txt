@@ -1,0 +1,49 @@
+[pn]92[/pn]
+
+Sometimes particular solutions may be obtained, as
+follows:
+Given $(\phi x)^{2} \phi \frac{1-x}{1+x} = a^{2} x$.
+Substituting $\frac{1-x}{1+x}$ for $x$ so that $\frac{1-x}{1+x}$ becomes $\frac{1-\frac{1-x}{1+x}}{1+\frac{1-x}{1+x}} = \frac{2x}{2} = x$
+$(\phi \frac{1-x}{1+x})^{2} \phi x = a^{2} \frac{1-x}{1+x}$
+or $(\phi x)^{3} = a^{2} \frac{x^{2}(1+x)}{1-x}$
+
+But this method does not apply to the following example:
+Given $(\phi x)^{2} + \{\phi(\frac{\pi}{2}-x)\}^{2} = 1$
+
+This is a particular case of
+$(\phi x)^{2} + m \{\phi(\frac{\pi}{2}-x)\}^{2} = 1 + n \chi x$
+[del]Etc[/del] Substitute $\frac{\pi}{2}-x$ for $x$
+$\{\phi(\frac{\pi}{2}-x)\}^{2} + m (\phi x)^{2} = 1 + n \chi(\frac{\pi}{2}-x)$.
+$(m^{2}-1) (\phi x)^{2} = m n \chi(\frac{\pi}{2}-x) - n \chi x + m - 1$
+whence we have
+$\phi x = \sqrt{\frac{m-1}{m^{2}-1} + \frac{n}{m^{2}-1} (m \chi(\frac{\pi}{2}-x) - \chi x)}$
+When $n=0$ $m=1$, $\frac{n}{m^{2}-1}$ is indeterminate. Call it $C$
+$\phi x = \sqrt{\frac{1}{2} + C (\chi(\frac{\pi}{2}-x) - \chi x)}$
+where [del]$\chi$[/del] is an arbitrary function. There is therefore
+no need of $C$ and we have
+$(\phi x)^{2} = \frac{1}{2} + \chi(\frac{\pi}{2}-x) - \chi x$
+or putting $\chi x = \omega x - \frac{x}{\pi}$ $(\phi x)^{2} = \omega(\frac{\pi}{2}-x) - \omega x$
+
+[pn]93[/pn]
+
+Another way would be Put $(\phi x)^{2} = \psi x$
+Then
+$\psi x + \psi(\frac{\pi}{2}-x) = 1$
+$x = u_{t}$ $\frac{\pi}{2}-x = u_{t+1}$
+$\psi x = v_{t}$ $\psi(\frac{\pi}{2}-x) = v_{t+1}$
+$v_{t+1} + v_{t} = 1$
+$u_{t+1} + u_{t} = \frac{\pi}{2}$
+$u_{t} = \frac{\pi}{4} + C_{1} (-1)^{t}$
+$v_{t} = \frac{1}{2} + C_{2} (-1)^{t}$
+$\frac{u_{t} - \frac{\pi}{4}}{v_{t} - \frac{1}{2}} = C$
+$v_{t} = \frac{1}{2} + C(u_{t} - \frac{\pi}{4})$
+$\psi x = \frac{1}{2} + C(x - \frac{\pi}{4})$
+where $C$ is [del]a functional[/del] [ins]the[/ins] symbol of such a
+function that [del]it[/del] does not change when $x$
+is changed to $\frac{\pi}{2}-x$. That is, it is an arbitrary
+symmetrical function of $x$ and $\frac{\pi}{2}-x$
+
+[marginalia]
+$u_{t+1} - a u_{t} = 0$
+$E = a$
+[/marginalia]

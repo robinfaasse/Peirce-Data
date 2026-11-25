@@ -1,0 +1,21 @@
+Given two sides and opposite angle.
+
+[u]1[sup]st[/sup] Solution[/u] [del]log[/del] [ins]log[/ins] sin B = log b - log a + log sin A
+1[sup]st[/sup] Solution log c = log a + log sin (A+B) - log sin A
+[u]2[sup]d[/sup] Solution[/u] c = c[sub]A[/sub] + c[sub]B[/sub] log c[sub]A[/sub] = log b + log cos A  log c[sub]B[/sub] = log a + log cos B
+
+Prob. err. of c
+(1[sup]st[/sup] Solution) W.F(c) = [fraction]a/m[/fraction] [square root of [parenthesis][fraction]tan B/tan C[/fraction] - 1[/parenthesis][sup]2[/sup] 3.36 + [parenthesis][fraction]tan B/tan C[/fraction] + 1[/parenthesis][sup]2[/sup] 2.36]
+Minimum when [fraction]tan B/tan C[/fraction] = [fraction]3.36/5.72[/fraction]
+
+The 2[sup]nd[/sup] method is bad when A is very large the
+second first when B is large relatively to C.
+As to 2[sup]d[/sup] method If log b is too large c[sub]A[/sub] is too large c[sub]B[/sub] small
+If log a is too large c[sub]B[/sub] is doubly too large
+
+The length of 2[sup]nd[/sup] method is again [del]b[/del] [ins]c[/ins] is
+Prob. err. = [fraction]c/m[/fraction] [fraction]1/sin C[/fraction] [square root of 4.04 - 7.40 cos[sup]2[/sup] B - sin[sup]2[/sup] A 4.04 + 10.44 sin[sup]2[/sup] A cos[sup]2[/sup] B]
+- 11.44 sin A tan A cos[sup]2[/sup] B + 5.72 sec[sup]2[/sup] A cos[sup]2[/sup] B - 2.36 sec[sup]2[/sup] A cos[sup]2[/sup] B
+- 3.36 sin[sup]2[/sup] A tan A sin B cos B.
+
+3[sup]d[/sup] Method c = c[sub]A[/sub] + c[sub]B[/sub] log c[sub]A[/sub] = log 2b + 2 log sin [fraction]1/2[/fraction] A

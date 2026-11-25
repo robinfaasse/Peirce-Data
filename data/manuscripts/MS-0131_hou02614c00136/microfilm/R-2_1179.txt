@@ -1,0 +1,9 @@
+For if any ray through $[C]$ not at right angles to $\{OC\}$, as $\{AC\}$ cuts the circle at at distance $|AC|$ from $[C]$, then, by Theorem 1 a ray on the other side will cut the circle at $[B]$, making $\angle OCB = \angle OCA$ and $|CB| = |CA|$. Hence, since there is [ins]one, and[/ins] [del]but[/del] one tangent at $[C]$, it can make no other angle than a right angle with $\{OC\}$. Q.E.D.
+
+[u]Theorem[/u]. [u]The envelope of all the rays of a plane that are inclined by a given angle to a given ray of the plane is a circle whose centre is [del]distan[/del] perpendicularly distant a quadrant from the given ray.[/u]
+
+[u]Demonstration[/u]. Let $\{r\}$ be any ray, $[A]$ [del]and[/del] point upon it, $[C]$ a point upon the [ins]metrically[/ins] [del]conjugate[/del] ray, [del]and[/del] $\{AB\}$ a ray inclined by a fixed angle to $\{r\}$, and $\{CB\}$ a ray [del]through $[C]$ at[/del] perpendicular to $\{AB\}$ at $[B]$, [del]Then, I say that $\{AB\}$ is tangent to the and[/del] and $k$ a circle centred at $[C]$ with a radius the same fraction of a quadrant that the fixed angle is of a right angle. Then, I say that $\{AB\}$ is tangent to $k$, no matter what point of $\{r\}$, $[A]$ may be.
+
+[fig]Diagram showing ray r, points A, B, C, and circle k[/fig]
+
+For let $[B']$ be the point of $\{AB\}$ distant a quadrant from $[A]$. Then $\Delta ACB'$ is a biquadrantal triangle, and by Theorem , $\angle AB'C$ is a right angle. But $\angle ABC$ is also a right angle. Yet $\{BB'\}$ is not [del]in[/del] the metrical conjugate of $[C]$. Hence, by Theorem $[B'] = [B]$. That is, $|AB| = \frac{1}{2}D$. Consequently, since $|AC| = |AB| = \frac{1}{2}D$, by Theorem , $\angle A : \frac{1}{2}D = |CB| : \frac{1}{2}D$. Q.E.D.

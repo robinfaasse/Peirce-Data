@@ -1,0 +1,11 @@
+To illustrate the use of the secundal notation in finding factors, I take a number of
+which I had to calculate the factors (though they were probably somewhere recorded,)
+namely, $2^{35}-1 = 34359738367$, or, secundally expressed
+$11111111111111111111111111111111111$ obviously divisible by $11111$, [ins]and[/ins] $1111111$, by
+$1\dots\dots1\dots\dots1\dots\dots1\dots\dots1\dots\dots1\dots\dots1$ [del]by[/del] [ins]and by[/ins] $1\dots\dots\dots\dots1\dots\dots\dots\dots1\dots\dots\dots\dots1\dots\dots\dots\dots1$
+The first step was to find the greatest common divisor of the last two, after dividing [ins]them[/ins] by the others
+Quotient = $1\dots\dots1$
+$1111111)\!1\dots\dots1\dots\dots1\dots\dots1\dots\dots1\dots\dots1$
+[del]$1111111$[/del]
+[del]$1111111$[/del]
+[del]$1111111$[/del]

@@ -1,0 +1,37 @@
+[133]
+[del]p^4[/del] [ins]p^4[/ins] = 2 p^2 q^2 + q^4
+
+The product will be represented by
+z^4 - 2 (p^2 + q^2) z^2 + p^4 - 2 p^2 q^2 + q^4 = 0
+
+[fig]calculation[/fig]  If however p=q
+this becomes
+z^4 - 4 p^2 z^2 + 4 p^4 = 0
+or (z^2 - 2 p^2)^2
+and this is [del]does[/del] not represent the
+correct product, which is represented by
+[fig]diagram[/fig] z^3 - z^2 - 4 p^2 z + 4 p^2 = 0
+[del]± 8 p^3 [fig]drawing[/fig] 4 p^2[/del]
+[del]∓ 8 p^3[/del]
+[fig]drawing[/fig]
+(x - p) (x - q)
+(y - r) (y - s)
+
+[fig]calculations[/fig] x^10 + x^7 + x^3 + 1    10010001001
+y^10 + y^8 + y^5 + y    10100100010
+[fig]calculations[/fig]  10100100010
+10100100010
+10100100010
+10100100010
+102011020211200110010
+
+z^2 - 36 [del]z^2[/del] + 324    z - 20   z = 15   z = 12   z - 9
+z^2 - 36 z + 320    z - 18   z - 13   z - 11   z - 6
+[fig]calculations[/fig]  z - 18   z - 13   z - 10   z - 5
+z + 16   z - 12   z - 9    z - 2
+[del]2576 z^2 -[/del] 72 z^3
+[fig]calculations[/fig]
+z^4 - 72 x^3 + 1296 x^2 + 23184 x + 103680
+z^2 - 27 z + 180    [fig]calculations[/fig]
+z^2 - 26 z + 169
+z^4 - 53 z^3 + 1051 z^2 - 9243 x + 30420

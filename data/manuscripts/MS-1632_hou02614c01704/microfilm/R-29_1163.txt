@@ -1,0 +1,69 @@
+[pn]239[/pn]. Required the content of the [del]least[/del] sphere that
+shall touch three paraboloids given in magnitude
+and position.
+
+<u>Solution</u>. Let the equation of one the revolving
+parabolas be $y^2 = px$. Let $R$ be the radius of the sphere.
+Suppose this parabola to be enclosed by a curve
+at distance $R$ from it. the equation of this curve will be
+found from the three $y^2 = px$
+$(y - y')^2 + (x - x')^2 = R^2$
+$y - y' : x - x' = y : \frac{1}{2}p$ by eliminating $y$
+and $x$. to be. $\phi(y'.x'.R) = 0$
+If this curve is supposed to revolve round the same axis
+with the parabola, the resulting surface will contain
+the center of the sphere. as we get shall get an
+equation of the form $\phi(a.b.c.R) = 0$.
+$a, b, c$ being the coordinates of the centre of the sphere.
+the same is true of the other paraboloids. We may then
+eliminate from these three equations $b.c$ and obtain
+$f(a.R) = 0$. the differential of which
+gives, by making $\frac{dR}{da} = 0$. $f'(a.R) = 0$. and eliminating
+$a$ from these we obtain $R$.
+
+[marginalia]
+Let $DAB = a$,
+$AE = R$.
+$R\ V = 2A. = 2RN$. or
+$H Z = z =$ ordinate of
+$m Z^2 + [del]z^2[/del] [ins]B^2[/ins] = R^2$
+$m Z = \frac{B^2}{A^2} z$.
+$Z P^2 = \frac{B^2}{A^2} (A^2 - z^2)$
+$R = \mu V - A - N T$.
+$Z^2 = No. NP$.
+$2X = AV. \sin 2a$
+$\frac{B^2}{A^2} (A^2 - z^2) + \frac{B^4}{A^4} z^2 = (\mu V - A - N T)^2$
+$B^2 = No. NP$.
+$No = \frac{A \sin (\omega + a)}{\cos a}$
+$NP = \frac{A \sin (\omega - a)}{\cos a}$
+$B^2 = \frac{A^2 \sin (\omega + a) \sin (\omega - a)}{\cos a^2}$
+$\frac{B^2 \sin (\omega + a) \sin (\omega - a)}{\cos a^2} (1 - \cos \omega^2) + \frac{B^4}{A^4} z^2 = (\mu V - A - N T)^2$
+$B^2 - \frac{B^2}{A^2} N M^2 = (\mu V - A - N T)^2$
+$B^2 - \frac{\sin (\omega + a) \sin (\omega - a)}{\cos \omega^2} N M^2 = (\mu V - A - N T)^2$
+[/marginalia]
+
+[marginalia]
+$HDM = \omega$,
+$AH = z$.
+$2 B =$ the corresponding
+subnormal. $m z$.
+$R = \mu V - A - N T$.
+$D M = \mu$
+$m T = R$.
+conjugate axis.
+[/marginalia]
+
+1
+2
+3
+4
+5
+6
+1'
+5'
+6
+7
+5''
+12
+12'
+13

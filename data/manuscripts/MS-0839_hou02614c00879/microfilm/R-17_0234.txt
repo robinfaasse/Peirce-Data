@@ -1,0 +1,7 @@
+Suppose $i^m \neq 0$ $i^{m+1} = 0$ $j^n \neq 0$ $j^{n+1} = 0$ $m > n$
+and suppose further
+$$ij = \sum_t (a_t i^t + b_t j^t)$$
+$$= a_1 i + a_2 i^2 + a_3 i^3 + \dots + a_m i^m$$
+$$+ b_1 j + b_2 j^2 + \dots + b_n j^n$$
+$$i^u j = \sum_t (a_t i^{u+t-1} + b_t i^{u-1} j^t)$$
+$$i^u j^v = \sum_t (a_t i^{u+t-1} j^{v-1} + b_t i^{u-1} j^{v+t-1})$$

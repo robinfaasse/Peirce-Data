@@ -1,0 +1,26 @@
+XX. Any graph may be written enclosed and unenclosed in any connection
+both being oddly enclosed. 118r
+Corollary from proof of XIX.
+
+XXI. If one graph can be illatively transformed into another an en-
+closure may be written consisting of an oval enclosing the former
+graph and an oval enclosing nothing but the latter.
+Proof. Let a and b be the first and second graphs respectively. Then
+I say that if a -< b, we may write [fig]( a ( b ) )[/fig].
+For by XX, we can write [fig]( a ( a ) )[/fig]
+and by XVI if a -< b we can transform [fig]( a ( a ) )[/fig] into [fig]( a ( b ) )[/fig], so that
+the latter can in that case be written. Q.E.D.
+
+XXII. If a graph is written outside any number of ovals, it makes
+no difference whether it is written inside of them or not, nor
+whether it is repeated outside of them.
+Proof. First, [del]Let[/del] If a graph is written outside an oval it may be erased
+if written inside that oval. Whatever graphs a and b may be, I say
+that a [fig]( a b )[/fig] -< a [fig]( b )[/fig].
+For ab -< ab by I
+and ab -< a by XVII
+Hence ab -< a ab by III
+Hence a [fig]( a b )[/fig] -< a [fig]( b )[/fig] by V and IV. Q.E.D.
+Second, But a [fig]( b )[/fig] -< a [fig]( a b )[/fig] by XVII. Hence it makes no difference
+whether a is written inside the oval, so long as it is written
+outside.

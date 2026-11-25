@@ -1,0 +1,54 @@
+[fig]Venn diagram with three circles[/fig]
+[u]Any M is P[/u]          [u]M[/u] [u]P[/u] [del]=[/del] [ins]≤[/ins] ν
+Some S is not P       [u]S[/u] [u]P[/u] ≥ σ
+∴ Some S is not M     S [u]M[/u] ≥ σ - ν
+                      x + y ≤ ν
+                      x + z ≥ σ
+
+Some S is not P       y + z ≥ σ
+[u]Any S is M[/u]            x + y ≤ μ
+Some M is not P       z ≥ σ - μ
+
+[fig]Venn diagram with three circles[/fig]
+
+[del]Any not M is not S[/del]     [del]t + u ≤ P - σ[/del]
+                      [del]x + y ≤ μ[/del]
+                      [del]t + u + y ≤ P - σ + μ[/del]
+[del]Some not P is not not S[/del]
+[del]Some not P is not not M[/del]
+
+[fig]Venn diagram with three circles[/fig]
+
+[u]Any M is P[/u]            x + y ≤ μ
+[u]Any S is M[/u]            z + t ≤ ν
+Any S is P            z + x ≤ μ + ν
+
+[fig]crossed circle[/fig] [fig]crossed square[/fig]
+[fig]crossed square[/fig]
+[fig]three overlapping circles[/fig] [fig]three overlapping circles[/fig]
+[fig]circle with curved lines[/fig] [fig]circle with curved lines[/fig]
+[fig]three overlapping circles[/fig] [fig]circle with curved lines[/fig] [fig]shaded shape[/fig] [fig]fraction 3 over 6 equals 12[/fig] [fig]shaded shape[/fig]
+[fig]two overlapping circles[/fig] [fig]two overlapping circles with dots[/fig] [fig]shaded shape[/fig]
+
+1947
+[u]413[/u]
+804111
+
+0413
+[del]1212[/del]
+[del]1652[/del]
+[del]2891[/del]
+804111
+
+0413 1
+0826 2
+1239 3
+1652 4
+2065 5
+2478 6
+2891 7
+[del]3304[/del] 8
+[del]3712[/del] 9
+4120
+
+[fig]numbers in columns[/fig]

@@ -1,0 +1,37 @@
+[pn]5[/pn]
+<u>Logic of Quantity</u>
+
+[del]"with r"[/del], we get, as before
+$\Pi_{i}\ S_{imn}$.
+
+But were we to drop premise (3), it is evident that from premise
+(3') alone no such impossibility could be deduced. It therefore appears
+that, in order to constitute the impossibility, it is necessary, not only
+that $m$ should be a part of, or in semicorrespondence with a part of, $n$,
+but also that it should possess some character irrespective of $n$.
+
+<u>Problem 1</u>. [del]Required that property of a collection, $m$, which ren-[/del]
+[del]ders it impossible that it should be in a semicorrespondence with[/del]
+[del]any collection [ins]of[/ins] [ins]which[/ins] it forms a part.[/del]
+
+The propositions (3') express that $m$ is a part of $n$. We may write
+them briefly thus:
+$P_{mn}$
+
+We may write proposition (1) in the abridged form
+$\Pi_{i}\ \bar{S}_{imn} + S_{imn}$
+
+Let us express the proposition that $m$ fulfils the condition, not how-
+ever by including everything in the universe and thus not forming
+a part of any collection. We write this:
+$X_{m} \cdot \Sigma_{x}\ T_{xm}$.
+
+Then, we have
+$P_{mn} \cdot X_{m} \prec \Pi_{i}\ S_{imn}$ ;
+whence
+$P_{mn} \cdot \Sigma_{i}\ \bar{S}_{imn} \prec \bar{X}_{m}$.
+
+If, then, we form $P_{mn} \cdot \Sigma_{i}\ \bar{S}_{imn}$ and eliminate $n$ from it, so
+with the least possible loss of assertion, we must get $\bar{X}_{m}$. Mul-
+tiplying the negative of this by $\Sigma_{x}\ T_{xm}$ and eliminating $x$, we
+get the assertion of the condition sought. The following is the

@@ -1,0 +1,21 @@
+[marginalia]Morrison's Bridge [del]1893[/del] [ins]1892[/ins] Feb 25 St Johns[/marginalia]
+
+bc
+$b = b' + 2(c'-c)I$
+$bc = b'c + 2(c'c-c^2)I$
+$b^2 = b'^2 + 4(b'c'-bc)I + 4(c'^2-2c'c+c^2)I^2$
+
+$\frac{1}{4}b^2x + b'c'Ix - bcIx + c'^2I^2x - 2c'cI^2x + c^2I^2x$
+$\begin{array}{cc} -\frac{4}{3}bcI^2 & -\frac{8}{3}c'cIp^2 + \frac{4}{3}c^2Ip^2 \\ +\frac{2}{3}b'cx^2 & +\frac{4}{3}c'cIx^2 - \frac{4}{3}c^2Ix^2 \\ & -\frac{3}{4}c^2p^2x \\ & +\frac{1}{2}c^2x^3 \end{array}$
+
+$\frac{1}{4}b^2I + b'c'I^2 - bcI^2 + c'^2I^3 - [del]2c'cI^3[/del] + c^2I^3$
+$\begin{array}{ccc} +\frac{2}{3}bcI^2 & +\frac{4}{3}c'cI^3 & -\frac{4}{3}c^2I^3 \\ -\frac{1}{3}b'cI^2 & -\frac{2}{3}c'cI^3 & -\frac{3}{4}c^2p^2I \\ & & +\frac{1}{2}c^2I^3 \end{array}$ $+ \frac{1}{6}c^2I^3$
+
+$+\frac{1}{4}b^2N + b'c'IN - bcIN + c'^2I^2N - 2c'cI^2N + c^2I^2N$
+$\begin{array}{cc} -\frac{2}{3}bcN^2 & -\frac{4}{3}c'cIN^2 + \frac{4}{3}c^2IN^2 \\ & -\frac{3}{4}c^2p^2N \\ & +\frac{1}{2}c^2N^3 \end{array}$
+
+[fig]scratch work[/fig]
+
+$\frac{1}{4}(N+I)b'^2 + I(N+I)b'c' - \frac{1}{3}(2N+I)(N+I)b'c + I^2(N+I)c'^2 - \frac{2}{3}I(2N+I)(N+I)c'c$
+
+[fig]scratch work[/fig]

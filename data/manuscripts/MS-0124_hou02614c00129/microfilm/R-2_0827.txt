@@ -1,0 +1,19 @@
+If we have
+$$f\ e^{ti} = a_0 + a_1 e^{ti} + a_2 e^{2ti} + a_3 e^{3ti} + \text{etc}$$
+$$+ b_1 e^{-ti} + b_2 e^{-2ti} + b_3 e^{-3ti} + \text{etc}$$
+
+multiply by $e^{-nti} dt$ and integrate from $\alpha$ to $\alpha + 2\pi$
+
+Then $\int [del]e^{-nti}[/del] a_m e^{(m-n)ti} dt$
+$$= \frac{a_m}{(m-n)i} e^{(m-n)ti}$$
+
+But $e^{(m-n)ti}$ has the same value for $t=\alpha$ and $t=\alpha+2\pi$
+[del]and[/del] so that [del]the[/del] [ins]this[/ins] integral between the limits vanishes when
+$m \neq n$ But if $m=n$
+$$\int a_m dt = a_m t$$
+$$\int_{\alpha}^{\alpha+2\pi} a_m dt = a_m 2\pi$$
+
+Hence $\int e^{-nti} f e^{ti} \cdot dt = 2\pi a_n$
+and the coefficients can thus be determined.
+Consequently
+$$fx = \frac{1}{2\pi} \int_0^{2\pi} fx \cdot dx + \frac{1}{\pi} \sum_1^{\infty} \cos nx \int_0^{2\pi} \cos nx \cdot fx \cdot dx + \frac{1}{\pi} \sum_1^{\infty} \sin nx \int_0^{2\pi} \sin nx \cdot fx \cdot dx$$

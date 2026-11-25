@@ -1,0 +1,18 @@
+point, that is to say, how to find the [del]variation[/del] [ins]develope the expressions[/ins] for the three variations,
+where [u]v[/u] is not subject to variation. [ins]clearest[/ins]
+[u]$\delta \int (\frac{\underline{u}}{\underline{v}})^2 d\underline{v}$[/u], [u]$\delta \int (\frac{d\underline{u}}{d\underline{v}})^2 d\underline{v}$[/u], [u]$\delta \int (\frac{d^2\underline{u}}{d\underline{v}^2})^2 d\underline{v}$[/u],
+The best way is to consider what they become in the calculus of finite differences
+where
+
+$\Delta \underline{u} = \underline{u}_{i+1} - \underline{u}_i$
+
+$\Sigma \underline{u} = \underline{u}_{i-1} + \underline{u}_{i-2} + \text{etc} \dots + \underline{u}_0$
+
+Since $\Delta \underline{v}$ is constant
+
+$\underline{v} = (i + C) \Delta \underline{v}$
+
+Then $\delta \int (\frac{\underline{u}}{\underline{v}})^2 d\underline{v}$ becomes
+$\delta \Sigma \frac{\underline{u}^2}{(i+C)\Delta\underline{v}} = \delta \frac{\underline{u}_{i-1}^2}{(i-1+C)\Delta\underline{v}} + \delta \frac{\underline{u}_{i-2}^2}{(i-2+C)\Delta\underline{v}} \dots \delta \frac{\underline{u}_0^2}{C\Delta\underline{v}}$
+$= 2 \frac{\underline{u}_{i-1}\delta\underline{u}_{i-1}}{(i-1+C)\Delta\underline{v}} + 2 \frac{\underline{u}_{i-2}\delta\underline{u}_{i-2}}{(i-2+C)\Delta\underline{v}} \dots 2 \frac{\underline{u}_0\delta\underline{u}_0}{C\Delta\underline{v}}$
+$= 2 \Sigma \frac{\underline{u} \delta\underline{u}}{(\Delta\underline{v})^2} \Delta\underline{v}$

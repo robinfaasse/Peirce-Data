@@ -1,0 +1,238 @@
+[pn]18[/pn]
+
+[del]p + 2p + q[/del]
+
+The product will be represented by
+[u]z² - 2(p² + q²) z² + p⁴ - 2p²q² + q⁴ = 0[/u]
+
+If however p = q
+this becomes
+[u]z⁴ - 4p²z² + 4p⁴ = 0[/u]
+or (z² - 2p²)²
+and this [del]co[/del] does not represent the
+correct product, which is represented by
+[u]z² - 2z² - 4p²z + 4p² = 0[/u]
+
+[fig]Sketch of two faces in profile[/fig]
+
+[fig]Scribble[/fig]
+
+[del](x - p) (x - q)[/del]
+(y - s) (y - t)
+
+[column]
+16
+15
+---
+324
+[/column]
+
+[column]
+20 10
+x + x + x³ + 1
+10
+y + 48 + y⁵ + y
+[/column]
+
+[column]
+1001001001
+10100100010
+10100100010
+10100100010
+10100100010
+10100100010
+10201102011200110010
+[/column]
+
+[column]
+z² - 36 z² + 320
+z² - 36z + 320
+[/column]
+
+[column]
+15
+30
+---
+161
+[/column]
+
+[column]
+z - 15
+z - 13
+z - 8
+z - 2
+[/column]
+
+[column]
+2012
+2011
+2010
+2009
+[/column]
+
+[column]
+81
+1296
+1296
+644
+1940
+[/column]
+
+[column]
+1296
+644
+272
+2212
+[/column]
+
+[column]
+z - 20
+z - 18
+z - 18
+z - 16
+[/column]
+
+[column]
+26
+18
+---
+78
+26
+---
+338
+[/column]
+
+[column]
+z⁴ - 72 z³ + 1296 x² + 2814 x + 103680
+z⁴ - 72 x³ + 1296 x² + 2814 x + 103680
+z⁴ - 72 x³ + 1296 x² + 2814 x + 103680
+[/column]
+
+[column]
+324
+648
+972
+[/column]
+
+[column]
+16
+162
+1523
+[/column]
+
+[column]
+162
+463
+463
+[/column]
+
+[column]
+z⁴ - 72 x³ + 1296 x² + 2814 x + 103680
+z⁴ - 72 x³ + 1296 x² + 2814 x + 103680
+[/column]
+
+[column]
+1163
+367
+[/column]
+
+[column]
+4563
+4680
+[/column]
+
+***
+
+To find product of the two numbers
+represented
+[del]x² - [del]p x[/del] + q[/del]
+[u]x² - (p + q) x + pq = 0[/u]
+[u]y² - (r + s) y + rs = 0[/u]
+
+To find product of x = p y = q
+If p and q are both zero and so
+equal z = p = q
+In general z = p + q
+
+To find product of [del]x = p[/del] y
+[del]x² - (p + q) x + pq[/del] y = r
+The product is x² - (p + q + 2r) x + (p + r) (q + r)
+
+If x² - (2p + 3) x + p(p + 3) = 0
+y² = (2r + 1) x + r(r + 1) = 0
+
+[column]
+1001
+1111
+[/column]
+
+z² - (4p + 8r + 8) z + [del](p + r)² + (p + r)[/del] (p + r + 1) (p + r + 3) (p + r + 4)
+
+[column]
+p + r
+p + r + 1
+p + r + 3
+p + r + 4
+[/column]
+
+[column]
+p + r
+p + r + 1
+p + r + 3
+p + r + 4
+[/column]
+
+[column]
+x² - p² = 0
+y² - q² = 0
+z⁴ - 2(p² + q²) z² + p⁴ - 2p²q² + q⁴
+[/column]
+
+[column]
+1001
+1001
+[/column]
+
+[column]
+1
+1
+[/column]
+
+[column]
+p + q
+p - q
+-p + q
+-p - q
+[/column]
+
+[column]
+p² - q²
+-p² + q²
+-p² + q²
+p² - q²
+[/column]
+
+[column]
+101
+101
+[/column]
+
+[column]
+1
+0
+1
+[/column]
+
+[column]
+p + q
+p - q
+-p + q
+-p - q
+[/column]
+
+[column]
+p² - q²
+-p² + q²
+-p² + q²
+p² - q²
+[/column]

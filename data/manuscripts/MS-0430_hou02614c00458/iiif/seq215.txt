@@ -1,0 +1,24 @@
+Logic
+III
+79
+
+(81)   The expressions $(x\text{ }\text{\textsf{v}}\text{ }y)\text{ }\text{\textsf{v}}\text{ }y$ and $(y\text{ }\text{\textsf{v}}\text{ }x)\text{ }\text{\textsf{v}}\text{ }x$ are equivalent.
+    For, by (79) and (80), if $(x\text{ }\text{\textsf{v}}\text{ }y)\text{ }\text{\textsf{v}}\text{ }y$ is scriptible, so is
+$(y\text{ }\text{\textsf{v}}\text{ }x)\text{ }\text{\textsf{v}}\text{ }x$. And, therefore, the converse is true. Whence,
+by (68), we have $((x\text{ }\text{\textsf{v}}\text{ }y)\text{ }\text{\textsf{v}}\text{ }y)\text{ }\text{\textsf{v}}\text{ }(y\text{ }\text{\textsf{v}}\text{ }x)\text{ }\text{\textsf{v}}\text{ }x$ and
+$((y\text{ }\text{\textsf{v}}\text{ }x)\text{ }\text{\textsf{v}}\text{ }x)\text{ }\text{\textsf{v}}\text{ }(x\text{ }\text{\textsf{v}}\text{ }y)\text{ }\text{\textsf{v}}\text{ }y$; and by (77), (81) holds.
+
+(82)   If $(x\text{ }\text{\textsf{v}}\text{ }y)\text{ }\text{\textsf{v}}\text{ }z$ is scriptible, so is $(x\text{ }\text{\textsf{v}}\text{ }z)\text{ }\text{\textsf{v}}\text{ }z$.
+    For, $(x\text{ }\text{\textsf{v}}\text{ }y)\text{ }\text{\textsf{v}}\text{ }z$ being scriptible, by (66), if [del]$x\text{ }\text{\textsf{v}}\text{ }x\text{ }\text{\textsf{v}}$[/del] $y$ is
+scriptible, so is $z$. But, by (64), either $x\text{ }\text{\textsf{v}}\text{ }y$ is scriptible
+or [del]$x\text{ }\text{\textsf{v}}\text{ }x\text{ }\text{\textsf{v}}$[/del] $x$ is scriptible. Hence, if $(x\text{ }\text{\textsf{v}}\text{ }y)\text{ }\text{\textsf{v}}\text{ }z$ is scrip-
+tible, either $z$ or $x$ is scriptible; when, by (80), $(x\text{ }\text{\textsf{v}}\text{ }z)\text{ }\text{\textsf{v}}\text{ }z$
+is scriptible.
+
+(83)   If $(x\text{ }\text{\textsf{v}}\text{ }y)\text{ }\text{\textsf{v}}\text{ }z$ is scriptible $y\text{ }\text{\textsf{v}}\text{ }z$ is scriptible.
+    For, by (65), [del]$x\text{ }\text{\textsf{v}}\text{ }y$[/del] if $y$ is scriptible, $x\text{ }\text{\textsf{v}}\text{ }y$ is scrip-
+tible; when, by (66), $(x\text{ }\text{\textsf{v}}\text{ }y)\text{ }\text{\textsf{v}}\text{ }z$ being scriptible $z$ is
+scriptible. Thence, if $(x\text{ }\text{\textsf{v}}\text{ }y)\text{ }\text{\textsf{v}}\text{ }z$ is scriptible, then if $y$ is
+scriptible $z$ is scriptible; and by (68), (83) follows.
+    Otherwise, by [del](65) and (69)[/del] [ins](65) and (69) $y\text{ }\text{\textsf{v}}\text{ }x\text{ }\text{\textsf{v}}\text{ }y$,[/ins]
+Whence, by contraposition $[(x\text{ }\text{\textsf{v}}\text{ }y)\text{ }\text{\textsf{v}}\text{ }z]\text{ }\text{\textsf{v}}\text{ }y\text{ }\text{\textsf{v}}\text{ }z$; and, by (66), if $(x\text{ }\text{\textsf{v}}\text{ }y)\text{ }\text{\textsf{v}}\text{ }z$, then $y\text{ }\text{\textsf{v}}\text{ }z$.

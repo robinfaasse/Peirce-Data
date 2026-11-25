@@ -1,0 +1,24 @@
+[pn]LOGIC
+III
+84[/pn]
+
+occurs the formula does not hold. Now when [ins]neither[/ins]
+the first or the third [del]cases occur[/del] [ins]cases occur[/ins] [del]formula[/del] either [u]v[/u] o [u]v[/u] is [u]f[/u] or else [u]f[/u] o [u]v[/u] and
+[u]v[/u] o [u]f[/u] have [del]their[/del] [ins]contrary[/ins] values [del]of their first[/del] [ins]to their second[/ins] letters. When neither the
+second nor the fourth cases occur either [u]f[/u] o [u]f[/u] is [u]v[/u] or else
+[u]f[/u] o [u]v[/u] and [u]v[/u] o [u]f[/u] have [del]the[/del] [ins]contrary[/ins] values [del]of[/del] [ins]to[/ins] their second letters. Hence
+when neither of the first four cases occur either both [u]v[/u] o [u]v[/u]
+and [u]f[/u] o [u]f[/u] or else both [u]f[/u] o [u]v[/u] and [u]v[/u] o [u]f[/u] have contrary values
+[del]of[/del] [ins]to[/ins] their second letters. When, in addition, the fifth case does not
+occur, [del]some three out of the four expressions [u]v[/u] o [u]v[/u], [u]f[/u] o [u]f[/u],[/del]
+[del][u]v[/u] o [u]f[/u], and [u]f[/u] o [u]v[/u], have contrary values to their second letters.[/del]
+there [ins]remain[/ins] are four possible cases
+
+1[sup]st[/sup], [del][u]v[/u] o [u]v[/u] = [u]f[/u],[/del] [u]f[/u] o [u]f[/u] = [u]f[/u], [u]f[/u] o [u]v[/u] = [u]v[/u], [u]v[/u] o [u]f[/u] = [u]f[/u];
+2[sup]nd[/sup], [u]v[/u] o [u]v[/u] = [u]v[/u], [u]v[/u] o [u]f[/u] = [u]f[/u], [u]f[/u] o [u]f[/u] = [u]v[/u];
+3[sup]rd[/sup], [u]v[/u] o [u]v[/u] = [u]v[/u], [u]v[/u] o [u]f[/u] = [u]v[/u], [u]f[/u] o [u]v[/u] = [u]f[/u];
+4[sup]th[/sup], [u]f[/u] o [u]f[/u] = [u]f[/u], [u]f[/u] o [u]v[/u] = [u]f[/u], [u]v[/u] o [u]f[/u] = [u]v[/u].
+
+Now in the first case, we have
+[u]v[/u] o ([u]f[/u] o [u]v[/u]) = [u]v[/u] o [u]v[/u] = [u]f[/u],
+[u]f[/u] o ([u]v[/u] o [u]v[/u]) = [u]f[/u] o [u]f[/u] = [u]v[/u],

@@ -1,0 +1,31 @@
+$$a_1 = \frac{1}{2} F_1 [del]\neq[/del] [ins]+\frac{1}{2}[/ins] \sqrt{F_1^2 - 4E_1\kappa_1}$$
+$$a_2 = \frac{1}{2} F_2 + \frac{1}{2} \sqrt{F_2^2 [del]-[/del] [ins]-[/ins] 4E_2\kappa_2}$$
+$$a_3 = \frac{1}{2} F_1 - \frac{1}{2} \sqrt{F_1^2 - 4E_1\kappa_1}$$
+$$a_4 = \frac{1}{2} F_2 - \frac{1}{2} \sqrt{F_2^2 - 4E_2\kappa_2}$$
+
+$$a_1 + a_2 + a_3 + a_4 = F_1 + F_2$$
+
+$$a_1 a_2 = \frac{1}{4} F_1 F_2 + \frac{1}{4} F_1 \sqrt{F_2^2 - 4E_2\kappa_2} + \frac{1}{4} F_2 \sqrt{F_1^2 - 4E_1\kappa_1} + [del]\frac{1}{4}[/del] \sqrt{[del]\frac{1}{4}[/del] (F_1^2 - 4E_1\kappa_1)(F_2^2 - 4E_2\kappa_2)}$$
+$$a_3 a_4 = \frac{1}{4} F_1 F_2 - \text{_________________} + \text{_________________}$$
+$$a_1 a_4 = \frac{1}{4} F_1 F_2 - \text{_________________} + \text{_________________}$$
+$$a_2 a_3 = \frac{1}{4} F_1 F_2 + \text{_________________} - \text{_________________}$$
+$$a_1 a_3 = [del]\frac{1}{4} F_1^2 - \frac{1}{4} F_1^2 +[/del] E_1\kappa_1$$
+$$a_2 a_4 = E_2\kappa_2$$
+$$\Sigma = F_1 F_2 + E_1\kappa_1 + E_2\kappa_2$$
+$$a_1 a_2 a_3 a_4 = E_1 E_2 \kappa_1 \kappa_2 = \eta \kappa_1 \kappa_2 + E_3^2 \kappa_1 \kappa_2$$
+$$E_1 E_2 - \eta = E_3^2$$
+
+$$\frac{1}{a_1^2} = [del]+[/del] 2 \frac{F_1}{4E_1\kappa_1} + 2 \sqrt{\frac{F_1^2}{16 E_1^2 \kappa_1^2} - \frac{1}{4E_1\kappa_1}}$$
+$$\frac{1}{a_1} = [del]+ \frac{1}{2}[/del] \frac{F_1}{2E_1\kappa_1} - \frac{1}{2E_1\kappa_1} \sqrt{F_1^2 - 4E_1\kappa_1}$$
+
+$$a_2 a_3 a_4 = \frac{1}{2} F_1 E_2 \kappa_2 - \frac{1}{2} E_2 \kappa_2 \sqrt{F_1^2 - 4E_1\kappa_1}$$
+$$a_1 a_3 a_4 = \frac{1}{2} F_2 E_1 \kappa_1 - \frac{1}{2} E_1 \kappa_1 \sqrt{F_2^2 - 4E_2\kappa_2}$$
+$$a_1 a_2 a_4 = \frac{1}{2} F_1 E_2 \kappa_2 + \text{_________________}$$
+$$+ \text{_________________}$$
+
+$$F_1 F_2 = (E_1 \lambda_1 + \kappa_1)(E_2 \lambda_2 + \kappa_2)$$
+$$= [ins]\eta + E_3^2[/ins] E_1 E_2 \lambda_1 \lambda_2 + E_1 \lambda_1 \kappa_2 + E_2 \lambda_2 \kappa_1 + \kappa_1 \kappa_2$$
+
+$$\Sigma = F_1 E_2 \kappa_2 + F_2 E_1 \kappa_1$$
+$$= E_1 E_2 \lambda_1 \kappa_2 + E_1 E_2 \lambda_2 \kappa_1 + E_2 \kappa_1 \kappa_2 + E_1 \kappa_1 \kappa_2$$
+$$= [ins]\eta + E_3^2[/ins] (\lambda_1 \kappa_2 + \lambda_2 \kappa_1) + E_2 \kappa_1 \kappa_2 + E_1 \kappa_1 \kappa_2$$

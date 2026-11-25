@@ -1,0 +1,49 @@
+[del]x² - 3x²[/del]
+[del](x - 2)³ = x³[/del]
+
+[del]x² - 4x + 4[/del]
+[del]x³ - 4x² + 4x[/del]
+[del]- 2x² + 8x - 8[/del]
+[del]x³ - 6x² + 12x - 8[/del]
+[del]3x² - 12x + 12[/del]
+[del]6x - 12[/del]
+[del]6[/del]
+
+[del]D_x tan x = 1 + (tan x)²[/del]
+[del]D_x² tan x = 2 tan x [1 + (tan x)²] = 2 ([/del]
+[del]= 2 [tan x + (tan x)³][/del]
+[del]D_x³ tan x = 2 D_x tan x + 6 (tan x)² D_x tan x[/del]
+[del]= 2 + 2 (tan x)²[/del]
+[del]+ 6[/del]
+[del]D_x⁴ tan x = 2 D_x² tan x + 6 (tan x)² D_x² tan x[/del]
+[del]+ 12 tan x (D_x tan x)²[/del]
+[del]= 4 tan x + 4 (tan x)³[/del]
+[del]+ 12 (tan x)³ + 12 (tan x)⁵[/del]
+[del]+ 12 tan x + 24 (tan x)³ + 12 (tan x)⁵[/del]
+[del]= 16 tan x + 40 (tan x)³ + 24 (tan x)⁵[/del]
+
+[del]D_x⁵ tan x =[/del]
+[del]D_x tan x[/del] Put t = tan x
+D_x t = 1 + t²
+D_x² t = 2 t D_x t = 2 t (1 + t²) = 2 t + 2 t³
+D_x³ t = 2 D_x t + 6 t² D_x t = 2 + 2 t²
+[ins]+ 6 t² + 6 t⁴[/ins]
+= 2 + 8 t² + 6 t⁴
+D_x⁴ t = 16 t D_x t + 24 t³ D_x t
+= 16 t + 16 t³
++ 24 t³ + 24 t⁵
+= 16 t + 40 t³ + 24 t⁵
+D_x⁵ t = 16 D_x t + 120 t² D_x t + 120 t⁴ D_x t
+= 16 + 16 t²
++ 120 t² + 120 t⁴
++ 120 t⁴ + 120 t⁶
+= 16 + 136 t² + 240 t⁴ + 120 t⁶
+
+[del]D_x⁶ t = 272 t D_x t + 960 t³ D_x t + 720 t⁵ D_x t[/del]
+[del]= 272 t + 272 t³[/del]
+[del]+ 960 t³ + 960 t⁵[/del]
+[del]+ 720 t⁵ + 720 t⁷[/del]
+[del]= 272 t + 1232 t³ + 1680 t⁵ + 720 t⁷[/del]
+
+[del]D_x⁷ t = 272 D_x t + 1232[/del]
+[del]= 272 D_x t + 3696[/del]

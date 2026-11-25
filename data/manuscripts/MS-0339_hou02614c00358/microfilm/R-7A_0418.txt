@@ -1,0 +1,36 @@
+[pn]203r[/pn]
+
+[u]From A and B alone[/u]
+
+(14) Identify $m = q$ [del]Either $m \prec n$ or $p \prec m$[/del]
+[del](15)[/del] [del]Either $m \prec n$ or[/del]
+[del](16)[/del] [del]$m \prec m$[/del]
+[del](16 1/2)[/del]
+Identify $(m \prec n) = q$
+(17) Either [del]$m$[/del] [ins]$m \prec n$[/ins] or $p \prec m \prec n$
+
+($18^a$) $p \prec m \prec m$
+(19) $p \prec n_{\infty}$
+(20) $n_{\infty} \prec m \prec m$
+($20^a$) Granted that if $p$ is true $q$ is true, then $p \prec q$
+
+[u]From A and C alone.[/u]
+
+(21) $m = s$ Either $m \prec n$ or if $m \prec t$ then $t$ [del]is true[/del]
+(22) $m = s \prec t$ Either $(s \prec t) \prec n$ or if [del]s is true[/del] [ins]$s$ is true[/ins] $t$ is true
+
+(23) $m \prec n = s$ Either $m$ is true or if $(m \prec n) \prec t$ is true $t$
+[del]from (22) and (23)[/del]
+from (22) and (23) either $(x \prec y) \prec y$ and $x$ are both true
+or both false or $y$ is true
+
+(24) $m \prec n = s \prec t$ Either $m$ is true or if $m$ is true, $t$ is true — Nothing
+
+(25) If $m \prec s$ either [del]$m \prec n$[/del] [ins]$m \prec n$[/ins] or if $s \prec t$, $t$ is true
+(26) If $m \prec s \prec t$ either $m \prec n$ or if $s$ is true, $t$ is true
+(27) If $(m \prec n) \prec s$ either $m$ is true or if $s \prec t$, $t$ is true
+(28) If $(m \prec n) \prec s \prec t$ either $m$ is true or if $s$ is true, $t$ is true
+[del]from (28)[/del] (29) If $m \prec s$ and $s \prec t \prec m \prec n$ then $(m \prec n)$ [del]if $m \prec s$ then $m \prec n$[/del]
+[del](30) From (26)[/del] If $m \prec s \prec m \prec n$ then $m$ is true [del]if $m \prec s$ then $m \prec n$[/del]
+(31) [del]From (27)[/del] If $(m \prec n) \prec s$ if $s \prec m$ then $m$ is true [del]if $(m \prec n) \prec s$ then $m$ is true[/del]
+(32) [del]From 28[/del] If $(m \prec n) \prec s \prec m$ if $s$ is true $m$ is true [del]if $(m \prec n) \prec s \prec m$ then $m$ is true[/del]

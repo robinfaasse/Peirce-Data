@@ -1,0 +1,143 @@
+[marginalia]
+Monon's Bridge [date]1898 Sep 13[/date]
+[/marginalia]
+
+There has been a 10 days interruption to
+earn a little money -
+
+Assume $x_0 = 0.04$
+$y_0 = 0.1$
+
+$x_1 = [del]13.11[/del]$
+$y_1 = 10.69$
+
+$x_2 = 14.4$
+$y_2 = 1.0$
+
+I now proceed to form (28) and (29)
+
+$\begin{array}{r}
+x_1 \\
+x_0 \\
+\hline
+x_1 - x_0
+\end{array}$
+$\begin{array}{r}
+13.11 \\
+0.04 \\
+\hline
+13.07
+\end{array}$
+
+$\begin{array}{r}
+y_1 \\
+y_0 \\
+\hline
+y_1 - y_0
+\end{array}$
+$\begin{array}{r}
+10.69 \\
+0.10 \\
+\hline
+10.59
+\end{array}$
+
+$\begin{array}{r}
+x_2 \\
+x_1 \\
+\hline
+\end{array}$
+$\begin{array}{r}
+14.40 \\
+13.11 \\
+\hline
+1.29
+\end{array}$
+
+$\begin{array}{r}
+y_1 \\
+y_2 \\
+\hline
+\end{array}$
+$\begin{array}{r}
+10.69 \\
+1.00 \\
+\hline
+9.69
+\end{array}$
+
+$\begin{array}{r}
+170.8249 \\
+112.1481 \\
+\hline
+282.9730
+\end{array}$
+
+$R_1 = 16.82$
+
+Suppose $1 - \frac{R_0}{R_1} = 0.1$
+$1 - \frac{R_1}{R_2} = 0.05$
+
+$\frac{x_0}{\Lambda_0} = \frac{x_2 - x_0}{\Lambda_2}$
+$\frac{\Lambda_2}{\Lambda_0} = \frac{3}{2}$
+
+$\frac{3}{2} x_0 + x_2 = 15$
+[del]$- 4 x_0 + 3 x_2 = 30$[/del]
+
+[u]$\begin{array}{r}
+9 x_0 + 6 x_2 = 90 \\
+- 8 x_0 + 6 x_2 = 60
+\end{array}$[/u]
+$\begin{array}{r}
+17 x_0 = 30 \\
+x_0 = 1.76
+\end{array}$
+
+$15 - x_2 = 2.64$
+
+$\begin{array}{r}
+1.765 \\
+8825 \\
+\hline
+2.6475 \\
+12.353 \\
+\hline
+15
+\end{array}$
+
+$4 x_0 = x_1$
+$3 x_2 = [del]23[/del] 30 + x_1$
+
+$2 x_1 = x_0 + x_2$
+[u]$2 x_1 + 30 = 4 x_0 + 3 x_2$[/u]
+$30 = 3 x_0 + 2 x_2$
+
+$\begin{array}{r}
+x_2 = 12.36 \\
+3 x_2 = 37.08 \\
+3 x_2 - 30 = 7.08 \\
+4 x_0 = 7.04
+\end{array}$
+
+$\begin{array}{r}
+12.36 \\
+1.76 \\
+\hline
+14.12 \\
+x_1 = 7.06
+\end{array}$
+
+$\begin{array}{r}
+x_1 = 7.059 \\
+x_0 = 1.765 \\
+\hline
+\end{array}$
+$x_2 = \frac{[del]22[/del] 3) 37.059}{12.353}$
+
+$x_1 + 30 = 3 x_2$
+$45 = 3 x_2 + \frac{9}{2} x_0$
+$x_1 = 15 - \frac{9}{2} x_0$
+$2 x_1 = 30 - 9 x_0$
+$8 x_1 = 120 - 36 x_0$
+$9 x_1 = \phantom{120 - } 36 x_0$
+$17 x_1 = 120$

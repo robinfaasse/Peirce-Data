@@ -1,0 +1,26 @@
+[marginalia]
+[pn]Logic[/pn]
+[pn]III[/pn]
+[pn]149[/pn]
+[/marginalia]
+
+to reconstruct if its details are forgotten.
+
+The first problem is to put [del]an[/del] [ins]an[/ins] expression into such a
+form that a certain letter [del]f[/del] [del]g[/del] [del]h[/del] [del]i[/del] [del]j[/del] [del]k[/del] [del]l[/del] [del]m[/del] [del]n[/del] [del]o[/del] [del]p[/del] [del]q[/del] [del]r[/del] [del]s[/del] [del]t[/del] [del]u[/del] [del]v[/del] [del]w[/del] [del]x[/del] [del]y[/del] [del]z[/del] appears only as an
+aggregant of a component, or as the negative of an
+aggregant of a component. I first gave a general solution
+of this problem ([u]Proc. Am. Acad. of Arts and Sci.[/u] [date]1867 March 12[/date])
+which I do not think can be improved upon. Let [u]x[/u] be
+the letter in question, and let the expression be [u]F[/u][u]x[/u]. Then,
+[u]F[/u][u]x[/u] = ([u]F[/u][ins][u]1[/u][/ins] + [u]x[/u])·([u]F[/u][ins][u]0[/u][/ins] + [u]x̄[/u]).
+
+I must say that there was little originality in this solution, since
+it was but the reciprocal of a proposition of Boole's. If it
+is desired to separate two letters in this way, we have,
+[u]F[/u][ins][u]x,y[/u][/ins] = [del]1[/del]
+[u]F[/u][ins][u]x,y[/u][/ins] = ([u]F[/u][ins][u]1,1[/u][/ins] + [u]x[/u] + [u]y[/u])·([u]F[/u][ins][u]1,0[/u][/ins] + [u]x[/u] + [u]ȳ[/u])·([u]F[/u][ins][u]0,1[/u][/ins] + [u]x̄[/u] + [u]y[/u])·([u]F[/u][ins][u]0,0[/u][/ins] + [u]x̄[/u] + [u]ȳ[/u])
+
+The procedure for a greater number of letters will be
+[del]super[/del] similar. But it is never really necessary to
+separate more than one.

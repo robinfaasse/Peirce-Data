@@ -1,0 +1,28 @@
+This is evidently a quadratic equation with unequal roots
+and we shall therefore have the two equations
+
+$$D_t^2 (\mathcal{M}_1 s_1 + s_2) = -\mathcal{N}_1 (\mathcal{M}_1 s_1 + s_2)$$
+$$D_t^2 (\mathcal{M}_2 s_1 + s_2) = -\mathcal{N}_2 (\mathcal{M}_2 s_1 + s_2)$$
+
+The integrals of these equations will be
+
+$$\mathcal{M}_1 s_1 + s_2 = \mathcal{A}_1 \sin (\sqrt{\mathcal{N}_1} t + \epsilon_1)$$
+$$\mathcal{M}_2 s_1 + s_2 = \mathcal{A}_2 \sin (\sqrt{\mathcal{N}_2} t + \epsilon_2)$$
+
+and therefore there will be two linear compounds of the
+positions of the two pendulums which will each vibrate as
+a simple pendulum.
+
+On actually solving the equations for $\mathcal{M}$ and $\mathcal{N}$ we find
+
+$$\mathcal{N} = \frac{G_1 + G_2}{2} \pm \frac{1}{2} \sqrt{(G_1 - G_2)^2 + 4 a^2}$$
+
+[del]$$\mathcal{M} = \frac{m_1 \lambda_1}{m_2 \lambda_2} \{ \frac{(G_1 - G_2)}{2} \pm \frac{1}{2} \sqrt{(G_1 - G_2)^2 + 4 a^2} \}$$[/del] [ins]det[/ins]
+
+Then we shall have,
+
+$$s_1 = \mathcal{C}_1 \sin (\sqrt{\mathcal{N}_1} t + \epsilon_1) + \mathcal{C}_2 \sin (\sqrt{\mathcal{N}_2} t + \epsilon_2)$$
+$$s_2 = -\mathcal{M}_2 \mathcal{C}_1 \sin (\sqrt{\mathcal{N}_1} t + \epsilon_1) - \mathcal{M}_1 \mathcal{C}_2 \sin (\sqrt{\mathcal{N}_2} t + \epsilon_2)$$
+
+This is the general solution. Let us now proceed to
+the special cases.

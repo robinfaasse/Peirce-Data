@@ -1,0 +1,34 @@
+$$\frac{1}{F'_s s + F'_q q + q F'_s s + s F'_q q} = \frac{2}{s+q} + \sqrt{\frac{-a}{-b}} f$$
+
+$$\mathcal{D}_s^2 \mathcal{D}_q^2 \chi$$
+
+$$\mathcal{D}_s \chi = - \mathcal{D}_s \chi^{-1} \cdot \chi^2$$
+
+$$(s+q)^2 = (s-q)^2 + 4sq$$
+
+$$[del](s-q)i =[/del]$$
+
+$$r \cos \theta + r \sin \theta \cdot i = s$$
+$$r \cos \theta - r \sin \theta \cdot i = q$$
+
+$$s-q = 2r \sin \theta \cdot i$$
+$$- \frac{(s-q)i}{2} = r \sin \theta = w$$
+
+$$w^2 = r^2 \sin^2 \theta$$
+$$r^2 - w^2 = r^2 \cos^2 \theta$$
+$$\sqrt{r^2 - w^2} = r \cos \theta = \frac{1}{2} s+q$$
+
+$$\chi = \frac{1}{\frac{1}{r \cos \theta} + \sqrt{r^2 - w^2}}$$
+
+$$\chi = \frac{1}{\frac{1}{\sqrt{r^2 - y^2}} + \frac{\sqrt{r^2 - [del]c y[/del] [ins]y^2[/ins] + \frac{c^2}{4}} - a}{\sqrt{r^2 + [del]c y[/del] [ins]y^2[/ins] + \frac{c^2}{4}} - b} f$$
+
+[del]A[/del]
+
+[u]\mathcal{D}[/u] refers to $r$ $y$ as ind var
+$\mathcal{D}$  "  " $x$ $y$ as in var
+
+$$\mathcal{D}_x = \frac{dr}{dx} \mathcal{D}_r = \frac{\sqrt{r^2-y^2}}{r} \mathcal{D}_r$$
+
+$$\mathcal{D}_y = \frac{dr}{dy} \mathcal{D}_r + \mathcal{D}_y = \frac{y}{r} \mathcal{D}_r + \mathcal{D}_y$$
+
+$$r = \sqrt{x^2+y^2} \quad \mathcal{D}_x r = [del]\frac{x}{r}[/del] \frac{\sqrt{r^2-y^2}}{r} \quad \mathcal{D}_y r = \frac{y}{r}$$

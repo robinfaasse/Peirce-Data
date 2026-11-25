@@ -1,0 +1,20 @@
+[85]
+
+$\int \frac{dx}{\sqrt{1+x^{2}}}$ [fig]figure[/fig]
+
+$\phi = \psi + \sqrt{1-x^{2}}$
+
+[del]$r = \sigma^{\phi}$[/del] $dr = r d$ [fig]figure[/fig]
+$= \sigma^{\sqrt{1-x^{2}}}$ [del]$dv = \theta r dr$[/del] [fig]figure[/fig]
+$dr = \tan \theta \cdot r d\phi$
+$r \frac{dv}{r} = d\phi$ $\int \tan \theta \cdot d\theta = \log \sec \theta$
+[del]$\frac{dr}{r} =$[/del] Suppose $\phi = B \theta$
+[del]$d\log r = \frac{1}{r}$[/del] [del]$dr = r$[/del]
+$dr$
+$r\log r \cdot dr$ [del]$\frac{dr}{d\log r} = r$[/del] $d\log r = B \tan \theta d\theta$
+$\int \frac{d\log r}{dr} = \frac{1}{r}$ [del]$\frac{1}{r} dr = \phi = B \log \sec$[/del]
+$r d\log r = dr$ $\frac{dr}{r} = d\log r = B \tan \theta \cdot d\theta$
+$\sigma^{s} dg = d\sigma^{s}$ $\log r = B \log \sec \theta$
+$r = (\sec \theta)^{B}$
+$r^{\frac{1}{B}} = \sec \theta$
+Suppose for example

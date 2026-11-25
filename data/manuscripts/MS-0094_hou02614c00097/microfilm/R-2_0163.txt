@@ -1,0 +1,33 @@
+[pn]155[/pn]
+
+be equal to $X_1$. For that was just what we laid down,
+when we said $X_1$ was a root of the equation. But
+we now learn of another possibility
+$$x + X_1 + 2B = 0$$
+or
+$$x = -(X_1 + 2B).$$
+Here is a second root. In fact
+$$(X_1 + 2B)^2 = X_1^2 + 4BX_1 + 4B^2$$
+as we find by performing the multiplication
+$$\begin{array}{l}
+X_1 + 2B \\
+\underline{X_1 + 2B} \\
+X_1^2 + 2BX_1 \\
+\underline{\phantom{X_1^2 + } 2BX_1 + 4B^2} \\
+X_1^2 + 4BX_1 + 4B^2.
+\end{array}$$
+Then
+$$\begin{array}{l}
+(-X_1 - 2B)^2 + 2B(-X_1 - 2B) + C \\
+= \phantom{-} X_1^2 + 4BX_1 + 4B^2 \\
+\phantom{= \phantom{-} X_1^2} - 2BX_1 - 4B^2 + C \\
+= \phantom{-} X_1^2 + 2BX_1 \phantom{+ 4B^2} + C.
+\end{array}$$
+So, if $X_1$ satisfies the quadratic, so also does [del]$x$[/del] [ins]$x_2$[/ins]
+$x = -X_1 - 2B$.
+
+Accordingly, every quadratic which has one root has
+another, unless they are both equal, that is, unless
+$$X_1 = -X_1 - 2B$$
+or
+$$X_1 = -B.$$

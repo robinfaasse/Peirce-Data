@@ -1,0 +1,47 @@
+Quadrantal Triangles
+
+<u>Side & adj. angle</u>
+$\cos a = \sin b \cos A =$
+[del]$\tan H = - \tan A \sec b$[/del]
+$\tan B = \sin A \tan b$
+
+<u>Side & op. angle.</u>
+$\sin b = \cos a \cdot \sec A =$
+$\sin A = \tan B \cdot \cot b$
+$\sin H = \sin B \csc b$
+
+<u>Two Sides</u>
+$\cos A = \cos a \csc b =$
+$\cos H = - \cot a \cot b$
+
+<u>Two angles</u>
+$\tan b = \csc A \tan B$
+$\cos H = - \cos A \cos B$
+
+[del]H[/del] and [del]leg[/del]
+$\tan A = - \tan H \cdot \cos b$
+$\cot b = - \cos H \tan b$
+[del]$\tan a = \tan H \tan b$[/del]
+$\sin B = \sin H \sin b$
+
+H and angle
+$\cos b = - \tan A \cot H$
+$\cos B = - \sec A \cos H$
+$\sin a = \sin A \csc H$
+
+[fig]Right triangle with sides a, b, H and angles A, B[/fig]
+[fig]Right triangle with sides a, b, H and angles A, B[/fig]
+
+$\frac{\sin B}{\sin b}$
+$- \cot a \cot b = \cos H$
+
+$\cos [del]D[/del] = \frac{\sin b}{\cot H \sin A + \cos A \cos b}$
+
+$\cot H \sin A + \cos A \cos b = \sin b$
+$\cot H \sin A = \sin^2 b + 2 \cos A \sin b \cos b + \cos^2 A \cos^2 b$
+$\cot H = \frac{\sin b - \cos A \cos b}{\sin A}$
+$= \sin b \csc A - \cot A \cos b$
+$\cot H = - \cot A \cos b$
+[del]$\tan H = \tan A \sec b$[/del]
+
+[fig]Calculations and geometric diagrams[/fig]

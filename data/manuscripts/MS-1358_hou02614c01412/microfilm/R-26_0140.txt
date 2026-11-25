@@ -1,0 +1,67 @@
+[marginalia]Monson's Bridge [date]1899 Feb 8[/date] St. Helena[/marginalia] [pn]1[/pn]
+
+[fig]Geometric diagram with angles and lines[/fig]
+
+$$\frac{180^{\circ} - \Theta_{n+1} + \Theta_{n}}{90^{\circ} - \frac{1}{2}(\Theta_{n+1} - \Theta_{n})}$$
+
+$$\frac{\frac{1}{2} ds}{\frac{1}{2} \rho} = \operatorname{cosec} \frac{1}{2}(\Theta_{n+1} - \Theta_{n})$$
+$$\frac{1}{\rho} = \frac{2}{ds} \sin \frac{1}{2}(\Theta_{n+1} - \Theta_{n})$$
+
+$$G = \frac{2 B \sin \frac{1}{2}(\Theta_{n+1} - \Theta_{n})}{ds} = \frac{B [del]\Theta_{n+1}[/del] (\Theta_{n+1} - \Theta_{n})}{ds} = B \frac{d\Theta}{ds}$$
+
+[fig]Two connected triangles with variables l+h, a+x, l-h, a-x, b[/fig]
+
+[fig]Trapezoid diagram[/fig]
+
+$$l^{2} + 2lh + h^{2} - a^{2} - 2ax - x^{2}$$
+$$= l^{2} - 2lh + h^{2} - a^{2} + 2ax - x^{2}$$
+
+$$lh = ax$$
+
+$$h = \frac{a}{l} x$$
+
+$$l^{2} - a^{2} + (\frac{a^{2}}{l^{2}} - 1) x^{2} = b^{2}$$
+
+$$(l^{2} - a^{2}) (1 - \frac{x^{2}}{l^{2}}) = b^{2}$$
+
+$$[del]B[/del] [1 - (\frac{x}{5})^{2}] = (\frac{b}{3})^{2}$$
+
+$$B = 3 \sqrt{1 - (\frac{x}{5})^{2}}$$
+
+$$l = [del]10[/del] [del]5[/del] 5$$
+$$a = [del]5[/del] 4$$
+
+[fig]Grid diagram with lines[/fig]
+
+$$\begin{array}{cccccc|c}
+ & 0 & 1 & 2 & 3 & 4 & 5 \\
+ & b & & h & l+h & l-h & \\
+ & & & & 5 & & [del]0.00[/del] \\
+0 & 3.00 & & 0 & 5.0 & 4.2 & 0.06 \\
+1 & 2.94 & & 0.8 & 5.8 & 3.4 & 0.25 \\
+2 & 2.75 & & 1.6 & 6.6 & 2.6 & 0.60 \\
+3 & 2.40 & & 2.4 & 7.4 & 1.8 & 1.20 \\
+4 & 1.80 & & 3.2 & 8.2 & 1.8 &
+\end{array}$$
+
+$$\begin{array}{l}
+\frac{16}{25} \\
+.64 \\
+\frac{21}{25} \\
+.84
+\end{array}$$
+
+$$\begin{array}{l}
+.36 \\
+.96 \\
+\frac{98}{2.94}
+\end{array}$$
+
+$$\begin{array}{l}
+\frac{24}{25} \\
+.9165 \\
+3 \\
+\hline 2.7495
+\end{array}$$
+
+[fig]Geometric diagram with intersecting lines[/fig]

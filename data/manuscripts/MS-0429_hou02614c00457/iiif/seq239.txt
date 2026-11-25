@@ -1,0 +1,31 @@
+111
+$\mathrm{W}_i$
+
+Squaring this by the multiplication tabel [ins]l[/ins] we find
+
+$( \underline{\mathrm{q}}^2 + 2\underline{\mathrm{rs}} + \underline{\mathrm{x}}^2+ \underline{\mathrm{y}}^2 +\underline{\mathrm{z}}^2)\ \underline{\mathrm{i}}$ $+ [2\underline{\mathrm{qx}} + (\underline{\mathrm{r}}+\underline{\mathrm{s}}) (\underline{\mathrm{y}}+\underline{\mathrm{z}})\ ] \underline{l}$
+
+$+ (\underline{\mathrm{s}}^2 +2\underline{\mathrm{qr}}+\underline{\mathrm{yz}}+\underline{\mathrm{xz}}+\underline{\mathrm{xy}})\ \underline{\mathrm{j}}$ $+ [2\underline{\mathrm{qy}} + (\underline{\mathrm{r}}+\underline{\mathrm{s}})\ (\underline{\mathrm{x}}+\underline{\mathrm{z}})]\ \underline{\mathrm{m}}$
+
+$+ (\underline{\mathrm{r}}^2+2\underline{\mathrm{qs}}+\underline{\mathrm{yz}}+\underline{\mathrm{xz}}+\underline{\mathrm{xy}})\ \underline{\mathrm{k}}$ $+ [2\ \underline{\mathrm{qz}}+(\underline{\mathrm{r}}+\underline{\mathrm{s}})\ (\underline{\mathrm{x}}+\underline{\mathrm{y}})]\ \underline{\mathrm{n}}=0$
+
+Of course, each polynomial coefficient of $\underline{\mathrm{i}}, \underline{\mathrm{j}}, \underline{\mathrm{k}}, \underline{l}, \underline{\mathrm{m}}, \underline{\mathrm{n}}$, must
+vanish in order to make the whole vanish. Adding the coeffici-
+ents of $\underline{l}, \underline{\mathrm{m}}, \underline{\mathrm{n}}$, and equating the sum to zero, we have
+$2\ (\underline{\mathrm{q}}+\underline{\mathrm{r}}+\underline{\mathrm{s}})\ (\underline{\mathrm{x}}+\underline{\mathrm{y}}+\underline{\mathrm{z}})\ =\ 0$
+Hence either $\underline{\mathrm{q}}+\underline{\mathrm{r}}+\underline{\mathrm{s}}=0$ or else $\underline{\mathrm{x}}+\underline{\mathrm{y}}+\underline{\mathrm{z}}\ =\ 0.$ But adding the
+coefficients of $\underline{\mathrm{i}}, \underline{\mathrm{j}}, \underline{\mathrm{k}}$ and equating to zero, we get
+$(\underline{\mathrm{q}}+\underline{\mathrm{r}}+\underline{\mathrm{s}})^2 + (\underline{\mathrm{x}}+\underline{\mathrm{y}}+\underline{\mathrm{z}})^2\ =\ 0.$
+Consequently,
+$\underline{\mathrm{q}}+\underline{\mathrm{r}}+\underline{\mathrm{s}}\ =\ (\underline{\mathrm{x}}+\underline{\mathrm{y}}+\underline{\mathrm{z}})\ \sqrt{-1}$
+and whichever is equal to zero, the other must equally be so.
+Now taking the coefficients of $\underline{l}, \underline{\mathrm{m}}, \underline{\mathrm{n}}$ separately, and using the
+equations $\underline{\mathrm{r}}+\underline{\mathrm{s}}=-\underline{\mathrm{q}},\ \underline{\mathrm{y}}+\underline{\mathrm{z}}\ =-\underline{\mathrm{x}},\ \underline{\mathrm{x}}+\underline{\mathrm{z}}\ =-\underline{\mathrm{y}},\ \underline{\mathrm{x}}+\underline{\mathrm{y}}\ =-\underline{\mathrm{z}}$, we get
+$3\ \underline{\mathrm{q}}\ \underline{\mathrm{x}}\ =\ 0$
+$3\ \underline{\mathrm{q}}\ \underline{\mathrm{y}}\ =\ 0$
+$3\ \underline{\mathrm{q}}\ \underline{\mathrm{z}}\ =\ 0;$
+so that either $\underline{\mathrm{q}}=0$ or else $\underline{\mathrm{x}}=\underline{\mathrm{y}}=\underline{\mathrm{z}}=0$. In the latter case, the
+coefficients of $\underline{\mathrm{i}}, \underline{\mathrm{j}}, \underline{\mathrm{k}}$ give the following equations:
+$\underline{\mathrm{r}}^2\ + 4\ \underline{\mathrm{r}}\ \underline{\mathrm{s}}\ +\ \underline{\mathrm{s}}^2\ =\ 0$
+$-2\ \underline{\mathrm{r}}^2\ -2\ \underline{\mathrm{r}}\ \underline{\mathrm{s}}\ +\ \underline{\mathrm{s}}^2\ =\ 0$
+$\underline{\mathrm{r}}^2\ -\ 2\ \underline{\mathrm{r}}\ \underline{\mathrm{s}}\ -\ 2\ \underline{\mathrm{s}}^2\ =\ 0$

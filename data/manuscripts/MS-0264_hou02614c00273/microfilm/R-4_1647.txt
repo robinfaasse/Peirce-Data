@@ -1,0 +1,41 @@
+[fig]Two concentric circles[/fig] [fig]Two concentric circles[/fig]
+
+Case 100 continued
+
+If there is no singularity the [del]order[/del] [ins]class[/ins] maximum
+is 2
+
+If there are only nodes and [del]cusps[/del] [ins]bitangents[/ins]
+the order max is increased by [del]2[/del] [del]for[/del] 2 A
+
+[u]$x^2 + y = 7$[/u] $y = 7 - x^2$
+$x + y^2 = 11$ $y^2 = 49 - 14x^2 + x^4$
+
+$x - 2$ ) $x^4 - 14x^2 + x + 38$ ( $x^3 + [del]2x^2 + 2x[/del]$
+[u]$x^4 - 2x^3$[/u] $+ 2x^2 - 10x - 19$
+$2x^3 - 14x^2 + x + 38$
+[u]$2x^3 - 4x^2$[/u]
+$- 10x^2 + x + 38$
+[u]$- 10x^2 + 20x$[/u]
+$- 19x + 38$
+
+$x^3 + 2x^2 - 10x - 19$
+
+[del]$x + a$[/del] $x = z + a$
+$x^2 = z^2 + 2az + a^2$
+$x^3 = z^3 + 3az^2 + 3a^2z + a^3$
+
+$z^3 + 3az^2 + 3a^2z + a^3$
+$+ 2z^2 + 4az + 2a^2$
+$- 10z - 10a$
+$- 19$
+
+[del]$z^3 - 6z$[/del]
+$z^3 - \frac{34}{3}z$
+
+$3a + 2 = 0$
+$a = -\frac{2}{3}$ $a^2 = \frac{4}{9}$
+$3a^2 = \frac{4}{3}$
+$4a = -\frac{8}{3}$
+
+$-\frac{8}{27} + \frac{8}{9} + \frac{20}{3}$

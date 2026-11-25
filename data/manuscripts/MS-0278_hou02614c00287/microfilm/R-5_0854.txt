@@ -1,0 +1,35 @@
+[del]D^n \tan x = (D + D) \tan x[/del]
+[del]D \tan =[/del]
+[del]D^2 \tan x = D^0[/del]
+
+[del]D^2 \tan x = (D^0 + D) \tan x[/del]
+
+[del](x + y)^2 = x^0 y^2 + 2 x^1 y^1 + x^2 y^0[/del]
+[del](D + \tan)^2 = D^0 \tan^2 + 2 D \tan + D^2 \tan^0[/del]
+
+[del]D^2 \tan x = \tan + D[/del]
+
+[fig]Pascal's triangle with connections[/fig] [del]D^0 D + D D^0[/del]
+[del]D^0 D^2 + 2 D D + D^2 D^0[/del]
+
+[del]D \tan x = 1 + (\tan x)^2 = (\sec x)^2[/del]
+[del]D^2 \tan x = 2 \tan x (D \tan x)[/del]
+
+[del]D \tan x + D \tan x = D \tan x[/del]
+
+D \tan x = \sec^2 x
+[del]D^2 \tan x[/del]
+
+D^2 \tan x = 2 \tan x [ins][1 + (\tan x)^2][/ins]
+D^3 \tan x = 2
+
+[del]\frac{D \tan x}{\tan x} = (\tan x)^1 + (\tan x)^{-1}[/del]
+
+[del]\frac{D \tan x + D \tan x}{(D^0 + D^0)}[/del]
+
+D \tan x = 1 + (\tan x)^2
+D^2 \tan x = 2 \tan x D \tan x = [del]\frac{[2 \tan x (1 + (\tan x)^2)]}{2 \tan x + 2}[/del]
+= 2 [del][[/del] \tan x + (\tan x)^3 [del]][/del]
+
+D^3 \tan x = 2 [1 + \tan x^2 + 3 (\tan x)^2 [1 + (\tan x)^2]]
+= 2 [1 + 4 \tan x^2 + 3 \tan x^4]

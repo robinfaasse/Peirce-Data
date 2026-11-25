@@ -1,0 +1,31 @@
+[u]V.[/u]
+
+[u]To calculate my 3 pages of Naut. Alm.[/u]
+
+1. [u]To find equation of equinoxes[/u]. Express date of first day & second day of year in days since Julian Period by means of Table I of [del]Peir[/del] Tables of the Moon.
+
+Find y-u by Tables II & III. For these dates. By rule of three, find it for every 10th day intermediate.
+
+Convert the seconds into minutes and seconds.
+
+Call this -$\Omega$. Find [ins]by 5 places[/ins] $\sin 2\Omega$ and $\text{tg} \sin \Omega$
+
+Find $a_1$ by the formula
+
+$a_1 = 9''.2231 + \frac{(\text{Date}-1800)}{.000009}$
+
+Find $a_1 \cos \Omega$ and call it $\odot_1$
+
+Find $-.0896 \cos 2\Omega$ 4 places Crelle's Rechen-Tafeln is sufficient
+
+Take the sum of these and call it $\odot_2$. Test this by differencing
+
+Find [del]by[/del] $b$ by formula
+
+$b = -17''.2405 - (\text{Date}-1800) .000172$
+
+Find $b \sin \Omega$ Find $0''.2073 \sin 2\Omega$ 4 places
+
+Add these and call sum $\Psi_2$ Test it by differencing
+
+Get $\Psi_2$ for every 10th day by interpolation. For this [marginalia]Be very careful about these signs.[/marginalia]

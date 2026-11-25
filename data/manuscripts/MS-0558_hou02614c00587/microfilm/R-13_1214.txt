@@ -1,0 +1,24 @@
+[pn]19[/pn]
+
+[u]formulae[/u].
+
+If
+$\prod_{i} \sum_{j} u_{ij} = (u_{11} + u_{12}) (u_{21} + u_{22}) (u_{31} + u_{32})$
+means every city has a celebration
+on some year or other of this
+century.
+
+$\sum_{j}^{i} \prod_{i} u_{ij} = u_{11} u_{21} u_{31} + u_{11} u_{21} u_{32}$
+$+ u_{11} u_{22} u_{31} + u_{11} u_{22} u_{32}$
+$+ u_{12} u_{21} u_{31} + u_{12} u_{21} u_{32}$
+$+ u_{12} u_{22} u_{31} + u_{12} u_{22} u_{32}$
+means that in some collection
+of years, not more in number
+than the number of cities, every city
+has a celebration
+
+So
+$\sum_{j} \prod_{i} u_{ij} = u_{11} u_{21} u_{31} + u_{12} u_{22} u_{32}$
+means that in some [ins]one[/ins] year all
+the cities celebrate while its
+equivalent

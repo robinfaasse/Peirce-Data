@@ -1,0 +1,11 @@
+by $\alpha$, $P \prec Q$ is again true.
+
+<u>Theorem II.</u>
+Conversely if $P \prec Q$ is true, then if $P$ is true, $Q$ is true, by $\gamma$.
+
+[del]Rule[/del]
+<u>$1^{\text{st}}$ Algebraic rule; the rule of commutation.</u> If $a \prec b \prec c$ then $b \prec a \prec c$, and generally if a proposition has several antecedents they may be [ins]inter[/ins]changed in any way. For if $a \prec b \prec c$ is true, then by theorem II if $a$ is true $b \prec c$ is true, and if $b$ is true $c$ is true. Hence if $a$ and $b$ are true $c$ is true, and [del]by[/del] theorem I if $b$ is true $a \prec c$ is true, and $b \prec a \prec c$ is true.
+
+<u>$2^{\text{nd}}$ algebraic rule; the principle of identity.</u> $a \prec a$ is always true. For supposing $t$ is true, then to say that $a$ is true is the same as saying that in case $t$ is true $a$ is true. But this by [del]by[/del] theorem II is the same as to say that if $t \prec a$ is true $a$ is true, or by theorem I, $(t \prec a) \prec a$ is true.
+
+For if $a$ is true it is true, and therefore by theorem I, $a \prec a$.

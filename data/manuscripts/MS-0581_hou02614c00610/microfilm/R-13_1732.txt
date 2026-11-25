@@ -1,0 +1,45 @@
+[pn]1[/pn]
+
+[marginalia]
+[fig]Small diagram with letters h, i, j, k inside circles[/fig]
+[/marginalia]
+
+[u]Notes on Logic[/u]
+
+On the Demonstrative part of Arithmetic.
+
+Starting from the idea of [del]multitudes[/del] [ins]multitude[/ins] which perhaps is the best way, [del]series or[/del] collection is a logical conception, and the definition of greater than involves only logical conceptions, this definition is, of [del]being[/del] [ins]as great as[/ins] [del]greater than[/del]
+
+$g_{ba}$ $b$ is as great as $a$
+$g_{ba} = \Sigma_{\alpha} \Pi_{i} \Sigma_{j} \Pi_{k} \bar{l}_{i} + \bar{r}_{aji} \cdot a_{j} \cdot (\bar{r}_{ajk} + l_{ik})$
+
+[marginalia]
+unnecessary
+terms.
+[/marginalia]
+$g_{ba} = \Sigma_{\alpha} \Pi_{i} \Sigma_{j} \Pi_{k} \bar{q}_{ki} + \bar{r}_{aji} \cdot a_{j} \cdot (\bar{r}_{ajk} + l_{ik} + \bar{q}_{bk})$
+
+$g_{cb} \cdot g_{ba} = \Sigma_{\alpha} \Pi_{i} \Sigma_{j} \Pi_{k} \Sigma_{\beta} \Pi_{u} \Sigma_{v} \Pi_{w}$
+$\left[ \bar{e}_{u} + \bar{r}_{\beta vu} \cdot b_{v} \cdot (\bar{r}_{\beta vw} + l_{uw}) \right] \cdot \left[ \bar{l}_{i} + \bar{r}_{\alpha ji} \cdot a_{j} \cdot (\bar{r}_{\alpha jk} + l_{ik}) \right]$
+
+The order of the Indices can be changed to
+$\Sigma_{\alpha} \Sigma_{\beta} \Pi_{u} \Sigma_{v} \Pi_{w} \Pi_{i} \Sigma_{j} \Pi_{w}$
+
+Put $g$ such that $r_{\alpha ji} \cdot r_{\beta vu} = r_{\gamma ju}$ Identify $k$ and $i$ with $v$
+$\Sigma_{\alpha} \Sigma_{\beta} \Pi_{u} \Sigma_{v} \Pi_{w} \Sigma_{\gamma} r_{\gamma ju}$
+$\Sigma_{\alpha} \Sigma_{\beta} \Pi_{u} \Sigma_{\gamma} \Sigma_{j} \Pi_{w}$
+
+$\bar{e}_{u} + r_{\gamma ju} \cdot b_{v} \cdot a_{j} \cdot (\bar{r}_{\gamma jw} + l_{uw})$
+
+Therefore, it is a transitive relation.
+
+$\Sigma_{\alpha} \Sigma_{\beta} \bar{r}_{\beta iu} \cdot r_{\alpha ji} \prec \Sigma_{\gamma} r_{\gamma ju}$
+
+This principle is $\Pi_{\alpha} \Pi_{\beta} \Sigma_{\gamma} \bar{r}_{\beta iu} + \bar{r}_{\alpha ji} + r_{\gamma ju}$
+
+[del]$\Pi_{\alpha} \Sigma_{\beta} \bar{r}_{\alpha ij} + \bar{r}_{\beta ij}$[/del]
+
+$\Pi_{\alpha} \Sigma_{\beta} \Pi_{i} \Pi_{j} \bar{r}_{\alpha ji} \cdot r_{\beta ji} + r_{\alpha ji} \cdot \bar{r}_{\beta ji}$
+$\Pi_{\alpha} \Sigma_{\beta} \Pi_{i} \Pi_{j} r_{\alpha ji} \cdot \bar{r}_{\beta ji} + \bar{r}_{\alpha ji} \cdot r_{\beta ji}$
+
+$\Pi_{\alpha} \Pi_{\beta} \Sigma_{\gamma}$

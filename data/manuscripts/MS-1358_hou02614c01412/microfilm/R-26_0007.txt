@@ -1,0 +1,46 @@
+[marginalia]
+0.83
+12.05
+[u]6.025[/u]
+1.026
+[u]13.34[/u]
+169
+[u]338[/u]
+975
+
+156.25
+[u]25[/u]
+181.25
+[/marginalia]
+
+[date]1898 May 3[/date]
+Reading the Report on [gap]
+
+A rope hangs down of length $l$ cross section $a$
+a weight $p$ is put upon it.
+Its length becomes [del]$(l + \Delta l)$[/del] $l + \Delta l$
+The elasticity is $\frac{l p}{a \Delta l} = \varepsilon$
+
+The work being $\frac{1}{2} \frac{\varepsilon a}{l} (\Delta l)^2 - mg l$
+
+Equilibrium is reached when the differential of this vanishes
+
+or $\frac{\varepsilon a}{l} \Delta l = p$
+$\varepsilon = \frac{l p}{a \Delta l}$
+
+If $mgl$ is the work of lifting
+$mg$ is the force, or weight.
+
+[fig]Right triangle with sides labeled y and x[/fig] [fig]Diagonal line segment[/fig]
+
+$\frac{y}{x} = \frac{dy_k}{dx_k} = 2 \frac{y_k}{x_k}$
+$\frac{y}{x y_k^2} = \frac{x}{x_k^2}$
+
+$\sqrt{x}$ $\sqrt{x^2 y^2}$ $\sqrt{x^2 y}$ $\sqrt{x^2 y^4}$ $\sqrt{x^2 y^3}$ $\sqrt{x^3 y^3}$
+$\sqrt{x^2}$ $\sqrt{x y}$ $\sqrt{x y}$ $\sqrt{x y}$
+$\sqrt{x^3}$
+$\sqrt{x}$ $\sqrt{x y}$ $\sqrt{x y}$ $\sqrt{x^2 y}$ $\sqrt{x y^2}$ $\sqrt{x^2 y^2}$
+$\sqrt{x^2}$ $\sqrt{x^2 y}$ $\sqrt{x y}$ $\sqrt{x^2 y}$
+$\sqrt{x^3}$ $\sqrt{x^3 y}$ $\sqrt{x^2 y}$ $\sqrt{x^2 y^3}$ $\sqrt{x^3 y^2}$ $\sqrt{x^3 y^3}$
+$\sqrt{x^2}$ $\sqrt{x^2 y}$ $\sqrt{x^2 y}$ $\sqrt{x^2 y^2}$
+$\sqrt{x^3}$ $\sqrt{x^3 y}$ $\sqrt{x^2 y^2}$ $\sqrt{x^2 y^2}$ [u]$\sqrt{x y^3}$[/u] [u]$\sqrt{x^2 y^3}$[/u]

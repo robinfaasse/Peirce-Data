@@ -1,0 +1,27 @@
+[pn]9[/pn]
+
+4. By §41, it appears that [ins]for[/ins] every expression
+in the algebra we have
+$i A = A i = A$.
+
+5. By the reasoning of §53, it appears that
+for every expression $A$ there is an equation
+of the form
+$\sum_m (a_m A^m) + b i = 0$.
+But $i$ is virtually arithmetical unity, since
+$i A = A i = A$; and this equation may be treated
+by the ordinary theory of equations. Suppose
+it has a real root, $\alpha$; then it will be di-
+visible by $(A - \alpha)$ and calling the quotient
+$B$ we shall have
+$(A - \alpha i) B = 0$
+But $A - \alpha i$ is not zero for $A$ was supposed
+dissimilar to $i$. Hence, a product of finites
+vanishes, which is impossible. Hence, the
+equation cannot have a real root. [del]Hence[/del] [ins]But[/ins]
+the whole equation can be resolved into quadratic
+factors, and some one of these must vanish.
+Let the irresolvable vanishing factor be
+$(A - s)^2 + t^2 = 0$.
+Then
+$(\frac{A - s}{t})^2 = -1$,

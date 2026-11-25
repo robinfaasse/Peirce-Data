@@ -1,0 +1,20 @@
+Logic
+III
+76
+reached by successive additions of unity, (71) is true.
+(72) If [u]V[/u] is [u]S[/u]₁ and is [u]S[/u]₁ ⤙ [u]S[/u]₂ and is [u]S[/u]₁ ⤙ [u]S[/u]₂ ⤙ [u]S[/u]₃ and so on up
+to [u]S[/u]₁ ⤙ [u]S[/u]₂ ⤙ [u]S[/u]₃ ⤙ ... ⤙ [u]S[/u]ₙ, then [u]V[/u] is [u]S[/u]ₙ.
+For, by (66) if [u]V[/u] is [u]S[/u]₁ and is [u]S[/u]₁ ⤙ [u]S[/u]₂ , it is [u]S[/u]₂. But, by (71),
+if [u]V[/u] is [u]S[/u]₁ and [u]S[/u]₂ and is [u]S[/u]₁ ⤙ [u]S[/u]₂ ⤙ [u]S[/u]₃ it is [u]S[/u]₃; and if it is [u]S[/u]₁ and
+[u]S[/u]₂ and [u]S[/u]₃ and is [u]S[/u]₁ ⤙ [u]S[/u]₂ ⤙ [u]S[/u]₃ ⤙ [u]S[/u]₄, it is [u]S[/u]₄; and so on. And
+generally, if [del]it[/del] [ins]it be[/ins] true that were [u]V[/u] [del]at once[/del] [ins]V is also[/ins] [u]S[/u]₁ and [u]S[/u]₂ and so
+forth up to [u]S[/u]ₘ not inclusive and if [del][u]S[/u]₁ ⤙ [u]S[/u]₂ ⤙ [u]S[/u]₃ ⤙ ... ⤙ [u]S[/u]ₘ[/del] [ins]it would then always be [u]S[/u]ₘ[/ins] then
+if [u]V[/u] were at once [u]S[/u]₁ and [u]S[/u]₂ and so on up to [u]S[/u]ₘ inclusive [del], and[/del]
+if it were further [del][u]S[/u]₁ and [u]S[/u]₂ and so on ⤙[/del] [u]S[/u]₁ ⤙ [u]S[/u]₂ ⤙ [u]S[/u]₃ ⤙ ... ⤙ [u]S[/u]ₘ ⤙ [u]S[/u]ₘ₊₁,
+it would necessarily be also [u]S[/u]ₘ₊₁. Whence, since any [ins]whole[/ins] number
+can be reached by successive additions of one, (72) is true.
+[ured]Propositions deduced from A and B.[/ured]
+(73) Defining [u]m[/u]∞ as in (67), whatever character ρ may signify,
+[u]V[/u] is ρ ⤙ [u]m[/u]∞
+For, [del]by (67),[/del] [u]V[/u] is [u]m[/u]∞ and, by (65), if [u]m[/u]∞ then ρ ⤙ [u]m[/u]∞.
+Whence appears the truth of (73).

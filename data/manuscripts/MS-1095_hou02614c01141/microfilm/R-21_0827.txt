@@ -1,0 +1,19 @@
+points;
+$q_1$ and $q_2$, the [ins]statical[/ins] displacements which those same forces [del]produce[/del] [ins]communicate[/ins] each to the [del]other knife[/del] middle point of the other knife-edge;
+$T_1$ and $T_2$, the natural periods of oscillation of the two pendulums;
+$T_1'$ and $T_2'$, the periods of oscillation of the two pendulums when each is swung alone on the given support.
+
+If horizontal forces $f_1$ and $f_2$ be applied to the two knife-edges, the displacements produced will be
+$$\begin{array}{l}
+s_1 = f_1 p_1 + f_2 q_2 \\
+s_2 = f_2 p_2 + f_1 q_1.
+\end{array}$$
+These give
+$$\begin{array}{l}
+f_1 = \frac{1}{p_1 p_2 - q_1 q_2} (p_2 s_1 - q_2 s_2) \\
+f_2 = \frac{1}{p_1 p_2 - q_1 q_2} (p_1 s_2 - q_1 s_1).
+\end{array}$$
+The work done will be
+$$s_1 f_1 + s_2 f_2 = \frac{1}{p_1 p_2 - q_1 q_2} (p_2 s_1^2 - (q_1 + q_2) s_1 s_2 + p_1 s_2^2).$$
+
+Hence, the potential energy of a situation [del]will be[/del] defined by $q_1, q_2$, $s_1$ and $s_2$ will be

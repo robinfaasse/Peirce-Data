@@ -1,0 +1,21 @@
+Logic
+[ured]TIP[/ured]
+76
+
+[u]3[/u][u]u[/u]/=, IF [u]v[/u] IS [del]BOTH[/del] [u]a[/u] AND [u]b[/u], THEN [u]v[/u] IS [u]a[/u].
+[u]4[/u][u]u[/u]/=, IF [u]v[/u] IS [u]a[/u], THEN [u]v[/u] IS EITHER [u]a[/u] OR [u]b[/u].
+[u]5[/u][u]u[/u]/=, IF [u]v[/u] IS BOTH [u]a[/u] [del][ins]AND[/ins] AND[/del] [u]b[/u], THEN [u]v[/u] IS BOTH [u]b[/u] AND [u]a[/u].
+[u]6[/u][u]u[/u]/=, IF [u]v[/u] IS EITHER [u]b[/u] OR [u]a[/u], THEN [u]v[/u] IS EITHER [u]a[/u] OR [u]b[/u].
+[u]7[/u][u]u[/u]/=, IF [u]v[/u] IS BOTH [u]a[/u] AND BOTH [u]b[/u] AND [u]c[/u] (WHERE [u]c[/u] [ins]signifies[/ins] SOME definite
+character, no matter what) THEN [u]v[/u] IS BOTH [del], BOTH[/del] [u]a[/u] AND [u]b[/u], AND [u]c[/u] ;
+AND WE SAY THAT [u]v[/u] IS AT ONCE [u]a[/u], [u]b[/u], [del]AND[/del] [ins]AND[/ins] [u]c[/u].
+[u]8[/u][u]u[/u]/=, IF [u]v[/u] IS EITHER [del], EITHER[/del] [u]a[/u] OR [u]b[/u], OR [u]c[/u], THEN [u]v[/u] IS EITHER [u]a[/u]
+OR EITHER [u]b[/u] OR [u]c[/u]; AND WE SAY THAT [u]v[/u] IS EITHER [u]a[/u], [u]b[/u], OR [u]c[/u].
+[del]9[u]u[/u]/=, IF [u]v[/u] IS EITHER [u]a[/u] OR BOTH [u]b[/u] AND [u]c[/u], THEN [u]v[/u] IS EITHER [u]a[/u]
+OR [u]b[/u].[/del]
+[u]9[/u][u]u[/u]/=, IF [u]v[/u] IS BOTH [u]a[/u] AND EITHER [u]b[/u] OR [u]c[/u], THEN [u]v[/u] IS EITHER
+BOTH [u]a[/u] AND [u]b[/u] OR [u]c[/u].
+[u]10[/u][u]u[/u]/=, IF [u]v[/u] IS [u]a[/u], THEN [del][u]v[/u] IS[/del] IF [u]b[/u], THEN [u]a[/u]
+[u]10[/u][u]u[/u]/[u]R[/u]=, IF [u]v[/u] IS IF [u]a[/u], THEN [u]b[/u], THEN IF [u]v[/u] IS [u]a[/u], THEN [u]v[/u] IS [u]b[/u].
+[u]11[/u][u]u[/u]/=, IF [u]v[/u] IS [u]b[/u], THEN [u]v[/u] IS IF [u]a[/u], THEN [u]b[/u].
+[u]12[/u][u]u[/u]/=, EITHER [u]v[/u] IS [u]a[/u] OR [u]v[/u] IS IF [u]a[/u] THEN [u]b[/u].

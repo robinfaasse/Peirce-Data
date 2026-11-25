@@ -1,0 +1,56 @@
+[u]Icosahedron[/u] [u]Rotations about faces. 3[ins]rd[/ins] Roots of Unity[/u]
+
+[del]135[/del] [ins]135[/ins]
+[fig]Line connecting 135 to the second matrix[/fig]
+[fig]Line connecting the first matrix to the second matrix[/fig]
+[marginalia]
+(ABI)
+CDL
+[/marginalia]
+$\frac{1}{2} \begin{vmatrix} -1 & -\frac{1}{e} & e \\ -\frac{1}{e} & -e & 1 \\ -e & 1 & \frac{1}{e} \end{vmatrix}$
+$\frac{1}{2} \begin{vmatrix} -1 & \frac{1}{e} & -e \\ -\frac{1}{e} & -e & 1 \\ [del]H[/del] e & [del]H[/del] 1 & \frac{1}{e} \end{vmatrix}$
+
+[fig]Line connecting 124 to the second matrix[/fig]
+[marginalia]
+ABK
+CDJ
+124
+[/marginalia]
+$\frac{1}{2} \begin{vmatrix} -1 & -\frac{1}{e} & -e \\ -\frac{1}{e} & -e & -1 \\ e & -1 & \frac{1}{e} \end{vmatrix}$
+$\frac{1}{2} \begin{vmatrix} -1 & \frac{1}{e} & e \\ -\frac{1}{e} & -e & -1 \\ -e & -1 & \frac{1}{e} \end{vmatrix}$
+
+[fig]Line connecting 134 to the second matrix[/fig]
+[marginalia]
+EFA
+GHD
+134
+[/marginalia]
+$\frac{1}{2} \begin{vmatrix} -\frac{1}{e} & -e & 1 \\ e & -1 & -\frac{1}{e} \\ 1 & \frac{1}{e} & -e \end{vmatrix}$
+$\frac{1}{2} \begin{vmatrix} -\frac{1}{e} & e & 1 \\ -e & -1 & -\frac{1}{e} \\ 1 & -\frac{1}{e} & -e \end{vmatrix}$
+
+[fig]Line connecting 152 to the second matrix[/fig]
+[marginalia]
+EFG
+GHB
+152
+[/marginalia]
+$\frac{1}{2} \begin{vmatrix} -\frac{1}{e} & e & -1 \\ -e & -1 & -\frac{1}{e} \\ -1 & \frac{1}{e} & -e \end{vmatrix}$
+$\frac{1}{2} \begin{vmatrix} -\frac{1}{e} & -e & -1 \\ e & -1 & -\frac{1}{e} \\ -1 & -\frac{1}{e} & -e \end{vmatrix}$
+
+[fig]Line connecting 132 to the second matrix[/fig]
+[marginalia]
+IJE
+KLH
+132
+[/marginalia]
+$\frac{1}{2} \begin{vmatrix} -e & 1 & -\frac{1}{e} \\ 1 & \frac{1}{e} & -e \\ -\frac{1}{e} & e & -1 \end{vmatrix}$
+$\frac{1}{2} \begin{vmatrix} -e & 1 & -\frac{1}{e} \\ 1 & \frac{1}{e} & e \\ -\frac{1}{e} & -e & -1 \end{vmatrix}$
+
+[fig]Line connecting 145 to the second matrix[/fig]
+[marginalia]
+IJG
+KLF
+145
+[/marginalia]
+$\frac{1}{2} \begin{vmatrix} -e & -1 & -\frac{1}{e} \\ -1 & \frac{1}{e} & e \\ -\frac{1}{e} & -e & -1 \end{vmatrix}$
+$\frac{1}{2} \begin{vmatrix} -e & -1 & -\frac{1}{e} \\ -1 & \frac{1}{e} & -e \\ -\frac{1}{e} & e & -1 \end{vmatrix}$

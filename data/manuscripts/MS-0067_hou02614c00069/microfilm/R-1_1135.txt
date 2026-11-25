@@ -1,0 +1,15 @@
+[fig]Geometric diagram showing a sector of a circle with inscribed lines[/fig] [del]h = [ins]1[/ins]/sin(45°+a)[/del] = √2 (cos [del]a[/del] [ins]x[/ins] + sin [del]a[/del] [ins]x[/ins])⁻¹
+[u]sin (45° + y)[/u] = h [u]sin (45° + x)[/u]
+[del]tan[/del] [ins]tan[/ins] (45° + z) = k [u]tan (45° + x)[/u]
+
+[u]1[/u]/√2 (cos y + sin y) = [u]h[/u]/√2 (cos x + sin x)
+
+[u]cos z + sin z[/u]/cos z - sin z = k [u]cos x + sin x[/u]/cos x - sin x
+
+= [u]k[/u]/h [u]cos y + sin y[/u]/cos x - sin x
+
+cos y + sin y = [del]h[/del]/[del]k[/del] (cos x + sin x)
+
+[u]cos z + sin z[/u]/cos z - sin z = [del]k[/del]/[del]h[/del] [u]cos y + sin y[/u]/cos x - sin x
+
+cos z + sin z = (cos y + sin y) [u]cos z - sin z[/u]/cos x - sin x

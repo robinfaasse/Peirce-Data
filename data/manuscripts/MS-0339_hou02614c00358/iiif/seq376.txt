@@ -1,0 +1,32 @@
+From A and B alone. 203r
+
+(14) Identify m=q Either m<n or p<m
+(15) .˙. Either m<n or n<m
+(16) .˙. m<m
+(16 1/2) .˙. p<m<m
+Identify (m<n)=q
+(17) Either m [del]or p<m<n[/del] [ins]or p<m<n[/ins]
+[del]p<m<n, m, n[/del]
+(18) p<m<m
+(19) p<n∞
+(20) n∞<m<m (m<m)<n∞
+(20 1/2) Granting that if p is true q is true, then p<q p<q<r
+q<p<r p<q
+From A and C alone. p<q (p<q)<r
+
+(21) m=s Either m<n or if m<t then t [del]x[/del] [ins]+[/ins] (x<y)<z [del]≠ z[/del] [ins]=z[/ins]
+(22) m=s<t Either (s<t)<n or if [del]s is true[/del] t is true [ins]s is true[/ins] [(x<y)<z]<[del]φ[/del]x [del]φ[/del]y
+[del]x<y<y<y[/del]
+(23) m<n=s Either m is true or if (m<n)<t is true t
+[del]From (22) and (23)[/del]
+From (22) and (23) either (x<y)<y and x are both true
+or both false or y is true
+(24) m<n=s<t Either m is true or if m is true, t is true [ins]Nothing[/ins]
+(25) If m<s either [del]m is true[/del] [ins]m<n[/ins] or if s<t, t is true
+(26) If m<s<t either m<n or if s is true, t is true
+(27) If (m<n)<s either m is true or if s<t, t is true
+(28) If (m<n)<s<t either m is true or if s is true, t is true
+From (25) (29) If m<s and s<(m<n) then (m<n) [[del]If m<s[/del] [ins]if s<m<n[/ins] then (s<m<n)<m<n]
+(30) From (26) If m<s<m<n if [del]s is true m<n is true[/del] [ins]if s then (m<s<m<n)<m<n[/ins] whence by B
+(31) From (27) If (m<n)<s if s<m then m is true [[del]If (m<n)<s then (s<m)<m[/del] [ins]If s<m then [(m<n)<s]<m[/ins]]
+(32) From 28 If (m<n)<s<m if s is true m is true if (m<n)<s<m then s<m

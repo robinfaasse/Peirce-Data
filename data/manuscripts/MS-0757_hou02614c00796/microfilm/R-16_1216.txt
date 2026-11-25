@@ -1,0 +1,31 @@
+$(a \prec b) \prec (c \prec d)$		$a\bar{b} + \bar{c} + d$
+$a \prec [b \prec (c \prec d)]$		$\bar{a} + \bar{b} + \bar{c} + d$
+$a \prec [(b \prec c) \prec d]$		$\bar{a} + \bar{b}c + d$
+$[(a \prec b) \prec c] \prec d$		$(\bar{a} + b)\bar{c} + d$
+$[a \prec (b \prec c)] \prec d$		$ab\bar{c} + d$
+
+
+$(a \prec b) \prec (c \prec d) = c \prec [(b \prec a) \prec d] = (\bar{c} \bar{\prec} d) \prec (a \bar{\prec} b)$
+
+$(a \prec b) \prec (c \prec d)$		$a\bar{b} + \bar{c} + d$
+$(a \prec b) \prec (c \bar{\prec} d)$		$a\bar{b} + c\bar{d}$
+$(a \prec b) \bar{\prec} (c \prec d)$		$(\bar{a} + b)c\bar{d}$
+$(a \bar{\prec} b) \prec (c \prec d)$		$\bar{a} + b + \bar{c} + d$
+$(a \prec b) \bar{\prec} (c \bar{\prec} d)$		$(\bar{a} + b)(\bar{c} + d)$
+$(a \bar{\prec} b) \prec (c \bar{\prec} d)$		$\bar{a} + b + c\bar{d}$
+$(a \bar{\prec} b) \bar{\prec} (c \prec d)$		$ab\bar{c}\bar{d}$
+$(a \bar{\prec} b) \bar{\prec} (c \bar{\prec} d)$		$a\bar{b}(\bar{c} + d)$
+
+
+$\left. \begin{aligned} a \prec (b \prec 0) \\ b \prec (a \prec 0) \end{aligned} \right\} = \bar{a} + \bar{b}$
+
+$(a + b)c = ac + bc$
+
+$(\bar{a} \prec b) \prec \bar{c}$		$(\bar{a} \bar{\prec} c) \prec b\bar{c}$
+
+$(a \prec b) \prec c$		$(a \prec \bar{c}) \prec (b \bar{\prec} c)$		$(a \prec b) \prec c$		$(b \prec c) \bar{\prec} (\bar{c} \bar{\prec} a)$
+$a\bar{b} + c$		$ac + b\bar{c}$		$a\bar{b} + c$		$(a + c)(\bar{b} + c)$
+[del]$(a \prec b) \prec c \prec b\bar{c}$[/del]		$\bar{a}\bar{c}$
+$\bar{a} + \bar{b}\bar{c}$		$a(b + c) \prec ab + c$
+[del]$a \bar{\prec} (b \prec c) \prec (a \prec b) \prec c$[/del]
+[del]$a \prec (b \bar{\prec} c)$[/del]

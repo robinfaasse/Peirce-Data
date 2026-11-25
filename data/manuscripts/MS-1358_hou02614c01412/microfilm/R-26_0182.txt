@@ -1,0 +1,27 @@
+[marginalia]
+[del]Minsoni[/del] [ins]Minsoni[/ins] Bridge 1899 Feb 23
+[/marginalia]
+
+$B D_s^4 y + W s + K X D_s y = C_0$
+$B D_s^2 y + \frac{1}{2} W s^2 + K X y = C_0 s + C_1$
+
+Put
+[del]$y$[/del] $D_s^2 y = z$
+Then $D_s^4 y = D_s^2 z = \frac{1}{2} D_z (D_s z)^2$
+
+$B \frac{1}{2} D_z (D_s z)^2 + W + K X z = 0$
+$\frac{1}{2} B (D_s z)^2 + W z + \frac{1}{2} K X z^2 + [del]C_0[/del] = [del]0[/del]$
+
+$D_s z = \sqrt{2 \frac{- W z - \frac{1}{2} K X z^2 + C_0}{B}}$
+
+$D_z s = \frac{1}{\sqrt{2}} \sqrt{\frac{B}{C_0 - W z - \frac{1}{2} K X z^2}}$
+
+$s = \sqrt{\frac{B}{2}} \cdot \sqrt{\frac{2}{K X}} \text{Arc sin} \frac{\frac{K X}{W} z + W}{\sqrt{W^2 + 2 C_0 K X}} + C_1$
+
+$\sqrt{W^2 + 2 C_0 K X} \sin (s - C_1) \sqrt{\frac{K X}{B}} = K X z + W$
+
+$D_s^2 y = - \frac{W}{K X} + \frac{\sqrt{W^2 + 2 C_0 K X}}{K} \sin (s - C_1) \sqrt{\frac{K X}{B}}$
+
+$D_s y = - \frac{W}{K X} s - \frac{\sqrt{B}}{\sqrt{K X}} \frac{\sqrt{W^2 + 2 C_0 K X}}{K} \cos (s - C_1) \sqrt{\frac{K X}{B}} + C_2$
+
+$y = - \frac{1}{2} \frac{W}{K X} s^2 - \frac{B \sqrt{W^2 + 2 C_0 K X}}{K X} \sin (s - C_1) \sqrt{\frac{K X}{B}} + C_2 s + C_3$

@@ -1,0 +1,17 @@
+[129]
+
+$(\lambda-\lambda_1)(\lambda-\lambda_2)(\lambda-\lambda_3) = 0$
+
+$\lambda^3 - \lambda^2(\lambda_1 + \lambda_2 + \lambda_3)$
+$+ \lambda(\lambda_1\lambda_2 + \lambda_2\lambda_3 + \lambda_3\lambda_1) - \lambda_1\lambda_2\lambda_3$
+[u]                                        [/u]
+
+$(a_1 - \lambda_1)(a_2 - \lambda_2)(a_3 - \lambda_3)$
+
+$= a_1 a_2 a_3 - a_1 a_2 \lambda_3 - a_2 a_3 \lambda_1 - a_3 a_1 \lambda_2$
+$+ a_1 \lambda_2 \lambda_3 + a_2 \lambda_3 \lambda_1 + a_3 \lambda_1 \lambda_2$
+$- \lambda_1 \lambda_2 \lambda_3$
+
+$= x_1^2 a_2 a_3 + x_2^2 a_3 a_1 + [del]x[/del][ins]x_3^2[/ins] a_1 a_2$
+$- a_1 a_2 \lambda_3 - a_2 a_3 \lambda_2 - a_3 a_1 \lambda_2$
+$+ a_1 \lambda_2 \lambda_3 + a_2 \lambda_3 \lambda_1 + a_3 \lambda_1 \lambda_2$

@@ -1,0 +1,15 @@
+$$y = x^n + ax$$
+Ex. $y = ax^n + bx^{n-1} + cx^{n-2} + dx^{n-3} + \text{etc}$
+
+$$\left(x + \frac{1}{2}\right)^2$$
+$$x^2 + x + \frac{1}{4}$$
+$$x^3 \dots$$
+
+$$\begin{array}{r}
+x + \frac{1}{2} \\
+\underline{\times\ x^2 + x + \frac{1}{4}} \\
+x^3 + x^2 + \frac{1}{4}x \\
+\underline{\phantom{x^3} + \frac{1}{2}x^2 + \frac{1}{2}x + \frac{1}{8}} \\
+\hline
+x^3 + \frac{3}{2}x^2 + \frac{3}{4}x + \frac{1}{8}
+\end{array}$$

@@ -1,0 +1,27 @@
+$$\Pi_{i} + \mathfrak{U}_{ij} \cdot b_{ij} = \overline{b_{ij}} \cdot \overline{m_{i}} + (m_{i} + \mathfrak{u}_{ij}) \cdot b_{ij} = \overline{m_{i}} + m_{i} \cdot b_{ij}$$
+$$= ( \overline{m_{i}} + m_{i} ) \cdot ( \overline{m_{i}} + b_{ij} )$$
+$$\mathfrak{N}_{j} \cdot ( \mathfrak{N}_{ji} + b_{ij} ) = ( \overline{b_{ij}} + m_{j} ) \cdot \frac{ [del]\overline{m_{j}} \cdot m_{i}[/del] }{ ( \overline{m_{j}} \cdot m_{i} + b_{ij} ) }$$
+$$= ( \overline{b_{ij}} + m_{j} ) \cdot ( \overline{m_{j}} + b_{ij} ) \cdot ( \overline{m_{i}} + b_{ij} ) = m_{j} \cdot ( \overline{m_{i}} + b_{ij} )$$
+
+This will not do.
+$\mathfrak{N}_{i} \cdot b_{i}$ Everything is $b$
+$\mathfrak{N}_{i} + b_{i}$ Something is $b$
+
+187r
+$\mathfrak{V}_{i}$ the particular choice of $i$ actually made [del]allows[/del] [ins]does not falsify[/ins] the proposition to be true (other indices being suitably chosen)
+$\mathfrak{N}_{i}$ the particular choice of $i$ actually made falsifies the proposition (no matter how other indices are chosen) which with a different choice would be true
+$\mathfrak{U}_{ij}$ the particular choice of $j$ actually made 
+$\mathfrak{V}_{i}$ either no choice of $i$ [del]will[/del] will allow the proposition to be true or the particular choice made will do so.
+$\mathfrak{N}_{i}$ some choice of $i$ will allow the proposition to be true but not this choice.
+$\mathfrak{U}_{ij}$ [del]with[/del] [ins]either[/ins] the choice of $i$ actually made does not allow the proposition [del]to be true[/del] or the choice of $j$ allows it to be true.
+$\mathfrak{N}_{ii}$ the choice of $i$ actually made allows the proposition to be true but the actual choice of $i$ prevents it.
+$\mathfrak{N}_{i}$ the choice of $i$ actually made allows the proposition to be true
+$\mathfrak{U}_{ij} = m_{i} + \mathfrak{u}_{j}$
+$\mathfrak{N}_{i} = F + m_{i}$     $(\overline{F} \cdot \overline{m_{i}} + m_{i}) \cdot ( \overline{m_{i}} + m_{i} )$
+$\mathfrak{N}_{i} \cdot \mathfrak{U}_{ij} = (F + m_{i}) \cdot (m_{i} + \mathfrak{u}_{j}) = F \cdot m_{i} + m_{i} \cdot m_{j}$
+We thus see that $\mathfrak{N}_{i} \cdot \mathfrak{U}_{ij}$ is not equal to $\mathfrak{U}_{j} \cdot \mathfrak{N}_{ji}$ ; but [del]the[/del]
+$\mathfrak{N}_{i} \cdot \mathfrak{U}_{ij} \cdot V_{ii} = \mathfrak{U}_{j} \cdot \mathfrak{N}_{ji} \cdot \mathfrak{V}_{ii}$
+[del]$\mathfrak{V}$[/del] $\overline{ \mathfrak{N}_{i} + \mathfrak{U}_{ij} + \mathfrak{V}_{ii} } = \overline{U} \cdot \overline{m_{i}} + \overline{m_{i}} \cdot \overline{m_{i}} + \overline{V}_{ii}$
+$= (\overline{U} + m_{i}) \cdot (\overline{m_{i}} + \overline{m_{j}}) \cdot \overline{V}_{ii} + V_{ii}$
+$\mathfrak{N}_{i} \cdot b_{i} = ( \overline{b_{i}} + m_{i} ) \cdot b_{i} = m_{i} \cdot b_{i}$
+$\mathfrak{N}_{i} + b_{i} = [del]b_{i}[/del] \overline{b_{i}} \cdot m_{i} + b_{i} = \overline{m_{i}} + b_{i}$

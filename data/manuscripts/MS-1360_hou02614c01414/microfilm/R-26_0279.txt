@@ -1,0 +1,37 @@
+Calculation of [del]the[/del] Horizontal component [del]Q[/del] [ins]H[/ins]
+
+Let [del]X[/del] be the half span of the middle [del]2850 feet[/del]
+
+[del]H = [frac]\frac{1}{y} \int_{-X}^{+X} M y dx[/frac][/del]
+
+Let [del]X[/del] be the half span of the girder 1550 ft
+
+[del]m = \frac{w}{2} (X^2 - x^2)[/del] [del]\frac{y'}{y} = (\frac{x}{X})^2[/del] [del]y' = \frac{y}{X^2} x^2[/del]
+
+[del]my = \frac{w}{2} \frac{y}{X^2} (X^2 - x^2) x^2 =[/del]
+
+[del]\int my dx = \frac{w}{2} \frac{y}{X^2} (\frac{1}{3} X^2 x^3 - \frac{1}{5} x^5)[/del]
+
+[del]\int_{-X}^{+X} my dx = w y X (\frac{1}{3} X^2 - \frac{1}{5} X^2)[/del]
+
+[del]y = y - \frac{y}{X^2} x^2[/del]
+
+[del]My = \frac{w}{2} y (X^2 - x^2) - \frac{w}{2} \frac{y}{X^2} (X^2 - x^2) x^2[/del]
+
+[del]\int My dx = \frac{w}{2} y (X^2 x - \frac{1}{3} x^3) - \frac{w}{2} \frac{y}{X^2} (\frac{1}{3} X^2 x^3 - \frac{1}{5} x^5)[/del]
+
+[del]\int_{-X}^{+X} = w y X (X^2 - \frac{1}{3} X^2) - w y X (\frac{1}{3} X^2 - \frac{1}{5} X^2) = w y X (\frac{2}{3} X^2 - \frac{2}{15} X^2)[/del]
+[del]= w y X (\frac{10}{15} X^2 - \frac{2}{15} X^2) =[/del] [del]w y X \frac{8}{15} X^2[/del]
+
+[del]l - \frac{8}{3} \frac{f^2}{l} = arc parabola[/del] [del]l, sec^2 \alpha = 1200 ft[/del]
+
+[del]l + \frac{16 f^2}{3 l}[/del]
+
+[del]y^2 = y^2 - 2 \frac{y^2}{X^2} x^2 + \frac{y^2}{X^4} x^4[/del]
+
+[del]\int y^2 dx = y^2 x - 2 \frac{y^2}{3 X^2} x^3 + \frac{1}{5} \frac{y^2}{X^4} x^5[/del]
+
+[del]\int_{-X}^{+X} y^2 dx = 2 y^2 X - \frac{4}{3} y^2 X + \frac{2}{5} y^2 X = \frac{16}{15} y^2 X[/del]
+
+[del]\frac{2.4}{1.33}[/del] [del]\frac{20}{15} - \frac{6}{15} = \frac{14}{15}[/del]
+[del]1.06[/del]

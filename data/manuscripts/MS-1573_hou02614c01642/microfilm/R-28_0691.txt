@@ -1,0 +1,18 @@
+While every physical process can be reversed
+without violation of the law of mechanics, if
+the psychical law of habit comes in it forbids
+such reversal.
+
+[ins]$\mathcal{A}_1$[/ins]
+$\mathcal{A}_1 p_{n-1} + \mathcal{A}_2 p_{n-2} + \text{etc} = p_n$
+
+$\begin{aligned}
+&\mathcal{A}_1^2 \\
++ &\mathcal{A}_2
+\end{aligned} p_{n-1} + \begin{aligned}
+&\mathcal{A}_1 \mathcal{A}_2 \\
++ &\mathcal{A}_3
+\end{aligned} p_{n-2} + \dots = p_{n+1}$
+
+$\left(\mathcal{A}_1^3 + 2 \mathcal{A}_1 \mathcal{A}_2 + \mathcal{A}_3\right) p_{n-1} + \left(\mathcal{A}_1^2 \mathcal{A}_2 + \mathcal{A}_1 \mathcal{A}_3 + \mathcal{A}_2^2 + \mathcal{A}_4\right) p_{n-2}$
+$+ \text{etc} = p_{n+2}$

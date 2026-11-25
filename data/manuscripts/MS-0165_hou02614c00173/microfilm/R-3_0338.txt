@@ -1,0 +1,32 @@
+[pn]91[/pn]
+
+[u]Art. 39. Theorem 21. If, of four whole numbers, the first is greater
+than the second, and the third [del]both[/del] at least as great as the fourth
+and greater than 0, then the product of the first and third is greater
+than that of the second and fourth.[/u]
+
+[u]Demonstration[/u]. Let A, B, C, D be four cardinal numbers,
+such that A > B, C [del]>[/del] [ins]≽[/ins] D, C > 0. Then, I say that
+A.C > B.D.
+
+First, if M is any whole number, and M' is the number next greater,
+by Axiom 9, M'C = MC + C. Hence, since C > 0, by Theorem 16, M'C
+is greater than MC. [del]Hence, by Theorem 4 and Definition 38, if MC > BC, then M'C > BC.[/del] Hence, the character of forming, when multiplied into C,
+a product greater than [del]BC[/del] [ins]B'C = BC + C[/ins] is one which advances in the series of cardinal
+numbers. But, by Axiom 9, if [del]M'[/del] [ins]B'[/ins] is the number next greater than B, [del]AC = AC + C[/del] [ins]B'C = BC + C[/ins]
+and as just seen [del]AC > AC[/del] [ins]B'C > BC[/ins]. Thence, the product of C by any number greater than
+B is greater than [del]AC[/del] [ins]BC[/ins]. Now, by hypothesis, [del]B > A[/del] [ins]A > B[/ins]. Hence, [del]BC > AC[/del] [ins]AC > BC[/ins].
+
+Second, if N is any whole number, and N' is the number next greater, [del]by[/del]
+reasoning similar to the above, if [del]N > D[/del] [ins]BN ≽ BD[/ins], then BN' > BD.
+But BD ≽ BD. Hence, if any number, as P, be at least as great as D,
+BP ≽ BD. Now, by hypothesis, C ≽ D. Hence, BC ≽ BD.
+
+Since, therefore, AC > BC and BC ≽ BD, it follows that AC > BD. Q.E.D.
+
+[u]Art. 40. Theorem 22. The product of any [ins]whole[/ins] number by 1 is that number.[/u]
+
+[u]Demonstration[/u]. Let N be any whole number. Then, I say, that 1.N = N.
+For, by Axiom 8, 1 is the number next greater than 0. Hence, by Axiom 9, [del]1.N[/del]
+1.N = 0.N + N. But, by Theorem 18, 0.N = 0. Hence, by Theorem 12, 0.N + N = N.
+Hence, 1.N = N. Q.E.D.

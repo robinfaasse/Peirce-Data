@@ -1,0 +1,17 @@
+The forces on the truss are as follows
+[u]1[sup]st[/sup][/u], its weight
+[u]2[sup]d[/sup][/u], so much of the lift of the cable as [del]makes[/del] [ins]brings[/ins] the downward force upon it up to what it is at C.
+[u]3[sup]d[/sup][/u] the weight of the suspenders,
+[u]4[sup]th[/sup][/u] the lift due to the additional horizontal pull of the cable,
+[u]5[sup]th[/sup][/u] the reactions of the four piers.
+
+[u]1[sup]st[/sup][/u]. The weight is K dx and extends from x[sub]-B[/sub] to x[sub]B[/sub].
+
+[u]2[sup]d[/sup][/u]. The weight of the cable is K [radic](1 + 4 (y[sub]c[/sub][sup]2[/sup]/x[sub]c[/sub][sup]4[/sup]) x[sup]2[/sup]) dx; that of suspenders K' (y[sub]c[/sub]/x[sub]c[/sub][sup]2[/sup]) x[sup]2[/sup] dx.
+Thus, the (negative) downward force on the truss from this cause is K ([radic](1 + 4 (y[sub]c[/sub][sup]2[/sup]/x[sub]c[/sub][sup]4[/sup]) x[sup]2[/sup]) - [radic](1 + 4 (y[sub]c[/sub][sup]2[/sup]/x[sub]c[/sub][sup]2[/sup]))) dx + K' ([del]x[sup]2[/sup]/x[sub]c[/sub][sup]2[/sup][/del] [ins]2 x[sup]2[/sup]/x[sub]c[/sub][sup]2[/sup][/ins] - 1) y[sub]c[/sub] dx
+
+[u]3[sup]d[/sup][/u] [del]But[/del] the weight of the [del]cab[/del] suspenders must be added, making [del]in all (K [radic](1 + 4 (y[sub]c[/sub][sup]2[/sup]/x[sub]c[/sub][sup]4[/sup]) x[sup]2[/sup]) + 2 K' (x[sup]2[/sup]/x[sub]c[/sub][sup]2[/sup]) y[sub]c[/sub]) dx for the part not[/del]
+{K ([radic](1 + 4 (y[sub]c[/sub][sup]2[/sup]/x[sub]c[/sub][sup]4[/sup]) x[sup]2[/sup]) - [radic](1 + 4 (y[sub]c[/sub][sup]2[/sup]/x[sub]c[/sub][sup]2[/sup]))) + K' y[sub]c[/sub] (2 x[sup]2[/sup]/x[sub]c[/sub][sup]2[/sup] - 1)} dx
+as the [del]part[/del] additional part from x[sub]-c[/sub] to x[sub]c[/sub]. The quantity written y[sub]c[/sub] should properly be y[sub]o[/sub] - y[sub]c[/sub].
+
+[u]4[sup]th[/sup][/u]. When the horizontal pull is just sufficient to bring cable and suspenders into place, the vertical pull upon the cable at c is the weight of the cable and suspenders between that point and the lowest point of the cable

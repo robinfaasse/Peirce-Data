@@ -1,0 +1,39 @@
+$ab \cdot a\bar{b}$ $a\bar{b}$ $\bar{a}b$
+
+$0$ $ab$ $a\bar{b}$ $\bar{a}b$ $a$ $b$ $ab+\bar{a}b = (a+\bar{a})b$
+$ab+\bar{a}\bar{b} = (a+\bar{b})(\bar{a}+b)$ $\bar{b}$ $\bar{a}$ $a+\bar{b}$ $\bar{a}+b$ $\infty$
+
+$2^{2^2} = 16$
+$2^{2^3} = 2^8$
+
+$\begin{matrix} 16 \\ \underline{16} \\ 256 \end{matrix}$
+
+$2^{2^{n+1}} = 2^{2^n \cdot 2} = (2^{2^n})^2$
+$2^4$ $4^8$ $16^{16}$ $256^2$
+
+$\begin{matrix} n & 2^n & 2^{2^n} \\ 0 & 1 & 2 \\ 1 & 2 & 4 \\ 2 & 4 & 16 \\ 3 & 8 & 256 \\ 4 & 16 & 256^2 \\ 5 & 32 & 256^4 \\ & & 256^8 \\ & & 256^{16} \\ & & 256^{32} \end{matrix}$
+$\begin{matrix} 2 \\ 4 \\ 16 \\ 256 \\ 256^2 \\ 256^4 \\ 256^8 \\ 256^{16} \\ 256^{32} \end{matrix}$
+
+$2^{2^{2^{n+1}}} = 2^{2^{2^n \cdot 2}} = 2^{(2^{2^n})^2} = 2^{(2^{2^n})(2^{2^n})} = (2^{2^{2^n}})^{2^{2^n}}$
+
+[del]$(a+b)(a+c)(b+c)(\bar{a}+\bar{b})(\bar{a}+\bar{c})(\bar{b}+\bar{c})$[/del]
+
+$ab+a\bar{b}c$
+$a(b+c)$
+[del]$b+\bar{a}\bar{b}c$[/del]
+$(a+c)(b+c)$
+$(a+\bar{b})(\bar{a}+b)$
+
+$abc+\bar{a}\bar{b}c+\bar{a}b\bar{c}$
+
+$abc$ $ab\bar{c}$ $a\bar{b}c$ $a\bar{b}\bar{c}$ $\bar{a}bc$ $\bar{a}b\bar{c}$ $\bar{a}\bar{b}c$ $\bar{a}\bar{b}\bar{c}$
+$ac$ $bc$ $a(b+c)$ $b(a+c)$ $c(a+b)$ $abc+\bar{a}\bar{b}\bar{c}$
+$a(b+c)(\bar{b}+\bar{c})$ $b(a+c)(\bar{a}+\bar{c})$ $c(a+b)(\bar{a}+\bar{b})$ $ab+\bar{a}\bar{b}$ $(ab+\bar{a}\bar{b})c$
+$(a+b)(\bar{a}+\bar{b})c$ $ab$ [del]$ab+ab\bar{c}$[/del] $bc$ $(ab+\bar{a}\bar{b})\bar{c}$
+$abc+\bar{a}\bar{b}\bar{c}$ $ab$ $\bar{a}c$ $a(b+c)\bar{b}$
+$(a+b)(\bar{a}+\bar{b})c$ [del]$\bar{b}(a+c)(\bar{a}+\bar{c})$[/del] $\bar{b}c$
+$a(b+c)$ $b(a+c)$ $b(a+c)$ $ab+\bar{a}\bar{b}c$
+$b(a+c)$ $a(b+c)$ $ac+\bar{a}\bar{b}c$ $ac+\bar{a}b\bar{c}$
+$bc+a\bar{b}\bar{c}$ $(a+b)c$ $bc+\bar{a}\bar{b}\bar{c}$
+[del]$b(c+a)$[/del]
+[del]$b(c+a)\bar{a}\bar{b}\bar{c}$[/del]

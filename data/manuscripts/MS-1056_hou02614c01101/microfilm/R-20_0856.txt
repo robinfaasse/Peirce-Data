@@ -1,0 +1,23 @@
+Putting in (3) $m=0$ we have
+$$\mathcal{O}_{1} = \mathcal{O}_{0} + \mathcal{O}_{-1}$$
+or, by (1)
+$$\mathcal{O}_{1} + \mathcal{O}_{0} = \mathcal{O}_{0} + \mathcal{O}_{-1}$$
+Whence putting in (3) first $m=1$ and then $m=-1$
+$$\mathcal{O}_{2} = - \mathcal{O}_{-2}$$
+and [del]since[/del] $\mathcal{O}_{1} = \mathcal{O}_{-1}$
+$$\mathcal{O}_{2} + \mathcal{O}_{1} = \mathcal{O}_{1} - \mathcal{O}_{-2}.$$
+
+But if for any value of $i$
+$$(-)^{i} \mathcal{O}_{i} + \mathcal{O}_{-i} = 0$$
+and $(-)^{i+1} \mathcal{O}_{i+1} + \mathcal{O}_{-i-1} = 0$
+Then the [ins]difference[/ins] [del]sum[/del] of these two gives
+$$(\mathcal{O}_{i} + \mathcal{O}_{i+1}) + (-)^{i} (\mathcal{O}_{-i-1} + \mathcal{O}_{-i}) = 0$$
+and putting in (3) first $m=i$ and then $m=-i-1$ we have
+$$\mathcal{O}_{i+2} + (-)^{i} \mathcal{O}_{-i-2} = 0$$
+that is if an equation of this form holds for two successive
+values of $i$ it holds for all values. But we have seen
+that it holds for $0$ and $1$ and consequently
+(4) [del]$\mathcal{O}_{m}$[/del] $\mathcal{O}_{m} = (-)^{m} \mathcal{O}_{-m}$
+
+We may write $\mathcal{O}_{-m} = \mathcal{O'}_{m}$ and call it "glyph $m$", glyph
+being phyll written backwards.

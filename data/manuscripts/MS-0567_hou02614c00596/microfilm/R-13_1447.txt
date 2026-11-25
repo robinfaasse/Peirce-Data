@@ -1,0 +1,27 @@
+[pn]26[/pn]
+
+$\Pi_{i} a_{i} = a_{1} a_{2} a_{3} \text{ etc} = \Pi_{i} \Pi_{j} a_{i} a_{j}$
+
+$\Sigma_{i} a_{i} = a_{1} + a_{2} + a_{3} + \text{etc}$
+$= (a_{1} + a_{2} + a_{3} + \text{etc}) (a_{1} + a_{2} + a_{3} + \text{etc})$
+$= \Sigma_{i} \Sigma_{j} a_{i} a_{j}$.
+
+Next consider the first two indices. The proposition is of one of the four forms
+
+$\Pi_{i} \Pi_{j} a_{i j} \quad \Sigma_{i} \Pi_{j} a_{i j} \quad \Pi_{i} \Sigma_{j} a_{i j} \quad \Sigma_{i} \Sigma_{j} a_{i j}$.
+
+For the first and last of these, we have only to apply the formulae just obtained [ins][of step two][/ins] with the first two [del]of p. 17[/del]. That is,
+
+$\Pi_{i} \Pi_{j} a_{i j} = \Pi_{j} \Pi_{i} a_{i j} = \Pi_{i} \Pi_{k} \Pi_{j} a_{i j} a_{k j}$
+$= \Pi_{j} \Pi_{i} \Pi_{k} a_{i j} a_{k j} = \Pi_{j} \Pi_{l} \Pi_{i} \Pi_{k} a_{i j} a_{k l}$.
+
+$\Sigma_{i} \Sigma_{j} a_{i j} = \Sigma_{j} \Sigma_{i} a_{i j} = \Sigma_{i} \Sigma_{k} \Sigma_{j} a_{i j} a_{k j}$
+$= \Sigma_{i} \Sigma_{j} \Sigma_{k} \Sigma_{l} a_{i j} a_{k l}$.
+
+For the other two forms the proceeding is not more difficult. By the formulae for a single index
+
+$\Sigma_{i} (\Pi_{j} a_{i j}) = \Sigma_{i} \Sigma_{k} (\Pi_{j} a_{i j}) (\Pi_{j} a_{k j}) = \Sigma_{i} \Sigma_{k} \Pi_{j} a_{i j} a_{k j}$
+
+$\Pi_{i} (\Sigma_{j} a_{i j}) = \Pi_{i} \Pi_{k} (\Sigma_{j} a_{i j}) (\Sigma_{j} a_{k j})$
+
+[fig]checkmark[/fig]

@@ -1,0 +1,31 @@
+[pn]361[/pn]
+
+is to correct and extend our conceptions of reasoning;
+and it is with this end chiefly in view that I now
+proceed to give the rules for deducing consequences
+from given premises in First Intentional Logic. I
+number the steps, although considerable latitude
+in the order of their performance is permissible.
+
+§12. [u]1[ins]st[/ins] Step[/u]./ The different premises having been written with distinct indices (the
+same index not used in two propositions) are [del]written[/del] [ins]compounded[/ins] together, and all the $\Pi$'s
+and $\Sigma$'s are to be brought to the left. This can evidently be done, for
+$\Pi_i x_i \Pi_j y_j = \Pi_i \Pi_j x_i y_j$
+$\Sigma_i x_i \Pi_j y_j = \Sigma_i \Pi_j x_i y_j$
+$\Sigma_i x_i \Sigma_j y_j = \Sigma_i \Sigma_j x_i y_j$.
+
+The same premise may be written in more than
+once, different conclusions resulting according
+to the number of times each is used. In [del]each[/del] [ins]the different[/ins] repe-
+titions of a premise it is to be written with different
+indices.
+
+Already the logic of relatives teaches us here
+a novel lesson about reasoning in general.
+The student of exclusively non-relative logic
+is quite unaware that anything can be gained
+by bringing in again a premise already used. Or-
+dinary syllogistic gives no hint of such a thing; nay
+seems rather opposed to it. Yet there are traces of
+this great truth even in the ordinary Boolean
+Calculus.

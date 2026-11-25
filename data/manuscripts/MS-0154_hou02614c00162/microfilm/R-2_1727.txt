@@ -1,0 +1,23 @@
+[u]On the Problem of Map-Coloring.[/u]
+By C. S. Peirce.
+
+§1. The problem is to determine the smallest number of colors that [del]can be required[/del] [ins]will certainly suffice[/ins] to color [del]a[/del] [ins]any[/ins] map on a given surface, so that no two confine regions (that is, two regions having a common boundary line) shall have the same color.
+
+The solution depends upon Listing's theorem that the census-number of the map equals the census number of the surface on which it is drawn. Let [del]X[/del]
+X be the chorisis, or number of separate pieces, of the surface;
+K, its cyclosis;
+$\Pi$, its periphraxis.
+Then the census-number of the surface is
+$$C = X - K + \Pi,$$
+where we may assume X = 1. Let
+$\text{X}_\text{R}$ be the chorisis, or number of the regions;
+$\text{K}_\text{R}$ the sum of their cycloses;
+$\Pi_\text{R}$ the sum of their periphraxes (generally, zero).
+Then, the census-number of the regions is
+$$\text{C}_\text{R} = \text{X}_\text{R} - \text{K}_\text{R} + \Pi_\text{R}.$$
+Let
+$\text{X}_\text{B}$ be the chorisis [ins](or number)[/ins] of the boundary lines [del]of[/del] [ins]between[/ins] pairs of regions;
+$\text{K}_\text{B}$ [del]their tot[/del] the sum of their cycloses.
+Then the census-number of the boundaries is
+$$\text{C}_\text{B} = \text{X}_\text{B} - \text{K}_\text{B}.$$
+Let $\text{X}_\text{P}$ be the chorisis, or number, of points of junction of boundary lines.

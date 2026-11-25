@@ -1,0 +1,123 @@
+```
+[pn]24[/pn]
+
+| R | G | B | V |
+| --- | --- | --- | --- |
+| [del]$\frac{8}{10}$[/del] | $\frac{5}{10}$ | $\frac{2}{10}$ | $\frac{1}{10}$ |
+| $\frac{9}{10}$ | $\frac{5}{10}$ | $\frac{6}{10}$ | $\frac{5}{10}$ |
+| 81 | 64 | 36 | 25 |
+| 729 | 512 | 216 | 125 |
+| 6561 | 4096 | 1296 | 625 |
+| [del]531[/del] | [del]118[/del] | [del]47[/del] | [del]16[/del] |
+
+$\frac{3}{10}$
+$\frac{7}{10}$
+49
+343
+2401
+262
+18
+2
+[del]150[/del]
+
+3
+0
+0
+4
+9
+[del]4[/del]
+[del]14[/del]
+[del]95[/del]
+[del]90[/del]
+
+5
+[del]5[/del]
+[del]4[/del]
+[del]24[/del]
+[del]70[/del]
+
+2
+[del]2[/del]
+[del]1[/del]
+[del]20[/del]
+[del]50[/del]
+
+4
+[del]4[/del]
+[del]1[/del]
+[del]14[/del]
+[del]9[/del]
+
+9
+[del]9[/del]
+[del]1[/del]
+[del]14[/del]
+[del]9[/del]
+
+5
+[del]5[/del]
+[del]1[/del]
+[del]14[/del]
+[del]9[/del]
+
+2
+[del]2[/del]
+[del]1[/del]
+[del]14[/del]
+[del]9[/del]
+
+3.6
+[del]4.8[/del]
+3.2
+
+6.3
+[del]8.4[/del]
+4.5
+
+4.0
+5.3
+
+1.0
+1.3
+
+3 .75
+4 .66
+6 .55
+12 .28
+18 .15
+1 * 1.39
+
+3 .51
+24 .41
+12 .26
+[del]01[/del] .07
+.02
+1.08
+
+[del]27[/del] .12
+.15
+05 .02
+.02
+1.23
+
+.6
+.02
+.00
+.00
+.84
+.77
+
+$\Phi = A_0 + \sum_1^\infty ( A_i \cos \frac{2 i \vartheta t}{p} + B_i \sin \frac{2 i \vartheta t}{p} )$
+
+$D_t^2 \Phi = - a \sin \vartheta$
+
+$D_t \Phi = \Sigma - A \frac{4 i^2 \vartheta^2}{p^2} B_i \sin \frac{2 i \vartheta t}{p}$
+
+$\frac{D_t^4 \Phi}{D_t \Phi} = - D_\theta^2 D_t^2 \Phi$
+
+$= - D_t^2 (D_t \Phi)^3$
+
+$D_t^4 \Phi D_t \Phi + D_t^2 \Phi (D_t^2 \Phi)^3$
+$= D_t^2 \Phi D_t^2 \Phi D_t^2 \Phi$
+
+$D_t^4 \Phi = - a D_\theta^2 \Phi (D_t \Phi)^2 + 2 a D_t^2 \Phi D_t \Phi - a \cos \Phi D_t^2 \Phi$

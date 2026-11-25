@@ -1,0 +1,25 @@
+839
+[fig]figure[/fig] [middot] R cos [phi] + s cos ([psi] + [omega])
+R sin [phi] + s sin ([psi] + [omega])
+
+-R sin [phi] [middot] [phi]' - s sin ([psi] + [omega]) [psi]'
+R cos [phi] [middot] [phi]' + s cos ([psi] + [omega]) [psi]'
+
+R[superscript]2[/superscript] [phi]'[superscript]2[/superscript] + s[superscript]2[/superscript] [psi]'[superscript]2[/superscript] + [del]2[/del]Rs cos ([psi] + [omega] - [phi]) [phi]' [psi]'
+
+([del]JR[superscript]2[/superscript] + MI[superscript]2[/superscript][/del]) [phi]'[superscript]2[/superscript] + J[superscript]2[/superscript] [psi]'[superscript]2[/superscript] + [ins]W[/ins]2RK cos ([psi] - [phi]) [phi]' [middot] [psi]'
+
+[del]2[/del] (NR[superscript]2[/superscript] + MI[superscript]2[/superscript]) [phi]' + [ins]W[/ins]2RK cos ([phi] - [psi]) [psi]'
+[del]2[/del] J[superscript]2[/superscript] [psi]' + [ins]W[/ins]2RK cos ([phi] - [psi]) [phi]'
+
+[del]2(NR[superscript]2[/superscript] + MI[superscript]2[/superscript]) D[subscript]t[/subscript][superscript]2[/superscript] [phi] + [ins]W[/ins]2RK cos ([phi] - [psi]) D[subscript]t[/subscript][superscript]2[/superscript] [psi] - 2RK sin ([phi] - [psi]) D[subscript]t[/subscript][phi] D[subscript]t[/subscript][psi][/del]
++ 2RK sin ([phi] - [psi]) (D[subscript]t[/subscript] [psi])[superscript]2[/superscript]
+
+[del]2[/del] J[superscript]2[/superscript] D[subscript]t[/subscript][superscript]2[/superscript] [psi]' + [ins]W[/ins]2RK cos ([phi] - [psi]) D[subscript]t[/subscript][superscript]2[/superscript] [phi] - 2RK sin ([phi] - [psi]) (D[subscript]t[/subscript] [phi])[superscript]2[/superscript]
+[del]+ 2RK sin ([phi] - [psi]) D[subscript]t[/subscript][phi] D[subscript]t[/subscript][psi][/del]
+
+[fig]figure[/fig] [del]Mh (1 - cos [phi])[/del]
+Mh (1 - cos [phi]) + NR (1 - cos [phi]) + NK (1 - cos [psi]) + I ([phi] - [psi])
+[del]1/2 Mh [phi][superscript]2[/superscript] + 1/2 NR[/del]
+1/2 (Mh + NR) [phi][superscript]2[/superscript] + 1/2 NK [psi][superscript]2[/superscript] + I ([phi] - [psi])[superscript]2[/superscript]
+(Mh + NR) [phi] + 2I ([phi] - [psi])

@@ -1,0 +1,19 @@
+$$(l_1-h_1) D_t^2 \varphi_1 + g \varphi_1 = \frac{\varepsilon_1}{\mathcal{M}_1} s_1 + \frac{\varepsilon_3}{\mathcal{M}_1} s_2$$
+$$(l_2-h_2) D_t^2 \varphi_2 + g \varphi_2 = \frac{\varepsilon_2}{\mathcal{M}_2} s_2 + \frac{\varepsilon_3}{\mathcal{M}_2} s_1$$
+
+$$\frac{\varepsilon_1}{\mathcal{M}_1} D_t^2 s_1 + \frac{\varepsilon_3}{\mathcal{M}_1} D_t^2 s_2 = l_1 \frac{\varepsilon_1}{\mathcal{M}_1} D_t^2 \varphi_1 - g \frac{\varepsilon_1}{\mathcal{M}_1} \varphi_1 - l_2 \frac{\varepsilon_3}{\mathcal{M}_1} D_t^2 \varphi_2 - g \frac{\varepsilon_3}{\mathcal{M}_1} \varphi_2$$
+
+$$(l_1-h_1) D_t^4 \varphi_1 [del]+ g D_t^2 \varphi_1[/del]$$
+
+$$(l_1-h_1) D_t^4 \varphi_1 + (g + l_1 \frac{\varepsilon_1}{\mathcal{M}_1}) D_t^2 \varphi_1 + g \frac{\varepsilon_1}{\mathcal{M}_1} \varphi_1 + l_2 \frac{\varepsilon_3}{\mathcal{M}_1} D_t^2 \varphi_2 + g \frac{\varepsilon_3}{\mathcal{M}_1} \varphi_2 = 0$$
+$$(l_2-h_2) D_t^4 \varphi_2 + (g + l_2 \frac{\varepsilon_2}{\mathcal{M}_2}) D_t^2 \varphi_2 + g \frac{\varepsilon_2}{\mathcal{M}_2} \varphi_2 + l_1 \frac{\varepsilon_3}{\mathcal{M}_2} D_t^2 \varphi_1 + g \frac{\varepsilon_3}{\mathcal{M}_2} \varphi_1 = 0$$
+
+$$\{(l_1-h_1) \alpha_1^4 - (g + l_1 \frac{\varepsilon_1}{\mathcal{M}_1}) \alpha_1^2 + g \frac{\varepsilon_1}{\mathcal{M}_1}\} A_{11} + (-l_2 \frac{\varepsilon_3}{\mathcal{M}_1} \alpha_1^2 + g \frac{\varepsilon_3}{\mathcal{M}_1}) A_{21} = 0$$
+$$\{(l_2-h_2) \alpha_1^4 - (g + l_2 \frac{\varepsilon_2}{\mathcal{M}_2}) \alpha_1^2 + g \frac{\varepsilon_2}{\mathcal{M}_2}\} A_{21} + (-l_1 \frac{\varepsilon_3}{\mathcal{M}_2} \alpha_1^2 + g \frac{\varepsilon_3}{\mathcal{M}_2}) A_{11} = 0$$
+
+$A_{21}$ being small
+$$\alpha_1^2 = \frac{g}{l_1} \text{ nearly}$$
+
+[del]$(l_1-h_1) \alpha_1^4 - (g +$[/del] Hence coeff of $A_{21}$ in first [ins]equation[/ins] [del]term[/del] is
+$$(-\frac{l_2}{l_1} + 1) g \frac{\varepsilon_3}{\mathcal{M}_1}$$
+and since $l_2 = l_1$ nearly, this is very small.

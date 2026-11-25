@@ -1,0 +1,22 @@
+1. [del]{[(a \prec b) \prec c] \prec d\} \prec e[/del] [del](ab + c)\bar{d} + e = ab\bar{d} + c\bar{d} + e[/del]
+2. {[(a \prec b) \prec c] \prec d\} \prec e [del](\bar{a} + b + c)\bar{d} + e[/del] [del]\bar{a}\bar{d} + b\bar{d}[/del] + c\bar{d} + e
+3. \{(a \prec b) \prec c \prec d\} \prec e (\bar{a} + b)c\bar{d} + e = (\bar{a}\bar{b}c + bc)\bar{d} + e [ins]3 \prec 1[/ins]
+4. \{a \prec (b \prec c) \prec d\} \prec e a(\bar{b} + c)\bar{d} + e (ab + abc)\bar{d} + e [ins]4 \prec 1[/ins]
+5. \{a \prec b \prec c \prec d\} \prec e abcd + e [ins]5 \prec 4 5 \prec 3[/ins]
+6. [(a \prec b) \prec c] \prec d \prec e (\bar{a} + b)\bar{c} + \bar{d} + e [ins]2 \prec 6[/ins]
+7. [a \prec b \prec c] \prec d \prec e ab\bar{c} + \bar{d} + e [ins]2 \prec 7 \prec 6[/ins]
+8. (a \prec b) \prec (c \prec d) \prec e ab + c\bar{d} + e [ins]1 \prec 8 \prec 2[/ins]
+9. (a \prec b) \prec c \prec d \prec e ab + \bar{c} + \bar{d} + e [del]8 \prec 9[/del] [ins]8 \prec 9[/ins] [del]6 \prec 9[/del] [ins]6 \prec 9[/ins]
+10. a \prec [(b \prec c) \prec d] \prec e \bar{a} + (\bar{b} + c)\bar{d} + e [ins]2 \prec 10[/ins]
+11. a \prec (b \prec c \prec d) \prec e \bar{a} + bc\bar{d} + e [ins]11 \prec 10[/ins]
+12. a \prec (b \prec c) \prec d \prec e \bar{a} + b\bar{c} + \bar{d} + e [ins]10 \prec 12[/ins] [ins]6 \prec 12[/ins]
+13. a \prec b \prec (c \prec d) \prec e \bar{a} + \bar{b} + c\bar{d} + e [del]2 \prec 13[/del] [ins]10 \prec 13[/ins]
+14. a \prec b \prec c \prec d \prec e \bar{a} + \bar{b} + \bar{c} + \bar{d} + e [ins]13 \prec 14 12 \prec 14[/ins]
+
+[fig]Hasse diagram of the poset relations[/fig]
+
+a \prec b \prec c \bar{a} + \bar{b} + c
+(a \prec b) \prec c ab + c
+[del](a \prec b) \prec c \prec d \bar{a} + \bar{b} + \bar{c} + d[/del]
+a \prec (b \prec c) \prec d \bar{a} + b\bar{c} + d
+(a \prec b) \prec c \prec d ab + \bar{c} + d

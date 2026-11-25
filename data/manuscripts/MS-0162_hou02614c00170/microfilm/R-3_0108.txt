@@ -1,0 +1,44 @@
+Aggregate points and you add the chorises
+Aggregate point and line and you add the chorises
+and at the same time add acnodes to the line
+Aggregate lines and you add chorises, cyclones, and singularities
+
+Join two points and you diminish chorisis by 1
+and make line with 2 extremities
+Join 3 points and you diminish chorisis by 2
+and make line with 3 extremities and node
+Join N points and you diminish chorisis by N-1
+and make line with N extremities and N-2
+nodes.
+
+[fig]vertical line[/fig]
+[fig]three intersecting lines forming a star[/fig]
+[fig]closed loop with two tails[/fig]
+[fig]loop with a tail[/fig]
+[fig]horizontal line[/fig]
+
+Increasing a line by additions you add an extremity
+for every node.
+
+Lengthening a line does not alter its [ins]topical[/ins] character
+
+[del]Join an acnode to an[/del]
+Make two points coalesce and you diminish chorisis by 1
+Make acnode [del]join[/del] [ins]coalesce[/ins] with acnode and you diminish X by 1
+and diminish acnodes by 1
+
+Make acnode coalesce with extremity and effect is the same.
+Make acnode coalesce with any point and effect is the same.
+Make extremity coalesce with extremity and you
+change 2 extremities to one point or acnode
+or you diminish X-C by 1 and destroy two extremities
+Make extremity coalesce with ordinary point
+and you destroy extremity and make node
+and diminish X-C by 1
+Make extremity coalesce with node
+and you destroy extremity and node,
+or you [del]diminish[/del] [ins]destroying extremity[/ins] and increasing node by 1
+
+[fig]circle[/fig]
+[fig]loop with crossing tail[/fig]
+[fig]hook shape[/fig]

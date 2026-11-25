@@ -1,0 +1,26 @@
+FL. [u]XII.[/u] 78
+
+The Algebra of Dyadic Relatives was well explained by me in
+outline in the book "Studies in Logic" and Schröder has developed
+it in his third volume at such enormous length that it is not worth
+while to devote much space to it here.
+The Boolean calculus turns upon the three operations of
+negation, aggregation, and composition. There are three [del]somewhat[/del]
+imperfectly analogous operations of a relative kind. By a rela-
+tive operation I mean such an operation that the relate and cor-
+relate of the function are differently ordered from those of the variable.
+The non-relative operation of composition or non-relative logical
+multiplication is defined thus:
+(l·b)ᵢⱼ ⤙ 0 if lᵢⱼ ⤙ 0 or bᵢⱼ ⤙ 0 But
+U ⤙ (l·b)ᵢⱼ if both [del]U ⤙[/del] U ⤙ lᵢⱼ and U ⤙ bᵢⱼ
+The operation of relative multiplication is defined thus:
+(lb)ᵢⱼ ⤙ 0 if [del]as[/del] Πₖ lᵢₖ + bₖⱼ ⤙ 0
+U ⤙ (lb)ᵢⱼ if U ⤙ Σₖ lᵢₖ · bₖⱼ
+We read lb "l of b"
+The non-relative operation of aggregation is defined thus
+(l + b)ᵢⱼ ⤙ 0 if both lᵢⱼ ⤙ 0 and bᵢⱼ ⤙ 0
+U ⤙ (l + b)ᵢⱼ if either U ⤙ lᵢⱼ or U ⤙ bᵢⱼ
+The operation of relative addition is defined thus:
+(l † b)ᵢⱼ ⤙ 0 if Σₖ lᵢₖ · bₖⱼ ⤙ 0
+U ⤙ (l † b)ᵢⱼ if U ⤙ Πₖ lᵢₖ + bₖⱼ
+We read l † b "l except of bs"

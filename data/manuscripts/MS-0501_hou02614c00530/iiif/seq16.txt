@@ -1,0 +1,19 @@
+15
+
+By [u]Clause 1 of the Definition of Ĉ[/u]
+(A) If e, then iĈe
+(B) If iĈe, then aĈiĈe
+By [u]Clause 2 of the same Definition[/u]
+(C) Either i or iĈe
+(D) Either a or aĈiĈe
+By [u]Clause 3 of the same Definition[/u]
+(E) If i and iĈaĈe, then aĈe
+(F) If a and aĈe, then e
+By (E) and the hypothesis
+If i, then aĈe
+Whence by (C)
+Either iĈe or aĈe
+Whence by (F)
+Either iĈe or if a then e
+Whence by (A)
+If a, then iĈe

@@ -1,0 +1,35 @@
+§10. If $ab\cdot d$ $ac\cdot e$ $de\cdot b$
+then $cd\cdot b$
+For from $ab\cdot d$ $ac\cdot e$ by I $be\cdot q$ $cd\cdot q$
+From $be\cdot q$ $de\cdot b$ by $\S 8'$ $dq\cdot b$
+From $cd\cdot q$ $dq\cdot b$ by $\S 8^*$ $cd\cdot b$
+
+§11. If $ab\cdot d$ $ac\cdot d$ $be\cdot e$
+then $ae\cdot d$
+For from $ac\cdot d$ $be\cdot e$ by I $ae\cdot w$ $bd\cdot w$
+[del]From $bd\cdot w$ $ab\cdot d$ by $\S 8''$ $aw\cdot d$[/del]
+From $aw\cdot d$ $ae\cdot w$ by $\S 8$ $ae\cdot d$
+
+[u]Symmetrical Resultants.[/u]
+
+If $\begin{pmatrix} ab\cdot x \\ bc\cdot x \\ ca\cdot x \end{pmatrix}$ $\begin{pmatrix} ab\cdot y \\ bc\cdot y \\ ca\cdot y \end{pmatrix}$
+then $x=y$
+For from $ab\cdot x$ $cb\cdot x$ $ac\cdot y$ by $\S 11$ $by\cdot x$
+
+From $ab\cdot y$ $cb\cdot y$ $ac\cdot x$ by $\S 11$ $bx\cdot y$
+From $by\cdot x$ $bx\cdot y$ by $\S 7$ $x=y$
+
+I break this off & remark that
+Without assuming the interchangeability
+of the two [del]even[/del] elements of the triad
+(which is however intended) Law IV
+shows that $ab\cdot c$ asserts that $c$
+is either $a$ or some function of $a$ and $b$,
+say $a\circ b$. Then Law IV [ins]included in[/ins] asserts that this function
+becomes [del]a[/del] [ins]$a$[/ins] for $a\circ a$.
+Law I if $b = a$ or $a\circ p$
+and $d = c$ or $c\circ p$
+then there is something $q$ which
+is either $a$ or $a\circ d$ i.e. either $a$ or $a\circ c$ or $a\circ (c\circ p)$
+and is either $b$ or $b\circ c$ i.e. $a$ or $a\circ p$ or
+$a\circ c$ or $(a\circ p)\circ c$

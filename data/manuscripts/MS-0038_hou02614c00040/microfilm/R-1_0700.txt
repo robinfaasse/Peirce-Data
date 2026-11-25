@@ -1,0 +1,68 @@
+[pn]88[/pn] Peirce: *On the Logic of Number.*
+
+$$((1 + n) + y) + z$$
+$$= (1 + (n + y)) + z$$ by the definition of addition:
+$$= 1 + ((n + y) + z)$$ by the definition of addition:
+$$= 1 + (n + (y + z))$$ by hypothesis:
+$$= (1 + n) + (y + z)$$ by the definition of addition.
+
+2. To prove the commutative principle of addition that
+$$x + y = y + x$$
+whatever numbers $x$ and $y$ may be. First, it is true for $x = 1$ and $y = 1$, being in that case an explicit identity. Second, if true for $x = n$ and $y = 1$, it is true for $x = 1 + n$ and $y = 1$. That is, if $n + 1 = 1 + n$, then $(1 + n) + 1 = 1 + (1 + n)$. For $(1 + n) + 1$
+$$= 1 + (n + 1)$$ by the associative principle:
+$$= 1 + (1 + n)$$ by hypothesis.
+
+We have thus proved that, whatever number $x$ may be, $x + 1 = 1 + x$, or that $x + y = y + x$ for $y = 1$. It is now to be shown that if this be true for $y = n$, it is true for $y = 1 + n$; that is, if $x + n = n + x$, then $x + (1 + n) = (1 + n) + x$. Now,
+$$x + (1 + n)$$
+$$= (x + 1) + n$$ by the associative principle:
+$$= (1 + x) + n$$ as just seen:
+$$= 1 + (x + n)$$ by the definition of addition:
+$$= 1 + (n + x)$$ by hypothesis:
+$$= (1 + n) + x$$ by the definition of addition.
+
+Thus the proof is complete.
+
+3. To prove the distributive principle, first clause. The distributive principle consists of two propositions:
+1st, $(x + y)z = xz + yz$
+2d, $x(y + z) = xy + xz$.
+
+We now undertake to prove the first of these. First, it is true for $x = 1$. For
+$$(1 + y)z$$
+$$= z + yz$$ by the definition of multiplication:
+$$= 1.z + yz$$ by the definition of multiplication.
+
+[pn]89[/pn] Peirce: *On the Logic of Number.*
+
+Second, if true for $x = n$, it is true for $x = 1 + n$; that is, if $(n + y)z = nz + yz$, then $((1 + n) + y)z = (1 + n)z + yz$. For
+$$((1 + n) + y)z$$
+$$= (1 + (n + y))z$$ by the definition of addition:
+$$= z + (n + y)z$$ by the definition of multiplication:
+$$= z + (nz + yz)$$ by hypothesis:
+$$= (z + nz) + yz$$ by the associative principle of addition:
+$$= (1 + n)z + yz$$ by the definition of multiplication.
+
+4. To prove the second proposition of the distributive principle, that
+$$x(y + z) = xy + xz.$$
+
+First, it is true for $x = 1$; for
+$$1(y + z)$$
+$$= y + z$$ by the definition of multiplication:
+$$= 1y + 1z$$ by the definition of multiplication.
+
+Second, if true for $x = n$, it is true for $x = 1 + n$; that is, if $n(y + z) = ny + nz$, then $(1 + n)(y + z) = (1 + n)y + (1 + n)z$. For
+$$(1 + n)(y + z)$$
+$$= (y + z) + n(y + z)$$ by the definition of multiplication:
+$$= (y + z) + (ny + nz)$$ by hypothesis:
+$$= (y + ny) + (z + nz)$$ by the principles of addition:
+$$= (1 + n)y + (1 + n)z$$ by the definition of multiplication.
+
+5. To prove the associative principle of multiplication; that is, that
+$$(xy)z = x(yz),$$
+whatever numbers $x$, $y$, and $z$, may be. First, it is true for $x = 1$, for
+$$(1y)z$$
+$$= yz$$ by the definition of multiplication:
+$$= 1.yz$$ by the definition of multiplication.
+
+Second, if true for $x = n$, it is true for $x = 1 + n$; that is, if $(ny)z = n(yz)$, then $((1 + n)y)z = (1 + n)(yz)$. For
+
+VOL. IV.

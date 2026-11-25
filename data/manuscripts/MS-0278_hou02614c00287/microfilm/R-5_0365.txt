@@ -1,0 +1,36 @@
+[pn]19[/pn]
+
+$$\Sigma_i \Sigma_j l_{ij} = \Sigma_j \Sigma_i l_{ij} = \Sigma_i \Sigma_k \Sigma_j l_{ij} l_{kj}$$
+$$= \Sigma_j \Sigma_i \Sigma_k l_{ij} l_{kj} = \Sigma_i \Sigma_j \Sigma_k \Sigma_l l_{ij} l_{kl} .$$
+
+The same rule holds of an index preceded by none which are changed except such as are particularly quantified (i.e. quantified with a $\Sigma$) for
+
+$$\Sigma_i \Sigma_j a_i b_j$$
+
+includes
+
+$$\Sigma_i a_i b_i$$
+
+as a case under it. That is,
+
+$$\Sigma_i a_i b_i \prec \Sigma_i \Sigma_j a_i b_j$$
+
+[marginalia]
+belongs
+with
+algebra
+of logic
+Note
+vol 3, p.
+[u]XIII[/u]
+[/marginalia]
+
+***
+
+[del]
+$$\Sigma_i \Pi_j \Sigma_k b_{ijk}$$
+$$\Sigma_i \Sigma_{i'} \Pi_j \Sigma_k b_{ijk} b_{i'jk}$$
+$$\Sigma_i \Pi_j \Sigma_k m_i (\overline{m}_{j} + l_{ij})$$
+$$m_i (l_{jk} + l_{ij})$$
+$$m_i m_{i'} (l_{jk} + 1_{i'j}) (l_{jk} + 1_{i'j})$$
+[/del]

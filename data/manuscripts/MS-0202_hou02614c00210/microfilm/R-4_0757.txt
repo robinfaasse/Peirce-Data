@@ -1,0 +1,24 @@
+[pn]Cu
+53[/pn]
+
+[fig]Checkmark[/fig]
+
+$$\begin{array}{c c c}
+n & & n^2 \\
+0 & & 0 \\
+1 & * & 0 + (2 \cdot 0 + 1) = 1 \\
+2 & & 1 + (2 \cdot 1 + 1) = 4 \\
+3 & & 4 + (2 \cdot 2 + 1) = 9 \\
+4 & & 9 + (2 \cdot 3 + 1) = 16 = 3 \\
+5 & & 3 + (2 \cdot 4 + 1) = Q \\
+6 & & Q + (2 \cdot 5 + 1) = X \\
+7 & & X + (2 \cdot 6 + 1) = X \\
+8 & & X + (2 \cdot 7 + 1) = Q \\
+9 & & Q + (2 \cdot 8 + 1) = 16 = 3 \\
+X & & 3 + (2 \cdot 9 + 1) = 22 = 9 \\
+J & & 9 + (2 \cdot X + 1) = 30 = 4 \\
+Q & & 4 + (2 \cdot J + 1) = 27 = 1 \\
+R & & 1 + (2 \cdot Q + 1) = 26 = 0
+\end{array}$$
+
+Accordingly, only the numbers 0, 1, 3, 4, 9, X, Q are [del]able[/del] [ins]both[/ins] to be written as [del]positive[/del] [ins]squares[/ins] and we have the series, 0, 1, -J, 4, -8

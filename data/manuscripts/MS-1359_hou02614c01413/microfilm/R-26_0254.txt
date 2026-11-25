@@ -1,0 +1,27 @@
+$$W \Sigma_i F'_i (\underline{s}_i + \sigma_i) + w \Sigma_i f'_i \sigma_i + \frac{1}{2} \Sigma_i E_i (\underline{s}_i + \sigma_i)^2,$$
+
+The equations now take the form
+$$W F'(\underline{s}+\sigma) + w f'\sigma + E(\underline{s}+\sigma) = 0,$$
+or
+$$\underline{s}+\sigma = -\frac{W}{E} F'(\underline{s}+\sigma) - \frac{w}{E} f'\sigma.$$
+
+[pn]p. 27[/pn] Subtracting the value of $\underline{s}$ from that of $\underline{s}+\sigma$, we get
+$$\sigma = \frac{W}{E} [F'_s - F'(\underline{s}+\sigma)] - \frac{w}{E} f'\sigma$$
+But $F'_s - F'(\underline{s}+\sigma) = -\sigma F''_s$. Hence
+$$\sigma = - \frac{\frac{w}{E} f'\sigma}{1 + \frac{W}{E} F''_s}$$
+
+That is, if we slightly modify the coefficients of elasticity, so as to make
+$$E' = E + W F''_s,$$
+we shall have
+$$\sigma = - \frac{w}{E'} f'\sigma,$$
+which is the same equation we should have obtained, if we had made the energy
+$$w \Sigma_i f'_i \sigma_i + \frac{1}{2} \Sigma_i E'_i \sigma_i^2.$$
+
+This is the energy on the supposition that the structure is unstrained by the dead load and weightless, the elasticities being modified as above. The changes in the elasticities will for the most part be far less than the probable errors of the measures of the elasticities, not to say, less than the uncertainties of Hooke's law.
+
+But this simplification of the problem becomes impossible when [del]the[/del] [ins]a[/ins] truss is lifted from [del]either of[/del] its supports by the live load. We could then separate the live load into two parts, $u$ and $v$, making
+$$w = u + v$$
+
+[marginalia]
+$u$ $v$
+[/marginalia]

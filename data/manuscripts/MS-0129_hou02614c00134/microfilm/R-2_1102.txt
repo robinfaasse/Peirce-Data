@@ -1,0 +1,17 @@
+[u]Art. Definition[/u]. A [u]parallelogram[/u] is a region of the plane enclosed between two pairs of parallel rays and not extending to infinity. [del]Euclid gives no definition, but introduces the word I. 34.[/del] [ins]Its sides are the [ins]finite[/ins] stretches of the rays cut off by the others.[/ins]
+
+[u]Theorem[/u]. [del]The[/del] [u]Opposite sides[/u] of a parallelogram are equal.
+
+[u]Demonstration[/u]. Let the rays {AB} and {CD} be parallel, and also the rays {AD} and {BC}. Then, I say |AB| = |CD| and |AD| = |BC|.
+
+[fig]Parallelogram ABCD with diagonal AC[/fig] For draw the ray {AC}. Then, by Theorem , $\angle$BAC = $\angle$ACD and $\angle$DAC = $\angle$BCA. Hence in the triangles $\Delta$ACD, $\Delta$CAB, the side |AC| is common and the adjacent angles of the one are equal to those of the other. Hence, by Theorem , the remaining parts are equal; and |AB| = |CD| |BC| = |DA|. Q.E.D.
+
+[u]Definition[/u]. [u]Similar[/u] [ins]plane[/ins] [u]figures[/u] are regions [ins]of the plane[/ins] enclosed by [del]planes and[/del] rays, and having their [ins]corresponding[/ins] [del]plane[/del] angles equal and then corresponding sides proportional.
+
+[u]Theorem[/u]. A ray cutting two sides of a [ins]finite plane[/ins] triangle and parallel to the third divides these two proportionally.
+
+[u]Demonstration[/u]. Let a triangle $\Delta$ABC be cut by {DE} [del]so that[/del] parallel to {BC}, [D] being in {AB} and [E] in {AC}. Then, I say, that
+
+[fig]Triangle ABC with parallel line DE and construction lines[/fig] AD : AB = AE : AC.
+
+For if |AD| and |AB| have a common measure,

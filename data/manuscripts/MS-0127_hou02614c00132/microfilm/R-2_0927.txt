@@ -1,0 +1,69 @@
+[pn]89[/pn]
+
+Trying II, we have must put a III before it, and only a II
+can complete the circuit to avoid III, IV, III. Hence we have
+
+[fig]Diagram showing impossible circuit with Roman numerals II, III, IV[/fig] Impossible
+
+Trying a III before the line, a II must precede, and a IV complete
+the circuit, giving
+
+[fig]Circular diagram with Roman numerals II, III, IV[/fig]
+
+We thus have four ways in which rays may run. Two have three IV's
+and two have but two IV's. Here are examples.
+
+[del]ABCD[/del] [del]DCAB[/del]
+[del]ABDC[/del] [del]DCBA[/del]
+[del]ACDB[/del] [del]DABC[/del]
+[del]CABD[/del] [del]ADCB[/del]
+[del]CADB[/del] [del]ADBC[/del]
+[del]CBDA[/del] [del]ACBD[/del]
+[del]BCAD[/del] [del]CADB[/del]
+[del]BCDA[/del] [del]CABD[/del]
+[del]BADC[/del] [del]CDBA[/del]
+[del]DCAB[/del]
+
+[ins]Oft occurring
+many[/ins]
+ACBD [sub]II[/sub]
+ADBC [sub]IV[/sub]
+ADCB [sub]III[/sub]
+DABC [sub]II[/sub]
+DCBA [sub]IV[/sub]
+DCAB [sub]III[/sub]
+CDBA [sub]II[/sub]
+CABD [sub]IV[/sub]
+CADB [sub]III[/sub]
+
+[ins]Last way[/ins]
+ACBD [sub]II[/sub]
+ADBC
+ADCB
+[del]I[/del]
+
+CABD [sub]III[/sub]
+ACDB [sub]IV[/sub]
+
+[ins]Last but one[/ins]
+ACBD [sub]II[/sub]
+ADBC [sub]IV[/sub]
+ADCB [sub]III[/sub]
+DABC [sub]II[/sub]
+DCBA [sub]IV[/sub]
+DCAB [sub]III[/sub]
+DBAC [sub]III[/sub]
+BDCA [sub]II[/sub]
+BACD [sub]III[/sub]
+ABDC [sub]III[/sub]
+
+[ins]2[sup]nd[/sup][/ins]
+ACBD [sub]II[/sub]
+ADBC [sub]IV[/sub]
+ADCB [sub]III[/sub]
+DABC [sub]II[/sub]
+DCBA [sub]III[/sub]
+CDAB [sub]II[/sub]
+CBAD [sub]IV[/sub]
+CBDA [sub]II[/sub]
+CADB [sub]III[/sub]

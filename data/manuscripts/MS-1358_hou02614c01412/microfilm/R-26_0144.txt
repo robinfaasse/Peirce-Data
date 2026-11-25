@@ -1,0 +1,49 @@
+[marginalia]1899 Feb 10 St. Scholastica[/marginalia]
+
+$(\theta - \Theta)_n = \frac{1}{6} \frac{u}{\mathcal{B}} (ds)^3 \left(\frac{n}{ds}\right)^3 + \mathcal{C}_2 \left(\frac{n}{ds}\right)^2 + \mathcal{C}_1 \frac{n}{ds} + \mathcal{C}_0$
+
+[fig]Handwritten lyrics[/fig] Oh I am Captain Jinks
+of the horse marines
+Oh I am Captain Jinks of the horse marines
+I feed my horse on pork and beans.
+
+$(\theta - \Theta)_{-Q+ds} = (\theta - \Theta)_{-Q} - \frac{y_{-Q}}{2\mathcal{B}} (ds)^2$
+
+[fig]Numerical table[/fig]
+
+[del]$\frac{3}{6} \frac{u}{\mathcal{B}} (ds)^3 \left(\frac{-Q}{ds}\right)^2 + \frac{3}{12} \frac{u}{\mathcal{B}} (ds)^3 \left(\frac{-Q}{ds}\right) + \frac{1}{12} \frac{u}{\mathcal{B}} (ds)^3$[/del]
+[ins]$+ 2 \mathcal{C}_2 \left(\frac{-Q}{ds}\right) + \mathcal{C}_2$[/ins]
+$+ \mathcal{C}_1 + \frac{y_{-Q}}{2\mathcal{B}} (ds)^2$
+
+[fig]Calculations[/fig]
+
+$x+y+z$
+$x=1$
+$x+y+z=7$
+$x+2y+4z=19$
+
+$y+z=6$
+$y+3z=12$
+$z=3$
+$y=3$
+
+$2 = 5 + (\theta - \Theta)_{-Q+2ds} - 3(\theta - \Theta)_{-Q+ds} + 2(\theta - \Theta)_{-Q} + \frac{y_{-Q}}{2\mathcal{B}} (ds)^2 - \frac{u}{2\mathcal{B}} (ds)^3$
+
+[fig]Calculations[/fig]
+
+$6(1+n)$
+
+$\frac{u}{\mathcal{B}} (ds)^3 \left(\frac{-Q}{ds}\right) + \frac{u}{\mathcal{B}} (ds)^3$
+$+ 2 \mathcal{C}_2$
+
+$-\frac{u}{2\mathcal{B}} (ds)^3 - \frac{y_{-Q}}{2\mathcal{B}} (ds)^2 = 0$
+
+$\mathcal{C}_2 = + \frac{u}{2\mathcal{B}} Q (ds)^2 + [del]\frac{1}{2} \frac{u}{\mathcal{B}} (ds)^3[/del] - \frac{y_{-Q}}{2\mathcal{B}} (ds)^2$
+
+[del]$\mathcal{C}_2 = \left(\frac{uQ}{4\mathcal{B}} - \frac{y_{-Q}}{4\mathcal{B}}\right) (ds)^2 + \left(\frac{1}{4} y_{-Q} - \frac{u}{4}\right) \frac{(ds)^2}{\mathcal{B}}$[/del]
+
+$-\mathcal{C}_1 = \frac{1}{2} \frac{u}{\mathcal{B}} (ds) Q^2 - \frac{1}{2} \frac{u}{\mathcal{B}} (ds)^2 Q + \frac{1}{12} \frac{u}{\mathcal{B}} (ds)^3 + \frac{y_{-Q}}{2\mathcal{B}} (ds)^2$
+$+ \frac{1}{2} \frac{u}{\mathcal{B}} (ds)^2 Q - \frac{1}{4} \frac{u}{\mathcal{B}} (ds)^3 - \frac{1}{2} \frac{y_{-Q}}{\mathcal{B}} (ds)^2$
+$- \frac{u}{\mathcal{B}} (ds) Q^2 + \frac{y_{-Q}}{\mathcal{B}} (ds) Q + \frac{1}{2} \frac{u}{\mathcal{B}} Q (ds)^2$
+
+$\mathcal{C}_1 = \frac{1}{2} \frac{u}{\mathcal{B}} Q^2 (ds) - \frac{y_{-Q}}{\mathcal{B}} Q (ds) - \frac{1}{2} \frac{u}{\mathcal{B}} Q (ds)^2 + \frac{1}{12} \frac{u}{\mathcal{B}} (ds)^3$

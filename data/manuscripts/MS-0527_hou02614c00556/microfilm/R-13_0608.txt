@@ -1,0 +1,69 @@
+[pn]167[/pn]
+
+[pn]377[/pn] The second icon is contained in the rule that the several antecedents of a
+consequentia may be transposed; that is, from
+[center]$$x \prec (y \prec z)$$[/center]
+we can pass to
+[center]$$y \prec (x \prec z).$$[/center]
+This is stated in the formula
+[center]$$\{x \prec (y \prec z)\} \prec \{y \prec (x \prec z)\}.$$[/center]
+Because this is the case, the brackets may be omitted, and we may write
+[center]$$y \prec x \prec z.$$[/center]
+By the formula of identity
+[center]$$(x \prec y) \prec (x \prec y);$$[/center]
+and transposing the antecedents
+[center]$$x \prec \{(x \prec y) \prec y\}$[/center]
+or, omitting the unnecessary brackets
+[center]$$x \prec (x \prec y) \prec y.$$[/center]
+This is the same as to say that if in any state of things $x$ is true, and if the pro-
+position "if $x$, then $y$" is true, then in that state of things $y$ is true. This is the
+modus ponens of hypothetical inference, and is the most rudimentary form of
+reasoning.[ins]x[/ins]
+
+[pn]378[/pn] To say that $(x \prec x)$ is generally true is to say that it is so in every state of
+things, say in that in which $y$ is true; so that we may write
+[center]$$y \prec (x \prec x),$$[/center]
+and then, by transposition of antecedents,
+[center]$$x \prec (y \prec x),$$[/center]
+or from $x$ we may infer $y \prec x$.
+
+[pn]379[/pn] The third icon is involved in the principle of the transitiveness of the copula,
+which is stated in the formula
+[center]$$(x \prec y) \prec (y \prec z) \prec x \prec z.$$[ins]xx[/ins][/center]
+According to this, if in any case $y$ follows from $x$ and $z$ follows from $y$, then $z$ follows
+from $x$.[ins]x[/ins] This is the principle of the syllogism in Barbara.
+
+[pn]380[/pn] We have already seen that from $x$ follows $y \prec x$. Hence, by the transi-
+tiveness of the copula, if from $y \prec x$ follows $z$, then from $x$ follows $z$, or from
+[center]$$(y \prec x) \prec z$$[/center]
+follows
+[center]$$x \prec z,$$[/center]
+or
+[center]$$\{(y \prec x) \prec z\} \prec x \prec z.$$[/center]
+
+[pn]381[/pn] The original notation $x \prec y$ served without modification to express the
+
+[marginalia]
+[ins]x[/ins] [del]Strictly[/del]
+[ins]speaking[/ins]
+the [del]modus[/del]
+[del]ponens is[/del]
+[del]expressed[/del]
+[del]as $(x \prec y)$[/del]
+[del]$\prec y$.[/del] The
+[del]quickest[/del]
+[del]derivation[/del]
+[del]would be[/del]
+[del]if $x$ is true[/del]
+[del]then if $x$ then[/del]
+[del]is $y$ is true,[/del]
+[del]then $y$ is true[/del]
+[/marginalia]
+
+[marginalia]
+* [del]$[ (x \prec y) \prec \{ (y \prec z) \prec (x \prec z) \} ]$[/del]
+[ins]Which is the dictum de omni. But see Joseph's Logic p. 296 n.[/ins]
+** [del]$[$ This is not [ins]an exact reading of the given formula for Barbara.[/ins] [del]the last note.[/del] [del]the formula for Barbara.[/del]
+[del]modified[/del] The formula for this expression [del]would be[/del]
+$\{ (x \prec y) \prec (y \prec z) \} \prec (x \prec z). ]$[/del]
+[/marginalia]

@@ -1,0 +1,54 @@
+§17.
+To find $x$ from
+$\begin{aligned}
+x & \prec a \\
+b & \prec x
+\end{aligned}$
+$\begin{aligned}
+a & \prec x \bar{\lor} b \\
+a & \prec b \bar{\lor} x
+\end{aligned}$
+
+[del]Algebra[/del]
+$x \prec x(b \bar{\lor} \bar{b}) \prec xb \bar{\lor} \bar{b} \prec a \bar{\lor} \bar{b}$
+$a\bar{b} \prec (x \bar{\lor} b)\bar{b} \prec x \bar{\lor} b\bar{b} \prec x$
+There is nothing gained by writing
+$\sum_u x = u(a \bar{\lor} \bar{b})$
+this is merely quantifying the predicate.
+
+§18. To find $x$ from
+$\begin{aligned}
+a & \prec x \bar{\lor} b \\
+a & \prec b \bar{\lor} x
+\end{aligned}$
+$\begin{aligned}
+x & \prec b \bar{\lor} a \\
+b & \prec x \bar{\lor} a
+\end{aligned}$
+
+$a \bar{\lor} \bar{b} \prec x \bar{\lor} b$
+$\Pi_i \Pi_k \Sigma_j \bar{a}_{ik} \bar{\lor} x_{ij} \bar{\lor} b_{jk}$
+$= (\bar{a}_{ik} \bar{\lor} x_{ij}) \cdot (\bar{a}_{ij} \bar{\lor} b_{jk})$
+$a \prec x \bar{\lor} b$
+I can see no use in his solution.
+Take [del]$\Pi_i \Pi_k \Pi_j \bar{a}_{ik} \bar{\lor} x_{ij} \bar{\lor} b_{jk}$[/del]
+$\Pi_i \Pi_k \Sigma_j \bar{x}_{ij} \cdot \bar{b}_{jk} \bar{\lor} a_{ik}$
+$(\bar{x}_{ij} \bar{\lor} a_{ik}) (\bar{b}_{jk} \bar{\lor} a_{ik})$
+[del]$x \bar{\lor} b \prec a$[/del]
+why write $x = u \cdot (a \bar{\lor} \bar{b}) \bar{\lor} b$ ?
+
+---
+
+$x \bar{\lor} b \prec a$
+$\Pi_i \Pi_j \Pi_k \bar{x}_{ij} \bar{\lor} b_{jk} \bar{\lor} a_{ik}$
+$\bar{a} \prec \bar{x} \bar{\lor} \bar{b}$
+$b \prec \bar{x} \bar{\lor} a$
+$x \prec a \bar{\lor} \bar{b}$
+
+$x \bar{\lor} b \prec a$
+$\bar{x} \bar{\lor} \bar{b} \prec \bar{a}$
+$\bar{x} \prec \bar{a} \bar{\lor} b$
+$b \bar{\lor} \bar{a} \prec \bar{x}$
+
+$\bar{b} \bar{\lor} a \prec \bar{x}$
+$\bar{b} \prec \bar{a} \bar{\lor} \bar{x}$

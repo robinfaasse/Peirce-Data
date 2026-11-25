@@ -1,0 +1,13 @@
+The definition of the copula is embraced in three propositions.
+
+I. If B is scriptible A⤙B is scriptible.
+II. Either A⤙B or A is scriptible.
+III. If both A⤙B and A are scriptible, B is scriptible.
+
+[u]Deductions from this Definition[/u].
+
+(1.) No such formula is necessarily not scriptible. For such necessity could only come from A being scriptible and B not scriptible, and would therefore depend upon something else.
+
+(2). The formula A⤙A is necessarily scriptible. For by II either it is so or A is scriptible, and by I if A is scriptible it is scriptible.
+
+(3). If in the formula A⤙B we substitute any scriptible formula for B it becomes scriptible by I. Thus, A⤙(B⤙B) is scriptible. And hence A⤙[B⤙(C⤙C)] is scriptible, and so on indefinitely.

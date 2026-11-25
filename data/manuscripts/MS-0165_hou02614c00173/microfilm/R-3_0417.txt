@@ -1,0 +1,24 @@
+[pn]170[/pn]
+
+91. Solve the equations,
+[u]x[/u] + [u]y[/u] + [u]z[/u] = 1,
+2[u]x[/u] + 3[u]y[/u] + 5[u]z[/u] = 3,
+7[u]x[/u] + 11[u]y[/u] + 13[u]z[/u] = 12.
+
+We write
+
+$\left| \begin{matrix} 1, & 1, & 1, & 1 \\ 2, & 3, & 5, & 3 \\ 7, & 11, & 13, & 12 \\ A, & B, & C, & M \end{matrix} \right| = 0$,
+
+where M = A[u]x[/u] + B[u]y[/u] + C[u]z[/u]. We subtract the first column from all the others, and get
+
+$\left| \begin{matrix} 1, & 0, & 0, & 0 \\ 2, & 1, & 3, & 1 \\ 7, & 4, & 6, & 5 \\ A, & B-A, & C-A, & M-A \end{matrix} \right| = 0$.
+
+We diminish the third column by 3 times the second, and the fourth by the second, and so get
+
+$\left| \begin{matrix} 1, & 0, & 0, & 0 \\ 2, & 1, & 0, & 0 \\ 7, & 4, & -6, & 1 \\ A, & B-A, & C-3B+2A, & M-B \end{matrix} \right| = 0$
+
+We multiply the fourth column by 6 and increase the product by the third column, and so get
+
+$\left| \begin{matrix} 1, & 0, & 0, & 0 \\ 2, & 1, & 0, & 0 \\ 7, & 4, & -6, & 0 \\ A, & B-A, & C-3B+2A, & 6M+C-9B+2A \end{matrix} \right| = 0$
+
+Hence, [u]x[/u] = $-\frac{2}{6}$, [u]y[/u] = $\frac{9}{6}$, [u]z[/u] = $-\frac{1}{6}$.

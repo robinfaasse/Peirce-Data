@@ -1,0 +1,174 @@
+[pn]1[/pn]
+[marginalia]
+1.1.1
+2.1.2
+2.3.2
+3.1.3
+3.2.3
+[/marginalia]
+
+[fig]Line diagram with intersecting lines and curves[/fig]
+
+[fig]Division symbol[/fig]
+
+If A then B
+But A
+[u]$\therefore$ B[/u]
+
+[marginalia]
+1.1.1
+2.2.1
+3.2.1
+[/marginalia]
+
+[marginalia]
+1.1
+2.2
+3.3
+1.3
+2.1
+2.3
+[/marginalia]
+
+[marginalia]
+Direct
+[bracket]
+Min 1.33
+2.1.2
+Maj 2.3.2
+[/bracket]
+[bracket]
+1.2.2
+3.1.3
+3.2.3
+[/bracket]
+[/marginalia]
+
+If A then B
+[del]But Not A[/del]
+[u]$\therefore$ Not B[/u]
+
+If A sometimes B
+[del]But[/del]
+[u]$\therefore$ B[/u]
+
+If A then B
+[del]But B[/del]
+[u]$\therefore$ A[/u]
+
+If A then B
+[del]But not B[/del]
+[u]$\therefore$ Not A[/u]
+
+$\therefore$ If A then B
+
+[fig]Diagram with numbered nodes 1 to 8 and connecting arcs[/fig]
+
+[fig]Grid diagram with letters I, U, and dots[/fig]
+
+1.1.1
+2.2.
+
+[fig]Fraction-like symbol with 1s and Us[/fig]
+
+[fig]Symbolic notation with 1s and Us[/fig]
+
+Porta
+[table]
+Bentu | Doste
+Binka | Dotsa
+[/table]
+[table]
+Burki | Loro
+Dusti | Leyno
+[/table]
+
+If A then B
+But A
+[u]$\therefore$ B[/u]
+
+[table]
+If A then B
+But A
+[u]$\therefore$ B[/u]
+|
+B
+A
+[u]$\therefore$ If A then B[/u]
+---
+If A then B
+But not B
+[u]$\therefore$ Not A[/u]
+|
+B
+A
+[u]$\therefore$ If A sometimes B[/u]
+[/table]
+
+[table]
+If A then B
+But not A
+[u]$\therefore$ Not B[/u]
+|
+B
+Not A
+[u]$\therefore$ If A not B[/u]
+[/table]
+
+[table]
+If A sometimes B
+But A
+[u]$\therefore$ B[/u]
+---
+If A sometimes B
+But B
+[u]$\therefore$ A[/u]
+[/table]
+
+All Y is X
+Z not Y
+[u]Z is not X[/u]
+
+All X is Y
+Z is Y
+[u]$\therefore$ Z is X[/u]
+
+[u]Good[/u]
+
+[table]
+U Min | Min
+---
+Good | Good
+[/table]
+
+[fig]Diagram with letters G, I, U, C and connecting lines[/fig]
+
+[table]
+| Maj
+---
+| Maj
+[/table]
+
+[table]
+U Maj |
+---
+U Maj |
+[/table]
+
+Some Y is X
+[del]Z is Y[/del]
+[u]Z is X[/u]
+
+Some X is Y
+[u]Z is Y[/u]
+Z is X
+
+[table]
+Y is B
+Y is A
+[u]All A is B[/u]
+|
+Y is B
+Y is not A
+[u]No A is B[/u]
+[/table]

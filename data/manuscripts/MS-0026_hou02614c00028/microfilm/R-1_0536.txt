@@ -1,0 +1,16 @@
+[pn]14[/pn]
+[u]On Multitude[/u]
+
+(25) $x + 0 \prec x$ $\bar{x} \prec \bar{x} \cdot \bar{0}$
+(26) $0 \prec x$ $\bar{x} \prec \bar{0}$
+
+(27) $\Sigma_{x} 0_{x} \prec 0$ $U \prec \Pi_{x} 1_{xx}$
+(28) $\Sigma_{y} 1_{xy} \cdot 0_{y} \prec 0_{x}$ [del]$\Sigma_{x}$[/del] $1_{xx} \prec \Pi_{y} 1_{xy} + 1_{yy}$
+(29) $\Pi_{y} 1_{xy} + 0_{y} = \Pi_{y} 1_{xy}$ $\Sigma_{y} 1_{xy} \cdot 1_{yy} = \Sigma_{y} 1_{xy}$
+(30) $\Pi_{x} 0_{x} = \Pi_{x} \Pi_{y} 2_{xy}$ $\Sigma_{x} 1_{xx} = \Sigma_{x} \Sigma_{y} 1_{xy}$
+(31) Usually $\Pi_{x} 0_{x} \prec 0$ and $U \prec \Sigma_{x} 1_{xx}$, because of a universe utterly devoid of objects there can hardly be discourse. Still, it cannot be said that these propositions are absolutely necessary.
+(32) $1_{xy} \cdot 1_{yz} \prec 1_{xz}$ $1_{xz} \prec 1_{xy} + 2_{yz}$
+
+The general method of drawing conclusions by means of this algebra. The process of reasoning consists, first, in [del]multiplying[/del] [ins]compredicating[/ins] the premises together, and secondly, in transforming the [del]compredicate[/del] so resulting. Each premise may be introduced as a compredicant any number of times; and the conclusions will always differ as this number [del]differs[/del]. If a premise is introduced $N$ times, the conclusion is said to be of the $N^{\underline{th}}$ order in that premise. The interest of a conclusion increases with $N$, when $N$ is small, until a maximum interest is reached when it diminishes with the increase of $N$.
+
+When the object in view is to explore in a general way the consequences of given premises, the above process may advantageously be employed without modification. But when the object is to find whether a

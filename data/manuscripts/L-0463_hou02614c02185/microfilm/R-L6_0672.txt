@@ -1,0 +1,22 @@
+[pn]37[/pn] Beginning with $i_3 i_1$, we first write down the whole development of $i_1$, and then under each term those terms of $i_3$ whose last capital is the same as the first capital of $i_1$; and then we draw a line under them and below it place the products, being careful to take [del]the lower of the[/del] [ins]severally[/ins] the terms on the lower of the two lines as the multipliers and the terms [del]of[/del] above them as the multiplicands. [del]and[/del] Here is the work:
+
+[u]Multiplicands[/u]: $(\text{I}_2 : \text{A}) + (\text{I}_2 : \text{I}_1) \begin{matrix} + (\text{I}_4 : \text{I}_3) \\ \underline{+ r (\text{I}_2 : \text{I}_4)} \end{matrix}$
+[u]Multipliers[/u] $\begin{cases} \begin{matrix} \phantom{+ r} (\text{I}_2 : \text{I}_1) \\ + r (\text{I}_4 : \text{I}_1) \end{matrix} \end{cases}$
+[u]Products[/u] $\begin{cases} \begin{matrix} \phantom{+ r} (\text{I}_2 : \text{A}) \\ + r (\text{I}_4 : \text{A}) \end{matrix} \end{cases} \begin{matrix} \phantom{+ r (\text{I}_2 : \text{I}_3) =} \\ + r (\text{I}_2 : \text{I}_3) = i_2 + r i_4 \end{matrix}$
+
+We next treat $i_3 i_5$ in the same way:
+
+[u]Multiplicands[/u] $\begin{cases} (\text{I}_5 : \text{A}) \begin{matrix} + (r^2 - 1) (\text{I}_2 : \text{I}_1) \\ - r^2 \phantom{- 1} (\text{I}_2 : \text{I}_5) \end{matrix} & - (\text{I}_4 : \text{I}_3) \end{cases}$
+[u]Multipliers[/u] $\begin{cases} \begin{matrix} - (\text{I}_2 : \text{I}_5) \\ - r (\text{I}_4 : \text{I}_5) \end{matrix} \end{cases} \begin{matrix} \phantom{+ r (\text{I}_2 : \text{I}_4)} \\ \underline{+ r (\text{I}_2 : \text{I}_4)} \end{matrix}$
+[u]Products[/u] $\begin{cases} \begin{matrix} - (\text{I}_2 : \text{A}) \\ - r (\text{I}_4 : \text{A}) \end{matrix} \end{cases} \begin{matrix} \phantom{- r (\text{I}_2 : \text{I}_3) =} \\ - r (\text{I}_2 : \text{I}_3) = - i_2 - r i_4 \end{matrix}$
+
+Finally, we treat $i_3^2$ in the same way, thus:
+
+[u]Multiplicands[/u] $\begin{cases} + (\text{I}_1 : \text{I}_3) \begin{matrix} + (\text{I}_2 : \text{I}_1) \\ + r (\text{I}_2 : \text{I}_4) \\ - \phantom{r} (\text{I}_1 : \text{I}_5) \end{matrix} & + (\text{I}_3 : \text{A}) \begin{matrix} + r (\text{I}_4 : \text{I}_1) \\ - r (\text{I}_4 : \text{I}_5) \end{matrix} & + (\text{I}_5 : \text{I}_3) \end{cases}$
+[u]Multipliers[/u] $\begin{cases} \begin{matrix} + (\text{I}_2 : \text{I}_1) \\ + r (\text{I}_4 : \text{I}_1) \end{matrix} \end{cases} \begin{matrix} + (\text{I}_1 : \text{I}_3) \\ + (\text{I}_5 : \text{I}_3) \end{matrix} & + r (\text{I}_2 : \text{I}_4) & \begin{matrix} - (\text{I}_2 : \text{I}_5) \\ - r (\text{I}_4 : \text{I}_5) \end{matrix}$
+[u]Products[/u] $\begin{cases} \begin{matrix} + (\text{I}_2 : \text{I}_3) \\ + r (\text{I}_4 : \text{I}_3) \end{matrix} \end{cases} \begin{matrix} + (\text{I}_1 : \text{A}) \\ + (\text{I}_5 : \text{A}) \end{matrix} & \begin{matrix} + r^2 (\text{I}_2 : \text{I}_1) \\ - r^2 (\text{I}_2 : \text{I}_5) \end{matrix} & \begin{matrix} - (\text{I}_2 : \text{I}_3) \\ - r (\text{I}_4 : \text{I}_3) \end{matrix}$
+
+The first and last columns of products cancell each other. The terms whose last capitals are A suggest that the product equals $i_1 + i_5$. Let us see.
+
+$\begin{matrix} i_1 = \\ i_5 = \end{matrix} \begin{cases} \phantom{+ (\text{I}_5 : \text{A}) - r^2 (\text{I}_2 : \text{I}_5)} \end{cases} \begin{matrix} + (\text{I}_2 : \text{A}) \\ + (\text{I}_5 : \text{A}) \end{matrix} \begin{matrix} + (\text{I}_2 : \text{I}_1) \\ + (r^2 - 1) (\text{I}_2 : \text{I}_1) \\ - r^2 (\text{I}_2 : \text{I}_5) \end{matrix} \begin{matrix} + (\text{I}_4 : \text{I}_3) \\ - (\text{I}_4 : \text{I}_3) \end{matrix}$
+$i_1 + i_5 = \begin{cases} \phantom{+ (\text{I}_5 : \text{A}) - r^2 (\text{I}_2 : \text{I}_5)} \end{cases} \begin{matrix} + (\text{I}_2 : \text{A}) \\ + (\text{I}_5 : \text{A}) \end{matrix} \begin{matrix} + r^2 (\text{I}_2 : \text{I}_1) \\ - r^2 (\text{I}_2 : \text{I}_5) \end{matrix}$

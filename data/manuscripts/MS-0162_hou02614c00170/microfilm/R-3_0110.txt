@@ -1,0 +1,55 @@
+A point removed from a line
+at an ordinary point
+increases the extremities by 2
+and [bracket] increases the chorisis by 1
+or diminishes the cyclosis by 1
+
+at a node
+removes that node [del]and[/del]
+and adds as many extremities as the branches of the node
+and [bracket] increases the chorisis by 1 less than the branches of the node
+or diminishes the cyclosis by 1 less than the branches of the node [fig]loop with node[/fig]
+
+at an extremity
+has no effect.
+
+at an acnode
+diminishes the acnodes by 1
+and diminishes the chorisis by 1.
+
+[u]X chorisis of the point = 1[/u]
+
+X C chorisis and cyclosis of the line
+
+$S_0$ acnodes
+$S_1$ extremities
+[del]$S_2$ nodes[/del]
+$S_3$ three way nodes.
+
+In parenthesis after removal
+$(X) - (C) = X - C + X(s-1)$
+[del]$\Sigma = X$[/del]
+[del]$(\Sigma) = \Sigma + X$[/del]
+
+where s is the subscript of $S_s$ the point of line where point is removed
+
+at acnode diminishes acnodes by 1 [fig]isolated point and line[/fig]
+at extremity has no effect
+at ordinary point adds extremities 2
+at $S_3$ adds [ins]3[/ins] extremities (but takes away node)
+at $S_4$ adds 4 extremities
+at $S_5$ adds 5 extremities
+
+It increases $\Sigma S_1 - \Sigma S_3 + 2 \Sigma S_4 - 2 \Sigma S_4$
+
+It increases $2 \Sigma S_0 + \Sigma_1 S_1 - \Sigma S_3 - 2 \Sigma S_4 - 3 \Sigma S_5$
+by $2 X(s-1)$
+
+[fig]branching node diagram[/fig]
+" Acnode = 2 extremities
+Extremity = - Node
+S way node = 3 ordinary nodes.
+
+[u]Call the total singularity[/u]
+$-2 \Sigma S_0 - \Sigma S_1 + \Sigma S_3 + 2 \Sigma S_4 + 3 \Sigma S_5$
+$= \Sigma_p (p-2) S_p$

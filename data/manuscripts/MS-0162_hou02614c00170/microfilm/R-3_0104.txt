@@ -1,0 +1,42 @@
+[pn]Ms 162[/pn]
+
+Higher Listing numbers are similarly defined after the same analogy.
+
+The [del]census-[/del] number of a place is equal to the chorisis [del]less[/del] [ins]minus[/ins] the cyclosis plus the periphraxis [del]minus[/del] the immensity plus etc. of the place [del]less[/del] [ins]minus those of[/ins] its immediate singularities plus those of the singularities of these singularities minus etc.
+
+[u]Examples[/u]
+
+The [del]census-number[/del]
+
+A figure composed of N points has [del]choris[/del]
+$$\begin{array}{lc}
+\text{chorisis} & N \\
+\text{cyclosis, etc} & 0
+\end{array}$$
+and it has [del]not[/del] no singularities. Hence, its census-number is N.
+
+[del]A[/del] [ins]An [ins]oval[/ins][/ins] [del]circle[/del] has
+$$\begin{array}{lc}
+\text{chorisis} & 1 \\
+\text{cyclosis} & 1 \\
+\text{periphraxis etc} & 0
+\end{array}$$
+and it has no singularities. Hence, its census-number is 0.
+
+A figure of 8 has
+$$\begin{array}{lclr}
+\text{chorisis} & 1 & \text{chorisis of node} & 1 \\
+\text{cyclosis} & 2 & \text{cyclosis, etc} & 0 \\
+\text{periphraxis etc} & 0 & & \overline{\ \ 1\ \ } \\
+& \overline{-1} & &
+\end{array}$$
+Hence its census-number is $-2$.
+
+A limited line has
+$$\begin{array}{lclr}
+\text{chorisis} & 1 & \text{chorisis of singularities} & 2 \\
+\text{cyclosis} & 0 & \text{cyclosis etc} & 0 \\
+\text{periphraxis etc} & 0 & & \overline{\ \ 2\ \ } \\
+& \overline{\ \ 1\ \ } & &
+\end{array}$$
+Hence its census number is $-1$.

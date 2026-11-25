@@ -1,0 +1,23 @@
+[pn]10[/pn]
+
+For by the distributive principle
+$\Sigma_{i} u_{i} . \Pi_{j} v_{j} \left(= (u_{1} + u_{2} + u_{3} \dots) v^{1} v^{2} v^{3} \dots \right)$
+$= \Sigma_{i} \Pi_{j} u_{i} v_{j} \left(= u_{1} v^{1} v^{2} v^{3} \dots + u_{2} v^{1} v^{2} v^{3} \dots + \text{etc}\right)$
+$= \Pi_{j} \Sigma_{i} u_{i} v_{j} \left(= (u_{1} + u_{2} + \text{etc}) v_{1} . (u_{1} + u_{2} + \text{etc}) v_{2} . \text{etc}\right)$
+
+Thus the $\Sigma$'s and $\Pi$'s belonging to
+the different premises can be ar-
+ranged in any order, so long as
+the original order in any one
+premise remains undisturbed.
+
+We have, in general,
+$\Pi_{i} \Pi_{j} = \Pi_{j} \Pi_{i}$
+$\Sigma_{i} \Sigma_{j} = \Sigma_{j} \Sigma_{i}$
+
+so that even in one premise
+the $\Pi$'s may be transposed among
+[del]each[/del] themselves and so may the
+$\Sigma$'s, so long as [del]the order of the
+$\Pi$'s and $\Sigma$'s is not disturbed[/del]
+no $\Pi$ and $\Sigma$ have their order in

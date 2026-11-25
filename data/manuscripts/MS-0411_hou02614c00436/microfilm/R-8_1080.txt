@@ -1,0 +1,34 @@
+[pn]207[/pn]
+[del]only literary work, can only be appreciated by those who
+are descending life's slope[/del] [ins]from[/ins] [del]which the scholastics largely
+learned their logic, the subject is treated, though not at all well,
+yet at considerable length, and all the more effectively that
+many of his forms are erroneous. However, the subject has
+never attracted much attention.[/del]
+
+Suppose we have
+X true,
+and [u]Y[/u]Z true.
+
+From the latter, by Rule 2, we get
+[u]X[/u][u]Y[/u] [u]Y[/u]Z true.
+
+[del]But by the modus ponens, if X is true then[/del]
+By rule 1
+[u]X[/u][u]Y[/u] [u]X[/u] y true
+
+And by rule 3
+[u]X[/u] [u][u]X[/u] y[/u] y true.
+
+Hence by the modus ponens, X being true, we have
+[u]X[/u][u]Y[/u] y true.
+
+From the last and the third propositions, we have by rule 3
+[u]X[/u][u]Y[/u]Z true.
+
+We have thus justified the inference
+X true.
+[u]Y[/u]Z true,
+<tex>\therefore</tex> [u]X[/u][u]Y[/u]Z true.
+
+As an example, take this:

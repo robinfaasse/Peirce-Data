@@ -1,0 +1,12 @@
+[pn]326[/pn]
+
+[u]Perspective[/u]
+
+[u]Art. 131. Theorem 54. (Desargues's Ten-Line Theorem.)[/u] If [u]three[/u] [u]copunctual[/u] [u]rays[/u] [u]contain[/u] [u]each[/u] [del]the[/del] [ins]a[/ins] [u]vertex[/u] [u]of[/u] [u]one[/u] [u]triangle[/u] [u]and[/u] [u]each[/u] [u]a[/u] [u]vertex[/u] [u]of[/u] [u]another[/u] [u]triangle[/u], [u]then[/u] [u]the[/u] [u]sides[/u] [u]of[/u] [del]three[/del] [ins]one of these[/ins] [u]triangles[/u] [u]being[/u] [u]produced[/u] [u]will[/u] [u]cut[/u] [u]the[/u] [u]corresponding[/u] [u]sides[/u] [u]of[/u] [u]the[/u] [u]other[/u] [u]triangle[/u] [u]produced[/u], [u]and[/u] [u]the[/u] [u]three[/u] [u]points[/u] [u]of[/u] [u]intersection[/u] [u]will[/u] [u]be[/u] [u]coradial[/u]; [u]and[/u] [u]conversely[/u].
+
+[u]Demonstration[/u]. Let the rays {$X_{1}X_{2}$}, {$Y_{1}Y_{2}$}, and {$Z_{1}Z_{2}$} meet in one point, [$O$]. Then {$X_{1}Y_{1}$}, {$Y_{1}Z_{1}$}, {$Z_{1}X_{1}$} will be, the sides produced of one triangle and {$X_{2}Y_{2}$} {$Y_{2}Z_{2}$} {$Z_{2}X_{2}$} those of another. I say, first, that {$Y_{1}Z_{1}$} {$Y_{2}Z_{2}$} will have a point, call it [$A$], in common, {$Z_{1}X_{1}$} {$Z_{2}X_{2}$} a point, call it [$B$] in common, and {$X_{1}Y_{1}$} {$X_{2}Y_{2}$} a point, call it [$C$] in common, and further that [$A$], [$B$], [$C$] will lie in one ray.
+
+[fig]Desargues's theorem configuration with perspective triangles[/fig]
+Figure 203
+
+First, consider the case in which the three rays {$X_{1}X_{2}$}, {$Y_{1}Y_{2}$}, {$Z_{1}Z_{2}$} are not in one plane. Then the three points [$O$], [$Y_{1}$], [$Z_{1}$] [ins]by Cor. 101[/ins] are in a plane ($OY_{1}Z_{1}$); and since [$O$] and [$Y_{1}$] are in ($OY_{1}Z_{1}$), by Cor. 99, the ray {$OY_{1}$} is in ($OY_{1}Z_{1}$); and so is {$OZ_{1}$}. Hence every point in {$OY_{1}$} and every point in {$OZ_{1}$} is contained in ($OY_{1}Z_{1}$). Now, by hypothesis, [$Y_{2}$] is in {$OY_{1}$} and [$Z_{2}$] is in {$OZ_{1}$}. Hence [$Y_{2}$] and [$Z_{2}$] are in the plane ($OY_{1}Z_{1}$); and accordingly, by Cor. 99, {$Y_{2}Z_{2}$} is in the

@@ -1,0 +1,33 @@
+given number belongs, proceed as follows. First find the 'nine-residue' of the
+given ordinal number, which is the remainder after division of it by 9.
+[del][bracket]It is the same as that of the sum of the figures comprising its expression in the
+decimal notation. But if that sum is 9, the nine-residue is 0.[/bracket][/del] A number
+which agrees with its nine-residue in that both are even or both odd may
+be called an [u]Early Number[/u]; one which disagrees with its nine-residue in
+that one of the two is even and the other odd may be called a [u]Late Number[/u].
+
+The [u]Group-Number of the Ordinal Number 0 is 1[/u].
+
+The [u]Group-Number of any Ordinal Number written with one figure in the
+Arabic notation is two less than the ordinal number, unless the latter
+be less than 2.[/u]
+
+The [u]Group Number of any other Early Number is its nine-residue[/u].
+
+The [u]Group Number of a Late Number whose nine-residue is less
+than 2 is the [ins]same as the[/ins] Group Number of the ordinal number that is one less than
+the given ordinal number, unless this lesser number be written with
+a single figure. In this case as well as in all cases where the nine-resi-
+due of the Late Number is as great or greater than 2, the Group Number
+is one less than the Nine residue.[/u]
+
+For example, of 29 the nine-residue is 2, and this being even, while 29
+is odd the latter is a late number, and its group-number is 2-1, or 1. But
+of 28 the nine-residue is 1, and this being odd while 28 is even, the latter
+is a late number, and [del]its[/del] [ins]its nine-residue being less than 2[/ins] group-number is the same as that of 27. Now 27
+has 0 for its nine-residue, which being even while 27 is odd, the latter [del]has[/del] [ins]is[/ins]
+a late number, and its nine-residue being less than 2, its group-number is the
+same as that of 26. The number 26, in its turn, has 8 for its nine residue,
+and both 8 and 26 being even, the latter is an early number, and its group
+number, as well as those of 27 and of 28, is 8. But 10, whose nine residue is 1,
+so that it is a late number, does not have the same group number as 9 because

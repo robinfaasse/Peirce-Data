@@ -1,0 +1,22 @@
+Some algebraical problems do not consist in solving
+equations. Suppose we have a whole number written with
+6 figures. Call it
+[u]100000 a[/u] + [u]10000 b[/u] + [u]1000 c[/u] + [u]10 d[/u] + [u]10 e[/u] + [u]f[/u].
+What will be the remainder of this divided by 7. It will
+be the same, if we subtract from it, any exact multiple of
+7. [del]Subtract from[/del] We subtract 7e, and we have 3e. Since
+3 is the remainder of 10 divided by 7, 3 x 3 = 9 will give
+the same remainder as 100. Hence 100d and [u]2d[/u] will
+give the same remainder. Since 100 leaves 2 and 10 leaves
+3, 1000, or 100 x 10, will leave 2 x 3, or 6. Hence [u]1000 c[/u]
+will leave the same remainder as [u]6c[/u]. Since 100 leaves 2
+10000, or 100 x 100, will leave 2 x 2, or 4. Hence [u]10000 b[/u]
+will leave the same remainder as [u]4b[/u]. 100000 [u]a[/u] will leave
+the same remainder as [del]12[/del] 3 x 4 [u]a[/u] = [u]12a[/u], that is the same
+as 5a. Consequently the whole number will leave the same
+remainder as [u]f[/u] + [u]3e[/u] + [u]2d[/u] + [u]6c[/u] + [u]4b[/u] + [u]5a[/u], or as
+f - c + 3(e - b) + 2(d - a). Consequently any number of 6
+[ins]figures of which the[/ins] [del]whose[/del] first 3 figures are the same as the last 3 each to
+each, as 475475 or leave the same remainders when
+7 is subtracted as 405475 is divisible by 7. The number
+523456, [ins]since 5-4+3(2-5)+2(3-6) = 1-9-6 = 1-2+1 = 0[/ins] is divisible by 7. This illustrates what even the most elementary algebra will do.

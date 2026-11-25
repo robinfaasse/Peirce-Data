@@ -1,0 +1,37 @@
+$$\bar{a} + \bar{b} = \bar{b} + \bar{a}$$
+
+$$\begin{aligned}
+a \smallsmile b \smallsmile 0 &= b \smallsmile a \smallsmile 0 \\
+[del]a \smallsmile b \smallsmile c[/del] &= b \smallsmile a \smallsmile c
+\end{aligned}$$
+
+$$(a + b) + c = a + (b + c)$$
+
+$$\begin{aligned}
+&(a \smallsmile b \smallsmile \underset{d}{0}) \smallsmile c \smallsmile \underset{e}{0} \\
+&= a \smallsmile (b \smallsmile c \smallsmile 0) \smallsmile 0
+\end{aligned}$$
+
+$$a \bar{b} \bar{d} + \bar{c} + e$$
+
+$$\begin{aligned}
+&\{[(a \smallsmile 0) \smallsmile (b \smallsmile 0) \smallsmile 0] \smallsmile 0\} \smallsmile (c \smallsmile 0) \smallsmile 0 \\
+&= (a \smallsmile 0) \smallsmile \{[(b \smallsmile 0) \smallsmile (c \smallsmile 0) \smallsmile 0] \smallsmile 0\} \smallsmile 0 \\
+&[del](a \smallsmile b \smallsmile 0)[/del]
+\end{aligned}$$
+
+$$\begin{aligned}
+&[(a \smallsmile b \smallsmile [del]x[/del]) \smallsmile 0] \smallsmile c \smallsmile z \\
+&= a \smallsmile [(b \smallsmile c \smallsmile [del]x[/del]) \smallsmile 0] \smallsmile z
+\end{aligned}$$
+
+$$\begin{aligned}
+&[(a \smallsmile b \smallsmile \overset{x}{0}) \smallsmile \overset{y}{0}] \smallsmile c \smallsmile \overset{z}{0} \\
+&= a \smallsmile [[(b \smallsmile c \smallsmile 0) \smallsmile 0] \smallsmile 0
+\end{aligned}$$
+
+$$\begin{aligned}
+&[del](a \bar{b} \bar{x} + y) \bar{e} + z[/del] \\
+&(\bar{a} + \bar{b} + x)\bar{y} + \bar{c} + z \\
+&= \bar{a} + (\bar{b} + \bar{c} + x)\bar{y} + z
+\end{aligned}$$

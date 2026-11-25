@@ -1,0 +1,31 @@
+(3) An antecedent may be dropped anywhere [ins]under a single[/ins] [del]under[/del]
+a vinculum.
+
+For example, the following inference is valid
+[u]X|Y[/u]|Z
+[u]..[/u]. Y|Z
+
+This is proved easily. If [u]X|Y[/u]|Z is true, either Z is true
+or [u]X|Y[/u] is false. If Z is true, Y|Z is true. If [u]X|Y[/u]
+is false, Y is false; and if Y is false, Y|Z is true.
+Hence, if [u]X|Y[/u]|Z is true, Y|Z is true.
+
+And, in general, if the inference
+T|Q,
+[u]..[/u]. T|P,
+is valid, then the inference is valid
+[del][fig]crossed out logic diagram[/fig][/del] T|P|R
+[del][u]..[/u]. [fig]crossed out logic diagram[/fig][/del] [u]..[/u]. T|Q|R.
+
+[del]For if from the truth of R the truth of P foll[/del]
+For since from the truth of Q the truth of P follows,
+if from the truth of P the truth of R follows, we rightly
+conclude that from the truth of Q the truth of R follows.
+Hence, from the truth of [ins]rule[/ins] (2), the truth of [ins]rule[/ins] (3) follows.
+
+At the same time we prove that rule (2) holds
+under any even number of vincula and rule (3) under
+any odd number.
+
+Moreover the restriction of these two rules to antece-
+dents is evidently merely owing to [del]an imperfection[/del] [ins]the narrowness[/ins] of

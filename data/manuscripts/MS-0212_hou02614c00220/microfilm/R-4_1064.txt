@@ -1,0 +1,33 @@
+[pn]Trade Secret
+4[/pn]
+
+Finally, if we take the first approximations of the four sets, we
+have
+
+$$\begin{array}{lll}
+& \Delta & \Delta^2 \\
+a_1 = 0.0 & +0.70968 & -0.67830 \\
+b_1 = 0.70968 & +0.03137 & -0.03055 \\
+c_1 = 0.74105 & +0.00082 & \\
+d_1 = 0.74188 & &
+\end{array}$$
+
+Treating these in the same way, we get these new ap-
+proximations
+
+$$\begin{array}{l}
+a' \\
+0.74250 \\
+0.74190
+\end{array}$$
+
+The error of the last is $-0.00003888$. Comparing this
+with the results the ordinary arithmetician would get,
+we find that the latter [del]would[/del] [ins]might[/ins] deduce from the six terms
+of the formula a result more than $3664$ times as
+erroneous as that which the expert computer will
+derive from the same data. [del]And[/del] Of course there [del]must[/del] [ins]may[/ins] be cases
+where the method breaks down badly, [del]though this must be very rare[/del]
+when one sets out from a series of nine approximations.
+
+C. S. Peirce

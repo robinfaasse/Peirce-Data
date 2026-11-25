@@ -1,0 +1,18 @@
+[u]Art.[/u] . [u]Definition[/u] . An [u]arc[/u] of a circle is a limited portion of it.
+
+[u]Definition[/u] . An angle is said to subtend at [del]any[/del] [ins]its vertex[/ins] any limited line having its extremities on its legs and extending across its sweep.
+
+[u]Theorem[/u] . [del]All[/del] [ins]Every[/ins] [del]angles[/del] [ins]angle[/ins] subtended [del]at the[/del] [ins]a point[/ins] of the [u]circumference[/u] of a circle by [del]the same[/del] [ins]an[/ins] arc of that circle is equal to half the angle [del]subtended[/del] [ins]centrally[/ins] by the same arc[del], at the centre[/del].
+
+[u]Demonstration[/u]. If [del][A], [B], [D][/del] [ins][C][/ins] be the centre of the circle through the points [A], [B], [D], I say that $\angle\text{ADB} = \frac{1}{2}\angle\text{ACB}$.
+
+[fig]Circle with inscribed triangle ABD and central angle ACB[/fig]
+
+For the triangles $\Delta\text{ACD}$ and $\Delta\text{BCD}$ are isosceles, so that, by theorem, $\angle\text{ADC} = \angle\text{CAD}$ and $\angle\text{CDB} = \angle\text{CBD}$. In the triangle $\Delta\text{ADB}$ we have, [ins]by theorem,[/ins] $\angle\text{BAD} + \angle\text{ADB} + \angle\text{DBA} = \partial$,
+that is $\angle\text{BAC} + \angle\text{CAD} + \angle\text{ADB} + \angle\text{DBC} + \angle\text{CBA}$
+$= \angle\text{BAC} + 2\angle\text{ADB} + \angle\text{CBA} = \partial$
+
+But in the triangle $\Delta\text{ACB}$ we have
+$\angle\text{BAC} + \angle\text{ACB} + \angle\text{CBA} = \partial$.
+
+Hence, by subtraction $2\angle\text{ADB} = \angle\text{ACB}$. Q.E.D.

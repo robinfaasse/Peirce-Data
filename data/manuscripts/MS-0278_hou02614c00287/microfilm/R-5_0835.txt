@@ -1,0 +1,45 @@
+$$\left(\frac{r}{R}\right)^2 + \left(\frac{z-Z}{Z}\right)^2 = 1 \qquad \left(\frac{r}{R}\right)^2 + \left(\frac{z}{Z} - 2\right)^2 = 1$$
+
+$$\left(\frac{r}{R}\right)^2 + \frac{z(z-2Z)}{Z^2} = 0 \qquad \left(\frac{r}{R}\right)^2 = \frac{z}{Z}\left(2 - \frac{z}{Z}\right)$$
+
+$$\frac{r^2}{R^2} = \frac{z}{Z}\left(2 - \frac{z}{Z}\right) \qquad \frac{r}{R} = \sqrt{\frac{z}{Z}\left(2 - \frac{z}{Z}\right)}$$
+
+$$R = Z(1+C) \qquad r = R\left(\frac{z}{Z}\right)^{\frac{1}{2}}\left(2 - \frac{z}{Z}\right)^{\frac{1}{2}}$$
+
+$$r = (1+C)Z\left(2 - \frac{z}{Z}\right)$$
+
+[del]$$r = R\sqrt{\frac{z}{R(1-C)}\left(2 - \frac{z}{R(1-C)}\right)}$$[/del] [del]$$(1+C) \approx (2$$[/del]
+
+[del]$$= \sqrt{\frac{z}{1-C}\left(2R - \frac{z}{1-C}\right)}$$[/del] [del]$$= \frac{z}{R}(2(1+C) -$$[/del]
+
+[del]$$\frac{r}{R} = \sqrt{\frac{z}{Z}\left(\frac{2Z-z}{Z}\right)}$$[/del]
+
+$$2\frac{r dr}{R^2} = 2\frac{dz}{Z} - 2\frac{z dz}{Z^2}$$
+
+$$\frac{r dr}{R^2} = \frac{(Z-z)dz}{Z^2}$$
+
+[del]$$r = \frac{R}{Z}$$[/del]
+
+$$dr = \frac{R^2}{r}$$
+
+$$C = \frac{R-Z}{R}$$ [del]$$C = \frac{R-Z}{R}$$[/del] [del]$$C = \frac{Z-R}{R}$$[/del]
+
+[del]$$Z = R(1-C)$$[/del] [del]$$C = \frac{R-Z}{R}$$[/del]
+
+$$Z = R(1-C)$$
+
+$$\frac{dr}{dz} = R\left(\right.$$
+
+$$dr = R \frac{1}{2}\frac{dz}{Z} \frac{1}{\sqrt{\frac{z}{Z}}} \left(2 - \frac{z}{Z}\right)^{\frac{1}{2}}$$
+
+[del]$$= \frac{R}{2} \sqrt{\frac{Z}{z}} \frac{dz}{Z}$$[/del] [del]$$\frac{dr}{dz} = \frac{\sqrt{2-\frac{z}{Z}}}{\sqrt{\frac{z}{Z}}}$$[/del]
+
+[del]$$dr = \frac{\left(2Z-z\right)^2}{Z^2}$$[/del]
+
+[del]$$\frac{dr}{dz} = \frac{R}{2}$$[/del]
+
+$$dy = \frac{1}{2}R \frac{\frac{dz}{Z}\left(2-\frac{z}{Z}\right) - \frac{z}{Z}\frac{dz}{Z}}{\frac{z}{Z}\left(2-\frac{z}{Z}\right)}$$
+
+[del]$$= \frac{R}{2} \left(1 - \frac{z}{Z}\right)$$[/del]
+
+$$= \frac{1}{2}R \frac{2\frac{dz}{Z} - 2\frac{z dz}{Z^2}}{\frac{z}{Z}\left(2-\frac{z}{Z}\right)}$$

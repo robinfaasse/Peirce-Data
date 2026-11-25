@@ -1,0 +1,16 @@
+[pn]17[/pn] Pascal's triangle is an indefinitely extended array of numbers of which the
+first part is shown in Figs. 1 and 2. Fig. 1 simply gives designations for
+them, Fig. 2 their values. Each number is seen to be denoted by a C with
+two subscript numbers, of which the first maybe called [del]the[/del] [ins]each of[/ins] [u]x[/u], the second [u]y[/u].
+
+Along [del]these[/del] [ins]each of[/ins] diagonal lines which run from left-below to right-above, [u]x[/u] is
+constant, while [u]y[/u] increases by one for every step toward the right-above.
+
+Along [del]these[/del] [ins]each of[/ins] diagonal lines which run from left-above to right-below, [u]y[/u] is
+constant, while [u]x[/u] increases by one for every step toward right-below.
+
+Consequently, in each vertical column, [u]x[/u] + [u]y[/u] is constant, and [ins][u]x[/u][/ins] increases
+by one from column to column toward the right. As for the values, they
+are [del]zero[/del] [ins]equal to 1[/ins] when either [u]x[/u] or [u]y[/u] is zero, and $C_{x,y} = C_{x-1,y} + C_{x,y-1}$. It follows
+necessarily that $C_{x,y} = \frac{(x+y)!}{x! y!}$ where the admiration-mark is conventionally
+used to declare that what is meant is the continued product of all the integer numbers

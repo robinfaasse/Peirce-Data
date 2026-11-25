@@ -1,0 +1,34 @@
+Morison's Bridge 1839 Jan 29. Sunday
+
+The stiff extensible cable -
+The extremities move only horizontally
+
+[fig]Diagram of a cable segment with forces[/fig]
+
+The energy = $A x_0^2 + A (x_{N+1} - x_{N+1})^2 +$ [del]$K g l_0 \sin \theta_0 + \sum_1^{N-1} k g l_n \sin \theta_n$[/del]
+[del]$+ [K g + (\sum_1^N k_n g)] l_0 \sin \theta_0$[/del] $+ \sum_{0}^{N-1} m \sum_{M+1}^N k_n g \cdot l_m \sin \theta_m - K g l_N \sin \theta_N$
+$+ \frac{1}{2} \beta \sum_0^{N-1} (\theta_{n+1} - \theta_n)^2 + \frac{1}{2} E \sum_0^N (l_n - L_n)^2$
+
+subject to the conditions
+$\sum_0^N l_n \sin \theta_n = Y_N$
+$x_{N+1} - x_0 = \sum_0^N l_n \cos \theta_n$
+
+[del][fig]crossed out diagram[/fig][/del] [del][fig]crossed out diagram[/fig][/del] [del][fig]crossed out diagram[/fig][/del] [fig]diagram of forces[/fig] I [fig]diagram of forces[/fig] II
+
+[fig]Geometric diagram of angles and lengths[/fig]
+
+There are [del]therefore 2N+1 degrees of freedom[/del]
+There are $2N+2$ $l$'s and $\theta$'s
+$\phantom{There are } 2$ $x$'s
+[del]There is one condition[/del]
+There are [ins]two[/ins] conditions
+making $2N+2$ degrees of freedom.
+
+$(l_{n+1} \frac{\sin \theta_{n+1}}{\cos \theta_n} - l_n \delta \theta_n) \frac{\cos \theta_n}{l_{n+1}} = \sin (\theta_{n+1} + \delta \theta_{n+1})$
+$\sin \theta_{n+1} - \frac{l_n}{l_{n+1}} \cos \theta_n \delta \theta_n = \sin \theta_{n+1} + \cos \theta_{n+1} \cdot \delta \theta_{n+1}$
+$\delta \theta_{n+1} = - \frac{l_n \cos \theta_n}{l_{n+1} \cos \theta_{n+1}} \delta \theta_n$
+
+[del][fig]crossed out diagram[/fig][/del]
+
+$\beta (\theta_n - \theta_{n-1}) [del]\delta \theta_n[/del] - \beta (\theta_{n+1} - \theta_n) (1 + \frac{l_n \cos \theta_n}{l_{n+1} \cos \theta_{n+1}}) + \beta (\theta_{n+2} - \theta_{n+1}) \frac{l_n \cos \theta_n}{l_{n+1} \cos \theta_{n+1}}$
+$+ [del]k g l_n \cos \theta_n[/del] = 0

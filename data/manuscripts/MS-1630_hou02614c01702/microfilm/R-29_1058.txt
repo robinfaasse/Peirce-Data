@@ -1,0 +1,30 @@
+[del]n log x = ln (y^2 - a) - ln b[/del]
+[del]\frac{D_y x}{x} = \frac{q y^{q-1}}{(y^2 - a)^n}[/del]
+[del]\int_y \int [\frac{y^2 - a}{b}, y] \frac{q y^{q-1}}{(y^2 - a)^n}[/del]
+
+[u]§40[/u] Lecture Is.
+[del]a x^r + b x = y[/del]
+[del]\int u D v = u v - \int v D u[/del]
+[del]v = x^s[/del]
+[del]D = s x^{s-1}[/del]
+[del]u D v = x^m y^p = s u x^{s-1}[/del]
+[del]u = \frac{x^m y^p}{s y^{s-1}} = \frac{x^{m-s+1} y^p}{s}[/del]
+[del]u v = \frac{x^{m+1} y^p}{s}[/del]
+
+[marginalia]
+as in
+book
+[/marginalia]
+
+[del]= \frac{x^{m+1} y^p}{s} - \int[/del]
+[del]D y = a b x^{n-1}[/del]
+[del]D u = \frac{(m-s+1) x^{m-s} y^p + p x^{m-s+1} y^{p-1} D y}{s}[/del]
+[del]= \frac{(m-s+1)}{s} x^{m-s} y^p + \frac{m p a}{s} x^{m-s+n} y^{p-1}[/del]
+
+[marginalia]
+& in book
+[/marginalia]
+
+[u]§42[/u]
+[u]§44[/u] [fig]integral symbol[/fig]
+(-\frac{a}{b})^h \frac{(\frac{m-n+1}{n}!) (\frac{m+1+np}{n} - h)!}{(\frac{m-n+1}{n} - h)! (\frac{m+1+np}{n})!} [fig]integral symbol[/fig]

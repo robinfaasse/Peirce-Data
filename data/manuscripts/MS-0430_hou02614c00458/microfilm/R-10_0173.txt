@@ -1,0 +1,22 @@
+[marginalia]
+Logic
+III
+30
+[/marginalia]
+
+The last (5) gives
+(6) [fig]nested ovals with letters L, J[/fig] whence [fig]nested ovals with letters L, J[/fig];
+and (3) gives
+(7) [fig]nested ovals with letters C, J[/fig]
+Iterating (6) in (7), we get,
+(8) [fig]nested ovals with letters C, J, J, L[/fig] whence [fig]nested ovals with letters C, J, L[/fig] and [fig]nested ovals with letters S, C, L[/fig] and [fig]nested ovals with letters C, L[/fig].
+But (3) gives
+(9) [fig]nested ovals with letters C, L[/fig]
+Iterating (8) in (9) we get
+(10) [fig]nested ovals with letters C, I, I, C[/fig] whence [fig]nested ovals with letters C, I, C[/fig] whence [fig]nested ovals with letters C, C[/fig] and [fig]nested ovals with letter C[/fig].
+Now (1) gives
+(11) [fig]nested ovals with letters L, C[/fig] whence [fig]nested ovals with letters L, C[/fig]
+Iterating (10) in (11) we get
+(12) [fig]nested ovals with letters L, C, C[/fig] [ins]C[/ins] whence [fig]nested ovals with letters I, C, C[/fig], whence [fig]nested ovals with letters L, C[/fig] and [fig]nested ovals with letters L, C[/fig]
+Iterating (2) in (1) we get
+(13) [fig]nested ovals with letters J, J, L, C, L[/fig] [ins]S C[/ins] whence [fig]nested ovals with letters J, C, L[/fig] [ins]S C[/ins] and [fig]nested ovals with letters L, C[/fig].

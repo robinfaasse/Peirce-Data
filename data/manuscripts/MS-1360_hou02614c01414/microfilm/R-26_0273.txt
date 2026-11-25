@@ -1,0 +1,33 @@
+[u]Notation[/u]
+
+Origin of $x$ and $y$ half way between pier-bearings of truss axis, $y$ measured up.
+$x$ for section considered
+$\xi$ for [del]loaded points[/del]
+
+$x_A$ $x_B$ $x_C$ $x_D$
+Backstays
+$x_A = 1400\text{ ft.}$
+$x_B = 1550\text{ ft.}$
+$x_C = 1600\text{ ft.}$
+$y_B = 2050\text{ ft.}$
+
+$y$ is for the form of the parabolic cable under dead load, $\delta y$ effect of live load
+$y'$ is for the part of the cable that hangs in a simple catenary, $\delta y'$ effect of live load
+$v$ is for the truss axis, $\delta v$ effect of live load
+
+$A$ cross section of cable
+$A'$ of chord of truss
+$S$ "[del]An[/del]" (German letter A) that of suspenders
+
+$I$ Moment of inertia of [del]left[/del] truss section [del]about axis in and through centre of gravity[/del]
+
+$Q$ dead load $\delta Q$ live load considered as a constant (wherever it is)
+$q$ the live load where there is a live load
+
+$E$ Elasticity of cable and suspenders
+$F$ Elasticity of truss.
+
+$H$ Horizontal stress due to dead load $\delta H$ due to live load.
+
+$M'$ Moment of flexure dead load $\delta M'$ due to live load
+$M$ Final moment for all forces.

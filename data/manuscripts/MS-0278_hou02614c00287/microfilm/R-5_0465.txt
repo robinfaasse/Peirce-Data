@@ -1,0 +1,29 @@
+[pn]15[/pn]
+
+Owing to the similarity of the differences and summations
+of factorials, it is desirable to [del]express[/del] [ins]find expressions of[/ins] [del]pow[/del] powers in terms
+of factorials.
+
+$x(x-1) = x^2 - x \quad \therefore \quad x^2 = x(x-1) + x$
+
+$x(x-1)(x-2) = x^3 - 3x^2 + 2x$
+$\therefore x^3 = x(x-1)(x-2) + 3x^2 - 2x$
+$= x(x-1)(x-2) + 3x(x-1) + x$
+
+$x(x-1)(x-2)(x-3) = x^4 - 3x^3 + 2x^2$
+$\qquad\qquad\qquad\qquad\quad - 3x^3 + 9x^2 - 6x$
+$\qquad\qquad\qquad\quad = x^4 - 6x^3 + 11x^2 - 6x$
+$\therefore x^4 = x(x-1)(x-2)(x-3) + 6x^3 - 11x^2 + 6x$
+$= x(x-1)(x-2)(x-3) + 6x(x-1)(x-2) + 18x(x-1) + 6x$
+$\qquad\qquad\qquad\qquad\qquad\qquad\qquad\quad - 11x(x-1) - 11x$
+$\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\quad + 6x$
+$= x(x-1)(x-2)(x-3) + 6x(x-1)(x-2) + 7x(x-1) + x$
+
+$x(x-1)(x-2)(x-3)(x-4) = x^5 - [del]6x^4[/del] [ins]10x^4[/ins] + 11[del]x^3[/del] [ins]35x^3[/ins] - 50x^2 + 24x$
+
+$\therefore x^5 = x(x-1)(x-2)(x-3)(x-4) + 10x^4 - 35x^3 + 50x^2 - 24x$
+$\qquad\qquad\qquad\qquad\qquad\qquad\quad + 10x(x-1)(x-2)(x-3) + 60x(x-1)(x-2) + 70x(x-1) + 10x$
+$\qquad\qquad\qquad\qquad\qquad\qquad\quad - 35x(x-1)(x-2) - 105x(x-1) - 35x$
+$\qquad\qquad\qquad\qquad\qquad\qquad\quad + 50x(x-1) + 50x$
+$\qquad\qquad\qquad\qquad\qquad\qquad\quad - 24x$
+$= x(x-1)(x-2)(x-3)(x-4) + 10x(x-1)(x-2)(x-3) + 25x(x-1)(x-2) + 15x(x-1) + x$

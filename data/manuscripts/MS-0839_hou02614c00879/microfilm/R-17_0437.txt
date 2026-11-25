@@ -1,0 +1,21 @@
+[fig]Two parallel lines intersected by two other parallel lines, labeled A, B, C, D[/fig]
+
+[fig]Two intersecting lines with arrows[/fig]
+
+[fig]A circle with a cross inside[/fig]
+
+[fig]A complex geometric figure with multiple overlapping circles and lines[/fig]
+
+e
+
+[u]I.O.[/u] of [del]q[/del] [ins]b[/ins] $= x_1 - y_1$  $p = y_2 - y_1$
+
+$d = (x_1 - y_1) = b(y_2 - y_1)$
+
+$p x_1 + q x_2 = p y_1 + q y_2$
+
+$\rightarrow x^2 \left(\frac{x_1 - x_2}{y_1 - y_2}\right)^2 + 2(x_1 + y_1 \frac{x_1 - x_2}{y_1 - y_2})x = 0$
+
+$x = 2 \frac{y_1 - y_2 - \frac{x_1 - x_2}{y_1 - y_2} x_1}{\left(\frac{x_1 - x_2}{y_1 - y_2}\right)^2 - 1}$
+
+$= 2(y_1 - y_2) \frac{(x_1 - x_2)^2 - (y_1 - y_2)^2}{[del]y_1^2 + y_2^2 + 2 y_1 y_2 - x_1^2 - x_2^2 + 2 x_1 x_2[/del]}$

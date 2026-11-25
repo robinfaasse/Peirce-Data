@@ -1,0 +1,30 @@
+Suppose
+[del]•[/del] $F_1 z = -\frac{1}{2} A \frac{a^2}{x^2} + \frac{1}{2} U z i$
+$F_2 z = -\frac{1}{2} A \frac{a^2}{x^2} + \frac{1}{2} U z i$
+$F_3 z = F_4 z = -\frac{A}{2}$
+
+$X = [del]- A[/del] a^2 \frac{x^2-y^2}{(x^2+y^2)^2} [del]- A \frac{x-iy}{x^2+y^2} - A \frac{x+iy}{x^2+y^2}[/del] + Uy$
+
+[del]- A (x-iy) \frac{x-iy}{x^2+y^2} - A (x+iy) \frac{x+iy}{x^2+y^2}[/del]
+
+$- A \frac{x^2-y^2}{x^2+y^2}$
+
+[marginalia]$x^2-y^2$[/marginalia] $X = - A a^2 \frac{x^2-y^2}{(x^2+y^2)^2} - A \frac{x^2-y^2}{x^2+y^2} + Uy$
+
+$D_y X = - A a^2 \frac{[del]2y(x^2+y^2) - (x^2-y^2) 2(x^2+y^2) y[/del]}{(x^2+y^2)^3} y$ [ins]$\frac{-6x^2+2y^2}{(x^2+y^2)^3}$[/ins]
+
+[marginalia]
+$-2x^2-2y^2$
+$-4x^2+4y^2$
+$-6x^2+2y^2$
+[/marginalia]
+
+$+ A \frac{[del]2y(x^2+y^2) + (x^2-y^2)[/del] 2y}{(x^2+y^2)^2} + U$ [ins]$\frac{2x^2}{(x^2+y^2)^2}$[/ins]
+
+$D_x X = - A a^2 \frac{2[del]x[/del](x^2+y^2)[del]^2[/del] - 2[del](x^2+y^2) 2[/del]x(x^2-y^2)}{(x^2+y^2)^3} x$ [ins]$\frac{-2x^2+6y^2}{(x^2+y^2)^3}$[/ins]
+
+[marginalia]
+$2x^2+2y^2$
+$-4x^2+4y^2$
+$-2x^2+6y^2$
+[/marginalia]

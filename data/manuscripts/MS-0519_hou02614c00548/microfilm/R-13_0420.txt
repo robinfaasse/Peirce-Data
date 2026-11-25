@@ -1,0 +1,26 @@
+[pn]89[/pn]
+
+[marginalia]
+[u]Note this proceeding[/u]
+[/marginalia]
+
+$\prod_{\beta}\prod_{\alpha}\sum_{a}\sum_{b}\sum_{1}\sum_{2}\sum_{3}$
+$[del]Y_{ab}[/del] X_{a}\overline{Y}_{ab} + (\overline{Y}_{ab} + \overline{X}_{a})Y_{ab} + X_{1}(\overline{Y}_{12} + \overline{Y}_{\beta 12} + Y_{\beta 32}\overline{I}_{13})$
+
+[del]Identify[/del]
+
+$\prod_{\beta}\prod_{\alpha}\sum_{a}\sum_{b}Y_{ab}X_{a}\overline{Y}_{ab} + (\overline{Y}_{ab} + \overline{X}_{a})Y_{ab}$
+$+ \sum_{1}\sum_{2}\sum_{3}\prod_{\alpha}\prod_{\beta} \{ \overline{Y}_{ab} + \overline{X}_{a} + Y_{ab} \} \{ Y_{ab}X_{a} + \overline{Y}_{ab} \} \{ Y_{1}(\overline{Y}_{12} + \overline{Y}_{\beta 12} + Y_{\beta 32}\overline{I}_{13}) \}$
+
+Identify $a$ with $3$ $b$ with $2$
+
+$+ \prod_{\beta}\prod_{\alpha}\sum_{a}\sum_{b} \{ Y_{ab}X_{a}\overline{Y}_{ab} + (\overline{Y}_{ab} + \overline{X}_{a})Y_{ab} \}$
+$+ \sum_{1}\sum_{2}\sum_{3} \{ \overline{Y}_{ab} + \overline{X}_{a} + Y_{ab} \} (Y_{32}X_{3} + \overline{Y}_{32}) [del]X_{1}[/del] \{ X_{1}(\overline{Y}_{12} + \overline{Y}_{\beta 12} + Y_{\beta 32}\overline{I}_{13}) \}$
+
+multiply again by this factor with $a$ identified with $2$
+This immediately gives by omission of factors
+$\prod_{\beta}\prod_{\alpha} [ \sum_{a}\sum_{b} \{ Y_{ab}X_{a}\overline{Y}_{ab} + (\overline{Y}_{ab} + \overline{X}_{a})Y_{ab} \} ]$
+$+ \sum_{1}\sum_{2}\sum_{3} X_{1}(\overline{Y}_{12} + \overline{Y}_{\alpha 12} + X_{2}\overline{Y}_{\alpha 32}\overline{I}_{13})$
+
+Now make first factor disappear by
+$\prod_{\alpha}\sum_{\beta}\prod_{a}\prod_{b} (\overline{Y}_{ab} + \overline{X}_{a} + Y_{ab})(Y_{ab}X_{a} + \overline{Y}_{ab})$

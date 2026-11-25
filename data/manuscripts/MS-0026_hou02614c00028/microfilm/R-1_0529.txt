@@ -1,0 +1,26 @@
+[pn]On Multitude[/pn] [pn]10[/pn]
+
+For squaring (8), and diversifying both [u]x[/u] and [u]y[/u], we get, on dropping factors,
+(13) $\Pi_{\alpha}\Pi_{\beta}\Sigma_{\gamma}\Pi_{\underline{x}}\Pi_{\underline{u}}\Pi_{\underline{y}}\Pi_{\underline{v}} (\bar{q}_{\alpha\underline{x}} + \bar{q}_{\beta\underline{y}} + r_{\gamma\underline{x}\underline{y}}) \cdot (q_{\alpha\underline{u}} + \bar{r}_{\gamma\underline{u}\underline{v}}) \cdot (q_{\beta\underline{v}} + \bar{r}_{\gamma\underline{u}\underline{v}})$.
+Now multiplying [del]by[/del] the square of (1) where for $\underline{x},\alpha,\underline{y}$, we substitute in one factor $\underline{s},\delta,\underline{i}$,
+and in the other $\underline{t},\epsilon,\underline{j}$, we get,
+$\Pi_{\delta}\Sigma_{\delta}\Pi_{\epsilon}\Sigma_{\epsilon}\Pi_{\alpha}\Pi_{\beta}\Sigma_{\gamma}\Pi_{\underline{x}}\Pi_{\underline{u}}\Pi_{\underline{y}}\Pi_{\underline{v}}\Pi_{\underline{i}}\Pi_{\underline{j}}$
+$q_{\delta\underline{s}} \cdot q_{\epsilon\underline{t}} \cdot (\bar{q}_{\alpha\underline{x}} + \bar{q}_{\beta\underline{y}} + r_{\gamma\underline{x}\underline{y}}) \cdot (l_{\delta\underline{i}} + \bar{q}_{\delta\underline{i}}) \cdot (q_{\alpha\underline{u}} + \bar{r}_{\gamma\underline{u}\underline{v}}) \cdot (l_{\epsilon\underline{j}} + \bar{q}_{\epsilon\underline{j}}) \cdot (q_{\beta\underline{v}} + \bar{r}_{\gamma\underline{u}\underline{v}})$.
+Identifying $\alpha$ with $\delta$, $\beta$ with $\epsilon$, $\underline{x}$ with $\underline{s}$, $\underline{y}$ with $\underline{t}$, $\underline{i}$ with $\underline{u}$, $\underline{j}$ with $\underline{v}$, we get after the
+usual reductions
+$\Pi_{\delta}\Sigma_{\delta}\Pi_{\epsilon}\Sigma_{\epsilon}\Sigma_{\gamma}\Pi_{\underline{u}}\Pi_{\underline{v}} r_{\gamma\underline{s}\underline{t}} \cdot (l_{\delta\underline{u}} + [del]\bar{q}_{\delta\underline{u}}[/del] [ins]\bar{r}_{\gamma\underline{u}\underline{v}}[/ins]) \cdot (l_{\epsilon\underline{v}} + \bar{r}_{\gamma\underline{u}\underline{v}})$
+Dropping $\delta$ and $\epsilon$, which do not occur in the Boolean, changing $\underline{s}$ to $\underline{x}$, $\underline{t}$ to $\underline{y}$, and $\underline{y}$ to $\underline{z}$
+we get (12). Q.E.D.
+
+<u>Theorem 7</u>. Taking any collection whatever, there is a relation which
+every unit of that collection bears to everything, and which nothing else bears
+to anything. That is,
+(14) $\Pi_{\alpha}\Sigma_{\beta}\Pi_{\underline{x}}\Pi_{\underline{y}} (\bar{q}_{\alpha\underline{x}} + r_{\beta\underline{x}\underline{y}}) \cdot (q_{\alpha\underline{x}} + \bar{r}_{\beta\underline{x}\underline{y}})$.
+
+This is a consequence of the first order in (2), (3), and (8); so that (2) $\cdot$ (3) $\cdot$ (8) $\prec$ (14).
+For multiplying (8) by (5) in which for $\alpha$ and $\underline{x}$ we substitute $\delta$ and $\underline{z}$, we get
+$\Sigma_{\delta}\Pi_{\alpha}\Pi_{\beta}\Sigma_{\gamma}\Pi_{\underline{x}}\Pi_{\underline{y}}\Pi_{\underline{z}} q_{\delta\underline{z}} \cdot (\bar{q}_{\alpha\underline{x}} + \bar{q}_{\beta\underline{y}} + r_{\gamma\underline{x}\underline{y}}) \cdot (q_{\alpha\underline{z}} + \bar{r}_{\gamma\underline{z}\underline{y}}) \cdot (q_{\beta\underline{y}} + \bar{r}_{\gamma\underline{z}\underline{y}})$.
+Identifying $\beta$ with $\delta$ and $\underline{z}$ with $\underline{y}$, we get this becomes
+$\Sigma_{\delta}\Pi_{\alpha}\Sigma_{\gamma}\Pi_{\underline{x}}\Pi_{\underline{y}} q_{\delta\underline{y}} \cdot (\bar{q}_{\alpha\underline{x}} + r_{\gamma\underline{x}\underline{y}}) \cdot (q_{\alpha\underline{y}} + \bar{r}_{\gamma\underline{x}\underline{y}})$
+Omitting the first factor, dropping $\delta$, which then no longer appears in the Boolean,
+and substituting $\beta$ for $\gamma$, we get (14). Q.E.D.

@@ -1,0 +1,30 @@
+$$\sqrt{\cos\varphi - \cos A}$$
+
+$$1 - 2\sin^2\frac{1}{2}\varphi - \cos A$$
+
+$$\cos A$$
+
+$$d\varphi = 2 d\psi$$
+
+$$\frac{(\cos\varphi - \cos A) (d\psi)^2}{1 - k^2\sin^2\psi} =$$
+
+$$\begin{array}{c}
+w = 4\psi \\
+\cos x = \cos y
+\end{array}$$
+
+$$\int \frac{1}{\sqrt{\cos x - \cos A}} = \int \frac{1}{\sqrt{\cos y - \cos A}}$$
+
+$$\cos y = \sqrt{1+z^2}$$
+
+$$J = \int \frac{1}{\sqrt{\sqrt{1+z^2} - \cos A}} \cdot \frac{1}{\sqrt{1+z^2}}$$
+
+$$= \int \frac{dz}{\sqrt{(\sqrt{1+z^2} - \cos A)(1+z^2)}}$$
+
+$$d\sqrt{1+z^2} = \frac{z}{\sqrt{(1+z^2)}} dz$$
+
+$$\sqrt{1+z^2} = w \quad z^2 = w^2 - 1$$
+
+$$= \int \frac{1}{\sqrt{w - \cos A} \sqrt{w^2 - 1}}$$
+
+$$= \int \frac{1}{\sqrt{w^3 - \cos A w^2 - w + \cos A}}$$

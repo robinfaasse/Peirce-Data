@@ -1,0 +1,25 @@
+[marginalia]Ms. 180[/marginalia]
+
+[u]Sketch of a Proposed
+Treatise on Trigonometry
+and the Astral Computation[/u]
+
+[u]Chapter 0 Preliminary[/u]
+
+I here set down for the student's convenience
+some things in his earlier studies, he will need in the
+course of the book. I also give some elementary
+matter concerning Coordinate Geometry & the Calculus.
+
+[u]Algebra[/u]
+$a^2 - b^2 = (a-b)(a+b)$
+$a^n - b^n = (a-b)(a^{n-1} + a^{n-2}b + \dots b^{n-1})$
+$(x-a)(x-b)(x-c)\dots$
+$= x^n - (a+b+c+\text{etc})x^{n-1} + (ab+ac+bc+ad+bd+cd+\text{etc})x^{n-2}$
+$- (abc+abd+acd+bcd+\text{etc})x^{n-3} + \dots \pm abcd\dots$
+$(x+y)^2 = x^2 + 2xy + y^2$
+$(x+y)^3 = x^3 + 3x^2y + 3xy^2 + y^3$
+$(x+y)^4 = x^4 + 4x^3y + 6x^2y^2 + 4xy^3 + y^4$
+$(x+y)^n = x^n + \frac{n}{1}x^{n-1}y + \frac{n(n-1)}{1\cdot 2}x^{n-2}y^2 + \frac{n(n-1)(n-2)}{1\cdot 2\cdot 3}x^{n-3}y^3 + \dots y^n$
+[del]$\frac{(x+y)^n}{n!} = \sum$[/del] $\frac{x^n}{n!} = \sum_p^n \frac{x^p}{p!} \frac{y^q}{q!}$ (where $p+q=n$)
+If $\frac{a}{b} = \frac{c}{d}$ then $\frac{a+xb}{a+yb} = \frac{c+xd}{c+yd}$

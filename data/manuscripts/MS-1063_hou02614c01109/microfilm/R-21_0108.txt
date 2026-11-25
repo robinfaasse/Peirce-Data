@@ -1,0 +1,33 @@
+[fig]Diagram of a pendulum with angle psi[/fig] $\psi =$
+
+$\frac{mg}{l} \sin \varphi \cos \varphi$
+
+$D_q \Omega = [D_t D_{q'} - D_q] T$
+
+[fig]Diagram of a cone[/fig]
+
+[fig]Diagram of a triangle[/fig]
+
+$s$
+
+[del]$s$[/del] $\frac{1}{2} I (D_t \varphi)^2 + \frac{1}{2} m (D_t s)^2 = T$
+
+[fig]Diagram of a triangle[/fig]
+
+$mgh \varphi^2$
+
+$D_q \Omega = - mgh \varphi$ [del]$\delta \varphi$[/del]
+
+$D_s \Omega = - \epsilon s$
+
+$D_{q'} T = I (D_t \varphi)$
+
+$D_{s'} T = m (D_t s)$
+
+[fig]Diagram of a cone[/fig]
+
+[del]$I D_t^2 \varphi = - mgh \varphi$[/del]
+
+$D_t^2 \varphi = - \frac{mgh}{I} \varphi$
+
+$D_t^2 s = - \frac{\epsilon}{m} s$

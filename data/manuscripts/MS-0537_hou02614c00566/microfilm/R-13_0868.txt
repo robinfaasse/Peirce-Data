@@ -1,0 +1,236 @@
+[pn]11[/pn]
+
+that and only those. But to produce this effect,
+not only must we restrict ourselves to the use of
+the copulas [u]is[/u] and [u]is not[/u], but we must also limit
+the meanings of terms. Thus, let [u]S[/u] represent [u]Socrates[/u]
+and [u]M[/u] represent [u]mortal[/u]. Then, we have the two propositions
+[u]S is M[/u] and [u]S is not M[/u]. One of these is true and the other
+is false. But if for the terms we substituted others,
+say [u]S[/u] = [u]the King of France[/u], we shall find that of the two
+propositions [u]S is bald[/u] and [u]S is not bald[/u], neither is true,
+or else, if we insist that one is true while the other
+is false, we must define the copulas so as to make
+one of them mean what is not usually understood by it.
+In order to avoid this difficulty, logicians have
+found it necessary to restrict the application of their
+rules to cases where the terms represent existing things.
+
+We may refer to these cases as [u]real states[/u]
+[u]of things[/u]. Under these conditions, the propositions
+[u]S is M[/u] and [u]S is not M[/u] are mutually contradictory.
+
+Let us now consider the condition, where the terms
+represent classes of things. Let [u]S[/u] represent [u]the class of[/u]
+[u]Socrateses[/u] and [u]M[/u] [u]the class of mortals[/u]. We may then
+have the propositions [u]S is M[/u] and [u]S is not M[/u]. But these
+are not mutually contradictory, for they may both be
+true, as when [u]S[/u] represents [u]the class of animals[/u] and [u]M[/u]
+[u]the class of men[/u]. In this case, we have [u]S is M[/u] (some
+animals are men) and [u]S is not M[/u] (some animals are not
+men). In order to make the propositions contradictory,
+we must introduce the operations of addition and multi-
+plication.
+
+Let [u]S + M[/u] represent the class consisting of all
+members of [u]S[/u] and [u]M[/u] together, or that of which a member
+is either a member of [u]S[/u] or of [u]M[/u], or of both. This is
+the operation of addition. Let [u]S × M[/u] represent the class
+consisting of all members of both [u]S[/u] and [u]M[/u] together,
+or that of which a member is a member of [u]S[/u] and also
+a member of [u]M[/u]. This is the operation of multiplication.
+
+If we represent the class of all things by 1, and the
+class of no things (the null class) by 0, we shall have
+the following equations, which represent operations that can be
+performed on classes. These general operations must be
+distinguished from the logical operations of addition
+and multiplication, which are represented by the symbols
++ and ×, and are defined above.
+
+If we represent the sum of two classes by [u]S + M[/u],
+and the product of two classes by [u]S × M[/u], we shall have
+the following equations, which represent the general properties
+of these operations:
+
+1. [u]S + M = M + S[/u]
+2. [u]S × M = M × S[/u]
+3. [u]S + (M + P) = (S + M) + P[/u]
+4. [u]S × (M × P) = (S × M) × P[/u]
+5. [u]S × (M + P) = (S × M) + (S × P)[/u]
+6. [u]S + (M × P) = (S + M) × (S + P)[/u]
+
+These equations are the same as those which represent
+the properties of the operations of addition and multi-
+plication in ordinary algebra, with the exception of the
+last one, which does not hold in algebra.
+
+If we represent the class of all things by 1, and the
+class of no things by 0, we shall have the following
+equations:
+
+1. [u]S + 1 = 1[/u]
+2. [u]S × 1 = S[/u]
+3. [u]S + 0 = S[/u]
+4. [u]S × 0 = 0[/u]
+
+These equations are also the same as those which represent
+the properties of the numbers 1 and 0 in ordinary algebra.
+
+The class of all things which are not members of the
+class [u]S[/u] may be represented by [u]1 - S[/u]. This is the operation
+of subtraction, which is defined by the equation:
+
+[u]S + (1 - S) = 1[/u]
+
+This equation represents the fact that every thing is either
+a member of [u]S[/u] or not a member of [u]S[/u].
+
+The product of [u]S[/u] and [u]1 - S[/u] is equal to 0, which is
+represented by the equation:
+
+[u]S × (1 - S) = 0[/u]
+
+This equation represents the fact that no thing is both
+a member of [u]S[/u] and not a member of [u]S[/u].
+
+These equations are also the same as those which represent
+the properties of the numbers 1 and 0 in ordinary algebra.
+
+We may now define the relation of inclusion between
+two classes. We say that the class [u]S[/u] is included in the
+class [u]M[/u], and write [u]S < M[/u], if every member of [u]S[/u] is also
+a member of [u]M[/u]. This relation is equivalent to the equation:
+
+[u]S × (1 - M) = 0[/u]
+
+which represents the fact that there is no thing which is
+a member of [u]S[/u] and not a member of [u]M[/u].
+
+The relation of inclusion has the following properties:
+
+1. [u]S < S[/u]
+2. If [u]S < M[/u] and [u]M < P[/u], then [u]S < P[/u]
+3. If [u]S < M[/u] and [u]M < S[/u], then [u]S = M[/u]
+
+These properties are the same as those of the relation
+of inequality in ordinary algebra.
+
+We may now define the relation of equality between
+two classes. We say that the class [u]S[/u] is equal to the
+class [u]M[/u], and write [u]S = M[/u], if every member of [u]S[/u] is also
+a member of [u]M[/u], and every member of [u]M[/u] is also a member
+of [u]S[/u]. This relation is equivalent to the two relations of
+inclusion:
+
+[u]S < M[/u] and [u]M < S[/u]
+
+The relation of equality has the following properties:
+
+1. [u]S = S[/u]
+2. If [u]S = M[/u], then [u]M = S[/u]
+3. If [u]S = M[/u] and [u]M = P[/u], then [u]S = P[/u]
+
+These properties are the same as those of the relation
+of equality in ordinary algebra.
+
+We may now define the operations of addition and multi-
+plication of relations. Let [u]R[/u] and [u]S[/u] represent two relations.
+We may then define the sum of [u]R[/u] and [u]S[/u], which we write
+[u]R + S[/u], as the relation which holds between two things if
+either [u]R[/u] or [u]S[/u], or both, hold between them. We may also
+define the product of [u]R[/u] and [u]S[/u], which we write [u]R × S[/u],
+as the relation which holds between two things if both
+[u]R[/u] and [u]S[/u] hold between them.
+
+These operations of addition and multiplication of relations
+have the same properties as the operations of addition and
+multiplication of classes, which are represented by the
+equations 1 to 6 above.
+
+We may also define the relation of inclusion between
+two relations, which we write [u]R < S[/u], and the relation of
+equality between two relations, which we write [u]R = S[/u].
+These relations have the same properties as the relations of
+inclusion and equality between classes, which are represented
+by the properties 1 to 3 above.
+
+We may now define the operation of relative multiplication.
+Let [u]R[/u] and [u]S[/u] represent two relations. We may then define
+the relative product of [u]R[/u] and [u]S[/u], which we write [u]R | S[/u],
+as the relation which holds between two things [u]x[/u] and [u]y[/u] if
+there is some thing [u]z[/u] such that [u]R[/u] holds between [u]x[/u] and [u]z[/u],
+and [u]S[/u] holds between [u]z[/u] and [u]y[/u].
+
+The operation of relative multiplication has the following
+properties:
+
+1. [u]R | (S | T) = (R | S) | T[/u]
+2. [u]R | (S + T) = (R | S) + (R | T)[/u]
+3. [u](R + S) | T = (R | T) + (S | T)[/u]
+
+These properties are the same as those of the operation
+of multiplication in ordinary algebra, with the exception
+of the commutative law, which does not hold for relative
+multiplication. That is, [u]R | S[/u] is not in general equal to
+[u]S | R[/u].
+
+We may also define the converse of a relation. Let
+[u]R[/u] represent a relation. We may then define the converse
+of [u]R[/u], which we write [u]R†[/u], as the relation which holds
+between two things [u]x[/u] and [u]y[/u] if [u]R[/u] holds between [u]y[/u] and [u]x[/u].
+
+The operation of taking the converse of a relation has
+the following properties:
+
+1. [u](R†)† = R[/u]
+2. [u](R + S)† = R† + S†[/u]
+3. [u](R × S)† = R† × S†[/u]
+4. [u](R | S)† = S† | R†[/u]
+
+These properties are the same as those of the operation
+of taking the transpose of a matrix in ordinary algebra.
+
+We may now define the relation of identity, which we
+write 1, and the relation of diversity, which we write 0.
+The relation of identity holds between two things if they
+are the same thing, and the relation of diversity holds
+between two things if they are different things.
+
+These relations have the following properties:
+
+1. [u]R | 1 = R[/u]
+2. [u]1 | R = R[/u]
+3. [u]R | 0 = 0[/u]
+4. [u]0 | R = 0[/u]
+
+These properties are the same as those of the numbers
+1 and 0 in ordinary algebra.
+
+We may now define the relation of inclusion between
+two relations, which we write [u]R < S[/u], and the relation of
+equality between two relations, which we write [u]R = S[/u].
+These relations have the same properties as the relations of
+inclusion and equality between classes, which are represented
+by the properties 1 to 3 above.
+
+We may now define the operations of addition and multi-
+plication of relations. Let [u]R[/u] and [u]S[/u] represent two relations.
+We may then define the sum of [u]R[/u] and [u]S[/u], which we write
+[u]R + S[/u], as the relation which holds between two things if
+either [u]R[/u] or [u]S[/u], or both, hold between them. We may also
+define the product of [u]R[/u] and [u]S[/u], which we write [u]R × S[/u],
+as the relation which holds between two things if both
+[u]R[/u] and [u]S[/u] hold between them.
+
+These operations of addition and multiplication of relations
+have the same properties as the operations of addition and
+multiplication of classes, which are represented by the
+equations 1 to 6 above.
+
+We may also define the relation of inclusion between
+two relations, which we write [u]R < S[/u], and the relation of
+equality between two relations, which we write [u]R = S[/u].
+These relations have the same properties as the relations of
+inclusion and equality between classes, which are represented
+by the properties 1 to 3 above.

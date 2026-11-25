@@ -1,0 +1,49 @@
+[fig]Geometric diagram with triangles and labeled sides[/fig]
+
+[marginalia]
+[del]$\tan x = \frac{\sin x}{\cos x}$[/del]
+$\tan 2x = \frac{2\sin x \cos x}{\cos^2 x - \sin^2 x}$
+$\cot 2x = \frac{1}{2}\cot x - \frac{1}{2}\tan x$
+$\tan \frac{a}{2} = \frac{\sin a}{1+\cos a} = \frac{1-\cos a}{\sin a}$
+$\cos^2 x = \frac{1+\tan^2 x}{\sec^2 x} = \frac{1}{\cos^2 x} - 1$
+$\cos 2x = 2\cos x - 1$
+[/marginalia]
+
+$a^2 + b^2 - 2ab\cos C$
+$c^2 = a^2 + b^2 - 2ab$ [del]$\sin C$[/del]
+$(x a + y b) (\frac{1}{x} a + \frac{1}{y} b)$
+$= a^2 + (\frac{y}{x} + \frac{x}{y}) ab + b^2$
+
+$\frac{x}{y} + \frac{y}{x} = -2\cos C$
+$z + z^{-1} = -2\cos C$
+$z^2 + 2z\cos C = -1$
+$z = -\cos C \pm \sin C \sqrt{-1}$
+
+$r_1^2 - x^2 = z^2$
+$r_2^2 - y^2 = z^2$
+$x + y = R$
+$x^2 + 2xy + y^2 = R^2$
+[del]$r_1^2 + r_2^2 = 2z^2$[/del]
+[del]$+ 2xy$[/del]
+[del]$- R^2$[/del]
+
+$r_2^2 = x^2 = z^2$
+$r_2^2 - (R-x)^2 = z^2$
+$r_1^2 - r_2^2 - x^2 + (R-x)^2 = 0$
+$r_1^2 - r_2^2 + R^2 - 2Rx = 0$
+$x = \frac{r_1^2 - r_2^2}{2R} + \frac{1}{2}R$
+
+[del]$D_t^2 x = \frac{m_2}{r_2^2}$[/del]
+
+$y = \frac{1}{2}R - \frac{r_1^2 - r_2^2}{2R}$
+$2xy = \frac{1}{2}R^2 - \frac{1}{2} \frac{(r_1^2 - r_2^2)^2}{R^2}$
+$2z^2 = r_1^2 + r_2^2 - \frac{1}{2}R^2 - \frac{1}{2} \frac{(r_1^2 - r_2^2)^2}{R^2}$
+[del]$z^2 = R^2 - x^2 = \frac{1}{4}R^2 + \frac{1}{2} (r_1^2 - r_2^2) - \frac{(r_1^2 - r_2^2)^2}{4R^2}$[/del]
+$z^2 = r_1^2 - x^2 = r_1^2 + (\frac{r_1^2 - r_2^2}{2R} - \frac{R}{2}) (\frac{r_1^2 - r_2^2}{2R} - \frac{R}{2})$
+$= \frac{1}{2}(r_1^2 + r_2^2) - (\frac{r_1^2 - r_2^2}{2R})^2 - (\frac{R}{2})^2$
+$R^2 = r_1^2 + r_2^2 - 2r_1 r_2 \cos C$
+
+$D_t^2 x = \sqrt{(\frac{r_1^2 + r_2^2}{2}) - \frac{1}{4}R^2 - \frac{(r_1^2 - r_2^2)^2}{(2R)^2}} (\frac{m_1}{r_1^3} + \frac{m_2}{r_2^3})$
+$D_t^2 x = (\frac{m_2}{r_2^3} - \frac{m_1}{r_1^3}) \frac{1}{2}R + (\frac{m_1}{r_1^3} + \frac{m_2}{r_2^3}) \frac{r_2^2 - r_1^2}{2R}$
+$D_t^2 z = \sqrt{\frac{1}{2}(r_1^2 + r_2^2) + \frac{1}{2} \frac{r_1 r_2}{\sqrt{1+\tan^2 C}} + \frac{(r_1^2 - r_2^2)^2}{2r_1 r_2 \sqrt{1+\tan^2 C}}}$
+$= \frac{1}{2} \sqrt{(r_1^2 + r_2^2) + \frac{2r_1 r_2}{\sqrt{}} + \frac{(r_1^2 - r_2^2)^2}{2r_1 r_2 \sqrt{}} (r_1^2 + r_2^2)}$

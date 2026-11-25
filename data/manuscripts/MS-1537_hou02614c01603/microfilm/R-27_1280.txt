@@ -1,0 +1,44 @@
+[marginalia]
+[fig]spade[/fig] [fig]diamond[/fig] [fig]club[/fig] [fig]heart[/fig]
+1
+2
+3
+4
+5
+6
+7
+8
+9
+x
+J
+Q
+K
+[/marginalia]
+
+2[fig]spade[/fig] 2[fig]diamond[/fig] 1[fig]club[/fig] 1[fig]heart[/fig]
+4[fig]spade[/fig] 4[fig]diamond[/fig] 3 3
+6[fig]spade[/fig] 6 5 5
+8[fig]spade[/fig] 8[fig]diamond[/fig] 7[fig]spade[/fig] 7[fig]club[/fig]
+x[fig]spade[/fig] x 9 9
+Q[fig]spade[/fig] Q J J
+10 10[fig]heart[/fig] K[fig]spade[/fig] K[fig]club[/fig]
+3[fig]spade[/fig] 3[fig]heart[/fig] 2[fig]diamond[/fig] 2[fig]heart[/fig]
+5[fig]spade[/fig] 5 4 4
+7[fig]spade[/fig] 7 6 6
+9[fig]spade[/fig] 9[fig]heart[/fig] 8[fig]diamond[/fig] 8[fig]heart[/fig]
+J[fig]diamond[/fig] J Q x x
+K[fig]diamond[/fig] K Q Q
+
+[u]2[fig]diamond[/fig][/u] [u]7[fig]diamond[/fig][/u] [u]Q[fig]heart[/fig][/u] [u]9[fig]heart[/fig] 7[fig]heart[/fig][/u]
+4[fig]diamond[/fig] 10 x[fig]heart[/fig] 4[fig]heart[/fig] K[fig]club[/fig]
+[u]8[fig]diamond[/fig][/u] [u]2[fig]club[/fig][/u] [u]6[fig]heart[/fig][/u] [u]8[fig]club[/fig] Q[fig]diamond[/fig][/u]
+3[fig]diamond[/fig] 3[fig]diamond[/fig] J[fig]club[/fig] K[fig]diamond[/fig] J[fig]heart[/fig]
+6[fig]club[/fig] 6[fig]diamond[/fig] 8[fig]diamond[/fig] 8[fig]heart[/fig]
+[u]J[fig]club[/fig][/u] [u]Q[fig]diamond[/fig][/u] [u]3[fig]heart[/fig][/u] [u]2[fig]heart[/fig][/u]
+[u]9[fig]diamond[/fig][/u] J[fig]diamond[/fig] 5[fig]club[/fig] 3[fig]club[/fig]
+5[fig]heart[/fig] 9[fig]heart[/fig] 9[fig]club[/fig] 5[fig]diamond[/fig]
+9[fig]club[/fig] 4[fig]heart[/fig] [u]5[fig]diamond[/fig][/u] x[fig]diamond[/fig]
+[u]4[fig]diamond[/fig][/u] [u]7[fig]club[/fig][/u] [u]x[fig]club[/fig][/u] [u]7[fig]diamond[/fig][/u]
+8[fig]club[/fig] K[fig]club[/fig] 6[fig]diamond[/fig] 1[fig]heart[/fig]
+2[fig]diamond[/fig] K[fig]diamond[/fig] Q[fig]club[/fig] 1[fig]club[/fig]
+4[fig]club[/fig] K[fig]heart[/fig] [del]J[/del] [del]x[/del] Q[fig]diamond[/fig] 1[fig]diamond[/fig]

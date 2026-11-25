@@ -1,0 +1,54 @@
+The difference-form of the [del]simple[/del] [ins]usual[/ins] interpolation formula is
+$$u_{a+x} = (1+\Delta)^x u_a$$
+$$= [del]\text{that}[/del]$$
+$$= \left(1 + \frac{x!}{(x-m)! m!} \Delta^m\right) u_a$$
+
+$$= \sum_0^\infty \frac{\Delta^m}{(x-m)! m!}$$
+
+$$= \sum_0^\infty \frac{x! \Delta^m}{x^{\underline{m}} m!}$$
+
+$$(1+m)^n$$
+$$1 + 2m + m^2$$
+$$1 + nm + \frac{n(n-1)}{2!} m^2$$
+$$x + x\Delta + \frac{x!}{2!(x-2)!} \Delta^2$$
+$$\sum_0^\infty \frac{\Delta^m}{m!(x-m)!} u_a$$
+
+For $n = \frac{1}{2}$
+$$F_{\frac{1}{2}} = F_a + \left( \frac{1}{2} \Delta - \frac{1}{8} \Delta^2 + \frac{1}{16} \Delta^3 - \frac{5}{128} \Delta^4 + \frac{7}{256} \Delta^5 - \frac{21}{1024} \Delta^6\right.$$
+$$\left. + \frac{33}{2048} \Delta^7 - \frac{429}{32762} \Delta^8 \right)$$
+
+$$\frac{\frac{1}{2}}{1} \frac{\frac{1}{2}}{2}$$
+
+$$\frac{\frac{1}{2} \cdot \frac{1}{2} \cdot \frac{3}{2}}{3 \cdot 2}$$
+
+$$\frac{\frac{1}{2} \cdot \frac{1}{2} \cdot \frac{3}{2} \cdot \frac{5}{2} \cdot \frac{7}{2}}{2 \cdot 3 \cdot 4 \cdot 5}$$
+
+$$\frac{321}{6}$$
+
+$$\frac{\frac{1}{2} \cdot \frac{1}{2} \cdot \frac{3}{2} \cdot \frac{5}{2} \cdot \frac{7}{2} \cdot \frac{9}{2} \cdot \frac{11}{2} \cdot \frac{13}{2}}{1 \cdot 2 \cdot 3 \cdot 4 \cdot 5 \cdot 6 \cdot 7 \cdot 8}$$
+
+$$\frac{33}{2048}$$
+
+$$\frac{99}{33}$$
+$$\frac{429}{8192}$$
+$$\frac{429}{32762}$$
+
+$$\frac{\frac{1}{2} \cdot \frac{1}{2} \cdot \frac{3}{2} \cdot \frac{5}{2} \cdot \frac{7}{2} \cdot \frac{9}{2}}{2 \cdot 3 \cdot 4 \cdot 5 \cdot 6}$$
+
+$$\frac{21}{1024}$$
+
+$$\frac{\frac{1}{2} \cdot \frac{1}{2} \cdot \frac{3}{2}}{1 \cdot 2}$$
+
+$$\frac{\frac{1}{2} \cdot \frac{1}{2} \cdot \frac{3}{2} \cdot \frac{5}{2}}{2 \cdot 3 \cdot 2 \cdot 2}$$
+
+$$\frac{\frac{1}{2}}{1}$$
+
+$$\frac{\frac{1}{2} \cdot -\frac{1}{2}}{1 \cdot 2}$$
+
+$$\frac{\frac{1}{2} \cdot -\frac{1}{2} \cdot -\frac{3}{2}}{1 \cdot 2 \cdot 3}$$
+
+$$\frac{\frac{1}{2} \cdot -\frac{1}{2} \cdot -\frac{3}{2} \cdot -\frac{5}{2}}{2 \cdot 4 \cdot 2 \cdot 2 \cdot 2 \cdot 3} = \frac{5}{256}$$
+
+$$\frac{1}{2} \cdot -\frac{1}{2} \cdot -\frac{3}{2}$$
+
+$$3 \cdot \frac{1}{2} \cdot \frac{3}{2} \cdot -5$$

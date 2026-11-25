@@ -1,0 +1,27 @@
+Graphs
+20
+
+concern a number of different [del]subjects[/del] [ins]of[/ins] (called the [u]correlates[/u])
+taken in a certain order ([del]the first in which order, distinguished[/del]
+[del]from the other correlates by the being the designation of the [u]relate[/u],[/del]
+[ins]the fact[/ins]
+is commonly regarded as a character); this fact being such that
+unless every
+[fig]figure[/fig] $y = \sqrt{\frac{a + bx^2}{1 + cx^2}}$ [fig]figure[/fig]
+$D_x y = \frac{1}{2} \sqrt{\frac{1 + cx^2}{a + bx^2}} \frac{2bx(1 + cx^2) - 2cx(a + bx^2)}{(1 + cx^2)^2}$
+$= \text{[del]x[/del]} \sqrt{\frac{1 + cx^2}{a + bx^2}} \frac{(b - c)x}{(1 + cx^2)^2}$
+[ured]$c^2x^4 + (1 - b)cx^2 = ac$[/ured]
+[ured]$\{cx^2 + \frac{1 - b}{2}\}^2 = ac + \frac{(1 - b)^2}{4}$[/ured]
+If $x = y$
+$x^2 = \frac{a + bx^2}{1 + cx^2}$
+$cx^4 + (1 - b)x^2 = a$
+$x^4 + \frac{1 - b}{c}x^2 = \frac{a}{c}$
+$(x^2 + \frac{1 - b}{2c})^2 = \frac{4ac + (1 - b)^2}{4c^2}$
+$(2cx^2 + 1 - b)^2 = 4ac + (1 - b)^2$
+$4c^2x^4 + 4cx^2 - 4bcx^2 = 4ac$
+[del]$cx^4 + x^2 - bx^2 = a$[/del]
+If $D_x y = 1$
+$1 = \frac{[del]1 + cx^2[/del]}{a + bx^2} \frac{(b - c)^2 x^2}{(1 + cx^2)^3}$
+$\frac{1 + 3cx^2 + 3c^2x^4 + c^3x^6}{a + 3acx^2 + 3ac^2x^4 + ac^3x^6 + bx^2 + }$
+[ured]$a + bx^2 = x^2 + cx^4$[/ured]
+[ured]$\frac{a + bx^2}{1 + cx^2} = x^2$[/ured]

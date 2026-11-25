@@ -1,0 +1,21 @@
+It is easy to see that
+$$Q^n = U_{n-1} + U_n Q$$
+For since $Q^n = Q^{n-1} + Q^{n-2}$
+if $Q^{n-1} = U_{n-2} + U_{n-1} Q$
+and $Q^{n-2} = U_{n-3} + U_{n-2} Q$
+then $Q^n = Q^{n-1} + Q^{n-2} = U_{n-2} + U_{n-3} + (U_{n-1} + U_{n-2}) Q$
+$= U_{n-1} + U_n Q$
+
+But when $n=1$ and $n=2$
+$Q^1 = [del]0[/del] [ins]0[/ins] + 1 Q = U_0 + U_1 Q$
+$Q^2 = 1 + 1 Q = U_1 + U_2 Q$
+
+So we can show that
+$$\delta^n = U_{-n} + U_{-n} \delta$$
+or if we write $O_n = U_{-n}$
+$$\delta^n = O_{n-1} + O_n \delta$$
+
+Now let us enlarge our notation and write not
+only $\begin{cases} Q^n = U_{n-1} + U_n Q \\ \delta^n = O_{n-1} + O_n \delta \end{cases}$
+but also
+$\begin{cases} Q_m^n = U_{n-1} + U_n Q_m \\ \delta_m^n = O_{n-1} + O_n \delta_m \end{cases}$

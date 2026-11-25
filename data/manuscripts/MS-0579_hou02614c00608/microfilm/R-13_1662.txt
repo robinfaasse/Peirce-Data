@@ -1,0 +1,17 @@
+Three copulas give the general forms
+$$A \prec [B \prec (C \prec D)]$$
+$$(A \prec B) \prec (C \prec D)$$
+$$[(A \prec B) \prec C] \prec D$$
+
+The first is obviously true when for $D$ we put either $A$, $B$, or $C$. Otherwise, not [ins]necessarily[/ins].
+
+The second can be [ins]necessarily[/ins] true in two ways
+$$(A \prec B) \prec (A \prec B)$$
+a case of (1), and
+$$(A \prec B) \prec (C \prec C)$$
+which follows at once from (2)
+
+The third can be [ins]necessarily[/ins] true in two ways
+$$[(A \prec A) \prec B] \prec B$$
+the principle is
+(4) If $A$, then $(A \prec B) \prec B$.

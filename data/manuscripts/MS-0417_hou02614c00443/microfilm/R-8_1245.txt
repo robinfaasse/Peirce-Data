@@ -1,0 +1,27 @@
+[pn]330[/pn]
+
+She further [del]assumes[/del] [ins]adopts[/ins] a functional symbol
+$\log \underline{x}$. She [del]writes[/del] [ins]writes[/ins]
+[del]By means of these two symbols, writing[/del] as usual,
+$\log^2 \underline{x}$ for $\log \log \underline{x}$,
+$\log^3 \underline{x}$ for $\log \log^2 \underline{x}$,
+etc.,
+and $\log^{-1} \underline{x}$, so that in general
+$\log \log^n \underline{x} = \log^{n+1} \underline{x}$
+where the $+$ in the exponent is the $+$ of integral
+arithmetic. She then defines an infinite series of
+operational symbols $+_1, +_2, +_3$, etc., as well as
+$+_{-1}, +_{-2}$, etc. by the equation
+
+$\log (\underline{a} \underset{n+1}{+} \underline{b}) = \log \underline{a} \underset{n}{+} \log \underline{b}$,
+or
+$\log^n (\underline{a} \underset{n}{+} \underline{b}) = \log^n \underline{a} \underset{0}{+} \log^n \underline{b}$.
+
+Of course, a special relation must subsist between
+the symbol "$\log$" and the symbol $\underset{0}{+}$ in order
+that $\underset{1}{+}$ should be distributive with reference to $\underset{0}{+}$
+as multiplication is distributive with reference to
+addition. Supposing that to be the case, however, then
+every operation $\underset{n}{+}$ is distributive with reference to $\underset{n-1}{+}$.
+If this is the case and $\underline{Z}$ be such a quantity that
+$\underline{x} \underset{n}{+} \underline{Z} = \underline{x}$

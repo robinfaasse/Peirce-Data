@@ -1,0 +1,36 @@
+[pn]26[/pn]
+
+[u]Report on Line Load.[/u]
+
+In the differentiation of equations (2) - (7), the only point requiring notice is that
+$$\delta (1 - \frac{R_{0}}{\mathbb{R}_{0}}) (x_{1} - x_{0}) = (1 - \frac{R_{0}}{\mathbb{R}_{0}} + \frac{R_{0}}{\mathbb{R}_{0}} \frac{|x_{1} - x_{0}|}{[\mathbb{R}_{0}]}) (\delta x_{1} - \delta x_{0}) + \frac{R_{0}}{\mathbb{R}_{0}} \frac{(x_{1} - x_{0})(y_{1} - y_{0})}{[\mathbb{R}_{0}]} (\delta y_{1} - \delta y_{0})$$
+$$= (1 - \frac{R_{0}}{\mathbb{R}_{0}} \frac{|y_{1} - y_{0}|}{[\mathbb{R}_{0}]}) (\delta x_{1} - \delta x_{0}) + \frac{R_{0}}{\mathbb{R}_{0}} \frac{(x_{1} - x_{0})(y_{1} - y_{0})}{[\mathbb{R}_{0}]} (\delta y_{1} - \delta y_{0})$$
+
+By way of abbreviation let $\heartsuit_{1}, \heartsuit_{2}, \heartsuit_{3}, \heartsuit_{4}, \heartsuit_{5}, \heartsuit_{6}$ denote the values of the [ins]left-hand members of the[/ins] [del]six[/del] equations, (2) - (7), when approximate values are substituted for the unknown quantities. Let us also use the following abbreviations
+
+$$\alpha_{0} = \frac{\cos^{2} \Phi_{0}}{\Lambda_{0}} + \frac{\sin^{2} \Phi_{0}}{M_{0}}$$
+$$\beta_{0} = \frac{\sin^{2} \Phi_{0}}{\Lambda_{0}} + \frac{\cos^{2} \Phi_{0}}{M_{0}}$$
+$$\varepsilon_{0} = \sin \Phi_{0} \cdot \cos \Phi_{0} \cdot (\frac{1}{\Lambda_{0}} - \frac{1}{M_{0}})$$
+$$\kappa_{0} = \frac{1}{P_{0}} \frac{R_{0}}{\mathbb{R}_{0}} \frac{(x_{1} - x_{0})(y_{1} - y_{0})}{[\mathbb{R}_{0}]}$$
+$$\lambda_{0} = \frac{1}{P_{0}} (1 - \frac{R_{0}}{\mathbb{R}_{0}} \frac{|x_{1} - x_{0}|}{[\mathbb{R}_{0}]})$$
+$$\mu_{0} = \frac{1}{P_{0}} (1 - \frac{R_{0}}{\mathbb{R}_{0}} \frac{|y_{1} - y_{0}|}{[\mathbb{R}_{0}]})$$
+
+$$\alpha_{2} = \frac{\cos^{2} \Phi_{2}}{\Lambda_{2}} + \frac{\sin^{2} \Phi_{2}}{M_{2}}$$
+$$\beta_{2} = \frac{\sin^{2} \Phi_{2}}{\Lambda_{2}} + \frac{\cos^{2} \Phi_{2}}{M_{2}}$$
+$$\varepsilon_{2} = \sin \Phi_{2} \cos \Phi_{2} \cdot (\frac{1}{\Lambda_{2}} - \frac{1}{M_{2}})$$
+$$\kappa_{i} = \frac{1}{P_{i}} \frac{R_{i}}{\mathbb{R}_{i}} \frac{(x_{2} - x_{1})(y_{1} - y_{2})}{[\mathbb{R}_{i}]}$$
+$$\lambda_{i} = \frac{1}{P_{i}} \frac{R_{i}}{\mathbb{R}_{i}} (1 - \frac{R_{i}}{\mathbb{R}_{i}} \frac{|x_{2} - x_{1}|}{[\mathbb{R}_{i}]})$$
+$$\mu_{i} = \frac{1}{P_{i}} (1 - \frac{R_{i}}{\mathbb{R}_{i}} \frac{|y_{1} - y_{2}|}{[\mathbb{R}_{i}]})$$
+
+The want of symmetry between $\kappa_{0}$ and $\kappa_{i}$ must be remarked.
+
+Then the equations to be solved are
+
+(16) $\heartsuit_{1} + (\alpha_{0} + \mu_{0}) \delta x_{0} + (\varepsilon_{0} + \kappa_{0}) \delta y_{0} - \mu_{0} \delta x_{1} - \kappa_{0} \delta y_{1} = 0$
+(17) $\heartsuit_{4} + (\varepsilon_{0} + \kappa_{0}) \delta x_{0} + (\beta_{0} + \lambda_{0}) \delta y_{0} - \kappa_{0} \delta x_{1} - \lambda_{0} \delta y_{1} = 0$
+(18) $\heartsuit_{3} + (\alpha_{2} + \mu_{i}) \delta x_{2} + (\varepsilon_{2} - \kappa_{i}) \delta y_{2} - \mu_{i} \delta x_{1} + \kappa_{i} \delta y_{1} = 0$
+(19) $\heartsuit_{6} + (\varepsilon_{2} - \kappa_{i}) \delta x_{2} + (\beta_{2} + \lambda_{i}) \delta y_{2} + \kappa_{i} \delta x_{1} - \lambda_{i} \delta y_{1} = 0$
+(20) $\heartsuit_{2} + (\mu_{0} + \mu_{i}) \delta x_{1} + (\kappa_{0} - \kappa_{i}) \delta y_{1} - \mu_{0} \delta x_{0} - \kappa_{0} \delta y_{0} - \mu_{i} \delta x_{2} + \kappa_{i} \delta y_{2} = 0$
+(21) $\heartsuit_{5} + (\kappa_{0} - \kappa_{i}) \delta x_{1} + (\lambda_{0} + \lambda_{i}) \delta y_{1} - \kappa_{0} \delta x_{0} - \lambda_{0} \delta y_{0} + \kappa_{i} \delta x_{2} - \lambda_{i} \delta y_{2} = 0$
+
+It is hardly worth while to carry the algebraic work further. The

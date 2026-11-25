@@ -1,0 +1,91 @@
+[marginalia]
+Show that rays through B and C [del]to[/del] [ins]intersect[/ins] [del]on[/del] [ins]are co-penicilial with[/ins] [del]{A, B}[/del] [ins]{A, [frac]B+C[/frac]}[/ins]
+[/marginalia]
+
+[del]A[/del] [del]B[/del]
+
+[{B, A-C}{C, A-B}] = [A-B-C]
+
+[marginalia]
+Show that
+[del]if the sides[/del]
+of the pencils
+O; AA', BC
+O; BB', CA
+O; CC', AB
+are harmonic
+[/marginalia]
+
+Show that O; AA', BB', CC' will be in involution
+
+[fig]Geometric diagram with lines radiating from point O to points A, B, C, A', B', C'[/fig]
+
+[fig]Square diagram with vertices labeled A, B, R, Z[/fig]
+
+[del]B = [frac]P+R[/frac][/del]
+[del]1[/del] [del]2R-Q = Q[/del]
+[del]2R-Q = A[/del]
+[del]B' = P+2Q-3R[/del]
+[del]C' = P-4Q+3R[/del]
+
+[{O A}{B [infinity]}] [del]=[/del] [F-Q]
+[del]- [{O A'}{B [infinity]}] = [Q-R][/del]
+[{O B'}{C [infinity]}] = [P-2Q+R] [del]= Q[/del]
+[{O C'}{B [infinity]}] = [P-R]
+
+[fig]Line segment with points labeled Q, R, B, B', C'[/fig]
+
+[del]2-Q . Q-R[/del]
+[del]P-2Q+R[/del] [del]P+2Q-3R[/del]
+[del]P-R[/del] [del]P-4Q+3R[/del]
+
+[del]B = P-2Q+R[/del]
+[del]A = Q-R[/del]
+
+[del][frac]A+A'[/frac][/del] [del][frac]A-3A'[/frac][/del]
+
+---
+
+If a ray be drawn parallel to BC
+cutting sides AC, AB in Y and Z
+and if BY, CZ intersect in O
+show that AO will bisect BC.
+
+[{B, C} [infinity]] = [B-C]
+
+[del]Y = [A+R C][/del] Z = [A + [frac]1/R[/frac] B]
+
+because [{Y, Z} [infinity]] = [B-C]
+
+[{B, rA+C}{C, rA+B}] = [rA+B+C] = 0
+
+[{A, rA+B+C}.{B, C}] = [B+C]
+
+If [del]second[/del] [ins][u]Y[/u][/ins] [u]Z[/u] be taken on [del]{AC}[/del] [ins]{AB}[/ins]
+so that |CY| : |YA| = |BZ| : |AZ|
+
+show that [{B Y}{C Z}] = 0
+is [del]Y = [C + rA][/del] [del]Z = [B + rA][/del]
+
+[del]Y = [C + rA][/del] [del]Z = [-B + rA][/del]
+
+[del][O] = [rA-B+C][/del]
+
+[del][O-A] = [B-C][/del]
+
+[del]O = A + B + C[/del]
+[{O A}{B C}] [del]is harmonic[/del]
+
+[del][frac]A^2-2AA'-3A'^2[/frac][/del]
+[del]-2A^2-2AA'+3A'^2[/del]
+
+[del](A-X)(A'-X)[/del]
+[del]= (A-A'-X)(A+3A'-X)[/del]
+
+[del]X^2 - (A+A')X + AA'[/del]
+[del]= X^2 - 2(A+A')X + A^2+2AA'-3A'^2[/del]
+
+[del](A+A')X = A^2+AA'-3A'^2[/del]
+
+[del]X = [frac]A^2+AA'-3A'^2[/frac][/del]
+[del]A+A'[/del]

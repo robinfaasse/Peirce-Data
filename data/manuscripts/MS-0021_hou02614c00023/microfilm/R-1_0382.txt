@@ -1,0 +1,38 @@
+[pn]8[/pn]
+[u]La logique de la quantité[/u]
+
+$\Pi_r \Sigma_s \bar{q}_{mr} + q_{ns} \cdot \bar{\gamma}_{sr}$.
+
+Mais cette dernière proposition formule exprime que la rélation converse
+de $i$ donne un sujet de $n$ [del]pour[/del] [ins]pour[/ins] chaque sujet de $m$. Q.E.D.
+
+[u]Article 3[/u]. Une collection $n$ contient une autre, $m$, si
+$\Pi_u \bar{q}_{mu} + q_{nu}$.
+
+Chaque collection contient elle-même. L'univers contient toute collec-
+tion [del]et[/del] [ins]De dire qu'une collection $n$ contient une collection $m$, c'est la même chose que de dire que $n$ contient contient toute collection que $m$ contient.[/ins] Toute collection contient le néant. [del]Si la collection, $l$ contient
+la collection, $m$, et si $m$ contient la collection, $n$, alors $l$ contient $n$.[/del]
+
+Nous dirons qu'une
+[del]Une[/del] collection, $m$, est une partie d'une autre, $n$, et nous écrirons $w_{mn}$
+pourvu que $n$ contient $m$ sans que $m$ contienne $n$. Cela s'écrit
+(7) $\Pi_m \Pi_n \Pi_u \Sigma_v \bar{w}_{mn} + (\bar{q}_{mu} + q_{nu}) \cdot q_{nv} \cdot \bar{q}_{mv}$
+(8) $\Pi_m \Pi_n \Sigma_u \Pi_v q_{mu} \cdot \bar{q}_{nu} + \bar{q}_{nv} + q_{mv} + w_{mn}$.
+
+Nous pouvons écrire (7) sous la forme
+(9) $\Pi_m \Pi_n \Pi_u \Sigma_v (\bar{w}_{mn} + \bar{q}_{mu} + q_{nu}) \cdot (\bar{w}_{mn} + q_{nv}) \cdot (\bar{w}_{mn} + \bar{q}_{mv})$
+
+Ces trois facteurs signifient:
+$1^o$. Aucune collection n'est partie d'une collection qui ne la contient pas.
+$2^o$. Aucune collection n'est partie du néant.
+$3^o$. L'univers n'est partie d'aucune collection.
+
+Les deuxième et troisièmes facteurs donne
+$4^o$. Aucune collection n'est partie d'une collection [del]qui[/del] [ins]qui[/ins] la contient.
+
+De $4^o$. nous tirons qu'aucune collection n'est partie d'elle-même. De (8) nous
+tirons que le néant est partie de toute collection qu'il ne contient pas; aussi,
+que toute collection qui ne contient pas l'univers est partie de l'univers.
+
+Il est evident que si une collection $m$ est partie d'une autre $n$, alors toute col-
+lection que $m$ contient est partie de toute collection qui contient $n$. Car sup-

@@ -1,0 +1,16 @@
+Consider the collection of all possible
+sams of pairs [ins]each[/ins] of an [u]m[/u] and an [u]n[/u].
+
+In each sam each [u]m[/u] is paired to
+a sam of [u]n[/u]s. Call that sam of [u]n[/u]s the
+'[u]n[/u]-sam' of that [u]m[/u].
+
+Suppose that in every one of the sams
+of pairs, some sam of [u]n[/u]s is not the [u]n[/u]-sam
+of any [u]m[/u].
+
+Suppose that in every one of the
+sams of pairs some [u]m[/u] has not the
+sam of [ins]any[/ins] single [u]n[/u] as its [u]n[/u]-sam.
+
+[fig]Logical diagram with dots, lines, and crossed-out symbols[/fig]

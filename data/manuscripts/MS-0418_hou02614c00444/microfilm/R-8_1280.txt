@@ -1,0 +1,28 @@
+[pn]362[/pn]
+
+For instance, we have the valid inference
+$x \cdot (y \psi z)$
+$\therefore x \cdot y \psi z$.
+This is an associative formula. But write the
+premise twice
+$x \cdot (y \psi z) \cdot x \cdot (y \psi z)$
+and we deduce
+$\therefore (x \cdot y \psi z) \cdot x \cdot (y \psi z)$
+$\therefore (x \cdot y \psi z \cdot x)$
+$\therefore (x \cdot y \psi x \cdot z)$
+and we have justified the distributive formula
+$x \cdot (y \psi z)$
+$\therefore x \cdot y \psi x \cdot z$.
+
+§183. There are even those, [del]among the[/del] who are rash
+enough to talk as if it were quite evident [del]a[/del]
+machine could be made to [del]turn out all[/del] [ins]perform all[/ins]
+demonstrative reasoning. Machines have been
+made which will solve problems in non-relative
+[del]Boolean[/del] algebra. By far the [del]most perfect,[/del] [ins]most[/ins]
+ingenious, and simple of [del]them[/del] [ins]these[/ins] has been constructed
+by Prof. Allan Marquand*. Here is an example
+of its performances.
+
+*[u]Proceedings of the American Academy of Arts[/u]
+[u]and Sciences[/u] XXI. 303. Also, [u]Mind[/u]

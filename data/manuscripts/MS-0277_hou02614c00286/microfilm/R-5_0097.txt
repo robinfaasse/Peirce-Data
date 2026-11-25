@@ -1,0 +1,101 @@
+[fig]Mathematical diagrams, fractions, and topological sketches[/fig]
+
+[marginalia]
+[del]$\frac{1}{2}$[/del]
+$\frac{1}{3}$
+$\frac{1}{4}$
+$\frac{1}{5}$
+[/marginalia]
+
+[marginalia]
+$-\frac{1}{0}$
+$-\frac{1}{2}$
+$-\frac{1}{3}$
+$-\frac{1}{4}$
+$-\frac{1}{5}$
+[/marginalia]
+
+[marginalia]
+$-\frac{1}{0}$
+$-\frac{1}{2}$
+$-\frac{1}{3}$
+$-\frac{1}{4}$
+$-\frac{1}{5}$
+[/marginalia]
+
+[marginalia]
+$-\frac{1}{0}$
+$-\frac{1}{2}$
+$-\frac{1}{3}$
+$-\frac{1}{4}$
+$-\frac{1}{5}$
+[/marginalia]
+
+[fig]Tree diagram of fractions[/fig]
+
+[fig]Circular diagram with regions labeled A, B, C, D[/fig]
+
+[fig]Row of oval shapes containing fractions[/fig]
+
+[fig]Lotus-like flower drawing[/fig]
+
+[fig]Tree diagram of fractions branching downwards[/fig]
+
+[marginalia]
+$\frac{3}{7}$
+$\frac{33}{77}$
+$\frac{3}{8}$
+[/marginalia]
+
+[fig]Complex circular diagram with sectors and fractions[/fig]
+
+$\frac{1}{2} n(n-1) - n = K - 2$
+
+$n^2 - 7n = 6K - 12$
+
+$4n^2 - 28n = 24K - 48$
+
+$(2n)^2 - 2 \cdot 7 \cdot (2n) + 49 = 24K + 1$
+
+$2n - 7 = \sqrt{24K + 1}$
+
+$n = \frac{1}{2} (7 + \sqrt{24K + 1})$
+
+$K = 3 \quad \frac{24}{72}$
+
+$K = 5 \quad \frac{121}{121}$
+
+$\frac{11}{15}$
+
+[marginalia]
+Ray
+$+1$ $+1$
+[/marginalia]
+
+[fig]Small circular diagram with three sectors[/fig]
+
+[fig]Topological sketches of circles and lines[/fig]
+
+$\begin{array}{ccccc}
+X & K & \Pi & A & C \\
+\text{Sphere} & & & & \\
+0 & +1 & 0 & +1 & +2 \\
+\text{2 Circles} & & & & \\
+\left\{ \begin{array}{c} +2 \\ -1 \end{array} \right. & 0 & 0 & 0 & +2 \\
+\text{Plane} & & & & \\
++1 & -1 & +1 & +1 & +1 \\
+\text{Plane with ray} & & & & \\
++1 & 0 & 0 & 0 & \left\} \begin{array}{c} \\ +1 \end{array} \right. \\
+-1 & +1 & & & \\
+\text{Plane with circle} & & & & \\
++2 & 0 & 0 & 0 & \\
+-1 & +1 & & & \\
+\text{Half twisted ribbon} & & & & \\
++1 & -1 & 0 & & \\
+-1 & +1 & & & \\
+\text{Disk} & & & & \\
++1 & 0 & 0 & & \\
+-1 & +1 & & & \\
+\hline
+\text{th} & \frac{0}{0} & & &
+\end{array}$

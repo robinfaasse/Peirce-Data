@@ -1,0 +1,85 @@
+"Greater than" $g$
+
+(1) $g \prec \overline{1}$
+(2) $g g \prec g$
+(3) $\overline{1} \prec g + \breve{g}$
+(4) $\infty \prec \breve{g} \infty$
+(5) $\breve{g} \underline{1} \prec 0$
+(6) $g \infty \prec [del]\text{---}[/del] (\overline{g} + \overline{g}) \infty$
+(7) If $g \times (\overline{g} + \overline{g}) x \prec x$ Then $g x \prec x$
+
+Alio-relative
+Transitive
+Simple quantity
+No maximum
+Minimum
+There is a next greater
+Simply infinite
+
+<u>Transformations</u>
+
+[marginalia]
+[del]
+$\infty \prec g + 1$
+$\infty \prec \breve{g} + 1$
+$\infty \prec \overline{g} + 1$
+$\infty \prec \overline{g} + \overline{1}$
+$g \times 1 \prec 0$
+$\breve{g} \times 1 \prec 0$
+[/del]
+[/marginalia]
+
+(1)
+$\breve{g} \prec \overline{1}$
+$\overline{1} \prec \overline{g}$
+$\overline{1} \prec \breve{\overline{g}}$
+[del]
+$\overline{1} \prec \overline{\overline{g}}$
+$\overline{1} \prec \overline{\overline{g}}$
+$\overline{1} \prec \overline{\overline{g}}$
+[/del]
+[del]
+$\overline{1} \prec \overline{\overline{g}}$
+$\overline{1} \prec \overline{\overline{g}}$
+[/del]
+
+(2)
+$\breve{g} \breve{g} \prec \breve{g}$
+$\overline{g} \prec \overline{g} + \overline{g}$
+$\overline{g} \prec \overline{g} + \overline{\breve{g}}$
+$g \prec \overline{g} + g$
+$\breve{g} \prec g + \breve{g}$
+$\overline{g} \overline{g} \prec \overline{g}$
+$\overline{g} \overline{g} \prec \overline{g}$
+$\breve{g} \breve{g} \prec \breve{g}$
+$\breve{g} \breve{g} \prec \breve{g}$
+
+(3)
+$\overline{g} \times \breve{g} \prec 1$
+[del]$\overline{1} \times \overline{g} \prec \breve{g}$[/del]
+$\overline{1} \times \breve{g} \prec g$
+$\frac{\overline{1}}{\breve{g}} \prec 1 + g$
+$\frac{\overline{1}}{g} \prec 1 + \breve{g}$
+$\overline{1} \times \overline{g} \prec \breve{g}$
+$\overline{1} \times \breve{g} \prec g$
+$\frac{\overline{1}}{\overline{g}} \prec 1 + g$
+$\overline{g} \prec 1 + \breve{g}$
+
+[marginalia]
+$\breve{g} \prec \overline{g}$
+$g g \prec \overline{1}$
+$\overline{1} \prec \overline{g} + \overline{g}$
+$g \prec \overline{\breve{g}}$
+[/marginalia]
+
+(8) From (1) & (2)
+$g g \prec \overline{1}$
+i.e $\overline{1} \prec \overline{g} + \overline{g}$
+$g \prec \overline{g} + \overline{1}$
+$g \prec \overline{g}$
+$g \prec \breve{g}$
+
+From (1) & (3)
+nothing
+
+$c \prec \breve{l}^c$

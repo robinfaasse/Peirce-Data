@@ -1,0 +1,19 @@
+XV. If any unenclosed and detached graph is [del]transformable[/del] [ins]would be illatively[/ins] into another [del]an enclosure containing[/del]
+then [del]an oval enclosing[/del] [ins]an enclosure containing[/ins] nothing but the latter is [del]illatively[/del] [ins]would be[/ins] illatively transformable
+into [del]an oval enclosing[/del] [ins]an enclosure containing[/ins] nothing but the former
+
+Proof. Let a [del]and b[/del] be any [del]two[/del] graphs and let
+a ⤙ b                              a ⤙ b       ac ⤙ bc
+Then by [del]IV[/del] [ins]IV[/ins] a ⤙ [del]ab[/del] [ins]ab[/ins]        Then by IV [del]a ⤙ ab[/del] [ins]ac ⤙ acb[/ins]
+Then by VIII [fig]figure[/fig] [del]b[/del] [ins]b[/ins] ⤙ [fig]figure[/fig] [del]a b[/del] [ins]a b[/ins]     Then by VIII and V [fig]figure[/fig] [del]c b[/del] [ins]c b[/ins] ⤙ [fig]figure[/fig] [del]c a b[/del] [ins]c a b[/ins]
+Then by XIII [fig]figure[/fig] [del]b[/del] [ins]b[/ins] ⤙ [fig]figure[/fig] [del]a[/del] [ins]a[/ins]  Q.E.D. Then by XIII [fig]figure[/fig] [del]c b[/del] [ins]c b[/ins] ⤙ [fig]figure[/fig] [del]c a[/del] [ins]c a[/ins]  Q.E.D.
+
+Scholium. This does not apply to attached parts because if a ⤙ b - c
+it is not necessarily true that a-c ⤙ b-c. If, however, this [ins]happens to be[/ins] the
+case, then by VIII and V [fig]figure[/fig] [del]a - c[/del] [ins]a - c[/ins] ⤙ [fig]figure[/fig] [del]b - c[/del] [ins]b - c[/ins] ⤙ [fig]figure[/fig] [del]b - c[/del] [ins]b - c[/ins]
+and by XIII [fig]figure[/fig] [del]b - c[/del] [ins]b - c[/ins] ⤙ [fig]figure[/fig] [del]a - c[/del] [ins]a - c[/ins]
+
+XVI. If any unenclosed and detached graph is [del]illatively transformable[/del] [ins]would be[/ins] [ins]illatively[/ins] transformable
+into an enclosure containing nothing but a second graph, then this
+second is illatively transformable into an enclosure containing
+only the first.

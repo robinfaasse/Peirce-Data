@@ -1,0 +1,23 @@
+equal to $v$ with $x=v$ and $y$ unequal to $v$. So defined, the expression $f(x,y)$ signifies precisely "If $x$ is true $y$ is true" for this hypothetical statement is not true if $x$ is true unless $y$ is true also, but whether it be true if $x$ is not true [del]or[/del] [ins]or[/ins] if both $x$ and $y$ are true depends upon circumstances.
+
+This definition is the formula of the simplest [ins]and[/ins] most rudimentary of all inferences, the modus ponens of hypothetical inference.
+
+If $x$ is true, $y$ is ture,
+
+But $x$ is true,
+
+Therefore $y$ is true.
+
+Suppose that being at the theatre, I were to he[ins]ar[/ins] a rumour of a house being on fire near where I lived. I should say to myself "If this be true I had better be going." I make inquiries and ascertain that it is true, and I hurry home accordingly. This is an example of an inference of this kind.
+
+CHAPTER II.
+
+We may write the function $f(x,y)$ in the form,
+
+$$f(x,y) = (x-v)F(x,y) + v + (y-v):c$$
+
+The first term vanishes when $x=v$. The last term does not vanish unless $y=v$. Therefore if $x=v$ the whole does not reduce to $v$ unless $y=v$. The expression is equivalent to the equation
+
+$$(x-v)A + (y-v)B = 0$$
+
+Now if we have a second similar equation

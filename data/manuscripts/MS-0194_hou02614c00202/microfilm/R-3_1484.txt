@@ -1,0 +1,3 @@
+$$x^x = (R \cdot \sigma^{\theta i})^{R \cos \theta + R \sin \theta i}$$
+$$= R^{R \cos \theta} \cdot \sigma^{R \theta \sin \theta} + R^{R \sin \theta i} \cdot \sigma^{R \theta \cos \theta i}$$
+$$= \sigma^{R(\log R \cos \theta - \theta \sin \theta)} \cdot \sigma^{R(\log R \sin \theta + \theta \cos \theta)i}$$

@@ -1,0 +1,25 @@
+Cylinder's motion is by (78)
+
+$$\frac{d\xi}{dt} = c e^{\sqrt{-1}nt}$$
+
+So that
+
+$$\frac{d^{2}\xi}{dt^{2}} = c \sqrt{-1} \cdot n e^{\sqrt{-1}nt}$$
+
+The force of the air on a length $dl$ is
+
+$$F = -M' c n \sqrt{-1} (k - \sqrt{-1} k') e^{\sqrt{-1}nt}$$
+
+So that
+
+$$\frac{d^{2}\xi}{dt^{2}} = (c \sqrt{-1} n - M' c n k \sqrt{-1} - M' c n k') e^{\sqrt{-1}nt}$$
+
+Or as Stokes expresses it
+
+$$F = -M' k \frac{d^{2}\xi}{dt^{2}} - M' n k' \frac{d\xi}{dt}$$
+
+Then
+
+$$\frac{d^{2}\xi}{dt^{2}} = -A \xi - M' k \frac{d^{2}\xi}{dt^{2}} - M' n k' \frac{d\xi}{dt}$$
+
+$$\frac{d^{2}\xi}{dt^{2}} = -\frac{A}{1 + M' k} \xi - \frac{M' n k'}{1 + M' k} \frac{d\xi}{dt}$$

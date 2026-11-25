@@ -1,0 +1,39 @@
+[u]XVII[/u]. Any evenly enclosed part of a graph may be erased, and anything [ins]117r[/ins]
+maybe inserted under odd enclosures.
+
+Proof. Let [u]a[/u] be any graph. Then by [u]II[/u] [u]a[/u] is transformable into a
+blank. Hence, by [u]XVI[/u], it is so transformable anywhere within even enclo-
+sures [del]while any[/del] [ins]and a[/ins] blank place [del]within odd and[/del] oddly enclosed is transformable
+into [u]a[/u]. Q.E.D.
+
+[u]XVIII[/u]. Every [ins]possible[/ins] graph can be written either unenclosed or singly
+enclosed, in any connection.
+
+Proof. Let f be a graph which cannot be written unenclosed.
+Then I will show that it can be written enclosed.
+
+For upon that which cannot happen there is no falsity
+in [del]supposing[/del] [ins]assuming[/ins] that anything would ensue. Hence, it may be
+assumed that [fig]f x [circle][/fig]
+
+Hence, by [u]XII[/u], a blank place is transformable into [fig](f)[/fig]
+But by [u]II[/u], we always have a right to a blank, so that [fig](f)[/fig] may be written
+alone Q.E.D.
+
+[u]XIX[/u]. The same graph cannot be written at once enclosed and
+unenclosed with the same connections.
+
+Proof. By [u]XVIII[/u] there is a graph which can be written.
+Let [u]t[/u] be such a graph. Then a blank place can be transformed
+into [u]t[/u]. Hence, by [u]XVII[/u] [u]t[/u] can be erased [del]when[/del] oddly enclosed.
+
+Let [u]a[/u] be any graph. Then by [u]XVIII[/u], either [u]a[/u] or [fig](a)[/fig] can be
+written. :. by [u]II[/u] [del]and[/del] either [fig](a)[/fig] or [fig](a)[/fig] may be written.
+Hence by [u]XVII[/u] in either case [fig](a) a[/fig] may be written.
+
+Hence t [fig]>< (a) a[/fig]. Hence, by [u]XII[/u] [fig](a) a x (t)[/fig]
+
+But [del]by XI[/del] some possible graph cannot be written. Let f be such a graph
+Then by [u]VIII[/u] there is a graph [u]x[/u] such that f = [fig](x)[/fig] Then by [u]XVII[/u] [fig](a) a x (x)[/fig]
+[del]and[/del] [ins]and[/ins] since as we have seen [u]t[/u] may be [del]omitted[/del] [ins]under odd enclosure[/ins] [fig](a) a x (x)[/fig] [del]or[/del]
+[ins]or[/ins] [fig](a) a x f[/fig]. [del]But[/del] f cannot be written. Hence [fig](a) a[/fig] cannot be written.

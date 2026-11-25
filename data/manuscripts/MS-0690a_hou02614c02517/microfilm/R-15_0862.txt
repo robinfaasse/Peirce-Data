@@ -1,0 +1,21 @@
+[pn]Logic
+of History
+4[/pn]
+
+& error will be
+$\frac{p_1}{p_1+q_1} \cdot \frac{p_2}{p_2+q_2} \cdot \frac{p_3}{p_3+q_3} \text{ etc} \times \frac{p_5}{p_5+q_5} \cdot \frac{p_6}{p_6+q_6} \cdot \frac{p_7}{p_7+q_7} \text{ etc}$
+and the probability that all the arguments pro lead to
+error while all the arguments con lead to truth, will
+be
+$\frac{q_1}{p_1+q_1} \cdot \frac{q_2}{p_2+q_2} \cdot \frac{q_3}{p_3+q_3} \text{ etc} \times \frac{q_5}{p_5+q_5} \cdot \frac{q_6}{p_6+q_6} \cdot \frac{q_7}{p_7+q_7} \text{ etc.}$
+But one or other of these two [ins]alternatives[/ins] [del]things[/del] must be the case,
+so that the odds or ratio of favorable to unfavorable
+probability, on the whole is simply
+$\frac{p_1 \cdot p_2 \cdot p_3 \text{ etc}}{q_1 \cdot q_2 \cdot q_3 \text{ etc}} \frac{p_5 \cdot p_6 \cdot p_7 \text{ etc}}{q_5 \cdot q_6 \cdot q_7 \text{ etc}}.$
+
+Now if we suppose that the impression made on the
+mind of the wise man is proportional to the logarithm
+of the odds as its exciting cause, then the total
+impression will be
+$\log \left( \frac{p_1}{q_1} \cdot \frac{p_2}{q_2} \cdot \frac{p_3}{q_3} \text{ etc} \cdot \frac{p_5}{q_5} \cdot \frac{p_6}{q_6} \cdot \frac{p_7}{q_7} \text{ etc} \right) = \log \frac{p_1}{q_1} + \log \frac{p_2}{q_2} + \log \frac{p_3}{q_3} + \text{ etc}$
+$+ \log \frac{p_5}{q_5} + \log \frac{p_6}{q_6} + \log \frac{p_7}{q_7} + \text{ etc.}$

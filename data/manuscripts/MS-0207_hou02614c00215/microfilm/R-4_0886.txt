@@ -1,0 +1,232 @@
+[fig]Profile of a man with a mustache[/fig]
+[fig]Cross-hatched cone shape[/fig]
+[fig]Profile of a man looking left[/fig]
+
+$$\frac{a}{b}$$
+$$\frac{c}{d}$$
+
+$$\frac{xa + y}{xb + y} = \frac{xc}{xd}$$
+
+$$\frac{xa + y}{xb + y} = \frac{c}{d}$$
+
+$$x(b-a) = (d-c)y$$
+
+$$\frac{y}{x} = \frac{b-a}{d-c}$$
+
+[fig]Two faces smiling, looking forward[/fig]
+[fig]Sketch of hair and face profile[/fig]
+
+To prove that [del]ad - ac + cd - c² + bc[/del] [ins]$$\frac{c(b - a + d - c)}{d(b - a + d - c)}$$[/ins] [del]bd - ad + db - ad[/del] $$\frac{a+b}{c+d}$$ is intermediate between $$\frac{a}{c}$$ and $$\frac{b}{d}$$
+
+$$\frac{a}{c} > \frac{b}{d}$$
+
+$$ad > bc$$
+
+$$d(c+d) \gtrless (a+b)c$$
+
+$$\frac{d}{c} \gtrless \frac{a+b}{c+d}$$
+
+$$\frac{a+b}{c+d} > \frac{b}{d}$$
+
+$$ad + bd > bc + bd$$
+
+$$ad > bc$$
+
+$$\frac{a}{c} > \frac{a+b}{c+d}$$
+
+$$ac + ad > ac + bc$$
+
+$$ad > bc$$
+
+$$\frac{a}{c} > \frac{a+1}{c+1}$$
+
+$$ac + a > ac + c$$
+
+$$a > c$$
+
+$$\frac{a}{c} < \frac{a+1}{c+1}$$
+
+$$\frac{a}{c} < \frac{a+d}{c+d}$$
+
+$$ac + ad < ac + cd$$
+
+$$ad < cd$$
+
+$$a < c$$
+
+Suppose $$\frac{a}{c} < \frac{a+d}{c+d}$$
+
+$$\frac{a}{c} < \frac{b}{d}$$
+
+$$ad < bc$$
+
+$$\frac{a}{c} < \frac{a+b}{c+d} < \frac{b}{d}$$
+
+$$\frac{a}{c} < \frac{a+d-c}{c+d}$$
+
+$$ac + ad < ac + cd - c^2$$
+
+$$ad < cd - c^2$$
+
+$$a < c - \frac{c^2}{d}$$
+
+$$\frac{a}{c} < 1 - \frac{c}{d}$$
+
+$$\frac{a}{c} + \frac{c}{d} < 1$$
+
+$$\frac{ad + c^2}{cd} < 1$$
+
+$$ad + c^2 < cd$$
+
+$$ad < cd - c^2$$
+
+[fig]Profile of a man with a hood or cap[/fig]
+
+$$\frac{a+1}{b+d}$$
+
+$$\frac{a}{c} < \frac{1}{d}$$
+
+$$\frac{a}{c} < \frac{b}{d}$$
+
+[fig]Scribbled lines and shapes[/fig]
+
+$$\frac{a}{c} < \frac{2a+d-c}{c+d}$$
+
+$$ac + ad < 2ac + cd - c^2$$
+
+$$ad < ac + cd - c^2$$
+
+$$ad - ac + c^2 < cd$$
+
+$$c(c - a) < d(c - a)$$
+
+$$c < d$$
+
+[fig]Sketch of a person's head and shoulders[/fig]
+[fig]Profile of a man looking right[/fig]
+
+$$\frac{xa+y}{xc+y} = \frac{a+1}{c+1}$$
+
+$$(xa+y)(c+1) = (xc+y)(a+1)$$
+
+$$xac + xa + yc + y = xac + xc + ya + y$$
+
+$$x(a-c) = y(a-c)$$
+
+$$x = y$$
+
+$$(x-1)(c-a) = d-b$$
+
+$$x-1 = \frac{d-b}{c-a}$$
+
+$$x = 1 + \frac{d-b}{c-a} = \frac{c-a+d-b}{c-a}$$
+
+$$y = \frac{bc-ad}{c-a}$$
+
+[fig]Profile of a man's face[/fig]
+
+$$\frac{a+1}{c+1} > \frac{a+b}{c+d}$$
+
+$$ac + ad + c + d > ac + bc + a + b$$
+
+$$ad + c + d > bc + a + b$$
+
+$$ad - bc > a + b - c - d$$
+
+$$\frac{a+d-c}{c+d} > \frac{a+b}{c+d}$$
+
+$$a+d-c > a+b$$
+
+$$d-c > b$$
+
+$$b+c < d$$
+
+[fig]Sketch of a face looking left[/fig]
+
+$$\frac{a}{c} > \frac{a+d-c}{c+d}$$
+
+$$ac + ad > ac + cd - c^2$$
+
+$$ad > cd - c^2$$
+
+$$a > c - \frac{c^2}{d}$$
+
+$$\frac{a}{c} > 1 - \frac{c}{d}$$
+
+$$\frac{a}{c} + \frac{c}{d} > 1$$
+
+$$\frac{a+d}{c+d} > \frac{a+1}{c+1}$$
+
+$$ac + a + cd + d > ac + ad + c + d$$
+
+$$a + cd > ad + c$$
+
+$$cd - ad > c - a$$
+
+$$d(c-a) > c-a$$
+
+$$d > 1$$
+
+[fig]Profile of a man with a collar[/fig]
+
+$$\frac{a}{c}$$
+
+$$\frac{a+c}{b+d}$$
+
+$$\frac{c}{d}$$
+
+$$\frac{a}{b} < \frac{a+1}{b+2}$$
+
+$$ab + 2a < ab + b$$
+
+$$2a < b$$
+
+$$\frac{a}{b} < \frac{1}{2}$$
+
+$$\frac{a}{b} \ge \frac{1}{2}$$
+
+$$\frac{a+1}{b+2} \le \frac{a}{b}$$
+
+$$\frac{a}{b} < \frac{2}{3}$$
+
+$$\frac{a+2}{b+3} \le \frac{a}{b}$$
+
+$$\frac{a}{b} \ge \frac{2}{3}$$
+
+$$\frac{a+2}{b+3} \le \frac{a+1}{b+1}$$
+
+$$ab + a + 2b + 2 \le ab + 3a + b + 3$$
+
+$$b \le 2a + 1$$
+
+$$\frac{b}{2} \le a + \frac{1}{2}$$
+
+$$\frac{a}{b} \ge \frac{1}{2} - \frac{1}{2b}$$
+
+[fig]Profile of a woman's face[/fig]
+
+$$\frac{a}{b} < \frac{1}{2}$$
+
+$$\frac{a}{b} \ge \frac{1}{2} - \frac{1}{2b}$$
+
+$$\frac{a+2}{b+3} \le \frac{a+1}{b+1}$$
+
+$$\frac{a}{b} \ge \frac{2}{3}$$
+
+$$\frac{a+2}{b+3} \le \frac{a+1}{b+1}$$
+
+$$\frac{a}{b} \ge \frac{2}{3}$$
+
+$$\frac{a+2}{b+3} \le \frac{a+1}{b+2}$$
+
+$$ab + 2a + 2b + 4 \le ab + 3a + b + 3$$
+
+$$b + 1 \le a$$
+
+$$\frac{a}{b} \ge 1 + \frac{1}{b}$$
+
+$$\frac{a}{b} < \frac{2}{3}$$
+
+$$\frac{a+2}{b+3} \le \frac{a+1}{b+2}$$
+
+$$\frac{a}{b} \ge 1 + \frac{1}{b}$$

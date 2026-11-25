@@ -1,0 +1,26 @@
+[pn]CH. XIII. § 254.][/pn] AREAS. [pn]73[/pn]
+
+[u]Area of the Trapezoid.[/u]
+
+**253. Theorem.** *The area of a trapezoid is half the product of its altitude by the sum of its parallel sides.*
+
+*Proof.* Draw the diagonal $AD$ (fig. 129); the trapezoid $ABCD$ is divided into two triangles $ACD$ and $ABD$, the bases of which are $AB$ and $CD$, and the altitude of each is, by § 82, $EF$.
+
+The area of $ABD$ is, by § 251,
+$= \frac{1}{2} EF \times AB$,
+and the area of $ACD$
+$= \frac{1}{2} EF \times CD$;
+the sum of which is
+the trapezoid $ABCD = \frac{1}{2} EF \times (AB + CD)$.
+
+**254. Lemma.** *The line, which joins the middle points of the two sides of a trapezoid which are not parallel, is parallel to the two parallel sides, and is equal to half their sum.*
+
+*Proof. a.* Through the middle points $H$ and $I$ (fig. 129) of the sides $AC$ and $BD$, draw $HI$, and through $I$ draw $OT$ parallel to $CA$.
+
+The triangles $DIO$ and $ITB$ have the side $DI$ equal to $IB$, the angle $DIO$ equal to the vertical angle $BIT$, and the angle $IDO$ equal, by § 30, to $IBT$; and, therefore, the triangles $DIO$ and $ITB$ are equal, by § 53; and
+$OI = IT = \frac{1}{2} OT$.
+But, in the parallelogram $OCAT$, we have, by § 78,
+$CA = OT$;
+whence
+$OI = \frac{1}{2} CA = CH$;
+so that $CHIO$ is, by § 81, a parallelogram; and $HI$ is parallel to $CD$; and also to $AB$

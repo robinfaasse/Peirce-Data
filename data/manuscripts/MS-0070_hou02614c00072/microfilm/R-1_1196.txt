@@ -1,0 +1,26 @@
+[pn]N 1[/pn] Analysis of Demonstrations concerning definite Positive Integers.
+
+[del]The[/del] [ins]X[/ins] Universe of l.c. italics is the aggregate of definite Integers not negative.
+The Universe of Greek minuscules is the aggregate of definite characters which
+might conceivably be predicated of integers not negative.
+
+$q_{\alpha u}$ means that $u$ has the character $\alpha$.
+
+(1) $\Pi_{\alpha} \Sigma_{\beta} \Pi_{u} (q_{\alpha u} \mathbin{\bar{\lor}} q_{\beta u}) \cdot (\bar{q}_{\alpha u} \mathbin{\bar{\lor}} \bar{q}_{\beta u})$ i.e. Every character has a negative.
+
+(2) $\Pi_{\alpha} \Pi_{\beta} \Sigma_{\gamma} \Pi_{u} (q_{\alpha u} \mathbin{\bar{\lor}} \bar{q}_{\beta u} \mathbin{\bar{\lor}} q_{\gamma u}) \cdot (q_{\alpha u} \mathbin{\bar{\lor}} q_{\beta u} \mathbin{\bar{\lor}} \bar{q}_{\gamma u})$ [ins]Every pair of characters has a compound of them.[/ins]
+
+Instead of directly introducing the relation of "as small as", I make a character of
+certain characters, consisting in each of them belonging to every integer smaller
+than an integer to which it belongs. $S_{\alpha}$ means that $\alpha$ is such a character.
+
+(3) $\Pi_{u} \Sigma_{\alpha} q_{\alpha u} \cdot S_{\alpha}$ Every integer has a character common to all lower integers (formal)
+
+(4) $\Pi_{\alpha} \Sigma_{u} \bar{S}_{\alpha} \mathbin{\bar{\lor}} \bar{q}_{\alpha u}$ i.e. There is no [del]greatest[/del] [ins]highest[/ins] integer
+
+(5) $\Sigma_{u} \Pi_{\alpha} \Pi_{v} q_{\alpha u} \mathbin{\bar{\lor}} \bar{S}_{\alpha} \mathbin{\bar{\lor}} \bar{q}_{\alpha v}$ i.e. There is a lowest integer (i.e. zero)
+
+(6) $\Pi_{\alpha} \Pi_{\beta} \Pi_{u} \bar{S}_{\alpha} \mathbin{\bar{\lor}} \bar{S}_{\beta} \mathbin{\bar{\lor}} \bar{q}_{\alpha u} \mathbin{\bar{\lor}} q_{\beta u} \mathbin{\bar{\lor}} \bar{q}_{\alpha v} \mathbin{\bar{\lor}} \bar{q}_{\beta v}$ [ins]i.e. if one integer has an S-character that another has not, it has all that the latter has.[/ins]
+
+(7) $\Pi_{u} \Pi_{v} \Sigma_{\alpha} \Pi_{\beta} [del]\bar{N}[/del] \bar{S}_{\alpha} \cdot (q_{\alpha u} \cdot \bar{q}_{\alpha v} \mathbin{\bar{\lor}} \bar{q}_{\alpha u} \cdot q_{\alpha v}) \mathbin{\bar{\lor}} q_{\beta u} \cdot \bar{q}_{\beta v} \mathbin{\bar{\lor}} \bar{q}_{\beta u} \cdot q_{\beta v}$
+[ins]Of any two integers, one has an S-character which the other has not, and either one has an S-character which the other has not, or else they are identical.[/ins]

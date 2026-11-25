@@ -1,0 +1,34 @@
+[pn]356[/pn]
+
+[u]Corollary[/u] 120. It follows from the reasoning of the last
+Scholium that we may begin with any four points in
+a plane, [A], [B], [C], [D], which we may suppose
+subject to an equation
+[del][A][/del]
+[u]a[/u] A + [u]b[/u] B + [u]c[/u] C + [u]d[/u] D = 0
+where [u]a[/u], [u]b[/u], [u]c[/u], [u]d[/u] are numbers.
+
+And from these we at once find three other points:
+[u]First Point[/u]: [u]a[/u] A + [u]b[/u] B = [u]c[/u] C + [u]d[/u] D [del]([/del]or = - ([u]c[/u] C + [u]d[/u] D); but
+we do not distinguish a point from a multiple of it.[del])[/del]
+[u]Second Point[/u]: [u]a[/u] A + [u]c[/u] C = [u]b[/u] B + [u]d[/u] D
+[u]Third Point[/u] [u]a[/u] A + [u]d[/u] D = [u]b[/u] B + [u]c[/u] C.
+
+Or, to avoid [del]needless[/del] doubling of the letters, call the
+points
+A + B = C + D
+A + C = B + D
+B + C = A + D
+
+These are shown in [del]Fig.[/del] the complete tetragon of [del]Figure 213[/del]
+
+[fig]Tetragon diagram with points A, B, C, D and lines[/fig] Figure 213
+
+We now join these so as to make the three rays:
+1[ins]st[/ins], {A+B, A+C} = {A+B, B+D} = {A+C, C+D} = {B+D, C+D}
+or (x+y) A + x B + y C.
+2[ins]nd[/ins] {A+B, B+C} or u A + (u+v) B + v C;
+3[ins]rd[/ins] {A+C, B+C} or s A + t B + (s+t) C.
+
+The first of these, or (x+y) A + x B + y C, cut {BC} at the
+value of [del]x[/del]/[ins]x+y[/ins] for which x+y = 0, that is y = -x, or in [B-C] =

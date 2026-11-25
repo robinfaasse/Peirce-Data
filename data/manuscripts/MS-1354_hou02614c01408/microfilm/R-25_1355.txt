@@ -1,0 +1,27 @@
+Equation (3) gives
+[del]$$(\frac{dr}{d\theta})^2 = \frac{r^2}{z^2} - \frac{r^2}{1-z^2}$$[/del]
+where
+$$\frac{1}{r^2} (\frac{dz}{dr})^2 = \frac{1}{1-z^2}$$
+and (4) becomes
+$$(4') \quad \frac{d\theta}{r} = \sqrt{(\frac{z}{R})^2 \frac{1}{1-z^2} + 1} \cdot d\cdot r$$
+$$= \frac{z}{R} \sqrt{\frac{1}{1-z^2} + (\frac{R}{z})^2} \cdot dr$$
+
+But [del]$$d\cdot (1-r^2)^{-1} =$$[/del]
+$$\frac{1}{1-r^2} = 1 + r^2 + r^4 + r^6 + \text{etc}$$
+[del]$$\frac{+r^2}{r^2 - r^4}$$[/del]
+[del]$$\frac{+r^4}{}$$[/del]
+
+But, by (2) $$\frac{1}{1-r^2} = \frac{z^2}{r^2}$$
+and by (3) [del]$$dr$$[/del]
+
+But by (2) & (3) [del]$$\frac{dz}{r} =$$[/del] [del]$$\frac{z}{r^2}$$[/del] [del]$$z dr$$[/del]
+
+$$\frac{dr}{r} = [del]z[/del] \frac{z \cdot dz}{r^2} = \frac{z \cdot dz}{1-z^2}$$
+
+So that putting $$z = z' - 1$$ [del]$$z^2 = z'^2 + 2$$[/del]
+$$dz = d\cdot z'$$
+$$z^2 = 1 - 2z' + z'^2$$
+$$1-z^2 = 2z' - z'^2$$
+$$\frac{dr}{r} = [del]dz[/del] \frac{(z'-1) dz'}{z'(2-z')}$$
+
+[del]$$\frac{dr}{r} =$$[/del] [del]$$r$$[/del]

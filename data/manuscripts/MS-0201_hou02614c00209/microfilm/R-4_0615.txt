@@ -1,0 +1,11 @@
+[pn]163[/pn] of the product is simply the sum of the logarithms of multiplier and multiplicand; and in addition it makes no difference whether the modulus be prime or composite. But when it comes to raising numbers to powers, the question is a different one. Let us consider the natural numbers of a cycle of modulus 17, since 17 has only one prime factor, and is the only member [ins]the[/ins] one less than a prime of which this is true until we reach a very inconveniently large number 65536. Taking 5 as the base, we have
+
+$$\begin{array}{lcccccccccccccccc}
+\text{Nat. nos.} & 1 & 5 & 8 & 6 & 13 & 14 & 2 & 10 & 16 & 12 & 9 & 11 & 4 & \overset{-10}{3} & 15 & 7 & 1 \\
+\text{Logs} & 0 & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & 11 & 12 & 13 & 14 & 15 & 0 \\
+\hline
+\text{Nat. nos.} & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & 11 & 12 & 13 & 14 & 15 & 16 & 0 \\
+\text{Logs} & 0 & 6 & 13 & 12 & 1 & 3 & 15 & 2 & 10 & 7 & 11 & 9 & 4 & 5 & 14 & 8 & \\
+\end{array}$$
+
+It becomes obvious, upon the examination of these tables that [del]16[/del] [ins][u]16[/u][/ins] cannot be the base of a system of logarithms since $16^2 = [2 \cdot 8] = [16] = 1$, that [del]$[14] = 13$[/del] [ins]$[14] = 13$[/ins] or $[12] = 4$ cannot be [ins]present[/ins] so since [del]$[14] = 1$[/del] $4^2 = [2 \cdot 12] = [16]$ and therefore $4^4 = 1$, while [del]$13^2 = [2 \cdot 4] = [8]$[/del] [ins]$13^2 = [2 \cdot 4] = [8]$[/ins] has the same objection, and that for similar reasons neither 8, 2, 9, or 15 can be a base. But 3 and 6 with

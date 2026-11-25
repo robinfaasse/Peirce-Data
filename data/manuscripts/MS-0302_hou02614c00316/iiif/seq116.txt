@@ -1,0 +1,48 @@
+A B C
+[fig]diagram showing three intersecting lines labelled A, B, and C, and a fourth line with points labeled x, y, z[/fig]
+[ins]D[/ins] = xA + yB + zC
+
+p + q + r = 1
+u + v + w = 1
+x + y + z = 1
+
+D = pA + qB + rC
+E = uA + vB + wC
+F = xA + yB + zC
+
+1 = [u]p[/u] A + [u]q[/u] B
+   p+q   p+q
+
+2 = [u]zu - wx[/u] A + [u]vz - wy[/u] B
+   [del]z - w[/del]      z - w
+
+3 = [u]u[/u] A + [u]v[/u] B
+   u+v   u+v
+
+4 = [u]u(1-q) - p(1-v)[/u] A + [u]v(1-p) - q(1-u)[/u] B
+    u + v - p - q      u + v - p - q
+
+5 = [u]x[/u] A + [u]y[/u] B
+   x+y   x+y
+
+
+[fig]diagram showing five lines labelled 1, 2, 3, 4, 5, and infinity, intersecting with various points marked[/fig]
+
+[del][u]u + v + w[/u][/del]
+   [u]u[/u] A + [u]v[/u] B
+[del]u+v+w[/del]
+[[del]ξu + (1 - ξ)x[/del]]
+[del]ξw + (1 - ξ)z = 0[/del]
+[del]ξ(z - w) = z[/del]
+[del]ξ = [u]z[/u][/del]
+    [del]z - w[/del]
+[del]1 - ξ = [u]-w[/u][/del]
+        [del]z - w[/del]
+[del]u(1-q) - x(1-v)[/del]
+[del]v(1-p) - y(1-u)[/del]
+[del]= [u]u - ux - x + vx[/u] A + [u]v - vp - y + uy[/u] B[/del]
+    [del]u + v - x - y[/del]      [del]u + v - x - y[/del]
+[del]= [u]u(1-x) - x(1-u)[/u] A + [u]v(1-y) - y(1-v)[/u] B[/del]
+    [del]u + v - x - y[/del]      [del]u + v - x - y[/del]
+G = [u]p(1-y) - x(1-q)[/u] A + [u]q(1-x) - y(1-p)[/u] B
+    p + q - x - y      p + q - x - y

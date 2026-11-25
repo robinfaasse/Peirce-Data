@@ -1,0 +1,45 @@
+a. [fig]diagram[/fig] Q $\bar{1}$ $\bar{2}$ $\bar{3}$
+[fig]diagram[/fig]
+b. [fig]diagram[/fig] Q T $\bar{2}$ $\bar{3}$ $\bar{4}$ $\bar{5}$
+c [fig]diagram[/fig] T . $\bar{2}$ . $\bar{3}$ . $\bar{4}$
+
+d. [fig]diagram[/fig] $\bar{2}$ $\bar{3}$ $\bar{4}$ $\bar{5}$ $\bar{6}$
+e. [fig]diagram[/fig] u $\bar{5}$ $\bar{6}$ $\bar{7}$ $\bar{8}$
+f. [fig]diagram[/fig] $\bar{2}$ $\bar{4}$ $\bar{5}$ $\bar{6}$ $\bar{7}$
+
+[fig]diagram[/fig] g. $\bar{5}$ $\bar{6}$ $\bar{7}$ $\bar{8}$ $\bar{9}$ x
+[fig]diagram[/fig] h. -- $\bar{6}$ $\bar{7}$ $\bar{8}$ $\bar{9}$ --
+i. [fig]diagram[/fig] $\bar{7}$ $\bar{8}$ $\bar{9}$ x J
+j. [fig]diagram[/fig] $\bar{7}$ $\bar{9}$ x J Q
+k. [fig]diagram[/fig] $\bar{8}$ x J Q $\bar{1}$
+l. [fig]diagram[/fig] x J Q $\bar{1}$ $\bar{2}$
+
+[fig]diagram[/fig]
+[fig]diagram[/fig]
+
+$\bar{J}$ Q $\bar{1}$ $\bar{2}$ $\bar{3}$
+x J Q T $\bar{2}$
+[fig]diagram[/fig] Q T $\bar{2}$ $\bar{3}$ $\bar{4}$ [fig]diagram[/fig]
+J Q $\bar{1}$ $\bar{2}$ $\bar{3}$
+T $\bar{2}$ $\bar{3}$ $\bar{4}$
+
+f = b e
+[fig]diagram[/fig] $\bar{2}$ $\bar{3}$ $\bar{4}$ $\bar{5}$ $\bar{6}$ [fig]diagram[/fig] $\bar{2}$ $\bar{4}$ $\bar{5}$ $\bar{6}$ $\bar{7}$
+
+e = a + d
+d = b + c + x
+e = (a + c [del]d[/del] + x) $\cdot$ $\bar{d}$
+d = b If d = c If d = x
+e = a + x e = a + b
+
+[fig]diagram[/fig] $\bar{5}$ $\bar{6}$ $\bar{7}$ $\bar{8}$ $\bar{9}$ x
+$\bar{4}$ $\bar{5}$ $\bar{6}$ $\bar{7}$ $\bar{8}$
+
+[fig]diagram[/fig]
+d | b b b c c c x x x
+e | a c x a x a a c c
+f | a x a c c x a x a
+[fig]diagram[/fig]
+g - b x b c a b c x a c a x
+h a x a b
+[fig]diagram[/fig]

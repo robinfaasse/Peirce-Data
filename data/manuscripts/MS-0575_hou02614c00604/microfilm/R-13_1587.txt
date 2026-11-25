@@ -1,0 +1,12 @@
+$$ac \prec bc \qquad a+c \prec b+c$$
+
+[del]$(a+c) \prec a(b+c)$[/del]
+
+$$\begin{array}{c}
+ac \prec a \prec a+c \\
+bc \prec b \prec b+c
+\end{array}$$ [fig]curved arrow pointing from a to b+c[/fig]
+
+If not true that $a \prec b$
+not true that $a \prec bc$
+not true that $a \prec ac$

@@ -1,0 +1,22 @@
+[pn]Logic
+III.
+139[/pn]
+
+gation, [u]a[/u] + [u]b[/u] + [u]c[/u] + etc. has the value [u]f[/u]; and by the first clause
+of the definition of composition ([u]a[/u] + [u]b[/u] + [u]c[/u] + etc.) [u]x[/u] has the value
+[u]f[/u]. Suppose, on the other hand, that [u]x[/u] has the value [u]f[/u]. Then, by
+the second clause of the definition of composition
+([u]a[/u] + [u]b[/u] + [u]c[/u] + etc.) [u]x[/u] has the value [u]f[/u].
+
+Thus, in every case [u]a[/u] [u]x[/u] + [u]b[/u] [u]x[/u] + [u]c[/u] [u]x[/u] + etc. and
+([u]a[/u] + [u]b[/u] + [u]c[/u] + etc.) [u]x[/u] and ([u]a[/u] + [u]b[/u] + [u]c[/u] + etc.) + [u]x[/u] have
+the same value.
+
+[u]Corollary[/u]. It follows that
+([u]a[/u] + [u]x[/u]) . ([u]b[/u] + [u]x[/u]) . ([u]c[/u] + [u]x[/u]) . etc
+= ([u]a[/u] + [u]x[/u]) ([u]b[/u] + [u]x[/u]) ([u]c[/u] + [u]x[/u]) . etc + [u]x[/u]
+= ([u]a[/u] [u]b[/u] [u]c[/u] + etc) + [u]x[/u].
+
+When we come to the algebra of logic, there will be a
+highly important remark to make concerning this
+theorem.

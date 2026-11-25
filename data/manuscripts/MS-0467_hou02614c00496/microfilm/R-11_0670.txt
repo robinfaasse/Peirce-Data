@@ -1,0 +1,15 @@
+[pn]94[/pn]
+
+We have only to place instead of $\rightarrow$ wherever it occurs [fig]arrow with loop and dot[/fig]
+
+We come now to the graphical expressions of beta graphs. Here we require the following symbols
+
+[u]Gamma Expressions of Beta Graphs[/u]
+
+$X \rightarrow Y$ means $Y$ is a ligature whose outermost part is on $X$
+
+[fig]X arrow g arrow Y[/fig] $X \rightarrow g \rightarrow Y$ means $g$ is expressed by a [ins]monad[/ins] spot on $X$ whose hook is joined to the ligature $Y$ [del]on[/del] [ins]$X$[/ins]
+
+$X \rightarrow g \rightarrow \begin{matrix} Y \\ Z \end{matrix}$ means $g$ is expressed by a dyad graph on $X$ whose first and second hooks respectively are joined on $X$ to the ligatures $Y$ and $Z$
+
+$X \rightarrow g \rightarrow \begin{matrix} Y \\ Z \\ W \end{matrix}$ means $g$ is expressed by a triad graph on $X$ where [del]ligals[/del] first, second, and third hooks are joined on $X$ to the ligatures $Y, Z, W$, respectively

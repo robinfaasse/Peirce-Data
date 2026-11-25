@@ -1,0 +1,14 @@
+[fig]A B / C D[/fig] $\frac{B+C}{D} = \frac{A+B}{C+D} \cdot \frac{A+C}{B+D}$
+$(B+C)(B+D)(C+D) = (A+B)(A+C)D$
+$B^2C + B^2D + BC^2 + 2BCD + BD^2 + C^2D + CD^2$
+$= A^2D + ABD + ACD + BCD$
+[del]Suppose A = D[/del]
+No! $\frac{A}{B+C+D} = \frac{A+B}{C+D} \cdot \frac{A+C}{B+D}$
+$ABC + ABD + ACD + AD^2 =$
+$A^2B + AB^2 + 2ABC + B^2C$
+$+ A^2C + [del]ABC[/del] + AC^2 + BC^2$
+$+ A^2D + ABD + ACD + BCD$
+$ABC + AD^2 = A^2B + A^2C + A^2D$
+$+ AB^2 + AC^2$
+$+ B^2C + BC^2$
+$+ ABC + BCD$

@@ -1,0 +1,19 @@
+[marginalia]
+[date]1914 Feb 20[/date]
+Page 2
+[/marginalia]
+
+Equation (5) may be put in the form
+($5'$) $dr = \frac{\frac{R}{Z} \cdot \frac{1}{2} \frac{dz}{2Z}}{\sqrt{(1 - \frac{z}{2Z})\frac{z}{2Z}}}$
+
+[del]$dr = \frac{R}{Z}$[/del]
+
+Equation (3) may be put in the form
+[del]$(\frac{r}{R})^2 = 2 \frac{z}{2Z} - (\frac{z}{2Z})^2 = \frac{z}{2Z} (2 - \frac{z}{2Z}) = 2 \frac{z}{2Z} ($[/del]
+[del]$= \frac{R}{Z}$[/del]
+$(\frac{r}{R})^2 = [del]4 \frac{z}{2Z} +[/del] 4 \frac{z}{2Z} (1 - \frac{z}{2Z})$
+$\frac{r}{2R} = \sqrt{\frac{z}{2Z} (1 - \frac{z}{2Z})}$
+$r = \sqrt{\frac{R}{Z} z (2R - \frac{R}{Z} z)}$
+$(\frac{r}{R})^2 - 2 \frac{z}{Z} + (\frac{z}{Z})^2 = 0$
+$(\frac{z}{Z} - 1)^2 = 1 - (\frac{r}{R})^2$
+$2 (\frac{z}{Z} - 1) \frac{dz}{Z} = - 2 \frac{r}{R} \frac{dr}{R}$

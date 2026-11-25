@@ -1,0 +1,21 @@
+[pn]106[/pn]
+
+by an equation linear in each, that is, an equation of the form
+$$xy + Ax + By + C = 0.$$
+This gives
+$$y = - \frac{Ax+C}{x+B}$$
+
+Now this is a function which forms the subject of [del]some[/del] [ins]①*[/ins] very beautiful and simple algebraical studies, which [del]will be found in[/del] It is convenient to put [del]the[/del]
+$$A = [del]\alpha + \beta -[/del] B - \alpha - \beta$$
+[pn]48[/pn] $$C = B^2 - (\alpha + \beta) B + \alpha \beta$$
+Then
+$$y = \frac{[del]\frac{\alpha + \beta - B}{}[/del] (\alpha + \beta - B) x - B^2 + (\alpha + \beta) B - \alpha \beta}{x+B} = \frac{(\alpha + \beta)x + (\alpha + \beta)B - \alpha \beta}{x+B} - B$$
+$$= \frac{(\alpha^2 - \beta^2)x + [del](\alpha + \beta)[/del] - \alpha \beta (\alpha - \beta)}{(x+B)(\alpha - \beta)} - B = \frac{(x+B-\beta)\alpha^2 - (x+B-\alpha)\beta^2}{(x+B-\beta)\alpha - (x+B-\alpha)\beta} - B$$
+
+But
+$$x = \frac{(x+B-\beta)\alpha' - (x+B-\alpha)\beta'}{(x+B-\beta)\alpha^0 - (x+B-\alpha)\beta^0} - B$$
+
+So that the effect of the shifting has been to raise the
+
+---
+[u]*[/u] See [del]Boole[/del] Calculus of Finite Differences, [u]2nd[/u] Ed. ch. xv. Clebsch, Geometrie. Klein, [del]Das[/del] Ikosaheder. Forsyth, Theory of Functions ch xxii. "Automorphic Functions". [pn]202[/pn]

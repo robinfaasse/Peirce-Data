@@ -1,0 +1,42 @@
+[pn]Graphs
+20[/pn]
+
+concern a number of different subjects (called the correlates)
+taken in a certain order [del]with[/del] [ins]of[/ins] first in which order, distinguished
+from the other correlates by [del]the[/del] being the designation of the relate,
+[del]the fact[/del] is commonly regarded as a character), this fact being such that
+unless every [fig]A with a line through it[/fig]
+
+[u]y[/u] = $\sqrt{\frac{a + bx^2}{1 + cx^2}}$
+
+$D_x y = \frac{1}{2} \sqrt{\frac{1 + cx^2}{a + bx^2}} \cdot \frac{2bx(1 + cx^2) - 2cx(a + bx^2)}{(1 + cx^2)^2}$
+
+$= \sqrt{\frac{1 + cx^2}{a + bx^2}} \cdot \frac{(b - c)x}{(1 + cx^2)^2}$
+
+If $D_x y = 1$
+
+$1 = \frac{1 + cx^2}{a + bx^2} \cdot \frac{(b - c)^2 x^2}{(1 + cx^2)^3}$
+
+$1 + 3cx^2 + 3c^2x^4 + c^3x^6$
+$a + 3acx^2 + 3ac^2x^4 + ac^3x^6$
+$+ bx^2 +$
+
+If $x = y$
+
+$x^2 = \frac{a + bx^2}{1 + cx^2}$
+
+$cx^4 + (1 - b)x^2 = a$
+
+$x^4 + \frac{1 - b}{c} x^2 = \frac{a}{c}$
+
+$(x^2 + \frac{1 - b}{2c})^2 = \frac{4ac + (1 - b)^2}{4c^2}$
+
+$(2cx^2 + 1 - b)^2 = 4ac + (1 - b)^2$
+
+$4c^2x^4 + 4cx^2 - 4bcx^2 = 4ac$
+
+$c^2x^4 + (1 - b)cx^2 = ac$
+
+$(cx^2 + \frac{1 - b}{2})^2 = ac + \frac{(1 - b)^2}{4}$
+
+$a + bx^2 = x^2 + cx^4$

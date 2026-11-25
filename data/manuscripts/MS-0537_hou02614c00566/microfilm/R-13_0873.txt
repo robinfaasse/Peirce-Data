@@ -1,0 +1,31 @@
+[marginalia]
+[del]and[/del] multiplying this by the eighth premise, and dropping [del]O[/del] [ins]b[/ins], and as no longer needed, we get
+multiplying this by the eighth premise, and dropping b, and as no longer needed, we get
+[/marginalia]
+
+on the board. That was the relation between the classes of bondholders and shareholders.
+Let a mean that a given person was a member of the board.
+" b " " " " " " " bondholder.
+" c " " " " " " " shareholder.
+
+Then [del]b+a[/del] [ins]b+a[/ins] means that any given person is either not a member of the board or is a bondholder
+or was a shareholder, and [del]a+b+c[/del] [ins]a+b+c[/ins] will mean that any given person was either not a member of the
+board or was not a bondholder or was not a shareholder. And b+c will mean that any given person
+was either not a bondholder or was a member of the board. These are the premises. Their product
+is
+
+(b+a)(a+b+c)(a+b) = (b+a)(a+b+c)(a+b) [del](a+b)(b[/del] = (b+a)(a+b+c)
+
+We now delete the factors a and b, and thus get
+
+[del]b+a+b+c = b+c[/del]
+
+The last transformation is obtained by mean of the formula [del]a+b+c = a+b+c[/del]. The conclusion is, then,
+that any given person is either not a bondholder or not a shareholder. In other words, no body is
+both a bondholder and a shareholder. A person with a little [del]experience[/del] [ins]practice[/ins] in the use of the algebra
+would have obtained this result, more simply, as follows. The [del]object[/del] [ins]rule[/ins] is to [del]be[/del] eliminated, but get
+either a or its negative is an additive term of every premise. The only way of getting rid of it
+is by multiplying it by its negative. Now there is only one of the premises that contains a. Con-
+sequently, this must be multiplied by each of the others. But the elimination of a between this
+third premise and the first gives [del]b+c[/del] [ins]b+c[/ins]. Therefore, the only conclusion is that derived from
+the [del]last[/del] [ins]first[/ins] premises, which is obviously the result obtained.

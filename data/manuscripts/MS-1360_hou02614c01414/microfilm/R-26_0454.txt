@@ -1,0 +1,107 @@
+Supposing then that $\tau_0$ lies between $-24^\circ$ and $-24^\circ.5$, we
+proceed to apply the Triple Rule of False, as follows:
+
+| | | $23^\circ$ | $24^\circ$ | $25^\circ$ |
+|---|---|---|---|---|
+| Assumed $\tau_0$ | | $23^\circ$ | $24^\circ$ | $25^\circ$ |
+| Consequent | $-\frac{kx'_0}{Q}$ | $.412663$ | $.431695$ | $.450875$ |
+| " | $ky'_0/Q$ | $.08636$ | $.09464$ | $.10338$ |
+| " | $ky'_N/Q$ | $.05182$ | $.05678$ | $.06203$ |
+| Square root from Barlow's Tables. | | $.22764$ | $.23829$ | $.24906$ |
+| [del]Square roots neighboring tabular nos.[/del] | $18^\circ$ | $.22688$ | $\Delta$ $1316$ | $\Delta^2$ $14$ | $319458$ | $\Delta$ $18465$ | $\Delta^2$ $110$ |
+| [del]Also values of $kx'_0/Q$[/del] | $19$ | $24004$ | $\Delta$ $1330$ | | $337863$ | $\Delta$ $18515$ | |
+| | $20$ | $25334$ | | | $356378$ | | |
+| Diff assumption from nearest degree | | $+76$ | $-175$ | $-426$ |
+| $\Delta$ for $1^\circ$ half way between degree & assumption | | $1309$ | $1322$ | $1335$ |
+| Consequent $\tau_N$ | | $18^\circ.058$ | $18^\circ.868$ | $19^\circ.681$ |
+| $\Delta$ for $1^\circ$ for half way. For $kx'_1/Q$ | | $18353$ | $+18453$ | $+18552$ |
+| Correction tabular $kx'_1/Q$ | | $+1064$ | $-2436$ | $-59[del]4[/del][ins]1[/ins]8$ |
+| Consequent $kx'_N/Q$ | | $.320522$ | $.335427$ | $.350460$ |
+| Consequent $kx_N/Q$ | | $.733[del]5[/del][ins]1[/ins]85$ | $.767[del]1[/del][ins]7[/ins]22$ | $.801335$ |
+| Consequent $\frac{1}{8}(kx_N/Q)$ should be $ky'_0/Q$ | | $.09165[del]8[/del]$ | $.09589$ | $.10017$ |
+| Excess over $ky'_0/Q$ | | $+529$ | $+125$ | $-321$ |
+| $\Delta$ | | | $-404$ | $-446$ |
+| $\Delta^2$ | | | | $-42$ |
+
+Concluded $\tau_0$ [ins]$\underline{\text{1st Approximation}}$[/ins] [del]$0.18989156$[/del] $24^\circ.290 = 24^\circ 17' 24''$
+
+Briggian log $\tan 57^\circ 8' 42''$ (Schrön) $0.18989156$
+
+Conversion to Nat logs
+$41.4465317$
+$225.65334$
+$209.535$
+$\underline{\ \ \ \ \ \ \ \ \ \ 1289}$
+$437241475$
+[del]$339753521$[/del]
+
+$41.4465317$
+$221.04817$
+$32.236$
+$\underline{\ \ \ \ \ \ \ \ \ \ \ \ 24.0}$
+$.43660[del]2[/del][ins]7[/ins]6$
+
+$-kx'_0/Q$ [del]$437241475$[/del]
+
+Briggian log $\tan 54^\circ 33' 4''.3$ [del]$1475531$[/del]
+
+$32.2361913$
+$17269388$
+$122037$
+$\underline{\ \ \ \ \ \ \ \ \ 184}$
+$33975352$
+
+$32.2361913$
+$172.69388$
+$122.037$
+$\underline{\ \ \ \ \ \ \ \ \ \ \ 18.4}$
+$.33975352$
+
+$kx'_N/Q$ [del]$7769950$[/del] $77[del]4[/del][ins]5[/ins]9[del]5[/del][ins]1[/ins]5[del]0[/del]
+$kx_N/Q$ [del]$90122$[/del] [del]$7755216$[/del]
+$\frac{1}{8}(kx_N/Q)$ [del]$971226$[/del] [del]$0970402$[/del]
+Excess of $1^{\text{st}}$ Approx [del]$kx'_0/Q + kx'_N/Q + \dots$[/del] [del]$-633$[/del]
+
+Second Approx $\tau_0 = $ [del]$24^\circ 17' 25''.5$[/del]
+
+[marginalia]
+$102$
+$73$
+$27$
+[/marginalia]
+
+[marginalia]
+$78.2$
+$13.5$
+$191.6$
+$319.2$
+[/marginalia]
+
+[marginalia]
+$147$
+$337$
+$135$
+$24$
+$49.6$
+$735.8$
+$736$
+$.9597456$
+$4482$
+[/marginalia]
+
+[marginalia]
+$\text{Br log sec } 24^\circ 17' 24''$ $.0402552$
+$kx'_0/Q$ [del]$+122658$[/del] [del]$962$[/del]
+$ky'_0/Q$ [del]$24532$[/del] [del]$895$[/del] [del]$291$[/del] [del]$104$[/del] [del]$29$[/del] [del]$20$[/del]
+$kx_N/Q$ [del]$73595$[/del]
+$ky'_N/Q$ [del]$0971226$[/del]
+$ky'_N/Q$ [del]$0582736$[/del]
+$\text{Sec } \tau_0$
+$\text{Nat sec } 1.0971226$
+$\frac{8}{9}(\text{Nat sec}-1) .0582736$
+$.02459448$
+$123$
+$25$
+[del]$.02459796$[/del]
+$1650$ [del]$.0240201$[/del]
+[/marginalia]

@@ -1,0 +1,26 @@
+[del]$\sin \tau_{n+1} = \text{Y} - \sin \tau_n - \tau_{n+1}$[/del]
+
+$\sin^2 \tau_{n-1} = \text{Y}^2 + \sin^2 \tau_n + \sin^2 \tau_{n+1} + 2 \sin \tau_n \sin \tau_{n+1} - 2 \text{Y} \sin \tau_n - 2 \text{Y} \sin \tau_{n+1}$
+$\cos^2 \tau_{n-1} = \text{X}^2 + \cos^2 \tau_n + \cos^2 \tau_{n+1} + 2 \cos \tau_n \cos \tau_{n+1} - 2 \text{X} \cos \tau_n - 2 \text{X} \cos \tau_{n+1}$
+
+$1 = \text{X}^2 + \text{Y}^2 + 2 + 2 \cos(\tau_{n+1} - \tau_n) - 2 \text{R} \frac{\text{R}}{\text{S}} \cos(\text{T} - \tau_n) - 2 \frac{\text{R}_1}{\text{S}} \cos(\text{T} - \tau_{n+1})$
+
+$\begin{aligned} \text{X} &= \text{R} \cos \text{T} \\ \text{Y} &= \text{R} \sin \text{T} \end{aligned}$
+
+[del]$(a+b)(A+B) = $[/del]
+$a\text{A} + b\text{B} = \frac{1}{2}(a+b)(\text{A}+\text{B}) + \frac{1}{2}(a-b)(\text{A}-\text{B})$
+
+$(\sin \tau_n + \cos \tau_n) \sqrt{2} \sin(45^\circ + \tau_{n+1})$
+$+ (\sin \tau_n - \cos \tau_n) \sqrt{2} \sin(45^\circ - \tau_{n+1})$
+
+$2(\text{X} - \cos \tau_n) [ins]\cos \tau_{n+1}[/ins] = 1 + \text{X}^2 + \text{Y}^2 - 2\text{X} \cos \tau_n - 2\text{Y} \sin \tau_n - 2(\text{Y} - \sin \tau_n) \sin \tau_{n+1}$
+
+$4(\text{X} - \cos \tau_n)^2 (1 - \sin^2 \tau_{n+1}) = (1 + \text{X}^2 + \text{Y}^2 - 2\text{X} \cos \tau_n - 2\text{Y} \sin \tau_n)^2$
+$- 4(\text{Y} - \sin \tau_n)(1 + \text{X}^2 + \text{Y}^2 - 2\text{X} \cos \tau_n - 2\text{Y} \sin \tau_n) \sin \tau_{n+1}$
+$+ 4(\text{Y} - \sin \tau_n)^2 \sin^2 \tau_{n+1}$
+
+$4(1 + \text{X}^2 + \text{Y}^2 - 2\text{X} \cos \tau_n - 2\text{Y} \sin \tau_n) \sin^2 \tau_{n+1}$
+
+$\frac{4(\text{X}^2 - 2\text{X} \cos \tau_n + \cos^2 \tau_n)}{1 + \text{X}^2 + \text{Y}^2 - 2\text{X} \cos \tau_n - 2\text{Y} \sin \tau_n} = 1 + \text{X}^2 + \text{Y}^2 - 2\text{X} \cos \tau_n - 2\text{Y} \sin \tau_n$
+$- 4(\text{Y} - \sin \tau_n) \sin \tau_{n+1}$
+$+ 4 \sin^2 \tau_{n+1}$

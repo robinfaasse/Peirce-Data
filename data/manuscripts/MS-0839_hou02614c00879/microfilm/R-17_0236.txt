@@ -1,0 +1,47 @@
+[pn]1[/pn] $i_j = a i + b i^2 + c i^3 + d i^4 + e i^5 + [del]f i^6[/del] [ins]$g i^6$[/ins] + [del]h[/del] [ins]$l$[/ins] j + m j^2 + n j^3$
+[marginalia]
+$+ l_i j + m_i j^2$
+$+ l_i^2 j + m_i^2 j^2$
+$+ l_i^3 j + m_i^3 j^2$
+$+ l_i^4 j + m_i^4 j^2$
+$+ l_i^5 j + m_i^5 j^2$
+[/marginalia]
+$i_{1j} = \text{——————} a i^2 + b i^3 + d i^4 + e i^5 + f i^6$
+$i_{2j} = \text{——————————} a i^3 + b i^4 + c i^5 + d i^6$
+$i_{3j} = \text{——————————————} a i^4 + b i^5 + c i^6$
+$i_{4j} = \text{——————————————————} a i^5 + b i^6$
+$i_{5j} = \text{——————————————————————} a i^6$
+$i_{6j} = \text{————————————————————————} a^2 b$ [u]$b$[/u] [u]$c$[/u]
+$i_{7j} = 0$ [u]$a$[/u] [u]$b$[/u]
+
+$i_{j^2} = a i j + b i^2 j + c i^3 j + d i^4 j + e i^5 j + f i^6 j + g i^7 j + h i^8 j + l j^2 + m j^3$
+[marginalia]
+$l_i j^3$
+$+ l_i^2 j^3$
+$+ l_i^3 j^3$
+$+ l_i^4 j^3$
+$+ l_i^5 j^3$
+[/marginalia]
+$i_{1j^2} = \text{——————} a i^2 j + b i^3 j + c i^4 j + d e$ [u]$f$[/u] [u]$g$[/u]
+$i_{2j^2} = \text{——————————} + a$ [u]$b$[/u] [u]$c$[/u] [u]$d$[/u] [u]$e$[/u] [u]$f$[/u]
+$i_{3j^2} = \text{——————————————} a$ [u]$b$[/u] [u]$c$[/u] [u]$d$[/u] [u]$e$[/u]
+$i_{4j^2} = \text{——————————————————} a$ [u]$b$[/u] [u]$c$[/u] [u]$d$[/u]
+$i_{5j^2} = \text{——————————————————————} a$ [u]$b$[/u] [u]$c$[/u]
+$i_{6j^2} = \text{————————————————————————} a$ [u]$b$[/u]
+$i_{7j^2} = 0$
+
+$i_{j^3} = a i j^2 + b i^2 j^2 + c i^3 j^2 + d i^4 j^2 + e i^5 j^2 + f i^6 j^2 + g i^7 j^2 + h i^{8.2} j^2$ —————— $l j^3$
+[marginalia]
+$l_i j^3$
+$l_i^2 j^3$
+$l_i^3 j^3$
+$l_i^4 j^3$
+$l_i^5 j^3$
+[/marginalia]
+$i_{1j^3} = \text{——————} a$ [u]$b$[/u] [u]$c$[/u] [u]$d$[/u] [u]$e$[/u] [u]$f$[/u] [u]$g$[/u]
+$i_{2j^3} = \text{——————————} a$ [u]$b$[/u] [u]$c$[/u] [u]$d$[/u] [u]$e$[/u] [u]$f$[/u]
+$i_{3j^3} = \text{——————————————} a$ [u]$b$[/u] [u]$c$[/u] [u]$d$[/u] [u]$e$[/u]
+$i_{4j^3} = \text{——————————————————} a$ [u]$b$[/u] [u]$c$[/u] [u]$d$[/u]
+$i_{5j^3} = \text{——————————————————————} a$ [u]$b$[/u] [u]$c$[/u]
+$i_{6j^3} = \text{————————————————————————} a$ [u]$b$[/u]
+$i_{7j^3} = 0$

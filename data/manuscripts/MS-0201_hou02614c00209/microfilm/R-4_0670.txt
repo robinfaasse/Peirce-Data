@@ -1,0 +1,30 @@
+[pn]144[/pn]
+
+[u]Example of long division[/u]: Divide [u]1 0 1 0 1 0 0 1 1 0 1 1 0 1 0 1 0 0 0 1 1 1 0 1 1 0 1[/u].
+
+[u]Quotient[/u] = [u]1 0 1 1 0 1 1 1 0 1 0 1[/u]
++ 0 + 0 + 0 0 + 0 + 1 0 1 0 1 0 0 0
++ 1 1 + 1
+Divisor: + + 0 + + 0 +
+Remainder: + + 0 0 + + 0, +
+[del]1 1[/del]
+Divisor: + + + 0 + + 0 +
+Remainder: + 0 + 0 + + 0 0, +
++ 1 1 1 1
+Divisor: + + + 0 + + 0 +
+Remainder: [del]+ + 0 + + 0 0, +[/del]
+[ins]Not cancelled[/ins] + 1
+Divisor: + + + 0 + + 0 +
+Remainder: + + 0 0 0 + 0 0 0
+1 + + 1 + 1 1
+Divisor: + + + 0 + + 0 +
+Remainder: + 0 0 + + 0 + [ins]Not cancelled[/ins]
++ 1
+Divisor: + + + 0 + + 0 +
+Remainder: + 0 0 + 0 + 0 0 0
++ + 1 1 + 1 1
+Divisor: + + + 0 + + 0 +
++ + + 0 + + 0 +
++ + + 0 + + 0 +
+
+N.B. The numbers brought down from the dividend are in each case written after the remainders but separated by commas

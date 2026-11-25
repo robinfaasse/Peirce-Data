@@ -1,0 +1,38 @@
+[marginalia]Minims Bridge [date]1894 Feb 24[/date][/marginalia]
+
+What is wrong on p. 6 of [date]Feb 23[/date] is that I have not allowed
+for X the horizontal lengthening of the span.
+
+Besides that in the New Arc I have not allowed
+for the angle in the cable made by the force at N
+
+Let F be that Force.
+
+[fig]Force diagram with arrows[/fig] -F +
+
+[pn]y = y_0 + e(x-N)[/pn]
+Equation of straight
+part
+
+[fig]Diagram of cable angle[/fig]
+y_0 = a" + b"N + c"N^2
+Equation of straight part
+y = a" + (b" - e)N + c"N^2 + e[del]x[/del] [ins][fig]Diagram of cable segment[/fig][/ins]
+
+[del]For[/del] Equation of old straight part y = [u]2RN - N^2[/u]
+2p
+
+We now have
+a" + (b" - e)N + c"N^2 + e(R + X) = [u]2RN - N^2[/u]
+2p
+[del]For[/del] = a - (c - c')I^2 - (c' - c")J^2 + [b" - e" + 2(c - c')I + 2(c' - c")J]N + c"N^2 + e(R + X)
+
+At the other end
+y_0 = a - bN + cN^2
+Equation of straight part a - bN + cN^2 - e(x + N)
+= a - (b + e)N + cN^2 - ex
+Equation of old straight part y = - [u]2RN + N^2[/u]
+2p
+
+[del]To[/del] - [u]2RN - N^2[/u] = a - (b + e)N + cN^2 + e(R + X)
+2p

@@ -1,0 +1,18 @@
+[u]Definition of Being.[/u]
+
+(V) $x \prec 1$
+
+To apply corollary I, corresponding to 1, we need another term to be interchanged with it, in such application. This is as follows.
+
+[u]Definition of Nothing[/u]
+
+(V') $0 \prec x$.
+
+[u]Corollary 4.[/u] From V, it follows that
+$x +_1 1 \prec 1$
+And by corollary I,
+$0 \prec x , 0$
+By II and III
+$1 \prec x +_1 1$
+and by corollary I,
+$x , 0 \prec 0$.

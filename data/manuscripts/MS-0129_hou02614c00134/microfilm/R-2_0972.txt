@@ -1,0 +1,17 @@
+[pn]20[/pn]
+
+angles at $\{d\}$ are equal. Hence $\angle d = \frac{1}{2} \bar{d}$. Q.E.D.
+
+[u]Corollary 9[/u]. [del]By[/del] [ins]By[/ins] the same reasoning, [del]mutatis mutandis[/del] [ins]mutatis mutandis[/ins], a point distant a quadrant from two points is distant a quadrant from every point of the ray through those two points.
+
+[u]Theorem 6[/u]. If [u]three non-coradial planes[/u] [del]are distant[/del] [ins]are [u]perpendi-[/u][/ins] [del]cular[/del] [ins][u]cular[/u][/ins] [u]to a fourth plane[/u], [u]then every plane through their[/u] [u]common point is perpendicular to that fourth plane[/u].
+
+[u]Demonstration[/u]. Let $(ABC)$, $(ACD)$, $(ABD)$ be three planes all perpendicular to the plane $(BCD)$, and [ins]all containing the point $[A]$.[/ins]
+
+[fig]Tetrahedron with vertices A, B, C, D and lines extending to E, F[/fig] Let $(AEF)$ be any other plane through $[A]$. Then I say that $(AEF)$ is perpendicular to $(BCD)$.
+
+For let [del]$[EF]$ and[/del] $\{EF\}$ be the intersection of $(AEF)$ and $(BCD)$; and let $[E]$ be any point of $\{EF\}$.
+
+Then, since the planes $(ABC)$ and $(ABD)$ intersecting in $\{AB\}$ are perpendicular to $(BCD)$, so likewise, by Theorem , is $(ABE)$ through $\{AB\}$ and $[E]$. And for a similar reason $(ADE)$ through $\{AD\}$ and $[E]$ is perpendicular to $(BCD)$. But the planes $(ABE)$ and $(ADE)$ intersect in $\{AE\}$. Hence, by the same theorem, $(AEF)$ which passes through $\{AE\}$, is perpendicular to $(BCD)$. Q.E.D.
+
+[u]Corollary 10[/u]. By the same reasoning, mutatis mutandis, if three non-coradial points are distant a quadrant from a fourth point, then every point in their plane is distant a quadrant from that fourth point.

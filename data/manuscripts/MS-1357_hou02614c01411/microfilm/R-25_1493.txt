@@ -1,0 +1,26 @@
+[pn]2[/pn]
+
+[del]$-$[/del] $\frac{1}{4K}(z+z^{-1}) - \frac{1}{2K^2}(1+\frac{1}{K^2}) + (\frac{1}{2K} + \frac{1}{K^3})\frac{1}{2} = \frac{\frac{1}{K^4}}{z^2+\frac{2}{K}z+1}$
+
+$\int \frac{\frac{1}{K}(1+\xi^2)d\xi}{1+K\sqrt{1+\xi^2}} = \frac{1}{8K}(z^2-z^{-2}) + \frac{1}{2K^2}(\frac{1}{z}-z) + (\frac{1}{2K}+\frac{1}{K^3})\log z$
+[del]$-\frac{2}{K^4\sqrt{1-\frac{1}{K^2}}}$[/del] $+ \frac{2}{K^4\sqrt{1-\frac{1}{K^2}}} \arctan \frac{\sqrt{1-\frac{1}{K^2}}}{z+\frac{1}{K}}$
+
+$\begin{aligned}
+d \frac{1}{\sqrt{1-\frac{1}{K^2}}} \arctan \frac{\sqrt{1-\frac{1}{K^2}}}{z+\frac{1}{K}} \\
+= \frac{1}{\sqrt{1-\frac{1}{K^2}}} \frac{-(z+\frac{1}{K})^{-2}}{1 + \frac{1-\frac{1}{K^2}}{(z+\frac{1}{K})^2}} \\
+= - \frac{1}{z^2+\frac{2}{K}z+1}
+\end{aligned}$
+
+$= - \frac{1}{2K} \xi\sqrt{1+\xi^2} + \frac{1}{K^2}\xi + (\frac{1}{2K}+\frac{1}{K^3})\log[\sqrt{1+\xi^2}-\xi]$
+$+ \frac{2}{K^3\sqrt{K^2-1}} \arctan \frac{\sqrt{K^2-1}}{K\sqrt{1+\xi^2}-K\xi+1}$
+
+[del]$\frac{(1+\xi^2)d\xi}{1+K\sqrt{1+\xi^2}} = + \frac{\frac{(z+\frac{1}{z})^3}{8z^4}}{1+K\frac{z^2+1}{2z}} dz$[/del] [del]$\frac{(z^2+1)^3 dz}{4z^3(2z+K(z^2+1))}$[/del] [del]$\frac{\frac{1}{4}(z+\frac{1}{z})^3 dz}{\dots}$[/del]
+
+Then
+$\int \frac{\frac{1}{K}\sqrt{1+\xi^2}d\xi}{1+K\sqrt{1+\xi^2}} = \frac{1}{K^2}\xi + \frac{1}{K^3}\log[\sqrt{1+\xi^2}-\xi] + \frac{2}{K^3\sqrt{K^2-1}} \arctan \frac{\sqrt{K^2-1}}{K\sqrt{1+\xi^2}-K\xi+1}$
+
+$\frac{\frac{1}{K}\sqrt{1+\xi^2}}{1+K\sqrt{1+\xi^2}} = \frac{1}{K} + \frac{1}{K^2} \frac{\frac{\xi}{\sqrt{1+\xi^2}}-1}{\sqrt{1+\xi^2}-\xi} + \frac{2}{K^2\sqrt{K^2-1}} \frac{\frac{\sqrt{K^2-1}}{1 + \frac{K^2-1}{(K\sqrt{1+\xi^2}-K\xi+1)^2}} (K\frac{\xi}{\sqrt{1+\xi^2}}-1)}{K(\frac{\xi}{\sqrt{1+\xi^2}}-1)}$
+
+$= \frac{1}{K} - \frac{1}{K^2}\frac{1}{\sqrt{1+\xi^2}} + \frac{1}{K^2} \frac{\frac{\sqrt{1+\xi^2}-\xi}{\sqrt{1+\xi^2}}}{(\sqrt{1+\xi^2}-\xi)(K\sqrt{1+\xi^2}+1)}$
+
+$= \frac{1}{(K\sqrt{1+\xi^2}+1)\sqrt{1+\xi^2}} \left\{ \begin{aligned} 1+\xi^2 + \frac{1}{K}\sqrt{1+\xi^2} \\ -\frac{1}{K}\sqrt{1+\xi^2} - \frac{1}{K^2} \\ + \frac{1}{K^2} \end{aligned} \right\} = \frac{\sqrt{1+\xi^2}}{K\sqrt{1+\xi^2}+1}$

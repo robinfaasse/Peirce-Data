@@ -1,0 +1,39 @@
+[marginalia]
+Morrison's Bridge [date]1898 Feb 4[/date]
+Best method
+[/marginalia]
+
+[marginalia]
+[fig]Pascal's triangle-like number grid[/fig]
+[/marginalia]
+
+$b_n = B_0 + B_1 n + B_2 n^2 + B_3 n^3 + \text{etc}$
+
+$b_{n+1} - b_n = (B_1 + B_2 + B_3 + \text{etc})$
+$\quad + (2 B_2 + 3 B_3 + 4 B_4 + \text{etc}) n$
+$\quad + (\quad 3 B_3 + 6 B_4 + 10 B_5 + 15 B_6 + 21 B_7 + 28 B_8 + \text{etc} [ins]\begin{array}{l} + 36 B_9 + 45 B_{10} + \text{etc} \\ \end{array}[/ins]) n^2$
+$\quad + (\quad\quad\quad 4 B_4 + 10 B_5 + 20 B_6 + 35 B_7 + 56 B_8 + \text{etc} [ins]\begin{array}{l} + 84 B_9 + 120 B_{10} \\ \end{array}[/ins]) n^3$
+$\quad + (\quad\quad\quad\quad\quad 5 B_5 + 15 B_6 + 35 B_7 + 70 B_8 + 126 B_9 + 210 B_{10}$
+$\quad + (\quad\quad\quad\quad\quad\quad\quad 6 B_6 + 21 B_7 + 56 B_8 + 126 B_9 + 252 B_{10}$
+$\quad +$
+$\quad + \text{etc}$
+
+[marginalia]
+[fig]Column of numbers[/fig]
+[/marginalia]
+
+$b_{n+2} - 2b_{n+1} + b_n = \quad \Delta^2_n n^p = [del]\text{etc}[/del] X_{p-4} n^{p-4} + X_{p-5} n^{p-5} + \text{etc}$
+
+$b_{n+4} - 4b_{n+3} + 6b_{n+2} - 4b_{n+1} + b_n$
+
+$\quad (n+4)^p = n^p + p \cdot 4 \cdot n^{p-1} + \frac{p(p-1)}{2} 4^2 n^{p-2} + \frac{p(p-1)(p-2)}{6} 4^3 n^{p-3} + \text{etc}$
+$+ 6(n+2)^p = +6n^p + 12 p \cdot n^{p-1} + 6 \cdot 2^2 \frac{p(p-1)}{2} + 6 \frac{2^3 p(p-1)(p-2)}{6} n^{p-3} + \text{etc}$
+$+ n^p \quad = n^p$
+$- 4(n+3)^p = -4n^p - 4 \cdot 3 p n - 4 \cdot 3^2$
+$- 4(n+1)^p = -4 \quad - 4 \quad - 4$
+
+$\quad \rightarrow 4 \cdot 3^3$
+$\quad - \quad 4$
+$\quad = 24 \frac{p(p-1)(p-2)(p-3)}{24} n^{p-4}$
+
+[fig]Calculations and scratch work[/fig]

@@ -1,0 +1,35 @@
+[pn]341r[/pn]
+
+[date]1909 Feb 16[/date]
+<u>Studies of Modal, Temporal, and Other Logical Forms</u>
+which relate to Special Universes.
+
+The basis of logic must [del]be[/del] regard the Universe of Discourse
+as [del]an[/del] [ins]Individual[/ins]. The Boolean algebra of Logic [del]so[/del] regards it.
+Hence Boole thought it sufficient to adopt the fundamental quadratic
+$x(x-1)=0$ which is a special form of $(x-V)(x-F)=0$ where $V$ is [del]that[/del]
+[del]for[/del] the value of any true proposition, and $F$ that of any false propo-
+sition, and this again is $x^2 - [del]VF[/del] [ins]$(V+F)$[/ins]x + VF = 0 [del]which is a speciali-[/del]
+[del]zation of[/del] or $\frac{x}{V} + \frac{x}{F} = 1$.
+For $(x-V)(x-F)=0$ divided by $FV$ gives $(\frac{x}{V}-1)(\frac{x}{F}-1) = \frac{0}{VF}$ or
+$\frac{x}{V}\cdot\frac{x}{F} - \frac{x}{V} - \frac{x}{F} + 1 = 0$ Now $\frac{x}{V}\cdot\frac{x}{F} = 0$
+
+Now if we put $\bar{x}$ for the negation of $x$ and let $\phi(x,y)$ be such a
+function of $x$ and $y$ that $\phi(V,V)=V$ $\phi(V,F) = \phi(F,V) = F$ $\phi(F,F) = F$
+[del]so that $\phi(V,x) = (xV)$[/del] $\phi(V,x) = x$ and $\phi(x,F) = F$
+Then the system of values being $V$ and $F$ only and [del]$\psi$[/del] $\psi$ being such a
+function that [del]$\psi$[/del] $\psi(V,V)=V$ $\psi(V,F) = \psi(F,V) = V$ $\psi(F,F) = F$
+so that [del]$\psi(V,x) = V$ and $\psi(x,F) = x$[/del]
+Then any [del]other[/del] function [del]as[/del] $X_x = \psi\{ \phi[(XV),x], \phi[(XF),\bar{x}] \}$
+[del]$X_x = \psi\{ \phi[(XV),x], \phi[(XF),\bar{x}] \}$[/del]
+
+For either $X_V = V$ or $X_V = F$
+and either $x=V$ or $x=F$
+
+[del]$X_x = V$[/del] [del]$\psi\{ \phi[(XF),F] = F$[/del]
+[del]and $\psi\{ \phi[(XV),x], \phi$[/del]
+If $x=V$ $\phi[(XV),x] = (XV)$ and $\phi[(XF),\bar{x}] = F$
+and $\psi\{ \phi[(XV),x], \phi[(XF),\bar{x}] \} = \psi[(XV),F] = [del]\psi[/del](XV) = X_V$
+while if $x=F$ $\phi[(XV)x] = F$ and $\phi[(XF),\bar{x}] = (XF)$
+and $\psi\{ \phi[(XV),x], \phi[(XF),\bar{x}] \} = \psi\{F,(XF)\} = (XF) = X_F$
+Thus the development holds in any case.

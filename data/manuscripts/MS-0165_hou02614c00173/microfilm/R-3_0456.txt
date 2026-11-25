@@ -1,0 +1,27 @@
+[pn]209[/pn]
+
+[fig]Polynomial long division of x^5+4x^4-3x^3+3x^2-4x-1 by x-1[/fig]
+
+We, thus, have [del]1 =[/del] [ins]0 =[/ins] [del]-[/del] [ins]+[/ins] x⁴ [del]-[/del] [ins]+[/ins] 5x³ [del]-[/del] [ins]+[/ins] 2x² [del]-[/del] [ins]+[/ins] 5x [del]+ 1[/del]
+
+Assume u₁ = [del]1000[/del] 1
+u₂ = [del]100[/del] -5
+u₃ = [del]10[/del] +25
+u₄ = [del]1[/del] -125
+
+Then, u₅ = -u₁ - 5u₂ - 2u₃ - 5u₄ = +599,
+u₆ = -u₂ - 5u₃ - 2u₄ - 5u₅ = -2865,
+u₇ = -u₃ - 5u₄ - 2u₅ - 5u₆ = +13727,
+u₈ = -u₄ - 5u₅ - 2u₆ - 5u₇ = -65775.
+[del]u₉ = -u₅ - 5u₆ - 2u₇ - 5u₈ =[/del]
+
+Now, to avoid high numbers, let us strike off the last two figures, which
+are probably useless, and assume u₅ = +6, u₆ = -29, u₇ = +137, u₈ = -658
+
+u₉ = -u₅ - 5u₆ - 2u₇ - 5u₈ = +3155
+u₁₀ = -15115
+u₁₁ = +72418,
+u₁₂ = -346977,
+u₁₃ = +1662469,
+u₁₄ = -7965366,
+[del]u₁₅ =[/del] +38164359.

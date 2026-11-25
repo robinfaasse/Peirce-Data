@@ -1,0 +1,9 @@
+[u]Caution[/u]. It is not obvious at first glance how multiplication can [del]do[/del] [ins]undo[/ins] the work of addition & vice versa. An example, however, will make this plain.
+
+Let [u]a[/u] & [u]b[/u] be two distinct classes and to represent the fact that they are distinct we may write them a(1-b) b(1-a) Now let us add them a(1-b) + b(1-a). Next let us multiply by [u]a[/u]. a x a(1-b) is a(1-b) for a²=a & x b(1-a) = 0 for a(1-a)=0 The multiplication therefore separates this term a(1-b) which the addition combined with another. We might have begun with the multiplication. Let x & y be two terms. Multiply them we have xy. Add x xy + x. This x = [del]xy + x(1-y)[/del] [ins]xy + x(1-y)[/ins] We have then 2xy + x(1-y) but the coefficient means nothing. [del]for to take a to[/del] It may be struck off. We have then xy + [del]x(1-y)[/del] or [u]x[/u]
+
+The application of Boole's [del]system[/del] [ins]calculus[/ins] to ordinary reasoning [del]consists[/del] depends upon two very simple theorems which I proceed to give.
+
+The use of the first is to enable us to interpret complex expressions. For example [del]1-[/del] [ins]$\frac{(a-b)^2}{1-(a-b)^2}$[/ins] could hardly be interpreted as it stands. In general, it is required then to simplify fx. Now [del]for[/del] x has one of two values. Calling these x₀ & x₁ [del], we[/del] have the algebraical law
+(x₁ - x₀) fx = (x - x₀) fx₁ + (x₁ - x) fx₀
+This equation is always true for x = either x₁ or x₀

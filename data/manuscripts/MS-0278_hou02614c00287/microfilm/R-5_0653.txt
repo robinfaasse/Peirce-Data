@@ -1,0 +1,26 @@
+cal values of the coefficients in the nine parts of the energy. You leave
+the [del]unknowns[/del] [ins]$\xi_R, a', b', c', c'', c'''$[/ins], just as they are. You do not substitute
+the values of $\xi_R, a', b'$ in terms of $c', c'', c'''$. [Not that that would lead
+you wrong, if you proceeded right.] The nine parts of the energy alluded to
+are as follows:
+
+$1^{\text{st}}$, the part involving $2$, the third expression on p. 49.
+$2^{\text{nd}}$, the part involving $\omega_2$, the second expression on p. 49.
+$3^{\text{rd}}$, the part involving $K$, the first expression on p. 49.
+$4^{\text{th}}$, the part involving $W$, the last expression on p. 48.
+$5^{\text{th}}$, the part involving $B$, the last expression but one on p. 48
+$6^{\text{th}}$, the part involving $E$ and relating to the [del]trusses[/del] [ins]bridge[/ins] between [del]$I$ and $J$[/del] [ins]$n=I$ and $n=J$[/ins], the $3^{\text{rd}}$ expression
+from the bottom of p. 48
+$7^{\text{th}}$, the part involving $E$ and relating to the [del]trusses[/del] [ins]bridge[/ins] between $n=J$ and $n=N$, the $4^{\text{th}}$ ex-
+pression from the bottom of p. 48
+$8^{\text{th}}$, the part involving $E$ and relating to the [del]trusses[/del] [ins]bridge[/ins] between $n=-N$ and $n=I$,
+the $5^{\text{th}}$ expression from the bottom [del]between[/del] of p. 48
+$9^{\text{th}}$, the part involving $E$ and relating to the [del]bridge[/del] straight (really, catenary)
+parts of the cables from $-R$ to $-N$ and from $N$ to $R$, on the middle of p. 47.
+
+All these energies are to be added together. You will thus get an
+expression in 22 terms. Namely, writing the unknown part surrounded by
+a circle to denote the numerical coefficient, your energy will be
+$\left(\xi_R^2\right) \xi_R^2 + \left(a'^2\right) a'^2 + \left(c'^2\right) c'^2 + \left(c''^2\right) c''^2 + \left(c'''^2\right) c'''^2 + \left(\xi_R a'\right) \xi_R a' + \left(\xi_R c'\right) \xi_R c' + \left(\xi_R c''\right) \xi_R c'' + \left(\xi_R c'''\right) \xi_R c'''$
+$+ \left(a' c'\right) a' c' + \left(a' c''\right) a' c'' + \left(a' c'''\right) a' c''' + \left(c' c''\right) c' c'' + \left(c' c'''\right) c' c''' + \left(c'' c'''\right) c'' c''' + \left(b'^2\right) b'^2 + \left(b' c'\right) b' c' + \left(b' c''\right) b' c'' + \left(b' c'''\right) b' c'''$
+$+ \left(a'\right) a' + \left(b'\right) b' + \left(c'\right) c'$.

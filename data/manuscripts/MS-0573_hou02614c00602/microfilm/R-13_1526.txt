@@ -1,0 +1,22 @@
+$$(5-A)(5-B) = 0;$$
+for this equation is true if either of
+the factors of the first member vanishes,
+that is, if either $A = 5$ or $B = 5$, that is,
+if either $x \prec y$ is true or $y \prec z$ is true;
+but this is required by Rule 2. In like
+manner, Rule 2 [del]get[/del] yields us the following
+equations:
+$$(5-B)(5-C) = 0$$
+$$(5-C)(5-A) = 0$$
+$$(5-[del]D[/del][ins]b[/ins])(5-b) = 0$$
+$$(5-b)(5-a) = 0$$
+$$(5-a)(5-c) = 0.$$
+
+The first three equations evidently give us
+$$0 = (5-A)^2(5-B)^2(5-C)^2$$
+[marginalia]3[/marginalia] [del]- 2[/del][ins]- 3[/ins]$$[(5-A)^2(5-B)(5-C) + (5-A)(5-B)^2(5-C) + (5-A)(5-B)(5-C)^2]$$
+[marginalia]9[/marginalia] [del]+ 4[/del][ins]+ 9[/ins]$$[(5-A)(5-B) + (5-B)(5-C) + ([del]5-D[/del][ins]5-C[/ins])(5-A)]$$
+
+On expanding this it will be found to be
+the same as
+$$0 = [del]8[/del][ins]27[/ins] - [3-(5-A)(5-B)][3-(5-B)(5-C)][3-[del]\frac{(5-C)(5-A)}{5-C}[/del][ins](5-C)(5-A)[/ins]]$$

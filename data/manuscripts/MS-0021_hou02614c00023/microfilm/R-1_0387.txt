@@ -1,0 +1,29 @@
+[marginalia][u]La logique de la quantité[/u][/marginalia]
+
+un sujet pour chaque sujet de [u]v[/u], alors [u]l[/u] a un sujet pour chaque
+sujet de [u]v[/u]. Car des propositions analogues sont vraies de p et de t.
+
+Demandons s'il est possible que de deux collections aucune n'a
+un sujet pour chaque sujet de l'autre. L'expérience nous ferait
+croire que non; mais au logicien la difficulté de trouver une base
+pour une telle opinion pousse [del]à[/del] presque à nier cette impossibilité.
+Le doute est très réel. L'hypothèse s'exprime par
+[math]\Sigma_m \Sigma_n \Pi_i \bar{p}_i + \bar{t}_{imn} \cdot \bar{t}_{inm}[/math]
+On pourrait espérer à prouver quelquechose par le théorème
+[math]\bar{t}_{imn} \cdot \bar{t}_{inm} = 0[/math].
+Mais l'autre théorème
+[math]p_i \cdot p_\eta = 0[/math]
+en ôte toute applicabilité. En effet l'hypothèse ne contient pas
+de contradiction en elle-même, et si c'est impossible ce n'est
+qu'à cause d'une répugnance avec le postulatum de la logique.
+Poursuivons cette route.
+
+Nous savons que
+[math]\Sigma_i p_i p_\eta[/math]
+est possible. Si nous supposons que [math]q_{mu} \cdot q_{nv}[/math] est possible, il s'ensuit que
+[math]\Sigma_i \Sigma_u \Sigma_v q_{mu} \cdot q_{mv} \cdot p_i \cdot p_\eta \cdot r_{iuv}[/math],
+ou, autrement écrit que
+[math]\Pi_m \Pi_n \Pi_\alpha \Pi_\beta \Sigma_i \Sigma_u \Sigma_v \bar{q}_{m\alpha} + \bar{q}_{n\beta} + q_{mu} \cdot q_{nv} \cdot p_i \cdot p_\eta \cdot r_{iuv}[/math]
+est possible. Car toute combin[ins]aison[/ins][del]ation[/del] (ou produit non-relatif) de possi-
+bilités est possible s'il n'y a pas de contradiction entre les deux.
+Maintenant, si nous [del]écrivons[/del] [ins]substituons[/ins] [del]p_i pour p_i p_\eta[/del] sa définition, la derni

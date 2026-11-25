@@ -1,0 +1,78 @@
+[del]a b c d e[/del]
+[del]e d[/del]
+[del]c b[/del]
+[del]d[/del]
+[del]b[/del]   [del]a[/del]
+[del]a b c d e[/del]
+[del]d e[/del]
+[del]b c e b d[/del]
+[del]e a c[/del]
+
+[del]a b c d e[/del]
+[del]c b e d[/del]
+[del]d[/del]   [del]c[/del]
+[del]c[/del]   [del]b[/del]   [del]a[/del]
+
+(123)(4567)
+35   72
+(135)(4762)
+
+1 2 3 4 5 6 7
+3 4 5 7 1 2 6
+7 2   3   5
+2 4 3 5 1 7 6
+3 4 5 7 1 2 6
+
+(123)(4567)
+(147)(3562)
+(ab)(cd)
+(bc)(ad)
+
+[del]a b c d[/del]
+[del]d c b a[/del]
+
+[del]a b c d[/del]
+[del]c a b d[/del]
+[del]d b a c[/del]
+[del]a c b d[/del]
+
+(ab)(ac)(ad)(ae)
+a b c d e
+e a b c d
+ab, ac, ad, ad
+d b c d e
+d a a a a
+b e c
+
+ab, ad, ac, ae
+a b c d e
+e a d b c
+
+ab, ad, ae, ac
+a b c d e
+c a e b d
+
+ab, ae, ac, ad
+a b c d e
+d a e c b
+
+ab, ae, ad, ac
+a b c d e
+c a d e b
+
+ac, ab, ad, ae
+a b c d e
+e c a b d
+
+a b c d
+c a b d
+d b a c
+d c b a
+
+e d b c d
+d a b e c
+e a d b c
+c a e b d
+d a e c b
+c a d e b
+e c a b d

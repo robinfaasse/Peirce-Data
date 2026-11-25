@@ -1,0 +1,30 @@
+[u]Theorem[/u] . [u]If two triangles have a side and adjacent angle[/u]
+[u]equal to corresponding parts of the other, that one which has[/u]
+[u]the other[/u] [del]side[/del] [ins]bounding[/ins] [u]side adjacent to that angle the greater has the other[/u] [del]angle[/del] [ins]internal[/ins] [u]angle[/u]
+[u]adjacent to the first side the greater.[/u]
+
+[u]Demonstration[/u]. This [del]is equal[/del] [ins]being proved[/ins] in the same way for plane and
+spherical triangles except that one additional consideration enters into
+the proof for spherical triangles, it will be sufficient to consider these.
+
+[fig]A spherical triangle with vertices labeled and internal angles indicated.[/fig] [del]For[/del] Let $\alpha\beta\gamma$ and $\alpha'\beta'\gamma'$ have $) \alpha' ( = ) \alpha ($ and
+$\angle \alpha'\beta' = \angle \alpha\beta$. Then, I say that if $\angle \alpha'\delta' > \angle \alpha\gamma$ then
+$) \beta' ( > ) \beta ($.
+
+For bring the particle from $[\alpha'\beta'\gamma']$ into $[\alpha\beta\gamma]$, the straight filament
+from $\{\alpha'\beta'\}$ into $\{\alpha\beta\}$, and the flat film from $(\alpha')$ into $(\alpha)$, and so
+that the [del]straight[/del] [ins]spherical[/ins] stretch $) \alpha' ($ comes upon $) \alpha ($. Then, since $) \alpha' ( = ) \alpha ($, the
+straight filament from $\{\alpha'\delta'\}$ will be in $\{\alpha\gamma\}$. And since $\angle \alpha'\beta' = \angle \alpha\beta$,
+the flat film from $(\beta')$ will lie in $(\beta)$, unless it is turned to the left in-
+stead of to the right, or vice versa. But, by Definition , if equality can
+be proved when [ins]the film from[/ins] $(\beta')$ does lie in $(\beta)$, it will likewise exist in the other
+case. We will therefore [del]suppose[/del] [ins]assume[/ins] that the film from $(\beta')$ lies in $(\beta)$.
+
+Now [del]if[/del] [ins]since the bounding side[/ins] $) \beta' ( > ) \beta ($, the enclosure of the triangle now occupied by
+the part of the motion which initially filled $\angle \alpha'\beta'\delta'$ [ins]and now fills $\angle \alpha\beta\delta$[/ins] will [del]more than[/del]
+cover the enclosure of $\alpha\beta\gamma$. Consequently, [ins]bounding[/ins] $) \gamma ($ will lie within
+that enclosure, and $\angle \alpha\gamma < \angle \alpha\delta$, which last equals $\angle \alpha'\delta'$. Q.E.D.
+
+[u]Corollary[/u] . Comparing a triangle with itself, in every case
+the greatest bounding side is opposite the greatest internal angle and the
+least bounding side opposite the least [del]bound[/del] internal angle.

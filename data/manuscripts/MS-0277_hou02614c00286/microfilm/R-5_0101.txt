@@ -1,0 +1,97 @@
+[del]New Statement[/del] [ins]$\text{I}_n$ means Listing Number of grade $n$[/ins]
+
+$\S 1$. Every place of dimensionality D and total singularity 0 has $\text{I}_n = \text{I}_{\text{D}-n}$ and, [del]I think[/del], whatever [del]a[/del] [ins]$\Sigma$[/ins] [del]may be[/del] number from 0 to D inclusive [del]$\text{N}$[/del] [ins]$\Sigma$[/ins] may [del]be[/del] [ins]exist[/ins],
+$\text{I}_n = \text{I}_{\text{D}-n}$
+See Investigation, below.
+
+$\S 2$. Suppose singularity not zero.
+A line cannot have [del]only[/del] odd total singularity.
+[fig]Line singularity diagrams with values -2, -2, 0, +4, +2, +6[/fig]
+$\Sigma = \text{total}$
+$\text{singularity}$
+
+Its $\text{I}_{\text{D}} = \text{I}_0 + \frac{1}{2} \Sigma$
+
+Surface, first number $\text{I}_0$, second $\text{I}_1$, third $\text{I}_2$
+"A single tack equal to unit of $\text{I}_0$ equal to 2 [del]statements of lines on surface[/del]"
+
+[del]Projective Plane[/del]
+[del]1, 1, 1[/del]
+$\Sigma = 0$
+
+[del]Globular Surface[/del]
+1, 0, 1
+$\Sigma = 0$
+
+[del]Double Plane with bridge[/del]
+1, 3, 1
+$\Sigma = 0$
+
+[del]Anchor ring[/del]
+1, 2, 1
+$\Sigma = 0$
+
+Disk
+1, 0, 0
+
+[del]Double Disk[/del]
+
+Anchor ring with hole
+1, 2, 0
+
+[u]List of Singularities[/u]
+
+[u]Of lines[/u]
+[del][Outlying point, acnode?][/del]
+End- [del]Interrupting point[/del], 0
+Trinode, +1
+[del]Quatri[/del]
+Quaternode, +2
+etc
+
+[u]Of Surfaces[/u]
+[del]Point Singularities[/del]
+Prick
+Two-tack
+Three-tack
+etc
+
+[u]Line Singularities[/u]
+Edge [ins](must have even number of trinodal points)[/ins]
+[del]Complex[/del] [ins]isolated[/ins] Trinodal line [del]etc[/del]
+Quaternodal line
+etc
+
+[del]The Total Number of Sheets [unclear]meeting[/unclear] in every[/del]
+[del]Point Singularity of a Surface is even.[/del]
+
+[u]Mixed Second[/u]
+[u]singularities[/u]
+[del]Two Way[/del] [ins]Trinode of Edge[/ins]
+Edge & Trinode
+Edge & Quinquenode
+Trinode & Quinquenode
+[del]Quater node & Edge etc[/del]
+Threeway
+Two edges & Quaternode
+[del]Edge Trinode & Quaternode[/del]
+[del]Two trinodes & Quaternode[/del]
+etc
+Four ways
+[del]3 edges & Trinode[/del]
+4 Trinodes etc
+
+[del]Point Singularities[/del]
+[del]i.e. Singularities[/del]
+[del]of singularities[/del]
+An Edge can have [del]no trinodal[/del] [ins]even number of[/ins] [del]points[/del] [ins]trinodes[/ins]
+[del]End of a Trinodal edge[/del]
+[del]Quaternode of edge[/del]
+etc
+No odd nodal line can [del]have an end[/del] [ins]end except at a point of higher node[/ins]
+End of even nodal line
+Trinode of Quaternodal line
+Quater node of Quaternodal line
+
+[u]Mixed Singularities[/u]
+Any number of lines meeting [ins]at[/ins] any kind of point of surface

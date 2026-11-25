@@ -1,0 +1,38 @@
+XXV. A heavy line of connection is equivalent to connections of
+all its extremities to mutually transformable but otherwise unknown
+individual indices. 120r
+
+Proof. [fig]figure[/fig] ~ [fig]figure[/fig] by VIII
+
+[fig]figure[/fig] ~ [fig]figure[/fig] by XXII
+
+[fig]figure[/fig] ~ [fig]figure[/fig] by XVII
+
+And conversely [fig]figure[/fig] ~ [fig]figure[/fig] by IX
+[fig]figure[/fig] ~ [fig]figure[/fig] by XVII.
+
+[u]XXVI[/u]. The innermost efficient bond between two graphs is inside
+their innermost common enclosure.
+
+Proof. Let two graphs [fig]figure[/fig] and [fig]figure[/fig] be enclosed in one oval
+and connected by a heavy line extending beyond that oval.
+[fig]figure[/fig] Then I say that the whole is mutually transformable with [fig]figure[/fig]
+For on the one hand by [ins]XXII[/ins] [del]VII[/del] [fig]figure[/fig] ~ [fig]figure[/fig]
+$\therefore$ by XVII [fig]figure[/fig] ~ [fig]figure[/fig]
+$\therefore$ by XXIII [fig]figure[/fig] ~ [fig]figure[/fig]
+
+And on the other hand
+[ins]XXII[/ins] [del]by VIII[/del] and XVII [fig]figure[/fig] ~ [fig]figure[/fig] $\therefore$ by XVII [fig]figure[/fig] $\therefore$ by XIII [fig]figure[/fig] ~ [fig]figure[/fig]
+
+1903 June 9. Theorem [u]XXVI[/u] may be [del]generalized[/del] [ins]extended[/ins] as follows:
+Two graphs not connected in their innermost common
+enclosure [del] (whether through another graph or not) [/del] and
+not so connected without entering any other enclosure
+are not connected (even through another graph at all)
+Thus [fig]figure[/fig] = $\sum_i \sum_j a_i \cdot b_{ij} \cdot c_j$ But [fig]figure[/fig] $\sum_i \sum_j a_i c_j \overline{\left( \text{light line } b_j \right)}$
+$= \sum_i \sum_j a_i c_j b_i + \sum_i \overline{a_i} c_i \overline{b}_j$
+[fig]figure[/fig] $= \sum_{ij} b_{ij} (\overline{a}_i + \overline{c}_j)$ [fig]figure[/fig] $\sum \sum a_i c_j b_i + \sum \sum a_u \overline{c}_v \overline{b}_w$
+$= \sum \sum b_{ij} \overline{a}_i + \sum \sum b_{uv} \overline{c}_v$ [fig]figure[/fig] [fig]figure[/fig]
+[fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig]
+$\sum_i \sum_j \pi_k \pi_e d_{ij} (\overline{a}_{rk} + \overline{c}_{pj} + b_{ibe})$
+$\sum_i \sum_j \pi_k \pi_e d_{ij} (\overline{a}_{sk} + \overline{c}_{qj} + b_{rn}) \cdot (\overline{a}_{tu} + \overline{c}_{er} + b_e)$

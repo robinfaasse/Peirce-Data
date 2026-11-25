@@ -1,0 +1,7 @@
+To transform an integer from decimal [ins]or sextal[/ins] to secundal expression.
+
+[del]To[/del] Establish a column for decimal expressions and a parallel column for secundal expressions. Let $\alpha$ be, [del]at any stage,[/del] the last [ins]any chance[/ins] expression in the [del]former[/del] [ins]decimal[/ins] column and $\beta$ [del]that in[/del] the secundal column. Write the expression to be transformed at the head of the decimal column, as the first $\alpha$, and perform the operation $\Phi$.
+
+The operation $\Phi$ consists of the following [del]steps[/del]. Remove the last figure of $\alpha$ and put the equivalent secundal expression [del]in[/del] column B [ins]with its last figure [del]as far to the left of the fractional point as[/del] [ins]as a $\beta$[/ins][/ins]. In place of the removed figure of $\alpha$ put $0$ and divide the resulting $\alpha$ by two to make a new $\alpha$ upon which to perform the operation $\Phi$
+
+Repeat the operation $\Phi$ until [del]the[/del] [ins]$\alpha$ becomes $0$.[/ins] Then the sum of the $\beta$s is the expression desired.

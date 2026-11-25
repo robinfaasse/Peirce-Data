@@ -1,0 +1,96 @@
+[pn]11[/pn]
+
+[date]Mission Bridge 1893 March 1[/date]
+
+$A_6 = 0 \qquad A_5 = \frac{1}{a} \qquad A_4 = -\frac{1}{b}$
+
+[del]$A_3 = -\frac{1}{3 \cdot 4}$[/del]
+
+$-\frac{9 \cdot 10}{b} A_5 - \frac{a}{b} A_4 = A_3$
+
+$-\frac{90}{ab} + \frac{a}{b^2} = A_3$
+
+$-\frac{56}{b} A_4 - \frac{a}{b} A_3 = A_2$
+
+$\frac{56}{b^2} + \frac{90}{b^2} - \frac{a^2}{b^3} = A_2$
+
+$\frac{146}{b^2} - \frac{a^2}{b^3} = A_2$
+
+$-\frac{30 A_3}{b} - \frac{a A_2}{b} = A_1$
+
+$\frac{2700}{ab^2} - \frac{30a}{b^3} - \frac{146a}{b^3} + \frac{a^3}{b^4} = A_1$
+
+$= \frac{2700}{ab^2} - \frac{176a}{b^3} + \frac{a^3}{b^4} = A_1$
+
+$-\frac{12 A_2}{b} - \frac{a A_1}{b} = A_0$
+
+$-\frac{1752}{b^3} + \frac{12a^2}{b^4}$
+
+$-\frac{2700}{b^3} + \frac{176a^2}{b^4} - \frac{a^4}{b^5}$
+
+$= -\frac{4452}{b^3} + \frac{188a^2}{b^4} - \frac{a^4}{b^5} = A_0$
+
+[marginalia]
+146
+292
+1752
+
+40320
+10080
+
+32
+160
+
+$\frac{56}{720}$
+$\frac{14}{40320}$
+$1344 / 40320 / 30$
+$032$
+
+$3) \frac{4032}{1344}$
+
+$\frac{14}{3}$
+
+$7) \frac{672}{96}$
+$336$
+$112$
+$56$
+$28$
+$7 \cdot 3 \cdot 2^5$
+
+$17) \frac{672}{612}$
+$102$
+
+$40320 ($
+$5760$
+$1920 (60$
+$192$
+[/marginalia]
+
+$\begin{aligned}
+ax &= aA_0 + aA_1 x^2 + aA_2 x^4 + \text{etc} \\
+bx^2 z &= \phantom{aA_0 +} bA_0 x^2 + bA_1 x^4 + \text{etc} \\
+D_x^2 z &= 2A_1 + 4 \cdot 3 A_2 x^2 + 6 \cdot 5 A_3 x^4 + \text{etc}
+\end{aligned}$
+
+$A_1 = \frac{aA_0}{2} = \frac{1}{2} aA_0$
+
+$A_2 = \frac{a}{4 \cdot 3} A_1 - \frac{1}{4 \cdot 3} bA_0$
+$= \frac{1}{4!} (a^2 - 2! b) A_0$
+
+$A_3 = -\frac{4!}{6!} aA_2 - \frac{4!}{6!} bA_1$
+$= -\frac{1}{6!} (a^3 + 2! ab + \frac{4!}{2!} ab$
+
+$A_1 = -\frac{1}{2} a$
+
+$A_2 = \frac{1}{12} aA_1 - \frac{1}{12} b$
+$= \frac{1}{24} a^2 - \frac{1}{12} b$
+
+$A_3 = -\frac{1}{30} aA_2 - \frac{1}{30} bA_1$
+$= -\frac{1}{720} a^3 + \frac{1}{360} ab + \frac{1}{60} ab$
+$= -\frac{1}{720} a^3 + \frac{7}{360} ab$
+
+$A_4 = -\frac{1}{56} aA_3 - \frac{1}{56} bA_2$
+$= \frac{1}{40320} a^4 - \frac{7}{20160} a^2b - \frac{1}{1344} a^2b + \frac{1}{672} b^2$
+$= \frac{1}{40320} a^4 - \frac{44}{40320} a^2b + \frac{1}{672} b^2$
+
+$A_5 = -\frac{1}{90} aA_4 - \frac{1}{90} bA_3$

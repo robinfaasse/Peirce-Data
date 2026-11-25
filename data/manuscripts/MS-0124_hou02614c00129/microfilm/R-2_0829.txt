@@ -1,0 +1,41 @@
+We now change the variable by putting
+$$\sin \frac{t}{2} = \theta \qquad \cos t = 1 - 2\theta^2 \qquad \sin t = 2\theta \sqrt{1-\theta^2}$$
+$$\frac{1}{2} \cos \frac{t}{2} \cdot dt = d\theta \qquad \cos \frac{t}{2} = \sqrt{1-\theta^2}$$
+
+Thus,
+$$\frac{\partial^n}{\partial n!} = \int_0^\partial e^{n \cos t} \cos [n(\sin t - t)] \cdot dt$$
+
+becomes
+$$\frac{\partial^n}{\partial n!} = \int_0^1 e^{n} e^{-2n\theta^2} \cos [n(2\theta \sqrt{1-\theta^2} - 2\arcsin \theta)] \cdot \frac{2d\theta}{\sqrt{1-\theta^2}}$$
+
+Now
+$$\arcsin \theta = \theta + \frac{1}{2} \cdot \frac{1}{3} \theta^3 + \frac{1 \cdot 3}{2 \cdot 4} \cdot \frac{1}{5} \theta^5 + \frac{1 \cdot 3 \cdot 5}{2 \cdot 4 \cdot 6} \cdot \frac{1}{7} \theta^7 + \text{etc.}$$
+$$\theta \sqrt{1-\theta^2} = \theta - \frac{1}{2} \theta^3 - \frac{1}{8} \theta^5 - \frac{1}{16} \theta^7 + \text{etc.}$$
+$$\theta \sqrt{1-\theta^2} - \arcsin \theta = - \frac{2}{3} \theta^3 - \frac{2}{5} \theta^5 - \frac{3}{28} \theta^7 + \text{etc.}$$
+
+$$\frac{\partial^n e^{-n}}{2 \cdot n!} = \int_0^1 e^{-2n\theta^2} \cos [2n(\frac{2}{3}\theta^3 + \frac{2}{5}\theta^5 + \frac{3}{28}\theta^7 + \text{etc.})] \frac{d\theta}{\sqrt{1-\theta^2}}$$
+
+We now put $\theta = \frac{x}{\sqrt{2n}} \qquad d\theta = \frac{dx}{\sqrt{2n}}$
+[marginalia]
+$$\theta^3 = \frac{x^3}{2n\sqrt{2n}}$$
+$$\theta^5 = \frac{x^5}{4n^2\sqrt{2n}}$$
+$$\theta^7 = \frac{x^7}{8n^3\sqrt{2n}}$$
+[/marginalia]
+
+$$\frac{\partial^n e^{-n}}{2n!} = \int_0^{\sqrt{2n}} e^{-x^2} \cos [\frac{2}{3\sqrt{2n}} x^3 + \frac{1}{10n\sqrt{2n}} x^5 + \frac{3}{112n^2\sqrt{2n}} x^7] \frac{dx}{\sqrt{2n - x^2}}$$
+
+***
+
+$$\cos [n(2\theta\sqrt{1-\theta^2} - 2\arcsin \theta)] = 1 - n^2 (\frac{4}{9}\theta^6 + \frac{8}{15}\theta^8 + \frac{16}{175}\theta^{10} + \text{etc.})$$
+$$+ n^4 (\frac{2}{243}\theta^{12} + \frac{4}{405}\theta^{14} + \frac{16}{4725}\theta^{16} + \text{etc.})$$
+$$- \text{etc.}$$
+
+$$e^{-2n\theta^2} = 1 - 2n\theta^2 + 2n^2\theta^4 - \frac{4}{3}n^3\theta^6 + \frac{2}{3}n^4\theta^8 - \text{etc.}$$
+
+$$e^{-2n\theta^2} \cos [n(2\theta\sqrt{1-\theta^2} - 2\arcsin \theta)] = [del]1 - 2n\theta^2 + 2n^2\theta^4 - \frac{4}{3}n^3\theta^6 + \frac{2}{3}n^4\theta^8 + \text{etc.}[/del]$$
+$$= 1 - 2n\theta^2 + n^2 (2\theta^4 - \frac{4}{9}\theta^6 - \frac{8}{15}\theta^8 - \frac{16}{175}\theta^{10} - \text{etc.}) + n^3 (\frac{4}{3}\theta^6 + \frac{8}{15}\theta^8 + \frac{16}{175}\theta^{10} + \text{etc.})$$
+$$+ n^4 \{\frac{2}{3}\theta^8 - \frac{4}{9}\theta^{10} - \frac{22}{1215}\theta^{12} - \frac{24452}{14175}\theta^{14} - \text{etc.}\}$$
+
+$$\frac{1}{\sqrt{1-\theta^2}} = 1 + \frac{1}{2}\theta^2 + \frac{3}{8}\theta^4 + \frac{5}{16}\theta^6 + \frac{35}{128}\theta^8 + \text{etc.}$$
+
+$$e^{-2n\theta^2} \cos [n(2\theta\sqrt{1-\theta^2} - 2\arcsin \theta)]$$

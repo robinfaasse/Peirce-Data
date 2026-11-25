@@ -1,0 +1,84 @@
+[marginalia]
+Marion's Bridge [date]1890 Sep. 13[/date]
+[/marginalia]
+
+Assume
+$$\begin{array}{ccc}
+x_0 = 0.6 & x_1 = 12.5 & x_2 = 14.1 \\
+y_0 = 0.1 & y_1 = 7.0 & y_2 = 1.0
+\end{array}$$
+
+$$\begin{array}{rccr}
+x_1 - x_0 = 11.9 & 141.61 & x_2 - x_1 = 1.6 & 2.56 \\
+y_1 - y_0 = 6.9 & \underline{47.61} & y_1 - y_2 = 6.0 & \underline{36\phantom{.00}} \\
+\underline{13.76} & 189.22 & \underline{6.20967} & 38.56 \\
+& & \phantom{6.20967}\underline{+12} &
+\end{array}$$
+
+$$\begin{array}{c}
+\frac{r_1}{r_2} \\
+1.0585 \\
+\underline{.9147} \\
+1 - \frac{R_0}{R_i} \quad .0553
+\end{array}$$
+
+$$\begin{array}{c}
+1.341934 \\
+\underline{.7452} \\
+1 - \frac{R_i}{R_i} = .2548 \\
+\frac{1}{r_i} (1 - \frac{R_i}{R_i}) = .5096
+\end{array}$$
+
+$$\begin{array}{r}
+5096 \\
+\underline{30576} \\
+5096 \\
+\underline{20384} \\
+81536
+\end{array}$$
+
+$$\frac{x_0}{\Lambda_0} = 0.18$$
+
+$$\frac{1}{r_0} (1 - \frac{R_0}{R_0}) (x_1 - x_0) = 0.658$$
+
+$$\frac{x_2 - x_2}{\Lambda_2} = 0.18$$
+
+$$\frac{1}{r_i} (1 - \frac{R_i}{R_i}) (x_2 - x_1) = 0.815$$
+
+$$\frac{y_0}{r_0} = .1$$
+
+$$\frac{1}{r_0} (1 - \frac{R_0}{R_0}) (y_1 - y_0) = 0.381$$
+
+$$\frac{x_2 - y_2}{\Lambda_2} = 0$$
+
+$$\frac{1}{r_i} (1 - \frac{R_i}{R_i}) (y_2 - y_0) = 3.058$$
+
+Assume
+$$\begin{array}{ccc}
+x_0 = 0.6 & x_1 = 12.5 & x_2 = 14.1 \\
+y_0 = 0.1 & y_1 = 6.5 & y_2 = 1.0
+\end{array}$$
+
+$$\begin{array}{rccr}
+x_1 - x_0 = 11.9 & 141.61 & x_2 - x_1 = 1.6 & 2.56 \\
+y_1 - y_0 = 6.4 & \underline{40.96} & y_1 - y_2 = 5.5 & \underline{30.25} \\
+\underline{13.51} & 182.57 & \underline{5.728} & 32.81 \\
+1.0392 & & 1.1456 & \\
+\underline{.9863} & & \underline{.8729} & \\
+1 - \frac{R_0}{R_i} \quad .0137 & & .1274 &
+\end{array}$$
+
+$$1 - \frac{R_i}{R_i}$$
+
+$$\frac{1.1456}{1.4025}$$
+
+$$\frac{1}{r_i} (1 - \frac{R_i}{R_i}) = .2548$$
+
+$$\frac{1}{r_0} (1 - \frac{R_0}{R_0}) (x_1 - x_0) = 0.163$$
+
+$$\frac{1}{r_0} (1 - \frac{R_0}{R_0}) (y_1 - y_0) \quad .0877$$
+
+$$\frac{1}{r_i} (1 - \frac{R_i}{R_i}) (x_2 - x_1) = 0.409$$
+
+$$\frac{1}{r_i} (1 - \frac{R_i}{R_i}) (y_1 - y_2) \quad \underline{1.4069}$$
+$$1.4946$$

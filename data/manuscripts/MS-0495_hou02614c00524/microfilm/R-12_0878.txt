@@ -1,0 +1,11 @@
+The graph
+[fig]Two horizontal lines, the top labeled "loves", the bottom labeled "hates"[/fig]
+asserts [u]something loves something and something hates something[/u].
+
+The graph
+[fig]An oval containing two horizontal lines, the top labeled "loves", the bottom labeled "hates"[/fig]
+asserts that the previous graph is false, that is, it asserts that [u]either nothing loves anything or nothing hates anything[/u].
+
+The graph
+[fig]An oval containing the letter C and two horizontal lines, the top labeled "loves", the bottom labeled "hates"[/fig]
+asserts that taking any [del]three[/del] [ins]individuals[/ins] [del]A, B, C,[/del] [ins]A, B, C,[/ins] (different or identical) either A does not love B or does not hate C.

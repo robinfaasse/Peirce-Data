@@ -1,0 +1,33 @@
+The above calculations show that
+$$H_{g} = \frac{l^{2}}{8f} \left( [0.05964] \text{ Truss load} + [9.96791] \text{ Cable load} \right)$$
+
+$$\begin{array}{rccr}
+0.05964 & & & 9.96791 \\
+\frac{3}{4}\ \ 9.87506 & & & \frac{1}{4}\ \ 9.39794 \\
+\hline 9.93470 & & & 9.36585 \\
+& & & \underline{0.05031} \\
+& & & 9.41616 \\
+& 0.8604 & & \\
+& \underline{0.2607} & & \\
+& [del]\log 926[/del] & & \\
+& 1.1211 & &
+\end{array}$$
+
+$$\begin{array}{rr}
+3200 & 3.50515 \\
+2850 & \underline{3.45484} \\
+& 0.05031
+\end{array}$$
+
+That is the $H_{g}$ is [del]1.0926[/del] [ins]1.1211[/ins] times what it would be if produced by a uniform loading per horizontal foot equal to the actual loading but only extending [del]to[/del] over the [del]middle[/del] 2850 feet
+
+That is $H_{g}$ [del]1.0211[/del] [ins]$1.1211 \times \frac{2850}{3200}$[/ins] times as great as if the load extended over the 3200 feet with the value of $\frac{l^{2}}{8f}$ calculated from the middle part.
+
+$$\begin{array}{rr}
+\log 1.1211 & 0.04964 \\
+\frac{2850}{3200} & \underline{9.94969} \\
+0.99846 & 9.99933
+\end{array}$$
+
+Then $H_{g}$, which has the dimensions of a force, that is of a weight,
+is $20000 \frac{\text{lb}}{\text{ft}} \cdot \frac{l^{2}}{8f} \frac{3200}{2850} = 20000 \frac{\text{lb}}{\text{ft}} \frac{2850\text{ ft}}{8 \cdot 311.06\text{ ft}} \cdot 3200\text{ ft}$

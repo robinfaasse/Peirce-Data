@@ -1,0 +1,38 @@
+[pn]25[/pn]
+
+[u]duality[/u] |
+[u]$(A \prec B) \prec (C)$[/u]
+we may infer by omission either
+
+$B \prec C$
+
+or
+
+$(A \prec 0) \prec C$
+
+The second mode of necessary deduction is [u]inference by insertion[/u].
+The rule is that in any consequence [u]de inesse[/u], in place of any anteceden-
+tal of [del]even[/del] order may illatively be substituted any consequence [u]de inesse[/u]
+that has that antecedental for its consequent. For example, from $A \prec B$,
+we may [del]either[/del] infer either $(C) \prec (A \prec B)$ or $(A) \prec (C \prec B)$.
+
+The third mode of necessary deduction is [u]inference by iteration[/u].
+The rule is that in any odd constituent, $x$, of any consequence [u]de inesse[/u],
+substitution may be illatively be made, the place of any even constituent,
+$y$, of $x$ being taken by a consequence [u]de inesse[/u] composed of $y$ and of any
+first constituent [ins]$z$[/ins] of $x$ in such a manner that the antecedentalities of $x$ and
+of $y$ in the conclusion shall agree in being odd or even with their ante-
+cedentalities in the premise [del], or[/del] [ins]so[/ins] that their combination shall be an odd
+constituent of the whole proposition. Namely, [del]if the accidentality[/del] [ins]the forms of combination are[/ins]
+as follows
+
+[del]Accidentality[/del] [ins]Antecedentality[/ins]
+of $x$ | of $y$ | Combination
+Even | Odd | [del]$x \prec y$[/del]
+Odd | Odd | $(x \prec 0) \prec (y)$
+Odd | Even | $(y \prec z) \prec (0)$
+Even | Even | $[(y) \prec (x \prec 0)] \prec [0]$
+
+For example, suppose the following consequence [u]de inesse[/u] to have been accepted:
+$(\{ [ (A \prec B) \prec (C) ] \prec [D] \} \prec \{ [E] \prec [F] \}) \prec (G)$. The antecedent of this is a
+constituent of odd order. Call it $x$. The antecedent of the antecedent of the antecedent of

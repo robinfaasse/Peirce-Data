@@ -1,0 +1,56 @@
+839
+
+$a \prec a$
+
+$(a \prec b) \prec [(b \prec c) \prec (a \prec c)]$
+
+$a \prec [(a \prec b) \prec b]$
+
+$[a \prec (b \prec c)] \prec [b \prec (a \prec c)]$
+
+$[(a \prec b) \prec b] \prec [(b \prec a) \prec a]$
+
+[del]$(a \prec c) \prec [(b \prec c) \prec c]$[/del]
+
+[del]$(a \prec b) \prec [(b \prec c) \prec c]$[/del]
+
+$(a \prec b) \prec \{ (b \prec c) \prec [(c \prec d) \prec d] \}$
+
+$= \{ \{ \{ [ (a \prec b) \prec b ] \prec c \} \prec c \} \prec d \} \prec d$
+
+$(a \prec b) \prec [(b \prec c) \prec [del]c[/del] [ins]c[/ins]]$
+$= \{ [ (a \prec b) \prec b ] \prec c \} \prec c$
+
+$a \prec [b \prec (c \prec d)]$
+$\bar{a} + \bar{b} + \bar{c} + d$
+
+$(a \prec b) \prec (c \prec d)$
+$\bar{\bar{a} + b} + \bar{c} + d$
+$a\bar{b} + \bar{c} + d$
+
+[del]$(a \prec b) \prec c$[/del]
+[del]$\bar{\bar{a} + b} + c$[/del]
+
+$(a \prec b) \prec c$
+$a\bar{b} + c$
+
+$[a \prec (b \prec c)] \prec d$
+$ab\bar{c} + d$
+
+[del]$a \prec (b \prec c)$[/del]
+[del]$a \prec (\bar{a} + b)$[/del]
+[del]$a \prec (\bar{b} + c)$[/del]
+
+[del]$a \prec \{ b \prec [b \prec (c \prec c)] \}$[/del]
+[del]$\bar{a} + \bar{b} + \dots$[/del]
+
+[del]$a \prec \{ a \prec [b \prec (b \prec c)] \}$[/del]
+
+$a \prec b \prec (c \prec d)$
+$a \prec [(b \prec c) \prec d]$
+$\bar{a} + b\bar{c} + d$
+
+$((a \prec b) \prec c) \prec d$
+$(a\bar{b} + c) \bar{} + d$
+$(a + \bar{b})\bar{c} + d$
+[del]$\bar{a} + \bar{c} + \dots$[/del]

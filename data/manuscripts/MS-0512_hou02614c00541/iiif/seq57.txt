@@ -1,0 +1,25 @@
+FL [pos 81]
+Reasoning, — that is to say, a process of [del]elimination[/del], — is performed
+in this general way. [del]S[/del] The premises are multiplied either
+relatively or non-relatively. Then, by means of association-formulae
+especially $(u\mathcal{J}v)w \mathcal{J} u \mathcal{J} vw$ a compound is obtained for which
+some logical term, $0, \overline{0}, 1, \top$ can be substituted. I maintain that this
+is the general process in all algebra. Inverse operations are mere special
+cases of it. Schröder thinks it very important to obtain “solutions”.
+I admit they are sometimes desirable, but I hold that that is not
+what is generally wanted. In ordinary algebra, it happens to be
+desirable when we have $ax=b$ to transform to $x=a^{-1}b$; but
+I think this a peculiarity of the special case. It is effected by
+multiplying by $a^{-1}$ when it happens that $a^{-1}a=1$. We thus
+proceed according to my description of the general method. We multiply
+the two premises $ax=b$ and $a^{-1}=a^{-1}$ getting $a^{-1}(ax)=a^{-1}b$. We
+apply the associative principle and get $(a^{-1}a)x=a^{-1}b$ we use the
+formula $a^{-1}a=1$ so that we have $1x=a^{-1}b$. Then because $1x=x$,
+$x=a^{-1}b$. So if we have given
+$$\begin{matrix}ax+by+m=0 \\ cx+dy+n=0\end{matrix}$$
+we add the premise $-Px-Qy+Px+Qy=0$, and by a sort
+of multiplication, we get
+$$\left| \begin{matrix}ax, by, m \\ cx, dy, n \\ -Px, -Qy, Px+Qy\end{matrix} \right| = 0$$
+This determinant developed gives
+[del]adPx+adQ[/del]$-Pbn-Qcm+Pdm+Qan = 0$
+$-bcPx-bcQ$

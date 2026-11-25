@@ -1,0 +1,39 @@
+[pn]2[/pn]
+Morison's Bridge [date]1899 Jan 27 Friday[/date]
+
+Now for the equations of condition, expressive of geometrical constraints
+
+[del]y₀ = 0[/del]
+[del]x₀ = 0[/del] y₀ = Const.
+[del]x_N+1 =[/del] y_N+1 = Const.
+
+For
+n = 1, 2,
+.... N-1
+{
+x_n+1 - x_n = l cos θ_n
+y_n+1 - y_n = h_n+1 + l sin θ_n
+
+[fig]Diagram of a bridge truss with nodes and angles[/fig]
+
+We may safely assume that the first and last suspender
+are vertical, the truss slipping so much as is necessary
+& there can be no harm in supposing them all vertical.
+
+The problem is the same as if the [ins]whole[/ins] [del]tie[/del] bar was hung
+to the suspenders and as if the cable possessed the
+stiffness of the truss, only the weight of the whole
+truss has to be considered.
+
+And that this is so has to be proved by the development
+of the complete equations.
+
+In considering the weight of the truss, it is to be remembered
+that if its weight were annulled and the support of the
+cable removed, it would not be straight. Its bending
+moments have no [del]connection with[/del] [ins]necessary relation to[/ins] the pulls on the sus-
+penders. All this depends upon how it is built.
+
+We may suppose that all out to the first suspender's load
+(that is, to one half section outside of the suspender) [del]is[/del] [ins]has[/ins] a pure
+cantilever support from the piers

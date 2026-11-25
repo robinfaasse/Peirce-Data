@@ -1,0 +1,15 @@
+"Report on Morrison's Bridge"
+
+Problem 3. A stiffened suspension bridge has its truss built in separate sections in position. It has, then, two cantilever portions supported on the piers of the truss, and all the rest is supported each by its suspender. After the parts of the truss are rivetted all additional load must produce as strain of the truss, unless the cable and suspenders are absolutely inextensible, when, in case the additional load is uniformly distributed, and the form of the cable was parabolic in the first place, this [del]new[/del] additional load is also borne, each part by its own suspender. So much is self-evident.
+
+Now, supposing the suspenders to extend the whole length of the bridge, and to be inextensible, [del]and[/del] [ins]supposing[/ins] cable and suspenders to be weightless, and [del]the[/del] [ins]supposing[/ins] pulleys of the cable to be vertically over the supports of the truss, what will be the effect of a moving load uniform between two points of the truss?
+
+In Problem 2 there were no back-stays. But these are now to be considered. On the other hand, we may regard the truss as incapable of longitudinal yielding. Then, the work will be
+
+$$\int \left\{ \frac{1}{2} \varepsilon \left( \frac{d^2 \eta}{dx^2} \right)^2 + \frac{1}{2} e \left( \sqrt{1 + \left( \frac{dy}{dx} + \frac{d\eta}{dx} \right)^2} \frac{dx}{d\ell} - 1 \right)^2 - q\eta - q'\eta \right\} dx$$
+
+The condition of equilibrium is that every possible variation of this shall be zero, or
+
+$$0 = \int \left\{ \varepsilon \delta \left( \frac{d^2 \eta}{dx^2} \right)^2 + \frac{1}{2} e \delta \left( \sqrt{1 + \left( \frac{dy}{dx} + \frac{d\eta}{dx} \right)^2} \frac{dx}{d\ell} - 1 \right)^2 - [del]\frac{d\eta}{dx} \frac{d\eta}{dx}[/del] - q'\delta\eta \right\} dx$$
+
+$$= \varepsilon \frac{d^4 \eta}{dx^4} - e \frac{\sqrt{1 + \left( \frac{dy}{dx} + \frac{d\eta}{dx} \right)^2} \frac{dx}{d\ell} - 1}{\sqrt{1 + \left( \frac{dy}{dx} + \frac{d\eta}{dx} \right)^2}} \left( \frac{d^2 y}{dx^2} + \frac{d^2 \eta}{dx^2} \right) [del]\frac{dx}{d\ell}[/del] - q'\delta\eta$$

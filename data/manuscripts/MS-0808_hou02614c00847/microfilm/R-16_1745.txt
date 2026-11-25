@@ -1,0 +1,59 @@
+[pn]1[/pn]
+$$\Sigma_u \beta$$
+
+If $i$ [del]has a[/del] [ins]is in[/ins] relation $r$ to $j$ then there is a relation
+$u$ in which $i$ stands to $j$
+and there is a relation $v$ in which
+$i$ stands to $j$
+
+[fig]Geometric diagram with lines and letters[/fig] [fig]Complex network diagram[/fig] [fig]Geometric diagram with lines[/fig]
+
+[del]$\Pi_r \Pi_i \Pi_j \Pi_\alpha \cdot \cdot \cdot \overline{r_{\alpha}} \Sigma_\beta \Sigma_\gamma$[/del]
+$$\overline{g_{\alpha}} + \overline{r_{\alpha ij}} + \overline{g_{\beta}} \cdot r_{\beta ij} \overline{g_{\gamma}} \cdot r_{\gamma ij}$$
+
+$$\Pi_\phi \Pi_\psi \Pi_i \Pi_j \Sigma_\chi$$
+$$\overline{g_\phi} + \overline{t_\psi} + \overline{r_{\phi ij}} + \overline{r_{\psi ij}} + g_\chi \cdot r_{\chi ij}$$
+
+[fig]Small geometric diagram[/fig]
+
+[del]To say that[/del] [ins]Any relation of class[/ins] relation $v$ is of form $(u \breve{s} u)$
+[del]is to say that[/del] That is [ins]of[/ins] means $\alpha$ has that form
+
+[fig]Square diagram[/fig]
+
+[del]$\Pi_\alpha \Sigma_\beta$[/del] $t_\alpha$ $\alpha$ is [del]her[/del] inclusive
+
+[fig]Octagonal diagram with letters[/fig]
+
+$$\Pi_\alpha \Sigma_\beta \Pi_i \Pi_j \Pi_k$$
+$$t_\alpha + \overline{t_\beta} \overline{r_{\alpha ij}} + \overline{r_{\beta ik}} + \overline{r_{\beta jk}}$$
+
+[fig]3D cube-like diagram with letters[/fig] [fig]3D cube diagram[/fig]
+
+$$\Pi_\delta \Pi_\rho \Pi_p \Pi_q \Sigma_r \Sigma_y$$
+$$\overline{r_{\delta pr}} \cdot \overline{r_{\delta qr}} + t_y \cdot r_{ypq}$$
+
+$$\Pi_\xi \Sigma_y \Pi_a \Pi_b \Pi_c$$
+$$\overline{d_\xi} + \overline{r_{\xi ab}} + \overline{r_{\xi ab}} \cdot (\overline{r_{\xi ac}} + \overline{r_{\xi bc}})$$
+
+$$\Pi_\xi \Pi_d \Pi_e \Sigma_r$$
+$$\overline{r_{\xi de}} + \overline{r_{\xi df}} \cdot \overline{r_{\xi ef}} + d_r \cdot r_{rde}$$
+
+[marginalia]
+$x \circ y$
+$s \circ s \circ y$
+$u \xi s \gamma$
+$u \xi s \sigma$
+$A I \circ L L$
+$O \times L$
+$G \circ s u$
+$L \xi s \xi$
+$u \xi s \sigma$
+$B \circ s \gamma$
+$D \xi s \gamma$
+$A \circ s \sigma$
+$B \circ s \gamma$
+$C \circ s \sigma$
+[/marginalia]
+
+$d$ $f$

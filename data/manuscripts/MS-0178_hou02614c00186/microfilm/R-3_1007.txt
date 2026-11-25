@@ -1,0 +1,68 @@
+counted number till we reach a break where
+we set down 1 less and proceed from that
+counting by twos as before; thus
+87183
+364
+549
+732
+915
+098
+281
+464
+647
+830
+
+The tenth figure should be the same as that at
+the head of the last column.
+
+Now the numbers written in the three
+columns mostly increase. Hence we insert
+descending breaks in the column next to the
+left; thus
+87183
+366
+549
+732
+915
+098
+281
+464
+647
+830
+
+The number of descending breaks equals the
+numeral at the head of the last column as it should.
+
+Because the breaks are descending and 7 is at
+the head of the next column, we count from
+it by sevens, setting down only the last figure
+until we reach a break, where we set down
+the next higher figure and go on from that,
+thus:
+87183
+4366
+1549
+8732
+5915
+3098
+0281
+7464
+4647
+1830
+
+The [del]last[/del] tenth figure is the same as that at the
+head of the column last formed, as it should be.
+
+The numbers now generally decrease and
+we therefore insert ascending breaks of which
+there should be 9 - 7 = 2
+87183
+4366
+1549
+8732
+5915
+3098
+0281
+7464
+4647
+1830

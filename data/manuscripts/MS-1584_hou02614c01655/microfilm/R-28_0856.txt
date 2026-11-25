@@ -1,0 +1,28 @@
+Dialectica est ars artium
+et scientia scientiarum,
+[del]qua aperta omnes aliae aperiuntur et[/del]
+qua clausa [del]omnes aliae[/del] [ins]omnia[/ins] clauduntur
+cum qua quaelibet et sine
+qua nulla.
+
+How near [ins]is[/ins] this to the
+passage in St. Augustine
+De Ordine ii cap 13
+
+***
+
+Geodetic Line
+$\omega$ Longitude
+$q$ shortest distance station to axis rev.
+$s$ arc of geodesic
+$\alpha$ azimuth
+$q^2 d\omega = C ds$
+$C = q \sin \alpha$
+
+$\phi$ Latitude
+$u$ Reduced latitude
+$a$ Semiaxis major
+$q = a \cos u$
+$\sin \phi = \frac{\sin u}{\sqrt{1 - e^2 \cos^2 u}}$
+
+$e$ is eccentricity of meridian .08227

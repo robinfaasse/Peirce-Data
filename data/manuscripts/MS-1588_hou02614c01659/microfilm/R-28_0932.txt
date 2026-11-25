@@ -1,0 +1,11 @@
+2 [del]D[/del] [ins]D[/ins] $\frac{x}{x+\sqrt{1+x^2}} = ?$ D $\frac{u}{v} = \frac{v\text{D}u - u\text{D}v}{v^2}$
+
+$u = x$, $v = x + \sqrt{1+x^2}$
+$\text{D}u = 1$, $v\text{D}u = x + \sqrt{1+x^2}$
+[del]to[/del] $\text{D}v = \text{D}(x + \sqrt{1+x^2}) = \text{D}x + \text{D}\sqrt{1+x^2}$
+$= 1 + \text{D}(1+x^2)^{\frac{1}{2}} = 1 + \frac{1}{2}(1+x^2)^{-\frac{1}{2}}\text{D}(1+x^2)$
+$\text{D}(1+x^2) = \text{D}1 + \text{D}x^2 = 0 + 2x = 2x$
+$\text{D}v = 1 + \frac{2x}{2\sqrt{1+x^2}}$, $u\text{D}v = x + \frac{[del]2[/del]x^2}{[del]2[/del]\sqrt{1+x^2}}$
+$\text{D}\frac{u}{v} = \frac{x + \sqrt{1+x^2} - x - \frac{x^2}{\sqrt{1+x^2}}}{(x+\sqrt{1+x^2})^2}$
+
+$\text{D}\frac{x}{x+\sqrt{1+x^2}} = \frac{1}{(x+\sqrt{1+x^2})^2\sqrt{1+x^2}}$

@@ -1,0 +1,22 @@
+[pn]53[/pn]
+[fig]Cross symbol[/fig]
+
+$x = \text{cs}\bar{\text{A}}\beta\Gamma\text{O}$
+
+Full cells
+Intersections full columns & full rows
+" " " rows full all but 1
+" " " partial rows
+" " " otherwise empty
+
+Columns full all but 1 [fig]four vertical lines[/fig]
+
+Partially full [fig]three vertical lines[/fig]
+
+Otherwise empty [fig]three vertical lines[/fig]
+
+Empty cells
+Columns full otherwise rows full otherwise
+" " " partial rows
+" " " having 1 full cell
+" " " empty

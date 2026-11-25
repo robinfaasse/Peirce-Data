@@ -1,0 +1,18 @@
+$$\tan(\alpha+\beta) = \frac{\tan\alpha + \tan\beta}{1 - \tan\alpha\tan\beta}$$
+
+[fig]Geometric diagram with triangles and angles labeled 2α and 2β[/fig] [fig]Geometric diagram showing angles 2α and 2β with tangent lines[/fig]
+
+$$\tan\alpha + \tan\beta$$
+
+$$(p - \tan\alpha)^2 + (q + \tan\alpha)^2 - 2(p - \tan\alpha)(q + \tan\alpha)\cos 2\alpha$$
+
+[fig]Simple triangle with angle α[/fig]
+
+$$\begin{aligned}
+& p^2 - 2p\tan\alpha + \tan^2\alpha \\
++ & q^2 + 2q\tan\alpha + \tan^2\alpha \\
+[del]+ 2pq[/del] & \\
+[del]- 2pq[/del] & \\
+- & (2pq + 2p\tan\alpha - 2q\tan\alpha - 2\tan^2\alpha)(\cos^2\alpha - \sin^2\alpha) \\
+- & 4pq\cos^2\alpha - 4p\sin\alpha\cos\alpha + 4q\sin\alpha\cos\alpha + 4\sin^2\alpha
+\end{aligned}$$

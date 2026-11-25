@@ -1,0 +1,30 @@
+[pn]3[/pn]
+[u]On Logical Graphs[/u]
+
+The difficulty of representing the logic of relatives graphically, lies entirely in the circumstance that it is necessary to distinguish between
+Some woman is adored by every catholic.
+and Every catholic adores some woman.
+
+1. Let us take a sheet of paper, or blackboard, and say that anything we write upon it, unless we cut it off from the rest of the sheet by drawing an oval lightly around it, shall be considered to be affirmed [del]by us, and therefore to be true.[/del] [ins]unenclosed[/ins]
+
+2. If two propositions are written on the sheet, both are affirmed.
+
+3. We connect by a heavy line individuals whose identity we assert. Thus, [del]in[/del] Fig. 22, says "John adores Susan"
+
+John [fig]line[/fig] adores [fig]line[/fig] Susan
+Fig. 22
+
+but Fig. 23 only says "John exists, and somebody adores Susan", for it differs from Fig 22 only in not asserting the identity of John and the adorer of Susan.
+
+John [fig]line[/fig] [fig]line[/fig] adores [fig]line[/fig] Susan
+Fig. 23.
+
+Hence, Fig 24, asserts "somebody adores somebody"
+
+[fig]line[/fig] adores [fig]line[/fig]
+Fig. 24
+
+and Fig. 25 "somebody adores himself"
+
+[fig]loop connecting both sides of adores[/fig] adores
+Fig. 25

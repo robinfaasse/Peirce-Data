@@ -1,0 +1,35 @@
+[pn]Page 1[/pn]
+
+[del]D[/del]
+[del]π[/del] [ins]π[/ins] = x(E-1)  [del]E[/del] [ins]ρ[/ins] = xE  Or we may equally well take
+[marginalia]Or [del]ρ = xE[/del] [ins]D = x[del](1-E⁻¹)[/del][/ins]
+x = δ + D[/marginalia]
+ρu_x = xEu_x = xu_{x+1}
+ρ²u_x = xE(xu_{x+1}) = x(x+1)u_{x+2}
+ρ^m u_x = x(x+1) ... (x+m-1)u_{x+m}
+= [x-1|0 m] u_{x+m}
+
+πρ^m u_{x+1} = x(E-1)[(x-1)|0 m] u_{x+m}
+= x[x|0 m] u_{x+m+1} - x[(x-1)|0 m] u_{x+m}
+= [x-1|0 m+1] u_{x+m+1} - x[(x-1)|0 m] u_{x+m}
+
+(π+m)u_x = {x(E-1)+m}u_x = xu_{x+1} - xu_x + mu_x
+ρ(π+m)u_x = x(x+1)u_{x+2} - x(x+1)u_{x+1} + mx u_{x+1}
+ρ²(π+m)u_x = x(x+1)(x+2)u_{x+3} - x(x+1)(x+2)u_{x+2} + mx(x+1) u_{x+2}
+[del]ρ^m(π+m)u_x[/del]
+ρ^m = x(x+1)...(x+m)u_{x+m+1} - x(x+1)...(x+m)u_{x+m} + mx(x+1)...(x+m-1)u_{x+m}
+[(x-1)|0 (x+m+1)] u_{x+m+1} - (x+m)[(x-1)|0 (x-m)] u_{x+m}
+
+πρ^m u_x = ρ^m(π+m)u_x
+π²ρ^m u_x = ρ^m(π+m)² u_x
+π^n ρ^m u_x = ρ^m(π+m)^n u_x
+
+[u]D[/u]E^m = E^m([u]D[/u]+m)^n
+[u]D[/u]E = E([u]D[/u]+1)
+
+[pn]Page 2[/pn]
+
+f[u]D[/u]E^m 1 = E^m f([u]D[/u]+m) 1
+= E^m (f_m + f'_m [u]D[/u] + [frac]f''_m[/frac]/2! [u]D[/u]² + etc) 1
+But [u]D[/u] 1 = 0
+[u]f[u]D[/u]E^m 1 = E^m f_m 1[/u]

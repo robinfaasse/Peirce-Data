@@ -1,0 +1,19 @@
+839
+This is the relation of being next greater than
+
+[fig]diagram showing hierarchical relationships using "is a relation of", "to", "is a number", and "is a quality of" with brackets and lines connecting phrases.[/fig]
+____ is a relation of ____ to ____
+                                                    } is a number
+____ is a relation of ____ to ____
+                                 } is a number
+
+____ is a relation of ____ to ____
+                                            } is a number
+                                            } is a number (This number is zero)
+____ is a relation of ____ to ____
+
+____ is a quality of ____
+____ is a quality of ____  is a number
+____ is a quality of ____
+____ is a quality of ____
+____ is a relation of ____ to ____

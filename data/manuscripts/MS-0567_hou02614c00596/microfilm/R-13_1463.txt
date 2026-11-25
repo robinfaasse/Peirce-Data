@@ -1,0 +1,19 @@
+In multiplying a proposition into
+itself we have the right to leave all the
+indices unchanged at the left of any point
+in the quantifier and to change all to
+the right of that point. To prove this,
+let $\Phi_i, \Psi_j$ represent each one of the
+quantifying letters $\Sigma, \Pi$; and let $*$, $\circ$
+stand [ins]each[/ins] for the operations [del]either[/del] of addition
+or multiplication. Suppose, then, [del]the[/del]
+proposition multiplied into itself is
+$$\Phi_i \Psi_j u_{ij}.$$
+This may be represented thus
+$$(u_{11} \circ u_{12} \circ u_{13} \circ \text{etc}) * (u_{21} \circ u_{22} \circ u_{23} \circ \text{etc}) * (u_{31} \circ u_{32} \circ u_{33} \circ \text{etc}) * \text{etc}$$
+Now let it be multiplied into itself, leaving
+[del]i unchanged[/del] with identification of $i$ and
+diversification of $j$, and we have
+$$\Phi_i \Psi_j \Psi_k u_{ij} u_{ik}$$
+$$(u_{11} u_{11} \circ u_{11} u_{12} \circ \text{etc}) \circ (u_{12} u_{11} \circ u_{12} u_{12} \circ \text{etc}) \circ \text{etc}$$
+$$* (u_{21} u_{21} \circ u_{21} u_{22} \circ \text{etc}) \circ (u_{22} u_{21} \circ u_{22} u_{22} \circ \text{etc}) \circ \text{etc} * \text{etc}$$

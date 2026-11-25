@@ -1,0 +1,21 @@
+circles have their centres at the distance
+$D$, their radii being $R_1$ and $R_2$. Let
+[del]a line be[/del] straight line be drawn between
+their two points of intersection, at what dis-
+tances will the two centres be from this
+line? Let these distances be $x_1$ and $x_2$, so
+that $x_1 + x_2 = D$. Then the [ins]square of the[/ins] distance from
+one of the intersections of the circle to the
+line through their centres will be, by the
+Pythagorean proposition
+$$R_1^2 - x_1^2 = R_2^2 - x_2^2$$
+These two equations give
+$$x_1 = \frac{1}{2} D + \frac{R_1^2 - R_2^2}{2D}$$
+$$x_2 = \frac{1}{2} D - \frac{R_1^2 - R_2^2}{2D},$$
+
+Now the two circles may not really intersect
+at all, and yet $x_1$ and $x_2$ continue to be
+real. In other words, there is a real line
+between two imaginary intersections whose
+distance from the line of centres is
+$\frac{1}{2D} \sqrt{4 R_1^2 R_2^2 - (D^2 - R_1^2 - R_2^2)^2}$.

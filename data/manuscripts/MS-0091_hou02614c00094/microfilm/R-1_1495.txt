@@ -1,0 +1,82 @@
+[marginalia]
+Calc. Diff.
+20
+[/marginalia]
+
+When the members are complex expressions it may
+be convenient to leave spaces between them and the
+cross; but it will be better to avoid parentheses, etc.
+For the convenience of the printer, the bar with
+
+[del]u + m u ([u]v[/u] + [del]m [u]w[/u][/del]) + [/del]
+[del]u . m . v . w . + u . m . v . [u]w[/u] + [del]u . [u]m[/u] .[/del][/del] [ins]13 u . [del]v[/del] [ins]w[/ins][/ins]
+u [del]m[/del] . [del]v[/del] . [del]w[/del] + [u]u[/u] . [del]m[/del] . v . [u]w[/u] + m [u]u[/u] . v . w
+[fig]Cross operator diagram[/fig] u [del]x[/del] [ins]o u[/ins] [del]x[/del] [ins]o[/ins] w
+u [fig]Cross operator[/fig] (u [fig]Cross operator[/fig] w)
+u [fig]Cross operator[/fig] [u]x[/u]
+
+u [fig]Cross operator with subscript m[/fig] [del]w[/del] [ins]v[/ins]
+v [fig]Cross operator with subscript m[/fig] w
+
+u [fig]Cross operator with subscript m-n[/fig] w
+
+[del]u[/del] [ins]v[/ins] [[u]u[/u]] [fig]Cross operator with subscript -m[/fig] w
+
+v [[u]u[/u]] [fig]Cross operator with subscript -m+n[/fig] w
+
+[del]u [fig]Cross operator[/fig] v [fig]Cross operator[/fig] w[/del]
+[fig]Cross operator diagram[/fig]
+
+([del]u [fig]Cross operator[/fig] v[/del]) [fig]Cross operator with subscript w[/fig] [del]x[/del] [ins]u[/ins] [fig]Cross operator with subscript m[/fig] w
+[del](u [fig]Cross operator with subscript m[/fig] v) [fig]Cross operator with subscript w[/fig] x[/del]
+
+[del]u[/del] [ins]v[/ins] [fig]Cross operator with subscript m[/fig] [del]x[/del] [ins]u[/ins] [fig]Cross operator with subscript m[/fig] [del]v[/del] [ins]w[/ins]
+
+u [fig]Cross operator with subscript n[/fig] [del]x[/del] [ins]u[/ins] [fig]Cross operator with subscript m[/fig] w
+
+[del]u . v + u . [u]v[/u] . w[/del]
+[del]u v + u [u]v[/u] w + [u]u[/u] v w[/del]
+[del]u [u]v[/u] w + [u]u[/u] v w[/del] [ins][u]u[/u] [u]v[/u] [u]w[/u] + u [u]v[/u] w[/ins] + [u]u[/u] v [u]w[/u] + [u]u[/u] [u]v[/u] w
+[del]u v w[/del] + [del]u v [u]w[/u][/del]
+u v w + u v [u]w[/u] + u [u]v[/u] w + [u]u[/u] v w + [u]u[/u] [u]v[/u] [u]w[/u]
+[del]u v [u]w[/u] + u [u]v[/u] w[/del]
+[del]u v w + u v [u]w[/u] + u [u]v[/u] w[/del]
+[del]+ [u]u[/u] v w[/del]
+[del]u [u]v[/u] [u]w[/u] + u v [u]w[/u][/del]
+[del]u [u]v[/u] [u]w[/u] + [u]u[/u] [u]v[/u] [u]w[/u][/del]
+
+[u]u[/u] [fig]Cross operator[/fig] ( [u]v[/u] [fig]Cross operator[/fig] [u]w[/u] )
+
+[del]at most m[/del]
+[del]not[/del] [ins]m[/ins] [del]at most[/del] [ins]or that[/ins] [del]v is not w[/del]
+not
+[ins]u.v.w[/ins] [del]1[/del]
+[ins]u.v.[u]w[/u][/ins] [del]2[/del]
+[ins]u.[u]v[/u].w[/ins] [del]3[/del]
+[ins]u.[u]v[/u].[u]w[/u][/ins] [del]4[/del]
+[ins][u]u[/u].v.w[/ins] [del]5[/del]
+[ins][u]u[/u].v.[u]w[/u][/ins] [del]6[/del]
+[ins][u]u[/u].[u]v[/u].w[/ins] [del]7[/del]
+[ins][u]u[/u].[u]v[/u].[u]w[/u][/ins] [del]8[/del]
+
+[del]not most[/del]
+
+[fig]Venn diagram of three circles u, v, w[/fig]
+
+g + d [del]≷[/del] [ins]≦[/ins] m
+
+[del]m at most[/del]
+n at most
+[del]not most[/del]
+
+g + d + x² = m
+c + u + y² = n
+g + c ≦ m + n
+
+g + c ≦ m
+a + c ≧ m
+[del]a + f ≧ m[/del]
+c + f ≦ n
+
+n - f ≧ m - a
+a - f ≧ m - n

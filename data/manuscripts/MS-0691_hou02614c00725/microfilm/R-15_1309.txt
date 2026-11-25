@@ -1,0 +1,63 @@
+[pn]A[/pn]
+
+[marginalia]
+[del]Mat[/del] true
+[u]$\frac{p+q^{\prime\prime\prime}}{am}$[/u]
+
+[del]Mat[/del] false
+[u]$\frac{p^{\prime}+q^{\prime\prime}}{am}$[/u]
+
+[del]Col[/del] true
+[u]$\frac{p^{\prime\prime}+q^{\prime}}{an}$[/u]
+
+[del]Col[/del] false
+[u]$\frac{q+p^{\prime\prime\prime}}{an}$[/u]
+[/marginalia]
+
+$\frac{p+p^{\prime}}{q+q^{\prime}} = \frac{q^{\prime\prime\prime}+q^{\prime\prime}}{p^{\prime\prime\prime}+p^{\prime\prime}}$
+
+$\frac{p+p^{\prime\prime}}{q+q^{\prime\prime}} = \frac{q^{\prime\prime\prime}+q^{\prime}}{p^{\prime\prime\prime}+p^{\prime}}$
+
+$\frac{p+q^{\prime\prime}}{p^{\prime\prime}+q^{\prime}} = \frac{p^{\prime}+q^{\prime\prime\prime}}{q+p^{\prime\prime}}$
+
+$\frac{p+q^{\prime\prime\prime}}{p^{\prime}+q^{\prime\prime}} = \frac{p^{\prime\prime}+q^{\prime}}{q+p^{\prime\prime\prime}}$
+
+[fig]Diagram with crossed lines connecting p, q, p', q'[/fig] $\frac{p}{p^{\prime\prime}} = \frac{q^{\prime}}{q^{\prime\prime\prime}}$
+
+[fig]Diagram with crossed lines connecting p, q, p'', q''[/fig] $\frac{p}{p^{\prime}} = \frac{q^{\prime\prime}}{q^{\prime\prime\prime}}$
+
+$\frac{p^{\prime}}{q} = \frac{p^{\prime}}{q}$
+
+$\frac{p^{\prime\prime}}{q} = \frac{p^{\prime\prime}}{q}$
+
+$pq - p^{\prime}q^{\prime}$
+
+$pq = p^{\prime}q^{\prime}$
+
+$q = \frac{p^{\prime}q^{\prime}}{p}$
+
+$q^{\prime\prime} = \frac{p^{\prime}q^{\prime}}{p^{\prime\prime}}$
+
+$pq + pp^{\prime\prime\prime} + qq^{\prime\prime\prime} + p^{\prime\prime\prime}q^{\prime\prime\prime}$
+$= p^{\prime}p^{\prime\prime} + p^{\prime}q^{\prime\prime} + p^{\prime\prime}q^{\prime} + q^{\prime}q^{\prime\prime}$
+
+[marginalia]
+2 3 5 7
+
+$\frac{6}{4}$
+$\frac{9}{9}$
+$\frac{19 \times 5 \cdot 7}{25 \cdot 5 \cdot 7}$
+
+$p = 2 \cdot 3 \quad q = 5 \cdot 7$
+$p^{\prime} = 2 \cdot 5 \quad q^{\prime} = 3 \cdot 7$
+$p^{\prime\prime} = 2 \cdot 7 \quad q^{\prime\prime} = 3 \cdot 5$
+[/marginalia]
+
+[fig]Diagram with crossed lines connecting p, q, p', q'[/fig]
+
+$\frac{p+q^{\prime\prime\prime}}{35} \quad \frac{q+p^{\prime\prime\prime}}{25}$
+
+$p p^{\prime\prime\prime} + q q^{\prime\prime\prime} + p^{\prime\prime\prime} q^{\prime\prime\prime}$
+$= [del]p[/del] [ins]$p^{\prime}$[/ins] + p^{\prime}p^{\prime\prime} + \frac{p^{\prime}q^{2}}{p^{\prime}p^{\prime\prime}}$
+$2 \cdot 3 \cdot 5 \cdot 7 + 2^{2} \cdot 5 \cdot 7 + 3^{2} \cdot 5 \cdot 7$
+$= 235$

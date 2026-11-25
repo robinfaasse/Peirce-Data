@@ -1,0 +1,23 @@
+$\frac{1}{1-ax^2}$
+$(1-ax^2)^{-1}$
+$+2ax(1-ax^2)^{-2}$
+$+2a(1-ax^2)^{-2}-8a^2x^2(1-ax^2)^{-3}$
+$=\frac{2a-2a^2x^2-8a^2x^2}{(1-ax^2)^3}=\frac{2a(1-5ax^2)}{(1-ax^2)^3}$
+$2a(1-5ax^2)=1$ [fig]figure[/fig]
+$(1-ax^2)^{-1}$
+$+a(1-ax^2)^{-2}$
+$+2a(1-ax^2)^{-3}$
+[del][fig]figure[/fig][/del]
+[fig]figure[/fig]
+$A_0 Fx + A_1 F'x + A_2 F''x + etc$
+$A_0 F''x + A_1 F'''x + A_2 F^{iv}x + etc$
+$(1+ax^2)F''x = Fx$
+$D_x z = \frac{D_y z}{D_x y}$ [del][fig]figure[/fig][/del]
+$D_x^2 z = \frac{D_y^2 z}{D_x^2 y} - \frac{D_y z \cdot D_x^2 y}{(D_x y)^2}$
+$A_0 + A_1 x + A_2 x^2 + etc$
+$2 A_2 + 6 A_3 x + 12 A_4 x^2 + etc$
+$+ 2 A_2 a x^2$ [del][fig]figure[/fig][/del]
+$(n+1)(n+2) A_{n+2} + m A_n = 0$
+$ta(n-1)n A_n$ [del][fig]figure[/fig][/del]
+$A_{n+2} = \frac{a n (n-1)+m}{(n+1)(n+2)} A_n$
+[fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig]

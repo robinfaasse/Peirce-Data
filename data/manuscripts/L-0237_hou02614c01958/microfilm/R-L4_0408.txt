@@ -1,0 +1,15 @@
+[u]Table of Complete Propositions.[/u]
+
+| | | | | |
+|---|---|---|---|---|
+| $0 \prec 0$ | $1$ | $1$ | $\infty \prec \infty$ | |
+| $0 \prec A$ | $8$ | $9$ | $\infty \prec A$ | |
+| $0 \prec B$ | $10$ | $11$ | $\infty \prec B$ | |
+| $0 \prec \bar{A}\bar{B}$ | $5$ | $15$ | $\infty \prec AB$ | |
+| $0 \prec \bar{A}B$ | $4$ | $14$ | $\infty \prec A\bar{B}$ | |
+| $0 \prec A\bar{B}$ | $3$ | $13$ | $\infty \prec \bar{A}B$ | |
+| $0 \prec \bar{A}\bar{B}$ | $2$ | $12$ | $\infty \prec \bar{A}\bar{B}$ | |
+| $0 \prec AB + \bar{A}\bar{B}$ | $7$ | $6$ | $\infty \prec AB + \bar{A}\bar{B}$ | |
+
+This table is vitiated by the error of supposing that since from $0 \prec A$ we have $A$ is partly contained in $0$ and since a thing cannot at the same time both be and not be, it must follow that $A \prec 0$. But it does not follow.
+[ins]over[/ins]

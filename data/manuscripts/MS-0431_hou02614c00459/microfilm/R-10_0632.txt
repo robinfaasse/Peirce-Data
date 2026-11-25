@@ -1,0 +1,38 @@
+[pn]Logic
+III
+74[/pn]
+
+have not necessarily the same value. The other four are
+associative; that is
+
+[align=center]
+$(x \ \eta \ y) \ \eta \ z = x \ \eta \ (y \ \eta \ z)$
+$(x \ \lor \ y) \ \lor \ z = x \ \lor \ (y \ \lor \ z)$
+$(x \ \infty \ y) \ \infty \ z = x \ \infty \ (y \ \infty \ z)$
+$(x \ \theta \ y) \ \theta \ z = x \ \theta \ (y \ \theta \ z)$
+[/align]
+
+In order that a sign, say $\text{O}$, should be associative, it is re-
+quisite either that whatever quantity $x$ may be, $x \ \text{O} \ x = x$, or
+else, that whatever quantity $x$ [del]may be[/del] [ins]and $y$[/ins] may be $x \ \text{O} \ y = y \ \text{O} \ x$
+and either $x = y$, or $x \ \text{O} \ z = z$, or $y \ \text{O} \ y = y$. Although, as a
+general rule, I do not approve of demonstrations in dichotomous
+algebra, since they can only consist in examining every possible
+case, yet perhaps it will be well to prove this. First if $v \ \text{O} \ v = v$
+and $f \ \text{O} \ f = f$, we have
+$v \ \text{O} \ (v \ \text{O} \ v) = v \ \text{O} \ v$ [del]$=$[/del] $(v \ \text{O} \ v) \ \text{O} \ v = v \ \text{O} \ v$ [del]$\text{O}$[/del]
+$f \ \text{O} \ (f \ \text{O} \ f) = f \ \text{O} \ f$ $(f \ \text{O} \ f) \ \text{O} \ f = f \ \text{O} \ f$
+[del]$v \ \text{O} \ (v \ \text{O} \ f) = $[/del]
+
+[marginalia]
+This may be otherwise
+stated as follows:
+"if $x \ \text{O} \ x$ has not
+[del]always the same value[/del]
+its value [del]equal to that of $x$[/del]
+and $2^{x-1}$, if $x \ \text{O} \ x$
+always has the
+same value, then
+the sign must
+be commutative.
+[/marginalia]

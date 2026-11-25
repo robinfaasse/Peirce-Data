@@ -1,0 +1,59 @@
+[fig]Venn-like diagram with nested loops and S labels[/fig]
+
+$$A < B$$
+Either $A \overline{<} C$ or $C \overline{<} B$
+
+$$D < B$$
+Either $D \overline{<} E$ or $E \overline{<} B$
+
+<u>Insert in (3) under</u>
+<u>odd enclosures</u>
+
+[fig]Complex diagram with loops, letters A, B, D, S, and shaded regions[/fig]
+
+$$A < B \quad D < B$$
+$$A > D$$
+$$A = D$$
+
+[fig]Venn-like diagram with nested loops and S labels[/fig]
+
+[fig]Venn-like diagram with nested loops, S labels, and letters A, D[/fig]
+
+If $A$ is next smaller than $B$
+and $D$ is next smaller than [del]$B$[/del] [ins]$B$[/ins]
+then $A$ is smaller than $D$
+or $A$ is greater than $D$
+or $A$ is $D$
+
+[del]But if $A$ is smal[/del]
+But if $A$ is next smaller [ins]than[/ins] $D$
+
+[del]$A < D$[/del] [ins]$L$[/ins] or [del]$D < A$[/del] [ins]$M$[/ins] or [del]$A = D$[/del] [ins]$N$[/ins]
+
+$$A < D$$
+
+[fig]Venn-like diagram with nested loops and S labels[/fig]
+
+[del]If $A$ is smaller $B$[/del]
+[del]If[/del] $L$ and $D$ smaller than $B$
+[del]If[/del] $M$ and $A$ small than $B$
+
+$A$ not [del]next[/del] smaller $B$
+$D$ not [del]next[/del] smaller $B$
+
+$\Pi_A \Pi_B \Pi_B \Sigma_P \Sigma_Q$
+$(\overline{S_{AD}} + \overline{S_{DA}} + \overline{t_{AD}})($
+
+If $D$ is smaller than $B$
+[del]If[/del] $D$ is next [del]smaller than[/del] $B$
+Not $L$ nor $M$
+
+[del]or $A$ is $B$[/del]
+or $A$ next sm. $B$
+
+$S_{AB} + S_{AP} \cdot S_{PB} + S_{DB} + S_{AQ} \cdot S_{QB} + S_{AB} \cdot S_{DA}$
+
+If $D$ is next smaller than $B$
+$D$ is [del]smaller than[/del] [ins]next smaller than[/ins] $B$
+If $L$ then [del]A is[/del] $A$ not next smaller than $B$
+$\therefore$ If $L$

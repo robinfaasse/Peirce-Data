@@ -1,0 +1,30 @@
+It will be useful to introduce the abridgments
+$a = b$
+to mean
+$ab + \bar{a}\bar{b}$
+and
+[del]$\bar{x}$[/del]
+$I_{ij} = \Pi_l \bar{l}_i l_j + \bar{l}_i \bar{l}_j$.
+
+The comparison of collections with one another depends
+on putting their members into a relation of correspondence
+with one another. How, then, shall we write that for
+every $\underline{l}$ there is an $\underline{m}$? We must say that there is a
+relation such that every $\underline{l}$ is in [ins]this[/ins] relation to some one
+$\underline{m}$ [del]and to no other[/del] to which no other is in this relation.
+$\Sigma_r \Pi_i \Sigma_k \Pi_j \cdot \bar{l}_i + \bar{l}_j + \bar{r}_{ik} m_k (\bar{r}_{jk} + I_{ij})$
+This is as much as to say that there are at least as
+many $\underline{m}$'s as $\underline{l}$'s. We may write it
+$G_{lm}$.
+
+How are we to prove that
+$\Pi_l \Pi_m \cdot G_{lm} + G_{ml}$
+that is, of any two collections one is at least as numerous as the
+other? Suppose it false, that is
+$\Sigma_l \Sigma_m \bar{G}_{lm} \bar{G}_{ml} = \Sigma_l \Sigma_m \Pi_r \Sigma_i \Pi_k \Sigma_j \Pi_{r'} \Sigma_{i'} \Pi_{k'} \Sigma_{j'} \cdot l_i l_j (\bar{r}_{ik} + \bar{m}_k + r_{jk} \bar{I}_{ij})$
+[del]$\&$[/del] $m_{i'} m_{j'} (\bar{r}'_{i'k'} + \bar{l}_{k'} + r'_{j'k'} \bar{I}_{i'j'})$
+Hence $\Sigma_l \Sigma_m \Pi_r \Sigma_i \Sigma_{i'} [del]\Pi_k \Sigma_j[/del] \Pi_{r'} \Sigma_j \Sigma_{j'} \cdot l_i l_j m_{i'} m_{j'} (\bar{r}_{ij'} + [del]\bar{m}_{j'}[/del] + r_{jj'} \bar{I}_{ij}) (\bar{r}'_{i'i} + [del]\bar{l}_i[/del] + r'_{j'i} \bar{I}_{i'j'})$
+[del]Assume[/del] $\Pi_i \Pi_{i'} \Pi_j \Pi_{j'} (\bar{l}_i + \bar{l}_j + \bar{m}_{i'} + \bar{m}_{j'} + r_{ij'} (\bar{r}_{jj'} + I_{ij}) + r'_{i'i} (\bar{r}'_{j'i} + I_{i'j'})$
+one of the l's is in so related to every [ins]but one[/ins] m, and one of the
+and to no other and that m to every [ins]but one[/ins] l but that one.
+[fig]Diagram showing relations between l and m with arrows[/fig]

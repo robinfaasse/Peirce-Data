@@ -1,0 +1,13 @@
+[pn]83[/pn]
+
+It is a rule of mathematical investigation that you must carefully study all peculiar cases which necessarily result from the rules already ascertained. We obtained the rule for the relation of any two points $[1]$ and $[2]$ on the curve that there is a ray $\{R [\{A1\}\{S2\}][\{A2\}\{S1\}]\}$. Let us apply this to the case where [del]$[1]$ and $[2]$ lie on a[/del] $[R]$ lies on the ray $\{12\}$.
+
+[fig]Projective geometry diagram with points A, P, S, Q, R, R' and lines[/fig]
+
+Call the ray $\{R [\{A1\}\{S2\}][\{A2\}\{S1\}]\}$ [ins]$\{R'\}$ and let $[R']$ be $[R']$[/ins]
+
+In this case, [del]the range[/del] if we let $[P]$ be the point $[t\{R12\}]$, the range $\{R, 1, P, 2\}$ is harmonic.
+
+For its base is one of the diagonals of the quadrilateral $\{A1\}$, [del]$\{S1\}$[/del] $\{A2\}$, $\{S2\}$, $\{S1\}$, one pair of alternate points are vertices and the other pair are the other two diagonals of the quadrilateral. Besides, since $[1]$ and $[2]$ are determined from $[P]$ and $[R]$ by the same construction in the same way and simultaneously, with the aid of a curve projectively defined, it is evident that the ranges $\{R, 1, P, 2\}$ and $\{R, 2, P, 1\}$ are projective. But only harmonic ranges [del]can[/del] [ins]remain[/ins] projective after the [del]interchange of[/del] [ins]let $[R']$ be[/ins] one pair. In like manner, the range [del]$\{A, A, S, S\}$[/del] $\{P, A, Q, S\}$ is harmonic, and so is is [del]$\{Q\}$[/del] $\{Q, [\{A1\}\{S2\}], R, [\{A2\}\{S1\}]\}$. Thus it appears that $[A]$ and $[S]$ are related to $[Q]$ and $\{12\}$ precisely as $[1]$ and $[2]$ are related to $[R]$ and $\{AS\}$.
+
+We might go on to find two more points $[3]$ and $[4]$ on the curve related to $[Q]$ and $\{12\}$ just as $[A]$ and $[S]$ are. Supposing $[3]$ were on the curve, would $[4]$ necessarily be so? [ins]Call $[P'] = [\{12\}\{34\}]$[/ins] The range $\{P', 3, Q, 4\}$ is harmonic, and therefore projective with $\{P, A, Q, S\}$. But they have $[Q]$ in common and hence are in perspective. Hence $[\{A3\}\{S4\}]$ lies on $\{PP'R\}$. But a pair of an harmonic range can be interchanged. Hence $\{P', 3, Q, 4\}$ is projective

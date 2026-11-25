@@ -1,0 +1,17 @@
+$$y = y_0 + x D_x y$$
+$$y^2 = y_0^2 + 2 y_0 x D_x y + x^2 (D_x y)^2$$
+
+[del]$$x^2 (1 + (D_x y)^2)$$[/del]
+[del]$$x^2 \sec^2 \phi + 2 (x \sec^2 \phi + y_0 \tan \phi) (y_0 + c + x \tan \phi$$[/del]
+$$(x^2 \sec^2 \phi + 2 x y_0 \tan \phi + y_0^2) (x \tan \phi + y_0 + c)$$
+$$+ 2 x (x \tan \phi + y_0) (1 - c) = 0$$
+
+$$y = F'_x x$$
+$$D_x y = F'_x$$
+[marginalia]Tan at $x_1$[/marginalia] $$y = [del]F'_x[/del] [ins]$$F'_{x_1}$$[/ins] + (x - x_1) F'_{x_1}$$
+$$F'_x = F'_{x_1} + (x - x_1) F'_{x_1}$$
+[del]$$(x^2 - 2 x_1 x + x_1^2)^2$$[/del] $$F'_x - x F'_{x_1} [del]+ y_1[/del] - F'_{x_1} + x_1 F'_{x_1} = 0$$
+
+$$(x^2 + y^2) (y + c) + 2 x y (1 - c) = 0$$
+$$D_x y = -2 \frac{x_1 (y_1 + c) + y_1 (1 - c)}{x_1^2 + 3 y_1^2 + 2 y_1 c + 2 x_1 (1 - c)}$$
+$$y = y_1 [del]-[/del] (x - x_1) 2 \frac{x_1 (y_1 + c) + y_1 [u](1 - c)[/u]}{x_1^2 + 3 y_1^2 + 2 y_1 c + 2 x_1 [u](1 - c)[/u]}$$

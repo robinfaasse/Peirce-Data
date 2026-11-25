@@ -1,0 +1,37 @@
+[pn]209[/pn]
+
+We have thus shown that any proposition may be inserted as
+second antecedental, provided it is also inserted as first ante-
+cedental, without loss of veritability. This may be called
+the [del]rule[/del] [ins]rule[/ins] of antecedental development.
+
+By Rule 1, we can write
+[u]S[/u] | X | [u]S[/u] | X true,
+
+and then by Rule 2
+[u]S[/u] | [u]P[/u] | X | [u]P[/u] | X true.
+
+If now we have
+[u]S[/u] | P true,
+
+Rule 3 gives us
+[u]P[/u] | X | [u]S[/u] | X true;
+
+so that the inference is justified
+[u]S[/u] | P true,
+[u]..[/u]. [u]P[/u] | X | [u]S[/u] | X true.
+
+This may be called the rule of contraposition. It is of the
+utmost importance.
+
+Let us apply it to Rule 2. Rule 1 gives
+[u]X[/u] | X true;
+
+whence Rule 2 gives
+[u]Y[/u] | [u]X[/u] | X true,
+
+and by [del]Rule 3[/del] [ins]the rule[/ins] of transposition
+[u]X[/u] | [u]Y[/u] | X true,
+
+and by the Rule of contraposition
+[u]Y[/u] | X | Z | [u]X[/u] | Z true.

@@ -1,0 +1,50 @@
+[pn]80[/pn]
+
+In general, the solution of
+[del]u[sup]n+1[/sup] v[sup]n[/sup] + b u[sup]n+1[/sup] = a[/del]
+depends on E[sup]2[/sup] - bE - a = 0
+If [alpha] and [beta] are its roots
+v[sup]n[/sup] = - [alpha][beta] [frac]1 - ([frac][alpha]/[beta] [/frac])[sup]n-1[/sup]/[alpha] - [beta]([frac][alpha]/[beta][/frac])[sup]n-1[/sup][/frac]
+
+To evaluate [del][fig]scribble[/fig][/del] [frac]1/a[sub]1[/sub] + [frac]1/a[sub]2[/sub] + [frac]1/a[sub]3[/sub] + [frac]1/a[sub]4[/sub] +[/frac][/frac][/frac][/frac]
+
+Call the fraction to a[sub]n[/sub] inclusive
+[frac]u[sub]n[/sub]/v[sub]n[/sub][/frac]
+
+[frac]1/a[sub]1[/sub][/frac] = u[sub]1[/sub], [frac]1/a[sub]1[/sub] + [frac]1/a[sub]2[/sub][/frac][/frac] = [frac]1/1 + a[sub]1[/sub]a[sub]2[/sub][/frac] = u[sub]2[/sub]
+
+[frac]1/a[sub]1[/sub] + [frac]1/a[sub]2[/sub] + [frac]1/a[sub]3[/sub][/frac][/frac][/frac] = [frac]1/a[sub]1[/sub] + [frac]a[sub]3[/sub]/a[sub]2[/sub]a[sub]3[/sub]+1[/frac][/frac] = [frac]a[sub]2[/sub]a[sub]3[/sub] + 1/a[sub]1[/sub]a[sub]2[/sub]a[sub]3[/sub] + a[sub]1[/sub] + a[sub]3[/sub][/frac]
+= [frac]1 + a[sub]2[/sub]a[sub]3[/sub]/(1 + a[sub]1[/sub]a[sub]2[/sub]) a[sub]3[/sub] + a[sub]1[/sub][/frac]
+
+[frac]1/a[sub]1[/sub] + [frac]1/a[sub]2[/sub] + [frac]1/a[sub]3[/sub] + [frac]1/a[sub]4[/sub][/frac][/frac][/frac][/frac] = [frac]1/a[sub]1[/sub] + [frac]1/a[sub]2[/sub] + [frac]a[sub]4[/sub]/a[sub]3[/sub]a[sub]4[/sub] + 1[/frac][/frac][/frac] = [frac]1/a[sub]1[/sub] + [frac]a[sub]3[/sub]a[sub]4[/sub] + 1/a[sub]2[/sub]a[sub]3[/sub]a[sub]4[/sub] + a[sub]2[/sub] + a[sub]4[/sub][/frac][/frac]
+= [frac]a[sub]2[/sub]a[sub]3[/sub]a[sub]4[/sub] + a[sub]2[/sub] + a[sub]4[/sub]/a[sub]1[/sub]a[sub]2[/sub]a[sub]3[/sub]a[sub]4[/sub] + a[sub]1[/sub]a[sub]2[/sub] + a[sub]1[/sub]a[sub]4[/sub] + a[sub]3[/sub]a[sub]4[/sub] + 1[/frac]
+= [frac](1 + a[sub]2[/sub]a[sub]3[/sub]) a[sub]4[/sub] + a[sub]2[/sub]/[(1 + a[sub]1[/sub]a[sub]2[/sub]) a[sub]3[/sub] + a[sub]1[/sub]] a[sub]4[/sub] + a[sub]1[/sub]a[sub]2[/sub] + 1[/frac]
+
+[frac]1/a[sub]1[/sub][/frac]
+[del][fig]scribble[/fig][/del]
+[frac]1/1 - a[sub]2[/sub]a[sub]3[/sub][/frac]
+
+[pn]81[/pn]
+
+[frac]1/a[sub]1[/sub][/frac]
+
+[frac]1/a[sub]1[/sub] + [frac]1/a[sub]2[/sub][/frac][/frac] = [frac]a[sub]2[/sub]/a[sub]1[/sub]a[sub]2[/sub] + 1[/frac]
+
+[frac]1/a[sub]1[/sub] + [frac]1/a[sub]2[/sub] + [frac]1/a[sub]3[/sub][/frac][/frac][/frac] = [frac]1/a[sub]1[/sub] + [frac]a[sub]3[/sub]/a[sub]2[/sub]a[sub]3[/sub] + 1[/frac][/frac] = [frac]a[sub]2[/sub]a[sub]3[/sub] + 1/a[sub]1[/sub]a[sub]2[/sub]a[sub]3[/sub] + a[sub]1[/sub] + a[sub]3[/sub][/frac]
+= [frac]a[sub]2[/sub]a[sub]3[/sub] + 1/(a[sub]1[/sub]a[sub]2[/sub] + 1) a[sub]3[/sub] + a[sub]1[/sub][/frac]
+
+[frac]1/a[sub]1[/sub] + [frac]1/a[sub]2[/sub] + [frac]1/a[sub]3[/sub] + [frac]1/a[sub]4[/sub][/frac][/frac][/frac][/frac] = [frac]1/a[sub]1[/sub] + [frac]1/a[sub]2[/sub] + [frac]a[sub]4[/sub]/a[sub]3[/sub]a[sub]4[/sub] + 1[/frac][/frac][/frac] = [frac]1/a[sub]1[/sub] + [frac]a[sub]3[/sub]a[sub]4[/sub] + 1/a[sub]2[/sub]a[sub]3[/sub]a[sub]4[/sub] + a[sub]2[/sub] + a[sub]4[/sub][/frac][/frac] = [frac]a[sub]2[/sub]a[sub]3[/sub]a[sub]4[/sub] + a[sub]2[/sub] + a[sub]4[/sub]/a[sub]1[/sub]a[sub]2[/sub]a[sub]3[/sub]a[sub]4[/sub] + a[sub]1[/sub]a[sub]2[/sub] + a[sub]1[/sub]a[sub]4[/sub] + a[sub]3[/sub]a[sub]4[/sub] + 1[/frac]
+= [frac](a[sub]2[/sub]a[sub]3[/sub] + 1) a[sub]4[/sub] + a[sub]2[/sub]/[(a[sub]1[/sub]a[sub]2[/sub] + 1) a[sub]3[/sub] + a[sub]1[/sub]] a[sub]4[/sub] + a[sub]1[/sub]a[sub]2[/sub] + 1[/frac]
+
+[frac]u[sub]n[/sub]/v[sub]n[/sub][/frac]  u[sub]n[/sub] = u[sub]n-1[/sub] a[sub]n[/sub] + u[sub]n-2[/sub]
+[del][frac]v[sub]n[/sub]/a[sub]n[/sub][/frac][/del]
+[del][fig]scribble[/fig][/del]
+u[sub]n+1[/sub] = v[sub]n[/sub] + u[sub]n[/sub]
+
+Let [frac]u[sub]m,n[/sub]/v[sub]m,n[/sub][/frac] Be the value of the continued fraction [frac]1/a[sub]m[/sub] + [frac]1/a[sub]m+1[/sub] + [frac]1/... + [frac]1/a[sub]n[/sub][/frac][/frac][/frac][/frac]
+
+[frac]u[sub]m-1,n[/sub]/v[sub]m-1,n[/sub][/frac] = [frac]1/a[sub]m-1[/sub] + [frac]u[sub]m,n[/sub]/v[sub]m,n[/sub][/frac][/frac] = [frac]v[sub]m,n[/sub]/a[sub]m-1[/sub] v[sub]m,n[/sub] + u[sub]m,n[/sub][/frac]
+
+v[sub]m-1,n[/sub] = a[sub]m-1[/sub] v[sub]m,n[/sub] + u[sub]m,n[/sub]
+u[sub]m,m[/sub] = 1  v[sub]m,m[/sub] = a[sub]m[/sub]
+u[sub]m,m+1[/sub] = v[sub]m+1,m+1[/sub] [del]*[/del] [ins]v[sub]m,m+1[/sub] = v[sub]m,m[/sub] (v[sub]m+1,m+1[/sub] + u[sub]m,m[/sub]) + u[sub]m,m[/sub][/ins]

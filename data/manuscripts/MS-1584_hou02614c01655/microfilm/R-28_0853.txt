@@ -1,0 +1,25 @@
+[u]The Skew Mercator[/u]
+
+[u]On the Sphere[/u]
+
+§1. Property of the Stereographic.
+If a point in space X, Y, Z
+be projected from the origin
+upon the plane of Z = 1, its projection
+x, y will be
+x = [fraction]X/Z[/fraction]  y = [fraction]Y/Z[/fraction]
+
+If we imagine the sphere through
+the origin
+X² + Y² + (Z - 1)² = 1
+to be cut by the plane
+[fraction]X/A[/fraction] + [fraction]Y/B[/fraction] + [fraction]Z/C[/fraction] = 1
+
+we have
+[fraction]X²/Z²[/fraction] + [fraction]Y²/Z²[/fraction] = - [del]1[/del] [ins]+[/ins] [fraction]2/Z[/fraction]
+
+[del]and[/del] [fraction]X/AZ[/fraction] + [fraction]Y/BZ[/fraction] = [fraction]1/Z[/fraction] - [fraction]1/C[/fraction]
+
+or eliminating Z
+x² + y² + 1 = [fraction]2/A[/fraction] x + [fraction]2/B[/fraction] y + [fraction]2/C[/fraction]
+which is the equation of a circle

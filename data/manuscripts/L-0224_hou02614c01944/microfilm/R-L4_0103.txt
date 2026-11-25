@@ -1,0 +1,33 @@
+[pn]15[/pn]
+
+lection of As and the collection of Bs are said to be equal.
+
+If there is [del]an[/del] [ins]no[/ins] offshoot relation, [u]r[/u], such that every A is [u]r[/u] to a B, then
+the collection of As is said to be greater than the collection of Bs.
+
+Every collection is equal to itself.
+
+[del]If there[/del] Given any collection the As, there is an offshoot relation, [u]r[/u],
+such that to every A some A is [u]r[/u].
+
+If no matter what offshoot relation [u]r[/u] be taken, either there is some
+A to which no A is [u]r[/u] or else every A is [u]r[/u] to an A, then the collection
+of As is enumerable, otherwise not.
+
+If [del]the[/del] [ins]any[/ins] collection, say the As, be such that there is an offshoot relation,
+[u]r[/u], such that [del]every[/del] to every A some A is [u]r[/u] and yet there is an A which
+is not [u]r[/u] to any A, then the collection of As is, as just said, inenumerable.
+
+If [del]there be no[/del] [ins]no A exists of any[/ins] description [del]of A[/del] involving no unanalyzed term except the
+general terms of logic and [u]r[/u] [ins]and not referring to objects not As[/ins] except such descriptions of As as are neces-
+sitated to exist by the hypothesis that the As form an inenumerable
+collection, then the As are said to form a denumeral collection; otherwise
+not. [ins]the relation r may be termed the generating relation.[/ins] Thus, if the As are a denumeral collection [ins]for some relation r[/ins] there must be an A which is
+not [u]r[/u] to any A, but there need not be an A not [u]r[/u] to any A and [del]not[/del] [ins]other[/ins] than
+some A not [u]r[/u] to any A. Hence, there is no such A. That is, [u]r[/u] being the gene-
+rating relation of the denumeral collection of the As, there is but one A
+which is not [u]r[/u] to any A. In like manner there is but one A which is [u]r[/u] to
+any given A. To define the denumeral collection, then, in convenient
+algebraical form, we write,
+
+$\Sigma_{x}\Pi_{a}\Pi_{b}\Pi_{c}\Pi_{d}\Pi_{e}\Pi_{f}\Pi_{g}\Sigma_{h}\Pi_{i}\Pi_{k}\Pi_{l} (\bar{q}_{aab} + \bar{q}_{aac} + l_{bc}) (\bar{q}_{daf} + \bar{q}_{eaf} + l_{de}) q_{hag} \cdot \bar{q}_{iaj} \cdot (l_{ik} + q_{ial})$

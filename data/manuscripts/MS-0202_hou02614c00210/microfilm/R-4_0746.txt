@@ -1,0 +1,17 @@
+[pn]On
+42[/pn] (Obviously, it could not be $2g$ since this would be greater than $H$, the
+total number of piles. It begins to look as if each successive pile, [del]going[/del] [ins]passing[/ins] from
+back to face, after the gathering was the one that while the cards were on
+the table was [del]numbered[/del] $g$ piles further to the right, counting the piles
+round and round, in a cycle of $H$ units.
+
+Let us now return to the case where $g < \frac{1}{2}H$. Then $2g$ may be either
+less or greater (it cannot be [del]exactly[/del] equal [ins]exactly equal[/ins]) than $H-g$. If $2g < H-g$, or $g < \frac{1}{3}H$,
+the $2g$ pile contains $m$ cards, and the first card of the next pile, after
+the gathering, will be [del]the second card number $2g$, whose place before[/del] [ins]in places further toward the face than the first card of the pile[/ins]
+that then stands third. Consequently, it will be the card that before the deal stood
+[del]the deal was $3m+1 - 2[(m-1)H-g]$[/del]
+
+$2g + mH - (mH-g) = 3g$. But if $g$ while $< \frac{1}{2}H$ is $> \frac{1}{3}H$, the $2g$ pile will [del]only[/del]
+contain $m-1$ cards, [ins]after the gathering,[/ins] and then the pile that follows the $2g$ pile will be
+$2g + [del]mH[/del] [ins]m-1[/ins]H - ([del]mH[/del] [ins]m-1[/ins]H-g) = 3g - H$. Of course, it could not be $3g$, since $3g > H$.

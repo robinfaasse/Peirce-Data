@@ -1,0 +1,40 @@
+[del]c = card[/del]
+[del]P[/del]   P = [ins]P[/ins] first place	[del]P[/del] [ins]P[/ins] = B[sup]c[/sup]	c = B[sup]P[/sup]
+[del]P'[/del]   P' [del]second place[/del]	[del]If C=p then P=c[/del]
+[del]P' = PB = B[sup]c+1[/sup][/del]	[del]C+1 = B[sup]p[/sup][/del]	[del]p = p+1[/del]
+[del]P' = PB = B[sup]c+1[/sup][/del]	[del]c' = cB = B[sup]p+1[/sup][/del]
+[del]P = n[sup]c[/sup][/del]	[del]c = n[sup]P[/sup][/del]
+[del]P n[sup]2[/sup] = n[sup]c+2[/sup][/del]	a = card name
+[del]P' = P n[sup]3[/sup] = n[sup]c+3[/sup][/del]	[del]x = place in first pack[/del]
+[del]C + [unclear]3[/unclear]B[sup]2[/sup] = number of piles[/del]
+[del]P = B[sup]a[/sup][/del]	a = B[sup]p[/sup]
+[del]X = PB[sup]n[/sup] = B[sup]a+n[/sup][/del]
+
+[fig]bracket grouping columns of numbers[/fig]
+[del]7[/del] [ins]3[/ins]
+[del]21[/del] [ins]9[/ins] = -2
+[del]17[/del] [ins]7[/ins] = -6
+[del]25[/del] [ins]11[/ins] = -18
+[del]13[/del] [ins]5[/ins] = -8
+
+a = card name
+p = original place in red
+P = original place in black
+[del]x = place after red pack dealt[/del]
+[del]x = place then[/del]
+
+a = card name
+p = original place in red pack
+s = card in place [del]q[/del] in black pack
+p = B[sup]a[/sup]	s = B[sup]a[/sup]
+
+[del]x = any card   y = any card[/del]
+[del]p = original place in red pack[/del]
+[del]x = B[sup]a[/sup][/del]	[del]y = B[sup]b[/sup][/del]
+[del]p = B[sup]a[/sup][/del]	[del]q = B[sup]b[/sup][/del]
+
+[del]Deal red pack[/del]
+p' new place of a
+p' = pB[sup]n[/sup] = B[sup]a+n[/sup]	s' = p' = B[sup]a+n[/sup]
+
+[fig]scratch calculations and numbers[/fig]

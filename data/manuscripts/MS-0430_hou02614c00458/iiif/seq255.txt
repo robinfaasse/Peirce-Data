@@ -1,0 +1,24 @@
+Logic
+III
+61
+
+(88) (x < y) < z is equivalent to asserting both (x < z) < z and y < z.
+For if (x < y) < z is true, by (65), either z is true or x < y is false,
+when, by (67), x is true. But if either x or z is true, by (84),
+(x < z) < z is true. Hence, if (x < y) < z is true (x < z) < z is true,
+and by (81) y < z is true at the same time. By (84) if (x < z) < z
+is true either x or z is true; and by (88), if z is not true but
+y < z is true, y is false. Hence if both (x < z) < z and y < z
+are true, either z is true, when by (66), (x < y) < z is true, or
+x is true and y false when by (65) x < y is false, and
+by (67) (x < y) < z is true. Thus if both (x < z) < z and y < z
+are true, (x < y) < z is true; and (88) follows.
+
+(89) If (x < y) < z is true x < y < z is true.
+This follows from (88) and (66).
+
+(90) If [x < (y < z) < u] < v is true, then (x < y) < (x < z < u) < v.
+For [x < (y < z) < u] < v is equivalent, by (88) to asserting
+at once u < v and (x < v) < v and [(y < z) < v] < v, which
+[del]again by (88), and contraposition [ins]either[/ins][/del]
+[del]last is equivalent to asserting at once (x < v) < v and[/del] For

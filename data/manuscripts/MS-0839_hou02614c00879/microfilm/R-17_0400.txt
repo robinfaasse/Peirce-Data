@@ -1,0 +1,60 @@
+[fig]Line connecting the first and second blocks of syllogisms[/fig]
+Any M is P
+Any S is M
+∴ Any S is P
+
+Any M is P
+Any S is [ins]not[/ins] P
+∴ Any S is [del]not[/del] [ins]not[/ins] M
+
+Any M is P
+Any not-P is not P
+Any not-[del]P[/del] is not M
+
+
+No M is P
+Any S is M
+∴ [del]No[/del] [ins]Any[/ins] S is P
+
+No M is P
+Any S is P
+∴ No S is M
+
+No M is P
+Any P is P
+No P is M
+
+
+Any M is P
+Some S is M
+∴ Some S is P
+
+Any M is P
+Some S is not P
+∴ Some S is not M
+
+
+Any not-M is P
+Any S is not M
+∴ Any S is P
+
+Any not-M is P
+Any S is not P
+∴ Any S is M
+
+Any not-M is P
+Any not-P is not P
+Any not-P is M
+
+
+Any not-M is not P
+Any S is not M
+∴ [del]Any[/del] [ins]Some[/ins] S is not P
+
+Any not-M is not P
+Any S is P
+∴ Any S is M
+
+Any not-M is not P
+Any P is P
+Any P is M

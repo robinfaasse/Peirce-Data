@@ -1,0 +1,38 @@
+[pn]2[/pn]
+
+(meaning, of course, at a [u]uniform rate[/u]) that that train goes
+25 miles in 37½ minutes.
+
+Nor can any definite mathematical meaning be attached
+to the "probability that Bacon wrote the Shakespearean
+plays."
+
+However, I proceed to answer your questions as I
+understand them. I understand that you adopt as a
+fixed datum that B occurs 6 times among the
+letters of the 10 lines of 27 letters each. Then your
+first question is whether if the 270 letters were to be
+taken out one by one at random, what would be
+the probability that there would be a B in the first 27.
+You are familiar with the notation that uses a mark of
+admiration after a [ins]whole[/ins] number to denote the product of all
+the whole numbers up to and including the number before
+the mark! The number of different arrangements of 270
+letters is 270! If any one of these arrangements is equally
+probable with any other, there will be 6·269! arrangements
+that begin with B; so that the probability of the first, or any
+other one place in the order will contain a B will be [u]6·269![/u]
+                                                                                              270!
+or [u]6[/u] as you say. But what will be the chance that the [u]m[/u]th
+   270
+and the [u]n[/u]th letters will be one or other or both a B? There
+are 264 letters that are not B. So the chance is [u]264[/u] that the
+                                                                             270
+[u]m[/u]th letter will not be a B. If it is not there remain 269 letters
+of which 263 will not be B. There is therefore a chance of [u]263[/u]
+                                                                                              269
+that if the [u]m[/u]th letter is not a B, the [u]n[/u]th letter will not be
+a B. And since these events are independent, [del]there will the[/del]
+probability that neither the [u]m[/u]th nor the [u]n[/u]th letter will be a B
+will be [u]264·263[/u] and consequently the probability that one or other
+            270·269

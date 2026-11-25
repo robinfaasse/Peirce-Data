@@ -1,0 +1,35 @@
+Logic
+III
+89
+
+[u]Necessarily True.[/u]
+([u]x[/u] [u]x[/u] [u]x[/u]) ℘ [u]x[/u]      [u]x[/u] ℘ ([u]x[/u] [u]x[/u] [u]x[/u])
+([u]x[/u] [u]x[/u] [u]x[/u]) ℘ [u]x[/u]      [u]x[/u] ℘ ([u]x[/u] [u]x[/u] [u]x[/u])
+([u]x[/u] [u]x[/u] [u]x[/u]) ℘ [u]x[/u]      [u]x[/u] ℘ ([u]x[/u] [u]x[/u] [u]x[/u])
+([u]x[/u] λ [u]x[/u]) ℘ [u]x[/u]      [u]x[/u] ℘ ([u]x[/u] λ [u]x[/u])
+([u]x[/u] ∞ [u]x[/u]) ℘ [u]x[/u]      [u]x[/u] ℘ ([u]x[/u] ∞ [u]x[/u])
+([u]x[/u] ⊗ [u]x[/u]) ℓ [u]x[/u]      [u]x[/u] ℓ ([u]x[/u] ⊗ [u]x[/u])
+([u]x[/u] > [u]x[/u]) ℓ [u]x[/u]      [u]x[/u] ℓ ([u]x[/u] < [u]x[/u])
+([u]x[/u] < [u]x[/u]) ℓ [u]x[/u]      [u]x[/u] ℓ ([u]x[/u] > [u]x[/u])
+([u]x[/u] ∧ [u]x[/u]) ℓ [u]x[/u]      [u]x[/u] ℓ ([u]x[/u] ∧ [u]x[/u])
+([u]x[/u] ẟ [u]x[/u]) ℓ [u]x[/u]      [u]x[/u] ℓ ([u]x[/u] ẟ [u]x[/u])
+([u]x[/u] ℘ [u]x[/u]) ∞ [u]x[/u]      [u]x[/u] ∞ ([u]x[/u] ℘ [u]x[/u])
+([u]x[/u] Δ [u]x[/u]) ∞ [u]x[/u]      [u]x[/u] ∞ ([u]x[/u] Δ [u]x[/u])
+([u]x[/u] Δ [u]x[/u]) ∞ [u]x[/u]      [u]x[/u] ∞ ([u]x[/u] Δ [u]x[/u])
+([u]x[/u] v [u]x[/u]) ∞ [u]x[/u]      [u]x[/u] ∞ ([u]x[/u] v [u]x[/u])
+
+[u]Necessarily False.[/u]
+([u]x[/u] ⊗ [u]x[/u]) v [u]x[/u]      [u]x[/u] v ([u]x[/u] ⊗ [u]x[/u])
+([u]x[/u] < [u]x[/u]) v [u]x[/u]      [u]x[/u] v ([u]x[/u] > [u]x[/u])
+([u]x[/u] > [u]x[/u]) v [u]x[/u]      [u]x[/u] v ([u]x[/u] < [u]x[/u])
+([u]x[/u] ∧ [u]x[/u]) v [u]x[/u]      [u]x[/u] v ([u]x[/u] ∧ [u]x[/u])
+([u]x[/u] ẟ [u]x[/u]) v [u]x[/u]      [u]x[/u] v ([u]x[/u] ẟ [u]x[/u])
+([u]x[/u] [u]x[/u] [u]x[/u]) ∧ [u]x[/u]      [u]x[/u] ∧ ([u]x[/u] [u]x[/u] [u]x[/u])
+([u]x[/u] [u]x[/u] [u]x[/u]) ∧ [u]x[/u]      [u]x[/u] ∧ ([u]x[/u] [u]x[/u] [u]x[/u])
+([u]x[/u] [u]x[/u] [u]x[/u]) ∧ [u]x[/u]      [u]x[/u] ∧ ([u]x[/u] [u]x[/u] [u]x[/u])
+([u]x[/u] λ [u]x[/u]) ∧ [u]x[/u]      [u]x[/u] ∧ ([u]x[/u] λ [u]x[/u])
+([u]x[/u] ∞ [u]x[/u]) ∧ [u]x[/u]      [u]x[/u] ∧ ([u]x[/u] ∞ [u]x[/u])
+([u]x[/u] Δ [u]x[/u]) ẟ [u]x[/u]
+([u]x[/u] ∇ [u]x[/u])
+([u]x[/u] Δ [u]x[/u])
+([u]x[/u] ℓ [u]x[/u])

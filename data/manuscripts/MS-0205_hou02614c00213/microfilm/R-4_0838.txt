@@ -1,0 +1,29 @@
+[pn]R12[/pn] [pn]20[/pn]
+
+Were it greater than both, and were B either C or D [del]or less than either C and than D[/del],
+C+D would be greater than A+B, contrary to the hypothesis. Hence, in this case,
+B must be greater than C and than D. Were A less than one of the two, C and D,
+say less than C and greater than the other, D, then [del]were[/del] [ins]if[/ins] B were D or less
+than D, A+B would be less than C+D. B must therefore be greater than D;
+so that D is less than A and than B. On the other hand, if it is not true
+that A or B is neither C nor D, it must be that either C or D is neither A nor B.
+Hence, A and B must both be the same as either C or D, say as C. Then D is
+either greater or less. But were it greater A+B would be less than C+D.
+Hence, it must be less; and so D is less than A and than B. Thus, in
+every case the proposition holds.
+
+[pn]239[/pn] [u]Theorem VIII.[/u]
+[del]Corollary.[/del] Whatever cardinal numbers [u]L[/u] and [u]M[/u] may be, [u]there is[/u]
+[u]one and only one[/u], cardinal number, [u]N[/u], such that either [u]N+M = L[/u]
+[u]or N+L = M[/u].
+
+[u]Proof[/u]. First, to show that there is such a number. Suppose [u]L[/u] is a
+cardinal number having this character, that, given any cardinal number, [u]M[/u],
+either [u]M > L[/u] or there is a cardinal number, [u]N[/u], such that [u]N+M = L[/u].
+Then, by the first corollary from Theorem [del]IV[/del] [ins]VI[/ins], every number greater than [u]L[/u]
+is greater than [u]GL[/u] except only [u]GL[/u] itself. That is, if any cardinal number, [u]M'[/u],
+is not greater than [u]GL[/u] it is either [u]GL[/u] or it is not greater than [u]L[/u]. In either
+case, there is a number, [u]N'[/u], such that [u]N'+M' = GL[/u]. For if [u]M' = GL[/u], [u]N' = 0[/u]. But
+if [u]M'[/u] is not greater than [u]L[/u], [u]N'+M' = L[/u] by hypothesis, But [u]GN+M' = G(N+M') =[/u]
+[u]GL[/u]. Thus, if [u]L[/u] has the character so has [u]GL[/u]. Now [u]0[/u] has the character, since every
+cardinal number except [u]0[/u] is greater than zero, and [u]0+0 = 0[/u]. Hence, etc.

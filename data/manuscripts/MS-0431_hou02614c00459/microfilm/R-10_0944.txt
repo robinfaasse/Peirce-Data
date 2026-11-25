@@ -1,0 +1,27 @@
+[marginalia]
+[pn]Logic[/pn]
+[pn]III[/pn]
+84
+[/marginalia]
+
+In (25), substituting [u]y·z[/u] for y, we find
+If [u]x·y·z[/u], then necessarily [u]x[/u].
+Syllogizing the last two, we find
+Necessarily either [u]x[/u] or [u]x'·y·z[/u].
+Syllogizing this with (46) we find
+If [u]x'·y·z[/u], then necessarily either [del][u]y·z[/u] or [u]x·y·z[/u][/del] [ins][u]y·z[/u] or [u]x·y·z[/u][/ins].
+
+[marginalia]
+(48)
+[/marginalia]
+
+But in (26), substituting [u]y·z[/u] for y, we find,
+If [u]x'·y·z[/u] then necessarily [u]y·z[/u].
+Syllogizing this with (47), we find
+Necessarily either [u]y·z[/u] or [u]x'·y·z[/u]
+But in (1), substituting [u]y·z[/u] for x, and [u]x'·y·z[/u] for y, we find
+If [u]y·z[/u], then if [u]y·z[/u], necessarily [u]x'·y·z[/u]
+Syllogizing the two last, we find
+If [u]y·z[/u] then necessarily [u]x'·y·z[/u]
+Syllogizing this with (48), we get (45).
+This demonstration is a little intricate, although its appearance of being so is owing chiefly to the excessive ex-

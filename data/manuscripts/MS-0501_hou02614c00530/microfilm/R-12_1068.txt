@@ -1,0 +1,30 @@
+[pn]15[/pn]
+
+[u]Theorem IV.[/u] Whatever i, a, e may be,
+if (i [u]c[/u] a) [u]c[/u] e then a [u]c[/u] e.
+
+[u]Proof.[/u] For assume
+(i [u]c[/u] a) [u]c[/u] e.
+Then I have only to prove that a [u]c[/u] e.
+
+By Clause 1 of the Definition of [u]c[/u],
+(A) If a then i [u]c[/u] a;
+(B) if e then a [u]c[/u] e.
+
+By Clause 2 of the same Definition,
+(C) Either a or a [u]c[/u] e.
+
+By Clause 3 of the same Definition,
+(D) If (i [u]c[/u] a) and (i [u]c[/u] a) [u]c[/u] e then e.
+
+By (D) and the assumption
+If i [u]c[/u] a, then e.
+
+Whence, by (A),
+[del]Either a or[/del] If a, then e
+
+Whence, by (C)
+Either a [u]c[/u] e or e.
+
+Whence, by (B)
+a [u]c[/u] e Q.E.D.

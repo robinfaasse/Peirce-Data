@@ -1,0 +1,30 @@
+We have
+$$\frac{y'}{s'} = \text{Very approximately } \sqrt[3]{\frac{kx'}{Q} + 1}$$
+
+In fact $\frac{y'}{s'} \sqrt[3]{\frac{kx'}{Q} + 1} = 1 + \frac{1}{45} (\frac{kx'}{Q})^4 + \frac{8}{3267} (\frac{kx'}{Q})^6 + \text{etc}$
+
+The small value of the third term is remarkable. If we carry this approximation one step further we have
+$$\log \tan (45^\circ + \frac{\tau}{2}) = \text{To a second approximation } \tan \tau (\sqrt[3]{\sec \tau} + \frac{8}{90} (\sec \tau - 1))$$
+
+The following are these values
+$$\begin{array}{cccc}
+\tau & 10^\circ & 20^\circ & 30^\circ \\
+\log \tan (45^\circ + \frac{1}{2}\tau) & .1754258 & .3563782 & .5493061 \\
+\text{[del]Second[/del] [ins]First[/ins] Approximation} & .1754258 & .3563735 & .5492077 \\
+\text{[del]First[/del] [ins]Second[/ins] Approximation} & .1754295 & .3565013 & .5503214
+\end{array}$$
+
+Again, we have
+$$\frac{k\xi'}{Q} = \text{Very approximately } \frac{y'}{x'}$$
+
+The quotient is
+$$\frac{Q y'}{k x' \xi'} = 1 + \frac{1}{90} (\frac{kx'}{Q})^4 - \frac{1373}{1300320} (\frac{kx'}{Q})^6 + \text{etc.}$$
+
+The following comparison shows the accuracy
+$$\begin{array}{cccc}
+\tau & 10^\circ & 20^\circ & 30^\circ \\
+\frac{k\xi'}{Q} & .0879371 & .1800512 & .2813569 \\
+\frac{y'}{x'} & .0879380 & .1800835 & .2816289
+\end{array}$$
+
+But the most remarkable property of this approximation [ins](or rather, its analogue)[/ins] is that it [del]h[/del] holds, not only for the common catenary, but for every curve which is likely [u]to[/u] be assumed by the cable of a suspension bridge.

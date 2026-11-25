@@ -1,0 +1,56 @@
+$$
+\begin{aligned}
+x &= D^t x = D^0 G^{Dt} \\
+x_1 &= D x = D G^{Dt} \\
+x_2 &= D^2 x = D^2 G^{Dt} \\
+x_n &= D^n x = D^n G^{Dt} \\
+\end{aligned}
+$$
+
+[fig]hand pointing right[/fig]
+
+<u>Example.</u>
+
+$$D_t^2 x = 0$$
+
+In this some of the roots are equal.
+We will therefore take instead
+$$D_t^2 x = x$$
+$$D_t^2 - 1 = 0$$
+$$s = D = \pm 1$$
+$$G^t$$
+$$G^{-t}$$
+$$y \text{ Cos } (t + \varepsilon) = \alpha G^t + \beta G^{-t} = x$$
+$$\alpha G^t - \beta G^{-t} = D_t x$$
+$$\alpha G^t + \beta G^{-t} = D_t^2 x$$
+
+$$D_t^2 x = -x$$
+$$D_t^2 x = -ax$$
+
+---
+
+$$D_t^2 x = 0$$
+
+$$x = \alpha G^{st} + \beta G^{st}$$
+
+$$x = \alpha + \beta t$$
+$$D_t x = \beta$$
+$$D_t^2 x = 0$$
+
+$$\mathcal{E} \frac{\alpha_s G^{s_i t}}{\{R_s\}} = x \text{ Where } \alpha \text{ is any ex-}$$
+
+plicit function whatever of $s$;
+And this equation will of itself assume
+the change required when there are equal
+roots.
+
+[date]1859. April 1.[/date]
+Solutions of $\S 196$. Ex. 2, 3, 8, 9. It seems
+hardly worth while to copy these out of
+my recitation book, though I may some-
+time wish to refer to them.
+
+[date]1859 April 4[/date]
+$\S 198$. $\int_\alpha N_\alpha f_\alpha = 0$
+$\S 199$. $\int_\alpha N_\alpha t \alpha = 0$
+$\S 200$ $\int_\alpha \frac{N_\alpha f_\alpha}{\alpha - x} = f_x \int_\alpha \frac{N_\alpha}{\alpha - x}$

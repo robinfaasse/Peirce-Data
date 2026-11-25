@@ -1,0 +1,23 @@
+[u]Live loads[/u]
+[pn]33[/pn]
+
+The energy is
+[center]$\sum_{-\infty}^{\infty} \left\{ \frac{1}{2} \mathcal{B}_{n} \left[ (\Theta_{n+1} - \Theta_{n}) - (\Theta_{n} - \Theta_{n-1}) \right]^{2} + w_{n} y_{n} \right\}$.[/center]
+
+All the equations are therefore included under the one equation
+[center]$0 = \delta \Theta_{n} \left\{ \mathcal{B}_{n} \left[ (\Theta_{n+1} - \Theta_{n}) - (\Theta_{n} - \Theta_{n-1}) \right] + \mathcal{B}_{n-1} \left[ (\Theta_{n} - \Theta_{n-1}) - (\Theta_{n-1} - \Theta_{n-2}) \right] \right\} + w_{n} \delta y_{n}$
+$+ \delta \Theta_{n+1} \left\{ - \mathcal{B}_{n+1} \left[ (\Theta_{n+2} - \Theta_{n+1}) - (\Theta_{n+1} - \Theta_{n}) \right] + \mathcal{B}_{n} \left[ (\Theta_{n+1} - \Theta_{n}) - (\Theta_{n} - \Theta_{n-1}) \right] \right\} + w_{n+1} \delta y_{n+1}$[/center]
+
+Or, dividing throughout by $\delta \Theta_{n+1}$
+[center]$0 = - \mathcal{B}_{n+1} \left[ (\Theta_{n+2} - \Theta_{n+1}) - (\Theta_{n+1} - \Theta_{n}) \right] + 2 \mathcal{B}_{n} \left[ (\Theta_{n+1} - \Theta_{n}) - (\Theta_{n} - \Theta_{n-1}) \right] - \mathcal{B}_{n-1} \left[ (\Theta_{n} - \Theta_{n-1}) - (\Theta_{n-1} - \Theta_{n-2}) \right]$
+$+ \frac{w_{n} + w_{n+1}}{2} ds$[/center]
+
+where [u]$n$[/u] can take any real value whatever, so that there are no arbitrary constants in the solution of the difference equation.
+
+For [u]$n$[/u] $= -\frac{Q}{ds} - 1$ this becomes
+$0 = - \mathcal{B} (d\Theta_{-a} - d\Theta_{-a}) - \frac{1}{2} Y_{-a} . ds$
+
+For $n = -\frac{Q}{ds}$ it becomes
+$0 = - \mathcal{B} (d^{2}\Theta_{-a} - d^{2}\Theta_{-a}) + \mathcal{B} (d\Theta_{-a} - d\Theta_{-a}) + \frac{1}{2} u (ds)^{2}$
+
+[fig]Mathematical derivation with vertical columns of fractions and summation formulas[/fig]

@@ -1,0 +1,21 @@
+59.
+nex-branch may be erased from any evenly enclosed point outwards, so
+long as a node is not passed. But in applying this rule if any nex is within
+another which is itself, before or after the junction, within a third, the first
+must be [del]considered to be[/del] treated as within the third.
+
+9. Any graph may be iterated, its nexes remaining unbroken, provided
+the new embodiment is not outside the old one, and that no new circle is
+drawn; and if a graph is iterated, one embodiment may [del]be omitted[/del] struck
+out, with its nex branches to the nodes, provided the embodiment remaining
+is not within the one struck out. But no change in the enclosures of the
+nexes must be made, unless it is permitted by Rule 7. [ins]Any nex may be repeated
+not outside its first appearance, and the inner of two nex branches between nodes on one nex may be erased.[/ins]
+10. Any [del]encircled[/del] conjugation may be introduced under even enclosures
+or erased under odd enclosures.
+
+[fig]diagram showing three circles, two of which are inside a larger oval[/fig]
+
+[fig]diagram showing two overlapping ovals[/fig]
+
+[fig]diagram and logical notation: w joined by a line to l inside a circle, both inside a larger oval. Mathematical expressions: PI subscript 3 Sigma subscript 2 PI subscript 1 PI subscript 2 Sigma subscript 1 (w subscript 1 + l subscript 12) / w subscript 1 l subscript 12 + v subscript 2[/fig] [fig]diagram and logical notation: w subscript 1 joined to l inside a circle, both inside a larger oval, connected to a third element v subscript 3. Mathematical expressions: PI subscript 3 Sigma subscript 1 Sigma subscript 2 w line l subscript 12 Phi + v subscript 3[/fig]

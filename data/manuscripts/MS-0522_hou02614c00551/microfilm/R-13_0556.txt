@@ -1,0 +1,33 @@
+[pn]75[/pn]
+
+[marginalia]
+[del]a + x = x[/del]
+[/marginalia]
+
+Suppose $x = u + a \cdot \bar{u}$
+$x = u$
+$\bar{x} = \bar{u}$
+$x + a \cdot \bar{x} = u + a \cdot \bar{u} + a \cdot \bar{u}$
+$a + x = a + u$
+
+$a \cdot x = a \cdot u$
+$a \cdot \bar{x} = a \cdot \bar{u}$
+$x = x + a \cdot \bar{x}$
+
+[u]Problem 14) is remarkable.[/u]
+To find an expression for $x$ when
+$a + \bar{x} = x$
+$a \cdot \bar{x} = 0$
+$x \cdot (a + \bar{x}) = (x + \bar{x}) \cdot (a + \bar{x})$
+$x \cdot a + x \cdot \bar{x} = x \cdot a + \bar{x} \cdot a + x \cdot \bar{x} + \bar{x} \cdot \bar{x}$
+$0 = \bar{x} \cdot a + \bar{x}$
+$0 = \bar{x} \cdot (a + 1)$
+$0 = \bar{x}$
+$x = 1$
+
+$a = b$
+$a \cdot \bar{b} + b \cdot \bar{a} = 0$
+
+The Discussion of
+$a \cdot x \cdot y + b \cdot x \cdot \bar{y} + c \cdot \bar{x} \cdot y + d \cdot \bar{x} \cdot \bar{y} = 0$
+is highly interesting

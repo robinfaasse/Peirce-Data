@@ -1,0 +1,20 @@
+I now give a few of the expressions in full.
+
+$\tau'_{0} = 0 \quad \tau''_{0} = \tau_{0} \quad \pi'_{0} = \tau_{0}\pi_{0} \quad \pi''_{0} = 0$
+
+$\Delta\tau'_{0} = \tau_{0}\pi_{0}\tau_{1} \quad \Delta\tau''_{0} = 0 \quad \Delta\pi'_{0} = \tau_{0}\pi_{0}\tau_{1}\pi_{1} \quad \Delta\pi''_{0} = \tau_{0}\pi_{1}$
+
+$\Delta\tau'_{1} = \tau_{0}\pi_{0}(1+\tau_{1}\pi_{1})\tau_{2} \quad \Delta\tau''_{1} = \tau_{0}\pi_{1}\tau_{2}$
+
+$\Delta\pi'_{1} = \tau_{0}\pi_{0}(\tau_{1}+\tau_{2}+\tau_{1}\pi_{1}\tau_{2})\pi_{2} \quad \Delta\pi''_{1} = \tau_{0}([del]\pi_{1}[/del][ins]\pi_{1}[/ins]+\pi_{1}\tau_{2})\pi_{2}$
+
+$\Delta\tau'_{2} = \tau_{0}\pi_{0}(1+\tau_{1}\pi_{1}+\tau_{1}\pi_{2}+\tau_{2}\pi_{2}+\tau_{1}\pi_{1}\tau_{2}\pi_{2})\tau_{3}$
+
+$\Delta\tau''_{2} = \tau_{0}(\pi_{1}+\pi_{2}+[del]\pi_{1}\tau_{2}\pi_{2}[/del][ins]\pi_{1}\tau_{2}\pi_{2}[/ins])\tau_{3}$
+
+$\Delta\pi'_{2} = \tau_{0}\pi_{0}(\tau_{1}+\tau_{2}+\tau_{3}+\tau_{1}\pi_{1}\tau_{2}+\tau_{1}\pi_{1}\tau_{3}+\tau_{1}\pi_{2}\tau_{3}$
+$+\tau_{2}\pi_{2}\tau_{3}+\tau_{1}\pi_{1}\tau_{2}\pi_{2}\tau_{3})\pi_{3}$
+
+$\Delta\pi''_{2} = \tau_{0}([del]\pi_{1}[/del]1+\pi_{1}\tau_{2}+\pi_{1}\tau_{3}+\pi_{1}\tau_{2}\pi_{2}\tau_{3}+\pi_{2}\tau_{3})\pi_{3}$
+
+$\Delta\frac{\Delta\tau'_{2}}{\tau_{3}} = \tau_{0}\pi_{0}($

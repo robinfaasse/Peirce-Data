@@ -1,0 +1,32 @@
+[marginalia]
+9
+[/marginalia]
+
+have to be determined, begin with the formula
+[u]y = \alpha_{1} B + \alpha_{3} B^{3} + \alpha_{5} B^{5} + etc = \sum_{p=0}^{\infty} \alpha_{2p+1} B^{2p+1}[/u]
+We get successive powers of y by ordinary algebraic multiplication, care-
+fully attending to the general expressions, thus:
+[u]y^{2} = \alpha_{1}\alpha_{1} B^{2} + (\alpha_{1}\alpha_{3} + \alpha_{3}\alpha_{1}) B^{4} + (\alpha_{1}\alpha_{5} + \alpha_{3}\alpha_{3} + \alpha_{5}\alpha_{1}) B^{6} + etc = \sum_{r=0}^{\infty} \sum_{q=0}^{r} \alpha_{2q+1} \alpha_{2(r-q)+1} B^{2r+2}[/u]
+[u]y^{3} = \alpha_{1}\alpha_{1}\alpha_{1} B^{3} + (\alpha_{1}\alpha_{1}\alpha_{3} + \alpha_{1}\alpha_{3}\alpha_{1} + \alpha_{3}\alpha_{1}\alpha_{1}) B^{5} + (\alpha_{1}\alpha_{1}\alpha_{5} + \alpha_{1}\alpha_{3}\alpha_{3} + \alpha_{3}\alpha_{1}\alpha_{3} + \alpha_{3}\alpha_{3}\alpha_{1}[/u]
+[u]+ \alpha_{5}\alpha_{1}\alpha_{1}) B^{7} + etc = \sum_{r=0}^{\infty} \sum_{q=0}^{r} \sum_{p=0}^{q} \alpha_{2p+1} \alpha_{2(q-p)+1} \alpha_{2(r-q)+1} B^{2r+3}[/u]
+[u]y^{4} = \alpha_{1}\alpha_{1}\alpha_{1}\alpha_{1} B^{4} + (\alpha_{1}\alpha_{1}\alpha_{1}\alpha_{3} + \alpha_{1}\alpha_{1}\alpha_{3}\alpha_{1} + \alpha_{1}\alpha_{3}\alpha_{1}\alpha_{1} + \alpha_{3}\alpha_{1}\alpha_{1}\alpha_{1}) B^{6}[/u]
+[u]+ (\alpha_{1}\alpha_{1}\alpha_{1}\alpha_{5} + [del]\alpha_{1}\alpha_{1}\alpha_{3}\alpha_{3}[/del] \alpha_{1}\alpha_{1}\alpha_{3}\alpha_{3} + \alpha_{1}\alpha_{3}\alpha_{1}\alpha_{3} + \alpha_{3}\alpha_{1}\alpha_{1}\alpha_{3} + \alpha_{1}\alpha_{3}\alpha_{3}\alpha_{1} + \alpha_{3}\alpha_{1}\alpha_{3}\alpha_{1} + \alpha_{3}\alpha_{3}\alpha_{1}\alpha_{1}[/u]
+[u]+ \alpha_{1}\alpha_{1}\alpha_{5}\alpha_{1} + \alpha_{1}\alpha_{5}\alpha_{1}\alpha_{1} + \alpha_{5}\alpha_{1}\alpha_{1}\alpha_{1}) B^{8} + etc = \sum_{p=0}^{\infty} \sum_{q=0}^{p} \sum_{r=0}^{q} \sum_{s=0}^{r} \alpha_{2s+1} \alpha_{2(r-s)+1} \alpha_{2(q-r)+1} \alpha_{2(p-q)+1} B^{2p+4}[/u]
+
+The law of formation of the series is already evident. But we can express
+them more compendiously. Thus
+[u]y = \alpha_{1} B + \alpha_{3} B^{3} + \alpha_{5} B^{5} + \alpha_{7} B^{7} + \alpha_{9} B^{9} + etc[/u]
+[u]y^{2} = \alpha_{1}^{2} B^{2} + 2\alpha_{1}\alpha_{3} B^{4} + (2\alpha_{1}\alpha_{5} + \alpha_{3}^{2}) B^{6} + (2\alpha_{1}\alpha_{7} + 2\alpha_{3}\alpha_{5}) B^{8} + (2\alpha_{1}\alpha_{9} + 2\alpha_{3}\alpha_{7} + [del]\alpha_{5}^{2}[/del] \alpha_{5}^{2}) B^{10} + etc[/u]
+[u]y^{3} = \alpha_{1}^{3} B^{3} + 3\alpha_{1}^{2}\alpha_{3} B^{5} + (3\alpha_{1}^{2}\alpha_{5} + 3\alpha_{1}\alpha_{3}^{2}) B^{7} + (3\alpha_{1}^{2}\alpha_{7} + 6\alpha_{1}\alpha_{3}\alpha_{5} + \alpha_{3}^{3}) B^{9} + ([del]3\alpha_{1}^{2}\alpha_{9}[/del] + [del]6\alpha_{1}\alpha_{3}\alpha_{7}[/del][/u]
+[u]+ 3\alpha_{1}\alpha_{5}^{2} + 3\alpha_{3}^{2}\alpha_{5}[/u]
+[u]+ [del]etc[/del]) B^{11} + etc[/u]
+[u]y^{4} = \alpha_{1}^{4} B^{4} + 4\alpha_{1}^{3}\alpha_{3} B^{6} + (4\alpha_{1}^{3}\alpha_{5} + 6\alpha_{1}^{2}\alpha_{3}^{2}) B^{8} + (4\alpha_{1}^{3}\alpha_{7} + 12\alpha_{1}^{2}\alpha_{3}\alpha_{5} + 4\alpha_{1}\alpha_{3}^{3}) B^{10} + ([del]4\alpha_{1}^{3}\alpha_{9}[/del] + 12\alpha_{1}^{2}\alpha_{3}\alpha_{7} + [del]\alpha_{1}^{2}[/del][/u]
+[u]+ 6\alpha_{1}^{2}\alpha_{5}^{2} + 12\alpha_{1}\alpha_{3}^{2}\alpha_{5}) B^{12}[/u]
+[u]y^{5} = \alpha_{1}^{5} B^{5} + 5\alpha_{1}^{4}\alpha_{3} B^{7} + (5\alpha_{1}^{4}\alpha_{5} + 10\alpha_{1}^{3}\alpha_{3}^{2}) B^{9} + (5\alpha_{1}^{4}\alpha_{7} + 20\alpha_{1}^{3}\alpha_{3}\alpha_{5} + 10\alpha_{1}^{2}\alpha_{3}^{3}) B^{11} + (5\alpha_{1}^{4}\alpha_{9} + 20\alpha_{1}^{3}\alpha_{3}\alpha_{7}[/u]
+[u]+ 10\alpha_{1}^{3}\alpha_{5}^{2} + 30\alpha_{1}^{2}\alpha_{3}^{2}\alpha_{5}[/u]
+[u]+ 5\alpha_{1}\alpha_{3}^{4}[/u]
+
+It will be perceived that
+[u]y^{n} = \alpha_{1}^{n} B^{n} + n\alpha_{1}^{n-1}\alpha_{3} B^{n+2} + (n\alpha_{1}^{n-1}\alpha_{5} + \frac{n(n-1)}{2!} \alpha_{1}^{n-2}\alpha_{3}^{2}) B^{n+4}[/u]
+[u]+ (\frac{n}{1!} \alpha_{1}^{n-1}\alpha_{7} + 2 \frac{n(n-1)}{2!} \alpha_{1}^{n-2}\alpha_{3}\alpha_{5} + \frac{n(n-1)(n-2)}{3!} \alpha_{1}^{n-3}\alpha_{3}^{3}) B^{n+6}[/u]
+[u]+ (\frac{n}{1!} \alpha_{1}^{n-1}\alpha_{9} + 2 \frac{n(n-1)}{2!} \alpha_{1}^{n-2}\alpha_{3}\alpha_{7} + \frac{n(n-1)}{2} \alpha_{1}^{n-2}\alpha_{5}^{2} + 3 \frac{n(n-1)(n-2)}{3!} \alpha_{1}^{n-3}\alpha_{3}^{2}\alpha_{5} + \frac{n(n-1)(n-2)(n-3)}{4!} \alpha_{1}^{n-4}\alpha_{3}^{4}[/u]

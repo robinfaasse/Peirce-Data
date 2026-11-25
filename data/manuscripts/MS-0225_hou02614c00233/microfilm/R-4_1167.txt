@@ -1,0 +1,19 @@
+[marginalia]
+Given the hypotenuse and a leg. To find an angle.
+[u]1[sup]st[/sup] Method[/u] [del]log[/del] [ins]log[/ins] sin A = log a - log h
+[u]2[sup]d[/sup] Method[/u] log sin [frac]1[/frac] A = [frac]1[/frac] log (h-b) - [frac]1[/frac] log 2h.
+[u]3[sup]d[/sup] Method[/u] log sin (45° ± [frac]1[/frac] A) = [frac]1[/frac] log (h ± a) - [frac]1[/frac] log 2h
+[u]4[sup]th[/sup] Method[/u] log tan (45° ± [frac]1[/frac] A) = [frac]1[/frac] log (h ± a) - [frac]1[/frac] log (h ∓ a)
+[u]5[sup]th[/sup] Method[/u] log tan [frac]1[/frac] A = [frac]1[/frac] log (h-b) - [frac]1[/frac] log (h+b)
+[u]6[sup]th[/sup] Method[/u] log tan A = [frac]1[/frac] log (h+b) + [frac]1[/frac] log (h-b) - log b
+[u]Probable Error.[/u]
+[/marginalia]
+
+[fig]Table of probable errors for different methods of finding an angle[/fig]
+
+[marginalia]
+The third & fourth cannot be considered separate methods. For [del]any given[/del] [ins]when the[/ins] angle [ins]is given[/ins]
+[del]if[/del] the given leg is more than 45°, the 2[sup]d[/sup] & 5[sup]th[/sup] are the best. The [del]1[sup]st[/sup] & 6[sup]th[/sup][/del] [ins]1[sup]st[/sup] & 4[sup]th[/sup][/ins] having
+a slight advantage. Below 30° or 40° the sixth method is the best. For small angles of 10°
+or 15° the first is to be preferred because it is easier.
+[/marginalia]

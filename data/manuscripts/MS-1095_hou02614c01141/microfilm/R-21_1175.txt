@@ -1,0 +1,40 @@
+$$\frac{1}{F'_1 s + F'_2 q + q F'_3 s + s F'_4 q} = \frac{2}{s+q} + \frac{\sqrt{\phantom{xxxx}} - a}{\sqrt{\phantom{xxxx}} - b} f$$
+
+$$D_s^2 D_q^2 \chi$$
+
+$$D_s \chi = - D_s \chi^{-1} \chi^2$$
+
+$$(s+q)^2 = (s-q)^2 + 4sq$$
+
+[del]$(s-q)i =$[/del]
+
+$$\begin{aligned}
+r \cos \theta + r \sin \theta \, i &= s \\
+r \cos \theta - r \sin \theta \, i &= q
+\end{aligned}$$
+
+$$s-q = 2r \sin \theta \cdot i$$
+
+$$- \frac{(s-q)i}{2} = r \sin \theta = y$$
+
+$$y^2 = r^2 \sin^2 \theta$$
+
+$$r^2 - y^2 = r^2 \cos^2 \theta$$
+
+$$\sqrt{r^2 - y^2} = r \cos \theta = \frac{1}{2} s+q$$
+
+[del]$\chi = \frac{1}{r \cos \theta} + \sqrt{r^2 - y^2}$[/del]
+
+$$\chi = \frac{1}{\sqrt{r^2 - y^2}} + \frac{\sqrt{r^2 - y^2} + \frac{c^2}{4} - a}{\sqrt{r^2 + y^2} + \frac{c^2}{4} - b} f$$
+
+[del]$\mathcal{A}$[/del]
+
+$\mathcal{D}$ refers to $r$ $y$ as ind var
+
+$D$  "  " $x$ $y$ as in var
+
+$$D_x = \frac{dr}{dx} D_r = \frac{\sqrt{r^2-y^2}}{r} D_r$$
+
+$$D_y = \frac{dr}{dy} D_r + \mathcal{D}_y = \frac{y}{r} D_r + \mathcal{D}_y$$
+
+$$r = \sqrt{x^2+y^2} \quad D_x r = [del]\chi[/del] \frac{\sqrt{r^2-y^2}}{r} \quad D_y r = \frac{y}{r}$$

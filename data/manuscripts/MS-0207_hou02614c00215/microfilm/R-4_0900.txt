@@ -1,0 +1,24 @@
+[del]rying 2. We multiply 7 by 3 and carry 2 and so get 3 for the next
+preceeding figure. We thus quickly find[/del]
+[u]1.0344827586206896551724137931 = [del]1[/del] [ins]30[/ins]/29[/u]
+If the number does not end with 9, we have only to multiply numerator
+and denominator by the proper power of 2 or 5 till the denominator ends
+either with 1, 3, 7, or 9 and then multiply both terms by 10 minus the
+[del]last figure of the cube[/del] [ins]last figure of the denominator[/ins]. If we can readily make the
+denominator end with 99 or 999, so much the better. Thus, to get 1/551
+we observe that this is 49/26999, so that opening Crelle's Rechentafel to mul-
+tiply 27 we readily find the last figures to be
+083484573502722323049. It would take but a
+few minutes to get the whole 252 figures of the
+circulating decimal.
+
+We may equally proceed backward.
+Thus to find 1/7 = 7/49 we write down
+7 we write under it the next lower multiple
+of 5, i.e. 5. The difference 2 is written below and to that
+is affixed 1, because 5 is 1 x 5. Under the 21 so obtained
+we write 20, the next lower multiple of 5. The difference 1 is written
+below and to it is attached 4 because 20 = 4 x 5. So to get 7 figures of
+1/29 We find 1/29 = .03448275+ almost instantly.
+
+[fig]Handwritten mathematical calculations and divisions[/fig]

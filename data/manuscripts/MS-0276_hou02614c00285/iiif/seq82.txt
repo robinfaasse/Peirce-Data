@@ -1,0 +1,30 @@
+[fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig]
+                                  [ins]pr[/ins]
+                                 (p + q) (q + r) = [del]pp[/del] [ins]pq[/ins] + pr + q² + qr
+                                 - q(p + q + r) = - pq [del]- q² - qr[/del]
+                                                  ----------------------
+                                                   pr
+
+(B - A) (D - C) = BD + AC - AD - BC
+(C - B) (D - A) = -BD - CA
+[del](A - B)[/del] (C - A) (D - B)
+
+(B - A) (D - C) + (C - B) (A - D)
+  = [ ( [del]C[/del] [ins]B[/ins] - A ) (D - B)
+
++ BD + AC - AD - BC
++ BD + CA              -BA - CD
+          -AD + CB + AB + CD
+
+                                    CD + BA
+                                    [del]CD[/del] + AB
+
+                                    cos(B + C)
+                                  = cosB cosC - sinB sinC
+
+cosb = cos a cos p + sin a sin p cos B [fig]figure[/fig]
+cos e = cos d cos p + sin d sin p cos C
+
+cos q = cos a cos d + sin a sin d (cos B cos C - sin B sin C)
+
+[fig]figure[/fig]

@@ -1,0 +1,11 @@
+$$A_{11} \left\{ h_1 \alpha_1^4 + \left( -\alpha_1^2 + \frac{\varepsilon_1}{\mu_1} \right) \left( -l_1 \alpha_1^2 + g \right) \right\} - \frac{\varepsilon_3}{\mu_1} \left( -l_2 \alpha_1^2 + g \right) A_{21} = 0$$
+
+$$A_{21} \left\{ -h_2 \alpha_1^4 + \left( -\alpha_1^2 + \frac{\varepsilon_2}{\mu_2} \right) \left( -l_2 \alpha_1^2 + g \right) \right\} - \frac{\varepsilon_3}{\mu_2} \left( -l_1 \alpha_1^2 + g \right) A_{11} = 0$$
+
+$$h_1 h_2 \alpha_1^8 = h_1 \alpha_1^4 \left( -\alpha_1^2 + \frac{\varepsilon_2}{\mu_2} \right) \left( -l_2 \alpha_1^2 + g \right) - h_2 \alpha_1^4 \left( -\alpha_1^2 + \frac{\varepsilon_1}{\mu_1} \right) \left( -l_1 \alpha_1^2 + g \right)$$
+
+$$+ \frac{\varepsilon_3^2}{\mu_1 \mu_2} \left( -l_1 \alpha_1^2 + g \right) \left( -l_2 \alpha_1^2 + g \right) [del]\rightleftharpoons[/del] + \begin{aligned} \left( -\alpha_1^2 + \frac{\varepsilon_1}{\mu_1} \right) \left( -l_1 \alpha_1^2 + g \right) \\ \left( -\alpha_1^2 + \frac{\varepsilon_2}{\mu_2} \right) \left( -l_2 \alpha_1^2 + g \right) \end{aligned}$$
+
+$$\left( h_1 h_2 - h_1 l_2 - h_2 l_1 + [del]\frac{\varepsilon_3^2}{\mu_1 \mu_2}[/del] l_1 l_2 \right) \alpha_1^8$$
+
+$$+ \left( + h_1 g + h_2 l_2 \frac{\varepsilon_2}{\mu_2} + h_2 g + h_2 l_1 \frac{\varepsilon_1}{\mu_1} [del]- \frac{\varepsilon_3^2}{\mu_1 \mu_2} (l_1 + l_2) g[/del] \begin{aligned} - (l_1 + l_2) g - 2 l_1 l_2 \end{aligned} \right) \alpha_1^6$$

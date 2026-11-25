@@ -1,0 +1,56 @@
+$$\cos\alpha + \cos\beta\cos\gamma = \sin\beta\sin\gamma\cos a$$
+$$\cos\beta + \cos\gamma\cos\alpha = \sin\gamma\sin\alpha\cos b$$
+$$(\cos\alpha + \cos\beta)(1 + \cos\gamma) = \sin\gamma(\sin\beta\cos a + \sin\alpha\cos b)$$
+
+$$\cos\alpha = \frac{\alpha+\beta}{2} + \frac{\alpha-\beta}{2}$$
+$$\beta = \frac{\alpha+\beta}{2} - \frac{\alpha-\beta}{2}$$
+
+$$\cos\gamma = 2\cos^2\frac{\gamma}{2} - 1$$
+
+$$\cos\alpha + \cos\beta = 2\cos\frac{\alpha+\beta}{2}\cos\frac{\alpha-\beta}{2}$$
+
+$$2\cos\frac{\alpha+\beta}{2}\cos\frac{\alpha-\beta}{2}\cdot 2\cos^2\frac{\gamma}{2} = 2\sin\frac{\gamma}{2}\cos\frac{\gamma}{2}(\sin\beta\cos a + \sin\alpha\cos b)$$
+
+$$2\cos\frac{\alpha+\beta}{2}\cos\frac{\alpha-\beta}{2}\cos\frac{\gamma}{2} = \sin\frac{\gamma}{2}(\sin\beta\cos a + \sin\alpha\cos b)$$
+
+$$c = 4\frac{\cos s\cos d}{\cos^2 d - \cos^2 s}$$
+
+[fig]Right triangle with angles alpha and beta[/fig]
+
+[fig]Oblique triangle[/fig]
+
+$$= 1 - \cos^2 s\cos^2 d$$
+$$= \cos^2 d - \cos^2 s\cos^2 d - \cos^2 s$$
+$$= \frac{\cos s\cos d}{\cos^2 d - \cos^2 s} = \frac{1}{\sec s\sec d}$$
+
+---
+
+[fig]Four narrow triangles[/fig]
+
+[fig]Triangle with vertices A, M, B[/fig]
+
+[fig]Triangle with vertices A, C[/fig]
+
+$$\cot\frac{\gamma}{2} = \frac{\sin\alpha}{\sin a}$$
+
+$$\frac{\sin(a+b)}{2\cos\frac{\alpha+\beta}{2}\cos\frac{\alpha-\beta}{2}}$$
+
+$$\cot\frac{\gamma}{2} = \frac{2}{\gamma}$$
+
+$$\frac{b}{c} = \frac{\sin}{\sin}$$
+
+$$\frac{2}{c} = \frac{\sin\alpha\sin\beta}{\sin a\sin b}$$
+
+$$\frac{\sin(a+b)}{2\cos\frac{\alpha+\beta}{2}\cos\frac{\alpha-\beta}{2}}$$
+
+$$c = 4$$
+
+[del]$$c = \frac{4}{\cot\alpha\cot\beta}$$[/del]
+
+$$(\cos p\cos q - \sin p\sin q)(\cos p\cos q + \sin p\sin q)$$
+
+$$\frac{\sin p\sin q}{\sin p\sin q} = \frac{\cos p\cos q}{\sin p\sin q} - 1$$
+
+$$\sin p\sin\alpha = \sin\frac{\alpha+\beta}{2}\cos\frac{\alpha-\beta}{2} \mp \cos\frac{\alpha+\beta}{2}\sin\frac{\alpha-\beta}{2}$$
+
+$$= \sin\frac{\alpha+\beta}{2}\cos\frac{\alpha-\beta}{2}[1 - \cot\frac{\alpha+\beta}{2}\tan\frac{\alpha-\beta}{2}]$$

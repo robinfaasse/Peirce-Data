@@ -1,0 +1,11 @@
+[u]Fundamental Formulae of Converse[/u]
+
+$\breve{\breve{a}} = a$          $(a \prec b) = (\breve{a} \prec \breve{b})$
+
+$\breve{ab} = \breve{b}\breve{a}$          $\breve{a \dagger b} = \breve{b} \dagger \breve{a}$
+
+$\begin{cases} (\breve{l}\bar{s} \prec \bar{b}) = (lb \prec s) = (\bar{s}\breve{b} \prec \breve{l}) \\ (\bar{b} \prec \breve{s} \dagger \bar{l}) = (l \prec s \dagger b) = (\bar{s} \prec \bar{l} \dagger \breve{b}) \end{cases}$
+
+$(xy \prec z) = (y\bar{\breve{z}} \prec \bar{\breve{x}}) = (\bar{\breve{z}}x \prec \bar{\breve{y}})$
+
+$(x \prec y \dagger z) = (\bar{\breve{y}} \prec z \dagger \bar{\breve{x}})$

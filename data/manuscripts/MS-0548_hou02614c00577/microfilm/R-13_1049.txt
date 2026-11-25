@@ -1,0 +1,57 @@
+[u]Relations of Combinations of four terms[/u]
+[u]or rather and[/u]
+
+[fig]Diagram of relations[/fig]
+[del]\((a+b)+c)\)[/del] [del]\(\delta\)[/del] [del]\(\prec\)[/del] [del]\(a+([/del]b+c[del])\)[/del] [del]\(\prec\)[/del] [del]\(a+b\)[/del]+c[del]\(+\delta\)[/del]
+[del]\((a+b)\)[/del](c+[del]\(\delta\)[/del]) [del]\(\prec\)[/del] [del]\(a+b(c+\delta)\)[/del] [del]\(\prec\)[/del] [del]\(a+b\)[/del]c+[del]\(\delta\)[/del]
+[del]\((a+b)c+\delta\)[/del] [del]\(\prec\)[/del] [del]\((a+b)c+\delta\)[/del]
+
+\((a+b)c\delta \prec (a+bc)d \prec a+bcd\)
+
+\(ab(c+\delta) \prec a(bc+d) \prec abc+\delta\)
+
+\(a(b+c+\delta) \prec a(b+d)+\delta \prec ab+c+\delta\)
+
+\(a(b+c)d \prec (ab+c)d \prec ab+cd\)
+\(a(b+cd) \prec\)
+
+[u]Five terms[/u]
+
+\((a+b+c+d)e\)
+\(\prec a+(b+c+d)e\)
+\(\prec a+b+(c+d)e\)
+\(\prec a+b+c+de\)
+
+[del]\((a+b)cde\)[/del]
+[del]\(a+bcde\)[/del]
+
+[del]\((a+b+c)de\)[/del]
+[del]\(a+(b+c)de\)[/del]
+[del]\(a+b+cde\)[/del]
+
+\((a+b+c)(d+e)\)
+\(\prec a+(b+c)(d+e)\)
+\(\prec a+b+c(d+e)\)
+
+\((a+b+c)d,e\)
+[del]\(a+(b+c)d,e\)[/del]
+\([a+(b+c)d]e\)
+
+\((a+b+cd)e\)
+[del]\(a+(b+cd)e\)[/del]
+\(a+(b+cd)e\)
+\(a+b+cde\)
+
+\((a+b)c\delta e\)
+\([a+bc]\delta e\)
+
+\((a+b+c)(d+e)\)
+\(\prec (a+b+c)d+e\)
+\(\prec a+(b+c)d+e\)
+\(\prec a+b+cd+e\)
+
+[fig]Hexagonal diagram[/fig]
+
+[fig]Diamond diagram[/fig]
+
+\(a+(b+c)de\)

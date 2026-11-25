@@ -1,0 +1,18 @@
+$$dx = dl \sin \theta \quad dy = dl \cos \theta$$
+$$x = \int dl \sin \theta \quad y = \int_{0}^{l} dl \cos \theta$$
+$$D_{t}x = \int dl \cos \theta \cdot D_{t}\theta \quad D_{t}y = - \int dl \sin \theta \cdot D_{t}\theta$$
+
+$$U = -g \int_{0}^{L} dl \cdot k \int_{0}^{l} dl \cos \theta + \frac{1}{2} \int_{0}^{L} dl \cdot \varepsilon (D_{l}\theta)^{2}$$
+
+Suppose that at any point $D_{l}\theta$ becomes $(1 + \delta) D_{l}\theta$ in consequence of $\theta$ becoming $\theta + \delta\theta$ and all values therefrom [del]$\delta\theta$[/del] being increased to $L$
+
+$dl \cos \theta$ will become $dl \cos \theta - dl \sin \theta \cdot \delta\theta$
+
+and for any point beyond $l_{1}$, the point in question
+$\int_{0}^{l} dl \cos \theta$ will be increased by $- \int_{l_{1}}^{l} dl \sin \theta \cdot \delta\theta$
+
+and the first term of $U$ will be increased by
+$$g \int_{l_{1}}^{L} dl \cdot k \int_{l_{1}}^{l} dl \cos \theta \cdot \delta\theta$$
+
+The second term will be changed to
+$$\frac{1}{2} \int_{0}^{L} dl \cdot \varepsilon (D_{l}\theta)^{2} + [del]\delta\theta[/del] \cdot \varepsilon_{1} \delta\theta$$

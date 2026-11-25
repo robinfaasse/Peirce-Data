@@ -1,0 +1,18 @@
+[fig]Grid of faint pencil marks[/fig]
+[fig]Two circles and a line[/fig]
+
+Every [del]element[/del] [ins]sequence[/ins] must differ from every
+unequivalent element in at least
+two respects
+
+[fig]Diagram showing connections between columns of binary numbers[/fig]
+0 1 1 1 0 1 0
+1 1 0 0 1 1 0
+1 0 1 1 1 0 0
+1 1 0 1 1 0 0
+
+[del]1[/del] [del]1[/del] 0 1 1 0  0 1 1 0 0 1 1 0
+[del]1[/del] [del]0[/del] 1 0 1 0  1 0 1 0 1 0 1 0
+[del]1[/del] [del]1[/del] 1 1 0 0  1 1 0 0 1 1 0 0
+[del]1[/del] [del]1[/del] 1 1 0 0  1 1 1 1 0 0 0 0
+[u]V[/u] [u]H[/u] [u]A[/u]

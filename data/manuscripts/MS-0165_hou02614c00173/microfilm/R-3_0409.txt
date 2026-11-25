@@ -1,0 +1,29 @@
+[pn]162[/pn]
+
+71. (By Leonardo Fibonacci, A.D. 1202) A took from B [del]7[/del] gold
+pieces and then had 5 times as many as B; but had
+he, instead, given B 5 gold pieces, B would have had 7
+times as many as he.
+
+Let [u]a[/u] be the number A had,
+[u]b[/u] " " " B " .
+
+Then, the equations are,
+[u]a[/u] + 7 = 5([u]b[/u] - 7),
+7([u]a[/u] - 5) = [u]b[/u] + 5.
+
+Solving both for [u]a[/u], we get,
+[u]a[/u] = 5[u]b[/u] - 35 - 7 = 5[u]b[/u] - 42
+[u]a[/u] = [fraction]1/7[/fraction][u]b[/u] + [fraction]5/7[/fraction] + 5 = [fraction]1/7[/fraction][u]b[/u] + [fraction]40/7[/fraction]
+
+Putting the two values equal,
+5[u]b[/u] - 42 = [fraction]1/7[/fraction][u]b[/u] + [fraction]40/7[/fraction].
+
+This gives,
+[u]b[/u] = [fraction][fraction]40/7[/fraction] - (-42)/5 - [fraction]1/7[/fraction][/fraction] = [fraction]40 + 294/35 - 1[/fraction] = [fraction]334/34[/fraction] = [fraction]167/17[/fraction].
+
+Substituting this in the two values of [u]a[/u],
+[u]a[/u] = [fraction]835/17[/fraction] - [del][fraction]42/1[/fraction][/del] [ins]42[/ins] = [fraction]121/17[/fraction],
+[u]a[/u] = [fraction]167/7·17[/fraction] + [del][fraction]40/7[/fraction][/del] [ins][fraction]40/7[/fraction][/ins] = [fraction]121/17[/fraction].
+
+[fig]Scratch calculations: 34, 680, 167, 7)847, 121, 294, 42, 714, 357[/fig]

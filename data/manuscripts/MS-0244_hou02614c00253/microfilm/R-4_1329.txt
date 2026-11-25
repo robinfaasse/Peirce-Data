@@ -1,0 +1,30 @@
+(9) $\alpha^{2} = \left(\frac{c+b}{2e}\right)^{2} + \left(\frac{c-b}{2e}\right)^{2} + \frac{a}{e} - \frac{c^{2}-b^{2}}{2e^{2}}\sqrt{1+\frac{4ae}{(c-b)^{2}}}$
+$= \frac{c^{2}+b^{2}}{2e^{2}} + \frac{a}{e} - \frac{c^{2}-b^{2}}{2e^{2}}\sqrt{1+\frac{4ae}{(c-b)^{2}}}$
+
+[marginalia](10)[/marginalia] $\mu = \frac{\alpha}{\beta} = \frac{\alpha^{2}}{\alpha\beta} = \frac{c^{2}+b^{2}+2ae}{2(be-ae)} - \frac{c^{2}-b^{2}}{2(be-ae)}\sqrt{1+\frac{4ae}{(c-b)^{2}}}$
+
+So that the equation (3) is
+
+(11) $(\phi^{n+1} + \frac{c}{e})(\phi^{n} + \frac{c}{e}) - (\alpha+\beta)(\phi^{n} + \frac{c}{e}) + \alpha\beta = 0$
+
+Substituting (4)
+
+(12) $\frac{\beta^{2} + \mathcal{C}\mu^{2}\mu^{n}}{1+\mathcal{C}\mu^{n}} - (\alpha+\beta)\frac{(1+\mathcal{C}\mu\mu^{n})}{1+\mathcal{C}\mu^{n}} + \alpha\beta = 0$
+
+Multiplying by $1+\mathcal{C}\mu^{n}$
+
+(13) ([del]1 +[/del] [ins]$\beta^{2} - \beta^{2} - \alpha\beta + \alpha\beta$[/ins] [del]$\beta + \alpha\beta$[/del]) + $\mathcal{C}\mu^{n}$ ([del]$\frac{\alpha^{2}}{\beta^{2}}$[/del] [ins]$\beta^{2}$[/ins] - $\beta\frac{\alpha}{\beta}(\alpha+\beta) + \alpha\beta$) = 0
+
+Therefore equations (3) and (4) agree
+
+To determine $\mathcal{C}$, put $n=0$ in (4). Then
+
+(14) $\phi^{0} + \frac{c}{e} = \frac{\beta + \mathcal{C}\alpha}{1+\mathcal{C}}$
+
+or
+
+(15) $\mathcal{C} = - \frac{\phi^{0} + \frac{c}{e} - \beta}{\phi^{0} + \frac{c}{e} - \alpha} = \frac{\beta-\alpha}{\phi^{0} + \frac{c}{e} - \alpha} - 1$
+
+so that (4) becomes
+
+(16) $\phi^{n} = - \frac{c}{e} + \beta \frac{1 + (\frac{\alpha}{\beta} \cdot \frac{(\beta-\alpha)}{\phi^{0}+\frac{c}{e}-\alpha} - \frac{\alpha}{\beta})\mu^{n}}{1 + (\frac{\beta-\alpha}{\phi^{0}+\frac{c}{e}-\alpha} - 1)\mu^{n}}$

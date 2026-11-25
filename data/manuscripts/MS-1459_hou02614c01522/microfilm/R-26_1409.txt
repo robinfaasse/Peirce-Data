@@ -1,0 +1,181 @@
+If a pack is dealt into N piles, the place of each card
+is multiplied by $\frac{1}{N}$ (mod M).
+[ins]of M-1 cards[/ins]
+
+If a pack is dealt into N piles and the last card is
+made the last card of a new pack, the last card of a
+second pack being substituted for it, and so on until
+the packs are interchanged
+
+the $(-1)^a$ card is the $(-1)^a$ of the new pack
+the $(-\frac{1}{N})^a$ card is the $(-2)^a$ of the new pack
+the $(-\frac{1}{N})^2$ th card is the $(-3)^a$ of the new pack
+$\overline{\text{the } (-\frac{1}{N})^{M-1} \text{ th card is the } \frac{(1-M)^a}{= 1^a} \text{ of the new pack}}$
+
+If the order of the pack dealt out is first reversed
+while the other cards are [del]taken up in their[/del]
+[del]order[/del], and the order of the pack finally remaining
+in hand is reversed, [del]then[/del] the [del]new[/del] place of card of
+pack in hand is (mod M) $N$ [del]if (mod M-1) N[/del]
+
+[marginalia]
+M a prime
+$1 \times 2 = 2$
+$2 \times 2 = 4$
+$3 \times 2 = 6$
+$4 \times 2 = 8$
+$5 \times 2 = 10$
+$6 \times 2 = 12$
+$7 \times 2 = 14$
+$8 \times 2 = 16$
+$9 \times 2 = 18$
+$10 \times 2 = 20$
+$11 \times 2 = 22$
+$12 \times 2 = 24$
+$13 \times 2 = 26$
+$14 \times 2 = 28$
+$15 \times 2 = 30$
+$16 \times 2 = 32$
+$17 \times 2 = 34$
+$18 \times 2 = 36$
+$19 \times 2 = 38$
+$20 \times 2 = 40$
+$21 \times 2 = 42$
+$22 \times 2 = 44$
+$23 \times 2 = 46$
+$24 \times 2 = 48$
+$25 \times 2 = 50$
+$26 \times 2 = 52$
+$27 \times 2 = 54$
+$28 \times 2 = 56$
+$29 \times 2 = 58$
+$30 \times 2 = 60$
+$31 \times 2 = 62$
+$32 \times 2 = 64$
+$33 \times 2 = 66$
+$34 \times 2 = 68$
+$35 \times 2 = 70$
+$36 \times 2 = 72$
+
+$1 \times 4 = 4$
+$2 \times 4 = 8$
+$3 \times 4 = 12$
+$4 \times 4 = 16$
+$5 \times 4 = 20$
+$6 \times 4 = 24$
+$7 \times 4 = 28$
+$8 \times 4 = 32$
+$9 \times 4 = 36$
+$10 \times 4 = 40$
+$11 \times 4 = 44$
+$12 \times 4 = 48$
+$13 \times 4 = 52$
+$14 \times 4 = 56$
+$15 \times 4 = 60$
+$16 \times 4 = 64$
+$17 \times 4 = 68$
+$18 \times 4 = 72$
+
+$1 \times 8 = 8$
+$2 \times 8 = 16$
+$3 \times 8 = 24$
+$4 \times 8 = 32$
+$5 \times 8 = 40$
+$6 \times 8 = 48$
+$7 \times 8 = 56$
+$8 \times 8 = 64$
+$9 \times 8 = 72$
+
+$1 \times 5 = 5$
+$2 \times 5 = 10$
+$3 \times 5 = 15$
+$4 \times 5 = 20$
+$5 \times 5 = 25$
+$6 \times 5 = 30$
+$7 \times 5 = 35$
+$8 \times 5 = 40$
+$9 \times 5 = 45$
+$10 \times 5 = 50$
+$11 \times 5 = 55$
+$12 \times 5 = 60$
+$13 \times 5 = 65$
+$14 \times 5 = 70$
+
+$1 \times 3 = 3$
+$2 \times 3 = 6$
+$3 \times 3 = 9$
+$4 \times 3 = 12$
+$5 \times 3 = 15$
+$6 \times 3 = 18$
+$7 \times 3 = 21$
+$8 \times 3 = 24$
+$9 \times 3 = 27$
+$10 \times 3 = 30$
+$11 \times 3 = 33$
+$12 \times 3 = 36$
+$13 \times 3 = 39$
+$14 \times 3 = 42$
+$15 \times 3 = 45$
+$16 \times 3 = 48$
+$17 \times 3 = 51$
+$18 \times 3 = 54$
+$19 \times 3 = 57$
+$20 \times 3 = 60$
+$21 \times 3 = 63$
+$22 \times 3 = 66$
+$23 \times 3 = 69$
+$24 \times 3 = 72$
+
+$1 \times 9 = 9$
+$2 \times 9 = 18$
+$3 \times 9 = 27$
+$4 \times 9 = 36$
+$5 \times 9 = 45$
+$6 \times 9 = 54$
+$7 \times 9 = 63$
+$8 \times 9 = 72$
+
+$1 \times 7 = 7$
+$2 \times 7 = 14$
+$3 \times 7 = 21$
+$4 \times 7 = 28$
+$5 \times 7 = 35$
+$6 \times 7 = 42$
+$7 \times 7 = 49$
+$8 \times 7 = 56$
+$9 \times 7 = 63$
+$10 \times 7 = 70$
+
+$1 \times 6 = 6$
+$2 \times 6 = 12$
+$3 \times 6 = 18$
+$4 \times 6 = 24$
+$5 \times 6 = 30$
+$6 \times 6 = 36$
+$7 \times 6 = 42$
+$8 \times 6 = 48$
+$9 \times 6 = 54$
+$10 \times 6 = 60$
+$11 \times 6 = 66$
+$12 \times 6 = 72$
+
+$7 \times 220 = 1540$
+$3 \times 209 = 627$
+$343$
+$343$
+
+$2 \times 567 = 1134$
+$\frac{8}{512}$
+$508$
+
+$99 \times 10 = 990$
+$72 \times 9 = 648$
+
+$66 \times 11 = 726$
+$9 \times 121 = 1089$
+$1331$
+
+$144 \times 12 = 1728$
+$125 \times 5 = 625$
+$78 \times 7 = 546$
+[/marginalia]

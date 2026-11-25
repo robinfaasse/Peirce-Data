@@ -1,0 +1,21 @@
+[pn]1[/pn]
+$O = (1-p)A + q B + (p-q)C$
+$A' = (1-2p)A + 2q B + 2(p-q)C$
+$A'-B = (1-2p)A + (2q-1)B + 2(p-q)C$
+$F = \frac{2p-1}{2(p-q)}A + \frac{1-2q}{2(p-q)}B$
+$B' = 2(1-p)A + (2q-1)B + 2(p-q)C$
+$A'-C = (1-2p)A + 2q B + (2p-2q-1)C$
+$E = \frac{2p-1}{2q}A + \frac{1-2p-2q}{2q}C$
+
+[fig]Circle with inscribed triangle and lines radiating from center[/fig]
+
+$O = (\frac{1}{3}+q-r)A + (\frac{1}{3}+r-p)B + (\frac{1}{3}+p-q)C$
+$A' = [del]\frac{A+B}{2} = (\frac{1}{3}+q-2r-\frac{1}{3})[/del] + 2$
+$= 2(q-r-\frac{1}{6})A + 2(\frac{1}{3}+r-p)B + 2(\frac{1}{3}+p-q)C$
+$A'-B = 2(q-r-\frac{1}{6})A - 2(r+p+\frac{1}{6})B + 2(\frac{1}{3}+p-q)C$
+$F = -\frac{q-r-\frac{1}{6}}{p-q+\frac{1}{3}}A + \frac{r+p+\frac{1}{6}}{p-q+\frac{1}{3}}B$
+$= \frac{r-q+\frac{1}{6}}{p-q+\frac{1}{3}}A + \frac{p-r+\frac{1}{6}}{p-q+\frac{1}{3}}B$
+
+$E = \frac{r-q+\frac{1}{6}}{r-p+\frac{1}{3}}A + \frac{q-p+\frac{1}{6}}{r-p+\frac{1}{3}}C$
+$D = \frac{p-r+\frac{1}{6}}{q-r+\frac{1}{3}}B + \frac{q-p+\frac{1}{6}}{q-r+\frac{1}{3}}C$
+$D+E = \frac{1}{2}\frac{r-q+\frac{1}{6}}{r-p+\frac{1}{3}}A + \frac{1}{2}\frac{p-r+\frac{1}{6}}{q-r+\frac{1}{3}}B + \frac{(q-p+\frac{1}{6})(q-p+\frac{5}{6})}{(r-p+\frac{1}{3})(q-r+\frac{1}{3})}C$

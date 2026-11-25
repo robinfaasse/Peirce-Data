@@ -1,0 +1,23 @@
+Let $U_{pqr}$ mean $p$ urges $q$ to shoot $r$,
+and let $V_{pqr}$ mean $p$ abuses $q$ to $r$.
+
+Then, the premises are
+$$\Pi_i \Sigma_j \Pi_k \ \bar{V}_{ijk} \ \psi \ U_{ijk}$$
+$$\Pi_x \Sigma_y \Pi_z \ \bar{U}_{yzx} \ \psi \ V_{zxy}$$
+We can write the $\Pi$s and $\Sigma$s so as to give either
+$$\Pi_i \Sigma_j \Pi_x \Sigma_y \Pi_z \Pi_k \ (\bar{U}_{yzx} \ \psi \ V_{zxy}) \cdot (\bar{V}_{ijk} \ \psi \ U_{ijk}),$$
+or
+$$\Pi_x \Sigma_y \Pi_i \Sigma_j \Pi_z \Pi_k \ (\bar{V}_{ijk} \ \psi \ U_{ijk}) \cdot (\bar{U}_{yzx} \ \psi \ V_{zxy}).$$
+In the former proposition, we identify $x$ with $j$, $k$ with $y$, and $z$ with $i$
+and get
+$$\Pi_i \Sigma_j \Sigma_y \ (\bar{U}_{yij} \ \psi \ V_{ijy}) \cdot (\bar{V}_{ijy} \ \psi \ U_{ijy})$$
+[del]or
+$$\Pi_i \Sigma_j \Sigma_y \ \bar{U}_{yij} \ \psi \ U_{ijy}$$[/del]
+$$\Pi_i \Sigma_j \Sigma_y \ \bar{U}_{yij} \cdot \bar{V}_{ijy} \ \psi \ U_{ijy} \cdot V_{ijy}$$
+That is everybody to whom a person whom he urges to shoot
+another abuses that other urges a person whom he
+abuses to shoot [del]the[/del] [ins]a[/ins] person to whom he abuses him.
+[ins]Dropping the $V$s this gives everybody who[/ins]
+
+The latter of the two ways of uniting the premises gives
+$$\Pi_x \Sigma_y \Sigma_j \ (\bar{V}_{yjx} \ \psi \ U_{yjx}) \cdot (\bar{U}_{yjx} \ \psi \ V_{jxy})$$

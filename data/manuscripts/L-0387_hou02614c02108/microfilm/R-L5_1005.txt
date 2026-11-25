@@ -1,0 +1,43 @@
+2)
+
+Equations (20) are tough even for the powerful notation. There is no pentagrammatic method for us.
+
+Well. I will first show that
+[del]H[/del] [ins]$(a \dagger 1)\infty \prec (a \dagger 4 a) \prec (a \dagger 1) \top$[/ins]
+
+This is strictly speaking not true. It is necessary [del]to[/del] [ins]assume that there are at least two individuals in the universe.[/ins]
+
+To be quite accurate to [del]prove[/del] [ins]state[/ins]
+$\infty \top \cdot (a \dagger 1)\infty \cdot (a \dagger 4 a) \prec (a \dagger 1) \top$
+
+Without that assumption, a conclusion [del]appears[/del] [ins]results[/ins], but it cannot be expressed in the form of algebra preferred by Schröder, except by writing
+$(a \dagger 1) \top + (0 \dagger 1)$
+
+We start with
+$[(a \dagger 1)\infty]_{il} = \Sigma_q \Pi_u (a_{iu} + l_{uq})$. We square this
+$\Sigma_q \Pi_u (a_{iu} + l_{uq}) (a_{iv} + l_{vq}) =$
+$\Sigma_q \Pi_u \Pi_v (a_{iu} + a_{iv} + l_{uq} l_{vq})$
+$\prec \Pi_u \Pi_v (a_{iu} + a_{iv} + l_{uv})$
+
+This may be expressed in the other algebra
+$(a \dagger 1)\infty \prec \{(a \dagger 1) + a\} \dagger 0$. This is the first step.
+In ordinary language whatever loves [del]everybody[/del] [ins]somebody[/ins] except one individual stands to every individual in the relation either of loving it or of loving everybody else.
+
+The [del]converse[/del] [ins]least[/ins] is easy enough. Since $\top \prec \infty$, it follows that $(a \dagger 1) \top \prec (a \dagger 1)\infty$
+
+That $(a \dagger 1) \top \prec (a \dagger 4 a)$ is merely a special case of the formula
+$l \dagger s \prec (l \dagger 0) + \bar{l} s$
+whoever loves everybody but servants either loves everybody or fails to love some servant.
+$\Pi_j (l_{ij} + s_{jk}) \prec \Pi_j l_{ij} + \Sigma_j \bar{l}_{ij} s_{jk}$
+This is so because [del]between them[/del] we have $\Pi_j (l_{ij} + \bar{l}_{ij} s_{jk})$.
+
+Hence putting $l = a$ $s = 1$
+[del]$l \dagger 1 \prec (l \dagger 0) + \bar{l}$[/del]
+$a \dagger 1 \prec (a \dagger 0) + \bar{a} 1$
+[del]$\prec a \dagger 0$[/del]
+
+$(a \dagger 1) \top \prec [del](a \dagger 0) \top[/del]$
+$\{(a \dagger 0) + \bar{a}\} \top$
+$\prec \{(a \dagger 0) \top + \bar{a} \top\}$
+$\prec (a \dagger 0) \top$
+$\prec a \dagger a \top$.

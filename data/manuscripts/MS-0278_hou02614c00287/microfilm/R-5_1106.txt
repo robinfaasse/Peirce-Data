@@ -1,0 +1,76 @@
+[u]The Figure of the 9-point theorem[/u]
+
+Given 3 triangles in one [del]3[/del] plane, ABC, DEF, GHI, [del]whose[/del]
+sides be numbered as follows (AB)=9, (BC)=3, (CA)=6; (DE)=7, (EF)=4, (FD)=1;
+(GH)=8, (HI)=2, (IG)=5; [del]then at the intersection of a pair of lines[/del]
+[del]the numbers are not divisible by 3 but of which the sum of these numbers is[/del]
+[del]divisible. Let there be a third line intersecting through the point of[/del]
+[del]and that the sum of the three numbers of intersecting lines is 0. The[/del]
+to know is whether the three triangles can be entirely outside of
+or not. I shall work with the barycentric calculus, and shall use this notation
+[del]are[/del] points (PQ) shall be the ray through them; if p and q are [del]points[/del]
+the point of intersection. Also p being a numerical coefficient
+Assume the p's the qs and the rs to be such that
+
+[u][12]=p₁B+r₁C, p₁=1-r₁[/u]; [u][15]=q₁A+q₁C, q₅=q₁[/u]; [u][18]=r₁A+r₁B, r₈=r₁[/u];
+[u][48]=p₄B+r₄C, p₄=1-r₄[/u]; [u][42]=q₄A+q₄C, q₂=q₄[/u]; [u][45]=r₄A+r₄B, r₅=r₄[/u];
+[u][75]=p₇B+r₇C, p₇=1-r₇[/u]; [u][78]=q₇A+q₇C, q₈=q₇[/u]; [u][72]=r₇A+r₇B, r₂=r₇[/u]
+
+Assume further that u,v,w,x,y,z to be such that in accordance with the above
+and we have
+[del]u u[/del] u[12]+[u]u[/u][15]=[18] whence [u]u[/u]q₁A+up₁B+(u[u]p[/u]₁+[u]u[/u]q₁)C=r₈A+r₈B
+v[28]+[u]v[/u][42]=[45] " [u]v[/u]q₄A+vp₄B+(v[u]p[/u]₄+[u]v[/u]q₄)C=r₅A+r₅B
+w[75]+[u]w[/u][78]=[72] " [u]w[/u]q₇A+wp₇B+(w[u]p[/u]₇+[u]w[/u]q₇)C=r₂A+r₂B
+x[21]+[u]x[/u][24]=[27] " [u]x[/u]q₄A+xp₁B+(x[u]p[/u]₁+[u]x[/u]q₄)C=r₂A+r₂B
+y[84]+[u]y[/u][87]=[81] " [u]y[/u]q₇A+yp₄B+(y[u]p[/u]₄+[u]y[/u]q₇)C=r₈A+r₈B
+z[57]+[u]z[/u][51]=[54] " [u]z[/u]q₁A+zp₇B+(z[u]p[/u]₇+[u]z[/u]q₁)C=r₅A+r₅B
+
+giving
+u-[u]u[/u]p₁+q₁-[u]u[/u]q₁=0
+x-xp₁+[u]x[/u]q₄-xq₄=0
+
+u(1-p₁-q₁)=-q₁ [u]u[/u]=1-p₁/1-p₁-q₁
+v(1-p₄-q₄)=-q₄
+w(1-p₇-q₇)=-q₇
+x(1-p₁-q₄)=-q₄ [u]x[/u]=1-p₁/1-p₁-q₄
+y(1-p₄-q₇)=-q₇
+z(1-p₇-q₁)=-q₁
+
+Eliminating the three rs
+[(p₄q₇-p₁q₁ + p₁p₄(q₁-q₇) + (p₁-p₄)q₁q₇ = 0
+[(p₇q₁-p₄q₄ + p₄p₇(q₄-q₁) + (p₄-p₇)q₁q₄ = 0
+[(p₁q₄-p₇q₇ + p₇p₁(q₇-q₄) + (p₇-p₁)q₄q₇ = 0
+
+or (p₇-p₄)q₁q₇ + (1-p₁)p₄q₇ + p₁(p₄-1)q₁ = 0
+p₁-p₄ + (1-p₁)p₄ 1/q₁ - p₁(1-p₄) 1/q₇ = 0
+p₄-p₇ - (1-p₄)p₇ 1/q₄ + p₄(1-p₇) 1/q₁ = 0
+p₇-p₁ + p₁(1-p₇) 1/q₇ - p₇(1-p₁) 1/q₄ = 0
+
+(p₁-p₄)(1-p₇)+(1-p₁)(1-p₄) 1/q₁ - p₁(1-p₄)(1-p₇) 1/q₇ = 0
+(p₄-p₇)(1-p₁)-(1-p₄)(1-p₇) 1/q₄ + p₄(1-p₁)(1-p₇) 1/q₁ = 0
+(p₇-p₁)-(1-p₇)(1-p₁) 1/q₇ + p₇(1-p₁)(1-p₄) 1/q₄ = 0
+
+P=1/p-1=1-p/p
+P/P+1 = p
+1-1/P+1 = P/1+P
+
+[12]=B/1+P + PC/1+P
+
+[marginalia]
+Represent
+[del]P₁q₁-P₁q₁[/del]
+[del]P₁q₁-P₄q₄[/del]
+[del]P₁q₄-P₇q₇[/del]
+& Add first and last
+p₁q₇+p₄q₇+q₁-q₁
+and in second
+(p₁-p₇)q₁+(p₁-p₇)q₄
+
+[del]P₁P₄P₇[/del]
+[del]Q₁Q₄Q₇[/del]
+Thus
+P₁Q₁=P₄Q₄
+P₄Q₄=P₇Q₇
+P₇Q₇=P₁Q₁
+not indep
+[/marginalia]

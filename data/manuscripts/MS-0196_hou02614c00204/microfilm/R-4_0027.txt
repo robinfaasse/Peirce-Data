@@ -1,0 +1,24 @@
+We easily plot [del]on the[/del] [ins]on a[/ins] piece of squared paper, in succession,
+$$\begin{aligned}
+z_1 &= 4 + 3i \\
+8z_1 &= 32 + 24i \\
+8z_1 - 25 &= 7 + 24i.
+\end{aligned}$$
+Now the equation is
+$$z^2 = 8z_1 - 25.$$
+[del]But[/del] How shall we recognize $7 + 24i$ as the square of $4 + 3i$?
+Algebraically, it follows from $i^2 = -1$; for
+$$\begin{aligned}
+(4 + 3i)^2 &= 16 + 24i + 9i^2 \\
+&= 16 + 24i - 9 \\
+&= 7 + 24i.
+\end{aligned}$$
+
+But there is another way, upon which Trigonometry hangs. The point $z_1$ has for its [del]rectangular[/del] [ins]rectangular[/ins] coördinates $y = 4$, $x = 3$. That is, $x$ and $y$ being the legs of a right triangle whose hypothenuse is the distance of $z$ from the origin, this hypothenuse is
+[fig]right triangle[/fig] $$\sqrt{4^2 + 3^2} = \sqrt{16 + 9} = \sqrt{25} = 5$$
+While the distance of $z^2 = 7 + 24i$ from the origin is $\sqrt{7^2 + 24^2} = \sqrt{49 + 576} = \sqrt{625} = 25 = 5^2$.
+This will be so in every case. Namely, let
+$$\begin{aligned}
+z &= y + xi, \\
+z^2 &= y^2 - x^2 + 2xyi.
+\end{aligned}$$

@@ -1,0 +1,146 @@
+[pn]2[/pn]
+Notes on Klein
+[align-right]
+[del]1 + i + j + k[/del]
+= [del]l + o + p + s[/del]
+= m + n + q + r
+[/align-right]
+
+[marginalia]
+l
+s
+
+lps
+los
+mnr
+
+l o p
+[/marginalia]
+
+[fig]Cayley-like multiplication table grid[/fig]
+
+[align-right]
+[del]m[/del]
+q
+[/align-right]
+
+[align-left]
+ij = A·D + B·C + C·B + D·A
+i[del]k[/del][ins]h[/ins] = A·C + B·A + C·B + D·D = s
+li = A·B + B·D + C·C + D·A = p
+lj = A·C + B·A + C·B + D·D = s
+lk = A·D + B·B + C·A + D·C = 0
+jl = A·D + B·B + C·A + D·C = 0
+kl = A·B + B·D + C·C + D·A = p
+im = A·D + B·A + C·C + D·B = q
+in = A·B + B·C + C·A + D·D = r
+io = A·B + B·D + C·C + D·A = p
+lo = A·D + B·A + C·[del]C[/del][ins]B[/ins] + D·B = q
+ln = A·C + B·D + C·A + D·B = j
+lp = A·B + B·C + D·A + D·D = r
+lq = A·D + B·C + C·B + D·A = k
+lr = A·B + B·[del]D[/del][ins]A[/ins] + C·D + D·C = [del]p[/del][ins]i[/ins]
+[/align-left]
+
+[align-left]
+jm = ikm = kim = kq = lnm
+= jiq = kq = jl² = ol
+= ikiq = ijq = ikl² = ipl = ol
+[/align-left]
+
+[align-left]
+[u]i[/u] = jk = [del]lik[/del] [del]lnk[/del] = jl'q = oq = olo = lr = l²p
+[sub]sn=k[/sub]
+[/align-left]
+
+[align-left]
+j = ln = [del]lsn[/del] isn = lir = pr = l²r = mr = [del]lr² = mr[/del] [sub]lnk[/sub] [del]= l [sub]= ns[/sub] s²[/del]
+[/align-left]
+
+[align-left]
+i = mp = l²p = lr = l[del]s[/del][ins]s²[/ins] [del]= kq[/del] = ns
+i = ns = nr² [sub]nr=l[/sub] = o²s [sub]os=q[/sub] = [del]ks[/del]
+i = [del]oq[/del] = op² [sub]op=m[/sub] = n²q = n²p² = n(np)p
+[align-right]
+(np)p = s
+n(np) = m
+[/align-right]
+[/align-left]
+
+[align-left]
+j = ln = m²n = lo² = qo
+= nrn = l²s = ms
+[sub]mn = s[/sub]
+[/align-left]
+
+[align-left]
+j = ms = ops = [del]omn[/del] mr²
+[sub]mr = p[/sub]
+[/align-left]
+
+[align-left]
+j = pr = [del]sr[/del] s²r
+= qo
+[sub]jr = 1[/sub]
+[sub]kr o = i[/sub]
+[/align-left]
+
+[align-left]
+j = sq = r²q = rl
+k = sn = r²n = [del]so[/del][ins]s[u]o[/u]²[/ins] = [del]lo[/del]
+[sub]so = m[/sub]
+k = nqn = mn² = mo
+[sub]ljn[/sub]
+[sub]jn = q[/sub]
+[/align-left]
+
+[align-left]
+pr = A·C + B·D + C·A + D·B = [del]j[/del][ins]i[/ins]
+mr = A·B + B·D + C·C + D·A = p
+kq = A·B + B·C + C·A + D·D = r
+mp = A·B + B·A
+sn = A·D + D·A = k
+ro = A·B + B·A = i
+[/align-left]
+
+[align-left]
+i = ro = s²o = rqr
+[sub]rqr[/sub]
+[sub]rq = l[/sub]
+rn² = skn
+[/align-left]
+
+[align-left]
+rlk
+lpo
+i = ro = po² = pn
+[/align-left]
+
+[align-left]
+j = rl = s²l = rm²
+[sub]sl = q[/sub]
+j = r²q = sq
+[del]ja = pol[/del]
+j = ol² = om
+j = nkl = np
+[/align-left]
+
+[align-left]
+k = sn = r²n = rp
+k = spl = so² = mo
+[sub]sp = r[/sub]
+j = kql = q
+[sub]ql = i[/sub]
+nqn
+mn²
+j = inl
+j = ris
+[sub]ri = m[/sub]
+k = ljn
+k = sls = qs
+[/align-left]
+
+[align-left]
+j = kpl
+[sub]pl = n[/sub]
+[/align-left]

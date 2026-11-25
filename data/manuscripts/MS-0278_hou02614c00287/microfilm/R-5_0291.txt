@@ -1,0 +1,39 @@
+It being agreed that every angle and arc shall be measured
+in the way in which it is $< 180^{\circ}$;
+call an arc "acute" if, and only if, it is $< 90^{\circ}$ if greater "obtuse"
+call two angular quantities "alike" if and only if both are
+acute or both obtuse, if one is obtuse and the other acute
+call them "unlike".
+
+Then by the two formulae
+$\cos c = \cos a \cos b + \sin a \sin b \cos C$
+$\cos C + \cos A \cos B = \sin A \sin B \cos c$
+it follows that
+if the number of acute angles is odd
+or if the number of obtuse sides is odd
+every side and its opposite angle must be alike
+
+If, however the [ins]number of[/ins] acute angles and the [del]number of[/del] obtuse sides are both [del]even[/del]
+[del]Now it is geometrically obvious that by varying an angle while the adjacent sides
+remain constant any infinitesimal variation of the third side (within the
+limits $0^{\circ}$ and $180^{\circ}$) can be produced, and that by varying a side while the
+adjacent angles remain constant any infinitesimal variation of the third
+[del]angle[/del] (within the same limits) can be produced. Hence, three arbitrary
+infinitesimal variations of the three sides or the three angles are impossible[/del]
+But a triangle may have all its sides and angles equal to $90^{\circ}$. Hence
+we may suppose
+$\begin{array}{cc}
+A = 90^{\circ} + \delta A & a = 90^{\circ} + \delta a \\
+B = 90^{\circ} + \delta B & b = 90^{\circ} + \delta b \\
+C = 90^{\circ} + \delta C & c = 90^{\circ} + \delta c
+\end{array}$
+Where of $\delta A, \delta B, \delta C$ two are negative or all positive
+and of $\delta a, \delta b, \delta c$, one or three are negative.
+We now have $\begin{array}{ccc}
+\cos A = - \delta A & \cos a = - \delta a & \sin A = \sin a = 1 \\
+\cos B = - \delta B & \cos b = - \delta b & \sin B = \sin b = 1 \\
+\cos C = - \delta C & \cos c = - \delta c & \sin C = \sin c = 1
+\end{array}$
+and the two formulae become
+$\delta A = \delta a + \delta b . \delta c = \delta a + \delta B . \delta C$ so that $\delta b . \delta c = \delta B . \delta C$
+terms of the third degree being neglected.

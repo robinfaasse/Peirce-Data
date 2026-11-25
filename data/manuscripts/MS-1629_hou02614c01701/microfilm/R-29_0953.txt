@@ -1,0 +1,35 @@
+[marginalia]
+[pn]Price[/pn]
+[/marginalia]
+
+§78 Ex 2
+
+Find the length of the arc of the parabola whose equation
+is $y^2 = 2px$ counted from the vertex.
+
+Since at the vertex $y=0$ $x=0$
+
+$$s = \int_{x_0} Ds$$
+
+$$Ds = \sqrt{1 + (D_y)^2}$$
+$$y = \sqrt{2px}$$
+$$D_y = \sqrt{\frac{p}{2x}}$$
+$$(D_y)^2 = \frac{p}{2x}$$
+$$\sqrt{1 + (D_y)^2} = \sqrt{1 + \frac{p}{2x}}$$
+$$\frac{1}{x} = z$$
+$$\sqrt{1 + (D_y)^2} = \sqrt{1 + \frac{p}{2} z}$$
+$$\int \sqrt{1 + (D_y)^2} = \int \sqrt{1 + \frac{p}{2} z} \ D_z \frac{1}{z} =$$
+$$\int \sqrt{1 + \frac{p}{2} z} \ (-\frac{1}{z^2}) =$$
+$$\int v \left(-\frac{p^2}{4(v^2-1)^2}\right) \frac{4v}{p} = \int - \frac{p v^2}{(v^2-1)^2}$$
+
+[marginalia]
+$$v = \sqrt{\frac{p}{2} z + 1}$$
+[/marginalia]
+
+To perform this integration.
+
+$$- \frac{p v^2}{(v+1)^2 (v-1)^2}$$
+
+$$x_0 = -1$$
+$$n = 2 \ \ \ f'x_0 = - \frac{p}{4}$$
+$$- \frac{p}{4(v+1)}$$

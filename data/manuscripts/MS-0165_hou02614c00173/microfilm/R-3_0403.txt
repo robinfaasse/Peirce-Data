@@ -1,0 +1,35 @@
+[pn]156[/pn]
+
+Since the third column has the smallest number in the
+first row, it will be convenient to make it the first column,
+thus:
+$$\left| \begin{matrix}
++1, & +3, & -2, & -6 \\
+-2, & +4, & -1, & +7 \\
+-4, & +2, & +3, & +7 \\
+C, & A, & B, & -M
+\end{matrix} \right| = 0.$$
+
+We will [del]subtract[/del] [ins]add to the[/ins] fourth column twice the second:
+$$\left| \begin{matrix}
++1, & +3, & -2, & 0 \\
+-2, & +4, & -1, & +15 \\
+-4, & +2, & +3, & +11 \\
+C, & A, & B, & 2A-M
+\end{matrix} \right| = 0.$$
+
+We will add to the second column the third, and diminish by the first:
+$$\left| \begin{matrix}
++1, & 0, & -2, & 0 \\
+-2, & +5, & -1, & +15 \\
+-4, & +9, & +3, & +11 \\
+C, & \begin{matrix} A+B \\ -C \end{matrix}, & B, & 2A-M
+\end{matrix} \right| = 0.$$
+
+We will add to the third column twice the first:
+$$\left| \begin{matrix}
++1, & 0, & 0, & 0 \\
+-2, & +5, & -5, & +15 \\
+-4, & +9, & -5, & +11 \\
+C, & \begin{matrix} A+B \\ -C \end{matrix}, & \begin{matrix} B+ \\ 2C \end{matrix}, & 2A-M
+\end{matrix} \right| = 0.$$

@@ -1,0 +1,23 @@
+[u]Rule 5 Principle of breaking parentheses[/u]. Taking any
+copula enclosed within an even number of parentheses,
+we may do as follows:
+1[sup]st[/sup] bring the beginnings of the two innermost parentheses
+forward to the beginning of that copula.
+2[sup]nd[/sup] Repeat all to the left of the innermost parenthesis
+[del]out to[/del] [ins]from the beginning of the[/ins] the next innermost parenthesis followed
+by one of the antecedents to the left of the break
+in the innermost parenthesis. This to be done for
+each of these antecedents.
+[del]Within an odd number of[/del]
+Thus, from
+{[a ≺ b] ≺ [c ≺ d ≺ e ≺ f] ≺ g} ≺ h
+breaking after d, we can infer
+{[a ≺ b] ≺ c} ≺ {[a ≺ b] ≺ d} ≺ {[a ≺ b] ≺ [e ≺ f] ≺ g} ≺ h
+
+Under an odd number of parentheses, the inference is from
+the second form to the first.
+
+[u]Rule 6: Principle of identity[/u]. We can always write a ≺ a.
+For by [del]β[/del] [ins]α[/ins] either a or a ≺ a is true, and by [del]α[/del] [ins]β[/ins] if a
+is true, a ≺ a is true. So that a ≺ a is true in
+any case.

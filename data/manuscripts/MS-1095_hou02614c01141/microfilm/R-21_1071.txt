@@ -1,0 +1,83 @@
+To calculate $g^2$ for the different
+pendulums.
+
+First reduce to a vacuum
+No 2
+
+$$\begin{array}{r r}
+15092.919 & 5031.332 \\
+\underline{4.972} & \underline{4.973} \\
+15087.947 & 5026.359 \\
+\underline{.642} & \underline{.642} \\
+15087.305 & 5025.717
+\end{array}$$
+
+$$\begin{array}{r r}
+30174.610 & \\
+1.0058.203 & 1.0051434 \\
+1.0116406 & 1.0102868 \\
+\underline{339} & \underline{265} \\
+1.0116745 & 1.0103133
+\end{array}$$
+
+$$\begin{array}{l r}
+T_d^2 & 1.0116745 \\
+T_u^2 & \underline{1.0103133} \\
+& .0013612 \\
+\text{*} \Delta & \underline{2.0219878} \\
+& 1.0109939
+\end{array}$$
+
+$$\begin{array}{r}
+13392 \\
+\underline{475} \\
+12917 \\
+0013464 \\
+\underline{3} \\
+\frac{1 - .0013461}{1 + .0013461} \\
+1 - .0013461 \\
+\underline{1 - .0013444} \\
+1 - .0026905 \\
+.9973095 \\
+\underline{8} \\
+.9973103
+\end{array}$$
+
+$$\begin{array}{r}
+3.001 \\
+4.001 \\
+2.001 \\
+60217 \\
+\underline{30125} \\
+.30092 \\
+1.9995
+\end{array}$$
+
+$$\begin{aligned}
+& = 2 \times (.99975) \\
+& = 2 \times (1 - \frac{1}{4000})
+\end{aligned}$$
+
+$$h_d h_u =$$
+
+$$(\Sigma + \Delta)(\Sigma - \Delta)$$
+$$(\Sigma^2 - \Delta^2)$$
+
+$$\begin{array}{r}
+997 \\
+\underline{461} \\
+9987017 \\
+\underline{461} \\
+9986556
+\end{array}$$
+
+$$+ .0000018$$
+
+$$\begin{array}{c}
+\frac{1-x}{1+x} = \\
+(1+x) \overline{) 1-x} ( 1 - 2x \\
+\underline{1+x} \\
+-2x \\
+\underline{-2x - 2x^2} \\
++2x^2
+\end{array}$$

@@ -1,0 +1,20 @@
+[del]x - [root]2abc[/root][/del]
+x² - 2 (2abc)[sup]-1/3[/sup] x + (2abc)[sup]2/3[/sup]
+x³ - 3 (2abc)[sup]-1/3[/sup] x² + 3 (2abc)[sup]2/3[/sup] x - 2abc
+
+[fig]Cubic curve graph[/fig]
+
+[fig]Cubic curve graph[/fig]
+
+[del]x³ + 3 (2abc)[sup]1/3[/sup] x² + 3 (2abc)[sup]2/3[/sup] x + 2abc[/del]
+- x³ + 2 (2abc)[sup]1/3[/sup] x² - (2abc)[sup]2/3[/sup] x
+[del]-(y+z) x²[/del] + 2 (2abc)[sup]1/3[/sup] (y+z) x - (2abc)[sup]2/3[/sup] (y+z)
+- x² (y+z) + xyz
+- x (b²+c²) + (2abc)[sup]1/3[/sup] yz
++ (2abc)[sup]1/3[/sup] x (y+z) + yb²
++ xyz + zc²
++ [del]xyz[/del] - 2abc
+
+(2abc)[sup]2/3[/sup] x² + 2 (2abc)[sup]1/3[/sup] x - (2abc)[sup]2/3[/sup] (y+z)
+- x (b²+c²) + (2abc)[sup]1/3[/sup] (y²-a²-b²-c²)
++ yb² + zc²

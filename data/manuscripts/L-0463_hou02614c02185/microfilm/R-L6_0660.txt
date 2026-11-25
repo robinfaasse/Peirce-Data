@@ -1,0 +1,30 @@
+[pn]25[/pn] by means of radicals, if neither $a, b, c, d, e,$ nor $f$ equals zero; but
+[del]go[/del] usually in experience [ins]two[/ins] [del]one[/del] or more of them are equal to zero. In
+somewhat the same way, we have the following. I have shown that
+any logical relative whatever can be expressed in the form
+$$(a,a)\cdot(A:A) \mathbin{\psi} (a,b)\cdot(A:B) \mathbin{\psi} (a,c)\cdot(A:C) \mathbin{\psi} \text{etc}$$
+$$\mathbin{\psi} (b,a)\cdot(B:A) \mathbin{\psi} (b,b)\cdot(B:B) \mathbin{\psi} (b,c)\cdot(B:C) \mathbin{\psi} \text{etc}$$
+$$\mathbin{\psi} (c,a)\cdot(C:A) \mathbin{\psi} (c,b)\cdot(C:B) \mathbin{\psi} (c,c)\cdot(C:C) \mathbin{\psi} \text{etc}$$
+$$\mathbin{\psi} \text{etc. etc.}$$
+where $A, B, C$ etc. denote all the individuals in the universe, and where
+any such expression as $(A:B)$ is such a relative term than nothing
+is in this relation to any individual but $B$, and that nothing is in this
+relation to $B$ except the individual $A$; while all such coefficients
+as $(a,b)$ are numbers, which in expressions referring to what positively
+is the case have, each of them, one of the values $1$ or $0$, but in expressions
+referring to probability may have fractional values, and in expressions of
+other meanings may have any positive values. After I had demonstrated
+this, Sylvester announced with his usual flourish of trumpets that
+any such expression as that written above could be separated
+into two factors, one of them, pure by numerical, being
+$$\left| \begin{matrix} (a,a), (a,b), (a,c), \text{etc} \\ (b,a), (b,b), (b,c), \text{etc} \\ (c,a), (c,b), (c,c), \text{etc} \\ \text{etc.} \end{matrix} \right|$$
+where the two heavy vertical lines show that by this is meant a determi-
+nant that is a sum of all possible products of factors of which some one and
+but one stood in any one column, and some one and but one in any one
+row, half of them having the minus sign according to a certain simple
+rule. And he further showed that, in general, the product of any two relatives
+was a relative of which this numerical part was the product of the nu-
+merical factors of the two relatives, as just explained. This would have been
+(and he evidently, by his air of triumph, seemed to think it was) in flat contradic-
+tion to my result, if "in general in mathematics" meant "always" or "always
+with trifling exceptions". For Sylvester never read, or professed himself quite unable

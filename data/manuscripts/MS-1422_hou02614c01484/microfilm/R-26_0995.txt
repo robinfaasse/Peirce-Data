@@ -1,0 +1,42 @@
+[u]X[/u]
+$h_1 x + k_1 y + l_1 z = 0$
+$h_2 x + k_2 y + l_2 z = 0$
+
+If $x = 1$
+$k_1 y + l_1 z = -h_1$
+$k_2 y + l_2 z = -h_2$
+
+$k_1 k_2 y + k_1 l_2 z = -h_2 k_1$
+$k_1 k_2 y + k_2 l_1 z = -h_1 k_2$
+$(k_1 l_2 - k_2 l_1) z = h_1 k_2 - h_2 k_1$
+$z = \frac{h_1 k_2 - h_2 k_1}{k_1 l_2 - k_2 l_1}$
+
+[marginalia]
+$M = 01$
+[/marginalia]
+
+$\begin{array}{c|c}
+010 & 001 \\
+\bar{1}01 & \bar{1}10 \\
+\hline
+101 & \bar{1}\bar{1}0
+\end{array}$
+
+$\begin{array}{c}
+h + l = 0 \\
+-h - k = 0
+\end{array}$
+
+$\Lambda = (\bar{1}11)$
+
+$T = (001$
+
+$110$
+
+$\begin{array}{c|c}
+-n = h & -n' = h \\
+m = k & n' = k \\
+n = l & m' = l \\
+\hline
+m' = n = n' = m
+\end{array}$

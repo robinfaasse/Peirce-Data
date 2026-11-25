@@ -1,0 +1,48 @@
+[fig]Cone diagram[/fig]
+
+[fig]Line diagram[/fig] [del]S[/del] [ins]$$m \frac{g}{l}$$[/ins]
+
+$$m \frac{g}{l} \phi = e S$$
+
+[del]$$S =$$[/del] $$S = \frac{mg}{e} \phi$$
+
+$$D_t^2 \phi = - \frac{mg}{l} \phi$$
+
+$$D_t^2 S = - e S$$
+
+$$\frac{m}{e} D_t^2 \phi = - \frac{mg}{l} \phi$$
+
+$$(1 + \frac{mg}{el}) D_t^2 \phi = - 2 \frac{mg}{l} \phi$$
+
+$$D_t^2 \phi = - 2 \frac{mg}{l} \frac{1}{1 + \frac{mg}{el}} \phi$$
+
+$$= - 2 \frac{mg}{l + \frac{mg}{e}} \phi$$
+
+[fig]Line diagram[/fig]
+
+[fig]Line diagram[/fig]
+
+[fig]Triangle diagram[/fig]
+
+[fig]Trapezoid diagram[/fig]
+
+[fig]Trapezoid diagram[/fig]
+
+$$S_1 + S_2 = S$$
+
+$$S_2 = p S_1$$
+
+$$S = (1 + p) S_1$$
+
+$$T = \frac{1}{2} m (1 + p) \dot{S}_1^2$$
+
+$$D_t^2 U = - [del]g[/del] - m g S_1 + [del]e S_2[/del]$$
+$$= (- m g - e p) S_1$$
+
+$$m (1 + p) D_t^2 S_1 = - (m g + e p) S_1$$
+
+$$D_t^2 S_1 = - \frac{m g + e p}{m (1 + p)} S_1$$
+
+$$= - g (1 - p) + \frac{e p}{m}$$
+
+$$= - g - (g - \frac{e}{m}) p$$

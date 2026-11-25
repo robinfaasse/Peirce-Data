@@ -1,0 +1,16 @@
+In my paper of [date]1870[/date] on the Logic of Relatives, I noticed that
+the tensor of an expression in the algebra of relatives is a
+root of the determinant of the expression. If a quantity
+fulfills the condition that its tensor is zero, so does every
+product of this. In the algebra ($C_3$) every quantity has
+a zero tensor. To make $i$ not so, it is necessary to
+add to its relative form $a(D:A)$ where $a \neq 0$. Then
+$i^2 = j = A:C + B:D + a\ C:A + a\ D:B$
+$i^3 = k = [del]a[/del] A:D + a\ B:A + a\ C:B + a\ D:C$
+$i^4 = l = a\ A:A + a\ B:B + a\ C:C + a\ D:D$
+Putting $b^4 = a$ and dividing $i$ by $b$
+$i = b^{-1} A:B + b^{-1} B:C + b^{-1} C:D + b^3 D:A$
+$j = b^{-2} A:C + b^{-2} B:D + b^2 C:A + b^2 D:B$
+$k = b^{-3} A:D + b\ B:A + b\ C:B + b\ D:C$
+$l = A:A + B:B + C:C + D:D = 1$
+Here $Ti = -1 = Ti^3$ $Ti^2 = Ti^4 = 1$

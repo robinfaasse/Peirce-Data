@@ -1,0 +1,48 @@
+[pn]44[/pn]
+[del]Rules[/del]
+[u]Logic universal.[/u]
+
+[del]III[/del] [ins]$\Pi_i$[/ins] $\Pi_j$ $(\bar{s}_{ij} + l_{ij}) \cdot b_{ji}$
+
+$\Sigma_i \Pi_j$ $\bar{s}_{ij} + l_{ij} \cdot b_{ji}$
+
+$\Pi_i \Sigma_j$ $(\bar{s}_{ij} + l_{ij}) \cdot b_{ji}$
+
+$\Pi_i \Sigma_j$ $\bar{s}_{ij} + l_{ij} \cdot b_{ji}$
+
+$(\bar{s}_{11} + l_{11} \cdot b_{11}) (\bar{s}_{21} + l_{21} \cdot b_{12}) + (\bar{s}_{12} + l_{12} \cdot b_{21}) (\bar{s}_{22} + l_{22} \cdot b_{22})$
+
+$[(\bar{s}_{11} + l_{11}) b_{11} + (\bar{s}_{12} + l_{12}) b_{21}] [(\bar{s}_{21} + l_{21}) \cdot b_{12} + (\bar{s}_{22} + l_{22}) \cdot b_{22}]$
+
+$\bar{s}_{11} \bar{s}_{21} + l_{11} \cdot b_{11} + \bar{s}_{12} \bar{s}_{22} + l_{12} \cdot b_{21}$ [del]$\bar{s}_{22}$[/del] [ins]$+ \bar{s}_{12} l_{22} b_{22} + l_{12} b_{21} \bar{s}_{22}$[/ins]
+
+$\bar{s}_{11} \bar{s}_{21} + \bar{s}_{11} l_{21} b_{12} + \bar{s}_{21} l_{11} b_{11} + l_{11} l_{21} b_{11} b_{12} + \bar{s}_{12} \bar{s}_{22} + \bar{s}_{12} l_{22} b_{22} + \bar{s}_{22} l_{12} b_{21} + l_{12} l_{22} b_{21} b_{22}$
+
+$\bar{s}_{11} \bar{s}_{21} b_{11} b_{12} + \bar{s}_{12} \bar{s}_{22} b_{21} b_{22}$
+
+There is a benefactor of everybody
+whom [del]everybody[/del] [ins]somebody[/ins] must love
+[del]not[/del] [ins]unless[/ins] [del]scorned[/del] [ins]rejected[/ins] by her
+
+[fig]Diagram with nested ovals containing words like benefactor, loves, rejects[/fig]
+
+Everybody is [del]son of som[/del]
+
+Everybody loves some benefactor of him
+unless he is [del]scorned[/del] [ins]rejected[/ins] by her
+
+Anybody [del]either loves some[/del]
+has either been rejected by somebody
+or loves some benefactor of himself.
+
+Somebody rejects
+everybody [del]and[/del]
+[del]loves loves[/del]
+[del]the benefactor of somebody himself[/del]
+
+[fig]Diagram with nested ovals containing words like rejects, loves, benefactor[/fig]
+
+[fig]Diagram with nested ovals containing words like rejects, loves, benefactress[/fig]
+
+[del]Everybody loves benefactors
+who is rejected by no man[/del]

@@ -1,0 +1,57 @@
+[pn]1[/pn]
+
+[u]Solution[/u]. Let the ellipse be
+[u]A[/u]²[u]y[/u]² + [u]B[/u]²[u]x[/u]² = [u]A[/u]²[u]B[/u]²
+Let the centre of the triangle be [u]x'[/u] [u]y'[/u] the equation of the
+ellipse referred to this point and to polar coordinates is
+[u]A[/u]²([u]r[/u] sin [del]w[/del] [ins]ω[/ins] + [u]y'[/u])² + [del]the[/del] [ins][u]B[/u]²([u]r[/u][/ins] cos [del]w[/del] [ins]ω[/ins] + [u]x'[/u])² = [u]A[/u]²[u]B[/u]²
+where the axis of [del]w[/del] [ins]ω[/ins] is parallel to [u]A[/u].
+This developed becomes
+([u]A[/u]²sin²[del]w[/del] [ins]ω[/ins] + [u]B[/u]²cos²[del]w[/del] [ins]ω[/ins])[u]r[/u]² + (2[u]A[/u]²[u]y'[/u] sin [del]w[/del] [ins]ω[/ins] + 2[u]B[/u]²[u]x'[/u] cos [del]w[/del] [ins]ω[/ins])[u]r[/u] + [u]A[/u]²[u]y'[/u]² + [u]B[/u]²[u]x'[/u]² - [u]A[/u]²[u]B[/u]² = 0
+Let the vertices of the triangle be ω'; ω'' = ω' + 120° and ω''' = ω' - 120°
+[del]Latter[/del] and [u]r'[/u] will be the radius vector for all.
+Subtract the equation in ω''' from that in ω'
+([u]A[/u]² - [u]B[/u]²)(sin²ω' - sin²ω''')[u]r'[/u] + 2[u]A[/u]²[u]y'[/u](sin ω' - sin ω''') + 2[u]B[/u]²[u]x'[/u](cos ω' - cos ω''') = 0
+But sin ω' + sin ω''' = 2 sin ω' cos 120° = - sin ω'
+sin ω' - sin ω''' = 2 cos ω' sin 120° = √3. cos ω'
+cos ω' - cos ω''' = - 2 sin ω' sin 120° = - √3 sin ω'
+cos ω' + cos ω''' = 2 cos ω' cos 120° = - cos ω'
+Hence - ([u]A[/u]² - [u]B[/u]²) sin ω' cos ω' [u]r'[/u] + 2[u]A[/u]²cos ω' [u]y'[/u] - 2[u]B[/u]²sin ω' [u]x'[/u] = 0.
+Instead of ω' we might write in this equation ω'' and ω'''
+[del]we should thus get two equations.[/del]
+From that in ω'' multiplied by cos ω''' take that in ω''' multiplied by cos ω''.
+Also from [del]that in[/del] ω'' multiplied by sin ω''' take that in ω''' multiplied by sin ω''.
+We get - ([u]A[/u]² - [u]B[/u]²)(sin ω'' - sin ω''') cos ω'' cos ω''' [u]r'[/u] - 2[u]B[/u]²[u]x'[/u](sin ω'' cos ω''' - sin ω''' cos ω'') = 0
+- ([u]A[/u]² - [u]B[/u]²)(cos ω'' - cos ω''') sin ω'' sin ω''' [u]r'[/u] + 2[u]A[/u]²[u]y'[/u]([del]sin ω'' cos ω''' - sin ω''' cos ω''[/del]) = 0
+or by the above equations.
+- √3 ([u]A[/u]² - [u]B[/u]²) cos ω'' cos ω''' [u]r'[/u] - 2[u]B[/u]²[u]x'[/u] sin(ω'' - ω''') = 0.
++ √3 ([u]A[/u]² - [u]B[/u]²) sin ω'' sin ω''' [u]r'[/u] - 2[u]A[/u]²[u]y'[/u] sin(ω'' - ω''') = 0
+
+[pn]2[/pn]
+
+But sin(ω'' - ω''') = sin 240° = - sin 120° = - sin 60° = - ½ √3
+Our equations are then finally
+([u]A[/u]² - [u]B[/u]²) cos ω'' cos ω''' [u]r'[/u] - [u]B[/u]²[u]x'[/u] = 0
+([u]A[/u]² - [u]B[/u]²) sin ω'' sin ω''' [u]r'[/u] + [u]A[/u]²[u]y'[/u] = 0
+These values of [u]x'[/u] and [u]y'[/u] substituted in the original polar
+equation in ω' give, after reduction, an equation of the
+following form:
+([u]P[/u] sin²ω' + [u]Q[/u] sin ω' + [u]R[/u] sin ω' + [u]M[/u])[u]r'[/u] + [u]N[/u] = 0
+& the differential of this [del]gives for[/del] [ins]with respect to ω'[/ins] [del]one of the vertices of the[/del]
+[del]each of them, maximum and the minimum triangles[/del]
+sin ω' cos ω' = 0 [del]and[/del] [ins]or[/ins] [del]that either[/del]
+ω' = 0 and [u]y'[/u] = 0 [del]or[/del]
+or ω' = 90° and [u]x'[/u] = 0.
+Both of these give triangles, whose [del]one has the vertices at the[/del]
+[del]extremity of each of the axes and their centre of gravity[/del]
+[del]this axis.[/del] To determine which of the two is the
+maximum we [del]will[/del] have [del]recourse to the[/del]
+referred to the extremity of the axis [del]y[/del]
+[u]A[/u]²[u]y'[/u]² + [u]B[/u]²[u]x'[/u]² = [u]A[/u]²[u]B[/u]²
+the coordinate of the other vertices are [del]y =[/del] [u]y[/u] = ± [u]s[/u] and [u]x[/u] = - [u]s[/u]
+[u]s[/u] being the side of the triangle.
+Hence [u]s[/u] = [del]√3. [u]A[/u]² [u]B[/u][/del] [ins]√3. [u]A[/u] [u]B[/u]²[/ins] / [u]A[/u]² + 3[u]B[/u]² for the other triangle
+[u]s'[/u] = [del]√3. [u]A[/u] [u]B[/u]²[/del] [ins]√3. [u]B[/u] [u]A[/u]²[/ins] / [u]B[/u]² + 3[u]A[/u]²
+The difference of these is
+[u]s'[/u] - [u]s[/u] = √3. [u]A[/u] [u]B[/u] ([u]A[/u]³ - 3[u]A[/u]²[u]B[/u] + 3[u]A[/u][u]B[/u]² - [u]B[/u]³) / ([u]A[/u]² + 3[u]B[/u]²)([u]B[/u]² + 3[u]A[/u]²) = √3. [u]A[/u] [u]B[/u] ([u]A[/u] - [u]B[/u])³ / ([u]A[/u]² + 3[u]B[/u]²)([u]B[/u]² + 3[u]A[/u]²)
+If [u]A[/u] > [u]B[/u] we must have [u]s'[/u] > [u]s[/u].

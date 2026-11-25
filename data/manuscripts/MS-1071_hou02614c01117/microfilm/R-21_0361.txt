@@ -1,0 +1,33 @@
+The quantity in square brackets in (6) does not differ materially
+from $(1-2E)$; and therefore, it is sufficiently [ins]accurate[/ins] for cartographical to write (6)
+in the form
+$(6') \qquad \sqrt{(dr)^2 + (dz)^2} =$
+
+Extracting the square
+
+Substituting $Z-z$ for $z$ which amounts to measuring
+$z$ from one of the extremities of the axis instead of [del]from the centre[/del], (2) becomes first
+$(2') \qquad r^2 = R^2 (1 - \frac{Z^2 - 2Zz + z^2}{Z^2})$
+and then
+$(2'') \qquad r^2 = (\frac{R}{Z})^2 z(2Z-z)$
+whence
+$(3) \qquad r = \frac{R}{Z} \sqrt{z(2Z-z)}$
+where the radical is the mean proportional between the distances
+of the [del]two[/del] points at which $r$ cuts the axis of $Z$ from the extremities
+of that axis
+
+Differentiating (3), we have
+$(4) \qquad dr = \frac{R}{Z} \frac{Z-z}{\sqrt{z(2Z-z)}} dz \qquad$ or $\quad (dr)^2 = (\frac{R}{Z})^2 \left( \frac{Z^2}{z(2Z-z)} - 1 \right) (dz)^2$
+whence
+$(5) \qquad (dr)^2 + (dz)^2 = \left[ (\frac{R}{Z})^2 \frac{Z^2}{z(2Z-z)} - ((\frac{R}{Z})^2 + 1) \right] (dz)^2$
+which, divided by $(2')$, gives
+$(6) \qquad \frac{(dr)^2 + (dz)^2}{r^2} = \left[ \frac{Z^2}{z^2(2Z-z)^2} - \frac{1 - (\frac{Z}{R})^2}{z(2Z-z)} \right] (dz)^2$
+$= \frac{Z^2}{z^2(2Z-z)^2} \left\{ 1 - [z(2Z-z)] \frac{(1 - \frac{Z^2}{R^2})}{Z^2} \right\} (dz)^2$
+
+Extracting the square root of (6), we get
+$(7) \qquad \frac{\sqrt{(dr)^2 + (dz)^2}}{r} = \frac{Z}{z(2Z-z)} \sqrt{1 - \frac{z(2Z-z)}{Z^2} (1 - \frac{Z^2}{R^2})}$
+
+Now according to the tremendous and triumphant investigation of $Z/R$ is
+$\frac{296}{297}$ so that $1 - \frac{Z^2}{R^2} = \frac{1}{297}$ [del]$1 + \frac{z}{R} < 2$[/del] but $\frac{z(2Z-z)}{Z^2}$ never exceeds [del]unity[/del] [ins]$\frac{1}{4}$[/ins]
+and therefore the numerical value of the quantity denoted by the radical
+differs from unity by only about 3 in the third decimal place & a rough approx-

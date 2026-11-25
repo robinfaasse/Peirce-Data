@@ -1,0 +1,26 @@
+[u]The Skew Mercator Projection[/u]
+
+It is well known that the [ins]polar[/ins] stereographic projection of the sphere is produced by making
+
+$$r = R \tan (45^{\circ} - \frac{\phi}{2})$$
+
+where $r$ is the radius vector on the map from the pole as origin, and
+$\phi$ is the latitude.
+
+Upon this projection, every circle is projected into a circle.
+
+It is also known that in order to preserve the angles taking account of the compression of the earth we may put
+
+$$r = \left( \frac{1 - e \sin \phi}{1 + e \sin \phi} \right)^{\frac{e}{2}} \tan (45^{\circ} - \frac{\phi}{2})$$
+
+where $e$ is the eccentricity of a meridian $= 0.08227$.
+
+But upon this projection geodesic lines no longer appear as [del]great circle[/del] circles. The reason is that the difference of longitude between the intersection of a geodesic line with the equator and its northernmost point is not $90^{\circ}$, but is
+
+$$\begin{array}{cc}
+\text{Maximum latitude} & \text{Diff Long} \\
+18^{\circ} & 90^{\circ} - 17' \\
+36^{\circ} & 90^{\circ} - 15' \\
+54^{\circ} & 90^{\circ} - 12' \\
+72^{\circ} & 90^{\circ} - 6'
+\end{array}$$

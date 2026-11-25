@@ -1,0 +1,19 @@
+[u]Reporbonclive Loads[/u]
+
+The condition of equilibrium gives the following equations
+
+(2) [del]$\frac{\text{cos}\Phi_0}{\Lambda_0}$[/del] [ins]$\frac{\text{cos}\Phi_0}{\Lambda_0}$[/ins] $[\text{cos}\Phi_0 \cdot x_0 + \text{sin}\Phi_0 \cdot y_0] + \frac{\text{sin}\Phi_0}{M_0} [\text{sin}\Phi_0 \cdot x_0 - \text{cos}\Phi_0 \cdot y_0] - \frac{1 - \frac{R_0}{R_0}}{P_0} (x_1 - x_0) = 0$
+
+(3) $\frac{1 - \frac{R_0}{R_0}}{P_0} (x_1 - x_0) - \frac{1 - \frac{R_i}{R_i}}{P_i} (x_2 - x_1) = 0$
+
+(4) $\frac{1 - \frac{R_i}{R_i}}{P_i} (x_2 - x_1) + \frac{\text{cos}\Phi_2}{\Lambda_2} [\text{cos}\Phi_2 \cdot (x_2 - x_2) + \text{sin}\Phi_2 \cdot (y_2 - y_2)] + \frac{\text{sin}\Phi_2}{M_2} [\text{sin}\Phi_2 \cdot (x_2 - x_2) - \text{cos}\Phi_2 \cdot (y_2 - y_2)] = 0$
+
+(5) $\frac{\text{sin}\Phi_0}{\Lambda_0} [\text{cos}\Phi_0 \cdot x_0 + \text{sin}\Phi_0 \cdot y_0] - \frac{\text{cos}\Phi_0}{M_0} [\text{sin}\Phi_0 \cdot x_0 - \text{cos}\Phi_0 \cdot y_0] - \frac{1 - \frac{R_0}{R_0}}{P_0} (y_1 - y_0) = 0$
+
+(6) $\frac{1 - \frac{R_0}{R_0}}{P_0} (y_1 - y_0) - \spadesuit + \frac{1 - \frac{R_i}{R_i}}{P_i} (y_1 - y_2) = 0$
+
+(7) $\frac{1 - \frac{R_i}{R_i}}{P_i} (y_1 - y_2) + \frac{\text{sin}\Phi_2}{\Lambda_2} [\text{cos}\Phi_2 \cdot (x_2 - x_2) + \text{sin}\Phi_2 \cdot (y_2 - y_2)] - \frac{\text{cos}\Phi_2}{M_2} [\text{sin}\Phi_2 \cdot (x_2 - x_2) - \text{cos}\Phi_2 \cdot (y_2 - y_2)] = 0$
+
+These equations seem to be equivalent to two linear equations, two of the fourth degree, and two of the eighth degree; so that we should expect elimination to furnish an equation of the [del]$(1024)$[/del] [ins]$4^4$[/ins] degree. This [ins]degree[/ins] might be greatly reduced; but it is very unlikely that the equation would be [ins]practically[/ins] manageable.
+
+Melan proposes in order to solve the problem of a live load on a trussed bridge to find the moment of the horizontal pull as for the dead load and then apply this to calculating approximate displacements and so another approximation to the horizontal pull. This is one of these methods which might

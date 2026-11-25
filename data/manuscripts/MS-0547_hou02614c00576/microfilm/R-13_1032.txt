@@ -1,0 +1,14 @@
+On the other hand, the negatives of these
+propositions are false in three cases each
+and true only in one.
+$(x \prec y) \prec f$ is true only when $x = v$ $y = f$,
+$(x \prec y \prec f) \prec f$ is true only when $x = v$ $y = v$,
+$\{(x \prec f) \prec y\} \prec f$ is true only when $x = f$ $y = f$,
+$\{(x \prec f) \prec y \prec f\} \prec f$ is true only when $x = f$ $y = v$.
+
+Thus, from the truth of each of the latter set (which
+are analogous to particular propositions) the
+truth of three of the former set (which are ana-
+logous to universal propositions) follows. This
+strange result is owing to the fact that we are
+talking only of a single individual.

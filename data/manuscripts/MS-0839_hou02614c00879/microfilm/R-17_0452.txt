@@ -1,0 +1,28 @@
+We now prove it is not Q acitelf.
+
+mult In (2)' Ident X' with [del]B[/del] [ins]Y'[/ins] and Z' with [del]A[/del] [ins]X'[/ins] with [del]K[/del] [ins]A[/ins]
+
+[u]BQA[/u] + [u]AQA[/u] + [del]X[/del]Ahx + [u]Ahx[/u]
+
+mult (10)'
+[u]AQA[/u]
+
+Introduce defin of
+(11) R .. Rhq + RQR
+(12) R .. Rhq + RQR
+
+[del]mult (11) ident R with Y[/del] ) stat
+[del] (12) " R' with[/del]
+
+[u]Cho[/u] + [u]CQC[/u]
+
+DEF.. Ahx . BQA . Bh[del]q[/del] [ins]o[/ins] ([u]FQE[/u] + [u]Eho[/u] + [u]Fho[/u]) ([u]Cho[/u] + [u]CQC[/u])
+
+mult (9)' Ident P' with E with A
+[del]Mult[/del] (10)" P" " B
+" (10)''' P''' " F with B
+
+([u]Cho[/u] + [u]CQC[/u])
+
+Ahx . BQA . Bho ([u]FQE[/u] + [u]Eho[/u] + [u]Ehv[/u] + [u]Whv[/u])
+([del]BQA[/del] + Aho + [del]Ahx[/del] [del]Ahv[/del]

@@ -1,0 +1,38 @@
+[marginalia]Ms. 2[/marginalia] [u]Note to p 378 of Peirce's Analytic Mechanics[/u]. By C. S. Peirce.
+
+In the case of a particle moving about a centre of attraction, in order to
+get an idea of the relations between the law of attraction and various
+interesting features of the motion, I proceed as follows:
+
+Let $r$ be the radius vector
+$\theta$ the angular position
+$t$ the time
+$v$ the velocity
+$Fr$ (function of $r$) the attraction
+$a$ double the rate of description of area
+$r_1, \theta_1, t_1, v_1$ the same at an instant at which $P_1$ is the perpendicular from
+the centre upon the tangent to the path.
+
+We have $a t = \int r^2 d\theta$
+$a = P_1 v_1 = r_1^2 (D_t \theta)_1$
+$v_1 = r_1 (D_t \theta)_1 \sqrt{1 + (D_\theta \log r)_1^2}$ so that $P_1 = r_1 (D_t \theta)_1 / \sqrt{1 + (D_\theta \log r)_1^2}$
+[del]$a = \frac{r_1^2 (D_t \theta)_1}{\sqrt{1 + (D_\theta \log r)_1^2}} =$[/del]
+
+We further have
+$v^2 = C - \int Fr \cdot dr$
+where $C$ is constant; and
+$v^2 = (D_t r)^2 + \frac{a^2}{r^2}$
+
+Since $\frac{a}{r} = r D_t \theta$.
+Therefore $D_t r = \frac{r^2}{a} \sqrt{v^2 - \frac{a^2}{r^2}}$ and when $D_t r = 0$ $D_t^2 r = r \left( 1 - \frac{1}{2} \frac{r^3 Fr}{a^2} \right)$
+and $t = \int \frac{dr}{\sqrt{v^2 - \frac{a^2}{r^2}}}$
+
+I now draw two diagrams, with rectangular coordinates. No 1 has
+$x = \frac{a^2}{r^2}$ and $y = v^2$. The other has $\xi = r$, $\eta = \sqrt{v^2 - \frac{a^2}{r^2}}$. The former
+shows what apsides, if any, the orbit has. The second shows the time in
+passing from one to another. Suppose a particle so moves as to give, on
+the first diagram, a straight line through the origin. Its passing through
+the origin shows that when $r$ is infinite the velocity vanishes. That is the particle
+has the vis viva due to a fall from infinity. Its being straight shows that the
+attraction varies inversely as the cube of the radius. The equation for $D_t r$ shews
+gives $\frac{D_t r}{r} = \text{constant}$. Hence, the orbit is a logarithmic spiral. The time varies as the

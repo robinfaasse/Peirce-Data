@@ -1,0 +1,9 @@
+of $x', y', z'$, the number of points in the first plane corresponding to a given point $x', y', z'$ in the second, is $n^2 - k$. If $k = n^2 - 1$ there is but one point $x, y, z$, in the first plane, corresponding to $x', y', z'$ in the second; and the transformation is birational. This being the case, it must be that from the original equations, $x' : y' : z' = X : Y : Z$, another set, $x : y : z = X' : Y' : Z'$ is deducible, where $X', Y', Z'$ are rational [del]of $x', y', z'$[/del] [ins]integral[/ins] functions, all of the same order $n_1$, of the coördinates $x', y', z'$; and for reasons similar to those already advanced in the case of $X, Y, Z$, it must be that the curves $X' = 0, Y' = 0, Z' = 0$ have $n_1^2 - 1$ common points of intersection. It is shown in the books that some of the common points of intersection must be common multiple points on the three curves; and that if there be $\alpha_1 + \alpha_2 + \alpha_3 + \dots + \alpha_{n-1}$ common intersections, where the $\alpha_1$ points are ordinary points, the $\alpha_2$ points are double points, the $\alpha_3$ points are triple points, etc., on each curve, these two conditions must be fulfilled:
+
+$$\alpha_1 + 4\alpha_2 + 9\alpha_3 + \dots + (n-1)^2 \alpha_{n-1} = n^2 - 1$$
+
+and
+
+$$\alpha_1 + 3\alpha_2 + 6\alpha_3 + \dots + \frac{1}{2}(n-1)(n-2)\alpha_{n-1} = \frac{1}{2}n(n+3) - 2$$
+
+The Cremona transformation may be applied to any curve $u = 0$, which is rationally transformed into a curve $u' = 0$, by a rational transformation such

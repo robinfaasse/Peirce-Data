@@ -1,0 +1,21 @@
+[marginalia]
+M 105
+[/marginalia]
+
+A better way to find whether the hydr:
+eq. are satisfied is [del]to[/del] [ins]to[/ins] see whether their
+solution is satisfied
+
+[marginalia]
+$s = x + y \underline{i}$
+$q = x - y \underline{i}$
+$s + q = 2x$
+$sq = x^2 + y^2$
+[/marginalia]
+
+$\chi = (E - 2A) 2x + 2A \cdot 2x \log (x^2 + y^2) - B \frac{2x}{x^2 + y^2} + C 2x (x^2 + y^2)$
+
+$y'^2 = \frac{1}{[del]m[/del]} \frac{(a^2 - b^2)^2}{c^2} - x^2 + \frac{a^2 - b^2}{c} y + b^2 \mp \frac{a^2 - b^2}{c} \sqrt{-x^2 + \frac{a^2 - b^2 + b^2}{c} y + \frac{1}{m} \frac{(a^2 - b^2)^2}{c^2}}$
+
+$\chi = (E - 2A) 2x + 2A \cdot 2x \log \left\{ \frac{1}{2} \frac{(a^2 - b^2)^2}{c^2} + \frac{a^2 - b^2}{c} y + b^2 \mp \frac{a^2 - b^2}{c} \sqrt{\hspace{4em}} \right\}$
+$- B$

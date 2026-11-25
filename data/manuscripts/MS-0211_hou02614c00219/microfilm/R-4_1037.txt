@@ -1,0 +1,75 @@
+$$1-pq = 1-p(1-p) = 1-p+p^2 = p^2+q$$
+
+$$\frac{x}{y} = p\frac{x+1}{y-1} + q\frac{x-1}{y+1}$$
+
+$$= p^2\frac{x+2}{y-2} + pq\frac{x}{y} + q\frac{x-1}{y+1}$$
+
+$$= \frac{p^2}{p^2+q}\frac{x+2}{y-2} + \frac{q}{p^2+q}\frac{x-1}{y+1}$$
+
+[marginalia]$$p+q^2$$[/marginalia] $$= \frac{p^3}{p^2+q}\frac{x+3}{y-3} + \frac{p^2q}{p^2+q}\frac{x+1}{y-1} + \frac{q}{p^2+q}\frac{x-1}{y+1}$$
+
+[marginalia]$$p+q^2$$[/marginalia] [del]$$-\frac{pq}{p^2+q}\frac{x}{y} - \frac{p^2q}{p^2+q}\frac{x+1}{y-1} - \frac{pq^2}{p^2+q}\frac{x-1}{y+1} = 0$$[/del]
+
+$$= \frac{p^3}{p^2+q}\frac{x+3}{y-3} + \frac{pq}{p^2+q}\frac{x}{y} + \frac{q(1-pq)}{p^2+q}\frac{x-1}{y+1}$$
+
+$$= \frac{p^3}{1-2pq}\frac{x+3}{y-3} + \frac{q(p^2+q)}{1-2pq}$$
+
+$$= \frac{p^3}{p^3+q(p^2+q)}\frac{x+3}{y-3} + \frac{q(p^2+q)}{p^3+q(p^2+q)}\frac{x-1}{y+1}$$
+
+[marginalia]$$p^2+q$$[/marginalia] $$= \frac{p^4}{p^3+q(p^2+q)}\frac{x+4}{y-4} + \frac{p^3q}{y-1}\frac{x+2}{y-1} + \frac{q(p^2+q)}{\sim}\frac{x-1}{y+1}$$
+
+[del]$$-\frac{pq}{p^3+q(p^2+q)}\frac{x}{y} - \frac{p^3q}{y-1}\frac{x+2}{y-1} - \frac{pq^2}{\sim}\frac{x-1}{y+1}$$[/del]
+
+$$= \frac{p^4}{p^3+q(p^2+q)-p^2q}\frac{x+4}{y+4} + \frac{q(p^2-p^2q+q)}{[del]\sim[/del]}\frac{x-1}{y+1}$$
+
+$$= \frac{p^4}{p^3+q^2}\frac{x+4}{y+4} + \frac{[del]\frac{q(p^3+q)}{p^3+q^2}[/del]}{\frac{q(p^3+q)}{p^3+q^2}}\frac{x-1}{y+1}$$
+
+$$p^3+$$ [del]$$\frac{p^2+1-p}{1-p+p^2}$$[/del]
+[del]$$\frac{-p+p^2-p^3}{1-2p+2p^2}$$[/del]
+[del]$$\frac{p^3+q(p^2+q)}{p^3+q^2}$$[/del]
+
+$$\frac{p^2+1-p}{1-p+p^2}$$
+$$\frac{-p+p^2-p^3}{1-2p+2p^2}$$
+
+$$\frac{1-p+p^2}{p+q^2}$$
+
+$$\frac{p^3+q}{p^3+1-p}$$
+$$\frac{1-p+p^3}{-p+p^2-p^4}$$
+$$\frac{1-2p+p^2+p^3}{}$$ [del]$$49$$[/del]
+
+$$\frac{1+q^2=2-2p+p^2}{p+q}$$ [del]$$\frac{1-2p+p^2}{q^2+2p-p^2}$$[/del]
+$$\frac{q^2+p+p-p^2}{p^2+1-p}$$
+
+$$\frac{1-p+p^2}{p+q^2}$$
+
+$$\frac{p^2+p^3}{p^2+p^2-p^3}$$
+
+$$\frac{1-2pq = 1-2p(1-p)}{= 1-2p+2p^2}$$
+
+$$\frac{1-p+p^2}{-p+p^2-p^3}$$
+$$\frac{1-2p+2p^2}$$
+
+$$p^2q+q^2 = p^2-p^3+1-2p+p^2$$
+$$p^3+p^2q+q^2$$
+$$p^2q+q^2 = 1-2p+2p^2-p^3$$
+$$p^2+q = 1-pq$$
+
+$$\frac{1-p+p^2}{p^2+p-1}$$ [del]$$\frac{p^3-1}{p^3+p^2}$$[/del] [del]$$\frac{p^2-1}{p+1}$$[/del]
+
+$$p^2-p(1-p)+1-p$$
+$$= 1-2p+2p^2$$
+$$= p^2+q^2$$
+
+$$\frac{p^3+(p^2+q-p)q}{= p^3+(p^2+1-2p)(1-p)}$$
+
+$$\frac{p^2-p^2(1-p)+1-p}{1-p+p^3}$$
+$$\frac{-p+p^2-p^4}{}$$
+
+$$\frac{1-2p+p^2}{-p+2p^2}$$
+$$\frac{1-3p+3p^2}{q^3+p^3}$$
+
+$$\frac{1-2p+p^2+p^3-p^4+q=p^2+1-p}{p^2+q^2=1-2p+2p^2}$$
+
+$$\frac{1-p-p^3}{}$$
+
+$$\frac{p-2p^2+2p^3}{1-p}$$ [ins]$$+2p^3+\cdot$$[/ins]

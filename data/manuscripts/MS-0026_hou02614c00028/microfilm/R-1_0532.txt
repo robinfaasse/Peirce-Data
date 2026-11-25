@@ -1,0 +1,42 @@
+[pn]10[/pn]
+
+[u]On Multitude[/u]
+
+The rules of [u]$\Pi$ and $\Sigma$[/u] are that
+(13) $\Pi_x l_x = l_1 \cdot l_2 \cdot l_3 \cdot l_4 \cdot l_5 \cdot \text{etc.}$
+(14) $\Sigma_x l_x = l_1 + l_2 + l_3 + l_4 + \text{etc.}$
+(15) $\Pi_x \Sigma_y l_{xy} = (l_{11} + l_{12} + l_{13} + \text{etc.}) \cdot (l_{21} + l_{22} + l_{23} + \text{etc.}) \cdot (l_{31} + l_{32} + l_{33} + \text{etc.}) \cdot \text{etc.}$
+(16) $\Sigma_y \Pi_x l_{xy} = l_{11} \cdot l_{21} \cdot l_{31} \cdot \text{etc.} + l_{12} \cdot l_{22} \cdot l_{32} \cdot \text{etc.} + l_{13} \cdot l_{23} \cdot l_{33} \cdot \text{etc.} + \text{etc.}$
+where $1, 2, 3, \text{etc}$ are all the individuals in the universe of discourse.
+
+[u]Practical Rules[/u]. The following are the rules most frequently used.
+
+The signs of aggregation and compredication are [u]not pliant[/u]; that is,
+[del](17)[/del] $x + x = x$ $x \cdot x = x$
+
+The signs of aggregation and compredication are [u]commutative[/u]; that is,
+(18) $x + y = y + x$ $x \cdot y = y \cdot x$
+
+The signs of aggregation and compredication are [u]separately associative[/u], that is,
+(19) $(x + y) + z = [del]y[/del] [ins]x[/ins] + (y + z)$ $(x \cdot y) \cdot z = x \cdot (y \cdot z)$
+
+The sign of compredication is [u]supersociative[/u] relatively to that of aggregation,
+that is,
+[del](20)[/del]
+[ins](20)[/ins] $(x + y) \cdot z \prec x + (y \cdot z)$
+
+The sign of negation is subject to the [u]principle of contradiction[/u]; that is,
+(21) $x \cdot \bar{x} + y = y$.
+
+The sign of negation is subject to the [u]principle of excluded middle[/u];
+that is
+[del](22)[/del]
+[ins](22)[/ins] $(x + \bar{x}) \cdot y = y$
+
+Like quantifiers are [u]commutable[/u]; that is,
+[del](23)[/del]
+[ins](23)[/ins] $\Pi_i \Pi_j l_{ij} = \Pi_j \Pi_i l_{ij}$ $\Sigma_i \Sigma_j l_{ij} = \Sigma_j \Sigma_i l_{ij}$
+
+$\Sigma$ can always be carried to the right, and $\Pi$ to the left; that is
+[del](24)[/del]
+[ins](24)[/ins] $\Sigma_i \Pi_j l_{ij} \prec \Pi_j \Sigma_i l_{ij}$.

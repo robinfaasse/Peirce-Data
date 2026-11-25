@@ -1,0 +1,25 @@
+[pn]8[/pn]
+
+chance of winning both is $x_2 = (x_1)^2$ And so in
+general $x_l = (x_1)^l$.
+
+Now his chance of netting a gain of [del]1[/del] [ins]1[/ins] franc, $x_1$
+is the sum of [del]his chance[/del] [ins]chances of the[/ins] two ways
+in which it may come about, [del]namely by first
+winning the first bet [del]of which the chance is[/del] [ins]of which the chance is $\frac{1}{2}$[/ins] [del]and then winning 2[/del][/del]
+and by first losing the first bet and then netting
+a gain of 2 francs of which the chance is $\frac{1}{2} x_1^2$.
+Therefore
+$x_1 = \frac{1}{2} + \frac{1}{2} x_1^2$
+or $x_1^2 - 2x_1 + 1 = 0$
+[del]or[/del] or $(x_1 - 1)^2 = 0$
+
+But if the square of a number is zero, the
+number itself is zero. Therefore
+$x_1 - 1 = 0$
+$x_1 = 1$
+
+Consequently, [del]the books would say it was[/del]
+[del]It is therefore[/del] dead certain that any player will
+[del]make[/del] ultimately net his [del]winning of a franc[/del]
+& retire —

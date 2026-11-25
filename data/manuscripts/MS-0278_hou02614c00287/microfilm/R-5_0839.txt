@@ -1,0 +1,61 @@
+[u]$\frac{\sqrt{1 + (\frac{dz}{dr})^2}}{r} = \frac{\sqrt{1 + (\frac{dz}{dr})^2}}{r}$[/u]
+
+$(\frac{r}{R})^2 + (\frac{z}{Z})^2 = 1 \qquad z = Z \sqrt{1 - (\frac{r}{R})^2}$
+
+$\frac{r dr}{R^2} = - \frac{z dz}{Z^2} \qquad \frac{dz}{dr} = - (\frac{Z}{R})^2 \frac{r}{z}$
+
+[del]$\frac{dz}{dr} = - \frac{Z}{R} (\frac{Z}{R})^2$[/del]
+
+[u]$R = Z (1 + e)$[/u] [del]$(\frac{r}{R})^2 + (\frac{z}{Z})^2 = 1$[/del]
+
+$\frac{r^2}{R^2} + \frac{z^2}{Z^2} = 1$
+
+$\frac{r^2}{Z^2 (1+e)^2} + \frac{z^2}{Z^2} = 1$
+
+$\frac{r^2}{(1+e)^2} = Z^2 - z^2$
+
+$r = \sqrt{Z^2 - z^2} (1+e)$
+
+[del]$\frac{1}{1+e} \frac{dr}{dz} = \frac{1}{2} (Z^2 - z^2)^{-\frac{1}{2}} (-2z)$[/del]
+
+$dr = \mp (Z^2 - z^2)^{-\frac{1}{2}} z$
+
+[u]$Z = R (1-e)$[/u]
+
+$(\frac{r}{R})^2 + \frac{z^2}{R^2 (1-2e)} = 1 \qquad \frac{r}{Z} = R \qquad (\frac{r}{R})^2 + (\frac{z}{Z})^2 = 1$
+
+$\frac{r^2}{R^2} + \frac{z^2}{(1-e)^2} = R^2$ [del]$r = R [1 - (\frac{z}{Z})^2]^{\frac{1}{2}} = R (1 - Z$[/del]
+
+$z^2 = \sqrt{R^2 - r^2} (1-e)^2$ [del]$\frac{r dr}{R^2} = - \frac{z dz}{Z^2}$[/del]
+
+$dz = \frac{1}{2} (R^2 - r^2)^{-\frac{1}{2}} (1-e)^2 \mp dr$ [del]$\frac{dz}{dr} = - (\frac{Z}{R})^2 \frac{r}{z} = - \frac{Z}{R} \frac{r}{z}$[/del]
+
+[del]$r dr + \frac{z dz}{(1-2e)} = 0$[/del] [del]$(\frac{dz}{dr})^2 =$[/del]
+
+$z = Z \sqrt{1 - (\frac{r}{R})^2}$
+
+[fig]Circle with inscribed triangle and vertical line[/fig]
+
+$\frac{dz}{dr} = \frac{-z}{\sqrt{1 - (\frac{r}{R})^2}} \frac{r}{R^2}$
+
+$= \frac{-z}{\sqrt{R^2 - r^2}} \frac{r}{R}$
+
+$= - \frac{Z}{R} \frac{r}{\sqrt{R^2 - r^2}}$
+
+$(\frac{dz}{dr})^2 = (\frac{Z}{R})^2 \frac{r^2}{R^2 - r^2}$
+
+$\sqrt{1 + (\frac{dz}{dr})^2} = \sqrt{1 + (\frac{Z}{R})^2 \frac{r^2}{R^2 - r^2}}$
+
+$\sqrt{1 + (\frac{dz}{dr})^2} / r = \sqrt{\frac{1}{r^2} + (\frac{Z}{R})^2 \frac{1}{R^2 - r^2}} = \frac{\sqrt{R^2 - r^2 + (\frac{Z}{R})^2 r^2}}{r \sqrt{R^2 - r^2}}$
+
+$= \frac{\sqrt{R^2 - R^2 z^2}}{r \sqrt{R^2 - r^2}}$
+
+[fig]Ellipse[/fig]
+
+$= \frac{Z}{R} \sqrt{R^2 - r^2}$
+
+$\frac{1}{z} = \frac{R}{Z} \frac{1}{\sqrt{R^2 - r^2}}$
+
+$\frac{dz}{dr} = - (\frac{Z}{R})^2 \frac{r}{z}$
+
+$= - \frac{Z}{R} \frac{r}{\sqrt{R^2 - r^2}}$

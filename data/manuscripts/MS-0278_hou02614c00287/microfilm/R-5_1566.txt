@@ -1,0 +1,105 @@
+[del]$\cos \frac{1}{2}(A+B) \cos \frac{1}{2}c = \cos \frac{1}{2}(a-b) \cos \frac{1}{2}C$[/del]
+$\cos \frac{1}{2}(A+B) \sin \frac{1}{2}c = \cos \frac{1}{2}(a-b) \sin \frac{1}{2}C$
+$\sin \frac{1}{2}(A+B) \sin \frac{1}{2}c = \sin \frac{1}{2}(a-b) \cos \frac{1}{2}C$
+$\cos \frac{1}{2}(A-B) \sin \frac{1}{2}c = \cos \frac{1}{2}(a+b) \sin \frac{1}{2}C$
+$\cos \frac{1}{2}C = \frac{\sin \frac{1}{2}(A+B)}{\cos \frac{1}{2}(a-b)}$
+$\cos \frac{1}{2}c = \frac{\sin \frac{1}{2}(A-B)}{\sin \frac{1}{2}(a-b)}$
+$\sin \frac{1}{2}C$
+$\tan \frac{1}{2}C = \frac{\cos \frac{1}{2}(a-b)}{\cos \frac{1}{2}(a+b)} \cot \frac{1}{2}(A+B) = \frac{\sin \frac{1}{2}(a-b)}{\sin \frac{1}{2}(a+b)} \cot \frac{1}{2}(A-B)$
+
+[fig]Geometric diagram with intersecting lines and circles[/fig]
+
+$\begin{array}{r|r|r|r}
+1.697 & & & \\
+102.552 & & & \\
+47.51 & & & \\
+1.9485 & & & \\
+\hline
+\end{array}$
+
+$\begin{array}{r|r|r|r}
+\log \sin \frac{1}{2}(a-b) & 9.16515 & 9.90433 & \sin \frac{1}{2}(a+b) \\
+\log \sin \frac{1}{2}(A+B) & 9.34850 & 9.96 & 9.93006 \\
+& 0.18335 & 9.84587 & \\
+\hline
+\end{array}$
+
+$\begin{array}{r|r|r|r}
+51.27605 & 9.591 & \\
+62.3244 & 0.29028 & 9.94178 & \log \cos \frac{1}{2}(a-b) \\
+43.1528 & 9.87665 & 9.81843 & \log \cos \frac{1}{2}(A+B) \\
+103.4960 & 9.16669 & 9.94724 & \\
+21.1528 & 0.20770 & 9.87139 & \\
+& 9.17899 & 0.12840 & \\
+\hline
+\end{array}$
+
+$\begin{array}{r|r|r|r}
+\log \tan \frac{1}{2}(a-b) & 9.17276 & 9.9960 & 9.99959 \\
+\log \cot \frac{1}{2}(A-B) & 0.73097 & & \\
+\hline
+\end{array}$
+
+$\begin{array}{r|r|r|r}
+9.3006 & 9.77097 & 0.71996 & 9.90433 \\
+9.87665 & 9.81843 & 9.66735 & 9.94713 \\
+1.05341 & 9.95250 & 10.05261 & 9.95720 \\
+\hline
+\end{array}$
+
+$\begin{array}{r}103.411716 \\ 62.3244 \\ a = 103.4960 \\ 21.1528 \\ C = 89.9460 \\ \hline
+\end{array}$
+
+[fig]Triangle[/fig] $180\text{g}$
+
+$A+B+C+D - 2\pi$
+
+$\Sigma_3 - \pi = \frac{A}{O}$
+
+$\Sigma_4 - \pi$
+
+[fig]Right triangle[/fig]
+
+$\Sigma_3 = \frac{4}{O} \pi$
+
+[fig]Spherical triangle[/fig]
+
+$\Sigma_3 = \frac{\Sigma}{O} \pi$
+
+[fig]Spherical triangle[/fig]
+
+$\Sigma_3 - \pi = \frac{1}{2}$
+
+$\Sigma \Delta - \pi = \frac{4}{O} \pi$
+
+$O = \text{octant}$
+$4 = \text{Area}$
+
+$\Sigma_4 - 2\pi = \frac{4}{O}$
+
+$\frac{[\Sigma \square - 2\pi]}{O} = \frac{4}{O}$
+
+[fig]Octahedron with labeled vertices A, B, C, D[/fig]
+
+[fig]Square with diagonals[/fig]
+$\Sigma_4 + 2\pi = 4$
+
+[fig]Square with diagonal[/fig]
+
+$\begin{array}{r}120 \\ 130 \\ 140 \\ 150 \\ \hline 540 \\ 360 \\ \hline 180\end{array}$
+
+[fig]Quadrilateral[/fig]
+
+$\Sigma - N\pi = \frac{4}{O}$
+
+[fig]Tetrahedron[/fig]
+
+[fig]Octahedron with labeled vertices A, B, C, D, E, F[/fig]
+
+[fig]Triangle[/fig]
+
+[fig]Pentagon with diagonals[/fig]
+
+[fig]Three triangular prisms[/fig]
+
+$\Sigma_5 + 2\pi$

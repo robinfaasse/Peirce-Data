@@ -1,0 +1,16 @@
+[marginalia]4 colors[/marginalia] [pn]14[/pn]
+
+following:
+
+1[ins]st[/ins] The region originally designated.
+[del]and[/del] [ins]2[ins]nd[/ins][/ins] The region into which it was thrown by the erasure of the boundary.
+
+3[ins]rd[/ins] The regions confine to the region originally designated but not having [ins]either[/ins] the extremity of the erased boundary as a corner.
+
+4[ins]th[/ins] The two regions upon which the erased boundary abuts.
+
+I will now show that the sum of the corner-values for [del]all[/del] [ins]every one of[/ins] these regions is zero.
+
+1[ins]st[/ins] If the region originally designated has an even number of boundaries, [del]they are alternate[/del] the corners except the two of the boundary have half of them the value +1 and half of them the value -1, so that they sum up to zero. [del]Of these corners one end one has the value +1 and one end one has the value -1, so that the box[/del] [ins]The[/ins] corners at the ends of the erased boundary, receive one the value +1 and [del]one[/del] [ins]the other[/ins] the value -1. Thus the sum is zero.
+
+If on the other hand the region in question has an odd number of boundaries, then of the corners not belonging to the erased boundary one more has one value than the other and the two end corners have that value. Consequently the two new corners take the same value and the sum is three times that value, so that it is divisible by 3.

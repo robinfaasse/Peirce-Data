@@ -1,0 +1,42 @@
+```
+(x-α)² + (y-β)² = (ax + by + c)²
+x² + 2Axy + By² + Cx + Dy + E = 0
+x² + 2αx + α² + y² + 2βy + β² = a²x² + 2abxy + 2acx
+                                 + b²y² + 2bcy + c²
+
+(a²-1)x² + 2ab xy + (b²-1)y² + 2(ac-α)x + 2(bc-β)y
+                                 + c² - α² - β² = 0
+
+(a²-1)x² + 2A(a²-1)xy + B(a²-1)y² + C(a²-1)x + B(a²-1)y + [del]E(a²-1)[/del] = 0
+
+ab = A(a²-1)   b²-1 = B(a²-1)
+Bab = AB(a²-1) A(b²-1) = AB(a²-1)
+Bab = A(b²-1)
+[del]B[/del] ab = AB(a²-1)
+b = A(a - 1/a)
+b² - B/A ab = 1
+b² = A²(a² - 2 + 1/a²)
+(b - B/2A a)² = 1 + B²/4A² a²
+b² = Ba² + 1 - B
+b = B/2A a ± √(1 + B²/4A² a²)
+(A²-B)a² - 2A² - 1 + B + A²/a² = 0
+= B/2A a ± (1 ± √[del]4A²[/del]/B² a² [ins]1/a²[/ins])
+(1 - B/A²)a² - 2 + B-1/A² + 1/a² = 0
+
+1/a⁴ - (2 + 1-B/A²) 1/a² = B/A² - 1
+1 + 1-B/2A²  1 + 1-B/A² + (1-B)²/A⁴
+
+[1/a² - (1 - 1-B/2A²)]² = 1/A² + (1-B)²/A⁴ = 1-2B + A²+B²/A⁴
+1/a² = 1 - 1-B/2A² ± √(1-B)²+A²/A²
+***
+p+√q
+p+q + 2p√q = λ + √μ
+λ = p² + q    4λ - 4q = μ/q
+μ = 4p²q      q - λ = μ/4q
+              q² - λq = μ/4
+(p+√q)² = λ + √μ   (q - λ/2)² = μ+λ²/4
+√λ+√μ = ±(p+√q)   q = λ/2 ± √λ-μ/2
+p = 1/2 √μ/q
+
+[fig]sketch of face profile[/fig]
+```

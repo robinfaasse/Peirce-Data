@@ -1,0 +1,40 @@
+[fig]Geometric diagrams with numbered vertices and lines[/fig]
+
+[fig]Star diagram with letters a, b, c, d, e, f[/fig] [u]ab.cd.ef[/u] | ab.cd.ef | ab.cf.de | ab.cf.de | ab.ce.df | ab.ce.df
+[fig]Star diagram with letters a, b, c, d, e, f[/fig] ac.be.df | ac.bf.de | ac.be.df | ac.bd.ef | ac.bf.de | ac.bd.ef
+[fig]Star diagram with letters a, b, c, d, e, f[/fig] ad.bf.ce | ad.be.cf | ad.be.cf | ad.bf.ce | ad.be.cf | ad.be.cf
+[fig]Star diagram with letters a, b, c, d, e, f[/fig] ae.bd.cf | ae.bc.fd | ae.bf.cd | ae.bc.fd | ae.bd.cf | ae.bf.cd
+[fig]Star diagram with letters a, b, c, d, e, f[/fig] af.be.de | af.bd.ce | af.bd.ce | af.be.cd | af.be.cd | af.be.de
+
+[fig]Star diagram with letters a, b, c, d, e, f[/fig] ace.bdf | ace.bdf
+abd.cef | abd.cef
+abc. | abc.
+
+[fig]Star diagram[/fig]
+
+[fig]Table of numbers[/fig]
+0 1 2 3 4
+0 1 3 2 5 4
+0 1 4 5 3 2
+0 1 5 4 2 3
+0 2 1 4 3 5
+0 5 1 2 4 3
+0 5 2 1 3 4
+
+[fig]Star diagram with numbers[/fig]
+
+Opposed to every monosysteme
+is a 14 systeme
+and a [del]Polisysteme[/del] [ins]disjunctive[/ins]
+[u]abf.acf.ade.adf.bce.bcf.bde.bdf.[/u]
+[del]abd[/del] [ins]ade[/ins] [del]abf[/del] [ins]adf[/ins] [del]acd.acf[/del]
+abc.abe. [del]abf[/del] [ins]ade[/ins] [del]acf.adf[/del]
+abc. [del]abf.acf.adf[/del]
+abd.dbe.acf.ace
+
+Opposed to this a hexasysteme
+cdef.abef.abcd [del]disjunctive[/del]
+abce.acdf.bdef [del]Other[/del] [ins]and other[/ins]
+abdf.acde.beef
+abde.acef.bcdf
+abcf.adef.bcde

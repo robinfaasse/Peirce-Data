@@ -1,0 +1,11 @@
+I will now give some examples of the
+rules. Given the premises [u]a+b+c[/u] and [u]a+c[/u].
+The rule of substitution gives [u]c+b+c[/u]. Put
+c = 0 and we have [u]0+b+0[/u] or [u]0+b[/u] which
+asserts [u]0+b[/u] to be false, though by Rule 2, it
+[del]is true[/del]. Consequently by rule 8, c follows from
+[u]c+b+c[/u] and is the conclusion from the [del]premises[/del].
+Given the premises [u]a+b+m+n[/u] and [u]b+c+l+m[/u].
+The rule of substitution gives [u]a+b+b+c+l+n[/u], and
+by Rule 9, and the rule of substitution
+[u]a+c+l+n[/u].

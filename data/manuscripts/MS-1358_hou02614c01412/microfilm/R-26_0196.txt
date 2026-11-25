@@ -1,0 +1,30 @@
+[marginalia]Monmouth Bridge 1899 [date]Feb 26[/date][/marginalia]
+
+Energy = [del]1/2[/del] [ins]1/2[/ins] E [u](Elongation)[sup]2[/sup][/u] / l
+
+= 1/2 E [u]{ ξ'[sub]R[/sub] + N/r [ -a' + b'N + c'(2N+1)I - c(N+1)[sup]2[/sup] ] } [sup]2[/sup][/u] / (R-N) (1 + N[sup]2[/sup]/r[sup]2[/sup])[sup]3/2[/sup]
+
+Straight part from N to R
+
+[u]Horiz coord[/u]
+Tower head: R + ξ'[sub]R[/sub]
+Part at N: + N
+
+[u]Ver coord[/u]
+N/r (R - 1/2 N)
+N[sup]2[/sup]/2r [del]N/r (R - 1/2 N)[/del] + a" + b"N + c"N[sup]2[/sup]
+
+a" + b"J + c"J[sup]2[/sup] = a' + b'J + c'J[sup]2[/sup]
+b" + 2c"J = [del]b[/del] b' + 2c'J
+
+b" = b' + 2(c' - c")J
+a" = a' - (c' - c")J[sup]2[/sup]
+
+a" + b"N + c"N[sup]2[/sup] = a' [del]-c'J[sup]2[/sup][/del] [ins]+c"J[sup]2[/sup][/ins]
++ b'N [del]+2c'JN[/del] [ins]-2c"JN[/ins]
+[ins]+c"N[sup]2[/sup][/ins]
+= a' + b'N + c'J(2N-J) + c"(N-J)[sup]2[/sup]
+
+Energy = 1/2 E [u]{ ξ'[sub]R[/sub] - N/r [ a' + b'N + c'J(2N-J) + c"(N-J)[sup]2[/sup] ] }[sup]2[/sup][/u] / (R-N) (1 + N[sup]2[/sup]/r[sup]2[/sup])[sup]3/2[/sup]
+
+Sum = 1/2 E { 2ξ'[sub]R[/sub] + N/r [ -2a' + c'(2N(I-J) + I[sup]2[/sup] + J[sup]2[/sup]) - c(N+I)[sup]2[/sup] - c"(N-J)[sup]2[/sup] ] }[sup]2[/sup]

@@ -1,0 +1,26 @@
+[marginalia]
+[pn]Logic[/pn]
+[pn]III[/pn]
+89
+[/marginalia]
+
+If $x \prec (y \prec z)$, then [ins]necessarily[/ins] either $x \prec \overline{y}$ or $y \prec (x \prec z)$
+In (50), substitute $y$ for $x$, and $x \prec z$ for $y$. Then we have
+If $y \prec x \prec z$, then necessarily $y \prec (x \prec z)$.
+Syllogizing this with the last, we get (53).
+
+In consequence of this theorem, it will be convenient to omit
+parentheses after the sign of inclusion, writing $x \prec y \prec z$
+for $x \prec (y \prec z)$. But [del]it[/del] [ins]the parentheses[/ins] must be retained before the sign,
+in case the former operand is compound, as in $(x \prec y) \prec z$.
+
+I will now show that
+
+(54) If $x \prec y$ and $y \prec z$, then necessarily $x \prec z$.
+In (51), substitute $y$ for $x$, and $z$ for $y$. Then we get,
+[del]If[/del] If $y \prec z$, then if $y$, necessarily $z$.
+But in (50) substitute $z$ for $y$. Then we get
+If $z$ then necessarily $x \prec z$.
+Syllogizing the two last,
+(55) If $y \prec z$, then if $y$, necessarily $x \prec z$.
+In [del](49)[/del] [ins](50)[/ins], substitute $z$ for $y$. Then we get

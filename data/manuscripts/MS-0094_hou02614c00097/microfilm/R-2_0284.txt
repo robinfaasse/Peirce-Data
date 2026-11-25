@@ -1,0 +1,29 @@
+Then we proceed precisely as above. Namely
+
+(3) We take the intersections
+[tab] $[(w+c)\{0+x, x\}]_2 = [0+2x] = [x'_0]$
+[tab] $[(w+c)\{0+x, y\}]_2 = [0+x+y] = [y'_0]$
+[tab] $[(w+c)\{0+x, z\}]_2 = [0+x+z] = [z'_0]$
+
+(4) We take the intersections
+[tab] $[\{x'_0 y\}\{x y'_0\}] = [0+2x+y]$,
+[tab] $[\{x'_0 z\}\{x z'_0\}] = [0+2x+z]$,
+[tab] $[\{y'_0 z\}\{y z'_0\}] = [0+x+y+z]$.
+
+(5) Then the plane of these points must pass through
+[del]$\{[0+x] w\}$, which we[/del] $\{(w+c)w\}$, which is the same
+as $\{wc\}$. And this plane ought to be called $(c+2w)$.
+
+(6) Further,
+[tab] [del]$\{[w+c](0+x)\}$,[/del] [ins]$[x-y]$,[/ins] $[0+2x+z]$, $[0+x+y+z]$ are in one ray,
+[tab] $[y-z]$, $[0+2x+y]$, $[0+2x+z]$ are in one ray,
+and $[z-x]$, $[0+2x+y]$, $[0+x+y+z]$ are in one ray,
+as they should be according to the notation.
+
+It is obvious that we might take $[0+y]$ or $[0+z]$
+equally with $[0+x]$, so getting the points
+and $[0+2y+z]$
+and $[0+y+2z]$.
+
+It is also plain that the intersections of the plane $(c+2w)$ by $\{0x\}$
+$\{0y\}$, $\{0z\}$ must be called $[0+3x]$, $[0+3y]$, $[0+3z]$

@@ -1,0 +1,30 @@
+[pn]20[/pn] Thus, reckoned in one way, its census number is
+$$(x+1) X_1 + 2(x+1) U_1^{-1} - x X_0$$
+while reckoned in another way, its census number is
+$$X_1 + (x+2) U_1^{-1} + U_1^x$$
+Hence
+$$U_1^x = x X_1 + x U_1^{-1} - x X_0 = -x U_1^{-1}$$
+But there is no reason for supposing that this formula holds
+for $x$ [del]=[/del] negative, except that it identically holds for $x = -1$.
+If a simple line passes through the outlying point of another
+line figure, the census value calculated in one way, is (if we
+assume that the outlying point adds one to the chorisy)
+$$3 X_1 + 4 U_1^{-1} + U_1^{-2} - X_0$$
+while, calculated in another way, it is
+$$2 X_1 + 4 U_1^{-1}$$
+Hence $U_1^{-2} = X_0$ [del]If then we had $U_1^{-2} = -(-2) U_1^{-1}$ we should
+have $U_1^{-1} = \frac{1}{2} X_0$ and since $X_1 + 2 U_1^{-1} = X_0$, we should have $X_1 = 0$,
+which would not be convenient.[/del]
+
+[del]If[/del] A simple self-returning line of cyclosis 1 and non-singular
+may be conceived as consisting of any number, $y$, of simple
+terminated lines, joined at $y$ [del]po[/del] extremities. Hence we have
+$$X_0 + K_1 = y X_1 + 2 y U_1^{-1} - y X_0 = 0 \text{ or } K_1 = -X_1$$
+If joining two ordinary points of a line figure by a simple
+line increases the cyclosis by $z$ while it adds two singularities
+of the first order, we have
+$$z K_1 + 2 U_1^1 = X_1 + 2 U_1^{-1} - 2 X_0$$
+whence $z = 1$.
+
+The added line, instead of increasing the cyclosis, may diminish
+the chorisy [del]to[/del] by $z$. Then $-z X_1 + 2 U_1^1 = X_1 + 2 U_1^{-1} - 2 X_0$ or $z = 1$.

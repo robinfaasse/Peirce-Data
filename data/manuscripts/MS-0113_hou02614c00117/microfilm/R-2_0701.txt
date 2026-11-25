@@ -1,0 +1,70 @@
+$$\begin{vmatrix}
+a & b & c \\
+d & e & f \\
+g & h & i
+\end{vmatrix} (cx + z) = \begin{aligned}
+& (ac + c)x \\
++ & (dc + f)y \\
++ & (gc + i)z
+\end{aligned} = - [del]c[/del]x + z$$
+
+$$\begin{aligned}
+ac + c & = -c \qquad dc + f = 0 \\
+gc + i & = 1
+\end{aligned}$$
+
+$$ac + c = 0 \qquad = -y + cz$$
+
+$$\begin{aligned}
+& - [del]c[/del]x + z \\
+& -y + cz \\
+& x - cy
+\end{aligned}$$
+
+$$\begin{array}{c|c}
+\begin{aligned}
+& -cx & + z \\
+\hline & cx & + z
+\end{aligned} & \begin{aligned}
+& cx [del]+ z[/del] & + z \\
+\hline & -cx & + z \\
+& & -y + cz \\
+& & x - cy \\
+& & x + cy \\
+& & y + cz
+\end{aligned}
+\end{array}$$
+
+Change sign of term in c.
+$$\begin{aligned}
+a + cb \\
+a - cb
+\end{aligned}$$
+
+$$\begin{array}{c|c|c}
+\pm z + cx & \mp x + cy & \mp y + cz \\
+\hline x + cy & y + cz & z + cx \\
+x - cy & y - cz & z - cx \\
+\hline
+\end{array}$$
+
+$$\begin{array}{c|c}
+\begin{aligned}
+& cx \\
+- & cx
+\end{aligned} & z - cx
+\end{array} \qquad \begin{aligned}
+c & \ 1 \ 0 \ \pm c \\
+1 & \ c \ 0 \ \pm 1
+\end{aligned}$$
+
+$$-z + cx$$
+
+$$\begin{array}{c|c|c|c}
+x + cy & y + cz & z + cx & - \\
+x - cy & y - cz & z - cx & - \\
+\hline y + cz & z + cx & x + cy & - \\
+y - cz & z - cx & x - cy & - \\
+\hline z + cx & x + cy & y + cz & - \\
+z - cx & x - cy & y - cz & -
+\end{array}$$

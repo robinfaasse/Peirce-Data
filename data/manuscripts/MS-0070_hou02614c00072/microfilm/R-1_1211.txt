@@ -1,0 +1,24 @@
+[pn]N₁[/pn] [u]Analysis of Demonstrations concerning Positive Integers.[/u]
+[del]X[/del] The [del]l.c.[/del] Roman letters are of the Universe of Positive Integers,
+including $0$
+
+The Greek minuscules are of the Universe of Properties of Integers
+
+$q_{iu}$ means $u$ has the property $i$ [ins]common and peculiar to a class of positive integers[/ins]
+
+$\sigma_{iu}$ means $u$ has a property $i$ common and peculiar to all
+integers from $0$ up to a certain integer
+
+$\Pi_u \Sigma_i \sigma_{iu}$     $\Pi_u \Sigma_i \bar{\sigma}_{iu}$     $\Pi_u \Sigma_i q_{iu}$     $\Pi_u \Sigma_i \bar{q}_{iu}$
+
+$\Pi_i \Sigma_u q_{iu}$     $\Pi_i \Sigma_u \bar{q}_{iu}$     [del]$\Pi_i$[/del] $\Pi_i \sigma_{iu}$ means $u$ is zero
+
+$\Pi_i \bar{\sigma}_{iu} + \sigma_{iv}$ means $v$ is at least as small as $u$
+
+$\Pi_i \bar{q}_{iu} + q_{iv}$ means $u$ is [del]as[/del] for [del]all[/del] [del]$\Sigma$[/del]
+
+[del]$\Pi_i \Pi_j \Sigma_k \Pi_u \Sigma_v \Pi_w \Pi_x q_{ku} \cdot (\bar{q}_{kv} + q_{kw})$[/del]
+
+$\Pi_i \Pi_j \Sigma_k \Pi_u \Sigma_v \Pi_w \Pi_x \sigma_{iu} \cdot \bar{\sigma}_{iv} + \bar{\sigma}_{iu} \cdot \sigma_{iv} \cdot \bar{\sigma}_{iw} + \bar{q}_{ku} + q_{kv}$
+
+That is $\Pi_i \Pi_j \{ \Pi_u \Pi_v (\bar{\sigma}_{iu} + \sigma_{iv}) \cdot (\sigma_{iu} + \bar{\sigma}_{iv}) \} \times \Pi_v (\bar{q}_{uv} + q_{uv}) \cdot (q_{uv} + \bar{q}_{uv})$

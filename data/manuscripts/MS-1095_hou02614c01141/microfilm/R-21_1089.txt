@@ -1,0 +1,12 @@
+[fig]Mathematical derivations and scratch work in columns[/fig]
+
+In forming [frac]$\partial r$[/frac][over]$\partial \theta$[/over], we have to remember that
+
+$\delta \int (D_{\underline{s}}\theta)^{2} \cdot d\underline{s} = -2 \int D_{\underline{s}}^{2}\theta \cdot \delta\theta \cdot d\underline{s}$ .
+
+[u]The truth of this well-known formula of the[/u]
+[u]calculus of variations is obvious in this case;[/u]
+for
+$\frac{1}{2} \int (D_{\underline{s}}\theta)^{2} \cdot d\underline{s} = \frac{(\theta_{i} - \theta_{i-1})^{2}}{2 \cdot d\underline{s}} + \frac{(\theta_{i+1} - \theta_{i})^{2}}{2 \cdot d\underline{s}} + \text{etc.}$
+and
+$\frac{1}{2} \delta \int (D_{\underline{s}}\theta)^{2} \cdot d\underline{s} = \frac{-\theta_{i-1} + 2\theta_{i} - \theta_{i+1}}{d\underline{s}} [del]\delta\theta_{i}[/del] = -D_{\underline{s}}^{2}\theta \cdot \delta\theta \cdot d\underline{s}$ [del]etc[/del]

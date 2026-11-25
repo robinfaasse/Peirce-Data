@@ -1,0 +1,125 @@
+$$u = A:A + B:B + B:C + C:D + C:N + D:M + D:P + E:N + E:P + E:Q$$
+$$+ F:G + G:H + I:J + J:K + K:L + L:S + T:U + V:U$$
+$$+ W:X + [del]X:Y[/del] + W:Y$$
+
+[fig]sketch of a hand pointing right[/fig]
+$$\breve{u} = A:A + B:B + C:B + G:F + H:G + I:K + J:I + K:J + M:C + N:C$$
+$$\hfill + M:D + N:E$$
+
+$$+ P:D + Q:E + S:L + U:T + X:W + Y:W$$
+$$+ P:E \hfill + U:V$$
+
+$$u\breve{u} = A:A + B:B + C:C + [del]D:D + E:E[/del] + D:C + [del]D:D + D:E[/del] + E:C + F:F$$
+$$\hfill + C:D \hfill + D:D \hfill + E:E$$
+$$\hfill + C:E \hfill + D:E \hfill + E:D$$
+
+$$+ G:G + I:I + J:J + K:K + L:L + T:T + V:T + W:W$$
+$$\hfill + T:V + V:V$$
+
+Such a relation is necessarily equiparant
+
+$$\begin{array}{rll}
+u = & A:A + & [del]C:A[/del] + \\
+& + A:B & \\
+& & + B:C \\
+& & \\
+& & + B:E
+\end{array} \left| \begin{array}{l}
+\\
+\\
+C:D \\
+\\
++ D:E
+\end{array} \right|$$
+
+$$\begin{array}{rllll}
+u = & A:A & B:A & [fig]sketch of a hand pointing right[/fig] & D:A \\
+& A:B & & & \\
+& & B:C & C:C & D:C \\
+& & B:D & C:D & \\
+& & & C:E & D:E \\
+& A:F & & &
+\end{array} \left| \begin{array}{ll}
+\\
+\\
+[del]E:B[/del] & F:B \\
+[del]E:C[/del] & \\
+\\
+\\
+E:F & \begin{array}{l} F:E \\ [del]F:F[/del] \end{array}
+\end{array} \right|$$
+
+$$\bar{u} = \begin{array}{lllll}
+& B:A & & D:A & [del]F:A[/del] \\
+& B:B & C:B & D:B & E:B \\
+A:C & & C:C & D:C & E:C \\
+A:D & B:D & & D:D & E:D \\
+A:E & [del]B:E[/del] & C:E & & E:E
+\end{array}$$
+
+$$\bar{u} = \begin{array}{lllll}
+& & C:A & & [del]F:A[/del] \\
+& B:B & C:B & D:B & \\
+A:C & & & & E:C \\
+A:D & & & D:D & \\
+A:E & B:E & & & E:E \\
+& B:F & C:F & D:F &
+\end{array} \left| \begin{array}{l}
+[del]E:A[/del] \\
+\\
+\\
+\\
+\\
+E:F
+\end{array} \right| \begin{array}{l}
+F:A \\
+\\
+F:C \\
+F:D \\
+\\
+\end{array}$$
+
+$$u\bar{u} = \begin{array}{lllll}
+A:A & B:A & C:A & [del]D:A[/del] & \\
+A:B & B:B & C:B & D:B & \\
+A:C & B:C & C:C & [del]D:C[/del] & \\
+A:D & B:D & C:D & D:D & \\
+A:E & B:E & C:E & D:E &
+\end{array}$$
+
+$$u\bar{u} = \begin{array}{lllll}
+& B:A & C:A & D:A & [del]E:A[/del] \\
+A:B & & C:B & D:B & [del]E:B[/del] \\
+A:C & B:C & & D:C & [del]E:C[/del] \\
+A:D & B:D & C:D & & [del]E:D[/del] \\
+A:E & B:E & C:E & D:E & [del]E:E[/del] \\
+A:F & B:F & C:F & D:F & [del]E:F[/del]
+\end{array} \left| \begin{array}{l}
+[del]F:A[/del] \\
+F:B \\
+F:C \\
+F:D \\
+F:E \\
+\end{array} \right|$$
+
+$$u\bar{u} = \begin{array}{lllll}
+A:A & B:A & C:A & D:A & [del]E:A[/del] \\
+& B:B & & D:B & E:B \\
+& B:C & C:C & D:C & E:C \\
+A:D & & C:D & D:D & E:D \\
+A:E & [del]B:E[/del] & C:E & D:E & E:E
+\end{array}$$
+
+$$\bar{u}\bar{u} = \begin{array}{lllll}
+& B:A & C:A & D:A & E:A \\
+A:B & & C:B & D:B & E:B \\
+A:C & B:C & & D:C & E:C \\
+A:D & B:D & C:D & & E:D \\
+A:E & B:E & C:E & D:E &
+\end{array} \left| \begin{array}{l}
+F:A \\
+F:B \\
+F:C \\
+F:D \\
+F:E \\
+\end{array} \right|$$

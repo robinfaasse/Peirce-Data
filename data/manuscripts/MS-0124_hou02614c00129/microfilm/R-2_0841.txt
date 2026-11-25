@@ -1,0 +1,19 @@
+It appears therefore that every [del]real[/del] plane contains
+one real ray.
+
+Let us now see whether every point is
+"contained" in a real ray.
+
+Let the point be have for its coordinates
+[del]$x$[/del] $x_1 + \xi_1 i$ $y_1 + \eta_1 i$ $z_1 + \zeta_1 i$
+
+Let the real ray be
+$x = [del]x' t + x''[/del] [ins]$x' t + x'' (1-t)$[/ins]$ [ins]$x' t + \xi_2 (1-t)$[/ins]
+$y = y' t + y'' (1-t)$
+$z = z' t + z'' (1-t)$
+
+$x' t + x'' (1-t) = x_1 + \xi_1 i$
+$t (x' - x'') = x_1 - x'' + \xi_1 i$
+$t = \frac{x_1 - x''}{x' - x''} + \frac{\xi_1}{x' - x''} i$
+$= \frac{y_1 - y'' + \eta_1 i}{y' - y''}$
+$= \frac{z_1 - z'' + \zeta_1 i}{z' - z''}$

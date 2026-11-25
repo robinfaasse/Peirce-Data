@@ -1,0 +1,18 @@
+[pn]V[/pn] $[(a \prec b) \prec c] \prec d = (\bar{a} + b)\bar{c} + d = (\bar{a} + b + d)(\bar{c} + d)$
+$= \bar{a}\bar{c} + b\bar{c} + d$
+[del]$= [b + (d \prec a)][/del]
+
+Special cases
+1 $[(a \prec b) \prec c] \prec a = c \prec a$ NB
+2 $[(a \prec b) \prec c] \prec b = \bar{a}\bar{c} + b$ NB $= [(c \prec b) \prec a] \prec b$
+3 $[(a \prec b) \prec c] \prec c = \bar{a} + b + c$ NB $= [(a \prec c) \prec b] \prec b$
+4 $[(a \prec b) \prec a] \prec d = a \prec d$ by $2\ \text{II}\ 1$
+5 $[(a \prec b) \prec b] \prec d = \bar{a}\bar{b} + d$
+$= [(a \prec d) \prec b] \prec d$ NB
+6 $[(a \prec a) \prec c] \prec d = c \prec d$ by $2\ \text{II}\ 3$
+7 $[(a \prec a) \prec c] \prec a = c \prec a$ by $2\ \text{II}\ 3$
+8 $[(a \prec b) \prec a] \prec b = a \prec b$ by $2\ \text{II}\ 1$
+9 $[(a \prec b) \prec b] \prec b = a \prec b$ NB
+10 $[(a \prec a) \prec c] \prec c$ Necessary by $2\ \text{II}\ 3$ and $1\ \text{I}\ 1$
+11 $[(a \prec b) \prec a] \prec a$ Necessary by $2\ \text{II}\ 1$ and $1\ \text{I}\ 1$
+[del]12 $[(a \prec b) \prec b] \prec b$[/del]

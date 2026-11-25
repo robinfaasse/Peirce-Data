@@ -1,0 +1,26 @@
+[del]\sqrt{A} + \sqrt{B} + \sqrt{C} = 1[/del]
+[del]\sqrt{A} + \sqrt{B} = 1 - \sqrt{C}[/del]
+[del]A + B + 2\sqrt{AB} = 1 - 2\sqrt{C} + C[/del]
+[del]2\sqrt{AB} = 1 - A - B + C - 2\sqrt{C}[/del]
+[del]4AB = (1 - A - B + C)^2 - 4(1 - A - B + C)\sqrt{C} + 4C[/del]
+
+[del]4(1 - A - B + C)\sqrt{C} =[/del] [del]1 + A^2 + B^2 + C^2[/del]
+[del]- 2A - 2B + 6C[/del]
+[del]+ 2AB - 2AC - 2BC[/del]
+
+[fig]Geometric diagram with curves and lines[/fig]
+
+\frac{1}{p} \sqrt{(x-a)^2 + (y-b)^2}
++ \frac{1}{q} \sqrt{(x-c)^2 + (y-d)^2}
++ \frac{1}{r} \sqrt{(x-e)^2 + (y-f)^2} = 1
+
+\frac{1}{p^2}(x-a)^2 + \frac{1}{p^2}(y-b)^2
++ \frac{1}{q^2}(x-c)^2 + \frac{1}{q^2}(y-d)^2
++ \frac{2}{pq} \sqrt{\begin{aligned} &[(x-a)^2 + (y-b)^2] \\ &\cdot [(x-c)^2 + (y-d)^2] \end{aligned}}
+= 1 + \frac{2}{r} \sqrt{(x-e)^2 + (y-f)^2}
+
+\sqrt{x^2 + y^2} = x + 2p
+
+\sqrt{(x-p)^2 + y^2} = x + p
+x^2 - 2xp + p^2 + y^2 = x^2 + 2px + p^2
+y^2 = 4px

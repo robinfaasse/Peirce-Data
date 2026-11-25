@@ -1,0 +1,12 @@
+We started with a binary system of quantity, considered what sort of operation was needed in such a system, and defined this operation by means of the two values. Pursuing the method common to mathematicians, we have developed the notation, until we are now in a condition to give formal definitions of the operations in general terms, [del]not nor[/del] [ins]containing explicitly[/ins] $v$ or $f$, which we can, on the contrary, now define by means of these operations.
+
+[marginalia]Printer
+is Capital
+Roman
+reversed[/marginalia] For this purpose, it will be convenient to use the symbol [u]T[/u], not as a part of our algebra, but simply as an abbreviation for the phrase "can be replaced by." Thus, equation (4) may be written
+$$x \dagger y \text{ [u]T[/u] } y \dagger x,$$
+and equation (5) may be written
+$$\overline{x \dagger y} \dagger \bar{z} \text{ [u]T[/u] } \overline{x \dagger \overline{y \dagger \bar{z}}}.$$
+$$\overline{x \dagger y} \dagger \bar{z} \text{ [u]T[/u] } x \dagger \overline{y \dagger \bar{z}}$$
+
+[marginalia]Printer use daggers of different fonts to justify with the brackets.[/marginalia]

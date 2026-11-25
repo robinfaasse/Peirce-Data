@@ -1,0 +1,31 @@
+[pn]51[/pn]
+
+His method consists in writing essentially
+
+[del]$$\infty = l_1 0 + [l(T+1)] \bar{l}_1 \infty$$[/del]
+$$[del]\infty = l_1 0 + [l(T+1)] \bar{l}_1 \infty[/del]$$
+$$+ (l \cdot l_T) \infty \cdot (l \cdot \bar{l}_T) \infty$$
+$$+ [l \cdot (l_T)_1] \infty + l_T 0$$
+
+$$l = l_1 0 +$$
+$$l \infty = l_1 \infty + \bar{l}_1 \infty 0$$
+$$l_T 0 = (l_T 0) 1 0$$
+$$l_T = l_T 1 0$$
+
+When he writes
+$$l_T = 1 1 1 T 0$$ this means
+$$l_T 0 \prec l_T 1 0$$
+$$[l(T+1)] \cdot \bar{l} \infty \prec l_T 1 0$$
+$$(l \cdot l_T) \infty \cdot (l \cdot \bar{l}_T) \infty \prec l_T 1 0$$
+$$[del][l \cdot (l_T)_1] \infty \prec [l_T \cdot (l_T)_1] \infty[/del]$$
+$$[l \cdot (l_T)_1] \infty \prec [l_T \cdot (l_T)_1] \infty$$
+$$\bar{l}_T 0 \prec l_T 1 0$$
+
+These are proved by
+[del]$$l_T 0 \prec l_T 1 1 0$$[/del]
+[del]$$l_T 0 \prec l_T 1 1 0$$[/del]
+$$1 \prec \bar{T} \cdot (T+1)$$
+$$l_T 0 = 0$$
+$$l_T 0 \prec l_1 1 T 0 \prec l(T+1) 1 T 0 \prec l_T 1 1 T 0 \cdot l_T 0$$
+[del]$$(l_T 1)_1 \infty \prec (l_T 1)_1 1 T 0$$[/del]
+$$(l+1) \infty$$

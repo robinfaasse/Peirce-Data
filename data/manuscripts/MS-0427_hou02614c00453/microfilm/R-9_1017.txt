@@ -1,0 +1,23 @@
+[pn]Logic II[/pn]
+[pn]84[/pn]
+
+one system. It may be called
+
+[u]Rescue from Parallelism.[/u]
+A Possible Rescue from Parallelism.
+
+[fig]Two intersecting four-sided geometric shapes[/fig]
+
+$r_1$ $\theta_1$
+$r_2$ $\theta_3$
+$r_3$ $\theta_3$
+
+$r_1 \sin \theta_1 + r_2 \sin \theta_2$
+
+$a^2 + b^2 - 2ab \cos C$
+
+[del]$R^2$[/del] [ins]$r_1^2$[/ins] $+ R^2 - 2r_1 R \cos (\theta_1 - \Theta)$
+$= [del]R^2[/del] [ins]$r_2^2$[/ins] $+ R^2 - 2r_2 R \cos (\theta_2 - \Theta)$
+$= [del]R^2[/del] [ins]$r_3^2$[/ins] $+ R^2 - 2r_3 R \cos (\theta_3 - \Theta)$
+
+$\frac{(r_1 + r_2) [del]\pm[/del] [ins]\mp[/ins] 2R - r_1 \cos (\theta_1 - \Theta) - r_2 \cos (\theta_2 - \Theta)}{r_1 - r_2}$

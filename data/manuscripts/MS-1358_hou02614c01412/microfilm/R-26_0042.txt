@@ -1,0 +1,75 @@
+[marginalia]
+Morrison Pond [del]1890[/del] [ins][date]1890 Sep 13[/date][/ins]
+[/marginalia]
+
+[pn]3[/pn]
+
+[marginalia]
+[del]1828[/del]
+[ins]68[/ins]
+[/marginalia]
+
+$$\delta y_1 = .398 + 0.105 \delta x_1$$
+
+$$\begin{array}{rcc}
+.1 \delta y_1 & = & .0398 + 0.0105 \delta x_1 \\
+\text{[del]}-.0428 \delta y_1\text{[/del]} & & 170 \qquad\quad 45 \\
+-.1428 \delta y_1 & = & -.0568 - 0.0150 \delta x_1 \\
+& & + .2122 + 0.2998 \\
+\hline
+& & + .1554 + 0.2848 \delta x_1 = 0
+\end{array}$$
+
+$$\begin{array}{r}
+\text{[ins]}3.571\text{[/ins]} \\
+3511 \\
+\underline{1945} \\
+- .5456 = \delta x_1
+\end{array}$$
+
+$$\begin{array}{r}
+.05456 \\
+\underline{273} \\
+- .05729 \\
+\underline{.398} \\
++ .341 = \delta y_1
+\end{array}$$
+
+$$\begin{array}{rlrl}
+\beta_0 & 10 & \beta_2 & 100 \\
+\lambda_0 & \underline{0.228} & \lambda_i & \underline{1.910} \\
+\beta_0 + \lambda_0 & 10.228 & \beta_2 + \lambda_i & 101.910 \\
+\\
+\alpha_0 & 0.3 & \alpha_2 & 0.2 \\
+\mu_0 & \underline{0.825} & \mu_i & \underline{0.1378} \\
+\alpha_0 + \mu_0 & 1.125 & \alpha_2 + \mu_i & 0.3378
+\end{array}$$
+
+$$\begin{array}{rlrl}
+(\beta_0 + \lambda_0) \heartsuit & \begin{array}{r} -4.80 \\ \underline{-.109} \end{array} & -(\beta_2 + \lambda_i) \heartsuit & \begin{array}{r} -10.191 \\ -2.85 \\ \underline{-.054} \end{array} \\
+& = -4.909 & & = + 13.095 +
+\end{array}$$
+
+$$- \kappa_0 \heartsuit + .17645 \qquad + \kappa_i \heartsuit = \begin{array}{r} .041 \\ \underline{117} \\ -.0527 \end{array}$$
+
+$$- \kappa_0 \heartsuit - .2520 \qquad - \kappa_i \heartsuit - .09594$$
+
+$$(\alpha_0 + \mu_0) \heartsuit + \begin{array}{r} .686 \\ \underline{8575} \\ .77175 \end{array} \qquad (\alpha_2 + \mu_i) \heartsuit + .07905$$
+
+$$\begin{array}{r}
+(\alpha_0 \lambda_0 + \frac{\lambda_0}{\mu_0}) \delta x_1 - 1.6770 \\
+\begin{array}{r} 167228 \\ \underline{167} \end{array} \\
+167395 \\
+- 1.674 \\
+- \alpha_0 \kappa_0 \delta x_1 \qquad + .060125
+\end{array} \qquad - (\alpha_2 \lambda_i + \frac{\lambda_i}{\mu_i}) \delta x_1 \begin{array}{r} 110635 \\ \underline{443} \\ 110192 \\ + .6093 \end{array}$$
+
+$$+ \alpha_2 \kappa_i \delta x_1 = -.04473$$
+
+[fig]Line connecting calculations[/fig]
+
+$$\begin{array}{r} 79092 \\ \underline{468} \\ 0452 \end{array}$$
+
+$$- \beta_0 \kappa_0 \delta y_1 - 12529 \qquad - \beta_2 \kappa_i \delta y_1 \begin{array}{r} 5456 \\ \underline{6} \\ 60125 \end{array} \begin{array}{r} 38792 \\ \underline{176} \\ 83368 \end{array} - 13.93$$
+
+$$(\beta_0 \kappa_0 + \frac{\kappa_0}{\mu_0}) \delta y_1 + 38368 \qquad (\beta_2 \kappa_i + \frac{\kappa_i}{\mu_i}) \delta y_1 + 11.509$$

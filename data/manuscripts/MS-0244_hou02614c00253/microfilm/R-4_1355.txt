@@ -1,0 +1,23 @@
+[del]$\overline{u}_{x+1}^{2} = A_{x}^{2} + B_{x} u_{x}^{2}$[/del]
+
+[del]$u_{x}^{2} = $[/del]
+[del]$u_{x} = $[/del]
+
+[del]$u_{x+1}^{2} +$[/del] [del]$u_{x}$[/del]
+$u_{x+1} = P_{x} u_{x}^{2} = 0$
+$u_{x+1} = P_{x} u_{x}^{2}$
+$u_{1} = P_{0} u_{0}^{2}$
+$u_{2} = P_{1} u_{1}^{2} = P_{1} P_{0}^{2} u_{0}^{4}$
+$u_{2} = P_{2} u_{1}^{2} = P_{2} P_{1}^{2} P_{0}^{4} u_{0}^{8}$
+$\log u_{x+1} = \log P_{x} + 2 \log u_{x}$
+$\log u_{x+1} - 2 \log u_{x} = \log P_{x}$
+$\log u_{x} = 2^{x-1} \sum \frac{\log P_{x}}{2^{x}} + C 2^{x}$
+$u_{x} = \left( \Pi_{x} P_{x}^{\frac{1}{2^{x}}} \right)^{2^{x-1}} C^{2^{x}}$
+
+[fig]Arrow pointing from left page to right page[/fig]
+
+$u_{x+1}^{2} = A_{x}^{2} (1 + B_{x}^{2} u_{x}^{2})$
+$u_{x+1} = A_{x} \sqrt{1 + B_{x}^{2} u_{x}^{2}}$
+
+[u]$u_{1} = A_{0} \sqrt{1 + B_{0}^{2} u_{0}^{2}}$[/u]
+[u]$u_{2} = A_{1} \sqrt{1 + B_{1}^{2} u_{1}^{2}} = A_{1} \sqrt{1 + B_{1}^{2} A_{0}^{2} + B}$[/u]

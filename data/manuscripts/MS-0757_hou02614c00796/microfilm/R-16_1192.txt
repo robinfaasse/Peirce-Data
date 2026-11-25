@@ -1,0 +1,54 @@
+[marginalia]
+[del]In place of or we use the sign +[/del]
+[/marginalia]
+
+[del]of quantity. In place of or we use the sign +[/del] [ins]In logical addition[/ins]
+[del]of addition.[/del] The logical sum of two propositions is that
+proposition which is true if either of them be true and false
+only if both are false. If A & B are the two propositions, their
+logical sum is written A + B. It is equivalent to A < B
+If A is false and B is false, A + B is false.
+If A is false and B is true, A + B is true.
+If A is true and B is false, A + B is true.
+If A is true and B is true, A + B is true.
+Suppose A signifies "the earth moves round the sun," and B "the
+sun moves round the earth"; then A+B signifies "either the earth
+moves round the sun, or the sun moves round the earth."
+The logical product of two propositions is that proposition
+which is false if either be false and is true only if both
+be true. The logical product of A and B is written AB, or is
+equivalent to A < B
+If A is false and B is false, AB is false.
+If A is false and B is true, AB is false.
+If A is true and B is false, AB is false.
+If A is true and B is true, AB is true.
+If A and B have the significations given above AB means "the
+earth moves round the sun, and the sun moves round the earth,"
+which means that the proposition is true only in case of
+its being both true of both of them.
+Prove from the above definitions that the following
+formulae will hold, whatever be the precise significations of X,
+Y, and Z.
+(1) X + X = X
+(2) If X < Y, then Y + X = Y
+(3) If X < Y and Y < Z then X < Z
+If X < Y, then X + Y = Y
+If Y < X, then X + Y = X
+(4) XY = YX
+(5) (XY)Z = X(YZ)
+These two are called the commutative principles of addition and
+multiplication.
+(6) (X + Y) + Z = X + (Y + Z)
+(7) (X + Y)Z = XZ + YZ
+These are called the associative principles of addition and
+multiplication.
+(8) X(Y + Z) = XY + XZ.
+Exercise. Prove from the above formulae that the following
+[del]formulae[/del] are called distribution formulae.
+(X + Y)(Z + U) = (X + Y)Z + (X + Y)U = XZ + YZ + XU + YU
+(X + Y)(Z + U) = XZ + YZ + XU + YU
+(X + Y)(Z + U)(V + W) = (XZ + YZ + XU + YU)(V + W) = XZV + YZV + XUV + YUV + XZW + YZW + XUW + YUW
+(1 + y)(1 + z) = (1 + y) + (1 + y)z = 1 + y + z + yz
+(1 + x)(1 + y)(1 + z) = (1 + x)(1 + y + z + yz) = 1 + y + z + yz + x + xy + xz + xyz
+(1 + u)(1 + x)(1 + y)(1 + z) = (1 + u)(1 + x + y + z + xy + xz + yz + xyz) = 1 + x + y + z + xy + xz + yz + xyz + u + ux + uy + uz + uxy + uxz + uyz + uxyz
+(1 + t)(1 + u)(1 + x)(1 + y)(1 + z) = (1 + t)(1 + u + x + y + z + ux + uy + uz + xy + xz + yz + uxy + uxz + uyz + xyz + uxyz) = 1 + u + x + y + z + ux + uy + uz + xy + xz + yz + uxy + uxz + uyz + xyz + uxyz + t + tu + tx + ty + tz + tux + tuy + tuz + txy + txz + tyz + tuxy + tuxz + tuyz + txyz + tuxyz

@@ -1,0 +1,32 @@
+[pn]8[/pn]
+
+[u]Fifth Company[/u]
+[u]First Squad[/u]
+$xx = a$     $x \dagger x = a$
+
+[u]Second Squad[/u]
+$x \overline{x} = a$     $x \dagger \overline{x} = a$
+$\overline{x} x = a$     $\overline{x} \dagger x = a$
+
+[u]Third Squad[/u]
+$x \overset{\smile}{x} = a$     $x \dagger \overset{\smile}{x} = a$
+$\overset{\smile}{x} x = a$     $\overset{\smile}{x} \dagger x = a$
+
+[u]Fourth Squad[/u]
+$x \overset{\smallfrown}{x} = a$     $x \dagger \overset{\smallfrown}{x} = a$
+$\overset{\smallfrown}{x} x = a$     $\overset{\smallfrown}{x} \dagger x = a$
+
+He says Determinate $x$ from $xx = a$ is very difficult.
+$x = p A:A + q A:B + r B:A + s B:B$
+$xx = p^2 A:A + [del]pq[/del] [ins]pr[/ins] A:B + [del]qr[/del] [ins]ps[/ins] A:B + [del]ps[/del] [ins]qr[/ins] B:A + [del]qs[/del] [ins]qs[/ins] B:A + [del]rs[/del] [ins]rs[/ins] B:B + s^2 B:B
+[fig]algebraic simplification markings[/fig]
+
+$p=0$ $q=0$ $r=0$ $s=0$ $xx=0$
+$p=0$ $q=0$ $r=0$ $s=\infty$ $xx=B:B$
+$p=0$ $q=0$ $r=\infty$ $s=0$ $xx=0$
+$p=0$ $q=0$ $r=\infty$ $s=\infty$ $xx=B:A + B:B$
+$p=0$ $q=\infty$ $r=0$ $s=0$ $xx=0$
+$p=0$ $q=\infty$ $r=0$ $s=\infty$ $xx=A:B + B:B$
+$p=0$ $q=\infty$ $r=\infty$ $s=0$ $xx=A:A + B:B$
+$p=0$ $q=\infty$ $r=\infty$ $s=\infty$ $xx=A:A + A:B + B:A + B:B$
+$p=\infty$

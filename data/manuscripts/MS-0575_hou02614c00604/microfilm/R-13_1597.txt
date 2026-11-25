@@ -1,0 +1,22 @@
+[u]Theorem I.[/u] ([u]Boole.[/u]) Logical addition and internal mul-
+tiplication are associative [del]processes[/del] [ins]operations[/ins].
+
+From principles I, II, III, IV, we have
+
+$$y \prec y + z$$
+
+$$y + z \prec x + (y + z)$$
+
+$$\therefore \quad y \prec x + (y + z)$$
+
+$$x \prec x + (y + z)$$
+
+$$\therefore \quad x + y \prec x + (y + z)$$
+
+$$z \prec x + (y + z)$$
+
+$$\therefore (x + y) + z \prec x + (y + z)$$
+
+Similarly $x + (y + z) \prec (x + y) + z$.
+
+The same applies to multiplication.

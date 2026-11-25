@@ -1,0 +1,33 @@
+105
+[fig]figure[/fig]
+
+[u]i[/u][sup]2[/sup], [u]ji[/u], [u]ki[/u], [u]li[/u], [u]mi[/u], [u]ni[/u] are all different, if follows that some
+one of them must be equal to [u]i[/u].  This one may or may not be [u]i[/u].
+Suppose, first that it is not so; but that, say, [u]ji[/u] [del]—[/del] [ins]=[/ins] [u]i[/u].
+Then [u]j[/u][sup]2[/sup][u]i[/u]=[u]j[/u][u]i[/u] [del]—[/del] [ins]=[/ins] [u]j[/u] ([u]ji[/u]) [del]—[/del] [ins]=[/ins] [u]ji[/u] [del]—[/del] [ins]=[/ins] [u]i[/u].  Thus [u]j[/u][sup]2[/sup] is some letter which
+multiplied into [u]i[/u] gives [u]i[/u].  But since this is true of [u]j[/u], it can-
+not, by our hypothesis, be true of any other letter, and it must
+be that [u]j[/u][sup]2[/sup] [del]—[/del] [ins]=[/ins] [u]j[/u].  Thus, if [u]i[/u][sup]2[/sup] is not [u]i[/u], there is some other let-
+ter whose square is the letter itself.  We may assume, then, [u]i[/u]
+to be that letter; and we shall have [u]i[/u][sup]2[/sup] [del]—[/del] [ins]=[/ins] [u]i[/u].  Then what will
+any other letter, say [u]j[/u], give when multiplied by [u]i[/u] ?  Since
+[u]i[/u] [del]—[/del] [ins]=[/ins] [u]i[/u][sup]2[/sup], we have [u]ij[/u] [del]—[/del] [ins]=[/ins] [u]i[/u][sup]2[/sup][u]j[/u] [del]—[/del] [ins]=[/ins] [u]i[/u] ([u]ij[/u]).  But according to our
+hypothesis[del],[/del] [ins]if [u]j[/u] were not equal[/ins] to [u]ij[/u], as the product, then
+[u]i[/u] [u]j[/u] could [ins]not[/ins] be equal to [u]i[/u] ([u]i[/u] [u]j[/u]), as it is.  Hence [u]i[/u] [u]j[/u] [del]—[/del] [ins]=[/ins] [u]j[/u], and
+similarly [u]i[/u] [u]k[/u] [del]—[/del] [ins]=[/ins] [u]k[/u], [u]i[/u] [u]l[/u] [del]—[/del] [ins]=[/ins] [u]l[/u], [u]i[/u] [u]m[/u] [del]—[/del] [ins]=[/ins] [u]m[/u], [u]i[/u] [ins]n[/ins][del]N[/del] [del]—[/del] [ins]=[/ins] [u]n[/u]; and by like
+reasoning [u]j[/u] [u]i[/u] = [u]j[/u], [u]k[/u][u]i[/u] = [u]k[/u], [u]li[/u] = [u]l[/u], [u]mi[/u] = [u]m[/u], [u]ni[/u] = [u]n[/u].  It is plain,
+then, that no other quantity can have its square equal to itself.
+For, if [u]j[/u][sup]2[/sup] = [u]j[/u] while [u]ij[/u] = [u]j[/u], we should have by our hypothesis [u]i[/u] = [u]j[/u].
+[del]318[/del] Since the product of two letters is a letter in every case,
+and since the number of letters is finite, it follows that some
+power of a letter is equal to some other power of the same letter.
+But suppose that [u]j[/u][sup]p[/sup] = [u]j[/u][sup]p + q[/sup] [del]—[/del] [ins]=[/ins] [u]j[/u][sup]p[/sup][u]j[/u][sup]q[/sup].  But [u]j[/u][sup]p[/sup] is equal to a
+letter and therefore, as we have seen, [u]j[/u][sup]p-1[/sup] = [u]j[/u][sup]p[/sup].  Thus, [u]j[/u][sup]p[/sup][u]j[/u]
+[del]—[/del] [ins]=[/ins] [u]j[/u][sup]p-1[/sup][u]j[/u][sup]q[/sup], where [u]j[/u][sup]q[/sup] is likewise equal to a letter.  But it is
+assumed that multiplication is invertible for the letters; so
+that [u]j[/u][sup]q[/sup] [del]—[/del] [ins]=[/ins] [u]i[/u].  That is, some power of each letter is [u]i[/u].
+Moreover, [u]j[/u][sup]q-1[/sup] will also be equal to a letter; and [u]j[/u][u]j[/u][sup]q-1[/sup] [del]—[/del] [ins]=[/ins]
+[u]j[/u][sup]q-1[/sup][u]j[/u] = [u]i[/u].  There is, therefore, for each letter some let-
+ter which multiplied by [ins]or into[/ins] it gives [u]i[/u] as the product; and
+
+[fig]figure[/fig] [fig]figure[/fig] [fig]figure[/fig]

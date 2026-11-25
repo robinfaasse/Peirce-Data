@@ -1,0 +1,32 @@
+[marginalia]R.[/marginalia]
+not consider them as such, here. The smallest denominator, then,
+that a rational fraction can have is 1.
+
+Of two [del]fraction[/del] [ins]rational[/ins] fractions having a common deno-
+minator, that one which has the greater numerator is always
+the greatest in value.
+
+Of two [del]fraction[/del] [ins]rational[/ins] fractions having a common numerator,
+that one which has the greatest denominator is never the
+greatest. For let the fractions be [u]N/D[/u] and [u]N/D'[/u] where [u]D' > D[/u].
+Then,
+[u]N[/u]/[u]D[/u] - [u]N[/u]/[u]D'[/u] = [u]N(D' - D)[/u]/[u]DD'[/u]
+which is always positive unless [u]N = 0[/u]. All [ins]rational[/ins] fractions having 0
+for their numerators are equal.
+
+Let [u]U[sub]d[/sub][/u] denote the number of [ins]rational[/ins] fractions having [u]d[/u] for their
+common denominator and which are all at least as great
+as one cardinal number, [u]c[/u], but not so great as the next greater
+cardinal number, [u]c + 1[/u]. Then,
+[u]U[sub]d[/sub] = d[/u].
+For [u]cd[/u]/[u]d[/u] = [u]c[/u] and [u]cd + 1[/u]/[u]d[/u], [u]cd + 2[/u]/[u]d[/u], etc. up to [u]cd + c[/u]/[u]c[/u] exclusive are all
+less than [u]c + 1[/u].
+
+[del]It[/del] [ins]I say it[/ins] follows that
+[u]U[sub]d-1[/sub] + U[sub]d-2[/sub] + U[sub]d-3[/sub] + [ins]... + U[sub]0[/sub][/ins] [del]etc[/del] = [sup]1[/sup]/[sub]2[/sub] d(d-1) + C[/u],
+where C is a quantity whose value does not depend upon that of d.
+
+I proceed to prove the truth of this equation. For this purpose let
+[u]E[sub]d[/sub][/u] signify the operation of "enlargement relative to [u]d[/u]".
+That is, let [u]E[sub]d[/sub][/u], written before any algebraical expression, form,
+together with that expression, the equivalent of what that expression

@@ -1,0 +1,25 @@
+Dedekind's Dirichlet §23
+
+[ins]each having a definite and fixed ordinal number in the series of[/ins]
+I am going to give a notation which renders the [del]new[/del] elementary algebraic composition of the functions in square brackets perfectly clear.
+
+[del]Suppose that we have a series of integers, their ordinal places in the series[/del] [ins]Let us have a series of [del]integers[/del] [ins]terms, elements, [del]whose[/del] [ins]their[/ins] ordinal places in the series[/ins] are[/ins] important. All those whose ordinals are odd are to be denoted by [del]a T with an index subscript equal to half the ordinal place minus one;[/del] [ins]T with a subscript index [del]which is half the ordinal number minus one[/del][/ins] while those whose ordinals are even are denoted by [del]U[/del] [ins][del]U[/del] [ins]$\Pi$[/ins][/ins] with a subscript index [del]the same as that of the T in the next preceding place.[/del] [ins]which is half the ordinal number.[/ins]
+
+Thus the series will be
+(1) $\tau_0$, $\Pi_0$, $\tau_1$, $\Pi_1$, $\tau_2$, $\Pi_2$, $\tau_3$, $\Pi_3$, etc.
+
+Each of these denotes one number unequivocally, [del]which we will term an element.[/del] [ins]Every element has thus a definite ordinal.[/ins]
+
+Taking [del]the[/del] [ins]these elements[/ins] $\tau$s and $\Pi$s as independent variables we [del]for[/del] are to form four series of functions denoted by
+$\text{T}'_0$, $\text{T}'_1$, $\text{T}'_2$, $\text{T}'_3$, etc,
+$\text{T}''_0$, $\text{T}''_1$, $\text{T}''_2$, $\text{T}''_3$, etc,
+$\Pi'_0$, $\Pi'_1$, $\Pi'_2$, $\Pi'_3$, etc,
+$\Pi''_0$, $\Pi''_1$, $\Pi''_2$, $\Pi''_3$, etc,
+
+[ins]Thirdly, no element [del]of[/del] can be [del]that is[/del] a factor of a constituent of a function [del]whose[/del] [ins]of the[/ins] subscript index of the element exceed that of the function,[/ins]
+
+Each of these functions is the sum of all possible products of elements [del]that[/del] [ins]which products[/ins] fulfill [del]certain[/del] [ins]the following[/ins] conditions:
+
+[ins]First[/ins] Taking the elementary factors of any product in their order in series (1), [del]they are[/del] [ins]are[/ins] alternately $\tau$s and $\Pi$s, invariably beginning with $\tau_0$, [del]while[/del] [ins]and[/ins] the last factor in [del]order[/del] of any $\text{T}$ is a $\tau$, [del]while[/del] [ins]and[/ins] that of any $\Pi$ is a $\Pi$. [del]The[/del] [ins]Second[/ins] No element enters into a product to a higher degree than the first, and consequently all the products whose sum makes a $\text{T}$ have odd numbers of factors, while all whose sum makes a $\Pi$ have even numbers of factors. [ins]All the products which are additive terms of [del]T's or $\Pi$'s[/del] [ins]on no subscript[/ins] contain $\tau_0$ as a factor, which is excluded from all products which are terms of [del]T's or U's.[/del] [ins]$\text{T}$'s or $\Pi$'s.[/ins][/ins]
+
+It follows that $\tau_{m+1}$ is a factor of [del]$\Delta$[/del] $\Delta_m \text{T}'_m$ and of $\Delta_m \text{T}''_m$ and that $\Pi_{m+1}$ is a factor of $\Delta_m \Pi'_m$ and of $\Delta_m \Pi''_m$.

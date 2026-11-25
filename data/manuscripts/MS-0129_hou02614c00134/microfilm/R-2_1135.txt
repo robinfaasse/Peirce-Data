@@ -1,0 +1,10 @@
+[u]Definition[/u] . The spherical excess of a spherical triangle is [del]the excess of the[/del] [ins]sum of its [ins]internal[/ins] angles over a circuit.[/ins]
+
+[u]Theorem[/u] . The spherical excess of a spherical triangle is [del]proportional to the[/del] its [del]angle[/del] enclosure.
+
+[u]Demonstration[/u]. Let [del]to[/del] $\alpha\beta\gamma$ be any spherical triangle. Then I say that its enclosure is proportional to $\angle\alpha\beta + \angle\beta\gamma + \angle\gamma\alpha - \partial$.
+
+[fig]Spherical triangle diagram with regions labeled A, E, I, O[/fig] For the [del]four[/del] [ins]three[/ins] planes together with the firmament sever space into 8 regions. But not considering those as different which are only separated by the firmament, there are four, which may be distinguished as $A, E, I, O$, where $A$ and $O$ are not adjacent. The [del]space[/del] [ins]region[/ins] $A$ may be considered as the enclosure of the [del]sp[/del] triangle. Then, using $\angle$ to denote an internal angle, it is plain that $A+I$ make up the same fraction of all space which $\angle\alpha\beta$ makes of one circuit. For if $\angle\alpha\beta$ and $\partial$ have a common measure, let the motion be rotated round $\{\alpha\beta\}$ so that the part of the motion it encloses shall at once measure $\angle\alpha\beta$ in comparison with $\partial$ and $A+I$ in comparison with $A+I+E+O$, which is all space. It is evident that the proportion holds for all commensurable values, and hence, by Theorem , for all values. That is
+$$\frac{\angle\alpha\beta}{\partial} = \frac{A+I}{A+E+I+O}$$
+
+In like manner

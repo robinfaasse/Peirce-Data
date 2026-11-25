@@ -1,0 +1,11 @@
+[u]z[/u] for [u]y[/u]. It then reads, if [u]y[/u] < [u]z[/u], either [u]y[/u] is false or [u]z[/u] is true. Combining this with P, we see that if [u]x[/u] < [u]y[/u] and [u]y[/u] < [u]z[/u], then either [u]x[/u] < [u]z[/u] or [u]z[/u] is true. Call this [del]statement[/del] [ins]proposition[/ins] Q. In the statement of B, substitute [u]z[/u] for [u]y[/u]. It then reads, if [u]z[/u] is true, [u]x[/u] < [u]z[/u]. Combining this with Q, we see that if [u]x[/u] < [u]y[/u] and [u]y[/u] < [u]z[/u], then [u]x[/u] < [u]z[/u]. Q.E.D.
+
+<u>Proof of Rule 2</u>. In the statement of A, substitute [u]y[/u] for [u]x[/u] and [u]z[/u] for [u]y[/u]. It then reads, if [u]y[/u] is false [u]y[/u] < [u]z[/u]. But by B, if [u]y[/u] is true, [u]x[/u] < [u]y[/u]. Hence, either [u]x[/u] < [u]y[/u] or [u]y[/u] < [u]z[/u]. Q.E.D.
+
+When we write x = y, we mean no more than that x < y and y < x. [del]This is now[/del] [ins]From this[/ins] definition, it is easy to show that logical equality is subject to all the rules of arithmetical equality. For these rules are three, as follows:
+
+x = x.
+If x = y, then y = x.
+If x = y, and y = z, then x = z.
+
+The first of these, is proved as follows. Rule 2 [del]reads[/del], either x < y or y < z. Substitute

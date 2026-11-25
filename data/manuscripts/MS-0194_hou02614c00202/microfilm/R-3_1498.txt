@@ -1,0 +1,29 @@
+[del]r cos w[/del]
+
+[del]r cos w[/del] + l cos φ + i r sin w + i l sin φ
+
+- r sin w . D_t w - l sin φ . D_t φ + i r cos w . D_t w + i l cos φ D_t φ
+
+- r cos w (D_t w)^2 - l cos φ (D_t φ)^2 - i r sin w (D_t w)^2 - i l sin φ (D_t φ)^2
+
+- r sin w D_t^2 w - l sin φ D_t^2 φ + i r cos w . D_t^2 w + i l cos φ D_t^2 φ
+
+- r sin w . D_t w - l sin φ D_t φ + i r cos w D_t w + i l cos φ D_t φ
+
+- dt r cos w (D_t w)^2 - dt l cos φ (D_t φ)^2 - dt . i r sin w (D_t w)^2 - dt i l sin φ (D_t φ)^2
+
+- dt r sin w D_t^2 w - dt l sin φ D_t^2 φ + dt . i r cos w D_t^2 w + dt i l cos φ D_t^2 φ
+
+r cos w + l cos φ + i r sin w + i l sin φ
+
+- dt r sin w D_t w - dt l sin φ D_t φ + dt i r cos w D_t w + dt i l cos φ D_t φ
+
+r cos w + l cos φ + i r sin w + i l sin φ
+
+[fig]Line segment[/fig]
+
+a sin B
+
+[fig]Triangle[/fig]
+
+a sin B

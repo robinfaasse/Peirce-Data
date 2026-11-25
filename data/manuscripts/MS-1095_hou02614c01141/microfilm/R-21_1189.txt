@@ -1,0 +1,12 @@
+While $\chi$ was
+$\chi = (\beta r - 2(a^2+b^2)r\log r - \frac{a^2b^2}{r} + r^3)\cos\theta$
+$= \beta x - [del]4[/del](a^2+b^2)x\log(x^2+y^2) - a^2b^2\frac{x}{x^2+y^2} + x^3+xy^2$
+
+[fig]triangle pointing left[/fig]
+[fig]star-like intersecting lines[/fig] Let us try the supposition that it [del]now[/del] becomes equal to the same function [ins]of $x_1$ and $y_1$[/ins] after substituting for [del]x[/del] where the same function of $x'$ that it now is of $x$.
+$x' = x + (x^2+y^2-b^2)\frac{c}{a^2-b^2}$
+$D_x x' = 1 + 2x\frac{c}{a^2-b^2}$
+$D_y x' = 2y\frac{c}{a^2-b^2}$
+$D_y \chi = D_{x'} \chi \cdot 2y\frac{c}{a^2-b^2} + (D_y \chi)$
+When $x^2+y^2=b$ $x'=x$ $(D_y \chi)=0$ $D_{x'} \chi = 0$ and
+then $D_y \chi = 0$

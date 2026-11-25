@@ -1,0 +1,29 @@
+[pn]QE[/pn] [pn]2[/pn]
+
+change the sign, [del]the[/del] result is the other root.
+
+If we multiply $x + \frac{B}{2A}$ into itself we get
+
+$$\begin{array}{r}
+x + \frac{B}{2A} \\
+x + \frac{B}{2A} \\
+\hline
+2x^2 + \frac{B}{2A}x \\
++ \frac{B}{2A}x + \frac{B^2}{4A^2} \\
+\hline
+x^2 + \frac{B}{A}x + \frac{B^2}{4A^2}
+\end{array}$$
+
+Hence, dividing the equation by $A$,
+
+$$x^2 + \frac{B}{A}x + \frac{C}{A}$$
+$$= \left(x + \frac{B}{2A}\right)^2 + \frac{C}{A} - \frac{B^2}{4A^2} = 0$$
+
+or $\left(x + \frac{B}{2A}\right)^2 = \frac{B^2}{4A^2} \left(1 - \frac{4AC}{B^2}\right)$
+
+The quantity $1 - \frac{4AC}{B^2}$ [ins](or rather [del]4AC - B^2[/del])[/ins] is called the discriminant of the equation. Taking the square root of both sides, and observing that minus any quantity when squared gives the square of the quantity, we get
+
+$$x + \frac{B}{2A} = \pm \frac{B}{2A} \sqrt{1 - \frac{4AC}{B^2}}$$
+$$x = -\frac{B}{2A} \pm \frac{B}{2A} \sqrt{1 - \frac{4AC}{B^2}}$$
+
+so that the two roots are

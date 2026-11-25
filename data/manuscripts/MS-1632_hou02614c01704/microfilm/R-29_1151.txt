@@ -1,0 +1,52 @@
+14. It is required to find three numbers
+such that their sum shall make a square,
+and the sum of their squares a cube.
+
+Solution. Let $x + y + z = s$
+and $x^2 + y^2 + z^2 = s'$
+and let the numbers sought be $x s^p s'^{p'}$, $y s^p s'^{p'}$, and $z s^p s'^{p'}$.
+Their sum is $(x+y+z) s^p s'^{p'} = s^{p+1} s'^{p'}$,
+and the sum of their squares is $(x^2+y^2+z^2) s^{2p} s'^{2p'} = s^{2p} s'^{2p'+1}$.
+As the first of these is to be a square,
+$p$ must be an odd number
+and $p'$ an even one.
+As the second is to be a cube,
+$p$ must be divisible by $3$
+as well as $2p'+1$.
+$p$ must be of the form $3(n+1)$
+and $p'$ of the form [del]$2(3n'-1)$[/del] [ins]what is the same[/ins] $2(3n'+2)$.
+The quantities are then $x s^{3(n+1)} s'^{2(3n'+2)}$, $y s^{3(n+1)} s'^{2(3n'+2)}$ &c.
+[marginalia]
+$\frac{4p'+2}{3}$
+[/marginalia]
+Making $x=1$, $y=2$, $z=3$ gives and $m=0$ $n=0$.
+Scholium. the same method may be easily extended
+to more numbers in which the sum of the $n\text{th}$ powers
+is to make an $m\text{th}$ power &c.
+
+15. [del]It is required to find three numbers
+such that[/del] A cone, the diameter of whose base
+is $6$ inches and height $3$ feet, is to be wound
+by a thread in such a maner that it may go
+around once in each foot: required the length of
+the thread.
+
+Solution. Let $2\psi$ be the angle of the cone,
+$r$ the radius vector drawn from the vertex of the cone
+and $\varphi$ the angle made by the projection of this
+radius vector on the base of the cone with the [del]its[/del]
+initial position of the projection. Then the equations
+of the curve are. $r = a \varphi$
+$\psi = \text{a const. quantity.}$
+$a = \text{a const. quantity.}$
+the differential of the arc is
+$\sqrt{(d r^2 + r^2 \sin^2\psi\ d\varphi^2 + a^2 \sin^2\psi\ d\varphi^2)}$
+$= a \sqrt{(1 + \varphi^2 \sin^2\psi)}\ d\varphi$.
+[del]Integrating, we obtain
+the arc =[/del]
+Make. $\varphi \sin\psi = \tan\vartheta$
+$d\varphi = \frac{1}{\sin\psi} \frac{d\vartheta}{\cos^2\vartheta}$
+diff. of arc = $\frac{a\ d\vartheta}{\cos^3\vartheta}$
+arc = $\frac{a \sin\vartheta}{2 \cos^2\vartheta} + \frac{a}{2} \log \tan(45^\circ + \frac{\vartheta}{2})$.
+In the present case [del]$\tan\psi$[/del] $\varphi = \text{two circumferences} = 4\pi$
+$\tan\psi = \frac{3}{3} = 1$ $\psi = 45^\circ$

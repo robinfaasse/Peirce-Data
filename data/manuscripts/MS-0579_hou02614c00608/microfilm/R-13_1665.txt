@@ -1,0 +1,58 @@
+General forms with 5 copulas
+
+I. $U \prec \{V \prec [W \prec (X \prec (Y \prec Z))]\}$
+II. $U \prec \{V \prec [W \prec ((X \prec Y) \prec Z)]\}$
+III. $U \prec \{V \prec [(W \prec X) \prec (Y \prec Z)]\}$
+IV. $U \prec \{V \prec [(W \prec (X \prec Y)) \prec Z]\}$
+V. $U \prec \{V \prec [((W \prec X) \prec Y) \prec Z]\}$
+VI. $U \prec \{(V \prec W) \prec (X \prec (Y \prec Z))\}$
+VII. $U \prec \{(V \prec W) \prec [(X \prec Y) \prec Z]\}$
+VIII. $U \prec \{[(V \prec W) \prec X] \prec (Y \prec Z)\}$
+IX. $U \prec \{(V \prec W) \prec [(X \prec Y) \prec Z]\}$
+[del]X. $U \prec \{[(V \prec W) \prec Y] \prec Z\}$[/del]
+X. $U \prec \{[(V \prec W) \prec X] \prec Y] \prec Z\}$
+
+[marginalia]
+$\frac{x^n - y^n}{x - y}$
+$\frac{x^n - y^n}{x^{n-1} - y^{n-1}}$
+$\frac{(x-1)^n}{2}$
+$\frac{132}{42}$
+$\frac{28}{202}$
+$404$
+$25$
+[/marginalia]
+
+[fig]Dot diagram[/fig]
+[fig]Dot diagram[/fig]
+[fig]Dot diagram[/fig]
+[fig]Dot diagram[/fig]
+[fig]Dot diagram[/fig]
+[fig]Dot diagram[/fig]
+
+[del]$2 + 1 + 2$[/del] $(2 \times 2) + 1 = 5$
+$(2 \times 5) + (2 \cdot 2) + [del]1[/del] = 14$
+$2 \cdot 14 + 2 \cdot 5 + 2 \cdot 2 = 42$
+$2 \cdot 42 + 2 \cdot 14 + 2 \cdot 2 \cdot 5 = 132$
+$2 \cdot 132 + 2 \cdot 42 + 2 \cdot 2 \cdot 14 + 5 \cdot 5 = 429$
+
+[marginalia]
+$\frac{14}{5}$
+$\frac{2}{21}$
+[/marginalia]
+
+[marginalia]
+$264$
+$84$
+$56$
+$25$
+$429$
+[/marginalia]
+
+[marginalia]
+$24$
+$42$
+$60$
+$132$
+[/marginalia]
+
+[fig]Table of numbers[/fig]

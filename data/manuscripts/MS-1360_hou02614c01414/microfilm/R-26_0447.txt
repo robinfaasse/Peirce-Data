@@ -1,0 +1,47 @@
+[marginalia]
+[del]the value to simplify[/del]
+[/marginalia]
+
+$$\frac{x}{A} \frac{y}{q} = \sec \psi \cdot \frac{x_1}{\tan \phi}$$
+
+$$d \cot \phi = d (\tan \phi)^{-1} = - (\tan \phi)^{-2} \sec^2 \phi d\phi$$
+
+$$\frac{\cot \phi d\phi}{\sin^2 \phi} - \frac{d\phi}{\sin \phi}$$
+
+$$\frac{x}{y} \frac{x_1}{y_1} = \frac{\cot \phi}{\cot \phi_1} = \frac{\frac{dy}{dx}}{\frac{\csc^2 \phi d\phi}{x_1 \cot \phi}}$$
+
+$$\frac{2}{\sin 2\psi} \log \frac{\tan (45^\circ - \frac{1}{2}\phi) [del]\tan[/del]}{\tan (45^\circ - \frac{1}{2}\phi) + \tan (45^\circ + \frac{1}{2}\psi)}$$
+$$\frac{\tan (45^\circ - \frac{1}{2}\phi) \tan (45^\circ + \frac{1}{2}\psi) - 1}{}$$
+
+$$\frac{\tan \alpha + \tan \beta}{1 + \tan \alpha \tan \beta}$$
+$$= \frac{\sin \alpha \cos \beta + \cos \alpha \sin \beta}{\cos \alpha \cos \beta + \sin \alpha \sin \beta}$$
+$$= \frac{\sin (\alpha + \beta)}{\cos (\alpha - \beta)}$$
+
+$$\log \frac{[del]\tan[/del] \cos \frac{1}{2}(\psi - \phi)}{\cos \frac{1}{2}(\psi + \phi)}$$
+
+[marginalia]
+[del]D[/del] [del]\log \tan (45^\circ +[/del]
+[/marginalia]
+
+$$- \sec^2 \phi \cdot \frac{1}{2} \sec^2 \psi [del]\tan[/del] (45^\circ + \frac{1}{2}\phi) \sec^2 (45^\circ - \frac{1}{2}\phi)$$
+
+$$\log \tan \frac{x}{2} = \frac{1}{2 \tan \frac{x}{2} \cos^2 \frac{x}{2}} = \frac{1}{\sin x} = \csc x$$
+
+$$\log \cos \phi = - \frac{\sin \phi}{\cos \phi} = - \tan \phi$$
+
+$$- \sec^2 \phi + \sec \psi \sec \phi * [del]\csc 2\psi + \tan (\phi - \psi)[/del]$$
+$$+ \csc 2\psi \tan (\phi + \psi)$$
+
+$$\tan \alpha + \beta = \frac{\tan \alpha + \tan \beta}{1 - \tan \alpha \tan \beta}$$
+$$\tan (\alpha - \beta) = \frac{\tan \alpha - \tan \beta}{1 + \tan \alpha \tan \beta}$$
+
+$$\frac{\tan \alpha + \tan \beta + \tan^2 \alpha \tan \beta + \tan \alpha \tan^2 \beta}{[del]- \tan \alpha + \tan \beta + \tan^2 \alpha \tan \beta - \tan \alpha \tan^2 \beta[/del]}$$
+
+$$\frac{2 \tan \beta \sec^2 \alpha}{1 - \tan^2 \alpha \tan^2 \beta}$$
+
+$$\sin 2 B$$
+
+$$\frac{\cos^2 \alpha \cos^2 \beta}{\cos^2 \alpha + \cos^2 \beta - 1}$$
+
+$$\frac{1 - \cos^2 \alpha}{1 - \cos^2 \beta}$$
+$$\frac{1 - \cos^2 \alpha - \cos^2 \beta}{}$$

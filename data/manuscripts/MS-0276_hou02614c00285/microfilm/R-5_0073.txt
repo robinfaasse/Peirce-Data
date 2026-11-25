@@ -1,0 +1,62 @@
+```
+000900090009000901
+3235508493
+1903
+0009000933341312297
+49014826142488
+[del]4901480242635[/del]
+[del]2452451[/del]
+2
+4901482644488
+0009896091851667809
+
+C_k = [u]\frac{2^x + 2^{-x}}{2}[/u] S_k = [u]\frac{2^x - 2^{-x}}{2}[/u]
+
+C_0 = 1 S_0 = 0
+C_1 = 1.01 S_1 = 0.11
+C_10 = 10.001 S_10 = 1.111
+C_11 = 100.0001 S_11 = 11.1111
+
+[u]\frac{2^x + 2^{-x}}{2}[/u] \cdot [u]\frac{2^y + 2^{-y}}{2}[/u] - [u]\frac{2^x - 2^{-x}}{2}[/u] \cdot [u]\frac{2^y - 2^{-y}}{2}[/u]
+
+[u]2^{x+y} + 2^{-x-y}[/u]
+2
+
+---
+
+\Delta (x-1)(x-2)\dots(x-m)
+= x(x-1)\dots(x-m+1) - (x-1)\dots(x-m) = [del](x-m)[/del]
+
+[fig]crossed out text[/fig]
+
+[del]x(x-1)\dots[/del] \equiv x^{(2)}
+x \equiv x^{(1)}
+1 \equiv x^{(0)}
+\frac{1}{x+1} \equiv x^{(-1)}
+\frac{1}{(x+2)(x+1)} \equiv x^{(-2)}
+
+x^{(-m)} = \frac{1}{(x+1)(x+2)\dots(x+m)}
+
+D x^{(-m)} = \frac{1}{(x+2)(x+3)\dots(x+m+1)} - \frac{1}{(x+1)(x+2)\dots(x+m)}
+
+= \frac{1}{(x+1)(x+2)\dots(x+m)} \cdot \frac{x+1}{(x+m+1)} - \frac{x+m+1}{(x+1)(x+2)\dots(x+m)(x+m+1)}
+
+= -m \frac{1}{x^{(m-1)}}
+
+\frac{(x-2)(x-1)x}{(x+1)} \frac{(x-1)x(x+1)}{(x+2)}
+
+[del]\frac{x(x-1)}{x}[/del] = x-2
+
+[fig]crossed out text[/fig]
+
+9
+101
+10001
+1000001
+108
+001
+1113
+1009
+1000
+11110
+```

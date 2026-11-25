@@ -1,0 +1,23 @@
+$$E a^x = a a^x \quad E C a^x = C a^{x+1} = x C a^x$$
+
+$$E u_x + a u_x = 0$$
+$$u_x = (-a)^{x+C}$$
+
+$$E u_x + u_x = 0 \quad u_x = (-1)^{x+C}$$
+$$u_x = C (-1)^x \quad E a^{x^2} + E^{-1} a^{x^2} = 2 a a^{x^2}$$
+
+$$E a^{x^2} = a^{x^2+2x+1} = a a^{2x} a^{x^2} \quad E u_x + E^{-1} u_x - A u_x$$
+
+$$E a^{b^x} = a^{b \cdot b^x} = (a^{b^x})^b \quad E u$$
+$$E a^{b^{x+c}} = a^{b \cdot b^{x+c}} \quad E^2 - A E + [del]1[/del] = 0$$
+
+$$[del]E A \Theta^{B \Theta^x} = A \Theta^{B \Theta^{x+1}} = A \Theta^{B \Theta \Theta^x}[/del] \quad [del]s^2[/del] s^2 - A s + 1 = 0$$
+$$s^2 - A s + \frac{A^2}{4} = \frac{A^2}{4} - 1$$
+$$s = \frac{1}{2} A \pm \sqrt{\frac{A^2}{4} - 1}$$
+
+$$E \Theta^{A + B \Theta^{C x + D}} = \Theta^{A + B \Theta^{C x + D + C}}$$
+
+$$E \Theta^{B \Theta^{C x + D}} = \Theta^{B \Theta^C \Theta^{C x + D}} = (\Theta^{B \Theta^{C x + D}})^{\Theta^C} =$$
+
+$$E u_x = (u_x)^a \quad v_x = C a^x$$
+$$[del]E[/del] v_x = \log u_x \quad E v_x = a v_x \quad u_x = C' a^x$$

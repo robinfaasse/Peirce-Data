@@ -1,0 +1,17 @@
+[u]Logic of Number.[/u]
+By C. S. Peirce
+
+The fundamental [del]proposition[/del] [ins]premises[/ins] concerning number may be stated as follows.
+
+[u]Premise[/u]
+[del]First proposition.[/del]
+
+There is a number such that whatever is true of it and also if of any number then of [del]the[/del] [ins]every[/ins] next greater, is true of [del]any[/del] [ins]every[/ins] number. If we write $E_{jk}$ to signify that $k$ is next greater than $j$, and $q_{\alpha i}$ to signify that $i$ has the character $\alpha$, this first proposition can be written
+
+$\Sigma_{i} \Pi_{\alpha} \Sigma_{j} \Sigma_{k} \Pi_{l} (\ \bar{q}_{\alpha i} + q_{\alpha j} \bar{E}_{jk} \bar{q}_{\alpha k} + q_{\alpha l}\ )$.
+
+It will be a useful abbreviation to call a character which if true of any number is true of the next greater (or of every next greater were there more than one) a [u]hereditary[/u] character and to write
+
+$h_{\alpha} = \Pi_{j} \Pi_{k} (\ \bar{q}_{\alpha j} + \bar{E}_{jk} + q_{\alpha k}\ )$.
+
+Thus, the first proposition is expressed by saying

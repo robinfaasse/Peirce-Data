@@ -1,0 +1,29 @@
+[marginalia]
+[del]114[/del] 17
+57 8 1/2
+104 37
+52 18 1/2
+.254
+.746
+[/marginalia]
+
+[u]Solutions of Spherical Triangles[/u]
+[u]without logarithms[/u]
+
+1 [u]Given two sides, [u]b[/u] and [u]c[/u] and the included angle A[/u]
+[u]Required to find opposite side a[/u] -
+
+Calculate subsidiary angle N, by formula
+2 cos N = [del]1/2[/del] cos (b-c) - [del]1/2[/del] cos (b+c)
+Then
+2 cos a = cos (b+c) + cos (b-c) + cos (N+A) + cos (N-A)
+
+2. [u]Given two angles A and B and side a opposite one of them.[/u]
+[u]Required to find side opposite the other[/u]
+Calculate two subsidiary angles M and N by
+formulae
+2 sin M = cos (a-B) - cos (a+B)
+cos N = sin A - cos M
+Then 2 sin b = tan [u]M+N[/u]/2 + tan [u]M-N[/u]/2
+
+[fig]spherical triangle[/fig]

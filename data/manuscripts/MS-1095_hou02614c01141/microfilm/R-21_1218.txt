@@ -1,0 +1,30 @@
+Cylindrical pendulum in viscous
+air of no inertia, but incompressible.
+
+$$\frac{dp}{dx} = \mu \left( \frac{d^2}{dx^2} + \frac{d^2}{dy^2} \right) u$$
+$$\frac{dp}{dy} = \mu \left( \frac{d^2}{dx^2} + \frac{d^2}{dy^2} \right) v$$
+
+$$\frac{du}{dx} + \frac{dv}{dy} = 0$$
+
+Let us refer to new axes, not rectangular
+$$\xi = x + iy$$ [del]where $i^2 = -1$[/del] where $i^2 = -1$
+$$\eta = y + ix$$
+
+Then the component velocities referred to the new
+axes will be
+$$\upsilon = u + iv$$  $$u = \frac{1}{2} (\upsilon - i\varepsilon)$$
+$$\varepsilon = v + iu$$  $$v = \frac{1}{2} (\varepsilon - i\upsilon)$$
+
+$$D_x = D_{\xi} + i D_{\eta}$$  $$D_x^2 = D_{\xi}^2 + 2i D_{\xi} D_{\eta} - D_{\eta}^2$$
+$$D_y = i D_{\xi} + D_{\eta}$$  $$D_y^2 = -D_{\xi}^2 + 2i D_{\xi} D_{\eta} + D_{\eta}^2$$
+
+$$(D_x^2 + D_y^2) = 4i D_{\xi} D_{\eta}$$
+
+$$(D_{\xi} + i D_{\eta}) p = [del]2\mu[/del] [ins]4i[/ins] D_{\xi} D_{\eta} (\varepsilon - i\upsilon)$$
+$$(i D_{\xi} + D_{\eta}) [del]p[/del] = [del]2\mu[/del] [ins]4i[/ins] D_{\xi} D_{\eta} (\upsilon - i\varepsilon)$$
+
+[del]$4i$[/del] $D_{\xi} ip = 2\mu D_{\xi} D_{\eta} \upsilon$
+$$D_{\eta} ip = 2\mu D_{\xi} D_{\eta} \varepsilon$$
+
+$$(D_{\xi} + i D_{\eta}) (\upsilon - i\varepsilon) + (i D_{\xi} + D_{\eta}) (\varepsilon - i\upsilon) = 0$$
+[del]$D_{\xi} \upsilon + D_{\eta} \varepsilon = 0$[/del] [ins]$D_{\xi} \upsilon + D_{\eta} \varepsilon = 0$[/ins]

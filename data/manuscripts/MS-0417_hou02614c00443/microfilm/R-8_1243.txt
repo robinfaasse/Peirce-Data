@@ -1,0 +1,42 @@
+[pn]328[/pn]
+
+So
+$$(\boldsymbol{x}-\mathbf{f})(\mathbf{v}-\boldsymbol{y})=0$$
+will mean that either $x$ is false or $y$ is true. This may be said to be the same as
+'if $x$ is true, $y$ is true.' A hypothetical proposition, generally, is not confined to
+stating what actually happens; but states what is invariably true throughout a
+universe of possibility. The present proposition is, however, limited to that one
+individual state of things, the Actual.
+
+We are, thus, already in possession of a logical notation, capable of working
+syllogism. Thus, take the premises, 'if $x$ is true, $y$ is true,' and 'if $y$ is true, $z$ is
+true.' These are written
+$$\begin{aligned}
+(\boldsymbol{x}-\mathbf{f})(\mathbf{v}-\boldsymbol{y})&=0 \\
+(\boldsymbol{y}-\mathbf{f})(\mathbf{v}-\boldsymbol{z})&=0.
+\end{aligned}$$
+Multiply the first by $(\mathbf{v}-\boldsymbol{z})$ and the second by $(\boldsymbol{x}-\mathbf{f})$ and add. We get
+$$(\boldsymbol{x}-\mathbf{f})(\mathbf{v}-\mathbf{f})(\mathbf{v}-\boldsymbol{z})=0,$$
+or dividing by $\mathbf{v}-\mathbf{f}$, which cannot be 0,
+$$(\boldsymbol{x}-\mathbf{f})(\mathbf{v}-\boldsymbol{z})=0;$$
+and this states the syllogistic conclusion, "if $x$ is true, $z$ is true."
+
+§161. Of operations upon a simple variable, we shall need but one. For there
+are but two things that can be said about a single proposition, by itself; that it
+is true and that it is false, $\boldsymbol{x}=\mathbf{v}$ and $\boldsymbol{x}=\mathbf{f}$.
+The first equation is expressed by $x$ itself, the second by any function, $\phi$, of $x$,
+fulfilling the conditions $\phi\mathbf{v}=\mathbf{f}$ $\phi\mathbf{f}=\mathbf{v}$.
+The simplest solution of these equations is
+$$\phi\boldsymbol{x}=\mathbf{f}+\mathbf{v}-\boldsymbol{x}.$$
+
+§162. From what was brought out at the end of the
+chapter on the Algebra of the Copula, it appears
+that we need [ins]especially[/ins] [del]two[/del] [ins]$\ast$[/ins] ways of combining propositions,
+namely [del]first[/del] [ins]one[/ins] sort of complex proposition which
+is true [del]if[/del] [ins]only[/ins] if all its elements are true, but false
+if any one is false, and another which
+is [del]true[/del] [del]false[/del] true if any one of its elements is
+true, and false only if all are false.
+
+§163. I follow De Morgan's [del]for[/del] [ins]phraseology in using the word[/ins] dividing [del]combination[/del] [ins]to cover[/ins]
+[del]into[/del] aggregation and composition

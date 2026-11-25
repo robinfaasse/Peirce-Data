@@ -1,0 +1,14 @@
+[pn]53[/pn]
+
+[del]Live Loads[/del]
+
+where $A, B, C, G$ are arbitrary constants to be determined by terminal
+equations. I have been unable to find any finite expression satisfy-
+ing the defining equation of $z$, but there are plenty of serial
+expressions. Here, for instance, is one
+$z = -\frac{4492}{c^3} + 188 \frac{a^2}{c^4} - \frac{a^4}{c^5} + (\frac{2700}{a c^2} - 176 \frac{a}{c^3} + \frac{a^3}{c^4}) \underline{n}^2 + (\frac{146}{c^2} - \frac{a^2}{c^3}) \underline{n}^4 + (-\frac{90}{a c} + \frac{a}{c^2}) \underline{n}^6 - \frac{9}{c} \underline{n}^8 + \frac{n^{10}}{a}$
+
+For this gives
+$D_n^2 z = \frac{5400}{a c^2} - 352 \frac{a}{c^3} + 2 \frac{a^3}{c^4} + (\frac{1752}{c^2} - 12 \frac{a^2}{c^3}) \underline{n}^2 + (-\frac{2700}{a c} + 30 \frac{a}{c^2}) \underline{n}^4 - \frac{504}{c} \underline{n}^6 + \frac{90}{a} \underline{n}^8$
+$- 4492 \frac{a}{c^3} + 188 \frac{a^3}{c^4} - \frac{a^5}{c^5}$
+or

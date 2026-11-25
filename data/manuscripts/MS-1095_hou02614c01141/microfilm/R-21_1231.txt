@@ -1,0 +1,9 @@
+$D_x = [del]\frac{1}{2}[/del] B \frac{x}{x^2+y^2} - C \frac{2yx}{(x^2+y^2)^2}$
+
+$D_x^2 = + B \frac{-x^2+y^2}{(x^2+y^2)^2} - C \frac{2y(x^2+y^2)^2 - 4x^2y(x^2+y^2)}{(x^2+y^2)^4}$
+
+$D_y = A + \frac{1}{2} B \ln(x^2+y^2) + [del]\frac{1}{2}[/del] B \frac{y^2}{x^2+y^2} + C \frac{x^2-y^2}{(x^2+y^2)^2}$
+
+$D_y^2 = [del]\frac{1}{2}[/del] B \frac{y}{x^2+y^2} + B \frac{\overset{2x^2y}{2y(x^2+y^2)} - 2y^3}{(x^2+y^2)^[del]2[/del][ins]3[/ins]} + C \frac{-2y(x^2+y^2)^2 - 2y[del](x^2-y^2)[/del][ins](x^2-y^2)[/ins]}{(x^2+y^2)^4}$
+
+$D_x^2 + D_y^2 =$

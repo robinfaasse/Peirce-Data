@@ -1,0 +1,44 @@
+[del]dx = ad\xi + bd\eta[/del]
+[del]dy = cd\xi + ed\eta[/del]
+x = a\xi + b\eta
+y = c\xi + e\eta
+
+\frac{dx}{d\xi} = a + b \frac{d\eta}{d\xi} = 0 \frac{d\eta}{d\xi} = -\frac{a}{b}
+
+\frac{dy}{d\xi} = c + e \frac{d\eta}{d\xi} = c - \frac{ae}{b}
+
+\begin{aligned}
+ax &= ac\xi + be\eta \\
+ay &= ac\xi + ae\eta \\
+ay - cx &= (ae - bc)\eta
+\end{aligned}
+\begin{aligned}
+ex &= ae\xi + be\eta \\
+by &= bc\xi + be\eta \\
+ex - by &= (ae - bc)\xi
+\end{aligned}
+
+\frac{d\xi}{dx} = \frac{1}{ae - by} (e - b \frac{dy}{dx}) = 0 \frac{dy}{dx} = \frac{e}{b}
+
+\frac{d\eta}{dx} = \frac{1}{ae - bc} (-c + \frac{ae}{b}) = \frac{1}{b}
+
+\begin{aligned}
+dx &= \alpha d\xi + \beta d\eta \\
+dy &= \alpha' d\xi + \beta' d\eta
+\end{aligned}
+\begin{aligned}
+\alpha' dx \\
+\alpha dy - \alpha' dx &= (\alpha\beta' - \alpha'\beta) d\eta
+\end{aligned}
+
+\beta' dx - \beta dy = (\alpha\beta' - \alpha'\beta) d\xi
+
+d\xi = \frac{\beta'}{\alpha\beta' - \alpha'\beta} dx - \frac{\beta}{\alpha\beta' - \alpha'\beta} dy
+
+d\eta = -\frac{\alpha'}{\alpha\beta' - \alpha'\beta} dx + \frac{\alpha}{\alpha\beta' - \alpha'\beta} dy
+
+[del]\alpha d\xi + \beta d\eta = 0[/del]
+[del]\beta d\eta[/del]
+
+\alpha = \frac{dx}{d\xi} (\eta \text{ const})
+\frac{1}{\alpha} = \frac{d\xi}{dx} (\eta \text{ const})

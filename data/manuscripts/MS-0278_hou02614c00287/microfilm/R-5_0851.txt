@@ -1,0 +1,28 @@
+[fig]Right triangle with hypotenuse sqrt((dr)^2 + (dz)^2) and base dz[/fig]
+[del][fig]Circle with intersecting lines[/fig][/del]
+
+[fig]Right triangle with hypotenuse sqrt((dr)^2 + (dz)^2) and base dz[/fig]
+
+[fig]Triangles and geometric sketches[/fig]
+
+[fig]Zig-zag line[/fig]
+
+[del]r = [ins][del]dr[/del][/ins] [ins]dr[/ins]/dz z + [ins]sqrt(dr^2 + dz^2)[/ins]/dz[/del]
+
+r + [del]sqrt((dr)^2 + dz^2)[/del]/dz = [del]dr[/del]/dz z
+
+[del](sqrt((dr)^2 + (dz)^2)/dz)^2 - (dr/dz)^2 = [ins]R^2[/ins]/z^2[/del]  r + (sqrt((dr)^2 + (dz)^2)/dz) = [del]dr[/del]/dz z
+
+z' = (r dz / [del]sqrt((dr)^2 + (dz)^2) - dr[/del] + 1) z
+
+= (r dz / [del]sqrt((dr)^2 + (dz)^2) - dr[/del]
+
+(r/R)^2 = (2Z - z) z / Z^2     r = R/Z sqrt((2Z - z) z)
+
+r dr / R^2 = (Z - z) dz / Z^2
+
+dr = (R/Z)^2 Z - z / sqrt((2Z - z) z) dz
+
+(dr)^2 + (dz)^2 = (R/Z)^2 z^2 - 2Zz + Z^2 / 2Zz - z^2 = R^2/Z^2 (Z^2 / 2Zz - z^2 - 1) (dz)^2
+
+sqrt((dr)^2 + (dz)^2) = R/Z sqrt(Z^2 / 2Zz - z^2 - 1) [del]dz[/del]

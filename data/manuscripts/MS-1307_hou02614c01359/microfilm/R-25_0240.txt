@@ -1,0 +1,66 @@
+[marginalia]
+(1+x)
+[del]1/2[/del] (1+x)^-1/2
+1/8 -1/4 (1+x)^-3/2
+1/16 3/8 (1+x)^-5/2
+5/2.4.16 3.5/16 (1+x)^-7/2
+[/marginalia]
+
+[u]Repeated calculation[/u]
+
+[fig]Geometric diagram with circle, angles, and lines[/fig]
+
+sin C = [greek]e[/greek] sin M
+sin^2 C = [greek]e[/greek]^2 sin^2 M
+
+[u]1-x[/u] = 1 - 1/2 x - 1/8 x^2 - [del]1/16[/del]
+
+cos C = 1 - 1/2 [greek]e[/greek]^2 sin^2 M - 1/8 [greek]e[/greek]^4 sin^4 M
+
+A = M + C
+sin A = sin M (1 + [greek]e[/greek] cos M - 1/2 [greek]e[/greek]^2 sin^2 M - 1/8 [greek]e[/greek]^4 sin^4 M)
+cos A = cos M (1 - [greek]e[/greek] sin^2 M/cos M - 1/2 [greek]e[/greek]^2 sin^2 M - 1/8 [greek]e[/greek]^4 sin^4 M)
+cos^2 A = cos^2 M (1 - 2[greek]e[/greek] sin^2 M/cos M + [greek]e[/greek]^2 (2 sin^4 - sin^2)/cos^2 M + [del]1/2[/del] [ins][greek]e[/greek]^3[/ins] sin^4 M/cos M)
+r^2 = 1 + [greek]e[/greek]^2 - 2[greek]e[/greek] cos A
+
+[marginalia]
+sin^4/cos^2 - sin^2
+[/marginalia]
+
+[u]1+x[/u] = 1 + 1/2 x - 1/8 x^2 + 1/16 x^3 - 5/128 x^4
+
+x -2[greek]e[/greek] cos A + [greek]e[/greek]^2
+x^2 4[greek]e[/greek]^2 cos^2 A - 4[greek]e[/greek]^3 cos A
+x^3 -8[greek]e[/greek]^3 cos^3 A
+
+[marginalia]
+1/2 x -[greek]e[/greek] cos A + 1/2 [greek]e[/greek]^2
+-1/8 x^2 -1/2 [greek]e[/greek]^2 cos^2 A + 1/2 [greek]e[/greek]^3 cos A
+1/16 x^3 -1/2 [greek]e[/greek]^3 cos^3 A
+[/marginalia]
+
+r = 1 - [greek]e[/greek] cos A + [greek]e[/greek]^2 [del]sin^2 A[/del] + 1/2 [greek]e[/greek]^3 sin^2 A cos A
+
+sin V = 1/r sin A
+
+1/1+x = 1 - x + x^2 - x^3
+
+-x +[greek]e[/greek] cos A - [greek]e[/greek]^2 [del]sin^2 A[/del] - 1/2 [greek]e[/greek]^3 sin^2 A cos A
+x^2 [greek]e[/greek]^2 cos^2 A - [del]2[/del] [ins]2[/ins] [greek]e[/greek]^3 sin^2 A cos A [del]- sin^2 cos[/del]
+-x^3 +[greek]e[/greek]^3 cos^3 A
+
+[marginalia]
+-x [greek]e[/greek] cos A - 1/2 [greek]e[/greek]^2
+x^2 [greek]e[/greek]^2 cos^2 A - 1/2 [greek]e[/greek]^3 cos A
+-x^3 -[greek]e[/greek]^3 cos^3 A
+[/marginalia]
+
+[marginalia]
+3/2 [greek]e[/greek]^3 cos^3 A - 3/2 [greek]e[/greek]^3 cos A
++ 5/2 [greek]e[/greek]^3 cos A
+[/marginalia]
+
+1/r = 1 + [greek]e[/greek] cos A + [greek]e[/greek]^2 [del]cos^2 A[/del] + [greek]e[/greek]^3 [del]1/2[/del] (sin^2 A cos A + cos^3 A)
+= 1 + [greek]e[/greek] cos M - [greek]e[/greek]^2 sin^2 M - 1/2 [greek]e[/greek]^3 sin^2 M cos M
++ [greek]e[/greek]^2 cos^2 M - 2[greek]e[/greek]^3 sin^2 M cos M
+= 1 + [greek]e[/greek] cos M + [greek]e[/greek]^2 (1 - 2 sin^2 M) - 2 1/2 [greek]e[/greek]^3 sin^2 M cos M

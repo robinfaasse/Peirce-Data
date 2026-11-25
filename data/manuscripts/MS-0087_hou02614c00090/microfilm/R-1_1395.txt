@@ -1,0 +1,27 @@
+[pn]22[/pn]
+
+We now come to surface figures. A simple surface with one boundary has chorisy 1, and the other Listing numbers zero. Its census value is, therefore,
+$$X_{2} + V_{2}^{-1}$$
+
+But such a surface may be formed by putting together two surfaces of the same topical shape. Hence, calculated by parts, its census-value is
+$$2X_{2} + 2V_{2}^{-1} - (X_{1} + 2V_{1}^{-1}) = 2X_{2} + 2V_{2}^{-1} - 1$$
+
+Equating the two [del]expressions[/del] [ins]computations[/ins] we have
+$$X_{2} + V_{2}^{-1} = 1.$$ [pn](1)[/pn]
+
+If in such a surface $h$ holes be made, there is a cyclosy $h$; so that the census value is
+$$X_{2} + h K_{2} + (h+1) V_{2}^{-1}$$
+
+If one of the holes is plugged by a surface, the result is that there are only $(h-1)$ holes; and the census-value is
+$$X_{2} + (h-1) K_{2} + h V_{2}^{-1}$$
+or calculated by parts
+$$2X_{2} + h K_{2} + (h+2) V_{2}^{-1} - (X_{1} + K_{1})$$
+$$= 2X_{2} + h K_{2} + (h+2) V_{2}^{-1}$$
+
+Equating the two computations
+$$X_{2} + K_{2} + 2 V_{2}^{-1} = 0$$
+or by (1)
+$$K_{2} + V_{2}^{-1} = -1$$
+
+The census value of the surface is consequently
+$$1 - h.$$

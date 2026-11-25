@@ -1,0 +1,34 @@
+[pn]4[/pn]
+
+If there is no horizontal stretch we interpose one at the lowest point;
+If the lowest point is neither at $A$ nor at $\Omega$, but is at $n=I$, we make
+an infinitesimal stretch horizontal by separating the weight $\omega_{I} - \omega_{I-1}$
+into $\omega_{I} - \omega_{H}$ and $\omega_{H} - \omega_{I-1}$, of such magnitudes that
+
+$$\omega_{H} = \omega_{I} - Q \tan \tau_{I} = \omega_{I-1} - Q \tan \tau_{I-1},$$
+
+which is possible, since the [del]summation[/del] [ins]equation[/ins] of the vertical components of the forces
+[del]shows that[/del] gives
+$$\omega_{I} - \omega_{I-1} = Q \tan \tau_{I} - Q \tan \tau_{I-1}.$$
+
+If the horizontal stretch is at the extremity of the cord we deduct
+from the reaction of the tower a weight sufficient to make an infini-
+tesimal stretch horizontal. That amount is
+
+either $\omega_{H} = Q \tan \tau_{0}$ for a stretch at $A$
+or $\omega_{H} = - Q \tan \tau_{N}$ for a stretch at $\Omega$.
+
+[u]$\S$ 3. The Centre of Gravity.[/u] By definition, if $m > n$,
+
+(6) $\xi(m,n) = \frac{(\omega_{m} - \omega_{m-1})x_{m} + (\omega_{m-1} - \omega_{m-2})x_{m-1} + \dots + (\omega_{n+1} - \omega_{n})x_{n+1}}{\omega_{m} - \omega_{n}}$
+
+$= \frac{\omega_{m}x_{m} - \omega_{m-1}(x_{m} - x_{m-1}) - \omega_{m-2}(x_{m-1} - x_{m-2}) - \dots - \omega_{n}(x_{n+1} - x_{n}) - \omega_{n}x_{n}}{\omega_{m} - \omega_{n}}$
+
+$= \frac{[\omega_{m}x_{m} - \Sigma(\omega_{m}\Delta x_{m})] - [\omega_{n}x_{n} - \Sigma(\omega_{n}\Delta x_{n})]}{\omega_{m} - \omega_{n}}$
+
+$= \frac{[\omega x - \int \omega dx]_{n}^{m}}{\omega_{m} - \omega_{n}}.$
+
+But by (5) and (1)
+$\omega_{m}\Delta x_{m} = Q \Delta y_{m} - Q \tan \tau_{0} \Delta x_{m}$
+$\Sigma(\omega_{m}\Delta x_{m}) = Q y_{m} - Q \tan \tau_{0} \cdot x_{m} + C$
+$\omega_{m}x_{m} = Q x_{m} \tan \tau_{m} - Q \tan \tau_{0} \cdot x_{m}.$

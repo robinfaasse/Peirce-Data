@@ -1,0 +1,69 @@
+[pn]68[/pn] [pn]69[/pn]
+
+[marginalia]
+See p 76
+[/marginalia]
+
+[marginalia]
+See p 76
+[/marginalia]
+
+It is simpler to take the form
+$$\psi^{n+1} = B \frac{A + \psi^n}{C + \psi^n}$$
+
+$$\psi^{n+1}(\psi^n + C) - B(\psi^n + C) + B(C-A) = 0$$
+
+$$(\psi^{n+1} + C)(\psi^n + C) - (B+C)(\psi^n + C) + B(C-A) = 0$$
+
+[del]$$\frac{u_{n+1}}{u_n} = \frac{\psi^{n+1} + C}{\psi^n + C} = \frac{1 + \frac{\psi^{n+1}}{C}}{1 + \frac{\psi^n}{C}}$$[/del]
+
+$$(1 + \frac{\psi^{n+1}}{C})(1 + \frac{\psi^n}{C}) - (1 + \frac{B}{C})(1 + \frac{\psi^n}{C}) + B(1 - \frac{A}{C}) = 0$$
+
+$$1 + \frac{\psi^n}{C} = [del]u_n[/del] [ins]u_{n+1}[/ins]$$
+
+$$u_{n+2} - (1 + \frac{B}{C})u_{n+1} + B(1 - \frac{A}{C})u_n = 0$$
+
+[del]$$u_n = C$$[/del] $$\alpha = \frac{1}{2}(1 + \frac{B}{C}) [del]\pm[/del] [ins]\left( -1 + \sqrt{1 - 4B \frac{1 - \frac{A}{C}}{(1 + \frac{B}{C})^2}} \right)[/ins]$$
+$$\beta = \frac{1}{2}(1 + \frac{B}{C}) \left( -1 - \sqrt{1 - 4B \frac{1 - \frac{A}{C}}{(1 + \frac{B}{C})^2}} \right)$$
+
+$$u_n = C_1 \alpha^n + C_2 \beta^n$$
+
+$$1 + \frac{\psi^n}{C} = \frac{1 + \mathcal{C} (\frac{\beta}{\alpha})^{n+1}}{1 + \mathcal{C} (\frac{\beta}{\alpha})^n}$$
+
+[del]$$\frac{\beta}{\alpha} = 1 + \frac{(1 - \sqrt{1 - 4B \frac{1 - \frac{A}{C}}{(1 + \frac{B}{C})^2}} )}{2}$$[/del]
+
+$$\frac{\beta}{\alpha} = \frac{1 - \sqrt{H}}{1 + \sqrt{H}} = \frac{1 + H - 2\sqrt{H}}{1 - H}$$
+$$= 1 + 2 \frac{H - \sqrt{H}}{1 - H}$$
+$$x + y\sqrt{H} = 1 + \sqrt{H} = 1 - 2 \frac{1 - \sqrt{H}}{1 - H} \sqrt{H}$$
+$$x + Hy + (x+y)\sqrt{H} = 1 = 1 - 2 \frac{\sqrt{H}}{1 + \sqrt{H}}$$
+[del]$$x + Hy = -x$$[/del]
+$$x(1-H) = 1 \quad x = \frac{1}{1-H} \quad y = \frac{1}{1-H}$$
+$$\frac{1 + \sqrt{H}}{1 - H} = \frac{1}{1 - \sqrt{H}}$$
+
+[del]$$\frac{\beta}{\alpha} = 1 - \sqrt{H}$$[/del]
+
+Put [del]$$\frac{\beta}{\alpha} = \gamma$$[/del]
+
+$$1 + \frac{\psi^n}{C} = \frac{1 + \mathcal{C} \gamma^{n+1}}{1 + \mathcal{C} \gamma^n}$$
+
+$$\frac{1 + \frac{1}{C} \psi^{n+1}}{1 + \frac{1}{C} \psi^n} = \frac{1 + \mathcal{C} \gamma^{n+2}}{1 + \mathcal{C} \gamma^n}$$
+
+$$1 - \frac{4B(1 - \frac{A}{C})}{(1 + \frac{B}{C})^2}$$
+$$\frac{C(1 + \frac{B}{C})^2 - 4B(1 - \frac{A}{C})}{(1 + \frac{B}{C})^2}$$
+$$1 - \frac{(1 + \frac{B}{C})^2}{(1 + \frac{B}{C})^2 - 4B(1 - \frac{A}{C})}$$
+
+$$\frac{\beta^2}{\alpha^2} = \lambda \quad \frac{\beta}{\alpha} = \lambda$$
+
+$$\psi^{n+1} = B \frac{1 + A \psi^n}{1 + C \psi^n}$$
+
+$$\frac{1 + a x^{n+1}}{1 + b x^{n+1}} = \frac{1 + a' x^n}{1 + b' x^n}$$
+
+$$x^{n+1} = \frac{\frac{1 + a' x^n}{1 + b' x^n} - 1}{a - b \frac{1 + a' x^n}{1 + b' x^n}} = \frac{(a' - b') x^n}{a - b + (a b' - a' b) x^n}$$
+
+$$\frac{1 + Ax}{1 + Bx} = \frac{1 + ay}{1 + by}$$
+
+$$x + Ax + by + Abxy = \lambda + Bx + ay + aBxy$$
+
+$$[A - B + (Ab - aB)y]x = (a - b)y$$
+
+$$x = \frac{(a - b)y}{A - B + (Ab - aB)y} \quad \frac{1}{x} = \frac{A - B}{a - b} \frac{1}{y} + \frac{Ab - aB}{a - b}$$

@@ -1,0 +1,41 @@
+[marginalia]
+Morson's Bridge [del]1899[/del] [ins]1909[/ins] Feb 4
+[/marginalia]
+
+[pn]2[/pn]
+
+[u]New Notation[/u]
+
+Let $b_n$ be the amount [del]a[/del] [ins]$n^{\text{th}}$[/ins] portion of truss is lifted
+$B_n$ the unstrained length of suspender
+Zero of $n$ at middle
+For end of suspenders $n = \pm N$
+" attachment of cable, $n = \pm M$
+" inner [del]truss[/del] piers $n = \pm P$
+" outer [del]truss[/del] piers $n = \pm Q$
+" [del]extremities of truss[/del] [ins]$n = \pm R$[/ins]
+$\left\{ \text{Inside suspenders } B_n = B n^2 \right\}$
+
+[marginalia]
+For extremities of live load
+$n = K$
+$n = L$
+$L > K$
+[/marginalia]
+
+$\text{Energy} = \frac{1}{2} \beta \sum_{-Q+1}^{+Q-1} (b_{n+1} - 2b_n + b_{n-1})^2$
+
+$\frac{1}{2} B \left( \sum_{-P+1}^{+P-1} + \sum_{-Q+1}^{-P-1} \right) (b_{n+1} - 2b_n + b_{n-1})^2 + \frac{1}{2} \sum_{-N}^{+N} \frac{b_n^2}{B n^2} + g w \sum_{K}^{L} b_n$
+
+Suppose truss [del]always[/del] rests on inner piers and on outer piers
+If it does not rest on inner [del]piers[/del] [ins]outside[/ins] we add to energy
+$\frac{1}{2} B (b_{p+1} - 2b_p + b_{p-1})^2$
+[del]If it rests on inner but not on outer pier at + end we add to energy[/del]
+Variation of energy. [We will suppose truss rests on both piers at $-$ end]
+
+[del]In case truss rests on outer[/del]
+[del]Truss resting on outer[/del] [ins]both piers[/ins]
+$b_q = 0$
+
+[del]$\frac{1}{2} \beta (b_{q+1} - 2b_q + b_{q-1})^2 = 0$[/del]
+$\frac{1}{2} \beta (b_{q+1} - $

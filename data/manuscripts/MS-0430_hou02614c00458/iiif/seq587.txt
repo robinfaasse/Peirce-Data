@@ -1,0 +1,21 @@
+Logic
+III
+.32
+
+P (Q (RS)) is equivalent to P (Q (R) (Q (S). This
+will be the case if each of these forms is transformable
+into the other. Beginning with P (Q (RS)), we iterate
+the last part, giving P (Q (RS) (Q (RS)). Then, by Rules I
+and III, this gives P (Q (R) (Q (S). [del]Next, startin[/del] This shows
+that the first form is transformable into the second. Next
+starting with the last result, we get by iteration
+P (Q (R (Q (S))) (Q (S)
+By the rule of iteration, this gives
+P (Q (R (S)) (Q (S)
+which gives
+P (Q (RS).
+This shows that the second form can be transformed into the
+first.
+It follows that if there is more than a single letter or
+single enclosure within two ovals the number can be re-
+duced [ins]within[/ins] until there is but one letter or one enclosure [del]conest[/del]

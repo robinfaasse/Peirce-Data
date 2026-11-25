@@ -1,0 +1,28 @@
+[pn]24[/pn]
+census-value is
+$$X_2 + (c+1)\Pi_2 + V_2^c$$
+or, calculated by parts, is
+$$(c+1)X_2 + \Pi_2 + cV_2^{-1} - c(X_1 + K_1) = (c+1)X_2 + \Pi_2 + cV_2^{-1}$$
+Equating the two computations
+$$c(X_2 - \Pi_2 + cV_2^{-1}) = V_2^c$$
+or by (2)
+$$V_2^c = -cV_2^{-1}$$
+The census-value of the surface is, therefore,
+$$2+c$$
+which holds for $c$ equal to $-1$ or to $-2$. The equation for
+$V_2^c$ shows that it makes no difference where the caps are
+put on.
+
+We thus have the convenient expressions
+$$\begin{aligned} X_2 &= 1 + V_2^1 \\ K_2 &= -1 + V_2^1 \\ \Pi_2 &= 1 - V_2^1 \\ V_2^c &= cV_2^1 \end{aligned}$$
+[del]$$U_2^1 = V_2^1$$[/del]
+If two simple closed surfaces are tacked together, the census-value is
+$$X_2 + 2\Pi_2 + U_2^1$$
+But, calculated by parts, its is
+$$-2X_2 + 2\Pi_2 - X_0 = 2X_2 + 2\Pi_2 - 1$$
+Equating the computes
+$$U_2^1 = X_2 - 1 = V_2^1$$
+The census-value of the surface is thus $3$.
+
+Since a terminated line has the census-value of a point, it
+is evident that a surface formed of two simply closed surfaces

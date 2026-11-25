@@ -1,0 +1,15 @@
+Let one begin with a few definitions of terms.
+
+By the [u]map-surface[/u] I mean the surface on which the map is drawn. I conceive the map to cover the whole surface.
+
+The map consists of [u]regions[/u] each in one continuous piece, [u]boundaries[/u], each of which is a line common to two regions and continuing as far as they continue to have a common line in one piece, and [u]coigns[/u], each of which is a point common to three or more regions. However, I assume that the map has been so modified, if necessary, that every coign [del]has[/del] is triedral. Then the census theorem takes the form
+[del]4[/del] [ins]N[/ins]₂ + 3 N₃ + 2 N₄ + N₅ = 12 + N₇ + 2 N₈ + 3 N₉ + etc.
+where N_i is the number of [u]i[/u]-gonal regions. This does not apply where any boundary has any cyclosis.
+
+A [u]map-condition[/u] is the requirement that two particular regions shall have different colors in consequence of being confine to one another. A deduced impossibility for two regions to have the same color (as A and B in [del]the[/del] figure 1) I do not call a map-condition.
+
+[fig]Two small map diagrams labeled Fig 1. and Fig 1. (bis)[/fig]
+
+A [u]mass[/u] of regions is a [ins]region or[/ins] number of regions which cannot be separated into two such that no region of the one is confine to any region of the other. Two masses are confine if any region of the one is confine to a region of the other, but they must have no common region. [del]Two[/del] Masses are said to be [u]distinct[/u] if they have [del]no two[/del] [ins]no[/ins] [del]any[/del] common region.
+
+An [u]annular[/u] mass is a mass whose cyclosis is 1. Its order is the number of regions it

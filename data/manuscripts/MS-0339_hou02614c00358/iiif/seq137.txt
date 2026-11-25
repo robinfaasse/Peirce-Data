@@ -1,0 +1,30 @@
+61r
+
+[del]$\phi, \psi, \Gamma \Xi$[/del]
+
+$\phi x = [del]\mathcal{C}_1[/del] [ins]$\mathcal{C}_1 e$[/ins] [ins]$\phi_1'x$[/ins] [del]$(a_1+b_1x)$[/del] $+ [del]a_2+b_2x$[/del] [ins]$\mathcal{C}_2 e^{\phi_2'x}$[/ins] $+\&c,$
+
+However, this is not the way but thus -
+
+First develope $\phi$ according to an [u]absolute[/u] (non-
+relative) term. Then
+
+$\phi x = a+bx + \mathcal{C}_1^{a_1+b_1x} + \mathcal{C}_2^{a_2+b_2x} + \&c$
+
+$\phi(0) = a + \mathcal{C}_1^{a_1} + \mathcal{C}_2^{a_2} + \&c$
+
+Now $\mathcal{C}_n^{a_n+b_nx} = \mathcal{C}_n^{a_n} \mathcal{C}_n^{b_nx}$
+
+$\therefore \mathcal{C}_n^{a_n+b_nx} = \mathcal{C}_n^{a_n+b_nx} \mathcal{C}_n^{a_n}$
+
+$\phi(1) = a + b + \mathcal{C}_1^{b_1} + \mathcal{C}_2^{b_2} + \&c$
+
+By inspection (?)
+It is next to be determined, what absolute term is
+contained in $\phi x$. If there is none $\phi x$ is a periodic
+[del]which will be treated hereafter[/del]
+
+But here I note a mistake in my
+developement formula it should be
+
+over

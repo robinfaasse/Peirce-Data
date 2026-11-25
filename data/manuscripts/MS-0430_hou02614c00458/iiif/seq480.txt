@@ -1,0 +1,67 @@
+Case 1. 2w - 1 = 0
+u² = v²
+(x + y + z)² + [del]4[/del] [ins]4[/ins] (u + v)² = 1/4
+Case II. u + v ≠ 0
+x = y = z = 0
+for
+w²x² + y² + z² + 2uv = w
+Can't be [del]gives[/del] and
+xy + yz + xz + u² = 0
+gives
+u = v = 0
+4/w = 1/2
+
+[del]1/2[/del] [del]±[/del] [del]1/4[/del] [ins]1/w[/ins] ± [del]1/4[/del] [ins]1/4[/ins] (u + v)
+
+[fig]graph with axes and curves[/fig]
+Case 12. u + v = 0
+xy + yz + xz + u² = 0
+x² + y² + z² - 2u² = 1/4
+(x + y + z)² = 1/4
+x + y + z = ± 1/2
+
+xy + yz + xz < 0
+There are [del]no others[/del] [ins]3 terms with minus signs. Call them the plus terms[/ins]
+x z < y z + y x
+z/y < x/y + x/z
+
+y/x < z/x + z/y
+
+(2w - 1) u + xy + yz + xz + v² = 0
+(2w - 1) v + xy + yz + xz + u² = 0
+(2w - 1) x + (y + z) (u + v) = 0
+(2w - 1) y + (x + z) (u + v) = 0
+(2w - 1) z + (x + y) (u + v) = 0
+1/w (2w - 1)² + x² + y² + z² + 2uv = 1/4
+
+Case 2 2w - 1 ≠ 0
+(2w - 1) (u - v) = (u² - v²)
+Case 21 [del]u - v ≠ 0[/del] [ins]u - v ≠ 0[/ins]
+2w - 1 = u + v
+x + y + z = 0
+(2w - 1)²
+9/4 (u + v)² + (x + y + z)² = 1/4
+9/4 (u + v)² = 1/4
+(u + v)² = 1/9
+u + v = ± 1/3
+v = ± 1/3 - u
+2uv = ± 2/3 u - 2u²
+x² + y² + z² ± 2/3 u - 2u² = 1/4 - [del]1[/del] [ins]9[/ins]/36 = 2/9
+± 2/3 (± 1/3 - u) + xy + yz + xz + v² + u² = 0
+2/9 ∓ 2/3 u + 2xy + 2yz + 2xz + 2u² = 0
+
+[fig]sketched coordinate graph[/fig]
+y + x = y + x
+(x - 1) y = x
+y = x/x - 1
+u = y/x - 1
+x = x²/y + x
+u = x + y/x
+[fig]sketched graph with curves[/fig]
+
+y/x [ins]of different signs[/ins]
+[fig]signs in circles[/fig]
+- +
++ -
+- -
++ +

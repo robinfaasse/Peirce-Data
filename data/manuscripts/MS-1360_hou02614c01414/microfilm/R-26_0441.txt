@@ -1,0 +1,24 @@
+Problem 1. From an immovable point hangs a cord of [del]elasticity[/del] [ins]extensibility[/ins] E
+and natural length l. To the other end is attached a weight P. Determine
+its equilibrium position.
+
+Adopt rectangular coordinates having their origin at the fixed point, and with
+y directed vertically downward.
+
+The work is [del]1/2[/del] [ins]1/2[/ins] E [u]($\frac{\sqrt{x^2+y^2+z^2}-l}{l}$)[/u]$^2$ - Py
+
+The condition of equilibrium is
+
+E ($\frac{1}{l}$ - $\frac{1}{\sqrt{x^2+y^2+z^2}}$) (xdx + ydy + zdz) - Pdy = 0.
+
+That is,
+
+E ($\frac{1}{l}$ - $\frac{1}{\sqrt{x^2+y^2+z^2}}$) x = 0
+E ($\frac{1}{l}$ - $\frac{1}{\sqrt{x^2+y^2+z^2}}$) y - P = 0
+E ($\frac{1}{l}$ - $\frac{1}{\sqrt{x^2+y^2+z^2}}$) z = 0
+
+Since neither E nor P is zero, x = 0, z = 0. Hence,
+
+$\sqrt{x^2+y^2+z^2}$ = +$\sqrt{y^2}$
+
+y = l ($\frac{P}{E}$ $\pm$ 1).

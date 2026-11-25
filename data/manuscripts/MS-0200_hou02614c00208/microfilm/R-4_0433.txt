@@ -1,0 +1,47 @@
+[fig]doodle of a person[/fig]
+[del]2⁰ = 0[/del]
+[del]2¹ - 1 = 1[/del]
+[del]2² - 2¹ = 2(2¹ - 1)[/del]
+
+0
+1
+1 0
+1 1 0
+
+2⁰ = 1
+2¹ = 2
+2² = 4
+2³ = [del]16[/del] [ins]8[/ins]
+[del]2⁴ =[/del]
+
+[marginalia]
+[u]a, b[/u]
+2⁰
+2¹
+
+0
+1
+1 0
+1 1
+[del]No one[/del]
+0 0 0
+0 1 0
+0 1 1
+1 0 0
+1 0 1
+1 1 0
+1 1 1
+1 0 0 0
+1 0 0 1
+1 0 1 0
+1 0 1 1
+1 1 0 0
+1 1 0 1
+1 1 1 0
+1 1 1 1
+[/marginalia]
+
+[marginalia]
+(d - c)(c - b) = (d - c)(c - b) + (d - c)(c - a)
+0 / (c - b) 0
+[/marginalia]

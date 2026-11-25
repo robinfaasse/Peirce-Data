@@ -1,0 +1,56 @@
+[pn]10[/pn]
+
+Syllogism
+Indeed, we may go a step further (see my [u]Classifi-[/u]
+[u]cation of Arguments[/u] [date]1867 Apr 9[/date]) and say that if [del]all[/del]
+valid arguments are equivalent if both are necessary
+and both proceed from the same premises to the
+same conclusion, then all necessary inference is
+syllogistic in the sense of consisting of the two essen-
+tial ingredients of syllogism, 1[ins]st[/ins] the principle of
+copulation, &
+[del]A[/del] S is P
+S is Q
+[triple_dot] S is both P and Q
+
+and 2[ins]nd[/ins] the principle of elimination [u]by the aid of[/u]
+[u]empty forms of propositions[/u]. Thus
+
+[u]By Darapti[/u]
+All A is B
+All A is A
+[triple_dot] Some A is B
+
+[u]By Cesare[/u]
+No A is B
+All B is B
+[triple_dot] No B is A
+
+All S is P
+[del]All T is T[/del]
+[del]All[/del] S that is T is [del]B[/del] [ins]P[/ins]
+[triple_dot] All S that is T is P
+
+[u]By Camestres[/u]
+All A is B
+[del]All[/del] non-B is [del]not-[/del] B
+[triple_dot] [del]All[/del] non-B is not A
+
+All S is P
+All P is either P or Q
+[triple_dot] All S is either P or Q
+
+Call this form
+K
+
+All S is P
+[triple_dot] (By K) [del]All[/del] non-P is not S
+
+All T is P
+[triple_dot] (By K) Any non-P is non-T
+
+[triple_dot] Any non-P is both non-S and non-T
+[triple_dot] By K. Anything not both non-S and non-T is non-non-P
+Any non-non-P is P
+[del]Any[/del] [ins]Anything either S or T[/ins] is not both non-S and non-T
+[triple_dot] Anything either S or T is P.

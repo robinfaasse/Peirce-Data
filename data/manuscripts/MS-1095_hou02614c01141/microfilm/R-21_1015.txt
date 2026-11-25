@@ -1,0 +1,9 @@
+This equation, of familiar form, is readily solved by elliptic integrals. Namely, integrating relatively to $\theta$, we have
+$$\frac{1}{2} (D_s \theta)^2 = \Psi \cos (\theta - \psi) - \Psi \cos (\theta_0 - \psi)$$
+where $\theta_0$ is an arbitrary function of the time independent of $s$, being the maximum value of $\theta$, that is its value at a point of inflexion. The reed might, it is true, be bent over into an oval shape; and in that case $\theta_0$ would be imaginary. Still, the equation would hold good; and the case being far beyond the range of the practical, it need not be further referred to. If we now introduce the quantity, $\omega$, defined by the equation
+$$\sin \omega = \frac{\sin \frac{1}{2}(\theta - \psi)}{\sin \frac{1}{2}(\theta_0 - \psi)},$$
+The [ins]differential[/ins] equation reduces to
+$$D_s \omega = \sqrt{\Psi} \cdot \sqrt{1 - \sin^2 \frac{1}{2}(\theta_0 - \psi) \cdot \sin^2 \omega}.$$
+Thus, with the usual notation of elliptic functions,
+$$\sin \frac{1}{2}(\theta - \psi) = \sin \frac{1}{2}(\theta_0 - \psi) \cdot \sin\ \text{am}\ s,$$
+the angle of the modulus being $\frac{1}{2}(\theta_0 - \psi)$. By means of this equation, $\theta$ could be eliminated from

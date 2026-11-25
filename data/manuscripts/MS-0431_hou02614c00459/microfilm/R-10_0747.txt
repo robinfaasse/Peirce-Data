@@ -1,0 +1,23 @@
+[marginalia]
+[pn]I[/pn] [u]94[/u]
+[pn]III[/pn]
+180
+[/marginalia]
+
+These may follow some of biquaternions, which we
+have already noticed. [del]Biquaternions[/del] [ins]Biquaternions[/ins] are thus connected
+with the permutations of three [del]letters[/del] [ins]things[/ins]. It is true that two
+more [del]units[/del] are required in order to express the relations
+of these permutations fully. Let us add two units which
+shall leave I, J, K, L standing quite apart. For this
+purpose, we must seek two quantities of the sextuple algebra,
+[del]So[/del] call them H and M, such that $H^2 = H$, $M^2 = M$, and
+[ins]such that[/ins] Q being any quantity of the algebra whatsoever
+$QH = HQ = \xi H$,
+$QM = MQ = \eta M$,
+where $\xi$ and $\eta$ are numbers depending on [del]the[/del] Q. Put
+$H = q \bar{u} + r \bar{i} + s \bar{j} + t \bar{k} + u \bar{l} + v \bar{m}$
+Then $H \bar{j} = q \bar{i} + r \bar{u} + t \bar{l} + s \bar{k} + v \bar{m} + u \bar{n}$
+[del]if[/del] $H = r \bar{i} + t \bar{j} + s \bar{k} + v \bar{l} + u \bar{m} + q \bar{n}$
+Hence, $r = \xi q$, $t = \eta = \xi r = \xi \xi q$, $s = \xi t$, $v = \xi s$, $u = \xi v$, $q = \xi u = \xi^6 q$.
+Consequently, $\xi^2 q = q$, $\xi^2 r = r$, etc.

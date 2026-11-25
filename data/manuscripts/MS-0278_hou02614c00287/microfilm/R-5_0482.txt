@@ -1,0 +1,23 @@
+We see that
+$\cos(-y) = \cos y$  $\sin(-y) = [del]-\sin y[/del]$ [ins]$-\sin y$[/ins]
+
+$\mathfrak{G}^{yi} = \cos y + \sin y \cdot i$
+$\mathfrak{G}^{-yi} = \cos y - \sin y \cdot i$
+
+$\cos y = \frac{1}{2} (\mathfrak{G}^{yi} + \mathfrak{G}^{-yi})$
+$\sin y \cdot i = \frac{1}{2} (\mathfrak{G}^{yi} - \mathfrak{G}^{-yi})$
+
+$\cos^2 y = \frac{1}{4} (\mathfrak{G}^{2yi} + 2 + \mathfrak{G}^{-2yi})$
+$-\sin^2 y = \frac{1}{4} (\mathfrak{G}^{2yi} - 2 + \mathfrak{G}^{-2yi})$
+
+$\sin^2 y + \cos^2 y = 1$
+$\cos^2 y - \sin^2 y = \cos 2y$
+$= 2 \cos^2 y - 1$
+
+$\sin(u+v) \cdot i = \frac{1}{2} (\mathfrak{G}^{ui} \mathfrak{G}^{vi} - \mathfrak{G}^{-ui} \mathfrak{G}^{-vi})$
+$= \frac{1}{2} (\mathfrak{G}^{ui} - \mathfrak{G}^{-ui}) \cdot \frac{1}{2} (\mathfrak{G}^{vi} + \mathfrak{G}^{-vi}) + \frac{1}{2} (\mathfrak{G}^{ui} + \mathfrak{G}^{-ui}) \cdot \frac{1}{2} (\mathfrak{G}^{vi} - \mathfrak{G}^{-vi})$
+$= (\sin u \cos v + \cos u \sin v) i$
+
+$\cos(u+v) i = \frac{1}{2} (\mathfrak{G}^{ui} \mathfrak{G}^{vi} + \mathfrak{G}^{-ui} \mathfrak{G}^{-vi})$
+$= \frac{1}{2} (\mathfrak{G}^{ui} + \mathfrak{G}^{-ui}) \cdot \frac{1}{2} (\mathfrak{G}^{vi} + \mathfrak{G}^{-vi}) - \frac{1}{2} (\mathfrak{G}^{ui} - \mathfrak{G}^{-ui}) \cdot \frac{1}{2} (\mathfrak{G}^{vi} - \mathfrak{G}^{-vi})$
+$= (\cos u \cos v - \sin u \sin v)$

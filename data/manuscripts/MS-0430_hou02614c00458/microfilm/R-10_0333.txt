@@ -1,0 +1,31 @@
+[pn]Logic[/pn] dependent of [u]Postulate II[/u].
+[pn]III[/pn]
+[pn]23[/pn]
+
+[u]the copulation[/u]
+Suppose we wish to express, [del]that[/del] [ins]that[/ins] it rains, snows, and
+hails, at once. For that purpose, any [del]expres[/del] [ins]algebraical[/ins] expression
+will answer which equals [u]v[/u] when [u]p[/u] = [u]v[/u], [u]r[/u] = [u]v[/u], and [u]g[/u] = [u]v[/u]
+but is equal to [u]f[/u], when any of the three equals [u]f[/u], that is
+when
+
+(14) [space] ([u]p[/u]-[u]f[/u])([u]r[/u]-[u]f[/u])([u]g[/u]-[u]f[/u]) = 0.
+
+When all are equal to [u]v[/u], this becomes
+
+(15) [space] ([u]p[/u]-[u]f[/u])([u]r[/u]-[u]f[/u])([u]g[/u]-[u]f[/u]) = [del]([u]v[/u]-[u]f[/u])[sup]3[/sup][/del]
+
+Evidently, then [del]the desired[/del] [ins]an[/ins] expression satisfying the conditions
+is [space] [u]f[/u] + [frac]([u]p[/u]-[u]f[/u])([u]r[/u]-[u]f[/u])([u]g[/u]-[u]f[/u])[/frac]/([u]v[/u]-[u]f[/u])[sup]2[/sup]
+
+[u]the disjunction[/u]
+Required to express, that it either rains, snows, or hails. That
+is to find an expression which equals [u]v[/u] when [del]equation[/del]
+
+(16) [space] ([u]v[/u]-[u]p[/u])([u]v[/u]-[u]r[/u])([u]v[/u]-[u]g[/u]) = 0,
+
+and which equals [u]f[/u], when all three equal [u]f[/u], that is, when
+
+(17) [space] ([u]v[/u]-[u]p[/u])([u]v[/u]-[u]r[/u])([u]v[/u]-[u]g[/u]) = ([u]v[/u]-[u]f[/u])[sup]3[/sup].
+
+An expression satisfying this condition is evidently,

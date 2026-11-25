@@ -1,0 +1,43 @@
+[del]$\phi^{(l+m)n} = \phi^{ln+mn}$[/del]
+
+$\phi^{(l+m)n} = \phi^{ln + (l+m)n}$
+
+$= \phi^n \cdot \phi^{(l+m)n} = \phi^{ln+mn}$
+
+$= \phi^n \cdot \phi^{ln} \cdot \phi^{mn}$
+
+$= \phi^{n+ln} \cdot \phi^{mn}$
+
+$= \phi^{(1+l)n} \cdot \phi^{mn}$
+
+$= \phi^{(1+l)n + mn}$
+
+$(\phi^n)^n = \phi^{4n}$
+
+[marginalia]
+$n+ln$
+$n+1$
+[/marginalia]
+
+[fig]Enclosure containing formulas[/fig]
+[del]$\phi^{(1+1)n} = \phi^2$[/del]
+$\phi^{(1+1)n} = \phi^n \cdot \phi^n$
+$\phi^{(1+1)(n+n)}$
+$\phi^{n+n} = \phi^{2n}$
+
+$0.0 = 0$
+$a(b,c) = a+ab$
+$(ab)b = ab + ab$
+$0.1 = 0+0.0 = 0+0 = 0$
+$1.1 = 1+0 = 1$
+$1.(1+1) = 1+11 = 1+1$
+$(1+1)(1+1) = (1+1) + 1(1+1)$
+$= (1+1) + (1+1)$
+$= 1 + (1+1+1)$
+
+$(\phi^m)^{1+n}$
+$= \phi^m \cdot (\phi^m)^n$
+$(\phi^m)^{1+n} = (\phi \cdot \phi)^n$
+$\phi^n \cdot (\phi^n)^n$
+$(\phi^1)^1 = \phi^{2.2}$
+$(1+a)b$

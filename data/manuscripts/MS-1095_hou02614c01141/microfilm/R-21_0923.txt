@@ -1,0 +1,25 @@
+If the differential equations were formed, or were
+made linear by the omission of terms of higher
+degrees, and were then resolved, the motion
+would be seen to consist of two harmonic
+components, the amplitudes of which are
+arbitrary constants. It is, therefore, possible
+for one of these to vanish; and we may as-
+sume such an equation between $\theta$ and $\theta_0$
+as to bring about this result. This equation
+must express the condition that the Kinetic
+potency shall be a minimum. It is, therefore,
+$$gmh \sin \theta + \varepsilon \delta\theta = 0,$$
+or
+$$\delta\theta = - \frac{gmh}{\varepsilon} \sin \theta.$$
+
+Suppose the first piece of the pendulum to be
+held firmly in the horizontal position [ins](while the second piece
+is unsupported)[/ins] [del]and[/del]
+denote the angular flexure at the joint pro-
+duced [ins]under[/ins] by the [ins](weight of the)[/ins] [del]second[/del] piece by $\frac{w}{1-w}$. Then, by
+the last equation
+$$\frac{w}{1-w} = \frac{gmh}{\varepsilon}$$
+and neglecting the square of $\theta$,
+$$\delta\theta = - \frac{w}{1-w} \sin \theta = - w \theta_0$$
+Substituting this in the expression for $U$, we have

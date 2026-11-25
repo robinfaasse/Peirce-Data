@@ -1,0 +1,22 @@
+[del]$\frac{A}{B} (A+B)x + AB = 0$[/del]
+$Ax^2 - [del]B[/del] [ins]$B$[/ins] $x + C = 0$
+$x^2 - \frac{B}{A}x + \frac{C}{A} = 0$
+$x - \frac{B}{2A} = \sqrt{\frac{B^2}{4A^2} - \frac{C}{A}}$
+$x = \frac{1}{2} \frac{B}{A} \pm \frac{B}{2A} \sqrt{1 - \frac{4AC}{B^2}}$
+
+Imag. if
+$4AC > B^2$
+
+$(A-C)^2 \ge 0$
+$(A+C)^2 \ge 4AC$
+Hence if imag $(A+C)^2 > B^2$
+[u]Mod[/u] $(A+C) >$ Mod $B$
+
+Equal roots when
+$4AC = B^2$
+$(A+C)^2 = (A-C)^2 + B^2$
+$(A+C+B)(A+C-B) = (A-C)^2$
+
+[del]Hence[/del] [u]Mod[/u] $(A+C)$ prime
+[del]if[/del] $A+C = 1 + B$
+[del]$2b$[/del]

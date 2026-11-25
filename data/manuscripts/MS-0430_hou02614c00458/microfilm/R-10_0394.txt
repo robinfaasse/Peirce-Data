@@ -1,0 +1,23 @@
+[pn]Logic
+III
+68[/pn]
+
+[pn](67)[/pn] consequences having several proximate antecedents,
+any consequence [del]that is in the written out,[/del] [ins]whatever[/ins] is scriptible unless all its
+proximate antecedents are scriptible.
+
+<u>Proof</u>. Assume, for the moment, that this proposition
+is true for every consequence having fewer than a certain
+number, N, of proximate antecedents. Let us, then, con-
+sider a consequence having N antecedents, which
+we may designate as $\Omega_1$, $\Omega_2$, $\Omega_3$, etc up to $\Omega_N$,
+and let $\Psi$ be its ultimate consequent. We assume, then,
+that either $\Omega_2$, $\Omega_3$, etc up to $\Omega_N$, are all scriptible, or
+else $\Omega_2 \prec \Omega_3 \prec \dots \prec \Omega_N \prec \Psi$ is scriptible. But, by
+(65), under the last alternative $\Omega_1 \prec \Omega_2 \prec \Omega_3 \prec \dots \prec \Omega_N \prec \Psi$
+is also scriptible. So that either $\Omega_2$, $\Omega_3$, etc up to $\Omega_N$ are
+all scriptible or $\Omega_1 \prec \Omega_2 \prec \Omega_3 \prec \dots \prec \Omega_N \prec \Psi$ is
+scriptible. But, by (64), either $\Omega_1$ is scriptible or
+$\Omega_1 \prec \Omega_2 \prec \Omega_3 \prec \dots \prec \Omega_N \prec \Psi$ is scriptible. Hence,
+either $\Omega_1$, $\Omega_2$, $\Omega_3$, etc up to $\Omega_N$ are all scriptible
+or else $\Omega_1 \prec \Omega_2 \prec \Omega_3 \prec \dots \prec \Omega_N \prec \Psi$ is scriptible.

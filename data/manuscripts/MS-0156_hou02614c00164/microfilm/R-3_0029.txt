@@ -1,0 +1,71 @@
+[marginalia]
+Study of Census
+Number
+[/marginalia]
+
+[fig]Circle with vertical line dividing it[/fig]
+[del]Border[/del] Faces 2
+[del]Border[/del] Summits 2
+[u]      [/u]
+4
+
+Inner edges 1
+[del]Border[/del] [ins]Border[/ins] [del]edges[/del] 2
+[u]      [/u]
+3
+
+[fig]Circle with vertical line and diagonal line dividing it[/fig]
+Border faces 3
+Border sum 3
+[u]      [/u]
+6
+
+Inner Ed 2
+Border Ed 3
+[u]      [/u]
+5
+
+[fig]Circle with inscribed triangle and vertical line[/fig]
+Border faces 3
+Inner " 1
+Border sum 3
+[u]      [/u]
+7
+
+Inner 3
+B. Ed 3
+[u]      [/u]
+6
+
+[fig]Triangle inscribed in circle[/fig]
+[del]Border faces[/del]
+1 - 1 = 0
+[del]B. face[/del] 1
+[u]      [/u]
+1
+
+Edge 1 - 1
+" 1 - 1
+[u]      [/u]
+0
+
+Add to census member
+1 for every edge
+
+because
+[del]only faces no edge nor split[/del]
+[del]and no summits but more than 1[/del]
+[del]summit faces are[/del]
+
+[del]F[/del] $f_2 + f_3 + f_4 + \text{etc}$
+
+Edges are
+$\frac{1}{2} (2f_2 + 3f_3 + 4f_4 + \text{etc})$
+$= \frac{1}{2} (3S_3 + 4S_4 + \text{etc})$
+Summits are
+$S_3 + S_4 + S_5 + \text{etc}$
+
+[fig]X-like symbol[/fig] [del]$\frac{1}{2}$[/del] [ins]$\frac{1}{2}$[/ins] Virtual
+summits
+
+[fig]Circle with horizontal line, plus sign, and two X-like symbols[/fig]

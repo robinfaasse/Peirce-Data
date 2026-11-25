@@ -1,0 +1,24 @@
+[33]
+
+$$\frac{P}{Q}, \frac{R}{S}$$ compared with $$\frac{P+R}{QS}$$
+
+$$\frac{P}{Q} + \frac{R}{S} = \frac{PS}{QS} + \frac{RQ}{QS}$$
+
+There is one fact A from which
+it may be argued that M is true
+and [del]independently[/del] [ins]at the same time[/ins] that N is true
+with probability p
+There is another fact from which it may be argued
+that M is true
+and [del]independently[/del] [ins]at the same time[/ins] that N is false
+with probability q
+
+[del]$$p.\overline{q} + \overline{p}.\overline{q}$$[/del]
+$$p\overline{q} + \overline{p}q$$			$$\overline{p}\overline{q}$$
+
+$$\frac{p.\overline{q}}{[del]\overline{p}[/del] + q}$$		$$\frac{\overline{p}.q}{p + \overline{q}}$$	[del]X[/del]	[u]$$p.\overline{q} + \overline{p}.q + \overline{p}.\overline{q}$$[/u]
+
+$$\frac{p}{1-p} + \frac{q}{1-q} = p\overline{q} +$$
+
+[fig]graphical diagram or symbol[/fig]	MN  $$M\overline{N}$$
+$$\frac{MN}{\overline{M} + \overline{N}} + \frac{M\overline{N}}{\overline{M} + N} = \frac{[del]M[/del] M}{\overline{M}}$$

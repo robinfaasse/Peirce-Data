@@ -1,0 +1,13 @@
+[u]Theorem[/u]. The addition of 1 to a number gives the number next higher.
+
+[u]Demonstration[/u]. For suppose this true for any number $N$. Namely, [del]suppose[/del] [ins]let[/ins] $N'$ be the number next higher than $N$ and $N''$ the number next higher than $N'$. If then $1 + N = N'$ then, by axiom 6, $1 + N' = N''$
+
+But for $N = 0$ it is true for 1 is the number next higher than 0, and $1 + 0 = 1$, by the last corollary. Hence it is true for all numbers.
+
+[u]Corollary[/u]. The addition of any number to 1 gives the number next higher.
+
+[u]Theorem[/u]. Addition is an associative combination.
+
+[u]Demonstration[/u]. Let $L$, $M$, and $N$ be any three numbers. Then I say $(L + M) + N = L + (M + N)$.
+
+First, this is true when $M = 1$, no matter what numbers $L$ and $N$ may be. For [del]suppose[/del] [ins]$L + N$ is[/ins] some number

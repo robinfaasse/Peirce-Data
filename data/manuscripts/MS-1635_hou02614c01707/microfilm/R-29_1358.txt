@@ -1,0 +1,33 @@
+[fig]Geometric diagram with circle, tangent line, and angle labels[/fig]
+
+[del]R tan[/del] [ins]R cot[/ins] [del]l[/del] [ins]l/2[/ins] (cos [temp: \theta] + sin [temp: \theta].i)
+R cot [temp: l/2] (cos [temp: \theta] - sin [temp: \theta].i) + R cot [temp: L/2]
+[u]R cot [temp: l/2] cos [temp: \theta] + A[/u] [u]R cot [temp: l/2] sin [temp: \theta][/u]
+R [del]sin [temp: \theta][/del] [ins] [temp: \frac{R \cot \frac{l}{2} \cdot \sin \theta}{\cot \frac{l}{2} \cos \theta + \cot \frac{L}{2}}[/ins] = tan [temp: \vartheta]
+
+[temp: u] = [temp: \frac{1}{u + a}] = R [temp: \sqrt{(\cot \frac{l}{2} \cos \theta + \cot \frac{L}{2})^2 + \cot^2 \frac{l}{2}}]
+[temp: w] = [temp: \frac{n}{n+a}] = R [temp: \sqrt{\cot^2 \frac{l}{2} + \cot^2 \frac{L}{2} + 2 \frac{\cot \frac{l}{2} \cot \frac{L}{2}}{\cos \theta}}]
+
+[temp: \frac{1}{2}(\cos \theta + \sin \theta \cdot i)] =
+[del][temp: \beta^2 \gamma^2][/del] [ins][temp: \beta^2 \gamma^2][/ins] [del]+ 2 \beta \gamma A + 1[/del] [del][temp: \beta \gamma][/del]
+[del][temp: \beta^2 \gamma^2 - 2 \beta^3 \gamma A + \beta \gamma^4][/del]
+[temp: \frac{\beta - \gamma}{2 \beta \gamma^3 A + 2 \beta \gamma A - \gamma^4 + 1}] [temp: \frac{\beta (1 - 2 \gamma A) + \gamma}{\beta^2 + \gamma^2 + 2 \beta \gamma A}]
+[temp: \frac{\beta^3 (1-2\gamma A) + \beta \gamma + \beta^2 \gamma - \beta \gamma^2}{\beta^3 \gamma + A (1-2\gamma A) - 2 \beta^2 \gamma}]
+
+cos [temp: a] = cos [temp: b] cos [temp: c] + [del]sin b[/del] [ins]sin b[/ins] sin [temp: c] cos A
+cot [temp: \frac{a}{2}] = [temp: \sqrt{\frac{1 + \cos b \cos c + \sin b \sin c \cos A}{1 - \cos b \cos c - \sin b \sin c \cos A}}]
+= [temp: \sqrt{\frac{1 + \frac{\cot \frac{b}{2} \cot \frac{c}{2} - 1}{\cot \frac{b}{2} \cot \frac{c}{2} + 1} \cdot \frac{\cot \frac{b}{2} \cot \frac{c}{2} - 1}{\cot \frac{b}{2} \cot \frac{c}{2} + 1} + \frac{2 \cot \frac{b}{2}}{\cot^2 \frac{b}{2} + 1} \frac{2 \cot \frac{c}{2}}{\cot^2 \frac{c}{2} + 1} \cos A}{1 - \dots}}]
+= [temp: \sqrt{\frac{(\cot^2 \frac{b}{2} + 1)(\cot^2 \frac{c}{2} + 1) + (\cot^2 \frac{b}{2} - 1)(\cot^2 \frac{c}{2} - 1) + 4 \cot \frac{b}{2} \cot \frac{c}{2} \cos A}{(\cot^2 \frac{b}{2} + 1)(\cot^2 \frac{c}{2} + 1) - (\dots)}}]
+[temp: (m+1)(n+1) + (m-1)(n-1)]
+[temp: mn + m + n + 1]
+[temp: mn - m - n + 1]
+= [temp: \sqrt{\frac{\cot^2 \frac{b}{2} \cot^2 \frac{c}{2} + 1 + 2 \cot \frac{b}{2} \cot \frac{c}{2} \cos A}{\cot^2 \frac{b}{2} + \cot^2 \frac{c}{2} - 2 \cot \frac{b}{2} \cot \frac{c}{2} \cos A}}]
+
+[temp: \beta^2 - 2 \beta \gamma A + \gamma^2 = 0]
+[temp: x^2 + 2 A x + 1 = \frac{A^2}{A^2 - 1}] [temp: \frac{\cot^2 + \tan^2 + 2 \cot \tan \cos}{\cot \tan (\dots)}]
+[temp: x + A = \sqrt{\frac{1}{A^2 - 1}}] [temp: \frac{\cot \tan^2 + \tan - 2 \cot \tan \cos}{\theta}]
+[temp: x + A = \pm \sqrt{A^2 - 1}]
+[temp: x^2 + y^2 - 2 x y = 2 x y (A - 1)] [temp: \frac{x^2 + y^2 + 2 x y A}{x^2 + y^2 - 2 x y A}]
+[temp: x + y = \sqrt{2 x y (A - 1)}]
+[temp: x^2 - 2 x y A + y^2 A^2 = y^2 (A^2 - 1)]
+[temp: x - 2 y A \pm y \sqrt{A^2 - 1}]

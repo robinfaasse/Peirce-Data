@@ -1,0 +1,20 @@
+This is not itself a distribution-formula, [pn]185[/pn]
+but only an association-formula, and
+therefore the deduction of a distribution
+formula from it is not a matter of
+the very utmost simplicity. If, however,
+we square the antecedent we have
+$(a+b)c = (a+b)c(a+b)c = c(a+b)c$,
+and then by the application of the
+association formula twice over
+we get
+$c(a+b)c \prec (ca+b)c \prec ca+bc$;
+so that we have proved
+$(a+b)c \prec ac+bc$,
+which is the main distribution formula,
+with the aid of which all the others
+are readily obtained.
+
+Other much more striking examples
+of the utility of involution will present
+themselves in the course of this paper.

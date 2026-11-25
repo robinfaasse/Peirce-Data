@@ -1,0 +1,25 @@
+[pn]258[/pn]
+
+We now consider [del]Camestres and[/del] Baroko. These are
+
+[del]Any[/del] [ins]Some[/ins] M is P,
+[del]Any[/del] [ins]Some[/ins] S is not P,
+[del]Any[/del] [ins]Some[/ins] S is not M.
+
+The long reduction of [del]Camestres[/del] is very simple. We simply
+convert the minor, and by Celarent conclude,
+Any M is not S,
+whence [del]∴[/del] Any S is not M.
+
+To get the long reduction of Baroko, we divide the
+minor premise, thus:
+Some S is not P,
+∴ Any some-S is not P; and an S exists.
+
+Proceeding then as with [del]Camestres[/del] we get
+
+Any some-S is not M; and an S exists;
+
+and this is the same as
+
+Some S is not M.

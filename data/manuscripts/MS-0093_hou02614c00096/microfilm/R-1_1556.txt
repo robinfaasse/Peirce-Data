@@ -1,0 +1,28 @@
+[pn]40[/pn]
+
+If now apply these equations of p 39 to those of p 36
+
+$A_0 = \frac{\psi a}{\phi a}$ $A_1 = \frac{\psi' a}{\phi a} - \frac{\psi a \phi' a}{\phi a^2} = D(\frac{\psi x}{\phi x})_{x=a}$
+
+$2 A_2 = \frac{\psi'' a}{\phi a} - \frac{\psi a \phi'' a}{(\phi a)^2} - 2 \frac{\phi' a}{\phi a} D(\frac{\psi x}{\phi x})_{x=a}$
+$= D^2(\frac{\psi x}{\phi x})_{x=a}$
+
+$6 A_3 = \frac{\psi'''}{\phi} - \frac{\psi \phi'''}{\phi^2} - 3 \frac{\phi''}{\phi} D(\frac{\psi x}{\phi x})_{x=a} - 6 \frac{\phi'}{\phi} D^2(\frac{\psi x}{\phi x})_{x=a}$
+
+[del]$D^3(\frac{\psi x}{\phi x})_a = \frac{\psi'''}{\phi} - \frac{\psi \phi'''}{\phi^2} - 3 \frac{\phi''}{\phi} D + \frac{\psi}{\phi^3} - 6 \frac{\psi'' \phi'}{\phi^3} + 6 \frac{\psi \phi'^2}{\phi^3} + 12 \frac{\psi' \phi'^2}{\phi^5}$[/del]
+
+$A_n = \frac{(D^n \frac{\psi x}{\phi x})_{x=a}}{n!}$
+
+$\frac{\psi x}{(x-a)^m \phi x} = \frac{\frac{\psi a}{\phi a}}{(x-a)^m} + \frac{D(\frac{\psi x}{\phi x})_a}{(x-a)^{m-1}} + \frac{D^2(\frac{\psi x}{\phi x})_a}{2! (x-a)^{m-2}} + \text{etc}$
+
+***
+
+[pn]41[/pn]
+
+The truth is that the expansion of
+$\frac{\psi x}{(x-a)^m \phi x}$ can be performed by Taylor's theorem,
+Namely
+$\frac{\psi x}{\phi x} = (\frac{\psi x}{\phi x})_a + (x-a) D(\frac{\psi x}{\phi x})_a + \frac{(x-a)^2}{2} D^2(\frac{\psi x}{\phi x})_a$
+$+ \frac{(x-a)^3}{3!} D^3(\frac{\psi x}{\phi x})_a + \text{etc}$
+
+[del]$\frac{\psi x}{(x-a)^m \phi x} = $[/del]

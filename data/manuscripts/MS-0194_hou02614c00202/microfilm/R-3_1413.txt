@@ -1,0 +1,15 @@
+[del]A[/del]
+[u]$2\pi \times \frac{\text{Area}}{\text{Total}} = \arctan \sqrt{\frac{A^2 - \frac{y^2}{c^2}}{A^2 + y^2(1 - \frac{1}{c^2})}} - \frac{y}{A} \frac{\sqrt{1-c^2}}{c}$[/u]
+
+Put $\sqrt{1-c^2} = i$
+$c^2 = 1-i^2$
+
+$\frac{1}{c^2} - 1 = \frac{1-c^2}{c^2} = \frac{i^2}{1-i^2}$
+
+$2\pi \times \frac{\text{Area}}{\text{Total}} = \arctan \sqrt{\frac{1 - \frac{y^2}{A^2} \frac{1}{1-i^2}}{1 - \frac{y^2}{A^2} \frac{i^2}{1-i^2}}} - \frac{y}{A} \frac{i}{\sqrt{1-i^2}}$
+
+$= \arctan \sqrt{\frac{1 - \frac{y^2}{A^2} - i^2}{1 - \frac{y^2}{A^2} i^2 - i^2}} - \frac{y}{A} \frac{i}{\sqrt{1-i^2}}$
+
+$= \arctan \sqrt{[del]1 +[/del] [ins]1 -[/ins] (1-i^2)}$
+
+[fig]Mathematical scratch work with arrows and fractions[/fig]

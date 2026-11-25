@@ -1,0 +1,14 @@
+Thus [u]x[/u] is of the form [del]x[/del] [ins]X[/ins] - [beta] T 0, which he has already
+found implies x [u]f[/u] 1 < x.
+
+Without the pentagrammatic notation this result could easily
+be reached. For, grouping the [del]first[/del] [ins]first[/ins] third and fifth terms of the
+second member, they give
+[p] (u [u]f[/u] 1 + u T · [u]u[/u] T [u]f[/u] 0) · [u]u[/u]
+= [u f 1 + (u T [u]f[/u] 0) · ([u]u[/u] T [u]f[/u] 0)] · [u]u[/u]
+= [u [u]f[/u] 1 + u T [u]f[/u] 0] · [[u]u[/u] [u]f[/u] 1 + [u]u[/u] T [u]f[/u] 0] · [u]u[/u]
+= [del]u[/del] (u T [u]f[/u] 0) · (u [u]f[/u] 1 + [u]u[/u] T [u]f[/u] 0) · [u]u[/u]
+
+Since [u]u[/u] [u]f[/u] 1 < [u]u[/u] T, the second and fourth terms grouped give
+[(u [u]f[/u] 1) [del]0[/del] [ins]v[/ins] + u ([u]u[/u] [u]f[/u] 1)] · [u]u[/u] T
+= u · [u]u[/u] T · [(u [u]f[/u] 1) [del]0[/del] [ins]v[/ins] + [u]u[/u] [u]f[/u] 1]

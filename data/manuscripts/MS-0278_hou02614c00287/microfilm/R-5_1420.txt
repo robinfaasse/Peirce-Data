@@ -1,0 +1,99 @@
+[marginalia]
+14, 13, 12, 11, 10
+11440
+1430
+12870
+[/marginalia]
+
+[del]10 00[/del] [del]01[/del] $\Delta^0 + 2\Delta^1 + \Delta^2$
+[del]10 10[/del] $\Delta^0 + 4\Delta^1 + 6\Delta^2 + 4\Delta^3 + \Delta^4$
+[del]20 11[/del] $\Delta^0 + 6\Delta^1 + 15\Delta^2 + 20\Delta^3 + 15\Delta^4 + 6\Delta^5 + \Delta^6$
+[del]30 10[/del] $\Delta^0 + 8\Delta^1 + 28\Delta^2 + 56\Delta^3 + 70\Delta^4 + 56\Delta^5 + 28\Delta^6 + 8\Delta^7 + \Delta^8$
+[del]40 01[/del] $\Delta^0 + 10\Delta^1 + 45\Delta^2 + 120\Delta^3 + 210\Delta^4 + 252\Delta^5 + 210\Delta^6 + 120\Delta^7 + 45\Delta^8 + 10\Delta^9 + \Delta^{10}$
+[del]50 10[/del] $\Delta^0 + 12\Delta^1 + 66\Delta^2 + 220\Delta^3 + 495\Delta^4 + 792\Delta^5 + 924\Delta^6 + 792\Delta^7 + 495\Delta^8 + 220\Delta^9 + 66\Delta^{10} + 12\Delta^{11} + \Delta^{12}$
+[del]11 11[/del] $\Delta^0 + 14\Delta^1 + 91\Delta^2 + 364\Delta^3 + 1001\Delta^4 + 2002\Delta^5 + 3003\Delta^6 + 3432\Delta^7 + 3003\Delta^8 + 2002\Delta^9 + 1001\Delta^{10} + 364\Delta^{11} + 91\Delta^{12} + 14\Delta^{13} + \Delta^{14}$
+$\Delta^0 + 16\Delta^1 + 120\Delta^2 + 560\Delta^3 + 1820\Delta^4 + 4368\Delta^5 + 8008\Delta^6 + 11440\Delta^7 + 12870\Delta^8 + 11440\Delta^9 + 8008\Delta^{10} + 4368\Delta^{11} + 1820\Delta^{12} + 560\Delta^{13} + 120\Delta^{14} + 16\Delta^{15} + \Delta^{16}$
+
+[fig]Calculations and scratch work[/fig]
+
+$2\Delta^1 + \Delta^2$
+$2\Delta^1 + 5\Delta^2 + 4\Delta^3 + \Delta^4$
+$\begin{array}{cccccc}
+2\Delta^1 & 9 & 16 & 14 & 6 & \Delta^5 \\
+2\Delta^1 & 13 & 36 & 55 & 50 & 27 \\
+2\Delta^1 & 17 & 64 & 140 & 196 & 182 \\
+2\Delta^1 & 21 & 100 & 285 & 540 & 714 \\
+2\Delta^1 & 25 & 144 & 506 & 1210 & 2079 \\
+2\Delta^1 & 29 & 196 & 819 & 2366 & 5005
+\end{array}$
+
+$\begin{array}{cccc}
+\Delta^6 & & & \\
+1 & 2 & 4 & 6 \\
+12 & 44 & 98 & 128 \\
+62 & 450 & 1210 & 2112 \\
+2640 & 2508 & 2816 & 3216 \\
+8008 & 9867 & 2708 & 2508
+\end{array}$
+
+$4\Delta^1 + 10\Delta^2 + 10\Delta^3 + 5\Delta^4 + \Delta^5$
+$\begin{array}{cccccc}
+4 & 14 & 20 & 15 & 6 & \Delta^5 \\
+4 & 20 & 41 & 44 & 26 & 8 \\
+4 & 28 & 85 & 146 & 155 & 104 \\
+4 & 36 & 155 & 344 & 532 & 560 \\
+4 & 44 & 221 & 670 & 1365 & 1968 \\
+4 & 52 & 313 & 1156 & 2926 & 5368
+\end{array}$
+
+$\begin{array}{cccc}
+\Delta^7 & & & \\
+1 & 2 & 3 & 4 \\
+13 & 43 & 76 & 108 \\
+406 & 728 & 1100 & 101 \\
+2058 & 1768 & 1101 & 100 \\
+7359 & 728 & &
+\end{array}$
+
+$\begin{array}{cccccc}
+66 & 220 & 495 & 792 & 924 & 792 \\
+51 & 364 & 1001 & 2002 & 3003 & 3432 \\
+120 & 560 & 1820 & 4368 & 8008 & 11440 \\
+29 & 196 & 819 & 2366 & 5005 & 8008 \\
+25 & 144 & 506 & 1210 & 2079 & 2640
+\end{array}$
+
+$\begin{array}{cccccc}
+8\Delta^1 + 12\Delta^2 + 6\Delta^3 + \Delta^4 & & & \\
+8 & 28 & 20 & 25 & 8 & \Delta^5 \\
+8 & 44 & 102 & 129 & 96 & 42 \\
+8 & 60 & 198 & 377 & 456 & 363 \\
+8 & 76 & 326 & 833 & 1408 & 1652 \\
+8 & 92 & 486 & 1561 & 3400 & 5301
+\end{array}$
+
+$\begin{array}{cccccc}
+16\Delta^1 + 32\Delta^2 + 24\Delta^3 + 8\Delta^4 + \Delta^5 & & \\
+16 & 64 & 104 & 89 & 41 & 16 \\
+16 & 96 & 248 & 360 & 321 & \\
+16 & 128 & 456 & 952 & 1299 & \\
+16 & 160 & 728 & 1992 & 3649 &
+\end{array}$
+
+$\begin{array}{cccc}
+32\Delta^1 + 80\Delta^2 + 80\Delta^3 + 40\Delta^4 + 10\Delta^5 \\
+32 & 144 & 272 & 280 \\
+32 & 208 & 592 & 978 \\
+32 & 272 & 1040 & 2350
+\end{array}$
+
+$\begin{array}{cc}
+128\Delta^1 + 458\Delta^2 \\
+128 & 674
+\end{array}$
+
+$\begin{array}{ccc}
+64\Delta^1 + 192\Delta^2 + 240\Delta^3 \\
+64 & 320 & 498 \\
+64 & 448 & 1372
+\end{array}$

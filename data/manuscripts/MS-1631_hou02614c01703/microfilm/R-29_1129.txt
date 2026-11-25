@@ -1,0 +1,48 @@
+$$(AA'_t - A_t A')x = A'_t M - A_t M'$$
+$$(AA'_t - A_t A')x_1 = A M' - A' M$$
+$$\left[ (a D_t + b)(a'_t D_t + b'_t) - (a'_t D_t + b'_t)(a D_t + b) \right] x =$$
+$$(a'_t D_t + b'_t) M - (a D_t + b) M'$$
+$$\left[ (a D_t + b)(a'_t D_t + b'_t) - (a'_t D_t + b'_t)(a D_t + b) \right] x_1 =$$
+$$(a D_t + b) M' - (a'_t D_t + b'_t) M$$
+
+We should then have it of the second
+Order but of the first Degree.
+
+[u]                                                                [/u]
+
+(1) [fig]circle around P[/fig] $P_n x = M$
+(2) [fig]circle around P[/fig] $P_n x = 0$
+
+Let $x = x_1$ & $x = x_2$ satisfy equation (2)
+Let $x = x_3$ satisfy (1)
+
+Let $\alpha$ & $\beta$ be arbitrary Constants
+$\alpha x_1 + \beta x_2 + x_3 = x$
+Same as the other equations
+
+[page break]
+
+$$P_n x = \alpha P_n x_1 + \beta P_n x_2 + P_n x_3$$
+$$P_n x_3 = M$$
+
+This is contained in (1) rather than in (2)
+Hence the importance of integrating it.
+
+Number of independent arbitrary constants = n
+Hence to solve the equation we have only to find
+n special solutions & combine them into a
+general solution.
+
+Suppose $x = \mathfrak{S}^{st}$ [S is a constant]
+
+$$D_t^0 x = \mathfrak{S}^{st}$$
+$$D_t^1 x = s \mathfrak{S}^{st}$$
+$$D_t^2 x = s^2 \mathfrak{S}^{st}$$
+$$D_t^3 x = s^3 \mathfrak{S}^{st}$$
+$$D_t^n x = s^n \mathfrak{S}^{st}$$
+$$D_t = s$$
+
+$$P_n x = P_n \mathfrak{S}^{st}$$
+
+If now really $x = \mathfrak{S}^{st}$
+$$P_n = 0$$

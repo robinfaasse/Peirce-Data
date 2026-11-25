@@ -1,0 +1,53 @@
+[marginalia]
+One English Inch in Millimeters according to
+different observers.
+
+Capt. Kater 25.39954
+Col. Clarke 25.39977
+Mr. Rogers 25.39988
+C. S. Peirce 25.39994
+Heaviside & Peirce 25.40005
+Gen. Comstock 25.40015
+[/marginalia]
+
+[u]Calculation for Metre Pend. No.[/u]
+
+[u]Volumes[/u]
+
+Numbers Logs.
+
+$r^{IV}$ by measurement 3.13 cm 0.4956
+$(r^{IV})^2$ 9.80 cm$^2$ 0.9912
+$l^{IV}$ by measurement [ins] 137.16 [/ins] [del] 0.9912
+0.4971
+2.1372
+3.6255 [/del] 150 cm 2.1760
+$V^{IV} = \pi r^{IV 2} l^{IV}$ 4616 cm$^3$ 3.6643
+$V^V = \frac{4}{3} \pi (r^V)^3$ $r^V = r^{IV}$ 128 cm$^3$ 2.1088
+$V^{VI}$ by estimation 88 cm$^3$ 1.9445
+$V''' = V^{IV} + V^V + V^{VI}$ [del] 4222
+128
+88
+2438 [/del] 4832 cm$^3$ 3.6841
+
+$M$ by weighing 10633 gr 4.0267
+$D$ by weighings 8.43 gr/cm$^3$
+Mass steel Knives ? 300 gr
+Density of steel ? 7.85 gr/cm$^3$
+Mean density calc 8.41 gr/cm$^3$ 0.9248
+$V = M \div$ Mean Density 1265 cm$^3$ 3.1019
+
+$V'' = V''' - V$ 3567 cm$^3$
+
+[u]Moments of Inertia.[/u]
+
+[del] $J^{IV} = V^{IV} (\gamma^{IV})^2$ [/del]
+$(\gamma^{IV})^2 = \frac{1}{4} (r^{IV})^2 + \frac{1}{12} (l^{IV})^2$ 1877 cm$^2$ 3.2729
+$J^{IV} = V^{IV} (\gamma^{IV})^2$ $8666 \times 10^3$ cm$^5$ 6.9378
+
+$h^V$ (estimated) 1 cm
+$(\gamma^V)^2 = \frac{2}{5} (r^V)^2 + (h^V)^2$ 3 cm$^2$
+$h_0 = \frac{1}{2} l^{IV} + h^V$ 76 cm
+$(h_0)^2$ 5776 cm$^2$
+$(\gamma_0^V)^2 = (\gamma^V)^2 + (h_0)^2$ 5779 cm$^2$ 3.7618
+$(J_0^V) = V^V (\gamma_0^V)^2$ $742 \times 10^3$ cm$^5$ 5.8706

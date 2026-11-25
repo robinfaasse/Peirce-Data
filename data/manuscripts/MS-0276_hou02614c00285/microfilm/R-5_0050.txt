@@ -1,0 +1,50 @@
+[fig]Geometric diagram with intersecting lines and labeled vertices[/fig]
+
+[del]e[/del] [ins]c[/ins] = a + b + x(b - a)
+e = d + c + x([del]d[/del] [ins]g[/ins] - c)
+
+f = d + a + y(d - a)
+f = c + b + y(c - b)
+
+d + c - b - a = x(-d + c + [del]b[/del] [ins]a[/ins]
+
+x = [del]d + c - b - a[/del] [ins]-d + c + b - a[/ins] / -d + c + b - a
+
+e = a + b + [del]d + c - b - a[/del] [ins]-d + c + b - a[/ins] / -d + c + b - a (b - a)
+
+[fig]Three-dimensional tetrahedron diagram[/fig]
+
+[fig]Small tetrahedron diagram with labeled edges[/fig]
+
+[fig]Small triangle diagram[/fig]
+
+p² = a² + b² - 2ab cos E
+p² = c² + d² - 2cd cos G
+
+l² = f² + g² - 2fg cos X
+d² = h² + e² - 2he cos X
+
+(f² + g² - l²)he = (h² + e² - d²)fg
+(e² + f² - a²)gh = (g² + h² - c²)ef
+
+[fig]Geometric diagram with intersecting lines forming a star-like shape[/fig]
+
+x = a + y
+x = [del]a[/del] [ins]c[/ins] + y d
+a - c = y(d - b)
+y = a - c / d - b
+x = [del]a d - b[/del]
+
+y = a - b / d - c
+
+z = a - b / d - c
+
+- a/e + g/f + b/g - d/h = a²/g [del]+[/del] [ins]-[/ins] d²/h e
+a/e + c/f - b/g - d/h = a²/g - c²/g h
+
+a/e + c/f - b/g - d/h = a²/g - c²/g h
+
+- a/e + g/f + b/g - d/h = a²/g - d²/h e
+a/e + c/f - b/g - d/h = a²/g - c²/g h
+
+a/e + c/f = a²/g - c²/g h + [del]b/g[/del] [ins]1[/ins] + d²/h e

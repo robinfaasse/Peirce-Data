@@ -1,0 +1,44 @@
+[pn]5[/pn]
+
+[del]C S & Mrs Franklin Yversen[/del]
+
+The innermost efficient bond between two graphs is inside
+their innermost common enclosure.
+
+For instance [fig]graph with a and b in an oval with a line extending out[/fig] is no more than [fig]graph with a and b in separate nested ovals[/fig]
+
+A branch of a line extending into an oval and not joining
+any graph in that oval is of no effect.
+
+[fig]graph with a, b, and c in an oval[/fig] is no more than [fig]graph with a-b and c in an oval[/fig]
+
+If two indices are joined by a bond passing into an oval,
+it makes no difference whether either or both are within the oval
+
+[fig]graph A-B with oval in between[/fig] [fig]graph A-B with oval around A[/fig] [fig]graph A-B with oval around B[/fig] are all equivalent.
+
+A graph already written may be iterated with the same connections
+provided the iteration is not outside any enclosure which the
+original graph was within; and being so iterated may be erased
+
+Thus [fig]graph with a and b in an oval[/fig] [fig]graph with nested a and b in an oval[/fig] are equivalent
+
+[u]Additional Signs[/u]
+
+[fig]graph with A, B, and C[/fig] means that A is the ordered pair BC
+
+A [fig]bond[/fig] B means that B belongs to the collection B
+
+P.S.
+You had better include relative
+logic in your symbolic logic
+
+Very truly
+[del]C S Peirce[/del]
+
+[fig]complex graph with nested ovals and lines[/fig]
+means any two
+individuals have
+some common
+and peculiar
+character.

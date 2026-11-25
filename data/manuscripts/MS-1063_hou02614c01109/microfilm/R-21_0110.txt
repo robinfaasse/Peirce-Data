@@ -1,0 +1,38 @@
+Eq on $4^{\text{th}}$ deg
+Roots $A_i + B_i \sqrt{-}$
+$x^4 + a y^3 + b x^2 + c x + d = 0$
+$a = - \sum_i (A_i) [del]\text{and}[/del] \sum_i B_i = 0$
+
+$2b = \sum_{ik} (A + B\sqrt{-})(A + B\sqrt{-})$
+$= \sum A A - \sum B B + \sum AB \sqrt{-}$
+$\sum AB = - \sum_i (A_i B_i) = 0$
+$\sum AA = - \sum A_i (a + A_i) = - a \sum A_i - \sum A_i^2$
+$= a^2 - \sum A_i^2$
+$\sum\sum B B = - \sum B_i^2$
+$2b = a^2 - \sum A_i^2 + \sum B_i^2$
+
+$6c = \sum_i \sum_j \sum_k (A_i + B_i \sqrt{-})(A_j + B_j \sqrt{-})(A_k + B_k \sqrt{-})$
+$= \sum_i \sum_j \sum_k (A_i A_j A_k - A_i B_j B_k + (A_i A_j B_k - B_i B_j B_k)\sqrt{-})$
+$\sum_i \sum_j \sum_k (A_i A_j B_k - B_i B_j B_k) =$
+$- [del]A_i^2[/del] A_i B_i + B_k^3$
+$+ [del]A_i[/del] A_i B_i$
+[del]$\sum A_i^2 B_i + B_i^3 = 0$[/del]
+
+< $\sum A_i A_j A_k = - \sum A_i A_j (a + A_i)$
+$- [del]\sum A_i A_j a[/del] - [del]\sum A_i^2 A_j[/del]$
+$- a \cdot A_i$
+$= - a^2 A_i + a \sum A_i^2 + [del]a^3[/del] [ins]a^3[/ins] [del]+ A_i^3[/del]$
+$= - a [del]\sum A_i^2[/del] + 2 a \sum A_i^2 + A_i^3$
+$= - a^3 + 2 a \sum A_i^2 + A_i^3$
+
+$\sum A_i B_j B_k = - \sum A_i B_i^2 + A_i B_j^2$
+$= - \sum A_i B_i^2 + A_i (\sum B_i^2 - B_i^2)$
+$= [del]\sum A_i B_i^2[/del] - [del]A_i[/del] [ins]a[/ins] (2b - a^2 + \sum A_i^2) + [del]A_i B_i^2[/del]$
+$2 \sum A_i B_i^2 + a (2b - a^2) + \sum A_i^3 + [del]\sum A_i B_i^2[/del]$
+
+$6c = - a^3 + (2a - 2ab + a^3) \sum (A_i^3) + [del]A_i^3[/del]$
+$- 2 \sum A_i B_i^2$
+
+$+ 64 + (- 8 + 48 - 64) +$
+$\begin{array}{r} 96 \\ 68 \\ \hline 28 \end{array}$
+$\begin{array}{r} 72 \\ 48 \\ 24 \\ \hline 96 \end{array}$

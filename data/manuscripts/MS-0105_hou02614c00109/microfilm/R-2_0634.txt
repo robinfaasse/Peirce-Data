@@ -1,0 +1,30 @@
+Suppose first
+$$x = A_1 + B_1 \lambda + C_1 \lambda^2$$
+$$y = A_2 + B_2 \lambda + C_2 \lambda^2$$
+
+[del]Put[/del] $\lambda = \sin p$
+
+[del]$$D_p x =$$[/del]
+[del]$$F'_1 p = B_1 \cos p + C_1 \sin 2p$$[/del]
+[del]$$F'_2 p = B_2 \cos p + C_2 \sin 2p$$[/del]
+
+[del]$$\frac{1}{2} B_1 \sin 2p + C_1 \sin p \sin 2p = \frac{1}{2} B_2 + \frac{1}{2} B_2 \cos 2p + C_2 \sin^2 p \cos p$$[/del]
+[del]$$\begin{array}{cc} 2 \sin^2 p \cos p & 2 \sin p \cos^2 p \\ 2 \cos p - 2 \cos^3 p & 2 \sin p - 2 \sin^3 p \\ + \frac{1}{2} \cos p - \frac{1}{2} \cos 3p & + \frac{1}{2} \sin p + \frac{1}{2} \sin 3p \end{array}$$[/del]
+
+$$D_{\lambda} y = B_2 + 2 C_2 \lambda$$
+$$D_{\lambda} x = B_1 + 2 C_1 \lambda$$
+$$\tan p = \frac{B_2 + 2 C_2 \lambda}{B_1 + 2 C_1 \lambda}$$
+
+or $$B_2 \cos p + 2 C_2 \lambda \cos p = B_1 \sin p + 2 C_1 \lambda \sin p$$
+
+Either [del]$$\begin{array}{c} \lambda \cos p = \sin p \\ \lambda \sin p = - \cos p \end{array}$$[/del]
+
+or [ins]the[/ins]
+Suppose [del]first[/del]. Then $2 C_2 P = B_1 \quad B_2 = C_1 = 0$
+$$x = A_1 + 2 C_2 P^2 \tan p$$
+$$y = A_2 + C_2 P^2 \tan^2 p$$
+$$(x - A_1)^2 = (y - A_2) C_2 P^2$$
+
+More generally
+$$\lambda = \frac{1}{2} \frac{B_1 \tan p - B_2}{C_2 - C_1 \tan p} = - \frac{1}{2} \frac{B_1 \tan p - B_2}{C_1 \tan p - C_2}$$
+[del]$$\lambda$$[/del] $= - \frac{1}{2} \frac{B_1 \sin p - B_2 \cos p}{C_1 \sin p - C_2 \cos p}$

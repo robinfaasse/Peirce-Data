@@ -1,0 +1,56 @@
+[marginalia]
+Calc. Diff.
+6
+[/marginalia]
+
+with the theory of integer numbers.
+
+The third part will consider the relations of this
+[del]calculus[/del] [ins]calculus[/ins] to continuous [del]quantity[/del] [ins]quantity[/ins]. Formerly, the
+analogy [del]between[/del] of the calculus of finite differences
+& the differential calculus was much insisted upon.
+Undoubtedly, there are few general resemblances between
+equations of differences and differential equations. But
+the analogy [del]does not[/del] is superficial. In the first place, the
+differential of a function is a linear function of the
+differential of the independent variable; so that
+
+[del]$\frac{dy}{d2x} = \frac{dy}{2dx}$[/del]
+
+But this is not the case with the difference.
+
+[del]$\Delta^2$[/del]
+
+$\Delta_n (n^2) = (n+1)^2 - n^2 = 2n + 1$
+
+and
+
+$\frac{1}{2} \Delta_n (n^2) = n + \frac{1}{2}$
+
+But
+
+$\Delta_{2n} (n^2) = \Delta_{2n} [\frac{1}{4} (2n)^2] = \frac{1}{4} (2n+1)^2 - \frac{2n^2}{4} = \frac{2n}{2} + \frac{1}{4}$
+
+[marginalia]
+When
+$E^{m+n} a_m u_n = a_{m+1} u_{n+1}$
+
+$m+n = \alpha$
+$m = \alpha - n$
+$m - n = \alpha - 2n$
+
+$m+n$
+$m-n = const$
+[del]$2m + 3n = const$[/del]
+$m = 3(m+n) - 2(m+n)$
+$n = (2m+3n) - 2(m+n)$
+[/marginalia]
+
+[marginalia]
+$m+3$
+$n-2$
+$m = \frac{1}{2}(m+n) + \frac{1}{2}(m-n)$
+$n$
+$m + \frac{1}{2}$
+$n + \frac{1}{2}$
+[/marginalia]

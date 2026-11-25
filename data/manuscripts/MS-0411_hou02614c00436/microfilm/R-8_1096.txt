@@ -1,0 +1,29 @@
+[pn]223[/pn]
+[marginalia]copulas[/marginalia]
+
+§106. We have still to notice expressions in which both [del]copu[/del]
+occur. Starting with
+[u]x[/u] [u]y[/u] [u]z[/u] = [u]x[/u] [u]z[/u] [u]y[/u],
+the truth of this involves the truth of
+[u]x[/u] [u]y[/u]
+and of [u]x[/u] [u]z[/u].
+The truth of the latter also follows from that of
+[u]x[/u] [u]y[/u] [u]z[/u].
+That is, an antecedental may be omitted under the same
+circumstances under which an inconsequential can be inserted.
+[ins]The last expression is equivalent to [u]y[/u] [u]x[/u] [u]z[/u].[/ins]
+From the truth of [u]x[/u] [u]z[/u], in its turn, follows that of
+[del]([u]x[/u] [u]y[/u]) [u]z[/u][/del]
+[u]y[/u] [u]x[/u] [u]z[/u]
+and also that of
+[u]x[/u] [u]z[/u] [u]y[/u]
+That is, we can insert any antecedental of an inantecedental
+or an inconsequential of an inconsequential.
+
+We now come to a rule of [u]association[/u]. Namely, the
+inferences hold
+[u]y[/u] [u]x[/u] [u]z[/u] true,
+<tex>\therefore</tex> [u]y[/u] [u]x[/u] [u]z[/u] true.
+and
+[u]x[/u] [u]z[/u] [u]y[/u] true,
+<tex>\therefore</tex> [u]x[/u] [u]z[/u] [u]y[/u] true.

@@ -1,0 +1,13 @@
+then $\alpha - [-\beta] = \frac{a - [-b]}{c}$ but $a - [-b] = a + [-[-b]]$ and $[-[-b]] = b$; hence $\alpha - [-\beta] = \frac{a+b}{c} = \alpha + \beta$. The changing of signs throughout a polynomial, as equivalent to changing the sign before it, [ins]only[/ins] may be supposed [del]that[/del]
+$[-(\alpha + \beta)] = [-\alpha] - \beta$
+Now if $\alpha = \frac{a}{c}$ $\beta = \frac{b}{c}$ $[-(\alpha + \beta)] = \frac{[-(a+b)]}{c}$ Now suppose,
+$a = A - B$ $b = B - C$ $a+b = A-C$ $[-(a+b)] = C-A$ [del]but[/del] [ins]but[/ins] [del]$[-a]$[/del]
+$[-\alpha] - \beta = \frac{[-a] + [-b]}{c}$
+$[-a] = B-A$ $[-b] = C-B$ $[-b] + [-a] = C-A = [-(a+b)]$; but as the relations are commutative $[-b] + [-a] = [-a] + [-b]$. $\therefore$ &c.
+
+The multiplication of monomials consists
+$1^{\text{st}}$ in taking the factors into one term
+$2^{\text{nd}}$ in taking them in any convenient order
+$3^{\text{rd}}$ in applying the rule of signs.
+
+The taking the factors into one term without [ins]brackets; that is [del]sign of mult[/del][/ins] is making $(ab)(cd) = abcd = a(bc)$ follows from the associative principle. The transposition of factors depends on the commutative principle. The rule of signs has been proved

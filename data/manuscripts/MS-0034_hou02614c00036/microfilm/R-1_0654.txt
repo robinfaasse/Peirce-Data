@@ -1,0 +1,30 @@
+Let us now consider the doctrine of collections. A collection
+differs from a quality only in this particular, that given any
+quality, or combination of qualities not contradictory, it is
+mathematically possible that there should be an object having that
+quality or that combination of qualities. But given a collection,
+its subjects are supposed to be fixed, and it ceases to be the same
+collection if a new subject is added or subtracted.
+
+Let us write $S_{\alpha}$ to mean that $\alpha$ is a one-to-$x$ relation, that is,
+no two things are so related to the same thing, or
+$$\Pi_{\alpha} \Pi_{1} \Pi_{2} \Pi_{3} \quad \bar{S}_{\alpha} + \bar{\gamma}_{\alpha 13} + \bar{\gamma}_{\alpha 23} + \text{I}_{12}$$
+$$\Pi_{\beta} \Sigma_{4} \Sigma_{5} \Sigma_{6} \quad S_{\beta} + \gamma_{\beta 46} \cdot \gamma_{\beta 56} \cdot \bar{\text{I}}_{45}$$
+
+Let us now consider two collections, say the $P$s and the $Q$s. Since
+every object is [del]so related[/del] [ins]related[/ins] to every other
+$$\Sigma_{\gamma} \Pi_{7} \Pi_{8} \quad \gamma_{\gamma 78}$$
+
+Moreover given any [ins]dyadic[/ins] relation, there is another which differs from it
+only in excluding certain pairs. Let us, then, modify $\gamma$ so that no
+$P$ shall be $\gamma$ to anything, nor any $Q$ be $\gamma$'d by anything. That is
+$$\Pi_{p} \Pi_{q} \Sigma_{\gamma} \Pi_{7} \Pi_{8} \quad q_{p7} \cdot q_{q8} \cdot \gamma_{\gamma 78} + \overline{(q_{p7} + q_{q8})} \cdot \bar{\gamma}_{\gamma 78}$$
+
+Upon the same principle, we can further modify $\gamma$ (which we will
+now call $\delta$) so as to exclude all pairs but one having any given $Q$ as
+correlate, and thus make the relation $\delta$ a one-to-$x$ relation. That is
+$$\text{(1)} \Pi_{p} \Pi_{q} \Sigma_{\delta} \Pi_{8} \Sigma_{\gamma} \Pi_{9} \Pi_{0} \bar{q}_{q8} \cdot \bar{\gamma}_{\delta 78} + q_{p7} \cdot \overline{(q_{p7} \cdot \gamma_{\delta 78} + q_{q8})} \cdot \overline{(q_{p9} + q_{p0} + \bar{\gamma}_{\delta 98} + \bar{\gamma}_{\delta 08} + q_{q8} + \text{I}_{90})} \cdot \overline{( \bar{\gamma}_{\delta 98} + \text{I}_{79} )} + q_{q8} \cdot \bar{\gamma}_{\delta 98}$$
+
+Now among the relations, $\delta$, fulfilling this condition there [del]are[/del] [ins]is[/ins] either
+some which [del]fills all[/del] [ins]is such[/ins] that every $P$ is $\delta$ to a $Q$, or there is some whose converse
+is a one-to-$x$ relation (when we may call it an $x$-to-one relation) or else

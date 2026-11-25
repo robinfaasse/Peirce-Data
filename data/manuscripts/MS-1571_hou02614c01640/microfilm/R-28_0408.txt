@@ -1,0 +1,24 @@
+[ins]Some A is not B[/ins]
+
+1 All Y is B All Not-B is not-Y
+2 No Z is A All Z is not-A All A is not-Z
+3 Some Z is Y Some Z is not not-Y Some Y is not not-Z
+4 All not-Y·A is not-B No not-Y·A is B All B is not-(not-Y·A)
+
+5 1.3 Some Z is B Some Z is not not-B Some [del]Z[/del] [ins]B[/ins] is not not-Z
+6 1.4 No Y is (not-Y·A) All Y is not (not-Y·A) All (Not-Y·[del]A[/del] [ins]is not Y[/ins]
+7 2.3 Some Y is not A Some Y is not-A Some not-A is not not-Y
+8 2.4 Some not-B is not Z Some not-B is not Z Some not-Z is not B
+[del]9 1.6 Some (not-Y·A) is not B[/del]
+[del]X[/del] 1.6 Some B is [ins]not[/ins] (not Y·A) X Some not(not Y·A) is B
+[del]9[/del] [ins](2.3)[/ins] 1.7 Some B is not A Some B is not-A Some not-A is [del]not[/del] not B
+10 1.8 Some not-Z is not Y Some not-Z is not-Y Some not-Y is not Z
+[del]X Some not-Y is not Z X[/del]
+11 [ins](4-2)[/ins] 3.6 Some Z is not-(not-Y·A) Some Z is not-(not-Y·A) Some not-(not-Y·A) is not not-Z
+12 4.6 Some not-B is not(not-Y·A) Some not-B is not(not-Y·A) Some not(not-Y·A) is not B
+X 6.7 Some not-A is not(not-Y·A) X
+
+X 1.12 Some not(not Y·A) is not Y.
+13 [ins]ie[/ins] Some not-A is not Y Some not-A is not-Y Some not Y is not A
+14 3.11 Some not(not Y·A) is not A Some not(not Y·A) is not-A Some not-A is not (not Y·A)
+X 4.11 Some Z is B

@@ -1,0 +1,42 @@
+[pn]25[/pn] [u]$\int \psi = C \int \frac{(fx)}{x-z}$[/u]
+
+$\int \int \psi = C \int \frac{(fx)}{x-z} = C (fz) \log (b-z)$
+
+[u]26[/u] Would be about as convenient
+to use (288)
+
+[u]27[/u]
+[marginalia]
+28
+29
+30
+31
+[/marginalia]
+
+[u]Examples[/u]
+
+$\frac{x^5+1}{(x-1)^2 (x+2)}$
+
+$\frac{nx+m}{x^2 - 2ax + a^2 + b^2}$
+
+$x_0 = a \pm b \sqrt{-}$
+$x_0' = a - b \sqrt{-}$
+
+$\frac{}{(x-x_0)(x-x_0')}$
+
+$\frac{n x_0 + m}{x_0 - x_0'} = \frac{na + m + nb \sqrt{-}}{2b \sqrt{-}} = \frac{na+m}{2b\sqrt{-}} + \frac{nb}{2b}$
+
+$\frac{n}{2} - \frac{na+m}{2b} \sqrt{-} = A$
+
+[fig]Two parallel lines pointing to A and B[/fig]
+
+$S = \frac{n}{2} \log (x^2 - 2ax + a^2 + b^2) + 2b \frac{na+m}{b} \tan^{-1} \frac{x-a}{b}$
+
+[u]6th[/u] like last
+[u]7th[/u] like last
+
+[u]8th[/u] Lecture XXXVII
+
+$\frac{nx+m}{(x^2 - 2ax + a^2 + b^2)^2}$ $\frac{nx+m}{(x-x_0)^2 (x-x_0')^2}$
+
+$\frac{}{(x-x_0)^2}$ $\frac{}{(x-x_0')^2}$

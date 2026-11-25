@@ -1,0 +1,39 @@
+[pn]90r[/pn]
+
+$$\bar{x} ( \bar{y} + \bar{z} ) \bar{x} ( \bar{y} + \bar{z} )$$
+
+$$\bar{x} \bar{z} \bar{y} \prec \top$$
+
+$$z \times y \prec \top$$
+
+$$\begin{aligned}
+\text{• Suppose } & z \times \prec \bar{y} \\
+& \bar{x} \bar{z} \prec \bar{y}
+\end{aligned}$$
+
+$$\begin{aligned}
+z \times & \prec \bar{y} \\
+\bar{z} \bar{x} & \prec \bar{y}
+\end{aligned}$$
+
+$$\text{Can we also have } \bar{x} \bar{z} \prec y$$
+
+$$\begin{aligned}
+\text{If there is an } M \text{ such that} \\
+A M & \prec z \\
+M B & \prec y \\
+\text{Then } A B & \prec y
+\end{aligned}$$
+
+$$\begin{aligned}
+\text{If } z \times y & \prec \bar{y} \\
+\text{Then } y & \prec \bar{z} + \bar{x} \\
+\text{Therefore } z \bar{x} & \prec \bar{z} + \bar{x}
+\end{aligned}$$
+
+$$\text{There is [del]always[/del] [ins]never[/ins] an } N \text{ such that}$$
+
+$$\begin{aligned}
+A N & \prec \bar{z} \\
+N B & \prec \bar{x}
+\end{aligned}$$

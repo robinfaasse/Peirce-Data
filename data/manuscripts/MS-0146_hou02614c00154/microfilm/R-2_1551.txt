@@ -1,0 +1,13 @@
+In place of the [u]Nota notae[/u], we have
+$$l_{\text{ABCD}} \prec [ l_{\text{BCDE}} \prec ( l_{\text{CDEA}} \prec l_{\text{DEAB}} ) ] .$$
+That is, the Syllogistic form is
+$$\begin{aligned} & l_{\text{ABCD}} \\ & l_{\text{BCDE}} \\ & l_{\text{CDEA}} \\ \therefore \quad & l_{\text{DEAB}} . \end{aligned}$$
+
+[u]Art 2[/u]. Points are so placed upon a line that, first,
+$$\Pi_{\text{A}} \Pi_{\text{B}} \Pi_{\text{C}} \Sigma_{\text{X}} \quad l_{\text{AXBC}} \cdot \bar{l}_{\text{ABXC}} + [del]l_{\text{ABXC}}[/del] [ins]l_{\text{ACAC}}[/ins] + [del]\bar{l}_{\text{AECB}}[/del]$$
+This may also be written
+$$\Pi_{\text{A}} \Pi_{\text{B}} \Pi_{\text{C}} \Sigma_{\text{D}} \quad l_{\text{BCAC}} + l_{\text{ABCD}} \cdot \bar{l}_{\text{CDAD}} .$$
+Either of these formulae expresses merely that between any two points on either side there are other points.
+But further, there is a limit, such that
+$$\Pi_{\text{C}} \Sigma_{\text{B}} \Sigma_{\text{D}} \Pi_{\text{A}} \Pi_{\text{E}} \Sigma_{\text{F}} \Pi_{\text{G}} \Pi_{\text{H}} \quad m_{\text{G}} \cdot n_{\text{D}} \cdot ( \bar{l}_{\text{BCDE}} + \bar{n}_{\text{E}} + l_{\text{DEBE}} + \bar{l}_{\text{ABCD}} + \bar{m}_{\text{A}} + l_{\text{DABA}} )$$
+$$+ \bar{m}_{\text{G}} + \bar{n}_{\text{H}} + l_{\text{GCHF}} \cdot \bar{l}_{\text{HFGF}} .$$

@@ -1,0 +1,29 @@
+We name the first player X, the second O. We number the
+squares as in the figure
+
+[fig]Tic-tac-toe grid numbered 1 to 9[/fig]
+
+We draw a line as for a fraction and write the number of the square
+X occupies in the numerator, that O follows with in the denomi-
+nator. If two plays are precisely equivalent, we write = between
+the numbers of the squares.
+
+<u>1[ins]st[/ins] Play.</u> X has a choice between $\begin{cases} 2 = 4 = 6 = 8, \\ 5, \\ 1 = 3 = 7 = 9. \end{cases}$
+
+<u>2.</u> O has choice between $\begin{cases} 8, \\ 5, \\ 1 = 3, \\ 4 = 6, \\ 7 = 9. \end{cases}$
+
+<u>$\frac{2}{8}$.</u> X has choice between [del]$\begin{cases} 1 = 3 \\ 5 \\ 7 = 9 \end{cases}$[/del] $\begin{cases} 1 = 3, \\ 5, \\ 7 = 9, \\ 4 = 6. \end{cases}$
+
+$\frac{2}{8}\ \frac{1}{3}$. O had no choice. X has choice between $\begin{cases} 4, \\ 5, \\ 6, \\ 7, \\ 9. \end{cases}$
+
+[fig]Tic-tac-toe grid with X and O marks[/fig] $\frac{2}{8}\ \frac{1}{3}\ \frac{4}{7}$ O [del]wins tic tac toe[/del] [ins]!!![/ins]
+
+$\frac{2}{8}\ \frac{1}{3}\ \frac{5}{9}$ O!!!
+
+[fig]Tic-tac-toe grid with X and O marks[/fig] $\frac{2}{8}\ \frac{1}{3}\ \frac{6}{7}$ O!!!
+
+$\frac{2}{8}\ \frac{1}{3}\ \frac{7}{4}$ —
+
+[fig]Tic-tac-toe grid with X and O marks[/fig] $\frac{2}{8}\ \frac{1}{3}\ \frac{9}{5}\ \frac{7}{4}\ \frac{6}{}$ —
+
+[fig]Tic-tac-toe grid with X and O marks[/fig]

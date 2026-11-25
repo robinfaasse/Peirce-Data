@@ -1,0 +1,21 @@
+[pn]FL[/pn]
+
+For example, suppose
+$$\Pi_A \ \overline{q}_{Pa} + l_{ab} + l_{ac}$$
+$$\Pi_A \ q_{QA} + \gamma_{AB} \cdot \gamma_{AC} \cdot \gamma_{AD}$$
+
+Then taking the third power of
+$$\Pi_{\delta} \Sigma_{\gamma} \ \gamma_{\delta\gamma} \cdot q_{P\gamma} + \overline{q}_{Q\delta}$$
+
+and multiplying by the above we gets
+$$\Pi_{\delta} \Sigma_{\gamma} \ \Pi_{\delta'} \Sigma_{\gamma'} \ \Pi_{\delta''} \Sigma_{\gamma''}$$
+$$\gamma_{\delta\gamma} \cdot q_{P\gamma} \cdot (l_{\gamma b} + l_{\gamma c}) \cdot \gamma_{\delta'\gamma'} \cdot q_{P\gamma'} \cdot (l_{\gamma' b} + l_{\gamma' c}) \cdot \gamma_{\delta''\gamma''} \cdot q_{P\gamma''} \cdot (l_{\gamma'' b} + l_{\gamma'' c})$$
+$$+ \ \overline{q}_{Q\delta} \cdot \gamma_{\delta B} \cdot \gamma_{\delta C} \cdot \gamma_{\delta D} + \overline{q}_{Q\delta'} \cdot \gamma_{\delta' B} \cdot \gamma_{\delta' C} \cdot \gamma_{\delta' D} + \overline{q}_{Q\delta''} \cdot \gamma_{\delta'' B} \cdot \gamma_{\delta'' C} \cdot \gamma_{\delta'' D}$$
+
+which gives
+$$q_{Pb} \cdot q_{Pc} \ (\gamma_{\delta b} \cdot \gamma_{\delta' c} \cdot \gamma_{\delta'' D} + \gamma_{\delta b} \cdot \gamma_{\delta' B} \cdot \gamma_{\delta'' D} + \gamma_{\delta D} \cdot \gamma_{\delta' b} \cdot \gamma_{\delta'' c}$$
+$$+ \gamma_{\delta B} \cdot \gamma_{\delta' b} \cdot \gamma_{\delta'' D} + \gamma_{\delta c} \cdot \gamma_{\delta' B} \cdot \gamma_{\delta'' D} + \gamma_{\delta D} \cdot \gamma_{\delta' B} \cdot \gamma_{\delta'' c})$$
+
+But this result cannot be obtained without giving $\Pi_i \Sigma_j \ \overline{q}_{Pi} + \gamma_{ij} \cdot q_{Qj}$
+Consequently, there is no way in which the proposition in question can be
+necessitated, Hence, it cannot be true.

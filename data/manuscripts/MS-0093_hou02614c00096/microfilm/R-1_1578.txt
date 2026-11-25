@@ -1,0 +1,53 @@
+[pn]84[/pn]
+
+$$y_t = \frac{at+b}{ct+d}$$
+
+$$\psi^{n+1} = \frac{A+B-1-AB + (A+B-1)\psi^n}{C+C\psi^n}$$
+
+Suppose $A=B$
+
+[del]$$\psi^{n+1} = \frac{-(A-1)^2 + (2A-1)\psi^n}{C+C\psi^n}$$[/del]
+
+$$C\psi^{n+1} = \frac{[del]2A-A^2[/del] [ins]A^2-2A[/ins] + C^2\psi^n [del]+ 2AC\psi^n[/del]}{C+C\psi^n}$$
+
+[del]$(C\psi^{n+1})(C\psi^n+1) = 2A(C\psi^n+1) = 0$[/del]
+
+[del]Here there are two relations, Either[/del]
+
+[del]$C\psi^{n+1} = 2A$[/del]
+
+[del]$\psi^{n+1} = \frac{2A-1}{C}$[/del]
+
+$$(C\psi^{n+1}+1)(C\psi^n+1) = 2A(C\psi^n+1) - A^2$$
+
+$$C\psi^n+1 = \frac{u_{n+1}}{u_n}$$
+
+$$\frac{u_{n+2}}{u_{n+1}} \frac{u_{n+1}}{u_n} = 2A \frac{u_{n+1}}{u_n} - A^2$$
+
+$$m^2 - 2Am + A^2 = 0$$
+
+$$u_n = (\mathcal{C}_1 + \mathcal{C}_2 n) A^n \quad [del](\mathcal{C}_1 + \mathcal{C}_2(n+2)) A^{n+2} = 2(\mathcal{C}_1 + \mathcal{C}_2 n+1) A^{n+1} - A^2(\mathcal{C}_1 + \mathcal{C}_2 n) A^n[/del]$$
+
+$$C\psi^n+1 = \frac{u_{n+1}}{u_n} = \frac{(\mathcal{C}_1 + \mathcal{C}_2 + \mathcal{C}_2 n) A^{n+1}}{(\mathcal{C}_1 + \mathcal{C}_2 n) A^n} = A \frac{\mathcal{C} + n + 1}{\mathcal{C} + n}$$
+
+$$A^2 (1 + \frac{1}{\mathcal{C}+n+1})(1 + \frac{1}{\mathcal{C}+n}) = 2A^2(1 + \frac{1}{\mathcal{C}+n}) - A^2 \frac{\mathcal{C}+n+1}{\mathcal{C}+n} = A(1 + \frac{1}{\mathcal{C}+n})$$
+
+$$\frac{\mathcal{C}+n+2}{\mathcal{C}+n} [del]\times[/del] = 2 \frac{\mathcal{C}+n+1}{\mathcal{C}+n} - \frac{\mathcal{C}+n}{\mathcal{C}+n}$$
+
+[pn]85[/pn]
+
+$$C\psi^{n+1} = A \frac{\mathcal{C}+n+1}{\mathcal{C}+n}$$
+
+$$Ct + 1 = A(1 + \frac{1}{\mathcal{C}})$$
+
+[del]$$\frac{Ct+1-A}{A} = \frac{1}{\mathcal{C}}$$[/del]
+
+$$\mathcal{C} = \frac{A}{Ct+1-A}$$
+
+$$C\psi^n+1 = A \frac{\frac{A}{Ct+1-A} + n + 1}{\frac{A}{Ct+1-A} + n}$$
+
+$$C\psi^n = A \frac{\frac{A + n(Ct+1-A) + Ct+1}{Ct+1-A}}{\frac{A + n(Ct+1-A)}{Ct+1-A}} - 1$$
+
+$$C\psi^n = \frac{[del](A-1)[/del] A n(Ct+1-A) + ACt [del]- n(Ct+1-A)[/del]}{n(Ct+1-A) + A}$$
+
+$$\psi^n = \frac{(A-1)n(Ct+1-A) + ACt}{Cn(Ct+1-A) + AC}$$

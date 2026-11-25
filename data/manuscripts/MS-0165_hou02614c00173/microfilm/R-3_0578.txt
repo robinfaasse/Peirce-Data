@@ -1,0 +1,26 @@
+[pn]355[/pn]
+
+[u]x[/u] = (1 - [u]y[/u]) [frac]a/a + b + c[/frac] ,
+1 - [u]x[/u] = (1 - [u]y[/u]) [frac]b/a + b + c[/frac] ,
+0 = [u]y[/u] + (1 - [u]y[/u]) [frac]c/a + b + c[/frac] .
+
+The last of these gives [del]x[/del] [u]y[/u] = - [frac]c/a + b[/frac] ,
+or 1 - [u]y[/u] = [frac]a + b + c/a + b[/frac] .
+
+Hence, by the first equation,
+[u]x[/u] = [frac]a[del]b[/del]/a + b[/frac] ;
+
+and the second equation agrees with this, making
+1 - [u]x[/u] = [frac]b/a + b[/frac] .
+
+Hence we have [u]x[/u] A + (1 - [u]x[/u]) B = [frac]a A + b B/a + b[/frac] .
+
+The reason this procedure answers the purpose
+is that a system of linear equations where the num-
+ber of equations equals the number of unknowns
+has but a single solution. Just as a system of homa-
+toids [del]equal in[/del] [ins]one more than[/ins] number [del]of[/del] [ins]to[/ins] their dimensionality have just one
+point of intersection. And just as through any three
+points just one plane [del]can[/del] exists, so a linear equation
+with 3 unknowns can be found which any three assumed
+systems of particular values satisfy.

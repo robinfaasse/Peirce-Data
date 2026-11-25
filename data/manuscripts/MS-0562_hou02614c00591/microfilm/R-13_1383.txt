@@ -1,0 +1,24 @@
+Multiplying the first by $(z-v)$ and the second
+by $(x-f)$ and subtracting one from the
+other, and dividing by $(v-f)$ we get
+$$(x-f)(z-v)=0$$
+which signifies. ‘If [del]$x$[/del] [ins]$x$[/ins], then $z$,’ which is the
+syllogistic conclusion.
+
+[del]The[/del] [ins]Any[/ins] expression which becomes equal to $v$
+when any one or more of the variables $x$, $y$,
+$z$, etc is equal to $v$ and which becomes equal
+to $f$ when $x$, $y$, $z$, etc. are all equal to $f$,
+represents the logical aggregate of the propo-
+sitions $x$, $y$, $z$, etc. The simplest expression
+of this sort is
+$$v + \frac{(x-v)(y-v)(z-v)}{(f-v)(f-v)}.$$
+
+Any expression which becomes equal to $f$ when
+[del]either[/del] [ins]of[/ins] $x$, $y$, $z$, etc is equal to $f$ and which becomes
+equal to $v$ when $x$, $y$, $z$, etc are all equal to
+$v$, represents the logical compound of $x$, $y$, $z$,
+etc. The simplest such expression is
+$$f + \frac{(x-f)(y-f)(z-f)}{(v-f)(v-f)}.$$
+
+Any expression which becomes equal to $f$ when

@@ -1,0 +1,33 @@
+Now we have
+
+$$D_t^2 s = - \frac{\sin \theta}{\cos \theta} g - (D_t (\theta - \omega))^2 \tan \omega R$$
+
+$$\theta - \omega = \theta \frac{\ell}{R}$$
+
+$$\theta = (\theta - \omega) \frac{R}{\ell} = (\theta - \omega) \frac{R}{R + \Delta (\cos (\theta - \omega))}$$
+
+$$= (\theta - \omega) \frac{R}{R + \Delta - \frac{1}{2} \Delta (\theta - \omega)^2}$$
+
+$$\approx (\theta - \omega) \frac{R}{R + \Delta}$$
+
+$$s = R (\theta - \omega)$$
+
+$$D_t^2 (\theta - \omega) = - \frac{g}{R + \Delta} (\theta - \omega) - (D_t (\theta - \omega))^2 \tan \omega R$$
+
+$$\omega = \theta (1 - \frac{\ell}{R}) = (\theta - \omega) (\frac{R}{\ell} - 1) = (\theta - \omega) (\frac{R}{R + \Delta \cos (\theta - \omega)} - 1)$$
+
+$$D_t^2 (\theta - \omega) = - \frac{g}{R + \Delta} (\theta - \omega) - (D_t (\theta - \omega))^2 (\theta - \omega) (\frac{R - \Delta}{R + \Delta})$$
+
+[del]$(D_t (\theta - \omega))^2$[/del]
+
+$$\frac{R}{R + \Delta} - \frac{R + \Delta}{}$$
+
+If $(\theta - \omega)$ be of form $A \sin (\sqrt{q} \cdot t + r)$
+
+$$D_t (\theta - \omega) = \sqrt{q} A \cos (\sqrt{q} \cdot t + r)$$
+
+$$(D_t (\theta - \omega))^2 = q A^2 \cos^2 (\sqrt{q} \cdot t + r)$$
+
+$$= q A^2 - q (\theta - \omega)^2$$
+
+which must be nearly correct

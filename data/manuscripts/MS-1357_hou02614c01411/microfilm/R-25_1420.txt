@@ -1,0 +1,32 @@
+[pn]27[/pn]
+
+[u]Report on Live Loads[/u]
+
+Chief use of developing a determinant is to save calculating
+a small quantity as the difference between two large ones. If there
+is no reduction, this purpose is [del]not[/del] [ins]not[/ins] accomplished. A few
+of the partial determinants of the above system may be ex-
+amined
+
+$(\varepsilon_0 + \kappa_0)^2 - (\alpha_0 + \mu_0)(\beta_0 + \lambda_0) = \varepsilon_0^2 - \alpha_0\beta_0 + 2\varepsilon_0\kappa_0 - \alpha_0\lambda_0 - \beta_0\mu_0 + \kappa_0^2 - \lambda_0\mu_0$
+
+Now $\varepsilon_0^2 - \alpha_0\beta_0 = \cos^2\Phi_0 (1 - \cos^2\Phi_0) (\frac{1}{\Lambda_0^2} - 2\frac{1}{\Lambda_0\mu'_0} + \frac{1}{\mu'_0{}^2})$
+$\phantom{\text{Now }\varepsilon_0^2 - \alpha_0\beta_0} - \cos^2\Phi_0 (1 - \cos^2\Phi_0) (\frac{1}{\Lambda_0^2} \phantom{- 2\frac{1}{\Lambda_0\mu'_0}} + \frac{1}{\mu'_0{}^2})$
+$\phantom{\text{Now }\varepsilon_0^2 - \alpha_0\beta_0} - \cos^4\Phi_0 \phantom{(1 - \cos^2\Phi_0)} \frac{1}{\Lambda_0\mu'_0}$
+$\phantom{\text{Now }\varepsilon_0^2 - \alpha_0\beta_0} - 1 \phantom{0} + 2\cos^2\Phi_0 - \cos^4\Phi_0 \phantom{(1 - \cos^2\Phi_0)} \frac{1}{\Lambda_0\mu'_0} \phantom{\frac{1}{\mu'_0{}^2}} = - \frac{1}{\Lambda_0\mu'_0}$
+
+[del]$(\varepsilon_1 - \kappa_1)^2 - (\alpha_1 + \mu_1)(\beta_1 + \lambda_1) = - \frac{1}{\Lambda_1\mu'_1}$[/del]
+
+[del]$(\varepsilon_0 + \kappa_0)\kappa_0 - (\beta_0 + \lambda_0)\mu_0 \phantom{2\varepsilon_0\kappa_0} = \varepsilon_0\kappa_0 - \beta_0\mu_0 + \kappa_0^2 - \lambda_0\mu_0$[/del]
+
+$2\varepsilon_0\kappa_0 - \alpha_0\lambda_0 - \beta_0\mu_0 = \frac{1}{P_0} \Big\{ 2 \frac{R_0}{R_0} \frac{(x_1-x_0)(y_1-y_0)}{[R_0]} \sin\Phi_0\cos\Phi_0 (\frac{1}{\Lambda_0} - \frac{1}{\mu'_0}) - \frac{1}{\Lambda_0} - \frac{1}{\mu'_0}$
+$\phantom{2\varepsilon_0\kappa_0 - \alpha_0\lambda_0 - \beta_0\mu_0 = \frac{1}{P_0} \Big\{} + \frac{R_0}{R_0} \frac{[x_1-x_0]}{[R_0]} (\frac{\cos^2\Phi_0}{\Lambda_0} + \frac{\sin^2\Phi_0}{\mu'_0})$
+$\phantom{2\varepsilon_0\kappa_0 - \alpha_0\lambda_0 - \beta_0\mu_0 = \frac{1}{P_0} \Big\{} + \frac{R_0}{R} \frac{[y_1-y_0]}{[R_0]} (\frac{\sin^2\Phi_0}{\Lambda_0} + \frac{\cos^2\Phi_0}{\mu'_0}) \Big\}$
+$\phantom{2\varepsilon_0\kappa_0 - \alpha_0\lambda_0 - \beta_0\mu_0} = \frac{1}{P_0} \frac{R_0}{R_0^3} \Big\{ \frac{[x_1-x_0]\cos\Phi_0 + [y_1-y_0]\sin\Phi_0}{\Lambda_0} + \frac{[x_1-x_0]\sin\Phi_0 - [y_1-y_0]\cos\Phi_0}{\mu'_0} \Big\}$
+
+$\kappa_0^2 - \lambda_0\mu_0 = \frac{1}{[P_0]} \Big\{ \frac{R_0}{[R_0]} \frac{[x_1-x_0]}{[R_0]} \frac{[y_1-y_0]}{[R_0]} - 1 + \frac{R_0}{R_0} - \frac{[R_0]}{[R_0]} \frac{[x_1-x_0]}{[R_0]} \frac{[y_1-y_0]}{[R_0]} \Big\} = \frac{1}{[P_0]} (1 - \frac{R_0}{R_0})$
+
+Thus $(\varepsilon_0 + \kappa_0)^2 - (\alpha_0 + \mu_0)(\beta_0 + \lambda_0) = - \frac{1}{\Lambda_0\mu'_0} - \frac{1}{P_0} (\frac{1}{\Lambda_0} + \frac{1}{\mu'_0}) + \frac{1}{P_0} \frac{R_0}{R_0^3} \Big\{ \frac{[x_1-x_0]\cos\Phi_0 + [y_1-y_0]\sin\Phi_0}{\Lambda_0} + \frac{[x_1-x_0]\sin\Phi_0 - [y_1-y_0]\cos\Phi_0}{\mu'_0} \Big\}$
+$\phantom{\text{Thus }(\varepsilon_0 + \kappa_0)^2 - (\alpha_0 + \mu_0)(\beta_0 + \lambda_0) =} - \frac{1}{[P_0]} (1 - \frac{R_0}{R_0})$
+
+[del]$(\varepsilon_1 +$[/del]

@@ -1,0 +1,55 @@
+[del]$(aa) A : A + (ab) A : B + etc.$[/del]
+
+[del]$\Sigma^2 A : A$[/del]
+
+$(aa)^2 + (ab)(ba) + (ac)(ca) + etc = (aa)$
+$(aa)(ab) + (ab)(bb) + (ac)(cb) + etc = (ab)$
+
+$(aa)^2 + (ab)(ba) = (aa)$
+$(ab)(ab) + (ab)(bb) = (ab)$  Either $(ab) = 0$ or $=\infty$
+or $(aa) + (bb) = 1$
+$(ba)(aa) + (bb)(ba) = (ba)$  Either $(ba) = 0$ or $=\infty$
+$(ba)(ab) + (bb)^2 = (bb)$  or $(aa) + (bb) = 1$
+
+$(aa)^2 - (bb)^2 = (aa) - (bb)$
+Either $(aa) = (bb)$
+or $(aa) + (bb) = 1$
+
+$\begin{array}{cc} (\frac{1}{2} + P) & (\frac{1}{2} - P) \\ = (aa) & (bb) \end{array}$
+
+$\frac{\frac{1}{4} + P + P^2}{\frac{1}{2} + P}$  $\frac{\frac{1}{4} - P + P^2}{\frac{1}{2} - P}$?
+$+ \frac{1}{4} - P^2 = (ab)(ba)$  $\frac{1}{4} - P^2$
+
+***
+
+$\frac{\text{Coth } a + \sqrt{\text{Coth}^2 - 1}}{\text{Coth} + \text{Cosech}} =$  $\text{Coth} - \text{Cosech}$
+
+$\text{Tanh}^2 = \frac{\text{Sh}^2}{\text{Cosh}^2} = \frac{\text{Cosh}^2 - 1}{\text{Cosh}^2}$
+
+$= 1 - \text{Sech}^2$
+
+$\text{Tanh}^2 + \text{Sech}^2 = 1$
+
+$\frac{x + \sqrt{x^2 - 1}}{x - \sqrt{x^2 - 1}} = x^2 - x^2 + 1$
+
+[fig]Right triangle with sides labeled[/fig]
+
+$\text{Cosh}^2 - 1 = \text{Sinh}^2$
+
+$\text{Coth}^2 = \frac{\text{Cosh}^2}{\text{Sinh}^2} = \frac{\text{Sinh}^2 + 1}{\text{Sinh}^2}$
+
+$= 1 + \text{Cosech}^2$
+
+$\text{Coth}^2 - 1 = \text{Cosech}^2$
+
+$\text{Coth} + \text{Cosech}$  or $\text{Coth} - \text{Cosech}$
+
+$\frac{\text{Cosh} + 1}{\text{Sinh}}$  $\text{Coth} \frac{1}{2}$  $\text{Tanh} \frac{1}{2}$
+
+$e^{2N\pi i} = \cos 2N\pi$
+
+$\text{Sech} + \text{Tanh}$  $\text{Sech} - \text{Tanh}$
+
+$\text{Tanh} x = \frac{1 + \text{Sinh}}{1 + \text{Tanh}^2 \frac{x}{2}}$
+
+$\text{Sinh} x = \frac{2 \text{Tanh} \frac{x}{2}}{1 - \text{Tanh}^2 \frac{x}{2}}$

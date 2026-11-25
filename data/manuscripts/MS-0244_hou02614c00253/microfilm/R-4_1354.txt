@@ -1,0 +1,48 @@
+$$u_{x+4} = P_x u_{x+3} + Q_x Q_{x-1} u_{x+2} + [del]R_x R_{x-1} R_{x-2} u_{x+1}[/del] [ins]R_x R_{x-1} R_{x-2} u_{x+1}[/ins] + [del]S_x S_{x-1} S_{x-2} S_{x-3}[/del] [ins]S_x S_{x-1} S_{x-2} S_{x-3} u_x[/ins] + T_x$$
+
+$$u_4 = P_0 u_3 + Q_0 u_2 + R_0 u_1 + S_0 u_0 + T_0$$
+$$u_5 = P_1 u_4 + Q_1 u_3 + R_1 u_2 + S_1 u_1 + T_1$$
+$$= (P_1 P_0 + Q_1) u_3 + (P_1 Q_0 + R_1) u_2 + (P_1 R_0 + S_1 S_0)$$
+
+[del]\frac{n'+1}{n'} = T_n[/del]
+
+$$u_{m+2} = P_{m,1} u_{m+1} + [del]P_{m,2}[/del] [ins]P_{m,2} P_{m-1,2}[/ins] u_m + T_m$$
+
+$$u_2 = P_{0,1} u_1 - P_{0,2} u_0 + T_0$$
+$$u_3 = P_{1,1} u_2 - P_{1,2} P_{0,2} u_1 + T_1$$
+$$= (P_{1,1} P_{0,1} - P_{1,2} P_{0,2}) u_1 + (- P_{1,1} P_{0,2} u_0 + P_{1,1} T_0 + T_1 + P_{1,1} T_0$$
+$$u_4 = P_{2,1} u_3 - P_{2,2} P_{1,2} u_2 + T_2$$
+$$= (P_{2,1} P_{1,1} P_{0,1} - P_{2,1} P_{1,2} P_{0,2} - P_{2,2} P_{1,2} P_{0,1}) u_1$$
+$$+ (P_{2,1} P_{1,1} P_{0,2} + P_{2,2} P_{1,2} P_{0,2}) u_0 + P_{2,1} P_{1,1} T_0 + P_{2,1} T_1 + P_{2,1} P_{1,1} T_0$$
+$$- P_{2,2} P_{1,2} T_0 + T_2$$
+
+$$u_{m+n-1} - P_{m,n-2} u_{m+n-2} + P_{m,n-3} P_{m-1,n-3} u_{m+n-3} + T_m T_{m-1} T_{m-2} \dots$$
+
+[del]$\Delta$[/del] $$u_{m+n} - P_{m,n-1} u_{m+n-1} + P_{m,n-2} P_{m-1,n-2} u_{m+n-2} - T_m T_{m-1} T_{m-2} \dots$$
+$$u_{m+n-1} + P_{m,n-2} u_{m+n-2}$$
+
+---
+
+[del]$\Lambda_n \chi_n = \frac{\chi_{n+1}}{\chi_n}$[/del]
+
+$$\Delta \chi_n = \chi_{n+1} - \chi_n$$
+
+$$\sum_n \Delta_n = 1 + C$$
+
+$$\begin{cases}
+[del]\Delta_n \sum_n u_n = u_n[/del] \\
+\sum_n \Delta_n u_n = u_n + C
+\end{cases}$$
+
+$$\sum_n \Delta_n = \Delta_n \sum_n + C$$
+
+$$\Lambda_n \chi_n = \frac{\chi_{n+1}}{\chi_n}$$
+
+$$\sum_{n+1} - \sum_n = \chi_n$$
+
+[del]$\Lambda$[/del] $$\frac{\Gamma_{n+1}}{\Gamma_n} u_n = [del]\Gamma u_n[/del] \frac{u_{n+1} - u_{n-1}}{u_{n-1}}$$
+
+$$\Gamma_n^{-1} u_n$$
+
+$$\Lambda_n \Gamma_n u_n = u_n$$
+$$\Gamma_n \Lambda_n u_n = C u_n$$

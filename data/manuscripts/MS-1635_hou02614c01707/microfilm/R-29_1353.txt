@@ -1,0 +1,61 @@
+$$r = S - \sqrt{S^2 - 1}$$
+
+$$\frac{1}{r} = S - \sqrt{S^2 - 1}$$
+
+$$r = \frac{S^2 - (S^2 - 1)}{S + \sqrt{S^2 - 1}}$$
+
+$$= S + \sqrt{S^2 - 1}$$
+
+$$\frac{1}{r} = \frac{S + \sqrt{S^2 - 1}}{[del]S^2[/del] + 1}$$
+
+[fig]Geometric diagram with intersecting lines and curves[/fig]
+
+$$\cos B = \cosh b \cdot \sin A$$
+
+[fig]Geometric diagram with intersecting lines and curves[/fig]
+
+$$\frac{\sin B}{\sin A} = \cosh b = \csc A$$
+
+[fig]Differential triangle diagram[/fig]
+
+$$\tan B = \frac{(r + dr) d\theta}{-dr}$$
+
+$$= -r / \frac{d\theta}{dr}$$
+
+$$\cot A = - D_{\theta} \log r$$
+
+$$\cot^2 = 1 - \frac{1}{\sin^2}$$
+
+$$\sqrt{\frac{\cosh^2 b}{\cos^2 \theta} - 1} = - D_{\theta} \log r$$
+
+[del]$$\log [ax + (1 + a^2 x^2)^{\frac{1}{2}}]$$[/del]
+
+$$\frac{a + \frac{a^2 x}{(1 + a^2 x^2)^{\frac{1}{2}}}}{ax + (1 + a^2 x^2)^{\frac{1}{2}}}$$
+
+$$= a \frac{(1 + a^2 x^2)^{\frac{1}{2}} + ax}{(1 + a^2 x^2)^{\frac{1}{2}} + ax} \cdot \frac{1}{(1 + a^2 x^2)^{\frac{1}{2}}}$$
+
+$$\cos B = \cosh b \sin \theta$$
+
+$$\cot B = - D_{\theta} \log r$$
+
+$$1 - \cos^2 B = \sin^2 B = 1 - \cosh^2 b \sin^2 \theta$$
+
+$$\csc^2 B = \frac{1}{1 - \cosh^2 b \sin^2 \theta}$$
+
+$$\cot^2 B = \frac{\cosh^2 b \sin^2 \theta}{1 - \cosh^2 b \sin^2 \theta}$$
+
+$$- D_{\theta} \log r = \frac{\cosh b \sin \theta}{\sqrt{1 - \cosh^2 b \sin^2 \theta}}$$
+
+$$D_{\cos \theta} \theta = \frac{1}{D_{\theta} \cos \theta} = \frac{1}{-\sin \theta}$$
+
+$$D_{\cos \theta} \log r = \frac{\cosh b}{\sqrt{1 - \cosh^2 b + \cosh^2 b \cos^2 \theta}}$$
+
+$$= \frac{1}{\sqrt{\frac{1 - \cosh^2 b}{\cosh^2 b} + \cos^2 \theta}}$$
+
+$$\frac{1}{\sqrt{a^2 + x^2}} = \frac{1}{a} \frac{1}{\sqrt{1 + \frac{x^2}{a^2}}}$$
+
+[del]$$\log r = \log [ - \frac{\tanh^2 b \cos \theta}{a} +$$[/del]
+
+$$\log r = \log [ - \frac{\cos \theta}{\tanh b} + \sqrt{-1 + \frac{\cos^2 \theta}{\tanh^2 b}} ] + C$$
+
+$$r = C [ - \frac{\cos \theta}{\tanh b} - \sqrt{-1 + \frac{\cos^2 \theta}{\tanh^2 b}} ]$$

@@ -1,0 +1,25 @@
+§ 4. The two real functions in the expression
+for [del]$G^{yi}$[/del] [ins]$G^{y i}$[/ins] are called the [u]cosine[/u] and [u]sine[/u] of $y$.
+That is
+$G^{y i} = \cos y + \sin y \cdot i$
+which is called DeMoivre's principle.
+$\cos y = \sum_{0}^{\infty} \frac{(-)^p y^{2p}}{(2p)!}$     $\sin y = \sum_{0}^{\infty} \frac{(-)^p y^{2p+1}}{(2p+1)!}$
+
+We have to study the properties of these functions.
+These properties spring from two that are fundamental.
+
+The first is that, as the series show,
+$\cos (-y) = \cos y$     $\sin (-y) = - \sin y$
+
+The second is the addition principle. That is
+$G^{(y_1 + y_2)i} = \cos (y_1 + y_2) + \sin (y_1 + y_2) \cdot i$
+$= G^{y_1 i} \cdot G^{y_2 i} = (\cos y_1 + \sin y_1 \cdot i) (\cos y_2 + \sin y_2 \cdot i)$
+$= \cos y_1 \cdot \cos y_2 - \sin y_1 \cdot \sin y_2$
+$+ (\sin y_1 \cdot \cos y_2 + \sin y_2 \cdot \cos y_1) \cdot i$
+
+That is
+$\cos (y_1 + y_2) = \cos y_1 \cdot \cos y_2 - \sin y_1 \cdot \sin y_2$
+$\sin (y_1 + y_2) = \sin y_1 \cdot \cos y_2 + \sin y_2 \cdot \cos y_1$
+
+If we put $y_2 = -y_1$, since $G^{0i} = 1$
+$1 = \cos y \cdot \cos (-y) - \sin y \cdot \sin (-y) = (\cos y)^2 + (\sin y)^2$

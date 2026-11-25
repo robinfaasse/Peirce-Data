@@ -1,0 +1,22 @@
+[pn]Logic
+III
+69[/pn]
+
+[pn](7)[/pn] [u]Antecedents may be transposed[/u]. That is, If [u]p~q ~ r[/u] is
+scriptible, so is [u]q ~ p ~ r[/u].
+
+[del]For if q is scriptible, then, by (65), q ~ p ~ r is, q ~ (p~r),[/del]
+[del]is scriptible. But if[/del] For if [u]p ~ q ~ r[/u] is scriptible, then, by
+(66), if [u]p[/u] is scriptible, [ins]so is[/ins] [del]q ~ r is scriptible;[/del] [ins][del]and[/del][/ins] and again by (66),
+if [u]q ~ r[/u] is scriptible [ins]then[/ins] if [u]q[/u] is scriptible so is [u]r[/u]. Therefore,
+if [u]p ~ q ~ r[/u] is scriptible, [ins]either[/ins] [del]p and q are both scriptible[/del] [ins]not,[/ins] or else
+[ins]that is, either p is [del]not[/del] scriptible, or [ins]not[/ins] [del]is not[/del] scriptible, or else [del]is[/del] scriptible...[/ins]
+[u]r[/u] is scriptible. Now if [u]r[/u] is scriptible, so by (64) is / [u]p ~ r[/u]; and
+if [u]p ~ r[/u] is scriptible, so, again by (64), is [u]q ~ p ~ r[/u]. So that,
+if [u]r[/u] is scriptible so is [u]q ~ p ~ r[/u]. If [u]q[/u] is not scriptible, then, by
+(65), [u]q ~ p ~ r[/u] is scriptible. If [u]p[/u] is not scriptible, then, by (65),
+[u]p ~ r[/u] is scriptible, when, by (64), [u]q ~ p ~ r[/u] is scriptible. Thus
+we have shown that if [u]p ~ q ~ r[/u] is scriptible either [u]q[/u] is not,
+or [u]p[/u] is not, or [u]r[/u] is, scriptible; and that in each of these cases
+[u]q ~ p ~ r[/u] is scriptible. Hence, if [u]p ~ q ~ r[/u] is scriptible, so is
+[u]q ~ p ~ r[/u]. Q.E.D.

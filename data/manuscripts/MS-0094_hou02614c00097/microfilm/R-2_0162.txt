@@ -1,0 +1,32 @@
+[pn]152[/pn]
+
+where $X_1$ is some number regarded as known which satisfies
+the quadratic equation
+$$x^2 + 2Bx + C = 0,$$
+so that
+$$X_1^2 + 2BX_1 + C = 0.$$
+
+[del]Subject[/del] Has this equation any other root? To answer
+that, subtract the last equation from the last but one;
+and we get
+$$x^2 - X_1^2 + 2B(x - X_1) = 0$$
+Now $x^2 - X_1^2$ is equal to $(x + X_1)(x - X_1)$. For perform
+this multiplication
+$$\begin{array}{r}
+x + X_1 \\
+\underline{x - X_1} \\
+x^2 + X_1 x \\
+\underline{\phantom{x^2} - X_1 x - X_1^2} \\
+x^2 \phantom{+ X_1 x} - X_1^2
+\end{array}$$
+
+We have then
+$$(x + X_1)(x - X_1) + 2B(x - X_1) = 0,$$
+or
+$$(x + X_1 + 2B)(x - X_1) = 0.$$
+Here is a product of two quantities equal to zero. Then
+one or other of the quantities is zero. That is, either
+$$x - X_1 = 0$$
+or
+$$x + X_1 + 2B = 0.$$
+We know that $x - X_1$ may be zero. That is that [del]$x$[/del] $x$ may

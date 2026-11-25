@@ -1,0 +1,55 @@
+A is a ray
+B is a ray
+C is a plane
+D is a plane
+E is a line
+
+A is a ray
+B is a ray
+C is a ray
+D is a ray
+
+D is a point
+D is in A
+D is in B
+D is in C
+
+E is in A
+E is in B
+E is in [del]point[/del] C
+E is [del]a[/del] [ins]in[/ins] D
+
+[fig]A is a plane
+B is a plane
+[del]C is a plane[/del]
+[del]D is a point[/del]
+[del]There is no line above with point[/del]
+D is a point
+D is in A
+D is in B
+D is in C
+E is a point[/fig]
+
+[fig]A is a ray
+B is a ray
+C is a ray
+D is a ray[/fig]
+
+[fig][ins]is a series[/ins]
+is limit of
+is a value
+[del]is a[/del]
+[del]is member of[/del]
+is a member of
+differs from [del]by[/del] is less than[/fig]
+
+[fig]is limit of
+is a series
+is a value
+[del]is a[/del]
+is member of
+differs from [del]by the difference[/del] [ins]is[/ins] less than[/fig]
+
+[del]P[/del]_a [del]P[/del]_b [del]P[/del]_c [del]$\Sigma$[/del]_d [del]$\Sigma$[/del]_e [del]$\Pi$[/del]_f [del]S[/del]_e [del]$\Sigma$[/del]_a [del]$\Sigma$[/del]_b [del]$\Sigma$[/del]_c
+[u][del]P[/del]_a [del]$\vee$[/del] [del]P[/del]_b [del]$\vee$[/del] [del]P[/del]_c [del]$\vee$[/del] [del]$\frac{1}{i}$[/del]([del]$\Sigma$[/del]_a [del]$\Sigma$[/del]_b [del]$\Sigma$[/del]_c [del]$\Sigma$[/del]_d[/u]
+[u][del]S[/del]_f [del]$\vee$[/del] [del]$\bar{\Sigma}$[/del]_a [del]$\vee$[/del] [del]$\bar{\Sigma}$[/del]_b [del]$\vee$[/del] [del]$\bar{\Sigma}$[/del]_c[/u]

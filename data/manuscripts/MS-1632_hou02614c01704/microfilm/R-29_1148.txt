@@ -1,0 +1,63 @@
+8. Given the base and vertical angle of a
+plane triangle, and either the radius of the
+inscribed circle, or the ratio of the two lines
+drawn from the extremities of the base to the
+centre of the inscribed circle, to
+construct the triangle.
+
+[fig]Triangle with inscribed circle center and lines to base[/fig]
+
+<u>First Solution</u>. When the radius of the
+inscribed circle is given $= r$, the vertical angle $= C$.
+and the base $= AB$. On $AB$, describe a segment $ADB$
+to contain an angle $= (180^{\circ} + C) = 90^{\circ} + C$. At the distance
+$PD = r$ draw $DD'$ parallel to $AB$. Join $AD$, $DB$. Make
+$BAC = 2 BAD$ and $ABC = 2 ABD$, $ABC$ is, then, the
+required triangle.
+
+For since $ADB = 90^{\circ} + C$. $DAB + DBA = 180^{\circ} - ADB = 90^{\circ} +$
+$ACB = 180^{\circ} - (CAB + ABC) = 180^{\circ} - (2 DAB + 2 DBA) = C$ as required.
+Moreover. Since $AD$ and $BD$ bisect the angles $CAB$ and $CBA$.
+$D$ must be the centre of the inscribed circle and $DP = r$ the
+radius as required.
+
+[fig]Triangle with inscribed circle center and lines to base[/fig]
+
+<u>Second Solution</u>. When the ratio of
+the two lines drawn from the centre
+of the inscribed circle to the
+extremities of the radius is
+given equal to that of the lines $p$ and $q$, the other denom-
+inations as before.
+
+In the indefinite line $GD$ set off $DP = p$. Draw $PE = q$
+and making the $APE = 90^{\circ} + C$. Draw $ACB = $ the Base.
+and $BD$ parallel to $PE$. make $BAC = 2 BAD$ and $ABC = 2 ABD$.
+
+It may be shown as before that $C$ is the required angle
+and $D$ the centre of the inscribed circle. It is evident
+also that $AD : DB = AP : PE = p : q$.
+
+9. Given two integral cubes to determine two
+other integral cubes having the same difference.
+
+Solution. Let the cube roots of cubes sought
+be.
+$ma + nb$
+$m'a + n'b$
+$m''a + n''b$
+$m'''a + n'''b$
+
+and let $m$ $m'$ $m''$ $m'''$ be such that
+$m^{3} - m'^{3} = m''^{3} - m'''^{3}$
+
+Let also $n'''$ be determined by the equation.
+$n''' = \frac{m'^{2}n' + m''^{2}n'' - m^{2}n}{[del]m'''^{2}[/del]}$
+
+It is first to be shown that this supposition is
+perfectly and general, and that such values can be
+given to the five indeterminates $a, b, n, n', n''$
+that the above cube roots may assume any values
+whatever as $p, p', p'', p'''$
+
+Indeed by making $n = \frac{p - ma}{b}$ the first becomes $p$

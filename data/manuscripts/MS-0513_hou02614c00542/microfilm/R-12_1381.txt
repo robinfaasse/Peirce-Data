@@ -1,0 +1,39 @@
+[pn]97[/pn]
+
+It will be observed that there is one of these propositions and only
+one in which the last quantifier of a character is $\Pi$. So that if we
+introduce $1$ and $T$ wherever possible in place of their definitions, no
+such case will occur. If we say that two characters which belong
+to precisely the same collection of subjects are identical, all the
+[ins]containing $\Sigma\Pi$[/ins]
+[del]propositions[/del] would become false if $\Sigma^2$ were substituted for $\Sigma$.
+
+Let us now look at the corresponding propositions for dyadic
+relatives.
+
+$\Sigma_\alpha \Pi_i \Pi_j \gamma_{\alpha i j}$     $\Sigma_\alpha \Pi_i \Pi_j \overline{\gamma}_{\alpha i j}$     $\Pi_\alpha \Sigma_\beta \overline{\gamma}_{\alpha i j} \cdot \overline{q}_{\beta i} \mathbin{\psi} \gamma_{\alpha i j} \cdot q_{\beta j}$
+
+$\Sigma_\alpha \Pi_i \Pi_j \gamma_{\alpha i i} \cdot (\overline{\gamma}_{\alpha i j} \mathbin{\psi} 1_{i j})$     $\Sigma_\alpha \Pi_i \Pi_j \overline{\gamma}_{\alpha i i} \cdot (\gamma_{\alpha i j} \mathbin{\psi} 1_{i j})$
+
+$\Pi_\alpha \Sigma_\beta \Pi_i \Pi_j (\gamma_{\alpha i j} \cdot \overline{\gamma}_{\beta i j} \mathbin{\psi} \overline{\gamma}_{\alpha i j} \cdot \gamma_{\beta i j})$
+
+$\Pi_\alpha \Pi_i \Pi_j \Sigma_\beta \Pi_3 \Pi_4 \overline{\gamma}_{\alpha 1 2} \cdot (\overline{\gamma}_{\alpha 3 4} \mathbin{\psi} \gamma_{\beta 3 4}) \gamma_{\beta 1 2} \cdot (1_{1 3} \cdot 1_{2 4} \mathbin{\psi} \overline{\gamma}_{\beta 3 4} \mathbin{\psi} \gamma_{\alpha 3 4})$
+$\mathbin{\psi} \gamma_{\alpha 1 2} \cdot (\overline{\gamma}_{\alpha 3 4} \mathbin{\psi} 1_{1 3} \cdot 1_{2 4} \mathbin{\psi} \gamma_{\beta 3 4}) \overline{\gamma}_{\beta 1 2} \cdot [\overline{\gamma}_{\beta 3 4} \mathbin{\psi} \gamma_{\alpha 3 4} \mathbin{\psi} (1_{1 3} \cdot 1_{2 4})]$
+
+$\Pi_\alpha \Pi_\beta \Sigma_\gamma \Pi_1 \Pi_2 (\overline{\gamma}_{\alpha 1 2} \mathbin{\psi} \overline{\gamma}_{\beta 1 2} \mathbin{\psi} \overline{\gamma}_{\gamma 1 2}) \cdot (\gamma_{\alpha 1 2} \cdot \overline{\gamma}_{\beta 1 2} \mathbin{\psi} \gamma_{\gamma 1 2})$
+
+$\Pi_\alpha \Sigma_\beta \Pi_1 \Pi_2 \gamma_{\alpha 1 2} \cdot \gamma_{\beta 2 1} \mathbin{\psi} \overline{\gamma}_{\alpha 1 2} \cdot \overline{\gamma}_{\beta 2 1}$
+
+$\Pi_\alpha \Pi_\beta \Sigma_\gamma \Pi_1 \Pi_2 \Pi_3 \Sigma_4 (\overline{\gamma}_{\alpha 1 2} \mathbin{\psi} \overline{\gamma}_{\beta 2 3} \mathbin{\psi} \gamma_{\gamma 1 3}) \cdot (\overline{\gamma}_{\gamma 1 3} \mathbin{\psi} \gamma_{\alpha 1 4} \cdot \gamma_{\beta 4 3})$
+
+The formulae for [del]dyadic[/del] triadic relatives embrace the following:
+
+[del]$\Sigma_\alpha \Pi_i \Pi_j \Pi_k \gamma$[/del]
+
+[del]$\Pi$[/del] $\gamma_{\alpha i j k} = \overline{\gamma}_{\beta i j} \cdot \gamma_{\gamma \beta k}$     $\gamma_{\alpha i j k} = \gamma_{\beta j k} = q_{\gamma k}$
+
+It follows from this that
+
+$\Pi_\alpha \Sigma_\beta \Pi_i \Pi_j \Pi_k \gamma_{\alpha i j k} \cdot \overline{\gamma}_{\beta j k i} \mathbin{\psi} \overline{\gamma}_{\alpha i j k} \cdot \gamma_{\beta j k i}$     $\Pi_\alpha \Sigma_\beta \Pi_i \Pi_j \Pi_k \gamma_{\alpha i j k} \cdot \overline{\gamma}_{\beta k j i} \mathbin{\psi} \overline{\gamma}_{\alpha i j k} \cdot \gamma_{\beta k j i}$
+
+$\Sigma_\alpha \Pi_i \Pi_j \Pi_k \gamma_{\alpha i j k}$     $\Sigma_\alpha \Pi_i \Pi_j \Pi_k \overline{\gamma}_{\alpha i j k}$ etc.

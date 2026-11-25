@@ -1,0 +1,25 @@
+[pn]615[/pn]
+
+Now the way I should solve the problem is this:
+
+[fig]Circle with points A, B, and Γ[/fig] Let $AB\Gamma$ be the epicycle $AB\Gamma$ the places of the moon according to the tabular anomaly. We have to find the point where $AB$ subtends $3^{\circ} 24'$ and $B\Gamma$ subtends $-37'$
+
+[del]$AB$[/del] [ins]$\frac{1}{2} AB$[/ins] $\frac{AB}{2 \sin 3^{\circ} 24'} = \text{dis.}$
+
+Draw a line from B to the centre $Q$ of the epicycle
+Take $QB$ as zero of direction Direction of $QA$ is
+$58^{\circ} 35'$ Direction of $Q\Gamma$ is $150^{\circ} 26'$
+Direction of $AB$ is $90 + \frac{1}{2}(58^{\circ} 35') = \begin{array}{r} 26\ 47\frac{1}{2} \\ \underline{116\ 47\frac{1}{2}} \end{array}$ [ins]330[/ins]
+" " $B\Gamma$ $165^{\circ} 13'$
+Perpendicular to $AB$ $206^{\circ} 47\frac{1}{2}'$
+" " $B\Gamma$ $255\ 13$
+
+We draw two circles through $AB$ and earth
+[fig]Circle intersecting a triangle[/fig] $B\Gamma$ and earth
+
+[fig]Triangle with angle 3° 24'[/fig] Direction from B to centre of $1^{\text{st}}$ circle $\begin{array}{r} 206\ 47\frac{1}{2} \\ \underline{\phantom{00}3\ 24\phantom{\frac{1}{2}}} \\ 210^{\circ} 11\frac{1}{2}' \end{array}$
+" B to centre of $2^{\text{nd}}$ circle $\begin{array}{r} 255\ 13 \\ \underline{\phantom{000}37} \\ 255\ 50 \end{array}$
+
+Radius first circle $\frac{\sin 83^{\circ} 35'}{\sin 3^{\circ} 24'} = \begin{array}{r} 9.90565 \\ \underline{8.77310} \\ 1.13255 \end{array}$ 13.569
+
+Radius second circle $\frac{\sin 150^{\circ} 26'}{\sin 37'} = \begin{array}{r} 9.69323 \\ \underline{8.03192} \\ 1.66131 \end{array}$ 45.847

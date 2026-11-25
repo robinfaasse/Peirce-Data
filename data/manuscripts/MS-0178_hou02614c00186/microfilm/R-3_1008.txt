@@ -1,0 +1,61 @@
+Since the breaks are ascending at 8 is at the
+head of the next column we count by 9's
+except at the breaks, thus
+87183
+74366
+61549
+48732
+35915
+23098
+10281
+97464
+84647
+71830
+
+The tenth figure is the same as that at the head
+of the last column as it should be.
+
+Since the numbers generally diminish
+[del]and 0 is virtually at the head[/del] we insert
+ascending breaks of which there should
+be 9-8=1
+87183
+74366
+61549
+48732
+35915
+23098
+10281
+97464
+84647
+71830
+
+Since the break is ascending and 0 is virtually
+at the head of the column we count from
+it by ones except at the break
+87183
+174366
+261549
+348732
+435915
+523098
+600281
+697464
+784647
+871830
+
+The tenth figure is the same as that at the
+head of the last column.
+
+We have now formed the multiples and we
+proceed to number them
+87183 1
+174366 2
+261549 3
+348732 4
+435915 5
+523098 6
+610281 7
+697464 8
+784647 9
+871830

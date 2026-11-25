@@ -1,0 +1,30 @@
+[pn]On Multitude[/pn] [pn]22[/pn]
+
+[u]Art. 7[/u]. I now return to the proper subject of this paper. There are
+three axioms relating to collections.
+
+The first axiom relates to a single collection. It is as follows:
+
+[u]Axiom 1[/u]. Every possible object belongs to a collection from which all
+other objects are excluded.
+
+If we write [math]q_{\alpha b}[/math] to mean "[math]b[/math] is a unit of the collection [math]\alpha[/math]," then this axiom
+is expressed in the general algebra as follows:
+(42) [math]\Pi_x \Sigma_{\alpha} \Pi_y \ q_{\alpha x} \cdot (1_{xy} \dagger \bar{q}_{\alpha y})[/math],
+and in the dyadic algebra as follows:
+(42') [del][math]\breve{q} \bar{\breve{q}} (\bar{q} \bar{\breve{q}}) \dagger[/math][/del] [math]1 \prec \breve{q} (\bar{q} \dagger 1)[/math].
+
+The second axiom relates to a pairing of collections, and is substantially
+that every collection has its complementary collection so related to it that
+every possible object is included in one of this pair of collections and is
+excluded from the other. But it is desirable to modify this expression of
+this; because there is a logical inelegancy in [del]in[/del] implicitly asserting the same
+thing in two different axioms. Now there [ins]are[/ins] propositions deducible from the
+first [del]axiom[/del] which are also deducible from the second, as it has just been
+stated. Such, for example is the proposition that everything belongs to
+a collection. This evidently follows from (42); for by simply dropping the
+second factor of the Boolean, — a proceeding justified by (7), — and then drop-
+ping from the Peirceian the quantifier of [math]y[/math], which no longer appears in the
+Boolean, we have at once
+(43) [math]\Pi_x \Sigma_{\alpha} \ q_{\alpha x}[/math].
+It also follows from (42'). For [ins]or[/ins] relatively multiplying antecedent and con-

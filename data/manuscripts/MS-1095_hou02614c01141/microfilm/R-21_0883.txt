@@ -1,0 +1,23 @@
+Then
+$$\delta\theta = -\frac{\omega}{1-\omega}\sin\theta = -\omega\theta_0$$
+
+[del]$$\delta\theta = -\omega\sin\theta = -\frac{\omega}{1-\omega}\theta_0$$[/del]
+
+Substituting this in $V$ and neglecting the square of $\theta$ compared with unity, we have
+
+$$V = \frac{1}{2}gm_0h_0\theta_0^2 + \frac{1}{2}gm_0r\theta_0^2 + \frac{1}{2}gmh\theta_0^2 - gmh\theta_0^2 [del]\delta\theta[/del] \omega$$
+
+To find the Kinetic energy, we have first to find [del]$\delta r$ or the[/del] $r+\delta r$ or the distance of the joint from the centre of rotation of the lower piece. This is given by the equation
+$$(r+\delta r)(\theta_0+\delta\theta) = r\theta_0$$
+or
+$$\delta r.\theta_0 + r.\delta\theta = 0$$
+or
+$$\delta r = -r\frac{\delta\theta}{\theta_0} = +r\omega.$$
+
+[del]Then[/del] [ins]Thus[/ins] the Kinetic [del]engergy[/del] energy is
+
+$$T = \frac{1}{2}m_0(h_0^2+\gamma_0^2)(D_t\theta_0)^2 + \frac{1}{2}m\left\{(r+r\omega+h)^2+\gamma^2\right\}(D_t\theta)^2$$
+$$= \frac{1}{2}m_0(h_0^2+\gamma_0^2)(D_t\theta_0)^2 + [del]\frac{1}{2}m\left\{(r+h)^2+2r(r+h)\omega+\gamma^2\right\}[/del]$$
+$$+ \frac{1}{2}m\left\{(r+h)^2+2r(r+h)\omega+\gamma^2\right\}(1-2\omega)(D_t\theta_0)^2$$
+$$= \frac{1}{2}m_0(h_0^2+\gamma_0^2)(D_t\theta_0)^2$$
+$$+ \frac{1}{2}m\left\{(r+h)^2+\gamma^2-2h(r+h)\omega\right\}(D_t\theta_0)^2$$

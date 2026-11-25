@@ -1,0 +1,25 @@
+[del]a₁x + b₁y + n₁ = 0[/del]
+a₂x + b₂y + n₂ = 0
+a₃x + b₃y + n₃ = 0
+
+[del]a₁b₂n₃ - a₁n₂b₃[/del]
+a₁b₂n₃ - a₁n₂b₃ + n₁a₂b₃ - b₁a₂n₃ + b₁n₂a₃ - n₁b₂a₃ = 0
+
+Put a₃ = 1 b₃ = 0 n₃ = -x
+
+-a₁b₂x + b₁a₂x + b₁n₂ - n₁b₂ = 0
+x = [u]b₁n₂ - n₁b₂[/u] / [u]a₁b₂ - b₁a₂[/u] = [u]n₂/b₂ - n₁/b₁[/u] / [u]a₁/b₁ - a₂/b₂[/u]
+
+Put a₃ = 0 b₃ = -1 n₃ = y
+
+a₁b₂y + a₁n₂ - n₁a₂ - b₁a₂y = 0
+[del]y =[/del]
+y = [u]n₁a₂ - a₁n₂[/u] / [u]a₁b₂ - b₁a₂[/u] = [u]n₁/a₁ - n₂/a₂[/u] / [u]b₂/a₂ - b₁/a₁[/u]
+
+Proof
+a₁x = a₁ [u]n₂/b₂ - n₁/b₁[/u] / [u]a₁/b₁ - a₂/b₂[/u]
+b₁y = b₁ [u]n₁/a₁ - n₂/a₂[/u] / [u]b₂/a₂ - b₁/a₁[/u]
+
+a₁x + b₁y = a₁b₁b₂ [u]n₂/b₂ - n₁/b₁[/u] / [u]a₁b₂ - a₂b₁[/u] + a₁a₂b₁ [u]n₁/a₁ - n₂/a₂[/u] / [u]a₁b₂ - b₁a₂[/u]
+= [del]a₁b₁n₂[/del] - a₁b₂n₁ + a₂b₁n₁ - [del]a₁b₁n₂[/del] / [u]a₁b₂ - a₂b₁[/u]
+= -n₁

@@ -1,0 +1,10 @@
+[pn]203[/pn]
+
+[u]Art. 80[/u]. [u]Scholium[/u] 33. Our desire is, to carry the scholar no further into algebra than is strictly necessary. Consequently, many topics are omitted which might easily have been included. We shall now proceed to show one way for finding the numerical values of the roots of algebraic equations. We choose [del]to[/del] a method which is as general as any except the double rule of false, which the scholar is supposed to know already, and which is the most convenient method on the whole for quadratic equations. Nor is it a [del]very[/del] bad method in other cases.
+
+[u]Problem 8[/u]. To find [del]that root of smallest[/del] [ins]with the unknown[/ins] an equation [del]whose modulus is the smallest[/del].
+
+[u]Solution[/u]. Put the equation into a form in which there is on one side [ins]and on the other[/ins] a polynomial every term of which involves the unknown, and let these terms be arranged in the order of their degrees. In any of the successive degrees from the highest down to the first are wanting supply these by writing them in with zero coefficients. Let N be the degree of the equation. Take any N numbers at pleasure which call [u]u[/u]₁, [u]u[/u]₂, [u]u[/u]₃, . . . [u]u[/u]_N. Now form u_N+₁ by this rule: If the equation is
+A_n x^n + A_n-₁ x^n-¹ + A_n-₂ x^n-² + . . . = 1
+then
+A_n [u]u[/u]₁ + A_n-₁ [u]u[/u]₂ + A_n-₂ [u]u[/u]₃ + etc = [u]u[/u]_n+₁.

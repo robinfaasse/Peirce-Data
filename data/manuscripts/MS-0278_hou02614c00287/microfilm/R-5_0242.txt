@@ -1,0 +1,48 @@
+[u]$(A+B)^{2} + (A-B)^{2}$[/u]
+$= 2A^{2} + 2B^{2}$
+
+$\cos 2a = \underline{\cos^{2}a - 1}$
+$= 1 - 2\sin^{2}a$
+$\sin^{2}a = \frac{1}{2}(1 - \cos 2a)$
+
+$\frac{1}{4}(1 - \mu\pi - \sin m \sin p)^{2} \frac{1}{4}(1 - \mu\sigma + \sin m \sin s)^{2}$
+$+ \frac{1}{4}(1 - \mu\pi + \sin m \sin p)^{2} \frac{1}{4}(1 - \mu\sigma - \sin m \sin s)^{2}$
+$= \frac{1}{16} \left[ (1-\mu\pi)(1-\mu\sigma) + (1-\mu\pi)\sin m \sin s [del]\underline{-(1-\mu\sigma)\sin m \sin p - \sin^{2}m\sin p\sin s}[/del] \right]^{2}$
+$+ \frac{1}{16} \left[ (1-\mu\pi)(1-\mu\sigma) - (1-\mu\pi)\sin m \sin s + (1-\mu\sigma)\sin m \sin p [del]\underline{-\sin^{2}m\sin p\sin s}[/del] \right]^{2}$
+$= \frac{1}{8} \left[ (1-\mu\pi)(1-\mu\sigma) - \sin p \sin s + \mu^{2}\sin p \sin s \right]^{2}$
+$+ \frac{1}{8} \left[ (1-\mu\pi)\sin s - (1-\mu\sigma)\sin p \right]^{2} (1-\mu^{2})$
+$= \frac{1}{8} [ (1-\mu\pi)^{2}(1-\mu\sigma)^{2} + (1-\mu\pi)^{2}(1-\sigma^{2}) + \mu^{4}(1-\pi^{2})(1-\sigma^{2}) - 2\mu^{2}(1-\pi^{2})(1-\sigma^{2})$
+$- 2(1-\mu\pi)(1-\mu\sigma)(1-\mu^{2})\sin p \sin s$
+$+ (1-\mu\pi)^{2} [del]\underline{-(1-\mu\pi)^{2}\sigma^{2}}[/del] + (1-\mu\sigma)^{2} [del]\underline{-(1-\mu\sigma)^{2}\pi^{2}}[/del] (1-\mu^{2})$
+$- 2(1-\mu\pi)(1-\mu\sigma)(1-\mu^{2})\sin s \sin p$ $]$
+
+$\frac{1}{2}(1-\cos q) - \frac{1}{2}(1-\cos m+p$
+$\frac{1}{2}\cos(m+p) - \frac{1}{2}\cos q$
+$\frac{1}{2}\cos(m-p) - \frac{1}{2}\cos q$
+$\frac{1}{2}(\cos m \cos p - \sin m \sin p - \cos q)$
+$\times \frac{1}{2}(\cos m \cos p + \sin m \sin p - \cos q)$
+$= \frac{1}{4}(\cos^{2}m \cos^{2}p - \sin^{2}m \sin^{2}p - 2\cos m \cos p \cos q + \cos^{2}q)$
+$= \frac{1}{4}(\cos - 1 + \cos^{2}m + \cos^{2}p + \cos^{2}q - 2\cos m \cos p \cos q)$
+$= \frac{1}{4}( -1 + \cos^{2}m + \cos^{2}r + \cos^{2}s - 2\cos m \cos r \cos s)$
+$= \frac{1}{16} ( 1 - 2\cos^{2}m - \cos^{2}p - \cos^{2}q - \cos^{2}r - \cos^{2}s + 2\cos m \cos p \cos q$
+$+ 2\cos m \cos r \cos s$
+$+ \cos^{4}m + \cos^{2}m \cos^{2}p + \cos^{2}m \cos^{2}q$
+$+ \cos^{2}m \cos^{2}r + \cos^{2}m \cos^{2}s - 2\cos^{3}m \cos p \cos q$
+$- 2\cos^{3}m \cos r \cos s$
+$+ \cos^{2}p \cos^{2}r + \cos^{2}p \cos^{2}s + \cos^{2}q \cos^{2}r + \cos^{2}q \cos^{2}s$
+$- 2\cos m \cos p \cos q \cos^{2}r$
+$- 2\cos m \cos p \cos q \cos^{2}s$
+$- 2\cos m \cos r \cos s \cos^{2}p$
+$- 2\cos m \cos r \cos s \cos^{2}q + 4\cos^{2}m \cos p \cos q \cos r \cos s$
+$- 2\cos p \cos q \cos r \cos s$
+$- 2\cos m \cos r \cos s \cos^{2}p$
+
+$[m-p]^{2}[s+m]^{2} = \frac{1}{4}[1-\cos(m-p)][1-\cos(m+s)]$
+$[m+p]^{2}[s-m]^{2} = \frac{1}{4}[1-\cos(m+p)][1-\cos(m-s)]$
+$[m-p]^{2}[s+m]^{2} + [m+p]^{2}[s-m]^{2} = \frac{1}{4}(1-\mu\pi - \sin m \sin p)(1-\mu\sigma + \sin m \sin s)$
+$+ \frac{1}{4}(1-\mu\pi + \sin m \sin p)(1-\mu\sigma - \sin m \sin s)$
+$= \frac{1}{2}(1-\mu\pi)(1-\mu\sigma) - \frac{1}{2}(1-\mu^{2})\sin p \sin s$
+
+$\frac{1}{4}(\mu\pi - Q - \sin m \sin p)(\mu\pi - Q + \sin m \sin p)$
+$= \frac{1}{4} \left[ \mu^{2}\pi^{2} - 2\mu\pi Q + Q^{2} - (1-\mu^{2})(1-\pi^{2}) \right]$
+$= \frac{1}{4} \left( -1 + \mu^{2} + \pi^{2} + Q^{2} - 2\mu\pi Q \right)$

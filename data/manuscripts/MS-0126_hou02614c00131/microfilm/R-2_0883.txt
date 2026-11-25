@@ -1,0 +1,33 @@
+Given 4 endless straight lines (no two
+in one plane) how many endless straight
+lines can cut, each, all four?
+
+The phrase "endless straight line" being
+somewhat unwieldy, let us replace it by one
+word having no more letters than that
+phrase has of words, — say "ray".
+
+Let us also use A, B, C, etc as designations of
+points; a, b, c, etc for rays; [del]α[/del] [ins]α[/ins], β, γ, etc for
+planes. We will put [del]designations[/del]
+of points in square brackets; as [A]
+of rays in parentheses; as (a)
+of planes between braces; as {α}.
+(AB) will be the ray through [A] and [B]
+{ABC} will be the plane through [A], [B], and [C].
+{aB} will be the plane through [B] containing the whole
+ray (a)
+[aβ] will be the point where the ray (a) cuts the plane {β}.
+(αβ) will be the ray common to the two planes {α} and {β}
+etc. etc. etc.
+
+Let us [del]designate[/del] [ins]designate[/ins] the four given rays as (a), (b), (c), (d).
+On the ray (b) take any point [B] you please. Then
+there will be a plane {aB} containing [B] and the
+whole of (a).
+
+Principle No 1. Given any point and any ray, there
+is a plane that contains them both.
+
+Imagine a stiff sheet, which we will call A to occupy
+that plane {aB} and to turn round (a) as an axis. At

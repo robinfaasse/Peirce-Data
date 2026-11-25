@@ -1,0 +1,33 @@
+[u]Gibbs's Papers. II p. 30[/u]
+
+§471 To find the signification of $d\rho/ds$
+For since a const. added to $\rho$ can make
+no difference, assume $\rho_0 = 0$
+and since the axes maybe turned any
+way assume $d\rho = dx \cdot i$ Then $dx = ds$;
+and $d\rho/ds = i$, i.e. means what Gibbs
+says.
+
+Next, what does $d^2\rho/ds^2$ mean?
+Add such a constant vector to $\rho$ [del]that[/del] [ins]so[/ins] [del]it[/del]
+[del]turn the axes so[/del] that the fixed origin is the
+centre of curvature, the radius of curvature
+being $r$ and turn the axes so that $\rho_0 = r i$
+and $d\rho/ds = j$. Then if $\theta$ be such an
+infinitesimal angle that $ds = r \theta$ we shall
+have
+$\rho_{-1} = r \cos \theta\ i - r \sin \theta\ j$
+$\rho_0 = r \ \ \ \ \ \ \ \ \ i$
+$\rho_{+1} = r \cos \theta\ i + r \sin \theta\ j$
+
+[del]If[/del]
+$d^2\rho = 2r(\cos \theta - 1)i = -r \theta^2 i = -ds^2/r\ i$.
+$d^2\rho/ds^2 = -\frac{1}{r} i$ as Gibbs says.
+
+Next, What does $\frac{d\rho}{ds} \times \frac{d^2\rho}{ds^2}$ mean?
+Under the last arrangement of axes
+$\frac{d\rho}{ds} = i$  $\frac{d^2\rho}{ds^2} = -\frac{1}{r} i$  $\frac{d\rho}{ds} \times \frac{d^2\rho}{ds^2} = \frac{1}{r} k$
+as Gibbs says.
+
+[del]over[/del]
+[u]over[/u]

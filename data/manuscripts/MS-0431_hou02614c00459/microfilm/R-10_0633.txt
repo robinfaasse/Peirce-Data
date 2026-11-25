@@ -1,0 +1,23 @@
+[pn]Logic
+III
+75[/pn]
+
+In order to [del]compare[/del] [ins]compare[/ins] $v \bigcirc (v \bigcirc f)$ and $(v \bigcirc v) \bigcirc f = v \bigcirc f$,
+we remark that either $v \bigcirc f = v$ or $v \bigcirc f = f$. In the former case,
+$v \bigcirc (v \bigcirc f) = v \bigcirc v = v$ and $(v \bigcirc v) \bigcirc f = v \bigcirc f = v$.
+In the latter case
+$v \bigcirc (v \bigcirc f) = v \bigcirc f = f$ and $(v \bigcirc v) \bigcirc f = v \bigcirc f = f$.
+Obviously also $f \bigcirc (f \bigcirc v) = (f \bigcirc f) \bigcirc v$; $f \bigcirc (f \bigcirc v) = (f \bigcirc f) \bigcirc v$
+[del]and $v \bigcirc (f \bigcirc f) = (v \bigcirc f) \bigcirc f$.[/del]
+If $v \bigcirc f = f \bigcirc v = v$, then
+$v \bigcirc (f \bigcirc v) = v \bigcirc v$, [del]and[/del] $(v \bigcirc f) \bigcirc v = v \bigcirc v$.
+If $v \bigcirc f = v$, $f \bigcirc v = f$, then
+$v \bigcirc (f \bigcirc v) = v \bigcirc f = v$, $(v \bigcirc f) \bigcirc v = v \bigcirc v = v$.
+If $v \bigcirc f = f$, $f \bigcirc v = v$, then
+$v \bigcirc (f \bigcirc v) = v \bigcirc v = v$, $(v \bigcirc f) \bigcirc v = f \bigcirc v = v$.
+If $v \bigcirc f = f \bigcirc v = f$, then
+$v \bigcirc (f \bigcirc v) = v \bigcirc f = f$, $(v \bigcirc f) \bigcirc v = f \bigcirc v = f$.
+Hence in any case, $v \bigcirc (f \bigcirc v) = (v \bigcirc f) \bigcirc v$; and by parity of reasons,
+[del]$f \bigcirc (v \bigcirc f) = (f \bigcirc v) \bigcirc f$ and $v \bigcirc (f \bigcirc f) = (v \bigcirc f) \bigcirc f$.[/del]
+$f \bigcirc (v \bigcirc f) = (f \bigcirc v) \bigcirc f$ has in any cases if $v \bigcirc v = v$ and
+$f \bigcirc f = f$, the sign is associative. I will now show that even if $v \bigcirc v = $

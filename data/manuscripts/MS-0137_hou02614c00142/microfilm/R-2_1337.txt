@@ -1,0 +1,34 @@
+[marginalia]
+Topics
+29
+[/marginalia]
+
+that the census-number of a place however it be
+regarded. We must not, however, assume that this principle is correct
+until we are sure that it will not lead to contradictions. All that the
+census-theorem insists upon is that regarding a place as cut into
+pieces does not alter the census-member provided we take into
+account the necessary [del]dup[/del] duplication of the boundary.
+
+The census-number of a simple [del]road[/del] terminated line is
+$CX_{q} + 2CX_{p-1,q}$, or the sum of the census numbers of the chord [del]y[/del] [ins]and[/ins]
+of the line and of the two extremities. But a [del]condo[/del] terminated line which
+is cut at [del]a po[/del] an ordinary point, thus transforming that point into two,
+becomes two such lines. That is
+$$CX_{q} + 2CX_{p-1,q} + CX_{p,q} = 2CX_{q} + 4CX_{p-1,q}$$
+[del]$$CX_{q} = 2CX_{p-1,q}$$[/del]
+or
+$$CX_{q} = CX_{p,q} - 2CX_{p-1,q}.$$
+
+[marginalia]
+To the printer,
+i.e. letters in
+algebraic expres-
+sions are to be
+in italics unless
+otherwise marked.
+[/marginalia]
+
+But a simple oval line cut [del]contains[/del] [ins]at one point[/ins] becomes a single terminated
+line. [del]That is, we have the equation[/del] [ins]equating the census of the place considered as a whole and as cut,[/ins]
+$$CX_{q} + CK_{q} + CX_{p,q} = CX_{q} + 2CX_{p-1,q}$$

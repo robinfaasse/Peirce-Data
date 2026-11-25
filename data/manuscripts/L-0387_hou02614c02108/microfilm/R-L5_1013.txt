@@ -1,0 +1,22 @@
+of the complexity of these formulae
+that I determine [del]not[/del] to return to the
+other system, which writes
+
+$\alpha \neq 0 \quad \Pi_j a_{ij}$
+and $(\alpha \neq c) c \neq 0 \quad \Pi_k \Sigma_j \Pi_j (a_{ij} + \bar{c}_{kj}) c_{kl}$
+
+Since everything is $c$ by something $\Pi_g \Sigma_h c_{hg}$
+Since nothing is $c$ of everything $\Pi_h \Sigma_q \bar{c}_{hq}$
+
+The first and last but one give
+$\Pi_g \Sigma_h \Pi_j a_{ij} c_{hg}$
+or changing the lettering
+$\Pi_p \Sigma_k \Pi_j a_{ij} c_{kf}$
+
+The third and fourth give
+$\Pi_g \Sigma_h \Pi_p \Sigma_q \bar{c}_{pq} c_{hg}$
+or, identifying $p$ with $h$,
+$\Pi_g \Sigma_h \Sigma_q \bar{c}_{hq} c_{hg}$
+
+This, with the last but two, gives
+$\Pi_g \Sigma_h \Sigma_q \Sigma_k \Pi_j a_{ij} c_{kl} + \bar{c}_{hq} c_{hg}$

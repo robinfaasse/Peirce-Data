@@ -1,0 +1,15 @@
+[fig]diagram[/fig]
+A | B
+AC | BC
+[u][fig]diagram[/fig][/u]
+[fig]circle around A[/fig]A | B
+[fig]circle around A[/fig]AC | BC
+[u][fig]diagram[/fig][/u]
+   A | B
+[fig]circle around A[/fig]AC | [fig]circle around B[/fig]BC
+[u][fig]diagram[/fig][/u]
+   A
+[u][fig]diagram[/fig][/u]
+   B
+[u][fig]diagram[/fig][/u]
+   AB

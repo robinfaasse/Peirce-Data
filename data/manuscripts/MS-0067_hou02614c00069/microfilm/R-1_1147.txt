@@ -1,0 +1,24 @@
+[pn]C[/pn]
+
+[u]Case I. Contains synthemes[/u] [u]AB.CD[/u]
+" 2 " " [u]AB.CE[/u]
+" 3 " " [u]AB.CF[/u]
+" 4 " " [u]AB.CG[/u]
+[del]" 5 " "[/del] [u]AB.CH[/u]
+
+[u]Case II. Contains[/u] [u]AB.CD.EF.GH[/u]
+12 " " [u]EG.FH[/u]
+13 " " [u]EH.FG[/u]
+
+[u]Case III Contains[/u] [u]AB.CD.EF.GH[/u]
+[u]AC.BD[/u]
+112 [u]AC.BE[/u]
+113 [u]AC.BF[/u]
+114 [u]AC.BG[/u]
+115 [u]AC.BH[/u]
+
+1111 [u]AB.CD.EF.GH[/u]
+[u]AC.BD.EG.FH[/u]
+
+1112 [u]AB.CD.EF.GH[/u]
+[u]AC.BD.EH.FG[/u]

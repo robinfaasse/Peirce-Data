@@ -1,0 +1,30 @@
+QE [pn]4[/pn]
+
+If [del]the[/del] [ins]absolute[/ins] value B [u]>[/u] A + C
+
+[del]$(A+C+B)(A+C-B)$ is negative, and the roots are necessarily real.[/del]
+$(A+C+B)(A+C-B)$ is [ins]zero or[/ins] negative, and the roots are necessarily real.
+
+If A = C, the roots are real, equal, or imaginary according as B [del]is[/del] [del]greater[/del] the absolute value of B is greater than, equal to, or less than $2A = 2C$.
+
+When $\frac{4AC}{B^2} < 1$ in absolute value [ins]which always happens when the roots are real & [unclear]diff[/unclear][/ins], the quantity $\sqrt{1 - \frac{4AC}{B^2}}$ can be calculated by the following formula obtained by means of the differential calculus:
+
+$\sqrt{1 - \frac{4AC}{B^2}} = 1 - (2\frac{AC}{B^2} + 2\frac{(AC)^2}{B^4} + 4\frac{(AC)^3}{B^6} + 10\frac{(AC)^4}{B^8} + 28\frac{(AC)^5}{B^{10}}$
+$+ [del]84[/del] [ins]42[/ins]\frac{(AC)^6}{B^{12}} + 132\frac{(AC)^7}{B^{14}} + 429\frac{(AC)^8}{B^{16}} + 1430\frac{(AC)^{[del]9[/del] [ins]9[/ins]}}{B^{18}} + 4862\frac{(AC)^{10}}{B^{20}} + \text{etc})$
+
+Thus if $\frac{AC}{B^2} = \frac{1}{10}$ $\sqrt{1 - \frac{4AC}{B^2}} = \sqrt{[del]\frac{6}{10}[/del]} = 1 - .2$
+$- .02$
+$- .004$
+$- .0010$
+$- .00028$
+$- .0000[del]84[/del] [ins]42[/ins]$
+$- .0000132$
+$- .00000429$
+$- .000001430$
+$- .0000004862$
+$= 1 - .22581$
+$= .77419$
+
+For most purposes $3 - 2\frac{1}{1 - \frac{AC}{B^2}}$ is near enough to $\sqrt{1 - \frac{4AC}{B^2}}$
+
+Thus, in the above example it would give $3 - 2\frac{1}{.9} = \frac{7}{9} = .778$

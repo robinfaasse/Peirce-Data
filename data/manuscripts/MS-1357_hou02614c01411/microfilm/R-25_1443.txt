@@ -1,0 +1,13 @@
+[pn]29[/pn]
+
+<u>Live Loads</u>
+
++N is supported at unit distances. The equations are
+$$2(Q-N) M_{-P} + (P-N) M_{-N} = \frac{1}{4} W [(Q-P)^3 + (P-N)^3]$$
+$$(P-N) M_{-P} + 2(P-N+1) M_{-N} + M_{-N+1} = \frac{1}{4} W [(P-N)^3 + 1]$$
+$2N-1$ equations [del]the[/del] of the following form where $n$ takes each
+value from $-N+1$ to $N-1$
+$$M_{n+1} + 4M_n + M_{n-1} = \frac{1}{2} W$$
+and finally
+$$(P-N) M_P + 2(P-N+1) M_N + M_{N-1} = \frac{1}{4} W [(P-N)^3 + 1]$$
+$$2(Q-N) M_P + (P-N) M_N = \frac{1}{4} W [(Q-P)^3 + (P-N)^3]$$

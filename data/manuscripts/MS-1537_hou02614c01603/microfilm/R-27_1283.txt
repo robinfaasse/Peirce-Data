@@ -1,0 +1,21 @@
+[u]In the Game of Go as You Please[/u]
+
+If a player had only one man, and
+$c =$ probability at any throw of an advance
+$b =$ " " " " " right about face
+Let $\Delta = c^2 - b^2$ $A = \sqrt{1 + b^4 + c^4 - 2b^2 - 2c^2 - 2b^2c^2}$
+Then, if the number of spokes to the wheel is
+$n$, the probability that the man will return
+to the [del]compents[/del] [ins]sector[/ins] from which he starts with
+face to [del]left[/del] right (that is, will [del]go[/del] [ins]go[/ins] round the wheel) is
+$$\frac{2A (1 - A^2 + \Delta^2 + 2\Delta)^{\frac{1}{2}n}}{(1 - \Delta + A)(1 + \Delta + A)^n - (1 - \Delta - A)(1 + \Delta - A)^n}$$
+
+The probability that he will return with face
+to left (that is, will either right about at once or retrace his
+steps) is
+$$(1 - A^2 + \Delta^2 - 2\Delta)^{\frac{1}{2}} \frac{(1 + \Delta + A)^n - (1 + \Delta - A)^n}{(1 - \Delta + A)(1 + \Delta + A)^n - (1 - \Delta - A)(1 + \Delta - A)^n} .$$
+
+These do not sum up to unity because $b+c < 1$.
+If $b+c = 1$, $A = 0$, $\Delta = 2c - 1$. In this case, the pro-
+babilities reduce to
+$$\frac{1}{1 + n \frac{1-\Delta}{1+\Delta}} \qquad \frac{1}{1 + \frac{1}{n} \frac{1+\Delta}{1-\Delta}} .$$

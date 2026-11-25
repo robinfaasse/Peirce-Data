@@ -1,0 +1,15 @@
+distribution formulae,
+$$x(y+z) = xy + xz,$$
+$$x+yz = (x+y)(x+z).$$
+The general formulae are
+$$Fx = x F1 + \bar{x} F0$$
+$$Fx = (x + F0)(\bar{x} + F1).$$
+[del]Particular[/del] [ins]Special[/ins] formulae, constantly in use, are
+[del]$$x+y \prec$$[/del]
+[marginalia]tr.[/marginalia] $\begin{pmatrix} (a+x)(b+y) \prec a+b+xy \\ a+b = a + \bar{a}b \\ (a+b)c \prec a+bc. \end{pmatrix}$
+
+There is, besides, a sort of development of the Quantifier, consisting in substituting two indices where one had been used, according to the formulae
+$$\Pi_i x_i y_i = \Pi_i x_i . \Pi_j y_j = \Pi_i \Pi_j x_i y_j$$
+$$\Sigma_i (x_i + y_i) = \Sigma_i \Sigma_j (x_i + y_j)$$
+$$\Sigma_i l_{ii} \prec \Sigma_i \Sigma_j l_{ij}$$
+$$\Pi_i l_{ii} \prec \Pi_i \Sigma_i l_{ij}.$$

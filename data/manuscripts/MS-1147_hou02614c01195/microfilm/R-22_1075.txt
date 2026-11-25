@@ -1,0 +1,27 @@
+[marginalia]
+Symbolical
+Logic
+13
+[/marginalia]
+
+[marginalia]
+by Rule IV (amended)
+[/marginalia]
+
+if we have written [del][A(B)]C[/del] [ins][A(B)]C[/ins], we can write [A(BC)]C; and
+if we have written [del][A(BA)][/del] [ins][A(AC)][/ins], we can write [del][AC][/del] [ins][AC]C[/ins] we
+can write (A)C. We can now exhibit the modus ponens
+and modus tollens. Given the premises: "If A is ever true,
+B is sometimes true" and "A is sometimes true", we write
+[A(B)]A. Then as has just been seen, Rules [del]II[/del] [ins]I[/ins] and IV [ins](amended)[/ins], we
+have [(B)]A; and by Rule III, BA, and by Rule I, B,
+or B is sometimes true. In [del]precisely[/del] [ins]a slightly simpler[/ins] the same way [(AB)](B)
+gives [A](B) and [A]. [del]A fifth rule is that anything of the form [A(A)][/del]
+[marginalia]
+new foundation
+[/marginalia]
+It is now time to make an addition to the notation. AB
+expresses that A is sometimes true and B is sometimes true.
+We must have some way of expressing that sometimes A and B
+are true at once. This we may do by connecting them by a
+heavy line [ins]of any shape[/ins]: [fig]A connected to B by a line with a C above it[/fig] A-B or [fig]A connected to B by a curved line with a C above it[/fig].

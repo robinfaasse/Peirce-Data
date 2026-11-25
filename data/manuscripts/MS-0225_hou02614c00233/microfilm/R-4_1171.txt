@@ -1,0 +1,29 @@
+[u]Oblique Plane Triangles[/u]
+
+Given the angles and a side
+
+[u]\(1^{\text{st}}\) Method[/u] \(\log b = \log a + \log \sin B - \log \sin A\)
+
+[u]\(2^{\text{nd}}\) Method[/u] \(b = \frac{1}{2}(b+c) + \frac{1}{2}(b-c)\)
+\(\log (b+c) = \log a + \log \cos \frac{1}{2}(B-C) - \log \cos \frac{1}{2}(B+C)\)
+\(\log (b-c) = \log a + \log \sin \frac{1}{2}(B-C) - \log \sin \frac{1}{2}(B+C)\)
+
+[u]\(3^{\text{d}}\) Method[/u] \(\log (a-b) = \log 2a + \log \sin \frac{1}{2}(A+B) + \log \sin \frac{1}{2}(A-B) - \sin A\)
+
+
+\(1^{\text{st}}\) Method Prob. error last place = \(1.07 b\)
+
+\(2^{\text{d}}\) Method
+\(\frac{\sin C}{\sin B}\) Prob. err.
+\(0\) \(.73 b\)
+\(1\) \(.86 b\)
+\(2\) \(1.16 b\)
+\(3\) \(1.54 b\)
+\(4\) \(1.94 b\)
+\(5\) \(2.37 b\)
+
+\(3^{\text{d}}\) Method \(\frac{\sin A}{\sin B}\) Prob. err.
+\(1\) \(0.00\)
+\(1 \frac{1}{2}\) \(0.61 b\)
+\(2\) \(1.22 b\)
+\(3\) \(2.44 b\)

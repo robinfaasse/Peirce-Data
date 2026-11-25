@@ -1,0 +1,35 @@
+Form I gives the evident formulae
+$U \prec \{ V \prec [ X \prec ( Y \prec Y ) ] \}$ from (1)
+$U \prec \{ V \prec [ X \prec ( Y \prec X ) ] \}$ from (3)
+$U \prec \{ V \prec [ X \prec ( Y \prec V ) ] \}$ [del]from A[/del]
+$U \prec \{ V \prec [ X \prec ( Y \prec U ) ] \}$ from A
+
+Form II gives the evident formulae
+$( U \prec V ) \prec [ X \prec ( Y \prec Y ) ]$
+$( U \prec V ) \prec [ X \prec ( Y \prec X ) ]$ by $3'$
+$( U \prec V ) \prec [ X \prec ( U \prec V ) ]$ Case of 3
+$( U \prec V ) \prec [ U \prec ( X \prec V ) ]$ Not quite [ins]self[/ins]-evident (but follows at once from $3'$)
+
+Form III gives the evident formulae
+$[ ( U \prec V ) \prec X ] \prec ( Y \prec Y )$ Case of 2
+$[ ( U \prec V ) \prec X ] \prec ( Y \prec X )$
+$[ ( U \prec V ) \prec U ] \prec ( X \prec U )$ from (5)
+$[ ( U \prec V ) \prec X ] \prec ( V \prec X )$
+
+These last follow at once from the principle of contraposition that if $X \prec Y$ then $( Y \prec Z ) \prec ( X \prec Z )$
+
+Form IV gives the evident formulae
+$U \prec [ ( V \prec X ) \prec ( Y \prec Y ) ]$ From 2
+$U \prec [ ( V \prec X ) \prec ( Y \prec U ) ]$ From 3
+$U \prec [ ( U \prec V ) \prec ( X \prec V ) ]$
+$U \prec [ ( V \prec X ) \prec ( V \prec X ) ]$
+
+Form V gives
+$[ U \prec ( V \prec X ) ] \prec ( Y \prec Y )$
+$[ U \prec ( U \prec V ) ] \prec ( U \prec V )$ / To prove this assume $U \prec ( U \prec V )$. Then if we assume $U$ we must assume $U \prec V$ and if we do not assume $U$ then $U \prec V$.
+
+Form VI gives
+$U \prec \{ V \prec [ ( X \prec Y ) \prec U ] \}$ by $3'$
+$U \prec \{ V \prec [ ( X \prec Y ) \prec V ] \}$ by $3'$
+$U \prec \{ V \prec [ ( U \prec X ) \prec X ] \}$ by $3'$ and 6
+$U \prec \{ V \prec [ ( V \prec X ) \prec X ] \}$ by 6

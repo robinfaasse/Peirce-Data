@@ -1,0 +1,49 @@
+[marginalia]
+[del]on account of[/del]
+[/marginalia]
+
+A $C_{(x+y)} \equiv C_x + C_y \equiv C_x + C_{y,(1-C_x)}$
+
+$\therefore C_x \equiv C_x + C_{C(x-1),(1-C_x)}$
+
+$\therefore C_x \equiv [del]C_x,[/del] C_{x,(1-C_{C(x-1)})}$
+
+$C_1 - C_{x,(1-C_{C(1-x)})} \equiv C_{(1-x)}$
+
+$C_1 - C_x \equiv C_{(1-x),(1-C_x)}$
+
+$C_{(1-x)} \equiv (C_1 - C_x) , (1-C_x)$
+
+$\equiv \frac{0}{0}, C_1, C_x + C_{1,(1-C_x)} + \frac{1}{0} (C_1) C_x$
+
+$\equiv \frac{0}{0}, C_x + C_{1,(1-C_x)}$
+
+---
+
+(1) $\therefore ([del]x[/del] - 1)_x \equiv 0$
+
+$0 \equiv ([del]y[/del] - 1)_x$
+
+$0 \equiv (x - 1)_x$
+
+$\therefore mx [del], (1-m)x[/del] , (1-mx) \equiv \frac{1}{0}$
+
+---
+
+(2) $([del]x[/del]) \equiv [del](1-mx)[/del] + \frac{0}{0} mx$
+
+$0 \equiv [del](y-y)[/del]$
+
+$0 \equiv [del](y-y)-1[/del], x$
+
+$0 \equiv (x-y)_x$
+
+(3) $[del]C_{(x)} \equiv \frac{0}{0} C_x[/del]$
+
+$C_{a, (b)} \equiv C_{(ab + a\bar{b}), (C_a + C_b)}$
+
+$\equiv (C_{a,b} + C_{a,\bar{b}}), (C_{a,b} + C_{\bar{a},b})$
+
+$\equiv C_{a,b} + C_{a,\bar{b}}, C_{(\bar{a},b)}$
+
+$\equiv C_{a,b,(1-C_{a,\bar{b}}, C_{(\bar{a},b)})} + C_{a,\bar{b}}, C_{(\bar{a},b)}$

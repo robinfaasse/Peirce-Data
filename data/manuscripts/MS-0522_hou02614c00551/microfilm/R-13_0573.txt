@@ -1,0 +1,17 @@
+[u]§23. Dedekind's Theory of Chains.[/u]
+
+[del]b[/del] [ins]b[/ins] ≺ c ≺ ab ≺ ac
+a(b + c + etc) [del]=[/del] [ins]≽[/ins] ab + ac
+a(b ∙ c) ≺ ab ∙ ac !
+
+[del]a ∙ b[/del]
+[del]ab ≺ b[/del] ≺ a ∙ ab ∙ ab
+ac + b ≺ c ≺ ab ≺ c
+
+[del]etc[/del]
+ac + b ≺ c ≺ [del]Σ[/del] [ins]Σ[/ins] (b ≺ u) ∙ (au ≺ c ∙ u)
+for let u = b + c
+= Σ (au + b + u) ∙ (au ≺ c)
+
+(ab ≺ b) ∙ (ac ≺ c)
+≺ a(b + c) ≺ b + c || ≺ a(b ∙ c) ≺ b ∙ c

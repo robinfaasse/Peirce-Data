@@ -1,0 +1,23 @@
+Let $\xi(m,n)$ and $\eta(m,n)$ be the values of $x$ and $y$ for the centre of gravity of the weighted part of the cord from just [del]above[/del] [ins]beyond[/ins] $n$ (in going from $0$ [del]to[/del] [ins]to[/ins] $n$) to just above $m$.
+
+Write $\xi_m$ for $\xi(0,m)$ and $\eta_m$ for $\eta(0,m)$, when desired.
+
+We have then by definition
+
+$$\xi(m,n) = \frac{\int_{\omega_n}^{\omega_m} x \, d\omega}{\omega_m - \omega_n} \qquad \left\{ \eta(m,n) = \frac{\int_{\omega_n}^{\omega_m} y \, d\omega}{\omega_m - \omega_n} \right.$$
+
+$$= \frac{x_m \omega_m - x_n \omega_n - \int_{x_n}^{x_m} \omega \, dx}{\omega_m - \omega_n} \qquad = \frac{y_m \omega_m - y_n \omega_n - \int_{y_n}^{y_m} \omega \, dy}{\omega_m - \omega_n}$$
+
+$$= \frac{\omega_m \int_0^{s_m} \cos \tau \, ds - \omega_n \int_0^{s_n} \cos \tau \, ds - \int_{s_n}^{s_m} \omega \cos \tau \, ds}{\omega_m - \omega_n}$$
+
+$$= \frac{\omega_m \int_0^{s_n} \frac{ds}{\sqrt{1+\frac{\omega^2}{Q^2}}} - \dots}{\dots}$$
+
+$$\int_{s_n}^{s_m} [(\int \cos \tau \, ds) \cdot D_s \omega \, ds]$$
+
+$$= \omega \int \cos \tau \, ds - \int \omega \cos \tau \, ds$$
+
+$$= \frac{\omega_m x_m - \omega_n x_n - \int_n^m \frac{\omega \, ds}{\sqrt{1+\frac{\omega^2}{Q^2}}}}{\omega_m - \omega_n}$$
+
+$$\eta(m,n) =$$
+
+$$\frac{\omega_m y_m - \omega_n y_n - \frac{1}{Q} \int_n^m \frac{\omega (\omega - \omega_n) \, ds}{\sqrt{1 + \frac{(\omega - \omega_n)^2}{Q^2}}}}{\omega_m - \omega_n}$$

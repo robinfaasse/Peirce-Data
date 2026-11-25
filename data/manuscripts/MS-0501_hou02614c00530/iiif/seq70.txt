@@ -1,0 +1,16 @@
+a · b = c · d = e
+
+[fig]sketch of points and a horizontal line[/fig]
+
+if
+(e + a) · (e + b) = (e + c) (e + d)
+
+[fig]two overlapping circles and a small loop[/fig]
+
+[fig]four ellipses radiating from a central circle labeled a, b, c, d[/fig]
+
+(a + c) · (b + d) · (a + d) · (b + c)
+ab + ad + bc + [del]dc[/del] [ins]cd[/ins]
+ab + ac + bd
+[del](a + b + c) (b + c + d)[/del]
+[del]ac + ad[/del]

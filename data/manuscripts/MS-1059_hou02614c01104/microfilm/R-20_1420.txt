@@ -1,0 +1,17 @@
+$$R = \sqrt{\frac{\left\{ \left[ \left(\frac{Q}{R}\right)^{\frac{2}{n}} - 1 \right] + \varepsilon \left[ \left(\frac{Q}{R}\right)^{\frac{2}{n}} + 1 \right] \right\} R^2}{1 - \left(\frac{Q}{R}\right)^{\frac{2}{n}} + \varepsilon \left[ 1 + \left(\frac{Q}{R}\right)^{\frac{2}{n}} \right]}}$$
+
+$$\frac{Q^{\frac{2}{n}}}{R^{\frac{2}{n}}} = \frac{[del]\left(1-\varepsilon\right) Q^{\frac{2}{n}} + \left(1+\varepsilon\right) R^{\frac{2}{n}}[/del]}{\left(1+\varepsilon\right) + \left(1-\varepsilon\right) R^2} = \frac{[del]R \left(1+\varepsilon\right) + \varepsilon[/del]}{\left(1+\varepsilon\right) + \left(1-\varepsilon\right) R^2}$$
+
+$$\frac{Q}{R} = \left( \frac{\left(1+\varepsilon\right) + \left(1-\varepsilon\right) R^2}{\left(1-\varepsilon\right) + \left(1+\varepsilon\right) R^2} \right)^{\frac{n}{2}}$$
+
+$$\frac{Q}{R} = \left[ \frac{\left(1+\varepsilon\right) + \left(1-\varepsilon\right) \tan^2 \left(45^{\circ} - \frac{\varphi}{2}\right)}{\left(1-\varepsilon\right) + \left(1+\varepsilon\right) \tan^2 \left(45^{\circ} - \frac{\varphi}{2}\right)} \right]^{\frac{n}{2}}$$
+
+[fig]Scratch work and diagram[/fig]
+
+$$\frac{1 - \frac{Q}{R}}{1 + \frac{Q}{R}}$$
+
+$$\frac{1 + \varepsilon}{1 - \varepsilon} \frac{1 - \tan^2 \left(45^{\circ} - \frac{\varphi}{2}\right)}{1 + \tan^2 \left(45^{\circ} - \frac{\varphi}{2}\right)}$$
+
+[del]$$\frac{1 - \sin \varphi}{1 + \sin \varphi} = \frac{1 - \frac{Q}{R}}{1 + \frac{Q}{R}}$$[/del]
+
+$$\sin \varphi = [del]1 - 2 \sin^2 \left(45^{\circ} - \frac{\varphi}{2}\right)[/del]$$

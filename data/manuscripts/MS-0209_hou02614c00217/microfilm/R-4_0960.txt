@@ -1,0 +1,27 @@
+[pn]11[/pn]
+
+[u]Note on the Mathematical Problems involved in the above[/u]. Suppose
+the original fortune of the player who always bets a franc was [u]a[/u] francs;
+and let [u]x[/u][sub]n[/sub] denote the probability, [ins]after he has lost n francs,[/ins] that he will ultimately succeed in
+netting a gain of one franc. His present loss, [u]n[/u], may be any
+whole number from 0 to [u]a[/u] inclusive; so that there will be [del]to[/del]
+[del]be[/del] [u]a[/u]+1 unknown quantities of the form [u]x[/u][sub]0[/sub], [u]x[/u][sub]1[/sub], [u]x[/u][sub]2[/sub], ... [u]x[/u][sub]a[/sub].
+[del]Let p be the p[/del] [ins]Suppose[/ins] [del]Let[/del] the game [del]not to[/del] [ins]is not[/ins] a fair one, but [del]let p[/del] that
+[u]p[/u] is the probability that the player will win any one bet. Then,
+if he has lost [u]n[/u] francs, [u]x[/u][sub]n[/sub], the probability he will [del]not[/del] [ins]ultimately[/ins] net
+a franc's gain, will be the probability of his doing so while winning
+the next bet [u]plus[/u] the probability of his doing so while losing the next
+bet. Now [u]p[/u] is the probability he will win the next bet, and [u]x[/u][sub]n-1[/sub] is
+the probability that if he does, he will ultimately net a gain. Hence, [u]p[/u]·[u]x[/u][sub]n-1[/sub]
+is the probability of the combination of these events, namely of his winning
+the next bet and then going on to net a gain. On the same principle, (1-[u]p[/u])·[u]x[/u][sub]n+1[/sub]
+is the probability that he will lose the next bet but yet will ultimately net
+a gain. Consequently, adding these two probabilities as the only ways he
+can net a gain, we have,
+[u]x[/u][sub]n[/sub] = [u]p[/u]·[u]x[/u][sub]n-1[/sub] + (1-[u]p[/u])·[u]x[/u][sub]n+1[/sub].
+There will be a corresponding equation for every value of [u]n[/u], so long
+as [u]n[/u]-1 is not less than 0, nor [u]n[/u]+1 greater than [u]a[/u]. That is to say,
+there will be [u]a[/u]-1 such equations between the [del]a+1[/del] [ins]a+1[/ins] unknown
+quantities; and two more equations are required [del]to solve[/del] [ins]to make a solution[/ins]
+possible. But these two equations are very obvious. In the first place,
+if he has not yet lost anything, or has become square again, and

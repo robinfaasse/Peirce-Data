@@ -1,0 +1,43 @@
+[date]Miramichi Bridge 1898 Feb 18[/date]
+
+[u]The [del]se[/del] equations.[/u]
+
+$x$ is measured along the horizontal from the mid span as origin
+$y$ is measured upward from the level of the midpoint of cable
+(assumed to be the same as that of the pier heads supporting
+the truss)
+
+$\vartheta$ is the [ins]inclination of the cable without live load[/ins] [del]angle the cable makes with[/del] to the horizon with increasing $x$.
+(That is it is positive on the positive side of lowest point)
+
+$\theta$ is the additional inclination caused by live load.
+
+$\Theta$ is the unstrained [del]“ ”[/del] of the [ins]part of the truss beneath[/ins] [del]cable[/del] [ins]suspending part of the[/ins]
+when the middle is horizontal.
+
+$B$ is the flexural rigidity of the truss.
+
+$K$ is the [del]horizontal[/del] [ins]vertical[/ins] rigidity of the [del]tops of the[/del] towers (supposed [del]vertically[/del] [ins]incompressible[/ins])
+
+$E$ is the [del]elongational[/del] [ins]vertical[/ins] rigidity of the cable. $E_1$ is the elongational rigidity of the [ins]straight[/ins] ends.
+
+$u$ is the weight of the dead load per unit of horizontal length.
+
+$v$ is the upward pull on the suspenders “ “ “ “ “
+
+$w$ is the weight of the live load per unit of horizontal length.
+
+$\pm N$ is the value of $x$ for the outermost suspenders
+$\pm P$ “ “ “ “ “ innermost truss piers
+$\pm Q$ “ “ “ “ “ outer “ “
+$\pm R$ “ “ “ “ “ tower heads.
+
+At the points $\pm N$, besides the pull on the cable there is supposed to be
+$1^{\text{st}}$ a weight $W$ pulling down
+$2^{\text{nd}}$ a vertical elasticity [del]resisting[/del] [ins]resisting[/ins] any vertical [del]displacement[/del] [ins]displacement from the dead load position $y_N = 0$[/ins]
+$3^{\text{rd}}$ a [del]coupled[/del] bending rigidity $I$ resisting any change of [ins]between one pair of[/ins] $\theta_N$ from $\theta_N = 0$.
+
+$S$ is the section-length from the middle of [del]one suspender to the middle of the[/del] [ins]between the next pair.[/ins] I suppose for simplicity there is a suspender at $x=0$, as the error of this supposition is altogether negligible.
+
+The length of the suspended part of the truss is $2N+S$
+The number of suspenders is $2\frac{N}{S}+1$. ([del]which is simpler than the actual arrangement[/del] [ins]$\bot \bot \bot$[/ins])

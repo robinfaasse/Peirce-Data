@@ -1,0 +1,19 @@
+[pn]F4[/pn] [pn]2[/pn]
+
+| Valency | Name |
+| :---: | :--- |
+| 0 | Medad |
+| 1 | Monad |
+| 2 | Dyad |
+| 3 | Triad |
+| > 2 | Polyad |
+| 2N | Artiad |
+| 2N+1 | Perissid |
+
+Besides the Listing theorem, the following second census proposition holds of valental graphs: The valency of a graph equals the sum of the valencies of its spots less the number of extremities of connecting bonds. It follows, as a corollary, that no perissid can be composed exclusively of artiads.
+
+Between Listing's theorem and the second census proposition the number of connecting bonds may be eliminated. Let a graph be composed of $n_0$ medads, $n_1$ monads, $n_2$ dyads, $n_3$ triads, etc. Let $\kappa_0$ be the sum of the cyclosis of the medads, $\kappa_1$ that of the monads, etc and $V, N, K$ denote respectively the valency, chorisis, and cyclosis of the graph. Then,
+
+$$V - 2N + 2K = \sum_0^\infty v n_v - 2n_v + 2\kappa_v$$
+
+There are evidently still other [del]top[/del][ins]logical[/ins] conditions. We may, as the equation shows, conceive of a tetrad spot as composed of two triads, of a pentad spot as composed of three triads, etc. In a connected whole graph, where $N=1$, $2 + n_3 - n_1$ may be any number

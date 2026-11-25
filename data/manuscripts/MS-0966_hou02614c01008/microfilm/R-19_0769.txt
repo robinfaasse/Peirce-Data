@@ -1,0 +1,33 @@
+Returning to the five points
+[fig]Arrow pointing up and right[/fig]
+$x\quad y\quad z\quad u\quad v = x+y+z+u$
+(or $v = -(x+y+z+u)$ but it is all the
+same, the coefficient is neglected.)
+these lie in pairs on ten lines
+$x,y\quad x,z\quad x,u\quad x,v\quad y,z\quad y,u\quad y,v\quad z,u\quad z,v\quad u,v$
+and by threes on ten planes
+$z,u,v\quad y,u,v\quad y,z,v\quad y,z,u\quad x,u,v\quad x,z,v\quad x,z,u\quad x,y,v$ etc.
+On what line do $x,y,z$ and $x,u,v$ cut?
+The plane $x,y,z$ includes every point of
+the form $px + qy + (1-p-q)z$
+The plane $x,u,v$ or $x,u,\frac{1}{4}(x+y+z+u)$
+includes every point of the form
+$sx + tu + \frac{1}{4}(1-s-t)(x+y+z+u)$
+$= \frac{1+3s-t}{4}x + \frac{1-s-t}{4}y + \frac{1-s-t}{4}z + \frac{1+3t-s}{4}u$
+Then on the intersection [del]$\frac{1+3s-t}{4} = p$[/del]
+$\frac{1+3t-s}{4} = 0$
+$\frac{1+3s-t}{4} = p\quad \frac{1-s-t}{4} = q = 1-p-q\quad p = 1-2q$
+$1-p = \frac{3}{4}(1-s)$
+
+Answer: On the line $x\quad (y+z)\quad (u+v)$
+
+Each plane cuts 6 of the others in lines
+coinciding by threes so that there are but $\frac{60}{2\cdot 3} = 10$
+and cuts the remaining 3 in $\frac{10\times 3}{2} = 15$ lines
+Total 25 lines.
+
+$\begin{aligned} 1-s+3t &= 0 \\ 1+3s-t &= 4p \\ 1-s-t &= 4q = 4(1-p-q) \end{aligned} \quad \begin{aligned} &= 4+8t \\ &= -4t \end{aligned}$
+$t = -q\quad p = 1-2q$
+$s = 1-3q$
+And the point of intersection are $(1-2q)x + qy + qz$
+or the line is $x, y+z$

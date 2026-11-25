@@ -1,0 +1,86 @@
+[marginalia]
+[fig]Line segment with points A, P, B, D[/fig]
+[/marginalia]
+
+[fig]Line segment with points A, B, C, D[/fig]
+
+[del]+[/del] [ins]+[/ins] $AB\cdot CP^2$ [del]+[/del] [ins]+[/ins] $BC\cdot AP^2$ [del]+[/del] [ins]+[/ins] $CA\cdot BP^2 = \mp AB\cdot BC\cdot CA$
+[del]+[/del] [ins]+[/ins] $BC\cdot DP^2$ [del]+[/del] [ins]+[/ins] $CD\cdot BP^2$ [del]+[/del] [ins]+[/ins] $DB\cdot CP^2 = \mp BC\cdot CD\cdot DB$
+[del]+[/del] [ins]+[/ins] $CD\cdot AP^2$ [del]+[/del] [ins]+[/ins] $DA\cdot CP^2$ [del]+[/del] [ins]+[/ins] $AC\cdot DP^2 = \mp AC\cdot CD\cdot DA$
+[del]+[/del] [ins]+[/ins] $DA\cdot BP^2$ [del]+[/del] [ins]+[/ins] $AB\cdot DP^2$ [del]+[/del] [ins]+[/ins] $BD\cdot AP^2 = \mp AB\cdot BD\cdot DA$
+
+[u]
+[del]0[/del] [ins]0[/ins] [del]+ 2DC $\cdot$ AP$^2$[/del] [del]+ 2CA $\cdot$ DP$^2$[/del]
+[/u]
+
+[del]+ 2BA $\cdot$ CP$^2$ + 2DB $\cdot$ AP$^2$ + 2AC $\cdot$ BP$^2$[/del]
+$2 AB\cdot CP^2 + 2 DC\cdot AP^2 + 2 CA\cdot BP^2 + 2 BA\cdot DP^2$
+$= AB(BD\cdot DA - BC\cdot CA) + CD(DA\cdot AC - DB\cdot BC)$
+
+[marginalia]
+$a^2 + b^2 + c^2 = 2ab\cos ab + 2ac$
+[/marginalia]
+
+[fig]Angle diagram[/fig]
+
+[fig]Angle diagram[/fig]
+
+[fig]Angle diagram[/fig]
+
+$\cos \angle \text{ca} = \cos T$
+$= -\cos (180 - \angle \text{ca})$
+$= -\cos (180 - \angle \text{ca})$
+
+[fig]Angle diagram[/fig]
+
+$180 - \angle ab + 180 - \angle bc = 180 - \angle ac$
+$\angle ab + \angle bc - 180 = \angle ac$
+$\cos \angle ac = -\cos (ab + bc)$
+$= -\cos \angle ab \cos \angle bc + \sin \angle ab \sin \angle bc$
+
+[del]$\cos \angle ad$[/del]
+$180^\circ - \angle ad = 180^\circ - \angle ab + 180^\circ - \angle bc + 180^\circ - \angle cd - 360^\circ$
+$\angle ad = \angle ab + \angle bc + \angle cd - 360^\circ$
+$\cos \angle ad = \cos \angle ab \cos \angle bc \cos \angle cd$
+$- \cos \angle ab \sin \angle bc \sin \angle cd$
+$- \sin \angle ab \sin \angle bc \cos \angle cd$
+$- \sin \angle ab \cos \angle bc \sin \angle cd$
+
+$BD = BC + CD$
+$DA = DC + CA$
+$- BC\cdot \frac{CD}{CD} + CD\cdot CA - CD^2$
+$CD(CA - \frac{BC\cdot CD}{CD})$
+$CD(2CB + BA)$
+
+[fig]Angle diagram[/fig]
+
+$a^2 + b^2 + c^2 = 2ab\cos ab + 2bc\cos bc + 2ca\cos ca$
+
+[fig]Triangle with sides a, b, c[/fig]
+
+$ab(1 + \cos \angle ab)$
+
+[fig]Triangle with sides a, b, c[/fig]
+
+[fig]Triangle with sides a, b, c[/fig]
+
+[fig]Triangle with sides a, b, c[/fig]
+
+$c^2 - a^2 = b^2 - 2ab\cos C$
+
+$180^\circ - (180^\circ - \angle ab) - (180^\circ - \angle bc) = \angle ab + \angle bc - 180^\circ$
+
+[fig]Angle diagram[/fig]
+
+$\angle ad = \angle ab + \angle bd - 180$
+$= \angle ab + \angle bc + \angle cd - 360^\circ$
+
+[fig]Triangle with sides a, b, c[/fig]
+
+[fig]Triangle with sides a, b, c[/fig]
+
+[fig]Triangle with sides a, b, c[/fig]
+
+$AP^2 + PB^2 = AB^2 + AP\cdot PB\cos \angle APB$
+
+[fig]Triangle with points A, P, B[/fig]

@@ -1,0 +1,27 @@
+In short we need but [u]one[/u] logical function to [pn]77R[/pn]
+express everything.
+
+We may write this function $(x,y)$ and
+let it mean
+$$\begin{array}{rccccccc}
+(x,y) & = & i\ \phi & + & j\ \psi & + & k\ \chi & + & l\ \omega \\
+U & = & \phi & + & \psi & + & \chi & + & \omega \\
+x & = & \phi & + & \psi \\
+y & = & \phi & & & + & \chi
+\end{array}$$
+
+Solving
+$$\phi = \frac{l U - (x,y) + (i-l)x + (k-l)y}{-i + j + k - l}$$
+
+$$x + y - \phi = \frac{-l U + (x,y) + (k-i)x + (j-i)y}{-i + j + k - l}$$
+
+[date]Nov 7[/date]
+
+The same object may be accomplished without
+any logical function $(x,y)$. Namely let us take
+arbitrarily any two numbers $v$ [del]$\&$[/del] [ins]$f$[/ins] and let
+$$x = f$$
+[del]signify that whatever object can be chosen
+is not $x$[/del]
+[del]$$x = v$$
+that whatever object can be chosen is $x$.[/del]

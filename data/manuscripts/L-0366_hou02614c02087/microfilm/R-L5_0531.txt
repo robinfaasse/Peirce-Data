@@ -1,0 +1,45 @@
+[marginalia]
+309
+[date]June 30[/date]
+[pn]13[/pn]
+[/marginalia]
+
+Now let us compare $(\phi D_x)(\psi x)$ with $(\psi D_x)(\phi x)$
+
+$(\phi D_x)(\psi x) = (a + b D_x + c D_x^2 + d D_x^3 + e D_x^4 + \text{etc}) (A + Bx + Cx^2 + Dx^3 + Ex^4 + \text{etc})$
+
+$= aA + aBx + aCx^2 + aDx^3 + aEx^4 + aFx^5 + aGx^6 + \text{etc}$
+$\phantom{=} + bB + [del]2b[/del][ins]2b[/ins]Cx + 3bDx^2 + 4bEx^3 + 5bFx^4 + 6bGx^5 + 7bHx^6 + \text{etc}$
+$\phantom{=} + 2cC + 6cDx + [del]12[/del][ins]12[/ins]cEx^2 + 5 \cdot 4 cFx^3 + 6 \cdot 5 cGx^4 + 7 \cdot 6 cHx^5 + 8 \cdot 7 cIx^6 + \text{etc}$
+$\phantom{=} + 3!dD + \frac{4!}{1!} dEx + \frac{5!}{2!} dFx^2 + \frac{6!}{3!} dGx^3 + \frac{7!}{4!} dHx^4 + \frac{8!}{5!} dIx^5 + \frac{9!}{6!} dJx^6 + \text{etc}$
+$\phantom{=} + 4!eE + \text{etc}$
+
+[marginalia]
+$2bCx$
+[/marginalia]
+
+Now we need go no further. What I wanted to show was that if we now put $x=0$ we have
+$(\phi D_x)(\psi 0) = aA + bB + 2!cC + 3!dD + 4!eE + \text{etc}$
+and evidently
+$(\psi D_x)(\phi 0) = Aa + 1!Bb + 2!Cc + 3!Dd + 4!Ee + \text{etc}$
+
+In other words, $(\phi D_x)(\psi 0) = (\psi D_x)(\phi 0)$, no matter what functions $\phi$ and $\psi$ may be, so long as they can both be developed according to ascending powers of the variable. Hence Maclaurin's theorem, which is
+$fa = f0 + D_o f0 \cdot a + D_o^2 f0 \frac{a^2}{2!} + D_o^3 f0 \cdot \frac{a^3}{3!} + \text{etc}$
+can be put in the form
+$fa = f0 + f(D_o 0) a + f(D_o 0^2) \frac{a^2}{2!} + f(D_o 0^3) \frac{a^3}{3!} + \text{etc}$.
+
+Now please have patience, for we are slowly but surely coming to the point. There would be a somewhat shorter cut by the use of integrals of imaginary quantities round infinite values; but I think you would find that harder to understand than this, which only requires patient attention.
+
+[marginalia]
+It is the work of the great mathematical genius, and very ingenious logician, George Boole.
+[/marginalia]
+
+$e^{D_x} = 1 + D_x + \frac{D_x^2}{2!} + \frac{D_x^3}{3!} + \text{etc}$
+$e^{D_x} - 1 = D_x + \frac{D_x^2}{2!} + \frac{D_x^3}{3!} + \text{etc}$
+
+Divide $1$ by this by long division
+[fig]long division of 1 by Dx + Dx^2/2! + Dx^3/3! + etc[/fig]
+
+Therefore, if $C$ is the arbitrary constant
+$\Sigma u_x = D_x^{-1} u_x - \frac{1}{2} u_x + \frac{1}{12} D_x u_x + \text{etc}$.
+where $D_x^{-1} u_x$ involves the arbitrary constant.

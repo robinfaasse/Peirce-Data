@@ -1,0 +1,28 @@
+[fig]3x3 grid with X in top-left corner and numbers 1 to 5 in other squares[/fig] [u]Case 2[/u]. The first player occupies a corner square
+There are now [del]essentially different[/del] [ins]5[/ins] plays for the second player, as
+numbered in the figure, making cases 21, 22, 23, 24, 25.
+
+[u]Case 21[/u]. The second player occupies the centre compartment.
+[fig]3x3 grid with X in top-left, O in center, and numbers 1 to 4 in other squares[/fig] There are now four essentially different plays
+for the first player, as numbered in the figure, making
+cases 211, 212, 213, 214
+
+[u]Case 211[/u]. The first player occupies a side square adjoining his
+[fig]3x3 grid with X, O, and other marks[/fig] corner. The second player is obliged to occupy the
+adjoining corner square. The first player is obliged to
+occupy the opposite corner. The second player is obliged to occupy
+the side square between the first player's two corners. The first player is
+obliged to occupy the opposite side square. There is no tic-tac-toe.
+
+[u]Case 212[/u]. The first player occupies a corner square not opposite
+[fig]3x3 grid with X, O, and other marks[/fig] that he already occupies. The second player is obliged to
+occupy the intermediate side square. The first player is
+obliged to occupy the opposite side square. There is no tic-tac-toe.
+
+[u]Case 213[/u] The first player occupies a side square not adjoining
+[fig]3x3 grid with X, O, and numbers 1 to 6[/fig] the occupied corner. There are now 6 plays for the
+second player as numbered in the figure making cases
+2131, 2132, 2133, 2134, 2135, 2136.
+
+[u]Case 2131[/u]. The second player occupies the side square adjoining
+the first players corner but not opposite the first player's side square

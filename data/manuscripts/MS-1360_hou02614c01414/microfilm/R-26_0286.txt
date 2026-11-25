@@ -1,0 +1,29 @@
+[marginalia]
+[u]Clapeyron Theorem on Bridges[/u]
+[/marginalia]
+
+(24) [u]x[/u] = [u]l[/u] [u]A[/u] [integral]([frac]1, [u]E[/u][/frac] + [frac]1, [sqrt][u]A[/u]² + [u]Q[/u]²([lambda] - [lambda][sub]k[/sub])²[/sqrt][/frac]) d[lambda]
+= [u]l[/u] [u]A[/u] {[frac][u]x[/u], [u]E[/u][/frac] + [frac]1, [u]Q[/u][/frac] log [frac][[sqrt][u]A[/u]² + [u]Q[/u]²([lambda] - [lambda][sub]k[/sub])²[/sqrt] + [u]Q[/u]([lambda] - [lambda][sub]k[/sub])][[sqrt][u]A[/u]² + [u]Q[/u]²[lambda][sub]k[/sub]²[/sqrt] + [u]Q[/u][lambda][sub]k[/sub]][/frac]}
+[[sqrt][u]A[/u]² + [u]Q[/u]²([lambda] - [lambda][sub]k[/sub])²[/sqrt] - [u]Q[/u]([lambda] - [lambda][sub]k[/sub])][[sqrt][u]A[/u]² + [u]Q[/u]²[lambda][sub]k[/sub]²[/sqrt] - [u]Q[/u][lambda][sub]k[/sub]]
+
+These equations have the advantage, that if [u]E[/u] gradually changes, the trajectory of each particle is shown.
+
+If the load is so put on as to be uniform along the horizontal abscissa, after the stretching, that is, if
+(25) [u]p[/u] = [u]q[/u] [u]x[/u],
+where [u]q[/u] is a constant, equation (5) at once gives
+(26) [frac]d[u]y[/u], d[u]x[/u][/frac] = ([frac]d[u]y[/u], d[u]x[/u][/frac])[sub]0[/sub] - [frac][u]q[/u], [u]A[/u][/frac] [u]x[/u],
+
+so that the curve is a parabola with its axis vertical. If [u]E[/u] is constant and [u]b[/u] = 0,
+(27) ([frac]d[u]y[/u], d[u]x[/u][/frac])[sub]0[/sub] = [frac]1, 2[/frac] [frac][u]q[/u], [u]A[/u][/frac] [u]a[/u]
+and by integration
+(28) [u]y[/u] = [frac][u]q[/u], 2[u]A[/u][/frac] [u]x[/u] ([u]a[/u] - [u]x[/u]),
+(29) [u]y[/u][sub]k[/sub] = [frac][u]q[/u] [u]a[/u]², 8[u]A[/u][/frac],
+which last equation will serve to determine [u]A[/u] if the versin after the load is put on is known. Hence,
+(30) ([frac]d[u]y[/u], d[u]x[/u][/frac])[sub]0[/sub] = [frac]4 [u]y[/u][sub]k[/sub], [u]a[/u][/frac].
+
+Then (6) gives
+(31) [u]l[/u] = [integral][frac]d[u]x[/u], [frac][u]A[/u], [u]E[/u][/frac] + [frac]1, [sqrt]1 + (d[u]y[/u]/d[u]x[/u])²[/sqrt][/frac][/frac] = [integral][frac][u]a[/u]² d[u]x[/u], [frac][u]q[/u], 8[u]E[/u] [u]y[/u][sub]k[/sub][/frac] + [frac]1, [sqrt][u]a[/u]⁴ + 64 [u]y[/u][sub]k[/sub]² ([frac]1, 2[/frac] [u]a[/u] - [u]x[/u])²[/sqrt][/frac][/frac]
+
+[marginalia]
+Turn over for the rest of the equation
+[/marginalia]

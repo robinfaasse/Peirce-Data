@@ -1,0 +1,39 @@
+[fig]Triangle with altitude[/fig]
+[fig]Triangle[/fig]
+
+$$\frac{A}{\frac{1}{2} A}$$
+$$\sqrt{1 - \frac{1}{4} A^2}$$
+$$1 - \sqrt{1 - \frac{1}{4} A^2}$$
+[del]$$\sqrt{2 - 2 \sqrt{1 - \frac{1}{4} A^2}} = B$$[/del]
+$$1 - \sqrt{1 - A^2} = B$$
+
+[fig]Trapezoid[/fig]
+$$A = .50 \quad .25 \quad .75 \quad .8660$$
+$$B = .1330 \quad .0177 \quad .9823 \quad .9911$$
+$$C = .0089$$
+
+$$\begin{array}{r} 50 \\ \underline{6} \\ 3.00 \end{array}$$
+
+$$\begin{array}{r} 1330 \\ \underline{266} \\ 1596 \end{array}$$
+
+$$\begin{array}{r} 2588 \\ \underline{5176} \\ 3.106 \end{array}$$
+
+[fig]Triangle with altitude and hypotenuse labeled[/fig]
+
+$$\frac{1 - \sqrt{1 - A^2}}{\sqrt{2 - 2 \sqrt{1 - A^2}}} \quad A$$
+
+[fig]Inverted triangle[/fig]
+$$1 - \sqrt{1 - A^2}$$
+
+$$\begin{array}{r} 0.0170 \\ \underline{1304} \\ 2608 \\ \underline{5214} \\ 3.130 \end{array}$$
+
+$$\begin{array}{r} 0043 \\ \underline{0656} \\ 6.56 \\ 3.28 \\ \underline{1372} \\ 3.15 \end{array}$$
+
+$$\begin{array}{rl} A & .50 \\ A^2 & .25 \\ 1 - A^2 & .75 \\ \sqrt{1 - A^2} & .8660 \\ 1 - \sqrt{1 - A^2} & .1340 \\ [del]2 (1 - \sqrt{1 - A^2})[/del] & .2680 \\ \frac{1}{2} (1 - \sqrt{1 - A^2}) & .0670 \\ B & .2588 \\ B^2 & .0670 \\ 1 - B^2 & .9330 \\ \sqrt{1 - B^2} & .96592 \\ 1 - \sqrt{1 - B^2} & \begin{array}{r} 3408 \\ \underline{1704} \end{array} \\ 1 - C^2 & .9830 \\ \sqrt{1 - C^2} & .99156 \\ 1 - \sqrt{1 - C^2} & \begin{array}{r} 854 \\ \underline{427} \end{array} \\ 1 - D^2 & .9957 \end{array}$$
+
+$$.0001$$
+
+[fig]Very thin triangle[/fig]
+[fig]Very thin triangle[/fig]
+
+$$\frac{2 \sin \cos}{2 \cos^2 - \sin^2}$$

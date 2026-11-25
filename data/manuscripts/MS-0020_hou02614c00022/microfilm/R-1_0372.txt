@@ -1,0 +1,17 @@
+[pn]4[/pn]
+[u]Logic of Quantity[/u]
+
+The great difficulty is so to eliminate [u]n[/u] as to preserve the effect of the first factor of (6). In order to do this, it is necessary to find an object which, unlike [u]v[/u], [del]is of[/del] belongs to [u]m[/u], but which has a peculiar relation to [u]v[/u]. For this purpose, we remark that if in (6) we [del]p[/del] identify [u]s[/u] with [u]v[/u], we get (7) [u]$\Sigma_v \Sigma_r q_{nv} \cdot \bar{q}_{mv} \cdot q_{mr} \cdot r_{irv}$[/u].
+
+If therefore we define [ins]$\sim$[/ins] [u]g[/u] thus:
+$\Pi_\alpha \Pi_\beta \Sigma_\gamma (\bar{q}_{g\alpha} \mathbin{\text{+}} \bar{q}_{m\gamma} \cdot [del]\bar{q}_{m\gamma}[/del] \cdot r_{i\alpha\gamma}) (q_{m\beta} \mathbin{\text{+}} [del]\bar{q}_{m\alpha} \mathbin{\text{+}}[/del] \bar{r}_{i\alpha\beta} \mathbin{\text{+}} q_{g\alpha})$
+
+If we multiply the square of the first factor of this by the last factor of (6) and identify [u]e[/u] with [u]$\alpha$[/u] and [u]f[/u] with [u]$\gamma$[/u] we have
+[del]$\Pi_\alpha \Sigma_\gamma \Pi_g \bar{q}_{g\alpha} \cdot \bar{r}_{i\alpha\gamma} \mathbin{\text{+}} \bar{r}_{i\alpha g} \mathbin{\text{+}} l_{rg}$[/del]
+[del]$\Pi_\alpha \Sigma_\gamma \Pi_g (\bar{q}_{g\alpha} \mathbin{\text{+}} \bar{q}_{m\gamma}) \cdot (\bar{q}_{g\alpha} \mathbin{\text{+}} \bar{r}_{i\alpha g} \mathbin{\text{+}} l_{g\gamma})$[/del]
+$\Pi_\alpha \Sigma_\gamma \Pi_g [\bar{q}_{g\alpha} \mathbin{\text{+}} (\bar{r}_{i\alpha g} \mathbin{\text{+}} l_{g\gamma}) \cdot \bar{q}_{m\gamma}] \cdot [del]\bar{q}_{g\alpha}[/del]$
+
+[del]We can substitute this for the first two factors of (6). From the second and third factors we readily eliminate n by identifying u with s. We thus obtain a statement of the desired character.[/del]
+
+If we multiply this by (7) and identify [u]$\alpha$[/u] with [u]r[/u] [del]and[/del] (writing it [u]$\alpha$[/u], however) and [u]g[/u] with [u]v[/u] we get
+$\Sigma_\alpha \Sigma_\gamma \Sigma_g$

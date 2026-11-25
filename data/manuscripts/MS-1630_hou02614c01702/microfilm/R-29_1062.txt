@@ -1,0 +1,28 @@
+[pn]117[/pn]
+
+[fig]Concentric circles with a small trapezoid inside[/fig]
+
+[u]138[/u]
+
+[fig]Coordinate axes with a curve and labels u' and u[/fig]
+
+[u]139[/u]
+[u]140[/u]
+
+$\sigma' = \sigma + b \phi (s_i - s_0)$
+$\sigma'' = \sigma - b \phi (s_i - s_0)$
+$\sum = 2 \sigma$
+
+***
+
+[pn]145[/pn]
+
+[fig]Geometric diagram with axes, an arc, and vectors[/fig]
+
+to find [del]$\sigma$[/del] [ins]surface of rev[/ins] [del]round OP[/del] [ins]($\sigma_p$)[/ins] from those of $\sigma_A$ [del]($\sigma_a$)[/del] & $\sigma_P$ ($\sigma_b$)
+
+$u_p = - u_a \sin \psi + u_b \cos \psi$
+
+$\sigma_p = \int_s u_p = \int_s - u_a \sin \psi + u_b \cos \psi =$
+
+(898)

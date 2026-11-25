@@ -1,0 +1,53 @@
+[pn]79[/pn]
+
+Now take the square of the premise
+
+$\Pi_{\alpha} \Pi_{21} \Sigma_{12} \Pi_{21} \Pi_{22} \Sigma_{31} \Sigma_{32}$
+
+$\left\{ \bar{\gamma}_{21} \chi_{11} + \bar{\gamma}_{22} \chi_{12} + \chi_{11} \chi_{12} \left( \bar{\gamma}_{\alpha:11.21} + \bar{\gamma}_{\alpha:31.21} \bar{I}_{11.31} \right) \left( \bar{\gamma}_{\alpha:12.22} + \bar{\gamma}_{\alpha:32.22} \bar{I}_{12.32} \right) \right\}$
+
+Now we have
+
+$\Sigma_{i} \Pi_{4} \Pi_{5} \Pi_{6} \Pi_{7}$
+
+$\left\{ \bar{\gamma}_{246} + \bar{\gamma}_{547} + \bar{\gamma}_{256} + \bar{\gamma}_{657} + \bar{I}_{45} + \bar{I}_{67} \right\}$
+
+Now we have
+
+$\Pi_{4} \Pi_{5} \Pi_{6} \Pi_{7} \left( \frac{\Sigma_{i}}{\bar{\gamma}_{246}} \right) \left( \frac{\Sigma_{j}}{\bar{\gamma}_{547}} \right)$
+
+[del]$\Pi_{4} \Pi_{5} \Pi_{6} \Pi_{7} \Sigma_{i}$[/del] [ins]$\bar{\gamma}_{265}$[/ins] [ins]$\left( \bar{\gamma}_{i:57} \right)$[/ins] [ins]$\left( \bar{\gamma}_{j:57} \right)$[/ins]
+
+$\Pi_{4} \Pi_{5} \Pi_{6} \Pi_{7} \Sigma_{i} \left\{ \bar{\chi}_{4} + \bar{\chi}_{5} + \bar{I}_{45} + \bar{\gamma}_{6} + \bar{\gamma}_{7} + \bar{I}_{67} + \bar{\gamma}_{46} \bar{\gamma}_{57} \left( \bar{\gamma}_{i:57} + \bar{I}_{57} \right) \right\}$
+
+But by the last result $\Pi_{2} \Sigma_{1} \Sigma_{3} \left( \bar{\gamma}_{2} + \chi_{1} \bar{I}_{13} \right)$
+
+this fails three terms are eliminated. Then $6$ and
+
+$7$ are identified with $21$ and $22$.
+
+All this is not very clear. There seems
+
+to be a need of introducing again the lost
+
+result.
+
+But after all, why not proceed thus
+
+$\Pi_{\alpha} \Sigma_{1} \Pi_{2} \Sigma_{3} \chi_{1} \left( \bar{\gamma}_{\alpha:12} + \bar{\gamma}_{2} + \bar{\gamma}_{\alpha:32} \bar{I}_{13} \right)$
+
+$\prec \Pi_{\alpha} \Pi_{2} \Sigma_{1} \Sigma_{3} \left\{ \bar{\gamma}_{2} + \chi_{1} \left( \bar{\gamma}_{\alpha:12} + \bar{\gamma}_{\alpha:32} \bar{I}_{13} \right) \right\}$
+
+Now $\left( \bar{\gamma}_{\alpha:12} + \bar{\gamma}_{\alpha:32} \bar{I}_{13} \right)$ expresses a
+
+relation between $1$ and $2$ and
+
+$\bar{\gamma}$ may be so specialized that nothing
+
+but $2$ has that relation to $1$. Hence
+
+[del]$\Sigma_{\beta} \Pi_{2} \Sigma_{1} \Pi_{4} \left\{ \bar{\gamma}_{2} + \chi_{1} \bar{\gamma}_{\beta:12} \left( \bar{\gamma}_{\beta:14} + \bar{I}_{24} \right) \right\}$[/del]
+
+$\Sigma_{\beta} \Pi_{2} \Sigma_{1} \Pi_{4} \left\{ \bar{\gamma}_{2} + \chi_{1} \bar{\gamma}_{\beta:12} \left( \bar{\gamma}_{\beta:14} + \bar{I}_{24} \right) \right\}$
+
+The conclusion. See p 80

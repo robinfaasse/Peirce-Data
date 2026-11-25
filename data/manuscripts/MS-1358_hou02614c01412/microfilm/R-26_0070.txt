@@ -1,0 +1,31 @@
+[marginalia]
+Morison's Bridge 1898 [date]Sep 24[/date]
+[/marginalia]
+
+[pn]2[/pn]
+
+[del]$\boxed{\rho_0} = \frac{1}{P_0} (1 - \frac{R_0}{R_0}) = \frac{1}{P_0} (1 - \frac{R_0}{\sqrt{(x_1-x_0)^2 + (y_1-y_0)^2}})$[/del]
+$= \frac{1}{P_0} (1 - R_0 [(x_1-x_0)^2 + (y_1-y_0)^2]^{-\frac{1}{2}})$
+
+$\delta \boxed{\rho_0} = \frac{R_0}{P_0} [(x_1-x_0)^2 + (y_1-y_0)^2]^{-\frac{3}{2}} [(x_1-x_0)(\delta x_1 - \delta x_0) + (y_1-y_0)(\delta y_1 - \delta y_0)]$
+
+$\boxed{\rho_1} = \frac{1}{P_0} (1 - R_1 [(x_2-x_1)^2 + (y_1-y_2)^2]^{-\frac{1}{2}})$
+
+$\delta \boxed{\rho_1} = \frac{R_1}{P_0} [(x_2-x_1)^2 + (y_1-y_2)^2]^{-\frac{3}{2}} [(x_2-x_1)(\delta x_2 - \delta x_1) + (y_1-y_2)(\delta y_1 - \delta y_2)]$
+
+Consequently the differential equations are
+
+$\frac{\delta x_0}{\Lambda_0} - \boxed{\rho_0} (\delta x_1 - \delta x_0) - \frac{R_0}{P_0} \frac{\boxed{x_1-x_0}}{\boxed{\boxed{x_1-x_0} + \boxed{y_1-y_0}}}^{-\frac{3}{2}} (\delta x_1 - \delta x_0)$
+$- \frac{R_0}{P_0} (x_1-x_0)(y_1-y_0) \frac{\boxed{x_1-x_0} + \boxed{y_1-y_0}}^{-\frac{3}{2}} (\delta y_1 - \delta y_0) + \boxed{1} = 0$
+
+$(\frac{1}{\Lambda_0} + \boxed{\rho_0} + \frac{1}{P_0} \frac{R_0}{R_0} \frac{\boxed{x_1-x_0}}{\boxed{\boxed{x_1-x_0} + \boxed{y_1-y_0}}}) \delta x_0 + [ - \boxed{\rho_0} - \frac{1}{P_0} \frac{R_0}{R_0} \frac{\boxed{x_1-x_0}}{\boxed{\boxed{x_1-x_0} + \boxed{y_1-y_0}}} ] \delta x_1$
+$+ \frac{1}{P_0} \frac{R_0}{R_0} \frac{(x_1-x_0)(y_1-y_0)}{\boxed{\boxed{x_1-x_0} + \boxed{y_1-y_0}}} \delta y_0 - \frac{1}{P_0} \frac{R_0}{R_0} \frac{(x_1-x_0)(y_1-y_0)}{\boxed{\boxed{x_1-x_0} + \boxed{y_1-y_0}}} \delta y_1 + \boxed{1} = 0$
+
+[del]$\frac{1}{\Lambda_0} + \boxed{\rho_0} + \frac{1}{P_0} \frac{R_0}{R_0} \frac{\boxed{x_1-x_0} + \boxed{y_1-y_0}}{\boxed{\boxed{x_1-x_0} + \boxed{y_1-y_0}}}$[/del]
+
+But
+$\boxed{\rho_0} = \frac{1}{P_0} - \frac{1}{P_0} \frac{R_0}{R_0} \frac{\boxed{x_1-x_0} + \boxed{y_1-y_0}}{\boxed{\boxed{x_1-x_0} + \boxed{y_1-y_0}}}$
+
+Hence the above becomes
+$(\frac{1}{\Lambda_0} + \frac{1}{P_0} - \frac{1}{P_0} \frac{R_0}{R_0} \frac{\boxed{y_1-y_0}}{\boxed{\boxed{x_1-x_0} + \boxed{y_1-y_0}}}) \delta x_0 - (\frac{1}{P_0} - \frac{1}{P_0} \frac{R_0}{R_0} \frac{\boxed{y_1-y_0}}{\boxed{\boxed{x_1-x_0} + \boxed{y_1-y_0}}}) \delta x_1$
+$+ \frac{1}{P_0} \frac{R_0}{R_0} \frac{(x_1-x_0)(y_1-y_0)}{\boxed{\boxed{x_1-x_0} + \boxed{y_1-y_0}}} \delta y_0 - \frac{1}{P_0} \frac{R_0}{R_0} \frac{(x_1-x_0)(y_1-y_0)}{\boxed{\boxed{x_1-x_0} + \boxed{y_1-y_0}}} \delta y_1 + \boxed{1} = 0$

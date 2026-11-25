@@ -1,0 +1,24 @@
+The denial of the proposition is
+
+$$\Pi_{\alpha} \Sigma_{i} \Sigma_{l} \text{ g}_{il} (\overline{r}_{\alpha} + \overline{r}_{\alpha il})$$
+
+or, substituting for $r_{\alpha}$ its definition
+
+$$\Pi_{\alpha} \Sigma_{i} \Sigma_{l} \Sigma_{x} \Sigma_{y} \Sigma_{z} \text{ g}_{il} (\overline{r}_{\alpha xy} \overline{r}_{\alpha yz} \overline{r}_{\alpha xz} + \overline{r}_{\alpha il}).$$
+
+Since $\alpha$ is distributed (i.e. its quantifier is $\Pi$), we may
+substitute any relative token for $r_{\alpha}$. Substituting
+$g$, we have
+$$\Sigma_{i} \Sigma_{l} \Sigma_{x} \Sigma_{y} \Sigma_{z} \text{ g}_{il} (g_{xy} g_{yz} \bar{g}_{xz} + \bar{g}_{il})$$
+
+Using the distributive principle, and observing
+that $g_{il} \bar{g}_{il} = 0$, we have
+
+$$\Sigma_{i} \Sigma_{l} \Sigma_{x} \Sigma_{y} \Sigma_{z} \text{ g}_{il} g_{xy} g_{yz} \bar{g}_{xz}.$$
+
+We always have a right to drop a factor. Dropping
+[del]$g_{il}$[/del], we have
+
+$$\Sigma_{x} \Sigma_{y} \Sigma_{z} g_{xy} g_{yz} \bar{g}_{xz}.$$
+
+Now substituting for $g$ its definition, we have

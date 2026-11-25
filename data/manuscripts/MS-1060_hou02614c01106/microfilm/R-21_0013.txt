@@ -1,0 +1,36 @@
+[pn]6.[/pn]
+
+L'énergie actuelle de la particule sera
+
+[u]1[/u]/2 [u]m[/u] [u]r[/u]² (D[sub]t[/sub] [u]φ[/u])² + [u]m[/u] [u]r[/u] cos ([u]φ[/u] + [u]ω[/u]) (D[sub]t[/sub] [u]φ[/u]) D[sub]t[/sub] [u]s[/u] + [u]1[/u]/2 [u]m[/u] (D[sub]t[/sub] [u]s[/u])² ;
+
+et l'énergie actuelle du pendule sera
+
+[u]1[/u]/2 [u]M[/u] [u]l[/u] [u]h[/u] (D[sub]t[/sub] [u]φ[/u])² + [u]M[/u] [u]h[/u] cos [u]φ[/u] (D[sub]t[/sub] [u]φ[/u]) (D[sub]t[/sub] [u]s[/u]) + [u]1[/u]/2 [u]M[/u] (D[sub]t[/sub] [u]s[/u])².
+
+Quant à l'énergie du mouvement du pied, on peut la
+négliger, puisqu'elle se compose d'un petit moment d'inertie
+multiplié par le carré d'une vitesse très petite. La différen-
+tielle de l'énergie potentielle est
+
+— [u]M[/u] [u]g[/u] [u]h[/u] sin [u]φ[/u] . d [u]φ[/u] — [u]C[/u] [u]s[/u] . d [u]s[/u].
+
+Il y a, c'est vrai, un troisième terme, qui dépend de la fric-
+tion entre le molécule du pied. Mais je crois que l'on peut
+négliger ce terme, dont l'effet doit être peu considérable, et
+dont le coefficient est en tout cas, inconnu.
+
+On dérive, des expressions pour l'énergie actuelle et po-
+tentielle, les équations différentielles
+
+[u]l[/u] D[sub]t[/sub]² [u]φ[/u] + cos [u]φ[/u] . D[sub]t[/sub]² [u]s[/u] + sin [u]φ[/u] . D[sub]t[/sub] [u]φ[/u] . D[sub]t[/sub] [u]s[/u] = — [u]g[/u] sin [u]φ[/u]
+
+[u]h[/u] D[sub]t[/sub]² [u]φ[/u] + D[sub]t[/sub]² [u]s[/u] = — [u]C[/u]/[u]M[/u] [u]s[/u].
+
+Mais l'amplitude de [u]s[/u] multipliée par celle de [u]φ[/u], et divisée
+par [u]h[/u], donne un nombre insignifiant. De plus, l'effet d'une varia-
+tion de l'amplitude de [u]φ[/u] doit être insensible sur la correction
+pour la flexion. C'est pourquoi l'on peut écrire
+
+[u]l[/u] D[sub]t[/sub]² [u]φ[/u] + D[sub]t[/sub]² [u]s[/u] = — [u]g[/u] [u]φ[/u]
+[u]h[/u] D[sub]t[/sub]² [u]φ[/u] + D[sub]t[/sub]² [u]s[/u] = — [u]C[/u]/[u]M[/u] [u]s[/u].

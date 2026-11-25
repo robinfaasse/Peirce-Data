@@ -1,0 +1,28 @@
+Other formulae are the following, which the student
+can prove by translating them into the other notation.
+
+$$l \dagger (b \dagger s) = (l \dagger b) \dagger s$$
+$$(l b) s = l (b s).$$
+
+The most important formulae are the following two:
+$$\frac{l (b \dagger s)}{(l \dagger b) s} | \frac{l l \dagger s}{l \dagger l s}$$
+
+We have also
+$$l s + b s = (l + b) s$$
+$$(l \cdot b) \dagger s = (l \dagger s) \cdot (b \dagger s)$$
+[del]$$(l \cdot b) s = \Pi_p \{ l (s \cdot p) + b (s \cdot \bar{p}) \}$$[/del]
+[del]$$l (b \cdot s) = \Pi_p \{ (l \cdot p) b + (l \cdot \bar{p}) s \}$$[/del]
+$$\overline{l + b} = \bar{l} \ \bar{b} \qquad \overline{l b} = \bar{l} \dagger \bar{b}$$
+
+For $0, \infty, 1, \top$, we have the following
+
+$$\begin{array}{c c}
+l \dagger \infty = \infty, & l 0 = 0, \\
+\infty \dagger l = \infty, & 0 l = 0, \\
+l \dagger \top = l, & l 1 = l, \\
+\top \dagger l = l, & 1 l = l,
+\end{array}$$
+
+The following inferences are highly important
+
+$$\therefore \begin{array}{c} \mathbf{0} \\ l \dagger \bar{l} \end{array} \qquad \therefore \begin{array}{c} l \bar{l} \\ \top \end{array}.$$

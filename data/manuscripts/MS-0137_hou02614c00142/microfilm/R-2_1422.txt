@@ -1,0 +1,30 @@
+[marginalia]
+Topics
+[u]29[/u]
+[/marginalia]
+
+[marginalia]
+To the Printer
+All l.c. letters in algebraic expressions to be in Italics unless otherwise indicated
+[/marginalia]
+
+([u]Text resumed[/u])
+
+[pn]1[/pn]
+
+[u]A[/u]·[u]B[/u] = [u]A[/u] + [u]B[/u] - [u]A[/u]·[u]B[/u].
+
+where [u]A[/u]·[u]B[/u] denotes what is common to [u]A[/u] and [u]B[/u].
+
+[u]A[/u]·[u]B[/u]·[u]C[/u] = [u]A[/u] + [u]B[/u] - [u]A[/u]·[u]B[/u] - [u]B[/u]·[u]C[/u] - [u]C[/u]·[u]A[/u] + [u]A[/u]·[u]B[/u]·[u]C[/u] etc.
+
+Let us apply this [del]foo[/del] last formula to Fig. 4, which represents a disk divided into three mutually adjacent surfaces, [u]r[/u]₁, [u]r[/u]₂, and [u]r[/u]₃, which [del]are[/del] come together in pairs on the lines, [u]q[/u]₁, [u]q[/u]₂, [u]q[/u]₃, which have the common point, [u]p[/u], and the distinct [del]extremities[/del] [ins]extremities[/ins] [u]p[/u]₁, [u]p[/u]₂, [u]p[/u]₃. The formula will be
+
+[marginalia]
+[fig]Disk divided into three sectors with labels[/fig]
+Fig. 4
+[/marginalia]
+
+[u]r[/u]₁·[u]r[/u]₂·[u]r[/u]₃ = [u]r[/u]₁ + [u]r[/u]₂ + [u]r[/u]₃ - [u]q[/u]₁ - [u]q[/u]₂ - [u]q[/u]₃ - [u]p[/u]₁ - [u]p[/u]₂ - [u]p[/u]₃ + [u]p[/u].
+
+Accepting this formula, as the Census-Theorem requires us to do, we cannot regard [u]q[/u]₁, [u]q[/u]₂, [u]q[/u]₃, as ordinary lines of the large disk. For this disk may be regarded as the aggregate of its ordinary lines. Therefore the census-number [ins]of an ordinary line[/ins] must be regarded as an infinitesimal of an infinite order, or as zero. But [u]q[/u]₁, [u]q[/u]₂, [u]q[/u]₃ are singular lines, namely, edges. Now if the census-numbers of [u]q[/u]₁, [u]q[/u]₂, [u]q[/u]₃, were zero, on the same principle, the census-numbers of the [u]p[/u]'s must

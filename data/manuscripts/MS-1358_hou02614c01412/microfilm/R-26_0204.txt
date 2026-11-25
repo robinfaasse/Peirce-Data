@@ -1,0 +1,26 @@
+[pn]3[/pn]
+
+Minton's Bridge [date]1888 Oct 28[/date]
+
+Energy due to the couplers at $-N$ and $+N$
+$\frac{1}{2} \beth \left\{ \theta_{+N}^{2} + \theta_{-N}^{2} \right\}$
+
+$\underline{\theta_{-N}} = b [del]+[/del] [ins]+[/ins] 2cN = b' + 2c'I + c(-2I - 2N)$
+$\theta_{+N} = b'' + 2cN = b' + 2c'J + c''(-2J + 2N)$
+
+$\theta_{-N}^{2} = b'^{2} + [del]2[/del] [ins]4[/ins] b'c'I + b'c(-4I - 4N) + c'^{2} 4I^{2} + c'c(-8I^{2} - 8IN)$
+[ins]$+ c^{2}(4I^{2} + 8IN + 4N^{2})$[/ins]
+
+$\theta_{+N}^{2} = b'^{2} + b'c' [del]4[/del] [ins]4[/ins] J + b'c''(-4J + 4N) + c'^{2} 4J^{2} + c'c''(-8J^{2} + 8JN)$
+[ins]$+ c''^{2} 4(N - J)^{2}$[/ins]
+
+$\underline{\frac{1}{2} \{ \theta_{-N}^{2} + \theta_{+N}^{2} \}} = b'^{2} + b'c' 2(I+J) + [del]b'c[/del] [ins]b'c[/ins] (N+I) + [del]2[/del] [ins]2[/ins] b'c''(N-J)$
+$+ [del]4[/del] [ins]2[/ins] c'^{2}(I^{2}+J^{2}) - 4c'c I(N+I) + 4c'c'' J(N-J) + c^{2} [del]2[/del] [ins]2[/ins] (N+I)^{2} + c''^{2} 2(N-J)^{2}$
+
+$\left( \frac{4E}{(R-N)(1+\frac{N^{2}}{R^{2}})^{\frac{3}{2}}} + 2K \right) \xi - \frac{4 \frac{N}{R} E}{(R-N) \text{etc}} a' = - c' \frac{2 \frac{N}{R} E}{R-N \text{etc}} (2N I - 2N J + I^{2} + J^{2}) \text{etc}$
+
+$\frac{-4 \frac{N}{R} E}{(R-N) \text{etc}} \xi + \left( \frac{4 \frac{N^{2}}{R^{2}} E}{(R-N) \text{etc}} + 2 \Omega \right) a' = N'$
+
+$\left( \frac{4E}{R-N \text{etc}} + 2K \right) \left( \frac{4 \frac{N^{2}}{R^{2}} E}{(R-N) \text{etc}} + 2 \Omega \right) - [del]\div[/del]$
+
+$2 \frac{4E}{(R-N) \text{etc}} \left( K \frac{N^{2}}{R^{2}} + \Omega \right) + 4 \Omega K = N \left( \frac{4 \frac{N^{2}}{R^{2}} E}{R-N \text{etc}} + N' \frac{4 \frac{N}{R} E}{R-N^{2}} [ins]2 \Omega[/ins] \right)$

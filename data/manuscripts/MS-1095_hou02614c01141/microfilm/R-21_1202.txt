@@ -1,0 +1,20 @@
+$$\operatorname{cosec}^{2}(\alpha+\beta) = -\frac{1}{x_{1}^{2}} \frac{(s^{2}-x_{1}^{2})(q^{2}-x_{1}^{2})}{(s-q)^{2}}$$
+
+$$\begin{aligned}
+& \frac{-2sqx^{2} + 2sqx^{2}}{\frac{s^{2}q^{2} - s^{2}x_{1}^{2} - q^{2}x_{1}^{2} + x_{1}^{4}}{s^{2}x^{2} - 2sqx^{2} + q^{2}x^{2}}} \\
+& \frac{(sq-x_{1}^{2})^{2}}{(s-q)^{2}} - 1
+\end{aligned}$$
+
+$$-x_{1}^{2}\operatorname{cosec}^{2}(\alpha+b) = \frac{(s-q+q-x)(s+x)(q^{2}-x_{1}^{2})}{(s-q)^{2}}$$
+
+$$= \left\{ \frac{(s+x)(q^{2}-x_{1}^{2})}{s-q} \right\} + \left\{ \frac{(q-x_{1})^{2}(s+x)(q+x_{1})}{(s-q)^{2}} \right\}$$
+
+$$\left\{ \frac{(s-q+q+x)(q^{2}-x_{1}^{2})}{s-q} \right\} + \left\{ \frac{(q-x_{1})^{2}([del]s-q+q[/del] [ins]s-q+q[/ins] +x)(q+x_{1})}{(s-q)^{2}} \right\}$$
+
+$$1 + \frac{(q+x_{1})^{2}(q-x)}{s-q} + \frac{(q-x_{1})^{2}(q+x_{1})}{s-q} + \frac{(q^{2}-x_{1}^{2})^{2}}{(s-q)^{2}}$$
+
+$$=$$
+
+$$\begin{aligned}
+& s^{2}-2sq+q^{2}
+\end{aligned}$$

@@ -1,0 +1,26 @@
+[pn]31[/pn] [del](i_l i_m) i_n = \sum_r [l,m,r] \sum_s [r,n,s] i_s[/del] $(i_l i_m) i_n = \sum_r [l,m,r] i_r i_n =$
+$\sum_r [l,m,r] \sum_s [r,n,s] i_s$. By the association principle,
+$i_l (i_m i_n) = (i_l i_m) i_n$. Therefore
+$\sum_p [m,n,p] \sum_q [l,p,q] i_q = \sum_r [l,m,r] \sum_s [r,n,s] i_s$
+But owing to the independence of the units, this cannot be unless
+the two sums the one according to $q$ and the other according to $s$ are
+equal term by term; so that, putting $s=q$,
+$\sum_p [m,n,p] [l,p,q] = [del]\sum[/del] \sum_r [l,m,r] [r,n,q]$
+which is another expression of the associative principle.
+
+I will now create a set of symbols $A, I_1, I_2, I_3$ etc one more in
+multitude than the set of independent units $i_1, i_2, i_3$ etc. But
+I do not define them at all, further than to say that they can [ins]apart[/ins] be mul-
+tiplied by numbers, and the products, or any of them, can be added, and
+one such sum can be subtracted from another. I will further
+create a set of symbols
+$(A:I_1), (A:I_2), (A:I_3)$ etc,
+$(I_1:A), (I_2:A), (I_3:A)$ etc,
+$(I_1:I_1), (I_1:I_2), (I_1:I_3)$ etc,
+$(I_2:I_1), (I_2:I_2), (I_2:I_3)$ etc,
+$(I_3:I_1), (I_3:I_2), (I_3:I_3)$ etc,
+etc.
+and of these I will only say that they can be multiplied by numbers and
+can be multiplied [u]into[/u] the symbols $A, I_1, I_2, I_3$ etc. and the
+products can be added, and such sums can be subtracted one
+from another. By multiplying [u]into[/u], I mean that when the com-

@@ -1,0 +1,49 @@
+$$dz = \frac{Z}{R} \frac{\sqrt{(2Z-z)z}}{Z-z} (dr)$$
+
+$$(dz)^2 = \left(\frac{Z}{R}\right)^2 \frac{(2Z-z)z}{(Z-z)^2} (dr)^2$$
+
+[del]$(dr)^2 + (dz)^2 = \left[ 1 + \left(\frac{Z}{R}\right)^2 \frac{(2Z-z)z}{(Z-z)^2} \right] dr^2$[/del]
+
+[del]$\left[ \frac{Z}{R} \right] r = $[/del]
+
+$$1 - \left(\frac{r}{R}\right)^2 = (z/Z)^2$$
+
+$$-\frac{2r}{R^2} dr = + \frac{2z}{Z^2} dz$$
+
+[del]$-\frac{2r}{R^2} dr = \frac{1}{RZ} \sqrt{R^2-r^2} dz$[/del]
+
+$$dr = - \frac{R^2}{Z^2} \frac{z}{2r} dz$$
+
+$$= - \frac{R}{z} \sqrt{R^2-r^2}$$
+
+$$\frac{z}{Z} = \sqrt{1-\frac{r^2}{R^2}}$$
+
+$$= \frac{1}{R} \sqrt{R^2-r^2}$$
+
+$$z = \frac{Z}{R} \sqrt{R^2-r^2}$$
+
+$$\left(\frac{r}{R}\right)^2 + \left(\frac{z}{Z}\right)^2 = 1$$
+
+$$\frac{2r dr}{R^2} = - \frac{2z dz}{Z^2}$$
+
+[del]$2r dr = - \frac{R^2}{Z^2} 2z dz$[/del]
+
+$$= - \frac{R}{Z} \sqrt{R^2-r^2} dz$$
+
+$$dz = - \frac{Z}{R} \frac{r}{\sqrt{R^2-r^2}} dr$$
+
+$$(dz)^2 = \left(\frac{Z}{R}\right)^2 \frac{r^2}{R^2-r^2} (dr)^2$$
+
+[del]$\frac{z}{Z} dr$[/del]
+
+$$\frac{z}{Z} = \sqrt{1-\frac{r^2}{R^2}}$$
+
+$$z = \frac{Z}{R} \sqrt{R^2-r^2}$$
+
+$$\frac{z}{Z}$$
+
+$$(dr)^2 + (dz)^2 = \left( 1 + \frac{Z^2}{R^2} \frac{r^2}{R^2-r^2} \right) (dr)^2 = \frac{R^4 - R^2 r^2 + Z^2 r^2}{R^2(R^2-r^2)} = \frac{R^2-r^2 + \frac{Z^2}{R^2} r^2}{R^2-r^2}$$
+
+$$= \left( 1 + Z^2 \frac{(r/R)^2}{1-(r/R)^2} \right) (dr)^2$$
+
+$$\frac{dr^2 + dz^2}{r^2} = \left( \frac{1}{r^2} + \frac{Z^2}{R^2(R^2-r^2)} \right) dr^2 = \frac{R^2-r^2 + Z^2 r^2}{r^2(R^2-r^2)}$$

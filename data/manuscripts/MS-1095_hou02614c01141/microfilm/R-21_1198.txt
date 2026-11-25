@@ -1,0 +1,22 @@
+[del]s³[/del] [ins]b³W³(1+3\frac{c}{bW}i) = b³W³[/ins]
+s = bW + ci = bW(1 + \frac{c}{bW}i)
+q = bW⁻¹ - ci = bW⁻¹(1 - \frac{cW}{b}i)
+s⁻¹ = b⁻¹W⁻¹(1 - \frac{c}{bW}i) = b⁻¹W⁻¹ - \frac{c}{b²W²}i
+s⁻² = b⁻²W⁻²(1 - 2\frac{c}{bW}i) = b⁻²W⁻² - 2\frac{c}{b³W³}i
+s⁻³ = b⁻³W⁻³(1 - 3\frac{c}{bW}i) = b⁻³W⁻³ - 3\frac{c}{b⁴W⁴}i
+s² = b²W²(1 + 2\frac{c}{bW}i) = b²W² + 2bcWi
+sq = b²(1 + \frac{c}{b}(\frac{1}{W}-W)i) = b² + bc(\frac{1}{W}-W)i
+s⁻¹q = W⁻²(1 - \frac{c}{b}(W+\frac{1}{W})i) = W⁻² - \frac{c}{b}(\frac{1}{W}+\frac{1}{W³})i
+s²q = b³W(1 + \frac{c}{b}(\frac{2}{W}-W)i) = b³W + b²c(2-W²)i
+q = b³W⁻³(1 - 3\frac{c}{b}Wi) = b³W⁻³ - 3b²cW⁻²i
+q² = b²W⁻²(1 - 2\frac{cW}{b}i) = b²W⁻² - 2bcWi
+
+E
++2Cb² + 2Cbc\frac{1}{W}i - 2CbcWi + Bb⁻²W⁻² + 2B\frac{c}{b³}\frac{1}{W³}i
++Hci - 2Cbc\frac{1}{W}i + HbW + Cb²W⁻² - 2A\frac{c}{b³}\frac{1}{W³}i A
++GGb²c - 2A\frac{c}{b}\frac{1}{W}i + 3Gb³W + 2AW⁻² - 3bcWi
++3Gb²cW⁻² + Kb⁻³\frac{1}{W³}i
+-Gb³\frac{1}{W³}i
+
+-3K\frac{c}{b⁴}\frac{1}{W⁴}i
+[del]+3Gb²c[/del]

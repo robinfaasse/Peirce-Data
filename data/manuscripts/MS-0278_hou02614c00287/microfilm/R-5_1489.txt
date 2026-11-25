@@ -1,0 +1,65 @@
+[del]Case[/del]
+$x_0 y_0 + x_1 y_1 + x_2 y_2 + x_3 y_3 = 1$
+[u]Case 000[/u]
+$x_3 + y_3 = 1$
+[u]Case 0000[/u]
+$x_0 = 1 \quad y_0 = 1$
+$x_1 = 0 \quad y_1 = 1$
+$x_2 = 0 \quad y_2 = 1$
+$x_3 = 0 \quad y_3 = 1$
+[del]$x_4 + y_4 = 1$[/del]
+[u]Case 1000[/u]
+$x_0 = 1 \quad y_0 = 1$
+$x_1 = 0 \quad y_1 = 1$
+$x_2 = 0 \quad y_2 = 1$
+$x_3 = 1 \quad y_3 = 0$
+[del]$x_4 + y_4 = 1$[/del]
+[u]Case 0100[/u]
+$x_0 = 1 \quad y_0 = 1$
+[del]$x_1 = 0 \quad y_1 = 1$[/del]
+[del]$x_2 = 0 \quad y_2 = 1$[/del]
+[del]$x_3 + 1 + y_3 = 1$[/del]
+[del]Case 0100[/del]
+[del]$x_3 = 0 \quad y_3 = 1$[/del]
+[u]Case 1100[/u]
+[del]$x_3 + 1 + y_3 = 0$[/del]
+$x_0 = 1 \quad y_0 = 1$
+$x_1 = 0 \quad y_1 = 1$
+$x_2 = 1 \quad y_2 = 0$
+$x_3 = 0 \quad y_3 = 0$
+
+[u]Case [del]0001[/del] 0011[/u]
+$x_3 + [del]1[/del] + y_3 = 1$
+$x_0 = 1 \quad y_0 = 1$
+$x_1 = [del]0[/del] \quad y_1 = 0$
+$x_2 = 0 \quad y_2 = 1$
+$x_3 = 0 \quad y_3 = 0$
+[u]Case [del]1001[/del] 1011[/u]
+$x_3 + y_3 = 1$
+[u]Case 0111[/u]
+$x_0 = 1 \quad y_0 = 1$
+$x_1 = 1 \quad y_1 = 0$
+$x_2 = 1 \quad y_2 = 0$
+$x_3 = 0 \quad y_3 = 1$
+[u]Case 1111[/u]
+$x_0 = 1 \quad y_0 = 1$
+$x_1 = 1 \quad y_1 = 0$
+$x_2 = 1 \quad y_2 = 0$
+$x_3 = 1 \quad y_3 = 0$
+
+$x_0 y_0 + x_1 y_1 + x_2 y_2$
+$+ x_3 y_3 + x_4 y_4 = 1$
+[u]Case 0001[/u]
+$x_4 + y_4 = 1$
+[u]Case 00001[/u]
+$x_0 = 1 \quad y_0 = 1$
+$x_1 = 0 \quad y_1 = 1$
+$x_2 = 0 \quad y_2 = 1$
+$x_3 = 0 \quad y_3 = 1$
+$x_4 = 0 \quad y_4 = 1$
+[u]Case 10001[/u]
+$x_0 = 1 \quad y_0 = 1$
+$x_1 = 0 \quad y_1 = 1$
+$x_2 = 0 \quad y_2 = 1$
+$x_3 = 0 \quad y_3 = 1$
+$x_4 = 1 \quad y_4 = 0$

@@ -1,0 +1,21 @@
+[pn]113r[/pn]
+
+[u]Theorems[/u]
+
+[del]Notation[/del] [ins]Relation[/ins] $X \prec Y$ means $X$ [del]may be immediately transformed into[/del] [ins]yields (however it is written)[/ins] $Y$.
+
+X. [del]Any unenclosed part of a graph may have two ovals drawn round it, and two ovals one enclosing only the other and its contents may be erased, however enclosed.[/del]
+
+[u]Proof[/u]. $1^{\text{st}}$, let $A$ be any graph.
+Then, by I, $A \prec \text{((A))}$
+$\therefore$ by V, $A \prec \text{(A)}$
+$\therefore$ by IV, [del]Any unenclosed part of a graph may be doubly enclosed,[/del] and $AB \prec A\text{(B)}$.
+$2^{\text{nd}}$, let $A$ be any graph,
+then, by I, $\text{((A))} \prec A$
+$\therefore$ by VI, $\text{(A)} \prec A$
+$\therefore$ by IV, [del]Any two ovals one enclosing only the other and its contents may, if unenclosed be erased, and[/del] $\text{(A)}B \prec AB$.
+$3^{\text{rd}}$, let $A$ and $B$ be any two graphs, [del]then,[/del]
+by $1^{\text{st}}$ above, if $A \prec B$ since $B \prec \text{((B))}$, $A \prec \text{((B))}$ [ins]might be proved otherwise[/ins]
+and by V, if $A \prec B$, $\text{(B)} \prec \text{(A)}$
+and by IV whatever graph $C$ maybe
+if $AC \prec BC$ then $\text{(B)}C \prec \text{(A)}C$

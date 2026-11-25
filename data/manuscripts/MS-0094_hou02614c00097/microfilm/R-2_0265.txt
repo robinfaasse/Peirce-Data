@@ -1,0 +1,30 @@
+[pn]257[/pn]
+
+Proceeding as above, we shall find designations of X, Y, Z,
+W, and consequently also of all other points, as syzygies of
+P, Q, R, S.
+
+If the notation has the property we are inquiring about,
+then any three points A, B, C are on one ray provided
+there be some number, x, such that
+x A + (1-x) B = C,
+or
+x [A-B] = [C-B]
+
+Let A, B, C be expressed as syzygies [del]between[/del] of X, Y, Z, W, say
+[A] = [a X + b Y + c Z + d W],
+[B] = [e X + f Y + g Z + h W],
+[C] = [i X + k Y + l Z + m W].
+
+Then we must have, (substituting these three values in the last equation preceding them,)
+x [A-B] = x (a-e) X + x (b-f) Y + x (c-g) Z + x (d-h) W
+= [C-B] = (i-e) X + (k-f) Y + (l-g) Z + (m-h) W.
+
+This can only be if
+[u]a-e[/u] / i-e = [u]b-f[/u] / k-f = [u]c-g[/u] / l-g = [u]d-h[/u] / m-h
+
+But since d = 1 - a - b - c, [del]and[/del] h = 1 - e - f - g, and m = 1 - i - k - l,
+[del]if[/del] [ins]if[/ins] [u]a-e[/u] / i-e = [u]b-f[/u] / k-f = [u]c-g[/u] / l-g, it will necessarily be the case
+that [u]d-h[/u] / m-h has the same value. For this will be
+[u](a-e) + (b-f) + (c-g)[/u] / (i-e) + (k-f) + (l-g),
+and, by a theorem of proportions, this necessarily holds good.

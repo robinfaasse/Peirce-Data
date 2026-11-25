@@ -1,0 +1,64 @@
+[marginalia]
+[del]Half[/del] bisection of A
+[u]a[/u] A + [u]b[/u] B + [u]c[/u] C
+
+Bisection of B
+[u]a'[/u] A - ([u]a'[/u]+[u]c'[/u]) B + [u]c'[/u] C
+
+Bisection of C
+[u]a"[/u] A + [u]b"[/u] B - ([u]a"[/u]+[u]b"[/u]) C
+[/marginalia]
+
+[marginalia]
+Intersection of bisectors of A and B
+[/marginalia]
+
+[del]1 - p[/del]([u]b[/u]+[u]c[/u]) A + [del]p B[/del] [ins]p c C[/ins]
+= [u]q a'[/u] A + ([u]1 - q a' - q c'[/u]) B + [u]q c'[/u] C
+
+[u]q c'[/u] = [u]p c[/u]
+[u]q[/u] = [u]p[/u] [frac][u]c[/u][u]c'[/u][/frac]
+
+1 - [u]p[/u]([u]b[/u]+[u]c[/u]) = [u]q a'[/u] = [u]p[/u] [frac][u]a' c[/u][u]c'[/u][/frac]
+
+[u]p[/u] = [frac][u]c'[/u][frac][u]a' c[/u][u]c'[/u][/frac] + [u]b[/u] + [u]c[/u][/frac] = [frac][u]c'[/u][u]a' c + b c' + c c'[/u][/frac]
+
+[u]q[/u] = [frac][u]c[/u][u]a' c + b c' + c c'[/u][/frac]
+
+Intersection [frac][u]a' c[/u] A + [u]b c'[/u] B + [u]c c'[/u] C[u]a' c + b c' + c c'[/u][/frac]
+
+[line]
+
+[marginalia]
+[del]x + y + u - v = 0[/del]
+[del]x - y + u + v = 0[/del]
+[del]y - z + v - w = 0[/del]
+[del]z - w + w - u = 0[/del]
+[del]w + x + u - v = 0[/del]
+[/marginalia]
+
+P = (x-y)(y-z)(z-x)
+[Pi] = (u-v)(v-w)(w-u)
+S = [del]x[/del]
+
+a' = - [frac]u-v[y-z][/frac] P + [frac]x-y[u-v][/frac] [Pi] [del]+[/del] [ins]±[/ins] [del]y[/del] [ins]v[/ins] [root][frac]P [Pi][(y-z)(u-v)][/frac][/root]
+[frac]P[y-z][/frac] + [frac][Pi][u-v][/frac]
+
+b' = - [frac]v-w[x-y][/frac] P + [frac]y-z[u-v][/frac] [Pi] ± [del]d[/del] [ins]d[/ins] [root][frac]P [Pi][(x-y)(u-v)][/frac][/root]
+[frac]P[x-y][/frac] + [frac][Pi][u-v][/frac]
+
+c' = - [frac]w-u[x-y][/frac] P + [frac]z-x[u-v][/frac] [Pi] ± [del]b[/del] [ins][beta][/ins] [root][frac]P [Pi][(x-y)(u-v)][/frac][/root]
+[frac]P[x-y][/frac] + [frac][Pi][u-v][/frac]
+
+c' = - [frac]w-u[y-z][/frac] P + [frac]z-x[v-w][/frac] [Pi] ± [del]b[/del] [ins][beta][/ins] [root][frac]P [Pi][(y-z)(v-w)][/frac][/root]
+[frac]P[y-z][/frac] + [frac][Pi][v-w][/frac]
+
+a'c' = [frac]P [Pi][v-w][/frac] (z-x) + [frac]w-u[y-z][/frac] P [Pi] - [frac]z-x[u-v][/frac] P [Pi] - [frac]w-u[u-v][/frac] [Pi]^2 + [del]y[/del] [ins][beta][/ins] [root][frac]P [Pi][(y-z)(u-v)][/frac][/root] [del]+[/del] [ins]±[/ins] [del]y[/del] [ins][beta][/ins] [root][frac]P [Pi][(y-z)(v-w)][/frac][/root] [del]P [Pi][/del]
+
+([del]y[/del] [ins][beta][/ins] [root][frac]P [Pi][(y-z)(u-v)][/frac][/root] + [del]y[/del] [ins][beta][/ins] [root][frac]P [Pi][(y-z)(v-w)][/frac][/root]) [del]P [Pi][/del]
+
+[beta] y = [(x-u) - (y+v)] [(z+w) - (x+u)] = (x+u)[(z+w) - (x+u)] - (y+v)(z+w) - (x+u)^2
+
+= [del](w-u) P ± [frac]P [Pi][(u-v)(y-z)][/frac] + [frac]P [Pi][(v-w)(y-z)][/frac] ± (z-x) [Pi][/del]
+
+= [del](w-u) P ± [frac]P[y-z][/frac] (w-u) ± [frac][Pi][u-v][/frac] (w-u) ± [frac]P [Pi][(y-z)(u-v)][/frac] (z-x)[/del]

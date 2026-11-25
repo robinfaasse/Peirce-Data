@@ -1,0 +1,37 @@
+839
+
+$i - j$
+$j - k$
+
+$i^1 i^1 = i^1 (j-k) = j^1 - k^1 = i^{11}$ | $j^1 (k-i) = k^1 - i^1 = j^{11}$ | $k^1 \substack{i^{11} i^1 \\ = i^{11} \\ (i-j) \text{ } k^{11}}$
+$j^1 \text{ } k^1 - i^1 = j^{11}$ | $i^1 \text{ } i^1 - j^1 = k^{11}$ | $i^1 \text{ } i^{11}$
+$k^1 \text{ } i^1 - j^1 = k^{11}$ | $k^1 \text{ } j^1 - k^1 = i^{11}$ | $k^1$
+$l^1 \text{ } m^1 - n^1 = l^{11}$ | $l^1 \text{ } n^1 - l^1 = m^{11}$ | $l^1$
+$m^1 \text{ } n^1 - l^1 = m^{11}$ | $m^1 \text{ } l^1 - m^1 = n^{11}$ | $m^1$
+$n^1 \text{ } l^1 - m^1 = n^{11}$ | $n^1 \text{ } m^1 - n^1 = l^{11}$ | $n^1$
+____________________________________________________________________________________________________
+$i^1 l^1 = i^1 (m-n) = n^1 - m^1 = -l^{11}$ | $i^1 m^1 = i^1 (n-l) = l^1 - n^1 = -m^{11}$ | $i^1 n^1 = i^1 (l-m) = m^1 - l^1 = -n^{11}$
+$i^1 \text{ } m^1 - l^1 = -n^{11}$ | $i^1 \text{ } n^1 - m^1 = -l^{11}$ | $i^{11} \text{ } l-n = m^1$
+$k^1 \text{ } l^1 - n^1 = -m^{11}$ | $k^1 \text{ } m^1 - l^1 = -n^{11}$ | $k^1 \text{ } n-m = -l^1$
+$l^1 \text{ } k^1 - i^1 = -i^{11}$ | $l^1 \text{ } i^1 - k^1 = -j^1$ | $l^1 \text{ } j-i = -k^1$
+$m^1 \text{ } l^1 - i^1 = -k^{11}$ | $m^1 \text{ } k^1 - i^1 = -i^{11}$ | $m^1 \text{ } i-k = -j^1$
+$n^1 \text{ } i^1 - k^1 = -j^{11}$ | $n^1 \text{ } j-i^1 = -k^1$ | $n^1 \text{ } k-j = -i^1$
+
+$(j-k)l^1 \text{ } n^1 - m^1$
+$(k-i) \text{ } m^1 - l^1$
+$(i-j) \text{ } l^1 - n^1$
+$(m-n) \text{ } k^1 - i^1$
+$(n-l) \text{ } j^1 - i^1$
+$(l-m) j^1 + i^1 [del]j[/del] + y k^1 + z l^1$ | $x^1 z + 2 y z + 4 z^1$
+$n y^1 - m z^1 + x j^1 + [del]l n[/del]$ | $x y^1 + y z + 2 x y^1$
+$n y^1 - m z^1 - x j^1 [del]l n[/del]$ | $x y^1 + y z + 2 x y^1$
+$n [del]y^1 + m[/del] x z \int - 2 x \int x + \frac{1}{z} \frac{x^2+y^2}{x} + \frac{y^2+z^2}{y} k^1 - \frac{x^2+y^2}{z}$ | $x^1 \text{ } i - 2x \substack{ [del]y \text{ } z [/del] \\ y z + 2 y z \\ [fig]figure[/fig] }$
+$n + l - 2m \text{ } l+m-2n$ | $k x$ | $2 i - j - k$
+$m + 2n = n - l + 2m - n$ | $k x$ | $j + k - 2i$
+$l+m+n = -2l + m + n$
+$i + j = 2k$
+$2 i - j - k$
+
+$x y k^1 + i^{11} k x + \int x \sqrt{x^2+y^2} [del]m^{11}[/del]$ | $-x y [del]i^{11}[/del] \substack{ -x y \text{ } i^{11} \\ \frac{x^2+y^2}{z} i^{11} - y^2 y^2 }$
+$i^{11} m \sqrt{\frac{x^2+y^2}{z}} x + \int x \frac{y^2+z^2}{y} i^{11} + y \sqrt{\frac{x^2+y^2}{x}}$
+$i^{11} m \frac{x^2+y^2}{2} + y \sqrt{x^2+y^2} i^{11} + y \frac{x^2+y^2}{2}$

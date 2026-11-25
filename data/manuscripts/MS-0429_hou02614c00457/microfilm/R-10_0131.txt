@@ -1,0 +1,17 @@
+[pn]117[/pn]
+
+[u]H[/u][u]m[/u] = [u]y[/u][u]i[/u] + [u]x[/u][u]j[/u] + [u]z[/u][u]k[/u] + [u]r[/u][u]l[/u] + [u]q[/u][u]m[/u] + [u]s[/u][u]n[/u]
+
+[u]m[/u][u]H[/u] = [u]y[/u][u]i[/u] + [u]z[/u][u]j[/u] + [u]x[/u][u]k[/u] + [u]s[/u][u]l[/u] + [u]q[/u][u]m[/u] + [u]r[/u][u]n[/u]
+
+and we must have [u]x[/u] = [u]z[/u]. Hence,
+
+[u]x[/u] = [u]y[/u] = [u]z[/u]          [u]q[/u] = [u]r[/u] = [u]s[/u]
+
+and [u]x[/u] = [ins]±[/ins] [u]q[/u]. The only two idempotents, or self-squares, which answer these requirements are
+
+[u]H[/u] = [ins]1[/ins]/[del]6[/del] [ins]6[/ins] ( [u]1[/u] + [u]j[/u] + [u]k[/u] + [u]l[/u] + [u]m[/u] + [u]n[/u] )
+
+[u]M[/u] = [u]1[/u]/[u]6[/u] ( [u]1[/u] + [u]j[/u] + [u]k[/u] - [u]l[/u] - [u]m[/u] - [u]n[/u] )
+
+With these we get the multiplication-table here shown

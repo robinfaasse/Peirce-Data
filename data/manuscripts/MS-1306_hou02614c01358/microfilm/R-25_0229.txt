@@ -1,0 +1,30 @@
+Ptolemy used partly Egyptian
+partly Chaldee fractions
+
+[fig]Circle with horizontal lines[/fig] [fig]Circle with two dots[/fig]
+
+[fig]Circle with letter A inside[/fig]
+
+$$\frac{x^2}{A^2} + \frac{y^2}{B^2} = 1$$
+
+$$\sqrt{(x-E)^2 + y^2} + \sqrt{(x+E)^2 + y^2} = a$$
+
+[del]$(x-E)^2 + (x+E)^2 + 2y^2 + 2\sqrt{(x^2-E^2)^2 + 2(x^2+E^2)y^2 + y^4}$[/del]
+
+[del]$= \frac{a^2}{4} - 2x^2 - 2E^2 - 2y^2$[/del]
+
+[del]$4 - 2E^2x^2 + 4 + 2 + 2E^2y^2 + 4$[/del]
+
+$$a^4 - a^2E^2 - a^2x^2 - a^2y^2 + 2E^2x^2 + 2E^2y^2$$
+
+[del]$(4E^2 - a^2)y^2$[/del]
+
+$$(a^2 - 4E^2)x^2 + a^2y^2 = \frac{a^2}{4}(a^2 - 4E^2)$$
+
+$$\frac{x^2}{\frac{1}{4}a^2} + \frac{y^2}{\frac{1}{4}a^2 - E^2} = 1$$
+
+[fig]Ellipse with axes and inscribed triangle[/fig]
+
+When $x=E$
+[del]$y = \sqrt{(\frac{1}{4}a^2 - E^2)(1 - \frac{E^2}{\frac{1}{4}a^2})}$[/del]
+[del]$y = A(1 - \frac{E^2}{A^2})$[/del]

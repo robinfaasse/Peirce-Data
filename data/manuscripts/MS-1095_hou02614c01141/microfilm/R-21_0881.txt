@@ -1,0 +1,17 @@
+If the pendulum is a reversible one, and
+[del]if[/del] we put accents to refer to the position
+with heavy end up. Then we have
+$$m'_0 = m \qquad m' = m_0$$
+$$\gamma'_0 = \gamma_0 \qquad \gamma' = \gamma_0$$
+$$L = H + H'$$
+$$r' = H + H' - r$$
+$$h'_0 = H + H' - r - h$$
+[del]$$h' = H + H' - h_0$$[/del]
+$$h' = r - h_0$$
+$$\frac{\Delta T'}{T'} = \frac{1}{2} \left\{ \frac{(m \frac{H+H'-r-h}{r-h_0} - m_0)((r-h_0)^2 + \gamma_0^2) + m_0(H+H'-r)(\frac{\gamma_0^2}{r-h_0} + r + h_0)}{MH'L} \right.$$
+$$\left. + \frac{m_0(r-h_0)}{MH'} \right\} \psi$$
+
+[del]$$\frac{H \Delta T - H' \Delta T'}{T} = \frac{1}{2} \left\{ \frac{m_0(h_0^2 + \gamma_0^2 + r^2 + (2r+h)L + \frac{h_0}{h} \gamma^2)}{} \right\}$$[/del]
+$$\frac{H \Delta T - H' \Delta T'}{T} = \frac{1}{2} \left\{ \frac{m_0 [h_0(3r+h+\gamma^2) + L(r-h_0) + \frac{2r-h_0-L}{r-h_0} \gamma_0^2]}{ML} \right.$$
+$$\left. + m
+ [r^2 - h^2 - r h_0 - h h_0 - L(r-h_0) + H+H' \right.$$

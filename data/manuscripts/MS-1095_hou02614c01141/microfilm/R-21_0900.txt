@@ -1,0 +1,54 @@
+[fig]Diagram of fluid flow lines around circles and curves[/fig]
+
+[marginalia]
+[del]y² = ax[/del]
+x₀ = h
+[/marginalia]
+
+[del]b = y² - h² - h/2 (1 + x - x₀/y) + y² (1 - x/y) ?[/del]
+b = (x + y²/h - 1) (ay² - y)
+b = (x + y²/h - 1) (ay² + y) (y - h - x)
+
+D_y x = (x + y²/h - 1) x / 2y² / (x + y²)
+D_y y = -(y²/h + x/1 + 1) h / 2y² / (x + y²)
+
+[del]2y² / (x + y²) + 1[/del]
+D_y x = (x + y²/h - 1) x / 2y² / (x + y²) + y²/h + x/1 - 1
+D_y y = (y²/h + x/1 + 1) h / 2y² / (x + y²) - y²/h + x/1 + 1
+
+[fig]Vector diagram showing x and y components[/fig]
+
+- y²/h + x/1 - 1 / y = - x - 1 / y
+
+y = x_₀ - x
+
+x³ + y²/h - x = dx/dt + dy/dt
+v = (x + y²/h - 1) x
+
+i (x + y²/h - 1) x [circle with dot] (y²/h + x/1 + 1) h [circle with dot] = x + x⁻¹ / [circle with dot]
+i (x + y²/h - 1) x + (y²/h + x/1 + 1) h = x + x⁻¹
+
+x - iy = x + y²/h / x² + y²
+x + iy = h [circle with dot] ; x⁻¹ = y² [circle with dot]
+x = [circle with dot] [circle with dot] ; y = [circle with dot] [circle with dot]
+
+ξ = (y + x/h) x [del]D_y x[/del]
+[del]ξ = y²/h + x/1 + 1[/del]
+[del]0 = y²/h + x/1 + 1[/del]
+[del]1 = ξx - hη[/del]
+[del]0 = hx + ξy[/del]
+[del]1 = ξx - hη[/del]
+[del]0 = hx + ξy[/del]
+[del]1 = ξx - hη[/del]
+[del]0 = hx + ξy[/del]
+i(hx + ξy) + ξx - hη = 1
+
+y = x + y²/h
+-x + y²/h + y = h
+a = h_₀x + ξhx
+1 = h_₀y + ξx
+0 = hx + ξy
+
+y/y_₀ [circle with dot] x [circle with dot] = [circle with dot] / x + x⁻¹
+
+y + xi / 1 = η + ξi

@@ -1,0 +1,11 @@
+CHAPTER II. The Elastic Curve.
+
+§ . Instead of a cord perfectly pliable, as hitherto, we now imagine an elastic ribbon, or line restricted to two dimensions. Calling $E$ the constant elasticity, and $V$ the positional energy
+$$V = \int e \left(\frac{\partial \tau}{\partial s}\right)^2 ds.$$
+Suppose the particles equidistant, but infinitely near one another to be numbered in their order. Then $s_n$ is invariable for a given value of $s$; that is, we do not take elongation or compression into account. But $\tau_n$ is determined by the condition that
+$$\frac{\delta V}{\delta \tau_n} = 0.$$
+The ribbon would thus spring out straight, $\partial \tau / \partial s$ being reduced to zero. But we will add the condition that the ends shall have fixed positions. That is,
+$$x_N - x_0 = \int_{s_0}^{s_N} \cos \tau . ds = \text{Constant}$$
+$$y_N - y_0 = \int_{s_0}^{s_N} \sin \tau . ds = 0.$$
+
+It will be observed that $\tau$ refers to a stretch between neighboring particles, while $s$ and $e$ refer to particles. As before we will suppose the $n\text{th}$ stretch to be between the $n\text{th}$ and $(n+1)\text{th}$ particles.

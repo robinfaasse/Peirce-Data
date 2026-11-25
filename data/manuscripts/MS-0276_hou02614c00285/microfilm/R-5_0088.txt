@@ -1,0 +1,41 @@
+[fig]Diagram of a circle with chords and labels A, B, C, P, r, x, y[/fig]
+
+$\sqrt{A^2 - p^2} - q = C$
+$\sqrt{C^2 - p^2} + q = a$
+$A^2 a + C^2 c = r^2 (a+c) + ac(a+c)$
+$q = \sqrt{r^2 - p^2}$
+
+[fig]Diagram of a circle with a concentric inner circle[/fig]
+
+$A^2 \left( \sqrt{C^2 - p^2} + \sqrt{r^2 - p^2} \right) + C^2 \left( \sqrt{A^2 - p^2} - \sqrt{r^2 - p^2} \right)$
+$= \left( \sqrt{A^2 - p^2} + \sqrt{C^2 - p^2} \right) [del]\left( r^2 + \right)[/del] [ins]\left[ \begin{array}{l} + \sqrt{r^2 - p^2} \sqrt{A^2 - p^2} \\ - \sqrt{C^2 - p^2} \sqrt{r^2 - p^2} \end{array} \right][/ins]$
+
+---
+
+$A^2 \sqrt{C^2 - p^2} + C^2 \sqrt{A^2 - p^2}$
+$+ (A^2 - C^2) \sqrt{r^2 - p^2}$
+$= (A^2 - p^2) \sqrt{C^2 - p^2} + (C^2 - p^2) \sqrt{A^2 - p^2}$
+$+ (A^2 - p^2) \sqrt{r^2 - p^2} - (C^2 - p^2) \sqrt{r^2 - p^2}$
+$+ p^2 \sqrt{C^2 - p^2} + p^2 \sqrt{A^2 - p^2}$
+
+$= A^2 a + C^2 c$
+$= (a-c) (r^2 + ac)$
+$= \frac{(y^2 - q^2) (x+q) + (x^2 - q^2) (y-q)}{x+y}$
+$= \frac{(x-y) [del]\left( r^2 + \right)[/del] [ins]\left[ (x+q)(y-q) \right][/ins]}{x+y}$
+
+[marginalia]
+$p^2$ disappears
+[/marginalia]
+
+[marginalia]
+becomes
+$xy - pq + q^2$
+[/marginalia]
+
+[marginalia]
+[del]but must[/del]
+write $p$
+terms
+$q(y+x) (y-x)$
+$- xy (x-y)$
+[/marginalia]

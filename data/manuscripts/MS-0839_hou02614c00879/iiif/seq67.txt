@@ -1,0 +1,43 @@
+u = A:A + B:B + B:C + C:M + C:N + D:M + D:P + E:N + E:P + E:Q 839
+    + F:G + G:H + I:J + J:K + K:L + L:S + T:U + V:U
+    + W:X [del]X:Y[/del] [del]Y:Z[/del] + W:Y
+
+[del][fig]figure[/fig][/del]
+[u]u[/u] = A:A + B:B + C:B + G:F + H:G + I:K + J:I + K:J + M:C + N:C
+                                           + M:D + N:E
+    + P:D + Q:E + S:L + U:T + X:W + Y:W
+    + P:E             + U:V
+
+u[u]u[/u] = A:A + B:B + C:C + [del]C:D[/del] + [del]C:E[/del] + D:C + [del]D:D[/del] + [del]D:E[/del] + E:C + F:F
+                  + C:D               + D:D               + E:E
+                  + C:E               + D:E               + E:D
+
+    + G:G + I:I + J:J + K:K + L:L + T:T + V:T + W:W
+                                  + T:V + V:V
+
+Such a relation is necessarily equiparant
+[u]u[/u] =  A:A [del]+ A:B[/del]  + C:A + [del]D:A[/del]      u = A:A   B:A       D:A
+    + A:B                          A:B                 E:B   F:B
+          + B:C   C:D                      B:C   C:C   D:C
+                                           B:D   C:D         [del]E:D[/del]
+          + B:E         + D:E                    C:E   D:E         F:E
+                                       A:F                 E:F   F:F
+[u]__________________________________[/u]      [u]_________________________________[/u]
+[u]u[/u] =       B:A         D:A   E:A  [u]u[/u] =       B:B   C:A   D:B   E:A   F:A
+          B:B   C:B   D:B   E:B        A:C         C:B         E:C   F:C
+    A:C         C:C   D:C   E:C        A:D               D:D         F:D
+    A:D   B:D         D:D   E:D        A:E   B:E               E:E
+    A:E   B:E   C:E         E:E              B:F   C:F   D:F
+[u]__________________________________[/u]  u[u]u[/u] =   B:A   C:A   D:A   E:A   [del]F:A[/del]
+u[u]u[/u] = A:A   B:A   C:A   [del]D:A[/del]              A:B         C:B   D:B   E:B   F:B
+      A:B   B:B   C:B   D:B              A:C   B:C         D:C   E:C   F:C
+      A:C   B:C   C:C   [del]D:C[/del]              A:D   B:D   C:D         E:D   F:D
+      A:D   B:D   C:D   D:D              A:E   B:E   C:E   D:E   [del]E:E[/del]   F:E
+      A:E   B:E   C:E   D:E              A:F   B:F   C:F   D:F   E:F
+[u]__________________________________[/u]  [u]u[/u]u =   B:A   C:A   D:A   E:A   E:A
+[u]u[/u]u = A:A   B:A   C:A   D:A   E:A             B:B   C:B   D:B   E:B   F:B
+            B:B         D:B   E:B   A:B   B:C         D:C   E:C   F:C
+            B:C   C:C   D:C   E:C   A:C   B:D   C:D         E:D   F:D
+      A:D   [del]B:D[/del]   C:D   D:D   E:D   A:D   B:E   C:E   D:E         F:E
+      A:E   B:E   C:E   D:E   E:E   A:E   B:F   C:F   D:F   E:F
+                                    A:F

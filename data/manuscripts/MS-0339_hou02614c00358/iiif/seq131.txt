@@ -1,0 +1,25 @@
+58r
+Let $\varphi x = x + a$
+$\Delta(x+a) \equiv (x + \Delta x) + a - [del]\varphi[/del](x + a)$
+$\equiv \Delta x$
+
+Let $\varphi x = a, x$
+$\Delta(a,x) \equiv a, (x+\Delta x) - a, x$
+$\equiv a, \Delta x$
+
+Let $\varphi x \equiv 1-x$
+$\Delta(1-x) \equiv 1-(x+\Delta x) - (1-x)$
+$\equiv -\Delta x$
+
+Let $\varphi x = e^x$
+$\Delta e^x \equiv e^{x+\Delta x} - e^x$
+$\equiv e^x, e^{\Delta x} - e^x$
+$\equiv - e^x, (1 - e^{\Delta x})$
+
+Let $\varphi x \equiv x^a$
+$\Delta x^a \equiv (x+\Delta x)^a - x^a$
+
+$\Delta(\varphi x + \psi x) \equiv \varphi(x+\Delta x) + \psi(x+\Delta x) - (\varphi x + \psi x)$
+$\equiv \Delta \varphi x + \Delta \psi x$
+
+over

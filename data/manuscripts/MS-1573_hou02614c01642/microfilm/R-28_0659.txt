@@ -1,0 +1,24 @@
+[u]Battery Formulae[/u]
+
+The [u]power[/u] of a current is the amount of work performed by it in a unit of time. Denote this by P.
+
+The reduced length of a conductor is the integral for its whole length of the reciprocal of the product of its section by its conductibility. Call this R.
+
+The [u]electromotive force[/u] (E) in a conductor is the difference of tensions of electricity at its extremities. But if any source of electricity is included in the conductor the sudden changes of tension at that point is to be added in, to get the electromotive force.
+
+Letters subjacent to P, R, and E are to denote the conductor within which the current is which has such a power, reduced length of conductor, and electromotive force. [del]In these[/del] [ins]Thus[/ins] b, w, c subjacent will denote respectively battery, wires etc outside battery, and total circuit.
+
+If the battery is arranged in parallel rows of cells each containing the same number, and all the cells being equal, B may denote the number of rows and, D the number in a row. N may denote the total number of cells. P', R', E' may denote what would be the power, reduced length, and electromotive force if the battery consisted of but a single cell.
+
+From the above definitions of E and R, it follows that
+(1) $E_c = E'_c D$
+and that
+(2) $R_b = R'_b \frac{D}{B}$
+
+The following are the fundamental laws established by experiment
+(3) $\frac{E_w}{R_w} = \frac{E_c}{R_c}$ (Ohm)
+(4) $P_w = \frac{E_w^2}{R_w}$ (Joule)
+
+Hence $P_w = R_w \left(\frac{E_c}{R_b + R_w}\right)^2 = R_w \left(\frac{E'_c N}{R'_b D + R_w B}\right)^2$
+
+This is a maximum when (N being constant) when $\frac{R_w}{R'_b} = \frac{D}{B}$ and then $P_w = \frac{1}{R_w} \left(\frac{1}{2} E'_c N\right)^2$

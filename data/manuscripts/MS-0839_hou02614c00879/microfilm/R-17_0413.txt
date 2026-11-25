@@ -1,0 +1,28 @@
+1 $b l s w$		$1 \prec 2$
+2 $b l s + \overline{w}$
+3 $b (l s + \overline{w})$	$1 \prec 3 \prec 2$
+4 $b l (s + \overline{w})$	$1 \prec 4 \prec 3$
+5 $b l + \overline{s} w$		$4 \prec 5$
+6 $b (l + \overline{s} w)$	$4 \prec 6 \prec 5$
+7 $(b l + \overline{s}) w$	$1 \prec 7 \prec 5$
+8 $b (l + \overline{s}) w$	$1 \prec 8 \prec 7$	$8 \prec 6$
+9 $b l + \overline{s} + \overline{w}$	$5 \prec 9$
+10 $b (l + \overline{s}) + \overline{w}$	$8 \prec 10 \prec 9$
+11 $b (l + \overline{s} + \overline{w})$	[del]$8$[/del] [ins]$10$[/ins] $\prec 11 \prec$ [del]$9$[/del]
+12 $b + \overline{l} s w$	$11 \prec 12$
+13 $(b + \overline{l} s) w$	$13 \prec 12$
+14 $(b + \overline{l}) s w$	$14 \prec 13$
+15 [del]$b$[/del] $b + l s + \overline{w}$	$12 \prec 15$
+16 $(b + \overline{l}) s + \overline{w}$	$14 \prec 16 \prec 15$
+17 $b + \overline{l} (s + \overline{w})$	$14 \prec 17 \prec 15$	$13 \prec$
+18 $(b + \overline{l}) (s + \overline{w})$	$14 \prec 18 \prec 17$	$18 \prec 16$
+19 $b + \overline{l} + \overline{s} w$	$5 \prec 19$	$3 \prec 19$	$17 \prec 19$
+20 $b + (\overline{l} + \overline{s}) w$	[del]$20$[/del] [ins]$18$[/ins] $\prec 19$	$3 \prec 20$	$5 \prec 20$
+21 $(b + \overline{l} + \overline{s}) w$	$21 \prec 20$
+22 $b + \overline{l} + \overline{s} + \overline{w}$	[del]$b + \overline{l} +$[/del] [ins]$(\overline{l} + \overline{s}) w$[/ins]	$19 \prec 22$	$15 \prec 22$
+
+[fig]Network diagram with numbered nodes and directed edges[/fig]
+
+[fig]Simplified network diagram showing paths between numbered nodes[/fig]
+
+[fig]Complex directed graph with multiple paths and numbered nodes[/fig]

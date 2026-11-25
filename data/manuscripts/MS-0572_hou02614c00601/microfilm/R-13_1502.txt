@@ -1,0 +1,30 @@
+$dx$ defined as portion of $x$ so small as to satisfy same condition as if an individual
+
+Absolute individual an [u]ideal[/u] thing.
+
+Just as $(1+m)^n = 1 + mn$
+So we may take
+$(1+d)^n fx = fx + dfx \cdot n$
+
+If we put $n = \frac{1}{dx} \cdot h$
+$= fx + dfx \frac{1}{dx} \cdot h$
+$= fx + D_x fx \cdot h$     $D_x fx \cdot h = \sum_H (f(x+H) - fx)$
+$= f(x+h)$
+
+which is Taylor's Theorem.
+
+[u]Examples[/u]
+Develope $e^x$
+$d e^x = e^{x+dx} - e^x = e^x_0 e^{dx} - e^x = e^x_0 (e^{dx} - 1)$
+
+Now since $0^{-x} = 1-x$
+$0^x = 1+x$
+$0^{x-1} = x$
+$\log x = [del]x[/del] [ins]x[/ins] - 1$
+
+$= e^x_0 \log e^{dx} = e^x_0 \log e \cdot dx$
+$D_x e^x = e^x_0 \log e$
+
+Then by Maclaurin's Theorem
+$e^x = 0^D e^0 = e^0 + D_x e^0 x = e^0 + e^0_0 \log e \cdot x = 1 + (e-1)x$
+$= 1 - (1-e)x$

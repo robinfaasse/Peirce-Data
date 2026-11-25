@@ -1,0 +1,102 @@
+```
+[marginalia]
+[del]i+j+k[/del]
+[del]3i+k[/del]
+[del]10i-j-k[/del]
+[del]10i-j-k[/del]
+[del]10(i+j-k)[/del]
+[del]10(i-j-k)[/del]
+[del]10i+k[/del]
+[del]10i+k[/del]
+[/marginalia]
+
+$\frac{1}{\sqrt{3}} (i+j+k)$
+$\frac{1}{\sqrt{3}} (i-j-k)$
+$\frac{1}{\sqrt{3}} (-i+j-k)$
+$\frac{1}{\sqrt{3}} (-i-j+k)$
+
+[marginalia]
+j+k
+i-k
+i+k
+i+j
+[/marginalia]
+
+[marginalia]
+i-k
+i-k
+[/marginalia]
+
+$+B:A - A:B + D:C - C:D$
+$+C:A - D:B + A:C + B:D$
+$+D:A + C:B - B:C - A:D$
+
+$\frac{1}{\sqrt{3}} (i+j+k) \cdot xi+yj+zk$
+
+$-\frac{x+y+z}{\sqrt{3}}$
+
+$\frac{z-y}{\sqrt{3}} i + \frac{x-z}{\sqrt{3}} j + \frac{y-x}{\sqrt{3}} k$
+
+$x+y+z = 0$
+$-y+z = 1$
+$-x+z = 1$
+$+x-y = 1$
+
+$3z = 2$
+$-2y+2z = 3$
+$x = +\frac{2}{6}$
+$z = \frac{2}{3}$
+$y = -\frac{5}{6}$
+
+$6z = 4$
+$-6y+6z = 9$
+$6y = -5$
+
+$V_0$ vertices
+$E_1$ edges
+$F_2$ faces
+
+$K$ Cyclosis
+$\Pi$ Periphraxis
+$A$ Apery
+
+$K_2$ [del]K[/del] Census $A_k = E_0$
+$-E_1 + K_1$
+$+E_2 - K_2 + \Pi_2$
+$-E_3 + K_3 - \Pi_3 + A_3$
+
+Census for projective space = 0
+Since $E_3 = K_3 = \Pi_3 = A_3 = 1$
+
+Putting a sphere in it
+$E_3 = 2$ $K_3 = 1$ $\Pi_3 = 2$ $A_3 = 0$?
+
+$-2 + 1 - 2 - 0 = -3$
+
+$E_2 = 1$ $K_2 = 0$ $\Pi_2 = 1$
+$1 - 0 + 1 = 2$
+
+[fig]Two concentric circles[/fig]
+$E_2 = 2$ $K_2 = 1$ $\Pi_2 = 1$
+$2 - 1 + 1 = 2$
+
+[fig]Two concentric circles[/fig]
+$E_2 = 1$ $K_2 = 0$ $\Pi_2 = 1$
+$E_0 = 2$
+$2 - 1 + 1 = 2$
+
+[fig]Line segment with two endpoints[/fig]
+$E_1 = 1$ $K_1 = 0$
+$2 - 1 + 0 = 1$
+
+$E_1 = 2$ $K_1 = 0$
+$E_0 = 1$
+$1 - 2 = -1$
+
+[fig]Circle[/fig]
+spherical surface
+$E_2 = 1$ $K_2 = 0$ $\Pi_2 = 2$
+$E_2 = 2$ $K_2 = 1$ $\Pi_2 = 2$
+$E_2 = 2$ $K_2 = 0$ [del]$\Pi_2 = 2$[/del]
+$E_0 = 2$
+$2 - 2 + 2 = 2$

@@ -1,0 +1,11 @@
+This will subdivide the interval into ten parts. [u]Patentable feature No 6.[/u]
+
+In this way there is no difficulty in making numerical and trigonometrical scale-tables of a million divisions. It is perfectly practicable. Such a thing, equivalent to a 6 place table of logarithms would be used with extreme facility. Anybody who wanted to measure on it (merely adding and subtracting the numbers of the pages) could do so. Anybody who preferred to set down the numbers and use arithmetic (though this would be folly) could do so. [u]Patent this No 7.[/u]
+
+We have now to consider the management of the interpolation. Suppose [del]I[/del] we wish to calculate [del]$\frac{(A+a).(B+b)}{C+c}$[/del] where $A, B, C,$ are [ins]the[/ins] tabular numbers nearest to $A+a$, $B+b$, and $C+c$, respectively. We have
+
+$\frac{(A+a).(B+b)}{C+c} = \frac{AB}{C} + \frac{Ab}{C} + \frac{aB}{C} - [del]\frac{AB}{C'}[/del]$
+
+$+ \frac{ab}{C} - \frac{Ab}{C'} - \frac{aB}{C'} + \frac{AB}{C''}$
+
+where $C' = C \frac{C}{c}$ and $C'' = C' \frac{C}{c}$.

@@ -1,0 +1,55 @@
+[pn]34[/pn] [pn]35[/pn]
+
+Equations of Differences
+
+$u_{x+1} - A_x u_x = 0$
+$u_x = C A_{x-1} A_{x-2} \dots A_r$
+
+$u_{x+1} - A_x u_x = B_x$
+$u_x = A_{x-1} A_{x-2} \dots \left\{ \Sigma \frac{B_x}{A_x A_{x-1} \dots} + C \right\}$
+
+[u]V[/u] $(E-a)^{-i} a^x X = \left( \odot^D - a \right)^{-i} \odot^{x \log a} X$
+
+But $\Phi D \odot^{mx} = \Phi m \odot^{mx}$
+Which seems to mean $\begin{cases} D \odot^{mx} = m \odot^{mx} \\ D^2 \odot^{mx} = m^2 \odot^{mx} \\ D^n \odot^{mx} = m^n \odot^{mx} \end{cases}$
+
+$\Phi D \odot^{mx} X = \odot^{mx} \Phi (D+m) X$
+$D \odot^{mx} X = \odot^{mx} D X + m \odot^{mx} X$
+$D^2 \odot^{mx} X = [del]\odot^{mx} D^2 X + 2 m \odot^{mx} D X + m^2 \odot^{mx} X[/del]$
+$D^n \odot^{mx} X = \odot^{mx} (D+m)^n X$
+
+whence
+$\left( \odot^D - a \right)^{-i} \odot^{x \log a} X = \odot^{x \log a} \left( \odot^{D + \log a} - a \right)^{-i} X$
+$= a^x (a E - a)^{-i} X$
+$= a^{x-i} (E - 1)^{-i} X$
+$= a^{x-i} \Sigma^i X$
+or $(E-a)^{-i} X = a^{x-i} \Sigma^i a^{-x} X$
+Note that $\Sigma^i 0 = C_0 + C_1 x + C_2 x^2 + \dots + C_{i-1} x^{i-1}$
+
+If $(E^n + A_1 E^{n-1} + \text{etc}) u_x = X$
+$u_x = (E^n + A_1 E^{n-1} + \text{etc})^{-1} X$
+$= (E-a_1)^{-1} (E-a_2)^{-1} (E-a_3)^{-[del]2[/del][ins]r[/ins]} [del]\text{etc}[/del] X$
+$= \left\{ \frac{(E-a_1)^{-1}}{(a_1-a_2)(a_1-a_3)\dots} + \frac{(E-a_2)^{-1}}{(a_2-a_1)(a_2-a_3)\dots} \right.$
+
+Where $u = (fD)^{-1} X$
+$+ \frac{\left[ D_x^{r-1} \frac{f x}{(x-a_3)^r} \right]_{x=a} (E-a_3)^{-1}}{(r-1)!}$
+$+ \frac{\left[ D_x^{r-2} \frac{f x}{(x-a_3)^r} \right]_{x=a} (E-a_3)^{-2}}{(r-2)!}$
+$\left. \vphantom{\frac{(E-a_1)^{-1}}{(a_1-a_2)}} + \text{etc} \right\} X$
+
+Thus $\frac{1}{(x-a_1)(x-a_2)(x-a_3)^2}$
+$= \frac{1}{(x-a_1)(a_1-a_2)(a_1-a_3)^2}$
+$+ \frac{1}{(x-a_2)(a_2-a_1)(a_2-a_3)^2}$
+$+ \frac{[del]C_3 \dots[/del] \frac{[(a_3-a_2) + (a_3-a_1)]}{(x-a_3)}}{(a_3-a_1)(a_3-a_2)[del](x-a_3)^2[/del]}$
+$+ \frac{1}{(x-a_3)^2}$
+
+[marginalia]
+Not right
+See next page
+[/marginalia]
+
+[marginalia]
+$D_x \frac{(x-a_1)(x-a_2)(x-a_3)^2}{(x-a_3)^2}$
+$= [del](x-a_3)^2[/del]$
+$+ (x-a_1) [del](x-a_3)^2[/del]$
+$[del]+ 2 (x-a_1)(x-a_2)(x-a_3)[/del]$
+[/marginalia]

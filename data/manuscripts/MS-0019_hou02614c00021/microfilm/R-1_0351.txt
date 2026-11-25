@@ -1,0 +1,30 @@
+[pn]7[/pn]
+
+<u>Logic of Quantity</u>
+We multiply the cube of (12), (13), the cube of (6), the sixth power of (1), and (10),
+identifying $\alpha$ with $r$, $\alpha'$ with $r'$, $\alpha''$ with $r''$, all the $i$'s, $q_{\mu x}$ with $r_{ixC}$ etc., $q_{\mu' x}$
+with $r_{ixD}$ etc., $q_{\mu'' x}$ with $r_{ixE}$ etc., $\underline{s}$ with $C$, $\underline{s}'$ with $D$, $\underline{s}''$ with $E$, $\underline{e},\underline{e}',\underline{e}''$
+with $A$, $\underline{e}''',\underline{e}^{IV},\underline{e}^V$ with $B$, $\underline{f},\underline{f}',\underline{f}'',\underline{f}'''$ with $C$, $\underline{f}''$ and $\underline{f}^V$ with $D$, $g$ and $g''$ with
+$D$, $g',g'',g^{IV},g^V$ with $E$, and we get $\overline{s}_{mn}$.
+
+The result is the same if, in place of (13), we merely put
+(14) $w_{mn}$;
+though, in this case, we shall consult simplicity by putting instead of (12)
+(15) $q_{mA} \cdot q_{mB} \cdot \Pi_{\alpha} \ \overline{q}_{m\alpha} + l_{\alpha A} + l_{\alpha B}$
+[del]The last factor of (15) may be written $\Pi_{\alpha} \overline{q}_{m\alpha} + q_{m\alpha} \cdot (l_{\alpha A} + l_{\alpha B})$.[/del] Multi-
+plying this by $\Sigma_v \ q_{nv} \cdot \overline{q}_{mv}$ and identifying $\alpha$ with $v$, we get
+One factor of (14) is [del]$\Pi_{\alpha}$[/del] $\Sigma_v \ q_{nv} \cdot \overline{q}_{mv}$. Multiplying this by the two first
+factors of (15) we get $\Sigma_v \ q_{nv} \cdot \overline{q}_{mv} \cdot q_{mA} \cdot q_{mB}$ which gives
+(16) $\Sigma_v \ q_{nv} \cdot r_{vA} \cdot r_{vB}$.
+The other factor of (14), being squared and multiplied by $q_{mA} \cdot q_{mB}$, gives, on
+identifying $\underline{u}$ with $A$ and $\underline{u}'$ with $B$,
+(17) $q_{nA} \cdot q_{nB}$
+We now multiply the cube of $\Pi_{\alpha} \ \overline{q}_{m\alpha} + l_{\alpha A} + l_{\alpha B}$, (16), (17), the cube of (6),
+the sixth power of (1), and (10), identifying $\alpha$ with $r$, $\alpha'$ with $r'$, $\alpha''$ with $r''$, $\underline{s}$
+with $v$, $\underline{s}'$ with $A$, $\underline{s}''$ with $B$, $\underline{e},\underline{e}',\underline{e}''$ with $A$, $\underline{e}''',\underline{e}^{IV},\underline{e}^V$ with $B$, $\underline{f},\underline{f}',\underline{f}'',\underline{f}'''$ with $A$,
+$\underline{f}''$ and $\underline{f}^V$ with $B$, $g$ and $g'''$ with $B$, $g',g'',g^{IV},g^V$ with $v$ and we thus get,
+as before, $\overline{s}_{mn}$.
+
+But it is evident that this conclusion could not be drawn from
+(14) alone. Consequently, it is possible for a part of a collection to
+proceed from its whole, unless that part has some character which

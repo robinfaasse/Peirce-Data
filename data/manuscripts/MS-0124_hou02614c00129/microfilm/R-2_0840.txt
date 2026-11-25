@@ -1,0 +1,64 @@
+[pn]4[/pn]
+
+[u]Non Euclidean Geometry[/u]
+
+Consider the equation
+(0) $ax + by + cz = 1$
+We call this the equation of a [del]line[/del] [ins]plane[/ins]. If $a, b, c$ be [del]real[/del] [ins]real[/ins]
+If $a, b, c, [del]d[/del]$ are real we call it a real [del]line[/del] [ins]plane[/ins]. [ins]By (0)[/ins]
+
+Takes the form
+(1) [del]$ax + by +$[/del] [del]$cz = 1$[/del] [del]$by + \gamma z = 0$[/del]
+where $a$, [del]and[/del] $b$ are real [del]and[/del] [del]$\gamma$[/del] [del]is a real[/del] [del]plane[/del]. If (0) takes the form
+(2) $ax + B e^{i\varphi} y + C e^{i\psi} z = 1$
+There are points of it that satisfy the two real equations
+$ax + B \cos\varphi y + C \cos\psi z = 1$
+$+ B \sin\varphi y + C \sin\psi z = 0$
+That is, it contains the line of intersection of these two
+planes. This line is contained in the planes
+$ax + B \frac{\sin(\psi-\varphi)}{\sin\psi} y = 1$
+as well as in the plane
+$ax + C \frac{\sin(\psi-\varphi)}{\sin\varphi} z = 1$
+
+[del]And since the[/del]
+Putting (2) in the form
+(2') $ax + (b+\beta i)y + (c+\gamma i)z = 1$
+we have [del]At[/del] $\beta y + \gamma z = 0$ at all points of the plane
+and therefore $z = -\frac{\beta}{\gamma} y$
+and (2') becomes gives
+$ax + (b + c \frac{\beta}{\gamma}) y = 1$
+or $ax + (b\gamma - \beta c) \frac{y}{\gamma} = 1$
+
+Go on to previous page
+
+[u]From following page[/u]
+[del]Rather[/del] Separating real and imaginary parts
+we may write for (2)
+(2'') [del]$ax +$[/del] $ax + \beta y - \beta\eta + c\xi - \gamma\xi = 1$
+[del]$a\xi +$[/del] $b\eta + By + c\xi + \gamma x = 0$
+If $\xi = \eta = \xi = 0$
+$ax + by + cz = 1$
+$by + \gamma z = 0$
+
+If (0) takes the form
+(3) $(a+\alpha i)(x+\xi i) + (b+\beta i)(y+\eta i) + (c+\gamma i)(z+\xi i) = 1$
+we have
+$ax - \alpha\xi + by - \beta\eta + cz - \gamma\xi = 1$
+$a\xi + \alpha x + b\eta + \beta y + c\xi + \gamma z = 0$
+and the line of intersection of these two planes is real
+Namely when $\xi=\eta=\xi=0$ [del]$ax+by+cz=1$[/del] [del]$by+\gamma z=0$[/del] } Two real planes.
+In place of (1) I write
+
+$ax + by +$
+(1) $a(x+\xi) + b(y+\eta) + (c+\gamma)(z+\xi) = 1$
+or $ax + by + cz - \gamma\xi = 1$
+$a\xi + b\eta + c\xi + \gamma z = 0$
+$acx + bcy + c^2 z - c\gamma\xi = c$
+$ay\xi + b\gamma\eta + c\gamma\xi + \gamma^2 z = 0$
+[del]at[/del] $a(cx-\gamma\xi) + b(cy-\gamma\eta) + (c^2-\gamma^2)z = c$
+or when $\xi=0, \eta=0$ $z = \frac{c}{c^2-\gamma^2} (ax+by)$
+The equation of a real [del]line[/del] plane
+But if $a=0, b=0, c=0$ then $ax+by=0$
+A real ray
+
+[pn]4+3/2[/pn]

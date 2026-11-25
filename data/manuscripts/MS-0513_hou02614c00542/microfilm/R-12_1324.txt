@@ -1,0 +1,38 @@
+[pn]183[/pn]
+
+[del]S[/del]yllogistic inference takes place in one or other of two ways
+which are essentially the same, as follows
+
+$$\begin{array}{c c c}
+\bar{v} \prec u \quad \bar{u} \prec v & & 1 \prec u \quad 1 \prec (\bar{u} \tilde{\succ} v) \text{ or } 1 \prec (v \tilde{\succ} \bar{u}) \\
+\therefore \quad \bar{v} \prec u \cdot (\bar{u} \dagger v) & \therefore & 1 \prec u (\bar{u} \tilde{\succ} v) \text{ or } 1 \prec (v \tilde{\succ} \bar{u}) u \\
+\therefore \quad [\text{By } x(y \dagger z) \prec x \cdot y \dagger z] & & [\text{By } x(y \tilde{\succ} z) \prec x y \tilde{\succ} z \text{ or } (x \tilde{\succ} y)z \prec x \tilde{\succ} yz] \\
+\bar{v} \prec \bar{u} \bar{u} \dagger v & \therefore & 1 \prec u \bar{u} \tilde{\succ} v \quad \text{ or } \quad 1 \prec v \tilde{\succ} \bar{u} u \\
+\therefore \quad [\text{By } [del]x \cdot \bar{x} \prec 0[/del] & & [\text{By } x \bar{x} \prec 0 \\
+\text{and if } x \prec y \quad x \dagger z \prec y \dagger z] & & \text{and } [del]\text{if }[/del] x \prec y \quad x \tilde{\succ} z \prec y \tilde{\succ} z] \\
+\bar{v} \prec 0 \dagger v & \therefore & 1 \prec 0 \tilde{\succ} v \quad \text{ or } \quad 1 \prec v \tilde{\succ} 0 \\
+\therefore \quad \bar{v} \prec v & \therefore & 1 \prec v
+\end{array}$$
+
+Now, [ins]in the sense[/ins] that this process [del]excludes[/del] depends upon
+every fundamental formula not a mere equation, it is true that
+all demonstrative inference is syllogistic.
+
+For instance, the inference [del]from[/del]
+
+$$\begin{array}{c}
+\Sigma_i \Pi_j l_{ij} \\
+\therefore \quad \Pi_j \Sigma_i l_{ij}
+\end{array}$$
+
+is in the Algebra of Dyadic Relatives
+
+$$\begin{array}{c}
+v (l \tilde{\succ} 0) \\
+\therefore \quad v l \tilde{\succ} 0
+\end{array}$$
+
+involving one of the fundamental formulae of syllogism.
+
+The second and third figures of syllogism introduce mere
+equational formulae

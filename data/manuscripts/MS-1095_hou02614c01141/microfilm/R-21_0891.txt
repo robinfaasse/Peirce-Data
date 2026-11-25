@@ -1,0 +1,11 @@
+$$h_1 h_2 \alpha_1^8 - h_2 [ins]\alpha_1^4[/ins] (-\alpha_1^2 + \frac{\varepsilon_1}{\mu_1})(-l_1 \alpha_1^2 + g) - h_1 [ins]\alpha_1^4[/ins] (-\alpha_1^2 + \frac{\varepsilon_2}{\mu_2})(-l_2 \alpha_1^2 + g)$$
+$$+ (-\alpha_1^2 + \frac{\varepsilon_1}{\mu_1})(-\alpha_1^2 + \frac{\varepsilon_2}{\mu_2})(-l_1 \alpha_1^2 + g)(-l_2 \alpha_1^2 + g)$$
+$$- \frac{\varepsilon_3^2}{\mu_1 \mu_2} (-l_1 \alpha_1^2 + g)(-l_2 \alpha_1^2 + g) = 0$$
+
+---
+
+$$(h_1 h_2 [del]+[/del] [ins]-[/ins] h_2 l_1 - h_1 l_2 + l_1 l_2) \alpha_1^8$$
+$$+ \{ h_2 (g + \frac{\varepsilon_1 [ins]l_1[/ins]}{\mu_1}) + h_1 (g + \frac{\varepsilon_2 l_2}{\mu_2}) - \frac{\varepsilon_1}{\mu_1} l_1 l_2 - \frac{\varepsilon_2}{\mu_2} l_1 l_2 - g l_1 - g l_2 \} \alpha_1^6$$
+$$+ \alpha_1^4 \{ -h_2 \frac{\varepsilon_1}{\mu_1} g - h_1 \frac{\varepsilon_2}{\mu_2} g + g^2 + \frac{\varepsilon_1 \varepsilon_2}{\mu_1 \mu_2} l_1 l_2 + l_1 \frac{\varepsilon_2}{\mu_2} g + h_2 \frac{\varepsilon_1}{\mu_1} g + l_2 \frac{\varepsilon_1}{\mu_1} g + [del]\frac{\varepsilon_3^2}{\mu_1 \mu_2}[/del] \}$$
+$$+ (g^2 \frac{\varepsilon_2}{\mu_2} [del]+[/del] [ins]-[/ins] g^2 \frac{\varepsilon_1}{\mu_1} - \frac{\varepsilon_1 \varepsilon_2}{\mu_1 \mu_2} g l_1 - \frac{\varepsilon_1 \varepsilon_2}{\mu_1 \mu_2} g l_2 [del]+[/del] [ins]-[/ins] [del]\frac{\varepsilon_3^2}{\mu_1 \mu_2} l_1 l_2[/del] - l_1 g \frac{\varepsilon_3^2}{\mu_1 \mu_2} + l_2 g \frac{\varepsilon_3^2}{\mu_1 \mu_2} ) \alpha_1^2$$
+$$+ g^2 \frac{\varepsilon_1 \varepsilon_2}{\mu_1 \mu_2} - g^2 \frac{\varepsilon_3^2}{\mu_1 \mu_2} = 0$$

@@ -1,0 +1,30 @@
+with a vinculum extending over the whole antecedent.
+We must understand
+
+[del]x | y | z[/del]  [u]x[/u] | [u]y[/u] | z
+
+to mean
+
+[del]x | (y | z)[/del]  [u]x[/u] | ([u]y[/u] | z)
+
+and not as [del]where the parenthesis is used as a [del]vinculum[/del] [ins]binder[/ins], as in algebra,[/del]
+[del]x | y | z.[/del]  [u]x[/u] | [u]y[/u] | z.
+
+A second truth about the sign of consequence is that
+(2) If [u]x[/u] | [u]y[/u] | z is true, so is [u]y[/u] | [u]x[/u] | z.
+For [del]the[/del] [u]x[/u] | [u]y[/u] | z asserts that if x is true, then, if Y is true,
+Z is true; that is if both X and Y are true Z is true.
+
+This is not balanced by any similar formula about
+[u]x[/u] | [u]y[/u] | z ;
+[del]For[/del] this implies that [u]y[/u] | z, but not that [u]z[/u] | y. But
+if writing down [del]an[/del] A were equivalent to [u]A[/u] | so that
+[u]x[/u] | [u]y[/u] | z
+were equivalent to
+[del][fig]crossed out logical formula[/fig][/del] [del][fig]crossed out logical formula[/fig][/del]
+where for X we substitute [u]x[/u] |
+for Y " " [u]y[/u] |
+for [del]x | y |[/del] " " [u]x[/u] | [u]y[/u] |
+for z " " [u]z[/u] |
+and for [u]x[/u] | [u]y[/u] | [u]z[/u] | we substitute [del][u]x[/u] | [u]y[/u] | [u]z[/u] |[/del]
+then the Y and Z [del]migh[/del] could be transposed.

@@ -1,0 +1,45 @@
+[pn]25[/pn]
+
+Required the [del]Square[/del] [ins]root[/ins] of 7. The approximations
+are (since 7 = $2^{2} + 3$)
+
+$$\begin{array}{l}
+2 \\
+2\frac{3}{4} \\
+2\frac{3}{4} - \frac{\frac{9}{16}}{2(2\frac{3}{4})}
+\end{array}$$
+
+$$\frac{9}{[del]84[/del] [ins]44[/ins]} = \frac{9}{88}$$
+
+The squares
+$$\begin{array}{l}
+4 \\
+7\frac{9}{16} \\
+7 + \frac{81}{7744}
+\end{array}$$
+
+$$\begin{array}{r}
+88 \\
+\underline{88} \\
+704 \\
+\underline{704} \\
+7744
+\end{array}$$
+
+The rule of Leonardo is a part of this
+more general rule
+
+If $N = A^{2} + B$
+$$\sqrt{N} = A + \frac{B}{2A + B}$$
+$$\frac{B}{2A + \frac{B}{2A + \frac{B}{2A\text{ rule}}}}$$
+
+$$\frac{3}{4 + \frac{P}{Q}} = \frac{3Q}{4Q + P}$$
+
+The mode of calculation is
+$$\sqrt{7} - 2\text{, } \frac{3}{4}\text{, } \frac{12}{19}\text{, } \frac{57}{88}\text{, } \frac{264}{419}$$
+
+$$\begin{array}{r}
+352 \\
+\underline{57} \\
+9
+\end{array}$$

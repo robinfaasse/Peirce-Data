@@ -1,0 +1,27 @@
+FL [right]90[/right]
+
+In fact the whole rule of possibility about the last quantifier is pretty
+flimsy; for it allows exceptions and the exceptions occur. Thus,
+$$\Sigma_i \Pi_j \Sigma_\alpha q_{\alpha i} \cdot \overline{q}_{\alpha j} + \overline{q}_{\alpha i} \cdot q_{\alpha j}$$
+is evidently not true; for if $j$ be identified with $i$ it reduces to
+$$\Sigma_i \Sigma_\alpha q_{\alpha i} \cdot \overline{q}_{\alpha i}$$
+Consequently its negative is true
+$$\Pi_i \Sigma_j \Pi_\alpha q_{\alpha i} \cdot q_{\alpha j} + \overline{q}_{\alpha i} \cdot \overline{q}_{\alpha j}$$
+Still, the general rule holds. The proposition that is not true is so only
+because of a special case, and the other is true only by virtue of a special
+case. It is the $\Pi$ in the former which makes it false, and the $\Sigma$ in the
+latter which makes it true. The former is false because the $\Pi$ enables us
+to reduce it to [del]a[/del] contradiction. The latter is true because a suitable choice
+of the index of $\Sigma$ reduces it to the form $A + \overline{A}$. The same remarks
+apply to $\Pi_\alpha \Sigma_\beta \Pi_i q_{\alpha i} \cdot q_{\beta i} + \overline{q}_{\alpha i} \cdot \overline{q}_{\beta i}$.
+But let us take another example. The proposition
+$$\Sigma_\alpha \Pi_\beta \Sigma_i q_{\alpha i} \cdot q_{\beta i} + \overline{q}_{\alpha i} \cdot \overline{q}_{\beta i}$$
+is not [del]false[/del] [ins]true[/ins], because every character has a negative, — which is as much
+as to say that the proposition is [del]not[/del] false "[del]because[/del]" its direct denial is true,
+[del]namely,[/del] [right]$\Pi_\alpha \Sigma_\beta \Pi_i (\overline{q}_{\alpha i} + \overline{q}_{\beta i}) \cdot (q_{\alpha i} + q_{\beta i})$.[/right]
+But after all, it is only a very special [del]case which[/del] [ins]and peculiar[/ins] case which makes
+the latter true and the former false. Generally speaking, it is the other way.
+Thus we find ourselves introduced at the very outset of the logic of mathe-
+matics to that peculiar doctrine which so pervades mathematics of the
+"general case", which may sometimes become an exceedingly ex-
+ceptional case.

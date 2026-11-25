@@ -1,0 +1,25 @@
+If we write for brevity
+(9) [u]\beta[/u]_{[u]i[/u]} = - \sum_{[u]j[/u]=[u]k[/u]+1}^{[u]n[/u]} [u]P[/u]_{[u]j[/u]} ,
+then [u]\beta[/u]_{[u]i[/u]} is the force of the vertical pull, and \sqrt{[u]A[/u]^2 + [u]\beta[/u]_{[u]i[/u]}^2} is the total pull,
+upon the [u]i[/u]^th link. The negative sign is correct because when [u]i[/u] < [u]k[/u] it
+makes [u]\beta[/u]_{[u]i[/u]} positive and thus tends to make [u]y[/u]_{[u]i[/u]+1} - [u]y[/u]_{[u]i[/u]}, which is positive,
+greater, while when [u]i[/u] > [u]k[/u], [u]\beta[/u]_{[u]i[/u]} is negative and tends to [del]make[/del] [ins]give[/ins] [u]y[/u]_{[u]i[/u]+1} - [u]y[/u]_{[u]i[/u]}, which
+is negative, a greater absolute value. Substituting (7) and (9) in (5) and (6)
+we get, for every value of [u]i[/u],
+(10) \Delta [u]y[/u] = [u]\beta[/u] ( \frac{1}{[u]\epsilon[/u]} + \frac{1}{\sqrt{[u]A[/u]^2 + [u]\beta[/u]^2}} ) [u]l[/u] ,
+(11) \Delta [u]x[/u] = [u]A[/u] ( \frac{1}{[u]\epsilon[/u]} + \frac{1}{\sqrt{[u]A[/u]^2 + [u]\beta[/u]^2}} ) [u]l[/u] .
+The equations being each summated give
+(12) [u]b[/u] = \sum_{1}^{[u]n[/u]}_{[u]i[/u]} \{ [u]\beta[/u]_{[u]i[/u]} ( \frac{1}{[u]\epsilon[/u]_{[u]i[/u]}} + \frac{1}{\sqrt{[u]A[/u]^2 + [u]\beta[/u]_{[u]i[/u]}^2}} ) [u]l[/u]_{[u]i[/u]} \}
+(13) [u]a[/u] = [u]A[/u] \sum_{1}^{[u]n[/u]}_{[u]i[/u]} \{ ( \frac{1}{[u]\epsilon[/u]_{[u]i[/u]}} + \frac{1}{\sqrt{[u]A[/u]^2 + [u]\beta[/u]_{[u]i[/u]}^2}} ) [u]l[/u]_{[u]i[/u]} \}
+If we write [u]L[/u] for the unknown total length, that is
+(14) [u]L[/u] = \sum_{1}^{[u]n[/u]}_{[u]i[/u]} [u]l[/u]_{[u]i[/u]} ,
+and if we write for the known relative length,
+(15) [u]\lambda[/u]_{[u]i[/u]} = \frac{[u]l[/u]_{[u]i[/u]}}{[u]L[/u]} ,
+equations (12) and (13) become
+(16) [u]b[/u] = [u]L[/u] \sum_{1}^{[u]n[/u]}_{[u]i[/u]} \{ [u]\beta[/u]_{[u]i[/u]} ( \frac{1}{[u]\epsilon[/u]_{[u]i[/u]}} + \frac{1}{\sqrt{[u]A[/u]^2 + [u]\beta[/u]_{[u]i[/u]}^2}} ) [u]\lambda[/u]_{[u]i[/u]} \} ,
+(17) [u]a[/u] = [u]LA[/u] \sum_{1}^{[u]n[/u]}_{[u]i[/u]} \{ ( \frac{1}{[u]\epsilon[/u]_{[u]i[/u]}} + \frac{1}{\sqrt{[u]A[/u]^2 + [u]\beta[/u]_{[u]i[/u]}^2}} ) [u]\lambda[/u]_{[u]i[/u]} \} ;
+and the ratio of these gives
+(18) 0 = - \frac{[u]a[/u]}{[u]b[/u]} + [u]A[/u] \frac{\sum_{1}^{[u]n[/u]}_{[u]i[/u]} \{ ( \frac{1}{[u]\epsilon[/u]_{[u]i[/u]}} + \frac{1}{\sqrt{[u]A[/u]^2 + [u]\beta[/u]_{[u]i[/u]}^2}} ) [u]\lambda[/u]_{[u]i[/u]} \}}{\sum_{1}^{[u]n[/u]}_{[u]i[/u]} \{ [u]\beta[/u]_{[u]i[/u]} ( \frac{1}{[u]\epsilon[/u]_{[u]i[/u]}} + \frac{1}{\sqrt{[u]A[/u]^2 + [u]\beta[/u]_{[u]i[/u]}^2}} ) [u]\lambda[/u]_{[u]i[/u]} \}}
+which is an algebraic equation for determining [u]A[/u]. When [u]b[/u] is zero, (16)
+affords a far simpler equation for this purpose; and it also yields
+the remarkable proposition that so long as the total load remains the

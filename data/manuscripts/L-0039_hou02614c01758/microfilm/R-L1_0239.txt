@@ -1,0 +1,27 @@
+[pn]3[/pn]
+
+These special cases seem to prove that $y dy/x dx$ does not
+vary with $x$ and $y$, however great the strain may be. In other
+words $\sigma$ is a constant which expresses the ratio of infinitesimal
+lateral contraction to infinitesimal longitudinal extension,
+irrespective of the state of strain prior to the small change
+of strain supposed.
+
+Hence
+$$x y^{\sigma} = x_{0} y_{0}^{\sigma}$$
+is a perfectly general expression for the absolute motion of
+any particle in an isotropic cube under tensile stress.
+
+[u]Relations of distortion and dilation.[/u] Let $\alpha$ be the ratio of a
+shear and $h$ the ratio of linear dilation, so that $h^{3}$ is
+the volume of a strained unit cube. Then if such a
+cube is stressed in the direction of $oy$,
+$$x = \frac{h}{\alpha} \text{ and } y = \alpha^{2} h.$$
+Substituting these values in $x y^{\sigma} = 1$
+$$h^{\frac{1}{1-2\sigma}} = \alpha^{\frac{1}{1+\sigma}};$$
+and if $\sigma$ is expressed in terms of $n$ and $k$
+$$h^{9k} = \alpha^{6n}$$
+which shows that $h$ is the same function of $9k$ as $\alpha$ is of $6n$.
+
+[u]Form of $h$ and $\alpha$.[/u] In a simple shear of ratio $\alpha$ the path
+of the corner of the unit cube is the hyperbola $xy = 1$, and

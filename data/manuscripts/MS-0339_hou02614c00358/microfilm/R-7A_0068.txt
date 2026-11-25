@@ -1,0 +1,57 @@
+[marginalia]
+Nov. 14. [del]$\Sigma (b+x)^t$[/del]
+[/marginalia]
+
+Then my first development formula will be
+
+$\Sigma' (a+bx)^c = \phi x$
+
+where, however, $c$ may involve $x$.
+
+$c$ will in fact itself be of the same form.
+
+So that the formula should be written
+
+[del]$\phi x = \Sigma'_i (a_i+b_i x)^{\phi'_i x}$[/del]
+
+Now, I reserve this important matter for future study. I ought somehow to get from it something answering to Maclaurin's theorem &c.
+
+This
+
+$\phi(0) = \Sigma'_i a_i^{\phi'_i 0}$
+
+$\phi(1) = \Sigma'_i (a_i+b_i)^{\phi'_i 1}$
+
+Here are only two equations for the determination of three unknown quantities.
+
+But returning to $\phi x$ I can first separate this into a series of terms. For
+
+***
+
+[marginalia]
+61R
+[/marginalia]
+
+[del]$\phi x = \Sigma \frac{1}{3} (a_1+b_1 x)^{\phi'_1 x} + (a_2+b_2 x)^{\Pi_2 \Sigma \phi'_2 x} + \&c$[/del]
+
+However, this is not the way but this
+
+First develope $\phi$ according to an absolute (non-relative) term. Then
+
+$\phi x = a + bx + c_1^{a_1+b_1 x} + c_2^{a_2+b_2 x} + \&c$
+
+$\phi(0) = a + c_1^{a_1} + c_2^{a_2} + \&c$
+
+Now $c_n^{a_n+b_n x} = c_n^{a_n} c_n^{b_n x}$
+
+$\therefore c_n^{a_n+b_n x} = c_n^{a_n} c_n^{b_n x}$
+
+$\phi(1) = a + b + c_1^{b_1} + c_2^{b_2} + \&c$ [marginalia]by inspection (?)[/marginalia]
+
+It is next to be determined what absolute term is contained in $\phi x$. If there is none [del]the is a[/del] [ins]which will be treated hereafter[/ins]
+
+But here I note a mistake in my development formula it should [del]be[/del] [ins]be[/ins]
+
+[marginalia]
+over
+[/marginalia]

@@ -1,0 +1,20 @@
+[fig]circle[/fig] Now suppose a circle the skin of which has an oscillatory creeping such that
+$$D_t \theta = - c \sin nt \cdot \frac{1}{R} \frac{\cos}{\sin} \theta$$
+
+We will suppose that all the concentric rings of air outside have a parallel motion though with a different phase, with such slight modification as is necessary to preserve the continuity.
+
+That is we will write
+$$r D_t \theta = X_1 \sin nt \frac{\cos}{\sin} \theta + X_2 \cos nt \frac{\cos}{\sin} \theta$$
+$$+ X_3 \sin nt \frac{\sin}{\cos} \theta + X_4 \cos nt \frac{\sin}{\cos} \theta$$
+where $X_1$ $X_2$ $X_3$ $X_4$ are independent of $t$ [ins](and of $\theta$?)[/ins]
+
+We will put $r D_t^2 \theta = \mu' D_r^2 (D_t \theta)$
+
+[del]$D_r^2 X_1 = \frac{1}{\mu'} X_1$ etc[/del]
+$$r D_t^2 \theta = n X_1 \cos nt \frac{\cos}{\sin} \theta - n X_2 \sin nt \frac{\cos}{\sin} \theta$$
+$$+ n X_3 \cos nt \frac{\sin}{\cos} \theta - n X_4 \sin nt \frac{\sin}{\cos} \theta$$
+
+$$\mu' D_r^2 X_1 = - n X_2 \quad \mu' D_r^2 X_2 = n X_1$$
+$$\mu' D_r^2 X_3 = - n X_4 \quad \mu' D_r^2 X_4 = n X_3$$
+
+$$- \frac{\mu'}{n} D_r^4 X_1 = \frac{n}{\mu'} X_1 \quad X_1 = \Sigma_2 C_2 e^{\sqrt[4]{-1} \cdot \sqrt{\frac{n}{\mu'}} r}$$

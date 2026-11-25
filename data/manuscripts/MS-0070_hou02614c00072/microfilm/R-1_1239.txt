@@ -1,0 +1,15 @@
+[pn]N17[/pn] [u]f[/u] in (114), it becomes,
+[del]X[/del] [u]$\Pi_{i}\Pi_{j}\Pi_{k}\Pi_{u}\Pi_{w} (i+j)_{k} \psi (u+j)_{w} \psi \overline{\sigma}_{ui} \psi \sigma_{wk}$[/u]
+Let us insert the aggregand $\overline{q}_{\alpha u}$
+[u]$\Pi_{i}\Pi_{j}\Pi_{k}\Pi_{u}\Pi_{w} (i+j)_{k} \psi \overline{q}_{\alpha u} \psi (u+j)_{w} \psi \overline{\sigma}_{ui} \psi \sigma_{wk}$[/u]
+This aggregand authorizes us to insert its negative as the component of another aggregand.
+[u]$\Pi_{i}\Pi_{j}\Pi_{k}\Pi_{u}\Pi_{w} (i+j)_{k} \psi \overline{q}_{\alpha u} \psi (u+j)_{w} \psi q_{\alpha u} \cdot \overline{\sigma}_{ui} \psi \sigma_{wk}$[/u]
+Let us diversify $u$ by changing it in one aggregand into $x$:
+[u]$\Pi_{i}\Pi_{j}\Pi_{k}\Pi_{u}\Pi_{x}\Pi_{w} (i+j)_{k} \psi \overline{q}_{\alpha u} \psi (u+j)_{w} \psi q_{\alpha x} \cdot \overline{\sigma}_{xi} \psi \sigma_{wk}$[/u]
+Let us now insert another aggregand $\overline{q}_{\beta w}$
+[fig]black circle[/fig] [u]$\Pi_{i}\Pi_{j}\Pi_{k}\Pi_{u}\Pi_{x}\Pi_{w} (i+j)_{k} \psi \overline{q}_{\alpha u} \psi (u+j)_{w} \psi q_{\alpha x} \cdot \overline{\sigma}_{xi} \psi \overline{q}_{\beta w} \psi \sigma_{wk}$[/u]
+We can now insert the negative of that aggregand as a component, thus
+[u]$\Pi_{i}\Pi_{j}\Pi_{k}\Pi_{u}\Pi_{x}\Pi_{w} (i+j)_{k} \psi \overline{q}_{\beta w} \cdot [\overline{q}_{\alpha u} \psi (u+j)_{w}] \psi q_{\alpha x} \cdot \overline{\sigma}_{xi} \psi \overline{q}_{\beta w} \psi \sigma_{wk}$[/u]
+Let us now diversify $w$ so as to change it in one aggregand to $z$
+[del][fig]scribble[/fig][/del] [u]$\Pi_{i}\Pi_{j}\Pi_{k}\Pi_{u}\Pi_{x}\Pi_{w}\Pi_{z} \Pi_{\alpha} \Pi_{\beta} \Sigma_{x} \Pi_{u} \Sigma_{z} \Pi_{w} \Sigma_{k}$[/u]
+[u]$\Pi_{i}\Pi_{j}\Pi_{k}\Pi_{u}\Pi_{x}\Pi_{w}\Pi_{z} (i+j)_{k} \psi \overline{q}_{\beta z} \cdot [\overline{q}_{\alpha u} \psi (u+j)_{w}] \psi q_{\alpha x} \cdot \overline{\sigma}_{xi} \psi \overline{q}_{\beta w} \psi \sigma_{zk}$[/u]

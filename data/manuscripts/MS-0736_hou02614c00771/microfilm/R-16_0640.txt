@@ -1,0 +1,32 @@
+[pn]18[/pn]
+
+Fourth, put $a = \infty$, $b = 0$. In this case, the pro-
+position becomes
+
+If $\infty + 0$, then either $\infty + 0$ or $0$,
+
+Now if $\infty + 0$ then $\infty + 0$ is a case under $a + a$.
+
+6. We have necessarily
+
+$\overline{a + b + c} + \overline{b + a + c}$,
+
+so that, by the modus ponens,
+
+$a + b + c = b + a + c$
+
+and [del]two[/del] antecedents can be transposed. This
+
+proved by Rule 3, for
+
+$\overline{0 + 0 + c} + \overline{0 + 0 + c}$ is true, since $0 + c$ is true;
+
+$\overline{0 + \infty + c} + \overline{\infty + 0 + c}$ is true for the same reason
+
+$\overline{\infty + 0 + c} + \overline{0 + \infty + c}$ is true, since $0 + \infty + c$ is true;
+
+$\overline{\infty + \infty + c} + \overline{\infty + \infty + c}$ is true by identity.
+
+7. We have necessarily
+
+$\overline{a + b + c + d} + \overline{a + b + c + d}$

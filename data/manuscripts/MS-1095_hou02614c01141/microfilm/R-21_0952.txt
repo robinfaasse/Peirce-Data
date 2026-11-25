@@ -1,0 +1,14 @@
+Effect of a small weight attached to
+a pendulum.
+
+Let $M$ be the mass of pendulum
+$\quad I$ virtual length
+$\quad H$ distance centre mass
+$\left. \begin{array}{l} m \\ l \\ L \end{array} \right\}$ same quantities for small piece
+
+Then
+$$\begin{aligned} T & = \partial \sqrt{\frac{M H I + m h \ell}{g (M H + m h)}} \\ & = \partial \sqrt{\frac{I \left(1 + \frac{m}{M} \frac{h}{H} \frac{\ell}{I}\right)}{g \left(1 + \frac{m}{M} \frac{h}{H}\right)}} = \\ & = \partial \sqrt{\frac{I}{g}} \cdot \left\{ 1 + \frac{1}{2} \frac{m}{M} \frac{h}{H} \left( \frac{\ell}{I} - 1 \right) \right\} \end{aligned}$$
+
+Suppose $\begin{array}{lll} m = \frac{1}{10} & h = 105 & \ell = 105 \\ M = 10000 & H = 25 & I = 100 \end{array}$
+
+$$T = \partial \sqrt{\frac{I}{g}} \left\{ 1 + \frac{1}{2} \frac{1}{100,000} \cdot 4.2 \cdot \frac{1}{20} \right\} = \partial \sqrt{\frac{I}{g}} \left\{ 1 + \frac{1.05}{1,000,000} \right\}$$

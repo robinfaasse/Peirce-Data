@@ -1,0 +1,24 @@
+[pn]237[/pn]
+
+just K' cuts can be made without separating it into two pieces. This
+is owing to K' of the edges having the same edges at their ends which
+are at the ends of other edges. Hence the number of summits will
+then be less by K'. This same rule holds for isolated summits. For
+the number of summits in such a piece is 1, and the number of
+edges is 0, and the cyclosis is 0. But the rule does not hold for
+isolated [del]summits[/del] [ins]edges[/ins]. For these the number of edges is 1 and the cyclosis
+is 1. Hence, according to the rule, there should be 1 summit; whereas,
+in fact, there are 0. But the rule will be made universally correct
+by [del]subtracting[/del] [ins]adding[/ins] the cyclosis of the edges [ins]to[/ins] [del]from the summits[/del]. Hence for
+each piece of the network, without exception, the number of summits
+[ins]plus[/ins] [del]less[/del] the cyclosis of the edges equals the number of edges plus 1 [del]less[/del]
+[del]the cyclosis[/del] of the piece. Adding for all the pieces we get
+X₀ + 1 + K₁ = X₁ + [del]2[/del] + X - K
+
+Now subtracting X₁ + 1 from both sides
+[del]1[/del] + X₀ - (1 + X₁ - K₁) = 1 + X - K
+or Λ₀ - Λ₁ = Λ Q.E.D.
+
+[u]Corollary 71[/u]. To make all signs plus, we may put
+[del]X₀ + K + K₁ = 1 + X + X₁[/del]
+X₀ + K₁ + K = 1 + X₁ + X

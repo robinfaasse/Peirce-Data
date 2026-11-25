@@ -1,0 +1,30 @@
+[pn]22[/pn]
+
+[u]Report on Line Loads[/u]
+
+In order to obtain a second linear equation, let us dissect the triangle 012 [ins](whose area we may denote by $\nabla_{012}$)[/ins] by [del]a ho[/del] [ins]vertical[/ins] line through 1, a horizontal line through 2, and an oblique line from the intersection of these two to 0, as shown in Figs 1 and 2.
+
+[fig]Fig. 1: Diagram of triangle 012 with vertical and horizontal lines[/fig] [fig]Fig. 2: Diagram of triangle 012 with oblique line[/fig] [fig]Fig. 3: Diagram of points 0, 1, 2 with dotted lines[/fig] [fig]Fig. 4: Diagram of points 0, 1, 2 with curved dotted lines[/fig]
+
+We have
+$\nabla_{012} = \frac{1}{2} x_1 (y_1 - y_2) + \frac{1}{2} y_2 (x_2 - x_1) + \frac{1}{2} (x_2 - x_1) (y_1 - y_2) = \frac{1}{2} (x_2 y_1 - y_2 x_1)$
+
+Now we know by trigonometry that
+$\nabla_{012} = \frac{1}{4} \sqrt{(\sqrt{[x_2]^2 + [y_2]^2} + R_0 + R_1)(\sqrt{[x_2]^2 + [y_2]^2} + R_0 - R_1)(\sqrt{[x_2]^2 + [y_2]^2} - R_0 + R_1)(-\sqrt{[x_2]^2 + [y_2]^2} + R_0 + R_1)}$
+$= \frac{1}{4} \sqrt{2([x_2]^2 + [y_2]^2) R_0^2 + 2([x_2]^2 + [y_2]^2) R_1^2 + 2 R_0^2 R_1^2 - ([x_2]^2 + [y_2]^2)^2 - R_0^4 - R_1^4}$
+
+The two linear equations
+$2 x_2 x_1 + 2 y_2 y_1 = [x_2]^2 + [y_2]^2 - R_0^2 + R_1^2$
+$- 2 y_2 x_1 + 2 x_2 y_1 = 4 \nabla_{012}$
+
+give the values
+$x_1 = \frac{1}{2} x_2 - \frac{x_2 (R_0^2 - R_1^2) + 4 y_2 \nabla_{012}}{2 ([x_2]^2 + [y_2]^2)}$
+$y_1 = \frac{1}{2} y_2 + \frac{y_2 (R_0^2 - R_1^2) + 4 x_2 \nabla_{012}}{2 ([x_2]^2 + [y_2]^2)}$
+
+The negative value of the square root only belongs to the cases of Figs 3 and 4, where the cord is replaced by two struts or a tie and a strut.
+
+We thus find for the horizontal pull [del]moment of the horizontal pull[/del]
+$- \frac{\partial y_1}{\partial x_2} = \frac{x_1 (x_2 - x_1)}{x_2 y_1 - y_2 x_1}$
+[del]that of the vertical[/del]
+and for the vertical pull on the lower support
+$\frac{\partial y_1}{\partial y_2} = \frac{x_1 (y_1 - y_2)}{x_2 y_1 - y_2 x_1}$

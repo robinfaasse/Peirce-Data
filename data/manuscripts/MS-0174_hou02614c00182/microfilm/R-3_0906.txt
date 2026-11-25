@@ -1,0 +1,22 @@
+[pn]27[/pn]
+
+systematically
+Page 196. Fifth Syllogism
+
+$\Sigma_{i} \Pi_{j} \{ a_{i} (p_{ij} + \beta_{j}) \} \Sigma_{j'} \Pi_{i'} \{ (c_{i't} + p_{i'j'}) \bar{\beta}_{j'} \}$
+$= \Sigma_{i} \Pi_{j} \Sigma_{j'} \Pi_{i'} \{ a_{i} (p_{ij} + \beta_{j}) (c_{i't} + p_{i'j'}) \bar{\beta}_{j'} \}$
+$= \Sigma_{i} [ \Pi_{j} \Sigma_{j'} \{ (p_{ij} + \beta_{j}) \bar{\beta}_{j'} . \Pi_{i'} (c_{i't} + p_{i'j'}) \} ]$
+
+By the formulae just given
+$\Pi_{j} \Sigma_{j'}$ reduces thus:
+
+$\Sigma_{i} [ a_{i} \Pi_{j} \{ (p_{ij} + \beta_{j}) \bar{\beta}_{j} . \Pi_{i'} (c_{i't} + p_{i'j})$
+$+ [del]x[/del] (p_{ij} + \beta_{j}) \bar{\beta}_{j'} . \Pi_{i'} (c_{i't} + p_{i'j'}) \} ]$
+
+$= \Sigma_{i} [ a_{i} \Pi_{j} \{ \bar{\beta}_{j} p_{ij} . \Pi_{i'} (c_{i't} + p_{ij})$
+$+ [del]\beta_{j}[/del] p_{ij} \bar{\beta}_{j'} . \Pi_{i'} (c_{i't} + p_{i'j'}) \} ]$
+
+We may now drop the $\beta$ and
+we have as a factor of the con-
+clusion
+[del]$\Sigma_{i} [ a_{i} \Pi_{j} \{ p_{ij} \Pi_{i'}$[/del]

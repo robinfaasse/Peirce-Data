@@ -1,0 +1,16 @@
+In general it is plain that
+$$F_x = \sum_i^{x-1} F_i F_{x-i}$$
+But it will be convenient in all cases to take the summation from $i=3$ to $i=x-2$ inclusive. We thus have
+$$F_{x-1} = F_1 F_{x-2} + F_2 F_{x-3} + \sum_i F_i F_{x-i-1}$$
+$$F_x = 2 F_1 F_{x-1} + F_2 F_{x-2} + \sum_i F_i F_{x-i}$$
+$$F_{x+1} = 2 F_1 F_x + 2 F_2 F_{x-1} + \sum_i F_i F_{x-i+1}$$
+[del]seeing the right hand members of the two last equations from $F_x$ and $F_{x-1}$, we have[/del]
+$$F_x = (2 F_1^2 + F_2) F_{x-2} + 2 F_1 F_2 F_{x-3} + \sum_i F_i (F_{x-i} + 2 F_1 F_{x-i-1})$$
+$$F_{x+1} = (4 F_1^3 + 4 F_1 F_2) F_{x-2} + (4 F_1^2 F_2 + 2 F_2^2) F_{x-3} + \sum_i F_i \left[ \begin{aligned} & F_{x-i+1} + 2 F_1 F_{x-i} \\ & + (4 F_1^2 + 2 F_2) F_{x-i-1} \end{aligned} \right]$$
+
+[u]We now proceed to form some other needful expressions.[/u]
+$$F_{x-1} F_{x+1} = (4 F_1^3 F_2 + (4 F_1^2 F_2 + F_2^2) F_{x-3}^2 + \sum_i F_i \left[ F_{x-i+1} + 2 F_1 F_{x-i} + (4 F_1^2 - 2 F_2) F_{x-i-1} \right]$$
+$$F_{x-1} F_x = (2 F_1^2 - F_2) F_{x-2} + 2 F_1 F_2 F_{x-3} + \sum_i F_i \left[ -F_{x-i} + 2 F_1 F_{x-i-1} \right]$$
+$$F_{x-1} F_{x+1} = 4 F_1^2 (F_1^2 + F_2) F_{x-2}^2 + (8 F_1^3 F_2 + 6 F_1 F_2^2) F_{x-2} F_{x-3} + (4 F_1^2 F_2^2 + 2 F_2^3) F_{x-3}^2$$
+$$\quad + \sum_i F_i [F_1 F_{x-2} + F_2 F_{x-3}] (F_{x-i+1} + 2 F_1 F_{x-i}) + ([8 F_1^3 + 6 F_1 F_2] F_{x-2} + (8 F_1^2 F_2 + 4 F_2^2) F_{x-3})$$
+$$\quad + \sum_i \sum_j F_i F_j \left[ F_{x-i+1} F_{x-j+1} + 2 F_1 F_{x-i} F_{x-j-1} + (4 F_1^2 + 2 F_2) F_{x-i-1} F_{x-j-1} \right]$$

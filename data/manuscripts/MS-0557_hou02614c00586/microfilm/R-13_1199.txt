@@ -1,0 +1,9 @@
+viduals of the form A:A are called self-relatives, and are the negatives of those which contain all of the form A:B. Those that contain only individuals of the form A:B are called alio-relatives, and are the negatives of such as contain all of the form A:A.
+
+Every [del]alio[/del][ins]alio[/ins]-relative and every negative of an alio-relative is the converse of a relative of the same class. Every selfrelative and negative of a self-relative is its own converse.
+
+Let [u]a[/u] and [u]b[/u] be alio-relatives, so that (a)[sub]ii[/sub] = 0, (b)[sub]ii[/sub] = 0. Then
+[del](ab)[sub]ii[/sub] = Σ[sub]j[/sub] {(a[/del]
+(a + b)[sub]ii[/sub] = Π[sub]j[/sub] {(a)[sub]ij[/sub] + (b)[sub]ji[/sub]}
+But when j = i the factor vanishes and (a + b)[sub]ii[/sub] = 0. So that the relative sum of two alio-relatives is an alio-relative, and the relative product of two negatives of alio-relatives belongs to the same class. Suppose that (a)[sub]ij[/sub] = 0; then (a + b)[sub]ij[/sub] = 0. For
+(a + b)[sub]ij[/sub] = Σ[sub]k[/sub] {(a)[sub]ik[/sub] + (b)[sub]kj[/sub]} .

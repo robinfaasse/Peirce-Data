@@ -1,0 +1,20 @@
+[pn]
+[box]
+Cu
+16
+[/box]
+[/pn]
+
+one with each step toward the NE; [del]then the[/del] But along those diagonal
+lines that run NW and SE, $y$ is constant, while $x$ increases by 1 with
+each step toward the SE. [del]Consequently,[/del] [ins]and increases by 1 toward the E.[/ins] [del]in each vertical column, $x+y$ is constant.[/del]
+In each horizontal row $x-y$ is constant, and increases by 1 toward the S; but I
+am not aware that the horizontal rows have any particular significance for our
+present purposes. Fig. 2 shows the numerical values of the Cs. We find that
+when either $x=0$ or $y=0$, $C_{x,y}=1$. In all other cases, $C_{x,y}=C_{x-1,y}+C_{x,y-1}$.
+It follows from this that $C_{x,y}=\frac{(x+y)!}{x!\,y!}$ where the admiration-mark
+is [del]conventionally used to declare[/del] [ins]shows[/ins] that what is meant is the continued product of all the integer numbers
+from 1 up to and including the number that precedes that mark. Thus, $2!=2$,
+$3!=2!\times 3=6$, $4!=3!\times 4=24$, $5!=4!\times 5=120$, $6!=5!\times 6=720$, $7!=6!\times 7=5040$
+etc. From this it follows that, in any column in which $x+y$ is a prime
+number, all the numbers except the two 1s that begin and end that column

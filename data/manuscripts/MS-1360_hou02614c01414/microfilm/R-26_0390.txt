@@ -1,0 +1,183 @@
+[marginalia]Morison's Bridge[/marginalia]
+Curve of a Truss with Cantilevers
+
+[fig]Diagram of a continuous curve over multiple supports[/fig]
+
+Supports for which y = 0 at x = 0 [del]±X[/del] ±4X etc to ±MX
+or at x = ±X ±3X ±5X to ±(2M-1)X
+
+The end at x = ±[del]Ω[/del]
+
+The equations in the first case are
+[marginalia]
+.0036
+216
+207
+[/marginalia]
+[marginalia]
+000216
+864
+[/marginalia]
+y₀ = -A (x₀⁴ + C₀'x₀³ + C₀''x₀² + C₀'''x₀ + C₀ᴵⱽ)
+y_M = -A (x_M⁴ + C_M'x_M³ + C_M''x_M² + C_M'''x_M + C_Mᴵⱽ)
+
+In the second case
+[marginalia]
+0729
+16
+96
+25
+125
+0601
+0561
+36
+09
+5481
+108
+4401
+0049
+.0294
+[/marginalia]
+[marginalia]
+0025
+150
+27
+108
+16
+256
+729
+2916
+04
+2416
+321
+2096
+27
+000343
+1372
+[/marginalia]
+[marginalia]
+25
+16
+96
+81
+6
+4.86
+6561
+5.5181
+2.916
+2.6001
+1
+P²
+2
+P
+2
+P
+= 4
+= 2
+= 4
+[/marginalia]
+[marginalia]
+.1
+.2
+.3
+.4
+.5
+.6
+.7
+.8
+[/marginalia]
+0000
+0601
+2496
+5481
+.9356
+1.5025
+[del]2.6001[/del]
+0561
+2096
+4401
+.7296
+1.0625
+1.8081
+2.2916
+2.6002
+3.0000
+Δ
+561
+1535
+2305
+2795
+3329
+3631
+3825
+3935
+3955
+3999
+Δ²
+974
+770
+590
+434
+302
+194
+110
+[del]4[/del]50
+-4
+Δ³
+204
+180
+156
+132
+108
+84
+60
+36
+Δ⁴
+24
+24
+[marginalia]
+49
+2.94
+1201
+3.1801
+1.302
+1.8601
+9.6
+343
+1.372
+9856
+256
+7296
+25
+1.5625
+5
+2.2896
+864
+1.4256
+0064
+0384
+[/marginalia]
+[marginalia]
+64
+4
+216
+2048
+[/marginalia]
+y = -A (x⁴ + C'x³ + C''x² + C'''x + Cᴵⱽ)
+
+Cᴵⱽ = 0
+C''' = 0
+y = -A (x⁴ - 4[del]X[/del]X³ + 6[del]X[/del]²x²)
+[del]y = -A x⁴ (1 - 4 [del]X[/del]/x + 6 [del]X[/del]²/x²)[/del]
+z = -6A[del]X[/del]²x² (1 - [del]2/3[/del] x/[del]X[/del] + [del]1/6[/del] x²/[del]X[/del]²)
+[marginalia]
+81
+.0486
+729
+2916
+57
+[/marginalia]
+
+4x³ - 12x² + 12x
+12x² - 24x + 12
+24x - 24

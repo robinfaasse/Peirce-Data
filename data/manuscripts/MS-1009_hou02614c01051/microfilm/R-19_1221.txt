@@ -1,0 +1,28 @@
+[pn]8'[/pn] = [del](A + 9)[/del] [ins]($\overline{\text{A}}$ + $\overline{\text{K}}$)[/ins]
+
+[pn]9'[/pn] = [del]$\overline{\text{A}}$ $\overline{\text{K}}$ Q J X 9 8[/del] [ins]$\overline{\text{G}}$[/ins]
+[del]$\overline{\text{A}}$ $\overline{\text{K}}$ Q J $\overline{\text{X}}$ 9 8[/del] [ins]$\overline{\text{G}}$[/ins]
+[del]$\overline{\text{A}}$ K Q J X 9 8[/del] [ins]$\overline{\text{G}}$[/ins]
+[del]$\overline{\text{A}}$ K Q J $\overline{\text{X}}$ 9 8[/del] [ins]$\overline{\text{G}}$[/ins]
+[del]$\overline{\text{A}}$ [del]K[/del] Q J [del]$\overline{\text{X}}$[/del] 9 8[/del] [ins]$\overline{\text{G}}$[/ins]
+[del]$\overline{\text{A}}$ [del]K[/del] Q J X 9[/del]
+[del]$\overline{\text{A}}$ K Q J X 9[/del]
+[del]$\overline{\text{A}}$ K Q J $\overline{\text{X}}$ 9[/del]
+[del]$\overline{\text{A}}$ $\overline{\text{K}}$ Q J X 9[/del]
+[del]$\overline{\text{A}}$ $\overline{\text{K}}$ Q J $\overline{\text{X}}$ 9[/del]
+
+[del]= (A + K + Q + J) (A + K + Q + X) (A + K + Q + 9)[/del]
+[del]($\overline{\text{G}}$ + K + Q + J) ($\overline{\text{G}}$ + K + Q + X) ($\overline{\text{G}}$ + K + Q + 9)[/del]
+[del](A + K + $\overline{\text{Q}}$ + 9) (A + K[/del]
+
+[pn]8[/pn] (A + 9) (A + K + Q + J) (A + K + Q + X) (A + K + Q + 9)
+[pn]9[/pn] (A + K + $\overline{\text{Q}}$ + J + X) (A + K + $\overline{\text{Q}}$ + $\overline{\text{J}}$ + $\overline{\text{X}}$)
+(A + K + $\overline{\text{Q}}$) (A + K + J + X) (A + K + $\overline{\text{J}}$ + $\overline{\text{X}}$)
+
+$\overline{\text{G}}$ =
+($\overline{\text{A}}$ + $\overline{\text{K}}$) ($\overline{\text{A}}$ + Q + J + $\overline{\text{X}}$) ($\overline{\text{A}}$ + Q + J + 9) ($\overline{\text{A}}$ + Q + X + [gap])
+($\overline{\text{A}}$ + Q + $\overline{\text{X}}$ + $\overline{\text{9}}$) ($\overline{\text{A}}$ + [gap])
+($\overline{\text{K}}$ + 9) ($\overline{\text{K}}$ + $\overline{\text{Q}}$) [del]($\overline{\text{K}}$ + $\overline{\text{X}}$ + 9)[/del]
+(X + 9) (K + J + X) (Q + J + X)
+($\overline{\text{A}}$ + $\overline{\text{K}}$) ($\overline{\text{K}}$ + $\overline{\text{Q}}$) [del]($\overline{\text{X}}$ + 9)[/del] [ins]$\overline{\text{K}}$[/ins] [del]($\overline{\text{K}}$ + $\overline{\text{X}}$)[/del] $\overline{\text{K}}$ $\overline{\text{A}}$ [ins]$\overline{\text{Q}}$[/ins] 9
+$\overline{\text{A}}$ [ins]$\overline{\text{G}}$[/ins] $\overline{\text{K}}$ [ins]$\overline{\text{G}}$[/ins] $\overline{\text{K}}$ + $\overline{\text{A}}$ $\overline{\text{Q}}$ 9

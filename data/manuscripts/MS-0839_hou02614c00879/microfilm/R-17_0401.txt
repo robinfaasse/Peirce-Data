@@ -1,0 +1,60 @@
+Any $M$ is $P$
+Any not-$S$ is $M$
+$\therefore$ Any not-$S$ is $P$
+
+Some not-$S$ is $P$
+Any not-$S$ is $M$
+Some $M$ is $P$
+
+Some not-$S$ is some not-$P$
+Some $M$ is some Not $S$
+Any not-$S$ is $M$
+Some $M$ is some not $S$
+
+Any $M$ is $P$
+Some not $S$ is $M$
+$\therefore$ Some not $S$ is $P$
+
+Any not-$S$ is $P$
+Some not-$S$ is $M$
+Some $M$ is $P$
+
+Some $M$ is not-$S$
+
+Any not-$M$ is $P$
+Any $S$ is not-$M$
+$\therefore$ Any $S$ is $P$
+
+Some $S$ is $P$
+Any $S$ is not $M$
+$\therefore$ Some not-$M$ is $P$
+
+Any some-$S$ is $P$
+Some not-all is some-$S$
+Some not-all is $P$
+
+Not $S$ is $P$
+$\therefore$ Not $P$ is $S$
+
+$P$ is $P$
+$S$ is not $P$
+$P$ is not $S$
+
+$S$ is $M$
+Not $S$ is $P$
+Not $P$ is $M$
+
+Not
+Not $S$ is [del]not $S$[/del] [ins]$P$[/ins]
+$S$ is not $P$
+$P$ is not [del]$S$[/del] [ins]$M$[/ins]
+
+$P$ is $P$
+$S$ is not $P$
+$P$ is not $S$
+
+$l^S < P$
+[del]$l^S < P$[/del]
+$g^{eS} < P$
+
+$S < l^P$

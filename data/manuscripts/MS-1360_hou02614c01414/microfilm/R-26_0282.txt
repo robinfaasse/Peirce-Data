@@ -1,0 +1,11 @@
+convenient to do so. In this way, we shall not only obtain the deflections, but, with [del]the slight[/del] [ins]little[/ins] additional trouble [del]by[/del] [ins]of[/ins] double differentiations, the flexures also. If we have the flexures themselves, there is no need of considering moments of flexures; or, if these familiar quantities are wanted, they are instantly obtained.
+
+Of course, there is nothing new in this elementary mode of procedure. Nevertheless, before proceeding to the actual complicated problem, it will be well to examine its application to simpler cases.
+
+[u]Problem 1[/u]. To two fixed points, one at a level, [u]b[/u], above the other, and at a horizontal distance, [u]a[/u], let weightless cords be attached and to these others, making a festoon. Let weights be attached at the attachments of the cords. Required the positions of equilibrium.
+
+Let the weights be numbered from [del]the[/del] 1 to [u]n[/u] from the lower fixed point to the higher one. Let [u]P[/u][sub]i[/sub] be the weight of the [u]i[/u][sup]th[/sup] weight, Let [u]x[/u][sub]i[/sub] and [u]y[/u][sub]i[/sub] be its coördinates, the latter [del]the[/del] measured vertically downwards the former horizontally in the direction of increasing [u]i[/u]. Let the origin be at the [ins]upper[/ins] [del]lower[/del] fixed point, so that [u]x[/u][sub]0[/sub] = 0, [u]y[/u][sub]0[/sub] = 0, [u]x[/u][sub]n+1[/sub] = [u]a[/u], [u]y[/u][sub]n+1[/sub] = [u]b[/u]. Let the elasticity into the cross-section of the cord from [u]i[/u] to [u]i[/u]+1 be denoted by [u]E[/u][sub]i[/sub], let its natural length be [u]l[/u][sub]i[/sub]
+
+Then, the work will be (to a constant pres)
+
+$$\frac{1}{2} \sum_0^n \frac{E_i}{l_i} \left( \frac{\sqrt{(\Delta x_i)^2 + (\Delta y_i)^2} - l_i}{[del]x_i[/del]} \right)^2 - \sum_a^n P_i y_i.$$

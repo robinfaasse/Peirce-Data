@@ -1,0 +1,11 @@
+[u]$U_{m+n} = -P_{m, m+n-1} U_{m+n-1} + P_{m, m+n-2} U_{m+n-2} - \text{etc.} + T_m$[/u]
+
+$U_n = +P_{0, n-1} U_{n-1} [del]-[/del] [ins]-[/ins] P_{0, n-2} U_{n-2} + P_{0, n-3} U_{n-3} + \text{etc} + T_0$
+$U_{n+1} = +P_{1, n} U_n [del]-[/del] [ins]-[/ins] P_{1, n-1} U_{n-1} + P_{1, n-2} U_{n-2} + \text{etc} + T_1$
+$= (P_{1, n} P_{0, n-1} - P_{1, n-1}) U_n + (-P_{1, n} P_{0, n-2} + P_{1, n-2}) U_{n-2} + \text{etc} + P_{1, n} T_0 + T_1$
+$U_{n+2} = +P_{2, n+1} U_{n+1} - P_{2, n} U_n + P_{2, n-1} U_{n-1} [del]\text{etc}[/del] + \text{etc} + T_2$
+$= (P_{2, n+1} P_{1, n} P_{0, n-1} - P_{2, n+1} P_{1, n-1} - P_{2, n} [del]P_{0, n-1}[/del] [ins]- P_{2, n-1}[/ins]) U_{n-1}$
+$+ ( -P_{2, n+1} P_{1, n} P_{0, n-2} + P_{2, n+1} P_{1, n-2} + P_{2, n} P_{0, n-2} - P_{2, n-2} ) U_{n-2} + \text{etc}$
+$+ P_{2, n+1} P_{1, n} T_0 + P_{2, n+1} T_1 - P_{2, n} T_0 + T_2$
+$U_{n+3} = P_{3, n+2} U_{n+2} [del]- P_{3, n+1}[/del] U_{n+1} + P_{3, n} U_n - \text{etc} + T_3$
+$= P_{3, n+2} P_{2, n+1} P_{1, n} P_{0, n-1} - P_{3, n+2} P_{2, n+1} P_{1, n-1} - P_{3, n+2} [del]P_{2, n}[/del]$

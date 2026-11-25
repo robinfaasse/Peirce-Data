@@ -1,0 +1,29 @@
+[pn]1[/pn]
+
+$$A = R(\cos \alpha + \sin \alpha \cdot i)$$
+$$B = R(\cos \beta + \sin \beta \cdot i)$$
+$$C = R(\cos \gamma + \sin \gamma \cdot i)$$
+$$D = R(\cos \delta + \sin \delta \cdot i)$$
+
+[fig]Circle with sectors[/fig]
+
+[fig]Geometric diagram with lines[/fig]
+
+[del]$\beta \cos \alpha +$[/del]
+$$x \cos \alpha + y \cos \beta + z \cos \gamma = 0$$
+$$x \sin \alpha + y \sin \beta + z \sin \gamma = 0$$
+
+$$x(\cos \alpha \sin \gamma - \sin \alpha \cos \gamma) + y(\cos \beta \sin \gamma - \sin \beta \cos \gamma) = 0$$
+$$x \sin(\gamma - \alpha) + y \sin(\gamma - \beta) = 0$$
+$$x = \sin(\beta - \gamma) \quad y = \sin(\gamma - \alpha)$$
+
+$$\begin{matrix}
+\cos \alpha \sin \beta \cos \gamma & - & [del]\cos \alpha[/del] \cos \beta \sin \gamma \\
+- \sin \alpha \cos \beta \cos \gamma & + & \cos \alpha \cos \beta \sin \gamma
+\end{matrix}$$
+
+[del]$\sin(\beta - \alpha)$[/del] $\quad z = \sin(\alpha - \beta)$
+
+$$\sin(\beta - \gamma) A + \sin(\gamma - \alpha) B + \sin(\alpha - \beta) C = 0$$
+
+$$C = \frac{\sin(\beta - \gamma)}{\sin(\beta - \alpha)} A + \frac{\sin(\gamma - \alpha)}{\sin(\beta - \alpha)} B$$

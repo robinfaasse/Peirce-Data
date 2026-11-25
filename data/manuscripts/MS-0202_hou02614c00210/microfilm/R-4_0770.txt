@@ -1,0 +1,7 @@
+[pn]C
+18[/pn] from 1 up to and including the number that precedes that mark. [del]Thus, $1!$[/del]
+[del]is $1!$[/del] $1! = 1$, [del]$2!$[/del] [ins]$2!$[/ins] $= 1 \times 2 = 2$, $3! = 1 \times 2 \times 3 = 6$, etc. From this it follows that, in
+any column in which $x+y$ is a prime number, all the numbers except $C_{x+y, 0}$
+and $C_{0, x+y}$, (the two $1$s at the top and bottom of it) will be divisible by that prime.
+This plainly appears in the column in which $x+y = 5$, and in that in which $x+y = 7$. In the
+column where $x+y = 11$, the $C$s are [ins]obviously[/ins] $11, 55, 165, 330,$ and $462$, all divisible by $11$.

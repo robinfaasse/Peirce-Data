@@ -1,0 +1,15 @@
+$$r \mathfrak{G}^{\theta i} = \tan\left(45^{\circ} - \frac{\varphi}{2}\right) \mathfrak{G}^{\lambda i}$$ [fig]circle with horizontal diameter[/fig]
+
+$$A \frac{r \mathfrak{G}^{\theta i} - r \mathfrak{G}^{\theta_1 i}}{r \mathfrak{G}^{\theta i} - r \mathfrak{G}^{\theta_2 i}}$$  $$\begin{aligned} \tan \frac{\varphi}{2} \quad \lambda &= 180^{\circ} \\ \tan\left(90^{\circ} + \frac{\varphi}{2}\right) \quad \lambda &= 0 \end{aligned}$$ [fig]coordinate axes with hyperbola-like curves[/fig]
+
+$$A \frac{r \mathfrak{G}^{\theta i} - \tan \frac{\varphi}{2} \mathfrak{G}^{\pi i}}{r \mathfrak{G}^{\theta i} + \tan\left(90^{\circ} + \frac{\varphi}{2}\right)}$$
+
+$$= \rho \mathfrak{G}^{\vartheta i}$$
+
+$$r \rho \mathfrak{G}^{(\theta + \vartheta) i} + \rho \tan\left(90^{\circ} + \frac{\varphi}{2}\right) \mathfrak{G}^{\vartheta i} = r \mathfrak{G}^{\theta i} - \tan \frac{\varphi}{2} \mathfrak{G}^{\pi i}$$
+
+$$r \rho \cos(\theta + \vartheta) + \rho \cot \frac{\varphi}{2} \cos \vartheta = r \cos \theta + \tan \frac{\varphi}{2}$$
+
+$$r \rho \sin(\theta + \vartheta) - \rho \cot \frac{\varphi}{2} \sin \vartheta = r \sin \theta$$
+
+$$\frac{r \cos \theta + \tan \frac{\varphi}{2}}{r \cos(\theta + \vartheta) - \cot \frac{\varphi}{2} \cos \vartheta} = \frac{r \sin \theta}{r \sin(\theta + \vartheta) - \cot \frac{\varphi}{2} \sin \vartheta}$$

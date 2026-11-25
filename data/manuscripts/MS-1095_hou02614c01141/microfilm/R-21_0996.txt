@@ -1,0 +1,17 @@
+$$- m_p h_p \ell_k \sin (\theta_k - \theta_p) \cdot D_t \theta_k \cdot D_t \theta_p \cdot$$
+
+$$D_t D_{\theta_1'} E = [ m_1 (h_1^2 + \gamma_1^2) + [del]\frac{p}{2}[/del] [ins]\sum_2^p[/ins]_n m_n \ell_1^2 ] D_t^2 \theta_1$$
+$$+ [del]2[/del] \sum_2^{p-1}_i \{ (m_i h_i + \sum_{i+1}^p_n m_n \ell_i) \ell_1 \cos (\theta_i - \theta_1) D_t^2 \theta_i \}$$
+$$+ m_p h_p \ell_1 \cos (\theta_p - \theta_1) D_t^2 \theta_p$$
+$$- \sum_2^{p-1}_i \{ (m_i h_i + \sum_{i+1}^p_n m_n \ell_i) \ell_1 \sin (\theta_i - \theta_1) (D_t \theta_i)^2 \}$$
+$$- m_p h_p \ell_1 \sin (\theta_p - \theta_1) (D_t \theta_p)^2$$
+$$+ \sum_2^{p-1}_i \{ (m_i h_i + \sum_{i+1}^p_n m_n \ell_i) \ell_1 \sin (\theta_i - \theta_1) \cdot D_t \theta_i \cdot D_t \theta_1$$
+$$+ m_p h_p \ell_1 \sin (\theta_p - \theta_1) \cdot D_t \theta_1 \cdot D_t \theta_p \cdot$$
+
+$$D_t D_{\theta_p'} E = \sum_1^{p-1}_i \{ m_p h_p \ell_i \cos (\theta_i - \theta_p) \cdot D_t^2 \theta_i \}$$
+$$+ m_p (h_p^2 + \gamma_p^2) \cdot D_t^2 \theta_p$$
+$$- \sum_1^{p-1}_i \{ m_p h_p \ell_i \sin (\theta_i - \theta_p) (D_t \theta_i)^2 \}$$
+$$+ \sum_1^{p-1}_i \{ m_p h_p \ell_i \sin (\theta_i - \theta_p) \cdot D_t \theta_i \cdot D_t \theta_p \}$$
+
+The partial differential coëfficients of $E$ relative
+ly to $\theta_1, \theta_k,$ and $\theta_p$ are

@@ -1,0 +1,23 @@
+[pn]37[/pn]
+
+<u>Multitude</u>
+
+<u>Art. 33</u>. Dr. Georg Cantor has substantially shown that, given any denumerable collection of the $M$s, there are relations, [del]such[/del] as $f$, such that [del]every[/del] of any two different $M$s, one is $f$ of everything [ins]$M$[/ins] $f$'d by the other and is $f$ of some $M$ not $f$'d by the other, while the second is $f$'d by everything [ins]$M$[/ins] that is $f$ of the first and is $f$'d by some $M$s not $f$'d by the first.
+
+I proceed to demonstrate this. It is to be understood that the definition just given of the $M$s is to be retained. I first define the relation, $g$, as follows:
+
+$1^{\text{st}}$, if one $M$ is $r$ of another $M$, then the former is $g$ of the latter;
+
+$2^{\text{nd}}$, if one $M$ is [del]$r$[/del] [ins]$r$[/ins] of a second $M$, and this second $M$ is $g$ of a third $M$, then the first $M$ is $g$ of the third $M$;
+
+$3^{\text{rd}}$, if one $M$ is not necessitated by the above statements to be $g$ to another, it is not $g$ to that other.
+
+I now define the relation $f$ as follows:
+
+$1^{\text{st}}$, if any [ins]say $M_i$[/ins] $M$ is $f$ of [del]every[/del] [ins]every[/ins] $M$ of which it is $g$, then the $M$ which is $r$ of $M_i$ is [del]$f$ of[/del] every $M$ of which it is $g$;
+
+$2^{\text{nd}}$, if any [del]$M$[/del] [ins]say $M_i$[/ins] is not $f$ of [del]some[/del] [ins]by[/ins] $M$ of which it is $g$, then the $M$ which is $r$ of $M_i$ is [del]$f$ of[/del] [ins]is $f$ of [del]every[/del] [ins]every[/ins] $M$ of which $M_i$ is $f$ [del]and of which[/del] [ins]and is[/ins][/ins] [del]every $M$ of which $M_i$ is $f$, but is not $g$, and is[/del] [del]both $f$ and $g$,[/del] except one [del]only[/del] single $M$ [del]who[/del] of which $M_i$ is both $f$ and $g$ but by which the $M$ that is $r$ of $M_i$ is $f$'d;
+
+$3^{\text{rd}}$, of any two different $M$'s, one of which, [del]equally[/del], is not necessitated by the above statements to [del]by[/del] be $f$ to the other, [del]they[/del], the latter [del]they[/del] is $f$ of the former;
+
+$4^{\text{th}}$, nothing is $f$ of itself.

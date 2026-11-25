@@ -1,0 +1,50 @@
+Let the summits adjacent to $A$
+be $B, C, D$
+
+[fig]Diagram showing vertices A, B, C, D, E, F with arrows and labels r, s, t[/fig] [del]Then if $(A-C)$[/del]
+[del]$r(A-C) = (B-A)$[/del]
+
+Then there is a quantity
+$r$ such that
+$r(A-C) = (B-A)$
+
+And a number $R$ such that
+$r^R = 1$
+
+And if $E$ and $F$ are adjacent to $B$
+either $E = r(B-A) + B$
+$F = r(B-A) + B$
+
+And if $r(A-C) = (B-A)$ [ins]$r^{-1}(A-B) = C-A$[/ins]
+$s(A-C) = (D-A)$
+$s r^{-1}(B-A) = (D-A)$
+If $t(A-B) = D-A$
+$t = - \frac{s}{r}$ [del]$t = -s$[/del]
+
+If $E$ and $F$ are adjacent
+to $B$ either
+$E-B = r(B-A)$ , $F-B = t^{-1}(B-A)$
+or $F-B = r(B-A)$ , $E-B = t^{-1}(B-A)$
+
+That is the summits adjacent to $B$
+are
+$B - (B-A)$
+$B + r(B-A)$
+$B + t^{-1}(B-A)$
+
+If $E-B = r(B-A)$ and $F-B = t^{-1}(B-A)$
+then of course $E-B = rt(B-F)$
+But [del]$rt$[/del] is not necessarily equal to $tr$
+
+[fig]Diagram showing vertices A, B, C, E, F with arrows and labels r, s, t, u, w, x[/fig]
+$C-B = r(B-A)$
+$E-B = t(B-C)$
+$A-B = u(B-E)$
+$utr = -1$
+$vrt = -1$
+$ruw = -1$
+$xwu = -1$
+$vtw = r t r t^{-1} r^{-1}$
+
+$w = -v^{-1} r^{-1}$
+$= r t r^{-1}$

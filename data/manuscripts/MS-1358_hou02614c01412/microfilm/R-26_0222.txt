@@ -1,0 +1,41 @@
+[marginalia]
+[del]Hermann[?] Pond[?] 1892 March 2[/del]
+[/marginalia]
+
+$(D_x - i \sqrt{a+cx^2})(D_x + i \sqrt{a+cx^2})$
+$= D_x^2 + i \frac{cx}{\sqrt{\phantom{a+cx^2}}} + i \sqrt{a+cx^2} D$
+$\phantom{= D_x^2} - i \sqrt{a+cx^2} D + (a+cx^2)$
+
+$(D_x + i \sqrt{a+cx^2})(D_x - i \sqrt{a+cx^2})$
+$= D_x^2 - i \sqrt{a+cx^2} D - i \frac{cx}{\sqrt{\phantom{a+cx^2}}} + (a+cx^2)$
+$\phantom{= D_x^2} + i \sqrt{a+cx^2} D$
+
+$\int (a+cx^2) z\ dz$
+
+$\begin{aligned}
+D \log y &= \frac{Dy}{y} \\
+D^2 \log y &= \frac{D^2 y}{y} - \left(\frac{Dy}{y}\right)^2
+\end{aligned}$
+
+Try
+$z = [del]\phi_x[/del] + \psi_x \mathfrak{S}^{\omega x}$
+
+$D_x z = [del]\phi'_x + \psi'_x[/del]$
+$\phantom{D_x z =} [del]\psi'_x[/del] + \psi' \mathfrak{S}^\omega + \psi \omega' \mathfrak{S}^\omega$
+
+$D_x^2 z = [del]\psi''[/del] + \psi'' \mathfrak{S}^\omega + 2 \psi' \omega' \mathfrak{S}^\omega + \psi \omega'' \mathfrak{S}^\omega + \psi \omega'^2 \mathfrak{S}^\omega$ [pn]2[/pn]
+
+We want to
+$z = \psi \mathfrak{S}^\omega$
+$D_x^2 z = \left( \frac{\psi''}{\psi} + 2 \frac{\psi' \omega'}{\psi} + \omega'' + \omega'^2 \right) z$
+
+$\begin{aligned}
+z &= \mathfrak{S}^\omega \\
+D_x z &= \omega' \mathfrak{S}^\omega \\
+D_x^2 z &= (\omega'' + \omega'^2)
+\end{aligned}$
+
+$\begin{aligned}
+\omega' &= \sqrt{-1} \sqrt{a+cx^2} \\
+\omega'' &= \sqrt{c}
+\end{aligned}$

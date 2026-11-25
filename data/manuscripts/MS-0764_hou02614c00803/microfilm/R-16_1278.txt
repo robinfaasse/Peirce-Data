@@ -1,0 +1,29 @@
+which uses any method that is sure to
+correct eventually any error into which
+[del]it[/del] [ins]it[/ins] has led us. In other words, it is what
+[del]the[/del] mathematicians call proceeding
+by successive approximations.
+
+Given any algebraic equation. Di-
+vide it by its last term and transpose
+all the terms containing $x$. Regard the
+exponents as subscripts; so that
+$$ax^n + bx^{n-1} + \text{etc} = 1$$
+becomes
+$$ax_n + bx_{n-1} + \text{etc} = x_0$$
+Assume any values for the terms with posi-
+tive subscripts. (But I make them all $1$ and $x_0 = 1$)
+Then use the [del]equation[/del] same equation with all
+the subscripts diminished by $1$ in order to calculate
+$x_{-1}$. Again reduce the subscripts by $1$, and use
+the same rule to calculate $x_{-2}$ and so on in-
+definitely. If there be any root [del]less than[/del] whose
+modulus is less than all the others, the last
+$x$ but one divided by the last will approximate
+to the [del]six[/del] root of smallest modulus, in a
+manner which reminds me curiously of
+induction. If any mistake is made in the
+calculation, you need only keep right on and
+you will come out all right. (I may have
+mis-stated the proceeding. An example will do
+better. Take $(x+1)^3 = 2$ or $x^3 + 3x^2 + 3x = 1$

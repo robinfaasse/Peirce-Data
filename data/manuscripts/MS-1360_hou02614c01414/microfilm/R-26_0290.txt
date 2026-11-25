@@ -1,0 +1,10 @@
+[pn]16[/pn]
+Report on [del]Gerrison's[/del] Pond [ins]er[/ins]
+
+Substituting (42) and the unnumbered equations following it in (40), we get
+
+$$y = \frac{\varepsilon q}{\kappa q'^2} \int \frac{\xi (\sqrt{1+\xi^2} + \kappa \frac{q'}{q})}{\sqrt{1+\xi^2} + \kappa} d\xi - \delta A \frac{T}{q}$$
+
+[del]$$\frac{\varepsilon q}{\kappa q'^2}$$[/del]
+
+(49) $$= \frac{\varepsilon}{q'^2} \left\{ \frac{q}{2\kappa} \xi^2 - (q-q') \sqrt{1+\xi^2} + \kappa (q-q') \log [\sqrt{1+\xi^2} + \kappa] \right\} + \frac{\frac{\delta}{q^2} - \frac{q\kappa}{2} S_k}{q q' \frac{\kappa^2}{2} S_k - T'_k} T$$

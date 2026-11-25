@@ -1,0 +1,28 @@
+$$D_{s}\chi = \Phi_{1}s^{2} + s\Phi_{2}s^{2} + \Psi_{1}q^{2} - q\Psi_{2}q^{2}$$
+$$+ 2sq\Psi_{1}'s^{2} + q\Psi_{2}s^{2} + 2s^{2}q\Psi_{2}'s^{2}$$
+
+$$= \Phi_{1}(r^{2}U^{2}) + rU\Phi_{2}(r^{2}U^{2}) + \Psi_{1}(r^{2}U^{-2}) - rU^{-1}\Psi_{2}(r^{2}U^{-2})$$
+$$+ 2r^{2}\Psi_{1}'(r^{2}U^{2}) + rU^{-1}\Psi_{2}(r^{2}U^{2}) + 2r^{3}U\Psi_{2}'(r^{2}U^{2})$$
+
+$$s + ci = r'U'$$
+$$q - ci = r'U'^{-1}$$
+$$sq + (s-q)ci + c^{2} = r'^{2}$$
+
+$$D_{s}\chi = \Phi_{1}s^{2} + [s\Phi_{2}s^{2}] + \Psi_{1}q^{2} - [q\Psi_{2}q^{2}]$$
+$$+ 2r\Psi_{1}'s^{2} + r(\frac{1}{s}\Psi_{2}s^{2}) + 2r[s\Psi_{2}'s^{2}]$$
+
+$$\underline{D_{q}(q\Psi_{2}q^{2}) = \Psi_{2}q^{2} + 2q^{2}\Psi_{2}'q^{2}}$$
+$$D_{s}\chi = F_{1}'s + F_{2}'q + qF_{3}'s$$
+
+$$\begin{array}{c|c}
+\begin{array}{l}
+\text{T} = r^{2} = sq \\
+U^{2} = \frac{s}{q}
+\end{array} & D_{s}r
+\end{array} \begin{array}{c}
+\Phi_{1}s + \Phi_{2}s + [del]\Psi_{1}[/del][ins]\Psi_{2}[/ins]q - \Psi_{2}q \\
++ q\Psi_{1}'s + q\Psi_{2}'s
+\end{array}$$
+
+$$\Phi_{1}rU + \Phi_{2}rU + \Psi_{1}rU^{-1} - \Psi_{2}rU^{-1}$$
+$$+ rU^{-1}\Psi_{1}'$$

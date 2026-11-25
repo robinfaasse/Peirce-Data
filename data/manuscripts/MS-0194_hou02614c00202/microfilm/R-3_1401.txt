@@ -1,0 +1,21 @@
+But if we raise the value of $r$ to the [ins]$\frac{415}{414}$[/ins] power
+and multiply all the longitudes by the same fraction,
+we shall make the geodesic line whose maximum
+latitude is $51^{\circ}$ ([del]and[/del] [ins]as well as[/ins] all geodesics near it) sensibly
+a circle.
+
+If $\theta$ be the angle of polar coördinates on the
+polar map, and
+if $\lambda$ be the longitude,
+
+$$r e^{\theta i} = R \left( \frac{1 - e \sin \varphi}{1 + e \sin \varphi} \right)^{\frac{415}{414} \frac{e}{2}} \tan^{\frac{415}{414}} (45^{\circ} - \frac{\varphi}{2}) e^{\frac{415}{414} \lambda i}$$
+
+That is,
+
+$$[del]r =[/del]$$
+$$r = R \left( \frac{1 - e \sin \varphi}{1 + e \sin \varphi} \right)^{\frac{415}{414} \frac{e}{2}} \tan^{\frac{415}{414}} (45^{\circ} - \frac{\varphi}{2})$$
+$$\theta = \frac{415}{414} \lambda$$
+
+If we determine an angle $\psi$, by the equation
+
+$$\tan (45^{\circ} - \frac{\psi}{2}) = \left( \frac{1 - e \sin \varphi}{1 + e \sin \varphi} \right)^{\frac{415}{414} \frac{e}{2}} \tan^{\frac{415}{414}} (45^{\circ} - \frac{\varphi}{2})$$

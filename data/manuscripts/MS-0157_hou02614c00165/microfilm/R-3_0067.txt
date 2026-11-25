@@ -1,0 +1,25 @@
+to these colors, which will only involve the trouble of finally multiplying
+our results by the possible ways of ordering the chains so as
+to conform to whatever conditions maybe laid down as to their
+order. We will therefore suppose that all the chains [del]of the[/del] [ins]beginning with the[/ins]
+first color come first, [del]those of the beginning[/del] with the second color
+coming next after these and so on. Then the entire number of
+$\chi$ initial colors are to be distributed among the $\nu$ chains
+there being $\nu_0$ chains beginning with color $0$
+$\nu_1$ " " " " $1$
+$\vdots$
+$\nu_{\chi-1}$ " " " " $\chi-1$
+$\sum \nu_{\chi} = \nu$
+
+[del]The[/del] Each of these groups of chains will be composed of $c+1$
+subgroups, [del]numbered[/del] [ins]of which the number of chains will be[/ins] $\nu_{00}, \nu_{01}, \dots \nu_{0c}$ so that
+$\nu_{10}, \nu_{11}, \dots \nu_{1c}$
+$\vdots$ etc
+$\nu_{\chi-1,0}, \dots \dots \nu_{\chi-1,c}$
+[del]so that[/del]
+So that $\sum_c \nu_{ic} = \nu_i$ and any of these numbers may be $0$.
+The individual chains may [del]be ordinarily[/del] [ins]number of[/ins] numbered $\nu_{000}, \nu_{002}$, etc.
+The [del]ways of formation[/del] of any chain of the groups $\nu_{00}, \nu_{11}, \nu_{22} \dots \nu_{\chi-1,\chi-1}$
+will be the same as if it [del]were[/del] stood alone, that is it will be $\frac{c^l + c(-1)^l}{c+1}$ where
+$l$ is the number of its links. The number of ways in which it will end with any other
+[ins]one[/ins] previous [ins]considered[/ins] [del]color[/del] (that is with $1 \dots \chi-1$, in the case of $\nu_0$) is $\frac{c^l - (-1)^l}{c+1}$

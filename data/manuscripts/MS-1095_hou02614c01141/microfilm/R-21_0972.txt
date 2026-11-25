@@ -1,0 +1,20 @@
+Then $OP = k \sec \theta - h \tan \theta$, $\angle OPR = \theta + \arctan \frac{\cos \theta \cdot (D_t \psi)}{\sin \theta \cdot (D_t \psi) + (D_t \varphi) \sin \theta}$
+
+Whence,
+$$PR = (k \sec \theta - h \tan \theta) \frac{\cos \theta \cdot (D_t \psi) [del]+ (D_t \varphi) \sin \theta[/del]}{\sqrt{(D_t \psi)^2 + (D_t \varphi)^2 + 2 D_t \psi \cdot D_t \varphi \cdot \sin \theta}}$$
+
+We can obtain the angle between the [del]central line of the[/del] [ins]instantaneous axis and a[/ins] line passing through it parallel to the central axis of the pendulum [del]pendulum and the instantaneous axis[/del] from Figure 1, where [del]M[/del] [ins]the latter[/ins] represents the former direction. Here, $MC = \frac{1}{2} D$ $\angle C''CM = \theta - BCA + \varphi$. Now we have
+$$\sin BCA = \sin \psi \sin \theta \frac{1}{\sqrt{1 - \sin^2 \theta \cos^2 \theta (1 - \cos \psi)^2}}$$
+
+$$\cos BCA = \sqrt{1 - \frac{\sin^2 \psi \sin^2 \theta}{1 - \sin^2 \theta \cos^2 \theta (1 - \cos \psi)^2}}$$
+
+$$\cos (\angle C''CM) = - \cos \varphi \sqrt{1 - \frac{\sin^2 \psi \sin^2 \theta}{1 - \sin^2 \theta \cos^2 \theta (1 - \cos \psi)^2}} - \sin \varphi \frac{\sin \psi \sin \theta}{\sqrt{1 - \sin^2 \theta \cos^2 \theta (1 - \cos \psi)^2}}$$
+
+Whence,
+$$\cos [del]\theta[/del] [ins]C''M[/ins] = - \frac{\cos \theta \cdot (D_t \psi) [del]+ (D_t \varphi) \sin \theta[/del]}{\sqrt{(D_t \psi)^2 + (D_t \varphi)^2 + 2 D_t \psi \cdot D_t \varphi \sin \theta}} \{ \cos \varphi \sqrt{1 - \frac{\sin^2 \psi \sin^2 \theta}{1 - \sin^2 \theta \cos^2 \theta (1 - \cos \psi)^2}} + \sin \varphi \frac{\sin \psi \sin \theta}{\sqrt{1 - \sin^2 \theta \cos^2 \theta (1 - \cos \psi)^2}} \}$$
+
+Then the distance of the centre of mass from the instantaneous axis is
+$$\sqrt{(PR)^2 + h^2 [del]\cos^2 \theta[/del] [ins]\sin^2 C''M[/ins]} = \sqrt{ \{ \frac{\cos \theta \cdot (D_t \psi) [del]+ (D_t \varphi) \sin \theta[/del]}{\sqrt{(D_t \varphi)^2 + (D_t \psi)^2 + 2 \sin \theta (D_t \varphi)(D_t \psi)}} \}^2 (k \sec \theta - h \tan \theta)^2 + h^2 \cos^2 \{ \varphi - \arcsin \frac{\sin \psi \sin \theta}{\sqrt{1 - \sin^2 \theta \cos^2 \theta (1 - \cos \psi)^2}} \}}$$
+
+And the moment of inertia about this axis is
+$$(I - J + m h^2) \frac{[del]\cos^2 \theta[/del] [ins]\cos^2 \theta[/ins] \cdot (D_t \psi)^2 [del]+ (D_t \varphi)^2 \sin^2 \theta[/del]}{(D_t \psi)^2 + (D_t \varphi)^2 + 2 D_t \psi \cdot D_t \varphi \sin \theta} \cos^2 \{ \varphi - \arcsin \frac{\sin \psi \sin \theta}{\sqrt{1 - \sin^2 \theta \cos^2 \theta (1 - \cos \psi)^2}} \} + J + m (k \sec \theta - h \tan \theta)^2 \frac{\cos^2 \theta \cdot (D_t \psi)^2 [del]+ (D_t \varphi)^2 \sin^2 \theta[/del]}{(D_t \psi)^2 + (D_t \varphi)^2 + 2 D_t \psi \cdot D_t \varphi \sin \theta}$$

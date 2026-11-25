@@ -1,0 +1,27 @@
+[fig]Triangle diagram with vertices A, B, C, D, O[/fig] To prove
+$$\frac{(O^A - A^\circ)^{O_C}}{O^A - A^\circ} = \frac{(O^C - C^\circ)^{O_A}}{O^C - C^\circ}$$
+
+$$(O^A - A^\circ) : (O^D - D^\circ) = (O^A - A^\circ)^{O_C} : (O^D - D^\circ)^{O_C}$$
+$$(O^C - C^\circ) : (O^B - B^\circ) = (O^C - C^\circ)^{O_A} : (O^B - B^\circ)^{O_A}$$
+
+$$O^B - B^\circ = (O^A - A^\circ)^{O_C}$$
+$$O^D - D^\circ = (O^C - C^\circ)^{O_A}$$
+
+$$(O^A - A^\circ) : (O^C - C^\circ)^{O_A} = (O^A - A^\circ)^{O_C} : (O^C - C^\circ)^{[O_A] O_C}$$
+$$(O^C - C^\circ) : (O^A - A^\circ)^{O_C} = (O^C - C^\circ)^{O_A} : (O^A - A^\circ)^{[O_C] O_A}$$
+
+To prove that
+$$(O^C - C^\circ)^{[O_A] O_C} : (O^C - C^\circ)^{O_A} = (O^A - A^\circ)^{[O_C] O_A} : (O^A - A^\circ)^{O_C}$$
+
+[marginalia](b-c)[/marginalia]
+
+[fig]Triangle diagram with vertices A, B, C, D, O[/fig]
+
+$$(O^A - A^\circ) : (O^B - B^\circ) = (O^B - B^\circ) : (O^D - D^\circ)$$
+$$(O^B - B^\circ) = (O^A - A^\circ)^{O_B}$$
+$$(O^D - D^\circ) = (O^B - B^\circ)^{O_C}$$
+$$(O^C - C^\circ) : (O^D - D^\circ) = (O^C - C^\circ)^{X_Y} : (O^D - D^\circ)^{X_Y}$$
+$$(O^C - C^\circ)^{O_B} = O^B - B^\circ$$
+Subcase $$(O^C - C^\circ)^{O_B} = - (O^A - A^\circ)^{O_B}$$
+$$(O^C - C^\circ)^{O_B} = (O^A - A^\circ)^{O_B}$$
+$$\frac{(O^C - C^\circ)^{O_B}}{(O^C - C^\circ)^{O_B} + (O^C - C^\circ)^{O_B}} = \frac{(O^C - C^\circ)^{O_B}}{(O^C - C^\circ)^{O_B} - (O^C - C^\circ)^{O_B}}$$

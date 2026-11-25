@@ -1,0 +1,34 @@
+[pn]26[/pn] [pn]203[/pn]
+required to fix the ray, A. Its freedom in space is 3, in A
+is 1. Hence, the answer is: 1 + 3 - 1 = 3.
+
+11. What is the freedom of a ray required to lie in a given
+plane and pass through a fixed point [ins]without freedom.[/ins] in that plane? A is
+a ray in a plane. C is a fixed point. One additional point is
+requisite to fix A. Its freedom in the plane is 2. Its freedom
+in A is 1. Hence the answer is: 0 + 2 - 1 = 1
+
+12. What is the freedom a plane required restricted to con-
+taining a fixed ray? A is a plane. B is a ray. C is a
+ray. [del]Two points are[/del] [ins]No point is[/ins] required to fix a [del]ray[/del] [ins]C in B.[/ins]. The [del]freedom[/del]
+[del]of two points in B is 2.[/del] [ins]additional[/ins] number of points required
+to fix A is [del]1[/del] [ins]2[/ins]. Their freedom in space is 3, in A is 2. Hence,
+the answer is 0 + 3 - 2 = 1.
+
+13. What is the freedom of a ray restricted to passing through
+a fixed point? The point has no freedom. One additional
+point suffices to fix the ray. Its freedom in space is 3, in the
+ray 1. Hence, 0 + 3 - [del]1[/del] [ins]1[/ins] = 2 is the answer.
+
+14. What is the freedom of a [del]ray[/del] plane containing a
+fixed point? Answer: 0 + 2(3 - 2) = 2.
+
+Corollary 17. We find then
+the freedom of { [ins]a Point in a [ins]fixed[/ins] Ray[/ins] [del]a Point in a Ray[/del]
+[ins]a Ray in a [del]point[/del] plane through a fixed point[/ins]
+[del]a Plane through[/del] [ins]a Plane[/ins] [del]a[/del] [ins](containing)[/ins] a fixed ray } is 1.
+
+the freedom of { a Point in a fixed plane
+a Ray containing a fixed point
+a Ray in a fixed plane
+a Plane through a fixed point } is 2.

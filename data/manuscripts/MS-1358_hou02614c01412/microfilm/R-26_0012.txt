@@ -1,0 +1,15 @@
+$$B - l_{0}\sin\varphi - l_{2}\sin\psi = l_{1} \frac{\frac{1}{2}(\tan\varphi + \tan\psi)}{\sqrt{1 + \frac{1}{4}(\tan\varphi + \tan\psi)^{2}}}$$
+
+$$B^{2} - 2Bl_{0}\sin\varphi - 2Bl_{2}\sin\psi + l_{0}^{2}\sin^{2}\varphi + 2l_{0}l_{2}\sin\varphi\sin\psi + l_{2}^{2}\sin^{2}\psi$$
+$$= l_{1}^{2} \frac{\frac{1}{4}\tan^{2}\varphi + \frac{1}{2}\tan\varphi\tan\psi + \frac{1}{4}\tan^{2}\psi}{1 + [del]\frac{1}{4}\tan^{2}\varphi + \frac{1}{2}\tan\varphi\tan\psi + \frac{1}{4}\tan^{2}\psi[/del]}$$
+
+$$\frac{1}{2}(\tan\varphi + \tan\psi) = \frac{B - l_{0}\sin\varphi - l_{2}\sin\psi}{A - l_{0}\cos\varphi - l_{2}\cos\psi}$$
+
+[del]\frac{1}{2}(\sin\varphi[/del]
+$$\frac{1}{2}(\sin\varphi\cos\psi + \sin\psi\cos\varphi) = [del]\frac{B\cos\varphi}{A}[/del] \frac{B - l_{0}\sin\varphi - l_{2}\sin\psi}{A - l_{0}\cos\varphi - l_{2}\cos\psi} \cos\varphi\cos\psi$$
+
+$$\frac{1}{2}A(\sin(\varphi+\psi)) + \frac{1}{2}l_{0}(\sin\varphi\cos\varphi\cos\psi - \sin\psi\cos^{2}\varphi) + \frac{1}{2}l_{2}(\sin\varphi\cos^{2}\psi + \sin\psi\cos\psi\cos\varphi)$$
+$$= 2B\cos\varphi\cos\psi - l_{0}\sin\varphi\cos\varphi\cos\psi - l_{2}\sin\psi\cos\varphi\cos\psi$$ [fig]V-shaped mark[/fig]
+
+[del]As to exp[/del]
+$$A\sin(\varphi+\psi) - l_{0}\cos\varphi\sin(\psi-\varphi) + l_{2}\cos\psi\sin(\psi-\varphi) = 2B\cos\varphi\cos\psi$$

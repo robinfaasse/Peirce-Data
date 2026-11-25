@@ -1,0 +1,25 @@
+[pn]6[/pn]
+
+[u]Calculated a priori[/u].
+
+| Prot. | [u]$\frac{1}{2}$ diff. refr.[/u]<br>[u]a posteriori[/u] | [u]a priori[/u] | [u]Residual[/u] | |
+|---|---|---|---|---|
+| 1 | | [ins]''[/ins]<br>0.4 | | |
+| 3 | | 0.4 | | Diff from mean of 6 |
+| 6 | [ins]''[/ins]<br>1.9 | [ins]''[/ins]<br>0.4 | [ins]''[/ins]<br>+ 1.5 | + 0.7 |
+| 8 | 0.6 | 0.5 | + 0.1 | - 0.7 |
+| 10 | - 0.4 | 0.5 | - 0.9 | - 1.7 |
+| 13 | 1.7 | 0.5 | + 1.2 | + 0.4 |
+| 16 | 2.2 | 0.5 | + 1.7 | + 0.9 |
+| 21 | 2.0 | 0.6 | + 1.4 | + 0.6 [ins]mean error 1.0''[/ins] |
+| 37 | 0.0 | 1.0 | - 1.0 | |
+| 40 | 0.82 | 1.14 | - 0.42 | |
+| 63 | 2.14 | 1.63 | + 0.39 | |
+| 66 | 2.50 | 1.74 | + 0.64 | Diff from mean of 5 |
+| 72 | 2.2 | 2.9 | - 0.7 | + 0.1 |
+| 76 | 3.1 | 4.6 | - 1.5 | - 0.7 |
+| 81 | 5.4 | 5.9 | - 0.5 | + 0.3 |
+| 82 | 5.8 | 5.9 | - 0.1 | + 0.7 |
+| 83 | 5.1 | 6.5 | - 1.4 | - 0.6 [ins]mean error 0.6''[/ins] |
+
+We may remark with regard to these residuals that the first ones are generally positive and the latter ones

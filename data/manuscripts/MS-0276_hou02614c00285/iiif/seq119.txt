@@ -1,0 +1,22 @@
+[115]
+$p^2 + q^2 = a^2 = (u + v)^2$
+$= 2r^2 + u^2 + v^2 + 2(u - v)r \cos \theta$
+
+$P : [del]r[/del] = Q : v$
+$P^2 = \frac{r^2 Q^2}{v^2}$
+$v^2 P^2 = v^2 r^2 + u^2 v^2 + 2 u v^2 r \cos \theta$
+$r^2 Q^2 = r^4 + r^2 v^2 - 2 v r^3 \cos \theta$
+$u^2 v^2 - r^4 + 2 u v r (u v + r^2) \cos \theta = 0$
+$\cos \theta = \frac{r^4 - u^2 v^2}{2 u v r (u v + r^2)} = \frac{r^2 - u v}{2 u v r}$
+$[del]\frac{a + b}{a - b}[/del] \frac{a^2 - b^2}{a + b} = a - b = \frac{1}{2} (\frac{r}{v} - \frac{u}{r})$
+
+Apply the Stewart-Simson Theorem
+[fig]diagram[/fig]
+[del]\frac{p^2}{u a} + \frac{r^2}{u v}[/del] [del]v p^2 + u q^2 = a u v +[/del] r
+$v p^2 + u q^2 = u v a + a v^2$
+$\frac{+ p^2}{+ u a} - \frac{+ r^2}{u v} + \frac{q^2}{v a} = 1$
+
+[del]If[/del] $p$ and $q$ are mutual perpendiculars
+$p^2 + q^2 = a^2$ and $\frac{p^2}{a} + \frac{q^2}{a} = a$
+and since $u + v = a$  $u a = u^2 + u v$  $u^2 = u$
+$\frac{p^2}{a} + \frac{a^2 - p^2}{a}$  $v a = v^2 + u v$

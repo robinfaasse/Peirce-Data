@@ -1,0 +1,6 @@
+$$\sin(\alpha+\beta)\sin(\alpha-\beta) = \frac{1}{32}x_1 \frac{(s+q)[del]\overline{(s-q)^2}[/del] \left\{(s+x_1)-(q+x_1)\right\}\left\{(s-x_1)-(q-x_1)\right\}}{(s+x_1)(s-x_1)(q+x_1)(q-x_1)}$$
+
+$$= \frac{1}{32}x_1(s+q)\left\{\frac{1}{q^2-x_1^2} + \frac{1}{s^2-x_1^2} - \frac{1}{(s-x_1)(q+x_1)} - \frac{1}{(s+x_1)(q-x_1)}\right\}$$
+
+$$= \frac{1}{32}x_1\left\{\frac{s}{q^2-x_1^2} + \frac{q}{s^2-x_1^2} + \frac{q}{q^2-x_1^2} + \frac{s}{s^2-x_1^2}\right.$$
+$$\left. -\ \frac{1}{q+x_1} - \frac{1}{s-x_1} - \frac{1}{s+x_1} - \frac{1}{q-x_1}\right\}$$

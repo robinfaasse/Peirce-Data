@@ -1,0 +1,18 @@
+[u]Vertices[/u]
+
+$$\begin{array}{lll}
+A = \phantom{-}ex + z & E = \phantom{-}x + ey & I = \phantom{-}y + ez \\
+B = -ex + z & F = \phantom{-}x - ey & J = -y - ez \\
+C = \phantom{-}ex - z & G = -x + ey & K = -y + ez \\
+D = -ex - z & H = -x - ey & L = -y - ez
+\end{array}$$
+
+The vertices are naturally divided in 6 sets of opposite pairs $AD$, $BC$, $EH$, $GF$, $IL$, $JK$. Every vertex is adjacent to 5 and remote from 5.
+
+To find the vertex opposite a given vertex, multiply [ins]it[/ins] by $-1$
+
+To find the vertices adjacent to a given vertex, change the sign of $e$, or change the coefficients $x, y, z$, each to the next in the cycle [fig]cycle diagram[/fig] giving to the one resulting from zero either sign.
+
+The vertices [del]adjacent[/del] [ins]remote from[/ins] a given vertex are those opposite to adjacent vertices; i.e. adjacent to the opposite vertices.
+
+To find the two faces adjacent to two adjacent faces, distinguishing right & left rotations. [To be supplied.]

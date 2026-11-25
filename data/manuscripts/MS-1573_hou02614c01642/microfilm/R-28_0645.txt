@@ -1,0 +1,28 @@
+[marginalia]
+Comte
+Dolbear
+Wundt
+Bradley
+Halsted
+Münsterberg
+[/marginalia]
+
+[ins]
++ [del]I[/del] [ins]I[/ins] : J
+[/ins]
+i = A : [del]I[/del] [ins]I[/ins] + J : K + I : K
+j = A : J + I : K
+k = A : K
+l = A : L + I : K
+
+[fig]Diagram with letters A, I, J, K connected by lines[/fig]
+
+[bracket]
+i = I : Z + J : I + K J
+j = J : Z + K : I
+k = K : Z
+l = (L : Z) + K : I
+[/bracket]
+
+i = A : I + I : J + J : K + L : K
+j = A : J + J : K

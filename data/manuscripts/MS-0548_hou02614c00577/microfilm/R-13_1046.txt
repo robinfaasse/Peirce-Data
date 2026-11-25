@@ -1,0 +1,44 @@
+[marginalia]
+[u]Method[/u]
+
+Write $a \dagger b$ for $\overline{a}\ \overline{b}$
+Then
+$(a \dagger b) \dagger c = a \dagger (b \dagger c)$
+$(a \dagger b) (c \dagger d) \prec a \dagger b \dagger d$
+
+$a \dagger \infty = \infty$
+$\infty \dagger a = \infty$
+
+$a \dagger \pi = a$
+$\pi \dagger a = a$
+
+$\left\{ \begin{aligned} a (b \dagger c) &\prec a b \dagger c \\ (a \dagger b) c &\prec a \dagger b c \end{aligned} \right.$
+
+$\overline{a \dagger b} = \overline{a}\ \overline{b}$
+$\overline{a b} = \overline{a} \dagger \overline{b}$
+[/marginalia]
+
+[marginalia]
+Its means
+loss of everything
+but a servant
+[/marginalia]
+
+If $x \prec y$
+$l \dagger x \prec l \dagger y$
+$x \dagger s \prec y \dagger s$
+
+$(\overline{a^b})^c = [del]a^{\overline{b^c}}[/del] = a^{\overline{b^{\overline{c}}}}$
+
+$\overline{a^b}\ c^{\overline{d}} \prec a^{\overline{b^{\overline{c^{\overline{d}}}}}}$
+
+But more
+$a^{\overline{b^{\overline{c^{\overline{d}}}}}} \prec (a^{\overline{b^c}})^{\overline{d}} \prec a^{\overline{b^c \overline{d}}}$
+
+[marginalia]
+But this follows
+from above by putting
+$1^{\underline{st}}\ d = 1$ whence
+$a^{\overline{b^c}} \prec a^{\overline{b^c}}$
+$\therefore \overline{a^b}^c \prec (\overline{a} b)^c$
+[/marginalia]

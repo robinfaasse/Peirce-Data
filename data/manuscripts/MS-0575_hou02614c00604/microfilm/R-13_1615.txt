@@ -1,0 +1,37 @@
+Theorem VI. (Schröder) If
+
+$x \cdot \bar{y} \cdot \bar{z} \prec y + z$ and $x + \bar{z} \prec y + z$,
+
+then
+
+$x \prec y$
+
+Proof. By III and I
+
+$x \prec x + \bar{z} \prec y + z$
+
+By theorem [del]II[/del] [ins]III[/ins], corollary 5, [del]Second part of theorem 2[/del] and I
+
+$x \prec x \cdot (x + \bar{z}) \prec (y + z) \cdot (x + \bar{z}) \prec x \cdot y + \bar{z} \cdot y + \bar{z} \cdot z \prec x \cdot y + \bar{z} \cdot y \prec$
+
+$\prec y \cdot (x + \bar{z}) \prec y$.
+
+[del]Corollary[/del] [ins]Theorem VII[/ins]. (Schröder's proof.) $\bar{n} - \bar{n} - x = x$.
+
+Since, $x \cdot \bar{n} - x \prec 0$ and $1 \prec x + \bar{n} - x$
+
+[del]We have by theorem IV, corollary 9 and corollary 10,[/del]
+
+[del]1 < n - x[/del]
+
+We have, by substituting $\bar{n} - x$ for $x$,
+
+$\bar{n} - x \cdot \bar{n} - \bar{n} - x \prec 0$ and $1 \prec \bar{n} - x + \bar{n} - \bar{n} - x$
+
+Thence $x \cdot \bar{n} - x \prec \bar{n} - \bar{n} - x \cdot \bar{n} - x$ and $x + \bar{n} - x \prec \bar{n} - \bar{n} - x + \bar{n} - x$
+
+also $\bar{n} - \bar{n} - x \cdot \bar{n} - x \prec x \cdot \bar{n} - x$ and $\bar{n} - \bar{n} - x + \bar{n} - x \prec x + \bar{n} - x$
+
+Thence by theorem VI
+
+$x \prec \bar{n} - \bar{n} - x$ $\bar{n} - \bar{n} - x \prec x$.

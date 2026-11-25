@@ -1,0 +1,60 @@
+```
+[pn]4[/pn]
+
+$$\Delta_x a^x = a^{x+1} - a^x = (a-1) a^x$$
+
+$$\Delta_x a^{\underline{(x)}} = [del]\Delta_x[/del] a(a-1)(a-2)\dots$$
+
+$$= [del]a \Delta_x \prod_1^x (a-i)[/del]$$
+
+$$\Delta_y a^{\underline{(x)}}$$
+$$= \Delta_x \prod_1^{x-1} (a-i)$$
+$$= [del]\prod_1^x (a-i) - \prod_1^{x-1} (a-i)[/del]$$
+$$= (a-x) \prod_1^{x-1} (a-i) - \prod_1^{x-1} (a-i)$$
+$$= (a-x-1) \prod_1^{x-1} (a-i)$$
+$$= (a-x) \prod_1^{x-1} (a-i) - \prod_1^{x-1} (a-i)$$
+$$= (a-x[del]-1[/del]) \prod_1^{x-1} (a-i)$$
+$$= \prod_1^{x+2} (a-i)$$
+
+[del]$$\Delta_x x(x-1) = (x+1) \Delta_x x = a(a-1)(a-2)(a-3)$$[/del]
+
+$$\Delta_x x^{\underline{(1)}} = a(a-1)(a-2)(a-3) - a(a-1)(a-2)$$
+$$= (a-4) a(a-1)(a-2)$$
+
+$$a(a+1)(a+2)(a+3)$$
+
+$$\Delta_x x^{\underline{(1)}} = (x+1) - x = 1$$
+
+$$\Delta_x x^{\underline{(2)}} = x(x-1)$$
+
+[fig]Scattered numbers and binary-like sequences[/fig]
+
+---
+
+$$x(x+1)$$
+$$[del](x+1)(x+2) - (x+1)[/del]$$
+$$(x+1)(x+2) - x(x+1) = 2(x+1)$$
+
+$$(x+1)(x+2)(x+3) - x(x+1)(x+2) = 3(x+1)(x+2)$$
+
+$$x^{\underline{(3)}} = x(x+1)(x+2)$$
+$$x^{\underline{(2)}} = x(x+1)$$
+$$x^{\underline{(1)}} = x$$
+$$x^{\underline{(0)}} = 1$$
+$$x^{\underline{(-1)}} = \frac{1}{x-1}$$
+$$x^{\underline{(-2)}} = \frac{1}{x-1} \cdot \frac{1}{x-2}$$
+$$x^{\underline{(-3)}} = \frac{1}{x-1} \cdot \frac{1}{x-2} \cdot \frac{1}{x-3}$$
+
+$$(x+2) x^{\underline{(2)}} = x^{\underline{(3)}}$$
+
+$$\Delta x^{\underline{(-2)}} = \frac{1}{x} \cdot \frac{1}{x-1} - \frac{1}{x-1} \cdot \frac{1}{x-2}$$
+$$= \left(\frac{1}{x} - \frac{1}{x-2}\right) \frac{1}{x-1}$$
+$$= -2 \frac{1}{x} \cdot \frac{1}{x-1} \cdot \frac{1}{x-2}$$
+
+[ins]called the Naperian base,[/ins]
+A certain number is denoted by [u]e[/u], and it is this number to which the expression
+
+$$1 + \frac{x}{1} + \frac{x^2}{1.2} + \frac{x^3}{1.2.3.}$$
+
+[fig]Binary calculations and tables[/fig]
+```

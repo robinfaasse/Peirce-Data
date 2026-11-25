@@ -1,0 +1,28 @@
+[pn]FL[/pn] [pn]23[/pn]
+see how [u]m[/u] [u]d[/u] [u]a[/u] and [u]u[/u] enter in. We see that the form is
+$$\Sigma_r \Pi_q \Pi_r \Pi_s \Sigma_t \ \ \ \text{X} + \text{Y} \cdot d_r + \overline{m}_q + \overline{u}_{rs} \cdot a_t$$
+Hence $m^d$ must be of the form
+$$\Pi_p \Sigma_q \ \ \ \text{U} \cdot (\text{V} + \overline{d}_p) \cdot m_q = m^d$$
+The [del]long[/del] point is to discover the properties of $\text{U}$ and $\text{V}$. But I do not
+say that the problem can really be solved in that way
+
+The use of "characters" as indices makes it possible to express
+any mathematical propositions, if it can be called expressing them
+to resort to this device; but when it comes to the deeper problems
+for which a calculus of logic ought to be chiefly useful, this method
+furnishes little but memoranda. It will be noticed that the ex-
+pressions by means of characters are fearfully long and complex,
+Still, that cannot be said to be a fault as long as it is the only
+method of expression we have, so that we cannot be sure that
+anything simpler is possible. This method renders necessary a doctrine
+of mathematical possibility outside of the algebra itself.
+
+Let us trace out a little reasoning in this way. Given any two
+collections, the P's and the Q's, it is evident that there is a relation
+in which every P stands to [del]some[/del] [ins]every[/ins] Q and nothing else to anything
+nor anything to anything else.
+$$\Pi_\alpha \Pi_\beta \Sigma_\gamma \Pi_1 \Pi_2 \ \ q_{\alpha 1} \cdot q_{\beta 2} \cdot r_{\gamma 12} + \overline{q}_{\alpha 1} \cdot \overline{r}_{\gamma 12} + \overline{q}_{\beta 2} \cdot \overline{r}_{\gamma 12}$$
+$$= (q_{\alpha 1} \cdot q_{\beta 2} + \overline{r}_{\gamma 12}) \cdot (\overline{r}_{\gamma 12} + \overline{q}_{\alpha 1} + \overline{q}_{\beta 2})$$
+Next given any relation whatever, any pairs may be excluded from
+it, and there will be a relation including only the remaining pairs.
+$$\Pi_\delta \Pi_\epsilon \Sigma_\zeta \Pi_3 \Pi_4 \ \ (r_{\delta 34} \cdot \overline{r}_{\epsilon 34} + \overline{r}_{\zeta 34}) \cdot (\overline{r}_{\delta 34} + r_{\epsilon 34} + r_{\zeta 34})$$

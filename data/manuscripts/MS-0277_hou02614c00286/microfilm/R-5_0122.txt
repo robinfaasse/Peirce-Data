@@ -1,0 +1,63 @@
+[fig]nested Euler-style circles with letters[/fig]  a c
+
+a . c . [ [u]a[/u] + [u]b[/u] + [u]d[/u] + [u]f[/u] + d . e + c . ([u]e[/u] + f) ]
+= a . b . c + a . e . d + a . c . f + a . c . d . e + a . c . [u]e[/u] + a . c . f
+
+ab  [fig]nested circles[/fig]  a.b . [ [u]e[/u] + [u]e[/u] + b ([u]d[/u] + [u]e[/u]) ]
+[fig]nested circles with letters[/fig]  ([u]d[/u] + e) . b + [u]c[/u] + [u]e[/u]
+b . [u]d[/u] + [u]e[/u] + [u]c[/u]
+
+a.b.[u]e[/u] + b.[u]e[/u] + a.b.[u]d[/u] + a.b.e
+
+[fig]nested circles with letters[/fig]  a + [u]b[/u] + c . e . ([u]b[/u] + d.[u]e[/u])
+
+[fig]nested circles with letters[/fig]  [fig]nested circles with letters[/fig]  [fig]nested circles with letters[/fig]
+
+
+a < a . a
+[del]a + a < a[/del]
+(a + b) . b < a . b
+[del]a + b[/del]
+[del]a + b[/del] < a . [u]b[/u] + b
+a + b < a . b + b
+< a + [u]a[/u] . b
+< a . b + a . [u]b[/u] + [u]a[/u] . b
+(a + b) . (a + b) . ([u]a[/u] + [u]b[/u]) < a . b
+1 < a . ([u]a[/u] + [u]b[/u]) < a . b
+
+(a + b) . [u]b[/u] < a . [u]b[/u]
+
+[fig]nested circles[/fig]
+
+[fig]nested circles[/fig]  [fig]nested circles with 'b'[/fig]  b
+[fig]nested circles[/fig]  [fig]nested circles with 'ab'[/fig]
+[fig]nested circles[/fig]
+[fig]nested circles with 'b' and 'a'[/fig]
+[fig]nested circles[/fig]  [fig]nested circles[/fig]  [fig]nested circles[/fig]
+[fig]crossed out circles[/fig]  [fig]crossed out circles[/fig]
+[fig]crossed out circles[/fig]  [fig]crossed out circles[/fig]
+
+[fig]circles with letters[/fig]
+[fig]nested circles with 'a' and 'b'[/fig]
+
+[fig]circles 'a-b' and 'm'[/fig]
+[fig]nested circles with 'a-b'[/fig]
+[fig]circles 'm', 'a-b', 'n'[/fig]
+[fig]complex circle diagram with letters 'm', 'a', 'b', 'c', 'n'[/fig]
+[fig]circles 'm-a', 'n'[/fig]
+[fig]nested circles with 'a-c', 'b-c'[/fig]
+[fig]nested circles with 'b'[/fig]  c
+[fig]nested circles with 'a+b.c'[/fig]
+
+[fig]nested circles[/fig]
+[fig]nested circles[/fig]
+[fig]nested circles with 'r'[/fig]
+[fig]nested circles with 'r'[/fig]
+[fig]nested circles[/fig]
+[fig]crossed out circles[/fig]
+[fig]crossed out circles[/fig]
+[fig]circles[/fig]
+[fig]crossed out circles 'a-b'[/fig]  [fig]circles 'a-b'[/fig]
+[fig]crossed out circles 'a-b'[/fig]
+
+m - a < [fig]sum and product notation[/fig]  a_i . b_i [u]st[/u] a_i [u]pt[/u] c_i

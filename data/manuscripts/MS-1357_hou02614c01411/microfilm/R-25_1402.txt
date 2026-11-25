@@ -1,0 +1,31 @@
+[marginalia]Report on Live Load[/marginalia] [pn]24[/pn]
+
+[del]the six unknown quantities. It can, therefore, be so used as to de-[/del]
+[del]duce any values for these quantities. But[/del] The method which
+is suggested by good sense is to determine the pulls upon
+the two cords and thence their lengths, or $R_o$ and $R_i$. These values
+being assumed the six equations, (2) – (7), become linear; and
+from them new values of $R_o$ and $R_i$ can be calculated.
+
+Let us [del]also[/del] take the following values of the known
+quantities:
+$$\Phi_o = 0 \qquad \Phi_2 = 0$$
+$$x_1 = 12 \qquad x_2 = 15$$
+$$y_1 = 5 \qquad y_2 = 1$$
+$$\Lambda_o = \frac{10}{3} \qquad \Lambda_2 = 5$$
+$$\mu_o = \frac{1}{10} \qquad \mu_2 = \frac{1}{100}$$
+$$P_o = 1 \qquad P_i = \frac{1}{2}$$
+$$\Phi = 1$$
+
+For an infinitesimal load then, the moments are
+of the horizontal pull $\frac{12 \times 3}{75 - 12} = \frac{12}{21}$
+of the downward pull on 0 $\frac{3 \times 5}{75 - 12} = \frac{5}{21}$
+of the downward pull on 2 $\frac{12 \times 4}{75 - 12} = \frac{16}{21}$
+of the pull along the cord o $\frac{\sqrt{144 + 25}}{21} = \frac{13}{21}$
+of the pull along the cord i $\frac{\sqrt{144 + 256}}{21} = \frac{20}{21}$
+
+Since $\Phi = 1$, $P_o = 1$, the increase of length of cord o is $\frac{13}{21}$
+" $\Phi = 1$, $P_i = \frac{1}{2}$, the increase of leng of cord i is $\frac{10}{21}$
+
+But $R_o = \sqrt{144 + 25} = 13 \qquad R_i = \sqrt{9 + 16} = 5$
+$\therefore R_o = 13 + \frac{13}{21} \qquad R_i = 5 + \frac{10}{21}$

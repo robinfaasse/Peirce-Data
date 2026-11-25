@@ -1,0 +1,29 @@
+[fig]Geometric diagram of a quadrilateral with diagonals and labels[/fig] [fig]Smaller geometric diagram of a quadrilateral with diagonals[/fig]
+
+$$\frac{\sin D'}{\sin s} = \frac{\sin A'}{\sin p} = \frac{\sin M}{\sin m_1}$$
+
+$$\frac{\sin C''}{\sin m_1} = \frac{\sin A'}{\sin m_2} = \frac{\sin(D' + D'')}{\sin(s + q)}$$
+
+$$\frac{\sin D''}{\sin q} = \frac{\sin C''}{\sin p} = \frac{\sin M}{\sin m_2}$$
+
+$$\frac{\sin C'}{\sin m_4} = \frac{\sin A''}{\sin m_3} = \frac{\sin(B' + B'')}{\sin(s + q)}$$
+
+$$\frac{\sin B'}{\sin q} = \frac{\sin C'}{\sin r} = \frac{\sin M}{\sin m_3}$$
+
+$$\frac{\sin C''}{\sin C'} \cdot \frac{\sin m_4}{\sin m_1} = \frac{\sin A'}{\sin A''} \cdot \frac{\sin m_3}{\sin m_2} = \frac{\sin(D' + D'')}{\sin(B' + B'')}$$
+
+$$\frac{\sin B''}{\sin s} = \frac{\sin A''}{\sin r} = \frac{\sin M}{\sin m_4}$$
+
+$$\frac{\sin B'}{\sin m_2} = \frac{\sin D''}{\sin m_3}$$
+$$\frac{\sin B''}{\sin m_1} = \frac{\sin D'}{\sin m_4}$$
+
+$$= \frac{\sin(C' + C'')}{\sin(p + r)}$$
+$$= \frac{\sin(A' + A'')}{\sin(p + r)}$$
+
+$$\frac{\sin D''}{\sin B'} = \frac{\sin C''}{\sin C'} \cdot \frac{\sin r}{\sin p} = \frac{\sin m_3}{\sin m_2}$$
+
+$$\frac{\sin B'}{\sin B''} \cdot \frac{\sin D''}{\sin D'} = \frac{\sin m_2}{\sin m_1} \cdot \frac{\sin m_4}{\sin m_3} = \frac{\sin(C' + C'')}{\sin(A' + A'')}$$
+
+$$\frac{\sin D'}{\sin B''} = \frac{\sin A'}{\sin A''} \cdot \frac{\sin r}{\sin p} = \frac{\sin m_4}{\sin m_1}$$
+
+$$\frac{\sin D''}{\sin D'} \cdot \frac{\sin B''}{\sin B'} = \frac{\sin C''}{\sin C'} \cdot \frac{\sin A''}{\sin A'} = \frac{\sin m_3 \cdot \sin m_1}{\sin m_2 \cdot \sin m_4}$$

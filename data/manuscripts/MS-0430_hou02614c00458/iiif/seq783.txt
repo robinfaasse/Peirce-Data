@@ -1,0 +1,20 @@
+Logic
+[ured]III[/ured]
+69
+
+completely written out, since its [del]ante[/del] constituents must
+be written, if at all, one by one.
+
+(79) If (x < y) < y then x < y
+(80) If x < y (y < x) < x
+(81) (x < y) < y = (y < x) < x
+(82) [del]If (x < y) < z then (x < z) < z[/del] x v y < z = (x < z) [ins](y < z)[/ins]
+(83) [del]If (x < y) < z then y < z[/del] (x v y) < z = x < z [del]y < z[/del] [ins]and y < z[/ins]
+(84) [del]If (x < z) < z and y < z, then (x v y) < z[/del] [del]([(x v y) < y] < z)[/del] [del]y < z[/del] [del]= (x < z) [ins]and[/ins] (y < z)[/del]
+[ins]((x v y) < y) < z = x < (y < z)[/ins]
+(85) [del]Any consequence of which an ultimate constituent is scriptible is[/del]
+[ins]If [(x v y) < t] < z then[/ins] [del]scriptible[/del]
+[ins]x < (y < t) < z[/ins]
+(86) [del]Any consequence is scriptible [del]endup in[/del] A < A[/del]
+
+[fig]figure[/fig]

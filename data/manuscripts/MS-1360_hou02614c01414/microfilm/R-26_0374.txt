@@ -1,0 +1,24 @@
+infinitesimal portion considered. The condition that the three
+middle stretches must extend between two points fixed as far
+as the variation considered is concerned makes
+$$\sin \tau_{n-1} + \sin \tau_n + \sin \tau_{n+1} = \text{Constant},$$
+$$\cos \tau_{n-1} + \cos \tau_n + \cos \tau_{n+1} = \text{Constant};$$
+or, differentiating,
+$$\cos \tau_{n-1} \cdot \delta \tau_{n-1} + \cos \tau_n \cdot \delta \tau_n + \cos \tau_{n+1} \cdot \delta \tau_{n+1} = 0,$$
+$$\sin \tau_{n-1} \cdot \delta \tau_{n-1} + \sin \tau_n \cdot \delta \tau_n + \sin \tau_{n+1} \cdot \delta \tau_{n+1} = 0.$$
+These equations give
+$$\delta \tau_{n+1} = - \frac{\sin (\tau_n - \tau_{n-1})}{\sin (\tau_{n+1} - \tau_{n-1})} \delta \tau_n ,$$
+$$\delta \tau_{n-1} = - \frac{\sin (\tau_{n+1} - \tau_n)}{\sin (\tau_{n+1} - \tau_{n-1})} \delta \tau_n .$$
+[fig]curve with tangent lines[/fig]
+
+Except where the curvature is infinite the sines are equal to the
+angles. Under these conditions
+$$(\tau_{n+2} - \tau_{n+1})^2 + (\tau_{n+1} - \tau_n)^2 + (\tau_n - \tau_{n-1})^2 + (\tau_{n-1} - \tau_{n-2})^2$$
+is to be made a minimum; so that, $\tau_{n+2}$ and $\tau_{n-2}$ being unvaried,
+$$- (\tau_{n+2} - \tau_{n+1}) \delta \tau_{n+1} + (\tau_{n+1} - \tau_n) (\delta \tau_{n+1} - \delta \tau_n) + (\tau_n - \tau_{n-1}) (\delta \tau_n - \delta \tau_{n-1}) + (\tau_{n-1} - \tau_{n-2}) \delta \tau_{n-1}$$
+$= 0$. That is,
+$$(\tau_{n+2} - 2\tau_{n+1} + \tau_n) \delta \tau_{n+1} + (\tau_{n+1} - 2\tau_n + \tau_{n-1}) \delta \tau_n + (\tau_n - 2\tau_{n-1} + \tau_{n-2}) \delta \tau_{n-1} = 0;$$
+[del]Reducing[/del] Substituting the values of $\delta \tau_{n+1}$ and $\delta \tau_{n-1}$, and clearing from fractions
+[del]$(\tau_{n+2} - \tau_{n+1}) (\tau_n - \tau_{n-1}) - (\tau_{n+1} - \tau_n) (\tau_n - \tau_{n-1}) - (\tau_{n+1} - \tau_n) (\tau_{n+1} - \tau_n) - (\tau_{n+1} - \tau_n) (\tau_{n-1} - \tau_{n-2})$[/del]
+$+ (\tau_{n+2} - \tau_{n+1}) (\tau_{n+1} - \tau_n) + (\tau_{n+1} - \tau_n) (\tau_n - \tau_{n-1}) + (\tau_n - \tau_{n-1}) (\tau_{n+1} - \tau_n) - (\tau_{n-1} - \tau_{n-2}) (\tau_{n+1} - \tau_n)$
+$= 0$ Four terms cancel. The rest are $\tau_{n+2} (\tau_n - \tau_{n-1}) + \tau_{n-2} (\tau_{n+1} - \tau_n) + \tau_n (\tau_{n+1} - \tau_{n-1}) = 0$

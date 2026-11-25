@@ -1,0 +1,29 @@
+[pn]No. 195[/pn] [pn]44616801402[/pn] [pn]A mail Box 5[/pn]
+
+[u]Trigonometry[/u]
+
+§1. [u]Trigonometry is the theory of the exponential function[/u],
+defined by the series
+[del]Exp[/del] $\text{Exp } x = 1 + x + \frac{1}{2} x^2 + \frac{1}{3!} x^3 + \text{etc.} = \sum_{0}^{\infty}r \frac{x^r}{r!}$
+
+§2. To find $\text{Exp } tx \times \text{Exp } x$
+$\text{Exp } tx = 1 + tx + \frac{1}{2} t^2 x^2 + \frac{1}{3!} t^3 x^3 = \sum_{0}^{\infty}r \frac{t^r x^r}{r!}$
+$\text{Exp } x = 1 + x + \frac{1}{2} x^2 + \frac{1}{3!} x^3 = \sum_{0}^{\infty}r \frac{x^r}{r!}$
+
+Product = 1
+$+ (t+1)x$
+$+ (\frac{1}{2} t^2 + t + \frac{1}{2}) x^2$
+$+ (\frac{1}{3!} t^3 + \frac{1}{2} t^2 + \frac{1}{2} t + \frac{1}{3!}) x^3$
+$+ (\frac{1}{4!} t^4 + \frac{1}{3!} t^3 + \frac{1}{2} \cdot \frac{1}{2} t^2 + \frac{1}{3!} t + \frac{1}{4!}) x^4$
+$+ (\frac{1}{5!} t^5 + \frac{1}{4!} t^4 + \frac{1}{3!} \frac{1}{2} t^3 + \frac{1}{2} \frac{1}{3!} t^2 + \frac{1}{4!} t + \frac{1}{5!}) x^5$
+$+\text{ etc.}$
+$= \sum_{0}^{\infty}r \sum_{0}^{r}q \frac{1}{q!} \frac{1}{(r-q)!} t^q x^r$
+
+But the binomial theorem is
+$\frac{(s+t)^r}{r!} = \sum_{0}^{r}q \frac{1}{q!} \frac{1}{(r-q)!} t^q s^{r-q}$
+
+Hence
+$\text{Exp } tx \cdot \text{Exp } x = \sum_{0}^{\infty}r \frac{(t+1)^r x^r}{r!} = \text{Exp } (t+1)x$.
+
+Hence if $t$ is an integer
+$(\text{Exp } x)^t = \prod_{1}^{t}s \text{Exp } x = \text{Exp } tx$.

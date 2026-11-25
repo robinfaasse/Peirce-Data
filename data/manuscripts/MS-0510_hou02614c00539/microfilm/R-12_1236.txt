@@ -1,0 +1,34 @@
+[fig]Existential graph with nested loops containing "catholic" and "loves — woman"[/fig] [fig]Existential graph with nested loops containing "catholic", "loves", and "is a woman"[/fig]
+
+[del]catholic — loves — woman[/del]
+[fig]Existential graph with nested loops containing "catholic" and "loves — woman"[/fig]
+[del]catholic[/del]
+[fig]Existential graph with nested loops containing "is a catholic", "loves", and "loves — a woman"[/fig]
+
+[fig]Existential graph with nested loops containing "A is a catholic" and "A loves B B is a woman"[/fig]
+
+[fig]Existential graph with nested loops containing "Q is a catholic"[/fig] [del]C loves[/del] D is a woman
+[fig]Existential graph with nested loops containing "B is a woman" and "C loves D"[/fig] [fig]Existential graph with nested loops containing "C loves D"[/fig]
+
+$\Sigma_i \Pi_j \Pi_k \text{ c}_i \cdot \left( \bar{\text{w}}_j + \bar{\text{l}}_{ij} + \bar{\text{c}}_k + \bar{\text{l}}_{kj} + \text{l}_{ij} \right)$
+[fig]Existential graph with nested loops containing "is a catholic", "loves", "loves", and "is a woman"[/fig]
+
+[fig]Existential graph with nested loops containing "is catholic" and "is catholic"[/fig]
+
+[fig]Existential graph with nested loops containing "catholic" and "loves — woman"[/fig]
+
+[fig]Existential graph with nested loops containing "catholic", "love — widow", "love — maid", and "love — wife"[/fig] [fig]Existential graph with nested loops containing "woman", "widow", "maid", and "wife"[/fig]
+
+A is a [del]woman[/del] [ins]catholic[/ins]
+[fig]Existential graph with nested loops containing "Z is a catholic" and "Z loves A"[/fig]
+
+C is a catholic
+D is a catholic
+C $\bigcirc$ D
+
+B is a catholic
+[del]Y is a catholic[/del]
+Z is a [del]woman[/del] [ins]catholic[/ins]
+Y loves Z
+B loves Z
+B $\bigcirc$ Y

@@ -1,0 +1,9 @@
+$$sq = r^2 \quad (s-ci)(q+ci) = w^2$$
+$$s = \frac{r^2}{q} \quad (\frac{r^2}{q}-ci)(q+ci) = w^2$$
+$$r^2 + (\frac{r^2}{q}-q)ci + c^2 = w^2$$
+$$\frac{(r^2+c^2-w^2)}{c}q + r^2i - q^2i = 0$$
+$$\frac{r^2+c^2-w^2}{c}q \cdot i + q^2 = r^2$$
+$$q + \frac{1}{2} \frac{r^2+c^2-w^2}{c}i = \sqrt{r^2 - \frac{1}{4} \frac{(r^2+c^2-w^2)^2}{c^2}}$$
+$$q = -\frac{1}{2} \frac{r^2+c^2-w^2}{c}i \pm \frac{1}{2c}i \sqrt{r^4+c^4+w^4-2r^2c^2-2r^2w^2-2c^2w^2}$$
+$$s = \frac{1}{2} \frac{r^2+c^2-w^2}{c}i \mp \frac{1}{2c}i \sqrt{r^4+c^4+w^4-2r^2c^2-2r^2w^2-2c^2w^2}$$
+[del]259[/del] $D_s = q D_{r^2} + (q+ci) D_{w^2}$

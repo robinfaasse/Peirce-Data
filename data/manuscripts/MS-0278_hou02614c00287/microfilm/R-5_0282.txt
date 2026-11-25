@@ -1,0 +1,15 @@
+protractor, to multiply the radius vector of the polar stereo-
+graphic by a factor, which will be found in the books.
+But the geodesic lines [del]does[/del] [ins]do[/ins] not appear as circles. Indeed,
+geodesic lines do not return into themselves, the difference
+of longitude [ins]between[/ins] [del]of[/del] [del]two[/del] northernmost point, if this is in
+middle latitudes, and the intersection with the
+equator falling short of $90^{\circ}$ by about $15$ miles.
+I therefore begin by making a transformed map
+where ($r''$ and $\theta''$ being the coordinates)
+
+$$r'' e^{\theta'' i} = F(r e^{\theta i})$$
+
+where $F$ is a complicated function such that
+the geodesic line, I wish to make the central line
+of my map has everywhere constant curvature.

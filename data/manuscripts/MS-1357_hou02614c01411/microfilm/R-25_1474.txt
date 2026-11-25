@@ -1,0 +1,17 @@
+Thus,
+(1) $\begin{cases} x' = x - x_H \text{ and since } x_0 = 0, & x'_0 = -x_H ; & x'_H = 0 ; \\ y' = y - y_H , & y'_0 = 0, & y'_H = -y_H ; & y'_H = 0 . \end{cases}$
+
+We shall use $\Sigma$ and $\Delta$ with or without indications of limits, thus:
+$\Delta u_n = \Delta_n^{n+1} u_i = u_{n+1} - u_n$
+$\Sigma u_n = \sum_1^{n-1} u_i + \text{arbitrary Constant} = u_{n-1} + u_{n-2} + \dots u_0 + \text{arbitrary Constant}$
+
+The length and direction of the cord will be shown by
+$s$, the length from the origin with increasing $x$ to the variable point,
+$\tau$, the inclination of the tangent to the horizon measured so that $\tau$ increases with $x$.
+$\rho$ is the radius of curvature.
+$w$ is the weight attached along the cord from the origin to the variable point.
+(2) $w' = w - w_H$, and since $w_0 = 0$, $w'_0 = -w_H$ ; $w'_H = 0$.
+$\xi(p,q) = \xi(q,p)$ is the value of $x$ for the centre of gravity of all the weights between the middle of the $p^{\text{th}}$ stretch and the middle of the $q^{\text{th}}$ stretch. $\xi'(p,q)$ is the corresponding value of $x'$. $\xi(p)$ or $\xi_p = \xi(\text{origin}, p)$
+$q$ is the tension on the cord at any point
+$Q$ is its horizontal component (which will be found to be constant)
+$P$ is its vertical component.

@@ -1,0 +1,11 @@
+[u]Problem[/u]. Given two rays: required all the points whose perpendicular distances from these rays are in a given ratio.
+
+[u]Solution[/u]. By Exercise , find [del]a[/del] [ins]two[/ins] points whose distances from the two given rays are any assumed distances in the given ratio, but which lie in different angular spaces. [del]To[/del] Find the two rays joining each one of those points to the intersection of the given rays; and all the points fulfilling the conditions of the problem are the points of these two rays.
+
+[u]Exercise[/u]. Demonstrate the above, by means of the principle of similar triangles.
+
+Given a plane triangle. Find a point whose distances from the three sides are in given ratios.
+
+Given a triangle whose sides are in the ratio of 5:7:9. Find a point whose relative distances from those sides are as 405:175:441. Find another whose distances are as 245:567:225.
+
+In general, if the sides are as [u]a[/u]:[u]b[/u]:[u]c[/u], find two points the relative distances of one of which are as [u]c[/u]²[u]a[/u]: [u]a[/u]²[u]b[/u]: [u]b[/u]²[u]c[/u], and those of the other as [u]a[/u][u]b[/u]²:[u]b[/u][u]c[/u]²:[u]c[/u][u]a[/u]². These are called the [u]Brocard points[/u].

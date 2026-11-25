@@ -1,0 +1,19 @@
+P. 144 Ex 10. To find the area of the segment [del]in[/del]
+between the curve the [del]axis[/del] [ins]axis[/ins] of [u]x[/u], and the
+lines drawn parallel to the axis of [u]y[/u]; of [del]the[/del]
+known as the parabola of the order [u]a[/u]
+has for its equation
+[u]y[/u] = [u]A[/u][u]x[/u][sup]a[/sup]
+
+Since [u]y[/u][sub]0[/sub] = 0
+[u]s[/u] = [int][sub]y[/sub] ([u]x[/u][sub]1[/sub] - [u]x[/u][sub]0[/sub])
+
+[u]a[/u]/[u]y[/u] = [u]y[/u]/[u]B[/u] = [u]x[/u]
+
+[int][sub]y[/sub] [sup]a[/sup]/[u]y[/u] = [int][sub]y[/sub] [sup]a[/sup]/[u]B[/u] [u]y[/u] - [int][sub]x[/sub] [u]x[/u] [sup]a[/sup]/[u]y[/u] = [int][sub]x[/sub] [u]A[/u][u]a[/u][u]x[/u][sup]a[/sup] = [frac][u]A[/u][u]a[/u][u]x[/u][sup]a+1[/sup]/[u]a[/u]+1[/frac]
+
+[fig]Coordinate graph with curve and shaded area[/fig]
+
+[int][sub]x[sub]0[/sub][/sub][sup]x[sub]1[/sub][/sup] gives space between AC & BD
+
+[int][sub]y[/sub] gives space from CD to AB.

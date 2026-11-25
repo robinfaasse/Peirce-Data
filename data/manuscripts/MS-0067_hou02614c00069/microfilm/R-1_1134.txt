@@ -1,0 +1,33 @@
+```
+tan s = k tan i
+
+d tan s = [del]sec²s[/del] (1 + tan²s) ds
+
+ds = [frac]d tan s[/frac] / [frac]1 + tan²s[/frac] = [frac]k (1 + tan²i) di[/frac] / [frac]1 + tan²s[/frac]
+
+= [frac]k + k tan²i[/frac] / [frac]1 + k² tan²i[/frac] = [frac]k (1 + [frac]1[/frac]/[frac]k²[/frac] tan²s)[/frac] / [frac]1 + tan²s[/frac] di
+
+ds - di = [frac]k + [frac]1[/frac]/[frac]k[/frac] tan²s[/frac] / [frac]1 + tan²s[/frac] - 1
+
+[marginalia]
+k - 1 + (k - k²) tan²i
+tan²i = [frac]1[/frac]/[frac]k[/frac]
+[/marginalia]
+
+= [frac]k - 1 + ([frac]1[/frac]/[frac]k[/frac] - 1) tan²s[/frac] / [frac]1 + tan²s[/frac]
+
+For max deflection: tan²s = [frac][frac]1[/frac]/[frac]k[/frac] - 1[/frac] / [frac]k - 1[/frac] = [frac]1 - k[/frac] / [frac]k² - k[/frac]
+
+tan s tan²s = [frac]1 - k[/frac] / [frac][frac]1[/frac]/[frac]k[/frac] - 1[/frac] = k
+
+---
+
+tan (x + 45°) = [frac]tan x + 1[/frac] / [frac]1 - tan x[/frac] = [frac]sin x + cos x[/frac] / [frac]cos x - sin x[/frac]
+
+[del]tan (x - 45°)[/del]
+tan (45° - x) = [frac]1 - tan x[/frac] / [frac]1 + tan x[/frac]
+
+sin (45° + x) = √½ ([del]sin x + cos x[/del] [ins]cos x + sin x[/ins])
+sin (45° - x) = √½ (cos x - sin x)
+
+[fig]Geometric diagrams with triangles, angles, and a circle[/fig]

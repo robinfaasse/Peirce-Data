@@ -1,0 +1,38 @@
+[u]Lecture I[/u]
+
+No great devel[sup]t[/sup] of prin[sup]s[/sup] but
+remarkable mode of operation
+& corresponding notation
+
+Limitations to Tay. Th. only
+finite & int powers of [del]variable[/del]
+Resid. C. includes these
+cases & gives results of great
+val. far removed otherwise
+from science.
+
+[u]1[/u] $f(x) = \infty$ $(fx)' = 0$
+$f(x) = i$ $fx = \infty$ of certain order
+$i^m f(x+i)$ finite
+$L_m f(x+h)$ to be dev by Resid's Th.
+
+$C + C_1 L + C_2 L^2 + C_n L^n \Sigma_n C_n L^n$
+$f(x+L) = C L^{-m} + C_1 L^{-(m-1)}$ [del]etc[/del]
+
+[u]2[/u] $C_{m-1}$ = differential coefficient
+$C_{m-1}$ = residual
+a resemblance [del]more[/del] of form
+than of substance.
+
+[u]3[/u] $\frac{D_h^{m-1} h^m f(x+h)}{(m-1)!} = R$
+Only one D many R
+
+[u]EXAMPLES[/u]
+
+1 $(x-a)^{-1} (x-b)^{-1}$ [del]$(x-a)^{-1} (x-b)^{-2}$[/del]
+[marginalia]
+$y = a$ $m=1$
+$x = b$ $m=2$
+[/marginalia]
+
+$(x+i-a)^{-1} (x+i-b)^{-2} = \frac{1}{(a-b)^2}$

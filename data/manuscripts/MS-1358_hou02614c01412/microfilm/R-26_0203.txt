@@ -1,0 +1,25 @@
+[marginalia]Morrison's Bridge [date]1899 Feb 20[/date][/marginalia] [pn]2[/pn]
+
+Check by doing another way
+
+By [del]$\frac{1}{r}$[/del] $(b'x + 2(c'-c)Ix + 2cx^2)$
+
+$long^2 = \frac{1}{r^2} [ [del]b'^2[/del] + 4b'c'I - 4b'cI + 4c'^2 I^2 [del]- 8c'cI^2[/del] + 4c^2 I^2)x^2 + (4b'c + 8c'cI - 8c^2 I)x^3 + 4c^2 x^4 ]$
+
+$Energy = \frac{E}{2} \int \frac{(Elong)^2}{\sqrt{1+\frac{x^2}{r^2}}} dx$
+
+$= \left\{ \begin{array}{l} \frac{1}{4}b'^2 x + b'c'Ix - b'cIx + c'^2 I^2 x [del]- 2c'cI^2 x[/del] + c^2 I^2 x \\ \qquad\qquad + \frac{2}{3} b'c x^2 \qquad\qquad + \frac{4}{3} c'c I x^2 - \frac{4}{3} c^2 I x^2 \\ \qquad\qquad - \frac{2}{3} b'c r^2 \qquad\qquad - \frac{8}{3} c'c I r^2 + \frac{8}{3} c^2 I r^2 \\ \qquad\qquad\qquad\qquad\qquad\qquad\qquad + \frac{1}{2} c^2 x^3 \\ \qquad\qquad\qquad\qquad\qquad\qquad\qquad - \frac{3}{4} c^2 r^2 x \end{array} \right\} \sqrt{1+\frac{x^2}{r^2}}$
+
+$[ - \frac{1}{4} b'^2 r + b'c'Ir - b'cIr + c'^2 I^2 r [del]- 2c'cI^2 r[/del] + c^2 I^2 r + \frac{3}{4} c^2 r^3 ] \log$
+
+Between limits
+
+$[ \frac{1}{4} b'^2 I + b'c' I^2 + b'c ([del]-\frac{1}{3} I^2[/del] [ins]$-\frac{1}{3} I^2$[/ins] [del]- \frac{2}{3} r^2[/del]) + c'^2 I^3 + c'c ([del]-2 I^3[/del] [ins]$-\frac{2}{3} I^3$[/ins] [del]- \frac{8}{3} I r^2[/del]) + c^2 ([del]\frac{1}{3} I^3[/del] [ins]$\frac{1}{3} I^3$[/ins] [del]+ \frac{8}{3} I r^2[/del] [ins]$+ \frac{23}{12} r^2 I$[/ins] [del]- \frac{3}{4} I r^2[/del]) ] \sqrt{1+\frac{I^2}{r^2}}$
+
+[fig]A vertical wavy line representing a spring or helix[/fig]
+
+$[ \frac{1}{4} b'^2 N + b'c' IN + b'c (-IN - \frac{2}{3} N^2 + \frac{2}{3} r^2) + c'^2 I^2 N + c'c (-2IN - \frac{4}{3} N^2 + \frac{8}{3} r^2) + c^2 (IN + \frac{4}{3} IN^2 - \frac{8}{3} I r^2 + \frac{1}{2} N [del]- \frac{3}{4} r^2 N[/del] [ins]$-\frac{3}{4} r^2 N$[/ins]) ] \frac{3}{\sqrt{1+\frac{N^2}{r^2}}}$
+
+$\left( \begin{array}{l} \frac{1}{4} b'^2 N + b'c' JN - b'c'' JN + c'^2 J^2 N - 2c'c'' J^2 N + c^2 J^2 N \\ \qquad\qquad\qquad + \frac{2}{3} N^2 \qquad\qquad\qquad + \frac{4}{3} JN^2 - \frac{4}{3} JN^2 \\ \qquad\qquad\qquad - \frac{2}{3} r^2 \qquad\qquad\qquad - \frac{8}{3} Jr^2 + \frac{8}{3} Jr^2 \\ \qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad + \frac{1}{2} N^3 \\ \qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad - \frac{3}{4} r^2 N \end{array} \right) \sqrt{1+\frac{N^2}{r^2}}$
+
+$+ \left( \begin{array}{l} - \frac{1}{4} b'^2 J - b'c' J^2 [del]+ b'c'' J^2[/del] [ins]$+ \frac{1}{3}$[/ins] - c'^2 J^3 [del]+ 2c'c'' J^3[/del] [ins]$+ \frac{2}{3}$[/ins] - c^2 J^3 [ins]$-\frac{1}{6}$[/ins] \\ \qquad\qquad\qquad\qquad + \frac{2}{3} \frac{J^2}{r^2} \qquad\qquad\qquad + \frac{8}{3} J r^2 - \frac{8}{3} \frac{J^2}{r^2} \\ \qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad - \frac{1}{2} J^2 \\ \qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad\qquad + \frac{3}{4} J r^2 \end{array} \right) \sqrt{1+\frac{J^2}{r^2}}$

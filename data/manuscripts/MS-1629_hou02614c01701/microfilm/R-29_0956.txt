@@ -1,0 +1,13 @@
+[pn]Peirce[/pn]
+
+$(497)$ is got by merely combining $(462)$ and $(426)$. $(496)$ is obtained by substituting $(491-5)$ in $(273)$, thus
+
+$$f x = x^n e^{-a x^2} \quad \varphi y = \sqrt{\log \frac{1}{y}}$$
+$$D_y \varphi y = - \frac{1}{2 y \sqrt{\log \frac{1}{y}}} \quad f \varphi y = \left(\log \frac{1}{y}\right)^{\frac{n}{2}} e^{-a \log \frac{1}{y}} =$$
+$$- \left(\log \frac{1}{y}\right)^{\frac{n}{2}} y^a \quad \int_0^\infty F x = \int_0^1 F \varphi y \text{ by } (496-5)$$
+
+$$\int_x f x = \int_y f(\varphi y) D_y \varphi y$$
+$$\int_0^\infty x^n e^{-a x^2} = \int_0^1 - \left[\left(\log \frac{1}{y}\right)^{\frac{n}{2}} y^a \left(-2 y \log \frac{1}{y}\right)^{-1} =$$
+$$\frac{1}{2} \int_0^1 \left(\log \frac{1}{y}\right)^{\frac{n-1}{2}} y^{a-1}$$
+
+[pn]R[/pn] [pn]Peirce[/pn]

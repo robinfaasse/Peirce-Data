@@ -1,0 +1,41 @@
+[fig]Binary matrix[/fig] [fig]Matrix of letters and numbers[/fig]
+
+[fig]Four-pointed star[/fig] [fig]Four-pointed star[/fig] [fig]Four-pointed star[/fig] [fig]Four-pointed star[/fig]
+
+[u]F[/u] faces
+[u]E[/u] edges
+[u]S[/u] Summits
+
+[fig]Four-pointed star[/fig]
+
+[u]F[/u] [u]F-2[/u] [u]2E[/u]
+3 1 6 = 2 + 2 + 2
+4 2 12 = 3 + 3 + 3 + 3 = 4 + 4 + [del]2[/del] [ins]2[/ins] + 2 [fig]Lens with line[/fig]
+5 3 18 = [del]3 + 3 + 6[/del]
+[ins]6 + 4 + 4 + 2 + 2[/ins] [ins]4 x 4 + 2[/ins] Impos
+5 + 5 + 3 + 3 + 2 [ins]3 x 4 + 2 x 3[/ins]
+6 4 24 = 5 + 5 + 5 + 5 + [del]2 + 2[/del]
+5 + 5 + 5 + 4 + 3 + 2 [fig]Scribble[/fig]
+
+E = [frac]3[/frac] S
+E + 2 = S + F
+[frac]1[/frac] S + 2 = F
+[frac]1[/frac] E + 2 = F
+2E + 12 = 6F
+6 (F-2) = 2E
+
+[fig]Tetrahedron[/fig]
+
+[fig]Two connected circles with numbers 2[/fig] [fig]Three connected circles with numbers 2, 4, 2[/fig] [fig]Circle with vertical line[/fig] [fig]Complex connected circular shapes[/fig]
+[fig]Three connected circles with numbers 2, 4, 2[/fig] [fig]Circle with vertical line and dot[/fig]
+[fig]Torus with inner circle[/fig] [fig]Concentric circles with horizontal line[/fig] [fig]Concentric circles with vertical line[/fig] [fig]Concentric circles with inner division[/fig] [fig]Circle with vertical line and horizontal bar[/fig]
+[fig]Torus with inner circle[/fig] [fig]Concentric circles with inner division[/fig] [fig]Concentric circles with inner division[/fig] [fig]Circle with three spokes and numbers 4, 3, 3[/fig] [fig]Circle with three spokes and numbers 4, 3, 4[/fig] [fig]Concentric circles with inner division[/fig] [fig]Circle with three spokes and numbers 4, 3, 3, 5[/fig] N
+[fig]Circle with three spokes and numbers 5, 3, 3[/fig] [fig]Circle with horizontal line[/fig] [fig]Circle with three spokes[/fig] [fig]Circle with three spokes and numbers 4, 6[/fig] [fig]Triangle with lines[/fig] M
+[fig]Hexagon[/fig] [fig]Concentric circles with inner division and numbers 2, 5[/fig] [fig]Hourglass shape[/fig] [fig]Open circular shape with number 2[/fig] [del]M[/del] + [del]N[/del] + 2
+M + 3
+N + 3
+[fig]Square[/fig] [fig]Pentagon[/fig] [fig]Pentagon[/fig] [fig]Concentric circles with inner division[/fig] [fig]Open circular shape with triangle[/fig] [fig]Double loop shape[/fig] M + [del]3[/del] [ins]2[/ins] < M + N + 2
+N + 3 < M + N + 2
+M + N + 6 < 2M + [del]2N[/del] [ins]4[/ins]
+M + N > 2
+[fig]Square with line[/fig] [fig]Pentagon[/fig] [fig]Pentagon[/fig] [frac]5[/frac] / 6

@@ -1,0 +1,26 @@
+Given the Hypotheneuse and a Leg. To find the other leg.
+
+1[sup]st[/sup] Method. [del]log a = [frac]1[/frac] log (h[sup]2[/sup]-b[sup]2[/sup]) log h[sup]2[/sup] = 2 log h log b[sup]2[/sup] = 2 log b[/del]
+2[sup]nd[/sup] Method log a = log b + [frac]1[/frac] G[sup]-1[/sup] 2 (log h - log b)
+3[sup]rd[/sup] Method log a = [frac]1[/frac] log (h + b) + [frac]1[/frac] log (h - b)
+4[sup]th[/sup] Method log a = [frac]log h + log b[/frac] sin A log cos A = log b - log h
+[del]5[sup]th[/sup] Method log a = log h + log tan A + log cos A - log h - log b[/del]
+Prob. error of last place of decimals.
+1[sup]st[/sup] method 2[sup]nd[/sup] Method 4[sup]th[/sup] Method.
+
+[marginalia]Prob. error of 3[sup]d[/sup] method is always 0.55 a.[/marginalia]
+
+| A | | | |
+|---|---|---|---|
+| 0° | [del]∞[/del] | ∞ | ∞ |
+| 10 | 20.7 a | 56.4 a | 29.3 a |
+| 20 | 5.15 a | 13.9 a | 7.21 a |
+| 30 | 2.32 a | 6.09 a | 3.19 a |
+| 40 | 1.38 a | 3.34 a | 1.85 a |
+| 50 | 1.00 a | 2.10 a | 1.30 a |
+| 60 | .83 a | 1.45 a | 1.06 a |
+| 70 | .75 a | 1.08 a | .95 a |
+| 80 | .72 a | .86 a | .91 a |
+| 90 | .71 a | .74 a | .90 a |
+
+The third method is remarkably accurate. The first method is very long and unless A > 50° is not accurate. If A > 80° the second method is very good. Between 70° and 80° the 4[sup]th[/sup] method will serve.

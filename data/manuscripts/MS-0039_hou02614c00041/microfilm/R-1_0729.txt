@@ -1,0 +1,25 @@
+We thus get
+$$\Sigma_q \Sigma_r \Pi_k (\ \overline{E}_{ik} + g_{kq} + E_{ir} g_{rq}\ ) \overline{F}_{iq}$$
+
+The third property of number is
+$$\Pi_a \Sigma_b E_{ab} \overline{g}_{ba}$$
+or dropping the last factor
+$$\Pi_a \Sigma_b E_{ab}$$
+Multiplying the last form of our proposition by this
+we have
+$$\Pi_a \Sigma_b \Sigma_q \Sigma_r \Pi_k [del]E_{ik}[/del] [ins]E_{ab}[/ins] (\ \overline{E}_{ik} + g_{kq} + E_{ir} g_{rq}\ ) \overline{F}_{iq}.$$
+
+Identifying [u]a[/u] with [u]i[/u] and [u]k[/u] with [u]b[/u] we have
+
+$$\Sigma_b \Sigma_q \Sigma_r (\ \overline{E}_{ib} g_{bq} + E_{ir} g_{rq}\ ) \overline{F}_{iq}$$
+$$= \Sigma_q \Sigma_r E_{ir} g_{rq} \overline{F}_{iq}$$
+
+We now substitute for $f$ its definition and so get
+$$\Sigma_q \Sigma_r \Pi_k E_{ir} g_{rq} \overline{E}_{ik} \overline{g}_{kq} \overline{I}_{iq}$$
+On identifying [u]k[/u] with [u]r[/u] this vanishes, thus re-
+ducing the hypothesis that $f_i$ is not an heredi-
+tary character to an absurdity.
+
+Denoting this character by $\beta$, the proposition
+which we have proved is
+$$h_{\beta}$$

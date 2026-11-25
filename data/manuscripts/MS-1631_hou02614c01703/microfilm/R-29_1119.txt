@@ -1,0 +1,58 @@
+§154 The difference of the squares of the radii
+vectores from the centre, of two corresponding
+points upon the surface of two ellipsoids which
+have the same foci, is equal to the difference
+of the squares of their semiaxes.
+$$\frac{x}{x'} = \frac{A_x}{A'_x}$$
+$$x' = \frac{x A'_x}{A_x}$$
+
+§155 The distance of any point upon the surface of
+an ellipsoid, from a point upon the surface of
+another ellipsoid which has the same foci, is
+equal to the distance of the two corresponding
+points of the ellipsoids from each other.
+
+[fig]Diagram of two confocal ellipses with intersecting lines and points labeled f, f', g, g', p, p'[/fig]
+
+$$f^2 = -p^2 + (g' - [del]p[/del] [ins]-p'[/ins])^2 + r^2 =$$
+$$r^2 + g'^2 - 2g'p'$$
+$$f^2 - f'^2 = r^2 + \varepsilon^2 + g'^2 + \varepsilon^2 = 0$$
+$$f = f'$$
+
+These theorems, with the next, are from Ivory
+— a Scotch-man & a great genius. They are
+remarkable theorems; the set, indeed, to which
+they belong is without parallel in mathemat-
+ical science because they are radically erron-
+eous. Analysis, up to this time, has not shown
+where the error lies, but has only shown that
+there is an error, by application to test cases.
+
+§156 The external level surfaces of an ellipsoidal
+Chaslesian shell are those of ellipsoids which have
+the same foci with the outer surface of the Chas-
+lesian shell.
+
+This theorem is the culminating point of
+many investigations on the attractions of el-
+lipsoids.
+
+§157. The attractions of two corresponding Newtonian
+shells, which have the same foci, upon an external
+point, have the same direction & are proportional
+to the masses of the shells.
+
+[del][A long & complicated demonstration was given
+of this, which rested on the formula $D_x D_y D_z \Omega = \frac{x}{A_x}$][/del]
+
+§158 The attraction in the direction of the axis
+of X of an ellipsoidal Chaslesian shell upon
+a point at its surface is $4 \pi k p^2 x \frac{A_x}{A_x^2}$
+
+§159 The attraction of an ellipsoidal Chaslesian shell
+upon an external point is $4 \pi k x \frac{\varepsilon P^2 A_x}{\varepsilon' A'_x A'_x}$
+
+§160 There are three surfaces of the second de-
+gree which pass through a given point & have
+given foci; of which one is ellipsoidal & the other
+two are hyperboloids of different classes.

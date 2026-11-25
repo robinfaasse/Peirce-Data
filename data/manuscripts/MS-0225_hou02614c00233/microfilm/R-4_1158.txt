@@ -1,0 +1,30 @@
+[pn]X.[/pn]
+
+To draw successive outlines of shadow of eclipse after
+central line has been obtained.
+
+—
+
+Calculate Az. and alt. of sun and moon for cen-
+tral points neglecting the tilt in the earth owing
+to ellipticity, by formulae
+$\cos \zeta = \sin \varphi \sin \delta + \cos \varphi \cos \delta \cos t$
+$\sin A = \frac{\cos \delta \sin t}{\sin \zeta}$
+
+Find $\cos 2 A$ by formula $\cos 2 A = 1 - 2 \sin^2 A$
+
+Find radius of curvature of earth by Bremiker's
+Table.
+
+The false zenith line thus obtained passes through center
+of the earth. Find $\rho$ the radius of earth [del]by Bowditch[/del]
+$\varphi'$ and $t$ from almanac
+
+$I - P = \rho \frac{\cos \zeta}{\cot \text{an} \varphi} = \rho \cos \zeta \frac{E - F}{G + H}$
+
+This will be nearly constant
+throughout.
+
+Next find the corr. to $\cos \zeta$ and $\sin A$
+
+[fig]Geometric diagram with intersecting lines and a circle[/fig]

@@ -1,0 +1,112 @@
+5.2
+p = 3.5 [space] q = 2.7
+p' = 5.7 [space] q' = 2.3
+p'' = 3.7 [space] q'' = 2.5
+
+p'p'' = 3.5.7²
+q'q'' = 2³.3.5
+
+[space] 49
+[u] [space] 4 [/u]
+[space] 53.3.5
++ 2.2.7 [u] 28.3.5 [/u]
+[space] 81.3.5
+
+p + q''' = 45 [space] [del]45[/del] p''' + q = 27
+[u] p [space] 15 [/u] [space] [u] [space] 14 [/u]
+q''' [space] 30 [space] p''' = 13
+
+[space] 9 [space] 27 [space] [del]45[/del] 9
+[space] 5 [space] 15 [space] [space] 5
+[u] [space] [space] [space] [space] [space] [space] [/u]
+[space] [space] 42
+[space] [space] 14
+[space] [space] [u] 56 [/u]
+
+p + q''' = 81 [space] p''' + q = 15
+[u] p [space] = 15 [/u] [space] [u] q [space] = 14 [/u]
+q''' [space] 66 [space] p''' = [space] 1
+
+Material false
+
+[space] 50 [space] 22
+[space] 76 [space] 20
+[u] 126 [/u] [space] 42
+[space] [space] 36 [space] 24
+[space] [space] 36 [space] 72
+Hollow [u] 72 [/u] [space] [u] 96 [/u] - solid
+[space] [space] [space] [space] [space] [space] 48
+
+Both [space] white
+Color false
+
+Not white
+
+[space] 36 [space] 36
+[space] 72 [space] 26
+[u] 108 [/u] [space] [del]62[/del]
+
+[fig]figure[/fig] Ivory
+p [space] 15
+q [space] 14
+[u] [space] [space] [space] [space] [/u]
+[space] 36
+[space] 24
+
+[fig]figure[/fig] p'' [space] 21
+[space] q'' [space] 10
+
+Color false
+
+[fig]figure[/fig] Not Ivory
+p' [space] 35 [space] [space] 50
+q' [space] 6 [space] [space] 20
+[u] [space] [space] [space] [space] [/u] [space] [space] 34
+p''' [space] [del]1[/del] 1 [space] [space] 40
+q''' [space] [del]30[/del] 66
+[u] [space] [space] [space] [space] [/u]
+[space] 48
+[space] 36
+
+[del] 15
+[space] 3
+[u] 45 [/u] [/del]
+
+Material true
+Colortrue —— 15 + 66 = 81
+Colorfalse [space] 6 + 21 = 27
+[ured] Material false [/ured]
+Colortrue —— 35 + 10 = 45
+Colorfalse [space] [del]1[/del] 1 + 14 = 15
+
+[fig]figure[/fig]
+
+[u] 9 [/u]
+5
+[u] 9 [/u]
+5
+
+[u] 3 [/u] [space] [u] 2 [/u] [space] [u] 3 [/u]
+1 [space] 2 [space] [space] 4
+[u] 5 [/u] [space] [u] 3 [/u] [space] [u] 3 [/u]
+2 [space] 2 [space] [space] 4
+
+Colortrue
+[ins] [del]9 [/del] Ivory [/ins] true 15 [del]3[/del]
+[space] [space] [space] false 10 [del]2[/del]
+Colorfalse
+[space] [space] [space] [del]21 3[/del]
+[space] [space] [space] 14 [del]2[/del]
+
+Material true
+White true —— 15 [space] 5
+[space] false —— [space] 6 [space] 2
+Material false
+white true —— 35 [space] 5
+White false —— 14 [space] 2
+
+[fig]figure[/fig] 3
+[space] 1
+
+[space] 3
+[space] 1

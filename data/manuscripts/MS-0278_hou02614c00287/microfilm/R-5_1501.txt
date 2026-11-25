@@ -1,0 +1,125 @@
+[marginalia]
+[del]PRIMS & numbers[/del]
+[del]For any whole number, m,[/del]
+[del]least integer v which[/del]
+[del](in secundal notation) is divisible[/del]
+[del]m + 1, or, in its ordinary[/del]
+[del]is 2^v - 1 divisible by 2^m + 1.[/del]
+[/marginalia]
+
+[marginalia]
+v
+1
+1 0
+1 0 0
+1 1
+1 1 0
+1 0 1 0
+1 1 0 0
+[del]1 1 1[/del]
+1 0 0 0
+1 0 0 1 0
+1 1 0
+1 0 1 1
+1 0 1 0 0
+1 0 0 1 0
+1 1 1 0 0
+1 0 1
+
+v
+1 0 1 0
+[/marginalia]
+
+<u>Formulae & Remarks.</u>
+It would be idle to split hairs over whether v is 1 or
+From the fact that 10m+1 is prime, it follows that it divides 10^10m - 1
+10m+1, being prime, divides 10^10m - 1, and since [del]it does not divide 10[/del]
+When m = [del]2[/del] 10^k - 1, 10m+1 = 10^k+1 - 1, so that obviously v = p
+When m = 10^k, 10m+1 = 10^k+1 + 1
+
+m | 10m+1 | 10^v - 1 | 10^v | v
+0 | 1 | 1 | 1 0 | 1
+1 | 1 1 | 1 1 | 1 0 0 | 1 0
+1 0 | 1 0 1 | 1 1 1 1 | 1 0 0 0 0 | 1 0 0
+1 1 | 1 1 1 | 1 1 1 | 1 0 0 0 | 1 1
+1 0 0 | 1 0 0 1 | 1 1 1 1 1 1 | 1 0 0 0 0 0 0 | 1 1 0
+1 0 1 | 1 0 1 1 | [del]1 1 1 1 1 1 1 1 1 1[/del] | 1 1 1 1 1 | 1 0 1
+[del]1 1 0[/del] | [del]1 1 0 1[/del] | [del]1 1 1 1 1 1 1 1 1 1 1 1[/del] | 1 0 0 0 1 |
+[del]1 1 1[/del] | [del]1 1 1 1[/del] | [del]1 1 1 1[/del] | 1 1 1 0 1 |
+[del]1 0 0 0[/del] | [del]1 0 0 0 1[/del] | [del]1 0 0 0 1[/del] | 1 0 0 0 1 |
+[del]1 0 0 1[/del] | [del]1 0 0 1 1[/del] | [del]1 1 1 0[/del] | 1 1 0 0 |
+[del]1 0 1 0[/del] | [del]1 0 1 0 1[/del] | [del]1 0 0[/del] | 1 0 0 0 1 |
+[del]1 0 1 1[/del] | [del]1 0 1 1 1[/del] | | 1 |
+
+[fig]Graph with curves and binary numbers[/fig]
+
+1 1 1 1
+1 1 0 1
+1 0 1 1 1
+1 1 0 1
+1 0 1 1 1
+1 0 1 1
+1 1 0 0
+1 1 0
+1 1 0
+1 1
+1 1 1 1
+1 0 0 1
+1 1 0 1
+1 0 0 1
+1 0 0 1
+
+1 0 1 0 1 1 1 1 1 1 0 1 0 1 1 1 0 1
+
+1 0 1 1 1
+1 0 1 1
+1 0 0 1 1
+1 0 1 1
+1 0 0 0 1
+1 0 1 1
+1 1 0 1
+1 0 1 1
+1 0 1 1
+1 0 1 1
+
+1 0 1 1 1
+1 1 0 1
+1 0 1 0 1
+1 1 0 1
+1 0 0 0 1
+1 1 0 1
+1 0 0 1
+1 1 0
+1 1 0
+
+1 1 0 0
+
+1 0 1 0 1 0 1
+1 0 1 0 1 0 1 0 1
+1 1 1 1 1 1 1 1 1
+1 0 0 1 1
+1 0 1 1
+1 0 0 0 1
+1 0 1 1
+1 1 1 1
+1 0 1 1
+1 0 0 1 1
+1 0 1 1
+
+1 1 1 1
+1 0 1 1
+1 0 0 1 1
+1 0 1 1
+1 0 0 0 1
+1 0 1 1
+1 1 0 1
+1 0 1 1
+
+[marginalia]
+32767
+4681
+255
+255
+85
+17
+[/marginalia]

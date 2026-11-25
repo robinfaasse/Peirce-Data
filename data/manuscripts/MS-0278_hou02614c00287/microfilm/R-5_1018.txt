@@ -1,0 +1,36 @@
+$a$ $i$ $j$ $k$ $l$ $m$
+
+$\begin{array}{c|ccccc}
+ & i & j & k & l & m \\
+\hline
+i & j & \frac{i+k}{+G^2\cdot m} & k & rk & -k \\
+j & k & & & & \\
+l & l & +rk & -m & i & -rk-r^2m \\
+m & m & & & k &
+\end{array}$
+
+$i = I:A$
+$i = I:A + I:I + J:J$
+$j = J:A + J:I$
+
+$A:A + B:B$
+
+$i = I:A + I:I + J:J$
+$j = J:A$
+
+$B:A$
+$i:A$
+
+[del]$(xi+yj)^2 = 0$[/del]
+[del]$xi+yj$[/del]
+
+$I = A:B$
+$j = A:C$
+
+$\left| \begin{array}{l}
+i = I:A + J:J + K:J + L:L + I:M \\
+j = J:A + K:I + K:M \\
+k = K:A \\
+l = L:A + L:I \\
+m = M:A + L:I + L:J
+\end{array} \right.$

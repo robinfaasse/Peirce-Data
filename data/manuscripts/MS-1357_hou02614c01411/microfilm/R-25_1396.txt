@@ -1,0 +1,27 @@
+[pn]19[/pn]
+
+[u]Report on Live Loads[/u] and their functions,
+
+Let the values of the coördinates, when the weight is [del]infinitesimal[/del] [ins]infinitely [del]small[/del] [ins]and perfectly flexible[/ins][/ins] and only sufficient to straighten the weightless cords be distinguished by heavy faced type.
+
+Let R denote a distance. I make it a capital because it does not involve direction. Then,
+
+$$\mathbf{R}_0 = \sqrt{[\mathbf{x}_0 - \mathbf{x}_0] + [\mathbf{y}_1 - \mathbf{y}_0]}$$
+$$\mathbf{R}_1 = \sqrt{[\mathbf{x}_2 - \mathbf{x}_1] + [\mathbf{y}_1 - \mathbf{y}_2]}$$
+$$R_0 = \sqrt{[x_0 - \mathbf{x}_0] + [y_1 - \mathbf{y}_0]}$$
+$$R_1 = \sqrt{[x_2 - \mathbf{x}_1] + [y_1 - y_2]}.$$
+
+Let $\spadesuit_1$ ($\spadesuit$ spade) denote the weight suspended from 1.
+
+Let $\Phi$ be the angle through which it is necessary to rotate a [del]line[/del] line from the direction of the axis of $x$ toward the direction of the axis of $y$ to make it parallel with the least cedibility of a particle.
+
+Let [del]$\Lambda, M, N$[/del] [ins]$\Lambda, M, N$ (lambda, mu, nu)[/ins] be the least, intermediate, and greatest of the principal cedibilities of a particle.
+
+[ins]Let P be the tensibility of a cord,[/ins]
+Let $\odot$ (sol) be the work [del]of produ[/del] required to produce a deformation of the system supposed.
+
+Then we have
+
+(1) $\odot = \frac{[x_0 \cos \Phi_0 + y_0 \sin \Phi_0]}{2 \Lambda_0} + \frac{[x_0 \sin \Phi_0 - y_0 \cos \Phi_0]}{2 M_0} + \frac{[(y_2 - y_2) \cos \Phi_2 + (y_2 - y_2) \sin \Phi_2]}{2 \Lambda_2}$
+
+$+ \frac{[(x_2 - x_2) \sin \Phi_2 - (y_2 - y_2) \cos \Phi_2]}{2 M_2} - \spadesuit_1 (y_1 - \mathbf{y}_1) + \frac{[R_0 - \mathbf{R}_0]}{2 P_0} + \frac{[R_1 - \mathbf{R}_1]}{2 P_1}$

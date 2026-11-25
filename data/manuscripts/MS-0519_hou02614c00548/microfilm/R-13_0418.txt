@@ -1,0 +1,24 @@
+[pn]80[/pn]
+
+[marginalia][date]May 2[/date][/marginalia] Suppose we square the premise of
+$P73$ in its original form -
+
+$\Pi_{a}\Pi_{\alpha1}\Sigma_{11}\Sigma_{12}\Pi_{21}\Pi_{22}\Sigma_{31}\Sigma_{32}$
+$x_{11}x_{12}(\bar{y}_{\alpha.11.21} + y_{21} + \bar{y}_{\alpha1.31.21}\bar{I}_{11.31})(\bar{y}_{\alpha1.12.22} + y_{22} + \bar{y}_{\alpha1.32.22}\bar{I}_{12.32})$
+
+We need to assume the former result
+$\Pi_{1}\Sigma_{2}\Sigma_{3}(\bar{y}_{1} + x_{2}\bar{x}_{3}\bar{I}_{23})$
+
+Now
+$\Sigma_{\beta}\Pi_{4}\Pi_{5}\Pi_{6}\Pi_{7}\Sigma_{8}\Sigma_{9}\Sigma_{10}\Sigma_{20}\Pi_{30}\Pi_{40}$
+$y_{4} + \bar{y}_{5} + I_{45} + \bar{x}_{6} + x_{7} + I_{67} + [del]y_{8}[/del] [ins]y_{8}[/ins] [del]\bar{y}_{9}[/del] [ins]\bar{y}_{9}[/ins] [del]I_{89}[/del] [ins]I_{89}[/ins] [del]x_{10}[/del] [ins]x_{10}[/ins] [del]\bar{x}_{20}[/del] [ins]\bar{x}_{20}[/ins] [del]I_{10.20}[/del] [ins]I_{10.20}[/ins] [del]\bar{y}_{30.10}[/del] [ins]\bar{y}_{30.10}[/ins] [del]+ y_{8.30}[/del] [ins]+ y_{8.30}[/ins] [del]\bar{y}_{\beta.40.20}[/del] [ins]\bar{y}_{\beta.40.20}[/ins] [del]g.40[/del] [ins]g.40[/ins]$
+$+ 48 y_{8}\bar{y}_{9}I_{89}x_{10}\bar{x}_{20}I_{10.20}\bar{y}_{\beta.10}\bar{y}_{\beta9.20}(\bar{y}_{\beta.30.10} + y_{8.30})(\bar{y}_{\beta.40.20}g.40)$
+
+The product of last two equations will annul the three
+terms in [del]last[/del] [ins]each[/ins] (i.e. $\bar{x}_{6} + x_{7} + I_{67}$)
+
+Note the formulae
+$\Pi_{a}\Sigma_{b}(\bar{x}_{a} + x_{b})$ from the square of $1$
+$\Pi_{a}\Sigma_{b}\bar{x}_{a}x_{b} = 0$
+$\Pi_{a}\Sigma_{b}(x_{a} + \bar{x}_{b})$
+etc.

@@ -1,0 +1,42 @@
+[pn]1 2 3 4 5[/pn]
+A B C D E
+F G H I J
+K L M N O
+P Q R S T
+U V W X Y
+
+[pn]IX[/pn]
+[del]C[/del] A [del]C[/del] B [del]E[/del] C
+H F H G J H
+M K M L O M
+[del]R[/del] P R Q T R
+W U W V Y W
+
+[pn]X[/pn]
+D [del]C[/del] A B A D D
+I H F G F I I
+N M K L K N N
+S R P Q P S S
+X W U V U X X
+
+C E A C E D
+[del]H[/del] J F H J L
+M O K M O N
+R T Q R T S
+W U U W X
+
+A E C C E A D
+F J H H J F I
+K O M M O K N
+P T R R T P S
+U Y W W Y U X
+
+ROAD [del]CROWD[/del]
+[ins]PEM[/ins] ONS
+
+[pn]Z[/pn]
+A C E E E B C A A C
+F H J J J G H F F H
+K M O O O L M K K M
+P R T T T Q R P P R
+U W Y Y Y V W U U W

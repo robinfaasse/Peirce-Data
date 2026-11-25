@@ -1,0 +1,62 @@
+mined [ins]from[/ins] [del]by[/del] equations relating to the terminations of [del]the parts[/del] [ins]these[/ins] of the bridge
+to which the equations in which these constants occur apply.
+As for the equation defining [u]Z[/u], it is probable that it can be
+satisfied by an elliptic function; but not familiar developments
+seem to render this obvious, and it may be doubted whether the
+advantage to be derived from the tables of elliptic integrals is
+sufficient to compensate for the search for such a function. A
+series satisfying the equation may be calculated as here shown,
+where the figures in black are first calculated, next those in
+blue, next those in green, next those in brown, and last those
+in red. To aid the eye, the same colors are preserved in the
+series.
+
+[marginalia]
+1.2
+
+3.4
+
+5.6
+
+7.8
+
+9.10
+
+11.12
+
+13.14
+
+15.16
+[/marginalia]
+
+[del]2[/del]
+2
+[del]2[/del] [del]x[/del] [ins]x 30 =[/ins] [del]60[/del]
+12
+14 x 56 = [u]784[/u]
+30
+44 x 90 = [u]3960[/u]
+56
+100 x 132 = [u]13200[/u]
+90
+190 x 182 = [u]34580[/u]
+132
+322 x 240 = [u]77280[/u]
+182
+504 x
+240
+744 x
+
+60 x 90 = [u]5400[/u]
+844 x 132 = [u]111408[/u]
+4804 x 182 = [u]1354728[/u]
+18004 x 240 = [u]4320960[/u]
+
+5400 x 182 = [del]982200[/del]
+982200
+116808 x 240 = [del]28033920[/del]
+28033920
+
+[pn]n^0[/pn]
+Z = 1 + [u]-a[/u]/2! n^2 + [u]a^2 - 2c[/u]/4! n^4 + [u]-a^3 + 14ac[/u]/6! n^6 + [u]a^4 - 44a^2c + 60c^2[/u]/8! n^8 + [u]-a^5 + 100a^3c - 844ac^2[/u]/10! n^10
++ [u]a^6 - 190a^4c + 4804a^2c^2 - 5400c^3[/u]/12! n^12 + [u]-a^7 + 322a^5c - 1800a^3c^2 + 116808ac^3[/u]/[del]14![/del] n^14 + etc

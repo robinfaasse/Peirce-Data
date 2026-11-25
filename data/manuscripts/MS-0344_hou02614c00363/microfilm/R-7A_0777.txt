@@ -1,0 +1,27 @@
+[marginalia]
+[del]Boole 7[/del]
+Boole 11
+[/marginalia]
+
+Since $x$ is equal either to one or zero.
+Either $f(1) = 0$ or $f(0) = 0$
+in either case $f(1) f(0) = 0$
+which is the equation with $x$ left out.
+
+We now come to the property of these symbols which enables us
+to draw logical conclusions. This property is that in this calculus
+any number of different equations can be combined into one equa-
+tion which shall express all the facts contained in the the several equa-
+tions. I will show you how this can be done. Let us take two
+equations $a = b$ and $c = d$ to combine into one.
+We have first $a - b = 0$ and $c - d = 0$
+Square these equations $a^2 - 2ab + b^2 = 0$ $c^2 - 2cd + d^2 = 0$ but as $a = a^2$ for either
+one or zero this is the same as $a - 2ab + b = 0$ $c - 2cd + d = 0$
+which may be written $a(1-b) + b(1-a) = 0$ $c(1-d) + d(1-c) = 0$
+Now as the value of a letter never exceeds unity all these terms are
+positive and consequently if they are all added together into one
+equation $a(1-b) + b(1-a) + c(1-d) + d(1-c) = 0$ ; this equation itself
+[del]implies[/del] [ins]implies[/ins] that the terms are separately equal to zero and consequently
+that $a(1-b) = b(1-a)$ that is $a - ab = b - ab$ or $a = b$
+and in the same way it is implied that $c = d$ ; so that this one
+equation contains now all that was contained in the original two.

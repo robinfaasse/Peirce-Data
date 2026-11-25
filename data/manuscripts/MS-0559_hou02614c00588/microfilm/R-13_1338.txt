@@ -1,0 +1,20 @@
+The principle of identity shows that the sign of consequence is something more than a mere sign of inclusion.
+For a relation of inclusion is any "transitive" relation,
+that is, any relation such that if $X$ is so related to $Y$ and
+$Y$ to $Z$, then $X$ is so related to $Z$, no matter what $X$, $Y$, and
+$Z$ may be. Accordingly, the algebraic sign $<$ is a sign
+of inclusion; for if
+$$X < Y \quad \text{and} \quad Y < Z$$
+then
+$$X < Z.$$
+Nevertheless, it is not true that
+$$X < X.$$
+Indeed, nothing is so related to itself.
+
+The next property of the sign of consequence to be noticed
+is that, no matter what $X$, $Y$, $Z$, may be,
+(2) If $X \Upsilon Y \Upsilon Z$, then $Y \Upsilon X \Upsilon Z$;
+that is in an expression of the form $A \Upsilon B \Upsilon C$, the
+antecedent and the antecedent of the consequent can be
+transposed. We may term this the principle of commutatibility
+of antecedents.

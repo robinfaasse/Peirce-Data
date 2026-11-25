@@ -1,0 +1,49 @@
+[fig]Diagram showing angles and sides of a spherical triangle with vertices labeled A, A1, B1, C1, and sides a1, b.[/fig]
+
+[fig]Line segment with labels b = 44.9 and a1 = 10.88[/fig]
+
+$$\cot A_1 = \frac{\sin b \cos a_1 - \cos b \sin a_1 \cos C_1}{\sin a_1 \sin C_1}$$
+
+$$\begin{array}{r} 34 \\ 7 \\ \hline 27 \\ 34 \\ \hline 34 \end{array}$$
+
+$$= \frac{\sin b \cot a_1 - \cos b \cos C_1}{\sin C_1}$$
+
+$$\cot A_2 = \frac{\cos b \cos C_1 - \sin b \cot a_1}{\sin C_1}$$
+
+$$\cot \vartheta = \frac{\sin C_1}{\cos C_1 - \tan b \cot a_1}$$
+
+$$\tan^2 \vartheta = \frac{\cos^2 C_1 - 2 \cos C_1 \tan b \cot a_1 + \tan^2 b \cot^2 a_1}{\sin^2 C_1}$$
+
+$$\begin{array}{r} 158 \\ 9 \\ \hline 17 \\ 4 \\ \hline 40 \\ 6 \\ \hline 34 \end{array}$$
+
+$$\sec^2 \vartheta = \frac{1 - 2 \cos C_1 \tan b \cot a_1 + \tan^2 b \cot^2 a_1}{\sin^2 C_1}$$
+
+$$\cos^2 \vartheta = \frac{\sin^2 C_1 \cot^2 a_2}{[del]\tan^2 a_2[/del] \cot^2 b - 2 \cos C_1 \cot b \cot a_1 + \cot^2 a_1}$$
+
+$$\cos \vartheta = \frac{\sin C_1 \cot a_2}{\sqrt{(\cot b - \cot a_1)^2 + 2 (1 - \cos C_1) \cot b \cot a_1}}$$
+
+$$\begin{array}{l} .0034 \\ .003 \end{array}$$
+
+$$\begin{array}{r} 29 \\ 73 \\ \hline 219 \\ 73 \\ \hline 912 \\ 424 \\ \hline 22 \\ 44 \\ \hline 46 \end{array}$$
+
+$$= \frac{\sin C_1 \cot a_2}{(\cot b - \cot a_1) \sqrt{1 + 2 (1 - \cos C_1) \cot b \cot a_1}}$$
+
+$$\begin{array}{l} 9958 \\ \\ .21 \\ .022 \\ \hline .0046 \end{array}$$
+
+$$\begin{array}{l} .022 \\ .022 \\ \hline .000484 \\ .000968 \end{array}$$
+
+$$\cos 2x = 2 \cos^2 x - 1$$
+
+$$\cot = \frac{\cos}{\sin}$$
+
+$$\cot^2 = \frac{\cos^2}{1 - \cos^2}$$
+
+$$\frac{1}{\cot^2} = \frac{1}{\cos^2} - 1$$
+
+$$\frac{1}{1 + \frac{1}{\cot^2}} = \cos^2$$
+
+$$\frac{\cot^2}{1 - \cos^2}$$
+
+$$\cos = \frac{\cot}{\sqrt{1 - \cos^2}}$$
+
+$$1 - (1 - \cos C_1)$$

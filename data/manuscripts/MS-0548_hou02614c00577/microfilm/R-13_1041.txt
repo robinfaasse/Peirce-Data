@@ -1,0 +1,11 @@
+[u]Association formulae[/u].
+
+$\ell^s w \prec \ell^{s^w}$
+$\ell^s w \prec \ell^{(sw)}$
+$\ell s \circ w \prec \ell^{(s \circ w)}$
+$(\ell \circ s) \circ w \prec \ell^{(sw)}$
+
+$\ell s^w \prec (\ell s)^w$
+$\ell \circ s w \prec (\ell \circ s)^w$
+$\ell \circ (s \circ w) \prec (\ell^s)^w$
+$\ell s_w \prec \ell^{s_w}$

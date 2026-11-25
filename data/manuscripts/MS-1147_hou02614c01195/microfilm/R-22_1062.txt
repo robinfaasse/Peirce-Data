@@ -1,0 +1,89 @@
+$$
+\begin{array}{c|c}
+\begin{array}{l}
+\delta x \prec \delta y \\
+\delta y \prec \delta z
+\end{array} & \delta x \prec \delta z \\
+\hline
+\delta x \prec \delta z & \delta z \prec \delta x
+\end{array}
+$$
+
+[fig]Diagram showing arrow from x to y and circle x[/fig]
+
+$$
+\begin{array}{l}
+\text{lowest } x \text{ is lowest } y \\
+\text{No lower } x \text{ is } y
+\end{array}
+$$
+
+$$
+\delta y \prec \delta^x \quad x \prec \frac{y}{\delta^y} \quad y \prec \delta^x
+$$
+
+$$
+\begin{array}{c|c}
+[del]\delta x \prec \delta y[/del] & \delta x \prec \delta y \\
+\delta y \prec \delta z & \delta y \prec \delta z \\
+\hline
+\delta x \prec \delta z & \delta x \prec \delta z
+\end{array}
+$$
+
+$$
+\begin{array}{l}
+\delta x \prec \delta y \text{ or } \delta x \prec y \\
+\delta y \prec \delta z \quad \delta y \prec z
+\end{array}
+$$
+
+$$
+\begin{array}{l}
+x \prec y \prec z \\
+y \prec z \prec x \\
+z \prec x \prec y \\
+\hline
+x \prec y \prec z \\
+y \prec z \prec x \\
+z \prec x \prec y
+\end{array}
+$$
+
+$$
+\begin{array}{l}
+\delta x \prec \delta y \\
+\delta y \prec \delta z \\
+\hline
+\delta x \prec \delta z
+\end{array}
+$$
+
+$$
+\begin{array}{l}
+\delta^x \prec \delta^y \quad \delta^y \prec \delta^x \\
+\delta^y \prec \delta^z \cdot s
+\end{array}
+$$
+
+$$
+[del]\text{Either}[/del] \ x \prec y \ \text{or} \ \delta x \prec y \\
+[del]\text{Either}[/del] \ y \prec z \ \text{or} \ \delta y \prec z
+$$
+
+$$
+x \begin{array}{l}
+\delta x \dot{\prec} y \quad \delta x \dot{\prec} \delta y \\
+\delta y \dot{\prec} z \quad \delta y \dot{\prec} \delta z \\
+\hline
+\delta x \dot{\prec} z
+\end{array}
+$$
+
+$$
+x \prec \delta y \prec y
+$$
+
+$$
+[del](\delta x \prec y) (\delta y \prec z)[/del]
+$$

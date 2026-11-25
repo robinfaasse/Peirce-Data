@@ -1,0 +1,14 @@
+[u]Theorem[/u]. If [u]two sides and the included angle of one triangle[/u] are equal [ins]respectively[/ins] to [del]the[/del] [ins]two[/ins] [u]sides and the included angle of another triangle[/u], then [u]the third side and adjacent angles of one triangle[/u] [ins]each of these parts[/ins] [u]either equal[/u] [u]those of the other triangle, or else, being added to the corresponding[/u] [u]part of the second triangle makes up a circuit[/u].
+
+[u]Demonstration[/u]. In the triangles ABC and A'B'C', let
+|[u]AC[/u]| = |[u]A'C'[/u]|
+|[u]BC[/u]| = |[u]B'C'[/u]|
+∠ C = ∠ C'.
+
+[fig]Two triangles ABC and A'B'C'[/fig]
+
+Then I say that either
+|[u]AB[/u]| = |[u]A'B'[/u]|   ∠A = ∠A'   ∠B = ∠B'
+or else |[u]AB[/u]| + |[u]A'B'[/u]| = circuit   ∠A + ∠A' = circuit   ∠B + ∠B' = circuit.
+
+For let the filament [del]at[/del] first in {[u]A'C'[/u]} be carried into {[u]AC[/u]} so that the particle that was at [[u]A'[/u]] now falls at [[u]A[/u]] and that which [del]did[/del] fall at [[u]C'[/u]] now falls at [[u]C[/u]]. This is possible since |[u]A'C'[/u]| = |[u]AC[/u]|. Now [del]since[/del] [ins]the filament[/ins] ∠C' = ∠C, it follows that the filament that was in {[u]B'C'[/u]} now falls in {[u]BC[/u]}, or will do so after translation along {[u]AC[/u]} as axis through a circuit. For there [ins]in one plane[/ins] are but two rays equally inclined at a given point to a given ray; and a half revolution, or one circuit carries a filament from one to the other. When this situation is reached, since the particle that was at [[u]C'[/u]] is now at [[u]C[/u]] and the filament that did stretch toward [[u]B'[/u]] now stretches toward [[u]B[/u]] and |[u]C'B'[/u]| = |[u]CB[/u]|, it follows that the particle that was at [[u]B'[/u]] is now at [[u]B[/u]]. Hence, the third side, which at first extended between [u]A'[/u] and [u]B'[/u],

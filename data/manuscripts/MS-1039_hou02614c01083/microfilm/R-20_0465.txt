@@ -1,0 +1,66 @@
+[fig]Mathematical formula at top of page[/fig]
+
+[fig]Scribbled lines and curves across the page[/fig]
+
+$$\begin{array}{rccc|rccc|rccc}
++5x & +3y & +7z & = -9 & & & & & 0 & -7 & 39 & -39 \\
+-1 & -2 & +5 & = -6 & +1 & +2 & -8 & +6 & +1 & +2 & -7 & +6 \\
++3 & +1 & -2 & +1 & 0 & -5 & +13 & -17 & 0 & -5 & +18 & -17 \\
++a & +b & +c & \frac{-ax}{-by} & 0 & \begin{array}{r} -2a \\ +b \end{array} & \begin{array}{r} +5a \\ +c \end{array} & \begin{array}{r} -6a \\ -bx \\ -cy \\ -dz \end{array} & 0 & \begin{array}{r} +a \\ +b \end{array} & \begin{array}{r} 7a \\ +c \end{array} & \begin{array}{r} -6a \\ -bx \\ -cy \\ -dz \end{array}
+\end{array}$$
+
+$$\begin{array}{rccc|rccc|rccc}
+& -7 & 39 & 0 & & 0 & -7 & 39 & & -7 & 39 & 0 \\
+& -3 & +11 & 0 & & +1 & -3 & +11 & 0 & +2 & -7 & -1 \\
+0 & -5 & +18 & +1 & & 0 & -5 & +18 & +1 & -5 & +18 & +1 \\
+& \begin{array}{r} -2a \\ +b \end{array} & \begin{array}{r} +5a \\ +c \end{array} & \begin{array}{r} -6a-ax \\ -by \\ -cz \end{array} & & \begin{array}{r} -2a \\ +b \end{array} & \begin{array}{r} +5a \\ +c \end{array} & \begin{array}{r} -6a-by \\ -cz \end{array} & & \begin{array}{r} -2a \\ +b \end{array} & \begin{array}{r} +5a \\ +c \end{array} & \begin{array}{r} -6a-ax \\ -by \\ -cz \end{array}
+\end{array}$$
+
+$$\begin{array}{r|c|c}
+\text{W} = \frac{1}{2} & \text{W} = \frac{1}{3} & \begin{array}{r} 22.99 \\ 23.94 \\ 27.04 \\ 28.0 \\ 28.0 \\ 31.908 \\ 35.37 \\ 39.03 \end{array} \begin{array}{r} .95 \\ 3.10 \\ 1.0 \\ 3.0 \\ 3.39 \\ 3.66 \end{array}
+\end{array}$$
+
+$$\begin{array}{rccc|rccc|rccc}
+& +7 & +11 & +4 & & +11 & & & 0 & +4 & +7 \\
+& -3 & & & & -1 & & 0 & +1 & -4 & +3 \\
+0 & +2 & -13 & +1 & & -13 & & +1 & 0 & -11 & -2 \\
+& \begin{array}{r} -2a \\ +b \end{array} & \begin{array}{r} +3b \\ +c \end{array} & \begin{array}{r} +a-ax \\ -b-by \\ +c-cz \end{array} & & \begin{array}{r} -3a \\ +4b \\ +c \end{array} & \begin{array}{r} +3b \\ +c \end{array} & \begin{array}{r} +a-ax \\ -b-by \\ +c-cz \end{array} & & \begin{array}{r} -3a \\ +4b \\ +c \end{array} & \begin{array}{r} +3b \\ +c \end{array} & \begin{array}{r} +a-ax \\ -b-by \\ +c-cz \end{array}
+\end{array}$$
+
+$$\begin{array}{r|r|r|r|r}
+23_1 & 39_1 & 63_2 & 85_2 & 108_4 \\
+24_1 & 40_4 & 65_2 & 87_2 & 112_4 \\
+27_3 & [del]44[/del]_4 & 70_2 & 89_2 & 113_4 \\
+28_1 & 48_4 & 72_3 & 90_4 & 117_4 \\
+31_3 & 51_3 & 75_3 & 94_4 & 120_3 \\
+32_1 & 52_3 & 79_4 & 96_2 & 125_5 \\
+35_3 & 55_3 & 80_1 & & 127_2
+\end{array}$$
+
+$$\begin{array}{r|r|r|r|r|r}
+39.03 & 85.2 & 39.91 & 87.45 & 44 & 88.9 \\
+39.91 & 87.4 & 43.97 & 88.75 & 48 & 90.4 \\
+\hline .88 & 2.2 & 4.06 & 1.30 & & 1.5 \\
+& 9 & & 4.06 & & \\
+& \overline{3|3.1} & & 2\overline{|5.36} & & \\
+& 1.0 & & 2.68 & &
+\end{array}$$
+
+$$\begin{array}{r|r}
+118 & 90.7 \\
+51 & 93.7 \\
+\hline 3 & 3.0
+\end{array}$$
+
+[fig]Geometric diagram with lines and letters A, B, C[/fig]
+
+$$\begin{array}{c}
+4.8 \text{ A} \frac{s}{t} \\
+\text{A} \sin at \\
+\text{B} \sin bt
+\end{array}$$
+
+$$\begin{array}{c}
+\text{A} \sin \frac{s}{t} \\
+\sin \frac{t}{T}
+\end{array}$$

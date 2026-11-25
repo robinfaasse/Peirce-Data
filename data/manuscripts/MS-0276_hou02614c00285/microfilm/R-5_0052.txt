@@ -1,0 +1,85 @@
+[fig]Four-sided figure with diagonals[/fig]
+
+[fig]Points A, B, C, D on a circle[/fig]
+
+[del]$pr$[/del]
+$(p+q)(q+r) = pq + [del]r[/del] [ins]$pr$[/ins] + q^{2} + qr$
+$q(p+q+r) = pq + q^{2} + qr$
+
+$(B-A)(D-C) = BD + AC - AD - BC$
+$(C-B)(D-A) = -BD - CA$
+[del]$(C-B)(C-A)(D-B)$[/del]
+$(B-A)(D-C) + (C-B)(D-A)$
+
+$= [del](B-A)[/del] [ins]$(B-A)$[/ins] (D-C)$
+
+$+ BD + AC - AD - BC$
+$+ DB + CA$
+$- BA - CD$
+$- AD + CB + AB + CD$
+
+$\cos b = \cos a \cos p + \sin a \sin p \cos B$
+$\cos c = \cos d \cos p + \sin d \sin p \cos C$
+
+$\cos q = \cos a \cos d + \sin a \sin d (\cos B \cos C - \sin B \sin C)$
+
+[u]$CD + BA$[/u]
+[u]$BD + AB$[/u]
+
+$\cos(B+C)$
+$= \cos B \cos C - \sin B \sin C$
+
+[fig]Spherical quadrilateral with sides a, b, c, d and diagonal p, q[/fig]
+
+[fig]Spherical triangle with angle[/fig]
+
+$pr + q(p+q+r)$
+$= (p+q)(q+r)$
+
+[del]$p(p+q+r) + q$[/del]
+$= p(p+q) + (q+r)q$
+$(p+r+r)q + pr$
+$= p(q+r) + (q+r)q$
+
+$(p+q)(q+r)$
+$= p(q+r) + q(q+r)$
+$= pq + qr + pr + q^{2}$
+$= pr$
+
+$= (p+q)q + (q+r)p$
+
+[del]$B-A$[/del] $(D-C)(B-A) = DB + CA - CB - DA$
+
+[del]$(B-A)(C-B)(B-A) =$[/del]
+[del]$(B-C)(A-D)$[/del]
+
+$(D-C)(B-A) = DB + CA - CB - DA$
+$(A-D)(B-C) = -DB - AC$
+
+[del]$(C-A)(B-D)$[/del]
+
+[del]$(D-C)(B-A)$[/del]
+
+[del]$A$[/del] [del]$B$[/del] [del]$C$[/del] [del]$D$[/del]
+$p$ $q$ $r$
+
+$(D-C)(B-A) = rp$
+$(D-A)(C-B) = (p+q+r)q$
+$(D-B)(A-C) = (q+r)(q+p)$
+
+[del]$(B-A)(D-C)$[/del]
+
+$+ AB + DC$
+[del]$+ CB + AD - AB - CD$[/del]
+
+$(A-B)(C-D) = AC + BD - BC - AD$
+$(A-D)(B-C) = -AC - DB$
+$(A-C)(D-B) =$
+
+$rp$
+$pq + q^{2} + rq$
+$rp$ $qp + q^{2} + rp$
+
+[ins]$+ AB$[/ins]
+[ins]$+ CB + AD$[/ins] [ins]$+ DC$[/ins]
+[ins]$- AB - CD$[/ins]

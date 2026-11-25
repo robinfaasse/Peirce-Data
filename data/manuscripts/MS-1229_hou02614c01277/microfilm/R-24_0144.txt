@@ -1,0 +1,20 @@
+[fig]Diagram with lines and letters z, y, x, -x[/fig]
+
+$$\begin{array}{ccc}
+z & y & x \\
+y & x & \\
+\hline
+y-z & x-y & -x \\
+y-z & -x & \\
+\hline
+x-2y+z & -2x+y & +x \\
+-2x+y & +x & \\
+\hline
+-3x+3y[del]-z[/del] & +3x-y & -x \\
++3x-y & -x & \\
+\hline
+6x-4y+z & -4x+y & +x \\
+-4x+y & +x & \\
+\hline
+-10x+5y-z & 5x-y & -x
+\end{array}$$

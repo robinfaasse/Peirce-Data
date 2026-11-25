@@ -1,0 +1,50 @@
+[fig]Fractional division table[/fig]
+[del]1[/del] [ins]0[/ins] [del]2[/del] [ins]1[/ins] [del]1[/del] [ins]1[/ins]
+[u]1 2 1[/u]
+[del]1 4 3 5 2[/del]
+[del]1 6 5 9 4 11 7 10 3 11 8 13 5 12 7 9 2[/del]
+[del]1[/del] [ins]1[/ins] [del]5[/del] [ins]2[/ins] [del]4[/del] [ins]3[/ins] [del]7[/del] [ins]4[/ins] [del]3[/del] [ins]5[/ins] [del]8[/del] [ins]6[/ins] [del]5[/del] [ins]7[/ins] [del]7[/del] [ins]8[/ins] [del]2[/del] [ins]9[/ins] [del]9[/del] [ins]10[/ins] [del]7[/del] [ins]11[/ins] [del]12[/del] [ins]12[/ins] [del]5[/del] [ins]13[/ins] [del]13[/del] [ins]14[/ins] [del]8[/del] [ins]15[/ins] [del]11[/del] [ins]16[/ins] [del]3[/del] [ins]17[/ins] [del]10[/del] [ins]18[/ins] [del]7[/del] [ins]19[/ins] [del]11[/del] [ins]20[/ins] [del]4[/del] [ins]21[/ins] [del]9[/del] [ins]22[/ins] [del]5[/del] [ins]23[/ins] [del]6[/del] [ins]24[/ins] [del]1[/del] [ins]25[/ins]
+[del]8 13 17 16 19 23 22 17 19 26 29 25 24 27 23 16 17 25 30 27 29 34 31 23 22 29 31 26 23 25 20[/del]
+
+[fig]Fractional division table[/fig]
+1 [del]3[/del] [ins]3[/ins] [del]5[/del] [ins]2[/ins]
+[u]1 5 [del]4[/del] [ins]7[/ins] 3 [del]5[/del] [ins]7[/ins] 2[/u]
+1 [del]5[/del] [ins]5[/ins] [del]4[/del] [ins]7[/ins] 3 [del]5[/del] [ins]7[/ins] 2
+[del]1[/del] [del]5[/del] [del]4[/del] [del]7[/del] [del]3[/del] [del]5[/del] [del]7[/del] [del]2[/del]
+[del]11[/del] [del]10[/del] [del]11[/del] [del]13[/del]
+
+[fig]Fractional division table[/fig]
+[del]1[/del] [del]5[/del] [del]4[/del] [del]7[/del] [del]3[/del] [del]5[/del] [del]7[/del] [del]2[/del]
+[del]17[/del] [del]23[/del] [del]22[/del] [del]20[/del] [del]23[/del] [del]32[/del] [del]25[/del] [del]29[/del] [del]30[/del] [del]45[/del] [del]39[/del] [del]31[/del] [del]43[/del] [del]37[/del] [del]26[/del] [del]29[/del] [del]43[/del]
+
+[fig]Fractional division table[/fig]
+0 [ins]1[/ins] 1 [ins]2[/ins] 1 [ins]3[/ins] 2 [ins]3[/ins] 1 [ins]4[/ins] 3 [ins]5[/ins] 2 [ins]5[/ins] 3 [ins]4[/ins] 1 [ins]5[/ins] 4 [ins]7[/ins] 3 [ins]8[/ins] 5 [ins]7[/ins] 2 [ins]7[/ins] 5 [ins]8[/ins] 3 [ins]9[/ins] 4 [ins]5[/ins] 1
+1 [ins]7[/ins] 6 [ins]11[/ins] 5 [ins]14[/ins] 9 [ins]13[/ins] 4 [ins]5[/ins] 11 [ins]18[/ins] 7 [ins]17[/ins] 10 [ins]13[/ins] 3 [ins]14[/ins] 11 [ins]19[/ins] 8 [ins]24[/ins] 16 [ins]21[/ins] 5 [ins]17[/ins] 12 [ins]19[/ins] 7 [ins]16[/ins] 9 [ins]11[/ins] 2
+
+[fig]Fractional division table[/fig]
+[ins]1[/ins]
+[ins]0[/ins] [ins]1[/ins]
+[ins]0[/ins] [ins]1[/ins] [ins]1[/ins]
+[ins]001[/ins] [ins]011[/ins] [ins]101[/ins] [ins]111[/ins]
+[ins]1[/ins] [ins]2[/ins] [ins]3[/ins] [ins]3[/ins]
+[ins]0001[/ins] [ins]0111[/ins] [ins]1001[/ins] [ins]1111[/ins]
+1 2 3 3 4 3 5
+
+[fig]Fractional division table[/fig]
+[ins]0[/ins] [ins]1[/ins]
+[u]0 1[/u]
+[u]0 1[/u]
+0 1 2
+0 [ins]1[/ins] 1 [ins]2[/ins] 1 [ins]3[/ins] 2 [ins]3[/ins] 1
+0 [ins]1[/ins] 1 [ins]2[/ins] 1 [ins]3[/ins] 2 [ins]3[/ins] 1 [ins]4[/ins] 3 [ins]5[/ins] 2 [ins]5[/ins] 3 [ins]4[/ins] 1
+
+[fig]Fractional division table[/fig]
+[ins]0[/ins] [ins]1[/ins]
+[ins]01[/ins] [ins]11[/ins]
+[ins]1[/ins] [ins]2[/ins]
+[ins]001[/ins] [ins]011[/ins] [ins]101[/ins] [ins]111[/ins]
+[ins]1[/ins] [ins]2[/ins] [ins]3[/ins] [ins]3[/ins]
+[ins]0001[/ins] [ins]0011[/ins] [ins]0101[/ins] [ins]0111[/ins] [ins]1001[/ins] [ins]1011[/ins] [ins]1101[/ins] [ins]1111[/ins]
+[ins]1[/ins] [ins]2[/ins] [ins]3[/ins] [ins]3[/ins] [ins]4[/ins] [ins]5[/ins] [ins]5[/ins] [ins]4[/ins]
+[ins]00001[/ins] [ins]00111[/ins] [ins]01011[/ins] [ins]01111[/ins] [ins]10011[/ins] [ins]10111[/ins] [ins]11011[/ins]
+1 2 3 3 4 5 5

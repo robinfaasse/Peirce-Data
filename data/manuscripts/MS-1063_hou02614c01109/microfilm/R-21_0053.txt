@@ -1,0 +1,24 @@
+[marginalia]
+a series of ascending [ins]*[/ins]
+powers of [del]$\phi$[/del]
+[/marginalia]
+
+[u]$\sqrt{\cos\phi - \cos A}$[/u]
+
+$D_{\phi} (\cos\phi - \cos A)^{-\frac{1}{2}}$
+$= + \frac{1}{2} (\cos\phi - \cos A)^{-\frac{3}{2}} \sin\phi$
+
+$D_{\phi}^2 = + \frac{3}{4} (\cos\phi - \cos A)^{-\frac{5}{2}} \sin^2\phi$
+$+ \frac{1}{2} (\cos\phi - \cos A)^{-\frac{3}{2}} \cos\phi$
+
+$D_{\phi}^3 = + \frac{15}{8} (\cos\phi - \cos A)^{-\frac{7}{2}} \sin^3\phi$
+$+ \frac{9}{4} (\cos\phi - \cos A)^{-\frac{5}{2}} \sin\phi \cos\phi$
+$- \frac{1}{2} (\cos\phi - \cos A)^{-\frac{3}{2}} \sin\phi$
+
+***
+
+* A series [del]according[/del]
+to powers of [del]$\phi$[/del] is much
+to be preferred to those
+according to powers
+of $\sin\phi$ or $\tan\phi$ -

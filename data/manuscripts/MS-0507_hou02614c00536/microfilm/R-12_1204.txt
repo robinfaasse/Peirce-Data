@@ -1,0 +1,33 @@
+[fig]Diagram showing A pointing to B[/fig]
+
+A contains B as a part of it
+
+[fig]Diagram showing a circle containing a and b[/fig]
+
+Whatever is [del]a[/del] [ins]has as a member whatever[/ins] is [del]as a part of it[/del] [ins]is as a member[/ins]
+
+[fig]Diagram showing a circle containing a and b with arrows[/fig]
+
+Whatever is a contains as a member
+
+[fig]Diagram showing concentric circles labeled a, -b, and b[/fig]
+
+If there is any thing that is b then there is some thing that contains as a member whatever is b
+
+[fig]Diagram showing concentric circles with a, -b, and b[/fig]
+
+[fig]Diagram showing nested circles with a, -b, and b[/fig]
+
+A is identical with whatever is A
+
+[fig]Diagram showing a loop containing two A's[/fig]
+
+Something is A and is identical with whatever is A
+
+[fig]Diagram showing a loop containing two A's with an arrow[/fig]
+
+A includes as a member whatever is b and excludes whatever is not b
+
+[fig]Diagram showing two loops containing b and -b[/fig]
+
+[fig]Diagram showing four loops containing b and -b connected by lines[/fig]

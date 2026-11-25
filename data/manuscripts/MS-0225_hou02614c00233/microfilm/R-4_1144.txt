@@ -1,0 +1,135 @@
+```
+95
+105
+115
+125
+135
+145
+155
+165
+175
+185
+195
+205
+215
+225
+235
+245
+255
+265
+275
+285
+295
+
+Taking then [del]log[/del] [ins]$\log \frac{\sin x}{x} = \log \frac{2+\cos x}{3}$[/ins]
+
+Let the reciprocal of this be denoted by [del]$\frac{3}{2} a$[/del] [ins]$\log \frac{3}{2} a$[/ins]
+
+$\log \frac{3}{2+\cos x} = \log \frac{3}{2} a$
+
+$\frac{3}{2+\cos x} = \frac{3}{2} a$
+
+$\frac{1}{1+\frac{1}{2}\cos x} = a$
+
+$\frac{1}{a} = 1 + \frac{1}{2}\cos x$
+
+$\frac{1}{2}\cos x = \frac{1}{a} - 1 = \frac{1-a}{a} = \frac{1}{\frac{a}{1-a}} = \frac{1}{\text{Zeck}\ \Theta\ a}$
+
+$\cos x = \frac{2}{\text{Zeck}\ \Theta\ a}$
+
+$\log \cos x = \log 2 - \text{Zeck}\ \Theta\ (\frac{2}{3} \frac{x}{\sin x})$
+
+$\frac{3}{2} a = \frac{\frac{3}{2}}{\frac{3}{2+\cos x}} = \frac{3}{2} \frac{2+\cos x}{3} = \frac{2+\cos x}{2} = 1 + \frac{1}{2}\cos x$
+
+$\frac{3}{2} a = \frac{x}{\sin x}$
+
+$a = \frac{2}{3} \frac{x}{\sin x}$
+
+Computation of $x$ for Values of $\frac{x}{\sin x}$
+
+$\log \frac{x}{\sin x}$
+
+$\log (\frac{2}{3} \frac{x}{\sin x})$
+
+$\text{Zeck}\ \Theta$
+
+$\log \cos x$
+
+$x$
+
+.000005
+
+$9.823914$
+
+$301045$
+
+$15'$
+
+$0^\circ 29'$
+
+15
+
+[del]$24$[/del] $301076$
+
+$46$
+
+$50'$
+
+25
+
+[del]$34$[/del] [ins]$56$[/ins] $106$
+
+$76$
+
+$1^\circ\ \ 4'$
+
+35
+
+[del]$74$[/del] [ins]$16$[/ins] $136$
+
+$106$
+
+$16'$
+
+45
+
+[del]$54$[/del] $301166$
+
+$136$
+
+$26'$
+
+55
+
+[del]$64$[/del] [ins]$36$[/ins] $301206$
+
+$166$
+
+$35'$
+
+65
+
+[del]$26$[/del] [ins]$84$[/ins] $226$
+
+$196$
+
+$43'$
+
+75
+
+[del]$26$[/del] [ins]$84$[/ins] [del]$06$[/del] $256$
+
+$226$
+
+$51'$
+
+85
+
+$9.823994$
+
+$301286$
+
+$256$
+
+$58'$
+```

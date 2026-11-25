@@ -1,0 +1,33 @@
+[pn]1071[/pn]
+
+[u]Notes on the Fundamentals of Algebra[/u]
+
+The fundamental symbol is $\prec$ which is thus defined
+
+1. $x \prec x$ whatever $x$ may be.
+2. If $x \prec y$ and $y \prec z$, then $x \prec z$.
+3. If $x \prec y$ and $y \prec x$, then $x$ and $y$ are not distinct.
+
+[u]Ligation[/u]
+
+Ligations of letters are either in a single series or branching.
+
+Thus, $x \prec y \prec z \prec w \prec u \prec v$ is an example of simple ligation
+
+$x \prec \left\{ \begin{array}{l} y \\ z \end{array} \right\} w \prec \left\{ \begin{array}{l} xu \\ xv \\ x \end{array} \right\}$ is an example of branching ligation.
+
+[u]All branching ligation may be reduced to bifurcation.[/u]
+
+$x \prec \left\{ \begin{array}{l} y \\ z \\ w \end{array} \right\} = x \prec \left\{ \begin{array}{l} y \\ [del]1[/del] [ins]1[/ins] \prec \left\{ \begin{array}{l} z \\ w \end{array} \right. \end{array} \right.$
+
+[u]Simple Ligation[/u]
+
+Simple ligation is of three kinds viz: -
+
+1. Such that if $l \prec m$ and $x \prec y$ $lx \prec my$. This is called [u]multiplication[/u]
+2. Such that if $l \prec m$ and $x \prec y$ $l^y \prec m^x$. This is called [u]progressive involution[/u]
+3. Such that if $l \prec m$ and $x \prec y$ $x^m \prec y^l$ this is called [u]regressive involution[/u]
+
+(A fourth kind such that $m \cdot y \prec l \cdot x$ seems useless because it is perfectly represented by $x^{my} \prec x^{lx}$. This necessity of distinguishing the two involutions arises from a circumstance not yet considered.)
+
+These are the distinguishing characters of the three ligations [ins]and are the characters[/ins] from which all the others are developed. But they do not constitute complete definitions of the operations. These definitions have now to be evolved.

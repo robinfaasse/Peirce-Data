@@ -1,0 +1,37 @@
+Cauchy's Theorem that every group contains a
+substitution of the order of each prime factor of the group.
+He says Cauchy's demonstration is à peu près the
+same as that he gives. He makes two "lemmas" though
+they are not such in the sense of being drawn from a
+different branch of mathematics.
+
+Lemma I. If a group [del]of order l[/del] contains two other groups, the number
+of its substitutions such that none of them gives the same
+product when multiplied by any substitution of the first sub-
+group that it does when multiplied into any substitution
+of the second subgroup is a multiple of the product of
+the orders of those subgroups, zero being regarded as
+such a multiple. [ins]of order l[/ins]
+
+That is I being a group (whose substitutions are
+[del]U, V, W etc,[/del] let it contain a group (G) of order m
+whose substitutions are $g_1, g_2 \dots g_m$ and also a group
+(H) of order n whose substitutions are $h_1, h_2 \dots h_n$ Then
+the number of [del]substitu[/del] [del]equal the[/del] mn inequalities
+$$g_x U_z \neq U_z h_y$$
+that are satisfied is divisible by mn [ins]say $U_w$[/ins]
+
+For in the first place is any [del]subst[/del] one of the U's, satisfies
+the condition, so also will every substitution formed
+by multiplying this by a g and into an h; since if
+$$g_x g_u U_w h_v = g_u U_w h_v h_y$$
+then
+$$g_u^{-1} g_x g_u U_w = U_w h_v h_y h_v^{-1}$$
+which since the g's are a group and the h's another
+is the same as
+$$g_{x'} U_w = U_w h_{y'}$$
+contrary to the hypothesis, Moreover the mn substitu-
+tions formed by multiplying $g_u U_w h_v$ by a g and into
+an h will be all [del]except[/del] unequal. Of course $U_w$ will
+itself be one of these, since one of the g's will be 1,
+and so will one of the h's.

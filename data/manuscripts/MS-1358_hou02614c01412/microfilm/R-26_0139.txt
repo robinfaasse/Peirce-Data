@@ -1,0 +1,119 @@
+[pn]6[/pn]
+
+[del]Morrison's Bridge 1897 Feb 7[/del]
+
+[del]The above is not according to conditions [ins]$\Theta_Q$ is fixed, not zero[/ins][/del]
+Hence the first equation
+
+$$B(-\Theta_Q + 3\Theta_{Q-1} - 2\Theta_{Q-2}) + vL = 0$$
+
+$$\Theta_{Q-2} = -\frac{1}{2}\Theta_Q + \frac{3}{2}\Theta_{Q-1} + \frac{vL}{2B}$$
+
+$$\Theta_{Q-3} = 3\Theta_{Q-2} - 3\Theta_{Q-1} + \Theta_Q - \frac{vL}{B}$$
+
+$$\Theta_{Q-2} - \Theta_{Q-1} = \frac{3}{2}\Theta_{Q-1} - \frac{1}{2}\Theta_Q + \frac{vL}{2B}$$
+
+$$\Theta_{Q-3} - \Theta_{Q-2} = \frac{vL}{B}$$
+
+$$= \begin{matrix} +\frac{9}{2} & -\frac{3}{2} & +3 \\ \frac{3}{2}\Theta_{Q-1} & -\frac{1}{2}\Theta_Q & +2\frac{vL}{B} \end{matrix}$$
+
+$$\Theta_{Q-4} = 3\Theta_{Q-3} - 3\Theta_{Q-2} + \Theta_{Q-1} - \frac{vL}{B}$$
+
+$$= \begin{matrix} +\frac{9}{2} & -\frac{3}{2} & +6 \\ -\frac{9}{2} & +\frac{3}{2} \end{matrix}$$
+
+$$\Theta_{Q-n} = \frac{n(n+1)}{2}\Theta_{Q-1} - \left(n + \frac{1+\sqrt{5}}{2}\right)\left(n + \frac{1-\sqrt{5}}{2}\right)\Theta_Q - \frac{(n-1)n(n+1)}{6}\frac{vL}{B}$$
+
+when $Q-n = P$ $n = Q-P$
+
+[del]$\frac{n^3-n+3}{3n^2-1}$[/del] $n = \frac{1}{1.732} \fallingdotseq 5774$
+
+[del][fig]crossed out scribble[/fig][/del]
+
+$$\begin{array}{r} +.1925 \\ -.5774 \\ \hline \end{array}$$
+
+$$\Theta_{Q-1} \quad \Theta_Q$$
+
+$$-(\Theta_Q - \Theta_{Q-1}) + \frac{(Y + \frac{1}{2}v)L}{B} = 0$$
+
+$$\Theta_{Q-1} = \Theta_Q + (Y - \frac{1}{2}v)\frac{L}{B}$$
+
+$$\Theta_{Q-n} = \Theta_Q + \frac{n(n+1)}{2} Y_Q$$
+
+$$\begin{array}{r} 8629 \\ 217254 \\ 25887 \\ 34516 \\ 43145 \\ \hline 51774 \\ 60403 \\ 69032 \\ 77661 \\ 86290 \end{array}$$
+
+$$\begin{array}{r} 944 \\ 8629 \\ \hline 811 \\ 77661 \\ \hline 3439 \end{array}$$
+
+$$-2$$
+
+$$-1.8906$$
+
+$$-6.751$$
+
+$$4.89$$
+
+$$\begin{array}{r} -8 \\ +2 \\ +3 \end{array}$$
+
+$$1.7$$
+
+$$\begin{array}{r} 4.98 \\ 4.7 \\ \hline .21 \end{array}$$
+
+$$\begin{array}{r} 9.9 \\ 9.7 \end{array}$$
+
+$$\begin{array}{r} 4.83 \\ 4.69 \\ \hline .14 \end{array}$$
+
+[fig]diagram of a balance scale[/fig]
+
+since
+[del]$\sin$[/del] $\Theta$
+
+$$\begin{array}{l} ab = 3 \\ a^2+1 = -b \end{array}$$
+
+$$n = (x-2)$$
+
+$$n^3 = x^3 - 6x^2 + 12x - 8$$
+
+$$\begin{array}{r} -x + 2 \\ +3 \\ \hline x^3 - 6x^2 + 11x - 3 \end{array}$$
+
+[del]$9x^3 - 18x^2 + 11x = 1$[/del]
+
+$$\frac{n^3-n+\frac{1}{2}}{26}$$
+
+$$\frac{n^3-n+3}{27n^3-3n+3}$$
+
+$$n = 9n^3 = 1$$
+
+$$\begin{array}{r} 17 \\ +153 \\ +46 \end{array}$$
+
+$$.328509$$
+
+$$\begin{array}{r} -26 \\ +72 \\ \hline 46 \end{array}$$
+
+$$.69$$
+
+$$.23$$
+
+$$4.657$$
+
+$$4.661$$
+
+$$-1\frac{2}{3}$$
+
+$$\left. n^2+an+b \right) n^3-n+3 \left( n+a \right.$$
+
+$$\frac{n^3+an^2+bn}{an^2-(b+1)n+3}$$
+
+$$\frac{an^2+a^2n+ab}{}$$
+
+[fig]vertical number line with points marked[/fig]
+
+$$\begin{array}{r} 729 \\ -18 \\ +121 \\ \hline 103 \end{array}$$
+
+$$\begin{array}{r} 8 \\ 1 \\ \hline 1 \\ 1 \\ -8 \\ \hline -17 \\ -26 \\ +46 \\ \hline +199 \end{array}$$
+
+$$\begin{array}{r} 18 \\ 1 \\ \hline 1183 \\ 1142 \\ \hline 190 \\ 944 \\ \hline 99 \\ 103 \\ \hline 10483 \\ 1854 \\ \hline 8629 \end{array}$$
+
+$$\begin{array}{r} +1 \\ -729 \\ \hline 103 \\ 944 \\ \hline 8629 \end{array}$$
+
+$$\begin{array}{r} 0 \\ 0 \\ -1 \\ -\frac{1}{3} \\ +\frac{1}{9} \\ 8/27 \\ 17/81 \end{array}$$
+
+$$\begin{array}{r} 0 \\ 0 \\ -1 \\ \hline 103 \\ 944 \\ \hline 8629 \end{array}$$

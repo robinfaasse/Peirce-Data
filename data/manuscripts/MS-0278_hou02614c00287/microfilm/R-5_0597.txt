@@ -1,0 +1,15 @@
+$$X = \frac{x^2+y^2-b^2}{2yc-n^2}x$$
+
+$$D_x X = \frac{x^2+y^2-b^2}{2yc-n^2} + x \frac{[del]2x(2yc-n^2)[/del] 2x}{2yc-n^2}$$
+
+$$= \frac{3x^2+y^2-b^2}{2yc-n^2}$$
+
+$$D_x^2 X = \frac{6x}{2yc-n^2}$$
+
+$$D_y X = \frac{2y(2yc-n^2) - 2c(x^2+y^2-b^2)}{(2yc-n^2)^2} x$$
+
+$$= \frac{2yx}{2yc-n^2} - \frac{2cx(x^2+y^2-b^2)}{(2yc-n^2)^2}$$
+
+$$D_y^2 X = \frac{2x(2yc-n^2) - 4cxy}{(2yc-n^2)^2} - 2cx \frac{2y(2yc-n^2)^2 - [del]2(2yc-n^2)[/del] [ins]4[/ins] [del]y[/del] (2yc-n^2)c}{(2yc-n^2)^4}$$
+
+$$= \frac{2x}{2yc-n^2} - \frac{8cxy}{(2yc-n^2)^2} + \frac{[del]8[/del] [ins]8[/ins] c^2 x (x^2+y^2-b^2)(yc-n^2)}{(2yc-n^2)^4}$$

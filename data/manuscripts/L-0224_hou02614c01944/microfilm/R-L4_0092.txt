@@ -1,0 +1,33 @@
+[pn]4[/pn]
+
+5 with 8, we get (transposing the third and fourth terms
+$$\Sigma_4 \Sigma_8 \Pi_g \Pi_{g'} (1_{8g} + 1_{8g'} + 1_{gg'}) \cdot r_{48} + 1_{84} \cdot r_{48} + 1_{g4} \cdot r_{48} + 1_{g'4} \cdot r_{48}$$
+$$= \Sigma_4 \Sigma_8 \Pi_g \Pi_{g'} (1_{8g} + 1_{8g'} + 1_{gg'}) \cdot r_{48} + r_{88} + r_{g8} + r_{g'8}$$
+
+But if we identify 5 with $g$ we get
+$$\Sigma_4 \Sigma_8 \Pi_g \Pi_{g'} (1_{8g} + 1_{8g'} + 1_{gg'}) \cdot r_{4g} + r_{8g} + r_{gg} + r_{g'g}$$
+
+If we identify 5 with $g'$, we get
+$$\Sigma_4 \Sigma_8 \Pi_g \Pi_{g'} (1_{8g} + 1_{8g'} + 1_{gg'}) \cdot r_{4g'} + r_{8g'} + r_{gg'} + r_{g'g'}$$
+
+In [del]the first of[/del] these last three propositions we identify $g'$ with [del]4[/del] [ins]8[/ins], and they become
+$$\Sigma_4 \Sigma_8 \Pi_g \Pi_{g'} 1_{8g} \cdot r_{48} + r_{88} + r_{g8} + r_{g'8}$$
+$$\Sigma_4 \Sigma_8 \Pi_g \Pi_{g'} 1_{8g'} \cdot r_{4g} + r_{8g} + r_{gg} + r_{g'g}$$
+$$\Sigma_4 \Sigma_8 \Pi_g \Pi_{g'} 1_{gg'} \cdot r_{4g'} + r_{8g'} + r_{gg'} + r_{g'g'}$$
+
+In these we identify 4 with $g$ and they give
+$$\Sigma_8 \Pi_g \Pi_{g'} r_{88} + r_{g8} + r_{g'8}$$
+$$\Sigma_8 \Pi_g \Pi_{g'} r_{8g} + r_{gg} + r_{g'g}$$
+$$\Sigma_8 \Pi_g \Pi_{g'} r_{8g'} + r_{gg'} + r_{g'g'}$$
+
+Multiplying these by the third power of $\Pi_1 \Pi_2 \Pi_3 \bar{r}_{12} + \bar{r}_{13} + 1_{23}$ we get
+$$\Sigma_8 \Pi_g \Pi_{g'} (r_{88} \cdot r_{g'g} \cdot r_{gg'} + r_{88} \cdot r_{gg'} \cdot r_{g'g'} + r_{g8} \cdot r_{8g} \cdot r_{g'g'} + r_{g8} \cdot r_{g'g} \cdot r_{8g'}$$
+$$+ r_{g'8} \cdot r_{8g} \cdot r_{gg'} + r_{g'8} \cdot r_{gg} \cdot r_{8g'}) \cdot T_{8g} \cdot T_{8g'} \cdot T_{gg'}$$
+$$+ (r_{gg} \cdot r_{g'g'} + r_{gg'} \cdot r_{g'g}) \cdot T_{gg'} \cdot (1_{8g} + 1_{8g'})$$
+$$+ (r_{88} \cdot r_{gg'} + r_{g8} \cdot r_{8g'}) \cdot T_{8g'} \cdot (1_{8g} + 1_{gg'})$$
+$$+ r_{gg} \cdot 1_{8g} \cdot 1_{8g'}$$
+
+This gives
+[del]$$\Pi_g \Pi_{g'} \Sigma_8 \bar{r}_8$$[/del] $\Pi_g \Sigma_8 r_{g8}$
+
+Multiplying by $\Sigma_6 \Pi_7 \bar{r}_{67}$ identifying $g$ with 6 and 7 with 8, the whole vanishes. [del]$\Lambda$[/del]

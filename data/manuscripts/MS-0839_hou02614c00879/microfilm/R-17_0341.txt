@@ -1,0 +1,61 @@
+[fig] cross [/fig]
+[del](j-k)[/del] [ins]i'[/ins] = i'-k'  i'i' = i"
+[del](k-i)[/del] [ins]i'[/ins] = k'-i'  j'i' = j"
+[del](i-j)[/del] [ins]i[/ins] = [del]i[/del][ins]l[/ins]-j'  k'i' = k"
+(m-n) i = m'-n'  l'i' = l"
+
+[del](j-k) j' = k'-i'[/del]
+[del](k-i) j' = i'-j'[/del]  i'j' = j"
+(k-i) j' = i'-i'  j'j' = k"
+(i-j) j' = j'-k'  k'j' = i"
+(m-n) j' = n'-l'  l'j' = m"
+(n-l) j' = l'-m'  m'j' = n"
+
+[del]l'k'[/del] (m-n) k' = l'-m'  l'k' = n'
+k'l' (l-j) k' = l'-n' - l'n'
+
+(j-k) i = j-k  i'i = i'
+(k-i) i = k-i  j'i = j'
+(i-j) i = i-j  k'i = k'
+[del](m-n)[/del] [ins](l-m)[/ins] l = m-n  l'i = l'
+(n-l) [del]l[/del] [ins]m[/ins] = n-l  m'i = m'
+(l-m) [del]l[/del] [ins]n[/ins] = l-m  n'i = n'
+[del](i-j) l[/del] [ins](j-k) l[/ins] = n-m  i'l = -l'
+(k-i) l = m-l  j'l = -n'
+(i-j) l = l-n  k'l = -m'
+(m-n) l = k-j  l'l = -i'
+(n-l) l = j-i  m'l = -k'
+(l-m) l = i-k  n'l = -j'
+
+(i-k) j = k-i  i'j = j'
+(k-i) j = i-j  j'j = k'
+(i-j) j = j-k  k'j = i'
+(m-n) j = n-l  l'j = m'
+(n-l) j = l-m  m'j = n'
+(l-m) j = m-n  n'j = l'
+(i-k) m = l-n  i'm = m'
+(k-i) m = n-m  j'm = -l'
+(i-j) m = m-l  k'm = -n'
+(m-n) m = i-k  l'm = -j'
+(n-l) m = k-j  m'm = -i'
+(l-m) m = j-i  n'm = -k'
+
+(j-k) k = i-j  i'k = k'
+(k-i) k = j-k  j'k = i'
+(i-j) k = k-i  k'k = j'
+(m-n) k = l-m  l'k = n'
+(n-l) k = m-n  m'k = l'
+(l-m) k = n-l  n'k = m'
+(j-k) n = m-l  i'n = -n'
+(k-i) n = l-n  j'n = -m'
+(i-j) n = n-m  k'n = -l'
+(m-n) n = j-i  l'n = -k'
+(n-l) n = i-k  m'n = -l'
+(l-m) n = k-j  n'n = -i'
+
+[u]n[/u]i' = n(j-k) = l-m = n'
+[u]m[/u]i' = m(k-i) = l-m = n'
+[u]l[/u]k' = l(i-j) = l-m = n'
+kl' = k(m-n) = n-l = m'
+jm' = j(n-l) = m-n = l'
+[del]in'[/del] [ins]in'[/ins] = i(l-m) = l-m = n'

@@ -1,0 +1,24 @@
+in the form
+$$\Pi_m \Pi_n (\bar{E}_{mn} + g_{mn})$$
+so as to get
+$$\Sigma_p \Sigma_q \Pi_k \Pi_m \Pi_n \{ (\bar{E}_{mn} + g_{mn}) (\bar{E}_{ik} + g_{kp}) E_{pq} + I_{ip} E_{pq} \} F_{iq}$$
+and then identifying [u]m[/u] with [u]p[/u] and [u]n[/u] with [u]q[/u],
+so as to get
+$$\Sigma_p \Sigma_q \Pi_k \{ (\bar{E}_{ik} + g_{kp}) g_{pq} + I_{ip} E_{pq} \} F_{iq}$$
+Theorem II enables us [del]to[/del] [ins]sub[/ins]stitute in the second term
+under the braces $\Sigma_r E_{pr} g_{rq}$ for $E_{pq}$. For first we
+multiply this term by itself, $q$ being changed to $r$, [del]and[/del] [ins]and[/ins]
+also by $I_{rq}$. This gives
+$$\Sigma_r \Sigma_p \Sigma_q \Pi_k \{ (\bar{E}_{ik} + g_{kp}) g_{pq} + I_{ip} E_{pq} E_{pr} I_{rq} \} F_{iq}$$
+We now multiply that term by theorem II in the form
+$$\Pi_u \Pi_v (\bar{I}_{uv} + g_{uv})$$
+and then identifying [u]u[/u] with [u]r[/u] and [u]v[/u] with [u]q[/u] we get
+$$\Sigma_r \Sigma_p \Sigma_q \Pi_k \{ (\bar{E}_{ik} + g_{kp}) g_{pq} + I_{ip} E_{pr} g_{rq} \} F_{iq}$$
+We have now the right to substitute $i$ for $p$ in the
+multiplier of $I_{ip}$ and thus get
+$$\Sigma_p \Sigma_q \Sigma_r \Pi_k \{ (\bar{E}_{ik} + g_{kp}) g_{pq} + I_{ir} g_{rq} \} F_{iq}$$
+Breaking down the inner parenthesis, Theorem I
+enables us to substitute $g_{kq}$ for $g_{kp} g_{pq}$. Namely
+we multiply by that Theorem in the form
+$$\Pi_a \Pi_b \Pi_c (\bar{g}_{ab} + \bar{g}_{bc} + g_{ac})$$
+and then identify $a$ with $k$, $b$ with $p$, and $c$ with $q$.

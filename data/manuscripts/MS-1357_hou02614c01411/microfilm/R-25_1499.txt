@@ -1,0 +1,68 @@
+[fig]Graph with a curve and intersecting lines[/fig]
+
+[del]y = [ins]1[/ins]/[ins]4[/ins] x[sup]2[/sup][/del]
+
+[fig]Table with columns and arrows connecting values[/fig]
+
+[del]n-S[/del] [del]10[/del] [del]x[/del] [del]10[/del] [del]2.1[/del] 10
+[del]n[/del] [del]12[/del] [del]2.3[/del] 10.5 [ins]0.5[/ins]
+[del]n+S[/del] [del]14[/del] [del]2.5[/del] 11.5 [ins]1.0[/ins]
+[del]n+2S[/del] [del]13[/del] [del]16[/del] 13.0 [ins]1.5[/ins]
+
+y = ax[sup]2[/sup]
+10.5 = a n[sup]2[/sup]
+11.5 = a (n[sup]2[/sup] + 2nS + S[sup]2[/sup])
+10. = a (n[sup]2[/sup] - 2nS + S[sup]2[/sup])
+[u]21.5 = 2an[sup]2[/sup] + 2aS[sup]2[/sup][/u] [ins].125[/ins] [ins].375[/ins] [ins].625[/ins] [ins].875[/ins]
+[u]21. = 2an[sup]2[/sup][/u]
+0.5 = 2aS[sup]2[/sup]
+[u]1[/u]/[u]4[/u] = a S[sup]2[/sup]
+a = [u]1[/u]/[u]4S[sup]2[/sup][/u]
+
+[u]1[/u]/[u]2[/u] [u]n[sup]2[/sup][/u]/[u]S[sup]2[/sup][/u] = 21
+n[sup]2[/sup] = 42 S[sup]2[/sup]
+
+[fig]Table with columns x, y, and differences[/fig]
+
+[u]x[/u] | [u]y[/u]
+0 | 0
+[ins]1/2[/ins] S | [del]a S[sup]2[/sup][/del]
+S | a S[sup]2[/sup]
+1[sup]1[/sup]/[sub]2[/sub] S | 2 a S[sup]2[/sup] [ins]1.2[/ins]
+2 S | 4 a S[sup]2[/sup]
+2[sup]1[/sup]/[sub]2[/sub] S | 6 a S[sup]2[/sup] [ins]2.3[/ins]
+3 S | 9 a S[sup]2[/sup]
+3[sup]1[/sup]/[sub]2[/sub] S | 12 a S[sup]2[/sup] [ins]3.4[/ins]
+4 S | 16 a S[sup]2[/sup]
+4[sup]1[/sup]/[sub]2[/sub] S | 20 a S[sup]2[/sup] [ins]4.5[/ins]
+
+[u]dy[/u]/[u]dx[/u] = 2ax
+
+[u]x[/u] | [u]1/2 S dy/dx[/u]
+n-S | 2an - 2aS | anS - aS[sup]2[/sup]
+n | 2an | anS
+n+S | 2an + 2aS | anS + aS[sup]2[/sup]
+n+2S | 2an + 4aS | anS + 2aS[sup]2[/sup]
+
+(n-1) n
+
+a(n[sup]2[/sup] - 2nS + S[sup]2[/sup]) = 10
+an[sup]2[/sup] = 10.5
+a(n[sup]2[/sup] + 2nS + S[sup]2[/sup]) = 11.5
+a(n[sup]2[/sup] + 4nS + 4S[sup]2[/sup]) = 13.0
+
+a(2nS - S[sup]2[/sup]) = 0.5
+a(2nS + S[sup]2[/sup]) = 1.0
+a(2nS + 3S[sup]2[/sup]) = 1.5
+
+2aS[sup]2[/sup] = 0.5
+2aS[sup]2[/sup] = 0.5
+2aS[sup]2[/sup] = 0.5
+
+[del]1875[/del]/[del]79.00[/del] [del]79[/del]/[del]3.16[/del] S = 2 [ins]an[/ins] = .1875
+
+a 4nS = 1.5
+anS = .375
+
+aS[sup]2[/sup] = .25
+a = [u]1[/u]/[u]16[/u] = .0625

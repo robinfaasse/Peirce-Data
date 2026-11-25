@@ -1,0 +1,40 @@
+[del]t³ - 3a₁t² + 3a₂t - a₃ = 0[/del]
+
+[del]t = x + a₁[/del]
+[del]x³ + 3a₁x² + 3a₁²x + a₁³[/del]
+[del]- 3a₁x² - 6a₁²x - 3a₁³[/del]
+[del]+ 3a₂x + 3a₁a₂[/del]
+[del]- a₃[/del]
+
+t³ - 3at² + 3b²t - c³ = 0
+
+t = x + a
+x³ + 3ax² + 3a²x + a³
+- 3ax² - 6a²x - 3a³
++ 3b²x + 3ab²
+- c³
+____________________
+[del]x³ + [ins]3a[/ins][/del]
+x³ + 3(b² - a²)x - 2a³ + 3ab² - c³ = 0
+
+x = [del]z -[/del] [ins]z +[/ins] [del]a² - b²[/del] [ins]a² - b² / 2z[/ins]
+
+z³ = z³ + 3(a² - b²)z + 3(a² - b²)² [del]1 / z[/del] [ins]+ (a² - b²)³ / z³[/ins]
++ 3(b² - a²)z + 3(b² - a²)² / z
+- 2a³ + 3ab² - c³
+
+z⁶ + (-2a³ + 3ab² - c³)z³ = (b² - a²)³
+
+z³ = a³ - 3/2ab² + 1/2c³
+± \sqrt{-3/2a⁴b² - 3/4a²b⁴ + a³c³ - 3/2ab²c³ + b⁶ + 1/4c⁶}
+
+b⁶ - 1/2a²b⁴ + 5/2a⁴b² - a⁶ + 1/4c⁶
+[del]b⁶[/del] + 9/4a²b⁴ - 9/2a⁴b² + a⁶ + a³c³ - 3/2ab²c³
+
+9/64 a¹⁰b¹⁴c¹²
+
+\sqrt{3} / \sqrt{12} a^{5/2} b^{7/2} c³
+
+a⁶b⁴ / 2abc
+
+z³ + (a² - b²)³ / z³ - 2a³ + 3ab² - c³ = 0

@@ -1,0 +1,24 @@
+[pn]13[/pn]
+
+Let us now consider the work done by the moving load. And first, [del]for[/del] the work upon the continuous parts over the span of suspension, namely, the suspending cable, the suspenders, and the suspended truss.
+
+Let [u]e[/u] be the product of the elasticity of the cable into its cross-section, and let [u]l[/u] be the natural length from the extreme left-hand suspender [del]right[/del] to that for which [u]p[/u] has any value. The work of extending this is
+
+$$\frac{1}{2} \int \frac{e}{dl} (\sqrt{(dx)^2 + (dy)^2} - dl)^2 = \frac{e}{2} \int \left( \frac{\sqrt{(dx/dp)^2 + (dy/dp)^2}}{dl/dp} - 1 \right)^2 \frac{dl}{dp} dp$$
+
+The [del]lst[/del] value of [u]l[/u] here is given by equation (31), regard being had to the difference of notation.
+
+Let $s dp$ be the product of the elasticity of [del]many[/del] [ins]any[/ins] imaginary suspender into its cross-section; and let $\zeta$ (lambda) be its natural length. Then, the work of extending one suspender is
+
+[del]$$\frac{1}{2} \frac{s}{\zeta} (\sqrt{(x - x' - \xi)^2 + (y - y' - \eta)^2} -$$[/del]
+$$\frac{1}{2} \frac{s dp}{\zeta} (\sqrt{(\xi - x + x')^2 + (\eta - y + y'_k)^2} - \zeta)^2 ,$$
+
+and for the length from the extreme left-hand suspender to an indefinite point it is
+
+$$\frac{1}{2} \int \frac{(\sqrt{(\xi - x + x')^2 + (\eta - y + y'_k)^2} - \zeta)^2}{\zeta} dp .$$
+
+Here we may take
+
+$$x' = [del]p[/del] \frac{x'_k}{p_k} ,$$
+
+$$\zeta = y'_k (1 + \frac{x'_k}{x_k})^2 / (1 + \frac{E}{s}) = y'_k (1 + \frac{p}{p_k})^2 / (1 + \frac{E}{s}) .$$

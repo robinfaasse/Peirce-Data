@@ -1,0 +1,27 @@
+$$a \prec b$$
+
+$$\begin{array}{ll}
+\mathcal{A} & (a \prec b) \prec c \\
+\mathcal{C} & a \prec (b \prec c) \\
+\mathcal{AA} & [a \prec (b \prec c)] \prec d \\
+\mathcal{CC} & a \prec [b \prec (c \prec d)] \\
+\mathcal{AC-CA} & (a \prec b) \prec (c \prec d) \\
+\mathcal{AC} & [(a \prec b) \prec c] \prec d \\
+\mathcal{CA} & a \prec [(b \prec c) \prec d]
+\end{array}$$
+
+---
+
+$$\begin{array}{ll}
+\mathcal{AAA} & \{a \prec [b \prec (c \prec d)]\} \prec e \\
+\mathcal{CCC} & a \prec \{b \prec [c \prec (d \prec e)]\} \\
+\mathcal{AAC} & [a \prec (b \prec c)] \prec (d \prec e) \\
+& \{a \prec [(b \prec c) \prec d]\} \prec e \\
+& [(a \prec b) \prec (c \prec d)] \prec e \\
+\mathcal{CCA} & a \prec \{b \prec [(c \prec d) \prec e]\} \\
+& a \prec [(b \prec c) \prec (d \prec e)] \\
+& (a \prec b) \prec [b \prec (d \prec e)] \\
+\mathcal{AC} & [del](a \prec b)[/del] \\
+& [(a \prec b) \prec c] \prec (d \prec e) \\
+\mathcal{ACC} & \{[(a \prec b) \prec c] \prec d\} \prec e
+\end{array}$$

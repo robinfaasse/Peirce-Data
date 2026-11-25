@@ -1,0 +1,24 @@
+[pn]57[/pn]
+
+The second example is probably
+not much more difficult.
+
+[del]x + y + 0 + (u + y)0[/del]
+x + u + 0 + (u + y)0 + (u + y) · u + (u + y) · u + (u + y)0
+u + 0 + x (u + y)0 · u + x (u + y) · u + x (u + y) · u + x
+(u + y)0 · (u + y)0 · u + x
+
+[del]x + y + 0 + (u + y)0 + u + u[/del]
+[del]x + y + 0 + (u + y)0 + u + u + (u + y)0[/del]
+u + x + 0 + [(u + y)0]0 + (u + y)0 · (u + y)0
++ [u (u + y)]0 + u + y0.
+
+y_j · u + y0 then y_i = 0 x_j + 1 < 0
+y_j · [u · (u + y)]0 [del]y_k[/del] [del]x_ik[/del] [del]x_jk[/del]
+y_j · u_ij · (u + y)_ij
+
+[del]x_ij · x_jk[/del]
+(x + 1)_ik = \Pi_j x_ij + y_jk
+x_ij + x_jk
+\Pi_a \Sigma_b \Pi_c \Sigma_d
+u_ia + (u_ib + u_cb) · u_id

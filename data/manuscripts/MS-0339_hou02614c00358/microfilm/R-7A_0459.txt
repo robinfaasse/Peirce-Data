@@ -1,0 +1,27 @@
+[pn]226r[/pn]
+
+To say that a collection the $a$'s is greater than
+another collection the $b$'s is to say [del]that there[/del]
+[del]is a[/del] [ins]no[/ins] collection of [del]mutually exclusive[/del] [ins]pairs[/ins] such that
+in them every $a$ is paired with a $b$.
+That is, taking any collection of pairs whatever
+either there are [del]two pairs[/del] [ins]different[/ins] [del]not[/del] [ins]of[/ins] that collection
+not mutually exclusive or [del]there is no[/del]
+there is some $a$ [ins]such[/ins] [del]that, taking any pair of which[/del]
+[del]it is a member, either that pair does not belong[/del]
+[del]to this collection or else the other member of it[/del]
+[del]is not a b.[/del] [ins]no $b$ belongs to it[/ins]
+
+$\Pi_{\mu} \Sigma_{\alpha} \Sigma_{\beta} (\Sigma_{i} \Pi_{\gamma}) \Pi_{j} q_{\mu\alpha} \cdot q_{\mu\beta} \cdot \bar{c}_{\alpha\beta} +$ [del]$\frac{\Pi_{\gamma} \Sigma_{i} \bar{q}_{\gamma i} + a_{i} (\bar{q}_{\gamma i} + \bar{b}_{j})}{\text{action for } \Pi_{\gamma} \Pi_{j} \bar{q}_{\gamma j}}$[/del]
+$\bar{q}_{\mu\gamma} + a_{i} \cdot (\bar{q}_{\gamma j} + \bar{b}_{j})$
+
+[fig]W-shaped diagram[/fig]
+
+Translating this
+
+$\frac{\Sigma_{j} \Pi_{u} \Sigma_{v} \Pi_{w} \bar{b}_{u} + \bar{q}_{uv} \cdot a_{v} \cdot (\bar{q}_{uv} + \bar{b}_{w})}{\Sigma_{j} \Pi_{u} \Sigma_{v} \Pi_{w} \bar{b}_{u} + \bar{q}_{uv} \cdot a_{v} \cdot (\bar{q}_{uv} + \bar{b}_{w} + \Pi_{w})}$
+
+[del]$\Pi_{z} \Sigma$[/del] $\Sigma_{j} \Pi_{u} \Pi_{v} \bar{q}_{uv} +$
+$\Sigma_{j} \Pi_{u} \Pi_{v} \Pi_{x} \Pi_{y} \bar{q}_{uv} + \bar{q}_{xy} + l_{ux} \cdot l_{vy} + \bar{l}_{ux} \cdot \bar{l}_{vy}$
+$\Pi_{x} \Sigma_{y} \bar{l}_{xy} + \bar{q}_{xt} \cdot a_{t}$
+$\Sigma_{j} \Pi_{i} a_{i} \cdot (\bar{q}_{ij} + \bar{b}_{j})$

@@ -1,0 +1,39 @@
+[pn]Vb[/pn]
+
+Dear Holden
+
+I don't think I have told you my rule for solving numerical equations. It is as follows. The equation must be such that (or so modified) that some root has a smaller modulus than any other. It is that root that the rule finds. Put the equation into the form
+$$a_n x^n + a_{n-1} x^{n-1} + \dots - a_1 x = 1$$
+Then form [del]the[/del] recurrent series by the formula
+$$[del]a_n u_{m-n} + a_{n-1} u_{m-n+1} + \dots - a_1 u_{m-1} = u_m[/del]$$
+$$a_n u_{m-n} + a_{n-1} u_{m-n+1} + \dots - a_1 u_{m-1} = u_m$$
+The first $n$ values of $u$ are taken arbitrarily. Only they must not all be zero. I usually take all zero except the last which I take as 1. Then an approximate value of $x$ is $\frac{u_{m-1}}{u_m}$. [del]The approx[/del] The rule finds imaginary as well as real roots. It gives the value as close as may be desired, but it is not necessarily true that each value is closer than the last; though practically it will be so, because one will so choose the equation as to make the root sought small.
+
+If the coefficients $a$ are fractional it will be better to get rid of the fractions by assuming $u_m = b^m v_m$
+
+This is far the easiest way [ins]to extract roots.[/ins]
+
+Required $\sqrt{2}$. $(x+1)^2 = 2$
+$$x^2 + 2x = 1$$
+$$u_{m-2} + 2u_{m-1} = u_m$$
+Then $\sqrt{2} = 1 + \frac{408}{985}$ approx.
+
+[fig]arithmetic calculations[/fig]
+
+$$\begin{array}{c|c}
+m & u_m \\
+0 & 0 \\
+1 & 1 \\
+2 & 2 \\
+3 & 5 \\
+4 & 12 \\
+5 & 29 \\
+6 & 70 \\
+7 & 169
+\end{array}$$
+
+$$\begin{array}{c|c}
+m & u_m \\
+8 & 408 \\
+9 & 985
+\end{array}$$

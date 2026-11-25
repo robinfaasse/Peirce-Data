@@ -1,0 +1,29 @@
+[pn]388[/pn]
+
+But each conclusion when obtained should be
+expressed in the system we have just been considering.
+
+The problem will be this. We have two premises, each with
+two indices. We wish to infer a proposition in two indices from
+which these premises can be reciprocally deduced; or
+if that is not [del]possible[/del] [ins]there is no single one possible[/ins], then we wish to get the best
+set of two inferences from the premises from which they
+may be recovered.
+
+For example: Given $0 \dagger a \dagger 0$ and $0 \dagger b \dagger 0$, or
+$\Pi_i \Pi_j a_{ij} \cdot \Pi_k \Pi_l b_{kl}$.
+
+We infer
+$\Pi_i \Pi_j a_{ij} \cdot b_{ij}$.
+
+This is the same as
+$(0 \dagger a \dagger 0) \cdot (0 \dagger b \dagger 0) = 0 \dagger ab \dagger 0$
+
+2. Given [del]as[/del] $(a \dagger 0)$ and $0 \dagger b \dagger 0$, or
+$\Sigma_i \Pi_j a_{ij} \cdot \Pi_k \Pi_l b_{kl}$.
+
+We easily infer
+$\Sigma_i \Pi_j \Pi_k a_{ij} \cdot b_{kj}$
+
+And this may be written
+$\infty [a \cdot (0 \dagger \breve{b}) \dagger 0]$.

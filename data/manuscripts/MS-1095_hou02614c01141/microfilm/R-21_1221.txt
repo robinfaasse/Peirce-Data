@@ -1,0 +1,19 @@
+[marginalia]Print these uniformly
+in script or old English[/marginalia]
+
+stant term vanishes. It now follows, from the
+expressions for $D_y u$ and $D_y v$, that the values
+of $F_1''(x+iy)$ and $F_2''(x-iy)$ are conjugate to
+one another. Let us use the letters $\mathcal{R}$ and $\mathcal{I}$ so
+that $\mathcal{R} z$ shall denote the real part and $\mathcal{I} z$ the
+imaginary part of $z$. Then, we have seen that
+[del]$\mathcal{I} \{ F_1'(x+iy) + F_2'(x-iy) \} = B$ a constan[/del]
+(writing $A, B, C,$ [del]$E$[/del] [ins]$F$[/ins] for constants,
+
+$\mathcal{I} \{ F_1'(x+iy) + F_2'(x-iy) \} = Bi$  $\mathcal{R} \{ F_1'(x+iy) - F_2'(x-iy) \} = A$
+$\mathcal{I} \{ F_3'(x+iy) + F_4'(x-iy) \} = 0$  $\mathcal{R} \{ F_3'(x+iy) - F_4'(x-iy) \} = C$
+$\mathcal{I} \{ F_3(x+iy) + F_4(x-iy) \} = Ei$,
+
+Then, from the expression for [u]$v$[/u], we get
+
+$0 = \mathcal{I} v = -Bi + yCi - Ei$

@@ -1,0 +1,99 @@
+$n_1$ number of $1^{\text{st}}$ color regions
+$n_{1\cdot 2}$ number of $2^{\text{nd}}$ color touching $1^{\text{st}}$
+$n_{1\cdot 3}$ " " $3^{\text{rd}}$ " " $1^{\text{st}}$
+etc
+$n_2$ number of second color regions
+$n_{2\cdot 3}$ " " $3^{\text{rd}}$ color regions touching $2^{\text{nd}}$
+$n_{2\cdot 4}$ " " $4^{\text{th}}$ " " $2^{\text{nd}}$
+$n_3$ " " $3^{\text{rd}}$ color regions
+$n_{3\cdot 4}$ " " $4^{\text{th}}$ "
+
+$\sum n_k = n_1 + n_2 + n_3 + \text{etc} = X_2$
+
+[del]$n_{1\cdot 2} + n_{1\cdot 3} +$[/del]
+$n_{1\cdot 2} + n_{1\cdot 3} + n_{2\cdot 3} + n_{2\cdot 4}$
+$= 2 \sum_i \sum_j n_{ij} =$ [del]$X$[/del] [del]$X_1$[/del]
+
+[fig]Flower-like cluster of regions[/fig]
+[fig]Two adjacent regions[/fig]
+[fig]Three-petaled flower region[/fig]
+[fig]Theta graph[/fig]
+$2$ regions
+$3$ boundaries
+$2$ summits
+
+$7$ regions
+$15$ boundaries
+
+[fig]Three-legged triskelion-like region[/fig]
+$6$ regions
+$12$ boun
+$8$ sum.
+
+[fig]Concentric circles with spokes[/fig]
+$6$ regions
+$12$ boundaries
+$8$ summits
+
+[fig]Two overlapping circles[/fig]
+$4$ regions
+$6$ bounds
+$4$ summits
+
+[fig]Concentric circles[/fig]
+$4$ regions
+$6$ bound
+$4$ summit
+
+[fig]Three overlapping circles[/fig]
+$6$ regions
+$12$ boundaries
+
+[fig]Three overlapping circles in a line[/fig]
+$6$ regions
+$12$ boundaries
+
+[fig]Crossed lines[/fig]
+
+[fig]Three overlapping circles forming a triangle[/fig]
+$5$ regions
+$9$ boundaries
+$6$ summits
+
+[fig]Circle with three internal spokes[/fig]
+$5$ regions
+$9$ boundaries
+$6$ summits
+
+[fig]Circle with three internal loops[/fig]
+$5$ regions
+$9$ boundaries
+$6$ summits
+
+$\begin{matrix}
+3 & 3 & 2 \\
+4 & 6 & 4 \\
+5 & 9 & 6 \\
+6 & 12 & 8 \\
+7 & 15 & 10
+\end{matrix}$
+
+$n$ regions
+$3n - 6$ boundaries
+$2n - 4$ summits
+[del]$(3n - 6)$[/del] summits
+
+[fig]Semicircle with internal loops[/fig]
+$6$ regions
+$12$ boundaries
+
+[fig]Two overlapping circles[/fig]
+
+$14$
+$23$
+$24\cdot 1$
+$24\cdot 4$
+$34$
+$44$
+$45$
+$46$

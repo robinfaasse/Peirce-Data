@@ -1,0 +1,32 @@
+$\breve{k}_i (\breve{g}_{ij} \cdot \bar{g}_{ji} + \bar{g}_{ij}) \cdot [(\breve{g}_{ij} + 1)_k +$ [fig]drawing of multiple faces[/fig]
+[del]not own[/del]
+
+$\breve{k}_i$
+[del]Let $i$ [del]be unowned[/del] by the one next[/del]
+[del]preceding it[/del]
+
+Let $j$ next precede $i$
+$g_{ij} \cdot \Pi_k (\bar{g}_{ik} + \bar{g}_{kj})$
+
+[del]Let $i$ be unowned[/del]
+Let $j$ next precede $i$ and not own it
+$\bar{k}_{ji} \cdot g_{ij} \cdot \Pi_k (\bar{g}_{ik} + \bar{g}_{kj})$
+
+Let $j$ next precede $i$ and not own it
+and [del]not precede $j'$ that next precedes it and[/del]
+and precede no matter what $j'$ [ins]no matter what $i'$ may be[/ins] does not precede it
+unless $j'$ [del]next precedes nothing[/del]
+or [del]unless $j'$[/del] precedes something preceding it
+or [del]owns it.[/del]
+[ins]or unless $j'$ is identical with $i$[/ins]
+
+$\bar{k}_{ji} \cdot g_{ij} \cdot \Pi_k (\bar{g}_{ik} + \bar{g}_{kj}) \cdot \Pi_{j'} \bar{g}_{jj'} + l_{jj'} + \Pi_{l'} \bar{g}_{j'l'} + \Sigma_{k'} g_{i k'} \cdot g_{k'j'} + \breve{k}_{j'l'}$
+
+No matter what $l$ may be, it either does not precede that $j$.
+or no matter what $m$ may be $m$ does not precede it
+[del]or $l$ is owne[/del]
+or there is something $n$ that precedes $j$
+and owns $l$.
+[fig]drawing of three faces[/fig]
+[del]$\Pi_l \Pi_m \Sigma_n$[/del]
+$\Pi_l \Sigma_j \Pi_k \Pi_{j'} \Pi_{i'} \Sigma_{k'} \Sigma_n \Pi_m \bar{g}_{jl} + \bar{g}_{lm} + g_{jn} k_{nl}$

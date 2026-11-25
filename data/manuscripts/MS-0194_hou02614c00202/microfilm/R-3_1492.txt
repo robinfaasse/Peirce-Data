@@ -1,0 +1,47 @@
+[fig]Diagram of a fan-like set of radiating lines[/fig]
+
+$$\tan b = \tan h \cdot \cos A$$
+
+$$\begin{array}{cccc}
+& & \text{tan } b & \delta \\
+285 & 966 & 1.66 & 60^\circ \\
+300 & 866 & 1.50 & 59 \\
+315 & 707 & 1.22 & 56.3 \\
+330 & 500 & .867 & 50.8 \\
+[del]345[/del] & [del]259[/del] & [del].449[/del] & 40.9 \\
+& [ins]087[/ins] & [ins]151[/ins] & 24.2 \\
+0 & 0 & 0 & 8.6 \\
+15 & -259 & -449 & \\
+30 & -500 & -867 & \\
+45 & -707 & & \\
+60 & -866 & & \\
+75 & -966 & &
+\end{array}$$
+
+$$\begin{array}{ccc}
+& \text{Obtuse} & \\
+& \text{when } \delta \text{ Greater than} & \\
+270^\circ & 30^\circ & \\
+[del]255[/del] \quad 285 & 31 & \\
+240 \quad 300 & 33.7 & \\
+225 \quad 315 & 39.2 & \\
+210 \quad 330 & 49.1 & \\
+195 \quad 345 & 65.8 & \\
+180^\circ & [ins]81.4[/ins] & \\
+& 90.0 &
+\end{array}$$
+
+[marginalia]
+$$\begin{array}{c}
+12 \\
+15 \\
+90^\circ
+\end{array}$$
+$$135$$
+[/marginalia]
+
+$$\begin{array}{cccccc}
+\text{B} & \text{F} & \text{B} & \text{F} & \text{B} & \text{F} \\
+76.50 \text{ Cass} & 122.48 \text{ Ceph} & 117 \alpha \text{ Per} & 121.54 \text{ Aur} & 123 \delta \text{ Ori} & 137.9 \text{ Can} \\
+117.7 & 135.4 & 133.6 & 135.0 & 135.8 & 142.0
+\end{array}$$

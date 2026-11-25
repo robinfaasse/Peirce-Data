@@ -1,0 +1,42 @@
+[pn]64[/pn] PLANE GEOMETRY. [CH. XII. § 217
+
+To inscribe a Decagon.
+
+216. _Corollary._ An equilateral triangle $BDF$ is in-
+scribed by joining the alternate vertices, $B, D, F$.
+
+217. _Problem._ To inscribe in a given circle a reg-
+ular decagon.
+
+_Solution._ Divide the radius $AB$ (fig. 119) in extreme
+and mean ratio at the point $C$. Take $BD$ for the side of
+the decagon equal to the larger part $AC$, and, by apply-
+ing it ten times round the circumference, the required
+decagon $BDEF$ &c. is obtained.
+
+_Proof._ Join $AD$, and we are to prove that the arc $BD$
+is $\frac{1}{10}$ of the circumference, or that the angle $BAD$ is $\frac{1}{10}$ of
+four right angles, or $\frac{1}{5}$ of two right angles.
+
+Join $DC$. The triangles $BCD$ and $ABD$ have the
+angle $B$ common; and the sides $BC$ and $BD$, which in-
+clude this angle in the one triangle, are proportional to
+the sides $BD$ and $AB$, which include the same angle in
+the other triangle. For, by § 192,
+$$BC : AC = AC : AB ;$$
+but, by construction, $BD$ is equal to $AC$, and, being sub-
+stituted for it in this proportion, gives
+$$BC : BD = BD : AB.$$
+
+The triangles $BCD$ and $ABD$ are therefore similar, by
+§ 179.
+
+Now the triangle $ABD$ is isosceles, and therefore $BCD$
+must also be isosceles; and the side $DC$ is equal to $BD$,
+which is equal to $AC$; so that the triangle $ACD$ is also
+isosceles.
+
+We have, therefore,
+$$\text{the angle } A = \text{the angle } ADC ;$$
+and, by § 71,
+$$\text{the angle } BCD = \text{the angle } A + \text{the angle } ADC$$

@@ -1,0 +1,7 @@
+$$q = a \cdot \frac{\cos \varphi}{\sqrt{1 - e^2 \sin^2 \varphi}}$$
+
+$$\log q = \log a + \log \cos \varphi + \frac{1}{2} \log (1 - e^2 \sin^2 \varphi)$$
+
+$$d \log q = - [del]\tan \varphi \cdot d\varphi +[/del] \frac{e^2 \sin \varphi \cos \varphi}{1 - e^2 \sin^2 \varphi} d\varphi$$
+
+$$= - d\varphi \left( \frac{1}{\cos \varphi} + \frac{e^2 \cos \varphi}{1 - e^2 + e^2 \cos^2 \varphi} \right)$$

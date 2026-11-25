@@ -1,0 +1,73 @@
+```
+s⁴ + s³t + s²t² + st³ + t⁴ = 0  ψ s = t
+u⁴ + u³t + [del]u²[/del][ins]u²[/ins]t² + ut³ + t⁴ = 0  ψ u = t
+
+s³ + s²u + su² + u³ + (s² + su + u²)t + (s + u)t² + t³ = 0  ψ s = t ψ u = t ψ s = u
+s³ + s²u + su² + u³ + (s² + su + u²)w + (s + u)w² + w³ = 0  [del]ψ s = w ψ u = t ψ s = u[/del]
+
+s² + su + u² + (s + u)(t + w) + t² + tw + w²  ψ s = t ψ s = u ψ s = w
+[del]s = t  s = u[/del]                                      ψ u = t ψ w = t
+[del]t = u[/del]          t = w                             [del]ψ s = t[/del] ψ s = u [del]ψ s = w[/del]
+s² + su + u² + (s + u)(t + v) + t² + tv + v² = 0  ψ t = u ψ t = v ψ t = w
+[del]s = t  s = u[/del]                                      [del]ψ s = v[/del]
+[del]t = u  t = v[/del]                                  ψ s = t ψ s = u ψ s = u
+(s + u)( [del]v + w[/del] + t + v + w = 0                  + t = u + t = v + t = w
+                                                    ψ s
+
+s⁵ - t⁵ = 0      s = t  s = u
+                        t = u
+                 [del]s = w[/del]
+                 [del]u = w[/del]
+                 [del]t = w[/del]
+                 s = v
+                 u = v
+                 t = v
+                 w = v
+
+---
+
+[del]a + b[/del]
+[del]a² - b² + 2ab[/del]
+
+a⁵ + 5a⁴b[del]i[/del] -
+-10 a³b² - 10a²b³[del]i[/del]
++ 5ab⁴ + b⁵i
+
+a⁵ - 10a³b² + 5ab⁴ = 1
+5a⁴b - 10a²b³ + b⁵ = 0
+5a⁴ - 10a²b² + b⁴ = 0
+[del]25a⁴ - 50a²b² + 5ab⁴ = 0[/del]
+[del]20a⁴[/del]
+(5a² - b²) = ± 2√5 a²
+b² = (5 - 2√5) a²
+or b² = (5 + 2√5) a²
+
+[del]17[/del] - 24a⁵ + 40a³b² = 1
+[del]34[/del]
+-24a⁵ + 40(5 ± 2√5) a⁵ = 1
+a⁵ = [del]1[/del]/[del]176[/del] [ins]176[/ins] ± 80√5
+
+---
+
+a + bi
+
+A + B[del]i[/del]
+
+[fig]Five-pointed star or radiating lines[/fig]
+
+[del]√a² + b²[/del] ( [del]a[/del]/[del]√a² + b²[/del] + [del]i[/del]/[del]√a² + b²[/del] )
+
+a⁵ - 10a³b² + 5ab⁴ = [del]0[/del]
+
+[del]5a[/del]
+[del]a⁵[/del]
+5a⁵ - 50a³b² + 25ab⁴ = [del]0[/del]
+[del]5a⁵[/del] - 10a³b² + ab⁴ = [del]0[/del]
+-40a³b² + 24ab⁴ = 5
+-40a³b² + 120 [del]ab⁴[/del]/[del]5[/del] = 5
+-8a³b² + 24 [del]ab⁴[/del]/[del]5[/del] = 1
+[del]4[/del]) a = [del]α[/del] 5α
+a³ = 125α³
+-8a³ = [del]-1000α³[/del]
+24ab⁴ - 1000a³b² = 1
+```

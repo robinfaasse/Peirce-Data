@@ -1,0 +1,85 @@
+[del]pq[/del]
+
+$p^2 = -2 + 2(i+j+k)$
+
+[del]$q+r+s = 3 - (i+j+k)$[/del]
+[ins]$1 + (i+j+k)$[/ins]
+
+$p^2 = p-q-r-s$
+
+$qr = (1+i-j-k)(1-i+j-k)$
+
+$\begin{array}{r}
+1-i+j-k \\
++1+i+j+k \\
+1+i-j-k \\
+-1+i+j+k
+\end{array}$
+
+$2+2i+2j-2k$
+
+$q+r = 2-2k$
+
+$p-s = 2i+2j$
+
+$qr = p+q+r-s$
+
+[del]$pq = p+q$[/del]
+
+$pq = 2+2i+2j-2k$
+
+$qs = (1+i-j-k)(1-i-j+k)$
+
+$= 2-2i-2j-2k$
+
+$\frac{q+r+s}{p} = \frac{3-i-j-k}{1+i+j+k}$
+
+$qs = -p+q+r+s$
+
+[del]$pq = 2$[/del]
+
+$pr = (1+i+j+k)(1-i+j-k)$
+
+$= 2-2i+2j+2k$
+
+$= p-q+r+s$
+
+$ps = (1+i+j+k)(1-i-j+k)$
+
+$= 2+2i-2j+2k$
+
+$= p+q-r+s$
+
+$\begin{array}{rl}
+pq = p+q+r-s = 2+2i+2j-2k \\
+ps = p+q-r+s = 2+2i-2j+2k \\
+qr = p-q+r+s = 2-2i+2j+2k \\
+qs = -p+q+r+s = 2-2i-2j-2k
+\end{array}$
+
+$\begin{aligned}
+p^2 &= p-q-r-s \\
+p^3 &= p^2-pq-pr-ps \\
+&= p-q-r-s \\
+&\quad -p-q-r+s \\
+&\quad -p+q-r-s \\
+&\quad -p-q+r-s \\
+&\quad -p+q+r-s \\
+&= -2p-2q-2r-2s \\
+&= -8
+\end{aligned}$
+
+$\begin{array}{rl}
+p+q+r-s = -s^2 & pq\ qr \\
+p+q-r+s = -r^2 & qp\ ps \\
+p-q+r+s = -q^2 & \\
+-p+q+r+s = -p^2 &
+\end{array}$
+
+[fig]triangle[/fig]
+
+$qp = $
+
+$q^2 = (1+i)^2 + (j+k)^2 - 2(j+k) - i(j+k) - (j+k)i$
+
+$-2+2i-2j-2k$

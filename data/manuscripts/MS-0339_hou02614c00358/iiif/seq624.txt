@@ -1,0 +1,25 @@
+1908 Nov 2
+Suppose Two elastic oscillations
+A force of restitution upon each oscillating
+body, equal to D²ₜs₁ = - g₁s₁ D²ₜs₂ = - g₂s₂
+A force of one upon the other [ins]D²ₜs₁ = a(s₂ - s₁)[/ins]
+[del]D²ₜ(s₁ - s₂) = a(s₂ - s₁)[/del] [ins]D²ₜs₂ = a(s₁ - s₂)[/ins]
+So that D²ₜs₁ = - (a + g₁) s₁ + as₂
+D²ₜs₂ = as₁ - (a + g₂) s₂
+Then suppose [del]p q[/del] [ins]and y[/ins] to be such that
+[del]D²ₜ[xs₁ + (1-x)s₂] = - y [xs₁ + (1-x)s₂][/del]
+[del]= -x (a + g₁) s₁ + xas₂[/del]
+[del]+ (1-x) as₁ - (1-x) (a + g₂) s₂[/del]
+p/p+q + q/p+q [del]= [a - (2a + g₁) x] s₁ = [a - (2a + g₂) x] s₂[/del]
+[del]-yx = a[/del]
+D²ₜ [ps₁ + qs₂] = - y [ps₁ + qs₂]
+= - p (a + g₁) s₁ + pas₂
++ qas₁ - q (a + g₂) s₂
+= [del][(q-p)a + pg₁][/del] [ins]- [(p-q)a + pg₁][/ins] s₁ + [(p-q)a - qg₂] s₂
+= - yps₁ - yqs₂
+yp = pg₁ + (p-q) a
+yq = qg₂ - (p-q) a
+y(p + q) = [del]pg₁ +[/del] pg₁ + qg₂
+y = p/p+q g₁ + q/p+q g₂
+y(p - q) = pg₁ - qg₂ + 2(p-q) a
+y = p/p-q g₁ - q/p-q g₂ + 2a

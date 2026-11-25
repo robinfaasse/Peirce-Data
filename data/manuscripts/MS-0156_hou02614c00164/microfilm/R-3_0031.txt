@@ -1,0 +1,32 @@
+[marginalia]
+When that is done
+The faces become
+[ins] $f_2 + f_3 + f_4 + f_5$ [/ins]
+The summits $S_3 + S_4$
+The edges
+[del] $\frac{1}{2} (S_3 + S_4)$ [/del]
+$\frac{1}{2} (3 S_3 + 4 S_4)$
+$= \frac{1}{2} (2 f_2 + 3 f_3 + 4 f_4 + \text{etc})$
+[del] Sum of faces [/del]
+[fig] Diagram of vertices and edges [/fig]
+[fig] Diagram of vertices and edges [/fig]
+[fig] Diagram of vertices and edges [/fig]
+[fig] Diagram of vertices and edges [/fig]
+[fig] Table of numbers [/fig]
+[/marginalia]
+
+$\therefore$ Faces + Summits
+[del] $-$ Edges [/del]
+$f_2 + f_3 + f_4 + f_5 + f_6 + f_7 + \text{etc}$
+$+ S_3 + S_4$
+$- \frac{3}{2} S_3 - S_4$
+$- \frac{1}{2} f_2 - \frac{3}{4} f_3 - f_4 - \frac{5}{4} f_5 - \frac{6}{4} f_6$
+
+$\frac{1}{2} f_2 + \frac{1}{4} f_3 - \frac{1}{4} f_5 - \frac{2}{4} f_6 - \text{etc}$
+$+ \frac{1}{4} S_3$
+
+$f_2 + f_3 + f_4 + f_5 + f_6 + f_7 + \text{etc}$
+$+ S_3 + S_4$
+$- \frac{1}{2} (3 S_3 + 4 S_4)$
+$- \frac{1}{2} (2 f_2 + 3 f_3 + 4 f_4 + \text{etc})$
+$= \frac{4}{6} f_2 + \frac{3}{6} f_3 + \frac{2}{6} f_4 + \frac{1}{6} f_5 - \frac{1}{6} f_7 - \frac{2}{6} S_3$

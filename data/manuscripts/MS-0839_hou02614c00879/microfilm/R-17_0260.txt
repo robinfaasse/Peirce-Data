@@ -1,0 +1,17 @@
+What algebra represents all the [del]diagonal[/del] [del]products of a determinant, considered as so[/del] [del]many[/del] matrices formed each of them of all the constituents of a diagonal product of a determinant?
+
+[pn]1[u]st[/u][/pn] Consider the matrix
+
+$$\begin{matrix} A & B \\ B & A \end{matrix}$$
+
+Let $\alpha$ $\beta$ be such matrices that the one just written is
+$$A \alpha + B \beta.$$
+
+Then evidently if we write
+$$h = \frac{1}{2} (\alpha + \beta)$$
+$$i = \frac{1}{2} (\alpha - \beta)$$
+$h$ and $i$ have the following multiplication table
+
+[fig]Multiplication table for h and i[/fig]
+
+The algebra is therefore the compound of two ordinary single algebras.

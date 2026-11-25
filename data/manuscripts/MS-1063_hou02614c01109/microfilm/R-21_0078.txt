@@ -1,0 +1,36 @@
+```
+[del]a r = q[/del]  [del]a b p = a r[/del]  [del]b q = b p[/del]
+[del]p = [ins]1[/ins]/b r[/del]  [del]q = p[/del]
+
+General conclusion
+Cannot have a² = 1/b²
+
+i = A:A + B:B + C:C
+j = A:B + [del]v[/del][ins]j[/ins] B:C - [del]c[/del][ins]j[/ins]:A
+k = [del]j[/del][ins]k[/ins] A:C - j B:A - C:B
+j² = k  j³ = -j  k² = -1
+
+i = A:A + B:B + C:C
+j = A:B + [del]1[/del][ins]j[/ins] B:C + 1/j C:A
+k = 1/j A:C + B:A + 1/j² C:B
+j² = k  j³ = 1  k³ = 1
+
+---
+
+i = A:A + B:B + C:C
+j = A:B + a B:C + b C:A
+k = a A:C + a b B:A + b C:B
+
+j = (p A + q B + r C)
+= q A + a r B + p b C
+p = q  q = a r  r = b p
+
+p = a r
+Cannot have a = 1/b
+
+k (p A + q B + r C)
+= a r A + a b p B + b q C
+p = a r  q = a b p  r = b q
+q = a² b r
+= 1/b r  Cannot have a² = 1/b²
+```

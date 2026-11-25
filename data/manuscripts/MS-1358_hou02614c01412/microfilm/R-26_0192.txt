@@ -1,0 +1,22 @@
+[marginalia]Morison's Porridge 1899 Feb 24[/marginalia] [pn]5[/pn]
+[u]Variation of Energy due to [del]S[/del]d[/u]d
+[del]0 =[/del] [ins]W[/ins](J-I)
+[del]+[/del] [ins]1/2[/ins] E (R-N)
++ [del]W[/del]/[del]N[/del] [u]√1+N²/R²[/u] + 2p log (√1+N²/R² + N) { etc }
+
+[fig]bracket[/fig]
+
+[del]1+2x²[/del]/[del]1+x²[/del] [del]4x(1+x²)-2x(1+2x²)[/del]/[del](1+x²)²[/del]
+[del]4x+4x³[/del]/[del]-2x-4x³[/del]
+[del]1[/del]/[del]1+e"²[/del] [del]2x[/del]/[del]R-N[/del] [del]2e"[/del]/[del](1+e"²)[/del] [del]1[/del]/[del]R-N+X[/del]
+[del]√1 + 2x/R-N 1+2e"²/1+e"² + X²/(R-N)²[/del]
+
+= [del]1[/del]/[del]√1+e"²[/del] [del]e"[/del]/[del](R+X-N)[/del] √1 + [del]2x[/del]/[del]R-N[/del] [del]1+2e"²[/del]/[del]1+e"²[/del] + [del]X²[/del]/[del](R-N)²[/del]
+
+- [del]1[/del]/[del]√1+e²[/del] [del]2x[/del]/[del]R-N[/del] [del]2e[/del]/[del](1+e²)²[/del] [del]1[/del]/[del]R+X-N[/del]
+/ √1 + [del]2x[/del]/[del]R-N[/del] [del]1+2e²[/del]/[del]1+e²[/del] + [del]X²[/del]/[del](R-N)²[/del]
+
+- [del]2[/del]e/ [del]√1+e²[/del] [del]1[/del]/[del]R-N+X[/del] √1 + [del]2x[/del]/[del]R-N[/del] [del]1+2e²[/del]/[del]1+e²[/del] + [del]X²[/del]/[del](R-N)²[/del] }
+
++2W
++ 1/2 Ω { 4a' + 2(c-c')I² - 2(c'-c")J² + 4(c-c')IN + 4(c'-c")JN + 2cN² + 2c'N² }

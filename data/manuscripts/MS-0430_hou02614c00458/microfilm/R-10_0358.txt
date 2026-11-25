@@ -1,0 +1,33 @@
+[pn]Logic
+III
+56[/pn]
+
+[fig]cross symbol[/fig]
+
+This sign [u]$\prec$[/u] with no other except symbols representing
+"propositions" forms a valuable algebra, which I call the
+Algebra of the Copula of Inclusion. The two main principles
+of this algebra are as follows:
+
+(64) If under any [ins]given[/ins] hypothesis, [del]any[/del] [ins]any given[/ins] proposition [u]$p$[/u] is never true, while
+a given proposition [u]$q$[/u] is false, we may [del]under that hypothesis[/del] assert [u]$p \prec q$[/u].
+
+(65) If under any given hypothesis [u]$p \prec q$[/u] is true, then if under the same
+hypothesis [u]$p$[/u] is true, [u]$q$[/u] is true under the same hypothesis.
+
+The following may [ins]by (64)[/ins] be asserted [del]for whatever[/del] [ins]whatever[/ins] [u]$x$[/u], [u]$y$[/u], [u]$z$[/u] may be
+
+(66) [u]$x \prec v$[/u]
+for [u]$v$[/u] is never false.
+
+(67) [u]$f \prec x$[/u]
+for [u]$f$[/u] is never true.
+
+(68) [u]$x \prec x$[/u]
+for if [u]$x$[/u] is true, it holds by (66), if [u]$x$[/u] is false by (68).
+
+[del]If[/del] [del]It should be noted that I write $x \prec y \prec z$ meaning $x \prec (y \prec z)$[/del]
+
+(69) If [u]$x \prec y \prec z$[/u] is true, then [u]$y \prec x \prec z$[/u] is true
+For by (65) if [u]$x \prec y \prec z$[/u] is true, then if [u]$x$[/u] is true, it follows that if [u]$y$[/u] is
+true [u]$z$[/u] is true; that is, if but [u]$x$[/u] and [u]$y$[/u] are true [u]$z$[/u] is true; that is if [u]$y$[/u] is

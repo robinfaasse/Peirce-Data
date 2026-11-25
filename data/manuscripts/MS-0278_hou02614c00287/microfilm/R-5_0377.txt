@@ -1,0 +1,36 @@
+[pn]22[/pn]
+
+Since this process is by no means exempt from error
+(for there is nowhere in computation so much danger of
+going wrong as in reversals of what is before one's eyes) I
+give an easier rule for simple subtraction, as follows:
+
+Write the subtrahend columnarly under the minuend,
+with a horizontal line below them.
+Beginning at the extreme right, draw a line beginning
+
+[fig]binary subtraction examples[/fig]
+[del]1000[/del]
+[del]1001[/del]
+
+[del]110110[/del]
+[del]101111[/del]
+
+[del]1011001100[/del]
+[del]1010010011[/del]
+
+[del]110010010100[/del] [del]110[/del]
+[del]000000000000[/del] [del]110[/del]
+[del]100101[/del] [del]110000111[/del]
+[del]100100[/del]
+
+Preferably through 0 in subtrahend
+Where there is [ins]none[/ins] [del]one[/del] shall loop minuend and then stop.
+But if there is no 0 in subtrahend [del]or in[/del]
+
+[fig]algebraic formulas[/fig]
+[del]a - b = \sqrt{a^2 + b^2}[/del]
+[del]\sqrt{a^2 - 4A} = (a + b)^2[/del]
+[del]\sqrt{a^2 - 4A} = (a - b)^2[/del]
+[del]\sqrt{(a+b)^2 + A} \pm \sqrt{(a-b)^2 - A}[/del]
+[del]\frac{a}{2} \pm \sqrt{\frac{a^2}{4} - A}[/del]

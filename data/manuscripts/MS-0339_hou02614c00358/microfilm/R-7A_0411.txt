@@ -1,0 +1,12 @@
+[del]a ≺ (b ≺ c)[/del]
+[del][(a ≺ b) ≺ c] ≺ a ≺ (b ≺ c)[/del]
+[del][(b ≺ c) ≺ a] ≺ (a ≺ b) ≺ c[/del]
+[del]a ≺ (a ≺ b) ≺ (b ≺ c) ≺ c[/del]
+
+The proof is this:
+
+By syllogism [del](a ≺ b) ≺ (b ≺ c) ≺ a ≺ c[/del]
+[del]Transposing[/del] [del]a ≺ (b ≺ c) ≺ (a ≺ b) ≺ c[/del]
+By contraposition a ≺ [[(a ≺ b) ≺ c] ≺ (b ≺ c)]
+Transposing [[(a ≺ b) ≺ c] ≺ a ≺ (b ≺ c)] i.e. [del](a + b) c ≺ [a + b c][/del]
+By contraposition [a ≺ (b ≺ c)] ≺ [(a ≺ b) ≺ c] i.e. a ≺ (b ≺ c) ≺ [a ≺ b ≺ c]

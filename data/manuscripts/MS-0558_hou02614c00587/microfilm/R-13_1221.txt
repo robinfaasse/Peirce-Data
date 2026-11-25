@@ -1,0 +1,24 @@
+In like manner
+[pn]25[/pn]
+$$\sum_{i} \sum_{i'} u_{ii'} = u_{11} + u_{12} + u_{13}$$
+$$+ u_{21} + u_{22} + u_{23}$$
+$$+ u_{31} + u_{32} + u_{33}$$
+
+[del]tt[/del]
+
+Write
+$$(u \infty)_{ik} = \sum_{j} (u_{ij} \infty_{jk})$$
+where
+$$\Pi_{j} \Pi_{k} \infty_{jk}$$
+
+Then
+$$\sum_{i} \sum_{i'} u_{ii'} = \sum_{i} (u \infty)_{ii}$$
+
+We have next to consider
+$$\sum_{i} \Pi_{i'} u_{ii'} = u_{11} u_{12} u_{13}$$
+$$+ u_{21} u_{22} u_{23}$$
+$$+ u_{31} u_{32} u_{33}$$
+$$= \sum_{i} (u \mathcal{s} 0)_{ii}$$
+
+So
+$$\Pi_{i} \sum_{i'} u_{ii'} = \Pi_{i} (u \infty)_{ii}$$

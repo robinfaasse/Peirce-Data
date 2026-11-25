@@ -1,0 +1,28 @@
+$$A_1 \sec(\theta - \theta_1) = r$$
+
+[fig]figure[/fig]
+
+$$A_1 = R \cos [del]\frac{\theta_1 - \theta_2}{2}[/del]$$
+
+$$R \cos \frac{\theta_1 - \theta_2}{2} \sec (\theta - \frac{\theta_1 + \theta_2}{2}) = r$$
+
+$$= R \cos \frac{\theta_3 - \theta_4}{2} \sec (\theta - \frac{\theta_3 + \theta_4}{2})$$
+
+$$\cos \frac{\theta_1 - \theta_2}{2} \cos \frac{\theta_3 + \theta_4}{2} \cos \theta + \cos \frac{\theta_1 - \theta_2}{2} \sin \frac{\theta_3 + \theta_4}{2} \sin \theta$$
+
+$$= \cos \frac{\theta_3 - \theta_4}{2} \cos \frac{\theta_1 + \theta_2}{2} \cos \theta + \cos \frac{\theta_3 - \theta_4}{2} \sin \frac{\theta_1 + \theta_2}{2} \sin \theta$$
+
+$$\tan \theta = \frac{\cos \frac{\theta_3 - \theta_4}{2} \cos \frac{\theta_1 + \theta_2}{2} - \cos \frac{\theta_1 - \theta_2}{2} \cos \frac{\theta_3 + \theta_4}{2}}{\sin \frac{\theta_3 + \theta_4}{2} \cos \frac{\theta_1 - \theta_2}{2} - \cos \frac{\theta_3 - \theta_4}{2} \sin \frac{\theta_1 + \theta_2}{2}}$$
+
+$$= \frac{\cos_1 \cos_2 \cos_3 \cos_4 - \cos_1 \cos_2 \sin_3 \sin_4}{[del]- \cos_1 \cos_2 \cos_3 \cos_4 - \cos_1 \cos_2 \sin_3 \sin_4[/del]}$$
+$$[del]+ \sin_1 \sin_2[/del]$$
+
+$$\frac{+ \sin_1 \sin_2 \cos_3 \cos_4 - \sin_1 \sin_2 \sin_3 \sin_4}{+ \sin_1 \sin_2 \cos_3 \cos_4 + \sin_1 \sin_2 \sin_3 \sin_4}$$
+
+$$\frac{\sin_1 \cos_2 \cos_3 \cos_4 + \sin_1 \cos_2 \sin_3 \sin_4}{}$$
+
+$$+ \cos_1 \sin_2 \cos_3 \cos_4 + \cos_1 \sin_2 \sin_3 \sin_4$$
+
+$$- \cos_1 \cos_2 \sin_3 \cos_4 - \cos_1 \cos_2 \cos_3 \sin_4$$
+
+$$- \sin_1 \sin_2 \sin_3 \cos_4 - \sin_1 \sin_2 \cos_3 \sin_4$$

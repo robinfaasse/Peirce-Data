@@ -1,0 +1,22 @@
+Graphs
+60
+
+B and F are first to decide what they will do, and C makes
+his decision before A, D, or E.
+Find [u]($\alpha$)[/u] when C must go out,
+[u]($\beta$)[/u] when he must stay in,
+[u]($\gamma$)[/u] when he can do as he pleases.
+We begin by restating the rules, so as, to exhibit their
+effect on C's conduct.
+[ured]I. [ins]Applies to Mondays and Tuesdays only.[/ins][/ured]
+1. If B and F choose to go out, and either A, D, or E is
+forced to go out, C must stay in;
+2. If either B or F chooses to go out, and any of the pairs,
+AD, AE, DE are forced to go out, C must stay in;
+3. If A, D, and E are forced to go out, C must stay in.
+[ured]II. Applies to Thursdays, Fridays, and Saturdays only[/ured]
+1. If B and F choose to stay in, C must go out.
+2. If either B or F chooses to stay in, and either A, D, or E is
+forced to stay in, C must go out.
+3. If either of the pairs AD, AE, DE is forced to stay in,
+C must go out.

@@ -1,0 +1,24 @@
+839
+Examples.
+
+(1). Prove that from $\overline{\text{X}|\text{Y}}$ By definition, if $\overline{\text{X}|\text{Y}}$ then $\text{X}|\overline{\text{Y}|0}$.
+follows $\overline{\text{Y}|\text{X}}$. Then, easily, $\overline{\text{Y}|\text{X}|0}$ and by def. $\overline{\text{Y}|\text{X}}$.
+
+(2) Prove that from $\overline{\overline{\text{X}}|\text{Y}}$ follows By def. from $\overline{\overline{\text{X}}|\text{Y}}$, follows $\overline{\overline{\text{X}}|0|\text{Y}}$. Now from
+$\overline{\text{Y}|\text{X}}$. $\overline{\text{P}|\text{Q}}$ follows $\overline{\text{Q}|\text{R}|\overline{\text{P}|\text{R}}}$ (proved thus: by lib 1 $\overline{\text{R}|\text{R}}$
+and by lib 2 $\overline{\text{Q}|\text{R}|\overline{\text{P}|\text{R}}|\text{R}}$ but by lib 3 if $\overline{\text{P}|\text{Q}}$ from
+$\text{P}$ and $\overline{\text{Q}|\text{R}}$ follows $\text{R}$. Hence by lib 3 if $\overline{\text{P}|\text{Q}}$ then
+$\overline{\text{Q}|\text{R}|\overline{\text{P}|\text{R}}}$) Hence putting $\text{P} = \overline{\text{X}|0}$ $\text{Q} = \text{Y}$ $\text{R} = 0$
+$\overline{\text{Y}|0|\overline{\overline{\text{X}|0}|0}}$. But $\overline{0|\text{X}}$. Hence from $\overline{\overline{\text{X}}|0|\text{Y}}$
+follows $\overline{\text{Y}|0|\text{X}}$ and by liberty IV follows $\overline{\text{X}}$. Hence,
+easily, $\overline{\text{Y}|0|\text{X}}$.
+
+X Y
+
+$\overline{\text{X}|\text{Y}} | \text{X} | \text{Y}$
+
+$\overline{\text{X}|\text{X}|\text{Y}} | \text{Y}$
+
+$\overline{\text{X}|\text{Y}} | \text{X} | \text{Y}$
+
+$\overline{\text{X}|\text{Y}}$

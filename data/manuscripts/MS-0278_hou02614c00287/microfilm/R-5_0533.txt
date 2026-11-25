@@ -1,0 +1,38 @@
+[pn]19[/pn]
+
+As soon as he looked upon the matter from this point of view he
+would see that three straight lines in a plane cut the whole plane
+into four triangles. And of those four triangles there is necessarily
+[fig]Diagram of three intersecting lines forming four triangles[/fig] one which is such that the sum of any two of its angles
+is less than two right angles. For the [del]three[/del] [ins]any two[/ins] of the three
+lines make two acute angles, which we may [del]write[/del] [ins]denote by[/ins] $a, b, c$,
+and three obtuse angles, which we may denote by $A, B, C$. Then, there are two
+cases. Either the four triangles have for their angles
+[del]Triangles
+make
+second
+case[/del]
+$\begin{array}{ccccc}
+a & b & c & \text{where } a+b < 180^{\circ} \quad b+c < 180^{\circ} \quad c+a < 180^{\circ} & \text{3 pairs less} \\
+a & B & C & a+B > 180^{\circ} \quad B+C > 180^{\circ} \quad C+a > 180^{\circ} & \text{0 pair less} \\
+A & b & C & A+b < 180^{\circ} \quad b+C > 180^{\circ} \quad C+A > 180^{\circ} & \text{1 pair less} \\
+A & B & c & A+B > 180^{\circ} \quad B+c < 180^{\circ} \quad c+A < 180^{\circ} & \text{2 pairs less}
+\end{array}$
+
+Or the four triangles have for their angles
+$\begin{array}{ccccc}
+[del]A[/del] & [del]b[/del] & [del]c[/del] & [del]A+b < 180^{\circ} \quad b+c < 180^{\circ} \quad c+A < 180^{\circ}[/del] & [del]\text{3 pairs less}[/del] \\
+A & B & C & A+B > 180^{\circ} \quad B+C > 180^{\circ} \quad C+A > 180^{\circ} & \text{0 pair less} \\
+a & b & C & a+b < 180^{\circ} \quad b+C > 180^{\circ} \quad C+a > 180^{\circ} & \text{1 pair less} \\
+a & B & c & a+B > 180^{\circ} \quad B+c < 180^{\circ} \quad c+a < 180^{\circ} & \text{2 pairs less} \\
+A & b & c & A+b < 180^{\circ} \quad b+c < 180^{\circ} \quad c+A < 180^{\circ} & \text{3 pairs less}
+\end{array}$
+
+Thus in every case [del]one of[/del] [ins]of one of[/ins] the four triangles into which three lines cut the plane the
+theorem is either true or at the limit of truth. But Euclid would also have perceived
+that the triangle of which his proposition is true, although it is necessarily the smallest
+of the four and has the sum of any [ins]pair of[/ins] two sides less than the entire circuit of a right line.
+
+I may observe that according to the Euclidean system of measurement, there is a plane at infinity. When
+we look at what we call the sky, the blue surface we seem to see may be said to be that plane. Not the whole
+sphere, but the whole vault above the horizon is the whole plane. Opposite points of the horizon are the same

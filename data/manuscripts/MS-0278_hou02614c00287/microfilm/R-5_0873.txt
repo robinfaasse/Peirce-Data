@@ -1,0 +1,23 @@
+[fig]Coordinate axes with a circle[/fig]
+
+$$\left(\frac{r}{Z(1+E)}\right)^2 = \frac{2Zz - z^2}{Z^2}$$
+
+$$\frac{r^2}{R^2} = \frac{2Zz - z^2}{Z^2} \qquad \frac{r}{Z(1+E)} = \frac{\sqrt{2Zz - z^2}}{Z}$$
+
+[del]$$\frac{2r dr}{R^2} = \frac{2Z - 2z}{Z^2} dz$$[/del] \qquad \frac{r}{1+E} = \sqrt{2Zz - z^2}
+
+$$\frac{r}{R} = \frac{\sqrt{2Zz - z^2}}{Z} \qquad dr = (1+E) \frac{Z - z}{\sqrt{2Zz - z^2}} dz$$
+
+$$dr = \frac{R}{Z} \cdot \frac{Z - z}{\sqrt{2Zz - z^2}} dz \qquad (dr)^2 = (1+E)^2 \left(\frac{Z^2 - 2Zz + z^2}{2Zz - z^2}\right) (dz)^2$$
+
+$$(dr)^2 = \left(\frac{R}{Z}\right)^2 \left(\frac{Z^2 - 2Zz + z^2}{2Zz - z^2}\right) (dz)^2 \qquad [del]\left[\begin{aligned} dr^2 & = (1+E)^2 \left(\frac{Z^2}{2Zz - z^2} - 1\right) (dz)^2 \\ dr^2 + (dx)^2 & = (1+E)^2 \frac{Z^2}{2Zz - z^2} (dz)^2 \end{aligned}\right][/del]$$
+
+$$= \left(\frac{R^2}{2Zz - z^2} - \frac{R^2}{Z^2}\right) (dz)^2$$
+
+$$(dr)^2 + (dz)^2 = \left(\frac{R^2}{2Zz - z^2} + 1 - \frac{R^2}{Z^2}\right) (dz)^2$$
+
+[del]$$= \left(\frac{R^2}{2Zz - z^2} - \frac{R^2}{Z^2}\right) (dz)^2$$[/del]
+
+$$= \left(1 + \frac{R^2}{Z^2} \frac{Z^2 - 2Zz + z^2}{2Zz - z^2}\right) (dz)^2$$
+
+$$\sqrt{(dr)^2 + (dz)^2} = 1 + \frac{1}{2} R$$

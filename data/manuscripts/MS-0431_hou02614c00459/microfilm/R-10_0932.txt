@@ -1,0 +1,24 @@
+[pn]LOGIC
+III
+74[/pn]
+
+In (13), by substituting $\overline{\text{S}}$ for $\text{S}$, we get
+If from $\overline{\text{S}}$ would follow $\text{P}$, then necessarily from $\overline{\text{P}}$ would follow $\overline{\overline{\text{S}}}$;
+whence, by (10),
+(15) If from $\overline{\text{S}}$ would follow $\text{P}$, then necessarily from $\overline{\text{P}}$ would follow $\text{S}$.
+In (14), by substituting $\overline{\text{S}}$ for $\text{S}$ we have, as above,
+(16) If from $\overline{\text{S}}$ would follow $\overline{\text{P}}$, then necessarily from $\text{P}$ would follow $\text{S}$.
+
+It may be remarked that (14) and (15) [ins]are[/ins] [del]really[/del] consequences
+of different properties of denial, [del]as we shall see hereafter,[/del] although our present definition is not
+sufficiently minute to distinguish them.
+
+[del]Remembering[/del] Not forgetting that "if, then —" and "from —
+follows —" are here taken simply in the sense that the consequent is
+at least as true as the antecedent, we may define $\underline{\text{V}}$ in two clauses
+as follows:
+(17) If $\underline{\text{x}}$, then necessarily $\underline{\text{V}}$;
+(18) If $\underline{\text{y}}$ be such that, whatever $\underline{\text{x}}$ may be, from $\underline{\text{x}}$ would follow $\underline{\text{y}}$,
+then [del]this[/del] [ins]from[/ins] $\underline{\text{V}}$ would follow $\underline{\text{y}}$.
+
+We may define $\underline{\text{F}}$ as follows:

@@ -1,0 +1,34 @@
+[pn]47.[/pn]
+
+[u]v[/u] [u]O[/u] [u]v[/u] = [u]v[/u] and [u]f[/u] [u]O[/u] [u]f[/u] = [u]f[/u], the sign is associative. I will now show that even if [u]v[/u] [u]O[/u] [u]v[/u] = [u]f[/u] [u]O[/u] [u]f[/u] = [u]v[/u] but [u]f[/u] [u]O[/u] [u]v[/u] = [u]v[/u] [u]O[/u] [u]f[/u], the sign is still associative.
+
+[u]v[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]v[/u]) = ([u]v[/u] [u]O[/u] [u]v[/u]) [u]O[/u] [u]v[/u],
+
+as above.
+
+[u]f[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]f[/u]) = [u]f[/u] [u]O[/u] [u]v[/u], ([u]f[/u] [u]O[/u] [u]f[/u]) [u]O[/u] [u]f[/u] = [u]v[/u] [u]O[/u] [u]f[/u] = [u]f[/u] [u]O[/u] [u]v[/u].
+
+If [u]f[/u] [u]O[/u] [u]v[/u] = [u]v[/u] [u]O[/u] [u]f[/u] = [u]v[/u],
+
+[u]v[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]f[/u]) = [u]v[/u] [u]O[/u] [u]v[/u] = [u]v[/u], ([u]v[/u] [u]O[/u] [u]v[/u]) [u]O[/u] [u]f[/u] = [u]v[/u] [u]O[/u] [u]f[/u] = [u]v[/u];
+[u]v[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]f[/u]) = [u]v[/u] [u]O[/u] [u]v[/u] = [u]v[/u], ([u]v[/u] [u]O[/u] [u]f[/u]) [u]O[/u] [u]f[/u] = [u]v[/u] [u]O[/u] [u]f[/u] = [u]v[/u];
+[u]f[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]v[/u]) = [u]f[/u] [u]O[/u] [u]v[/u] = [u]v[/u], ([u]f[/u] [u]O[/u] [u]f[/u]) [u]O[/u] [u]v[/u] = [u]v[/u] [u]O[/u] [u]v[/u] = [u]v[/u];
+[u]f[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]v[/u]) = [u]f[/u] [u]O[/u] [u]v[/u] = [u]v[/u], ([u]f[/u] [u]O[/u] [u]v[/u]) [u]O[/u] [u]v[/u] = [u]v[/u] [u]O[/u] [u]v[/u] = [u]v[/u];
+
+If [u]f[/u] [u]O[/u] [u]v[/u] = [u]v[/u] [u]O[/u] [u]f[/u] = [u]f[/u],
+
+[u]v[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]f[/u]) = [u]v[/u] [u]O[/u] [u]f[/u] = [u]f[/u], ([u]v[/u] [u]O[/u] [u]v[/u]) [u]O[/u] [u]f[/u] = [u]v[/u] [u]O[/u] [u]f[/u] = [u]f[/u];
+[u]v[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]f[/u]) = [u]v[/u] [u]O[/u] [u]v[/u] = [u]v[/u], ([u]v[/u] [u]O[/u] [u]f[/u]) [u]O[/u] [u]f[/u] = [u]f[/u] [u]O[/u] [u]f[/u] = [u]v[/u];
+[u]f[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]v[/u]) = [u]f[/u] [u]O[/u] [u]f[/u] = [u]v[/u], ([u]f[/u] [u]O[/u] [u]f[/u]) [u]O[/u] [u]v[/u] = [u]v[/u] [u]O[/u] [u]v[/u] = [u]v[/u];
+[u]f[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]v[/u]) = [u]f[/u] [u]O[/u] [u]v[/u] = [u]f[/u], ([u]f[/u] [u]O[/u] [u]v[/u]) [u]O[/u] [u]v[/u] = [u]f[/u] [u]O[/u] [u]v[/u] = [u]f[/u];
+
+That [u]v[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]v[/u]) = ([u]v[/u] [u]O[/u] [u]f[/u]) [u]O[/u] [u]v[/u], and ([u]f[/u] [u]O[/u] [u]v[/u]) [u]O[/u] [u]f[/u] = [u]f[/u] [u]O[/u] ([u]v[/u] [u]O[/u] [u]f[/u]) is obvious, because the sign is commutative. It is now proved that this sign is associative if the conditions are fulfilled. I will now prove that it is not associative, first if [u]v[/u] [u]O[/u] [u]v[/u] = [u]f[/u] and [u]f[/u] [u]O[/u] [u]f[/u] = [u]v[/u], secondly, if for example, [u]f[/u] [u]O[/u] [u]f[/u] = [u]v[/u] and [u]v[/u] [u]O[/u] [u]f[/u] is not equal to [u]f[/u] [u]O[/u] [u]v[/u]. Namely in the first case,
+
+[u]v[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]f[/u]) = [u]v[/u] [u]O[/u] [u]v[/u] = [u]f[/u] while either [u]v[/u] [u]O[/u] [u]f[/u] = [u]v[/u] and
+([u]v[/u] [u]O[/u] [u]f[/u]) [u]O[/u] [u]f[/u] = [u]v[/u] [u]O[/u] [u]f[/u] = [u]v[/u] or [u]v[/u] [u]O[/u] [u]f[/u] = [u]f[/u], and
+([u]v[/u] [u]O[/u] [u]f[/u]) [u]O[/u] [u]f[/u] = [u]f[/u] [u]O[/u] [u]f[/u] = [u]v[/u].
+
+In the second case
+
+[u]f[/u] [u]O[/u] ([u]f[/u] [u]O[/u] [u]f[/u]) = [u]f[/u] [u]O[/u] [u]v[/u],
+([u]f[/u] [u]O[/u] [u]f[/u]) [u]O[/u] [u]f[/u] = [u]v[/u] [u]O[/u] [u]f[/u].

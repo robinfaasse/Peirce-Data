@@ -1,0 +1,28 @@
+[marginalia]
+[pn]1909 June 1 11:45 AM[/pn]
+MEANING
+Propositions
+[pn]61[/pn]
+[/marginalia]
+
+[marginalia]
+and goes by the rather unfortunate name of the disjunction
+[/marginalia]
+
+which asserts that "Either [u]x[/u]₁ or [u]x[/u]₂ or [u]x[/u]₃ etc. up to [u]x[/u]ₙ is true" This
+
+equation
+
+[u]v[/u] - [u]A[/u]ᵢⁿ [u]x[/u]ᵢ / [u]v[/u] - [u]f[/u] = [u]𝚷[/u]₁ⁿ [u]v[/u] - [u]x[/u]ᵢ / [u]v[/u] - [u]f[/u] = [u]v[/u] - [u]x[/u]₁ / [u]v[/u] - [u]f[/u] · [u]v[/u] - [u]x[/u]₂ / [u]v[/u] - [u]f[/u] · [u]v[/u] - [u]x[/u]₃ / [u]v[/u] - [u]f[/u] ···· [u]v[/u] - [u]x[/u]ₙ / [u]v[/u] - [u]f[/u]
+
+asserts that the falsity of the aggregate can only consist in the falsity
+
+of all its members. Accordingly we see that [u]v[/u] - [u]x[/u] / [u]v[/u] - [u]f[/u], whatever assertion
+
+[fig]black circle[/fig] [u]x[/u] may be, is the falsity of [u]x[/u]. But putting [u]v[/u] = 1 and [u]f[/u] = 0, as we
+
+have just found them to be, the expression for the falsity of [u]x[/u] reduces to
+
+1 - [u]x[/u]. Accordingly, the aggregate itself, that is to say, its truth,
+
+is [u]A[/u]ᵢⁿ [u]x[/u]ᵢ = 1 - (1 - [u]x[/u]₁)(1 - [u]x[/u]₂)(1 - [u]x[/u]₃) ···· (1 - [u]x[/u]ₙ) [del]= [u]𝚷[/u]₁ⁿ (1 - [u]x[/u]ᵢ)[/del] [ins]= 1 - [u]𝚷[/u]₁ⁿ (1 - [u]x[/u]ᵢ)[/ins]

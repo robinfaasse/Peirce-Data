@@ -1,0 +1,27 @@
+any two cardinal numbers $P$ and $Q$
+may be either [del]these[/del] $P=0$ and $Q=0$ or $\frac{M\times P}{M\times Q}$ is both as small and
+as great as $\frac{P}{Q}$. We proceed to show that $GN$ has the same character.
+
+If, then, $N=0$; by Theorem II every cardinal number, $M$, is either $0$ or
+is greater than $N$. And by Theorem III, the only cardinal number greater
+than zero and not greater than $GN$ is $G0$. Now $\frac{G0\times P}{G0\times Q} = \frac{P}{Q}$ [The sign
+$=$ here expresses merely the identity of numerator to numerator and de-
+numerator to denominator, so that there is no real distinction be-
+tween the expressions.] Hence, by the [del]first[/del] [ins]second[/ins] condition of Definition 9,
+[del]$\frac{M\times P}{M\times Q}$[/del] is in this case both as great and as small as $\frac{P}{Q}$ unless $P=0$ and $Q=0$,
+provided [del]that[/del] $M>0$ and $M$ is not greater than $GN$. That is, $GN$
+possesses the character in question.
+
+If $N$ is not zero, by Theorem II, $N>0$. Then, by Corollary 1 from The-
+orem III, every cardinal number $M$ is either not greater than $N$ or is
+$GN$ or is greater than $GN$. If $M$ is not greater than $N$, then by hypo-
+thesis, either $M=0$ or else whatever cardinal numbers $P$ and $Q$ may
+be, either $P=0$ and $Q=0$ or $\frac{M\times P}{M\times Q}$ is both as great and as small as $\frac{P}{Q}$.
+If $M=GN$, then $\frac{M\times P}{M\times Q} = \frac{GN\times P}{GN\times Q} = \frac{P+N\cdot P}{Q+N\cdot Q}$. But since $N>0$, by
+Corollary 4 from the Precepts, there is a number $N'$, such that $N=GN'$
+and $\frac{N\times P}{N\times Q} = \frac{GN'\times P}{GN'\times Q} = \frac{P+N'\cdot P}{Q+N'\cdot Q}$. That is, $\frac{N\cdot P}{N'\cdot Q} = \frac{N\cdot P-P}{N\cdot Q-Q}$. But by hy-
+pothesis, since by the $1^{\text{st}}$ condition of Definition 1, $N>N'$, and by Corol-
+lary 3 from the Precepts $N'$ is not $N$, so that by Theorem IV $N'$ is not greater
+than $N$, either $N'=0$ or whatever numbers $P$ and $Q$ may be either $P=0$ and
+$Q=0$ or $\frac{N'\times P}{N'\times Q}$ is both as great and as small as $\frac{P}{Q}$. Hence, by the $3^{\text{d}}$ condition
+of Definition 9, $\frac{N'\times P}{N'\times Q}$ is both as great and as small as $\frac{N\times P}{N\times Q}$.

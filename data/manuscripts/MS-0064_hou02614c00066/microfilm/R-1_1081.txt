@@ -1,0 +1,98 @@
+The proper notation is evidently $\begin{pmatrix} a & b \\ c & d \end{pmatrix}$ or latter $\begin{pmatrix} a & c \\ b & d \end{pmatrix}$ or for sake of printing [del]$\begin{pmatrix} a & b \\ c & d \end{pmatrix}$[/del]
+$\begin{pmatrix} a \\ c \end{pmatrix} \begin{pmatrix} b \\ d \end{pmatrix}$ [del]$\begin{pmatrix} a \\ c \end{pmatrix} \begin{pmatrix} b \\ d \end{pmatrix}$[/del] $\begin{pmatrix} a & b \\ c & d \end{pmatrix}$ $\begin{pmatrix} a & c \\ b & d \end{pmatrix}$
+
+has but one value except $\infty + (-\infty)$ and $(-\infty) + \infty$ which is indet.
+
+Addition $\begin{pmatrix} a & b \\ c & d \end{pmatrix} + \begin{pmatrix} e & f \\ g & h \end{pmatrix} = \begin{pmatrix} a+e & b+f \\ c+g & d+h \end{pmatrix}$ $0 + 0 = 0$
+$\infty + \infty = \infty$
+$? \text{ If } \begin{pmatrix} a & b \\ c & d \end{pmatrix} \text{ then } \begin{pmatrix} a+x & b+x \\ c+x & d+x \end{pmatrix} ? (-\infty) + (-\infty) = -\infty$
+
+[fig]Circle diagram with points[/fig] If $\begin{pmatrix} -\infty & \infty \\ a & b \end{pmatrix}$, then $\begin{pmatrix} -\infty & +\infty \\ a+x & b+x \end{pmatrix}$
+If $\begin{pmatrix} a & b \\ c & d \end{pmatrix}$ then $\begin{pmatrix} a+x & b+x \\ c+x & d+x \end{pmatrix}$ provided $\begin{pmatrix} \infty & \infty \\ a & b \end{pmatrix}$
+
+[fig]Circle diagram with points[/fig]
+
+[fig]Circle diagram with points[/fig]
+
+$0 + 1 = 1$
+sum of whole numbers is a whole number
+$(a+b)+c = a+(b+c)$ $0+0=0$
+$Ex + y = E(x+y)$
+$x + Ey = E(x+y)$
+
+[fig]Circle diagram with points[/fig]
+
+$\frac{1}{-2}$ $\frac{1}{-1}$ $\frac{0}{0}$ $\frac{1}{0}$ $\frac{1}{1}$ $\frac{1}{2}$
+$\frac{a+b}{c+d}$ $\frac{b}{d}$
+
+$\frac{a}{b}$ $\frac{a+c}{b+d}$ $\frac{c}{d}$
+$\frac{1}{-1}$ $\frac{2}{-1}$
+
+[fig]Circle diagram with points[/fig]
+
+[fig]Circle diagram with points[/fig] $\frac{a}{b}$ $\frac{c}{d}$
+
+$\frac{1}{-1}$ $\frac{1}{1}$ $\frac{1}{2}$ $\frac{1}{3}$ $\frac{1}{4}$ $\frac{1}{+\infty}$ $\frac{1}{-100}$ $\frac{1}{-1}$
+
+$x + (\infty) = -\infty$
+$x + (-\infty) = \infty$
+
+[fig]Double circle diagram[/fig]
+
+We have either $a, b \between c, d$ [fig]Circle diagram with points[/fig]
+or $a, c \between b, d$ [fig]Circle diagram with points[/fig]
+or $a, d \between b, c$ [fig]Circle diagram with points[/fig]
+
+or $\mathcal{T}_{abcd} + \mathcal{T}_{abdc} + \mathcal{T}_{abdb}$
+$\mathcal{T}_{abcd} = 0$
+
+$\mathcal{T}_{abcd} = \mathcal{T}_{abdc} = \mathcal{T}_{adcb} = \mathcal{T}_{adbc} = \mathcal{T}_{acdb} = \mathcal{T}_{acbd}$
+$= \mathcal{T}_{bdac} = \mathcal{T}_{bdca} = \mathcal{T}_{bead} = \mathcal{T}_{bcda} = \mathcal{T}_{bacd} = \mathcal{T}_{badc}$
+$= \mathcal{T}_{cdba} = \mathcal{T}_{cdab} = \mathcal{T}_{dabc} = \mathcal{T}_{dacb} = \mathcal{T}_{dbac} = \mathcal{T}_{dbca}$
+$= \mathcal{T}_{cadb} = \mathcal{T}_{cabd} = \mathcal{T}_{cbda} = \mathcal{T}_{cbad} = \mathcal{T}_{cdba} = \mathcal{T}_{cdab}$
+
+[fig]Circle diagram with points[/fig] [fig]Circle diagram with points[/fig] [fig]Circle diagram with points[/fig] [fig]Circle diagram with points[/fig]
+[fig]Circle diagram with points[/fig] [fig]Circle diagram with points[/fig] [fig]Circle diagram with points[/fig] [fig]Circle diagram with points[/fig]
+[fig]Circle diagram with points[/fig] [fig]Circle diagram with points[/fig] [fig]Circle diagram with points[/fig] [fig]Circle diagram with points[/fig]
+[fig]Circle diagram with points[/fig] [fig]Circle diagram with points[/fig] [fig]Circle diagram with points[/fig] [fig]Circle diagram with points[/fig]
+
+The value of $\mathcal{T}$ remains unchanged by interchange of $1^{\text{st}}$ and $3^{\text{rd}}$ or $2^{\text{nd}}$ and $4^{\text{th}}$ (or both)
+or when cyclical order is preserved or reversed
+or when the members of each of two pair of letters are interchanged
+i.e abcd changes to badc or to cdab or dcba
+or when [del]first and third (or second and fourth) either both or neither remain[/del]
+[ins]first and third (or second and fourth) in either order[/ins]
+
+There are three sets of equivalent arrangements
+
+[fig]Circle diagram with points[/fig]
+$\begin{matrix}
+abcd \\
+adcb \\
+bcda \\
+badc \\
+cdab \\
+cbad \\
+dabc \\
+dcba
+\end{matrix}$
+$\begin{matrix}
+abdc \\
+acdb \\
+bdca \\
+bacd \\
+dcab \\
+dbac \\
+cabd \\
+cdba
+\end{matrix}$
+$\begin{matrix}
+adbc \\
+acbd \\
+dbca \\
+dacb \\
+bcad \\
+bdac \\
+cadb \\
+cbda
+\end{matrix}$

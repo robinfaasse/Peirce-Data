@@ -1,0 +1,29 @@
+[pn]286[/pn]
+
+166. Upon a globular surface how many [ins]topologically[/ins] forms of regular polyhedra are there? That is, polyhedra of which all the faces have the same number of edges [ins]round them[/ins], and all the summits have the same number of edges radiating from them.
+
+Let $E$ be the number of edges, [del]$Y$[/del] [ins]$Z$[/ins] the number of edges to a face, $Y$ the number of edges to a summit.
+
+$2E = Z \times \text{Number of faces}$, or [del]faces[/del] [ins]Faces[/ins] $= \frac{2E}{Z}$
+
+$2E = Y \times \text{Number of summits}$, or Summits $= \frac{2E}{Y}$
+
+Hence
+$$2E \left( \frac{1}{Y} + \frac{1}{Z} \right) = E + 2$$
+
+[del]Multiplying by $YZ$,[/del]
+[del]$E [ (Y-2)(Z-2) - 4 ] = 2YZ$[/del]
+[del]$E [ 4 - (Y-2)(Z-2) ] = 2YZ$[/del]
+
+Dividing by $2E$
+$$\frac{1}{Y} + \frac{1}{Z} = \frac{1}{2} + \frac{1}{E}$$
+
+Two obvious solutions are $\left. \begin{aligned} Y=2,\ Z=E \\ Z=2,\ Y=E \end{aligned} \right\}$ [fig]Two diagrams of spheres with lines representing edges[/fig] Figures 183, 184
+
+[del]Subtracting $\frac{1}{E} + \frac{1}{Y}$ from the equation[/del]
+$$\frac{1}{Z} - \frac{1}{E} = \frac{1}{2} - \frac{1}{Y}$$
+
+First, suppose $Y$ to be odd. Then,
+$$\frac{1}{2} - \frac{1}{Y} = \frac{Y-2}{2Y}$$
+
+and $Y-2$ is not divisible by $2$, nor is $Y$ divisible by $Y-2$ [del]unless $Y-2 = 1$ i.e.[/del] This will make

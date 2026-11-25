@@ -1,0 +1,29 @@
+[pn]RR[/pn] [pn]31[/pn]
+
+greater than $N$, then $\frac{M \times P}{M \times Q}$ is both as great and as small as $\frac{P}{Q}$ what-
+ever cardinal numbers $P$ and $Q$ may be, provide they are not both zero.
+
+Then, either $N = 0$ or $N$ is not zero. If $N = 0$, $GN = G0$, and, by the
+first Corollary from Theorem IV, the only number greater than $0$ and not greater
+than $GN$ is $GN$. Now every number other than zero is, by Theorem II, greater than $0$.
+And $\frac{GN \times P}{GN \times Q} = \frac{G0 \times P}{G0 \times Q} = \frac{P}{Q}$. [The sign $=$ expresses the identity of [ins]not only as to what the fraction is as greater or as less[/ins] numerator
+with numerator and denominator with denominator.] Now by the $2^{\text{nd}}$ condition
+every fraction is as great and as small as itself. Hence, in this case, the
+character belongs to $GN$.
+
+If $N$ is not zero, by Theorem II, $N > 0$, and by the fourth general corollary,
+$N$ is $G$ to some cardinal number, which we may denote by $N'$. Either $N' = 0$ or
+$N'$ is not zero. If $N' = 0$, $N = GN' = G0$, and $\frac{N \times P}{N \times Q} = \frac{G0 \times P}{G0 \times Q} = \frac{P}{Q}$. Then $GN \times P =$
+$P + N \cdot P = P + G0 \cdot P = P + P$ and $GN \times Q = Q + Q$. Then by the $4^{\text{th}}$ condition, either
+$\frac{P}{Q}$ is both as great and as small as $\frac{P + P}{Q + Q} = \frac{GN \times P}{GN \times Q}$ or $\frac{P}{Q}$ is either as great or
+as small as $\frac{P - P}{Q - Q} = \frac{0}{0}$. But by the $1^{\text{st}}$ condition $\frac{P}{Q}$ is neither as great nor as
+small as $\frac{0}{0}$. Hence $\frac{P}{Q}$ is both as great and as small as $\frac{GN \times P}{GN \times Q}$. Now by
+Theorem III, the only cardinal numbers not greater than $GN$ are $GN$ itself
+and the numbers not greater than $N$. Hence, if every [ins]cardinal[/ins] number, $M$, greater
+than zero and not greater than $N$ is such that $\frac{M \times P}{M \times Q}$ is both as great and
+as small as $\frac{P}{Q}$, the same is true of every number greater than zero and not
+greater than $GN$. So that if $N' = 0$, [del]the[/del] [ins]the character in question belongs to $N$ so it[/ins]
+does to $GN$.
+
+If $N'$ is not zero, it is by Theorem II greater than zero, and by Theorem IV not
+greater than $N$. Hence by hypothesis $\frac{N' \times P}{N' \times Q}$ is both as great and as small as $\frac{P}{Q}$. But

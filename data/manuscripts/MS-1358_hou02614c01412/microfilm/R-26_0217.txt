@@ -1,0 +1,39 @@
+[marginalia]
+Union Bridge [date]1899 March[/date]
+[/marginalia]
+
+[pn]-7[/pn]
+
+[del]y = ψ x in^{φ x}[/del]
+[del]D_x y = ψ' x + ψ x.[/del]
+y = ψ in^{φ}
+D_x y = (ψ' + ψ φ') in^{φ}
+D_x^2 y = (ψ'' + 2 ψ' φ' + ψ φ'' + ψ φ'^2) in^{φ}
+= ([ins]ψ''[/ins]/[del]ψ[/del] + 2 [ins]ψ'[/ins]/[del]ψ[/del] φ' + φ'' + φ'^2) ψ in^{φ}
+
+Suppose
+y = (ax + b) in^{x^2}
+[del]D_x y = 2ax in^{x^2}[/del]
+[del]D_x^2 y = 2a + 4ax^2[/del]
+[del]D_x y = (2a + [del]2ax^2 + 2bx[/del]) in^{x^2}[/del]
+[del]D_x^2 y = 4ax + 2b + 4ax^3 + 4 + 4ax[/del]
+
+y = ax in^{bx^2}
+D_x y = (a + 2abx^2) in^{bx^2}
+D_x^2 y = 6abx + 4ab^2x^3
+= 2abx (3 + 2bx^2) in^{bx^2}
+
+[fig]Diagram with arrows and terms[/fig]
+
+D_x y = (a + 2ax^2 + 2bx) in^{x^2}
+D_x^2 y = (2b + 4ax + 4bx^2 + 4ax^3 + 2ax) in^{x^2}
+
+a in^{bx^2}
+2abx in^{bx^2}
+2ab + 4ab^2x^2
+2ab(1 + 2bx^2)
+
+in^{Ax^2}
+y = in^{Ax^2 + Bx + C}
+D_x y = (2Ax + B) in^{Ax^2 + Bx + C}
+D_x^2 y = [2A + (2Ax + B)^2] in^{Ax^2 + Bx + C}

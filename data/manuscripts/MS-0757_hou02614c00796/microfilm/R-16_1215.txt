@@ -1,0 +1,48 @@
+$$a \prec (b \prec c)$$
+$$(a \prec b) \prec c$$
+$$a \bar{\prec} (b \prec c)$$
+$$(a \prec b) \bar{\prec} c$$
+$$a \prec (b \bar{\prec} c)$$
+$$(a \bar{\prec} b) \prec c$$
+$$a \bar{\prec} (b \bar{\prec} c)$$
+$$(a \bar{\prec} b) \bar{\prec} c$$
+
+[fig]connecting lines between formulas[/fig]
+
+$$\bar{a} + \bar{b} + c$$
+$$\overline{a \bar{b}} + c$$
+$$a \bar{b} \bar{c}$$
+$$\overline{(a + b) \bar{c}}$$
+$$\overline{a} + b \bar{c}$$
+$$\bar{a} + b + c$$
+$$\bar{a} (\bar{b} + c)$$
+$$a \bar{b} \bar{c}$$
+
+$$\bar{c} \prec (a \bar{\prec} \bar{b})$$
+$$\bar{c} \prec (\bar{b} \prec \bar{a})$$
+
+$$(a \prec b) \prec (c \prec d) \quad \overline{a \bar{b}} + \bar{c} + d$$
+$$(a \prec b) \prec (c \bar{\prec} d) \quad \overline{a \bar{b}} + c \bar{d}$$
+$$(a \bar{\prec} b) \prec (c \prec d) \quad \bar{a} + b + \bar{c} + d$$
+
+$$(a \prec b) \prec c = \bar{c} \prec (a \bar{\prec} b)$$
+
+[del]$$\bar{c} \prec (a \prec b)$$[/del]
+[del]$$\bar{c} \prec (\bar{b} \prec \bar{a})$$[/del]
+
+$$(a \prec b) \prec (c \bar{\prec} b) \quad (a + c) [del]b[/del]$$
+$$= b \bar{\prec} (\bar{a} \bar{\prec} c)$$
+
+$$(a \bar{\prec} \bar{b}) \prec c$$
+$$\bar{c} \prec (a \prec \bar{b})$$
+$$\bar{c} \prec (b \prec \bar{a})$$
+
+$$[b \bar{\prec} (\bar{a} \bar{\prec} c)] \prec [(a \prec b) \prec (c \bar{\prec} b)]$$
+$$(a \prec b) \prec [\{b \bar{\prec} (\bar{a} \bar{\prec} c)\} \prec (c \bar{\prec} b)]$$
+$$(a \prec b) \prec [(c \prec b) \prec \{b \prec (\bar{a} \bar{\prec} c)\}]$$
+$$\{(\bar{a} \prec c) \prec \bar{c}\}$$
+$$(a \prec b) \prec [(\bar{a} \prec c) \prec (c \prec b) \prec \bar{b}]$$
+
+$$(a \prec b) \prec (b \prec c) \prec (a \prec c)$$
+[del]and[/del]
+$$a \prec (b \prec c) \prec \{(a \prec b) \prec c\}$$

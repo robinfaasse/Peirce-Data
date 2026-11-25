@@ -1,0 +1,24 @@
+$$\left(\frac{x}{X}\right)^2 + \left(\frac{y}{Y}\right)^2 = 1 - \left(\frac{z}{Z}\right)^2$$
+
+$$X > Y > Z$$
+
+$$2\left(\frac{x}{X}\right)\cdot\frac{dx}{X} + 2\cdot\frac{y\cdot dy}{Y^2} = -2\frac{z\cdot dz}{Z^2}$$
+
+$$\theta$$
+
+$$\left(\frac{y}{Y}\right)^2 = 1 - \left(\frac{z}{Z}\right)^2 - \left(\frac{x}{X}\right)^2$$
+
+$$y = Y\sqrt{1 - \left(\frac{z}{Z}\right)^2 - \left(\frac{x}{X}\right)^2}$$
+
+$$\left(\frac{x}{X\sqrt{1-\left(\frac{z}{Z}\right)^2}}\right)^2 + \left(\frac{y}{Y\sqrt{1-\left(\frac{z}{Z}\right)^2}}\right)^2 = 1$$
+
+[del]$$x^2+y^2=r^2$$[/del]
+$$x = r\sin\theta \quad y = r\cos\theta$$
+
+[del]$$x =$$[/del]
+
+$$\left\{\frac{Y r\sin\theta}{XY\sqrt{\quad}}\right\}^2 + \left\{\frac{X r\cos\theta}{XY\sqrt{\quad}}\right\}^2 = 1$$ [fig]Two concentric ellipses with a center point[/fig]
+
+$$r^2(Y\sin\theta + X\cos\theta)^2 = X^2 Y^2 \left[1 - \left(\frac{z}{Z}\right)^2\right]$$
+
+$$r^2 [del]R^2[/del] \sin^2(\theta + \Theta) = \frac{X^2 Y^2}{\quad}$$

@@ -1,0 +1,11 @@
+[pn]19[/pn] of its Listing numbers and [ins]of[/ins] its singularities.
+
+The census-value of a place the aggregate of two places is the sum of the census-values of those places, less the census-value of their common place.
+
+The census-value of one point is one. The census-values of two places of the same shape-class is the same.
+
+The above is Listing's census-theorem, as modified by me, so as to take account of singularities. Let us provisionally suppose it to be true and try whether we can determine the [del]five[/del] census-values and the definitions of the Listing numbers so as to preserve its truth.
+
+We may begin with a point-figure. No mere motion can convert a particle into two particles. We [del]may[/del] [ins]must[/ins], therefore, assume that the chorisy of a point-figure is the number of its points, [del]For in this way only[/del] and that $X_0 = 1$, [del]For in this way only[/del] [ins](with whole numbers)[/ins] will the census-figure of one point be one and that of a number of points be equal to their number.
+
+Let us next consider a simple limited-line. Since this is of the shape-class of a point (for it can shrink to a point by a mere motion, not strict at its completion), its census number is one. We, therefore, have $X_1 + 2 U_1^{-1} = 1$. [del]Let us consider the line as consisting of two lines joined at their ends. Then, we have $2 X_1 + 4 U_1^{-1} - X_0 = 1$[/del] If the extremities of $x$ simple lines are at one point on another simple line, the result is a line with $x+2$ extremities and one singularity of order $x$

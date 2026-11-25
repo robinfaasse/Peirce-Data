@@ -1,0 +1,25 @@
+[marginalia]
+Topics
+30
+[/marginalia]
+
+or
+
+$$CX_{q} - 2CX_{p-1, q} - CX_{p, q} = - CX_{q}.$$
+
+Next consider a point from which extend a number, [del]$n$[/del] [ins]$n+2$[/ins], of terminated lines, as in Fig. 4. There is here a point of whose grade of singularity is [del]$n$[/del] [ins]$n+2$[/ins]. If [del]such[/del] cuts are made at this point, [del]it[/del] the line becomes [del]of[/del] simple terminated lines. This fact is expressed in the equation
+
+[marginalia]
+[fig]A point with five radiating lines.[/fig]
+Fig. 4.
+[/marginalia]
+
+$$CX_{q} + [del]n[/del] [ins]$n+2$[/ins] CX_{p-1, q} + CX_{p-2, q} = n CX_{q} + 2n CX_{p-1, q}$$
+
+$$[del]CX_{q} + n CX_{p-1, q} + CX_{p-2, q} + n CX_{p, q} = n CX_{q} + 2n CX_{p-1, q}[/del]$$
+
+$$CX_{q} + CX_{p, q} + (n+2) CX_{p-1, q} + (n+1) CX_{p, q} = (n+2) CX_{q} + 2(n+2) CX_{p-1, q}$$
+
+which by the aid of the value of $CX_{q}$ above gives
+
+$$CX_{p, q} = - n CX_{p-1, q} = n CX_{p, q}$$

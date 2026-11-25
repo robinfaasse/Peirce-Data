@@ -1,0 +1,33 @@
+[pn]Logic
+III
+58
+X[/pn]
+
+For by this follows from (71) by (64).
+(74) $[(x \prec y) \prec z] \prec y \prec z$.
+
+For this follows from (72) by (64).
+(75) If $(y \prec y) \prec z$ is true then $x \prec y \prec z$ is true.
+[marginalia]Consequence
+of[/marginalia]
+For by (72) if $(x \prec y) \prec z$ is true, $y \prec z$ is true, and by
+(64), if $y \prec z$ is true $x \prec y \prec z$ is true. That is, unbracketed
+brackets can be removed.
+
+(76) $[(x \prec y) \prec z] \prec x \prec y \prec z$
+This follows from (75) by (64).
+
+(77) $x \prec (x \prec y) \prec y$
+For by (69), $(x \prec y) \prec x \prec y$. Hence by (77) follows by transposition
+
+(78) If $x$ is true $(x \prec y) \prec y$ is true
+For this follows from (77) by (65). It is also proved as follows:
+By (65) if $x$ is true, [del]$(x \prec y)$ is false unless $(y)$ is true. But by (64) if $(x \prec y)$[/del]
+[del]if $x$ and $(x \prec y)$ are true $y$ is true.[/del]
+
+[del]For by this follows[/del]
+[del]is false or $y$ is true.[/del]
+
+(79) If $x \prec y$, then $(y \prec z) \prec (x \prec z)$
+For if $x$ is true and $(x \prec y)$ is true it follows from (65) that $y$ is
+true. But if $y$ is true and $(y \prec z)$ is true, it follows in the

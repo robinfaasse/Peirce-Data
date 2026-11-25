@@ -1,0 +1,23 @@
+[pn]27[/pn]
+
+In (1), put $u = m$, when it becomes
+
+(5) $0 = \sum_{1}^{\infty} b_{t} i^{m} j^{v+t}$
+
+This gives successively
+$0 = i^{m} j^{n} = i^{m} j^{n-1} = \dots = i^{m} j$
+
+Now in (1), put $u = m-1$, when it becomes, [del]owing to $a_{1} = 0$[/del]
+
+$i^{m} j^{v+1} = \sum_{1}^{\infty} b_{t} i^{m-1} j^{v+t}$
+
+This gives successively
+$0 = i^{m-1} j^{n} = i^{m-1} j^{n-1} = \dots = i^{m-1} j$
+
+In (1), put $u = m-2$ when it becomes in this case ($a_{1} = 0$)
+
+[del]$0 = \sum_{1}^{\infty} (a_{2}$[/del]
+
+[del](6) $0 = a_{2} i^{m} j^{v} + \sum_{1}^{\infty} b_{t} i^{m-2} j^{v+t}$[/del]
+
+(6) $0 = a_{2} i^{m-1} j^{v} + \sum_{1}^{\infty} b_{t} i^{m-2} j^{v+t}$

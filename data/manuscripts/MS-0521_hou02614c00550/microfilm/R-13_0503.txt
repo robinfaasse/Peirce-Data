@@ -1,0 +1,11 @@
+[pn]3[/pn]
+
+letters.
+
+Let us write $q_{\alpha i}$ to signify that $i$ has the quality $\alpha$, or belongs to the collection $\alpha$.
+Let us write $r_{xyz}$ to signify that $y$ is in the relation $x$ to $z$. Then
+(1) $\Pi_{\alpha} \Sigma_{i} q_{\alpha i}$
+(2) $\Pi_{\alpha} \Sigma_{i} \bar{q}_{\alpha i}$
+In short, we have
+(3) $\Pi_{\alpha} \Pi_{\beta} \Sigma_{i} r_{\alpha\beta i}$
+unless $\alpha$ is such a relation

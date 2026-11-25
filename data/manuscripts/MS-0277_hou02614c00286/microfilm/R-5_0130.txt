@@ -1,0 +1,189 @@
+[fig]Diagram of a three-way junction with variables Z, X, Y, Q[/fig]
+
+$(X - Q) \times (Y - Q) = (Z - Q)$
+
+[fig]Two diagrams of three-way junctions with variables Q, R, S, X[/fig]
+
+$(R - Q) \times (S - Q) = X - Q$
+[del]$(R - Q) \times (S - Q) = X + S - Q$[/del]
+$= X - S$
+
+[fig]Diagram of a three-way junction with variables X, Y, Z[/fig]
+
+$X = \frac{P + Q - R}{[del]A + B[/del]}$
+
+[fig]Diagram of a four-way junction with variables X, P, R, Q, beta[/fig]
+
+$U + V - W = Z$
+
+[fig]Three diagrams of three-way junctions with variables P, Y, U and Q, Y, V and R, Y, W[/fig] then [fig]Diagram of a four-way junction with variables V, W, U, Z, beta[/fig]
+
+[del]$R + R = S + Q$[/del] [del]$S + Q = X + Q$[/del]
+[del]$R + Q = T + Q$[/del] [del]$R + T = X + Q$[/del]
+
+[fig]Four diagrams of four-way junctions with variables R, S, Q, T, beta, K, P[/fig]
+
+Dealing cards into piles
+
+Number of Piles } [del]No except[/del]
+& Number of Cards } of piles F
+
+From card C [del]to card[/del] [ins]of pile F[/ins]
+to card T of pile T
+is equal to spaces before deal
+
+from card H [del]of pile I[/del]
+to card I of [del]pile[/del] [ins]pile[/ins] X
+
+[marginalia]
+365
+73
+1
+366
+183
+61
+[/marginalia]
+
+[fig]Diagram of a star-like junction with variables beta, Jan 1, Jan 16, Jan 11, Jan 6[/fig]
+
+[fig]Diagram of a vertical line with horizontal branches labeled with dates[/fig]
+
+[fig]Diagram of a vertical loop with numbers and variables beta, Jan, Feb, March[/fig]
+
+[fig]Diagram of a horizontal chain of junctions with variables beta, numbers, and dates[/fig]
+
+[date]Mar 2[/date]
+7
+12
+17
+22
+27
+Apr 1
+6
+11
+16
+21
+26
+May 1
+6
+11
+16
+21
+26
+31
+June 5
+10
+15
+20
+25
+30
+July 5
+10
+15
+20
+25
+30
+Aug 4
+9
+14
+19
+24
+29
+Sep 3
+8
+13
+18
+23
+28
+Oct 3
+8
+13
+18
+23
+28
+Nov 2
+7
+12
+17
+22
+27
+Dec 2
+7
+12
+17
+22
+27
+[date]Jan 1[/date]
+6
+11
+16
+21
+26
+31
+Feb 5
+10
+15
+20
+25
+Mar 2
+7
+12
+17
+22
+27
+Apr 1
+6
+11
+16
+21
+26
+May 1
+6
+11
+16
+21
+26
+31
+June 5
+10
+15
+20
+25
+30
+July 5
+10
+15
+20
+25
+30
+Aug 4
+9
+14
+19
+24
+29
+Sep 3
+8
+13
+18
+23
+28
+Oct 3
+8
+13
+18
+23
+28
+Nov 2
+7
+12
+17
+22
+27
+Dec 2
+7
+12
+17
+22
+27
+[date]Jan 1[/date]

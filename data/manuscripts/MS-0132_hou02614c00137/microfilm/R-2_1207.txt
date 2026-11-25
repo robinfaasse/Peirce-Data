@@ -1,0 +1,59 @@
+[pn]4 1/2[/pn]
+
+[fig]Two intersecting circles with vertical axis[/fig] The two circles cut [del]but[/del] [ins]twice[/ins] [del]once[/del]
+
+[fig]Three intersecting circles[/fig]
+
+[fig]Two tilted ellipses[/fig]
+
+[fig]An ellipse and a circle[/fig]
+
+[fig]Four circles arranged in a ring[/fig]
+
+[fig]Tilted ellipse with vertical axis[/fig]
+
+[fig]Double cone with vertical axis[/fig]
+
+[fig]A curve with loops[/fig]
+
+[fig]Three intersecting circles[/fig]
+
+[fig]A point marked x[/fig]
+
+[fig]A horizontal line segment with points[/fig]
+
+[fig]A curve with a loop and two large circles[/fig]
+
+[fig]A curve with a loop[/fig]
+
+[fig]A curve with a loop[/fig]
+
+[fig]A triangle with internal lines[/fig]
+
+[fig]Two intersecting lines[/fig]
+
+[fig]A curve with a loop[/fig]
+
+[fig]A vertical line with a hook[/fig]
+
+[fig]Two vertical lines[/fig]
+
+$$\begin{aligned}
+y^2 + (x-a)^2 &= (R+r)^2 \\
+y^2 + (x+a)^2 &= (R-r)^2 \\
+\hline
+4xa &= -[del]4[/del]Rr \\
+x &= -\frac{1}{2} \frac{R}{a} r \quad \quad \quad [del]2R[/del] \\
+\sqrt{y^2+(x-a)^2} &+ \sqrt{y^2+(x+a)^2} = \\
+2y^2 + 2x^2 [del]-[/del] [ins]+[/ins] 2a^2 &+ \\
+\sqrt{y^4 + y^2(2x^2+2a^2) + (x^2-a^2)^2} \\
+&= 4R^2
+\end{aligned}$$
+
+$$r = -2 \frac{[del]R[/del] [ins]a[/ins]}{R} x$$
+
+$$y^2 + (x-a)^2 = (R - 2\frac{a}{R}x)^2$$
+
+$$y=0$$
+
+$$y^4 + 2y$$

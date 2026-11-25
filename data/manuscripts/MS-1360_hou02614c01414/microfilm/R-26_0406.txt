@@ -1,0 +1,11 @@
+a lift on the truss equal to what the weight of the cable and suspenders in the same parts lacks of that value. The negative of this difference is the (negative) load upon the truss, and is
+$$\left\{ K \left[ \sqrt{1 + (2 \frac{y_0 - y_c}{x_c})^2 (\frac{x}{x_c})^2} - \sqrt{1 + (2 \frac{y_0 - y_c}{x_c})^2} \right] + K' (y_0 - y_c) \left( \frac{x^2}{x_c^2} - 1 \right) \right\} dx$$
+
+[u]3[ins]rd[/ins] Part[/u]. When the horizontal force is just sufficient to bring the suspenders into place, the vertical force on the cable at $x_c$ is
+$$\int_0^{x_c} \left\{ K \sqrt{1 + (2 \frac{y_0 - y_c}{x_c})^2} + K' (y_0 - y_c) \right\} dx = \left[ K \sqrt{1 + (2 \frac{y_0 - y_c}{x_c})^2} + K' (y_0 - y_c) \right] x_c$$
+Since $\frac{dy}{dx} = 2 \frac{y_0 - y_c}{x_c} \cdot \frac{x}{x_c}$, the horizontal pull is the vertical pull multiplied by $\frac{1}{2} \frac{x_c}{y_0 - y_c}$, or $\left\{ K \sqrt{1 + (\frac{x_c}{2 \overline{y_0 - y_c}})^2} + \frac{1}{2} K' x_c \right\} x_c$. The cable preserving its form the horizontal and vertical forces are thereafter increased in the same ratio. That is, when $H$ is the horizontal pull, the additional load brought on each element of length of the truss is
+$$\left[ -2 \frac{y_0 - y_c}{x_c^2} H + K \sqrt{1 + (2 \frac{y_0 - y_c}{x_c})^2} + K' (y_0 - y_c) \right] dx.$$
+
+[u]4[ins]th[/ins] Part[/u]. Bertot's (commonly called Clapeyron's) Theorem of Three Moments, though not itself applicable, suggests the principle upon which the pier reactions are to be worked out. We first consider the equilibrium of part of the truss extending from $x = -x_B$ to $x = -x_A$. The equation is ($N_{-A}$ being the shearing stress for $x$ a little less than $-x_A$, etc.)
+$$- M_{-A} + N_{-A} (x_{-A} - x_{-B}) - \frac{1}{2} K (x_{-A} - x_{-B})^2 = 0,$$
+and To get a similar equation for the main span we have to [del]integrate[/del] [ins]perform the integration[/ins]

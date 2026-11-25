@@ -1,0 +1,30 @@
+[u]Problem[/u] . Given two points, [A] and [B] : required
+all the points the squares of whose distances from these
+points have a given difference.
+
+[u]Solution[/u]. Divide the given difference of squares by the
+distance AB, [del]and[/del] add and subtract the quotient to and from
+the same distance AB, and halve the results. These halves
+are distances from [A] and [B] to be measured along
+{AB} to a point at which a perpendicular to {AB} is to be
+raised. The points of this perpendicular are all the points
+which satisfy the condition of the problem.
+
+[u]Exercises[/u] . To prove the above by means of the Pythagorean
+proposition.
+
+. Given two circles with their centres: required to find
+the points from which the tangents to the two circles are
+of equal length.
+
+. Given three circles with their centres: required the
+points from which the length of tangents [ins]to those circles[/ins] to their points
+of tangency are all equal.
+
+[u]Problem[/u] . Given two points: required all the points from
+which the distances of those points have the sum of their
+squares equal to [del]a given[/del] the square of a given length.
+
+[u]Solution[/u]. Upon a line of the given length erect a
+semicircle, and at its mid-point erect a perpendicular.
+[del]From[/del] [ins]At[/ins] the point where the perpendicular cuts the semicircle draw a line

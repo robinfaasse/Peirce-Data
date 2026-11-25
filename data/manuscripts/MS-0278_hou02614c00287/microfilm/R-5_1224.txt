@@ -1,0 +1,25 @@
+$$x \begin{vmatrix} 1 & v & u & y & z \\ 1 & 0 & v & z & x \\ 1 & u & 0 & x & y \\ -1 & z & x & 0 & v \\ -1 & x & y & u & 0 \end{vmatrix}$$
+
+$$= x \begin{vmatrix} 1 & v & u & y & z \\ 0 & -v & v-u & z-y & x-z \\ 0 & u-v & -u & x-y & y-z \\ 0 & z+v & x+u & y & v+z \\ 0 & x+v & y+u & y+u & z \end{vmatrix}$$
+
+[del][fig]crossed out text and lines[/fig][/del]
+
+$$= xv \begin{vmatrix} -1 & v & z & x \\ -1 & 0 & x & y \\ +1 & x & 0 & v \\ +1 & y & u & 0 \end{vmatrix} + xu \begin{vmatrix} 0 & -1 & z & x \\ u & -1 & x & y \\ z & +1 & 0 & v \\ x & +1 & u & 0 \end{vmatrix}$$
+
+$$+ xy \begin{vmatrix} 0 & v & -1 & x \\ u & 0 & -1 & y \\ z & x & +1 & v \\ x & y & +1 & 0 \end{vmatrix} + xz \begin{vmatrix} 0 & v & z & [del]-1[/del] [ins]x[/ins] \\ u & 0 & x & [del]-1[/del] [ins]y[/ins] \\ z & x & 0 & [del]+1[/del] [ins]v[/ins] \\ x & y & u & [del]+1[/del] [ins]0[/ins] \end{vmatrix} + x \begin{vmatrix} 0 & v & z & x \\ u & 0 & x & y \\ z & x & 0 & v \\ x & y & u & 0 \end{vmatrix}$$
+
+$$xv \begin{vmatrix} -1 & v & z & x \\ 0 & -v & x-z & y-x \\ 0 & x+v & z & v+x \\ 0 & y+v & u+z & x \end{vmatrix}$$
+
+$$- xv \begin{vmatrix} -v & x-z & y-x \\ x+v & z & v+x \\ y+v & u+z & x \end{vmatrix} =$$
+
+$$(xv+yu+uv)$$
+$$-xv^2 \begin{vmatrix} -1 & x & y \\ +1 & 0 & v \\ +1 & u & 0 \end{vmatrix}$$
+
+$$xu(u+v)$$
+$$-xv \begin{vmatrix} 0 & x & y \\ x & 0 & v \\ y & u & 0 \end{vmatrix}$$
+
+$$xy-uv-y^2$$
+$$xvz \begin{vmatrix} 0 & -1 & y \\ x & +1 & v \\ y & +1 & 0 \end{vmatrix}$$
+
+$$xy-xu-x^2$$
+$$x^2v \begin{vmatrix} 0 & x & -1 \\ x & 0 & +1 \\ y & u & +1 \end{vmatrix}$$

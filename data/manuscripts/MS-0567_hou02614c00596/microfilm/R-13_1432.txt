@@ -1,0 +1,18 @@
+[pn]403[/pn] [ins]G[/ins] An [del]evolution[/del] [ins]artifice[/ins] which I have not included
+among the regular steps of the inferential
+procedure but which is occasionally
+useful, consists in taking [del]the whole or[/del]
+the latter part of the quantifier array from
+its position at the head of the proposition
+and putting it before the part which
+alone it concerns. The formulae governing
+this operation are
+$$\Pi_j a_i b_{ij} = a_i \Pi_j b_{ij} \quad \Sigma_j a_i b_{ij} = a_i \Sigma_j b_{ij}$$
+$$\Pi_j (a_i + b_{ij}) = a_i + \Pi_j b_{ij} \quad \Sigma_j (a_i + b_{ij}) = a_i + \Sigma_j b_{ij}.$$
+This [del]will gener[/del] transformation will generally
+be used in connection with the formulae
+$$a \prec a + b$$
+and
+$$a + xb \prec a\bar{x} + xb.$$
+
+[fig]checkmark[/fig]

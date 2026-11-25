@@ -1,0 +1,44 @@
+[pn]Pag 3[/pn]
+$\Pi_{0}'' = \tau_{0}\pi_{0}$
+
+$\Pi_{1}'' = \tau_{0}\pi_{0}\tau_{1}\pi_{1}$
+
+$\Pi_{2}'' = \tau_{0}\pi_{0}\tau_{1}\pi_{1} + \tau_{0}\pi_{0}\tau_{1}\pi_{2} + \tau_{0}\pi_{0}\tau_{2}\pi_{2} + \tau_{0}\pi_{1}\tau_{2}\pi_{2}$
+$+ \tau_{0}\pi_{0}\tau_{1}\pi_{1}\tau_{2}\pi_{2}$
+
+$\Pi_{3}'' = \tau_{0}\pi_{0} + \tau_{0}\pi_{0}\tau_{1}\pi_{1} + \tau_{0}\pi_{0}\tau_{1}\pi_{2} + \tau_{0}\pi_{0}\tau_{2}\pi_{2} + \tau_{0}\pi_{1}\tau_{2}\pi_{2}$
+$+ \tau_{0}\pi_{0}\tau_{1}\pi_{3} + \tau_{0}\pi_{0}\tau_{2}\pi_{3} + \tau_{0}\pi_{0}\tau_{3}\pi_{3}$
+$+ \tau_{0}\pi_{1}\tau_{2}\pi_{3} + [del]\tau_{0}\pi_{0}\tau_{1}\pi_{1}\tau_{2}\pi_{3}[/del] [ins]\tau_{0}\pi_{0}\tau_{1}\pi_{2}\pi_{3}[/ins] + \tau_{0}\pi_{0}\tau_{2}\tau_{2}\pi_{3}$
+$+ \tau_{0}\pi_{0}\tau_{1}\pi_{1}\tau_{2}\pi_{2}\tau_{3}\pi_{3}$
+
+[pn]Page 2[/pn]
+$T_{0}' = \tau_{0}$
+
+$T_{1}' = \tau_{0}$
+
+$T_{2}' = \tau_{0} + \tau_{0}\pi_{1}\tau_{2}$
+
+$T_{3}' = \tau_{0} + \tau_{0}\pi_{1}\tau_{2} + \tau_{0}\pi_{1}\tau_{3} + \tau_{0}\pi_{2}\tau_{3} + \tau_{0}\pi_{1}\tau_{2}\pi_{2}\tau_{3}$
+
+$T_{4}' = \tau_{0} + \tau_{0}\pi_{1}\tau_{2} + \tau_{0}\pi_{1}\tau_{3} + \tau_{0}\pi_{2}\tau_{3} + \tau_{0}\pi_{1}\tau_{2}\pi_{2}\tau_{3}$
+$+ \tau_{0}\pi_{1}\tau_{4} + \tau_{0}\pi_{2}\tau_{4} + \tau_{0}\pi_{3}\tau_{4} + \tau_{0}\pi_{1}\tau_{2}\pi_{2}\tau_{4} + \tau_{0}\pi_{1}\tau_{3}\pi_{3}\tau_{4}$
+$+ \tau_{0}\pi_{1}\tau_{2}\pi_{3}\tau_{4} + \tau_{0}\pi_{2}\tau_{3}\pi_{3}\tau_{4} + \tau_{0}\pi_{1}\tau_{2}\pi_{2}\tau_{3}\pi_{3}\tau_{4}$
+
+$T_{0}'' = 0$
+
+$T_{1}'' = \tau_{0}\pi_{0}\tau_{1}$
+
+$T_{2}'' = \tau_{0}\pi_{0}\tau_{1} + \tau_{0}\pi_{0}\tau_{2} + \tau_{0}\pi_{0}\tau_{1}\pi_{1}\tau_{2}$
+
+$T_{3}'' = \tau_{0}\pi_{0}\tau_{1} + \tau_{0}\pi_{0}\tau_{2} + \tau_{0}\pi_{0}\tau_{1}\pi_{1}\tau_{2} + \tau_{0}\pi_{0}\tau_{3}$
+$+ \tau_{0}\pi_{0}\tau_{1}\pi_{1}\tau_{3} + \tau_{0}\pi_{0}\tau_{1}\pi_{2}\tau_{3} + \tau_{0}\pi_{0}\tau_{2}\pi_{2}\tau_{3}$
+$+ \tau_{0}\pi_{0}\tau_{1}\pi_{1}\tau_{2}\pi_{2}\tau_{3}$
+
+$\Pi_{0}' = 0$
+
+$\Pi_{1}' = \tau_{0}\pi_{1}$
+
+$\Pi_{2}' = \tau_{0}\pi_{1} + \tau_{0}\pi_{2} + \tau_{0}\pi_{1}\tau_{2}\pi_{2}$
+
+$\Pi_{3}' = \tau_{0}\pi_{1} + \tau_{0}\pi_{2} + \tau_{0}\pi_{1}\tau_{2}\pi_{2} + \tau_{0}\pi_{3} + \tau_{0}\pi_{1}\tau_{2}\pi_{3}$
+$+ \tau_{0}\pi_{1}\tau_{3}\pi_{3} + \tau_{0}\pi_{2}\tau_{3}\pi_{3} + \tau_{0}\pi_{1}\tau_{2}\pi_{2}\tau_{3}\pi_{3}$

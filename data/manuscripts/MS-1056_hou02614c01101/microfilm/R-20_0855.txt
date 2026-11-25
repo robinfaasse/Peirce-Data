@@ -1,0 +1,32 @@
+Let us write
+
+(5) $\vartheta_{m} = \frac{'\mathcal{O}_{m+1}}{'\mathcal{O}_{m}}$ (Read "thall $m$")
+
+Then $\vartheta_{-m} = \frac{'\mathcal{O}_{-m+1}}{'\mathcal{O}_{-m}} = \frac{\mathcal{O}_{m-1}}{\mathcal{O}_{m}}$ which one may write $-\vartheta_{m}$ (that is $\frac{1}{\vartheta_{m}}$).
+
+(6) $-\vartheta_{m} = \vartheta_{-m} = \frac{'\mathcal{O}_{-m+1}}{'\mathcal{O}_{-m}} = \frac{'\mathcal{O}_{m}}{'\mathcal{O}_{m-1}} = -\vartheta_{m-1} = +\vartheta_{-m}$
+
+(7) $1 + \frac{1}{\vartheta_{m}} = 1 + \frac{\mathcal{O}_{m}}{'\mathcal{O}_{m+1}} = \frac{\mathcal{O}_{m+1} + '\mathcal{O}_{m}}{'\mathcal{O}_{m+1}} = \frac{'\mathcal{O}_{m+2}}{'\mathcal{O}_{m+1}} = \vartheta_{m+1}$
+
+(8) $\frac{1}{1 - \vartheta_{m}} = \frac{1}{1 - \frac{'\mathcal{O}_{m}}{'\mathcal{O}_{m-1}}} = \frac{'\mathcal{O}_{m-1}}{'\mathcal{O}_{m-1} - '\mathcal{O}_{m}} = - \frac{\mathcal{O}_{m-1}}{'\mathcal{O}_{m-2}} = + \vartheta_{m-1}$
+
+From (7) it follows that $\frac{1}{\vartheta_{m}}$ are successive approximations to the value of the continued fraction $\frac{1}{1 + \frac{1}{1 + \frac{1}{1 + \frac{1}{1 + \text{etc}}}}}$
+
+(9) Consequently $\vartheta_{\infty} = \frac{1}{2}(1 + \sqrt{5})$ $\frac{1}{\vartheta_{\infty}} = \frac{1}{2}(\sqrt{5} - 1)$
+
+(10) Let us write $\vartheta_{m}^{p} = \prod_{0}^{p-1} \vartheta_{m-q} = \frac{'\mathcal{O}_{m-(p-1)}}{'\mathcal{O}_{m-1}}$
+
+$\Delta \log x = \frac{\Delta x}{x}$
+
+[del]$\frac{3}{5}$[/del] $\frac{5}{8}$ $\frac{8}{13}$
+
+$\Delta_{m} '\mathcal{O}_{m}$
+
+$\vartheta_{m} = \frac{'\mathcal{O}_{m}}{'\mathcal{O}_{m-1}}$
+
+$\frac{\Delta \mathcal{O}}{\mathcal{O}}$
+
+$+ \quad 3 \quad 5 \quad 7$
+
+$1 \quad 1 \quad 2 \quad 3 \quad 5 \quad 7$
+$0 \quad 1$

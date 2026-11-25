@@ -1,0 +1,30 @@
+[pn]R[/pn] [pn]23[/pn]
+
+point, and mark them successively 1, [del]to three[/del] [ins]2, 3, etc.[/ins] and beginning with
+0 and counting round in the direction of the increase of these numbers
+count to every [sub]C[/sub]f th line, the numbers of the lines so reached
+will be the [del]successive[/del] [ins]values of[/ins] $\theta$ for the intersections of the different helices
+of the row (next)$^m$ to the radiant of $\frac{A_1}{A_0}$. For example suppose
+$\frac{A_1}{A_0} = \frac{7}{12}$. Then $\frac{B_f}{C_f} = \frac{3}{5}$, and writing J for 11, [del]Q for 12[/del] we have
+[fig]Circular diagram with numbered spokes[/fig] by the the figure the values of $\theta$ for the successive
+values of $m$,
+$$\begin{array}{rccccccccccccc}
+m = & 0 & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & \text{X} & \text{J} & \text{Q} \\
+\theta = & 0 & 5 & \text{X} & 3 & 8 & 1 & 6 & \text{J} & 4 & 9 & 2 & \text{J} & 0
+\end{array}$$
+
+Let us call [ins]an[/ins] irreducible fractions $\frac{A_1}{A_0}$ [u]simplex[/u] [del]if its $\theta_1 = 1$[/del] [ins]$\frac{A_1}{A_0} = 1$ or $\frac{A_1}{A_0} = \frac{A_0 - 1}{A_0}$[/ins]
+Then simplex fractions will include all [del]of[/del] irreducible fractions [del]of which[/del]
+numerators are 2, 3, 4, or 6, together with all of numerator 5 whose
+denominators [del]end in[/del] do not end in 2, 3, 7, or 8, etc.
+
+[del]Fractions[/del] [ins]Fractions[/ins] of numerator 1 are called "articles" (?). Let us term irreducible
+fractions for which $B_f = 1$, [u]simplinumerant[/u], those of which $B_{f-1} = 1$ [u]dupli-[/u]
+[u]numerant[/u], etc. Then all irreducible fractions whose numerators are 2, 3,
+4, or 6, together with those whose numerators are 5 and whose denominators
+[del]do[/del] not end in 2, 3, 7, nor 8, are simplinumerant etc. [del]In[/del] The process of writing
+down all [del]of[/del] irreducible fractions of lower denominator than a given limit by the addi-
+tive rule above given, [del]every[/del] [ins]all[/ins] fractions [ins]inserted[/ins] adjacent to $\frac{0}{1}$ [ins]are[/ins] [del]or[/del] [del]1[/del] articles, and no others.
+All fractions inserted adjacent to articles are simplinumerant and no others, all fractions in-
+serted adjacent to simplinumerant fractions but not to articles are duplinumerant etc.
+It follows that simplinumerant fractions are apt to occur in patches, broken near the

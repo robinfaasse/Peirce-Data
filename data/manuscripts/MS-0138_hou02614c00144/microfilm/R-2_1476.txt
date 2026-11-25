@@ -1,0 +1,63 @@
+```
+[pn]0[/pn]
+
+[fig]Table of binary sequences and numerical columns[/fig]
+
+[fig]Tree diagram with numerical branches[/fig]
+
+[fig]Vertical chain diagram with numbers[/fig]
+
+Suppose you only know the first two numerators
+But know that calling [del]N[/del] [ins]N[sub]i[/sub][/ins] the i[sup]th[/sup] numerator, where i is any integer
+from 0 up, j is any
+integer from 1 up.
+
+[del]N[sub]0[/sub] = 0[/del] and [del]N[sub]1[/sub] = 1[/del] Must be given.
+
+2[sup]nd[/sup] N[sub]2i+1[/sub] - N[sub]2i[/sub] = N[sub]2i+1[/sub]
+N[sub]2j+1[/sub] - N[sub]2j[/sub] = N[sub]j-1[/sub]
+
+N[sub]2i+3[/sub] - N[sub]2i+4[/sub] = N[sub]i+1[/sub]
+
+N[sub]2i+4[/sub] - N[sub]2i+3[/sub] + N[sub]2i+1[/sub] - N[sub]2i[/sub] = 0
+
+x[sup]4[/sup] - x[sup]3[/sup] - x[sup]2[/sup] + x = 1 (x[sup]2[/sup] + 1
+
+Put i+1 = j-1
+j-i = 2
+2j = 4 + 2i
+j = 2 + i
+i = j-2
+
+[fig]Table of values for i, j, 2i, 2i+1, 2i+2, 2i+3[/fig]
+
+Call 2i =
+
+[del]A + B[/del] [ins]A + B (0[sup]i[/sup]) + C (0[sup]i[/sup])[/ins]
+[del]x[sup]i[/sup] = n 45°[/del] [ins]A + B sin [del]0[/del] [ins]90°i[/ins] = N[sub]2i[/sub][/ins]
+
+Put 2i = 0 A = 0 But there is no accomplice owing to the equation being made by N[sub]2i[/sub]
+
+N[sub]6[/sub] - N[sub]5[/sub] = N[sub]2[/sub]
+N[sub]2[/sub] + N[sub]2[/sub] = N[sub]5[/sub]
+
+Put j=1
+N[sub]1[/sub] - N[sub]0[/sub] = N[sub]0[/sub]
+N[sub]1[/sub] = 2 N[sub]0[/sub]
+
+Put 2i = 2
+[del]Put j=0[/del]
+Put j=1 2j-1 = 1, 2j = 2 N[sub]1[/sub] - N[sub]0[/sub] = 0
+N[sub]1[/sub] - N[sub]2[/sub] = 0
+Put i=0 N[sub]1[/sub] - N[sub]0[/sub] = N[sub]1[/sub] N[sub]0[/sub] = 0
+i=1 N[sub]3[/sub] - N[sub]2[/sub] = N[sub]2[/sub] N[sub]3[/sub] = 2 N[sub]2[/sub]
+Put j>1 N[sub]1[/sub] - N[sub]2[/sub] = N[sub]0[/sub] But [del]N[sub]0[/sub] = 0[/del] But N[sub]0[/sub] = 0 [sub]..[/sub][sup]..[/sup] N[sub]2[/sub] = N[sub]1[/sub]
+
+Put i=j N[sub]2i+1[/sub] - N[sub]2i-1[/sub] = N[sub]i+1[/sub] - N[sub]i-1[/sub]
+Put i=1 N[sub]3[/sub] - N[sub]1[/sub] = N[sub]2[/sub] - N[sub]0[/sub]
+But N[sub]3[/sub] = 2 N[sub]2[/sub] and N[sub]0[/sub] = 0 [sub]..[/sub][sup]..[/sup] N[sub]2[/sub] = N[sub]1[/sub]
+Put j = i+1 N[sub]2i+1[/sub] - N[sub]2i+2[/sub] = N[sub]i[/sub]
+N[sub]2i+1[/sub] - N[sub]2i[/sub] = N[sub]i+1[/sub]
+N[sub]2i+2[/sub] - N[sub]2i[/sub] = N[sub]i+1[/sub] - N[sub]i[/sub]
+N[sub]2(j+1)[/sub] - N[sub]2i[/sub] = N[sub]2i[/sub] - N[sub]i[/sub]
+```

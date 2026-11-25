@@ -1,0 +1,21 @@
+[pn]5[/pn] [del]O[/del]
+
+$O_1^{\frac{1}{n}} O_2^{\frac{1}{n}} \dots$
+
+$\frac{1}{n} O_1^{\frac{1}{n}-1} O_2^{\frac{1}{n}} \dots$
+
+[del]$\frac{1}{n} (\frac{1}{n}-1) O_1^{\frac{1}{n}-2} O_2^{\frac{1}{n}} \dots$[/del]
+
+$\frac{1}{n} (\frac{1}{n}-1) O_1^{\frac{1}{n}-2} O_2^{\frac{1}{n}}$
+
+$\frac{1}{n} (\frac{1}{n}-1) P [del]O_1^{\frac{1}{n}-2}[/del] \frac{1}{P}$
+
+[u]=====================================[/u]
+
+$O_1^{\frac{1}{n}} O_2^{\frac{1}{n}} \dots$
+
+$\frac{1}{n} O_1^{\frac{1}{n}-1} O_2^{\frac{1}{n}}$
+
+$\frac{1}{n^2} O_1^{\frac{1}{n}-1} O_2^{\frac{1}{n}-1} O_3^{\frac{1}{n}} \dots$
+
+$\frac{1}{n^2} \frac{1}{P}$

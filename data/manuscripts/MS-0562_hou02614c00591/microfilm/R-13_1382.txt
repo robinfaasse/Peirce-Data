@@ -1,0 +1,14 @@
+[u]Note on the Boolean Algebra.[/u]
+
+Let the variables, $x$, $y$, $z$, etc. denote propositions. Let two [del]real[/del] [ins]constant[/ins] numbers $v$ and $f$ be chosen arbitrarily, and let [del]any symbol[/del] the equality of any variable to $v$ signify that the proposition it denotes is true, while its equality to $f$ signifies falsity.
+
+Then since every proposition is either true or false, every variable must satisfy the equation
+$$(x-f)(x-v) = 0.$$
+
+In some states of things one factor, in others the other may vanish. If the proposition $y$ is true in every state of things in which the proposition $x$ is true, the equation is satisfied, that
+$$(x-f)(y-v) = 0$$
+for otherwise $x$ might be true and $y$ false in the same state of things.
+
+The equations of the two syllogistic premises 'If $X$, then $Y$' and 'If $Y$, then $Z$' are
+$$(x-f)(y-v) = 0$$
+$$(y-f)(z-v) = 0$$

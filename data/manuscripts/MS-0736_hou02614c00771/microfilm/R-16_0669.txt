@@ -1,0 +1,17 @@
+(7) [u]a[/u]7[u]b[/u]7[u]c[/u] is false, and therefore
+(8) [u]a[/u]7[u]b[/u] is true, while
+(9) [u]c[/u] is false.
+But if [u]c[/u] is false while (5) is true,
+(10) [u]b[/u] is false.
+And if [u]b[/u] is false while (8) is true, [u]a[/u] is false,
+which contradicts (3).
+
+8. Suppose a proposition such that when
+a circle is substituted for any term or terms
+of it, its denial becomes true. Then, from the
+truth of the original proposition follows the
+truth of the terms replaced. For let A be the
+proposition, [u]a[/u] a term replaced. Then
+A7[u]a[/u]
+is true, provided that on substituting the circle
+for [u]a[/u], A is false, for by Rule [del]i[/del] [ins]ii[/ins] [del]or[/del] [ins]is[/ins] [del]ii[/del]

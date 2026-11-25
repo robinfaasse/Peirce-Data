@@ -1,0 +1,47 @@
+[pn]2[/pn]
+[u]Hudson's Bridge 1898 Feb 15[/u]
+
+I neglect the force resisting a horizontal displacement [del]of the truss[/del] [ins]at span[/ins]
+due to its not pressing vertically upon its piers.
+
+Consequently the displacements of the tower heads will be equal
+and opposite.
+
+The [del]degrees[/del] [ins]modes[/ins] of freedom are as follows.
+
+1[sup]st[/sup] The [del]pier[/del] [ins]tower[/ins] heads may move horizontally.
+
+2[sup]nd[/sup] Everyone of the 2[fraction]N/S[/fraction]+1 [del]suspend[/del] sections may move vertically
+
+3[sup]d[/sup] Every [del]one[/del] part of the 2[fraction]W/S[/fraction]+3 parts of the cable may stretch
+
+Although the cable is much stiffer elongationally (i.e. less extensible)
+where the suspenders are very short so that it is closely held to the
+truss, I think one may neglect this difference since it only affects
+a comparatively small part of the cable much and since the whole
+stretching of the cable under the live load is not very great. [ins]At any rate, one can make a separate calculation supposing only the straight end of the cable extensible[/ins]
+
+There are thus 4[fraction]N/S[/fraction]+6 degrees of freedom and there must be
+an equal number of equations.
+
+[fig]Diagram of bridge cable segments and forces[/fig] I, There are 2[fraction]N/S[/fraction]-2 equations equating to zero the
+variation of the energy due to changing two consecutive
+values of [del]s and[/del] [ins]and y[/ins] and no others, the tower heads
+moving
+
+II, There are 2[fraction]W/S[/fraction]-1 equations equating to zero
+the variation of the energy due to changing [del]a[/del] [ins]three[/ins]
+single [del]sub[/del] sections of cable without changing any
+other [del]s[/del] [ins]nor[/ins] any [del]θ[/del] [ins]θ[/ins].
+
+III, There are [del]two[/del] [ins]four[/ins] more equations like the last where
+[del]only[/del] [ins]in place of[/ins] one of the 3 sections is [del]the[/del] substituted the
+end straight piece
+
+IV, There is one equation where both [ins]the y[/ins] are
+vertically shifted without displacing tower heads.
+
+V, There are two equations where only one
+tower head is horizontally displaced
+
+So far 4[fraction]N/S[/fraction]+2 equations [del]Four[/del] [ins]Two[/ins] more are wanted

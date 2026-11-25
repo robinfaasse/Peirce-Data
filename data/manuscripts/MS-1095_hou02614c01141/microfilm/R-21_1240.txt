@@ -1,0 +1,21 @@
+$$x f_1(x+iy) + iy f_2(x+iy)$$
+$$+ x f_3(x-iy) - iy f_4(x-iy)$$
+
+$$D_x u = f_1 + x f_1' + iy f_2' + [del]x[/del] f_3 + x f_3' - iy f_4'$$
+$$D_x^2 u = 2 f_1' + x f_1'' + iy f_2'' + 2 f_3' + x f_3'' - iy f_4''$$
+$$D_y u = i x f_1' [del]+[/del] [ins]+[/ins] i f_2 - y f_2' - i x f_3' [del]-[/del] [ins]-[/ins] i f_4 - y f_4'$$
+$$D_y^2 = -x f_1'' [del]+[/del] [ins]+[/ins] 2 f_2' - iy f_2'' - x f_3'' - 2 f_4' + iy f_4''$$
+
+$$D_x^2 u + D_y^2 u = 2 f_1' - 2 f_2' + 2 f_3' - 2 f_4'$$
+
+$$= F_1(x+iy) + F_2(x-iy)$$
+
+$$D_x = F_1' + F_2'$$
+$$D_x^2 = F_1'' + F_2''$$
+$$D_y = i F_1' - i F_2'$$
+$$D_y^2 = -F_1'' - F_2''$$
+
+$$\begin{aligned}
+x - iy \\
+ix [del]+[/del] [ins]+[/ins] y
+\end{aligned}$$

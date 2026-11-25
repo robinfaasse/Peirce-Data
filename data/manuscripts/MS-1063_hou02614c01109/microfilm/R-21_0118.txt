@@ -1,0 +1,15 @@
+The angular force of restoration of the pendulum is $m \frac{g}{l} \varphi$ and therefore this must be the force applied to the and the linear force is therefore $\frac{g}{l} \varphi \Sigma mr$ and this must be the force acting on the fulcrum. Hence
+$$\frac{g}{l} \varphi \Sigma mr = e s$$
+and $s = \frac{g}{el} \Sigma mr \cdot \varphi$
+$$v = D_t s + l D_t \varphi = (1 + \frac{g}{el} \Sigma mr) l D_t \varphi$$
+$$T = \frac{1}{2} m (1 + \frac{g}{el} \Sigma mr)^2 (l D_t \varphi)^2$$
+$$D_{\varphi} T = m (1 + \frac{g}{el} \Sigma mr)^2 l^2 D_t \varphi$$
+
+Now
+The force of restoration is
+$$v = D_t s + l D_t \varphi$$
+[del]$T = \frac{1}{2} m (D_t s)^2 + 2 \dots$[/del]
+$$T = \frac{1}{2} m (D_t (s + l \varphi))^2$$
+$$D_{\varphi} T = m D_t (s + l \varphi)$$
+$$D_s T = m D_t (s + l \varphi)$$
+$$m D_t^2 (\frac{g}{el} \Sigma mr + l) \varphi =$$

@@ -1,0 +1,36 @@
+To find product of the two numbers
+represented
+[del]x² - px + q[/del]
+x² - (p + q) x + pq = 0   p   q
+y² - (r + s) y + rs = 0   r   s
+
+To find product of x = p y = q
+If p and q are both zero and so
+equal z = p q.
+In general z = p + q
+
+To find product of [del]x = p y[/del]
+x² - (p + q) x + pq  y = r
+The product is x² - (p + q + 2r) x + (p + r) (q + r)
+
+If x² - (2p + 3) x + p(p + 3) = 0
+y² = (2r + 1) x + r(r + 1) = 0
+
+1001
+11 11 z² - (4p + [del]4[/del]r + 8) z + [del](p+r)⁴ + 8(p+r)³[/del]
+p + r p + 3 [del]+[/del] [ins]r[/ins] [del]1[/del] p + r (p + r)² + (p + r)
+p + r + 1 p + r + 4 p + r + 1 (p + r) (p + r + 1) (p + r + 3) (p + r + 4)
+p + r + 3
+p + r + 4
+
+1001
+1001
+N 1001 If [del]x² + 2ax +[/del] x² - p² = 0
++ 1001 y² - q² = 0
+1001
+1001 p + q p² - q² z⁴ - 2 (p² + q²) z²
+[del]p² + 2pq + q²[/del] 101 p - q - p² + q²
+[del]p²[/del] p² + [del]q²[/del] + 2pq 100 01 [del]- p + q[/del] - p² + q² p⁴ - 2p²q² + q⁴
+p² + q² - 2pq p - q p² - q²
+- p² - 2pq - q²
+- p² + 2pq - q²

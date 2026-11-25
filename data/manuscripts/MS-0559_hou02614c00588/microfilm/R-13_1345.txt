@@ -1,0 +1,21 @@
+By the same rule we get
+[fig]Logic diagram showing X | P | X[/fig] logically necessary
+which is as much as to say that
+(2) [fig]Logic diagram showing X true, therefore P | X true[/fig]
+is a valid inference. That is any antecedent may be
+affixed to any true proposition.
+By the second [del]rule[/del] [ins]way[/ins] we get
+[del][fig]Logic diagram[/fig][/del]
+[fig]Logic diagram showing X | X | Y | Y[/fig] logically necessary,
+that is
+[fig]Logic diagram showing X | X | Y true, therefore Y true[/fig]
+is a valid inference. [del]Or generally[/del] That is, we have the general
+rule:
+(3) Any [del]true[/del] antecedental [ins]that is true[/ins] may be dropped.
+By the third way, we get
+[fig]Logic diagram showing X | Y | X | X[/fig] logically necessary,
+that is,
+[fig]Logic diagram showing X | Y | X true, therefore X true[/fig]
+is a valid inference. Or, as a general rule:
+(4) Any antecedental [ins]one of[/ins] whose antecedentals is the consequent
+may be dropped.

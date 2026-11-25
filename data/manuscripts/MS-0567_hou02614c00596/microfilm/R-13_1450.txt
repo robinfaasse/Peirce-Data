@@ -1,0 +1,7 @@
+$$\Pi_{a} \Sigma_{a} \Sigma_{d} \Pi_{b} \Pi_{e} \Sigma_{c} \Sigma_{f}$$
+$$u_{a} u_{d} \{ \overline{w_{b}} + \overline{w_{e}} + (\overline{r_{ab}} + u_{c} r_{acb} \overline{I_{ac}}) (\overline{r_{ade}} + u_{f} r_{afe} \overline{I_{df}}) \}$$
+
+We now assume the following
+$$\Pi_{m} \Pi_{n} \Pi_{p} \Pi_{q} \Sigma_{\delta} ( I_{mn} + I_{pq} + \overline{r_{mp}} \overline{r_{nq}} \overline{r_{mq}} \overline{r_{np}} ) .$$
+
+The truth of this is evident because one term consists wholly of r's, and this cannot be made to disappear in any power because the $\delta$ in the different factors would be discriminated unless all the letters were the same. Hence, elimination of $\delta$ must always evacuate the proposition.

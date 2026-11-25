@@ -1,0 +1,59 @@
+[pn]2[/pn]
+[pn]3[/pn]
+
+$R \text{ cosec } x$
+
+$\sin x = 0$
+$\sin x = 0 \text{ m=1}$
+
+$R_{n=0} = i \text{ cosec}(n\theta + i) = \frac{1}{\sin \theta + i}$ [del]$\frac{1}{\sin n\pi}$[/del]
+
+[u]$\neq 1$[/u]
+this will give foundation of
+very remarkable Theorem
+
+$\tan x = \infty$
+$\cot = 0$
+$n + \frac{\theta}{2}$ $m=1$
+
+$R = i \tan(x+i) = \frac{i}{\cot(x+i)} = \frac{i}{\sin^2 n + \frac{\theta}{2} + i}$
+
+$= -1$
+
+$\text{Cosec } x = \infty$
+
+$\sin x = 0$
+$x = 0$ $m=2$
+
+[marginalia]
+$\text{Cosec } x = \infty$
+[/marginalia]
+
+[del]$(R \text{ Cosec } x) = \frac{i}{\sin i} = \frac{1}{\cos i} = 1$[/del]
+
+$= 0$
+
+[del]$\frac{\sin i \text{ Cosec } i}{\cos i} = \frac{\sin i}{\cos i}$[/del]
+
+---
+
+$\neq x^2 \text{ cosec } x$
+
+$x = 0$ $m=3$
+$x = 0$ $m=1$
+
+$R = \frac{\theta_i^2 \frac{1}{\sin i}}{2} = \text{[del]$\theta_i^2 \frac{1}{\sin i}$[/del]} = \frac{7}{6}$
+
+[u]2[/u] IMPORTANT:
+Lecture XVIII.
+
+$\frac{f_z}{x^n}$ $f_z = \infty^m$
+
+$\frac{\text{[del]}D_i^{m-1}[/del] i^m f(x_0+i)}{(m-1)!}$
+
+$f_z (z-x_0)^m = F_z$
+when $z = x_0$ $F_z$ is finite
+
+$f_z = \frac{F_z}{(z-x_0)^m}$
+
+$i^m f(x_0+i) = F(x_0+i)$

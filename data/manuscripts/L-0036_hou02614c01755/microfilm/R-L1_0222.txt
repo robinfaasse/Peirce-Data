@@ -1,0 +1,53 @@
+definite sum under the same general term $u_x$ at unit intervals of $h$.
+
+We need only to expand the operator in powers of $\Delta_h$.
+
+This may be done by the infinitesimal calculus, or by ordinary algebra, the method of indeterminate coefficients being the simplest.
+
+The coefficients of the expansion constitute the famous "Numbers of Bernoulli", who was the first to investigate them.
+
+We will have by the binomial theorem, on putting for brevity $^n/_h$ equal to $t$ and $\Delta_h$ equal to $\Delta$,
+
+$$\frac{1}{(1+\Delta)^t - 1} = \frac{1}{t\Delta + \frac{t(t-1)}{1.2}\Delta^2 + \frac{t(t-1)(t-2)}{1.2.3}\Delta^3, \&c.}$$
+
+$$= \frac{1}{1 + \frac{(t-1)}{2}\Delta + \frac{(t-1)(t-2)}{6}\Delta^2} \cdot \frac{1}{t\Delta}$$
+
+And if we put
+
+$$\frac{1}{1 + \frac{(t-1)}{2}\Delta + \frac{(t-1)(t-2)}{6}\Delta^2 \&c.,} = a + b\Delta + c\Delta^2 + \&c.$$
+
+And clear of fractions by multiplying, and equate coefficients of $\Delta$, we easily find by ordinary algebra the values of $a, b, c,$ etc.
+
+Substituting these values we obtain after restoring the values $t = \frac{n}{h}$ and $\Delta = \Delta_h$, we have
+
+$$\Sigma_n \left| \begin{matrix} b-n \\ a \end{matrix} \right| u_x = \frac{1}{n} \left( \frac{\Delta_h}{h} \right)^{-1} \left\{ u_b - u_a \right\}$$
+
+$$- \frac{n-h}{2n} \left\{ u_b - u_a \right\}$$
+
+[pn]6[/pn]
+
+$$+ \frac{n^2 - h^2}{12n} \left( \frac{\Delta_h}{h} \right) \left\{ u_b - u_a \right\}$$
+
+$$- \frac{(n^2 - h^2)h}{24n} \left( \frac{\Delta_h}{h} \right)^2 \left\{ u_b - u_a \right\}$$
+
+$$- \frac{(n^2 - h^2)(n^2 - 19h^2)}{720n} \left( \frac{\Delta_h}{h} \right)^3 \left\{ u_b - u_a \right\} \&c.$$
+
+If $h$ is finite we have $\left\{ \frac{\Delta_h}{h} \right\}^{-1} = h\Sigma_h$; if infinitesimal $\int dx$.
+
+If in this general equation we make the unit interval of the required series $^1/_n$ and the unit interval of the known series ($h$) equal to unity, we will have Lubbock's formula,
+
+$$\Sigma^1/_n \left| \begin{matrix} b-^1/_n \\ a \end{matrix} \right| u_x = \left\{ n\Sigma + \frac{n-1}{2} - \frac{n^2-1}{12n}\Delta + \frac{n^2-1}{24n}\Delta^2 \right.$$
+
+$$\left. - \frac{(n^2-1)(19n^2-1)}{720n^3}\Delta^3 \&c. \right\} \left\{ u_b - u_a \right\}$$
+
+If we make the unit interval of the required series $^1/_n$ and that of the known series ($h$) infinitesimal, then will also $\Delta_h$ be infinitesimal, and we will have Woolhouse's formula.
+
+$$\Sigma^1/_n \left| \begin{matrix} b-^1/_n \\ a \end{matrix} \right| u_x = \left\{ n\int dx - \frac{n-1}{2} + \frac{1}{12n}\left(\frac{d}{dx}\right) - \frac{1}{720n^3} \right.$$
+
+$$\left. \left(\frac{d}{dx}\right)^3 + \&c. \right\} \left( u_b - u_a \right)$$
+
+It will be noted that we have here used nothing but very simple algebraic processes, in fact nothing but ordinary algebraic multiplication and division. There is no integration in this process.
+
+If we recur to the general form of the summation, we have
+
+[pn]7[/pn]

@@ -1,0 +1,36 @@
+If $O^A - A^O = O^C - C^O$ Then since
+
+$(O^A - A^O) : (O^C - C^O) = (O^A - A^O)^{[O_C] O_A} : (O^C - C^O)^{[O_A] O_C}$
+
+which follows immediately from the above. [del]Is[/del] If we make
+
+$(O^A - A^O) = (O^C - C^O)^{O_A}$ which cannot affect the value of $\frac{(O^A - A^O)^{O_C}}{O^A - A^O}$
+
+this gives
+
+$(O^C - C^O)^{O_A} : (O^C - C^O) = (O^A - A^O)^{[O_C] O_A} : (O^A - A^O)^{O_C}$
+
+and as this [del]any[/del] taking B such that $O^B - B^O$ has a numerical
+
+relation to [del]$(O^A - A^O)$[/del] has a fixed relation to $(O^B - B^O)^{O_C}$ [del]is[/del] [del]so[/del]
+
+$\frac{(O^A - A^O)^{O_C}}{O^A - A^O} = \frac{(O^C - C^O)^{O_A}}{O^C - C^O}$
+
+
+[u]Demonstration of theorem[/u].
+
+$A^C - C^A = (A^B - B^A)^{Ac} + (B^C - C^B)^{CA}$
+
+$B^A - A^B = (B^C - C^B)^{BA} + (C^A - A^C)^{AB}$
+
+[del]$A^C - B^C = (C^A - A^C)^{AB} + (A^B - B^A)^{BC}$[/del]
+
+$\frac{(B^A - A^B)^{Bc}}{B^A - A^B} = \frac{(B^C - C^B)^{BA}}{B^C - C^B}$
+
+$\frac{(C^B - B^C)^{CA}}{C^B - B^C} = \frac{(C^A - A^C)^{CB}}{C^A - A^C}$
+
+$\frac{(A^C - C^A)^{AB}}{A^C - C^A} = \frac{(A^B - B^A)^{Ac}}{A^B - B^C}$
+
+Reducing, we have
+
+$(A^C - C^A)^2 + (B^C - C^B)^2 = (A^B - B^A)^2 + 2 (B^C - C^B) (A^C - C^A) \frac{(A^C - C^A)^{CB}}{A^C - C^A}$

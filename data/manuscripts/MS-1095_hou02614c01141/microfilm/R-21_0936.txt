@@ -1,0 +1,34 @@
+$$dp = \rho D_t (-\Theta r d\theta - R dr)$$
+
+$$p = \rho D_t \{ - \int \Theta r d\theta - \int R dr \}$$
+
+$$\int R dr = \bar{\omega}^{int} \cos\theta \left( -\frac{1}{2} \frac{a^2}{r} (1-ac) + \frac{1}{2} (1+ac) a + C \right)$$
+
+[del]R =[/del]
+
+$$\chi = \bar{\omega}^{int} \sin\theta (cr)$$
+
+$$R = c \bar{\omega}^{int} \cos\theta$$
+
+$$\Theta = - c \bar{\omega}^{int} \sin\theta$$
+
+This is to suppose all the air to be fixed and move along with the cylinder
+
+$$\frac{A}{a} + Ba = ac$$
+
+$$-\frac{A}{a^2} + B = c$$
+
+$$-\frac{A}{a} + Ba = ac$$
+
+$$B = c$$
+$$A = 0$$
+
+$$\int R dr = R r = c \bar{\omega}^{int} r \cos\theta$$
+
+$$\int \Theta r d\theta = - c \bar{\omega}^{int} r \cos\theta$$
+
+$$p = \rho 2 c \dot{in} \bar{\omega}^{int} r \cos\theta$$
+
+[del]$\chi$[/del] [del]a dl[/del] [ins]$\pi$[/ins] [del]$\int \cos\theta$[/del] $\pi$ $2 c \dot{in} r$
+
+$\pi a^2 dl$ [del]$D_t \xi$[/del]

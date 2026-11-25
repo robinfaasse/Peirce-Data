@@ -1,0 +1,50 @@
+[fig]Perspective sketch of a pyramid and lines[/fig]
+
+[fig]Perspective sketch of a pyramid[/fig]
+
+[fig]Sketch of intersecting lines and curves[/fig]
+
+[fig]Sketch of a triangle with lines and points[/fig]
+
+[fig]Small circle with inscribed cross[/fig]
+
+[marginalia]
+[fig]Sketch of intersecting lines[/fig]
+[del]x = 1[/del]
+x = 0
+y = 0
+[/marginalia]
+
+[del]S[/del] [del]xy + yz + zx[/del]
+
+[del]S[/del]xy + yz + [del]S[/del]zx = 0
+
+[del]S[/del]y + [del]S[/del]z + [del]S[/del]z = 0
+
+(S - [del]S[/del])y - [del]S[/del]z = 0
+
+y = 0
+
+S - [del]S[/del] = y
+
+[del]S[/del]
+
+[del]S[/del] - 1 + [del]S[/del] + [del]S[/del]
+
+[del]S[/del] - [del]S[/del] / 1 - S - [del]S[/del] = y
+
+[del]S[/del]xy + yz + [del]S[/del]zx = 0
+
++ [del]S[/del]y - [del]S[/del]z = 0
+
+[del]S[/del]y + [del]S[/del]z = 0
+
+z = [del]S[/del]/[del]S[/del] y
+
+[del]S[/del]y - [del]S[/del]y - [del]S[/del]yz + yz + [del]S[/del]yz - [del]S[/del]z - [del]S[/del]yz
+
+[del]S[/del] - [del]S[/del] - [del]S[/del] + [del]S[/del] - [del]S[/del]y - [del]S[/del]/[del]S[/del] + [del]S[/del]
+
+2 = 4 (2 + [del]S[/del]/[del]S[/del] - [del]S[/del]/[del]S[/del])
+
+y = 2 / 2 + [del]S[/del]/[del]S[/del] + [del]S[/del]/[del]S[/del] = 2[del]S[/del] / 2[del]S[/del] + [del]S[/del] + [del]S[/del] / 1 - [del]S[/del] - [del]S[/del] = 2[del]S[/del] / 1 + [del]S[/del] / [del]S[/del]/[del]S[/del] = 1/[del]S[/del] + 1

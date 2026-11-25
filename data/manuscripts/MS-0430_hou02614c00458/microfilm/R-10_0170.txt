@@ -1,0 +1,26 @@
+[marginalia]
+[pn]Logic[/pn]
+[pn]III[/pn]
+[pn]27[/pn]
+[/marginalia]
+
+Now we will consider any man, no matter who. Let
+D be the 'value' of the proposition that this man is one
+of the directors in our problem; [del]S[/del] [ins]for let S[/ins] be the 'value' of the propo-
+sition that the same man is a shareholder; and let B
+be the value of the proposition that this man is a bondholder.
+
+Then the graph [fig]oval containing DSB[/fig] expresses that this proposition
+that this man is [del]at once director, stockholder, and bondholder[/del] [ins]no matter who our man is,[/ins]
+is not true; that is, as premised, no director is both stock-
+holder and bondholder, and the graph
+
+[fig]oval containing DSB and oval containing BD[/fig]
+
+expresses in addition, that our man (whoever he may be)
+is not a bondholder without being a director. That is, as
+stated, every bondholder is on the board. By Rule IV, we iterate
+the left hand graph in the inner enclosure of the right
+hand graph, thus:
+
+[fig]oval containing DSB, B, and oval containing D and DSB[/fig]

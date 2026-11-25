@@ -1,0 +1,38 @@
+[pn]13[/pn]
+[u]On Multitude[/u]
+
+former. That is
+(24) If $x \prec y$, then $\overline{y} \prec \overline{x}$.
+
+[u]Arithmetical Relations[/u]. A number with indices attached to it not
+fewer than that number, means that the objects denoted by those indices
+form a collection of that [del]num[/del]ber of different things existing in the
+universe of discourse. But the only relations required are the following:
+
+$0$ means [del]a[/del] [ins]the[/ins] [del]proposition[/del] essentially (i.e. by definition) false, of
+which one expression is "[del]whatever[/del] [ins]something[/ins] is false is true."
+
+$0_{x}$ [del]means[/del] "$x$ does not exist."
+
+$1_{x}$ means "$x$ is an existing thing" but it will be best to write this $1_{xx}$;
+
+$1_{xy}$ means "$x$ is identical with $y$."
+
+$2_{xy}$ means "$x$ is not $y$"
+
+Instead of $\overline{0}$, the sign $\succ$ Taurus, or any of the signs of the zodiac may
+be used. For for certain purposes it is advantageous to have a number
+of [del]signs[/del] equivalent signs for $\overline{0}$.
+
+It will be observed that $\overline{0}_{x} = 1_{x}$, $\overline{1}_{xy} = 2_{xy}$, $\overline{2}_{xyz} = 3_{xyz} + 1_{xyz}$, etc.
+
+For all numbers higher than $1$, we have equations like the following:
+
+$3_{abcd} = (3_{abc} + 3_{abd} + 3_{acd} + 3_{bcd}) \cdot (\overline{3}_{abc} + \overline{3}_{abd}) \cdot (\overline{3}_{abc} + \overline{3}_{acd}) \cdot (\overline{3}_{abc} + \overline{3}_{bcd}) \cdot (\overline{3}_{abd} + \overline{3}_{acd}) \cdot$ [del]etc[/del]
+
+But it is not true that $1_{xy} = (1_{x} + 1_{y}) \cdot (\overline{1}_{x} + \overline{1}_{y})$; because $1_{x}$ is absurd, and
+nothing involves an absurdity if there is any possible interpretation not absurd;
+while for all higher numbers than $1$, there is no relation [ins]implied in the counting[/ins] that does not consist
+of relations of pairs.
+
+These relations are subject to the following conditions

@@ -1,0 +1,59 @@
+$$x^2 - 2\alpha x + \alpha^2 + y^2 - 2\beta y + \beta^2$$
+$$= a^2x^2 + 2abxy + b^2y^2 + 2acx + 2bcy + c^2$$
+$$(a^2-1)x^2 + 2abxy + (b^2-1)y^2 + 2(ac+\alpha)x$$
+$$+ 2(bc+\beta)y$$
+$$+ c^2-\alpha^2-\beta^2$$
+
+[del]$$A^2x^2 + 2xy + B^2y^2 + Cx + Dx + E = y$$[/del]
+
+$$\frac{a-\frac{1}{a}}{b} = A \quad \frac{b-\frac{1}{b}}{a} = B \quad \frac{c+\frac{\alpha}{a}}{b} = C \quad \frac{c+\frac{\beta}{b}}{a} = D$$
+
+$$\frac{(a+1)(a-1)}{ab} = A^2 \quad \frac{(b+1)(b-1)}{ab} = B^2$$
+
+$$\frac{(a+1)(a-1)}{A^2} = \frac{(b+1)(b-1)}{B^2} = ab$$
+
+[del]$$\frac{a^2-1}{A^2} = ab$$[/del]
+$$\frac{a^2-1}{A^2} = ab$$
+$$a^2 - \frac{b}{A^2}a = 1$$
+
+$$(a^2-1)(b^2-1) = A^2B^2a^2b^2$$
+
+$$B^2 = (A+1)(C+1)$$
+$$r^2B^2 = (rA+1)(rC+1)$$
+$$= r^2AC + r(A+C) + 1$$
+
+$$\frac{1}{r^2} + \frac{1}{r}(A+C)$$
+$$\frac{1}{r^2} + \frac{1}{r}(A+C) + AC = B^2$$
+$$\frac{1}{r^2} + \frac{1}{r}(A+C) = B^2 - AC$$
+$$\frac{1}{r^2} + \frac{1}{r}AC + \frac{1}{4}C^2 = B^2 + \frac{(A-C)^2}{4}$$
+$$\left[\frac{1}{r} + \frac{(A+C)}{2}\right]^2 = B^2 + \frac{(A-C)^2}{4}$$
+$$\frac{1}{r} = -\frac{A+C}{2} \pm \sqrt{B^2 + \frac{(A-C)^2}{4}}$$
+
+$$Ax^2 + 2Bxy + Cy^2 + Dx + Ey + F = 0$$
+$$\sqrt{(A+1)(C+1)} = B$$
+$$A = a^2-1 \quad B = ab \quad D = ac+\alpha \quad F = c^2-\alpha^2-\beta^2$$
+$$C = b^2-1 \quad E = bc+\beta$$
+$$A+C+2(1+B) = (a+b)^2$$
+$$A+C+2(1-B) = (a-b)^2$$ [fig]triangle[/fig]
+$$a = \sqrt{A+1}$$
+$$b = \sqrt{C+1}$$
+$$B = \sqrt{AC}$$
+$$\alpha^2 = (D-ac)^2$$
+$$\beta^2 = (E-bc)^2$$
+$$aD = abc + \alpha b$$
+$$(D+x)(E+\beta) = B\{F+\alpha^2+\beta^2$$
+$$bE = abc + a\beta$$
+$$(a-b)D =$$
+
+$$c^2 = F + \alpha^2 + \beta^2 = F + (D-ac)^2 + (E-bc)^2$$
+$$= F + D^2 - 2\sqrt{A+1}Dc + (A+1)c^2$$
+$$+ E^2 - 2\sqrt{C+1}Ec + (C+1)c^2$$
+
+$$(A+C+1)c^2 - 2(\sqrt{A+1}D + \sqrt{C+1}E)c = -F - D^2 - E^2$$
+
+[del]$$(D-ac)^2$$[/del]
+$$F + (D-ac)^2 + (E-bc)^2 = c^2$$
+$$c^2(1-a^2-b^2) + 2(aD+bE)c = F + D^2 + E^2$$
+
+$$a^2+b^2 = A+C+2$$
+$$a^2+b^2-1 = A+C+1$$

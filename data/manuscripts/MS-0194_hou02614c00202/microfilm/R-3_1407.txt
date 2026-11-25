@@ -1,0 +1,30 @@
+[marginalia]
+[pn]15[/pn]
+[/marginalia]
+
+[del]\cos (\theta - \omega) = \cos \theta \cos \omega + \sin \theta \sin \omega[/del]
+But [del]\omega = \theta (1 - \frac{l}{R})[/del]
+[del]\sin \theta \sin \omega = \theta^2 (1 - \frac{l}{R})[/del]
+[del]\cos (\theta - \omega) = 1 + \frac{1}{2} \theta^2 - \theta^2 \frac{l}{R} = 1 + \theta^2 (1 - 2 \frac{l}{R})[/del]
+[ins]= 1 - \frac{1}{2} \theta^2 (2 \frac{l}{R} - 1)[/ins]
+
+[fig]Right triangle with curved hypotenuse[/fig]
+
+[del]l = L - \frac{1}{2} \theta^2 (2 \frac{l}{R} - 1) \frac{3 g m}{E}[/del]
+
+Equation of circle
+[del](\ell \cos \theta + \Delta)^2 + \ell^2 \sin^2 \theta = R^2[/del]
+[del]\ell^2 + 2 \ell \cos \theta \Delta + \Delta^2 = R^2[/del]
+(\ell \cos \theta + \Delta)^2 = R^2 - \ell^2 \sin^2 \theta = R^2 (1 - \frac{\ell^2}{R^2} \sin^2 \theta)
+\ell \cos \theta + \Delta = R [del]- \frac{1}{2} \frac{\ell^2}{R} \sin^2 \theta[/del]
+\ell - \frac{1}{2} \ell \theta^2 + \Delta = R - \frac{1}{2} \frac{\ell^2}{R} \theta^2
+\ell = R - \Delta + \frac{1}{2} \theta^2 (1 - \frac{\ell}{R}) \ell
+
+\therefore \frac{3 g m}{E} = R nearly
+
+D_t^2 s = - \frac{\sin \theta}{\cos \omega} g - (D_t (\theta - \omega))^2 \tan \omega [del]\frac{3 g m}{E}[/del]
+
+[del]\sin (\theta - \omega) = \sin \theta \cos \omega - \cos \theta \sin \omega[/del]
+\theta - \omega
+
+[del]\frac{2}{1000}[/del] \frac{1}{500}

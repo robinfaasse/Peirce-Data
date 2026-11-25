@@ -1,0 +1,29 @@
+mathematicians (beginning with Leibniz [date]1693[/date]) in writing
+[del]the four equations[/del] as follows:
+
+$$\left| \begin{matrix} +6 & , & +6 & , & +6 & , & +6 \\ +8 & , & +3 & , & -12 & , & -7 \\ +4 & , & -9 & , & -24 & , & -7 \\ 0 & , & -3 & , & 0 & , & y \end{matrix} \right| = 0.$$
+
+Such an array [ins]as the first member[/ins] is called a [u]determinant[/u].
+
+If the four equations were all divided by $w'$, they then would
+contain three [del]unknown[/del] quantities $\frac{x'}{w'}$, $\frac{y'}{w'}$, $\frac{z'}{w'}$. The first
+[del]three equations[/del]
+
+Going back for a moment to the original three equa-
+tions in $x, y, z$
+$$3x + 2y + z = 6$$
+$$4x - y - 2z = -7$$
+$$2x + 3y - 4z = -7$$
+
+If we had subtracted 3 times the [del]third[/del] [ins]second[/ins] from [del]twice[/del] [ins]four times[/ins] the first we should have got
+$$-5y + 10z = 45.$$
+
+If we had subtracted twice the third from the second we should [del]have[/del]
+got
+$$-7y + 6z = 7.$$
+
+If we had then subtracted 5 times the last from 3 times the last but
+one we should have got
+$$20y = 100,$$
+or dividing by 20
+$$y = 5.$$

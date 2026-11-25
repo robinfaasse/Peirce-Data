@@ -1,0 +1,90 @@
+[marginalia]MS 1170[/marginalia]
+
+system I have made some [del]revision[/del] [ins]revisions[/ins] of my ideas as to the
+[del]proper use of this word in logic. In Greek it means the result of[/del]
+[del]of the operation of σύστασις and Aristotle commonly uses the[/del]
+[del]latter word to denote this result as well as the operation. Now[/del]
+[del]σύστασις[/del] is simply the noun of action of συνίστημι to
+[del]put[/del] [ins]set[/ins] together, to compose. Therefore anything composite
+would be called a σύστημα. Nevertheless as a matter of
+fact σύστημα occurs in [del]much[/del] narrower [del]sens[/del] range of
+meaning than σύστασις, owing perhaps to its being a
+rather unusual word. None of these words cuts any figure
+in Plato.
+
+[fig]Line segment with endpoints a and b[/fig]
+[fig]Triangle with vertices a, b, c[/fig]
+
+$$\begin{array}{c}
+\text{a b} \\
+\text{b a} \\
+\text{2}
+\end{array}$$
+
+$$\begin{array}{c}
+\text{c d e} \\
+\text{d e c} \\
+\text{e c d} \\
+\text{3}
+\end{array}$$
+
+$$\begin{array}{c}
+\text{2 . 3} \\
+\text{5 . 3}
+\end{array}$$
+
+[fig]Directed graph with 5 vertices[/fig]
+
+$$\begin{array}{c}
+\text{a b c d e a} \\
+\text{a b d e c a} \\
+\text{a b e c d a} \\
+\text{a c d b e a} \\
+\text{a c e b d a}
+\end{array}$$
+
+[fig]Directed graph with 5 vertices and outer circular arcs[/fig]
+
+$$\begin{array}{c}
+\text{1 1 1 1 1} \\
+\text{2 2 2 2 2} \\
+\text{3 3 3 3 3} \\
+\text{4 4 4 4 4} \\
+\text{5 5 5 5 5}
+\end{array}$$
+
+$$\begin{array}{c}
+\text{5} \\
+\underline{\text{3}} \\
+\text{8}
+\end{array}$$
+
+$$\begin{array}{c}
+\text{1 2 1 3 3} \\
+\text{1 3 3 1 2} \\
+\text{2 1 3 3 1} \\
+\text{2 2 2 2 2} \\
+\text{3 3 3 3 3}
+\end{array}$$
+
+[fig]Directed graph with 5 vertices forming a star[/fig]
+
+$$\begin{array}{c}
+\text{a b c d e} \\
+\text{a c}
+\end{array}$$
+
+$$\begin{array}{c}
+\text{1 2 1 3 3} \\
+\text{2 3 2 4 4} \\
+\text{3 4 3 5 5} \\
+\text{4 5 4 0 0} \\
+\text{5 0 5 1 1}
+\end{array}$$
+
+$$\begin{array}{c}
+\text{a c d b e} \\
+\text{2 1 3 3 1}
+\end{array}$$
+
+[fig]Three connected nodes[/fig]

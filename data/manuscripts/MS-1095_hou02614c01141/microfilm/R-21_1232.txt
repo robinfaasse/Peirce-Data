@@ -1,0 +1,47 @@
+If we put
+$$F_3 s = \log (s+ai) + \log (s-ai),$$
+so that
+$$q F_3 s = q \log (s+ai) + q \log (s-ai),$$
+we get
+[del]$$D_s (q F_3 s) = \frac{q}{s+ai} + \frac{q}{s-ai}$$[/del]
+[del]$$D_q D_s (q F_3 s) =$$ and[/del]
+$$s F_4 q = s \log (q+ai) + s \log (q-ai)$$
+
+we have
+$$-v = D_x \chi = F_1' s + F_2' q + \log (s+ai) + \log (q-ai)$$
+$$+ \frac{q}{s+ai} + \frac{s}{q-ai}$$
+
+$$\sqrt{s^2+q^2} = r$$
+[del]$\arctan \frac{y}{x} = \theta$[/del]
+[del]$r (\cos \theta + \sin \theta i + ai) = x +$[/del]
+$$r (\cos \theta - \sin \theta i) = q$$
+
+$$\log r + \arctan \frac{\sin \theta + \frac{a}{r}}{\cos \theta} i$$
+[del]$$\log r + \arctan \frac{\sin \theta + \frac{a}{r}}{\cos \theta} i$$[/del]
+
+[del]$$\frac{q}{s+ai} =$$[/del] $s+a = r \cos \theta + r \sin \theta i + ai$
+$$r_1 = \sqrt{r^2 [del]\cos^2 \theta[/del] + 2 a r \sin \theta + a^2}$$
+
+[del]$$s+a$$[/del]
+$$q-a = r \cos \theta - r \sin \theta - ai$$
+
+$$\frac{q}{s+ai} + \frac{s}{q-ai}$$
+$$\frac{q^2 + s^2 + (s-q)ai}{r^2}$$
+
+$$\frac{A^2 + 2ABi - B^2}{A^2 - 2ABi - B^2}$$
+
+[marginalia]
+$$\log A+Bi = \frac{1}{2} \log (A^2+B^2) + \arctan \frac{B}{A} i$$
+[/marginalia]
+
+[marginalia]
+$$\frac{1}{s+ai}$$
+$$\frac{1}{A+Bi} = \frac{1}{\sqrt{A^2+B^2}}$$
+[fig]curved line[/fig]
+$$\frac{1}{R(\cos \theta + \sin \theta i)}$$
+$$\frac{\cos \theta - \sin \theta i}{R}$$
+$$(\cos \theta - \sin \theta i)^2$$
+$$\cos 2\theta - \sin 2\theta i$$
+$$\frac{A+Bi}{A-Bi}$$
+$$\frac{A^2+B^2}{}$$
+[/marginalia]

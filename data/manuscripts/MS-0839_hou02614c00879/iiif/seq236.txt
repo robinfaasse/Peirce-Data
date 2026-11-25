@@ -1,0 +1,25 @@
+839
+
+only so that
+$l \cdot s \cdot b$ means $\Pi_i [del]\Sigma_j[/del] l_{ij} \cdot s_{ij} \cdot b_{ij}$
+
+$(ls) \cdot b$ means $\Pi_i \Pi_j$
+
+$ls \cdot b$ means $\Pi_i \Sigma_j l_{ij} \cdot s_{ji} \cdot b_{ii}$
+
+$l(s \cdot b)$ means $\Pi_i \Sigma_j l_{ij} \cdot s_{ji} \cdot b_{ji}$
+
+$l + s + b$ means $\Pi_i l_{ii} + s_{ii} + b_{ii}$
+
+$l+s + b$ means $\Pi_i \Pi_j l_{ij} + s_{ji} + b_{ii}$
+
+$l+(s+b)$ means $\Pi_i \Pi_j l_{ij} + s_{ji} + b_{ji}$
+
+
+$t \propto t l$
+$t \propto t ( t + \breve{t} )$
+$t \propto t t + \breve{t}$ $1 \propto t$ $tt \propto t$
+$[del]ttt \propto t[/del] [del]tt \propto[/del]$ $t \propto tf$
+$\frac{o}{t} \propto \overline{t}$
+$t \propto tt$ $tt \propto t$
+$tn \propto n$

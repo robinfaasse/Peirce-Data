@@ -1,0 +1,18 @@
+[u]Solution to Question 5[/u] (248)
+
+By first and comparison of the three equations it is very evident that
+[del]y &[/del] z are nearly 5, 3, and 1 respectively. Let then
+$x = 5 + x_1$          $y = 3 + y_1$          $z = 1 + z_1$
+our equations become     $300 x_1 + 150 x_1^2 + 20 x_1^3 + y_1 = 0$
+                         $10.8 y_1 + 5.4 y_1^2 + 1.2 y_1^3 + y_1^4 + z_1 = 0$
+                         $4 z_1 + 6 z_1^2 + 4 z_1^3 + z_1^4 + x_1 = 0$
+which give $x_1 = 0$, $y_1 = 0$, $z_1 = 0$
+and therefore $x = 5$, $y = 3$, $z = 1$.
+
+[u]Solution to Question 6[/u] (249)
+
+The product of the second and third equations divided by $v$ times the first is
+$z = \frac{m}{z}$ or $z = \sqrt{m} = xy = \frac{y^2}{v}$
+Hence $yv = px$ or $y^2 \sqrt{m} = \frac{my}{p}$
+$y = \frac{\sqrt{m}}{p}$
+$v = \frac{m}{p^2}$     $x = \frac{\sqrt{m}}{p^2}$

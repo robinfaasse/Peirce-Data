@@ -1,0 +1,8 @@
+one preceding it is $\frac{F_4}{F_3} = \frac{14}{5}$, we naturally [del]will[/del] [ins]reduce[/ins] the intermediate ones to a fraction with $6$ for its denominator. Finding $\frac{F_5}{F_4} = \frac{18}{6}$, we see that the numerators are in arithmetical progression, and continuing this we expect to find $\frac{F_3}{F_2} = \frac{10}{4}$ $\frac{F_2}{F_1} = \frac{6}{3}$, $\frac{F_1}{F_0} = \frac{2}{2}$. All these are verified. And so in the other direction we expect to find $\frac{F_7}{F_6} = \frac{26}{8}$ $\frac{F_8}{F_7} = \frac{30}{9}$, $\frac{F_9}{F_8} = \frac{34}{10}$, all of which can be verified.
+
+In this way, we soon find
+$$F_n = \frac{(2n)!}{n! (n+1)!}.$$
+
+It remains to trace the connection between this formula and the equation of differences, which is somewhat difficult.
+
+Suppose that in writing the form, before we write any letters, we put down all the punctuation marks superordinate to the first letter

@@ -1,0 +1,23 @@
+[del][fig]scribble[/fig][/del] $D^0 = (1-x^2)^{\frac{1}{2}}$
+
+$D^1 = [del]x[/del] -x(1-x^2)^{-\frac{1}{2}}$
+
+$D^2 = -(1-x^2)^{-\frac{1}{2}} - x^2(1-x^2)^{-\frac{3}{2}}$
+
+$D^3 = [del]2[/del]3x(1-x^2)^{-\frac{3}{2}} - 3x^3(1-x^2)^{-\frac{5}{2}}$
+
+$D^4 = -2(1-x^2)^{-\frac{3}{2}} - [del]15[/del][ins]9[/ins]x^2(1-x^2)^{-\frac{5}{2}} - 15x^3(1-x^2)^{-\frac{7}{2}}$
+
+$D^5 = -36x(1-x^2)^{-\frac{5}{2}} - [del]120[/del][ins]45[/ins]x^3(1-x^2)^{-\frac{7}{2}} - [del]105[/del][ins]105[/ins]x^5(1-x^2)^{-\frac{9}{2}}$
+
+$D^6 = -36(1-x^2)^{-\frac{5}{2}} - [del]540[/del][ins]360[/ins]x^2(1-x^2)^{-\frac{7}{2}} - [del]1365[/del][ins]525[/ins]x^4(1-x^2)^{-\frac{9}{2}} - 945x^6(1-x^2)^{-\frac{11}{2}}$
+
+$D^7 = -180x(1-x^2)^{-\frac{7}{2}} - \dots$
+
+$\frac{1080}{1260}$
+
+$1 - \frac{1}{2!}x^2 - \frac{2}{4!}x^4 - \frac{[del]18[/del][ins]36[/ins]}{6!}x^6 - \frac{[del]\frac{1260}{1260}[/del][ins]\frac{1260}{1260}[/ins] \begin{array}{r} 1260 \\ 1260 \\ \underline{180} \end{array}}{8!} \dots$
+
+$\frac{1}{2} \qquad \frac{1}{12} \qquad \frac{1}{20}$
+
+$1246$

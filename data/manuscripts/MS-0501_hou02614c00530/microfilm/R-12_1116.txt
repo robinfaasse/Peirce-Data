@@ -1,0 +1,25 @@
+[pn]10[/pn]
+
+[u]Theorem VII[/u]. Whatever $i, a, e$ may be, if either $e$ or both $i$ and
+$a\hat{c}e$, then $(i\hat{c}a)\hat{c}e$.
+
+[u]Proof[/u]. For, by Clause 1, if $e$ then $(i\hat{c}a)\hat{c}e$. Consequently,
+it will be sufficient to prove that if $i$ and $a\hat{c}e$ then either $e$
+or $(i\hat{c}a)\hat{c}e$. For this purpose, [ins]assume[/ins] suppose that $i, a, e$ are any
+such things that, $1^{\text{st}}$, $i$; and $2^{\text{nd}}$, $a\hat{c}e$. Then, I have only to show
+that either $e$ or $(i\hat{c}a)\hat{c}e$. By Clause 2,
+[del](No 1)[/del] [del]If, then[/del] Either $i\hat{c}a$ or $(i\hat{c}a)\hat{c}e$
+
+By Clause 3
+(No 2) If $a$ and $a\hat{c}e$, then $e$
+(No 3) If $i$ and $i\hat{c}a$, then $a$.
+
+By (No 2) and the $2^{\text{nd}}$ assumption, if $a$ then $e$; whence, by No 3, if
+$i$ and $i\hat{c}a$, then $e$; whence, by the $1^{\text{st}}$ assumption, if $i\hat{c}a$ then $e$;
+whence by (No 1) either $e$ or $(i\hat{c}a)\hat{c}e$. Q.E.D.
+
+[u]Corollary 3[/u]. Hence, [u]à fortiori[/u], if both $a\hat{c}e$ and either $i$ or $e$, then
+$(i\hat{c}a)\hat{c}e$.
+
+[u]Scholium[/u]. This is the most difficult of all the theorems
+of this section, and may be considered as the key to the subject.

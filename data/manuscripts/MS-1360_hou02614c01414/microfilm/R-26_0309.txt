@@ -1,0 +1,56 @@
+[pn]14[/pn]
+Report on Morrison's Bridge
+
+[u]$+ \frac{1}{2} \frac{g}{l} \int (\frac{dx}{dl} \sqrt{1 + (\frac{dy}{dx})^{2}} - 1)^{2} dl + \frac{1}{2} \frac{g}{l'} \int (\frac{d(x'-x_{0})}{dl'} \sqrt{1 + \frac{d(y-y_{0})^{2}}{d(x'-x_{0})^{2}}} - 1)^{2} dl'$[/u]
+$+ \frac{1}{2} E (\eta_{0}^{2} + \eta_{00}^{2}) + \frac{1}{2} \Upsilon (\xi_{0}^{2} + \xi_{00}^{2}) + \frac{1}{2} \varepsilon \int (\frac{d^{2}\eta}{d\xi^{2}})^{2} d\xi$ [del][fig]crossed out sketch[/fig][/del]
+$+ \frac{1}{2} \upsilon (\frac{d\xi'}{d\xi} - 1)^{2} d\xi' - \int q \eta d\eta$
+
+The condition of equilibrium is that every variation of this shall vanish. That is,
+
+[del]$0 = \frac{g}{l} \dots$[/del]
+
+$0 = \frac{g}{l} \frac{\sqrt{x_{0}^{2}+y_{0}^{2}} + \frac{1}{l} x_{0}' x_{0} \sqrt{1 + \frac{y_{0}'^{2}}{x_{0}'^{2}}} - 1}{\sqrt{x_{0}^{2}+y_{0}^{2}}} (x_{0} \delta x_{0} + y_{0} \delta y_{0}) + \frac{g}{l'} \frac{\sqrt{(x_{0}'-x_{00})^{2}+y_{00}^{2}} + \frac{1}{l'} [del]x_{0}'[/del] [ins]$x_{0}'$[/ins] \sqrt{1 + \frac{y_{00}^{2}}{(x_{0}'-x_{00})^{2}}} - 1}{\sqrt{(x_{0}'-x_{00})^{2}+y_{00}^{2}}}$
+$- (x_{0}'-x_{00}) \cdot$
+$(x_{0}' \delta x_{00} + y_{00} \delta y_{00}) - e (\frac{dx}{dl} \sqrt{1 + (\frac{dy}{dx})^{2}} - 1) \frac{1}{\frac{dx}{dl} \sqrt{1 + (\frac{dy}{dx})^{2}}} \frac{d^{2}x}{dl^{2}} \int \delta y \cdot dr$
+$- (\frac{dg}{dl'} \sqrt{1 + \frac{d(y-y_{0}+y_{00})^{2}}{d(x'-x_{0})^{2}}} - 1) \frac{1}{\frac{d(x'-x)}{dl'} \sqrt{1 + \frac{d(y-y_{0}+y_{00})^{2}}{d(x'-x)^{2}}}} \frac{d^{2}(x'-x)}{dl'^{2}} \int (\delta \xi - \delta x) \cdot dr \cdot [del]\frac{1}{2} \frac{v}{l} (\frac{d\xi'}{d\xi} - 1)^{2} \frac{d\xi'}{d\xi}[/del]$
+$+ E \eta_{0} \delta \eta_{0} + E \eta_{00} \delta \eta_{00} + \Upsilon \xi_{0} \delta \xi_{0} + \Upsilon \xi_{00} \delta \xi_{00} + \varepsilon \frac{d^{4}\eta}{d\xi^{4}} \int \delta \eta \cdot d\xi$
+$- \upsilon (\frac{d\xi'}{d\xi} - 1) \frac{d^{2}\xi'}{d\xi^{2}} \int \delta \xi \cdot d\xi - q \int \delta \eta d\eta$.
+
+[fig]sketch of a bridge support[/fig]
+
+This is equivalent to the following equations
+
+[fig]sketch of a bridge support[/fig]
+
+[marginalia]
+$dx' = dp$
+$dx'^{2} = dp^{2} \frac{y'_{i}}{x'_{i}}^{2}$
+$dx'^{2} = dp^{2} \frac{y'_{i}}{x'_{i}}^{2}$
+[/marginalia]
+
+[marginalia]
+$\frac{1}{2} \frac{v}{l} \int \frac{(d\xi - dx')^{2}}{dy^{2}}$
+[/marginalia]
+
+[marginalia]
+$+ \eta \eta$
+$" \quad "$
+[/marginalia]
+
+[del]$u_{i} - 2u_{i-1} + u_{i-2}$[/del]
+[del]$u_{i} - 2u_{i-1}$[/del]
+[del]$u_{i}$[/del]
+[del]$u_{i-1}$[/del]
+[del]$u_{i-2}$[/del]
+[del]$u_{i-1}$[/del]
+[del]$u_{i}$[/del]
+
+[del]$u_{i} \delta u_{i} \frac{(du_{i}) - (u_{i}) \delta u_{i} du}{u_{i} \delta u_{i} du}$[/del]
+
+[del]$v_{i} - 2v_{i-1} + v_{i-2}$[/del]
+[del]$v_{i+1} - 2v_{i} + v_{i-1}$[/del]
+
+$\int u \delta u \cdot dw = u_{i} [del]\delta[/del] [ins]$\delta$[/ins] ( [del]$u_{i+2} - 2u_{i+1} + v_{i}$[/del] ) $dw$
+[del]$+ u_{i}$[/del]
+[del]$- 2u_{i-1}$[/del]
+[del]$u_{i}$[/del] $di$

@@ -1,0 +1,98 @@
+[del]$\sin^2 \eta = \frac{\sin 51^\circ}{\sqrt{\sin^2 \varphi - \cos^2 51^\circ}}$[/del]
+$\sin^2 \eta = \frac{\sin^2 51^\circ}{\sin^2 \varphi - \cos^2 51^\circ}$
+$\cos^2 \eta = \frac{\cos^2 \varphi}{\sin^2 \varphi - \cos^2 51^\circ}$
+$\sin^2 \eta = \frac{\sin^2 \varphi}{\sin^2 51^\circ}$
+$\sin \eta = \frac{\cos \varphi}{\sin 51^\circ}$
+
+$0.3056544$
+
+$\begin{array}{r}
+6427876 \\
+\underline{6292104} \\
+0135772 \\
+\underline{12721080} \\
+\end{array}$
+
+$\begin{array}{r}
+5.1292773 \\
+\underline{7.1045240} \\
+1.9752467 \\
+\underline{8.2338013} \\
+9.1169006 \\
+\underline{0.33040} \\
+0.30563 \\
+1.97523
+\end{array}$
+
+$\begin{array}{r}
+9.7988718 \\
+\underline{9.8080615} \\
+0.0091957
+\end{array}$
+
+$y = \log (1 + \sin \eta) \sec \eta$ [del]$\frac{\sin \varphi}{\cos \varphi} + \gamma$[/del]
+
+$= \log \left(1 + \frac{\cos \varphi}{\sin 51^\circ}\right) \frac{\sin 51^\circ}{\sqrt{(\sin \varphi - \cos 51^\circ)(\sin \varphi + \cos 51^\circ)}}$
+
+$= \log \frac{\frac{\cos 39^\circ}{\sin 51^\circ} + \cos \varphi}{\frac{\cos 39^\circ}{\cos 51^\circ} + \sin \varphi}$
+
+$\begin{array}{r}
+98762 \\
+\underline{107152} \\
+8390
+\end{array}$
+
+$\begin{array}{r}
+9.8905026 \\
+\underline{9.1169006} \\
+0.7736020 \\
+9.1263910
+\end{array}$
+
+$= \log \frac{\cos \frac{1}{2}(39^\circ + \varphi) \cos \frac{1}{2}(39^\circ - \varphi)}{\sin \frac{1}{2}(39^\circ + \varphi) \cos \frac{1}{2}(39^\circ - \varphi)}$
+
+$= \log \cot (\frac{1}{2}(39^\circ + \varphi))$
+
+$= \log \tan (90^\circ - \frac{1}{2}(39^\circ + \varphi))$
+
+$= \log \tan (45^\circ + \frac{1}{2}(90^\circ - 39^\circ - \varphi))$
+
+$= \log \tan (45^\circ + \frac{1}{2}(51^\circ - \varphi))$
+
+[fig]sketch of a face[/fig]
+
+$\begin{array}{r}
+39 \\
+\underline{79} \\
+39
+\end{array}$
+
+$.083896$
+
+$\begin{array}{r}
+\cos \eta \quad 9.884254 \\
+\sin 51^\circ \quad \underline{9.89050} \\
+9.99375 \\
+\underline{0.29792} \\
+0.18842 \\
+\underline{0.10452} \\
+08390
+\end{array}$
+
+$\begin{array}{r}
+\tan \eta \quad 9.80807 \\
+\underline{9.79887} \\
+0.00920 \\
+\underline{0.30565} \\
+0.10452
+\end{array}$
+
+$\sin \eta = \cos \eta$
+
+$\sin 51^\circ \cos \eta$
+
+$\begin{array}{r}
+8390 \\
+\underline{7380} \\
+01010
+\end{array}$

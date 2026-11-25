@@ -1,0 +1,24 @@
+if $a$ and $b$ are true, $c$ is true. Hence, by prop. I,
+if $b$ is true $a \prec c$ is true, and $b \prec a \prec c$ is true.
+Thus [del]the first two antecedents of a proposition[/del]
+[del]may[/del] [ins]the first two antecedents of a proposition may[/ins] be interchanged, and by the repetition of this
+operation any permutation whatever may be effected.
+
+<u>Rule 2: the principle of contraposition.</u> If $a$ is an
+antecedent, $c$ the consequent of any proposition, then
+[del]for[/del] [ins]in place of[/ins] [del]of[/del] $a$ and $c$ respectively we may put
+$c \prec x$ and $a \prec x$, whatever expression $x$ [del]may[/del] [ins]f[/ins] [ins]may[/ins] be.
+For, suppose we have the proposition $a \prec c$, then
+we can write $(c \prec x) \prec (a \prec x)$. For by prop II, if $a \prec c$
+is true and $a$ is true $c$ is true; and if $c \prec x$ is true
+and $c$ is true $x$ is true. [del]Hence[/del] [ins]Thus[/ins], if [del]$a \prec c$[/del] [ins]$a$[/ins] and $c \prec x$
+are true, if $a$ is true $x$ is true, in which case, by
+prop. I, we can write $a \prec x$. Thus, if we have
+$a \prec c$ given, if $c \prec x$ is true $a \prec x$ is true, and hence,
+by prop I, $(c \prec x) \prec (a \prec x)$ is true. Q.E.D.
+
+A corollary from this rule is that if for $A$ in
+the consequent of any proposition we have a right to sub-
+stitute $B$, then always in the antecedent of a proposition
+we have the right to substitute $A$ for $B$, and in an
+antecedent under any odd number of parentheses.

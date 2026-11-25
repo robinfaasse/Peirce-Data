@@ -1,0 +1,25 @@
+[marginalia]
+Attraction
+2
+[/marginalia]
+
+(3) Let the acceleration toward the centre be [fraction]k/r³[/fraction]. Then
+since an acceleration is of the dimensions [ L T[superscript]-2[/superscript] ], k
+will be of the dimensions [ L[superscript]4[/superscript] T[superscript]-2[/superscript] ]. Note that k depends
+solely on the fact of the attraction, and is not affected by
+the special circumstances of the case. It is positive.
+
+(4) As a preliminary experiment, imagine the particle
+to be shot straight away from the centre along a radius, but
+not with sufficient initial velocity to carry it to an
+infinite distance.
+
+(5) In this case the equation of the motion will be
+[fraction]d²r/dt²[/fraction] = - [fraction]k/r³[/fraction]
+That is there is a retardation, or acceleration toward the
+centre, tending ultimately to diminish r.
+
+(6) A common formula is [del]d²u/dv²[/del] [ins][fraction]d²u/dv²[/fraction] = [fraction]1/2[/fraction] [fraction]d/du[/fraction] ([fraction]du/dv[/fraction])²[/ins].
+It is shown to be true thus:
+[del][fraction]d/du[/fraction] ([fraction]du/dv[/fraction])² = [fraction]d/du[/fraction] ([fraction]du/dv[/fraction]) ([fraction]du/dv[/fraction])[/del]
+[fraction]d/dv[/fraction] ([fraction]du/dv[/fraction])² = [fraction]d/du[/fraction] ([fraction]du/dv[/fraction])² [fraction]du/dv[/fraction] = [fraction]d/du[/fraction] ([fraction]du/dv[/fraction]) x 2 [fraction]du/dv[/fraction] =

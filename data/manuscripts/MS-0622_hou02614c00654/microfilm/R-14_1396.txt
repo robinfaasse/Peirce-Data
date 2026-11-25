@@ -1,0 +1,26 @@
+[marginalia]
+[pn]1909 May 30[/pn] [pn]5:30 AM[/pn]
+MEANING
+[u]Pragmaticism[/u]
+[pn]46[/pn]
+[/marginalia]
+
+I have now stated the main feature of this algebra, and I
+will show how he made use of it to draw necessary conclusions.
+
+Let [u]x[/u] and [u]y[/u] be the [ins]logical[/ins] "values" of two different propositions, then
+
+(1) [del]([u]x[/u]-f)([u]y[/u]-t)=0[/del] ([u]x[/u]-t)([u]v[/u]-[u]y[/u])=0
+
+implies that either [del][u]v[/u]-f=0, or[/del] [ins][u]x[/u]-t=0 or [u]x[/u]=t and[/ins] [del][u]v[/u]-y=0[/del] [ins][u]x[/u]=v, or [u]x[/u] is false, or [u]v[/u]-[u]y[/u]=0, and [u]y[/u] is true[/ins],
+or both; (but I shall invariably use "or" as admitting the possibility of both alternatives).
+Thus the equation is equivalent to the assertion that if [u]x[/u] is true, so is [u]y[/u]. In
+like manner, the equation
+
+(2) ([u]y[/u]-t)([u]v[/u]-[u]z[/u])=0
+
+will express that if [u]y[/u] is true so is [u]z[/u]. Now multiply the equation [del]numbered[/del]
+(1) [del]by[/del] [ins]into[/ins] ([u]v[/u]-[u]z[/u]). This [del]will be[/del] [ins]is[/ins] since zero multiplied [ins]into[/ins] [del]by[/del] any quantity yields zero,
+as the product gives
+
+(3) ([u]x[/u]-t)([u]v[/u]-[u]y[/u])([u]v[/u]-[u]z[/u]) = 0

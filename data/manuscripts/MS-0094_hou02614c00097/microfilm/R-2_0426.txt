@@ -1,0 +1,35 @@
+[pn]48[/pn] PLANE GEOMETRY. [CH. X. § 167.
+
+[u]To find a Fourth proportional to three given Lines.[/u]
+
+$$C'D' : D'B = CD : DE = n : o ;$$
+
+or, as they may be written for brevity,
+
+$$AC' : C'D' : D'B = m : n : o.$$
+
+165. *Problem.* To find a line, to which a given line $AB$ (fig. 93) has a given ratio, as that of the lines $m$ to $n$; in other words, to find the fourth proportional to the three lines $m$, $n$, and $AB$.
+
+*Solution.* Draw the indefinite line $AD$, take
+
+$$AC = m, \quad AD = n.$$
+
+Join $CB$, draw $DE$ parallel to $BC$, and $AE$ is the required line.
+
+*Proof.* For, by § 160,
+
+$$AB : AE = AC : AD = m : n.$$
+
+166. *Corollary.* By making $n$ equal to $AB$ in the preceding solution, we find a third proportional to the two lines $m$ and $AB$.
+
+167. *Problem.* To divide one side $BC$ (fig. 94), of a triangle $ABC$ into two parts proportional to the other two sides.
+
+*Solution.* Draw the line $AD$ to bisect the angle $BAC$, and $D$ is the required point of division, that is,
+
+$$BD : DC = AB : AC.$$
+
+*Proof.* Produce $BA$ to $E$, making $AE$ equal to $AC$. Join $CE$.
+
+Then the angles $ACE$ and $AEC$ are equal, by § 55; and the exterior angle $CAB$ of the triangle $ACE$ is equal to $ACE + AEC$, or to $2\ CEA$, and, as $DAB$ is half of $BAC$, we have
+
+$$DAB = \frac{1}{2}\ (2\ CEA) = CEA ;$$

@@ -1,0 +1,102 @@
+[pn]133[/pn]
+[del]94[/del]
+
+[pn]PEIRCE: On the Logic of Number.[/pn]
+
+every number as small as $y$ is $c$ of a number as small as $x$; and it follows that
+every number as small as $y$ is $c_{1}$'d by a number. It follows further that every
+number $c_{1}$ of a number as small as $y$ is $c_{1}$ of something $c_{1}$'d by (that is, $c_{1}$ being a
+relative of simple correspondence, is identical with) some number as small as $x$.
+Also, "as small as" being a transitive relative, every number as small as a number
+$c$ of a number as small as $y$ is as small as $x$. Now by the 4th proposition $y$ is
+as great as any number that is $c$ of a number as small as $x$, so that what is not
+as small as $y$ is not $c$ of a number as small as $x$; whence whatever number is $c$'d
+by a number not as small as $y$ is not a number as small as $x$. But by the 2d
+proposition every number as small as $x$ not $c$'d by a number not as small as $y$ is
+$c$'d by a number as small as $y$. Hence, every number as small as $x$ is $c$'d by a
+number as small as $y$. Hence, every number as small as a number $c_{1}$ of a number
+as small as $y$ is $c_{1}$ of a number as small as $y$. Moreover, since we have shown
+that every number as small as $x$ is $c_{1}$ of a number as small as $y$, the same is true
+of $x$ itself. Moreover, since we have seen that whatever is $c_{1}$ of a number as
+small as $y$ is as small as $x$, it follows that whatever is not as great as a number
+$c_{1}$ of a number as small as $y$ is not as great as a number as small as $x$; i. e. ("as
+great as" being a transitive relative) is not as great as $x$, and consequently is not
+$x$.[ins]$\times$[/ins] We have now shown[ins]$\dagger$[/ins]
+
+[u]1st[/u], that every number as small as $y$ is $c_{1}$'d by a number;
+
+[u]2d[/u], that every number as small as a number that is $c_{1}$ of a number as small
+as $y$ is itself $c_{1}$ of a number as small as $y$;
+
+[u]3d[/u], that the number $x$ is $c_{1}$ of a number as small as $y$; and
+
+[u]4th[/u], that whatever is not as great as a number that is $c_{1}$ of a number as
+small as $y$ is not $x$.
+
+These four propositions taken together satisfy the definition of the number
+of numbers as small as $y$ counting up to $x$.
+
+Hence, since the number of numbers as small as one cannot in any count
+be greater than one, it follows that the number of numbers as small as any
+number greater than one cannot in any count be one.
+
+[marginalia]28[/marginalia] Suppose that there is a count in which the number of numbers as small as
+$1 + m$ is found to be $1 + n$, since we have just seen that it cannot be 1. In this
+count, let $m'$ be the number which is $c$ of $1 + n$, and let $n'$ be the number which
+is $c$'d by $1 + m$. Let us now consider a relative, $e$, which differs from $c$ only
+in excluding the relation of $m'$ to $1 + n$ as well as the relation of $1 + m$ to $n'$
+
+[marginalia]$\times$ [ins]$\dagger$[/ins] This long proof is quite unnecessary. The whole
+thing depends on Fermat's mode of reasoning
+[del]but[/del] or De Morgan's [u]syllogism of transposed relation[/u][/marginalia]
+
+[page break]
+
+[pn]134[/pn]
+[del]95[/del]
+
+[pn]PEIRCE: On the Logic of Number.[/pn]
+
+and in including the relation of $m'$ to $n'$. Then $e$ will be a relative of single
+correspondence; for $c$ is so, and no exclusion of relations from a single corres-
+pondence affects this character, while the inclusion of the relation of $m'$ to $n'$
+leaves $m'$ the only $e$ of $n'$ and an $e$ of $n'$ only. Moreover, every number as small
+as $m$ is $e$ of a number, since every number except $1 + m$ that is $c$ of any-
+thing is $e$ of something, and every number except $1 + m$ that is as small as
+$1 + m$ is as small as $m$. Also, every number as small as a number $e$'d by a
+number is itself $e$'d by a number; for every number $c$'d is $e$'d except $1 + m$, and
+this is greater than any number $e$'d. It follows that $e$ is the basis of a mode of
+counting by which the numbers as small as $m$ count up to $n$. Thus we have
+shown that if in any way $1 + m$ counts up to $1 + n$, then in some way $m$ counts
+up to $n$. But we have already seen that for $x = 1$ the number of numbers as
+small as $x$ can in no way count up to other than $x$. Whence it follows that the
+same is true whatever the value of $x$.[ins]$\times$[/ins]
+
+[marginalia]289[/marginalia] If every $S$ is a $P$, and if the $P$'s are a finite lot counting up to a number
+as small as the number of $S$'s, then every $P$ is an $S$. For if, in counting the
+$P$'s, we begin with the $S$'s (which are a part of them), and having counted all the
+$S$'s arrive at the number $n$, there will remain over no $P$'s not $S$'s. For if there
+were any, the number of $P$'s would count up to more than $n$. From this we
+deduce the validity of the following mode of inference:
+
+Every Texan kills a Texan,
+Nobody is killed by but one person,
+Hence, every Texan is killed by a Texan,
+
+supposing Texans to be a finite lot.[ins]$\times$[/ins] For, by the first premise, every Texan killed
+by a Texan is a Texan killer of a Texan. By the second premise, the Texans
+killed by Texans are as many as the Texan killers of Texans. Whence we
+conclude that every Texan killer of a Texan is a Texan killed by a Texan, or,
+by the first premise, every Texan is killed by a Texan. This mode of reasoning
+is frequent in the theory of numbers.
+
+[marginalia]$\times$ [fig]hand pointing right[/fig] [del]Now[/del] [ins]$\times$[/ins] Note. — It may be remarked that when we reason that a certain proposition, if false of any number,
+is false of some smaller number, and since there is no number (in a semi-limited system) smaller than
+every number, the proposition must be true, our reasoning is a mere logical transformation of the
+reasoning that a proposition, if true for $n$, is true for $1 + n$, and that it is true for 1.[/marginalia]
+
+[marginalia]$\times$ [u]Fermat[/u][/marginalia]
+
+[marginalia]7[/marginalia]
+
+[fig]checkmark[/fig]

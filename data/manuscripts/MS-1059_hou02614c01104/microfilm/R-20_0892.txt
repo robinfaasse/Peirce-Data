@@ -1,0 +1,19 @@
+$$\cos a = \cos b \cos c + \sin b \sin c \cos A$$
+
+$$\frac{1 - \tan^{2} \frac{1}{2} a}{1 + \tan^{2} \frac{1}{2} a} = \frac{1 - \tan^{2} \frac{1}{2} b}{}$$
+
+$$\frac{1 - \alpha^{2}}{1 + \alpha^{2}} = \frac{1 - \beta^{2}}{1 + \beta^{2}} \frac{1 - \gamma^{2}}{1 + \gamma^{2}} + \frac{2 \beta}{1 + \beta^{2}} \frac{2 \gamma}{1 + \gamma^{2}} \frac{1 - A^{2}}{1 + A^{2}}$$
+
+$$1 - \frac{2}{\frac{1}{\alpha^{2}} + 1} = \frac{\begin{array}{c} [del](1 - \beta^{2})(1 - \gamma^{2}) - 2(\beta - \gamma)^{2}[/del] \\ [del]+ [ (1 - \beta^{2})(1 - \gamma^{2}) + 4 \beta \gamma ] A^{2}[/del] \end{array} + \begin{array}{c} [del](1 + \beta^{2})(1 + \gamma^{2})[/del] 2(\beta + \gamma)^{2} \\ [del]+ [ (1 - \beta^{2})(1 - \gamma^{2}) + 4 \beta \gamma ] A^{2}[/del] \end{array}}{(1 + \beta^{2})(1 + \gamma^{2})(1 + A^{2})}$$
+
+[marginalia]
+$$\begin{array}{c} 1 + \beta^{2} + \gamma^{2} + \beta^{2}\gamma^{2} \\ [del]- 1 - \beta^{2} - \gamma^{2} + \beta^{2}\gamma^{2}[/del] \\ \hline 2\beta^{2} + 2\gamma^{2} \end{array}$$
+
+$$\begin{array}{c} 1 + \beta^{2} + \gamma^{2} + \beta^{2}\gamma^{2} \\ - \beta^{2} - 2\gamma^{2} + 4\beta\gamma \\ \hline 1 - \beta^{2} - \gamma^{2} + \beta^{2}\gamma^{2} \end{array}$$
+[/marginalia]
+
+$$\frac{(1 + \beta^{2})(1 + \gamma^{2})(1 + A^{2})}{2(\beta - \gamma)^{2} + 2(\beta + \gamma)^{2} A^{2}} = \frac{1}{\alpha^{2}} + 1$$
+
+$$\frac{(1 + \beta^{2})(1 + \gamma^{2}) - 2(\beta - \gamma)^{2} + \left[ (1 + \beta^{2})(1 + \gamma^{2}) - 2(\beta + \gamma)^{2} \right] A^{2}}{2(\beta - \gamma)^{2} + 2(\beta + \gamma)^{2} A^{2}}$$
+
+$$\alpha^{2} = \frac{1}{\frac{(1 + \beta^{2})(1 + \gamma^{2})(1 + A^{2})}{2(\beta - \gamma)^{2} + 2(\beta + \gamma)^{2} A^{2}} - 1}$$

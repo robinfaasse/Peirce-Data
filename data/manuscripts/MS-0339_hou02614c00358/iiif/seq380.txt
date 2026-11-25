@@ -1,0 +1,36 @@
+205r
+
+DEC 16 1901
+
+That if p < q < r then q < p < r
+is proved as follows
+By (17) Either p or q < p < r
+By C If p then q < r
+But by C if q < r then if q then r when by B p < r and q < p < r
+But by A either q or q < p < r
+[u]                                                                                                    [/u]
+Probably the best way is one of these
+[del]1st[/del] [del]X[/del] By C If p and p < q < r then if p, q < r
+By C If q and q < r then r
+[therefore] If p and q and p < q < r, then r when by B p < r and q < p < r
+[fig]figure[/fig] By A But either q or q < p < r
+By A either p or p < r when by B q < p < r
+[u]                                                                                                    [/u]
+This involves the theorem
+If p and q and [del]then q < p < r[/del]
+then [del]if[/del] q < p < r
+[u]                                                                                                    [/u]
+2[ins]nd[/ins] If p < q < r
+Either p or q < p < r by (17)
+[fig]figure[/fig] If p [del]then q < r[/del]
+Now either q or q < p < r
+But if q then r when p < r and q < p < r
+[u]                                                                                                    [/u]
+From (10) with A x B If s < t and t < u then s < u
+[therefore] also if s < t (t < u) < (s < u)
+if t < u (s < t) < (s < u)
+
+If (s < t) < p [del]v[/del] t < u
+s < u
+(s < t < p) < q
+(s < u < p) < q

@@ -1,0 +1,21 @@
+839
+
+$u_{g}v + u_{.}v = uv$
+
+$(u_{g}v) \times (v_{.}u) = (u_{.}v) \times (v_{g}u)$
+
+$\{u_{g}(u + v)\} \times \{(u + v)_{.}u\} = \{u_{.}(u + v)\} \times \{(u + v)_{g}u\}$
+$\{u_{g}u + u_{g}v\} \times \{u_{.}u + v_{.}u\} = \{u_{.}u + u_{.}v\} \times \{u_{g}u + v_{g}u\}$
+
+[del]$(u_{g}u)(u_{.}u) + (u_{g}u) \times (v_{.}u) + (u_{g}v)(u_{.}u) + (u_{g}v)(v_{.}u)$[/del]
+[del]$= (u_{.}u)(u_{g}u) + (u_{g}u) \times (u_{.}v) + (v_{g}u)(u_{.}u) + (v_{g}u)(u_{.}v)$[/del]
+
+Suppose $v$ infinitesimal
+$(u_{g}u)(u.v - v.u) = (u.u)(u_{g}v - v_{g}u)$  But if $u^2$ vanishes eq.
+is
+$u^2 = puv + qvu$                     $(u_{g}v)(v_{.}u) = (v_{g}u)(u.v)$
+$u^2 = p(uv - vu)$
+
+P .    Q .
+
+[fig]sketch of points P and Q with lines and curves[/fig] [fig]venn-like diagram of two overlapping ovals[/fig]

@@ -1,0 +1,29 @@
+[pn]Logic[/pn]
+[pn]III[/pn]
+[pn]42[/pn]
+
+[u]$V_x \cdot V_y$[/u] , [u]$V_x \cdot f_y$[/u] , [u]$f_x \cdot V_y$[/u] , [u]$f_x \cdot f_y$[/u]
+
+These should be imagined to be arranged thus
+
+[fig]Cross diagram with VxVy, Vxfy, fxVy, fxfy at the corners[/fig]
+
+But the usual way is to write a pair of equations one over the other, thus:
+
+$\begin{matrix} x = V \\ y = V \end{matrix}$
+$\begin{matrix} x = f \\ y = V \end{matrix}$
+$\begin{matrix} x = V \\ y = f \end{matrix}$
+$\begin{matrix} x = f \\ y = f \end{matrix}$
+
+These may be arranged thus:
+
+[fig]Cross diagram with equations at the corners[/fig]
+
+If two sets of values be admitted, they may, in the first place, be such as to fix the value of one quantity, while leaving the other indeterminate. Since the quantity fixed may receive either of two values, but not both, and since either of the two quan-tities may be fixed, but not both (if only two sets of values are excluded), it follows that there will be $2 \times 2$, or 4, informations of this kind. These remain, then, $6 - 4$, or 2, informa-tions that admit two and exclude two sets of values, which are not of this simple kind. They will be iconized in the diagrams following where the excluded sets have their places obliterated.
+
+[fig]Cross diagram with top-left and bottom-right corners blacked out[/fig]
+[fig]Cross diagram with top-right and bottom-left corners blacked out[/fig]
+
+[u]Mariotte's[/u]
+
+That is the former admits $V_x V_y$ and $f_x f_y$, the latter $V_x f_y$ and $f_x V_y$. The former is well expressed by [del]Mariotte's[/del] sign $x = y$. The usual way of expressing the

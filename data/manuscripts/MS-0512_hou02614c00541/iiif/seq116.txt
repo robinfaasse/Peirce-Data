@@ -1,0 +1,23 @@
+FL [line] 96
+indices denoting qualities. They would not be wanted, if we were
+dealing with dyadic relations only. For example, in order to ex-
+press that there is a woman [ins]who,[/ins] for every way of pairing each horse
+with a man, [del]who[/del] [ins]ex[/ins]praises that horse to that man, we write
+$$\Pi_{\alpha}\Sigma_{1}\Pi_{2}\Sigma_{3}\Pi_{4}\Pi_{5}\Pi_{6}\ \ h_1 \cdot \left(\overline{h}_{\alpha 12} + \overline{m}_{2} + \Upsilon_{\alpha 13} \cdot T_{23}\right) + w_4 \left(p_{456} + \overline{h}_{5} + \overline{m}_{6}\right)$$
+$$+ \overline{\Upsilon}_{\alpha 56}$$
+The qualities and relations are mathematical entities introduced
+solely with a view to expressing assertions of this form, and conse-
+quently the hypotheses concerning them cannot find expression in
+the algebra, except so far as [del]this to[/del] [ins]some an[/ins] assertion of this form
+can be [u]otherwise[/u] expressed. We can write
+$$\Sigma_{\alpha}\Pi_{i}\ q_{\alpha i}\ \ \ \Sigma_{\alpha}\Pi_{i}\ \overline{q}_{\alpha i}$$
+[del]$$\Pi_{\alpha}\Pi_{i}\Sigma_{\beta}$$[/del] $\Pi_{i}\Pi_{j}\ \Sigma_{\alpha}\ q_{\alpha i} \cdot \overline{q}_{\alpha j} + 1_{ij}\ \ \ \Pi_{i}\Pi_{j}\Pi_{\alpha}\ T_{ij} + q_{\alpha i} + \overline{q}_{\alpha j}$
+(These last constitute the definition of identity merely.)
+$$\Pi_{\alpha}\Pi_{i}\ \Sigma_{\beta}\ \Pi_{j}\ \ \overline{q}_{\alpha i} \cdot \left(q_{\beta j} \cdot q_{\alpha j} + \overline{q}_{\beta j} \cdot 1_{ij} + \overline{q}_{\beta i} \cdot \overline{q}_{\alpha i} \cdot T_{ij}\right)$$
+$$+ q_{\alpha i} \cdot \left(1_{ij} \cdot \overline{q}_{\beta j} + T_{ij} \cdot q_{\alpha j} \cdot q_{\beta j} + T_{ij} \cdot \overline{q}_{\alpha i} \cdot q_{\beta i}\right)$$
+$$\Pi_{\alpha}\Pi_{\beta}\ \Sigma_{\gamma}\ \Pi_{i}\ \ q_{\alpha i} \cdot q_{\gamma i} + q_{\beta i} \cdot q_{\gamma i} + \overline{q}_{\alpha i} \cdot \overline{q}_{\beta i} \cdot \overline{q}_{\gamma i}$$
+$$\Pi_{\alpha}\Sigma_{\beta}\Pi_{i}\ \ q_{\alpha i} \cdot \overline{q}_{\beta i} + \overline{q}_{\alpha i} \cdot q_{\beta i}$$
+Since these propositions and their consequences are all the properties
+of qualities we can exactly state, it may strongly be argued that this
+is all we can possibly mean. If there is any argument against innumerable
+or postnumeral collections, it must be based on this.

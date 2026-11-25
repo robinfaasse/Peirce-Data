@@ -1,0 +1,30 @@
+[pn]89[/pn]
+
+Hence we write
+$$\Pi_{\alpha} \Sigma_{i} q_{\alpha i} \qquad \text{and } \overline{\Pi_{\alpha} \Sigma_{i} \overline{q}_{\alpha i}}$$
+where $\alpha$ belongs to the universe of qualities neither absurd nor necessary.
+And in like manner
+$$\Pi_{\alpha} \Pi_{i} \Pi_{j} \Sigma_{k} r_{\alpha i j k} \quad \text{etc. and } \overline{\Pi_{\alpha} \Pi_{i} \Pi_{j} \Sigma_{k} \overline{r}_{\alpha i j k}} \text{ etc.}$$
+where there is nothing peculiarly necessary nor impossible about any
+of the indices. So too,
+$$\begin{aligned}
+\Pi_{i} \Sigma_{\alpha} q_{\alpha i} \qquad &\text{and } \overline{\Pi_{i} \Sigma_{\alpha} \overline{q}_{\alpha i}} \\
+\Pi_{i} \Pi_{j} \Sigma_{\alpha} r_{\alpha i j} \quad &\text{etc. and } \overline{\Pi_{i} \Pi_{j} \Sigma_{\alpha} \overline{r}_{\alpha i j}} .
+\end{aligned}$$
+[del]But[/del] And so likewise
+$$\begin{aligned}
+\Pi_{\alpha} \Pi_{i} \Sigma_{\beta} r_{\alpha \beta i} \qquad &\text{and } \overline{\Pi_{\alpha} \Pi_{i} \Sigma_{\beta} \overline{r}_{\alpha \beta i}} \\
+\text{and } \qquad \Pi_{\alpha} \Pi_{i} \Pi_{j} \Sigma_{\beta} r_{\alpha \beta i j} \quad &\text{and } \overline{\Pi_{\alpha} \Pi_{i} \Pi_{j} \Sigma_{\beta} \overline{r}_{\alpha \beta i j}}
+\end{aligned}$$
+Since $\alpha$ can be any character (not peculiarly necessary nor impossible)
+let us so take it that
+$$r_{\alpha \beta i j} = r_{\beta i} \cdot r_{\beta j} \qquad \text{or} \qquad r_{\beta i} \cdot \overline{r}_{\beta j}$$
+and we have
+$$\Pi_{i} \Pi_{j} \Sigma_{\beta} r_{\beta i} \cdot r_{\beta j} \quad \text{and } \overline{\Pi_{i} \Pi_{j} \Sigma_{\beta} r_{\beta i} \cdot \overline{r}_{\beta j}}$$
+But the last proposition would be selfcontradictory unless $j$ were restricted
+to being other than $i$; so that we must write for it
+$$\Pi_{i} \Pi_{j} \Sigma_{\beta} r_{\beta i} \cdot (\overline{r}_{\beta j} + 1_{i j})$$
+So in the other proposition $\Pi_{i} \Pi_{j} \Sigma_{\beta} r_{\beta i} \cdot r_{\beta j}$, it must be understood
+that $i$ and $j$ must not be the very reverse of one another in all respects.
+We thus see that such a proposition as $\Pi_{\alpha} \Pi_{i} \Pi_{j} \Sigma_{\beta} r_{\alpha \beta i j}$ will mean
+very little when we undertake to bring it down to a special case.

@@ -1,0 +1,20 @@
+and the square is equivalent to
+$(\Psi_j \Psi_k u_{1j} u_{1k})^* (\Psi_j \Psi_k u_{2j} u_{2k})^*$ etc.
+If then we write $w$ for $u_n$, we see that
+$\Phi_i \Psi_j u_{ij} \prec \Phi_i \Psi_j \Psi_k (u_{ij} u_{ik})$
+provided
+$\Psi_j w_j \prec \Psi_j \Psi_k w_j w_k$.
+Now this proposition does hold, whether
+$\Psi$ be $\Sigma$ or $\Pi$; [del]for[/del] [ins]for[/ins]
+$\Sigma_j w_j = w_1 + w_2 + w_3 + \text{etc}$
+$\Sigma_j \Sigma_k w_j w_k = w_1 w_1 + w_1 w_2 + w_1 w_3 + \text{etc}$
+$+ w_2 w_1 + w_2 w_2 + w_2 w_3 + \text{etc}$
+$+ w_3 w_1 + w_3 w_2 + w_3 w_3 + \text{etc}$
+$+ \text{etc.}$
+and
+$w_1 = w_1 w_1$, $w_2 = w_2 w_2$, $w_3 = w_3 w_3$, etc.
+And also
+$\Pi_j w_j = w_1 w_2 w_3 \text{ etc}$
+$\Pi_j \Pi_k w_j w_k = w_1 w_1 . w_1 w_2 . w_1 w_3 \text{ etc}$
+$w_2 w_1 . w_2 w_2 . w_2 w_3 \text{ etc}$
+$\text{etc.}$

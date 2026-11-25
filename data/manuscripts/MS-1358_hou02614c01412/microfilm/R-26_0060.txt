@@ -1,0 +1,118 @@
+[date]1898 Sep 17[/date] St. Lambert's Day
+
+Have a fever. Am very ill, since several days. Can
+hardly force myself to sit up to the table.
+
+I have gone over the formulae without finding any error.
+I will now look for errors in the signs and decimal
+places. -
+
+[fig]heart with 1 inside[/fig] -.0233 [fig]heart with 2 inside[/fig] -.00686 [fig]heart with 3 inside[/fig] +.0302
+[fig]heart with 4 inside[/fig] +.0631 [fig]heart with 5 inside[/fig] +.129 [fig]heart with 6 inside[/fig] -.192
+
+[del]So = +.0655[/del]
+
+[u]x₀ = 0.766[/u]
+[u]x₁ = 12.454[/u]
+11.688
+
+y₀ = 0.020
+[u]y₁ = 6.341[/u]
+6.321
+
+[u]x₂ = 13.851[/u]
+[u]x₁ = 12.454[/u]
+1.397
+
+[u]y₁ = 6.341[/u]
+[u]y₂ = 1.008[/u]
+5.333
+
+α₀ = 0.3
+β₀ = 10
+ε₀ = 0
+
+α₂ = 0.2
+β₂ = 100
+ε₂ = 0
+
+κ₀ = 0.409
+λ₀ = 0.243
+μ₀ = 0.779
+
+κ₁ = 0.445
+λ₁ = [del]1[/del] .183
+μ₁ = 0.300
+
+The mistake is found.
+λ₁ and μ₁ have
+to be doubled.
+
+Let us see about
+[u][S₀][/u] and [u][S₁][/u]
+
+[u][S₀][/u] = 0.022 [u][S₁][/u] = 0.186
+They are right
+unfortunately. It would
+save trouble if [del]any[/del] [ins][u][S₁][/u][/ins]
+had also half its true value.
+
+R₀ = 13.3
+
+[u]R₀[/u] = 0.977
+R₁
+
+[u]x₁ - x₀[/u] = 0.879
+R₀
+
+[u]y₁ - y₀[/u] = 0.472
+R₀
+
+[u](x₁ - x₀)(y₁ - y₀)[/u] = 0.415
+[u]R₀[/u]
+
+R₁ = 5.51
+
+[u]R₁[/u] = 0.907
+R₁
+
+0.93
+.186
+
+[u]x₂ - x₁[/u] = 0.254
+R₁
+
+[u]y₁ - y₂[/u] = 0.968
+R₁
+
+[u](x₂ - x₁)(y₁ - y₂)[/u] = 0.246
+[u]R₁[/u]
+
+[u]R₁[/u] [u](x₂ - x₁)(y₁ - y₂)[/u] = 0.223
+R₁ [u]R₁[/u]
+
+[u]x₁ - x₀[/u] = 0.773
+R₀
+
+[u]R₁[/u] [u]x₁ - x₀[/u] = 0.755
+R₀ [u]R₀[/u]
+
+[u]y₁ - y₀[/u] = 0.223
+R₀
+
+[u]R₁[/u] [u]y₁ - y₀[/u] = 0.218
+R₀ [u]R₀[/u]
+
+[u]x₂ - x₁[/u] = 0.0645
+R₁
+
+[u]R₁[/u] [u]x₂ - x₁[/u] = 0.0585
+R₁ [u]R₁[/u]
+9415
+
+[u]y₁ - y₂[/u] = 0.937
+R₁
+
+[u]R₁[/u] [u]y₁ - y₂[/u] = 0.850
+R₁ [u]R₁[/u]
+150

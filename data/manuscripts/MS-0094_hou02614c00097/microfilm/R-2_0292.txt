@@ -1,0 +1,26 @@
+[pn]283[/pn]
+
+and the eighth ray cuts [u]p[/u] = {AC} in
+[ [u]q[/u] A + [u]1-q[/u] C ],
+and cuts [u]r[/u] = {BD} in
+[ [u]q[/u] B + [u]1-q[/u] D ].
+The general point of the seventh ray is got by varying [u]x[/u] in
+the syzygy
+[ [u]x p[/u] A + [u]x.1-p[/u] B + [u]1-x[/u].[u]p[/u] C + [u]1-x[/u].[u]1-p[/u].D ]
+The general point of the eighth ray is got by varying [u]y[/u] in the
+syzygy
+[ [u]q y[/u] A + [u]q.1-y[/u] B + [u]1-q[/u].[u]y[/u] C + [u]1-q[/u].[u]1-y[/u].D ].
+If we put [u]x[/u] = [u]q[/u] and [u]y[/u] = [u]p[/u], we get for a point on both rays
+[ [u]q p[/u]A + [u]q.1-p[/u] B + [u]1-q[/u].[u]p[/u] C + [u]1-q[/u].[u]1-p[/u].D ].
+Thus the seventh and eighth rays have a point in common.
+
+§143. [u]Theorem 27[/u]. Every phimus has two sets of generators.
+[u]Demonstration[/u]. Let [u]i[/u], [u]j[/u], [u]k[/u] be the three fixed rays which every
+generator of the phimus intersects. Let [u]p[/u], [u]q[/u], [u]r[/u] be three generators [ins]of it[/ins].
+Then there is a phimus through these generators, of which [u]i[/u], [u]j[/u], [u]k[/u] are
+generators. Let [u]l[/u] be an other generator of it and [u]s[/u] any gene-
+rator of the first phimus. Then [u]l[/u] and [u]s[/u] intersect. Thus, every
+generator of either is cut by a generator of the other. That is, all the
+phimi through three generators of the first phimus are identical.
+But the first phimus is itself such a phimus. Hence, there is no
+other through the three rays [u]i[/u], [u]j[/u], [u]k[/u]. This phimus has, therefore, two

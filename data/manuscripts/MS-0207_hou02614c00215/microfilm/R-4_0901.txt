@@ -1,0 +1,27 @@
+[pn]121[/pn]
+
+If [u]A[/u]/[u]B[/u] and [u]Y[/u]/[u]Z[/u] are, at one stage of the process of writing, adjacent, then the intermediate fractions up to another stage are shown in the following table, where every fraction belongs to a certain row and column, and where the centres of equal fractions are [del]collinear[/del] [ins]coradial[/ins] with one fixed point or origin, and the greater of two fractions is angularly further advanced round that origin. —
+
+[fig]Lines radiating from the top-left fraction A/B to other fractions in the table[/fig]
+
+$$\begin{array}{cccccccccc}
+& \frac{Y}{2Z} & \frac{Y}{3Z} & \frac{4Y}{4Z} & \frac{5Y}{5Z} & \frac{6Y}{6Z} & \frac{7Y}{7Z} & \frac{8Y}{8Z} & \frac{9Y}{9Z} \\
+\\
+\frac{A}{B} & \frac{A+Y}{B+Z} & \frac{A+2Y}{B+2Z} & \frac{A+3Y}{B+3Z} & \frac{A+4Y}{B+4Z} & \frac{A+5Y}{B+5Z} & \frac{A+6Y}{B+6Z} & \frac{A+7Y}{B+7Z} & \frac{A+8Y}{B+8Z} & \frac{A+9Y}{B+9Z} \\
+\\
+\frac{2A}{2B} & \frac{2A+Y}{2B+Z} & \frac{2A+2Y}{2B+2Z} & \frac{2A+3Y}{2B+3Z} & \frac{2A+4Y}{2B+4Z} & \frac{2A+5Y}{2B+5Z} & \frac{2A+6Y}{2B+6Z} & \frac{2A+7Y}{2B+7Z} & \frac{2A+8Y}{2B+8Z} & \frac{2A+9Y}{2B+9Z} \\
+\\
+\frac{3A}{3B} & \frac{3A+Y}{3B+Z} & \frac{3A+2Y}{3B+2Z} & \frac{3A+3Y}{3B+3Z} & \frac{3A+4Y}{3B+4Z} & \frac{3A+5Y}{3B+5Z} & \frac{3A+6Y}{3B+6Z} & \frac{3A+7Y}{3B+7Z} & \frac{3A+8Y}{3B+8Z} & \frac{3A+9Y}{3B+9Z} \\
+\\
+\frac{4A}{4B} & \frac{4A+Y}{4B+Z} & \frac{4A+2Y}{4B+2Z} & \frac{4A+3Y}{4B+3Z} & \frac{4A+4Y}{4B+4Z} & \frac{4A+5Y}{4B+5Z} & \frac{4A+6Y}{4B+6Z} & \frac{4A+7Y}{4B+7Z} & \frac{4A+8Y}{4B+8Z} & \frac{4A+9Y}{4B+9Z} \\
+\\
+\frac{5A}{5B} & \frac{5A+Y}{5B+Z} & \frac{5A+2Y}{5B+2Z} & \frac{5A+3Y}{5B+3Z} & \frac{5A+4Y}{5B+4Z} & \frac{5A+5Y}{5B+5Z} & \frac{5A+6Y}{5B+6Z} & \frac{5A+7Y}{5B+7Z} & \frac{5A+8Y}{5B+8Z} & \frac{5A+9Y}{5B+9Z} \\
+\\
+\frac{6A}{6B} & \frac{6A+Y}{6B+Z} & \frac{6A+2Y}{6B+2Z} & \frac{6A+3Y}{6B+3Z} & \frac{6A+4Y}{6B+4Z} & \frac{6A+5Y}{6B+5Z} & \frac{6A+6Y}{6B+6Z} & \frac{6A+7Y}{6B+7Z} & \frac{6A+8Y}{6B+8Z} & \frac{6A+9Y}{6B+9Z} \\
+\\
+\frac{7A}{7B} & \frac{7A+Y}{7B+Z} & \frac{7A+2Y}{7B+2Z} & \frac{7A+3Y}{7B+3Z} & \frac{7A+4Y}{7B+4Z} & \frac{7A+5Y}{7B+5Z} & \frac{7A+6Y}{7B+6Z} & \frac{7A+7Y}{7B+7Z} & \frac{7A+8Y}{7B+8Z} & \frac{7A+9Y}{7B+9Z} \\
+\\
+\frac{8A}{8B} & \frac{8A+Y}{8B+Z} & \frac{8A+2Y}{8B+2Z} & \frac{8A+3Y}{8B+3Z} & \frac{8A+4Y}{8B+4Z} & \frac{8A+5Y}{8B+5Z} & \frac{8A+6Y}{8B+6Z} & \frac{8A+7Y}{8B+7Z} & \frac{8A+8Y}{8B+8Z} & \frac{8A+9Y}{8B+9Z} \\
+\\
+\frac{9A}{9B} & \frac{9A+Y}{9B+Z} & \frac{9A+2Y}{9B+2Z} & \frac{9A+3Y}{9B+3Z} & \frac{9A+4Y}{9B+4Z} & \frac{9A+5Y}{9B+5Z} & \frac{9A+6Y}{9B+6Z} & \frac{9A+7Y}{9B+7Z} & \frac{9A+8Y}{9B+8Z} & \frac{9A+9Y}{9B+9Z}
+\end{array}$$

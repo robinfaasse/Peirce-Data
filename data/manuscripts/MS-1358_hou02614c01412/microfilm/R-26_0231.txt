@@ -1,0 +1,31 @@
+[marginalia]
+Meriam's Bridge [del]1893[/del] [ins]1895[/ins] March 2
+[/marginalia]
+
+[del]A[/del] [del]A[/del]
+[del]z =[/del] [ins]z =[/ins] B₀ + B₂x² + B₄x⁴ + B₆x⁶ + B₈x⁸ + B₁₀x¹⁰
+[del]D_z^2 =[/del] [ins]D_x^2 z =[/ins] 2B₂ + 12B₄x² + 30B₆x⁴ + 56B₈x⁶ + 90B₁₀x⁸ + 132B₁₂x¹⁰
+[del](a+cx^2)B_0 + (a+cx^2)B_2 + (a+cx^2)B_4[/del]
+aB₀ + aB₂ + aB₄ + aB₆ + aB₈ + aB₁₀
++ cB₀ + cB₂ + cB₄ + cB₆ + cB₈
+
+B₂ = - 1/2 a B₀
+B₄ = - 1/12 a B₂ - 1/12 c B₀
+= (+ 1/24 a² - 1/12 c) B₀
+
+B₆ = - 1/30 a B₄ - 1/30 c B₂
+= - 1/720 a³ + 1/360 ac
+[del]+ 1/60[/del]
+= - 1/720 a³ + 7/360 ac
+
+B₈ = - 1/56 a B₆ - 1/56 c B₄
+= + 1/40320 a⁴ - 14/40320 a²c
+- 1/1344 a²c + 1/672 c²
+= 1/40320 a⁴ - 44/40320 a²c + 1/672 c²
+
+B₁₀ = - 1/90 a B₈ - 1/90 c B₆
+= - 1/3628800 a⁵ + 44/3628800 a³c - 1/60480 ac²
++ 1/64800 a³c - 7/32400 ac²
+= - 1/3628800 a⁵ + 1/36288 a³c - 211/907200 ac²
+
+[fig]Mathematical calculations and long division scratchwork[/fig]

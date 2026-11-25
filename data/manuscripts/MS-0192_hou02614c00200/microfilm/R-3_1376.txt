@@ -1,0 +1,44 @@
+[pn]12[/pn]
+
+$$\alpha_7 - \frac{1}{2}\alpha_1^2\alpha_5 - \frac{1}{2}\alpha_1\alpha_3^2 + \frac{1}{4!}\alpha_1^4\alpha_3 - \frac{1}{7!}\alpha_1^7 = 0$$
+
+or $$\alpha_7 = \frac{1}{2}\frac{3^2}{5!} + \frac{1}{2}\frac{1}{(3!)^2} [del]-[/del] [ins]+[/ins] \frac{1}{4!}\frac{1}{3!} + \frac{1}{7!}$$
+
+$$= \frac{3^3\cdot 7 + [del]70[/del] [ins]7\cdot 5\cdot 4[/ins] - 35 + 1}{7!} = \frac{3^2 5^2}{7!}$$
+
+[marginalia]
+$$\begin{array}{r}
+27 \\
+10 \\
+\hline
+37 \\
+15 \\
+\hline
+32 \\
+7 \\
+\hline
+224 \\
+\frac{25}{249} \\
+\frac{25}{25}
+\end{array}$$
+[/marginalia]
+
+$$\alpha_9 - \frac{1}{2}\alpha_1^2\alpha_7 - [del]\alpha_1\alpha_3\alpha_5[/del] [ins]\alpha_1\alpha_3\alpha_5[/ins] - \frac{1}{6}\alpha_3^3 + \frac{1}{4!}\alpha_1^4\alpha_5 + \frac{1}{12}\alpha_1^3\alpha_3^2 - \frac{1}{9!}\alpha_1^9 = 0$$
+
+or $$\alpha_9 = \frac{1}{2}\frac{3^2\cdot 5^2}{7!} + \frac{1}{3!}\frac{3^2}{5!} + \frac{[del]1[/del]}{(3!)^3} [del]-[/del] [ins]+[/ins] \frac{1}{4!}\frac{3^2}{5!} [del]- \frac{1}{12}\frac{1}{(3!)^2}[/del] [ins]+ \frac{1}{12}\frac{1}{(3!)^2}[/ins] + \frac{1}{9!}$$
+
+$$= \frac{[del]436[/del] [ins]4[/ins]\cdot 3^2\cdot 5^2 + 56\cdot 9\cdot 3^2 + 8\cdot 7\cdot 5 - 9\cdot 14\cdot 3^2 - 3\cdot 8\cdot 7\cdot 5 + 1}{9!}$$
+
+$$= \frac{3^2\cdot 5^2\cdot 7^2}{9!}$$
+
+The law is evident. It is true that we have not demonstrated it. There might be an appearance of one law in the first terms which was only a special case of a more complicated law if further terms were examined. But without the differential calculus the demonstration, though not impossible, becomes so complicated that it must be dispensed with here. We have [del]them[/del] in fact as we here seem to have
+
+$$y = B + \frac{1^2}{3!} B^3 + \frac{1^2\cdot 3^2}{5!} B^5 + \frac{1^2\cdot 3^2\cdot 5^2}{7!} B^7 + \frac{1^2\cdot 3^2\cdot 5^2\cdot 7^2}{9!} B^9 + \text{etc.}$$
+
+where only the terms are written which have been proved to have these values. This may be otherwise written
+
+$$y = B + \frac{1}{2}\frac{B^3}{3} + \frac{1}{2}\frac{3}{4}\frac{B^5}{5} + \frac{1}{2}\frac{3}{4}\frac{5}{6}\frac{B^7}{7} + \frac{1}{2}\frac{3}{4}\frac{5}{6}\frac{7}{8}\frac{B^9}{9} + \text{etc.}$$
+
+We have now only to put $B = \frac{1}{2}$ and perform the numerical calculations to get the value of $H$. It gives $H = 0.52360$
+
+$6H$ is denoted by $\pi$ by most mathematicians, but by scholars of Benjamin Peirce by [del]the character[/del] $\partial$. This is called pi, circ, or [del]circ[/del] [ins]it[/ins]. It has been calculated to 700 places of decimals. Its first figures are $3.14159$
