@@ -168,8 +168,45 @@ def all_manuscripts():
     return rows
 
 
+def manuscript_pages():
+    """Per manuscript: its page files, Harvard scan link and catalogue
+    description, for docs/manuscript.html. The page files are read straight
+    from GitHub (raw.githubusercontent.com) at the commit that holds them."""
+    import subprocess
+    from clean_data import page_order
+    from data import DATA, load as load_data
+
+    root = os.path.join(HERE, "..", "..")
+    sha = subprocess.run(["git", "log", "-1", "--format=%H", "--", "data/manuscripts"],
+                         cwd=root, capture_output=True, text=True).stdout.strip()
+    with open(os.path.join(DATA, "collection_metadata.json"), encoding="utf-8") as f:
+        meta = json.load(f)
+    records = meta if isinstance(meta, list) else meta["records"]
+    by_id = {r["id"]: r for r in records}
+
+    df = load_data()
+    df = df[df["n_words"] > 0]
+    out = {}
+    for folder in df["folder"]:
+        rec = by_id.get(folder.split("_", 1)[-1], {})
+        iiif = (rec.get("instantiations") or {}).get("iiif") or {}
+        desc = next((d["text"] for d in rec.get("descriptions") or [] if d.get("text")), "")
+        entry = {"scan": iiif.get("digital_link") or iiif.get("viewer_uri") or None,
+                 "desc": desc, "full": rec.get("identifier_full")}
+        for source in ("iiif", "microfilm"):
+            d = os.path.join(DATA, "manuscripts", folder, source)
+            if os.path.isdir(d):
+                entry[source] = sorted((n for n in os.listdir(d) if n.endswith(".txt")), key=page_order)
+        out[folder] = entry
+    return {"raw_base": f"https://raw.githubusercontent.com/robinfaasse/Peirce-Data/{sha}/data/manuscripts/",
+            "tree_base": f"https://github.com/robinfaasse/Peirce-Data/tree/{sha}/data/manuscripts/",
+            "manuscripts": out}
+
+
 def main():
     os.makedirs(OUT, exist_ok=True)
+    with open(os.path.join(OUT, "pages.json"), "w", encoding="utf-8") as f:
+        json.dump(manuscript_pages(), f, ensure_ascii=False, separators=(",", ":"))
     with open(os.path.join(OUT, "manuscripts.json"), "w", encoding="utf-8") as f:
         json.dump(all_manuscripts(), f, ensure_ascii=False, separators=(",", ":"))
     with open(os.path.join(OUT, "dataset.json"), "w") as f:

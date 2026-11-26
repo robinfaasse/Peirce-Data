@@ -57,6 +57,8 @@
   }
   const hideTip = () => { if (tip) tip.style.display = "none"; };
 
+  const manuscriptUrl = (m) => "manuscript.html?id=" + encodeURIComponent(m.id);
+
   function describe(m) {
     const [p, lo, hi] = m.m[state.model];
     let s = `<b>${esc(m.title)}</b><br>${esc(m.id)} · ${esc(m.cat)} · ${fmt(m.words)} words`;
@@ -83,7 +85,15 @@
         if (d < bd) { bd = d; best = q; }
       }
       onHit(best);
-      if (best) showTip(describe(best.m), e); else hideTip();
+      svg.style.cursor = best ? "pointer" : "default";
+      current = best;
+      if (best) showTip(describe(best.m) + `<br><i>Click to open the manuscript</i>`, e); else hideTip();
+    });
+    // Click (or tap) a dot: open the manuscript page in a new tab.
+    let current = null;
+    svg.addEventListener("click", (e) => {
+      svg.dispatchEvent(new PointerEvent("pointermove", { clientX: e.clientX, clientY: e.clientY }));
+      if (current) window.open(manuscriptUrl(current.m), "_blank", "noopener");
     });
     svg.addEventListener("pointerleave", () => { onHit(null); hideTip(); });
   }
@@ -241,14 +251,14 @@
       <div class="ctl" style="margin:6px 0 8px"><span class="ctl-lab">Categories</span><div class="pills" id="all-split" role="radiogroup" aria-label="Timeline layout">
         <button type="button" role="radio" data-k="1" aria-checked="${state.split}">Each in its own row</button>
         <button type="button" role="radio" data-k="0" aria-checked="${!state.split}">All together</button></div></div>
-      <p class="lead">One dot per manuscript${state.split ? ", grouped by category" : ""}. Hover a dot for its title, category and range.
+      <p class="lead">One dot per manuscript${state.split ? ", grouped by category" : ""}. Hover a dot for its title, category and range; click it to open the manuscript.
       The undated estimates are pulled towards the 1890s, as in cross-validation.</p>${legend}<div id="all-tl">${tl.svg}</div></div>`;
     h += `<div class="block"><h2>Manuscripts per year</h2><p class="lead">Dated manuscripts by catalogue year, with the estimated years of the undated ones stacked on top.</p>
       <div class="legend"><span style="--c:var(--s1)">Dated</span><span style="--c:var(--s2)">Undated (estimated by ${esc(state.model)})</span></div>
       <div id="all-hist">${histogram(rows)}</div></div>`;
     h += `<div class="block"><h2>Map of the manuscripts</h2><p class="lead">t-SNE map of the text features (style + topics of the hybrid model): manuscripts that are close
       write in a similar style about similar subjects. Colour is the year; filled dots are dated, rings are undated (coloured by the estimate).
-      Clusters with one colour suggest the features carry date information.</p>
+      Clusters with one colour suggest the features carry date information. Click a dot to open the manuscript.</p>
       <div class="legend" style="align-items:center">≤${C0}<span class="ramp" style="${rampCss()}"></span>≥${C1}
       <span style="--c:var(--muted)">filled: dated</span><span style="--c:transparent;">○ ring: undated</span></div>
       <div id="all-map">${mp.svg}</div></div>`;
@@ -286,7 +296,7 @@
     let t = `<table><tr><th>Manuscript</th><th>Title</th><th>Category</th><th class="n">Year</th><th class="n">Range</th><th>Status</th></tr>`;
     for (const m of sorted) {
       const [lo, hi] = m.dated ? [m.date[1], m.date[2]] : [Math.floor(m.m[state.model][1]), Math.ceil(m.m[state.model][2])];
-      t += `<tr><td>${esc(m.id)}</td><td>${esc(m.title)}</td><td>${esc(m.cat)}</td><td class="n">${Math.round(year(m))}</td>
+      t += `<tr><td><a href="${manuscriptUrl(m)}" target="_blank" rel="noopener">${esc(m.id)}</a></td><td>${esc(m.title)}</td><td>${esc(m.cat)}</td><td class="n">${Math.round(year(m))}</td>
         <td class="n">${lo}-${hi}</td><td>${m.dated ? "dated" : "estimated"}</td></tr>`;
     }
     el.insertAdjacentHTML("beforeend", t + `</table>`);
