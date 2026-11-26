@@ -97,6 +97,22 @@ details th, details td { border-bottom: 1px solid var(--border); padding: 3px 12
 details td.n { text-align: right; }
 .tip { position: fixed; pointer-events: none; background: var(--text); color: var(--bg); font-size: .8rem; padding: 6px 9px;
   border-radius: 6px; white-space: nowrap; z-index: 10; display: none; }
+
+/* all manuscripts tab */
+.controls { display: flex; flex-direction: column; gap: 10px; background: var(--surface); border: 1px solid var(--border);
+  border-radius: 10px; padding: 14px 16px; margin-bottom: 20px; }
+.ctl { display: flex; gap: 10px; align-items: baseline; }
+.ctl-lab { color: var(--muted); font-size: .82rem; width: 76px; flex: none; }
+.pills { display: flex; gap: 6px; flex-wrap: wrap; }
+.pills button { border: 1px solid var(--border); background: transparent; color: var(--text); padding: 3px 11px;
+  border-radius: 999px; cursor: pointer; font: inherit; font-size: .82rem; }
+.pills button[aria-pressed="true"], .pills button[aria-checked="true"] { background: var(--accent); border-color: var(--accent); color: var(--surface); }
+.pills button .c { opacity: .7; margin-left: 4px; font-variant-numeric: tabular-nums; }
+@media (max-width: 560px) { .ctl { flex-direction: column; gap: 4px; } }
+svg.viz .dot { stroke: var(--surface); stroke-width: 1; }
+svg.viz .dot.hollow { fill: var(--surface) !important; stroke-width: 2; }
+svg.viz .hl { stroke: var(--text); stroke-width: 2; }
+.ramp { height: 10px; border-radius: 3px; width: 160px; display: inline-block; vertical-align: middle; margin: 0 6px; }
 </style>
 </head>
 <body>
@@ -104,6 +120,7 @@ details td.n { text-align: right; }
   <h1>Peirce manuscript dating</h1>
   <nav class="views" aria-label="Sections">
     <a href="#estimate" data-view="estimate" aria-current="page">Estimate a date</a>
+    <a href="#all" data-view="all">All manuscripts</a>
     <a href="#dataset" data-view="dataset">About the dataset</a>
   </nav>
 
@@ -145,6 +162,16 @@ details td.n { text-align: right; }
   <div id="result"></div>
   </section>
 
+  <section id="view-all" class="hidden">
+    <p class="sub">All 1,624 manuscripts by Peirce: dated ones at their catalogue date, undated ones at the model's estimate with its 80% range.</p>
+    <div class="controls">
+      <div class="ctl"><span class="ctl-lab">Model</span><div class="pills" id="all-model" role="radiogroup" aria-label="Model"></div></div>
+      <div class="ctl"><span class="ctl-lab">Show</span><div class="pills" id="all-which" role="radiogroup" aria-label="Which manuscripts"></div></div>
+      <div class="ctl ctl-wide"><span class="ctl-lab">Categories</span><div class="pills" id="all-cats" aria-label="Categories"></div></div>
+    </div>
+    <div id="all-body">Loading...</div>
+  </section>
+
   <section id="view-dataset" class="hidden" aria-live="polite">
     <p class="sub">Where the 914 training manuscripts come from, how the text was cleaned, and what the data look like.</p>
     <div id="dataset">Loading...</div>
@@ -160,6 +187,7 @@ details td.n { text-align: right; }
 
 <script src="engine.js"></script>
 <script src="dataset.js"></script>
+<script src="all.js"></script>
 <script>
 const state = { tab: "paste", files: [], folder: [] };
 const $ = (id) => document.getElementById(id);

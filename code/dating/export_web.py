@@ -113,8 +113,65 @@ def dataset_stats():
     }
 
 
+def all_manuscripts():
+    """Every Peirce manuscript with its catalogue date, the three models'
+    estimates and a 2D map of the features, for the All manuscripts tab.
+
+    Dated training manuscripts get their out-of-fold CV estimate (the model
+    never saw them); the others get the final models' estimate with CV+ 80%
+    range. The map is t-SNE on the hybrid model's features (style +
+    100 topics, standardised, reduced to 50 dimensions with PCA first)."""
+    from sklearn.decomposition import PCA
+    from sklearn.manifold import TSNE
+    from sklearn.preprocessing import StandardScaler
+
+    from data import load as load_data, model_input
+    from train_evaluate import predict as mapie_predict
+
+    df = load_data()
+    df = df[df["n_words"] > 0].reset_index(drop=True)
+    X = model_input(df)
+    oof = pd.read_csv(os.path.join(RESULTS, "cv_predictions.csv")).set_index("folder")
+
+    preds = {}
+    for name in ("tfidf_ridge", "style_gbm", "hybrid_gbm"):
+        mapie = joblib.load(os.path.join(MODEL_DIR, f"{name}.joblib"))
+        p = mapie_predict(mapie, X)
+        cols = {"pred": f"{name}_pred", "lo80": f"{name}_lo80", "hi80": f"{name}_hi80"}
+        for key, col in cols.items():
+            from_cv = df["folder"].map(oof[col]) if col in oof else None
+            values = p[key].to_numpy()
+            if from_cv is not None:
+                values = np.where(from_cv.notna(), from_cv, values)
+            preds[(name, key)] = values
+        print(f"predicted {name}")
+
+    hybrid = load("hybrid_gbm").estimator_.single_estimator_
+    Z = hybrid.named_steps["features"].transform(X)
+    Z = StandardScaler().fit_transform(Z)
+    Z = PCA(n_components=50, random_state=0).fit_transform(Z)
+    xy = TSNE(n_components=2, perplexity=30, init="pca", random_state=0).fit_transform(Z)
+
+    rows = []
+    for i, r in df.iterrows():
+        row = {
+            "id": r["folder"], "robin": str(r["robin"]), "title": str(r["title"]),
+            "cat": str(r["category"]).split(". ", 1)[-1], "words": int(r["n_words"]),
+            "src": r["source_used"], "dated": bool(r["has_date"]), "train": bool(r["train"]),
+            "xy": [round(float(xy[i, 0]), 2), round(float(xy[i, 1]), 2)],
+            "m": {name: [round(float(preds[(name, k)][i]), 1) for k in ("pred", "lo80", "hi80")]
+                  for name in ("tfidf_ridge", "style_gbm", "hybrid_gbm")},
+        }
+        if r["has_date"]:
+            row["date"] = [round(float(r["target"]), 1), int(r["date_low"]), int(r["date_high"])]
+        rows.append(row)
+    return rows
+
+
 def main():
     os.makedirs(OUT, exist_ok=True)
+    with open(os.path.join(OUT, "manuscripts.json"), "w", encoding="utf-8") as f:
+        json.dump(all_manuscripts(), f, ensure_ascii=False, separators=(",", ":"))
     with open(os.path.join(OUT, "dataset.json"), "w") as f:
         json.dump(dataset_stats(), f, indent=1)
     ridge_m, style_m, hybrid_m = load("tfidf_ridge"), load("style_gbm"), load("hybrid_gbm")

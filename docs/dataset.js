@@ -9,14 +9,16 @@
 
   // ------------------------------------------------------------ view switch
   function show(view) {
-    if (view !== "dataset") view = "estimate";
+    if (!["dataset", "all"].includes(view)) view = "estimate";
     document.querySelectorAll(".views a").forEach((a) => {
       if (a.dataset.view === view) a.setAttribute("aria-current", "page");
       else a.removeAttribute("aria-current");
     });
     $("view-estimate").classList.toggle("hidden", view !== "estimate");
     $("view-dataset").classList.toggle("hidden", view !== "dataset");
+    $("view-all").classList.toggle("hidden", view !== "all");
     if (view === "dataset") load();
+    if (view === "all" && window.PeirceAll) window.PeirceAll.show();
   }
   window.addEventListener("hashchange", () => show(location.hash.slice(1)));
   document.addEventListener("DOMContentLoaded", () => show(location.hash.slice(1)));
