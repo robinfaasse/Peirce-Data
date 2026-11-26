@@ -10,7 +10,7 @@
   const WHICH = { both: "Dated and undated", dated: "Dated only", undated: "Undated only" };
   const Y0 = 1850, Y1 = 1915;
 
-  const state = { model: "hybrid_gbm", which: "both", cats: null };
+  const state = { model: "hybrid_gbm", which: "both", cats: null, split: true };
   let data = null, cats = [], W = 760, lastKey = "";
 
   // ----------------------------------------------------------------- data
@@ -118,10 +118,15 @@
   function timeline(rows) {
     const left = W < 560 ? 92 : 150, right = 10, top = 6, axis = 24;
     const x = (v) => left + (v - Y0) / (Y1 - Y0) * (W - left - right);
-    const groups = cats.filter((c) => state.cats.has(c)).map((c) => ({ c, ms: rows.filter((m) => m.cat === c) }))
-      .filter((g) => g.ms.length);
+    // Per category: one row each. Together: all selected categories in one row.
+    const groups = state.split
+      ? cats.filter((c) => state.cats.has(c)).map((c) => ({ c, ms: rows.filter((m) => m.cat === c) })).filter((g) => g.ms.length)
+      : (rows.length ? [{ c: state.cats.size === cats.length ? "All" : `${state.cats.size} categor${state.cats.size === 1 ? "y" : "ies"}`, ms: rows }] : []);
     let y = top;
-    for (const g of groups) { g.h = Math.min(Math.max(g.ms.length * 0.4, 26), 150); g.y = y; y += g.h + 6; }
+    for (const g of groups) {
+      g.h = state.split ? Math.min(Math.max(g.ms.length * 0.4, 26), 150) : Math.min(Math.max(g.ms.length * 0.3, 60), 460);
+      g.y = y; y += g.h + 6;
+    }
     const H = y + axis;
     let s = `<svg class="viz" viewBox="0 0 ${W} ${H}" role="img" aria-label="Timeline of manuscripts">`;
     for (let t = 1850; t <= 1910; t += 10) {
@@ -219,7 +224,7 @@
 
   function render() {
     W = Math.max(300, Math.floor($("all-body").clientWidth - 42));
-    const key = [W, state.model, state.which, [...state.cats].join("|")].join("/");
+    const key = [W, state.model, state.which, state.split, [...state.cats].join("|")].join("/");
     if (key === lastKey) return;
     lastKey = key;
     const rows = visible();
@@ -232,7 +237,11 @@
       <div class="tile"><div class="num">${fmt(nd)}</div><div class="lab">dated</div></div>
       <div class="tile"><div class="num">${fmt(nu)}</div><div class="lab">undated, estimated by ${esc(state.model)}</div></div>
     </div>`;
-    h += `<div class="block"><h2>Timeline</h2><p class="lead">One dot per manuscript, grouped by category. Hover a dot for its title and range.
+    h += `<div class="block"><h2>Timeline</h2>
+      <div class="ctl" style="margin:6px 0 8px"><span class="ctl-lab">Categories</span><div class="pills" id="all-split" role="radiogroup" aria-label="Timeline layout">
+        <button type="button" role="radio" data-k="1" aria-checked="${state.split}">Each in its own row</button>
+        <button type="button" role="radio" data-k="0" aria-checked="${!state.split}">All together</button></div></div>
+      <p class="lead">One dot per manuscript${state.split ? ", grouped by category" : ""}. Hover a dot for its title, category and range.
       The undated estimates are pulled towards the 1890s, as in cross-validation.</p>${legend}<div id="all-tl">${tl.svg}</div></div>`;
     h += `<div class="block"><h2>Manuscripts per year</h2><p class="lead">Dated manuscripts by catalogue year, with the estimated years of the undated ones stacked on top.</p>
       <div class="legend"><span style="--c:var(--s1)">Dated</span><span style="--c:var(--s2)">Undated (estimated by ${esc(state.model)})</span></div>
@@ -245,6 +254,11 @@
       <div id="all-map">${mp.svg}</div></div>`;
     h += `<details class="block" id="all-table"><summary>Show the ${fmt(rows.length)} manuscripts as a table</summary></details>`;
     $("all-body").innerHTML = h;
+    $("all-split").querySelectorAll("button").forEach((b) => b.addEventListener("click", () => {
+      state.split = b.dataset.k === "1";
+      lastKey = "";
+      render();
+    }));
 
     wire($("all-tl").querySelector("svg"), tl.points, (q) => q && q.lo < q.hi - 1
       ? `<line x1="${q.lo}" x2="${q.hi}" y1="${q.y}" y2="${q.y}" class="hl"/><circle cx="${q.x}" cy="${q.y}" r="5" class="hl" style="fill:none"/>`
