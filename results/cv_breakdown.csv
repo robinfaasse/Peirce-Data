@@ -1,0 +1,49 @@
+by,group,n,model,MAE,coverage_80,width_80
+length,1000-5000,367,baseline_median,9.522,,
+length,1000-5000,367,hybrid_gbm,5.434,0.853,19.370
+length,1000-5000,367,style_gbm,6.477,0.845,21.444
+length,1000-5000,367,tfidf_ridge,5.773,0.853,20.090
+length,300-1000,190,baseline_median,9.878,,
+length,300-1000,190,hybrid_gbm,7.195,0.768,19.604
+length,300-1000,190,style_gbm,8.029,0.742,21.576
+length,300-1000,190,tfidf_ridge,7.717,0.689,20.258
+length,<300 words,59,baseline_median,12.083,,
+length,<300 words,59,hybrid_gbm,9.184,0.695,19.924
+length,<300 words,59,style_gbm,9.784,0.729,21.776
+length,<300 words,59,tfidf_ridge,10.115,0.542,20.304
+length,>5000,298,baseline_median,9.567,,
+length,>5000,298,hybrid_gbm,4.572,0.876,19.317
+length,>5000,298,style_gbm,5.201,0.866,21.055
+length,>5000,298,tfidf_ridge,5.048,0.856,19.836
+period,1850-1870,70,baseline_median,34.359,,
+period,1850-1870,70,hybrid_gbm,18.404,0.257,20.726
+period,1850-1870,70,style_gbm,19.211,0.243,22.738
+period,1850-1870,70,tfidf_ridge,17.859,0.171,20.367
+period,1871-1880,64,baseline_median,24.000,,
+period,1871-1880,64,hybrid_gbm,15.518,0.172,20.447
+period,1871-1880,64,style_gbm,16.260,0.188,22.596
+period,1871-1880,64,tfidf_ridge,13.451,0.281,20.370
+period,1881-1890,68,baseline_median,11.713,,
+period,1881-1890,68,hybrid_gbm,7.562,0.750,20.219
+period,1881-1890,68,style_gbm,7.843,0.794,22.107
+period,1881-1890,68,tfidf_ridge,5.616,0.853,20.279
+period,1891-1900,274,baseline_median,3.493,,
+period,1891-1900,274,hybrid_gbm,2.895,0.989,19.853
+period,1891-1900,274,style_gbm,3.404,0.971,21.817
+period,1891-1900,274,tfidf_ridge,2.510,0.989,20.270
+period,1901-1910,376,baseline_median,6.459,,
+period,1901-1910,376,hybrid_gbm,3.255,0.965,18.821
+period,1901-1910,376,style_gbm,4.471,0.952,20.707
+period,1901-1910,376,tfidf_ridge,5.100,0.904,19.865
+period,1911-1914,62,baseline_median,13.097,,
+period,1911-1914,62,hybrid_gbm,7.303,0.758,17.985
+period,1911-1914,62,style_gbm,8.018,0.726,19.739
+period,1911-1914,62,tfidf_ridge,9.485,0.516,19.346
+source,iiif,172,baseline_median,8.820,,
+source,iiif,172,hybrid_gbm,3.981,0.919,18.693
+source,iiif,172,style_gbm,4.961,0.919,20.621
+source,iiif,172,tfidf_ridge,5.067,0.878,19.612
+source,microfilm,742,baseline_median,9.997,,
+source,microfilm,742,hybrid_gbm,6.174,0.813,19.610
+source,microfilm,742,style_gbm,6.976,0.801,21.539
+source,microfilm,742,tfidf_ridge,6.489,0.782,20.159

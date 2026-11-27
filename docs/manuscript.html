@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Peirce Manuscript</title>
+<style>
+:root {
+  --bg: #f6f4ef; --surface: #ffffff; --text: #1f2328; --muted: #5f6670;
+  --border: #dcd8cf; --accent: #2a6f97; --accent-softer: #e6f0f6;
+  --err-bg: #fde4e1; --err-text: #8a1c12; --s1: #257de0; --s2: #f47230;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #15171a; --surface: #1e2125; --text: #e6e6e3; --muted: #9aa1a9;
+    --border: #33373d; --accent: #6fb3dc; --accent-softer: #22323d;
+    --err-bg: #3f1d1a; --err-text: #f3a59c; --s1: #338ced; --s2: #e76624;
+  }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text);
+  font: 16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { max-width: 860px; margin: 0 auto; padding: 24px 16px 64px; }
+a { color: var(--accent); }
+.back { font-size: .9rem; }
+h1 { font-size: 1.5rem; margin: 10px 0 2px; overflow-wrap: anywhere; }
+.meta { color: var(--muted); font-size: .9rem; margin-bottom: 16px; overflow-wrap: anywhere; }
+.panel { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 16px 18px; margin-bottom: 16px; }
+.panel h2 { font-size: 1rem; margin: 0 0 8px; }
+.dates { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 10px; }
+.date { border: 1px solid var(--border); border-radius: 8px; padding: 10px 12px; }
+.date .lab { color: var(--muted); font-size: .8rem; font-family: ui-monospace, Menlo, monospace; }
+.date .yr { font-size: 1.6rem; font-weight: 700; font-variant-numeric: tabular-nums; line-height: 1.2; }
+.date .rg { color: var(--muted); font-size: .85rem; font-variant-numeric: tabular-nums; }
+.date.cat { border-color: var(--s1); }
+.links { display: flex; gap: 10px; flex-wrap: wrap; }
+.links a { border: 1px solid var(--border); border-radius: 999px; padding: 4px 12px; text-decoration: none; font-size: .9rem; }
+.desc { font-size: .95rem; margin: 0; }
+.pills { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px; align-items: center; }
+.pills button { border: 1px solid var(--border); background: transparent; color: var(--text); padding: 3px 11px;
+  border-radius: 999px; cursor: pointer; font: inherit; font-size: .85rem; }
+.pills button[aria-checked="true"] { background: var(--accent); border-color: var(--accent); color: var(--surface); }
+.pills .sep { width: 12px; }
+.page { border-top: 1px solid var(--border); padding: 12px 0; }
+.page .pn { color: var(--muted); font-size: .8rem; margin-bottom: 4px; font-family: ui-monospace, Menlo, monospace; }
+.page pre { white-space: pre-wrap; overflow-wrap: anywhere; margin: 0; font: 15px/1.6 Georgia, "Times New Roman", serif; }
+.page .empty { color: var(--muted); font-style: italic; font-size: .9rem; }
+.more { margin-top: 12px; background: var(--accent); color: var(--surface); border: 0; border-radius: 8px; padding: 8px 18px; font: inherit; cursor: pointer; }
+.note { padding: 10px 14px; border-radius: 8px; font-size: .9rem; }
+.note.err { background: var(--err-bg); color: var(--err-text); }
+.status { color: var(--muted); font-size: .85rem; }
+</style>
+</head>
+<body>
+<main>
+  <a class="back" href="index.html#all">&larr; All manuscripts</a>
+  <div id="app"><p class="status">Loading...</p></div>
+</main>
+<script src="engine.js?v=202611261458"></script>
+<script>
+(async function () {
+  "use strict";
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  const fmt = (n) => n.toLocaleString("en-US");
+  const id = new URLSearchParams(location.search).get("id");
+  const PAGE_BATCH = 15;
+
+  let ms, pages;
+  try {
+    const [all, pg] = await Promise.all([fetch("model/manuscripts.json").then((r) => r.json()),
+                                         fetch("model/pages.json").then((r) => r.json())]);
+    ms = all.find((m) => m.id === id);
+    pages = pg;
+    if (!ms) throw new Error(`No manuscript "${id}"`);
+  } catch (err) {
+    $("app").innerHTML = `<div class="note err">${esc(err.message)}</div>`;
+    return;
+  }
+  const info = pages.manuscripts[id] || {};
+  document.title = `${ms.title} (${ms.id})`;
+
+  const est = (name) => {
+    const [p, lo, hi] = ms.m[name];
+    return `<div class="date"><div class="lab">${name}${ms.train ? " (cross-validated)" : ""}</div>
+      <div class="yr">${Math.round(p)}</div><div class="rg">80% range ${Math.floor(lo)}-${Math.ceil(hi)}</div></div>`;
+  };
+  const catDate = ms.dated
+    ? `<div class="date cat"><div class="lab">Catalogue date</div><div class="yr">${ms.date[1] === ms.date[2] ? ms.date[1] : ms.date[1] + "-" + ms.date[2]}</div>
+       <div class="rg">used as target: ${ms.date[0]}</div></div>`
+    : `<div class="date"><div class="lab">Catalogue date</div><div class="yr">undated</div><div class="rg">estimated by the models</div></div>`;
+
+  const sources = ["iiif", "microfilm"].filter((s) => info[s] && info[s].length);
+  let h = `<h1>${esc(ms.title)}</h1>
+    <div class="meta">${esc(info.full || ms.id)} · ${esc(ms.id)} · ${esc(ms.cat)} · ${fmt(ms.words)} words</div>
+    <div class="panel"><h2>Date</h2><div class="dates">${catDate}${est("hybrid_gbm")}${est("tfidf_ridge")}${est("style_gbm")}</div></div>
+    <div class="panel"><h2>Open elsewhere</h2><div class="links">
+      ${info.scan ? `<a href="${esc(info.scan)}" target="_blank" rel="noopener">Colour scans at Harvard (Houghton) &#8599;</a>` : ""}
+      <a href="${esc(pages.tree_base + ms.id)}" target="_blank" rel="noopener">Transcription files on GitHub &#8599;</a>
+    </div>${info.scan ? "" : `<p class="status" style="margin:8px 0 0">Houghton has no online colour scans for this manuscript; it exists on the 1966 microfilm.</p>`}</div>`;
+  if (info.desc) h += `<div class="panel"><h2>Catalogue description</h2><p class="desc">${esc(info.desc)}</p></div>`;
+  h += `<div class="panel"><h2>Transcription</h2>
+    <div class="pills" id="ctl">
+      ${sources.map((s) => `<button type="button" role="radio" data-src="${s}" aria-checked="false">${s === "iiif" ? "Colour scans" : "Microfilm"} (${info[s].length} pages)</button>`).join("")}
+      <span class="sep"></span>
+      <button type="button" role="radio" data-clean="1" aria-checked="true">Cleaned</button>
+      <button type="button" role="radio" data-clean="0" aria-checked="false">With tags</button>
+    </div>
+    <p class="status" style="margin:0 0 8px">Automatic transcription (Google Gemini), mostly not proofread. Cleaned = struck-through text and tags removed, as used by the models.</p>
+    <div id="pages"></div><div id="pages-more"></div></div>`;
+  $("app").innerHTML = h;
+
+  const state = { src: sources.includes(ms.src) ? ms.src : sources[0], clean: true, shown: 0, cache: {} };
+  const ctl = $("ctl");
+  function syncButtons() {
+    ctl.querySelectorAll("[data-src]").forEach((b) => b.setAttribute("aria-checked", b.dataset.src === state.src));
+    ctl.querySelectorAll("[data-clean]").forEach((b) => b.setAttribute("aria-checked", (b.dataset.clean === "1") === state.clean));
+  }
+  ctl.addEventListener("click", (e) => {
+    const b = e.target.closest("button");
+    if (!b) return;
+    if (b.dataset.src) state.src = b.dataset.src;
+    if (b.dataset.clean) state.clean = b.dataset.clean === "1";
+    syncButtons();
+    state.shown = 0;
+    $("pages").innerHTML = "";
+    more();
+  });
+
+  async function fetchPage(name) {
+    const key = state.src + "/" + name;
+    if (!(key in state.cache)) {
+      const res = await fetch(pages.raw_base + ms.id + "/" + key);
+      state.cache[key] = res.ok ? await res.text() : null;
+    }
+    return state.cache[key];
+  }
+
+  async function more() {
+    if (!state.src) { $("pages").innerHTML = `<p class="status">No transcription pages.</p>`; return; }
+    const list = info[state.src], from = state.shown, to = Math.min(list.length, from + PAGE_BATCH);
+    $("pages-more").innerHTML = `<p class="status">Loading pages ${from + 1}-${to} of ${list.length}...</p>`;
+    const src = state.src, clean = state.clean;
+    const texts = await Promise.all(list.slice(from, to).map(fetchPage));
+    if (src !== state.src || clean !== state.clean || state.shown !== from) return;   // switched meanwhile
+    $("pages").insertAdjacentHTML("beforeend", texts.map((t, i) => {
+      const text = t === null ? null : (clean ? PeirceEngine.cleanPage(t) : t.trim());
+      const body = text === null ? `<div class="empty">Could not load this page.</div>`
+        : text ? `<pre>${esc(text)}</pre>` : `<div class="empty">Blank page.</div>`;
+      return `<div class="page"><div class="pn">${esc(list[from + i])}</div>${body}</div>`;
+    }).join(""));
+    state.shown = to;
+    $("pages-more").innerHTML = to < list.length
+      ? `<button class="more" type="button">Show next ${Math.min(PAGE_BATCH, list.length - to)} pages (${list.length - to} left)</button>` : "";
+    const btn = $("pages-more").querySelector("button");
+    if (btn) btn.addEventListener("click", more);
+  }
+  syncButtons();
+  more();
+})();
+</script>
+</body>
+</html>

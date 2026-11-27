@@ -34,7 +34,17 @@ import pandas as pd
 
 # Folder that contains manuscripts/, index.csv and collection_metadata.json.
 # By default the data/ folder of this repository, so it works after git clone.
-FOLDER = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")
+# Also works with the layout Code/ + Data/peirce_transcriptions/ next to it.
+def _default_folder():
+    root = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
+    for candidate in ("data", os.path.join("Data", "peirce_transcriptions")):
+        path = os.path.normpath(os.path.join(root, candidate))
+        if os.path.exists(os.path.join(path, "index.csv")):
+            return path
+    return os.path.normpath(os.path.join(root, "data"))
+
+
+FOLDER = _default_folder()
 
 # Tags whose content is removed as well (step 2). Add "date" here if you do
 # not want the model to see dates Peirce wrote himself.

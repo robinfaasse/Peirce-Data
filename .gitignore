@@ -9,3 +9,6 @@ data/manuscripts_dataset.csv
 .DS_Store
 __pycache__/
 .ipynb_checkpoints/
+
+# Trained models (made by code/dating/train_evaluate.py, too large for git)
+models/
