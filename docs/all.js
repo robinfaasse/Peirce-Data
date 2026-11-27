@@ -10,7 +10,8 @@
   const WHICH = { both: "Dated and undated", dated: "Dated only", undated: "Undated only" };
   const Y0 = 1850, Y1 = 1915;
 
-  const state = { model: "hybrid_gbm", which: "both", cats: null, split: true };
+  const state = { model: "hybrid_gbm", which: "both", cats: null, split: true,
+                  tlDom: null, mapDom: null, tlMode: "zoom", mapMode: "zoom" };   // zoom domains (null = everything)
   let data = null, cats = [], W = 760, lastKey = "";
 
   // ----------------------------------------------------------------- data
@@ -92,6 +93,7 @@
     // Click (or tap) a dot: open the manuscript page in a new tab.
     let current = null;
     svg.addEventListener("click", (e) => {
+      if (svg.dataset.dragged) return;                 // end of a zoom/pan drag, not a click
       svg.dispatchEvent(new PointerEvent("pointermove", { clientX: e.clientX, clientY: e.clientY }));
       if (current) window.open(manuscriptUrl(current.m), "_blank", "noopener");
     });
@@ -125,9 +127,15 @@
   }
 
   // --------------------------------------------------------------- charts
+  function niceStep(span) {
+    for (const st of [1, 2, 5, 10, 20]) if (span / st <= (W < 560 ? 6 : 10)) return st;
+    return 20;
+  }
+
   function timeline(rows) {
     const left = W < 560 ? 92 : 150, right = 10, top = 6, axis = 24;
-    const x = (v) => left + (v - Y0) / (Y1 - Y0) * (W - left - right);
+    const [a, b] = state.tlDom || [Y0, Y1];
+    const x = (v) => left + (v - a) / (b - a) * (W - left - right);
     // Per category: one row each. Together: all selected categories in one row.
     const groups = state.split
       ? cats.filter((c) => state.cats.has(c)).map((c) => ({ c, ms: rows.filter((m) => m.cat === c) })).filter((g) => g.ms.length)
@@ -138,8 +146,10 @@
       g.y = y; y += g.h + 6;
     }
     const H = y + axis;
-    let s = `<svg class="viz" viewBox="0 0 ${W} ${H}" role="img" aria-label="Timeline of manuscripts">`;
-    for (let t = 1850; t <= 1910; t += 10) {
+    let s = `<svg class="viz" viewBox="0 0 ${W} ${H}" role="img" aria-label="Timeline of manuscripts">
+      <clipPath id="tl-clip"><rect x="${left}" y="0" width="${W - left - right}" height="${H}"/></clipPath>`;
+    const step = niceStep(b - a);
+    for (let t = Math.ceil(a / step) * step; t <= b; t += step) {
       s += `<line x1="${x(t)}" x2="${x(t)}" y1="${top}" y2="${H - axis}" style="stroke:var(--grid)"/>`;
       s += `<text x="${x(t)}" y="${H - 8}" text-anchor="middle">${t}</text>`;
     }
@@ -151,14 +161,17 @@
       s += `<line x1="${left}" x2="${W - right}" y1="${g.y + g.h + 3}" y2="${g.y + g.h + 3}" style="stroke:var(--grid)"/>`;
       for (const m of g.ms) {
         const py = g.y + 4 + jitter(m.id) * (g.h - 8), px = x(year(m)), [lo, hi] = range(m);
+        if (hi < a || lo > b) continue;                    // outside the zoomed window
         const col = m.dated ? "var(--s1)" : "var(--s2)";
         if (hi - lo > 1) lines += `<line x1="${x(lo)}" x2="${x(hi)}" y1="${py}" y2="${py}" style="stroke:${col}" stroke-opacity="${m.dated ? 0.5 : 0.18}" stroke-width="1"/>`;
+        if (px < left - 1 || px > W - right + 1) continue;
         dots += `<circle class="dot" cx="${px}" cy="${py}" r="3" style="fill:${col}"/>`;
-        points.push({ x: px, y: py, m, lo: x(lo), hi: x(hi) });
+        points.push({ x: px, y: py, m, lo: Math.max(x(lo), left), hi: Math.min(x(hi), W - right) });
       }
     }
-    s += lines + dots + `<g class="hlg"></g></svg>`;
-    return { svg: s, points };
+    s += `<g class="content"><g clip-path="url(#tl-clip)">${lines}</g>${dots}</g><g class="hlg"></g><g class="zoomg"></g></svg>`;
+    const plot = { x0: left, x1: W - right, y0: top, y1: H - axis };
+    return { svg: s, points, plot, toData: (px) => a + (px - left) / (W - left - right) * (b - a) };
   }
 
   function histogram(rows) {
@@ -201,23 +214,35 @@
 
   function map(rows) {
     const side = Math.min(W, 640), H = side, pad = 10;
-    const xs = data.map((m) => m.xy[0]), ys = data.map((m) => m.xy[1]);   // fixed frame: all manuscripts
-    const [x0, x1, y0, y1] = [Math.min(...xs), Math.max(...xs), Math.min(...ys), Math.max(...ys)];
-    const sx = (v) => (W - side) / 2 + pad + (v - x0) / (x1 - x0) * (side - 2 * pad);
+    const [x0, x1, y0, y1] = state.mapDom || mapExtent();
+    const ox = (W - side) / 2;
+    const sx = (v) => ox + pad + (v - x0) / (x1 - x0) * (side - 2 * pad);
     const sy = (v) => pad + (y1 - v) / (y1 - y0) * (H - 2 * pad);
     let s = `<svg class="viz" viewBox="0 0 ${W} ${H}" role="img" aria-label="Map of manuscripts by text features">`;
     s += `<rect x="${(W - side) / 2}" y="0" width="${side}" height="${H}" rx="8" style="fill:none;stroke:var(--grid)"/>`;
     const points = [];
+    s += `<clipPath id="map-clip"><rect x="${ox}" y="0" width="${side}" height="${H}" rx="8"/></clipPath><g clip-path="url(#map-clip)"><g class="content">`;
     // undated (rings) first, dated (filled) on top
     const sorted = rows.slice().sort((a, b) => a.dated - b.dated);
     for (const m of sorted) {
       const px = sx(m.xy[0]), py = sy(m.xy[1]), c = yearColor(year(m));
+      if (px < ox + 2 || px > ox + side - 2 || py < 2 || py > H - 2) continue;   // outside the zoomed window
       s += m.dated ? `<circle class="dot" cx="${px}" cy="${py}" r="3.5" style="fill:${c}"/>`
                    : `<circle cx="${px}" cy="${py}" r="3.2" style="fill:var(--surface);stroke:${c}" stroke-width="1.6"/>`;
       points.push({ x: px, y: py, m });
     }
-    s += `<g class="hlg"></g></svg>`;
-    return { svg: s, points };
+    s += `</g></g><g class="hlg"></g><g class="zoomg"></g></svg>`;
+    const plot = { x0: ox, x1: ox + side, y0: 0, y1: H };
+    const toData = (px, py) => [x0 + (px - ox - pad) / (side - 2 * pad) * (x1 - x0), y1 - (py - pad) / (H - 2 * pad) * (y1 - y0)];
+    return { svg: s, points, plot, toData };
+  }
+
+  // Square frame around all manuscripts (t-SNE axes have no units; keep them equal).
+  function mapExtent() {
+    const xs = data.map((m) => m.xy[0]), ys = data.map((m) => m.xy[1]);
+    const cx = (Math.min(...xs) + Math.max(...xs)) / 2, cy = (Math.min(...ys) + Math.max(...ys)) / 2;
+    const r = Math.max(Math.max(...xs) - Math.min(...xs), Math.max(...ys) - Math.min(...ys)) / 2;
+    return [cx - r, cx + r, cy - r, cy + r];
   }
 
   function rampCss() {
@@ -239,7 +264,7 @@
     lastKey = key;
     const rows = visible();
     const nd = rows.filter((m) => m.dated).length, nu = rows.length - nd;
-    const tl = timeline(rows), mp = map(rows);
+    currentRows = rows;
     const legend = `<div class="legend"><span style="--c:var(--s1)">Dated: catalogue date (line: source range)</span>
       <span style="--c:var(--s2)">Undated: ${esc(state.model)} estimate (line: 80% range)</span></div>`;
     let h = `<div class="tiles">
@@ -252,7 +277,7 @@
         <button type="button" role="radio" data-k="1" aria-checked="${state.split}">Each in its own row</button>
         <button type="button" role="radio" data-k="0" aria-checked="${!state.split}">All together</button></div></div>
       <p class="lead">One dot per manuscript${state.split ? ", grouped by category" : ""}. Hover a dot for its title, category and range; click it to open the manuscript.
-      The undated estimates are pulled towards the 1890s, as in cross-validation.</p>${legend}<div id="all-tl">${tl.svg}</div></div>`;
+      The undated estimates are pulled towards the 1890s, as in cross-validation.</p>${legend}${zoomBar("tl")}<div id="all-tl"></div></div>`;
     h += `<div class="block"><h2>Manuscripts per year</h2><p class="lead">Dated manuscripts by catalogue year, with the estimated years of the undated ones stacked on top.</p>
       <div class="legend"><span style="--c:var(--s1)">Dated</span><span style="--c:var(--s2)">Undated (estimated by ${esc(state.model)})</span></div>
       <div id="all-hist">${histogram(rows)}</div></div>`;
@@ -261,7 +286,7 @@
       Clusters with one colour suggest the features carry date information. Click a dot to open the manuscript.</p>
       <div class="legend" style="align-items:center">≤${C0}<span class="ramp" style="${rampCss()}"></span>≥${C1}
       <span style="--c:var(--muted)">filled: dated</span><span style="--c:transparent;">○ ring: undated</span></div>
-      <div id="all-map">${mp.svg}</div></div>`;
+      ${zoomBar("map")}<div id="all-map"></div></div>`;
     h += `<details class="block" id="all-table"><summary>Show the ${fmt(rows.length)} manuscripts as a table</summary></details>`;
     $("all-body").innerHTML = h;
     $("all-split").querySelectorAll("button").forEach((b) => b.addEventListener("click", () => {
@@ -270,12 +295,197 @@
       render();
     }));
 
-    wire($("all-tl").querySelector("svg"), tl.points, (q) => q && q.lo < q.hi - 1
-      ? `<line x1="${q.lo}" x2="${q.hi}" y1="${q.y}" y2="${q.y}" class="hl"/><circle cx="${q.x}" cy="${q.y}" r="5" class="hl" style="fill:none"/>`
-      : q ? `<circle cx="${q.x}" cy="${q.y}" r="5" class="hl" style="fill:none"/>` : "");
-    wire($("all-map").querySelector("svg"), mp.points, (q) => q ? `<circle cx="${q.x}" cy="${q.y}" r="6" class="hl" style="fill:none"/>` : "");
+    drawTl();
+    drawMap();
+    wireZoomBar("tl");
+    wireZoomBar("map");
     histTips($("all-hist").querySelector("svg"));
     $("all-table").addEventListener("toggle", (e) => { if (e.target.open) table(e.target, rows); }, { once: true });
+  }
+
+  // ----------------------------------------------------------------- zoom
+  // Timeline: zoom on the years (x). Map: zoom on both axes, kept square.
+  // Drag a box to zoom (or drag to pan in Pan mode), Ctrl/Cmd + scroll or the
+  // +/- buttons to zoom around a point, Reset to see everything again.
+  let currentRows = [];
+  const FULL_TL = [Y0, Y1];
+
+  function drawTl() {
+    const tl = timeline(currentRows);
+    $("all-tl").innerHTML = tl.svg;
+    const svg = $("all-tl").querySelector("svg");
+    wire(svg, tl.points, (q) => q && q.lo < q.hi - 1
+      ? `<line x1="${q.lo}" x2="${q.hi}" y1="${q.y}" y2="${q.y}" class="hl"/><circle cx="${q.x}" cy="${q.y}" r="5" class="hl" style="fill:none"/>`
+      : q ? `<circle cx="${q.x}" cy="${q.y}" r="5" class="hl" style="fill:none"/>` : "");
+    zoomable(svg, tl, "tl");
+    zoomLabel("tl");
+  }
+
+  function drawMap() {
+    const mp = map(currentRows);
+    $("all-map").innerHTML = mp.svg;
+    const svg = $("all-map").querySelector("svg");
+    wire(svg, mp.points, (q) => q ? `<circle cx="${q.x}" cy="${q.y}" r="6" class="hl" style="fill:none"/>` : "");
+    zoomable(svg, mp, "map");
+    zoomLabel("map");
+  }
+
+  function zoomBar(kind) {
+    const mode = kind === "tl" ? state.tlMode : state.mapMode;
+    return `<div class="zoombar" id="zb-${kind}">
+      <button type="button" data-z="in" aria-label="Zoom in">+</button>
+      <button type="button" data-z="out" aria-label="Zoom out">&minus;</button>
+      <button type="button" data-z="reset">Reset</button>
+      <span class="zsep"></span>
+      <span class="zlab">Drag to</span>
+      <div class="pills" role="radiogroup" aria-label="Drag mode">
+        <button type="button" role="radio" data-mode="zoom" aria-checked="${mode === "zoom"}">zoom to a box</button>
+        <button type="button" role="radio" data-mode="pan" aria-checked="${mode === "pan"}">pan</button>
+      </div>
+      <span class="zlab zhint">Ctrl/⌘ + scroll also zooms</span>
+      <span class="zlab zstate" id="zs-${kind}"></span>
+    </div>`;
+  }
+
+  function wireZoomBar(kind) {
+    const bar = $("zb-" + kind);
+    bar.addEventListener("click", (e) => {
+      const b = e.target.closest("button");
+      if (!b) return;
+      if (b.dataset.mode) {
+        state[kind + "Mode"] = b.dataset.mode;
+        bar.querySelectorAll("[data-mode]").forEach((x) => x.setAttribute("aria-checked", x.dataset.mode === b.dataset.mode));
+        return;
+      }
+      if (b.dataset.z === "reset") setDom(kind, null);
+      else zoomAround(kind, null, b.dataset.z === "in" ? 0.5 : 2);
+    });
+  }
+
+  function zoomLabel(kind) {
+    const el = $("zs-" + kind);
+    if (!el) return;
+    if (kind === "tl") {
+      const d = state.tlDom;
+      el.textContent = d ? `Showing ${Math.round(d[0])}–${Math.round(d[1])}` : "";
+    } else {
+      el.textContent = state.mapDom ? `Zoomed ${(fullSpan() / (state.mapDom[1] - state.mapDom[0])).toFixed(1)}×` : "";
+    }
+  }
+
+  const fullSpan = () => { const e = mapExtent(); return e[1] - e[0]; };
+
+  function setDom(kind, dom) {
+    if (kind === "tl") {
+      if (dom) {
+        let [a, b] = dom;
+        if (b - a < 2) { const c = (a + b) / 2; a = c - 1; b = c + 1; }
+        if (b - a >= Y1 - Y0) dom = null;
+        else {
+          if (a < Y0) { b += Y0 - a; a = Y0; }
+          if (b > Y1) { a -= b - Y1; b = Y1; }
+          dom = [a, b];
+        }
+      }
+      state.tlDom = dom;
+      drawTl();
+    } else {
+      if (dom) {
+        // keep the window square and at least 2% of the full map
+        const full = mapExtent(), fs = full[1] - full[0];
+        let cx = (dom[0] + dom[1]) / 2, cy = (dom[2] + dom[3]) / 2;
+        let r = Math.max(dom[1] - dom[0], dom[3] - dom[2], fs * 0.02) / 2;
+        if (2 * r >= fs) dom = null;
+        else {
+          cx = Math.min(Math.max(cx, full[0] + r), full[1] - r);
+          cy = Math.min(Math.max(cy, full[2] + r), full[3] - r);
+          dom = [cx - r, cx + r, cy - r, cy + r];
+        }
+      }
+      state.mapDom = dom;
+      drawMap();
+    }
+  }
+
+  // factor < 1 zooms in. center: data coordinate ([x] or [x, y]) or null for the middle.
+  function zoomAround(kind, center, factor) {
+    if (kind === "tl") {
+      const [a, b] = state.tlDom || FULL_TL;
+      const c = center ? center[0] : (a + b) / 2;
+      setDom("tl", [c - (c - a) * factor, c + (b - c) * factor]);
+    } else {
+      const [x0, x1, y0, y1] = state.mapDom || mapExtent();
+      const cx = center ? center[0] : (x0 + x1) / 2, cy = center ? center[1] : (y0 + y1) / 2;
+      setDom("map", [cx - (cx - x0) * factor, cx + (x1 - cx) * factor, cy - (cy - y0) * factor, cy + (y1 - cy) * factor]);
+    }
+  }
+
+  function zoomable(svg, chart, kind) {
+    const g = svg.querySelector(".zoomg"), content = svg.querySelector(".content"), P = chart.plot;
+    const pt = svg.createSVGPoint();
+    const toSvg = (e) => { pt.x = e.clientX; pt.y = e.clientY; return pt.matrixTransform(svg.getScreenCTM().inverse()); };
+    const inPlot = (p) => p.x >= P.x0 && p.x <= P.x1 && p.y >= P.y0 && p.y <= P.y1;
+    const clampX = (x) => Math.min(Math.max(x, P.x0), P.x1), clampY = (y) => Math.min(Math.max(y, P.y0), P.y1);
+    const data = (x, y) => (kind === "tl" ? [chart.toData(x)] : chart.toData(x, y));
+    let start = null, dragging = false;
+
+    svg.style.touchAction = "pan-y";
+    svg.addEventListener("pointerdown", (e) => {
+      if (e.button !== 0) return;
+      const p = toSvg(e);
+      if (!inPlot(p)) return;
+      start = p; dragging = false;
+      svg.setPointerCapture(e.pointerId);
+    });
+    svg.addEventListener("pointermove", (e) => {
+      if (!start) return;
+      const p = toSvg(e);
+      if (!dragging && Math.hypot(p.x - start.x, p.y - start.y) < 5) return;
+      dragging = true;
+      hideTip();
+      const mode = state[kind + "Mode"];
+      if (mode === "pan") {
+        const dx = p.x - start.x, dy = kind === "tl" ? 0 : p.y - start.y;
+        content.setAttribute("transform", `translate(${dx},${dy})`);
+      } else {
+        const x0 = clampX(Math.min(start.x, p.x)), x1 = clampX(Math.max(start.x, p.x));
+        const y0 = kind === "tl" ? P.y0 : clampY(Math.min(start.y, p.y)), y1 = kind === "tl" ? P.y1 : clampY(Math.max(start.y, p.y));
+        g.innerHTML = `<rect class="zbox" x="${x0}" y="${y0}" width="${x1 - x0}" height="${y1 - y0}"/>`;
+      }
+    });
+    const finish = (e) => {
+      if (!start) return;
+      const p = toSvg(e), s0 = start;
+      start = null;
+      if (!dragging) return;
+      svg.dataset.dragged = "1";
+      setTimeout(() => { delete svg.dataset.dragged; }, 0);
+      if (state[kind + "Mode"] === "pan") {
+        const a = data(s0.x, s0.y), b = data(p.x, p.y);
+        if (kind === "tl") {
+          const [d0, d1] = state.tlDom || FULL_TL, d = a[0] - b[0];
+          setDom("tl", [d0 + d, d1 + d]);
+        } else {
+          const [x0, x1, y0, y1] = state.mapDom || mapExtent(), dx = a[0] - b[0], dy = a[1] - b[1];
+          setDom("map", [x0 + dx, x1 + dx, y0 + dy, y1 + dy]);
+        }
+      } else {
+        g.innerHTML = "";
+        if (Math.abs(p.x - s0.x) < 6 && (kind === "tl" || Math.abs(p.y - s0.y) < 6)) return;
+        const a = data(clampX(Math.min(s0.x, p.x)), clampY(Math.max(s0.y, p.y)));
+        const b = data(clampX(Math.max(s0.x, p.x)), clampY(Math.min(s0.y, p.y)));
+        setDom(kind, kind === "tl" ? [a[0], b[0]] : [a[0], b[0], a[1], b[1]]);
+      }
+    };
+    svg.addEventListener("pointerup", finish);
+    svg.addEventListener("pointercancel", () => { start = null; g.innerHTML = ""; content.removeAttribute("transform"); });
+    svg.addEventListener("wheel", (e) => {
+      if (!(e.ctrlKey || e.metaKey)) return;           // plain scrolling keeps scrolling the page
+      const p = toSvg(e);
+      if (!inPlot(p)) return;
+      e.preventDefault();
+      zoomAround(kind, data(p.x, p.y), e.deltaY < 0 ? 0.8 : 1.25);
+    }, { passive: false });
   }
 
   function wire(svg, points, highlight) {

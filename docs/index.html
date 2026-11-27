@@ -113,6 +113,15 @@ svg.viz .dot { stroke: var(--surface); stroke-width: 1; }
 svg.viz .dot.hollow { fill: var(--surface) !important; stroke-width: 2; }
 svg.viz .hl { stroke: var(--text); stroke-width: 2; }
 .ramp { height: 10px; border-radius: 3px; width: 160px; display: inline-block; vertical-align: middle; margin: 0 6px; }
+
+.zoombar { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin: 4px 0 8px; font-size: .82rem; }
+.zoombar > button { border: 1px solid var(--border); background: transparent; color: var(--text); min-width: 30px; padding: 3px 10px;
+  border-radius: 6px; cursor: pointer; font: inherit; }
+.zoombar .zsep { width: 8px; }
+.zoombar .zlab { color: var(--muted); }
+.zoombar .zstate { margin-left: auto; color: var(--text); font-variant-numeric: tabular-nums; }
+@media (max-width: 560px) { .zoombar .zhint { display: none; } }
+svg.viz .zbox { fill: var(--accent); fill-opacity: .12; stroke: var(--accent); stroke-dasharray: 4 3; }
 </style>
 </head>
 <body>
@@ -185,9 +194,9 @@ svg.viz .hl { stroke: var(--text); stroke-width: 2; }
   </footer>
 </main>
 
-<script src="engine.js?v=202611261458"></script>
-<script src="dataset.js?v=202611261458"></script>
-<script src="all.js?v=202611261458"></script>
+<script src="engine.js?v=202611271009"></script>
+<script src="dataset.js?v=202611271009"></script>
+<script src="all.js?v=202611271009"></script>
 <script>
 const state = { tab: "paste", files: [], folder: [] };
 const $ = (id) => document.getElementById(id);
